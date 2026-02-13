@@ -1,17 +1,88 @@
 ---
 aliases:
-  - Dudelsack
-  - Bagpipe
+- a' phìob
+- baghèt
+- Bagpipe
+- bagpipes
+- begpaip
+- binioù
+- cimpoi
+- cornamusa
+- cornemuse
+- doedelsak
+- doedelzak
+- duda
+- Duddelsak
+- dude
+- Dudelsack
+- dudy
+- dūdas
+- dūdmaišis
+- ehuatlapitzalli
+- gaita
+- gaita de fole
+- gaita de foles
+- gaita de fuolhes
+- gajde
+- gajdy
+- gáita
+- kornamuzo
+- kèn túi
+- pibgod
+- pipsak
+- píb mhála
+- Sackpfeife
+- sakŝalmo
+- seahkkanjurggan
+- sekkepipe
+- siâkknjurggnjõs
+- supot na pipa
+- säckpipa
+- säkkipilli
+- sækkepibe
+- tas pipa
+- tibia utricularis
+- Toropill
+- torupill
+- tulup zurna
+- volinka
+- xirolarru
+- άσκαυλος
+- валынка
+- волинка
+- волынка
+- гајда
+- гајде
+- гайда
+- дуда
+- желбуаз
+- лалым уадындз
+- сорнай
+- шăпăр
+- шывыр
+- шӱвыр
+- חמת חלילים
+- مزمار القرب
+- مزمار القربة
+- نیانبان
+- बैगपाइप
+- મશક વાજું
+- แบ็กไพป์
+- გუდასტვირი
+- バグパイプ
+- 風笛
+- 风笛
+- 백파이프
 has_id_wikidata: Q8347
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of: '[[_Standards/WikiData/WD~double_reed_instrument,2152657]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~volynka,3659427]]'
 has_list: '[[_Standards/WikiData/WD~list_of_bagpipes,3780457]]'
@@ -37,8 +108,99 @@ IMDb_keyword: bagpipes
 subreddit: bagpipes
 Krugosvet_article: kultura_i_obrazovanie/muzyka/VOLINKA.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Angel%20playing%20bagpipes%2C%20St.%20Giles%2C%20Edinburgh.JPG
+dv_has_:
+  name_:
+    af: doedelsak
+    ar: مزمار القربة
+    arz: مزمار القرب
+    ast: gaita
+    be: валынка
+    be-tarask: дуда
+    bg: гайда
+    br: binioù
+    ca: cornamusa
+    crh: tulup zurna
+    cs: dudy
+    cv: шăпăр
+    cy: pibgod
+    da: sækkepibe
+    de: Sackpfeife
+    el: άσκαυλος
+    en: bagpipe
+    en-ca: bagpipes
+    en-gb: bagpipes
+    eo: sakŝalmo
+    es: gaita
+    et: torupill
+    eu: xirolarru
+    fa: نیانبان
+    fi: säkkipilli
+    fr: cornemuse
+    ga: píb mhála
+    gd: a' phìob
+    gl: gaita
+    gn: gáita
+    gu: મશક વાજું
+    he: חמת חלילים
+    hi: बैगपाइप
+    hr: gajde
+    hsb: dudy
+    hu: duda
+    ia: cornamusa
+    id: tas pipa
+    io: kornamuzo
+    it: cornamusa
+    ja: バグパイプ
+    ka: გუდასტვირი
+    kk: желбуаз
+    ko: 백파이프
+    ky: волынка
+    la: tibia utricularis
+    lb: Duddelsak
+    li: doedelzak
+    lmo: baghèt
+    lt: dūdmaišis
+    lv: dūdas
+    mhr: шӱвыр
+    mk: гајда
+    mrj: шывыр
+    ms: begpaip
+    mwl: gaita de fuolhes
+    nah: ehuatlapitzalli
+    nb: sekkepipe
+    nl: doedelzak
+    nn: sekkepipe
+    os: лалым уадындз
+    pl: dudy
+    pt: gaita de foles
+    pt-br: gaita de fole
+    ro: cimpoi
+    ru: волынка
+    sco: bagpipe
+    se: seahkkanjurggan
+    sh: gajde
+    sk: gajdy
+    sl: dude
+    smn: siâkknjurggnjõs
+    sr: гајде
+    sr-ec: гајде
+    sr-el: gajde
+    sv: säckpipa
+    tg: волинка
+    th: แบ็กไพป์
+    tl: supot na pipa
+    tt: сорнай
+    uk: волинка
+    uz: volinka
+    vi: kèn túi
+    vro: Toropill
+    wa: pipsak
+    wuu: 风笛
+    yue: 風笛
+    zh: 风笛
+    zh-hant: 風笛
+    zh-tw: 風笛
 ---
-
 # [[Bagpipe]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bagpipes,8347|WD~Bagpipes,8347]] 

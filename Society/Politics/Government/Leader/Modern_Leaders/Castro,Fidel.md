@@ -1,79 +1,128 @@
 ---
 aliases:
-  - Fidel Alejandro Castro Ruz
-  - Fidel Castro
-  - Castro,Fidel
+- Castro Fidel
+- Castro,Fidel
+- Fidel Alejandro Castro Ruz
+- Fidel Castaro
+- Fidel Castro
+- Fidel Castru
+- Fidel Kastro
+- Fidelis Castro
+- Fidelis Kastro
+- Fidels Kastro
+- Φιντέλ Κάστρο
+- Кастро, Фидель
+- Фідель Кастро
+- Фідэль Кастра
+- Фидел Кастро
+- Фидель Кастро
+- Ֆիդել Կաստրո
+- פידל קסטרו
+- פידעל קאסטרא
+- فيدل كاسترو
+- فِدیل کاسترٛو
+- فڈل کاسٹرو
+- فیدئل کاسترو
+- فیدل کاسترو
+- فیدڵ کاسترۆ
+- فیډل کاسټرو
+- ފިޑެލް ކާސްޓްރޯ
+- फिडेल कास्ट्रो
+- फिदेल कास्ट्रो
+- फिदेल कास्त्रो
+- ফিডেল কাষ্ট্ৰ'
+- ফিদেল কাস্ত্রো
+- ਫੀਦਲ ਕਾਸਤਰੋ
+- ફિડલ કાસ્ટ્રો
+- ଫିଡେଲ କାଷ୍ଟ୍ରୋ
+- பிடல் காஸ்ட்ரோ
+- ఫిడెల్ కాస్ట్రో
+- ಫಿಡೆಲ್ ಕ್ಯಾಸ್ಟ್ರೊ
+- ഫിദൽ കാസ്ട്രോ
+- ෆිඩෙල් කැස්ත්රෝ
+- ฟิเดล กัสโตร
+- ຟີເດ ຄາສໂຕຣ
+- ဖီဒယ်လ် ကက်စထရို
+- ფიდელ კასტრო
+- ፊዴል ካስትሮ
+- ᱯᱷᱤᱫᱮᱞ ᱠᱟᱥᱛᱨᱚ
+- フィデル・カストロ
+- 卡斯特羅
+- 菲德尔·卡斯特罗
+- 菲德爾·卡斯楚
+- 菲德爾·卡斯特羅
+- 피델 카스트로
 has_id_wikidata: Q11256
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Crown_of_the_Realm,94405]]'
-  - '[[_Standards/WikiData/WD~Hero_of_the_Soviet_Union,178473]]'
-  - '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
-  - "[[_Standards/WikiData/WD~Star_of_People's_Friendship,514976]]"
-  - '[[_Standards/WikiData/WD~Jubilee_Medal_Thirty_Years_of_Victory_in_the_Great_Patriotic_War_1941_1945_,613627]]'
-  - '[[_Standards/WikiData/WD~Order_of_Karl_Marx,694401]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_October_Revolution,728960]]'
-  - '[[_Standards/WikiData/WD~Order_of_Belize,1093622]]'
-  - '[[_Standards/WikiData/WD~Confucius_Peace_Prize,1192712]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,1714745]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Nile,1783222]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Quetzal,1857021]]'
-  - '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
-  - '[[_Standards/WikiData/WD~Order_of_Georgi_Dimitrov,2028781]]'
-  - '[[_Standards/WikiData/WD~Order_of_Jamaica,2029246]]'
-  - '[[_Standards/WikiData/WD~Order_of_Timor_Leste,2086962]]'
-  - '[[_Standards/WikiData/WD~Order_of_Hồ_Chí_Minh,2390786]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
-  - '[[_Standards/WikiData/WD~Order_of_Klement_Gottwald,2660844]]'
-  - '[[_Standards/WikiData/WD~Star_of_the_Socialist_Republic_of_Romania,4335924]]'
-  - '[[_Standards/WikiData/WD~Bintang_Mahaputera_Adipurna,12476345]]'
-  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Mali,15280177]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
-  - '[[_Standards/WikiData/WD~Order_of_Agostinho_Neto,16141090]]'
-  - '[[_Standards/WikiData/WD~Order_of_Omar_Torrijos_Herrera,16141182]]'
-  - '[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]'
-  - '[[_Standards/WikiData/WD~Emblem_of_the_Republic,27921516]]'
-  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Aztec_Eagle,42312684]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Yugoslavian_Great_Star,63436645]]'
-  - '[[_Standards/WikiData/WD~Q109986273,109986273]]'
-  - '[[_Standards/WikiData/WD~Order_of_Eduardo_Mondlane,_1st_class,118545254]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_Duarte,_Sanchez_and_Mella,93869]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Crown_of_the_Realm,94405]]'
+- '[[_Standards/WikiData/WD~Hero_of_the_Soviet_Union,178473]]'
+- '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
+- "[[_Standards/WikiData/WD~Star_of_People's_Friendship,514976]]"
+- '[[_Standards/WikiData/WD~Jubilee_Medal_Thirty_Years_of_Victory_in_the_Great_Patriotic_War_1941_1945_,613627]]'
+- '[[_Standards/WikiData/WD~Order_of_Karl_Marx,694401]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
+- '[[_Standards/WikiData/WD~Order_of_the_October_Revolution,728960]]'
+- '[[_Standards/WikiData/WD~Order_of_Belize,1093622]]'
+- '[[_Standards/WikiData/WD~Confucius_Peace_Prize,1192712]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,1714745]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Nile,1783222]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Quetzal,1857021]]'
+- '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
+- '[[_Standards/WikiData/WD~Order_of_Georgi_Dimitrov,2028781]]'
+- '[[_Standards/WikiData/WD~Order_of_Jamaica,2029246]]'
+- '[[_Standards/WikiData/WD~Order_of_Timor_Leste,2086962]]'
+- '[[_Standards/WikiData/WD~Order_of_Hồ_Chí_Minh,2390786]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+- '[[_Standards/WikiData/WD~Order_of_Klement_Gottwald,2660844]]'
+- '[[_Standards/WikiData/WD~Star_of_the_Socialist_Republic_of_Romania,4335924]]'
+- '[[_Standards/WikiData/WD~Bintang_Mahaputera_Adipurna,12476345]]'
+- '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_National_Order_of_Mali,15280177]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
+- '[[_Standards/WikiData/WD~Order_of_Agostinho_Neto,16141090]]'
+- '[[_Standards/WikiData/WD~Order_of_Omar_Torrijos_Herrera,16141182]]'
+- '[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]'
+- '[[_Standards/WikiData/WD~Emblem_of_the_Republic,27921516]]'
+- '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Aztec_Eagle,42312684]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Yugoslavian_Great_Star,63436645]]'
+- '[[_Standards/WikiData/WD~Q109986273,109986273]]'
+- '[[_Standards/WikiData/WD~Order_of_Eduardo_Mondlane,_1st_class,118545254]]'
 BHCL_UUID: 7eaa7688-f214-43a5-9030-efd468d350fb
 birth_name: Fidel Alejandro Castro Ruz
 child:
-  - '[[_Standards/WikiData/WD~Alina_Fernández,1939343]]'
-  - '[[_Standards/WikiData/WD~Fidel_Ángel_Castro_Díaz_Balart,19917949]]'
-  - '[[_Standards/WikiData/WD~Jorge_Ángel_Castro,127325167]]'
-  - '[[_Standards/WikiData/WD~Fransiska_Pupo,127325239]]'
-  - '[[_Standards/WikiData/WD~Antonio_Castro_Soto_del_Vale,127325533]]'
-  - '[[_Standards/WikiData/WD~Alex_Castro_Soto,127326023]]'
-  - '[[_Standards/WikiData/WD~Alexis_Castro_Soto,127326108]]'
-  - '[[_Standards/WikiData/WD~Alejandro_Castro_Soto,127326341]]'
-  - '[[_Standards/WikiData/WD~Ángel_Castro_Soto,127326653]]'
+- '[[_Standards/WikiData/WD~Alina_Fernández,1939343]]'
+- '[[_Standards/WikiData/WD~Fidel_Ángel_Castro_Díaz_Balart,19917949]]'
+- '[[_Standards/WikiData/WD~Jorge_Ángel_Castro,127325167]]'
+- '[[_Standards/WikiData/WD~Fransiska_Pupo,127325239]]'
+- '[[_Standards/WikiData/WD~Antonio_Castro_Soto_del_Vale,127325533]]'
+- '[[_Standards/WikiData/WD~Alex_Castro_Soto,127326023]]'
+- '[[_Standards/WikiData/WD~Alexis_Castro_Soto,127326108]]'
+- '[[_Standards/WikiData/WD~Alejandro_Castro_Soto,127326341]]'
+- '[[_Standards/WikiData/WD~Ángel_Castro_Soto,127326653]]'
 Commons_category: Fidel Castro
 Commons_gallery: Fidel Castro
 country_of_citizenship: '[[_Standards/WikiData/WD~Cuba,241]]'
 date_of_birth: 1926-08-13T00:00:00Z
 date_of_death: 2016-11-25T00:00:00Z
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Havana,837320]]'
-  - '[[_Standards/WikiData/WD~Belen_Jesuit_Preparatory_School,2885763]]'
+- '[[_Standards/WikiData/WD~University_of_Havana,837320]]'
+- '[[_Standards/WikiData/WD~Belen_Jesuit_Preparatory_School,2885763]]'
 ethnic_group: '[[_Standards/WikiData/WD~Galicians,752526]]'
 family_name: '[[_Standards/WikiData/WD~Castro,1049855]]'
 father: '[[_Standards/WikiData/WD~Ángel_Castro_y_Arguíz,251556]]'
 field_of_work: '[[_Standards/WikiData/WD~politics,7163]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Alejandro,1707169]]'
-  - '[[_Standards/WikiData/WD~Fidel,9016816]]'
+- '[[_Standards/WikiData/WD~Alejandro,1707169]]'
+- '[[_Standards/WikiData/WD~Fidel,9016816]]'
 has_list: '[[_Standards/WikiData/WD~list_of_awards_and_honours_bestowed_upon_Fidel_Castro,6606478]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%20%28c.%201959%29%20%283x4%20cropped%29.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -82,62 +131,229 @@ Krugosvet_article: gosudarstvo-i-politika/kastro-rus-fidel
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
 Libris_URI: b8nqqjhv1p7knp8
 member_of:
-  - '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
-  - '[[_Standards/WikiData/WD~Party_of_the_Cuban_People_Orthodox,1525551]]'
+- '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
+- '[[_Standards/WikiData/WD~Party_of_the_Cuban_People_Orthodox,1525551]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
-  - '[[_Standards/WikiData/WD~Communist_Party_of_Cuba,371402]]'
-  - '[[_Standards/WikiData/WD~United_Party_of_the_Cuban_Socialist_Revolution,641854]]'
-  - '[[_Standards/WikiData/WD~Party_of_the_Cuban_People_Orthodox,1525551]]'
-  - '[[_Standards/WikiData/WD~Integrated_Revolutionary_Organizations,6052435]]'
+- '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
+- '[[_Standards/WikiData/WD~Communist_Party_of_Cuba,371402]]'
+- '[[_Standards/WikiData/WD~United_Party_of_the_Cuban_Socialist_Revolution,641854]]'
+- '[[_Standards/WikiData/WD~Party_of_the_Cuban_People_Orthodox,1525551]]'
+- '[[_Standards/WikiData/WD~Integrated_Revolutionary_Organizations,6052435]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~commandant,4995518]]'
 mother: '[[_Standards/WikiData/WD~Lina_Ruz_González,107526145]]'
 name_in_native_language: Fidel Alejandro Castro Ruz
 native_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 nickname:
-  - El caballo
-  - Líder Máximo
+- El caballo
+- Líder Máximo
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~partisan,212948]]'
-  - '[[_Standards/WikiData/WD~statesperson,372436]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
 P8189: 987007271775105171
 place_of_birth: '[[_Standards/WikiData/WD~Birán,865949]]'
 place_of_burial: '[[_Standards/WikiData/WD~Santa_Ifigenia_Cemetery,1053301]]'
 place_of_death: '[[_Standards/WikiData/WD~Havana,1563]]'
 political_ideology: '[[_Standards/WikiData/WD~Castroism,1049968]]'
 position_held:
-  - '[[_Standards/WikiData/WD~President_of_Cuba,1370482]]'
-  - '[[_Standards/WikiData/WD~First_Secretary_of_the_Communist_Party_of_Cuba,5453787]]'
-  - '[[_Standards/WikiData/WD~Prime_Minister_of_Cuba,6502015]]'
-  - '[[_Standards/WikiData/WD~Secretary_General_of_the_Non_Aligned_Movement,15647601]]'
+- '[[_Standards/WikiData/WD~President_of_Cuba,1370482]]'
+- '[[_Standards/WikiData/WD~First_Secretary_of_the_Communist_Party_of_Cuba,5453787]]'
+- '[[_Standards/WikiData/WD~Prime_Minister_of_Cuba,6502015]]'
+- '[[_Standards/WikiData/WD~Secretary_General_of_the_Non_Aligned_Movement,15647601]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Fidel%20Castro.ogg
 religion_or_worldview: '[[_Standards/WikiData/WD~agnosticism,288928]]'
 residence: '[[_Standards/WikiData/WD~Santiago_de_Cuba,117040]]'
 RIA_Novosti_reference:
-  - 45112143
-  - 52112592
+- 45112143
+- 52112592
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Ruz,27924642]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Ramón_Castro_Ruz,360346]]'
-  - '[[_Standards/WikiData/WD~Juanita_Castro,3041532]]'
-  - '[[_Standards/WikiData/WD~Emma_Castro,59179402]]'
-  - '[[_Standards/WikiData/WD~Lidia_Castro_Argota,66486307]]'
-  - '[[_Standards/WikiData/WD~Raúl_Castro,46809]]'
+- '[[_Standards/WikiData/WD~Ramón_Castro_Ruz,360346]]'
+- '[[_Standards/WikiData/WD~Juanita_Castro,3041532]]'
+- '[[_Standards/WikiData/WD~Emma_Castro,59179402]]'
+- '[[_Standards/WikiData/WD~Lidia_Castro_Argota,66486307]]'
+- '[[_Standards/WikiData/WD~Raúl_Castro,46809]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%20Signature.svg
 spouse: '[[_Standards/WikiData/WD~Dalia_Soto_del_Valle,27649090]]'
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/4577648
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Évelyne_Pisier,3592790]]'
-  - '[[_Standards/WikiData/WD~Natalia_Revuelta_Clews,19516418]]'
-  - '[[_Standards/WikiData/WD~Dalia_Soto_del_Valle,27649090]]'
+- '[[_Standards/WikiData/WD~Évelyne_Pisier,3592790]]'
+- '[[_Standards/WikiData/WD~Natalia_Revuelta_Clews,19516418]]'
+- '[[_Standards/WikiData/WD~Dalia_Soto_del_Valle,27649090]]'
 U_S_National_Archives_Identifier: 10580250
+dv_has_:
+  name_:
+    ab: Кастро, Фидель
+    af: Fidel Castro
+    am: ፊዴል ካስትሮ
+    an: Fidel Castro
+    ang: Fidel Castro
+    ar: فيدل كاسترو
+    arz: فيدل كاسترو
+    as: ফিডেল কাষ্ট্ৰ'
+    ast: Fidel Castro
+    ay: Fidel Castro
+    az: Fidel Kastro
+    azb: فیدل کاسترو
+    ba: Фидель Кастро
+    bar: Fidel Castro
+    bcl: Fidel Castro
+    be: Фідэль Кастра
+    be-tarask: Фідэль Кастра
+    bg: Фидел Кастро
+    bn: ফিদেল কাস্ত্রো
+    br: Fidel Castro
+    bs: Fidel Castro
+    ca: Fidel Castro
+    ceb: Fidel Castro
+    ckb: فیدڵ کاسترۆ
+    cs: Fidel Castro
+    cv: Фидель Кастро
+    cy: Fidel Castro
+    da: Fidel Castro
+    de: Fidel Castro
+    diq: Fidel Castro
+    dsb: Fidel Castro
+    dv: ފިޑެލް ކާސްޓްރޯ
+    el: Φιντέλ Κάστρο
+    en: Fidel Castro
+    en-ca: Fidel Castro
+    en-gb: Fidel Castro
+    eo: Fidel Castro
+    es: Fidel Castro
+    et: Fidel Castro
+    eu: Fidel Castro
+    ext: Fidel Castro
+    fa: فیدل کاسترو
+    fi: Fidel Castro
+    fj: Fidel Castro
+    fo: Fidel Castro
+    fr: Fidel Castro
+    fur: Fidel Castro
+    fy: Fidel Castro
+    ga: Fidel Castro
+    gd: Fidel Castro
+    gl: Fidel Castro
+    gom: Fidel Castro
+    gu: ફિડલ કાસ્ટ્રો
+    gv: Fidel Castro
+    he: פידל קסטרו
+    hi: फिदेल कास्त्रो
+    hr: Fidel Castro
+    hsb: Fidel Castro
+    ht: Fidel Castro
+    hu: Fidel Castro
+    hy: Ֆիդել Կաստրո
+    id: Fidel Castro
+    ilo: Fidel Castro
+    io: Fidel Castro
+    is: Fidel Castro
+    it: Fidel Castro
+    ja: フィデル・カストロ
+    jv: Fidel Castro
+    ka: ფიდელ კასტრო
+    kk: Фидел Кастро
+    kn: ಫಿಡೆಲ್ ಕ್ಯಾಸ್ಟ್ರೊ
+    ko: 피델 카스트로
+    ks: فِدیل کاسترٛو
+    ku: Fidel Castro
+    ky: Фидель Кастро
+    la: Fidelis Castro
+    lad: Fidel Castro
+    lb: Fidel Castro
+    li: Fidel Castro
+    lmo: Fidel Castro
+    ln: Fidel Castro
+    lo: ຟີເດ ຄາສໂຕຣ
+    lrc: فیدئل کاسترو
+    lt: Fidelis Kastro
+    lv: Fidels Kastro
+    lzh: 菲德爾·卡斯特羅
+    mai: फिडेल कास्ट्रो
+    mg: Fidel Castro
+    mk: Фидел Кастро
+    ml: ഫിദൽ കാസ്ട്രോ
+    mn: Фидель Кастро
+    mr: फिदेल कास्त्रो
+    ms: Fidel Castro
+    mt: Fidel Castro
+    mul: Fidel Castro
+    mwl: Fidel Castro
+    my: ဖီဒယ်လ် ကက်စထရို
+    mzn: فیدل کاسترو
+    nah: Fidel Castro
+    nan: Fidel Castro
+    nb: Fidel Castro
+    ne: फिडेल कास्ट्रो
+    new: फिदेल कास्ट्रो
+    nl: Fidel Castro
+    nn: Fidel Castro
+    oc: Fidel Castro
+    or: ଫିଡେଲ କାଷ୍ଟ୍ରୋ
+    os: Фидель Кастро
+    pa: ਫੀਦਲ ਕਾਸਤਰੋ
+    pap: Fidel Castro
+    pl: Fidel Castro
+    pms: Fidel Castro
+    pnb: فڈل کاسٹرو
+    ps: فیډل کاسټرو
+    pt: Fidel Castro
+    pt-br: Fidel Castro
+    qu: Fidel Castro
+    ro: Fidel Castro
+    ru: Фидель Кастро
+    sa: फिदेल कास्ट्रो
+    sat: ᱯᱷᱤᱫᱮᱞ ᱠᱟᱥᱛᱨᱚ
+    sc: Fidel Castro
+    scn: Fidel Castru
+    sco: Fidel Castro
+    sgs: Fidel Castro
+    sh: Fidel Castro
+    si: ෆිඩෙල් කැස්ත්රෝ
+    sk: Fidel Castro
+    sl: Fidel Castro
+    so: Fidel Castaro
+    sq: Fidel Castro
+    sr: Фидел Кастро
+    sr-ec: Фидел Кастро
+    sr-el: Fidel Kastro
+    stq: Fidel Castro
+    su: Fidel Castro
+    sv: Fidel Castro
+    sw: Fidel Castro
+    szl: Fidel Castro
+    ta: பிடல் காஸ்ட்ரோ
+    te: ఫిడెల్ కాస్ట్రో
+    tg: Фидел Кастро
+    th: ฟิเดล กัสโตร
+    tl: Fidel Castro
+    tly: Fidel Kastro
+    tr: Fidel Castro
+    tt: Фидель Кастро
+    uk: Фідель Кастро
+    ur: فیدل کاسترو
+    uz: Fidel Castro
+    vec: Fidel Castro
+    vi: Fidel Castro
+    vo: Fidel Castro
+    vro: Castro Fidel
+    wa: Fidel Castro
+    war: Fidel Castro
+    wuu: 菲德尔·卡斯特罗
+    xmf: ფიდელ კასტრო
+    yi: פידעל קאסטרא
+    yo: Fidel Castro
+    yue: 卡斯特羅
+    zea: Fidel Castro
+    zh: 菲德尔·卡斯特罗
+    zh-hant: 菲德爾·卡斯特羅
+    zh-hk: 菲德爾·卡斯特羅
+    zh-tw: 菲德爾·卡斯楚
 ---
-
 # [[Castro,Fidel]] 
 
 #is_/same_as ::[[../../../../../WikiData/WD~Fidel_Castro,11256]]] 

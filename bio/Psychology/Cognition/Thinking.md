@@ -1,20 +1,148 @@
 ---
 aliases:
-  - Denken
-  - Thinking
+- ajattelu
+- akãngeta
+- Asekti
+- Chintnam
+- Cogitatio
+- Denga
+- denke
+- Denken
+- Dhyan
+- domāšana
+- Dubaaq
+- düşünce
+- Düşüncə
+- dūmuošona
+- Fieritreretana
+- Fikir
+- Fikira
+- Fıkri
+- gondolkodás
+- Gândire
+- Hugsun
+- machnamh
+- meddyliau
+- mendim
+- Mi anakanyo
+- mintis
+- Misao
+- mišljenje
+- myślenie
+- myšlení
+- myšlienka
+- mõtlemine
+- Māfaufau
+- Mėslinsėna
+- Nanuma
+- Nhondero
+- oylaw
+- pag-iisip
+- Pamuroboot
+- Panse
+- Pansé
+- panunot
+- pemikiran
+- pensada
+- pensado
+- Pensaeru
+- pensament
+- Pensamento
+- pensamiento
+- Pensamientu
+- Penser
+- pensi
+- pensiero
+- Pensièr
+- Pensé
+- pensée
+- Pentsamendu
+- pikiran
+- pilin insa
+- Pinzeru
+- Preder
+- Pèkkèran
+- raman
+- seenken
+- Su-sióng
+- Swhsiengj
+- Taat
+- Tafakkur (psixologiya)
+- Tammunde
+- tanke
+- Thinking
+- thocht
+- thought
+- Tins
+- Tunani
+- tänkande
+- tænkning
+- tư duy
+- Uche onye
+- Yuyaychakuy
+- Σκέψη
+- малпан
+- мисао
+- мисла
+- Мислене
+- мислення
+- Мыслїня
+- мысленне
+- мысьленьне
+- мышление
+- Ойла яр
+- Ойлау
+- Ойлом
+- Санаа
+- уй
+- Ургъ
+- Фекерләү
+- фикркунӣ
+- Մտածողութիւն
+- մտածողություն
+- חשיבה
+- טראכטן
+- آند
+- اندیشیدن
+- تفكير
+- خیال
+- دۆشونجه
+- سوچ
+- ھزر
+- फ़िक्र
+- विचार
+- চিন্তা
+- ਸੋਚ
+- சிந்தித்தல்
+- ఆలోచన
+- ಚಿಂತನೆ
+- ചിന്ത
+- ความคิด
+- ຄວາມຄຶດ
+- စဉ်းစားခြင်း
+- აზროვნება
+- არზუანობა
+- ᏁᎵᏒ
+- គំនិត
+- 思想
+- 思維
+- 思维
+- 思考
+- 意
+- 생각
 has_id_wikidata: Q9420
 studied_by: '[[_Standards/WikiData/WD~cognitive_science,147638]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~thought,349047]]'
 subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
 has_part_s_: '[[_Standards/WikiData/WD~proprioception,1129066]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_thought,7112801]]'
 different_from: '[[_Standards/WikiData/WD~thinking_process,7784616]]'
 part_of:
-  - '[[_Standards/WikiData/WD~human_energy,20984829]]'
-  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~human_energy,20984829]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 Library_of_Congress_Classification: LB1590.3-LB1590.5
 Commons_category: Thinking
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-thought.ogg
@@ -22,8 +150,161 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Herkulaneischer%20Meis
 UMLS_CUI: C0039869
 MeSH_tree_code: F02.463.785
 Dewey_Decimal_Classification: 153.42
+dv_has_:
+  name_:
+    af: denke
+    an: Pensamiento
+    ar: تفكير
+    ary: تفكير
+    as: চিন্তা
+    ast: Pensamientu
+    av: Ургъ
+    az: Düşüncə
+    azb: دۆشونجه
+    ba: Фекерләү
+    bar: Denga
+    be: мысленне
+    be-tarask: мысьленьне
+    bg: Мислене
+    bn: চিন্তা
+    bs: misao
+    btm: Pikiran
+    ca: pensament
+    ce: Ойла яр
+    chr: ᏁᎵᏒ
+    ckb: ھزر
+    crh: Fikir
+    cs: myšlení
+    cy: meddyliau
+    da: tænkning
+    de: Denken
+    de-ch: Denken
+    diq: Fıkri
+    el: Σκέψη
+    en: thought
+    en-ca: Thought
+    en-gb: thought
+    eo: pensado
+    es: pensamiento
+    et: mõtlemine
+    eu: Pentsamendu
+    ext: Pensaeru
+    fa: اندیشیدن
+    ff: Tammunde
+    fi: ajattelu
+    fj: Nanuma
+    fr: pensée
+    frr: seenken
+    fy: Tins
+    ga: machnamh
+    gan: 思想
+    gcr: Pansé
+    gl: pensamento
+    gn: akãngeta
+    gom: Chintnam
+    gsw: Denken
+    ha: Tunani
+    he: חשיבה
+    hi: फ़िक्र
+    hif: Dhyan
+    hr: misao
+    ht: Panse
+    hu: gondolkodás
+    hy: մտածողություն
+    hyw: Մտածողութիւն
+    ia: Pensamento
+    id: pikiran
+    ig: Uche onye
+    ilo: panunot
+    is: Hugsun
+    it: pensiero
+    ja: 思考
+    jam: Taat
+    jbo: pensi
+    ka: აზროვნება
+    kaa: oylaw
+    kab: Asekti
+    kk: Ойлау
+    km: គំនិត
+    kn: ಚಿಂತನೆ
+    ko: 생각
+    ku: raman
+    kw: Preder
+    ky: Ойлом
+    la: Cogitatio
+    lb: Denken
+    lmo: Penser
+    lo: ຄວາມຄຶດ
+    lt: mintis
+    ltg: dūmuošona
+    lv: domāšana
+    lzh: 意
+    mad: Pèkkèran
+    mg: Fieritreretana
+    mk: мисла
+    ml: ചിന്ത
+    mr: विचार
+    ms: pemikiran
+    mwl: Pensamiento
+    my: စဉ်းစားခြင်း
+    nan: Su-sióng
+    nb: tanke
+    nds: Denken
+    new: विचार
+    nl: denken
+    nn: tanke
+    oc: pensada
+    pa: ਸੋਚ
+    pl: myślenie
+    pms: Pensé
+    pnb: سوچ
+    ps: آند
+    pt: pensamento
+    pt-br: Pensamento
+    qu: Yuyaychakuy
+    ro: Gândire
+    ru: мышление
+    rue: Мыслїня
+    sah: Санаа
+    scn: Pinzeru
+    sco: thocht
+    sgs: Mėslinsėna
+    sh: Misao
+    sk: myšlienka
+    sl: mišljenje
+    sm: Māfaufau
+    sn: Nhondero
+    so: Dubaaq
+    sq: mendim
+    sr: мисао
+    sv: tänkande
+    sw: Fikira
+    ta: சிந்தித்தல்
+    te: ఆలోచన
+    tg: фикркунӣ
+    th: ความคิด
+    tl: pag-iisip
+    tok: pilin insa
+    tr: düşünce
+    ts: Mi anakanyo
+    tt: уй
+    tt-cyrl: уй
+    udm: малпан
+    uk: мислення
+    ur: خیال
+    uz: Tafakkur (psixologiya)
+    vec: Pensièr
+    vi: tư duy
+    war: Pamuroboot
+    wuu: 思想
+    xmf: არზუანობა
+    yi: טראכטן
+    yue: 思維
+    za: Swhsiengj
+    zh: 思维
+    zh-hant: 思想
+    zh-tw: 思想
 ---
-
 # [[Thinking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thinking,9420|WD~Thinking,9420]]  

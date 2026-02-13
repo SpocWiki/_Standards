@@ -1,107 +1,167 @@
 ---
 aliases:
-  - Marcus Tullius Cicero
-  - Cicero
+- Cicearó
+- Cicero
+- Ciceron
+- Cicerone
+- Ciceroni
+- Cicerono
+- Cicerons
+- Ciceró
+- Cicerón
+- Ciciruni
+- Cicéron
+- Cyceron
+- Cícero
+- Cíceró
+- Kísẹ́rò
+- M. Tullis Cicero
+- Marc Tuli Ciceron
+- Marco Tullio Cicero
+- Marco Tullio Cicerone
+- Marcu Tulliu Cicerone
+- Marcus Tullius Cicero
+- Mark Tulij Ciceron
+- Markas Tulijus Ciceronas
+- Markus Tullius Sisero
+- Siseron Mark Tulli
+- Sitseron Mark Tulliy
+- Zizeron
+- Κικέρων
+- Μάρκος Τύλλιος Κικέρων
+- Кїкєрѡнъ
+- Марк Тулій Цыцэрон
+- Марк Туліюс Цыцэрон
+- Марк Туллий Цицерон
+- Марко Тулије Цицерон
+- Ціцерон
+- Цицерон
+- Կիկերոն
+- מרקוס טוליוס קיקרו
+- سائیسیرو
+- سيسرو
+- سیسرون
+- سیسرۆ
+- شيشرون
+- كيكيرو
+- रोमन तत्त्वगिन्यानी सिसेरो
+- सिसरो
+- सिसेरो
+- মাৰ্কাছ টুলিয়াছ চিচেৰো
+- সিসারো
+- ਸਿਸਰੋ
+- சிசெரோ
+- సిసెరో
+- സിസറോ
+- กิแกโร
+- ဆစ်ဆရို
+- ციცერონი
+- ኪኬሮ
+- ស៊ីសេរ៉ូ
+- マルクス・トゥッリウス・キケロ
+- 西塞罗
+- 西塞羅
+- 마르쿠스 툴리우스 키케로
 has_id_wikidata: Q1541
 field_of_work:
-  - '[[_Standards/WikiData/WD~rhetoric,81009]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~rhetoric,81009]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~jurist,185351]]'
-  - '[[_Standards/WikiData/WD~Ancient_Roman_priest,3409374]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~orator,12859263]]'
-  - '[[_Standards/WikiData/WD~political_theorist,15994177]]'
-  - '[[_Standards/WikiData/WD~Ancient_Roman_politician,97667506]]'
-  - '[[_Standards/WikiData/WD~ancient_Roman_military_personnel,98103687]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~lawyer,40348]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~Ancient_Roman_priest,3409374]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~orator,12859263]]'
+- '[[_Standards/WikiData/WD~political_theorist,15994177]]'
+- '[[_Standards/WikiData/WD~Ancient_Roman_politician,97667506]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_military_personnel,98103687]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_birth: '[[_Standards/WikiData/WD~Arpino,116440]]'
 social_classification:
-  - '[[_Standards/WikiData/WD~equites,122166]]'
-  - '[[_Standards/WikiData/WD~novus_homo,303593]]'
-  - '[[_Standards/WikiData/WD~noble,16744001]]'
+- '[[_Standards/WikiData/WD~equites,122166]]'
+- '[[_Standards/WikiData/WD~novus_homo,303593]]'
+- '[[_Standards/WikiData/WD~noble,16744001]]'
 place_of_death: '[[_Standards/WikiData/WD~Formia,128086]]'
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 position_held:
-  - '[[_Standards/WikiData/WD~praetor,172907]]'
-  - '[[_Standards/WikiData/WD~quaestor,189430]]'
-  - '[[_Standards/WikiData/WD~augur,215909]]'
-  - '[[_Standards/WikiData/WD~Roman_governor,1190123]]'
-  - '[[_Standards/WikiData/WD~plebeian_aedile,1836189]]'
-  - '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
-  - '[[_Standards/WikiData/WD~Roman_consul,40779]]'
+- '[[_Standards/WikiData/WD~praetor,172907]]'
+- '[[_Standards/WikiData/WD~quaestor,189430]]'
+- '[[_Standards/WikiData/WD~augur,215909]]'
+- '[[_Standards/WikiData/WD~Roman_governor,1190123]]'
+- '[[_Standards/WikiData/WD~plebeian_aedile,1836189]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+- '[[_Standards/WikiData/WD~Roman_consul,40779]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~exile,188863]]'
-  - '[[_Standards/WikiData/WD~proscription,723838]]'
-  - '[[_Standards/WikiData/WD~repatriation,1331684]]'
+- '[[_Standards/WikiData/WD~exile,188863]]'
+- '[[_Standards/WikiData/WD~proscription,723838]]'
+- '[[_Standards/WikiData/WD~repatriation,1331684]]'
 cause_of_death: '[[_Standards/WikiData/WD~decapitation,204933]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]'
-  - '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]'
+- '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~De_Oratore,246289]]'
-  - '[[_Standards/WikiData/WD~De_Inventione,324590]]'
-  - '[[_Standards/WikiData/WD~De_Natura_Deorum,370414]]'
-  - '[[_Standards/WikiData/WD~Philippicae,604091]]'
-  - '[[_Standards/WikiData/WD~De_re_publica,656161]]'
-  - '[[_Standards/WikiData/WD~Laelius_de_Amicitia,675210]]'
-  - '[[_Standards/WikiData/WD~Cato_Maior_de_Senectute,1051232]]'
-  - '[[_Standards/WikiData/WD~Catiline_Orations,1055008]]'
-  - '[[_Standards/WikiData/WD~De_fato,1180623]]'
-  - '[[_Standards/WikiData/WD~De_finibus_bonorum,1180629]]'
-  - '[[_Standards/WikiData/WD~De_legibus,1180701]]'
-  - '[[_Standards/WikiData/WD~De_Officiis,1180721]]'
-  - '[[_Standards/WikiData/WD~Tusculanae_Disputationes,1233156]]'
-  - '[[_Standards/WikiData/WD~Somnium_Scipionis,1242501]]'
-  - '[[_Standards/WikiData/WD~Topica,1340108]]'
-  - '[[_Standards/WikiData/WD~In_Verrem,1581567]]'
-  - '[[_Standards/WikiData/WD~Hortensius,1630211]]'
-  - '[[_Standards/WikiData/WD~Orator_ad_Brutum,2028309]]'
-  - '[[_Standards/WikiData/WD~De_Divinatione,2416205]]'
-  - '[[_Standards/WikiData/WD~Pro_Archia_Poeta,3922215]]'
-  - '[[_Standards/WikiData/WD~Paradoxa_Stoicorum,15839516]]'
+- '[[_Standards/WikiData/WD~De_Oratore,246289]]'
+- '[[_Standards/WikiData/WD~De_Inventione,324590]]'
+- '[[_Standards/WikiData/WD~De_Natura_Deorum,370414]]'
+- '[[_Standards/WikiData/WD~Philippicae,604091]]'
+- '[[_Standards/WikiData/WD~De_re_publica,656161]]'
+- '[[_Standards/WikiData/WD~Laelius_de_Amicitia,675210]]'
+- '[[_Standards/WikiData/WD~Cato_Maior_de_Senectute,1051232]]'
+- '[[_Standards/WikiData/WD~Catiline_Orations,1055008]]'
+- '[[_Standards/WikiData/WD~De_fato,1180623]]'
+- '[[_Standards/WikiData/WD~De_finibus_bonorum,1180629]]'
+- '[[_Standards/WikiData/WD~De_legibus,1180701]]'
+- '[[_Standards/WikiData/WD~De_Officiis,1180721]]'
+- '[[_Standards/WikiData/WD~Tusculanae_Disputationes,1233156]]'
+- '[[_Standards/WikiData/WD~Somnium_Scipionis,1242501]]'
+- '[[_Standards/WikiData/WD~Topica,1340108]]'
+- '[[_Standards/WikiData/WD~In_Verrem,1581567]]'
+- '[[_Standards/WikiData/WD~Hortensius,1630211]]'
+- '[[_Standards/WikiData/WD~Orator_ad_Brutum,2028309]]'
+- '[[_Standards/WikiData/WD~De_Divinatione,2416205]]'
+- '[[_Standards/WikiData/WD~Pro_Archia_Poeta,3922215]]'
+- '[[_Standards/WikiData/WD~Paradoxa_Stoicorum,15839516]]'
 child:
-  - '[[_Standards/WikiData/WD~Tullia,256316]]'
-  - '[[_Standards/WikiData/WD~Cicero_Minor,724735]]'
+- '[[_Standards/WikiData/WD~Tullia,256316]]'
+- '[[_Standards/WikiData/WD~Cicero_Minor,724735]]'
 sibling: '[[_Standards/WikiData/WD~Quintus_Tullius_Cicero,316054]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Antiochus_of_Ascalon,320042]]'
-  - '[[_Standards/WikiData/WD~Philo_of_Larissa,365110]]'
-  - '[[_Standards/WikiData/WD~Apollonius_Molon,462992]]'
-  - '[[_Standards/WikiData/WD~Lucius_Aelius_Stilo_Praeconinus,561367]]'
-  - '[[_Standards/WikiData/WD~Tyrannion_of_Amisus,695534]]'
+- '[[_Standards/WikiData/WD~Antiochus_of_Ascalon,320042]]'
+- '[[_Standards/WikiData/WD~Philo_of_Larissa,365110]]'
+- '[[_Standards/WikiData/WD~Apollonius_Molon,462992]]'
+- '[[_Standards/WikiData/WD~Lucius_Aelius_Stilo_Praeconinus,561367]]'
+- '[[_Standards/WikiData/WD~Tyrannion_of_Amisus,695534]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 student:
-  - '[[_Standards/WikiData/WD~Servius_Sulpicius_Rufus,435163]]'
-  - '[[_Standards/WikiData/WD~Trebatius_Testa,587621]]'
+- '[[_Standards/WikiData/WD~Servius_Sulpicius_Rufus,435163]]'
+- '[[_Standards/WikiData/WD~Trebatius_Testa,587621]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Terentia,435936]]'
-  - '[[_Standards/WikiData/WD~Publilia,11943302]]'
+- '[[_Standards/WikiData/WD~Terentia,435936]]'
+- '[[_Standards/WikiData/WD~Publilia,11943302]]'
 gens: '[[_Standards/WikiData/WD~Tullia_gens,598017]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Parallel_Lives,842337]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Q43388940,43388940]]'
-  - '[[_Standards/WikiData/WD~Q43389034,43389034]]'
-  - '[[_Standards/WikiData/WD~Q43389038,43389038]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Parallel_Lives,842337]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Q43388940,43388940]]'
+- '[[_Standards/WikiData/WD~Q43389034,43389034]]'
+- '[[_Standards/WikiData/WD~Q43389038,43389038]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 different_from: '[[_Standards/WikiData/WD~John_Cicero,_Elector_of_Brandenburg,702209]]'
 award_received: '[[_Standards/WikiData/WD~Pater_Patriae,928994]]'
 cognomen: '[[_Standards/WikiData/WD~Cicero,2446440]]'
@@ -119,8 +179,8 @@ depicted_by: '[[_Standards/WikiData/WD~Cicero_discovering_the_Tomb_of_Archimedes
 date_of_death: -0042-12-05T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 present_in_work: '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 Provenio_UUID: 7fd48652-ce18-43e7-93cc-def00d256b82
@@ -128,8 +188,8 @@ P8189: 987007259614705171
 Europeana_entity: agent/base/59788
 Regensburg_Classification: DD 5690
 Library_of_Congress_Classification:
-  - DG260.C5-59
-  - PA6278-PA6370
+- DG260.C5-59
+- PA6278-PA6370
 Wolfram_Language_entity_code: Entity["Concept", "Cicero::49p85"]
 Krugosvet_article: gumanitarnye_nauki/filosofiya/TSITSERON_MARK_TULLI.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/5945
@@ -147,8 +207,154 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Zizeronen%20etx
 ISNI: 0000000139322910
 NLC_authorities: 000069264
 Libris_URI: 1zcf88vk3gb8kvv
+dv_has_:
+  name_:
+    af: Cicero
+    am: Cicero
+    an: Cicerón
+    ar: شيشرون
+    ary: كيكيرو
+    arz: شيشرون
+    as: মাৰ্কাছ টুলিয়াছ চিচেৰো
+    ast: Cicerón
+    av: Цицерон
+    az: Siseron Mark Tulli
+    azb: سیسرون
+    ba: Цицерон
+    bcl: Cicero
+    be: Марк Тулій Цыцэрон
+    be-tarask: Марк Туліюс Цыцэрон
+    bg: Цицерон
+    bn: সিসারো
+    br: Cicero
+    bs: Ciceron
+    ca: Ciceró
+    ceb: Cicero
+    ckb: سیسرۆ
+    co: Marcu Tulliu Cicerone
+    cs: Marcus Tullius Cicero
+    cu: Кїкєрѡнъ
+    cv: Марк Туллий Цицерон
+    cy: Cicero
+    da: Marcus Tullius Cicero
+    de: Marcus Tullius Cicero
+    de-ch: Marcus Tullius Cicero
+    diq: Marcus Tullius Cicero
+    el: Μάρκος Τύλλιος Κικέρων
+    en: Cicero
+    en-ca: Cicero
+    en-gb: Cicero
+    eo: Cicerono
+    es: Cicerón
+    et: Cicero
+    eu: Zizeron
+    ext: Cicerón
+    fa: سیسرون
+    fi: Cicero
+    fr: Cicéron
+    fur: Marc Tuli Ciceron
+    fy: Markus Tullius Sisero
+    ga: Cicearó
+    gl: Cicerón
+    gom: रोमन तत्त्वगिन्यानी सिसेरो
+    grc: Κικέρων
+    gsw: M. Tullis Cicero
+    guw: Cicero
+    gv: Cicero
+    ha: Cicero
+    he: מרקוס טוליוס קיקרו
+    hi: सिसरो
+    hif: Cicero
+    hr: Ciceron
+    ht: Cicéron
+    hu: Marcus Tullius Cicero
+    hy: Կիկերոն
+    hyw: Կիկերոն
+    ia: Ciceron
+    id: Cicero
+    ie: Marcus Tullius Cicero
+    io: Marcus Tullius Cicero
+    is: Cíceró
+    it: Marco Tullio Cicerone
+    ja: マルクス・トゥッリウス・キケロ
+    jv: Cicero
+    ka: ციცერონი
+    kbp: Cicéron
+    kk: Цицерон
+    km: ស៊ីសេរ៉ូ
+    ko: 마르쿠스 툴리우스 키케로
+    ku: Cicero
+    kw: Cicero
+    ky: Цицерон
+    la: Marcus Tullius Cicero
+    lb: Marcus Tullius Cicero
+    lfn: Marco Tullio Cicero
+    li: Cicero
+    lt: Markas Tulijus Ciceronas
+    lv: Cicerons
+    lzh: 西塞羅
+    mad: Cicero
+    mg: Cicero
+    mk: Цицерон
+    ml: സിസറോ
+    mn: Марк Туллий Цицерон
+    mr: सिसेरो
+    mrj: Цицерон
+    ms: Cicero
+    my: ဆစ်ဆရို
+    nah: Ciceron
+    nan: Cicero
+    nb: Marcus Tullius Cicero
+    new: सिसेरो
+    nl: Marcus Tullius Cicero
+    nn: Cicero
+    oc: Ciceron
+    pa: ਸਿਸਰੋ
+    pam: Cicero
+    pl: Cyceron
+    pms: Ciceron
+    pnb: سائیسیرو
+    ps: سيسرو
+    pt: Cícero
+    pt-br: Cícero
+    qu: Marcus Tullius Cicero
+    ro: Cicero
+    ru: Марк Туллий Цицерон
+    scn: Ciciruni
+    sco: Cicero
+    sh: Ciceron
+    sk: Marcus Tullius Cicero
+    sl: Mark Tulij Ciceron
+    smn: Cicero
+    sq: Ciceroni
+    sr: Марко Тулије Цицерон
+    stq: Marcus Tullius Cicero
+    sv: Cicero
+    ta: சிசெரோ
+    te: సిసెరో
+    th: กิแกโร
+    ti: ኪኬሮ
+    tl: Cicero
+    tr: Marcus Tullius Cicero
+    tt: Марк Туллий Цицерон
+    uk: Ціцерон
+    ur: سائیسیرو
+    uz: Sitseron Mark Tulliy
+    vec: Cicerone
+    vi: Cicero
+    vls: Marcus Tullius Cicero
+    vo: Marcus Tullius Cicero
+    war: Cicerón
+    wuu: 西塞罗
+    xmf: ციცერონი
+    yo: Kísẹ́rò
+    yue: 西塞羅
+    zh: 西塞罗
+    zh-cn: 西塞罗
+    zh-hans: 西塞罗
+    zh-hant: 西塞羅
+    zh-hk: 西塞羅
 ---
-
 # [[Cicero]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cicero,1541|WD~Cicero,1541]] 

@@ -1,33 +1,118 @@
 ---
 aliases:
-  - Konzert
-  - Concerto
-  - Concertos
-  - Concerti
-  - Concert
+- coinséartó
+- Concert
+- Concerti
+- Concerto
+- Concertos
+- concierto
+- Instrumentaalkontsert
+- Instrumentalkonzert
+- koncert
+- koncertas
+- konsert
+- konserto
+- konsertto
+- kontzertu
+- Konzert
+- konçerto
+- konĉerto
+- kunċert
+- solokonsert
+- versenymű
+- κοντσέρτο
+- канцэрт
+- концерт
+- կոնցերտ
+- קונצ'רטו
+- كونشرتو
+- مزامیری نغمہ
+- کنسرتو
+- کنچێرتۆ
+- คอนแชร์โต
+- 协奏曲
+- 協奏曲
+- 협주곡
 has_id_wikidata: Q9748
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Koncert,393504]]'
-  - '[[_Standards/WikiData/WD~sinfonia_concertante,1136846]]'
-  - '[[_Standards/WikiData/WD~concertante_music,3328619]]'
+- '[[_Standards/WikiData/WD~Koncert,393504]]'
+- '[[_Standards/WikiData/WD~sinfonia_concertante,1136846]]'
+- '[[_Standards/WikiData/WD~concertante_music,3328619]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 topic_has_template: '[[_Standards/WikiData/WD~Template_Prokofiev_concertos,13516911]]'
 Commons_category: Concertos
 Krugosvet_article: muzyka/koncert-muzykalnaya-forma
+dv_has_:
+  name_:
+    af: concerto
+    ar: كونشرتو
+    az: konsert
+    ba: Концерт
+    be-tarask: канцэрт
+    bg: Концерт
+    ca: concert
+    ckb: کنچێرتۆ
+    cs: koncert
+    cy: concerto
+    da: koncert
+    de: Instrumentalkonzert
+    el: κοντσέρτο
+    en: concerto
+    eo: konĉerto
+    es: concierto
+    et: Instrumentaalkontsert
+    eu: kontzertu
+    fa: کنسرتو
+    fi: konsertto
+    fr: concerto
+    ga: coinséartó
+    gl: concerto
+    gv: concerto
+    he: קונצ'רטו
+    hu: versenymű
+    hy: կոնցերտ
+    id: konserto
+    it: concerto
+    ja: 協奏曲
+    ko: 협주곡
+    li: Concert
+    lt: koncertas
+    mk: концерт
+    ms: konserto
+    mt: kunċert
+    nb: solokonsert
+    nl: concerto
+    nn: solokonsert
+    oc: concerto
+    pl: koncert
+    pt: concerto
+    ro: Concert
+    ru: концерт
+    sh: Koncert
+    sl: koncert
+    sr: концерт
+    sv: konsert
+    th: คอนแชร์โต
+    tr: konçerto
+    uk: концерт
+    ur: مزامیری نغمہ
+    vi: concerto
+    wuu: 协奏曲
+    yue: 協奏曲
+    zh: 协奏曲
 ---
-
 # [[Concerto]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Concerto,9748|WD~Concerto,9748]] 

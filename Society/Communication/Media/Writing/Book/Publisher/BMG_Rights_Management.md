@@ -1,9 +1,62 @@
 ---
 has_id_wikidata: Q796316
+dv_has_:
+  name_:
+    an: BMG Rights Management
+    ar: بي أم جي رايتس مانجيمنت
+    ast: BMG Rights Management
+    be-tarask: BMG Rights Management
+    ca: BMG Rights Management
+    cs: BMG Rights Management
+    cy: BMG Rights Management
+    da: BMG Rights Management
+    de: BMG Rights Management
+    de-ch: BMG Rights Management
+    en: BMG Rights Management
+    en-ca: BMG Rights Management
+    en-gb: BMG Rights Management
+    es: BMG Rights Management
+    eu: BMG Rights Management
+    fa: بیامجی رایت منیجمنت
+    fi: BMG Rights Management
+    fr: BMG Rights Management
+    ga: BMG Rights Management
+    gl: BMG Rights Management
+    he: BMG רייטס מנג'מנט
+    hu: BMG Rights Management
+    hy: BMG իրավունքների կառավարում
+    it: BMG Rights Management
+    ja: BMGライツ・マネージメント
+    ka: BMG Rights Management
+    ko: BMG 라이츠 매니지먼트
+    nb: BMG Rights Management
+    nl: BMG Rights Management
+    nn: BMG Rights Management
+    pl: BMG Rights Management
+    pt: BMG Rights Management
+    pt-br: BMG Rights Management
+    ru: BMG Rights Management
+    sk: BMG Rights Management
+    sl: BMG Rights Management
+    sr: BMG Rights Management
+    sv: BMG Rights Management
+    tr: BMG Rights Management
+    uk: BMG Rights Management
+    zh: 貝塔斯曼唱片
+    zh-cn: 贝塔斯曼唱片
+    zh-hans: 贝塔斯曼唱片
+    zh-hant: 貝塔斯曼唱片
+aliases:
+- BMG Rights Management
+- BMG իրավունքների կառավարում
+- BMG רייטס מנג'מנט
+- BMG 라이츠 매니지먼트
+- BMGライツ・マネージメント
+- بي أم جي رايتس مانجيمنت
+- بیامجی رایت منیجمنت
+- 貝塔斯曼唱片
+- 贝塔斯曼唱片
 ---
-
-
-
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 > BMG Rights Management GmbH (also known simply as BMG) is an international music company 

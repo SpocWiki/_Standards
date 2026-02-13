@@ -1,30 +1,61 @@
 ---
 aliases:
-  - Timor
-  - Pulau Timor
-  - Ilha de Timor
-  - Illa Timór
+- Ilha de Timor
+- Illa Timór
+- Pulau Timor
+- Timor
+- Timora
+- Timoras
+- Timoro
+- Timór
+- Tīmoa
+- Τιμόρ
+- Востраў Тымор
+- Тимор
+- Тимор арал
+- Тымор
+- Թիմոր
+- טימור
+- تيمور
+- تیمور جزیرہ
+- تیمور ټاپو
+- جزیره تیمور
+- جزیرہ تیمور
+- टिमोर
+- तिमोर
+- तिमोर द्वीप
+- তিমুর
+- திமோர்
+- ಟೀಮಾರ್
+- ടിമോർ ദ്വീപ്
+- เกาะติมอร์
+- တီမောကျွန်း
+- ტიმორი
+- ទីម័រ
+- ティモール島
+- 帝汶
+- 티모르섬
 has_id_wikidata: Q83067
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sunda_Islands,154190]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Timor_Sea,131418]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sunda_Islands,154190]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-highest_point: "[[_Standards/WikiData/WD~Tatamailau,1539961]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+highest_point: '[[_Standards/WikiData/WD~Tatamailau,1539961]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Timor_archipelago,15060436]]"
-  - "[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803]]"
+- '[[_Standards/WikiData/WD~Timor_archipelago,15060436]]'
+- '[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803]]'
 coordinate_location:
-  - Point(125.083333333 -9.083333333)
-  - Point(124.354636111 -9.712225)
+- Point(125.083333333 -9.083333333)
+- Point(124.354636111 -9.712225)
 country:
-  - "[[_Standards/WikiData/WD~Timor_Leste,574]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Indonesia,252]]"
+- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Indonesia,252]]'
 width: 102
 length: 476
 elevation_above_sea_level: 2963
@@ -38,32 +69,174 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Timor%20ma
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ID%20-%20Timor.PNG
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Timor.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Timor%20banner.jpg
-U_S_National_Archives_Identifier: "10044832"
+U_S_National_Archives_Identifier: 10044832
 Wolfram_Language_entity_code: Entity["Island", "Timor"]
 demonym:
-  - טימורי
-  - טימורית
+- טימורי
+- טימורית
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]"
+  - '[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]"
+- '[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]'
+- '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]'
+dv_has_:
+  name_:
+    ace: Timor
+    af: Timor
+    an: Timor
+    ar: تيمور
+    arz: تيمور
+    ast: Timor
+    az: Timor
+    ba: Тимор
+    ban: Timor
+    bar: Timor
+    bcl: Timor
+    be: Востраў Тымор
+    be-tarask: Тымор
+    bg: Тимор
+    bjn: Timor
+    bn: তিমুর
+    br: Timor
+    bs: Timor
+    bug: Timor
+    ca: Timor
+    ceb: Timor
+    co: Timor
+    cs: Timor
+    cy: Timor
+    da: Timor
+    de: Timor
+    de-at: Timor
+    de-ch: Timor
+    el: Τιμόρ
+    en: Timor
+    en-ca: Timor
+    en-gb: Timor
+    eo: Timoro
+    es: Timor
+    et: Timor
+    eu: Timor
+    fa: جزیره تیمور
+    fi: Timor
+    fr: Timor
+    frp: Timor
+    fur: Timor
+    ga: Timor
+    gd: Timor
+    gl: Timor
+    gsw: Timor
+    ha: Timor
+    he: טימור
+    hi: तिमोर द्वीप
+    hif: Timor
+    hr: Timor
+    hu: Timor
+    hy: Թիմոր
+    ia: Timor
+    id: Pulau Timor
+    ie: Timor
+    ilo: Timor
+    io: Timor
+    is: Timor
+    it: Timor
+    ja: ティモール島
+    jv: Timor
+    ka: ტიმორი
+    kaa: Timor
+    kg: Timor
+    kk: Тимор
+    km: ទីម័រ
+    kn: ಟೀಮಾರ್
+    ko: 티모르섬
+    ky: Тимор
+    la: Timora
+    lb: Timor
+    li: Timor
+    lij: Timor
+    lt: Timoras
+    lv: Timora
+    map-bms: Timor
+    mg: Timor
+    mi: Tīmoa
+    min: Timor
+    mk: Тимор
+    ml: ടിമോർ ദ്വീപ്
+    mn: Тимор арал
+    mr: तिमोर
+    mrj: Тимор
+    ms: Timor
+    mul: Timor
+    my: တီမောကျွန်း
+    nan: Timor
+    nap: Timor
+    nb: Timor
+    nds: Timor
+    nds-nl: Timor
+    nl: Timor
+    nn: Timor
+    nrm: Timor
+    oc: Timor
+    os: Тимор
+    pap: Timor
+    pcd: Timor
+    pi: टिमोर
+    pl: Timor
+    pms: Timor
+    pnb: تیمور جزیرہ
+    ps: تیمور ټاپو
+    pt: Timor
+    pt-br: Timor
+    rm: Timor
+    ro: Timor
+    ru: Тимор
+    sa: टिमोर
+    sc: Timor
+    scn: Timor
+    sco: Timor
+    sh: Timor
+    sk: Timor
+    sl: Timor
+    so: Timor
+    sr: Тимор
+    sr-el: Timor
+    stq: Timor
+    su: Timor
+    sv: Timor
+    sw: Timor
+    ta: திமோர்
+    tet: Timór
+    th: เกาะติมอร์
+    tr: Timor
+    uk: Тимор
+    ur: جزیرہ تیمور
+    uz: Timor
+    vec: Timor
+    vi: Timor
+    vls: Timor
+    vo: Timor
+    wa: Timor
+    war: Timor
+    wo: Timor
+    wuu: 帝汶
+    yue: 帝汶
+    zh: 帝汶
+    zu: Timor
 ---
-
 # [[Timor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]] 

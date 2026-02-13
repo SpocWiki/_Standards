@@ -1,13 +1,108 @@
 ---
 aliases:
+- epälineaarinen järjestelmä
+- Hệ thống phi tuyến
+- icke-linjär
+- Ikke-lineært system
+- Ikkje-lineært system
+- Mittelineaarne süsteem
+- nelineara sistemo
+- Nelinearni sistem
+- Nelineární systém
+- nelineāra sistēma
+- netiesinė sistema
+- nichtlineares System
+- niet-lineair systeem
+- nonlinear system
+- sistem de ecuații neliniare
+- sistem nonlinier
+- sistema dinâmico não linear
+- Sistema ez lineal
+- sistema no lineal
+- sistema no-lineal
+- sistema non linear
+- sistema non lineare
+- sistema non llinial
+- sistema não linear
+- système non linéaire
+- układ nieliniowy
+- μη γραμμικό σύστημα
+- Линилле мар динамика
+- нелінійні диференційні рівняння
+- нелінейная дынаміка
+- нелинеарен систем
+- нелинейная динамика
+- מערכת לא לינארית
+- سامانه غیرخطی
+- نظام لاخطي
+- अरेखीय तंत्र
+- অরৈখিকতা
+- അരേഖീയഗതികം
+- 非線形系
+- 非線性
+- 非線性系統
+- 非线性
+- 非线性系统
+- 비선형
 has_id_wikidata: Q660848
-subclass_of: "[[_Standards/WikiData/WD~dynamical_system,638328]]"
-opposite_of: "[[_Standards/WikiData/WD~linear_system,1072174]]"
-different_from: "[[_Standards/WikiData/WD~Q20856201,20856201]]"
-has_characteristic: "[[_Standards/WikiData/WD~nonlinearity,47490617]]"
+subclass_of: '[[_Standards/WikiData/WD~dynamical_system,638328]]'
+opposite_of: '[[_Standards/WikiData/WD~linear_system,1072174]]'
+different_from: '[[_Standards/WikiData/WD~Q20856201,20856201]]'
+has_characteristic: '[[_Standards/WikiData/WD~nonlinearity,47490617]]'
 Commons_category: Nonlinear systems
+dv_has_:
+  name_:
+    ar: نظام لاخطي
+    ast: sistema non llinial
+    be: нелінейная дынаміка
+    be-tarask: нелінейная дынаміка
+    bn: অরৈখিকতা
+    bs: Nelinearni sistem
+    ca: sistema no-lineal
+    cs: Nelineární systém
+    cv: Линилле мар динамика
+    de: nichtlineares System
+    el: μη γραμμικό σύστημα
+    en: nonlinear system
+    eo: nelineara sistemo
+    es: sistema no lineal
+    et: Mittelineaarne süsteem
+    eu: Sistema ez lineal
+    fa: سامانه غیرخطی
+    fi: epälineaarinen järjestelmä
+    fr: système non linéaire
+    gl: sistema non linear
+    he: מערכת לא לינארית
+    hi: अरेखीय तंत्र
+    id: sistem nonlinier
+    it: sistema non lineare
+    ja: 非線形系
+    ko: 비선형
+    lt: netiesinė sistema
+    lv: nelineāra sistēma
+    mk: нелинеарен систем
+    ml: അരേഖീയഗതികം
+    nb: Ikke-lineært system
+    nl: niet-lineair systeem
+    nn: Ikkje-lineært system
+    pl: układ nieliniowy
+    pt: sistema dinâmico não linear
+    pt-br: sistema não linear
+    ro: sistem de ecuații neliniare
+    ru: нелинейная динамика
+    sh: Nelinearni sistem
+    sl: nelinearni sistem
+    sr: Nelinearni sistem
+    sv: icke-linjär
+    uk: нелінійні диференційні рівняння
+    vi: Hệ thống phi tuyến
+    wuu: 非线性系统
+    yue: 非線性系統
+    zh: 非線性
+    zh-hans: 非线性
+    zh-hant: 非線性
+    zh-hk: 非線性
 ---
-
 # [[Nonlinear_System]] 
 
 #is_/same_as :: [[WD~Nonlinear_system,660848]] 

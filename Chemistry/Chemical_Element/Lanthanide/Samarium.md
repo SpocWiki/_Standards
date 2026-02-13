@@ -1,20 +1,83 @@
 ---
 aliases:
-  - Samarium
+- jinmrsamari
+- Samaarium
+- samairiam
+- samar
+- Samari
+- Samarii
+- samarij
+- Samarijum
+- samario
+- Samariom
+- Samaris
+- samariu
+- Samarium
+- Samariumi
+- samariwm
+- Samariy
+- Samariôma
+- samarju
+- Samaryo
+- Samaryu
+- Samaryum
+- Samaryòm
+- Samarín
+- Samarɩyɔm
+- Samàriu
+- samário
+- samárium
+- samārijs
+- szamárium
+- UmSambi
+- σαμάριο
+- самар
+- самарій
+- Самари
+- самаријум
+- самарий
+- Самариум
+- Самарый
+- սամարիում
+- סמריום
+- ساماريوم
+- ساماریم
+- ساماریۆم
+- سمارئیم
+- چالغا
+- समारियम
+- समेरियम
+- सैमरियम
+- সামেরিয়াম
+- ਸੈਮੇਰੀਅਮ
+- સમેરિયમ
+- ସାମାରିଅମ
+- சமாரியம்
+- సమేరియం
+- ಸಮಾರಿಯಮ್
+- സമേറിയം
+- ซาแมเรียม
+- ဆမ္မာရီယမ်
+- სამარიუმი
+- ሳማሪየም
+- サマリウム
+- 釤
+- 钐
+- 사마륨
 has_id_wikidata: Q1819
 atomic_number: 62
-canonical_SMILES: "[Sm]"
+canonical_SMILES: '[Sm]'
 CAS_Registry_Number: 7440-19-9
 chemical_formula: Sm
 Commons_category: Samarium
 Commons_gallery: Samarium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-different_from: "[[_Standards/WikiData/WD~Samar,345447]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+different_from: '[[_Standards/WikiData/WD~Samar,345447]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
 DSSTOX_compound_identifier: DTXCID6047652
 EC_number: 231-128-7
 electronegativity: 1.17
@@ -23,27 +86,27 @@ Gmelin_number: 16301
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg
 InChI: InChI=1S/Sm
 InChIKey: KZUNJOHGWZRPMI-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.96
-  - 1.08
-  - 1.19
-  - 1.24
-  - 1.27
-location_of_discovery: "[[_Standards/WikiData/WD~Paris,90]]"
+- 0.96
+- 1.08
+- 1.19
+- 1.24
+- 1.27
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868]]"
-  - "[[_Standards/WikiData/WD~monazite-(Sm),3860584]]"
-  - "[[_Standards/WikiData/WD~florencite-(Sm),13588763]]"
+- '[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868]]'
+- '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
+- '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
 mass: 150.36
 MeSH_tree_code:
-  - D01.268.558.362.937
-  - D01.552.550.399.937
-named_after: "[[_Standards/WikiData/WD~samarskite-(Y),417648]]"
+- D01.268.558.362.937
+- D01.552.550.399.937
+named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
 OmegaWiki_Defined_Meaning: 356071
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23951
 SpocWebEntityId: 21958
 time_of_discovery_or_invention: 1879
@@ -53,10 +116,158 @@ Unicode_character: 釤
 UNII: 42OD65L39F
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Samarium
-    de: Samarium
     abbreviated: Sm
+    af: samarium
+    am: ሳማሪየም
+    anp: समेरियम
+    ar: ساماريوم
+    ary: ساماريوم
+    arz: ساماريوم
+    ast: samariu
+    awa: समारियम
+    az: Samarium
+    ba: Самарий
+    ban: Samarium
+    be: Самарый
+    be-tarask: самар
+    bg: самарий
+    bho: समेरियम
+    bn: সামেরিয়াম
+    br: Samariom
+    bs: samarij
+    ca: samari
+    cdo: Samarium
+    ceb: Samaryo
+    ckb: ساماریۆم
+    co: Samariu
+    cs: samarium
+    cv: Самари
+    cy: samariwm
+    da: samarium
+    de: Samarium
+    el: σαμάριο
+    en: samarium
+    en-gb: samarium
+    eo: samario
+    es: samario
+    et: Samaarium
+    eu: samario
+    fa: ساماریم
+    fi: samarium
+    fr: samarium
+    frr: Samaarium
+    fur: Samari
+    ga: samairiam
+    gd: Samarium
+    gl: Samario
+    gn: Samario
+    group: Lanthanide-Group
+    gu: સમેરિયમ
+    gv: Samaarium
+    hak: samarium
+    he: סמריום
+    hi: सैमरियम
+    hif: Samarium
+    hr: Samarij
+    ht: Samaryòm
+    hu: szamárium
+    hy: սամարիում
+    ia: samarium
+    id: samarium
+    io: samario
+    is: Samarín
+    it: samario
+    ja: サマリウム
+    jbo: jinmrsamari
+    jv: Samarium
+    ka: სამარიუმი
+    kbp: Samarɩyɔm
+    kk: Самарий
+    kn: ಸಮಾರಿಯಮ್
+    ko: 사마륨
+    kv: Самарий
+    kw: Samariom
+    ky: Самарий
+    la: samarium
+    lb: Samarium
+    lfn: samario
+    li: Samarium
+    lij: Samario
+    lt: Samaris
+    lv: samārijs
+    lzh: 釤
+    mg: Samariôma
+    mk: самариум
+    ml: സമേറിയം
+    mn: самари
+    mr: समारियम
+    mrj: Самарий
+    ms: Samarium
+    mt: samarju
+    my: ဆမ္မာရီယမ်
+    nan: Samarium
+    nb: samarium
+    ne: समारियम
+    new: समारियम
+    nl: samarium
+    nn: samarium
+    nov: Samarium
+    oc: samarium
+    olo: Samarii
+    or: ସାମାରିଅମ
+    os: самарий
+    pa: ਸੈਮੇਰੀਅਮ
+    pi: समारियम
+    pl: samar
+    pms: Samari
+    pnb: ساماریم
+    ps: ساماريوم
+    pt: samário
+    pt-br: samário
+    qu: Samaryu
+    ro: samariu
+    ru: самарий
+    rup: Samariu
+    sa: समारियम
+    sah: Самариум
+    sc: Samàriu
+    scn: samariu
+    sco: samarium
+    sh: Samarijum
+    sk: samárium
+    sl: samarij
+    sq: Samariumi
+    sr: самаријум
+    sr-ec: Самаријум
+    stq: Samarium
+    sv: samarium
+    sw: Samari
+    ta: சமாரியம்
+    te: సమేరియం
+    tg: самарий
+    th: ซาแมเรียม
+    tl: Samaryo
+    tr: Samaryum
+    tt: Самарий
+    ug: چالغا
+    uk: самарій
+    ur: سمارئیم
+    uz: Samariy
+    vep: Samarii
+    vi: samari
+    war: Samaryo
+    wuu: 钐
+    xal: Самариум
+    yo: Samarium
+    yue: 釤
+    zh: 钐
+    zh-hant: 釤
+    zh-tw: 釤
+    zu: UmSambi
+  number_of_:
+    period: 6
+    group: 28
+    electrons: 62
   value_for_:
     weight_:
       u: 150.36
@@ -84,22 +295,18 @@ dv_has_:
       form_:
         kj_:
           mol: 166.4
-  number_of_:
-    period: 6
-    group: 28
-    electrons: 62
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Samarium,1819]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect|Samarium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private|Samarium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]]"
+  - '[[../../../WikiData/WD~Samarium,1819]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect|Samarium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private|Samarium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Samarium
 dv_has_name_de: Samarium
 dv_has_value_for_weight_u: 150.36
@@ -118,18 +325,17 @@ dv_has_value_for_energy_form_kj_mol: 166.4
 dv_has_number_of_period: 6
 dv_has_number_of_group: 28
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Samarium,1819]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect|Samarium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private|Samarium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]]"
+- '[[../../../WikiData/WD~Samarium,1819]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Samarium.protect|Samarium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Samarium.private|Samarium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]]'
 dv_has_name_abbreviated: Sm
 dv_has_number_of_electrons: 62
 ---
-
 # [[Samarium]] 
 
 ## [[Samarium]] has Properties...

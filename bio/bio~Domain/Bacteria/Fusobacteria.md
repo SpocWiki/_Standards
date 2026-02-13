@@ -1,10 +1,34 @@
 ---
 aliases:
-  - Fusobacteriota
-  - Fusobacteria
-  - Fusobacteriati
+- Fusobacteriota
+- Fusobacteria
+- Fusobacteriati
 title: Fusobacteria
 has_id_wikidata: Q21441825
+dv_has_:
+  name_:
+    ast: Fusobacteriota
+    bg: Fusobacteriota
+    ceb: Fusobacteriota
+    cs: Fusobacteriota
+    de: Fusobacteriota
+    en: Fusobacteriota
+    es: Fusobacteriota
+    fi: Fusobacteriota
+    fr: Fusobacteriota
+    ga: Fusobacteriota
+    it: Fusobacteriota
+    la: Fusobacteriota
+    mul: Fusobacteriota
+    nl: Fusobacteriota
+    pl: Fusobacteriota
+    pt: Fusobacteriota
+    ro: Fusobacteriota
+    ru: Fusobacteriota
+    sq: Fusobacteriota
+    uk: Fusobacteriota
+    vi: Fusobacteriota
+    war: Fusobacteriota
 ---
 # [[Fusobacteria]] 
 

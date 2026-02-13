@@ -1,78 +1,254 @@
 ---
 aliases:
-  - nursing
-  - nursing
-  - Nursing
-  - is_a_nursing
+- altranas
+- asistensa infermierìstega
+- asistent medical
+- assistenza infermieristica
+- bakım
+- betegápolás
+- enfermagem
+- enfermaría
+- enfermería
+- Erizaintza
+- flegado
+- Gesundheits- und Krankenpflege
+- Hasyrerekua
+- Hjúkrunarfræði
+- hoitotyö
+- Hō͘-lí
+- infermeria
+- Infermieria
+- Infirmeria
+- is_a_nursing
+- Keperawatan
+- mahi tapuhi
+- Medicinska sestra
+- Muuguzi
+- Narsing
+- Nosocomus
+- nurse
+- nursing
+- nyrsio
+- omvårdnad
+- ošetřovatelství
+- pacientu aprūpe
+- Perawat
+- Pflege
+- pielęgniarstwo
+- sjukepleie
+- Slauga
+- soin infirmier
+- Swen (enfimyè)
+- sygepleje
+- sykepleie
+- Ukoti
+- Ungozoma
+- verpleegkunde
+- verpleging
+- zdravstvena nega
+- zdravstvena njega
+- zuster
+- Õendus
+- Điều dưỡng
+- νοσηλευτική
+- Медицинска нега
+- Медицинска сестра
+- Парастор
+- сестринское дело
+- сестринська справа
+- сястрынская справа
+- Քույրական գործ
+- אחיות
+- التمريض
+- تمريض
+- تمریض
+- رنځورپالنه
+- نرس
+- پرستاری
+- پەرستاری
+- उपचर्या
+- परिचारिका
+- নার্সিং
+- ਨਰਸਿੰਗ
+- రోగశుశ్రూష
+- ಪರಿಚರ್ಯೆ
+- നഴ്സിങ്
+- හෙද සේවාව
+- พยาบาลศาสตร์
+- ພະຍາບານ
+- သူနာပြုအတတ်
+- 护理学
+- 看護
+- 護理學
+- 간호
 has_id_wikidata: Q121176
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - nursing
-layout: ""
+- nursing
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_nursing Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_nursing Class
 type: Type
-field_of_this_occupation: "[[_Standards/WikiData/WD~nursing,121176]]"
+field_of_this_occupation: '[[_Standards/WikiData/WD~nursing,121176]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~nurse,186360]]"
-  - "[[_Standards/WikiData/WD~nurse_practitioner,595071]]"
-  - "[[_Standards/WikiData/WD~nurse_midwife,7070208]]"
-  - "[[_Standards/WikiData/WD~nursing_assistant,10718797]]"
-  - "[[_Standards/WikiData/WD~nurse_scientist,12043435]]"
-  - "[[_Standards/WikiData/WD~registered_nurse,13608061]]"
-  - "[[_Standards/WikiData/WD~nurse_midwife,85790021]]"
-  - "[[_Standards/WikiData/WD~cand.cur.,111586636]]"
+- '[[_Standards/WikiData/WD~nurse,186360]]'
+- '[[_Standards/WikiData/WD~nurse_practitioner,595071]]'
+- '[[_Standards/WikiData/WD~nurse_midwife,7070208]]'
+- '[[_Standards/WikiData/WD~nursing_assistant,10718797]]'
+- '[[_Standards/WikiData/WD~nurse_scientist,12043435]]'
+- '[[_Standards/WikiData/WD~registered_nurse,13608061]]'
+- '[[_Standards/WikiData/WD~nurse_midwife,85790021]]'
+- '[[_Standards/WikiData/WD~cand.cur.,111586636]]'
 different_from:
-  - "[[_Standards/WikiData/WD~nurse,186360]]"
-  - "[[_Standards/WikiData/WD~Q132146992,132146992]]"
+- '[[_Standards/WikiData/WD~nurse,186360]]'
+- '[[_Standards/WikiData/WD~Q132146992,132146992]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~career,282049]]"
-  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~paramedical_speciality,30109942]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_nursing,1516850]]"
+- '[[_Standards/WikiData/WD~career,282049]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~paramedical_speciality,30109942]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_nursing,1516850]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~care,2421951]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-has_part_s_: "[[_Standards/WikiData/WD~psychiatric_nursing,2801621]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nursing,10769058]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nursing,11722213]]"
+- '[[_Standards/WikiData/WD~care,2421951]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+has_part_s_: '[[_Standards/WikiData/WD~psychiatric_nursing,2801621]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nursing,10769058]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nursing,11722213]]'
 U_S_National_Archives_Identifier: 10644008
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nurse%20checks%20blood%20pressure.jpg
 exact_match: https://schema.org/Nursing
 described_at_URL: https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/
 Unicode_character:
-  - 👨⚕️
-  - 👩⚕️
+- "\U0001F468⚕️"
+- "\U0001F469⚕️"
 Basisklassifikation: 44.63
 Dewey_Decimal_Classification: 610.73
 UMLS_CUI: C0028677
 MeSH_tree_code:
-  - H02.478
-  - N04.452.758.377
+- H02.478
+- N04.452.758.377
 Colon_Classification: L:4:1
 subreddit: nursing
 PhilPapers_topic: nursing
 Commons_gallery: Nursing
 Commons_category: Nursing
+dv_has_:
+  name_:
+    af: verpleging
+    an: Enfermería
+    ar: تمريض
+    arz: التمريض
+    ast: Enfermería
+    be: сястрынская справа
+    be-tarask: сястрынская справа
+    bew: Keperawatan
+    bg: Медицинска сестра
+    bn: নার্সিং
+    bs: Medicinska sestra
+    ca: infermeria
+    ckb: پەرستاری
+    cs: ošetřovatelství
+    cy: nyrsio
+    da: sygepleje
+    de: Pflege
+    de-ch: Gesundheits- und Krankenpflege
+    el: νοσηλευτική
+    en: nursing
+    en-ca: Nursing
+    en-gb: nursing
+    eo: flegado
+    es: enfermería
+    et: Õendus
+    eu: Erizaintza
+    fa: پرستاری
+    fi: hoitotyö
+    fr: soin infirmier
+    ga: altranas
+    gl: enfermaría
+    gn: Hasyrerekua
+    gu: nursing
+    ha: Ungozoma
+    he: אחיות
+    hi: उपचर्या
+    hr: zdravstvena njega
+    ht: Swen (enfimyè)
+    hu: betegápolás
+    hy: Քույրական գործ
+    ia: Infirmeria
+    id: Keperawatan
+    io: Flegado
+    is: Hjúkrunarfræði
+    it: assistenza infermieristica
+    ja: 看護
+    jv: Perawat
+    kn: ಪರಿಚರ್ಯೆ
+    ko: 간호
+    la: Nosocomus
+    lo: ພະຍາບານ
+    lt: Slauga
+    lv: pacientu aprūpe
+    mi: mahi tapuhi
+    mk: Медицинска нега
+    ml: നഴ്സിങ്
+    my: သူနာပြုအတတ်
+    nan: Hō͘-lí
+    nb: sykepleie
+    ne: परिचारिका
+    nl: verpleegkunde
+    nn: sjukepleie
+    pa: ਨਰਸਿੰਗ
+    pap: zuster
+    pl: pielęgniarstwo
+    pnb: نرس
+    ps: رنځورپالنه
+    pt: enfermagem
+    pt-br: enfermagem
+    ro: asistent medical
+    ru: сестринское дело
+    si: හෙද සේවාව
+    sl: zdravstvena nega
+    sn: Ukoti
+    sq: Infermieria
+    sr: медицинска нега
+    sv: omvårdnad
+    sw: Muuguzi
+    ta: nurse
+    te: రోగశుశ్రూష
+    tg: Парастор
+    th: พยาบาลศาสตร์
+    tl: Narsing
+    tr: bakım
+    uk: сестринська справа
+    ur: تمریض
+    vec: asistensa infermierìstega
+    vi: Điều dưỡng
+    war: Narsing
+    wuu: 护理学
+    yue: 護理學
+    zh: 护理学
+    zh-cn: 护理学
+    zh-hans: 护理学
+    zh-hant: 護理學
+    zh-hk: 護理學
+    zh-sg: 护理学
+    zh-tw: 護理學
 ---
-
 # [[Nursing]] 👨⚕️ 
 
 Class of all nursing Processes.

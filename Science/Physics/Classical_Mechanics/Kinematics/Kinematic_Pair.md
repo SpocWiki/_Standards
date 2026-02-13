@@ -1,12 +1,79 @@
 ---
 aliases:
+- Cobia cinemàtica
+- coppia cinematica
+- Cuple cinematice
+- Gelenk
+- kinemaatiline paar
+- kinematic pair
+- kinematika paro
+- kinematikai pár
+- kinematisch paar
+- Kinematički par
+- kinematični par
+- kloub
+- liaison (mécanique)
+- par cinemático
+- Par cinemáticu
+- Para kinematyczna
+- Pare zinematiko
+- parell cinemàtic
+- pasangan kinematika
+- кінематична пара
+- кінематычная пара
+- кінэматычная пара
+- Кинематикалық жұп
+- кинематическая пара
+- Кинематична двойка
+- кинематски пар
+- زوج كينماتي
+- இயங்கு இணைகள்
+- 対偶
+- 結構節點
+- 运动副
+- 運動對
+- 면짝
 has_id_wikidata: Q526016
-subclass_of: "[[_Standards/WikiData/WD~linkage,1153014]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12545556,12545556]]"
-has_part_s_: "[[_Standards/WikiData/WD~physical_interface,64830866]]"
+subclass_of: '[[_Standards/WikiData/WD~linkage,1153014]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12545556,12545556]]'
+has_part_s_: '[[_Standards/WikiData/WD~physical_interface,64830866]]'
 Commons_category: Kinematic pairs
+dv_has_:
+  name_:
+    ar: زوج كينماتي
+    ast: Par cinemáticu
+    be: кінематычная пара
+    be-tarask: кінэматычная пара
+    bg: Кинематична двойка
+    ca: parell cinemàtic
+    cs: kloub
+    de: Gelenk
+    en: kinematic pair
+    eo: kinematika paro
+    es: par cinemático
+    et: kinemaatiline paar
+    eu: Pare zinematiko
+    fr: liaison (mécanique)
+    hr: Kinematički par
+    hu: kinematikai pár
+    id: pasangan kinematika
+    it: coppia cinematica
+    ja: 対偶
+    kk: Кинематикалық жұп
+    ko: 면짝
+    nl: kinematisch paar
+    pl: Para kinematyczna
+    pms: Cobia cinemàtica
+    ro: Cuple cinematice
+    ru: кинематическая пара
+    sl: kinematični par
+    sr: кинематски пар
+    ta: இயங்கு இணைகள்
+    uk: кінематична пара
+    yue: 運動對
+    zh: 結構節點
+    zh-cn: 运动副
 ---
-
 # [[Kinematic_Pair]] 
 
 #is_/same_as :: [[WD~Kinematic_pair,526016]] 

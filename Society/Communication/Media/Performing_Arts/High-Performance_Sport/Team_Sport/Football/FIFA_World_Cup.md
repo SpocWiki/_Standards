@@ -1,8 +1,312 @@
 ---
 aliases:
-  - FIFA World Cup
-  - FIFA_World_Cup
+- Bèker Dunia FIFA
+- Campeonato do Mundo de Futebol da FIFA
+- campionato mondiale di calcio
+- Campionato munniale 'e pallone
+- Campionatul Mondial de Fotbal
+- Campiunatu munniali di palluni
+- Canpionato mondiałe de bałon
+- Certamen Mundanum Pedilusorium
+- Championatu mundal de Football
+- Copa del Món de Futbol
+- Copa do Mundo de Fútbol
+- Copa do Mundo FIFA
+- Copa Mundial de Fútbol
+- Cope dal mont di balon
+- Corn Sacair an Domhain
+- Coupe du monde de football
+- Cuppa del Mundo de Football
+- Cwpan y Byd Pêl-droed
+- FIFA Dünya Kupası
+- FIFA Dünýä kubogy
+- FIFA Jahon chempionati
+- FIFA jáhán chempionatı
+- FIFA Kampionati Botëror i Futbollit
+- FIFA Mpira Wadziko Lonse Lapansi
+- FIFA Pasaules kauss
+- FIFA pasaulio čempionatas
+- FIFA Sié-gái-buŏi
+- FIFA Svjetsko prvenstvo
+- FIFA Sè-kài-poe
+- FIFA Sṳ-kie-pî
+- FIFA Warld Cup
+- FIFA World Cup
+- FIFA ලෝක කුසලානය
+- FIFA 월드컵
+- FIFA_World_Cup
+- FIFAワールドカップ
+- FIFA世界盃
+- FIFuRoni da Futboll
+- Foussball-Weltmeeschterschaft
+- Fuaßboi-Wejtmoastaschaft
+- Fuessball-Weltmeischterschaft
+- Fussball-Weltmeisterschaft
+- Futbala Mondpokalo
+- Fußball-Weltmeisterschaft
+- FİFA Dünya Kuboku
+- Giải vô địch bóng đá thế giới
+- Gĩkombe kĩa Thĩĩ (FIFA World Cup)
+- Heimsmeistaramót landsliða í knattspyrnu karla
+- HM fótbóltur
+- Ife-ẹ̀yẹ Àgbáyé Bọ́ọ̀lù-ẹlẹ́sẹ̀
+- Jalgpalli maailmameistrivõistlused
+- jalkapallon maailmanmestaruuskilpailut
+- Kasa Cîhanê
+- Kib vell-droad ar bed
+- Kombe la Dunia la FIFA
+- Koobka Adduunka
+- Kopa Mundial di Futbòl
+- Kupaya Dınya FIFA
+- labdarúgó-világbajnokság
+- Majstrovstvá sveta vo futbale
+- Mistrovství světa ve fotbale
+- Mistrzostwa świata w piłce nożnej
+- Mondala Kupo di Futbalo
+- Munduko Futbol Txapelketa
+- Piala Donya FIFA
+- Piala Dunia FIFA
+- Piala Gumi FIFA
+- Piluta Hayt'ay Pachantin Kupa
+- Sokker-Wêreldbeker
+- Spábbačiekčama máilmmimeašttirgilvvut
+- Squadre naziunali campione di u mondu
+- svetovno prvenstvo v nogometu
+- Svjetsko prvenstvo u nogometu
+- Taqbuct n dunnit (ddabex uḍar)
+- Tazza tad-Dinja tal-Futbol
+- Vakapipopo Tembiesarái Yvypavẽ
+- Verdensmesterskapet i fotball for menn
+- VM
+- VM i fodbold
+- Weireldkampioenschap foetbol
+- Wereldkampioenschap voetbal
+- Wereldkampioensjap hierevoetbal
+- World Cup
+- Wrâldkampioenskip fuotbal
+- Παγκόσμιο Κύπελλο Ποδοσφαίρου
+- Аан дойду футбол чемпионата
+- Дөнья футбол чемпионаты
+- Световно първенство по футбол
+- Светско првенство во фудбал
+- Светско првенство у фудбалу
+- Футбол боюнча дүйнө чемпиондугу
+- Футбол буйынса донъя чемпионаты
+- Футбол дене тӱнямбал чемпионат
+- Футболдан әлем чемпионаты
+- Футболех ловзаран дуьненан чемпионат
+- Хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн
+- Чемпіонат світу з футболу
+- чемпионат мира по футболу
+- Чемпионати ҷаҳон оид ба футбол
+- Чэмпіянат свету па футболе
+- Чэмпіянат сьвету па футболе
+- Шампіонат світу у фотбалі
+- ՖԻՖԱ-ի աշխարհի առաջնությունները
+- Ֆուտբոլի աշխարհի առաջնություն
+- המונדיאל
+- جام جهانی فوتبال
+- جامی جیھانیی فیفا
+- دۇنيا لوڭقىسى پۇتبول مۇسابىقىسى
+- فیفا دونیا کاپی
+- فیفا عالمی کپ
+- فیفا ورلڈ کپ
+- كأس العالم
+- كاس العالم لكورة القدم
+- كاس لعالم
+- फिफा वर्ल्ड कप
+- फिफा विश्वकप
+- फिफा विश्वचषक
+- फीफा बिस्वकप
+- फीफा विश्व कप
+- फुटबल विश्वकप
+- ফিফা বিশ্বকাপ
+- ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ
+- ફિફા વિશ્વ કપ
+- ଫିଫା ବିଶ୍ଵକପ
+- உலகக்கோப்பை காற்பந்து
+- ఫిఫా ప్రపంచ కప్
+- ವಿಶ್ವಕಪ್ ಫುಟ್ಬಾಲ್
+- ലോകകപ്പ് ഫുട്ബോൾ
+- ฟุตบอลโลก
+- ເຕະບານໂລກ
+- འཛམ་གླིང་བུམ་པའི་རྐང་རྩེད་སྤོ་ལོའི་འགྲན་བསྡུར་
+- ဖီဖာ ကမ္ဘာ့ဖလား
+- ဖီဖာ ကမ္ဘာႏဖလား ဗော်လုံးပွယ်ꩻ
+- მსოფლიო საფეხბურთო ჩემპიონატი
+- የዓለም ዋንጫ
+- ᱯᱷᱤᱯᱷᱟ ᱚᱣᱟᱝ ᱠᱳᱯ
+- ⴰⴽⵔⵡⴰⵙ ⵏ ⵓⵎⴰⴹⴰⵍ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ ⵏ ⴼⵉⴼⴰ
+- 国际足联世界杯
+- 國際足協世界盃
+- 國際足總世界盃
 has_id_wikidata: Q19317
+dv_has_:
+  name_:
+    af: Sokker-Wêreldbeker
+    am: የዓለም ዋንጫ
+    an: Copa Mundial de Fútbol
+    ar: كأس العالم
+    arq: كأس العالم
+    ary: كاس لعالم
+    arz: كاس العالم لكورة القدم
+    as: ফিফা বিশ্বকাপ
+    ast: Copa Mundial de Fútbol
+    az: FİFA Dünya Kuboku
+    azb: فیفا دونیا کاپی
+    ba: Футбол буйынса донъя чемпионаты
+    ban: Piala Gumi FIFA
+    bar: Fuaßboi-Wejtmoastaschaft
+    be: Чэмпіянат свету па футболе
+    be-tarask: Чэмпіянат сьвету па футболе
+    bew: Bèker Dunia FIFA
+    bg: Световно първенство по футбол
+    bho: फीफा बिस्वकप
+    blk: ဖီဖာ ကမ္ဘာႏဖလား ဗော်လုံးပွယ်ꩻ
+    bn: ফিফা বিশ্বকাপ
+    bo: འཛམ་གླིང་བུམ་པའི་རྐང་རྩེད་སྤོ་ལོའི་འགྲན་བསྡུར་
+    br: Kib vell-droad ar bed
+    bs: Svjetsko prvenstvo u nogometu
+    ca: Copa del Món de Futbol
+    cdo: FIFA Sié-gái-buŏi
+    ce: Футболех ловзаран дуьненан чемпионат
+    ckb: جامی جیھانیی فیفا
+    co: Squadre naziunali campione di u mondu
+    cs: Mistrovství světa ve fotbale
+    cy: Cwpan y Byd Pêl-droed
+    da: VM i fodbold
+    de: Fußball-Weltmeisterschaft
+    de-ch: Fussball-Weltmeisterschaft
+    diq: Kupaya Dınya FIFA
+    el: Παγκόσμιο Κύπελλο Ποδοσφαίρου
+    en: FIFA World Cup
+    en-ca: FIFA World Cup
+    en-gb: FIFA World Cup
+    en-us: FIFA World Cup
+    eo: Futbala Mondpokalo
+    es: Copa Mundial de Fútbol
+    et: Jalgpalli maailmameistrivõistlused
+    eu: Munduko Futbol Txapelketa
+    fa: جام جهانی فوتبال
+    fi: jalkapallon maailmanmestaruuskilpailut
+    fo: HM fótbóltur
+    fr: Coupe du monde de football
+    fur: Cope dal mont di balon
+    fy: Wrâldkampioenskip fuotbal
+    ga: Corn Sacair an Domhain
+    gl: Copa do Mundo de Fútbol
+    gn: Vakapipopo Tembiesarái Yvypavẽ
+    gsw: Fuessball-Weltmeischterschaft
+    gu: ફિફા વિશ્વ કપ
+    ha: FIFA World Cup
+    hak: FIFA Sṳ-kie-pî
+    he: המונדיאל
+    hi: फीफा विश्व कप
+    hif: FIFA World Cup
+    hr: Svjetsko prvenstvo u nogometu
+    hu: labdarúgó-világbajnokság
+    hy: Ֆուտբոլի աշխարհի առաջնություն
+    hyw: ՖԻՖԱ-ի աշխարհի առաջնությունները
+    ia: Cuppa del Mundo de Football
+    id: Piala Dunia FIFA
+    ie: Championatu mundal de Football
+    io: Mondala Kupo di Futbalo
+    is: Heimsmeistaramót landsliða í knattspyrnu karla
+    it: campionato mondiale di calcio
+    ja: FIFAワールドカップ
+    jv: Piala Donya FIFA
+    ka: მსოფლიო საფეხბურთო ჩემპიონატი
+    kaa: FIFA jáhán chempionatı
+    kab: Taqbuct n dunnit (ddabex uḍar)
+    ki: Gĩkombe kĩa Thĩĩ (FIFA World Cup)
+    kk: Футболдан әлем чемпионаты
+    km: World Cup
+    kn: ವಿಶ್ವಕಪ್ ಫುಟ್ಬಾಲ್
+    ko: FIFA 월드컵
+    ku: Kasa Cîhanê
+    ky: Футбол боюнча дүйнө чемпиондугу
+    la: Certamen Mundanum Pedilusorium
+    lb: Foussball-Weltmeeschterschaft
+    li: Wereldkampioensjap hierevoetbal
+    lo: ເຕະບານໂລກ
+    lt: FIFA pasaulio čempionatas
+    lv: FIFA Pasaules kauss
+    lzh: 國際足協世界盃
+    mag: फिफा विश्वकप
+    mai: फिफा विश्वकप
+    mhr: Футбол дене тӱнямбал чемпионат
+    min: Piala Dunia FIFA
+    mk: Светско првенство во фудбал
+    ml: ലോകകപ്പ് ഫുട്ബോൾ
+    mn: Хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн
+    mr: फिफा विश्वचषक
+    ms: Piala Dunia FIFA
+    mt: Tazza tad-Dinja tal-Futbol
+    my: ဖီဖာ ကမ္ဘာ့ဖလား
+    nan: FIFA Sè-kài-poe
+    nap: Campionato munniale 'e pallone
+    nb: Verdensmesterskapet i fotball for menn
+    ne: फुटबल विश्वकप
+    new: फिफा वर्ल्ड कप
+    nl: Wereldkampioenschap voetbal
+    ny: FIFA Mpira Wadziko Lonse Lapansi
+    or: ଫିଫା ବିଶ୍ଵକପ
+    pa: ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ
+    pap: Kopa Mundial di Futbòl
+    pcm: FIFA World Cup
+    pl: Mistrzostwa świata w piłce nożnej
+    pnb: فیفا ورلڈ کپ
+    pt: Campeonato do Mundo de Futebol da FIFA
+    pt-br: Copa do Mundo FIFA
+    qu: Piluta Hayt'ay Pachantin Kupa
+    ro: Campionatul Mondial de Fotbal
+    ru: чемпионат мира по футболу
+    rue: Шампіонат світу у фотбалі
+    sah: Аан дойду футбол чемпионата
+    sat: ᱯᱷᱤᱯᱷᱟ ᱚᱣᱟᱝ ᱠᱳᱯ
+    scn: Campiunatu munniali di palluni
+    sco: FIFA Warld Cup
+    se: Spábbačiekčama máilmmimeašttirgilvvut
+    sh: FIFA Svjetsko prvenstvo
+    si: FIFA ලෝක කුසලානය
+    sk: Majstrovstvá sveta vo futbale
+    sl: svetovno prvenstvo v nogometu
+    sn: FIFA World Cup
+    so: Koobka Adduunka
+    sq: FIFA Kampionati Botëror i Futbollit
+    sr: Светско првенство у фудбалу
+    sv: VM
+    sw: Kombe la Dunia la FIFA
+    ta: உலகக்கோப்பை காற்பந்து
+    te: ఫిఫా ప్రపంచ కప్
+    tg: Чемпионати ҷаҳон оид ба футбол
+    th: ฟุตบอลโลก
+    tk: FIFA Dünýä kubogy
+    tl: FIFA World Cup
+    tr: FIFA Dünya Kupası
+    tt: Дөнья футбол чемпионаты
+    ug: دۇنيا لوڭقىسى پۇتبول مۇسابىقىسى
+    uk: Чемпіонат світу з футболу
+    ur: فیفا عالمی کپ
+    uz: FIFA Jahon chempionati
+    vec: Canpionato mondiałe de bałon
+    vi: Giải vô địch bóng đá thế giới
+    vls: Weireldkampioenschap foetbol
+    war: FIFA World Cup
+    wuu: 国际足联世界杯
+    xh: FIFuRoni da Futboll
+    yo: Ife-ẹ̀yẹ Àgbáyé Bọ́ọ̀lù-ẹlẹ́sẹ̀
+    yue: FIFA世界盃
+    zgh: ⴰⴽⵔⵡⴰⵙ ⵏ ⵓⵎⴰⴹⴰⵍ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ ⵏ ⴼⵉⴼⴰ
+    zh: 国际足联世界杯
+    zh-cn: 国际足联世界杯
+    zh-hans: 国际足联世界杯
+    zh-hant: 國際足總世界盃
+    zh-hk: 國際足協世界盃
+    zh-mo: 國際足協世界盃
+    zh-my: 国际足联世界杯
+    zh-sg: 国际足联世界杯
+    zh-tw: 國際足總世界盃
 ---
 ## #has_/text_of_/abstract 
 

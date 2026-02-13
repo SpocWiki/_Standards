@@ -1,39 +1,80 @@
 ---
 aliases:
-  - Lama_glama
-  - Llama
-  - lama andyjska
+- Blanc lama
+- laama
+- Lama
+- Lama (hewan)
+- Lama (Kamäil)
+- lama andyjska
+- Lama glama
+- lama krotká
+- Lamadýr
+- Lamao
+- Lama_glama
+- Lamo
+- Lamă
+- Lhama
+- Ljama
+- Llama
+- Làma
+- láma
+- Ovecharana
+- Pratcol (Lama glama)
+- Qawra
+- Shádiʼááhdę́ę́ʼ tłʼízí
+- Yama
+- Λάμα
+- Лам гөрөөс
+- ламæ
+- лама
+- ляма
+- Լամա
+- למה מצויה
+- لاما
+- لامة أهلية
+- ߞߏ߲ߞߏߛߊ߱
+- लामा
+- লামা
+- இலாமா
+- ല്ലാമ
+- ยามา
+- ອູດແກະໃຫຍ່
+- လာမာကုလားအုတ်
+- リャマ
+- 大羊駝
+- 大羊驼
+- 라마
 has_id_wikidata: Q42569
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-parent_taxon: "[[_Standards/WikiData/WD~Lama,753853]]"
-diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
-original_combination: "[[_Standards/WikiData/WD~Camelus_glama,27064352]]"
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lama,753853]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
+original_combination: '[[_Standards/WikiData/WD~Camelus_glama,27064352]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~llama_fiber,28152302]]"
-  - "[[_Standards/WikiData/WD~llama_meat,103822076]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-subclass_of: "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
+- '[[_Standards/WikiData/WD~llama_fiber,28152302]]'
+- '[[_Standards/WikiData/WD~llama_meat,103822076]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 1
 longest_observed_lifespan: 28.9
 gestation_period: 358
 OmegaWiki_Defined_Meaning: 666574
 ITIS_TSN: 625028
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/18-08-25-%C3%85land%20RRK6596a.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20glama%20Laguna%20Colorada%202.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/18-08-25-%C3%85land%20RRK6596a.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20glama%20Laguna%20Colorada%202.jpg
 U_S_National_Archives_Identifier: 10646476
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20glama%20Vicugna%20pacos%20range.png
 sequenced_genome_URL: https://www.dnazoo.org/assemblies/Lama_glama
@@ -44,14 +85,129 @@ taxon_name: Lama glama
 EPPO_Code: LMAAGL
 NBN_System_Key: NHMSYS0020975296
 Library_of_Congress_Classification:
-  - QL737.U54
-  - SF401.L6
-  - SF459.L2
-Unicode_character: 🦙
+- QL737.U54
+- SF401.L6
+- SF459.L2
+Unicode_character: "\U0001F999"
 short_name: L. glama
 taxon_common_name: lama andyjska
+dv_has_:
+  name_:
+    af: Lama
+    an: Lama glama
+    ar: لامة أهلية
+    arz: لاما
+    ast: Lama glama
+    avk: Pratcol (Lama glama)
+    ay: Qawra
+    az: Lama
+    azb: لاما
+    ban: Llama
+    bcl: Llama
+    be: лама
+    be-tarask: ляма
+    bg: лама
+    bn: লামা
+    br: Lama
+    ca: llama
+    ceb: Lama glama
+    cs: lama krotká
+    cy: Lama
+    da: lama
+    de: Lama
+    el: Λάμα
+    en: Lama glama
+    en-gb: llama
+    eo: Lamo
+    es: llama
+    et: laama
+    eu: Llama
+    ext: Lama glama
+    fa: لاما
+    fi: laama
+    fr: lama
+    frr: Laama
+    ga: láma
+    gl: llama
+    gn: Ovecharana
+    he: למה מצויה
+    hi: लामा
+    hr: Ljama
+    ht: Lama
+    hu: láma
+    hy: Լամա
+    ia: Llama
+    id: Lama (hewan)
+    ie: Lama glama
+    io: Lamao
+    is: Lamadýr
+    it: Lama glama
+    ja: リャマ
+    jv: Llama
+    kab: Llama
+    ko: 라마
+    ky: Лама
+    la: Lama glama
+    lo: ອູດແກະໃຫຍ່
+    lt: Lama
+    lv: lama
+    mg: Làma
+    mhr: Лама
+    mk: Лама
+    ml: ല്ലാമ
+    mn: Лам гөрөөс
+    mr: लामा
+    ms: Llama
+    mul: Lama glama
+    my: လာမာကုလားအုတ်
+    mzn: لاما
+    nah: Yama
+    nb: lama
+    nl: lama
+    nn: lama
+    nqo: ߞߏ߲ߞߏߛߊ߱
+    nv: Shádiʼááhdę́ę́ʼ tłʼízí
+    oc: Lama
+    os: ламæ
+    pl: lama andyjska
+    pnb: لاما
+    ps: لاما
+    pt: Lhama
+    pt-br: lhama
+    qu: llama
+    ro: Lamă
+    ru: лама
+    scn: Lama
+    sco: Llama
+    sgs: Lama
+    sh: Ljama
+    sk: Lama krotká
+    sl: Lama
+    sq: Lama glama
+    sr: лама
+    sr-ec: лама
+    stq: Lama (Kamäil)
+    sv: Lama
+    sw: Lama
+    szl: Lama
+    ta: இலாமா
+    th: ยามา
+    tl: Llama
+    tr: Lama
+    tt: Лама
+    udm: Лама
+    uk: лама
+    vi: Llama
+    vls: Lama
+    vo: Lama glama
+    wa: Blanc lama
+    war: Lama
+    wuu: 大羊驼
+    yue: 大羊駝
+    zh: 大羊駝
+    zh-cn: 大羊驼
+    zh-hans: 大羊驼
 ---
-
 # [[Llama]] 🦙 
 
 #is_/same_as :: [[WD~Lama_glama,42569]]

@@ -1,26 +1,173 @@
 ---
 aliases:
+- ajateenistus
+- asevelvollisuus
+- Branná povinnosť
+- Chế độ quân dịch bắt buộc
+- coinscríobh
+- Conscripcion
+- conscripció
+- conscripción
+- Conscriptie
+- Conscriptio
+- conscription
+- conscripție
+- conscrição
+- Coscrision obligatòria
+- coscrizione
+- deviga militservo
+- diensplig
+- dienstplicht
+- Gorfodaeth filwrol
+- Herskylda
+- Karaklausība
+- Karo prievolė
+- Məcburi hərbi xidmət
+- nabor
+- Nahitaezko errekrutatze
+- Pengerahan
+- pobór
+- prizoov
+- recrutamento
+- Regrutacija
+- Rekrutimi
+- sorkatonai szolgálat
+- Sundaeg
+- vearjogeatnegasvuohta
+- verneplikt
+- viärjukenigâsvuotâ
+- värnplikt
+- værnepligt
+- všeobecná branná povinnost
+- wajib militer
+- Wajib militèr
+- Wehrpflicht
+- zorunlu askerlik
+- στρατολόγηση
+- військовий обов'язок
+- воінскі абавязак
+- воінская павіннасьць
+- Военна повинност
+- воинская обязанность
+- регрутација
+- Регрутирање
+- ТӀемлойн декхар
+- Զինվորական ծառայություն
+- גיוס חובה
+- פּריזיוו
+- ایجباری عسگرلیک
+- تجنيد إجباري
+- جبري پوځي خدمت
+- جبری بھرتی
+- خدمت وظیفه عمومی
+- سەربازیی زۆرەملێ
+- अनिवार्य सैन्य सेवा
+- বাধ্যতামূলক সামরিক সেবা
+- നിർബന്ധിത സൈനിക സേവനം
+- හේවායනය
+- การเกณฑ์ทหาร
+- ဥပဒေအရ စစ်မှုထမ်းခြင်း
+- 徴兵制度
+- 徵兵制
+- 招兵
+- 징병제
 has_id_wikidata: Q580750
 subclass_of:
-  - "[[_Standards/WikiData/WD~military_service,209572]]"
-  - "[[_Standards/WikiData/WD~military_recruitment,451987]]"
+- '[[_Standards/WikiData/WD~military_service,209572]]'
+- '[[_Standards/WikiData/WD~military_recruitment,451987]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~armed_forces,772547]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~armed_forces,772547]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~phase,1188986]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-practiced_by: "[[_Standards/WikiData/WD~conscript_soldier,2672656]]"
-different_from: "[[_Standards/WikiData/WD~Q11819946,11819946]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12112427,12112427]]"
+- '[[_Standards/WikiData/WD~phase,1188986]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+practiced_by: '[[_Standards/WikiData/WD~conscript_soldier,2672656]]'
+different_from: '[[_Standards/WikiData/WD~Q11819946,11819946]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12112427,12112427]]'
 Commons_category: Conscription
+dv_has_:
+  name_:
+    af: diensplig
+    ar: تجنيد إجباري
+    az: Məcburi hərbi xidmət
+    azb: ایجباری عسگرلیک
+    bar: Sundaeg
+    be: воінскі абавязак
+    be-tarask: воінская павіннасьць
+    bg: Военна повинност
+    bn: বাধ্যতামূলক সামরিক সেবা
+    ca: conscripció
+    ce: ТӀемлойн декхар
+    ckb: سەربازیی زۆرەملێ
+    cs: všeobecná branná povinnost
+    cy: Gorfodaeth filwrol
+    da: værnepligt
+    de: Wehrpflicht
+    el: στρατολόγηση
+    en: conscription
+    eo: deviga militservo
+    es: conscripción
+    et: ajateenistus
+    eu: Nahitaezko errekrutatze
+    fa: خدمت وظیفه عمومی
+    fi: asevelvollisuus
+    fr: conscription
+    ga: coinscríobh
+    gan: 招兵
+    gl: recrutamento
+    he: גיוס חובה
+    hi: अनिवार्य सैन्य सेवा
+    hr: Regrutacija
+    hu: sorkatonai szolgálat
+    hy: Զինվորական ծառայություն
+    id: wajib militer
+    is: Herskylda
+    it: coscrizione
+    ja: 徴兵制度
+    jv: Wajib militèr
+    ko: 징병제
+    la: Conscriptio
+    li: Conscriptie
+    lt: Karo prievolė
+    lv: Karaklausība
+    mk: Регрутирање
+    ml: നിർബന്ധിത സൈനിക സേവനം
+    ms: Pengerahan
+    my: ဥပဒေအရ စစ်မှုထမ်းခြင်း
+    nb: verneplikt
+    nl: dienstplicht
+    nn: verneplikt
+    oc: Conscripcion
+    pl: pobór
+    ps: جبري پوځي خدمت
+    pt: conscrição
+    ro: conscripție
+    ru: воинская обязанность
+    se: vearjogeatnegasvuohta
+    sh: regrutacija
+    si: හේවායනය
+    sk: Branná povinnosť
+    sl: nabor
+    smn: viärjukenigâsvuotâ
+    sms: prizoov
+    sq: Rekrutimi
+    sr: регрутација
+    sv: värnplikt
+    th: การเกณฑ์ทหาร
+    tr: zorunlu askerlik
+    uk: військовий обов'язок
+    ur: جبری بھرتی
+    vec: Coscrision obligatòria
+    vi: Chế độ quân dịch bắt buộc
+    yi: פּריזיוו
+    yue: 徵兵制
+    zh: 徵兵制
 ---
-
 # [[Conscription]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conscription,580750|WD~Conscription,580750]] 

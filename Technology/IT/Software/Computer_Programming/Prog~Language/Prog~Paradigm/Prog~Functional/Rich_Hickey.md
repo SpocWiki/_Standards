@@ -1,9 +1,34 @@
 ---
 aliases:
-  - Rich Hickey
-  - Richard Hickey
-  - Rich_Hickey
+- Rich Hickey
+- Richard Hickey
+- Rich_Hickey
+- Річард Хіккі
+- Ричард Хикки
+- ריצארד היקיי
+- റിച്ച് ഹിക്കി
+- リッチ・ヒッキー
 has_id_wikidata: Q2094209
+dv_has_:
+  name_:
+    ast: Richard Hickey
+    ca: Richard Hickey
+    cy: Richard Hickey
+    de: Richard Hickey
+    en: Richard Hickey
+    es: Richard Hickey
+    fr: Richard Hickey
+    he: ריצארד היקיי
+    id: Richard Hickey
+    ja: リッチ・ヒッキー
+    ml: റിച്ച് ഹിക്കി
+    nl: Richard Hickey
+    pl: Rich Hickey
+    pt: Richard Hickey
+    pt-br: Richard Hickey
+    ru: Ричард Хикки
+    sl: Richard Hickey
+    uk: Річард Хіккі
 ---
 # [[Rich_Hickey]]
 

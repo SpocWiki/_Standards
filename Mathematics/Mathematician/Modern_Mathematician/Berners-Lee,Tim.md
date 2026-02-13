@@ -1,62 +1,105 @@
 ---
 aliases:
-  - Tim Berners-Lee
-  - Timothy John Berners-Lee
-  - TimBL
-  - Tim_Berners-Lee
-  - Berners-Lee,Tim
+- Berners-Lee,Tim
+- Berners-Li Tim
+- jan Sin Panali
+- Tim Berners-Lee
+- Tim Berners-Li
+- TimBL
+- Timotheus Ioannes Berners-Lee
+- Timothy John Berners-Lee
+- Tims Bērnerss-Lī
+- Tim_Berners-Lee
+- Τιμ Μπέρνερς Λι
+- Бернерс-Ли, Тим
+- Тім Бернерс-Лі
+- Тим Бернерс-Ли
+- Тим Бърнърс-Лий
+- Тым Бэрнэрз-Лі
+- Цім Бернерс-Лі
+- Թիմ Բերներս Լի
+- טים בערנערס-לי
+- טים ברנרס-לי
+- تيم بيرنرز لى
+- تيم بيرنرز لي
+- تیم برنرز لی
+- تیم بێرنەرز لی
+- ٹم برنرز لی
+- टिम बर्नर-ली
+- टिम बर्नर्स ली
+- टिम बर्नर्स-ली
+- টিম বার্নার্স-লি
+- টিম বাৰ্নাৰ্ছ লী
+- ਟਿਮ ਬਰਨਰਸ-ਲੀ
+- டிம் பேர்னேர்ஸ்-லீ
+- టిమ్ బెర్నర్స్ లీ
+- ಟಿಮ್ ಬರ್ನರ್ಸ್ ಲೀ
+- ടിം ബർണേയ്സ് ലീ
+- ටිම් බර්නර්ස් ලී
+- ทิม เบอร์เนิร์ส-ลี
+- တင်မ် ဘာနာလီ
+- ტიმ ბერნერს-ლი
+- ቲም ባርነርስ ሊ
+- ប៊ឺណឺស លី
+- ᱴᱤᱢ ᱵᱚᱨᱱᱚᱨᱥ-ᱞᱤ
+- ティム・バーナーズ＝リー
+- 提姆·柏納-李
+- 李柏納
+- 添·班拿斯李
+- 蒂姆·伯纳斯-李
+- 팀 버너스리
 has_id_wikidata: Q80
 academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
 affiliation_string:
-  - MIT Computer Science and Artificial Intelligence Laboratory
-  - MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
-  - World Wide Web Foundation
+- MIT Computer Science and Artificial Intelligence Laboratory
+- MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+- World Wide Web Foundation
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Berners-Lee%20-%20The%20New%20Elizabethans%20-%2029%20August%202012.flac
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
-  - '[[_Standards/WikiData/WD~Worthy_of_the_City,99864]]'
-  - '[[_Standards/WikiData/WD~Turing_Award,185667]]'
-  - '[[_Standards/WikiData/WD~Marconi_Prize,473292]]'
-  - '[[_Standards/WikiData/WD~Japan_Prize,908745]]'
-  - '[[_Standards/WikiData/WD~ACM_Software_System_Award,986509]]'
-  - '[[_Standards/WikiData/WD~Charles_Stark_Draper_Prize,1063447]]'
-  - '[[_Standards/WikiData/WD~Lovelace_Medal,1258725]]'
-  - '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
-  - '[[_Standards/WikiData/WD~Millennium_Technology_Prize,1853663]]'
-  - '[[_Standards/WikiData/WD~W._Wallace_McDowell_Award,2536791]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Technical_and_Scientific_Research,3320352]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_Prize_for_Engineering,4273323]]'
-  - '[[_Standards/WikiData/WD~IEEE_Koji_Kobayashi_Computers_and_Communications_Award,4377107]]'
-  - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
-  - '[[_Standards/WikiData/WD~Bodley_Medal,4936657]]'
-  - '[[_Standards/WikiData/WD~Dennis_Gabor_Medal_and_Prize,5311657]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_British_Computer_Society,5424551]]'
-  - '[[_Standards/WikiData/WD~Sir_Frank_Whittle_Medal,7526754]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
-  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
-  - '[[_Standards/WikiData/WD~Eduard-Rhein_Technology_Award,13554470]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Arts,15271633]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
-  - '[[_Standards/WikiData/WD~Lord_Lloyd_of_Kilgerran_Award,15709486]]'
-  - '[[_Standards/WikiData/WD~UNESCO_Niels_Bohr_Medal,17099726]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Academy_of_Engineering,18342538]]'
-  - '[[_Standards/WikiData/WD~ACM_Fellow,18748039]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Cross_of_Terra_Mariana,_1st_Class,23058979]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Liège,23700921]]'
-  - '[[_Standards/WikiData/WD~IEEE_Maxwell_Award,24589629]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Lancaster_University,28798222]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_Polytechnic_of_Madrid,28798225]]'
-  - '[[_Standards/WikiData/WD~Obedience_Award,29424853]]'
-  - '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
-  - '[[_Standards/WikiData/WD~Axel_Springer_Award,31838295]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Open_University_of_Catalonia,44379601]]'
-  - '[[_Standards/WikiData/WD~Paul_Evan_Peters_Award,45332938]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~OII_Lifetime_Achievement_Award,56682772]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yale_University,63072513]]'
-  - "[[_Standards/WikiData/WD~President's_Medal,85794397]]"
-  - '[[_Standards/WikiData/WD~EFF_Award,31323]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
+- '[[_Standards/WikiData/WD~Worthy_of_the_City,99864]]'
+- '[[_Standards/WikiData/WD~Turing_Award,185667]]'
+- '[[_Standards/WikiData/WD~Marconi_Prize,473292]]'
+- '[[_Standards/WikiData/WD~Japan_Prize,908745]]'
+- '[[_Standards/WikiData/WD~ACM_Software_System_Award,986509]]'
+- '[[_Standards/WikiData/WD~Charles_Stark_Draper_Prize,1063447]]'
+- '[[_Standards/WikiData/WD~Lovelace_Medal,1258725]]'
+- '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
+- '[[_Standards/WikiData/WD~Millennium_Technology_Prize,1853663]]'
+- '[[_Standards/WikiData/WD~W._Wallace_McDowell_Award,2536791]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Technical_and_Scientific_Research,3320352]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_Prize_for_Engineering,4273323]]'
+- '[[_Standards/WikiData/WD~IEEE_Koji_Kobayashi_Computers_and_Communications_Award,4377107]]'
+- '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
+- '[[_Standards/WikiData/WD~Bodley_Medal,4936657]]'
+- '[[_Standards/WikiData/WD~Dennis_Gabor_Medal_and_Prize,5311657]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_British_Computer_Society,5424551]]'
+- '[[_Standards/WikiData/WD~Sir_Frank_Whittle_Medal,7526754]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+- '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+- '[[_Standards/WikiData/WD~Eduard-Rhein_Technology_Award,13554470]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Arts,15271633]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Lord_Lloyd_of_Kilgerran_Award,15709486]]'
+- '[[_Standards/WikiData/WD~UNESCO_Niels_Bohr_Medal,17099726]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Academy_of_Engineering,18342538]]'
+- '[[_Standards/WikiData/WD~ACM_Fellow,18748039]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Cross_of_Terra_Mariana,_1st_Class,23058979]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Liège,23700921]]'
+- '[[_Standards/WikiData/WD~IEEE_Maxwell_Award,24589629]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Lancaster_University,28798222]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_Polytechnic_of_Madrid,28798225]]'
+- '[[_Standards/WikiData/WD~Obedience_Award,29424853]]'
+- '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
+- '[[_Standards/WikiData/WD~Axel_Springer_Award,31838295]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Open_University_of_Catalonia,44379601]]'
+- '[[_Standards/WikiData/WD~Paul_Evan_Peters_Award,45332938]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~OII_Lifetime_Achievement_Award,56682772]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yale_University,63072513]]'
+- "[[_Standards/WikiData/WD~President's_Medal,85794397]]"
+- '[[_Standards/WikiData/WD~EFF_Award,31323]]'
 birth_name: Timothy John Berners-Lee
 Bluesky_handle: timbl.bsky.social
 Commons_category: Tim Berners-Lee
@@ -65,23 +108,23 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 date_of_birth: 1955-06-08
 described_at_URL: http://www.bbc.co.uk/things/2166d5db-3cd1-4d8a-a066-bddb220ef216#id
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~The_Queen's_College,73094]]"
-  - '[[_Standards/WikiData/WD~Emanuel_School,5369138]]'
+- "[[_Standards/WikiData/WD~The_Queen's_College,73094]]"
+- '[[_Standards/WikiData/WD~Emanuel_School,5369138]]'
 employer:
-  - '[[_Standards/WikiData/WD~Open_Data_Institute,7095994]]'
-  - '[[_Standards/WikiData/WD~Plessey,7204713]]'
-  - '[[_Standards/WikiData/WD~School_of_Electronics_and_Computer_Science,_University_of_Southampton,7432436]]'
-  - '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
-  - '[[_Standards/WikiData/WD~CERN,42944]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Open_Data_Institute,7095994]]'
+- '[[_Standards/WikiData/WD~Plessey,7204713]]'
+- '[[_Standards/WikiData/WD~School_of_Electronics_and_Computer_Science,_University_of_Southampton,7432436]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
+- '[[_Standards/WikiData/WD~CERN,42944]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 family_name: '[[_Standards/WikiData/WD~Berners-Lee,18375238]]'
 father: '[[_Standards/WikiData/WD~Conway_Berners-Lee,5166696]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~information_technology,11661]]'
-  - '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~information_technology,11661]]'
+- '[[_Standards/WikiData/WD~computer_science,21198]]'
 GitHub_username: timbl
 given_name: '[[_Standards/WikiData/WD~Tim,1369663]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
@@ -94,31 +137,31 @@ Libris_URI: dbqtznnx2d0rnc2
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 Mastodon_address: timbl@w3c.social
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Association_for_Computing_Machinery,127992]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Association_for_Computing_Machinery,127992]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
 mother: '[[_Standards/WikiData/WD~Mary_Lee_Woods,16492]]'
 name_in_native_language: Tim Berners-Lee
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 noble_title: '[[_Standards/WikiData/WD~Sir,209690]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~WorldWideWeb,590890]]'
-  - '[[_Standards/WikiData/WD~Design_Issues_for_the_World_Wide_Web,126010690]]'
-  - '[[_Standards/WikiData/WD~World_Wide_Web,466]]'
-  - '[[_Standards/WikiData/WD~HTTP,8777]]'
-  - '[[_Standards/WikiData/WD~HTML,8811]]'
-  - '[[_Standards/WikiData/WD~web_server,11288]]'
-  - '[[_Standards/WikiData/WD~Semantic_Web,54837]]'
+- '[[_Standards/WikiData/WD~WorldWideWeb,590890]]'
+- '[[_Standards/WikiData/WD~Design_Issues_for_the_World_Wide_Web,126010690]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web,466]]'
+- '[[_Standards/WikiData/WD~HTTP,8777]]'
+- '[[_Standards/WikiData/WD~HTML,8811]]'
+- '[[_Standards/WikiData/WD~web_server,11288]]'
+- '[[_Standards/WikiData/WD~Semantic_Web,54837]]'
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
-  - '[[_Standards/WikiData/WD~web_developer,6859454]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~web_developer,6859454]]'
 official_website: http://www.w3.org/People/Berners-Lee/
 ORCID_iD: 0000-0003-1279-3709
 place_of_birth: '[[_Standards/WikiData/WD~London,84]]'
@@ -133,8 +176,184 @@ Wolfram_Language_entity_code: Entity["Person", "TimBerners-Lee::958zk"]
 work_location: '[[_Standards/WikiData/WD~CERN,42944]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 X_username: timberners_lee
+dv_has_:
+  name_:
+    af: Tim Berners-Lee
+    am: ቲም ባርነርስ ሊ
+    an: Tim Berners-Lee
+    ar: تيم بيرنرز لي
+    arz: تيم بيرنرز لى
+    as: টিম বাৰ্নাৰ্ছ লী
+    ast: Tim Berners-Lee
+    az: Tim Berners-Li
+    azb: تیم برنرز لی
+    ba: Тим Бернерс-Ли
+    bar: Tim Berners-Lee
+    be: Цім Бернерс-Лі
+    be-tarask: Тым Бэрнэрз-Лі
+    bg: Тим Бърнърс-Лий
+    bho: टिम बर्नर्स-ली
+    bn: টিম বার্নার্স-লি
+    br: Tim Berners-Lee
+    bs: Tim Berners-Lee
+    btm: Tim Berners-Lee
+    ca: Tim Berners-Lee
+    ce: Бернерс-Ли, Тим
+    ckb: تیم بێرنەرز لی
+    co: Tim Berners-Lee
+    crh: Tim Berners-Li
+    cs: Tim Berners-Lee
+    cy: Tim Berners-Lee
+    da: Tim Berners-Lee
+    de: Tim Berners-Lee
+    de-at: Tim Berners-Lee
+    de-ch: Tim Berners-Lee
+    dty: टिम बर्नर्स ली
+    el: Τιμ Μπέρνερς Λι
+    en: Tim Berners-Lee
+    en-ca: Tim Berners-Lee
+    en-gb: Tim Berners-Lee
+    eo: Tim Berners-Lee
+    es: Tim Berners-Lee
+    et: Tim Berners-Lee
+    eu: Tim Berners-Lee
+    ext: Tim Berners-Lee
+    fa: تیم برنرز لی
+    fi: Tim Berners-Lee
+    fo: Tim Berners-Lee
+    fr: Tim Berners-Lee
+    frp: Tim Berners-Lee
+    frr: Tim Berners-Lee
+    fur: Tim Berners-Lee
+    fy: Tim Berners-Lee
+    ga: Tim Berners-Lee
+    gd: Tim Berners-Lee
+    gl: Tim Berners-Lee
+    gn: Tim Berners-Lee
+    gsw: Tim Berners-Lee
+    hak: Tim Berners-Lee
+    he: טים ברנרס-לי
+    hi: टिम बर्नर्स ली
+    hif: Tim Berners-Lee
+    hr: Tim Berners-Lee
+    hu: Tim Berners-Lee
+    hy: Թիմ Բերներս Լի
+    ia: Tim Berners-Lee
+    id: Tim Berners-Lee
+    ie: Tim Berners-Lee
+    ilo: Tim Berners-Lee
+    io: Tim Berners-Lee
+    is: Tim Berners-Lee
+    it: Tim Berners-Lee
+    ja: ティム・バーナーズ＝リー
+    jv: Tim Berners-Lee
+    ka: ტიმ ბერნერს-ლი
+    kaa: Tim Berners-Lee
+    kg: Tim Berners-Lee
+    kk: Тим Бернерс-Ли
+    kl: Tim Berners-Lee
+    km: ប៊ឺណឺស លី
+    kn: ಟಿಮ್ ಬರ್ನರ್ಸ್ ಲೀ
+    ko: 팀 버너스리
+    ks: ٹم برنرز لی
+    ksh: Tim Berners-Lee
+    kw: Tim Berners-Lee
+    ky: Тим Бернерс-Ли
+    la: Timotheus Ioannes Berners-Lee
+    lb: Tim Berners-Lee
+    li: Tim Berners-Lee
+    lij: Tim Berners-Lee
+    lmo: Tim Berners-Lee
+    lt: Tim Berners-Lee
+    lv: Tims Bērnerss-Lī
+    mai: टिम बर्नर्स ली
+    mg: Tim Berners-Lee
+    min: Tim Berners-Lee
+    mk: Тим Бернерс-Ли
+    ml: ടിം ബർണേയ്സ് ലീ
+    mn: Тим Бернерс-Ли
+    mr: टिम बर्नर्स-ली
+    ms: Tim Berners-Lee
+    mt: Tim Berners-Lee
+    mul: Tim Berners-Lee
+    my: တင်မ် ဘာနာလီ
+    nan: Tim Berners-Lee
+    nap: Tim Berners-Lee
+    nb: Tim Berners-Lee
+    nds: Tim Berners-Lee
+    nds-nl: Tim Berners-Lee
+    ne: टिम बर्नर-ली
+    new: टिम बर्नर्स ली
+    nl: Tim Berners-Lee
+    nn: Tim Berners-Lee
+    nrm: Tim Berners-Lee
+    oc: Tim Berners-Lee
+    os: Бернерс-Ли, Тим
+    pa: ਟਿਮ ਬਰਨਰਸ-ਲੀ
+    pam: Tim Berners-Lee
+    pap: Tim Berners-Lee
+    pcd: Tim Berners-Lee
+    pl: Tim Berners-Lee
+    pms: Tim Berners-Lee
+    pnb: ٹم برنرز لی
+    pt: Tim Berners-Lee
+    rm: Tim Berners-Lee
+    ro: Tim Berners-Lee
+    ru: Тим Бернерс-Ли
+    rue: Тім Бернерс-Лі
+    sah: Тим Бернерс-Ли
+    sat: ᱴᱤᱢ ᱵᱚᱨᱱᱚᱨᱥ-ᱞᱤ
+    sc: Tim Berners-Lee
+    scn: Tim Berners-Lee
+    sco: Tim Berners-Lee
+    sgs: Tim Berners-Lee
+    sh: Tim Berners-Lee
+    si: ටිම් බර්නර්ස් ලී
+    sk: Tim Berners-Lee
+    sl: Tim Berners-Lee
+    sq: Tim Berners-Lee
+    sr: Тим Бернерс-Ли
+    sr-ec: Тим Бернерс-Ли
+    sr-el: Tim Berners-Lee
+    sv: Tim Berners-Lee
+    sw: Tim Berners-Lee
+    ta: டிம் பேர்னேர்ஸ்-லீ
+    te: టిమ్ బెర్నర్స్ లీ
+    tg: Тим Бернерс-Ли
+    th: ทิม เบอร์เนิร์ส-ลี
+    tl: Tim Berners-Lee
+    tok: jan Sin Panali
+    tr: Tim Berners-Lee
+    tt: Tim Berners-Li
+    tyv: Бернерс-Ли, Тим
+    uk: Тім Бернерс-Лі
+    ur: ٹم برنرز لی
+    uz: Tim Berners-Lee
+    vec: Tim Berners-Lee
+    vep: Berners-Li Tim
+    vi: Tim Berners-Lee
+    vls: Tim Berners-Lee
+    vo: Tim Berners-Lee
+    wa: Tim Berners-Lee
+    war: Tim Berners-Lee
+    wo: Tim Berners-Lee
+    wuu: 蒂姆·伯纳斯-李
+    xmf: ტიმ ბერნერს-ლი
+    yi: טים בערנערס-לי
+    yo: Tim Berners-Lee
+    yue: 李柏納
+    za: Tim Berners-Lee
+    zh: 提姆·柏納-李
+    zh-cn: 蒂姆·伯纳斯-李
+    zh-hans: 蒂姆·伯纳斯-李
+    zh-hant: 提姆·柏納-李
+    zh-hk: 添·班拿斯李
+    zh-mo: 提姆·柏納-李
+    zh-my: 蒂姆·伯纳斯-李
+    zh-sg: 蒂姆·伯纳斯-李
+    zh-tw: 提姆·柏納-李
+    zu: Tim Berners-Lee
 ---
-
 # [[Berners-Lee,Tim]] 
 
 #has_/time_/started :: 1955-06-08 

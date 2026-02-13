@@ -1,13 +1,77 @@
 ---
 aliases:
+- Atlantogenat
+- Atlantogenata
+- Atlantoxenados
+- אטלנטוגנטה
+- اطلسژنداران
+- ثدييات أطلسية
+- ثدييات اطلسيه
+- 大西洋兽类
+- 大西洋獸類
+- 大西洋類
+- 대서양계동물군
 has_id_wikidata: Q2718670
-taxon_rank: "[[_Standards/WikiData/WD~magnorder,6054237]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~magnorder,6054237]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantogenata.jpg
 Commons_category: Atlantogenata
 taxon_name: Atlantogenata
+dv_has_:
+  name_:
+    an: Atlantogenata
+    ar: ثدييات أطلسية
+    arz: ثدييات اطلسيه
+    ast: Atlantogenata
+    bg: Atlantogenata
+    ca: Atlantogenat
+    ceb: Atlantogenata
+    cs: Atlantogenata
+    de: Atlantogenata
+    el: Atlantogenata
+    en: Atlantogenata
+    eo: Atlantogenata
+    es: Atlantogenata
+    eu: Atlantogenata
+    ext: Atlantogenata
+    fa: اطلسژنداران
+    fi: Atlantogenata
+    fr: Atlantogenata
+    ga: Atlantogenata
+    gl: Atlantoxenados
+    he: אטלנטוגנטה
+    ia: Atlantogenata
+    ie: Atlantogenata
+    io: Atlantogenata
+    it: Atlantogenata
+    ja: 大西洋類
+    ko: 대서양계동물군
+    la: Atlantogenata
+    mul: Atlantogenata
+    nb: Atlantogenata
+    nl: Atlantogenata
+    oc: Atlantogenata
+    pl: Atlantogenata
+    pt: Atlantogenata
+    pt-br: Atlantogenata
+    ro: Atlantogenata
+    ru: Atlantogenata
+    sl: Atlantogenata
+    sq: Atlantogenata
+    sr: Atlantogenata
+    sv: Atlantogenata
+    tr: Atlantogenata
+    uk: Atlantogenata
+    vi: Atlantogenata
+    vo: Atlantogenata
+    war: Atlantogenata
+    zh: 大西洋獸類
+    zh-cn: 大西洋兽类
+    zh-hans: 大西洋兽类
+    zh-hant: 大西洋獸類
+    zh-hk: 大西洋獸類
+    zh-tw: 大西洋獸類
 ---
-
 # [[Atlantogenata]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]] 

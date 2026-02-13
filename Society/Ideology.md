@@ -1,13 +1,103 @@
 ---
 aliases:
-  - Ideology
+- Aragti
+- Aňyýet
+- Bichardhara
+- hugmyndafræði
+- hugmyndafrøði
+- ideoleg
+- ideologi
+- ideologia
+- Ideologie
+- ideologiezh
+- ideologiija
+- ideologija
+- ideologio
+- ideologiya
+- ideologjia
+- Ideology
+- Ideologìa
+- ideología
+- ideolohia
+- ideolohiya
+- ideolohía
+- ideoloji
+- ideolojia
+- ideoloogia
+- ideoloxía
+- ideoloġija
+- ideoloģija
+- ideológia
+- ideołozia
+- Ideuoluogėjė
+- ideyolochía
+- idiuluggìa
+- Idolohiya
+- idé-eolaíocht
+- Idéologi
+- idéologie
+- Ilaanya
+- itikadi
+- Mafkura
+- mefküre
+- nkwenkwe na ụkpụrụ
+- tasnakta
+- tybonieth
+- Yuyay yachay
+- Ì-sek hêng-thài
+- îdeolojî
+- ý thức hệ
+- İdeolociy
+- ιδεολογία
+- ідеологія
+- ідеолоґія
+- ідэалёгія
+- ідэалогія
+- Идеологи
+- идеологија
+- Идеология
+- Идеологиясь
+- Үзэл суртал
+- գաղափարախոսություն
+- Գաղափարախօսութիւն
+- אידאולוגיה
+- אידעאלאגיע
+- آئیڈیالوجی
+- أيديولوجيا
+- ئایدیۆلۆجی
+- ئىدېئولوگىيە
+- ايديولوجيا
+- ايديولوݢي
+- ايډيالوژي
+- ایدئولوژی
+- خیالیت
+- نظرين جو علم
+- ߛߣߐ߬ߡߍ߬ߘߐ߬ߦߊ
+- विचारधारा
+- ভাবাদর্শ
+- মতাদৰ্শ
+- ਵਿਚਾਰਧਾਰਾ
+- கருத்தியல்
+- പ്രത്യയശാസ്ത്രം
+- දෘෂ්ටිවාදය
+- อุดมการณ์
+- ອຸດົມການທາງການເມືອງ
+- ဒဿန
+- იდეოლოგია
+- ርዕዮተ ዓለም
+- មនោគមវិជ្ជា
+- イデオロギー
+- 意理
+- 意識形態
+- 意识形态
+- 이데올로기
 has_id_wikidata: Q7257
 Commons_category: Ideologies
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 equivalent_class: http://dbpedia.org/ontology/Ideology
 Iconclass_notation: 52C52
 image: http://commons.wikimedia.org/wiki/Special:FilePath/War2.png
@@ -15,8 +105,167 @@ OmegaWiki_Defined_Meaning: 1841
 part_of: '[[_Standards/WikiData/WD~culture,11042]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ideologie-article.ogg
 subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+dv_has_:
+  name_:
+    af: ideologie
+    am: ርዕዮተ ዓለም
+    an: ideyolochía
+    ar: أيديولوجيا
+    arz: ايديولوجيا
+    as: মতাদৰ্শ
+    ast: ideoloxía
+    av: Идеология
+    az: ideologiya
+    azb: ایدئولوژی
+    ba: Идеология
+    be: ідэалогія
+    be-tarask: ідэалёгія
+    bg: Идеология
+    bn: ভাবাদর্শ
+    br: ideologiezh
+    bs: ideologija
+    btm: Ideologi
+    bxr: Үзэл суртал
+    ca: ideologia
+    ce: Идеологи
+    ckb: ئایدیۆلۆجی
+    crh: mefküre
+    cs: ideologie
+    cy: ideoleg
+    da: ideologi
+    de: Ideologie
+    de-ch: Ideologie
+    diq: İdeolociy
+    el: ιδεολογία
+    en: ideology
+    en-ca: ideology
+    en-gb: ideology
+    eo: ideologio
+    es: ideología
+    et: ideoloogia
+    eu: ideologia
+    fa: ایدئولوژی
+    fi: ideologia
+    fo: hugmyndafrøði
+    fr: idéologie
+    fy: ideology
+    ga: idé-eolaíocht
+    gl: ideoloxía
+    gsw: Ideologie
+    he: אידאולוגיה
+    hi: विचारधारा
+    hif: Bichardhara
+    hr: ideologija
+    hsb: ideologija
+    hu: ideológia
+    hy: գաղափարախոսություն
+    hyw: Գաղափարախօսութիւն
+    id: ideologi
+    ig: nkwenkwe na ụkpụrụ
+    ilo: ideolohia
+    io: ideologio
+    is: hugmyndafræði
+    it: ideologia
+    ja: イデオロギー
+    jv: Idéologi
+    ka: იდეოლოგია
+    kaa: ideologiya
+    kab: tasnakta
+    kk: Идеология
+    km: មនោគមវិជ្ជា
+    ko: 이데올로기
+    krc: Идеология
+    ku: îdeolojî
+    ku-latn: îdeolojî
+    kw: tybonieth
+    ky: Идеология
+    la: Ideologia
+    lb: Ideologie
+    lfn: ideolojia
+    li: Ideologie
+    lmo: Ideologia
+    lo: ອຸດົມການທາງການເມືອງ
+    lt: ideologija
+    lv: ideoloģija
+    lzh: 意理
+    mdf: Идеологиясь
+    mk: идеологија
+    ml: പ്രത്യയശാസ്ത്രം
+    mn: Идеологи
+    ms: ideologi
+    ms-arab: ايديولوݢي
+    mt: ideoloġija
+    my: ဒဿန
+    mzn: ایدئولوژی
+    nan: Ì-sek hêng-thài
+    nb: ideologi
+    nds: Ideologie
+    new: विचारधारा
+    nl: ideologie
+    nn: ideologi
+    nqo: ߛߣߐ߬ߡߍ߬ߘߐ߬ߦߊ
+    oc: ideologia
+    om: Ilaanya
+    os: идеологи
+    pa: ਵਿਚਾਰਧਾਰਾ
+    pam: ideolohía
+    pap: ideologia
+    pl: ideologia
+    pms: Ideologìa
+    pnb: آئیڈیالوجی
+    ps: ايډيالوژي
+    pt: ideologia
+    pt-br: ideologia
+    qu: Yuyay yachay
+    ro: ideologie
+    ru: идеология
+    rue: ідеолоґія
+    sah: Идеология
+    scn: idiuluggìa
+    sco: ideology
+    sd: نظرين جو علم
+    se: ideologiija
+    sgs: Ideuoluogėjė
+    sh: ideologija
+    si: දෘෂ්ටිවාදය
+    sk: ideológia
+    sl: ideologija
+    smn: ideologia
+    sms: ideologia
+    so: Aragti
+    sq: ideologjia
+    sr: идеологија
+    sv: ideologi
+    sw: itikadi
+    ta: கருத்தியல்
+    tg: идеология
+    th: อุดมการณ์
+    tk: Aňyýet
+    tl: ideolohiya
+    tr: ideoloji
+    tt: Идеология
+    udm: идеология
+    ug: ئىدېئولوگىيە
+    uk: ідеологія
+    ur: خیالیت
+    uz: Mafkura
+    vec: ideołozia
+    vi: ý thức hệ
+    war: Idolohiya
+    wuu: 意識形態
+    xmf: იდეოლოგია
+    yi: אידעאלאגיע
+    yue: 意識形態
+    zh: 意識形態
+    zh-cn: 意识形态
+    zh-hans: 意识形态
+    zh-hant: 意識形態
+    zh-hk: 意識形態
+    zh-mo: 意識形態
+    zh-my: 意识形态
+    zh-sg: 意识形态
+    zh-tw: 意識形態
 ---
-
 # [[Ideology]] 
 
 #is_/same_as :: [[../WikiData/WD~Ideology,7257|WD~Ideology,7257]] 

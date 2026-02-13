@@ -1,25 +1,228 @@
 ---
 aliases:
-  - Capital(Economics)
+- Bhânḍhâ
+- capital
+- Capital(Economics)
+- capitale
+- capitali
+- Chu-pún
+- cyfalaf
+- fàráytà
+- haupū rawa
+- höfuðstóll
+- kapitaal
+- kapital
+- kapitalas
+- kapitali
+- kapitalo
+- kapitał
+- kapitál
+- kapitāls
+- Kapėtals
+- Kevala
+- Mason-karena
+- Modal
+- Pokok
+- Puhunan
+- Punci
+- Punji
+- puonan
+- pääoma
+- Rasilmali
+- sermaye
+- Sərmayə
+- tőke
+- tư bản
+- Κεφάλαιο
+- ваньбурет
+- капітал
+- капитал
+- Сармоя
+- կապիտալ
+- הון
+- קאפיטאל
+- رأس مال
+- راس مال
+- راسمال
+- سرمائيداري
+- سرمایه
+- سرمایہ
+- سەرمایە
+- پانګه
+- کیپیٹل
+- पूँजी
+- भांडवल
+- পুঁজি
+- মূলধন
+- ਸਰਮਾਇਆ
+- மூலதனம்
+- మూలధనం
+- ಬಂಡವಾಳ
+- മൂലധനം
+- ทุน
+- ທຶນ
+- အရင်းအနှီး
+- კაპიტალი
+- ሙአለ ንዋይ
+- 資本
+- 资本
+- 자본
 has_id_wikidata: Q8137
 Commons_category: Capital (economics)
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-  - '[[_Standards/WikiData/WD~financial_capital,1897397]]'
-  - '[[_Standards/WikiData/WD~capital,3916071]]'
+- '[[_Standards/WikiData/WD~financial_capital,1897397]]'
+- '[[_Standards/WikiData/WD~capital,3916071]]'
 instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649]]'
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
 name: Capital (economics)
 subclass_of: '[[_Standards/WikiData/WD~instrumental_value,3736009]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Types_of_capital,43143684]]'
 U_S_National_Archives_Identifier: 10637733
+dv_has_:
+  name_:
+    af: kapitaal
+    am: ሙአለ ንዋይ
+    an: capital
+    ar: رأس مال
+    ary: راسمال
+    arz: راس مال
+    as: মূলধন
+    ast: capital
+    az: Sərmayə
+    azb: سرمایه
+    ba: капитал
+    be: капітал
+    be-tarask: капітал
+    bew: Punci
+    bg: капитал
+    bn: পুঁজি
+    br: Kevala
+    bs: kapital
+    btm: Pokok
+    ca: capital
+    ce: Капитал
+    ckb: سەرمایە
+    crh: kapital
+    cs: kapitál
+    cv: Капитал
+    cy: cyfalaf
+    da: kapital
+    de: Kapital
+    diq: Kapital
+    el: Κεφάλαιο
+    en: capital
+    en-ca: capital
+    en-gb: capital
+    eo: kapitalo
+    es: capital
+    et: kapital
+    eu: kapital
+    fa: سرمایه
+    fi: pääoma
+    fr: capital
+    gl: capital
+    gsw: Kapital
+    he: הון
+    hi: पूँजी
+    hif: Punji
+    hr: kapital
+    hu: tőke
+    hy: կապիտալ
+    id: Modal
+    ilo: puonan
+    io: kapitalo
+    is: höfuðstóll
+    it: capitale
+    ja: 資本
+    jv: Modal
+    ka: კაპიტალი
+    kk: капитал
+    kn: ಬಂಡವಾಳ
+    ko: 자본
+    krc: капитал
+    ku: Sermaye
+    ky: капитал
+    la: capitale
+    lb: Kapital
+    li: Kapitaal
+    lmo: capital
+    lo: ທຶນ
+    lt: kapitalas
+    lv: kapitāls
+    lzh: 資本
+    mad: Bhânḍhâ
+    mcn: fàráytà
+    mg: Mason-karena
+    mi: haupū rawa
+    mk: капитал
+    ml: മൂലധനം
+    mn: капитал
+    mr: भांडवल
+    ms: Modal
+    mt: kapital
+    my: အရင်းအနှီး
+    nan: Chu-pún
+    nb: kapital
+    nds: Kapitaal
+    nl: kapitaal
+    nn: kapital
+    oc: capital
+    os: капитал
+    pa: ਸਰਮਾਇਆ
+    pl: kapitał
+    pms: capital
+    pnb: کیپیٹل
+    ps: پانګه
+    pt: capital
+    pt-br: capital
+    ro: capital
+    ru: капитал
+    rue: капітал
+    sah: капитал
+    scn: capitali
+    sd: سرمائيداري
+    sgs: Kapėtals
+    sh: kapital
+    sk: kapitál
+    sl: kapital
+    sq: kapitali
+    sr: капитал
+    su: Modal
+    sv: kapital
+    sw: Rasilmali
+    ta: மூலதனம்
+    te: మూలధనం
+    tg: Сармоя
+    th: ทุน
+    tl: Puhunan
+    tr: sermaye
+    tt: капитал
+    udm: ваньбурет
+    uk: капітал
+    ur: سرمایہ
+    uz: Kapital
+    vec: capital
+    vi: tư bản
+    war: Kapital
+    wuu: 资本
+    yi: קאפיטאל
+    yue: 資本
+    zh: 资本
+    zh-cn: 资本
+    zh-hans: 资本
+    zh-hant: 資本
+    zh-hk: 資本
+    zh-mo: 資本
+    zh-my: 资本
+    zh-sg: 资本
+    zh-tw: 資本
 ---
-
 ## #has_/text_of_/abstract 
 
 > In economics, capital goods or capital are 

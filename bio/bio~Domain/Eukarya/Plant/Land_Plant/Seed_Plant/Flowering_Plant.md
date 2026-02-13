@@ -1,44 +1,159 @@
 ---
 aliases:
-  - Angiosperm
-  - Angiosperms
-  - Flowering Plant
-  - Flowering Plants
-  - Magnoliophyta
-  - Flowering_Plant
-  - flowering plants
-  - kritosemenke
-  - 被子植物
+- Angiosperm
+- angiosperma
+- Angiospermae
+- angiosperme
+- angiospermes
+- Angiospermi
+- Angiospermoj
+- Angiosperms
+- Anjyospèm
+- Anxiosperma
+- Bedecktsama
+- Bedecktsamer
+- Bedeksadiges
+- bedektzadigen
+- Bedektzoadign
+- Bedèkzäöjige
+- Biqiltoota Daaaraa
+- blomsterplanter
+- Bloosenplaanten
+- Bléieplanzen
+- dekkfrøplantar
+- Dhirta ubaxa
+- Dulfrævingar
+- Dækfrøede planter
+- Entikan masekar
+- flouerin plant
+- Flowering Plant
+- Flowering Plants
+- Flowering_Plant
+- Gulli oʻsimliklar
+- gömfröväxter
+- Ka'avo ipotýva
+- katteseemnetaimed
+- Khui-hoe si̍t-bu̍t
+- koppisiemeniset
+- kritosemenke
+- kritosjemenjače
+- krytosemenné
+- krytosemenné rastliny
+- Krytosymjenjak
+- landare loredun
+- magnolijūnai
+- Magnoliophyta
+- mula nga agsabsabong
+- Odóódó
+- okrytonasienne
+- Peitsemnižed
+- planda bláthanna
+- Planhigyn blodeuol
+- Planta florinte
+- Pókšyty semjenjak
+- Qatasqa muruyuq
+- riwekên tovdapoşrav
+- segsēkļi
+- Skrivenosemenice
+- Tanaman bakambang
+- Tanaman hin bukád
+- Teconxinachtli
+- Tetanduran ngembang
+- thực vật có hoa
+- Timesdurifsan
+- Tinanom na namumurak
+- Todecktsadige
+- tumbuhan berbunga
+- Tutuwuhan kembangan
+- zárvatermők
+- çiçekli bitki
+- Çiçəkli bitkilər
+- čiähásiemmânsiih
+- Žėidėnē augalā
+- ʻakau matala
+- Αγγειόσπερμα
+- Гүлді өсімдіктер
+- Дидинæгджын зайæгойтæ
+- Жабык уруктуулар
+- Зиза тохаш дола
+- кветкавыя
+- кветкавыя расьліны
+- покритонасінні
+- покритосеменни
+- скривеносеменица
+- скриеносеменици
+- ТІогьолаб гъвет-хер
+- цветковые растения
+- Цэцэгт ургамал
+- Чечеклĕ ӳсентăран
+- чәчәкле үсемлекләр
+- Шылтымнӧшман кушкыл
+- Ябыҡ орлоҡлолар
+- ծածկասերմեր
+- בליענדיקע פלאנצן
+- בעלי פרחים
+- اڠيوسڤرما
+- كاسيات البذور
+- پوشہٕ دَر کُلؠ کٔٹؠ
+- پُھل دار بوٹے
+- پھولدار پودے
+- چیچکلی بیتکیلر
+- ڕوەکی گوڵدار
+- ګل لرونکی بوټی
+- گلن وارا ٻوٽا
+- گیاهان گلدار
+- फुलझाडे
+- फूल
+- फूल फुल्ने वनस्पति
+- फूलदार पौधा
+- सपुष्पक पौधा
+- সপুষ্পক উদ্ভিদ
+- ਫੁੱਲਦਾਰ ਬੂਟਾ
+- பூக்கும் தாவரம்
+- ఆవృతబీజాలు
+- ಆವೃತಬೀಜ ಸಸ್ಯಗಳು
+- പുഷ്പിക്കുന്ന സസ്യങ്ങൾ
+- සපුෂ්ප ශාක
+- พืชดอก
+- ພືດດອກ
+- ပန်းပွင့်သော အပင်
+- პიოლამი ჩანარეფი
+- ყვავილოვანი მცენარეები
+- ክንንብ ዘር
+- 被子植物
+- 被子植物门
+- 開花植物
+- 속씨식물
 has_id_wikidata: Q25314
 title: Angiosperms
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
 different_from: '[[_Standards/WikiData/WD~flowering_plant,886167]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Magnoliopsida,1307404]]'
-  - '[[_Standards/WikiData/WD~Magnoliidae,13582382]]'
-  - '[[_Standards/WikiData/WD~Magnoliophyta,14562931]]'
-  - '[[_Standards/WikiData/WD~Angiospermae,14832431]]'
+- '[[_Standards/WikiData/WD~Magnoliopsida,1307404]]'
+- '[[_Standards/WikiData/WD~Magnoliidae,13582382]]'
+- '[[_Standards/WikiData/WD~Magnoliophyta,14562931]]'
+- '[[_Standards/WikiData/WD~Angiospermae,14832431]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Angiosperms,13217731]]'
-  - '[[_Standards/WikiData/WD~Template_Angiosperm_families,110519482]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Angiosperms,13217731]]'
+- '[[_Standards/WikiData/WD~Template_Angiosperm_families,110519482]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flower%20poster%202.jpg
 subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
 properties_for_this_type:
-  - flower color
-  - inflorescence
+- flower color
+- inflorescence
 OmegaWiki_Defined_Meaning: 173
 Colon_Classification: I5
 taxon_common_name:
-  - flowering plants
-  - kritosemenke
-  - 被子植物
+- flowering plants
+- kritosemenke
+- 被子植物
 Commons_gallery: Angiosperms
 taxon_name: Angiosperms
 Basisklassifikation: 42.56
@@ -46,8 +161,158 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sweetbay%20Magnolia%20
 EPPO_Code: 1ANGC
 P8189: 987012366955205171
 Krugosvet_article: nauka_i_tehnika/biologiya/TSVETKOVIE.html
+dv_has_:
+  name_:
+    af: Bedeksadiges
+    am: ክንንብ ዘር
+    an: Magnoliophyta
+    anp: फूल
+    ar: كاسيات البذور
+    as: সপুষ্পক উদ্ভিদ
+    ast: Magnoliophyta
+    av: ТІогьолаб гъвет-хер
+    az: Çiçəkli bitkilər
+    azb: چیچکلی بیتکیلر
+    ba: Ябыҡ орлоҡлолар
+    ban: Entikan masekar
+    bar: Bedecktsama
+    bcl: Tinanom na namumurak
+    be: кветкавыя
+    be-tarask: кветкавыя расьліны
+    bg: покритосеменни
+    bho: फूलदार पौधा
+    bjn: Tanaman bakambang
+    bn: সপুষ্পক উদ্ভিদ
+    bs: Magnoliophyta
+    ca: angiospermes
+    ceb: angiosperms
+    ckb: ڕوەکی گوڵدار
+    cs: krytosemenné
+    cv: Чечеклĕ ӳсентăран
+    cy: Planhigyn blodeuol
+    da: Dækfrøede planter
+    de: Bedecktsamer
+    de-ch: Bedecktsamer
+    diq: Angiosperms
+    dsb: Pókšyty semjenjak
+    dtp: Angiosperma
+    el: Αγγειόσπερμα
+    en: flowering plant
+    en-ca: Flowering plant
+    en-gb: flowering plant
+    eo: Angiospermoj
+    es: Magnoliophyta
+    et: katteseemnetaimed
+    eu: landare loredun
+    fa: گیاهان گلدار
+    fi: koppisiemeniset
+    fr: angiospermes
+    frr: Bloosenplaanten
+    ga: planda bláthanna
+    gl: Anxiosperma
+    gn: Ka'avo ipotýva
+    gv: Magnoliophyta
+    he: בעלי פרחים
+    hi: सपुष्पक पौधा
+    hr: kritosjemenjače
+    hsb: Krytosymjenjak
+    ht: Anjyospèm
+    hu: zárvatermők
+    hy: ծածկասերմեր
+    ia: angiosperms
+    id: tumbuhan berbunga
+    ilo: mula nga agsabsabong
+    inh: Зиза тохаш дола
+    io: Angiospermi
+    is: Dulfrævingar
+    it: Angiosperme
+    ja: 被子植物
+    jv: Tetanduran ngembang
+    ka: ყვავილოვანი მცენარეები
+    kab: Timesdurifsan
+    kk: Гүлді өсімдіктер
+    kn: ಆವೃತಬೀಜ ಸಸ್ಯಗಳು
+    ko: 속씨식물
+    ks: پوشہٕ دَر کُلؠ کٔٹؠ
+    ku: riwekên tovdapoşrav
+    ku-latn: riwekên tovdapoşrav
+    ky: Жабык уруктуулар
+    la: Angiospermae
+    lb: Bléieplanzen
+    lfn: Planta florinte
+    li: Bedèkzäöjige
+    lmo: Magnoliophyta
+    lo: ພືດດອກ
+    lt: magnolijūnai
+    lv: segsēkļi
+    map-bms: Tetanduran ngembang
+    mg: Angiospermae
+    mhr: Шылтымнӧшман кушкыл
+    mk: скриеносеменици
+    ml: പുഷ്പിക്കുന്ന സസ്യങ്ങൾ
+    mn: Цэцэгт ургамал
+    mr: फुलझाडे
+    ms: tumbuhan berbunga
+    ms-arab: اڠيوسڤرما
+    my: ပန်းပွင့်သော အပင်
+    nah: Teconxinachtli
+    nan: Khui-hoe si̍t-bu̍t
+    nb: blomsterplanter
+    nds: Todecktsadige
+    ne: फूल फुल्ने वनस्पति
+    nl: bedektzadigen
+    nn: dekkfrøplantar
+    oc: Magnoliophyta
+    om: Biqiltoota Daaaraa
+    os: Дидинæгджын зайæгойтæ
+    pa: ਫੁੱਲਦਾਰ ਬੂਟਾ
+    pl: okrytonasienne
+    pnb: پُھل دار بوٹے
+    ps: ګل لرونکی بوټی
+    pt: angiosperma
+    pt-br: Angiosperma
+    qu: Qatasqa muruyuq
+    ro: angiosperme
+    ru: цветковые растения
+    scn: Magnoliophyta
+    sco: flouerin plant
+    sd: گلن وارا ٻوٽا
+    sgs: Žėidėnē augalā
+    sh: Skrivenosemenice
+    si: සපුෂ්ප ශාක
+    sk: krytosemenné rastliny
+    sl: kritosemenke
+    smn: čiähásiemmânsiih
+    so: Dhirta ubaxa
+    sq: angiosperms
+    sr: скривеносеменица
+    su: Tutuwuhan kembangan
+    sv: gömfröväxter
+    sw: Angiospermae
+    ta: பூக்கும் தாவரம்
+    te: ఆవృతబీజాలు
+    th: พืชดอก
+    tl: Magnoliophyta
+    to: ʻakau matala
+    tr: çiçekli bitki
+    tt: чәчәкле үсемлекләр
+    uk: покритонасінні
+    ur: پھولدار پودے
+    uz: Gulli oʻsimliklar
+    vep: Peitsemnižed
+    vi: thực vật có hoa
+    vls: Bedektzoadign
+    war: Tanaman hin bukád
+    wuu: 被子植物
+    xmf: პიოლამი ჩანარეფი
+    yi: בליענדיקע פלאנצן
+    yo: Odóódó
+    yue: 開花植物
+    zh: 被子植物门
+    zh-cn: 被子植物门
+    zh-hant: 開花植物
+    zh-tw: 被子植物门
 ---
-
 # [[Angiosperms]] 
 
 Flowering Plants 

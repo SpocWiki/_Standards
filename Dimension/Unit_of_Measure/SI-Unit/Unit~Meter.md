@@ -1,96 +1,425 @@
 ---
 aliases:
-  - Metre
-  - Meter
-  - Unit~Meter
+- amiter
+- gŭng-chióh
+- huehcan
+- kong-chhioh
+- kûng-tshak
+- linja pi mute weka pi ma ale
+- Läng
+- m
+- meatair
+- meeter
+- meetere
+- meetter
+- mehtar
+- mehter
+- mehtir
+- metar
+- metatra
+- Meter
+- metr
+- metras
+- Metre
+- metri
+- metro
+- metros
+- metrs
+- metru
+- metrum
+- mettar
+- metur
+- metër
+- miita
+- mika
+- mita
+- mitara
+- miter
+- mitir
+- mitre
+- mitru
+- myjter
+- mèt
+- mète
+- mèter
+- mètre
+- méadar
+- mét
+- méter
+- mítà
+- mēter
+- mɛtɛlɛ
+- temira'ãha
+- Unit~Meter
+- μέτρο
+- аметр
+- м
+- мєтро
+- метар
+- Метер
+- метр
+- метра
+- метър
+- миэтэрэ
+- мэтар
+- մեթր
+- մետր
+- מטר
+- מעטער
+- متر
+- ميتر
+- ميترو
+- میٖٹَر
+- میٹر
+- مەتر
+- މީޓަރު
+- ߜߟߊ߬ߜߟߊ
+- मान
+- मिटर
+- मीटर
+- মিটার
+- মিটাৰ
+- ਮੀਟਰ
+- મીટર
+- ମିଟର
+- மீற்றர்
+- మీటరు
+- ಮೀಟರ್
+- മീറ്റർ
+- මීටරය
+- เมตร
+- ແມັດ
+- སྨི།
+- မီတာ
+- မဳတာ
+- მეტრა
+- მეტრი
+- ሜትር
+- ⵎⵉⵜⵔⵓ
+- メートル
+- 公尺
+- 米
+- 메터
+- 미터
 has_id_wikidata: Q11573
 calculated_from:
-  - '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111]]'
-  - '[[_Standards/WikiData/WD~second,11574]]'
+- '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111]]'
+- '[[_Standards/WikiData/WD~second,11574]]'
 Commons_category: Metre
 conversion_to_SI_unit: 1
 conversion_to_standard_unit:
-  - 0.0006213711922373339
-  - 1
-  - 0.001
-  - 3.28084
+- 0.0006213711922373339
+- 1
+- 0.001
+- 3.28084
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
 different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876]]'
 IEV_number: 112-02-05
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-  - '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-  - '[[_Standards/WikiData/WD~metric_unit,12036470]]'
-  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~metric_unit,12036470]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
 measured_physical_quantity:
-  - '[[_Standards/WikiData/WD~distance,126017]]'
-  - '[[_Standards/WikiData/WD~radius,173817]]'
-  - '[[_Standards/WikiData/WD~displacement,190291]]'
-  - '[[_Standards/WikiData/WD~position_vector,192388]]'
-  - '[[_Standards/WikiData/WD~height,208826]]'
-  - '[[_Standards/WikiData/WD~proper_length,3153623]]'
-  - '[[_Standards/WikiData/WD~thickness,3589038]]'
-  - '[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254]]'
-  - '[[_Standards/WikiData/WD~width,35059]]'
-  - '[[_Standards/WikiData/WD~length,36253]]'
-  - '[[_Standards/WikiData/WD~diameter,37221]]'
+- '[[_Standards/WikiData/WD~distance,126017]]'
+- '[[_Standards/WikiData/WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~displacement,190291]]'
+- '[[_Standards/WikiData/WD~position_vector,192388]]'
+- '[[_Standards/WikiData/WD~height,208826]]'
+- '[[_Standards/WikiData/WD~proper_length,3153623]]'
+- '[[_Standards/WikiData/WD~thickness,3589038]]'
+- '[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254]]'
+- '[[_Standards/WikiData/WD~width,35059]]'
+- '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~diameter,37221]]'
 OmegaWiki_Defined_Meaning: 160750
 part_of:
-  - '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'
-  - '[[_Standards/WikiData/WD~MKSA_system_of_units,730906]]'
-  - '[[_Standards/WikiData/WD~International_System_of_Units,12457]]'
+- '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'
+- '[[_Standards/WikiData/WD~MKSA_system_of_units,730906]]'
+- '[[_Standards/WikiData/WD~International_System_of_Units,12457]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25507292,25507292]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimetre,200323]]'
 UCUM_code: m
 unit_symbol:
-  - m
-  - m
-  - m
-  - m
-  - m
-  - م
-  - متر
-  - м
-  - м
-  - м
-  - м
-  - м
-  - м
-  - м
-  - মি
-  - ㍍
-  - മീ.
-  - 公尺
-  - மீ
-  - 公尺
-  - מ'
-  - 米
-  - m
-  - m
-  - m
-  - м
-  - 米
-  - م
-  - m
-  - m
-  - m
-  - m
-  - م
-  - μ
-  - m
-  - m
-  - m
-  - m
+- m
+- m
+- m
+- m
+- m
+- م
+- متر
+- м
+- м
+- м
+- м
+- м
+- м
+- м
+- মি
+- ㍍
+- മീ.
+- 公尺
+- மீ
+- 公尺
+- מ'
+- 米
+- m
+- m
+- m
+- м
+- 米
+- م
+- m
+- m
+- m
+- m
+- م
+- μ
+- m
+- m
+- m
+- m
 UN_CEFACT_Common_Code: MTR
 Wikidata_SPARQL_query_equivalent: wd:Q11573 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 Wolfram_Language_unit_code: '"Meters"'
+dv_has_:
+  name_:
+    ab: аметр
+    aeb-arab: ميترو
+    af: meter
+    am: ሜትር
+    an: metro
+    ang: m
+    ann: Mita
+    ar: متر
+    ary: ميترو
+    arz: متر
+    as: মিটাৰ
+    ast: metru
+    av: метра
+    az: metr
+    azb: متر
+    ba: метр
+    ban: Méter
+    bar: m
+    be: метр
+    be-tarask: мэтар
+    bg: метър
+    bho: मीटर
+    bjn: Meter
+    bn: মিটার
+    bo: སྨི།
+    bpy: মিটার
+    br: metr
+    bs: metar
+    ca: metre
+    cdo: gŭng-chióh
+    ce: метр
+    ckb: مەتر
+    co: m
+    crh: metr
+    cs: metr
+    cu: мєтро
+    cv: метр
+    cy: metr
+    da: meter
+    de: Meter
+    de-at: m
+    de-ch: m
+    dv: މީޓަރު
+    el: μέτρο
+    eml: mēter
+    en: metre
+    en-ca: metre
+    en-gb: metre
+    en-us: meter
+    eo: metro
+    es: metro
+    et: meeter
+    eu: metro
+    ext: metru
+    fa: متر
+    fi: metri
+    fo: metur
+    fr: mètre
+    frp: m
+    frr: meeter
+    fur: metri
+    fy: meter
+    ga: méadar
+    gan: 米
+    gd: meatair
+    gl: metro
+    gn: temira'ãha
+    gsw: Meter
+    gu: મીટર
+    ha: Mita
+    hak: kûng-tshak
+    haw: mika
+    he: מטר
+    hi: मान
+    hif: metre
+    hr: metar
+    hsb: meter
+    ht: mèt
+    hu: méter
+    hy: մետր
+    hyw: մեթր
+    ia: metro
+    iba: Meter
+    id: meter
+    ie: m
+    ilo: metro
+    io: metro
+    is: metri
+    it: metro
+    ja: メートル
+    jam: miita
+    jbo: mitre
+    jv: mèter
+    ka: მეტრი
+    kaa: metr
+    kab: amiter
+    kcg: mita
+    kg: m
+    kge: meter
+    kk: метр
+    kn: ಮೀಟರ್
+    ko: 미터
+    ko-kp: 메터
+    krc: метр
+    ks: میٖٹَر
+    ksh: Läng
+    ku: metre
+    kw: Meter
+    ky: метр
+    la: metrum
+    lb: Meter
+    lez: метр
+    lfn: metre
+    li: meter
+    lij: m
+    lmo: meter
+    ln: mɛtɛlɛ
+    lo: ແມັດ
+    lt: metras
+    lv: metrs
+    lzh: 公尺
+    mag: मान
+    mg: metatra
+    min: meter
+    mk: метар
+    ml: മീറ്റർ
+    mn: метр
+    mnw: မဳတာ
+    mr: मीटर
+    ms: meter
+    ms-arab: ميتر
+    mt: metru
+    my: မီတာ
+    mzn: متر
+    nah: huehcan
+    nan: kong-chhioh
+    nap: m
+    nb: meter
+    nds: Meter
+    nds-nl: m
+    ne: मिटर
+    new: मिटर
+    nl: meter
+    nn: meter
+    nqo: ߜߟߊ߬ߜߟߊ
+    nrm: mète
+    oc: mètre
+    or: ମିଟର
+    os: метр
+    pa: ਮੀਟਰ
+    pap: meter
+    pcd: m
+    pcm: meter
+    pl: metr
+    pms: méter
+    pnb: میٹر
+    ps: متر
+    pt: metro
+    pt-br: metro
+    qu: mitru
+    rm: m
+    ro: metru
+    roa-tara: metre
+    rsk: Метер
+    ru: метр
+    rue: метер
+    sah: миэтэрэ
+    sc: metre
+    scn: metru
+    sco: metre
+    se: mehter
+    sgs: metros
+    sh: metar
+    si: මීටරය
+    sje: mehtir
+    sk: meter
+    sl: meter
+    sma: meetere
+    smj: mehtar
+    smn: meetter
+    sms: mettar
+    so: mitir
+    sq: metër
+    sr: метар
+    sr-ec: метар
+    sr-el: metar
+    su: méter
+    sv: meter
+    sw: mita
+    szl: myjter
+    ta: மீற்றர்
+    te: మీటరు
+    tg: метр
+    tg-cyrl: метр
+    th: เมตร
+    tl: metro
+    tok: linja pi mute weka pi ma ale
+    tr: metre
+    ts: mitara
+    tt: метр
+    tt-cyrl: метр
+    tt-latn: miter
+    udm: метр
+    uk: м
+    ur: میٹر
+    uz: metr
+    vec: metro
+    vep: metr
+    vi: mét
+    vls: meter
+    vo: m
+    wa: m
+    war: metro
+    wo: m
+    wuu: 米
+    xmf: მეტრა
+    yi: מעטער
+    yo: mítà
+    yue: 米
+    zgh: ⵎⵉⵜⵔⵓ
+    zh: 米
+    zh-cn: 米
+    zh-hans: 米
+    zh-hant: 公尺
+    zh-hk: 米
+    zh-mo: 米
+    zh-my: 米
+    zh-sg: 米
+    zh-tw: 公尺
+    zu: m
 ---
-
 # [[Unit~Meter]] 
 
 #is_a :: [[../SI-Unit]] 

@@ -1,27 +1,95 @@
 ---
 aliases:
-  - Belagerung
-  - Siege
+- aplenkums
+- asedio
+- Asediu
+- asediu militar
+- Assede
+- assedio
+- Assèdiu
+- asèdio
+- Belagerung
+- belegering
+- belegeringe
+- beleiring
+- belejring
+- beleëring
+- belägring
+- cerco
+- Cuộc vây hãm
+- gwarchae
+- kringsetjing
+- kuşatma
+- léigear
+- Mühasirə
+- obleganje
+- Obliehanie
+- obléhání
+- oblężenie
+- Obsidio
+- opsada
+- ostrom
+- Pangepungan
+- Pau-ûi-chiàn
+- pengepungan
+- Piiramine
+- piiritys
+- qamal
+- Rrethimi
+- setge
+- setio
+- seziz
+- Siege
+- Siejo
+- sieĝo
+- siège militaire
+- Sètge
+- Çorşmegirewtiş
+- πολιορκία
+- аблога
+- Бүзээлел
+- облога
+- обсада
+- опсада
+- осада
+- պաշարում
+- באלאגערונג
+- מצור
+- حصار
+- حصار عسكرى
+- محاصره
+- محاصرہ
+- گەمارۆدان
+- ߘߟߊߛߌ߯ߟߌ
+- घेरा
+- முற்றுகை
+- ముట్టడి
+- การล้อม
+- ალყა
+- 攻城战
+- 攻城戦
+- 攻城戰
+- 공성전
 has_id_wikidata: Q188055
 different_from:
-  - '[[_Standards/WikiData/WD~lockout,159377]]'
-  - '[[_Standards/WikiData/WD~blockade,273976]]'
+- '[[_Standards/WikiData/WD~lockout,159377]]'
+- '[[_Standards/WikiData/WD~blockade,273976]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~military_tactics,207645]]'
-  - '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+- '[[_Standards/WikiData/WD~military_tactics,207645]]'
+- '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~blockade,273976]]'
-  - '[[_Standards/WikiData/WD~armed_conflict,350604]]'
-  - '[[_Standards/WikiData/WD~military_operation,645883]]'
+- '[[_Standards/WikiData/WD~blockade,273976]]'
+- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~military_operation,645883]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 studied_by: '[[_Standards/WikiData/WD~Poliorcetica,1682379]]'
 history_of_topic: '[[_Standards/WikiData/WD~History_of_the_siege,13030566]]'
 depicted_by: '[[_Standards/WikiData/WD~Capture_of_Castle,131613832]]'
@@ -33,8 +101,99 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20orleans.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Siege%28part1of2%29.ogg
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Smerwick.1580.jpg
 Commons_category: Sieges
+dv_has_:
+  name_:
+    af: beleëring
+    an: Setio
+    ar: حصار
+    arz: حصار عسكرى
+    ast: Asediu
+    az: Mühasirə
+    be: аблога
+    be-tarask: аблога
+    bg: обсада
+    br: seziz
+    bs: opsada
+    ca: setge
+    ckb: گەمارۆدان
+    cs: obléhání
+    cy: gwarchae
+    da: belejring
+    de: Belagerung
+    de-ch: Belagerung
+    diq: Çorşmegirewtiş
+    el: πολιορκία
+    en: siege
+    en-ca: siege
+    eo: sieĝo
+    es: asedio
+    et: Piiramine
+    eu: setio
+    fa: محاصره
+    fi: piiritys
+    fr: siège militaire
+    fy: Belegering
+    ga: léigear
+    gl: asedio
+    he: מצור
+    hi: घेरा
+    hr: Opsada
+    hu: ostrom
+    hy: պաշարում
+    id: pengepungan
+    io: Siejo
+    it: assedio
+    ja: 攻城戦
+    jv: Pangepungan
+    ka: ალყა
+    ko: 공성전
+    la: Obsidio
+    lmo: Assede
+    lv: aplenkums
+    mk: опсада
+    ms: Pengepungan
+    nan: Pau-ûi-chiàn
+    nb: beleiring
+    nds-nl: belegeringe
+    nl: belegering
+    nn: kringsetjing
+    nqo: ߘߟߊߛߌ߯ߟߌ
+    oc: Sètge
+    pl: oblężenie
+    pt: cerco
+    pt-br: cerco
+    ro: asediu militar
+    ru: осада
+    scn: Assèdiu
+    sh: opsada
+    sk: Obliehanie
+    sl: obleganje
+    sq: Rrethimi
+    sr: опсада
+    sr-ec: опсада
+    sr-el: opsada
+    sv: belägring
+    ta: முற்றுகை
+    te: ముట్టడి
+    th: การล้อม
+    tr: kuşatma
+    tyv: Бүзээлел
+    uk: облога
+    ur: محاصرہ
+    uz: qamal
+    vec: asèdio
+    vi: Cuộc vây hãm
+    wuu: 攻城战
+    yi: באלאגערונג
+    yue: 攻城戰
+    zh: 攻城戰
+    zh-cn: 攻城战
+    zh-hans: 攻城战
+    zh-hant: 攻城戰
+    zh-hk: 攻城戰
+    zh-sg: 攻城战
+    zh-tw: 攻城戰
 ---
-
 # [[Siege]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Siege,188055|WD~Siege,188055]]  

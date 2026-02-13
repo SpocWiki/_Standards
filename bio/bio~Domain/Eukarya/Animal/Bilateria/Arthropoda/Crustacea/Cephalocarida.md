@@ -1,9 +1,96 @@
 ---
 aliases:
-  - horseshoe shrimp
-  - Cephalocarida
+- cefalocàrides
+- Cefalocáridos
+- Cefalokaridai
+- Cefalokarïdalar
+- Cefalokarīdas
+- Cephalocarida
+- cephalocarider
+- horseshoe shrimp
+- Hutchinsoniellidae
+- kilpipäiset
+- Podkowiastogłowe
+- Sefalokaridlər
+- ősrákok
+- Цефалокаридалар
+- Цефалокариди
+- Цефалокариды
+- تسەفالوكارىيدالار
+- خرچنگان
+- رأسيات الدرقة
+- راسيات الدرقه
+- カシラエビ綱
+- 头虾纲
+- 頭蝦綱
+- 두판강
 title: Cephalocarida
 has_id_wikidata: Q132649
+dv_has_:
+  name_:
+    an: Cephalocarida
+    ar: رأسيات الدرقة
+    arz: راسيات الدرقه
+    ast: Cephalocarida
+    az: Sefalokaridlər
+    bg: Цефалокариди
+    ca: cefalocàrides
+    ceb: Cephalocarida
+    de: Cephalocarida
+    en: Cephalocarida
+    eo: Cephalocarida
+    es: Cephalocarida
+    eu: Hutchinsoniellidae
+    ext: Cephalocarida
+    fa: خرچنگان
+    fi: kilpipäiset
+    fr: Cephalocarida
+    ga: Cephalocarida
+    gl: Cefalocáridos
+    he: Cephalocarida
+    hr: Cephalocarida
+    hu: ősrákok
+    ia: Cephalocarida
+    id: Cephalocarida
+    ie: Cephalocarida
+    io: Cephalocarida
+    it: Hutchinsoniellidae
+    ja: カシラエビ綱
+    kk: Цефалокаридалар
+    kk-arab: تسەفالوكارىيدالار
+    kk-cn: تسەفالوكارىيدالار
+    kk-cyrl: Цефалокаридалар
+    kk-kz: Цефалокаридалар
+    kk-latn: Cefalokarïdalar
+    kk-tr: Cefalokarïdalar
+    ko: 두판강
+    la: Cephalocarida
+    li: Cephalocarida
+    lt: Cefalokaridai
+    lv: Cefalokarīdas
+    mul: Cephalocarida
+    nb: cephalocarider
+    nl: Cephalocarida
+    oc: Cephalocarida
+    pl: Podkowiastogłowe
+    pt: Cephalocarida
+    pt-br: Cephalocarida
+    ro: Cephalocarida
+    ru: Цефалокариды
+    sq: Cephalocarida
+    sv: Cephalocarida
+    tr: Cephalocarida
+    uk: Цефалокариди
+    vi: Cephalocarida
+    vo: Cephalocarida
+    war: Cephalocarida
+    zh: 頭蝦綱
+    zh-cn: 头虾纲
+    zh-hans: 头虾纲
+    zh-hant: 頭蝦綱
+    zh-hk: 頭蝦綱
+    zh-sg: 头虾纲
+    zh-tw: 頭蝦綱
 ---
 # [[Cephalocarida]] 
 ![](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 

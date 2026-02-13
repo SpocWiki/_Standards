@@ -1,30 +1,134 @@
 ---
 aliases:
+- baanelement
+- Bahnelement
+- baneelement
+- banelement
+- baneparameter
+- Bunnelement
+- eilimintí fithise
+- element dráhy
+- Element orbitaj
+- elementi tira
+- Elementos orbitais
+- Elementos orbitales
+- elements orbitals
+- Elementy dráhy
+- elementy orbitalne
+- orbita elemento
+- orbital elements
+- orbitalni elementi
+- Orbitaren berezko elementuak
+- orbitos elementai
+- parametri orbitali
+- paramètres orbitaux
+- pályaelem
+- Rata-arvo
+- tham số quỹ đạo
+- Yörünge öğeleri
+- Τροχιακά στοιχεία
+- арбітальныя элемэнты
+- елементи орбіти
+- Орбита элементтері
+- орбитални елемент
+- орбитални елементи
+- элементы арбіты
+- элементы орбиты
+- ուղեծրի էլեմենտներ
+- אלמנטי מסלול
+- عناصر مدارية
+- عناصر مداری
+- कक्षीय राशियाँ
+- কক্ষপথের রাশি
+- องค์ประกอบของวงโคจร
+- 軌道根數
+- 軌道要素
+- 轨道根数
+- 궤도 요소
 has_id_wikidata: Q272626
-subclass_of: "[[_Standards/WikiData/WD~parameter,1413083]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Keplerian_elements,78147576]]"
+subclass_of: '[[_Standards/WikiData/WD~parameter,1413083]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Keplerian_elements,78147576]]'
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Orbital_elements,272626]]"
-    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]"
-    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]"
+  - '[[../../../WikiData/WD~Orbital_elements,272626]]'
+  - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]'
+  - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Orbital_elements,272626]]"
-  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]"
-  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]"
+- '[[../../../WikiData/WD~Orbital_elements,272626]]'
+- '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]'
+- '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]'
+- '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]'
+- '[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]'
+- '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]'
+dv_has_:
+  name_:
+    ar: عناصر مدارية
+    ast: Elementos orbitales
+    be: элементы арбіты
+    be-tarask: арбітальныя элемэнты
+    bn: কক্ষপথের রাশি
+    ca: elements orbitals
+    cs: element dráhy
+    da: baneparameter
+    de: Bahnelement
+    el: Τροχιακά στοιχεία
+    en: orbital elements
+    eo: orbita elemento
+    es: elementos orbitales
+    eu: Orbitaren berezko elementuak
+    fa: عناصر مداری
+    fi: Rata-arvo
+    fr: paramètres orbitaux
+    ga: eilimintí fithise
+    gl: Elementos orbitais
+    gsw: Bahnelement
+    he: אלמנטי מסלול
+    hi: कक्षीय राशियाँ
+    hu: pályaelem
+    hy: ուղեծրի էլեմենտներ
+    it: parametri orbitali
+    ja: 軌道要素
+    kk: Орбита элементтері
+    ko: 궤도 요소
+    lb: Bunnelement
+    lt: orbitos elementai
+    mk: орбитални елементи
+    nb: baneelement
+    nl: baanelement
+    nn: baneelement
+    pl: elementy orbitalne
+    pms: Element orbitaj
+    pt: elementos orbitais
+    ro: Parametri orbitali
+    ru: элементы орбиты
+    sk: Elementy dráhy
+    sl: elementi tira
+    sr: орбитални елемент
+    sr-ec: орбитални елементи
+    sr-el: orbitalni elementi
+    sv: banelement
+    th: องค์ประกอบของวงโคจร
+    tr: Yörünge öğeleri
+    uk: елементи орбіти
+    vi: tham số quỹ đạo
+    wuu: 轨道根数
+    yue: 軌道根數
+    zh: 軌道根數
+    zh-cn: 轨道根数
+    zh-hans: 轨道根数
+    zh-hant: 軌道根數
+    zh-hk: 軌道根數
+    zh-sg: 轨道根数
+    zh-tw: 軌道根數
 ---
-
 # [[Orbital_Elements]] 
 
 #is_/same_as :: [[WD~Orbital_elements,272626]] 

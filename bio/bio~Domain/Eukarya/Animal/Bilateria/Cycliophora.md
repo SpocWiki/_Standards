@@ -1,9 +1,56 @@
 ---
 aliases:
-  - Cycliophora
-  - Symbion
+- Cycliophora
+- Symbion
+- Symbions
+- معايش
+- シンビオン
 title: Cycliophora
 has_id_wikidata: Q2783567
+dv_has_:
+  name_:
+    an: Symbion
+    ar: معايش
+    arz: معايش
+    ast: Symbion
+    bg: Symbion
+    ca: Symbion
+    ceb: Symbion
+    de: Symbion
+    en: Symbion
+    eo: Symbion
+    es: Symbion
+    eu: Symbion
+    ext: Symbion
+    fi: Symbion
+    fr: Symbion
+    fy: Symbions
+    ga: Symbion
+    gl: Symbion
+    ia: Symbion
+    id: Symbion
+    ie: Symbion
+    io: Symbion
+    it: Symbion
+    ja: シンビオン
+    la: Symbion
+    mul: Symbion
+    nl: Symbion
+    oc: Symbion
+    pl: Symbion
+    pt: Symbion
+    pt-br: Symbion
+    ro: Symbion
+    ru: Symbion
+    sk: Symbion
+    sq: Symbion
+    sv: Symbion
+    th: Symbion
+    tr: Symbion
+    uk: Symbion
+    vi: Symbion
+    vo: Symbion
+    war: Symbion
 ---
 # [[Cycliophora]] 
 

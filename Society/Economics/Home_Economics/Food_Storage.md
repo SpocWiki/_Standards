@@ -1,15 +1,61 @@
 ---
 aliases:
+- Almacenamiento de alimentos
+- conservazione alimentare
+- Cất trữ thực phẩm
+- food storage
+- Penyimpanan makanan
+- skladiščenje hrane
+- stockage des aliments
+- Voedselbewaring
+- voedselopslag
+- зберігання харчових продуктів
+- зьбераганьне харчовых прадуктаў
+- Хоол хүнсний хадгалалт
+- אחסון מזון
+- انبار مواد غذایی
+- تخزين الغذاء
+- खाद्य भंडारण
+- খাদ্য মজুদ
+- 食品储存
+- 食品儲存
+- 食品貯蔵
+- 食物儲存
+- 식품 보관
 has_id_wikidata: Q11702361
-has_use: "[[_Standards/WikiData/WD~storage,9158768]]"
-subclass_of: "[[_Standards/WikiData/WD~storage,9158768]]"
-has_characteristic: "[[_Standards/WikiData/WD~storage_condition,99392206]]"
-instance_of: "[[_Standards/WikiData/WD~technology,11016]]"
+has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
+subclass_of: '[[_Standards/WikiData/WD~storage,9158768]]'
+has_characteristic: '[[_Standards/WikiData/WD~storage_condition,99392206]]'
+instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2039207%20-%20Food%20storage%20containers%20stacked%20on%20shipping%20pallets%20in%20Texas.jpg
 Commons_category: Food storage
 MeSH_tree_code: J01.576.423.200.387
+dv_has_:
+  name_:
+    af: Voedselbewaring
+    ar: تخزين الغذاء
+    be-tarask: зьбераганьне харчовых прадуктаў
+    bn: খাদ্য মজুদ
+    en: food storage
+    es: Almacenamiento de alimentos
+    fa: انبار مواد غذایی
+    fr: stockage des aliments
+    he: אחסון מזון
+    hi: खाद्य भंडारण
+    id: Penyimpanan makanan
+    it: conservazione alimentare
+    ja: 食品貯蔵
+    ko: 식품 보관
+    mn: Хоол хүнсний хадгалалт
+    ms: Penyimpanan makanan
+    nl: voedselopslag
+    sl: skladiščenje hrane
+    uk: зберігання харчових продуктів
+    vi: Cất trữ thực phẩm
+    yue: 食物儲存
+    zh: 食品儲存
+    zh-hans: 食品储存
 ---
-
 # [[Food_Storage]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~food_storage,11702361]]

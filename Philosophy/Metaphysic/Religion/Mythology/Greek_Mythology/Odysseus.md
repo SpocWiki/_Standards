@@ -1,12 +1,65 @@
 ---
 aliases:
-  - Ulysses
-  - Ulixes
-  - Ὀδυσσεύς
-  - Ὀδυσεύς
-  - Odysseús
-  - Odyseús
-  - Odysseus
+- jan Otesiju
+- Odaiséas
+- Odisej
+- Odiseja
+- Odisejs
+- Odiseo
+- Odiseu
+- Odiseus
+- Odisseu
+- Odisseus
+- Odissey
+- Odisėjas
+- Odusseus
+- Odyseus
+- Odyseusz
+- Odysews
+- Odyseús
+- Odysseo
+- Odysseus
+- Odyssevs
+- Odysseús
+- Odysseüs
+- Odîseûs
+- Odüsszeusz
+- Ulises
+- Ulisse
+- Ulisses
+- Ulissi
+- Ulixes
+- Ulysse
+- Ulysses
+- Ódysseifur
+- Οδυσσέας
+- Адысей
+- Адысэй
+- Одіссей
+- Одисеј
+- Одисей
+- Одиссей
+- Ոդիսեւս
+- Ոդիսևս
+- אודיסאוס
+- أوديسيوس
+- اوديسيوس
+- اودیسئوس
+- ओडिसियस
+- ओडीसियस
+- ওডিসিউস
+- ଓଡ଼ିସିଅସ
+- ஒடிஸியஸ்
+- ഒഡീസ്സസ്
+- โอดิสเซียส
+- အောဒစ်ဆီးယပ်စ်
+- ოდისევსი
+- Ὀδυσεύς
+- Ὀδυσσεύς
+- オデュッセウス
+- 奥德修斯
+- 奧德修斯
+- 오디세우스
 has_id_wikidata: Q47231
 Libris_URI: khwzzjr3564jcwg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ODISSE.html
@@ -14,41 +67,41 @@ Royal_Academy_new_identifier: odysseus-greek-mythology
 name_in_native_language: Ὀδυσσεύς
 spouse: '[[_Standards/WikiData/WD~Penelope,165769]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Circe,187602]]'
-  - '[[_Standards/WikiData/WD~Euippe,1029600]]'
-  - '[[_Standards/WikiData/WD~Polymele,3395650]]'
-  - '[[_Standards/WikiData/WD~Hals,3613053]]'
-  - '[[_Standards/WikiData/WD~Callidice,3650858]]'
-  - '[[_Standards/WikiData/WD~Calypso,48961]]'
+- '[[_Standards/WikiData/WD~Circe,187602]]'
+- '[[_Standards/WikiData/WD~Euippe,1029600]]'
+- '[[_Standards/WikiData/WD~Polymele,3395650]]'
+- '[[_Standards/WikiData/WD~Hals,3613053]]'
+- '[[_Standards/WikiData/WD~Callidice,3650858]]'
+- '[[_Standards/WikiData/WD~Calypso,48961]]'
 child:
-  - '[[_Standards/WikiData/WD~Telemachus,192482]]'
-  - '[[_Standards/WikiData/WD~Nausinous,682332]]'
-  - '[[_Standards/WikiData/WD~Latinus,779406]]'
-  - '[[_Standards/WikiData/WD~Auson,782308]]'
-  - '[[_Standards/WikiData/WD~Telegonus,1333887]]'
-  - '[[_Standards/WikiData/WD~Cassiphone,1401858]]'
-  - '[[_Standards/WikiData/WD~Agrius,2827213]]'
-  - '[[_Standards/WikiData/WD~Nausithous,3337178]]'
-  - '[[_Standards/WikiData/WD~Arcesilaos,3621444]]'
-  - '[[_Standards/WikiData/WD~Leontophonus,3830648]]'
-  - '[[_Standards/WikiData/WD~Leontophron,3830649]]'
-  - '[[_Standards/WikiData/WD~Polypoetes,3907369]]'
-  - '[[_Standards/WikiData/WD~Poliporthes,3907372]]'
-  - '[[_Standards/WikiData/WD~Ardeas,4787871]]'
-  - '[[_Standards/WikiData/WD~Anteias,11905701]]'
+- '[[_Standards/WikiData/WD~Telemachus,192482]]'
+- '[[_Standards/WikiData/WD~Nausinous,682332]]'
+- '[[_Standards/WikiData/WD~Latinus,779406]]'
+- '[[_Standards/WikiData/WD~Auson,782308]]'
+- '[[_Standards/WikiData/WD~Telegonus,1333887]]'
+- '[[_Standards/WikiData/WD~Cassiphone,1401858]]'
+- '[[_Standards/WikiData/WD~Agrius,2827213]]'
+- '[[_Standards/WikiData/WD~Nausithous,3337178]]'
+- '[[_Standards/WikiData/WD~Arcesilaos,3621444]]'
+- '[[_Standards/WikiData/WD~Leontophonus,3830648]]'
+- '[[_Standards/WikiData/WD~Leontophron,3830649]]'
+- '[[_Standards/WikiData/WD~Polypoetes,3907369]]'
+- '[[_Standards/WikiData/WD~Poliporthes,3907372]]'
+- '[[_Standards/WikiData/WD~Ardeas,4787871]]'
+- '[[_Standards/WikiData/WD~Anteias,11905701]]'
 derivative_work: '[[_Standards/WikiData/WD~Leopold_Bloom,573988]]'
 mother: '[[_Standards/WikiData/WD~Anticlea,576170]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Odyssey,35160]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Odyssey,35160]]'
 father: '[[_Standards/WikiData/WD~Laertes,748296]]'
 sibling: '[[_Standards/WikiData/WD~Ctimene,1790803]]'
 performer: '[[_Standards/WikiData/WD~François_Papineau,3085505]]'
@@ -59,22 +112,113 @@ position_held: '[[_Standards/WikiData/WD~king_in_Greek_mythology,24434794]]'
 given_name: '[[_Standards/WikiData/WD~Odysseas,27827496]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~Madness_of_Odysseus,63144425]]'
-  - '[[_Standards/WikiData/WD~Iliad,8275]]'
-  - '[[_Standards/WikiData/WD~Odyssey,35160]]'
+- '[[_Standards/WikiData/WD~Madness_of_Odysseus,63144425]]'
+- '[[_Standards/WikiData/WD~Iliad,8275]]'
+- '[[_Standards/WikiData/WD~Odyssey,35160]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Odysseus_(statue),_Vathy,114140399]]'
-  - '[[_Standards/WikiData/WD~Bust_of_Odysseus,_Stavros_Ithaki,116678993]]'
-  - '[[_Standards/WikiData/WD~Fragment_of_a_sarcophagus_with_Ulysses_and_Laertes,131587977]]'
-  - '[[_Standards/WikiData/WD~Hall_of_Ulysses,131813026]]'
-  - '[[_Standards/WikiData/WD~Story_of_Ulysses,132247373]]'
+- '[[_Standards/WikiData/WD~Odysseus_(statue),_Vathy,114140399]]'
+- '[[_Standards/WikiData/WD~Bust_of_Odysseus,_Stavros_Ithaki,116678993]]'
+- '[[_Standards/WikiData/WD~Fragment_of_a_sarcophagus_with_Ulysses_and_Laertes,131587977]]'
+- '[[_Standards/WikiData/WD~Hall_of_Ulysses,131813026]]'
+- '[[_Standards/WikiData/WD~Story_of_Ulysses,132247373]]'
 worshipped_by: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 Commons_category: Odysseus
 BHCL_UUID: 9fb9be11-6551-4058-8a36-1156fdaceff3
 Iconclass_notation: 95A(ULYSSES)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Ancient%20Roman%20statues%20in%20the%20Museo%20archeologico%20nazionale%20-%20Ulysses.jpg
+dv_has_:
+  name_:
+    af: Odusseus
+    an: Ulises
+    ar: أوديسيوس
+    arz: اوديسيوس
+    ast: Odiseo
+    az: Odissey
+    ba: Одиссей
+    be: Адысей
+    be-tarask: Адысэй
+    bg: Одисей
+    bn: ওডিসিউস
+    br: Odysseüs
+    bs: Odisej
+    ca: Odisseu
+    cs: Odysseus
+    cv: Одиссей
+    cy: Odysews
+    da: Odysseus
+    de: Odysseus
+    el: Οδυσσέας
+    en: Odysseus
+    eo: Odiseo
+    es: Odiseo
+    et: Odysseus
+    eu: Odiseo
+    fa: اودیسئوس
+    fi: Odysseus
+    fr: Ulysse
+    fy: Odysseus
+    ga: Odaiséas
+    gl: Ulises
+    he: אודיסאוס
+    hi: ओडीसियस
+    hr: Odisej
+    hu: Odüsszeusz
+    hy: Ոդիսևս
+    hyw: Ոդիսեւս
+    ia: Odysseo
+    id: Odisseus
+    ie: Ulisse
+    io: Odiseus
+    is: Ódysseifur
+    it: Ulisse
+    ja: オデュッセウス
+    ka: ოდისევსი
+    ko: 오디세우스
+    ku: Odîseûs
+    la: Ulixes
+    lb: Odysseus
+    lfn: Odiseo
+    lt: Odisėjas
+    lv: Odisejs
+    lzh: 奧德修斯
+    map-bms: Odisseus
+    mg: Ulysse
+    mk: Одисеј
+    ml: ഒഡീസ്സസ്
+    mr: ओडिसियस
+    ms: Odysseus
+    my: အောဒစ်ဆီးယပ်စ်
+    nb: Odyssevs
+    nl: Odysseus
+    nn: Odyssevs
+    oc: Ulisses
+    or: ଓଡ଼ିସିଅସ
+    pl: Odyseusz
+    pt: Odisseu
+    ro: Odiseu
+    ru: Одиссей
+    scn: Ulissi
+    sco: Odysseus
+    sh: Odisej
+    sk: Odyseus
+    sl: Odisej
+    sq: Odiseja
+    sr: Одисеј
+    sv: Odysseus
+    sw: Odiseo
+    ta: ஒடிஸியஸ்
+    th: โอดิสเซียส
+    tok: jan Otesiju
+    tr: Odysseus
+    uk: Одіссей
+    uz: Odissey
+    vi: Odysseus
+    vro: Odysseus
+    war: Odysseus
+    wuu: 奥德修斯
+    yue: 奧德修斯
+    zh: 奥德修斯
 ---
-
 # [[Odysseus]] 
 
 #is_/same_as :: [[WD~Odysseus,47231]] 

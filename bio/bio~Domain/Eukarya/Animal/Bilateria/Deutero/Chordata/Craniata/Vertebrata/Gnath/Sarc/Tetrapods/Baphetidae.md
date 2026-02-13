@@ -1,8 +1,45 @@
 ---
 aliases:
-  - Baphetidae
+- Baphetidae
+- Loxommatidae
+- Бафетиды
+- بفطسات
+- ロクソッマ
+- 斜眼螈科
 title: Baphetidae
 has_id_wikidata: Q135569
+dv_has_:
+  name_:
+    ar: بفطسات
+    ast: Baphetidae
+    bg: Baphetidae
+    ca: Baphetidae
+    ceb: Baphetidae
+    da: Baphetidae
+    de: Baphetidae
+    en: Baphetidae
+    es: Baphetidae
+    fi: Baphetidae
+    fr: Loxommatidae
+    ga: Baphetidae
+    ia: Baphetidae
+    it: Loxommatidae
+    ja: ロクソッマ
+    la: Baphetidae
+    mul: Baphetidae
+    nb: Baphetidae
+    nl: Baphetidae
+    pl: Baphetidae
+    pt: Baphetidae
+    ro: Baphetidae
+    ru: Бафетиды
+    sq: Baphetidae
+    sv: Baphetidae
+    uk: Baphetidae
+    vec: Loxommatidae
+    vi: Baphetidae
+    war: Baphetidae
+    zh: 斜眼螈科
 ---
 # [[Baphetidae]] 
 

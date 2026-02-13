@@ -1,8 +1,123 @@
 ---
 aliases:
-  - Peter Gabriel
-  - Gabriel,Peter
+- Bäda Gobril
+- Gabriel,Peter
+- Peter Gabriel
+- Petrus Gabriel
+- Pīters Geibriels
+- Πίτερ Γκάμπριελ
+- Пітер Гебріел
+- Пітэр Гэбрыел
+- Петер Габриел
+- Питер Гејбриел
+- Питер Гэбриел
+- Питър Гейбриъл
+- Փիթեր Գեբրիել
+- פיטר גבריאל
+- بيتر جابرييل
+- بيتر غابرييل
+- پیتر قابریل
+- پیتر گابریل
+- ਪੀਟਰ ਗੈਬਰੀਅਲ
+- ปีเตอร์ กาเบรียล
+- პიტერ გებრიელი
+- ピーター・ガブリエル
+- 彼得·盖布瑞尔
+- 彼得·蓋布瑞爾
+- 피터 가브리엘
 has_id_wikidata: Q175195
+dv_has_:
+  name_:
+    ar: بيتر غابرييل
+    arz: بيتر جابرييل
+    ast: Peter Gabriel
+    azb: پیتر قابریل
+    bar: Bäda Gobril
+    be: Пітэр Гэбрыел
+    be-tarask: Пітэр Гэбрыел
+    bg: Питър Гейбриъл
+    ca: Peter Gabriel
+    co: Peter Gabriel
+    cs: Peter Gabriel
+    cy: Peter Gabriel
+    da: Peter Gabriel
+    dag: Peter Gabriel
+    de: Peter Gabriel
+    de-ch: Peter Gabriel
+    ee: Peter Gabriel
+    el: Πίτερ Γκάμπριελ
+    eml: Peter Gabriel
+    en: Peter Gabriel
+    en-ca: Peter Gabriel
+    en-gb: Peter Gabriel
+    en-us: Peter Gabriel
+    eo: Peter Gabriel
+    es: Peter Gabriel
+    et: Peter Gabriel
+    eu: Peter Gabriel
+    fa: پیتر گابریل
+    fi: Peter Gabriel
+    fr: Peter Gabriel
+    ga: Peter Gabriel
+    gl: Peter Gabriel
+    haw: Peter Gabriel
+    he: פיטר גבריאל
+    hr: Peter Gabriel
+    hu: Peter Gabriel
+    hy: Փիթեր Գեբրիել
+    id: Peter Gabriel
+    ig: Peter Gabriel
+    io: Peter Gabriel
+    it: Peter Gabriel
+    ja: ピーター・ガブリエル
+    ka: პიტერ გებრიელი
+    ko: 피터 가브리엘
+    la: Petrus Gabriel
+    lb: Peter Gabriel
+    lfn: Peter Gabriel
+    lld: Peter Gabriel
+    lt: Peter Gabriel
+    lv: Pīters Geibriels
+    mg: Peter Gabriel
+    mk: Питер Гејбриел
+    mul: Peter Gabriel
+    nb: Peter Gabriel
+    nds: Peter Gabriel
+    nl: Peter Gabriel
+    nn: Peter Gabriel
+    oc: Peter Gabriel
+    pa: ਪੀਟਰ ਗੈਬਰੀਅਲ
+    pl: Peter Gabriel
+    pms: Peter Gabriel
+    pt: Peter Gabriel
+    pt-br: Peter Gabriel
+    ro: Peter Gabriel
+    ru: Питер Гэбриел
+    sah: Петер Габриел
+    sc: Peter Gabriel
+    sco: Peter Gabriel
+    se: Peter Gabriel
+    sh: Peter Gabriel
+    sk: Peter Gabriel
+    sl: Peter Gabriel
+    sq: Peter Gabriel
+    sr: Peter Gabriel
+    sv: Peter Gabriel
+    sw: Peter Gabriel
+    th: ปีเตอร์ กาเบรียล
+    tr: Peter Gabriel
+    tw: Peter Gabriel
+    uk: Пітер Гебріел
+    vi: Peter Gabriel
+    war: Peter Gabriel
+    yue: 彼得·蓋布瑞爾
+    zh: 彼得·蓋布瑞爾
+    zh-cn: 彼得·盖布瑞尔
+    zh-hans: 彼得·盖布瑞尔
+    zh-hant: 彼得·蓋布瑞爾
+    zh-hk: 彼得·蓋布瑞爾
+    zh-sg: 彼得·盖布瑞尔
+    zh-tw: 彼得·蓋布瑞爾
 ---
 > Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter 
 > and human rights activist. 

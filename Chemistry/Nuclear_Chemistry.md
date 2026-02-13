@@ -1,35 +1,179 @@
 ---
 aliases:
+- ceimic núicléach
+- chemia jądrowa
+- chemia nuclearis
+- chimia nucleari
+- chimica nucleare
+- chimie nucleară
+- chimie nucléaire
+- cimica nucleal
+- hóa học hạt nhân
+- jaderná chemie
+- jadrová chémia
+- jedrska kemija
+- Kernchemie
+- kernekemi
+- kimia nuklear
+- kimia nuklir
+- kimika nuklear
+- kimikang nukleyar
+- kjernekjemi
+- kodolķīmija
+- kärnkemi
+- kîmyaya nukleer
+- magkémia
+- nucleaire chemie
+- nuclear chemistry
+- nuklea ĥemio
+- nuklearna hemija
+- nuklearna kemija
+- nüvə kimyası
+- química nuclear
+- tuumakeemia
+- váimmuskemiija
+- váimuskemia
+- yadro kimyosi
+- yadrolıq xïmïya
+- ydinkemia
+- çekirdek kimyası
+- Πυρηνική χημεία
+- јадрена хемија
+- төш химиясе
+- цөмийн хими
+- ядерна хімія
+- ядерная химия
+- ядзерная хімія
+- ядрена химия
+- ядро химияһы
+- ядролық химия
+- Միջուկային քիմիա
+- כימיה גרעינית
+- شیمی هستهای
+- كيمياء نووية
+- نویاتی کیمیاء
+- يادرولىق حىيمىييا
+- کیمیای ناوکی
+- नाभिकीय रसायन
+- পারমাণবিক রসায়ন
+- න්යෂ්ටික රසායන විද්යාව
+- เคมีนิวเคลียร์
+- ბირთვული ქიმია
+- 核化学
+- 核化學
+- 핵화학
 has_id_wikidata: Q243545
 has_part_s_:
-  - "[[_Standards/WikiData/WD~radiochemistry,750955]]"
-  - "[[_Standards/WikiData/WD~actinide_chemistry,1010999]]"
-  - "[[_Standards/WikiData/WD~radiation_chemistry,2610638]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-practiced_by: "[[_Standards/WikiData/WD~nuclear_chemist,71051447]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+- '[[_Standards/WikiData/WD~radiochemistry,750955]]'
+- '[[_Standards/WikiData/WD~actinide_chemistry,1010999]]'
+- '[[_Standards/WikiData/WD~radiation_chemistry,2610638]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~nuclear_chemist,71051447]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Nuclear_chemistry,243545]]"
-    - "[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]"
-    - "[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]"
-    - "[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]"
-    - "[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]"
-    - "[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]"
-    - "[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]"
-    - "[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]"
+  - '[[../WikiData/WD~Nuclear_chemistry,243545]]'
+  - '[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]'
+  - '[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]'
+  - '[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]'
+  - '[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]'
+  - '[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]'
+  - '[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]'
+  - '[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Nuclear_chemistry,243545]]"
-  - "[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]"
-  - "[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]"
-  - "[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]"
-  - "[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]"
-  - "[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]"
-  - "[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]"
-  - "[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]"
+- '[[../WikiData/WD~Nuclear_chemistry,243545]]'
+- '[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]'
+- '[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]'
+- '[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]'
+- '[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]'
+- '[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]'
+- '[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]'
+- '[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]'
+dv_has_:
+  name_:
+    af: kernchemie
+    ar: كيمياء نووية
+    ast: química nuclear
+    az: nüvə kimyası
+    ba: ядро химияһы
+    be: ядзерная хімія
+    be-tarask: ядзерная хімія
+    bg: ядрена химия
+    bn: পারমাণবিক রসায়ন
+    ca: química nuclear
+    ckb: کیمیای ناوکی
+    cs: jaderná chemie
+    da: kernekemi
+    de: Kernchemie
+    el: Πυρηνική χημεία
+    en: nuclear chemistry
+    eo: nuklea ĥemio
+    es: química nuclear
+    et: tuumakeemia
+    eu: kimika nuklear
+    fa: شیمی هستهای
+    fi: ydinkemia
+    fr: chimie nucléaire
+    ga: ceimic núicléach
+    he: כימיה גרעינית
+    hi: नाभिकीय रसायन
+    hr: nuklearna kemija
+    hu: magkémia
+    hy: Միջուկային քիմիա
+    ia: chimia nucleari
+    id: kimia nuklir
+    it: chimica nucleare
+    ja: 核化学
+    jv: kimia nuklir
+    ka: ბირთვული ქიმია
+    kk: ядролық химия
+    kk-arab: يادرولىق حىيمىييا
+    kk-cn: يادرولىق حىيمىييا
+    kk-cyrl: ядролық химия
+    kk-kz: ядролық химия
+    kk-latn: yadrolıq xïmïya
+    kk-tr: yadrolıq xïmïya
+    ko: 핵화학
+    ku: kîmyaya nukleer
+    ku-latn: kîmyaya nukleer
+    la: chemia nuclearis
+    lfn: cimica nucleal
+    lv: kodolķīmija
+    mk: јадрена хемија
+    mn: цөмийн хими
+    ms: kimia nuklear
+    nb: kjernekjemi
+    nl: nucleaire chemie
+    pl: chemia jądrowa
+    pt: química nuclear
+    ro: chimie nucleară
+    ru: ядерная химия
+    se: váimmuskemiija
+    sh: nuklearna hemija
+    si: න්යෂ්ටික රසායන විද්යාව
+    sk: jadrová chémia
+    sl: jedrska kemija
+    smn: váimuskemia
+    sr: nuklearna hemija
+    sv: kärnkemi
+    th: เคมีนิวเคลียร์
+    tl: kimikang nukleyar
+    tr: çekirdek kimyası
+    tt: төш химиясе
+    uk: ядерна хімія
+    ur: نویاتی کیمیاء
+    uz: yadro kimyosi
+    vi: hóa học hạt nhân
+    yue: 核化學
+    zh: 核化学
+    zh-cn: 核化学
+    zh-hans: 核化学
+    zh-hant: 核化學
+    zh-hk: 核化學
+    zh-sg: 核化学
+    zh-tw: 核化學
 ---
-
 # [[Nuclear_Chemistry]] 
 
 #is_/same_as :: [[WD~Nuclear_chemistry,243545]] 

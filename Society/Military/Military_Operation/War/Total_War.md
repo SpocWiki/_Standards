@@ -1,17 +1,129 @@
 ---
 aliases:
-  - Totaler Krieg
-  - Total_War
-  - Total War
+- Chiến tranh toàn diện
+- erabateko guda
+- guerra total
+- guerra totale
+- guerre totale
+- guèrra totala
+- gwerra totali
+- perang total
+- rhyfel diarbed
+- război total
+- sveopšti rat
+- topyekûn savaş
+- tot war
+- totaalinen sodankäynti
+- Totaalne sõda
+- total krig
+- total krigföring
+- total krigføring
+- Total müharibə
+- Total War
+- totala milito
+- totale oorlog
+- Totaler Krieg
+- totalna vojna
+- totalni rat
+- Total_War
+- Totum bellum
+- totális háború
+- totální válka
+- Totālais karš
+- wojna totalna
+- ολοκληρωτικός πόλεμος
+- свеопшти рат
+- татальная вайна
+- тотал къазауат
+- тотална война
+- тотальна війна
+- тотальная война
+- Տոտալ պատերազմ
+- מלחמה כוללת
+- جنگ تمامعیار
+- حرب شاملة
+- شەڕی تەواو
+- عومومی ساواش
+- ஒட்டுமொத்தப் போர்
+- สงครามเบ็ดเสร็จ
+- 国家総力戦
+- 总体战
+- 總體戰
+- 총력전
 has_id_wikidata: Q154605
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from: '[[_Standards/WikiData/WD~absolute_war,4348173]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~warfare,12786121]]'
-  - '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~warfare,12786121]]'
+- '[[_Standards/WikiData/WD~war,198]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
+dv_has_:
+  name_:
+    ar: حرب شاملة
+    ast: guerra total
+    az: Total müharibə
+    azb: عومومی ساواش
+    be: татальная вайна
+    be-tarask: татальная вайна
+    bg: тотална война
+    bs: totalni rat
+    ca: guerra total
+    ckb: شەڕی تەواو
+    cs: totální válka
+    cy: rhyfel diarbed
+    da: total krig
+    de: Totaler Krieg
+    el: ολοκληρωτικός πόλεμος
+    en: total war
+    eo: totala milito
+    es: guerra total
+    et: Totaalne sõda
+    eu: erabateko guda
+    fa: جنگ تمامعیار
+    fi: totaalinen sodankäynti
+    fr: guerre totale
+    gl: guerra total
+    he: מלחמה כוללת
+    hr: totalni rat
+    hu: totális háború
+    hy: Տոտալ պատերազմ
+    id: perang total
+    it: guerra totale
+    ja: 国家総力戦
+    ko: 총력전
+    krc: тотал къазауат
+    la: Totum bellum
+    lv: Totālais karš
+    ms: Perang total
+    mt: gwerra totali
+    nb: total krig
+    nl: totale oorlog
+    nn: total krigføring
+    oc: guèrra totala
+    pl: wojna totalna
+    pt: guerra total
+    ro: război total
+    ru: тотальная война
+    sco: tot war
+    sh: totalni rat
+    sl: totalna vojna
+    sr: свеопшти рат
+    sr-ec: свеопшти рат
+    sr-el: sveopšti rat
+    sv: total krigföring
+    ta: ஒட்டுமொத்தப் போர்
+    th: สงครามเบ็ดเสร็จ
+    tr: topyekûn savaş
+    uk: тотальна війна
+    vi: Chiến tranh toàn diện
+    zh: 总体战
+    zh-cn: 总体战
+    zh-hans: 总体战
+    zh-hant: 總體戰
+    zh-hk: 總體戰
+    zh-sg: 总体战
+    zh-tw: 總體戰
 ---
-
 # [[Total_War]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Total_war,154605|WD~Total_war,154605]]  

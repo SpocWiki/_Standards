@@ -1,90 +1,182 @@
 ---
 aliases:
-  - Epilepsie
-  - Epilepsy
+- an tinneas-tuiteamach
+- Ayan
+- buliak
+- drougsant
+- Ensimbu
+- Epilepsi
+- Epilepsia
+- Epilepsie
+- epilepsiija
+- Epilepsija
+- epilepsio
+- epilepsiya
+- Epilepsy
+- Epilepsya
+- epilepszia
+- Epilepsėjė
+- epilessia
+- Epilessìa
+- epilissìa
+- epilèpsia
+- epiłesia
+- epîlepsî
+- Faniri
+- Farfaɗiya
+- Fatyiengzdien
+- flogaveiki
+- Gila babi
+- Haut ma
+- Hinfållets
+- Iòng-hìng
+- Iûⁿ-hîn
+- jámálgemtavdâ
+- Malkadi
+- mba'asyryrýi
+- mirgii
+- Nok
+- padaczka
+- peiläp
+- Pfari
+- Qallal
+- stoipi-siki
+- Subi-subi
+- T'uku usu
+- tagrint
+- titimeas
+- Èpilèpsi
+- épilepsie
+- Épilépsi
+- động kinh
+- επιληψία
+- Быума
+- епілепсія
+- епилепсија
+- Епилепсия
+- кулыса усьылон
+- Талма
+- эпілепсія
+- Эпилепc
+- Эпилепси
+- эпилепсия
+- Қояншық
+- өянәк авыруы
+- էպիլեպսիա
+- אפילפסיה
+- עפילעפסיע
+- صرع
+- صريعة
+- مرگی
+- مِرگی
+- پەرکەم
+- अपस्मार
+- छारे रोग
+- तिकुल्वय्
+- মৃগী
+- মৃগীৰোগ
+- ਮਿਰਗੀ
+- વાઈ
+- ଅପସ୍ମାର
+- கால்-கை வலிப்பு
+- మూర్ఛలు (ఫిట్స్)
+- ಅಪಸ್ಮಾರ
+- അപസ്മാരം
+- โรคลมชัก
+- လိုꩻပေႏသဲင်ႏထင်ႏ
+- ဝက်ရူးပြန် ရောဂါ
+- ეპილეფსია
+- ᡶᠠᠨᠴᠠᡴᡡ ᠨᡳᠮᡝᡴᡠ
+- てんかん
+- 癫痫
+- 癲癇
+- 癲癇症
+- 發羊吊
+- 腦癇症
+- 뇌전증
 has_id_wikidata: Q41571
 health_specialty:
-  - '[[_Standards/WikiData/WD~neurology,83042]]'
-  - '[[_Standards/WikiData/WD~epileptology,23688644]]'
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~epileptology,23688644]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~oxcarbazepine,176301]]'
-  - '[[_Standards/WikiData/WD~diazepam,210402]]'
-  - '[[_Standards/WikiData/WD~zonisamide,219957]]'
-  - '[[_Standards/WikiData/WD~topiramate,221174]]'
-  - '[[_Standards/WikiData/WD~phenobarbital,407241]]'
-  - '[[_Standards/WikiData/WD~clonazepam,407988]]'
-  - '[[_Standards/WikiData/WD~brivaracetam,408099]]'
-  - '[[_Standards/WikiData/WD~lamotrigine,410346]]'
-  - '[[_Standards/WikiData/WD~gabapentin,410352]]'
-  - '[[_Standards/WikiData/WD~phenytoin,410400]]'
-  - '[[_Standards/WikiData/WD~carbamazepin,410412]]'
-  - '[[_Standards/WikiData/WD~mephobarbital,411697]]'
-  - '[[_Standards/WikiData/WD~clobazam,412164]]'
-  - '[[_Standards/WikiData/WD~pregabalin,412174]]'
-  - '[[_Standards/WikiData/WD~acetazolamide,413690]]'
-  - '[[_Standards/WikiData/WD~(S)_etiracetam,417227]]'
-  - '[[_Standards/WikiData/WD~lacosamide,420077]]'
-  - '[[_Standards/WikiData/WD~primidone,420383]]'
-  - '[[_Standards/WikiData/WD~felbamate,421301]]'
-  - '[[_Standards/WikiData/WD~ethosuximide,421567]]'
-  - '[[_Standards/WikiData/WD~vigabatrin,421663]]'
-  - '[[_Standards/WikiData/WD~perampanel,868658]]'
-  - '[[_Standards/WikiData/WD~methsuximide,906414]]'
-  - '[[_Standards/WikiData/WD~ezogabine,2146170]]'
-  - '[[_Standards/WikiData/WD~ethotoin,4533122]]'
-  - '[[_Standards/WikiData/WD~fosphenytoin,5473363]]'
-  - '[[_Standards/WikiData/WD~pheneturide,7181340]]'
-  - '[[_Standards/WikiData/WD~potassium_bromide,2546]]'
+- '[[_Standards/WikiData/WD~oxcarbazepine,176301]]'
+- '[[_Standards/WikiData/WD~diazepam,210402]]'
+- '[[_Standards/WikiData/WD~zonisamide,219957]]'
+- '[[_Standards/WikiData/WD~topiramate,221174]]'
+- '[[_Standards/WikiData/WD~phenobarbital,407241]]'
+- '[[_Standards/WikiData/WD~clonazepam,407988]]'
+- '[[_Standards/WikiData/WD~brivaracetam,408099]]'
+- '[[_Standards/WikiData/WD~lamotrigine,410346]]'
+- '[[_Standards/WikiData/WD~gabapentin,410352]]'
+- '[[_Standards/WikiData/WD~phenytoin,410400]]'
+- '[[_Standards/WikiData/WD~carbamazepin,410412]]'
+- '[[_Standards/WikiData/WD~mephobarbital,411697]]'
+- '[[_Standards/WikiData/WD~clobazam,412164]]'
+- '[[_Standards/WikiData/WD~pregabalin,412174]]'
+- '[[_Standards/WikiData/WD~acetazolamide,413690]]'
+- '[[_Standards/WikiData/WD~(S)_etiracetam,417227]]'
+- '[[_Standards/WikiData/WD~lacosamide,420077]]'
+- '[[_Standards/WikiData/WD~primidone,420383]]'
+- '[[_Standards/WikiData/WD~felbamate,421301]]'
+- '[[_Standards/WikiData/WD~ethosuximide,421567]]'
+- '[[_Standards/WikiData/WD~vigabatrin,421663]]'
+- '[[_Standards/WikiData/WD~perampanel,868658]]'
+- '[[_Standards/WikiData/WD~methsuximide,906414]]'
+- '[[_Standards/WikiData/WD~ezogabine,2146170]]'
+- '[[_Standards/WikiData/WD~ethotoin,4533122]]'
+- '[[_Standards/WikiData/WD~fosphenytoin,5473363]]'
+- '[[_Standards/WikiData/WD~pheneturide,7181340]]'
+- '[[_Standards/WikiData/WD~potassium_bromide,2546]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~encephalopathy,576349]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~encephalopathy,576349]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 has_effect: '[[_Standards/WikiData/WD~Postictal_twilight_state,1537070]]'
 has_cause: '[[_Standards/WikiData/WD~asphyxia_neonatorum,2694437]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - '[[_Standards/WikiData/WD~CHRM3,17861955]]'
-  - '[[_Standards/WikiData/WD~GABRG2,18025166]]'
-  - '[[_Standards/WikiData/WD~PLA2G4A,18030575]]'
-  - '[[_Standards/WikiData/WD~PTPRD,18030938]]'
-  - '[[_Standards/WikiData/WD~SCN1A,18031391]]'
-  - '[[_Standards/WikiData/WD~SCN8A,18031400]]'
-  - '[[_Standards/WikiData/WD~PCDH19,18043114]]'
-  - '[[_Standards/WikiData/WD~MAST4,18056155]]'
+- '[[_Standards/WikiData/WD~CHRM3,17861955]]'
+- '[[_Standards/WikiData/WD~GABRG2,18025166]]'
+- '[[_Standards/WikiData/WD~PLA2G4A,18030575]]'
+- '[[_Standards/WikiData/WD~PTPRD,18030938]]'
+- '[[_Standards/WikiData/WD~SCN1A,18031391]]'
+- '[[_Standards/WikiData/WD~SCN8A,18031400]]'
+- '[[_Standards/WikiData/WD~PCDH19,18043114]]'
+- '[[_Standards/WikiData/WD~MAST4,18056155]]'
 studied_by: '[[_Standards/WikiData/WD~epileptology,23688644]]'
 instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 prevalence: 0.009
 ICD_9_CM:
-  - 345
-  - 345.9
-  - 345.8
-  - 345.80
-  - 345.90
-  - 345.91
+- 345
+- 345.9
+- 345.8
+- 345.80
+- 345.90
+- 345.91
 DiseasesDB: 4366
 OmegaWiki_Defined_Meaning: 523176
 ICD_10_CM:
-  - G40
-  - G40.9
-  - G40.909
+- G40
+- G40.9
+- G40.909
 UMLS_CUI:
-  - C0014544
-  - C0236018
+- C0014544
+- C0236018
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spike-waves.png
 exact_match:
-  - http://identifiers.org/doid/DOID:1826
-  - http://purl.obolibrary.org/obo/DOID_1826
-  - http://purl.obolibrary.org/obo/HP_0011157
+- http://identifiers.org/doid/DOID:1826
+- http://purl.obolibrary.org/obo/DOID_1826
+- http://purl.obolibrary.org/obo/HP_0011157
 Libris_URI: 0xbdh3cj4lbj8z1
 Datahub_page: bioportal-epileponto
 MeSH_tree_code: C10.228.140.490
@@ -95,8 +187,157 @@ subreddit: Epilepsy
 Krugosvet_article: medicina/EPILEPSIYA.html
 Gujarati_Vishwakosh_entry: આંચકી
 Baidu_Tieba_name: 癫痫
+dv_has_:
+  name_:
+    af: Epilepsie
+    an: Epilepsia
+    ar: صرع
+    ary: صريعة
+    as: মৃগীৰোগ
+    ast: epilepsia
+    ay: T'uku usu
+    az: Epilepsiya
+    ba: Быума
+    bar: Hinfållets
+    bcl: Subi-subi
+    be: эпілепсія
+    be-tarask: эпілепсія
+    bg: Епилепсия
+    bjn: Gila babi
+    blk: လိုꩻပေႏသဲင်ႏထင်ႏ
+    bn: মৃগী
+    br: drougsant
+    bs: Epilepsija
+    bxr: Эпилепси
+    ca: epilèpsia
+    cdo: Iòng-hìng
+    ckb: پەرکەم
+    cs: epilepsie
+    cy: epilepsi
+    da: epilepsi
+    de: Epilepsie
+    de-ch: Epilepsie
+    din: Nok
+    el: επιληψία
+    en: epilepsy
+    en-ca: Epilepsy
+    en-gb: epilepsy
+    eo: epilepsio
+    es: epilepsia
+    et: epilepsia
+    eu: epilepsia
+    fa: صرع
+    fi: epilepsia
+    fr: épilepsie
+    ga: titimeas
+    gd: an tinneas-tuiteamach
+    gl: Epilepsia
+    gn: mba'asyryrýi
+    gpe: epilepsy
+    gsw: Epilepsie
+    gu: વાઈ
+    ha: Farfaɗiya
+    he: אפילפסיה
+    hi: अपस्मार
+    hif: mirgii
+    hr: epilepsija
+    ht: Malkadi
+    hu: epilepszia
+    hy: էպիլեպսիա
+    id: Epilepsi
+    io: Epilepsio
+    is: flogaveiki
+    it: epilessia
+    ja: てんかん
+    jv: Ayan
+    ka: ეპილეფსია
+    kab: tagrint
+    kk: Қояншық
+    kn: ಅಪಸ್ಮಾರ
+    ko: 뇌전증
+    ks: مِرگی
+    ku: epîlepsî
+    ky: Талма
+    la: Epilepsia
+    lb: Epilepsie
+    lg: Ensimbu
+    li: Epilepsie
+    lmo: Epilessia
+    lt: epilepsija
+    lv: epilepsija
+    mad: Èpilèpsi
+    min: Ayan
+    mk: епилепсија
+    ml: അപസ്മാരം
+    mn: Эпилепc
+    mnc: ᡶᠠᠨᠴᠠᡴᡡ ᠨᡳᠮᡝᡴᡠ
+    mr: अपस्मार
+    ms: Epilepsi
+    my: ဝက်ရူးပြန် ရောဂါ
+    nan: Iûⁿ-hîn
+    nb: epilepsi
+    nds: Epilepsie
+    ne: छारे रोग
+    new: तिकुल्वय्
+    nia: Faniri
+    nl: epilepsie
+    nn: epilepsi
+    nrm: Haut ma
+    oc: Epilepsia
+    or: ଅପସ୍ମାର
+    pa: ਮਿਰਗੀ
+    pl: padaczka
+    pms: Epilessìa
+    pnb: مرگی
+    pt: epilepsia
+    pt-br: Epilepsia
+    ro: epilepsie
+    ru: эпилепсия
+    scn: epilissìa
+    sco: epilepsy
+    se: epilepsiija
+    sgs: Epilepsėjė
+    sh: Epilepsija
+    sk: Epilepsia
+    sl: epilepsija
+    smn: jámálgemtavdâ
+    sms: epilepsia
+    sn: Pfari
+    so: Qallal
+    sq: Epilepsia
+    sr: епилепсија
+    sr-ec: епилепсија
+    srn: stoipi-siki
+    su: Épilépsi
+    sv: epilepsi
+    sw: EPILEPSY
+    szy: buliak
+    ta: கால்-கை வலிப்பு
+    te: మూర్ఛలు (ఫిట్స్)
+    th: โรคลมชัก
+    tl: epilepsiya
+    tr: Epilepsi
+    tt: өянәк авыруы
+    tt-cyrl: өянәк авыруы
+    udm: кулыса усьылон
+    uk: епілепсія
+    ur: مرگی
+    uz: Epilepsiya
+    vec: epiłesia
+    vi: động kinh
+    vo: peiläp
+    war: Epilepsya
+    wuu: 癫痫
+    yi: עפילעפסיע
+    yue: 發羊吊
+    za: Fatyiengzdien
+    zh: 癫痫
+    zh-cn: 癫痫
+    zh-hans: 癫痫
+    zh-hant: 癲癇症
+    zh-hk: 腦癇症
+    zh-tw: 癲癇
 ---
-
 # [[Epilepsy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Epilepsy,41571|WD~Epilepsy,41571]] 

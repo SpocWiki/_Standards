@@ -1,9 +1,165 @@
 ---
 aliases:
-  - Burt Lancaster
-  - Burton Stephen Lancaster
-  - Lancaster,Burt
+- Bert Lankaster
+- Burt Lancaster
+- Burton Stephen Lancaster
+- Bērts Lankasters
+- Lancaster,Burt
+- Μπαρτ Λάνκαστερ
+- Берт Ланкастер
+- Берт Ланкастэр
+- Бърт Ланкастър
+- Бэрт Ланкастэр
+- Բերտ Լանկաստեր
+- ברט לנקסטר
+- برت لانكستر
+- برت لنکستر
+- برٹ لنکاسٹر
+- بێرت لانکاستەر
+- बर्ट लँकेस्टर
+- বার্ট ল্যাঙ্কেস্টার
+- ബർട്ടൺ സ്റ്റീഫൻ ലങ്കാസ്റ്റർ
+- เบิร์ต แลนแคสเตอร์
+- ბერტ ლანკასტერი
+- バート・ランカスター
+- 伯特·兰开斯特
+- 毕·兰加士打
+- 畢·蘭加士打
+- 畢·蘭卡斯特
+- 畢蘭加士打
+- 버트 랭커스터
 has_id_wikidata: Q160528
+dv_has_:
+  name_:
+    af: Burt Lancaster
+    an: Burt Lancaster
+    ar: برت لانكستر
+    arz: برت لانكستر
+    ast: Burt Lancaster
+    az: Bert Lankaster
+    azb: برت لنکستر
+    bar: Burt Lancaster
+    be: Берт Ланкастэр
+    be-tarask: Бэрт Ланкастэр
+    bg: Бърт Ланкастър
+    bm: Burt Lancaster
+    bn: বার্ট ল্যাঙ্কেস্টার
+    br: Burt Lancaster
+    ca: Burt Lancaster
+    ckb: بێرت لانکاستەر
+    co: Burt Lancaster
+    cs: Burt Lancaster
+    cy: Burt Lancaster
+    da: Burt Lancaster
+    de: Burt Lancaster
+    de-at: Burt Lancaster
+    de-ch: Burt Lancaster
+    el: Μπαρτ Λάνκαστερ
+    en: Burt Lancaster
+    en-ca: Burt Lancaster
+    en-gb: Burt Lancaster
+    eo: Burt Lancaster
+    es: Burt Lancaster
+    et: Burt Lancaster
+    eu: Burt Lancaster
+    fa: برت لنکستر
+    fi: Burt Lancaster
+    fo: Burt Lancaster
+    fr: Burt Lancaster
+    frc: Burt Lancaster
+    frp: Burt Lancaster
+    fur: Burt Lancaster
+    ga: Burt Lancaster
+    gd: Burt Lancaster
+    gl: Burt Lancaster
+    gsw: Burt Lancaster
+    he: ברט לנקסטר
+    hr: Burt Lancaster
+    hu: Burt Lancaster
+    hy: Բերտ Լանկաստեր
+    ia: Burt Lancaster
+    id: Burt Lancaster
+    ie: Burt Lancaster
+    ilo: Burt Lancaster
+    io: Burt Lancaster
+    it: Burt Lancaster
+    ja: バート・ランカスター
+    jam: Burt Lancaster
+    ka: ბერტ ლანკასტერი
+    kab: Burt Lancaster
+    kg: Burt Lancaster
+    ko: 버트 랭커스터
+    la: Burt Lancaster
+    lb: Burt Lancaster
+    li: Burt Lancaster
+    lij: Burt Lancaster
+    lt: Burt Lancaster
+    lv: Bērts Lankasters
+    mg: Burt Lancaster
+    min: Burt Lancaster
+    mk: Берт Ланкастер
+    ml: ബർട്ടൺ സ്റ്റീഫൻ ലങ്കാസ്റ്റർ
+    mr: बर्ट लँकेस्टर
+    ms: Burt Lancaster
+    mul: Burt Lancaster
+    nap: Burt Lancaster
+    nb: Burt Lancaster
+    nds: Burt Lancaster
+    nds-nl: Burt Lancaster
+    nl: Burt Lancaster
+    nn: Burt Lancaster
+    nrm: Burt Lancaster
+    oc: Burt Lancaster
+    pap: Burt Lancaster
+    pcd: Burt Lancaster
+    pl: Burt Lancaster
+    pms: Burt Lancaster
+    prg: Burt Lancaster
+    pt: Burt Lancaster
+    pt-br: Burt Lancaster
+    qu: Burt Lancaster
+    rgn: Burt Lancaster
+    rm: Burt Lancaster
+    ro: Burt Lancaster
+    ru: Берт Ланкастер
+    sc: Burt Lancaster
+    scn: Burt Lancaster
+    sh: Burt Lancaster
+    sk: Burt Lancaster
+    sl: Burt Lancaster
+    sq: Burt Lancaster
+    sr: Берт Ланкастер
+    sr-ec: Берт Ланкастер
+    sr-el: Bert Lankaster
+    sv: Burt Lancaster
+    sw: Burt Lancaster
+    th: เบิร์ต แลนแคสเตอร์
+    tl: Burt Lancaster
+    tr: Burt Lancaster
+    uk: Берт Ланкастер
+    ur: برٹ لنکاسٹر
+    uz: Burt Lancaster
+    vec: Burt Lancaster
+    vi: Burt Lancaster
+    vls: Burt Lancaster
+    vmf: Burt Lancaster
+    vo: Burt Lancaster
+    wa: Burt Lancaster
+    war: Burt Lancaster
+    wo: Burt Lancaster
+    wuu: 伯特·兰开斯特
+    xmf: ბერტ ლანკასტერი
+    yo: Burt Lancaster
+    yue: 畢蘭加士打
+    zh: 畢·蘭卡斯特
+    zh-cn: 伯特·兰开斯特
+    zh-hans: 伯特·兰开斯特
+    zh-hant: 畢·蘭卡斯特
+    zh-hk: 畢·蘭加士打
+    zh-my: 毕·兰加士打
+    zh-sg: 毕·兰加士打
+    zh-tw: 畢·蘭卡斯特
+    zu: Burt Lancaster
 ---
 #has_/time_/started :: 1913-11-02 
 #has_/time_/stopped  :: 1994-10-20 

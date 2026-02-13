@@ -1,8 +1,135 @@
 ---
 aliases:
-  - Michel Gondry
-  - Gondry,Michel
+- Gondry,Michel
+- Michael Gondry
+- Michel Gondry
+- Μισέλ Γκοντρί
+- Мішель Ґондрі
+- Мишел Гондри
+- Мишель Гондри
+- Միշել Գոնդրի
+- מישל גונדרי
+- ميشيل جوندرى
+- ميشيل جوندري
+- میشل گوندری
+- मिशेल गोंड्री
+- ミシェル・ゴンドリー
+- 米歇·龔德里
+- 米歇·龚德里
+- 米高·歌治
+- 미셸 공드리
 has_id_wikidata: Q126098
+dv_has_:
+  name_:
+    af: Michel Gondry
+    an: Michel Gondry
+    ar: ميشيل جوندري
+    arz: ميشيل جوندرى
+    ast: Michel Gondry
+    bar: Michel Gondry
+    bg: Мишел Гондри
+    bm: Michel Gondry
+    br: Michel Gondry
+    ca: Michel Gondry
+    co: Michel Gondry
+    cs: Michel Gondry
+    cy: Michel Gondry
+    da: Michel Gondry
+    de: Michel Gondry
+    de-at: Michel Gondry
+    de-ch: Michel Gondry
+    el: Μισέλ Γκοντρί
+    en: Michel Gondry
+    en-ca: Michel Gondry
+    en-gb: Michel Gondry
+    eo: Michel Gondry
+    es: Michel Gondry
+    et: Michel Gondry
+    eu: Michel Gondry
+    fa: میشل گوندری
+    fi: Michel Gondry
+    fo: Michel Gondry
+    fr: Michel Gondry
+    frc: Michel Gondry
+    frp: Michel Gondry
+    fur: Michel Gondry
+    ga: Michel Gondry
+    gd: Michel Gondry
+    gl: Michel Gondry
+    gsw: Michel Gondry
+    he: מישל גונדרי
+    hi: मिशेल गोंड्री
+    hr: Michel Gondry
+    ht: Michel Gondry
+    hu: Michel Gondry
+    hy: Միշել Գոնդրի
+    ia: Michel Gondry
+    id: Michel Gondry
+    ie: Michel Gondry
+    io: Michel Gondry
+    is: Michel Gondry
+    it: Michel Gondry
+    ja: ミシェル・ゴンドリー
+    jam: Michel Gondry
+    kab: Michel Gondry
+    kg: Michel Gondry
+    kk: Мишель Гондри
+    kl: Michel Gondry
+    ko: 미셸 공드리
+    la: Michael Gondry
+    lb: Michel Gondry
+    li: Michel Gondry
+    lij: Michel Gondry
+    lt: Michel Gondry
+    lv: Michel Gondry
+    mg: Michel Gondry
+    min: Michel Gondry
+    ms: Michel Gondry
+    mul: Michel Gondry
+    nap: Michel Gondry
+    nb: Michel Gondry
+    nds: Michel Gondry
+    nds-nl: Michel Gondry
+    nl: Michel Gondry
+    nn: Michel Gondry
+    nrm: Michel Gondry
+    oc: Michel Gondry
+    pam: Michel Gondry
+    pap: Michel Gondry
+    pcd: Michel Gondry
+    pl: Michel Gondry
+    pms: Michel Gondry
+    prg: Michel Gondry
+    pt: Michel Gondry
+    pt-br: Michel Gondry
+    rgn: Michel Gondry
+    rm: Michel Gondry
+    ro: Michel Gondry
+    ru: Мишель Гондри
+    sc: Michel Gondry
+    scn: Michel Gondry
+    sco: Michel Gondry
+    sk: Michel Gondry
+    sl: Michel Gondry
+    sq: Michel Gondry
+    sr-el: Michel Gondry
+    sv: Michel Gondry
+    sw: Michel Gondry
+    tr: Michel Gondry
+    uk: Мішель Ґондрі
+    vec: Michel Gondry
+    vi: Michel Gondry
+    vls: Michel Gondry
+    vmf: Michel Gondry
+    vo: Michel Gondry
+    wa: Michel Gondry
+    wo: Michel Gondry
+    yue: 米高·歌治
+    zh: 米歇·龔德里
+    zh-hans: 米歇·龚德里
+    zh-hant: 米歇·龔德里
+    zh-hk: 米高·歌治
+    zu: Michel Gondry
 ---
 ## #has_/text_of_/abstract 
 

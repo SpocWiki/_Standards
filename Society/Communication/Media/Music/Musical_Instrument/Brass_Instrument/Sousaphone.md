@@ -1,24 +1,99 @@
 ---
 aliases:
+- Kèn sousa
+- reenkbas
+- soubassophone
+- Sousafoi
+- sousafon
+- Sousafone
+- sousafoni
+- sousafono
+- sousafoon
+- Sousafòn
+- Sousafó
+- Sousafón
+- Sousaphon
+- sousaphone
+- susafon
+- suzafon
+- Suzafono
+- szouszafon
+- súsafón
+- сузафон
+- Սուզաֆոն
+- סוזאפון
+- سوسافون
+- ซูซาโฟน
+- スーザフォン
+- 蘇沙號
+- 수자폰
 has_id_wikidata: Q499387
 subclass_of:
-  - "[[_Standards/WikiData/WD~brass_instrument,180744]]"
-  - "[[_Standards/WikiData/WD~valve_trumpets,55774273]]"
-named_after: "[[_Standards/WikiData/WD~John_Philip_Sousa,295935]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10686"
-Amazon_com_browse_node: "11971771"
-Hornbostel_Sachs_classification: "423.232"
+- '[[_Standards/WikiData/WD~brass_instrument,180744]]'
+- '[[_Standards/WikiData/WD~valve_trumpets,55774273]]'
+named_after: '[[_Standards/WikiData/WD~John_Philip_Sousa,295935]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10686
+Amazon_com_browse_node: 11971771
+Hornbostel_Sachs_classification: 423.232
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Sousaphon.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sousaphone.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Sousaphon.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sousaphone.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eis-Zwei-Geissebei%20IMG%208662.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sousaphone.ogg
 IPA_transcription: ˌzuːzaˈfoːn
 Commons_gallery: Sousaphone
 Commons_category: Sousaphones
+dv_has_:
+  name_:
+    ar: سوسافون
+    ast: Sousafón
+    be-tarask: сузафон
+    ca: Sousafó
+    cs: suzafon
+    da: Sousafon
+    de: Sousaphon
+    en: sousaphone
+    en-us: sousaphone
+    eo: Suzafono
+    es: Sousafón
+    et: susafon
+    eu: Sousafoi
+    fa: سوسافون
+    fi: sousafoni
+    fr: soubassophone
+    ga: súsafón
+    gd: Sousaphone
+    gl: Sousafón
+    gsw: Sousaphon
+    he: סוזאפון
+    hu: szouszafon
+    hy: Սուզաֆոն
+    it: sousafono
+    ja: スーザフォン
+    ko: 수자폰
+    lb: Sousaphon
+    mk: Сузафон
+    nb: sousafon
+    nds-nl: reenkbas
+    nl: sousafoon
+    oc: Sousafòn
+    pl: Suzafon
+    pnb: سوسافون
+    pt: Sousafone
+    ru: Сузафон
+    sl: suzafon
+    sr: сузафон
+    sr-ec: сузафон
+    sr-el: suzafon
+    sv: sousafon
+    th: ซูซาโฟน
+    tr: Suzafon
+    uk: Сузафон
+    vi: Kèn sousa
+    yue: 蘇沙號
+    zh: 蘇沙號
 ---
-
 # [[Sousaphone]] 
 
 #is_/same_as :: [[WD~Sousaphone,499387]] 

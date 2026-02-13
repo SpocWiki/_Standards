@@ -1,8 +1,55 @@
 ---
 aliases:
-  - Salamandrina
+- Salamandra d'ulleres
+- Salamandreto
+- Salamandrina
+- Окулярна саламандра
+- سالاماندرينا
+- 四趾螈属
+- 안경영원속
 title: Salamandrina
 has_id_wikidata: Q737746
+dv_has_:
+  name_:
+    an: Salamandrina
+    arz: سالاماندرينا
+    ast: Salamandrina
+    bg: Salamandrina
+    ca: Salamandra d'ulleres
+    ceb: Salamandrina
+    de: Salamandrina
+    en: Salamandrina
+    eo: Salamandreto
+    es: Salamandrina
+    eu: Salamandrina
+    ext: Salamandrina
+    fi: Salamandrina
+    fr: Salamandrina
+    ga: Salamandrina
+    gl: Salamandrina
+    ia: Salamandrina
+    ie: Salamandrina
+    io: Salamandrina
+    it: Salamandrina
+    ko: 안경영원속
+    la: Salamandrina
+    mul: Salamandrina
+    nl: Salamandrina
+    oc: Salamandrina
+    pl: Salamandrina
+    pt: Salamandrina
+    pt-br: Salamandrina
+    ro: Salamandrina
+    ru: Salamandrina
+    sq: Salamandrina
+    sv: Salamandrina
+    uk: Окулярна саламандра
+    vi: Salamandrina
+    vo: Salamandrina
+    war: Salamandrina
+    zh: 四趾螈属
+    zh-cn: 四趾螈属
+    zh-hans: 四趾螈属
 ---
 # [[Salamandrina]] 
 

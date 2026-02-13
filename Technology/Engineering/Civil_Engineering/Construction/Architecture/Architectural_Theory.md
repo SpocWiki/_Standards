@@ -1,7 +1,45 @@
 ---
 aliases:
-  - Architectural_Theory
-  - Architectural Theory
+- Architectural Theory
+- Architectural_Theory
+- Architectuurtheorie
+- Architekturtheorie
+- Arhitektonska teorija
+- arhitekturna teorija
+- arkitektura teorio
+- arkitekturaren teoria
+- Arkitekturteori
+- Ka'idar gine-gine
+- Mimarlık teorisi
+- teoiric ailtireachta
+- teoria architektury
+- teoria da arquitetura
+- teoria de l'architetura
+- teoria de l'arquitectura
+- teoria dell'architettura
+- teorie architektury
+- teoría da arquitectura
+- teoría de l'arquiteutura
+- teoría de la arquitectura
+- Teyorya arkitektoniko
+- théorie de l'architecture
+- építészetelmélet
+- Αρχιτεκτονική θεωρία
+- архитектонска теорија
+- архитектура теориясе
+- Архитектура теорияһы
+- теорія архітектури
+- теорија на архитектурата
+- теория архитектуры
+- тэорыя архітэктуры
+- Ճարտարապետության տեսություն
+- תאוריה אדריכלית
+- نظريات العمارة
+- نظریه معماری
+- वास्तुकला सिद्धांत
+- கட்டிடக்கலைக் கோட்பாடு
+- 建筑理论
+- 建築理論
 has_id_wikidata: Q47537
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~architectural_theoretician,17391659]]'
@@ -11,8 +49,52 @@ is_the_study_of: '[[_Standards/WikiData/WD~architecture,12271]]'
 subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
 Provenio_UUID: 2ab4c035-63a1-4019-9062-0a9e1258acbe
 Commons_category: Architectural theory
+dv_has_:
+  name_:
+    ar: نظريات العمارة
+    ast: teoría de l'arquiteutura
+    ba: Архитектура теорияһы
+    be: тэорыя архітэктуры
+    be-tarask: тэорыя архітэктуры
+    ca: teoria de l'arquitectura
+    cs: teorie architektury
+    da: Arkitekturteori
+    de: Architekturtheorie
+    el: Αρχιτεκτονική θεωρία
+    en: architectural theory
+    eo: arkitektura teorio
+    es: teoría de la arquitectura
+    eu: arkitekturaren teoria
+    fa: نظریه معماری
+    fr: théorie de l'architecture
+    ga: teoiric ailtireachta
+    gl: teoría da arquitectura
+    ha: Ka'idar gine-gine
+    he: תאוריה אדריכלית
+    hi: वास्तुकला सिद्धांत
+    hu: építészetelmélet
+    hy: Ճարտարապետության տեսություն
+    it: teoria dell'architettura
+    ja: 建築理論
+    mk: теорија на архитектурата
+    nl: Architectuurtheorie
+    pl: teoria architektury
+    pt: teoria da arquitetura
+    ru: теория архитектуры
+    sh: Arhitektonska teorija
+    sl: arhitekturna teorija
+    sr: архитектонска теорија
+    sv: arkitekturteori
+    ta: கட்டிடக்கலைக் கோட்பாடு
+    tr: Mimarlık teorisi
+    tt: архитектура теориясе
+    uk: теорія архітектури
+    vec: teoria de l'architetura
+    war: Teyorya arkitektoniko
+    wuu: 建筑理论
+    yue: 建築理論
+    zh: 建筑理论
 ---
-
 # [[Architectural_Theory]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Architectural_theory,47537|WD~Architectural_theory,47537]] 

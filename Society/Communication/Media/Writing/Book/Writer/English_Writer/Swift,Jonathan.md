@@ -1,64 +1,96 @@
 ---
 aliases:
-  - Jonathan Swift
-  - Swift,Jonathan
+- Conatan Svift
+- Džonatans Svifts
+- Ionathan Swift
+- Jonathan Swift
+- Swift,Jonathan
+- Τζόναθαν Σουίφτ
+- Џонатан Свифт
+- Джонатан Сўіфт
+- Джонатан Свіфт
+- Джонатан Свифт
+- Джонатан Суифт
+- Жонатан Свифт
+- Ջոնաթան Սվիֆթ
+- ג'ונתן סוויפט
+- جاناتان سوییفت
+- جوناتھن سوئفٹ
+- جوناثان سويفت
+- جوناٿن سوفٽ
+- جۆناتان سویفت
+- जोनाथन स्विफ्ट
+- জোনাথন সুইফট
+- ਜੋਨਾਥਨ ਸਵਿਫਟ
+- ஜோனதன் ஸ்விப்ட்
+- జోనాథన్ స్విఫ్ట్
+- ಜೊನಾಥನ್ ಸ್ವಿಫ಼್ಟ್
+- ജോനഥൻ സ്വിഫ്റ്റ്
+- โจนาธาน สวิฟท์
+- ဆွစ်ဂျွန်နသန်
+- ჯონათან სვიფთი
+- ჯონათან სვიფტი
+- ジョナサン・スウィフト
+- 乔纳森·斯威夫特
+- 莊拿芬史威夫特
+- 조너선 스위프트
 has_id_wikidata: Q41166
 educated_at:
-  - '[[_Standards/WikiData/WD~Hertford_College,81090]]'
-  - '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
-  - '[[_Standards/WikiData/WD~Kilkenny_College,6407035]]'
+- '[[_Standards/WikiData/WD~Hertford_College,81090]]'
+- '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
+- '[[_Standards/WikiData/WD~Kilkenny_College,6407035]]'
 genre:
-  - '[[_Standards/WikiData/WD~satire,128758]]'
-  - '[[_Standards/WikiData/WD~polemical_lampoon,18536349]]'
-  - '[[_Standards/WikiData/WD~pritcha,21322403]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~satire,128758]]'
+- '[[_Standards/WikiData/WD~polemical_lampoon,18536349]]'
+- '[[_Standards/WikiData/WD~pritcha,21322403]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,181488]]"
-  - '[[_Standards/WikiData/WD~A_Modest_Proposal,264143]]'
-  - '[[_Standards/WikiData/WD~A_Tale_of_a_Tub,2353123]]'
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,181488]]"
+- '[[_Standards/WikiData/WD~A_Modest_Proposal,264143]]'
+- '[[_Standards/WikiData/WD~A_Tale_of_a_Tub,2353123]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
-  - '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
-  - '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+- '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Ireland,215530]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Tories,499956]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Lives_of_the_Most_Eminent_English_Poets,4015014]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
-  - '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Lives_of_the_Most_Eminent_English_Poets,4015014]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
+- '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 occupation:
-  - '[[_Standards/WikiData/WD~public_figure,662729]]'
-  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
-  - '[[_Standards/WikiData/WD~Anglican_priest,3409375]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~satirist,9334029]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~pamphleteer,16254673]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~priest,42603]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~public_figure,662729]]'
+- '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+- '[[_Standards/WikiData/WD~Anglican_priest,3409375]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~satirist,9334029]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~pamphleteer,16254673]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~priest,42603]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_burial: "[[_Standards/WikiData/WD~St_Patrick's_Cathedral,846365]]"
 residence: '[[_Standards/WikiData/WD~Whitehaven,1012481]]'
 given_name: '[[_Standards/WikiData/WD~Jonathan,1158394]]'
@@ -69,8 +101,8 @@ unmarried_partner: '[[_Standards/WikiData/WD~Esther_Vanhomrigh,5401315]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
 sibling: '[[_Standards/WikiData/WD~Jane_Swift,16058262]]'
 family_name: '[[_Standards/WikiData/WD~Swift,18331735]]'
 archives_at: '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]'
@@ -90,10 +122,10 @@ Commons_category: Jonathan Swift
 Commons_Creator_page: Jonathan Swift
 Commons_gallery: Jonathan Swift
 pseudonym:
-  - Isaac Bickerstaff
-  - Lemuel Gulliver
-  - M. B. Drapier
-  - Simon Wagstaff
+- Isaac Bickerstaff
+- Lemuel Gulliver
+- M. B. Drapier
+- Simon Wagstaff
 BHCL_UUID: f10105fb-2215-4e22-b2a5-d4872c2bee37
 name_in_native_language: Jonathan Swift
 Royal_Academy_new_identifier: jonathan-swith
@@ -108,8 +140,120 @@ Plex_person_key: 5dcd37dc8d9864001eba63ec
 Europeana_entity: agent/base/60050
 Wolfram_Language_entity_code: Entity["Person", "JonathanSwift::j5rsr"]
 Regensburg_Classification: HK 3170
+dv_has_:
+  name_:
+    af: Jonathan Swift
+    an: Jonathan Swift
+    ar: جوناثان سويفت
+    arz: جوناثان سويفت
+    ast: Jonathan Swift
+    az: Conatan Svift
+    azb: جاناتان سوییفت
+    ba: Джонатан Свифт
+    be: Джонатан Свіфт
+    be-tarask: Джонатан Сўіфт
+    bg: Джонатан Суифт
+    bn: জোনাথন সুইফট
+    br: Jonathan Swift
+    bs: Jonathan Swift
+    ca: Jonathan Swift
+    ckb: جۆناتان سویفت
+    cs: Jonathan Swift
+    cv: Джонатан Свифт
+    cy: Jonathan Swift
+    da: Jonathan Swift
+    de: Jonathan Swift
+    de-at: Jonathan Swift
+    de-ch: Jonathan Swift
+    diq: Jonathan Swift
+    dtp: Jonathan Swift
+    el: Τζόναθαν Σουίφτ
+    en: Jonathan Swift
+    en-ca: Jonathan Swift
+    en-gb: Jonathan Swift
+    eo: Jonathan Swift
+    es: Jonathan Swift
+    et: Jonathan Swift
+    eu: Jonathan Swift
+    fa: جاناتان سوییفت
+    fi: Jonathan Swift
+    fr: Jonathan Swift
+    fy: Jonathan Swift
+    ga: Jonathan Swift
+    gl: Jonathan Swift
+    gsw: Jonathan Swift
+    he: ג'ונתן סוויפט
+    hi: जोनाथन स्विफ्ट
+    hr: Jonathan Swift
+    hu: Jonathan Swift
+    hy: Ջոնաթան Սվիֆթ
+    id: Jonathan Swift
+    io: Jonathan Swift
+    is: Jonathan Swift
+    it: Jonathan Swift
+    ja: ジョナサン・スウィフト
+    jut: Jonathan Swift
+    jv: Jonathan Swift
+    ka: ჯონათან სვიფტი
+    kk: Джонатан Свифт
+    kn: ಜೊನಾಥನ್ ಸ್ವಿಫ಼್ಟ್
+    ko: 조너선 스위프트
+    ku: Jonathan Swift
+    kw: Jonathan Swift
+    la: Ionathan Swift
+    lb: Jonathan Swift
+    lt: Jonathan Swift
+    lv: Džonatans Svifts
+    mg: Jonathan Swift
+    mk: Џонатан Свифт
+    ml: ജോനഥൻ സ്വിഫ്റ്റ്
+    mn: Жонатан Свифт
+    ms: Jonathan Swift
+    mul: Jonathan Swift
+    my: ဆွစ်ဂျွန်နသန်
+    nah: Jonathan Swift
+    nb: Jonathan Swift
+    nds: Jonathan Swift
+    nl: Jonathan Swift
+    nn: Jonathan Swift
+    oc: Jonathan Swift
+    olo: Jonathan Swift
+    pa: ਜੋਨਾਥਨ ਸਵਿਫਟ
+    pl: Jonathan Swift
+    pms: Jonathan Swift
+    pt: Jonathan Swift
+    pt-br: Jonathan Swift
+    rm: Jonathan Swift
+    ro: Jonathan Swift
+    ru: Джонатан Свифт
+    rue: Джонатан Свифт
+    sah: Джонатан Свифт
+    sc: Jonathan Swift
+    sco: Jonathan Swift
+    sd: جوناٿن سوفٽ
+    sh: Jonathan Swift
+    sje: Jonathan Swift
+    sk: Jonathan Swift
+    sl: Jonathan Swift
+    sq: Jonathan Swift
+    sr: Џонатан Свифт
+    sv: Jonathan Swift
+    ta: ஜோனதன் ஸ்விப்ட்
+    te: జోనాథన్ స్విఫ్ట్
+    th: โจนาธาน สวิฟท์
+    tl: Jonathan Swift
+    tr: Jonathan Swift
+    tt: Джонатан Свифт
+    uk: Джонатан Свіфт
+    ur: جوناتھن سوئفٹ
+    uz: Jonathan Swift
+    vi: Jonathan Swift
+    war: Jonathan Swift
+    wuu: 乔纳森·斯威夫特
+    xmf: ჯონათან სვიფთი
+    yue: 莊拿芬史威夫特
+    zh: 乔纳森·斯威夫特
 ---
-
 # [[Swift,Jonathan]] 
 
 #is_/same_as :: [[WD~Jonathan_Swift,41166]] 

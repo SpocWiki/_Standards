@@ -1,10 +1,113 @@
 ---
 aliases:
-  - Charon
-  - Kharon
-  - Χάρων
-  - Charon(Mythology)
+- C'haron
+- Caront
+- Caronte
+- Caronti
+- Carón
+- Charon
+- Charon (thần thoại Hy Lạp)
+- Charon(Mythology)
+- Charonas
+- Charón
+- Haron
+- Haron (mitologio)
+- Harons (mitoloģija)
+- Karon
+- Karono
+- Karonte
+- Kharon
+- Kharoon
+- Kharón
+- Xaron
+- Χάρων
+- Χάρων , Charōn
+- Харон
+- Харон (митологија)
+- Քարոն
+- כארון
+- خارون
+- แครอน
+- ქარონი
+- カローン
+- 卡戎
+- 카론
 has_id_wikidata: Q6612
+dv_has_:
+  name_:
+    af: Charon
+    an: Caront
+    ar: خارون
+    bg: Харон
+    br: C'haron
+    bs: Haron
+    ca: Caront
+    co: Caronti
+    cs: Charón
+    cy: Charon
+    da: Charon
+    de: Charon
+    de-ch: Charon
+    el: Χάρων
+    en: Charon
+    en-ca: Charon
+    en-gb: Charon
+    eo: Karono
+    es: Caronte
+    et: Charon
+    eu: Karonte
+    fa: خارون
+    fi: Kharon
+    fr: Charon
+    ga: Carón
+    gl: Caronte
+    grc: Χάρων , Charōn
+    gv: Charon
+    he: כארון
+    hr: Haron
+    hu: Kharón
+    hy: Քարոն
+    id: Kharon
+    io: Haron (mitologio)
+    it: Caronte
+    ja: カローン
+    ka: ქარონი
+    ko: 카론
+    ku: Xaron
+    ku-latn: Xaron
+    la: Charon
+    lb: Charon
+    lij: Caronte
+    lt: Charonas
+    lv: Harons (mitoloģija)
+    mk: Харон (митологија)
+    nb: Kharon
+    nds: Charon
+    nl: Charon
+    nn: Karon
+    oc: Charon
+    os: Харон
+    pl: Charon
+    pt: Caronte
+    pt-br: Caronte
+    ro: Charon
+    ru: Харон
+    scn: Caronti
+    sco: Charon
+    sh: Haron
+    sk: Charón
+    sl: Haron
+    sq: Karon
+    sr: Харон
+    sr-ec: Харон
+    sv: Charon
+    th: แครอน
+    tr: Kharoon
+    uk: Харон
+    vi: Charon (thần thoại Hy Lạp)
+    war: Charon
+    wuu: 卡戎
+    zh: 卡戎
 ---
 ## #has_/text_of_/abstract 
 

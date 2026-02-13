@@ -1,33 +1,179 @@
 ---
 aliases:
-  - Democracy
+- Agɛmkɔckedhiɛ
+- Akllanakuspa kamachinakuy
+- Bîn-chú
+- daonlathas
+- Deamocrasaidh
+- democracia
+- Democracie
+- Democracy
+- democrasi
+- Democrassìa
+- democrasìa
+- democratia
+- democratiaeth
+- democratie
+- Democrazia
+- Democraçia
+- democrație
+- democràcia
+- Demograzia
+- Demokhrasi
+- Demokilase
+- Demokraatia
+- demokracia
+- demokracie
+- Demokracija
+- demokracja
+- demokrasi
+- demokrasia
+- demokrasie
+- Demokrasiye
+- demokrasy
+- demokrasya
+- demokrasî
+- demokrateja
+- demokratelezh
+- Demokrati
+- demokratia
+- Demokratie
+- Demokratii
+- demokratiija
+- demokratija
+- demokratije
+- demokratio
+- Demokratiya
+- Demokratiýa
+- demokraty
+- demokrazia
+- demokrazija
+- demokrácia
+- demokrātija
+- Demuokratėjė
+- deynlaght
+- Dimakrasi
+- Dimokalasi
+- Dimokaradiyya
+- Dimookiraasii
+- Dimoqraadi
+- Dimucrazzìa
+- Di̱mokrasi
+- dymokracyjŏ
+- dân chủ
+- Dämogradie
+- démocratie
+- Démokrasi
+- folkestyre
+- Fólkaræði
+- Gutsaruzhinji
+- Gwerinieth
+- I-Democracy
+- Jekopytyjoja
+- kerakyatan
+- lýðræði
+- Minzcuj
+- Mìn-tsú Tsú-ngi
+- Mìng-ciō
+- nasin lawa pi jan ale
+- Ndemookirathĩ
+- Prajatantr
+- Rahvahanvaldu
+- roltrusi'o
+- Temokraasii
+- Tlācatēpacholiztli
+- Umbuso wabantu
+- Umbuso wentando yenengi
+- Òṣèlúaráìlú
+- δημοκρατία
+- Арадшалал
+- Ардчилал
+- демократія
+- демократи
+- демократија
+- демократий
+- Демократия
+- Демокрація
+- Демокрация
+- димократїꙗ
+- дэмакратыя
+- Ժողովրդավարութիւն
+- Ժողովրդավարություն
+- דמוקרטיה
+- דעמאקראטיע
+- جمھوريت
+- جمہوریت
+- دئموکراسی
+- دموکراسی
+- ديمقراطية
+- ديموقراطيه
+- دیموکراسی
+- دېموكراتىيە
+- كرعيتن
+- لوک راج
+- ولسواکي
+- ޑިމޮކްރަސީ
+- ߓߍ߯ߦߊ
+- प्रजातंत्र
+- मक्कळाट्चि
+- लोकतंत्र
+- लोकतन्त्र
+- लोकतन्त्रम्
+- लोकशाही
+- গণতন্ত্র
+- গণতন্ত্ৰ
+- ਲੋਕਤੰਤਰ
+- લોકશાહી
+- ଗଣତନ୍ତ୍ର
+- மக்களாட்சி
+- ప్రజాస్వామ్యం
+- ಪ್ರಜಾಪ್ರಭುತ್ವ
+- ജനാധിപത്യം
+- ප්රජාතන්ත්රවාදය
+- ประชาธิปไตย
+- ລະບອບປະຊາທິປະໄຕ
+- མང་གཙོ (mang gtso)
+- ဍီမိုဝ်ခ်ုရေစီ
+- တီႇမူဝ်ႇၶရေႇသီႇ
+- ဒီမိုကရေစီ
+- ဒီမိုကရေသီ
+- ဒဳမဝ်ကရေသဳ
+- დემოკრატია
+- ዲሞክራሲ
+- ዴሞክራሲ
+- ប្រជាធិបតេយ្យ
+- ⵜⴰⴷⵉⵎⵓⵇⵕⴰⵟⵉⵜ
+- 民主
+- 民主主義
+- 民主制
+- 민주주의
 has_id_wikidata: Q7174
 Basisklassifikation: 89.35
 Colon_Classification: W6
 Commons_category: Democracy
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-  - '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 GitHub_topic: democracy
 has_characteristic: '[[_Standards/WikiData/WD~type_of_democracy,7112606]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~direct_democracy,171174]]'
-  - '[[_Standards/WikiData/WD~representative_democracy,188759]]'
-  - '[[_Standards/WikiData/WD~ethnic_democracy,3705343]]'
-  - '[[_Standards/WikiData/WD~electoral_body,5290079]]'
-  - '[[_Standards/WikiData/WD~president,30461]]'
+- '[[_Standards/WikiData/WD~direct_democracy,171174]]'
+- '[[_Standards/WikiData/WD~representative_democracy,188759]]'
+- '[[_Standards/WikiData/WD~ethnic_democracy,3705343]]'
+- '[[_Standards/WikiData/WD~electoral_body,5290079]]'
+- '[[_Standards/WikiData/WD~president,30461]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_democracy,587404]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Election%20MG%203455.JPG
 instance_of:
-  - '[[_Standards/WikiData/WD~form_of_state,183039]]'
-  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 IPTC_NewsCode: mediatopic/20000654
 MeSH_tree_code: I01.696.374
 OmegaWiki_Defined_Meaning: 871
@@ -36,21 +182,262 @@ opposite_of: '[[_Standards/WikiData/WD~autocracy,173424]]'
 part_of: "[[_Standards/WikiData/WD~Plato's_five_regimes,7202412]]"
 PhilPapers_topic: democracy
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/EL-%CE%B4%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Demokratie2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/EL-%CE%B4%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Demokratie2.ogg
 subclass_of: '[[_Standards/WikiData/WD~political_system,28108]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Democracy_sidebar,6820948]]'
 UMLS_CUI: C0011283
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 uses:
-  - '[[_Standards/WikiData/WD~voting,189760]]'
-  - '[[_Standards/WikiData/WD~political_participation,2101513]]'
+- '[[_Standards/WikiData/WD~voting,189760]]'
+- '[[_Standards/WikiData/WD~political_participation,2101513]]'
 U_S_National_Archives_Identifier: 10638055
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Demokratie%20in%20Athen%20%28CC%20BY%204.0%29.webm
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_democracy,25112605]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/democracy
+dv_has_:
+  name_:
+    af: demokrasie
+    am: ዴሞክራሲ
+    an: Democracia
+    anp: प्रजातंत्र
+    ar: ديمقراطية
+    ary: ديمقراطية
+    arz: ديموقراطيه
+    as: গণতন্ত্ৰ
+    ast: Democracia
+    av: Демократия
+    az: Demokratiya
+    azb: دئموکراسی
+    ba: Демократия
+    bar: Demokratie
+    bcl: Demokrasya
+    be: дэмакратыя
+    be-tarask: дэмакратыя
+    bg: Демокрация
+    bho: लोकतंत्र
+    blk: ဒီမိုကရေသီ
+    bn: গণতন্ত্র
+    bo: མང་གཙོ (mang gtso)
+    bpy: গণতন্ত্র
+    br: demokratelezh
+    bs: demokratija
+    btm: Demokrasi
+    bxr: Арадшалал
+    ca: democràcia
+    cbk-zam: Democracia
+    cdo: Mìng-ciō
+    ce: Демократи
+    ceb: Demokrasya
+    ckb: دیموکراسی
+    crh: demokratiya
+    cs: demokracie
+    cu: димократїꙗ
+    cv: Демократи
+    cy: democratiaeth
+    da: demokrati
+    de: Demokratie
+    din: Agɛmkɔckedhiɛ
+    diq: Demokrasiye
+    dv: ޑިމޮކްރަސީ
+    el: δημοκρατία
+    en: democracy
+    en-ca: Democracy
+    en-gb: democracy
+    eo: demokratio
+    es: democracia
+    et: demokraatia
+    eu: demokrazia
+    fa: دموکراسی
+    fi: demokratia
+    fo: Fólkaræði
+    fr: démocratie
+    frr: Demokratii
+    fy: demokrasy
+    ga: daonlathas
+    gcr: Démokrasi
+    gd: Deamocrasaidh
+    gl: democracia
+    gn: Jekopytyjoja
+    gpe: Democracy
+    grc: δημοκρατία
+    gsw: Demokratie
+    gu: લોકશાહી
+    guw: Democracy
+    gv: deynlaght
+    ha: Dimokaradiyya
+    hak: Mìn-tsú Tsú-ngi
+    he: דמוקרטיה
+    hi: लोकतंत्र
+    hif: Prajatantr
+    hr: demokracija
+    hsb: demokratija
+    ht: Demokrasi
+    hu: demokrácia
+    hy: Ժողովրդավարություն
+    hyw: Ժողովրդավարութիւն
+    ia: democratia
+    iba: Demokrasi
+    id: demokrasi
+    ie: democratie
+    ilo: demokrasia
+    io: demokratio
+    is: lýðræði
+    it: democrazia
+    ja: 民主主義
+    jam: Dimakrasi
+    jbo: roltrusi'o
+    jv: Démokrasi
+    ka: დემოკრატია
+    kaa: demokratiya
+    kbp: Temokraasii
+    kcg: Di̱mokrasi
+    kg: Dimokalasi
+    ki: Ndemookirathĩ
+    kjp: ဍီမိုဝ်ခ်ုရေစီ
+    kk: демократия
+    kl: Demokrati
+    km: ប្រជាធិបតេយ្យ
+    kn: ಪ್ರಜಾಪ್ರಭುತ್ವ
+    knc: Democracy
+    ko: 민주주의
+    krc: Демократия
+    krj: demokrasya
+    ksh: Demokratie
+    ku: demokrasî
+    ku-latn: demokrasî
+    kw: Gwerinieth
+    ky: демократия
+    la: democratia
+    lb: Demokratie
+    lez: Демократия
+    lfn: democratia
+    li: Democratie
+    lij: Democraçia
+    lmo: Democrazia
+    ln: Demokrasi
+    lo: ລະບອບປະຊາທິປະໄຕ
+    lt: demokratija
+    ltg: demokrateja
+    lv: demokrātija
+    lzh: 民主
+    mag: लोकतन्त्र
+    mai: लोकतन्त्र
+    mg: Demokrasia
+    mhr: демократий
+    mk: демократија
+    ml: ജനാധിപത്യം
+    mn: Ардчилал
+    mnw: ဒဳမဝ်ကရေသဳ
+    mr: लोकशाही
+    ms: kerakyatan
+    ms-arab: كرعيتن
+    mt: demokrazija
+    mwl: Democracie
+    my: ဒီမိုကရေစီ
+    mzn: دموکراسی
+    nah: Tlācatēpacholiztli
+    nan: Bîn-chú
+    nb: demokrati
+    nds: Demokratie
+    nds-nl: demokraty
+    ne: लोकतन्त्र
+    new: मक्कळाट्चि
+    nl: democratie
+    nn: folkestyre
+    nqo: ߓߍ߯ߦߊ
+    nr: Umbuso wentando yenengi
+    nso: Democracy
+    ny: Demokilase
+    oc: democracia
+    olo: Rahvahanvaldu
+    om: Dimookiraasii
+    or: ଗଣତନ୍ତ୍ର
+    os: демократи
+    pa: ਲੋਕਤੰਤਰ
+    pap: demokrasia
+    pdc: Demokratie
+    pfl: Dämogradie
+    pl: demokracja
+    pms: Democrassìa
+    pnb: لوک راج
+    ps: ولسواکي
+    pt: democracia
+    pt-br: Democracia
+    qu: Akllanakuspa kamachinakuy
+    rm: Democrazia
+    ro: democrație
+    ru: демократия
+    rue: Демокрація
+    sa: लोकतन्त्रम्
+    sah: Демократия
+    sc: Demograzia
+    scn: Dimucrazzìa
+    sco: Democracy
+    sd: جمھوريت
+    se: demokratiija
+    sgs: Demuokratėjė
+    sh: Demokracija
+    shn: တီႇမူဝ်ႇၶရေႇသီႇ
+    si: ප්රජාතන්ත්රවාදය
+    sje: demokratija
+    sk: demokracia
+    sl: demokracija
+    sma: demokratije
+    smj: demokratija
+    smn: demokratia
+    sms: demokratia
+    sn: Gutsaruzhinji
+    so: Dimoqraadi
+    sq: demokracia
+    sr: демократија
+    stq: Demokratie
+    su: Démokrasi
+    sv: demokrati
+    sw: demokrasia
+    szl: dymokracyjŏ
+    ta: மக்களாட்சி
+    te: ప్రజాస్వామ్యం
+    tg: Демократия
+    th: ประชาธิปไตย
+    ti: ዲሞክራሲ
+    tk: Demokratiýa
+    tl: demokrasya
+    tok: nasin lawa pi jan ale
+    tpi: democrasi
+    tr: demokrasi
+    ts: Demokhrasi
+    tt: демократия
+    tyv: Демократия
+    udm: демократия
+    ug: دېموكراتىيە
+    uk: демократія
+    ur: جمہوریت
+    uz: Demokratiya
+    vec: democrasìa
+    vep: Demokratii
+    vi: dân chủ
+    vro: Demokraatia
+    war: Demokrasya
+    wuu: 民主
+    xh: I-Democracy
+    xmf: დემოკრატია
+    yi: דעמאקראטיע
+    yo: Òṣèlúaráìlú
+    yue: 民主
+    za: Minzcuj
+    zgh: ⵜⴰⴷⵉⵎⵓⵇⵕⴰⵟⵉⵜ
+    zh: 民主制
+    zh-cn: 民主
+    zh-hans: 民主
+    zh-hant: 民主制
+    zh-hk: 民主
+    zh-mo: 民主
+    zh-my: 民主
+    zh-sg: 民主
+    zh-tw: 民主制
+    zu: Umbuso wabantu
 ---
-
 # [[Democracy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Democracy,7174|WD~Democracy,7174]] 

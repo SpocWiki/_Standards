@@ -1,15 +1,84 @@
 ---
 aliases:
+- Distribució de Pareto
+- Distribución de Pareto
+- distribuo de Pareto
+- Distributione de Pareto
+- distribuzione paretiana
+- loi de Pareto
+- Pareto banaketa
+- Pareto dağılımı
+- Pareto distribution
+- Pareto principas
+- Pareto-eloszlás
+- Pareto-fordeling
+- Pareto-jakauma
+- Pareto-verdeling
+- Pareto-Verteilung
+- Paretova porazdelitev
+- Paretova raspodela
+- Paretovo rozdělení
+- Rozkład Pareto
+- Shpërndarja Pareto
+- Κατανομή Παρέτο
+- разьмеркаваньне Парэта
+- Распределение Парето
+- Розподіл Парето
+- התפלגות פרטו
+- توزيع باريتو
+- توزیع پارتو
+- パレート分布
+- 帕累托分佈
+- 帕累托分布
+- 柏里圖分佈
+- 파레토 분포
 has_id_wikidata: Q837683
 subclass_of:
-  - "[[_Standards/WikiData/WD~exponential_family,1188504]]"
-  - "[[_Standards/WikiData/WD~heavy_tailed_distribution,1472677]]"
-  - "[[_Standards/WikiData/WD~Generalized_Pareto_distribution,5532448]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-named_after: "[[_Standards/WikiData/WD~Vilfredo_Pareto,11031]]"
+- '[[_Standards/WikiData/WD~exponential_family,1188504]]'
+- '[[_Standards/WikiData/WD~heavy_tailed_distribution,1472677]]'
+- '[[_Standards/WikiData/WD~Generalized_Pareto_distribution,5532448]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Vilfredo_Pareto,11031]]'
 Commons_category: Pareto distribution
+dv_has_:
+  name_:
+    ar: توزيع باريتو
+    ast: Distribución de Pareto
+    be-tarask: разьмеркаваньне Парэта
+    ca: Distribució de Pareto
+    cs: Paretovo rozdělení
+    da: Pareto-fordeling
+    de: Pareto-Verteilung
+    el: Κατανομή Παρέτο
+    en: Pareto distribution
+    eo: distribuo de Pareto
+    es: distribución de Pareto
+    eu: Pareto banaketa
+    fa: توزیع پارتو
+    fi: Pareto-jakauma
+    fr: loi de Pareto
+    gl: Distribución de Pareto
+    he: התפלגות פרטו
+    hu: Pareto-eloszlás
+    it: distribuzione paretiana
+    ja: パレート分布
+    ko: 파레토 분포
+    lt: Pareto principas
+    nl: Pareto-verdeling
+    nov: Distributione de Pareto
+    pl: Rozkład Pareto
+    ru: Распределение Парето
+    sl: Paretova porazdelitev
+    sq: Shpërndarja Pareto
+    sr: Paretova raspodela
+    tr: Pareto dağılımı
+    uk: Розподіл Парето
+    yue: 柏里圖分佈
+    zh: 帕累托分布
+    zh-hans: 帕累托分布
+    zh-hant: 帕累托分布
+    zh-hk: 帕累托分佈
 ---
-
 # [[Pareto_Distribution]] 
 
 #has_/formula_/distribution :: $α x_min^α / x^(α + 1)$ = $\frac {\alpha x_{\mathrm {m} }^{\alpha }}{x^{\alpha +1}}$  for x > x_min and α > 0 

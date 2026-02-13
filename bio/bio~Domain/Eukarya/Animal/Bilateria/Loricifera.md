@@ -1,8 +1,89 @@
 ---
 aliases:
-  - Loricifera
+- Chʼosh doo yitʼíinii bikágí ntłʼizígíí
+- corsetdiertjes
+- Haarniskaiset
+- Kidudu-deraya
+- Kolczugowce
+- Korsetdiarten
+- korsettdjur
+- Korsettdyr
+- Korsetttierchen
+- korzetky
+- Loricifera
+- Loriciferi
+- Loricífer
+- Lorisiferlər
+- Mananap nga korset
+- Rüüloomad
+- Zırhlı solucanlar
+- лорицефери
+- лорицифера
+- лорициферы
+- לוריסיפרה
+- حاملات الدروع المصفحات
+- سینهبندداران
+- ลอริซิเฟอรา
+- 胴甲動物
+- 铠甲动物门
+- 동갑동물
 title: Loricifera
 has_id_wikidata: Q5183
+dv_has_:
+  name_:
+    ar: حاملات الدروع المصفحات
+    ast: Loricifera
+    az: Lorisiferlər
+    be: Loricifera
+    bg: лорицефери
+    bs: Loricifera
+    ca: Loricífer
+    ceb: Mananap nga korset
+    cs: korzetky
+    de: Korsetttierchen
+    en: Loricifera
+    eo: Loricifera
+    es: Loricifera
+    et: Rüüloomad
+    eu: Loricifera
+    fa: سینهبندداران
+    fi: Haarniskaiset
+    fr: Loricifera
+    frr: Korsetdiarten
+    ga: Loricifera
+    gl: Loricifera
+    he: לוריסיפרה
+    hr: Loricifera
+    hu: Loricifera
+    ia: Loricifera
+    id: Loricifera
+    it: Loricifera
+    ja: 胴甲動物
+    ko: 동갑동물
+    la: Loricifera
+    lv: Loriciferi
+    ms: Loricifera
+    mul: Loricifera
+    nb: Korsettdyr
+    nl: corsetdiertjes
+    nv: Chʼosh doo yitʼíinii bikágí ntłʼizígíí
+    oc: Loricifera
+    pl: Kolczugowce
+    pt: Loricifera
+    ro: Loricifera
+    ru: лорициферы
+    sq: Loricifera
+    sr: лорицифера
+    sv: korsettdjur
+    sw: Kidudu-deraya
+    th: ลอริซิเฟอรา
+    tl: Loricifera
+    tr: Zırhlı solucanlar
+    uk: Loricifera
+    vi: Loricifera
+    war: Loricifera
+    wuu: 铠甲动物门
+    zh: 铠甲动物门
 ---
 # [[Loricifera]] 
 

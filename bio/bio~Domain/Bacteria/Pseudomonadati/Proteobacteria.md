@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Pseudomonadota
-  - Proteobacteria
+- Proteobacteria
+- Pseudomonadota
+- Pseŭdomonadotoj
+- Ψευδομοναδωτά
+- زائفات
+- プロテオバクテリア
+- 假單胞菌門
 title: Proteobacteria
 has_id_wikidata: Q12962137
+dv_has_:
+  name_:
+    an: Pseudomonadota
+    ar: زائفات
+    ast: Pseudomonadota
+    bg: Pseudomonadota
+    ca: Pseudomonadota
+    ceb: Pseudomonadota
+    de: Pseudomonadota
+    el: Ψευδομοναδωτά
+    en: Pseudomonadota
+    en-ca: Pseudomonadota
+    en-gb: Pseudomonadota
+    eo: Pseŭdomonadotoj
+    es: Pseudomonadota
+    eu: Pseudomonadota
+    ext: Pseudomonadota
+    fi: Pseudomonadota
+    fr: Pseudomonadota
+    ga: Pseudomonadota
+    gl: Pseudomonadota
+    hu: Pseudomonadota
+    ia: Pseudomonadota
+    ie: Pseudomonadota
+    io: Pseudomonadota
+    it: Pseudomonadota
+    ja: プロテオバクテリア
+    la: Pseudomonadota
+    mul: Pseudomonadota
+    nl: Pseudomonadota
+    oc: Pseudomonadota
+    pl: Pseudomonadota
+    pt: Pseudomonadota
+    pt-br: Pseudomonadota
+    ro: Pseudomonadota
+    ru: Pseudomonadota
+    sl: Pseudomonadota
+    sq: Pseudomonadota
+    sr: Pseudomonadota
+    uk: Pseudomonadota
+    vi: Pseudomonadota
+    vo: Pseudomonadota
+    war: Pseudomonadota
+    zh: 假單胞菌門
 ---
 # [[Proteobacteria]] 
 

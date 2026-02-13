@@ -1,90 +1,543 @@
 ---
 aliases:
-  - sea-body-of-water
-  - sea_body_of_water
-  - SeaBodyOfWater
-  - is_a_sea_body_of_water
-  - Sea
+- amari
+- asi
+- b7ar
+- bad
+- bahari
+- baybay
+- bayu
+- baħar
+- bcilung
+- bhahari
+- biển
+- dagat
+- dayatmalat
+- dengiz
+- deniz
+- derya
+- det
+- deñiz
+- deňiz
+- dəniz
+- farraige
+- fu
+- géej
+- haij
+- hatun qucha
+- hav
+- huēyātl
+- hái
+- hāi
+- Ilel
+- is_a_sea_body_of_water
+- itsaso
+- jūra
+- kalunga
+- kyai a̱sa̱khwot
+- la xamsi
+- laman
+- lamara
+- lamè
+- lanmè
+- laot
+- lauik
+- laut
+- lawok
+- laôt
+- ljavek
+- lombú
+- mar
+- mare
+- mari
+- maro
+- mearoe
+- mearra
+- Meer
+- meerâ
+- mel
+- mer
+- meri
+- mers
+- Mier
+- miârr
+- mooir
+- mor
+- more
+- morje
+- morjo
+- morze
+- moře
+- muir
+- mâ
+- mâr
+- mèr
+- mé
+- mòrze
+- mórjo
+- môr
+- okwaan̄ ile
+- osimmiri
+- para
+- rahat
+- Ranomasina
+- riyar
+- sagara
+- samundar
+- Sea
+- sea-body-of-water
+- SeaBodyOfWater
+- sea_body_of_water
+- see
+- segara
+- sia
+- sjógvur
+- sjór
+- sǣ
+- tasik
+- tasè'
+- teeku
+- teku
+- telo suli
+- ten'iz
+- tenger
+- teŋgu
+- ulwandle
+- wasawasa
+- zee
+- zeê
+- zieë
+- zêe
+- ɛpo
+- θάλασσα
+- амшын
+- байҕал
+- баҳр
+- гьуьл
+- денджыз
+- деңиз
+- диңгез
+- диңгеҙ
+- зарезь
+- иневедсь
+- иневедь
+- мора
+- море
+- морѥ
+- ралъад
+- саридз
+- тангыж
+- тенгиз
+- теңіз
+- теҥыз
+- тинĕс
+- тэнгис
+- форд
+- хы
+- хьхьири
+- хӀорд
+- ծով
+- ים
+- بحر
+- بحیرہ
+- دریا
+- دریو
+- دنیز
+- دېڭىز
+- دەریا
+- سمندر
+- سمندرګی
+- سمنڊ
+- سَمَندَر
+- لاءوت
+- ܝܡܐ
+- ߟߌ߲ߓߊ߲
+- समुंद्र
+- समुद्र
+- समुन्द्र
+- सागर
+- সাগর
+- সাগৰ
+- ਸਮੁੰਦਰ
+- ସମୁଦ୍ର
+- கடல்
+- సముద్రం
+- ಕಡಲ್
+- ಸಮುದ್ರ
+- കടൽ
+- මුහුද
+- ทะเล
+- ທະເລ
+- རྒྱ་མཚོ
+- ပင်လယ်
+- ပင်ႏလယ်ႏ
+- ပၢင်ႇလၢႆႇ
+- ზუღა
+- ზღვა
+- ባህር
+- ᑕᕆᐅᖅ
+- សមុទ្រ
+- ᥙᥣᥒᥱ ᥘᥣᥭᥱ
+- ᨈᨔᨗ
+- ᱫᱚᱨᱭᱟ
+- 大海
+- 海
+- ꯏꯄꯥꯛ
+- 바다
 has_id_wikidata: Q165
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - sea_body_of_water
-layout: ""
+- sea_body_of_water
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sea_body_of_water Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_sea_body_of_water Class
 type: Type
 Commons_category: Seas
 Commons_gallery: Atlas of the Oceans
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
-  - 551.46
-  - 2--162
-different_from: "[[_Standards/WikiData/WD~Q61744472,61744472]]"
+- 551.46
+- 2--162
+different_from: '[[_Standards/WikiData/WD~Q61744472,61744472]]'
 equivalent_class: https://schema.org/SeaBodyOfWater
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000016
 GeoNames_feature_code: H.SEA
-has_list: "[[_Standards/WikiData/WD~list_of_seas,229088]]"
+has_list: '[[_Standards/WikiData/WD~list_of_seas,229088]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~land,11081619]]"
+- '[[_Standards/WikiData/WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~land,11081619]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20near%20Faroe%20Islands.jpg
 OmegaWiki_Defined_Meaning: 3333
-produced_sound: "[[_Standards/WikiData/WD~Q110068397,110068397]]"
+produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q35650%20%28ken%29-Akopoly-aja%28sea%29.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q35650%20%28ken%29-Akopoly-aja%28sea%29.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A8%AE%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0.wav
 subclass_of:
-  - "[[_Standards/WikiData/WD~water_area,2507626]]"
-  - "[[_Standards/WikiData/WD~marine_water_body,116126039]]"
-  - "[[_Standards/WikiData/WD~saline_water_body,116126228]]"
+- '[[_Standards/WikiData/WD~water_area,2507626]]'
+- '[[_Standards/WikiData/WD~marine_water_body,116126039]]'
+- '[[_Standards/WikiData/WD~saline_water_body,116126228]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_List_of_seas,6272770]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_sea,26095412]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Seas,61791277]]"
+- '[[_Standards/WikiData/WD~Template_List_of_seas,6272770]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_sea,26095412]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Seas,61791277]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Sea,165|WD~Sea,165]]"
-    - "[[/_Standards/Earth/Ocean/Sea|Sea]]"
-    - "[[/_public/Earth/Ocean/Sea.public|Sea.public]]"
-    - "[[/_internal/Earth/Ocean/Sea.internal|Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/Sea.protect|Sea.protect]]"
-    - "[[/_private/Earth/Ocean/Sea.private|Sea.private]]"
-    - "[[/_personal/Earth/Ocean/Sea.personal|Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/Sea.secret|Sea.secret]]"
+  - '[[../../WikiData/WD~Sea,165|WD~Sea,165]]'
+  - '[[/_Standards/Earth/Ocean/Sea|Sea]]'
+  - '[[/_public/Earth/Ocean/Sea.public|Sea.public]]'
+  - '[[/_internal/Earth/Ocean/Sea.internal|Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/Sea.protect|Sea.protect]]'
+  - '[[/_private/Earth/Ocean/Sea.private|Sea.private]]'
+  - '[[/_personal/Earth/Ocean/Sea.personal|Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/Sea.secret|Sea.secret]]'
 dv_has_:
-  parent_class: "[[../BodyOfWater]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    ab: амшын
+    ace: laôt
+    aeb-arab: بحر
+    aeb-latn: b7ar
+    af: see
+    am: ባህር
+    ami: riyar
+    an: mar
+    ang: sǣ
+    ann: okwaan̄ ile
+    ar: بحر
+    arc: ܝܡܐ
+    arz: بحر
+    as: সাগৰ
+    ast: mar
+    av: ралъад
+    awa: समुन्द्र
+    ay: lamara
+    az: dəniz
+    azb: دنیز
+    ba: диңгеҙ
+    ban: segara
+    bar: Meer
+    bbc: laut
+    bcl: dagat
+    be: мора
+    be-tarask: мора
+    bew: laot
+    bg: море
+    bho: समुंद्र
+    blk: ပင်ႏလယ်ႏ
+    bn: সাগর
+    bo: རྒྱ་མཚོ
+    br: mor
+    bs: more
+    bug: ᨈᨔᨗ
+    bxr: тэнгис
+    ca: mar
+    cdo: hāi
+    ce: хӀорд
+    ckb: دەریا
+    co: mare
+    crh: deñiz
+    crh-latn: deñiz
+    cs: moře
+    csb: mòrze
+    cu: морѥ
+    cv: тинĕс
+    cy: môr
+    da: hav
+    dag: teeku
+    de: Meer
+    diq: derya
+    dsb: mórjo
+    dtp: rahat
+    dty: सागर
+    ee: fu
+    el: θάλασσα
+    eml: mèr
+    en: sea
+    en-ca: sea
+    en-gb: sea
+    eo: maro
+    es: mar
+    es-419: mar
+    et: meri
+    eu: itsaso
+    ext: mari
+    fa: دریا
+    fi: meri
+    fj: wasawasa
+    fo: sjógvur
+    fr: mer
+    frp: mar
+    frr: sia
+    fur: mâr
+    fy: see
+    ga: farraige
+    gan: 海
+    gan-hans: 海
+    gan-hant: 海
+    gcr: lanmè
+    gd: muir
+    gl: mar
+    gn: para
+    grc: θάλασσα
+    gsw: Meer
+    gv: mooir
+    ha: teku
+    he: ים
+    hi: सागर
+    hif: samundar
+    hr: more
+    hsb: morjo
+    ht: lamè
+    hu: tenger
+    hy: ծով
+    hyw: ծով
+    ia: mar
+    iba: tasik
+    id: laut
+    ig: osimmiri
+    ilo: baybay
+    inh: форд
+    io: maro
+    is: sjór
+    it: mare
+    iu: ᑕᕆᐅᖅ
+    ja: 海
+    jbo: la xamsi
+    jv: segara
+    ka: ზღვა
+    kaa: ten'iz
+    kab: Ilel
+    kbd: хы
+    kbp: teŋgu
+    kcg: kyai a̱sa̱khwot
+    kg: kalunga
+    kge: lawok
+    kk: теңіз
+    km: សមុទ្រ
+    kn: ಸಮುದ್ರ
+    ko: 바다
+    krc: тенгиз
+    ks: سَمَندَر
+    ksh: meer
+    ku: derya
+    kv: саридз
+    kw: mor
+    ky: деңиз
+    la: mare
+    lad: mar
+    lb: Mier
+    lbe: хьхьири
+    lez: гьуьл
+    li: zieë
+    lij: mâ
+    lld: mer
+    lmo: mar
+    ln: lombú
+    lo: ທະເລ
+    lt: jūra
+    lv: jūra
+    lzh: 海
+    mad: tasè'
+    mai: समुन्द्र
+    map-bms: segara
+    mdf: иневедсь
+    mg: Ranomasina
+    mhr: теҥыз
+    min: lauik
+    mk: море
+    ml: കടൽ
+    mn: тэнгис
+    mni: ꯏꯄꯥꯛ
+    mr: समुद्र
+    mrj: тангыж
+    ms: laut
+    ms-arab: لاءوت
+    mt: baħar
+    mwl: mar
+    my: ပင်လယ်
+    myv: иневедь
+    mzn: دریو
+    nah: huēyātl
+    nan: hái
+    nap: mare
+    nb: hav
+    nds: Meer
+    nds-nl: zee
+    ne: समुद्र
+    new: समुद्र
+    nia: asi
+    nl: zee
+    nn: hav
+    nqo: ߟߌ߲ߓߊ߲
+    nrm: mé
+    oc: mar
+    or: ସମୁଦ୍ର
+    os: денджыз
+    pa: ਸਮੁੰਦਰ
+    pam: dayatmalat
+    pap: laman
+    pcd: mers
+    pl: morze
+    pms: mar
+    pnb: سمندر
+    pnt: θάλασσα
+    ps: سمندرګی
+    pt: mar
+    pt-br: mar
+    pwn: ljavek
+    qu: hatun qucha
+    rm: mar
+    rmy: derya
+    ro: mare
+    roa-tara: mare
+    ru: море
+    rue: море
+    rup: amari
+    sah: байҕал
+    sat: ᱫᱚᱨᱭᱟ
+    sc: mare
+    scn: mari
+    sco: sea
+    sd: سمنڊ
+    se: mearra
+    sgs: jūra
+    sh: more
+    shn: ပၢင်ႇလၢႆႇ
+    si: මුහුද
+    sk: more
+    skr: سمندر
+    sl: morje
+    sma: mearoe
+    smn: meerâ
+    sms: miârr
+    sn: bhahari
+    so: bad
+    sq: det
+    sr: море
+    sr-ec: море
+    sr-el: more
+    stq: See
+    su: sagara
+    sv: hav
+    sw: bahari
+    szl: morze
+    szy: bayu
+    ta: கடல்
+    tay: bcilung
+    tcy: ಕಡಲ್
+    tdd: ᥙᥣᥒᥱ ᥘᥣᥭᥱ
+    te: సముద్రం
+    tg: баҳр
+    th: ทะเล
+    tk: deňiz
+    tl: dagat
+    tok: telo suli
+    tr: deniz
+    tt: диңгез
+    tt-cyrl: диңгез
+    tw: ɛpo
+    udm: зарезь
+    ug: دېڭىز
+    uk: море
+    ur: بحیرہ
+    uz: dengiz
+    vec: mar
+    vep: meri
+    vi: biển
+    vls: zêe
+    vo: mel
+    vro: meri
+    wa: mer
+    war: dagat
+    wo: géej
+    wuu: 大海
+    xh: ulwandle
+    xmf: ზუღა
+    yi: ים
+    yue: 海
+    za: haij
+    zea: zeê
+    zh: 海
+    zh-cn: 海
+    zh-hans: 海
+    zh-hant: 海
+    zh-hk: 海
+    zh-mo: 海
+    zh-my: 海
+    zh-sg: 海
+    zh-tw: 海
+    zu: ulwandle
+  parent_class: '[[../BodyOfWater]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Sea,165|WD~Sea,165]]"
-  - "[[/_Standards/Earth/Ocean/Sea|Sea]]"
-  - "[[/_public/Earth/Ocean/Sea.public|Sea.public]]"
-  - "[[/_internal/Earth/Ocean/Sea.internal|Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/Sea.protect|Sea.protect]]"
-  - "[[/_private/Earth/Ocean/Sea.private|Sea.private]]"
-  - "[[/_personal/Earth/Ocean/Sea.personal|Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/Sea.secret|Sea.secret]]"
-dv_has_parent_class: "[[../BodyOfWater]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+- '[[../../WikiData/WD~Sea,165|WD~Sea,165]]'
+- '[[/_Standards/Earth/Ocean/Sea|Sea]]'
+- '[[/_public/Earth/Ocean/Sea.public|Sea.public]]'
+- '[[/_internal/Earth/Ocean/Sea.internal|Sea.internal]]'
+- '[[/_protect/Earth/Ocean/Sea.protect|Sea.protect]]'
+- '[[/_private/Earth/Ocean/Sea.private|Sea.private]]'
+- '[[/_personal/Earth/Ocean/Sea.personal|Sea.personal]]'
+- '[[/_secret/Earth/Ocean/Sea.secret|Sea.secret]]'
+dv_has_parent_class: '[[../BodyOfWater]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 ---
-
 # [[Sea]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sea,165|WD~Sea,165]] 

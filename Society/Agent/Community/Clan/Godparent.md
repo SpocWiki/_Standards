@@ -1,8 +1,155 @@
 ---
 has_id_wikidata: Q223973
+dv_has_:
+  name_:
+    af: peetouer
+    an: Padrino
+    ar: عراب
+    ast: padrín
+    bar: Ged
+    bcl: Ninong
+    be-tarask: хросны бацька
+    bg: Кръстник
+    br: Paeron
+    bs: pokrovitelj krštenja
+    ca: padrí
+    cs: kmotr
+    da: fadder
+    de: Pate
+    el: Πνευματικοί γονείς
+    en: godparent
+    en-us: godparent
+    eo: baptopatro aŭ baptopatrino
+    es: padrino o madrina
+    et: ristivanemad
+    eu: aitabitxi-amabitxi
+    fa: والدین تعمیدی
+    fi: kummi
+    fo: Gudforeldur
+    fr: parrain ou marraine
+    frr: faader
+    fy: Peetâlden
+    ga: cara Críost
+    gl: Padriño
+    gsw: Götti
+    he: סנדק
+    hr: Kumstvo
+    ht: Parenn (relijyon)
+    hu: keresztszülő
+    hy: կնքահայր
+    id: Wali baptis
+    it: padrino e madrina
+    ja: 代父母
+    jv: wong tuwa among
+    ka: ნათლია
+    ko: 대부모
+    la: compater/commater
+    lb: Pätter
+    lfn: jenitor de batiza
+    li: Peetnónk
+    lt: krikšto tėvas
+    ms: Orang tua baptis
+    nb: fadder
+    nl: peetouder
+    pl: rodzice chrzestni
+    pt: padrinho ou madrinha
+    pt-br: padrinho
+    qu: Achi tayta
+    ro: Naș
+    ru: крёстный родитель
+    rue: Нанашко
+    scn: Cummari
+    se: risváhnemat
+    sgs: Kūmas
+    sl: boter
+    sr: кум
+    sr-ec: кум
+    sr-el: kum
+    sv: fadder
+    sw: Msimamizi
+    tg: Волидайни таъмидӣ
+    tr: Vaftiz ebeveyni
+    uk: хрещені батьки
+    vec: sàntułi
+    vi: cha mẹ đỡ đầu
+    yi: סנדק
+    yue: 教父母
+    zh: 教父母
+    zh-cn: 教父母
+    zh-hans: 教父母
+    zh-hant: 教父母
+    zh-hk: 教父母
+    zh-sg: 教父母
+    zh-tw: 教父母
+aliases:
+- Achi tayta
+- aitabitxi-amabitxi
+- baptopatro aŭ baptopatrino
+- boter
+- cara Críost
+- cha mẹ đỡ đầu
+- compater/commater
+- Cummari
+- faader
+- fadder
+- Ged
+- godparent
+- Gudforeldur
+- Götti
+- jenitor de batiza
+- keresztszülő
+- kmotr
+- krikšto tėvas
+- kum
+- kummi
+- Kumstvo
+- Kūmas
+- Msimamizi
+- Naș
+- Ninong
+- Orang tua baptis
+- padrinho
+- padrinho ou madrinha
+- Padrino
+- padrino e madrina
+- padrino o madrina
+- Padriño
+- padrí
+- padrín
+- Paeron
+- Parenn (relijyon)
+- parrain ou marraine
+- Pate
+- Peetnónk
+- peetouder
+- peetouer
+- Peetâlden
+- pokrovitelj krštenja
+- Pätter
+- ristivanemad
+- risváhnemat
+- rodzice chrzestni
+- sàntułi
+- Vaftiz ebeveyni
+- Wali baptis
+- wong tuwa among
+- Πνευματικοί γονείς
+- Волидайни таъмидӣ
+- крёстный родитель
+- Кръстник
+- кум
+- Нанашко
+- хрещені батьки
+- хросны бацька
+- կնքահայր
+- סנדק
+- عراب
+- والدین تعمیدی
+- ნათლია
+- 代父母
+- 教父母
+- 대부모
 ---
-
-
 # [[Godparent]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Godparent,223973|WD~Godparent,223973]] 

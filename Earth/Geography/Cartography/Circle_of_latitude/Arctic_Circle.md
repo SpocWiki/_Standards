@@ -1,47 +1,140 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]"
-    - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]"
-    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]"
-    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]"
-    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]"
-    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]"
-    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]"
-    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]"
+  - '[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]'
+  - '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]'
+  - '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]'
+  - '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]'
+  - '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]'
+  - '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]'
+  - '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]'
+  - '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]"
-  - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]"
-  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]"
-  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]"
-  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]"
-  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]"
-  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]"
-  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]"
-
-location: [ 0.0 , 66.561611111 ] 
+- '[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]'
+- '[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]'
+- '[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]'
+- '[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]'
+- '[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]'
+- '[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]'
+- '[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]'
+- '[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]'
+location:
+- 0.0
+- 66.561611111
 aliases:
-  - Arctic_Circle
-  - Arctic Circle
+- An Ciorcal Artach
+- Arctic Circle
+- Arctic_Circle
+- Arkta Cirklo
+- Arktiese Sirkel
+- Arktika doirasi
+- Arktički krug
+- Arktïka beldewi
+- Bilog ng Artiko
+- Cearcall na h-Artaig
+- Ceke polaire artike
+- Cerc polar arctic
+- Cercle Arctique
+- Cercle artic
+- cercle polar àrtic
+- Circolo polare artico
+- Circulu pulari articu
+- Circulus Arcticus
+- Cryss yn Arctagh
+- Cylch yr Arctig
+- círculo polar ártico
+- círculu polar árticu
+- Den nordlege polarsirkelen
+- Faribolana arktika
+- Garisan Artik
+- Kelc'h Arktika
+- Kuzey Kutup Dairesi
+- Lingkar Arktik
+- Lingkehan Arktik
+- Mzingo aktiki
+- Nabajuun
+- Noardpoalsirkel
+- Noordpoolcirkel
+- Nordlige polarcirkel
+- nordlige polarsirkel
+- norra polcirkeln
+- Norðurheimskautsbaugurinn
+- nördlicher Polarkreis
+- Palibot Artiko
+- pohjoinen napapiiri
+- północne koło podbiegunowe
+- põhjapolaarjoon
+- Severni polarnik
+- severni tečajnik
+- severní polární kruh
+- Severný polárny kruh
+- Sirkulo ti Artiko
+- Sirkulong Arktiko
+- taavaapiälááš näpikiärdu
+- Tönyaq polär tügäräk
+- Vòng Bắc Cực
+- Ziemeļu polārais loks
+- Zirkulu Polar Artikoa
+- Çerxa cemserê
+- északi sarkkör
+- Şimal Qütb dairəsi
+- Šiaurės poliaratis
+- Αρκτικός Κύκλος
+- Арктика белдеуі
+- Арктички круг
+- Північне полярне коло
+- Паўночны палярны круг
+- Северен Поларник
+- Северен полярен кръг
+- Северни поларник
+- Северный полярный круг
+- төньяҡ поляр түңәрәк
+- Уйпал полярной котрет
+- Умард туйлын цагираг
+- Уюл тегереги
+- Хотугу полюс эргимтэтэ
+- Հյուսիսային բևեռային շրջան
+- החוג הארקטי
+- اركتىيكا بەلدەۋى
+- الدائرة القطبية الشمالية
+- بازنەی جەمسەری باکوور
+- د شمالي قطبي دایره
+- دائرہ قطب شمالی
+- مدار شمالگان
+- आर्कटिक रेखा
+- आर्क्टिक वर्तुळ
+- সুমেরু বৃত্ত
+- ஆர்க்டிக் வட்டம்
+- ఆర్కిటిక్ వలయం
+- ಆರ್ಕ್ಟಿಕ್ ವೃತ್ತ
+- ആർട്ടിക് വൃത്തം
+- ආක්ටික් කවය
+- วงกลมอาร์กติก
+- ဝင်းရိုးစွန်းစက်ဝိုင်း
+- არქტიკული წრე
+- 北极圈
+- 北極圈
+- 北極圏
+- 북극권
 has_id_wikidata: Q176609
 instance_of:
-  - '[[_Standards/WikiData/WD~region,82794]]'
-  - '[[_Standards/WikiData/WD~polar_circle,202490]]'
+- '[[_Standards/WikiData/WD~region,82794]]'
+- '[[_Standards/WikiData/WD~polar_circle,202490]]'
 opposite_of: '[[_Standards/WikiData/WD~Antarctic_Circle,182657]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~Norway,20]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Finland,33]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Iceland,189]]'
-  - '[[_Standards/WikiData/WD~Greenland,223]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~Greenland,223]]'
 continent:
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
-  - '[[_Standards/WikiData/WD~North_America,49]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~North_America,49]]'
 OmegaWiki_Defined_Meaning: 920536
 length: 15984.36
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/-xAAAgFfzeA-960.jpg
@@ -51,8 +144,123 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Polar%20circle%20monum
 Commons_category: Arctic Circle
 subreddit: arcticcircle
 coordinate_location: Point(0.0 66.561611111)
+dv_has_:
+  name_:
+    af: Arktiese Sirkel
+    ar: الدائرة القطبية الشمالية
+    ast: círculu polar árticu
+    az: Şimal Qütb dairəsi
+    ba: төньяҡ поляр түңәрәк
+    ban: Lingkehan Arktik
+    bcl: Sirkulong Arktiko
+    be: Паўночны палярны круг
+    be-tarask: Паўночны палярны круг
+    bg: Северен полярен кръг
+    bjn: Lingkar Arktik
+    bn: সুমেরু বৃত্ত
+    br: Kelc'h Arktika
+    bs: Arktički krug
+    ca: cercle polar àrtic
+    ckb: بازنەی جەمسەری باکوور
+    cs: severní polární kruh
+    cy: Cylch yr Arctig
+    da: Nordlige polarcirkel
+    de: nördlicher Polarkreis
+    el: Αρκτικός Κύκλος
+    en: Arctic Circle
+    en-us: Arctic Circle
+    eo: Arkta Cirklo
+    es: círculo polar ártico
+    et: põhjapolaarjoon
+    eu: Zirkulu Polar Artikoa
+    fa: مدار شمالگان
+    fi: pohjoinen napapiiri
+    fr: Cercle Arctique
+    fy: Noardpoalsirkel
+    ga: An Ciorcal Artach
+    gd: Cearcall na h-Artaig
+    gl: Círculo Polar Ártico
+    gv: Cryss yn Arctagh
+    he: החוג הארקטי
+    hi: आर्कटिक रेखा
+    hr: Arktički krug
+    hu: északi sarkkör
+    hy: Հյուսիսային բևեռային շրջան
+    id: Lingkar Arktik
+    ilo: Sirkulo ti Artiko
+    is: Norðurheimskautsbaugurinn
+    it: Circolo polare artico
+    ja: 北極圏
+    ka: არქტიკული წრე
+    kk: Арктика белдеуі
+    kk-arab: اركتىيكا بەلدەۋى
+    kk-cn: اركتىيكا بەلدەۋى
+    kk-cyrl: Арктика белдеуі
+    kk-kz: Арктика белдеуі
+    kk-latn: Arktïka beldewi
+    kk-tr: Arktïka beldewi
+    kn: ಆರ್ಕ್ಟಿಕ್ ವೃತ್ತ
+    ko: 북극권
+    ku: Çerxa cemserê
+    ky: Уюл тегереги
+    la: Circulus Arcticus
+    lt: Šiaurės poliaratis
+    lv: Ziemeļu polārais loks
+    mg: Faribolana arktika
+    mk: Северен Поларник
+    ml: ആർട്ടിക് വൃത്തം
+    mn: Умард туйлын цагираг
+    mr: आर्क्टिक वर्तुळ
+    ms: Garisan Artik
+    my: ဝင်းရိုးစွန်းစက်ဝိုင်း
+    nb: nordlige polarsirkel
+    nl: Noordpoolcirkel
+    nn: Den nordlege polarsirkelen
+    oc: Cercle artic
+    pl: północne koło podbiegunowe
+    pnb: دائرہ قطب شمالی
+    ps: د شمالي قطبي دایره
+    pt: Círculo Polar Ártico
+    ro: Cerc polar arctic
+    ru: Северный полярный круг
+    sah: Хотугу полюс эргимтэтэ
+    scn: Circulu pulari articu
+    sh: Arktički krug
+    si: ආක්ටික් කවය
+    sk: Severný polárny kruh
+    sl: severni tečajnik
+    smn: taavaapiälááš näpikiärdu
+    sr: Арктички круг
+    sr-ec: Северни поларник
+    sr-el: Severni polarnik
+    sv: norra polcirkeln
+    sw: Mzingo aktiki
+    ta: ஆர்க்டிக் வட்டம்
+    te: ఆర్కిటిక్ వలయం
+    th: วงกลมอาร์กติก
+    tl: Bilog ng Artiko
+    tr: Kuzey Kutup Dairesi
+    tt: Tönyaq polär tügäräk
+    udm: Уйпал полярной котрет
+    uk: Північне полярне коло
+    ur: دائرہ قطب شمالی
+    uz: Arktika doirasi
+    vi: Vòng Bắc Cực
+    vro: Nabajuun
+    wa: Ceke polaire artike
+    war: Palibot Artiko
+    wuu: 北極圈
+    yue: 北極圈
+    zh: 北極圈
+    zh-cn: 北极圈
+    zh-hans: 北极圈
+    zh-hant: 北極圈
+    zh-hk: 北極圈
+    zh-mo: 北極圈
+    zh-my: 北极圈
+    zh-sg: 北极圈
+    zh-tw: 北極圈
 ---
-
 # [[Arctic_Circle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]] 

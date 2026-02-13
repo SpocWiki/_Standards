@@ -1,63 +1,159 @@
 ---
 aliases:
+- Basung (astronomiya)
+- Boğa
+- Hamp'atup Simin
+- Hiade
+- Hiades
+- Hiadoj
+- Hiady
+- Hiadės (astronomija)
+- Hijade (zvezdani klaster)
+- Hyadane
+- Hyadele
+- Hyaden
+- Hyadene
+- Hyaderna
+- Hyaderne
+- Hyades
+- Hyades (gugus bintang)
+- Hyadit
+- Hyády
+- Híades
+- Hüaadid
+- Iadi
+- Matakaheru
+- Mel 25
+- Υάδες
+- Гіади
+- Гіяды
+- Гиадалар тупланышы
+- Гиадаос (кизили люкаськем)
+- Гиады
+- Хијади
+- היאדות
+- القلائص
+- قلائص (خوشه ستارهای)
+- ہائیڈیز
+- ہائیڈیز (ستارا جھرمٹ)
+- ഹയാദെസ് നക്ഷത്രവ്യൂഹം
+- กระจุกดาวสามเหลี่ยมหน้าวัว
+- Ὑάδες
+- ヒアデス星団
+- 毕宿星团
+- 畢宿星團
+- 히아데스 성단
 has_id_wikidata: Q13511
-different_from: "[[_Standards/WikiData/WD~star_cluster,168845]]"
+different_from: '[[_Standards/WikiData/WD~star_cluster,168845]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-named_after: "[[_Standards/WikiData/WD~Hyades,646049]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+named_after: '[[_Standards/WikiData/WD~Hyades,646049]]'
 declination_component_of_proper_motion:
-  - -28.49
-  - -4.26
-constellation: "[[_Standards/WikiData/WD~Taurus,10570]]"
-instance_of: "[[_Standards/WikiData/WD~open_cluster,11387]]"
+- -28.49
+- -4.26
+constellation: '[[_Standards/WikiData/WD~Taurus,10570]]'
+instance_of: '[[_Standards/WikiData/WD~open_cluster,11387]]'
 apparent_magnitude: 0.5
 metallicity: 0.13
 distance_from_Earth: 150
 right_ascension_component_of_proper_motion:
-  - 1.43
-  - 101.005
+- 1.43
+- 101.005
 radial_velocity:
-  - 39.4
-  - 39.96
+- 39.4
+- 39.96
 parallax: 21.052
 right_ascension: 66.725
 Commons_gallery: Hyades
 catalog_code:
-  - Hyades
-  - C 0424+157
-  - Cl Collinder 50
-  - Cl Melotte 25
-  - Hyades Cluster
-  - OCl 456.0
+- Hyades
+- C 0424+157
+- Cl Collinder 50
+- Cl Melotte 25
+- Hyades Cluster
+- OCl 456.0
 Commons_category: Hyades
 declination: 15.866667
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyades.jpg
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Hyades,13511]]"
-    - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]"
-    - "[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]"
-    - "[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]"
-    - "[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]"
-    - "[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]"
+  - '[[../../../WikiData/WD~Hyades,13511]]'
+  - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]'
+  - '[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]'
+  - '[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]'
+  - '[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]'
+  - '[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Hyades,13511]]"
-  - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]"
-  - "[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]"
-  - "[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]"
-  - "[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]"
-  - "[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]"
+- '[[../../../WikiData/WD~Hyades,13511]]'
+- '[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]'
+- '[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]'
+- '[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]'
+- '[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]'
+- '[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]'
+- '[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]'
+- '[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]'
+dv_has_:
+  name_:
+    af: Hiades
+    ar: القلائص
+    be: Гіяды
+    be-tarask: Гіяды
+    ca: Híades
+    cs: Hyády
+    da: Hyaderne
+    de: Hyaden
+    el: Υάδες
+    en: Hyades
+    eo: Hiadoj
+    es: Híades
+    et: Hüaadid
+    fa: قلائص (خوشه ستارهای)
+    fi: Hyadit
+    gl: Híades
+    grc: Ὑάδες
+    he: היאדות
+    hu: Mel 25
+    id: Hyades (gugus bintang)
+    it: Iadi
+    ja: ヒアデス星団
+    ko: 히아데스 성단
+    lb: Hyaden
+    lt: Hiadės (astronomija)
+    mi: Matakaheru
+    mk: Хијади
+    ml: ഹയാദെസ് നക്ഷത്രവ്യൂഹം
+    mul: Hyades
+    nb: Hyadene
+    nl: Hyaden
+    nn: Hyadane
+    pl: Hiady
+    pnb: ہائیڈیز (ستارا جھرمٹ)
+    pt: Híades
+    qu: Hamp'atup Simin
+    ro: Hyadele
+    ru: Гиады
+    sk: Hyády
+    sl: Hiade
+    sr: Hijade (zvezdani klaster)
+    sv: Hyaderna
+    th: กระจุกดาวสามเหลี่ยมหน้าวัว
+    tl: Basung (astronomiya)
+    tr: Boğa
+    tt: Гиадалар тупланышы
+    udm: Гиадаос (кизили люкаськем)
+    uk: Гіади
+    ur: ہائیڈیز
+    wuu: 毕宿星团
+    yue: 畢宿星團
+    zh: 畢宿星團
 ---
-
 # [[Hyades]] 
 
 #is_/same_as :: [[WD~Hyades,13511]] 

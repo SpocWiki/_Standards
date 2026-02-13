@@ -1,33 +1,160 @@
 ---
 aliases:
-  - Monogamie
-  - Monogamy
+- monagamas
+- monogaam
+- monogaamia
+- monogami
+- monogamia
+- Monogamie
+- monogamiija
+- Monogamija
+- monogamio
+- Monogamiya
+- Monogamy
+- Monogamya
+- Monogamïya, bir nekelik
+- monogàmia
+- monogámia
+- monoqamiya
+- Một vợ một chồng
+- yksiavioisuus
+- μονογαμία
+- манагамія
+- моногамія
+- Моногамија
+- моногамия
+- Моногамия, бір некелік
+- Մոնոգամիա
+- מונוגמיה
+- تکهمسری
+- زواج أحادي
+- مونوگامىييا، ٴبىر نەكەلىك
+- یک زوجیت
+- एकविवाह
+- একগামিতা
+- ਇੱਕ ਵਿਆਹ
+- ஒருதுணை மணம்
+- การมีคู่สมรสคนเดียว
+- တစ်လင်တစ်မယားစနစ်
+- მონოგამია
+- 一夫一妻制
+- 一夫一婦制
+- 单偶制
+- 单配偶制
+- 單配偶制
+- 단혼
 has_id_wikidata: Q184211
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_norm,205665]]"
-  - "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
+- '[[_Standards/WikiData/WD~social_norm,205665]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~agreement,321839]]"
-  - "[[_Standards/WikiData/WD~mating_system,4584563]]"
-does_not_have_characteristic: "[[_Standards/WikiData/WD~extramarital_sex,629129]]"
-has_characteristic: "[[_Standards/WikiData/WD~sexual_partner,1611410]]"
+- '[[_Standards/WikiData/WD~agreement,321839]]'
+- '[[_Standards/WikiData/WD~mating_system,4584563]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~extramarital_sex,629129]]'
+has_characteristic: '[[_Standards/WikiData/WD~sexual_partner,1611410]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Azerbaijani_Soviet_Encyclopedia,2634919]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-opposite_of: "[[_Standards/WikiData/WD~non_monogamy,3436958]]"
+- '[[_Standards/WikiData/WD~Azerbaijani_Soviet_Encyclopedia,2634919]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+opposite_of: '[[_Standards/WikiData/WD~non_monogamy,3436958]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Monogamous_pairing_in_animals,6901585]]"
-  - "[[_Standards/WikiData/WD~monoromantic,124473248]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~monoamory,124461433]]"
+- '[[_Standards/WikiData/WD~Monogamous_pairing_in_animals,6901585]]'
+- '[[_Standards/WikiData/WD~monoromantic,124473248]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~monoamory,124461433]]'
 number_of_participants: 2
 Commons_category: Monogamy
-OmegaWiki_Defined_Meaning: "1267519"
+OmegaWiki_Defined_Meaning: 1267519
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20marriage%20at%20Plac%20Kaszubski.jpg
 subreddit: monogamy
+dv_has_:
+  name_:
+    af: monogaam
+    ar: زواج أحادي
+    ast: Monogamia
+    az: monoqamiya
+    ba: Моногамия
+    bcl: Monogamy
+    be: манагамія
+    be-tarask: манагамія
+    bg: Моногамия
+    bn: একগামিতা
+    ca: monogàmia
+    cs: monogamie
+    da: Monogami
+    de: Monogamie
+    el: μονογαμία
+    en: monogamy
+    eo: monogamio
+    es: monogamia
+    et: monogaamia
+    eu: Monogamia
+    fa: تکهمسری
+    fi: yksiavioisuus
+    fr: monogamie
+    fy: Monogamy
+    ga: monagamas
+    gl: Monogamia
+    he: מונוגמיה
+    hr: Monogamija
+    hu: monogámia
+    hy: Մոնոգամիա
+    id: Monogami
+    it: monogamia
+    ja: 一夫一婦制
+    ka: მონოგამია
+    kk: Моногамия, бір некелік
+    kk-arab: مونوگامىييا، ٴبىر نەكەلىك
+    kk-cn: مونوگامىييا، ٴبىر نەكەلىك
+    kk-cyrl: Моногамия, бір некелік
+    kk-kz: Моногамия, бір некелік
+    kk-latn: Monogamïya, bir nekelik
+    kk-tr: Monogamïya, bir nekelik
+    ko: 단혼
+    ky: Моногамия
+    la: Monogamia
+    lt: monogamija
+    mk: Моногамија
+    mr: एकविवाह
+    ms: Monogami
+    my: တစ်လင်တစ်မယားစနစ်
+    nb: monogami
+    nl: monogamie
+    nn: monogami
+    pa: ਇੱਕ ਵਿਆਹ
+    pl: monogamia
+    pnb: یک زوجیت
+    pt: monogamia
+    ro: monogamie
+    ru: моногамия
+    se: monogamiija
+    sh: Monogamija
+    sk: Monogamia
+    sl: monogamija
+    smn: monogamia
+    sms: monogamia
+    sr: моногамија
+    sr-ec: Моногамија
+    sr-el: Monogamija
+    sv: monogami
+    ta: ஒருதுணை மணம்
+    th: การมีคู่สมรสคนเดียว
+    tr: Monogami
+    uk: моногамія
+    ur: یک زوجیت
+    uz: Monogamiya
+    vi: Một vợ một chồng
+    war: Monogamya
+    wuu: 单配偶制
+    yue: 單配偶制
+    zh: 單配偶制
+    zh-cn: 单偶制
+    zh-hans: 一夫一妻制
+    zh-hant: 一夫一妻制
+    zh-hk: 一夫一妻制
+    zh-sg: 单配偶制
+    zh-tw: 一夫一妻制
 ---
-
 # [[Monogamy]] 
 
 #is_/same_as :: [[WD~Monogamy,184211]] 

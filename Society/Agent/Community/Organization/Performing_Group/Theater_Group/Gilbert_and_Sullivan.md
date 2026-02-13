@@ -1,25 +1,97 @@
 ---
 aliases:
-  - Gilbert and Sullivan
-  - Gilbert_and_Sullivan
+- Gilbert a Sullivan
+- Gilbert and Sullivan
+- Gilbert dan Sullivan
+- Gilbert e Sullivan
+- Gilbert en Sullivan
+- Gilbert et Sullivan
+- Gilbert i Salivan
+- Gilbert i Sullivan
+- Gilbert ja Sullivan
+- Gilbert ngan Sullivan
+- Gilbert och Sullivan
+- Gilbert og Sullivan
+- Gilbert und Sullivan
+- Gilbert ve Sullivan
+- Gilbert và Sullivan
+- Gilbert y Sullivan
+- Gilbert_and_Sullivan
+- Гілбэрт і Саліван
+- Гилберт и Салливан
+- Ґілберт і Салліван
+- Գիլբերտ և Սալիվան
+- גילברט וסאליבן
+- جيلبرت وسوليفان
+- گیلبرت و سالیوان
+- गिल्बर्ट व सलिभन
+- ਗਿਲਬਰਟ ਅਤੇ ਸੁਲੀਵਾਨ
+- ဂီးလဗတ်နှင့် ဆာလီဗန်
+- ギルバート・アンド・サリヴァン
+- 吉尔伯特与萨利文
+- 吉尔伯特搭萨利文
+- 吉爾伯特與薩利文
+- 길버트와 설리번
 has_id_wikidata: Q1146602
 student: '[[_Standards/WikiData/WD~Paul_Potts,165418]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Arthur_Sullivan,212692]]'
-  - '[[_Standards/WikiData/WD~W._S._Gilbert,348513]]'
+- '[[_Standards/WikiData/WD~Arthur_Sullivan,212692]]'
+- '[[_Standards/WikiData/WD~W._S._Gilbert,348513]]'
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~Richard_D'Oyly_Carte,953440]]"
 genre:
-  - '[[_Standards/WikiData/WD~Savoy_opera,2260479]]'
-  - '[[_Standards/WikiData/WD~comic_opera,13220650]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~Savoy_opera,2260479]]'
+- '[[_Standards/WikiData/WD~comic_opera,13220650]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~duo,10648343]]'
-  - '[[_Standards/WikiData/WD~collective_pseudonym,16017119]]'
-  - '[[_Standards/WikiData/WD~songwriting_team,54982412]]'
+- '[[_Standards/WikiData/WD~duo,10648343]]'
+- '[[_Standards/WikiData/WD~collective_pseudonym,16017119]]'
+- '[[_Standards/WikiData/WD~songwriting_team,54982412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20%26%20Sullivan.jpg
 Commons_category: Gilbert and Sullivan
+dv_has_:
+  name_:
+    ar: جيلبرت وسوليفان
+    ast: Gilbert y Sullivan
+    be-tarask: Гілбэрт і Саліван
+    ca: Gilbert i Sullivan
+    cs: Gilbert a Sullivan
+    da: Gilbert og Sullivan
+    de: Gilbert und Sullivan
+    en: Gilbert and Sullivan
+    es: Gilbert y Sullivan
+    eu: Gilbert and Sullivan
+    fa: گیلبرت و سالیوان
+    fi: Gilbert ja Sullivan
+    fr: Gilbert et Sullivan
+    gl: Gilbert e Sullivan
+    he: גילברט וסאליבן
+    hy: Գիլբերտ և Սալիվան
+    id: Gilbert dan Sullivan
+    it: Gilbert e Sullivan
+    ja: ギルバート・アンド・サリヴァン
+    ko: 길버트와 설리번
+    mg: Gilbert and Sullivan
+    my: ဂီးလဗတ်နှင့် ဆာလီဗန်
+    nb: Gilbert og Sullivan
+    new: गिल्बर्ट व सलिभन
+    nl: Gilbert en Sullivan
+    nn: Gilbert og Sullivan
+    pa: ਗਿਲਬਰਟ ਅਤੇ ਸੁਲੀਵਾਨ
+    pl: Gilbert i Sullivan
+    pt: Gilbert e Sullivan
+    ru: Гилберт и Салливан
+    sr: Gilbert i Salivan
+    sv: Gilbert och Sullivan
+    tr: Gilbert ve Sullivan
+    uk: Ґілберт і Салліван
+    vi: Gilbert và Sullivan
+    war: Gilbert ngan Sullivan
+    wuu: 吉尔伯特搭萨利文
+    zh: 吉爾伯特與薩利文
+    zh-hans: 吉尔伯特与萨利文
+    zh-hant: 吉爾伯特與薩利文
+    zh-hk: 吉爾伯特與薩利文
 ---
-
 # [[Gilbert_and_Sullivan]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gilbert_and_Sullivan,1146602|WD~Gilbert_and_Sullivan,1146602]] 

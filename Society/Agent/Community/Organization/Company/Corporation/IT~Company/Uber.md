@@ -1,8 +1,59 @@
 ---
 has_id_wikidata: Q780442
+dv_has_:
+  name_:
+    ar: أوبر
+    azb: اوبر
+    bg: Юбер
+    bho: उबेर
+    bn: উবার
+    en: Uber
+    fa: اوبر
+    he: אובר
+    hi: उबर
+    hy: Uber Technologies, Inc.
+    kn: ಉಬರ್ ಕಂಪನಿ
+    ko: 우버
+    mai: उबेर
+    mk: Убер
+    ml: യൂബർ
+    mul: Uber
+    ne: उबेर
+    sd: اُوبَر
+    so: Uber- Tagsika
+    ta: உபர்
+    te: ఉబర్
+    th: อูเบอร์
+    ug: يۇبېر
+    ur: اوبر
+    vec: Uber Technology
+    wuu: 优步
+    yue: 優步
+    zh: 优步
+aliases:
+- Uber
+- Uber Technologies, Inc.
+- Uber Technology
+- Uber- Tagsika
+- Убер
+- Юбер
+- אובר
+- أوبر
+- اوبر
+- اُوبَر
+- يۇبېر
+- उबर
+- उबेर
+- উবার
+- உபர்
+- ఉబర్
+- ಉಬರ್ ಕಂಪನಿ
+- യൂബർ
+- อูเบอร์
+- 优步
+- 優步
+- 우버
 ---
-
-
 # [[Uber]] 
 
 #is_/same_as :: [[WD~Uber,]]

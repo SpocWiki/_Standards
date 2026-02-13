@@ -1,8 +1,131 @@
 ---
 aliases:
-  - Astacidea
+- Apanqura
+- Astacidea
+- Astacideos
+- Astacideu
+- Chʼoshtsoh bíláshgaantsohí
+- Großkrebse
+- kreeften
+- Krewe
+- Krift'n
+- Langhalekreps
+- pitkäpyrstöiset ravut
+- Raci mari
+- vēži
+- Xərçənglər
+- Αστακιδεία
+- Раки
+- استاسيديا
+- خارچنگیان
+- ပုစွန်တုပ်
+- ᏥᏍᏛᎾ
+- ザリガニ下目
+- 螯虾下目
+- 螯蝦下目
+- 가재하목
 title: Astacidea
 has_id_wikidata: Q929163
+dv_has_:
+  name_:
+    af: Krewe
+    an: Astacidea
+    arz: استاسيديا
+    ast: Astacidea
+    az: Xərçənglər
+    bar: Astacidea
+    bg: Astacidea
+    br: Astacidea
+    ca: Astacideu
+    ceb: Astacidea
+    chr: ᏥᏍᏛᎾ
+    co: Astacidea
+    cs: Astacidea
+    cy: Astacidea
+    da: Astacidea
+    de: Großkrebse
+    de-at: Astacidea
+    de-ch: Astacidea
+    el: Αστακιδεία
+    en: Astacidea
+    en-ca: Astacidea
+    en-gb: Astacidea
+    eo: Astacidea
+    es: Astacidea
+    et: Astacidea
+    eu: Astacidea
+    ext: Astacidea
+    fa: خارچنگیان
+    fi: pitkäpyrstöiset ravut
+    fr: Astacidea
+    frp: Astacidea
+    fur: Astacidea
+    ga: Astacidea
+    gd: Astacidea
+    gl: Astacideos
+    gsw: Astacidea
+    hr: Astacidea
+    hu: Astacidea
+    hy: Astacidea
+    ia: Astacidea
+    id: Astacidea
+    ie: Astacidea
+    io: Astacidea
+    is: Astacidea
+    it: Astacidea
+    ja: ザリガニ下目
+    kg: Astacidea
+    ko: 가재하목
+    la: Astacidea
+    lb: Astacidea
+    li: Astacidea
+    lij: Astacidea
+    lv: vēži
+    mg: Astacidea
+    min: Astacidea
+    ms: Astacidea
+    mul: Astacidea
+    my: ပုစွန်တုပ်
+    nap: Astacidea
+    nb: Langhalekreps
+    nds: Astacidea
+    nds-nl: Astacidea
+    nl: kreeften
+    nn: Langhalekreps
+    nrm: Astacidea
+    nv: Chʼoshtsoh bíláshgaantsohí
+    nys: Astacidea
+    oc: Astacidea
+    pcd: Astacidea
+    pl: Astacidea
+    pms: Astacidea
+    pt: Astacidea
+    pt-br: Astacidea
+    qu: Apanqura
+    rm: Astacidea
+    ro: Raci mari
+    ru: Astacidea
+    sc: Astacidea
+    scn: Astacidea
+    sco: Astacidea
+    sk: Astacidea
+    sl: Astacidea
+    sq: Astacidea
+    sv: Astacidea
+    sw: Astacidea
+    uk: Раки
+    vec: Astacidea
+    vi: Astacidea
+    vls: Krift'n
+    vo: Astacidea
+    wa: Astacidea
+    war: Astacidea
+    wo: Astacidea
+    zh: 螯虾下目
+    zh-cn: 螯蝦下目
+    zh-hans: 螯虾下目
+    zh-tw: 螯蝦下目
+    zu: Astacidea
 ---
 # [[Astacidea]]
 

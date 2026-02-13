@@ -1,43 +1,210 @@
 ---
 aliases:
-  - Honiara
+- Honiala
+- Honiar
+- Honiara
+- Honiara (ulohang dakbayan)
+- Honiaro
+- Honíara
+- Hóiniára
+- i-Honiara
+- Onyara
+- Xoniara
+- Ονιάρα
+- Ханіяра
+- Хоніара
+- Хонијара
+- Хониара
+- Հոնիարա
+- הוניארה
+- هونيارا
+- هونیارا
+- ہونیارا
+- होनिअरा
+- होनियारा
+- হোনিয়ারা
+- ਹੋਨੀਆਰਾ
+- હોનિયારા
+- ஓனியாரா
+- హోనియారా
+- ಹೊನಿಯರ
+- ഹോണിയറ
+- හොනියාරා
+- โฮนีอารา
+- ཧོ་ཉི་ཡ་ར།
+- ჰონიარა
+- ሆኒያራ
+- Ḥoniara
+- ホニアラ
+- 康尼艾華
+- 荷尼阿拉
+- 霍尼亚拉
+- 霍尼亞拉
+- 호니아라
 has_id_wikidata: Q40921
 confidential: public
 isDeleted: false
 location:
-  - -9.43
-  - 159.96
+- -9.43
+- 159.96
 mapmarker: city
 SpocWebEntityId: 36744
 tags:
-  - geo/City
+- geo/City
 type: City
-dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 159.8167
 dv_has_place_latitude: -9.466666
 dv_has_name: Honiara
-dv_has_place_country: "[[../_0-New/Solomon~Islands]]"
+dv_has_place_country: '[[../_0-New/Solomon~Islands]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]"
-    - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]'
+  - '[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]"
-  - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]"
+- '[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]'
+- '[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]'
+- '[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]'
+dv_has_:
+  name_:
+    af: Honiara
+    am: ሆኒያራ
+    ar: هونيارا
+    ary: هونيارا
+    arz: هونيارا
+    ast: Ḥoniara
+    az: Honiara
+    ban: Honiara
+    be: Ханіяра
+    be-tarask: Ханіяра
+    bg: Хониара
+    bn: হোনিয়ারা
+    bo: ཧོ་ཉི་ཡ་ར།
+    br: Honiara
+    bs: Honiara
+    ca: Honiara
+    cdo: Honiara
+    ceb: Honiara (ulohang dakbayan)
+    cs: Honiara
+    cy: Honiara
+    da: Honiara
+    de: Honiara
+    el: Ονιάρα
+    en: Honiara
+    eo: Honiaro
+    es: Honiara
+    et: Honiara
+    eu: Honiara
+    fa: هونیارا
+    fi: Honiara
+    fj: Honiara
+    fr: Honiara
+    frr: Honiara
+    fy: Honiara
+    ga: Hóiniára
+    gd: Honiara
+    gl: Honiara
+    gn: Honiara
+    gu: હોનિયારા
+    hak: Honiara
+    he: הוניארה
+    hi: होनिअरा
+    hif: Honiara
+    hr: Honiara
+    ht: Onyara
+    hu: Honiara
+    hy: Հոնիարա
+    hyw: Հոնիարա
+    ia: Honiara
+    id: Honiara
+    io: Honiara
+    is: Honíara
+    it: Honiara
+    ja: ホニアラ
+    ka: ჰონიარა
+    kk: Хониара
+    kn: ಹೊನಿಯರ
+    ko: 호니아라
+    la: Honiara
+    lb: Honiara
+    lij: Honiara
+    lmo: Honiara
+    lt: Honiara
+    lv: Honiara
+    mg: Honiara
+    min: Honiara
+    mk: Хонијара
+    ml: ഹോണിയറ
+    mr: होनियारा
+    ms: Honiara
+    mt: Honiara
+    na: Honiara
+    nah: Honiara
+    nan: Honiara
+    nb: Honiara
+    nl: Honiara
+    nn: Honiara
+    ny: Honiara
+    oc: Honiara
+    pa: ਹੋਨੀਆਰਾ
+    pap: Honiara
+    pl: Honiara
+    pms: Honiara
+    ps: هونیارا
+    pt: Honiara
+    ro: Honiara
+    ru: Хониара
+    sah: Хониара
+    sc: Honiara
+    sco: Honiara
+    sd: هونيارا
+    sh: Honiara
+    si: හොනියාරා
+    sk: Honiara
+    sl: Honiara
+    sn: Honiara
+    so: Honiara
+    sr: Хонијара
+    sr-ec: Хонијара
+    sv: Honiara
+    sw: Honiara
+    szl: Honiara
+    ta: ஓனியாரா
+    te: హోనియారా
+    tg: Хониара
+    th: โฮนีอารา
+    tl: Honiara
+    to: Honiala
+    tr: Honiara
+    tt: Хониара
+    ty: Honiara
+    uk: Хоніара
+    ur: ہونیارا
+    uz: Xoniara
+    vep: Honiar
+    vi: Honiara
+    vo: Honiara
+    war: Honiara
+    wuu: 霍尼亞拉
+    xmf: ჰონიარა
+    yo: Honiara
+    yue: 康尼艾華
+    zh: 霍尼亚拉
+    zh-hans: 霍尼亚拉
+    zh-hant: 荷尼阿拉
+    zu: i-Honiara
 ---
-
 # [[Honiara]] 
 
 

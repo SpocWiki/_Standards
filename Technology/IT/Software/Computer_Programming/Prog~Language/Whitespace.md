@@ -1,8 +1,68 @@
 ---
 has_id_wikidata: Q591615
+dv_has_:
+  name_:
+    ar: محرف فراغ
+    be-tarask: сымбаль пропусту
+    ca: espai blanc
+    cs: bílý znak
+    de: Leerraum
+    en: whitespace
+    eo: blankspaca signo
+    es: espacio en blanco
+    fa: نویسه فاصله خالی
+    fi: tulostumaton merkki
+    fr: espace blanc
+    gl: espazo en branco
+    he: תו מרווח
+    hu: white space
+    it: spazio bianco
+    ja: 空白文字
+    ko: 공백 문자
+    mk: пробелен симбол
+    ms: aksara ruang putih
+    nb: blanktegn
+    nl: whitespace
+    pl: znaki niedrukowalne
+    ru: пробельный символ
+    sl: prazni znak
+    tr: Beyaz boşluk karakteri
+    vi: khoảng trắng
+    yue: 空格
+    zh: 空白字元
+    zh-cn: 空白字符
+    zh-hans: 空白字符
+    zh-hant: 空白字元
+aliases:
+- aksara ruang putih
+- Beyaz boşluk karakteri
+- blankspaca signo
+- blanktegn
+- bílý znak
+- espace blanc
+- espacio en blanco
+- espai blanc
+- espazo en branco
+- khoảng trắng
+- Leerraum
+- prazni znak
+- spazio bianco
+- tulostumaton merkki
+- white space
+- whitespace
+- znaki niedrukowalne
+- пробелен симбол
+- пробельный символ
+- сымбаль пропусту
+- תו מרווח
+- محرف فراغ
+- نویسه فاصله خالی
+- 空格
+- 空白字元
+- 空白字符
+- 空白文字
+- 공백 문자
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > A **Whitespace** character is a character data element that represents white space when text is rendered for display by a computer.

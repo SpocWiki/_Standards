@@ -1,66 +1,97 @@
 ---
 aliases:
-  - Achille Claude Debussy
-  - Claude Debussy
-  - Debussy
-  - Debussy,Claude
+- Achille Claude Debussy
+- Claude Debussy
+- Claudius Debussy
+- Debussy
+- Debussy,Claude
+- Debyussi Klod Ashil
+- Klod Debyussi
+- Klod Debüssi
+- Klods Debisī
+- Κλοντ Ντεμπισί
+- Ашиль Клод Дебюсси
+- Дебюсси Клод Ашиль
+- Клёд Дэбюсі
+- Клод Дебиси
+- Клод Дебюси
+- Клод Дебюссі
+- Клод Дебюсси
+- Клод Дэбюсі
+- Клѡдъ Дєбѷсси
+- Կլոդ Դեբյուսի
+- קלוד דביסי
+- كلود ديبوسى
+- كلود ديبوسي
+- کلاؤ دیبوسی
+- کلود دبوسی
+- کلۆد دیبوسی
+- ਕਲਾਉਡ ਡੇਬਸੀ
+- ക്ലോഡ് ഡെബ്യുസി
+- โกลด เดอบูว์ซี
+- კლოდ დებიუსი
+- クロード・ドビュッシー
+- 克勞德·德布西
+- 德布西
+- 阿希尔-克洛德·德彪西
+- 클로드 드뷔시
 has_id_wikidata: Q4700
 movement:
-  - '[[_Standards/WikiData/WD~Symbolism,164800]]'
-  - '[[_Standards/WikiData/WD~expresionism_in_music,837182]]'
+- '[[_Standards/WikiData/WD~Symbolism,164800]]'
+- '[[_Standards/WikiData/WD~expresionism_in_music,837182]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Citizendium,187801]]'
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[_Standards/WikiData/WD~Citizendium,187801]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 place_of_death: '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Achille,340285]]'
-  - '[[_Standards/WikiData/WD~Claude,17523984]]'
+- '[[_Standards/WikiData/WD~Achille,340285]]'
+- '[[_Standards/WikiData/WD~Claude,17523984]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Pelléas_et_Mélisande,368019]]'
-  - '[[_Standards/WikiData/WD~Préludes,512715]]'
-  - "[[_Standards/WikiData/WD~Children's_Corner,847300]]"
-  - '[[_Standards/WikiData/WD~La_mer,1057812]]'
-  - '[[_Standards/WikiData/WD~Images,1132712]]'
-  - '[[_Standards/WikiData/WD~Deux_arabesques,1206599]]'
-  - '[[_Standards/WikiData/WD~String_Quartet,1346508]]'
-  - '[[_Standards/WikiData/WD~Suite_bergamasque,1367599]]'
-  - "[[_Standards/WikiData/WD~Prélude_à_l'après_midi_d'un_faune,1471875]]"
-  - '[[_Standards/WikiData/WD~Petite_Suite,1853293]]'
-  - '[[_Standards/WikiData/WD~Jeux,2381161]]'
-  - '[[_Standards/WikiData/WD~Syrinx,2533703]]'
-  - '[[_Standards/WikiData/WD~La_Damoiselle_élue,24938126]]'
+- '[[_Standards/WikiData/WD~Pelléas_et_Mélisande,368019]]'
+- '[[_Standards/WikiData/WD~Préludes,512715]]'
+- "[[_Standards/WikiData/WD~Children's_Corner,847300]]"
+- '[[_Standards/WikiData/WD~La_mer,1057812]]'
+- '[[_Standards/WikiData/WD~Images,1132712]]'
+- '[[_Standards/WikiData/WD~Deux_arabesques,1206599]]'
+- '[[_Standards/WikiData/WD~String_Quartet,1346508]]'
+- '[[_Standards/WikiData/WD~Suite_bergamasque,1367599]]'
+- "[[_Standards/WikiData/WD~Prélude_à_l'après_midi_d'un_faune,1471875]]"
+- '[[_Standards/WikiData/WD~Petite_Suite,1853293]]'
+- '[[_Standards/WikiData/WD~Jeux,2381161]]'
+- '[[_Standards/WikiData/WD~Syrinx,2533703]]'
+- '[[_Standards/WikiData/WD~La_Damoiselle_élue,24938126]]'
 educated_at: '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
 occupation:
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~music_critic,1350157]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~music_critic,1350157]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]'
-  - '[[_Standards/WikiData/WD~Albert_Lavignac,1934522]]'
+- '[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]'
+- '[[_Standards/WikiData/WD~Albert_Lavignac,1934522]]'
 place_of_burial: '[[_Standards/WikiData/WD~Passy_Cemetery,1092107]]'
 member_of: '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Music,1541450]]'
 student:
-  - '[[_Standards/WikiData/WD~María_Grever,1645018]]'
-  - '[[_Standards/WikiData/WD~Raoul_Bardac,15973497]]'
+- '[[_Standards/WikiData/WD~María_Grever,1645018]]'
+- '[[_Standards/WikiData/WD~Raoul_Bardac,15973497]]'
 list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Claude_Debussy,2020146]]'
 archives_at: '[[_Standards/WikiData/WD~Departmental_archives_of_Yvelines,2860507]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Emma_Bardac,3052442]]'
-  - '[[_Standards/WikiData/WD~Marie_Rosalie_Texier,64734036]]'
+- '[[_Standards/WikiData/WD~Emma_Bardac,3052442]]'
+- '[[_Standards/WikiData/WD~Marie_Rosalie_Texier,64734036]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child: '[[_Standards/WikiData/WD~Claude_Emma_Debussy,20643690]]'
@@ -70,9 +101,9 @@ place_of_birth: '[[_Standards/WikiData/WD~Saint_Germain_en_Laye,60847808]]'
 godparent: '[[_Standards/WikiData/WD~Achille_Arosa,67566385]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 genre:
-  - '[[_Standards/WikiData/WD~impressionist_music,105697765]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~impressionist_music,105697765]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 family_name: '[[_Standards/WikiData/WD~Debussy,105973989]]'
 father: '[[_Standards/WikiData/WD~Manuel_Debussy,110419772]]'
 sibling: '[[_Standards/WikiData/WD~Alfred_Debussy,110419807]]'
@@ -103,8 +134,150 @@ NLC_authorities: 000128004
 P8189: 987007260232705171
 Europeana_entity: agent/base/146790
 Google_Doodle: claude-debussys-151st-birthday
+dv_has_:
+  name_:
+    af: Claude Debussy
+    an: Claude Debussy
+    ar: كلود ديبوسي
+    arz: كلود ديبوسى
+    ast: Claude Debussy
+    ay: Claude Debussy
+    az: Klod Debüssi
+    ba: Клод Дебюсси
+    bar: Claude Debussy
+    be: Клод Дэбюсі
+    be-tarask: Клёд Дэбюсі
+    bg: Клод Дебюси
+    bm: Claude Debussy
+    br: Claude Debussy
+    bs: Claude Debussy
+    ca: Claude Debussy
+    cdo: Claude Debussy
+    ckb: کلۆد دیبوسی
+    co: Claude Debussy
+    cs: Claude Debussy
+    cu: Клѡдъ Дєбѷсси
+    cy: Claude Debussy
+    da: Claude Debussy
+    de: Claude Debussy
+    de-at: Claude Debussy
+    de-ch: Claude Debussy
+    diq: Claude Debussy
+    el: Κλοντ Ντεμπισί
+    en: Claude Debussy
+    en-ca: Claude Debussy
+    en-gb: Claude Debussy
+    eo: Claude Debussy
+    es: Claude Debussy
+    et: Claude Debussy
+    eu: Claude Debussy
+    ext: Claude Debussy
+    fa: کلود دبوسی
+    fi: Claude Debussy
+    fo: Claude Debussy
+    fr: Claude Debussy
+    frc: Claude Debussy
+    frp: Claude Debussy
+    fur: Claude Debussy
+    ga: Claude Debussy
+    gd: Claude Debussy
+    gl: Claude Debussy
+    gor: Claude Debussy
+    gsw: Claude Debussy
+    hak: Claude Debussy
+    he: קלוד דביסי
+    hr: Claude Debussy
+    hu: Claude Debussy
+    hy: Կլոդ Դեբյուսի
+    ia: Claude Debussy
+    id: Claude Debussy
+    ie: Claude Debussy
+    io: Claude Debussy
+    is: Claude Debussy
+    it: Claude Debussy
+    ja: クロード・ドビュッシー
+    jam: Claude Debussy
+    ka: კლოდ დებიუსი
+    kaa: Klod Debyussi
+    kab: Claude Debussy
+    kbp: Claude Debussy
+    kg: Claude Debussy
+    kk: Ашиль Клод Дебюсси
+    kl: Claude Debussy
+    ko: 클로드 드뷔시
+    ky: Дебюсси Клод Ашиль
+    la: Claudius Debussy
+    lb: Claude Debussy
+    li: Claude Debussy
+    lij: Claude Debussy
+    lmo: Claude Debussy
+    lt: Claude Debussy
+    lv: Klods Debisī
+    mg: Claude Debussy
+    min: Claude Debussy
+    mk: Клод Дебиси
+    ml: ക്ലോഡ് ഡെബ്യുസി
+    mn: Клод Дебюсси
+    ms: Claude Debussy
+    mul: Claude Debussy
+    mwl: Claude Debussy
+    mzn: کلود دبوسی
+    nan: Claude Debussy
+    nap: Claude Debussy
+    nb: Claude Debussy
+    nds: Claude Debussy
+    nds-nl: Claude Debussy
+    nl: Claude Debussy
+    nn: Claude Debussy
+    nrm: Claude Debussy
+    oc: Claude Debussy
+    olo: Claude Debussy
+    pa: ਕਲਾਉਡ ਡੇਬਸੀ
+    pam: Claude Debussy
+    pap: Claude Debussy
+    pcd: Claude Debussy
+    pl: Claude Debussy
+    pms: Claude Debussy
+    prg: Claude Debussy
+    pt: Claude Debussy
+    pt-br: Claude Debussy
+    qu: Claude Debussy
+    rgn: Claude Debussy
+    rm: Claude Debussy
+    ro: Claude Debussy
+    ru: Клод Дебюсси
+    sc: Claude Debussy
+    scn: Claude Debussy
+    sh: Claude Debussy
+    sk: Claude Debussy
+    sl: Claude Debussy
+    sq: Claude Debussy
+    sr: Клод Дебиси
+    sr-el: Claude Debussy
+    sv: Claude Debussy
+    sw: Claude Debussy
+    tg: Клод Дебюсси
+    th: โกลด เดอบูว์ซี
+    tl: Claude Debussy
+    tr: Claude Debussy
+    tt: Клод Дебюсси
+    uk: Клод Дебюссі
+    ur: کلاؤ دیبوسی
+    uz: Debyussi Klod Ashil
+    vec: Claude Debussy
+    vi: Claude Debussy
+    vls: Claude Debussy
+    vmf: Claude Debussy
+    vo: Claude Debussy
+    wa: Claude Debussy
+    war: Claude Debussy
+    wo: Claude Debussy
+    wuu: 阿希尔-克洛德·德彪西
+    yue: 德布西
+    zh: 阿希尔-克洛德·德彪西
+    zh-tw: 克勞德·德布西
+    zu: Claude Debussy
 ---
-
 # [[Debussy,Claude]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Claude_Debussy,4700|WD~Claude_Debussy,4700]] 

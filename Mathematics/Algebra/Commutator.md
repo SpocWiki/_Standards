@@ -1,8 +1,58 @@
 ---
 has_id_wikidata: Q2989763
+dv_has_:
+  name_:
+    ar: مبدل
+    ca: commutador
+    cs: Komutátor (algebra)
+    da: Kommutator (matematik)
+    de: Kommutator
+    en: commutator
+    eo: komutilo
+    es: conmutador
+    fa: جابهجاگر (ریاضیات)
+    fi: Kommutaattori (matematiikka)
+    fr: commutateur
+    he: קומוטטור
+    hu: kommutátor
+    it: commutatore
+    ja: 交換子
+    ko: 교환자
+    nl: commutator
+    pl: komutator
+    pt: comutador
+    pt-br: comutador
+    ro: comutator
+    ru: коммутатор
+    sl: komutator
+    uk: комутатор
+    vi: Giao hoán tử
+    yue: 交換子
+    zh: 交換子
+aliases:
+- commutador
+- commutateur
+- commutator
+- commutatore
+- comutador
+- comutator
+- conmutador
+- Giao hoán tử
+- Kommutaattori (matematiikka)
+- Kommutator
+- Kommutator (matematik)
+- kommutátor
+- komutator
+- komutilo
+- Komutátor (algebra)
+- коммутатор
+- комутатор
+- קומוטטור
+- جابهجاگر (ریاضیات)
+- مبدل
+- 交換子
+- 교환자
 ---
-
-
 # [[Commutator]] 
 
 

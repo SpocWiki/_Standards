@@ -1,77 +1,105 @@
 ---
 aliases:
-  - Robert_Schumann
-  - Robert Schumann
-  - Schumann
-  - Schumann,Robert
+- Robert Schumann
+- Robert Shumann
+- Robert Şuman
+- Roberts Šūmanis
+- Robertus Schumann
+- Robert_Schumann
+- Ruoberts Šumans
+- Schumann
+- Schumann,Robert
+- Shuman Robert Aleksander
+- Ρόμπερτ Σούμαν
+- Роберт Шуман
+- Робэрт Шуман
+- Шуман Роберт Александер
+- Шуманн, Роберт
+- Ռոբերտ Շուման
+- רוברט שומאן
+- روبرت شومان
+- روبيرت شومان
+- ڕۆبێرت شوومان
+- रॉबर्ट शुमान
+- रोबर्ट शुमन
+- ਰਾਬਰਟ ਸ਼ੂਮਨ
+- ராபர்ட் சூமான்
+- โรแบร์ท ชูมัน
+- ရှူးမန်း၊ ရောဗတ်
+- რობერტ შუმანი
+- ロベルト・シューマン
+- 罗伯特·舒曼
+- 羅伯特·舒曼
+- 舒曼
+- 로베르트 슈만
 has_id_wikidata: Q7351
 influenced_by: '[[_Standards/WikiData/WD~Niccolò_Paganini,66075]]'
 child:
-  - '[[_Standards/WikiData/WD~Felix_Schumann,77992]]'
-  - '[[_Standards/WikiData/WD~Eugenie_Schumann,1373249]]'
-  - '[[_Standards/WikiData/WD~Julie_Schumann,49772132]]'
-  - '[[_Standards/WikiData/WD~Marie_Schumann,90312364]]'
-  - '[[_Standards/WikiData/WD~Ferdinand_Schumann,94900851]]'
-  - '[[_Standards/WikiData/WD~Emil_Schumann,122625983]]'
-  - '[[_Standards/WikiData/WD~Ludwig_Schumann,125458952]]'
+- '[[_Standards/WikiData/WD~Felix_Schumann,77992]]'
+- '[[_Standards/WikiData/WD~Eugenie_Schumann,1373249]]'
+- '[[_Standards/WikiData/WD~Julie_Schumann,49772132]]'
+- '[[_Standards/WikiData/WD~Marie_Schumann,90312364]]'
+- '[[_Standards/WikiData/WD~Ferdinand_Schumann,94900851]]'
+- '[[_Standards/WikiData/WD~Emil_Schumann,122625983]]'
+- '[[_Standards/WikiData/WD~Ludwig_Schumann,125458952]]'
 father: '[[_Standards/WikiData/WD~August_Schumann,92090]]'
 medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755]]'
 spouse: '[[_Standards/WikiData/WD~Clara_Schumann,132232]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Saxony,153015]]'
 place_of_death: '[[_Standards/WikiData/WD~Endenich,153759]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~music_critic,1350157]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_educator,16145150]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~music_critic,1350157]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_educator,16145150]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 student:
-  - '[[_Standards/WikiData/WD~Carl_Reinecke,159569]]'
-  - '[[_Standards/WikiData/WD~Albert_Dietrich,565548]]'
+- '[[_Standards/WikiData/WD~Carl_Reinecke,159569]]'
+- '[[_Standards/WikiData/WD~Albert_Dietrich,565548]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Symphony_No._1,163594]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._2,210568]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._3,223540]]'
-  - '[[_Standards/WikiData/WD~Kinderszenen,1569982]]'
+- '[[_Standards/WikiData/WD~Symphony_No._1,163594]]'
+- '[[_Standards/WikiData/WD~Symphony_No._2,210568]]'
+- '[[_Standards/WikiData/WD~Symphony_No._3,223540]]'
+- '[[_Standards/WikiData/WD~Kinderszenen,1569982]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~chamber_music,189201]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
-  - '[[_Standards/WikiData/WD~symphony,9734]]'
+- '[[_Standards/WikiData/WD~chamber_music,189201]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~symphony,9734]]'
 employer: '[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]'
 place_of_burial: '[[_Standards/WikiData/WD~Alter_Friedhof_Bonn,318822]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Friedrich_Wieck,440809]]'
-  - '[[_Standards/WikiData/WD~Heinrich_Dorn,564953]]'
-  - '[[_Standards/WikiData/WD~Johann_Gottfried_Kuntsch,20003633]]'
+- '[[_Standards/WikiData/WD~Friedrich_Wieck,440809]]'
+- '[[_Standards/WikiData/WD~Heinrich_Dorn,564953]]'
+- '[[_Standards/WikiData/WD~Johann_Gottfried_Kuntsch,20003633]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Ernestine_von_Fricken,1356634]]'
 member_of: '[[_Standards/WikiData/WD~Leipzig_Fraternity_Germania,1815509]]'
 residence:
-  - '[[_Standards/WikiData/WD~Schumann_Haus,2251842]]'
-  - '[[_Standards/WikiData/WD~Leipzig,2079]]'
+- '[[_Standards/WikiData/WD~Schumann_Haus,2251842]]'
+- '[[_Standards/WikiData/WD~Leipzig,2079]]'
 list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Robert_Schumann,2372629]]'
 significant_event: '[[_Standards/WikiData/WD~attempted_suicide,3518184]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -83,8 +111,8 @@ copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_repre
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 mother: '[[_Standards/WikiData/WD~Christiane_Schumann,94777751]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Julius_Schumann,94898971]]'
-  - '[[_Standards/WikiData/WD~Karl_Schumann,94898989]]'
+- '[[_Standards/WikiData/WD~Julius_Schumann,94898971]]'
+- '[[_Standards/WikiData/WD~Karl_Schumann,94898989]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
 date_of_death: 1856-07-29T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Zwickau,3778]]'
@@ -112,8 +140,192 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20Robert
 ISNI: 0000000120955419
 Europeana_entity: agent/base/147000
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHUMAN_ROBERT_ALEKSANDR.html
+dv_has_:
+  name_:
+    aa: Robert Schumann
+    ace: Robert Schumann
+    af: Robert Schumann
+    an: Robert Schumann
+    ar: روبرت شومان
+    arz: روبيرت شومان
+    ast: Robert Schumann
+    atj: Robert Schumann
+    ay: Robert Schumann
+    az: Robert Şuman
+    azb: روبرت شومان
+    ba: Роберт Шуман
+    bar: Robert Schumann
+    be: Роберт Шуман
+    be-tarask: Робэрт Шуман
+    bg: Роберт Шуман
+    bi: Robert Schumann
+    br: Robert Schumann
+    bs: Robert Schumann
+    ca: Robert Schumann
+    ceb: Robert Schumann
+    ch: Robert Schumann
+    ckb: ڕۆبێرت شوومان
+    co: Robert Schumann
+    cs: Robert Schumann
+    cy: Robert Schumann
+    da: Robert Schumann
+    de: Robert Schumann
+    de-at: Robert Schumann
+    de-ch: Robert Schumann
+    diq: Robert Schumann
+    dsb: Robert Schumann
+    ee: Robert Schumann
+    egl: Robert Schumann
+    el: Ρόμπερτ Σούμαν
+    eml: Robert Schumann
+    en: Robert Schumann
+    en-ca: Robert Schumann
+    en-gb: Robert Schumann
+    eo: Robert Schumann
+    es: Robert Schumann
+    et: Robert Schumann
+    eu: Robert Schumann
+    ext: Robert Schumann
+    fa: روبرت شومان
+    ff: Robert Schumann
+    fi: Robert Schumann
+    fit: Robert Schumann
+    fj: Robert Schumann
+    fo: Robert Schumann
+    fr: Robert Schumann
+    frc: Robert Schumann
+    frp: Robert Schumann
+    frr: Robert Schumann
+    fur: Robert Schumann
+    fy: Robert Schumann
+    ga: Robert Schumann
+    gd: Robert Schumann
+    gl: Robert Schumann
+    gsw: Robert Schumann
+    gv: Robert Schumann
+    he: רוברט שומאן
+    hif: Robert Schumann
+    hr: Robert Schumann
+    hsb: Robert Schumann
+    ht: Robert Schumann
+    hu: Robert Schumann
+    hy: Ռոբերտ Շուման
+    ia: Robert Schumann
+    id: Robert Schumann
+    ie: Robert Schumann
+    ilo: Robert Schumann
+    io: Robert Schumann
+    is: Robert Schumann
+    it: Robert Schumann
+    ja: ロベルト・シューマン
+    jv: Robert Schumann
+    ka: რობერტ შუმანი
+    kab: Robert Schumann
+    kbp: Robert Schumann
+    kg: Robert Schumann
+    kk: Шуманн, Роберт
+    kl: Robert Schumann
+    ko: 로베르트 슈만
+    ksh: Robert Schumann
+    kw: Robert Schumann
+    ky: Шуман Роберт Александер
+    la: Robertus Schumann
+    lb: Robert Schumann
+    lfn: Robert Schumann
+    li: Robert Schumann
+    lij: Robert Schumann
+    lt: Robert Schumann
+    lv: Roberts Šūmanis
+    map-bms: Robert Schumann
+    mg: Robert Schumann
+    min: Robert Schumann
+    mk: Роберт Шуман
+    mn: Роберт Шуман
+    mr: रॉबर्ट शुमान
+    ms: Robert Schumann
+    mt: Robert Schumann
+    mul: Robert Schumann
+    mus: Robert Schumann
+    mwl: Robert Schumann
+    my: ရှူးမန်း၊ ရောဗတ်
+    nan: Robert Schumann
+    nap: Robert Schumann
+    nb: Robert Schumann
+    nds: Robert Schumann
+    nds-nl: Robert Schumann
+    new: रोबर्ट शुमन
+    nl: Robert Schumann
+    nn: Robert Schumann
+    nrm: Robert Schumann
+    oc: Robert Schumann
+    olo: Robert Schumann
+    pa: ਰਾਬਰਟ ਸ਼ੂਮਨ
+    pam: Robert Schumann
+    pap: Robert Schumann
+    pcd: Robert Schumann
+    pdc: Robert Schumann
+    pdt: Robert Schumann
+    pfl: Robert Schumann
+    pl: Robert Schumann
+    pms: Robert Schumann
+    pt: Robert Schumann
+    pt-br: Robert Schumann
+    qu: Robert Schumann
+    rm: Robert Schumann
+    rmy: Robert Schumann
+    ro: Robert Schumann
+    roa-tara: Robert Schumann
+    ru: Роберт Шуман
+    rup: Robert Schumann
+    sc: Robert Schumann
+    scn: Robert Schumann
+    sco: Robert Schumann
+    sdc: Robert Schumann
+    se: Robert Schumann
+    sei: Robert Schumann
+    sgs: Ruoberts Šumans
+    sh: Robert Schumann
+    sk: Robert Schumann
+    sl: Robert Schumann
+    sli: Robert Schumann
+    sq: Robert Shumann
+    sr: Роберт Шуман
+    sr-el: Robert Schumann
+    stq: Robert Schumann
+    su: Robert Schumann
+    sv: Robert Schumann
+    sw: Robert Schumann
+    szl: Robert Schumann
+    ta: ராபர்ட் சூமான்
+    th: โรแบร์ท ชูมัน
+    tl: Robert Schumann
+    tpi: Robert Schumann
+    tr: Robert Schumann
+    tt: Robert Şuman
+    ty: Robert Schumann
+    uk: Роберт Шуман
+    uz: Shuman Robert Aleksander
+    vec: Robert Schumann
+    vi: Robert Schumann
+    vls: Robert Schumann
+    vmf: Robert Schumann
+    vo: Robert Schumann
+    vro: Robert Schumann
+    wa: Robert Schumann
+    war: Robert Schumann
+    wo: Robert Schumann
+    wuu: 罗伯特·舒曼
+    xh: Robert Schumann
+    yo: Robert Schumann
+    yue: 舒曼
+    zea: Robert Schumann
+    zh: 罗伯特·舒曼
+    zh-cn: 罗伯特·舒曼
+    zh-hans: 罗伯特·舒曼
+    zh-hant: 羅伯特·舒曼
+    zh-tw: 羅伯特·舒曼
+    zu: Robert Schumann
 ---
-
 # [[Schumann,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Schumann,7351]] 

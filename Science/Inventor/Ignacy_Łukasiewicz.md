@@ -1,25 +1,43 @@
 ---
 aliases:
-  - Ignacy_Łukasiewicz
-  - Jan Józef Ignacy Łukasiewicz
-  - Ignacy Łukasiewicz
-  - Ignaz Lukasiewicz
-  - Łukasiewicz
+- Ignacijs Lukasevičs
+- Ignacy Łukasiewicz
+- Ignacy_Łukasiewicz
+- Ignaz Lukasiewicz
+- Jan Józef Ignacy Łukasiewicz
+- Łukasiewicz
+- Ιγκνάτσι Λουκασιέβιτς
+- Ігнатій Лукасевич
+- Ігнацы Лукасевіч
+- Игнаћи Лукасјевич
+- Игнаси Лукасиевич
+- Игнатий Лукасевич
+- Игнаци Лукашевич
+- Իգնացի Լուկասևիչ
+- איגנצי לוקשביץ'
+- إغناسي لوكاسيفيتش
+- اجناسى لوكاسيفيتش
+- ایگناسی لوکاسیویچ
+- इग्नेसी ल्युकसिविक्ज
+- อิกนาซี วูคาเซียวิช
+- イグナツィ・ウカシェヴィチ
+- 伊格納齊·武卡謝維奇
+- 이그나치 루카시에비치
 has_id_wikidata: Q28978
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~pharmacist,105186]]'
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~academic,3400985]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~pharmacist,105186]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~academic,3400985]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
 educated_at: '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~pharmacy,614304]]'
-  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~pharmacy,614304]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
 place_of_birth: '[[_Standards/WikiData/WD~Zaduszniki,_Podkarpackie_Voivodeship,670518]]'
 described_by_source: '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
 place_of_death: '[[_Standards/WikiData/WD~Chorkówka,2804753]]'
@@ -35,16 +53,78 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
 cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 date_of_birth:
-  - 1822-03-23T00:00:00Z
-  - 1822-03-08T00:00:00Z
+- 1822-03-23T00:00:00Z
+- 1822-03-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ignacy%20Lukasiewicz.jpg
 described_at_URL: https://wiki.ormianie.pl/index.php?title=Ignacy_%C5%81ukasiewicz
 ISNI: 0000000024635327
 Commons_gallery: Ignacy Łukasiewicz
 Commons_category: Ignacy Łukasiewicz
 name_in_native_language: Ignacy Łukasiewicz
+dv_has_:
+  name_:
+    af: Ignacy Łukasiewicz
+    an: Ignacy Łukasiewicz
+    ar: إغناسي لوكاسيفيتش
+    arz: اجناسى لوكاسيفيتش
+    ast: Ignacy Łukasiewicz
+    be: Ігнацы Лукасевіч
+    be-tarask: Ігнацы Лукасевіч
+    bg: Игнаци Лукашевич
+    bs: Ignacy Łukasiewicz
+    ca: Ignacy Łukasiewicz
+    cs: Ignacy Łukasiewicz
+    cy: Ignacy Łukasiewicz
+    da: Ignacy Łukasiewicz
+    de: Ignacy Łukasiewicz
+    el: Ιγκνάτσι Λουκασιέβιτς
+    en: Ignacy Łukasiewicz
+    en-ca: Ignacy Łukasiewicz
+    en-gb: Ignacy Łukasiewicz
+    eo: Ignacy Łukasiewicz
+    es: Ignacy Łukasiewicz
+    eu: Ignacy Łukasiewicz
+    ext: Ignacy Łukasiewicz
+    fa: ایگناسی لوکاسیویچ
+    fi: Ignacy Łukasiewicz
+    fr: Ignacy Łukasiewicz
+    ga: Ignacy Łukasiewicz
+    gl: Ignacy Łukasiewicz
+    he: איגנצי לוקשביץ'
+    hr: Ignacy Łukasiewicz
+    hu: Ignacy Łukasiewicz
+    hy: Իգնացի Լուկասևիչ
+    is: Ignacy Łukasiewicz
+    it: Ignacy Łukasiewicz
+    ja: イグナツィ・ウカシェヴィチ
+    ko: 이그나치 루카시에비치
+    lt: Ignacy Łukasiewicz
+    lv: Ignacijs Lukasevičs
+    mg: Ignacy Łukasiewicz
+    mk: Игнаси Лукасиевич
+    mul: Ignacy Łukasiewicz
+    nan: Ignacy Łukasiewicz
+    nb: Ignacy Łukasiewicz
+    new: इग्नेसी ल्युकसिविक्ज
+    nl: Ignacy Łukasiewicz
+    oc: Ignacy Łukasiewicz
+    pl: Ignacy Łukasiewicz
+    ro: Ignacy Łukasiewicz
+    ru: Игнатий Лукасевич
+    sa: इग्नेसी ल्युकसिविक्ज
+    sl: Ignacy Łukasiewicz
+    sq: Ignacy Łukasiewicz
+    sr: Игнаћи Лукасјевич
+    sr-ec: Игнаћи Лукасјевич
+    sv: Ignacy Łukasiewicz
+    th: อิกนาซี วูคาเซียวิช
+    tr: Ignacy Łukasiewicz
+    uk: Ігнатій Лукасевич
+    vi: Ignacy Łukasiewicz
+    war: Ignacy Łukasiewicz
+    yo: Ignacy Łukasiewicz
+    zh: 伊格納齊·武卡謝維奇
 ---
-
 # [[Ignacy_Łukasiewicz]] 
 
 #is_/same_as :: [[WD~Ignacy_Łukasiewicz,28978]] 

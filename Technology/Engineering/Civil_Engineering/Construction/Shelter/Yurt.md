@@ -1,41 +1,167 @@
 ---
 aliases:
-  - Yurt
-  - Jurte
+- Alaçıq
+- Iorta
+- iurta
+- iurtă
+- joert
+- jurt
+- jurta
+- Jurte
+- jurto
+- jurtta
+- Oʻtov
+- Qara úy
+- Rumah Yurt
+- tolda
+- yourte
+- Yurt
+- yurt çadırı
+- Yurta
+- Yurto
+- Γιούρτα
+- Јурта
+- Ак öý
+- Балаҕан
+- боз үй
+- Гэр
+- Киіз үй
+- Тирмә
+- юрта
+- Юрттă
+- Юртэ
+- Өг
+- Յուրդ
+- יורט
+- منزل اليورت
+- یورت
+- یورد (چادیر)
+- युर्ट
+- युर्त
+- யூர்ட்
+- เยิร์ต
+- იურტა
+- ᠮᠣᠩᡤᠣ ᠪᠣᠣ
+- ゲル
+- 蒙古包
+- 유르트
 has_id_wikidata: Q15680
 subclass_of:
-  - '[[_Standards/WikiData/WD~tent,170544]]'
-  - '[[_Standards/WikiData/WD~house,3947]]'
+- '[[_Standards/WikiData/WD~tent,170544]]'
+- '[[_Standards/WikiData/WD~house,3947]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~dwelling,699405]]'
-  - '[[_Standards/WikiData/WD~traditional_craft,37736399]]'
+- '[[_Standards/WikiData/WD~dwelling,699405]]'
+- '[[_Standards/WikiData/WD~traditional_craft,37736399]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~tyndyk,3508748]]'
-  - '[[_Standards/WikiData/WD~Kerege,12548931]]'
-  - '[[_Standards/WikiData/WD~Uyk,25525096]]'
+- '[[_Standards/WikiData/WD~tyndyk,3508748]]'
+- '[[_Standards/WikiData/WD~Kerege,12548931]]'
+- '[[_Standards/WikiData/WD~Uyk,25525096]]'
 intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 country:
-  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-  - '[[_Standards/WikiData/WD~Mongolia,711]]'
-  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 native_label: Yurt
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SK%20yurt%20camp%20%281%20of%201%29-8.jpg
 described_at_URL:
-  - https://ich.unesco.org/en/RL/00872
-  - https://ich.unesco.org/es/RL/00872
-  - https://ich.unesco.org/fr/RL/00872
+- https://ich.unesco.org/en/RL/00872
+- https://ich.unesco.org/es/RL/00872
+- https://ich.unesco.org/fr/RL/00872
 Commons_gallery: Yurt
 Commons_category: Yurts
+dv_has_:
+  name_:
+    af: joert
+    ar: منزل اليورت
+    ast: Yurta
+    awa: युर्ट
+    az: Alaçıq
+    azb: یورد (چادیر)
+    ba: Тирмә
+    be: Юрта
+    be-tarask: Юрта
+    bg: Юрта
+    bxr: Гэр
+    ca: iurta
+    cs: jurta
+    cv: Юрттă
+    da: Jurte
+    de: Jurte
+    el: Γιούρτα
+    en: yurt
+    en-ca: Yurt
+    en-gb: yurt
+    eo: jurto
+    es: yurta
+    et: Jurta
+    eu: Yurta
+    fa: یورت
+    fi: jurtta
+    fr: yourte
+    fy: joert
+    gl: Iurta
+    he: יורט
+    hi: युर्त
+    hr: Jurta
+    hu: jurta
+    hy: Յուրդ
+    id: Rumah Yurt
+    io: Yurto
+    it: iurta
+    ja: ゲル
+    jv: Yurt
+    ka: იურტა
+    kaa: Qara úy
+    kbd: Юртэ
+    kk: Киіз үй
+    ko: 유르트
+    ky: боз үй
+    la: Yurt
+    lt: jurta
+    lv: jurta
+    mk: Јурта
+    mn: Гэр
+    mnc: ᠮᠣᠩᡤᠣ ᠪᠣᠣ
+    ms: Yurt
+    nb: jurt
+    nl: joert
+    oc: Iorta
+    pl: jurta
+    pt: yurt
+    pt-br: Yurt
+    ro: iurtă
+    ru: юрта
+    sah: Балаҕан
+    sh: jurta
+    sk: Jurta
+    sl: Jurta
+    sq: Jurta
+    sr: Јурта
+    sv: Jurta
+    ta: யூர்ட்
+    th: เยิร์ต
+    tk: Ак öý
+    tl: tolda
+    tr: yurt çadırı
+    tt: тирмә
+    tyv: Өг
+    uk: Юрта
+    uz: Oʻtov
+    vi: Yurt
+    wuu: 蒙古包
+    yue: 蒙古包
+    zh: 蒙古包
+    zh-hans: 蒙古包
+    zh-hant: 蒙古包
 ---
-
 # [[Yurt]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Yurt,15680|WD~Yurt,15680]]  

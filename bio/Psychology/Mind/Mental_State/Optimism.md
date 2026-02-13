@@ -1,22 +1,69 @@
 ---
 aliases:
-  - Optimismus
-  - Optimism
+- baikortasun
+- Berpikir positif
+- iyimserlik
+- Lạc quan
+- Optimism
+- optimisma
+- optimisme
+- optimismi
+- optimismm
+- optimismo
+- optimisms
+- Optimismu
+- Optimismus
+- Optimizam
+- optimizem
+- Optimizm
+- Optimizmi
+- optimizmus
+- optymizm
+- Otimisme
+- otimismo
+- ottimismo
+- pozityvus mąstymas
+- αισιοδοξία
+- Аптымізм
+- Оптімізм
+- оптимізм
+- Оптимизам
+- оптимизм
+- оптимизъм
+- Хушбинӣ
+- Լավատեսություն
+- אופטימיות
+- تفاؤل
+- خوشبینی
+- رجائيت
+- رجائیت
+- گەشبینی
+- आशावाद
+- আশাবাদ
+- ਆਸ਼ਾਵਾਦ
+- நன்னம்பிக்கை
+- ಆಶಾವಾದ
+- สุทรรศนนิยม
+- ოპტიმიზმი
+- 乐观主义
+- 楽天主義
+- 樂觀主義
+- 낙천주의
 has_id_wikidata: Q485446
 opposite_of: '[[_Standards/WikiData/WD~pessimism,484954]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 different_from:
-  - '[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908]]'
-  - '[[_Standards/WikiData/WD~positive_mental_attitude,1969752]]'
+- '[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908]]'
+- '[[_Standards/WikiData/WD~positive_mental_attitude,1969752]]'
 part_of:
-  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-  - '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]'
-  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+- '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 instance_of: '[[_Standards/WikiData/WD~advanced_emotion,16748888]]'
 subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
 OmegaWiki_Defined_Meaning: 735225
@@ -27,8 +74,91 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BerlinWallMonumentWest
 Iconclass_notation: 32A31
 UMLS_CUI: C0237428
 MeSH_tree_code: F01.100.787
+dv_has_:
+  name_:
+    af: optimisme
+    ar: تفاؤل
+    ast: Optimismu
+    az: Optimizm
+    be: Аптымізм
+    be-tarask: аптымізм
+    bg: оптимизъм
+    bn: আশাবাদ
+    bs: Optimizam
+    ca: optimisme
+    ckb: گەشبینی
+    cs: optimismus
+    da: optimisme
+    de: Optimismus
+    dtp: Optimisme
+    el: αισιοδοξία
+    en: optimism
+    eo: optimismo
+    es: optimismo
+    et: optimism
+    eu: baikortasun
+    fa: خوشبینی
+    fi: optimismi
+    fr: optimisme
+    gl: Optimismo
+    he: אופטימיות
+    hi: आशावाद
+    hr: optimizam
+    hu: optimizmus
+    hy: Լավատեսություն
+    id: Berpikir positif
+    io: optimismo
+    it: ottimismo
+    ja: 楽天主義
+    ka: ოპტიმიზმი
+    kk: Оптимизм
+    kn: ಆಶಾವಾದ
+    ko: 낙천주의
+    la: Optimismus
+    lfn: Otimisme
+    lt: pozityvus mąstymas
+    lv: optimisms
+    mk: Оптимизам
+    ms: Optimisme
+    nb: optimisme
+    nl: optimisme
+    nn: Optimisme
+    pa: ਆਸ਼ਾਵਾਦ
+    pl: optymizm
+    pt: otimismo
+    ro: optimism
+    ru: оптимизм
+    rue: Оптімізм
+    sd: رجائيت
+    se: optimisma
+    sh: Optimizam
+    sk: optimizmus
+    sl: optimizem
+    smn: optimism
+    sms: optimismm
+    sq: Optimizmi
+    sr: оптимизам
+    sr-ec: оптимизам
+    sr-el: optimizam
+    sv: optimism
+    ta: நன்னம்பிக்கை
+    tg: Хушбинӣ
+    th: สุทรรศนนิยม
+    tl: Optimismo
+    tr: iyimserlik
+    uk: оптимізм
+    ur: رجائیت
+    uz: Optimizm
+    vi: Lạc quan
+    war: Optimismo
+    wuu: 乐观主义
+    xmf: ოპტიმიზმი
+    yue: 樂觀主義
+    zh: 樂觀主義
+    zh-hans: 乐观主义
+    zh-hant: 樂觀主義
+    zh-hk: 樂觀主義
 ---
-
 # [[Optimism]] 
 
 #has_/complement :: [[Pessimism]] 

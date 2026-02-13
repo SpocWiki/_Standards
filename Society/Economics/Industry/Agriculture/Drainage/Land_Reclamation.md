@@ -1,14 +1,54 @@
 ---
 aliases:
-  - Landgewinnung
-  - Land_Reclamation
-  - Land Reclamation
+- Aggeratio maritima
+- aterramento marítimo
+- Itsasoari irabazitako lur
+- khai hoang
+- Land Reclamation
+- landaanwinning
+- Landgewinnung
+- landgjenvinning
+- landvinding
+- Landwinning
+- Land_Reclamation
+- landåtervinning
+- Maaparandus
+- Melioracija
+- meliorasiya
+- Melïoracïya
+- refulacja
+- Reklamasi daratan
+- Tebus guna tanah
+- terfarado
+- terra sottratta al mare
+- terre-plein
+- terres guanyades al mar
+- tierras ganadas al mar
+- toprak ıslahı
+- Uudisraivaus
+- Îmbunătățiri funciare
+- Αναδασμός
+- мелиорација
+- мелиорация
+- Мэліярацыя
+- намивні території
+- намывные территории
+- утварэнне тэрыторыі
+- հողի մելիորացում
+- אחזור קרקע
+- آبادسازی سرزمین
+- استصلاح الأراضي البحرية
+- مەلىيوراتسىييا
+- भूमि उद्धार
+- 埋立
+- 填海
+- 간척지
 has_id_wikidata: Q1130322
 different_from: '[[_Standards/WikiData/WD~polder,106259]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of: '[[_Standards/WikiData/WD~land_development,6484056]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~reclaimed_land,28550993]]'
 subclass_of: '[[_Standards/WikiData/WD~technical_activity,119822504]]'
@@ -18,8 +58,68 @@ UNSPSC_Code: 70131703
 Commons_category: Land reclamation
 name_in_kana: うめたて
 OpenStreetMap_tag: reclaimed=yes
+dv_has_:
+  name_:
+    af: Landwinning
+    ar: استصلاح الأراضي البحرية
+    az: meliorasiya
+    be: утварэнне тэрыторыі
+    be-tarask: Мэліярацыя
+    ca: terres guanyades al mar
+    da: landvinding
+    de: Landgewinnung
+    el: Αναδασμός
+    en: land reclamation
+    en-ca: land reclamation
+    en-gb: land reclamation
+    eo: terfarado
+    es: tierras ganadas al mar
+    et: Maaparandus
+    eu: Itsasoari irabazitako lur
+    fa: آبادسازی سرزمین
+    fi: Uudisraivaus
+    fr: terre-plein
+    he: אחזור קרקע
+    hi: भूमि उद्धार
+    hr: Melioracija
+    hy: հողի մելիորացում
+    id: Reklamasi daratan
+    it: terra sottratta al mare
+    ja: 埋立
+    kk: мелиорация
+    kk-arab: مەلىيوراتسىييا
+    kk-cyrl: Мелиорация
+    kk-latn: Melïoracïya
+    ko: 간척지
+    la: Aggeratio maritima
+    lt: Melioracija
+    mk: мелиорација
+    ms: Tebus guna tanah
+    nb: landgjenvinning
+    nl: landaanwinning
+    nn: landgjenvinning
+    pl: refulacja
+    pt: aterramento marítimo
+    pt-br: Aterramento marítimo
+    ro: Îmbunătățiri funciare
+    ru: намывные территории
+    sh: Melioracija
+    sl: melioracija
+    sr: мелиорација
+    sr-ec: Мелиорација
+    sr-el: Melioracija
+    sv: landåtervinning
+    tr: toprak ıslahı
+    tt: мелиорация
+    uk: намивні території
+    vi: khai hoang
+    wuu: 填海
+    yue: 填海
+    zh: 填海
+    zh-hans: 填海
+    zh-hant: 填海
+    zh-hk: 填海
 ---
-
 # [[Land_Reclamation]] 
 
 #is_/same_as :: [[WD~Land_reclamation,1130322]] 

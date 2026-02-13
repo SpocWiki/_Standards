@@ -1,8 +1,128 @@
 ---
 aliases:
-  - Keynesian economics
-  - Keynesianism
+- economia keynesiana
+- Ekonomi Keynes
+- Escola keynesiana
+- Keinsism
+- Keinsisms
+- Keinsizmas
+- Kejnsijanizam
+- Kejnsisma ekonomiko
+- Kejnzijanizam
+- Keynes-chú-gī
+- Keynesian economics
+- Keynesianism
+- Keynesianisme
+- keynesianismo
+- Keynesianismu
+- Keynesianismus
+- Keynesianizmus
+- Keynesijanizam
+- keynesijanska ekonomija
+- Keynesiläinen taloustiede
+- Keynesizm
+- Keynesiánství
+- Keynesovstvo
+- Keynesçi ekonomi
+- Keynesísk hagfræði
+- Keynexismo
+- Keynsçilik
+- keynésianisme
+- Kinh tế học Keynes
+- Placita Keynesiana
+- Κεϋνσιανικά οικονομικά
+- кејнзијанство
+- Кейнсіанство
+- Кейнсіянства
+- Кейнсианска икономика
+- Кейнсианство
+- Кейнсшілдік
+- кэйнсіянства
+- Քեյնսականություն
+- כלכלה קיינסיאנית
+- ئابووری کەینیزی
+- اقتصاد كينزي
+- اقتصاد کینزی
+- د کينز اقتصاد
+- کینزین ایقتیصادی
+- ਕੇਨਜ਼ੀ ਅਰਥਸ਼ਾਸਤਰ
+- கெயின்சியப் பொருளியல்
+- เศรษฐศาสตร์สำนักเคนส์
+- კეინსიანიზმი
+- ケインズ経済学
+- 凯恩斯主义经济学
+- 凱恩斯主義
+- 凱恩斯經濟學
+- 케인스 경제학
 has_id_wikidata: Q83937
+dv_has_:
+  name_:
+    af: Keynesianisme
+    ar: اقتصاد كينزي
+    ast: Keynesianismu
+    az: Keynsçilik
+    azb: کینزین ایقتیصادی
+    be: Кейнсіянства
+    be-tarask: кэйнсіянства
+    bg: Кейнсианска икономика
+    ca: Keynesianisme
+    ckb: ئابووری کەینیزی
+    cs: Keynesiánství
+    da: Keynesianisme
+    de: Keynesianismus
+    el: Κεϋνσιανικά οικονομικά
+    en: Keynesian economics
+    en-ca: Keynesian economics
+    en-gb: Keynesian economics
+    eo: Kejnsisma ekonomiko
+    es: keynesianismo
+    et: Keinsism
+    eu: Keynesianismo
+    ext: Keynesianismu
+    fa: اقتصاد کینزی
+    fi: Keynesiläinen taloustiede
+    fr: keynésianisme
+    he: כלכלה קיינסיאנית
+    hr: Keynesijanizam
+    hu: Keynesianizmus
+    hy: Քեյնսականություն
+    id: Keynesianisme
+    is: Keynesísk hagfræði
+    it: economia keynesiana
+    ja: ケインズ経済学
+    ka: კეინსიანიზმი
+    kk: Кейнсшілдік
+    ko: 케인스 경제학
+    la: Placita Keynesiana
+    lt: Keinsizmas
+    lv: Keinsisms
+    mk: кејнзијанство
+    ms: Ekonomi Keynes
+    nan: Keynes-chú-gī
+    nb: Keynesianisme
+    nl: Keynesianisme
+    nn: Keynesianisme
+    pa: ਕੇਨਜ਼ੀ ਅਰਥਸ਼ਾਸਤਰ
+    pl: Keynesizm
+    ps: د کينز اقتصاد
+    pt: Escola keynesiana
+    pt-br: Escola keynesiana
+    ro: Keynesianism
+    ru: Кейнсианство
+    sh: Kejnzijanizam
+    sk: Keynesovstvo
+    sl: keynesijanska ekonomija
+    sr: Kejnsijanizam
+    sv: keynesianism
+    ta: கெயின்சியப் பொருளியல்
+    th: เศรษฐศาสตร์สำนักเคนส์
+    tr: Keynesçi ekonomi
+    uk: Кейнсіанство
+    vec: Keynexismo
+    vi: Kinh tế học Keynes
+    wuu: 凯恩斯主义经济学
+    yue: 凱恩斯經濟學
+    zh: 凱恩斯主義
 ---
 #has_/previous_/item :: [[Capitalism]] 
 #has_/next_/item :: [[Neoliberalism]] 

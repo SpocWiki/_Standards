@@ -1,8 +1,83 @@
 ---
 aliases:
-  - Surianaceae
+- Họ Suyên biển
+- Surianaceae
+- Surianacoj
+- surianàcies
+- Zabłędowate
+- Стиракс котыр
+- Суриана котыр
+- сурианови
+- Суриановые
+- משפחת הלבניים
+- سوريانيات
+- スリアナ科
+- 海人树科
+- 海人樹科
+- 수리아나과
 title: Surianaceae
 has_id_wikidata: Q131362
+dv_has_:
+  name_:
+    an: Surianaceae
+    ar: سوريانيات
+    arz: سوريانيات
+    ast: Surianaceae
+    az: Surianaceae
+    be: Surianaceae
+    bg: сурианови
+    bs: Surianaceae
+    ca: surianàcies
+    ceb: Surianaceae
+    cs: Surianaceae
+    de: Surianaceae
+    en: Surianaceae
+    eo: Surianacoj
+    es: Surianaceae
+    eu: Surianaceae
+    ext: Surianaceae
+    fi: Surianaceae
+    fr: Surianaceae
+    ga: Surianaceae
+    gl: Surianaceae
+    he: משפחת הלבניים
+    hr: Surianaceae
+    ia: Surianaceae
+    id: Surianaceae
+    ie: Surianaceae
+    io: Surianaceae
+    it: Surianaceae
+    ja: スリアナ科
+    ko: 수리아나과
+    koi: Суриана котыр
+    kv: Стиракс котыр
+    la: Surianaceae
+    mul: Surianaceae
+    nb: Surianaceae
+    nl: Surianaceae
+    oc: Surianaceae
+    pl: Zabłędowate
+    pt: Surianaceae
+    pt-br: Surianaceae
+    ro: Surianaceae
+    ru: Суриановые
+    sq: Surianaceae
+    sr: Surianaceae
+    sr-ec: Surianaceae
+    sr-el: Surianaceae
+    sv: Surianaceae
+    tr: Surianaceae
+    uk: Surianaceae
+    vi: Họ Suyên biển
+    vo: Surianaceae
+    war: Surianaceae
+    zh: 海人树科
+    zh-cn: 海人树科
+    zh-hans: 海人树科
+    zh-hant: 海人樹科
+    zh-hk: 海人樹科
+    zh-sg: 海人树科
+    zh-tw: 海人樹科
 ---
 # [[Surianaceae]] 
 

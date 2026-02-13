@@ -1,13 +1,18 @@
 ---
-has_time_started: 1927-05-01 
+has_time_started: 1927-05-01
 aliases:
-  - Puttin' on the Ritz
-  - Puttin'_on_the_Ritz
+- Puttin' on the Ritz
+- Puttin'_on_the_Ritz
+- Puttin’ on the Ritz
+- بسیار شیکپوش
+- 踊るリッツの夜
+- 追求时尚
+- 追求時尚
 has_id_wikidata: Q943316
 performer:
-  - '[[_Standards/WikiData/WD~Fred_Astaire,100937]]'
-  - '[[_Standards/WikiData/WD~Harry_Richman,5671934]]'
-  - '[[_Standards/WikiData/WD~Terry_Snyder_and_The_All_Stars,108530099]]'
+- '[[_Standards/WikiData/WD~Fred_Astaire,100937]]'
+- '[[_Standards/WikiData/WD~Harry_Richman,5671934]]'
+- '[[_Standards/WikiData/WD~Terry_Snyder_and_The_All_Stars,108530099]]'
 lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
 composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
 genre: '[[_Standards/WikiData/WD~popular_music,373342]]'
@@ -22,8 +27,34 @@ publication_date: 1929-12-02T00:00:00Z
 inception: 1927-05-01T00:00:00Z
 public_domain_date: 2023-01-01T00:00:00Z
 Commons_category: Puttin' On the Ritz
+dv_has_:
+  name_:
+    ast: Puttin' on the Ritz
+    ca: Puttin' On the Ritz
+    da: Puttin' on the Ritz
+    de: Puttin’ on the Ritz
+    en: Puttin' On the Ritz
+    es: Puttin' On the Ritz
+    eu: Puttin' On the Ritz
+    fa: بسیار شیکپوش
+    fr: Puttin' on the Ritz
+    he: Puttin' On the Ritz
+    hu: Puttin’ on the Ritz
+    it: Puttin' On the Ritz
+    ja: 踊るリッツの夜
+    kk: Puttin’ on the Ritz
+    mul: Puttin' On the Ritz
+    nb: Puttin' on the Ritz
+    nl: Puttin' on the Ritz
+    nn: Puttin' on the Ritz
+    pl: Puttin' on the Ritz
+    ru: Puttin’ on the Ritz
+    sv: Puttin' on the Ritz
+    uk: Puttin' on the Ritz
+    zh: 追求时尚
+    zh-hans: 追求时尚
+    zh-hant: 追求時尚
 ---
-
 #is_/same_as :: [[Puttin'_on_the_Ritz,943316]]
 
 ## #has_/text_of_/abstract 

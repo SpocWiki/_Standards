@@ -1,8 +1,108 @@
 ---
 has_id_wikidata: Q133475
+dv_has_:
+  name_:
+    af: Kopielinks
+    ar: حقوق متروكة
+    ast: Copyleft
+    az: Kopileft
+    be: свабоднае аўтарскае права
+    be-tarask: вольнае аўтарскае права
+    bg: Copyleft
+    bn: কপিলেফট
+    ca: Copyleft
+    cs: copyleft
+    da: copyleft
+    de: Copyleft
+    de-ch: Copyleft
+    el: Copyleft
+    en: copyleft
+    en-ca: copyleft
+    en-gb: copyleft
+    eo: kopilaso
+    es: copyleft
+    et: Copyleft
+    eu: copyleft
+    fa: کپیلفت
+    fi: copyleft
+    fr: copyleft
+    gl: Copyleft
+    he: Copyleft
+    hi: कॉपीलेफ्ट
+    hr: Copyleft
+    hu: copyleft
+    hy: Copyleft
+    ia: Copyleft
+    id: Copyleft
+    is: Höfundarrangur
+    it: copyleft
+    ja: コピーレフト
+    kaa: Kopyleft
+    ko: 카피레프트
+    ku: Copyleft
+    la: Copyleft
+    lmo: Copyleft
+    lt: Copyleft
+    lv: Copyleft
+    mhr: Копилефт
+    mk: Copyleft
+    ml: പകർപ്പുപേക്ഷ
+    ms: Copyleft
+    mul: copyleft
+    nb: copyleft
+    nl: copyleft
+    nn: copyleft
+    pl: copyleft
+    pt: copyleft
+    pt-br: Copyleft
+    ro: copyleft
+    ru: копилефт
+    sh: Copyleft
+    sk: copyleft
+    sl: copyleft
+    sq: Moodzee
+    sr: Kopileft
+    sr-ec: Копилефт
+    sr-el: Kopileft
+    sv: copyleft
+    ta: அளிப்புரிமை
+    te: కాపీ లెఫ్ట్
+    th: นิรสิทธิ์
+    tr: Copyleft
+    uk: Copyleft
+    vi: Copyleft
+    wuu: Copyleft
+    zh: Copyleft
+    zh-cn: Copyleft
+    zh-hans: Copyleft
+    zh-hant: Copyleft
+    zh-hk: Copyleft
+    zh-mo: Copyleft
+    zh-my: Copyleft
+    zh-sg: Copyleft
+    zh-tw: Copyleft
+aliases:
+- Copyleft
+- Höfundarrangur
+- Kopielinks
+- kopilaso
+- Kopileft
+- Kopyleft
+- Moodzee
+- вольнае аўтарскае права
+- копилефт
+- свабоднае аўтарскае права
+- حقوق متروكة
+- کپیلفت
+- कॉपीलेफ्ट
+- কপিলেফট
+- அளிப்புரிமை
+- కాపీ లెఫ్ట్
+- പകർപ്പുപേക്ഷ
+- นิรสิทธิ์
+- コピーレフト
+- 카피레프트
 ---
-
-
 #has_/creator :: [[../../../Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard]] 
 
 Copyleft is a Reaction to the [[US_Copyright_Act,1976]] on Software, 

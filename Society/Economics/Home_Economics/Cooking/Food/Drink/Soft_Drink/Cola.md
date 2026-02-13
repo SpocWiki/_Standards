@@ -1,21 +1,149 @@
 ---
-has_time_started: 1886-01-01 
+has_time_started: 1886-01-01
 aliases:
-  - Kola
-  - Cola
+- bebida de cola
+- beguda de cola
+- Bèvida de cola
+- bébora de cola
+- Cola
+- Cola (potio)
+- Cole
+- Còla (beure)
+- Gojloz
+- Jenama Kola
+- Kola
+- Kola-drinkajo
+- kolajuoma
+- kolao
+- Kuola
+- kóla
+- Kóladrykkur
+- Κόλα
+- кола
+- Կոլա (խմիչք)
+- קולה
+- كولا
+- کولا
+- کۆلا
+- कोला
+- কোলা
+- கோலா
+- കോള
+- කෝලා බීම
+- น้ำโคล่า
+- კოლა
+- ᱠᱳᱞᱟ
+- コーラ
+- 可乐
+- 可樂
+- 콜라
 has_id_wikidata: Q134041
 has_part_s_: '[[_Standards/WikiData/WD~caramel_color,227816]]'
 color: '[[_Standards/WikiData/WD~dark_brown,15699769]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~caffeinated_soft_drink,116869244]]'
-  - '[[_Standards/WikiData/WD~sugary_drink,122973887]]'
+- '[[_Standards/WikiData/WD~caffeinated_soft_drink,116869244]]'
+- '[[_Standards/WikiData/WD~sugary_drink,122973887]]'
 inception: 1886-01-01T00:00:00Z
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 USDA_NDB_number: 14148
 P8189: 987007563685505171
 Commons_category: Cola drinks
+dv_has_:
+  name_:
+    ar: كولا
+    ast: bébora de cola
+    az: Kola
+    ba: кола
+    be: Кола
+    be-tarask: кола
+    bg: кола
+    bn: কোলা
+    ca: beguda de cola
+    cdo: Cola
+    ckb: کۆلا
+    cs: kola
+    cy: Cola
+    da: cola
+    de: Cola
+    diq: Kola
+    el: Κόλα
+    en: cola
+    eo: kolao
+    es: cola
+    eu: kola
+    fa: کولا
+    fi: kolajuoma
+    fr: cola
+    frr: Cola
+    fur: Cole
+    gl: bebida de cola
+    he: קולה
+    hi: कोला
+    hr: kola
+    hu: kóla
+    hy: Կոլա (խմիչք)
+    id: Kola
+    io: Kola-drinkajo
+    is: Kóladrykkur
+    it: cola
+    ja: コーラ
+    jv: Kola
+    ka: კოლა
+    ko: 콜라
+    ku: Kola
+    la: Cola (potio)
+    lb: Cola
+    lt: Kola
+    lv: kola
+    lzh: 可樂
+    min: Kola
+    mk: Кола
+    ml: കോള
+    ms: Jenama Kola
+    nan: Cola
+    nb: cola
+    nds-nl: cola
+    new: कोला
+    nl: cola
+    nn: cola
+    oc: Còla (beure)
+    pl: cola
+    ps: کولا
+    pt: bebida de cola
+    ro: cola
+    ru: кола
+    sah: Кола
+    sat: ᱠᱳᱞᱟ
+    sc: Bèvida de cola
+    sgs: Kuola
+    sh: Cola
+    si: කෝලා බීම
+    sk: Kola
+    sl: kola
+    sq: Cola
+    sr: Cola
+    sv: cola
+    ta: கோலா
+    th: น้ำโคล่า
+    tl: kola
+    tr: kola
+    uk: Кола
+    ur: کولا
+    vi: Cola
+    war: Cola
+    wuu: 可乐
+    yue: 可樂
+    za: Gojloz
+    zh: 可乐
+    zh-cn: 可乐
+    zh-hans: 可乐
+    zh-hant: 可樂
+    zh-hk: 可樂
+    zh-mo: 可樂
+    zh-my: 可乐
+    zh-sg: 可乐
+    zh-tw: 可樂
 ---
-
 # [[Cola]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cola,134041|WD~Cola,134041]] 

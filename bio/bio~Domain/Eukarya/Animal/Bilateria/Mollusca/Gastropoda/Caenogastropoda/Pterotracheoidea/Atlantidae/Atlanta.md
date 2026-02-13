@@ -1,8 +1,223 @@
 ---
 aliases:
-  - Atlanta
+- Atlant
+- Atlanta
+- Atlonta
+- Atlànta
+- Béésh Ahidaʼdiitiin
+- ma tomo Alana
+- Ætlanda
+- ʻAtalana
+- Ατλάντα
+- Атлантæ
+- Атланта
+- Ատլանտա
+- אטלאנטא
+- אטלנטה
+- آتلانتا
+- آتلانتا (جؤرجيا)
+- أتلانتا
+- ئەتڵانتا
+- ائٽلانٽا
+- اتلانتا
+- اٹلانٹا
+- اٹلانٹا، جارجیا
+- ߡߊߙߑߕߍ߲߫ ߟߎߕߍߙ ߞߌ߲ߜ߭ ߘߐ߰ߡߊ߲
+- अटलांटा
+- अटलान्टा
+- एटलांटा
+- एट्लान्टा
+- আটলান্টা
+- ਅਟਲਾਂਟਾ
+- એટલાન્ટા
+- அட்லான்டா
+- అట్లాంటా
+- ಅಟ್ಲಾಂಟಾ
+- അറ്റ്ലാന്റാ നഗരം
+- ඇට්ලන්ටාව
+- แอตแลนตา
+- ཨ་ཊི་ལཱན་ཊཱ།
+- အတ္တလန္တာမြို့
+- ატლანტა
+- አትላንታ
+- ⴰⵜⵍⴰⵏⵜⴰ
+- アトランタ
+- 亚特兰大
+- 亞特蘭大
+- 애틀랜타
+- "\U00010330\U00010344\U0001033B\U00010330\U0001033D\U00010344\U00010330"
 title: Atlanta
 has_id_wikidata: Q23556
+dv_has_:
+  name_:
+    am: አትላንታ
+    ang: Ætlanda
+    ar: أتلانتا
+    arz: اتلانتا
+    ast: Atlanta
+    azb: آتلانتا
+    ba: Атланта
+    be: Атланта
+    be-tarask: Атланта
+    bg: Атланта
+    bi: Atlanta
+    bm: Atlanta
+    bn: আটলান্টা
+    bo: ཨ་ཊི་ལཱན་ཊཱ།
+    ca: Atlanta
+    cbk-zam: Atlanta
+    cdo: Atlanta
+    ce: Атланта
+    ceb: Atlanta
+    ch: Atlanta
+    ckb: ئەتڵانتا
+    cs: Atlanta
+    da: Atlanta
+    dag: Atlanta
+    de: Atlanta
+    diq: Atlanta
+    el: Ατλάντα
+    eml: Atlànta
+    en: Atlanta
+    eo: Atlanta
+    es: Atlanta
+    et: Atlanta
+    eu: Atlanta
+    ext: Atlanta
+    fa: آتلانتا
+    fi: Atlanta
+    fr: Atlanta
+    ga: Atlanta
+    gan: 亞特蘭大
+    gl: Atlanta
+    glk: آتلانتا (جؤرجيا)
+    got: "\U00010330\U00010344\U0001033B\U00010330\U0001033D\U00010344\U00010330"
+    gu: એટલાન્ટા
+    gv: Atlanta
+    ha: Atlanta
+    hak: Atlanta
+    haw: ʻAtalana
+    he: אטלנטה
+    hi: एटलांटा
+    hr: Atlanta
+    ht: Atlanta
+    hu: Atlanta
+    hy: Ատլանտա
+    ia: Atlanta
+    id: Atlanta
+    ie: Atlanta
+    ilo: Atlanta
+    io: Atlanta
+    is: Atlanta
+    it: Atlanta
+    ja: アトランタ
+    ka: ატლანტა
+    kaa: Atlanta
+    kab: Atlanta
+    ki: Atlanta
+    kk: Атланта
+    kk-cyrl: Атланта
+    kl: Atlanta
+    kn: ಅಟ್ಲಾಂಟಾ
+    ko: 애틀랜타
+    krc: Атланта
+    ku: Atlanta
+    kw: Atlanta
+    ky: Атланта
+    la: Atlanta
+    lad: Atlanta
+    lb: Atlanta
+    li: Atlanta
+    lij: Atlanta
+    lld: Atlanta
+    lmo: Atlanta
+    ln: Atlanta
+    lrc: آتلانتا
+    lt: Atlanta
+    lv: Atlanta
+    mdf: Атланта
+    mg: Atlanta
+    mi: Atlanta
+    min: Atlanta
+    mk: Атланта
+    ml: അറ്റ്ലാന്റാ നഗരം
+    mn: Атланта
+    mr: अटलांटा
+    mrj: Атланта
+    ms: Atlanta
+    mt: Atlanta
+    mul: Atlanta
+    my: အတ္တလန္တာမြို့
+    mzn: اتلانتا
+    nan: Atlanta
+    nb: Atlanta
+    ne: एट्लान्टा
+    new: एट्लान्टा
+    nl: Atlanta
+    nn: Atlanta
+    nov: Atlanta
+    nqo: ߡߊߙߑߕߍ߲߫ ߟߎߕߍߙ ߞߌ߲ߜ߭ ߘߐ߰ߡߊ߲
+    nv: Béésh Ahidaʼdiitiin
+    ny: Atlanta
+    oc: Atlanta
+    os: Атлантæ
+    pa: ਅਟਲਾਂਟਾ
+    pam: Atlanta
+    pap: Atlanta
+    pcd: Atlanta
+    pi: एट्लान्टा
+    pl: Atlanta
+    pms: Atlanta
+    pnb: اٹلانٹا
+    pt: Atlanta
+    pt-br: Atlanta
+    ro: Atlanta
+    ru: Атланта
+    rue: Атланта
+    rup: Atlanta
+    sa: अटलान्टा
+    sah: Атланта
+    sd: ائٽلانٽا
+    sgs: Atlonta
+    si: ඇට්ලන්ටාව
+    sk: Atlanta
+    sr: Атланта
+    sr-ec: Атланта
+    srn: Atlanta
+    sv: Atlanta
+    sw: Atlanta
+    szl: Atlanta
+    ta: அட்லான்டா
+    te: అట్లాంటా
+    tg: Атланта
+    tg-cyrl: Атланта
+    th: แอตแลนตา
+    tok: ma tomo Alana
+    tr: Atlanta
+    tt: Атланта
+    tum: Atlanta
+    tw: Atlanta
+    ug: Atlanta
+    uk: Атланта
+    ur: اٹلانٹا، جارجیا
+    uz: Atlanta
+    vec: Atlanta
+    vep: Atlant
+    vi: Atlanta
+    vo: Atlanta
+    war: Atlanta
+    wuu: 亚特兰大
+    xmf: ატლანტა
+    yi: אטלאנטא
+    yo: Atlanta
+    yue: 亞特蘭大
+    zgh: ⴰⵜⵍⴰⵏⵜⴰ
+    zh: 亚特兰大
+    zh-cn: 亚特兰大
+    zh-hans: 亚特兰大
+    zh-hant: 亞特蘭大
+    zh-hk: 亞特蘭大
+    zh-tw: 亞特蘭大
 ---
 # [[Atlanta]] 
 

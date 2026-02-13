@@ -1,66 +1,120 @@
 ---
 aliases:
+- Hicab
+- Hidjaab
+- hidjab
+- Hidschāb
+- hidseab
+- hidsjab
+- hidzsáb
+- Hidżab
+- hidžab
+- Hidžabas
+- Hidžáb
+- hidžābs
+- hijab
+- hijabe
+- Hijabu
+- Hijob
+- Hijäb
+- Hixhabi
+- hiyab
+- hiĝabo
+- jilbab
+- kodung
+- tesettür
+- Xicab
+- Xijaab
+- Xïdjab
+- Χιτζάμπ
+- Хіджаб
+- Хиџаб
+- хиджаб
+- Хижаб
+- Хьижаб
+- Հիջաբ
+- חג'אב
+- حجاب
+- حجاب اسلامی
+- حىيدجاب
+- حیجاب
+- हिजाब
+- হিজাব
+- ਹਿਜਾਬ
+- ஹிஜாப்
+- బురఖా
+- ഹിജാബ്
+- ฮิญาบ
+- ဟေဂျားဘ်
+- ჰიჯაბი
+- ហ៊ីជាប
+- Ḩijāb
+- ヒジャブ
+- 希賈布
+- 希贾布
+- 穆斯林頭巾
+- 히잡
 has_id_wikidata: Q172317
 different_from:
-  - "[[_Standards/WikiData/WD~burqa,167884]]"
-  - "[[_Standards/WikiData/WD~niqab,210583]]"
-  - "[[_Standards/WikiData/WD~Tasattur,109326154]]"
+- '[[_Standards/WikiData/WD~burqa,167884]]'
+- '[[_Standards/WikiData/WD~niqab,210583]]'
+- '[[_Standards/WikiData/WD~Tasattur,109326154]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Fatima,180123]]"
-  - "[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]"
-  - "[[_Standards/WikiData/WD~Muhammad's_wives,2354223]]"
-  - "[[_Standards/WikiData/WD~female_figures_in_the_Quran,5442757]]"
+- '[[_Standards/WikiData/WD~Fatima,180123]]'
+- '[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]'
+- "[[_Standards/WikiData/WD~Muhammad's_wives,2354223]]"
+- '[[_Standards/WikiData/WD~female_figures_in_the_Quran,5442757]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~intimate_parts_in_Islam,193308]]"
-  - "[[_Standards/WikiData/WD~mahram,2506934]]"
+- '[[_Standards/WikiData/WD~intimate_parts_in_Islam,193308]]'
+- '[[_Standards/WikiData/WD~mahram,2506934]]'
 has_use:
-  - "[[_Standards/WikiData/WD~salah,234869]]"
-  - "[[_Standards/WikiData/WD~ṭawāf,1415790]]"
-  - "[[_Standards/WikiData/WD~gender_segregation_and_Islam,5531018]]"
-  - "[[_Standards/WikiData/WD~Tasattur,109326154]]"
+- '[[_Standards/WikiData/WD~salah,234869]]'
+- '[[_Standards/WikiData/WD~ṭawāf,1415790]]'
+- '[[_Standards/WikiData/WD~gender_segregation_and_Islam,5531018]]'
+- '[[_Standards/WikiData/WD~Tasattur,109326154]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Hajj,234915]]"
-  - "[[_Standards/WikiData/WD~Congregational_prayer_in_Islam,12220132]]"
+- '[[_Standards/WikiData/WD~Hajj,234915]]'
+- '[[_Standards/WikiData/WD~Congregational_prayer_in_Islam,12220132]]'
 operator:
-  - "[[_Standards/WikiData/WD~women_in_Islam,622820]]"
-  - "[[_Standards/WikiData/WD~women_in_the_Qur'an,20402308]]"
-facet_of: "[[_Standards/WikiData/WD~worship_in_Islam,1231595]]"
+- '[[_Standards/WikiData/WD~women_in_Islam,622820]]'
+- "[[_Standards/WikiData/WD~women_in_the_Qur'an,20402308]]"
+facet_of: '[[_Standards/WikiData/WD~worship_in_Islam,1231595]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]"
-part_of_the_series: "[[_Standards/WikiData/WD~Islamic_ethics,6032505]]"
+- '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sufism,125577596]]'
+part_of_the_series: '[[_Standards/WikiData/WD~Islamic_ethics,6032505]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~veil,6497446]]"
-  - "[[_Standards/WikiData/WD~Islamic_item,56376618]]"
+- '[[_Standards/WikiData/WD~veil,6497446]]'
+- '[[_Standards/WikiData/WD~Islamic_item,56376618]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Sufi_terminology,12189625]]"
-  - "[[_Standards/WikiData/WD~Islamic_term,23384401]]"
+- '[[_Standards/WikiData/WD~Sufi_terminology,12189625]]'
+- '[[_Standards/WikiData/WD~Islamic_term,23384401]]'
 item_operated:
-  - "[[_Standards/WikiData/WD~bashfulness_in_Islam,12209731]]"
-  - "[[_Standards/WikiData/WD~Akhlaq,16148317]]"
-  - "[[_Standards/WikiData/WD~morality_in_Islam,28220256]]"
-part_of: "[[_Standards/WikiData/WD~Islamic_clothing,26690120]]"
-used_by: "[[_Standards/WikiData/WD~hijabi,62735534]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Fairchild_Books_Dictionary_of_Fashion,99982228]]"
+- '[[_Standards/WikiData/WD~bashfulness_in_Islam,12209731]]'
+- '[[_Standards/WikiData/WD~Akhlaq,16148317]]'
+- '[[_Standards/WikiData/WD~morality_in_Islam,28220256]]'
+part_of: '[[_Standards/WikiData/WD~Islamic_clothing,26690120]]'
+used_by: '[[_Standards/WikiData/WD~hijabi,62735534]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Fairchild_Books_Dictionary_of_Fashion,99982228]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Sufism,9603]]"
-worn_on: "[[_Standards/WikiData/WD~head,23640]]"
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Sufism,9603]]'
+worn_on: '[[_Standards/WikiData/WD~head,23640]]'
 Nomenclature_for_Museum_Cataloging:
-  - "2329"
-  - "2330"
-OmegaWiki_Defined_Meaning: "1266309"
+- 2329
+- 2330
+OmegaWiki_Defined_Meaning: 1266309
 booru_tag: hijab
 IMDb_keyword: hijab
 Archive_of_Our_Own_tag:
-  - hijab
-  - Hijabi
+- hijab
+- Hijabi
 hashtag_:
-  - hijab
-  - hijabi
+- hijab
+- hijabi
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hijabis%20-%202017%20%2837019672366%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Islamic-fashion-hijab.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hijabis%20-%202017%20%2837019672366%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Islamic-fashion-hijab.jpg
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/hijab
 DOI: 10.1163/1875-3922_Q3_EQSIM_00441
 Library_of_Congress_Classification: BP190.5.H44
@@ -68,8 +122,110 @@ IPA_transcription: ħi.d͡ʒaːb
 Commons_gallery: Hijab
 subreddit: hijabis
 Commons_category: Hijabs
+dv_has_:
+  name_:
+    af: hidjab
+    ar: حجاب
+    as: হিজাব
+    az: Hicab
+    ba: Хижаб
+    bcl: Hijab
+    be: Хіджаб
+    be-tarask: Хіджаб
+    bg: Хиджаб
+    bho: हिजाब
+    bn: হিজাব
+    br: Hijab
+    ca: hijab
+    ce: Хьижаб
+    ceb: Hijab
+    ckb: حیجاب
+    cs: Hidžáb
+    da: Hijab
+    de: Hidschāb
+    el: Χιτζάμπ
+    en: hijab
+    eo: hiĝabo
+    es: hiyab
+    et: Ḩijāb
+    eu: hijab
+    fa: حجاب اسلامی
+    fi: Hijab
+    fr: hijab
+    fy: Hidjaab
+    ga: hidseab
+    ha: Hijab
+    he: חג'אב
+    hi: हिजाब
+    hr: Hidžab
+    hu: hidzsáb
+    hy: Հիջաբ
+    id: jilbab
+    io: Hijab
+    is: Hijab
+    it: hijab
+    ja: ヒジャブ
+    jv: Hijab
+    kge: Hijab
+    kk: Хиджаб
+    kk-arab: حىيدجاب
+    kk-cn: حىيدجاب
+    kk-cyrl: Хиджаб
+    kk-kz: Хиджаб
+    kk-latn: Xïdjab
+    kk-tr: Xïdjab
+    km: ហ៊ីជាប
+    ko: 히잡
+    lt: Hidžabas
+    lv: hidžābs
+    mad: kodung
+    mk: Хиџаб
+    ml: ഹിജാബ്
+    mr: हिजाब
+    ms: hijab
+    my: ဟေဂျားဘ်
+    nan: Hijab
+    nb: hijab
+    nl: hidjab
+    nn: hidsjab
+    pa: ਹਿਜਾਬ
+    pl: Hidżab
+    ps: حجاب
+    pt: hijabe
+    ro: Hijab
+    ru: хиджаб
+    sd: حجاب
+    sh: hidžab
+    sl: hidžab
+    so: Xijaab
+    sq: Hixhabi
+    sr: хиџаб
+    sr-ec: хиџаб
+    sr-el: hidžab
+    sv: hijab
+    sw: Hijabu
+    ta: ஹிஜாப்
+    te: బురఖా
+    th: ฮิญาบ
+    tk: Hijäb
+    tr: tesettür
+    tt: Xicab
+    uk: Хіджаб
+    ur: حجاب
+    uz: Hijob
+    vec: Hijab
+    vi: Hijab
+    wuu: 希贾布
+    xmf: ჰიჯაბი
+    yue: 穆斯林頭巾
+    zh: 希贾布
+    zh-cn: 希贾布
+    zh-hans: 希贾布
+    zh-hant: 希賈布
+    zh-hk: 希賈布
+    zh-sg: 希贾布
+    zh-tw: 希賈布
 ---
-
 # [[Hijab]] 
 
 #is_/same_as :: [[WD~Hijab,172317]] 

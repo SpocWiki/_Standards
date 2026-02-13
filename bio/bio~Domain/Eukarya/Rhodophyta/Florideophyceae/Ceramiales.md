@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Ceramiales
+- Ceramiales
+- Κεραμιώδη
+- イギス目
+- 仙菜目
+- 비단풀목
 title: Ceramiales
 has_id_wikidata: Q2946347
+dv_has_:
+  name_:
+    an: Ceramiales
+    ast: Ceramiales
+    bg: Ceramiales
+    ca: Ceramiales
+    ceb: Ceramiales
+    de: Ceramiales
+    el: Κεραμιώδη
+    en: Ceramiales
+    eo: Ceramiales
+    es: Ceramiales
+    eu: Ceramiales
+    ext: Ceramiales
+    fi: Ceramiales
+    fr: Ceramiales
+    ga: Ceramiales
+    gl: Ceramiales
+    hr: Ceramiales
+    ia: Ceramiales
+    ie: Ceramiales
+    io: Ceramiales
+    it: Ceramiales
+    ja: イギス目
+    ko: 비단풀목
+    la: Ceramiales
+    mul: Ceramiales
+    nl: Ceramiales
+    oc: Ceramiales
+    pl: Ceramiales
+    pt: Ceramiales
+    pt-br: Ceramiales
+    ro: Ceramiales
+    ru: Ceramiales
+    sl: Ceramiales
+    sq: Ceramiales
+    tr: Ceramiales
+    uk: Ceramiales
+    vi: Ceramiales
+    vo: Ceramiales
+    war: Ceramiales
+    zh: 仙菜目
+    zh-cn: 仙菜目
+    zh-hans: 仙菜目
+    zh-tw: 仙菜目
 ---
 # [[Ceramiales]] 
 

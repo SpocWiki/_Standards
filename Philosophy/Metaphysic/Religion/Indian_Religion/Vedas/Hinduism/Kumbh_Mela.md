@@ -1,26 +1,135 @@
 ---
 aliases:
-  - कुम्भमेला
-  - Kumbh_Mela
-  - Kumbh Mela
+- Khumba Mela
+- Kumb Mela
+- Kumbh Mela
+- Kumbh Melá
+- Kumbha Mela
+- Kumbhamela
+- Kumbhaméla
+- Kumbh_Mela
+- Κουμπ Μελά
+- Кумб Мела
+- Кумбх Мела
+- Кумбха Мэля
+- Кумбха-мела
+- קומבה מלה
+- كومبه ميلا
+- کمبھ میلہ
+- کومبه میلا
+- کُمٛبھ مٲلہٕ
+- ڪُنڀ ميلو
+- कुंभ मेला
+- कुंभमेळा
+- कुम्भ मेला
+- कुम्भमेला
+- महाकुम्भ
+- কুম্ভ মেলা
+- কুম্ভমেলা
+- ਕੁੰਭ ਮੇਲਾ
+- કુંભ મેળો
+- କୁମ୍ଭ ମେଳା
+- கும்பமேளா
+- కుంభ మేళా
+- ಕುಂಭ ಮೇಳ
+- കുംഭമേള
+- กุมภเมลา
+- クンブ・メーラ
+- 大壶节
+- 大壺節
+- ꠇꠥꠝ꠆ꠜ ꠝꠦꠟꠣ
+- 쿰브 멜라
 has_id_wikidata: Q10283
 participant: '[[_Standards/WikiData/WD~hijra,660882]]'
 subclass_of: '[[_Standards/WikiData/WD~Hindu_pilgrimage,15726071]]'
 intangible_cultural_heritage_status:
-  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
-  - '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 instance_of: '[[_Standards/WikiData/WD~pilgrimage_feast,113071362]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kumbh%20Mela2001.JPG
 official_website: http://kumbhmelaallahabad.gov.in/
 described_at_URL:
-  - https://ich.unesco.org/en/RL/01258
-  - https://ich.unesco.org/es/RL/01258
-  - https://ich.unesco.org/fr/RL/01258
+- https://ich.unesco.org/en/RL/01258
+- https://ich.unesco.org/es/RL/01258
+- https://ich.unesco.org/fr/RL/01258
 Commons_category: Kumbh Mela
+dv_has_:
+  name_:
+    af: Kumbh Mela
+    ar: كومبه ميلا
+    as: কুম্ভ মেলা
+    ast: Kumbhamela
+    awa: कुंभ मेला
+    be-tarask: Кумбха Мэля
+    bg: Кумбх Мела
+    bho: कुंभ मेला
+    bn: কুম্ভমেলা
+    ca: Kumbh Mela
+    cs: Kumbhaméla
+    cy: Kumbh Mela
+    da: Kumbh Mela
+    de: Kumbh Mela
+    de-ch: Kumbh Mela
+    el: Κουμπ Μελά
+    en: Kumbh Mela
+    en-ca: Kumbh Mela
+    en-gb: Kumbh Mela
+    en-us: Kumbh Mela
+    eo: Kumbhamela
+    es: Kumbhamela
+    eu: Kumbh Mela
+    fa: کومبه میلا
+    fi: Kumbh Mela
+    fr: Kumbh Mela
+    gl: Kumbh Mela
+    gu: કુંભ મેળો
+    he: קומבה מלה
+    hi: कुम्भ मेला
+    hif: Kumbh Mela
+    hu: Kumbh Melá
+    id: Kumbha Mela
+    it: Kumbh Mela
+    ja: クンブ・メーラ
+    kn: ಕುಂಭ ಮೇಳ
+    ko: 쿰브 멜라
+    ks: کُمٛبھ مٲلہٕ
+    lt: Kumbha mela
+    mai: कुम्भ मेला
+    mk: Кумб Мела
+    ml: കുംഭമേള
+    mr: कुंभमेळा
+    ms: Kumbh Mela
+    nb: Kumbh mela
+    ne: महाकुम्भ
+    nl: Kumbh Mela
+    nn: Kumbh mela
+    oc: Kumbh Mela
+    or: କୁମ୍ଭ ମେଳା
+    pa: ਕੁੰਭ ਮੇਲਾ
+    pl: Kumbhamela
+    pt: Khumba Mela
+    pt-br: Khumba Mela
+    ru: Кумбха-мела
+    sa: कुम्भमेला
+    sd: ڪُنڀ ميلو
+    sr: Kumb Mela
+    sv: Kumbh Mela
+    syl: ꠇꠥꠝ꠆ꠜ ꠝꠦꠟꠣ
+    ta: கும்பமேளா
+    tcy: ಕುಂಭ ಮೇಳ
+    te: కుంభ మేళా
+    th: กุมภเมลา
+    tr: Kumb Mela
+    tt: Кумбха-мела
+    uk: Кумбха-Мела
+    ur: کمبھ میلہ
+    vi: Kumbh Mela
+    yue: 大壺節
+    zh: 大壺節
+    zh-cn: 大壶节
 ---
-
 # [[Kumbh_Mela]] 
 
 #is_/same_as :: [[WD~Kumbh_Mela,10283]] 

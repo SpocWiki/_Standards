@@ -1,26 +1,166 @@
 ---
 dv_is_:
-  different_from: "[[Absorption]]"
+  different_from: '[[Absorption]]'
   same_as:
-    - "[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]"
-    - "[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]"
-    - "[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]"
-    - "[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]"
-    - "[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]"
-    - "[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]"
-dv_is_different_from: "[[Absorption]]"
+  - '[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]'
+  - '[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]'
+  - '[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]'
+  - '[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]'
+  - '[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]'
+  - '[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]'
+dv_is_different_from: '[[Absorption]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]"
-  - "[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]"
-  - "[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]"
-  - "[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]"
-  - "[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]"
-  - "[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]"
+- '[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]'
+- '[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]'
+- '[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]'
+- '[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]'
+- '[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]'
+- '[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]'
+- '[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]'
+- '[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]'
 has_id_wikidata: Q180254
+dv_has_:
+  name_:
+    ar: امتزاز
+    ast: Adsorción
+    az: Adsorbsiya
+    be: Адсорбцыя
+    be-tarask: адсорбцыя
+    bg: Адсорбция
+    bn: অধিশোষণ
+    bs: Adsorpcija
+    ca: adsorció
+    cs: adsorpce
+    cy: Arsugniad
+    da: Adsorption
+    de: Adsorption
+    el: Προσρόφηση
+    en: adsorption
+    en-ca: Adsorption
+    en-gb: adsorption
+    eo: alsorbo
+    es: adsorción
+    et: Adsorptsioon
+    eu: adsortzio
+    fa: جذب سطحی
+    fi: adsorptio
+    fr: adsorption
+    ga: asúchán
+    gl: Adsorción
+    he: ספיחה
+    hi: अधिशोषण
+    hr: Adsorpcija
+    hu: adszorpció
+    hy: ադսորբում
+    id: Adsorpsi
+    it: adsorbimento
+    ja: 吸着
+    kk: Адсорбция
+    kk-arab: ادسوربتسىييا
+    kk-cn: ادسوربتسىييا
+    kk-cyrl: Адсорбция
+    kk-kz: Адсорбция
+    kk-latn: Adsorbcïya
+    kk-tr: Adsorbcïya
+    kn: ಅಧಿಶೋಷಣೆ ಮತ್ತು ಅಧಿಶೋಷಕಗಳು
+    ko: 흡착
+    ky: Адcорбция
+    lt: Adsorbcija
+    lv: Adsorbcija
+    mdf: Адсорбциясь
+    ml: അധിശോഷണം
+    mr: अधिशोषण
+    ms: Penjerapan
+    nb: adsorpsjon
+    nl: adsorptie
+    nn: adsorpsjon
+    pcd: Adsoérpchon
+    pl: Adsorpcja
+    pt: adsorção
+    pt-br: Adsorção
+    ro: adsorbție
+    ru: адсорбция
+    sh: Adsorpcija
+    si: අධිශෝෂණය
+    sk: Adsorpcia
+    sl: adsorpcija
+    sr: адсорпција
+    sv: adsorption
+    ta: பரப்புக் கவர்ச்சி
+    te: అధిశోషణం
+    tg: Адсорбсия
+    tg-latn: Adsorbsija
+    th: การดูดซับ
+    tr: Adsorpsiyon
+    udm: адсорбация
+    uk: адсорбція
+    uz: Adsorbsiya
+    vi: Hấp phụ
+    wuu: 吸附
+    yue: 吸附
+    zh: 吸附
+    zh-cn: 吸附
+    zh-hans: 吸附
+    zh-hant: 吸附
+    zh-hk: 吸附
+    zh-sg: 吸附
+    zh-tw: 吸附
+aliases:
+- Adsorbcija
+- Adsorbcïya
+- adsorbimento
+- Adsorbsija
+- Adsorbsiya
+- adsorbție
+- adsorció
+- adsorción
+- adsorpce
+- Adsorpcia
+- Adsorpcija
+- Adsorpcja
+- Adsorpsi
+- Adsorpsiyon
+- adsorpsjon
+- adsorptie
+- adsorptio
+- adsorption
+- Adsorptsioon
+- adsortzio
+- adsorção
+- Adsoérpchon
+- adszorpció
+- alsorbo
+- Arsugniad
+- asúchán
+- Hấp phụ
+- Penjerapan
+- Προσρόφηση
+- Адcорбция
+- адсорбация
+- Адсорбсия
+- адсорбція
+- адсорбция
+- Адсорбциясь
+- Адсорбцыя
+- адсорпција
+- ադսորբում
+- ספיחה
+- ادسوربتسىييا
+- امتزاز
+- جذب سطحی
+- अधिशोषण
+- অধিশোষণ
+- பரப்புக் கவர்ச்சி
+- అధిశోషణం
+- ಅಧಿಶೋಷಣೆ ಮತ್ತು ಅಧಿಶೋಷಕಗಳು
+- അധിശോഷണം
+- අධිශෝෂණය
+- การดูดซับ
+- 吸着
+- 吸附
+- 흡착
 ---
 # [[Adsorption]] 
 

@@ -1,21 +1,51 @@
 ---
 aliases:
+- raž
+- Roggen
+- Roog
+- Rožka
+- rudzi
+- rug
+- Rugys
+- rukiit
+- Rågsläktet
+- Secale
+- sekalo
+- Çovdar
+- żyto
+- žito
+- Ашлык
+- Жито
+- Жыта
+- Рожь
+- ръж
+- Сылмæнæу (мыггаг)
+- Ыраш (кăк)
+- Қарабидай
+- שיפון
+- شيلم
+- چاودار
+- ’Рж
+- ライムギ属
+- 黑麥屬
+- 黑麦属
+- 호밀속
 has_id_wikidata: Q7215110
-parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Triticeae,148694]]"
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Triticeae,148694]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
-different_from: "[[_Standards/WikiData/WD~Q9397801,9397801]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Secale,39483258]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Secale_cereale,12099]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "42089"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
+different_from: '[[_Standards/WikiData/WD~Q9397801,9397801]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Secale,39483258]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Secale_cereale,12099]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 42089
 taxon_common_name:
-  - rye
-  - 黑麦属
-  - 黑麦属
+- rye
+- 黑麦属
+- 黑麦属
 Commons_category: Secale
 taxon_name: Secale
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wild%20rye.jpg
@@ -24,8 +54,74 @@ EPPO_Code: 1SECG
 MeSH_tree_code: B01.875.800.575.912.250.822.857
 UMLS_CUI: C1140674
 NBN_System_Key: NHMSYS0000463375
+dv_has_:
+  name_:
+    af: Secale
+    an: Secale
+    ar: شيلم
+    ast: Secale
+    az: Çovdar
+    be: Жыта
+    be-tarask: Жыта
+    bg: ръж
+    ca: Secale
+    ceb: Secale
+    cs: žito
+    cv: Ыраш (кăк)
+    da: rug
+    de: Roggen
+    de-ch: Roggen
+    en: Secale
+    en-ca: Secale
+    en-gb: Secale
+    eo: sekalo
+    es: Secale
+    eu: Secale
+    ext: Secale
+    fa: چاودار
+    fi: rukiit
+    fr: Secale
+    frr: Roog
+    ga: Secale
+    gl: Secale
+    he: שיפון
+    hr: Žito
+    hsb: Rožka
+    ia: Secale
+    ie: Secale
+    io: Secale
+    it: Secale
+    ja: ライムギ属
+    kk: Қарабидай
+    ko: 호밀속
+    la: Secale
+    lt: Rugys
+    lv: rudzi
+    mk: ’Рж
+    mul: Secale
+    nb: Rug
+    nl: Secale
+    oc: Secale
+    os: Сылмæнæу (мыггаг)
+    pl: żyto
+    pt: Secale
+    pt-br: Secale
+    ro: Secale
+    ru: Рожь
+    sk: raž
+    sq: Secale
+    sv: Rågsläktet
+    tr: Secale
+    tt: Ашлык
+    uk: Жито
+    vi: Secale
+    vo: Secale
+    war: Secale
+    zh: 黑麦属
+    zh-cn: 黑麦属
+    zh-hans: 黑麦属
+    zh-tw: 黑麥屬
 ---
-
 # [[Secale]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Secale,7215110]] 

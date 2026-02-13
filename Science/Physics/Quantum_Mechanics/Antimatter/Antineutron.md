@@ -1,28 +1,137 @@
 ---
 aliases:
-  - Antineutron
+- antineutroi
+- Antineutron
+- antineutrona
+- antineutronas
+- antineutrone
+- antineutroni
+- Antineutronu
+- antineutroon
+- antineutrão
+- antineutró
+- antineutrón
+- antinevtron
+- Antineytron
+- antineŭtrono
+- antinêutron
+- Antinötron
+- antinøytron
+- antyneutron
+- Antïneýtron
+- phản nơtron
+- αντινετρόνιο
+- антинейтрон
+- антинеутрон
+- Антынейтрон
+- антынэўтрон
+- Հականեյտրոն
+- אנטינייטרון
+- انتىينەيترون
+- مضاد نيوترون
+- پادنوترون
+- प्रतिन्यूट्रॉन
+- แอนตินิวตรอน
+- ანტინეიტრონი
+- 反中子
+- 反中性子
+- 반중성자
 has_id_wikidata: Q156530
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Bruce_Cork,4115407]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-subclass_of: "[[_Standards/WikiData/WD~antinucleon,28855250]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-antiparticle: "[[_Standards/WikiData/WD~neutron,2348]]"
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Bruce_Cork,4115407]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+subclass_of: '[[_Standards/WikiData/WD~antinucleon,28855250]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+antiparticle: '[[_Standards/WikiData/WD~neutron,2348]]'
 electric_charge: 0
 isospin_z_component: 0.5
 isospin_quantum_number: 0.5
 spin_quantum_number: 0.5
-OmegaWiki_Defined_Meaning: "1376311"
-Monte_Carlo_Particle_Number: "-2112"
+OmegaWiki_Defined_Meaning: 1376311
+Monte_Carlo_Particle_Number: -2112
 time_of_discovery_or_invention: 1956-01-01T00:00:00Z
 mass: 939.56542052
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quark%20structure%20antineutron.svg
+dv_has_:
+  name_:
+    ar: مضاد نيوترون
+    ast: Antineutrón
+    az: Antineytron
+    be: Антынейтрон
+    be-tarask: антынэўтрон
+    ca: antineutró
+    co: Antineutronu
+    cs: Antineutron
+    de: Antineutron
+    el: αντινετρόνιο
+    en: antineutron
+    en-ca: Antineutron
+    en-gb: Antineutron
+    eo: antineŭtrono
+    es: antineutrón
+    eu: antineutroi
+    fa: پادنوترون
+    fi: antineutroni
+    fr: antineutron
+    he: אנטינייטרון
+    hi: प्रतिन्यूट्रॉन
+    hr: antineutron
+    hu: antineutron
+    hy: Հականեյտրոն
+    id: Antineutron
+    it: antineutrone
+    ja: 反中性子
+    ka: ანტინეიტრონი
+    kk: Антинейтрон
+    kk-arab: انتىينەيترون
+    kk-cn: انتىينەيترون
+    kk-cyrl: Антинейтрон
+    kk-kz: Антинейтрон
+    kk-latn: Antïneýtron
+    kk-tr: Antïneýtron
+    ko: 반중성자
+    ky: Антинейтрон
+    lt: antineutronas
+    mk: антинеутрон
+    mr: प्रतिन्यूट्रॉन
+    nb: antinøytron
+    nds: Antineutron
+    nl: antineutron
+    nn: antinøytron
+    oc: Antineutron
+    pl: antyneutron
+    pt: antineutrão
+    pt-br: antinêutron
+    ro: Antineutron
+    ru: антинейтрон
+    se: antineutrona
+    sk: antineutrón
+    sl: antinevtron
+    smn: antineutroon
+    sms: antineutroon
+    sr: антинеутрон
+    sr-ec: антинеутрон
+    sr-el: antineutron
+    sv: antineutron
+    tg: Антинейтрон
+    th: แอนตินิวตรอน
+    tr: Antinötron
+    uk: антинейтрон
+    uz: Antineytron
+    vi: phản nơtron
+    yue: 反中子
+    zh: 反中子
+    zh-cn: 反中子
+    zh-hans: 反中子
+    zh-hant: 反中子
+    zh-hk: 反中子
+    zh-sg: 反中子
+    zh-tw: 反中子
 ---
-
 # [[Antineutron]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antineutron,156530|WD~Antineutron,156530]] 

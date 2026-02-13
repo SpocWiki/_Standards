@@ -1,54 +1,82 @@
 ---
-has_time_started: 1964-01-01 
+has_time_started: 1964-01-01
 aliases:
-  - Pink Floyd
-  - Pink_Floyd
+- Pink flojd
+- Pink Floyd
+- Pink_Floyd
+- Пинк флојд
+- Пинк Флойд
+- Փինք Ֆլոիտ
+- Փինք Ֆլոյդ
+- פינק פלויד
+- بينك فلويد
+- پنک فلائیڈ
+- پنک فلویڈ
+- پينک فلؤيد
+- پینک فلوید
+- پینک فلۆید
+- पिंक फ़्लॉइड
+- पिंक फ्लॉइड
+- পিংক ফ্লয়েড
+- ਪਿੰਕ ਫਲੋਇਡ
+- પિંક ફ્લોઇડ
+- பிங்க் ஃபிலாய்ட்
+- పింక్ ఫ్లాయిడ్
+- ಪಿಂಕ್ ಫ್ಲಾಯ್ಡ್
+- പിങ്ക് ഫ്ലോയ്ഡ്
+- พิงก์ฟลอยด์
+- პინკ ფლოიდი
+- ピンク・フロイド
+- 平克·佛洛伊德
+- 平克·弗洛伊德
+- 粉紅弗洛伊德
+- 핑크 플로이드
 has_id_wikidata: Q2306
 award_received:
-  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Instrumental_Performance,1542186]]'
+- '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Instrumental_Performance,1542186]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Syd_Barrett,173061]]'
-  - '[[_Standards/WikiData/WD~David_Gilmour,178517]]'
-  - '[[_Standards/WikiData/WD~Roger_Waters,180861]]'
-  - '[[_Standards/WikiData/WD~Richard_Wright,190251]]'
-  - '[[_Standards/WikiData/WD~Nick_Mason,192936]]'
-  - '[[_Standards/WikiData/WD~Bob_Klose,345373]]'
+- '[[_Standards/WikiData/WD~Syd_Barrett,173061]]'
+- '[[_Standards/WikiData/WD~David_Gilmour,178517]]'
+- '[[_Standards/WikiData/WD~Roger_Waters,180861]]'
+- '[[_Standards/WikiData/WD~Richard_Wright,190251]]'
+- '[[_Standards/WikiData/WD~Nick_Mason,192936]]'
+- '[[_Standards/WikiData/WD~Bob_Klose,345373]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~EMI,183412]]'
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~Parlophone,208909]]'
-  - '[[_Standards/WikiData/WD~Columbia_Graphophone_Co._Ltd.,1112471]]'
-  - '[[_Standards/WikiData/WD~Harvest,1324712]]'
-  - '[[_Standards/WikiData/WD~Tower_Records,2630076]]'
-  - '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
-  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~EMI,183412]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Parlophone,208909]]'
+- '[[_Standards/WikiData/WD~Columbia_Graphophone_Co._Ltd.,1112471]]'
+- '[[_Standards/WikiData/WD~Harvest,1324712]]'
+- '[[_Standards/WikiData/WD~Tower_Records,2630076]]'
+- '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+- '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
 genre:
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
-  - '[[_Standards/WikiData/WD~art_rock,217467]]'
-  - '[[_Standards/WikiData/WD~space_rock,236913]]'
-  - '[[_Standards/WikiData/WD~acid_rock,236932]]'
-  - '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
-  - '[[_Standards/WikiData/WD~proto_prog,3408028]]'
-  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+- '[[_Standards/WikiData/WD~art_rock,217467]]'
+- '[[_Standards/WikiData/WD~space_rock,236913]]'
+- '[[_Standards/WikiData/WD~acid_rock,236932]]'
+- '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
+- '[[_Standards/WikiData/WD~proto_prog,3408028]]'
+- '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Pink_Anderson,383926]]'
-  - '[[_Standards/WikiData/WD~Floyd_Council,714602]]'
+- '[[_Standards/WikiData/WD~Pink_Anderson,383926]]'
+- '[[_Standards/WikiData/WD~Floyd_Council,714602]]'
 represented_by:
-  - '[[_Standards/WikiData/WD~Blackhill_Enterprises,628852]]'
-  - '[[_Standards/WikiData/WD~EMKA_Productions,19845495]]'
-  - '[[_Standards/WikiData/WD~Bryan_Morrison_Agency,19845525]]'
+- '[[_Standards/WikiData/WD~Blackhill_Enterprises,628852]]'
+- '[[_Standards/WikiData/WD~EMKA_Productions,19845495]]'
+- '[[_Standards/WikiData/WD~Bryan_Morrison_Agency,19845525]]'
 discography: '[[_Standards/WikiData/WD~Pink_Floyd_discography,756304]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Concept_Video,1161113]]'
-  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Band_Duo_Group,1441676]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Instrumental_Performance,1542186]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Concept_Video,1161113]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Band_Duo_Group,1441676]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Instrumental_Performance,1542186]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
 director_manager: "[[_Standards/WikiData/WD~Steve_O'Rourke,2468051]]"
 instance_of: '[[_Standards/WikiData/WD~rock_band,5741069]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Pink_Floyd,8072295]]'
@@ -80,8 +108,167 @@ Bilibili_UID: 1706933058
 Wolfram_Language_entity_code: Entity["MusicAct", "PinkFloyd::7523m"]
 Libris_URI: hftwz6814tr2gqj
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
+dv_has_:
+  name_:
+    af: Pink Floyd
+    an: Pink Floyd
+    ar: بينك فلويد
+    arz: بينك فلويد
+    ast: Pink Floyd
+    ay: Pink Floyd
+    az: Pink Floyd
+    azb: پینک فلوید
+    bar: Pink Floyd
+    be: Pink Floyd
+    be-tarask: Pink Floyd
+    bg: Пинк Флойд
+    bn: পিংক ফ্লয়েড
+    br: Pink Floyd
+    bs: Pink Floyd
+    ca: Pink Floyd
+    ckb: پینک فلۆید
+    co: Pink Floyd
+    cs: Pink Floyd
+    cy: Pink Floyd
+    da: Pink Floyd
+    de: Pink Floyd
+    de-at: Pink Floyd
+    de-ch: Pink Floyd
+    el: Pink Floyd
+    eml: Pink Floyd
+    en: Pink Floyd
+    en-ca: Pink Floyd
+    en-gb: Pink Floyd
+    en-us: Pink Floyd
+    eo: Pink Floyd
+    es: Pink Floyd
+    et: Pink Floyd
+    eu: Pink Floyd
+    fa: پینک فلوید
+    fi: Pink Floyd
+    fit: Pink Floyd
+    fj: Pink Floyd
+    fo: Pink Floyd
+    fr: Pink Floyd
+    frp: Pink Floyd
+    fur: Pink Floyd
+    fy: Pink Floyd
+    ga: Pink Floyd
+    gd: Pink Floyd
+    gl: Pink Floyd
+    glk: پينک فلؤيد
+    gsw: Pink Floyd
+    gu: પિંક ફ્લોઇડ
+    ha: Pink Floyd
+    he: פינק פלויד
+    hi: पिंक फ़्लॉइड
+    hr: Pink Floyd
+    hsb: Pink Floyd
+    hu: Pink Floyd
+    hy: Փինք Ֆլոյդ
+    hyw: Փինք Ֆլոիտ
+    ia: Pink Floyd
+    id: Pink Floyd
+    ie: Pink Floyd
+    io: Pink Floyd
+    is: Pink Floyd
+    it: Pink Floyd
+    ja: ピンク・フロイド
+    ka: პინკ ფლოიდი
+    kaa: Pink Floyd
+    kab: Pink Floyd
+    kg: Pink Floyd
+    kk: Pink Floyd
+    kn: ಪಿಂಕ್ ಫ್ಲಾಯ್ಡ್
+    ko: 핑크 플로이드
+    ku: Pink Floyd
+    la: Pink Floyd
+    lb: Pink Floyd
+    li: Pink Floyd
+    lij: Pink Floyd
+    lmo: Pink Floyd
+    lrc: پینک فلوید
+    lt: Pink Floyd
+    ltg: Pink Floyd
+    lv: Pink Floyd
+    mg: Pink Floyd
+    min: Pink Floyd
+    mk: Пинк флојд
+    ml: പിങ്ക് ഫ്ലോയ്ഡ്
+    mn: Пинк Флойд
+    mr: पिंक फ्लॉइड
+    ms: Pink Floyd
+    mul: Pink Floyd
+    nah: Pink Floyd
+    nan: Pink Floyd
+    nap: Pink Floyd
+    nb: Pink Floyd
+    nds: Pink Floyd
+    nds-nl: Pink Floyd
+    nl: Pink Floyd
+    nn: Pink Floyd
+    nrm: Pink Floyd
+    oc: Pink Floyd
+    pa: ਪਿੰਕ ਫਲੋਇਡ
+    pap: Pink Floyd
+    pcd: Pink Floyd
+    pl: Pink Floyd
+    pms: Pink Floyd
+    pnb: پنک فلویڈ
+    pt: Pink Floyd
+    pt-br: Pink Floyd
+    qu: Pink Floyd
+    rm: Pink Floyd
+    rmf: Pink Floyd
+    ro: Pink Floyd
+    ru: Pink Floyd
+    sc: Pink Floyd
+    scn: Pink Floyd
+    sco: Pink Floyd
+    se: Pink Floyd
+    sh: Pink Floyd
+    sje: Pink Floyd
+    sju: Pink Floyd
+    sk: Pink Floyd
+    sl: Pink Floyd
+    sma: Pink Floyd
+    smj: Pink Floyd
+    smn: Pink Floyd
+    sms: Pink Floyd
+    sq: Pink Floyd
+    sr: Пинк флојд
+    sr-ec: Пинк флојд
+    sr-el: Pink flojd
+    sv: Pink Floyd
+    sw: Pink Floyd
+    szl: Pink Floyd
+    ta: பிங்க் ஃபிலாய்ட்
+    te: పింక్ ఫ్లాయిడ్
+    tg: Пинк Флойд
+    th: พิงก์ฟลอยด์
+    tl: Pink Floyd
+    tr: Pink Floyd
+    tt: Pink Floyd
+    uk: Pink Floyd
+    ur: پنک فلائیڈ
+    uz: Pink Floyd
+    vec: Pink Floyd
+    vi: Pink Floyd
+    vls: Pink Floyd
+    vo: Pink Floyd
+    wa: Pink Floyd
+    war: Pink Floyd
+    wo: Pink Floyd
+    wuu: 平克·弗洛伊德
+    xmf: Pink Floyd
+    yi: פינק פלויד
+    yue: 粉紅弗洛伊德
+    zh: 平克·弗洛伊德
+    zh-hans: 平克·弗洛伊德
+    zh-hant: 平克·佛洛伊德
+    zh-tw: 平克·佛洛伊德
+    zu: Pink Floyd
 ---
-
 # [[Pink_Floyd]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Pink_Floyd,2306|WD~Pink_Floyd,2306]] 

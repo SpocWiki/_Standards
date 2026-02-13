@@ -1,11 +1,94 @@
 ---
 aliases:
+- bậc dinh dưỡng
+- feeding level
+- leibhéal trófach
+- livello trofico
+- maila trofiko
+- niveau trophique
+- nivel trófico
+- Nivel tróficu
+- nivell tròfic
+- nível trófico
+- Poziom troficzny
+- Trofa nivelo
+- trofiataso
+- trofiese vlak
+- trofisch niveau
+- trofisk niveau
+- trofisk nivå
+- Trofički nivo
+- trofična raven
+- Troofiline tase
+- trophic level
+- Trophieniveau
+- táplálkozási szint
+- τροφικό επίπεδο
+- трафічны ўзровень
+- трофічний рівень
+- трофический уровень
+- трофички ниво
+- רמת הזנה
+- سطح پروردگی
+- مستوى غذائي
+- 栄養段階
+- 營養級
+- 营养级
+- 영양 단계
 has_id_wikidata: Q1053008
-part_of: "[[_Standards/WikiData/WD~food_chain,159462]]"
-instance_of: "[[_Standards/WikiData/WD~role,4897819]]"
-different_from: "[[_Standards/WikiData/WD~Trophic_level_index,7845626]]"
+part_of: '[[_Standards/WikiData/WD~food_chain,159462]]'
+instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
+different_from: '[[_Standards/WikiData/WD~Trophic_level_index,7845626]]'
+dv_has_:
+  name_:
+    af: trofiese vlak
+    ar: مستوى غذائي
+    ast: Nivel tróficu
+    be: трафічны ўзровень
+    be-tarask: трафічны ўзровень
+    ca: nivell tròfic
+    da: trofisk niveau
+    de: Trophieniveau
+    el: τροφικό επίπεδο
+    en: trophic level
+    en-ca: Trophic level
+    en-gb: Trophic level
+    eo: Trofa nivelo
+    es: nivel trófico
+    et: Troofiline tase
+    eu: maila trofiko
+    fa: سطح پروردگی
+    fi: trofiataso
+    fr: niveau trophique
+    ga: leibhéal trófach
+    gl: Nivel trófico
+    he: רמת הזנה
+    hu: táplálkozási szint
+    id: feeding level
+    it: livello trofico
+    ja: 栄養段階
+    ko: 영양 단계
+    nb: trofisk nivå
+    nl: trofisch niveau
+    nn: trofisk nivå
+    pl: Poziom troficzny
+    pt: nível trófico
+    pt-br: Nível trófico
+    ru: трофический уровень
+    sh: Trofički nivo
+    sl: trofična raven
+    sr: трофички ниво
+    sr-ec: трофички ниво
+    sv: trofisk nivå
+    uk: трофічний рівень
+    vi: bậc dinh dưỡng
+    wuu: 营养级
+    yue: 營養級
+    zh: 營養級
+    zh-hans: 营养级
+    zh-hant: 營養級
+    zh-hk: 營養級
 ---
-
 # [[Trophic_Level]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Trophic_level,1053008|WD~Trophic_level,1053008]]  

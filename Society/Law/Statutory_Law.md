@@ -1,19 +1,93 @@
 ---
 aliases:
+- Derecho estatutario
+- dereito estatutario
+- dlí reachtúil
+- Drept statutar
+- dret estatutari
+- estatutu-zuzenbide
+- lei estatutária
+- loi statutaire
+- luật thành văn
+- meşru hukuk
+- Nizamnamə qanunu
+- statute law
+- statutinė teisė
+- statutory law
+- tételes jog
+- undang-undang berkanun
+- Zakon
+- zakonsko pravo
+- νόμος
+- статут хокукы
+- статутарни закон
+- статутнае права
+- статутне право
+- Статутно право
+- статутное право
+- חוק סטטוטורי
+- قانون تشريعي
+- सांविधिक कानून
+- সংবিধিবদ্ধ আইন
+- ව්යවස්ථාපිත නීතිය
+- 成文法
+- 성문법
 has_id_wikidata: Q7766927
 different_from:
-  - "[[_Standards/WikiData/WD~universal_law,105210]]"
-  - "[[_Standards/WikiData/WD~common_law,30216]]"
-opposite_of: "[[_Standards/WikiData/WD~non_statutory_law,1144567]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q1519092,1519092]]"
-has_part_s_: "[[_Standards/WikiData/WD~Act_of_the_Parliament_of_the_United_Kingdom,4677783]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_law,63718619]]"
-depicted_by: "[[_Standards/WikiData/WD~Four_ages_of_Woman_and_the_Written_Law,131812904]]"
-subclass_of: "[[_Standards/WikiData/WD~law,7748]]"
-part_of: "[[_Standards/WikiData/WD~common_law,30216]]"
+- '[[_Standards/WikiData/WD~universal_law,105210]]'
+- '[[_Standards/WikiData/WD~common_law,30216]]'
+opposite_of: '[[_Standards/WikiData/WD~non_statutory_law,1144567]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1519092,1519092]]'
+has_part_s_: '[[_Standards/WikiData/WD~Act_of_the_Parliament_of_the_United_Kingdom,4677783]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+depicted_by: '[[_Standards/WikiData/WD~Four_ages_of_Woman_and_the_Written_Law,131812904]]'
+subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
+part_of: '[[_Standards/WikiData/WD~common_law,30216]]'
 Commons_category: Law
+dv_has_:
+  name_:
+    ar: قانون تشريعي
+    az: Nizamnamə qanunu
+    be-tarask: статутнае права
+    bg: Статутно право
+    bn: সংবিধিবদ্ধ আইন
+    ca: dret estatutari
+    da: statute law
+    de: Statute Law
+    de-ch: Statute Law
+    el: νόμος
+    en: statutory law
+    en-ca: Statutory law
+    en-gb: statutory law
+    es: Derecho estatutario
+    eu: estatutu-zuzenbide
+    fr: loi statutaire
+    ga: dlí reachtúil
+    gl: dereito estatutario
+    he: חוק סטטוטורי
+    hi: सांविधिक कानून
+    hu: tételes jog
+    ja: 成文法
+    ko: 성문법
+    lt: statutinė teisė
+    ms: undang-undang berkanun
+    pt: lei estatutária
+    ro: Drept statutar
+    ru: статутное право
+    sh: Zakon
+    si: ව්යවස්ථාපිත නීතිය
+    sl: zakonsko pravo
+    sr: статутарни закон
+    tr: meşru hukuk
+    tt: статут хокукы
+    uk: статутне право
+    vi: luật thành văn
+    yue: 成文法
+    zh: 成文法
+    zh-cn: 成文法
+    zh-hans: 成文法
+    zh-hant: 成文法
 ---
-
 # [[Statutory_Law]] 
 
 #is_/same_as :: [[../../WikiData/WD~Statutory_law,7766927|WD~Statutory_law,7766927]] 

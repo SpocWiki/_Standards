@@ -1,80 +1,110 @@
 ---
 aliases:
-  - Jean-Paul_Belmondo
-  - Jean-Paul Charles Belmondo
-  - Jean-Paul Belmondo
-  - Belmondo
-  - Bebel
-  - Belmondo,Jean-Paul
+- Bebel
+- Belmondo
+- Belmondo,Jean-Paul
+- Ioannes Paulus Belmondo
+- Jan Pol Belmondo
+- Jean Belmondo
+- Jean-Paul Belmondo
+- Jean-Paul Charles Belmondo
+- Jean-Paul_Belmondo
+- Žan Pol' Bel'mondo
+- Žan-Pol Belmondo
+- Žans Pols Belmondo
+- Ζαν Πολ Μπελμοντό
+- Белмондо Жан Пол
+- Жан Пол Белмондо
+- Жан-Пол Белмондо
+- Жан-Поль Бельмандо
+- Жан-Поль Бельмондо
+- Жан-Поль Бэльмандо
+- Жан-Поль Бэльмондо
+- Ժան Պոլ Բելմոնդո
+- Ժան-Փոլ Պելմոնտօ
+- ז'אן-פול בלמונדו
+- جان بول بلموندو
+- ژان-پل بلموندو
+- ژانپل بلموندو
+- ਜੀਨ ਪੌਲ ਬੈਲਮੋਂਡੋ
+- ஜீன்-பால் பெல்மொண்டோ
+- ജീൻ-പോൾ ബേമോണ്ട്മോ
+- ჟან-პოლ ბელმონდო
+- ジャン＝ポール・ベルモンド
+- 尚-保罗·贝蒙多
+- 尚保羅貝蒙多
+- 楊波·貝蒙
+- 让-保罗·贝尔蒙多
+- 장폴 벨몽도
 has_id_wikidata: Q106255
 child:
-  - '[[_Standards/WikiData/WD~Paul_Belmondo,171557]]'
-  - '[[_Standards/WikiData/WD~Stella_Belmondo,100308188]]'
-  - '[[_Standards/WikiData/WD~Patricia_Belmondo,108440948]]'
-  - '[[_Standards/WikiData/WD~Florence_Belmondo,108440999]]'
+- '[[_Standards/WikiData/WD~Paul_Belmondo,171557]]'
+- '[[_Standards/WikiData/WD~Stella_Belmondo,100308188]]'
+- '[[_Standards/WikiData/WD~Patricia_Belmondo,108440948]]'
+- '[[_Standards/WikiData/WD~Florence_Belmondo,108440999]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~funeral,201676]]'
-  - '[[_Standards/WikiData/WD~National_tribute,30748066]]'
+- '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~National_tribute,30748066]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
-  - '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
-  - "[[_Standards/WikiData/WD~Honorary_Palme_d'Or,1321674]]"
-  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
-  - '[[_Standards/WikiData/WD~Prix_Citron,_Orange_et_Bourgeon,3404470]]'
-  - '[[_Standards/WikiData/WD~Q3404498,3404498]]'
-  - '[[_Standards/WikiData/WD~Prix_du_Brigadier,3405661]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_Merit,13422142]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_Merit,13422141]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]'
+- '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
+- "[[_Standards/WikiData/WD~Honorary_Palme_d'Or,1321674]]"
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Prix_Citron,_Orange_et_Bourgeon,3404470]]'
+- '[[_Standards/WikiData/WD~Q3404498,3404498]]'
+- '[[_Standards/WikiData/WD~Prix_du_Brigadier,3405661]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_National_Order_of_Merit,13422142]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_Merit,13422141]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_Leopold,14900497]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
-  - '[[_Standards/WikiData/WD~Laura_Antonelli,239404]]'
+- '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
+- '[[_Standards/WikiData/WD~Laura_Antonelli,239404]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~acting,222749]]'
-  - '[[_Standards/WikiData/WD~filmmaking,932586]]'
-  - '[[_Standards/WikiData/WD~directing,93438884]]'
+- '[[_Standards/WikiData/WD~acting,222749]]'
+- '[[_Standards/WikiData/WD~filmmaking,932586]]'
+- '[[_Standards/WikiData/WD~directing,93438884]]'
 place_of_death: '[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Actor,900494]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
-  - "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
-  - '[[_Standards/WikiData/WD~École_alsacienne,3577716]]'
+- '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
+- "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
+- '[[_Standards/WikiData/WD~École_alsacienne,3577716]]'
 father: '[[_Standards/WikiData/WD~Paul_Belmondo,1145608]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Alain_Belmondo,2829544]]'
-  - '[[_Standards/WikiData/WD~Muriel_Belmondo,108732335]]'
+- '[[_Standards/WikiData/WD~Alain_Belmondo,2829544]]'
+- '[[_Standards/WikiData/WD~Muriel_Belmondo,108732335]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Charles,2958359]]'
-  - '[[_Standards/WikiData/WD~Jean_Paul,16798217]]'
+- '[[_Standards/WikiData/WD~Charles,2958359]]'
+- '[[_Standards/WikiData/WD~Jean_Paul,16798217]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Georges_Le_Roy,3103055]]'
-  - '[[_Standards/WikiData/WD~Henri_Rollan,3131932]]'
-  - '[[_Standards/WikiData/WD~Marcel_Bazin,3288655]]'
-  - '[[_Standards/WikiData/WD~Raymond_Girard,21427338]]'
+- '[[_Standards/WikiData/WD~Georges_Le_Roy,3103055]]'
+- '[[_Standards/WikiData/WD~Henri_Rollan,3131932]]'
+- '[[_Standards/WikiData/WD~Marcel_Bazin,3288655]]'
+- '[[_Standards/WikiData/WD~Raymond_Girard,21427338]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Natty_Tardivel,3337073]]'
-  - '[[_Standards/WikiData/WD~Élodie_Constant,108434817]]'
+- '[[_Standards/WikiData/WD~Natty_Tardivel,3337073]]'
+- '[[_Standards/WikiData/WD~Élodie_Constant,108434817]]'
 member_of: '[[_Standards/WikiData/WD~Q3508321,3508321]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Belmondo,21508643]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~The_Times,50008]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~The_Times,50008]]'
 relative: '[[_Standards/WikiData/WD~Victor_Belmondo,78469279]]'
 position_held: '[[_Standards/WikiData/WD~Q123701756,123701756]]'
 medical_condition: '[[_Standards/WikiData/WD~stroke,12202]]'
@@ -98,10 +128,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Belmondo%201960.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Belmondo%20signature%202012.png
 ISNI: 0000000121486124
 RIA_Novosti_reference:
-  - 1748926085
-  - 931215983
+- 1748926085
+- 931215983
+dv_has_:
+  name_:
+    ar: جان بول بلموندو
+    arz: جان بول بلموندو
+    az: Jan Pol Belmondo
+    azb: ژان-پل بلموندو
+    ba: Жан-Поль Бельмондо
+    be: Жан-Поль Бельмандо
+    be-tarask: Жан-Поль Бэльмандо
+    bg: Жан-Пол Белмондо
+    cs: Jean Belmondo
+    el: Ζαν Πολ Μπελμοντό
+    en: Jean-Paul Belmondo
+    fa: ژانپل بلموندو
+    fr: Jean-Paul Belmondo
+    he: ז'אן-פול בלמונדו
+    hif: Jean-Paul Belmondo
+    hy: Ժան Պոլ Բելմոնդո
+    hyw: Ժան-Փոլ Պելմոնտօ
+    ja: ジャン＝ポール・ベルモンド
+    ka: ჟან-პოლ ბელმონდო
+    kk: Жан-Поль Бельмондо
+    ko: 장폴 벨몽도
+    la: Ioannes Paulus Belmondo
+    lad: Jean-Paul Belmondo
+    lv: Žans Pols Belmondo
+    mdf: Жан-Поль Бэльмондо
+    mk: Жан Пол Белмондо
+    ml: ജീൻ-പോൾ ബേമോണ്ട്മോ
+    mn: Жан-Поль Бельмондо
+    mul: Jean-Paul Belmondo
+    nds: Jean-Paul Belmondo
+    nds-nl: Jean-Paul Belmondo
+    nl: Jean-Paul Belmondo
+    nn: Jean-Paul Belmondo
+    nrm: Jean-Paul Belmondo
+    oc: Jean-Paul Belmondo
+    pa: ਜੀਨ ਪੌਲ ਬੈਲਮੋਂਡੋ
+    pap: Jean-Paul Belmondo
+    pcd: Jean-Paul Belmondo
+    pl: Jean-Paul Belmondo
+    pms: Jean-Paul Belmondo
+    prg: Jean-Paul Belmondo
+    pt: Jean-Paul Belmondo
+    pt-br: Jean-Paul Belmondo
+    qu: Jean-Paul Belmondo
+    rgn: Jean-Paul Belmondo
+    rm: Jean-Paul Belmondo
+    rn: Jean-Paul Belmondo
+    ro: Jean-Paul Belmondo
+    ru: Жан-Поль Бельмондо
+    sah: Jean-Paul Belmondo
+    sc: Jean-Paul Belmondo
+    scn: Jean-Paul Belmondo
+    sco: Jean-Paul Belmondo
+    sdc: Jean-Paul Belmondo
+    sh: Jean-Paul Belmondo
+    sk: Jean-Paul Belmondo
+    sl: Jean-Paul Belmondo
+    sq: Jean-Paul Belmondo
+    sr: Жан-Пол Белмондо
+    sr-el: Žan-Pol Belmondo
+    sv: Jean-Paul Belmondo
+    sw: Jean-Paul Belmondo
+    ta: ஜீன்-பால் பெல்மொண்டோ
+    tg: Белмондо Жан Пол
+    tly: Jean-Paul Belmondo
+    tr: Jean-Paul Belmondo
+    uk: Жан-Поль Бельмондо
+    vec: Jean-Paul Belmondo
+    vep: Žan Pol' Bel'mondo
+    vi: Jean-Paul Belmondo
+    vls: Jean-Paul Belmondo
+    vmf: Jean-Paul Belmondo
+    vo: Jean-Paul Belmondo
+    wa: Jean-Paul Belmondo
+    war: Jean-Paul Belmondo
+    wo: Jean-Paul Belmondo
+    wuu: 让-保罗·贝尔蒙多
+    xmf: ჟან-პოლ ბელმონდო
+    yue: 尚保羅貝蒙多
+    zh: 让-保罗·贝尔蒙多
+    zh-hant: 尚保羅貝蒙多
+    zh-my: 尚-保罗·贝蒙多
+    zh-sg: 尚-保罗·贝蒙多
+    zh-tw: 楊波·貝蒙
+    zu: Jean-Paul Belmondo
 ---
-
 # [[Belmondo,Jean-Paul]] 
 
 #is_/same_as :: [[WD~Jean-Paul_Belmondo,106255]] 

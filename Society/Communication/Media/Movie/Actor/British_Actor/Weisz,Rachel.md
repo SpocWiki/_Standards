@@ -1,8 +1,181 @@
 ---
 aliases:
-  - Rachel Weisz
-  - Weisz,Rachel
+- Rachel Weisz
+- Rachel Weiszová
+- Reičela Vaisa
+- Rejčel Vajs
+- Reyçel Vays
+- Weisz,Rachel
+- Ρέιτσελ Βάις
+- Рејчел Вајс
+- Рейчел Вайс
+- Рейчъл Вайс
+- Рэйчел Вайс
+- Рэйчэл Вайз
+- Рэйчэл Вайс
+- Ռեյչել Ուայզ
+- רייצ'ל וייס
+- ريتشل وايز
+- ریچل وایز
+- ریچل وایس
+- ریچل وایِز
+- ڕەیچڵ ڤایس
+- रेचल वाइज़
+- র্যাচেল ভাইস
+- ਰਾਚੇਲ ਵੇਜ਼
+- રચેલ વેઇઝ
+- ரேச்சல் வய்ஸ்
+- రాచెల్ వీజ్
+- റേച്ചൽ വീസ്
+- เรเชล ไวสซ์
+- რეიჩელ ვაისი
+- レイチェル・ワイズ
+- 瑞切尔·薇兹
+- 瑞秋·怀兹
+- 瑞秋·懷茲
+- 蕾切尔·薇兹
+- 雷切尔·韦姿
+- 麗素·慧絲
+- 麗素慧絲
+- 레이철 바이스
 has_id_wikidata: Q134077
+dv_has_:
+  name_:
+    af: Rachel Weisz
+    an: Rachel Weisz
+    ang: Rachel Weisz
+    ar: ريتشل وايز
+    arz: ريتشل وايز
+    ast: Rachel Weisz
+    az: Reyçel Vays
+    azb: ریچل وایس
+    bar: Rachel Weisz
+    be: Рэйчэл Вайс
+    be-tarask: Рэйчэл Вайз
+    bg: Рейчъл Вайс
+    bn: র্যাচেল ভাইস
+    br: Rachel Weisz
+    ca: Rachel Weisz
+    ckb: ڕەیچڵ ڤایس
+    co: Rachel Weisz
+    cs: Rachel Weiszová
+    cy: Rachel Weisz
+    da: Rachel Weisz
+    de: Rachel Weisz
+    de-at: Rachel Weisz
+    de-ch: Rachel Weisz
+    el: Ρέιτσελ Βάις
+    en: Rachel Weisz
+    en-ca: Rachel Weisz
+    en-gb: Rachel Weisz
+    eo: Rachel Weisz
+    es: Rachel Weisz
+    et: Rachel Weisz
+    eu: Rachel Weisz
+    fa: ریچل وایس
+    fi: Rachel Weisz
+    fr: Rachel Weisz
+    frp: Rachel Weisz
+    fur: Rachel Weisz
+    fy: Rachel Weisz
+    ga: Rachel Weisz
+    gd: Rachel Weisz
+    gl: Rachel Weisz
+    gsw: Rachel Weisz
+    gu: રચેલ વેઇઝ
+    he: רייצ'ל וייס
+    hi: रेचल वाइज़
+    hr: Rachel Weisz
+    hu: Rachel Weisz
+    hy: Ռեյչել Ուայզ
+    ia: Rachel Weisz
+    id: Rachel Weisz
+    ie: Rachel Weisz
+    ig: Rachel Weisz
+    io: Rachel Weisz
+    is: Rachel Weisz
+    it: Rachel Weisz
+    ja: レイチェル・ワイズ
+    ka: რეიჩელ ვაისი
+    kg: Rachel Weisz
+    kk: Рэйчел Вайс
+    kl: Rachel Weisz
+    ko: 레이철 바이스
+    ks: ریچل وایِز
+    la: Rachel Weisz
+    lb: Rachel Weisz
+    li: Rachel Weisz
+    lij: Rachel Weisz
+    lt: Rachel Weisz
+    lv: Reičela Vaisa
+    mg: Rachel Weisz
+    min: Rachel Weisz
+    mk: Рејчел Вајс
+    ml: റേച്ചൽ വീസ്
+    mn: Рэйчел Вайс
+    ms: Rachel Weisz
+    mul: Rachel Weisz
+    nan: Rachel Weisz
+    nap: Rachel Weisz
+    nb: Rachel Weisz
+    nds: Rachel Weisz
+    nds-nl: Rachel Weisz
+    nl: Rachel Weisz
+    nn: Rachel Weisz
+    nrm: Rachel Weisz
+    nys: Rachel Weisz
+    oc: Rachel Weisz
+    pa: ਰਾਚੇਲ ਵੇਜ਼
+    pap: Rachel Weisz
+    pcd: Rachel Weisz
+    pl: Rachel Weisz
+    pms: Rachel Weisz
+    pnb: ریچل وایز
+    pt: Rachel Weisz
+    pt-br: Rachel Weisz
+    rm: Rachel Weisz
+    ro: Rachel Weisz
+    ru: Рэйчел Вайс
+    sc: Rachel Weisz
+    scn: Rachel Weisz
+    sco: Rachel Weisz
+    sh: Rachel Weisz
+    sk: Rachel Weiszová
+    sl: Rachel Weisz
+    sq: Rachel Weisz
+    sr: Рејчел Вајс
+    sr-ec: Рејчел Вајс
+    sr-el: Rejčel Vajs
+    sv: Rachel Weisz
+    sw: Rachel Weisz
+    ta: ரேச்சல் வய்ஸ்
+    te: రాచెల్ వీజ్
+    th: เรเชล ไวสซ์
+    tl: Rachel Weisz
+    tr: Rachel Weisz
+    uk: Рейчел Вайс
+    ur: ریچل وایس
+    uz: Rachel Weisz
+    vec: Rachel Weisz
+    vi: Rachel Weisz
+    vls: Rachel Weisz
+    vo: Rachel Weisz
+    wa: Rachel Weisz
+    war: Rachel Weisz
+    wo: Rachel Weisz
+    wuu: 蕾切尔·薇兹
+    xmf: რეიჩელ ვაისი
+    yo: Rachel Weisz
+    yue: 麗素慧絲
+    zh: 麗素·慧絲
+    zh-cn: 瑞切尔·薇兹
+    zh-hans: 瑞切尔·薇兹
+    zh-hant: 瑞秋·懷茲
+    zh-hk: 麗素·慧絲
+    zh-my: 瑞秋·怀兹
+    zh-sg: 雷切尔·韦姿
+    zh-tw: 瑞秋·懷茲
+    zu: Rachel Weisz
 ---
 # [[Weisz,Rachel]] 
 

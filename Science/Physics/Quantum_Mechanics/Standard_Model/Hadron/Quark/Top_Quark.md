@@ -1,23 +1,65 @@
 ---
 aliases:
-  - truth quark
-  - top quark
-  - top-quark
-  - top_quark
-  - Top_Quark
-  - Top Quark
+- aukščiausiasis kvarkas
+- barrchuarc
+- bawbaw nga quark
+- cuark cima
+- ibabaw na quark
+- kuark atas
+- Kuark top
+- kvark t
+- kwark t
+- quarcul top
+- quarcum summum
+- quark cume
+- quark t
+- quark top
+- quark visu
+- quark đỉnh
+- t kvarks
+- t-kvark
+- t-kvarkki
+- t-kvarko
+- T-quarko
+- t-кварк
+- t-քվարկ
+- t-კვარკი
+- tontor quark
+- top kvark
+- top quark
+- top-kvark
+- top-quark
+- topkwark
+- toppkvark
+- top_quark
+- truth quark
+- vršni kvark
+- üst kuark
+- τοπ κουάρκ
+- врвен кварк
+- топ кварк
+- קווארק עליון
+- اتلا کوارک
+- كوارك قمي
+- کوارک سر
+- टॉप क्वार्क
+- টপ কোৱাৰ্ক
+- トップクォーク
+- 頂夸克
+- 꼭대기 쿼크
+- 꼭대기쿼크
 has_id_wikidata: Q6778
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 antiparticle: '[[_Standards/WikiData/WD~top_antiquark,11905754]]'
 has_superpartner: '[[_Standards/WikiData/WD~stop_squark,18732748]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~quark,6718]]'
-  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
 research_site: '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]'
@@ -25,8 +67,71 @@ Monte_Carlo_Particle_Number: 6
 mass: 172.57
 electric_charge: 0.6666666666666666
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Top%20quark.svg
+dv_has_:
+  name_:
+    af: topkwark
+    ar: كوارك قمي
+    as: টপ কোৱাৰ্ক
+    ast: quark visu
+    be: t-кварк
+    be-tarask: t-кварк
+    bg: топ кварк
+    ca: quark t
+    cs: kvark t
+    da: top-kvark
+    de: Top-Quark
+    el: τοπ κουάρκ
+    en: top quark
+    en-ca: Top quark
+    en-gb: Top quark
+    eo: t-kvarko
+    es: cuark cima
+    et: t-kvark
+    eu: tontor quark
+    fa: کوارک سر
+    fi: t-kvarkki
+    fr: quark top
+    ga: barrchuarc
+    gl: quark cume
+    he: קווארק עליון
+    hi: टॉप क्वार्क
+    hr: vršni kvark
+    hu: top kvark
+    hy: t-քվարկ
+    id: Kuark top
+    io: T-quarko
+    it: quark top
+    ja: トップクォーク
+    ka: t-კვარკი
+    ko: 꼭대기 쿼크
+    ko-kp: 꼭대기쿼크
+    la: quarcum summum
+    lt: aukščiausiasis kvarkas
+    lv: t kvarks
+    mk: врвен кварк
+    ms: kuark atas
+    nb: toppkvark
+    nl: top-quark
+    nn: t-kvark
+    oc: quark top
+    pl: kwark t
+    pnb: اتلا کوارک
+    pt: quark top
+    pt-br: quark top
+    ro: quarcul top
+    ru: t-кварк
+    sh: vršni kvark
+    sk: kvark t
+    sl: Kvark t
+    sr: vršni kvark
+    tl: ibabaw na quark
+    tr: üst kuark
+    uk: t-кварк
+    vi: quark đỉnh
+    war: bawbaw nga quark
+    yue: 頂夸克
+    zh: 頂夸克
 ---
-
 # [[Top_Quark]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Top_quark,6778|WD~Top_quark,6778]] 

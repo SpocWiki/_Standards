@@ -1,28 +1,296 @@
 ---
 aliases:
-  - East Africa
-  - Eastern Africa
-  - Eastern_Africa
-  - East of Africa
-  - Africa~East
+- Afelika ya Lunene
+- Afilíka ya Ɛ́sita
+- Afirika agan̄ Mbum-ura
+- Afi̱rika A̱tyin
+- Africa de Est
+- Africa de l'Èst
+- Africa du Levant
+- Africa este
+- Africa orientale
+- Africa Orientalis
+- Africa Orientałe
+- Africa~East
+- Afrik lès
+- Afrika ar Reter
+- Afrika Atsinanana
+- Afrika Bohlabela
+- Afrika lindore
+- Afrika Nasidlangan
+- Afrika Rocvetışi
+- Afrika Timu
+- Afrika Timur
+- Afrika Tèmor
+- Afrika Wétan
+- Afrika ya Mashariki
+- Afrique de l'Est
+- Afryka Wschodnia
+- Afurika ye Mabvazuva
+- an Afraic Thoir
+- Arshsho Afriqqaa
+- Aslagan Africa
+- Aust-Afrika
+- Austrumāfrika
+- Austur-Afríka
+- Baha Afrikaa
+- Bariga Afrika
+- Daya nga Aprika
+- Doğu Afrika
+- Dwyrain Affrica
+- East Africa
+- East Africae
+- East of Africa
+- East-Afrika
+- Eastern Africa
+- Eastern_Africa
+- Ekialdeko Afrika
+- Est-Afrika
+- Gabashin Afirka
+- Gündogar Afrika
+- Ida-Aafrika
+- Imiterere ya Afurika y'Iburasirazuba n'ibidukikije byaho
+- Istočna Afrika
+- Itä-Afrikka
+- Kelet-Afrika
+- Nuorta-Afrihká
+- Nuorttâ-Afrik
+- Nuõrtt-Afrikk
+- Oas-Afrika
+- Oos-Afrika
+- Oost-Afrika
+- Orientafriko
+- Ostafrika
+- Penku Afrig
+- Ronefa Afrika
+- Rytų Afrika
+- Sharqiy afrika
+- Shıǵıs Afrika
+- Silangang Aprika
+- Sinirangan nga Apriká
+- Subangan na Aprika
+- Tafriqt Usamar
+- Tang Hui-chiu
+- Uastafrikoo
+- Vzhodna Afrika
+- Východná Afrika
+- Východní Afrika
+- Weschodniŏ Afryka
+- Àfrica oriental
+- Àfrica orientale
+- África Oriental
+- Ìlaòrùn Áfríkà
+- Östafrika
+- Øst-Afrika
+- Østafrika
+- Đông Phi
+- Şərqi Afrika
+- Ανατολική Αφρική
+- Африқои Шарқӣ
+- Восточная Африка
+- Дорно Африк
+- Източна Африка
+- Илин Африка
+- Источна Африка
+- Көнсығыш Африка
+- Көнчыгыш Африка
+- Східна Африка
+- Тухăç Африка
+- Усходняя Афрыка
+- Чыгыш Африка
+- Шиньстямаширень Африкась
+- Шығыс Африка
+- Արևելյան Աֆրիկա
+- מזרח אפריקה
+- اوڀر آفريڪا
+- ختيځه افريقا
+- دوغو آفریقا
+- شرق آفریقا
+- شرق إفريقيا
+- شرق افريقيا
+- مشرقی افریقہ
+- چڑھدا افریقہ
+- ڕۆژھەڵاتی ئەفریقا
+- ߕߟߋ߬ߓߐ ߊߝߙߌߞߌ߬
+- पूर्व आफ्रिका
+- पूर्वी अफ्रीका
+- পূর্ব আফ্রিকা
+- ਪੂਰਬੀ ਅਫ਼ਰੀਕਾ
+- கிழக்கு ஆபிரிக்கா
+- ಪೂರ್ವ ಆಫ್ರಿಕಾ
+- แอฟริกาตะวันออก
+- აღმოსავლეთი აფრიკა
+- ბჟაეიოლი აფრიკა
+- ምሥራቅ አፍሪካ
+- អាហ្វ្រិកខាងកើត
+- ᱥᱟᱢᱟᱝ ᱟᱯᱷᱨᱤᱠᱟ
+- ⵜⴰⴼⵔⵉⵇⵜ ⵜⴰⴳⵎⵓⴹⴰⵏⵜ
+- 东部非洲
+- 東アフリカ
+- 東非
+- 동아프리카
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]"
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]"
+- '[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]'
 has_id_wikidata: Q27407
+dv_has_:
+  name_:
+    ace: Afrika Timu
+    af: Oos-Afrika
+    am: ምሥራቅ አፍሪካ
+    ann: Afirika agan̄ Mbum-ura
+    ar: شرق إفريقيا
+    arz: شرق افريقيا
+    ast: África Oriental
+    avk: Ronefa Afrika
+    az: Şərqi Afrika
+    azb: دوغو آفریقا
+    ba: Көнсығыш Африка
+    bcl: Subangan na Aprika
+    be: Усходняя Афрыка
+    be-tarask: Усходняя Афрыка
+    bg: Източна Африка
+    bn: পূর্ব আফ্রিকা
+    br: Afrika ar Reter
+    bs: Istočna Afrika
+    ca: Àfrica oriental
+    ckb: ڕۆژھەڵاتی ئەفریقا
+    co: Africa orientale
+    cs: Východní Afrika
+    cv: Тухăç Африка
+    cy: Dwyrain Affrica
+    da: Østafrika
+    de: Ostafrika
+    diq: Afrika Rocvetışi
+    el: Ανατολική Αφρική
+    en: East Africa
+    eo: Orientafriko
+    es: África Oriental
+    et: Ida-Aafrika
+    eu: Ekialdeko Afrika
+    fa: شرق آفریقا
+    fi: Itä-Afrikka
+    fr: Afrique de l'Est
+    frp: Africa du Levant
+    frr: Uastafrikoo
+    fy: East-Afrika
+    ga: an Afraic Thoir
+    gl: África oriental
+    ha: Gabashin Afirka
+    he: מזרח אפריקה
+    hi: पूर्वी अफ्रीका
+    hr: Istočna Afrika
+    ht: Afrik lès
+    hu: Kelet-Afrika
+    hy: Արևելյան Աֆրիկա
+    id: Afrika Timur
+    ilo: Daya nga Aprika
+    io: Est-Afrika
+    is: Austur-Afríka
+    it: Africa orientale
+    ja: 東アフリカ
+    jv: Afrika Wétan
+    ka: აღმოსავლეთი აფრიკა
+    kaa: Shıǵıs Afrika
+    kab: Tafriqt Usamar
+    kcg: Afi̱rika A̱tyin
+    kg: Afelika ya Lunene
+    kk: Шығыс Африка
+    km: អាហ្វ្រិកខាងកើត
+    kn: ಪೂರ್ವ ಆಫ್ರಿಕಾ
+    ko: 동아프리카
+    krj: Afrika Nasidlangan
+    ks: مشرقی افریقہ
+    ky: Чыгыш Африка
+    la: Africa Orientalis
+    lb: Ostafrika
+    lfn: Africa este
+    li: Oas-Afrika
+    ln: Afilíka ya Ɛ́sita
+    lt: Rytų Afrika
+    lv: Austrumāfrika
+    mad: Afrika Tèmor
+    mdf: Шиньстямаширень Африкась
+    mg: Afrika Atsinanana
+    min: Afrika Timur
+    mk: Источна Африка
+    mn: Дорно Африк
+    mr: पूर्व आफ्रिका
+    ms: Afrika Timur
+    nan: Tang Hui-chiu
+    nb: Øst-Afrika
+    nl: Oost-Afrika
+    nn: Aust-Afrika
+    nqo: ߕߟߋ߬ߓߐ ߊߝߙߌߞߌ߬
+    nso: Afrika Bohlabela
+    oc: Africa de l'Èst
+    om: Baha Afrikaa
+    pa: ਪੂਰਬੀ ਅਫ਼ਰੀਕਾ
+    pam: Aslagan Africa
+    pl: Afryka Wschodnia
+    pnb: چڑھدا افریقہ
+    ps: ختيځه افريقا
+    pt: África Oriental
+    pt-br: África Oriental
+    ro: Africa de Est
+    ru: Восточная Африка
+    rw: Imiterere ya Afurika y'Iburasirazuba n'ibidukikije byaho
+    sah: Илин Африка
+    sat: ᱥᱟᱢᱟᱝ ᱟᱯᱷᱨᱤᱠᱟ
+    sc: Àfrica orientale
+    sco: East Africae
+    sd: اوڀر آفريڪا
+    se: Nuorta-Afrihká
+    sh: Istočna Afrika
+    sk: Východná Afrika
+    sl: Vzhodna Afrika
+    smn: Nuorttâ-Afrik
+    sms: Nuõrtt-Afrikk
+    sn: Afurika ye Mabvazuva
+    so: Bariga Afrika
+    sq: Afrika lindore
+    sr: Источна Африка
+    sr-ec: Источна Африка
+    st: Afrika Bohlabela
+    sv: Östafrika
+    sw: Afrika ya Mashariki
+    szl: Weschodniŏ Afryka
+    ta: கிழக்கு ஆபிரிக்கா
+    tg: Африқои Шарқӣ
+    th: แอฟริกาตะวันออก
+    tk: Gündogar Afrika
+    tl: Silangang Aprika
+    tr: Doğu Afrika
+    tt: Көнчыгыш Африка
+    tw: East Africa
+    uk: Східна Африка
+    ur: مشرقی افریقہ
+    uz: Sharqiy afrika
+    vec: Africa Orientałe
+    vi: Đông Phi
+    wal: Arshsho Afriqqaa
+    war: Sinirangan nga Apriká
+    wo: Penku Afrig
+    wuu: 東非
+    xmf: ბჟაეიოლი აფრიკა
+    yo: Ìlaòrùn Áfríkà
+    yue: 東非
+    zgh: ⵜⴰⴼⵔⵉⵇⵜ ⵜⴰⴳⵎⵓⴹⴰⵏⵜ
+    zh: 东部非洲
 ---
 # [[Africa~East]] 
 

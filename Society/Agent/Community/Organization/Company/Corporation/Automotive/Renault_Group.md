@@ -1,180 +1,205 @@
 ---
-has_time_started: 1898-12-24 
+has_time_started: 1898-12-24
 aliases:
+- Renault
+- Renault S.A.
+- Reno
+- Рено
+- Рэно
+- Ռենո
+- רנו
+- רענוי
+- رنو
+- رونو
+- رينو
+- ڕێنۆ
+- रेनो
+- রেনোঁ
+- ਰੈਨੋ
+- રેનો
+- ರೆನೊ
+- റെനോ
+- เรโนลต์
+- ရီနော
+- រីណោលត៍
+- ルノー
+- 雷諾
+- 雷诺
+- 르노
 has_id_wikidata: Q6686
-headquarters_location: "[[_Standards/WikiData/WD~Boulogne_Billancourt,172455]]"
-location_of_formation: "[[_Standards/WikiData/WD~Boulogne_Billancourt,172455]]"
+headquarters_location: '[[_Standards/WikiData/WD~Boulogne_Billancourt,172455]]'
+location_of_formation: '[[_Standards/WikiData/WD~Boulogne_Billancourt,172455]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Gordini,173222]]"
-  - "[[_Standards/WikiData/WD~Sinpar,787760]]"
-  - "[[_Standards/WikiData/WD~Renault_Pars,992313]]"
-  - "[[_Standards/WikiData/WD~Sofasa,1164594]]"
-  - "[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]"
-  - "[[_Standards/WikiData/WD~Moteur_Bernard,2898356]]"
-  - "[[_Standards/WikiData/WD~Flins_Renault_Factory,3552634]]"
-  - "[[_Standards/WikiData/WD~Motrio,6918585]]"
-  - "[[_Standards/WikiData/WD~Dongfeng_Renault,18816188]]"
-  - "[[_Standards/WikiData/WD~Renault,98584518]]"
-  - "[[_Standards/WikiData/WD~Nissan,20165]]"
-  - "[[_Standards/WikiData/WD~Dacia,27460]]"
+- '[[_Standards/WikiData/WD~Gordini,173222]]'
+- '[[_Standards/WikiData/WD~Sinpar,787760]]'
+- '[[_Standards/WikiData/WD~Renault_Pars,992313]]'
+- '[[_Standards/WikiData/WD~Sofasa,1164594]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
+- '[[_Standards/WikiData/WD~Moteur_Bernard,2898356]]'
+- '[[_Standards/WikiData/WD~Flins_Renault_Factory,3552634]]'
+- '[[_Standards/WikiData/WD~Motrio,6918585]]'
+- '[[_Standards/WikiData/WD~Dongfeng_Renault,18816188]]'
+- '[[_Standards/WikiData/WD~Renault,98584518]]'
+- '[[_Standards/WikiData/WD~Nissan,20165]]'
+- '[[_Standards/WikiData/WD~Dacia,27460]]'
 industry:
-  - "[[_Standards/WikiData/WD~automotive_industry,190117]]"
-  - "[[_Standards/WikiData/WD~holding_company_activities,112165992]]"
+- '[[_Standards/WikiData/WD~automotive_industry,190117]]'
+- '[[_Standards/WikiData/WD~holding_company_activities,112165992]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Renault_Argentina,281059]]"
-  - "[[_Standards/WikiData/WD~Renault_Korea,494168]]"
-  - "[[_Standards/WikiData/WD~Sofasa,1164594]]"
-  - "[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]"
-  - "[[_Standards/WikiData/WD~Somaca,1852268]]"
-  - "[[_Standards/WikiData/WD~Oyak_Renault,1854061]]"
-  - "[[_Standards/WikiData/WD~Saviem,2140157]]"
-  - "[[_Standards/WikiData/WD~Mobilize_Financial_Services,2443747]]"
-  - "[[_Standards/WikiData/WD~Française_de_Mécanique,3083238]]"
-  - "[[_Standards/WikiData/WD~Renault_Retail_Group,3421572]]"
-  - "[[_Standards/WikiData/WD~Renault_España,7312729]]"
-  - "[[_Standards/WikiData/WD~Renault_India_Private_Limited,7312733]]"
-  - "[[_Standards/WikiData/WD~Renault_do_Brasil,7312751]]"
-  - "[[_Standards/WikiData/WD~Revoz,15090956]]"
-  - "[[_Standards/WikiData/WD~Fonderie_de_Bretagne,20971948]]"
-  - "[[_Standards/WikiData/WD~Alliance_Rostec_Auto,50656919]]"
-  - "[[_Standards/WikiData/WD~RCI_Finance_CZ,53399498]]"
-  - "[[_Standards/WikiData/WD~Renault_Česká_republika,58169128]]"
-  - "[[_Standards/WikiData/WD~Renault,98584518]]"
-  - "[[_Standards/WikiData/WD~Renault_Group,98590326]]"
-  - "[[_Standards/WikiData/WD~Ampere,124038384]]"
-  - "[[_Standards/WikiData/WD~AvtoVAZ,2309]]"
-  - "[[_Standards/WikiData/WD~Berliet,6750]]"
-  - "[[_Standards/WikiData/WD~Alpine,26944]]"
-  - "[[_Standards/WikiData/WD~Dacia,27460]]"
+- '[[_Standards/WikiData/WD~Renault_Argentina,281059]]'
+- '[[_Standards/WikiData/WD~Renault_Korea,494168]]'
+- '[[_Standards/WikiData/WD~Sofasa,1164594]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
+- '[[_Standards/WikiData/WD~Somaca,1852268]]'
+- '[[_Standards/WikiData/WD~Oyak_Renault,1854061]]'
+- '[[_Standards/WikiData/WD~Saviem,2140157]]'
+- '[[_Standards/WikiData/WD~Mobilize_Financial_Services,2443747]]'
+- '[[_Standards/WikiData/WD~Française_de_Mécanique,3083238]]'
+- '[[_Standards/WikiData/WD~Renault_Retail_Group,3421572]]'
+- '[[_Standards/WikiData/WD~Renault_España,7312729]]'
+- '[[_Standards/WikiData/WD~Renault_India_Private_Limited,7312733]]'
+- '[[_Standards/WikiData/WD~Renault_do_Brasil,7312751]]'
+- '[[_Standards/WikiData/WD~Revoz,15090956]]'
+- '[[_Standards/WikiData/WD~Fonderie_de_Bretagne,20971948]]'
+- '[[_Standards/WikiData/WD~Alliance_Rostec_Auto,50656919]]'
+- '[[_Standards/WikiData/WD~RCI_Finance_CZ,53399498]]'
+- '[[_Standards/WikiData/WD~Renault_Česká_republika,58169128]]'
+- '[[_Standards/WikiData/WD~Renault,98584518]]'
+- '[[_Standards/WikiData/WD~Renault_Group,98590326]]'
+- '[[_Standards/WikiData/WD~Ampere,124038384]]'
+- '[[_Standards/WikiData/WD~AvtoVAZ,2309]]'
+- '[[_Standards/WikiData/WD~Berliet,6750]]'
+- '[[_Standards/WikiData/WD~Alpine,26944]]'
+- '[[_Standards/WikiData/WD~Dacia,27460]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Louis_Renault,298766]]"
-  - "[[_Standards/WikiData/WD~Marcel_Renault,505344]]"
-  - "[[_Standards/WikiData/WD~Fernand_Renault,729431]]"
+- '[[_Standards/WikiData/WD~Louis_Renault,298766]]'
+- '[[_Standards/WikiData/WD~Marcel_Renault,505344]]'
+- '[[_Standards/WikiData/WD~Fernand_Renault,729431]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Louis_Renault,298766]]"
-  - "[[_Standards/WikiData/WD~Marcel_Renault,505344]]"
-  - "[[_Standards/WikiData/WD~Fernand_Renault,729431]]"
+- '[[_Standards/WikiData/WD~Louis_Renault,298766]]'
+- '[[_Standards/WikiData/WD~Marcel_Renault,505344]]'
+- '[[_Standards/WikiData/WD~Fernand_Renault,729431]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Renault,341856]]"
-  - "[[_Standards/WikiData/WD~Renault,98584518]]"
+- '[[_Standards/WikiData/WD~Renault,341856]]'
+- '[[_Standards/WikiData/WD~Renault,98584518]]'
 part_of:
-  - "[[_Standards/WikiData/WD~CAC_40,648828]]"
-  - "[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]"
+- '[[_Standards/WikiData/WD~CAC_40,648828]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~automobile_manufacturer,786820]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Jean_Dominique_Senard,1684801]]"
-  - "[[_Standards/WikiData/WD~Laurens_van_den_Acker,2358350]]"
-  - "[[_Standards/WikiData/WD~Frédéric_Vincent,3090267]]"
-  - "[[_Standards/WikiData/WD~Clotilde_Delbos,48441071]]"
-  - "[[_Standards/WikiData/WD~José_Vicente_de_los_Mozos,86659132]]"
-chairperson: "[[_Standards/WikiData/WD~Jean_Dominique_Senard,1684801]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]"
-stock_exchange: "[[_Standards/WikiData/WD~Euronext_Paris,2385849]]"
+- '[[_Standards/WikiData/WD~Jean_Dominique_Senard,1684801]]'
+- '[[_Standards/WikiData/WD~Laurens_van_den_Acker,2358350]]'
+- '[[_Standards/WikiData/WD~Frédéric_Vincent,3090267]]'
+- '[[_Standards/WikiData/WD~Clotilde_Delbos,48441071]]'
+- '[[_Standards/WikiData/WD~José_Vicente_de_los_Mozos,86659132]]'
+chairperson: '[[_Standards/WikiData/WD~Jean_Dominique_Senard,1684801]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
+stock_exchange: '[[_Standards/WikiData/WD~Euronext_Paris,2385849]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~light_commercial_vehicle,2666883]]"
-  - "[[_Standards/WikiData/WD~car,1420]]"
-  - "[[_Standards/WikiData/WD~truck,43193]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Renault,3136971]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Luca_de_Meo,3264974]]"
+- '[[_Standards/WikiData/WD~light_commercial_vehicle,2666883]]'
+- '[[_Standards/WikiData/WD~car,1420]]'
+- '[[_Standards/WikiData/WD~truck,43193]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Renault,3136971]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Luca_de_Meo,3264974]]'
 owned_by:
-  - "[[_Standards/WikiData/WD~French_State,3591845]]"
-  - "[[_Standards/WikiData/WD~Nissan,20165]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Renault,6373423]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-award_received: "[[_Standards/WikiData/WD~Valladolid_Gold_Medal,44251803]]"
+- '[[_Standards/WikiData/WD~French_State,3591845]]'
+- '[[_Standards/WikiData/WD~Nissan,20165]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Renault,6373423]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+award_received: '[[_Standards/WikiData/WD~Valladolid_Gold_Medal,44251803]]'
 inception: 1898-12-24T00:00:00Z
-legal_form: "[[_Standards/WikiData/WD~SA_national_à_board_of_directors,98895965]]"
-affiliated_worker_organisation: "[[_Standards/WikiData/WD~Works_Council_of_Renault,110329560]]"
+legal_form: '[[_Standards/WikiData/WD~SA_national_à_board_of_directors,98895965]]'
+affiliated_worker_organisation: '[[_Standards/WikiData/WD~Works_Council_of_Renault,110329560]]'
 net_profit:
-  - -8008000000
-  - -3125000000
-  - -338000000
-  - -141000000
-  - 1080000000
-  - 1890000000
-  - 2480000000
-  - 3420000000
-  - 571000000
-  - 586000000
-  - 752000000
-  - 888000000
-  - 1051000000
-  - 1772000000
-  - 1956000000
-  - 2092000000
-  - 2198000000
-  - 2669000000
-  - 2823000000
-  - 2836000000
-  - 2869000000
-  - 3302000000
-  - 3367000000
-  - 3419000000
-  - 5114000000
-country: "[[_Standards/WikiData/WD~France,142]]"
+- -8008000000
+- -3125000000
+- -338000000
+- -141000000
+- 1080000000
+- 1890000000
+- 2480000000
+- 3420000000
+- 571000000
+- 586000000
+- 752000000
+- 888000000
+- 1051000000
+- 1772000000
+- 1956000000
+- 2092000000
+- 2198000000
+- 2669000000
+- 2823000000
+- 2836000000
+- 2869000000
+- 3302000000
+- 3367000000
+- 3419000000
+- 5114000000
+country: '[[_Standards/WikiData/WD~France,142]]'
 social_media_followers:
-  - 83900
-  - 133865
+- 83900
+- 133865
 operating_income:
-  - 2105000000
-  - 2216000000
-  - 2485000000
-  - 2987000000
+- 2105000000
+- 2216000000
+- 2485000000
+- 2987000000
 ISIN: FR0000131906
 EU_VAT_number: FR63441639465
 X_Twitter_username: Groupe_Renault
 Instagram_username: grouperenault
 official_name: RENAULT
 total_revenue:
-  - 41270000000
-  - 58770000000
-  - 33712000000
-  - 36336000000
-  - 36351000000
-  - 37525000000
-  - 37791000000
-  - 38971000000
-  - 40175000000
-  - 40682000000
-  - 40715000000
-  - 40932000000
-  - 41055000000
-  - 41338000000
-  - 41528000000
-  - 42628000000
-  - 43474000000
-  - 45327000000
-  - 46213000000
-  - 46391000000
-  - 51243000000
-  - 52376000000
-  - 55537000000
-  - 56232000000
-  - 57419000000
+- 41270000000
+- 58770000000
+- 33712000000
+- 36336000000
+- 36351000000
+- 37525000000
+- 37791000000
+- 38971000000
+- 40175000000
+- 40682000000
+- 40715000000
+- 40932000000
+- 41055000000
+- 41338000000
+- 41528000000
+- 42628000000
+- 43474000000
+- 45327000000
+- 46213000000
+- 46391000000
+- 51243000000
+- 52376000000
+- 55537000000
+- 56232000000
+- 57419000000
 market_capitalization:
-  - 12474000000
-  - 14683000000
-  - 16132000000
-  - 24814000000
-  - 24991000000
-  - 27393000000
-Private_Enterprise_Number: "5393"
+- 12474000000
+- 14683000000
+- 16132000000
+- 24814000000
+- 24991000000
+- 27393000000
+Private_Enterprise_Number: 5393
 total_equity:
-  - 21102000000
-  - 29539000000
-  - 33442000000
-  - 35331000000
-  - 36145000000
+- 21102000000
+- 29539000000
+- 33442000000
+- 35331000000
+- 36145000000
 total_assets:
-  - 109943000000
-  - 114996000000
-  - 118319000000
-  - 122171000000
-  - 129366000000
+- 109943000000
+- 114996000000
+- 118319000000
+- 122171000000
+- 129366000000
 employees: 170158
-OmegaWiki_Defined_Meaning: "1633327"
+OmegaWiki_Defined_Meaning: 1633327
 total_produced: 2524234
 Facebook_username: Renault
 Commons_gallery: Renault
@@ -182,14 +207,129 @@ Commons_category: Renault
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Renault%20Group%20logo.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Technocentre%2C%20entr%C3%A9e%20de%20l%27Avanc%C3%A9e.jpg
 location_information_URL:
-  - https://concesionario.renault.es/
-  - https://concessionnaire.renault.fr/
+- https://concesionario.renault.es/
+- https://concessionnaire.renault.fr/
 official_website: https://www.renaultgroup.com/
-PermID: "4295867385"
-SIREN_number: "441639465"
+PermID: 4295867385
+SIREN_number: 441639465
 Legal_Entity_Identifier: 969500F7JLTX36OUI695
+dv_has_:
+  name_:
+    af: Renault
+    ar: رينو
+    ary: رونو
+    arz: رينو
+    ast: Renault
+    az: Renault
+    azb: رنو
+    be: Рэно
+    be-tarask: Рэно
+    bg: Рено
+    bho: रेनो
+    bn: রেনোঁ
+    br: Renault
+    bs: Renault
+    ca: Renault
+    ckb: ڕێنۆ
+    co: Renault
+    cs: Renault
+    cy: Renault
+    da: Renault
+    de: Renault
+    diq: Renault
+    el: Renault
+    eml: Renault
+    en: Renault
+    en-ca: Renault
+    en-gb: Renault
+    eo: Renault
+    es: Renault
+    et: Renault
+    eu: Renault
+    fa: رنو
+    fi: Renault
+    fr: Renault
+    frp: Renault
+    frr: Renault
+    fur: Renault
+    fy: Renault
+    ga: Renault
+    gl: Renault
+    gu: રેનો
+    he: רנו
+    hi: रेनो
+    hr: Renault
+    ht: Renault
+    hu: Renault
+    hy: Ռենո
+    id: Renault
+    io: Renault
+    is: Renault
+    it: Renault
+    ja: ルノー
+    ka: Renault
+    kaa: Renault
+    kk: Renault S.A.
+    km: រីណោលត៍
+    kn: ರೆನೊ
+    ko: 르노
+    lad: Renault
+    lmo: Renault
+    ln: Renault
+    lt: Renault
+    lv: Renault
+    mai: रेनो
+    mk: Рено
+    ml: റെനോ
+    mn: Рено
+    ms: Renault
+    mul: Renault
+    my: ရီနော
+    mzn: رنو
+    nah: Renault
+    nan: Renault
+    nb: Renault
+    ne: रेनो
+    nl: Renault
+    nn: Renault
+    nrm: Renault
+    oc: Renault
+    pa: ਰੈਨੋ
+    pcd: Renault
+    pl: Renault
+    pms: Renault
+    pt: Renault
+    pt-br: Renault
+    rm: Renault
+    ro: Renault
+    roa-tara: Renault
+    ru: Renault
+    sah: Renault
+    scn: Renault
+    sco: Renault
+    sh: Reno
+    sk: Renault
+    sl: Renault
+    sr: Рено
+    stq: Renault
+    sv: Renault
+    th: เรโนลต์
+    tly: Renault
+    tr: Renault
+    uk: Renault
+    uz: Renault
+    vec: Renault
+    vi: Renault
+    vls: Renault
+    wuu: 雷诺
+    yi: רענוי
+    yue: 雷諾
+    zea: Renault
+    zh: 雷诺
+    zh-cn: 雷诺
+    zh-hans: 雷诺
+    zh-hant: 雷諾
 ---
-
 # [[Renault_Group]] 
 
 #is_/same_as :: [[WD~Renault_S.A.,6686]] 

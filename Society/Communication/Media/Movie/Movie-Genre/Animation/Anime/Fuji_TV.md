@@ -1,8 +1,83 @@
 ---
 aliases:
-  - Fuji TV
-  - Fuji_TV
+- Fuji Television
+- Fuji TV
+- Fuji_TV
+- Fuĵi-Televido
+- Huzi Tiān-sī-tâi
+- Đài truyền hình Fuji
+- Телебачення Фудзі
+- פוג'י טי וי
+- تلفزيون فوجي
+- تەلەڤیزیۆنی فوجی
+- فوجی تلویژن
+- फुजी टेलिव्हिजन
+- ফুজি টেলিভিশন
+- ฟุจิเทเลวิชัน
+- フジテレビジョン
+- 富士电视台
+- 富士電視台
+- 富士電視臺
+- 후지 TV
 has_id_wikidata: Q744800
+dv_has_:
+  name_:
+    ar: تلفزيون فوجي
+    az: Fuji Television
+    azb: فوجی تلویژن
+    bg: Fuji Television
+    bn: ফুজি টেলিভিশন
+    ca: Fuji Television
+    ckb: تەلەڤیزیۆنی فوجی
+    cs: Fuji Television
+    da: Fuji Television
+    de: Fuji Television
+    en: Fuji Television
+    en-ca: Fuji Television
+    en-gb: Fuji Television
+    eo: Fuĵi-Televido
+    es: Fuji Television
+    eu: Fuji Television
+    fa: فوجی تلویژن
+    fi: Fuji TV
+    fr: Fuji Television
+    gl: Fuji Television
+    he: פוג'י טי וי
+    ht: Fuji Television
+    hu: Fuji Television
+    id: Fuji Television
+    it: Fuji Television
+    ja: フジテレビジョン
+    ko: 후지 TV
+    lt: Fuji Television
+    lv: Fuji Television
+    lzh: 富士電視臺
+    mr: फुजी टेलिव्हिजन
+    ms: Fuji TV
+    nan: Huzi Tiān-sī-tâi
+    nb: Fuji Television
+    nl: Fuji Television
+    pl: Fuji TV
+    pt: Fuji TV
+    ro: Fuji Television
+    ru: Fuji Television
+    sh: Fuji Television
+    sl: Fuji Television
+    so: Fuji Television
+    sv: Fuji Television
+    th: ฟุจิเทเลวิชัน
+    tl: Fuji Television
+    tr: Fuji Television
+    uk: Телебачення Фудзі
+    vec: Fuji Television
+    vi: Đài truyền hình Fuji
+    wuu: 富士电视台
+    yue: 富士電視台
+    zh: 富士電視台
+    zh-cn: 富士电视台
+    zh-hans: 富士电视台
+    zh-hant: 富士電視台
+    zh-hk: 富士電視台
 ---
 > Fuji Television Network, Inc., also known as Fuji Television or **Fuji TV**, with the call sign JOCX-DTV, 
 > is a Japanese television station based in Odaiba, Minato, Tokyo, Japan. 

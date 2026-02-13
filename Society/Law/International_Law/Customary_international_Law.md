@@ -1,15 +1,90 @@
 ---
 aliases:
-  - Customary international law
-  - Customary_international_Law
-  - Customary international Law
+- consuetudine
+- cortesia intenacional
+- costumbre internacional
+- Costume internacional
+- Customary international law
+- Customary_international_Law
+- dereito internacional consuetudinario
+- Dokar al'ada ta duniya
+- dreptul internațional cutumiar
+- Dret internacional consuetudinari
+- droit international coutumier
+- Folkerettslig sedvane
+- Internacia kutimjuro
+- internationell sedvanerätt
+- Ius consuetudinis
+- Kansainvälinen humanitaarinen tapaoikeus
+- Kebiasaan internasional
+- mednarodno običajno pravo
+- Mezinárodní obyčej
+- nemzetközi szokásjog
+- Rahvusvaheline tavaõigus
+- Tập quán quốc tế
+- Uluslararası teammül hukuku
+- Undang-Undang Adat Antarabangsa
+- Völkergewohnheitsrecht
+- zwyczaj międzynarodowy
+- Міжнародно-правовий звичай
+- Обычное международное право
+- Олон улсын жишиг хууль
+- Միջազգային սովորութային իրավունք
+- حقوق بینالملل عرفی
+- قانون دولي عرفي
+- കീഴ്നടപ്പനുസരിച്ചുള്ള അന്താരാഷ്ട്ര നിയമം
+- กฎหมายจารีตประเพณีระหว่างประเทศ
+- 国际习惯法
+- 國際習慣法
+- 慣習国際法
+- 국제관습법
 has_id_wikidata: Q1194894
 subclass_of:
-  - '[[_Standards/WikiData/WD~customary_law,1479995]]'
-  - '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~customary_law,1479995]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
 part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
+dv_has_:
+  name_:
+    ar: قانون دولي عرفي
+    ast: Costume internacional
+    ca: Dret internacional consuetudinari
+    cs: Mezinárodní obyčej
+    de: Völkergewohnheitsrecht
+    en: customary international law
+    eo: Internacia kutimjuro
+    es: costumbre internacional
+    et: Rahvusvaheline tavaõigus
+    fa: حقوق بینالملل عرفی
+    fi: Kansainvälinen humanitaarinen tapaoikeus
+    fr: droit international coutumier
+    gl: dereito internacional consuetudinario
+    ha: Dokar al'ada ta duniya
+    hu: nemzetközi szokásjog
+    hy: Միջազգային սովորութային իրավունք
+    id: Kebiasaan internasional
+    it: consuetudine
+    ja: 慣習国際法
+    ko: 국제관습법
+    la: Ius consuetudinis
+    ml: കീഴ്നടപ്പനുസരിച്ചുള്ള അന്താരാഷ്ട്ര നിയമം
+    mn: Олон улсын жишиг хууль
+    ms: Undang-Undang Adat Antarabangsa
+    nb: Folkerettslig sedvane
+    pl: zwyczaj międzynarodowy
+    pt: cortesia intenacional
+    ro: dreptul internațional cutumiar
+    ru: Обычное международное право
+    sl: mednarodno običajno pravo
+    sv: internationell sedvanerätt
+    th: กฎหมายจารีตประเพณีระหว่างประเทศ
+    tr: Uluslararası teammül hukuku
+    uk: Міжнародно-правовий звичай
+    vi: Tập quán quốc tế
+    zh: 国际习惯法
+    zh-hans: 国际习惯法
+    zh-hant: 國際習慣法
+    zh-hk: 國際習慣法
 ---
-
 # [[Customary_international_Law]] 
 
 #is_/same_as :: [[WD~Customary_international_law,1194894]] 

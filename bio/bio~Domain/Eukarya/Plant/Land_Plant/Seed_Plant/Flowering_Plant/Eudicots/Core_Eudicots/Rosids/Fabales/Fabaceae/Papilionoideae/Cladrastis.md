@@ -1,8 +1,86 @@
 ---
 aliases:
-  - Cladrastis
+- Cladrastis
+- Gulvedssläktet
+- křehovětvec
+- lakkipuut
+- Strączyn
+- кладрастыс
+- خطر
+- چوبزردهای دوردست
+- 香槐属
+- 香槐屬
 title: Cladrastis clade
 has_id_wikidata: Q2700326
+dv_has_:
+  name_:
+    af: Cladrastis
+    an: Cladrastis
+    ar: خطر
+    ast: Cladrastis
+    be: кладрастыс
+    bg: Cladrastis
+    br: Cladrastis
+    bs: Cladrastis
+    ca: Cladrastis
+    ceb: Cladrastis
+    cs: křehovětvec
+    cy: Cladrastis
+    da: Cladrastis
+    de: Cladrastis
+    en: Cladrastis
+    eo: Cladrastis
+    es: Cladrastis
+    et: Cladrastis
+    eu: Cladrastis
+    ext: Cladrastis
+    fa: چوبزردهای دوردست
+    fi: lakkipuut
+    fr: Cladrastis
+    ga: Cladrastis
+    gl: Cladrastis
+    gsw: Cladrastis
+    hr: Cladrastis
+    hu: Cladrastis
+    ia: Cladrastis
+    ie: Cladrastis
+    io: Cladrastis
+    is: Cladrastis
+    it: Cladrastis
+    la: Cladrastis
+    lb: Cladrastis
+    lmo: Cladrastis
+    lt: Cladrastis
+    mul: Cladrastis
+    nb: Cladrastis
+    nds: Cladrastis
+    nds-nl: Cladrastis
+    nl: Cladrastis
+    nn: Cladrastis
+    oc: Cladrastis
+    pl: Strączyn
+    pms: Cladrastis
+    pt: Cladrastis
+    pt-br: Cladrastis
+    ro: Cladrastis
+    ru: Cladrastis
+    sk: Cladrastis
+    sl: Cladrastis
+    sq: Cladrastis
+    sv: Gulvedssläktet
+    tr: Cladrastis
+    uk: Cladrastis
+    vec: Cladrastis
+    vi: Cladrastis
+    vo: Cladrastis
+    wa: Cladrastis
+    war: Cladrastis
+    zh: 香槐属
+    zh-cn: 香槐属
+    zh-hans: 香槐属
+    zh-hant: 香槐屬
+    zh-hk: 香槐屬
+    zh-tw: 香槐屬
 ---
 ## Phylogeny 
 

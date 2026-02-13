@@ -1,47 +1,208 @@
 ---
 aliases:
+- Chủ nghĩa Hồi giáo cực đoan
+- Ioslamachas
+- Islam-chú-gī
+- Islamiaeth
+- islamism
+- Islamisma
+- islamisme
+- islamisme polític
+- islamismi
+- islamismm
+- islamismo
+- Islamismu
+- Islamismus
+- Islamizam
+- islamizem
+- Islamizm
+- islamizmas
+- Islamizmi
+- Islamouriezh
+- islamçılıq
+- Islomchilik
+- Islāmisms
+- iszlamizmus
+- Íslamismi
+- îslamîzm
+- İslamcılık
+- Ισλαμισμός
+- ісламізм
+- исламизам
+- исламизм
+- Исламсылыҡ
+- исламчылык
+- исломгароӣ
+- Ислямизъм
+- Իսլամիզմ
+- איסלאַמיסטיש
+- אסלאמיזם
+- إسلاموية
+- ئیسلامەتی
+- اسلاموية
+- اسلامپال
+- اسلامگرایی
+- الاسلام السياسى
+- اِسلامِیَتھ
+- ایسلامچیلیق
+- سیاست اسلامیہ
+- इस्लामियत
+- ইছলাম
+- ইসলামবাদ
+- ਇਸਲਾਮੀਅਤ
+- ისლამიზმი
+- イスラム主義.
+- 伊斯兰主义
+- 伊斯蘭主義
+- ꠁꠍꠟꠣꠝꠤꠔꠣ
+- 이슬람주의
 has_id_wikidata: Q189746
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Salafism,191057]]"
-  - "[[_Standards/WikiData/WD~Qutbism,632691]]"
-  - "[[_Standards/WikiData/WD~Islamic_democracy,2641411]]"
-  - "[[_Standards/WikiData/WD~Salafi_jihadism,3380905]]"
-  - "[[_Standards/WikiData/WD~Jihadism,3757343]]"
-  - "[[_Standards/WikiData/WD~Islamist_Shi'ism,112114970]]"
+- '[[_Standards/WikiData/WD~Salafism,191057]]'
+- '[[_Standards/WikiData/WD~Qutbism,632691]]'
+- '[[_Standards/WikiData/WD~Islamic_democracy,2641411]]'
+- '[[_Standards/WikiData/WD~Salafi_jihadism,3380905]]'
+- '[[_Standards/WikiData/WD~Jihadism,3757343]]'
+- "[[_Standards/WikiData/WD~Islamist_Shi'ism,112114970]]"
 significant_person:
-  - "[[_Standards/WikiData/WD~Sayyid_Qutb,211379]]"
-  - "[[_Standards/WikiData/WD~Hassan_al_Banna,230291]]"
-  - "[[_Standards/WikiData/WD~Syed_Abul_Ala_Maududi,369907]]"
-  - "[[_Standards/WikiData/WD~Hasan_al_Turabi,469299]]"
-  - "[[_Standards/WikiData/WD~Rida_Muhammad_Rashid,471046]]"
-  - "[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]"
+- '[[_Standards/WikiData/WD~Sayyid_Qutb,211379]]'
+- '[[_Standards/WikiData/WD~Hassan_al_Banna,230291]]'
+- '[[_Standards/WikiData/WD~Syed_Abul_Ala_Maududi,369907]]'
+- '[[_Standards/WikiData/WD~Hasan_al_Turabi,469299]]'
+- '[[_Standards/WikiData/WD~Rida_Muhammad_Rashid,471046]]'
+- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]'
 has_goal:
-  - "[[_Standards/WikiData/WD~Pan_Islamism,430032]]"
-  - "[[_Standards/WikiData/WD~sharia,482752]]"
-  - "[[_Standards/WikiData/WD~Islamic_state,4204060]]"
+- '[[_Standards/WikiData/WD~Pan_Islamism,430032]]'
+- '[[_Standards/WikiData/WD~sharia,482752]]'
+- '[[_Standards/WikiData/WD~Islamic_state,4204060]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Muslim_world,779924]]"
-  - "[[_Standards/WikiData/WD~political_aspects_of_Islam,3057291]]"
+- '[[_Standards/WikiData/WD~Muslim_world,779924]]'
+- '[[_Standards/WikiData/WD~political_aspects_of_Islam,3057291]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~supremacism,1031455]]"
-  - "[[_Standards/WikiData/WD~political_Islam,30970737]]"
-  - "[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]"
-different_from: "[[_Standards/WikiData/WD~Islamic_fundamentalism,1140370]]"
-significant_event: "[[_Standards/WikiData/WD~Islamic_revival,1347675]]"
+- '[[_Standards/WikiData/WD~supremacism,1031455]]'
+- '[[_Standards/WikiData/WD~political_Islam,30970737]]'
+- '[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]'
+different_from: '[[_Standards/WikiData/WD~Islamic_fundamentalism,1140370]]'
+significant_event: '[[_Standards/WikiData/WD~Islamic_revival,1347675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~identity_politics,2914650]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~fundamentalism,9149]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Islamism,8094556]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_Islam,65344895]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_Islamism,116756682]]"
-practiced_by: "[[_Standards/WikiData/WD~Islamist,131160356]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Islamic_nationalism,131824160]]"
+- '[[_Standards/WikiData/WD~identity_politics,2914650]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~fundamentalism,9149]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Islamism,8094556]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_Islam,65344895]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_Islamism,116756682]]'
+practiced_by: '[[_Standards/WikiData/WD~Islamist,131160356]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Islamic_nationalism,131824160]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2012%20Sydney%20protest.jpg
 subreddit: islamism
 Commons_category: Islamism
+dv_has_:
+  name_:
+    acm: اسلاموية
+    ar: إسلاموية
+    arz: الاسلام السياسى
+    as: ইছলাম
+    ast: Islamismu
+    az: islamçılıq
+    azb: ایسلامچیلیق
+    ba: Исламсылыҡ
+    be: ісламізм
+    be-tarask: ісламізм
+    bg: Ислямизъм
+    bn: ইসলামবাদ
+    br: Islamouriezh
+    ca: islamisme polític
+    ceb: Islamismo
+    ckb: ئیسلامەتی
+    cs: islamismus
+    cy: Islamiaeth
+    da: Islamisme
+    de: Islamismus
+    de-ch: Islamismus
+    el: Ισλαμισμός
+    en: Islamism
+    en-ca: Islamism
+    en-gb: Islamism
+    en-us: Islamism
+    eo: islamismo
+    es: islamismo
+    et: islamism
+    eu: Islamismo
+    fa: اسلامگرایی
+    fi: islamismi
+    fr: islamisme
+    fy: Islamisme
+    ga: Ioslamachas
+    gcr: Islamism
+    gl: islamismo
+    gsw: Islamismus
+    he: אסלאמיזם
+    hi: इस्लामियत
+    hr: Islamizam
+    hu: iszlamizmus
+    hy: Իսլամիզմ
+    ia: Islamismo
+    id: islamisme
+    is: Íslamismi
+    it: Islamismo
+    ja: イスラム主義.
+    ka: ისლამიზმი
+    kk: Исламизм
+    ko: 이슬람주의
+    ks: اِسلامِیَتھ
+    ku: îslamîzm
+    ku-latn: îslamîzm
+    ky: Исламизм
+    la: Islamismus
+    lb: Islamismus
+    lmo: Islamism
+    lt: islamizmas
+    lv: Islāmisms
+    mg: Islamisma
+    mk: исламизам
+    ms: Islamisme
+    nan: Islam-chú-gī
+    nb: islamisme
+    nl: islamisme
+    nn: islamisme
+    pa: ਇਸਲਾਮੀਅਤ
+    pl: Islamizm
+    ps: اسلامپال
+    pt: islamismo
+    pt-br: Islamismo
+    ro: islamism
+    ru: исламизм
+    se: islamisma
+    sh: Islamizam
+    sl: islamizem
+    smn: islamism
+    sms: islamismm
+    sq: Islamizmi
+    sr: исламизам
+    sr-ec: Исламизам
+    sr-el: Islamizam
+    sv: islamism
+    syl: ꠁꠍꠟꠣꠝꠤꠔꠣ
+    tg: исломгароӣ
+    tl: Islamismo
+    tr: İslamcılık
+    tt: исламчылык
+    uk: ісламізм
+    ur: سیاست اسلامیہ
+    uz: Islomchilik
+    vec: islamismo
+    vi: Chủ nghĩa Hồi giáo cực đoan
+    wuu: 伊斯兰主义
+    yi: איסלאַמיסטיש
+    yue: 伊斯蘭主義
+    zh: 伊斯兰主义
+    zh-cn: 伊斯兰主义
+    zh-hans: 伊斯兰主义
+    zh-hant: 伊斯蘭主義
+    zh-hk: 伊斯蘭主義
+    zh-sg: 伊斯兰主义
+    zh-tw: 伊斯蘭主義
 ---
-
 # [[Islamism]] 
 
 #is_/same_as :: [[WD~Islamism,189746]] 

@@ -1,39 +1,97 @@
 ---
 dv_is_:
   same_as:
-    - "[[WD~Long_Depression,1417847]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]"
+  - '[[WD~Long_Depression,1417847]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]'
 dv_is_same_as:
-  - "[[WD~Long_Depression,1417847]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]"
-
-has_time_started: 1873-01-01 
+- '[[WD~Long_Depression,1417847]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]'
+has_time_started: 1873-01-01
 aliases:
-  - Long Depression
-  - Long_Depression
+- Den lange depresjonen
+- Depresi Panjang
+- Depresio Handia (1873-1896)
+- Depressió prolongada
+- dolga depresija
+- Gran Depresión (1873-1896)
+- Granda depresion (1873-1895)
+- Granda Depression de 1873-1896
+- Grande depressione
+- Grande Dépression
+- Grosse Depression
+- Grote Depressie
+- Große Depression
+- Long Depression
+- Longa depresio
+- Longa Depressão
+- Long_Depression
+- Långa depressionen
+- Pikaajaline majanduskriis
+- Pitkä lama
+- Uzun Buhran
+- Довготривала депресія
+- Долгая депрессия
+- Երկարատև դեպրեսիա
+- השפל הארוך
+- الكساد الطويل
+- رکود اقتصادی ۱۸۷۳
+- 大不況
+- 长期萧条
+- 대불황
 has_id_wikidata: Q1417847
 instance_of:
-  - '[[../../../../WikiData/WD~recession,176494]]'
-  - '[[_Standards/WikiData/WD~depression,1814941]]'
+- '[[../../../../WikiData/WD~recession,176494]]'
+- '[[_Standards/WikiData/WD~depression,1814941]]'
 start_time: 1873-01-01T00:00:00Z
 location:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
 Commons_category: Long Depression
+dv_has_:
+  name_:
+    ar: الكساد الطويل
+    ca: Depressió prolongada
+    de: Große Depression
+    de-ch: Grosse Depression
+    en: Long Depression
+    eo: Longa depresio
+    es: Gran Depresión (1873-1896)
+    et: Pikaajaline majanduskriis
+    eu: Depresio Handia (1873-1896)
+    fa: رکود اقتصادی ۱۸۷۳
+    fi: Pitkä lama
+    fr: Grande Dépression
+    he: השפל הארוך
+    hy: Երկարատև դեպրեսիա
+    id: Depresi Panjang
+    it: Grande depressione
+    ja: 大不況
+    ko: 대불황
+    nb: Den lange depresjonen
+    nl: Grote Depressie
+    nn: Den lange depresjonen
+    oc: Granda Depression de 1873-1896
+    pt: Longa Depressão
+    ru: Долгая депрессия
+    sl: dolga depresija
+    sv: Långa depressionen
+    tr: Uzun Buhran
+    uk: Довготривала депресія
+    vec: Granda depresion (1873-1895)
+    zh: 长期萧条
 ---
-
 # [[Long_Depression]] 
 
 #is_/same_as :: [[WD~Long_Depression,1417847]] 

@@ -1,38 +1,186 @@
 ---
 aliases:
-  - German-language literature
-  - German_Literature
-  - German Literature
+- Alemanezko literatura
+- Alman edebiyatı
+- Alman ədəbiyyatı
+- deutschsprachige Literatur
+- Duitse letterkunde
+- Duitse literatuur
+- Däitschsproocheg Literatur
+- Dútske literatuer
+- German Literature
+- German-language literature
+- germanlingva literaturo
+- German_Literature
+- Leteratur deutx
+- Leteratura tudëscia
+- letteratura tedesca
+- literatura alemanya
+- Literatura em alemão
+- literatura en alemán
+- Literatura Inaleman
+- literatura niemieckojęzyczna
+- literatură în limba germană
+- Litterae Theodiscae
+- littérature de langue allemande
+- Lliteratura n'alemán
+- Nemačka književnost
+- Nemecká literatúra
+- Nemes edebiýaty
+- Nemis adabiyoti
+- Nemis ädebïyeti
+- nemška literatura
+- Njemačka književnost
+- német irodalom
+- německá literatura
+- Panitikang Aleman
+- Saksakeelne kirjandus
+- saksankielinen kirjallisuus
+- Sastra babahasa Jerman
+- Sastra Berbahasa Jerman
+- tysk litteratur
+- Tyskspråkig litteratur
+- văn học Đức
+- Wêjeya almanî
+- Γερμανική λογοτεχνία
+- Германска литература
+- Німецька література
+- Неміс әдебиеті
+- Немачка књижевност
+- немецкая литература
+- Немска поезия
+- нямецкая літаратура
+- Գերմանական գրականություն
+- ספרות גרמנית
+- أدب ألماني
+- ادبیات آلمانی
+- جرمن ادب
+- نەمىس ادەبىييەتى
+- जर्मन भाषा का साहित्य
+- জার্মান ভাষার সাহিত্য
+- জার্মান সাহিত্য
+- ਜਰਮਨ ਸਾਹਿਤ
+- ಜರ್ಮನ್ ಸಾಹಿತ್ಯ
+- ဂျာမန်စာပေ
+- გერმანული ლიტერატურა
+- ドイツ文学
+- 德文文學
+- 德語文學
+- 德语文学
+- 독일 문학
 has_id_wikidata: Q181287
 part_of: '[[_Standards/WikiData/WD~Western_literature,116476]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Literature_of_Germany,16321587]]'
-  - '[[_Standards/WikiData/WD~German_language_studies,109647876]]'
+- '[[_Standards/WikiData/WD~Literature_of_Germany,16321587]]'
+- '[[_Standards/WikiData/WD~German_language_studies,109647876]]'
 instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
 studied_by: '[[_Standards/WikiData/WD~German_language_studies,109647876]]'
 facet_of: '[[_Standards/WikiData/WD~German,188]]'
 Dewey_Decimal_Classification:
-  - 831
-  - 830
+- 831
+- 830
 Amazon_com_browse_node: 186606
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Muspilli-med.jpg
 Universal_Decimal_Classification: 821.112.2
 Commons_category: German-language literature
 Krugosvet_article: kultura_i_obrazovanie/literatura/NEMETSKAYA_LITERATURA.html
 Library_of_Congress_Classification: PT1-4897
+dv_has_:
+  name_:
+    af: Duitse letterkunde
+    ar: أدب ألماني
+    ast: Lliteratura n'alemán
+    az: Alman ədəbiyyatı
+    be: нямецкая літаратура
+    be-tarask: нямецкая літаратура
+    bg: Немска поезия
+    bjn: Sastra babahasa Jerman
+    bn: জার্মান ভাষার সাহিত্য
+    bpy: জার্মান সাহিত্য
+    bs: Njemačka književnost
+    ca: literatura alemanya
+    cs: německá literatura
+    da: tysk litteratur
+    de: deutschsprachige Literatur
+    el: Γερμανική λογοτεχνία
+    en: German-language literature
+    eo: germanlingva literaturo
+    es: literatura en alemán
+    et: Saksakeelne kirjandus
+    eu: Alemanezko literatura
+    fa: ادبیات آلمانی
+    fi: saksankielinen kirjallisuus
+    fr: littérature de langue allemande
+    fy: Dútske literatuer
+    gl: literatura en alemán
+    he: ספרות גרמנית
+    hi: जर्मन भाषा का साहित्य
+    hr: Njemačka književnost
+    hu: német irodalom
+    hy: Գերմանական գրականություն
+    id: Sastra Berbahasa Jerman
+    it: letteratura tedesca
+    ja: ドイツ文学
+    ka: გერმანული ლიტერატურა
+    kk: Неміс әдебиеті
+    kk-arab: نەمىس ادەبىييەتى
+    kk-cn: نەمىس ادەبىييەتى
+    kk-cyrl: Неміс әдебиеті
+    kk-kz: Неміс әдебиеті
+    kk-latn: Nemis ädebïyeti
+    kk-tr: Nemis ädebïyeti
+    kn: ಜರ್ಮನ್ ಸಾಹಿತ್ಯ
+    ko: 독일 문학
+    ku: Wêjeya almanî
+    la: Litterae Theodiscae
+    lb: Däitschsproocheg Literatur
+    lfn: Leteratur deutx
+    lld: Leteratura tudëscia
+    mk: Германска литература
+    my: ဂျာမန်စာပေ
+    nb: tysk litteratur
+    nl: Duitse literatuur
+    nn: Tysk litteratur
+    pa: ਜਰਮਨ ਸਾਹਿਤ
+    pl: literatura niemieckojęzyczna
+    pt: Literatura em alemão
+    ro: literatură în limba germană
+    ru: немецкая литература
+    sk: Nemecká literatúra
+    sl: nemška literatura
+    sr: Немачка књижевност
+    sr-ec: Немачка књижевност
+    sr-el: Nemačka književnost
+    sv: Tyskspråkig litteratur
+    tk: Nemes edebiýaty
+    tl: Panitikang Aleman
+    tr: Alman edebiyatı
+    uk: Німецька література
+    ur: جرمن ادب
+    uz: Nemis adabiyoti
+    vi: văn học Đức
+    war: Literatura Inaleman
+    wuu: 德语文学
+    yue: 德文文學
+    zh: 德语文学
+    zh-cn: 德语文学
+    zh-hans: 德语文学
+    zh-hant: 德語文學
+    zh-hk: 德語文學
+    zh-sg: 德语文学
+    zh-tw: 德語文學
 ---
-
 # [[German_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~German-language_literature,181287|WD~German-language_literature,181287]] 

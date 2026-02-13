@@ -1,15 +1,31 @@
 ---
-has_time_started: 1961-01-01 
+has_time_started: 1961-01-01
 aliases:
-  - Peter, Paul and Mary
-  - Peter,Paul_and_Mary
-  - Peter,Paul and Mary
+- Peter
+- Peter Paul and Mary
+- Peter, Paul and Mary
+- Peter, Paul na Mary
+- Peter,Paul and Mary
+- Peter,Paul_and_Mary
+- Petrus
+- Piter, Pol i Meri
+- פיטר, פול ומרי
+- بيتر، بول وماري
+- پیتر، پال و مری
+- পিটার, পল, এন্ড মেরি
+- ਪੀਟਰ, ਪੌਲ ਅਤੇ ਮੈਰੀ
+- ปีเตอร์ พอล แอนด์ แมรี
+- ピーター・ポール&マリー
+- 彼得、保罗和玛丽
+- 彼得、保羅和瑪麗
+- 彼得、保羅與瑪莉
+- 피터, 폴 앤 메리
 has_id_wikidata: Q654716
 instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Mary_Travers,466386]]'
-  - '[[_Standards/WikiData/WD~Paul_Stookey,1133611]]'
-  - '[[_Standards/WikiData/WD~Peter_Yarrow,2033344]]'
+- '[[_Standards/WikiData/WD~Mary_Travers,466386]]'
+- '[[_Standards/WikiData/WD~Paul_Stookey,1133611]]'
+- '[[_Standards/WikiData/WD~Peter_Yarrow,2033344]]'
 record_label: '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
 discography: '[[_Standards/WikiData/WD~Peter,_Paul_and_Mary_discography,88976020]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -19,15 +35,69 @@ work_period_start_: 1961-01-01T00:00:00Z
 inception: 1961-01-01T00:00:00Z
 name: Peter, Paul and Mary
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%2C%20Paul%20and%20Mary%20publicity%20photo.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%2C%20Paul%20and%20Mary%202006.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%2C%20Paul%20and%20Mary%20publicity%20photo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%2C%20Paul%20and%20Mary%202006.jpg
 work_period_end_: 2009-01-01T00:00:00Z
 official_website: https://www.peterpaulandmary.com/
 ISNI: 0000000121041715
 Commons_category: Peter, Paul and Mary
 Facebook_username: peterpaulandmary
+dv_has_:
+  name_:
+    ar: بيتر، بول وماري
+    ast: Peter
+    be-tarask: Peter, Paul and Mary
+    bn: পিটার, পল, এন্ড মেরি
+    br: Peter, Paul and Mary
+    ca: Peter, Paul and Mary
+    cs: Peter, Paul and Mary
+    da: Peter, Paul and Mary
+    de: Peter, Paul and Mary
+    el: Peter, Paul and Mary
+    en: Peter, Paul and Mary
+    en-ca: Peter, Paul and Mary
+    en-gb: Peter, Paul and Mary
+    eo: Peter Paul and Mary
+    es: Peter, Paul and Mary
+    et: Peter, Paul and Mary
+    eu: Peter, Paul and Mary
+    fa: پیتر، پال و مری
+    fi: Peter, Paul and Mary
+    fo: Peter
+    fr: Peter, Paul and Mary
+    ga: Peter, Paul and Mary
+    gl: Peter, Paul and Mary
+    he: פיטר, פול ומרי
+    hu: Peter, Paul and Mary
+    id: Peter, Paul and Mary
+    it: Peter, Paul and Mary
+    ja: ピーター・ポール&マリー
+    ko: 피터, 폴 앤 메리
+    la: Petrus
+    mg: Peter
+    nb: Peter, Paul and Mary
+    nl: Peter, Paul and Mary
+    nn: Peter
+    pa: ਪੀਟਰ, ਪੌਲ ਅਤੇ ਮੈਰੀ
+    pl: Peter, Paul and Mary
+    pt: Peter, Paul and Mary
+    pt-br: Peter, Paul and Mary
+    ru: Peter, Paul and Mary
+    scn: Peter, Paul and Mary
+    sr: Piter, Pol i Meri
+    sv: Peter, Paul and Mary
+    sw: Peter, Paul na Mary
+    th: ปีเตอร์ พอล แอนด์ แมรี
+    tr: Peter, Paul and Mary
+    uk: Peter, Paul and Mary
+    vi: Peter
+    war: Peter, Paul and Mary
+    yue: 彼得、保羅與瑪莉
+    zh: 彼得、保羅和瑪麗
+    zh-hans: 彼得、保罗和玛丽
+    zh-hant: 彼得、保羅和瑪麗
+    zh-hk: 彼得、保羅和瑪麗
 ---
-
 # [[Peter,Paul_and_Mary]] 
 
 #is_/same_as :: [[WD~Peter,_Paul_and_Mary,654716]] 

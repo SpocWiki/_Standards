@@ -1,23 +1,144 @@
 ---
-has_time_started: 1730-01-01 
+has_time_started: 1730-01-01
 aliases:
+- Aetas Classica
+- an linn chlasaigeach
+- an Ré Chlasaiceach
+- Clasicismo musical
+- Classical period
+- classicisme
+- classicisme musical
+- classicismo
+- glasbeni klasicizem
+- Hudobný klasicizmus
+- Klasicisms
+- klasicismus
+- Klasicizam
+- klasika epoko
+- klasizismo
+- Klasična muzika
+- Klassik
+- Klassisismen
+- Klassisismen i musikk
+- klassismin musiikki
+- klassitsism
+- Klassitsizm davr musiqasi
+- klasycyzm w muzyce
+- musique de la période classique
+- Muzik era klasikal
+- Música del Clasicismu
+- música do clasicismo
+- perjodu klassiku
+- período clássico
+- Wienerklassikken
+- y cyfnod Clasurol
+- Zaman Klasik
+- âm nhạc cổ điển
+- Κλασική εποχή της μουσικής
+- Класицизам (музика)
+- Класицизъм
+- класицистичка музика
+- музика епохи класицизму
+- музыка класіцызму
+- музыка клясыцызму
+- музыка эпохи классицизма
+- мусиқии давраи классик
+- Դասական երաժշտութեան ժամանակաշրջան
+- Դասական ժամանակաշրջան
+- התקופה הקלאסית
+- קלאסישע פעריאדע
+- الفترة الكلاسيكية
+- الفتره الكلاسيكيه
+- د کلاسیکي دورې موسیقي
+- سەردەمی کلاسیک
+- موسیقی دوره کلاسیک
+- کلاسیک دور
+- पाश्चात्य संगीतया शास्त्रीय काल
+- शास्त्रीय काल (संगीत)
+- ดนตรีสมัยคลาสสิก
+- 古典主义音乐
+- 古典主義音樂
+- 古典派音楽
+- 고전파 음악
 has_id_wikidata: Q17723
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
 different_from:
-  - "[[_Standards/WikiData/WD~art_music,1583807]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+- '[[_Standards/WikiData/WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Classical_period_(music),20343920]]"
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Classical_period_(music),20343920]]'
 inception: 1730-01-01T00:00:00Z
-follows: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
+follows: '[[_Standards/WikiData/WD~Baroque_music,8361]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mozart%20family%20crop.jpg
 Commons_category: Classical music (period)
+dv_has_:
+  name_:
+    ar: الفترة الكلاسيكية
+    arz: الفتره الكلاسيكيه
+    ast: Música del Clasicismu
+    be: музыка класіцызму
+    be-tarask: музыка клясыцызму
+    bg: Класицизъм
+    bs: Klasična muzika
+    ca: classicisme musical
+    ckb: سەردەمی کلاسیک
+    cs: klasicismus
+    cy: y cyfnod Clasurol
+    da: Wienerklassikken
+    de: Klassik
+    el: Κλασική εποχή της μουσικής
+    en: Classical period
+    eo: klasika epoko
+    es: Clasicismo musical
+    et: klassitsism
+    eu: klasizismo
+    fa: موسیقی دوره کلاسیک
+    fi: klassismin musiikki
+    fr: musique de la période classique
+    ga: an Ré Chlasaiceach
+    gd: an linn chlasaigeach
+    gl: música do clasicismo
+    he: התקופה הקלאסית
+    hi: शास्त्रीय काल (संगीत)
+    hy: Դասական ժամանակաշրջան
+    hyw: Դասական երաժշտութեան ժամանակաշրջան
+    id: Zaman Klasik
+    it: classicismo
+    ja: 古典派音楽
+    ko: 고전파 음악
+    la: Aetas Classica
+    lv: Klasicisms
+    mk: класицистичка музика
+    ms: Muzik era klasikal
+    mt: perjodu klassiku
+    nb: Klassisismen
+    new: पाश्चात्य संगीतया शास्त्रीय काल
+    nl: classicisme
+    nn: Klassisismen i musikk
+    pl: klasycyzm w muzyce
+    ps: د کلاسیکي دورې موسیقي
+    pt: período clássico
+    pt-br: período clássico
+    ru: музыка эпохи классицизма
+    sh: Klasicizam
+    sk: Hudobný klasicizmus
+    sl: glasbeni klasicizem
+    sr: Класицизам (музика)
+    sr-ec: Класицизам (музика)
+    tg: мусиқии давраи классик
+    th: ดนตรีสมัยคลาสสิก
+    uk: музика епохи класицизму
+    ur: کلاسیک دور
+    uz: Klassitsizm davr musiqasi
+    vi: âm nhạc cổ điển
+    yi: קלאסישע פעריאדע
+    yue: 古典主義音樂
+    zh: 古典主义音乐
 ---
-
 # [[Classical_Period]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Classical_period,17723|WD~Classical_period,17723]] 

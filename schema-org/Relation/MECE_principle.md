@@ -1,16 +1,33 @@
 ---
 aliases:
-  - mutually exclusive
-  - collectively exhaustive
-  - MECE
-  - MECE principle
+- collectively exhaustive
+- MECE
+- MECE principle
+- MECE prinsipi
+- MECE-principe
+- MECE-Regel
+- MECE原理
+- mutually exclusive
+- اصل_MECE
+- مبدأ التنافي والشمولية
 has_id_wikidata: Q1074664
-instance_of: "[[_Standards/WikiData/WD~principle,1550643]]"
+instance_of: '[[_Standards/WikiData/WD~principle,1550643]]'
 dv_is_:
-  same_as: "[[WD~MECE_principle,1074664]]"
-dv_is_same_as: "[[WD~MECE_principle,1074664]]"
+  same_as: '[[WD~MECE_principle,1074664]]'
+dv_is_same_as: '[[WD~MECE_principle,1074664]]'
+dv_has_:
+  name_:
+    ar: مبدأ التنافي والشمولية
+    az: MECE prinsipi
+    de: MECE-Regel
+    en: MECE principle
+    fa: اصل_MECE
+    ja: MECE
+    ko: MECE
+    nb: MECE
+    nl: MECE-principe
+    zh: MECE原理
 ---
-
 # [[MECE_principle]] 
 
 is_same_as = `=this.dv_is_same_as` 

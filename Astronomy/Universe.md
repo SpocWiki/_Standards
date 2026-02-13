@@ -1,117 +1,517 @@
 ---
 aliases:
-  - Universum
-  - Cosmos
-  - Kosmos
-  - Universe
+- Al
+- Alam samasta
+- Alam semesta
+- ale
+- Alheimurin
+- Alheimurinn
+- Amansan
+- Ameɣrad
+- an Chruinne
+- Annevierzo
+- ao tukupū
+- Arapy
+- bydysawd
+- Cemānāhuac
+- Ch'askancha
+- Chilengedwe
+- Cosmos
+- Domhan
+- Dunia
+- Dunya raya
+- Eluigwe na Ala
+- Eunivers
+- evren
+- Gerdûn
+- gjithësi
+- Hawaa
+- heelal
+- hielal
+- hollved
+- Ihlabathi
+- Izao rehetra izao
+- jagat
+- Jegeya
+- kainat
+- Koon
+- Kosmos
+- kâinat
+- la munje
+- law-ang
+- leval
+- Linivè
+- Linivèr
+- maailmankaikkeus
+- maailmubâlâšvuotâ
+- maaiʹlmpukvuõtt
+- Matilo
+- Mir
+- máilmmiávus
+- Olam
+- ollvys
+- Ouniberso
+- Rudunhumwe
+- Sangkalibutan
+- Sansaar
+- sansinukob
+- Sararin samaniya
+- Sikluban
+- Svemir
+- Swiatnica
+- Ulimwengu
+- uMkhathilibe
+- Uniberso
+- unibertso
+- Univas
+- Univers
+- Universe
+- universet
+- Universi
+- universo
+- universu
+- Universum
+- univiers
+- Univèrs
+- Uniwersum
+- vesmír
+- vesolje
+- világegyetem
+- visata
+- Visums
+- Vuravura taucoko
+- Vėsata
+- vũ trụ
+- Weldall
+- Wszechświat
+- Wödall
+- Wẹkẹ
+- Yijcou
+- Yunivoers
+- Yágháhookáán
+- Yî-chhiu
+- àgbàláayé
+- Álem
+- Åål
+- Çут Тĕнче
+- Ú-tiū
+- Ünivers
+- Ğäläm
+- σύμπαν
+- Аалам
+- Айлам
+- акосмос
+- Болум
+- Весмір
+- вселена
+- Вселенная
+- всесвіт
+- Галәм
+- Дун-дуне
+- Енкӧла
+- Инсьӧрулос
+- Коинот
+- Орчлон
+- Оршолон
+- Свемир
+- сусвет
+- сусьвет
+- Чилер-цавар
+- Ғаләм
+- Ӏалам
+- Әлем
+- տիեզերք
+- אוניווערס
+- היקום
+- ائورن
+- سَمسار
+- عالم سمستا
+- فضاء كوني
+- كون
+- ورن
+- کائنات
+- کاينات
+- کهون
+- ڪائنات
+- گیتی
+- گەردوون
+- ܬܒܝܠ
+- ߖߊ߯ߓߊ
+- ब्रह्मांड
+- ब्रह्माण्ड
+- विश्व
+- বিশ্বব্ৰহ্মাণ্ড
+- মহাবিশ্ব
+- ਬ੍ਰਹਿਮੰਡ
+- બ્રહ્માંડ
+- ବ୍ରହ୍ମାଣ୍ଡ
+- அண்டம்
+- విశ్వం
+- ಬ್ರಹ್ಮಾಂಡ
+- പ്രപഞ്ചം
+- විශ්වය
+- เอกภพ
+- ເອກະພົບ
+- འཇིག་རྟེན་
+- စကြဝဠာ
+- ოქიანუ
+- სამყარო
+- ጠፈር
+- ᎦᎸᎶᎯ ᎦᎸᎾᏗ
+- ᨕᨒ
+- ᱚᱣᱟᱝ
+- Ṳ̄-dêu
+- ⵉⵖⵣⵡⵔ
+- 宇宙
+- 우주
 has_id_wikidata: Q1
 Baidu_Tieba_name: 宇宙
 Commons_category: Universe
 contains:
-  - "[[_Standards/WikiData/WD~dark_matter,79925]]"
-  - "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
-  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
+- '[[_Standards/WikiData/WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~baryonic_matter,6005984]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
 density: 9.9e-27
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]"
-  - "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]'
+- '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]'
 Dewey_Decimal_Classification:
-  - 523.1
-  - 113
+- 523.1
+- 113
 diameter: 8.8e+23
 different_from:
-  - "[[_Standards/WikiData/WD~Bydysawd,229206]]"
-  - "[[_Standards/WikiData/WD~Cosmos,229275]]"
-  - "[[_Standards/WikiData/WD~All,250965]]"
-  - "[[_Standards/WikiData/WD~Mir,578668]]"
-  - "[[_Standards/WikiData/WD~Evren,1214609]]"
-  - "[[_Standards/WikiData/WD~Kosmos,3199067]]"
-  - "[[_Standards/WikiData/WD~Vesmír,4005952]]"
-  - "[[_Standards/WikiData/WD~Dunia,5315283]]"
-  - "[[_Standards/WikiData/WD~Universo,7896824]]"
-  - "[[_Standards/WikiData/WD~Universum,7896833]]"
-  - "[[_Standards/WikiData/WD~Al,12784077]]"
-  - "[[_Standards/WikiData/WD~Wszechświat,16072065]]"
-  - "[[_Standards/WikiData/WD~Alam_semesta,16289348]]"
-  - "[[_Standards/WikiData/WD~Vũ_trụ,18461356]]"
-  - "[[_Standards/WikiData/WD~Kosmosas,20503137]]"
-  - "[[_Standards/WikiData/WD~Univers,23893549]]"
-  - "[[_Standards/WikiData/WD~Universe,28336911]]"
-does_not_have_part: "[[_Standards/WikiData/WD~parallel_universe,2051667]]"
+- '[[_Standards/WikiData/WD~Bydysawd,229206]]'
+- '[[_Standards/WikiData/WD~Cosmos,229275]]'
+- '[[_Standards/WikiData/WD~All,250965]]'
+- '[[_Standards/WikiData/WD~Mir,578668]]'
+- '[[_Standards/WikiData/WD~Evren,1214609]]'
+- '[[_Standards/WikiData/WD~Kosmos,3199067]]'
+- '[[_Standards/WikiData/WD~Vesmír,4005952]]'
+- '[[_Standards/WikiData/WD~Dunia,5315283]]'
+- '[[_Standards/WikiData/WD~Universo,7896824]]'
+- '[[_Standards/WikiData/WD~Universum,7896833]]'
+- '[[_Standards/WikiData/WD~Al,12784077]]'
+- '[[_Standards/WikiData/WD~Wszechświat,16072065]]'
+- '[[_Standards/WikiData/WD~Alam_semesta,16289348]]'
+- '[[_Standards/WikiData/WD~Vũ_trụ,18461356]]'
+- '[[_Standards/WikiData/WD~Kosmosas,20503137]]'
+- '[[_Standards/WikiData/WD~Univers,23893549]]'
+- '[[_Standards/WikiData/WD~Universe,28336911]]'
+does_not_have_part: '[[_Standards/WikiData/WD~parallel_universe,2051667]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~spacetime,133327]]"
-  - "[[_Standards/WikiData/WD~observable_universe,221392]]"
-  - "[[_Standards/WikiData/WD~galaxy_filament,1133705]]"
-  - "[[_Standards/WikiData/WD~outer_space,4169]]"
+- '[[_Standards/WikiData/WD~spacetime,133327]]'
+- '[[_Standards/WikiData/WD~observable_universe,221392]]'
+- '[[_Standards/WikiData/WD~galaxy_filament,1133705]]'
+- '[[_Standards/WikiData/WD~outer_space,4169]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~dark_matter,79925]]"
-  - "[[_Standards/WikiData/WD~field,185674]]"
-  - "[[_Standards/WikiData/WD~intergalactic_dust,2504088]]"
-  - "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
-  - "[[_Standards/WikiData/WD~physical_substance,28732711]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
+- '[[_Standards/WikiData/WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~field,185674]]'
+- '[[_Standards/WikiData/WD~intergalactic_dust,2504088]]'
+- '[[_Standards/WikiData/WD~baryonic_matter,6005984]]'
+- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
 has_time_started: -13798000000
-history_of_topic: "[[_Standards/WikiData/WD~chronology_of_the_universe,136407]]"
+history_of_topic: '[[_Standards/WikiData/WD~chronology_of_the_universe,136407]]'
 Iconclass_notation: 51A11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg
-instance_of: "[[_Standards/WikiData/WD~universe,36906466]]"
+instance_of: '[[_Standards/WikiData/WD~universe,36906466]]'
 mass: 1e+53
-named_by: "[[_Standards/WikiData/WD~Philipp_von_Zesen,76458]]"
+named_by: '[[_Standards/WikiData/WD~Philipp_von_Zesen,76458]]'
 OmegaWiki_Defined_Meaning: 8506
-opposite_of: "[[_Standards/WikiData/WD~antiverse,4067028]]"
+opposite_of: '[[_Standards/WikiData/WD~antiverse,4067028]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Evren%20-%20T%C3%BCrk%C3%A7e%20telaffuz%20sesi.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Alam%20Semesta.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Universum.ogg
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~world,16502]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Evren%20-%20T%C3%BCrk%C3%A7e%20telaffuz%20sesi.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Alam%20Semesta.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Universum.ogg
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502]]'
 shape:
-  - http://www.wikidata.org/.well-known/genid/174b843fbdcde70c032c4283b79470a8
-  - "[[_Standards/WikiData/WD~flatness,5457948]]"
+- http://www.wikidata.org/.well-known/genid/174b843fbdcde70c032c4283b79470a8
+- '[[_Standards/WikiData/WD~flatness,5457948]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]"
-  - "[[_Standards/WikiData/WD~photon_epoch,1079806]]"
-  - "[[_Standards/WikiData/WD~lepton_epoch,1079826]]"
-  - "[[_Standards/WikiData/WD~quark_epoch,1208634]]"
-  - "[[_Standards/WikiData/WD~hadron_epoch,3491753]]"
+- '[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]'
+- '[[_Standards/WikiData/WD~photon_epoch,1079806]]'
+- '[[_Standards/WikiData/WD~lepton_epoch,1079826]]'
+- '[[_Standards/WikiData/WD~quark_epoch,1208634]]'
+- '[[_Standards/WikiData/WD~hadron_epoch,3491753]]'
 Stack_Exchange_tag:
-  - https://physics.stackexchange.com/tags/universe
-  - https://astronomy.stackexchange.com/tags/universe
-  - https://philosophy.stackexchange.com/tags/universe
+- https://physics.stackexchange.com/tags/universe
+- https://astronomy.stackexchange.com/tags/universe
+- https://philosophy.stackexchange.com/tags/universe
 start_time: -13798000000
 studied_in:
-  - "[[_Standards/WikiData/WD~cosmogony,170835]]"
-  - "[[_Standards/WikiData/WD~cosmology,338]]"
+- '[[_Standards/WikiData/WD~cosmogony,170835]]'
+- '[[_Standards/WikiData/WD~cosmology,338]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Universe_navboxes,6312136]]"
-  - "[[_Standards/WikiData/WD~Template_Universe,22903368]]"
+- '[[_Standards/WikiData/WD~Template_Universe_navboxes,6312136]]'
+- '[[_Standards/WikiData/WD~Template_Universe,22903368]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20das%20Universum%3F.webm
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Universe,1|WD~Universe,1]]"
-    - "[[/_Standards/Astronomy/Universe|Universe]]"
-    - "[[/_public/Astronomy/Universe.public|Universe.public]]"
-    - "[[/_internal/Astronomy/Universe.internal|Universe.internal]]"
-    - "[[/_protect/Astronomy/Universe.protect|Universe.protect]]"
-    - "[[/_private/Astronomy/Universe.private|Universe.private]]"
-    - "[[/_personal/Astronomy/Universe.personal|Universe.personal]]"
-    - "[[/_secret/Astronomy/Universe.secret|Universe.secret]]"
+  - '[[../WikiData/WD~Universe,1|WD~Universe,1]]'
+  - '[[/_Standards/Astronomy/Universe|Universe]]'
+  - '[[/_public/Astronomy/Universe.public|Universe.public]]'
+  - '[[/_internal/Astronomy/Universe.internal|Universe.internal]]'
+  - '[[/_protect/Astronomy/Universe.protect|Universe.protect]]'
+  - '[[/_private/Astronomy/Universe.private|Universe.private]]'
+  - '[[/_personal/Astronomy/Universe.personal|Universe.personal]]'
+  - '[[/_secret/Astronomy/Universe.secret|Universe.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Universe,1|WD~Universe,1]]"
-  - "[[/_Standards/Astronomy/Universe|Universe]]"
-  - "[[/_public/Astronomy/Universe.public|Universe.public]]"
-  - "[[/_internal/Astronomy/Universe.internal|Universe.internal]]"
-  - "[[/_protect/Astronomy/Universe.protect|Universe.protect]]"
-  - "[[/_private/Astronomy/Universe.private|Universe.private]]"
-  - "[[/_personal/Astronomy/Universe.personal|Universe.personal]]"
-  - "[[/_secret/Astronomy/Universe.secret|Universe.secret]]"
+- '[[../WikiData/WD~Universe,1|WD~Universe,1]]'
+- '[[/_Standards/Astronomy/Universe|Universe]]'
+- '[[/_public/Astronomy/Universe.public|Universe.public]]'
+- '[[/_internal/Astronomy/Universe.internal|Universe.internal]]'
+- '[[/_protect/Astronomy/Universe.protect|Universe.protect]]'
+- '[[/_private/Astronomy/Universe.private|Universe.private]]'
+- '[[/_personal/Astronomy/Universe.personal|Universe.personal]]'
+- '[[/_secret/Astronomy/Universe.secret|Universe.secret]]'
+dv_has_:
+  name_:
+    ab: акосмос
+    af: heelal
+    am: ጠፈር
+    an: Universo
+    ar: فضاء كوني
+    arc: ܬܒܝܠ
+    ary: كون
+    arz: كون
+    as: বিশ্বব্ৰহ্মাণ্ড
+    ast: universu
+    az: kainat
+    azb: ائورن
+    ba: Ғаләм
+    ban: Alam Semesta
+    bar: Wödall
+    bcl: Uniberso
+    be: сусвет
+    be-tarask: сусьвет
+    bg: Вселена
+    bho: ब्रह्मांड
+    bn: মহাবিশ্ব
+    bo: འཇིག་རྟེན་
+    br: hollved
+    bs: svemir
+    btm: Alam semesta
+    bug: ᨕᨒ
+    bxr: Оршолон
+    ca: Univers
+    cdo: Ṳ̄-dêu
+    ce: Ӏалам
+    ceb: Uniberso
+    chr: ᎦᎸᎶᎯ ᎦᎸᎾᏗ
+    ckb: گەردوون
+    co: universu
+    crh: kâinat
+    crh-ro: álem
+    cs: vesmír
+    csb: Swiatnica
+    cv: Çут Тĕнче
+    cy: bydysawd
+    da: Universet
+    dag: Dunia
+    de: Universum
+    de-at: Universum
+    de-ch: Universum
+    diq: Kainat
+    dsb: Uniwersum
+    el: σύμπαν
+    en: universe
+    en-ca: universe
+    en-gb: universe
+    en-us: universe
+    eo: universo
+    es: universo
+    et: universum
+    eu: unibertso
+    ext: universu
+    fa: گیتی
+    fi: maailmankaikkeus
+    fj: Vuravura taucoko
+    fo: Alheimurin
+    fr: univers
+    frr: Åål
+    fy: Hielal
+    ga: an Chruinne
+    gcr: Linivèr
+    gd: Domhan
+    gl: universo
+    gn: Arapy
+    gor: Alam semesta
+    gsw: Universum
+    gu: બ્રહ્માંડ
+    guw: Wẹkẹ
+    ha: Sararin samaniya
+    hak: Yî-chhiu
+    he: היקום
+    hi: ब्रह्माण्ड
+    hif: Sansaar
+    hr: svemir
+    hsb: Uniwersum
+    ht: Linivè
+    hu: világegyetem
+    hy: տիեզերք
+    hyw: Տիեզերք
+    ia: universo
+    iba: Dunya raya
+    id: alam semesta
+    ie: Universe
+    ig: Eluigwe na Ala
+    ilo: law-ang
+    inh: Айлам
+    io: Universo
+    is: Alheimurinn
+    it: universo
+    ja: 宇宙
+    jam: Yunivoers
+    jbo: la munje
+    jv: Alam semesta
+    ka: სამყარო
+    kaa: Álem
+    kab: Ameɣrad
+    kk: Әлем
+    kn: ಬ್ರಹ್ಮಾಂಡ
+    knc: Universe
+    ko: 우주
+    krc: Болум
+    ks: سَمسار
+    ku: Gerdûn
+    kv: Енкӧла
+    kw: ollvys
+    ky: Аалам
+    la: universum
+    lb: Universum
+    lez: Чилер-цавар
+    lfn: Universo
+    li: Universum
+    lij: Universo
+    lld: Univers
+    lmo: Ünivers
+    lo: ເອກະພົບ
+    lt: visata
+    lv: Visums
+    lzh: 宇宙
+    lzz: Universi
+    mag: ब्रह्माण्ड
+    mg: Izao rehetra izao
+    mi: ao tukupū
+    min: Alam samasta
+    mk: вселена
+    ml: പ്രപഞ്ചം
+    mn: Орчлон
+    mr: विश्व
+    ms: Alam Semesta
+    ms-arab: عالم سمستا
+    mt: univers
+    mwl: Ouniberso
+    my: စကြဝဠာ
+    mzn: کهون
+    nah: Cemānāhuac
+    nan: Ú-tiū
+    nap: Annevierzo
+    nb: universet
+    nds: Universum
+    nds-nl: hielal
+    ne: ब्रह्माण्ड
+    new: ब्रह्माण्ड
+    nl: heelal
+    nn: universet
+    nov: Universe
+    nqo: ߖߊ߯ߓߊ
+    nrm: Eunivers
+    nv: Yágháhookáán
+    ny: Chilengedwe
+    oc: Univèrs
+    om: Hawaa
+    or: ବ୍ରହ୍ମାଣ୍ଡ
+    os: Дун-дуне
+    ota: ورن
+    pa: ਬ੍ਰਹਿਮੰਡ
+    pam: Sikluban
+    pap: universo
+    pcm: Univas
+    pfl: Weldall
+    pl: wszechświat
+    pms: Univers
+    pnb: کائنات
+    ps: کاينات
+    pt: universo
+    pt-br: universo
+    qu: Ch'askancha
+    rki: စကြဝဠာ
+    rmy: Jegeya
+    ro: univers
+    ru: Вселенная
+    rue: Весмір
+    ryu: 宇宙
+    sat: ᱚᱣᱟᱝ
+    scn: universu
+    sco: Universe
+    sd: ڪائنات
+    se: máilmmiávus
+    sgs: Vėsata
+    sh: svemir
+    si: විශ්වය
+    sk: vesmír
+    sl: vesolje
+    smn: maailmubâlâšvuotâ
+    sms: maaiʹlmpukvuõtt
+    sn: Rudunhumwe
+    so: Koon
+    sq: gjithësi
+    sr: свемир
+    sr-ec: Свемир
+    sr-el: Svemir
+    stq: Al
+    su: jagat
+    sv: universum
+    sw: Ulimwengu
+    szl: Wszechświat
+    ta: அண்டம்
+    te: విశ్వం
+    tg: Коинот
+    th: เอกภพ
+    tl: sansinukob
+    tok: ale
+    tr: evren
+    ts: Matilo
+    tt: Галәм
+    tt-cyrl: Галәм
+    tt-latn: Ğäläm
+    tw: Amansan
+    udm: Инсьӧрулос
+    uk: всесвіт
+    ur: کائنات
+    uz: Olam
+    vec: universo
+    vep: Mir
+    vi: vũ trụ
+    vo: leval
+    wa: univiers
+    war: Sangkalibutan
+    wuu: 宇宙
+    xh: Ihlabathi
+    xmf: ოქიანუ
+    yi: אוניווערס
+    yo: àgbàláayé
+    yue: 宇宙
+    za: Yijcou
+    zgh: ⵉⵖⵣⵡⵔ
+    zh: 宇宙
+    zh-cn: 宇宙
+    zh-hans: 宇宙
+    zh-hant: 宇宙
+    zh-hk: 宇宙
+    zh-mo: 宇宙
+    zh-my: 宇宙
+    zh-sg: 宇宙
+    zh-tw: 宇宙
+    zu: uMkhathilibe
 ---
-
 # [[Universe]] 
 
 #is_/same_as :: [[../WikiData/WD~Universe,1|WD~Universe,1]] 

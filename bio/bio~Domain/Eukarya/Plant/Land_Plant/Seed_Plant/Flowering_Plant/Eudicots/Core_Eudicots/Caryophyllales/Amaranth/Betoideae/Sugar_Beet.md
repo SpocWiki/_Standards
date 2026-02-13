@@ -1,10 +1,170 @@
 ---
 aliases:
-  - Zuckerrübe
-  - sugar beet
-  - Sugar_Beet
-  - Sugar Beet
+- Angersche
+- azukre-erremolatxa
+- barbabietola da zucchero
+- Beetys shugyr
+- Beta vulgaris subsp. vulgaris Altissima Group
+- Beta vulgaris subsp. vulgaris var. altissima
+- beterraba-sacarina
+- Betravo
+- betterave sucrière
+- betysen siwgwr
+- Biétrape éd chucq
+- burak cukrowy
+- Cokorowa rěpa
+- cukorrépa
+- Cukrinis runkelis
+- Cukrová repa
+- cukrová řepa
+- cukurbietes
+- củ cải đường
+- Qand lavlagi
+- Qant qızılşası
+- Remolacha azucreira
+- remolatxa sucrera
+- sfeclă de zahăr
+- sladkorna pesa
+- sockerbeta
+- sokerijuurikas
+- Sokerrööw
+- Sokrėnis ronkelis
+- sugar beet
+- Sugar_Beet
+- Suhkrupeet
+- Suikerbeet
+- suikerbiet
+- sukerbeto
+- Sukerbête
+- sukkerbete
+- Sukkerroe
+- Sykurrófa
+- Umbi bit
+- Zuckerröb
+- Zuckerrübe
+- Şeker pancarı
+- Şəkər çuğunduru
+- Šećerna repa
+- Ζαχαρότευτλο
+- Захарно цвекло
+- Кант кызылчасы
+- Сæкæры цæхæра
+- Сахăр кăшманĕ
+- сахарная свёкла
+- цукровий буряк
+- цукровы бурак
+- шећерна репа
+- Шеќерна репка
+- Қант қызылшасы
+- շաքարի ճակնդեղ
+- בוריק
+- סלק סוכר
+- شمندر سكرى
+- شمندر سكري
+- قانت قىزىلشاسى
+- چغندر قند
+- چقندر شکر
+- চিনি বীট
+- ഷുഗർ ബീറ്റ്
+- შაქრის ჭარხალი
+- テンサイ
+- 糖用甜菜
+- 사탕무
 has_id_wikidata: Q151964
+dv_has_:
+  name_:
+    af: Suikerbeet
+    ar: شمندر سكري
+    arz: شمندر سكرى
+    ast: Beta vulgaris subsp. vulgaris Altissima Group
+    az: Şəkər çuğunduru
+    be: цукровы бурак
+    be-tarask: цукровы бурак
+    bg: Захарно цвекло
+    bn: চিনি বীট
+    bs: Šećerna repa
+    ca: remolatxa sucrera
+    ceb: Beta vulgaris subsp. vulgaris Altissima Group
+    cs: cukrová řepa
+    cv: Сахăр кăшманĕ
+    cy: betysen siwgwr
+    da: Sukkerroe
+    de: Zuckerrübe
+    el: Ζαχαρότευτλο
+    en: sugar beet
+    en-ca: Sugar beet
+    en-gb: sugar beet
+    eo: sukerbeto
+    es: Beta vulgaris subsp. vulgaris var. altissima
+    et: Suhkrupeet
+    eu: azukre-erremolatxa
+    fa: چغندر قند
+    fi: sokerijuurikas
+    fr: betterave sucrière
+    frr: Sokerrööw
+    ga: Beta vulgaris subsp. vulgaris Altissima Group
+    gl: Remolacha azucreira
+    gsw: Angersche
+    gv: Beetys shugyr
+    he: סלק סוכר
+    hr: Šećerna repa
+    hsb: Cokorowa rěpa
+    hu: cukorrépa
+    hy: շաքարի ճակնդեղ
+    id: Umbi bit
+    io: Betravo
+    is: Sykurrófa
+    it: barbabietola da zucchero
+    ja: テンサイ
+    ka: შაქრის ჭარხალი
+    kk: Қант қызылшасы
+    kk-arab: قانت قىزىلشاسى
+    kk-cn: قانت قىزىلشاسى
+    kk-cyrl: Қант қызылшасы
+    kk-kz: Қант қызылшасы
+    kk-latn: Qant qızılşası
+    kk-tr: Qant qızılşası
+    ko: 사탕무
+    ksh: Zuckerröb
+    ky: Кант кызылчасы
+    la: Beta vulgaris subsp. vulgaris var. altissima
+    lt: Cukrinis runkelis
+    lv: cukurbietes
+    mk: Шеќерна репка
+    ml: ഷുഗർ ബീറ്റ്
+    nb: sukkerbete
+    nl: suikerbiet
+    nn: sukkerbete
+    os: Сæкæры цæхæра
+    pcd: Biétrape éd chucq
+    pl: burak cukrowy
+    pt: beterraba-sacarina
+    pt-br: Beterraba-sacarina
+    ro: sfeclă de zahăr
+    ru: сахарная свёкла
+    sgs: Sokrėnis ronkelis
+    sh: Šećerna repa
+    sk: Cukrová repa
+    sl: sladkorna pesa
+    sq: Beta vulgaris subsp. vulgaris Altissima Group
+    sr: шећерна репа
+    sv: sockerbeta
+    tr: Şeker pancarı
+    uk: цукровий буряк
+    ur: چقندر شکر
+    uz: Qand lavlagi
+    vi: củ cải đường
+    vls: Sukerbête
+    war: Beta vulgaris subsp. vulgaris Altissima Group
+    wuu: 糖用甜菜
+    yi: בוריק
+    zh: 糖用甜菜
+    zh-cn: 糖用甜菜
+    zh-hans: 糖用甜菜
+    zh-hant: 糖用甜菜
+    zh-hk: 糖用甜菜
+    zh-sg: 糖用甜菜
+    zh-tw: 糖用甜菜
 ---
 #has_/time_/started :: 1802-06-01 
 

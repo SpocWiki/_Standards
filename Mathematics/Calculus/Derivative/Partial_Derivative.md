@@ -1,24 +1,147 @@
 ---
 aliases:
+- Dalinė išvestinė
+- Derbes twındı
+- Deribatu partzial
+- Derivada parcial
+- derivata parziale
+- Derivati pjesor
+- Derivată parțială
+- dérivée partielle
+- Hlutafleiða
+- Kısmi türev
+- Osatuletis
+- osittaisderivaatta
+- parcialni odvod
+- parciális derivált
+- Parciálna derivácia
+- Parciální derivace
+- Parsiyal na deribatibo
+- parta derivaĵo
+- partial derivative
+- partiell derivasjon
+- Partiell derivata
+- Partiellderivert
+- partielle Ableitung
+- partiële afgeleide
+- pochodna cząstkowa
+- Turunan parsial
+- xüsusi törəmə
+- Đạo hàm riêng
+- Μερική παράγωγος
+- Айрым туунду
+- Айырым сығарылма
+- Дербес туынды
+- Парцијален извод
+- Парцијални извод
+- Харпăр тăхăм
+- часная вытворная
+- часткова похідна
+- Частковая вытворная
+- Частна производна
+- частная производная
+- נגזרת חלקית
+- بەشە گرتە
+- دەربەس تۋىندى
+- مشتق جزئي
+- مشتق پارهای
+- आन्शिक अवकलन गुनान्क
+- பகுதி வகைக்கெழு
+- 偏导数
+- 偏導數
+- 偏微分
+- 편미분
 has_id_wikidata: Q186475
 different_from:
-  - "[[_Standards/WikiData/WD~total_derivative,636889]]"
-  - "[[_Standards/WikiData/WD~boundary,875399]]"
-studied_by: "[[_Standards/WikiData/WD~multivariable_calculus,2035437]]"
-notation: "[[_Standards/WikiData/WD~partial_derivative_symbol,2920327]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-subclass_of: "[[_Standards/WikiData/WD~derivative,29175]]"
+- '[[_Standards/WikiData/WD~total_derivative,636889]]'
+- '[[_Standards/WikiData/WD~boundary,875399]]'
+studied_by: '[[_Standards/WikiData/WD~multivariable_calculus,2035437]]'
+notation: '[[_Standards/WikiData/WD~partial_derivative_symbol,2920327]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+subclass_of: '[[_Standards/WikiData/WD~derivative,29175]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>x</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>lim</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>x</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>lim</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Partial%20func%20eg.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/partial-derivative
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>x</mi></mrow></mrow></mfrac></mrow><mi>f</mi><mo stretchy="false">(</mo><mo>&#x2026;</mo><mo>,</mo><mi>x</mi><mo>,</mo><mo>&#x2026;</mo><mo stretchy="false">)</mo><mo stretchy="false">=</mo><munder><mi form="prefix">lim</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>h</mi><mo stretchy="false" accent="false">&#x2192;</mo><mn>0</mn></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>f</mi><mo stretchy="false">(</mo><mo>&#x2026;</mo><mo>,</mo><mi>x</mi><mo stretchy="false">+</mo><mi>h</mi><mo>,</mo><mo>&#x2026;</mo><mo stretchy="false">)</mo><mo stretchy="false">&#x2212;</mo><mi>f</mi><mo stretchy="false">(</mo><mo>&#x2026;</mo><mo>,</mo><mi>x</mi><mo>,</mo><mo>&#x2026;</mo><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>h</mi></mrow></mfrac></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: مشتق جزئي
+    ast: Derivada parcial
+    az: xüsusi törəmə
+    ba: Айырым сығарылма
+    be: Частковая вытворная
+    be-tarask: часная вытворная
+    bg: Частна производна
+    ca: derivada parcial
+    ckb: بەشە گرتە
+    cs: Parciální derivace
+    cv: Харпăр тăхăм
+    de: partielle Ableitung
+    de-ch: Partielle Ableitung
+    el: Μερική παράγωγος
+    en: partial derivative
+    en-ca: Partial derivative
+    en-gb: Partial derivative
+    eo: parta derivaĵo
+    es: derivada parcial
+    et: Osatuletis
+    eu: Deribatu partzial
+    fa: مشتق پارهای
+    fi: osittaisderivaatta
+    fr: dérivée partielle
+    gl: derivada parcial
+    he: נגזרת חלקית
+    hi: आन्शिक अवकलन गुनान्क
+    hu: parciális derivált
+    id: Turunan parsial
+    is: Hlutafleiða
+    it: derivata parziale
+    ja: 偏微分
+    kk: Дербес туынды
+    kk-arab: دەربەس تۋىندى
+    kk-cn: دەربەس تۋىندى
+    kk-cyrl: Дербес туынды
+    kk-kz: Дербес туынды
+    kk-latn: Derbes twındı
+    kk-tr: Derbes twındı
+    ko: 편미분
+    ky: Айрым туунду
+    lt: Dalinė išvestinė
+    lzh: 偏導數
+    mk: Парцијален извод
+    nb: partiell derivasjon
+    nl: partiële afgeleide
+    nn: Partiellderivert
+    pl: pochodna cząstkowa
+    pt: derivada parcial
+    pt-br: Derivada parcial
+    ro: Derivată parțială
+    ru: частная производная
+    sk: Parciálna derivácia
+    sl: parcialni odvod
+    sq: Derivati pjesor
+    sr: Парцијални извод
+    sr-ec: Парцијални извод
+    sv: Partiell derivata
+    ta: பகுதி வகைக்கெழு
+    tl: Parsiyal na deribatibo
+    tr: Kısmi türev
+    uk: часткова похідна
+    vi: Đạo hàm riêng
+    yue: 偏導數
+    zh: 偏导数
+    zh-cn: 偏导数
+    zh-hans: 偏导数
+    zh-hant: 偏導數
+    zh-hk: 偏導數
+    zh-sg: 偏导数
+    zh-tw: 偏導數
 ---
-
 # [[Partial_Derivative]] 
 
 #is_/same_as :: [[WD~Partial_derivative,186475]] 

@@ -1,20 +1,80 @@
 ---
 aliases:
-  - Wetterfront
-  - Weather_Front
-  - Weather Front
+- Aer-fronto
+- atmosfer cəbhəsi
+- Atmosfera frontlari
+- atmosfera şebi
+- Atmosferos frontas
+- Atmosferska fronta
+- atmosferski front
+- atmosférická fronta
+- Atmosfēras fronte
+- aтмосферски фронт
+- Cephe
+- Ffrynt
+- frente
+- front
+- front atmosferyczny
+- front meteorologic
+- Front meteorològich
+- front météorologique
+- fronta aeir
+- fronte
+- fronte meteorologico
+- fronto
+- Frònt (meteorologia)
+- Frông thời tiết
+- Fwon
+- légköri front
+- Perenggan (Meteorologi)
+- sistema frontal
+- Säärintama
+- Tal (kewer)
+- vremenska fronta
+- väderfront
+- værfront
+- vêrfront
+- Weather Front
+- Weather_Front
+- Weerfront
+- Wetterfront
+- ατμοσφαιρικό μέτωπο
+- агаарын фронт
+- атмасферны фронт
+- атмасфэрны фронт
+- атмосфера фронттары
+- атмосфера фронту
+- атмосфера шебі
+- атмосфераысь фронт
+- атмосферен фронт
+- атмосферний фронт
+- атмосферный фронт
+- атмосферски фронт
+- Մթնոլորտային ճակատ
+- חזית מזג אוויר
+- اتموسفەرا شەبى
+- جبهة هوائية
+- جبهه هوا
+- मौसमी फ्रंट
+- वाताग्र
+- 前線
+- 鋒
+- 鋒 (氣象)
+- 鋒面
+- 锋
+- 전선
 has_id_wikidata: Q189796
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cold_front,210316]]"
-  - "[[_Standards/WikiData/WD~warm_front,537536]]"
-  - "[[_Standards/WikiData/WD~occluded_front,747330]]"
-  - "[[_Standards/WikiData/WD~stationary_front,1194255]]"
-  - "[[_Standards/WikiData/WD~dry_line,2742789]]"
+- '[[_Standards/WikiData/WD~cold_front,210316]]'
+- '[[_Standards/WikiData/WD~warm_front,537536]]'
+- '[[_Standards/WikiData/WD~occluded_front,747330]]'
+- '[[_Standards/WikiData/WD~stationary_front,1194255]]'
+- '[[_Standards/WikiData/WD~dry_line,2742789]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-instance_of: "[[_Standards/WikiData/WD~interface,901882]]"
-has_cause: "[[_Standards/WikiData/WD~frontogenesis,2678309]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~interface,901882]]'
+has_cause: '[[_Standards/WikiData/WD~frontogenesis,2678309]]'
 OmegaWiki_Defined_Meaning: 6440
 Commons_category: Atmospheric fronts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surface%20analysis.gif
@@ -23,25 +83,102 @@ Commons_gallery: Weather front
 Dewey_Decimal_Classification: 551.5512
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]"
-    - "[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]"
-    - "[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]"
+  - '[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]'
+  - '[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]'
+  - '[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]"
-  - "[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]"
-  - "[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]"
+- '[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]'
+- '[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]'
+- '[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]'
+- '[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]'
+- '[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]'
+- '[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]'
+dv_has_:
+  name_:
+    af: Weerfront
+    ar: جبهة هوائية
+    az: atmosfer cəbhəsi
+    ba: атмосфера фронттары
+    be: атмасферны фронт
+    be-tarask: атмасфэрны фронт
+    bg: атмосферен фронт
+    bho: मौसमी फ्रंट
+    ca: front
+    cs: atmosférická fronta
+    cy: Ffrynt
+    de: Front
+    el: ατμοσφαιρικό μέτωπο
+    en: weather front
+    eo: fronto
+    es: frente
+    et: front
+    eu: fronte
+    fa: جبهه هوا
+    fi: Säärintama
+    fr: front météorologique
+    ga: fronta aeir
+    gl: fronte
+    he: חזית מזג אוויר
+    hi: वाताग्र
+    hr: Atmosferska fronta
+    ht: Fwon
+    hu: légköri front
+    hy: Մթնոլորտային ճակատ
+    id: Perenggan (Meteorologi)
+    io: Aer-fronto
+    it: fronte meteorologico
+    ja: 前線
+    kk: атмосфера шебі
+    kk-arab: اتموسفەرا شەبى
+    kk-cn: اتموسفەرا شەبى
+    kk-cyrl: атмосфера шебі
+    kk-kz: атмосфера шебі
+    kk-latn: atmosfera şebi
+    kk-tr: atmosfera şebi
+    ko: 전선
+    kw: Tal (kewer)
+    ky: атмосфера фронту
+    lmo: Front meteorològich
+    lt: Atmosferos frontas
+    lv: Atmosfēras fronte
+    mk: атмосферски фронт
+    mn: агаарын фронт
+    nb: værfront
+    nl: front
+    nn: vêrfront
+    oc: Frònt (meteorologia)
+    pl: front atmosferyczny
+    pt: sistema frontal
+    ro: front meteorologic
+    ru: атмосферный фронт
+    sk: front
+    sl: vremenska fronta
+    sr: атмосферски фронт
+    sr-ec: aтмосферски фронт
+    sr-el: atmosferski front
+    sv: väderfront
+    tr: Cephe
+    udm: атмосфераысь фронт
+    uk: атмосферний фронт
+    uz: Atmosfera frontlari
+    vi: Frông thời tiết
+    wuu: 鋒面
+    yue: 鋒面
+    zh: 鋒
+    zh-cn: 锋
+    zh-hans: 锋
+    zh-hant: 鋒
+    zh-hk: 鋒
+    zh-sg: 锋
+    zh-tw: 鋒 (氣象)
 ---
-
 # [[Weather_Front]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]  

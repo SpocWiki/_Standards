@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Prism
-  - Prisma
-  - Prism(Optics)
+- Dispersion prizmalar
+- Glerstrendingur
+- Kengereg
+- Lăng kính
+- optický hranol
+- optiline prisma
+- optisk prisme
+- poro kōata
+- Prism
+- Prism(Optics)
+- Prisma
+- Prisma optiko
+- prisma òptic
+- prisme
+- prismo
+- Prismă
+- Prizim
+- prizma
+- Prizmi
+- Prizmė
+- priżma
+- Pryzmat
+- Πρίσμα
+- призма
+- прызма
+- Պրիզմա (օպտիկա)
+- מנסרה
+- منشور
+- موشور
+- लोलक
+- संक्षेत्र
+- প্রিজম
+- ਰੰਗਾਵਲ
+- பட்டகம்
+- పట్టకం
+- ಅಶ್ರಕ
+- പ്രിസം
+- ප්රිස්ම - ක්රියාකරන අයුරු
+- ปริซึม (ทัศนศาสตร์)
+- プリズム
+- 三棱镜
+- 三稜鏡
+- 棱镜
+- 稜鏡
+- 프리즘
 has_id_wikidata: Q165896
 shape: '[[_Standards/WikiData/WD~prism,180544]]'
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -14,8 +56,97 @@ Commons_gallery: Prism
 Iconclass_notation: 49E253
 Wolfram_Language_entity_code: Entity["Concept", "OpticalPrism::2z765"]
 Commons_category: Prisms (optics)
+dv_has_:
+  name_:
+    af: prisma
+    ar: موشور
+    ast: Prisma
+    ba: Призма
+    be-tarask: прызма
+    bg: Призма
+    bn: প্রিজম
+    br: Kengereg
+    bs: Prizma
+    ca: prisma òptic
+    cs: optický hranol
+    da: optisk prisme
+    de: Prisma
+    el: Πρίσμα
+    en: prism
+    eo: prismo
+    es: prisma
+    et: optiline prisma
+    eu: Prisma optiko
+    fa: منشور
+    fi: prisma
+    fr: prisme
+    fy: Prisma
+    gan: 三稜鏡
+    gan-hans: 三棱镜
+    gan-hant: 三稜鏡
+    he: מנסרה
+    hi: संक्षेत्र
+    hr: Prizma
+    hu: prizma
+    hy: Պրիզմա (օպտիկա)
+    id: Prisma
+    is: Glerstrendingur
+    it: prisma
+    ja: プリズム
+    jam: Prizim
+    kn: ಅಶ್ರಕ
+    ko: 프리즘
+    la: Prisma
+    lt: Prizmė
+    lv: prizma
+    mi: poro kōata
+    mk: призма
+    ml: പ്രിസം
+    mr: लोलक
+    ms: Prisma
+    mt: priżma
+    nb: prisme
+    nl: prisma
+    nn: Optisk prisme
+    pa: ਰੰਗਾਵਲ
+    pl: Pryzmat
+    pms: Prisma
+    pt: prisma
+    ro: Prismă
+    ru: призма
+    sco: prism
+    se: prisma
+    sh: Prizma
+    si: ප්රිස්ම - ක්රියාකරන අයුරු
+    sk: Optický hranol
+    sl: prizma
+    smn: prisma
+    sq: Prizmi
+    sr: призма
+    sr-ec: Призма
+    sr-el: Prizma
+    su: Prisma
+    sv: prisma
+    ta: பட்டகம்
+    te: పట్టకం
+    th: ปริซึม (ทัศนศาสตร์)
+    tr: prizma
+    tt: Призма
+    uk: призма
+    ur: منشور
+    uz: Dispersion prizmalar
+    vi: Lăng kính
+    war: Prisma
+    wuu: 棱镜
+    yue: 三稜鏡
+    zh: 稜鏡
+    zh-cn: 棱镜
+    zh-hans: 棱镜
+    zh-hant: 稜鏡
+    zh-hk: 稜鏡
+    zh-sg: 棱镜
+    zh-tw: 稜鏡
 ---
-
 # [[Prism(Optics)]] 
 
 #is_/different_from :: [[../../../../Mathematics/Geometry/Prism(Geometry)|Prism(Geometry)]] 

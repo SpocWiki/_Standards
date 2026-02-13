@@ -1,69 +1,464 @@
 ---
 aliases:
-  - Brain
+- agy
+- ai
+- aivot
+- apytu'ũ
+- atidoha
+- besna
+- beyin
+- Brain
+- Brainge
+- Bregen
+- brein
+- bren
+- brien
+- brægen
+- burmuin
+- bɔngɔ́
+- Celebro
+- cerbo
+- cerebre
+- cerebro
+- cerebru
+- cerebrum
+- cervea
+- cerveau
+- cervell
+- cervello
+- cervèl
+- cherbeddu
+- chèrvé
+- ciriveddu
+- creier
+- cuāyōllōtl
+- cérebro
+- demax
+- dimag
+- eanchainn
+- empenn
+- encéfalo
+- fuu
+- fɩtɩyɩm
+- galvos smegenys
+- Gehier
+- Gehirn
+- harn
+- harsens
+- heili
+- Herre
+- hersenen
+- hjerne
+- hjärna
+- huropi
+- hutok
+- inchinn
+- insa lawa
+- kelle beýnisi
+- kunkolosɛmɛ
+- kwakwalwa
+- kǝrgen
+- lixwi
+- maskax
+- mezg
+- miy
+- miya
+- mona
+- mozak
+- mozek
+- mozog
+- mozy
+- možgani
+- mórzgi
+- mózg
+- Nden̄
+- náu
+- não
+- otak
+- peaaju
+- qaqisaq
+- roro
+- servel
+- serveło
+- smadzenes
+- smagėnis
+- sèrvo
+- sèvo
+- thèu-nó
+- to᷅ɔ᷅ŋ
+- tru
+- ubongo
+- ubuchopho
+- ubwonko
+- uk
+- Untak
+- utak
+- utek
+- uteuk
+- Utok
+- vuoigŋašat
+- vuoiŋâšeh
+- vuõivâšn
+- wirtip
+- ymennydd
+- ympynnyon
+- zarvèl
+- zuɣupuri
+- ñutqu
+- αχούλ
+- εγκέφαλος
+- баш мейеһе
+- баш мие
+- баш мээ нервдери
+- вуйдорык
+- галаўны мозаг
+- галаўны мозг
+- главен мозък
+- головний мозок
+- головной мозг
+- йырвиым
+- кьилин мефтӀ
+- мағзи сар
+- ми
+- мозак
+- мозок
+- мозоґ
+- мэйии
+- ня
+- пӀадалнах
+- тархи
+- удем
+- хье
+- хьоа
+- юр вем
+- գլխուղեղ
+- מוח
+- بئیین
+- دماغ
+- ماغزه
+- مخ
+- مخّ
+- مغز
+- مێشک
+- مېڭە
+- کوڈ
+- ܡܘܚܐ
+- ސިކުނޑި
+- ߞߎ߲߬ߣߍ߮
+- दिमाग
+- न्ह्येपु
+- मस्तिष्क
+- मस्तिष्कम्
+- मेंदू
+- মস্তিষ্ক
+- ਦਿਮਾਗ਼
+- મગજ
+- ମସ୍ତିଷ୍କ
+- மனித மூளை
+- మెదడు
+- ಮೆದುಳು
+- ಮೆದುಳು ಕಂಡೆ
+- മസ്തിഷ്കം
+- මොළය
+- สมอง
+- ສະໝອງ
+- ཀླད་པ་
+- ဢွၵ်းဢေႃ
+- ဦးနှောက်
+- დუდიშ ტვინი
+- თავის ტვინი
+- አንጎል
+- ᒦᑎᐦᑊ
+- ᖃᕆᑕᖅ
+- ᡶᡝᡥᡳ
+- ᱦᱟᱛᱟᱝ
+- ụbụrụ
+- ⴰⵍⵍⵅⴼ
+- 脑
+- 脳
+- 腦
+- 뇌
 has_id_wikidata: Q1073
-anatomical_location: "[[_Standards/WikiData/WD~cranial_cavity,1710207]]"
+anatomical_location: '[[_Standards/WikiData/WD~cranial_cavity,1710207]]'
 Colon_Classification: L72
 Commons_category: Brain
 Commons_gallery: Brain
 connects_with:
-  - "[[_Standards/WikiData/WD~optic_nerve,186029]]"
-  - "[[_Standards/WikiData/WD~cranium,28947902]]"
-  - "[[_Standards/WikiData/WD~spinal_cord,9606]]"
+- '[[_Standards/WikiData/WD~optic_nerve,186029]]'
+- '[[_Standards/WikiData/WD~cranium,28947902]]'
+- '[[_Standards/WikiData/WD~spinal_cord,9606]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~human_brain,492038]]"
-  - "[[_Standards/WikiData/WD~Brain,118501881]]"
+- '[[_Standards/WikiData/WD~human_brain,492038]]'
+- '[[_Standards/WikiData/WD~Brain,118501881]]'
 exact_match:
-  - https://schema.org/BrainStructure
-  - https://turkic.elegantlexicon.com/turkforms.php?form=brainbrain
-  - https://ids.clld.org/parameters/4-203
+- https://schema.org/BrainStructure
+- https://turkic.elegantlexicon.com/turkforms.php?form=brainbrain
+- https://ids.clld.org/parameters/4-203
 ground_level_360_degree_view_URL:
-  - https://www.openanatomy.org/atlases/nac/brain-2017-01/viewer/#!/state/0c6fccc7-a7fc-4bc5-a6e5-648173430547
-  - https://www.zygotebody.com/#nav=1.46,112.52,99.98,0,0,0,0&sel=p:;h:;s:1754;c:-0.6;o:-0.75&layers=0,1,1250
+- https://www.openanatomy.org/atlases/nac/brain-2017-01/viewer/#!/state/0c6fccc7-a7fc-4bc5-a6e5-648173430547
+- https://www.zygotebody.com/#nav=1.46,112.52,99.98,0,0,0,0&sel=p:;h:;s:1754;c:-0.6;o:-0.75&layers=0,1,1250
 has_cause:
-  - "[[_Standards/WikiData/WD~cephalization,1054543]]"
-  - "[[_Standards/WikiData/WD~brain_development,14330969]]"
+- '[[_Standards/WikiData/WD~cephalization,1054543]]'
+- '[[_Standards/WikiData/WD~brain_development,14330969]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~brain_stem,182228]]"
-  - "[[_Standards/WikiData/WD~Mesencephalon,185080]]"
-  - "[[_Standards/WikiData/WD~prosencephalon,507027]]"
-  - "[[_Standards/WikiData/WD~rhombencephalon,1137072]]"
+- '[[_Standards/WikiData/WD~brain_stem,182228]]'
+- '[[_Standards/WikiData/WD~Mesencephalon,185080]]'
+- '[[_Standards/WikiData/WD~prosencephalon,507027]]'
+- '[[_Standards/WikiData/WD~rhombencephalon,1137072]]'
 IAB_code: 313
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chimp%20Brain%20in%20a%20jar.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+- '[[_Standards/WikiData/WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 MeSH_tree_code: A08.186.211
 OmegaWiki_Defined_Meaning: 6504
 part_of:
-  - "[[_Standards/WikiData/WD~neurovascular_system,2330350]]"
-  - "[[_Standards/WikiData/WD~head,23640]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system,47273]]"
+- '[[_Standards/WikiData/WD~neurovascular_system,2330350]]'
+- '[[_Standards/WikiData/WD~head,23640]]'
+- '[[_Standards/WikiData/WD~central_nervous_system,47273]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Gehirn2.ogg
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20brain.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AC%D5%AD%D5%B8%D6%82%D5%B2%D5%A5%D5%B2.ogg
-studied_in: "[[_Standards/WikiData/WD~neuroscience,207011]]"
+studied_in: '[[_Standards/WikiData/WD~neuroscience,207011]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~encephalon,75865]]"
-  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- '[[_Standards/WikiData/WD~encephalon,75865]]'
+- '[[_Standards/WikiData/WD~animal_organ,24060765]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: cerebrum
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_brain,7465538]]"
-  - "[[_Standards/WikiData/WD~Q10635998,10635998]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_brain,7465538]]'
+- '[[_Standards/WikiData/WD~Q10635998,10635998]]'
 UMLS_CUI:
-  - C1269537
-  - C0006104
-Unicode_character: 🧠
+- C1269537
+- C0006104
+Unicode_character: "\U0001F9E0"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.webm
+dv_has_:
+  name_:
+    aeb-arab: مخّ
+    af: brein
+    am: አንጎል
+    an: cerebro
+    ang: brægen
+    ann: Nden̄
+    ar: دماغ
+    arc: ܡܘܚܐ
+    ary: مخ
+    arz: مخ
+    as: মস্তিষ্ক
+    ast: cerebru
+    atj: wirtip
+    av: пӀадалнах
+    ay: lixwi
+    az: beyin
+    azb: بئیین
+    ba: баш мейеһе
+    ban: utek
+    bcl: hutok
+    be: галаўны мозг
+    be-tarask: галаўны мозаг
+    bew: otak
+    bg: главен мозък
+    bho: दिमाग
+    bi: bren
+    bm: kunkolosɛmɛ
+    bn: মস্তিষ্ক
+    bo: ཀླད་པ་
+    br: empenn
+    bs: mozak
+    btm: otak
+    bxr: тархи
+    ca: cervell
+    ce: хье
+    ckb: مێشک
+    cr: ᒦᑎᐦᑊ
+    crh: miy
+    cs: mozek
+    cy: ymennydd
+    da: hjerne
+    dag: zuɣupuri
+    de: Gehirn
+    de-ch: Gehirn
+    diq: mezg
+    dsb: mórzgi
+    dv: ސިކުނޑި
+    el: εγκέφαλος
+    eml: zarvèl
+    en: brain
+    en-ca: brain
+    en-gb: brain
+    eo: cerbo
+    es: cerebro
+    et: peaaju
+    eu: burmuin
+    fa: مغز
+    fi: aivot
+    fj: mona
+    fr: cerveau
+    fy: harsens
+    ga: inchinn
+    gcr: sèrvo
+    gd: eanchainn
+    gl: cerebro
+    gn: apytu'ũ
+    gsw: Gehirn
+    gu: મગજ
+    ha: kwakwalwa
+    hak: thèu-nó
+    he: מוח
+    hi: मस्तिष्क
+    hif: dimag
+    hr: mozak
+    hsb: mozy
+    ht: sèvo
+    hu: agy
+    hy: գլխուղեղ
+    ia: cerebro
+    iba: Untak
+    id: otak
+    ie: cerebre
+    ig: ụbụrụ
+    ik: qaqisaq
+    ilo: utek
+    inh: хьоа
+    io: cerebro
+    is: heili
+    it: cervello
+    iu: ᖃᕆᑕᖅ
+    ja: 脳
+    jam: brien
+    jbo: besna
+    jv: otak
+    ka: თავის ტვინი
+    kbp: fɩtɩyɩm
+    kcg: fuu
+    kge: Utok
+    kk: ми
+    kn: ಮೆದುಳು
+    knc: kǝrgen
+    ko: 뇌
+    ks: کوڈ
+    ku: demax
+    kv: юр вем
+    kw: ympynnyon
+    ky: баш мээ нервдери
+    la: cerebrum
+    lb: Gehier
+    lbe: ня
+    lez: кьилин мефтӀ
+    li: Herre
+    lmo: cervell
+    ln: bɔngɔ́
+    lo: ສະໝອງ
+    lt: galvos smegenys
+    lv: smadzenes
+    lzh: 腦
+    mcn: to᷅ɔ᷅ŋ
+    mg: atidoha
+    mhr: вуйдорык
+    mi: roro
+    min: utak
+    mk: мозок
+    ml: മസ്തിഷ്കം
+    mn: тархи
+    mnc: ᡶᡝᡥᡳ
+    mr: मेंदू
+    ms: otak
+    my: ဦးနှောက်
+    myv: удем
+    nah: cuāyōllōtl
+    nan: náu
+    nb: hjerne
+    nds: Bregen
+    nds-nl: harsens
+    ne: मस्तिष्क
+    new: न्ह्येपु
+    nl: hersenen
+    nn: hjerne
+    nqo: ߞߎ߲߬ߣߍ߮
+    nrm: chèrvé
+    oc: cervèl
+    or: ମସ୍ତିଷ୍କ
+    pa: ਦਿਮਾਗ਼
+    pag: utek
+    pam: utak
+    pap: Celebro
+    pl: mózg
+    pms: servel
+    pnb: دماغ
+    pnt: αχούλ
+    ps: ماغزه
+    pt: cérebro
+    pt-br: encéfalo
+    qu: ñutqu
+    ro: creier
+    ru: головной мозг
+    rue: мозоґ
+    rw: ubwonko
+    sa: मस्तिष्कम्
+    sah: мэйии
+    sat: ᱦᱟᱛᱟᱝ
+    sc: cherbeddu
+    scn: ciriveddu
+    sco: harn
+    sd: دماغ
+    se: vuoigŋašat
+    sgs: smagėnis
+    sh: mozak
+    shn: ဢွၵ်းဢေႃ
+    si: මොළය
+    sk: mozog
+    sl: možgani
+    smn: vuoiŋâšeh
+    sms: vuõivâšn
+    sn: huropi
+    so: maskax
+    sq: tru
+    sr: мозак
+    stq: Brainge
+    su: uteuk
+    sv: hjärna
+    sw: ubongo
+    ta: மனித மூளை
+    tcy: ಮೆದುಳು ಕಂಡೆ
+    te: మెదడు
+    tg: мағзи сар
+    th: สมอง
+    tk: kelle beýnisi
+    tl: utak
+    tok: insa lawa
+    tr: beyin
+    tt: баш мие
+    tt-cyrl: баш мие
+    udm: йырвиым
+    ug: مېڭە
+    uk: головний мозок
+    ur: دماغ
+    uz: miya
+    vec: serveło
+    vi: não
+    vo: brein
+    vro: ai
+    wa: cervea
+    war: utok
+    wuu: 脑
+    xmf: დუდიშ ტვინი
+    yi: מוח
+    yue: 腦
+    za: uk
+    zgh: ⴰⵍⵍⵅⴼ
+    zh: 脑
+    zh-hans: 脑
+    zh-hant: 腦
+    zh-tw: 腦
+    zu: ubuchopho
 ---
-
 # [[Brain]] 🧠 
 
 #is_/same_as :: [[../../../../WikiData/WD~Brain,1073|WD~Brain,1073]] 

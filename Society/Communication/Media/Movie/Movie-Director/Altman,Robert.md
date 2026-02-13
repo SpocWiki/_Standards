@@ -1,48 +1,75 @@
 ---
 aliases:
-  - Robert_Altman
-  - Altman,Robert
+- Altman,Robert
+- Robert Altman
+- Robert Oltmen
+- Roberts Oltmens
+- Robert_Altman
+- Ρόμπερτ Όλτμαν
+- Альтман Роберт
+- Роберт Алтман
+- Роберт Олтмен
+- Робърт Олтмън
+- Робэрт Олтман
+- Ռոբերտ Օլթմեն
+- רוברט אלטמן
+- رابرت آلتمن
+- روبرت ألتمان
+- روبرت التمان
+- রবার্ট অল্টম্যান
+- ਰੌਬਰਟ ਆਲਟਮੈਨ
+- ராபர்ட் ஆல்ட்மன்
+- రాబర్ట్ ఆల్ట్మాన్
+- รอเบิร์ต ออลต์แมน
+- რობერტ ოლტმენი
+- ロバート・アルトマン
+- 勞勃·阿特曼
+- 罗伯特·奥尔特曼
+- 罗伯特·奥特曼
+- 罗勃·阿特曼
+- 羅拔·柯曼
+- 로버트 올트먼
 has_id_wikidata: Q55163
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]'
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~librettist,8178443]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
-  - '[[_Standards/WikiData/WD~Bernard,14649171]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Bernard,14649171]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child: '[[_Standards/WikiData/WD~Robert_Reed_Altman,7349204]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Rockhurst_High_School,7355296]]'
-  - '[[_Standards/WikiData/WD~Southwest_Early_College_Campus,7571269]]'
-  - '[[_Standards/WikiData/WD~Southwest_High_School,7571292]]'
-  - '[[_Standards/WikiData/WD~Wentworth_Military_Academy_and_College,7983028]]'
+- '[[_Standards/WikiData/WD~Rockhurst_High_School,7355296]]'
+- '[[_Standards/WikiData/WD~Southwest_Early_College_Campus,7571269]]'
+- '[[_Standards/WikiData/WD~Southwest_High_School,7571292]]'
+- '[[_Standards/WikiData/WD~Wentworth_Military_Academy_and_College,7983028]]'
 family_name: '[[_Standards/WikiData/WD~Altman,16443535]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
@@ -66,8 +93,90 @@ Libris_URI: 1zcgkw1k4dfqnkv
 Plex_person_key: 5d776827999c64001ec2c907
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/OLTMAN_ROBERT.html
 date_of_birth: 1925-02-20T00:00:00Z
+dv_has_:
+  name_:
+    af: Robert Altman
+    an: Robert Altman
+    ar: روبرت ألتمان
+    arz: روبرت التمان
+    ast: Robert Altman
+    az: Robert Oltmen
+    be: Роберт Олтмен
+    be-tarask: Робэрт Олтман
+    bg: Робърт Олтмън
+    bn: রবার্ট অল্টম্যান
+    bs: Robert Altman
+    ca: Robert Altman
+    cs: Robert Altman
+    cy: Robert Altman
+    da: Robert Altman
+    de: Robert Altman
+    de-ch: Robert Altman
+    el: Ρόμπερτ Όλτμαν
+    en: Robert Altman
+    en-ca: Robert Altman
+    en-gb: Robert Altman
+    eo: Robert Altman
+    es: Robert Altman
+    et: Robert Altman
+    eu: Robert Altman
+    fa: رابرت آلتمن
+    fi: Robert Altman
+    fr: Robert Altman
+    ga: Robert Altman
+    gl: Robert Altman
+    he: רוברט אלטמן
+    hr: Robert Altman
+    hu: Robert Altman
+    hy: Ռոբերտ Օլթմեն
+    id: Robert Altman
+    io: Robert Altman
+    is: Robert Altman
+    it: Robert Altman
+    ja: ロバート・アルトマン
+    ka: რობერტ ოლტმენი
+    kk: Роберт Олтмен
+    ko: 로버트 올트먼
+    lb: Robert Altman
+    lfn: Robert Altman
+    lv: Roberts Oltmens
+    mg: Robert Altman
+    mk: Роберт Алтман
+    mul: Robert Altman
+    nb: Robert Altman
+    nl: Robert Altman
+    nn: Robert Altman
+    oc: Robert Altman
+    pa: ਰੌਬਰਟ ਆਲਟਮੈਨ
+    pam: Robert Altman
+    pap: Robert Altman
+    pl: Robert Altman
+    pt: Robert Altman
+    pt-br: Robert Altman
+    ro: Robert Altman
+    ru: Роберт Олтмен
+    sco: Robert Altman
+    sh: Robert Altman
+    sk: Robert Altman
+    sl: Robert Altman
+    sq: Robert Altman
+    sr: Роберт Алтман
+    sv: Robert Altman
+    ta: ராபர்ட் ஆல்ட்மன்
+    te: రాబర్ట్ ఆల్ట్మాన్
+    th: รอเบิร์ต ออลต์แมน
+    tr: Robert Altman
+    uk: Альтман Роберт
+    vi: Robert Altman
+    war: Robert Altman
+    yue: 羅拔·柯曼
+    zh: 罗伯特·奥尔特曼
+    zh-cn: 罗伯特·奥特曼
+    zh-hans: 罗伯特·奥尔特曼
+    zh-hk: 羅拔·柯曼
+    zh-sg: 罗勃·阿特曼
+    zh-tw: 勞勃·阿特曼
 ---
-
 # [[Altman,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Altman,55163]] 

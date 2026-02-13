@@ -1,49 +1,315 @@
 ---
 aliases:
+- araştırma
+- badanie naukowe
+- bincike
+- cercetare
+- ciencala explorado
+- cilmibaadhis
+- disquisitio scientifica
+- dutkam
+- dutkan
+- Forschung
+- forsking
+- forskning
+- Fuerschung
+- hulumtim
+- hwithrans
+- ikerketa
+- ilimiy izertlew
+- ilmiy tadqiqot
+- investigació
+- investigación
+- investigación científica
+- Investigashon
+- investigasion sientìfega
+- investigazion
+- investigação
+- istraživanje
+- k'uskiykuy
+- kundaha
+- kutatás
+- lêkolîn
+- mokslinis tyrimas
+- Naukowe badania
+- navorsing
+- nduka
+- nghiên cứu
+- ngiên-kiu
+- pagsaligsig
+- paitihan
+- panalungtikan
+- pananaliksik
+- panhalikwát
+- Panlitèn
+- penyelidikan
+- pesquisa
+- pētniecība
+- rannsókn
+- raziskovanje
+- recherche
+- rechèch syantifik
+- recèrca
+- resairch
+- research
+- ricerca
+- riset
+- riċerka
+- scienca esploro
+- slědźenje
+- taighde
+- teaduslik uurimistöö
+- tutkimus
+- tutkâmuš
+- tuʹtǩǩummuš
+- tədqiqat
+- ucwaningo
+- utafiti
+- Vakadidike (iwalewale vakasaenisi)
+- výskum
+- výzkum
+- wetenschappelijk onderzoek
+- ymchwil
+- ìwádìí
+- ɲinini
+- έρευνα
+- даследаванне
+- дасьледаваньне
+- дослідження
+- изследване
+- иртасæн
+- исследование
+- истраживања
+- истражување
+- судалгаа
+- тадқиқот
+- тикшеренеү
+- фәнни тикшеренү
+- чинчийии
+- հետազոտություն
+- מחקר
+- פארשונג
+- آراشدیرما
+- بحث علمي
+- تحقيق
+- تحقیق
+- تٔحقیٖق
+- پژوهش
+- څېړنه
+- ڤڽليديقن
+- کۆڵینەوە
+- अनुसंधान
+- अनुसन्धान
+- रिसर्च
+- संशोधन
+- संशोधनस्य प्रयोजनानि
+- গবেষণা
+- গবেষনা
+- গৱেষণা
+- ਖੋਜ
+- ଗବେଷଣା
+- ஆய்வு
+- పరిశోధన
+- ಸಂಶೋಧನೆ
+- ഗവേഷണം
+- පර්යේෂණ
+- การวิจัย
+- ཞིབ་འཇུག།
+- သုတေသန
+- ၶူၼ်ႉၶႆႈ
+- კვლევა
+- ᖃᐅᔨᓴᕐᓂᖅ
+- ᱠᱷᱚᱸᱫᱽᱨᱚᱸᱫᱽ
+- 研究
+- 연구
 has_id_wikidata: Q42240
-instance_of: "[[_Standards/WikiData/WD~industry,268592]]"
+instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~research_and_development,276099]]"
-  - "[[_Standards/WikiData/WD~science_project,1298668]]"
-  - "[[_Standards/WikiData/WD~research_design,1438035]]"
-  - "[[_Standards/WikiData/WD~research_process,112666400]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- '[[_Standards/WikiData/WD~research_and_development,276099]]'
+- '[[_Standards/WikiData/WD~science_project,1298668]]'
+- '[[_Standards/WikiData/WD~research_design,1438035]]'
+- '[[_Standards/WikiData/WD~research_process,112666400]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~researcher,1650915]]"
-  - "[[_Standards/WikiData/WD~research_fellow,1706722]]"
+- '[[_Standards/WikiData/WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~research_fellow,1706722]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~study,1782301]]"
-  - "[[_Standards/WikiData/WD~exploration,116967296]]"
+- '[[_Standards/WikiData/WD~study,1782301]]'
+- '[[_Standards/WikiData/WD~exploration,116967296]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~process,3249551]]"
-  - "[[_Standards/WikiData/WD~inquiry,21004260]]"
-  - "[[_Standards/WikiData/WD~Q130370832,130370832]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Research,25930158]]"
-studied_by: "[[_Standards/WikiData/WD~metascience,30599095]]"
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~inquiry,21004260]]'
+- '[[_Standards/WikiData/WD~Q130370832,130370832]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Research,25930158]]'
+studied_by: '[[_Standards/WikiData/WD~metascience,30599095]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~study_type,78088984]]"
-  - "[[_Standards/WikiData/WD~scientific_method,46857]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Research_sidebar,110154169]]"
-part_of: "[[_Standards/WikiData/WD~science,336]]"
+- '[[_Standards/WikiData/WD~study_type,78088984]]'
+- '[[_Standards/WikiData/WD~scientific_method,46857]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Research_sidebar,110154169]]'
+part_of: '[[_Standards/WikiData/WD~science,336]]'
 properties_for_this_type: uses
 Wikidata_property: is the study of
-IAB_code: "1011"
+IAB_code: 1011
 social_media_followers: 20883
-OmegaWiki_Defined_Meaning: "3192"
+OmegaWiki_Defined_Meaning: 3192
 subreddit: research
 Commons_category: Research
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Forschung.ogg
-Dewey_Decimal_Classification: "001.4"
+Dewey_Decimal_Classification: 001.4
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mitarbeiterin%20der%20EMPA%20in%20St-Gallen.jpg
-U_S_National_Archives_Identifier: "10644561"
+U_S_National_Archives_Identifier: 10644561
 International_Classification_of_Nonprofit_Organizations: 2 400
 MeSH_tree_code: H01.770.644
 IPTC_NewsCode: mediatopic/20000735
 Library_of_Congress_Classification: Q179.9-Q180.7
+dv_has_:
+  name_:
+    af: navorsing
+    an: investigación
+    ar: بحث علمي
+    as: গৱেষণা
+    ast: investigación
+    az: tədqiqat
+    azb: آراشدیرما
+    ba: тикшеренеү
+    bcl: pagsaligsig
+    be: даследаванне
+    be-tarask: дасьледаваньне
+    bg: изследване
+    bho: रिसर्च
+    bjn: paitihan
+    bm: ɲinini
+    bn: গবেষণা
+    bo: ཞིབ་འཇུག།
+    bpy: গবেষনা
+    bs: istraživanje
+    ca: investigació
+    ckb: کۆڵینەوە
+    co: ricerca
+    cs: výzkum
+    cy: ymchwil
+    da: forskning
+    de: Forschung
+    el: έρευνα
+    en: research
+    eo: scienca esploro
+    es: investigación
+    et: teaduslik uurimistöö
+    eu: ikerketa
+    fa: پژوهش
+    fi: tutkimus
+    fj: Vakadidike (iwalewale vakasaenisi)
+    fr: recherche
+    fur: investigazion
+    ga: taighde
+    gl: investigación científica
+    gn: kundaha
+    ha: bincike
+    hak: ngiên-kiu
+    he: מחקר
+    hi: अनुसंधान
+    hr: istraživanje
+    hsb: slědźenje
+    ht: rechèch syantifik
+    hu: kutatás
+    hy: հետազոտություն
+    id: riset
+    io: ciencala explorado
+    is: rannsókn
+    it: ricerca
+    iu: ᖃᐅᔨᓴᕐᓂᖅ
+    ja: 研究
+    jv: Panlitèn
+    ka: კვლევა
+    kaa: ilimiy izertlew
+    kn: ಸಂಶೋಧನೆ
+    ko: 연구
+    ks: تٔحقیٖق
+    ku: lêkolîn
+    kw: hwithrans
+    la: disquisitio scientifica
+    lb: Fuerschung
+    ln: nduka
+    lt: mokslinis tyrimas
+    lv: pētniecība
+    mk: истражување
+    ml: ഗവേഷണം
+    mn: судалгаа
+    mr: संशोधन
+    ms: penyelidikan
+    ms-arab: ڤڽليديقن
+    mt: riċerka
+    my: သုတေသန
+    nb: forskning
+    ne: अनुसन्धान
+    new: अनुसन्धान
+    nl: wetenschappelijk onderzoek
+    nn: forsking
+    oc: recèrca
+    or: ଗବେଷଣା
+    os: иртасæн
+    pa: ਖੋਜ
+    pap: Investigashon
+    pl: badanie naukowe
+    ps: څېړنه
+    pt: investigação
+    pt-br: pesquisa
+    qu: k'uskiykuy
+    ro: cercetare
+    ru: исследование
+    sa: संशोधनस्य प्रयोजनानि
+    sah: чинчийии
+    sat: ᱠᱷᱚᱸᱫᱽᱨᱚᱸᱫᱽ
+    sco: resairch
+    sd: تحقيق
+    se: dutkan
+    sh: istraživanje
+    shn: ၶူၼ်ႉၶႆႈ
+    si: පර්යේෂණ
+    sk: výskum
+    sl: raziskovanje
+    smj: dutkam
+    smn: tutkâmuš
+    sms: tuʹtǩǩummuš
+    so: cilmibaadhis
+    sq: hulumtim
+    sr: истраживања
+    sr-ec: истраживања
+    su: panalungtikan
+    sv: forskning
+    sw: utafiti
+    szl: Naukowe badania
+    ta: ஆய்வு
+    te: పరిశోధన
+    tg: тадқиқот
+    th: การวิจัย
+    tl: pananaliksik
+    tr: araştırma
+    tt: фәнни тикшеренү
+    tt-cyrl: фәнни тикшеренү
+    uk: дослідження
+    ur: تحقیق
+    uz: ilmiy tadqiqot
+    vec: investigasion sientìfega
+    vi: nghiên cứu
+    war: panhalikwát
+    wuu: 研究
+    yi: פארשונג
+    yo: ìwádìí
+    yue: 研究
+    zh: 研究
+    zh-cn: 研究
+    zh-hans: 研究
+    zh-hant: 研究
+    zh-hk: 研究
+    zh-mo: 研究
+    zh-my: 研究
+    zh-sg: 研究
+    zh-tw: 研究
+    zu: ucwaningo
 ---
-
 # [[Research]] 
 
 #is_/same_as :: [[WD~Research,42240]] 

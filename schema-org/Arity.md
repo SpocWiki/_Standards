@@ -1,37 +1,134 @@
 ---
 aliases:
-  - nullary
-  - Unary
-  - Binary
-  - Ternary
-  - Quaternary
-  - variadic
-  - adicity
-  - Arity
-  - Rank
-  - adicity
-  - degree
-  - valency
-  - Stelligkeit
+- aarsus
+- adicity
+- argumentowość
+- aridad
+- aridade
+- aridá
+- arietà
+- arilik
+- arita
+- aritat
+- aritate
+- ariteit
+- aritet
+- Ariti
+- Arito
+- Arity
+- aritás
+- arité
+- aritāte
+- Arnost
+- Binary
+- broj argumenata funkcije
+- degree
+- işlenen
+- Loknombro
+- nullary
+- nárthacht
+- plaatsigheid
+- Quaternary
+- Rank
+- Stellegkeet
+- Stelligkeit
+- ställighet
+- Ternary
+- Unary
+- valency
+- variadic
+- árnosť
+- Арлăх (математика)
+- арність
+- арнасць
+- арност
+- арность
+- колькасьць апэрандаў
+- מקומיות
+- آریتی (ریاضی)
+- ئانێتی
+- نونية
+- アリティ
+- 元数
+- 元數
+- 항수
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Arity|Arity]]"
-    - "[[/_public/schema-org/Arity.public|Arity.public]]"
-    - "[[/_internal/schema-org/Arity.internal|Arity.internal]]"
-    - "[[/_protect/schema-org/Arity.protect|Arity.protect]]"
-    - "[[/_private/schema-org/Arity.private|Arity.private]]"
-    - "[[/_personal/schema-org/Arity.personal|Arity.personal]]"
-    - "[[/_secret/schema-org/Arity.secret|Arity.secret]]"
-    - "[[Arity]]"
+  - '[[/_Standards/schema-org/Arity|Arity]]'
+  - '[[/_public/schema-org/Arity.public|Arity.public]]'
+  - '[[/_internal/schema-org/Arity.internal|Arity.internal]]'
+  - '[[/_protect/schema-org/Arity.protect|Arity.protect]]'
+  - '[[/_private/schema-org/Arity.private|Arity.private]]'
+  - '[[/_personal/schema-org/Arity.personal|Arity.personal]]'
+  - '[[/_secret/schema-org/Arity.secret|Arity.secret]]'
+  - '[[Arity]]'
 dv_is_same_as:
-  - "[[Arity]]"
-  - "[[/_public/schema-org/Arity.public|Arity.public]]"
-  - "[[/_internal/schema-org/Arity.internal|Arity.internal]]"
-  - "[[/_protect/schema-org/Arity.protect|Arity.protect]]"
-  - "[[/_private/schema-org/Arity.private|Arity.private]]"
-  - "[[/_personal/schema-org/Arity.personal|Arity.personal]]"
-  - "[[/_secret/schema-org/Arity.secret|Arity.secret]]"
+- '[[Arity]]'
+- '[[/_public/schema-org/Arity.public|Arity.public]]'
+- '[[/_internal/schema-org/Arity.internal|Arity.internal]]'
+- '[[/_protect/schema-org/Arity.protect|Arity.protect]]'
+- '[[/_private/schema-org/Arity.private|Arity.private]]'
+- '[[/_personal/schema-org/Arity.personal|Arity.personal]]'
+- '[[/_secret/schema-org/Arity.secret|Arity.secret]]'
 has_id_wikidata: Q1315869
+dv_has_:
+  name_:
+    af: ariteit
+    ar: نونية
+    ast: aridá
+    az: arilik
+    be: арнасць
+    be-tarask: колькасьць апэрандаў
+    bs: broj argumenata funkcije
+    ca: aritat
+    ckb: ئانێتی
+    cs: arita
+    cv: Арлăх (математика)
+    da: aritet
+    de: Stelligkeit
+    en: arity
+    eo: Loknombro
+    es: aridad
+    et: aarsus
+    fa: آریتی (ریاضی)
+    fr: arité
+    ga: nárthacht
+    gl: aridade
+    he: מקומיות
+    hu: aritás
+    id: Ariti
+    io: Arito
+    it: arietà
+    ja: アリティ
+    ko: 항수
+    lb: Stellegkeet
+    lv: aritāte
+    mk: арност
+    ms: ariti
+    nb: aritet
+    nl: plaatsigheid
+    nn: aritet
+    oc: aritat
+    pl: argumentowość
+    pt: aridade
+    pt-br: aridade
+    ro: aritate
+    ru: арность
+    sh: Arnost
+    sk: árnosť
+    sl: arnost
+    sr: арност
+    sr-ec: Арност
+    sr-el: Arnost
+    sv: ställighet
+    tl: Aridad
+    tr: işlenen
+    uk: арність
+    vec: arietà
+    zh: 元数
+    zh-hans: 元数
+    zh-hant: 元數
+    zh-hk: 元數
 ---
 # [[Arity]] 
 

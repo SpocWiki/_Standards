@@ -1,59 +1,207 @@
 ---
 aliases:
-  - Dynamit
-  - Dynamite
+- Dandimait
+- Deinameit
+- dinamiet
+- dinamit
+- dinamita
+- dinamitas
+- dinamite
+- dinamiti
+- dinamito
+- dinamită
+- dinamīts
+- dinimít
+- dynamiet
+- dynamihtta
+- dynamiitti
+- dynamijjta
+- Dynamit
+- Dynamite
+- dynamites
+- dynamitt
+- dynamyt
+- dynůmit
+- dínamít
+- dünamiit
+- Δυναμίτης
+- динаміт
+- динамит
+- Динамиттер
+- дынаміт
+- Դինամիտ
+- דינמיט
+- ديناميت
+- دینامیت
+- ڈائنامائٹ
+- डायनामाइट
+- बारुद
+- ডায়নামাইট
+- ਡਾਇਨਾਮਾਈਟ
+- டைனமைட்டு
+- డైనమైట్
+- ಡೈನಮೈಟ್
+- ഡൈനാമിറ്റ്
+- ไดนาไมต์
+- ဒိုင်းနမိုက်
+- დინამიტი
+- ダイナマイト
+- 帝拿密
+- 矽藻土炸藥
+- 硝酸甘油炸药
+- 硝酸甘油炸藥
+- 다이나마이트
+- 다이너마이트
 has_id_wikidata: Q80728
 has_part_s_:
-  - "[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]"
-  - "[[_Standards/WikiData/WD~sorbent,4428995]]"
+- '[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]'
+- '[[_Standards/WikiData/WD~sorbent,4428995]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~composite_material,181790]]"
-  - "[[_Standards/WikiData/WD~improvised_weapon,2862130]]"
-  - "[[_Standards/WikiData/WD~demolition_equipment,134732365]]"
-  - "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
+- '[[_Standards/WikiData/WD~composite_material,181790]]'
+- '[[_Standards/WikiData/WD~improvised_weapon,2862130]]'
+- '[[_Standards/WikiData/WD~demolition_equipment,134732365]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 time_of_discovery_or_invention: 1867-01-01T00:00:00Z
-location_of_creation: "[[_Standards/WikiData/WD~Hamburg,1055]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
+location_of_creation: '[[_Standards/WikiData/WD~Hamburg,1055]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Alfred_Nobel,23810]]'
 OmegaWiki_Defined_Meaning: 1070458
 Commons_category: Dynamite
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Caisse%20dynamite%20nobel%20paulilles%20expo.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Inserting%20dynamite%20into%20hole.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20patent.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Caisse%20dynamite%20nobel%20paulilles%20expo.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Inserting%20dynamite%20into%20hole.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20patent.jpg
 UNSPSC_Code: 12131501
 Dewey_Decimal_Classification:
-  - 623.4527
-  - 662.27
+- 623.4527
+- 662.27
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]"
+  - '[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]"
+- '[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]'
+dv_has_:
+  name_:
+    af: dinamiet
+    ar: ديناميت
+    arz: ديناميت
+    ast: dinamita
+    az: dinamit
+    bcl: Dynamite
+    be: дынаміт
+    be-tarask: дынаміт
+    bg: Динамит
+    bho: डायनामाइट
+    bn: ডায়নামাইট
+    br: dinamit
+    bs: dinamit
+    bxr: Динамит
+    ca: dinamita
+    cs: dynamit
+    cy: Deinameit
+    da: dynamit
+    de: Dynamit
+    el: Δυναμίτης
+    en: dynamite
+    eo: dinamito
+    es: dinamita
+    et: dünamiit
+    eu: dinamita
+    fa: دینامیت
+    fi: dynamiitti
+    fr: dynamite
+    fur: dinamite
+    fy: dynamyt
+    ga: dinimít
+    gan: 帝拿密
+    gl: dinamita
+    he: דינמיט
+    hi: डायनामाइट
+    hr: dinamit
+    hu: dinamit
+    hy: Դինամիտ
+    ia: Dynamite
+    id: dinamit
+    io: dinamito
+    is: dínamít
+    it: dinamite
+    ja: ダイナマイト
+    jam: Dandimait
+    ka: დინამიტი
+    kk: Динамит
+    kn: ಡೈನಮೈಟ್
+    ko: 다이너마이트
+    ko-kp: 다이나마이트
+    ky: Динамиттер
+    la: dynamites
+    lt: dinamitas
+    lv: dinamīts
+    mg: Dinamita
+    min: Dinamit
+    mk: Динамит
+    ml: ഡൈനാമിറ്റ്
+    ms: Dinamit
+    my: ဒိုင်းနမိုက်
+    nb: dynamitt
+    ne: बारुद
+    nl: dynamiet
+    nn: dynamitt
+    oc: dynamite
+    pa: ਡਾਇਨਾਮਾਈਟ
+    pl: dynamit
+    pt: dinamite
+    ro: dinamită
+    ru: динамит
+    sah: Динамит
+    sco: dynamite
+    se: dynamihtta
+    sh: dinamit
+    sje: dynamijjta
+    sk: dynamit
+    sl: dinamit
+    smj: dynamihtta
+    sq: dinamiti
+    sr: динамит
+    su: dinamit
+    sv: dynamit
+    szl: dynůmit
+    ta: டைனமைட்டு
+    te: డైనమైట్
+    th: ไดนาไมต์
+    tr: dinamit
+    tt: Динамит
+    uk: динаміт
+    ur: ڈائنامائٹ
+    uz: dinamit
+    vi: Dynamit
+    war: dinamita
+    wuu: 硝酸甘油炸药
+    yue: 硝酸甘油炸藥
+    zh: 矽藻土炸藥
+    zh-hant: 矽藻土炸藥
 ---
-
 # [[Dynamite]] 
 
 #is_/same_as :: [[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]] 

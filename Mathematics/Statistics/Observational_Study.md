@@ -1,10 +1,80 @@
 ---
 aliases:
-  - Beobachtungsstudie
-  - Observational study
-  - Observational_Study
-  - Observational Study
+- badanie obserwacyjne
+- Beobachtungsstudie
+- ciência observacional
+- estudio observacional
+- Estudiu observacional
+- estudo de observación
+- megfigyeléses vizsgálat
+- observa studo
+- observació d'estudi
+- observatiestudie
+- Observational study
+- Observational_Study
+- observationsstudie
+- observační studie
+- opazovalna raziskava
+- Penelitian observasional
+- staidéar breathnaitheach
+- Stebėjimo tyrimai
+- Studie
+- stùdio de oservasion
+- zhongwen
+- étude d'observation
+- Μελέτη βασιζόμενη στην παρατήρηση
+- абсэрвацыйны мэтад
+- обсервационное исследование
+- спостережне дослідження
+- тадқиқоти мушоҳидавӣ
+- מחקר תצפיתי
+- دراسة بالملاحظة
+- مطالعه مشاهدهای
+- प्रेक्षण विधि
+- งานศึกษาแบบสังเกต
+- 観察研究
+- 觀察研究
+- 观察性研究
+- 관찰 연구
 has_id_wikidata: Q818574
+dv_has_:
+  name_:
+    ar: دراسة بالملاحظة
+    ast: Estudiu observacional
+    be-tarask: абсэрвацыйны мэтад
+    ca: observació d'estudi
+    cs: observační studie
+    da: observationsstudie
+    de: Beobachtungsstudie
+    el: Μελέτη βασιζόμενη στην παρατήρηση
+    en: observational study
+    eo: observa studo
+    es: estudio observacional
+    fa: مطالعه مشاهدهای
+    fr: étude d'observation
+    ga: staidéar breathnaitheach
+    gl: estudo de observación
+    he: מחקר תצפיתי
+    hi: प्रेक्षण विधि
+    hu: megfigyeléses vizsgálat
+    id: Penelitian observasional
+    ja: 観察研究
+    ko: 관찰 연구
+    lt: Stebėjimo tyrimai
+    nb: Studie
+    nl: observatiestudie
+    pl: badanie obserwacyjne
+    pt: ciência observacional
+    ru: обсервационное исследование
+    sl: opazovalna raziskava
+    sv: observationsstudie
+    tg: тадқиқоти мушоҳидавӣ
+    th: งานศึกษาแบบสังเกต
+    uk: спостережне дослідження
+    vec: stùdio de oservasion
+    yue: 觀察研究
+    zh: 观察性研究
+    zh-hant: zhongwen
 ---
 # [[Observational_Study]] 
 

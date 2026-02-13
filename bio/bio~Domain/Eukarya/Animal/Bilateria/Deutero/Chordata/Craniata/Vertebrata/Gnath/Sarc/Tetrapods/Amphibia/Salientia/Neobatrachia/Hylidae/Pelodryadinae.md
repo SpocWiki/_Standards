@@ -1,8 +1,54 @@
 ---
 aliases:
-  - Pelodryadinae
+- Pelodryadinae
+- פלודריאדיים
+- بيلودريادينا
+- 澳雨蛙亚科
+- 澳雨蛙亞科
 title: Pelodryadinae
 has_id_wikidata: Q771067
+dv_has_:
+  name_:
+    an: Pelodryadinae
+    arz: بيلودريادينا
+    ast: Pelodryadinae
+    bg: Pelodryadinae
+    ca: Pelodryadinae
+    ceb: Pelodryadinae
+    de: Pelodryadinae
+    en: Pelodryadinae
+    eo: Pelodryadinae
+    es: Pelodryadinae
+    eu: Pelodryadinae
+    ext: Pelodryadinae
+    fi: Pelodryadinae
+    fr: Pelodryadinae
+    ga: Pelodryadinae
+    gl: Pelodryadinae
+    he: פלודריאדיים
+    hu: Pelodryadinae
+    ia: Pelodryadinae
+    ie: Pelodryadinae
+    io: Pelodryadinae
+    it: Pelodryadinae
+    la: Pelodryadinae
+    mul: Pelodryadinae
+    nl: Pelodryadinae
+    oc: Pelodryadinae
+    pl: Pelodryadinae
+    pt: Pelodryadinae
+    pt-br: Pelodryadinae
+    ro: Pelodryadinae
+    ru: Pelodryadinae
+    sq: Pelodryadinae
+    uk: Pelodryadinae
+    vi: Pelodryadinae
+    vo: Pelodryadinae
+    war: Pelodryadinae
+    zh: 澳雨蛙亞科
+    zh-cn: 澳雨蛙亚科
+    zh-hans: 澳雨蛙亚科
+    zh-tw: 澳雨蛙亞科
 ---
 # [[Pelodryadinae]] 
 

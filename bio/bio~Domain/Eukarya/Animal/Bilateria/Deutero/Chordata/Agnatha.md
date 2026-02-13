@@ -1,34 +1,67 @@
 ---
 aliases:
-  - jawless fish
-  - Agnatha
-  - Безчелюстни
-  - Àgnat
-  - Kieferlose
-  - Senmakzeluloj
-  - Lõuatud
-  - Leuattomat kalat
-  - Agnathe
-  - חסרי לסתות
-  - Besčeljusti
-  - Állkapocs nélküliek
-  - Vankjálkar
-  - 無顎類
-  - უყბოები
-  - 무악류
-  - Bežandžiai
-  - Bezžokļaiņi
-  - Kaakloze vissen
-  - Kjevelause fisk
-  - Бесчелюстные
-  - Kruhoústnice
-  - Brezčeljustnice
-  - Кичмењаци без вилица
-  - Käklösa fiskar
-  - Çenesiz balıklar
-  - Безщелепні
-  - Siêu lớp Cá không hàm
-  - 無頷總綱
+- Agnatha
+- Agnathe
+- Agnattar
+- Agnatu
+- Aġluitchuq
+- besčeljusnjače
+- Besčeljusti
+- bezčelistnatci
+- bezżuchwowce
+- Bezžokļaiņi
+- Bežandžiai
+- Brezčeljustnice
+- jawless fish
+- Kaakleaze fisken
+- Kaakloze vissen
+- Kieferlose
+- Kičmenjaci bez vilica
+- Kjevelause fisk
+- Kjevelause fiskar
+- Kruhoústnice
+- Käklösa fiskar
+- Leuattomat kalat
+- Leuattomat selkärankaiset
+- Lõuatud
+- Senmakzeluloj
+- Siêu lớp Cá không hàm
+- Vankjálkar
+- Àgnat
+- Àgnats
+- Ágnatos
+- Állkapocs nélküliek
+- Çenesiz balıklar
+- Çənəsizlər
+- Άγναθοι
+- Агнаттар
+- Безвилични ‘рбетници
+- Безчелюстни
+- Безщелепні
+- Бесчелюстные
+- Беҷоғҳо
+- Бяссківічныя
+- Жааксыздар
+- Казналыксызлар
+- Кичмењаци без вилица
+- Онгылашлудымывлӓ
+- անծնոտներ
+- חסרי לסתות
+- اگناتتار
+- بیآروارگان
+- لافكيات
+- چنهسیزلر
+- அனேதா
+- ಅಗ್ನಾಥ
+- അഗ്നാത്ത
+- ปลาไม่มีขากรรไกร
+- უყბოები
+- 无颌总纲
+- 无颔总纲
+- 無頜總綱
+- 無頷總綱
+- 無顎類
+- 무악류
 has_id_wikidata: Q161095
 taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
@@ -38,36 +71,130 @@ start_time: -535000000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lampetra%20fluviatilis.jpg
 taxon_name: Agnatha
 taxon_common_name:
-  - Безчелюстни
-  - Àgnat
-  - Kieferlose
-  - Senmakzeluloj
-  - Lõuatud
-  - Leuattomat kalat
-  - Agnathe
-  - חסרי לסתות
-  - Besčeljusti
-  - Állkapocs nélküliek
-  - Vankjálkar
-  - 無顎類
-  - უყბოები
-  - 무악류
-  - Bežandžiai
-  - Bezžokļaiņi
-  - Kaakloze vissen
-  - Kjevelause fisk
-  - Бесчелюстные
-  - Kruhoústnice
-  - Brezčeljustnice
-  - Кичмењаци без вилица
-  - Käklösa fiskar
-  - Çenesiz balıklar
-  - Безщелепні
-  - Siêu lớp Cá không hàm
-  - 無頷總綱
+- Безчелюстни
+- Àgnat
+- Kieferlose
+- Senmakzeluloj
+- Lõuatud
+- Leuattomat kalat
+- Agnathe
+- חסרי לסתות
+- Besčeljusti
+- Állkapocs nélküliek
+- Vankjálkar
+- 無顎類
+- უყბოები
+- 무악류
+- Bežandžiai
+- Bezžokļaiņi
+- Kaakloze vissen
+- Kjevelause fisk
+- Бесчелюстные
+- Kruhoústnice
+- Brezčeljustnice
+- Кичмењаци без вилица
+- Käklösa fiskar
+- Çenesiz balıklar
+- Безщелепні
+- Siêu lớp Cá không hàm
+- 無頷總綱
 NBN_System_Key: NHMSYS0021053288
+dv_has_:
+  name_:
+    an: Agnatha
+    ar: لافكيات
+    arz: لافكيات
+    ast: Agnatha
+    az: Çənəsizlər
+    azb: چنهسیزلر
+    be: Бяссківічныя
+    be-tarask: Бяссківічныя
+    bg: безчелюстни
+    ca: Àgnats
+    ceb: Agnatha
+    cs: bezčelistnatci
+    de: Kieferlose
+    el: Άγναθοι
+    en: Agnatha
+    eo: Senmakzeluloj
+    es: Agnatha
+    et: Lõuatud
+    eu: Agnatu
+    ext: Agnatha
+    fa: بیآروارگان
+    fi: Leuattomat selkärankaiset
+    fr: Agnatha
+    fy: Kaakleaze fisken
+    ga: Agnatha
+    gl: Ágnatos
+    he: חסרי לסתות
+    hr: besčeljusnjače
+    hu: állkapocs nélküliek
+    hy: անծնոտներ
+    ia: Agnatha
+    id: Agnatha
+    ie: Agnatha
+    ik: Aġluitchuq
+    io: Agnatha
+    is: Vankjálkar
+    it: Agnatha
+    ja: 無顎類
+    jv: Agnatha
+    ka: უყბოები
+    kk: Агнаттар
+    kk-arab: اگناتتار
+    kk-cn: اگناتتار
+    kk-cyrl: Агнаттар
+    kk-kz: Агнаттар
+    kk-latn: Agnattar
+    kk-tr: Agnattar
+    kn: ಅಗ್ನಾಥ
+    ko: 무악류
+    ky: Жааксыздар
+    la: Agnatha
+    lij: Agnatha
+    lt: Bežandžiai
+    lv: Bezžokļaiņi
+    mk: Безвилични ‘рбетници
+    ml: അഗ്നാത്ത
+    mrj: Онгылашлудымывлӓ
+    mul: Agnatha
+    nl: kaakloze vissen
+    nn: Kjevelause fiskar
+    oc: Agnatha
+    pl: bezżuchwowce
+    pt: Agnatha
+    pt-br: Agnatha
+    ro: Agnatha
+    ru: бесчелюстные
+    sh: Besčeljusnjače
+    sk: Kruhoústnice
+    sl: Brezčeljustnice
+    sq: Agnatha
+    sr: кичмењаци без вилица
+    sr-ec: Кичмењаци без вилица
+    sr-el: Kičmenjaci bez vilica
+    sv: Käklösa fiskar
+    ta: அனேதா
+    tg: Беҷоғҳо
+    th: ปลาไม่มีขากรรไกร
+    tl: Agnatha
+    tr: Çenesiz balıklar
+    tt: Казналыксызлар
+    uk: Безщелепні
+    vi: Siêu lớp Cá không hàm
+    vo: Agnatha
+    war: Agnatha
+    wuu: 无颌总纲
+    yue: 無頜總綱
+    zh: 無頷總綱
+    zh-cn: 无颔总纲
+    zh-hans: 无颔总纲
+    zh-hant: 無頷總綱
+    zh-hk: 無頷總綱
+    zh-sg: 无颔总纲
+    zh-tw: 無頷總綱
 ---
-
 # [[Agnatha]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Agnatha,161095|WD~Agnatha,161095]] 

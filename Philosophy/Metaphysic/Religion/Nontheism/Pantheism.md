@@ -1,31 +1,181 @@
 ---
 aliases:
-  - Pantheismus
-  - Pantheism
+- algyðistrú
+- nasin pi sewi ale
+- paindiachas
+- Pandeisme
+- panjeeagys
+- panteism
+- Panteisma
+- panteisme
+- panteismi
+- panteismm
+- panteismo
+- panteisms
+- panteismus
+- Panteizam
+- panteizem
+- Panteizm
+- panteizmas
+- panteizmi
+- panteizmus
+- Pantejizm
+- panteísmo
+- Panteísmu
+- panteïsme
+- Panteėzmos
+- Pantheism
+- pantheismo
+- Pantheismus
+- Pantheistiaeth
+- pantheïsme
+- panthéisme
+- Pantiyizim
+- Pantéyism
+- religio pantheia
+- thuyết phiếm thần
+- πανθεϊσμός
+- пантеїзм
+- Пантеизам
+- пантеизм
+- Пантеизъм
+- Пантэізм
+- պանթեիզմ
+- פּאַנטעאיזם
+- פנתאיזם
+- عقیدۂ وحدت الوجود
+- همهخدایی
+- وحدة الوجود
+- پانتئیسم
+- پانتێیزم
+- सर्वेश्वरवाद
+- সর্বেশ্বরবাদ
+- அனைத்து இறைக் கொள்கை
+- สรรพเทวนิยม
+- პანთეიზმი
+- 汎神論
+- 泛神論
+- 泛神论
+- 범신론
 has_id_wikidata: Q728455
 different_from:
-  - "[[_Standards/WikiData/WD~Panentheism,221390]]"
-  - "[[_Standards/WikiData/WD~omnipresence,1062803]]"
-  - "[[_Standards/WikiData/WD~pantitheism,18480570]]"
-  - "[[_Standards/WikiData/WD~omnitheism,92309577]]"
+- '[[_Standards/WikiData/WD~Panentheism,221390]]'
+- '[[_Standards/WikiData/WD~omnipresence,1062803]]'
+- '[[_Standards/WikiData/WD~pantitheism,18480570]]'
+- '[[_Standards/WikiData/WD~omnitheism,92309577]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~theism,620805]]"
-has_list: "[[_Standards/WikiData/WD~list_of_pantheists,6631905]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
+has_list: '[[_Standards/WikiData/WD~list_of_pantheists,6631905]]'
 Dewey_Decimal_Classification:
-  - "147"
-  - "211.2"
+- 147
+- 211.2
 IMDb_keyword: pantheism
 Commons_category: Pantheism
+dv_has_:
+  name_:
+    af: panteïsme
+    ar: وحدة الوجود
+    ast: Panteísmu
+    az: Panteizm
+    azb: پانتئیسم
+    ban: Panteisme
+    be: Пантэізм
+    be-tarask: пантэізм
+    bg: Пантеизъм
+    bn: সর্বেশ্বরবাদ
+    bs: Panteizam
+    ca: panteisme
+    ckb: پانتێیزم
+    cs: panteismus
+    cy: Pantheistiaeth
+    da: panteisme
+    de: Pantheismus
+    el: πανθεϊσμός
+    en: pantheism
+    eo: panteismo
+    es: panteísmo
+    et: panteism
+    eu: panteismo
+    fa: همهخدایی
+    fi: panteismi
+    fr: panthéisme
+    fy: Panteïsme
+    ga: paindiachas
+    gcr: Pantéyism
+    gl: panteísmo
+    gv: panjeeagys
+    he: פנתאיזם
+    hi: सर्वेश्वरवाद
+    hr: panteizam
+    hu: panteizmus
+    hy: պանթեիզմ
+    ia: pantheismo
+    id: panteisme
+    io: panteismo
+    is: algyðistrú
+    it: panteismo
+    ja: 汎神論
+    jam: Pantiyizim
+    ka: პანთეიზმი
+    kk: Пантеизм
+    ko: 범신론
+    ky: Пантеизм
+    la: religio pantheia
+    lb: Pantheismus
+    lfn: Panteisme
+    lt: panteizmas
+    lv: panteisms
+    mg: Panteisma
+    mk: Пантеизам
+    ms: Panteisme
+    mwl: Panteísmo
+    nap: Pandeisme
+    nb: panteisme
+    nl: pantheïsme
+    nn: panteisme
+    oc: Panteisme
+    os: пантеизм
+    pl: panteizm
+    pt: panteísmo
+    ro: panteism
+    ru: пантеизм
+    rue: Пантеизм
+    se: panteisma
+    sgs: Panteėzmos
+    sh: Panteizam
+    sk: panteizmus
+    sl: panteizem
+    smn: panteism
+    sms: panteismm
+    sq: panteizmi
+    sr: пантеизам
+    sv: panteism
+    szl: Pantejizm
+    ta: அனைத்து இறைக் கொள்கை
+    th: สรรพเทวนิยม
+    tl: Panteismo
+    tok: nasin pi sewi ale
+    tr: panteizm
+    tt: пантеизм
+    tyv: Пантеизм
+    uk: пантеїзм
+    ur: عقیدۂ وحدت الوجود
+    uz: Panteizm
+    vi: thuyết phiếm thần
+    wuu: 泛神论
+    yi: פּאַנטעאיזם
+    yue: 泛神論
+    zh: 泛神论
+    zh-hk: 泛神論
 ---
-
 # [[Pantheism]] 
 
 #is_/same_as :: [[WD~Pantheism,728455]] 

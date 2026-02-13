@@ -1,38 +1,177 @@
 ---
 aliases:
-  - Ring
-  - rng
-  - Ring(Math)
+- Algebarski prsten
+- Aneddu
+- anel
+- anell
+- anello
+- Anellus
+- anillo
+- anneau
+- anèl
+- eraztun
+- fáinne
+- Gelanggang
+- gyűrű
+- halka
+- inel
+- Khôan
+- kolobar
+- Modrwy
+- okruh
+- pierścień
+- prsten
+- Rank (Algeber)
+- rengas
+- Rienk
+- Ring
+- Ring(Math)
+- ringe
+- ringo
+- Ringo (algebro)
+- riņķis
+- rng
+- vành
+- Δακτύλιος
+- алгебарски прстен
+- боҗралар рәвештәшлеге
+- кільце
+- колца
+- Колца, алгебра
+- кольцо с единицей
+- Прстен (математика)
+- Пръстен
+- Ункă
+- Ҡулса (математика)
+- Օղակ
+- חוג
+- רינג
+- حلقة
+- حلقه
+- حلقہ
+- रिंग
+- வளையம்
+- ರಿಂಗ್
+- വലയം
+- ริง
+- რგოლი
+- 环
+- 环 (代数)
+- 環
+- 환
 has_id_wikidata: Q161172
 underlying_structure_s_:
-  - '[[_Standards/WikiData/WD~abelian_group,181296]]'
-  - '[[_Standards/WikiData/WD~monoid,208237]]'
-  - '[[_Standards/WikiData/WD~non_empty_set,10533491]]'
+- '[[_Standards/WikiData/WD~abelian_group,181296]]'
+- '[[_Standards/WikiData/WD~monoid,208237]]'
+- '[[_Standards/WikiData/WD~non_empty_set,10533491]]'
 studied_by: '[[_Standards/WikiData/WD~ring_theory,1208658]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~semiring,1333055]]'
-  - '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
-  - '[[_Standards/WikiData/WD~rng,17102802]]'
+- '[[_Standards/WikiData/WD~semiring,1333055]]'
+- '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
+- '[[_Standards/WikiData/WD~rng,17102802]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~additive_identity,2767837]]'
-  - '[[_Standards/WikiData/WD~multiplicative_identity,68019776]]'
+- '[[_Standards/WikiData/WD~additive_identity,2767837]]'
+- '[[_Standards/WikiData/WD~multiplicative_identity,68019776]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from:
-  - '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
-  - '[[_Standards/WikiData/WD~rng,17102802]]'
+- '[[_Standards/WikiData/WD~nonassociative_ring,13512116]]'
+- '[[_Standards/WikiData/WD~rng,17102802]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd></mtd></mtr></mtable></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi><mi>t</mi></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>t</mi><mo stretchy="false">+</mo><mi>s</mi><mi>t</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2212;</mo><mi>r</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>0</mn></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">=</mo><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd></mtd></mtr></mtable></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi><mi>t</mi></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>t</mi><mo stretchy="false">+</mo><mi>s</mi><mi>t</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2212;</mo><mi>r</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>0</mn></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">=</mo><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi></mstyle></mrow></math>
 OmegaWiki_Defined_Meaning: 384031
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dedekind.jpeg
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi></mtd><mtd><mo stretchy="false">=</mo><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mn>0</mn></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mo stretchy="false">&#x2212;</mo><mi>r</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd><mn>1</mn><mi>r</mi><mo stretchy="false">=</mo><mi>r</mi><mn>1</mn></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi></mtd></mtr><mtr><mtd><mi>r</mi><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">+</mo><mi>t</mi><mo stretchy="false">)</mo></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>s</mi><mo stretchy="false">+</mo><mi>r</mi><mi>t</mi></mtd></mtr><mtr><mtd><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">+</mo><mi>s</mi><mo stretchy="false">)</mo><mi>t</mi></mtd><mtd><mo stretchy="false">=</mo><mi>r</mi><mi>t</mi><mo stretchy="false">+</mo><mi>s</mi><mi>t</mi></mtd></mtr></mtable></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: حلقة
+    ba: Ҡулса (математика)
+    be: Колца, алгебра
+    be-tarask: колца
+    bg: Пръстен
+    bs: Prsten
+    ca: anell
+    cs: okruh
+    cv: Ункă
+    cy: Modrwy
+    da: ring
+    de: Ring
+    el: Δακτύλιος
+    en: ring
+    eo: ringo
+    es: anillo
+    et: Ring
+    eu: eraztun
+    fa: حلقه
+    fi: rengas
+    fr: anneau
+    ga: fáinne
+    gl: Anel
+    he: חוג
+    hr: prsten
+    hu: gyűrű
+    hy: Օղակ
+    ia: anello
+    id: Ring
+    io: Ringo (algebro)
+    it: anello
+    ja: 環
+    ka: რგოლი
+    kn: ರಿಂಗ್
+    ko: 환
+    la: Anellus
+    lb: Rank (Algeber)
+    lmo: Anell
+    lv: riņķis
+    lzh: 環
+    mk: Прстен (математика)
+    ml: വലയം
+    mr: रिंग
+    ms: Gelanggang
+    nan: Khôan
+    nb: ring
+    nl: ring
+    nn: ring
+    nov: ringe
+    oc: anèl
+    pl: pierścień
+    pms: Anel
+    pt: anel
+    pt-br: anel
+    ro: inel
+    ru: кольцо с единицей
+    scn: Aneddu
+    sh: Algebarski prsten
+    sk: Okruh
+    sl: kolobar
+    sr: алгебарски прстен
+    sr-ec: Алгебарски прстен
+    sr-el: algebarski prsten
+    sv: ring
+    ta: வளையம்
+    th: ริง
+    tr: halka
+    tt: боҗралар рәвештәшлеге
+    uk: кільце
+    ur: حلقہ
+    vi: vành
+    vls: Rienk
+    wuu: 环 (代数)
+    yi: רינג
+    yue: 環
+    zh: 环
+    zh-cn: 环
+    zh-hans: 环
+    zh-hant: 環
+    zh-hk: 環
+    zh-sg: 环
+    zh-tw: 環
 ---
-
 # [[Ring(Math)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ring,161172|WD~Ring,161172]]  

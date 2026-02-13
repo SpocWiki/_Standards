@@ -1,29 +1,202 @@
 ---
 aliases:
-  - Race
-  - Subspecies
+- Adu-telmest
+- alalaji
+- alamliik
+- alfaj
+- alt tür
+- astör
+- azpiespezie
+- fo-spèiseas
+- fospeiceas
+- isrywogaeth
+- Isspesad
+- Kiçi görnüş
+- Nënllojet
+- ondersoort
+- pasuga
+- phân loài
+- poddruh
+- podgatunek
+- Podvrsta
+- porūšis
+- Race
+- sosespècia
+- Sotospece
+- sottospecie
+- sottospeċi
+- sous-espèce
+- subespecie
+- subespècie
+- subespécie
+- subsebbangan
+- subspecie
+- Subspecies
+- subspecio
+- subspesie
+- subspesies
+- subspésiés
+- Supespesie
+- suttaspecia
+- Torobınên
+- underart
+- Undersoarte
+- Unterart
+- Yarımnöv
+- Á-chéng
+- Ënneraart
+- žinə čur
+- Υποείδος
+- Айтĕс
+- астөр
+- Көрүҥ үөдүҥэ
+- підвид
+- падвід
+- подвид
+- подврста
+- Түрше
+- תת-מין
+- ادٕزٲژ
+- جیر تی
+- ذیلی نوع
+- زیرگونه
+- نوع تحتاني
+- نويع
+- ߛߌߦߊ߫ߙߋ߲
+- उपजाति (जीवविज्ञान)
+- उपप्रजाति
+- উপপ্রজাতি
+- પેટાજાતિ
+- துணையினம்
+- ชนิดย่อย
+- မျိုးစိတ်ခွဲ
+- 亚种
+- 亜種
+- 亞種
+- 아종
 has_id_wikidata: Q68947
 different_from:
-  - '[[_Standards/WikiData/WD~genotype,106016]]'
-  - '[[_Standards/WikiData/WD~serotype,848328]]'
-  - '[[_Standards/WikiData/WD~strain,855769]]'
-  - '[[_Standards/WikiData/WD~subgenus,3238261]]'
-  - '[[_Standards/WikiData/WD~scientific_name,10753560]]'
-  - '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
-  - '[[_Standards/WikiData/WD~virus_name,125481078]]'
-  - '[[_Standards/WikiData/WD~isolate,125482110]]'
+- '[[_Standards/WikiData/WD~genotype,106016]]'
+- '[[_Standards/WikiData/WD~serotype,848328]]'
+- '[[_Standards/WikiData/WD~strain,855769]]'
+- '[[_Standards/WikiData/WD~subgenus,3238261]]'
+- '[[_Standards/WikiData/WD~scientific_name,10753560]]'
+- '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
+- '[[_Standards/WikiData/WD~virus_name,125481078]]'
+- '[[_Standards/WikiData/WD~isolate,125482110]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 described_by_source:
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~part,13196193]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~part,13196193]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 part_of: '[[_Standards/WikiData/WD~species,7432]]'
 OmegaWiki_Defined_Meaning: 960607
+dv_has_:
+  name_:
+    af: subspesie
+    an: Subespecie
+    ar: نويع
+    ary: نوع تحتاني
+    ast: subespecie
+    az: Yarımnöv
+    be: падвід
+    be-tarask: падвід
+    bg: подвид
+    bho: उपप्रजाति
+    bn: উপপ্রজাতি
+    br: Isspesad
+    bs: Podvrsta
+    ca: subespècie
+    cs: poddruh
+    cv: Айтĕс
+    cy: isrywogaeth
+    da: underart
+    de: Unterart
+    diq: Torobınên
+    el: Υποείδος
+    en: subspecies
+    en-ca: subspecies
+    en-gb: subspecies
+    eo: subspecio
+    es: subespecie
+    et: alamliik
+    eu: azpiespezie
+    fa: زیرگونه
+    fi: alalaji
+    fr: sous-espèce
+    fy: Undersoarte
+    ga: fospeiceas
+    gd: fo-spèiseas
+    gl: subespecie
+    gu: પેટાજાતિ
+    he: תת-מין
+    hi: उपजाति (जीवविज्ञान)
+    hr: podvrsta
+    hu: alfaj
+    ia: subspecie
+    id: subspesies
+    ilo: subsebbangan
+    it: sottospecie
+    ja: 亜種
+    jv: subspesies
+    kab: Adu-telmest
+    kk: Түрше
+    ko: 아종
+    ks: ادٕزٲژ
+    la: Subspecies
+    lb: Ënneraart
+    lt: porūšis
+    lv: pasuga
+    mk: подвид
+    ms: Subspesies
+    mt: sottospeċi
+    my: မျိုးစိတ်ခွဲ
+    mzn: جیر تی
+    nan: Á-chéng
+    nb: underart
+    nl: ondersoort
+    nn: underart
+    nqo: ߛߌߦߊ߫ߙߋ߲
+    oc: sosespècia
+    pap: Supespesie
+    pl: podgatunek
+    pt: subespécie
+    pt-br: subespécie
+    ro: subspecie
+    ru: подвид
+    rue: Підвид
+    sah: Көрүҥ үөдүҥэ
+    scn: suttaspecia
+    sh: Podvrsta
+    sk: Poddruh
+    sl: podvrsta
+    sq: Nënllojet
+    sr: подврста
+    su: subspésiés
+    sv: underart
+    ta: துணையினம்
+    th: ชนิดย่อย
+    tk: Kiçi görnüş
+    tly: žinə čur
+    tr: alt tür
+    tt: астөр
+    tt-cyrl: астөр
+    tt-latn: astör
+    uk: підвид
+    ur: ذیلی نوع
+    vec: Sotospece
+    vi: phân loài
+    wuu: 亚种
+    yue: 亞種
+    zh: 亞種
+    zh-hans: 亚种
+    zh-hant: 亞種
+    zh-hk: 亞種
 ---
 # [[bio~Subspecies]] 
 

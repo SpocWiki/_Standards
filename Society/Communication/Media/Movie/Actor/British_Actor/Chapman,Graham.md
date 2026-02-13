@@ -1,8 +1,89 @@
 ---
 aliases:
-  - Graham Chapman
-  - Chapman,Graham
+- Chapman,Graham
+- Graham Chapman
+- Greiems Čepmens
+- Γκρέιχαμ Τσάπμαν
+- Грејам Чепмен
+- Греам Чепмен
+- Грехем Чепмен
+- Греъм Чапман
+- Грэм Чепмен
+- Գրահամչ Չպման
+- גרהאם צ'אפמן
+- جراهام تشابمان
+- غراهام تشابمان
+- قراهام چپمن
+- گراهام چپمن
+- গ্রাহাম চ্যাপম্যান
+- เกรอัม แชปแมน
+- グレアム・チャップマン
+- 格雷厄姆·查普曼
+- 그레이엄 채프먼
 has_id_wikidata: Q24962
+dv_has_:
+  name_:
+    af: Graham Chapman
+    an: Graham Chapman
+    ar: غراهام تشابمان
+    arz: جراهام تشابمان
+    ast: Graham Chapman
+    azb: قراهام چپمن
+    bg: Греъм Чапман
+    bn: গ্রাহাম চ্যাপম্যান
+    bs: Graham Chapman
+    ca: Graham Chapman
+    cs: Graham Chapman
+    cy: Graham Chapman
+    da: Graham Chapman
+    de: Graham Chapman
+    el: Γκρέιχαμ Τσάπμαν
+    en: Graham Chapman
+    en-ca: Graham Chapman
+    en-gb: Graham Chapman
+    eo: Graham Chapman
+    es: Graham Chapman
+    eu: Graham Chapman
+    fa: گراهام چپمن
+    fi: Graham Chapman
+    fr: Graham Chapman
+    ga: Graham Chapman
+    gl: Graham Chapman
+    he: גרהאם צ'אפמן
+    hu: Graham Chapman
+    hy: Գրահամչ Չպման
+    ia: Graham Chapman
+    id: Graham Chapman
+    io: Graham Chapman
+    is: Graham Chapman
+    it: Graham Chapman
+    ja: グレアム・チャップマン
+    ko: 그레이엄 채프먼
+    la: Graham Chapman
+    lv: Greiems Čepmens
+    mk: Греам Чепмен
+    nan: Graham Chapman
+    nb: Graham Chapman
+    nl: Graham Chapman
+    nn: Graham Chapman
+    oc: Graham Chapman
+    pl: Graham Chapman
+    pt: Graham Chapman
+    pt-br: Graham Chapman
+    ro: Graham Chapman
+    ru: Грэм Чепмен
+    sco: Graham Chapman
+    sh: Graham Chapman
+    sk: Graham Chapman
+    sl: Graham Chapman
+    sq: Graham Chapman
+    sr: Грејам Чепмен
+    sv: Graham Chapman
+    th: เกรอัม แชปแมน
+    tr: Graham Chapman
+    uk: Грехем Чепмен
+    war: Graham Chapman
+    zh: 格雷厄姆·查普曼
 ---
 # [[Chapman,Graham]] 
 

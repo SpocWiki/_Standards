@@ -1,8 +1,122 @@
 ---
 aliases:
-  - Choanoflagellates
+- Bičkarji ovratničarji
+- Choanoflagellat
+- Choanoflagellata
+- Choanoflagellate
+- Choanoflagellatea
+- Choanoflagellater
+- Choanoflagellates
+- Choanomonada
+- Chragegaiseldierli
+- Coanoflagel·lat
+- Coanoflaxelados
+- Funelflageluloj
+- galléros ostorosok
+- Hoanoflagelate
+- Kaelusviburlased
+- kaulussiimaeliöt
+- Koanoflagelat
+- Krageflagellat
+- Kragengeisseltierchen
+- Kragengeißeltierchen
+- Trubénky
+- wiciowce kołnierzykowe
+- Жағалы талшықтылар
+- околувратни камшичари
+- хоанофлагелате
+- хоанофлагелати
+- хоанофлагеллаты
+- Хоанофлагеляти
+- כואנופלגלטה
+- سوطيات طوقية
+- سوطيات طوقيه
+- قیفیتاژکداران
+- कीपकशाभिक
+- চোঙফ্লাজেলীয়
+- 襟鞭毛虫綱
+- 領鞭毛蟲
+- 领鞭毛虫
+- 领鞭毛虫纲
+- 깃편모충
 title: Choanoflagellates
 has_id_wikidata: Q129012
+dv_has_:
+  name_:
+    af: Choanoflagellatea
+    an: Choanoflagellatea
+    ar: سوطيات طوقية
+    arz: سوطيات طوقيه
+    ast: Choanomonada
+    be: Choanoflagellate
+    bg: хоанофлагелати
+    bn: চোঙফ্লাজেলীয়
+    bs: Choanoflagellatea
+    ca: Coanoflagel·lat
+    ceb: Choanoflagellate
+    cs: Trubénky
+    da: Choanoflagellat
+    de: Kragengeißeltierchen
+    de-ch: Kragengeisseltierchen
+    en: Choanoflagellatea
+    en-us: Choanoflagellatea
+    eo: Funelflageluloj
+    es: Choanomonada
+    et: Kaelusviburlased
+    eu: Choanoflagellata
+    ext: Choanoflagellatea
+    fa: قیفیتاژکداران
+    fi: kaulussiimaeliöt
+    fr: Choanoflagellata
+    frr: Choanoflagellata
+    ga: Choanomonada
+    gl: Coanoflaxelados
+    gsw: Chragegaiseldierli
+    ha: Choanoflagellatea
+    he: כואנופלגלטה
+    hi: कीपकशाभिक
+    hr: Choanoflagellatea
+    hu: galléros ostorosok
+    ia: Choanoflagellatea
+    id: Choanoflagellatea
+    ie: Choanoflagellatea
+    io: Choanoflagellatea
+    it: Choanomonada
+    ja: 襟鞭毛虫綱
+    kk: Жағалы талшықтылар
+    ko: 깃편모충
+    la: Choanomonada
+    mk: околувратни камшичари
+    ms: Koanoflagelat
+    mul: Choanoflagellatea
+    nl: Choanoflagellata
+    nn: Krageflagellat
+    oc: Choanoflagellatea
+    pcm: Choanoflagellatea
+    pl: wiciowce kołnierzykowe
+    pt: Choanoflagellata
+    pt-br: Choanoflagellatea
+    ro: Choanoflagellate
+    ru: хоанофлагеллаты
+    sh: Hoanoflagelate
+    sl: Bičkarji ovratničarji
+    sq: Choanoflagellate
+    sr: хоанофлагелате
+    sr-ec: Хоанофлагелате
+    sr-el: Hoanoflagelate
+    sv: Choanoflagellater
+    tr: Choanoflagellate
+    uk: Хоанофлагеляти
+    vi: Choanoflagellatea
+    vo: Choanoflagellatea
+    war: Choanoflagellate
+    zh: 领鞭毛虫纲
+    zh-cn: 领鞭毛虫纲
+    zh-hans: 领鞭毛虫纲
+    zh-hant: 領鞭毛蟲
+    zh-hk: 領鞭毛蟲
+    zh-sg: 领鞭毛虫
+    zh-tw: 領鞭毛蟲
 ---
 # [[Choanoflagellates]] 
 

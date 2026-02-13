@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Nitrospira
+- Nitrospira
+- نتروحلزونية
+- نتروحلزونيه
+- नाइट्रोस्पिरा
+- ニトロスピラ属
+- 硝化螺菌属
+- 硝化螺菌屬
 title: Nitrospira
 has_id_wikidata: Q3024630
+dv_has_:
+  name_:
+    an: Nitrospira
+    ar: نتروحلزونية
+    arz: نتروحلزونيه
+    ast: Nitrospira
+    bg: Nitrospira
+    ca: Nitrospira
+    ceb: Nitrospira
+    de: Nitrospira
+    en: Nitrospira
+    eo: Nitrospira
+    es: Nitrospira
+    eu: Nitrospira
+    ext: Nitrospira
+    fi: Nitrospira
+    fr: Nitrospira
+    ga: Nitrospira
+    gl: Nitrospira
+    hi: नाइट्रोस्पिरा
+    ia: Nitrospira
+    ie: Nitrospira
+    io: Nitrospira
+    it: Nitrospira
+    ja: ニトロスピラ属
+    la: Nitrospira
+    mul: Nitrospira
+    nl: Nitrospira
+    oc: Nitrospira
+    pl: Nitrospira
+    pt: Nitrospira
+    pt-br: Nitrospira
+    ro: Nitrospira
+    ru: Nitrospira
+    sq: Nitrospira
+    uk: Nitrospira
+    vi: Nitrospira
+    vo: Nitrospira
+    war: Nitrospira
+    zh: 硝化螺菌属
+    zh-cn: 硝化螺菌属
+    zh-hans: 硝化螺菌属
+    zh-tw: 硝化螺菌屬
 ---
 # [[Nitrospira]] 
 

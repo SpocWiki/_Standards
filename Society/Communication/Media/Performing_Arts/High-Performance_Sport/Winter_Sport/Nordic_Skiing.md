@@ -1,24 +1,124 @@
 ---
 aliases:
+- dei nordiske greinene
+- Eski nordiko
+- Esqui nórdico
+- esquí nòrdic
+- esquí nórdico
+- esquí nórdicu
+- klasické lyžování
+- Kuzey disiplini
+- narciarstwo klasyczne
+- Noardsk skye
+- Noords skiën
+- Nordia skiado
+- nordic skiing
+- nordijsko skijanje
+- nordijsko smučanje
+- nordijsko trčanje
+- nordisk skidsport
+- Nordiske discipliner
+- nordiske grener
+- pohjoismaiset hiihtolajit
+- Põhja suusaalad
+- Schi nordic
+- sci nordico
+- sciáil Nordach
+- sgïo Nordig
+- Ski nordic
+- Ski Nordik
+- ski nordique
+- Ski Nordisch
+- Skijimi nordik
+- északisí
+- Βορινό σκι
+- клясычнае катаньне на лыжах
+- нордијско скијање
+- нордиско скијање
+- Нордичне катання на лижах
+- северные дисциплины
+- ски северни дисциплини
+- Հյուսիսային դահուկներ
+- סקי נורדי
+- اسکی نوردیک
+- التزحلف الشمالي
+- ノルディック・スキー
+- 北欧滑雪
+- 北歐式滑雪
+- 北歐滑雪
+- 노르딕 스키
 has_id_wikidata: Q216613
-subclass_of: "[[_Standards/WikiData/WD~skiing,130949]]"
+subclass_of: '[[_Standards/WikiData/WD~skiing,130949]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cross_country_skiing,179687]]"
-  - "[[_Standards/WikiData/WD~Nordic_combined,201965]]"
-  - "[[_Standards/WikiData/WD~ski_jumping,7718]]"
-instance_of: "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+- '[[_Standards/WikiData/WD~cross_country_skiing,179687]]'
+- '[[_Standards/WikiData/WD~Nordic_combined,201965]]'
+- '[[_Standards/WikiData/WD~ski_jumping,7718]]'
+instance_of: '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~Nordic_skier,113510260]]"
-  - "[[_Standards/WikiData/WD~military_skier,117667098]]"
+- '[[_Standards/WikiData/WD~Nordic_skier,113510260]]'
+- '[[_Standards/WikiData/WD~military_skier,117667098]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Nordic%20combined%20pictogram.svg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Combined%20nordic.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fixation%20ski%20de%20fond.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Skipcxc.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Combined%20nordic.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fixation%20ski%20de%20fond.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Skipcxc.JPG
 IPTC_NewsCode: mediatopic/20001060
 Commons_category: Nordic skiing
+dv_has_:
+  name_:
+    ar: التزحلف الشمالي
+    ast: esquí nórdicu
+    be-tarask: клясычнае катаньне на лыжах
+    bg: ски северни дисциплини
+    bs: nordijsko skijanje
+    ca: esquí nòrdic
+    cs: klasické lyžování
+    cy: sgïo Nordig
+    da: Nordiske discipliner
+    de: Ski Nordisch
+    el: Βορινό σκι
+    en: nordic skiing
+    eo: Nordia skiado
+    es: esquí nórdico
+    et: Põhja suusaalad
+    eu: Eski nordiko
+    fa: اسکی نوردیک
+    fi: pohjoismaiset hiihtolajit
+    fr: ski nordique
+    fy: Noardsk skye
+    ga: sciáil Nordach
+    gl: esquí nórdico
+    he: סקי נורדי
+    hr: nordijsko skijanje
+    hu: északisí
+    hy: Հյուսիսային դահուկներ
+    ia: Ski nordic
+    id: Ski Nordik
+    it: sci nordico
+    ja: ノルディック・スキー
+    ko: 노르딕 스키
+    mk: нордиско скијање
+    nb: nordiske grener
+    nl: Noords skiën
+    nn: dei nordiske greinene
+    pl: narciarstwo klasyczne
+    pt: Esqui nórdico
+    ro: Schi nordic
+    ru: северные дисциплины
+    sh: nordijsko trčanje
+    sl: nordijsko smučanje
+    sq: Skijimi nordik
+    sr: нордијско скијање
+    sr-ec: нордијско скијање
+    sr-el: nordijsko skijanje
+    sv: nordisk skidsport
+    tr: Kuzey disiplini
+    uk: Нордичне катання на лижах
+    yue: 北歐滑雪
+    zh: 北歐式滑雪
+    zh-hans: 北欧滑雪
+    zh-hant: 北歐滑雪
 ---
-
 # [[Nordic_Skiing]] 
 
 #is_/same_as :: [[WD~Nordic_skiing,216613]] 

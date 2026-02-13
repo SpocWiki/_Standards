@@ -1,64 +1,186 @@
 ---
 aliases:
-  - Team sport
-  - Team_Sport
-  - Team Sport
+- demsala werzişî
+- denboraldi
+- idman mövsümü
+- musim
+- musim olahraga
+- mùa giải thể thao
+- saison sportive
+- sesong
+- sezon
+- sezon competițional
+- sezon sportiv
+- sezon sportowy
+- sezona
+- soutěžní sezóna
+- spoort pââʹjj
+- spordihooaeg
+- sporta sezono
+- sporto sezonas
+- sports season
+- Sportsaison
+- sportseizoen
+- sportska sezona
+- Sportssaison
+- sportssæson
+- sportév
+- stagione sportiva
+- stajon sportiva
+- säsong av seriespel eller idrottstävling
+- séasúr spóirt
+- Team sport
+- Team_Sport
+- tempada deportiva
+- temporada
+- temporada deportiva
+- temporada esportiva
+- tymor chwaraeon
+- urheilukilpailun kausi
+- ítróttasesong
+- športna sezona
+- περίοδος αθλητικής διοργάνωσης
+- регулярний сезон
+- розыгрыш спортивного турнира
+- сезона
+- спартыўны сезон
+- спортен сезон
+- сэзон
+- մարզական մրցաշարի խաղարկություն
+- עונה ספורטיבית
+- فصل (ورزش)
+- موسم رياضى
+- موسم رياضي
+- موسيم
+- کھیل کا سیزن
+- ক্রীড়ার মৌসুম
+- スポーツシーズン
+- 賽季
+- 赛季
+- 시즌
 has_id_wikidata: Q27020041
 Commons_category: Sports seasons
 different_from:
-  - '[[_Standards/WikiData/WD~sports_league,623109]]'
-  - '[[_Standards/WikiData/WD~sports_season_of_a_sports_club,1539532]]'
+- '[[_Standards/WikiData/WD~sports_league,623109]]'
+- '[[_Standards/WikiData/WD~sports_season_of_a_sports_club,1539532]]'
 exact_match: http://cv.iptc.org/newscodes/spct/season
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~sporting_event,16510064]]'
-  - '[[_Standards/WikiData/WD~sport_competition_at_a_multi-sport_event,51031626]]'
+- '[[_Standards/WikiData/WD~sporting_event,16510064]]'
+- '[[_Standards/WikiData/WD~sport_competition_at_a_multi-sport_event,51031626]]'
 instance_of: '[[_Standards/WikiData/WD~tournament_system,61685689]]'
 part_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mecanautes-saison%20sportive.wav
 properties_for_this_type:
-  - location
-  - edition number
-  - start time
-  - end time
-  - sport
-  - organizer
-  - official website
-  - number of participants
-  - winner
-  - participating team
-  - competition class
-  - time period
-  - sports season of league or competition
-  - tournament format
+- location
+- edition number
+- start time
+- end time
+- sport
+- organizer
+- official website
+- number of participants
+- winner
+- participating team
+- competition class
+- time period
+- sports season of league or competition
+- tournament format
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~sports_series,10666337]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~season,10688145]]'
-  - '[[_Standards/WikiData/WD~sports_competition,13406554]]'
-  - '[[_Standards/WikiData/WD~competition,23807345]]'
-  - '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
+- '[[_Standards/WikiData/WD~season,10688145]]'
+- '[[_Standards/WikiData/WD~sports_competition,13406554]]'
+- '[[_Standards/WikiData/WD~competition,23807345]]'
+- '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_international_baseball_tournament,7878872]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_sports_season,10489628]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_international_hockey_competition,12981788]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_Korean_Series,20322011]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_sports_season,25890815]]'
-  - '[[_Standards/WikiData/WD~Q26115261,26115261]]'
-  - '[[_Standards/WikiData/WD~Q26115673,26115673]]'
-  - '[[_Standards/WikiData/WD~Q26118922,26118922]]'
-  - '[[_Standards/WikiData/WD~Q26119652,26119652]]'
-  - '[[_Standards/WikiData/WD~Q26120435,26120435]]'
-  - '[[_Standards/WikiData/WD~Q26120472,26120472]]'
-  - '[[_Standards/WikiData/WD~Q26120482,26120482]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_international_baseball_tournament,7878872]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,10489628]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_international_hockey_competition,12981788]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Korean_Series,20322011]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_sports_season,25890815]]'
+- '[[_Standards/WikiData/WD~Q26115261,26115261]]'
+- '[[_Standards/WikiData/WD~Q26115673,26115673]]'
+- '[[_Standards/WikiData/WD~Q26118922,26118922]]'
+- '[[_Standards/WikiData/WD~Q26119652,26119652]]'
+- '[[_Standards/WikiData/WD~Q26120435,26120435]]'
+- '[[_Standards/WikiData/WD~Q26120472,26120472]]'
+- '[[_Standards/WikiData/WD~Q26120482,26120482]]'
 Wikidata_property:
-  - time period
-  - sports season of league or competition
-  - season starts
-  - season ends
+- time period
+- sports season of league or competition
+- season starts
+- season ends
 Wikidata_usage_instructions:
-  - Χρησιμοποιείται μόνο για περίοδο αθλητικής διοργάνωσης, όχι για περίοδο αθλητικού συλλόγου.
-  - Only use for a season of a sports league or cup, not for seasons of a sports club.
+- Χρησιμοποιείται μόνο για περίοδο αθλητικής διοργάνωσης, όχι για περίοδο αθλητικού συλλόγου.
+- Only use for a season of a sports league or cup, not for seasons of a sports club.
+dv_has_:
+  name_:
+    ar: موسم رياضي
+    arz: موسم رياضى
+    ast: temporada deportiva
+    az: idman mövsümü
+    be: спартыўны сезон
+    be-tarask: сэзон
+    bg: спортен сезон
+    bn: ক্রীড়ার মৌসুম
+    bs: sportska sezona
+    ca: temporada esportiva
+    cs: soutěžní sezóna
+    cy: tymor chwaraeon
+    da: sportssæson
+    de: Sportsaison
+    el: περίοδος αθλητικής διοργάνωσης
+    en: sports season
+    en-us: sports season
+    eo: sporta sezono
+    es: temporada
+    et: spordihooaeg
+    eu: denboraldi
+    fa: فصل (ورزش)
+    fi: urheilukilpailun kausi
+    fo: ítróttasesong
+    fr: saison sportive
+    ga: séasúr spóirt
+    gl: tempada deportiva
+    he: עונה ספורטיבית
+    hr: sportska sezona
+    hu: sportév
+    hy: մարզական մրցաշարի խաղարկություն
+    id: musim olahraga
+    it: stagione sportiva
+    ja: スポーツシーズン
+    ko: 시즌
+    ku: demsala werzişî
+    ku-latn: demsala werzişî
+    lb: Sportssaison
+    lt: sporto sezonas
+    lv: sezona
+    mk: сезона
+    ms: musim
+    ms-arab: موسيم
+    nb: sesong
+    nl: sportseizoen
+    nn: sesong
+    pl: sezon sportowy
+    pt: temporada
+    ro: sezon competițional
+    ru: розыгрыш спортивного турнира
+    sl: športna sezona
+    sms: spoort pââʹjj
+    sq: sezon sportiv
+    sr: сезона
+    sv: säsong av seriespel eller idrottstävling
+    tr: sezon
+    uk: регулярний сезон
+    ur: کھیل کا سیزن
+    vec: stajon sportiva
+    vi: mùa giải thể thao
+    yue: 賽季
+    zh: 賽季
+    zh-hans: 赛季
+    zh-hant: 賽季
+    zh-hk: 賽季
+    zh-tw: 賽季
 ---
-
 ## #has_/text_of_/abstract 
 
 > A team sport is a type of sport where the fundamental nature of the game or sport 

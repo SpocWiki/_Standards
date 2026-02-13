@@ -1,32 +1,173 @@
 ---
 aliases:
-  - cross product
-  - vector product
-  - Vector_Product
-  - Vector Product
+- biderketa bektorial
+- Chrüzprodukt
+- cross product
+- iloczyn wektorowy
+- krossfeldi
+- kruisproduct
+- krydsprodukt
+- kryssprodukt
+- perkalian silang
+- prodhimi vektorial
+- prodot vetorial
+- prodotto vettoriale
+- producte vectorial
+- producto vectorial
+- productu vectorial
+- produit vectoriel
+- produktong krus
+- produs vectorial
+- produto vectorial
+- produto vetorial
+- ristitulo
+- tích vectơ
+- vector product
+- Vector_Product
+- vektor koʻpaytma
+- vektora produto
+- vektorinė sandauga
+- vektoriális szorzat
+- vektoriālais reizinājums
+- vektorkorrutis
+- vektorový součin
+- vektorový súčin
+- Vektorprodukt
+- vektorski produkt
+- vektorski proizvod
+- çapraz çarpım
+- γινόμενο διανυσμάτων
+- векторла хутлав
+- векторлы ҡабатландыҡ
+- векторлық көбейтінді
+- векторний добуток
+- векторно произведение
+- векторное умножение
+- векторски производ
+- вэктарнае множаньне
+- վեկտորական արտադրյալ
+- מכפלה וקטורית
+- ضرب اتجاهي
+- ضرب خارجی
+- لێکدانی دەرەکی
+- अन्योन्य गुण्न्
+- फुली गुणाकार
+- रेखण उत्पन्न
+- सदिश गुणनफल
+- ক্রস ভেক্টর
+- ਕਰੌਸ ਪ੍ਰੋਡਕਟ
+- குறுக்குப் பெருக்கு
+- ಕ್ರೊಸ್ ಪ್ರಾಡಕ್ಟ್
+- സദിശ ഗുണകാങ്കം
+- ผลคูณไขว้
+- ვექტორული ნამრავლი
+- ስፋት ብዜት
+- クロス積
+- 叉积
+- 向量积
+- 向量積
+- 外積
+- 외적
 has_id_wikidata: Q178192
 subclass_of:
-  - "[[_Standards/WikiData/WD~binary_operation,164307]]"
-  - "[[_Standards/WikiData/WD~vector_multiplication,56457918]]"
-has_characteristic: "[[_Standards/WikiData/WD~anticommutativity,639608]]"
-notation: "[[_Standards/WikiData/WD~multiplication_sign,1900125]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~vector_multiplication,56457918]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
+- '[[_Standards/WikiData/WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
+has_characteristic: '[[_Standards/WikiData/WD~anticommutativity,639608]]'
+notation: '[[_Standards/WikiData/WD~multiplication_sign,1900125]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">(</mo><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow><mo stretchy="false">&#x00D7;</mo><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow><msub><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub><mo stretchy="false">=</mo><munder><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mi>j</mi></mrow></munder><munder><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></munder><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mi>j</mi><mi>k</mi></mrow></mrow></msub><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>j</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow><mo stretchy="false">&#x00D7;</mo><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mo data-mjx-texclass="OPEN">(</mo><mtable columnspacing="1em" rowspacing="4pt"><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>z</mi></mrow></msub><mo stretchy="false">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>y</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msub><mo stretchy="false">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>z</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>y</mi></mrow></msub><mo stretchy="false">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>x</mi></mrow></msub></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true" data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mo stretchy=\"false\">(</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><msub><mo stretchy=\"false\">)</mo><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>j</mi></mrow></munder><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>k</mi></mrow></munder><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>i</mi><mi>j</mi><mi>k</mi></mrow></mrow></msub><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>j</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>k</mi></mrow></msub></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mo data-mjx-texclass=\"OPEN\">(</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>z</mi></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><mo stretchy=\"false\">&#x2212;</mo><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>y</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>x</mi></mrow></msub></mtd></mtr></mtable><mo fence=\"true\" stretchy=\"true\" symmetric=\"true\" data-mjx-texclass=\"CLOSE\">)</mo></mrow></mstyle></mrow></math>"
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow><mo stretchy="false">&#x00D7;</mo><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mi>j</mi><mi>k</mi></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03B5;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mi>j</mi><mi>k</mi></mrow></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
 IEV_number: 102-03-36
 Commons_category: Cross product
+dv_has_:
+  name_:
+    am: ስፋት ብዜት
+    ar: ضرب اتجاهي
+    ast: productu vectorial
+    ba: векторлы ҡабатландыҡ
+    be-tarask: вэктарнае множаньне
+    bg: векторно произведение
+    bn: ক্রস ভেক্টর
+    bs: vektorski proizvod
+    ca: producte vectorial
+    ckb: لێکدانی دەرەکی
+    cs: vektorový součin
+    cv: векторла хутлав
+    da: krydsprodukt
+    de: Vektorprodukt
+    el: γινόμενο διανυσμάτων
+    en: cross product
+    eo: vektora produto
+    es: producto vectorial
+    et: vektorkorrutis
+    eu: biderketa bektorial
+    fa: ضرب خارجی
+    fi: ristitulo
+    fr: produit vectoriel
+    gl: produto vectorial
+    gsw: Chrüzprodukt
+    he: מכפלה וקטורית
+    hi: अन्योन्य गुण्न्
+    hr: vektorski produkt
+    hu: vektoriális szorzat
+    hy: վեկտորական արտադրյալ
+    id: perkalian silang
+    is: krossfeldi
+    it: prodotto vettoriale
+    ja: クロス積
+    ka: ვექტორული ნამრავლი
+    kk: векторлық көбейтінді
+    kn: ಕ್ರೊಸ್ ಪ್ರಾಡಕ್ಟ್
+    ko: 외적
+    lt: vektorinė sandauga
+    lv: vektoriālais reizinājums
+    mag: सदिश गुणनफल
+    mk: векторски производ
+    ml: സദിശ ഗുണകാങ്കം
+    mr: फुली गुणाकार
+    nb: vektorprodukt
+    nl: kruisproduct
+    nn: kryssprodukt
+    pa: ਕਰੌਸ ਪ੍ਰੋਡਕਟ
+    pl: iloczyn wektorowy
+    pms: prodot vetorial
+    pt: produto vetorial
+    ro: produs vectorial
+    ru: векторное умножение
+    sa: रेखण उत्पन्न
+    sco: cross product
+    sk: vektorový súčin
+    sl: vektorski produkt
+    sq: prodhimi vektorial
+    sr: vektorski proizvod
+    sv: kryssprodukt
+    ta: குறுக்குப் பெருக்கு
+    th: ผลคูณไขว้
+    tl: produktong krus
+    tr: çapraz çarpım
+    uk: векторний добуток
+    uz: vektor koʻpaytma
+    vi: tích vectơ
+    wuu: 叉积
+    yue: 外積
+    zh: 向量积
+    zh-cn: 向量积
+    zh-hans: 向量积
+    zh-hant: 向量積
+    zh-hk: 向量積
+    zh-sg: 向量积
+    zh-tw: 向量積
 ---
-
 # [[Vector_Product]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vector_product,178192|WD~Vector_product,178192]]  

@@ -1,8 +1,66 @@
 ---
 has_id_wikidata: Q117455
+dv_has_:
+  name_:
+    ar: مارتن سوتير
+    arz: مارتن سوتير
+    ast: Martin Suter
+    bg: Мартин Зутер
+    bn: মার্টিন সুটার
+    ca: Martin Suter
+    cs: Martin Suter
+    da: Martin Suter
+    de: Martin Suter
+    en: Martin Suter
+    en-gb: Martin Suter
+    eo: Martin Suter
+    es: Martin Suter
+    et: Martin Suter
+    fa: مارتین زوتر
+    fi: Martin Suter
+    fr: Martin Suter
+    ga: Martin Suter
+    gsw: Martin Suter
+    hu: Martin Suter
+    ie: Martin Suter
+    is: Martin Suter
+    it: Martin Suter
+    ja: マルティン・ズーター
+    kl: Martin Suter
+    ko: 마틴 수 테르
+    la: Martinus Suter
+    mk: Мартин Шутер
+    nb: Martin Suter
+    nl: Martin Suter
+    nn: Martin Suter
+    oc: Martin Suter
+    pl: Martin Suter
+    pt: Martin Suter
+    pt-br: Martin Suter
+    rm: Martin Suter
+    ro: Martin Suter
+    ru: Мартин Сутер
+    sl: Martin Suter
+    sq: Martin Suter
+    sv: Martin Suter
+    uk: Мартін Зутер
+    zh: 马丁·苏特
+    zh-hant: 馬汀‧蘇特
+aliases:
+- Martin Suter
+- Martinus Suter
+- Мартін Зутер
+- Мартин Зутер
+- Мартин Сутер
+- Мартин Шутер
+- مارتن سوتير
+- مارتین زوتر
+- মার্টিন সুটার
+- マルティン・ズーター
+- 馬汀‧蘇特
+- 马丁·苏特
+- 마틴 수 테르
 ---
-
-
 # [[Suter,Martin]] 
 
 #has_/time_/started :: 1948-02-29 

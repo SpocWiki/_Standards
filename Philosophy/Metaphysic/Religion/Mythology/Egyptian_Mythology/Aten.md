@@ -1,10 +1,126 @@
 ---
 aliases:
-  - Aten
-  - Aton
-  - Atonu
-  - Itn
+- Aten
+- Aton
+- Atonas
+- Atono
+- Atons
+- Atonu
+- Atón
+- Atôna
+- Dewa Aten
+- Itn
+- Ατών
+- Атон
+- Աթոն
+- אתון
+- آتن
+- آتون
+- اتون
+- अतेन
+- আতেন
+- அதின்
+- അത്തേൻ
+- เทพอาเตน
+- ატონი
+- アテン
+- 阿吞
+- 阿頓
+- 阿顿
+- ꯑꯇꯦꯟ
+- 아톤
 has_id_wikidata: Q130227
+dv_has_:
+  name_:
+    af: Aten
+    ar: آتون
+    arz: اتون
+    ast: Atón
+    az: Aton
+    azb: آتون
+    be: Атон
+    be-tarask: Атон
+    bg: Атон
+    bho: अतेन
+    bn: আতেন
+    bs: Aton
+    ca: Aten
+    cdo: Aten
+    cs: Aton
+    cv: Атон
+    da: Aton
+    de: Aton
+    el: Ατών
+    en: Aten
+    eo: Atono
+    es: Atón
+    et: Aton
+    eu: Aton
+    fa: آتون
+    fi: Aton
+    fr: Aton
+    gl: Atón
+    gsw: Aton
+    he: אתון
+    hi: अतेन
+    hr: Aton
+    hu: Aton
+    hy: Աթոն
+    id: Aten
+    is: Aten
+    it: Aton
+    ja: アテン
+    ka: ატონი
+    kk: Атон
+    ko: 아톤
+    la: Aten
+    lt: Atonas
+    lv: Atons
+    mg: Atôna
+    mk: Атон
+    ml: അത്തേൻ
+    mni: ꯑꯇꯦꯟ
+    ms: Dewa Aten
+    mzn: آتن
+    nb: Aton
+    nl: Aton
+    oc: Aton
+    pl: Aton
+    pt: Aton
+    ro: Aton
+    ru: Атон
+    scn: Aton
+    sco: Aten
+    sd: آتون
+    sh: Aton
+    sk: Aton
+    skr: آتون
+    sl: Aton
+    sr: Атон
+    sr-ec: Атон
+    sr-el: Aton
+    sv: Aton
+    sw: Aten
+    ta: அதின்
+    tg: Атон
+    th: เทพอาเตน
+    tl: Aten
+    tr: Aten
+    uk: Атон
+    ur: آتون
+    uz: Aton
+    vi: Aten
+    war: Aten
+    wuu: 阿顿
+    xmf: ატონი
+    yue: 阿頓
+    zh: 阿頓
+    zh-cn: 阿吞
+    zh-hans: 阿顿
+    zh-hant: 阿頓
+    zh-hk: 阿頓
+    zh-sg: 阿顿
+    zh-tw: 阿頓
 ---
 # [[Aten]] 
 

@@ -1,28 +1,142 @@
 ---
 aliases:
+- decibel
+- Decibelas
+- Decibeli
+- decibeliu
+- decibelo
+- decibels
+- decybel
+- deicibeil
+- desibel
+- desibeli
+- desibèl
+- desíbel
+- detsibel
+- detsibell
+- dezibel
+- dhesibel
+- décibel
+- ντεσιμπέλ
+- децибел
+- дэцыбэл
+- դեցիբել
+- דציבל
+- دسیبل
+- ديسيبل
+- دیسیبێڵ
+- ڈیسیبل
+- डेसीबेल
+- ডেসিবেল
+- டெசிபெல்
+- డెసిబెల్
+- ഡെസിബെൽ
+- เดซิเบล
+- དེ་སྦེལ།
+- დეციბელი
+- デシベル
+- 分貝
+- 分贝
+- 데시벨
 has_id_wikidata: Q5329
 instance_of:
-  - "[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
-  - "[[_Standards/WikiData/WD~logarithmic_unit,17342348]]"
-  - "[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]"
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~logarithmic_unit,17342348]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
 measured_physical_quantity:
-  - "[[_Standards/WikiData/WD~logarithmic_quantity,11349892]]"
-  - "[[_Standards/WikiData/WD~sound_pressure_level,14515278]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27149145,27149145]]"
+- '[[_Standards/WikiData/WD~logarithmic_quantity,11349892]]'
+- '[[_Standards/WikiData/WD~sound_pressure_level,14515278]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27149145,27149145]]'
 conversion_to_standard_unit: 0.1
-named_after: "[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]"
-OmegaWiki_Defined_Meaning: "4652"
+named_after: '[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]'
+OmegaWiki_Defined_Meaning: 4652
 UCUM_code: dB
 unit_symbol:
-  - dB
-  - дБ
+- dB
+- дБ
 UN_CEFACT_Common_Code: 2N
 Commons_category: Decibel
 Stack_Exchange_tag: https://stackoverflow.com/tags/decibel
 IEV_number: 801-22-03
 Unicode_character: ㏈
+dv_has_:
+  name_:
+    ar: ديسيبل
+    ast: decibeliu
+    az: desibel
+    be-tarask: дэцыбэл
+    bg: децибел
+    bn: ডেসিবেল
+    bo: དེ་སྦེལ།
+    ca: decibel
+    ckb: دیسیبێڵ
+    cs: decibel
+    cv: Децибел
+    de: Dezibel
+    el: ντεσιμπέλ
+    en: decibel
+    en-ca: decibel
+    en-gb: decibel
+    eo: decibelo
+    es: decibel
+    et: detsibell
+    eu: dezibel
+    fa: دسیبل
+    fi: desibeli
+    fr: décibel
+    ga: deicibeil
+    gl: decibel
+    he: דציבל
+    hi: डेसीबेल
+    hr: decibel
+    ht: desibèl
+    hu: decibel
+    hy: դեցիբել
+    id: desibel
+    is: desíbel
+    it: decibel
+    ja: デシベル
+    ka: დეციბელი
+    kk: децибел
+    ko: 데시벨
+    la: Decibel
+    lmo: Decibel
+    lt: Decibelas
+    lv: decibels
+    mk: децибел
+    ml: ഡെസിബെൽ
+    ms: desibel
+    nb: desibel
+    nl: decibel
+    nn: desibel
+    oc: decibel
+    pl: decybel
+    pnb: ڈیسیبل
+    pt: decibel
+    pt-br: decibel
+    ro: decibel
+    ru: децибел
+    sh: decibel
+    sl: decibel
+    smn: desibel
+    sms: desibel
+    so: dhesibel
+    sq: Decibeli
+    sr: decibel
+    sv: decibel
+    sw: Desibeli
+    ta: டெசிபெல்
+    te: డెసిబెల్
+    th: เดซิเบล
+    tr: desibel
+    uk: децибел
+    ur: ڈیسیبل
+    uz: detsibel
+    vi: decibel
+    wuu: 分贝
+    yue: 分貝
+    zh: 分貝
 ---
-
 # [[Decibel]] 
 
 #is_/similar_to :: [[Bit]] 

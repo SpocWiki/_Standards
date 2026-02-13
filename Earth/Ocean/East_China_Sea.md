@@ -1,68 +1,168 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
-    - "[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]"
-    - "[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]"
-    - "[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]"
-    - "[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]"
-    - "[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]"
+  - '[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]'
+  - '[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]'
+  - '[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]'
+  - '[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]'
+  - '[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]'
+  - '[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
-  - "[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]"
-  - "[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]"
-  - "[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]"
-  - "[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]"
-  - "[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]"
-
+- '[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]'
+- '[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]'
+- '[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]'
+- '[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]'
+- '[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]'
+- '[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]'
+- '[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]'
+- '[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]'
 aliases:
-  - East China Sea
-  - East_China_Sea
+- Austkinahavet
+- Austrumķīnas jūra
+- Austur-Kínahaf
+- Bahari ya Uchina ya Mashariki
+- Biển Hoa Đông
+- Dagat han Sinirangan nga Tsina
+- Dagat Silangang Tsina
+- Dagat Subangan na Tsina
+- Deryaya Çîna Rojhelat
+- Deti i Kinës Lindore
+- Doğu Çin Denizi
+- Dĕ̤ng-hāi
+- East China Samundar
+- East China Sea
+- East-Sineeske See
+- East_China_Sea
+- Ekialdeko Txinako itsasoa
+- Ida-Hiina meri
+- Istočno kinesko more
+- Istočnokinesko more
+- Itä-Kiinan meri
+- Kelet-kínai-tenger
+- Laut China Timur
+- Laut Tiongkok Timur
+- Mar Cinese Orientale
+- Mar da China Oriental
+- Mar de China oriental
+- Mar de China Orientala
+- Mar de la China Oriental
+- mar de la Xina Oriental
+- Mare Sinense Orientale
+- Marea Chinei
+- mer de Chine orientale
+- Mor Reter Sina
+- Morze Wschodniochińskie
+- Muir na Síne Thoir
+- Môr Dwyrain Tsieina
+- Oos-Sjinese See
+- Oost-Chinese Zee
+- Oostchineesche See
+- Orientĉina Maro
+- Ostchineesescht Mier
+- Ostchinesisches Meer
+- Para Kuarahyresẽ Chína
+- Pódzajtšochinske mórjo
+- Rytų Kinijos jūra
+- Rītū Kėnėjės jūra
+- Segara Cina Kangin
+- Sharqiy Xitoy dengizi
+- Tang Tiong-kok Hái
+- Uastsjineesk Sia
+- Vzhodnokitajsko morje
+- Východočínske more
+- Východočínské moře
+- Wuchodochinske morjo
+- Östkinesiska havet
+- Øst-Kina-havet
+- Østkinesiske Hav
+- Şarqiy Çin deñizi
+- Şərqi Çin dənizi
+- Θάλασσα της Ανατολικής Κίνας
+- Баҳри Шарқи Хитой
+- Восточно-Китайское море
+- Дорнод Хятадын тэнгис
+- Източнокитайско море
+- Источнокинеско Море
+- Кюнчыгъыш-Къытай тенгиз
+- Көнсығыш Ҡытай диңгеҙе
+- Көнчыгыш Кытай диңгезе
+- Скæсæн Китайы денджыз
+- Східнокитайське море
+- Тухăç-Китай тинĕсĕ
+- Усходне-Кітайскае мора
+- Шығыс Қытай теңізі
+- Эрвел Китай теҥыз
+- Արևելաչինական ծով
+- ים סין המזרחי
+- מזרח כינע ים
+- بحر الصين الشرقى
+- بحر الصين الشرقي
+- بحیرہ شرقی چین
+- دریای چین شرقی
+- دوْغو چین دنیزی
+- لاءوت چينا سلاتن
+- چڑھدا چین سمندر
+- چین شرقی دریا
+- पूरुबी चीनसागर
+- पूर्व चीन समुद्र
+- पूर्वी चिनियाँ समुद्र
+- पूर्वी चीन सागर
+- পূর্ব চীন সাগর
+- ਪੂਰਬੀ ਚੀਨ ਸਾਗਰ
+- கிழக்கு சீனக்கடல்
+- കിഴക്കൻ ചൈനാക്കടൽ
+- ทะเลจีนตะวันออก
+- აღმოსავლეთ ჩინეთის ზღვა
+- ბჟაეიოლი ჩინეთიშ ზუღა
+- សមុទ្រចិនខាងកើត
+- 东海
+- 東シナ海
+- 東海
+- 동중국해
+- 중국동해
 has_id_wikidata: Q45341
 location:
-  - 30
-  - 125
+- 30
+- 125
 coordinate_location: Point(125.0 30.0)
 instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 inflows:
-  - '[[_Standards/WikiData/WD~Ou_River,713020]]'
-  - '[[_Standards/WikiData/WD~Min_River,976458]]'
-  - '[[_Standards/WikiData/WD~Jiao_River,1770054]]'
-  - '[[_Standards/WikiData/WD~Sendai_River,3478526]]'
-  - '[[_Standards/WikiData/WD~Asato_River,4521491]]'
-  - '[[_Standards/WikiData/WD~Urauchi_River,4521517]]'
-  - '[[_Standards/WikiData/WD~Genka_River,4521581]]'
-  - '[[_Standards/WikiData/WD~Kokuba_River,4521609]]'
-  - '[[_Standards/WikiData/WD~Hija_River,4521724]]'
-  - '[[_Standards/WikiData/WD~Manose_River,11353751]]'
-  - '[[_Standards/WikiData/WD~Jisso_River,11405103]]'
-  - '[[_Standards/WikiData/WD~Oigawa_River,11432150]]'
-  - '[[_Standards/WikiData/WD~Futenma_River,11514564]]'
-  - '[[_Standards/WikiData/WD~Tabaru_River,11576251]]'
-  - '[[_Standards/WikiData/WD~Q11638072,11638072]]'
-  - '[[_Standards/WikiData/WD~Yangtze,5413]]'
+- '[[_Standards/WikiData/WD~Ou_River,713020]]'
+- '[[_Standards/WikiData/WD~Min_River,976458]]'
+- '[[_Standards/WikiData/WD~Jiao_River,1770054]]'
+- '[[_Standards/WikiData/WD~Sendai_River,3478526]]'
+- '[[_Standards/WikiData/WD~Asato_River,4521491]]'
+- '[[_Standards/WikiData/WD~Urauchi_River,4521517]]'
+- '[[_Standards/WikiData/WD~Genka_River,4521581]]'
+- '[[_Standards/WikiData/WD~Kokuba_River,4521609]]'
+- '[[_Standards/WikiData/WD~Hija_River,4521724]]'
+- '[[_Standards/WikiData/WD~Manose_River,11353751]]'
+- '[[_Standards/WikiData/WD~Jisso_River,11405103]]'
+- '[[_Standards/WikiData/WD~Oigawa_River,11432150]]'
+- '[[_Standards/WikiData/WD~Futenma_River,11514564]]'
+- '[[_Standards/WikiData/WD~Tabaru_River,11576251]]'
+- '[[_Standards/WikiData/WD~Q11638072,11638072]]'
+- '[[_Standards/WikiData/WD~Yangtze,5413]]'
 basin_country:
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country:
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 connects_with:
-  - '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
-  - '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
-  - '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
+- '[[_Standards/WikiData/WD~Sea_of_Japan,27092]]'
+- '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
+- '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
 part_of: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 area: 1249000
 vertical_depth: 2719
@@ -72,9 +172,127 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/East%20C
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mar%20de%20China%20Oriental%20-%20BM%20WMS%202004.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Banner%20of%20East%20China%20Sea.jpg
 Commons_category: East China Sea
+dv_has_:
+  name_:
+    af: Oos-Sjinese See
+    ar: بحر الصين الشرقي
+    arz: بحر الصين الشرقى
+    ast: Mar de la China Oriental
+    az: Şərqi Çin dənizi
+    azb: دوْغو چین دنیزی
+    ba: Көнсығыш Ҡытай диңгеҙе
+    ban: Segara Cina Kangin
+    bcl: Dagat Subangan na Tsina
+    be: Усходне-Кітайскае мора
+    be-tarask: Усходне-Кітайскае мора
+    bg: Източнокитайско море
+    bn: পূর্ব চীন সাগর
+    br: Mor Reter Sina
+    bs: Istočno kinesko more
+    ca: mar de la Xina Oriental
+    cbk-zam: Mar de China oriental
+    cdo: Dĕ̤ng-hāi
+    ceb: East China Sea
+    crh: Şarqiy Çin deñizi
+    cs: Východočínské moře
+    cv: Тухăç-Китай тинĕсĕ
+    cy: Môr Dwyrain Tsieina
+    da: Østkinesiske Hav
+    de: Ostchinesisches Meer
+    dsb: Pódzajtšochinske mórjo
+    el: Θάλασσα της Ανατολικής Κίνας
+    en: East China Sea
+    eo: Orientĉina Maro
+    es: mar de China Oriental
+    et: Ida-Hiina meri
+    eu: Ekialdeko Txinako itsasoa
+    fa: دریای چین شرقی
+    fi: Itä-Kiinan meri
+    fr: mer de Chine orientale
+    frr: Uastsjineesk Sia
+    fy: East-Sineeske See
+    ga: Muir na Síne Thoir
+    gl: Mar da China Oriental
+    gn: Para Kuarahyresẽ Chína
+    he: ים סין המזרחי
+    hi: पूर्वी चीन सागर
+    hif: East China Samundar
+    hr: Istočno kinesko more
+    hsb: Wuchodochinske morjo
+    hu: Kelet-kínai-tenger
+    hy: Արևելաչինական ծով
+    id: Laut Tiongkok Timur
+    is: Austur-Kínahaf
+    it: Mar Cinese Orientale
+    ja: 東シナ海
+    ka: აღმოსავლეთ ჩინეთის ზღვა
+    kk: Шығыс Қытай теңізі
+    km: សមុទ្រចិនខាងកើត
+    ko: 동중국해
+    ko-kp: 중국동해
+    krc: Кюнчыгъыш-Къытай тенгиз
+    ku: Deryaya Çîna Rojhelat
+    la: Mare Sinense Orientale
+    lb: Ostchineesescht Mier
+    lt: Rytų Kinijos jūra
+    lv: Austrumķīnas jūra
+    lzh: 東海
+    mag: पूरुबी चीनसागर
+    mhr: Эрвел Китай теҥыз
+    mk: Источнокинеско Море
+    ml: കിഴക്കൻ ചൈനാക്കടൽ
+    mn: Дорнод Хятадын тэнгис
+    mr: पूर्व चीन समुद्र
+    ms: Laut China Timur
+    ms-arab: لاءوت چينا سلاتن
+    mzn: چین شرقی دریا
+    nan: Tang Tiong-kok Hái
+    nb: Øst-Kina-havet
+    nds: Oostchineesche See
+    ne: पूर्वी चिनियाँ समुद्र
+    nl: Oost-Chinese Zee
+    nn: Austkinahavet
+    oc: Mar de China Orientala
+    os: Скæсæн Китайы денджыз
+    pa: ਪੂਰਬੀ ਚੀਨ ਸਾਗਰ
+    pl: Morze Wschodniochińskie
+    pnb: چڑھدا چین سمندر
+    pt: Mar da China Oriental
+    ro: Marea Chinei
+    ru: Восточно-Китайское море
+    sgs: Rītū Kėnėjės jūra
+    sh: Istočnokinesko more
+    sk: Východočínske more
+    sl: Vzhodnokitajsko morje
+    sq: Deti i Kinës Lindore
+    sr: Источнокинеско море
+    sv: Östkinesiska havet
+    sw: Bahari ya Uchina ya Mashariki
+    ta: கிழக்கு சீனக்கடல்
+    tg: Баҳри Шарқи Хитой
+    th: ทะเลจีนตะวันออก
+    tl: Dagat Silangang Tsina
+    tr: Doğu Çin Denizi
+    tt: Көнчыгыш Кытай диңгезе
+    uk: Східнокитайське море
+    ur: بحیرہ شرقی چین
+    uz: Sharqiy Xitoy dengizi
+    vi: Biển Hoa Đông
+    war: Dagat han Sinirangan nga Tsina
+    wuu: 东海
+    xmf: ბჟაეიოლი ჩინეთიშ ზუღა
+    yi: מזרח כינע ים
+    yue: 東海
+    zh: 东海
+    zh-cn: 东海
+    zh-hans: 东海
+    zh-hant: 東海
+    zh-hk: 東海
+    zh-mo: 東海
+    zh-my: 东海
+    zh-sg: 东海
+    zh-tw: 東海
 ---
-
-
 # [[East_China_Sea]]
 
 #is_/same_as :: [[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]

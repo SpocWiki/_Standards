@@ -1,85 +1,313 @@
 ---
 aliases:
-  - "{ newTitle: }":
+- ajhâr
+- apprendimento
+- apprentissage
+- aprantisaj
+- aprendimento
+- aprendizagem
+- aprendizaje
+- aprendizaxe
+- aprenentatge
+- aprentiseso
+- aprindaedje
+- belajar
+- bus
+- deprendimientu
+- diajar
+- foghlaim
+- hagsib
+- ha̍k-si̍p
+- ho ithuta
+- háttà
+- học
+- ikaskuntza
+- koyo
+- kudzidza
+- learin
+- learning
+- leerproses
+- Leornung
+- leren
+- Lernen
+- lerno
+- lärande
+- læring
+- Léieren
+- Lêerproces
+- marsiajar
+- mokymasis
+- mättjummuš
+- mācīšanās
+- nám
+- oahppan
+- oppiminen
+- oppâm
+- oqıtıw
+- oʻrganish
+- pagbaro
+- pagkatuto
+- pembelajaran
+- sinau
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- tanulás
+- të nxënit
+- uczenie się
+- ukufunda
+- učenie
+- učenje
+- učení
+- vuli
+- yachaqay
+- yatiqaña
+- învățare
+- õppimine
+- öyrənmə
+- öğrenme
+- μάθηση
+- белем алу
+- Вӗрентесси
+- навучанне
+- навучаньне
+- навчення
+- научение
+- оқыту
+- сурах
+- таҳсилот
+- учење
+- учене
+- өйрәтеү
+- սովորել
+- למידה
+- לערנען
+- تعلم
+- زده کړه
+- فێربوون
+- ڤمبلاجرن
+- یادگیری
+- अधिगम
+- अधिगमः
+- सयेकेगु
+- सिकाइ
+- শিক্ষা গ্রহণ
+- শিক্ষাগ্ৰহণ
+- ਸਿੱਖਣਾ
+- கற்றல்
+- నేర్చుకోవడం
+- ಕಲಿಕೆ
+- ඉගෙනීම
+- การเรียน
+- လေ့လာသင်ယူမှု
+- လွင်ႈလဵပ်ႈႁဵၼ်း
+- სწავლა
+- ការរៀនសូត្រ
+- 学习
+- 学習
+- 學習
+- 학습
 has_id_wikidata: Q133500
 has_effect:
-  - "[[_Standards/WikiData/WD~experience,164359]]"
-  - "[[_Standards/WikiData/WD~knowledge,9081]]"
-  - "[[_Standards/WikiData/WD~understanding,46744]]"
+- '[[_Standards/WikiData/WD~experience,164359]]'
+- '[[_Standards/WikiData/WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~understanding,46744]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~qualia,282250]]"
-  - "[[_Standards/WikiData/WD~teaching,352842]]"
-  - "[[_Standards/WikiData/WD~curiosity,366791]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
+- '[[_Standards/WikiData/WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~teaching,352842]]'
+- '[[_Standards/WikiData/WD~curiosity,366791]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~learning_theory,1790374]]"
-  - "[[_Standards/WikiData/WD~educational_assessment,2585724]]"
+- '[[_Standards/WikiData/WD~learning_theory,1790374]]'
+- '[[_Standards/WikiData/WD~educational_assessment,2585724]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~learning_strategy,1820336]]"
-  - "[[_Standards/WikiData/WD~learning_style,1820370]]"
-  - "[[_Standards/WikiData/WD~study_skill,1899632]]"
-uses: "[[_Standards/WikiData/WD~learning_cycle,6510168]]"
+- '[[_Standards/WikiData/WD~learning_strategy,1820336]]'
+- '[[_Standards/WikiData/WD~learning_style,1820370]]'
+- '[[_Standards/WikiData/WD~study_skill,1899632]]'
+uses: '[[_Standards/WikiData/WD~learning_cycle,6510168]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Učenie,12778159]]"
-  - "[[_Standards/WikiData/WD~Sinau,55992216]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Learning,14440227]]"
-subclass_of: "[[_Standards/WikiData/WD~learning_or_memory,14819853]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_part_s_: "[[_Standards/WikiData/WD~learning_activity,98034006]]"
+- '[[_Standards/WikiData/WD~Učenie,12778159]]'
+- '[[_Standards/WikiData/WD~Sinau,55992216]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Learning,14440227]]'
+subclass_of: '[[_Standards/WikiData/WD~learning_or_memory,14819853]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_part_s_: '[[_Standards/WikiData/WD~learning_activity,98034006]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-  - "[[_Standards/WikiData/WD~behavior,9332]]"
-facet_of: "[[_Standards/WikiData/WD~memory,492]]"
-participant: "[[_Standards/WikiData/WD~information,11028]]"
+- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~behavior,9332]]'
+facet_of: '[[_Standards/WikiData/WD~memory,492]]'
+participant: '[[_Standards/WikiData/WD~information,11028]]'
 social_media_followers: 21600
-practiced_by: "[[_Standards/WikiData/WD~schoolchild,48942]]"
+practiced_by: '[[_Standards/WikiData/WD~schoolchild,48942]]'
 Library_of_Congress_Classification:
-  - QP408
-  - LB1060-LB1078
+- QP408
+- LB1060-LB1078
 hashtag:
-  - lernen
-  - learning
+- lernen
+- learning
 image: http://commons.wikimedia.org/wiki/Special:FilePath/10th%20students%20Crescent%20camp%20of%20University%20of%20Nishapur%2009.jpg
 exact_match:
-  - http://purl.obolibrary.org/obo/GO_0007612
-  - https://valpal.info/parameters/learn
+- http://purl.obolibrary.org/obo/GO_0007612
+- https://valpal.info/parameters/learn
 UMLS_CUI: C1956124
 MeSH_tree_code:
-  - F02.463.425
-  - F02.784.629.529
+- F02.463.425
+- F02.784.629.529
 Commons_category: Learning
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NAUCHENIE.html
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
+dv_has_:
+  name_:
+    af: leerproses
+    ang: Leornung
+    ar: تعلم
+    as: শিক্ষাগ্ৰহণ
+    ast: deprendimientu
+    ay: yatiqaña
+    az: öyrənmə
+    ba: өйрәтеү
+    be: навучанне
+    be-tarask: навучаньне
+    bg: учене
+    bn: শিক্ষা গ্রহণ
+    bs: učenje
+    btm: marsiajar
+    ca: aprenentatge
+    ckb: فێربوون
+    cs: učení
+    cv: Вӗрентесси
+    da: læring
+    de: Lernen
+    el: μάθηση
+    en: learning
+    en-gb: learning
+    eo: lerno
+    es: aprendizaje
+    et: õppimine
+    eu: ikaskuntza
+    fa: یادگیری
+    fi: oppiminen
+    fj: vuli
+    fr: apprentissage
+    ga: foghlaim
+    gl: aprendizaxe
+    gu: bus
+    ha: koyo
+    he: למידה
+    hi: अधिगम
+    hr: učenje
+    ht: aprantisaj
+    hu: tanulás
+    hy: սովորել
+    id: belajar
+    io: aprentiseso
+    is: nám
+    it: apprendimento
+    ja: 学習
+    jv: sinau
+    ka: სწავლა
+    kaa: oqıtıw
+    kk: оқыту
+    km: ការរៀនសូត្រ
+    kn: ಕಲಿಕೆ
+    ko: 학습
+    lb: Léieren
+    lt: mokymasis
+    lv: mācīšanās
+    mad: ajhâr
+    mcn: háttà
+    mk: учење
+    mn: сурах
+    ms: pembelajaran
+    ms-arab: ڤمبلاجرن
+    my: လေ့လာသင်ယူမှု
+    nan: ha̍k-si̍p
+    nb: læring
+    ne: सिकाइ
+    new: सयेकेगु
+    nl: leren
+    nn: læring
+    pa: ਸਿੱਖਣਾ
+    pl: uczenie się
+    ps: زده کړه
+    pt: aprendizagem
+    pt-br: aprendizagem
+    qu: yachaqay
+    ro: învățare
+    ru: научение
+    sa: अधिगमः
+    sco: learin
+    se: oahppan
+    sh: učenje
+    shn: လွင်ႈလဵပ်ႈႁဵၼ်း
+    si: ඉගෙනීම
+    sk: učenie
+    sl: učenje
+    smn: oppâm
+    sms: mättjummuš
+    sn: kudzidza
+    sq: të nxënit
+    sr: учење
+    sr-ec: учење
+    sr-el: učenje
+    st: ho ithuta
+    su: diajar
+    sv: lärande
+    ta: கற்றல்
+    te: నేర్చుకోవడం
+    tg: таҳсилот
+    th: การเรียน
+    tl: pagkatuto
+    tr: öğrenme
+    tt: белем алу
+    tt-cyrl: белем алу
+    uk: навчення
+    ur: تعلم
+    uz: oʻrganish
+    vec: aprendimento
+    vi: học
+    vls: Lêerproces
+    wa: aprindaedje
+    war: pagbaro
+    wuu: 学习
+    yi: לערנען
+    yue: 學習
+    za: hagsib
+    zh: 学习
+    zh-cn: 学习
+    zh-hans: 学习
+    zh-hant: 學習
+    zh-hk: 學習
+    zh-sg: 学习
+    zh-tw: 學習
+    zu: ukufunda
 ---
-
 # [[Learning]] 
 
 #is_/same_as :: [[WD~Learning,133500]] 

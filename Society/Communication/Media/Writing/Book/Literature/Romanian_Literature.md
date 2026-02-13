@@ -1,18 +1,95 @@
 ---
 aliases:
+- Errumanierazko literatura
+- Leteratur romanian
+- letteratura rumena
+- literatura da Romênia
+- literatura de Rumania
+- literatura romanesa
+- literatura română
+- literatura rumuńska
+- Litterae Romaniae
+- littérature roumaine
+- lliteratura de Rumanía
+- Romanian kirjallisuus
+- Romanian literature
+- Romanias litteratur
+- romunska književnost
+- román irodalom
+- rumanlingva literaturo
+- Rumeenia kirjandus
+- Rumunijos literatūra
+- Rumunjska književnost
+- Rumunská literatura
+- rumänische Literatur
+- rumänsk litteratur
+- Sastra Rumania
+- Румунска књижевност
+- Румунська література
+- румын әдәбияты
+- Румын әҙәбиәте
+- румынская літаратура
+- румынская литература
+- Ռումինական գրականություն
+- ספרות רומנית
+- أدب روماني
+- रुमानियन साहित्य
+- ルーマニア文学
+- 羅馬尼亞文學
+- 羅馬尼亞文文學
+- 루마니아 문학
 has_id_wikidata: Q2077256
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-studied_by: "[[_Standards/WikiData/WD~Romanian_studies,2175941]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+studied_by: '[[_Standards/WikiData/WD~Romanian_studies,2175941]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"
-Dewey_Decimal_Classification: "850"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
+Dewey_Decimal_Classification: 850
 Commons_category: Literature of Romania
+dv_has_:
+  name_:
+    ar: أدب روماني
+    ast: lliteratura de Rumanía
+    ba: Румын әҙәбиәте
+    be-tarask: румынская літаратура
+    ca: literatura romanesa
+    cs: Rumunská literatura
+    de: rumänische Literatur
+    en: Romanian literature
+    eo: rumanlingva literaturo
+    es: literatura de Rumania
+    et: Rumeenia kirjandus
+    eu: Errumanierazko literatura
+    fi: Romanian kirjallisuus
+    fr: littérature roumaine
+    gom: रुमानियन साहित्य
+    he: ספרות רומנית
+    hr: Rumunjska književnost
+    hu: román irodalom
+    hy: Ռումինական գրականություն
+    id: Sastra Rumania
+    it: letteratura rumena
+    ja: ルーマニア文学
+    ko: 루마니아 문학
+    la: Litterae Romaniae
+    lfn: Leteratur romanian
+    lt: Rumunijos literatūra
+    nb: Romanias litteratur
+    pl: literatura rumuńska
+    pt: literatura da Romênia
+    ro: literatura română
+    ru: румынская литература
+    sl: romunska književnost
+    sr: Румунска књижевност
+    sv: rumänsk litteratur
+    tt: румын әдәбияты
+    uk: Румунська література
+    yue: 羅馬尼亞文文學
+    zh: 羅馬尼亞文學
 ---
-
 # [[Romanian_Literature]] 
 
 #is_/same_as :: [[WD~Romanian_literature,2077256]] 

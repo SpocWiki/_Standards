@@ -1,9 +1,90 @@
 ---
 aliases:
-  - Charge conservation
-  - Conservation of Charge
-  - Conservation_of_Charge
+- Charge conservation
+- conservació de la càrrega
+- conservación de la carga eléctrica
+- conservarea sarcinii electrice
+- conservation de la charge électrique
+- Conservation of Charge
+- Conservation_of_Charge
+- conservação de carga
+- elektrilaengu jäävuse seadus
+- Elektriskā lādiņa nezūdamības likums
+- konservado de elektra ŝargo
+- konservimi i ngarkesës elektrike
+- Krūvio tvermės dėsnis
+- Ladungserhaltung
+- legge di conservazione della carica elettrica
+- ohranitev naboja
+- Prinsipi ëd conservassion ëd l'eletricità
+- wet van behoud van lading
+- yük korunumu
+- Zasada zachowania ładunku
+- zákon zachovania náboja
+- Αρχή διατήρησης του ηλεκτρικού φορτίου
+- Закон захавання электрычнага зараду
+- Закон захаваньня электрычнага зараду
+- закон збереження електричного заряду
+- закон сохранения заряда
+- Зарядтың сақталу заңы
+- электрик коргы саклану кануны
+- Электро каплам сыхланнин саккунĕ
+- Լիցքի պահպանման օրենք
+- חוק שימור המטען החשמלי
+- قانون بقاء الشحنة
+- پایستگی بار
+- आवेश संरक्षण
+- ਚਾਰਜ ਕੰਜ਼੍ਰਵੇਸ਼ਨ
+- მუხტის შენახვის კანონი
+- 电荷守恒定律
+- 電荷保存則
+- 電荷守恆定律
+- 전하량 보존 법칙
 has_id_wikidata: Q304054
+dv_has_:
+  name_:
+    ar: قانون بقاء الشحنة
+    be: Закон захавання электрычнага зараду
+    be-tarask: Закон захаваньня электрычнага зараду
+    ca: conservació de la càrrega
+    cv: Электро каплам сыхланнин саккунĕ
+    de: Ladungserhaltung
+    el: Αρχή διατήρησης του ηλεκτρικού φορτίου
+    en: charge conservation
+    en-ca: charge conservation
+    en-gb: charge conservation
+    eo: konservado de elektra ŝargo
+    es: conservación de la carga eléctrica
+    et: elektrilaengu jäävuse seadus
+    fa: پایستگی بار
+    fr: conservation de la charge électrique
+    he: חוק שימור המטען החשמלי
+    hi: आवेश संरक्षण
+    hy: Լիցքի պահպանման օրենք
+    it: legge di conservazione della carica elettrica
+    ja: 電荷保存則
+    ka: მუხტის შენახვის კანონი
+    kk: Зарядтың сақталу заңы
+    ko: 전하량 보존 법칙
+    lt: Krūvio tvermės dėsnis
+    lv: Elektriskā lādiņa nezūdamības likums
+    nl: wet van behoud van lading
+    pa: ਚਾਰਜ ਕੰਜ਼੍ਰਵੇਸ਼ਨ
+    pl: Zasada zachowania ładunku
+    pms: Prinsipi ëd conservassion ëd l'eletricità
+    pt: conservação de carga
+    pt-br: conservação de carga
+    ro: conservarea sarcinii electrice
+    ru: закон сохранения заряда
+    sk: zákon zachovania náboja
+    sl: ohranitev naboja
+    sq: konservimi i ngarkesës elektrike
+    tr: yük korunumu
+    tt: электрик коргы саклану кануны
+    uk: закон збереження електричного заряду
+    yue: 電荷守恆定律
+    zh: 电荷守恒定律
+    zh-hant: 電荷守恆定律
 ---
 # [[Conservation_of_Charge]] 
 

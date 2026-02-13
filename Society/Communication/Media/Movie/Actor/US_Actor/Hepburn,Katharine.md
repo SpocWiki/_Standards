@@ -1,43 +1,74 @@
 ---
 aliases:
-  - Katharine_Hepburn
-  - Katharine Houghton Hepburn
-  - Katharine Hepburn
-  - Hepburn
-  - Hepburn,Katharine
+- Catharina Hepburn
+- Hepburn
+- Hepburn,Katharine
+- Katharine Hepburn
+- Katharine Hepburnová
+- Katharine Houghton Hepburn
+- Katharine_Hepburn
+- Ketrin Hepbern
+- Ketrin Hepbörn
+- Ketrina Hepbērna
+- Κάθριν Χέπμπορν
+- Катарин Ҳепбурн
+- Катрин Хепбърн
+- Кетрін Гепберн
+- Кетрин Хепберн
+- Кэтрин Хепбёрн
+- Кэтрын Гэпбэрн
+- Кэтрын Хепбёрн
+- Քեթրին Հեփբորն
+- קתרין הפבורן
+- كاثرين هيبورن
+- کاترین هپبورن
+- کاترین ھیپبورن
+- کیتھرین ہیپبرن
+- कॅथरीन हेपबर्न
+- ক্যাথরিন হেপবার্ন
+- ਕੈਥਰੀਨ ਹੇਪਬਰਨ
+- கத்தரீன் ஹெப்பர்ன்
+- കാതറീൻ ഹെപ്ബേൺ
+- แคทารีน เฮปเบิร์น
+- კათრინ ჰეპბერნი
+- ქეთრინ ჰეპბერნი
+- キャサリン・ヘプバーン
+- 凯瑟琳·赫本
+- 嘉芙蓮協賓
+- 캐서린 헵번
 has_id_wikidata: Q56016
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Spencer_Tracy,71275]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Spencer_Tracy,71275]]'
-  - '[[_Standards/WikiData/WD~Howard_Hughes,189081]]'
+- '[[_Standards/WikiData/WD~Spencer_Tracy,71275]]'
+- '[[_Standards/WikiData/WD~Howard_Hughes,189081]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Musical,1537996]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Musical,1537996]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
-  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actress,840286]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
-  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
-  - "[[_Standards/WikiData/WD~Connecticut_Women's_Hall_of_Fame,5161648]]"
-  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~CFDA_Lifetime_Achievement_Award,67949672]]'
-  - "[[_Standards/WikiData/WD~Ladies'_Home_Journal_Women_of_the_Year,121834720]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+- '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actress,840286]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+- '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
+- "[[_Standards/WikiData/WD~Connecticut_Women's_Hall_of_Fame,5161648]]"
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~CFDA_Lifetime_Achievement_Award,67949672]]'
+- "[[_Standards/WikiData/WD~Ladies'_Home_Journal_Women_of_the_Year,121834720]]"
 hair_color: '[[_Standards/WikiData/WD~red_hair,152357]]'
 cause_of_death: '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
 relative: '[[_Standards/WikiData/WD~Katharine_Houghton,273727]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Bryn_Mawr_College,995265]]'
-  - '[[_Standards/WikiData/WD~Kingswood_Oxford_School,6413758]]'
+- '[[_Standards/WikiData/WD~Bryn_Mawr_College,995265]]'
+- '[[_Standards/WikiData/WD~Kingswood_Oxford_School,6413758]]'
 place_of_death: '[[_Standards/WikiData/WD~Old_Saybrook,1020609]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 member_of: '[[_Standards/WikiData/WD~Committee_for_the_First_Amendment,2271359]]'
 filmography: '[[_Standards/WikiData/WD~Katharine_Hepburn_film_and_theatre_credits,3513552]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -47,11 +78,11 @@ mother: '[[_Standards/WikiData/WD~Katharine_Martha_Houghton_Hepburn,6376213]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_for_the_Performing_Arts,7013890]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q10313989,10313989]]'
-  - '[[_Standards/WikiData/WD~Houghton,29555679]]'
+- '[[_Standards/WikiData/WD~Q10313989,10313989]]'
+- '[[_Standards/WikiData/WD~Houghton,29555679]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 family_name: '[[_Standards/WikiData/WD~Hepburn,16842504]]'
 father: '[[_Standards/WikiData/WD~Thomas_Norval_Hepburn,20972176]]'
 spouse: '[[_Standards/WikiData/WD~Ludlow_Ogden_Smith,22326909]]'
@@ -61,8 +92,8 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 part_of: '[[_Standards/WikiData/WD~Katharine_Hepburn_and_Spencer_Tracy,96217084]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 sport:
-  - '[[_Standards/WikiData/WD~tennis,847]]'
-  - '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
+- '[[_Standards/WikiData/WD~tennis,847]]'
+- '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -89,8 +120,120 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Katharine%20Hepbur
 ISNI: 0000000122773571
 U_S_National_Archives_Identifier: 10580735
 Plex_person_key: 5d7768263c3c2a001fbcafb0
+dv_has_:
+  name_:
+    af: Katharine Hepburn
+    an: Katharine Hepburn
+    ar: كاثرين هيبورن
+    arz: كاثرين هيبورن
+    ast: Katharine Hepburn
+    ay: Katharine Hepburn
+    az: Ketrin Hepbern
+    azb: کاترین هپبورن
+    ba: Кэтрин Хепбёрн
+    bar: Katharine Hepburn
+    be: Кэтрын Хепбёрн
+    be-tarask: Кэтрын Гэпбэрн
+    bg: Катрин Хепбърн
+    bi: Katharine Hepburn
+    bn: ক্যাথরিন হেপবার্ন
+    bs: Katharine Hepburn
+    ca: Katharine Hepburn
+    ckb: کاترین ھیپبورن
+    cs: Katharine Hepburnová
+    cy: Katharine Hepburn
+    da: Katharine Hepburn
+    de: Katharine Hepburn
+    de-ch: Katharine Hepburn
+    diq: Katharine Hepburn
+    el: Κάθριν Χέπμπορν
+    en: Katharine Hepburn
+    en-ca: Katharine Hepburn
+    en-gb: Katharine Hepburn
+    eo: Katharine Hepburn
+    es: Katharine Hepburn
+    et: Katharine Hepburn
+    eu: Katharine Hepburn
+    fa: کاترین هپبورن
+    fi: Katharine Hepburn
+    fr: Katharine Hepburn
+    fy: Katharine Hepburn
+    ga: Katharine Hepburn
+    gd: Katharine Hepburn
+    gl: Katharine Hepburn
+    gpe: Katharine Hepburn
+    ha: Katharine Hepburn
+    he: קתרין הפבורן
+    hif: Katharine Hepburn
+    hr: Katharine Hepburn
+    ht: Katharine Hepburn
+    hu: Katharine Hepburn
+    hy: Քեթրին Հեփբորն
+    id: Katharine Hepburn
+    ie: Katharine Hepburn
+    ig: Katharine Hepburn
+    ilo: Katharine Hepburn
+    io: Katharine Hepburn
+    is: Katharine Hepburn
+    it: Katharine Hepburn
+    ja: キャサリン・ヘプバーン
+    ka: ქეთრინ ჰეპბერნი
+    kk: Кэтрин Хепбёрн
+    ko: 캐서린 헵번
+    kw: Katharine Hepburn
+    la: Catharina Hepburn
+    lb: Katharine Hepburn
+    lrc: کاترین ھیپبورن
+    lt: Katharine Hepburn
+    lv: Ketrina Hepbērna
+    mg: Katharine Hepburn
+    mk: Кетрин Хепберн
+    ml: കാതറീൻ ഹെപ്ബേൺ
+    mn: Кэтрин Хепбёрн
+    mr: कॅथरीन हेपबर्न
+    ms: Katharine Hepburn
+    mul: Katharine Hepburn
+    nan: Katharine Hepburn
+    nb: Katharine Hepburn
+    nl: Katharine Hepburn
+    nn: Katharine Hepburn
+    oc: Katharine Hepburn
+    pa: ਕੈਥਰੀਨ ਹੇਪਬਰਨ
+    pam: Katharine Hepburn
+    pap: Katharine Hepburn
+    pl: Katharine Hepburn
+    pt: Katharine Hepburn
+    pt-br: Katharine Hepburn
+    qu: Katharine Hepburn
+    ro: Katharine Hepburn
+    ru: Кэтрин Хепбёрн
+    sco: Katharine Hepburn
+    sh: Katharine Hepburn
+    sk: Katharine Hepburnová
+    sl: Katharine Hepburn
+    smn: Katharine Hepburn
+    sq: Katharine Hepburn
+    sr: Кетрин Хепберн
+    sr-ec: Кетрин Хепберн
+    sv: Katharine Hepburn
+    sw: Katharine Hepburn
+    ta: கத்தரீன் ஹெப்பர்ன்
+    tg: Катарин Ҳепбурн
+    th: แคทารีน เฮปเบิร์น
+    tl: Katharine Hepburn
+    tr: Katharine Hepburn
+    tt: Ketrin Hepbörn
+    uk: Кетрін Гепберн
+    ur: کیتھرین ہیپبرن
+    uz: Katharine Hepburn
+    vi: Katharine Hepburn
+    war: Katharine Hepburn
+    wuu: 凯瑟琳·赫本
+    xmf: კათრინ ჰეპბერნი
+    yo: Katharine Hepburn
+    yue: 嘉芙蓮協賓
+    zh: 凯瑟琳·赫本
 ---
-
 # [[Hepburn,Katharine]] 
 
 #is_/same_as :: [[WD~Katharine_Hepburn,56016]] 

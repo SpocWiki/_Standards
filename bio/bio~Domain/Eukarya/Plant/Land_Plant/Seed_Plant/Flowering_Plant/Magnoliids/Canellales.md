@@ -1,8 +1,84 @@
 ---
 aliases:
-  - Canellales
+- Bộ Bạch quế bì
+- Canella-ordenen
+- Canellales
+- Canel·lals
+- Kanelaaloj
+- Kanellowce
+- kanelotvaré
+- Κανελλώδη
+- Канеллоцветные
+- канелоцветни
+- Канэлакветныя
+- קנלאים
+- كانلال
+- مگنولیان کانلال
+- カネラ目
+- 白樟目
+- 카넬라목
 title: Canellales
 has_id_wikidata: Q21023
+dv_has_:
+  name_:
+    an: Canellales
+    ar: كانلال
+    arz: كانلال
+    ast: Canellales
+    az: Canellales
+    be-tarask: Канэлакветныя
+    bg: канелоцветни
+    bs: Canellales
+    ca: Canel·lals
+    ceb: Canellales
+    cs: kanelotvaré
+    da: Canella-ordenen
+    de: Canellales
+    el: Κανελλώδη
+    en: Canellales
+    en-ca: Canellales
+    en-gb: Canellales
+    eo: Kanelaaloj
+    es: Canellales
+    eu: Canellales
+    ext: Canellales
+    fa: مگنولیان کانلال
+    fi: Canellales
+    fr: Canellales
+    frr: Canellales
+    ga: Canellales
+    gl: Canellales
+    he: קנלאים
+    hr: Canellales
+    hu: Canellales
+    ia: Canellales
+    id: Canellales
+    ie: Canellales
+    ilo: Canellales
+    io: Canellales
+    it: Canellales
+    ja: カネラ目
+    ko: 카넬라목
+    ku: Canellales
+    la: Canellales
+    mul: Canellales
+    nb: Canellales
+    nl: Canellales
+    oc: Canellales
+    pl: Kanellowce
+    pt: Canellales
+    pt-br: Canellales
+    ro: Canellales
+    ru: Канеллоцветные
+    sl: Canellales
+    sq: Canellales
+    sr: Canellales
+    sv: Canellales
+    uk: Canellales
+    vi: Bộ Bạch quế bì
+    vo: Canellales
+    war: Canellales
+    zh: 白樟目
 ---
 ## Phylogeny 
 

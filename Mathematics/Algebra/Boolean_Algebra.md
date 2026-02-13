@@ -1,13 +1,73 @@
 ---
 aliases:
-  - Boolean algebra
-  - Boolean_Algebra
-  - Boolean Algebra
+- ailgéabar Boole
+- algebra Boole'a
+- Algebra Booleana
+- algebra di Boole
+- algebră booleană
+- algèbre de Boole
+- Alhebrang Boolean
+- Aljabar Boolean
+- Boole cebiri
+- Boole'i algebra
+- Boole-algebra
+- booleaanse algebra
+- Boolean algebra
+- Boolean Logic
+- Booleana algebro
+- Boolean_Algebra
+- Boolen algebra
+- Booleova algebra
+- Booleren aljebra
+- boolesche Algebra
+- boolesk algebra
+- Boolova algebra
+- Boolowo algebra
+- Boolse algebra
+- Boolsk algebra
+- Bul cəbri
+- Bulea algebro
+- Bulova algebra
+- Būla algebra
+- Būlio algebra
+- Lógica boleana
+- Mantiqê Bûlî
+- Àlgebra de Boole
+- Àlgebra ëd Boole
+- álgebra booliana
+- álgebra de Boole
+- Álxebra de Boole
+- đại số Boole
+- Άλγεβρα Μπουλ
+- Айтылыштар алгебрасы
+- алгебра логики
+- Алгебраи мантиқ
+- булева алгебра
+- булева альгебра
+- Булова алгебра
+- Каларăшсен алгебри
+- Логика алгебраһы
+- Բուլյան հանրահաշիվ
+- אלגברה בוליאנית
+- بول جبری
+- جبر بول
+- جبر بولی
+- बूलीय बीजगणित
+- বুলিয়ান বীজগণিত
+- பூலிய இயற்கணிதம்
+- ಗಣನಶಾಸ್ತ್ರ
+- พีชคณิตแบบบูล
+- ブール代数学
+- 布尔逻辑
+- 布林邏輯
+- 逻辑代数
+- 邏輯代數
+- 불 논리
 has_id_wikidata: Q173183
 named_after: '[[_Standards/WikiData/WD~George_Boole,134661]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~Boolean_function,942353]]'
-  - '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
+- '[[_Standards/WikiData/WD~Boolean_function,942353]]'
+- '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
 instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 different_from: '[[_Standards/WikiData/WD~Boolean_algebra,4973304]]'
 subclass_of: '[[_Standards/WikiData/WD~algebra,3968]]'
@@ -17,8 +77,87 @@ P8189: 987007293933005171
 Commons_category: Boolean algebra
 Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA_VISKAZIVANI.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LogicGates.svg
+dv_has_:
+  name_:
+    af: Boolse algebra
+    ar: جبر بول
+    ast: Álxebra de Boole
+    az: Bul cəbri
+    azb: بول جبری
+    ba: Логика алгебраһы
+    be: булева алгебра
+    be-tarask: булева альгебра
+    bg: Булева алгебра
+    bn: বুলিয়ান বীজগণিত
+    bs: Booleova algebra
+    ca: Àlgebra de Boole
+    cs: Booleova algebra
+    cv: Каларăшсен алгебри
+    da: Boolsk algebra
+    de: boolesche Algebra
+    de-ch: Boolesche Algebra
+    el: Άλγεβρα Μπουλ
+    en: Boolean algebra
+    en-ca: Boolean algebra
+    en-gb: Boolean algebra
+    eo: Bulea algebro
+    es: álgebra de Boole
+    et: Boole'i algebra
+    eu: Booleren aljebra
+    fa: جبر بولی
+    fi: Boolen algebra
+    fr: algèbre de Boole
+    ga: ailgéabar Boole
+    gl: Álxebra de Boole
+    he: אלגברה בוליאנית
+    hi: बूलीय बीजगणित
+    hr: Booleova algebra
+    hu: Boole-algebra
+    hy: Բուլյան հանրահաշիվ
+    id: Aljabar Boolean
+    io: Booleana algebro
+    it: algebra di Boole
+    ja: ブール代数学
+    ki: Boolean Logic
+    kn: ಗಣನಶಾಸ್ತ್ರ
+    ko: 불 논리
+    ku: Mantiqê Bûlî
+    ky: Айтылыштар алгебрасы
+    la: Algebra Booleana
+    lt: Būlio algebra
+    lv: Būla algebra
+    mk: Булова алгебра
+    mwl: Lógica boleana
+    my: Boolean algebra
+    nb: boolsk algebra
+    nl: booleaanse algebra
+    nn: boolsk algebra
+    pl: algebra Boole'a
+    pms: Àlgebra ëd Boole
+    pt: álgebra booliana
+    pt-br: álgebra booliana
+    ro: algebră booleană
+    ru: алгебра логики
+    sh: Bulova algebra
+    sk: Boolova algebra
+    sl: Boolova algebra
+    sr: Булова алгебра
+    sv: boolesk algebra
+    szl: Boolowo algebra
+    ta: பூலிய இயற்கணிதம்
+    tg: Алгебраи мантиқ
+    th: พีชคณิตแบบบูล
+    tl: Alhebrang Boolean
+    tr: Boole cebiri
+    uk: булева алгебра
+    vi: đại số Boole
+    wuu: 逻辑代数
+    yue: 邏輯代數
+    zh: 逻辑代数
+    zh-cn: 布尔逻辑
+    zh-hans: 逻辑代数
+    zh-hant: 布林邏輯
 ---
-
 # [[Boolean_Algebra]] 
 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Boolean_algebra,173183|WD~Boolean_algebra,173183]] 

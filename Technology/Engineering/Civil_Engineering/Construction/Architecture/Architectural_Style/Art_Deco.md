@@ -1,36 +1,65 @@
 ---
 aliases:
-  - style moderne
-  - style contemporain
-  - Art_Deco
-  - Art Deco
+- Ar-deko
+- Art Deco
+- Art Decó
+- art deko
+- art déco
+- artdekora stilo
+- Arte deco
+- Art_Deco
+- style contemporain
+- style moderne
+- Αρ Ντεκό
+- Ар деко
+- ар-деко
+- ар-дэко
+- Арт деко
+- ҳунари деку
+- ար-դեկո
+- אר דקו
+- آرت ديكو
+- آرت دکو
+- آرٹ ڈیکو
+- ئارت دیکۆ
+- ارت ديكو
+- আর দেকো
+- எழில்படுக் கலை
+- อลังการศิลป์
+- არტ-დეკო
+- アール・デコ
+- 装饰风艺术
+- 裝飾藝術風格
+- 裝飾風藝術
+- 飾藝風
+- 아르데코
 has_id_wikidata: Q173782
 influenced_by:
-  - '[[_Standards/WikiData/WD~Futurism,131221]]'
-  - '[[_Standards/WikiData/WD~Georges_Braque,153793]]'
-  - '[[_Standards/WikiData/WD~Constructivism,207103]]'
-  - '[[_Standards/WikiData/WD~modern_architecture,245188]]'
-  - '[[_Standards/WikiData/WD~Eugène_Grasset,524154]]'
-  - '[[_Standards/WikiData/WD~Société_des_artistes_décorateurs,16675384]]'
-  - '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
-  - '[[_Standards/WikiData/WD~Cubism,42934]]'
-  - '[[_Standards/WikiData/WD~functionalism,47942]]'
+- '[[_Standards/WikiData/WD~Futurism,131221]]'
+- '[[_Standards/WikiData/WD~Georges_Braque,153793]]'
+- '[[_Standards/WikiData/WD~Constructivism,207103]]'
+- '[[_Standards/WikiData/WD~modern_architecture,245188]]'
+- '[[_Standards/WikiData/WD~Eugène_Grasset,524154]]'
+- '[[_Standards/WikiData/WD~Société_des_artistes_décorateurs,16675384]]'
+- '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
+- '[[_Standards/WikiData/WD~Cubism,42934]]'
+- '[[_Standards/WikiData/WD~functionalism,47942]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Georges_Braque,153793]]'
-  - '[[_Standards/WikiData/WD~Cassandre,278945]]'
-  - '[[_Standards/WikiData/WD~Eugène_Grasset,524154]]'
-  - '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
+- '[[_Standards/WikiData/WD~Georges_Braque,153793]]'
+- '[[_Standards/WikiData/WD~Cassandre,278945]]'
+- '[[_Standards/WikiData/WD~Eugène_Grasset,524154]]'
+- '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~interior_design,179232]]'
-  - '[[_Standards/WikiData/WD~applied_arts,207241]]'
-  - '[[_Standards/WikiData/WD~industrial_design,243606]]'
-  - '[[_Standards/WikiData/WD~graphic_arts,911059]]'
-  - '[[_Standards/WikiData/WD~architecture,12271]]'
-  - '[[_Standards/WikiData/WD~fashion,12684]]'
+- '[[_Standards/WikiData/WD~interior_design,179232]]'
+- '[[_Standards/WikiData/WD~applied_arts,207241]]'
+- '[[_Standards/WikiData/WD~industrial_design,243606]]'
+- '[[_Standards/WikiData/WD~graphic_arts,911059]]'
+- '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~fashion,12684]]'
 subclass_of: '[[_Standards/WikiData/WD~decorative_art,631931]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
 has_characteristic: '[[_Standards/WikiData/WD~Art_Deco_stamp,4375417]]'
 described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]'
 different_from: '[[_Standards/WikiData/WD~style_1925,65581423]]'
@@ -46,10 +75,101 @@ subreddit: ArtDeco
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/AR_DEKO.html
 native_label: Art déco
 inception:
-  - 1925-01-01T00:00:00Z
-  - 1910-01-01T00:00:00Z
+- 1925-01-01T00:00:00Z
+- 1910-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Art Deco
+    ar: آرت ديكو
+    arz: ارت ديكو
+    ast: Art Decó
+    az: Ar-deko
+    be: ар-дэко
+    be-tarask: ар-дэко
+    bg: Ар деко
+    bn: আর দেকো
+    bs: Art Deco
+    ca: art déco
+    ckb: ئارت دیکۆ
+    cs: art deco
+    cy: Art Deco
+    da: Art deco
+    de: Art déco
+    de-ch: Art déco
+    el: Αρ Ντεκό
+    en: Art Deco
+    en-ca: Art Deco
+    en-gb: Art Deco
+    eo: artdekora stilo
+    es: art déco
+    et: Art déco
+    eu: Art Déco
+    ext: Art decó
+    fa: آرت دکو
+    fi: art deco
+    fr: Art déco
+    ga: Art Deco
+    gl: Art Déco
+    he: אר דקו
+    hr: Art déco
+    hu: art déco
+    hy: ար-դեկո
+    ia: Art deco
+    id: art deco
+    it: art déco
+    ja: アール・デコ
+    jv: Art Deco
+    ka: არტ-დეკო
+    kk: Арт деко
+    ko: 아르데코
+    ku: Art Deco
+    ku-latn: Art Deco
+    lb: Art Deco
+    lfn: Arte deco
+    li: Art deco
+    lt: Art Deco
+    lv: Art Deco
+    mk: арт деко
+    ml: Art Deco
+    ms: Art Deco
+    nan: Art déco
+    nb: art deco
+    nl: art deco
+    nn: art deco
+    nrm: Art Déco
+    pcd: Art déco
+    pl: art déco
+    pnb: آرٹ ڈیکو
+    pt: art déco
+    pt-br: art déco
+    ro: Art Déco
+    ru: ар-деко
+    sh: Art Deco
+    sk: art deco
+    sl: art déco
+    sr: арт деко
+    sr-ec: арт деко
+    sr-el: art deko
+    sv: art déco
+    ta: எழில்படுக் கலை
+    tg: ҳунари деку
+    th: อลังการศิลป์
+    tl: Art Deco
+    tr: Art Deco
+    tt: ар-деко
+    uk: ар деко
+    vi: Art Deco
+    wuu: 装饰风艺术
+    yue: 飾藝風
+    zea: Art Deco
+    zh: 装饰风艺术
+    zh-cn: 装饰风艺术
+    zh-hans: 装饰风艺术
+    zh-hant: 裝飾風藝術
+    zh-hk: 裝飾藝術風格
+    zh-sg: 装饰风艺术
+    zh-tw: 裝飾風藝術
 ---
-
 # [[Art_Deco]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Art_Deco,173782|WD~Art_Deco,173782]]

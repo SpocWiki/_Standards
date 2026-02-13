@@ -1,32 +1,166 @@
 ---
 aliases:
+- Antlia calorica
+- bero-ponpa
+- bomba de calor
+- heat pump
+- hőszivattyú
+- Issiqlik nasosi
+- Isı pompası
+- Jılw ürlegişi
+- lämpöpumppu
+- Máy bơm nhiệt
+- pompa ciepła
+- Pompa de calor
+- pompa di calore
+- Pompa kalor
+- pompe à chaleur
+- pompă de căldură
+- Ponp chalè
+- Siltumsūknis
+- Soojuspump
+- tepelné čerpadlo
+- Termopumpa
+- Toplinske pumpe
+- Toplotna pumpa
+- toplotna črpalka
+- Varmadæla
+- varmepumpe
+- varmopumpilo
+- värmepump
+- warmtepomp
+- Wärmepumpe
+- Wärmepumpn
+- Αντλία θερμότητας
+- Дулааны насос
+- Жылу үрлегіші
+- тепловий насос
+- Тепловой насос
+- Топлинна помпа
+- Топлински пумпи
+- топлотна пумпа
+- цёплавая помпа
+- Ջերմային պոմպ
+- היץ פאמפע
+- משאבת חום
+- جىلۋ ۇرلەگىشى
+- حرارتی پمپ
+- مضخة حرارية
+- پمپ حرارتی
+- پەمپی گەرمی
+- ऊष्मा पम्प
+- हिट पम्प
+- তাপ পাম্প
+- வெப்ப இறைப்பி
+- ปั๊มความร้อน
+- ヒートポンプ
+- 热泵
+- 熱泵
+- 열뽐프
+- 열펌프
 has_id_wikidata: Q131313
-subclass_of: "[[_Standards/WikiData/WD~heat_engine,178185]]"
+subclass_of: '[[_Standards/WikiData/WD~heat_engine,178185]]'
 uses:
-  - "[[_Standards/WikiData/WD~refrigeration,747713]]"
-  - "[[_Standards/WikiData/WD~cooling,3929317]]"
-  - "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-  - "[[_Standards/WikiData/WD~heat,44432]]"
+- '[[_Standards/WikiData/WD~refrigeration,747713]]'
+- '[[_Standards/WikiData/WD~cooling,3929317]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Project_Drawdown,27218199]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-Nomenclature_for_Museum_Cataloging: "212"
-OmegaWiki_Defined_Meaning: "1752"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Project_Drawdown,27218199]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+Nomenclature_for_Museum_Cataloging: 212
+OmegaWiki_Defined_Meaning: 1752
 Library_of_Congress_Classification: TJ262
 described_at_URL: https://www.dw.com/en/heat-pumps-what-are-they-and-how-do-they-work/a-62852353
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Outunit%20of%20heat%20pump.jpg
 Commons_category: Heat pumps
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-W%C3%A4rmepumpe.ogg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/W%C3%A4rmepumpe%2020230707%20005.stl
-P2167: "40101806"
+P2167: 40101806
 Dewey_Decimal_Classification:
-  - "621.4025"
-  - "621.563"
-  - "697.7"
+- 621.4025
+- 621.563
+- 697.7
 subreddit: heatpumps
+dv_has_:
+  name_:
+    ar: مضخة حرارية
+    bar: Wärmepumpn
+    be-tarask: цёплавая помпа
+    bg: Топлинна помпа
+    bn: তাপ পাম্প
+    bs: Toplotna pumpa
+    ca: bomba de calor
+    ckb: پەمپی گەرمی
+    cs: tepelné čerpadlo
+    da: varmepumpe
+    de: Wärmepumpe
+    el: Αντλία θερμότητας
+    en: heat pump
+    eo: varmopumpilo
+    es: bomba de calor
+    et: Soojuspump
+    eu: bero-ponpa
+    fa: پمپ حرارتی
+    fi: lämpöpumppu
+    fr: pompe à chaleur
+    he: משאבת חום
+    hi: ऊष्मा पम्प
+    hr: Toplinske pumpe
+    ht: Ponp chalè
+    hu: hőszivattyú
+    hy: Ջերմային պոմպ
+    id: Pompa kalor
+    is: Varmadæla
+    it: pompa di calore
+    ja: ヒートポンプ
+    kk: Жылу үрлегіші
+    kk-arab: جىلۋ ۇرلەگىشى
+    kk-cn: جىلۋ ۇرلەگىشى
+    kk-cyrl: Жылу үрлегіші
+    kk-kz: Жылу үрлегіші
+    kk-latn: Jılw ürlegişi
+    kk-tr: Jılw ürlegişi
+    ko: 열펌프
+    ko-kp: 열뽐프
+    la: Antlia calorica
+    lmo: Pompa de calor
+    lv: Siltumsūknis
+    mk: Топлински пумпи
+    mn: Дулааны насос
+    nb: varmepumpe
+    ne: हिट पम्प
+    nl: warmtepomp
+    nn: varmepumpe
+    pl: pompa ciepła
+    pt: bomba de calor
+    ro: pompă de căldură
+    ru: Тепловой насос
+    sh: Termopumpa
+    sk: Tepelné čerpadlo
+    sl: toplotna črpalka
+    sr: топлотна пумпа
+    sr-ec: Топлотна пумпа
+    sr-el: Toplotna pumpa
+    sv: värmepump
+    ta: வெப்ப இறைப்பி
+    th: ปั๊มความร้อน
+    tr: Isı pompası
+    uk: тепловий насос
+    ur: حرارتی پمپ
+    uz: Issiqlik nasosi
+    vi: Máy bơm nhiệt
+    yi: היץ פאמפע
+    yue: 熱泵
+    zh: 熱泵
+    zh-cn: 热泵
+    zh-hans: 热泵
+    zh-hant: 熱泵
+    zh-hk: 熱泵
+    zh-sg: 热泵
+    zh-tw: 熱泵
 ---
-
 # [[Heat_Pump]] 
 
 #is_/same_as :: [[WD~Heat_Pump,131313]]

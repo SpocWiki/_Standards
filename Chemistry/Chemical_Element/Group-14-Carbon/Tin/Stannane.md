@@ -1,24 +1,77 @@
 ---
 dv_is_:
-  similar_to: "[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]"
+  similar_to: '[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]'
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]"
-dv_is_similar_to: "[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]'
+dv_is_similar_to: '[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]'
 has_id_wikidata: Q417040
+dv_has_:
+  name_:
+    ar: ستانان
+    azb: استانان
+    ca: estanà
+    cs: Stannan
+    de: Stannan
+    el: Κασσιτεράνιο
+    en: stannane
+    es: Estannano
+    fa: استانان
+    fi: stannaani
+    fr: Stannane
+    hu: sztannán
+    id: stanana
+    ja: スタンナン
+    nl: Stannaan
+    pl: cynowodór
+    ru: станнан
+    sh: Stanan
+    sr: Stanan
+    sr-ec: Станан
+    sr-el: Stanan
+    ta: வெள்ளீயம் ஐதரைடு
+    uk: Станан
+    vi: Stannan
+    zh: 甲锡烷
+    zh-cn: 甲锡烷
+    zh-hans: 甲锡烷
+    zh-hant: 甲錫烷
+    zh-hk: 甲錫烷
+    zh-sg: 甲锡烷
+    zh-tw: 甲錫烷
+aliases:
+- cynowodór
+- Estannano
+- estanà
+- Stanan
+- stanana
+- Stannaan
+- stannaani
+- Stannan
+- stannane
+- sztannán
+- Κασσιτεράνιο
+- Станан
+- станнан
+- استانان
+- ستانان
+- வெள்ளீயம் ஐதரைடு
+- スタンナン
+- 甲錫烷
+- 甲锡烷
 ---
 # [[Stannane]] 
 

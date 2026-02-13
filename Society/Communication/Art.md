@@ -1,95 +1,502 @@
 ---
 aliases:
-  - artistic
-  - Art
+- aart
+- Aartii
+- aat
+- airt
+- ars
+- Art
+- arte
+- arti
+- artistic
+- arto
+- artã
+- arté
+- artă
+- arz
+- at
+- buciko
+- cakacakaniliga
+- celf
+- dáidda
+- ealain
+- ealaín
+- ellyn
+- eqqumiitsuliorneq
+- ert
+- faatufugaga
+- fan
+- fasaha
+- fànn
+- gē-su̍t
+- huner
+- incəsənət
+- Inus
+- kanto
+- kapchiy
+- keunst
+- Konscht
+- konst
+- Kuns
+- Kunschd
+- kunst
+- kórkem-óner
+- kùńszt
+- kōnszt
+- la
+- lar
+- larcu
+- lekan
+- list
+- mba'eporã
+- menas
+- mens
+- māksla
+- mī-sŭk
+- művészet
+- nghệ thuật
+- ngi-su̍t
+- ntɔ́ki
+- pāheona
+- sanat
+- sanʼat
+- seni
+- sining
+- sztuka
+- sänğät
+- sənət
+- taaiđâ
+- taide
+- taẓuri
+- taẓuṛi
+- tōltēcayōtl
+- ubuciko
+- ubugcisa
+- umenie
+- umetnost
+- umjetnost
+- umění
+- usanii
+- useza
+- vuqambhi
+- wuměłstwo
+- yamba
+- yisuz
+- yäpa
+- ârt
+- årt
+- čeäppõs
+- čomamaht
+- ǹkà
+- ʻāti
+- τέχνη
+- аивад
+- гъуазджэ
+- гьунарлъи
+- дьоҕур
+- изкуство
+- исбаьхьалла
+- искусство
+- кееркемел
+- көркөм өнөр
+- мастацтва
+- мистецтво
+- санъат
+- сетеньсь
+- сымыктыш
+- сэтень
+- сәнгать
+- сәнғәт
+- уменя
+- уметност
+- уралиг
+- урлаг
+- устолык
+- өнер
+- ӳнер
+- արուեստ
+- արվեստ
+- אמנות
+- קונסט
+- آرٹ
+- اینجه صنعت
+- سني
+- فن
+- فَن
+- هنر
+- هونر
+- هۊنر
+- ھونەر
+- कला
+- কলা
+- কলা বারো কলাতত্ত্ব
+- শিল্পকলা
+- ਕਲਾ
+- કલા
+- கலை
+- కళ
+- ಕಲೆ
+- കല
+- කලාව
+- ศิลปะ
+- ສິລະປະກຳ
+- སྒྱུ་རྩལ
+- སྒྱུ་རྩལ།
+- ပါန်ကွတ်
+- အနုပညာ
+- အနုပညာႏ
+- ხელოვნება
+- ხელუანობა
+- ሥነ ጥበብ
+- ስነ ጥበብ
+- សិល្បៈ
+- ᱦᱩᱱᱟ.ᱨ
+- ọnà
+- ⵜⴰⵥⵓⵕⵉ
+- 艺术
+- 芸術
+- 藝術
+- 예술
 has_id_wikidata: Q735
 Commons_category: Umění
 Commons_gallery: Art
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 Dewey_Decimal_Classification: 700
 different_from:
-  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
-  - '[[_Standards/WikiData/WD~Sztuka,9352290]]'
-  - '[[_Standards/WikiData/WD~art,55336315]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~Sztuka,9352290]]'
+- '[[_Standards/WikiData/WD~art,55336315]]'
 GitHub_topic: art
 hashtag:
-  - Kunst
-  - artwork
-  - art
+- Kunst
+- artwork
+- art
 has_characteristic:
-  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~Classificatory_disputes_about_art,2976552]]'
-  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~Classificatory_disputes_about_art,2976552]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_art,50641]]'
 IAB_code: 248
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20336883%20ccAlexanderSkowalsky%20art.svg
 Iconclass_notation: 48
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20Ricci%20002.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~essentially_contested_concept,576639]]'
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~essentially_contested_concept,576639]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~topic,26256810]]'
 Krugosvet_article:
-  - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ISKUSSTVO.html
-  - zhivopis-i-grafika/iskusstvo
+- kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ISKUSSTVO.html
+- zhivopis-i-grafika/iskusstvo
 Library_of_Congress_Classification: N
 Mastodon_instance_URL:
-  - https://mastodon.art
-  - https://sunny.garden
+- https://mastodon.art
+- https://sunny.garden
 MeSH_tree_code: K01.093
 Nomenclature_for_Museum_Cataloging: 12894
 OmegaWiki_Defined_Meaning:
-  - 256
-  - 8514
+- 256
+- 8514
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 part_of:
-  - '[[_Standards/WikiData/WD~arts,2018526]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~arts,2018526]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828630,22828630]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~artist,483501]]'
-  - '[[_Standards/WikiData/WD~art_writer,88190618]]'
-  - '[[_Standards/WikiData/WD~fictional_artist,125938151]]'
+- '[[_Standards/WikiData/WD~artist,483501]]'
+- '[[_Standards/WikiData/WD~art_writer,88190618]]'
+- '[[_Standards/WikiData/WD~fictional_artist,125938151]]'
 product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~work_of_art,838948]]'
 properties_for_this_type:
-  - Commons category
-  - topic's main category
-  - country
+- Commons category
+- topic's main category
+- country
 Provenio_UUID: 1b91cb36-1d88-4688-831c-d08315879b27
 social_media_followers:
-  - 22520234
-  - 1093170
+- 22520234
+- 1093170
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Art.mp3
 Stack_Exchange_tag: https://stackoverflow.com/tags/art
 studied_in:
-  - '[[_Standards/WikiData/WD~humanities,80083]]'
-  - '[[_Standards/WikiData/WD~sociology_of_art,1792635]]'
-  - '[[_Standards/WikiData/WD~art,55336315]]'
-  - '[[_Standards/WikiData/WD~art_practice,62302889]]'
-  - '[[_Standards/WikiData/WD~art_history,50637]]'
+- '[[_Standards/WikiData/WD~humanities,80083]]'
+- '[[_Standards/WikiData/WD~sociology_of_art,1792635]]'
+- '[[_Standards/WikiData/WD~art,55336315]]'
+- '[[_Standards/WikiData/WD~art_practice,62302889]]'
+- '[[_Standards/WikiData/WD~art_history,50637]]'
 subclass_of: '[[_Standards/WikiData/WD~creative_work,17537576]]'
 subreddit:
-  - ArtPorn
-  - Art
+- ArtPorn
+- Art
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Authority_control_(arts),105654429]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arts,3918365]]'
 UMLS_CUI: C0003826
 Universal_Decimal_Classification: 7
 U_S_National_Archives_Identifier: 10637981
+dv_has_:
+  name_:
+    acm: فن
+    af: kuns
+    alt: кееркемел
+    am: ሥነ ጥበብ
+    an: arte
+    anp: कला
+    ar: فن
+    ary: فن
+    arz: فن
+    as: কলা
+    ast: arte
+    av: гьунарлъи
+    avk: yamba
+    ay: yäpa
+    az: incəsənət
+    azb: اینجه صنعت
+    ba: сәнғәт
+    ban: Seni
+    bar: Kunst
+    bcl: arte
+    be: мастацтва
+    be-tarask: мастацтва
+    bew: Seni
+    bg: изкуство
+    bho: कला
+    bi: at
+    blk: အနုပညာႏ
+    bn: শিল্পকলা
+    bo: སྒྱུ་རྩལ།
+    bpy: কলা বারো কলাতত্ত্ব
+    br: arz
+    bs: umjetnost
+    bxr: уралиг
+    ca: art
+    cdo: mī-sŭk
+    ce: исбаьхьалла
+    ceb: arte
+    ckb: ھونەر
+    co: arte
+    crh: sanat
+    cs: umění
+    csb: kùńszt
+    cv: ӳнер
+    cy: celf
+    da: kunst
+    de: Kunst
+    de-ch: Kunst
+    diq: huner
+    dtp: Inus
+    dz: སྒྱུ་རྩལ
+    el: τέχνη
+    en: art
+    en-ca: art
+    en-gb: art
+    eo: arto
+    es: arte
+    et: kunst
+    eu: arte
+    ext: arti
+    fa: هنر
+    fi: taide
+    fj: cakacakaniliga
+    fo: list
+    fr: art
+    frp: ârt
+    frr: Konst
+    fur: Art
+    fy: keunst
+    ga: ealaín
+    gan: 藝術
+    gcr: lar
+    gd: ealain
+    gl: arte
+    glk: هۊنر
+    gn: mba'eporã
+    gpe: art
+    gsw: Kunst
+    gu: કલા
+    gv: ellyn
+    ha: fasaha
+    hak: ngi-su̍t
+    haw: pāheona
+    he: אמנות
+    hi: कला
+    hif: art
+    hr: umjetnost
+    hsb: wuměłstwo
+    ht: la
+    hu: művészet
+    hy: արվեստ
+    hyw: արուեստ
+    ia: arte
+    id: seni
+    ie: arte
+    ig: ǹkà
+    ilo: arte
+    io: arto
+    is: list
+    it: arte
+    ja: 芸術
+    jam: aat
+    jbo: larcu
+    jv: seni
+    ka: ხელოვნება
+    kaa: kórkem-óner
+    kab: taẓuri
+    kbd: гъуазджэ
+    kk: өнер
+    kl: eqqumiitsuliorneq
+    km: សិល្បៈ
+    kn: ಕಲೆ
+    ko: 예술
+    ks: فَن
+    ku: huner
+    ku-latn: huner
+    kw: art
+    ky: көркөм өнөр
+    la: ars
+    lad: arte
+    lb: Konscht
+    lfn: arte
+    li: Kuns
+    lij: arte
+    lld: ert
+    lmo: art
+    ln: ntɔ́ki
+    lo: ສິລະປະກຳ
+    lrc: هنر
+    lt: menas
+    lv: māksla
+    lzh: 藝術
+    mai: कला
+    mdf: сетеньсь
+    mg: kanto
+    mhr: сымыктыш
+    min: seni
+    mk: уметност
+    ml: കല
+    mn: урлаг
+    mnw: ပါန်ကွတ်
+    mr: कला
+    ms: seni
+    ms-arab: سني
+    mt: arti
+    mwl: arte
+    my: အနုပညာ
+    myv: сэтень
+    mzn: هنر
+    nah: tōltēcayōtl
+    nan: gē-su̍t
+    nap: arte
+    nb: kunst
+    nds: Kunst
+    nds-nl: keunst
+    ne: कला
+    nl: kunst
+    nn: kunst
+    oc: art
+    om: Aartii
+    os: аивад
+    pa: ਕਲਾ
+    pap: arte
+    pap-aw: arte
+    pfl: Kunschd
+    pih: aart
+    pl: sztuka
+    pms: Art
+    pnb: آرٹ
+    ps: هونر
+    pt: arte
+    pt-br: arte
+    qu: kapchiy
+    rki: အနုပညာ
+    ro: artă
+    ru: искусство
+    rue: уменя
+    rup: artã
+    sa: कला
+    sah: дьоҕур
+    sat: ᱦᱩᱱᱟ.ᱨ
+    sc: arte
+    scn: arti
+    sco: airt
+    sd: فن
+    se: dáidda
+    sgs: mens
+    sh: umjetnost
+    shi: taẓuṛi
+    si: කලාව
+    sk: umenie
+    sl: umetnost
+    sm: faatufugaga
+    smn: taaiđâ
+    sms: čeäppõs
+    sn: useza
+    so: fan
+    sq: art
+    sr: уметност
+    sr-ec: уметност
+    sr-el: umetnost
+    ss: buciko
+    stq: Kunst
+    su: seni
+    sv: konst
+    sw: usanii
+    szl: kōnszt
+    ta: கலை
+    te: కళ
+    tg: санъат
+    th: ศิลปะ
+    ti: ስነ ጥበብ
+    tl: sining
+    tly: sənət
+    to: ʻāti
+    tpi: at
+    tr: sanat
+    ts: vuqambhi
+    tt: сәнгать
+    tt-cyrl: сәнгать
+    tt-latn: sänğät
+    udm: устолык
+    uk: мистецтво
+    ur: فن
+    uz: sanʼat
+    vec: arte
+    vep: čomamaht
+    vi: nghệ thuật
+    vo: lekan
+    vro: kunst
+    wa: årt
+    war: arté
+    wo: fànn
+    wuu: 艺术
+    xh: ubugcisa
+    xmf: ხელუანობა
+    yi: קונסט
+    yo: ọnà
+    yue: 藝術
+    za: yisuz
+    zea: kunst
+    zgh: ⵜⴰⵥⵓⵕⵉ
+    zh: 藝術
+    zh-cn: 艺术
+    zh-hans: 艺术
+    zh-hant: 藝術
+    zh-hk: 藝術
+    zh-mo: 藝術
+    zh-my: 艺术
+    zh-sg: 艺术
+    zh-tw: 藝術
+    zu: ubuciko
 ---
-
 # [[Art]] 
 
 #is_/same_as :: [[../../WikiData/WD~Art,735]] 

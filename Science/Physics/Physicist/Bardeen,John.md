@@ -1,76 +1,109 @@
 ---
 aliases:
-  - John_Bardeen
-  - John Bardeen
-  - Bardeen
-  - Bardeen,John
+- Bardeen
+- Bardeen,John
+- Bardin Jon
+- Con Bardin
+- Džons Bardīns
+- Ioannes Bardeen
+- John Bardeen
+- John_Bardeen
+- Τζον Μπαρντίν
+- Џон Бардин
+- Джон Бардін
+- Джон Бардзін
+- Джон Бардийн
+- Джон Бардин
+- Джон Бардын
+- Жон Бардин
+- Җон Бардин
+- Ҷон Бардин
+- Ջոն Բարդին
+- ג'ון ברדין
+- جان باردین
+- جان بردین
+- جون باردين
+- جۆن باردین
+- जॉन बर्दीन
+- जॉन बार्डीन
+- जोन बार्डिन
+- जोह्न बार्डीन
+- জন বারডিন
+- சான் பர்டீன்
+- జాన్ బార్డీన్
+- ജോൺ ബാർഡീൻ
+- ჯონ ბარდინი
+- ジョン・バーディーン
+- 尊巴甸
+- 约翰·巴丁
+- 존 바딘
 has_id_wikidata: Q949
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Physical_Society,466113]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Physical_Society,466113]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
 position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~John_Robert_Schrieffer,153201]]'
-  - '[[_Standards/WikiData/WD~Nick_Holonyak,360445]]'
-  - '[[_Standards/WikiData/WD~John_H._Miller,_Jr.,26702906]]'
-  - '[[_Standards/WikiData/WD~John_W._Wilkins,78891162]]'
-  - '[[_Standards/WikiData/WD~David_William_Allender,102362600]]'
-  - '[[_Standards/WikiData/WD~William_Lauchlin_McMillan,102407592]]'
-  - '[[_Standards/WikiData/WD~Stephen_Reynolds_Arnold,103322151]]'
-  - '[[_Standards/WikiData/WD~James_William_Bray,103322160]]'
-  - '[[_Standards/WikiData/WD~John_Richard_Clem,103322169]]'
-  - '[[_Standards/WikiData/WD~Richard_Elmo_Coovert,103322188]]'
-  - '[[_Standards/WikiData/WD~Peter_Vance_Gray,103322196]]'
-  - '[[_Standards/WikiData/WD~Jerome_Luther_Hartke,103322212]]'
-  - '[[_Standards/WikiData/WD~Daniel_Warren_Hone,103322224]]'
-  - '[[_Standards/WikiData/WD~Jared_Logan_Johnson,103322234]]'
-  - '[[_Standards/WikiData/WD~Paul_John_Leurgans,103322241]]'
-  - '[[_Standards/WikiData/WD~Wesley_Northey_Mathews,103322250]]'
-  - '[[_Standards/WikiData/WD~Daniel_Charles_Mattis,103322256]]'
-  - '[[_Standards/WikiData/WD~Michael_Francis_Millea,103322269]]'
-  - '[[_Standards/WikiData/WD~Peter_Benjamin_Miller,103322276]]'
-  - '[[_Standards/WikiData/WD~Rolland_Albert_Missman,103322297]]'
-  - '[[_Standards/WikiData/WD~Sang_Boo_Nam,103322306]]'
-  - '[[_Standards/WikiData/WD~William_Manos_Portnoy,103322320]]'
-  - '[[_Standards/WikiData/WD~Kendal_True_Rogers,103322338]]'
-  - '[[_Standards/WikiData/WD~Wayne_Earl_Tefft,103322347]]'
-  - '[[_Standards/WikiData/WD~Milton_William_Valenta,103322365]]'
+- '[[_Standards/WikiData/WD~John_Robert_Schrieffer,153201]]'
+- '[[_Standards/WikiData/WD~Nick_Holonyak,360445]]'
+- '[[_Standards/WikiData/WD~John_H._Miller,_Jr.,26702906]]'
+- '[[_Standards/WikiData/WD~John_W._Wilkins,78891162]]'
+- '[[_Standards/WikiData/WD~David_William_Allender,102362600]]'
+- '[[_Standards/WikiData/WD~William_Lauchlin_McMillan,102407592]]'
+- '[[_Standards/WikiData/WD~Stephen_Reynolds_Arnold,103322151]]'
+- '[[_Standards/WikiData/WD~James_William_Bray,103322160]]'
+- '[[_Standards/WikiData/WD~John_Richard_Clem,103322169]]'
+- '[[_Standards/WikiData/WD~Richard_Elmo_Coovert,103322188]]'
+- '[[_Standards/WikiData/WD~Peter_Vance_Gray,103322196]]'
+- '[[_Standards/WikiData/WD~Jerome_Luther_Hartke,103322212]]'
+- '[[_Standards/WikiData/WD~Daniel_Warren_Hone,103322224]]'
+- '[[_Standards/WikiData/WD~Jared_Logan_Johnson,103322234]]'
+- '[[_Standards/WikiData/WD~Paul_John_Leurgans,103322241]]'
+- '[[_Standards/WikiData/WD~Wesley_Northey_Mathews,103322250]]'
+- '[[_Standards/WikiData/WD~Daniel_Charles_Mattis,103322256]]'
+- '[[_Standards/WikiData/WD~Michael_Francis_Millea,103322269]]'
+- '[[_Standards/WikiData/WD~Peter_Benjamin_Miller,103322276]]'
+- '[[_Standards/WikiData/WD~Rolland_Albert_Missman,103322297]]'
+- '[[_Standards/WikiData/WD~Sang_Boo_Nam,103322306]]'
+- '[[_Standards/WikiData/WD~William_Manos_Portnoy,103322320]]'
+- '[[_Standards/WikiData/WD~Kendal_True_Rogers,103322338]]'
+- '[[_Standards/WikiData/WD~Wayne_Earl_Tefft,103322347]]'
+- '[[_Standards/WikiData/WD~Milton_William_Valenta,103322365]]'
 student_of: '[[_Standards/WikiData/WD~Eugene_Wigner,155790]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Eugene_Wigner,155790]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
-  - '[[_Standards/WikiData/WD~University_of_Illinois_Urbana_Champaign,457281]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~University_of_Illinois_Urbana_Champaign,457281]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Fritz_London_Award,246592]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Oliver_E._Buckley_Condensed_Matter_Prize,1572080]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~John_Scott_Award,3332215]]'
-  - '[[_Standards/WikiData/WD~Stuart_Ballantine_Medal,7626301]]'
-  - '[[_Standards/WikiData/WD~Harold_Pender_Award,10354962]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~James_Madison_Medal,21662156]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Fritz_London_Award,246592]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Oliver_E._Buckley_Condensed_Matter_Prize,1572080]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~John_Scott_Award,3332215]]'
+- '[[_Standards/WikiData/WD~Stuart_Ballantine_Medal,7626301]]'
+- '[[_Standards/WikiData/WD~Harold_Pender_Award,10354962]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~James_Madison_Medal,21662156]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_High_School,7896630]]'
-  - '[[_Standards/WikiData/WD~Madison_Central_High_School,105764085]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_High_School,7896630]]'
+- '[[_Standards/WikiData/WD~Madison_Central_High_School,105764085]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 child:
-  - '[[_Standards/WikiData/WD~William_A._Bardeen,1500711]]'
-  - '[[_Standards/WikiData/WD~James_M._Bardeen,3161262]]'
+- '[[_Standards/WikiData/WD~William_A._Bardeen,1500711]]'
+- '[[_Standards/WikiData/WD~James_M._Bardeen,3161262]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 father: '[[_Standards/WikiData/WD~Charles_Russell_Bardeen,5082226]]'
@@ -78,9 +111,9 @@ place_of_burial: '[[_Standards/WikiData/WD~Forest_Hill_Cemetery,5468923]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 family_name: '[[_Standards/WikiData/WD~Bardeen,21493436]]'
 spouse: '[[_Standards/WikiData/WD~Jane_Maxwell,22661259]]'
 field_of_work: '[[_Standards/WikiData/WD~physics,413]]'
@@ -102,8 +135,114 @@ ISNI: 0000000066592249
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/BARDIN_DZHON.html
 name_in_native_language: John Bardeen
 date_of_birth: 1908-05-23T00:00:00Z
+dv_has_:
+  name_:
+    an: John Bardeen
+    ar: جون باردين
+    arz: جون باردين
+    ast: John Bardeen
+    az: Con Bardin
+    azb: جان باردین
+    be: Джон Бардзін
+    be-tarask: Джон Бардын
+    bg: Джон Бардийн
+    bn: জন বারডিন
+    bs: John Bardeen
+    ca: John Bardeen
+    ckb: جۆن باردین
+    cs: John Bardeen
+    cy: John Bardeen
+    da: John Bardeen
+    dag: John Bardeen
+    de: John Bardeen
+    de-ch: John Bardeen
+    el: Τζον Μπαρντίν
+    en: John Bardeen
+    en-ca: John Bardeen
+    en-gb: John Bardeen
+    eo: John Bardeen
+    es: John Bardeen
+    et: John Bardeen
+    eu: John Bardeen
+    ext: John Bardeen
+    fa: جان باردین
+    fi: John Bardeen
+    fr: John Bardeen
+    ga: John Bardeen
+    gl: John Bardeen
+    hak: John Bardeen
+    he: ג'ון ברדין
+    hi: जॉन बर्दीन
+    hr: John Bardeen
+    ht: John Bardeen
+    hu: John Bardeen
+    hy: Ջոն Բարդին
+    ia: John Bardeen
+    id: John Bardeen
+    io: John Bardeen
+    is: John Bardeen
+    it: John Bardeen
+    ja: ジョン・バーディーン
+    ka: ჯონ ბარდინი
+    kk: Джон Бардин
+    ko: 존 바딘
+    ku: John Bardeen
+    ky: Жон Бардин
+    la: Ioannes Bardeen
+    lt: John Bardeen
+    lv: Džons Bardīns
+    mg: John Bardeen
+    mk: Џон Бардин
+    ml: ജോൺ ബാർഡീൻ
+    mn: Жон Бардин
+    mr: जॉन बार्डीन
+    ms: John Bardeen
+    mul: John Bardeen
+    mzn: جان باردین
+    nan: John Bardeen
+    nb: John Bardeen
+    ne: जोन बार्डिन
+    new: जोह्न बार्डीन
+    nl: John Bardeen
+    nn: John Bardeen
+    oc: John Bardeen
+    pap: John Bardeen
+    pl: John Bardeen
+    pnb: جان بردین
+    pt: John Bardeen
+    pt-br: John Bardeen
+    qu: John Bardeen
+    ro: John Bardeen
+    ru: Джон Бардин
+    sa: जोह्न बार्डीन
+    sco: John Bardeen
+    sh: John Bardeen
+    sk: John Bardeen
+    sl: John Bardeen
+    sq: John Bardeen
+    sr: Џон Бардин
+    sv: John Bardeen
+    sw: John Bardeen
+    ta: சான் பர்டீன்
+    te: జాన్ బార్డీన్
+    tg: Ҷон Бардин
+    tl: John Bardeen
+    tr: John Bardeen
+    tt: Җон Бардин
+    uk: Джон Бардін
+    ur: جان باردین
+    uz: Bardin Jon
+    vi: John Bardeen
+    war: John Bardeen
+    wuu: 约翰·巴丁
+    xmf: ჯონ ბარდინი
+    yo: John Bardeen
+    yue: 尊巴甸
+    zh: 约翰·巴丁
+    zh-cn: 约翰·巴丁
+    zh-hans: 约翰·巴丁
+    zh-hant: 约翰·巴丁
 ---
-
 # [[Bardeen,John]] 
 
 #is_/same_as :: [[WD~John_Bardeen,949]] 

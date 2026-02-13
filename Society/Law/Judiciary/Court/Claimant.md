@@ -1,8 +1,115 @@
 ---
 aliases:
-  - plaintiff
-  - Kläger
+- actor
+- attore
+- autor
+- davacı
+- Daʼvogar
+- Demandante
+- eiser
+- felperes
+- gearánaí
+- hageja
+- ieškovas
+- kantaja
+- Kläger
+- målsägande
+- Nagsasakdal
+- nguyên đơn
+- Onye kpu mmadu gaa úlò ikpe
+- partie civile
+- penggugat
+- persoana vătămată
+- Plaintif
+- plaintiff
+- plendanto
+- powód
+- querellant
+- saksøker
+- Stefnandi
+- tožnik
+- Žalobca
+- žalobce
+- ісцец
+- истец
+- пазыўнік
+- позивач
+- тужител
+- Հայցվոր
+- תובע
+- خواهان
+- مدع مدني
+- مدعی
+- अभियोगी
+- বাদী
+- ବାଦୀ
+- വാദി
+- მოსარჩელე
+- ᡥᠠᠪᡧᠠᡥᠠ ᠨᡳᠶᠠᠯᠮᠠ
+- 原告
+- 원고
 has_id_wikidata: Q468489
+dv_has_:
+  name_:
+    ar: مدع مدني
+    be: ісцец
+    be-tarask: пазыўнік
+    bn: বাদী
+    ca: querellant
+    cs: žalobce
+    de: Kläger
+    en: plaintiff
+    eo: plendanto
+    es: actor
+    et: hageja
+    fa: خواهان
+    fi: kantaja
+    fr: partie civile
+    ga: gearánaí
+    gl: Demandante
+    he: תובע
+    hi: अभियोगी
+    hu: felperes
+    hy: Հայցվոր
+    id: penggugat
+    ig: Onye kpu mmadu gaa úlò ikpe
+    is: Stefnandi
+    it: attore
+    ja: 原告
+    ka: მოსარჩელე
+    ko: 원고
+    la: Actor
+    lt: ieškovas
+    mk: тужител
+    ml: വാദി
+    mnc: ᡥᠠᠪᡧᠠᡥᠠ ᠨᡳᠶᠠᠯᠮᠠ
+    ms: Plaintif
+    nb: saksøker
+    nl: eiser
+    or: ବାଦୀ
+    pl: powód
+    pt: autor
+    ro: persoana vătămată
+    ru: истец
+    sk: Žalobca
+    sl: tožnik
+    sv: målsägande
+    tl: Nagsasakdal
+    tr: davacı
+    uk: позивач
+    ur: مدعی
+    uz: Daʼvogar
+    vi: nguyên đơn
+    yue: 原告
+    zh: 原告
+    zh-cn: 原告
+    zh-hans: 原告
+    zh-hant: 原告
+    zh-hk: 原告
+    zh-mo: 原告
+    zh-my: 原告
+    zh-sg: 原告
+    zh-tw: 原告
 ---
 # [[Claimant]] 
 

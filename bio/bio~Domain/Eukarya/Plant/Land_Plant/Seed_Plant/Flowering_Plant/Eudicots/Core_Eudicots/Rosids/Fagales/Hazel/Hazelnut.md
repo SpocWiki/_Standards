@@ -1,30 +1,171 @@
 ---
 aliases:
+- Abelyana
+- abelá
+- Ablana
+- alună
+- avellana
+- avelo
+- avelã
+- Avyána
+- fındık
+- Haselneut
+- Haselnuss
+- hasselnöt
+- hasselnød
+- hasselnøtt
+- hasselpähkinä
+- hazelnoot
+- hazelnut
+- Hieselnoss
+- hur
+- hạt phỉ
+- Kacang hazel
+- lajthi
+- lazdu rieksti
+- lešnik
+- Lešnik (plod)
+- lískový ořech
+- lěskowy worješk
+- Neeshchʼíínímazí
+- Ninsòla
+- nocciola
+- noisette
+- Nozeła
+- Nucidda
+- Nux avellana
+- Nwazèt
+- orzech laskowy
+- Sarapuupähkel
+- Sarapuupähkmäs
+- λεφτοκάρ'
+- φουντούκι
+- ліщинні горіхи
+- лесной орех
+- лешник
+- лясны арэх
+- Урман сәтләүеге
+- կաղին
+- պնդուկ
+- אגוז לוז
+- بندق
+- بوفريوة
+- فندق
+- فیندیق
+- ویٛۆٹھ چنہٕ
+- گلغوزک
+- कटुस
+- হ্যাজেল বাদাম
+- เฮเซลนัต
+- ᏳᎩᏓ
+- ᠰᡳᠰᡳ
+- ヘーゼルナッツ
+- 榛子
+- 榛果
+- 헤이즐넛
 has_id_wikidata: Q578307
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Corylus_avellana,124969]]"
-part_of: "[[_Standards/WikiData/WD~Turkish_cuisine,654493]]"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~seed,1762933]]"
-  - "[[_Standards/WikiData/WD~nut,3320037]]"
-  - "[[_Standards/WikiData/WD~hazelnut,104738415]]"
-  - "[[_Standards/WikiData/WD~nut,11009]]"
-instance_of: "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-has_part_s_: "[[_Standards/WikiData/WD~hazelnut_shell,55758405]]"
+- '[[_Standards/WikiData/WD~seed,1762933]]'
+- '[[_Standards/WikiData/WD~nut,3320037]]'
+- '[[_Standards/WikiData/WD~hazelnut,104738415]]'
+- '[[_Standards/WikiData/WD~nut,11009]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405]]'
 carbon_footprint: 5.3
 food_energy: 628
 water_footprint:
-  - 5258
-  - 10515
-PLU_code: "4928"
-OmegaWiki_Defined_Meaning: "404765"
+- 5258
+- 10515
+PLU_code: 4928
+OmegaWiki_Defined_Meaning: 404765
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hazelnuts%20%28Corylus%20avellana%29%20-%20whole%20with%20kernels.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Corylus%20avellana.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hazelnuts%20%28Corylus%20avellana%29%20-%20whole%20with%20kernels.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Corylus%20avellana.jpg
 Commons_category: Hazelnuts
 UNII: 4U47CHZ7DL
-Amazon_com_browse_node: "6492300011"
+Amazon_com_browse_node: 6492300011
+dv_has_:
+  name_:
+    aeb-arab: بوفريوة
+    af: Haselneut
+    an: Avellana
+    ar: بندق
+    arz: بندق
+    ast: Ablana
+    azb: فیندیق
+    ba: Урман сәтләүеге
+    be: лясны арэх
+    be-tarask: лясны арэх
+    bn: হ্যাজেল বাদাম
+    ca: avellana
+    ceb: Abelyana
+    chr: ᏳᎩᏓ
+    cs: lískový ořech
+    da: hasselnød
+    de: Haselnuss
+    el: φουντούκι
+    en: hazelnut
+    eo: avelo
+    es: avellana
+    et: Sarapuupähkel
+    eu: hur
+    fa: فندق
+    fi: hasselpähkinä
+    fr: noisette
+    gl: abelá
+    he: אגוז לוז
+    hsb: lěskowy worješk
+    ht: Nwazèt
+    hy: պնդուկ
+    hyw: կաղին
+    ia: Avellana
+    id: Kacang hazel
+    it: nocciola
+    ja: ヘーゼルナッツ
+    jv: Kacang hazel
+    ko: 헤이즐넛
+    ks: ویٛۆٹھ چنہٕ
+    la: Nux avellana
+    lad: Avyána
+    lb: Hieselnoss
+    lv: lazdu rieksti
+    mk: лешник
+    mnc: ᠰᡳᠰᡳ
+    ms: Kacang hazel
+    mzn: گلغوزک
+    nb: hasselnøtt
+    ne: कटुस
+    nl: hazelnoot
+    nn: Hasselnøtt
+    nv: Neeshchʼíínímazí
+    pl: orzech laskowy
+    pms: Ninsòla
+    pnt: λεφτοκάρ'
+    pt: avelã
+    pt-br: avelã
+    ro: alună
+    ru: лесной орех
+    scn: Nucidda
+    sl: lešnik
+    sq: lajthi
+    sr: Lešnik (plod)
+    sv: hasselnöt
+    th: เฮเซลนัต
+    tl: Abelyana
+    tr: fındık
+    uk: ліщинні горіхи
+    ur: بندق
+    vec: Nozeła
+    vi: hạt phỉ
+    vro: Sarapuupähkmäs
+    yue: 榛果
+    zh: 榛子
+    zh-hans: 榛子
+    zh-hant: 榛子
+    zh-hk: 榛子
 ---
-
 # [[Hazelnut]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Hazelnut,578307|WD~Hazelnut,578307]]

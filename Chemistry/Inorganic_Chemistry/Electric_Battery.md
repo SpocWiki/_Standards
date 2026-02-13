@@ -1,51 +1,147 @@
 ---
 aliases:
-  - Electric battery
-  - Battery
-  - Electric_Battery
-  - Electric Battery
+- Baatirii
+- Bataraidh
+- Batareya
+- Bataria (eletrotecnega)
+- Batariga korontada
+- baterai
+- Baterai listrik
+- bateri
+- bateria
+- bateria elèctrica
+- bateria ogniw
+- baterie
+- Baterii
+- baterija
+- Bateriya
+- Baterya
+- Bateryang elektrikal
+- Bateré
+- Baterìa (eletricità)
+- batería
+- Baterî
+- Batirin lantarki
+- Batri
+- Batré
+- Battarìa
+- batteri
+- Batterie
+- batterij
+- batterija
+- Battery
+- Batèria
+- Betri
+- cadhnra
+- Diêng-tù
+- Electric battery
+- Electric_Battery
+- Elektr batareyasi
+- elektrická baterie
+- elektrická batéria
+- Ilektrik bachri
+- IsiPhathanzuba
+- Lektrikbatterie
+- paristo
+- Patarei
+- Patari
+- Pil
+- Pil élektrik
+- pila
+- Pila electrica
+- pile électrique
+- Pilha
+- pilo
+- pin
+- Pinchikilla pila
+- Rafhlaða
+- Selil vòltayik
+- szárazelem
+- Thien-sîm
+- Tiān-tî
+- Vatoaratra
+- Wateriia
+- Μπαταρία
+- Батарей
+- батарейка
+- батарея
+- батарэя
+- батерија
+- Батерия
+- Мобил҄ьна батєриꙗ
+- электрычная батарэя
+- באטעריע
+- סוללה חשמלית
+- التستيفة د الضّو
+- باتری
+- برقیچہ
+- برېښنایي بټرۍ
+- بیٹری
+- مدخرة
+- विद्युत कोष
+- विद्युतघट
+- विद्युतीय ब्याट्री
+- विद्युत्कोष
+- তড়িৎকোষ
+- ਬੈਟਰੀ
+- વિદ્યુત કોષ
+- ବ୍ୟାଟେରୀ
+- மின்கலம்
+- బ్యాటరీ
+- ಶುಷ್ಕ ಕೋಶ
+- ബാറ്ററി
+- බැටරි
+- แบตเตอรี่
+- ဓာတ်အိုး
+- မၢၵ်ႇထၢၼ်ႇ
+- ბატარეა
+- ការប្រើប្រាស់ ថ្ម(អគ្គិសនី)
+- バッテリー
+- 电池
+- 電池
+- 배터리
 has_id_wikidata: Q267298
-source_of_energy: "[[_Standards/WikiData/WD~redox,82682]]"
+source_of_energy: '[[_Standards/WikiData/WD~redox,82682]]'
 different_from:
-  - "[[_Standards/WikiData/WD~galvanic_cell,209440]]"
-  - "[[_Standards/WikiData/WD~battery,1796687]]"
-  - "[[_Standards/WikiData/WD~battery,3283617]]"
-  - "[[_Standards/WikiData/WD~artillery_battery,56344492]]"
-  - "[[_Standards/WikiData/WD~capacitor,5322]]"
+- '[[_Standards/WikiData/WD~galvanic_cell,209440]]'
+- '[[_Standards/WikiData/WD~battery,1796687]]'
+- '[[_Standards/WikiData/WD~battery,3283617]]'
+- '[[_Standards/WikiData/WD~artillery_battery,56344492]]'
+- '[[_Standards/WikiData/WD~capacitor,5322]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~nominal_voltage,390700]]"
-  - "[[_Standards/WikiData/WD~energy_density,828402]]"
-  - "[[_Standards/WikiData/WD~cutoff_voltage,1344937]]"
-  - "[[_Standards/WikiData/WD~rated_current,1977384]]"
-  - "[[_Standards/WikiData/WD~specific_energy,3023293]]"
-  - "[[_Standards/WikiData/WD~state_of_charge,5368536]]"
-  - "[[_Standards/WikiData/WD~battery_level,60229413]]"
+- '[[_Standards/WikiData/WD~nominal_voltage,390700]]'
+- '[[_Standards/WikiData/WD~energy_density,828402]]'
+- '[[_Standards/WikiData/WD~cutoff_voltage,1344937]]'
+- '[[_Standards/WikiData/WD~rated_current,1977384]]'
+- '[[_Standards/WikiData/WD~specific_energy,3023293]]'
+- '[[_Standards/WikiData/WD~state_of_charge,5368536]]'
+- '[[_Standards/WikiData/WD~battery_level,60229413]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use:
-  - "[[_Standards/WikiData/WD~energy_storage,837718]]"
-  - "[[_Standards/WikiData/WD~battery_powered_device,113446414]]"
+- '[[_Standards/WikiData/WD~energy_storage,837718]]'
+- '[[_Standards/WikiData/WD~battery_powered_device,113446414]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~electric_power_source,1753139]]"
-  - "[[_Standards/WikiData/WD~accumulator,2288996]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_battery,3630500]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_battery,10806496]]"
+- '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
+- '[[_Standards/WikiData/WD~accumulator,2288996]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_battery,3630500]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_battery,10806496]]'
 subreddit: batteries
-instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
 ACM_Classification_Code_2012_: 10010664
 GS1_GPC_code: 10000546
 U_S_National_Archives_Identifier: 10638068
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Batteries.jpg
 Amazon_com_browse_node:
-  - 11041781
-  - 13535381
+- 11041781
+- 13535381
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Ogniwo%20paliwowe%20zasada%20dzialania.gif
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2890%29.svg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/battery
-Unicode_character: 🔋
+Unicode_character: "\U0001F50B"
 IEV_number: 482-01-04
 P8189: 987007536065205100
 Commons_category: Electric batteries
@@ -53,25 +149,158 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/BATAREYA_ELEKTRO
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Batterie2.ogg
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]"
+  - '[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]"
+- '[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]'
+dv_has_:
+  name_:
+    af: Battery
+    ar: مدخرة
+    ary: التستيفة د الضّو
+    atj: Patari
+    az: Batareya
+    azb: باتری
+    bcl: Baterya
+    be: электрычная батарэя
+    be-tarask: батарэя
+    bg: Батерия
+    bn: তড়িৎকোষ
+    bs: Baterija
+    ca: bateria elèctrica
+    cdo: Diêng-tù
+    ckb: باتری
+    cs: elektrická baterie
+    cu: Мобил҄ьна батєриꙗ
+    cy: Batri
+    da: batteri
+    de: Batterie
+    de-ch: Batterie
+    el: Μπαταρία
+    en: battery
+    en-ca: Battery
+    en-gb: battery
+    eo: pilo
+    es: batería
+    et: Patarei
+    eu: Pila
+    fa: باتری
+    fi: paristo
+    fr: pile électrique
+    frr: Baterii
+    fy: Batterij
+    ga: cadhnra
+    gan: 電池
+    gan-hant: 電池
+    gcr: Pil élektrik
+    gd: Bataraidh
+    gl: batería
+    gor: Baterai listrik
+    gu: વિદ્યુત કોષ
+    guc: Wateriia
+    ha: Batirin lantarki
+    hak: Thien-sîm
+    he: סוללה חשמלית
+    hi: विद्युत कोष
+    hr: baterija
+    ht: Selil vòltayik
+    hu: szárazelem
+    id: baterai
+    is: Rafhlaða
+    it: pila
+    ja: バッテリー
+    jam: Ilektrik bachri
+    jv: Bateré
+    ka: ბატარეა
+    kk: Батарея
+    km: ការប្រើប្រាស់ ថ្ម(អគ្គិសនី)
+    kn: ಶುಷ್ಕ ಕೋಶ
+    ko: 배터리
+    ku: Baterî
+    ky: Батарея
+    la: Pila electrica
+    li: Lektrikbatterie
+    lmo: Bataria (eletrotecnega)
+    lt: baterija
+    lv: baterija
+    lzh: 電池
+    mag: विद्युत्कोष
+    mg: Vatoaratra
+    mk: батерија
+    ml: ബാറ്ററി
+    mn: Батарей
+    mr: विद्युतघट
+    ms: bateri
+    mt: batterija
+    my: ဓာတ်အိုး
+    nan: Tiān-tî
+    nb: batteri
+    ne: विद्युतीय ब्याट्री
+    nl: batterij
+    nn: batteri
+    oc: Pila electrica
+    om: Baatirii
+    or: ବ୍ୟାଟେରୀ
+    pa: ਬੈਟਰੀ
+    pl: bateria ogniw
+    pms: Baterìa (eletricità)
+    pnb: بیٹری
+    ps: برېښنایي بټرۍ
+    pt: bateria
+    pt-br: Pilha
+    qu: Pinchikilla pila
+    ro: baterie
+    ru: батарея
+    scn: Battarìa
+    sco: battery
+    sg: Batterie
+    sh: Baterija
+    shn: မၢၵ်ႇထၢၼ်ႇ
+    si: බැටරි
+    sk: elektrická batéria
+    sl: baterija
+    so: Batariga korontada
+    sq: Bateria
+    sr: батерија
+    su: Batré
+    sv: batteri
+    sw: Betri
+    ta: மின்கலம்
+    te: బ్యాటరీ
+    th: แบตเตอรี่
+    tl: Bateryang elektrikal
+    tr: Pil
+    uk: батарейка
+    ur: برقیچہ
+    uz: Elektr batareyasi
+    vec: Batèria
+    vi: pin
+    war: Bateriya
+    wuu: 电池
+    wuu-hans: 电池
+    yi: באטעריע
+    yue: 電池
+    zh: 电池
+    zh-cn: 电池
+    zh-hans: 电池
+    zh-hant: 電池
+    zh-my: 电池
+    zh-tw: 電池
+    zu: IsiPhathanzuba
 ---
-
 # [[Electric_Battery]] 🔋 
 
 #is_/same_as :: [[../../WikiData/WD~Battery,267298|WD~Battery,267298]] 

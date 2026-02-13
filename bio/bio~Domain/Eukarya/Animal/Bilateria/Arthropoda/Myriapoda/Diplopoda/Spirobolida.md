@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Spirobolida
+- Espirobòlides
+- Slitsdubbelfotingar
+- Spirobolida
+- ملتويات ضخمة
+- 山蛩目
+- 环山蛩目
 title: Spirobolida
 has_id_wikidata: Q3720278
+dv_has_:
+  name_:
+    an: Spirobolida
+    ar: ملتويات ضخمة
+    ast: Spirobolida
+    be: Spirobolida
+    bg: Spirobolida
+    ca: Espirobòlides
+    ceb: Spirobolida
+    de: Spirobolida
+    en: Spirobolida
+    eo: Spirobolida
+    es: Spirobolida
+    eu: Spirobolida
+    ext: Spirobolida
+    fi: Spirobolida
+    fr: Spirobolida
+    ga: Spirobolida
+    gl: Spirobolida
+    ia: Spirobolida
+    id: Spirobolida
+    ie: Spirobolida
+    io: Spirobolida
+    it: Spirobolida
+    la: Spirobolida
+    mul: Spirobolida
+    nl: Spirobolida
+    oc: Spirobolida
+    pl: Spirobolida
+    pt: Spirobolida
+    pt-br: Spirobolida
+    ro: Spirobolida
+    ru: Spirobolida
+    sl: Spirobolida
+    sq: Spirobolida
+    sv: Slitsdubbelfotingar
+    th: Spirobolida
+    tr: Spirobolida
+    uk: Spirobolida
+    vi: Spirobolida
+    vo: Spirobolida
+    war: Spirobolida
+    zh: 环山蛩目
+    zh-cn: 环山蛩目
+    zh-hans: 环山蛩目
+    zh-tw: 山蛩目
 ---
 # [[Spirobolida]] 
 

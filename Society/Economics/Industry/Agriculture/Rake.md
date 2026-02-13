@@ -1,38 +1,211 @@
 ---
 aliases:
-  - raca
-  - hark
-  - Harke
-  - Rechen
-  - Rake
+- ancinho
+- Angazo
+- Cào (dụng cụ)
+- Dırmıq
+- Dərəǧ
+- eskuare
+- gereblye
+- grabie
+- Grable
+- Grablje
+- Grabulje
+- greblă
+- Grieblis
+- grābeklis
+- Grėblys
+- harava
+- hark
+- Harke
+- hrabje
+- hrábě
+- Kagkag
+- kelup
+- kratta
+- Manjagara
+- Pecten (instrumentum)
+- Piruya
+- purau
+- raca
+- Rake
+- Rakel
+- rampí
+- Rasclo
+- Rashqela
+- Rastell
+- rastilo
+- Rastreddu
+- rastrello
+- rastrillo
+- Rastèl
+- Rechen
+- Reechn
+- Reha
+- Restell
+- Rieve
+- Riiw
+- Riuwe (harke)
+- rive
+- Rustea
+- ráca
+- râteau
+- Tırmık
+- tırnawş
+- Τσουγκράνα
+- граблі
+- Граблї
+- грабли
+- Грабуље
+- Гребло
+- Кĕрепле
+- Кагтуха
+- Нарман
+- тырмоо
+- тырнауыш
+- Փոցխ
+- מגרפה
+- جرافہ
+- شنکش
+- مدمة
+- پَنٛجہٕ
+- ڏانداري
+- রেক (সরঞ্জাম)
+- ਕਰੰਡੀ
+- คราด
+- ခြစ်
+- ၽိူဝ်ၶႅင်း
+- ᠨᠠᡵᡤᠠ
+- 熊手
+- 耙
+- 갈퀴
 has_id_wikidata: Q200822
 used_by:
-  - '[[_Standards/WikiData/WD~farmer,131512]]'
-  - '[[_Standards/WikiData/WD~gardener,758780]]'
-  - '[[_Standards/WikiData/WD~housewife,38126150]]'
+- '[[_Standards/WikiData/WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~gardener,758780]]'
+- '[[_Standards/WikiData/WD~housewife,38126150]]'
 has_use:
-  - '[[_Standards/WikiData/WD~harvest,213753]]'
-  - '[[_Standards/WikiData/WD~tillage,878333]]'
-  - '[[_Standards/WikiData/WD~cleaning,12773274]]'
+- '[[_Standards/WikiData/WD~harvest,213753]]'
+- '[[_Standards/WikiData/WD~tillage,878333]]'
+- '[[_Standards/WikiData/WD~cleaning,12773274]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
-  - '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
+- '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+- '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
 different_from: '[[_Standards/WikiData/WD~Grabie,5590621]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~wood,287]]'
-  - '[[_Standards/WikiData/WD~steel,11427]]'
-  - '[[_Standards/WikiData/WD~plastic,11474]]'
+- '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~plastic,11474]]'
 Nomenclature_for_Museum_Cataloging: 3406
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rake.jpg
 GS1_GPC_code: 10003399
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Rechenmacher.webm
 Iconclass_notation: 47I15(RAKE)
 Commons_category: Hand rakes
+dv_has_:
+  name_:
+    af: hark
+    an: Rasclo
+    ar: مدمة
+    az: Dırmıq
+    bar: Reechn
+    bcl: Kagkag
+    be: граблі
+    be-tarask: граблі
+    bg: Гребло
+    bn: রেক (সরঞ্জাম)
+    br: Rastell
+    ca: rampí
+    ce: Кагтуха
+    cs: hrábě
+    csb: Grable
+    cv: Кĕрепле
+    da: rive
+    de: Rechen
+    el: Τσουγκράνα
+    en: rake
+    en-ca: Rake
+    en-gb: rake
+    en-us: rake
+    eo: rastilo
+    es: rastrillo
+    et: Reha
+    eu: eskuare
+    fa: شنکش
+    fi: harava
+    fr: râteau
+    frr: Riiw
+    fy: Riuwe (harke)
+    ga: ráca
+    gl: Angazo
+    ha: Manjagara
+    he: מגרפה
+    hr: Grablje
+    hsb: hrabje
+    hu: gereblye
+    hy: Փոցխ
+    it: rastrello
+    ja: 熊手
+    kk: тырнауыш
+    kk-latn: tırnawş
+    ko: 갈퀴
+    ks: پَنٛجہٕ
+    kv: Нарман
+    ky: тырмоо
+    la: Pecten (instrumentum)
+    lmo: Restell
+    lt: Grėblys
+    lv: grābeklis
+    mi: purau
+    mk: Гребло
+    mnc: ᠨᠠᡵᡤᠠ
+    my: ခြစ်
+    nb: rive
+    nl: hark
+    nn: Rive
+    oc: Rastèl
+    pa: ਕਰੰਡੀ
+    pam: Piruya
+    pl: grabie
+    pt: ancinho
+    pt-br: Ancinho
+    ro: greblă
+    rsk: Граблї
+    ru: грабли
+    scn: Rastreddu
+    sd: ڏانداري
+    sgs: Grieblis
+    sh: Grabulje
+    shn: ၽိူဝ်ၶႅင်း
+    sl: grablje
+    sq: Rashqela
+    sr: Грабуље
+    sr-ec: грабуље
+    sr-el: grabulje
+    sv: kratta
+    szy: kelup
+    th: คราด
+    tly: Dərəǧ
+    tr: Tırmık
+    uk: граблі
+    ur: جرافہ
+    vi: Cào (dụng cụ)
+    vls: Rakel
+    wa: Rustea
+    wuu: 耙
+    yue: 耙
+    zea: Rieve
+    zh: 耙
+    zh-cn: 耙
+    zh-hans: 耙
+    zh-hant: 耙
+    zh-hk: 耙
+    zh-sg: 耙
+    zh-tw: 耙
 ---
-
 # [[Rake]] 
 
 #is_/similar_to :: [[Agricultural_Tool/Harrow(Tool)|Harrow(Tool)]] 

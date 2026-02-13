@@ -1,14 +1,69 @@
 ---
 aliases:
+- caunsomaiņu cilts
+- Dasiürini
+- Dasyurini
+- Daysurini
+- Niełazy
+- Parantechinus
+- دصيوراوية
+- دصيوراويه
+- ستبردمتباران
+- フクロネコ族
+- 袋鼬族
+- 주머니고양이족
 has_id_wikidata: Q533062
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurinae,902243]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "709325"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurinae,902243]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 709325
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 taxon_name: Dasyurini
+dv_has_:
+  name_:
+    an: Dasyurini
+    ar: دصيوراوية
+    arz: دصيوراويه
+    ast: Dasyurini
+    bg: Dasyurini
+    ca: Dasiürini
+    ceb: Dasyurini
+    de: Dasyurini
+    en: Dasyurini
+    eo: Dasyurini
+    es: Dasyurini
+    eu: Dasyurini
+    ext: Dasyurini
+    fa: ستبردمتباران
+    fi: Dasyurini
+    fr: Dasyurini
+    ga: Dasyurini
+    gl: Dasyurini
+    ia: Dasyurini
+    ie: Dasyurini
+    io: Dasyurini
+    it: Dasyurini
+    ja: フクロネコ族
+    ko: 주머니고양이족
+    la: Parantechinus
+    lv: caunsomaiņu cilts
+    mt: Dasyurini
+    mul: Dasyurini
+    nl: Dasyurini
+    oc: Dasyurini
+    pl: Niełazy
+    pt: Dasyurini
+    pt-br: Dasyurini
+    ro: Dasyurini
+    ru: Dasyurini
+    sl: Daysurini
+    sq: Dasyurini
+    uk: Dasyurini
+    vi: Dasyurini
+    vo: Dasyurini
+    war: Dasyurini
+    zh: 袋鼬族
 ---
-
 # [[Dasyurini]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062|WD~Dasyurini,533062]]  

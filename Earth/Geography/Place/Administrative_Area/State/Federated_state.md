@@ -1,50 +1,252 @@
 ---
 aliases:
-  - Bundesland
-  - Federated_state
-  - Federated state
+- bang
+- Bundesland
+- Bundsland
+- Bunnes-Schtaat
+- civitas foederata
+- constituent state
+- dailstoat
+- deelstaat
+- delstat
+- dewleta federal
+- dialstoot
+- Dielsteat
+- ente federativo
+- estado federado
+- estat federat
+- estatu federatu
+- estau federau
+- estáu federáu
+- federal devlet
+- Federated state
+- Federated_state
+- federovaný stát
+- Federéierte Staat
+- federāla valsts
+- Gliedstaat
+- Ijolat
+- negara bagian
+- Negara bagian federasi
+- Negara serèkat
+- negeri bersekutu
+- oassestáhta
+- osariik
+- osavaltio
+- savezna država
+- Shtat
+- stan
+- Stat federat
+- Stato
+- stato federate
+- Stato federato
+- stato federà
+- Stet
+- stát cónaidhmthe
+- subŝtato
+- szövetségi állam
+- talaith
+- tetã ñembyatypyre
+- Tlahtohcayotl
+- uásistaatâ
+- Valstija
+- vueʹssvaldia
+- zvezna država
+- zwjazkowy kraj
+- Zwězkowy kraj
+- État fédéré
+- ομόσπονδη πολιτεία
+- государство в составе федеративного союза
+- Иёлат
+- Масторнэ
+- савезна држава
+- сојузна држава
+- тӀобарал ихтияразул пачалихъалъул бутӀа
+- федералон штат
+- Холбооны муж
+- штат
+- Щат
+- Նահանգ
+- מדינת משנה
+- ايالت
+- ایالت
+- دەوڵەتی فیدراڵی
+- وفاقی ریاست
+- ولاية اتحادية
+- ߞߙߎߝߊ߫ ߖߡߊߣߊ
+- संघीय राज्य
+- संयुक्त राज्य
+- सङ्घबद्ध राज्य
+- সংঘবদ্ধ রাজ্য
+- ਸੰਘੀ ਰਾਜ
+- રાજ્ય
+- மாநிலம்
+- ಫೆಡರೇಟಡ್ ರಾಜ್ಯ
+- സംസ്ഥാനം
+- ප්රාන්ත රාජ්යය
+- ဖက်ဒရယ်ပြည်နယ်
+- შტატი
+- 联邦制下的州
+- 聯邦制國家成員
+- 連邦構成体
+- 邦
+- 연방주
 has_id_wikidata: Q107390
 different_from:
-  - "[[_Standards/WikiData/WD~autonomous_administrative_territorial_entity,788176]]"
-  - "[[_Standards/WikiData/WD~constituent_state,1763527]]"
-  - "[[_Standards/WikiData/WD~Q111818978,111818978]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+- '[[_Standards/WikiData/WD~autonomous_administrative_territorial_entity,788176]]'
+- '[[_Standards/WikiData/WD~constituent_state,1763527]]'
+- '[[_Standards/WikiData/WD~Q111818978,111818978]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
 part_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~federation,43702]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~former_or_current_state,96196009]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-has_characteristic: "[[_Standards/WikiData/WD~sovereignty,42008]]"
+- '[[_Standards/WikiData/WD~former_or_current_state,96196009]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+has_characteristic: '[[_Standards/WikiData/WD~sovereignty,42008]]'
 equivalent_class: https://schema.org/State
 Commons_category: Federated states
 OpenStreetMap_tag_or_key: Tag:place=state
 dv_is_:
-  part_of_: "[[Federation]]"
+  part_of_: '[[Federation]]'
   same_as:
-    - "[[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]]"
-    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state|Federated_state]]"
-    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public|Federated_state.public]]"
-    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal|Federated_state.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect|Federated_state.protect]]"
-    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private|Federated_state.private]]"
-    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal|Federated_state.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret|Federated_state.secret]]"
-dv_is_part_of_: "[[Federation]]"
+  - '[[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]]'
+  - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state|Federated_state]]'
+  - '[[/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public|Federated_state.public]]'
+  - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal|Federated_state.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect|Federated_state.protect]]'
+  - '[[/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private|Federated_state.private]]'
+  - '[[/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal|Federated_state.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret|Federated_state.secret]]'
+dv_is_part_of_: '[[Federation]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]]"
-  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state|Federated_state]]"
-  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public|Federated_state.public]]"
-  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal|Federated_state.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect|Federated_state.protect]]"
-  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private|Federated_state.private]]"
-  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal|Federated_state.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret|Federated_state.secret]]"
+- '[[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]]'
+- '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state|Federated_state]]'
+- '[[/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public|Federated_state.public]]'
+- '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal|Federated_state.internal]]'
+- '[[/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect|Federated_state.protect]]'
+- '[[/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private|Federated_state.private]]'
+- '[[/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal|Federated_state.personal]]'
+- '[[/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret|Federated_state.secret]]'
+dv_has_:
+  name_:
+    af: deelstaat
+    ar: ولاية اتحادية
+    ast: estáu federáu
+    av: тӀобарал ихтияразул пачалихъалъул бутӀа
+    ba: Штат
+    ban: Negara bagian federasi
+    be: штат
+    be-tarask: штат
+    bew: Negara serèkat
+    bg: Щат
+    bn: সংঘবদ্ধ রাজ্য
+    ca: estat federat
+    ce: Штат
+    ckb: دەوڵەتی فیدراڵی
+    cs: federovaný stát
+    cy: talaith
+    da: delstat
+    de: Gliedstaat
+    de-ch: Gliedstaat
+    dsb: Zwězkowy kraj
+    el: ομόσπονδη πολιτεία
+    en: federated state
+    en-ca: Federated state
+    en-gb: federated state
+    eo: subŝtato
+    es: estado federado
+    et: osariik
+    eu: estatu federatu
+    ext: estau federau
+    fa: ایالت
+    fi: osavaltio
+    fr: État fédéré
+    frr: dialstoot
+    fy: Dielsteat
+    ga: stát cónaidhmthe
+    gl: estado federado
+    gn: tetã ñembyatypyre
+    gu: રાજ્ય
+    he: מדינת משנה
+    hi: संघीय राज्य
+    hsb: zwjazkowy kraj
+    hu: szövetségi állam
+    hy: Նահանգ
+    ia: stato federate
+    id: negara bagian
+    it: Stato federato
+    ja: 連邦構成体
+    ka: შტატი
+    kk: Штат
+    kn: ಫೆಡರೇಟಡ್ ರಾಜ್ಯ
+    ko: 연방주
+    ku: dewleta federal
+    ku-latn: dewleta federal
+    ky: Штат
+    la: civitas foederata
+    lb: Federéierte Staat
+    lt: Valstija
+    lv: federāla valsts
+    mk: сојузна држава
+    ml: സംസ്ഥാനം
+    mn: Холбооны муж
+    ms: negeri bersekutu
+    my: ဖက်ဒရယ်ပြည်နယ်
+    myv: Масторнэ
+    nah: Tlahtohcayotl
+    nb: delstat
+    nds: Bundsland
+    nds-nl: dailstoat
+    ne: सङ्घबद्ध राज्य
+    nl: deelstaat
+    nn: delstat
+    nqo: ߞߙߎߝߊ߫ ߖߡߊߣߊ
+    oc: Estat Federat
+    os: федералон штат
+    pa: ਸੰਘੀ ਰਾਜ
+    pdc: Bunnes-Schtaat
+    pl: stan
+    pnb: وفاقی ریاست
+    ps: ايالت
+    pt: ente federativo
+    pt-br: estado federado
+    rmy: Stato
+    ro: Stat federat
+    ru: государство в составе федеративного союза
+    sa: संयुक्त राज्य
+    sco: constituent state
+    se: oassestáhta
+    si: ප්රාන්ත රාජ්යය
+    sl: zvezna država
+    smn: uásistaatâ
+    sms: vueʹssvaldia
+    sr: савезна држава
+    sr-ec: савезна држава
+    sr-el: savezna država
+    sv: delstat
+    ta: மாநிலம்
+    tg: Иёлат
+    tg-latn: Ijolat
+    tpi: Stet
+    tr: federal devlet
+    tt: Штат
+    uk: штат
+    ur: وفاقی ریاست
+    uz: Shtat
+    vec: stato federà
+    vi: bang
+    xmf: შტატი
+    yue: 邦
+    zh: 联邦制下的州
+    zh-cn: 联邦制下的州
+    zh-hant: 聯邦制國家成員
+    zh-hk: 聯邦制國家成員
+    zh-tw: 聯邦制國家成員
 ---
-
 # [[Federated_State]] 
 
 is_part_of_ = `=this.dv_is_part_of_`

@@ -1,35 +1,122 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Age_of_Discovery,133641]]"
-    - "[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]"
-    - "[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]"
-    - "[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]"
-    - "[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]"
-    - "[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]"
-    - "[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]"
-    - "[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]"
+  - '[[../../WikiData/WD~Age_of_Discovery,133641]]'
+  - '[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]'
+  - '[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]'
+  - '[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]'
+  - '[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]'
+  - '[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]'
+  - '[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]'
+  - '[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Age_of_Discovery,133641]]"
-  - "[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]"
-  - "[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]"
-  - "[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]"
-  - "[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]"
-  - "[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]"
-  - "[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]"
-  - "[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]"
-
-has_time_started: 1500-01-01 
-has_time_stopped: 1800-01-01 
+- '[[../../WikiData/WD~Age_of_Discovery,133641]]'
+- '[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]'
+- '[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]'
+- '[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]'
+- '[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]'
+- '[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]'
+- '[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]'
+- '[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]'
+has_time_started: 1500-01-01
+has_time_stopped: 1800-01-01
 aliases:
-  - Age of Exploration
-  - Age_of_Discovery
-  - Age of Discovery
+- Abad Penjelajahan Samudra
+- Aevum Explorationis
+- Age of Discovery
+- Age of Exploration
+- Age_of_Discovery
+- Beýik geografik açyşlar
+- Buyuk geografik kashfiyotlar
+- Coğrafi keşifler
+- Coğrafi kəşflər
+- Didieji geografiniai atradimai
+- doba odkritij
+- Epoko de Malkovroj
+- era de l'exploració
+- Era de los descubrimientos
+- Era di Deskubrimentu
+- Era dos Descobrimentos
+- era dos descubrimentos
+- Esplorazioen Aroa
+- Età delle scoperte geografiche
+- Eté dles descurides
+- Grandas descobèrtas
+- grandes découvertes
+- Grandés découvertes
+- Grann dékouvèrt
+- Gwo dekouvèt
+- Hoat-kiàn sî-tāi
+- Iej a Diskovri
+- Landafundatímabilið
+- Lielie ģeogrāfiskie atklājumi
+- löytöretkien aika
+- Nagy földrajzi felfedezések
+- Oes y Darganfod
+- Opdagelsestiden
+- Oppdagelsestiden
+- Oppdagingstida
+- Panahon han Pandidiskubre
+- Panahon kan Pagdiskobre
+- Panahon ng Pagtuklas
+- perioada marilor descoperiri
+- Ré na Fionnachtana
+- Suured maadeavastused
+- Thời đại khám phá
+- tijdperk van de grote ontdekkingen
+- Ulı geografïyalıq aşılwlar
+- upptäcktsresornas epok
+- Velika geografska otkrića
+- Věk zámořských objevů
+- Wielkie odkrycia geograficzne
+- Zaman Penjelajahan
+- Zbulimet e medha gjeografike
+- Zeitalter der Entdeckungen
+- Zámorské objavy
+- Εποχή των Ανακαλύψεων
+- Велика географска открића
+- Велики географски открития
+- Великие географические открытия
+- Вялікія геаграфічныя адкрыцці
+- Вялікія геаграфічныя адкрыцьці
+- Газар зүйн их нээлт
+- Географири аслӑ тӗпчевсем
+- Географиялык улуу ачылыштар
+- Големите географски откритија
+- Доба великих географічних відкриттів
+- Доба открића
+- Кафшиёти бузурги ҷуғрофиёӣ
+- Сийлахь-Даккхий географин белламаш
+- Ұлы географиялық ашылулар
+- Աշխարհագրական մեծ հայտնագործություններ
+- עידן התגליות
+- جوغرافی کشفلر
+- د اکتشاف دوره
+- دریافتاں دا دور
+- دریافتوں کا دور
+- عصر الاستكشاف
+- عصر الاكتشاف
+- عصر کاوش
+- ۇلى گەوگرافىييالىق اشىلۋلار
+- खोज का युग
+- लुइकेगु युग
+- शोध युग
+- আবিষ্কারের যুগ
+- ਲੱਭਤ ਯੁੱਗ
+- கண்டுபிடிப்புக் காலம்
+- കണ്ടുപിടുത്തങ്ങളുടെ യുഗം
+- ยุคแห่งการสำรวจ
+- ကမ္ဘာ့ခြေဆန့်ခေတ်
+- დიდი გეოგრაფიული აღმოჩენები
+- 地理大发现
+- 地理大發現
+- 大航海時代
+- 대항해시대
 has_id_wikidata: Q133641
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~age,17522177]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~age,17522177]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Age%20of%20Discovery%20Banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Gwo%20dekouv%C3%A8t.wav
 Commons_category: Age of Discovery
@@ -37,8 +124,118 @@ Krugosvet_article_archived_: istoriya/VELIKIE_GEOGRAFICHESKIE_OTKRITIYA_I_KOLONI
 end_time: 1800-01-01T00:00:00Z
 start_time: 1500-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doncker%20sea%20atlas%20world%20map.jpg
+dv_has_:
+  name_:
+    ar: عصر الاستكشاف
+    arz: عصر الاكتشاف
+    ast: Era de los descubrimientos
+    az: Coğrafi kəşflər
+    azb: جوغرافی کشفلر
+    bcl: Panahon kan Pagdiskobre
+    be: Вялікія геаграфічныя адкрыцці
+    be-tarask: Вялікія геаграфічныя адкрыцьці
+    bg: Велики географски открития
+    bn: আবিষ্কারের যুগ
+    bs: Velika geografska otkrića
+    ca: era de l'exploració
+    ce: Сийлахь-Даккхий географин белламаш
+    cs: Věk zámořských objevů
+    cv: Географири аслӑ тӗпчевсем
+    cy: Oes y Darganfod
+    da: Opdagelsestiden
+    de: Zeitalter der Entdeckungen
+    de-ch: Zeitalter der Entdeckungen
+    el: Εποχή των Ανακαλύψεων
+    en: Age of Discovery
+    en-ca: Age of Discovery
+    en-gb: Age of Discovery
+    eo: Epoko de Malkovroj
+    es: Era de los descubrimientos
+    et: Suured maadeavastused
+    eu: Esplorazioen Aroa
+    fa: عصر کاوش
+    fi: löytöretkien aika
+    fr: grandes découvertes
+    ga: Ré na Fionnachtana
+    gcr: Grann dékouvèrt
+    gl: era dos descubrimentos
+    ha: Age of Discovery
+    he: עידן התגליות
+    hi: खोज का युग
+    hr: Velika geografska otkrića
+    ht: Gwo dekouvèt
+    hu: Nagy földrajzi felfedezések
+    hy: Աշխարհագրական մեծ հայտնագործություններ
+    id: Abad Penjelajahan Samudra
+    is: Landafundatímabilið
+    it: Età delle scoperte geografiche
+    ja: 大航海時代
+    jam: Iej a Diskovri
+    ka: დიდი გეოგრაფიული აღმოჩენები
+    kk: Ұлы географиялық ашылулар
+    kk-arab: ۇلى گەوگرافىييالىق اشىلۋلار
+    kk-cn: ۇلى گەوگرافىييالىق اشىلۋلار
+    kk-cyrl: Ұлы географиялық ашылулар
+    kk-kz: Ұлы географиялық ашылулар
+    kk-latn: Ulı geografïyalıq aşılwlar
+    kk-tr: Ulı geografïyalıq aşılwlar
+    ko: 대항해시대
+    ky: Географиялык улуу ачылыштар
+    la: Aevum Explorationis
+    lld: Eté dles descurides
+    lt: Didieji geografiniai atradimai
+    lv: Lielie ģeogrāfiskie atklājumi
+    mk: Големите географски откритија
+    ml: കണ്ടുപിടുത്തങ്ങളുടെ യുഗം
+    mn: Газар зүйн их нээлт
+    mr: शोध युग
+    ms: Zaman Penjelajahan
+    my: ကမ္ဘာ့ခြေဆန့်ခေတ်
+    nan: Hoat-kiàn sî-tāi
+    nb: Oppdagelsestiden
+    new: लुइकेगु युग
+    nl: tijdperk van de grote ontdekkingen
+    nn: Oppdagingstida
+    oc: Grandas descobèrtas
+    pa: ਲੱਭਤ ਯੁੱਗ
+    pap: Era di Deskubrimentu
+    pcd: Grandés découvertes
+    pl: Wielkie odkrycia geograficzne
+    pnb: دریافتاں دا دور
+    ps: د اکتشاف دوره
+    pt: Era dos Descobrimentos
+    pt-br: Era dos Descobrimentos
+    ro: perioada marilor descoperiri
+    ru: Великие географические открытия
+    sh: Velika geografska otkrića
+    sk: Zámorské objavy
+    sl: doba odkritij
+    sq: Zbulimet e medha gjeografike
+    sr: Доба открића
+    sr-ec: Велика географска открића
+    sr-el: Velika geografska otkrića
+    sv: upptäcktsresornas epok
+    ta: கண்டுபிடிப்புக் காலம்
+    tg: Кафшиёти бузурги ҷуғрофиёӣ
+    th: ยุคแห่งการสำรวจ
+    tk: Beýik geografik açyşlar
+    tl: Panahon ng Pagtuklas
+    tr: Coğrafi keşifler
+    uk: Доба великих географічних відкриттів
+    ur: دریافتوں کا دور
+    uz: Buyuk geografik kashfiyotlar
+    vi: Thời đại khám phá
+    war: Panahon han Pandidiskubre
+    wuu: 地理大发现
+    yue: 大航海時代
+    zh: 地理大发现
+    zh-cn: 地理大发现
+    zh-hans: 地理大发现
+    zh-hant: 地理大發現
+    zh-hk: 地理大發現
+    zh-sg: 地理大发现
+    zh-tw: 地理大發現
 ---
-
 # [[Age_of_Discovery]] 
 
 #is_/same_as :: [[../../WikiData/WD~Age_of_Discovery,133641]] 

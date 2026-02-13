@@ -1,54 +1,64 @@
 ---
-has_time_started: 1973-12-31 
+has_time_started: 1973-12-31
 aliases:
-  - AC/DC
-  - AC-DC
+- AC-DC
+- AC/DC
+- Ей Си/Ди Си
+- ئەی سی/دی سی
+- ايه سى / دى سى
+- ایسی/دیسی
+- एसि/डिसी
+- एसी/डीसी
+- ਏ.ਸੀ./ਡੀ.ਸੀ.
+- એસી/ડીસી
+- എസി/ഡിസി
+- เอซี/ดีซี
 has_id_wikidata: Q27593
 TikTok_username: acdc
 Giphy_username: acdc
 Facebook_username: acdc
 Instagram_username: acdc
 X_Twitter_username:
-  - acdc
-  - AC_DC
+- acdc
+- AC_DC
 stylized_name: ACϟDC
 Wolfram_Language_entity_code: Entity["MusicAct", "ACDC::j5n2w"]
 official_name: AC/DC
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~classic_rock,56351111]]"
-  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
 named_after:
-  - "[[_Standards/WikiData/WD~alternating_current,124164]]"
-  - "[[_Standards/WikiData/WD~direct_current,159241]]"
-award_received: "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
+- '[[_Standards/WikiData/WD~alternating_current,124164]]'
+- '[[_Standards/WikiData/WD~direct_current,159241]]'
+award_received: '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Island_Records,190585]]"
-  - "[[_Standards/WikiData/WD~Geffen_Records,212699]]"
-  - "[[_Standards/WikiData/WD~Epic_Records,216364]]"
-  - "[[_Standards/WikiData/WD~Interscope_Records,231694]]"
-  - "[[_Standards/WikiData/WD~Hollywood_Records,387539]]"
-  - "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
-  - "[[_Standards/WikiData/WD~Universal_Music_Group,38903]]"
-instance_of: "[[_Standards/WikiData/WD~musical_group,215380]]"
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Island_Records,190585]]'
+- '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
+- '[[_Standards/WikiData/WD~Epic_Records,216364]]'
+- '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
+- '[[_Standards/WikiData/WD~Hollywood_Records,387539]]'
+- '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+- '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
+instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Brian_Johnson,295948]]"
-  - "[[_Standards/WikiData/WD~Cliff_Williams,318694]]"
-  - "[[_Standards/WikiData/WD~Chris_Chaney,598026]]"
-  - "[[_Standards/WikiData/WD~Stevie_Young,1319593]]"
-  - "[[_Standards/WikiData/WD~Matt_Laug,1756558]]"
-  - "[[_Standards/WikiData/WD~Angus_Young,43932]]"
-influenced_by: "[[_Standards/WikiData/WD~Airbourne,408139]]"
-discography: "[[_Standards/WikiData/WD~AC_DC_discography,430476]]"
-has_list: "[[_Standards/WikiData/WD~list_of_band_members_of_AC_DC,3044863]]"
-different_from: "[[_Standards/WikiData/WD~AC_DC_receiver_design,4650474]]"
-archives_at: "[[_Standards/WikiData/WD~Australian_Performing_Arts_Collection,7168281]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_AC_DC,7219634]]"
-described_by_source: "[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426]]"
-country_of_origin: "[[_Standards/WikiData/WD~Australia,408]]"
-location_of_formation: "[[_Standards/WikiData/WD~Sydney,3130]]"
+- '[[_Standards/WikiData/WD~Brian_Johnson,295948]]'
+- '[[_Standards/WikiData/WD~Cliff_Williams,318694]]'
+- '[[_Standards/WikiData/WD~Chris_Chaney,598026]]'
+- '[[_Standards/WikiData/WD~Stevie_Young,1319593]]'
+- '[[_Standards/WikiData/WD~Matt_Laug,1756558]]'
+- '[[_Standards/WikiData/WD~Angus_Young,43932]]'
+influenced_by: '[[_Standards/WikiData/WD~Airbourne,408139]]'
+discography: '[[_Standards/WikiData/WD~AC_DC_discography,430476]]'
+has_list: '[[_Standards/WikiData/WD~list_of_band_members_of_AC_DC,3044863]]'
+different_from: '[[_Standards/WikiData/WD~AC_DC_receiver_design,4650474]]'
+archives_at: '[[_Standards/WikiData/WD~Australian_Performing_Arts_Collection,7168281]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_AC_DC,7219634]]'
+described_by_source: '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc_(Swedish),101089426]]'
+country_of_origin: '[[_Standards/WikiData/WD~Australia,408]]'
+location_of_formation: '[[_Standards/WikiData/WD~Sydney,3130]]'
 social_media_followers: 10900000
 Commons_gallery: AC/DC
 Commons_category: AC/DC
@@ -60,8 +70,107 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20ACDC.svg
 official_website: https://acdc.com
 official_shop_URL: https://shop.acdc.com/
 ISNI: 000000012271298X
+dv_has_:
+  name_:
+    af: AC/DC
+    ar: AC/DC
+    arz: ايه سى / دى سى
+    ast: AC/DC
+    az: AC/DC
+    azb: ایسی/دیسی
+    bar: AC/DC
+    be: AC/DC
+    be-tarask: AC/DC
+    bg: Ей Си/Ди Си
+    br: AC/DC
+    bs: AC/DC
+    ca: AC/DC
+    ckb: ئەی سی/دی سی
+    co: AC/DC
+    cs: AC/DC
+    cy: AC/DC
+    da: AC/DC
+    de: AC/DC
+    diq: AC/DC
+    el: AC/DC
+    eml: AC/DC
+    en: AC/DC
+    en-ca: AC/DC
+    en-gb: AC/DC
+    en-us: AC/DC
+    eo: AC/DC
+    es: AC/DC
+    et: AC/DC
+    eu: AC/DC
+    fa: ایسی/دیسی
+    fi: AC/DC
+    fr: AC/DC
+    fy: AC/DC
+    ga: AC/DC
+    gl: AC/DC
+    gu: એસી/ડીસી
+    he: AC/DC
+    hi: एसी/डीसी
+    hr: AC/DC
+    hu: AC/DC
+    hy: AC/DC
+    id: AC/DC
+    io: AC/DC
+    is: AC/DC
+    it: AC/DC
+    ja: AC/DC
+    ka: AC/DC
+    kk: AC/DC
+    ko: AC/DC
+    la: AC/DC
+    lb: AC/DC
+    lmo: AC/DC
+    lt: AC/DC
+    lv: AC/DC
+    mg: AC/DC
+    mk: AC/DC
+    ml: എസി/ഡിസി
+    mn: AC/DC
+    ms: AC/DC
+    mul: AC/DC
+    nah: AC/DC
+    nb: AC/DC
+    nds: AC/DC
+    nds-nl: AC/DC
+    ne: एसी/डीसी
+    new: एसि/डिसी
+    nl: AC/DC
+    nn: AC/DC
+    oc: AC/DC
+    pa: ਏ.ਸੀ./ਡੀ.ਸੀ.
+    pl: AC/DC
+    pt: AC/DC
+    pt-br: AC/DC
+    qu: AC/DC
+    ro: AC/DC
+    ru: AC/DC
+    sah: AC/DC
+    scn: AC/DC
+    sco: AC/DC
+    sh: AC/DC
+    sk: AC/DC
+    sl: AC/DC
+    sq: AC/DC
+    sr: AC/DC
+    sv: AC/DC
+    szl: AC/DC
+    th: เอซี/ดีซี
+    tr: AC/DC
+    uk: AC/DC
+    uz: AC/DC
+    vi: AC/DC
+    vls: AC/DC
+    wuu: AC/DC
+    xmf: AC/DC
+    yue: AC/DC
+    zh: AC/DC
+    zh-hk: AC/DC
 ---
-
 # [[AC-DC]]
 
 

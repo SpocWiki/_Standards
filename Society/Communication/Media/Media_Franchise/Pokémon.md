@@ -1,41 +1,83 @@
 ---
 aliases:
+- musi Pokemon
+- Pocket Monsters
+- Pokemon
+- Pokemoni
+- Pokemono
+- Pokémon
+- Pokémon-Franchise
+- Пакемон
+- Покемон
+- Покемони
+- Պոկեմոն
+- פאקעמאן
+- פוקימון
+- بوكيمون
+- يانچۇق ئالۋاستى
+- پوكيمون
+- پوکمون
+- پوکیمون
+- پۆکیمۆن
+- पॉकेमॉन
+- पोकेमोन
+- পোকেমন
+- ਪੋਕੀਮਾੱਨ
+- ପୋକେମୋନ
+- பொகெமொன்
+- పోకిమాన్
+- പോകിമോൻ
+- โปเกมอน
+- ໂປເກມອນ
+- ပိုကီမွန်
+- პოკემონი
+- ፖከሞን
+- ᏉᎨᎼᏂ
+- ポケットモンスター
+- 宝可梦系列
+- 寵物小精靈
+- 寶可夢
+- 寶可夢系列
+- 神奇宝贝
+- 精灵宝可梦
+- 袋魔
+- 포켓몬스터
 has_id_wikidata: Q864
 subreddit:
-  - pokememes
-  - pokemonaww
-  - pokemonbattles
-  - pokemontrades
-  - pokeporn
-  - pokemon
+- pokememes
+- pokemonaww
+- pokemonbattles
+- pokemontrades
+- pokeporn
+- pokemon
 Facebook_username: Pokemon.Official.HongKong
 Baidu_Tieba_name:
-  - 口袋妖怪
-  - 宠物小精灵
-  - 精灵宝可梦
-  - 神奇宝贝
-instance_of: "[[_Standards/WikiData/WD~media_franchise,196600]]"
+- 口袋妖怪
+- 宠物小精灵
+- 精灵宝可梦
+- 神奇宝贝
+instance_of: '[[_Standards/WikiData/WD~media_franchise,196600]]'
 list_of_characters:
-  - "[[_Standards/WikiData/WD~list_of_Pokémon_species,236209]]"
-  - "[[_Standards/WikiData/WD~list_of_Pokémon_characters,379199]]"
-founded_by: "[[_Standards/WikiData/WD~Satoshi_Tajiri,295218]]"
+- '[[_Standards/WikiData/WD~list_of_Pokémon_species,236209]]'
+- '[[_Standards/WikiData/WD~list_of_Pokémon_characters,379199]]'
+founded_by: '[[_Standards/WikiData/WD~Satoshi_Tajiri,295218]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Pokémon_Trading_Card_Game,1056309]]"
-  - "[[_Standards/WikiData/WD~Pokémon_video_games,1079748]]"
-  - "[[_Standards/WikiData/WD~Pokémon_manga,2883474]]"
-  - "[[_Standards/WikiData/WD~Pokémon,97138261]]"
-owned_by: "[[_Standards/WikiData/WD~The_Pokémon_Company,1156046]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Pokémon,6707206]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Pokémon,8485851]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Pokémon,10445733]]"
-takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Pokémon_universe,17562848]]"
-narrative_location: "[[_Standards/WikiData/WD~Pokémon_world,97051215]]"
-different_from: "[[_Standards/WikiData/WD~Q97375341,97375341]]"
-soundtrack_release: "[[_Standards/WikiData/WD~Pokémon_25_The_Album,110125577]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
+- '[[_Standards/WikiData/WD~Pokémon_Trading_Card_Game,1056309]]'
+- '[[_Standards/WikiData/WD~Pokémon_video_games,1079748]]'
+- '[[_Standards/WikiData/WD~Pokémon_manga,2883474]]'
+- '[[_Standards/WikiData/WD~Pokémon,97138261]]'
+owned_by: '[[_Standards/WikiData/WD~The_Pokémon_Company,1156046]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pokémon,6707206]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Pokémon,8485851]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pokémon,10445733]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Pokémon_universe,17562848]]'
+narrative_location: '[[_Standards/WikiData/WD~Pokémon_world,97051215]]'
+different_from: '[[_Standards/WikiData/WD~Q97375341,97375341]]'
+soundtrack_release: '[[_Standards/WikiData/WD~Pokémon_25_The_Album,110125577]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 social_media_followers:
-  - 6400000
-  - 7703721
+- 6400000
+- 7703721
 Twitch_username: Pokemon
 hashtag: Pokemon
 X_Twitter_username: Pokemon
@@ -53,15 +95,155 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20P
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Pok%C3%A9mon.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kanto%20and%20Johto%20map%2C%20Pokemon%20banner.jpg
 official_website:
-  - http://www.pokemon.co.jp/
-  - http://www.pokemon.com/fr/
-  - http://www.pokemon.com/it/
-  - http://www.pokemon.com/us
-  - https://www.pokemon.com/es/
+- http://www.pokemon.co.jp/
+- http://www.pokemon.com/fr/
+- http://www.pokemon.com/it/
+- http://www.pokemon.com/us
+- https://www.pokemon.com/es/
 Stack_Exchange_tag: https://anime.stackexchange.com/tags/pokemon
-Bilibili_UID: "1038290200"
+Bilibili_UID: 1038290200
+dv_has_:
+  name_:
+    af: Pokémon
+    am: ፖከሞን
+    ar: بوكيمون
+    arq: پوكيمون
+    ast: Pokémon
+    az: Pokemon
+    ba: покемон
+    ban: Pokemon
+    bar: Pokemon
+    be: Пакемон
+    be-tarask: пакемон
+    bew: Pokémon
+    bg: Покемон
+    bho: पॉकेमॉन
+    bn: পোকেমন
+    br: Pokémon
+    bs: Pokémon
+    ca: Pokémon
+    cbk-zam: Pokémon
+    ce: Покемон
+    ceb: Pokémon
+    chr: ᏉᎨᎼᏂ
+    ckb: پۆکیمۆن
+    cs: Pokémon
+    cy: Pokémon
+    da: Pokémon
+    de: Pokémon-Franchise
+    de-ch: Pokémon
+    diq: Pokemon
+    el: Pokémon
+    en: Pokémon
+    en-ca: Pokémon
+    en-gb: Pokémon
+    eo: Pokemono
+    es: Pokémon
+    et: Pokémon
+    eu: Pokémon
+    ext: Pokémon
+    fa: پوکمون
+    fi: Pokémon
+    fr: Pokémon
+    frp: Pokémon
+    fur: Pokémon
+    fy: Pokémon
+    ga: Pokémon
+    gl: Pokémon
+    gsw: Pokemon
+    hak: Pocket Monsters
+    haw: Pokémon
+    he: פוקימון
+    hi: पॉकेमॉन
+    hif: Pokemon
+    hr: Pokémon
+    hu: Pokémon
+    hy: Պոկեմոն
+    ia: Pokémon
+    id: Pokémon
+    io: Pokémon
+    is: Pokémon
+    it: Pokémon
+    iu: Pokémon
+    ja: ポケットモンスター
+    jv: Pokemon
+    ka: პოკემონი
+    kk: Покемон
+    ko: 포켓몬스터
+    ks: پوکیمون
+    ku: Pokémon
+    ky: Покемон
+    la: Pokémon
+    lb: Pokémon
+    lld: Pokémon
+    lmo: Pokémon
+    ln: Pokemon
+    lo: ໂປເກມອນ
+    lt: Pokemon
+    lv: Pokemoni
+    lzh: 袋魔
+    mk: Покемон
+    ml: പോകിമോൻ
+    mn: Покемон
+    mr: पॉकेमॉन
+    mrj: Покемон
+    ms: Pokémon
+    mul: Pokémon
+    nah: Pokémon
+    nan: Pokémon
+    nb: Pokémon
+    ne: पोकेमोन
+    new: पोकेमोन
+    nl: Pokémon
+    nn: Pokémon
+    oc: Pokémon
+    or: ପୋକେମୋନ
+    pa: ਪੋਕੀਮਾੱਨ
+    pcd: Pokémon
+    pl: Pokémon
+    pnb: پوکیمون
+    pt: Pokémon
+    pt-br: Pokémon
+    rki: ပိုကီမွန်
+    ro: Pokémon
+    ru: Покемон
+    sah: Pokémon
+    scn: Pokémon
+    sco: Pokémon
+    sd: Pokémon
+    sh: Pokémon
+    sk: Pokémon
+    sl: Pokémon
+    so: Pokemon
+    sq: Pokémon
+    sr: Покемони
+    su: Pokemon
+    sv: Pokémon
+    szl: Pokémon
+    ta: பொகெமொன்
+    te: పోకిమాన్
+    th: โปเกมอน
+    tl: Pokémon
+    tok: musi Pokemon
+    tr: Pokémon
+    ug: يانچۇق ئالۋاستى
+    uk: Покемон
+    ur: پوکیمون
+    uz: Pokémon
+    vi: Pokémon
+    wuu: 寶可夢
+    yi: פאקעמאן
+    yue: 寵物小精靈
+    zh: 寶可夢系列
+    zh-cn: 宝可梦系列
+    zh-hans: 精灵宝可梦
+    zh-hant: 寶可夢系列
+    zh-hk: 寶可夢
+    zh-mo: 寵物小精靈
+    zh-my: 神奇宝贝
+    zh-sg: 神奇宝贝
+    zh-tw: 寶可夢系列
 ---
-
 # [[Pokémon]] 
 
 #is_/same_as :: [[WD~Pokémon,864]] 

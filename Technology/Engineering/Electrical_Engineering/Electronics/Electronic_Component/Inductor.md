@@ -1,19 +1,217 @@
 ---
-aliases: 
+aliases:
+- anwythydd
+- bobin
+- bobine d'inductance
+- cewka
+- cievka
+- cuộn cảm
+- cívka
+- Drossel
+- elektrisk spole
+- električna zavojnica
+- haril
+- indaakterii
+- indaktor
+- inductor
+- inductorium
+- indukcijska tuljava
+- indukcinė ritė
+- indukciós tekercs
+- induktiivpool
+- induktilo
+- induktivitātes spole
+- induktivlik gʻaltagi
+- induktivlik çarxı
+- induktor
+- induktori
+- induktoro
+- indutor
+- induttor
+- induttore
+- indüktör
+- i̇nduktiv maqara
+- kela
+- kidukizi
+- peraruh
+- pinchikilla kurur
+- prigušnica
+- ruccheddu
+- spanspóla
+- spoel
+- spole
+- Spoulen
+- Spule
+- Spuul
+- xiirtalukaay
+- zavojnica
+- înduktor
+- πηνίο
+- бобина
+- индуктивлăх туплашки
+- индуктивлык кәтүге
+- индуктивностин туьппалг
+- индуктор
+- индукцийн ороомог
+- индукция кәтүге
+- катушка индуктивности
+- котушка індуктивності
+- пригушница
+- шабакаи индуктивӣ
+- шпуля індуктыўнасці
+- шпуля індуктыўнасьці
+- ինդուկտոր
+- אינדוקטאר
+- סליל השראה
+- أندوكتور
+- القاگر
+- امالہ گر
+- انڈکٹر
+- انڊڪٽر
+- ایلقاچی
+- محث
+- इन्डक्टर
+- प्रेरक
+- विद्युतप्रवर्तक
+- আবেশক
+- আৱেশক
+- ਇੰਡਕਟਰ
+- மின்தூண்டி
+- ప్రేరకం
+- ഇൻഡക്റ്റർ
+- ප් රේරණය පිළිබඳ දළ විශ්ලේෂණය
+- ตัวเหนี่ยวนำ
+- ኢንዳክተር
+- インダクタ
+- 电感元件
+- 電感器
+- 유도기
 Commons_category: Inductors
 Commons_gallery: Inductor
 different_from: '[[_Standards/WikiData/WD~helical_object,25629903]]'
 has_characteristic: '[[_Standards/WikiData/WD~inductance,177897]]'
 has_id_wikidata: Q5325
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electronic%20component%20inductors.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%95.wav"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Electronic%20component%20inductors.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%95.wav
 subclass_of:
 - '[[_Standards/WikiData/WD~electromagnet,178032]]'
 - '[[_Standards/WikiData/WD~electrical_element,210729]]'
 - '[[_Standards/WikiData/WD~one-port_circuit,233003]]'
 - '[[_Standards/WikiData/WD~electronic_component,11653]]'
+dv_has_:
+  name_:
+    af: induktor
+    am: ኢንዳክተር
+    an: inductor
+    ar: محث
+    ary: أندوكتور
+    as: আৱেশক
+    ast: inductor
+    az: induktivlik çarxı
+    azb: ایلقاچی
+    ba: индукция кәтүге
+    be: шпуля індуктыўнасці
+    be-tarask: шпуля індуктыўнасьці
+    bg: бобина
+    bn: আবেশক
+    bs: zavojnica
+    ca: inductor
+    ce: индуктивностин туьппалг
+    crh: i̇nduktiv maqara
+    cs: cívka
+    cv: индуктивлăх туплашки
+    cy: anwythydd
+    da: elektrisk spole
+    de: Drossel
+    el: πηνίο
+    en: inductor
+    eo: induktilo
+    es: inductor
+    et: induktiivpool
+    eu: haril
+    fa: القاگر
+    fi: kela
+    fr: bobine d'inductance
+    frr: Spuul
+    gl: indutor
+    gsw: Spule
+    he: סליל השראה
+    hi: प्रेरक
+    hif: inductor
+    hr: električna zavojnica
+    ht: bobin
+    hu: indukciós tekercs
+    hy: ինդուկտոր
+    ia: inductor
+    id: induktor
+    io: induktoro
+    is: spanspóla
+    it: induttore
+    ja: インダクタ
+    jv: induktor
+    kk: индуктор
+    ko: 유도기
+    ku: înduktor
+    ky: индуктор
+    la: inductorium
+    lmo: induttor
+    lt: indukcinė ritė
+    lv: induktivitātes spole
+    mk: пригушница
+    ml: ഇൻഡക്റ്റർ
+    mn: индукцийн ороомог
+    mr: विद्युतप्रवर्तक
+    ms: peraruh
+    my: inductor
+    nb: spole
+    nds: Drossel
+    ne: इन्डक्टर
+    new: इन्डक्टर
+    nl: spoel
+    nn: spole
+    oc: inductor
+    om: indaakterii
+    pa: ਇੰਡਕਟਰ
+    pl: cewka
+    pms: indutor
+    pnb: انڈکٹر
+    pt: indutor
+    qu: pinchikilla kurur
+    ro: inductor
+    ru: катушка индуктивности
+    scn: ruccheddu
+    sco: inductor
+    sd: انڊڪٽر
+    sh: Induktor
+    si: ප් රේරණය පිළිබඳ දළ විශ්ලේෂණය
+    sk: cievka
+    sl: indukcijska tuljava
+    sq: induktori
+    sr: пригушница
+    sr-ec: пригушница
+    sr-el: prigušnica
+    stq: Spoulen
+    sv: induktor
+    sw: kidukizi
+    ta: மின்தூண்டி
+    te: ప్రేరకం
+    tg: шабакаи индуктивӣ
+    th: ตัวเหนี่ยวนำ
+    tl: indaktor
+    tr: indüktör
+    tt: индуктивлык кәтүге
+    udm: индуктор
+    uk: котушка індуктивності
+    ur: امالہ گر
+    uz: induktivlik gʻaltagi
+    vi: cuộn cảm
+    war: inductor
+    wo: xiirtalukaay
+    wuu: 电感元件
+    yi: אינדוקטאר
+    yue: 電感器
+    zh: 电感元件
 ---
-
 # [[Inductor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Inductor,5325|WD~Inductor,5325]] 

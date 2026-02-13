@@ -1,14 +1,85 @@
 ---
 aliases:
-  - Rechte
-  - Rights
+- cearta
+- derechos
+- dereitos
+- deriti
+- direitos
+- diritti
+- drepturi
+- drets
+- droits et libertés
+- Dwa ak libète yo
+- eskubide
+- Guòng-lé
+- gwirioù
+- hak
+- Haq
+- hawliau
+- Haƙƙoƙi
+- huqıqlar
+- jedd
+- jogok
+- Karapatan
+- Likokí (makoki)
+- Maf
+- oikeudet
+- prava
+- pravice
+- prawa
+- prawo podmiotowe
+- práva
+- quyền lợi
+- rajtoj
+- Rechte
+- rechten
+- regte
+- rett
+- rettighed
+- rettighet
+- Rights
+- rättighet
+- teisės
+- tiesības
+- të drejtat
+- vuoigatvuođat
+- vuoigâdvuođah
+- vuõiggâdvuõđ
+- õigused
+- δικαίωμα
+- права
+- право
+- хаклар
+- құқық
+- ҳақ
+- իրավունք
+- זכות
+- רעכט
+- حق
+- حقوق
+- ماف
+- अधिकार
+- हक्क
+- অধিকার
+- অধিকাৰ
+- ਹੱਕ
+- உரிமை
+- ಹಕ್ಕುಗಳು
+- สิทธิ
+- ပြည်သူ့ အခွင့်အရေး
+- ⴰⵣⵔⴼ
+- 权利
+- 権利
+- 權利
+- 自由
+- 권리
 has_id_wikidata: Q780687
 subclass_of: '[[_Standards/WikiData/WD~agreement,321839]]'
 opposite_of: '[[_Standards/WikiData/WD~duty,878070]]'
 based_on: '[[_Standards/WikiData/WD~righteousness,1144825]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~legal_relationship,1367590]]'
-  - '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+- '[[_Standards/WikiData/WD~legal_relationship,1367590]]'
+- '[[_Standards/WikiData/WD~legal_concept,2135465]]'
 studied_by: '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_rights,7112717]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Rights,13385916]]'
@@ -17,8 +88,104 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/HumanRightsLogo.svg
 Commons_category: Rights
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Spotless%20Mind1988-droits%20et%20libert%C3%A9s.wav
 equivalent_property: http://purl.org/dc/terms/rights
+dv_has_:
+  name_:
+    af: regte
+    ar: حق
+    arz: حقوق
+    as: অধিকাৰ
+    ast: Derechos
+    azb: حق
+    be: права
+    be-tarask: права
+    bg: права
+    bn: অধিকার
+    br: gwirioù
+    ca: drets
+    cdo: Guòng-lé
+    ckb: ماف
+    cs: práva
+    cy: hawliau
+    da: rettighed
+    de: Rechte
+    el: δικαίωμα
+    en: rights
+    eo: rajtoj
+    es: derechos
+    et: õigused
+    eu: eskubide
+    fa: حق
+    fi: oikeudet
+    fr: droits et libertés
+    ga: cearta
+    gl: dereitos
+    ha: Haƙƙoƙi
+    he: זכות
+    hi: अधिकार
+    hr: prava
+    hsb: prawa
+    ht: Dwa ak libète yo
+    hu: jogok
+    hy: իրավունք
+    id: hak
+    it: diritti
+    ja: 権利
+    kaa: huqıqlar
+    kk: құқық
+    kn: ಹಕ್ಕುಗಳು
+    ko: 권리
+    ku: Maf
+    ln: Likokí (makoki)
+    lt: teisės
+    lv: tiesības
+    lzh: 自由
+    mai: अधिकार
+    mk: права
+    mr: हक्क
+    ms: hak
+    ms-arab: حق
+    mt: jedd
+    my: ပြည်သူ့ အခွင့်အရေး
+    nb: rettighet
+    ne: अधिकार
+    new: अधिकार
+    nl: rechten
+    nn: rett
+    pa: ਹੱਕ
+    pl: prawo podmiotowe
+    pt: direitos
+    pt-br: direitos
+    ro: drepturi
+    ru: право
+    se: vuoigatvuođat
+    sl: pravice
+    smn: vuoigâdvuođah
+    sms: vuõiggâdvuõđ
+    sq: të drejtat
+    sr: право
+    sv: rättighet
+    ta: உரிமை
+    tg: ҳақ
+    th: สิทธิ
+    tl: Karapatan
+    tr: hak
+    tt: хаклар
+    uk: право
+    ur: حقوق
+    uz: Haq
+    vec: deriti
+    vi: quyền lợi
+    wuu: 權利
+    yi: רעכט
+    yue: 權利
+    zgh: ⴰⵣⵔⴼ
+    zh: 權利
+    zh-cn: 权利
+    zh-hans: 权利
+    zh-hant: 權利
+    zh-hk: 權利
+    zh-tw: 權利
 ---
-
 # [[Rights]] 
 
 #is_/same_as :: [[../../WikiData/WD~Rights,780687|WD~Rights,780687]] 

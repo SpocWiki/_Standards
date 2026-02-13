@@ -1,7 +1,46 @@
 ---
 aliases:
-  - Ericales
-  - 杜鹃花目
+- bộ Âu thạch nam
+- Ericales
+- Ericals
+- Erikalea
+- Erikaloj
+- Erikaçiçəklilər
+- Erikiečiai
+- hangavirágúak
+- Heideagtiges
+- Heidekrautartige
+- Kanarbikulaadsed
+- Koma gezik, çay û çûxan
+- Ljungordningen
+- Lyng-ordenen
+- Lyngbálkur
+- lyngordenen
+- viršu rinda
+- Vresolike
+- vresovci
+- vresovcotvaré
+- vrjesolike
+- vřesovcotvaré
+- wrzosowce
+- Ερεικώδη
+- Верасакветныя
+- Верескоцветные
+- Вересоцвіті
+- вресовидни
+- пиреноцветни
+- հավամրգածաղկավորներ
+- אברשאים
+- خلنجيات
+- خلنگسانان
+- एरिकेलीज़
+- ఎరికేలిస్
+- എറിക്കേൽസ്
+- อันดับกุหลาบป่า
+- ツツジ目
+- 杜鵑花目
+- 杜鹃花目
+- 진달래목
 has_id_wikidata: Q21737
 title: Ericales
 parent_taxon: '[[_Standards/WikiData/WD~asterids,747502]]'
@@ -14,8 +53,95 @@ taxon_name: Ericales
 EPPO_Code: 1ERIO
 NBN_System_Key: NHMSYS0021060388
 taxon_common_name: 杜鹃花目
+dv_has_:
+  name_:
+    af: Heideagtiges
+    an: Ericales
+    ar: خلنجيات
+    arz: خلنجيات
+    ast: Ericales
+    az: Erikaçiçəklilər
+    be: Верасакветныя
+    be-tarask: верасакветныя
+    bg: пиреноцветни
+    bs: Ericales
+    ca: Ericals
+    ceb: Ericales
+    co: Ericales
+    cs: vřesovcotvaré
+    da: Lyng-ordenen
+    de: Heidekrautartige
+    el: Ερεικώδη
+    en: Ericales
+    en-ca: Ericales
+    en-gb: Ericales
+    eo: Erikaloj
+    es: Ericales
+    et: Kanarbikulaadsed
+    eu: Erikalea
+    ext: Ericales
+    fa: خلنگسانان
+    fi: Ericales
+    fr: Ericales
+    frr: Ericales
+    ga: Ericales
+    gl: Ericales
+    he: אברשאים
+    hi: एरिकेलीज़
+    hr: vrjesolike
+    hu: hangavirágúak
+    hy: հավամրգածաղկավորներ
+    ia: Ericales
+    id: Ericales
+    ie: Ericales
+    ilo: Ericales
+    io: Ericales
+    is: Lyngbálkur
+    it: Ericales
+    ja: ツツジ目
+    jv: Ericales
+    ko: 진달래목
+    ku: Koma gezik, çay û çûxan
+    ku-latn: Ericales
+    la: Ericales
+    lt: Erikiečiai
+    lv: viršu rinda
+    mk: вресовидни
+    ml: എറിക്കേൽസ്
+    ms: Ericales
+    mul: Ericales
+    nb: Ericales
+    nl: Ericales
+    nn: lyngordenen
+    oc: Ericales
+    pl: wrzosowce
+    pt: Ericales
+    pt-br: Ericales
+    ro: Ericales
+    ru: Верескоцветные
+    sco: Ericales
+    sh: Ericales
+    sk: vresovcotvaré
+    sl: vresovci
+    sq: Ericales
+    sr: Vresolike
+    sv: Ljungordningen
+    te: ఎరికేలిస్
+    th: อันดับกุหลาบป่า
+    tl: Ericales
+    tr: Ericales
+    uk: Вересоцвіті
+    vi: bộ Âu thạch nam
+    vo: Ericales
+    war: Ericales
+    wuu: 杜鹃花目
+    yue: 杜鵑花目
+    zh: 杜鹃花目
+    zh-cn: 杜鹃花目
+    zh-hans: 杜鹃花目
+    zh-hant: 杜鹃花目
+    zh-tw: 杜鹃花目
 ---
-
 # [[Ericales]] 
 
 ![Erica_vagans](Ericales/Erica_vagans.jpg)  ![Primula_patens](Ericales/Primulaceae/Primula_patens.jpg)  ![Sarracenia_alabamensis](Ericales/Sarracenia_alabamensis.jpg) 

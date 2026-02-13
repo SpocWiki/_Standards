@@ -1,17 +1,66 @@
 ---
 aliases:
-  - electron-volt
-  - electron volt
-  - electronvolt
-  - Electronvolt
+- electron volt
+- electron-volt
+- electronvolt
+- electronvoltio
+- electronvoltium
+- electró-volt
+- electrón-volt
+- electrón-voltiu
+- elekronvolt
+- elektron volt
+- elektron-volt
+- elektronboltahe
+- Elektronenvolt
+- elektronivoltti
+- elektronowolt
+- elektronvolt
+- elektronvoltas
+- Elektronvolti
+- elektronvolto
+- elektronvolts
+- elektronvolttâ
+- elektrónvolt
+- eletronvòlt
+- eletrão-volt
+- elettron-volt
+- elettronvolt
+- elétron-volt
+- leictreonvolta
+- rafeindarvolt
+- électronvolt
+- ηλεκτρονιοβόλτ
+- електронволт
+- електронвольт
+- электронвольт
+- Էլեկտրոն-վոլտ
+- אלקטרון וולט
+- إلكترون فولت
+- ئەلێکتڕۆن ڤۆڵت
+- الکترون ولت
+- الکترونولت
+- الیکٹرون وولٹ
+- इलेक्ट्रॉन वोल्ट
+- इलेक्ट्रॉनव्होल्ट
+- ইলেকট্রন-ভোল্ট
+- ઈલેક્ટ્રોન વોલ્ટ
+- இலத்திரன்வோல்ட்
+- อิเล็กตรอนโวลต์
+- གློག་རྡུལ་ཝོལ།
+- ელექტრონვოლტი
+- 电子伏特
+- 電子ボルト
+- 電子伏特
+- 전자볼트
 has_id_wikidata: Q83327
 instance_of:
-  - '[[_Standards/WikiData/WD~physical_constant,173227]]'
-  - '[[_Standards/WikiData/WD~unit_of_energy,2916980]]'
-  - '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-  - '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-  - '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~unit_of_energy,2916980]]'
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 conversion_to_SI_unit: 1.602176634e-19
 numeric_value: 1.602176634e-19
@@ -22,19 +71,109 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A8-%E0%A6%AD%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%9F.wav
 Wolfram_Language_unit_code: '"Electronvolts"'
 IEV_number:
-  - 113-03-47
-  - 881-04-12
+- 113-03-47
+- 881-04-12
 UCUM_code: eV
 Wikidata_SPARQL_query_equivalent: wd:Q83327 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 unit_symbol:
-  - eV
-  - eV
-  - eV
-  - эВ
-  - эВ
+- eV
+- eV
+- eV
+- эВ
+- эВ
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi><mi>V</mi></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: elektronvolt
+    an: electronvolt
+    ar: إلكترون فولت
+    ast: electrón-voltiu
+    az: elektron volt
+    azb: الکترون ولت
+    bar: Elektronenvolt
+    be: электронвольт
+    be-tarask: электронвольт
+    bg: електронволт
+    bn: ইলেকট্রন-ভোল্ট
+    bo: གློག་རྡུལ་ཝོལ།
+    br: elektron-volt
+    bs: elektronvolt
+    ca: electró-volt
+    ckb: ئەلێکتڕۆن ڤۆڵت
+    cs: elektronvolt
+    cv: Электронвольт
+    da: elektronvolt
+    de: Elektronenvolt
+    el: ηλεκτρονιοβόλτ
+    en: electronvolt
+    en-ca: Electronvolt
+    en-gb: electronvolt
+    eo: elektronvolto
+    es: electronvoltio
+    et: elektronvolt
+    eu: elektronvolt
+    fa: الکترونولت
+    fi: elektronivoltti
+    fr: électronvolt
+    frr: elektronenvolt
+    ga: leictreonvolta
+    gl: electrón-volt
+    gu: ઈલેક્ટ્રોન વોલ્ટ
+    he: אלקטרון וולט
+    hi: इलेक्ट्रॉन वोल्ट
+    hr: elektronvolt
+    hu: elektronvolt
+    hy: Էլեկտրոն-վոլտ
+    id: elektronvolt
+    ilo: elektronboltahe
+    is: rafeindarvolt
+    it: elettronvolt
+    ja: 電子ボルト
+    ka: ელექტრონვოლტი
+    kk: электронвольт
+    ko: 전자볼트
+    la: electronvoltium
+    li: elektronvolt
+    lij: elettron-volt
+    lt: elektronvoltas
+    lv: elektronvolts
+    mk: електронволт
+    mr: इलेक्ट्रॉनव्होल्ट
+    ms: elektronvolt
+    mt: elekronvolt
+    nb: elektronvolt
+    nds: Elektronvolt
+    nl: elektronvolt
+    nn: elektronvolt
+    oc: electronvolt
+    pl: elektronowolt
+    pms: eletronvòlt
+    pnb: الیکٹرون وولٹ
+    pt: eletrão-volt
+    pt-br: elétron-volt
+    ro: electronvolt
+    ru: электронвольт
+    scn: elettronvolt
+    sco: electronvolt
+    sh: elektronvolt
+    sk: elektrónvolt
+    sl: elektronvolt
+    smn: elektronvolttâ
+    sq: Elektronvolti
+    sr: електронволт
+    sr-ec: електронволт
+    sv: elektronvolt
+    ta: இலத்திரன்வோல்ட்
+    th: อิเล็กตรอนโวลต์
+    tr: elektronvolt
+    uk: електронвольт
+    ur: الیکٹرون وولٹ
+    uz: elektronvolt
+    vi: electronvolt
+    wuu: 电子伏特
+    yue: 電子伏特
+    zh: 電子伏特
 ---
-
 # [[Electronvolt]] 
 
 #is_/same_as :: [[../../WikiData/WD~Electronvolt,83327|WD~Electronvolt,83327]] 

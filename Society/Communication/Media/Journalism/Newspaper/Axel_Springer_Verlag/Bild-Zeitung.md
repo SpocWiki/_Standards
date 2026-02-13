@@ -1,8 +1,70 @@
 ---
 aliases:
-  - BILD
-  - Bild-Zeitung
+- BILD
+- Bild-Zeitung
+- Die Bild
+- Билд
+- Бильд
+- בילד
+- بيلد
+- بیلد تسایتونگ
+- ビルト
+- 图片报
+- 圖片報
+- 빌트
 has_id_wikidata: Q156203
+dv_has_:
+  name_:
+    an: Bild
+    ar: بيلد
+    arz: بيلد
+    az: Bild
+    be-tarask: Bild
+    bg: Билд
+    ca: Bild
+    cs: Bild
+    da: Bild-Zeitung
+    de: Bild
+    el: Bild
+    en: Bild
+    eo: Bild
+    es: Bild
+    et: Bild
+    eu: Bild
+    fa: بیلد تسایتونگ
+    fi: Bild
+    fr: Bild
+    ga: Bild
+    he: בילד
+    hr: Bild
+    hu: Bild
+    id: Bild
+    is: Bild-Zeitung
+    it: Bild
+    ja: ビルト
+    ko: 빌트
+    mul: Bild
+    nb: Bild
+    nl: Bild
+    pl: Bild
+    pt: Bild
+    qu: Bild
+    ro: Bild
+    roa-tara: Die Bild
+    ru: Бильд
+    scn: Bild
+    sl: Bild
+    sv: Bild
+    tg: Bild
+    tr: Bild-Zeitung
+    uk: Bild
+    zh: 图片报
+    zh-cn: 图片报
+    zh-hans: 图片报
+    zh-hant: 圖片報
+    zh-hk: 圖片報
+    zh-sg: 图片报
+    zh-tw: 圖片報
 ---
 ## #has_/text_of_/abstract 
 

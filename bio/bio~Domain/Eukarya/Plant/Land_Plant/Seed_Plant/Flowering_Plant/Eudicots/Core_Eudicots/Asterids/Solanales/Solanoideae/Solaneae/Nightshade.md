@@ -1,62 +1,72 @@
 ---
 aliases:
-  - Naachtskaad
-  - סולנום
-  - Wrónidło
-  - csucsor
-  - Մորմ
-  - ナス属
-  - ძაღლყურძენა
-  - Алқа өсімдік
-  - Kiauliauogė
-  - സൊളാനം
-  - Søtvierslekten
-  - Søtvierslekta
-  - Куыдзы бага
-  - psianka
-  - Papa rikch'ana
-  - ľuľok
-  - razhudnik
-  - Potatissläktet
-  - தக்காளி பேரினம்
-  - సొలానమ్
-  - สกุลมะเขือ
-  - Polohauaiʻi
-  - Паслен ыругы
-  - Паслін
-  - Chi Cà
-  - 茄属
-  - 茄屬
-  - 茄属
-  - skattor
-  - Nachtschade
-  - بادنجان
-  - nightshade
-  - Nachtschatten
-  - Паслён
-  - lilek
-  - Эт ҡарағаты һымаҡтар
-  - Nightshades
-  - Ronica
-  - Зрнец
-  - مغد
-  - Quşüzümü
-  - Паслён
-  - Natskygge
-  - Solano
-  - Maavits
-  - Koisot
-  - Morelle
-  - Nightshade
+- Alqa ösimdik
+- Chi Cà
+- csucsor
+- Ierdappelplanten
+- Ituzum
+- Kiauliauogė
+- Koisot
+- lilek
+- Maavits
+- Morelle
+- Naachtskaad
+- Nachtschade
+- Nachtschatten
+- Naktenes
+- Natskygge
+- nightshade
+- Nightshades
+- Noachtskaade
+- Papa rikch'ana
+- Polohauaiʻi
+- Potatissläktet
+- psianka
+- Quşüzümü
+- razhudnik
+- Ronica
+- skattor
+- Solano
+- Solanum
+- Søtvierslekta
+- Søtvierslekten
+- Tuccanin (tawsit)
+- Wrónidło
+- ľuľok
+- Σολάνο
+- Алқа өсімдік
+- Зрнец
+- Йытçырли
+- кучешко грозде
+- Куыдзы бага
+- Паслён
+- Паслін
+- Паслен ыругы
+- Эт ҡарағаты һымаҡтар
+- Մորմ
+- סולנום
+- القا وسىمدىك
+- بادنجان
+- قوشوزومو
+- مغد
+- தக்காளி பேரினம்
+- సొలానమ్
+- സൊളാനം
+- สกุลมะเขือ
+- ძაღლყურძენა
+- ナス属
+- 茄属
+- 茄屬
+- 가지속
 has_id_wikidata: Q146555
 taxonomic_type: '[[_Standards/WikiData/WD~Solanum_nigrum,146400]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~Solanum_alkaloids,2298266]]'
-  - '[[_Standards/WikiData/WD~Bush_tomato,5001454]]'
+- '[[_Standards/WikiData/WD~Solanum_alkaloids,2298266]]'
+- '[[_Standards/WikiData/WD~Bush_tomato,5001454]]'
 parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 start_time: -55000000-01-01T00:00:00Z
 has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
@@ -71,8 +81,143 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=11264
 EPPO_Code: 1SOLG
 MeSH_tree_code: B01.875.800.575.912.250.908.500.725
 NBN_System_Key: NHMSYS0000463743
+dv_has_:
+  name_:
+    af: Solanum
+    an: Solanum
+    ar: مغد
+    arz: مغد
+    ast: Solanum
+    az: Quşüzümü
+    azb: قوشوزومو
+    ba: Эт ҡарағаты һымаҡтар
+    bar: Solanum
+    be: паслён
+    bg: кучешко грозде
+    br: Solanum
+    ca: Solanum
+    ceb: Solanum
+    co: Solanum
+    cs: lilek
+    cv: Йытçырли
+    cy: Solanum
+    da: natskygge
+    de: Nachtschatten
+    de-at: Solanum
+    de-ch: Solanum
+    diq: Solanum
+    dsb: Ronica
+    el: Σολάνο
+    en: Solanum
+    en-ca: Solanum
+    en-gb: Solanum
+    eo: Solano
+    es: Solanum
+    et: Maavits
+    eu: Solanum
+    ext: Solanum
+    fa: بادنجان
+    fi: koisot
+    fr: Solanum
+    frp: Solanum
+    frr: Naachtskaad
+    fur: Solanum
+    fy: Ierdappelplanten
+    ga: Solanum
+    gd: Solanum
+    gl: Solanum
+    gsw: Solanum
+    he: סולנום
+    hr: Solanum
+    hsb: Wrónidło
+    hu: csucsor
+    hy: մորմ
+    ia: Solanum
+    id: Solanum
+    ie: Solanum
+    ilo: Solanum
+    io: Solanum
+    is: Solanum
+    it: Solanum
+    ja: ナス属
+    ka: ძაღლყურძენა
+    kab: Tuccanin (tawsit)
+    kg: Solanum
+    kk: Алқа өсімдік
+    kk-arab: القا وسىمدىك
+    kk-cn: القا وسىمدىك
+    kk-cyrl: Алқа өсімдік
+    kk-kz: Алқа өсімдік
+    kk-latn: Alqa ösimdik
+    kk-tr: Alqa ösimdik
+    ko: 가지속
+    la: Solanum
+    lb: Solanum
+    li: Solanum
+    lij: Solanum
+    lt: kiauliauogė
+    lv: Naktenes
+    mg: Solanum
+    mi: Solanum
+    min: Solanum
+    ml: സൊളാനം
+    ms: Solanum
+    mul: Solanum
+    nap: Solanum
+    nb: søtvierslekten
+    nds: Solanum
+    nds-nl: Solanum
+    nl: nachtschade
+    nn: søtvierslekta
+    nrm: Solanum
+    oc: Solanum
+    os: Куыдзы бага
+    pcd: Solanum
+    pl: psianka
+    pms: Solanum
+    pt: Solanum
+    pt-br: Solanum
+    qu: Papa rikch'ana
+    rm: Solanum
+    ro: Solanum
+    ru: паслён
+    sc: Solanum
+    scn: Solanum
+    sco: Solanum
+    sk: ľuľok
+    sl: razhudnik
+    sq: Solanum
+    sr: Solanum
+    sr-el: Solanum
+    stq: Noachtskaade
+    sv: skattor
+    sw: Solanum
+    ta: தக்காளி பேரினம்
+    te: సొలానమ్
+    th: สกุลมะเขือ
+    to: Polohauaiʻi
+    tr: Solanum
+    tt: Паслен ыругы
+    uk: паслін
+    uz: Ituzum
+    vec: Solanum
+    vi: Chi Cà
+    vls: Solanum
+    vo: Solanum
+    wa: Solanum
+    war: Solanum
+    wo: Solanum
+    wuu: 茄属
+    yue: 茄屬
+    zh: 茄属
+    zh-cn: 茄属
+    zh-hans: 茄属
+    zh-hant: 茄屬
+    zh-hk: 茄屬
+    zh-sg: 茄属
+    zh-tw: 茄屬
+    zu: Solanum
 ---
-
 # [[Nightshade]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Solanum,146555]] 

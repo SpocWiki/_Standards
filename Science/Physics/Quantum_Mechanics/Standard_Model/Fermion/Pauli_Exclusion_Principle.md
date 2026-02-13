@@ -1,8 +1,78 @@
 ---
 aliases:
-  - 'Pauli exclusion principle (German: Pauli-Ausschlussprinzip'
-  - Pauli_Exclusion_Principle
-  - Pauli Exclusion Principle
+- Asas larangan Pauli
+- Exkluzo-principo di Pauli
+- Kanuni ya Pauli
+- nguyên lý loại trừ Pauli
+- Parimi i përjashtimit i Paulit
+- Pauli bók-siŏng-ṳ̀ng nguòng-lī
+- Pauli bô-chò-hoé goân-lí
+- Pauli dışlama ilkesi
+- Pauli Exclusion Principle
+- 'Pauli exclusion principle (German: Pauli-Ausschlussprinzip'
+- Pauli istisno prinsipi
+- Pauli princips
+- Pauli printsiip
+- Pauli-elv
+- Pauli-Prinzip
+- Pauliho vylučovací princip
+- Pauliho vylučovací princíp
+- Paulijev princip
+- Paulijev princip isključenja
+- Paulijevo izključitveno načelo
+- Paulin kieltosääntö
+- Paulio draudimo principas
+- Pauliren bazterketa printzipioa
+- Paulis eksklusjonsprinsipp
+- Paulis udelukkelsesprincip
+- Paulis uteslutningsprincip
+- Pauli_Exclusion_Principle
+- principe d'exclusion de Pauli
+- Principi d'exclusion de Pauli
+- Principi d'exclusió de Pauli
+- Principio de exclusión de Pauli
+- principio di esclusione di Pauli
+- Principiu d'esclusión de Pauli
+- Principiul de excluziune
+- Principium exclusionis Pauli
+- principo de ekskludo
+- Princípio de exclusão de Pauli
+- Prinsip pengecualian Pauli
+- Prinsipi d'esclusion ëd Pauli
+- Prionsabal eisiaimh Pauli
+- reguła Pauliego
+- Uitsluitingsbeginsel van Pauli
+- Uitsluitingsprincipe van Pauli
+- Απαγορευτική αρχή του Πάουλι
+- Паули мәсләге
+- Паули принцип
+- Паули хасах зарчим
+- Паулијев принцип
+- Паулиево начело
+- Паулилэн инъетэз
+- Принцип виключення Паулі
+- Принцип на Паули
+- Принцип Паули
+- Прынцып Паўлі
+- Պաուլիի սկզբունք
+- עקרון האיסור של פאולי
+- اصل طرد پائولی
+- مبدأ استبعاد باولي
+- پالی اصول
+- पाउली अपवर्जन नियम
+- পাউলির অপবর্জন নীতি
+- পাউলিৰ নিষেধ নীতি
+- પાઉલીનો અપવર્જનનો નિયમ
+- பவுலி தவிர்ப்புத் தத்துவம்
+- അപവർജന നിയമം
+- หลักการกีดกันของเพาลี
+- პაულის პრინციპი
+- パウリの排他原理
+- 包立不相容原理
+- 泡利不相容原理
+- 泡利弗相容原理
+- 鮑利不相容原理
+- 파울리 배타 원리
 has_id_wikidata: Q131594
 named_after: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Wolfgang_Pauli,65989]]'
@@ -10,8 +80,93 @@ subclass_of: '[[_Standards/WikiData/WD~principle_of_identity,4378893]]'
 instance_of: '[[_Standards/WikiData/WD~education_theory,5341232]]'
 facet_of: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PauliExclusionPrinciple"]
+dv_has_:
+  name_:
+    af: Uitsluitingsbeginsel van Pauli
+    ar: مبدأ استبعاد باولي
+    as: পাউলিৰ নিষেধ নীতি
+    ast: Principiu d'esclusión de Pauli
+    be: Прынцып Паўлі
+    be-tarask: прынцып Паўлі
+    bg: Принцип на Паули
+    bn: পাউলির অপবর্জন নীতি
+    bs: Paulijev princip isključenja
+    ca: Principi d'exclusió de Pauli
+    cdo: Pauli bók-siŏng-ṳ̀ng nguòng-lī
+    cs: Pauliho vylučovací princip
+    da: Paulis udelukkelsesprincip
+    de: Pauli-Prinzip
+    el: Απαγορευτική αρχή του Πάουλι
+    en: Pauli exclusion principle
+    eo: principo de ekskludo
+    es: Principio de exclusión de Pauli
+    et: Pauli printsiip
+    eu: Pauliren bazterketa printzipioa
+    fa: اصل طرد پائولی
+    fi: Paulin kieltosääntö
+    fr: principe d'exclusion de Pauli
+    ga: Prionsabal eisiaimh Pauli
+    gl: Principio de exclusión de Pauli
+    gu: પાઉલીનો અપવર્જનનો નિયમ
+    he: עקרון האיסור של פאולי
+    hi: पाउली अपवर्जन नियम
+    hr: Paulijev princip isključenja
+    hu: Pauli-elv
+    hy: Պաուլիի սկզբունք
+    id: Asas larangan Pauli
+    io: Exkluzo-principo di Pauli
+    it: principio di esclusione di Pauli
+    ja: パウリの排他原理
+    ka: პაულის პრინციპი
+    kk: Паули принцип
+    ko: 파울리 배타 원리
+    la: Principium exclusionis Pauli
+    lt: Paulio draudimo principas
+    lv: Pauli princips
+    lzh: 泡利不相容原理
+    mk: Паулиево начело
+    ml: അപവർജന നിയമം
+    mn: Паули хасах зарчим
+    ms: Prinsip pengecualian Pauli
+    nan: Pauli bô-chò-hoé goân-lí
+    nb: Paulis eksklusjonsprinsipp
+    nl: Uitsluitingsprincipe van Pauli
+    nn: Paulis eksklusjonsprinsipp
+    oc: Principi d'exclusion de Pauli
+    pl: reguła Pauliego
+    pms: Prinsipi d'esclusion ëd Pauli
+    pnb: پالی اصول
+    pt: Princípio de exclusão de Pauli
+    ro: Principiul de excluziune
+    ru: Принцип Паули
+    sco: Pauli exclusion principle
+    sh: Paulijev princip isključenja
+    sk: Pauliho vylučovací princíp
+    sl: Paulijevo izključitveno načelo
+    sq: Parimi i përjashtimit i Paulit
+    sr: Паулијев принцип
+    sr-ec: Паулијев принцип
+    sr-el: Paulijev princip
+    sv: Paulis uteslutningsprincip
+    sw: Kanuni ya Pauli
+    ta: பவுலி தவிர்ப்புத் தத்துவம்
+    th: หลักการกีดกันของเพาลี
+    tr: Pauli dışlama ilkesi
+    tt: Паули мәсләге
+    udm: Паулилэн инъетэз
+    uk: Принцип виключення Паулі
+    uz: Pauli istisno prinsipi
+    vi: nguyên lý loại trừ Pauli
+    wuu: 泡利弗相容原理
+    yue: 鮑利不相容原理
+    zh: 泡利不相容原理
+    zh-cn: 泡利不相容原理
+    zh-hans: 泡利不相容原理
+    zh-hant: 包立不相容原理
+    zh-hk: 包立不相容原理
+    zh-sg: 泡利不相容原理
+    zh-tw: 包立不相容原理
 ---
-
 # [[Pauli_Exclusion_Principle]] 
 
 #is_/same_as :: [[WD~Pauli_exclusion_principle,131594]] 

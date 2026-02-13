@@ -1,26 +1,203 @@
 ---
 aliases:
-  - Erfahrung
-  - Experience
+- doświadczenie
+- Eksperyans
+- Erfahrung
+- erfarenhet
+- erfaring
+- Erfarung
+- ervaring
+- Esperiencia
+- Esperiensa
+- Esperientzia (filosofia)
+- esperienza
+- esperiènsa
+- esperjenza
+- Experience
+- experiencia
+- Experienco
+- Experientia
+- experiență
+- experiència
+- experiência
+- expérience
+- gingniemh
+- Iskustvo
+- izkušnja
+- Karanasan
+- Keng-giām
+- Kogemus
+- kokemus
+- Lefɛdɛ anɛ azō
+- Osuahunu
+- patirtis
+- Pengalaman
+- pieredze
+- Përvoja
+- Reynsla
+- Skúsenosť
+- sperto
+- Spirènzia
+- suahunu
+- Tajriba
+- tapasztalat
+- Tecrübe
+- trải nghiệm
+- Təcrübə
+- Ubungcweti
+- Underfining
+- zkušenost
+- Εμπειρία
+- вопытныя веды
+- досвід
+- досьвед
+- искуство
+- опит
+- опытное знание
+- Таҷруба
+- Туршлага
+- Тәжірибе
+- тәҗрибә
+- Эмпирика
+- Փորձ
+- איבערלעבונג
+- חוויה
+- ئەزموون
+- تجربه
+- خبرة
+- ڤڠالمن
+- अनुभव
+- অভিজ্ঞতা
+- ਤਜਰਬਾ
+- அனுபவம்
+- అనుభవం
+- ಅನುಭವ
+- പരിചയം
+- ประสบการณ์
+- 経験
+- 經驗
+- 经验
+- 경험
 has_id_wikidata: Q164359
 different_from:
-  - '[[_Standards/WikiData/WD~Experience,124452]]'
-  - '[[_Standards/WikiData/WD~Esperientzia,20491707]]'
+- '[[_Standards/WikiData/WD~Experience,124452]]'
+- '[[_Standards/WikiData/WD~Esperientzia,20491707]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~property,937228]]'
-  - '[[_Standards/WikiData/WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~knowledge,9081]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~quality,1207505]]'
-  - '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+- '[[_Standards/WikiData/WD~quality,1207505]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
 has_cause: '[[_Standards/WikiData/WD~hands_on_learning,11327083]]'
 described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 opposite_of: '[[_Standards/WikiData/WD~inexperience,108816154]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~knowledge,9081]]'
-  - '[[_Standards/WikiData/WD~understanding,46744]]'
+- '[[_Standards/WikiData/WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~understanding,46744]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ornette%20at%20The%20Forum%201982.jpg
+dv_has_:
+  name_:
+    ak: suahunu
+    ar: خبرة
+    ast: Esperiencia
+    az: Təcrübə
+    be: вопытныя веды
+    be-tarask: досьвед
+    bg: опит
+    bn: অভিজ্ঞতা
+    bs: Iskustvo
+    ca: experiència
+    ckb: ئەزموون
+    cs: zkušenost
+    cv: Эмпирика
+    da: erfaring
+    de: Erfahrung
+    de-at: Erfahrung
+    de-ch: Erfahrung
+    el: Εμπειρία
+    en: experience
+    eo: sperto
+    es: experiencia
+    et: Kogemus
+    eu: Esperientzia (filosofia)
+    fa: تجربه
+    fi: kokemus
+    fr: expérience
+    fy: Underfining
+    gl: experiencia
+    he: חוויה
+    hi: अनुभव
+    hr: Iskustvo
+    ht: Eksperyans
+    hu: tapasztalat
+    hy: Փորձ
+    id: Pengalaman
+    io: Experienco
+    is: Reynsla
+    it: esperienza
+    ja: 経験
+    kk: Тәжірибе
+    kn: ಅನುಭವ
+    ko: 경험
+    la: Experientia
+    lb: Erfarung
+    li: Ervaring
+    lt: patirtis
+    lv: pieredze
+    mk: искуство
+    ml: പരിചയം
+    mn: Туршлага
+    mr: अनुभव
+    ms: Pengalaman
+    ms-arab: ڤڠالمن
+    mt: esperjenza
+    nan: Keng-giām
+    nb: erfaring
+    new: अनुभव
+    nl: ervaring
+    pa: ਤਜਰਬਾ
+    pl: doświadczenie
+    pms: Esperiensa
+    ps: تجربه
+    pt: experiência
+    ro: experiență
+    ru: опытное знание
+    scn: Spirènzia
+    sco: experience
+    sh: Iskustvo
+    sk: Skúsenosť
+    sl: izkušnja
+    sq: Përvoja
+    sr: искуство
+    sr-ec: Искуство
+    sr-el: Iskustvo
+    sv: erfarenhet
+    ta: அனுபவம்
+    te: అనుభవం
+    tg: Таҷруба
+    th: ประสบการณ์
+    tl: Karanasan
+    tr: Tecrübe
+    tt: тәҗрибә
+    tw: Osuahunu
+    uk: досвід
+    uz: Tajriba
+    vec: esperiènsa
+    vi: trải nghiệm
+    wuu: 经验
+    ybb: Lefɛdɛ anɛ azō
+    yi: איבערלעבונג
+    yue: 經驗
+    za: gingniemh
+    zh: 經驗
+    zh-cn: 经验
+    zh-hans: 经验
+    zh-hant: 經驗
+    zh-hk: 經驗
+    zh-sg: 经验
+    zh-tw: 經驗
+    zu: Ubungcweti
 ---
-
 # [[Experience]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Experience,164359|WD~Experience,164359]] 

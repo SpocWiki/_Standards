@@ -1,51 +1,166 @@
 ---
 aliases:
+- Aetherrete
+- Eternet
+- Eterreto
+- Ethernet
+- Íðnet
+- Етернет
+- Желілік технологиялар
+- Էթերնեթ
+- אתרנט
+- إيثرنت
+- ئیتەرنێت
+- اترنت
+- اثیرجال
+- اېترنټ
+- ईथरनेट
+- ইথারনেট
+- ਈਥਰਨੈੱਟ
+- ઇથરનેટ
+- ஈதர்நெட்
+- ఈథర్నెట్
+- ಎತರ್ನೆಟ್
+- ഈതെർനെറ്റ്
+- อีเทอร์เน็ต
+- イーサネット
+- 乙太網
+- 乙太網路
+- 以太网
+- 이더넷
 has_id_wikidata: Q79984
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Robert_Metcalfe,92766]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Metcalfe,92766]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~node,173106]]"
-  - "[[_Standards/WikiData/WD~Category_5_cable,925780]]"
-  - "[[_Standards/WikiData/WD~Category_6_cable,2111479]]"
-  - "[[_Standards/WikiData/WD~Category_7_cable,3009674]]"
-  - "[[_Standards/WikiData/WD~Category_8_cable,6007183]]"
-  - "[[_Standards/WikiData/WD~network_switch,4503]]"
-uses: "[[_Standards/WikiData/WD~twisted_pair_cable,192808]]"
-replaces: "[[_Standards/WikiData/WD~token_ring,207971]]"
+- '[[_Standards/WikiData/WD~node,173106]]'
+- '[[_Standards/WikiData/WD~Category_5_cable,925780]]'
+- '[[_Standards/WikiData/WD~Category_6_cable,2111479]]'
+- '[[_Standards/WikiData/WD~Category_7_cable,3009674]]'
+- '[[_Standards/WikiData/WD~Category_8_cable,6007183]]'
+- '[[_Standards/WikiData/WD~network_switch,4503]]'
+uses: '[[_Standards/WikiData/WD~twisted_pair_cable,192808]]'
+replaces: '[[_Standards/WikiData/WD~token_ring,207971]]'
 named_after:
-  - "[[_Standards/WikiData/WD~luminiferous_aether,208702]]"
-  - "[[_Standards/WikiData/WD~computer_network,1301371]]"
+- '[[_Standards/WikiData/WD~luminiferous_aether,208702]]'
+- '[[_Standards/WikiData/WD~computer_network,1301371]]'
 different_from:
-  - "[[_Standards/WikiData/WD~wireless_LAN,212607]]"
-  - "[[_Standards/WikiData/WD~Wi_Fi,29643]]"
-replaced_by: "[[_Standards/WikiData/WD~wireless_LAN,212607]]"
+- '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
+- '[[_Standards/WikiData/WD~Wi_Fi,29643]]'
+replaced_by: '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~technical_standard,317623]]"
-  - "[[_Standards/WikiData/WD~communications_media,340169]]"
-  - "[[_Standards/WikiData/WD~de_facto_standard,385853]]"
-complies_with: "[[_Standards/WikiData/WD~IEEE_802.3,570951]]"
-described_by_source: "[[_Standards/WikiData/WD~IEEE_802.3,570951]]"
+- '[[_Standards/WikiData/WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~de_facto_standard,385853]]'
+complies_with: '[[_Standards/WikiData/WD~IEEE_802.3,570951]]'
+described_by_source: '[[_Standards/WikiData/WD~IEEE_802.3,570951]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~power_over_Ethernet,831858]]"
-  - "[[_Standards/WikiData/WD~Point_to_point_protocol_over_Ethernet,866392]]"
+- '[[_Standards/WikiData/WD~power_over_Ethernet,831858]]'
+- '[[_Standards/WikiData/WD~Point_to_point_protocol_over_Ethernet,866392]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~computer_network,1301371]]"
-  - "[[_Standards/WikiData/WD~electrical_connector,2119531]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ethernet,14412065]]"
-OmegaWiki_Defined_Meaning: "6871"
+- '[[_Standards/WikiData/WD~computer_network,1301371]]'
+- '[[_Standards/WikiData/WD~electrical_connector,2119531]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ethernet,14412065]]'
+OmegaWiki_Defined_Meaning: 6871
 Commons_gallery: Ethernet
 Commons_category: Ethernet
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/RJ-45%20Ethernet%20socket%20on%20Lenovo%20T410%20Laptop%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Netgear%20Gigabit%20Switch%205-port.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20Connection.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20RJ45%20connector%20p1160054.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/RJ-45%20Ethernet%20socket%20on%20Lenovo%20T410%20Laptop%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Netgear%20Gigabit%20Switch%205-port.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20Connection.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20RJ45%20connector%20p1160054.jpg
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20pictogram%20left%20from%20the%20Ethernet%20socket%20on%20a%20Laptop.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20Port.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20pictogram%20left%20from%20the%20Ethernet%20socket%20on%20a%20Laptop.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ethernet%20Port.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/ethernet
 ArchWiki_article: Network_configuration/Ethernet
+dv_has_:
+  name_:
+    af: Ethernet
+    ar: إيثرنت
+    ast: Ethernet
+    az: Ethernet
+    be-tarask: Ethernet
+    bg: Етернет
+    bn: ইথারনেট
+    br: Ethernet
+    bs: Ethernet
+    ca: Ethernet
+    ckb: ئیتەرنێت
+    cs: Ethernet
+    da: Ethernet
+    de: Ethernet
+    el: Ethernet
+    en: Ethernet
+    eo: Eterreto
+    es: Ethernet
+    et: Ethernet
+    eu: Ethernet
+    fa: اترنت
+    fi: Ethernet
+    fr: Ethernet
+    ga: Ethernet
+    gl: Ethernet
+    gu: ઇથરનેટ
+    gv: Ethernet
+    he: אתרנט
+    hi: ईथरनेट
+    hr: Ethernet
+    hu: Ethernet
+    hy: Էթերնեթ
+    id: Eternet
+    is: Íðnet
+    it: Ethernet
+    ja: イーサネット
+    kk: Желілік технологиялар
+    kn: ಎತರ್ನೆಟ್
+    ko: 이더넷
+    ku: Ethernet
+    la: Aetherrete
+    lb: Ethernet
+    lmo: Ethernet
+    lv: Ethernet
+    mk: Етернет
+    ml: ഈതെർനെറ്റ്
+    mr: ईथरनेट
+    ms: Ethernet
+    mul: Ethernet
+    nb: Ethernet
+    nl: Ethernet
+    nn: Ethernet
+    oc: Ethernet
+    pa: ਈਥਰਨੈੱਟ
+    pl: Ethernet
+    ps: اېترنټ
+    pt: Ethernet
+    pt-br: Ethernet
+    ro: Ethernet
+    sco: Ethernet
+    sh: Ethernet
+    sk: Ethernet
+    sl: eternet
+    sq: Ethernet
+    sr: етернет
+    sv: Ethernet
+    ta: ஈதர்நெட்
+    te: ఈథర్నెట్
+    th: อีเทอร์เน็ต
+    tl: Ethernet
+    tr: Ethernet
+    tt: Ethernet
+    tt-cyrl: Ethernet
+    ur: اثیرجال
+    uz: Ethernet
+    vi: Ethernet
+    vro: Ethernet
+    wuu: 以太网
+    yi: Ethernet
+    yue: 乙太網
+    zh: 以太网
+    zh-cn: 以太网
+    zh-hans: 以太网
+    zh-hant: 乙太網路
+    zh-hk: 乙太網路
+    zh-tw: 乙太網路
 ---
-
 # [[Ethernet]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ethernet,79984|WD~Ethernet,79984]] 

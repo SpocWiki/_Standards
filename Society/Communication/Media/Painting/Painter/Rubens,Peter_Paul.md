@@ -1,23 +1,84 @@
 ---
 aliases:
-  - Peter Paul Rubens
-  - Rubens,Peter_Paul
-  - Rubens,Peter Paul
+- Bitrus Bulus Ruben
+- Bitut Bulut Ruben
+- Pedro Pablo Rubens
+- Peter Paul Rubens
+- Petro Paŭlo Rubens
+- Petrus Paulus Rubens
+- Pierre Paul Rubens
+- Pierro Paul Rubens
+- Pieter Paul Rubens
+- Pieter Pauwel Rubens
+- Piter Paul Rubens
+- Pitter Päul Rubens
+- Pièrre Paul Rubens
+- Pí-tet Lû-pún-sṳ̂
+- Pėterės Pauls Robensos
+- Pīters Pauls Rubenss
+- Rubens
+- Rubens Piter
+- Rubens Piter Pauel
+- Rubens,Peter Paul
+- Rubens,Peter_Paul
+- Rubensi Piitre Paul
+- Πέτερ Πάουλ Ρούμπενς
+- Пітер Пауль Рубенс
+- Пітэр Паўль Рубенс
+- Пітэр Паўль Рубэнс
+- Петер Паул Рубенс
+- Петр Паул Рубенс
+- Петр Пол Рубенс
+- Питер Пауль Рубенс
+- Питер Рубенс
+- Рубенс Питер Пауэл
+- Рубенс, Питер
+- Рубенс, Питер Пауль
+- Պիտեր Պաուլ Ռուբենս
+- Փիթըր Փոլ Ռուպընս
+- פטר פאול רובנס
+- פעטער פאל רובענס
+- بيتر بول روبنس
+- بيتر بول روبينس
+- رۇبىنىس
+- پتر پل روبنس
+- پیتر پائول روبنز
+- پیتەر پاول ڕوبنس
+- پیٹر پال روبنز
+- पिटर पल रुबेन्स
+- पीटर पाल रूबेंस
+- पीटर पॉल रुबेन्स
+- পিটার পল রুবেনস
+- পিটাৰ পল ৰুবেন্স
+- ਪੀਟਰ ਪਾਲ ਰੂਬੇਨਸ
+- பீட்டர் பவுல் ரூபென்ஸ்
+- പീറ്റർ പോൾ റൂബൻസ്
+- පීටර් පෝල් රූබන්ස්
+- เปเตอร์ เปาล์ รือเบินส์
+- ရူးဗင်၊ ပီတာပေါ
+- პეტერ პაულ რუბენსი
+- ፒተር ፓውል ሩበንስ
+- ᱨᱩᱵᱮᱱᱥ, ᱯᱤᱴᱟᱨ ᱯᱚᱣᱞ
+- ピーテル・パウル・ルーベンス
+- 彼得·保罗·鲁本斯
+- 彼得·保羅·魯本斯
+- 魯本斯
+- 페테르 파울 루벤스
 has_id_wikidata: Q5599
 artist_files_at:
-  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
-  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 BHCL_UUID: 3826b91c-8c5e-4537-93f5-7537e2e88599
 catalogue_raisonné:
-  - '[[_Standards/WikiData/WD~Corpus_Rubenianum_Ludwig_Burchard,18611048]]'
-  - '[[_Standards/WikiData/WD~Alle_tot_nu_toe_bekende_schilderijen_van_Rubens_(Vol._1),109302034]]'
-  - '[[_Standards/WikiData/WD~Alle_tot_nu_toe_bekende_schilderijen_van_Rubens_(Vol._2),109302049]]'
+- '[[_Standards/WikiData/WD~Corpus_Rubenianum_Ludwig_Burchard,18611048]]'
+- '[[_Standards/WikiData/WD~Alle_tot_nu_toe_bekende_schilderijen_van_Rubens_(Vol._1),109302034]]'
+- '[[_Standards/WikiData/WD~Alle_tot_nu_toe_bekende_schilderijen_van_Rubens_(Vol._2),109302049]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 child:
-  - '[[_Standards/WikiData/WD~Albert_Rubens,21543225]]'
-  - '[[_Standards/WikiData/WD~Nicolaas_Rubens,_Lord_of_Rameyen,28823471]]'
-  - '[[_Standards/WikiData/WD~Peter_Paul_Rubens_III,107466441]]'
-  - '[[_Standards/WikiData/WD~Claire_Rubens,108927255]]'
+- '[[_Standards/WikiData/WD~Albert_Rubens,21543225]]'
+- '[[_Standards/WikiData/WD~Nicolaas_Rubens,_Lord_of_Rameyen,28823471]]'
+- '[[_Standards/WikiData/WD~Peter_Paul_Rubens_III,107466441]]'
+- '[[_Standards/WikiData/WD~Claire_Rubens,108927255]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Peter%20Paul%20Rubens.svg
 Commons_category: Peter Paul Rubens
 Commons_Creator_page: Peter Paul Rubens
@@ -28,36 +89,36 @@ date_of_birth: 1577-07-08
 date_of_death: 1640-05-30
 depicted_by: '[[_Standards/WikiData/WD~Peter_Paul_Rubens,20176994]]'
 described_at_URL:
-  - http://www.rheinische-geschichte.lvr.de/Persoenlichkeiten/peter-paul-rubens/DE-2086/lido/57cd23a05df528.23093631
-  - https://barokinvlaanderen.vlaamsekunstcollectie.be/nl/kunstenaar/peter-paul-rubens
-  - https://kmska.be/nl/collectie/peter-paul-rubens
-  - https://wiki.zeitraum-siegen.de/menschen/peter_paul_rubens_1577-1640
+- http://www.rheinische-geschichte.lvr.de/Persoenlichkeiten/peter-paul-rubens/DE-2086/lido/57cd23a05df528.23093631
+- https://barokinvlaanderen.vlaamsekunstcollectie.be/nl/kunstenaar/peter-paul-rubens
+- https://kmska.be/nl/collectie/peter-paul-rubens
+- https://wiki.zeitraum-siegen.de/menschen/peter_paul_rubens_1577-1640
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Het_Gulden_Cabinet,2283753]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~The_Great_Theatre_of_Dutch_Painters,7737966]]'
-  - '[[_Standards/WikiData/WD~Teutsche_Academie_der_Edlen_Bau-_Bild-_und_Mahlerey-Künste,15089621]]'
-  - '[[_Standards/WikiData/WD~The_Lives_of_Dutch_painters_and_paintresses,15955936]]'
-  - '[[_Standards/WikiData/WD~Lives_of_Flemish,_German,_and_Dutch_painters,16169047]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Did_Rubens'_Delilah_have_Mondor's_disease_,38428823]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Q93096997,93096997]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Het_Gulden_Cabinet,2283753]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Great_Theatre_of_Dutch_Painters,7737966]]'
+- '[[_Standards/WikiData/WD~Teutsche_Academie_der_Edlen_Bau-_Bild-_und_Mahlerey-Künste,15089621]]'
+- '[[_Standards/WikiData/WD~The_Lives_of_Dutch_painters_and_paintresses,15955936]]'
+- '[[_Standards/WikiData/WD~Lives_of_Flemish,_German,_and_Dutch_painters,16169047]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Did_Rubens'_Delilah_have_Mondor's_disease_,38428823]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Q93096997,93096997]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Old_University_of_Leuven,693380]]'
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Old_University_of_Leuven,693380]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 employer:
-  - "[[_Standards/WikiData/WD~Marie_de'_Medici,182021]]"
-  - '[[_Standards/WikiData/WD~Albert_VII,_Archduke_of_Austria,311452]]'
-  - '[[_Standards/WikiData/WD~Vincenzo_Gonzaga,452580]]'
+- "[[_Standards/WikiData/WD~Marie_de'_Medici,182021]]"
+- '[[_Standards/WikiData/WD~Albert_VII,_Archduke_of_Austria,311452]]'
+- '[[_Standards/WikiData/WD~Vincenzo_Gonzaga,452580]]'
 Europeana_entity: agent/base/113189
 family: '[[_Standards/WikiData/WD~Rubens_family,30592340]]'
 family_name: '[[_Standards/WikiData/WD~Rubens,37470332]]'
@@ -65,365 +126,365 @@ father: '[[_Standards/WikiData/WD~Jan_Rubens,1682176]]'
 field_of_work: '[[_Standards/WikiData/WD~art_of_painting,11629]]'
 floruit: 1600
 genre:
-  - '[[_Standards/WikiData/WD~portrait,134307]]'
-  - '[[_Standards/WikiData/WD~landscape_painting,191163]]'
-  - '[[_Standards/WikiData/WD~history_painting,742333]]'
-  - '[[_Standards/WikiData/WD~genre_art,1047337]]'
-  - '[[_Standards/WikiData/WD~portrait_painting,1400853]]'
-  - '[[_Standards/WikiData/WD~religious_painting,2414609]]'
-  - '[[_Standards/WikiData/WD~religious_art,2864737]]'
-  - '[[_Standards/WikiData/WD~mythological_painting,3374376]]'
-  - '[[_Standards/WikiData/WD~animal_art,16875712]]'
-  - '[[_Standards/WikiData/WD~nude,40446]]'
+- '[[_Standards/WikiData/WD~portrait,134307]]'
+- '[[_Standards/WikiData/WD~landscape_painting,191163]]'
+- '[[_Standards/WikiData/WD~history_painting,742333]]'
+- '[[_Standards/WikiData/WD~genre_art,1047337]]'
+- '[[_Standards/WikiData/WD~portrait_painting,1400853]]'
+- '[[_Standards/WikiData/WD~religious_painting,2414609]]'
+- '[[_Standards/WikiData/WD~religious_art,2864737]]'
+- '[[_Standards/WikiData/WD~mythological_painting,3374376]]'
+- '[[_Standards/WikiData/WD~animal_art,16875712]]'
+- '[[_Standards/WikiData/WD~nude,40446]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Peter,2793400]]'
-  - '[[_Standards/WikiData/WD~Paul,4925623]]'
+- '[[_Standards/WikiData/WD~Peter,2793400]]'
+- '[[_Standards/WikiData/WD~Paul,4925623]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~São_Paulo_Museum_of_Art,82941]]'
-  - '[[_Standards/WikiData/WD~Musée_des_beaux-arts_de_Marseille,83013]]'
-  - '[[_Standards/WikiData/WD~Kunsthistorisches_Museum,95569]]'
-  - '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
-  - '[[_Standards/WikiData/WD~Pinacoteca_di_Brera,150066]]'
-  - '[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]'
-  - '[[_Standards/WikiData/WD~Alte_Pinakothek,154568]]'
-  - '[[_Standards/WikiData/WD~Bode_Museum,157825]]'
-  - '[[_Standards/WikiData/WD~Museo_del_Prado,160112]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~Städel_Museum,163804]]'
-  - '[[_Standards/WikiData/WD~Gemäldegalerie,165631]]'
-  - '[[_Standards/WikiData/WD~Hamburger_Kunsthalle,169542]]'
-  - '[[_Standards/WikiData/WD~Thyssen-Bornemisza_Museum,176251]]'
-  - '[[_Standards/WikiData/WD~Schloss_Weißenstein,179062]]'
-  - '[[_Standards/WikiData/WD~National_Gallery,180788]]'
-  - '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
-  - '[[_Standards/WikiData/WD~National_Museum_in_Poznań,194533]]'
-  - '[[_Standards/WikiData/WD~Kunstmuseum_Basel,194626]]'
-  - '[[_Standards/WikiData/WD~Hampton_Court_Palace,205666]]'
-  - '[[_Standards/WikiData/WD~Rosenborg_Castle,206101]]'
-  - '[[_Standards/WikiData/WD~Walters_Art_Museum,210081]]'
-  - '[[_Standards/WikiData/WD~Calouste_Gulbenkian_Museum,211262]]'
-  - '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Mauritshuis,221092]]'
-  - '[[_Standards/WikiData/WD~National_Portrait_Gallery,238587]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Palazzo_Vecchio,271928]]'
-  - '[[_Standards/WikiData/WD~Palace_Museum_in_Wilanów,277333]]'
-  - '[[_Standards/WikiData/WD~Prinsenhof,281903]]'
-  - '[[_Standards/WikiData/WD~Landesmuseum_Hannover,314082]]'
-  - '[[_Standards/WikiData/WD~Capitoline_Museums,333906]]'
-  - '[[_Standards/WikiData/WD~Łazienki_Palace,345276]]'
-  - '[[_Standards/WikiData/WD~Albertina,371908]]'
-  - '[[_Standards/WikiData/WD~Royal_Museums_of_Fine_Arts_of_Belgium,377500]]'
-  - '[[_Standards/WikiData/WD~Baltimore_Museum_of_Art,377579]]'
-  - '[[_Standards/WikiData/WD~Wadsworth_Atheneum_Museum_of_Art,403080]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Fine_Arts_Vienna,414219]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Nancy,428765]]'
-  - '[[_Standards/WikiData/WD~Tate,430682]]'
-  - '[[_Standards/WikiData/WD~Sanssouci_Picture_Gallery,451555]]'
-  - '[[_Standards/WikiData/WD~Hessian_State_Museum_Darmstadt,452362]]'
-  - '[[_Standards/WikiData/WD~Museum_Kunstpalast,461277]]'
-  - '[[_Standards/WikiData/WD~Suermondt-Ludwig-Museum,468169]]'
-  - '[[_Standards/WikiData/WD~Schloss_Mosigkau,473831]]'
-  - '[[_Standards/WikiData/WD~Führermuseum,475667]]'
-  - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]'
-  - '[[_Standards/WikiData/WD~Biblioteca_Museu_Víctor_Balaguer,526170]]'
-  - '[[_Standards/WikiData/WD~Museum_der_bildenden_Künste,566661]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Caen,569079]]'
-  - '[[_Standards/WikiData/WD~Frans_Hals_Museum,574961]]'
-  - '[[_Standards/WikiData/WD~Timken_Museum_of_Art,585462]]'
-  - '[[_Standards/WikiData/WD~Museum_Plantin-Moretus,595802]]'
-  - '[[_Standards/WikiData/WD~Dayton_Art_Institute,597355]]'
-  - '[[_Standards/WikiData/WD~John_and_Mable_Ringling_Museum_of_Art,612530]]'
-  - '[[_Standards/WikiData/WD~Apsley_House,622206]]'
-  - '[[_Standards/WikiData/WD~Sudeley_Castle,631473]]'
-  - '[[_Standards/WikiData/WD~Ashmolean_Museum,636400]]'
-  - '[[_Standards/WikiData/WD~Musée_Carnavalet,640447]]'
-  - '[[_Standards/WikiData/WD~Staatliche_Kunstsammlungen_Dresden,653002]]'
-  - '[[_Standards/WikiData/WD~Cleveland_Museum_of_Art,657415]]'
-  - '[[_Standards/WikiData/WD~Staatliche_Kunsthalle_Karlsruhe,658725]]'
-  - '[[_Standards/WikiData/WD~Art_Gallery_of_Ontario,670250]]'
-  - '[[_Standards/WikiData/WD~Statens_Museum_for_Kunst,671384]]'
-  - '[[_Standards/WikiData/WD~Hammer_Museum,677561]]'
-  - '[[_Standards/WikiData/WD~Herzog_Anton_Ulrich_Museum,678082]]'
-  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-  - '[[_Standards/WikiData/WD~The_Frick_Collection,682827]]'
-  - '[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]'
-  - '[[_Standards/WikiData/WD~Deutsches_Historisches_Museum,688335]]'
-  - '[[_Standards/WikiData/WD~Kunst_Museum_Winterthur___Reinhart_am_Stadtgarten,689829]]'
-  - '[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]'
-  - '[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Royal_Castle_in_Warsaw,756098]]'
-  - '[[_Standards/WikiData/WD~Rubenshuis,775644]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Australia,795228]]'
-  - '[[_Standards/WikiData/WD~Barnes_Foundation,808462]]'
-  - '[[_Standards/WikiData/WD~Fogg_Museum,809600]]'
-  - '[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]'
-  - '[[_Standards/WikiData/WD~Petit_Palais,820892]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Budapest,840886]]'
-  - '[[_Standards/WikiData/WD~Galleria_Borghese,841506]]'
-  - '[[_Standards/WikiData/WD~Nationalmuseum,842858]]'
-  - '[[_Standards/WikiData/WD~Worcester_Art_Museum,847508]]'
-  - '[[_Standards/WikiData/WD~Fries_Museum,848313]]'
-  - '[[_Standards/WikiData/WD~Brukenthal_National_Museum,850207]]'
-  - '[[_Standards/WikiData/WD~Montreal_Museum_of_Fine_Arts,860812]]'
-  - "[[_Standards/WikiData/WD~Museu_Nacional_d'Art_de_Catalunya,861252]]"
-  - '[[_Standards/WikiData/WD~Galleria_Palatina,866498]]'
-  - '[[_Standards/WikiData/WD~Schloss_Weimar,878253]]'
-  - '[[_Standards/WikiData/WD~Bonnefanten_Museum,892727]]'
-  - '[[_Standards/WikiData/WD~Bowes_Museum,895434]]'
-  - '[[_Standards/WikiData/WD~St_Bavo_Cathedral,938154]]'
-  - '[[_Standards/WikiData/WD~Warwick_Castle,941276]]'
-  - '[[_Standards/WikiData/WD~Waddesdon_Manor,944225]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Bordeaux,954222]]'
-  - '[[_Standards/WikiData/WD~Musée_Granet,965780]]'
-  - '[[_Standards/WikiData/WD~Burrell_Collection,1016909]]'
-  - '[[_Standards/WikiData/WD~Busch_Reisinger_Museum,1017269]]'
-  - '[[_Standards/WikiData/WD~Carnegie_Museum_of_Art,1043967]]'
-  - '[[_Standards/WikiData/WD~Kelvingrove_Art_Gallery_and_Museum,1061094]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Canada,1068063]]'
-  - '[[_Standards/WikiData/WD~Chatsworth_House,1068289]]'
-  - "[[_Standards/WikiData/WD~St._James'_Church,_Antwerp,1083704]]"
-  - '[[_Standards/WikiData/WD~Pinacoteca_Ambrosiana,1085811]]'
-  - '[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]'
-  - '[[_Standards/WikiData/WD~Museum_Het_Valkhof,1127079]]'
-  - '[[_Standards/WikiData/WD~Musée_de_la_Chasse_et_de_la_Nature,1128657]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
-  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]'
-  - '[[_Standards/WikiData/WD~Detroit_Institute_of_Arts,1201549]]'
-  - '[[_Standards/WikiData/WD~Kingston_Lacy,1232310]]'
-  - '[[_Standards/WikiData/WD~Dulwich_Picture_Gallery,1241163]]'
-  - '[[_Standards/WikiData/WD~Residenzgalerie_Salzburg,1248553]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Serbia,1277393]]'
-  - '[[_Standards/WikiData/WD~Royal_Armouries,1283541]]'
-  - '[[_Standards/WikiData/WD~City_Museum_of_Münster,1307805]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Art_of_Romania,1319192]]'
-  - '[[_Standards/WikiData/WD~National_Museum_Cardiff,1321874]]'
-  - '[[_Standards/WikiData/WD~Royal_Academy_of_Fine_Arts_of_San_Fernando,1322403]]'
-  - "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_et_d'Archéologie_de_Besançon,1324926]]"
-  - '[[_Standards/WikiData/WD~The_Wallace_Collection,1327919]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Western_Art,1362629]]'
-  - '[[_Standards/WikiData/WD~San_Diego_Museum_of_Art,1368166]]'
-  - '[[_Standards/WikiData/WD~Joslyn_Art_Museum,1372546]]'
-  - '[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_Prague,1419555]]'
-  - '[[_Standards/WikiData/WD~Fitzwilliam_Museum,1421440]]'
-  - '[[_Standards/WikiData/WD~Khanenko_Museum,1428076]]'
-  - '[[_Standards/WikiData/WD~North_Carolina_Museum_of_Art,1459878]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
-  - '[[_Standards/WikiData/WD~Hunterian_Museum_and_Art_Gallery,1465387]]'
-  - '[[_Standards/WikiData/WD~Royal_Museum_of_Fine_Arts_Antwerp,1471477]]'
-  - '[[_Standards/WikiData/WD~Pollok_House,1489852]]'
-  - '[[_Standards/WikiData/WD~Electoral_Gallery_Dusseldorf,1501215]]'
-  - '[[_Standards/WikiData/WD~Gemäldegalerie_Alte_Meister,1501219]]'
-  - '[[_Standards/WikiData/WD~Musée_Fabre,1519002]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Strasbourg,1535963]]'
-  - '[[_Standards/WikiData/WD~Walker_Art_Gallery,1536471]]'
-  - '[[_Standards/WikiData/WD~Groninger_Museum,1542668]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]'
-  - '[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]'
-  - '[[_Standards/WikiData/WD~National_Sculpture_Museum,1581475]]'
-  - '[[_Standards/WikiData/WD~Herzogliches_Museum_Gotha,1615331]]'
-  - '[[_Standards/WikiData/WD~Palazzo_Ducale_Mantua,1635704]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
-  - '[[_Standards/WikiData/WD~Kimbell_Art_Museum,1741629]]'
-  - '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
-  - '[[_Standards/WikiData/WD~Slovak_National_Gallery,1744024]]'
-  - '[[_Standards/WikiData/WD~Norton_Simon_Museum,1752085]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Tournai,1778179]]'
-  - '[[_Standards/WikiData/WD~Nantes_Museum_of_Arts,1783956]]'
-  - '[[_Standards/WikiData/WD~Laing_Art_Gallery,1800739]]'
-  - '[[_Standards/WikiData/WD~Seattle_Art_Museum,1816301]]'
-  - '[[_Standards/WikiData/WD~Amsterdam_Museum,1820897]]'
-  - '[[_Standards/WikiData/WD~Liechtenstein_Museum,1824069]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Wuyts-Van_Campen_en_baron_Caroly,1836295]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]'
-  - '[[_Standards/WikiData/WD~Martin_von_Wagner_Museum,1903282]]'
-  - '[[_Standards/WikiData/WD~Groeningemuseum,1948674]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Grenoble,1952944]]'
-  - '[[_Standards/WikiData/WD~Hessen_Kassel_Heritage,1954840]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Dijon,1955739]]'
-  - '[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]'
-  - '[[_Standards/WikiData/WD~Palazzo_Colonna,1971299]]'
-  - '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
-  - '[[_Standards/WikiData/WD~Niedersächsisches_Landesmuseum_für_Kunst_und_Kulturgeschichte,1988652]]'
-  - '[[_Standards/WikiData/WD~Gothenburg_Museum_of_Art,1992004]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Ireland,2018379]]'
-  - '[[_Standards/WikiData/WD~National_Galleries_Scotland,2051997]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Armenia,2087788]]'
-  - '[[_Standards/WikiData/WD~Museo_Soumaya,2097646]]'
-  - '[[_Standards/WikiData/WD~Museum_Arnhem,2114028]]'
-  - '[[_Standards/WikiData/WD~Saltram_House,2215464]]'
-  - '[[_Standards/WikiData/WD~Salzburg_Museum,2215920]]'
-  - '[[_Standards/WikiData/WD~Galleria_Sabauda,2245152]]'
-  - '[[_Standards/WikiData/WD~Convent_of_Las_Descalzas_Reales,2268271]]'
-  - '[[_Standards/WikiData/WD~Staatliches_Museum_Schwerin,2324618]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Ghent_(MSK),2365880]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Tours,2404549]]'
-  - '[[_Standards/WikiData/WD~Kilkenny_Castle,2453267]]'
-  - '[[_Standards/WikiData/WD~Legion_of_Honor,2468251]]'
-  - '[[_Standards/WikiData/WD~Utah_Museum_of_Fine_Arts,2502866]]'
-  - '[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]'
-  - '[[_Standards/WikiData/WD~Princeton_University_Art_Museum,2603905]]'
-  - '[[_Standards/WikiData/WD~Musée_Bonnat-Helleu,2620702]]'
-  - '[[_Standards/WikiData/WD~Palais_des_Beaux-Arts_de_Lille,2628596]]'
-  - '[[_Standards/WikiData/WD~Snijders&Rockox_House,2662909]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Augustins,2711480]]'
-  - '[[_Standards/WikiData/WD~Temple_Newsam,2748017]]'
-  - '[[_Standards/WikiData/WD~Brighton_Museum_&_Art_Gallery,2790574]]'
-  - '[[_Standards/WikiData/WD~Gallery_Prince_Willem_V,2805178]]'
-  - '[[_Standards/WikiData/WD~Abbot_Hall_Art_Gallery,2820837]]'
-  - '[[_Standards/WikiData/WD~Blanton_Museum_of_Art,2906140]]'
-  - '[[_Standards/WikiData/WD~Belfius_Art_Collection,2962290]]'
-  - '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
-  - '[[_Standards/WikiData/WD~Finnish_National_Gallery,2983474]]'
-  - '[[_Standards/WikiData/WD~Musée_de_la_Chartreuse_de_Douai,3001838]]'
-  - '[[_Standards/WikiData/WD~Crocker_Art_Museum,3003161]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Rouen,3086934]]'
-  - '[[_Standards/WikiData/WD~Moravian_Gallery_in_Brno,3094617]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Rennes,3098373]]'
-  - '[[_Standards/WikiData/WD~Museo_de_Arte_de_Ponce,3137182]]'
-  - '[[_Standards/WikiData/WD~musée_Hèbre_de_Saint-Clément,3329202]]'
-  - '[[_Standards/WikiData/WD~San_Telmo_Museoa,3329346]]'
-  - '[[_Standards/WikiData/WD~Mougins_Museum_of_Classical_Art,3329574]]'
-  - '[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787]]'
-  - '[[_Standards/WikiData/WD~Musée_des_beaux-arts_de_Nîmes,3330216]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Pau,3330217]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Valenciennes,3330222]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Quimper,3330220]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Troyes,3330226]]'
-  - '[[_Standards/WikiData/WD~Speed_Art_Museum,3492931]]'
-  - '[[_Standards/WikiData/WD~Villa_del_Principe,3558847]]'
-  - '[[_Standards/WikiData/WD~Frick_Art_&_Historical_Center,3753155]]'
-  - '[[_Standards/WikiData/WD~National_Galleries_of_Palazzo_Spinola,3757770]]'
-  - "[[_Standards/WikiData/WD~Galleria_Nazionale_d'Arte_Antica_di_Palazzo_Corsini,3757768]]"
-  - '[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]'
-  - '[[_Standards/WikiData/WD~Allen_Memorial_Art_Museum,3816734]]'
-  - '[[_Standards/WikiData/WD~Musei_di_Strada_Nuova,3867551]]'
-  - '[[_Standards/WikiData/WD~Pinacoteca_civica_(Fermo),3905099]]'
-  - '[[_Standards/WikiData/WD~Virginia_Museum_of_Fine_Arts,4013975]]'
-  - '[[_Standards/WikiData/WD~Weston_Park,4019199]]'
-  - '[[_Standards/WikiData/WD~Hallwyl_Museum,4346239]]'
-  - '[[_Standards/WikiData/WD~Ackland_Art_Museum,4674272]]'
-  - '[[_Standards/WikiData/WD~Armagh_County_Museum,4792583]]'
-  - '[[_Standards/WikiData/WD~Astley_Hall,4810914]]'
-  - '[[_Standards/WikiData/WD~Auckland_Art_Gallery_Toi_o_Tāmaki,4819492]]'
-  - '[[_Standards/WikiData/WD~Barber_Institute_of_Fine_Arts,4859590]]'
-  - '[[_Standards/WikiData/WD~The_Bass_Museum_of_Art,4867942]]'
-  - '[[_Standards/WikiData/WD~Ducal_Palace_of_Vila_Viçosa,4902904]]'
-  - '[[_Standards/WikiData/WD~Burton_Constable_Hall,5000832]]'
-  - '[[_Standards/WikiData/WD~Buscot_Park,5001321]]'
-  - '[[_Standards/WikiData/WD~Cannon_Hall,5032765]]'
-  - '[[_Standards/WikiData/WD~Chrysler_Museum_of_Art,5114675]]'
-  - '[[_Standards/WikiData/WD~Cummer_Museum_of_Art_and_Gardens,5194095]]'
-  - '[[_Standards/WikiData/WD~Danum_Gallery,_Library_and_Museum,5295507]]'
-  - '[[_Standards/WikiData/WD~Flint_Institute_of_Arts,5459526]]'
-  - '[[_Standards/WikiData/WD~Bob_Jones_University_Museum_and_Gallery,5481539]]'
-  - '[[_Standards/WikiData/WD~Glynn_Vivian_Art_Gallery,5572991]]'
-  - '[[_Standards/WikiData/WD~Hereford_Museum_and_Art_Gallery,5738000]]'
-  - '[[_Standards/WikiData/WD~Holburne_Museum,5878811]]'
-  - '[[_Standards/WikiData/WD~Columbus_Museum_of_Art,5935366]]'
-  - '[[_Standards/WikiData/WD~Irbit_State_Museum_of_Fine_Art,6068372]]'
-  - '[[_Standards/WikiData/WD~Yale_Center_for_British_Art,6352575]]'
-  - '[[_Standards/WikiData/WD~Krannert_Art_Museum,6436109]]'
-  - '[[_Standards/WikiData/WD~Maidstone_Museum_and_Bentlif_Art_Gallery,6735528]]'
-  - '[[_Standards/WikiData/WD~Mead_Art_Museum,6803132]]'
-  - '[[_Standards/WikiData/WD~Memorial_Art_Gallery,6815343]]'
-  - '[[_Standards/WikiData/WD~Memphis_Brooks_Museum_of_Art,6815803]]'
-  - '[[_Standards/WikiData/WD~Museo_Nacional_de_San_Carlos,6940507]]'
-  - '[[_Standards/WikiData/WD~Leicester_Museum_&_Art_Gallery,7012302]]'
-  - '[[_Standards/WikiData/WD~Royal_Armouries_Leeds,7373689]]'
-  - '[[_Standards/WikiData/WD~Salford_Museum_and_Art_Gallery,7404381]]'
-  - '[[_Standards/WikiData/WD~Shipley_Art_Gallery,7498014]]'
-  - '[[_Standards/WikiData/WD~Stirling_Smith_Museum_and_Art_Gallery,7617582]]'
-  - '[[_Standards/WikiData/WD~The_Hyde_Collection,7741188]]'
-  - '[[_Standards/WikiData/WD~Victoria_Art_Gallery,7926563]]'
-  - '[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]'
-  - '[[_Standards/WikiData/WD~Wolverhampton_Art_Gallery,8030459]]'
-  - '[[_Standards/WikiData/WD~York_Art_Gallery,8055361]]'
-  - '[[_Standards/WikiData/WD~Prague_Castle_Picture_Gallery,11094328]]'
-  - '[[_Standards/WikiData/WD~Noordbrabants_Museum,12013217]]'
-  - '[[_Standards/WikiData/WD~Courtauld_Gallery,12110695]]'
-  - '[[_Standards/WikiData/WD~Staatsgalerie_Stuttgart,14917275]]'
-  - '[[_Standards/WikiData/WD~Paisley_Museum,15123837]]'
-  - '[[_Standards/WikiData/WD~Hastings_Museum_and_Art_Gallery,15223260]]'
-  - '[[_Standards/WikiData/WD~Northampton_Museum_and_Art_Gallery,15262554]]'
-  - '[[_Standards/WikiData/WD~Musée_national_du_Château_de_Fontainebleau,17560765]]'
-  - '[[_Standards/WikiData/WD~USC_Fisher_Museum_of_Art,18325633]]'
-  - '[[_Standards/WikiData/WD~Coruña_Fine_Arts_Museum,18327587]]'
-  - '[[_Standards/WikiData/WD~Schleißheim_State_Gallery,22669065]]'
-  - '[[_Standards/WikiData/WD~The_Lobkowicz_Collections,27922184]]'
-  - '[[_Standards/WikiData/WD~FelixArchief,29016912]]'
-  - '[[_Standards/WikiData/WD~Glasgow_Museums_Resource_Centre,41661713]]'
-  - '[[_Standards/WikiData/WD~Musea_Brugge,51674344]]'
-  - '[[_Standards/WikiData/WD~DIVA_museum,51885460]]'
-  - '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]'
-  - '[[_Standards/WikiData/WD~Anhaltische_Gemäldegalerie,76638284]]'
-  - '[[_Standards/WikiData/WD~Kulturstiftung_Dessau-Wörlitz,76638300]]'
-  - '[[_Standards/WikiData/WD~Siegerlandmuseum_in__Upper_Palace_,96278306]]'
-  - '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
-  - '[[_Standards/WikiData/WD~Huis_Bergh,99370641]]'
-  - '[[_Standards/WikiData/WD~Mannheimer_Galerie,107452734]]'
-  - '[[_Standards/WikiData/WD~Towneley_Hall_Art_Gallery_And_Museum,113369726]]'
-  - '[[_Standards/WikiData/WD~Cooper_Gallery,114049258]]'
-  - '[[_Standards/WikiData/WD~Barts_Health_Archives,119266745]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]'
-  - '[[_Standards/WikiData/WD~Pushkin_Museum_of_Fine_Arts,4872]]'
-  - '[[_Standards/WikiData/WD~Gemäldegalerie_Alte_Meister,4890]]'
-  - '[[_Standards/WikiData/WD~Onze-Lieve-Vrouwekathedraal,5901]]'
-  - '[[_Standards/WikiData/WD~British_Museum,6373]]'
-  - '[[_Standards/WikiData/WD~Wawel_Castle,18820]]'
-  - '[[_Standards/WikiData/WD~Getty_Center,29247]]'
-  - '[[_Standards/WikiData/WD~Palazzo_Pitti,29286]]'
-  - '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
-  - '[[_Standards/WikiData/WD~Isabella_Stewart_Gardner_Museum,49135]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]'
-  - '[[_Standards/WikiData/WD~Uffizi_Gallery,51252]]'
+- '[[_Standards/WikiData/WD~São_Paulo_Museum_of_Art,82941]]'
+- '[[_Standards/WikiData/WD~Musée_des_beaux-arts_de_Marseille,83013]]'
+- '[[_Standards/WikiData/WD~Kunsthistorisches_Museum,95569]]'
+- '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
+- '[[_Standards/WikiData/WD~Pinacoteca_di_Brera,150066]]'
+- '[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]'
+- '[[_Standards/WikiData/WD~Alte_Pinakothek,154568]]'
+- '[[_Standards/WikiData/WD~Bode_Museum,157825]]'
+- '[[_Standards/WikiData/WD~Museo_del_Prado,160112]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~Städel_Museum,163804]]'
+- '[[_Standards/WikiData/WD~Gemäldegalerie,165631]]'
+- '[[_Standards/WikiData/WD~Hamburger_Kunsthalle,169542]]'
+- '[[_Standards/WikiData/WD~Thyssen-Bornemisza_Museum,176251]]'
+- '[[_Standards/WikiData/WD~Schloss_Weißenstein,179062]]'
+- '[[_Standards/WikiData/WD~National_Gallery,180788]]'
+- '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
+- '[[_Standards/WikiData/WD~National_Museum_in_Poznań,194533]]'
+- '[[_Standards/WikiData/WD~Kunstmuseum_Basel,194626]]'
+- '[[_Standards/WikiData/WD~Hampton_Court_Palace,205666]]'
+- '[[_Standards/WikiData/WD~Rosenborg_Castle,206101]]'
+- '[[_Standards/WikiData/WD~Walters_Art_Museum,210081]]'
+- '[[_Standards/WikiData/WD~Calouste_Gulbenkian_Museum,211262]]'
+- '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Mauritshuis,221092]]'
+- '[[_Standards/WikiData/WD~National_Portrait_Gallery,238587]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Palazzo_Vecchio,271928]]'
+- '[[_Standards/WikiData/WD~Palace_Museum_in_Wilanów,277333]]'
+- '[[_Standards/WikiData/WD~Prinsenhof,281903]]'
+- '[[_Standards/WikiData/WD~Landesmuseum_Hannover,314082]]'
+- '[[_Standards/WikiData/WD~Capitoline_Museums,333906]]'
+- '[[_Standards/WikiData/WD~Łazienki_Palace,345276]]'
+- '[[_Standards/WikiData/WD~Albertina,371908]]'
+- '[[_Standards/WikiData/WD~Royal_Museums_of_Fine_Arts_of_Belgium,377500]]'
+- '[[_Standards/WikiData/WD~Baltimore_Museum_of_Art,377579]]'
+- '[[_Standards/WikiData/WD~Wadsworth_Atheneum_Museum_of_Art,403080]]'
+- '[[_Standards/WikiData/WD~Academy_of_Fine_Arts_Vienna,414219]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Nancy,428765]]'
+- '[[_Standards/WikiData/WD~Tate,430682]]'
+- '[[_Standards/WikiData/WD~Sanssouci_Picture_Gallery,451555]]'
+- '[[_Standards/WikiData/WD~Hessian_State_Museum_Darmstadt,452362]]'
+- '[[_Standards/WikiData/WD~Museum_Kunstpalast,461277]]'
+- '[[_Standards/WikiData/WD~Suermondt-Ludwig-Museum,468169]]'
+- '[[_Standards/WikiData/WD~Schloss_Mosigkau,473831]]'
+- '[[_Standards/WikiData/WD~Führermuseum,475667]]'
+- '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]'
+- '[[_Standards/WikiData/WD~Biblioteca_Museu_Víctor_Balaguer,526170]]'
+- '[[_Standards/WikiData/WD~Museum_der_bildenden_Künste,566661]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Caen,569079]]'
+- '[[_Standards/WikiData/WD~Frans_Hals_Museum,574961]]'
+- '[[_Standards/WikiData/WD~Timken_Museum_of_Art,585462]]'
+- '[[_Standards/WikiData/WD~Museum_Plantin-Moretus,595802]]'
+- '[[_Standards/WikiData/WD~Dayton_Art_Institute,597355]]'
+- '[[_Standards/WikiData/WD~John_and_Mable_Ringling_Museum_of_Art,612530]]'
+- '[[_Standards/WikiData/WD~Apsley_House,622206]]'
+- '[[_Standards/WikiData/WD~Sudeley_Castle,631473]]'
+- '[[_Standards/WikiData/WD~Ashmolean_Museum,636400]]'
+- '[[_Standards/WikiData/WD~Musée_Carnavalet,640447]]'
+- '[[_Standards/WikiData/WD~Staatliche_Kunstsammlungen_Dresden,653002]]'
+- '[[_Standards/WikiData/WD~Cleveland_Museum_of_Art,657415]]'
+- '[[_Standards/WikiData/WD~Staatliche_Kunsthalle_Karlsruhe,658725]]'
+- '[[_Standards/WikiData/WD~Art_Gallery_of_Ontario,670250]]'
+- '[[_Standards/WikiData/WD~Statens_Museum_for_Kunst,671384]]'
+- '[[_Standards/WikiData/WD~Hammer_Museum,677561]]'
+- '[[_Standards/WikiData/WD~Herzog_Anton_Ulrich_Museum,678082]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~The_Frick_Collection,682827]]'
+- '[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]'
+- '[[_Standards/WikiData/WD~Deutsches_Historisches_Museum,688335]]'
+- '[[_Standards/WikiData/WD~Kunst_Museum_Winterthur___Reinhart_am_Stadtgarten,689829]]'
+- '[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]'
+- '[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Royal_Castle_in_Warsaw,756098]]'
+- '[[_Standards/WikiData/WD~Rubenshuis,775644]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Australia,795228]]'
+- '[[_Standards/WikiData/WD~Barnes_Foundation,808462]]'
+- '[[_Standards/WikiData/WD~Fogg_Museum,809600]]'
+- '[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]'
+- '[[_Standards/WikiData/WD~Petit_Palais,820892]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Budapest,840886]]'
+- '[[_Standards/WikiData/WD~Galleria_Borghese,841506]]'
+- '[[_Standards/WikiData/WD~Nationalmuseum,842858]]'
+- '[[_Standards/WikiData/WD~Worcester_Art_Museum,847508]]'
+- '[[_Standards/WikiData/WD~Fries_Museum,848313]]'
+- '[[_Standards/WikiData/WD~Brukenthal_National_Museum,850207]]'
+- '[[_Standards/WikiData/WD~Montreal_Museum_of_Fine_Arts,860812]]'
+- "[[_Standards/WikiData/WD~Museu_Nacional_d'Art_de_Catalunya,861252]]"
+- '[[_Standards/WikiData/WD~Galleria_Palatina,866498]]'
+- '[[_Standards/WikiData/WD~Schloss_Weimar,878253]]'
+- '[[_Standards/WikiData/WD~Bonnefanten_Museum,892727]]'
+- '[[_Standards/WikiData/WD~Bowes_Museum,895434]]'
+- '[[_Standards/WikiData/WD~St_Bavo_Cathedral,938154]]'
+- '[[_Standards/WikiData/WD~Warwick_Castle,941276]]'
+- '[[_Standards/WikiData/WD~Waddesdon_Manor,944225]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Bordeaux,954222]]'
+- '[[_Standards/WikiData/WD~Musée_Granet,965780]]'
+- '[[_Standards/WikiData/WD~Burrell_Collection,1016909]]'
+- '[[_Standards/WikiData/WD~Busch_Reisinger_Museum,1017269]]'
+- '[[_Standards/WikiData/WD~Carnegie_Museum_of_Art,1043967]]'
+- '[[_Standards/WikiData/WD~Kelvingrove_Art_Gallery_and_Museum,1061094]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Canada,1068063]]'
+- '[[_Standards/WikiData/WD~Chatsworth_House,1068289]]'
+- "[[_Standards/WikiData/WD~St._James'_Church,_Antwerp,1083704]]"
+- '[[_Standards/WikiData/WD~Pinacoteca_Ambrosiana,1085811]]'
+- '[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]'
+- '[[_Standards/WikiData/WD~Museum_Het_Valkhof,1127079]]'
+- '[[_Standards/WikiData/WD~Musée_de_la_Chasse_et_de_la_Nature,1128657]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
+- '[[_Standards/WikiData/WD~Smithsonian_American_Art_Museum,1192305]]'
+- '[[_Standards/WikiData/WD~Detroit_Institute_of_Arts,1201549]]'
+- '[[_Standards/WikiData/WD~Kingston_Lacy,1232310]]'
+- '[[_Standards/WikiData/WD~Dulwich_Picture_Gallery,1241163]]'
+- '[[_Standards/WikiData/WD~Residenzgalerie_Salzburg,1248553]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Serbia,1277393]]'
+- '[[_Standards/WikiData/WD~Royal_Armouries,1283541]]'
+- '[[_Standards/WikiData/WD~City_Museum_of_Münster,1307805]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Art_of_Romania,1319192]]'
+- '[[_Standards/WikiData/WD~National_Museum_Cardiff,1321874]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Fine_Arts_of_San_Fernando,1322403]]'
+- "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_et_d'Archéologie_de_Besançon,1324926]]"
+- '[[_Standards/WikiData/WD~The_Wallace_Collection,1327919]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Western_Art,1362629]]'
+- '[[_Standards/WikiData/WD~San_Diego_Museum_of_Art,1368166]]'
+- '[[_Standards/WikiData/WD~Joslyn_Art_Museum,1372546]]'
+- '[[_Standards/WikiData/WD~Fine_Arts_Museums_of_San_Francisco,1416890]]'
+- '[[_Standards/WikiData/WD~National_Gallery_Prague,1419555]]'
+- '[[_Standards/WikiData/WD~Fitzwilliam_Museum,1421440]]'
+- '[[_Standards/WikiData/WD~Khanenko_Museum,1428076]]'
+- '[[_Standards/WikiData/WD~North_Carolina_Museum_of_Art,1459878]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+- '[[_Standards/WikiData/WD~Hunterian_Museum_and_Art_Gallery,1465387]]'
+- '[[_Standards/WikiData/WD~Royal_Museum_of_Fine_Arts_Antwerp,1471477]]'
+- '[[_Standards/WikiData/WD~Pollok_House,1489852]]'
+- '[[_Standards/WikiData/WD~Electoral_Gallery_Dusseldorf,1501215]]'
+- '[[_Standards/WikiData/WD~Gemäldegalerie_Alte_Meister,1501219]]'
+- '[[_Standards/WikiData/WD~Musée_Fabre,1519002]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Strasbourg,1535963]]'
+- '[[_Standards/WikiData/WD~Walker_Art_Gallery,1536471]]'
+- '[[_Standards/WikiData/WD~Groninger_Museum,1542668]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts,_Houston,1565911]]'
+- '[[_Standards/WikiData/WD~Yale_University_Art_Gallery,1568434]]'
+- '[[_Standards/WikiData/WD~National_Sculpture_Museum,1581475]]'
+- '[[_Standards/WikiData/WD~Herzogliches_Museum_Gotha,1615331]]'
+- '[[_Standards/WikiData/WD~Palazzo_Ducale_Mantua,1635704]]'
+- '[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Kimbell_Art_Museum,1741629]]'
+- '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
+- '[[_Standards/WikiData/WD~Slovak_National_Gallery,1744024]]'
+- '[[_Standards/WikiData/WD~Norton_Simon_Museum,1752085]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Tournai,1778179]]'
+- '[[_Standards/WikiData/WD~Nantes_Museum_of_Arts,1783956]]'
+- '[[_Standards/WikiData/WD~Laing_Art_Gallery,1800739]]'
+- '[[_Standards/WikiData/WD~Seattle_Art_Museum,1816301]]'
+- '[[_Standards/WikiData/WD~Amsterdam_Museum,1820897]]'
+- '[[_Standards/WikiData/WD~Liechtenstein_Museum,1824069]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Wuyts-Van_Campen_en_baron_Caroly,1836295]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Fine_Arts,1848918]]'
+- '[[_Standards/WikiData/WD~Martin_von_Wagner_Museum,1903282]]'
+- '[[_Standards/WikiData/WD~Groeningemuseum,1948674]]'
+- '[[_Standards/WikiData/WD~Museum_of_Grenoble,1952944]]'
+- '[[_Standards/WikiData/WD~Hessen_Kassel_Heritage,1954840]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Dijon,1955739]]'
+- '[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]'
+- '[[_Standards/WikiData/WD~Palazzo_Colonna,1971299]]'
+- '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
+- '[[_Standards/WikiData/WD~Niedersächsisches_Landesmuseum_für_Kunst_und_Kulturgeschichte,1988652]]'
+- '[[_Standards/WikiData/WD~Gothenburg_Museum_of_Art,1992004]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Ireland,2018379]]'
+- '[[_Standards/WikiData/WD~National_Galleries_Scotland,2051997]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Armenia,2087788]]'
+- '[[_Standards/WikiData/WD~Museo_Soumaya,2097646]]'
+- '[[_Standards/WikiData/WD~Museum_Arnhem,2114028]]'
+- '[[_Standards/WikiData/WD~Saltram_House,2215464]]'
+- '[[_Standards/WikiData/WD~Salzburg_Museum,2215920]]'
+- '[[_Standards/WikiData/WD~Galleria_Sabauda,2245152]]'
+- '[[_Standards/WikiData/WD~Convent_of_Las_Descalzas_Reales,2268271]]'
+- '[[_Standards/WikiData/WD~Staatliches_Museum_Schwerin,2324618]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Ghent_(MSK),2365880]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Tours,2404549]]'
+- '[[_Standards/WikiData/WD~Kilkenny_Castle,2453267]]'
+- '[[_Standards/WikiData/WD~Legion_of_Honor,2468251]]'
+- '[[_Standards/WikiData/WD~Utah_Museum_of_Fine_Arts,2502866]]'
+- '[[_Standards/WikiData/WD~City_Castle_Zaltbommel,2539475]]'
+- '[[_Standards/WikiData/WD~Princeton_University_Art_Museum,2603905]]'
+- '[[_Standards/WikiData/WD~Musée_Bonnat-Helleu,2620702]]'
+- '[[_Standards/WikiData/WD~Palais_des_Beaux-Arts_de_Lille,2628596]]'
+- '[[_Standards/WikiData/WD~Snijders&Rockox_House,2662909]]'
+- '[[_Standards/WikiData/WD~Musée_des_Augustins,2711480]]'
+- '[[_Standards/WikiData/WD~Temple_Newsam,2748017]]'
+- '[[_Standards/WikiData/WD~Brighton_Museum_&_Art_Gallery,2790574]]'
+- '[[_Standards/WikiData/WD~Gallery_Prince_Willem_V,2805178]]'
+- '[[_Standards/WikiData/WD~Abbot_Hall_Art_Gallery,2820837]]'
+- '[[_Standards/WikiData/WD~Blanton_Museum_of_Art,2906140]]'
+- '[[_Standards/WikiData/WD~Belfius_Art_Collection,2962290]]'
+- '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
+- '[[_Standards/WikiData/WD~Finnish_National_Gallery,2983474]]'
+- '[[_Standards/WikiData/WD~Musée_de_la_Chartreuse_de_Douai,3001838]]'
+- '[[_Standards/WikiData/WD~Crocker_Art_Museum,3003161]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Rouen,3086934]]'
+- '[[_Standards/WikiData/WD~Moravian_Gallery_in_Brno,3094617]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Rennes,3098373]]'
+- '[[_Standards/WikiData/WD~Museo_de_Arte_de_Ponce,3137182]]'
+- '[[_Standards/WikiData/WD~musée_Hèbre_de_Saint-Clément,3329202]]'
+- '[[_Standards/WikiData/WD~San_Telmo_Museoa,3329346]]'
+- '[[_Standards/WikiData/WD~Mougins_Museum_of_Classical_Art,3329574]]'
+- '[[_Standards/WikiData/WD~Museum_of_the_History_of_France,3329787]]'
+- '[[_Standards/WikiData/WD~Musée_des_beaux-arts_de_Nîmes,3330216]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Pau,3330217]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Valenciennes,3330222]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Quimper,3330220]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Troyes,3330226]]'
+- '[[_Standards/WikiData/WD~Speed_Art_Museum,3492931]]'
+- '[[_Standards/WikiData/WD~Villa_del_Principe,3558847]]'
+- '[[_Standards/WikiData/WD~Frick_Art_&_Historical_Center,3753155]]'
+- '[[_Standards/WikiData/WD~National_Galleries_of_Palazzo_Spinola,3757770]]'
+- "[[_Standards/WikiData/WD~Galleria_Nazionale_d'Arte_Antica_di_Palazzo_Corsini,3757768]]"
+- '[[_Standards/WikiData/WD~Harvard_Art_Museums,3783572]]'
+- '[[_Standards/WikiData/WD~Allen_Memorial_Art_Museum,3816734]]'
+- '[[_Standards/WikiData/WD~Musei_di_Strada_Nuova,3867551]]'
+- '[[_Standards/WikiData/WD~Pinacoteca_civica_(Fermo),3905099]]'
+- '[[_Standards/WikiData/WD~Virginia_Museum_of_Fine_Arts,4013975]]'
+- '[[_Standards/WikiData/WD~Weston_Park,4019199]]'
+- '[[_Standards/WikiData/WD~Hallwyl_Museum,4346239]]'
+- '[[_Standards/WikiData/WD~Ackland_Art_Museum,4674272]]'
+- '[[_Standards/WikiData/WD~Armagh_County_Museum,4792583]]'
+- '[[_Standards/WikiData/WD~Astley_Hall,4810914]]'
+- '[[_Standards/WikiData/WD~Auckland_Art_Gallery_Toi_o_Tāmaki,4819492]]'
+- '[[_Standards/WikiData/WD~Barber_Institute_of_Fine_Arts,4859590]]'
+- '[[_Standards/WikiData/WD~The_Bass_Museum_of_Art,4867942]]'
+- '[[_Standards/WikiData/WD~Ducal_Palace_of_Vila_Viçosa,4902904]]'
+- '[[_Standards/WikiData/WD~Burton_Constable_Hall,5000832]]'
+- '[[_Standards/WikiData/WD~Buscot_Park,5001321]]'
+- '[[_Standards/WikiData/WD~Cannon_Hall,5032765]]'
+- '[[_Standards/WikiData/WD~Chrysler_Museum_of_Art,5114675]]'
+- '[[_Standards/WikiData/WD~Cummer_Museum_of_Art_and_Gardens,5194095]]'
+- '[[_Standards/WikiData/WD~Danum_Gallery,_Library_and_Museum,5295507]]'
+- '[[_Standards/WikiData/WD~Flint_Institute_of_Arts,5459526]]'
+- '[[_Standards/WikiData/WD~Bob_Jones_University_Museum_and_Gallery,5481539]]'
+- '[[_Standards/WikiData/WD~Glynn_Vivian_Art_Gallery,5572991]]'
+- '[[_Standards/WikiData/WD~Hereford_Museum_and_Art_Gallery,5738000]]'
+- '[[_Standards/WikiData/WD~Holburne_Museum,5878811]]'
+- '[[_Standards/WikiData/WD~Columbus_Museum_of_Art,5935366]]'
+- '[[_Standards/WikiData/WD~Irbit_State_Museum_of_Fine_Art,6068372]]'
+- '[[_Standards/WikiData/WD~Yale_Center_for_British_Art,6352575]]'
+- '[[_Standards/WikiData/WD~Krannert_Art_Museum,6436109]]'
+- '[[_Standards/WikiData/WD~Maidstone_Museum_and_Bentlif_Art_Gallery,6735528]]'
+- '[[_Standards/WikiData/WD~Mead_Art_Museum,6803132]]'
+- '[[_Standards/WikiData/WD~Memorial_Art_Gallery,6815343]]'
+- '[[_Standards/WikiData/WD~Memphis_Brooks_Museum_of_Art,6815803]]'
+- '[[_Standards/WikiData/WD~Museo_Nacional_de_San_Carlos,6940507]]'
+- '[[_Standards/WikiData/WD~Leicester_Museum_&_Art_Gallery,7012302]]'
+- '[[_Standards/WikiData/WD~Royal_Armouries_Leeds,7373689]]'
+- '[[_Standards/WikiData/WD~Salford_Museum_and_Art_Gallery,7404381]]'
+- '[[_Standards/WikiData/WD~Shipley_Art_Gallery,7498014]]'
+- '[[_Standards/WikiData/WD~Stirling_Smith_Museum_and_Art_Gallery,7617582]]'
+- '[[_Standards/WikiData/WD~The_Hyde_Collection,7741188]]'
+- '[[_Standards/WikiData/WD~Victoria_Art_Gallery,7926563]]'
+- '[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]'
+- '[[_Standards/WikiData/WD~Wolverhampton_Art_Gallery,8030459]]'
+- '[[_Standards/WikiData/WD~York_Art_Gallery,8055361]]'
+- '[[_Standards/WikiData/WD~Prague_Castle_Picture_Gallery,11094328]]'
+- '[[_Standards/WikiData/WD~Noordbrabants_Museum,12013217]]'
+- '[[_Standards/WikiData/WD~Courtauld_Gallery,12110695]]'
+- '[[_Standards/WikiData/WD~Staatsgalerie_Stuttgart,14917275]]'
+- '[[_Standards/WikiData/WD~Paisley_Museum,15123837]]'
+- '[[_Standards/WikiData/WD~Hastings_Museum_and_Art_Gallery,15223260]]'
+- '[[_Standards/WikiData/WD~Northampton_Museum_and_Art_Gallery,15262554]]'
+- '[[_Standards/WikiData/WD~Musée_national_du_Château_de_Fontainebleau,17560765]]'
+- '[[_Standards/WikiData/WD~USC_Fisher_Museum_of_Art,18325633]]'
+- '[[_Standards/WikiData/WD~Coruña_Fine_Arts_Museum,18327587]]'
+- '[[_Standards/WikiData/WD~Schleißheim_State_Gallery,22669065]]'
+- '[[_Standards/WikiData/WD~The_Lobkowicz_Collections,27922184]]'
+- '[[_Standards/WikiData/WD~FelixArchief,29016912]]'
+- '[[_Standards/WikiData/WD~Glasgow_Museums_Resource_Centre,41661713]]'
+- '[[_Standards/WikiData/WD~Musea_Brugge,51674344]]'
+- '[[_Standards/WikiData/WD~DIVA_museum,51885460]]'
+- '[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]'
+- '[[_Standards/WikiData/WD~Anhaltische_Gemäldegalerie,76638284]]'
+- '[[_Standards/WikiData/WD~Kulturstiftung_Dessau-Wörlitz,76638300]]'
+- '[[_Standards/WikiData/WD~Siegerlandmuseum_in__Upper_Palace_,96278306]]'
+- '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
+- '[[_Standards/WikiData/WD~Huis_Bergh,99370641]]'
+- '[[_Standards/WikiData/WD~Mannheimer_Galerie,107452734]]'
+- '[[_Standards/WikiData/WD~Towneley_Hall_Art_Gallery_And_Museum,113369726]]'
+- '[[_Standards/WikiData/WD~Cooper_Gallery,114049258]]'
+- '[[_Standards/WikiData/WD~Barts_Health_Archives,119266745]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]'
+- '[[_Standards/WikiData/WD~Pushkin_Museum_of_Fine_Arts,4872]]'
+- '[[_Standards/WikiData/WD~Gemäldegalerie_Alte_Meister,4890]]'
+- '[[_Standards/WikiData/WD~Onze-Lieve-Vrouwekathedraal,5901]]'
+- '[[_Standards/WikiData/WD~British_Museum,6373]]'
+- '[[_Standards/WikiData/WD~Wawel_Castle,18820]]'
+- '[[_Standards/WikiData/WD~Getty_Center,29247]]'
+- '[[_Standards/WikiData/WD~Palazzo_Pitti,29286]]'
+- '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
+- '[[_Standards/WikiData/WD~Isabella_Stewart_Gardner_Museum,49135]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_Boston,49133]]'
+- '[[_Standards/WikiData/WD~Uffizi_Gallery,51252]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grabplatte%20Peter%20Paul%20Rubens.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Paolo_Veronese,9440]]'
-  - '[[_Standards/WikiData/WD~Pieter_Brueghel_the_Elder,43270]]'
+- '[[_Standards/WikiData/WD~Paolo_Veronese,9440]]'
+- '[[_Standards/WikiData/WD~Pieter_Brueghel_the_Elder,43270]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121341267
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/RUBENS_PITER_PAUL.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~Dutch,7411]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: mkz12t1556fgjnz
 member_of: '[[_Standards/WikiData/WD~Antwerp_Guild_of_Saint_Luke,18508801]]'
 mother: '[[_Standards/WikiData/WD~Maria_Pypelinckx,2355955]]'
 name_in_native_language: Peter Paul Rubens
 NLC_authorities: 38648989
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Fall_of_the_Damned,203259]]'
-  - '[[_Standards/WikiData/WD~The_Tiger_Hunt,544488]]'
-  - '[[_Standards/WikiData/WD~-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower,571416]]'
-  - '[[_Standards/WikiData/WD~The_Rape_of_the_Daughters_of_Leucippus,644936]]'
-  - '[[_Standards/WikiData/WD~The_Garden_of_Love,1195238]]'
-  - '[[_Standards/WikiData/WD~The_Three_Graces,2268524]]'
-  - '[[_Standards/WikiData/WD~The_Elevation_of_the_Cross,2653851]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Susanna_Lunden,3228387]]'
+- '[[_Standards/WikiData/WD~The_Fall_of_the_Damned,203259]]'
+- '[[_Standards/WikiData/WD~The_Tiger_Hunt,544488]]'
+- '[[_Standards/WikiData/WD~-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower,571416]]'
+- '[[_Standards/WikiData/WD~The_Rape_of_the_Daughters_of_Leucippus,644936]]'
+- '[[_Standards/WikiData/WD~The_Garden_of_Love,1195238]]'
+- '[[_Standards/WikiData/WD~The_Three_Graces,2268524]]'
+- '[[_Standards/WikiData/WD~The_Elevation_of_the_Cross,2653851]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Susanna_Lunden,3228387]]'
 occupation:
-  - '[[_Standards/WikiData/WD~diplomat,193391]]'
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~sculptor,1281618]]'
-  - '[[_Standards/WikiData/WD~graphic_artist,1925963]]'
-  - '[[_Standards/WikiData/WD~visual_artist,3391743]]'
-  - '[[_Standards/WikiData/WD~printmaker,11569986]]'
-  - '[[_Standards/WikiData/WD~architectural_draftsperson,14623005]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~sculptor,1281618]]'
+- '[[_Standards/WikiData/WD~graphic_artist,1925963]]'
+- '[[_Standards/WikiData/WD~visual_artist,3391743]]'
+- '[[_Standards/WikiData/WD~printmaker,11569986]]'
+- '[[_Standards/WikiData/WD~architectural_draftsperson,14623005]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot___Smithsonian_Libraries___Artists_Files,105757729]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot___Smithsonian_Libraries___Artists_Files,105757729]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Rubenshuis,775644]]'
-  - '[[_Standards/WikiData/WD~Elewijt_Castle,1884656]]'
-  - '[[_Standards/WikiData/WD~Saint_George_and_the_Dragon,3825684]]'
+- '[[_Standards/WikiData/WD~Rubenshuis,775644]]'
+- '[[_Standards/WikiData/WD~Elewijt_Castle,1884656]]'
+- '[[_Standards/WikiData/WD~Saint_George_and_the_Dragon,3825684]]'
 place_of_birth: '[[_Standards/WikiData/WD~Siegen,3167]]'
 place_of_burial: "[[_Standards/WikiData/WD~St._James'_Church,_Antwerp,1083704]]"
 place_of_death: '[[_Standards/WikiData/WD~Antwerp,12892]]'
@@ -431,72 +492,240 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/SI%20Plakette%2
 position_held: '[[_Standards/WikiData/WD~court_painter,984276]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 residence:
-  - '[[_Standards/WikiData/WD~Cologne,365]]'
-  - '[[_Standards/WikiData/WD~Siegen,3167]]'
-  - '[[_Standards/WikiData/WD~Antwerp,12892]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
+- '[[_Standards/WikiData/WD~Cologne,365]]'
+- '[[_Standards/WikiData/WD~Siegen,3167]]'
+- '[[_Standards/WikiData/WD~Antwerp,12892]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
 Royal_Academy_new_identifier: peter-paul-rubens
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Christine_von_Dietz,107052]]'
-  - '[[_Standards/WikiData/WD~Philip_Rubens,15880673]]'
+- '[[_Standards/WikiData/WD~Christine_von_Dietz,107052]]'
+- '[[_Standards/WikiData/WD~Philip_Rubens,15880673]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rubens%20autograph.png
 social_classification: '[[_Standards/WikiData/WD~noble,16744001]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Helena_Fourment,1965732]]'
-  - '[[_Standards/WikiData/WD~Isabella_Brant,2215964]]'
+- '[[_Standards/WikiData/WD~Helena_Fourment,1965732]]'
+- '[[_Standards/WikiData/WD~Isabella_Brant,2215964]]'
 student:
-  - '[[_Standards/WikiData/WD~Jan_Boeckhorst,71728]]'
-  - '[[_Standards/WikiData/WD~Anthony_van_Dyck,150679]]'
-  - '[[_Standards/WikiData/WD~Theodoor_van_Thulden,260817]]'
-  - '[[_Standards/WikiData/WD~Abraham_van_Diepenbeeck,330854]]'
-  - '[[_Standards/WikiData/WD~Cornelis_Schut,592396]]'
-  - '[[_Standards/WikiData/WD~Erasmus_Quellinus_II,625228]]'
-  - '[[_Standards/WikiData/WD~George_Jamesone,725308]]'
-  - '[[_Standards/WikiData/WD~Justus_van_Egmont,1034140]]'
-  - '[[_Standards/WikiData/WD~Frans_Wouters,1959143]]'
-  - '[[_Standards/WikiData/WD~Lucas_Franchoys_the_Younger,2175259]]'
-  - '[[_Standards/WikiData/WD~Willem_Panneels,2486261]]'
-  - '[[_Standards/WikiData/WD~Cornelis_Schut_III,5788610]]'
-  - '[[_Standards/WikiData/WD~Jan_van_den_Bergh,6150400]]'
-  - '[[_Standards/WikiData/WD~Matthias_Jansz_van_den_Bergh,6791561]]'
+- '[[_Standards/WikiData/WD~Jan_Boeckhorst,71728]]'
+- '[[_Standards/WikiData/WD~Anthony_van_Dyck,150679]]'
+- '[[_Standards/WikiData/WD~Theodoor_van_Thulden,260817]]'
+- '[[_Standards/WikiData/WD~Abraham_van_Diepenbeeck,330854]]'
+- '[[_Standards/WikiData/WD~Cornelis_Schut,592396]]'
+- '[[_Standards/WikiData/WD~Erasmus_Quellinus_II,625228]]'
+- '[[_Standards/WikiData/WD~George_Jamesone,725308]]'
+- '[[_Standards/WikiData/WD~Justus_van_Egmont,1034140]]'
+- '[[_Standards/WikiData/WD~Frans_Wouters,1959143]]'
+- '[[_Standards/WikiData/WD~Lucas_Franchoys_the_Younger,2175259]]'
+- '[[_Standards/WikiData/WD~Willem_Panneels,2486261]]'
+- '[[_Standards/WikiData/WD~Cornelis_Schut_III,5788610]]'
+- '[[_Standards/WikiData/WD~Jan_van_den_Bergh,6150400]]'
+- '[[_Standards/WikiData/WD~Matthias_Jansz_van_den_Bergh,6791561]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Adam_van_Noort,351328]]'
-  - '[[_Standards/WikiData/WD~Otto_van_Veen,785355]]'
-  - '[[_Standards/WikiData/WD~Tobias_Verhaecht,1860598]]'
+- '[[_Standards/WikiData/WD~Adam_van_Noort,351328]]'
+- '[[_Standards/WikiData/WD~Otto_van_Veen,785355]]'
+- '[[_Standards/WikiData/WD~Tobias_Verhaecht,1860598]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/25633
 work_location:
-  - '[[_Standards/WikiData/WD~La_Rochelle,82185]]'
-  - '[[_Standards/WikiData/WD~Dover,179224]]'
-  - '[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,371748]]'
-  - '[[_Standards/WikiData/WD~Affligem,382860]]'
-  - '[[_Standards/WikiData/WD~Elewijt,1990353]]'
-  - '[[_Standards/WikiData/WD~Cologne,365]]'
-  - '[[_Standards/WikiData/WD~Venice,641]]'
-  - '[[_Standards/WikiData/WD~Delft,690]]'
-  - '[[_Standards/WikiData/WD~Amsterdam,727]]'
-  - '[[_Standards/WikiData/WD~Utrecht,803]]'
-  - '[[_Standards/WikiData/WD~Maastricht,1309]]'
-  - '[[_Standards/WikiData/WD~Genoa,1449]]'
-  - '[[_Standards/WikiData/WD~Verona,2028]]'
-  - '[[_Standards/WikiData/WD~Florence,2044]]'
-  - '[[_Standards/WikiData/WD~Madrid,2807]]'
-  - '[[_Standards/WikiData/WD~Liège,3992]]'
-  - '[[_Standards/WikiData/WD~Mantua,6247]]'
-  - '[[_Standards/WikiData/WD~Calais,6454]]'
-  - '[[_Standards/WikiData/WD~Valladolid,8356]]'
-  - '[[_Standards/WikiData/WD~Haarlem,9920]]'
-  - '[[_Standards/WikiData/WD~Alicante,11959]]'
-  - '[[_Standards/WikiData/WD~Antwerp,12892]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
-  - '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
-  - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
-  - '[[_Standards/WikiData/WD~The_Hague,36600]]'
-  - '[[_Standards/WikiData/WD~Breda,40844]]'
+- '[[_Standards/WikiData/WD~La_Rochelle,82185]]'
+- '[[_Standards/WikiData/WD~Dover,179224]]'
+- '[[_Standards/WikiData/WD~San_Lorenzo_de_El_Escorial,371748]]'
+- '[[_Standards/WikiData/WD~Affligem,382860]]'
+- '[[_Standards/WikiData/WD~Elewijt,1990353]]'
+- '[[_Standards/WikiData/WD~Cologne,365]]'
+- '[[_Standards/WikiData/WD~Venice,641]]'
+- '[[_Standards/WikiData/WD~Delft,690]]'
+- '[[_Standards/WikiData/WD~Amsterdam,727]]'
+- '[[_Standards/WikiData/WD~Utrecht,803]]'
+- '[[_Standards/WikiData/WD~Maastricht,1309]]'
+- '[[_Standards/WikiData/WD~Genoa,1449]]'
+- '[[_Standards/WikiData/WD~Verona,2028]]'
+- '[[_Standards/WikiData/WD~Florence,2044]]'
+- '[[_Standards/WikiData/WD~Madrid,2807]]'
+- '[[_Standards/WikiData/WD~Liège,3992]]'
+- '[[_Standards/WikiData/WD~Mantua,6247]]'
+- '[[_Standards/WikiData/WD~Calais,6454]]'
+- '[[_Standards/WikiData/WD~Valladolid,8356]]'
+- '[[_Standards/WikiData/WD~Haarlem,9920]]'
+- '[[_Standards/WikiData/WD~Alicante,11959]]'
+- '[[_Standards/WikiData/WD~Antwerp,12892]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
+- '[[_Standards/WikiData/WD~City_of_Brussels,239]]'
+- '[[_Standards/WikiData/WD~Rotterdam,34370]]'
+- '[[_Standards/WikiData/WD~The_Hague,36600]]'
+- '[[_Standards/WikiData/WD~Breda,40844]]'
+dv_has_:
+  name_:
+    af: Peter Paul Rubens
+    alt: Рубенс, Питер Пауль
+    am: ፒተር ፓውል ሩበንስ
+    an: Peter Paul Rubens
+    ar: بيتر بول روبنس
+    arz: بيتر بول روبينس
+    as: পিটাৰ পল ৰুবেন্স
+    ast: Peter Paul Rubens
+    av: Петер Паул Рубенс
+    ay: Peter Paul Rubens
+    az: Piter Paul Rubens
+    azb: پیتر پائول روبنز
+    ba: Рубенс, Питер Пауль
+    bar: Peter Paul Rubens
+    bcl: Peter Paul Rubens
+    be: Пітэр Паўль Рубенс
+    be-tarask: Пітэр Паўль Рубэнс
+    bg: Петер Паул Рубенс
+    bi: Peter Paul Rubens
+    bn: পিটার পল রুবেনস
+    br: Pieter Pauwel Rubens
+    bs: Peter Paul Rubens
+    btm: Peter Paul Rubens
+    bxr: Питер Пауль Рубенс
+    ca: Peter Paul Rubens
+    ce: Питер Пауль Рубенс
+    ckb: پیتەر پاول ڕوبنس
+    co: Peter Paul Rubens
+    crh: Piter Paul Rubens
+    cs: Peter Paul Rubens
+    cy: Peter Paul Rubens
+    da: Peter Paul Rubens
+    de: Peter Paul Rubens
+    el: Πέτερ Πάουλ Ρούμπενς
+    en: Peter Paul Rubens
+    en-ca: Peter Paul Rubens
+    en-gb: Peter Paul Rubens
+    eo: Petro Paŭlo Rubens
+    es: Peter Paul Rubens
+    et: Peter Paul Rubens
+    eu: Peter Paul Rubens
+    ext: Peter Paul Rubens
+    fa: پتر پل روبنس
+    fi: Peter Paul Rubens
+    fo: Peter Paul Rubens
+    fr: Pierre Paul Rubens
+    frp: Pierro Paul Rubens
+    frr: Peter Paul Rubens
+    fy: Peter Paul Rubens
+    ga: Peter Paul Rubens
+    gl: Peter Paul Rubens
+    gn: Pedro Pablo Rubens
+    gsw: Peter Paul Rubens
+    gv: Peter Paul Rubens
+    ha: Bitrus Bulus Ruben
+    hak: Pí-tet Lû-pún-sṳ̂
+    he: פטר פאול רובנס
+    hi: पीटर पाल रूबेंस
+    hif: Peter Paul Rubens
+    hr: Peter Paul Rubens
+    hu: Peter Paul Rubens
+    hy: Պիտեր Պաուլ Ռուբենս
+    hyw: Փիթըր Փոլ Ռուպընս
+    ia: Peter Paul Rubens
+    id: Peter Paul Rubens
+    ilo: Peter Paul Rubens
+    io: Peter Paul Rubens
+    is: Peter Paul Rubens
+    it: Peter Paul Rubens
+    ja: ピーテル・パウル・ルーベンス
+    jut: Peter Paul Rubens
+    ka: პეტერ პაულ რუბენსი
+    kaa: Peter Paul Rubens
+    kbd: Петр Паул Рубенс
+    kbp: Pierre Paul Rubens
+    kcg: Bitut Bulut Ruben
+    kk: Рубенс Питер Пауэл
+    ko: 페테르 파울 루벤스
+    ksh: Pitter Päul Rubens
+    kw: Peter Paul Rubens
+    ky: Рубенс, Питер
+    la: Petrus Paulus Rubens
+    lad: Rubens
+    lb: Peter Paul Rubens
+    li: Peter Paul Rubens
+    lij: Rubens
+    lld: Peter Paul Rubens
+    lmo: Pieter Paul Rubens
+    ln: Peter Paul Rubens
+    lt: Peter Paul Rubens
+    lv: Pīters Pauls Rubenss
+    mg: Pierre Paul Rubens
+    mhr: Питер Пауль Рубенс
+    mi: Peter Paul Rubens
+    mk: Петер Паул Рубенс
+    ml: പീറ്റർ പോൾ റൂബൻസ്
+    mn: Питер Рубенс
+    mr: पीटर पॉल रुबेन्स
+    ms: Peter Paul Rubens
+    mt: Peter Paul Rubens
+    mul: Peter Paul Rubens
+    my: ရူးဗင်၊ ပီတာပေါ
+    nan: Peter Paul Rubens
+    nb: Peter Paul Rubens
+    nds: Peter Paul Rubens
+    ne: पिटर पल रुबेन्स
+    nl: Peter Paul Rubens
+    nn: Peter Paul Rubens
+    nrm: Pièrre Paul Rubens
+    oc: Peter Paul Rubens
+    olo: Peter Paul Rubens
+    pa: ਪੀਟਰ ਪਾਲ ਰੂਬੇਨਸ
+    pam: Peter Paul Rubens
+    pap: Peter Paul Rubens
+    pcd: Peter Paul Rubens
+    pl: Peter Paul Rubens
+    pms: Peter Paul Rubens
+    pnb: پیٹر پال روبنز
+    pt: Peter Paul Rubens
+    pt-br: Peter Paul Rubens
+    qu: Peter Paul Rubens
+    ro: Peter Paul Rubens
+    ru: Питер Пауль Рубенс
+    rue: Петер Паул Рубенс
+    sah: Петер Паул Рубенс
+    sat: ᱨᱩᱵᱮᱱᱥ, ᱯᱤᱴᱟᱨ ᱯᱚᱣᱞ
+    sc: Peter Paul Rubens
+    scn: Peter Paul Rubens
+    sco: Peter Paul Rubens
+    se: Peter Paul Rubens
+    sgs: Pėterės Pauls Robensos
+    sh: Peter Paul Rubens
+    si: පීටර් පෝල් රූබන්ස්
+    sje: Peter Paul Rubens
+    sk: Peter Paul Rubens
+    sl: Peter Paul Rubens
+    sq: Peter Paul Rubens
+    sr: Петер Паул Рубенс
+    sr-ec: Петер Паул Рубенс
+    stq: Peter Paul Rubens
+    sv: Peter Paul Rubens
+    sw: Peter Paul Rubens
+    ta: பீட்டர் பவுல் ரூபென்ஸ்
+    tg: Петр Пол Рубенс
+    th: เปเตอร์ เปาล์ รือเบินส์
+    tly: Piter Paul Rubens
+    tr: Peter Paul Rubens
+    tt: Piter Paul Rubens
+    tyv: Питер Пауль Рубенс
+    ug: رۇبىنىس
+    uk: Пітер Пауль Рубенс
+    ur: پیٹر پال روبنز
+    uz: Rubens Piter Pauel
+    vep: Rubens Piter
+    vi: Peter Paul Rubens
+    vls: Peter Paul Rubens
+    vo: Peter Paul Rubens
+    vro: Rubensi Piitre Paul
+    war: Peter Paul Rubens
+    wuu: 彼得·保罗·鲁本斯
+    xmf: პეტერ პაულ რუბენსი
+    yi: פעטער פאל רובענס
+    yue: 魯本斯
+    zh: 彼得·保羅·魯本斯
+    zh-cn: 彼得·保罗·鲁本斯
+    zh-hans: 彼得·保罗·鲁本斯
+    zh-hant: 彼得·保羅·魯本斯
 ---
-
 # [[Rubens,Peter_Paul]] 
 
 #has_/time_/started :: 1577-06-28 

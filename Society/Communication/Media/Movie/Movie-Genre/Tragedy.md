@@ -1,33 +1,202 @@
 ---
 aliases:
-  - Tragödie
-  - Tragedy
+- bi kịch
+- Chrajidi
+- doo-skeeal
+- ejije obi mwute
+- faciə
+- Harmleikur
+- Pi-kio̍k
+- Tradjideye
+- tragedi
+- tragedia
+- tragedie
+- tragedija
+- tragedio
+- tragediya
+- Tragedy
+- Trageedzje
+- Traggedia
+- tragjedia
+- Tragoedia
+- tragèdia
+- tragédia
+- tragédie
+- Tragödie
+- tragöödia
+- Trahedya
+- traigéide
+- trajedi
+- Trajedienn
+- trajedî
+- Trajédi
+- trasiedi
+- traxedia
+- traġedja
+- traģēdija
+- whakaari aituā
+- τραγωδία
+- трагедія
+- трагеди
+- Трагедија
+- трагедия
+- трагедыя
+- фоҷиа
+- Ողբերգութիւն
+- ողբերգություն
+- טראגעדיע
+- טרגדיה
+- الميو
+- المیہ
+- تراجيديا
+- تراژدی
+- تراژیدیا
+- مأساة
+- दुखान्त नाटक
+- शोकांतिका
+- বিয়োগান্ত নাটক
+- ਤਰਾਸਦੀ
+- துன்பியல் நாடகம்
+- ಗಂಭೀರ ನಾಟಕ
+- โศกนาฏกรรม
+- ტრაგედია
+- 悲剧
+- 悲劇
+- 비극
 has_id_wikidata: Q80930
 different_from: '[[_Standards/WikiData/WD~tragicomedy,192881]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~theatre,17172848]]'
-  - '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~theatre,17172848]]'
+- '[[_Standards/WikiData/WD~drama,25372]]'
 depicted_by: '[[_Standards/WikiData/WD~La_Tragedia,126727129]]'
 OmegaWiki_Defined_Meaning: 505580
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Romeo%20and%20juliet%20brown.jpg
 Iconclass_notation: 48C8545
 IMDb_keyword:
-  - tragedy
-  - tragedy-drama
+- tragedy
+- tragedy-drama
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Tragedia.wav
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Tragedie%20%28toneel%29-article.ogg
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TRAGEDIYA.html
 PhilPapers_topic: the-tragic
 Commons_category: Tragedies
 Dewey_Decimal_Classification: 808.82512
+dv_has_:
+  name_:
+    af: Tragedie
+    ar: مأساة
+    arz: تراجيديا
+    ast: Traxedia
+    az: faciə
+    azb: تراژدی
+    ba: Трагедия
+    bar: Tragedie
+    bcl: Trahedya
+    be: трагедыя
+    be-tarask: трагедыя
+    bg: Трагедия
+    bn: বিয়োগান্ত নাটক
+    br: Trajedienn
+    bs: tragedija
+    ca: tragèdia
+    ckb: تراژیدیا
+    cs: tragédie
+    cy: trasiedi
+    da: tragedie
+    de: Tragödie
+    el: τραγωδία
+    en: tragedy
+    eo: tragedio
+    es: tragedia
+    et: tragöödia
+    eu: tragedia
+    fa: تراژدی
+    fi: tragedia
+    fr: tragédie
+    fy: Trageedzje
+    ga: traigéide
+    gan: 悲劇
+    gcr: Trajédi
+    gl: traxedia
+    gv: doo-skeeal
+    he: טרגדיה
+    hi: दुखान्त नाटक
+    hr: Tragedija
+    hsb: tragedija
+    hu: tragédia
+    hy: ողբերգություն
+    hyw: Ողբերգութիւն
+    id: tragedi
+    ig: ejije obi mwute
+    io: Tragedio
+    is: Harmleikur
+    it: tragedia
+    ja: 悲劇
+    jam: Chrajidi
+    ka: ტრაგედია
+    kaa: tragediya
+    kk: Трагедия
+    kn: ಗಂಭೀರ ನಾಟಕ
+    ko: 비극
+    ku: trajedî
+    ku-latn: trajedî
+    kw: trajedi
+    ky: Трагедия
+    la: Tragoedia
+    lt: Tragedija
+    lv: traģēdija
+    mi: whakaari aituā
+    mk: Трагедија
+    mr: शोकांतिका
+    ms: tragedi
+    mt: traġedja
+    myv: Трагедия
+    mzn: تراژدی
+    nan: Pi-kio̍k
+    nb: tragedie
+    nl: tragedie
+    nn: tragedie
+    oc: Tragèdia
+    os: трагеди
+    pa: ਤਰਾਸਦੀ
+    pl: tragedia
+    pt: tragédia
+    ro: tragedie
+    ru: трагедия
+    rue: Трагедия
+    scn: Traggedia
+    sd: الميو
+    sh: Tragedija
+    sk: tragédia
+    sl: tragedija
+    sq: tragjedia
+    sr: трагедија
+    stq: Tragödie
+    su: Tragedi
+    sv: tragedi
+    ta: துன்பியல் நாடகம்
+    tg: фоҷиа
+    th: โศกนาฏกรรม
+    tl: Trahedya
+    tr: trajedi
+    uk: трагедія
+    ur: المیہ
+    uz: Tragediya
+    vi: bi kịch
+    wa: Tradjideye
+    war: Trahedya
+    wuu: 悲剧
+    xmf: ტრაგედია
+    yi: טראגעדיע
+    yue: 悲劇
+    zh: 悲劇
 ---
-
 # [[Tragedy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tragedy,80930|WD~Tragedy,80930]]  

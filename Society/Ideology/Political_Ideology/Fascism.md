@@ -1,68 +1,167 @@
 ---
 aliases:
-  - Fascism
+- Chủ nghĩa phát xít
+- Fachime
+- faisisteachas
+- faissisme
+- Faixismo
+- Faksisme
+- Faschismus
+- Faschissem
+- Fasci-chú-gī
+- Fascis Ciō-ngiê
+- Fascism
+- fascisme
+- fascismo
+- fascismu
+- fascismus
+- Fascîximo
+- fashismo
+- Fashizim
+- Fashizm
+- fashizmi
+- Fasism
+- fasisma
+- fasisme
+- fasismi
+- fasismm
+- Fasismo
+- fasizmus
+- Faskorieth
+- faskouriezh
+- Fassisim
+- Fassism
+- faszyzm
+- Fasìśum
+- Faxisme
+- faxismo
+- faxxiżmu
+- faŝismo
+- Faşizm
+- Faşîzm
+- fašism
+- fašisma
+- fašisms
+- fašismus
+- fašizam
+- fašizem
+- fašizm
+- fašizmas
+- fašizmus
+- Fašėzmos
+- feixisme
+- Ffasgiaeth
+- Gilmrǣd
+- Kañaɣ kewiyaɣ
+- nasin pi palisa mute
+- Pasismo
+- ufashisti
+- viltrusi'o
+- φασισμός
+- Афашизм
+- фашізм
+- фашизам
+- фашизм
+- Фашизма
+- Фашизъм
+- фашызм
+- ֆաշիզմ
+- פאשיזם
+- פשיזם
+- فاسيسمى
+- فاشزم
+- فاشىسىت
+- فاشية
+- فاشيه
+- فاشیزم
+- فاشیسم
+- فاشېزم
+- فسطائيت
+- فسطائیت
+- ߝߊߛߌߛߌߦߊ
+- फ़ासीवाद
+- फासीवाद
+- फासीवादी
+- फॅसिझम
+- ফেছিবাদ
+- ফ্যাসিবাদ
+- ਫਾਸ਼ੀਵਾਦ
+- பாசிசம்
+- ఫాసిజం
+- ഫാസിസം
+- ෆැසිස්ට්වාදය
+- ลัทธิฟาสซิสต์
+- ລັດທິຟາຊິດ
+- ཧྥ་ཤི་སིའི་རིང་ལུགས།
+- ဖက်ဆစ်ဝါဒ
+- ფაშიზმი
+- ፋሺዝም
+- ファシズム
+- 法西斯主义
+- 法西斯主義
+- 파시즘
 has_id_wikidata: Q6223
 Basisklassifikation: 89.21
 Commons_category: Fascism
 country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification:
-  - 320.533
-  - 335.6
+- 320.533
+- 335.6
 does_not_have_characteristic:
-  - '[[_Standards/WikiData/WD~individualism,171995]]'
-  - '[[_Standards/WikiData/WD~egalitarianism,188958]]'
-  - '[[_Standards/WikiData/WD~democracy,7174]]'
+- '[[_Standards/WikiData/WD~individualism,171995]]'
+- '[[_Standards/WikiData/WD~egalitarianism,188958]]'
+- '[[_Standards/WikiData/WD~democracy,7174]]'
 facet_of: '[[_Standards/WikiData/WD~right-wing_extremism,204481]]'
 followed_by: '[[_Standards/WikiData/WD~neo-fascism,696116]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~autocracy,173424]]'
-  - '[[_Standards/WikiData/WD~militarism,177266]]'
-  - '[[_Standards/WikiData/WD~anti-communism,182121]]'
-  - '[[_Standards/WikiData/WD~dictator,183318]]'
-  - '[[_Standards/WikiData/WD~social_stratification,841628]]'
-  - '[[_Standards/WikiData/WD~dirigisme,1227725]]'
-  - '[[_Standards/WikiData/WD~social_conservatism,1414298]]'
-  - '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
-  - '[[_Standards/WikiData/WD~aestheticization_of_politics,4688589]]'
-  - '[[_Standards/WikiData/WD~ultranationalism,38352698]]'
-  - '[[_Standards/WikiData/WD~authoritarianism,6229]]'
-  - '[[_Standards/WikiData/WD~single-party_system,50686]]'
+- '[[_Standards/WikiData/WD~autocracy,173424]]'
+- '[[_Standards/WikiData/WD~militarism,177266]]'
+- '[[_Standards/WikiData/WD~anti-communism,182121]]'
+- '[[_Standards/WikiData/WD~dictator,183318]]'
+- '[[_Standards/WikiData/WD~social_stratification,841628]]'
+- '[[_Standards/WikiData/WD~dirigisme,1227725]]'
+- '[[_Standards/WikiData/WD~social_conservatism,1414298]]'
+- '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
+- '[[_Standards/WikiData/WD~aestheticization_of_politics,4688589]]'
+- '[[_Standards/WikiData/WD~ultranationalism,38352698]]'
+- '[[_Standards/WikiData/WD~authoritarianism,6229]]'
+- '[[_Standards/WikiData/WD~single-party_system,50686]]'
 has_goal:
-  - '[[_Standards/WikiData/WD~autarky,309070]]'
-  - '[[_Standards/WikiData/WD~supremacism,1031455]]'
-  - '[[_Standards/WikiData/WD~dictatorship,317]]'
+- '[[_Standards/WikiData/WD~autarky,309070]]'
+- '[[_Standards/WikiData/WD~supremacism,1031455]]'
+- '[[_Standards/WikiData/WD~dictatorship,317]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Italian_Fascism,747081]]'
-  - '[[_Standards/WikiData/WD~economics_of_fascism,2573585]]'
-  - '[[_Standards/WikiData/WD~Fascist_syndicalism,3961444]]'
-  - '[[_Standards/WikiData/WD~fascism_in_North_America,5436686]]'
-  - '[[_Standards/WikiData/WD~fascism_in_Europe,5436685]]'
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Italian_Fascism,747081]]'
+- '[[_Standards/WikiData/WD~economics_of_fascism,2573585]]'
+- '[[_Standards/WikiData/WD~Fascist_syndicalism,3961444]]'
+- '[[_Standards/WikiData/WD~fascism_in_North_America,5436686]]'
+- '[[_Standards/WikiData/WD~fascism_in_Europe,5436685]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
 has_use: '[[_Standards/WikiData/WD~pejorative,545779]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_fascism,109677916]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20and%20Hitler%201940%20%28retouched%29.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~fin_de_siècle,265581]]'
-  - '[[_Standards/WikiData/WD~Charles_Maurras,3048]]'
+- '[[_Standards/WikiData/WD~fin_de_siècle,265581]]'
+- '[[_Standards/WikiData/WD~Charles_Maurras,3048]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~political_movement,2738074]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-  - '[[_Standards/WikiData/WD~political_system,28108]]'
+- '[[_Standards/WikiData/WD~political_movement,2738074]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_system,28108]]'
 interested_in:
-  - '[[_Standards/WikiData/WD~youth,190007]]'
-  - '[[_Standards/WikiData/WD~direct_action,506259]]'
-  - '[[_Standards/WikiData/WD~racial_hygiene,717939]]'
-  - '[[_Standards/WikiData/WD~master_race,836329]]'
+- '[[_Standards/WikiData/WD~youth,190007]]'
+- '[[_Standards/WikiData/WD~direct_action,506259]]'
+- '[[_Standards/WikiData/WD~racial_hygiene,717939]]'
+- '[[_Standards/WikiData/WD~master_race,836329]]'
 in_opposition_to:
-  - '[[_Standards/WikiData/WD~pluralism,333024]]'
-  - '[[_Standards/WikiData/WD~anarchism,6199]]'
-  - '[[_Standards/WikiData/WD~liberalism,6216]]'
-  - '[[_Standards/WikiData/WD~democracy,7174]]'
-  - '[[_Standards/WikiData/WD~Marxism,7264]]'
-  - '[[_Standards/WikiData/WD~socialism,7272]]'
+- '[[_Standards/WikiData/WD~pluralism,333024]]'
+- '[[_Standards/WikiData/WD~anarchism,6199]]'
+- '[[_Standards/WikiData/WD~liberalism,6216]]'
+- '[[_Standards/WikiData/WD~democracy,7174]]'
+- '[[_Standards/WikiData/WD~Marxism,7264]]'
+- '[[_Standards/WikiData/WD~socialism,7272]]'
 IPA_transcription: ˈfæʃɪzəm
 Krugosvet_article: istoriya/FASHIZM.html
 Library_of_Congress_Classification: JC481
@@ -79,18 +178,200 @@ said_to_be_the_same_as: '[[_Standards/WikiData/WD~Putinism,1207817]]'
 significant_event: "[[_Standards/WikiData/WD~Fasci_d'Azione_Rivoluzionaria,5436620]]"
 significant_person: '[[_Standards/WikiData/WD~Benito_Mussolini,23559]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~totalitarianism,128135]]'
-  - '[[_Standards/WikiData/WD~populism,180490]]'
-  - '[[_Standards/WikiData/WD~nationalism,6235]]'
+- '[[_Standards/WikiData/WD~totalitarianism,128135]]'
+- '[[_Standards/WikiData/WD~populism,180490]]'
+- '[[_Standards/WikiData/WD~nationalism,6235]]'
 subreddit: fascism
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Fascism_sidebar,6329541]]'
-  - '[[_Standards/WikiData/WD~Template_Fascism,12340760]]'
+- '[[_Standards/WikiData/WD~Template_Fascism_sidebar,6329541]]'
+- '[[_Standards/WikiData/WD~Template_Fascism,12340760]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fascism,6640299]]'
 UMLS_CUI: C0870548
 U_S_National_Archives_Identifier: 10640824
+dv_has_:
+  name_:
+    ab: Афашизм
+    af: fascisme
+    am: ፋሺዝም
+    an: Faixismo
+    ang: Gilmrǣd
+    anp: फ़ासीवाद
+    ar: فاشية
+    arz: فاشيه
+    as: ফেছিবাদ
+    ast: fascismu
+    av: Фашизм
+    awa: फासीवाद
+    az: Faşizm
+    azb: فاشیزم
+    ba: Фашизм
+    bar: Faschismus
+    be: фашызм
+    be-tarask: фашызм
+    bg: Фашизъм
+    bho: फासीवाद
+    bn: ফ্যাসিবাদ
+    bo: ཧྥ་ཤི་སིའི་རིང་ལུགས།
+    br: faskouriezh
+    bs: fašizam
+    btm: Fasisme
+    bxr: Фашизм
+    ca: feixisme
+    cdo: Fascis Ciō-ngiê
+    ce: Фашизм
+    ckb: فاشیزم
+    co: fascismu
+    crh: faşizm
+    cs: fašismus
+    cv: Фашизм
+    cy: Ffasgiaeth
+    da: fascisme
+    de: Faschismus
+    de-ch: Faschismus
+    el: φασισμός
+    eml: Fasìśum
+    en: fascism
+    en-ca: Fascism
+    en-gb: fascism
+    eo: faŝismo
+    es: fascismo
+    et: fašism
+    eu: faxismo
+    ext: Fascismu
+    fa: فاشیسم
+    fi: fasismi
+    fo: fasisma
+    fr: fascisme
+    fur: Fassisim
+    fy: Faksisme
+    ga: faisisteachas
+    gcr: Fasism
+    gd: Faisisteachas
+    gl: fascismo
+    gn: fascismo
+    gsw: Faschismus
+    ha: Fascism
+    he: פשיזם
+    hi: फासीवाद
+    hif: fascism
+    hr: fašizam
+    hsb: fašizm
+    hu: fasizmus
+    hy: ֆաշիզմ
+    ia: fascismo
+    id: fasisme
+    ilo: Pasismo
+    io: fashismo
+    is: fasismi
+    it: fascismo
+    ja: ファシズム
+    jam: Fashizim
+    jbo: viltrusi'o
+    ka: ფაშიზმი
+    kaa: Fashizm
+    kbp: Kañaɣ kewiyaɣ
+    kk: Фашизм
+    ko: 파시즘
+    krc: Фашизм
+    ku: Faşîzm
+    kw: Faskorieth
+    ky: Фашизм
+    la: fascismus
+    lb: Faschismus
+    lfn: Faxisme
+    li: Fascisme
+    lij: Fascîximo
+    lld: Fascism
+    lmo: Fassism
+    lo: ລັດທິຟາຊິດ
+    lrc: فاشیسم
+    lt: fašizmas
+    lv: fašisms
+    lzh: 法西斯主義
+    mdf: Фашизма
+    mg: Fasisma
+    min: Fasisme
+    mk: фашизам
+    ml: ഫാസിസം
+    mn: Фашизм
+    mr: फॅसिझम
+    ms: fasisme
+    ms-arab: فاسيسمى
+    mt: faxxiżmu
+    mwl: Fascismo
+    my: ဖက်ဆစ်ဝါဒ
+    mzn: فاشیسم
+    nan: Fasci-chú-gī
+    nap: Fascismo
+    nb: fascisme
+    nds: Faschismus
+    ne: फासीवाद
+    new: फासीवादी
+    nl: fascisme
+    nn: fascisme
+    nqo: ߝߊߛߌߛߌߦߊ
+    oc: faissisme
+    pa: ਫਾਸ਼ੀਵਾਦ
+    pap: Fasismo
+    pcd: Fachime
+    pl: faszyzm
+    pms: Fassism
+    pnb: فاشزم
+    ps: فاشېزم
+    pt: fascismo
+    pt-br: Fascismo
+    rm: Faschissem
+    ro: fascism
+    ru: фашизм
+    rue: фашізм
+    sah: Фашизм
+    sc: fascismu
+    scn: fascismu
+    sco: Fascism
+    sd: فسطائيت
+    se: fašisma
+    sgs: Fašėzmos
+    sh: Fašizam
+    si: ෆැසිස්ට්වාදය
+    sk: fašizmus
+    sl: fašizem
+    smn: fasism
+    sms: fasismm
+    sq: fashizmi
+    sr: фашизам
+    sv: fascism
+    sw: ufashisti
+    ta: பாசிசம்
+    te: ఫాసిజం
+    tg: Фашизм
+    th: ลัทธิฟาสซิสต์
+    tl: Pasismo
+    tok: nasin pi palisa mute
+    tr: faşizm
+    tt: фашизм
+    udm: фашизм
+    ug: فاشىسىت
+    uk: фашизм
+    ur: فسطائیت
+    uz: Fashizm
+    vec: Fasismo
+    vi: Chủ nghĩa phát xít
+    vro: Fassism
+    war: Pasismo
+    wuu: 法西斯主义
+    xmf: ფაშიზმი
+    yi: פאשיזם
+    yue: 法西斯主義
+    zh: 法西斯主義
+    zh-cn: 法西斯主义
+    zh-hans: 法西斯主义
+    zh-hant: 法西斯主義
+    zh-hk: 法西斯主義
+    zh-mo: 法西斯主義
+    zh-my: 法西斯主义
+    zh-sg: 法西斯主义
+    zh-tw: 法西斯主義
 ---
-
 # [[Fascism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fascism,6223|WD~Fascism,6223]] 

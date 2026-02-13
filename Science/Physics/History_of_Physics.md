@@ -1,24 +1,152 @@
 ---
 aliases:
+- a fizika története
+- dejiny fyziky
+- dějiny fyziky
+- Fisikaren historia
+- fizik tarihi
+- fizikas vēsture
+- fysiikan historia
+- fysiikk historia
+- fysikens historia
+- Fysikkens historie
+- Geschicht vun der Physik
+- Geschichte der Physik
+- geschiedenis van de natuurkunde
+- Hanes Ffiseg
+- histoire de la physique
+- historia da física
+- Historia de la física
+- Historia del physica
+- historia fizyki
+- Historia physicae
+- historija fizike
+- historio de fiziko
+- Historio di fiziko
+- history of physics
+- història de la física
+- história da física
+- Istorija fizike
+- Lịch sử vật lý học
+- myanmar
+- Povijest fizike
+- santosh
+- Sejarah fisika
+- Sejarah fizik
+- storia della fisica
+- Storia dâ fìsica
+- zgodovina fizike
+- ιστορία της φυσικής
+- історія фізики
+- гісторыя фізікі
+- гісторыя фізыкі
+- История на физиката
+- история физики
+- Физика историйĕ
+- физика тарихы
+- Ֆիզիկայի պատմություն
+- היסטוריה של הפיזיקה
+- تاريخ الفيزياء
+- تاریخ فیزیک
+- د فزیک تاریخچه
+- فزڪس جي تاريخ
+- পদার্থবিজ্ঞানের ইতিহাস
+- পদাৰ্থ বিজ্ঞানৰ ইতিহাস
+- இயற்பியலின் வரலாறு
+- ประวัติศาสตร์ฟิสิกส์
+- ფიზიკის ისტორია
+- 物理学の歴史
+- 物理学史
+- 物理學史
+- 물리학의 역사
 has_id_wikidata: Q212881
-described_by_source: "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_natural_science,56296765]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_physics,88209559]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_physics,110990823]]"
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_physics,88209559]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_physics,110990823]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0%20%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8.wav
-facet_of: "[[_Standards/WikiData/WD~physics,413]]"
-Basisklassifikation: "33.01"
+facet_of: '[[_Standards/WikiData/WD~physics,413]]'
+Basisklassifikation: 33.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solvay%20conference%201927.jpg
 Stack_Exchange_tag:
-  - https://hsm.stackexchange.com/tags/physics
-  - https://physics.stackexchange.com/tags/history
+- https://hsm.stackexchange.com/tags/physics
+- https://physics.stackexchange.com/tags/history
 Commons_category: History of physics
 PhilPapers_topic: history-of-physics
+dv_has_:
+  name_:
+    ar: تاريخ الفيزياء
+    as: পদাৰ্থ বিজ্ঞানৰ ইতিহাস
+    ast: Historia de la física
+    be: гісторыя фізікі
+    be-tarask: гісторыя фізыкі
+    bg: История на физиката
+    bn: পদার্থবিজ্ঞানের ইতিহাস
+    bs: historija fizike
+    ca: història de la física
+    cs: dějiny fyziky
+    cv: Физика историйĕ
+    cy: Hanes Ffiseg
+    da: Fysikkens historie
+    de: Geschichte der Physik
+    el: ιστορία της φυσικής
+    en: history of physics
+    eo: historio de fiziko
+    es: historia de la física
+    eu: Fisikaren historia
+    fa: تاریخ فیزیک
+    fi: fysiikan historia
+    fr: histoire de la physique
+    gl: historia da física
+    he: היסטוריה של הפיזיקה
+    hi: santosh
+    hr: Povijest fizike
+    hu: a fizika története
+    hy: Ֆիզիկայի պատմություն
+    ia: Historia del physica
+    id: Sejarah fisika
+    io: Historio di fiziko
+    it: storia della fisica
+    ja: 物理学の歴史
+    ka: ფიზიკის ისტორია
+    ko: 물리학의 역사
+    la: Historia physicae
+    lb: Geschicht vun der Physik
+    lv: fizikas vēsture
+    ms: Sejarah fizik
+    my: myanmar
+    nb: fysikkens historie
+    nl: geschiedenis van de natuurkunde
+    pl: historia fizyki
+    ps: د فزیک تاریخچه
+    pt: história da física
+    ru: история физики
+    scn: Storia dâ fìsica
+    sd: فزڪس جي تاريخ
+    sh: Povijest fizike
+    sk: dejiny fyziky
+    sl: zgodovina fizike
+    sms: fysiikk historia
+    sr: Istorija fizike
+    sv: fysikens historia
+    ta: இயற்பியலின் வரலாறு
+    th: ประวัติศาสตร์ฟิสิกส์
+    tr: fizik tarihi
+    tt: физика тарихы
+    uk: історія фізики
+    vi: Lịch sử vật lý học
+    yue: 物理學史
+    zh: 物理学史
+    zh-cn: 物理学史
+    zh-hans: 物理学史
+    zh-hant: 物理學史
+    zh-hk: 物理學史
+    zh-sg: 物理学史
+    zh-tw: 物理學史
 ---
-
 # [[History_of_Physics]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_physics,212881|WD~History_of_physics,212881]] 

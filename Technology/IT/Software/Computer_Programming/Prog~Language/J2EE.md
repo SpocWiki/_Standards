@@ -1,8 +1,73 @@
 ---
 has_id_wikidata: Q193247
+dv_has_:
+  name_:
+    ar: منصة جافا النسخة التجارية
+    bg: Java EE
+    bs: Java platforma, enterprise izdanje
+    ca: Java EE
+    cs: Java EE
+    da: J2EE
+    de: Jakarta EE
+    el: Java Platform, Enterprise Edition
+    en: Jakarta EE
+    eo: Ĝakarto Entreprena Eldono
+    es: Java EE
+    eu: Java EE
+    fa: سکوی جاوا، نسخه سازمانی
+    fi: Java Platform, Enterprise Edition
+    fr: Java EE
+    he: Java Enterprise Edition
+    hu: Java Platform, Enterprise Edition
+    hy: J2EE
+    it: Java EE
+    ja: Jakarta EE
+    kk: Java EE
+    kk-arab: Java EE
+    kk-cn: Java EE
+    kk-cyrl: Жава ЕЕ
+    kk-kz: Жава ЕЕ
+    kk-latn: Java EE
+    kk-tr: Java EE
+    ko: 자바 플랫폼, 엔터프라이즈 에디션
+    lt: J2EE
+    ml: ജക്കാർട്ട ഇഇ
+    nl: Java 2 Enterprise Edition
+    pa: ਜਾਵਾ ਪਲੇਟਫਾਰਮ, ਐਂਟਰਪ੍ਰਾਈਜ਼ ਐਡੀਸ਼ਨ
+    pl: Java Platform, Enterprise Edition
+    pt: Java Platform, Enterprise Edition
+    ru: Java Platform, Enterprise Edition
+    sh: Java platforma, Enterprise izdanje
+    sk: J2EE
+    sl: Jakarta EE
+    sv: J2EE
+    th: J2EE
+    tr: Java EE
+    uk: Java EE
+    vi: J2EE
+    zh: Java平台企业版
+    zh-hans: Java EE
+    zh-hant: Java EE
+    zh-hk: Java EE
+    zh-sg: Java EE
+    zh-tw: Java EE
+aliases:
+- J2EE
+- Jakarta EE
+- Java 2 Enterprise Edition
+- Java EE
+- Java Enterprise Edition
+- Java Platform, Enterprise Edition
+- Java platforma, enterprise izdanje
+- Java平台企业版
+- Ĝakarto Entreprena Eldono
+- Жава ЕЕ
+- سکوی جاوا، نسخه سازمانی
+- منصة جافا النسخة التجارية
+- ਜਾਵਾ ਪਲੇਟਫਾਰਮ, ਐਂਟਰਪ੍ਰਾਈਜ਼ ਐਡੀਸ਼ਨ
+- ജക്കാർട്ട ഇഇ
+- 자바 플랫폼, 엔터프라이즈 에디션
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Jakarta EE, formerly Java Platform, Enterprise Edition (Java EE) 

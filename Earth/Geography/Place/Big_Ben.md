@@ -1,69 +1,105 @@
 ---
 dv_is_:
   same_as:
-    - "[[WD~Big_Ben,41225]]"
-    - "[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]"
-    - "[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]"
-    - "[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]"
-    - "[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]"
-    - "[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]"
+  - '[[WD~Big_Ben,41225]]'
+  - '[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]'
+  - '[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]'
+  - '[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]'
+  - '[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]'
+  - '[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]'
 dv_is_same_as:
-  - "[[WD~Big_Ben,41225]]"
-  - "[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]"
-  - "[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]"
-  - "[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]"
-  - "[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]"
-  - "[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]"
-
-has_time_started: 1843-09-28 
+- '[[WD~Big_Ben,41225]]'
+- '[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]'
+- '[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]'
+- '[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]'
+- '[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]'
+- '[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]'
+- '[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]'
+- '[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]'
+has_time_started: 1843-09-28
 aliases:
-  - Big Ben
-  - Elizabeth Tower
-  - Clock Tower
-  - Big Ben Tower
-  - St Stephen's Tower
-  - The St. Stephen's Tower
-  - Saint Stephen Tower
-  - Tower of Big Ben
-  - Big_Ben
+- Big Ben
+- Big Ben (bantayog)
+- Big Ben Tower
+- Bigbens
+- Big_Ben
+- Biq Ben
+- Clock Tower
+- Elizabeth Tower
+- Hodinová veža
+- Jem Inggris
+- Saint Stephen Tower
+- St Stephen's Tower
+- The St. Stephen's Tower
+- Tower of Big Ben
+- Vestminsterio laikrodžio bokštas
+- Μπιγκ Μπεν
+- Біг-Бен
+- Біг-Бэн
+- Биг Бен
+- Биг Бэн
+- Биг-Бен
+- Բիգ Բեն
+- Պիկ Պեն
+- ביג בן
+- بيج بين
+- بيغ بن
+- بيڭ بين
+- بگ بن
+- بگ بین
+- بیگ بێن
+- ساعت بیگ بن
+- बिग बेन
+- বিগ বেন
+- பிக் பென்
+- బిగ్ బెన్
+- ಬಿಗ್ ಬೆನ್
+- ബിഗ് ബെൻ
+- บิกเบน
+- པིན་ཆེན་ཆུ་ཚོད།
+- ဘစ်ဘင်နာရီစင်
+- ბიგ-ბენი
+- ビッグ・ベン
+- 大本钟
+- 大笨鐘
+- 大笨钟
+- 빅 벤
 has_id_wikidata: Q41225
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~bell,101401]]"
-  - "[[_Standards/WikiData/WD~turret_clock,188298]]"
-  - "[[_Standards/WikiData/WD~storey,831691]]"
-  - "[[_Standards/WikiData/WD~spire,852590]]"
-  - "[[_Standards/WikiData/WD~lantern,862454]]"
-  - "[[_Standards/WikiData/WD~tread,3289701]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Westminster,179351]]"
-architectural_style: "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
+- '[[_Standards/WikiData/WD~bell,101401]]'
+- '[[_Standards/WikiData/WD~turret_clock,188298]]'
+- '[[_Standards/WikiData/WD~storey,831691]]'
+- '[[_Standards/WikiData/WD~spire,852590]]'
+- '[[_Standards/WikiData/WD~lantern,862454]]'
+- '[[_Standards/WikiData/WD~tread,3289701]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Westminster,179351]]'
+architectural_style: '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
 architect:
-  - "[[_Standards/WikiData/WD~Augustus_Pugin,313288]]"
-  - "[[_Standards/WikiData/WD~Charles_Barry,552584]]"
+- '[[_Standards/WikiData/WD~Augustus_Pugin,313288]]'
+- '[[_Standards/WikiData/WD~Charles_Barry,552584]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~inclined_tower,797765]]"
-  - "[[_Standards/WikiData/WD~national_symbol,1128637]]"
-  - "[[_Standards/WikiData/WD~striking_clock,1480017]]"
-  - "[[_Standards/WikiData/WD~cultural_icon,3139104]]"
+- '[[_Standards/WikiData/WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~inclined_tower,797765]]'
+- '[[_Standards/WikiData/WD~national_symbol,1128637]]'
+- '[[_Standards/WikiData/WD~striking_clock,1480017]]'
+- '[[_Standards/WikiData/WD~cultural_icon,3139104]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~Caen_stone,1421807]]"
-  - "[[_Standards/WikiData/WD~limestone,23757]]"
+- '[[_Standards/WikiData/WD~Caen_stone,1421807]]'
+- '[[_Standards/WikiData/WD~limestone,23757]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Big_Ben,37733713]]"
-  - "[[_Standards/WikiData/WD~mechanism_room_of_Elizabeth_Tower,107605146]]"
+- '[[_Standards/WikiData/WD~Big_Ben,37733713]]'
+- '[[_Standards/WikiData/WD~mechanism_room_of_Elizabeth_Tower,107605146]]'
 coordinate_location: Point(-0.12457 51.50067)
 inception: 1843-09-28T00:00:00Z
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-location: "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+location: '[[_Standards/WikiData/WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 elevation_above_sea_level: 17
 height: 96
-part_of: "[[_Standards/WikiData/WD~Palace_of_Westminster,62408]]"
+part_of: '[[_Standards/WikiData/WD~Palace_of_Westminster,62408]]'
 Commons_gallery: Big Ben
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20Tower%2C%20London%2C%2021st%20august%202017%2010.00.webm
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Ben.stl
@@ -77,8 +113,108 @@ official_website: https://www.parliament.uk/bigben/
 Google_Doodle: 150th-anniversary-of-big-ben
 Commons_category: Elizabeth Tower
 hashtag: ElizabethTower
+dv_has_:
+  name_:
+    af: Big Ben
+    ar: بيغ بن
+    ary: بيڭ بين
+    arz: بيج بين
+    az: Biq Ben
+    bcl: Big Ben
+    be: Біг-Бен
+    be-tarask: Біг-Бэн
+    bew: Jem Inggris
+    bg: Биг Бен
+    bn: বিগ বেন
+    bo: པིན་ཆེན་ཆུ་ཚོད།
+    bs: Big Ben
+    ca: Big Ben
+    ce: Биг Бен
+    ceb: Big Ben (bantayog)
+    ckb: بیگ بێن
+    cs: Big Ben
+    cy: Big Ben
+    da: Big Ben
+    de: Big Ben
+    de-ch: Big Ben
+    el: Μπιγκ Μπεν
+    en: Big Ben
+    en-ca: Big Ben
+    en-gb: Big Ben
+    eo: Big Ben
+    es: Big Ben
+    et: Big Ben
+    eu: Big Ben
+    fa: ساعت بیگ بن
+    fi: Big Ben
+    fr: Big Ben
+    ga: Big Ben
+    gl: Big Ben
+    he: ביג בן
+    hi: बिग बेन
+    hr: Big Ben
+    hu: Big Ben
+    hy: Բիգ Բեն
+    hyw: Պիկ Պեն
+    id: Big Ben
+    is: Big Ben
+    it: Big Ben
+    ja: ビッグ・ベン
+    jv: Big Ben
+    ka: ბიგ-ბენი
+    kaa: Big Ben
+    kk: Big Ben
+    kn: ಬಿಗ್ ಬೆನ್
+    ko: 빅 벤
+    ky: Биг Бен
+    la: Big Ben
+    lfn: Big Ben
+    lt: Vestminsterio laikrodžio bokštas
+    lv: Bigbens
+    min: Big Ben
+    mk: Биг Бен
+    ml: ബിഗ് ബെൻ
+    mn: Биг Бэн
+    mr: बिग बेन
+    ms: Big Ben
+    my: ဘစ်ဘင်နာရီစင်
+    nb: Big Ben
+    nl: Big Ben
+    nn: Big Ben
+    oc: Big Ben
+    os: Биг-Бен
+    pl: Big Ben
+    pnb: بگ بن
+    pt: Big Ben
+    pt-br: Big Ben
+    ro: Big Ben
+    ru: Биг-Бен
+    sco: Big Ben
+    sh: Big Ben
+    sk: Hodinová veža
+    sl: Big Ben
+    so: Big Ben
+    sq: Big Ben
+    sr: Биг Бен
+    sv: Big Ben
+    ta: பிக் பென்
+    te: బిగ్ బెన్
+    th: บิกเบน
+    tr: Big Ben
+    tt: Биг-Бен
+    uk: Біг-Бен
+    ur: بگ بین
+    uz: Big Ben
+    vec: Big Ben
+    vi: Big Ben
+    war: Big Ben
+    wuu: 大本钟
+    yue: 大笨鐘
+    zh: 大本钟
+    zh-hans: 大本钟
+    zh-my: 大笨钟
+    zh-sg: 大笨钟
 ---
-
 # [[Big_Ben]] 
 
 ![[../../../assets/Big_Ben.png]] 

@@ -1,8 +1,51 @@
 ---
 aliases:
-  - Stauroteuthidae
+- Chunioteuthis
+- Stauroteuthidae
+- Stauroteuthis
+- Łóóʼ bigaan tseebíí bikǫʼígíí
+- 十字蛸屬
 title: Stauroteuthis
 has_id_wikidata: Q2577734
+dv_has_:
+  name_:
+    an: Stauroteuthis
+    ast: Stauroteuthis
+    bg: Stauroteuthis
+    ca: Stauroteuthis
+    ceb: Chunioteuthis
+    de: Stauroteuthis
+    en: Stauroteuthis
+    eo: Stauroteuthis
+    es: Stauroteuthis
+    eu: Stauroteuthis
+    ext: Stauroteuthis
+    fi: Stauroteuthis
+    fr: Stauroteuthis
+    ga: Stauroteuthis
+    gl: Stauroteuthis
+    ia: Stauroteuthis
+    ie: Stauroteuthis
+    io: Stauroteuthis
+    it: Stauroteuthis
+    la: Stauroteuthis
+    mul: Stauroteuthis
+    nl: Stauroteuthis
+    nv: Łóóʼ bigaan tseebíí bikǫʼígíí
+    oc: Stauroteuthis
+    pl: Stauroteuthis
+    pt: Stauroteuthis
+    pt-br: Stauroteuthis
+    ro: Stauroteuthis
+    ru: Stauroteuthis
+    sq: Stauroteuthis
+    sv: Chunioteuthis
+    tr: Stauroteuthis
+    uk: Stauroteuthis
+    vi: Stauroteuthis
+    vo: Stauroteuthis
+    war: Chunioteuthis
+    zh: 十字蛸屬
 ---
 ## Phylogeny 
 

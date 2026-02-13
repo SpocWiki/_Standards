@@ -1,32 +1,298 @@
 ---
 aliases:
-  - Family (biology)
-  - Family
-  - bio~Family
+- bio~Family
+- család
+- dangi
+- družina
+- dzimta
+- faimily
+- fameja
+- famia
+- famigghia
+- famiglia
+- Famij
+- famija
+- famile
+- familha
+- famili
+- familia
+- Familie
+- familio
+- familj
+- familja
+- Famill
+- famille
+- Family
+- Family (biology)
+- familya
+- famylje
+- famìa
+- família
+- famîle
+- fanmi
+- femielje
+- fine
+- fəsilə
+- heimo
+- hiäimu
+- họ
+- juehepehẽ
+- kaluwarga
+- keluarga
+- kerentiad
+- kho
+- kulawarga
+- oila
+- pamilia
+- pamilya
+- porodica
+- rikch'aq ayllu
+- rodzina
+- rodzëzna
+- sugukond
+- swójba
+- swójźba
+- tawacult
+- tawja
+- teaghlach
+- teulu
+- umndeni
+- usapho
+- xyjzon
+- xêzan
+- ætt
+- čearda
+- čeleď
+- čeľaď
+- ğäilä
+- šeima
+- οικογένεια
+- бинонад
+- гаилә
+- дезал
+- доьзал
+- йыш
+- кэргэн
+- родина
+- семејство
+- семейство
+- сямейства
+- тира
+- тукум
+- тұқымдас
+- фамилија
+- ғаилә
+- ընտանիք
+- משפחה
+- פאמיליע
+- تیره
+- حياتياتي خاندان
+- خاندان
+- خانواده
+- خێزان
+- عائیله
+- فاميلة
+- فصيلة
+- فصيله
+- ٹبر
+- कुल
+- परिवार
+- পরিবার
+- পৰিয়াল
+- કુટૂંબ
+- குடும்பம்
+- కుటుంబము
+- കുടുംബം
+- කුලය
+- วงศ์
+- မျိုးရင်း
+- ოჯახი
+- ფანია
+- ᏧᏂᏍᎪᏯᏓ
+- ⵜⴰⵡⵊⴰ
+- 科
+- 과
 has_id_wikidata: Q35409
 Commons_category: Family (biology)
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~group,83306]]'
-  - '[[_Standards/WikiData/WD~Rodina,2161157]]'
-  - '[[_Standards/WikiData/WD~gene_family,2278983]]'
-  - '[[_Standards/WikiData/WD~ichnofamily,115227428]]'
-  - '[[_Standards/WikiData/WD~oofamily,125838324]]'
-  - '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~group,83306]]'
+- '[[_Standards/WikiData/WD~Rodina,2161157]]'
+- '[[_Standards/WikiData/WD~gene_family,2278983]]'
+- '[[_Standards/WikiData/WD~ichnofamily,115227428]]'
+- '[[_Standards/WikiData/WD~oofamily,125838324]]'
+- '[[_Standards/WikiData/WD~family,8436]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 347856
 part_of:
-  - '[[_Standards/WikiData/WD~suborder,5867959]]'
-  - '[[_Standards/WikiData/WD~group,9281160]]'
-  - '[[_Standards/WikiData/WD~epifamily,10296147]]'
-  - '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~suborder,5867959]]'
+- '[[_Standards/WikiData/WD~group,9281160]]'
+- '[[_Standards/WikiData/WD~epifamily,10296147]]'
+- '[[_Standards/WikiData/WD~order,36602]]'
+dv_has_:
+  name_:
+    af: familie
+    an: familia
+    ar: فصيلة
+    ary: فاميلة
+    arz: فصيله
+    as: পৰিয়াল
+    ast: familia
+    az: fəsilə
+    azb: عائیله
+    ba: ғаилә
+    ban: kaluwarga
+    bar: Famij
+    be: сямейства
+    be-tarask: сямейства
+    bg: семейство
+    bho: परिवार
+    bn: পরিবার
+    br: kerentiad
+    bs: porodica
+    ca: família
+    ce: доьзал
+    chr: ᏧᏂᏍᎪᏯᏓ
+    ckb: خێزان
+    co: famiglia
+    cs: čeleď
+    csb: rodzëzna
+    cv: йыш
+    cy: teulu
+    da: familie
+    de: Familie
+    diq: familya
+    dsb: swójźba
+    el: οικογένεια
+    en: family
+    en-ca: family
+    en-gb: family
+    eo: familio
+    es: familia
+    et: sugukond
+    eu: familia
+    fa: تیره
+    fi: heimo
+    fr: famille
+    frr: famile
+    fy: famylje
+    ga: fine
+    gd: teaghlach
+    gl: familia
+    gn: juehepehẽ
+    gsw: Familie
+    gu: કુટૂંબ
+    ha: dangi
+    he: משפחה
+    hi: कुल
+    hr: porodica
+    hsb: swójba
+    ht: fanmi
+    hu: család
+    hy: ընտանիք
+    ia: familia
+    id: famili
+    ilo: pamilia
+    inh: дезал
+    io: familio
+    is: ætt
+    it: famiglia
+    ja: 科
+    jv: kulawarga
+    ka: ოჯახი
+    kab: tawacult
+    kk: тұқымдас
+    ko: 과
+    ks: خاندان
+    ku: famîle
+    ku-latn: xêzan
+    ky: тукум
+    la: familia
+    lb: Famill
+    li: femielje
+    lmo: famìa
+    lt: šeima
+    lv: dzimta
+    min: famili
+    mk: семејство
+    ml: കുടുംബം
+    ms: keluarga
+    mt: familja
+    mwl: família
+    my: မျိုးရင်း
+    mzn: خانواده
+    nan: kho
+    nb: familie
+    nds: Familie
+    nl: familie
+    nn: familie
+    oc: familha
+    os: бинонад
+    pam: familia
+    pap: famia
+    pl: rodzina
+    pms: famija
+    pnb: ٹبر
+    pt: família
+    pt-br: família
+    qu: rikch'aq ayllu
+    ro: familie
+    ru: семейство
+    rue: родина
+    sah: кэргэн
+    scn: famigghia
+    sco: faimily
+    sd: حياتياتي خاندان
+    se: čearda
+    sh: porodica
+    shi: tawja
+    si: කුලය
+    sk: čeľaď
+    sl: družina
+    smn: hiäimu
+    sr: фамилија
+    su: familia
+    sv: familj
+    sw: familia
+    ta: குடும்பம்
+    te: కుటుంబము
+    tg: тира
+    th: วงศ์
+    tl: pamilya
+    tly: xyjzon
+    tr: familya
+    tt: гаилә
+    tt-cyrl: гаилә
+    tt-latn: ğäilä
+    udm: семейство
+    uk: родина
+    ur: خاندان
+    uz: oila
+    vec: fameja
+    vi: họ
+    vls: Familie
+    wa: famile
+    war: familia
+    wuu: 科
+    xh: usapho
+    xmf: ფანია
+    yi: פאמיליע
+    yue: 科
+    zea: femielje
+    zgh: ⵜⴰⵡⵊⴰ
+    zh: 科
+    zh-cn: 科
+    zh-hans: 科
+    zh-hant: 科
+    zh-hk: 科
+    zh-tw: 科
+    zu: umndeni
 ---
-
 # [[bio~Family]] 
 
 #is_a_/taxon_rank  

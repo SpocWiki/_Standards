@@ -1,14 +1,80 @@
 ---
 aliases:
-  - Fernunterricht
-  - Distance_Education
-  - Distance Education
+- afstandsonderwijs
+- dedistanca edukado
+- Distance Education
+- Distance_Education
+- distansundervisning
+- Distant təhsil
+- distantsõpe
+- distanční vzdělávání
+- duurano sikjiba
+- educació a distància
+- Educación a distancia
+- educação a distância
+- edukacja na odległość
+- Edukimi në distancë
+- Elimu ya umbali
+- etäopiskelu
+- Fernunterricht
+- Fjarnám
+- fjernundervisning
+- formation à distance
+- formazione a distanza
+- Giáo dục từ xa
+- gáiddusoahpahus
+- káidusmáttááttâs
+- maajhööhpehtimmie
+- mälggatåhpadus
+- nuotolinis mokymas
+- Obrazovanje na daljinu
+- ougglestmättʼtõs
+- Pandidikan jarak jauah
+- Pembelajaran Jarak Jauh
+- Pendidikan jarak jauh
+- poučevanje na daljavo
+- tistansila opiskelu
+- távoktatás
+- tālmācība
+- Urrutiko hezkuntza
+- Uzaktan eğitim
+- Εξ αποστάσεως εκπαίδευση
+- дистанційне навчання
+- Дистанционно обучение
+- дистанционное обучение
+- дыстанцыйнае навучанне
+- дыстанцыйнае навучаньне
+- Зайны сургалт
+- Образовање на даљину
+- образование на далечина
+- Таълими фосилавӣ
+- Հեռավար ուսուցում
+- למידה מרחוק
+- تعليم عن بعد
+- دانشگاه آنلاین
+- فاصلاتی تعلیم
+- आभासी वर्ग
+- दूर शिक्षा
+- दूरस्थ शिक्षा
+- ਦੂਰਵਰਤੀ ਸਿੱਖਿਆ
+- தொலைநிலைக் கல்வி
+- దూర విద్య
+- ದೂರಶಿಕ್ಷಣ
+- การศึกษาทางไกล
+- ཡོངས་འབྲེལ་ཤེས་ཡོན། Virtual Class
+- အဝေးသင်ပညာရေး
+- 远程教育
+- 遙距教學
+- 遙距教育
+- 遠隔教育
+- 遥距教育
+- 원격 교육
 has_id_wikidata: Q159595
 opposite_of: '[[_Standards/WikiData/WD~on_campus_education,2114919]]'
 different_from: '[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Q11837277,11837277]]'
-  - '[[_Standards/WikiData/WD~distance_teaching,105450646]]'
+- '[[_Standards/WikiData/WD~Q11837277,11837277]]'
+- '[[_Standards/WikiData/WD~distance_teaching,105450646]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
 subclass_of: '[[_Standards/WikiData/WD~education,8434]]'
 OmegaWiki_Defined_Meaning: 536127
@@ -19,8 +85,87 @@ Basisklassifikation: 81.85
 UMLS_CUI: C0600563
 ComputerLanguage_com_definition: distance+learning
 MeSH_tree_code: I02.195
+dv_has_:
+  name_:
+    ar: تعليم عن بعد
+    ast: Educación a distancia
+    az: Distant təhsil
+    be: дыстанцыйнае навучанне
+    be-tarask: дыстанцыйнае навучаньне
+    bg: Дистанционно обучение
+    ca: educació a distància
+    cs: distanční vzdělávání
+    da: fjernundervisning
+    de: Fernunterricht
+    dz: ཡོངས་འབྲེལ་ཤེས་ཡོན། Virtual Class
+    el: Εξ αποστάσεως εκπαίδευση
+    en: distance education
+    en-us: distance education
+    eo: dedistanca edukado
+    es: educación a distancia
+    et: distantsõpe
+    eu: Urrutiko hezkuntza
+    fa: دانشگاه آنلاین
+    fi: etäopiskelu
+    fit: tistansila opiskelu
+    fr: formation à distance
+    gl: educación a distancia
+    he: למידה מרחוק
+    hi: दूरस्थ शिक्षा
+    hr: Obrazovanje na daljinu
+    hu: távoktatás
+    hy: Հեռավար ուսուցում
+    id: Pembelajaran Jarak Jauh
+    is: Fjarnám
+    it: formazione a distanza
+    ja: 遠隔教育
+    kn: ದೂರಶಿಕ್ಷಣ
+    ko: 원격 교육
+    lt: nuotolinis mokymas
+    lv: tālmācība
+    min: Pandidikan jarak jauah
+    mk: образование на далечина
+    mn: Зайны сургалт
+    mr: आभासी वर्ग
+    ms: Pendidikan jarak jauh
+    my: အဝေးသင်ပညာရေး
+    nb: fjernundervisning
+    ne: दूर शिक्षा
+    nl: afstandsonderwijs
+    pa: ਦੂਰਵਰਤੀ ਸਿੱਖਿਆ
+    pl: edukacja na odległość
+    pt: educação a distância
+    rmf: duurano sikjiba
+    ru: дистанционное обучение
+    se: gáiddusoahpahus
+    sl: poučevanje na daljavo
+    sma: maajhööhpehtimmie
+    smj: mälggatåhpadus
+    smn: káidusmáttááttâs
+    sms: ougglestmättʼtõs
+    sq: Edukimi në distancë
+    sr: Образовање на даљину
+    sr-ec: Образовање на даљину
+    sr-el: Obrazovanje na daljinu
+    sv: distansundervisning
+    sw: Elimu ya umbali
+    ta: தொலைநிலைக் கல்வி
+    te: దూర విద్య
+    tg: Таълими фосилавӣ
+    th: การศึกษาทางไกล
+    tr: Uzaktan eğitim
+    uk: дистанційне навчання
+    ur: فاصلاتی تعلیم
+    vi: Giáo dục từ xa
+    yue: 遙距教學
+    zh: 远程教育
+    zh-cn: 远程教育
+    zh-hans: 遥距教育
+    zh-hant: 遙距教育
+    zh-hk: 遙距教育
+    zh-sg: 遥距教育
+    zh-tw: 遙距教育
 ---
-
 # [[Distance_Education]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Distance_education,159595|WD~Distance_education,159595]] 

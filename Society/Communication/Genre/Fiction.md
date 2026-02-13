@@ -1,22 +1,127 @@
 ---
 aliases:
-  - Fiction
+- akụkọ ifo
+- anansesɛm
+- asoosama
+- bediiy edebiyat
+- binalabála
+- bunilizi
+- cereka
+- faltazi
+- far-skeealaght
+- feection
+- ffuglen
+- ficcion
+- ficció
+- ficción
+- ficsean
+- fictie
+- fictio
+- Fiction
+- ficção
+- ficțiune
+- fikce
+- fikcia
+- fikcija
+- fikcio
+- fikció
+- fikcjonalność
+- fikshan
+- fiksi
+- fiksie
+- fiksje
+- fiksjon
+- fiksyon
+- fiktio
+- fiktion
+- Fiktioun
+- fiktiveso
+- fikzio
+- fikšuvdna
+- finsion
+- fintaria
+- fugieth
+- giả tưởng
+- hi-kò͘-lūi
+- honak
+- ilmiy-badiiy adabiyot
+- izdomājums
+- kathang-isip
+- kuentu
+- kurgu
+- male awaal
+- menėnis stėlios
+- muaanu mufuka
+- piksiyon
+- rekan
+- skáldskapur
+- susmatanon
+- tasugna
+- trillim
+- uydurma hekayə
+- väljamõeldis
+- μυθοπλασία
+- адабиёти бадеӣ
+- мастацкі вымысел
+- мастацкая выдумка
+- матур әдәбият
+- нәфис әҙәбиәт
+- суратлау адабият
+- уран зохёол
+- фікшн
+- фикција
+- художественный вымысел
+- художествено произведение
+- художній вимисел
+- чеберлыко визьлобан
+- ғылыми-көркем әдебиет
+- գեղարուեստական գրականութիւն
+- գեղարվեստական գրականություն
+- בעלעטריסטיק
+- סיפורת
+- ادبیات داستانی
+- افسانوي
+- تعاويد
+- خيال
+- خەیاڵ
+- فِکشن
+- فکشن
+- ناروشتي
+- چريک
+- काल्पनिक साहित्य
+- फिक्सन
+- কল্পকাহিনী
+- ਗਲਪ
+- புனைகதை
+- కల్పన
+- ಕಟ್ಟುಕಥೆ
+- ഫിക്ഷൻ
+- ප්රබන්ධ
+- บันเทิงคดี
+- გამოგონილი ისტორია
+- フィクション
+- 小說
+- 虚构
+- 虚构作品
+- 虛構作品
+- 虛構故仔
+- 허구
 has_id_wikidata: Q8253
 Commons_category: Fiction
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~fiction,12311287]]'
-  - '[[_Standards/WikiData/WD~fictional_creative_work,15306849]]'
-  - '[[_Standards/WikiData/WD~creative_work,17537576]]'
-  - '[[_Standards/WikiData/WD~fiction_literature,38072107]]'
-  - '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
-  - '[[_Standards/WikiData/WD~mythology,9134]]'
+- '[[_Standards/WikiData/WD~fiction,12311287]]'
+- '[[_Standards/WikiData/WD~fictional_creative_work,15306849]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~fiction_literature,38072107]]'
+- '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
+- '[[_Standards/WikiData/WD~mythology,9134]]'
 draft: true
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01010001
 excalidraw_autoexport: svg
@@ -24,12 +129,12 @@ excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
 hashtag:
-  - fiction
+- fiction
 has_characteristic: '[[_Standards/WikiData/WD~fiction_genre,108465955]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
+- '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
 has_Template:
-  - '[[Extract~Note~Template]]'
+- '[[Extract~Note~Template]]'
 has_time_started: 2025-07-21
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20par%20John%20Tenniel%2030.png
 instance_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
@@ -42,7 +147,7 @@ layout: ''
 license: (c)copyrighted
 linkTitle: Fiction
 MeSH_tree_code:
-  - V02.450
+- V02.450
 OmegaWiki_Defined_Meaning: 1640010
 opposite_of: '[[_Standards/WikiData/WD~non-fiction,213051]]'
 PhilPapers_topic: fiction
@@ -50,13 +155,152 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 publish: false
 publishDate: ''
 tags:
-  - Fiction
-  - excalidraw
+- Fiction
+- excalidraw
 title: Fiction
 type: private_note
 U_S_National_Archives_Identifier: 10639193
+dv_has_:
+  name_:
+    af: fiksie
+    ak: anansesɛm
+    an: ficción
+    ar: خيال
+    ary: تعاويد
+    as: কল্পকাহিনী
+    ast: ficción
+    az: uydurma hekayə
+    ba: нәфис әҙәбиәт
+    be: мастацкі вымысел
+    be-tarask: мастацкая выдумка
+    bg: художествено произведение
+    bn: কল্পকাহিনী
+    br: faltazi
+    bs: fikcija
+    btm: fiksi
+    bxr: уран зохёол
+    ca: ficció
+    ceb: piksiyon
+    ckb: خەیاڵ
+    crh: bediiy edebiyat
+    cs: fikce
+    cy: ffuglen
+    da: fiktion
+    de: Fiktion
+    el: μυθοπλασία
+    en: fiction
+    eo: fikcio
+    es: ficción
+    et: väljamõeldis
+    eu: fikzio
+    fa: ادبیات داستانی
+    fi: fiktio
+    fr: fiction
+    fy: fiksje
+    ga: ficsean
+    gan: 小說
+    gcr: fiksyon
+    gl: ficción
+    gsw: Fiktion
+    gv: far-skeealaght
+    ha: fiction
+    he: סיפורת
+    hi: काल्पनिक साहित्य
+    hif: fiction
+    hr: fikcija
+    ht: fiksyon
+    hu: fikció
+    hy: գեղարվեստական գրականություն
+    hyw: գեղարուեստական գրականութիւն
+    ia: fiction
+    id: fiksi
+    ig: akụkọ ifo
+    ilo: binalabála
+    io: fiktiveso
+    is: skáldskapur
+    it: fiction
+    ja: フィクション
+    jam: fikshan
+    jv: rekan
+    ka: გამოგონილი ისტორია
+    kab: tasugna
+    kk: ғылыми-көркем әдебиет
+    kn: ಕಟ್ಟುಕಥೆ
+    ko: 허구
+    krc: суратлау адабият
+    ku: honak
+    ku-latn: honak
+    kw: fugieth
+    la: fictio
+    lb: Fiktioun
+    lmo: fintaria
+    lt: fikcija
+    lua: muaanu mufuka
+    lv: izdomājums
+    mk: фикција
+    ml: ഫിക്ഷൻ
+    ms: cereka
+    ms-arab: چريک
+    nan: hi-kò͘-lūi
+    nb: fiksjon
+    nds: Fiktion
+    nds-nl: fictie
+    new: फिक्सन
+    nl: fictie
+    nn: fiksjon
+    oc: ficcion
+    om: asoosama
+    pa: ਗਲਪ
+    pam: kuentu
+    pl: fikcjonalność
+    pms: fiction
+    pnb: فِکشن
+    ps: ناروشتي
+    pt: ficção
+    ro: ficțiune
+    ru: художественный вымысел
+    rue: фікшн
+    sco: feection
+    sd: افسانوي
+    se: fikšuvdna
+    sgs: menėnis stėlios
+    sh: fikcija
+    si: ප්රබන්ධ
+    sk: fikcia
+    sl: fikcija
+    smn: fiktio
+    sms: fiktio
+    so: male awaal
+    sq: trillim
+    sr: фикција
+    sr-ec: фикција
+    su: fiksi
+    sv: fiktion
+    sw: bunilizi
+    ta: புனைகதை
+    te: కల్పన
+    tg: адабиёти бадеӣ
+    th: บันเทิงคดี
+    tl: kathang-isip
+    tr: kurgu
+    tt: матур әдәбият
+    udm: чеберлыко визьлобан
+    uk: художній вимисел
+    ur: فکشن
+    uz: ilmiy-badiiy adabiyot
+    vec: finsion
+    vi: giả tưởng
+    war: susmatanon
+    wuu: 虚构作品
+    yi: בעלעטריסטיק
+    yue: 虛構故仔
+    zh: 虚构
+    zh-cn: 虚构作品
+    zh-hans: 虚构作品
+    zh-hant: 虛構作品
+    zh-hk: 虛構作品
+    zh-tw: 虛構作品
 ---
-
 # [[Fiction]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fiction,8253|WD~Fiction,8253]] 

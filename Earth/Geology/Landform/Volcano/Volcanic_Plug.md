@@ -1,38 +1,110 @@
 ---
 aliases:
+- coll volcànic
+- collo vulcanico
+- Colo volcánico
+- Cuello volcanico
+- Cuello volcánico
+- Gígtappi
+- lafkolo
+- lávadugó
+- lávová zátka
+- neck
+- neck vulcânico
+- Nek
+- Nekk
+- Pescuezu volcánicu
+- Sumbat vulkanik
+- Sumendi lepo
+- volcanic plug
+- Vulkan sütunu
+- vulkanische plug
+- Vulkanisk plugg
+- Vulkansk plugg
+- Vulkanski čep
+- yanardağ boynu
+- Вулканичен нек
+- вулканско грло
+- Нек
+- некк
+- нэк
+- פקק געשי
+- القصبة البركانية
+- درپوش آتشفشانی
+- ნეკი
+- 岩頸
+- 火山栓
+- 火山頸
 has_id_wikidata: Q653139
 different_from:
-  - "[[_Standards/WikiData/WD~lava_dome,534282]]"
-  - "[[_Standards/WikiData/WD~Lava_spine,718569]]"
-  - "[[_Standards/WikiData/WD~volcanic_pipe,2261752]]"
-  - "[[_Standards/WikiData/WD~Nek,45036]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- '[[_Standards/WikiData/WD~lava_dome,534282]]'
+- '[[_Standards/WikiData/WD~Lava_spine,718569]]'
+- '[[_Standards/WikiData/WD~volcanic_pipe,2261752]]'
+- '[[_Standards/WikiData/WD~Nek,45036]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~volcanic_landform,29025902]]"
-  - "[[_Standards/WikiData/WD~igneous_intrusion,61041319]]"
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
+- '[[_Standards/WikiData/WD~igneous_intrusion,61041319]]'
 Commons_category: Volcanic plugs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]"
-    - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]"
-    - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]"
+  - '[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]'
+  - '[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]'
+  - '[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]"
-  - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]"
-  - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]"
+- '[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]'
+- '[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]'
+- '[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]'
+- '[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]'
+- '[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]'
+- '[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]'
+dv_has_:
+  name_:
+    an: Cuello volcanico
+    ar: القصبة البركانية
+    ast: Pescuezu volcánicu
+    az: Vulkan sütunu
+    be-tarask: нэк
+    bg: Вулканичен нек
+    ca: coll volcànic
+    cs: lávová zátka
+    en: volcanic plug
+    eo: lafkolo
+    es: Cuello volcánico
+    et: Nekk
+    eu: Sumendi lepo
+    fa: درپوش آتشفشانی
+    fr: neck
+    gl: Colo volcánico
+    he: פקק געשי
+    hu: lávadugó
+    id: Sumbat vulkanik
+    is: Gígtappi
+    it: collo vulcanico
+    ja: 岩頸
+    ka: ნეკი
+    ky: Некк
+    mk: вулканско грло
+    nb: Vulkansk plugg
+    nl: vulkanische plug
+    pl: Nek
+    pt: neck vulcânico
+    ru: некк
+    sr: Vulkanski čep
+    sv: Vulkanisk plugg
+    tr: yanardağ boynu
+    uk: Нек
+    yue: 火山頸
+    zh: 火山栓
 ---
-
 # [[Volcanic_Plug]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]  

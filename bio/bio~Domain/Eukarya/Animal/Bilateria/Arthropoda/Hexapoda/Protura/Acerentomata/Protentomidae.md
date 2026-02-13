@@ -1,8 +1,54 @@
 ---
 aliases:
-  - Protentomidae
+- Protentomidae
+- プロテントミーデ
+- 始蚖科
 title: Protentomidae
 has_id_wikidata: Q3407963
+dv_has_:
+  name_:
+    an: Protentomidae
+    ast: Protentomidae
+    bg: Protentomidae
+    ca: Protentomidae
+    ceb: Protentomidae
+    de: Protentomidae
+    en: Protentomidae
+    eo: Protentomidae
+    es: Protentomidae
+    eu: Protentomidae
+    ext: Protentomidae
+    fi: Protentomidae
+    fr: Protentomidae
+    ga: Protentomidae
+    gl: Protentomidae
+    ia: Protentomidae
+    ie: Protentomidae
+    io: Protentomidae
+    it: Protentomidae
+    ja: プロテントミーデ
+    la: Protentomidae
+    mul: Protentomidae
+    nb: Protentomidae
+    nl: Protentomidae
+    oc: Protentomidae
+    pl: Protentomidae
+    pt: Protentomidae
+    pt-br: Protentomidae
+    ro: Protentomidae
+    ru: Protentomidae
+    sq: Protentomidae
+    sv: Protentomidae
+    tr: Protentomidae
+    uk: Protentomidae
+    uz: Protentomidae
+    vi: Protentomidae
+    vo: Protentomidae
+    war: Protentomidae
+    yo: Protentomidae
+    zh: 始蚖科
+    zh-cn: 始蚖科
+    zh-tw: 始蚖科
 ---
 # [[Protentomidae]] 
 

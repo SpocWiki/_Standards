@@ -1,20 +1,53 @@
 ---
-has_time_started: 1400-01-01 
-has_time_stopped: 1700-01-01 
+has_time_started: 1400-01-01
+has_time_stopped: 1700-01-01
 aliases:
-  - Plate armour
-  - Plate armor
-  - Rüstung
-  - Plate_Armor
-  - Plate Armor
+- Armadura de placas
+- armadura de placas de acero
+- Armadura de plaques d'aceru
+- armatura a piastre
+- armură
+- arnès
+- harnois
+- Herneskja
+- Houarnwisk-pladek
+- levyhaarniska
+- Piastra (armadura)
+- plaatharnas
+- Pladerustning
+- Plaka zırh
+- Plakazko armadura
+- Plate armor
+- Plate armour
+- Plate_Armor
+- Plattenpanzer
+- ploščni oklep
+- plátová zbroj
+- plākšņu bruņas
+- rustning
+- Rüstung
+- zbroja płytowa
+- Zirah lempeng
+- ŝtala korpa kiraso
+- лати
+- латы
+- полн оклоп
+- Пун оклоп
+- Ялтсан хуяг
+- שריון לוחות
+- درع صفيحية
+- زره صفحهای
+- プレートアーマー
+- 板甲
+- 플레이트 아머
 has_id_wikidata: Q3391846
 has_part_s_:
-  - '[[_Standards/WikiData/WD~pauldron,340673]]'
-  - '[[_Standards/WikiData/WD~arm_armor,689965]]'
-  - '[[_Standards/WikiData/WD~leg_armor,814821]]'
-  - '[[_Standards/WikiData/WD~breastplate,858236]]'
-  - '[[_Standards/WikiData/WD~couter,1331737]]'
-  - '[[_Standards/WikiData/WD~backplate,28791652]]'
+- '[[_Standards/WikiData/WD~pauldron,340673]]'
+- '[[_Standards/WikiData/WD~arm_armor,689965]]'
+- '[[_Standards/WikiData/WD~leg_armor,814821]]'
+- '[[_Standards/WikiData/WD~breastplate,858236]]'
+- '[[_Standards/WikiData/WD~couter,1331737]]'
+- '[[_Standards/WikiData/WD~backplate,28791652]]'
 different_from: '[[_Standards/WikiData/WD~body_armor,485027]]'
 subclass_of: '[[_Standards/WikiData/WD~body_armor,485027]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
@@ -22,8 +55,47 @@ end_time: 1700-01-01T00:00:00Z
 Commons_category: Plate armour
 start_time: 1400-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rustning%2C%20Gustav%20Vasa%20-%20Livrustkammaren%20-%2032921.tif
+dv_has_:
+  name_:
+    ar: درع صفيحية
+    ast: Armadura de plaques d'aceru
+    be-tarask: латы
+    br: Houarnwisk-pladek
+    ca: arnès
+    cs: plátová zbroj
+    da: Pladerustning
+    de: Plattenpanzer
+    en: plate armour
+    en-gb: plate armour
+    eo: ŝtala korpa kiraso
+    es: armadura de placas de acero
+    eu: Plakazko armadura
+    fa: زره صفحهای
+    fi: levyhaarniska
+    fr: harnois
+    he: שריון לוחות
+    id: Zirah lempeng
+    is: Herneskja
+    it: armatura a piastre
+    ja: プレートアーマー
+    ko: 플레이트 아머
+    lv: plākšņu bruņas
+    mk: полн оклоп
+    mn: Ялтсан хуяг
+    nl: plaatharnas
+    pl: zbroja płytowa
+    pms: Piastra (armadura)
+    pt: Armadura de placas
+    ro: armură
+    ru: латы
+    sl: ploščni oklep
+    sr: Пун оклоп
+    sv: rustning
+    tr: Plaka zırh
+    uk: лати
+    yue: 板甲
+    zh: 板甲
 ---
-
 # [[Plate_Armor]] 
 
 #is_/same_as :: [[WD~Plate_armor,3391846]] 

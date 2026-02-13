@@ -1,30 +1,87 @@
 ---
 aliases:
-  - 獼猴桃
-  - 猕猴桃
-  - Chinese gooseberry
-  - Kiwifruit
+- A New Etymological Vocabulary of Pashto
+- Actinidiae fructus
+- Aktinidija
+- Buah kiwi
+- Chinese gooseberry
+- Chʼil dishooí
+- cíobhaí
+- cīnisc gōsberige
+- ffrwyth ciwi
+- huakiwi
+- kiivi
+- kili pi selo waso
+- Kivi
+- Kivi (meva)
+- Kivi (ovocie)
+- kivifrukto
+- Kivis
+- Kiwe
+- kiwi
+- Kiwi (prutas)
+- kiwi fruit
+- Kiwifrucht
+- Kiwifruit
+- kiwifrukt
+- Kiwivrug
+- Kíví
+- maimēl šaftaslēsē
+- Peròdegh
+- Quiuí
+- Quả dương đào
+- Wamin ka kawisitc
+- ακτινίδιο
+- Ківі
+- Ківі, садавіна
+- Киви
+- Киви (ас)
+- Киви (мөмө)
+- Киви жемісі
+- կիվի
+- קיווי
+- كيوي
+- کيوی
+- کیوی
+- किवी
+- कीवी फल
+- ठेकीफल
+- কিউই ফল
+- ਕੀਵੀ
+- பசலிப்பழம்
+- ಕೀವಿಹಣ್ಣು
+- കിവി പഴം
+- กีวี
+- སྤྲེལ་ཁམ།
+- ကီဝီသီး
+- კივი
+- ኪዊ
+- キウイフルーツ
+- 奇異果
+- 猕猴桃
+- 獼猴桃
+- 참다래
 has_id_wikidata: Q13194
 subclass_of:
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
-described_by_source: "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~berry,13184]]'
+described_by_source: '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
 color:
-  - "[[_Standards/WikiData/WD~green,3133]]"
-  - "[[_Standards/WikiData/WD~brown,47071]]"
+- '[[_Standards/WikiData/WD~green,3133]]'
+- '[[_Standards/WikiData/WD~brown,47071]]'
 food_energy: 61
 water_footprint: 514
 PLU_code:
-  - 3280
-  - 4030
-  - 4301
+- 3280
+- 4030
+- 4301
 CosIng_number: 54402
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kiwi%20%28Actinidia%20chinensis%29%201%20Luc%20Viatour.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%28kiwifruit%20or%20Chinese%20gooseberry%29%20is%20the%20edible%20berry%20of%20a%20woody%20vine%20in%20the%20genus%20Actinidia.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Kiwi%20%28Actinidia%20chinensis%29%201%20Luc%20Viatour.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%28kiwifruit%20or%20Chinese%20gooseberry%29%20is%20the%20edible%20berry%20of%20a%20woody%20vine%20in%20the%20genus%20Actinidia.JPG
 USDA_NDB_number:
-  - 9148
-  - 9445
+- 9148
+- 9445
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DKiwi001%20HQ-4K-PNG.stl
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Kiwi%20fruit%20cutopen.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q652%20%28ita%29-Yiyi-kiwi.wav
@@ -32,9 +89,116 @@ GS1_GPC_code: 10005937
 UNII: 71ES77LGJC
 Commons_gallery: Kiwifruit
 Commons_category: Kiwifruits
-Unicode_character: 🥝
+Unicode_character: "\U0001F95D"
+dv_has_:
+  name_:
+    af: Kiwivrug
+    an: Kiwi
+    ang: cīnisc gōsberige
+    ar: كيوي
+    arz: كيوي
+    atj: Wamin ka kawisitc
+    az: Kivi
+    azb: کیوی
+    be: Ківі, садавіна
+    be-tarask: ківі
+    bg: киви
+    bi: Kiwe
+    bn: কিউই ফল
+    bo: སྤྲེལ་ཁམ།
+    br: Kiwi
+    bs: Kivi
+    ca: kiwi
+    ckb: کیوی
+    cs: kiwi
+    cy: ffrwyth ciwi
+    da: kiwi
+    de: Kiwifrucht
+    el: ακτινίδιο
+    en: kiwifruit
+    en-ca: Kiwifruit
+    en-gb: kiwi fruit
+    eo: kivifrukto
+    es: kiwi
+    et: kiivi
+    eu: kiwi
+    fa: کیوی
+    fi: kiivi
+    fr: kiwi
+    ga: cíobhaí
+    gan-hant: 獼猴桃
+    gl: Kiwi
+    he: קיווי
+    hi: कीवी फल
+    hr: Aktinidija
+    ht: Kiwi
+    hu: kivi
+    hy: կիվի
+    id: Buah kiwi
+    is: Kíví
+    it: kiwi
+    ja: キウイフルーツ
+    jv: Kiwi
+    ka: კივი
+    kk: Киви жемісі
+    kn: ಕೀವಿಹಣ್ಣು
+    ko: 참다래
+    ky: Киви (мөмө)
+    la: Actinidiae fructus
+    lb: Kiwi
+    lmo: Peròdegh
+    lt: Kivis
+    lv: kivi
+    lzh: 獼猴桃
+    mi: huakiwi
+    mk: Киви
+    ml: കിവി പഴം
+    mr: किवी
+    ms: Buah Kiwi
+    my: ကီဝီသီး
+    nan: Kiwi
+    nb: kiwi
+    ne: ठेकीफल
+    nl: kiwi
+    nn: kiwifrukt
+    nv: Chʼil dishooí
+    oc: kiwi
+    pa: ਕੀਵੀ
+    pl: kiwi
+    pnb: کیوی
+    ps: A New Etymological Vocabulary of Pashto
+    pt: Quiuí
+    pt-br: Quiuí
+    ro: Kiwi
+    ru: киви
+    sah: Киви (ас)
+    sh: Kivi
+    sk: Kivi (ovocie)
+    sl: Kivi
+    sr: Киви
+    sty: maimēl šaftaslēsē
+    su: Buah kiwi
+    sv: Kiwi
+    ta: பசலிப்பழம்
+    th: กีวี
+    ti: ኪዊ
+    tok: kili pi selo waso
+    tr: Kivi
+    tt: Киви
+    uk: Ківі
+    ur: کيوی
+    uz: Kivi (meva)
+    vi: Quả dương đào
+    war: Kiwi (prutas)
+    wuu: 猕猴桃
+    yue: 奇異果
+    zh: 猕猴桃
+    zh-cn: 猕猴桃
+    zh-hans: 猕猴桃
+    zh-hant: 奇異果
+    zh-tw: 奇異果
+    zu: Kiwifruit
 ---
-
 # [[Kiwifruit]] 🥝 
 
 #is_/same_as :: [[WD~Kiwifruit,13194]] 

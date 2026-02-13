@@ -1,46 +1,194 @@
 ---
 aliases:
-  - Information security
-  - infosec
-  - Information_Security
-  - Information Security
+- an toàn thông tin
+- andmeturve
+- aqparattıq qawipsizdik
+- axborot xavfsizligi
+- bezpieczeństwo informacji
+- bilgi güvenliği
+- diehtodorvu
+- informacijska varnost
+- informasjonssikkerhet
+- informatiebeveiliging
+- Information security
+- Informationssicherheit
+- informationssikkerhed
+- informationssäkerhet
+- Information_Security
+- informazioaren segurtasun
+- informační bezpečnost
+- Informaсiya qáwipsizligi
+- információbiztonság
+- informācijas drošība
+- infosec
+- inligtings sekuriteit
+- keamanan informasi
+- keselamatan maklumat
+- kunningartrygd
+- securitatea informației
+- segurança da informação
+- seguretat de la informació
+- seguridad de la información
+- seguridade da información
+- seguridá de la información
+- sicurezza dell'informazione
+- siguria e informacionit
+- slándáil faisnéise
+- sécurité de l'information
+- teâttstaan
+- tietoturva
+- tiätutorvo
+- ínformasiya təhlükəsizliyi
+- Ασφάλεια πληροφοριακών συστημάτων
+- Інфармацыйная бяспека
+- інфармацыйная бясьпека
+- інформаційна безпека
+- Амнияти иттилоотӣ
+- ақпараттық қауіпсіздік
+- безбедност информација
+- информацион иминлек
+- информационна сигурност
+- информационная безопасность
+- информациска безбедност
+- мэдээллийн нууцлал хамгаалал
+- տեղեկատվական անվտանգություն
+- אבטחת מידע
+- أمن المعلومات
+- اطلاعاتي خوندیتوب
+- اقپاراتتىق قاۋىپسىزدىك
+- امنیت اطلاعات
+- सूचना सुरक्षा
+- তথ্য নিরাপত্তা
+- ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ
+- ତଥ୍ୟ ନିରାପତ୍ତା
+- தகவல் பாதுகாப்பு
+- การรักษาความปลอดภัยทางข้อมูล
+- 信息安全
+- 情報セキュリティ
+- 資訊保安
+- 資訊安全
+- 资讯安全
+- 정보 보안
 has_id_wikidata: Q189900
 has_characteristic:
-  - '[[_Standards/WikiData/WD~data_integrity,461671]]'
-  - '[[_Standards/WikiData/WD~non_repudiation,1327773]]'
-  - '[[_Standards/WikiData/WD~confidentiality,2476929]]'
-  - '[[_Standards/WikiData/WD~security_pattern,7444981]]'
-  - '[[_Standards/WikiData/WD~authenticity,21074933]]'
-  - '[[_Standards/WikiData/WD~data_availability,22907653]]'
+- '[[_Standards/WikiData/WD~data_integrity,461671]]'
+- '[[_Standards/WikiData/WD~non_repudiation,1327773]]'
+- '[[_Standards/WikiData/WD~confidentiality,2476929]]'
+- '[[_Standards/WikiData/WD~security_pattern,7444981]]'
+- '[[_Standards/WikiData/WD~authenticity,21074933]]'
+- '[[_Standards/WikiData/WD~data_availability,22907653]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Basic_Computer_Security,1097062]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~security,2526135]]'
-  - '[[_Standards/WikiData/WD~information_technology,11661]]'
+- '[[_Standards/WikiData/WD~security,2526135]]'
+- '[[_Standards/WikiData/WD~information_technology,11661]]'
 facet_of: '[[_Standards/WikiData/WD~security_management,3954104]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~type_of_security,96264607]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~type_of_security,96264607]]'
 part_of:
-  - '[[_Standards/WikiData/WD~risk_management_information_systems,7336283]]'
-  - '[[_Standards/WikiData/WD~IT_system_security,9383853]]'
+- '[[_Standards/WikiData/WD~risk_management_information_systems,7336283]]'
+- '[[_Standards/WikiData/WD~IT_system_security,9383853]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Information_security,7646356]]'
 OmegaWiki_Defined_Meaning: 1098510
 Stack_Exchange_site_URL: https://security.stackexchange.com/
 described_at_URL: http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
 Mastodon_instance_URL:
-  - https://infosec.exchange
-  - https://freeradical.zone
-  - https://ioc.exchange
+- https://infosec.exchange
+- https://freeradical.zone
+- https://ioc.exchange
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CIAJMK1209-ar.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CIAJMK1209-en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CIAJMK1209-ar.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CIAJMK1209-en.svg
 Commons_category: Information security
 subreddit:
-  - Information_Security
-  - netsec
+- Information_Security
+- netsec
 GitHub_topic: infosec
+dv_has_:
+  name_:
+    af: inligtings sekuriteit
+    ar: أمن المعلومات
+    ast: seguridá de la información
+    az: ínformasiya təhlükəsizliyi
+    be: Інфармацыйная бяспека
+    be-tarask: інфармацыйная бясьпека
+    bg: информационна сигурност
+    bn: তথ্য নিরাপত্তা
+    ca: seguretat de la informació
+    cs: informační bezpečnost
+    da: informationssikkerhed
+    de: Informationssicherheit
+    de-ch: Informationssicherheit
+    el: Ασφάλεια πληροφοριακών συστημάτων
+    en: information security
+    en-ca: information security
+    en-gb: information security
+    es: seguridad de la información
+    et: andmeturve
+    eu: informazioaren segurtasun
+    fa: امنیت اطلاعات
+    fi: tietoturva
+    fo: kunningartrygd
+    fr: sécurité de l'information
+    ga: slándáil faisnéise
+    gl: seguridade da información
+    he: אבטחת מידע
+    hi: सूचना सुरक्षा
+    hu: információbiztonság
+    hy: տեղեկատվական անվտանգություն
+    id: keamanan informasi
+    it: sicurezza dell'informazione
+    ja: 情報セキュリティ
+    kaa: Informaсiya qáwipsizligi
+    kk: ақпараттық қауіпсіздік
+    kk-arab: اقپاراتتىق قاۋىپسىزدىك
+    kk-cn: اقپاراتتىق قاۋىپسىزدىك
+    kk-cyrl: ақпараттық қауіпсіздік
+    kk-kz: ақпараттық қауіпсіздік
+    kk-latn: aqparattıq qawipsizdik
+    kk-tr: aqparattıq qawipsizdik
+    ko: 정보 보안
+    lv: informācijas drošība
+    mk: информациска безбедност
+    ml: information security
+    mn: мэдээллийн нууцлал хамгаалал
+    ms: keselamatan maklumat
+    nb: informasjonssikkerhet
+    nl: informatiebeveiliging
+    or: ତଥ୍ୟ ନିରାପତ୍ତା
+    pa: ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ
+    pl: bezpieczeństwo informacji
+    ps: اطلاعاتي خوندیتوب
+    pt: segurança da informação
+    pt-br: segurança da informação
+    ro: securitatea informației
+    ru: информационная безопасность
+    se: diehtodorvu
+    sl: informacijska varnost
+    smn: tiätutorvo
+    sms: teâttstaan
+    sq: siguria e informacionit
+    sr: безбедност информација
+    sv: informationssäkerhet
+    ta: தகவல் பாதுகாப்பு
+    tg: Амнияти иттилоотӣ
+    th: การรักษาความปลอดภัยทางข้อมูล
+    tr: bilgi güvenliği
+    tt: информацион иминлек
+    tt-cyrl: информацион иминлек
+    uk: інформаційна безпека
+    uz: axborot xavfsizligi
+    vi: an toàn thông tin
+    zh: 信息安全
+    zh-cn: 信息安全
+    zh-hans: 信息安全
+    zh-hant: 資訊安全
+    zh-hk: 資訊保安
+    zh-mo: 資訊保安
+    zh-my: 资讯安全
+    zh-sg: 信息安全
+    zh-tw: 資訊安全
 ---
-
 # [[Information_Security]] 
 
 #is_/same_as :: [[WikiData/WD~Information_security,189900|WD~Information_security,189900]] 

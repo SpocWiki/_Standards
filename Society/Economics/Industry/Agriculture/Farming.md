@@ -1,16 +1,50 @@
 ---
 aliases:
+- agricultar
+- farmarstvo
+- farmaření
+- farming
+- gazdálkodás
+- Iwop-uko
+- Koɔbo
+- ugbo
+- фермерская деятельность
+- фермерская дзейнасць
+- фермерська діяльність
+- фэрмэрства
+- տարածում
+- వ్యవసాయం
+- 耕作
+- 農耕
 has_id_wikidata: Q24886094
-practiced_by: "[[_Standards/WikiData/WD~farmer,131512]]"
-facet_of: "[[_Standards/WikiData/WD~farm,131596]]"
-instance_of: "[[../../../../WikiData/WD~economic_activity,8187769]]"
+practiced_by: '[[_Standards/WikiData/WD~farmer,131512]]'
+facet_of: '[[_Standards/WikiData/WD~farm,131596]]'
+instance_of: '[[../../../../WikiData/WD~economic_activity,8187769]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Agricultural%20waste%20from%20weeding%20in%20a%20farm.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dirty%20palm.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Farm%20waste%20gotten%20after%20weeding.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mushrooms%20at%20the%20base%20of%20a%20trunk%20tree.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Some%20growing%20plant.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vernonia%20amygdalina%20plant.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Agricultural%20waste%20from%20weeding%20in%20a%20farm.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dirty%20palm.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Farm%20waste%20gotten%20after%20weeding.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mushrooms%20at%20the%20base%20of%20a%20trunk%20tree.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Some%20growing%20plant.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vernonia%20amygdalina%20plant.jpg
+dv_has_:
+  name_:
+    ann: Iwop-uko
+    be: фермерская дзейнасць
+    be-tarask: фэрмэрства
+    cs: farmaření
+    dga: Koɔbo
+    en: farming
+    hu: gazdálkodás
+    hy: տարածում
+    ig: ugbo
+    ja: 農耕
+    pt: agricultar
+    ru: фермерская деятельность
+    sl: farmarstvo
+    te: వ్యవసాయం
+    uk: фермерська діяльність
+    zh: 耕作
 ---
 # [[Farming]] 
 

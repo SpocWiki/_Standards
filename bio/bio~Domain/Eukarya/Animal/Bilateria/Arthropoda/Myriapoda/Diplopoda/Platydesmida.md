@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Platydesmida
+- Platidèsmides
+- Platydesmida
+- عريضة الأربطة
+- عريضة الاربطه
+- 扁带马陆目
+- 扁帶馬陸目
 title: Platydesmida
 has_id_wikidata: Q4047049
+dv_has_:
+  name_:
+    an: Platydesmida
+    ar: عريضة الأربطة
+    arz: عريضة الاربطه
+    ast: Platydesmida
+    bg: Platydesmida
+    ca: Platidèsmides
+    ceb: Platydesmida
+    de: Platydesmida
+    en: Platydesmida
+    eo: Platydesmida
+    es: Platydesmida
+    eu: Platydesmida
+    ext: Platydesmida
+    fi: Platydesmida
+    fr: Platydesmida
+    ga: Platydesmida
+    gl: Platydesmida
+    ia: Platydesmida
+    ie: Platydesmida
+    io: Platydesmida
+    it: Platydesmida
+    la: Platydesmida
+    mul: Platydesmida
+    nl: Platydesmida
+    oc: Platydesmida
+    pl: Platydesmida
+    pt: Platydesmida
+    pt-br: Platydesmida
+    ro: Platydesmida
+    ru: Platydesmida
+    sq: Platydesmida
+    sv: Platydesmida
+    th: Platydesmida
+    tr: Platydesmida
+    uk: Platydesmida
+    vi: Platydesmida
+    vo: Platydesmida
+    war: Platydesmida
+    zh: 扁带马陆目
+    zh-cn: 扁带马陆目
+    zh-hans: 扁带马陆目
+    zh-tw: 扁帶馬陸目
 ---
 # [[Platydesmida]] 
 

@@ -1,11 +1,155 @@
 ---
 aliases:
-  - Brian Wilson
-  - Brian_Wilson
-  - Brian Douglas Wilson
+- Brayan Vilson
+- Brian Douglas Wilson
+- Brian Wilson
+- Brian_Wilson
+- Μπράιαν Γουίλσον
+- Брајан Вилсон
+- Брайан Уилсон
+- Браян Ўільсан
+- Браян Вілсон
+- Բրայան Ուիլսոն
+- בריאן וילסון
+- براين ويلسون
+- برایان ویلسون
+- برایان ویڵسن
+- برٛائن وِلسن
+- ބްރައިއަން ވިލްސަން
+- ব্রায়ান উইলসন
+- ബ്രയാൻ വിൽസൺ
+- ไบรอัน วิลสัน
+- ブライアン・ウィルソン
+- 布萊恩·威爾森
+- 布賴恩·道格拉斯·威爾遜
+- 布赖恩·威尔逊
+- 布赖恩·道格拉斯·威尔逊
+- 拜恩·韋遜
+- 브라이언 윌슨
 has_id_wikidata: Q313013
+dv_has_:
+  name_:
+    af: Brian Wilson
+    an: Brian Wilson
+    ar: براين ويلسون
+    arz: براين ويلسون
+    ast: Brian Wilson
+    az: Brayan Vilson
+    azb: برایان ویلسون
+    bar: Brian Wilson
+    be-tarask: Браян Ўільсан
+    bm: Brian Wilson
+    bn: ব্রায়ান উইলসন
+    br: Brian Wilson
+    ca: Brian Wilson
+    ckb: برایان ویڵسن
+    co: Brian Wilson
+    cs: Brian Wilson
+    cy: Brian Wilson
+    da: Brian Wilson
+    de: Brian Wilson
+    de-at: Brian Wilson
+    de-ch: Brian Wilson
+    dv: ބްރައިއަން ވިލްސަން
+    el: Μπράιαν Γουίλσον
+    en: Brian Wilson
+    en-ca: Brian Wilson
+    en-gb: Brian Wilson
+    eo: Brian Wilson
+    es: Brian Wilson
+    et: Brian Wilson
+    eu: Brian Wilson
+    fa: برایان ویلسون
+    fi: Brian Wilson
+    fr: Brian Wilson
+    frc: Brian Wilson
+    frp: Brian Wilson
+    fur: Brian Wilson
+    fy: Brian Wilson
+    ga: Brian Wilson
+    gd: Brian Wilson
+    gl: Brian Wilson
+    gsw: Brian Wilson
+    guw: Brian Wilson
+    he: בריאן וילסון
+    hr: Brian Wilson
+    hu: Brian Wilson
+    hy: Բրայան Ուիլսոն
+    ia: Brian Wilson
+    id: Brian Wilson
+    ie: Brian Wilson
+    io: Brian Wilson
+    is: Brian Wilson
+    it: Brian Wilson
+    ja: ブライアン・ウィルソン
+    jam: Brian Wilson
+    kab: Brian Wilson
+    kg: Brian Wilson
+    ko: 브라이언 윌슨
+    ks: برٛائن وِلسن
+    ky: Брайан Уилсон
+    lb: Brian Wilson
+    li: Brian Wilson
+    lij: Brian Wilson
+    lt: Brian Wilson
+    lv: Brian Wilson
+    mg: Brian Wilson
+    min: Brian Wilson
+    mk: Брајан Вилсон
+    ml: ബ്രയാൻ വിൽസൺ
+    ms: Brian Wilson
+    mul: Brian Wilson
+    nap: Brian Wilson
+    nb: Brian Wilson
+    nds: Brian Wilson
+    nds-nl: Brian Wilson
+    nl: Brian Wilson
+    nn: Brian Wilson
+    nrm: Brian Wilson
+    oc: Brian Wilson
+    pap: Brian Wilson
+    pcd: Brian Wilson
+    pl: Brian Wilson
+    pms: Brian Wilson
+    prg: Brian Wilson
+    pt: Brian Wilson
+    pt-br: Brian Wilson
+    qu: Brian Wilson
+    rgn: Brian Wilson
+    rm: Brian Wilson
+    ro: Brian Wilson
+    ru: Брайан Уилсон
+    ryu: ブライアン・ウィルソン
+    sc: Brian Wilson
+    scn: Brian Wilson
+    sco: Brian Wilson
+    sk: Brian Wilson
+    sl: Brian Wilson
+    sq: Brian Wilson
+    sr: Брајан Вилсон
+    sv: Brian Wilson
+    sw: Brian Wilson
+    th: ไบรอัน วิลสัน
+    tr: Brian Wilson
+    ty: Brian Wilson
+    uk: Браян Вілсон
+    vec: Brian Wilson
+    vi: Brian Wilson
+    vls: Brian Wilson
+    vmf: Brian Wilson
+    vo: Brian Wilson
+    wa: Brian Wilson
+    wo: Brian Wilson
+    wuu: 布賴恩·道格拉斯·威爾遜
+    yo: Brian Wilson
+    zh: 布赖恩·威尔逊
+    zh-cn: 布赖恩·道格拉斯·威尔逊
+    zh-hans: 布赖恩·威尔逊
+    zh-hant: 布萊恩·威爾森
+    zh-hk: 拜恩·韋遜
+    zh-tw: 布萊恩·威爾森
+    zu: Brian Wilson
 ---
-
 # [[Wilson,Brian(Musician)]] 
 
 #is_/same_as :: [[WD~Brian_Wilson,313013]]

@@ -1,13 +1,112 @@
 ---
 aliases:
+- Meta-ethica
+- Meta-ethics
+- meta-ethiek
+- meta-etik
+- Meta-etika
+- metaeetiik
+- metaeetika
+- metaethics
+- Metaethik
+- metaetica
+- metaetică
+- metaetihkka
+- metaetiikka
+- metaetik
+- metaetika
+- metaetikk
+- metaetiko
+- metaetyka
+- metaètica
+- Metaética
+- metaētika
+- méta-éthique
+- siðspeki
+- μεταηθική
+- Мета-етика
+- метаетика
+- Метаэтика
+- мэтаэтыка
+- Մետաէթիկա
+- מטא-אתיקה
+- أخلاقيات فوقية
+- ستر اخلاق
+- فرااخلاق
+- अधिनीतिशास्त्र
+- পরানীতিশাস্ত্র
+- อภิจริยศาสตร์
+- メタ倫理学
+- 元伦理学
+- 메타윤리학
 has_id_wikidata: Q56003
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-part_of: "[[_Standards/WikiData/WD~ethics,9465]]"
-Dewey_Decimal_Classification: "170.42"
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+part_of: '[[_Standards/WikiData/WD~ethics,9465]]'
+Dewey_Decimal_Classification: 170.42
 PhilPapers_topic: meta-ethics
 Commons_category: Meta-ethics
+dv_has_:
+  name_:
+    ar: أخلاقيات فوقية
+    ast: Metaética
+    ba: Метаэтика
+    be-tarask: мэтаэтыка
+    bg: Мета-етика
+    bn: পরানীতিশাস্ত্র
+    ca: metaètica
+    cs: metaetika
+    da: metaetik
+    de: Metaethik
+    de-ch: Metaethik
+    el: μεταηθική
+    en: metaethics
+    en-ca: Meta-ethics
+    en-gb: meta-ethics
+    eo: metaetiko
+    es: metaética
+    et: metaeetika
+    eu: Meta-etika
+    fa: فرااخلاق
+    fi: metaetiikka
+    fr: méta-éthique
+    gl: Metaética
+    he: מטא-אתיקה
+    hi: अधिनीतिशास्त्र
+    hr: Metaetika
+    hy: Մետաէթիկա
+    id: Meta-etika
+    is: siðspeki
+    it: metaetica
+    ja: メタ倫理学
+    ko: 메타윤리학
+    la: Meta-ethica
+    lt: metaetika
+    lv: metaētika
+    ms: Meta-etika
+    nb: metaetikk
+    nl: meta-ethiek
+    nn: metaetikk
+    pl: metaetyka
+    pms: Metaética
+    ps: ستر اخلاق
+    pt: metaética
+    pt-br: Metaética
+    ro: metaetică
+    ru: метаэтика
+    se: metaetihkka
+    sk: metaetika
+    sl: metaetika
+    smn: metaeetiik
+    sms: metaetikk
+    sr: Metaetika
+    sv: metaetik
+    th: อภิจริยศาสตร์
+    tr: meta-etik
+    tt: метаэтика
+    uk: метаетика
+    war: Meta-etika
+    zh: 元伦理学
 ---
-
 # [[Metaethics]] 
 
 #is_/same_as :: [[WD~Metaethics,56003]] 

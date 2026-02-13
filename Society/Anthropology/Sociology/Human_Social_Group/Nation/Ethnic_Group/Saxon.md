@@ -1,35 +1,199 @@
 ---
 aliases:
-  - Sachse
-  - Sachsen
-  - Old Saxons
-  - Continental Saxons
-  - Saxon
+- Continental Saxons
+- Hakihona
+- Người Sachsen
+- Old Saxons
+- orang Sachsen
+- pueblo sajón
+- Pueblu saxón
+- Sachse
+- Sachsen
+- Sacsanaigh
+- Sacsoniaid
+- Saksai
+- saksarar
+- Saksen
+- Saksere
+- Saksid
+- saksit
+- Sakslar
+- Saksoj
+- Saksojo
+- Sakson
+- Saksoned
+- Saksonlar
+- Saksonët
+- Sakster
+- Saksôna
+- sakši
+- Sasi
+- Sasové
+- Sassen
+- Sassoni
+- saxare
+- Saxoi
+- Saxon
+- Saxon lâng
+- Saxones
+- Saxoni
+- Saxons
+- saxóns
+- Saxões
+- Seaxe
+- szászok
+- sàsoni
+- Wasaksoni
+- Σάξονες
+- Σάξωνες
+- Сакси
+- Сакссем
+- Сакстер
+- Саксууд
+- саксы
+- Саси
+- Սաքսեր
+- סקסונים
+- زاکسنها
+- ساكستەر
+- ساکسون
+- سكسون
+- سیکسن
+- सैक्सन
+- ชาวแซกซัน
+- ဆက္ကဆန်
+- საქსები
+- サクソン人
+- 撒克逊人
+- 撒克遜人
+- 薩克遜人
+- 색슨족
 has_id_wikidata: Q101985
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Res_gestae_saxonicae_sive_annalium_libri_tres,9068196]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Res_gestae_saxonicae_sive_annalium_libri_tres,9068196]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
 instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Saxons,86662172]]'
 subclass_of: '[[_Standards/WikiData/WD~Q135299875,135299875]]'
 different_from: '[[_Standards/WikiData/WD~Saxony,27505]]'
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements%20ar.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements%20ca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements%20ar.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Saxon%20Homelands%20and%20Settlements%20ca.svg
 Dewey_Decimal_Classification: 5--3
 Krugosvet_article_archived_: istoriya/SAKSI.html
 Stadtwiki_Dresden_article: Sachsen_(Volk)
 Commons_category: Saxons
+dv_has_:
+  name_:
+    an: Saxons
+    ang: Seaxe
+    ar: سكسون
+    ast: Pueblu saxón
+    az: Sakslar
+    azb: ساکسون
+    be: Саксы
+    be-tarask: саксы
+    bg: Сакси
+    br: Saksoned
+    bs: Sasi
+    ca: saxons
+    cs: Sasové
+    cv: Сакссем
+    cy: Sacsoniaid
+    da: Saksere
+    de: Sachsen
+    el: Σάξωνες
+    en: Saxons
+    eo: Saksoj
+    es: pueblo sajón
+    et: Saksid
+    eu: Saxoi
+    fa: زاکسنها
+    fi: saksit
+    fr: Saxons
+    frr: Saksen
+    fy: Saksen
+    ga: Sacsanaigh
+    gl: saxóns
+    grc: Σάξονες
+    he: סקסונים
+    hi: सैक्सन
+    hr: Sasi
+    hsb: Saksojo
+    hu: szászok
+    hy: Սաքսեր
+    id: orang Sachsen
+    it: Sassoni
+    ja: サクソン人
+    ka: საქსები
+    kk: Сакстер
+    kk-arab: ساكستەر
+    kk-cn: ساكستەر
+    kk-cyrl: Сакстер
+    kk-kz: Сакстер
+    kk-latn: Sakster
+    kk-tr: Sakster
+    ko: 색슨족
+    la: Saxones
+    lt: Saksai
+    lv: sakši
+    mg: Saksôna
+    mi: Hakihona
+    mk: Саси
+    mn: Саксууд
+    mwl: Saxones
+    my: ဆက္ကဆန်
+    nan: Saxon lâng
+    nb: Saksere
+    nds: Sassen
+    nds-nl: Saksen
+    nl: Saksen
+    nn: saksarar
+    oc: Saxons
+    pl: Sasi
+    pnb: سیکسن
+    pt: Saxões
+    pt-br: saxões
+    ro: Saxoni
+    ru: саксы
+    sco: Saxons
+    sh: Sasi
+    sk: Sasi
+    sl: Sasi
+    so: Saxons
+    sq: Saksonët
+    sr: Саси
+    sr-ec: Саси
+    sr-el: Sasi
+    sv: saxare
+    sw: Wasaksoni
+    th: ชาวแซกซัน
+    tl: Sakson
+    tly: Sakson
+    tr: Saksonlar
+    uk: сакси
+    uz: Sakslar
+    vec: sàsoni
+    vi: Người Sachsen
+    war: Saxon
+    wuu: 撒克逊人
+    yue: 薩克遜人
+    zh: 撒克遜人
+    zh-cn: 撒克逊人
+    zh-hans: 撒克逊人
+    zh-hant: 撒克遜人
+    zh-hk: 撒克遜人
+    zh-sg: 撒克逊人
+    zh-tw: 撒克遜人
 ---
-
 # [[Saxon]] 
 
 #is_/same_as :: [[WD~Saxons,101985]] 

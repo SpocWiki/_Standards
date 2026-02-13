@@ -1,24 +1,193 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]"
-    - "[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]"
-    - "[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]"
+  - '[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]'
+  - '[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]'
+  - '[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]"
-  - "[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]"
-  - "[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]"
+- '[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]'
+- '[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]'
+- '[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]'
+- '[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]'
+- '[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]'
+- '[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]'
 has_id_wikidata: Q22633
+dv_has_:
+  name_:
+    af: Germane
+    ar: جرمان
+    ast: pueblos xermánicos
+    az: Germanlar
+    azb: ژرمنلر
+    be: германцы
+    be-tarask: германцы
+    bg: Германи
+    br: Germaned
+    bs: Germani
+    ca: germànics
+    ckb: خەڵکانی جێرمانی
+    cs: Germáni
+    cv: Герман йăхĕсем
+    cy: Germaniaid
+    da: germanere
+    de: germanische Völker
+    el: Γερμανικά φύλα
+    en: Germanic people
+    eo: Ĝermanoj
+    es: pueblos germánicos
+    et: Germaanlased
+    eu: Antzinako germaniarrak
+    fa: ژرمنها
+    fi: germaanit
+    fo: Germanar
+    fr: peuples germaniques
+    frr: Germaanen
+    fy: Germanen
+    gl: pobos xermánicos
+    gsw: Germane
+    he: שבטים גרמאניים
+    hr: Germani
+    hsb: Germanojo
+    hu: germánok
+    hy: Գերմանական ցեղեր
+    ia: populos germanic
+    id: orang-orang Jermanik
+    io: Germanala populi
+    is: Germanir
+    it: Germani
+    ja: ゲルマン人
+    ka: ძველი გერმანელები
+    ko: 게르만족
+    ksh: Jermane
+    ku: German
+    la: Germani
+    lfn: Popla germanica
+    li: Germane
+    lt: germanai
+    lv: Ģermāņi
+    lzh: 日耳曼人
+    mg: Vahoaka jermanika
+    mk: Германи
+    ms: Puak-puak Jermanik
+    mwl: Germánicos
+    nan: German-lâng
+    nb: germanere
+    nds: Germanen
+    nds-nl: Germanen
+    nl: Germaanse volk
+    nn: Germanarar
+    nqo: ߗ߭ߍߙߑߡߊߣߌ߫ ߡߌ߬ߙߌ߲߬ߘߌ
+    oc: pòbles germanics
+    os: гермайнæгтæ
+    pa: ਜਰਮਨਿਕ ਲੋਕ
+    pfl: Germane
+    pl: Germanie
+    pms: Tribù germàniche
+    pt: Germanos
+    ro: popoare germanice
+    ru: германцы
+    sco: Germanic fowks
+    sh: Germani
+    sk: Germáni
+    sl: Germani
+    sq: Gjermanikët
+    sr: Германи
+    sv: germaner
+    sw: Wagermanik
+    ta: செருமானிக் மக்கள்
+    tg: Германиҳои қадим
+    th: กลุ่มชนเจอร์แมนิก
+    tr: Cermenler
+    uk: германці
+    ur: جرمن لوگ
+    uz: Germanlar
+    vec: zermani
+    vi: Các dân tộc German
+    war: Germaniko nga katawhan
+    wuu: 日耳曼人
+    yue: 日耳曼人
+    zh: 日耳曼人
+aliases:
+- Antzinako germaniarrak
+- Cermenler
+- Các dân tộc German
+- Germaanen
+- germaanit
+- Germaanlased
+- Germaanse volk
+- German
+- German-lâng
+- germanai
+- Germanala populi
+- Germanar
+- Germanarar
+- Germane
+- Germaned
+- Germanen
+- germaner
+- germanere
+- Germani
+- Germaniaid
+- Germanic fowks
+- Germanic people
+- Germanie
+- Germaniko nga katawhan
+- Germanir
+- germanische Völker
+- Germanlar
+- Germanojo
+- Germanos
+- germànics
+- Germáni
+- Germánicos
+- germánok
+- Gjermanikët
+- Jermane
+- orang-orang Jermanik
+- peuples germaniques
+- pobos xermánicos
+- Popla germanica
+- popoare germanice
+- populos germanic
+- Puak-puak Jermanik
+- pueblos germánicos
+- pueblos xermánicos
+- pòbles germanics
+- Tribù germàniche
+- Vahoaka jermanika
+- Wagermanik
+- zermani
+- Ĝermanoj
+- Ģermāņi
+- Γερμανικά φύλα
+- гермайнæгтæ
+- Герман йăхĕсем
+- Германи
+- Германиҳои қадим
+- германці
+- германцы
+- Գերմանական ցեղեր
+- שבטים גרמאניים
+- جرمان
+- جرمن لوگ
+- خەڵکانی جێرمانی
+- ژرمنلر
+- ژرمنها
+- ߗ߭ߍߙߑߡߊߣߌ߫ ߡߌ߬ߙߌ߲߬ߘߌ
+- ਜਰਮਨਿਕ ਲੋਕ
+- செருமானிக் மக்கள்
+- กลุ่มชนเจอร์แมนิก
+- ძველი გერმანელები
+- ゲルマン人
+- 日耳曼人
+- 게르만족
 ---
 # [[Germanic_Peoples]] 
 

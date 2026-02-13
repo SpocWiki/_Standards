@@ -1,27 +1,165 @@
 ---
 aliases:
+- az orvostudomány története
+- Dejiny medicíny
+- dálkkasdiehtaga historjá
+- dějiny lékařství
+- geschiedenis van de geneeskunde
+- geskiedenis van medisyne
+- histoire de la médecine
+- historia da medicina
+- Historia de la medicina
+- Historia e mjekësisë
+- historia medycyny
+- Historija medicine
+- historio de medicino
+- history of medicine
+- història de la medicina
+- história da medicina
+- istor ar vezegiezh
+- istoria medicinii
+- Istorija medicine
+- istòria de ła medezina
+- lääketieteen historia
+- Lịch sử y học
+- medicinens historie
+- medicinhistoria
+- medicinos istorija
+- medicīnas vēsture
+- medikuntzaren historia
+- medisinens historie
+- Medizingeschichte
+- povijest medicine
+- stair an leighis
+- storia della medicina
+- taalkâstiõtti historia
+- talhâstiettuu historjá
+- Tarixê tıbi
+- Tibb tarixi
+- tıp tarihi
+- zgodovina medicine
+- Ιστορία της ιατρικής
+- історія медицини
+- гісторыя медыцыны
+- гісторыя мэдыцыны
+- историја медицине
+- история медицины
+- История на медицината
+- медицина тарихы
+- Медицинанын тарыхы
+- таърихи пизишкӣ
+- Բժշկութեան Պատմութիւն
+- Բժշկության պատմություն
+- היסטוריה של הרפואה
+- تاريخ الطب
+- تاریخ پزشکی
+- د طبابت تاریخچه
+- आयुर्विज्ञान का इतिहास
+- চিকিৎসা বিজ্ঞানের ইতিহাস
+- ઔષધવિજ્ઞાનનો ઇતિહાસ
+- மருத்துவத்துறையின் வரலாறு
+- വൈദ്യശാസ്ത്രചരിത്രം
+- 医学史
+- 醫學史
+- 의학사
 has_id_wikidata: Q380274
 different_from:
-  - "[[_Standards/WikiData/WD~medical_history,188952]]"
-  - "[[_Standards/WikiData/WD~history_of_medicine,26882826]]"
-part_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
+- '[[_Standards/WikiData/WD~medical_history,188952]]'
+- '[[_Standards/WikiData/WD~history_of_medicine,26882826]]'
+part_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_medicine,14851535]]"
-practiced_by: "[[_Standards/WikiData/WD~medical_historian,15985128]]"
-facet_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_medicine,14851535]]'
+practiced_by: '[[_Standards/WikiData/WD~medical_historian,15985128]]'
+facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 Commons_category: History of medicine
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Anatomische%20les%20door%20Dokter%20van%20der%20Meer%20van%20Michiel%20en%20Pieter%20van%20Mierevelt.jpg
 UMLS_CUI: C0019667
 subreddit: historyofmedicine
 MeSH_tree_code: K01.400.552
+dv_has_:
+  name_:
+    af: geskiedenis van medisyne
+    ar: تاريخ الطب
+    ast: Historia de la medicina
+    az: Tibb tarixi
+    be: гісторыя медыцыны
+    be-tarask: гісторыя мэдыцыны
+    bg: История на медицината
+    bn: চিকিৎসা বিজ্ঞানের ইতিহাস
+    br: istor ar vezegiezh
+    bs: Historija medicine
+    ca: història de la medicina
+    cs: dějiny lékařství
+    da: medicinens historie
+    de: Medizingeschichte
+    diq: Tarixê tıbi
+    el: Ιστορία της ιατρικής
+    en: history of medicine
+    en-ca: history of medicine
+    en-gb: history of medicine
+    eo: historio de medicino
+    es: historia de la medicina
+    eu: medikuntzaren historia
+    fa: تاریخ پزشکی
+    fi: lääketieteen historia
+    fr: histoire de la médecine
+    ga: stair an leighis
+    gl: historia da medicina
+    gu: ઔષધવિજ્ઞાનનો ઇતિહાસ
+    he: היסטוריה של הרפואה
+    hi: आयुर्विज्ञान का इतिहास
+    hr: povijest medicine
+    hu: az orvostudomány története
+    hy: Բժշկության պատմություն
+    hyw: Բժշկութեան Պատմութիւն
+    it: storia della medicina
+    ja: 医学史
+    ko: 의학사
+    ky: Медицинанын тарыхы
+    lt: medicinos istorija
+    lv: medicīnas vēsture
+    ml: വൈദ്യശാസ്ത്രചരിത്രം
+    nb: medisinens historie
+    nl: geschiedenis van de geneeskunde
+    pl: historia medycyny
+    ps: د طبابت تاریخچه
+    pt: história da medicina
+    pt-br: história da medicina
+    ro: istoria medicinii
+    ru: история медицины
+    se: dálkkasdiehtaga historjá
+    sh: Istorija medicine
+    sk: Dejiny medicíny
+    sl: zgodovina medicine
+    smn: talhâstiettuu historjá
+    sms: taalkâstiõtti historia
+    sq: Historia e mjekësisë
+    sr: историја медицине
+    sr-ec: Историја медицине
+    sr-el: Istorija medicine
+    sv: medicinhistoria
+    ta: மருத்துவத்துறையின் வரலாறு
+    tg: таърихи пизишкӣ
+    tr: tıp tarihi
+    tt: медицина тарихы
+    uk: історія медицини
+    vec: istòria de ła medezina
+    vi: Lịch sử y học
+    yue: 醫學史
+    zh: 医学史
+    zh-cn: 医学史
+    zh-hans: 医学史
+    zh-hant: 醫學史
+    zh-hk: 醫學史
+    zh-sg: 医学史
+    zh-tw: 醫學史
 ---
-
 # [[History_of_Medicine]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_medicine,380274|WD~History_of_medicine,380274]] 

@@ -1,16 +1,110 @@
 ---
 aliases:
+- Berrikuntza disruptibo
+- Buzg'unchi innovatsiyalar
+- Disrupció
+- disruptio
+- Disruption
+- Disruptiv teknologi
+- disruptive innovation
+- disruptive Technologie
+- disruptivna tehnologija
+- disruptivní inovace
+- Graujošā inovācija
+- griaunamosios inovacijos
+- Innovatio disruptiva
+- innovazione distruttiva
+- Inovasi disruptif
+- Inovassion esplosiva
+- kemajuan pengganggu
+- Przełomowa innowacja
+- Remetilačka inovacija
+- Sabuntawa mai rikitarwa
+- technologie de rupture
+- tecnologia disruptiva
+- tecnología disruptiva
+- Tecnoloxía disruptiva
+- Trufltækni
+- yıkıcı inovasyon
+- Đổi mới mang tính đột phá
+- αποδιαρθρωτική καινοτομία
+- підривні інновації
+- подривачка иновација
+- Подривна технология
+- подрывные инновации
+- разбуральныя інавацыі
+- חדשנות משבשת
+- ابتكار مزعزع
+- نوآوری تحول آفرین
+- विदारी नवप्रवर्तन
+- குலைப்புவகைப் புத்தாக்கம்
+- นวัตกรรมแหวกแนว
+- 破坏性创新
+- 破壊的技術
+- 破壞性創新
+- 와해성 기술
 has_id_wikidata: Q1192297
-subclass_of: "[[_Standards/WikiData/WD~innovation,174165]]"
-facet_of: "[[_Standards/WikiData/WD~strategic_management,376657]]"
-has_effect: "[[_Standards/WikiData/WD~disruption,2956685]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Clayton_Christensen,5130292]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~creative_disruption,17008061]]"
+subclass_of: '[[_Standards/WikiData/WD~innovation,174165]]'
+facet_of: '[[_Standards/WikiData/WD~strategic_management,376657]]'
+has_effect: '[[_Standards/WikiData/WD~disruption,2956685]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Clayton_Christensen,5130292]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~creative_disruption,17008061]]'
 UMLS_CUI: C5197874
 MeSH_tree_code: J01.897.200
 time_of_discovery_or_invention: 1995-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: ابتكار مزعزع
+    ast: Tecnoloxía disruptiva
+    be-tarask: разбуральныя інавацыі
+    bg: Подривна технология
+    ca: Disrupció
+    cs: disruptivní inovace
+    da: Disruption
+    de: disruptive Technologie
+    el: αποδιαρθρωτική καινοτομία
+    en: disruptive innovation
+    en-ca: disruptive innovation
+    en-gb: disruptive innovation
+    es: tecnología disruptiva
+    eu: Berrikuntza disruptibo
+    fa: نوآوری تحول آفرین
+    fi: disruptio
+    fr: technologie de rupture
+    ha: Sabuntawa mai rikitarwa
+    he: חדשנות משבשת
+    hi: विदारी नवप्रवर्तन
+    id: Inovasi disruptif
+    is: Trufltækni
+    it: innovazione distruttiva
+    ja: 破壊的技術
+    ko: 와해성 기술
+    la: Innovatio disruptiva
+    lt: griaunamosios inovacijos
+    lv: Graujošā inovācija
+    mk: подривачка иновација
+    ms: kemajuan pengganggu
+    nb: Disruptiv teknologi
+    pl: Przełomowa innowacja
+    pms: Inovassion esplosiva
+    pt: tecnologia disruptiva
+    pt-br: Tecnologia disruptiva
+    ru: подрывные инновации
+    sl: disruptivna tehnologija
+    sr: Remetilačka inovacija
+    ta: குலைப்புவகைப் புத்தாக்கம்
+    th: นวัตกรรมแหวกแนว
+    tr: yıkıcı inovasyon
+    uk: підривні інновації
+    uz: Buzg'unchi innovatsiyalar
+    vi: Đổi mới mang tính đột phá
+    wuu: 破坏性创新
+    yue: 破壞性創新
+    zh: 破壞性創新
+    zh-hans: 破坏性创新
+    zh-hant: 破壞性創新
+    zh-hk: 破壞性創新
 ---
-
 # [[Disruptive_Innovation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Disruptive_innovation,1192297|WD~Disruptive_innovation,1192297]] 

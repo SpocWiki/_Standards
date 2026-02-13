@@ -1,21 +1,133 @@
 ---
 aliases:
-  - Holstein Cattle
-  - Friesian Cattle
-  - Black and White Cattle
-  - Schwarzbunte
-  - Holstein_Cattle
+- Black and White Cattle
+- Bò Hà Lan
+- Friesian Cattle
+- Frisiar behi
+- frisoa
+- Frisona
+- Frisón'na
+- Holstein
+- Holstein Cattle
+- Holstein Fries
+- Holstein Frisa
+- Holstein-Frieser
+- Holstein-Friesian
+- Holstein-frisisk fe
+- Holstein-frizijsko govedo
+- Holstein-Frísia
+- Holstein-fríz
+- Holstein-karja
+- Holstein-Rind
+- Holsteins
+- Holstein_Cattle
+- Holsztyno-fryzyjska rasa bydła
+- Holštajn frizijsko govedo
+- Holšteinai
+- Holštýnský skot
+- Lembu Holstein Frisia
+- Ostene (raece di vatches)
+- Pasma holštajn
+- Sapi holstein
+- Schwarzbunte
+- Siyah Alaca
+- Svensk låglandsboskap
+- Vaca Frisona-Holstein
+- βοοειδή Χόλσταϊν-Φρίσλαντ
+- гайльштайн-фрыская карова
+- Голштин токымы
+- Голштинская порода
+- Голштинська порода
+- Հոլանդական տավար
+- הולשטיין
+- مانگای فریزی
+- هلشتاین فریزن (نژاد گاو)
+- هولستين
+- ہولسٹن فریزین مویشی
+- ہولسٹن فریزین گانواں
+- होलेस्टेन
+- होल्स्टीन फ़्रीज़ियन
+- होल्स्टीन फ्रिजियन गाय
+- ஹோல்ஸ்டீன் ஃபிரீசியன் மாடு
+- ഹോൾസ്റ്റീൻ പശു
+- ჰოლშტინური ჯიში
+- ホルスタイン
+- 荷尔斯泰因牛
+- 荷斯坦—弗里生协会
+- 荷斯坦—弗里生協會
+- 菲士蘭牛
+- 홀스타인
 has_id_wikidata: Q58910
 subclass_of:
-  - '[[_Standards/WikiData/WD~cattle,4767951]]'
-  - '[[_Standards/WikiData/WD~dairy_cattle,2915]]'
+- '[[_Standards/WikiData/WD~cattle,4767951]]'
+- '[[_Standards/WikiData/WD~dairy_cattle,2915]]'
 instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Behi%20frisiarrak.jpg
 Dewey_Decimal_Classification: 636.234
 Commons_category: Holstein Friesian cattle
+dv_has_:
+  name_:
+    af: Holstein Fries
+    ar: هولستين
+    be-tarask: гайльштайн-фрыская карова
+    ca: Vaca Frisona-Holstein
+    ckb: مانگای فریزی
+    cs: Holštýnský skot
+    da: Holstein-Frieser
+    de: Holstein-Rind
+    el: βοοειδή Χόλσταϊν-Φρίσλαντ
+    eml: Frisón'na
+    en: Holstein
+    eo: Holstein Frisa
+    es: Holstein
+    eu: Frisiar behi
+    fa: هلشتاین فریزن (نژاد گاو)
+    fi: Holstein-karja
+    fr: Holstein
+    fy: Holstein-Friesian
+    gl: frisoa
+    he: הולשטיין
+    hi: होल्स्टीन फ़्रीज़ियन
+    hr: Holstein-frizijsko govedo
+    hu: Holstein-fríz
+    hy: Հոլանդական տավար
+    id: Sapi holstein
+    io: Holstein
+    it: Frisona
+    ja: ホルスタイン
+    ka: ჰოლშტინური ჯიში
+    ko: 홀스타인
+    lmo: Holsteins
+    lt: Holšteinai
+    ml: ഹോൾസ്റ്റീൻ പശു
+    mr: होल्स्टीन फ्रिजियन गाय
+    ms: Lembu Holstein Frisia
+    nb: Svensk låglandsboskap
+    ne: होलेस्टेन
+    nl: Holstein-Friesian
+    nn: Holstein-frisisk fe
+    pl: Holsztyno-fryzyjska rasa bydła
+    pnb: ہولسٹن فریزین گانواں
+    pt: Holstein-Frísia
+    ro: Holstein
+    ru: Голштинская порода
+    sl: Pasma holštajn
+    sr: Holštajn frizijsko govedo
+    sv: Svensk låglandsboskap
+    ta: ஹோல்ஸ்டீன் ஃபிரீசியன் மாடு
+    tr: Siyah Alaca
+    tt: Голштин токымы
+    uk: Голштинська порода
+    ur: ہولسٹن فریزین مویشی
+    vi: Bò Hà Lan
+    wa: Ostene (raece di vatches)
+    wuu: 荷尔斯泰因牛
+    yue: 菲士蘭牛
+    zh: 荷尔斯泰因牛
+    zh-hans: 荷斯坦—弗里生协会
+    zh-hant: 荷斯坦—弗里生協會
 ---
-
 # [[Holstein_Cattle]] 
 
 #is_/same_as :: [[WD~Holstein,58910]] 

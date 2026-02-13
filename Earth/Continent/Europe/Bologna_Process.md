@@ -1,38 +1,157 @@
 ---
 aliases:
+- Bologna Process
+- Bologna protsess
+- Bologna Süreci
+- Bologna-prosessen
+- Bologna-Prozess
+- bolognai folyamat
+- Bolognan prosessi
+- Bolognaprocessen
+- Bolognaverklaring
+- Bolon processi
+- Boloniako prozesua
+- Boloniya jarayoni
+- Bolonja Procezo
+- Bolonjski proces
+- Bolonský proces
+- Bolonya prosesi
+- Boloņas process
+- Boloňský proces
+- Declaração de Bolonha
+- Proces boloński
+- Procesi i Bolonjës
+- Proceso de Bologna
+- Proceso de Bolonia
+- Processo di Bologna
+- processus de Bologne
+- Procesu de Boloña
+- Procesul Bologna
+- procés de Bolonya
+- Proseso han Bologna
+- Quy trình Bologna
+- Συμφωνία της Μπολόνια
+- Балёнскі працэс
+- Балонскі працэс
+- Болоњска декларација
+- Болоњски процес
+- Болон процессі
+- Болонски процес
+- Болонский процесс
+- Болонський процес
+- Болонья процесси
+- Болонья процесы
+- Բոլոնյան գործընթաց
+- הסכם בולוניה
+- بولون پروتسەسسى
+- فرآیند بولونیا
+- مشروع بولونيا
+- ბოლონიის პროცესი
+- ボローニャ・プロセス
+- 博洛尼亚进程
+- 博洛尼亞進程
+- 볼로냐 프로세스
 has_id_wikidata: Q187073
-instance_of: "[[_Standards/WikiData/WD~higher_education_reform,1622288]]"
-named_after: "[[_Standards/WikiData/WD~Bologna,1891]]"
+instance_of: '[[_Standards/WikiData/WD~higher_education_reform,1622288]]'
+named_after: '[[_Standards/WikiData/WD~Bologna,1891]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bologna-Prozess-Logo.svg
 official_website: http://www.ehea.info
-ISNI: "0000000121920306"
-P8189: "987007547375305171"
+ISNI: 0000000121920306
+P8189: 987007547375305171
 Commons_category: Bologna process
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]"
-    - "[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]"
-    - "[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]"
+  - '[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]'
+  - '[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]'
+  - '[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]'
 dv_has_:
+  name_:
+    ar: مشروع بولونيا
+    ast: Procesu de Boloña
+    az: Bolonya prosesi
+    ba: Болонья процесы
+    be: Балонскі працэс
+    be-tarask: Балёнскі працэс
+    bg: Болонски процес
+    bs: Bolonjski proces
+    ca: procés de Bolonya
+    cs: Boloňský proces
+    da: Bolognaprocessen
+    de: Bologna-Prozess
+    el: Συμφωνία της Μπολόνια
+    en: Bologna Process
+    eo: Bolonja Procezo
+    es: Proceso de Bolonia
+    et: Bologna protsess
+    eu: Boloniako prozesua
+    fa: فرآیند بولونیا
+    fi: Bolognan prosessi
+    fr: processus de Bologne
+    gl: Proceso de Bologna
+    he: הסכם בולוניה
+    hr: Bolonjski proces
+    hu: bolognai folyamat
+    hy: Բոլոնյան գործընթաց
+    it: Processo di Bologna
+    ja: ボローニャ・プロセス
+    ka: ბოლონიის პროცესი
+    kk: Болон процессі
+    kk-arab: بولون پروتسەسسى
+    kk-cn: بولون پروتسەسسى
+    kk-cyrl: Болон процессі
+    kk-kz: Болон процессі
+    kk-latn: Bolon processi
+    kk-tr: Bolon processi
+    ko: 볼로냐 프로세스
+    ky: Болонья процесси
+    lv: Boloņas process
+    mk: Болоњска декларација
+    nb: Bologna-prosessen
+    nl: Bolognaverklaring
+    nn: Bologna-prosessen
+    pl: Proces boloński
+    pt: Declaração de Bolonha
+    ro: Procesul Bologna
+    ru: Болонский процесс
+    sh: Bolonjski proces
+    sk: Bolonský proces
+    sl: Bolonjski proces
+    sq: Procesi i Bolonjës
+    sr: Болоњски процес
+    sr-ec: Болоњски процес
+    sr-el: Bolonjski proces
+    sv: Bolognaprocessen
+    tr: Bologna Süreci
+    uk: Болонський процес
+    uz: Boloniya jarayoni
+    vi: Quy trình Bologna
+    war: Proseso han Bologna
+    wuu: 博洛尼亚进程
+    zh: 博洛尼亚进程
+    zh-cn: 博洛尼亚进程
+    zh-hans: 博洛尼亚进程
+    zh-hant: 博洛尼亞進程
+    zh-hk: 博洛尼亞進程
+    zh-sg: 博洛尼亚进程
+    zh-tw: 博洛尼亞進程
   time_:
     started: 1999-06-01T00:00:00.000+02:00
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]"
-  - "[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]"
-  - "[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]"
+- '[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]'
+- '[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]'
+- '[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]'
+- '[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]'
+- '[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]'
+- '[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]'
 dv_has_time_started: 1999-06-01
 ---
-
 # [[Bologna_Process]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]] 

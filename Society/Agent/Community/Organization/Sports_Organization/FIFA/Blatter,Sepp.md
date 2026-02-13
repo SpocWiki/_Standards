@@ -1,80 +1,116 @@
 ---
 aliases:
-  - Joseph Sepp Blatter
-  - Josef Blatter
-  - Blatter
-  - Sepp_Blatter
-  - Blatter,Sepp
+- Blatter
+- Blatter,Sepp
+- Iosephus Blatter
+- Josef Blatter
+- Joseph Blatter
+- Joseph Sepp Blatter
+- Sep Blater
+- Sepp Blatter
+- Sepp_Blatter
+- Yozef Blatter
+- Zeps Blaters
+- Ζεπ Μπλάτερ
+- Ёзэф Блятэр
+- Іозеф Блатэр
+- Блаттер
+- Блаттер, Йозеф
+- Блаттер, Йозеф (политикоксяра, Швейцария)
+- Зеп Блатер
+- Зепп Блаттер
+- Йозеф Блаттер
+- Йозэф Блаттэр
+- Сеп Блатер
+- Ҷозеф Блаттер
+- Զեպպ Բլատեր
+- ספ בלאטר
+- بلاتتەر، يوزەف
+- جوزيف بلاتر
+- سپ بلاتر
+- سێپ بلاتەر
+- چوزيف بلاتر
+- सेप ब्लाटर
+- সেপ ব্লাটার
+- செப் பிளாட்டர்
+- සෙප් බ්ලැටර්
+- เซ็พ บลัทเทอร์
+- იოზეფ ბლატერი
+- ゼップ・ブラッター
+- 塞普·布拉特
+- 塞普·白禮達
+- 白禮達
+- 제프 블라터
 has_id_wikidata: Q483437
 X_Twitter_username: SeppBlatter
 name_in_native_language: Joseph «Sepp» Blatter
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~ice_hockey_player,11774891]]'
-  - '[[_Standards/WikiData/WD~sports_official,15986539]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~ice_hockey_player,11774891]]'
+- '[[_Standards/WikiData/WD~sports_official,15986539]]'
 ethnic_group: '[[_Standards/WikiData/WD~Swiss,124216]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]'
-  - '[[_Standards/WikiData/WD~Olympic_Order,634353]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
-  - '[[_Standards/WikiData/WD~Order_of_Jerusalem,2016334]]'
-  - '[[_Standards/WikiData/WD~Shohrat_Order,2032408]]'
-  - '[[_Standards/WikiData/WD~Order_of_Sports_Merit,2197326]]'
-  - "[[_Standards/WikiData/WD~Order_of_Bernardo_O'Higgins,2300740]]"
-  - '[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]'
-  - '[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_the_Lion_of_Senegal,2399188]]'
-  - '[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]'
-  - '[[_Standards/WikiData/WD~Order_of_Honour,3650838]]'
-  - '[[_Standards/WikiData/WD~Order_Danaker_,3885141]]'
-  - '[[_Standards/WikiData/WD~Order_of_Friendship,3885264]]'
-  - '[[_Standards/WikiData/WD~Order_of_Independence,3885294]]'
-  - '[[_Standards/WikiData/WD~Order_of_recognition,3885397]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Two_Niles,4335917]]'
-  - '[[_Standards/WikiData/WD~Order_of_Honour,4335950]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_for_Distinguished_Services,6052096]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Rising_Sun,_1st_class,10901470]]'
-  - "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_Good_Hope,15279685]]'
-  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Wissam_El_Alaouite,17200167]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_Merit,18379561]]'
-  - '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_the_Lion,19541851]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_National_Order_For_Merit,25906204]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
-  - '[[_Standards/WikiData/WD~Dostyk_Order_of_grade_II,41793795]]'
-  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_2nd_class,41796613]]'
-  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_3rd_class,47452385]]'
-  - '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_the_Rising_Sun,55339171]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Throne,55381785]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_June_27,65130315]]'
-  - '[[_Standards/WikiData/WD~Supreme_Counsellor_of_the_Baobab,79328932]]'
-  - '[[_Standards/WikiData/WD~Order_of_African_Redemption,65423]]'
+- '[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]'
+- '[[_Standards/WikiData/WD~Olympic_Order,634353]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
+- '[[_Standards/WikiData/WD~Order_of_Jerusalem,2016334]]'
+- '[[_Standards/WikiData/WD~Shohrat_Order,2032408]]'
+- '[[_Standards/WikiData/WD~Order_of_Sports_Merit,2197326]]'
+- "[[_Standards/WikiData/WD~Order_of_Bernardo_O'Higgins,2300740]]"
+- '[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]'
+- '[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]'
+- '[[_Standards/WikiData/WD~National_Order_of_the_Lion_of_Senegal,2399188]]'
+- '[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]'
+- '[[_Standards/WikiData/WD~Order_of_Honour,3650838]]'
+- '[[_Standards/WikiData/WD~Order_Danaker_,3885141]]'
+- '[[_Standards/WikiData/WD~Order_of_Friendship,3885264]]'
+- '[[_Standards/WikiData/WD~Order_of_Independence,3885294]]'
+- '[[_Standards/WikiData/WD~Order_of_recognition,3885397]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Two_Niles,4335917]]'
+- '[[_Standards/WikiData/WD~Order_of_Honour,4335950]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_for_Distinguished_Services,6052096]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Rising_Sun,_1st_class,10901470]]'
+- "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_Good_Hope,15279685]]'
+- '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Wissam_El_Alaouite,17200167]]'
+- '[[_Standards/WikiData/WD~National_Order_of_Merit,18379561]]'
+- '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_National_Order_of_the_Lion,19541851]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_National_Order_For_Merit,25906204]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
+- '[[_Standards/WikiData/WD~Dostyk_Order_of_grade_II,41793795]]'
+- '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_2nd_class,41796613]]'
+- '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_3rd_class,47452385]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_the_Rising_Sun,55339171]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Throne,55381785]]'
+- '[[_Standards/WikiData/WD~National_Order_of_June_27,65130315]]'
+- '[[_Standards/WikiData/WD~Supreme_Counsellor_of_the_Baobab,79328932]]'
+- '[[_Standards/WikiData/WD~Order_of_African_Redemption,65423]]'
 native_language: '[[_Standards/WikiData/WD~Swiss_German,387066]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Swiss_German,387066]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Swiss_German,387066]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Lausanne,658975]]'
-  - '[[_Standards/WikiData/WD~HEC_Lausanne,669531]]'
+- '[[_Standards/WikiData/WD~University_of_Lausanne,658975]]'
+- '[[_Standards/WikiData/WD~HEC_Lausanne,669531]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Josef,15730712]]'
 has_list: '[[_Standards/WikiData/WD~list_of_honours_received_by_Sepp_Blatter,18205518]]'
 family_name: '[[_Standards/WikiData/WD~Blatter,21476697]]'
 position_held:
-  - '[[_Standards/WikiData/WD~president_of_FIFA,22955080]]'
-  - '[[_Standards/WikiData/WD~Secretary_General_of_FIFA,122150433]]'
+- '[[_Standards/WikiData/WD~president_of_FIFA,22955080]]'
+- '[[_Standards/WikiData/WD~Secretary_General_of_FIFA,122150433]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sport:
-  - '[[_Standards/WikiData/WD~association_football,2736]]'
-  - '[[_Standards/WikiData/WD~ice_hockey,41466]]'
+- '[[_Standards/WikiData/WD~association_football,2736]]'
+- '[[_Standards/WikiData/WD~ice_hockey,41466]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Switzerland,39]]'
 residence: '[[_Standards/WikiData/WD~Zurich,72]]'
@@ -88,8 +124,106 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%99%D0%BE%D0%B7%D0%
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20S.%20Blater%20FIFA%20President%20autograph.jpg
 ISNI: 0000000078774269
 Munzinger_Sport_number: 01000000377
+dv_has_:
+  name_:
+    af: Sepp Blatter
+    ar: جوزيف بلاتر
+    arz: چوزيف بلاتر
+    ast: Joseph Blatter
+    az: Yozef Blatter
+    azb: سپ بلاتر
+    be: Іозеф Блатэр
+    be-tarask: Ёзэф Блятэр
+    bg: Сеп Блатер
+    bn: সেপ ব্লাটার
+    bs: Sepp Blatter
+    ca: Joseph Blatter
+    ckb: سێپ بلاتەر
+    cs: Sepp Blatter
+    da: Sepp Blatter
+    de: Sepp Blatter
+    el: Ζεπ Μπλάτερ
+    en: Sepp Blatter
+    en-ca: Sepp Blatter
+    en-gb: Sepp Blatter
+    eo: Sepp Blatter
+    es: Joseph Blatter
+    et: Sepp Blatter
+    eu: Joseph Blatter
+    fa: سپ بلاتر
+    fi: Sepp Blatter
+    fr: Sepp Blatter
+    ga: Sepp Blatter
+    gl: Sepp Blatter
+    gsw: Sepp Blatter
+    ha: Sepp Blatter
+    he: ספ בלאטר
+    hr: Sepp Blatter
+    hu: Joseph Blatter
+    hy: Զեպպ Բլատեր
+    id: Sepp Blatter
+    ie: Josef Blatter
+    it: Sepp Blatter
+    ja: ゼップ・ブラッター
+    ka: იოზეფ ბლატერი
+    kk: Блаттер, Йозеф
+    kk-arab: بلاتتەر، يوزەف
+    kk-cyrl: Блаттер
+    kk-latn: Blatter
+    ko: 제프 블라터
+    koi: Блаттер, Йозеф (политикоксяра, Швейцария)
+    la: Iosephus Blatter
+    lt: Sepp Blatter
+    lv: Zeps Blaters
+    mdf: Йозэф Блаттэр
+    mg: Sepp Blatter
+    mk: Зеп Блатер
+    mn: Зепп Блаттер
+    ms: Sepp Blatter
+    nap: Joseph Blatter
+    nb: Sepp Blatter
+    nds-nl: Sepp Blatter
+    ne: सेप ब्लाटर
+    nl: Sepp Blatter
+    nn: Sepp Blatter
+    pl: Joseph Blatter
+    pt: Joseph Blatter
+    pt-br: Joseph Blatter
+    rm: Sepp Blatter
+    ro: Sepp Blatter
+    ru: Йозеф Блаттер
+    rw: Sepp Blatter
+    scn: Joseph Blatter
+    sco: Sepp Blatter
+    sh: Sepp Blatter
+    si: සෙප් බ්ලැටර්
+    sk: Joseph Blatter
+    sl: Sepp Blatter
+    sq: Sepp Blatter
+    sr: Сеп Блатер
+    sr-ec: Сеп Блатер
+    sr-el: Sep Blater
+    ss: Sepp Blatter
+    sv: Sepp Blatter
+    sw: Sepp Blatter
+    ta: செப் பிளாட்டர்
+    tg: Ҷозеф Блаттер
+    th: เซ็พ บลัทเทอร์
+    tr: Joseph Sepp Blatter
+    tt: Yozef Blatter
+    uk: Йозеф Блаттер
+    uz: Sepp Blatter
+    vi: Sepp Blatter
+    wuu: 塞普·布拉特
+    yue: 白禮達
+    zh: 塞普·布拉特
+    zh-cn: 塞普·布拉特
+    zh-hans: 塞普·布拉特
+    zh-hant: 塞普·布拉特
+    zh-hk: 塞普·白禮達
+    zh-mo: 塞普·白禮達
+    zh-tw: 塞普·布拉特
 ---
-
 # [[Blatter,Sepp]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sepp_Blatter,483437|WD~Sepp_Blatter,483437]] 

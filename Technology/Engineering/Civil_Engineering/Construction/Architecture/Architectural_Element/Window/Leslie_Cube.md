@@ -1,7 +1,31 @@
 ---
 aliases:
-  - Leslie cube
+- Cub de Leslie
+- Cube de Leslie
+- Cubo de Leslie
+- Cubo di Leslie
+- Leslie cube
+- Leslie-Würfel
+- Leslies kub
+- Куб Леслі
+- Куб Лесли
+- مكعب ليزلي
+- லெஸ்லி கனசதுரம்
 has_id_wikidata: Q900392
+dv_has_:
+  name_:
+    ar: مكعب ليزلي
+    ca: Cub de Leslie
+    de: Leslie-Würfel
+    en: Leslie cube
+    es: Cubo de Leslie
+    fr: Cube de Leslie
+    it: Cubo di Leslie
+    pt: Cubo de Leslie
+    ru: Куб Лесли
+    sv: Leslies kub
+    ta: லெஸ்லி கனசதுரம்
+    uk: Куб Леслі
 ---
 # [[Leslie_Cube]] 
 

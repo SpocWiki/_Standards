@@ -1,35 +1,104 @@
 ---
 aliases:
-  - Antelope
-  - Antilopinae
+- Anir
+- Antalop
+- antalóp
+- antelop
+- Antelope
+- antilohpat
+- antiloop
+- antiloopeh
+- Antiloopen
+- antiloopit
+- antiloopp
+- Antilop
+- antilopa
+- Antilopalar
+- antilope
+- Antilope (hayop)
+- antilopen
+- Antilopenn
+- antiloper
+- antilopes
+- Antilopinae
+- antilopo
+- Antilopă
+- Antilopė
+- Antilupi
+- Antilòp
+- Antilôpa
+- antylopa
+- antílop
+- antílope
+- a̱lywei
+- Deero
+- Dorcas
+- ele
+- Linh dương
+- Nkabi
+- Vôngu
+- Wildsbok
+- Yor
+- ŋgwu
+- ʻAnekelopa
+- Αντιλόπη
+- Антилопæтæ
+- Антилопа
+- Антилопи
+- антилопы
+- антылёпа
+- Антылопы
+- Бөкендер
+- Бөкөндөр
+- այծքաղ
+- այծքաղներ
+- אנטילופות
+- بۆكەن
+- شاخبلندها
+- ظبي
+- ऐंटीलोप
+- कुरंग हरीण
+- तेन्हु
+- সারং
+- மறிமான்
+- జింక
+- ඇන්ටිලොප්
+- แอนทิโลป
+- ဒရယ်ငယ်
+- ანტილოპები
+- ᎠᏫᏳᏍᏘ
+- Ẹtu
+- レイヨウ
+- 羚羊
+- 영양
 has_id_wikidata: Q25894
 title: Antilopinae
 taxon_known_by_this_common_name:
-  - '[[_Standards/WikiData/WD~Reduncinae,132631]]'
-  - '[[_Standards/WikiData/WD~Pantholops_hodgsonii,272293]]'
-  - '[[_Standards/WikiData/WD~duiker,273997]]'
-  - '[[_Standards/WikiData/WD~Tragelaphus,311375]]'
-  - '[[_Standards/WikiData/WD~Antilopinae,462736]]'
-  - '[[_Standards/WikiData/WD~Alcelaphinae,615263]]'
-  - '[[_Standards/WikiData/WD~Boselaphini,722385]]'
-  - '[[_Standards/WikiData/WD~Hippotraginae,725271]]'
-  - '[[_Standards/WikiData/WD~Aepycerotinae,2825559]]'
-  - '[[_Standards/WikiData/WD~Nesotragus,26878806]]'
-  - '[[_Standards/WikiData/WD~Oreotraginae,46998365]]'
+- '[[_Standards/WikiData/WD~Reduncinae,132631]]'
+- '[[_Standards/WikiData/WD~Pantholops_hodgsonii,272293]]'
+- '[[_Standards/WikiData/WD~duiker,273997]]'
+- '[[_Standards/WikiData/WD~Tragelaphus,311375]]'
+- '[[_Standards/WikiData/WD~Antilopinae,462736]]'
+- '[[_Standards/WikiData/WD~Alcelaphinae,615263]]'
+- '[[_Standards/WikiData/WD~Boselaphini,722385]]'
+- '[[_Standards/WikiData/WD~Hippotraginae,725271]]'
+- '[[_Standards/WikiData/WD~Aepycerotinae,2825559]]'
+- '[[_Standards/WikiData/WD~Nesotragus,26878806]]'
+- '[[_Standards/WikiData/WD~Oreotraginae,46998365]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
 different_from: '[[_Standards/WikiData/WD~deer,29838690]]'
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 OmegaWiki_Defined_Meaning: 808314
@@ -38,8 +107,112 @@ U_S_National_Archives_Identifier: 10647854
 Commons_category: Antelopes
 MeSH_tree_code: B01.050.150.900.649.313.500.380.100
 Krugosvet_article: nauka_i_tehnika/biologiya/ANTILOPI.html
+dv_has_:
+  name_:
+    af: Wildsbok
+    agq: ŋgwu
+    ar: ظبي
+    ast: Antílope
+    av: Антилопа
+    az: Antilop
+    ban: Antelope
+    be: Антылопы
+    be-tarask: антылёпа
+    bg: антилопа
+    bn: সারং
+    br: Antilopenn
+    ca: antílop
+    chr: ᎠᏫᏳᏍᏘ
+    cs: antilopa
+    cv: Антилопа
+    da: antiloper
+    de: Antilope
+    diq: Antilop
+    el: Αντιλόπη
+    en: antelope
+    eo: antilopo
+    es: antílope
+    et: antiloop
+    eu: Antilope
+    fa: شاخبلندها
+    fi: antiloopit
+    fr: antilopes
+    frr: Antiloopen
+    ga: antalóp
+    gd: Antalop
+    gl: Antílope
+    haw: ʻAnekelopa
+    he: אנטילופות
+    hi: ऐंटीलोप
+    hr: Antilopa
+    hu: antilop
+    hy: այծքաղներ
+    hyw: այծքաղ
+    id: antelop
+    ig: ele
+    io: Antilopo
+    it: antilope
+    ja: レイヨウ
+    jv: Antelop
+    ka: ანტილოპები
+    kcg: a̱lywei
+    kg: Nkabi
+    kk: Бөкендер
+    ko: 영양
+    ky: Бөкөндөр
+    la: Dorcas
+    lb: Antilop
+    lbe: Антилопа
+    lez: Антилопа
+    lt: Antilopė
+    lv: Antilope
+    mg: Antilôpa
+    mk: антилопа
+    mr: कुरंग हरीण
+    mrj: Антилопа
+    ms: antelop
+    my: ဒရယ်ငယ်
+    nb: antiloper
+    new: तेन्हु
+    nl: antilopen
+    nn: antiloper
+    oc: Antilòp
+    os: Антилопæтæ
+    pl: antylopa
+    pt: antílope
+    qu: Antilupi
+    ro: Antilopă
+    ru: антилопы
+    se: antilohpat
+    sg: Vôngu
+    sh: Antilopa
+    shi: Anir
+    si: ඇන්ටිලොප්
+    sl: antilopa
+    smn: antiloopeh
+    sms: antiloopp
+    so: Deero
+    sq: Antilopa
+    sr: антилопа
+    sr-ec: антилопа
+    sv: antiloper
+    ta: மறிமான்
+    te: జింక
+    th: แอนทิโลป
+    tl: Antilope
+    tr: Antilop
+    tt: Yor
+    udm: Антилопа
+    ug: بۆكەن
+    uk: Антилопи
+    uz: Antilopalar
+    vi: Linh dương
+    war: Antilope (hayop)
+    wuu: 羚羊
+    yo: Ẹtu
+    yue: 羚羊
+    zh: 羚羊
 ---
-
 # [[Antilopinae]] 
 
 ![ ](Antilopinae/Antidorcas_marsupialis.jpg)

@@ -1,131 +1,281 @@
 ---
 aliases:
-  - Western Sahara
-  - Sáhara Occidental
-  - Sahara occidental
-  - الصحراء الغربية
-  - 西撒哈拉
-  - Западная Сахара
-  - ""
-  - Western_Sahara
+- Akinlaud a Sahara
+- Albugang Sahara
+- an Sahára Thiar
+- Aneẓruf Utrim
+- Apáìwọ̀orùn Sàhárà
+- Batı Sahra
+- Batıs Saxara
+- Gorllewin Sahara
+- Günbatısı Sahara
+- Gʻarbiy sahroi kabir
+- Hahāra ki te Hauāuru
+- ISahara lasentshonalanga
+- Kanluraning Sahara
+- Katundan Sahara
+- Kuarahyreike Saára
+- Kunti Sahara
+- Kéyah Sahééwa Eʼeʼaahjí Siʼánígíí
+- Länsi-Sahara
+- Lääne-Sahara
+- ma Salawi
+- Mendebaldeko Sahara
+- Nyugat-Szahara
+- Oarje-Sahára
+- Okcidenta Saharo
+- Pódwjacorna Sahara
+- Qərbi Sahara
+- Repubilika ya Balabu ya Saharawi ya Dimokalasi
+- Rietumsahāra
+- Río de Oro
+- Saara Ocidental
+- Sahaaraa Dhihaa
+- Sahara Andrefana
+- Sahara ar C'hornôg
+- Sahara Barat
+- Sahara du Vouêt
+- Sahara gu Sowwu
+- Sahara Komohana
+- Sahara Kulon
+- Sahara occidental
+- Sahara Occidentale
+- Sahara Occidentalis
+- Sahara Occidentală
+- Sahara occidentâl
+- Sahara oksidantal
+- Sahara Oksidental
+- Sahara Otzidentale
+- Sahara Oççidentâ
+- Sahara Perëndimore
+- Sahara Uccidintali
+- Sahara West
+- Sahara Wɩsɩ ɖɩɖʊyɛ
+- Sahara ya Limbɛ
+- Sahara ya Magharibi
+- Sahara Zachodnia
+- Sahrawijŏ
+- Sahraya Rojava
+- Sai Sahara
+- Sara Coûtchantrece
+- Sara Ocidental
+- Sathara an Iar
+- Saħara tal-Punent
+- Sa̱hara Jenshyung
+- Sehraya Rocawani
+- Sulnupan na Sahara
+- Sàhara Occidental
+- Sáhara Occidental
+- Sáhara Ociental
+- Sáḥara Occidental
+- Sî Sahara
+- Să̤ Sahara
+- Taltefa Saxara
+- Tây Sahara
+- Vakarų Sachara
+- Vest-Sahara
+- Vestsahara
+- Vestur-Sahara
+- Vesüda-Saharän
+- Västsahara
+- Wastren Sahara
+- Wes-Sahara
+- West sahara
+- West-Sahara
+- Westala Sahara
+- Westan Sa'aara
+- Westeleke Sahara
+- Westelijke Sahara
+- Westen Sahara
+- Western Sahara
+- Western_Sahara
+- Westi Sahara
+- Westlike Sahara
+- Westsahara
+- Yammacin Sahara
+- Yetoɖoƒe Sahara
+- Zahodna Sahara
+- Zapadna Sahara
+- Západná Sahara
+- Západní Sahara
+- Zôpadnô Sahara
+- Ğarbiy Sahara
+- Δυτική Σαχάρα
+- Арҕаа Саhаара
+- Баруун Сахар
+- Батыс Сахара
+- Батыш Сахара
+- Вадывел Сахара
+- Западна Сахара
+- Западная Сахара
+- Західна Сахара
+- Заходняя Сахара
+- Көнбайыш Сахара
+- Көнбатыш Сахара
+- Ныгуылæн Сахарæ
+- Сахара Iарбойн Халкъа куьйгаллийца йолу Пачхьалкх
+- Саҳрои Ғарбӣ
+- Шиньмадомаширень Сахара
+- Արևմտյան Սահարա
+- סהרה המערבית
+- الصحرا الغربية
+- الصحرا الغربيه
+- الصحراء الغربية
+- سەحرای ڕۆژاوا
+- صأحرا أفتونئشین
+- صحرا
+- صحرای غربی
+- غربی صحرا
+- غەربىي سەھرا
+- لوېديځه سحارا
+- لہندا صحرا
+- مغربي صحارا
+- مغربی صحارا
+- ހުޅަނގު ސަހަރާ
+- पच्छिमी सहारा
+- पश्चिम सहारा
+- पश्चिमी सहारा
+- পশ্চিম চাহাৰা
+- পশ্চিম সাহারা
+- ৱেস্টার্ন সাহারা
+- ਪੱਛਮੀ ਸਹਾਰਾ
+- વેસ્ટર્ન સહારા
+- ପଶ୍ଚିମ ସାହାରା
+- மேற்கு சகாரா
+- వెస్టర్న్ సహారా
+- ಪಶ್ಚಿಮ ಸಹಾರ
+- പശ്ചിമ സഹാറ
+- බටහිර සහරාව
+- เวสเทิร์นสะฮารา
+- ສະຫາຣາພາກໃຕ້
+- ནུབ་ས་ཧ་ར།
+- သႃႇႁႃႇရႃႇ ပွတ်းဝၼ်းတူၵ်း
+- ბჟადალი საჰარა
+- დასავლეთი საჰარა
+- ምዕራባዊ ሣህራ
+- ᱯᱟᱪᱮ ᱥᱟᱦᱟᱨᱟ
+- ⵜⴰⵏⵣⵔⵓⴼⵜ ⵜⵓⵜⵔⵉⵎⵜ
+- 西サハラ
+- 西撒哈拉
+- 서사하라
 has_id_wikidata: Q6250
 area: 266000
-bibliography: "[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]"
+bibliography: '[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]'
 coordinates_of_westernmost_point: Point(-17.091666666 20.833333333)
 coordinate_location: Point(-13.0 25.0)
 location:
-  - 27.1536
-  - -13.2033
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q18929684,18929684]]"
+- 27.1536
+- -13.2033
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q18929684,18929684]]'
 Commons_category: Western Sahara
 Commons_gallery: صحراء غربية - Sahara Occidental
 confidential: public
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 country:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Spanish_Sahara,689837]]"
-  - "[[_Standards/WikiData/WD~Spanish_West_Africa,1191986]]"
-  - "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Spanish_Sahara,689837]]'
+- '[[_Standards/WikiData/WD~Spanish_West_Africa,1191986]]'
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
 country_calling_code: 212
 cssclasses:
-  - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Western_Sahara,979992]]"
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Western_Sahara,979992]]'
 demonym:
-  - صحراوي
-  - صحراوية
-  - saharaui
-  - Okcident-Saharano
-  - nyugat-szaharai
-  - sahrāwī
-  - Sahrawi
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- صحراوي
+- صحراوية
+- saharaui
+- Okcident-Saharano
+- nyugat-szaharai
+- sahrāwī
+- Sahrawi
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 Dewey_Decimal_Classification: 2--648
 different_from:
-  - "[[_Standards/WikiData/WD~Río_de_Oro,929147]]"
-  - "[[_Standards/WikiData/WD~Saharan_Morocco,14207244]]"
+- '[[_Standards/WikiData/WD~Río_de_Oro,929147]]'
+- '[[_Standards/WikiData/WD~Saharan_Morocco,14207244]]'
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]'
 elevation_above_sea_level: 237
-expiryDate: ""
+expiryDate: ''
 FIPS_10_4_countries_and_regions_: WI
-flag: "[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Western_Sahara,2747008]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Western_Sahara,2747008]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Western+Sahara.map
 GitHub_topic: western-sahara
 HASC: EH
 IAB_code: 1474
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20Ocean%20in%20Western%20Sahara.jpg
 INSEE_countries_and_foreign_territories_code: 99389
-instance_of: "[[_Standards/WikiData/WD~disputed_territory,15239622]]"
+instance_of: '[[_Standards/WikiData/WD~disputed_territory,15239622]]'
 isDeleted: false
 ISO_3166_1_alpha_2_code: EH
 ISO_3166_1_alpha_3_code: ESH
 ISO_3166_1_numeric_code: 732
 isReadOnly: false
-keywords: ""
+keywords: ''
 Krugosvet_article: Earth_sciences/geografiya/ZAPADNAYA_SAHARA.html
 Languages:
-  - ar
-  - mey
+- ar
+- mey
 language_used:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
-  - "[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-layout: ""
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+layout: ''
 Libris_URI: fcrtt0zz0tr5lv6
 license: CC BY-SA 4.0
-linkTitle: ""
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+linkTitle: ''
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+- '[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Western%20Sahara%20AU%20Africa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Sahara%20%28orthographic%20projection%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Western%20Sahara%20AU%20Africa.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Sahara%20%28orthographic%20projection%29.svg
+lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]'
 M49_code: 732
 native_label: الصحراء الغربية
 official_name:
-  - Sahara Occidental
-  - الصحراء الغربية
-  - Sáhara Occidental
-  - Sahara occidental
-  - Western Sahara
+- Sahara Occidental
+- الصحراء الغربية
+- Sáhara Occidental
+- Sahara occidental
+- Western Sahara
 OmegaWiki_Defined_Meaning: 750643
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tifariti%20%28Western%20Sahara%29%20banner%20Navarra%20hospital.jpg
-part_of: "[[_Standards/WikiData/WD~North_Africa,27381]]"
+part_of: '[[_Standards/WikiData/WD~North_Africa,27381]]'
 PM20_geo_code: C50
 population: 612000
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.wav
 publish: true
-publishDate: ""
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Southern_Provinces,1418613]]"
+publishDate: ''
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Southern_Provinces,1418613]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
 short_name: EH
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26887
 subreddit: WesternSahara
 tags:
-  - geo/Country
+- geo/Country
 territory_claimed_by:
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
 title: Western Sahara
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Western_Sahara,14614952]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.eh,433562]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Western_Sahara,14614952]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
 type: Country
 UMLS_CUI: C1520135
-Unicode_character: 🇪🇭
+Unicode_character: "\U0001F1EA\U0001F1ED"
 U_S_National_Archives_Identifier: 10035840
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]'
 WIPO_ST_3: EH
 Wolfram_Language_entity_code: Entity["Country", "WesternSahara"]
 dv_ISO4217-currency_alphabetic: MAD
@@ -138,17 +288,17 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Western Sahara
 dv_has_name_en:
-  - Western Sahara
-  - Western Sahara
+- Western Sahara
+- Western Sahara
 dv_has_name_es: Sáhara Occidental
 dv_has_name_fr: Sahara occidental
 dv_has_name_cn: 西撒哈拉
 dv_has_name_ar: الصحراء الغربية
 dv_has_name_ru: Западная Сахара
 dv_CLDR_display_name: Western Sahara
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Western_Sahara]]"
-dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Western_Sahara]]'
+dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
 dv_Sub-region: 15
 dv_Geoname-ID: 2461445
@@ -168,39 +318,235 @@ dv_ISO2: EH
 dv_ISO3: ESH
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
+  - '[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]'
 dv_has_:
   name_:
+    ace: Sahara Barat
+    aeb-arab: الصحرا الغربية
+    af: Wes-Sahara
+    am: ምዕራባዊ ሣህራ
+    ami: West sahara
+    an: Sahara Occidental
+    anp: पश्चिमी सहारा
+    ar: الصحراء الغربية
+    arq: الصحراء الغربية
+    ary: الصحرا الغربية
+    arz: الصحرا الغربيه
+    as: পশ্চিম চাহাৰা
+    ast: Sáḥara Occidental
+    avk: Taltefa Saxara
+    az: Qərbi Sahara
+    azb: غربی صحرا
+    ba: Көнбайыш Сахара
+    bar: Westsahara
+    bcl: Sulnupan na Sahara
+    be: Заходняя Сахара
+    be-tarask: Заходняя Сахара
+    bg: Западна Сахара
+    bho: पच्छिमी सहारा
+    bn: পশ্চিম সাহারা
+    bo: ནུབ་ས་ཧ་ར།
+    bpy: ৱেস্টার্ন সাহারা
+    br: Sahara ar C'hornôg
+    ca: Sàhara Occidental
+    cdo: Să̤ Sahara
+    ce: Сахара Iарбойн Халкъа куьйгаллийца йолу Пачхьалкх
+    ceb: Río de Oro
+    ckb: سەحرای ڕۆژاوا
+    co: Sahara Occidentale
+    crh: Ğarbiy Sahara
+    crh-latn: Ğarbiy Sahara
+    cs: Západní Sahara
+    csb: Zôpadnô Sahara
+    cy: Gorllewin Sahara
+    da: Vestsahara
+    de: Westsahara
+    de-ch: Westsahara
+    diq: Sehraya Rocawani
+    dsb: Pódwjacorna Sahara
+    dty: पश्चिमी सहारा
+    dv: ހުޅަނގު ސަހަރާ
+    ee: Yetoɖoƒe Sahara
+    el: Δυτική Σαχάρα
+    en: Western Sahara
+    en-ca: Western Sahara
+    en-gb: Western Sahara
+    en-us: Western Sahara
+    eo: Okcidenta Saharo
+    es: Sahara Occidental
+    et: Lääne-Sahara
+    eu: Mendebaldeko Sahara
+    ext: Sáhara Ociental
+    fa: صحرای غربی
+    fi: Länsi-Sahara
+    fr: Sahara occidental
+    frp: Sahara occidentâl
+    fy: Westlike Sahara
+    ga: an Sahára Thiar
+    gag: Günbatısı Sahara
+    gd: Sathara an Iar
+    gl: Sáhara Occidental
+    gn: Kuarahyreike Saára
+    gpe: Western Sahara
+    gsw: Westsahara
+    gu: વેસ્ટર્ન સહારા
+    ha: Yammacin Sahara
+    hak: Sî Sahara
+    haw: Sahara Komohana
+    he: סהרה המערבית
+    hi: पश्चिमी सहारा
+    hif: Western Sahara
+    hr: Zapadna Sahara
+    hsb: Zapadna Sahara
+    ht: Sahara oksidantal
+    hu: Nyugat-Szahara
+    hy: Արևմտյան Սահարա
+    ia: Sahara Occidental
+    id: Sahara Barat
+    ie: West-Sahara
+    ilo: Akinlaud a Sahara
+    io: Westala Sahara
+    is: Vestur-Sahara
+    it: Sahara Occidentale
+    ja: 西サハラ
+    jam: Westan Sa'aara
+    jv: Sahara Kulon
+    ka: დასავლეთი საჰარა
+    kaa: Batıs Saxara
+    kab: Aneẓruf Utrim
+    kbp: Sahara Wɩsɩ ɖɩɖʊyɛ
+    kcg: Sa̱hara Jenshyung
+    kg: Repubilika ya Balabu ya Saharawi ya Dimokalasi
+    kk: Батыс Сахара
+    kn: ಪಶ್ಚಿಮ ಸಹಾರ
+    ko: 서사하라
+    ku: Sahraya Rojava
+    kw: Sahara West
+    ky: Батыш Сахара
+    la: Sahara Occidentalis
+    lad: Sahara Oksidental
+    li: Westeleke Sahara
+    lij: Sahara Oççidentâ
+    ln: Sahara ya Limbɛ
+    lo: ສະຫາຣາພາກໃຕ້
+    lrc: صأحرا أفتونئشین
+    lt: Vakarų Sachara
+    lv: Rietumsahāra
+    mdf: Шиньмадомаширень Сахара
+    mg: Sahara Andrefana
+    mi: Hahāra ki te Hauāuru
+    mk: Западна Сахара
+    ml: പശ്ചിമ സഹാറ
+    mn: Баруун Сахар
+    mr: पश्चिम सहारा
+    mrj: Вадывел Сахара
+    ms: Sahara Barat
+    mt: Saħara tal-Punent
+    mzn: صحرا
+    nan: Sai Sahara
+    nb: Vest-Sahara
+    ne: पश्चिमी सहारा
+    nl: Westelijke Sahara
+    nn: Vest-Sahara
+    nov: Westi Sahara
+    nrm: Sahara du Vouêt
+    nso: Western Sahara
+    nv: Kéyah Sahééwa Eʼeʼaahjí Siʼánígíí
+    oc: Sahara Occidental
+    om: Sahaaraa Dhihaa
+    or: ପଶ୍ଚିମ ସାହାରା
+    os: Ныгуылæн Сахарæ
+    pa: ਪੱਛਮੀ ਸਹਾਰਾ
+    pam: Albugang Sahara
+    pih: Westen Sahara
+    pl: Sahara Zachodnia
+    pnb: لہندا صحرا
+    ps: لوېديځه سحارا
+    pt: Sara Ocidental
+    pt-br: Saara Ocidental
+    qu: Kunti Sahara
+    ro: Sahara Occidentală
+    ru: Западная Сахара
+    sah: Арҕаа Саhаара
+    sat: ᱯᱟᱪᱮ ᱥᱟᱦᱟᱨᱟ
+    sc: Sahara Otzidentale
+    scn: Sahara Uccidintali
+    sco: Wastren Sahara
+    sd: مغربي صحارا
+    se: Oarje-Sahára
+    sh: Zapadna Sahara
+    shn: သႃႇႁႃႇရႃႇ ပွတ်းဝၼ်းတူၵ်း
+    si: බටහිර සහරාව
+    sk: Západná Sahara
+    sl: Zahodna Sahara
+    sq: Sahara Perëndimore
+    sr: Западна Сахара
+    sr-ec: Западна Сахара
+    st: Western Sahara
+    su: Sahara Kulon
+    sv: Västsahara
+    sw: Sahara ya Magharibi
+    szl: Sahrawijŏ
+    szy: West sahara
+    ta: மேற்கு சகாரா
+    tay: West sahara
+    te: వెస్టర్న్ సహారా
+    tg: Саҳрои Ғарбӣ
+    th: เวสเทิร์นสะฮารา
+    tl: Kanluraning Sahara
+    tok: ma Salawi
+    tr: Batı Sahra
+    trv: Western Sahara
+    ts: Western Sahara
+    tt: Көнбатыш Сахара
+    ug: غەربىي سەھرا
+    uk: Західна Сахара
+    ur: مغربی صحارا
+    uz: Gʻarbiy sahroi kabir
+    vi: Tây Sahara
+    vo: Vesüda-Saharän
+    wa: Sara Coûtchantrece
+    war: Katundan Sahara
+    wo: Sahara gu Sowwu
+    wuu: 西撒哈拉
+    xmf: ბჟადალი საჰარა
+    yo: Apáìwọ̀orùn Sàhárà
+    yue: 西撒哈拉
+    zea: Westelijke Sahara
+    zgh: ⵜⴰⵏⵣⵔⵓⴼⵜ ⵜⵓⵜⵔⵉⵎⵜ
+    zh: 西撒哈拉
+    zh-hans: 西撒哈拉
+    zh-hant: 西撒哈拉
+    zu: ISahara lasentshonalanga
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
 dv_has_name_de: Western Sahara
 dv_Area-Total: 267000
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: WSA
-dv_Capital: "[[El_Aaiún_(Laâyoune)]]"
+dv_Capital: '[[El_Aaiún_(Laâyoune)]]'
 dv_has_place_longitude: -13.2033
 dv_has_place_latitude: 27.1536
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
+- '[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]'
+- '[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
 ---
-
 # [[Western_Sahara]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

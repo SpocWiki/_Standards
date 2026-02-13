@@ -1,66 +1,98 @@
 ---
 aliases:
-  - Mariah_Carey
-  - Mariah Carey
-  - Carey
-  - Carey,Mariah
+- Carey
+- Carey,Mariah
+- Marajė Kerė
+- Maria Carey
+- Mariah Carey
+- Mariah Careyová
+- Mariah_Carey
+- Meraija Kerija
+- Meray Keri
+- Μαράια Κάρεϊ
+- Мараја Кери
+- Марая Кери
+- Мерая Кері
+- Мэрайя Кэри
+- Мэрая Кэры
+- Մրայա Քերի
+- מריה קארי
+- ماريا كارى
+- ماريا كاري
+- ماریا کری
+- ماریا کێری
+- ماریہ کیری
+- मारिया केरी
+- मारिया कैरी
+- মারিয়া ক্যারি
+- ਮਾਰਿਆ ਕੇੈਰੀ
+- മറായ കേറി
+- มารายห์ แครี
+- ມາລາຍ ແຄລີ່
+- မရိုင်းယား ကဲရီ
+- მერაია კერი
+- マライア・キャリー
+- 玛丽亚·凯莉
+- 瑪麗·嘉兒
+- 瑪麗亞·凱莉
+- 머라이어 캐리
 has_id_wikidata: Q41076
 residence: '[[_Standards/WikiData/WD~Bel_Air,86768]]'
 genre:
-  - '[[_Standards/WikiData/WD~soul,131272]]'
-  - '[[_Standards/WikiData/WD~contemporary_R&B,850412]]'
-  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~soul,131272]]'
+- '[[_Standards/WikiData/WD~contemporary_R&B,850412]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
 occupation:
-  - '[[_Standards/WikiData/WD~entertainer,138858]]'
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~music_video_director,2340668]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~entertainer,138858]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~music_video_director,2340668]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Island_Records,190585]]'
-  - '[[_Standards/WikiData/WD~Virgin_Records,203059]]'
-  - '[[_Standards/WikiData/WD~Epic_Records,216364]]'
-  - '[[_Standards/WikiData/WD~Sony_Music,330629]]'
-  - '[[_Standards/WikiData/WD~Def_Jam_Recordings,654283]]'
-  - '[[_Standards/WikiData/WD~Legacy_Recordings,2358400]]'
-  - '[[_Standards/WikiData/WD~Monarc_Entertainment,3505442]]'
-  - '[[_Standards/WikiData/WD~Butterfly_MC_Records,39058514]]'
-  - '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Island_Records,190585]]'
+- '[[_Standards/WikiData/WD~Virgin_Records,203059]]'
+- '[[_Standards/WikiData/WD~Epic_Records,216364]]'
+- '[[_Standards/WikiData/WD~Sony_Music,330629]]'
+- '[[_Standards/WikiData/WD~Def_Jam_Recordings,654283]]'
+- '[[_Standards/WikiData/WD~Legacy_Recordings,2358400]]'
+- '[[_Standards/WikiData/WD~Monarc_Entertainment,3505442]]'
+- '[[_Standards/WikiData/WD~Butterfly_MC_Records,39058514]]'
+- '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
 discography: '[[_Standards/WikiData/WD~Mariah_Carey_discography,263476]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Q348533,348533]]'
-  - '[[_Standards/WikiData/WD~Tommy_Mottola,548921]]'
+- '[[_Standards/WikiData/WD~Q348533,348533]]'
+- '[[_Standards/WikiData/WD~Tommy_Mottola,548921]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Derek_Jeter,353511]]'
-  - '[[_Standards/WikiData/WD~Luis_Miguel,1069140]]'
-  - '[[_Standards/WikiData/WD~James_Packer,1680948]]'
-  - '[[_Standards/WikiData/WD~Bryan_Tanaka,9667868]]'
+- '[[_Standards/WikiData/WD~Derek_Jeter,353511]]'
+- '[[_Standards/WikiData/WD~Luis_Miguel,1069140]]'
+- '[[_Standards/WikiData/WD~James_Packer,1680948]]'
+- '[[_Standards/WikiData/WD~Bryan_Tanaka,9667868]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 highest_note: '[[_Standards/WikiData/WD~G_,549905]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
-  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Song,1459443]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Contemporary_R&B_Album,1542136]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
-  - '[[_Standards/WikiData/WD~Blockbuster_Entertainment_Awards,2906822]]'
-  - '[[_Standards/WikiData/WD~MTV_Europe_Music_Award_for_Best_R&B,3841595]]'
-  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Adult_Contemporary_Album,4744482]]'
-  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Boston_Society_of_Film_Critics_Awards,21866936]]'
-  - '[[_Standards/WikiData/WD~Billboard_Music_Award_for_Top_Female_Artist,28454102]]'
-  - '[[_Standards/WikiData/WD~Echo_Pop_Award_for_the_Best_International_Rock_Pop_Female_Artist,135992929]]'
-  - '[[_Standards/WikiData/WD~MTV_Europe_Music_Award_for_Best_Female,38444]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Song,1459443]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Contemporary_R&B_Album,1542136]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
+- '[[_Standards/WikiData/WD~Blockbuster_Entertainment_Awards,2906822]]'
+- '[[_Standards/WikiData/WD~MTV_Europe_Music_Award_for_Best_R&B,3841595]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Adult_Contemporary_Album,4744482]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Soul_R&B_Female_Artist,4744490]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Boston_Society_of_Film_Critics_Awards,21866936]]'
+- '[[_Standards/WikiData/WD~Billboard_Music_Award_for_Top_Female_Artist,28454102]]'
+- '[[_Standards/WikiData/WD~Echo_Pop_Award_for_the_Best_International_Rock_Pop_Female_Artist,135992929]]'
+- '[[_Standards/WikiData/WD~MTV_Europe_Music_Award_for_Best_Female,38444]]'
 lowest_note: '[[_Standards/WikiData/WD~F,775617]]'
 place_of_birth: '[[_Standards/WikiData/WD~Huntington,999123]]'
 Fach_vocal_classification: '[[_Standards/WikiData/WD~whistle_register,1479386]]'
@@ -70,8 +102,8 @@ sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Mariah_Carey,10991532]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
 given_name: '[[_Standards/WikiData/WD~Mariah,20899041]]'
 mother: '[[_Standards/WikiData/WD~Patricia_Hickey_Carey,60515354]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
@@ -80,8 +112,8 @@ father: '[[_Standards/WikiData/WD~Alfred_Roy_Carey,115997583]]'
 member_of: '[[_Standards/WikiData/WD~Chick,120556618]]'
 owner_of: '[[_Standards/WikiData/WD~Q121433252,121433252]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Alisson_Carey,129899770]]'
-  - '[[_Standards/WikiData/WD~Morgan_Carey,129900091]]'
+- '[[_Standards/WikiData/WD~Alisson_Carey,129899770]]'
+- '[[_Standards/WikiData/WD~Morgan_Carey,129900091]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -90,23 +122,23 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 2
 net_worth: 500000000
 social_media_followers:
-  - 11900000
-  - 21912982
+- 11900000
+- 21912982
 ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 voice_type: '[[_Standards/WikiData/WD~coloratura_soprano,58192]]'
 Europeana_entity: agent/base/146892
 pseudonym:
-  - Elusive Chanteuse
-  - Queen of Christmas
-  - Songbird Supreme
-  - Mimi
+- Elusive Chanteuse
+- Queen of Christmas
+- Songbird Supreme
+- Mimi
 Wolfram_Language_entity_code: Entity["MusicAct", "MariahCarey::5h97x"]
 Commons_gallery: Mariah Carey
 Commons_category: Mariah Carey
 booru_tag:
-  - mariah_carey
-  - mariah_carey_(musician)
-  - mariah_carey_(cosplay)
+- mariah_carey
+- mariah_carey_(musician)
+- mariah_carey_(cosplay)
 Facebook_username: mariahcarey
 Instagram_username: mariahcarey
 TikTok_username: mariahcarey
@@ -125,8 +157,129 @@ ISNI: 0000000114722280
 IPI_name_number: 00227453081
 Plex_person_key: 5d7768362e80df001ebde760
 REDnote_profile: 66ac93f9000000000b031421
+dv_has_:
+  name_:
+    af: Mariah Carey
+    an: Mariah Carey
+    ar: ماريا كاري
+    arz: ماريا كارى
+    ast: Mariah Carey
+    az: Meray Keri
+    azb: ماریا کری
+    bcl: Mariah Carey
+    be: Мэрая Кэры
+    be-tarask: Мэрая Кэры
+    bg: Марая Кери
+    bi: Mariah Carey
+    bn: মারিয়া ক্যারি
+    ca: Mariah Carey
+    cbk-zam: Mariah Carey
+    ckb: ماریا کێری
+    cs: Mariah Carey
+    cy: Mariah Carey
+    da: Mariah Carey
+    de: Mariah Carey
+    diq: Mariah Carey
+    dtp: Mariah Carey
+    el: Μαράια Κάρεϊ
+    en: Mariah Carey
+    eo: Mariah Carey
+    es: Mariah Carey
+    et: Mariah Carey
+    eu: Mariah Carey
+    fa: ماریا کری
+    fi: Mariah Carey
+    fo: Mariah Carey
+    fr: Mariah Carey
+    fy: Mariah Carey
+    ga: Mariah Carey
+    gl: Mariah Carey
+    ha: Mariah Carey
+    haw: Mariah Carey
+    he: מריה קארי
+    hi: मारिया कैरी
+    hr: Mariah Carey
+    hsb: Mariah Carey
+    ht: Mariah Carey
+    hu: Mariah Carey
+    hy: Մրայա Քերի
+    id: Mariah Carey
+    ie: Mariah Carey
+    ig: Mariah Carey
+    ilo: Mariah Carey
+    io: Mariah Carey
+    is: Mariah Carey
+    it: Mariah Carey
+    ja: マライア・キャリー
+    jv: Mariah Carey
+    ka: მერაია კერი
+    kab: Mariah Carey
+    kk: Мэрайя Кэри
+    kl: Mariah Carey
+    ko: 머라이어 캐리
+    ks: ماریہ کیری
+    ku: Mariah Carey
+    la: Maria Carey
+    lb: Mariah Carey
+    lo: ມາລາຍ ແຄລີ່
+    lt: Mariah Carey
+    lv: Meraija Kerija
+    mai: मारिया केरी
+    mg: Mariah Carey
+    min: Mariah Carey
+    mk: Мараја Кери
+    ml: മറായ കേറി
+    ms: Mariah Carey
+    mul: Mariah Carey
+    my: မရိုင်းယား ကဲရီ
+    mzn: ماریا کری
+    nan: Mariah Carey
+    nb: Mariah Carey
+    ne: मारिया केरी
+    nl: Mariah Carey
+    nn: Mariah Carey
+    oc: Mariah Carey
+    pa: ਮਾਰਿਆ ਕੇੈਰੀ
+    pag: Mariah Carey
+    pam: Mariah Carey
+    pap: Mariah Carey
+    pl: Mariah Carey
+    pt: Mariah Carey
+    pt-br: Mariah Carey
+    qu: Mariah Carey
+    ro: Mariah Carey
+    ru: Мэрайя Кэри
+    sc: Mariah Carey
+    sco: Mariah Carey
+    sgs: Marajė Kerė
+    sh: Mariah Carey
+    sk: Mariah Careyová
+    sl: Mariah Carey
+    smn: Mariah Carey
+    sq: Mariah Carey
+    sr: Мараја Кери
+    su: Mariah Carey
+    sv: Mariah Carey
+    sw: Mariah Carey
+    th: มารายห์ แครี
+    tl: Mariah Carey
+    tr: Mariah Carey
+    uk: Мерая Кері
+    ur: ماریہ کیری
+    uz: Mariah Carey
+    vec: Mariah Carey
+    vi: Mariah Carey
+    war: Mariah Carey
+    wuu: 玛丽亚·凯莉
+    xmf: მერაია კერი
+    yo: Mariah Carey
+    yue: 瑪麗亞·凱莉
+    zh: 瑪麗亞·凱莉
+    zh-cn: 玛丽亚·凯莉
+    zh-hant: 瑪麗亞·凱莉
+    zh-hk: 瑪麗·嘉兒
+    zh-tw: 瑪麗亞·凱莉
 ---
-
 # [[Carey,Mariah]] 
 
 #is_/same_as :: [[WD~Mariah_Carey,41076]] 

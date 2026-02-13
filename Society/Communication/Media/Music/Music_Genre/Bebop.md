@@ -1,18 +1,106 @@
 ---
-has_time_started: 1945-01-01 
+has_time_started: 1945-01-01
 aliases:
-  - Bebop
+- Bebop
+- Bi-bap
+- Bibop
+- Bibopas
+- Bibopo
+- bop
+- bībops
+- μπίμποπ
+- бібоп
+- би-бап
+- бибоп
+- բիբոփ
+- בי בופ
+- بيبوب
+- بیباپ
+- บีบอป
+- ბიბოპი
+- ビバップ
+- 博普爵士樂
+- 咆勃爵士乐
+- 咆勃爵士樂
+- 비밥
 has_id_wikidata: Q105513
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-different_from: "[[_Standards/WikiData/WD~bop,108297200]]"
-subclass_of: "[[_Standards/WikiData/WD~jazz,8341]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+different_from: '[[_Standards/WikiData/WD~bop,108297200]]'
+subclass_of: '[[_Standards/WikiData/WD~jazz,8341]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 native_label: Bebop
 Commons_category: Bebop
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20McGhee%2C%20Brick%20Fleagle%20and%20Miles%20Davis%2C%20ca%20September%201947%20%28Gottlieb%29.jpg
 inception: 1945-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: بيبوب
+    ast: Bebop
+    az: Bibop
+    be: бібоп
+    be-tarask: бібоп
+    bg: бибоп
+    ca: bebop
+    cs: bebop
+    da: bebop
+    de: Bebop
+    el: μπίμποπ
+    en: bebop
+    eo: Bibopo
+    es: bebop
+    et: Bebop
+    eu: Bebop
+    fa: بیباپ
+    fi: Bebop
+    fr: bebop
+    frr: bebop
+    gl: Bebop
+    gsw: Bebop
+    he: בי בופ
+    hr: Bebop
+    hu: bebop
+    hy: բիբոփ
+    id: Bebop
+    it: bebop
+    ja: ビバップ
+    ka: ბიბოპი
+    ko: 비밥
+    ku: bebop
+    ku-latn: bebop
+    la: Bebop
+    li: Bebop
+    lt: Bibopas
+    lv: bībops
+    mk: Бибоп
+    nb: bebop
+    nds: Bebop
+    nl: bop
+    nn: bebop
+    oc: Bebop
+    pcd: Bebop
+    pl: Bebop
+    pt: bebop
+    ru: бибоп
+    scn: Bebop
+    sk: Bebop
+    sl: bebop
+    sr: би-бап
+    sr-ec: Би-бап
+    sr-el: Bi-bap
+    sv: Bebop
+    th: บีบอป
+    tr: bebop
+    uk: Бібоп
+    vi: Bebop
+    yue: 博普爵士樂
+    zh: 咆勃爵士樂
+    zh-cn: 咆勃爵士乐
+    zh-hans: 咆勃爵士乐
+    zh-hant: 咆勃爵士樂
+    zh-hk: 咆勃爵士樂
+    zh-sg: 咆勃爵士乐
+    zh-tw: 咆勃爵士樂
 ---
-
 # [[Bebop]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bebop,105513|WD~Bebop,105513]] 

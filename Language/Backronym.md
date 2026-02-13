@@ -1,8 +1,70 @@
 ---
 has_id_wikidata: Q636300
+dv_has_:
+  name_:
+    ar: معكوس تاجي
+    bg: бекроним
+    ca: retroacrònim
+    cs: backronym
+    da: backronym
+    de: Backronym
+    en: backronym
+    eo: retroakronimo
+    es: retroacrónimo
+    et: bakronüüm
+    fi: backronym
+    fr: rétroacronymie
+    gl: Retroacrónimo
+    ha: Backronym
+    he: ראשי תיבות בדיעבד
+    id: keratabasa
+    ig: backronym
+    io: Retro-akronimo
+    it: acronimo inverso
+    ja: バクロニム
+    jv: kerata basa
+    ko: 역두문자어
+    ky: бэкроним
+    lb: Backronym
+    lfn: retroacronim
+    nan: backronym
+    nl: backroniem
+    pl: akronim wtórny
+    pt: retroacrónimo
+    pt-br: retroacrônimo
+    ru: бэкроним
+    sr: Бекроним
+    su: kirata
+    sv: backronym
+    uk: бекронім
+    vi: từ cấu tạo ngược
+    zh: 字頭語
+aliases:
+- acronimo inverso
+- akronim wtórny
+- backroniem
+- backronym
+- bakronüüm
+- kerata basa
+- keratabasa
+- kirata
+- Retro-akronimo
+- retroacronim
+- retroacrònim
+- retroacrónimo
+- retroacrônimo
+- retroakronimo
+- rétroacronymie
+- từ cấu tạo ngược
+- бекронім
+- бекроним
+- бэкроним
+- ראשי תיבות בדיעבד
+- معكوس تاجي
+- バクロニム
+- 字頭語
+- 역두문자어
 ---
-
-
 # [[Backronym]] 
 
 #is_/similar_to :: [[Acronym]] 

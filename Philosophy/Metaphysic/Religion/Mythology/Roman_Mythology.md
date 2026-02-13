@@ -1,13 +1,87 @@
 ---
 aliases:
-  - Roman_Mythology
-  - Roman Mythology
+- Erromatar mitologia
+- Gwengelouriezh Roman
+- miotaseolaíocht na Sean-Róimhe
+- Mitholojia ya Kirumi
+- mitolochía romana
+- Mitolociya Roma
+- Mitolodjeye rominne
+- Mitologi Rom
+- Mitologi Romawi
+- mitologia romana
+- mitologia rzymska
+- mitologie romană
+- Mitologjia romake
+- mitología romana
+- Mitolohiya Romano
+- Mitolohiyang Romano
+- Mitoloji women
+- mitolojia roman antica
+- mitoloxía romana
+- mytholeg Rufeinig
+- Mythologia roman
+- Mythologia Romana
+- mythologie romaine
+- mîtolojiya romayî
+- nu Lou-ma a micidekay a kungku
+- Qədim Roma mifologiyası
+- Rimska mitologija
+- Rimska religija
+- Roma mitolojisi
+- Roman meethology
+- Roman Mythology
+- Romana mitologio
+- Roman_Mythology
+- Romeinsche mythologie
+- Romeinse mitologie
+- Romeinse mythologie
+- Romeinske mytology
+- Romersk mytologi
+- romia mitologio
+- romiešu mitoloģija
+- Romėnų mitologija
+- roomalainen mytologia
+- Réimesch Mythologie
+- Rímska mytológia
+- római mitológia
+- Rómversk goðafræði
+- römische Mythologie
+- Thần thoại La Mã
+- Vanarooma mütoloogia
+- římská mytologie
+- Ρωμαϊκή μυθολογία
+- Авалхи Рим халаплăхĕ
+- римска митологија
+- Римска митология
+- Римска религија
+- римская мифология
+- римська міфологія
+- рымская міталёгія
+- Рымская міфалогія
+- Հռոմեական դիցաբանություն
+- Հռոմէական Դիցաբանութիւն
+- מיתולוגיה רומית
+- أساطير رومانية
+- اساطير رومانيه
+- اساطیر روم
+- رومن اساطیر
+- रोमन पौराणिक कथायें
+- রোমান পুরাণ
+- ৰোমান শ্ৰুতিকথা
+- เทพปกรณัมโรมัน
+- ရောမဒဏ္ဍာရီ
+- რომაული მითოლოგია
+- ローマ神話
+- 罗马神话
+- 羅馬神話
+- 로마 신화
 has_id_wikidata: Q122173
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of: '[[_Standards/WikiData/WD~classical_mythology,1367434]]'
 culture: '[[_Standards/WikiData/WD~culture_of_Rome,5193508]]'
 instance_of: '[[_Standards/WikiData/WD~mythology,9134]]'
@@ -15,8 +89,104 @@ Iconclass_notation: 96
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Altar%20Mars%20Venus%20Massimo.jpg
 P8189: 987007558138205171
 Commons_category: Roman mythology
+dv_has_:
+  name_:
+    af: Romeinse mitologie
+    an: mitolochía romana
+    ar: أساطير رومانية
+    arz: اساطير رومانيه
+    as: ৰোমান শ্ৰুতিকথা
+    ast: mitoloxía romana
+    az: Qədim Roma mifologiyası
+    be: Рымская міфалогія
+    be-tarask: рымская міталёгія
+    bg: Римска митология
+    bn: রোমান পুরাণ
+    br: Gwengelouriezh Roman
+    bs: Rimska mitologija
+    ca: mitologia romana
+    cs: římská mytologie
+    cv: Авалхи Рим халаплăхĕ
+    cy: mytholeg Rufeinig
+    da: Romersk mytologi
+    de: römische Mythologie
+    diq: Mitolociya Roma
+    el: Ρωμαϊκή μυθολογία
+    en: Roman mythology
+    eo: romia mitologio
+    es: mitología romana
+    et: Vanarooma mütoloogia
+    eu: Erromatar mitologia
+    fa: اساطیر روم
+    fi: roomalainen mytologia
+    fr: mythologie romaine
+    fy: Romeinske mytology
+    ga: miotaseolaíocht na Sean-Róimhe
+    gl: mitoloxía romana
+    he: מיתולוגיה רומית
+    hi: रोमन पौराणिक कथायें
+    hr: rimska mitologija
+    ht: Mitoloji women
+    hu: római mitológia
+    hy: Հռոմեական դիցաբանություն
+    hyw: Հռոմէական Դիցաբանութիւն
+    ia: Mythologia roman
+    id: Mitologi Romawi
+    io: Romana mitologio
+    is: Rómversk goðafræði
+    it: mitologia romana
+    ja: ローマ神話
+    jv: Mitologi Romawi
+    ka: რომაული მითოლოგია
+    ko: 로마 신화
+    ku: mîtolojiya romayî
+    ku-latn: mîtolojiya romayî
+    la: Mythologia Romana
+    lb: Réimesch Mythologie
+    lfn: mitolojia roman antica
+    lt: Romėnų mitologija
+    lv: romiešu mitoloģija
+    mk: римска митологија
+    ms: Mitologi Rom
+    my: ရောမဒဏ္ဍာရီ
+    nb: romersk mytologi
+    nl: Romeinse mythologie
+    nn: romersk mytologi
+    oc: mitologia romana
+    pl: mitologia rzymska
+    pt: mitologia romana
+    ro: mitologie romană
+    ru: римская мифология
+    sco: Roman meethology
+    sh: Rimska mitologija
+    sk: Rímska mytológia
+    sl: rimska mitologija
+    sq: Mitologjia romake
+    sr: римска митологија
+    sr-ec: Римска религија
+    sr-el: Rimska religija
+    sv: Romersk mytologi
+    sw: Mitholojia ya Kirumi
+    szy: nu Lou-ma a micidekay a kungku
+    th: เทพปกรณัมโรมัน
+    tl: Mitolohiyang Romano
+    tr: Roma mitolojisi
+    uk: римська міфологія
+    ur: رومن اساطیر
+    vi: Thần thoại La Mã
+    vls: Romeinsche mythologie
+    wa: Mitolodjeye rominne
+    war: Mitolohiya Romano
+    wuu: 罗马神话
+    yue: 羅馬神話
+    zh: 羅馬神話
+    zh-cn: 罗马神话
+    zh-hans: 罗马神话
+    zh-hant: 羅馬神話
+    zh-hk: 羅馬神話
+    zh-sg: 罗马神话
+    zh-tw: 羅馬神話
 ---
-
 # [[Roman_Mythology]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Roman_mythology,122173|WD~Roman_mythology,122173]] 

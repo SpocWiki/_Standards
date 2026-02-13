@@ -1,28 +1,92 @@
 ---
 aliases:
-  - Hüfte
-  - Pelvis
+- bacia
+- bacino
+- Balakang
+- bassin
+- Becken
+- bekken
+- bäcken
+- bækken
+- Cangkéng
+- Chanoq
+- Hüfte
+- iegurnis
+- Karlica
+- kaulinis dubuo
+- Khung chậu
+- kość miedniczna
+- lantio
+- legeni i njeriut
+- Lestr
+- Maxana
+- medence (testtáj)
+- medenica
+- Mjaðmagrind
+- Panva
+- peilbheas
+- Pelbis
+- pelfis
+- pelve
+- Pelvis
+- Pelvo
+- piştêna hewzê
+- pánev
+- Rũhĩndũ(rũhonge)
+- Vaagen
+- zdjelica
+- Çanaq
+- Λεκάνη
+- БухчӀинсса
+- жамбас белдеуі
+- карлица
+- лагво
+- оча
+- РохокъотӀялъул ракьа
+- Сутана́
+- таз
+- Կոնք
+- אגן
+- اومبا
+- حوض
+- لگن خاصره
+- لەگەنە
+- يانپاش
+- پیڑو
+- कूल्हा
+- श्रोणि
+- শ্রোণিচক্র
+- இடுப்பு வளையம்
+- శ్రోణి మేఖల
+- ශ්රෝණිය
+- เชิงกราน
+- კინჭიხე
+- 人类骨盆
+- 躉
+- 骨盆
+- 骨盤
+- 골반
 has_id_wikidata: Q713102
 connects_with: '[[_Standards/WikiData/WD~vertebral_column,482853]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~pelvic_cavity,1547362]]'
-  - '[[_Standards/WikiData/WD~hip_bone,3356933]]'
-  - '[[_Standards/WikiData/WD~sex_organ,4620674]]'
-  - '[[_Standards/WikiData/WD~large_intestine,11083]]'
-  - '[[_Standards/WikiData/WD~buttocks,42165]]'
+- '[[_Standards/WikiData/WD~pelvic_cavity,1547362]]'
+- '[[_Standards/WikiData/WD~hip_bone,3356933]]'
+- '[[_Standards/WikiData/WD~sex_organ,4620674]]'
+- '[[_Standards/WikiData/WD~large_intestine,11083]]'
+- '[[_Standards/WikiData/WD~buttocks,42165]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~cardinal_body_part,17781690]]'
-  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~cardinal_body_part,17781690]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-  - '[[_Standards/WikiData/WD~solitary_organism_subdivision_type,113147985]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~solitary_organism_subdivision_type,113147985]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sobo%201909%20211.png
 Commons_gallery: Bones of the human pelvis
 TA98_Latin_term: pelvis
@@ -31,8 +95,100 @@ Commons_category: Pelvis
 Iconclass_notation: 31A213
 MeSH_tree_code: A01.923.600
 UMLS_CUI: C0030797
+dv_has_:
+  name_:
+    af: bekken
+    ar: حوض
+    ast: Maxana
+    av: РохокъотӀялъул ракьа
+    az: Çanaq
+    azb: اومبا
+    be: таз
+    be-tarask: лагво
+    bg: Таз
+    bn: শ্রোণিচক্র
+    br: Lestr
+    bs: Karlica
+    ca: pelvis
+    ckb: لەگەنە
+    cs: pánev
+    cv: Сутана́
+    cy: pelfis
+    da: bækken
+    de: Becken
+    de-ch: Becken
+    el: Λεκάνη
+    en: pelvis
+    en-ca: Pelvis
+    en-gb: pelvis
+    eo: pelvo
+    es: pelvis
+    et: Vaagen
+    eu: Pelbis
+    fa: لگن خاصره
+    fi: lantio
+    fr: bassin
+    ga: peilbheas
+    gl: pelve
+    he: אגן
+    hi: कूल्हा
+    hr: zdjelica
+    hu: medence (testtáj)
+    hy: Կոնք
+    id: Pelvis
+    io: Pelvo
+    is: Mjaðmagrind
+    it: bacino
+    ja: 骨盤
+    ki: Rũhĩndũ(rũhonge)
+    kk: жамбас белдеуі
+    ko: 골반
+    ku: piştêna hewzê
+    la: Pelvis
+    lb: Becken
+    lbe: БухчӀинсса
+    lt: kaulinis dubuo
+    lv: iegurnis
+    mk: карлица
+    ms: Pelvis
+    nb: bekken
+    ne: श्रोणि
+    nl: bekken
+    nn: bekken
+    pl: kość miedniczna
+    pt: bacia
+    pt-br: Pelve
+    ro: pelvis
+    ru: таз
+    sh: Zdjelica
+    si: ශ්රෝණිය
+    sk: Panva
+    sl: medenica
+    sq: legeni i njeriut
+    sr: Karlica
+    su: Cangkéng
+    sv: bäcken
+    ta: இடுப்பு வளையம்
+    te: శ్రోణి మేఖల
+    th: เชิงกราน
+    tl: Balakang
+    tr: pelvis
+    tt: оча
+    ug: يانپاش
+    uk: таз
+    ur: پیڑو
+    uz: Chanoq
+    vi: Khung chậu
+    war: Pelvis
+    wuu: 骨盆
+    xmf: კინჭიხე
+    yue: 躉
+    zh: 骨盆
+    zh-cn: 人类骨盆
+    zh-hans: 骨盆
+    zh-hant: 骨盆
+    zh-hk: 骨盆
 ---
-
 # [[Pelvis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Pelvis,713102|WD~Pelvis,713102]] 

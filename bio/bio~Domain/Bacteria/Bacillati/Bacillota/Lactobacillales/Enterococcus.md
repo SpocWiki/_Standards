@@ -1,8 +1,86 @@
 ---
 has_id_wikidata: Q517258
+dv_has_:
+  name_:
+    an: Enterococcus
+    ar: مكورة معوية
+    arz: مكوره معويه
+    ast: Enterococcus
+    bg: ентерококи
+    ca: Enterococ
+    ceb: Enterococcus
+    cs: enterokok
+    de: Enterokokken
+    el: Εντερόκοκκος
+    en: Enterococcus
+    eo: Enterokokoj
+    es: Enterococcus
+    eu: Enterococcus
+    ext: Enterococcus
+    fa: انتروکوک
+    fi: Enterococcus
+    fr: Entérocoque
+    ga: Enterococcus
+    gl: Enterococcus
+    hy: Էնտերոկոկ
+    ia: Enterococcus
+    id: Enterococcus
+    ie: Enterococcus
+    io: Enterococcus
+    it: Enterococcus
+    ja: 腸球菌
+    ko: 장알균
+    la: Enterococcus
+    mk: Ентерококи
+    mul: Enterococcus
+    nb: enterokokker
+    nl: Enterococcus
+    nn: enterokokkar
+    oc: Enterococcus
+    pl: enterokoki
+    pt: Enterococcus
+    pt-br: Enterococcus
+    ro: Enterococcus
+    ru: Энтерококки
+    sh: Enterokoke
+    sq: Enterococcus
+    sr: Ентерококе
+    sv: Enterokocker
+    tl: Enterococcus
+    tr: Enterococcus
+    uk: Ентерококи
+    vi: Enterococcus
+    vo: Enterococcus
+    war: Enterococcus
+    zh: 肠球菌属
+    zh-cn: 肠球菌属
+    zh-hans: 肠球菌属
+    zh-tw: 腸球菌屬
+aliases:
+- Enterococ
+- Enterococcus
+- Enterokocker
+- enterokok
+- Enterokoke
+- enterokoki
+- enterokokkar
+- Enterokokken
+- enterokokker
+- Enterokokoj
+- Entérocoque
+- Εντερόκοκκος
+- Ентерококе
+- ентерококи
+- Энтерококки
+- Էնտերոկոկ
+- انتروکوک
+- مكورة معوية
+- مكوره معويه
+- 肠球菌属
+- 腸球菌
+- 腸球菌屬
+- 장알균
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Enterococcus** is a large genus of lactic acid bacteria of the phylum Bacillota. 

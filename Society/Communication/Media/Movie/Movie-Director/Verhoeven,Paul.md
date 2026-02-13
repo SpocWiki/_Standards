@@ -1,8 +1,105 @@
 ---
 has_id_wikidata: Q129079
+dv_has_:
+  name_:
+    an: Paul Verhoeven
+    ar: بول فيرهويفن
+    arz: بول فيرهويفن
+    ast: Paul Verhoeven
+    be: Пол Верховен
+    be-tarask: Пол Вэрговэн
+    bg: Пол Верховен
+    br: Paul Verhoeven
+    ca: Paul Verhoeven
+    cs: Paul Verhoeven
+    cy: Paul Verhoeven
+    da: Paul Verhoeven
+    de: Paul Verhoeven
+    de-at: Paul Verhoeven
+    de-ch: Paul Verhoeven
+    el: Πολ Βερχόβεν
+    eml: Paul Verhoeven
+    en: Paul Verhoeven
+    eo: Paul Verhoeven
+    es: Paul Verhoeven
+    eu: Paul Verhoeven
+    fa: پل ورهوفن
+    fi: Paul Verhoeven
+    fr: Paul Verhoeven
+    fy: Paul Verhoeven
+    ga: Paul Verhoeven
+    gd: Paul Verhoeven
+    gl: Paul Verhoeven
+    he: פול ורהובן
+    hr: Paul Verhoeven
+    hu: Paul Verhoeven
+    hy: Պաուլ Վերհուվեն
+    id: Paul Verhoeven
+    io: Paul Verhoeven
+    it: Paul Verhoeven
+    ja: ポール・バーホーベン
+    jut: Paul Verhoeven
+    ka: პოლ ვერჰოვენი
+    ko: 파울 페르후번
+    lb: Paul Verhoeven (hollänesche Filmregisseur)
+    lt: Paul Verhoeven
+    lv: Pols Verhovens
+    ml: പോൾ വർഹൂവൻ
+    ms: Paul Verhoeven
+    mul: Paul Verhoeven
+    nah: Paul Verhoeven
+    nb: Paul Verhoeven
+    nl: Paul Verhoeven
+    nn: Paul Verhoeven
+    pap: Paul Verhoeven
+    pl: Paul Verhoeven
+    pms: Paul Verhoeven
+    pt: Paul Verhoeven
+    pt-br: Paul Verhoeven
+    ro: Paul Verhoeven
+    ru: Пол Верховен
+    sc: Paul Verhoeven
+    sco: Paul Verhoeven
+    sh: Paul Verhoeven
+    sje: Paul Verhoeven
+    sl: Paul Verhoeven
+    sq: Paul Verhoeven
+    sr: Пол Верховен
+    sv: Paul Verhoeven
+    tr: Paul Verhoeven
+    uk: Пол Верговен
+    ur: پال ورہوون
+    vo: Paul Verhoeven
+    yue: 保羅韋浩雲
+    zh: 保羅·范赫文
+    zh-cn: 保罗·范霍文
+    zh-hans: 保罗·范霍文
+    zh-hant: 保羅·范赫文
+    zh-hk: 保羅韋浩雲
+    zh-sg: 保罗·范赫文
+    zh-tw: 保羅·范赫文
+aliases:
+- Paul Verhoeven
+- Paul Verhoeven (hollänesche Filmregisseur)
+- Pols Verhovens
+- Πολ Βερχόβεν
+- Пол Верговен
+- Пол Верховен
+- Пол Вэрговэн
+- Պաուլ Վերհուվեն
+- פול ורהובן
+- بول فيرهويفن
+- پال ورہوون
+- پل ورهوفن
+- പോൾ വർഹൂവൻ
+- პოლ ვერჰოვენი
+- ポール・バーホーベン
+- 保罗·范赫文
+- 保罗·范霍文
+- 保羅·范赫文
+- 保羅韋浩雲
+- 파울 페르후번
 ---
-
-
 #is_/different_from :: [[Verhoeven,Michael]] 
 
 > **Paul Verhoeven** (Dutch: [ˈpʌul vərˈɦuvə(n)]; born 18 July 1938) is a Dutch filmmaker. 

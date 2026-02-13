@@ -1,11 +1,85 @@
 ---
 aliases:
+- art opératif
+- arte operativa
+- Hadműveleti művészet
+- mobilidade operacional
+- nghệ thuật chiến dịch
+- Nivel operacional de la guerra
+- nivell operatiu de guerra
+- Operasjonelt nivå
+- Operatica
+- Operatika
+- operational level of war
+- operationele strategie
+- operative Kunst
+- operativna raven bojevanja
+- Operativni nivo rata
+- Operativno umijeće
+- Operazio-arte
+- Sztuka operacyjna
+- Tahap operasi perang
+- Vojenská operace
+- Аператыўнае мастацтва
+- Апэратыўнае мастацтва
+- оперативна вештина
+- Оперативне мистецтво
+- Оперативно изкуство
+- оперативное искусство
+- דרג מערכתי
+- ئاستی ئۆپەراسیۆنیی شەڕ
+- المستوى التشغيلي للحرب
+- سطح عملیاتی جنگ
+- যুদ্ধের অভিযানমূলক স্তর
+- ยุทธศิลป์
+- 作戦術
+- 军事作战
+- 战役层面
+- 작전술
 has_id_wikidata: Q2287072
-subclass_of: "[[_Standards/WikiData/WD~military_science,192386]]"
-part_of: "[[_Standards/WikiData/WD~military_art,2560087]]"
-instance_of: "[[_Standards/WikiData/WD~military_term,66740226]]"
+subclass_of: '[[_Standards/WikiData/WD~military_science,192386]]'
+part_of: '[[_Standards/WikiData/WD~military_art,2560087]]'
+instance_of: '[[_Standards/WikiData/WD~military_term,66740226]]'
+dv_has_:
+  name_:
+    ar: المستوى التشغيلي للحرب
+    be: Аператыўнае мастацтва
+    be-tarask: Апэратыўнае мастацтва
+    bg: Оперативно изкуство
+    bn: যুদ্ধের অভিযানমূলক স্তর
+    ca: nivell operatiu de guerra
+    ckb: ئاستی ئۆپەراسیۆنیی شەڕ
+    cs: Vojenská operace
+    de: operative Kunst
+    en: operational level of war
+    es: Nivel operacional de la guerra
+    eu: Operazio-arte
+    fa: سطح عملیاتی جنگ
+    fr: art opératif
+    he: דרג מערכתי
+    hr: Operativno umijeće
+    hu: Hadműveleti művészet
+    it: arte operativa
+    ja: 作戦術
+    ko: 작전술
+    mk: оперативна вештина
+    ms: Tahap operasi perang
+    nb: Operasjonelt nivå
+    nl: operationele strategie
+    nn: Operasjonelt nivå
+    oc: Operatica
+    pl: Sztuka operacyjna
+    pt: mobilidade operacional
+    ru: оперативное искусство
+    sh: Operatika
+    sl: operativna raven bojevanja
+    sr: Operativni nivo rata
+    th: ยุทธศิลป์
+    uk: Оперативне мистецтво
+    vi: nghệ thuật chiến dịch
+    zh: 军事作战
+    zh-hans: 战役层面
 ---
-
 # [[Operational_Level_of_War]] 
 
 #is_/same_as :: [[WD~Operational_level_of_war,2287072]] 

@@ -1,8 +1,42 @@
 ---
 aliases:
-  - Werewolf of London
-  - Werewolf_of_London
+- Der Werwolf von London
+- Dr Yogami från London
+- El lobo humano
+- Il segreto del Tibet
+- Le Monstre de Londres
+- Werewolf of London
+- Werewolf_of_London
+- Wilkołak z Londynu
+- Лондонски вукодлак
+- Лондонский оборотень
+- گرگنمای لندن (فیلم ۱۹۳۵)
+- 倫敦の人狼
+- 倫敦狼人
+- 런던의 늑대인간
 has_id_wikidata: Q933339
+dv_has_:
+  name_:
+    ast: Werewolf of London
+    cy: Werewolf of London
+    da: Werewolf of London
+    de: Der Werwolf von London
+    en: Werewolf of London
+    es: El lobo humano
+    et: Werewolf of London
+    eu: Werewolf of London
+    fa: گرگنمای لندن (فیلم ۱۹۳۵)
+    fr: Le Monstre de Londres
+    it: Il segreto del Tibet
+    ja: 倫敦の人狼
+    ko: 런던의 늑대인간
+    nl: Werewolf of London
+    pl: Wilkołak z Londynu
+    pt: Werewolf of London
+    ru: Лондонский оборотень
+    sr: Лондонски вукодлак
+    sv: Dr Yogami från London
+    zh: 倫敦狼人
 ---
 #has_/time_/started :: 1935-06 
 

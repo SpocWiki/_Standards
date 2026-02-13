@@ -1,13 +1,36 @@
 ---
-has_time_started: 1967-01-01 
+has_time_started: 1967-01-01
 aliases:
-  - AFL–NFL World Championship Game
-  - Super_Bowl
-  - Super Bowl
+- AFL–NFL World Championship Game
+- Super Bowl
+- Superbowl
+- Superkauss
+- Supertaurė
+- Super_Bowl
+- Swīðe Bōlum
+- Σούπερ Μπόουλ
+- Супербол
+- Супербоул
+- Супэрбоўл
+- Սուպերբոուլ
+- סופרבול
+- ئالامەت چۆچەك (زەيتۇن توپ چىمپىيونلۇق مۇسابىقىسى)
+- سوبر بول
+- سوپربول
+- सुपर बोल
+- சூப்பர் போல்
+- ซูเปอร์โบวล์
+- სუპერ-ბოული
+- スーパーボウル
+- 超級盃
+- 超級碗
+- 超級碗(超級盃)
+- 超级碗
+- 슈퍼볼
 has_id_wikidata: Q32096
 instance_of:
-  - '[[_Standards/WikiData/WD~championship,1079023]]'
-  - '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
+- '[[_Standards/WikiData/WD~championship,1079023]]'
+- '[[_Standards/WikiData/WD~recurring_sporting_event_edition,114609228]]'
 organizer: '[[_Standards/WikiData/WD~National_Football_League,1215884]]'
 league_or_competition: '[[_Standards/WikiData/WD~National_Football_League,1215884]]'
 subclass_of: '[[_Standards/WikiData/WD~American_football_game,21140826]]'
@@ -25,8 +48,76 @@ official_website: https://www.nfl.com/super-bowl
 IMDb_keyword: super-bowl
 hashtag: SuperBowl
 X_Twitter_username: SuperBowl
+dv_has_:
+  name_:
+    ang: Swīðe Bōlum
+    ar: سوبر بول
+    arz: سوبر بول
+    ast: Super Bowl
+    be-tarask: Супэрбоўл
+    bg: Супербоул
+    bs: Super Bowl
+    ca: Super Bowl
+    cs: Super Bowl
+    cy: Super Bowl
+    da: Super Bowl
+    de: Super Bowl
+    el: Σούπερ Μπόουλ
+    en: Super Bowl
+    en-us: Super Bowl
+    eo: Super Bowl
+    es: Super Bowl
+    et: Super Bowl
+    eu: Super Bowl
+    fa: سوپربول
+    fi: Super Bowl
+    fo: Super Bowl
+    fr: Super Bowl
+    ga: Super Bowl
+    gl: Super Bowl
+    he: סופרבול
+    hr: Super Bowl
+    hu: Super Bowl
+    hy: Սուպերբոուլ
+    ia: Super Bowl
+    id: Super Bowl
+    is: Super Bowl
+    it: Super Bowl
+    ja: スーパーボウル
+    ka: სუპერ-ბოული
+    km: Super Bowl
+    ko: 슈퍼볼
+    li: Super Bowl
+    lt: Supertaurė
+    lv: Superkauss
+    mr: सुपर बोल
+    ms: Super Bowl
+    nan: Super Bowl
+    nb: Super Bowl
+    nl: Super Bowl
+    nn: Superbowl
+    oc: Super Bowl
+    pl: Super Bowl
+    pt: Super Bowl
+    ro: Super Bowl
+    ru: Супербоул
+    sh: Super Bowl
+    sl: Super Bowl
+    sr: Супербоул
+    sr-ec: Супербол
+    sv: Super Bowl
+    ta: சூப்பர் போல்
+    th: ซูเปอร์โบวล์
+    tr: Super Bowl
+    ug: ئالامەت چۆچەك (زەيتۇن توپ چىمپىيونلۇق مۇسابىقىسى)
+    uk: Супербоул
+    vi: Super Bowl
+    wuu: 超级碗
+    yue: 超級碗
+    zh: 超級碗(超級盃)
+    zh-hant: 超級盃
+    zh-tw: 超級盃
 ---
-
 # [[Super_Bowl]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Super_Bowl,32096|WD~Super_Bowl,32096]]  

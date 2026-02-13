@@ -1,25 +1,126 @@
 ---
 aliases:
-  - Zero-Sum Game
+- cluiche nialasach
+- gioco a somma zero
+- gra o sumie stałej
+- hra s nulovým součtem
+- hra s nulovým súčtom
+- igra z ničelno vsoto
+- jeu à somme nulle
+- joc cu sumă zero
+- joc de suma nul·la
+- juego de suma cero
+- kahanan pralina-utpti
+- Nollasummapeli
+- nollsummespel
+- nul-suma ludo
+- Nullsummamäng
+- Nullsummenspeel
+- Nullsummenspiel
+- nullsumspill
+- nulsomspel
+- Nulta suma
+- núllsummuleikur
+- permainan jumlah nol
+- soma-zero
+- sıfır toplamlı oyun
+- trò chơi có tổng bằng không
+- xuegu de suma cero
+- Zero baturako joko
+- Zero-Sum Game
+- Παιχνίδι μηδενικού αθροίσματος
+- ігри антагоністичні
+- антагонистическая игра
+- Бозии ҷамъи сифр
+- Игра с нулев резултат
+- игра са нултом сумом
+- Нулта сума
+- нөлдік суммасымен ойын
+- משחק סכום אפס
+- بازی مجموع-صفر
+- صفر حاصل جمع
+- لوعبة ب زيرو-طوطال
+- مجموع صفري
+- शून्य-संचय खेल
+- เกมที่ต้องมีแพ้-ชนะ
+- ゼロ和ゲーム
+- 零和博弈
+- 제로섬 게임
 has_id_wikidata: Q156612
-uses: "[[_Standards/WikiData/WD~feedback,183635]]"
+uses: '[[_Standards/WikiData/WD~feedback,183635]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~identifier,853614]]"
-  - "[[_Standards/WikiData/WD~representation,2905654]]"
+- '[[_Standards/WikiData/WD~identifier,853614]]'
+- '[[_Standards/WikiData/WD~representation,2905654]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~minimax_theorem,913849]]"
-  - "[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]"
-  - "[[_Standards/WikiData/WD~non_cooperative_game,13422573]]"
-  - "[[_Standards/WikiData/WD~Nash_equilibrium,23389]]"
-  - "[[_Standards/WikiData/WD~Pareto_efficiency,36829]]"
-opposite_of: "[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-Dewey_Decimal_Classification: "519.3"
+- '[[_Standards/WikiData/WD~minimax_theorem,913849]]'
+- '[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]'
+- '[[_Standards/WikiData/WD~non_cooperative_game,13422573]]'
+- '[[_Standards/WikiData/WD~Nash_equilibrium,23389]]'
+- '[[_Standards/WikiData/WD~Pareto_efficiency,36829]]'
+opposite_of: '[[_Standards/WikiData/WD~non_zero_sum_game,4321717]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+Dewey_Decimal_Classification: 519.3
 Wolfram_Language_entity_code: Entity["Concept", "Zero-sumGame::b4d6w"]
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20zero-sum%20three-person%20game.png
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-zero-sum%20game.oga
+dv_has_:
+  name_:
+    ar: مجموع صفري
+    ary: لوعبة ب زيرو-طوطال
+    ast: xuegu de suma cero
+    ban: kahanan pralina-utpti
+    bg: Игра с нулев резултат
+    ca: joc de suma nul·la
+    cs: hra s nulovým součtem
+    de: Nullsummenspiel
+    el: Παιχνίδι μηδενικού αθροίσματος
+    en: zero-sum game
+    eo: nul-suma ludo
+    es: juego de suma cero
+    et: Nullsummamäng
+    eu: Zero baturako joko
+    fa: بازی مجموع-صفر
+    fi: Nollasummapeli
+    fr: jeu à somme nulle
+    ga: cluiche nialasach
+    gan: 零和博弈
+    he: משחק סכום אפס
+    hi: शून्य-संचय खेल
+    id: permainan jumlah nol
+    is: núllsummuleikur
+    it: gioco a somma zero
+    ja: ゼロ和ゲーム
+    kk: нөлдік суммасымен ойын
+    ko: 제로섬 게임
+    nb: nullsumspill
+    nds: Nullsummenspeel
+    nl: nulsomspel
+    pl: gra o sumie stałej
+    pt: soma-zero
+    ro: joc cu sumă zero
+    ru: антагонистическая игра
+    sk: hra s nulovým súčtom
+    sl: igra z ničelno vsoto
+    sr: игра са нултом сумом
+    sr-ec: Нулта сума
+    sr-el: Nulta suma
+    sv: nollsummespel
+    tg-cyrl: Бозии ҷамъи сифр
+    th: เกมที่ต้องมีแพ้-ชนะ
+    tr: sıfır toplamlı oyun
+    uk: ігри антагоністичні
+    ur: صفر حاصل جمع
+    vi: trò chơi có tổng bằng không
+    yue: 零和博弈
+    zh: 零和博弈
+    zh-cn: 零和博弈
+    zh-hans: 零和博弈
+    zh-hant: 零和博弈
+    zh-hk: 零和博弈
+    zh-my: 零和博弈
+    zh-sg: 零和博弈
+    zh-tw: 零和博弈
 ---
-
 # [[Zero-Sum_Game]] 
 
 #is_/same_as :: [[WD~Zero-Sum_Game,156612]] 

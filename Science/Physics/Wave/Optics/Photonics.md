@@ -1,8 +1,39 @@
 ---
 aliases:
-  - quantum optics
-  - Quantenoptik
-  - Photonics
+- fotoanika
+- fotonica
+- fotoniikka
+- fotonik
+- Fotonika
+- fotonikk
+- fotoniko
+- fotoonika
+- fotònica
+- fotónica
+- fotônica
+- Photonics
+- Photonik
+- photonique
+- quang tử học
+- Quantenoptik
+- quantum optics
+- φωτονική
+- фатоніка
+- фотоніка
+- фотоника
+- Ֆոտոնիկա
+- פוטוניקה
+- فوتونيات
+- فوتونیک
+- نوریات
+- ফোটোনিক্স
+- ஒளியணுவியல்
+- ఫొటొనిక్స్
+- โฟตอนิกส์
+- フォトニクス
+- 光子学
+- 光子學
+- 광자학
 has_id_wikidata: Q467054
 instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 part_of: '[[_Standards/WikiData/WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790]]'
@@ -11,18 +42,72 @@ subclass_of: '[[_Standards/WikiData/WD~physics,413]]'
 OmegaWiki_Defined_Meaning: 1113920
 Commons_category: Photonics
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Photonic%20Spectrum%20prototype%20being%20tested%20by%20Autumn%20Siegel.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Department%20of%20Energy%20-%20Science%20-%20408%20003%20008%20%2810314800126%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Working%20at%20an%20optical%20communications%20system%20testbed.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Photonic%20Spectrum%20prototype%20being%20tested%20by%20Autumn%20Siegel.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Department%20of%20Energy%20-%20Science%20-%20408%20003%20008%20%2810314800126%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Working%20at%20an%20optical%20communications%20system%20testbed.jpg
 Stack_Exchange_tag:
-  - https://physics.stackexchange.com/tags/photonics
-  - https://quantumcomputing.stackexchange.com/tags/photonics
+- https://physics.stackexchange.com/tags/photonics
+- https://quantumcomputing.stackexchange.com/tags/photonics
 MeSH_tree_code:
-  - H01.671.617
-  - J01.293.688
+- H01.671.617
+- J01.293.688
 GitHub_topic: photonics
+dv_has_:
+  name_:
+    ar: فوتونيات
+    ast: fotónica
+    az: Fotonika
+    be-tarask: фатоніка
+    bg: фотоника
+    bn: ফোটোনিক্স
+    ca: fotònica
+    cs: fotonika
+    da: fotonik
+    de: Photonik
+    el: φωτονική
+    en: photonics
+    eo: fotoniko
+    es: fotónica
+    et: fotoonika
+    eu: Fotonika
+    fa: فوتونیک
+    fi: fotoniikka
+    fr: photonique
+    fy: fotoanika
+    gl: fotónica
+    he: פוטוניקה
+    hy: Ֆոտոնիկա
+    id: fotonika
+    it: fotonica
+    ja: フォトニクス
+    ko: 광자학
+    lt: fotonika
+    mk: фотоника
+    ms: fotonik
+    nb: fotonikk
+    nl: fotonica
+    pap: fotonica
+    pl: fotonika
+    pt: fotónica
+    pt-br: fotônica
+    ru: фотоника
+    sl: fotonika
+    sr: фотоника
+    sv: fotonik
+    ta: ஒளியணுவியல்
+    te: ఫొటొనిక్స్
+    th: โฟตอนิกส์
+    tr: fotonik
+    tt: фотоника
+    uk: фотоніка
+    ur: نوریات
+    uz: Fotonika
+    vi: quang tử học
+    yue: 光子學
+    zh: 光子学
+    zh-hans: 光子学
+    zh-hant: 光子學
 ---
-
 # [[Photonics]] 
 
 #is_/same_as :: [[WD~Photonics,467054]] 

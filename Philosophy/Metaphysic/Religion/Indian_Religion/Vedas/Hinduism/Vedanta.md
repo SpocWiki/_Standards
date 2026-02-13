@@ -1,21 +1,131 @@
 ---
 aliases:
+- Falsafah Vedanta
+- Vedaanta
+- Vedanta
+- Vedanto
+- Vedānta
+- védanta
+- Védánta
+- Wedanta
+- Βεντάντα
+- Веданта
+- вэданта
+- Վեդանտա
+- ודאנטה
+- فيدانتا
+- ودانتا
+- ويدانيت
+- ویدانت
+- ویدانتا
+- उत्तर-मीमांसा
+- वेदांत
+- वेदान्त
+- वेदान्त दर्शन
+- বেদান্ত
+- ਵੇਦਾਂਤ
+- ବେଦାନ୍ତ
+- வேதாந்தம்
+- వేదాంతము
+- ವೇದಾಂತ
+- വേദാന്തം
+- ヴェーダーンタ学派
+- 吠檀多
+- 吠檀多派
+- 베단타 학파
 has_id_wikidata: Q2512051
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-facet_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 Colon_Classification: R65
 Commons_category: Vedanta
+dv_has_:
+  name_:
+    af: Vedanta
+    ar: فيدانتا
+    as: বেদান্ত
+    az: Vedanta
+    be: Веданта
+    be-tarask: вэданта
+    bg: Веданта
+    bho: वेदांत
+    bn: বেদান্ত
+    ca: vedanta
+    cs: Védánta
+    de: Vedanta
+    el: Βεντάντα
+    en: Vedanta
+    en-ca: Vedanta
+    en-gb: Vedanta
+    eo: Vedanto
+    es: Vedanta
+    et: Vedaanta
+    eu: Vedanta
+    fa: ودانتا
+    fi: Vedanta
+    fr: védanta
+    gl: Vedanta
+    he: ודאנטה
+    hi: वेदान्त दर्शन
+    hif: Vedanta
+    hu: védánta
+    hy: Վեդանտա
+    id: Wedanta
+    is: Vedanta
+    it: Vedānta
+    ja: ヴェーダーンタ学派
+    jv: Wedanta
+    kn: ವೇದಾಂತ
+    ko: 베단타 학파
+    ky: Веданта
+    la: Vedanta
+    lt: Vedanta
+    lv: Vedanta
+    mag: वेदान्त
+    mk: Веданта
+    ml: വേദാന്തം
+    mr: वेदांत
+    ms: Falsafah Vedanta
+    nb: Vedanta
+    ne: वेदान्त
+    new: वेदान्त
+    nl: Vedanta
+    or: ବେଦାନ୍ତ
+    pa: ਵੇਦਾਂਤ
+    pi: वेदान्त
+    pl: wedanta
+    pms: Vedanta
+    ps: ویدانتا
+    pt: Vedanta
+    pt-br: Vedanta
+    ru: Веданта
+    sa: उत्तर-मीमांसा
+    sco: Vedanta
+    sd: ويدانيت
+    sh: Vedanta
+    sr: Веданта
+    sv: Vedanta
+    ta: வேதாந்தம்
+    te: వేదాంతము
+    tg: Веданта
+    tr: Vedanta
+    tt: Веданта
+    uk: Веданта
+    ur: ویدانت
+    uz: Vedanta
+    vi: Vedanta
+    wuu: 吠檀多
+    yue: 吠檀多派
+    zh: 吠檀多
 ---
-
 # [[Vedanta]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Vedanta,2512051|WD~Vedanta,2512051]]  

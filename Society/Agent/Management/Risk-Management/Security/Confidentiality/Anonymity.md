@@ -1,29 +1,137 @@
 ---
 aliases:
-  - Anonymität
-  - anonym
-  - anonymous
+- Anonim
+- anonimat
+- anonimato
+- Anonimatu
+- anonimeco
+- Anonimeso
+- anonimitas
+- anonimitate
+- anonimiteit
+- Anonimiteti
+- anonimitás
+- Anonimlik
+- anonimnost
+- anonimowość
+- anonym
+- anonymat
+- anonymita
+- anonymitehta
+- anonymitet
+- anonymiteʹtt
+- anonymity
+- Anonymität
+- anonymous
+- anonyymius
+- anonüümsus
+- Bû-bêng
+- Keawanamaan
+- neamhainmníocht
+- ανωνυμία
+- ананімнасць
+- ананімнасьць
+- Анонім
+- Аноним
+- анонимност
+- анонимность
+- Անանուն
+- אנאנימיטעט
+- אנונימיות
+- مجهول
+- ناشناسی
+- گمنام
+- अनामत्व
+- নামহীনতা
+- ಅಜ್ಞಾತ ನಾಮಕತ್ವ
+- 匿名
+- 익명
 has_id_wikidata: Q308859
 has_goal:
-  - "[[_Standards/WikiData/WD~privacy,188728]]"
-  - "[[_Standards/WikiData/WD~safety,10566551]]"
+- '[[_Standards/WikiData/WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~safety,10566551]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~privacy,188728]]"
-  - "[[_Standards/WikiData/WD~confidentiality,2476929]]"
-  - "[[_Standards/WikiData/WD~pseudonymity,7255188]]"
-characteristic_of: "[[_Standards/WikiData/WD~person,215627]]"
-has_characteristic: "[[_Standards/WikiData/WD~secrecy,1503443]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Anonymity,8254929]]"
-opposite_of: "[[_Standards/WikiData/WD~autonym,12526769]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~relative_quality,100195948]]"
-OmegaWiki_Defined_Meaning: "431058"
+- '[[_Standards/WikiData/WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~confidentiality,2476929]]'
+- '[[_Standards/WikiData/WD~pseudonymity,7255188]]'
+characteristic_of: '[[_Standards/WikiData/WD~person,215627]]'
+has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anonymity,8254929]]'
+opposite_of: '[[_Standards/WikiData/WD~autonym,12526769]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~relative_quality,100195948]]'
+OmegaWiki_Defined_Meaning: 431058
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20at%20Scientology%20in%20Los%20Angeles.jpg
 GitHub_topic: anonymity
 Commons_category: Anonymity
-Dewey_Decimal_Classification: "323.448"
+Dewey_Decimal_Classification: 323.448
+dv_has_:
+  name_:
+    ar: مجهول
+    az: Anonim
+    be: ананімнасць
+    be-tarask: ананімнасьць
+    bn: নামহীনতা
+    ca: anonimat
+    cs: anonymita
+    da: anonymitet
+    de: Anonymität
+    el: ανωνυμία
+    en: anonymity
+    en-ca: anonymity
+    en-gb: anonymity
+    eo: anonimeco
+    es: anonimato
+    et: anonüümsus
+    eu: Anonimatu
+    fa: ناشناسی
+    fi: anonyymius
+    fr: anonymat
+    ga: neamhainmníocht
+    he: אנונימיות
+    hi: अनामत्व
+    hu: anonimitás
+    hy: Անանուն
+    id: anonimitas
+    io: Anonimeso
+    it: anonimato
+    ja: 匿名
+    kn: ಅಜ್ಞಾತ ನಾಮಕತ್ವ
+    ko: 익명
+    ky: Аноним
+    mk: анонимност
+    ms: Keawanamaan
+    nan: Bû-bêng
+    nb: anonymitet
+    nl: anonimiteit
+    nn: Anonym
+    pl: anonimowość
+    pt: anonimato
+    pt-br: Anonimato
+    ro: anonimitate
+    ru: анонимность
+    sd: گمنام
+    se: anonymitehta
+    sk: Anonym
+    sl: anonimnost
+    sms: anonymiteʹtt
+    sq: Anonimiteti
+    sr: анонимност
+    sr-ec: анонимност
+    sr-el: anonimnost
+    su: Anonim
+    sv: anonymitet
+    uk: Анонім
+    uz: Anonimlik
+    yi: אנאנימיטעט
+    zh: 匿名
+    zh-cn: 匿名
+    zh-hans: 匿名
+    zh-hant: 匿名
+    zh-hk: 匿名
+    zh-sg: 匿名
+    zh-tw: 匿名
 ---
-
 # [[Anonymity]] 
 
 #is_/better_than :: [[Pseudonymity]] 

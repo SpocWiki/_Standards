@@ -1,20 +1,116 @@
 ---
 aliases:
-  - Computability theory
-  - recursion theory
-  - Computability_Theory
-  - Computability Theory
+- Berechenbarkeitstheorie
+- Beregnelighed
+- Berekenbaarheidsteorie
+- berekenbaarheidstheorie
+- beräkningsbarhet
+- Computability theory
+- Computability_Theory
+- Hesablama nəzəriyyəsi
+- Hesap kuramı
+- Konputagarritasunaren teoria
+- laskettavuusteoria
+- Lý thuyết tính toán
+- recursion theory
+- teoiric na hináiritheachta
+- teoria calculabilității
+- teoria da computabilidade
+- teoria de la computabilitat
+- teoria della calcolabilità
+- teoria obliczalności
+- teorie vyčíslitelnosti
+- teorija izračunljivosti
+- Teorija izračunljivosti (računarstvo)
+- teorio de komputeblo
+- Teorio di komputebleso
+- Teorya ng komputabilidad
+- Teoría da computabilidade
+- Teoría de la computabilidad
+- Teória vypočítateľnosti
+- theoria facultatis calculandi
+- théorie de la calculabilité
+- θεωρία αναδρομής
+- Изчислителна теория
+- теорія обчислюваності
+- теорија израчунљивости
+- теорија на пресметливоста
+- теория вычислимости
+- тэорыя вылічальнасьці
+- Шутланаяслăх теорийĕ
+- תורת הרקורסיה
+- نظرية الحاسوبية
+- نظریه رایانشپذیری
+- কম্পিউটেবিলিটি থিয়ৰী
+- গণনীয়তা তত্ত্ব (কম্পিউটার বিজ্ঞান)
+- ทฤษฎีการคำนวณได้
+- တွက်ချက်နိုင်စွမ်းသီအိုရီ
+- 可计算性理论
+- 可運算性理論
+- 計算可能性理論
+- 계산 가능성 이론
 has_id_wikidata: Q818930
 subclass_of:
-  - '[[_Standards/WikiData/WD~theory_of_computation,844718]]'
-  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-  - '[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]'
+- '[[_Standards/WikiData/WD~theory_of_computation,844718]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~theoretical_computer_science,2878974]]'
 part_of:
-  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-  - '[[_Standards/WikiData/WD~theory_of_mathematical_algorithms,114682730]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~theory_of_mathematical_algorithms,114682730]]'
 Commons_category: Computer science
+dv_has_:
+  name_:
+    af: Berekenbaarheidsteorie
+    ar: نظرية الحاسوبية
+    as: কম্পিউটেবিলিটি থিয়ৰী
+    ast: Teoría de la computabilidad
+    az: Hesablama nəzəriyyəsi
+    be-tarask: тэорыя вылічальнасьці
+    bg: Изчислителна теория
+    bn: গণনীয়তা তত্ত্ব (কম্পিউটার বিজ্ঞান)
+    ca: teoria de la computabilitat
+    cs: teorie vyčíslitelnosti
+    cv: Шутланаяслăх теорийĕ
+    da: Beregnelighed
+    de: Berechenbarkeitstheorie
+    el: θεωρία αναδρομής
+    en: computability theory
+    eo: teorio de komputeblo
+    es: teoría de la computabilidad
+    eu: Konputagarritasunaren teoria
+    fa: نظریه رایانشپذیری
+    fi: laskettavuusteoria
+    fr: théorie de la calculabilité
+    ga: teoiric na hináiritheachta
+    gl: Teoría da computabilidade
+    he: תורת הרקורסיה
+    hr: Teorija izračunljivosti (računarstvo)
+    io: Teorio di komputebleso
+    it: teoria della calcolabilità
+    ja: 計算可能性理論
+    ko: 계산 가능성 이론
+    la: theoria facultatis calculandi
+    mk: теорија на пресметливоста
+    my: တွက်ချက်နိုင်စွမ်းသီအိုရီ
+    nl: berekenbaarheidstheorie
+    pl: teoria obliczalności
+    pt: teoria da computabilidade
+    pt-br: teoria da computabilidade
+    ro: teoria calculabilității
+    ru: теория вычислимости
+    sh: Teorija izračunljivosti (računarstvo)
+    sk: Teória vypočítateľnosti
+    sl: teorija izračunljivosti
+    sr: теорија израчунљивости
+    sv: beräkningsbarhet
+    th: ทฤษฎีการคำนวณได้
+    tl: Teorya ng komputabilidad
+    tr: Hesap kuramı
+    uk: теорія обчислюваності
+    vi: Lý thuyết tính toán
+    yue: 可運算性理論
+    zh: 可计算性理论
 ---
-
 # [[Computability_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Computability_theory,818930|WD~Computability_theory,818930]] 

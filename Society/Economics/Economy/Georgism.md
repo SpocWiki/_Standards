@@ -1,21 +1,93 @@
 ---
 aliases:
-  - Geoism
-  - single tax movement
-  - Georgism
+- ceorgismus
+- Chủ nghĩa George
+- Corcizm
+- džordžisms
+- džordžizmas
+- Geoism
+- geoizmus
+- Georgeg
+- Georgism
+- georgisme
+- georgismi
+- georgismo
+- Georgismus
+- georgizam
+- georgizem
+- Georgizm
+- georgizmus
+- geoïsme
+- single tax movement
+- zeorzismo
+- Γεωργισμός
+- Джорджизм
+- Джорджизъм
+- ג'ורג'יזם
+- جرجیسم
+- جورجية
+- جورجية (إيديولوجيا)
+- ジョージズム
+- 乔治主义
+- 지공주의
 has_id_wikidata: Q679595
 named_after: '[[../../../WikiData/WD~Henry_George,355245]]'
 part_of: '[[_Standards/WikiData/WD~heterodox_economics,1582475]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Everybody%20works%20but%20the%20vacant%20lot%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/FREE%20TRADE%20FREE%20LAND%20FREE%20MEN%20%28Georgist%20campaign%20button%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Everybody%20works%20but%20the%20vacant%20lot%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/FREE%20TRADE%20FREE%20LAND%20FREE%20MEN%20%28Georgist%20campaign%20button%29.svg
 subreddit: georgism
+dv_has_:
+  name_:
+    ar: جورجية
+    ary: جورجية (إيديولوجيا)
+    az: Corcizm
+    bg: Джорджизъм
+    ca: georgisme
+    cs: ceorgismus
+    cy: Georgeg
+    da: georgisme
+    de: Georgismus
+    el: Γεωργισμός
+    en: Georgism
+    eo: georgismo
+    es: georgismo
+    et: georgism
+    eu: georgismo
+    fa: جرجیسم
+    fi: georgismi
+    fr: georgisme
+    he: ג'ורג'יזם
+    hr: georgizam
+    hu: geoizmus
+    id: Georgisme
+    io: Georgismo
+    it: georgismo
+    ja: ジョージズム
+    ko: 지공주의
+    lt: džordžizmas
+    lv: džordžisms
+    nb: georgisme
+    nl: geoïsme
+    nn: georgisme
+    pl: georgizm
+    pt: georgismo
+    pt-br: georgismo
+    ro: georgism
+    ru: Джорджизм
+    sk: georgizmus
+    sl: georgizem
+    sv: georgism
+    tr: Georgizm
+    uk: Джорджизм
+    vec: zeorzismo
+    vi: Chủ nghĩa George
+    zh: 乔治主义
 ---
-
 # [[Georgism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Georgism,679595]] 

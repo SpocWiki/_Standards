@@ -1,103 +1,152 @@
 ---
 aliases:
-  - The_Sound_of_Music
+- A muzsika hangja
+- A Noviça Rebelde
+- Dźwięki muzyki
+- Filem The Sound of Music
+- Giai điệu hạnh phúc
+- Helisev muusika
+- La Mélodie du bonheur
+- Meine Lieder – meine Träume
+- Moje pesmi, moje sanje
+- Moje pjesme, moji snovi
+- Musiqi sədaları
+- Muzikos garsai
+- Música no Coração
+- Mūzikas skaņas
+- Neşeli Günler
+- Somriures i llàgrimes
+- Sonrisas y Lágrimas
+- Sorrisos e lágrimas
+- Sound of Music
+- Sunetul muzicii
+- The Sound of Music
+- The_Sound_of_Music
+- Tutti insieme appassionatamente
+- Za zvuků hudby
+- Η Μελωδία της Ευτυχίας
+- Гукі музыкі
+- Звуки музики
+- Звуки музыки
+- Звукът на музиката
+- Моје песме
+- Мои песни, мои сништа
+- Երաժշտության հնչյունները
+- צלילי המוסיקה
+- اشکها و لبخندها
+- صوت الموسيقى
+- مۇزىكا ساداسى
+- द साउंड ऑफ म्युझिक
+- দ্য সাউন্ড অব মিউজিক
+- த சவுண்ட் ஆப் மியூசிக்
+- ది సౌండ్ ఆఫ్ మ్యూజిక్
+- ദ സൗണ്ട് ഓഫ് മ്യൂസിക്
+- มนต์รักเพลงสวรรค์
+- მუსიკის ჰანგები
+- サウンド・オブ・ミュージック
+- 仙樂飄飄處處聞
+- 真善美
+- 音乐之声
+- 音乐之声 (电影)
+- 音樂之聲
+- 사운드 오브 뮤직
 has_id_wikidata: Q60072
 after_a_work_by:
-  - "[[_Standards/WikiData/WD~Maria_von_Trapp,93624]]"
-  - "[[_Standards/WikiData/WD~Howard_Lindsay,1374517]]"
-  - "[[_Standards/WikiData/WD~Russel_Crouse,1382872]]"
+- '[[_Standards/WikiData/WD~Maria_von_Trapp,93624]]'
+- '[[_Standards/WikiData/WD~Howard_Lindsay,1374517]]'
+- '[[_Standards/WikiData/WD~Russel_Crouse,1382872]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Costume_Design,_Color,22120066]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Costume_Design,_Color,22120066]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~biographical_film,645928]]"
-  - "[[_Standards/WikiData/WD~musical_film,842256]]"
-  - "[[_Standards/WikiData/WD~romance_film,1054574]]"
-  - "[[_Standards/WikiData/WD~film_based_on_book,52207310]]"
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~biographical_film,645928]]'
+- '[[_Standards/WikiData/WD~musical_film,842256]]'
+- '[[_Standards/WikiData/WD~romance_film,1054574]]'
+- '[[_Standards/WikiData/WD~film_based_on_book,52207310]]'
 cast_member:
-  - "[[_Standards/WikiData/WD~Julie_Andrews,161819]]"
-  - "[[_Standards/WikiData/WD~Christopher_Plummer,190523]]"
-  - "[[_Standards/WikiData/WD~Eleanor_Parker,237399]]"
-  - "[[_Standards/WikiData/WD~Peggy_Wood,266445]]"
-  - "[[_Standards/WikiData/WD~Nicholas_Hammond,266520]]"
-  - "[[_Standards/WikiData/WD~Angela_Cartwright,441899]]"
-  - "[[_Standards/WikiData/WD~Anna_Lee,460474]]"
-  - "[[_Standards/WikiData/WD~Heather_Menzies,462368]]"
-  - "[[_Standards/WikiData/WD~Norma_Varden,524325]]"
-  - "[[_Standards/WikiData/WD~Debbie_Turner,654421]]"
-  - "[[_Standards/WikiData/WD~Bill_Lee,862263]]"
-  - "[[_Standards/WikiData/WD~Richard_Haydn,1355379]]"
-  - "[[_Standards/WikiData/WD~Kym_Karath,1967262]]"
-  - "[[_Standards/WikiData/WD~Gertrude_Astor,2004176]]"
-  - "[[_Standards/WikiData/WD~Charmian_Carr,2312387]]"
-  - "[[_Standards/WikiData/WD~Duane_Chase,2745375]]"
-  - "[[_Standards/WikiData/WD~Ben_Wright,2895601]]"
-  - "[[_Standards/WikiData/WD~Bill_Lee,2903270]]"
-  - "[[_Standards/WikiData/WD~Doris_Lloyd,3037066]]"
-  - "[[_Standards/WikiData/WD~Marni_Nixon,3087644]]"
-  - "[[_Standards/WikiData/WD~Portia_Nelson,3399288]]"
-composer: "[[_Standards/WikiData/WD~Richard_Rodgers,269094]]"
+- '[[_Standards/WikiData/WD~Julie_Andrews,161819]]'
+- '[[_Standards/WikiData/WD~Christopher_Plummer,190523]]'
+- '[[_Standards/WikiData/WD~Eleanor_Parker,237399]]'
+- '[[_Standards/WikiData/WD~Peggy_Wood,266445]]'
+- '[[_Standards/WikiData/WD~Nicholas_Hammond,266520]]'
+- '[[_Standards/WikiData/WD~Angela_Cartwright,441899]]'
+- '[[_Standards/WikiData/WD~Anna_Lee,460474]]'
+- '[[_Standards/WikiData/WD~Heather_Menzies,462368]]'
+- '[[_Standards/WikiData/WD~Norma_Varden,524325]]'
+- '[[_Standards/WikiData/WD~Debbie_Turner,654421]]'
+- '[[_Standards/WikiData/WD~Bill_Lee,862263]]'
+- '[[_Standards/WikiData/WD~Richard_Haydn,1355379]]'
+- '[[_Standards/WikiData/WD~Kym_Karath,1967262]]'
+- '[[_Standards/WikiData/WD~Gertrude_Astor,2004176]]'
+- '[[_Standards/WikiData/WD~Charmian_Carr,2312387]]'
+- '[[_Standards/WikiData/WD~Duane_Chase,2745375]]'
+- '[[_Standards/WikiData/WD~Ben_Wright,2895601]]'
+- '[[_Standards/WikiData/WD~Bill_Lee,2903270]]'
+- '[[_Standards/WikiData/WD~Doris_Lloyd,3037066]]'
+- '[[_Standards/WikiData/WD~Marni_Nixon,3087644]]'
+- '[[_Standards/WikiData/WD~Portia_Nelson,3399288]]'
+composer: '[[_Standards/WikiData/WD~Richard_Rodgers,269094]]'
 distributed_by:
-  - "[[_Standards/WikiData/WD~20th_Century_Studios,434841]]"
-  - "[[_Standards/WikiData/WD~Walt_Disney_Studios_Motion_Pictures,1323594]]"
-production_company: "[[_Standards/WikiData/WD~20th_Century_Studios,434841]]"
-costume_designer: "[[_Standards/WikiData/WD~Dorothy_Jeakins,436530]]"
-distribution_format: "[[_Standards/WikiData/WD~video_on_demand,723685]]"
-part_of: "[[_Standards/WikiData/WD~National_Film_Registry,823422]]"
-film_editor: "[[_Standards/WikiData/WD~William_H._Reynolds,920439]]"
+- '[[_Standards/WikiData/WD~20th_Century_Studios,434841]]'
+- '[[_Standards/WikiData/WD~Walt_Disney_Studios_Motion_Pictures,1323594]]'
+production_company: '[[_Standards/WikiData/WD~20th_Century_Studios,434841]]'
+costume_designer: '[[_Standards/WikiData/WD~Dorothy_Jeakins,436530]]'
+distribution_format: '[[_Standards/WikiData/WD~video_on_demand,723685]]'
+part_of: '[[_Standards/WikiData/WD~National_Film_Registry,823422]]'
+film_editor: '[[_Standards/WikiData/WD~William_H._Reynolds,920439]]'
 based_on:
-  - "[[_Standards/WikiData/WD~The_Sound_of_Music,1022513]]"
-  - "[[_Standards/WikiData/WD~The_Story_of_the_Trapp_Family_Singers,3822255]]"
-screenwriter: "[[_Standards/WikiData/WD~Ernest_Lehman,1356427]]"
-director_of_photography: "[[_Standards/WikiData/WD~Ted_McCord,2399809]]"
+- '[[_Standards/WikiData/WD~The_Sound_of_Music,1022513]]'
+- '[[_Standards/WikiData/WD~The_Story_of_the_Trapp_Family_Singers,3822255]]'
+screenwriter: '[[_Standards/WikiData/WD~Ernest_Lehman,1356427]]'
+director_of_photography: '[[_Standards/WikiData/WD~Ted_McCord,2399809]]'
 assessment:
-  - "[[_Standards/WikiData/WD~Bechdel_test,4165246]]"
-  - "[[_Standards/WikiData/WD~Mako_Mori_test,85783379]]"
-set_in_environment: "[[_Standards/WikiData/WD~country_house,16884952]]"
-FSK_film_rating: "[[_Standards/WikiData/WD~FSK_6,20644795]]"
-color: "[[_Standards/WikiData/WD~color,22006653]]"
-Kijkwijzer_rating: "[[_Standards/WikiData/WD~AL,23649980]]"
-EIRIN_film_rating: "[[_Standards/WikiData/WD~G,23790275]]"
-CNC_film_rating_France_: "[[_Standards/WikiData/WD~no_age_restriction,23817729]]"
-Filmiroda_rating: "[[_Standards/WikiData/WD~Category_II,23830577]]"
-MTRCB_rating: "[[_Standards/WikiData/WD~G,102108194]]"
-described_by_source: "[[_Standards/WikiData/WD~The_200_films_to_see_before_you_almost_grow_up,117078387]]"
-takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~The_Sound_of_Music_universe,124220480]]"
+- '[[_Standards/WikiData/WD~Bechdel_test,4165246]]'
+- '[[_Standards/WikiData/WD~Mako_Mori_test,85783379]]'
+set_in_environment: '[[_Standards/WikiData/WD~country_house,16884952]]'
+FSK_film_rating: '[[_Standards/WikiData/WD~FSK_6,20644795]]'
+color: '[[_Standards/WikiData/WD~color,22006653]]'
+Kijkwijzer_rating: '[[_Standards/WikiData/WD~AL,23649980]]'
+EIRIN_film_rating: '[[_Standards/WikiData/WD~G,23790275]]'
+CNC_film_rating_France_: '[[_Standards/WikiData/WD~no_age_restriction,23817729]]'
+Filmiroda_rating: '[[_Standards/WikiData/WD~Category_II,23830577]]'
+MTRCB_rating: '[[_Standards/WikiData/WD~G,102108194]]'
+described_by_source: '[[_Standards/WikiData/WD~The_200_films_to_see_before_you_almost_grow_up,117078387]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~The_Sound_of_Music_universe,124220480]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~music,638]]"
-  - "[[_Standards/WikiData/WD~Alps,1286]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~film,11424]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_location: "[[_Standards/WikiData/WD~Austria,40]]"
+- '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~Alps,1286]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~film,11424]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+filming_location: '[[_Standards/WikiData/WD~Austria,40]]'
 narrative_location:
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Salzburg,34713]]"
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Salzburg,34713]]'
 duration: 174
-producer: "[[_Standards/WikiData/WD~Robert_Wise,59821]]"
-director: "[[_Standards/WikiData/WD~Robert_Wise,59821]]"
+producer: '[[_Standards/WikiData/WD~Robert_Wise,59821]]'
+director: '[[_Standards/WikiData/WD~Robert_Wise,59821]]'
 title: The Sound of Music
-exploitation_mark_number: "31036"
+exploitation_mark_number: 31036
 review_score:
-  - 83%
-  - 8.1/10
-  - 63/100
+- 83%
+- 8.1/10
+- 63/100
 publication_date: 1965-03-02T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sound%20of%20Music%20Christopher%20Plummer%20and%20Julie%20Andrews.jpg
 ISAN: 0000-0000-FF1E-0000-F-0000-0000-T
@@ -105,8 +154,79 @@ Plex_media_key: 5d77683d85719b001f3a5288
 Amazon_Standard_Identification_Number: B0044XRIMW
 Wolfram_Language_entity_code: Entity["Movie", "TheSoundOfMusic::j8wtp"]
 Commons_category: The Sound of Music (film)
+dv_has_:
+  name_:
+    ar: صوت الموسيقى
+    arz: صوت الموسيقى
+    ast: The Sound of Music
+    az: Musiqi sədaları
+    be-tarask: Гукі музыкі
+    bg: Звукът на музиката
+    bn: দ্য সাউন্ড অব মিউজিক
+    bs: Moje pjesme, moji snovi
+    ca: Somriures i llàgrimes
+    cs: Za zvuků hudby
+    cy: The Sound of Music
+    da: The Sound of Music
+    de: Meine Lieder – meine Träume
+    el: Η Μελωδία της Ευτυχίας
+    en: The Sound of Music
+    eo: The Sound of Music
+    es: Sonrisas y Lágrimas
+    et: Helisev muusika
+    eu: The sound of music
+    fa: اشکها و لبخندها
+    fi: Sound of Music
+    fr: La Mélodie du bonheur
+    ga: The Sound of Music
+    gl: Sorrisos e lágrimas
+    he: צלילי המוסיקה
+    hr: Moje pjesme, moji snovi
+    hu: A muzsika hangja
+    hy: Երաժշտության հնչյունները
+    id: The Sound of Music
+    ilo: The Sound of Music
+    it: Tutti insieme appassionatamente
+    ja: サウンド・オブ・ミュージック
+    ka: მუსიკის ჰანგები
+    ko: 사운드 오브 뮤직
+    la: The Sound of Music
+    lb: The Sound of Music
+    lt: Muzikos garsai
+    lv: Mūzikas skaņas
+    mk: Мои песни, мои сништа
+    ml: ദ സൗണ്ട് ഓഫ് മ്യൂസിക്
+    mr: द साउंड ऑफ म्युझिक
+    ms: Filem The Sound of Music
+    nan: The Sound of Music
+    nb: Sound of Music
+    nl: The Sound of Music
+    nn: Sound of Music
+    pl: Dźwięki muzyki
+    pt: Música no Coração
+    pt-br: A Noviça Rebelde
+    ro: Sunetul muzicii
+    ru: Звуки музыки
+    sh: The Sound of Music
+    sl: Moje pesmi, moje sanje
+    sr: Моје песме
+    sv: Sound of Music
+    ta: த சவுண்ட் ஆப் மியூசிக்
+    te: ది సౌండ్ ఆఫ్ మ్యూజిక్
+    th: มนต์รักเพลงสวรรค์
+    tr: Neşeli Günler
+    ug: مۇزىكا ساداسى
+    uk: Звуки музики
+    vi: Giai điệu hạnh phúc
+    war: The Sound of Music
+    wuu: 音乐之声 (电影)
+    yue: 仙樂飄飄處處聞
+    zh: 音樂之聲
+    zh-cn: 音乐之声
+    zh-hant: 真善美
+    zh-hk: 仙樂飄飄處處聞
+    zh-tw: 真善美
 ---
-
 # [[Sound_of_Music(Film)]] 
 
 #is_/same_as :: [[WD~The_Sound_of_Music,60072]] 

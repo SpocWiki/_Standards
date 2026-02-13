@@ -1,10 +1,66 @@
 ---
 aliases:
-  - Billy Corgan
-  - William Patrick Corgan Jr.
-  - William Patrick Corgan
-  - Corgan,Billy
+- Billy Corgan
+- Corgan,Billy
+- William Patrick Corgan
+- William Patrick Corgan Jr.
+- Біллі Корган
+- Били Корган
+- Билли Корган
+- בילי קורגן
+- بيلى كورجان
+- بیلی کورقن
+- بیلی کورگن
+- ბილი კორგენი
+- ビリー・コーガン
+- 比利·寇根
+- 빌리 코건
 has_id_wikidata: Q311382
+dv_has_:
+  name_:
+    arz: بيلى كورجان
+    ast: Billy Corgan
+    azb: بیلی کورقن
+    ca: Billy Corgan
+    cs: Billy Corgan
+    cy: Billy Corgan
+    da: Billy Corgan
+    dag: Billy Corgan
+    de: Billy Corgan
+    en: Billy Corgan
+    en-ca: Billy Corgan
+    en-gb: Billy Corgan
+    es: Billy Corgan
+    fa: بیلی کورگن
+    fi: Billy Corgan
+    fr: Billy Corgan
+    ga: Billy Corgan
+    gl: Billy Corgan
+    ha: Billy Corgan
+    he: בילי קורגן
+    hu: Billy Corgan
+    id: Billy Corgan
+    it: Billy Corgan
+    ja: ビリー・コーガン
+    ka: ბილი კორგენი
+    ko: 빌리 코건
+    mul: Billy Corgan
+    nb: Billy Corgan
+    nl: Billy Corgan
+    nn: Billy Corgan
+    pap: Billy Corgan
+    pl: Billy Corgan
+    pt: Billy Corgan
+    pt-br: Billy Corgan
+    ru: Билли Корган
+    sk: Billy Corgan
+    sl: Billy Corgan
+    sq: Billy Corgan
+    sr: Били Корган
+    sv: Billy Corgan
+    tr: Billy Corgan
+    uk: Біллі Корган
+    zh: 比利·寇根
 ---
 #has_/time_/started :: 1967-03-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

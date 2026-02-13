@@ -1,12 +1,117 @@
 ---
 aliases:
-  - Frog
-  - True Frog
-  - True Frogs
-  - Ranidae
-  - Ranid
-  - ekte frosker
-  - prave žabe
+- aitosammakot
+- Anura
+- Anuro
+- Arikic
+- Bangkong
+- Baqa
+- Beq
+- Bretkosa
+- Broască
+- Bộ Không đuôi
+- Chura
+- Chúi-ke
+- Chʼał
+- Crot
+- Datya
+- Echte Frösche
+- echte kikkers
+- Echte kwakkers
+- ekte frosker
+- Frog
+- Frosch
+- Froskaætt
+- Frøer
+- Halelause padder
+- Hobelfasker
+- K'ayra
+- Katak
+- kikvors
+- Kodhok
+- kodok dan katak
+- Konlased
+- Krapo
+- Kuyruksuz kurbağalar
+- Kúai-é
+- Kọ̀nkọ̀
+- Llyffant
+- Marajòttole
+- Medhak
+- Pakla
+- Palaka
+- Ph́id
+- prave žabe
+- Puut
+- Puut'n
+- Rainne
+- Rana
+- Ranid
+- Ranidae
+- Rannag
+- Raînotte
+- Rinne
+- Rànid
+- Segwagwa
+- skokanovití
+- True Frog
+- True Frogs
+- valódi békafélék
+- Varlie
+- Varlės
+- varžu dzimta
+- Xaronca
+- Äkta grodor
+- żabowate
+- Žaba
+- Žabe
+- Əsl qurbağalar
+- Βάτραχος
+- φορφάκα
+- Бакалар
+- Баҕа
+- Ватракш
+- вистински жаби
+- водни жаби
+- жаб'ячі
+- Жаба
+- жабе
+- звычайныя жабы
+- Меклә
+- Мэлхий
+- настоящие лягушки
+- Тәлмәрйендәр
+- Чăн шапасем
+- Қурбоққа
+- Құйрықсыз қосмекенділер
+- գորտեր
+- זשאבע
+- צפרדעיים
+- رښتياني چونگښې
+- شوبوک
+- ضفادع حقيقية
+- ضفادع حقيقيه
+- قورباغههای اصلی
+- مینڈک
+- وک
+- ڈڈو
+- बेडूक
+- भ्यागुतो
+- मेंढक
+- ব্যাঙ
+- தவளை
+- కప్ప
+- തവള
+- วงศ์กบนา
+- ဖား
+- ბაყაყისებრნი
+- ᏩᎶᏏ
+- ᓈᕌᔩᖅ
+- アカガエル科
+- 田鸡
+- 蛙科
+- 蝦蟆
+- 개구리목
 has_id_wikidata: Q6408
 title: Ranidae
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9095885,9095885]]'
@@ -16,19 +121,159 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 1570
 ITIS_TSN: 173433
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaRidibundaFemale.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hylarana%20Wynaad.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaTemporaria.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/RanaRidibundaFemale.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hylarana%20Wynaad.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/RanaTemporaria.jpg
 Commons_category: Ranidae
 taxon_name: Ranidae
 EPPO_Code: 1RANSF
 MeSH_tree_code: B01.050.150.900.090.180.708
 NBN_System_Key: NHMSYS0000375314
 taxon_common_name:
-  - ekte frosker
-  - prave žabe
+- ekte frosker
+- prave žabe
+dv_has_:
+  name_:
+    an: Ranidae
+    ar: ضفادع حقيقية
+    arz: ضفادع حقيقيه
+    ast: Xaronca
+    atj: Arikic
+    ay: K'ayra
+    az: Əsl qurbağalar
+    ba: Тәлмәрйендәр
+    be: звычайныя жабы
+    be-tarask: звычайныя жабы
+    bg: водни жаби
+    bn: ব্যাঙ
+    br: Anura
+    bs: Žaba
+    ca: Rànid
+    ce: Ph́id
+    ceb: Ranidae
+    chr: ᏩᎶᏏ
+    cs: skokanovití
+    csb: Żabowate
+    cv: Чăн шапасем
+    cy: Llyffant
+    da: Frøer
+    de: Echte Frösche
+    de-ch: Echte Frösche
+    el: Βάτραχος
+    en: Ranidae
+    en-ca: True frog
+    en-gb: True frog
+    eo: Anuro
+    es: Ranidae
+    et: Konlased
+    eu: Anura
+    ext: Ranidae
+    fa: قورباغههای اصلی
+    fi: aitosammakot
+    fr: Ranidae
+    frr: Hobelfasker
+    ga: Frog
+    gan: 蝦蟆
+    gl: Anuro
+    glk: شوبوک
+    gv: Rannag
+    hak: Kúai-é
+    he: צפרדעיים
+    hi: मेंढक
+    hif: Medhak
+    hr: Žabe
+    ht: Krapo
+    hu: valódi békafélék
+    hy: գորտեր
+    hyw: Գորտեր
+    ia: Ranidae
+    id: kodok dan katak
+    ie: Ranidae
+    io: Ranidae
+    is: Froskaætt
+    it: Ranidae
+    iu: ᓈᕌᔩᖅ
+    ja: アカガエル科
+    jv: Kodhok
+    ka: ბაყაყისებრნი
+    kk: Құйрықсыз қосмекенділер
+    ko: 개구리목
+    ku: Beq
+    la: Ranidae
+    li: Echte kwakkers
+    lld: Crot
+    lt: Varlės
+    lv: varžu dzimta
+    mdf: Ватракш
+    mk: вистински жаби
+    ml: തവള
+    mn: Мэлхий
+    mr: बेडूक
+    ms: Katak
+    mul: Ranidae
+    my: ဖား
+    mzn: وک
+    nan: Chúi-ke
+    nb: ekte frosker
+    nds-nl: kikvors
+    ne: भ्यागुतो
+    nl: echte kikkers
+    nn: Halelause padder
+    nrm: Raînotte
+    nso: Segwagwa
+    nv: Chʼał
+    oc: Ranidae
+    pcd: Rainne
+    pdc: Frosch
+    pl: żabowate
+    pnb: ڈڈو
+    pnt: φορφάκα
+    ps: رښتياني چونگښې
+    pt: Ranidae
+    pt-br: Ranidae
+    qu: K'ayra
+    ro: Broască
+    roa-tara: Marajòttole
+    ru: настоящие лягушки
+    rue: Жаба
+    sah: Баҕа
+    sc: Rana
+    sco: Frog
+    sgs: Varlie
+    sh: Žaba
+    sl: prave žabe
+    sn: Datya
+    sq: Bretkosa
+    sr: жабе
+    su: Bangkong
+    sv: Äkta grodor
+    sw: Chura
+    ta: தவளை
+    te: కప్ప
+    tg: Қурбоққа
+    th: วงศ์กบนา
+    tl: Palaka
+    tr: Kuyruksuz kurbağalar
+    tt: Бакалар
+    uk: жаб'ячі
+    ur: مینڈک
+    uz: Baqa
+    vi: Bộ Không đuôi
+    vls: Puut
+    vo: Ranidae
+    wa: Rinne
+    war: Pakla
+    wuu: 田鸡
+    xal: Меклә
+    yi: זשאבע
+    yo: Kọ̀nkọ̀
+    yue: 蛙科
+    zea: Puut'n
+    zh: 蛙科
+    zh-cn: 蛙科
+    zh-hans: 蛙科
+    zh-tw: 蛙科
 ---
-
 # [[Ranid]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Ranidae,6408|WD~Ranidae,6408]] 

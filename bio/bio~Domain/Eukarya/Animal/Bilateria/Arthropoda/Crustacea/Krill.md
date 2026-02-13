@@ -1,9 +1,133 @@
 ---
 aliases:
-  - Euphausiacea
-  - Euphausiids
-  - Krill
+- Balaw
+- Cril
+- eufausiacis
+- Eufausiáceos
+- Euphausiacea
+- Euphausiids
+- Igliqqaq
+- kril
+- Krili
+- Krilis
+- Krill
+- krillit
+- Krilo
+- Krily
+- krunýřovky
+- Ljósáta
+- Lysräkor
+- Planktonkrefie
+- Szczętki
+- Táłtłʼááh chʼoshchilí
+- Κριλ
+- крил
+- Криль
+- Крыль
+- эвфаузиевые
+- קרילאים
+- كريليات
+- وفاوسیاسا
+- کریل
+- क्रिल
+- கிரில்
+- ക്രിൽ
+- เคย
+- ပုစွန်ဆိတ်
+- კრილი
+- オキアミ
+- 磷虾
+- 磷虾目
+- 磷蝦
+- 磷蝦目
+- 크릴
 has_id_wikidata: Q29498
+dv_has_:
+  name_:
+    af: Planktonkrefie
+    an: Euphausiacea
+    ar: كريليات
+    arz: كريليات
+    ast: Euphausiacea
+    azb: وفاوسیاسا
+    ban: Krill
+    bcl: Balaw
+    be: Крыль
+    be-tarask: крыль
+    bg: крил
+    br: Krill
+    bs: Kril
+    ca: eufausiacis
+    ceb: Euphausiacea
+    cs: krunýřovky
+    da: Krill
+    de: Krill
+    el: Κριλ
+    en: Euphausiacea
+    eo: Krilo
+    es: Euphausiacea
+    eu: krill
+    ext: Euphausiacea
+    fa: کریل
+    fi: krillit
+    fr: Euphausiacea
+    ga: Euphausiacea
+    gl: Eufausiáceos
+    he: קרילאים
+    hi: क्रिल
+    hr: Kril
+    hu: krill
+    ia: Euphausiacea
+    id: Krill
+    ie: Euphausiacea
+    ik: Igliqqaq
+    io: Euphausiacea
+    is: Ljósáta
+    it: Euphausiacea
+    ja: オキアミ
+    jv: Krill
+    ka: კრილი
+    kk: Криль
+    ko: 크릴
+    la: Euphausiacea
+    lfn: Cril
+    lt: Krilis
+    lv: Krili
+    mk: крил
+    ml: ക്രിൽ
+    ms: Kril
+    mul: Euphausiacea
+    my: ပုစွန်ဆိတ်
+    nb: krill
+    nl: Krill
+    nn: kril
+    nv: Táłtłʼááh chʼoshchilí
+    oc: Krill
+    pl: Szczętki
+    ps: کریل
+    pt: Krill
+    pt-br: Euphausiacea
+    ro: Krill
+    ru: эвфаузиевые
+    sh: Kril
+    sk: Krily
+    sl: kril
+    sq: Euphausiacea
+    sr: крил
+    sv: Lysräkor
+    ta: கிரில்
+    th: เคย
+    tl: Kril
+    tr: Kril
+    uk: Криль
+    vi: Euphausiacea
+    vo: Euphausiacea
+    war: Krill
+    wuu: 磷虾
+    yue: 磷蝦
+    zh: 磷蝦目
+    zh-cn: 磷虾目
+    zh-tw: 磷蝦目
 ---
 # [[Krill]] 
 

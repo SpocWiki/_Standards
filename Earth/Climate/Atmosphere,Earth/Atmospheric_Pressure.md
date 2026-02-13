@@ -1,24 +1,215 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]"
-    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]"
-    - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]"
-    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]"
-    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]"
-    - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]"
-    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]"
-    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]"
+  - '[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]'
+  - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]'
+  - '[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]'
+  - '[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]'
+  - '[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]'
+  - '[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]'
+  - '[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]'
+  - '[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]"
-  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]"
-  - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]"
-  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]"
-  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]"
-  - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]"
-  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]"
-  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]"
+- '[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]'
+- '[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]'
+- '[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]'
+- '[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]'
+- '[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]'
+- '[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]'
+- '[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]'
+- '[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]'
 has_id_wikidata: Q81809
+dv_has_:
+  name_:
+    af: lugdruk
+    an: presión atmosferica
+    ar: ضغط جوي
+    ary: ضغط جوي
+    as: বায়ুমণ্ডলীয় চাপ
+    ast: presión atmosférica
+    az: atmosfer təzyiqi
+    ba: атмосфера баҫымы
+    be: атмасферны ціск
+    be-tarask: атмасфэрны ціск
+    bg: атмосферно налягане
+    bho: वायुमंडलीय दाब
+    bn: বায়ুমণ্ডলীয় চাপ
+    ca: pressió atmosfèrica
+    ckb: پەستانی کەش
+    cs: atmosférický tlak
+    cv: Атмосфера пусăмĕ
+    da: lufttryk
+    de: Luftdruck
+    el: ατμοσφαιρική πίεση
+    en: atmospheric pressure
+    eo: atmosfera premo
+    es: presión atmosférica
+    et: õhurõhk
+    eu: presio atmosferiko
+    fa: فشار اتمسفری
+    fi: ilmanpaine
+    fr: pression atmosphérique
+    ga: brú atmaisféarach
+    gl: presión atmosférica
+    he: לחץ אטמוספירי
+    hi: वायुमंडलीय दबाव
+    hr: atmosferski tlak
+    hsb: atmosferiski ćišć
+    hu: légnyomás
+    hy: մթնոլորտային ճնշում
+    id: tekanan atmosfer
+    is: loftþrýstingur
+    it: pressione atmosferica
+    ja: 気圧
+    jv: Pidihan atmosfer
+    ka: ატმოსფერული წნევა
+    kab: adad agnaw
+    kk: атмосфералық қысым
+    ko: 대기압
+    krc: атмосфералыкъ басым
+    ku: pestoya atmosferê
+    ky: атмосфера басымы
+    la: aeris pressus
+    lmo: pression atmosferega
+    lo: ຄວາມກົດອາກາດ
+    lt: atmosferos slėgis
+    lv: atmosfēras spiediens
+    lzh: 氣壓
+    mk: атмосферски притисок
+    ml: അന്തരീക്ഷമർദ്ദം
+    mn: агаарын даралт
+    mr: वातावरणाचा दाब
+    ms: tekanan atmosfera
+    my: လေဖိအား
+    nan: Khì-ap
+    nb: atmosfærisk trykk
+    ne: वायुमण्डलीय चाप
+    nl: luchtdruk
+    nn: lufttrykk
+    oc: pression atmosferica
+    pa: ਵਾਯੂਮੰਡਲ ਦਬਾਅ
+    pl: ciśnienie atmosferyczne
+    pnb: ہوا دا دباو
+    ps: پر انساني بدن د هوا د وزن اندازه
+    pt: pressão atmosférica
+    ro: presiune atmosferică
+    ru: атмосферное давление
+    sd: فضائي دٻاءُ
+    se: áibmodeatta
+    sh: atmosferski tlak
+    sk: atmosférický tlak
+    sl: atmosferski tlak
+    smn: áimuteedâ
+    sms: äimmteädd
+    sq: shtypja e ajrit
+    sr: атмосферски притисак
+    sv: lufttryck
+    sw: kanieneo angahewa
+    ta: வளிமண்டல அழுத்தம்
+    te: వాతావరణ పీడనం
+    th: ความกดอากาศ
+    tr: atmosfer basıncı
+    udm: атмосфера зӥбет
+    uk: атмосферний тиск
+    ur: ہوا کا دباؤ
+    uz: atmosfera bosimi
+    vec: presion atmosfèrega
+    vi: áp suất khí quyển
+    wuu: 气压
+    yue: 大氣壓力
+    zgh: ⵓⴷⵓⵣ ⵏ ⵜⴹⴰⵕⵓⵜ
+    zh: 气压
+aliases:
+- adad agnaw
+- aeris pressus
+- atmosfer basıncı
+- atmosfer təzyiqi
+- atmosfera bosimi
+- atmosfera premo
+- atmosferiski ćišć
+- atmosferos slėgis
+- atmosferski tlak
+- atmosfærisk trykk
+- atmosférický tlak
+- atmosfēras spiediens
+- atmospheric pressure
+- brú atmaisféarach
+- ciśnienie atmosferyczne
+- ilmanpaine
+- kanieneo angahewa
+- Khì-ap
+- loftþrýstingur
+- luchtdruk
+- Luftdruck
+- lufttryck
+- lufttryk
+- lufttrykk
+- lugdruk
+- légnyomás
+- pestoya atmosferê
+- Pidihan atmosfer
+- presio atmosferiko
+- presion atmosfèrega
+- presiune atmosferică
+- presión atmosferica
+- presión atmosférica
+- pression atmosferega
+- pression atmosferica
+- pression atmosphérique
+- pressione atmosferica
+- pressió atmosfèrica
+- pressão atmosférica
+- shtypja e ajrit
+- tekanan atmosfer
+- tekanan atmosfera
+- áibmodeatta
+- áimuteedâ
+- áp suất khí quyển
+- äimmteädd
+- õhurõhk
+- ατμοσφαιρική πίεση
+- агаарын даралт
+- атмасферны ціск
+- атмасфэрны ціск
+- атмосфера басымы
+- атмосфера баҫымы
+- атмосфера зӥбет
+- Атмосфера пусăмĕ
+- атмосфералыкъ басым
+- атмосфералық қысым
+- атмосферний тиск
+- атмосферно налягане
+- атмосферное давление
+- атмосферски притисак
+- атмосферски притисок
+- մթնոլորտային ճնշում
+- לחץ אטמוספירי
+- ضغط جوي
+- فشار اتمسفری
+- فضائي دٻاءُ
+- پر انساني بدن د هوا د وزن اندازه
+- پەستانی کەش
+- ہوا دا دباو
+- ہوا کا دباؤ
+- वातावरणाचा दाब
+- वायुमंडलीय दबाव
+- वायुमंडलीय दाब
+- वायुमण्डलीय चाप
+- বায়ুমণ্ডলীয় চাপ
+- ਵਾਯੂਮੰਡਲ ਦਬਾਅ
+- வளிமண்டல அழுத்தம்
+- వాతావరణ పీడనం
+- അന്തരീക്ഷമർദ്ദം
+- ความกดอากาศ
+- ຄວາມກົດອາກາດ
+- လေဖိအား
+- ატმოსფერული წნევა
+- ⵓⴷⵓⵣ ⵏ ⵜⴹⴰⵕⵓⵜ
+- 大氣壓力
+- 气压
+- 気圧
+- 氣壓
+- 대기압
 ---
 ---
 aliases:

@@ -1,8 +1,53 @@
 ---
 aliases:
-  - Somasteroidea
+- Somasteroidea
+- Somasteroïdeus
+- 体海星亚纲
 title: Somasteroidea
 has_id_wikidata: Q4521052
+dv_has_:
+  name_:
+    an: Somasteroidea
+    ast: Somasteroidea
+    bg: Somasteroidea
+    br: Somasteroidea
+    ca: Somasteroïdeus
+    ceb: Somasteroidea
+    co: Somasteroidea
+    de: Somasteroidea
+    en: Somasteroidea
+    eo: Somasteroidea
+    es: Somasteroidea
+    fi: Somasteroidea
+    fr: Somasteroidea
+    ga: Somasteroidea
+    gl: Somasteroidea
+    ia: Somasteroidea
+    ie: Somasteroidea
+    io: Somasteroidea
+    it: Somasteroidea
+    la: Somasteroidea
+    lad: Somasteroidea
+    lmo: Somasteroidea
+    mul: Somasteroidea
+    nl: Somasteroidea
+    nov: Somasteroidea
+    nrm: Somasteroidea
+    oc: Somasteroidea
+    pl: Somasteroidea
+    pt: Somasteroidea
+    rm: Somasteroidea
+    ro: Somasteroidea
+    ru: Somasteroidea
+    rup: Somasteroidea
+    sq: Somasteroidea
+    sv: Somasteroidea
+    uk: Somasteroidea
+    vi: Somasteroidea
+    war: Somasteroidea
+    zh: 体海星亚纲
+    zh-cn: 体海星亚纲
+    zh-hans: 体海星亚纲
 ---
 # [[Somasteroidea]]
 

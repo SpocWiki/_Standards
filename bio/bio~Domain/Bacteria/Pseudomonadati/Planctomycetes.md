@@ -1,9 +1,50 @@
 ---
 aliases:
-  - Planctomycetota
-  - Planctomycetes
+- Planctomyceten
+- Planctomycetes
+- Planctomycetota
+- 浮霉菌门
 title: Planctomycetes
 has_id_wikidata: Q18674593
+dv_has_:
+  name_:
+    an: Planctomycetota
+    ast: Planctomycetota
+    bg: Planctomycetota
+    ca: Planctomycetota
+    ceb: Planctomycetota
+    cs: Planctomycetota
+    de: Planctomyceten
+    en: Planctomycetota
+    en-ca: Planctomycetota
+    en-gb: Planctomycetota
+    eo: Planctomycetota
+    es: Planctomycetota
+    eu: Planctomycetota
+    ext: Planctomycetota
+    fi: Planctomycetota
+    fr: Planctomycetota
+    ga: Planctomycetota
+    gl: Planctomycetota
+    ia: Planctomycetota
+    ie: Planctomycetota
+    io: Planctomycetota
+    it: Planctomycetota
+    la: Planctomycetota
+    mul: Planctomycetota
+    nl: Planctomycetota
+    oc: Planctomycetota
+    pl: Planctomycetota
+    pt: Planctomycetota
+    pt-br: Planctomycetota
+    ro: Planctomycetota
+    ru: Planctomycetota
+    sq: Planctomycetota
+    uk: Planctomycetota
+    vi: Planctomycetota
+    vo: Planctomycetota
+    war: Planctomycetota
+    zh: 浮霉菌门
 ---
 # [[Planctomycetes]] 
 

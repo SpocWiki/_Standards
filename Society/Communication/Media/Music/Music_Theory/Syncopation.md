@@ -1,8 +1,88 @@
 ---
 has_id_wikidata: Q319526
+dv_has_:
+  name_:
+    an: Sincope
+    ar: تأخير النبرة
+    az: Sinkopa
+    be: Сінкопа
+    ca: síncope
+    cs: Synkopa
+    da: Synkope
+    de: Synkope
+    el: συγκοπή
+    en: syncopated rhythm
+    eo: sinkopo
+    es: ritmo sincopado
+    et: Sünkoop
+    eu: erritmo sinkopatu
+    fa: سنکپ
+    fi: Synkooppi
+    fr: syncope
+    he: סינקופה
+    hr: Sinkopa
+    it: sincope
+    ja: シンコペーション
+    ko: 당김음
+    lt: Sinkopė
+    lv: Sinkopācija
+    mk: Синкопа (музика)
+    nb: Synkope
+    nds-nl: synkoop
+    nl: syncope
+    nn: Synkopering
+    pl: synkopa
+    pt: síncope
+    ro: Sincopă
+    rsk: Синкопа
+    ru: Синкопа
+    sh: Sinkopa
+    sk: Synkopa
+    sr: Синкопа
+    sr-ec: Синкопа
+    sr-el: Sinkopa
+    sv: synkop
+    tr: Senkop (müzik)
+    uk: Синкопа
+    yue: 切分音
+    zh: 切分音
+    zh-cn: 切分音
+    zh-hans: 切分音
+    zh-hant: 切分音
+    zh-hk: 切分音
+    zh-sg: 切分音
+    zh-tw: 切分音
+aliases:
+- erritmo sinkopatu
+- ritmo sincopado
+- Senkop (müzik)
+- sincope
+- Sincopă
+- Sinkopa
+- sinkopo
+- Sinkopācija
+- Sinkopė
+- syncopated rhythm
+- syncope
+- synkoop
+- Synkooppi
+- synkop
+- Synkopa
+- Synkope
+- Synkopering
+- síncope
+- Sünkoop
+- συγκοπή
+- Сінкопа
+- Синкопа
+- Синкопа (музика)
+- סינקופה
+- تأخير النبرة
+- سنکپ
+- シンコペーション
+- 切分音
+- 당김음
 ---
-
-
 # [[Syncopation]] 
 
 ## #has_/text_of_/abstract 

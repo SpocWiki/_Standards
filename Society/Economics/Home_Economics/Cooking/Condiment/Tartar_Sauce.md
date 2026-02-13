@@ -1,19 +1,58 @@
 ---
 aliases:
-  - Tartar sauce
-  - sauce tartare
-  - tartare sauce
-  - Tartar_Sauce
-  - Tartar Sauce
+- anlann tartair
+- creación de la salsa tártara
+- molho tártaro
+- Mueyu tártaru
+- salsa tartara
+- salsa tàrtara
+- salsa tártara
+- Saltsa tartariar
+- Saos tartar
+- Sarsang Tartaro
+- sauce tartare
+- Saus tartar
+- saws tartar
+- Sos tartar
+- sos tatarski
+- tartaarsaus
+- Tartar sauce
+- Tartar sos
+- Tartar sousi
+- Tartar umak
+- tartare sauce
+- tartarkastike
+- Tartarsauce
+- Tartarsaus
+- tartarsås
+- Tartar_Sauce
+- Tatara saŭco
+- tatarska omaka
+- tatarská omáčka
+- Tatárska omáčka
+- xốt tartar
+- Σάλτσα ταρτάρ
+- тартар
+- Тартар сос
+- татарскі соўс
+- רוטב טרטר
+- سس تارتار
+- صلصة التارتار
+- ซอสทาร์ทาร์
+- タルタルソース
+- 他他醬
+- 塔塔酱
+- 塔塔醬
+- 타르타르 소스
 has_id_wikidata: Q348947
 has_part_s_:
-  - '[[_Standards/WikiData/WD~tarragon,155814]]'
-  - '[[_Standards/WikiData/WD~mayonnaise,167893]]'
-  - '[[_Standards/WikiData/WD~garden_chervil,218462]]'
-  - '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
-  - '[[_Standards/WikiData/WD~caper,3229775]]'
-  - '[[_Standards/WikiData/WD~chives,61046162]]'
-  - '[[_Standards/WikiData/WD~parsley,25284]]'
+- '[[_Standards/WikiData/WD~tarragon,155814]]'
+- '[[_Standards/WikiData/WD~mayonnaise,167893]]'
+- '[[_Standards/WikiData/WD~garden_chervil,218462]]'
+- '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
+- '[[_Standards/WikiData/WD~caper,3229775]]'
+- '[[_Standards/WikiData/WD~chives,61046162]]'
+- '[[_Standards/WikiData/WD~parsley,25284]]'
 subclass_of: '[[_Standards/WikiData/WD~sauce,178359]]'
 country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 named_after: '[[_Standards/WikiData/WD~Tatars,35565]]'
@@ -23,8 +62,62 @@ FoodEx2_code: A045N
 Wolfram_Language_entity_code: Entity["FoodType", "TartarSauce"]
 Commons_category: Tartar sauce
 native_label: Sauce tartare
+dv_has_:
+  name_:
+    ar: صلصة التارتار
+    arz: صلصة التارتار
+    ast: Mueyu tártaru
+    be-tarask: татарскі соўс
+    bg: тартар
+    ca: salsa tàrtara
+    cs: tatarská omáčka
+    cy: saws tartar
+    da: Tartarsauce
+    de: Sauce tartare
+    el: Σάλτσα ταρτάρ
+    en: tartar sauce
+    eo: Tatara saŭco
+    es: salsa tártara
+    es-419: creación de la salsa tártara
+    eu: Saltsa tartariar
+    fa: سس تارتار
+    fi: tartarkastike
+    fr: sauce tartare
+    ga: anlann tartair
+    gl: Salsa tártara
+    he: רוטב טרטר
+    hr: Tartar umak
+    id: Saus tartar
+    it: salsa tartara
+    ja: タルタルソース
+    jv: Saos tartar
+    ko: 타르타르 소스
+    ms: Sos tartar
+    nb: Tartarsaus
+    nl: tartaarsaus
+    pl: sos tatarski
+    pt: molho tártaro
+    ro: Sos tartar
+    ru: тартар
+    sk: Tatárska omáčka
+    sl: tatarska omaka
+    sr: Тартар сос
+    sv: tartarsås
+    th: ซอสทาร์ทาร์
+    tl: Sarsang Tartaro
+    tr: Tartar sos
+    uk: тартар
+    uz: Tartar sousi
+    vi: xốt tartar
+    yue: 他他醬
+    zh: 塔塔醬
+    zh-cn: 塔塔酱
+    zh-hans: 塔塔酱
+    zh-hant: 塔塔醬
+    zh-hk: 塔塔醬
+    zh-sg: 塔塔酱
+    zh-tw: 塔塔醬
 ---
-
 # [[Tartar_Sauce]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tartar_sauce,348947|WD~Tartar_sauce,348947]]  

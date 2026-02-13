@@ -1,8 +1,107 @@
 ---
 aliases:
-  - Microhylidae
+- ahdassuusammakot
+- Chʼał bizéétsʼósí
+- Engmaulfrösche
+- Họ Nhái bầu
+- Microhyidae
+- Microhylidae
+- Microhílid
+- Mikrohiledoj
+- parosničkovití
+- Siauraburnės varlės
+- smalbekkikkers
+- Smalbekpuutn
+- szűkszájúbéka-félék
+- trangmunnfroskar
+- Trangmunnfrosker
+- Wąskopyskowate
+- Šaurmutvaržu dzimta
+- Карликові райки
+- Пĕчĕк туталлисем
+- тесноусти жаби
+- Узкороты
+- Ускоусте жабе
+- Նեղաբերաններ
+- מיקרוהיליים
+- شقدعيات
+- قورباغههای دهانباریک
+- கூர்வாய்த் தவளை
+- കുറിവായൻ തവള
+- วงศ์อึ่งอ่าง
+- პირვიწრო ბაყაყისებრნი
+- ヒメアマガエル科
+- 姬蛙科
+- 맹꽁이과
 title: Microhylidae
 has_id_wikidata: Q56057
+dv_has_:
+  name_:
+    an: Microhylidae
+    ar: شقدعيات
+    arz: شقدعيات
+    ast: Microhylidae
+    be: Microhylidae
+    bg: тесноусти жаби
+    ca: Microhílid
+    ceb: Microhylidae
+    cs: parosničkovití
+    cv: Пĕчĕк туталлисем
+    de: Engmaulfrösche
+    de-ch: Engmaulfrösche
+    en: Microhylidae
+    en-ca: Microhylidae
+    en-gb: Microhylidae
+    eo: Mikrohiledoj
+    es: Microhylidae
+    eu: Microhylidae
+    ext: Microhylidae
+    fa: قورباغههای دهانباریک
+    fi: ahdassuusammakot
+    fr: Microhylidae
+    ga: Microhylidae
+    gl: Microhylidae
+    he: מיקרוהיליים
+    hu: szűkszájúbéka-félék
+    hy: Նեղաբերաններ
+    ia: Microhylidae
+    id: Microhylidae
+    ie: Microhylidae
+    io: Microhylidae
+    it: Microhylidae
+    ja: ヒメアマガエル科
+    ka: პირვიწრო ბაყაყისებრნი
+    ko: 맹꽁이과
+    la: Microhylidae
+    lt: Siauraburnės varlės
+    lv: Šaurmutvaržu dzimta
+    ml: കുറിവായൻ തവള
+    mt: Microhyidae
+    mul: Microhylidae
+    nb: Trangmunnfrosker
+    nl: smalbekkikkers
+    nn: trangmunnfroskar
+    nv: Chʼał bizéétsʼósí
+    oc: Microhylidae
+    pl: Wąskopyskowate
+    pt: Microhylidae
+    pt-br: Microhylidae
+    ro: Microhylidae
+    ru: Узкороты
+    sq: Microhylidae
+    sr: Ускоусте жабе
+    sv: Microhylidae
+    ta: கூர்வாய்த் தவளை
+    th: วงศ์อึ่งอ่าง
+    tr: Microhylidae
+    uk: Карликові райки
+    vi: Họ Nhái bầu
+    vls: Smalbekpuutn
+    vo: Microhylidae
+    war: Microhylidae
+    zh: 姬蛙科
+    zh-cn: 姬蛙科
+    zh-tw: 姬蛙科
 ---
 # [[Microhylidae]]
 

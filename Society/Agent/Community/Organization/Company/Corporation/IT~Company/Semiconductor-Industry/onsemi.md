@@ -1,8 +1,39 @@
 ---
 aliases:
-  - ON Semiconductor Corporation
-  - onsemi
+- ON Semiconductor
+- ON Semiconductor Corporation
+- onsemi
+- آن سمیکانداکتر
+- أون سيمي
+- オンセミ
+- 安森美
+- 온 세미컨덕더
 has_id_wikidata: Q1671509
+dv_has_:
+  name_:
+    ar: أون سيمي
+    ca: ON Semiconductor
+    cs: onsemi
+    da: ON Semiconductor
+    de: onsemi
+    en: onsemi
+    es: ON Semiconductor
+    fa: آن سمیکانداکتر
+    fr: onsemi
+    ga: ON Semiconductor
+    id: Onsemi
+    it: ON Semiconductor
+    ja: オンセミ
+    ko: 온 세미컨덕더
+    mul: ON Semiconductor
+    nl: onsemi
+    pl: ON Semiconductor
+    sl: ON Semiconductor
+    vec: ON Semiconductor
+    wuu: 安森美
+    zh: 安森美
+    zh-hans: 安森美
+    zh-hant: 安森美
 ---
 # [[onsemi]]
 

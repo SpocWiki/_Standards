@@ -1,56 +1,261 @@
 ---
 aliases:
+- Admenistraçon
+- administración de empresas
+- administrado
+- administração
+- Alministración
+- Amministraturi
+- bainistíocht
+- Bedriefsveuring
+- Bestjoer
+- bestuur
+- gestion
+- gestió
+- gestión
+- gestão
+- Humaneja
+- idarecilik
+- jesyonè
+- johtaminen
+- juhtimine
+- Koán-lí-ha̍k
+- kudeaketa
+- ledelse
+- ledning
+- leiing
+- management
+- manajemen
+- manajement
+- Manajman
+- manizimentum
+- Menadžment
+- menaxhim
+- menecment
+- menedjment
+- menedžment
+- Menejment
+- pamamahala
+- pengurusan
+- plánovanie
+- quản lý
+- rheolaeth
+- rukovođenje
+- stjórnun
+- Usimamizi
+- vadyba
+- Vadība
+- vadībzinība
+- vezetéstudomány
+- whakahaere
+- zarządzanie
+- zestion
+- διαχείριση
+- менеджмент
+- менежмент
+- мениджмънт
+- мудирият
+- мэнэджмэнт
+- раководење
+- руковођење
+- Կառավարում
+- ניהול
+- פירערשאפט
+- إدارة
+- بەڕێوەبەری
+- سمبالښت
+- مدیریت
+- مەنەدجمەنت
+- نظامت
+- نِظامَتھ
+- ڤڠوروسن
+- ग्वसाः-ग्वयेज्या
+- प्रबन्धन
+- मॅनेजमेंट
+- व्यवस्थापन
+- ব্যবস্থাপনা
+- ব্যৱস্থাপনা
+- மேலாண்மை
+- ವ್ಯವಹಾರ ನಿವ೯ಹಣೆ
+- മാനേജ്മെന്റ്
+- කළමනාකරණය
+- การจัดการ
+- ການຈັດການ
+- စီမံခန့်ခွဲခြင်း
+- მენეჯმენტი
+- 管理学
+- 管理學
+- 経営
+- 경영
 has_id_wikidata: Q2920921
 fabrication_method:
-  - "[[_Standards/WikiData/WD~planning,309100]]"
-  - "[[_Standards/WikiData/WD~social_control,623971]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
+- '[[_Standards/WikiData/WD~planning,309100]]'
+- '[[_Standards/WikiData/WD~social_control,623971]]'
+- '[[_Standards/WikiData/WD~public_administration,31728]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~control,338754]]"
-  - "[[_Standards/WikiData/WD~coordination,1783823]]"
-  - "[[_Standards/WikiData/WD~control,29017603]]"
+- '[[_Standards/WikiData/WD~control,338754]]'
+- '[[_Standards/WikiData/WD~coordination,1783823]]'
+- '[[_Standards/WikiData/WD~control,29017603]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~strategic_management,376657]]"
-  - "[[_Standards/WikiData/WD~function,1474521]]"
-  - "[[_Standards/WikiData/WD~management_style,1481177]]"
-  - "[[_Standards/WikiData/WD~management_process,1888611]]"
-  - "[[_Standards/WikiData/WD~type_of_management,96247293]]"
+- '[[_Standards/WikiData/WD~strategic_management,376657]]'
+- '[[_Standards/WikiData/WD~function,1474521]]'
+- '[[_Standards/WikiData/WD~management_style,1481177]]'
+- '[[_Standards/WikiData/WD~management_process,1888611]]'
+- '[[_Standards/WikiData/WD~type_of_management,96247293]]'
 class_of_object_s_of_occurrence:
-  - "[[_Standards/WikiData/WD~employee,703534]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[_Standards/WikiData/WD~society,8425]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- '[[_Standards/WikiData/WD~employee,703534]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~society,8425]]'
+- '[[_Standards/WikiData/WD~human,5]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~business_administration,2043282]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
+- '[[_Standards/WikiData/WD~business_administration,2043282]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~management_science,2414942]]"
-  - "[[_Standards/WikiData/WD~management_studies,22811962]]"
-  - "[[_Standards/WikiData/WD~sociology_of_management,113884213]]"
+- '[[_Standards/WikiData/WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~management_studies,22811962]]'
+- '[[_Standards/WikiData/WD~sociology_of_management,113884213]]'
 different_from:
-  - "[[_Standards/WikiData/WD~management_science,2414942]]"
-  - "[[_Standards/WikiData/WD~management_studies,22811962]]"
-  - "[[_Standards/WikiData/WD~control,29017603]]"
-  - "[[_Standards/WikiData/WD~sociology_of_management,113884213]]"
-practiced_by: "[[_Standards/WikiData/WD~manager,2462658]]"
+- '[[_Standards/WikiData/WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~management_studies,22811962]]'
+- '[[_Standards/WikiData/WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~sociology_of_management,113884213]]'
+practiced_by: '[[_Standards/WikiData/WD~manager,2462658]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~administration,5283295]]"
-  - "[[_Standards/WikiData/WD~administration,50412353]]"
+- '[[_Standards/WikiData/WD~administration,5283295]]'
+- '[[_Standards/WikiData/WD~administration,50412353]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Management,14399581]]"
-Dewey_Decimal_Classification: "650"
-IAB_code: "76"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Management,14399581]]'
+Dewey_Decimal_Classification: 650
+IAB_code: 76
 Commons_category: Management
-U_S_National_Archives_Identifier: "10638999"
-OmegaWiki_Defined_Meaning: "472667"
+U_S_National_Archives_Identifier: 10638999
+OmegaWiki_Defined_Meaning: 472667
 image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Board%20Room%20at%202%20Broadway%20%2816458634290%29.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/management
 SOC_Code_2010_: 11-0000
+dv_has_:
+  name_:
+    af: bestuur
+    ar: إدارة
+    as: ব্যৱস্থাপনা
+    ast: Alministración
+    az: menecment
+    ba: менеджмент
+    bar: Management
+    be: менеджмент
+    be-tarask: мэнэджмэнт
+    bg: мениджмънт
+    bn: ব্যবস্থাপনা
+    br: Management
+    bs: Menadžment
+    ca: gestió
+    ckb: بەڕێوەبەری
+    cs: management
+    cy: rheolaeth
+    da: ledelse
+    de: Management
+    el: διαχείριση
+    en: management
+    eo: administrado
+    es: gestión
+    et: juhtimine
+    eu: kudeaketa
+    fa: مدیریت
+    fi: johtaminen
+    fr: management
+    fy: Bestjoer
+    ga: bainistíocht
+    gcr: Manajman
+    gl: administración de empresas
+    he: ניהול
+    hi: प्रबन्धन
+    hr: Menadžment
+    ht: jesyonè
+    hu: vezetéstudomány
+    hy: Կառավարում
+    id: manajemen
+    ig: management
+    io: Administrado
+    is: stjórnun
+    it: management
+    ja: 経営
+    ka: მენეჯმენტი
+    kaa: menedjment
+    kk: менеджмент
+    kk-arab: مەنەدجمەنت
+    kk-cyrl: менеджмент
+    kk-latn: Menedjment
+    kn: ವ್ಯವಹಾರ ನಿವ೯ಹಣೆ
+    ko: 경영
+    ks: نِظامَتھ
+    ky: менеджмент
+    la: manizimentum
+    li: Bedriefsveuring
+    lo: ການຈັດການ
+    lt: vadyba
+    lv: vadībzinība
+    mi: whakahaere
+    min: Manajemen
+    mk: раководење
+    ml: മാനേജ്മെന്റ്
+    mn: менежмент
+    mr: मॅनेजमेंट
+    ms: pengurusan
+    ms-arab: ڤڠوروسن
+    mwl: Admenistraçon
+    my: စီမံခန့်ခွဲခြင်း
+    nan: Koán-lí-ha̍k
+    nb: ledelse
+    ne: व्यवस्थापन
+    new: ग्वसाः-ग्वयेज्या
+    nl: management
+    nn: leiing
+    oc: gestion
+    pih: manajement
+    pl: zarządzanie
+    ps: سمبالښت
+    pt: gestão
+    pt-br: administração
+    ro: management
+    ru: менеджмент
+    scn: Amministraturi
+    sco: management
+    sgs: Vadība
+    sh: menadžment
+    si: කළමනාකරණය
+    sk: plánovanie
+    sl: menedžment
+    sn: Humaneja
+    sq: menaxhim
+    sr: руковођење
+    sr-ec: руковођење
+    sr-el: rukovođenje
+    sv: ledning
+    sw: Usimamizi
+    ta: மேலாண்மை
+    tg: мудирият
+    th: การจัดการ
+    tl: pamamahala
+    tr: idarecilik
+    tt: менеджмент
+    uk: менеджмент
+    ur: نظامت
+    uz: Menejment
+    vec: zestion
+    vi: quản lý
+    wuu: 管理学
+    yi: פירערשאפט
+    yue: 管理學
+    zh: 管理学
+    zh-cn: 管理学
+    zh-hans: 管理学
+    zh-hant: 管理學
+    zh-hk: 管理學
+    zh-tw: 管理學
 ---
-
 # [[Management]] 
 
 #is_/similar_to :: [[../Economics|Economics]] 

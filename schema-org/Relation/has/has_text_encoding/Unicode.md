@@ -1,23 +1,211 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_text_encoding/Unicode|Unicode]]"
-    - "[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]"
-    - "[[Unicode]]"
+  - '[[/_Standards/schema-org/Relation/has/has_text_encoding/Unicode|Unicode]]'
+  - '[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]'
+  - '[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]'
+  - '[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]'
+  - '[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]'
+  - '[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]'
+  - '[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]'
+  - '[[Unicode]]'
 dv_is_same_as:
-  - "[[Unicode]]"
-  - "[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]"
+- '[[Unicode]]'
+- '[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]'
+- '[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]'
+- '[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]'
+- '[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]'
+- '[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]'
+- '[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]'
 has_id_wikidata: Q8819
+dv_has_:
+  name_:
+    af: Unicode
+    am: ዩኒኮድ
+    ar: يونيكود
+    as: ইউনিক’ড
+    ast: Unicode
+    az: Unicode
+    bar: Unicode
+    be: Юнікод
+    be-tarask: Юнікод
+    bg: Уникод
+    bho: युनिकोड
+    blk: ယူနီကုဒ်ကရိုꩻနောဝ်ꩻ
+    bn: ইউনিকোড
+    br: Unicode
+    bs: Unikod
+    ca: Unicode
+    cdo: Unicode
+    chr: Unicode/Cherokee
+    ckb: یوونیکۆد
+    cs: Unicode
+    cv: Юникод
+    cy: Unicode
+    da: Unicode
+    de: Unicode
+    el: Unicode
+    en: Unicode
+    en-ca: Unicode
+    en-gb: Unicode
+    eo: Unikodo
+    es: Unicode
+    et: Unicode
+    eu: Unicode
+    fa: یونیکد
+    fi: Unicode
+    fr: Unicode
+    ga: Unicode
+    gl: Unicode
+    gsw: Unicode
+    gu: યુનિકોડ
+    hak: Unicode
+    he: יוניקוד
+    hi: यूनिकोड
+    hr: Unicode
+    hu: Unicode
+    hy: Յունիկոդ
+    ia: Unicode
+    id: Unicode
+    ilo: Unicode
+    is: Unicode
+    it: Unicode
+    ja: Unicode
+    jv: Unicode
+    ka: უნიკოდი
+    kk: Юникод
+    kn: ಯುನಿಕೋಡ್
+    ko: 유니코드
+    ks: یوٗنِکوڈ
+    ku: Unicode
+    ky: Юникод
+    la: Unicodex
+    lfn: Unicode
+    lt: Unikodas
+    lv: Unikods
+    lzh: 萬國碼
+    mai: युनिकोड
+    mhr: Unicode
+    mk: Уникод
+    ml: യൂണികോഡ്
+    mn: Юникод
+    mnw: ယူနဳကုဒ်
+    mr: युनिकोड
+    ms: Unicode
+    my: ယူနီကုဒ်
+    nan: Unicode
+    nb: Unicode
+    nds: Unicode
+    ne: युनिकोड
+    new: युनिकोड
+    nl: Unicode
+    nn: Unicode
+    oc: Unicode
+    pa: ਯੂਨੀਕੋਡ
+    pap: Unicode
+    pl: Unicode
+    pnb: یونیکوڈ
+    ps: يونيکوډ
+    pt: Unicode
+    pt-br: Unicode
+    ro: Unicode
+    ru: Юникод
+    sa: युनिकोड
+    sah: Юникод
+    sat: ᱭᱩᱱᱤᱠᱳᱰ
+    scn: Unicode
+    sco: Unicode
+    sd: يونيڪوڊ
+    sh: Unikod
+    si: යුනිකෝඩ්
+    sk: Unicode
+    sl: Unicode
+    sq: Unicode
+    sr: Уникод
+    sr-ec: Уникод
+    sr-el: Unikod
+    su: Unicode
+    sv: Unicode
+    sw: Unicode
+    syl: ꠁꠃꠘꠤꠇꠥꠒ
+    ta: ஒருங்குறி
+    te: యూనికోడ్
+    tg: Юникод
+    th: ยูนิโคด
+    tl: Unikodigo
+    tok: toki ilo Juniko
+    tr: Unicode
+    tt: Юникод
+    tt-cyrl: Юникод
+    tyv: Юникод
+    ug: Unicode
+    uk: Юнікод
+    ur: یکرمزی
+    uz: Unicode
+    vi: Unicode
+    wa: Unicôde
+    wuu: 統一碼
+    xmf: იუნიკოდი
+    yi: יוניקאד
+    yo: Unicode
+    yue: 統一碼
+    zea: Unicode
+    zh: Unicode
+    zh-cn: Unicode
+    zh-hans: Unicode
+    zh-hant: Unicode
+    zh-hk: Unicode
+    zh-mo: Unicode
+    zh-sg: Unicode
+    zh-tw: 統一碼
+aliases:
+- toki ilo Juniko
+- Unicode
+- Unicode/Cherokee
+- Unicodex
+- Unicôde
+- Unikod
+- Unikodas
+- Unikodigo
+- Unikodo
+- Unikods
+- Уникод
+- Юнікод
+- Юникод
+- Յունիկոդ
+- יוניקאד
+- יוניקוד
+- يونيكود
+- يونيکوډ
+- يونيڪوڊ
+- یونیکد
+- یونیکوڈ
+- یوونیکۆد
+- یوٗنِکوڈ
+- یکرمزی
+- युनिकोड
+- यूनिकोड
+- ইউনিকোড
+- ইউনিক’ড
+- ਯੂਨੀਕੋਡ
+- યુનિકોડ
+- ஒருங்குறி
+- యూనికోడ్
+- ಯುನಿಕೋಡ್
+- യൂണികോഡ്
+- යුනිකෝඩ්
+- ยูนิโคด
+- ယူနီကုဒ်
+- ယူနီကုဒ်ကရိုꩻနောဝ်ꩻ
+- ယူနဳကုဒ်
+- იუნიკოდი
+- უნიკოდი
+- ዩኒኮድ
+- ᱭᱩᱱᱤᱠᱳᱰ
+- 統一碼
+- 萬國碼
+- ꠁꠃꠘꠤꠇꠥꠒ
+- 유니코드
 ---
 # [[Unicode]]  
 

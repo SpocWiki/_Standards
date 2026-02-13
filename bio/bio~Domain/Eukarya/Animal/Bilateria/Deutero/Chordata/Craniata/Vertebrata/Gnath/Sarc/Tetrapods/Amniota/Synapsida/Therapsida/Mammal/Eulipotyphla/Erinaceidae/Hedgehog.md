@@ -1,21 +1,103 @@
 ---
 aliases:
-  - Igel
-  - Hedgehog
-  - Hérisson vrai
-  - pravi ježi
+- Adijiłii
+- Apɛsɛ
+- Arkan sonney
+- ba̱tywei
+- Broddgöltur
+- Bushiya
+- cèmcèm
+- Dagis a bugsukan
+- Draenog
+- Erinaceinae
+- erinaco
+- Erizo
+- erizos
+- eriçó
+- Eži
+- ežiai
+- Gràineag
+- gráinneog
+- Hedgehog
+- Hotchi
+- Hurcheon
+- Hérisson vrai
+- Igel
+- igil
+- Inisi
+- jeże
+- Jež
+- ježek
+- Kalunguyeye
+- Landak
+- Landak susu
+- nhím gai
+- Parkupino
+- pindsvin
+- pravi ježi
+- riccio
+- rizzo
+- Rizzu
+- sokina
+- soweli Erinaceinae
+- Stacheligel
+- Stachelkéiseker
+- Stikelychels
+- Suñeel bi
+- Tipratikan
+- triku
+- tüskés sünök
+- varsinaiset siilit
+- Xidig-dhul
+- ασηρόχαντος
+- Σκαντζόχοιρος
+- јеж
+- вожык
+- Еж
+- Зараа
+- керпеләр
+- настоящие ежи
+- Сапраўдныя вожыкі
+- таралежи
+- уызын
+- Чĕрĕп
+- קיפודים אמיתיים
+- שטעכלער
+- ارمنجی
+- جوجهتیغی
+- قنفذ
+- كىرپە
+- ڄاهو
+- ژووشک
+- کنڈیلا چوآ
+- ߖߎ߯ߙߎߣߌ߲
+- कांटेदार जंगली चूहा
+- কাঁটাচুয়া
+- முள்ளெலி (துணைக்குடும்பம்)
+- ಬೇಲಿಹಂದಿ
+- อันดับย่อยเม่น
+- ກະເພາະໜາມ
+- རྒང་།
+- ᠰᡝᠩᡤᡝ
+- ハリネズミ
+- 刺猬
+- 刺蝟
+- 猬亚科
+- 猬亞科
+- 蝟
+- 고슴도치아과
 has_id_wikidata: Q6120
 has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408]]'
 taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~porcupine,1223829]]'
 means_of_locomotion:
-  - '[[_Standards/WikiData/WD~rolling,2192732]]'
-  - '[[_Standards/WikiData/WD~quadrupedalism,21907045]]'
+- '[[_Standards/WikiData/WD~rolling,2192732]]'
+- '[[_Standards/WikiData/WD~quadrupedalism,21907045]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Erinaceinae,11048701]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Erinaceidae,28257]]'
@@ -27,10 +109,117 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 Commons_category: Erinaceinae
 taxon_name: Erinaceinae
 taxon_common_name:
-  - Hérisson vrai
-  - pravi ježi
+- Hérisson vrai
+- pravi ježi
+dv_has_:
+  name_:
+    ak: Apɛsɛ
+    ang: igil
+    ar: قنفذ
+    arz: قنفذ
+    ast: Erinaceinae
+    be: Сапраўдныя вожыкі
+    be-tarask: вожык
+    bg: таралежи
+    bn: কাঁটাচুয়া
+    bo: རྒང་།
+    bs: Jež
+    ca: eriçó
+    ceb: Erinaceinae
+    ckb: ژووشک
+    cs: ježek
+    cv: Чĕрĕп
+    cy: Draenog
+    da: pindsvin
+    de: Stacheligel
+    de-ch: Stacheligel
+    el: Σκαντζόχοιρος
+    en: hedgehog
+    en-ca: Hedgehog
+    en-gb: hedgehog
+    eo: erinaco
+    es: erizos
+    eu: triku
+    fa: جوجهتیغی
+    fi: varsinaiset siilit
+    fr: Erinaceinae
+    fy: Stikelychels
+    ga: gráinneog
+    gd: Gràineag
+    gl: Erinaceinae
+    gv: Arkan sonney
+    ha: Bushiya
+    he: קיפודים אמיתיים
+    hi: कांटेदार जंगली चूहा
+    hu: tüskés sünök
+    ia: Erinaceinae
+    id: Erinaceinae
+    is: Broddgöltur
+    it: riccio
+    ja: ハリネズミ
+    kab: Inisi
+    kcg: ba̱tywei
+    kn: ಬೇಲಿಹಂದಿ
+    ko: 고슴도치아과
+    la: Erinaceinae
+    lb: Stachelkéiseker
+    lo: ກະເພາະໜາມ
+    lt: ežiai
+    lv: Eži
+    lzh: 蝟
+    mcn: cèmcèm
+    mg: sokina
+    mk: Еж
+    mn: Зараа
+    mnc: ᠰᡝᠩᡤᡝ
+    ms: Landak susu
+    mul: Erinaceinae
+    mzn: ارمنجی
+    nah: Erizo
+    nb: Erinaceinae
+    nl: Erinaceinae
+    nqo: ߖߎ߯ߙߎߣߌ߲
+    nv: Adijiłii
+    os: уызын
+    pam: Dagis a bugsukan
+    pl: jeże
+    pnb: کنڈیلا چوآ
+    pnt: ασηρόχαντος
+    pt: Erinaceinae
+    pt-br: Erinaceinae
+    rmy: Hotchi
+    ro: Erinaceinae
+    ru: настоящие ежи
+    scn: Rizzu
+    sco: Hurcheon
+    sd: ڄاهو
+    sl: pravi ježi
+    so: Xidig-dhul
+    sq: Erinaceinae
+    sr: јеж
+    su: Landak
+    sv: Erinaceinae
+    sw: Kalunguyeye
+    ta: முள்ளெலி (துணைக்குடும்பம்)
+    th: อันดับย่อยเม่น
+    tl: Parkupino
+    tok: soweli Erinaceinae
+    tt: керпеләр
+    ug: كىرپە
+    uk: Erinaceinae
+    uz: Tipratikan
+    vec: rizzo
+    vi: nhím gai
+    war: Erinaceinae
+    wo: Suñeel bi
+    wuu: 刺猬
+    yi: שטעכלער
+    yue: 刺蝟
+    zh: 猬亚科
+    zh-cn: 猬亚科
+    zh-hans: 刺猬
+    zh-tw: 猬亞科
 ---
-
 # [[Hedgehog]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Hedgehog,6120|WD~Hedgehog,6120]] 

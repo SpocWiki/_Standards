@@ -1,8 +1,128 @@
 ---
 aliases:
-  - Nemertea
+- Cacing reben
+- Daa-mkonga
+- Hortumlu solucanlar
+- Kärssussid
+- limamadot
+- Nemertea
+- Nemerteo
+- Nemertine
+- Nemertinlər
+- Nemertinos
+- Nemertí
+- Nemertīntārpi
+- nitkarji
+- pásnice
+- péist ribíneach
+- Schnurwürmer
+- slemmaskar
+- Slimormar
+- slimormer
+- snoerwormen
+- Tuumwirmer
+- Táyiʼ chʼoshnézí
+- Ulod nga hukal
+- Vrpčari
+- wstężnice
+- zsinórférgek
+- врвчести црви
+- Немертиндер
+- Немертине
+- немертини
+- немертины
+- немертыны
+- Նեմերտիններ
+- תולעי סרט
+- ديدان خرتوميه
+- ديدان خرطومية
+- روبانیان
+- นีเมอร์เทีย
+- ნემერტინები
+- ヒモムシ
+- 紐形動物門
+- 纽形动物门
+- 유형동물
 title: Nemertea
 has_id_wikidata: Q185631
+dv_has_:
+  name_:
+    an: Nemertea
+    ar: ديدان خرطومية
+    arz: ديدان خرتوميه
+    ast: Nemertea
+    az: Nemertinlər
+    be: немертыны
+    bg: немертини
+    bs: Nemertea
+    ca: Nemertí
+    ceb: Ulod nga hukal
+    cs: pásnice
+    de: Schnurwürmer
+    en: Nemertea
+    eo: Nemertea
+    es: Nemertea
+    et: Kärssussid
+    eu: Nemertea
+    ext: Nemertea
+    fa: روبانیان
+    fi: limamadot
+    fr: Nemertea
+    frr: Tuumwirmer
+    ga: péist ribíneach
+    gl: Nemertinos
+    he: תולעי סרט
+    hr: Vrpčari
+    hu: zsinórférgek
+    hy: Նեմերտիններ
+    ia: Nemertea
+    id: Nemertea
+    ie: Nemertea
+    io: Nemertea
+    it: Nemertea
+    ja: ヒモムシ
+    ka: ნემერტინები
+    ko: 유형동물
+    ky: Немертиндер
+    la: Nemertea
+    lfn: Nemerteo
+    lv: Nemertīntārpi
+    mk: врвчести црви
+    ms: Cacing reben
+    mul: Nemertea
+    nb: slimormer
+    nl: snoerwormen
+    nn: Slimormar
+    nv: Táyiʼ chʼoshnézí
+    oc: Nemertea
+    pl: wstężnice
+    pt: Nemertea
+    pt-br: Nemertea
+    ro: Nemertea
+    ru: немертины
+    sco: Nemertea
+    sk: Pásnice
+    sl: nitkarji
+    sq: Nemertea
+    sr: Немертине
+    sr-ec: Немертине
+    sr-el: Nemertine
+    sv: slemmaskar
+    sw: Daa-mkonga
+    th: นีเมอร์เทีย
+    tl: Nemertea
+    tr: Hortumlu solucanlar
+    uk: немертини
+    vi: Nemertea
+    vo: Nemertea
+    war: Nemertea
+    zh: 纽形动物门
+    zh-cn: 纽形动物门
+    zh-hans: 纽形动物门
+    zh-hant: 紐形動物門
+    zh-hk: 紐形動物門
+    zh-sg: 纽形动物门
+    zh-tw: 紐形動物門
 ---
 # [[Nemertea]]
 

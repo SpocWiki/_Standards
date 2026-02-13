@@ -1,16 +1,100 @@
 ---
 aliases:
-  - Mikrowellenofen
-  - Microwave_Oven
-  - Microwave Oven
+- Bî-pho-lô͘
+- Cuptor cu microunde
+- Dastgohi majkrovejv
+- forn de microones
+- forno a microonde
+- forno de micro-ondas
+- Forno de microondas
+- Forno microondas
+- Fornu de microondes
+- four à micro-ondes
+- Furnus brevibus undis agens
+- horno de microondas
+- Ketuhar gelombang mikro
+- Kuchenka mikrofalowa
+- Lò vi ba
+- magnetron
+- micreathonnán
+- Microwave Oven
+- Microwave_Oven
+- Mikro-ondoforno
+- mikroaaltouuni
+- mikrobangų krosnelė
+- mikrobølgeovn
+- Mikrobølgjeomn
+- Mikrodalga fırın
+- Mikrodalğalı soba
+- Mikrogolfoond
+- mikrohullámú sütő
+- Mikrolaineahi
+- mikroondilo
+- Mikroswalken-Aurn
+- Mikrotalasna peć
+- Mikroto'lqinli pech
+- Mikrouhin labe
+- Mikrovala
+- Mikrovalna peć
+- Mikrovalna pećnica
+- mikrovalovna pečica
+- mikroviļņu krāsns
+- Mikrovlnná rúra
+- mikrovlnná trouba
+- mikrovågsugn
+- Mikrowell
+- Mikrowellenherd
+- Mikrowellenofen
+- Mì-pŏ̤-lù
+- Mïkrotolqındı peş
+- Nuukoffe
+- Nêševâhá'eneo'o
+- Oghe veegrahonnagh
+- Oven gelombang mikro
+- Oven mikrogelombang
+- Popty microdon
+- T'unapillunya p'ukuru
+- Örbylgjuofn
+- Φούρνος μικροκυμάτων
+- Дастгоҳи майкровейв
+- Кыска толкундуу меш
+- мікрахвалёўка
+- мікрахвалевая печ
+- мікрохвильова піч
+- микробранова печка
+- микроволновая печь
+- Микровълнова фурна
+- Микродулкынлы пич
+- Микрокоэӓн камака
+- микроталасна пећ
+- Микротолқынды пеш
+- Մանրալիք Փուռ
+- תנור מיקרוגל
+- خردموجی چولہا
+- دستگاه مایکروویو
+- فرن الأمواج الصغرية
+- فڕنی مایکرۆوەیڤ
+- مىيكروتولقىندى پەش
+- ميكروويڤ mayekrovev
+- सूक्ष्मतरंग चूल्हा
+- মাইক্রোওয়েভ ওভেন
+- நுண்ணலை அடுப்பு
+- మైక్రోవేవ్ ఓవెన్
+- ಮೈಕ್ರೋವೇವ್ ಓವನ್
+- മൈക്രോവേവ് ഓവൻ
+- เตาอบไมโครเวฟ
+- 微波炉
+- 微波爐
+- 電子レンジ
+- 전자레인지
 has_id_wikidata: Q127956
 uses: '[[_Standards/WikiData/WD~microwave,127995]]'
 location_of_creation: '[[_Standards/WikiData/WD~Raytheon,156644]]'
 creator: '[[_Standards/WikiData/WD~Raytheon,156644]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
-  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-  - '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Percy_Spencer,451052]]'
 has_use: '[[../../../../WikiData/WD~heating,4311765]]'
 instance_of: '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
@@ -21,15 +105,118 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Microwave%20oven.ogg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Nissin%20Cup%20Noodle%20Gohan%20curry%20flavoured%2C%20-2013%20a.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20NN-SD69LS%2020220410.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03761084-n
-  - http://wordnet-rdf.princeton.edu/wn31/103721595-n
+- http://wordnet-rdf.princeton.edu/wn30/03761084-n
+- http://wordnet-rdf.princeton.edu/wn31/103721595-n
 MCN_code: 8516.50.00
 Commons_gallery: Microwave oven
 Commons_category: Microwave ovens
 time_of_discovery_or_invention: 1945-01-01T00:00:00Z
 OpenStreetMap_tag: amenity=microwave
+dv_has_:
+  name_:
+    af: Mikrogolfoond
+    an: Forno microondas
+    ar: فرن الأمواج الصغرية
+    arz: ميكروويڤ mayekrovev
+    ast: Fornu de microondes
+    az: Mikrodalğalı soba
+    be: мікрахвалевая печ
+    be-tarask: мікрахвалёўка
+    bg: Микровълнова фурна
+    bn: মাইক্রোওয়েভ ওভেন
+    bs: Mikrovalna peć
+    ca: forn de microones
+    cdo: Mì-pŏ̤-lù
+    chy: Nêševâhá'eneo'o
+    ckb: فڕنی مایکرۆوەیڤ
+    cs: mikrovlnná trouba
+    cy: Popty microdon
+    da: mikrobølgeovn
+    de: Mikrowellenherd
+    el: Φούρνος μικροκυμάτων
+    en: microwave oven
+    eo: mikroondilo
+    es: horno de microondas
+    et: Mikrolaineahi
+    eu: Mikrouhin labe
+    fa: دستگاه مایکروویو
+    fi: mikroaaltouuni
+    fr: four à micro-ondes
+    frr: Mikroswalken-Aurn
+    fy: Magnetron
+    ga: micreathonnán
+    gl: Forno de microondas
+    gv: Oghe veegrahonnagh
+    he: תנור מיקרוגל
+    hi: सूक्ष्मतरंग चूल्हा
+    hr: Mikrovalna pećnica
+    hu: mikrohullámú sütő
+    hyw: Մանրալիք Փուռ
+    id: Oven mikrogelombang
+    io: Mikro-ondoforno
+    is: Örbylgjuofn
+    it: forno a microonde
+    ja: 電子レンジ
+    jv: Oven gelombang mikro
+    kk: Микротолқынды пеш
+    kk-arab: مىيكروتولقىندى پەش
+    kk-cn: مىيكروتولقىندى پەش
+    kk-cyrl: Микротолқынды пеш
+    kk-kz: Микротолқынды пеш
+    kk-latn: Mïkrotolqındı peş
+    kk-tr: Mïkrotolqındı peş
+    kn: ಮೈಕ್ರೋವೇವ್ ಓವನ್
+    ko: 전자레인지
+    ky: Кыска толкундуу меш
+    la: Furnus brevibus undis agens
+    lb: Mikrowell
+    lt: mikrobangų krosnelė
+    lv: mikroviļņu krāsns
+    mk: микробранова печка
+    ml: മൈക്രോവേവ് ഓവൻ
+    mrj: Микрокоэӓн камака
+    ms: Ketuhar gelombang mikro
+    nan: Bî-pho-lô͘
+    nb: mikrobølgeovn
+    nl: magnetron
+    nn: Mikrobølgjeomn
+    pdc: Nuukoffe
+    pl: Kuchenka mikrofalowa
+    pt: forno de micro-ondas
+    qu: T'unapillunya p'ukuru
+    ro: Cuptor cu microunde
+    ru: микроволновая печь
+    sh: Mikrotalasna peć
+    sk: Mikrovlnná rúra
+    sl: mikrovalovna pečica
+    sq: Mikrovala
+    sr: микроталасна пећ
+    sr-ec: Микроталасна пећ
+    sr-el: Mikrotalasna peć
+    sv: mikrovågsugn
+    sw: microwave oven
+    ta: நுண்ணலை அடுப்பு
+    te: మైక్రోవేవ్ ఓవెన్
+    tg: Дастгоҳи майкровейв
+    tg-latn: Dastgohi majkrovejv
+    th: เตาอบไมโครเวฟ
+    tr: Mikrodalga fırın
+    tt: Микродулкынлы пич
+    uk: мікрохвильова піч
+    ur: خردموجی چولہا
+    uz: Mikroto'lqinli pech
+    vi: Lò vi ba
+    war: Microwave oven
+    wuu: 微波炉
+    yue: 微波爐
+    zh: 微波炉
+    zh-cn: 微波炉
+    zh-hans: 微波炉
+    zh-hant: 微波爐
+    zh-hk: 微波爐
+    zh-sg: 微波炉
+    zh-tw: 微波爐
 ---
-
 # [[Microwave_Oven]] 
 
 #is_/same_as :: [[WD~Microwave_oven,127956]] 

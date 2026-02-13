@@ -1,112 +1,148 @@
 ---
 aliases:
-  - Bob Marley
-  - Robert Nesta Marley
-  - Marley,Bob
+- Bab Maali
+- Bob Maali
+- Bob Marley
+- Bob Marli
+- Bobs Mārlijs
+- jan Po Mali
+- Marley,Bob
+- Robert Nesta Marley
+- Robertus Marley
+- Μπομπ Μάρλεϊ
+- Боб Марлі
+- Боб Марли
+- Բոբ Մառլի
+- Պոպ Մարլի
+- בוב מארלי
+- باب مارلی
+- بوب مارلى
+- بوب مارلي
+- بۆب مارلی
+- बब मार्ली
+- बॉब मार्ले
+- বব মার্লে
+- বব মাৰ্লি
+- ਬਾਬ ਮਾਰਲੇ
+- பாப் மார்லி
+- బాబ్ మార్లే
+- ಬಾಬ್ ಮಾರ್ಲಿ
+- ബോബ് മാർലി
+- බොබ් මාලේ
+- บ็อบ มาร์เลย์
+- ဗောဗ်မာလေ
+- ბობ მარლი
+- ቦብ ማርሊ
+- ボブ・マーリー
+- 巴布·馬利
+- 巴布·马利
+- 巴布馬利
+- 밥 말리
+- "\U00010331\U00010349\U00010331 \U0001033C\U00010330\U00010342\U0001033E\U00010334\U00010339"
 has_id_wikidata: Q409
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Rastafari,101462]]'
-  - '[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]'
-  - '[[_Standards/WikiData/WD~Latin_Church,597526]]'
-  - '[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]'
+- '[[_Standards/WikiData/WD~Rastafari,101462]]'
+- '[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]'
+- '[[_Standards/WikiData/WD~Latin_Church,597526]]'
+- '[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Trojan_Records,126543]]'
-  - '[[_Standards/WikiData/WD~Island_Records,190585]]'
-  - '[[_Standards/WikiData/WD~Studio_One,568367]]'
-  - '[[_Standards/WikiData/WD~Tuff_Gong,1753057]]'
-  - '[[_Standards/WikiData/WD~Upsetter_Records,2322651]]'
-  - "[[_Standards/WikiData/WD~Beverley's_Records,3500796]]"
-  - '[[_Standards/WikiData/WD~Wail_N_Soul_M,43079882]]'
+- '[[_Standards/WikiData/WD~Trojan_Records,126543]]'
+- '[[_Standards/WikiData/WD~Island_Records,190585]]'
+- '[[_Standards/WikiData/WD~Studio_One,568367]]'
+- '[[_Standards/WikiData/WD~Tuff_Gong,1753057]]'
+- '[[_Standards/WikiData/WD~Upsetter_Records,2322651]]'
+- "[[_Standards/WikiData/WD~Beverley's_Records,3500796]]"
+- '[[_Standards/WikiData/WD~Wail_N_Soul_M,43079882]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~The_Isley_Brothers,178134]]'
-  - '[[_Standards/WikiData/WD~Jackie_Wilson,181483]]'
-  - '[[_Standards/WikiData/WD~Fats_Domino,209586]]'
-  - '[[_Standards/WikiData/WD~Marcus_Garvey,272504]]'
-  - '[[_Standards/WikiData/WD~Curtis_Mayfield,310170]]'
-  - '[[_Standards/WikiData/WD~Smokey_Robinson,310332]]'
-  - '[[_Standards/WikiData/WD~Prince_Buster,441161]]'
-  - '[[_Standards/WikiData/WD~Laurel_Aitken,536566]]'
-  - '[[_Standards/WikiData/WD~Coxsone_Dodd,542292]]'
-  - '[[_Standards/WikiData/WD~The_Skatalites,845449]]'
-  - '[[_Standards/WikiData/WD~The_Paragons,927618]]'
-  - '[[_Standards/WikiData/WD~John_Holt,1101296]]'
-  - '[[_Standards/WikiData/WD~The_Flamingos,1241507]]'
-  - '[[_Standards/WikiData/WD~Joe_Higgs,1691466]]'
-  - '[[_Standards/WikiData/WD~James_Brown,5950]]'
+- '[[_Standards/WikiData/WD~The_Isley_Brothers,178134]]'
+- '[[_Standards/WikiData/WD~Jackie_Wilson,181483]]'
+- '[[_Standards/WikiData/WD~Fats_Domino,209586]]'
+- '[[_Standards/WikiData/WD~Marcus_Garvey,272504]]'
+- '[[_Standards/WikiData/WD~Curtis_Mayfield,310170]]'
+- '[[_Standards/WikiData/WD~Smokey_Robinson,310332]]'
+- '[[_Standards/WikiData/WD~Prince_Buster,441161]]'
+- '[[_Standards/WikiData/WD~Laurel_Aitken,536566]]'
+- '[[_Standards/WikiData/WD~Coxsone_Dodd,542292]]'
+- '[[_Standards/WikiData/WD~The_Skatalites,845449]]'
+- '[[_Standards/WikiData/WD~The_Paragons,927618]]'
+- '[[_Standards/WikiData/WD~John_Holt,1101296]]'
+- '[[_Standards/WikiData/WD~The_Flamingos,1241507]]'
+- '[[_Standards/WikiData/WD~Joe_Higgs,1691466]]'
+- '[[_Standards/WikiData/WD~James_Brown,5950]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,1714745]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,1714745]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~melanoma,180614]]'
-  - '[[_Standards/WikiData/WD~brain_cancer,9303627]]'
-  - '[[_Standards/WikiData/WD~lung_cancer,47912]]'
+- '[[_Standards/WikiData/WD~melanoma,180614]]'
+- '[[_Standards/WikiData/WD~brain_cancer,9303627]]'
+- '[[_Standards/WikiData/WD~lung_cancer,47912]]'
 child:
-  - '[[_Standards/WikiData/WD~Ziggy_Marley,199418]]'
-  - '[[_Standards/WikiData/WD~Cedella_Marley,243113]]'
-  - '[[_Standards/WikiData/WD~Damian_Marley,310796]]'
-  - '[[_Standards/WikiData/WD~Sharon_Marley,437049]]'
-  - '[[_Standards/WikiData/WD~Stephen_Marley,468677]]'
-  - '[[_Standards/WikiData/WD~Julian_Marley,718404]]'
-  - '[[_Standards/WikiData/WD~Ky_Mani_Marley,741513]]'
-  - '[[_Standards/WikiData/WD~Rohan_Marley,1939373]]'
+- '[[_Standards/WikiData/WD~Ziggy_Marley,199418]]'
+- '[[_Standards/WikiData/WD~Cedella_Marley,243113]]'
+- '[[_Standards/WikiData/WD~Damian_Marley,310796]]'
+- '[[_Standards/WikiData/WD~Sharon_Marley,437049]]'
+- '[[_Standards/WikiData/WD~Stephen_Marley,468677]]'
+- '[[_Standards/WikiData/WD~Julian_Marley,718404]]'
+- '[[_Standards/WikiData/WD~Ky_Mani_Marley,741513]]'
+- '[[_Standards/WikiData/WD~Rohan_Marley,1939373]]'
 member_of:
-  - '[[_Standards/WikiData/WD~The_Upsetters,286596]]'
-  - '[[_Standards/WikiData/WD~Bob_Marley_&_The_Wailers,2525354]]'
+- '[[_Standards/WikiData/WD~The_Upsetters,286596]]'
+- '[[_Standards/WikiData/WD~Bob_Marley_&_The_Wailers,2525354]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 spouse: '[[_Standards/WikiData/WD~Rita_Marley,450423]]'
 mother: '[[_Standards/WikiData/WD~Cedella_Booker,470313]]'
 genre:
-  - '[[_Standards/WikiData/WD~rocksteady,573484]]'
-  - '[[_Standards/WikiData/WD~reggae,9794]]'
-  - '[[_Standards/WikiData/WD~ska,54365]]'
+- '[[_Standards/WikiData/WD~rocksteady,573484]]'
+- '[[_Standards/WikiData/WD~reggae,9794]]'
+- '[[_Standards/WikiData/WD~ska,54365]]'
 place_of_burial: '[[_Standards/WikiData/WD~Nine_Mile,1799655]]'
 place_of_birth: '[[_Standards/WikiData/WD~Nine_Mile,1799655]]'
 place_of_death: '[[_Standards/WikiData/WD~Jackson_Memorial_Hospital,3157429]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
-  - '[[_Standards/WikiData/WD~Nesta,59490000]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Nesta,59490000]]'
 different_from: '[[_Standards/WikiData/WD~Bob_Marley,4933255]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Marley,6771790]]'
 father: '[[_Standards/WikiData/WD~Norval_Marley,7060741]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]'
-  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Musicians,18699753]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Cannabis,21829700]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]'
+- '[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~WikiProject_Musicians,18699753]]'
+- '[[_Standards/WikiData/WD~WikiProject_Cannabis,21829700]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bob_Marley,10514235]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Bob_Marley,29025048]]'
 Plex_person_key: 5d7768698718ba001e31b43d
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 discography: '[[_Standards/WikiData/WD~Bob_Marley_discography,62081781]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 artist_files_at: '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 educated_at: '[[_Standards/WikiData/WD~Stepney_Primary_and_Junior_High_School,121141396]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Jamaica,766]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Jamaican_Patois,35939]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Jamaican_Patois,35939]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 social_media_followers:
-  - 5160000
-  - 1471841
+- 5160000
+- 1471841
 Commons_gallery: Bob Marley
 Commons_category: Bob Marley
 name_in_native_language: Bob Marley
@@ -117,23 +153,168 @@ date_of_birth: 1945-02-06T00:00:00Z
 official_website: http://www.bobmarley.com/
 X_Twitter_username: bobmarley
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bob-Star.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Marley%20plaque%2C%20Ridgmount%20Gardens%2C%20WC1%20%286321585399%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bob-Star.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Marley%20plaque%2C%20Ridgmount%20Gardens%2C%20WC1%20%286321585399%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Marley%201976%20press%20photo.jpg
 ISNI: 0000000122768131
 IPI_name_number:
-  - 00034755283
-  - 00581446340
+- 00034755283
+- 00581446340
 Libris_URI: 64jms2jq4v7p208
 P8189: 987007272305405171
 Facebook_username: BobMarley
 Wolfram_Language_entity_code:
-  - Entity["Concept", "BobMarley::7g7f2"]
-  - Entity["MusicAct", "BobMarley::4thrh"]
+- Entity["Concept", "BobMarley::7g7f2"]
+- Entity["MusicAct", "BobMarley::4thrh"]
 Krugosvet_article: kultura_i_obrazovanie/muzyka/MARLI_BOB.html
 birth_name: Robert Nesta Marley
+dv_has_:
+  name_:
+    af: Bob Marley
+    am: ቦብ ማርሊ
+    an: Bob Marley
+    ang: Bob Marley
+    ar: بوب مارلي
+    ary: بوب مارلي
+    arz: بوب مارلى
+    as: বব মাৰ্লি
+    ast: Bob Marley
+    ay: Bob Marley
+    az: Bob Marli
+    azb: باب مارلی
+    bar: Bob Marley
+    bcl: Bob Marley
+    be: Боб Марлі
+    be-tarask: Боб Марлі
+    bg: Боб Марли
+    bi: Bob Marley
+    bjn: Bob Marley
+    bn: বব মার্লে
+    br: Bob Marley
+    bs: Bob Marley
+    ca: Bob Marley
+    ckb: بۆب مارلی
+    co: Bob Marley
+    cs: Bob Marley
+    cv: Боб Марли
+    cy: Bob Marley
+    da: Bob Marley
+    de: Bob Marley
+    de-ch: Bob Marley
+    diq: Bob Marley
+    dtp: Bob Marley
+    el: Μπομπ Μάρλεϊ
+    en: Bob Marley
+    en-ca: Bob Marley
+    en-gb: Bob Marley
+    eo: Bob Marley
+    es: Bob Marley
+    et: Bob Marley
+    eu: Bob Marley
+    ext: Bob Marley
+    fa: باب مارلی
+    fi: Bob Marley
+    fo: Bob Marley
+    fon: Bob Marley
+    fr: Bob Marley
+    frp: Bob Marley
+    frr: Bob Marley
+    ga: Bob Marley
+    gl: Bob Marley
+    got: "\U00010331\U00010349\U00010331 \U0001033C\U00010330\U00010342\U0001033E\U00010334\U00010339"
+    gpe: Bob Marley
+    gsw: Bob Marley
+    ha: Bob Marley
+    he: בוב מארלי
+    hi: बॉब मार्ले
+    hr: Bob Marley
+    ht: Bob Marley
+    hu: Bob Marley
+    hy: Բոբ Մառլի
+    hyw: Պոպ Մարլի
+    id: Bob Marley
+    ig: Bob Marley
+    io: Bob Marley
+    is: Bob Marley
+    it: Bob Marley
+    ja: ボブ・マーリー
+    jam: Bab Maali
+    jv: Bob Marley
+    ka: ბობ მარლი
+    kbp: Bob Marley
+    kk: Боб Марли
+    kn: ಬಾಬ್ ಮಾರ್ಲಿ
+    ko: 밥 말리
+    ku: Bob Marley
+    la: Robertus Marley
+    lb: Bob Marley
+    lmo: Bob Marley
+    ln: Bob Marley
+    lrc: باب مارلی
+    lt: Bob Marley
+    lv: Bobs Mārlijs
+    mai: बब मार्ली
+    mg: Bob Marley
+    mk: Боб Марли
+    ml: ബോബ് മാർലി
+    mn: Боб Марли
+    mnw: ဗောဗ်မာလေ
+    ms: Bob Marley
+    mt: Bob Marley
+    mul: Bob Marley
+    nb: Bob Marley
+    nds: Bob Marley
+    nds-nl: Bob Marley
+    ne: बब मार्ली
+    nl: Bob Marley
+    nn: Bob Marley
+    oc: Bob Marley
+    os: Боб Марли
+    pa: ਬਾਬ ਮਾਰਲੇ
+    pap: Bob Marley
+    pl: Bob Marley
+    pms: Bob Marley
+    pnb: باب مارلی
+    pt: Bob Marley
+    pt-br: Bob Marley
+    qu: Bob Marley
+    ro: Bob Marley
+    ru: Боб Марли
+    rup: Bob Marley
+    sc: Bob Marley
+    scn: Bob Marley
+    sco: Bob Marley
+    sh: Bob Marley
+    shi: Bob Marley
+    si: බොබ් මාලේ
+    sk: Bob Marley
+    sl: Bob Marley
+    sq: Bob Marley
+    sr: Боб Марли
+    st: Bob Marley
+    sv: Bob Marley
+    sw: Bob Marley
+    szl: Bob Marley
+    ta: பாப் மார்லி
+    te: బాబ్ మార్లే
+    th: บ็อบ มาร์เลย์
+    tl: Bob Marley
+    tok: jan Po Mali
+    tr: Bob Marley
+    tw: Bob Maali
+    uk: Боб Марлі
+    uz: Bob Marley
+    vec: Bob Marley
+    vi: Bob Marley
+    wa: Bob Marley
+    war: Bob Marley
+    wuu: 巴布·马利
+    xmf: ბობ მარლი
+    yo: Bob Marley
+    yue: 巴布馬利
+    zea: Bob Marley
+    zh: 巴布·馬利
 ---
-
 # [[Marley,Bob]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bob_Marley,409|WD~Bob_Marley,409]] 

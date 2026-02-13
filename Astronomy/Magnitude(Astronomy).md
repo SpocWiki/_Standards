@@ -1,39 +1,139 @@
 ---
 aliases:
+- birtustig
+- büyüklük
+- cấp sao
+- hviezdna veľkosť
+- magnitud
+- Magnitud (astronomi)
+- magnituda
+- magnitude
+- magnitude astronómica
+- magnitudine
+- magnitudo
+- magnitú
+- maint
+- méid
+- spindesys
+- storleiksklasse
+- størrelsesklasse
+- wielkość gwiazdowa
+- zvaigžņlielums
+- çăлтăрла кап
+- μέγεθος
+- величина
+- жұлдыздық шама
+- звёздная величина
+- звездна величина
+- зорная велічыня
+- зоряна величина
+- Йондоҙ дәүмәле
+- кизилиё величина
+- магнитуда
+- աստղային մեծություն
+- בהירות
+- قدر
+- खगोलीय मैग्निट्यूड
+- കാന്തിമാനം
+- โชติมาตร
+- 星等
+- 等級
+- 등급
 has_id_wikidata: Q2028919
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~logarithmic_scale,937378]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~logarithmic_scale,937378]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>M</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>M</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
 Commons_category: Magnitude (astronomy)
 inception: -0128-01-01T00:00:00Z
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi><mo stretchy="false">&#x2212;</mo><mi>M</mi><mo stretchy="false">=</mo><mn>5</mn><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>1</mn><mn>0</mn></mrow></mrow></msub><mi>d</mi><mo stretchy="false">&#x2212;</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Magnitude,2028919]]"
-    - "[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]"
-    - "[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]"
-    - "[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]"
-    - "[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]"
-    - "[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]"
-    - "[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]"
-    - "[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]"
+  - '[[../WikiData/WD~Magnitude,2028919]]'
+  - '[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]'
+  - '[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]'
+  - '[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]'
+  - '[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]'
+  - '[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]'
+  - '[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]'
+  - '[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Magnitude,2028919]]"
-  - "[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]"
-  - "[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]"
-  - "[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]"
-  - "[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]"
-  - "[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]"
-  - "[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]"
-  - "[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]"
+- '[[../WikiData/WD~Magnitude,2028919]]'
+- '[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]'
+- '[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]'
+- '[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]'
+- '[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]'
+- '[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]'
+- '[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]'
+- '[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]'
+dv_has_:
+  name_:
+    af: magnitude
+    ar: قدر
+    ast: magnitú
+    ba: Йондоҙ дәүмәле
+    be: зорная велічыня
+    be-tarask: зорная велічыня
+    bg: звездна величина
+    bs: magnituda
+    ca: magnitud
+    cs: magnituda
+    cv: çăлтăрла кап
+    cy: maint
+    da: størrelsesklasse
+    de: Magnitude
+    el: μέγεθος
+    en: magnitude
+    en-ca: magnitude
+    en-gb: magnitude
+    es: magnitud
+    eu: magnitude
+    fa: قدر
+    fr: magnitude
+    ga: méid
+    gl: magnitude astronómica
+    he: בהירות
+    hi: खगोलीय मैग्निट्यूड
+    hr: magnituda
+    hy: աստղային մեծություն
+    id: magnitudo
+    is: birtustig
+    ja: 等級
+    kk: жұлдыздық шама
+    ko: 등급
+    lt: spindesys
+    lv: zvaigžņlielums
+    mk: величина
+    ml: കാന്തിമാനം
+    ms: Magnitud (astronomi)
+    nb: størrelsesklasse
+    nl: magnitude
+    nn: storleiksklasse
+    oc: magnitud
+    pl: wielkość gwiazdowa
+    pt: magnitude
+    pt-br: magnitude
+    ro: magnitudine
+    ru: звёздная величина
+    sh: magnituda
+    sk: hviezdna veľkosť
+    sl: magnituda
+    sr: магнитуда
+    th: โชติมาตร
+    tl: magnitud
+    tr: büyüklük
+    udm: кизилиё величина
+    uk: зоряна величина
+    vi: cấp sao
+    wuu: 星等
+    yue: 星等
+    zh: 星等
 ---
-
 # [[Magnitude(Astronomy)]] 
 
 #is_/same_as :: [[WD~Magnitude,2028919]] 

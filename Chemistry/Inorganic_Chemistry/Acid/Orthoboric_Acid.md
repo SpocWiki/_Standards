@@ -1,46 +1,105 @@
 ---
 aliases:
-  - Borsäure
-  - Boric acid
-  - Orthoboric_Acid
-  - Orthoboric Acid
+- Acid boric
+- Acid bòric
+- acide orthoborique
+- acido borico
+- aigéad bórach
+- Aksido Borico
+- Asam borat
+- Asem borat
+- asid borig
+- Asid borik
+- Asidi boriki
+- axit boric
+- Azido boriko
+- Boorhape
+- boorihappo
+- Boorsuur
+- boorzuur
+- Bor qışqılı
+- Borat kislota
+- borata acido
+- Boric acid
+- Borik asit
+- Borna kiselina
+- Boro rūgštis
+- borova kislina
+- borskābe
+- borsyra
+- borsyre
+- Borsäure
+- bórsav
+- kwas borowy
+- kyselina boritá
+- Orthoboric Acid
+- Orthoboric_Acid
+- Trenkenn vorek
+- àcid bòric
+- ácido bórico
+- Ácidu bórico
+- βορικό οξύ
+- Бор кислотасы
+- Бор қышқылы
+- Борна киселина
+- Борна кислота
+- Борная кіслата
+- борная кісьля
+- борная кислота
+- Բորաթթու
+- חומצה בורית
+- بور قىشقىلى
+- بورک ایسڈ
+- بوری تیزاب
+- بوریک اسید
+- حمض البوريك
+- टांकिकाम्ल
+- बोरिक आम्ल
+- போரிக் அமிலம்
+- బోరిక్ ఆమ్లం
+- ಬೋರಿಕ್ ಆಮ್ಲ
+- ബോറിക് ആസിഡ്
+- ბორმჟავა
+- ホウ酸
+- 硼酸
+- 붕산
 has_id_wikidata: Q187045
 RTECS_number: ED4550000
 chemical_formula:
-  - H₃BO₃
-  - BH₃O₃
+- H₃BO₃
+- BH₃O₃
 CSD_Refcode: JAGREP
 ATC_code:
-  - S02AA03
-  - D08AD
-found_in_taxon: "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+- S02AA03
+- D08AD
+found_in_taxon: '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
 has_use:
-  - "[[_Standards/WikiData/WD~insecticide,181322]]"
-  - "[[_Standards/WikiData/WD~food_preservative,6509670]]"
-  - "[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]"
+- '[[_Standards/WikiData/WD~insecticide,181322]]'
+- '[[_Standards/WikiData/WD~food_preservative,6509670]]'
+- '[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mineral_acid,408683]]"
-  - "[[_Standards/WikiData/WD~boron_oxoacid,73358092]]"
+- '[[_Standards/WikiData/WD~mineral_acid,408683]]'
+- '[[_Standards/WikiData/WD~boron_oxoacid,73358092]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 part_of:
-  - "[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]"
-  - "[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]"
-  - "[[_Standards/WikiData/WD~borate_transport,21135413]]"
-  - "[[_Standards/WikiData/WD~borate_binding,22314429]]"
-  - "[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]"
-  - "[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+- '[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]'
+- '[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]'
+- '[[_Standards/WikiData/WD~borate_transport,21135413]]'
+- '[[_Standards/WikiData/WD~borate_binding,22314429]]'
+- '[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]'
+- '[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~boron,618]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~boron,618]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 pKa:
-  - 9.2
-  - 9.14
+- 9.2
+- 9.14
 melting_point: 170.9
 CosIng_number: 32208
 PubChem_CID: 7628
@@ -63,33 +122,115 @@ MCN_code: 2810.00.10
 canonical_SMILES: B(O)(O)O
 Commons_category: Boric acid
 UMLS_CUI:
-  - C0006020
-  - C0892158
+- C0006020
+- C0892158
 DSSTOX_compound_identifier: DTXCID10194
 dv_has_:
   formula_: B(OH)³
+  name_:
+    af: Boorsuur
+    ar: حمض البوريك
+    ast: Ácidu bórico
+    azb: بوریک اسید
+    be: Борная кіслата
+    be-tarask: борная кісьля
+    bg: Борна киселина
+    br: Trenkenn vorek
+    ca: àcid bòric
+    cs: kyselina boritá
+    cy: asid borig
+    da: Borsyre
+    de: Borsäure
+    el: βορικό οξύ
+    en: orthoboric acid
+    eo: borata acido
+    es: ácido bórico
+    et: Boorhape
+    eu: Azido boriko
+    fa: بوریک اسید
+    fi: boorihappo
+    fr: acide orthoborique
+    ga: aigéad bórach
+    he: חומצה בורית
+    hi: टांकिकाम्ल
+    hu: bórsav
+    hy: Բորաթթու
+    id: Asam borat
+    it: acido borico
+    ja: ホウ酸
+    jv: Asem borat
+    ka: ბორმჟავა
+    kk: Бор қышқылы
+    kk-arab: بور قىشقىلى
+    kk-cn: بور قىشقىلى
+    kk-cyrl: Бор қышқылы
+    kk-kz: Бор қышқылы
+    kk-latn: Bor qışqılı
+    kk-tr: Bor qışqılı
+    kn: ಬೋರಿಕ್ ಆಮ್ಲ
+    ko: 붕산
+    ky: Бор кислотасы
+    lt: Boro rūgštis
+    lv: borskābe
+    mk: Борна киселина
+    ml: ബോറിക് ആസിഡ്
+    mr: बोरिक आम्ल
+    ms: Asid borik
+    nb: borsyre
+    nl: boorzuur
+    nn: borsyre
+    oc: Acid bòric
+    pl: kwas borowy
+    pnb: بورک ایسڈ
+    pt: ácido bórico
+    ro: Acid boric
+    ru: борная кислота
+    sco: boric acid
+    sh: Borna kiselina
+    sl: borova kislina
+    sr: борна киселина
+    sr-ec: Борна киселина
+    sr-el: Borna kiselina
+    sv: borsyra
+    sw: Asidi boriki
+    ta: போரிக் அமிலம்
+    te: బోరిక్ ఆమ్లం
+    tr: Borik asit
+    uk: Борна кислота
+    ur: بوری تیزاب
+    uz: Borat kislota
+    vi: axit boric
+    war: Aksido Borico
+    wuu: 硼酸
+    yue: 硼酸
+    zh: 硼酸
+    zh-cn: 硼酸
+    zh-hans: 硼酸
+    zh-hant: 硼酸
+    zh-hk: 硼酸
+    zh-sg: 硼酸
+    zh-tw: 硼酸
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Orthoboric_acid,187045]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]"
+  - '[[../../../WikiData/WD~Orthoboric_acid,187045]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]'
 dv_has_formula_: B(OH)³
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Orthoboric_acid,187045]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]"
+- '[[../../../WikiData/WD~Orthoboric_acid,187045]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]'
 ---
-
 # [[Orthoboric_Acid]] 
 
 has_formula_ = `=this.dv_has_formula_` 

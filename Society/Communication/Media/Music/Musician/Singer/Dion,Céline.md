@@ -1,126 +1,165 @@
 ---
 aliases:
-  - Céline Marie Claudette Dion
-  - Céline Dion
-  - Céline_Dion
-  - Celine Dion
+- Caelina Dion
+- Celine Dion
+- Cèline Dion
+- Céline Dion
+- Céline Dionová
+- Céline Marie Claudette Dion
+- Céline_Dion
+- Dion Selin
+- Selin Dion
+- Selina Diona
+- Σελίν Ντιόν
+- Селін Діон
+- Селін Дыён
+- Селин Дион
+- Сэлін Дыён
+- Սելին Դիոն
+- Սելին Տիոն
+- סלין דיון
+- סעלין דיאן
+- سلین دیون
+- سيلين ديون
+- سیلین ڈیون
+- سیلیٖن ڈِیون
+- سێلین دیۆن
+- सेलिन डियोन
+- সেলিন দিয়ঁ
+- ਸੇਲੀਨ ਦੀਓਨ
+- સેલિન ડીયોન
+- செலின் டியான்
+- సిలైన్ డియాన్
+- സെലീൻ ഡിയോൺ
+- เซลีน ดิออน
+- စလင်း ဒီယွန်
+- სელინ დიონი
+- ሴሊን ዲዮን
+- សេលីន ឌៀន
+- セリーヌ・ディオン
+- 塞利娜·迪翁
+- 席琳·狄翁
+- 席琳·迪翁
+- 絲蓮·迪安
+- 莎蓮·迪安
+- 셀린 디옹
 has_id_wikidata: Q5105
 influenced_by:
-  - "[[_Standards/WikiData/WD~Aretha_Franklin,125121]]"
-  - "[[_Standards/WikiData/WD~Bee_Gees,133405]]"
-  - "[[_Standards/WikiData/WD~Bonnie_Tyler,156491]]"
-  - "[[_Standards/WikiData/WD~Bette_Midler,190631]]"
-  - "[[_Standards/WikiData/WD~Carole_King,217787]]"
-  - "[[_Standards/WikiData/WD~Natalie_Cole,231942]]"
-  - "[[_Standards/WikiData/WD~Anne_Murray,236543]]"
-  - "[[_Standards/WikiData/WD~Judy_Collins,254576]]"
-  - "[[_Standards/WikiData/WD~Neil_Diamond,294531]]"
-  - "[[_Standards/WikiData/WD~Barry_Manilow,302762]]"
-  - "[[_Standards/WikiData/WD~Sheena_Easton,465977]]"
-  - "[[_Standards/WikiData/WD~Captain_&_Tennille,1035077]]"
-  - "[[_Standards/WikiData/WD~Stevie_Wonder,714]]"
-  - "[[_Standards/WikiData/WD~Édith_Piaf,1631]]"
-  - "[[_Standards/WikiData/WD~Elton_John,2808]]"
-  - "[[_Standards/WikiData/WD~Barbra_Streisand,4636]]"
-  - "[[_Standards/WikiData/WD~Cher,12003]]"
-  - "[[_Standards/WikiData/WD~Liza_Minnelli,14441]]"
-  - "[[_Standards/WikiData/WD~Freddie_Mercury,15869]]"
-  - "[[_Standards/WikiData/WD~Patti_LaBelle,31013]]"
-place_of_birth: "[[_Standards/WikiData/WD~Charlemagne,142017]]"
+- '[[_Standards/WikiData/WD~Aretha_Franklin,125121]]'
+- '[[_Standards/WikiData/WD~Bee_Gees,133405]]'
+- '[[_Standards/WikiData/WD~Bonnie_Tyler,156491]]'
+- '[[_Standards/WikiData/WD~Bette_Midler,190631]]'
+- '[[_Standards/WikiData/WD~Carole_King,217787]]'
+- '[[_Standards/WikiData/WD~Natalie_Cole,231942]]'
+- '[[_Standards/WikiData/WD~Anne_Murray,236543]]'
+- '[[_Standards/WikiData/WD~Judy_Collins,254576]]'
+- '[[_Standards/WikiData/WD~Neil_Diamond,294531]]'
+- '[[_Standards/WikiData/WD~Barry_Manilow,302762]]'
+- '[[_Standards/WikiData/WD~Sheena_Easton,465977]]'
+- '[[_Standards/WikiData/WD~Captain_&_Tennille,1035077]]'
+- '[[_Standards/WikiData/WD~Stevie_Wonder,714]]'
+- '[[_Standards/WikiData/WD~Édith_Piaf,1631]]'
+- '[[_Standards/WikiData/WD~Elton_John,2808]]'
+- '[[_Standards/WikiData/WD~Barbra_Streisand,4636]]'
+- '[[_Standards/WikiData/WD~Cher,12003]]'
+- '[[_Standards/WikiData/WD~Liza_Minnelli,14441]]'
+- '[[_Standards/WikiData/WD~Freddie_Mercury,15869]]'
+- '[[_Standards/WikiData/WD~Patti_LaBelle,31013]]'
+place_of_birth: '[[_Standards/WikiData/WD~Charlemagne,142017]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Epic_Records,216364]]"
-  - "[[_Standards/WikiData/WD~Legacy_Recordings,2358400]]"
-  - "[[_Standards/WikiData/WD~550_Music,4352944]]"
-  - "[[_Standards/WikiData/WD~CBS_Records_International,5009264]]"
-  - "[[_Standards/WikiData/WD~Sony_Music_Canada,10366566]]"
-  - "[[_Standards/WikiData/WD~Sony_BMG,56826329]]"
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Epic_Records,216364]]'
+- '[[_Standards/WikiData/WD~Legacy_Recordings,2358400]]'
+- '[[_Standards/WikiData/WD~550_Music,4352944]]'
+- '[[_Standards/WikiData/WD~CBS_Records_International,5009264]]'
+- '[[_Standards/WikiData/WD~Sony_Music_Canada,10366566]]'
+- '[[_Standards/WikiData/WD~Sony_BMG,56826329]]'
 sponsor:
-  - "[[_Standards/WikiData/WD~Air_Canada,185339]]"
-  - "[[_Standards/WikiData/WD~Caesars_Palace,569978]]"
-  - "[[_Standards/WikiData/WD~Coty,1104787]]"
+- '[[_Standards/WikiData/WD~Air_Canada,185339]]'
+- '[[_Standards/WikiData/WD~Caesars_Palace,569978]]'
+- '[[_Standards/WikiData/WD~Coty,1104787]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Queen_Elizabeth_II_Diamond_Jubilee_Medal,194540]]"
-  - "[[_Standards/WikiData/WD~Banff_World_Media_Festival,386573]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals,747902]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]"
-  - "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933]]"
-  - "[[_Standards/WikiData/WD~Chopard_Diamond_award,861051]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]"
-  - "[[_Standards/WikiData/WD~Queen_Elizabeth_II_Golden_Jubilee_Medal,1581457]]"
-  - "[[_Standards/WikiData/WD~Blockbuster_Entertainment_Awards,2906822]]"
-  - "[[_Standards/WikiData/WD~Q3334517,3334517]]"
-  - "[[_Standards/WikiData/WD~Q3334536,3334536]]"
-  - "[[_Standards/WikiData/WD~Order_of_La_Pléiade,3355657]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Adult_Contemporary_Artist,4744483]]"
-  - "[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Arion_Music_Awards,12881254]]"
-  - "[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]"
-  - "[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_National_Order_of_Quebec,15464524]]"
-  - "[[_Standards/WikiData/WD~Victory_for_the_French_speaking_performing_artist_or_group,16682530]]"
-  - "[[_Standards/WikiData/WD~Victoire_de_la_chanson_originale_de_l'année,16682538]]"
-  - "[[_Standards/WikiData/WD~Billboard_Music_Award_for_Icon,16889162]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_at_the_Laval_University,51527076]]"
-  - "[[_Standards/WikiData/WD~First_prize_of_the_Eurovision_Song_Contest,101421673]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]"
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_II_Diamond_Jubilee_Medal,194540]]'
+- '[[_Standards/WikiData/WD~Banff_World_Media_Festival,386573]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals,747902]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]'
+- "[[_Standards/WikiData/WD~Canada's_Walk_of_Fame,857933]]"
+- '[[_Standards/WikiData/WD~Chopard_Diamond_award,861051]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_II_Golden_Jubilee_Medal,1581457]]'
+- '[[_Standards/WikiData/WD~Blockbuster_Entertainment_Awards,2906822]]'
+- '[[_Standards/WikiData/WD~Q3334517,3334517]]'
+- '[[_Standards/WikiData/WD~Q3334536,3334536]]'
+- '[[_Standards/WikiData/WD~Order_of_La_Pléiade,3355657]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Adult_Contemporary_Artist,4744483]]'
+- '[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Arion_Music_Awards,12881254]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_National_Order_of_Quebec,15464524]]'
+- '[[_Standards/WikiData/WD~Victory_for_the_French_speaking_performing_artist_or_group,16682530]]'
+- "[[_Standards/WikiData/WD~Victoire_de_la_chanson_originale_de_l'année,16682538]]"
+- '[[_Standards/WikiData/WD~Billboard_Music_Award_for_Icon,16889162]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_at_the_Laval_University,51527076]]'
+- '[[_Standards/WikiData/WD~First_prize_of_the_Eurovision_Song_Contest,101421673]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]'
 genre:
-  - "[[_Standards/WikiData/WD~dance_pop,211756]]"
-  - "[[_Standards/WikiData/WD~soft_rock,217191]]"
-  - "[[_Standards/WikiData/WD~adult_contemporary_music,378988]]"
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~electronic_dance_music,851213]]"
-  - "[[_Standards/WikiData/WD~chanson,1062400]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-spouse: "[[_Standards/WikiData/WD~René_Angélil,554560]]"
-medical_condition: "[[_Standards/WikiData/WD~stiff_person_syndrome,1235785]]"
-copyright_representative: "[[_Standards/WikiData/WD~Society_of_Composers,_Authors_and_Music_Publishers_of_Canada,2207432]]"
+- '[[_Standards/WikiData/WD~dance_pop,211756]]'
+- '[[_Standards/WikiData/WD~soft_rock,217191]]'
+- '[[_Standards/WikiData/WD~adult_contemporary_music,378988]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~electronic_dance_music,851213]]'
+- '[[_Standards/WikiData/WD~chanson,1062400]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
+spouse: '[[_Standards/WikiData/WD~René_Angélil,554560]]'
+medical_condition: '[[_Standards/WikiData/WD~stiff_person_syndrome,1235785]]'
+copyright_representative: '[[_Standards/WikiData/WD~Society_of_Composers,_Authors_and_Music_Publishers_of_Canada,2207432]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Claudette_Dion,2978381]]"
-  - "[[_Standards/WikiData/WD~Bakhano_Dion,3371080]]"
-  - "[[_Standards/WikiData/WD~Jacques_Dion,113546464]]"
-filmography: "[[_Standards/WikiData/WD~Celine_Dion_videography,4919760]]"
-list_of_works: "[[_Standards/WikiData/WD~list_of_Celine_Dion_concert_tours,6566448]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~Claudette_Dion,2978381]]'
+- '[[_Standards/WikiData/WD~Bakhano_Dion,3371080]]'
+- '[[_Standards/WikiData/WD~Jacques_Dion,113546464]]'
+filmography: '[[_Standards/WikiData/WD~Celine_Dion_videography,4919760]]'
+list_of_works: '[[_Standards/WikiData/WD~list_of_Celine_Dion_concert_tours,6566448]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Celine_Dion_songs,6867076]]"
-  - "[[_Standards/WikiData/WD~Template_Celine_Dion,10950329]]"
-mother: "[[_Standards/WikiData/WD~Thérèse_Dion,7799899]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-given_name: "[[_Standards/WikiData/WD~Céline,18147692]]"
-family_name: "[[_Standards/WikiData/WD~Dion,23805597]]"
+- '[[_Standards/WikiData/WD~Template_Celine_Dion_songs,6867076]]'
+- '[[_Standards/WikiData/WD~Template_Celine_Dion,10950329]]'
+mother: '[[_Standards/WikiData/WD~Thérèse_Dion,7799899]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+given_name: '[[_Standards/WikiData/WD~Céline,18147692]]'
+family_name: '[[_Standards/WikiData/WD~Dion,23805597]]'
 child:
-  - "[[_Standards/WikiData/WD~René_Charles_Angelil,24084717]]"
-  - "[[_Standards/WikiData/WD~Eddy_Angélil,116827463]]"
-  - "[[_Standards/WikiData/WD~Nelson_Angélil,116827582]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-eye_color: "[[_Standards/WikiData/WD~light_brown,79399164]]"
-hair_color: "[[_Standards/WikiData/WD~light_brown_hair,79483632]]"
-father: "[[_Standards/WikiData/WD~Adhémar_Dion,96241888]]"
+- '[[_Standards/WikiData/WD~René_Charles_Angelil,24084717]]'
+- '[[_Standards/WikiData/WD~Eddy_Angélil,116827463]]'
+- '[[_Standards/WikiData/WD~Nelson_Angélil,116827582]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+eye_color: '[[_Standards/WikiData/WD~light_brown,79399164]]'
+hair_color: '[[_Standards/WikiData/WD~light_brown_hair,79483632]]'
+father: '[[_Standards/WikiData/WD~Adhémar_Dion,96241888]]'
 residence:
-  - "[[_Standards/WikiData/WD~Montreal,340]]"
-  - "[[_Standards/WikiData/WD~Las_Vegas,23768]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~Henderson,49267]]"
+- '[[_Standards/WikiData/WD~Montreal,340]]'
+- '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Henderson,49267]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-voice_type: "[[_Standards/WikiData/WD~soprano,30903]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Canada,16]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+voice_type: '[[_Standards/WikiData/WD~soprano,30903]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Canada,16]]'
 number_of_children: 3
 ISNI:
-  - "0000000073642195"
-  - "0000000368452348"
-IPI_name_number: "00049577340"
+- 0000000073642195
+- 0000000368452348
+IPI_name_number: 00049577340
 Plex_person_key: 5d7768254de0ee001fcc832e
 Europeana_entity: agent/base/62086
 Commons_gallery: Céline Dion
@@ -130,28 +169,187 @@ X_Twitter_username: celinedion
 TikTok_username: celinedion
 Facebook_username: celinedion
 IPA_transcription:
-  - seɪˌliːn diˈɒnh
-  - selin maʁi klodɛt djɔ̃
+- seɪˌliːn diˈɒnh
+- selin maʁi klodɛt djɔ̃
 birth_name: Céline Marie Claudette Dion
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20star.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20Star%20on%20Canada%27s%20Walk%20of%20Fame.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20star.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20Star%20on%20Canada%27s%20Walk%20of%20Fame.jpg
 net_worth: 400000000
 height: 1.7
-discography: "[[_Standards/WikiData/WD~Celine_Dion_discography,50638]]"
-P1015: "1095072"
+discography: '[[_Standards/WikiData/WD~Celine_Dion_discography,50638]]'
+P1015: 1095072
 social_media_followers: 937658
 date_of_birth: 1968-03-30T00:00:00Z
 name_in_native_language: Céline Dion
 work_period_start_: 1980-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line%20Dion%202012.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20by%20Linda%20Bisset.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line%20Dion%202012.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20by%20Linda%20Bisset.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Logo.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-C%C3%A9line-Dion.oga
 official_website: https://celinedion.com
+dv_has_:
+  name_:
+    af: Céline Dion
+    am: ሴሊን ዲዮን
+    an: Céline Dion
+    ar: سيلين ديون
+    arz: سيلين ديون
+    ast: Céline Dion
+    az: Selin Dion
+    azb: سلین دیون
+    bcl: Celine Dion
+    be: Селін Дыён
+    be-tarask: Сэлін Дыён
+    bg: Селин Дион
+    bi: Céline Dion
+    bjn: Celine Dion
+    bn: সেলিন দিয়ঁ
+    br: Céline Dion
+    bs: Céline Dion
+    ca: Céline Dion
+    ceb: Celine Dion
+    ckb: سێلین دیۆن
+    co: Céline Dion
+    cs: Céline Dion
+    csb: Céline Dion
+    cy: Céline Dion
+    da: Céline Dion
+    de: Céline Dion
+    de-ch: Céline Dion
+    diq: Celine Dion
+    dsb: Céline Dion
+    dtp: Celine Dion
+    dty: सेलिन डियोन
+    el: Σελίν Ντιόν
+    eml: Céline Dion
+    en: Céline Dion
+    en-ca: Céline Dion
+    en-gb: Céline Dion
+    en-us: Céline Dion
+    eo: Céline Dion
+    es: Céline Dion
+    et: Céline Dion
+    eu: Céline Dion
+    fa: سلین دیون
+    fi: Céline Dion
+    fo: Céline Dion
+    fon: Céline Dion
+    fr: Céline Dion
+    frp: Céline Dion
+    fur: Céline Dion
+    fy: Céline Dion
+    ga: Céline Dion
+    gl: Céline Dion
+    gu: સેલિન ડીયોન
+    ha: Celine Dion
+    he: סלין דיון
+    hr: Céline Dion
+    hsb: Céline Dion
+    ht: Céline Dion
+    hu: Céline Dion
+    hy: Սելին Դիոն
+    hyw: Սելին Տիոն
+    ia: Celine Dion
+    id: Celine Dion
+    ie: Céline Dion
+    ig: Celine Dion
+    io: Céline Dion
+    is: Céline Dion
+    it: Céline Dion
+    ja: セリーヌ・ディオン
+    jam: Céline Dion
+    jv: Celine Dion
+    ka: სელინ დიონი
+    kk: Селин Дион
+    kl: Céline Dion
+    km: សេលីន ឌៀន
+    knc: Celine Dion
+    ko: 셀린 디옹
+    ks: سیلیٖن ڈِیون
+    ku: Céline Dion
+    kw: Céline Dion
+    la: Caelina Dion
+    lb: Céline Dion
+    li: Céline Dion
+    lmo: Céline Dion
+    lt: Céline Dion
+    lua: Céline Dion
+    lv: Selina Diona
+    mai: सेलिन डियोन
+    mg: Celine Dion
+    mi: Céline Dion
+    mk: Селин Дион
+    ml: സെലീൻ ഡിയോൺ
+    mn: Селин Дион
+    ms: Celine Dion
+    mt: Celine Dion
+    mul: Céline Dion
+    mwl: Céline Dion
+    my: စလင်း ဒီယွန်
+    mzn: سلین دیون
+    nah: Céline Dion
+    nan: Céline Dion
+    nap: Céline Dion
+    nb: Céline Dion
+    nds: Celine Dion
+    ne: सेलिन डियोन
+    nl: Céline Dion
+    nn: Céline Dion
+    oc: Céline Dion
+    os: Селин Дион
+    pa: ਸੇਲੀਨ ਦੀਓਨ
+    pap: Céline Dion
+    pcd: Céline Dion
+    pdc: Céline Dion
+    pl: Céline Dion
+    pms: Céline Dion
+    pt: Céline Dion
+    pt-br: Céline Dion
+    qu: Céline Dion
+    ro: Céline Dion
+    ru: Селин Дион
+    rw: Celine Dion
+    ryu: セリーヌ・ディオン
+    sc: Cèline Dion
+    scn: Céline Dion
+    sco: Celine Dion
+    sh: Celine Dion
+    sk: Céline Dionová
+    sl: Céline Dion
+    so: Céline Dion
+    sq: Celine Dion
+    sr: Селин Дион
+    su: Celine Dion
+    sv: Céline Dion
+    sw: Celine Dion
+    ta: செலின் டியான்
+    te: సిలైన్ డియాన్
+    th: เซลีน ดิออน
+    tl: Celine Dion
+    tn: Celine Dion
+    tr: Celine Dion
+    uk: Селін Діон
+    ur: سیلین ڈیون
+    uz: Céline Dion
+    vec: Céline Dion
+    vep: Dion Selin
+    vi: Céline Dion
+    war: Celine Dion
+    wuu: 席琳·迪翁
+    yi: סעלין דיאן
+    yo: Celine Dion
+    yue: 絲蓮·迪安
+    zea: Céline Dion
+    zh: 席琳·狄翁
+    zh-hans: 席琳·迪翁
+    zh-hant: 席琳·狄翁
+    zh-my: 莎蓮·迪安
+    zh-sg: 塞利娜·迪翁
+    zh-tw: 席琳·狄翁
+    zu: Celine Dion
 ---
-
 # [[Dion,Céline]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Céline_Dion,5105|WD~Céline_Dion,5105]] 

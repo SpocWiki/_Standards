@@ -1,27 +1,169 @@
 ---
-has_time_started: 1940-01-01 
-has_time_stopped: 1960-01-01 
+has_time_started: 1940-01-01
+has_time_stopped: 1960-01-01
 aliases:
-  - Third Agricultural Revolution
-  - green revolution
-  - Green_Revolution
-  - Green Revolution
+- Cách mạng xanh
+- Den grønne revolusjonen
+- green revolution
+- Green_Revolution
+- Groen rewolusie
+- Groene revolutie
+- Gröna revolutionen
+- Grüne Revolution
+- Iraultza berdea
+- Jasıl revolyucïya
+- Le̍k-sek kek-bēng
+- Rebolusyong Berde
+- Res novae virides
+- Revolució Verda
+- Revolución verde
+- Revolusi Hijau
+- Revolusi Héjo
+- Revolução verde
+- Revoluția verde
+- Revôlisiôna Maitso
+- rivoluzione verde
+- Roheline revolutsioon
+- Révolution verte
+- Third Agricultural Revolution
+- Verda revolucio
+- vihreä vallankumous
+- Yaşıl İnqilab
+- Yeşil Devrim
+- Zelena revolucija
+- Zelená revoluce
+- zelená revolúcia
+- Zielona rewolucja
+- zöld forradalom
+- Žalioji revoliucija
+- Πράσινη επανάσταση
+- Жасыл революция
+- Зелёная революция
+- Зелена револуција
+- Зелена революція
+- Зелена революция
+- Зялёная рэвалюцыя
+- Ногоон хувьсгал
+- Կանաչ հեղափոխություն
+- המהפכה הירוקה
+- الثورة الخضراء
+- انقلاب سبز
+- جاسىل رەۆوليۋتسىييا
+- شین انقلاب
+- ہرا انقلاب
+- हरित क्रांति
+- हरितक्रांती
+- সেউজ বিপ্লব
+- ਹਰਾ ਇਨਕਲਾਬ
+- பசுமைப் புரட்சி
+- హరిత విప్లవం
+- ഹരിതവിപ്ലവം
+- හරිත විප්ලවය
+- การปฏิวัติเขียว
+- მწვანე რევოლუცია
+- បដិវត្តន៍បៃតង
+- 綠色革命
+- 緑の革命
+- 绿色革命
+- 녹색 혁명
 has_id_wikidata: Q186050
 start_time: 1940-01-01
 end_time: 1960-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irrigation1.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~agricultural_revolution,6499967]]'
+- '[[_Standards/WikiData/WD~agricultural_revolution,6499967]]'
 OmegaWiki_Defined_Meaning: 1692
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 participant:
-  - '[[_Standards/WikiData/WD~Norman_Borlaug,154824]]'
-  - '[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426]]'
+- '[[_Standards/WikiData/WD~Norman_Borlaug,154824]]'
+- '[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426]]'
 subclass_of: '[[_Standards/WikiData/WD~change,1150070]]'
 Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
+dv_has_:
+  name_:
+    af: Groen rewolusie
+    ar: الثورة الخضراء
+    as: সেউজ বিপ্লব
+    ast: Revolución verde
+    az: Yaşıl İnqilab
+    be-tarask: Зялёная рэвалюцыя
+    bg: Зелена революция
+    bho: हरित क्रांति
+    ca: Revolució Verda
+    cs: Zelená revoluce
+    de: Grüne Revolution
+    el: Πράσινη επανάσταση
+    en: Green Revolution
+    en-ca: Green Revolution
+    en-gb: Green Revolution
+    eo: Verda revolucio
+    es: Revolución verde
+    et: Roheline revolutsioon
+    eu: Iraultza berdea
+    fa: انقلاب سبز
+    fi: vihreä vallankumous
+    fr: Révolution verte
+    gl: Revolución verde
+    he: המהפכה הירוקה
+    hi: हरित क्रांति
+    hu: zöld forradalom
+    hy: Կանաչ հեղափոխություն
+    id: Revolusi Hijau
+    it: rivoluzione verde
+    ja: 緑の革命
+    ka: მწვანე რევოლუცია
+    kk: Жасыл революция
+    kk-arab: جاسىل رەۆوليۋتسىييا
+    kk-cn: جاسىل رەۆوليۋتسىييا
+    kk-cyrl: Жасыл революция
+    kk-kz: Жасыл революция
+    kk-latn: Jasıl revolyucïya
+    kk-tr: Jasıl revolyucïya
+    km: បដិវត្តន៍បៃតង
+    ko: 녹색 혁명
+    la: Res novae virides
+    lt: Žalioji revoliucija
+    mg: Revôlisiôna Maitso
+    mk: Зелена револуција
+    ml: ഹരിതവിപ്ലവം
+    mn: Ногоон хувьсгал
+    mr: हरितक्रांती
+    nan: Le̍k-sek kek-bēng
+    nb: Den grønne revolusjonen
+    nl: Groene revolutie
+    pa: ਹਰਾ ਇਨਕਲਾਬ
+    pl: Zielona rewolucja
+    pnb: ہرا انقلاب
+    ps: شین انقلاب
+    pt: Revolução verde
+    pt-br: Revolução verde
+    ro: Revoluția verde
+    ru: Зелёная революция
+    sh: Zelena revolucija
+    si: හරිත විප්ලවය
+    sk: zelená revolúcia
+    sl: zelena revolucija
+    sr: Zelena revolucija
+    su: Revolusi Héjo
+    sv: Gröna revolutionen
+    ta: பசுமைப் புரட்சி
+    te: హరిత విప్లవం
+    th: การปฏิวัติเขียว
+    tl: Rebolusyong Berde
+    tr: Yeşil Devrim
+    uk: Зелена революція
+    ur: green revolution
+    vi: Cách mạng xanh
+    yue: 綠色革命
+    zh: 绿色革命
+    zh-cn: 绿色革命
+    zh-hans: 绿色革命
+    zh-hant: 綠色革命
+    zh-hk: 綠色革命
+    zh-sg: 绿色革命
+    zh-tw: 綠色革命
 ---
-
 # [[1940-Green_Revolution+1960]] 
 
 #has_/time_/started :: 1940-06 

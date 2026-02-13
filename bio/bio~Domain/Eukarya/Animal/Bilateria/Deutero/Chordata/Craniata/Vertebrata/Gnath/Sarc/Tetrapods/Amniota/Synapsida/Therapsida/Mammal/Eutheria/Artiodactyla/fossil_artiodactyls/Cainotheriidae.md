@@ -1,8 +1,45 @@
 ---
 aliases:
-  - Cainotheriidae
+- Cainotheriidae
+- وحشيات حديثة
+- 新兽科
 title: Cainotheriidae
 has_id_wikidata: Q5739355
+dv_has_:
+  name_:
+    ar: وحشيات حديثة
+    ast: Cainotheriidae
+    bg: Cainotheriidae
+    ceb: Cainotheriidae
+    da: Cainotheriidae
+    de: Cainotheriidae
+    en: Cainotheriidae
+    es: Cainotheriidae
+    fi: Cainotheriidae
+    fr: Cainotheriidae
+    ga: Cainotheriidae
+    ia: Cainotheriidae
+    it: Cainotheriidae
+    la: Cainotheriidae
+    mul: Cainotheriidae
+    nb: Cainotheriidae
+    nl: Cainotheriidae
+    nn: Cainotheriidae
+    pl: Cainotheriidae
+    pt: Cainotheriidae
+    pt-br: Cainotheriidae
+    ro: Cainotheriidae
+    ru: Cainotheriidae
+    sq: Cainotheriidae
+    sv: Cainotheriidae
+    tr: Cainotheriidae
+    uk: Cainotheriidae
+    vec: Cainotheriidae
+    vi: Cainotheriidae
+    war: Cainotheriidae
+    zh: 新兽科
+    zh-cn: 新兽科
+    zh-hans: 新兽科
 ---
 # Cainotheriidae 
 

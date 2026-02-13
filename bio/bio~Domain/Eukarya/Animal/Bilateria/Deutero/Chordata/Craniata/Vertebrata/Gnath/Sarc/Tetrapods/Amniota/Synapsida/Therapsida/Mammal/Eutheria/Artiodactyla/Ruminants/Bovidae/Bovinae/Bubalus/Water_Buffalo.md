@@ -1,60 +1,166 @@
 ---
 aliases:
-  - water buffalo
-  - Bubalus bubalis
-  - domestic water buffalo
-  - Asian water buffalo
-  - Asiatic water buffalo
-  - Wasserbüffel
-  - Water_Buffalo
-  - Water Buffalo
-  - Keubeue
-  - búfalu acuáticu
-  - Asiatischer Büffel
-  - Hauswasserbüffel
-  - Asian Water Buffalo
-  - Kabau
-  - indijski bivol
-  - vodni bivol
-  - Carabao
-  - Asian buffalo
-  - Wild Water Buffalo
-  - Kerbau
+- Akvobubalo
+- Asian buffalo
+- Asian water buffalo
+- Asiar bufalo
+- Asiatic water buffalo
+- Asiatischer Büffel
+- Asiya camışı
+- Asya mandası
+- Ayadol (Bubalus bubalis)
+- Azijinis buivolas
+- Bawół domowy
+- Bivol indian
+- buabhall uisce
+- Bual Azia
+- Buallica
+- Bubalus bubalis
+- Bufalo
+- bufalo de aqua
+- bufalo indiano
+- buffle domestique
+- buvol domácí
+- Buyvollar
+- Byfflo Dŵr
+- Byvol arni
+- búfal asiàtic domèstic
+- Búfalo
+- búfalo-asiático
+- búfalu acuáticu
+- Camusê Asya
+- Carabao
+- Chúi-gû
+- domestic water buffalo
+- Gamêş
+- Hadangan
+- Hauswasserbüffel
+- Horbo
+- házi vízibivaly
+- indijski bivol
+- Kabau
+- Karabaw
+- kebo
+- Kerabau
+- Kerbau
+- kerbhuy
+- Keubeue
+- keubeuë
+- kõɔŋ dobaa
+- Munding
+- Nyati-maji
+- Olobu
+- Orbo
+- sakimkim
+- Talhamust n waman
+- tam vannbøffel
+- Trâu
+- Tábąąh béégashii
+- Vaiz
+- Vandbøffel
+- Vatnabuffall
+- Vattenbuffel
+- vesipuhveli
+- vesipühvel
+- Vodeni bivol
+- vodni bivol
+- Vufero
+- Waasserbüffel
+- Wasserbüffel
+- water buffalo
+- waterbuffel
+- Water_Buffalo
+- Weederbüfel
+- Wild Water Buffalo
+- Öröbao
+- ūdens bifelis
+- νεροβούβαλος
+- Азиаг къамбец
+- Азиатский буйвол
+- Азиэ хыв
+- Акамбашь
+- бивол
+- Буйвол
+- бык бавал
+- водени биво
+- Водяний буйвіл
+- Гамущ
+- Говмеш
+- домашен бивол
+- Ասիական գոմեշ
+- תאו מים
+- بھینس
+- جاموس الماء
+- جامیشلار
+- مجھ
+- منجھ
+- مينهن
+- مٲنٛش
+- کرباو
+- گاومیش
+- گومش
+- भँइस
+- भैँसी
+- भैंस
+- भैसो
+- महिषः
+- मेय्
+- म्हैस
+- বনৰীয়া ম’হ
+- মহিষ
+- ਮੱਝ
+- ભેંસ
+- எருமை (கால்நடை)
+- గేదె
+- ಎಮ್ಮೆ
+- ಎರ್ಮೆ
+- പോത്ത്
+- මී හරකා
+- ควาย
+- ຄວາຍ
+- མ་ཧེ།
+- ကျွဲ
+- ၵႂၢႆး
+- წყლის კამეჩი
+- ᱠᱟᱰᱟ
+- スイギュウ
+- 水牛
+- 물소
 has_id_wikidata: Q42710
 Gujarati_Vishwakosh_entry: ભેંસ
 taxon_common_name:
-  - Keubeue
-  - búfalu acuáticu
-  - Asiatischer Büffel
-  - Hauswasserbüffel
-  - Asian Water Buffalo
-  - Kabau
-  - indijski bivol
-  - vodni bivol
-  - Carabao
-  - Wasserbüffel
-  - Water Buffalo
-  - Asian buffalo
-  - Wild Water Buffalo
-  - Kerbau
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bubalus,83521]]"
-subclass_of: "[[_Standards/WikiData/WD~cattle,4767951]]"
+- Keubeue
+- búfalu acuáticu
+- Asiatischer Büffel
+- Hauswasserbüffel
+- Asian Water Buffalo
+- Kabau
+- indijski bivol
+- vodni bivol
+- Carabao
+- Wasserbüffel
+- Water Buffalo
+- Asian buffalo
+- Wild Water Buffalo
+- Kerbau
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bubalus,83521]]'
+subclass_of: '[[_Standards/WikiData/WD~cattle,4767951]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~water_buffalo_milk,7224064]]"
-  - "[[_Standards/WikiData/WD~water_buffalo_horn,104414312]]"
-  - "[[_Standards/WikiData/WD~water_buffalo_meat,104586325]]"
-  - "[[_Standards/WikiData/WD~Water_buffalo_milk,135966254]]"
-described_by_source: "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-original_combination: "[[_Standards/WikiData/WD~Bos_bubalis,109646856]]"
+- '[[_Standards/WikiData/WD~water_buffalo_milk,7224064]]'
+- '[[_Standards/WikiData/WD~water_buffalo_horn,104414312]]'
+- '[[_Standards/WikiData/WD~water_buffalo_meat,104586325]]'
+- '[[_Standards/WikiData/WD~Water_buffalo_milk,135966254]]'
+described_by_source: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Bos_bubalis,109646856]]'
 named_after:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 invasive_to:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 gestation_period: 320
 longest_observed_lifespan: 34.9
 OmegaWiki_Defined_Meaning: 529788
@@ -68,21 +174,191 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/2004bu
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bubalo%20en%20Quang%20Ngai.webm
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Kebo.wav
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wasserb%C3%BCffel%20%2825787818312%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Buffal%2CSylhet%2001.jpg
-Unicode_character: 🐃
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wasserb%C3%BCffel%20%2825787818312%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Buffal%2CSylhet%2001.jpg
+Unicode_character: "\U0001F403"
 UNII: ASI61MC64Z
 EPPO_Code: BUBABU
 GenBank_assembly_accession_number:
-  - GCA_000180995.3
-  - GCA_002993835.1
-  - GCA_003121395.1
-  - GCA_004794615.1
-  - GCA_019923925.1
-  - GCA_019923935.1
+- GCA_000180995.3
+- GCA_002993835.1
+- GCA_003121395.1
+- GCA_004794615.1
+- GCA_019923925.1
+- GCA_019923935.1
 NBN_System_Key: NHMSYS0020975275
+dv_has_:
+  name_:
+    ab: Акамбашь
+    ace: keubeuë
+    af: Bubalus bubalis
+    an: Bubalus bubalis
+    ar: جاموس الماء
+    arz: جاموس الماء
+    as: বনৰীয়া ম’হ
+    ast: Bubalus bubalis
+    av: Гамущ
+    avk: Ayadol (Bubalus bubalis)
+    az: Asiya camışı
+    azb: جامیشلار
+    ban: Kebo
+    bar: Bubalus bubalis
+    bbc: Horbo
+    bcl: Karabaw
+    bdr: Kerabau
+    be-tarask: бык бавал
+    bew: Kebo
+    bg: домашен бивол
+    bho: भँइस
+    bjn: Hadangan
+    bn: মহিষ
+    bo: མ་ཧེ།
+    br: Bual Azia
+    btm: Orbo
+    ca: búfal asiàtic domèstic
+    ceb: Bubalus bubalis
+    co: Bubalus bubalis
+    cs: buvol domácí
+    cy: Byfflo Dŵr
+    da: Vandbøffel
+    de: Wasserbüffel
+    de-at: Bubalus bubalis
+    de-ch: Bubalus bubalis
+    dga: kõɔŋ dobaa
+    diq: Camusê Asya
+    dty: भैसो
+    el: νεροβούβαλος
+    en: water buffalo
+    en-ca: Water buffalo
+    en-gb: water buffalo
+    en-us: water buffalo
+    eo: Akvobubalo
+    es: bubalus bubalis
+    et: vesipühvel
+    eu: Asiar bufalo
+    fa: گاومیش
+    fi: vesipuhveli
+    fr: buffle domestique
+    frp: Bubalus bubalis
+    frr: Weederbüfel
+    fur: Bubalus bubalis
+    ga: buabhall uisce
+    gd: Bubalus bubalis
+    gl: Búfalo
+    gor: Olobu
+    gsw: Bubalus bubalis
+    gu: ભેંસ
+    he: תאו מים
+    hi: भैंस
+    hr: vodeni bivol
+    hu: házi vízibivaly
+    hy: Ասիական գոմեշ
+    ia: bufalo de aqua
+    id: kerbau
+    ie: Bubalus bubalis
+    io: Bufalo
+    is: Vatnabuffall
+    it: bufalo indiano
+    ja: スイギュウ
+    jv: kebo
+    ka: წყლის კამეჩი
+    kab: Talhamust n waman
+    kbd: Азиэ хыв
+    kg: Bubalus bubalis
+    kn: ಎಮ್ಮೆ
+    ko: 물소
+    ks: مٲنٛش
+    ku: Gamêş
+    ky: Буйвол
+    la: Bubalus bubalis
+    lb: Waasserbüffel
+    li: Bubalus bubalis
+    lij: Bubalus bubalis
+    lo: ຄວາຍ
+    lt: Azijinis buivolas
+    lv: ūdens bifelis
+    mad: kerbhuy
+    mg: Bubalus bubalis
+    min: Kabau
+    mk: бивол
+    ml: പോത്ത്
+    mr: म्हैस
+    ms: kerbau
+    ms-arab: کرباو
+    mul: Bubalus bubalis
+    my: ကျွဲ
+    mzn: گومش
+    nan: Chúi-gû
+    nap: Vufero
+    nb: tam vannbøffel
+    nds: Bubalus bubalis
+    nds-nl: Bubalus bubalis
+    ne: भैँसी
+    new: मेय्
+    nia: Öröbao
+    nl: waterbuffel
+    nn: Bubalus bubalis
+    nrm: Bubalus bubalis
+    nv: Tábąąh béégashii
+    nys: Bubalus bubalis
+    oc: Bubalus bubalis
+    os: Азиаг къамбец
+    pa: ਮੱਝ
+    pcd: Bubalus bubalis
+    pl: Bawół domowy
+    pms: Bubalus bubalis
+    pnb: مجھ
+    pt: búfalo-asiático
+    pt-br: búfalo-asiático
+    pwn: sakimkim
+    rki: ကျွဲ
+    rm: Bubalus bubalis
+    ro: Bivol indian
+    ru: Азиатский буйвол
+    sa: महिषः
+    sat: ᱠᱟᱰᱟ
+    sc: Bubalus bubalis
+    scn: Bubalus bubalis
+    sco: Bubalus bubalis
+    sd: مينهن
+    sh: Vodeni bivol
+    shn: ၵႂၢႆး
+    si: මී හරකා
+    sk: Byvol arni
+    skr: منجھ
+    sl: vodni bivol
+    sq: Buallica
+    sr: водени биво
+    sr-ec: водени биво
+    su: Munding
+    sv: Vattenbuffel
+    sw: Nyati-maji
+    ta: எருமை (கால்நடை)
+    tcy: ಎರ್ಮೆ
+    te: గేదె
+    tg: Говмеш
+    th: ควาย
+    tl: Bubalus bubalis
+    tr: Asya mandası
+    uk: Водяний буйвіл
+    ur: بھینس
+    uz: Buyvollar
+    vec: Bubalus bubalis
+    vi: Trâu
+    vls: Bubalus bubalis
+    vo: Bubalus bubalis
+    wa: Bubalus bubalis
+    war: Bubalus bubalis
+    wo: Bubalus bubalis
+    wuu: 水牛
+    yue: 水牛
+    za: Vaiz
+    zh: 水牛
+    zh-cn: 水牛
+    zh-hans: 水牛
+    zh-tw: 水牛
+    zu: Bubalus bubalis
 ---
-
 # [[Water_Buffalo]] 🐃 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Water_buffalo,42710|WD~Water_buffalo,42710]]  

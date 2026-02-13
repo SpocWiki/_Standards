@@ -1,8 +1,26 @@
 ---
 has_id_wikidata: Q7892574
+dv_has_:
+  name_:
+    ca: terminologia militar estatunidenca sobre incidents nuclears
+    de: Broken_Arrow_(Codewort)
+    en: Broken Arrow
+    es: Broken Arrow
+    fr: Terminologie relative aux incidents nucléaires militaires aux États-Unis
+    ja: アメリカ軍原子力事故用語
+    pl: Broken Arrow (wojskowość)
+    ru: Терминология ВС США для ядерных инцидентов и аварий
+    sl: izrazje vojaških jedrskih incidentov v Združenih državah Amerike
+aliases:
+- Broken Arrow
+- Broken Arrow (wojskowość)
+- Broken_Arrow_(Codewort)
+- izrazje vojaških jedrskih incidentov v Združenih državah Amerike
+- terminologia militar estatunidenca sobre incidents nuclears
+- Terminologie relative aux incidents nucléaires militaires aux États-Unis
+- Терминология ВС США для ядерных инцидентов и аварий
+- アメリカ軍原子力事故用語
 ---
-
-
 # [[Broken_Arrow]] 
 
 ## #has_/text_of_/abstract 

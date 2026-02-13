@@ -1,28 +1,36 @@
 ---
 aliases:
-  - Peter_Molyneux
-  - Peter Douglas Molyneux
-  - Peter Molyneux
-  - Molyneux
-  - Molyneux,Peter
+- Molyneux
+- Molyneux,Peter
+- Peter Douglas Molyneux
+- Peter Molyneux
+- Peter_Molyneux
+- Пітер Моліньє
+- Питер Молиньё
+- Փիթեր Մոլինյո
+- بيتر مولينيو
+- ピーター・モリニュー
+- 彼得·莫利紐克斯
+- 彼得·莫利紐茲
+- 彼得·莫利纽克斯
 has_id_wikidata: Q164565
 employer:
-  - '[[_Standards/WikiData/WD~Xbox_Game_Studios,73801]]'
-  - '[[_Standards/WikiData/WD~Electronic_Arts,173941]]'
-  - '[[_Standards/WikiData/WD~Bullfrog_Productions,611487]]'
-  - '[[_Standards/WikiData/WD~Lionhead_Studios,765389]]'
+- '[[_Standards/WikiData/WD~Xbox_Game_Studios,73801]]'
+- '[[_Standards/WikiData/WD~Electronic_Arts,173941]]'
+- '[[_Standards/WikiData/WD~Bullfrog_Productions,611487]]'
+- '[[_Standards/WikiData/WD~Lionhead_Studios,765389]]'
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~game_programmer,863368]]'
-  - '[[_Standards/WikiData/WD~game_designer,3630699]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
-  - '[[_Standards/WikiData/WD~video_game_designer,18882335]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~game_programmer,863368]]'
+- '[[_Standards/WikiData/WD~game_designer,3630699]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~video_game_designer,18882335]]'
 place_of_birth: '[[_Standards/WikiData/WD~Guildford,213465]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
-  - '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
-  - '[[_Standards/WikiData/WD~Game_Developers_Choice_Award_Lifetime_Achievement,60586674]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~Game_Developers_Choice_Award_Lifetime_Achievement,60586674]]'
 given_name: '[[_Standards/WikiData/WD~Peter,2793400]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work: '[[_Standards/WikiData/WD~video_game_designer,18882335]]'
@@ -35,17 +43,60 @@ social_media_followers: 81490
 date_of_birth: 1959-05-05T00:00:00Z
 work_period_start_: 1982-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter-molyneux-at-university-of-southampton.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Molyneux%2020080927%20Festival%20du%20jeu%20video%2002.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter-molyneux-at-university-of-southampton.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Molyneux%2020080927%20Festival%20du%20jeu%20video%2002.jpg
 ISNI: 000000000303504X
 Commons_category: Peter Molyneux
 X_Twitter_username:
-  - pmolyneux
-  - PMolyneux
+- pmolyneux
+- PMolyneux
 name_in_native_language: Peter Douglas Molyneux
 birth_name: Peter Douglas Molyneux
+dv_has_:
+  name_:
+    ar: بيتر مولينيو
+    arz: بيتر مولينيو
+    ast: Peter Molyneux
+    ca: Peter Molyneux
+    cs: Peter Molyneux
+    da: Peter Molyneux
+    de: Peter Molyneux
+    de-ch: Peter Molyneux
+    en: Peter Molyneux
+    en-ca: Peter Molyneux
+    en-gb: Peter Molyneux
+    es: Peter Molyneux
+    fi: Peter Molyneux
+    fr: Peter Molyneux
+    gl: Peter Molyneux
+    hu: Peter Molyneux
+    hy: Փիթեր Մոլինյո
+    is: Peter Molyneux
+    it: Peter Molyneux
+    ja: ピーター・モリニュー
+    lld: Peter Molyneux
+    lt: Peter Molyneux
+    mg: Peter Molyneux
+    mul: Peter Molyneux
+    nb: Peter Molyneux
+    nl: Peter Molyneux
+    nn: Peter Molyneux
+    pl: Peter Molyneux
+    pt: Peter Molyneux
+    pt-br: Peter Molyneux
+    ru: Питер Молиньё
+    sco: Peter Molyneux
+    sk: Peter Molyneux
+    sl: Peter Molyneux
+    sq: Peter Molyneux
+    sv: Peter Molyneux
+    tr: Peter Molyneux
+    uk: Пітер Моліньє
+    vi: Peter Molyneux
+    zh: 彼得·莫利紐茲
+    zh-cn: 彼得·莫利纽克斯
+    zh-hant: 彼得·莫利紐克斯
 ---
-
 # [[Molyneux,Peter]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Peter_Molyneux,164565]] 

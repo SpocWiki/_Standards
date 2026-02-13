@@ -1,8 +1,36 @@
 ---
 aliases:
-  - Sleep Token
-  - Sleep_Token
+- kulupu Sleep Token
+- Sleep Token
+- Sleep_Token
+- סליפ טוקן
+- スリープ・トークン
+- 沉睡獻祭樂團
 has_id_wikidata: Q96405837
+dv_has_:
+  name_:
+    cs: Sleep Token
+    de: Sleep Token
+    en: Sleep Token
+    es: Sleep Token
+    fi: Sleep Token
+    fr: Sleep Token
+    he: סליפ טוקן
+    it: Sleep Token
+    ja: スリープ・トークン
+    lv: Sleep Token
+    ms: Sleep Token
+    mul: Sleep Token
+    pl: Sleep Token
+    pt: Sleep Token
+    ro: Sleep Token
+    ru: Sleep Token
+    sv: Sleep Token
+    tok: kulupu Sleep Token
+    uk: Sleep Token
+    zh: 沉睡獻祭樂團
+    zh-hant: 沉睡獻祭樂團
+    zh-tw: 沉睡獻祭樂團
 ---
 #is_/similar_to :: [[Slipknot(Band)]] 
 #is_/similar_to :: [[Tool(Band)]] 

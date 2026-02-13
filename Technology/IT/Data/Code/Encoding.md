@@ -1,10 +1,41 @@
 ---
 aliases:
+- codifica
+- codificació
+- encoding
+- enkodiranje
+- ionchódú
+- kodado
+- kodiranje
+- kódolás
+- pengekodan
+- Perekasandian
+- Ukuguqukezela (ezomphawu)
+- Կոդավորում (նշանագիտություն)
+- קידוד
+- ترميز
+- 编码
 has_id_wikidata: Q5375490
-subclass_of: "[[_Standards/WikiData/WD~process,205663]]"
-opposite_of: "[[_Standards/WikiData/WD~decoding,5249529]]"
+subclass_of: '[[_Standards/WikiData/WD~process,205663]]'
+opposite_of: '[[_Standards/WikiData/WD~decoding,5249529]]'
+dv_has_:
+  name_:
+    ar: ترميز
+    bs: enkodiranje
+    ca: codificació
+    en: encoding
+    eo: kodado
+    ga: ionchódú
+    he: קידוד
+    hu: kódolás
+    hy: Կոդավորում (նշանագիտություն)
+    id: Perekasandian
+    it: codifica
+    ms: pengekodan
+    sl: kodiranje
+    zh: 编码
+    zu: Ukuguqukezela (ezomphawu)
 ---
-
 # [[Encoding]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~encoding,5375490]] 

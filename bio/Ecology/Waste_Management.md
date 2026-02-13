@@ -1,37 +1,109 @@
 ---
 aliases:
-  - Abfall-Management
-  - Waste management
-  - waste disposal
-  - Waste_Management
-  - Waste Management
+- Abfall-Management
+- Abfallentsorgung
+- Abfallwirtschaft
+- afvalbestuur
+- afvalverwerking
+- Atliekų tvarkymas
+- atık yönetimi
+- avfallshantering
+- avfallshåndtering
+- bainistiú dramhaíola
+- Bulongolodi bwa bikalabasa
+- gestion des déchets
+- gestionarea deșeurilor
+- gestione dei rifiuti
+- gestió de residus
+- gestión de residuos
+- gestão de resíduos sólidos
+- gestão integrada de resíduos sólidos
+- gospodarenje otpadom
+- gospodarka odpadami
+- Gudanar da sharar gida
+- Hondakinen kudeaketa
+- hulladékgazdálkodás
+- Isrofgarchilikni oldini olish menejmenti
+- jätehuolto
+- Jäätmekäitlus
+- nakládání s odpady
+- Ngokolakeun runtah
+- Offallgestioun
+- Palīku rāds
+- Pengelolaan sampah
+- Pengurusan sisa
+- quản lý chất thải
+- ravnanje z odpadki
+- renovasjon
+- renovation
+- rheoli gwastraff
+- rubmastrumado
+- Sorpstjórnun
+- Udhibiti wa taka
+- Vulawuri bya thyaka
+- waste disposal
+- Waste management
+- Waste_Management
+- Xestión de borrafes
+- xestión de residuos
+- zestion de łe scoase
+- Önerkäsip qaldıqtarın paýda asırw
+- διαχείριση αποβλήτων
+- кіраваньне адкідамі
+- система управління відходами
+- система управления отходами
+- управљање отпадом
+- Управление на отпадъците
+- управување со отпад
+- Хог хаягдлын менежмент
+- Өнеркәсіп қалдықтарын пайда асыру
+- Թափոնների կառավարում
+- מיסט מאנאזשעריע
+- ניהול פסולת
+- إدارة المخلفات
+- مدیریت پسماند
+- ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
+- अपशिष्ट प्रबंधन
+- আবর্জনা ব্যবস্থাপনা
+- કચરાનો પ્રબંધ
+- கழிவு மேலாண்மை
+- వ్యర్థ పదార్థాల నిర్వహణ
+- ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ
+- പാഴ്വസ്തു കൈകാര്യം
+- අපද්රව්ය කළමනාකරණය
+- 废物管理
+- 廃棄物処理
+- 廢棄物管理
+- 廢物管理
+- 污染物排放控制
+- 폐기물 관리
 has_id_wikidata: Q180388
 has_part_s_:
-  - '[[_Standards/WikiData/WD~recycling,132580]]'
-  - '[[_Standards/WikiData/WD~waste_minimisation,319970]]'
-  - '[[_Standards/WikiData/WD~waste_reuse,55435655]]'
+- '[[_Standards/WikiData/WD~recycling,132580]]'
+- '[[_Standards/WikiData/WD~waste_minimisation,319970]]'
+- '[[_Standards/WikiData/WD~waste_reuse,55435655]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~industry,268592]]'
-  - '[[_Standards/WikiData/WD~process,3249551]]'
-  - '[[_Standards/WikiData/WD~safety,10566551]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~safety,10566551]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~recyclable_material_collector,1050142]]'
-  - '[[_Standards/WikiData/WD~Q1191617,1191617]]'
-  - '[[_Standards/WikiData/WD~garbage_collector,1391360]]'
-  - '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
-  - '[[_Standards/WikiData/WD~waste_manager,84307004]]'
+- '[[_Standards/WikiData/WD~recyclable_material_collector,1050142]]'
+- '[[_Standards/WikiData/WD~Q1191617,1191617]]'
+- '[[_Standards/WikiData/WD~garbage_collector,1391360]]'
+- '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
+- '[[_Standards/WikiData/WD~waste_manager,84307004]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~waste_collection,_treatment_and_disposal_activities;_materials_recovery,2684232]]'
-  - '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
-  - '[[_Standards/WikiData/WD~waste_recycling,115156519]]'
+- '[[_Standards/WikiData/WD~waste_collection,_treatment_and_disposal_activities;_materials_recovery,2684232]]'
+- '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
+- '[[_Standards/WikiData/WD~waste_recycling,115156519]]'
 different_from:
-  - '[[_Standards/WikiData/WD~sanitary_engineering,3306798]]'
-  - '[[_Standards/WikiData/WD~Q127539940,127539940]]'
+- '[[_Standards/WikiData/WD~sanitary_engineering,3306798]]'
+- '[[_Standards/WikiData/WD~Q127539940,127539940]]'
 part_of: '[[_Standards/WikiData/WD~European_waste_hierarchy,5413422]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~sustainability_and_environmental_management,17163083]]'
-  - '[[_Standards/WikiData/WD~energy_and_environmental_engineering,24963174]]'
+- '[[_Standards/WikiData/WD~sustainability_and_environmental_management,17163083]]'
+- '[[_Standards/WikiData/WD~energy_and_environmental_engineering,24963174]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q44371525,44371525]]'
 relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_12.4_of_the_Sustainable_Development_Goals,57590871]]'
 industry: '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
@@ -43,12 +115,102 @@ Wikimedia_import_URL: https://en.wikipedia.org/wiki/Waste_management
 Basisklassifikation: 58.53
 UMLS_CUI: C0242716
 MeSH_tree_code:
-  - N06.850.780.200.800.800.900
-  - N06.850.860.510.900
+- N06.850.780.200.800.800.900
+- N06.850.860.510.900
 Commons_gallery: Waste management
 Commons_category: Waste management
+dv_has_:
+  name_:
+    af: afvalbestuur
+    ar: إدارة المخلفات
+    ast: Xestión de borrafes
+    be-tarask: кіраваньне адкідамі
+    bg: Управление на отпадъците
+    bjn: Pengelolaan sampah
+    bn: আবর্জনা ব্যবস্থাপনা
+    ca: gestió de residus
+    cs: nakládání s odpady
+    cy: rheoli gwastraff
+    da: renovation
+    de: Abfallentsorgung
+    de-ch: Abfallwirtschaft
+    el: διαχείριση αποβλήτων
+    en: waste management
+    en-ca: waste management
+    en-gb: waste management
+    eo: rubmastrumado
+    es: gestión de residuos
+    et: Jäätmekäitlus
+    eu: Hondakinen kudeaketa
+    fa: مدیریت پسماند
+    fi: jätehuolto
+    fr: gestion des déchets
+    ga: bainistiú dramhaíola
+    gl: xestión de residuos
+    gpe: Waste management
+    gu: કચરાનો પ્રબંધ
+    ha: Gudanar da sharar gida
+    he: ניהול פסולת
+    hi: अपशिष्ट प्रबंधन
+    hr: gospodarenje otpadom
+    hu: hulladékgazdálkodás
+    hy: Թափոնների կառավարում
+    id: Pengelolaan sampah
+    ig: waste management
+    is: Sorpstjórnun
+    it: gestione dei rifiuti
+    ja: 廃棄物処理
+    kk: Өнеркәсіп қалдықтарын пайда асыру
+    kk-arab: ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
+    kk-cn: ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
+    kk-cyrl: Өнеркәсіп қалдықтарын пайда асыру
+    kk-kz: Өнеркәсіп қалдықтарын пайда асыру
+    kk-latn: Önerkäsip qaldıqtarın paýda asırw
+    kk-tr: Önerkäsip qaldıqtarın paýda asırw
+    kn: ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ
+    ko: 폐기물 관리
+    lb: Offallgestioun
+    lt: Atliekų tvarkymas
+    ltg: Palīku rāds
+    lua: Bulongolodi bwa bikalabasa
+    mk: управување со отпад
+    ml: പാഴ്വസ്തു കൈകാര്യം
+    mn: Хог хаягдлын менежмент
+    ms: Pengurusan sisa
+    nb: avfallshåndtering
+    nl: afvalverwerking
+    nn: renovasjon
+    pl: gospodarka odpadami
+    pt: gestão integrada de resíduos sólidos
+    pt-br: gestão de resíduos sólidos
+    ro: gestionarea deșeurilor
+    ru: система управления отходами
+    sh: gospodarenje otpadom
+    si: අපද්රව්ය කළමනාකරණය
+    sl: ravnanje z odpadki
+    sr: управљање отпадом
+    su: Ngokolakeun runtah
+    sv: avfallshantering
+    sw: Udhibiti wa taka
+    ta: கழிவு மேலாண்மை
+    te: వ్యర్థ పదార్థాల నిర్వహణ
+    tr: atık yönetimi
+    ts: Vulawuri bya thyaka
+    uk: система управління відходами
+    ur: Waste Management
+    uz: Isrofgarchilikni oldini olish menejmenti
+    vec: zestion de łe scoase
+    vi: quản lý chất thải
+    yi: מיסט מאנאזשעריע
+    yue: 廢物管理
+    zh: 廢物管理
+    zh-cn: 废物管理
+    zh-hans: 污染物排放控制
+    zh-hant: 廢棄物管理
+    zh-hk: 污染物排放控制
+    zh-sg: 污染物排放控制
+    zh-tw: 廢物管理
 ---
-
 # [[Waste_Management]] 
 
 #is_/same_as :: [[../../WikiData/WD~Waste_management,180388|WD~Waste_management,180388]] 

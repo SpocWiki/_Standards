@@ -1,8 +1,119 @@
 ---
 aliases:
-  - Kinorhyncha
+- Bodljoglavci
+- Chʼosh doo yitʼíinii bidaaʼ dichʼízhí
+- Cinorhyncha
+- Derisi dikenli solucanlar
+- Dragoni-matope
+- Hakenrüssler
+- Hnykkhöfðar
+- kaveljčniki
+- Kinorhyncha
+- kinorhyncher
+- Kinorinhi
+- Kinorinxlər
+- Kinorxincha
+- mudderdrage
+- okapäämadot
+- pansarmaskar
+- Quinorrinc
+- Quinorrincos
+- ryjkogłowy
+- rypečky
+- Siilussid
+- stekelwormen
+- Stikelwirmer
+- Ulod nga armadura
+- övesférgecskék
+- кіноринхи
+- Киноринха
+- киноринхи
+- Киноринхтер
+- хоботопридвижващи се
+- קינורהינכה
+- متحركات الخطم
+- کرمهای تیغبهسر
+- కినోర్హించా
+- ไคโนรินชา
+- კინორინქები
+- 动吻动物门
+- 動吻動物
+- 동문동물
 title: Kinorhyncha
 has_id_wikidata: Q5182
+dv_has_:
+  name_:
+    an: Kinorhyncha
+    ar: متحركات الخطم
+    arz: متحركات الخطم
+    ast: Kinorhyncha
+    az: Kinorinxlər
+    be: Kinorhyncha
+    bg: хоботопридвижващи се
+    bs: Kinorhyncha
+    ca: Quinorrinc
+    ceb: Ulod nga armadura
+    cs: rypečky
+    da: mudderdrage
+    de: Hakenrüssler
+    en: Kinorhyncha
+    eo: Kinorhyncha
+    es: Kinorhyncha
+    et: Siilussid
+    eu: Kinorhyncha
+    ext: Kinorhyncha
+    fa: کرمهای تیغبهسر
+    fi: okapäämadot
+    fr: Kinorhyncha
+    frr: Stikelwirmer
+    ga: Kinorhyncha
+    gl: Quinorrincos
+    he: קינורהינכה
+    hr: Bodljoglavci
+    hu: övesférgecskék
+    ia: Kinorhyncha
+    id: Kinorhyncha
+    ie: Kinorhyncha
+    io: Kinorhyncha
+    is: Hnykkhöfðar
+    it: Kinorhyncha
+    ja: 動吻動物
+    ka: კინორინქები
+    kk: Киноринха
+    ko: 동문동물
+    ky: Киноринхтер
+    la: Cinorhyncha
+    lv: Kinorinhi
+    ms: Kinorhyncha
+    mul: Kinorhyncha
+    nb: kinorhyncher
+    nl: stekelwormen
+    nv: Chʼosh doo yitʼíinii bidaaʼ dichʼízhí
+    oc: Kinorhyncha
+    pl: ryjkogłowy
+    pt: Kinorhyncha
+    pt-br: Kinorhyncha
+    ro: Kinorhyncha
+    ru: киноринхи
+    sl: kaveljčniki
+    sq: Kinorhyncha
+    sr: Kinorhyncha
+    sv: pansarmaskar
+    sw: Dragoni-matope
+    te: కినోర్హించా
+    th: ไคโนรินชา
+    tl: Kinorhyncha
+    tr: Derisi dikenli solucanlar
+    uk: кіноринхи
+    uz: Kinorxincha
+    vec: Kinorhyncha
+    vi: Kinorhyncha
+    vo: Kinorhyncha
+    war: Kinorhyncha
+    wuu: 动吻动物门
+    zh: 动吻动物门
+    zh-cn: 动吻动物门
+    zh-hans: 动吻动物门
 ---
 # [[Kinorhyncha]] 
 

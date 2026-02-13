@@ -1,39 +1,58 @@
 ---
 aliases:
-  - Audrey Faith McGraw
-  - Audrey Faith Perry
-  - Faith_Hill
-  - Hill,Faith
+- Audrey Faith McGraw
+- Audrey Faith Perry
+- Faith Hill
+- Faith_Hill
+- Feita Hilla
+- Fejt Hil
+- Hill,Faith
+- Фејт Хил
+- Фейт Хілл
+- Фейт Хил
+- Фэйт Гіл
+- Фэйт Хилл
+- Ֆեյթ Հիլ
+- פיית' היל
+- فيث هيل
+- فیث هیل
+- ਫੇਥ ਹਿਲ
+- เฟธ ฮิลล์
+- フェイス・ヒル
+- 菲丝·希尔
+- 菲絲·希爾
+- 费丝·希尔
+- 페이스 힐
 has_id_wikidata: Q464241
 genre: '[[_Standards/WikiData/WD~country_music,83440]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Aretha_Franklin,125121]]'
-  - '[[_Standards/WikiData/WD~Dolly_Parton,180453]]'
-  - '[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]'
-  - '[[_Standards/WikiData/WD~Linda_Ronstadt,229375]]'
-  - '[[_Standards/WikiData/WD~Reba_McEntire,229430]]'
-  - '[[_Standards/WikiData/WD~Emmylou_Harris,231286]]'
-  - '[[_Standards/WikiData/WD~Tammy_Wynette,234017]]'
-  - '[[_Standards/WikiData/WD~Loretta_Lynn,272931]]'
-  - '[[_Standards/WikiData/WD~Patsy_Cline,273080]]'
-  - '[[_Standards/WikiData/WD~Barbara_Mandrell,292373]]'
-  - '[[_Standards/WikiData/WD~Crystal_Gayle,434512]]'
-  - '[[_Standards/WikiData/WD~Suzy_Bogguss,442461]]'
-  - '[[_Standards/WikiData/WD~Tanya_Tucker,463983]]'
-  - '[[_Standards/WikiData/WD~Amy_Grant,464213]]'
-  - '[[_Standards/WikiData/WD~K._T._Oslin,6324079]]'
-  - '[[_Standards/WikiData/WD~Q2808,2808]]'
-  - '[[_Standards/WikiData/WD~Céline_Dion,5105]]'
+- '[[_Standards/WikiData/WD~Aretha_Franklin,125121]]'
+- '[[_Standards/WikiData/WD~Dolly_Parton,180453]]'
+- '[[_Standards/WikiData/WD~Mahalia_Jackson,206466]]'
+- '[[_Standards/WikiData/WD~Linda_Ronstadt,229375]]'
+- '[[_Standards/WikiData/WD~Reba_McEntire,229430]]'
+- '[[_Standards/WikiData/WD~Emmylou_Harris,231286]]'
+- '[[_Standards/WikiData/WD~Tammy_Wynette,234017]]'
+- '[[_Standards/WikiData/WD~Loretta_Lynn,272931]]'
+- '[[_Standards/WikiData/WD~Patsy_Cline,273080]]'
+- '[[_Standards/WikiData/WD~Barbara_Mandrell,292373]]'
+- '[[_Standards/WikiData/WD~Crystal_Gayle,434512]]'
+- '[[_Standards/WikiData/WD~Suzy_Bogguss,442461]]'
+- '[[_Standards/WikiData/WD~Tanya_Tucker,463983]]'
+- '[[_Standards/WikiData/WD~Amy_Grant,464213]]'
+- '[[_Standards/WikiData/WD~K._T._Oslin,6324079]]'
+- '[[_Standards/WikiData/WD~Q2808,2808]]'
+- '[[_Standards/WikiData/WD~Céline_Dion,5105]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Tim_McGraw,356487]]'
-  - '[[_Standards/WikiData/WD~Daniel_Hill,5217487]]'
+- '[[_Standards/WikiData/WD~Tim_McGraw,356487]]'
+- '[[_Standards/WikiData/WD~Daniel_Hill,5217487]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
-  - '[[_Standards/WikiData/WD~Warner_Records,64485314]]'
-  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Warner_Records,64485314]]'
+- '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ridgeland,892431]]'
 family_name: '[[_Standards/WikiData/WD~Hill,973239]]'
 award_received: '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Female_Artist,1441582]]'
@@ -42,13 +61,13 @@ discography: '[[_Standards/WikiData/WD~Faith_Hill_discography,5431194]]'
 educated_at: '[[_Standards/WikiData/WD~Hinds_Community_College,5766201]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child:
-  - '[[_Standards/WikiData/WD~Audrey_McGraw,123986464]]'
-  - '[[_Standards/WikiData/WD~Gracie_McGraw,123986564]]'
-  - '[[_Standards/WikiData/WD~Maggie_McGraw,123986705]]'
+- '[[_Standards/WikiData/WD~Audrey_McGraw,123986464]]'
+- '[[_Standards/WikiData/WD~Gracie_McGraw,123986564]]'
+- '[[_Standards/WikiData/WD~Maggie_McGraw,123986705]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
@@ -70,8 +89,75 @@ subreddit: Faith_Hill
 Facebook_username: faithhill
 Instagram_username: faithhill
 X_Twitter_username: FaithHill
+dv_has_:
+  name_:
+    ar: فيث هيل
+    arz: فيث هيل
+    ast: Faith Hill
+    azb: فیث هیل
+    be-tarask: Фэйт Гіл
+    bg: Фейт Хил
+    ca: Faith Hill
+    cs: Faith Hill
+    da: Faith Hill
+    de: Faith Hill
+    en: Faith Hill
+    es: Faith Hill
+    et: Faith Hill
+    eu: Faith Hill
+    fa: فیث هیل
+    fi: Faith Hill
+    fo: Faith Hill
+    fr: Faith Hill
+    fy: Faith Hill
+    ga: Faith Hill
+    gl: Faith Hill
+    he: פיית' היל
+    hr: Faith Hill
+    hu: Faith Hill
+    hy: Ֆեյթ Հիլ
+    id: Faith Hill
+    is: Faith Hill
+    it: Faith Hill
+    ja: フェイス・ヒル
+    ko: 페이스 힐
+    lv: Feita Hilla
+    mg: Faith Hill
+    mk: Фејт Хил
+    ms: Faith Hill
+    mul: Faith Hill
+    nb: Faith Hill
+    nl: Faith Hill
+    nn: Faith Hill
+    oc: Faith Hill
+    pa: ਫੇਥ ਹਿਲ
+    pap: Faith Hill
+    pdc: Faith Hill
+    pl: Faith Hill
+    pt: Faith Hill
+    pt-br: Faith Hill
+    ro: Faith Hill
+    ru: Фэйт Хилл
+    sk: Faith Hill
+    sl: Faith Hill
+    sq: Faith Hill
+    sr: Fejt Hil
+    sv: Faith Hill
+    th: เฟธ ฮิลล์
+    tr: Faith Hill
+    uk: Фейт Хілл
+    uz: Faith Hill
+    vi: Faith Hill
+    war: Faith Hill
+    yue: 菲絲·希爾
+    zh: 菲丝·希尔
+    zh-cn: 菲丝·希尔
+    zh-hans: 菲丝·希尔
+    zh-hant: 菲絲·希爾
+    zh-hk: 菲絲·希爾
+    zh-sg: 费丝·希尔
+    zh-tw: 菲絲·希爾
 ---
-
 # [[Hill,Faith]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Faith_Hill,464241|WD~Faith_Hill,464241]] 

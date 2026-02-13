@@ -1,8 +1,57 @@
 ---
-has_time_started: 1793-01-01 
+has_time_started: 1793-01-01
 aliases:
-  - Thoroughbred
-  - Vollblut
+- angleški polnokrvni konj
+- anglický plnokrevník
+- anglický plnokrvník
+- angol telivér
+- Cal pursânge englez
+- Capall folaíochta
+- Engelse volbloed
+- Engelsk fuldblod
+- engelsk fullblodshest
+- engelskt fullblod
+- Englannintäysiverinen
+- Engleski punokrvnjak
+- Englisches Vollblut
+- Grynakraujai jojamieji arkliai
+- Inglise täisvereline ratsahobune
+- koń pełnej krwi angielskiej
+- kuda belima
+- Kuda ras unggul
+- Ngựa Thuần Chủng
+- Odolgarbi
+- Pur-sang
+- pura sang
+- Purasangre
+- Puro Sangue Inglês
+- Puro-sangue inglês
+- Purosangue
+- Purosangue inglese
+- pursangulo
+- safkan İngiliz
+- Thoroughbred
+- Tīrasiņu zirgs
+- Vollblut
+- Καθαρόαιμο άλογο
+- Английски чистокръвен кон
+- Аспи асили савории англисӣ
+- Асыл менге ат
+- конь чыстакроўны ангельскі
+- тркачки коњ
+- чистокрвен коњ
+- чистокровная верховая
+- чистокровний верховий
+- Զտարյուն ցեղատեսակի ձի
+- ת'ורוברד
+- تروبرد
+- فرس السباق الإنجليزي
+- کودا بليما
+- തൊറോ ബ്രഡ് കുതിര
+- サラブレッド
+- 純種馬
+- 纯种马
+- 서러브레드
 has_id_wikidata: Q210826
 instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
 subclass_of: '[[_Standards/WikiData/WD~racehorse,2442470]]'
@@ -15,8 +64,73 @@ Commons_gallery: Thoroughbred
 Commons_category: Thoroughbred
 inception: 1793-01-01T00:00:00Z
 Dewey_Decimal_Classification: 636.132
+dv_has_:
+  name_:
+    ar: فرس السباق الإنجليزي
+    ast: Purasangre
+    az: Thoroughbred
+    be-tarask: конь чыстакроўны ангельскі
+    bg: Английски чистокръвен кон
+    ca: pura sang
+    cs: anglický plnokrevník
+    da: Engelsk fuldblod
+    de: Englisches Vollblut
+    de-ch: Englisches Vollblut
+    el: Καθαρόαιμο άλογο
+    en: Thoroughbred
+    en-ca: Thoroughbred
+    en-gb: thoroughbred
+    eo: pursangulo
+    es: Purasangre
+    et: Inglise täisvereline ratsahobune
+    eu: Odolgarbi
+    fa: تروبرد
+    fi: Englannintäysiverinen
+    fr: Pur-sang
+    ga: Capall folaíochta
+    gl: Purosangue
+    he: ת'ורוברד
+    hr: Engleski punokrvnjak
+    hu: angol telivér
+    hy: Զտարյուն ցեղատեսակի ձի
+    ia: Thoroughbred
+    id: Kuda ras unggul
+    it: Purosangue inglese
+    ja: サラブレッド
+    ko: 서러브레드
+    lt: Grynakraujai jojamieji arkliai
+    lv: Tīrasiņu zirgs
+    mk: чистокрвен коњ
+    ml: തൊറോ ബ്രഡ് കുതിര
+    ms: kuda belima
+    ms-arab: کودا بليما
+    nb: thoroughbred
+    nl: Engelse volbloed
+    nn: engelsk fullblodshest
+    pl: koń pełnej krwi angielskiej
+    pt: Puro Sangue Inglês
+    pt-br: Puro-sangue inglês
+    ro: Cal pursânge englez
+    ru: чистокровная верховая
+    sk: anglický plnokrvník
+    sl: angleški polnokrvni konj
+    sr: тркачки коњ
+    sv: engelskt fullblod
+    tg: Аспи асили савории англисӣ
+    tr: safkan İngiliz
+    tt: Асыл менге ат
+    uk: чистокровний верховий
+    vi: Ngựa Thuần Chủng
+    wuu: 纯种马
+    yue: 純種馬
+    zh: 純種馬
+    zh-cn: 纯种马
+    zh-hans: 纯种马
+    zh-hant: 純種馬
+    zh-hk: 純種馬
+    zh-sg: 纯种马
+    zh-tw: 純種馬
 ---
-
 # [[Thoroughbred]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Thoroughbred,210826|WD~Thoroughbred,210826]]  

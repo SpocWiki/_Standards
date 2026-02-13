@@ -1,9 +1,114 @@
 ---
 aliases:
-  - Überwachung
+- faireachas
+- giám sát
+- Gözetim
+- Indlozabukhoma
+- inwigilacja
+- megfigyelés
+- nadzor
+- novērošana
+- Nəzarət
+- overvaking
+- overvågning
+- overvåkning
+- pengawasan
+- sledovanie
+- sledování
+- sorveglianza
+- supraveghere
+- surveglianza
+- surveillance
+- valvonta
+- Varjatud jälgimine
+- vigilancia
+- vigilància
+- vigilância
+- viglado
+- vixilancia
+- viziłansa
+- Vëzhgimi
+- waarneming
+- Zaintza
+- övervakning
+- Überwachung
+- күзәтү
+- надзор
+- назіранне
+- назіраньне
+- негласное наблюдение
+- спостереження (негласне)
+- անաղմուկ դիտարկում
+- מעקב
+- مراقبة
+- نظارت
+- نگہداری
+- څارنه
+- নজরদারি
+- サーベイランス
+- 監視
+- 감시
 has_id_wikidata: Q334401
+dv_has_:
+  name_:
+    af: waarneming
+    ar: مراقبة
+    az: Nəzarət
+    be: назіранне
+    be-tarask: назіраньне
+    bn: নজরদারি
+    ca: vigilància
+    co: surveglianza
+    cs: sledování
+    da: overvågning
+    de: Überwachung
+    en: surveillance
+    eo: viglado
+    es: vigilancia
+    et: Varjatud jälgimine
+    eu: Zaintza
+    fa: نظارت
+    fi: valvonta
+    fr: surveillance
+    ga: faireachas
+    gl: vixilancia
+    he: מעקב
+    hu: megfigyelés
+    hy: անաղմուկ դիտարկում
+    id: Pengawasan
+    it: sorveglianza
+    ja: サーベイランス
+    ko: 감시
+    lv: novērošana
+    mk: надзор
+    ms: pengawasan
+    nb: overvåkning
+    nl: surveillance
+    nn: overvaking
+    pl: inwigilacja
+    pnb: نگہداری
+    ps: څارنه
+    pt: vigilância
+    pt-br: vigilância
+    ro: supraveghere
+    ru: негласное наблюдение
+    sk: sledovanie
+    sl: nadzor
+    sq: Vëzhgimi
+    sr: надзор
+    sv: övervakning
+    tr: Gözetim
+    tt: күзәтү
+    tt-cyrl: күзәтү
+    uk: спостереження (негласне)
+    ur: نگہداری
+    vec: viziłansa
+    vi: giám sát
+    zh: 監視
+    zh-hant: 監視
+    zh-tw: 監視
+    zu: Indlozabukhoma
 ---
-
 # [[Surveillance]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~surveillance,334401]] 

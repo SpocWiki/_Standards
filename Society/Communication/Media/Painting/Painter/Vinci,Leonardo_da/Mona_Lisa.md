@@ -1,45 +1,99 @@
 ---
-has_time_started: 1503-01-01 
+has_time_started: 1503-01-01
 aliases:
-  - Mona Lisa
-  - Mona_Lisa
+- A Gioconda
+- An Mona Lisa
+- Gioconda
+- Giuconda
+- Iucunda
+- La Gioconda
+- La Joconda
+- La Joconde
+- Mona Lisa
+- Mona Liza
+- Mona Líza
+- Mona Lîza
+- Monalisa
+- Mona_Lisa
+- Mong-na-li-sa
+- Monna Liza
+- Móna Lísa
+- Ła Joconda
+- Μόνα Λίζα
+- Мона Ліза
+- Мона Лиза
+- Լիզա տէլ Ճոքոնտօ
+- Մոնա Լիզա
+- מאנא ליסע
+- מונה ליזה
+- مونا ليزا
+- مونا لیزا
+- مونا لیزہ
+- موناليزا
+- مونالیزا
+- مۆنالیزا
+- ژؤکؤند
+- मॉना लिसा
+- मोना लिजा
+- मोनालिसा
+- মনালিছা
+- মোনা লিসা
+- ਮੋਨਾ ਲੀਜ਼ਾ
+- ମୋନା ଲିସା
+- மோனா லிசா
+- మోనాలిసా
+- ಮೋನ ಲೀಸ
+- മോണാലിസ
+- මොනාලිසා
+- โมนาลิซา
+- ລາໂຊກົງ
+- མོ་ན་ལི་ས།
+- မိုနာလီဆာ
+- მონა ლიზა
+- ሞና ሊዛ
+- ម៉ូណាលីសា
+- ᱢᱚᱱᱟᱞᱤᱥᱟ
+- モナ・リザ
+- 蒙娜丽莎
+- 蒙娜麗莎
+- 모나리자
 has_id_wikidata: Q12418
 inventory_number:
-  - INV 779
-  - MR 316
+- INV 779
+- MR 316
 name:
-  - the portrait of Mona Lisa
-  - Portrait de Mona Lisa
-  - il ritratto di Mona Lisa
+- the portrait of Mona Lisa
+- Portrait de Mona Lisa
+- il ritratto di Mona Lisa
 title:
-  - Portrait de Mona Lisa, dite la Joconde
-  - La Gioconda
-  - モナ・リザ
-  - Mona Lisa
-  - Mona Lisa
-  - Mona Lisa
+- Portrait de Mona Lisa, dite la Joconde
+- La Gioconda
+- モナ・リザ
+- Mona Lisa
+- Mona Lisa
+- Mona Lisa
 inception: 1503-01-01T00:00:00Z
 depicts:
-  - '[[_Standards/WikiData/WD~landscape,107425]]'
-  - '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
-  - '[[_Standards/WikiData/WD~armrest,2822867]]'
-  - '[[_Standards/WikiData/WD~figure,29527347]]'
-  - '[[_Standards/WikiData/WD~sky,527]]'
-  - '[[_Standards/WikiData/WD~mountain,8502]]'
-  - '[[_Standards/WikiData/WD~bridge,12280]]'
-  - '[[_Standards/WikiData/WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
+- '[[_Standards/WikiData/WD~armrest,2822867]]'
+- '[[_Standards/WikiData/WD~figure,29527347]]'
+- '[[_Standards/WikiData/WD~sky,527]]'
+- '[[_Standards/WikiData/WD~mountain,8502]]'
+- '[[_Standards/WikiData/WD~bridge,12280]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324]]'
 genre: '[[_Standards/WikiData/WD~portrait,134307]]'
 country_of_origin: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
 main_subject: '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
 named_after: '[[_Standards/WikiData/WD~Lisa_del_Giocondo,153032]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
-  - '[[_Standards/WikiData/WD~poplar_panel,106857865]]'
+- '[[_Standards/WikiData/WD~oil_paint,296955]]'
+- '[[_Standards/WikiData/WD~poplar_panel,106857865]]'
 commissioned_by: '[[_Standards/WikiData/WD~Francesco_del_Giocondo,1395822]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~theft,2727213]]'
-  - '[[_Standards/WikiData/WD~acquisition,22340494]]'
-  - '[[_Standards/WikiData/WD~vandalism,6160]]'
+- '[[_Standards/WikiData/WD~theft,2727213]]'
+- '[[_Standards/WikiData/WD~acquisition,22340494]]'
+- '[[_Standards/WikiData/WD~vandalism,6160]]'
 subject_has_role: '[[_Standards/WikiData/WD~scientific_controversy,2996078]]'
 collection: '[[_Standards/WikiData/WD~Department_of_Paintings_of_the_Louvre,3044768]]'
 instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
@@ -56,27 +110,129 @@ located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Pari
 country: '[[_Standards/WikiData/WD~France,142]]'
 width: 53.4
 catalog_code:
-  - 22
-  - 7
-  - XXV
+- 22
+- 7
+- XXV
 height: 79.4
 described_at_URL:
-  - https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana
-  - https://www.louvre.fr/decouvrir/le-palais/de-la-joconde-aux-noces-de-cana
-  - https://focus.louvre.fr/sites/default/files/GG10-le-vrai-visage-de-monna-lisa.pdf
-  - https://www.louvre.fr/es/explora/el-palacio/de-la-gioconda-a-las-bodas-de-cana
-  - https://www.louvre.fr/zh-hans/tansuofaxian/lufugongjianzhuqun/cong-mengnalisha-dao-jianadehunli
+- https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana
+- https://www.louvre.fr/decouvrir/le-palais/de-la-joconde-aux-noces-de-cana
+- https://focus.louvre.fr/sites/default/files/GG10-le-vrai-visage-de-monna-lisa.pdf
+- https://www.louvre.fr/es/explora/el-palacio/de-la-gioconda-a-las-bodas-de-cana
+- https://www.louvre.fr/zh-hans/tansuofaxian/lufugongjianzhuqun/cong-mengnalisha-dao-jianadehunli
 Commons_category: Mona Lisa
 AGORHA_UUID: 8e279ee1-f842-4eb3-994d-797ca8562c09
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-La%20Gioconda-article.ogg
 image_with_frame: http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20la%20gioconda%2C%201503-06%20circa.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mona%20Lisa%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20natural%20color.jpg
 Bildindex_der_Kunst_und_Architektur_PID:
-  - 0000375952
-  - 0001131259
+- 0000375952
+- 0001131259
 depicts_Iconclass_notation: 61BB2(Lisa del Giocondo)11
+dv_has_:
+  name_:
+    am: ሞና ሊዛ
+    an: A Gioconda
+    ar: موناليزا
+    arz: موناليزا
+    as: মনালিছা
+    ast: La Gioconda
+    az: Mona Liza
+    ba: Мона Лиза
+    be: Мона Ліза
+    be-tarask: Мона Ліза
+    bg: Мона Лиза
+    bn: মোনা লিসা
+    bo: མོ་ན་ལི་ས།
+    ca: La Gioconda
+    cbk-zam: Monalisa
+    ckb: مۆنالیزا
+    co: Giuconda
+    cv: Мона Лиза
+    el: Μόνα Λίζα
+    en: Mona Lisa
+    en-us: Mona Lisa
+    eo: La Gioconda
+    es: La Gioconda
+    eu: Gioconda
+    fa: مونالیزا
+    fr: La Joconde
+    ga: An Mona Lisa
+    glk: ژؤکؤند
+    ha: Mona Lisa
+    he: מונה ליזה
+    hi: मॉना लिसा
+    ht: La Joconde
+    hy: Մոնա Լիզա
+    hyw: Լիզա տէլ Ճոքոնտօ
+    is: Móna Lísa
+    it: La Gioconda
+    ja: モナ・リザ
+    jv: Monalisa
+    ka: მონა ლიზა
+    kab: Monna Liza
+    kk: Мона Лиза
+    km: ម៉ូណាលីសា
+    kn: ಮೋನ ಲೀಸ
+    ko: 모나리자
+    ks: مونا لیزا
+    ku: Mona Lîza
+    la: Iucunda
+    lb: Mona Lisa
+    lo: ລາໂຊກົງ
+    lt: Mona Liza
+    lv: Mona Liza
+    mai: मोना लिजा
+    mk: Мона Лиза
+    ml: മോണാലിസ
+    mn: Мона Лиза
+    mr: मोनालिसा
+    my: မိုနာလီဆာ
+    ne: मोना लिजा
+    oc: La Joconda
+    or: ମୋନା ଲିସା
+    pa: ਮੋਨਾ ਲੀਜ਼ਾ
+    pcm: Mona Lisa
+    pnb: مونا لیزا
+    ps: مونالیزا
+    rki: မိုနာလီဆာ
+    ro: Gioconda
+    rsk: Мона Лиза
+    ru: Мона Лиза
+    rue: Мона Ліза
+    sat: ᱢᱚᱱᱟᱞᱤᱥᱟ
+    scn: Gioconda
+    sd: مونا ليزا
+    si: මොනාලිසා
+    sk: Mona Líza
+    sl: Mona Liza
+    sq: Mona Liza
+    sr: Мона Лиза
+    sr-ec: Мона Лиза
+    sr-el: Mona Liza
+    szy: Mong-na-li-sa
+    ta: மோனா லிசா
+    te: మోనాలిసా
+    th: โมนาลิซา
+    tl: Mona Lisa
+    tt: Мона Лиза
+    tw: Mona Lisa
+    uk: Мона Ліза
+    ur: مونا لیزہ
+    vec: Ła Joconda
+    wuu: 蒙娜丽莎
+    yi: מאנא ליסע
+    yue: 蒙娜麗莎
+    zh: 蒙娜丽莎
+    zh-cn: 蒙娜丽莎
+    zh-hans: 蒙娜丽莎
+    zh-hant: 蒙娜麗莎
+    zh-hk: 蒙娜麗莎
+    zh-mo: 蒙娜麗莎
+    zh-my: 蒙娜丽莎
+    zh-sg: 蒙娜丽莎
+    zh-tw: 蒙娜麗莎
 ---
-
 # [[Mona_Lisa]] 
 
 #is_/same_as :: [[WD~Mona_Lisa,12418]] 

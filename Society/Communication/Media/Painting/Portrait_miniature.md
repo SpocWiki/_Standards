@@ -1,29 +1,114 @@
 ---
 aliases:
-  - Miniatur
-  - Portrait_miniature
-  - Portrait miniature
+- Mchoro mdogo
+- Miniatur
+- miniatura
+- Miniaturazko erretratu
+- miniature
+- Miniaturmalerei
+- miniaturo
+- miniatuur
+- Miniatuur (maalikunst)
+- miniatyr
+- miniatyrmåleri
+- miniatyyrimuotokuva
+- Miniatúra
+- Minijatura
+- minyatür
+- Parvulum sigillum
+- pintura em miniatura
+- Portrait miniature
+- Portrait_miniature
+- Portret în miniatură
+- péintéireacht mhionphictiúr
+- retrat miniatura
+- Μινιατούρα πρωσοπογραφίας
+- мініятура
+- минијатура
+- миниатюра
+- портретна мініатюра
+- Портретна миниатюра
+- դիմանկարային մանրանկարչություն
+- דיוקן מיניאטורי
+- منمنمة
+- چهرهنگاری مینیاتور
+- மார்பளவுத் தோற்றச் சிற்றோவியம்
+- จุลจิตรกรรมภาพเหมือน
+- 微型画像
+- 微型畫像
+- 細密肖像画
 has_id_wikidata: Q282129
 instance_of:
-  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
-  - '[[_Standards/WikiData/WD~genre_of_painting,16743958]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~genre_of_painting,16743958]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~painting,3305213]]'
-  - '[[_Standards/WikiData/WD~miniature_art,6575414]]'
-  - '[[_Standards/WikiData/WD~Miniature_painting,116691808]]'
+- '[[_Standards/WikiData/WD~painting,3305213]]'
+- '[[_Standards/WikiData/WD~miniature_art,6575414]]'
+- '[[_Standards/WikiData/WD~Miniature_painting,116691808]]'
 different_from:
-  - '[[_Standards/WikiData/WD~portrait_miniature,131208654]]'
-  - '[[_Standards/WikiData/WD~illuminated_manuscript,48498]]'
+- '[[_Standards/WikiData/WD~portrait_miniature,131208654]]'
+- '[[_Standards/WikiData/WD~illuminated_manuscript,48498]]'
 Nomenclature_for_Museum_Cataloging: 12970
 Basisklassifikation: 21.10
 Commons_category: Miniatures (paintings)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20Self-portrait%20-%20WGA08041.jpg
+dv_has_:
+  name_:
+    ar: منمنمة
+    be-tarask: мініятура
+    bg: Портретна миниатюра
+    ca: retrat miniatura
+    cs: miniatura
+    cy: miniatur
+    da: miniatur
+    de: Miniaturmalerei
+    el: Μινιατούρα πρωσοπογραφίας
+    en: miniature
+    en-gb: miniature
+    eo: miniaturo
+    es: miniatura
+    et: Miniatuur (maalikunst)
+    eu: Miniaturazko erretratu
+    fa: چهرهنگاری مینیاتور
+    fi: miniatyyrimuotokuva
+    fr: miniature
+    ga: péintéireacht mhionphictiúr
+    he: דיוקן מיניאטורי
+    hr: Minijatura
+    hu: miniatúra
+    hy: դիմանկարային մանրանկարչություն
+    it: miniatura
+    ja: 細密肖像画
+    la: Parvulum sigillum
+    mk: минијатура
+    nb: miniatyr
+    nl: miniatuur
+    nn: miniatyrmåleri
+    pl: miniatura
+    pt: pintura em miniatura
+    pt-br: pintura em miniatura
+    ro: Portret în miniatură
+    ru: миниатюра
+    sh: Minijatura
+    sk: Miniatúra
+    sl: miniatura
+    sr: минијатура
+    sr-ec: минијатура
+    sr-el: minijatura
+    sv: miniatyrmåleri
+    sw: Mchoro mdogo
+    ta: மார்பளவுத் தோற்றச் சிற்றோவியம்
+    th: จุลจิตรกรรมภาพเหมือน
+    tr: minyatür
+    uk: портретна мініатюра
+    zh: 微型画像
+    zh-hans: 微型画像
+    zh-hant: 微型畫像
 ---
-
 # [[Portrait_miniature]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Portrait_miniature,282129|WD~Portrait_miniature,282129]]  

@@ -1,8 +1,101 @@
 ---
 aliases:
-  - Der Clou
-  - Sting(1973)
+- A nagy balhé
+- Belalılar
+- Blåsningen
+- Cacealmaua
+- Der Clou
+- Dzelonis (filma)
+- El cop
+- El golpe
+- L'Arnaque
+- La stangata
+- Neştər
+- O golpe
+- Podraz
+- Puhallus
+- Sidste stik
+- Stikket
+- Sting(1973)
+- The Sting
+- Tüssamine
+- Żądło
+- Žaoka
+- Το κεντρί
+- Афера
+- Бодежот
+- Жаока
+- Ужилването
+- העוקץ
+- اللدغة
+- نشتر (فیلم، ۱۹۷۳)
+- نیش
+- द स्टिंग
+- த ஸ்டிங்
+- スティング
+- 刺激
+- 老千計狀元才
+- 骗中骗
+- 스팅
 has_id_wikidata: Q62665
+dv_has_:
+  name_:
+    an: The Sting
+    ar: اللدغة
+    ast: The Sting
+    az: Neştər
+    azb: نشتر (فیلم، ۱۹۷۳)
+    bg: Ужилването
+    bs: Žaoka
+    ca: El cop
+    cs: Podraz
+    cv: Афера
+    cy: The Sting
+    da: Sidste stik
+    de: Der Clou
+    el: Το κεντρί
+    en: The Sting
+    es: El golpe
+    et: Tüssamine
+    eu: The Sting
+    fa: نیش
+    fi: Puhallus
+    fr: L'Arnaque
+    gl: O golpe
+    he: העוקץ
+    hu: A nagy balhé
+    id: The Sting
+    it: La stangata
+    ja: スティング
+    kk: Афера
+    ko: 스팅
+    ky: Афера
+    lb: The Sting
+    lv: Dzelonis (filma)
+    mk: Бодежот
+    mr: द स्टिंग
+    nb: Stikket
+    nds: The Sting
+    nl: The Sting
+    nn: Stikket
+    pl: Żądło
+    pt: The Sting
+    ro: Cacealmaua
+    ru: Афера
+    sh: The Sting
+    sk: Podraz
+    sr: Жаока
+    sv: Blåsningen
+    ta: த ஸ்டிங்
+    tr: Belalılar
+    uk: Афера
+    vi: The Sting
+    wuu: 骗中骗
+    yue: 老千計狀元才
+    zh: 老千計狀元才
+    zh-hant: 刺激
+    zh-hk: 老千計狀元才
+    zh-tw: 刺激
 ---
 ## #has_/text_of_/abstract 
 

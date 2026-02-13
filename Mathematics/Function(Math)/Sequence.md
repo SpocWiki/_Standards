@@ -1,35 +1,245 @@
 ---
 aliases:
-  - Folge
-  - Sequence
+- Ardıcıllıq
+- barisan
+- ciąg
+- cyfres
+- Datig (matematika)
+- dizbek
+- dizi
+- dãy
+- Folge
+- följd
+- følge
+- følgje
+- heuliad
+- jada
+- jono
+- jujukan
+- kevres
+- Mfuatano
+- niz
+- posloupnost
+- Postupnosť
+- rij
+- Runa
+- ráidu
+- ráiđu
+- räidd
+- Rêze
+- searje
+- Segida
+- seicheamh
+- seka
+- sekuencë
+- sekuensia
+- sekvens
+- Sequence
+- Sequensa
+- sequentia
+- Sequentia (mathematica)
+- Sequo
+- Sequéncia
+- sequência
+- socesión
+- sorozat
+- Succession (matematega)
+- successione
+- successió
+- succissioni
+- sucesion
+- sucesión
+- sucesión matemática
+- suite
+- vico
+- virkne
+- zaporedje
+- Ćůng
+- İştizbek
+- șir
+- ακολουθία
+- Іштізбек
+- Даралт
+- лыд рад
+- низ
+- низа
+- пайдарпайӣ
+- паслядоўнасць
+- пасьлядоўнасьць
+- послідовність
+- последовательность
+- Редица
+- Умлăн-хыçлăнлăх
+- эзлеклелек
+- Эҙмә-эҙлеклек
+- հաջորդականություն
+- סדרה
+- جوجوقن
+- دنباله
+- متتالية
+- متوالیہ
+- ىشتىزبەك
+- پاشیەکی
+- अनुक्रम
+- অনুক্রম
+- শৃংখলা
+- தொடர்வரிசை
+- അനുക്രമം
+- ลำดับ
+- အစဉ်လိုက်
+- მიმდევრობა
+- 列
+- 序列
+- 數列
+- 수렬
+- 수열
 has_id_wikidata: Q133250
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~arithmetic_function,140744]]"
-  - "[[_Standards/WikiData/WD~function_of_an_integer_variable,105569679]]"
+- '[[_Standards/WikiData/WD~arithmetic_function,140744]]'
+- '[[_Standards/WikiData/WD~function_of_an_integer_variable,105569679]]'
 different_from:
-  - "[[_Standards/WikiData/WD~series,170198]]"
-  - "[[_Standards/WikiData/WD~𝑛_tuple,600590]]"
-  - "[[_Standards/WikiData/WD~number_sequence,4516355]]"
-  - "[[_Standards/WikiData/WD~infinite_sequence,11085785]]"
-  - "[[_Standards/WikiData/WD~group,16887380]]"
-  - "[[_Standards/WikiData/WD~succession,99632598]]"
+- '[[_Standards/WikiData/WD~series,170198]]'
+- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590]]"
+- '[[_Standards/WikiData/WD~number_sequence,4516355]]'
+- '[[_Standards/WikiData/WD~infinite_sequence,11085785]]'
+- '[[_Standards/WikiData/WD~group,16887380]]'
+- '[[_Standards/WikiData/WD~succession,99632598]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~cardinality,4049983]]"
-  - "[[_Standards/WikiData/WD~sequentiality,56857694]]"
-  - "[[_Standards/WikiData/WD~index,136724397]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~cardinality,4049983]]'
+- '[[_Standards/WikiData/WD~sequentiality,56857694]]'
+- '[[_Standards/WikiData/WD~index,136724397]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~class,16889133]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
-definition_domain: "[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]"
+- '[[_Standards/WikiData/WD~class,16889133]]'
+- '[[_Standards/WikiData/WD~function,11348]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
 Wikidata_property: part of the series
 OmegaWiki_Defined_Meaning: 475754
 Commons_gallery: Sequence
 Commons_category: Sequence
 equivalent_class: https://schema.org/Series
 IPTC_NewsCode: mediatopic/20001179
+dv_has_:
+  name_:
+    ar: متتالية
+    as: শৃংখলা
+    ast: socesión
+    az: Ardıcıllıq
+    ba: Эҙмә-эҙлеклек
+    be: паслядоўнасць
+    be-tarask: пасьлядоўнасьць
+    bg: Редица
+    bn: অনুক্রম
+    br: heuliad
+    bs: niz
+    ca: successió
+    ckb: پاشیەکی
+    cs: posloupnost
+    cv: Умлăн-хыçлăнлăх
+    cy: cyfres
+    da: sekvens
+    de: Folge
+    de-ch: Folge
+    diq: Rêze
+    el: ακολουθία
+    en: sequence
+    en-ca: Sequence
+    en-gb: sequence
+    eo: vico
+    es: sucesión
+    et: jada
+    eu: Segida
+    fa: دنباله
+    fi: jono
+    fr: suite
+    fy: searje
+    ga: seicheamh
+    gl: sucesión matemática
+    he: סדרה
+    hi: अनुक्रम
+    hr: niz
+    hu: sorozat
+    hy: հաջորդականություն
+    ia: Sequentia (mathematica)
+    id: barisan
+    io: Sequo
+    is: Runa
+    it: successione
+    ja: 列
+    ka: მიმდევრობა
+    kaa: dizbek
+    kk: Іштізбек
+    kk-arab: ىشتىزبەك
+    kk-cn: ىشتىزبەك
+    kk-cyrl: Іштізбек
+    kk-kz: Іштізбек
+    kk-latn: İştizbek
+    kk-tr: İştizbek
+    ko: 수열
+    ko-kp: 수렬
+    kw: kevres
+    la: sequentia
+    lb: Suite
+    lmo: Succession (matematega)
+    lt: seka
+    lv: virkne
+    mag: अनुक्रम
+    mk: низа
+    ml: അനുക്രമം
+    ms: jujukan
+    ms-arab: جوجوقن
+    mwl: Sequéncia
+    my: အစဉ်လိုက်
+    nb: følge
+    ne: अनुक्रम
+    nl: rij
+    nn: følgje
+    oc: sequéncia
+    pam: sekuensia
+    pl: ciąg
+    pms: Sequensa
+    pt: sequência
+    pt-br: sequência
+    ro: șir
+    ru: последовательность
+    scn: succissioni
+    se: ráidu
+    sh: Niz
+    sk: Postupnosť
+    sl: zaporedje
+    smn: ráiđu
+    sms: räidd
+    sq: sekuencë
+    sr: низ
+    sr-ec: Низ
+    sr-el: Niz
+    sv: följd
+    sw: Mfuatano
+    szl: Ćůng
+    ta: தொடர்வரிசை
+    tg: пайдарпайӣ
+    tg-cyrl: пайдарпайӣ
+    th: ลำดับ
+    tl: Datig (matematika)
+    tr: dizi
+    tt: эзлеклелек
+    tt-cyrl: эзлеклелек
+    udm: лыд рад
+    uk: послідовність
+    ur: متوالیہ
+    vec: sucesion
+    vi: dãy
+    wuu: 序列
+    xal: Даралт
+    yue: 數列
+    zh: 序列
+    zh-cn: 序列
+    zh-hans: 序列
+    zh-hant: 序列
+    zh-hk: 序列
+    zh-sg: 序列
+    zh-tw: 序列
 ---
-
 # [[Sequence]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sequence,133250|WD~Sequence,133250]]  

@@ -1,21 +1,102 @@
 ---
 aliases:
-  - Nematode
-  - Nematoda
-  - Fadenwürmer
-  - roundworm
-  - nématode
-  - rundormer
-  - Rondwormen
-  - gliste
+- Apvaliosios kirmėlės
+- Apvalė̄jė kėrmėnā
+- Cacing gelang
+- Fadenwörmer
+- Fadenwürmer
+- fonálférgek
+- giun tròn
+- gliste
+- hlístice
+- Hlístovce
+- Llyngyren gron
+- Nematoda
+- Nematode
+- nematodes
+- Nematodi
+- Nematodo
+- Nematodoj
+- Nematodos
+- Nematòd
+- Nemotod
+- nicienie
+- néimeatóid
+- Nématoda
+- nématode
+- Oblići
+- Q'aytu kuru
+- Raammoo geengoo
+- Rondewurms
+- Rondwormen
+- roundworm
+- Rundmaskar
+- rundormar
+- Rundorme
+- rundormer
+- Róndjwörm
+- Rûnwjirms
+- sukkulamadot
+- Triadwirmer
+- Táyiʼ naatʼiʼítsʼósí
+- Ulod nga lingin
+- Valjkasti crvi
+- Yso apu'a
+- Yumru qurdlar
+- Yuvarlak solucanlar
+- Ümarussid
+- Þráðormar
+- νηματώδη
+- ваљкасти црви
+- Жумуру курттар
+- Жұмыр құрттар
+- круглыя чарвякі
+- круглыя чэрві
+- кръгли червеи
+- Нематодалар
+- нематодаос
+- Нематодаш
+- Нематодаҳо
+- нематоди
+- нематоды
+- Төгүрүк чиэрбэ
+- Хилгааһан хорхой
+- Цевчести црви
+- կլոր որդեր
+- רונדע ווערעם
+- תולעים נימיות
+- ديدان أسطوانية
+- ديدان اسطوانيه
+- مشەخۆری نیماتۆدا
+- نماتد
+- نِماَٹوڈا
+- یومرو قۇردلار
+- निमाटोडा
+- सूत्रकृमि
+- ঘূৰণীয়া কৃমি
+- সুতাকৃমি
+- ਨੇਮਾਟੋਡ
+- உருளைப்புழு
+- నెమటోడ
+- ನೆಮಟೋಡ್
+- നിമറ്റോഡ
+- නෙමටෝඩ්
+- นีมาโทดา
+- ნემატოდები
+- ድቡልቡል ትል
+- 綫蟲動物
+- 線形動物
+- 線蟲動物門
+- 线虫动物门
+- 선형동물
 has_id_wikidata: Q5185
 Biology_Online_Biology_Dictionary_entry: nematoda
 Commons_category: Nematoda
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from: '[[_Standards/WikiData/WD~Nematodes,21445586]]'
 EPPO_Code: 1NEMAP
 exact_match: http://wordnet-rdf.princeton.edu/wn30/01930112-n
@@ -31,21 +112,148 @@ start_time: -525000000-01-01
 studied_in: '[[_Standards/WikiData/WD~nematology,2355208]]'
 subclass_of: '[[_Standards/WikiData/WD~worm,47253]]'
 taxon_common_name:
-  - Fadenwürmer
-  - roundworm
-  - nématode
-  - rundormer
-  - Rondwormen
-  - gliste
+- Fadenwürmer
+- roundworm
+- nématode
+- rundormer
+- Rondwormen
+- gliste
 taxon_name: Nematoda
 taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
 title: Nematoda
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9038399,9038399]]'
 UMLS_CUI:
-  - C1704319
-  - C0027581
+- C1704319
+- C0027581
+dv_has_:
+  name_:
+    af: Rondewurms
+    am: ድቡልቡል ትል
+    an: Nematoda
+    ar: ديدان أسطوانية
+    arz: ديدان اسطوانيه
+    as: ঘূৰণীয়া কৃমি
+    ast: Nematoda
+    az: Yumru qurdlar
+    azb: یومرو قۇردلار
+    ba: Нематодалар
+    be: круглыя чэрві
+    be-tarask: круглыя чарвякі
+    bg: кръгли червеи
+    bn: সুতাকৃমি
+    br: Nematoda
+    bs: Nematoda
+    bxr: Хилгааһан хорхой
+    ca: Nematode
+    ceb: Ulod nga lingin
+    ckb: مشەخۆری نیماتۆدا
+    co: Nematoda
+    cs: hlístice
+    cy: Llyngyren gron
+    da: Rundorme
+    de: Fadenwürmer
+    el: νηματώδη
+    en: Nematoda
+    en-ca: Nematode
+    en-gb: Nematode
+    eo: Nematodoj
+    es: Nematoda
+    et: Ümarussid
+    eu: Nematoda
+    ext: Nematoda
+    fa: نماتد
+    fi: sukkulamadot
+    fr: Nematoda
+    frr: Triadwirmer
+    fy: Rûnwjirms
+    ga: néimeatóid
+    gl: Nematodos
+    gn: Yso apu'a
+    gsw: Fadenwürmer
+    he: תולעים נימיות
+    hi: सूत्रकृमि
+    hif: Nematode
+    hr: Oblići
+    hu: fonálférgek
+    hy: կլոր որդեր
+    ia: Nematoda
+    id: Nematoda
+    ie: Nematoda
+    inh: Нематодаш
+    io: Nematodo
+    is: Þráðormar
+    it: Nematoda
+    ja: 線形動物
+    jv: Nematoda
+    ka: ნემატოდები
+    kk: Жұмыр құрттар
+    kn: ನೆಮಟೋಡ್
+    ko: 선형동물
+    ks: نِماَٹوڈا
+    kw: Nemotod
+    ky: Жумуру курттар
+    la: Nematoda
+    lad: Nematoda
+    lfn: Nematodo
+    li: Róndjwörm
+    lmo: Nematoda
+    lt: Apvaliosios kirmėlės
+    lv: nematodes
+    mk: Цевчести црви
+    ml: നിമറ്റോഡ
+    ms: Cacing gelang
+    mul: Nematoda
+    nb: rundormer
+    nds: Fadenwörmer
+    ne: निमाटोडा
+    nl: rondwormen
+    nn: rundormar
+    nov: Nematoda
+    nrm: Nematoda
+    nv: Táyiʼ naatʼiʼítsʼósí
+    oc: Nematoda
+    om: Raammoo geengoo
+    pa: ਨੇਮਾਟੋਡ
+    pl: nicienie
+    pms: Nematòd
+    pt: Nematoda
+    pt-br: Nematoda
+    qu: Q'aytu kuru
+    rm: Nematoda
+    ro: Nematoda
+    ru: нематоды
+    rup: Nematoda
+    sah: Төгүрүк чиэрбэ
+    sco: nematode
+    sgs: Apvalė̄jė kėrmėnā
+    sh: Valjkasti crvi
+    si: නෙමටෝඩ්
+    sk: Hlístovce
+    sl: gliste
+    sq: Nematoda
+    sr: ваљкасти црви
+    su: Nématoda
+    sv: Rundmaskar
+    sw: Nematodi
+    ta: உருளைப்புழு
+    te: నెమటోడ
+    tg: Нематодаҳо
+    th: นีมาโทดา
+    tl: Nematode
+    tr: Yuvarlak solucanlar
+    udm: нематодаос
+    uk: нематоди
+    vi: giun tròn
+    vo: Nematoda
+    war: Nematoda
+    wuu: 线虫动物门
+    yi: רונדע ווערעם
+    yue: 綫蟲動物
+    zh: 线虫动物门
+    zh-cn: 线虫动物门
+    zh-hans: 线虫动物门
+    zh-tw: 線蟲動物門
 ---
-
 # [[Nematoda]]
 
 Roundworms 

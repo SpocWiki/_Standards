@@ -1,88 +1,346 @@
 ---
 aliases:
-  - Technetium
+- ijo lili nanpa 43
+- runjinme
+- Tcetiel
+- Technecis
+- technecium
+- technet
+- Technetium
+- technetiwm
+- technețiu
+- technécium
+- technétium
+- tecneci
+- tecnecio
+- tecneciu
+- tecnesio
+- Tecnessi
+- Tecnesyo
+- tecneti
+- Tecnezi
+- tecnezio
+- Tecneziu
+- Tecnèci
+- Tecnètziu
+- tecnécio
+- tegnesium
+- Tehnecii
+- tehnecij
+- Tehneetsium
+- Tehnețiu
+- Tehnicijum
+- tehnēcijs
+- Teicnetium
+- teicnéitiam
+- Tekineti
+- teknecio
+- Teknesium
+- Teknesyo
+- Teknesyu
+- Teknesyum
+- Teknesyûm
+- teknetin
+- Teknetiom
+- teknetium
+- Teknetiumi
+- Teknetiyaam
+- teknetín
+- teknezio
+- teknezju
+- Texnesium
+- Texnetsiy
+- teĥneciumo
+- ticnezziu
+- Tèknesyòm
+- Téknésium
+- Tɛkɩnɛsɩyɔm
+- UmThanyambi
+- çheghnaiçhum
+- τεχνήτιο
+- технецій
+- Технеци
+- технецијум
+- технеций
+- технециум
+- Технециүм
+- Тэхнецый
+- тэхнэц
+- տեխնեցիում
+- טכנציום
+- טעכנעטיום
+- تكنيشيوم
+- تکنسیم
+- تێکنیشیۆم
+- تېخېتىسىي
+- طيكنيتيوم
+- ٹیکنیشیئم
+- ٹیکنیٹیم
+- ټېکنېټيوم
+- ٽيڪنيشيئم
+- टेक्निशियम
+- टेक्नेटियम
+- टेक्नेसियम
+- টেকনেশিয়াম
+- ਟੈਕਨੀਸ਼ੀਅਮ
+- ટેક્નેશિયમ
+- ଟେକ୍ନିସିଅମ
+- டெக்னீசியம்
+- టెక్నీషియమ్
+- ಟೆಕ್ನೀಶಿಯಮ್
+- ടെക്നീഷ്യം
+- เทคนีเชียม
+- ཊེག་ནི་ཤིམ།
+- တက္ကနက်တီယမ်
+- ტექნეციუმი
+- ቴክኔቲየም
+- テクネチウム
+- 鍀
+- 鎝
+- 锝
+- 테크네튬
 has_id_wikidata: Q1054
 atomic_number: 43
-canonical_SMILES: "[Tc]"
+canonical_SMILES: '[Tc]'
 CAS_Registry_Number: 7440-26-8
 chemical_formula: Tc
 Commons_category: Technetium
 Commons_gallery: Technetium
 Common_Procurement_Vocabulary_code:
-  - 14742000-4
-  - 14742000
+- 14742000-4
+- 14742000
 CPV_Supplementary_code: AA20
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Microsoft_TechNet,958338]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Microsoft_TechNet,958338]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
-  - "[[_Standards/WikiData/WD~Carlo_Perrier,2939237]]"
+- '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+- '[[_Standards/WikiData/WD~Carlo_Perrier,2939237]]'
 DSSTOX_compound_identifier: DTXCID1047655
 EC_number: 231-136-0
 electronegativity: 1.9
-electron_configuration: "[Kr] 4d⁵ 5s²"
+electron_configuration: '[Kr] 4d⁵ 5s²'
 element_symbol: Tc
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
 Gmelin_number: 16310
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Technetium-sample.jpg
 InChI: InChI=1S/Tc
 InChIKey: GKLVYJBZJHMRIY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 0.65
 Krugosvet_article: nauka_i_tehnika/himiya/TEHNETSI.html
-location_of_discovery: "[[_Standards/WikiData/WD~Italy,38]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Italy,38]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tc-TableImage.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Technetium.svg
 mass: 97.907
 melting_point: 2170
 MeSH_tree_code:
-  - D01.268.271.870
-  - D01.268.556.843
-  - D01.268.956.875
-  - D01.496.749.305.870
-  - D01.552.544.843
-named_after: "[[_Standards/WikiData/WD~technique,2695280]]"
+- D01.268.271.870
+- D01.268.556.843
+- D01.268.956.875
+- D01.496.749.305.870
+- D01.552.544.843
+named_after: '[[_Standards/WikiData/WD~technique,2695280]]'
 OmegaWiki_Defined_Meaning: 363476
 oxidation_state:
-  - 4
-  - 6
-  - 7
+- 4
+- 6
+- 7
 part_of:
-  - "[[_Standards/WikiData/WD~group_7,202602]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+- '[[_Standards/WikiData/WD~group_7,202602]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 23957
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20043%20technetium.png
 SpocWebEntityId: 21941
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1937
 type: Element
 Unicode_character: 鎝
 UNSPSC_Code: 12141742
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Technetium,1054]]"
-    - "[[../../../WikiData/WD~Technetium,1054|WD~Technetium,1054]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium|Technetium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public|Technetium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal|Technetium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect|Technetium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private|Technetium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal|Technetium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret|Technetium.secret]]"
-  part_of: "[[../Group-07-Manganese]]"
+  - '[[../../../WikiData/WD~Technetium,1054]]'
+  - '[[../../../WikiData/WD~Technetium,1054|WD~Technetium,1054]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium|Technetium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public|Technetium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal|Technetium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect|Technetium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private|Technetium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal|Technetium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret|Technetium.secret]]'
+  part_of: '[[../Group-07-Manganese]]'
 dv_has_:
   name_:
-    group: Group-07-Manganese
-    en: Technetium
-    de: Technetium
     abbreviated: Tc
+    af: tegnesium
+    am: ቴክኔቲየም
+    an: Tecnecio
+    anp: टेक्निशियम
+    ar: تكنيشيوم
+    ary: طيكنيتيوم
+    arz: تكنيشيوم
+    ast: tecneciu
+    avk: Tcetiel
+    az: Texnesium
+    ba: Технеций
+    ban: Téknésium
+    bcl: Teknesyo
+    be: Тэхнецый
+    be-tarask: тэхнэц
+    bg: технеций
+    bho: टेक्नेसियम
+    bn: টেকনেশিয়াম
+    bo: ཊེག་ནི་ཤིམ།
+    br: Teknetiom
+    bs: tehnecij
+    ca: tecneci
+    cdo: Technetium
+    ceb: Teknesyo
+    ckb: تێکنیشیۆم
+    co: Tecneziu
+    cs: technecium
+    cv: Технеци
+    cy: technetiwm
+    da: technetium
+    de: Technetium
+    el: τεχνήτιο
+    en: technetium
+    eo: teĥneciumo
+    es: tecnecio
+    es-419: tecnecio
+    et: Tehneetsium
+    eu: teknezio
+    fa: تکنسیم
+    fi: teknetium
+    fr: technétium
+    frr: Technetium
+    fur: Tecnezi
+    ga: teicnéitiam
+    gd: Teicnetium
+    gl: Tecnecio
+    group: Group-07-Manganese
+    gu: ટેક્નેશિયમ
+    gv: çheghnaiçhum
+    hak: technetium
+    he: טכנציום
+    hi: टेक्निशियम
+    hif: Technetium
+    hr: tehnecij
+    ht: Tèknesyòm
+    hu: technécium
+    hy: տեխնեցիում
+    ia: technetium
+    id: teknesium
+    io: teknecio
+    is: teknetín
+    it: tecnezio
+    ja: テクネチウム
+    jbo: runjinme
+    ka: ტექნეციუმი
+    kbp: Tɛkɩnɛsɩyɔm
+    kk: Технеций
+    kn: ಟೆಕ್ನೀಶಿಯಮ್
+    ko: 테크네튬
+    ku: Teknesyûm
+    kv: Технеций
+    kw: Teknetiom
+    ky: Технеций
+    la: technetium
+    lb: Technetium
+    lfn: tecnesio
+    li: Technetium
+    lij: Tecnesio
+    lmo: Tecnesio
+    lt: Technecis
+    lv: tehnēcijs
+    lzh: 鍀
+    mdf: Технеци
+    mk: технециум
+    ml: ടെക്നീഷ്യം
+    mn: технеци
+    mr: टेक्नेटियम
+    mrj: Технеций
+    ms: Teknetium
+    mt: teknezju
+    my: တက္ကနက်တီယမ်
+    nan: Technetium
+    nb: technetium
+    ne: टेक्निशियम
+    new: टेक्नेसियम
+    nl: technetium
+    nn: technetium
+    nov: Teknesium
+    oc: Tecnèci
+    olo: Tehnecii
+    or: ଟେକ୍ନିସିଅମ
+    os: технеций
+    pa: ਟੈਕਨੀਸ਼ੀਅਮ
+    pi: टेक्नेसियम
+    pl: technet
+    pms: Tecnessi
+    pnb: ٹیکنیٹیم
+    ps: ټېکنېټيوم
+    pt: tecnécio
+    pt-br: tecnécio
+    qu: Teknesyu
+    ro: technețiu
+    ru: технеций
+    rup: Tehnețiu
+    sa: टेक्नेसियम
+    sc: Tecnètziu
+    scn: ticnezziu
+    sco: Technetium
+    sd: ٽيڪنيشيئم
+    sh: Tehnicijum
+    sk: technécium
+    sl: tehnecij
+    so: Teknetiyaam
+    sq: Teknetiumi
+    sr: технецијум
+    stq: Technetium
+    sv: teknetium
+    sw: Tekineti
+    ta: டெக்னீசியம்
+    te: టెక్నీషియమ్
+    tg: технеций
+    th: เทคนีเชียม
+    tl: technetium
+    tok: ijo lili nanpa 43
+    tr: Teknesyum
+    tt: Технеций
+    ug: تېخېتىسىي
+    uk: технецій
+    ur: ٹیکنیشیئم
+    uz: Texnetsiy
+    vep: Tehnecii
+    vi: tecneti
+    vo: teknetin
+    war: Tecnesyo
+    wuu: 锝
+    xal: Технециүм
+    yi: טעכנעטיום
+    yo: Technetium
+    yue: 鎝
+    zh: 鎝
+    zh-cn: 锝
+    zh-hans: 锝
+    zh-hant: 鎝
+    zh-hk: 鍀
+    zh-mo: 鍀
+    zh-my: 锝
+    zh-sg: 锝
+    zh-tw: 鎝
+    zu: UmThanyambi
+  number_of_:
+    period: 5
+    electrons: 43
+    group: 7
   value_for_:
     weight_:
       u: 98.9062
@@ -110,22 +368,18 @@ dv_has_:
       form_:
         kj_:
           mol: 660
-  number_of_:
-    period: 5
-    electrons: 43
-    group: 7
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Technetium,1054]]"
-  - "[[../../../WikiData/WD~Technetium,1054|WD~Technetium,1054]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium|Technetium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public|Technetium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal|Technetium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect|Technetium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private|Technetium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal|Technetium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret|Technetium.secret]]"
+- '[[../../../WikiData/WD~Technetium,1054]]'
+- '[[../../../WikiData/WD~Technetium,1054|WD~Technetium,1054]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium|Technetium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public|Technetium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal|Technetium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect|Technetium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private|Technetium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal|Technetium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret|Technetium.secret]]'
 dv_has_name_group: Group-07-Manganese
-dv_is_part_of: "[[../Group-07-Manganese]]"
+dv_is_part_of: '[[../Group-07-Manganese]]'
 dv_has_name_en: Technetium
 dv_has_name_de: Technetium
 dv_has_value_for_weight_u: 98.9062
@@ -146,7 +400,6 @@ dv_has_name_abbreviated: Tc
 dv_has_number_of_electrons: 43
 dv_has_number_of_group: 7
 ---
-
 # [[Technetium]] 
 
 #chemic/Element 

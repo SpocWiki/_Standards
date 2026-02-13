@@ -1,8 +1,129 @@
 ---
 aliases:
-  - Synapsida
+- Añtärizdiler
+- emlősszerűek
+- lớp Một cung bên
+- Pattedyrlignende krybdyr
+- Pattedyrliknande krypdyr
+- pattedyrliknende krypdyr
+- Sinapsid
+- Sinapsida
+- sinapsidi
+- sinapsidoj
+- sinàpsids
+- Sinápsidos
+- Synapsid
+- Synapsida
+- Synapside
+- Synapsiden
+- synapsidit
+- synapsydy
+- Þeldýr
+- Συναψιδωτά
+- Айбан сыяктуулар
+- Аңтәрізділер
+- сінапсіды
+- синапсиди
+- синапсиды
+- сынапсіды
+- סינאפסידה
+- اڭتارىزدىلەر
+- سایناپسیدها
+- سیناپسیدا
+- مندمجات الأقواس
+- مندمجات الاقواس
+- ซีแนปซิด
+- თერომორფები
+- 単弓類
+- 合弓綱
+- 合弓纲
+- 단궁류
 title: Synapsida
 has_id_wikidata: Q189069
+dv_has_:
+  name_:
+    af: Synapsida
+    an: Synapsida
+    ar: مندمجات الأقواس
+    arz: مندمجات الاقواس
+    ast: Synapsida
+    azb: سیناپسیدا
+    be: сінапсіды
+    be-tarask: сынапсіды
+    bg: синапсиди
+    bs: sinapsidi
+    ca: sinàpsids
+    ceb: Synapsida
+    cs: Synapsida
+    da: Pattedyrlignende krybdyr
+    de: Synapsiden
+    de-ch: Synapsiden
+    el: Συναψιδωτά
+    en: Synapsida
+    en-ca: Synapsid
+    en-gb: synapsid
+    eo: sinapsidoj
+    es: Synapsida
+    eu: Synapsida
+    fa: سایناپسیدها
+    fi: synapsidit
+    fr: Synapsida
+    fy: Synapsiden
+    ga: Synapsida
+    gl: Sinápsidos
+    he: סינאפסידה
+    hu: emlősszerűek
+    ia: Synapsida
+    id: Synapsida
+    is: Þeldýr
+    it: Synapsida
+    ja: 単弓類
+    jv: Synapsida
+    ka: თერომორფები
+    kk: Аңтәрізділер
+    kk-arab: اڭتارىزدىلەر
+    kk-cn: اڭتارىزدىلەر
+    kk-cyrl: Аңтәрізділер
+    kk-kz: Аңтәрізділер
+    kk-latn: Añtärizdiler
+    kk-tr: Añtärizdiler
+    ko: 단궁류
+    ky: Айбан сыяктуулар
+    la: Synapsida
+    li: Synapside
+    mk: Синапсиди
+    ms: Synapsida
+    mul: Synapsida
+    nb: pattedyrliknende krypdyr
+    nl: synapsiden
+    nn: Pattedyrliknande krypdyr
+    oc: Sinapsida
+    or: Synapsid
+    pl: synapsydy
+    pt: Synapsida
+    pt-br: Synapsida
+    ro: Synapsida
+    ru: синапсиды
+    scn: Synapsida
+    sk: Synapsida
+    sl: sinapsidi
+    sq: Synapsida
+    sr: sinapsidi
+    sv: synapsida
+    th: ซีแนปซิด
+    tl: Synapsida
+    tr: Sinapsid
+    uk: синапсиди
+    vi: lớp Một cung bên
+    war: Synapsida
+    wuu: 合弓纲
+    zh: 合弓綱
+    zh-cn: 合弓纲
+    zh-hans: 合弓纲
+    zh-hant: 合弓綱
+    zh-hk: 合弓綱
+    zh-sg: 合弓纲
+    zh-tw: 合弓綱
 ---
 # [[Synapsida]]
 

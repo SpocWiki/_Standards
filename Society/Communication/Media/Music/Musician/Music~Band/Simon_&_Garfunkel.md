@@ -1,47 +1,145 @@
 ---
-has_time_started: 1957-01-01 
+has_time_started: 1957-01-01
 aliases:
+- Simon & Garfunkel
+- Simon and Garfunkel
+- Simon et Garfunkel
+- Σάιμον και Γκάρφανκελ
+- Сајмон и Гарфанкел
+- Сайман & Гарфанкел
+- Саймън и Гарфънкъл
+- סיימון וגרפונקל
+- سايمون وغارفنكل
+- سایمون و قارفانکل
+- سایمون و گارفانکل
+- سيمون و جرفنكل
+- সাইমন এবং গারফাঙ্কেল
+- ไซมอน แอนด์ การ์ฟังเกล
+- サイモン&ガーファンクル
+- 西蒙和加芬克尔
+- 西蒙搭加芬克尔
+- 西蒙與加芬克爾
+- 西門與嘉芬高
+- 西门与加芬高
+- 賽門與葛芬柯
+- 사이먼 앤 가펑클
 has_id_wikidata: Q484918
 official_name: Simon & Garfunkel
 work_period_end_: 2010-01-01T00:00:00Z
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Boxer,180128]]"
-  - "[[_Standards/WikiData/WD~Bridge_over_Troubled_Water,655502]]"
-  - "[[_Standards/WikiData/WD~El_cóndor_pasa,918029]]"
-  - "[[_Standards/WikiData/WD~The_Sounds_of_Silence,922139]]"
-  - "[[_Standards/WikiData/WD~Homeward_Bound,1626100]]"
-  - "[[_Standards/WikiData/WD~A_Hazy_Shade_of_Winter,2716338]]"
-record_label: "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
+- '[[_Standards/WikiData/WD~The_Boxer,180128]]'
+- '[[_Standards/WikiData/WD~Bridge_over_Troubled_Water,655502]]'
+- '[[_Standards/WikiData/WD~El_cóndor_pasa,918029]]'
+- '[[_Standards/WikiData/WD~The_Sounds_of_Silence,922139]]'
+- '[[_Standards/WikiData/WD~Homeward_Bound,1626100]]'
+- '[[_Standards/WikiData/WD~A_Hazy_Shade_of_Winter,2716338]]'
+record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 genre:
-  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
-  - "[[_Standards/WikiData/WD~soft_rock,217191]]"
-  - "[[_Standards/WikiData/WD~psychedelic_folk,1500364]]"
-  - "[[_Standards/WikiData/WD~folk_pop,11700058]]"
-discography: "[[_Standards/WikiData/WD~Simon_&_Garfunkel_discography,768450]]"
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~soft_rock,217191]]'
+- '[[_Standards/WikiData/WD~psychedelic_folk,1500364]]'
+- '[[_Standards/WikiData/WD~folk_pop,11700058]]'
+discography: '[[_Standards/WikiData/WD~Simon_&_Garfunkel_discography,768450]]'
 location_of_formation:
-  - "[[_Standards/WikiData/WD~Forest_Hills,1202211]]"
-  - "[[_Standards/WikiData/WD~Queens,18424]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-instance_of: "[[_Standards/WikiData/WD~musical_duo,9212979]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Simon_&_Garfunkel,10728865]]"
+- '[[_Standards/WikiData/WD~Forest_Hills,1202211]]'
+- '[[_Standards/WikiData/WD~Queens,18424]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~musical_duo,9212979]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Simon_&_Garfunkel,10728865]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Paul_Simon,4028]]"
-  - "[[_Standards/WikiData/WD~Q4039,4039]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Paul_Simon,4028]]'
+- '[[_Standards/WikiData/WD~Q4039,4039]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Simon and Garfunkel
 inception: 1957-01-01T00:00:00Z
 work_period_start_: 1956-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20and%20Garfunkel%201968.jpg
 official_website: https://www.simonandgarfunkel.com/
-ISNI: "0000000119545316"
+ISNI: 0000000119545316
 Libris_URI: rp3562d90f1vzlx
 Facebook_username: SimonandGarfunkel
 X_Twitter_username: simongarfunkel
+dv_has_:
+  name_:
+    af: Simon & Garfunkel
+    an: Simon and Garfunkel
+    ar: سايمون وغارفنكل
+    arz: سيمون و جرفنكل
+    ast: Simon & Garfunkel
+    azb: سایمون و قارفانکل
+    be-tarask: Сайман & Гарфанкел
+    bg: Саймън и Гарфънкъл
+    bn: সাইমন এবং গারফাঙ্কেল
+    ca: Simon and Garfunkel
+    cs: Simon & Garfunkel
+    cy: Simon & Garfunkel
+    da: Simon & Garfunkel
+    de: Simon & Garfunkel
+    el: Σάιμον και Γκάρφανκελ
+    en: Simon & Garfunkel
+    en-us: Simon & Garfunkel
+    eo: Simon & Garfunkel
+    es: Simon and Garfunkel
+    et: Simon and Garfunkel
+    eu: Simon & Garfunkel
+    fa: سایمون و گارفانکل
+    fi: Simon & Garfunkel
+    fr: Simon et Garfunkel
+    fy: Simon & Garfunkel
+    ga: Simon & Garfunkel
+    gl: Simon and Garfunkel
+    he: סיימון וגרפונקל
+    hr: Simon & Garfunkel
+    hu: Simon and Garfunkel
+    hy: Simon & Garfunkel
+    id: Simon and Garfunkel
+    io: Simon & Garfunkel
+    is: Simon & Garfunkel
+    it: Simon & Garfunkel
+    ja: サイモン&ガーファンクル
+    ka: Simon & Garfunkel
+    kk: Simon & Garfunkel
+    ko: 사이먼 앤 가펑클
+    la: Simon et Garfunkel
+    lt: Simon & Garfunkel
+    mg: Simon & Garfunkel
+    mk: Simon & Garfunkel
+    mul: Simon & Garfunkel
+    nb: Simon & Garfunkel
+    nl: Simon & Garfunkel
+    nn: Simon & Garfunkel
+    pl: Simon & Garfunkel
+    pms: Simon and Garfunkel
+    pt: Simon & Garfunkel
+    ro: Simon and Garfunkel
+    ru: Simon & Garfunkel
+    sc: Simon & Garfunkel
+    scn: Simon and Garfunkel
+    sco: Simon & Garfunkel
+    sh: Simon & Garfunkel
+    sk: Simon & Garfunkel
+    sl: Simon & Garfunkel
+    sq: Simon & Garfunkel
+    sr: Сајмон и Гарфанкел
+    sv: Simon and Garfunkel
+    th: ไซมอน แอนด์ การ์ฟังเกล
+    tr: Simon and Garfunkel
+    uk: Simon and Garfunkel
+    uz: Simon & Garfunkel
+    vi: Simon & Garfunkel
+    war: Simon & Garfunkel
+    wuu: 西蒙搭加芬克尔
+    yue: 西門與嘉芬高
+    zh: 西蒙與加芬克爾
+    zh-hans: 西蒙和加芬克尔
+    zh-hant: 賽門與葛芬柯
+    zh-hk: 西門與嘉芬高
+    zh-sg: 西门与加芬高
+    zh-tw: 賽門與葛芬柯
 ---
-
 # [[Simon_&_Garfunkel]] 
 
 #is_/same_as :: [[WD~Simon_&_Garfunkel,484918]] 

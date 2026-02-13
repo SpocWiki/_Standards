@@ -1,23 +1,86 @@
 ---
 aliases:
-  - Military history
-  - Military_History
-  - Military History
+- askerî tarih
+- hadtörténet
+- Harbiy tarix
+- histoire militaire
+- historia militar
+- Historia militarra
+- historia ushtarake
+- historia wojskowości
+- història militar
+- história militar
+- hərb tarixi
+- istor milourel
+- Istorie militară
+- istòria miłitare
+- Kaagi hin militar
+- karo istorija
+- Kasaysayang militar
+- krijgsgeschiedenis
+- Krygsgeskiedenis
+- Lịch sử quân sự
+- milita historio
+- Military history
+- Military_History
+- Militärgeschichte
+- militärhistoria
+- militærhistorie
+- militārā vēsture
+- Sejarah ketenteraan
+- Sejarah militer
+- soahtehistorjá
+- sodankäynnin historia
+- stair mhíleata
+- storia militare
+- sõjaajalugu
+- vojaška zgodovina
+- vojenská historie
+- vojna historija
+- Vojna istorija
+- Vojna povijest
+- Äskerï tarïx
+- Çар тата вăрçă историйĕ
+- Στρατιωτική ιστορία
+- військова історія
+- ваенная гісторыя
+- вайсковая гісторыя
+- воена историја
+- Военна история
+- военная история
+- хәрби тарих
+- Әскери тарих
+- ռազմական պատմություն
+- היסטוריה צבאית
+- اسكەرىي تارىيح
+- تاريخ عسكري
+- تاریخ نظامی
+- فوجی تاریخ
+- مێژووی سەربازی
+- پوځي تاریخ
+- सैनिक इतिहास
+- সেনাবাহিনীর ইতিহাস
+- හමුදා ඉතිහාසය
+- ประวัติศาสตร์การทหาร
+- სამხედრო ისტორია
+- 军事史
+- 軍事史
+- 군사사
 has_id_wikidata: Q192781
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 practiced_by: '[[_Standards/WikiData/WD~military_historian,1493121]]'
 has_characteristic: '[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_history,81517619]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_history,81517619]]'
 is_the_study_of: '[[_Standards/WikiData/WD~war,198]]'
 U_S_National_Archives_Identifier: 10642634
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ramses%20II%20at%20Kadesh.jpg
@@ -26,8 +89,90 @@ Classification_of_Instructional_Programs_code: 54.0108
 Provenio_UUID: bef107f9-2aff-4cb2-b836-4975021d173f
 Commons_category: Military history
 subreddit: MilitaryHistory
+dv_has_:
+  name_:
+    af: Krygsgeskiedenis
+    ar: تاريخ عسكري
+    ast: historia militar
+    az: hərb tarixi
+    be: ваенная гісторыя
+    be-tarask: вайсковая гісторыя
+    bg: Военна история
+    bn: সেনাবাহিনীর ইতিহাস
+    br: istor milourel
+    bs: Vojna historija
+    ca: història militar
+    ckb: مێژووی سەربازی
+    cs: vojenská historie
+    cv: Çар тата вăрçă историйĕ
+    da: militærhistorie
+    de: Militärgeschichte
+    el: Στρατιωτική ιστορία
+    en: military history
+    eo: milita historio
+    es: historia militar
+    et: sõjaajalugu
+    eu: Historia militarra
+    fa: تاریخ نظامی
+    fi: sodankäynnin historia
+    fr: histoire militaire
+    ga: stair mhíleata
+    gl: historia militar
+    he: היסטוריה צבאית
+    hi: सैनिक इतिहास
+    hr: Vojna povijest
+    hu: hadtörténet
+    hy: ռազմական պատմություն
+    id: Sejarah militer
+    it: storia militare
+    ja: 軍事史
+    ka: სამხედრო ისტორია
+    kk: Әскери тарих
+    kk-arab: اسكەرىي تارىيح
+    kk-cn: اسكەرىي تارىيح
+    kk-cyrl: Әскери тарих
+    kk-kz: Әскери тарих
+    kk-latn: Äskerï tarïx
+    kk-tr: Äskerï tarïx
+    ko: 군사사
+    lt: karo istorija
+    lv: militārā vēsture
+    mk: воена историја
+    ms: Sejarah ketenteraan
+    nb: militærhistorie
+    nl: krijgsgeschiedenis
+    pl: historia wojskowości
+    ps: پوځي تاریخ
+    pt: história militar
+    pt-br: História militar
+    ro: Istorie militară
+    ru: военная история
+    se: soahtehistorjá
+    sh: vojna historija
+    si: හමුදා ඉතිහාසය
+    sl: vojaška zgodovina
+    sq: historia ushtarake
+    sr: Vojna istorija
+    sv: militärhistoria
+    th: ประวัติศาสตร์การทหาร
+    tl: Kasaysayang militar
+    tr: askerî tarih
+    tt: хәрби тарих
+    tt-cyrl: хәрби тарих
+    uk: військова історія
+    ur: فوجی تاریخ
+    uz: Harbiy tarix
+    vec: istòria miłitare
+    vi: Lịch sử quân sự
+    war: Kaagi hin militar
+    zh: 軍事史
+    zh-cn: 军事史
+    zh-hans: 军事史
+    zh-hant: 軍事史
+    zh-hk: 軍事史
+    zh-sg: 军事史
+    zh-tw: 軍事史
 ---
-
 # [[Military_History]] 
 
 #is_/same_as :: [[WD~Military_history,192781]] 

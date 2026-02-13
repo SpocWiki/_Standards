@@ -1,46 +1,196 @@
 ---
 aliases:
-  - Palikir
+- i-Palikir
+- Palicrum
+- Paliki
+- Palikir
+- Palikir - National Government Center
+- Palikira
+- Palikiro
+- Palikyras
+- Palikír
+- Paliquir
+- Παλικίρ
+- Палікір
+- Паликир
+- Պալիկիր
+- Փալիքիր
+- פליקיר
+- باليكير
+- پاليكير
+- پاليڪر
+- پالیکیر
+- पालिकिर
+- पेलिकियर
+- পালিকির
+- ਪਾਲੀਕਰ
+- பலிகீர்
+- పాలీకీర్
+- പാലികിർ
+- පලිකීර්, මයික්රොනීසියා ගිවිසුම් ජනපද
+- ปาลีกีร์
+- პალიკირი
+- ፓሊኪር
+- パリキール
+- 帕利基尔
+- 帕利基爾
+- 팔리키르
 has_id_wikidata: Q42751
 confidential: public
 isDeleted: false
 location:
-  - 6.916667
-  - 158.15
+- 6.916667
+- 158.15
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 36748
 tags:
-  - geo/City
+- geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 158.15
 dv_has_place_latitude: 6.916667
 dv_has_name: Palikir
 dv_has_place_country: Micronesia,_Fed._States]
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]"
-    - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]'
+  - '[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]"
-  - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]'
+- '[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]'
+- '[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]'
+dv_has_:
+  name_:
+    af: Palikir
+    am: ፓሊኪር
+    ar: باليكير
+    ary: پاليكير
+    arz: باليكير
+    ast: Palikir
+    avk: Palikir
+    az: Palikir
+    ba: Паликир
+    ban: Palikir
+    bcl: Palikir
+    be: Палікір
+    be-tarask: Палікір
+    bg: Паликир
+    bn: পালিকির
+    br: Palikir
+    bs: Palikir
+    ca: Palikir
+    cdo: Palikir
+    ce: Паликир
+    ceb: Palikir - National Government Center
+    cs: Palikir
+    cy: Palikir
+    da: Palikir
+    de: Palikir
+    el: Παλικίρ
+    en: Palikir
+    eo: Palikiro
+    es: Palikir
+    et: Palikir
+    eu: Palikir
+    fa: پالیکیر
+    fi: Palikir
+    fr: Palikir
+    fy: Palikir
+    ga: Palikir
+    gd: Palikir
+    gl: Palikir
+    hak: Palikir
+    he: פליקיר
+    hi: पेलिकियर
+    hif: Palikir
+    hr: Palikir
+    ht: Paliki
+    hu: Palikir
+    hy: Պալիկիր
+    hyw: Փալիքիր
+    id: Palikir
+    ie: Palikir
+    io: Palikir
+    is: Palikír
+    it: Palikir
+    ja: パリキール
+    ka: პალიკირი
+    kk: Паликир
+    ko: 팔리키르
+    ky: Паликир
+    la: Palicrum
+    lb: Palikir
+    lij: Palikir
+    lmo: Palikir
+    lt: Palikyras
+    lv: Palikira
+    mg: Palikir
+    min: Palikir
+    mk: Паликир
+    ml: പാലികിർ
+    mr: पालिकिर
+    ms: Palikir
+    nan: Palikir
+    nb: Palikir
+    nds: Palikir
+    nl: Palikir
+    nn: Palikir
+    oc: Palikir
+    os: Паликир
+    pa: ਪਾਲੀਕਰ
+    pl: Palikir
+    ps: پالیکیر
+    pt: Paliquir
+    ro: Palikir
+    ru: Паликир
+    rw: Palikir
+    sah: Паликир
+    sc: Palikir
+    sco: Palikir
+    sd: پاليڪر
+    sh: Palikir
+    si: පලිකීර්, මයික්රොනීසියා ගිවිසුම් ජනපද
+    sk: Palikir
+    sl: Palikir
+    sn: Palikir
+    sr: Паликир
+    sv: Palikir
+    sw: Palikir
+    ta: பலிகீர்
+    te: పాలీకీర్
+    tg: Паликир
+    th: ปาลีกีร์
+    tl: Palikir
+    tr: Palikir
+    tt: Паликир
+    ty: Palikir
+    uk: Палікір
+    ur: پالیکیر
+    uz: Palikir
+    vep: Palikir
+    vi: Palikir
+    war: Palikir
+    wuu: 帕利基爾
+    xmf: პალიკირი
+    yue: 帕利基爾
+    zh: 帕利基尔
+    zh-cn: 帕利基尔
+    zu: i-Palikir
 ---
-
 # [[Palikir]] 
 
 

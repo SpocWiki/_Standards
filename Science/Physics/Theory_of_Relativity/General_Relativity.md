@@ -1,9 +1,119 @@
 ---
 aliases:
-  - general theory of relativity
-  - general relativity
-  - General_Relativity
-  - General Relativity
+- algemene relativiteitstheorie
+- algemene relatiwiteit
+- allgemeine Relativitätstheorie
+- allgemene Relativitätstheorie
+- allmänna relativitetsteorin
+- almenna afstæðiskenningin
+- bendroji reliatyvumo teorija
+- bėndruojė relētīvoma teuorėjė
+- damcaniaeth perthnasedd cyffredinol
+- den generelle relativitetsteorien
+- erlatibitate orokor
+- genel görelilik kuramı
+- general relativity
+- general theory of relativity
+- generala relativeso
+- General_Relativity
+- generel relativitetsteori
+- It-poaⁿ siong-tùi-sèng lí-lūn
+- kasahiran nga teyorya han relatividad
+- kerelatifan am
+- mba'ekuaarã joguerahaviárava pavẽ
+- obecná teorie relativity
+- ogólna teoria względności
+- oigmoane Relativitetstheorie
+- opća teorija relativnosti
+- opšta teorija relativnosti
+- relativelezh hollek
+- relatividad general
+- relatividade geral
+- relatividade xeral
+- relatividat cheneral
+- relativitas generalis
+- relativitas umum
+- relativitat general
+- relativitat generala
+- relativitate general
+- relativiteti i përgjithshëm
+- relatività general
+- relatività generale
+- relativitá general
+- relativité general
+- relativité générale
+- relattività ġenerali
+- Sadhata waliigalaa
+- sapasap a relatibidad
+- splošna teorija relativnosti
+- teoiric ghinearálta na coibhneasachta
+- teoria relativității generale
+- teoriya ng pangkalahatang relatibidad
+- teoría xeneral de la relatividá
+- thuyết tương đối rộng
+- télativitas umum
+- umumiy nisbiyet nazariyesi
+- umumiy nisbiylik nazariyasi
+- vispārīgā relativitātes teorija
+- všeobecná teória relativity
+- yleinen suhteellisuusteoria
+- általános relativitáselmélet
+- ühthine relätivižusen teorii
+- üldrelatiivsusteooria
+- ümumi nisbilik nəzəriyyəsi
+- ĝenerala teorio de relativeco
+- γενική θεωρία της σχετικότητας
+- агульная тэорыя адноснасці
+- агульная тэорыя адноснасьці
+- гомуми чагыштырмалылык теориясе
+- дөйөм сағыштырмалыҡ теорияһы
+- Жалпы салыстырмалылық теория
+- загальна теорія відносності
+- нисбияти ом
+- обща теория на относителността
+- общая теория относительности
+- општа теорија за релативноста
+- општа теорија релативности
+- относительностья огъя теория
+- салыштырмалуулуктун жалпы теориясы
+- танлаштарулăхăн пĕтĕмĕшле теорийĕ
+- харисангын юрэнхы онол
+- հարաբերականության ընդհանուր տեսություն
+- אלגעמיינע טעאריע פון רעלאטיוויטעט
+- תורת היחסות הכללית
+- النسبية العامة
+- جنرل ریلیٹویٹی
+- عام نسبيت
+- عام نسبیت
+- عمومی اضافیت
+- نسبيه عامه
+- نسبیت عام
+- ڕێژەییی گشتی
+- کريلاتيفن عام
+- ߝߘߏ߬ߓߊ߬ ߢߐ߲߯ߘߐߦߊߟߌ
+- सधारन सापेक्षता
+- साधारण सापेक्षता
+- सामान्य आपेक्षिकता
+- सामान्य सापेक्षता
+- সাধারণ আপেক্ষিকতা
+- সাধাৰণ আপেক্ষিকতাবাদ
+- ਆਮ ਸਾਪੇਖਤਾ
+- વ્યાપક સાપેક્ષવાદ
+- ସାଧାରଣ ଆପେକ୍ଷିକ ତତ୍ତ୍ୱ
+- பொதுச் சார்புக் கோட்பாடு
+- సాధారణ సాపేక్షత
+- സാമാന്യ ആപേക്ഷികതാസിദ്ധാന്തം
+- සාධාරණ සාපේක්ෂතාවාදය
+- ทฤษฎีสัมพัทธภาพทั่วไป
+- ယေဘုယျနှိုင်းရသီအိုရီ
+- ფარდობითობის ზოგადი თეორია
+- አጠቃላይ አንጻራዊነት
+- ⵜⵉⵎⵎⴰⵙⵖⵜ ⵜⴰⵎⴰⵜⴰⵢⵜ
+- 一般相対性理論
+- 广义相对论
+- 廣義相對論
+- 일반 상대성이론
+- 일반상대성리론
 has_id_wikidata: Q11452
 Colon_Classification: CN
 Commons_category: General relativity
@@ -15,8 +125,8 @@ has_part_s_: '[[_Standards/WikiData/WD~Einstein_field_equations,273711]]'
 has_time_started: 1916-06
 inception: 1916
 instance_of:
-  - '[[_Standards/WikiData/WD~physical_law,214070]]'
-  - '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+- '[[_Standards/WikiData/WD~physical_law,214070]]'
+- '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 Library_of_Congress_Classification: QC173.6
 location_of_creation: '[[_Standards/WikiData/WD~Berlin,64]]'
 OmegaWiki_Defined_Meaning: 688297
@@ -25,29 +135,159 @@ PhilPapers_topic: general-relativity
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%20%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.wav
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cassini-science-br.jpg
 short_name:
-  - ОТО
-  - ДСТ
-  - АТА
-  - ОТО
-  - OTR
-  - OTR
-  - 一般相対論
-  - VRT
-  - ЗТВ
-  - ОТР
-  - OTR
-  - ART
-  - GR
-  - ART
-  - GTR
-  - STR
-  - VTR
-  - OTW
-  - OTR
+- ОТО
+- ДСТ
+- АТА
+- ОТО
+- OTR
+- OTR
+- 一般相対論
+- VRT
+- ЗТВ
+- ОТР
+- OTR
+- ART
+- GR
+- ART
+- GTR
+- STR
+- VTR
+- OTW
+- OTR
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/general-relativity
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_relativity_sidebar,5932282]]'
+dv_has_:
+  name_:
+    af: algemene relatiwiteit
+    am: አጠቃላይ አንጻራዊነት
+    an: relatividat cheneral
+    ar: النسبية العامة
+    arz: نسبيه عامه
+    as: সাধাৰণ আপেক্ষিকতাবাদ
+    ast: teoría xeneral de la relatividá
+    az: ümumi nisbilik nəzəriyyəsi
+    azb: عام نسبیت
+    ba: дөйөм сағыштырмалыҡ теорияһы
+    ban: télativitas umum
+    bar: oigmoane Relativitetstheorie
+    be: агульная тэорыя адноснасці
+    be-tarask: агульная тэорыя адноснасьці
+    bg: обща теория на относителността
+    bho: सधारन सापेक्षता
+    bn: সাধারণ আপেক্ষিকতা
+    br: relativelezh hollek
+    bs: opća teorija relativnosti
+    bxr: харисангын юрэнхы онол
+    ca: relativitat general
+    ckb: ڕێژەییی گشتی
+    crh: umumiy nisbiyet nazariyesi
+    cs: obecná teorie relativity
+    cv: танлаштарулăхăн пĕтĕмĕшле теорийĕ
+    cy: damcaniaeth perthnasedd cyffredinol
+    da: generel relativitetsteori
+    dag: general relativity
+    de: allgemeine Relativitätstheorie
+    el: γενική θεωρία της σχετικότητας
+    en: general relativity
+    en-ca: general relativity
+    en-gb: general relativity
+    eo: ĝenerala teorio de relativeco
+    es: relatividad general
+    et: üldrelatiivsusteooria
+    eu: erlatibitate orokor
+    fa: نسبیت عام
+    fi: yleinen suhteellisuusteoria
+    fr: relativité générale
+    ga: teoiric ghinearálta na coibhneasachta
+    gl: relatividade xeral
+    gn: mba'ekuaarã joguerahaviárava pavẽ
+    gsw: allgemeine Relativitätstheorie
+    gu: વ્યાપક સાપેક્ષવાદ
+    he: תורת היחסות הכללית
+    hi: सामान्य आपेक्षिकता
+    hif: general relativity
+    hr: opća teorija relativnosti
+    hu: általános relativitáselmélet
+    hy: հարաբերականության ընդհանուր տեսություն
+    ia: relativitate general
+    id: relativitas umum
+    ie: relativitá general
+    ilo: sapasap a relatibidad
+    io: generala relativeso
+    is: almenna afstæðiskenningin
+    it: relatività generale
+    ja: 一般相対性理論
+    ka: ფარდობითობის ზოგადი თეორია
+    kk: Жалпы салыстырмалылық теория
+    ko: 일반 상대성이론
+    ko-kp: 일반상대성리론
+    ky: салыштырмалуулуктун жалпы теориясы
+    la: relativitas generalis
+    lt: bendroji reliatyvumo teorija
+    lv: vispārīgā relativitātes teorija
+    lzh: 廣義相對論
+    mag: सामान्य आपेक्षिकता
+    mg: relativité general
+    mk: општа теорија за релативноста
+    ml: സാമാന്യ ആപേക്ഷികതാസിദ്ധാന്തം
+    mr: साधारण सापेक्षता
+    ms: kerelatifan am
+    ms-arab: کريلاتيفن عام
+    mt: relattività ġenerali
+    my: ယေဘုယျနှိုင်းရသီအိုရီ
+    nan: It-poaⁿ siong-tùi-sèng lí-lūn
+    nb: den generelle relativitetsteorien
+    nds: allgemene Relativitätstheorie
+    new: सामान्य सापेक्षता
+    nl: algemene relativiteitstheorie
+    nn: den generelle relativitetsteorien
+    nqo: ߝߘߏ߬ߓߊ߬ ߢߐ߲߯ߘߐߦߊߟߌ
+    oc: relativitat generala
+    om: Sadhata waliigalaa
+    or: ସାଧାରଣ ଆପେକ୍ଷିକ ତତ୍ତ୍ୱ
+    pa: ਆਮ ਸਾਪੇਖਤਾ
+    pl: ogólna teoria względności
+    pms: relatività general
+    pnb: جنرل ریلیٹویٹی
+    ps: عام نسبيت
+    pt: relatividade geral
+    pt-br: relatividade geral
+    ro: teoria relativității generale
+    ru: общая теория относительности
+    sco: general relativity
+    sgs: bėndruojė relētīvoma teuorėjė
+    sh: opća teorija relativnosti
+    si: සාධාරණ සාපේක්ෂතාවාදය
+    sk: všeobecná teória relativity
+    sl: splošna teorija relativnosti
+    sq: relativiteti i përgjithshëm
+    sr: општа теорија релативности
+    sr-ec: општа теорија релативности
+    sr-el: opšta teorija relativnosti
+    sv: allmänna relativitetsteorin
+    ta: பொதுச் சார்புக் கோட்பாடு
+    te: సాధారణ సాపేక్షత
+    tg: нисбияти ом
+    th: ทฤษฎีสัมพัทธภาพทั่วไป
+    tl: teoriya ng pangkalahatang relatibidad
+    tr: genel görelilik kuramı
+    tt: гомуми чагыштырмалылык теориясе
+    udm: относительностья огъя теория
+    uk: загальна теорія відносності
+    ur: عمومی اضافیت
+    uz: umumiy nisbiylik nazariyasi
+    vep: ühthine relätivižusen teorii
+    vi: thuyết tương đối rộng
+    war: kasahiran nga teyorya han relatividad
+    wuu: 广义相对论
+    yi: אלגעמיינע טעאריע פון רעלאטיוויטעט
+    yue: 廣義相對論
+    zgh: ⵜⵉⵎⵎⴰⵙⵖⵜ ⵜⴰⵎⴰⵜⴰⵢⵜ
+    zh: 廣義相對論
+    zh-cn: 广义相对论
+    zh-hans: 广义相对论
+    zh-hant: 廣義相對論
 ---
-
 # [[General_Relativity]] 
 
 #is_/same_as :: [[WD~General_relativity,11452]] 

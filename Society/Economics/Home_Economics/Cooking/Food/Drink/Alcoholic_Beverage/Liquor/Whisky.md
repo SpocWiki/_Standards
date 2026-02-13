@@ -1,20 +1,63 @@
 ---
 aliases:
-  - Whisky
+- güisqui
+- uisce beatha
+- Uisge-beatha
+- uísque
+- vischium
+- Viski
+- viskijs
+- viskio
+- viskis
+- viskí
+- whiskey
+- Whisky
+- wisgi
+- Wisikii
+- Wisikí
+- Wiski
+- wiskio
+- Wıski
+- ουίσκι
+- Віскі
+- виски
+- уиски
+- վիսկի
+- וויסקי
+- ויסקי
+- ويسكى
+- ويسكي
+- وہسکی
+- ویسکی
+- विस्की
+- व्हिस्की
+- ह्विस्की
+- হুইস্কি
+- ਵਿਸਕੀ
+- விஸ்கி
+- ವಿಸ್ಕಿ
+- വിസ്കി
+- วิสกี้
+- ဝီစကီ
+- ვისკი
+- შოტლანდიური ვისკი
+- ウイスキー
+- 威士忌
+- 위스키
 has_id_wikidata: Q281
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of: '[[_Standards/WikiData/WD~grain_spirit,1479546]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~Outline_of_whisky,104810995]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~Scotland,22]]'
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
 OmegaWiki_Defined_Meaning: 933460
 2022_Harmonized_System_Code: 220830
 Commons_category: Whisky
@@ -27,9 +70,120 @@ Iconclass_notation: 41C7132
 Dewey_Decimal_Classification: 641.252
 Wolfram_Language_entity_code: Entity["FoodType", "Whiskey"]
 Krugosvet_article: tekhnologiya-i-promyshlennost/viski
+dv_has_:
+  name_:
+    af: whiskey
+    an: Whisky
+    ar: ويسكي
+    arz: ويسكى
+    ast: güisqui
+    az: Viski
+    be: Віскі
+    be-tarask: Віскі
+    bg: уиски
+    bho: विस्की
+    bn: হুইস্কি
+    br: Wiski
+    bs: Viski
+    ca: whisky
+    ce: Виски
+    ckb: ویسکی
+    cs: whisky
+    cv: Виски
+    cy: wisgi
+    da: whisky
+    de: Whisky
+    de-ch: Whisky
+    diq: Wıski
+    el: ουίσκι
+    en: whisky
+    en-ca: whisky
+    en-gb: whisky
+    en-us: whiskey
+    eo: viskio
+    es: whisky
+    et: viski
+    eu: whisky
+    fa: ویسکی
+    fi: viski
+    fo: Whisky
+    fr: whisky
+    frr: Whisky
+    ga: uisce beatha
+    gd: Uisge-beatha
+    gl: Whisky
+    he: ויסקי
+    hi: व्हिस्की
+    hr: viski
+    hu: whisky
+    hy: վիսկի
+    ia: Whisky
+    iba: Wiski
+    id: Wiski
+    io: wiskio
+    is: viskí
+    it: whisky
+    ja: ウイスキー
+    jv: Whisky
+    ka: შოტლანდიური ვისკი
+    kbp: Wisikii
+    kk: Виски
+    kn: ವಿಸ್ಕಿ
+    ko: 위스키
+    ky: Виски
+    la: vischium
+    li: Whisky
+    ln: Wisikí
+    lt: viskis
+    lv: viskijs
+    mai: व्हिस्की
+    mk: Виски
+    ml: വിസ്കി
+    ms: Wiski
+    my: ဝီစကီ
+    nan: Whisky
+    nb: whisky
+    ne: ह्विस्की
+    nl: whisky
+    nn: whisky
+    oc: whisky
+    pa: ਵਿਸਕੀ
+    pl: whisky
+    pnb: وہسکی
+    pt: uísque
+    pt-br: uísque
+    ro: whisky
+    ru: виски
+    scn: Whisky
+    sco: Whisky
+    sh: Whisky
+    sk: whisky
+    sl: viski
+    sq: wiski
+    sr: виски
+    sr-el: Viski
+    su: Wiski
+    sv: whisky
+    sw: Wiski
+    ta: விஸ்கி
+    tg: Виски
+    th: วิสกี้
+    tr: viski
+    tyv: Виски
+    uk: віскі
+    uz: Viski
+    vep: Viski
+    vi: whisky
+    wa: Wiski
+    wuu: 威士忌
+    xmf: ვისკი
+    yi: וויסקי
+    yue: 威士忌
+    zh: 威士忌
+    zh-cn: 威士忌
+    zh-hans: 威士忌
+    zh-hant: 威士忌
 ---
-
-
 # [[Whisky]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Whisky,281|WD~Whisky,281]]

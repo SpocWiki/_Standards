@@ -1,8 +1,68 @@
 ---
 aliases:
-  - Satiety
-  - Satiation
+- jóllakottság
+- mettheit
+- metthet
+- mättnad
+- pienesa
+- rasa kenyang
+- saciedad
+- saciedade
+- Satiation
+- Satiety
+- satiété
+- saturitas
+- sazietà
+- sitost
+- sotumas
+- sáithiú
+- Sättigung
+- Toʻqlik
+- tupíu
+- Voky
+- насычанасьць
+- ситість
+- сытость
+- туклык
+- שובע
+- تخمة
+- سیری (تغذیه)
+- পরিতৃপ্তি
+- 満腹
+- 飽足感
 has_id_wikidata: Q1562684
+dv_has_:
+  name_:
+    ar: تخمة
+    be-tarask: насычанасьць
+    bn: পরিতৃপ্তি
+    de: Sättigung
+    en: satiety
+    es: saciedad
+    ext: tupíu
+    fa: سیری (تغذیه)
+    fr: satiété
+    ga: sáithiú
+    gl: saciedade
+    he: שובע
+    hu: jóllakottság
+    id: rasa kenyang
+    it: sazietà
+    ja: 満腹
+    la: saturitas
+    lt: sotumas
+    mg: Voky
+    nb: metthet
+    nn: mettheit
+    ru: сытость
+    sl: sitost
+    sv: mättnad
+    tt: туклык
+    tt-cyrl: туклык
+    uk: ситість
+    uz: Toʻqlik
+    vec: pienesa
+    zh: 飽足感
 ---
 ## #has_/text_of_/abstract 
 

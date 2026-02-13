@@ -1,130 +1,168 @@
 ---
 aliases:
-  - Subrahmanyan_Chandrasekhar
-  - Subrahmanyan Chandrasekhar
-  - சுப்பிரமணியன் சந்திரசேகர்
-  - Cuppiramaṇiyaṉ Cantiracēkar
-  - Chandrasekhar,Subrahmanyan
+- Chandrasekhar,Subrahmanyan
+- Cuppiramaṇiyaṉ Cantiracēkar
+- Padma Subramanijan Čandrasekar
+- Subrahmanjans Čandrasekars
+- Subrahmanyan Chandrasekhar
+- Subrahmanyan_Chandrasekhar
+- Subramanayan Chandresekhar
+- Subramanyan Chandrasekhar
+- Σουμπραμανιάν Τσαντρασεκάρ
+- Субрагманьян Чандрасэкар
+- Субраманијан Чандрасекар
+- Субраманиан Чандрасекар
+- Субраманьян Чандрасекар
+- Субрахманьян Чандрасекар
+- Սուբռահմանյան Չանդրասեկհար
+- סוברהמניאן צ'נדראסקאר
+- سابرامانين تشاندراسخار
+- سابراهمانین چاندراسکار
+- سبرامنین چندراشیکھر
+- سوبرامانيان تشاندراشيكار
+- सुब्रमन्यन चन्द्रसेखर
+- सुब्रह्मण्यन चंद्रशेखर
+- सुब्रह्मण्यन चन्द्रशेखर
+- सुब्रह्मण्यन् चन्द्रशेखर
+- सुब्रह्मण्यन् चन्द्रशेखरः
+- সুব্রহ্মণ্যন চন্দ্রশেখর
+- সুব্ৰহ্মণ্যন চন্দ্ৰশেখৰ
+- ਸੁਬਰਾਮਨੀਅਮ ਚੰਦਰਸ਼ੇਖਰ
+- સુબ્રમણ્યન ચંદ્રશેખર
+- ସୁବ୍ରମଣ୍ୟନ ଚନ୍ଦ୍ରଶେଖର
+- சுப்பிரமணியன் சந்திரசேகர்
+- సుబ్రహ్మణ్యన్ చంద్రశేఖర్
+- ಸುಬ್ರಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರ್
+- ಸುಬ್ರಹ್ಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರ್
+- സുബ്രഹ്മണ്യം ചന്ദ്രശേഖർ
+- สุพรหมัณยัน จันทรเศขร
+- სუბრამანიან ჩანდრასეკარი
+- სუბრაჰმანიან ჩანდრასეკარი
+- スブラマニアン・チャンドラセカール
+- 苏布拉马尼扬·钱德拉塞卡
+- 蘇布拉馬尼揚·錢德拉塞卡
+- 錢德拉錫卡
+- 수브라마니안 찬드라세카르
 has_id_wikidata: Q148109
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~The_World_Academy_of_Sciences,337352]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Astronomical_Society,463435]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
-  - "[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]"
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~The_World_Academy_of_Sciences,337352]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Astronomical_Society,463435]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~British_Raj,129286]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~British_Raj,129286]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_Chicago,131252]]"
-  - "[[_Standards/WikiData/WD~Trinity_College,332342]]"
-  - "[[_Standards/WikiData/WD~Yerkes_Observatory,14310]]"
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- '[[_Standards/WikiData/WD~Yerkes_Observatory,14310]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~astrophysicist,752129]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~academic,3400985]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-cause_of_death: "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
-student_of: "[[_Standards/WikiData/WD~Arthur_Eddington,215022]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~astrophysicist,752129]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~academic,3400985]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+cause_of_death: '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+student_of: '[[_Standards/WikiData/WD~Arthur_Eddington,215022]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Arthur_Eddington,215022]]"
-  - "[[_Standards/WikiData/WD~Ralph_H._Fowler,544338]]"
+- '[[_Standards/WikiData/WD~Arthur_Eddington,215022]]'
+- '[[_Standards/WikiData/WD~Ralph_H._Fowler,544338]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Trinity_College,332342]]"
-  - "[[_Standards/WikiData/WD~Presidency_College,3276757]]"
-  - "[[_Standards/WikiData/WD~Hindu_Higher_Secondary_School,12984273]]"
-  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- '[[_Standards/WikiData/WD~Presidency_College,3276757]]'
+- '[[_Standards/WikiData/WD~Hindu_Higher_Secondary_School,12984273]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Adams_Prize,351723]]"
-  - "[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]"
-  - "[[_Standards/WikiData/WD~Karl_G._Jansky_Lectureship,1528880]]"
-  - "[[_Standards/WikiData/WD~Tomalla_Foundation,2440319]]"
-  - "[[_Standards/WikiData/WD~Marcel_Grossmann_Award,2776640]]"
-  - "[[_Standards/WikiData/WD~Gordon_J._Laing_Award,5585348]]"
-  - "[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]"
-  - "[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]"
-  - "[[_Standards/WikiData/WD~Srinivasa_Ramanujan_Medal,7586463]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~Padma_Vibhushan_in_science_&_engineering,30147268]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
+- '[[_Standards/WikiData/WD~Adams_Prize,351723]]'
+- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
+- '[[_Standards/WikiData/WD~Karl_G._Jansky_Lectureship,1528880]]'
+- '[[_Standards/WikiData/WD~Tomalla_Foundation,2440319]]'
+- '[[_Standards/WikiData/WD~Marcel_Grossmann_Award,2776640]]'
+- '[[_Standards/WikiData/WD~Gordon_J._Laing_Award,5585348]]'
+- '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~Srinivasa_Ramanujan_Medal,7586463]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Padma_Vibhushan_in_science_&_engineering,30147268]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Guido_Münch,517271]]"
-  - "[[_Standards/WikiData/WD~Donald_Edward_Osterbrock,1240217]]"
-  - "[[_Standards/WikiData/WD~Jeremiah_P._Ostriker,1351917]]"
-  - "[[_Standards/WikiData/WD~Russell_Kulsrud,1478119]]"
-  - "[[_Standards/WikiData/WD~Arthur_Code,4798297]]"
-  - "[[_Standards/WikiData/WD~Eberhart_Jensen,5331814]]"
-  - "[[_Standards/WikiData/WD~Yousef_Sobouti,7038343]]"
-  - "[[_Standards/WikiData/WD~Esther_M._Conwell,14311235]]"
-  - "[[_Standards/WikiData/WD~Bimla_Buti,15146736]]"
-  - "[[_Standards/WikiData/WD~Surindar_Kumar_Trehan,16016290]]"
-  - "[[_Standards/WikiData/WD~Marshal_H._Wrubel,16448467]]"
-  - "[[_Standards/WikiData/WD~Donat_Wentzel,21036048]]"
-  - "[[_Standards/WikiData/WD~Anne_Barbara_Underhill,23939803]]"
-  - "[[_Standards/WikiData/WD~Yavuz_Nutku,39039807]]"
-  - "[[_Standards/WikiData/WD~Steven_Lawrence_Detweiler,102079531]]"
-  - "[[_Standards/WikiData/WD~John_Charles_Miller,102122623]]"
-  - "[[_Standards/WikiData/WD~Norman_Ronald_Lebovitz,102133446]]"
-  - "[[_Standards/WikiData/WD~Morris_L._Aizenman,102149455]]"
-  - "[[_Standards/WikiData/WD~John_L._Friedman,102355488]]"
-  - "[[_Standards/WikiData/WD~Merle_Gold,102410700]]"
-  - "[[_Standards/WikiData/WD~H._Lawrence_Helfer,103209282]]"
+- '[[_Standards/WikiData/WD~Guido_Münch,517271]]'
+- '[[_Standards/WikiData/WD~Donald_Edward_Osterbrock,1240217]]'
+- '[[_Standards/WikiData/WD~Jeremiah_P._Ostriker,1351917]]'
+- '[[_Standards/WikiData/WD~Russell_Kulsrud,1478119]]'
+- '[[_Standards/WikiData/WD~Arthur_Code,4798297]]'
+- '[[_Standards/WikiData/WD~Eberhart_Jensen,5331814]]'
+- '[[_Standards/WikiData/WD~Yousef_Sobouti,7038343]]'
+- '[[_Standards/WikiData/WD~Esther_M._Conwell,14311235]]'
+- '[[_Standards/WikiData/WD~Bimla_Buti,15146736]]'
+- '[[_Standards/WikiData/WD~Surindar_Kumar_Trehan,16016290]]'
+- '[[_Standards/WikiData/WD~Marshal_H._Wrubel,16448467]]'
+- '[[_Standards/WikiData/WD~Donat_Wentzel,21036048]]'
+- '[[_Standards/WikiData/WD~Anne_Barbara_Underhill,23939803]]'
+- '[[_Standards/WikiData/WD~Yavuz_Nutku,39039807]]'
+- '[[_Standards/WikiData/WD~Steven_Lawrence_Detweiler,102079531]]'
+- '[[_Standards/WikiData/WD~John_Charles_Miller,102122623]]'
+- '[[_Standards/WikiData/WD~Norman_Ronald_Lebovitz,102133446]]'
+- '[[_Standards/WikiData/WD~Morris_L._Aizenman,102149455]]'
+- '[[_Standards/WikiData/WD~John_L._Friedman,102355488]]'
+- '[[_Standards/WikiData/WD~Merle_Gold,102410700]]'
+- '[[_Standards/WikiData/WD~H._Lawrence_Helfer,103209282]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~dynamical_friction,1268968]]"
-  - "[[_Standards/WikiData/WD~Schönberg_Chandrasekhar_limit,3704789]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_number,4516333]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_virial_equations,30693462]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_potential_energy_tensor,30693460]]"
-  - "[[_Standards/WikiData/WD~Emden_Chandrasekhar_equation,30693533]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar's_white_dwarf_equation,48773561]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar's_H_function,48996454]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar's_X_and_Y_function,48996583]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_polarization,48999967]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_Kendall_function,48999970]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_Wentzel_lemma,49000742]]"
-  - "[[_Standards/WikiData/WD~Batchelor_Chandrasekhar_equation,55605003]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_Page_equations,85751457]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_Fermi_method,110221101]]"
-  - "[[_Standards/WikiData/WD~Chandrasekhar_limit,51366]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~dynamical_friction,1268968]]'
+- '[[_Standards/WikiData/WD~Schönberg_Chandrasekhar_limit,3704789]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_number,4516333]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_virial_equations,30693462]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_potential_energy_tensor,30693460]]'
+- '[[_Standards/WikiData/WD~Emden_Chandrasekhar_equation,30693533]]'
+- "[[_Standards/WikiData/WD~Chandrasekhar's_white_dwarf_equation,48773561]]"
+- "[[_Standards/WikiData/WD~Chandrasekhar's_H_function,48996454]]"
+- "[[_Standards/WikiData/WD~Chandrasekhar's_X_and_Y_function,48996583]]"
+- '[[_Standards/WikiData/WD~Chandrasekhar_polarization,48999967]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_Kendall_function,48999970]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_Wentzel_lemma,49000742]]'
+- '[[_Standards/WikiData/WD~Batchelor_Chandrasekhar_equation,55605003]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_Page_equations,85751457]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_Fermi_method,110221101]]'
+- '[[_Standards/WikiData/WD~Chandrasekhar_limit,51366]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Biographical_Memoirs_of_Fellows_of_the_Royal_Society,4914871]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-academic_degree: "[[_Standards/WikiData/WD~Doktor_Nauk_in_Philosophy,17281084]]"
-family_name: "[[_Standards/WikiData/WD~Chandrasekhar,37459849]]"
-given_name: "[[_Standards/WikiData/WD~Subrahmanyan,91139271]]"
-spouse: "[[_Standards/WikiData/WD~Lalitha_Doraiswamy,109320732]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q111429906,111429906]]"
-significant_person: "[[_Standards/WikiData/WD~Donna_D._Elbert,114027427]]"
-father: "[[_Standards/WikiData/WD~CS_Ayyar,124333132]]"
+- '[[_Standards/WikiData/WD~Biographical_Memoirs_of_Fellows_of_the_Royal_Society,4914871]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+academic_degree: '[[_Standards/WikiData/WD~Doktor_Nauk_in_Philosophy,17281084]]'
+family_name: '[[_Standards/WikiData/WD~Chandrasekhar,37459849]]'
+given_name: '[[_Standards/WikiData/WD~Subrahmanyan,91139271]]'
+spouse: '[[_Standards/WikiData/WD~Lalitha_Doraiswamy,109320732]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q111429906,111429906]]'
+significant_person: '[[_Standards/WikiData/WD~Donna_D._Elbert,114027427]]'
+father: '[[_Standards/WikiData/WD~CS_Ayyar,124333132]]'
 place_of_burial: http://www.wikidata.org/.well-known/genid/45cb7ccf7961f19b15bffcd5f36ca1f0
 field_of_work:
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~astrophysics,37547]]"
-place_of_death: "[[_Standards/WikiData/WD~Chicago,1297]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~Tamil,5885]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lahore,11739]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~astrophysics,37547]]'
+place_of_death: '[[_Standards/WikiData/WD~Chicago,1297]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~Tamil,5885]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lahore,11739]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Erdős_number: 4
-interested_in: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-relative: "[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429]]"
+interested_in: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+relative: '[[_Standards/WikiData/WD~Chandrasekhara_Venkata_Raman,60429]]'
 Commons_category: Subrahmanyan Chandrasekhar
 Commons_Creator_page: Subrahmanyan Chandrasekhar
 name: Chandra
@@ -138,28 +176,132 @@ date_of_death: 1995-08-21T00:00:00Z
 date_of_birth: 1910-10-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandrasekhar.jpg
 dv_is_:
-  different_from: "[[../../../Science/Physics/Physicist/Raman,Chandrasekhara_Venkata|Chandrasekhara Venkata Raman]]"
+  different_from: '[[../../../Science/Physics/Physicist/Raman,Chandrasekhara_Venkata|Chandrasekhara Venkata Raman]]'
   same_as:
-    - "[[../../../WikiData/WD~Subrahmanyan_Chandrasekhar,148109|WD~Subrahmanyan_Chandrasekhar,148109]]"
-    - "[[/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan|Chandrasekhar,Subrahmanyan]]"
-    - "[[/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public|Chandrasekhar,Subrahmanyan.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal|Chandrasekhar,Subrahmanyan.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect|Chandrasekhar,Subrahmanyan.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private|Chandrasekhar,Subrahmanyan.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal|Chandrasekhar,Subrahmanyan.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret|Chandrasekhar,Subrahmanyan.secret]]"
-dv_is_different_from: "[[../../../Science/Physics/Physicist/Raman,Chandrasekhara_Venkata|Chandrasekhara Venkata Raman]]"
+  - '[[../../../WikiData/WD~Subrahmanyan_Chandrasekhar,148109|WD~Subrahmanyan_Chandrasekhar,148109]]'
+  - '[[/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan|Chandrasekhar,Subrahmanyan]]'
+  - '[[/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public|Chandrasekhar,Subrahmanyan.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal|Chandrasekhar,Subrahmanyan.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect|Chandrasekhar,Subrahmanyan.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private|Chandrasekhar,Subrahmanyan.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal|Chandrasekhar,Subrahmanyan.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret|Chandrasekhar,Subrahmanyan.secret]]'
+dv_is_different_from: '[[../../../Science/Physics/Physicist/Raman,Chandrasekhara_Venkata|Chandrasekhara Venkata Raman]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Subrahmanyan_Chandrasekhar,148109|WD~Subrahmanyan_Chandrasekhar,148109]]"
-  - "[[/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan|Chandrasekhar,Subrahmanyan]]"
-  - "[[/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public|Chandrasekhar,Subrahmanyan.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal|Chandrasekhar,Subrahmanyan.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect|Chandrasekhar,Subrahmanyan.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private|Chandrasekhar,Subrahmanyan.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal|Chandrasekhar,Subrahmanyan.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret|Chandrasekhar,Subrahmanyan.secret]]"
+- '[[../../../WikiData/WD~Subrahmanyan_Chandrasekhar,148109|WD~Subrahmanyan_Chandrasekhar,148109]]'
+- '[[/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan|Chandrasekhar,Subrahmanyan]]'
+- '[[/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public|Chandrasekhar,Subrahmanyan.public]]'
+- '[[/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal|Chandrasekhar,Subrahmanyan.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect|Chandrasekhar,Subrahmanyan.protect]]'
+- '[[/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private|Chandrasekhar,Subrahmanyan.private]]'
+- '[[/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal|Chandrasekhar,Subrahmanyan.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret|Chandrasekhar,Subrahmanyan.secret]]'
+dv_has_:
+  name_:
+    ar: سوبرامانيان تشاندراشيكار
+    arz: سابرامانين تشاندراسخار
+    as: সুব্ৰহ্মণ্যন চন্দ্ৰশেখৰ
+    ast: Subrahmanyan Chandrasekhar
+    azb: سابراهمانین چاندراسکار
+    ba: Субраманьян Чандрасекар
+    be: Субрахманьян Чандрасекар
+    be-tarask: Субрагманьян Чандрасэкар
+    bg: Субраманиан Чандрасекар
+    bn: সুব্রহ্মণ্যন চন্দ্রশেখর
+    ca: Subrahmanyan Chandrasekhar
+    cs: Subrahmanyan Chandrasekhar
+    cy: Subrahmanyan Chandrasekhar
+    da: Subrahmanyan Chandrasekhar
+    dag: Subrahmanyan Chandrasekhar
+    de: Subrahmanyan Chandrasekhar
+    el: Σουμπραμανιάν Τσαντρασεκάρ
+    en: Subrahmanyan Chandrasekhar
+    en-ca: Subrahmanyan Chandrasekhar
+    en-gb: Subrahmanyan Chandrasekhar
+    eo: Subramanyan Chandrasekhar
+    es: Subrahmanyan Chandrasekhar
+    et: Subrahmanyan Chandrasekhar
+    eu: Subrahmanyan Chandrasekhar
+    fa: سابراهمانین چاندراسکار
+    fi: Subrahmanyan Chandrasekhar
+    fr: Subrahmanyan Chandrasekhar
+    ga: Subramanayan Chandresekhar
+    gl: Subrahmanyan Chandrasekhar
+    gu: સુબ્રમણ્યન ચંદ્રશેખર
+    hak: Subrahmanyan Chandrasekhar
+    he: סוברהמניאן צ'נדראסקאר
+    hi: सुब्रह्मण्यन् चन्द्रशेखर
+    hif: Subrahmanyan Chandrasekhar
+    hr: Subrahmanyan Chandrasekhar
+    ht: Subrahmanyan Chandrasekhar
+    hu: Subrahmanyan Chandrasekhar
+    hy: Սուբռահմանյան Չանդրասեկհար
+    ia: Subrahmanyan Chandrasekhar
+    id: Subrahmanyan Chandrasekhar
+    io: Subrahmanyan Chandrasekhar
+    it: Subrahmanyan Chandrasekhar
+    ja: スブラマニアン・チャンドラセカール
+    ka: სუბრამანიან ჩანდრასეკარი
+    kk: Субраманьян Чандрасекар
+    kn: ಸುಬ್ರಹ್ಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರ್
+    ko: 수브라마니안 찬드라세카르
+    la: Subramanyan Chandrasekhar
+    lt: Subrahmanyan Chandrasekhar
+    lv: Subrahmanjans Čandrasekars
+    mai: सुब्रह्मण्यन चन्द्रशेखर
+    mk: Субраманијан Чандрасекар
+    ml: സുബ്രഹ്മണ്യം ചന്ദ്രശേഖർ
+    mr: सुब्रह्मण्यन चंद्रशेखर
+    ms: Subrahmanyan Chandrasekhar
+    mzn: سابراهمانین چاندراسکار
+    nan: Subrahmanyan Chandrasekhar
+    nb: Subramanyan Chandrasekhar
+    new: सुब्रमन्यन चन्द्रसेखर
+    nl: Subramanyan Chandrasekhar
+    nn: Subrahmanyan Chandrasekhar
+    oc: Subrahmanyan Chandrasekhar
+    or: ସୁବ୍ରମଣ୍ୟନ ଚନ୍ଦ୍ରଶେଖର
+    pa: ਸੁਬਰਾਮਨੀਅਮ ਚੰਦਰਸ਼ੇਖਰ
+    pap: Subramanyan Chandrasekhar
+    pl: Subramanyan Chandrasekhar
+    pnb: سبرامنین چندراشیکھر
+    pt: Subrahmanyan Chandrasekhar
+    pt-br: Subrahmanyan Chandrasekhar
+    ro: Subrahmanyan Chandrasekhar
+    ru: Субраманьян Чандрасекар
+    sa: सुब्रह्मण्यन् चन्द्रशेखरः
+    sco: Subrahmanyan Chandrasekhar
+    sh: Subrahmanyan Chandrasekhar
+    sk: Subrahmanyan Chandrasekhar
+    sl: Subrahmanyan Chandrasekhar
+    sq: Subrahmanyan Chandrasekhar
+    sr: Субраманијан Чандрасекар
+    sr-ec: Субраманијан Чандрасекар
+    sr-el: Padma Subramanijan Čandrasekar
+    sv: Subramanyan Chandrasekhar
+    sw: Subrahmanyan Chandrasekhar
+    ta: சுப்பிரமணியன் சந்திரசேகர்
+    tcy: ಸುಬ್ರಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರ್
+    te: సుబ్రహ్మణ్యన్ చంద్రశేఖర్
+    th: สุพรหมัณยัน จันทรเศขร
+    tr: Subrahmanyan Chandrasekhar
+    tt: Субраманьян Чандрасекар
+    uk: Субрахманьян Чандрасекар
+    ur: Subrahmanyan Chandrasekhar
+    uz: Subrahmanyan Chandrasekhar
+    vi: Subrahmanyan Chandrasekhar
+    wuu: 苏布拉马尼扬·钱德拉塞卡
+    xmf: სუბრაჰმანიან ჩანდრასეკარი
+    yo: Subrahmanyan Chandrasekhar
+    yue: 錢德拉錫卡
+    zh: 蘇布拉馬尼揚·錢德拉塞卡
+    zh-cn: 苏布拉马尼扬·钱德拉塞卡
+    zh-hans: 苏布拉马尼扬·钱德拉塞卡
+    zh-hant: 蘇布拉馬尼揚·錢德拉塞卡
+    zh-hk: 蘇布拉馬尼揚·錢德拉塞卡
+    zh-sg: 苏布拉马尼扬·钱德拉塞卡
+    zh-tw: 蘇布拉馬尼揚·錢德拉塞卡
 ---
-
 # [[Chandrasekhar,Subrahmanyan]] 
 
 is_different_from = `=this.dv_is_different_from` 

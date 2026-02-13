@@ -1,8 +1,155 @@
 ---
 aliases:
-  - John Travolta
-  - Travolta,John
+- Con Travolta
+- Džons Travolta
+- Ioannes Travolta
+- John Travolta
+- Travolta,John
+- Τζον Τραβόλτα
+- Џон Траволта
+- Джон Траволта
+- Жон Траволта
+- Ջոն Տրավոլտա
+- ג'ון טרבולטה
+- זשאן טראוואלטע
+- جان تراولتا
+- جان ٹراولٹا
+- جون ترافولتا
+- جۆن تراڤۆڵتا
+- জন ট্রাভোল্টা
+- ജോൺ ട്രവോൾട്ട
+- จอห์น ทราโวลตา
+- ჯონ თრავოლთა
+- ჯონ ტრავოლტა
+- ジョン・トラボルタ
+- 尊·特拉华达
+- 尊·特拉華達
+- 尊特拉華達
+- 約翰・屈伏塔
+- 约翰·特拉华达
+- 约翰·特拉沃尔塔
+- 존 트라볼타
 has_id_wikidata: Q80938
+dv_has_:
+  name_:
+    ace: John Travolta
+    af: John Travolta
+    an: John Travolta
+    ar: جون ترافولتا
+    arz: جون ترافولتا
+    ast: John Travolta
+    az: Con Travolta
+    azb: جان تراولتا
+    ba: Джон Траволта
+    bcl: John Travolta
+    be: Джон Траволта
+    be-tarask: Джон Траволта
+    bg: Джон Траволта
+    bi: John Travolta
+    bn: জন ট্রাভোল্টা
+    bs: John Travolta
+    ca: John Travolta
+    cbk-zam: John Travolta
+    ceb: John Travolta
+    ckb: جۆن تراڤۆڵتا
+    co: John Travolta
+    cs: John Travolta
+    cy: John Travolta
+    da: John Travolta
+    de: John Travolta
+    diq: John Travolta
+    dsb: John Travolta
+    el: Τζον Τραβόλτα
+    en: John Travolta
+    eo: John Travolta
+    es: John Travolta
+    et: John Travolta
+    eu: John Travolta
+    fa: جان تراولتا
+    fi: John Travolta
+    fr: John Travolta
+    frp: John Travolta
+    ga: John Travolta
+    gd: John Travolta
+    gl: John Travolta
+    gv: John Travolta
+    hak: John Travolta
+    he: ג'ון טרבולטה
+    hr: John Travolta
+    hu: John Travolta
+    hy: Ջոն Տրավոլտա
+    id: John Travolta
+    ie: John Travolta
+    ig: John Travolta
+    io: John Travolta
+    is: John Travolta
+    it: John Travolta
+    ja: ジョン・トラボルタ
+    ka: ჯონ ტრავოლტა
+    kaa: John Travolta
+    kab: John Travolta
+    kk: Джон Траволта
+    kl: John Travolta
+    ko: 존 트라볼타
+    kw: John Travolta
+    ky: Жон Траволта
+    la: Ioannes Travolta
+    lb: John Travolta
+    lt: John Travolta
+    lv: Džons Travolta
+    map-bms: John Travolta
+    mg: John Travolta
+    mk: Џон Траволта
+    ml: ജോൺ ട്രവോൾട്ട
+    mn: Жон Траволта
+    ms: John Travolta
+    mul: John Travolta
+    mzn: جان تراولتا
+    nah: John Travolta
+    nan: John Travolta
+    nb: John Travolta
+    nl: John Travolta
+    nn: John Travolta
+    oc: John Travolta
+    pap: John Travolta
+    pl: John Travolta
+    pms: John Travolta
+    pt: John Travolta
+    pt-br: John Travolta
+    ro: John Travolta
+    ru: Джон Траволта
+    sco: John Travolta
+    sh: John Travolta
+    sk: John Travolta
+    sl: John Travolta
+    sq: John Travolta
+    sr: Џон Траволта
+    sv: John Travolta
+    sw: John Travolta
+    th: จอห์น ทราโวลตา
+    tk: John Travolta
+    tl: John Travolta
+    tr: John Travolta
+    uk: Джон Траволта
+    ur: جان ٹراولٹا
+    uz: John Travolta
+    vec: John Travolta
+    vi: John Travolta
+    vo: John Travolta
+    wa: John Travolta
+    war: John Travolta
+    wuu: 约翰·特拉沃尔塔
+    xmf: ჯონ თრავოლთა
+    yi: זשאן טראוואלטע
+    yo: John Travolta
+    yue: 尊特拉華達
+    zh: 约翰·特拉沃尔塔
+    zh-cn: 约翰·特拉沃尔塔
+    zh-hans: 约翰·特拉沃尔塔
+    zh-hant: 約翰・屈伏塔
+    zh-hk: 尊·特拉華達
+    zh-my: 尊·特拉华达
+    zh-sg: 约翰·特拉华达
 ---
 ## #has_/text_of_/abstract 
 

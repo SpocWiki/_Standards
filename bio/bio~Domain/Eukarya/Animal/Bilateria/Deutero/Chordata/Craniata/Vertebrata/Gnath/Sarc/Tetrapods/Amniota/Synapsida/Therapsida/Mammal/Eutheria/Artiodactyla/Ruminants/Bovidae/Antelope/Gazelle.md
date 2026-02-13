@@ -1,40 +1,204 @@
 ---
 aliases:
-  - Gazella
-  - Gazelle
+- Amlal
+- Ask
+- Ceylan
+- Gacela
+- Gasel
+- gasela
+- gasellar
+- gaseller
+- gasellit
+- Gatselen
+- Gazel
+- Gazela
+- Gazelenn
+- gazeles
+- Gazella
+- Gazelle
+- Gazellen
+- Gazelo
+- Golcas
+- Gʻizollar
+- Jádí yił ahidaałtʼéhígíí
+- Mbólókó
+- Misti luwichu
+- Nsyesye
+- rayoleem ke Gazella oxi
+- Sinɛ
+- Swala
+- Tikrosios gazelės
+- Ğazel
+- Ğezale
+- Γαζέλα
+- Газел
+- Газела
+- газели
+- газель
+- Газель (чĕрчунсен кăкĕ)
+- газэля
+- Жейрендер
+- Ғизолҳо
+- վիթեր
+- הערש
+- צבי
+- آهو
+- غزال
+- قازللا
+- ߛߐ߲
+- गज़ेल
+- গ্যাজেল
+- வனப்புமிக்க சிறுமான்
+- ಗೆಜೆಲ್
+- กาเซลล์
+- ဂက်ဇယ်ဆိတ်
+- გაზელი
+- ガゼル属
+- 瞪羚
+- 瞪羚属
+- 瞪羚屬
+- 가젤
 has_id_wikidata: Q190858
 title: Gazella
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 parent_taxon: '[[_Standards/WikiData/WD~Antilopini,924023]]'
 different_from: '[[_Standards/WikiData/WD~gazelle,29001815]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Capra_dorcas,109647099]]'
 homonymous_taxon:
-  - '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
-  - '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
-  - '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
+- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
+- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
+- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
 taxon_synonym:
-  - '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
-  - '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
-  - '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
+- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
+- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
+- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 OmegaWiki_Defined_Meaning: 1018466
 ITIS_TSN: 624969
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Thompson%27s%20Gazelle.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Slender-horned%20gazelle%20%28Cincinnati%20Zoo%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Thompson%27s%20Gazelle.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Slender-horned%20gazelle%20%28Cincinnati%20Zoo%29.jpg
 Commons_gallery: Gazella
 Commons_category: Gazella
 taxon_name: Gazella
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02423022-n
 NBN_System_Key: NHMSYS0000376679
+dv_has_:
+  name_:
+    aeb-arab: غزال
+    an: Gazella
+    ar: غزال
+    arz: غزال
+    ast: Gazella
+    avk: rayoleem ke Gazella oxi
+    azb: قازللا
+    ban: Gazelle
+    be-tarask: газэля
+    bg: газели
+    bm: Sinɛ
+    bn: গ্যাজেল
+    br: Gazelenn
+    ca: gasela
+    ceb: Gazella
+    crh: Ğazel
+    cs: gazela
+    csb: Gazela
+    cv: Газель (чĕрчунсен кăкĕ)
+    da: gazelle
+    de: Gazellen
+    de-ch: Gazellen
+    diq: Ğezale
+    el: Γαζέλα
+    en: Gazella
+    en-ca: Gazelle
+    en-gb: gazelle
+    eo: Gazelo
+    es: Gazella
+    eu: Gazella
+    ext: Gazella
+    fa: آهو
+    fi: gasellit
+    fr: gazelle
+    frr: Gatselen
+    ga: Gazella
+    gl: Gacela
+    glk: آهو
+    he: צבי
+    hi: गज़ेल
+    hr: Gazella
+    hu: gazella
+    hy: վիթեր
+    ia: Gazella
+    id: Gazel
+    ie: Gazella
+    io: Gazella
+    it: Gazella
+    ja: ガゼル属
+    jv: Gazel
+    ka: გაზელი
+    kab: Amlal
+    kg: Nsyesye
+    kk: Газел
+    kn: ಗೆಜೆಲ್
+    ko: 가젤
+    ku: Ask
+    ky: Жейрендер
+    la: Gazella
+    ln: Mbólókó
+    lt: Tikrosios gazelės
+    lv: gazeles
+    mg: Gazela
+    ms: Gazel
+    mul: Gazella
+    my: ဂက်ဇယ်ဆိတ်
+    nb: gaseller
+    nl: Gazella
+    nn: gasellar
+    nqo: ߛߐ߲
+    nv: Jádí yił ahidaałtʼéhígíí
+    oc: Gazella
+    pl: Gazela
+    pt: Gazela
+    pt-br: Gazela
+    qu: Misti luwichu
+    ro: Gazella
+    ru: газели
+    sco: Gazella
+    sk: Gazela
+    sl: gazela
+    so: Golcas
+    sq: Gazella
+    sr: Газела
+    sv: Gaseller
+    sw: Swala
+    ta: வனப்புமிக்க சிறுமான்
+    tg: Ғизолҳо
+    th: กาเซลล์
+    tl: Gasel
+    tr: Ceylan
+    uk: газель
+    ur: غزال
+    uz: Gʻizollar
+    vi: Gazella
+    vo: Gazella
+    war: Gazella
+    wuu: 瞪羚属
+    yi: הערש
+    yue: 瞪羚
+    zh: 瞪羚属
+    zh-cn: 瞪羚属
+    zh-hans: 瞪羚属
+    zh-hant: 瞪羚屬
+    zh-hk: 瞪羚屬
+    zh-sg: 瞪羚属
+    zh-tw: 瞪羚屬
 ---
-
 # [[Gazelle]] 
 
 ![ ](Gazella_granti1428052.jpg)

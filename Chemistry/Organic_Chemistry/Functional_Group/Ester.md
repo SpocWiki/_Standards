@@ -1,59 +1,200 @@
 ---
 aliases:
-  - Esters
-  - Ester
+- eistear
+- estar
+- Ester
+- esteret
+- esteri
+- esteriai
+- esterit
+- estero
+- Esters
+- estery
+- estrar
+- estri
+- estrid
+- Estè
+- estèr
+- kürdeli éfïrler
+- mürəkkəb efirlər
+- pāhare
+- èster
+- éster
+- észter
+- εστέρες
+- естар
+- естер
+- естери
+- кушето эфиръёс
+- күрделі эфирлер
+- складаны этэр
+- сложные эфиры
+- эстэры
+- էսթերներ
+- אסטר
+- إستر
+- ئەستەر
+- استر
+- اسٹر
+- ایستر
+- كۇردەلى ەفىيرلەر
+- एस्टर
+- ਐਸਟਰ
+- எசுத்தர்
+- ఎస్టర్
+- എസ്റ്റർ
+- เอสเทอร์
+- エステル
+- 酯
+- 에스테르
 has_id_wikidata: Q101487
 different_from:
-  - "[[_Standards/WikiData/WD~carboxylate_ester,355518]]"
-  - "[[_Standards/WikiData/WD~Esther,732413]]"
+- '[[_Standards/WikiData/WD~carboxylate_ester,355518]]'
+- '[[_Standards/WikiData/WD~Esther,732413]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~organyl_group,2030064]]"
-  - "[[_Standards/WikiData/WD~acyloxy_group,17310124]]"
+- '[[_Standards/WikiData/WD~organyl_group,2030064]]'
+- '[[_Standards/WikiData/WD~acyloxy_group,17310124]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~oxo_compound,19885597]]"
-  - "[[_Standards/WikiData/WD~organooxygen_compound,71574018]]"
-  - "[[_Standards/WikiData/WD~oxoacid_derivative,113547463]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Esters,22721777]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[_Standards/WikiData/WD~oxo_compound,19885597]]'
+- '[[_Standards/WikiData/WD~organooxygen_compound,71574018]]'
+- '[[_Standards/WikiData/WD~oxoacid_derivative,113547463]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Esters,22721777]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 MCN_code:
-  - 2915.50.30
-  - 2917.11.20
-  - 2917.39.11
-  - 2918.13.20
+- 2915.50.30
+- 2917.11.20
+- 2917.39.11
+- 2918.13.20
 Dewey_Decimal_Classification:
-  - 547.038
-  - 661.83
+- 547.038
+- 661.83
 UMLS_CUI: C0014898
 MeSH_tree_code: D02.241.400
 Commons_category: Esters
 Krugosvet_article: nauka_i_tehnika/himiya/SLOZHNIE_EFIRI.html
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]"
+  - '[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]"
+- '[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]'
+dv_has_:
+  name_:
+    af: ester
+    ar: إستر
+    ast: éster
+    az: mürəkkəb efirlər
+    bcl: ester
+    be: эстэры
+    be-tarask: складаны этэр
+    bg: естер
+    bs: ester
+    ca: èster
+    ckb: ئەستەر
+    cs: estery
+    cy: ester
+    da: ester
+    de: Ester
+    el: εστέρες
+    en: ester
+    eo: estero
+    es: éster
+    et: estrid
+    eu: ester
+    fa: استر
+    fi: esterit
+    fr: ester
+    frr: Ester
+    fy: ester
+    ga: eistear
+    gl: éster
+    he: אסטר
+    hi: एस्टर
+    hr: esteri
+    ht: Estè
+    hu: észter
+    hy: էսթերներ
+    id: ester
+    is: estri
+    it: esteri
+    ja: エステル
+    kk: күрделі эфирлер
+    kk-arab: كۇردەلى ەفىيرلەر
+    kk-cn: كۇردەلى ەفىيرلەر
+    kk-cyrl: күрделі эфирлер
+    kk-kz: күрделі эфирлер
+    kk-latn: kürdeli éfïrler
+    kk-tr: kürdeli éfïrler
+    ko: 에스테르
+    la: ester
+    lmo: ester
+    lt: esteriai
+    lv: esteri
+    lzh: 酯
+    mi: pāhare
+    mk: естер
+    ml: എസ്റ്റർ
+    ms: ester
+    nan: ester
+    nb: ester
+    nds: Ester
+    nl: ester
+    nn: ester
+    oc: estèr
+    pa: ਐਸਟਰ
+    pl: ester
+    ps: ایستر
+    pt: éster
+    pt-br: éster
+    ro: ester
+    ru: сложные эфиры
+    sh: estri
+    sk: ester
+    sl: ester
+    sq: esteret
+    sr: естар
+    sr-ec: естар
+    sr-el: estar
+    su: éster
+    sv: estrar
+    ta: எசுத்தர்
+    te: ఎస్టర్
+    th: เอสเทอร์
+    tr: ester
+    udm: кушето эфиръёс
+    uk: естери
+    ur: اسٹر
+    vi: ester
+    war: ester
+    wuu: 酯
+    yue: 酯
+    zh: 酯
+    zh-cn: 酯
+    zh-hans: 酯
+    zh-hant: 酯
+    zh-hk: 酯
+    zh-sg: 酯
+    zh-tw: 酯
 ---
-
 # [[Ester]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ester,101487|WD~Ester,101487]] 

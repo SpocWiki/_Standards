@@ -1,11 +1,59 @@
 ---
-has_time_started: 1938-01-01 
+has_time_started: 1938-01-01
 aliases:
-  - Rhythm and blues
-  - R&B
-  - R'n'B
-  - Rhythm_and_Blues
-  - Rhythm and Blues
+- ceol rithim agus gormacha
+- Orin Rhythm and blues
+- R&B
+- R'n'B
+- Rhythm & Blues
+- rhythm a blŵs
+- Rhythm and blues
+- Rhythm ha blous
+- Rhythm na blues
+- rhythm-and-blues
+- Rhythm_and_Blues
+- ritam i blues
+- ritam i bluz
+- ritem in blues
+- Ritenblouze
+- ritm-n-blyuz
+- ritmblūzs
+- ritmenbliuzas
+- ritmenbluso
+- Ryþmablús
+- Rütm ja bluus
+- Rėtmabliozos
+- Vakatagi kei Blues
+- ριθμ εντ μπλουζ
+- Ритам и блуз
+- ритм энд блюз
+- ритм-енд-блюз
+- ритм-н-блюз
+- ритъм и блус
+- рытм-н-блюз
+- Ռիթմ եւ «Պլուզ»
+- ռիթմ էնդ բլյուզ
+- רית'ם אנד בלוז
+- آر-اند-بی
+- ردھم اینڈ بلوز
+- ريذم أند بلوز
+- ريذم اند بلوز
+- ریتم اند بلوز
+- ڕیتم و بلووز
+- रिद्म एंड ब्लूज़
+- रीदम एन्ड ब्लुज्
+- রিদম অ্যান্ড ব্লুজ
+- ரிதம் அண்ட் புளூஸ்
+- ริทึมแอนด์บลูส์
+- ရစ်သမ် အန် ဘလူးစ်
+- რიტმ ენდ ბლუზი
+- リズム・アンド・ブルース
+- 節奏布魯斯
+- 節奏怨曲
+- 節奏藍調
+- 节奏布鲁斯
+- 节奏蓝调
+- 리듬 앤 블루스
 has_id_wikidata: Q45981
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
@@ -23,8 +71,107 @@ equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_RAndB
 Commons_gallery: Rhythm and blues
 Commons_category: Rhythm and blues
 native_label: Rhythm and blues
+dv_has_:
+  name_:
+    ar: ريذم أند بلوز
+    arz: ريذم اند بلوز
+    ast: Rhythm and blues
+    az: ritm-n-blyuz
+    azb: ریتم اند بلوز
+    be: рытм-н-блюз
+    be-tarask: рытм-н-блюз
+    bg: ритъм и блус
+    bn: রিদম অ্যান্ড ব্লুজ
+    br: Rhythm and blues
+    bs: R&B
+    ca: rhythm and blues
+    ckb: ڕیتم و بلووز
+    cs: rhythm and blues
+    cy: rhythm a blŵs
+    da: rhythm and blues
+    de: Rhythm and Blues
+    el: ριθμ εντ μπλουζ
+    en: rhythm and blues
+    eo: ritmenbluso
+    es: rhythm and blues
+    et: Rütm ja bluus
+    eu: rhythm and blues
+    fa: ریتم اند بلوز
+    fi: rhythm and blues
+    fj: Vakatagi kei Blues
+    fr: rhythm and blues
+    fy: Rhythm and blues
+    ga: ceol rithim agus gormacha
+    gl: Rhythm and blues
+    gv: R&B
+    he: רית'ם אנד בלוז
+    hi: रिद्म एंड ब्लूज़
+    hif: Rhythm and blues
+    hr: ritam i blues
+    hu: rhythm and blues
+    hy: ռիթմ էնդ բլյուզ
+    hyw: Ռիթմ եւ «Պլուզ»
+    id: R&B
+    io: Rhythm and blues
+    is: Ryþmablús
+    it: rhythm and blues
+    ja: リズム・アンド・ブルース
+    ka: რიტმ ენდ ბლუზი
+    ko: 리듬 앤 블루스
+    ku: R&B
+    kw: Rhythm ha blous
+    lb: Rhythm and Blues
+    lt: ritmenbliuzas
+    lv: ritmblūzs
+    mk: Ритам и блуз
+    ms: R&B
+    mt: rhythm and blues
+    my: ရစ်သမ် အန် ဘလူးစ်
+    mzn: آر-اند-بی
+    nah: Rhythm & Blues
+    nb: rhythm and blues
+    new: रीदम एन्ड ब्लुज्
+    nl: rhythm-and-blues
+    nn: rhythm and blues
+    oc: Rhythm and blues
+    os: ритм-н-блюз
+    pap: rhythm-and-blues
+    pl: rhythm and blues
+    pt: rhythm and blues
+    ro: rhythm and blues
+    ru: ритм-н-блюз
+    sah: R&B
+    scn: Rhythm and blues
+    sgs: Rėtmabliozos
+    sh: Rhythm and blues
+    sk: rhythm and blues
+    sl: ritem in blues
+    sq: Rhythm and blues
+    sr: ритам и блуз
+    sr-ec: ритам и блуз
+    sr-el: ritam i bluz
+    sv: rhythm and blues
+    sw: Rhythm na blues
+    ta: ரிதம் அண்ட் புளூஸ்
+    tg: ритм энд блюз
+    th: ริทึมแอนด์บลูส์
+    tl: Rhythm and blues
+    tr: Rhythm and Blues
+    uk: ритм-енд-блюз
+    ur: ردھم اینڈ بلوز
+    vec: rhythm and blues
+    vi: rhythm and blues
+    wa: Ritenblouze
+    wuu: 节奏布鲁斯
+    yo: Orin Rhythm and blues
+    yue: R&B
+    zh: 节奏布鲁斯
+    zh-hant: 節奏布魯斯
+    zh-hk: 節奏怨曲
+    zh-my: 节奏蓝调
+    zh-sg: 节奏蓝调
+    zh-tw: 節奏藍調
 ---
-
 # [[Rhythm_and_Blues]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rhythm_and_blues,45981|WD~Rhythm_and_blues,45981]]  

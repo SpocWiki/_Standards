@@ -1,34 +1,116 @@
 ---
 aliases:
+- compost organosulfurat
+- composto organossulfurado
+- composto organosulfurado
+- composé organosulfuré
+- compuesto de organoazufre
+- Compuestu de organoazufre
+- Compus organosulfurat
+- Kimia organosulfur
+- kénorganikus vegyület
+- Kükürdlü üzvi birləşmələr
+- organiksulfura kombinaĵo
+- organisk svovelsambinding
+- Organoschwefelverbindungen
+- Organosufre-konposatu
+- Organosulfur chemistry
+- organosulfur compound
+- organosulphur compound
+- Organosumporni spoj
+- Organosumporno jedinjenje
+- organosírové sloučeniny
+- Organosülfür bileşikler
+- organozwavelchemie
+- organožveplova spojina
+- svavelorganiska föreningar
+- zolforganico
+- związek siarkoorganiczny
+- органосулфурно соединение
+- Сераарганічныя злучэнні
+- сероорганические соединения
+- Сульфурорганічні сполуки
+- сэраарганічнае злучэньне
+- ترکیبات آلی گوگرد
+- مركب كبريتي عضوي
+- கரிமகந்தக சேர்மங்கள்
+- 有机硫化学
+- 有機硫化學
+- 有機硫黄化合物
 has_id_wikidata: Q422785
-described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-different_from: "[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]"
-subclass_of: "[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]"
-Common_Procurement_Vocabulary_code: "24325000"
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]'
+subclass_of: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]'
+Common_Procurement_Vocabulary_code: 24325000
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/SERAORGANICHESKIE_SOEDINENIYA.html
 Commons_category: Organosulfur compounds
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Organosulfur_compound,422785]]"
-    - "[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]"
-    - "[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]"
-    - "[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]"
-    - "[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]"
-    - "[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]"
-    - "[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]"
-    - "[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]"
+  - '[[../WikiData/WD~Organosulfur_compound,422785]]'
+  - '[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]'
+  - '[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]'
+  - '[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]'
+  - '[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]'
+  - '[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]'
+  - '[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]'
+  - '[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Organosulfur_compound,422785]]"
-  - "[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]"
-  - "[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]"
-  - "[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]"
-  - "[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]"
-  - "[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]"
-  - "[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]"
-  - "[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]"
+- '[[../WikiData/WD~Organosulfur_compound,422785]]'
+- '[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]'
+- '[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]'
+- '[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]'
+- '[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]'
+- '[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]'
+- '[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]'
+- '[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]'
+dv_has_:
+  name_:
+    ar: مركب كبريتي عضوي
+    ast: Compuestu de organoazufre
+    az: Kükürdlü üzvi birləşmələr
+    be: Сераарганічныя злучэнні
+    be-tarask: сэраарганічнае злучэньне
+    bs: Organosumporni spoj
+    ca: compost organosulfurat
+    cs: organosírové sloučeniny
+    de: Organoschwefelverbindungen
+    en: organosulfur compound
+    en-ca: Organosulfur chemistry
+    en-gb: organosulphur compound
+    eo: organiksulfura kombinaĵo
+    es: compuesto de organoazufre
+    eu: Organosufre-konposatu
+    fa: ترکیبات آلی گوگرد
+    fr: composé organosulfuré
+    gl: composto organosulfurado
+    hu: kénorganikus vegyület
+    id: Kimia organosulfur
+    it: zolforganico
+    ja: 有機硫黄化合物
+    mk: органосулфурно соединение
+    nl: organozwavelchemie
+    nn: organisk svovelsambinding
+    pl: związek siarkoorganiczny
+    pt: composto organossulfurado
+    pt-br: Composto organossulfurado
+    ro: Compus organosulfurat
+    ru: сероорганические соединения
+    sl: organožveplova spojina
+    sr: Organosumporno jedinjenje
+    sv: svavelorganiska föreningar
+    ta: கரிமகந்தக சேர்மங்கள்
+    tr: Organosülfür bileşikler
+    uk: Сульфурорганічні сполуки
+    yue: 有機硫化學
+    zh: 有机硫化学
+    zh-cn: 有机硫化学
+    zh-hans: 有机硫化学
+    zh-hant: 有機硫化學
+    zh-hk: 有機硫化學
+    zh-sg: 有机硫化学
+    zh-tw: 有機硫化學
 ---
-
 # [[../Chemistry/Organosilicon_Compound|Organosilicon_Compound]] 
 
 #is_/same_as :: [[WD~Organosulfur_compound,422785]] 

@@ -1,12 +1,62 @@
 ---
 aliases:
+- Kvikstep
+- Kviksteps
+- Quick-step
+- quickstep
+- кўікстэп
+- Квікстеп
+- Квикстеп
+- Куикстеп
+- Քուիքսթեփ
+- קוויקסטפ
+- كويك ستيب
+- クイックステップ
+- 快步
 has_id_wikidata: Q663529
-different_from: "[[_Standards/WikiData/WD~Soudal_Quick_Step,645032]]"
-subclass_of: "[[_Standards/WikiData/WD~ballroom_dance,1085001]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
+different_from: '[[_Standards/WikiData/WD~Soudal_Quick_Step,645032]]'
+subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.jpg
+dv_has_:
+  name_:
+    ar: كويك ستيب
+    ast: Quickstep
+    az: Kvikstep
+    be-tarask: кўікстэп
+    bg: Куикстеп
+    ca: quickstep
+    cs: quickstep
+    da: quickstep
+    de: Quickstep
+    en: quickstep
+    es: Quickstep
+    eu: Quickstep
+    fi: Quickstep
+    fr: Quickstep
+    gl: Quickstep
+    he: קוויקסטפ
+    hr: Quickstep
+    hu: Quickstep
+    hy: Քուիքսթեփ
+    it: Quickstep
+    ja: クイックステップ
+    lv: Kviksteps
+    nb: quickstep
+    nl: Quickstep
+    nn: quickstep
+    pl: Quickstep
+    pt: Quick-step
+    ru: Квикстеп
+    sk: quickstep
+    sr: Квикстеп
+    sv: quickstep
+    uk: Квікстеп
+    zh: 快步
+    zh-hans: 快步
+    zh-hant: 快步
+    zh-hk: 快步
 ---
-
 # [[Quickstep]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Quickstep,663529|WD~Quickstep,663529]] 

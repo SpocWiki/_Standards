@@ -1,7 +1,41 @@
 ---
 aliases:
-  - Brassicales
-  - 十字花目
+- Brasikaloj
+- Brassicales
+- Brassicals
+- brukvotvaré
+- bộ Cải
+- Kapsalaadsed
+- kapustotvaré
+- kapustowce
+- keresztesvirágúak
+- Koma kulîlkxaçiyan
+- korsblomst-ordenen
+- Kreuzblütlerartige
+- križničevci
+- krossblomordenen
+- Krossblómabálkur
+- krustziežu rinda
+- kålordningen
+- Kələmçiçəklilər
+- Κραμβώδη
+- зелковидни
+- Капустакветныя
+- Капустоцвіті
+- капустоцветные
+- Крсташице
+- Купӑста чечеклисем
+- կաղամբածաղկավորներ
+- צלפאים
+- كرنبيات
+- کلمسانان
+- బ్రాసికేలిస్
+- ബ്രാസിക്കേൽസ്
+- อันดับผักกาด
+- アブラナ目
+- 十字花目
+- 白花菜目
+- 십자화목
 has_id_wikidata: Q21904
 title: Brassicales
 parent_taxon: '[[_Standards/WikiData/WD~malvids,2133361]]'
@@ -10,16 +44,100 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 358574
 ITIS_TSN: 822943
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Capparis%20zoharyi%204.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Alliaria%20petiolata%20-%20flowers.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Capparis%20zoharyi%204.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Alliaria%20petiolata%20-%20flowers.jpg
 EPPO_Code: 1CAPO
 Commons_category: Brassicales
 taxon_name: Brassicales
 UMLS_CUI: C0682485
 NBN_System_Key: NHMSYS0021060383
 taxon_common_name: 十字花目
+dv_has_:
+  name_:
+    an: Brassicales
+    ar: كرنبيات
+    arz: كرنبيات
+    ast: Brassicales
+    az: Kələmçiçəklilər
+    be: Капустакветныя
+    be-tarask: Капустакветныя
+    bg: Brassicales
+    bs: Brassicales
+    ca: Brassicals
+    ceb: Brassicales
+    co: Brassicales
+    cs: brukvotvaré
+    cv: Купӑста чечеклисем
+    da: korsblomst-ordenen
+    de: Kreuzblütlerartige
+    el: Κραμβώδη
+    en: Brassicales
+    en-ca: Brassicales
+    en-gb: Brassicales
+    eo: Brasikaloj
+    es: Brassicales
+    et: Kapsalaadsed
+    eu: Brassicales
+    ext: Brassicales
+    fa: کلمسانان
+    fi: Brassicales
+    fr: Brassicales
+    frr: Brassicales
+    ga: Brassicales
+    gl: Brassicales
+    he: צלפאים
+    hr: Brassicales
+    hu: keresztesvirágúak
+    hy: կաղամբածաղկավորներ
+    ia: Brassicales
+    id: Brassicales
+    ie: Brassicales
+    ilo: Brassicales
+    io: Brassicales
+    is: Krossblómabálkur
+    it: Brassicales
+    ja: アブラナ目
+    jv: Brassicales
+    ko: 십자화목
+    ku: Koma kulîlkxaçiyan
+    la: Brassicales
+    lv: krustziežu rinda
+    mk: зелковидни
+    ml: ബ്രാസിക്കേൽസ്
+    ms: Brassicales
+    mul: Brassicales
+    nb: Brassicales
+    nl: Brassicales
+    nn: krossblomordenen
+    oc: Brassicales
+    pl: kapustowce
+    pt: Brassicales
+    pt-br: Brassicales
+    ro: Brassicales
+    ru: капустоцветные
+    sco: Brassicales
+    sk: kapustotvaré
+    sl: križničevci
+    sq: Brassicales
+    sr: Крсташице
+    sv: kålordningen
+    te: బ్రాసికేలిస్
+    th: อันดับผักกาด
+    tl: Brassicales
+    tr: Brassicales
+    uk: Капустоцвіті
+    vi: bộ Cải
+    vls: Brassicales
+    vo: Brassicales
+    war: Brassicales
+    wuu: 十字花目
+    yue: 白花菜目
+    zh: 十字花目
+    zh-cn: 十字花目
+    zh-hans: 十字花目
+    zh-hant: 十字花目
+    zh-tw: 十字花目
 ---
-
 # [[Brassicales]] 
 
 ![](Brassicales/Erysimum_ammophilum.jpg)  ![](Brassicales/Tropaeolum_minus05199.jpg)  ![](Brassicales/Carica_papaya2193.jpg) 

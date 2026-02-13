@@ -1,59 +1,247 @@
 ---
 aliases:
+- Af-Hebrow
+- an Eabhrais
+- A̱biru
+- bahasa Ibrani
+- Bahaso Ibrani
+- Basa Ibrani
+- broban
+- Chihebheru
+- Eabhra
+- ebbrèu
+- ebraico
+- ebraicu
+- Ebrajk
+- Ebreu
+- Ebrew
+- Ebrow
+- Ebràic
+- ebrè
+- ebrèo
+- ebrèu
+- Evrejan kel'
+- Evréo ñe'ẽ
+- Ewnish
+- Fiteny hebreo
+- hebraeg
+- hebraico
+- hebraikisht
+- Hebraimiutut
+- hebraisk
+- Hebraiskt mál
+- Hebraju kalba
+- hebrajų kalba
+- Hebrea linguo
+- hebrea lingvo
+- hebreagiella
+- hebreakielâ
+- hebreera
+- Hebreeus
+- Hebreeuws
+- Hebreewsk
+- hebreiska
+- Hebrejsczi jãzëk
+- hebrejski jezik
+- hebrejčina
+- hebrejština
+- Hebrejšćina
+- hebrejščina
+- Hebreo
+- Hebreska
+- hebreu
+- Hebreum
+- Hebrew
+- Hebrew bhasa
+- Hebreyapük
+- Hebreêuws
+- Hebrieusk
+- Hebräesch
+- Hebräisch
+- Hebräischi Sproch
+- Hebrääsche Spraak
+- hebréu
+- Hebrēisc sprǣc
+- heebrea keel
+- heprea
+- hepreaǩiõll
+- Hi-pek-lâi-gí
+- Hibbrais
+- Hiibruu
+- Hinebreyo
+- hiniberayan
+- Hèbrèo
+- héber
+- hébreu
+- Hî-pak-lói-ngî
+- Hīperu
+- Hĭ-báik-lài-ngṳ̄
+- Hɛbra kʊnʊŋ
+- Ibrananci
+- Iburu
+- Idioma hebreu
+- Inebreo
+- Inebreyo
+- IsiHebheru
+- ivri
+- Ivrit
+- ivrit dili
+- ivrits
+- Iwrit dili
+- Iwriyu simi
+- Jahudi zyvon
+- Jaku Hebrew
+- język hebrajski
+- Kiebrania
+- Lenga ebréa antica
+- Lenghe ebraiche
+- Lengua ebraica
+- limba ebraică
+- Limba ebrea
+- Lingua ebrea
+- lingua Hebraica
+- lingua hebrea
+- Lingua hebree
+- Liébeleo
+- Luenga ebrea
+- Saro Ibrani
+- Taɛebrit
+- tiếng Hebrew
+- toki Iwisi
+- Tutlayt Taɛibrit
+- Wikang Ebreo
+- zimanê îbranî
+- Èdè Hébérù
+- İbrani tili
+- İbranice
+- İbranki
+- Εβραϊκά
+- Єврєискъ ѩꙁꙑкъ
+- іўрыт
+- іврит
+- Гебрейскый язык
+- Джуртыбзэ
+- Евреень кяль
+- Еврей кыв
+- еврей кыл
+- Еврей хэл
+- Жугтий мотт
+- Жөөт тили
+- Забони ибрӣ
+- Иврит
+- Иврит тілі
+- Ивритин келн
+- хебрејски јазик
+- хебрејски језик
+- Чувуд чӀал
+- яһүд теле
+- եբրայերեն
+- Եբրայերէն
+- העברעיש
+- עברית
+- ئىبرانى تىلى
+- العبرية
+- العبريه
+- اليهودي
+- بهاس عبراني
+- زبان عبری
+- زمانی عیبری
+- زون عبری
+- عبرأنؠ زبان
+- عبراني ٻولي
+- عبراني ژبه
+- عبرانی
+- عبرانیجه
+- عبری
+- لعبرية
+- ܠܫܢܐ ܥܒܪܝܐ
+- इब्रानी भाषा
+- हिब्रु भाषा
+- हिब्रू भाषा
+- হিব্রু ভাষা
+- হিব্ৰু ভাষা
+- ਇਬਰਾਨੀ
+- હિબ્રૂ
+- எபிரேயம்
+- హీబ్రూ భాష
+- ಇವ್ರಿತ್
+- ഹീബ്രു
+- හීබෲ භාෂාව
+- ภาษาฮีบรู
+- ພາສາເຮັບເຣີ
+- ဟီဘရူးဘာသာ
+- ဟေဗြဲဘာသာစကား
+- ებრაული ენა
+- ურიული ნინა
+- እብራይስጢ
+- ዕብራይስጥ
+- ភាសាហេប្រ៊ូ
+- ᱦᱤᱵᱽᱨᱩ ᱯᱟ.ᱨᱥᱤ
+- ‘Ōlelo Hepela
+- ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵄⵉⴱⵔⵉⵜ
+- ヘブライ語
+- 希伯來文
+- 希伯來語
+- 希伯来语
+- ꠁꠛ꠆ꠞꠥ
+- ꯍꯦꯕ꯭ꯔꯤꯎ
+- 히브라이어
+- 히브리어
+- "\U00010337\U00010330\U00010339\U00010331\U00010342\U00010330\U00010339\U00010343\U0001033A\U00010330\U00010342\U00010330\U00010336\U00010333\U00010330"
 has_id_wikidata: Q9288
 Glottolog_code: hebr1246
 GOST_7_75_97_code: ивр 198
 short_name:
-  - ivritcə
-  - ибрӣ
+- ivritcə
+- ибрӣ
 native_label:
-  - עברית חדשה
-  - עברית
+- עברית חדשה
+- עברית
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1%20QIsa%20example%20of%20damage%20col%2012-13.jpg
 inception: -1500-01-01T00:00:00Z
-language_regulatory_body: "[[_Standards/WikiData/WD~Academy_of_the_Hebrew_Language,190400]]"
+language_regulatory_body: '[[_Standards/WikiData/WD~Academy_of_the_Hebrew_Language,190400]]'
 has_grammatical_gender:
-  - "[[_Standards/WikiData/WD~masculine,499327]]"
-  - "[[_Standards/WikiData/WD~feminine,1775415]]"
-named_after: "[[_Standards/WikiData/WD~Hebrews,570868]]"
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415]]'
+named_after: '[[_Standards/WikiData/WD~Hebrews,570868]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Jewish_languages,615948]]"
-  - "[[_Standards/WikiData/WD~Canaanite,747547]]"
-linguistic_typology: "[[_Standards/WikiData/WD~subject_verb_object,651641]]"
-studied_by: "[[_Standards/WikiData/WD~study_of_the_Hebrew_language,739465]]"
+- '[[_Standards/WikiData/WD~Jewish_languages,615948]]'
+- '[[_Standards/WikiData/WD~Canaanite,747547]]'
+linguistic_typology: '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+studied_by: '[[_Standards/WikiData/WD~study_of_the_Hebrew_language,739465]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
 has_conjugation_class:
-  - "[[_Standards/WikiData/WD~nif'al,7039452]]"
-  - "[[_Standards/WikiData/WD~pa'al,7265893]]"
-  - "[[_Standards/WikiData/WD~pu'al,80270576]]"
-  - "[[_Standards/WikiData/WD~huf'al,83221822]]"
-  - "[[_Standards/WikiData/WD~hif'il,83222403]]"
-  - "[[_Standards/WikiData/WD~pi'el,83222982]]"
-  - "[[_Standards/WikiData/WD~hitpa'el,83224610]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Hebrew_language,7222191]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Hebrew_language,12201900]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q111109521,111109521]]"
-country: "[[_Standards/WikiData/WD~Israel,801]]"
+- "[[_Standards/WikiData/WD~nif'al,7039452]]"
+- "[[_Standards/WikiData/WD~pa'al,7265893]]"
+- "[[_Standards/WikiData/WD~pu'al,80270576]]"
+- "[[_Standards/WikiData/WD~huf'al,83221822]]"
+- "[[_Standards/WikiData/WD~hif'il,83222403]]"
+- "[[_Standards/WikiData/WD~pi'el,83222982]]"
+- "[[_Standards/WikiData/WD~hitpa'el,83224610]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hebrew_language,7222191]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Hebrew_language,12201900]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q111109521,111109521]]'
+country: '[[_Standards/WikiData/WD~Israel,801]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Israelites,51669]]"
-writing_system: "[[_Standards/WikiData/WD~Hebrew_alphabet,33513]]"
-IAB_code: "1087"
-ABS_ASCL_2011_code: "4204"
-OmegaWiki_Defined_Meaning: "6123"
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Israelites,51669]]'
+writing_system: '[[_Standards/WikiData/WD~Hebrew_alphabet,33513]]'
+IAB_code: 1087
+ABS_ASCL_2011_code: 4204
+OmegaWiki_Defined_Meaning: 6123
 Wikimedia_language_code: he
 IETF_language_tag: he
 ISO_639_1_code: he
@@ -71,13 +259,253 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20he.s
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B9%E0%A4%BF%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%82%20%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sabra%20Wikivoyage%20banner.jpg
 Stack_Exchange_tag:
-  - https://judaism.stackexchange.com/tags/hebrew
-  - https://linguistics.stackexchange.com/tags/hebrew
-  - https://stackoverflow.com/tags/hebrew
-  - https://tex.stackexchange.com/tags/hebrew
+- https://judaism.stackexchange.com/tags/hebrew
+- https://linguistics.stackexchange.com/tags/hebrew
+- https://stackoverflow.com/tags/hebrew
+- https://tex.stackexchange.com/tags/hebrew
 Linguasphere_code: 12-AAB-a
+dv_has_:
+  name_:
+    ab: Иврит
+    ady: Джуртыбзэ
+    aeb-arab: اليهودي
+    af: Hebreeus
+    am: ዕብራይስጥ
+    an: Idioma hebreu
+    ang: Hebrēisc sprǣc
+    ann: Iburu
+    anp: हिब्रू भाषा
+    ar: العبرية
+    arc: ܠܫܢܐ ܥܒܪܝܐ
+    ary: لعبرية
+    arz: العبريه
+    as: হিব্ৰু ভাষা
+    ast: hebréu
+    az: ivrit dili
+    azb: عبرانیجه
+    ba: Иврит
+    ban: Basa Ibrani
+    bar: Hebräisch
+    bcl: Hebreo
+    be: іўрыт
+    be-tarask: іўрыт
+    bg: иврит
+    bjn: Bahasa Ibrani
+    bn: হিব্রু ভাষা
+    br: hebraeg
+    bs: hebrejski jezik
+    btm: Saro Ibrani
+    bxr: Иврит
+    ca: hebreu
+    cdo: Hĭ-báik-lài-ngṳ̄
+    ce: Иврит
+    ceb: Inebreyo
+    ckb: زمانی عیبری
+    co: ebraicu
+    crh: İbrani tili
+    crh-latn: İbrani tili
+    cs: hebrejština
+    csb: Hebrejsczi jãzëk
+    cu: Єврєискъ ѩꙁꙑкъ
+    cv: Иврит
+    cy: Hebraeg
+    da: hebraisk
+    de: Hebräisch
+    de-ch: Hebräisch
+    diq: İbranki
+    dsb: Hebrejšćina
+    el: Εβραϊκά
+    eml: Ebràic
+    en: Hebrew
+    en-ca: Hebrew
+    en-gb: Hebrew
+    eo: hebrea lingvo
+    es: hebreo
+    et: heebrea keel
+    eu: hebreera
+    ext: Luenga ebrea
+    fa: زبان عبری
+    fi: heprea
+    fo: Hebraiskt mál
+    fr: hébreu
+    frp: Hèbrèo
+    frr: Hebreewsk
+    fur: Lenghe ebraiche
+    fy: Hebrieusk
+    ga: an Eabhrais
+    gan: 希伯來語
+    gd: Eabhra
+    gl: lingua hebrea
+    gn: Evréo ñe'ẽ
+    got: "\U00010337\U00010330\U00010339\U00010331\U00010342\U00010330\U00010339\U00010343\U0001033A\U00010330\U00010342\U00010330\U00010336\U00010333\U00010330"
+    gpe: Hebrew
+    gsw: Hebräischi Sproch
+    gu: હિબ્રૂ
+    gv: Ewnish
+    ha: Ibrananci
+    hak: Hî-pak-lói-ngî
+    haw: ‘Ōlelo Hepela
+    he: עברית
+    hi: इब्रानी भाषा
+    hif: Hebrew bhasa
+    hil: Inebreo
+    hr: hebrejski jezik
+    hsb: hebrejšćina
+    ht: ebrè
+    hu: héber
+    hy: եբրայերեն
+    hyw: Եբրայերէն
+    ia: Lingua hebree
+    iba: Jaku Hebrew
+    id: bahasa Ibrani
+    ilo: Hebreo
+    inh: Жугтий мотт
+    io: Hebrea linguo
+    is: Hebreska
+    it: ebraico
+    ja: ヘブライ語
+    jbo: broban
+    jv: Basa Ibrani
+    ka: ებრაული ენა
+    kaa: ivrit
+    kab: Taɛebrit
+    kbd: Иврит
+    kbp: Hɛbra kʊnʊŋ
+    kcg: A̱biru
+    kge: Bahasa Ibrani
+    kk: Иврит тілі
+    kl: Hebraimiutut
+    km: ភាសាហេប្រ៊ូ
+    kn: ಇವ್ರಿತ್
+    knc: Hebrew
+    ko: 히브리어
+    koi: Еврей кыв
+    ko-kp: 히브라이어
+    krj: Inebreo
+    ks: عبرأنؠ زبان
+    ksh: Hebräisch
+    ku: zimanê îbranî
+    ku-latn: zimanê îbranî
+    kv: Иврит
+    kw: Ebrow
+    ky: Жөөт тили
+    la: lingua Hebraica
+    lad: Lingua ebrea
+    lb: Hebräesch
+    lez: Чувуд чӀал
+    lfn: ivri
+    li: Hebreeuws
+    lij: Lengua ebraica
+    lmo: Lengua ebraica
+    ln: Liébeleo
+    lo: ພາສາເຮັບເຣີ
+    lrc: زون عبری
+    lt: hebrajų kalba
+    lv: ivrits
+    lzh: 希伯來語
+    mai: हिब्रु भाषा
+    mdf: Евреень кяль
+    mg: Fiteny hebreo
+    mi: Hīperu
+    min: Bahaso Ibrani
+    mk: хебрејски јазик
+    ml: ഹീബ്രു
+    mn: Еврей хэл
+    mni: ꯍꯦꯕ꯭ꯔꯤꯎ
+    mr: हिब्रू भाषा
+    ms: bahasa Ibrani
+    ms-arab: بهاس عبراني
+    mt: Ebrajk
+    my: ဟီဘရူးဘာသာ
+    myv: Иврит
+    mzn: عبری
+    nan: Hi-pek-lâi-gí
+    nb: hebraisk
+    nds: Hebrääsche Spraak
+    nds-nl: Hibbrais
+    ne: हिब्रु भाषा
+    new: हिब्रू भाषा
+    nl: Hebreeuws
+    nn: hebraisk
+    nov: Hebreum
+    oc: ebrèu
+    os: иврит
+    pa: ਇਬਰਾਨੀ
+    pam: Ebreu
+    pap: hebreo
+    pih: Hiibruu
+    pl: język hebrajski
+    pms: Lenga ebréa antica
+    pnb: عبرانی
+    ps: عبراني ژبه
+    pt: hebraico
+    pt-br: hebraico
+    pwn: hiniberayan
+    qu: Iwriyu simi
+    rki: ဟေဗြဲဘာသာစကား
+    ro: limba ebraică
+    ru: иврит
+    rue: Гебрейскый язык
+    sah: Иврит
+    sat: ᱦᱤᱵᱽᱨᱩ ᱯᱟ.ᱨᱥᱤ
+    sc: Limba ebrea
+    scn: ebbrèu
+    sco: Ebrew
+    sd: عبراني ٻولي
+    se: hebreagiella
+    sgs: Hebraju kalba
+    sh: hebrejski jezik
+    shi: Tutlayt Taɛibrit
+    si: හීබෲ භාෂාව
+    sk: hebrejčina
+    sl: hebrejščina
+    smn: hebreakielâ
+    sms: hepreaǩiõll
+    sn: Chihebheru
+    so: Af-Hebrow
+    sq: hebraikisht
+    sr: хебрејски језик
+    sv: hebreiska
+    sw: Kiebrania
+    syl: ꠁꠛ꠆ꠞꠥ
+    ta: எபிரேயம்
+    te: హీబ్రూ భాష
+    tg: Забони ибрӣ
+    th: ภาษาฮีบรู
+    ti: እብራይስጢ
+    tk: Iwrit dili
+    tl: Wikang Ebreo
+    tly: Jahudi zyvon
+    tok: toki Iwisi
+    tr: İbranice
+    tt: яһүд теле
+    tt-cyrl: яһүд теле
+    udm: еврей кыл
+    ug: ئىبرانى تىلى
+    uk: іврит
+    ur: عبرانی
+    uz: Ivrit
+    vec: ebrèo
+    vep: Evrejan kel'
+    vi: tiếng Hebrew
+    vo: Hebreyapük
+    war: Hinebreyo
+    wuu: 希伯来语
+    xal: Ивритин келн
+    xmf: ურიული ნინა
+    yi: העברעיש
+    yo: Èdè Hébérù
+    yue: 希伯來文
+    zea: Hebreêuws
+    zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵄⵉⴱⵔⵉⵜ
+    zh: 希伯来语
+    zh-cn: 希伯来语
+    zh-hans: 希伯来语
+    zh-hant: 希伯來語
+    zh-hk: 希伯來語
+    zh-tw: 希伯來語
+    zu: IsiHebheru
 ---
-
 # [[Lang-heb]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Hebrew,9288|WD~Hebrew,9288]] 

@@ -1,74 +1,309 @@
 ---
 aliases:
-  - Bromine
+- Bbolomayini
+- Boromiin
+- Broeam
+- brom
+- broma
+- Bromas
+- Brome
+- bromeen
+- bromi
+- Bromin
+- Bromina
+- Bromine
+- Bromium
+- Brommo
+- bromo
+- broms
+- bromu
+- bromum
+- broom
+- Bròm
+- Bròmain
+- Bròme
+- bróimín
+- Bróm
+- Brôma
+- Bwòm
+- Chhiu
+- Chhàu-sò͘
+- Chéu
+- ijo lili nanpa 35
+- Purom
+- pūkane
+- UmBhulufu
+- xunkliru
+- βρώμιο
+- Бром
+- բրոմ
+- בראם
+- ברום
+- برم
+- بروم
+- برومائن
+- برومين
+- برومین
+- برۆم
+- ब्रोमिन
+- ब्रोमीन
+- ব্রোমিন
+- ਬ੍ਰੋਮੀਨ
+- બ્રોમિન
+- ବ୍ରୋମିନ
+- புரோமின்
+- బ్రోమిన్
+- ಬ್ರೋಮಿನ್
+- ബ്രോമിൻ
+- බ්රෝමීන්
+- โบรมีน
+- ໂບຣມິນ
+- རྦོར་མིན།
+- ဘရိုမင်း
+- ბრომი
+- ብሮሚን
+- 溴
+- 臭素
+- 브로민
 has_id_wikidata: Q879
-associated_hazard: "[[_Standards/WikiData/WD~bromine_exposure,21173316]]"
+associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316]]'
 atomic_number: 35
 Commons_category: Bromine
 Commons_gallery: Bromine
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~theobromine,206844]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]"
-  - "[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]"
+- '[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]'
+- '[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]'
 electronegativity: 3
 element_symbol: Br
 Gmelin_number: 1182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.25
-  - 0.31
-  - 0.39
-  - 1.96
+- 0.25
+- 0.31
+- 0.39
+- 1.96
 ionization_energy: 10.55
 Krugosvet_article: nauka_i_tehnika/himiya/BROM.html
-location_of_discovery: "[[_Standards/WikiData/WD~France,142]]"
+location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~seawater,184395]]"
-  - "[[_Standards/WikiData/WD~brine,214403]]"
+- '[[_Standards/WikiData/WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~brine,214403]]'
 mass: 79.904
 MeSH_tree_code: D01.268.380.112
-named_after: "[[_Standards/WikiData/WD~stink,1519476]]"
+named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
 OmegaWiki_Defined_Meaning: 434
 part_of:
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+- '[[_Standards/WikiData/WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~halogens,19605]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg
 SpocWebEntityId: 21933
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~halogens,19605]]"
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~halogens,19605]]'
 time_of_discovery_or_invention: 1825
 type: Element
 UMLS_CUI: C0006223
 Unicode_character: 溴
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Bromine,879]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]"
-  part_of: "[[../Group-17-Halogen]]"
+  - '[[../../../WikiData/WD~Bromine,879]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]'
+  part_of: '[[../Group-17-Halogen]]'
 dv_has_:
   name_:
-    group: Group-17-Halogene
-    en: Bromine
-    de: Brom
     abbreviated: Br
+    af: broom
+    am: ብሮሚን
+    an: Bromo
+    ar: بروم
+    ary: بروم
+    arz: بروم
+    ast: bromu
+    awa: ब्रोमिन
+    az: Brom
+    azb: بروم
+    ba: Бром
+    ban: Brom
+    bcl: Bromina
+    be: Бром
+    be-tarask: бром
+    bg: бром
+    bho: ब्रोमीन
+    bn: ব্রোমিন
+    bo: རྦོར་མིན།
+    br: Brom
+    bs: brom
+    ca: brom
+    cdo: Chéu
+    ceb: Bromo
+    ckb: برۆم
+    co: Bromu
+    cs: brom
+    cv: Бром
+    cy: bromin
+    da: brom
+    de: Brom
+    de-ch: Brom
+    el: βρώμιο
+    en: bromine
+    en-ca: Bromine
+    en-gb: bromine
+    eo: bromo
+    es: bromo
+    et: broom
+    eu: bromo
+    fa: برم
+    fi: bromi
+    fo: Brom
+    fr: brome
+    frr: Brom
+    fur: Brom
+    ga: bróimín
+    gan: 溴
+    gd: Bròmain
+    gl: bromo
+    group: Group-17-Halogene
+    gu: બ્રોમિન
+    gv: bromeen
+    hak: Chhiu
+    he: ברום
+    hi: ब्रोमीन
+    hif: Bromine
+    hr: brom
+    ht: Bwòm
+    hu: bróm
+    hy: բրոմ
+    ia: bromo
+    id: bromin
+    io: bromo
+    is: bróm
+    it: bromo
+    ja: 臭素
+    jbo: xunkliru
+    jv: Brom
+    ka: ბრომი
+    kbp: Purom
+    kk: Бром
+    kn: ಬ್ರೋಮಿನ್
+    ko: 브로민
+    kv: Бром
+    kw: Bromin
+    ky: Бром
+    la: bromum
+    lb: Brom
+    lfn: bromo
+    lg: Bbolomayini
+    li: Broeam
+    lij: Brommo
+    lmo: Brom
+    lo: ໂບຣມິນ
+    lt: Bromas
+    lv: broms
+    lzh: 溴
+    mg: Brôma
+    mi: pūkane
+    mk: бром
+    ml: ബ്രോമിൻ
+    mn: бром
+    mr: ब्रोमिन
+    mrj: Бром
+    ms: bromin
+    ms-arab: برومين
+    mt: bromu
+    my: ဘရိုမင်း
+    myv: Бром
+    nan: Chhàu-sò͘
+    nb: brom
+    nds: Brom
+    ne: ब्रोमिन
+    new: ब्रोमिन
+    nl: broom
+    nn: brom
+    nov: Brome
+    oc: Bròme
+    olo: Brom
+    or: ବ୍ରୋମିନ
+    os: бром
+    pa: ਬ੍ਰੋਮੀਨ
+    pi: ब्रोमिन
+    pl: brom
+    pms: Bròm
+    pnb: برومائن
+    ps: برومين
+    pt: bromo
+    pt-br: bromo
+    qu: Bromu
+    ro: brom
+    ru: бром
+    rup: Bromu
+    sa: ब्रोमिन
+    sc: Bromu
+    scn: bromu
+    sco: bromine
+    sd: برومين
+    se: broma
+    sh: Brom
+    si: බ්රෝමීන්
+    sk: Bróm
+    sl: brom
+    smn: bromi
+    sms: broom
+    so: Boromiin
+    sq: Bromi
+    sr: бром
+    stq: Bromium
+    su: Bromin
+    sv: brom
+    sw: Bromi
+    ta: புரோமின்
+    te: బ్రోమిన్
+    tg: Бром
+    th: โบรมีน
+    tl: bromo
+    tok: ijo lili nanpa 35
+    tr: Brom
+    tt: Бром
+    ug: بروم
+    uk: бром
+    ur: برومین
+    uz: Brom
+    vep: Brom
+    vi: brom
+    war: Bromo
+    wuu: 溴
+    xal: Бром
+    yi: בראם
+    yo: Bromine
+    yue: 溴
+    zh: 溴
+    zh-cn: 溴
+    zh-hans: 溴
+    zh-hant: 溴
+    zh-hk: 溴
+    zh-tw: 溴
+    zu: UmBhulufu
+  number_of_:
+    period: 4
+    group: 17
+    electrons: 35
   value_for_:
     weight_:
       u: 79.904
@@ -96,21 +331,17 @@ dv_has_:
       form_:
         kj_:
           mol: 15.438
-  number_of_:
-    period: 4
-    group: 17
-    electrons: 35
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Bromine,879]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]"
+- '[[../../../WikiData/WD~Bromine,879]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]'
 dv_has_name_group: Group-17-Halogene
-dv_is_part_of: "[[../Group-17-Halogen]]"
+dv_is_part_of: '[[../Group-17-Halogen]]'
 dv_has_name_en: Bromine
 dv_has_name_de: Brom
 dv_has_value_for_weight_u: 79.904
@@ -131,7 +362,6 @@ dv_has_number_of_group: 17
 dv_has_name_abbreviated: Br
 dv_has_number_of_electrons: 35
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 
 
 

@@ -1,98 +1,163 @@
 ---
 aliases:
-  - Ammoniak
-  - Ammonia
+- A-mó͘-ní-á
+- almoniacu
+- ammiak
+- Ammonia
+- ammoniaak
+- ammoniac
+- ammoniaca
+- Ammoniak
+- ammoniakk
+- ammoniakki
+- ammonyak
+- ammunìaca
+- ammónia
+- ammóníak
+- amonia
+- amoniac
+- amoniacu
+- amoniak
+- amoniaka
+- amoniakas
+- amoniako
+- amoniaku
+- amonijak
+- amonjaks
+- amono
+- amonya
+- amonyak
+- amonìa
+- amoníac
+- amoníaco
+- amòinia
+- amóinia
+- amônia
+- haukini
+- umthundohwe
+- Â-mô-nì-â
+- αμμωνία
+- аміак
+- аміяк
+- аммиак
+- амонијак
+- амоняк
+- ամոնիակ
+- אמאניאק
+- אמוניה
+- آمونیاک
+- أمونيا
+- أمونياك
+- ئەمۆنیا
+- امونيا
+- امونیا
+- अमोनिया
+- অ্যামোনিয়া
+- এম’নিয়া
+- ਅਮੋਨੀਆ
+- એમોનિયા
+- அமோனியா
+- అమ్మోనియా
+- ಅಮೊನಿಯ
+- അമോണിയ
+- แอมโมเนีย
+- အမ်မိုးနီးယား
+- ამიაკი
+- アンモニア
+- 亞摩尼亞
+- 氨
+- 암모니아
 has_id_wikidata: Q4087
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
-  - "[[_Standards/WikiData/WD~Psophocarpus_tetragonolobus,1468260]]"
-  - "[[_Standards/WikiData/WD~Iochroma_fuchsioides,1747372]]"
-  - "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Joseph_Priestley,159636]]"
+- '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
+- '[[_Standards/WikiData/WD~Psophocarpus_tetragonolobus,1468260]]'
+- '[[_Standards/WikiData/WD~Iochroma_fuchsioides,1747372]]'
+- '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joseph_Priestley,159636]]'
 different_from:
-  - "[[_Standards/WikiData/WD~amine,167198]]"
-  - "[[_Standards/WikiData/WD~ammonia_solution,421888]]"
-  - "[[_Standards/WikiData/WD~ammonia_aqua,2992797]]"
-  - "[[_Standards/WikiData/WD~NH3,61596126]]"
-conjugate_acid: "[[_Standards/WikiData/WD~ammonium_cation,190901]]"
-fabrication_method: "[[_Standards/WikiData/WD~Haber_Bosch_process,213669]]"
+- '[[_Standards/WikiData/WD~amine,167198]]'
+- '[[_Standards/WikiData/WD~ammonia_solution,421888]]'
+- '[[_Standards/WikiData/WD~ammonia_aqua,2992797]]'
+- '[[_Standards/WikiData/WD~NH3,61596126]]'
+conjugate_acid: '[[_Standards/WikiData/WD~ammonium_cation,190901]]'
+fabrication_method: '[[_Standards/WikiData/WD~Haber_Bosch_process,213669]]'
 has_use:
-  - "[[_Standards/WikiData/WD~refrigerant,266790]]"
-  - "[[_Standards/WikiData/WD~lifting_gas,1408137]]"
-  - "[[_Standards/WikiData/WD~polar_protic_solvent,27949287]]"
+- '[[_Standards/WikiData/WD~refrigerant,266790]]'
+- '[[_Standards/WikiData/WD~lifting_gas,1408137]]'
+- '[[_Standards/WikiData/WD~polar_protic_solvent,27949287]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-subject_has_role: "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-named_after: "[[_Standards/WikiData/WD~Zeus_Ammon,3575327]]"
-conjugate_base: "[[_Standards/WikiData/WD~amide_ion,4026895]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subject_has_role: '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+named_after: '[[_Standards/WikiData/WD~Zeus_Ammon,3575327]]'
+conjugate_base: '[[_Standards/WikiData/WD~amide_ion,4026895]]'
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_toxic_substance,14330803]]"
-  - "[[_Standards/WikiData/WD~cellular_ammonium_homeostasis,21106411]]"
-  - "[[_Standards/WikiData/WD~ammonium_homeostasis,21109142]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-associated_hazard: "[[_Standards/WikiData/WD~ammonia_exposure,21167772]]"
-has_effect: "[[_Standards/WikiData/WD~ammonia_exposure,21167772]]"
-subclass_of: "[[_Standards/WikiData/WD~pnictogen_hydride,25385701]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
-complies_with: "[[_Standards/WikiData/WD~safety_classification_B2L,117758998]]"
+- '[[_Standards/WikiData/WD~response_to_toxic_substance,14330803]]'
+- '[[_Standards/WikiData/WD~cellular_ammonium_homeostasis,21106411]]'
+- '[[_Standards/WikiData/WD~ammonium_homeostasis,21109142]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+associated_hazard: '[[_Standards/WikiData/WD~ammonia_exposure,21167772]]'
+has_effect: '[[_Standards/WikiData/WD~ammonia_exposure,21167772]]'
+subclass_of: '[[_Standards/WikiData/WD~pnictogen_hydride,25385701]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+complies_with: '[[_Standards/WikiData/WD~safety_classification_B2L,117758998]]'
 mass: 17.026549096
 melting_point: -77.74
 standard_enthalpy_of_formation: -45.94
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~nitrogen,627]]'
 boiling_point: -33.4
 ozone_depletion_potential: 0
 global_warming_potential: 0
 time_weighted_average_exposure_limit:
-  - 10
-  - 20
-  - 50
-  - 14
-  - 18
-  - 25
-  - 35
+- 10
+- 20
+- 50
+- 14
+- 18
+- 25
+- 35
 median_lethal_dose_LD50_:
-  - 2000
-  - 7
-  - 4500
-  - 4600
-  - 9500
-  - 18600
-  - 20300
-  - 40300
-  - 4230
-  - 7040
-  - 11590
-  - 21430
-  - 4837
-  - 7338
-  - 9859
-  - 17401
-  - 28595
+- 2000
+- 7
+- 4500
+- 4600
+- 9500
+- 18600
+- 20300
+- 40300
+- 4230
+- 7040
+- 11590
+- 21430
+- 4837
+- 7338
+- 9859
+- 17401
+- 28595
 short_term_exposure_limit:
-  - 20
-  - 50
-  - 27
-  - 35
-  - 36
+- 20
+- 50
+- 27
+- 35
+- 36
 immediately_dangerous_to_life_or_health:
-  - 300
-  - 210
+- 300
+- 210
 minimal_lethal_dose:
-  - 5000
-  - 1500
-  - 132
-  - 3317
+- 5000
+- 1500
+- 132
+- 3317
 lower_flammable_limit: 15
 upper_flammable_limit: 28
 solubility: 34
@@ -101,8 +166,8 @@ speed_of_sound: 415
 autoignition_temperature: 651
 pKa: 9.21
 ionization_energy:
-  - 10.16
-  - 10.18
+- 10.16
+- 10.18
 electric_dipole_moment: 1.471
 OmegaWiki_Defined_Meaning: 159
 standard_molar_entropy: 192.5
@@ -133,30 +198,154 @@ P8189: 987007293895805200
 RTECS_number: BO0875000
 UMLS_CUI: C0002607
 MeSH_tree_code:
-  - D01.362.075
-  - D01.625.050
+- D01.362.075
+- D01.625.050
 DSSTOX_compound_identifier: DTXCID803872
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Ammonia,4087]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia|Ammonia]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia.public|Ammonia.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia.internal|Ammonia.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia.protect|Ammonia.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia.private|Ammonia.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia.personal|Ammonia.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia.secret|Ammonia.secret]]"
+  - '[[../../WikiData/WD~Ammonia,4087]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia|Ammonia]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Ammonia.public|Ammonia.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia.internal|Ammonia.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia.protect|Ammonia.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Ammonia.private|Ammonia.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia.personal|Ammonia.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia.secret|Ammonia.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Ammonia,4087]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia|Ammonia]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia.public|Ammonia.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia.internal|Ammonia.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia.protect|Ammonia.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia.private|Ammonia.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia.personal|Ammonia.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia.secret|Ammonia.secret]]"
+- '[[../../WikiData/WD~Ammonia,4087]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia|Ammonia]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Ammonia.public|Ammonia.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia.internal|Ammonia.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia.protect|Ammonia.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Ammonia.private|Ammonia.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia.personal|Ammonia.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia.secret|Ammonia.secret]]'
+dv_has_:
+  name_:
+    af: Ammoniak
+    ar: أمونيا
+    ary: أمونياك
+    as: এম’নিয়া
+    ast: amoniacu
+    az: ammonyak
+    azb: آمونیاک
+    ba: аммиак
+    bcl: amonya
+    be: аміяк
+    be-tarask: аміяк
+    bg: амоняк
+    bn: অ্যামোনিয়া
+    bs: amonijak
+    ca: amoníac
+    ckb: ئەمۆنیا
+    crh: ammiak
+    cs: amoniak
+    cv: аммиак
+    cy: amonia
+    da: ammoniak
+    de: Ammoniak
+    de-ch: Ammoniak
+    el: αμμωνία
+    en: ammonia
+    en-ca: ammonia
+    en-gb: ammonia
+    eo: amoniako
+    es: amoníaco
+    et: ammoniaak
+    eu: amoniako
+    ext: almoniacu
+    fa: آمونیاک
+    fi: ammoniakki
+    fr: ammoniac
+    frr: Amoniak
+    fy: Ammoniak
+    ga: amóinia
+    gan: 氨
+    gd: amòinia
+    gl: amoníaco
+    gom: ammonia
+    gu: એમોનિયા
+    hak: Â-mô-nì-â
+    he: אמוניה
+    hi: अमोनिया
+    hr: amonijak
+    hu: ammónia
+    hy: ամոնիակ
+    id: amonia
+    io: amono
+    is: ammóníak
+    it: ammoniaca
+    ja: アンモニア
+    jv: amonia
+    ka: ამიაკი
+    kk: аммиак
+    kn: ಅಮೊನಿಯ
+    ko: 암모니아
+    ku: amonyak
+    ky: аммиак
+    la: ammonia
+    li: ammoniak
+    lt: amoniakas
+    lv: amonjaks
+    lzh: 氨
+    mg: amoniaka
+    mi: haukini
+    mk: амонијак
+    ml: അമോണിയ
+    mn: аммиак
+    mr: अमोनिया
+    ms: ammonia
+    my: အမ်မိုးနီးယား
+    nan: A-mó͘-ní-á
+    nb: ammoniakk
+    nds: Ammoniak
+    ne: अमोनिया
+    nl: ammoniak
+    nn: ammoniakk
+    oc: amoniac
+    pa: ਅਮੋਨੀਆ
+    pl: amoniak
+    pms: amonìa
+    pnb: امونیا
+    ps: امونيا
+    pt: amoníaco
+    pt-br: amônia
+    ro: amoniac
+    ru: аммиак
+    sah: аммиак
+    scn: ammunìaca
+    sco: ammonia
+    sd: امونيا
+    sh: amonijak
+    sk: amoniak
+    sl: amonijak
+    sn: ammonia
+    sq: amoniaku
+    sr: амонијак
+    su: amonia
+    sv: ammoniak
+    sw: amonia
+    ta: அமோனியா
+    te: అమ్మోనియా
+    tg: аммиак
+    th: แอมโมเนีย
+    tl: amonya
+    tr: amonyak
+    uk: аміак
+    ur: ammonia
+    uz: ammiak
+    vi: amoniac
+    war: amonya
+    wuu: 氨
+    yi: אמאניאק
+    yo: ammonia
+    yue: 亞摩尼亞
+    zh: 氨
+    zh-cn: 氨
+    zh-hant: 氨
+    zh-tw: 氨
+    zu: umthundohwe
 ---
-
 # [[Ammonia]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ammonia,4087]] 

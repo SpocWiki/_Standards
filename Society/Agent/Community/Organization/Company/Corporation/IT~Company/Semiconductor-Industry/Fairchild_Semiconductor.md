@@ -1,9 +1,59 @@
 ---
 aliases:
-  - traitorous eight
-  - Fairchild_Semiconductor
-  - Fairchild Semiconductor
+- Fairchild Semiconductor
+- Fairchild_Semiconductor
+- traitorous eight
+- פיירצ'יילד סמיקונדקטור
+- فرچایلد سمیکانداکتر
+- فيرتشايلد لأشباه الموصلات
+- ஃபேர்ச்சைல்டு செமிகண்டக்டர்
+- フェアチャイルドセミコンダクター
+- 仙童半导体
+- 仙童半導體
+- 快捷半導體
+- 快捷半導體公司
+- 페어차일드 반도체
 has_id_wikidata: Q1096013
+dv_has_:
+  name_:
+    ar: فيرتشايلد لأشباه الموصلات
+    az: Fairchild Semiconductor
+    bg: Fairchild Semiconductor
+    ca: Fairchild Semiconductor
+    cs: Fairchild Semiconductor
+    de: Fairchild Semiconductor
+    en: Fairchild Semiconductor
+    es: Fairchild Semiconductor
+    fa: فرچایلد سمیکانداکتر
+    fi: Fairchild Semiconductor
+    fr: Fairchild Semiconductor
+    ga: Fairchild Semiconductor
+    gl: Fairchild Semiconductor
+    he: פיירצ'יילד סמיקונדקטור
+    hr: Fairchild Semiconductor
+    id: Fairchild Semiconductor
+    it: Fairchild Semiconductor
+    ja: フェアチャイルドセミコンダクター
+    ka: Fairchild Semiconductor
+    ko: 페어차일드 반도체
+    ms: Fairchild Semiconductor
+    nl: Fairchild Semiconductor
+    pl: Fairchild Semiconductor
+    pt: Fairchild Semiconductor
+    ru: Fairchild Semiconductor
+    sl: Fairchild Semiconductor
+    sv: Fairchild Semiconductor
+    ta: ஃபேர்ச்சைல்டு செமிகண்டக்டர்
+    tr: Fairchild Semiconductor
+    uk: Fairchild Semiconductor
+    vec: Fairchild Semiconductor
+    wuu: 仙童半导体
+    zh: 仙童半導體
+    zh-cn: 仙童半导体
+    zh-hans: 仙童半导体
+    zh-hant: 仙童半導體
+    zh-hk: 快捷半導體公司
+    zh-tw: 快捷半導體
 ---
 # [[Fairchild_Semiconductor]] 
 

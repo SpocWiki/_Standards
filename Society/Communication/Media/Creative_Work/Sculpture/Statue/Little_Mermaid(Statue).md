@@ -1,39 +1,88 @@
 ---
-has_time_started: 1913-01-01 
-location: [ 12.59926 , 55.69286 ] 
+has_time_started: 1913-01-01
+location: '[[_Standards/WikiData/WD~Langelinie,2983172]]'
 aliases:
-  - The_Little_Mermaid
-  - Den lille Havfrue
-  - Little_Mermaid(Statue)
-  - Little Mermaid(Statue)
+- A Pequena Sereia
+- A sereíña
+- An Gutiay nga Kataw
+- An Mhurúch Bheag
+- Ar vorganez vihan
+- Beeld van de Kleine Zeemeermin
+- Den lille Havfrue
+- Kip Male sirene u Kopenhagenu
+- Kiçik su pərisi (heykəl)
+- Kleine Meerjungfrau
+- Kleng Mierjoffer
+- Küçük Deniz Kızı
+- La marvirineto
+- La Petite Sirène
+- La Sireneta
+- La Sirenita de Copenhague
+- Little Mermaid(Statue)
+- Little_Mermaid(Statue)
+- Mala morska deklica
+- Mala sirena (statua)
+- Malá morská víla
+- Malá mořská víla
+- Mazā nāriņa
+- Mała Syrenka
+- Nàng tiên cá
+- Parve Sirena
+- Pieni merenneito
+- Putri Duyung (patung)
+- Sirenatxoa
+- Statua della Sirenetta
+- The Little Mermaid
+- The_Little_Mermaid
+- Uccâ meerânieidâš
+- Undinėlė
+- Väike merineitsi (skulptuur)
+- Η Μικρή Γοργόνα
+- Малката русалка (статуя)
+- Русалачка
+- Русалачка, статуя
+- Русалонька
+- Русалочка
+- Су кызы (сын)
+- Ջրահարսը
+- בת הים הקטנה
+- تمثال الحوريه الصغيره
+- تمثال حورية البحر الصغيرة
+- پری دریایی
+- குட்டிக் கடற்கன்னி
+- เงือกน้อย
+- 人魚姫の像
+- 美人魚像
+- 美人魚雕像
+- 美人鱼雕像
+- 작은 인어상
 has_id_wikidata: Q214619
 depicts:
-  - "[[_Standards/WikiData/WD~siren,150986]]"
-  - "[[_Standards/WikiData/WD~mermaid,182559]]"
-  - "[[_Standards/WikiData/WD~flipper,210882]]"
-  - "[[_Standards/WikiData/WD~sitting,1144593]]"
-  - "[[_Standards/WikiData/WD~Little_Mermaid,16606663]]"
-  - "[[_Standards/WikiData/WD~woman,467]]"
-  - "[[_Standards/WikiData/WD~female_breast,9103]]"
-  - "[[_Standards/WikiData/WD~nudity,10791]]"
-  - "[[_Standards/WikiData/WD~waist_length_hair,14130]]"
-  - "[[_Standards/WikiData/WD~navel,43801]]"
+- '[[_Standards/WikiData/WD~siren,150986]]'
+- '[[_Standards/WikiData/WD~mermaid,182559]]'
+- '[[_Standards/WikiData/WD~flipper,210882]]'
+- '[[_Standards/WikiData/WD~sitting,1144593]]'
+- '[[_Standards/WikiData/WD~Little_Mermaid,16606663]]'
+- '[[_Standards/WikiData/WD~woman,467]]'
+- '[[_Standards/WikiData/WD~female_breast,9103]]'
+- '[[_Standards/WikiData/WD~nudity,10791]]'
+- '[[_Standards/WikiData/WD~waist_length_hair,14130]]'
+- '[[_Standards/WikiData/WD~navel,43801]]'
 genre:
-  - "[[_Standards/WikiData/WD~statue,179700]]"
-  - "[[_Standards/WikiData/WD~public_art,557141]]"
-  - "[[_Standards/WikiData/WD~nude,40446]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Copenhagen_Municipality,504125]]"
-creator: "[[_Standards/WikiData/WD~Edvard_Eriksen,525819]]"
+- '[[_Standards/WikiData/WD~statue,179700]]'
+- '[[_Standards/WikiData/WD~public_art,557141]]'
+- '[[_Standards/WikiData/WD~nude,40446]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Copenhagen_Municipality,504125]]'
+creator: '[[_Standards/WikiData/WD~Edvard_Eriksen,525819]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~sculpture,860861]]"
-commissioned_by: "[[_Standards/WikiData/WD~Carl_Jacobsen,2567053]]"
-location: "[[_Standards/WikiData/WD~Langelinie,2983172]]"
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~sculpture,860861]]'
+commissioned_by: '[[_Standards/WikiData/WD~Carl_Jacobsen,2567053]]'
 coordinate_location: Point(12.59926 55.69286)
-based_on: "[[_Standards/WikiData/WD~la_Mermaid,11859]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country: "[[_Standards/WikiData/WD~Denmark,35]]"
-made_from_material: "[[_Standards/WikiData/WD~bronze,34095]]"
+based_on: '[[_Standards/WikiData/WD~la_Mermaid,11859]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country: '[[_Standards/WikiData/WD~Denmark,35]]'
+made_from_material: '[[_Standards/WikiData/WD~bronze,34095]]'
 height: 125
 mass: 175
 native_label: Den lille Havfrue
@@ -42,8 +91,70 @@ official_website: http://www.mermaidsculpture.dk
 Commons_category: Statue of the Little Mermaid (Copenhagen)
 inception: 1913-01-01T00:00:00Z
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Langelinie%2C%20Copenhagen%202018-03-03%20%2839604935190%29.jpg
+dv_has_:
+  name_:
+    ar: تمثال حورية البحر الصغيرة
+    arz: تمثال الحوريه الصغيره
+    az: Kiçik su pərisi (heykəl)
+    be: Русалачка, статуя
+    be-tarask: Русалачка
+    bg: Малката русалка (статуя)
+    br: Ar vorganez vihan
+    ca: La Sireneta
+    ceb: Kleine Meerjungfrau
+    cs: Malá mořská víla
+    da: Den lille Havfrue
+    de: Kleine Meerjungfrau
+    el: Η Μικρή Γοργόνα
+    en: The Little Mermaid
+    eo: La marvirineto
+    es: La Sirenita de Copenhague
+    et: Väike merineitsi (skulptuur)
+    eu: Sirenatxoa
+    fa: پری دریایی
+    fi: Pieni merenneito
+    fr: La Petite Sirène
+    ga: An Mhurúch Bheag
+    gl: A sereíña
+    he: בת הים הקטנה
+    hr: Kip Male sirene u Kopenhagenu
+    hy: Ջրահարսը
+    ia: Parve Sirena
+    id: Putri Duyung (patung)
+    it: Statua della Sirenetta
+    ja: 人魚姫の像
+    ko: 작은 인어상
+    lb: Kleng Mierjoffer
+    lt: Undinėlė
+    lv: Mazā nāriņa
+    nb: Den lille havfrue
+    nl: Beeld van de Kleine Zeemeermin
+    nn: Den lille havfrue
+    pl: Mała Syrenka
+    pt: A Pequena Sereia
+    ru: Русалочка
+    sk: Malá morská víla
+    sl: Mala morska deklica
+    smn: Uccâ meerânieidâš
+    sr: Mala sirena (statua)
+    sv: Den lille havfrue
+    ta: குட்டிக் கடற்கன்னி
+    th: เงือกน้อย
+    tr: Küçük Deniz Kızı
+    tt: Су кызы (сын)
+    uk: Русалонька
+    vi: Nàng tiên cá
+    war: An Gutiay nga Kataw
+    wuu: 美人鱼雕像
+    yue: 美人魚像
+    zh: 美人魚雕像
+    zh-cn: 美人鱼雕像
+    zh-hans: 美人鱼雕像
+    zh-hant: 美人魚雕像
+    zh-hk: 美人魚雕像
+    zh-sg: 美人鱼雕像
+    zh-tw: 美人魚雕像
 ---
-
 # [[Little_Mermaid(Statue)]] 
 
 #is_/same_as :: [[WD~The_Little_Mermaid,214619]]  

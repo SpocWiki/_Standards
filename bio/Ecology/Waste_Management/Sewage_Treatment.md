@@ -1,7 +1,137 @@
 ---
 aliases:
-has_id_wikidata: "221275"
+- Abwasserbehandlung
+- atık su arıtımı
+- avloppsvattenhantering
+- Biologik suzgich
+- Cire abubuwan gina jiki
+- cóireáil camrais
+- forĵetakvopurigado
+- Hondakin-uren arazketa
+- jätevedenkäsittely
+- Kleaolog
+- kloakkanlegg
+- Kläraalag
+- Matibabu ya maji taka
+- notekūdeņu attīrīšana
+- Nuotekų valymas
+- obdelava odplak
+- oczyszczanie ścieków komunalnych
+- pengolahan air limbah
+- Rapuroe
+- Rawatan kumbahan
+- Recircularea apei
+- Reoveepuhastus
+- rioolwaterzuivering
+- Serenera
+- sewage treatment
+- Sistemi za obradu otpadnih voda
+- Skólphreinsun
+- spildevandsrensning
+- szennyvíztisztítás
+- tractament d'aigües residuals
+- tratamento de águas residuais
+- Tratamiento de aguas residuales
+- trattamento delle acque reflue
+- trin carffosiaeth
+- xử lý nước thải
+- épuration des eaux
+- čištění odpadních vod
+- ачыстка сцёкавых вод
+- ачыстка сьцёкавых водаў
+- Обработка на отпадни води
+- очистка сточных вод
+- Очищення стічних вод
+- Пречистване на отпадни води
+- Системи за обраду отпадних вода
+- Ташландыҡ һыуҙы таҙартыу
+- Ыплас сууларды тазалоо
+- Қоқыстан тазарту
+- טיהור שפכים
+- تصفیه فاضلاب
+- معالجة الصرف الصحي
+- वाहितमल उपचार
+- পয়ঃশোধন
+- ગટરવ્યવસ્થા
+- கழிவுநீர்த் தரமேற்றல்
+- ජලය පවිත්ර කිරීම
+- ჩამდინარე წყლის გაწმენდა
+- 下水処理
+- 污水处理
+- 污水處理
+- 하폐수 처리
 has_id_wikidata: Q221275
+dv_has_:
+  name_:
+    ar: معالجة الصرف الصحي
+    ba: Ташландыҡ һыуҙы таҙартыу
+    bar: Kleaolog
+    be: ачыстка сцёкавых вод
+    be-tarask: ачыстка сьцёкавых водаў
+    bg: Пречистване на отпадни води
+    bn: পয়ঃশোধন
+    ca: tractament d'aigües residuals
+    cs: čištění odpadních vod
+    cy: trin carffosiaeth
+    da: spildevandsrensning
+    de: Abwasserbehandlung
+    en: sewage treatment
+    eo: forĵetakvopurigado
+    es: Tratamiento de aguas residuales
+    et: Reoveepuhastus
+    eu: Hondakin-uren arazketa
+    fa: تصفیه فاضلاب
+    fi: jätevedenkäsittely
+    fr: épuration des eaux
+    ga: cóireáil camrais
+    gsw: Kläraalag
+    gu: ગટરવ્યવસ્થા
+    ha: Cire abubuwan gina jiki
+    he: טיהור שפכים
+    hi: वाहितमल उपचार
+    hu: szennyvíztisztítás
+    id: pengolahan air limbah
+    is: Skólphreinsun
+    it: trattamento delle acque reflue
+    ja: 下水処理
+    ka: ჩამდინარე წყლის გაწმენდა
+    kk: Қоқыстан тазарту
+    ko: 하폐수 처리
+    ky: Ыплас сууларды тазалоо
+    lt: Nuotekų valymas
+    lv: notekūdeņu attīrīšana
+    mk: Обработка на отпадни води
+    ms: Rawatan kumbahan
+    my: Sewage Treatment
+    nb: kloakkanlegg
+    nl: rioolwaterzuivering
+    pl: oczyszczanie ścieków komunalnych
+    pt: tratamento de águas residuais
+    rm: Serenera
+    ro: Recircularea apei
+    ru: очистка сточных вод
+    sh: Sistemi za obradu otpadnih voda
+    si: ජලය පවිත්ර කිරීම
+    sl: obdelava odplak
+    sr: Системи за обраду отпадних вода
+    sr-ec: Системи за обраду отпадних вода
+    sr-el: Sistemi za obradu otpadnih voda
+    sv: avloppsvattenhantering
+    sw: Matibabu ya maji taka
+    ta: கழிவுநீர்த் தரமேற்றல்
+    tr: atık su arıtımı
+    uk: Очищення стічних вод
+    uz: Biologik suzgich
+    vi: xử lý nước thải
+    wa: Rapuroe
+    yue: 污水處理
+    zh: 污水處理
+    zh-cn: 污水处理
+    zh-hans: 污水处理
+    zh-hant: 污水處理
+    zh-hk: 污水處理
+    zh-sg: 污水处理
+    zh-tw: 污水處理
 ---
 # [[Sewage_Treatment]] 
 

@@ -1,8 +1,74 @@
 ---
 aliases:
-  - Sigmodon
+- Baumwollratten
+- Bawełniak
+- Bomullsrotter
+- Bomullsråttor
+- Katoenratten
+- Medvilniniai žiurkėnai
+- Ndikʼątah łéʼétsoh
+- Sigmodon
+- Sigmodontini
+- slakevoleem ke Sigmodon oxi
+- Памукови плъхове
+- Хлопковые хомяки
+- جرذ القطن
+- موش پنبه
+- 棉鼠属
+- 棉鼠屬
+- 목화쥐속
 title: Sigmodon
 has_id_wikidata: Q609460
+dv_has_:
+  name_:
+    an: Sigmodon
+    ar: جرذ القطن
+    arz: جرذ القطن
+    ast: Sigmodon
+    avk: slakevoleem ke Sigmodon oxi
+    bg: Памукови плъхове
+    ca: Sigmodon
+    ceb: Sigmodon
+    cs: Sigmodon
+    de: Baumwollratten
+    en: Sigmodon
+    eo: Sigmodon
+    es: Sigmodontini
+    eu: Sigmodon
+    ext: Sigmodon
+    fa: موش پنبه
+    fi: Sigmodon
+    fr: Sigmodon
+    ga: Sigmodon
+    gl: Sigmodon
+    hu: Sigmodon
+    ia: Sigmodon
+    ie: Sigmodon
+    io: Sigmodon
+    it: Sigmodon
+    ko: 목화쥐속
+    la: Sigmodon
+    lt: Medvilniniai žiurkėnai
+    mul: Sigmodon
+    nb: Bomullsrotter
+    nl: Katoenratten
+    nv: Ndikʼątah łéʼétsoh
+    oc: Sigmodon
+    pl: Bawełniak
+    pt: Sigmodon
+    pt-br: Sigmodon
+    ro: Sigmodon
+    ru: Хлопковые хомяки
+    sq: Sigmodon
+    sv: Bomullsråttor
+    tr: Sigmodon
+    uk: Sigmodon
+    vi: Sigmodon
+    vo: Sigmodon
+    war: Sigmodon
+    zh: 棉鼠属
+    zh-cn: 棉鼠属
+    zh-tw: 棉鼠屬
 ---
 # [[Sigmodon]]
 

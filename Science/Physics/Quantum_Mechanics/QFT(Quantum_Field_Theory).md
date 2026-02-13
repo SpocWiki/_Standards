@@ -1,43 +1,184 @@
 ---
 aliases:
+- eremu-teoria kuantiko
+- kuantum alan teorisi
+- kvantefeltteori
+- kvantfältteori
+- kvantinė lauko teorija
+- kvantna teorija polja
+- kvantová teorie pole
+- kvantová teória poľa
+- kvanttikenttäteoria
+- kvantuma kampa teorio
+- kvantumtérelmélet
+- kvantväljateooria
+- kwantowa teoria pola
+- kwantumveldentheorie
+- lý thuyết trường lượng tử
+- maydon kvant nazariyasi
+- Quantefeldtheorie
+- Quantenfeldtheorie
+- quantum field theory
+- réimsetheoiric chandamach
+- teori medan kuantum
+- teoria cuantică a câmpurilor
+- teoria quantica dei camps
+- teoria quantistica dei campi
+- teoria quàntica de camps
+- teoria quântica de campo
+- teoria quântica de campos
+- teoriyang quantum field
+- teoría cuántica de campos
+- theoria camporum quanticorum
+- théorie quantique des champs
+- κβαντική θεωρία πεδίου
+- квант кыры теориясе
+- квантавая тэорыя поля
+- квантна теорија за полето
+- квантна теорија поља
+- квантова теорія поля
+- квантова теория на полето
+- квантовая теория поля
+- кванттык теория
+- кванттық өріс теориясы
+- ҡырҙың квант теорияһы
+- Դաշտի քվանտային տեսություն
+- תורת השדות הקוונטית
+- تیۆریی بواری کوانتۆمی
+- د کوانټومي ساحې نظریه
+- نظرية الحقل الكمومي
+- نظریه میدانهای کوانتومی
+- کوانتوم تئوریسی
+- کوانٹم فیلڈ تھیوری
+- प्रमात्रा क्षेत्र सिद्धान्त
+- কোয়ান্টাম ক্ষেত্র তত্ত্ব
+- ਕੁਆਂਟਮ ਫੀਲਡ ਥਿਊਰੀ
+- குவாண்டம் புலக்கோட்பாடு
+- ทฤษฎีสนามควอนตัม
+- კვანტური ველის თეორია
+- 場の量子論
+- 量子场论
+- 量子場論
+- 량자마당론
+- 양자장론
 has_id_wikidata: Q54505
-part_of: "[[_Standards/WikiData/WD~quantum_physics,1144457]]"
-subclass_of: "[[_Standards/WikiData/WD~field_theory,1262328]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
+part_of: '[[_Standards/WikiData/WD~quantum_physics,1144457]]'
+subclass_of: '[[_Standards/WikiData/WD~field_theory,1262328]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Quantum_field_theory,12346573]]"
-  - "[[_Standards/WikiData/WD~Template_Quantum_field_theories,14398625]]"
+- '[[_Standards/WikiData/WD~Template_Quantum_field_theory,12346573]]'
+- '[[_Standards/WikiData/WD~Template_Quantum_field_theories,14398625]]'
 Library_of_Congress_Classification: QC174.45-QC174.52
-Basisklassifikation: "33.24"
+Basisklassifikation: 33.24
 short_name:
-  - TQC
-  - TQC
-  - KVT
-  - TCC
-  - KAT
-  - QFT
-  - QFT
-  - КТП
-  - КТП
-  - TCC
-  - КТП
-Dewey_Decimal_Classification: "530.143"
+- TQC
+- TQC
+- KVT
+- TCC
+- KAT
+- QFT
+- QFT
+- КТП
+- КТП
+- TCC
+- КТП
+Dewey_Decimal_Classification: 530.143
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Fadin%20Lecturing%20QED%20in%20BINP%201%20June%202014.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/4-lepton%20Higgs%20decay.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Schwinger%20pair%20production.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Fadin%20Lecturing%20QED%20in%20BINP%201%20June%202014.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/4-lepton%20Higgs%20decay.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Schwinger%20pair%20production.svg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Classical-quantum.svg
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/quantum-field-theory
-  - https://math.stackexchange.com/tags/quantum-field-theory
-  - https://mathoverflow.net/tags/quantum-field-theory
-  - https://physics.stackexchange.com/tags/quantum-field-theory
+- https://astronomy.stackexchange.com/tags/quantum-field-theory
+- https://math.stackexchange.com/tags/quantum-field-theory
+- https://mathoverflow.net/tags/quantum-field-theory
+- https://physics.stackexchange.com/tags/quantum-field-theory
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "QuantumFieldTheory"]
 Commons_category: Quantum field theory
 PhilPapers_topic: quantum-field-theory
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AE%20%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%20%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC.wav
+dv_has_:
+  name_:
+    ar: نظرية الحقل الكمومي
+    ast: teoría cuántica de campos
+    azb: کوانتوم تئوریسی
+    ba: ҡырҙың квант теорияһы
+    be: квантавая тэорыя поля
+    be-tarask: квантавая тэорыя поля
+    bg: квантова теория на полето
+    bn: কোয়ান্টাম ক্ষেত্র তত্ত্ব
+    bs: kvantna teorija polja
+    ca: teoria quàntica de camps
+    ckb: تیۆریی بواری کوانتۆمی
+    cs: kvantová teorie pole
+    da: kvantefeltteori
+    de: Quantenfeldtheorie
+    de-at: Quantenfeldtheorie
+    de-ch: Quantenfeldtheorie
+    el: κβαντική θεωρία πεδίου
+    en: quantum field theory
+    en-ca: quantum field theory
+    en-gb: quantum field theory
+    eo: kvantuma kampa teorio
+    es: teoría cuántica de campos
+    et: kvantväljateooria
+    eu: eremu-teoria kuantiko
+    fa: نظریه میدانهای کوانتومی
+    fi: kvanttikenttäteoria
+    fr: théorie quantique des champs
+    ga: réimsetheoiric chandamach
+    gl: teoría cuántica de campos
+    gsw: Quantenfeldtheorie
+    he: תורת השדות הקוונטית
+    hi: प्रमात्रा क्षेत्र सिद्धान्त
+    hr: kvantna teorija polja
+    hu: kvantumtérelmélet
+    hy: Դաշտի քվանտային տեսություն
+    id: teori medan kuantum
+    it: teoria quantistica dei campi
+    ja: 場の量子論
+    ka: კვანტური ველის თეორია
+    kk: кванттық өріс теориясы
+    ko: 양자장론
+    ko-kp: 량자마당론
+    ky: кванттык теория
+    la: theoria camporum quanticorum
+    lb: Quantefeldtheorie
+    lt: kvantinė lauko teorija
+    mk: квантна теорија за полето
+    ms: teori medan kuantum
+    nb: kvantefeltteori
+    nl: kwantumveldentheorie
+    nn: kvantefeltteori
+    oc: teoria quantica dei camps
+    pa: ਕੁਆਂਟਮ ਫੀਲਡ ਥਿਊਰੀ
+    pl: kwantowa teoria pola
+    pnb: کوانٹم فیلڈ تھیوری
+    ps: د کوانټومي ساحې نظریه
+    pt: teoria quântica de campo
+    pt-br: teoria quântica de campos
+    ro: teoria cuantică a câmpurilor
+    ru: квантовая теория поля
+    sco: quantum field theory
+    sh: kvantna teorija polja
+    sk: kvantová teória poľa
+    sl: kvantna teorija polja
+    sr: квантна теорија поља
+    sv: kvantfältteori
+    ta: குவாண்டம் புலக்கோட்பாடு
+    th: ทฤษฎีสนามควอนตัม
+    tl: teoriyang quantum field
+    tr: kuantum alan teorisi
+    tt: квант кыры теориясе
+    uk: квантова теорія поля
+    uz: maydon kvant nazariyasi
+    vi: lý thuyết trường lượng tử
+    wuu: 量子场论
+    yue: 量子場論
+    zh: 量子场论
+    zh-hans: 量子场论
+    zh-hant: 量子場論
 ---
-
 # [[QFT(Quantum_Field_Theory)]] 
 
 #is_/same_as :: [[WD~Quantum_field_theory,54505]] 

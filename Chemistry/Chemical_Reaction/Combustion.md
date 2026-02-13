@@ -1,31 +1,112 @@
 ---
 aliases:
-  - Verbrennung
-  - Combustion
+- boaldin
+- brulo
+- bruni
+- cháy
+- Combustable
+- combustie
+- Combustion
+- combustione
+- combustió
+- combustión
+- combustão
+- conbustion
+- Coraf
+- cummustioni
+- degimo reakcija
+- degšana
+- djegia
+- dó
+- errekuntza
+- forbrenning
+- forbrænding
+- förbränning
+- gorenje
+- horenie
+- hoření
+- hylosgiad
+- jiân-sio
+- kombusto
+- pagdiringas
+- paglarab
+- palaminen
+- pcyana puniq
+- pembakaran
+- Penambusan (kimia)
+- põlemine
+- rawray
+- reyaksyon konbistyon
+- sagorevanje
+- sagorijevanje
+- sawara
+- spalanie
+- timeṛɣiwt
+- ukushisa
+- verbranding
+- verbrenning
+- Verbrennung
+- yanma
+- yanma reaksiyonları
+- çунни
+- égés
+- ìgbaná
+- καύση
+- гарэнне
+- гарэньне
+- горіння
+- горене
+- горение
+- дагар (физика-химе процесс)
+- жану
+- күйүү
+- сагоревање
+- согорување
+- умайыы
+- яну
+- ӝуан
+- այրում
+- בעירה
+- פארברענונג
+- احتراق
+- سووتان
+- ज्वलति
+- दहन
+- দহন
+- ਦਹਿਨ
+- દહન
+- தகனம்
+- ದಹಿಸುವಿಕೆ/ಉಷ್ಣ ವಿಕಸನ
+- การเผาไหม้
+- აალება
+- 燃烧
+- 燃焼
+- 燃燒
+- 연소
 has_id_wikidata: Q133235
 subclass_of:
-  - "[[_Standards/WikiData/WD~redox,82682]]"
-  - "[[_Standards/WikiData/WD~exothermic_reaction,205949]]"
+- '[[_Standards/WikiData/WD~redox,82682]]'
+- '[[_Standards/WikiData/WD~exothermic_reaction,205949]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~smoke,130768]]"
-  - "[[_Standards/WikiData/WD~fire,3196]]"
+- '[[_Standards/WikiData/WD~smoke,130768]]'
+- '[[_Standards/WikiData/WD~fire,3196]]'
 uses:
-  - "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
-  - "[[_Standards/WikiData/WD~fuel,42501]]"
-facet_of: "[[_Standards/WikiData/WD~thermal_energy,209233]]"
+- '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
+- '[[_Standards/WikiData/WD~fuel,42501]]'
+facet_of: '[[_Standards/WikiData/WD~thermal_energy,209233]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~burning,12888145]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~ignition,123160824]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~burning,12888145]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~ignition,123160824]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fire%2C%20Fireplace%2C%20Rostov-on-Don%2C%20Russia.jpg
 OmegaWiki_Defined_Meaning: 671684
 Iconclass_notation:
-  - 22000000000000
-  - 41B12
+- 22000000000000
+- 41B12
 video: http://commons.wikimedia.org/wiki/Special:FilePath/ErstickteKerze.ogv
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru%20%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%28intro%29.ogg
 exact_match: https://valpal.info/parameters/burn
@@ -33,25 +114,133 @@ P8189: 987007543260705200
 Commons_category: Combustion
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]"
-    - "[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]"
-    - "[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]"
-    - "[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]"
-    - "[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]"
-    - "[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]"
+  - '[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]'
+  - '[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]'
+  - '[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]'
+  - '[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]'
+  - '[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]'
+  - '[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]"
-  - "[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]"
-  - "[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]"
-  - "[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]"
-  - "[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]"
-  - "[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]"
+- '[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]'
+- '[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]'
+- '[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]'
+- '[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]'
+- '[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]'
+- '[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]'
+- '[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]'
+- '[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]'
+dv_has_:
+  name_:
+    af: verbranding
+    ami: Coraf
+    ar: احتراق
+    ast: combustión
+    az: yanma
+    be: гарэнне
+    be-tarask: гарэньне
+    bew: Penambusan (kimia)
+    bg: горене
+    bn: দহন
+    bs: sagorijevanje
+    ca: combustió
+    ckb: سووتان
+    cs: hoření
+    cv: çунни
+    cy: hylosgiad
+    da: forbrænding
+    de: Verbrennung
+    el: καύση
+    en: combustion
+    eo: brulo
+    es: combustión
+    et: põlemine
+    eu: errekuntza
+    fa: احتراق
+    fi: palaminen
+    fr: combustion
+    frc: combustion
+    ga: dó
+    gl: combustión
+    gu: દહન
+    he: בעירה
+    hi: दहन
+    hr: gorenje
+    ht: reyaksyon konbistyon
+    hu: égés
+    hy: այրում
+    id: pembakaran
+    inh: дагар (физика-химе процесс)
+    io: kombusto
+    is: bruni
+    it: combustione
+    ja: 燃焼
+    ka: აალება
+    kab: timeṛɣiwt
+    kk: жану
+    kn: ದಹಿಸುವಿಕೆ/ಉಷ್ಣ ವಿಕಸನ
+    ko: 연소
+    ky: күйүү
+    lfn: Combustable
+    li: verbrenning
+    lt: degimo reakcija
+    lv: degšana
+    lzh: 燃燒
+    mk: согорување
+    ms: pembakaran
+    nan: jiân-sio
+    nb: forbrenning
+    new: ज्वलति
+    nl: verbranding
+    nn: forbrenning
+    oc: combustion
+    pa: ਦਹਿਨ
+    pl: spalanie
+    ps: احتراق
+    pt: combustão
+    qu: rawray
+    ro: combustie
+    ru: горение
+    sah: умайыы
+    scn: cummustioni
+    sco: combustion
+    se: boaldin
+    sh: sagorijevanje
+    sk: horenie
+    sl: gorenje
+    sq: djegia
+    sr: сагоревање
+    sr-ec: сагоревање
+    sr-el: sagorevanje
+    sv: förbränning
+    ta: தகனம்
+    tay: pcyana puniq
+    th: การเผาไหม้
+    tl: pagdiringas
+    tr: yanma reaksiyonları
+    tt: яну
+    tt-cyrl: яну
+    udm: ӝуан
+    uk: горіння
+    ur: احتراق
+    vec: conbustion
+    vi: cháy
+    war: paglarab
+    wo: sawara
+    wuu: 燃烧
+    yi: פארברענונג
+    yo: ìgbaná
+    yue: 燃燒
+    zh: 燃烧
+    zh-cn: 燃烧
+    zh-hans: 燃烧
+    zh-hant: 燃燒
+    zh-hk: 燃燒
+    zh-sg: 燃烧
+    zh-tw: 燃燒
+    zu: ukushisa
 ---
-
 # [[Combustion]] 🔥 
 
 #is_/same_as :: [[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]] 

@@ -1,67 +1,282 @@
 ---
 aliases:
+- dioplomat
+- dipan
+- diploamagh
+- diplomaat
+- diplomaatti
+- diplomacisto
+- diplomat
+- diplomata
+- diplomatas
+- diplomate
+- diplomatico
+- diplomatiko
+- diplomatiku
+- diplomato
+- diplomatt
+- diplomazialari
+- diplomuattu
+- diplomydd
+- diplomàtego
+- diplomàtic
+- diplomàtico
+- diplomáhtta
+- diplomático
+- diplomáticu
+- diplomāts
+- dyplomata
+- dîplomat
+- Dïplomat
+- hetã rérare omba'apóva
+- legatus
+- lyskannas
+- Mai wanzar da zaman lafiya
+- Mwanadiplomasia
+- nhà ngoại giao
+- sendifólk
+- taidhleoir
+- διπλωμάτης
+- дипломаат
+- дипломат
+- дипломата
+- дипломатсь
+- диплумот
+- дыпламат
+- дыплямат
+- դիվանագետ
+- դիւանագէտ
+- דיפלאמאט
+- דיפלומט
+- دبلوماسي
+- دىيپلومات
+- ديپلوماسي
+- ديڤلومت
+- دیپلمات
+- دیپلومات
+- دیپلۆمات
+- سفارت کار
+- سفير
+- سَفارت کار
+- ډیپلوماټ
+- ߕߍߓߊ߯ߦߟߊ
+- कुटनीतिज्ञ
+- राजदूत
+- राजनियक दूत
+- কূটনীতিবিদ
+- ਡਿਪਲੋਮੈਟ
+- રાજદૂત
+- பண்ணுறவாண்மை
+- దౌత్యవేత్త
+- เจ้าหน้าที่การทูต
+- သံတမန်
+- დიპლომატი
+- 使節
+- 外交官
+- 외교관
 has_id_wikidata: Q193391
 subclass_of:
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~official,599151]]"
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~official,599151]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~corporate_title,11488158]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
+- '[[_Standards/WikiData/WD~corporate_title,11488158]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59576047,59576047]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~diplomacy,1889]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576047,59576047]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~diplomacy,1889]]'
 IMDb_keyword: diplomat
-OmegaWiki_Defined_Meaning: "440185"
+OmegaWiki_Defined_Meaning: 440185
 male_form_of_label:
-  - diplomat
-  - diplomático
-  - diplomatico
-  - diplomate
-  - 外交官
-  - Diplomat
-  - dyplomata
-  - diplomata
-  - diplomático
-  - ديپلوماسي
-  - diplomacistulo
-  - Diplomat
-  - diplomatas
-  - hidipan
+- diplomat
+- diplomático
+- diplomatico
+- diplomate
+- 外交官
+- Diplomat
+- dyplomata
+- diplomata
+- diplomático
+- ديپلوماسي
+- diplomacistulo
+- Diplomat
+- diplomatas
+- hidipan
 female_form_of_label:
-  - diplomat
-  - diplomática
-  - diplomatica
-  - diplomate
-  - 外交官
-  - דיפלומטית
-  - Diplomatin
-  - دبلوماسية
-  - diplomata
-  - diplomatka
-  - diplomática
-  - дыпляматка
-  - diplomàtica
-  - diplomatino
-  - diplomática
-  - diplomacistino
-  - Diplomatin
-  - diplomatė
-  - diplomāte
-  - diplomate
-  - diplomatka
-  - diplomatka
-  - jidipan
-  - ديپلوماسية
+- diplomat
+- diplomática
+- diplomatica
+- diplomate
+- 外交官
+- דיפלומטית
+- Diplomatin
+- دبلوماسية
+- diplomata
+- diplomatka
+- diplomática
+- дыпляматка
+- diplomàtica
+- diplomatino
+- diplomática
+- diplomacistino
+- Diplomatin
+- diplomatė
+- diplomāte
+- diplomate
+- diplomatka
+- diplomatka
+- jidipan
+- ديپلوماسية
 Iconclass_notation: 44B4
-U_S_National_Archives_Identifier: "10638616"
+U_S_National_Archives_Identifier: 10638616
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Viena%20kongres%201814.jpg
 Provenio_UUID: 2613fecd-5ba6-4d7e-a749-5cb7e145648c
-Dewey_Decimal_Classification: "327.2092"
+Dewey_Decimal_Classification: 327.2092
 Commons_category: Diplomats
+dv_has_:
+  name_:
+    af: diplomaat
+    an: diplomatico
+    ar: دبلوماسي
+    ary: ديپلوماسي
+    ast: diplomáticu
+    az: diplomat
+    azb: دیپلومات
+    ba: дипломат
+    be: дыпламат
+    be-tarask: дыплямат
+    bg: дипломат
+    bn: কূটনীতিবিদ
+    br: diplomat
+    bs: diplomat
+    ca: diplomàtic
+    ckb: دیپلۆمات
+    crh: diplomat
+    crh-latn: diplomat
+    cs: diplomat
+    cy: diplomydd
+    da: diplomat
+    de: Diplomat
+    de-ch: Diplomat
+    el: διπλωμάτης
+    en: diplomat
+    eo: diplomato
+    es: diplomático
+    et: diplomaat
+    eu: diplomazialari
+    fa: دیپلمات
+    fi: diplomaatti
+    fo: sendifólk
+    fr: diplomate
+    ga: taidhleoir
+    gd: dioplomat
+    gl: diplomático
+    gn: hetã rérare omba'apóva
+    gsw: Diplomato
+    gu: રાજદૂત
+    gv: diploamagh
+    ha: Mai wanzar da zaman lafiya
+    he: דיפלומט
+    hi: राजनियक दूत
+    hr: diplomat
+    hu: diplomata
+    hy: դիվանագետ
+    hyw: դիւանագէտ
+    ia: diplomate
+    id: diplomat
+    ilo: diplomatiko
+    io: diplomacisto
+    it: diplomatico
+    ja: 外交官
+    ka: დიპლომატი
+    kaa: diplomat
+    kk: дипломат
+    kk-arab: دىيپلومات
+    kk-cn: دىيپلومات
+    kk-cyrl: Дипломат
+    kk-kz: Дипломат
+    kk-latn: Dïplomat
+    kk-tr: Dïplomat
+    ko: 외교관
+    ks: سَفارت کار
+    ku: dîplomat
+    ku-latn: dîplomat
+    kw: lyskannas
+    ky: Дипломат
+    la: legatus
+    lb: Diplomat
+    lfn: diplomata
+    lij: diplomàtico
+    lt: diplomatas
+    lv: diplomāts
+    lzh: 使節
+    mai: कुटनीतिज्ञ
+    mdf: дипломатсь
+    mhr: дипломат
+    mk: дипломат
+    mn: Дипломат
+    mr: राजदूत
+    ms: diplomat
+    ms-arab: ديڤلومت
+    mt: diplomatiku
+    my: သံတမန်
+    nb: diplomat
+    nds: Diplomat
+    nl: diplomaat
+    nn: diplomat
+    nqo: ߕߍߓߊ߯ߦߟߊ
+    oc: diplomat
+    olo: diplomuattu
+    os: дипломат
+    pa: ਡਿਪਲੋਮੈਟ
+    pl: dyplomata
+    ps: ډیپلوماټ
+    pt: diplomata
+    pt-br: diplomata
+    ro: diplomat
+    ru: дипломат
+    rue: дипломат
+    sah: дипломаат
+    sd: سفير
+    se: diplomáhtta
+    sh: diplomat
+    sk: diplomat
+    sl: diplomat
+    smn: diplomaat
+    sms: diplomatt
+    sq: diplomat
+    sr: дипломата
+    sr-ec: дипломата
+    sr-el: diplomata
+    sv: diplomat
+    sw: Mwanadiplomasia
+    ta: பண்ணுறவாண்மை
+    te: దౌత్యవేత్త
+    tg: диплумот
+    th: เจ้าหน้าที่การทูต
+    tl: diplomata
+    tr: diplomat
+    tt: дипломат
+    uk: дипломат
+    ur: سفارت کار
+    uz: diplomat
+    vec: diplomàtego
+    vi: nhà ngoại giao
+    vo: dipan
+    wuu: 外交官
+    yi: דיפלאמאט
+    yue: 外交官
+    zh: 外交官
+    zh-cn: 外交官
+    zh-hans: 外交官
+    zh-hant: 外交官
+    zh-hk: 外交官
+    zh-mo: 外交官
+    zh-my: 外交官
+    zh-sg: 外交官
+    zh-tw: 外交官
 ---
-
 # [[Diplomat]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~diplomat,193391]] 

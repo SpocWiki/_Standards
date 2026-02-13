@@ -1,8 +1,88 @@
 ---
 has_id_wikidata: Q745416
+dv_has_:
+  name_:
+    ar: معادلة كلاوزيوس-كلابيرون
+    be: Ураўненне Клапейрона—Клаўзіуса
+    bn: ক্লাউজিউস-ক্লাপেরোঁ সমীকরণ
+    ca: Equació de Clausius-Clapeyron
+    cs: Clausiova-Clapeyronova rovnice
+    de: Clausius-Clapeyron-Gleichung
+    en: Clausius–Clapeyron relation
+    eo: Ekvacio de Clausius-Clapeyron
+    es: Relación de Clausius-Clapeyron
+    et: Clapeyroni-Clausiuse võrrand
+    fa: معادله کلازیوس-کلاپیرون
+    fi: Clausiuksen–Clapeyronin yhtälö
+    fr: formule de Clausius-Clapeyron
+    he: משוואת קלאוזיוס-קלפרון
+    hu: Clausius–Clapeyron-egyenlet
+    hy: Կլապեյրոն-Կլաուզիուսի հավասարում
+    it: equazione di Clapeyron
+    ja: クラウジウス-クラペイロンの式
+    kk: Клапейрон - Клаузиус теңдеуі
+    kk-arab: كلاپەيرون - كلاۋزىيۋس تەڭدەۋى
+    kk-cyrl: Клапейрон - Клаузиус теңдеуі
+    kk-latn: Klapeýron - Klawzïws teñdewi
+    ko: 클라우지우스-클라페이롱 방정식
+    ky: Клапейрон—Клаузиус теңдемеси
+    nb: Clausius-Clapeyron-ligningen
+    nl: clausius-clapeyronvergelijking
+    oc: Emile Clapeyron
+    pl: równanie Clausiusa-Clapeyrona
+    ro: relația Clausius–Clapeyron
+    ru: Уравнение Клапейрона — Клаузиуса
+    sl: Clausius-Clapeyronova enačba
+    sr: Клаузијус-Клаперон однос
+    sv: Clausius–Clapeyron-ekvationen
+    ta: கிளாசியசு-கிளாப்பிரான் சமன்பாடு
+    uk: Співвідношення Клаузіуса — Клапейрона
+    uz: Klapeyron-klauzius tenglamasi
+    vi: Phương trình Clausius-Clapeyron
+    zh: 克劳修斯－克拉佩龙方程
+    zh-hans: 克劳修斯－克拉佩龙方程
+    zh-hant: 克勞修斯－克拉佩龍方程
+    zh-hk: 克勞修斯－克拉佩龍方程
+aliases:
+- Clapeyroni-Clausiuse võrrand
+- Clausiova-Clapeyronova rovnice
+- Clausiuksen–Clapeyronin yhtälö
+- Clausius-Clapeyron-Gleichung
+- Clausius-Clapeyron-ligningen
+- Clausius-Clapeyronova enačba
+- clausius-clapeyronvergelijking
+- Clausius–Clapeyron relation
+- Clausius–Clapeyron-egyenlet
+- Clausius–Clapeyron-ekvationen
+- Ekvacio de Clausius-Clapeyron
+- Emile Clapeyron
+- Equació de Clausius-Clapeyron
+- equazione di Clapeyron
+- formule de Clausius-Clapeyron
+- Klapeyron-klauzius tenglamasi
+- Klapeýron - Klawzïws teñdewi
+- Phương trình Clausius-Clapeyron
+- Relación de Clausius-Clapeyron
+- relația Clausius–Clapeyron
+- równanie Clausiusa-Clapeyrona
+- Клапейрон - Клаузиус теңдеуі
+- Клапейрон—Клаузиус теңдемеси
+- Клаузијус-Клаперон однос
+- Співвідношення Клаузіуса — Клапейрона
+- Ураўненне Клапейрона—Клаўзіуса
+- Уравнение Клапейрона — Клаузиуса
+- Կլապեյրոն-Կլաուզիուսի հավասարում
+- משוואת קלאוזיוס-קלפרון
+- كلاپەيرون - كلاۋزىيۋس تەڭدەۋى
+- معادلة كلاوزيوس-كلابيرون
+- معادله کلازیوس-کلاپیرون
+- ক্লাউজিউস-ক্লাপেরোঁ সমীকরণ
+- கிளாசியசு-கிளாப்பிரான் சமன்பாடு
+- クラウジウス-クラペイロンの式
+- 克劳修斯－克拉佩龙方程
+- 克勞修斯－克拉佩龍方程
+- 클라우지우스-클라페이롱 방정식
 ---
-
-
 # [[Clausius-Clapeyron_Equation]] 
 
 #has_/formula_ :: ln⁡(P2/P1) = −ΔHvap/R(1/T2−1/T1)

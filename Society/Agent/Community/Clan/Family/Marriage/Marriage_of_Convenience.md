@@ -1,9 +1,41 @@
 ---
 aliases:
-  - Vernunftehe
-  - marriage of convenience
-  - Marriage_of_Convenience
-  - Marriage of Convenience
+- Brak iz koristi
+- Brak iz pogodnosti
+- casamento por conveniência
+- Fornuftsekteskap
+- geedzeco pro konveno
+- gemakshuwelijk
+- Hagkvæmnishjónaband
+- järkiavioliitto
+- Komenentziazko ezkontza
+- konvenansäktenskap
+- Konvenienzehe
+- Kết hôn giả
+- mantık evliliği
+- manželství z rozumu
+- mariage de raison
+- marriage of convenience
+- Marriage_of_Convenience
+- matrimoni de conveniència
+- matrimonio de conveniencia
+- Vernunftehe
+- zakonska zveza iz koristoljubja
+- érdekházasság
+- Γάμος συμφέροντος
+- брак по расчёту
+- Иҫәп-хисап буйынса никах
+- фіктыўны шлюб
+- шлюб за розрахунком
+- Կեղծ ամուսնություն
+- נישואי נוחות
+- ازدواج سیاسی
+- زواج صوري
+- سہولت کی شادی
+- 政治婚姻
+- 政略結婚
+- 权宜婚姻
+- 정략 결혼
 has_id_wikidata: Q279394
 opposite_of: '[[_Standards/WikiData/WD~love_marriage,1468362]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_marriage,7860953]]'
@@ -12,8 +44,45 @@ described_by_source: '[[_Standards/WikiData/WD~Konvenienzheirat,97503490]]'
 subclass_of: '[[_Standards/WikiData/WD~marriage,8445]]'
 Commons_category: Marriage of convenience
 IMDb_keyword: marriage-of-convenience
+dv_has_:
+  name_:
+    ar: زواج صوري
+    ba: Иҫәп-хисап буйынса никах
+    be-tarask: фіктыўны шлюб
+    ca: matrimoni de conveniència
+    cs: manželství z rozumu
+    de: Konvenienzehe
+    el: Γάμος συμφέροντος
+    en: marriage of convenience
+    eo: geedzeco pro konveno
+    es: matrimonio de conveniencia
+    eu: Komenentziazko ezkontza
+    fa: ازدواج سیاسی
+    fi: järkiavioliitto
+    fr: mariage de raison
+    he: נישואי נוחות
+    hr: Brak iz koristi
+    hu: érdekházasság
+    hy: Կեղծ ամուսնություն
+    is: Hagkvæmnishjónaband
+    ja: 政略結婚
+    ko: 정략 결혼
+    nl: gemakshuwelijk
+    nn: Fornuftsekteskap
+    pt: casamento por conveniência
+    ru: брак по расчёту
+    sl: zakonska zveza iz koristoljubja
+    sr: Brak iz pogodnosti
+    sv: konvenansäktenskap
+    tr: mantık evliliği
+    uk: шлюб за розрахунком
+    ur: سہولت کی شادی
+    vi: Kết hôn giả
+    yue: 政治婚姻
+    zh: 权宜婚姻
+    zh-hant: 政治婚姻
+    zh-tw: 政治婚姻
 ---
-
 # [[Marriage_of_Convenience]] 
 
 #is_/same_as :: [[WD~Marriage_of_convenience,279394]] 

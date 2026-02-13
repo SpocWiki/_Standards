@@ -1,19 +1,141 @@
 ---
 aliases:
+- Chủ nghĩa Darwin xã hội
+- Darvinizmi Social
+- darwinism social
+- darwinisme social
+- Darwinisme sosial
+- darwinismo social
+- darwinismo sociale
+- darwinizm społeczny
+- družbeni darvinizem
+- Gizarte-darwinismo
+- Ijtimoiy darvinizm
+- sociaal darwinisme
+- social Darwinism
+- socialdarvinismo
+- socialdarwinism
+- Socialdarwinisme
+- socialinis darvinizmas
+- Socijaldarvinizam
+- Socijalni darvinizam
+- Sociálny darvinizmus
+- Sociální darwinismus
+- Sociāldarvinisms
+- sosiaaldarwinism
+- sosiaaldarwinismm
+- sosiaalidarvinismi
+- Sosial darvinizm
+- sosialdarwinisme
+- sosiáladarwinisma
+- sosiáldarwinissma
+- Sosyal Darwinizm
+- sotsiaaldarvinism
+- Sozialdarwinismus
+- Szociáldarwinizmus
+- Κοινωνικός Δαρβινισμός
+- сацыял-дарвінізм
+- соціальний дарвінізм
+- Социјалдарвинизам
+- Социал-Дарвинизм
+- Социален дарвинизъм
+- социальный дарвинизм
+- Սոցիալական դարվինիզմ
+- דרוויניזם חברתי
+- داروينية اجتماعية
+- داروینیزمی کۆمەڵایەتی
+- داروینیسم اجتماعی
+- ټولنیز ډاروینیزم
+- सामाजिक डार्विनवाद
+- সামাজিক ডারউইনবাদ
+- ทฤษฎีดาร์วินทางสังคม
+- 社会达尔文主义
+- 社会進化論
+- 社會達爾文主義
+- 사회진화론
 has_id_wikidata: Q202261
-named_after: "[[_Standards/WikiData/WD~Darwinism,183493]]"
+named_after: '[[_Standards/WikiData/WD~Darwinism,183493]]'
 based_on:
-  - "[[_Standards/WikiData/WD~survival_of_the_fittest,721322]]"
-  - "[[_Standards/WikiData/WD~natural_selection,43478]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q13356905,13356905]]"
-instance_of: "[[_Standards/WikiData/WD~ideology,7257]]"
+- '[[_Standards/WikiData/WD~survival_of_the_fittest,721322]]'
+- '[[_Standards/WikiData/WD~natural_selection,43478]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q13356905,13356905]]'
+instance_of: '[[_Standards/WikiData/WD~ideology,7257]]'
 Library_of_Congress_Classification: HM631
-Dewey_Decimal_Classification: "300.1"
+Dewey_Decimal_Classification: 300.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bilan%20fin%20de%20si%C3%A8cle.jpg
 exact_match:
-  - http://www.treccani.it/enciclopedia/darwinismo-sociale_%28Dizionario-di-Storia%29/
-  - http://www.treccani.it/enciclopedia/darwinismo-sociale_%28Enciclopedia-delle-scienze-sociali%29/
+- http://www.treccani.it/enciclopedia/darwinismo-sociale_%28Dizionario-di-Storia%29/
+- http://www.treccani.it/enciclopedia/darwinismo-sociale_%28Enciclopedia-delle-scienze-sociali%29/
+dv_has_:
+  name_:
+    ar: داروينية اجتماعية
+    az: Sosial darvinizm
+    be: сацыял-дарвінізм
+    bg: Социален дарвинизъм
+    bn: সামাজিক ডারউইনবাদ
+    ca: darwinisme social
+    ckb: داروینیزمی کۆمەڵایەتی
+    cs: Sociální darwinismus
+    da: Socialdarwinisme
+    de: Sozialdarwinismus
+    el: Κοινωνικός Δαρβινισμός
+    en: social Darwinism
+    eo: socialdarvinismo
+    es: darwinismo social
+    et: sotsiaaldarvinism
+    eu: Gizarte-darwinismo
+    fa: داروینیسم اجتماعی
+    fi: sosiaalidarvinismi
+    fr: darwinisme social
+    gl: Darwinismo social
+    gsw: Sozialdarwinismus
+    he: דרוויניזם חברתי
+    hi: सामाजिक डार्विनवाद
+    hr: Socijalni darvinizam
+    hu: Szociáldarwinizmus
+    hy: Սոցիալական դարվինիզմ
+    id: Darwinisme sosial
+    it: darwinismo sociale
+    ja: 社会進化論
+    kk: Социал-Дарвинизм
+    ko: 사회진화론
+    lt: socialinis darvinizmas
+    lv: Sociāldarvinisms
+    nb: sosialdarwinisme
+    nl: sociaal darwinisme
+    nn: Sosialdarwinisme
+    oc: Darwinisme social
+    pl: darwinizm społeczny
+    ps: ټولنیز ډاروینیزم
+    pt: darwinismo social
+    ro: darwinism social
+    ru: социальный дарвинизм
+    sco: social Darwinism
+    se: sosiáladarwinisma
+    sk: Sociálny darvinizmus
+    sl: družbeni darvinizem
+    smj: sosiáldarwinissma
+    smn: sosiaaldarwinism
+    sms: sosiaaldarwinismm
+    sq: Darvinizmi Social
+    sr: Социјалдарвинизам
+    sr-ec: Социјалдарвинизам
+    sr-el: Socijaldarvinizam
+    sv: socialdarwinism
+    th: ทฤษฎีดาร์วินทางสังคม
+    tr: Sosyal Darwinizm
+    uk: соціальний дарвінізм
+    uz: Ijtimoiy darvinizm
+    vi: Chủ nghĩa Darwin xã hội
+    yue: 社會達爾文主義
+    zh: 社會達爾文主義
+    zh-cn: 社会达尔文主义
+    zh-hans: 社会达尔文主义
+    zh-hant: 社會達爾文主義
+    zh-hk: 社會達爾文主義
+    zh-sg: 社会达尔文主义
+    zh-tw: 社會達爾文主義
 ---
 # [[Social_Darwinism]] 
 

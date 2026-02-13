@@ -1,10 +1,55 @@
 ---
 aliases:
-  - rubisco
-  - RuBPCase
-  - RuBPco
-  - Ribulose-1,5-bisphosphate carboxylase
+- Ribulose-1,5-bisphosphate carboxylase
+- Ribulosio-bisfosfato carbossilasi
+- Ribuloza-bisfosfatna karboksilaza
+- rubisco
+- Rubisko
+- RuBPCase
+- RuBPco
+- Рибулоза-бифосфатна карбоксилаза
+- Рибулозобісфосфаткарбоксилаза
+- Рибулозобисфосфаткарбоксилаза
+- روبيسكو
+- リブロース1,5-ビスリン酸カルボキシラーゼ/オキシゲナーゼ
+- 核酮糖-1,5-二磷酸羧化酶/加氧酶
+- 루비스코
 has_id_wikidata: Q422516
+dv_has_:
+  name_:
+    ar: روبيسكو
+    bs: Rubisco
+    ca: RuBisCO
+    cs: Rubisco
+    da: RuBisCO
+    de: RuBisCO
+    el: RuBisCO
+    en: RuBisCO
+    eo: Rubisko
+    es: RuBisCO
+    eu: RuBisCO
+    fa: RuBisCO
+    fi: Rubisco
+    fr: RubisCO
+    gl: Rubisco
+    id: Rubisco
+    it: Ribulosio-bisfosfato carbossilasi
+    ja: リブロース1,5-ビスリン酸カルボキシラーゼ/オキシゲナーゼ
+    ko: 루비스코
+    mk: Рибулоза-бифосфатна карбоксилаза
+    nb: Rubisko
+    nl: Rubisco
+    nn: rubisco
+    oc: RuBisCO
+    pl: Rubisco
+    pt: RuBisCO
+    ro: RuBisCO
+    ru: Рибулозобисфосфаткарбоксилаза
+    sh: Ribuloza-bisfosfatna karboksilaza
+    sr: Ribuloza-bisfosfatna karboksilaza
+    sv: Rubisco
+    uk: Рибулозобісфосфаткарбоксилаза
+    zh: 核酮糖-1,5-二磷酸羧化酶/加氧酶
 ---
 # [[RuBisCO]] 
 

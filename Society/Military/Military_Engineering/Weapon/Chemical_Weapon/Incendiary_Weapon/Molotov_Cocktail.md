@@ -1,19 +1,71 @@
 ---
 aliases:
-  - burn-bottle
-  - polttopullo
-  - brännflaska
-  - Molotov_Cocktail
-  - Molotov Cocktail
+- Bom Molotov
+- Bom petrol
+- bomba Molotov
+- Botelia Molotov
+- brulbotelo
+- brännflaska
+- burn-bottle
+- chai cháy
+- cocktail Molotov
+- Cocteil Molotov
+- Coctel Molotov
+- Coctèl Molotov
+- coquetel Molotov
+- còctel molotov
+- cóctel molotov
+- Degpudele
+- gallicauda Molotovii
+- koktajl Molotova
+- koktajl Mołotowa
+- Molotov Cocktail
+- Molotov koktel
+- Molotov kokteyli
+- Molotov-koktél
+- Molotovcocktail
+- Molotovi kokteil
+- Molotovljev koktel
+- Molotovov koktail
+- Molotov_Cocktail
+- Molotovův koktejl
+- Molotow-kelkie
+- Molotowcocktail
+- Padegamasis butelis
+- polttopullo
+- Κοκτέιλ μολότωφ
+- Кактэйль Молатава
+- Коктейл Молотов
+- Коктейль Молотова
+- Молотов коктейлі
+- Молотов коктейль
+- Молотов коктел
+- Молотовљев коктел
+- Молотовну коктейли
+- Մոլոտովի կոկտեյլ
+- בקבוק תבערה
+- بۆمبی شووشەیی
+- زجاجة حارقة
+- مولوتوف کوکتلی
+- مولوٹوف (اسلحہ)
+- کوکتل مولوتف
+- মলটভ ককটেইল
+- മൊളോടോവ് കോക്ടെയ്ൽ
+- ระเบิดขวด
+- မိုလိုတော့ကော့တေး
+- 汽油彈
+- 火炎瓶
+- 燃烧瓶
+- 화염병
 has_id_wikidata: Q167096
 has_part_s_:
-  - '[[_Standards/WikiData/WD~bottle,80228]]'
-  - '[[_Standards/WikiData/WD~gasoline,39558]]'
+- '[[_Standards/WikiData/WD~bottle,80228]]'
+- '[[_Standards/WikiData/WD~gasoline,39558]]'
 named_after: '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~hand_grenade,173517]]'
-  - '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
-  - '[[_Standards/WikiData/WD~improvised_explosive_device,1249453]]'
+- '[[_Standards/WikiData/WD~hand_grenade,173517]]'
+- '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
+- '[[_Standards/WikiData/WD~improvised_explosive_device,1249453]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_model,15142894]]'
 present_in_work: '[[_Standards/WikiData/WD~Hitman_3,96216496]]'
 country_of_origin: '[[_Standards/WikiData/WD~Finland,33]]'
@@ -21,8 +73,87 @@ Commons_gallery: Molotov cocktail
 Commons_category: Molotov cocktail
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Training%20bijstandseenheid%2012%20%28molotov%20zoom%29.jpg
 IMDb_keyword: molotov-cocktail
+dv_has_:
+  name_:
+    af: Molotow-kelkie
+    ar: زجاجة حارقة
+    ast: Cóctel molotov
+    az: Molotov kokteyli
+    azb: مولوتوف کوکتلی
+    be: Кактэйль Молатава
+    be-tarask: кактэйль Молатава
+    bg: Коктейл Молотов
+    bn: মলটভ ককটেইল
+    ca: còctel molotov
+    ckb: بۆمبی شووشەیی
+    cs: Molotovův koktejl
+    cy: Coctel Molotov
+    da: Molotovcocktail
+    de: Molotowcocktail
+    el: Κοκτέιλ μολότωφ
+    en: Molotov cocktail
+    eo: brulbotelo
+    es: cóctel molotov
+    et: Molotovi kokteil
+    eu: Molotov koktel
+    fa: کوکتل مولوتف
+    fi: polttopullo
+    fr: cocktail Molotov
+    fy: Molotovcocktail
+    gl: cóctel Molotov
+    he: בקבוק תבערה
+    hr: Molotovljev koktel
+    hu: Molotov-koktél
+    hy: Մոլոտովի կոկտեյլ
+    id: Bom Molotov
+    it: bomba Molotov
+    ja: 火炎瓶
+    kk: Молотов коктейлі
+    ko: 화염병
+    krc: Молотовну коктейли
+    kv: Молотов коктейль
+    la: gallicauda Molotovii
+    lmo: Cocktail Molotov
+    lt: Padegamasis butelis
+    lv: Degpudele
+    mk: Молотов коктел
+    ml: മൊളോടോവ് കോക്ടെയ്ൽ
+    ms: Bom petrol
+    my: မိုလိုတော့ကော့တေး
+    mzn: کوکتل مولوتف
+    nb: molotovcocktail
+    nl: molotovcocktail
+    nn: molotovcocktail
+    oc: Coctèl Molotov
+    pl: koktajl Mołotowa
+    pms: Botelia Molotov
+    pt: cocktail Molotov
+    pt-br: coquetel Molotov
+    ro: Cocteil Molotov
+    ru: Коктейль Молотова
+    sh: Molotovljev koktel
+    sk: Molotovov koktail
+    sl: koktajl Molotova
+    sq: Bomba Molotov
+    sr: Молотовљев коктел
+    sr-ec: Молотовљев коктел
+    sr-el: Molotovljev koktel
+    sv: Molotovcocktail
+    th: ระเบิดขวด
+    tr: Molotov kokteyli
+    uk: коктейль Молотова
+    ur: مولوٹوف (اسلحہ)
+    uz: Molotov kokteyli
+    vi: chai cháy
+    yue: 汽油彈
+    zh: 汽油彈
+    zh-cn: 燃烧瓶
+    zh-hans: 燃烧瓶
+    zh-hant: 汽油彈
+    zh-hk: 汽油彈
+    zh-sg: 燃烧瓶
+    zh-tw: 汽油彈
 ---
-
 # [[Molotov_Cocktail]] 
 
 #is_/same_as :: [[WD~Molotov_cocktail,167096]] 

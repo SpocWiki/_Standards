@@ -1,78 +1,132 @@
 ---
 aliases:
-  - Mikhail_Lomonosov
-  - Mikhail Vasilyevich Lomonosov
-  - Михаил Васильевич Ломоносов
-  - Lomonosov,Mikhail
+- Lomonosov Mihail
+- Lomonosov,Mikhail
+- Michael Lomonosov
+- Michail Lomonosof
+- Michail Lomonosov
+- Michail Vasil'evič Lomonosov
+- Michail Vasilievič Lomonosov
+- Michail Vasiljevič Lomonosov
+- Michail Wassiljewitsch Lomonossow
+- Michailas Lomonosovas
+- Michaił Łomonosow
+- Mihail Lomonosov
+- Mihail Vasiljevič Lomonosov
+- Mihail Vasziljevics Lomonoszov
+- Mihails Lomonosovs
+- Mihhail Lomonossov
+- Mijaíl Lomonósov
+- Mikails Lomonosuovs
+- Mikhail Lomonosov
+- Mikhail Lomonossov
+- Mikhail Vasilyevich Lomonosov
+- Mikhail Vassilyevich Lomonosov
+- Mikhail_Lomonosov
+- Mikhaïl Lomonosov
+- Mikhaïl Lomonossov
+- Mikhaïl Lomonóssov
+- Mixail Lomonosov
+- Miĥail Lomonosov
+- Mîxaîl Lomonosov
+- Μιχαήλ Λομονόσοφ
+- Ломоносов
+- Ломоносов Михаил Васильевич
+- Ломоносов Михайло Васильович
+- Ломоносов, Михаил Васильевич,
+- Міхаіл Васілевіч Ламаносаў
+- Міхаіл Ламаносаў
+- Михаил Василевич Ломоносов
+- Михаил Васильевич Ломоносов
+- Михаил Ломоносов
+- Միխայիլ Լոմոնոսով
+- מיכאיל לומונוסוב
+- مايكل لومونوسوف
+- مخائیل لومونوسوف
+- ميخائيل لومونوسوف
+- ميخايل لومونوسوف
+- میخائیل لومونوسف
+- میخاییل لومونسف
+- मिखाइल लोमोनोसोव
+- মিখাইল লোমোনোছভ
+- মিখাইল লোমোনোসভ
+- ਮਿਖਾਇਲ ਲੋਮੋਨੋਸੋਵ
+- மிகைல் இலமனோசொவ்
+- მიხეილ ლომონოსოვი
+- ミハイル・ロモノーソフ
+- 米哈伊尔·瓦西里耶维奇·罗蒙诺索夫
+- 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
+- 羅蒙諾索夫
+- 미하일 로모노소프
 has_id_wikidata: Q58720
 student_of:
-  - '[[_Standards/WikiData/WD~Christian_Wolff,76510]]'
-  - '[[_Standards/WikiData/WD~Johann_Friedrich_Henckel,99793]]'
+- '[[_Standards/WikiData/WD~Christian_Wolff,76510]]'
+- '[[_Standards/WikiData/WD~Johann_Friedrich_Henckel,99793]]'
 influenced_by: '[[_Standards/WikiData/WD~Christian_Wolff,76510]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Christian_Wolff,76510]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~polymath,270141]]'
-  - '[[_Standards/WikiData/WD~mosaicist,282718]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~geologist,520549]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~geographer,901402]]'
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~linguist,14467526]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~polymath,270141]]'
+- '[[_Standards/WikiData/WD~mosaicist,282718]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~geologist,520549]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~geographer,901402]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~linguist,14467526]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 is_member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Imperial_Academy_of_Arts,628254]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Imperial_Academy_of_Arts,628254]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~mineralogy,83353]]'
-  - '[[_Standards/WikiData/WD~natural_history,484591]]'
-  - '[[_Standards/WikiData/WD~history,309]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~chemistry,2329]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~metallurgy,11467]]'
-  - '[[_Standards/WikiData/WD~philology,40634]]'
+- '[[_Standards/WikiData/WD~mineralogy,83353]]'
+- '[[_Standards/WikiData/WD~natural_history,484591]]'
+- '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~metallurgy,11467]]'
+- '[[_Standards/WikiData/WD~philology,40634]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Marburg,155354]]'
-  - '[[_Standards/WikiData/WD~Freiberg_University_of_Mining_and_Technology,689854]]'
-  - '[[_Standards/WikiData/WD~Slavic_Greek_Latin_Academy,2629059]]'
-  - '[[_Standards/WikiData/WD~Academic_University_at_the_St._Petersburg_Academy_of_Sciences,4059193]]'
+- '[[_Standards/WikiData/WD~University_of_Marburg,155354]]'
+- '[[_Standards/WikiData/WD~Freiberg_University_of_Mining_and_Technology,689854]]'
+- '[[_Standards/WikiData/WD~Slavic_Greek_Latin_Academy,2629059]]'
+- '[[_Standards/WikiData/WD~Academic_University_at_the_St._Petersburg_Academy_of_Sciences,4059193]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Marburg,155354]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~Moscow_State_University,13164]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
+- '[[_Standards/WikiData/WD~University_of_Marburg,155354]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Moscow_State_University,13164]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
 cause_of_death: '[[_Standards/WikiData/WD~testicular_cancer,324464]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Historical_Dictionary_of_Russian_Writers,92234162]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_Russian_Writers_of_XVIII_century._Volume_II,110027664]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Historical_Dictionary_of_Russian_Writers,92234162]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Russian_Writers_of_XVIII_century._Volume_II,110027664]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 civil_rank: '[[_Standards/WikiData/WD~State_Councillor,677455]]'
 place_of_burial: '[[_Standards/WikiData/WD~Lazarev_Cemetery,2972463]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -111,8 +165,107 @@ Libris_URI: c9prsrmw49nx1kt
 Regensburg_Classification: KH 7030
 Google_Doodle: mikhail-lomonosovs-300th-birthday
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/LOMONOSOV_MIHAIL_VASILEVICH.html
+dv_has_:
+  name_:
+    af: Michail Lomonosof
+    ar: ميخائيل لومونوسوف
+    arz: مايكل لومونوسوف
+    as: মিখাইল লোমোনোছভ
+    ast: Mikhail Lomonosov
+    ay: Mikhaïl Lomonóssov
+    az: Mixail Lomonosov
+    azb: میخاییل لومونسف
+    ba: Ломоносов Михаил Васильевич
+    be: Міхаіл Васілевіч Ламаносаў
+    be-tarask: Міхаіл Ламаносаў
+    bg: Михаил Ломоносов
+    bn: মিখাইল লোমোনোসভ
+    bs: Mihail Vasiljevič Lomonosov
+    bxr: Михаил Ломоносов
+    ca: Mikhaïl Lomonóssov
+    crh: Mihail Lomonosov
+    cs: Michail Vasiljevič Lomonosov
+    cv: Ломоносов Михаил Васильевич
+    da: Mikhail Lomonosov
+    de: Michail Wassiljewitsch Lomonossow
+    el: Μιχαήλ Λομονόσοφ
+    en: Mikhail Lomonosov
+    en-ca: Mikhail Vassilyevich Lomonosov
+    en-gb: Mikhail Vassilyevich Lomonosov
+    eo: Miĥail Lomonosov
+    es: Mijaíl Lomonósov
+    et: Mihhail Lomonossov
+    eu: Mikhail Lomonosov
+    fa: میخاییل لومونسف
+    fi: Mihail Lomonosov
+    fr: Mikhaïl Lomonossov
+    fy: Michail Lomonosov
+    ga: Mikhail Vassilyevich Lomonosov
+    gl: Mikhail Lomonosov
+    gv: Mikhail Vassilyevich Lomonosov
+    he: מיכאיל לומונוסוב
+    hi: मिखाइल लोमोनोसोव
+    hr: Mihail Vasiljevič Lomonosov
+    hu: Mihail Vasziljevics Lomonoszov
+    hy: Միխայիլ Լոմոնոսով
+    id: Mikhail Lomonosov
+    it: Michail Vasil'evič Lomonosov
+    ja: ミハイル・ロモノーソフ
+    ka: მიხეილ ლომონოსოვი
+    kk: Михаил Васильевич Ломоносов
+    ko: 미하일 로모노소프
+    ku: Mîxaîl Lomonosov
+    kv: Ломоносов Михаил Васильевич
+    ky: Ломоносов Михаил Васильевич
+    la: Michael Lomonosov
+    lt: Michailas Lomonosovas
+    lv: Mihails Lomonosovs
+    mg: Mikhaïl Lomonossov
+    mk: Михаил Ломоносов
+    ml: mikhail lomonosov
+    mn: Михаил Васильевич Ломоносов
+    nan: Mikhail Lomonosov
+    nb: Mikhail Lomonosov
+    nl: Michail Lomonosov
+    nn: Mikhail Lomonosov
+    oc: Mikhaïl Lomonosov
+    os: Ломоносов
+    pa: ਮਿਖਾਇਲ ਲੋਮੋਨੋਸੋਵ
+    pl: Michaił Łomonosow
+    pnb: مخائیل لومونوسوف
+    ps: ميخايل لومونوسوف
+    pt: Mikhail Lomonossov
+    pt-br: Mikhail Lomonossov
+    qu: Mikhail Lomonosov
+    ro: Mihail Lomonosov
+    ru: Михаил Васильевич Ломоносов
+    sco: Mikhail Lomonosov
+    sgs: Mikails Lomonosuovs
+    sh: Mihail Vasiljevič Lomonosov
+    sk: Michail Vasilievič Lomonosov
+    sl: Mihail Vasiljevič Lomonosov
+    sq: Mikhail Lomonosov
+    sr: Михаил Ломоносов
+    sv: Michail Lomonosov
+    sw: Mikhail Lomonosov
+    ta: மிகைல் இலமனோசொவ்
+    tg: Михаил Ломоносов
+    tg-cyrl: Михаил Василевич Ломоносов
+    tr: Mihail Lomonosov
+    tt: Михаил Ломоносов
+    tyv: Ломоносов
+    uk: Ломоносов Михайло Васильович
+    ur: میخائیل لومونوسف
+    uz: Ломоносов, Михаил Васильевич,
+    vep: Lomonosov Mihail
+    vi: Mikhail Vasilyevich Lomonosov
+    war: Mikhail Lomonosov
+    wuu: 米哈伊尔·瓦西里耶维奇·罗蒙诺索夫
+    yue: 羅蒙諾索夫
+    zh: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
+    zh-hant: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
+    zh-tw: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
 ---
-
 # [[Lomonosov,Mikhail]] 
 
 #is_/same_as :: [[WD~Mikhail_Lomonosov,58720]] 

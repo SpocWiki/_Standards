@@ -1,19 +1,112 @@
 ---
 aliases:
-  - Staatsstreich
-  - Coup_d'état
-  - Coup d'état
+- Abantuguo
+- Afganbi
+- Chèng-piàn
+- Co d'êtat
+- Colp de Stat
+- colpo de stato
+- colpo di Stato
+- colpu di statu
+- cop d'estat
+- corpu de istadu
+- Coup d'état
+- Coup_d'état
+- Cur-fodha stàite
+- còp d'estat
+- Côp d' estat
+- Côp d'ètat
+- darbe
+- Derbeya leşkerî
+- državni udar
+- Dövlət çevrilişi
+- Estatu-kolpe
+- Fanonganam-panjakana
+- golpe d'estato
+- Golpe d'Estáu
+- golpe de estado
+- Grusht shteti
+- interceptio regiminis
+- Kudeta
+- Kudhéta
+- kupp
+- lanpan lawa
+- lovitură de stat
+- Putsch
+- puĉo
+- Puč
+- Riigipööre
+- Rīce-stīp
+- Staatsgreep
+- Staatsstreich
+- Staotsgreep
+- Stato-stroko
+- statskup
+- statskupp
+- Steatsgreep
+- státní převrat
+- ståtsgreyp
+- tampasan kuasa
+- Taol-stad
+- Thaura
+- Valdarán
+- vallankaappaus
+- valsts apvērsums
+- Valstybės perversmas
+- válderihpan
+- vääldičovádem
+- Wamink'a maqay
+- zamach stanu
+- államcsíny
+- đảo chính
+- Štátny prevrat
+- πραξικόπημα
+- государственный переворот
+- державний переворот
+- дзяржаўны пераварот
+- државен удар
+- државни удар
+- Държавен преврат
+- Дәүләт түнтәрелеше
+- Мемлекеттік төңкеріс
+- Путчсь
+- Түрын эрьелтэ
+- Төрийн эргэлт
+- պետական հեղաշրջում
+- איבערקערעניש
+- הפיכה
+- إنقلاب
+- انقلاب
+- داربه
+- مسلح بغاوت
+- کودتا
+- کوودەتا
+- ބަޣާވާތް
+- ߞߊ߬ߝߏ ߖߊ߬ߛߏ߲߬
+- तख्ता पलट
+- राज्यविप्लव
+- অভ্যুত্থান
+- இராணுவப் புரட்சி
+- പട്ടാള വിപ്ലവം
+- รัฐประหาร
+- ລັດຖະປະຫານ
+- პუტჩი
+- រដ្ឋប្រហារ
+- クーデター
+- 政变
+- 政變
+- 쿠데타
 has_id_wikidata: Q45382
 subclass_of:
-  - '[[_Standards/WikiData/WD~conflict,180684]]'
-  - '[[_Standards/WikiData/WD~regime_change,1673271]]'
+- '[[_Standards/WikiData/WD~conflict,180684]]'
+- '[[_Standards/WikiData/WD~regime_change,1673271]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Golpe_de_Estado,3110317]]'
-  - '[[_Standards/WikiData/WD~military_coup,3449092]]'
-  - "[[_Standards/WikiData/WD~attempted_coup_d'état,25906438]]"
+- '[[_Standards/WikiData/WD~Golpe_de_Estado,3110317]]'
+- '[[_Standards/WikiData/WD~military_coup,3449092]]'
+- "[[_Standards/WikiData/WD~attempted_coup_d'état,25906438]]"
 uses: '[[_Standards/WikiData/WD~force,5467425]]'
 topic_has_template: "[[_Standards/WikiData/WD~Template_Coup_d'état,7740480]]"
 OmegaWiki_Defined_Meaning: 799053
@@ -24,8 +117,138 @@ Commons_category: Coups d'état
 Krugosvet_article: gumanitarnye_nauki/sociologiya/GOSUDARSTVENNI_PEREVOROT.html
 Library_of_Congress_Classification: JC494
 IPTC_NewsCode: mediatopic/20000070
+dv_has_:
+  name_:
+    af: Staatsgreep
+    an: golpe d'estato
+    ang: Rīce-stīp
+    ar: انقلاب
+    ary: إنقلاب
+    arz: انقلاب
+    ast: Golpe d'Estáu
+    az: Dövlət çevrilişi
+    azb: داربه
+    be: дзяржаўны пераварот
+    be-tarask: дзяржаўны пераварот
+    bg: Държавен преврат
+    bn: অভ্যুত্থান
+    br: Taol-stad
+    bs: državni udar
+    bxr: Түрын эрьелтэ
+    ca: cop d'estat
+    ceb: Kudeta
+    ckb: کوودەتا
+    co: colpu di statu
+    cs: státní převrat
+    cy: coup d'état
+    da: statskup
+    de: Putsch
+    de-ch: Putsch
+    dv: ބަޣާވާތް
+    el: πραξικόπημα
+    en: coup d'état
+    en-ca: Coup d'état
+    en-gb: coup d'état
+    eo: puĉo
+    es: golpe de estado
+    et: Riigipööre
+    eu: Estatu-kolpe
+    fa: کودتا
+    fi: vallankaappaus
+    fr: coup d'État
+    frp: Côp d'ètat
+    fy: Steatsgreep
+    ga: coup d'état
+    gd: Cur-fodha stàite
+    gl: golpe de estado
+    gn: Golpe de Estado
+    gsw: Putsch
+    he: הפיכה
+    hi: तख्ता पलट
+    hr: puč
+    hu: államcsíny
+    hy: պետական հեղաշրջում
+    ia: Colpo de stato
+    id: kudeta
+    io: Stato-stroko
+    is: Valdarán
+    it: colpo di Stato
+    ja: クーデター
+    jv: Kudhéta
+    ka: პუტჩი
+    kk: Мемлекеттік төңкеріс
+    km: រដ្ឋប្រហារ
+    ko: 쿠데타
+    krj: kudeta
+    ku: Derbeya leşkerî
+    la: interceptio regiminis
+    lb: Putsch
+    li: Staotsgreep
+    lmo: Colp de Stat
+    lo: ລັດຖະປະຫານ
+    lt: Valstybės perversmas
+    lv: valsts apvērsums
+    mdf: Путчсь
+    mg: Fanonganam-panjakana
+    mk: државен удар
+    ml: പട്ടാള വിപ്ലവം
+    mn: Төрийн эргэлт
+    ms: tampasan kuasa
+    mzn: کودتا
+    nan: Chèng-piàn
+    nb: statskupp
+    nds-nl: ståtsgreyp
+    ne: राज्यविप्लव
+    nl: staatsgreep
+    nn: kupp
+    nqo: ߞߊ߬ߝߏ ߖߊ߬ߛߏ߲߬
+    nrm: Co d'êtat
+    oc: còp d'estat
+    pl: zamach stanu
+    pnb: مسلح بغاوت
+    ps: کودتا
+    pt: golpe de Estado
+    pt-br: golpe de Estado
+    qu: Wamink'a maqay
+    ro: lovitură de stat
+    ru: государственный переворот
+    sc: corpu de istadu
+    sco: coup d'état
+    se: válderihpan
+    sh: Puč
+    sk: Štátny prevrat
+    sl: državni udar
+    smn: vääldičovádem
+    so: Afganbi
+    sq: Grusht shteti
+    sr: државни удар
+    sv: statskupp
+    sw: Thaura
+    ta: இராணுவப் புரட்சி
+    th: รัฐประหาร
+    tl: Kudeta
+    tok: lanpan lawa
+    tr: darbe
+    tt: Дәүләт түнтәрелеше
+    tw: Abantuguo
+    uk: державний переворот
+    ur: مسلح بغاوت
+    vec: colpo de stato
+    vi: đảo chính
+    wa: Côp d' estat
+    wuu: 政变
+    yi: איבערקערעניש
+    yue: 政變
+    zh: 政變
+    zh-cn: 政变
+    zh-hans: 政变
+    zh-hant: 政變
+    zh-hk: 政變
+    zh-mo: 政變
+    zh-my: 政变
+    zh-sg: 政变
+    zh-tw: 政變
 ---
-
 # [[Coup_d'état]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Coup_d'état,45382|WD~Coup_d'état,45382]] 

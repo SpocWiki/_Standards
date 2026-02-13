@@ -1,45 +1,178 @@
 ---
 aliases:
+- buaic
+- cenit
+- Cénit
+- Druim an t-saoghail
+- Hangaran
+- Hvirfilpunktur
+- nadglavišče
+- Nhial ciɛlic
+- Seniit
+- Senit
+- Taluktok
+- Thiên đỉnh
+- Zeni
+- Zeniitti
+- zenit
+- Zenitas
+- zenith
+- zenito
+- Zenīts
+- zénite
+- zénith
+- zênite
+- Ζενίθ
+- Зеніт
+- зенит
+- зэніт
+- Огторгойн орой
+- Զենիթ
+- זניט
+- سرسو
+- سمت الرأس
+- سمت الراس
+- शिरोबिंदु
+- সুবিন্দু
+- வான் உச்சி
+- ശീർഷബിന്ദു
+- จุดจอมฟ้า
+- ზენიტი
+- 天頂
+- 天顶
+- 천정
 has_id_wikidata: Q82806
-opposite_of: "[[_Standards/WikiData/WD~nadir,145825]]"
-instance_of: "[[_Standards/WikiData/WD~vertical_direction,182167]]"
+opposite_of: '[[_Standards/WikiData/WD~nadir,145825]]'
+instance_of: '[[_Standards/WikiData/WD~vertical_direction,182167]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~celestial_sphere,12134]]"
-OmegaWiki_Defined_Meaning: "673658"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
+OmegaWiki_Defined_Meaning: 673658
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Equinox-NO-Zenit-Nadir.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hemisferio%20celeste.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Equinox-NO-Zenit-Nadir.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hemisferio%20celeste.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q82806-ar.ogg
 Commons_category: Zenith (topography)
 dv_is_:
-  opposite_of: "[[Nadir]]"
+  opposite_of: '[[Nadir]]'
   same_as:
-    - "[[../../WikiData/WD~Zenith,82806]]"
-    - "[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]"
-    - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
-    - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
-    - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
-    - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
-    - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
-    - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
-dv_is_opposite_of: "[[Nadir]]"
+  - '[[../../WikiData/WD~Zenith,82806]]'
+  - '[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]'
+  - '[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]'
+  - '[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]'
+  - '[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]'
+  - '[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]'
+  - '[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]'
+  - '[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]'
+dv_is_opposite_of: '[[Nadir]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Zenith,82806]]"
-  - "[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]"
-  - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
-  - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
-  - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
-  - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
-  - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
-  - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
+- '[[../../WikiData/WD~Zenith,82806]]'
+- '[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]'
+- '[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]'
+- '[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]'
+- '[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]'
+- '[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]'
+- '[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]'
+- '[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]'
+dv_has_:
+  name_:
+    af: Senit
+    an: Zenit
+    ar: سمت الرأس
+    ast: Cénit
+    az: Zenit
+    ba: Зенит
+    be: Зеніт
+    be-tarask: зэніт
+    bg: Зенит
+    bn: সুবিন্দু
+    bs: Zenit
+    bxr: Огторгойн орой
+    ca: zenit
+    cs: zenit
+    da: zenit
+    de: Zenit
+    din: Nhial ciɛlic
+    dsb: Cenit
+    el: Ζενίθ
+    en: zenith
+    en-ca: Zenith
+    en-gb: zenith
+    eo: zenito
+    es: cenit
+    et: Seniit
+    eu: Zenit
+    ext: Zeni
+    fa: سرسو
+    fi: Zeniitti
+    fr: zénith
+    ga: buaic
+    gd: Druim an t-saoghail
+    gl: Cénit
+    he: זניט
+    hi: शिरोबिंदु
+    hr: Zenit
+    hsb: Cenit
+    hu: zenit
+    hy: Զենիթ
+    id: zenit
+    io: Zenito
+    is: Hvirfilpunktur
+    it: zenit
+    ja: 天頂
+    ka: ზენიტი
+    ko: 천정
+    ky: Зенит
+    la: Zenith
+    lb: Zenit
+    lmo: Zenit
+    lt: Zenitas
+    lv: Zenīts
+    mk: зенит
+    ml: ശീർഷബിന്ദു
+    ms: Zenit
+    nb: senit
+    nl: zenit
+    nn: senit
+    oc: Zenit
+    os: зенит
+    pl: zenit
+    pnb: سمت الراس
+    pt: zénite
+    pt-br: zênite
+    ro: Zenit
+    ru: зенит
+    rue: Зенит
+    sco: zenith
+    sh: Zenit
+    sk: Zenit
+    sl: nadglavišče
+    sq: Zenit
+    sr: зенит
+    sr-ec: зенит
+    sr-el: zenit
+    sv: zenit
+    ta: வான் உச்சி
+    tg: Зенит
+    th: จุดจอมฟ้า
+    tl: Taluktok
+    tr: zenit
+    tt: Zenit
+    udm: зенит
+    uk: зеніт
+    ur: سمت الراس
+    uz: Zenit
+    vi: Thiên đỉnh
+    war: Hangaran
+    wuu: 天顶
+    yue: 天頂
+    zh: 天頂
 ---
-
 # [[Zenith]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`

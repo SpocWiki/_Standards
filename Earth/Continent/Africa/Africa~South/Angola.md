@@ -1,18 +1,104 @@
 ---
 aliases:
-  - Angola
-  - أنغولا
-  - 安哥拉
-  - Ангола
-  - the Republic of Angola
-  - la República de Angola
+- Anakora
+- Anggola
+- Angguola
+- Angoala
+- angol
+- Angola
+- Angolaa
+- Angolae
+- Angoley
+- Angolia
+- Angolo
+- Angoläa
+- Angoola
+- Angoolaa
+- Angora
+- Angoła
+- Angula
+- Anguola
+- Angåvllå
+- Angòla
+- Angòlô
+- Angóla
+- Anhola
+- Anngolaa
+- Anqola
+- Aŋgoola
+- Aŋkuulaq
+- Aŋola
+- I-Angola
+- la República de Angola
+- Langolän
+- ma Ankola
+- Ngola
+- the Republic of Angola
+- Àngólà
+- Ανγκόλα
+- Ангол
+- Анголæ
+- Ангола
+- Анґола
+- Анһлмудин Орн
+- Անգոլա
+- Անկոլա
+- אנגאלא
+- אנגולה
+- آنقولا
+- آنگؤلا
+- آنگولا
+- أنغولا
+- أنڨولا
+- أنڭولا
+- ئانگولا
+- ئەنگۆلا
+- انجولا
+- انګولا
+- انگولا
+- އެންގޯލާ
+- ߊ߲ߜ߭ߏߟߊ߫
+- अँगोला
+- अंगोला
+- अङ्गोला
+- आंगोला
+- एङ्गोला
+- एन्गोला
+- অ্যাঙ্গোলা
+- আংগলা
+- এঙ্গোলা
+- ਅੰਗੋਲਾ
+- અંગોલા
+- ଆଙ୍ଗୋଲା
+- அங்கோலா
+- అంగోలా
+- ಅಂಗೋಲ
+- അംഗോള
+- ඇන්ගෝලා
+- ประเทศแองโกลา
+- ປະເທດອັງໂກລາ
+- ཨང་གོ་ལ།
+- မိူင်းဢႅၼ်ႇၵူဝ်ႇလႃႇ
+- အင်ဂိုလာနိုင်ငံ
+- ანგოლა
+- አንጎላ
+- ኣንጎላ
+- ᎠᏂᎪᎳ
+- អង់កូឡា
+- ᱮᱝᱜᱳᱞᱟ
+- ‘Anakola
+- ⴰⵏⴳⵓⵍⴰ
+- アンゴラ
+- 安哥拉
+- ꯑꯦꯟꯒꯣꯂꯥ
+- 앙골라
 has_id_wikidata: Q916
 location:
-  - -8.8
-  - 13.23
+- -8.8
+- 13.23
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26833
 isDeleted: false
 confidential: public
@@ -20,247 +106,247 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Angola
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - pt-AO
-flag: "[[_Standards/WikiData/WD~flag_of_Angola,124329]]"
+- pt-AO
+flag: '[[_Standards/WikiData/WD~flag_of_Angola,124329]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Cabinda_Province,168787]]"
-  - "[[_Standards/WikiData/WD~Moxico_Province,173988]]"
-  - "[[_Standards/WikiData/WD~Luanda_Province,190066]]"
-  - "[[_Standards/WikiData/WD~Bengo_Province,191299]]"
-  - "[[_Standards/WikiData/WD~Zaire_Province,196674]]"
-  - "[[_Standards/WikiData/WD~Benguela_Province,212786]]"
-  - "[[_Standards/WikiData/WD~Bié_Province,213977]]"
-  - "[[_Standards/WikiData/WD~Lunda_Norte_Province,214221]]"
-  - "[[_Standards/WikiData/WD~Huíla_Province,214572]]"
-  - "[[_Standards/WikiData/WD~Cuando_Cubango_Province,215268]]"
-  - "[[_Standards/WikiData/WD~Namibe_Province,216819]]"
-  - "[[_Standards/WikiData/WD~Cuanza_Norte_Province,216834]]"
-  - "[[_Standards/WikiData/WD~Uíge_Province,216972]]"
-  - "[[_Standards/WikiData/WD~Cunene_Province,216987]]"
-  - "[[_Standards/WikiData/WD~Cuanza_Sul_Province,216998]]"
-  - "[[_Standards/WikiData/WD~Huambo_Province,218848]]"
-  - "[[_Standards/WikiData/WD~Malanje_Province,219072]]"
-  - "[[_Standards/WikiData/WD~Lunda_Sul_Province,219648]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Angola,199668]]"
-anthem: "[[_Standards/WikiData/WD~Angola_Avante,227866]]"
+- '[[_Standards/WikiData/WD~Cabinda_Province,168787]]'
+- '[[_Standards/WikiData/WD~Moxico_Province,173988]]'
+- '[[_Standards/WikiData/WD~Luanda_Province,190066]]'
+- '[[_Standards/WikiData/WD~Bengo_Province,191299]]'
+- '[[_Standards/WikiData/WD~Zaire_Province,196674]]'
+- '[[_Standards/WikiData/WD~Benguela_Province,212786]]'
+- '[[_Standards/WikiData/WD~Bié_Province,213977]]'
+- '[[_Standards/WikiData/WD~Lunda_Norte_Province,214221]]'
+- '[[_Standards/WikiData/WD~Huíla_Province,214572]]'
+- '[[_Standards/WikiData/WD~Cuando_Cubango_Province,215268]]'
+- '[[_Standards/WikiData/WD~Namibe_Province,216819]]'
+- '[[_Standards/WikiData/WD~Cuanza_Norte_Province,216834]]'
+- '[[_Standards/WikiData/WD~Uíge_Province,216972]]'
+- '[[_Standards/WikiData/WD~Cunene_Province,216987]]'
+- '[[_Standards/WikiData/WD~Cuanza_Sul_Province,216998]]'
+- '[[_Standards/WikiData/WD~Huambo_Province,218848]]'
+- '[[_Standards/WikiData/WD~Malanje_Province,219072]]'
+- '[[_Standards/WikiData/WD~Lunda_Sul_Province,219648]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Angola,199668]]'
+anthem: '[[_Standards/WikiData/WD~Angola_Avante,227866]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Angola,249515]]"
-  - "[[_Standards/WikiData/WD~Angola,108566441]]"
+- '[[_Standards/WikiData/WD~Angola,249515]]'
+- '[[_Standards/WikiData/WD~Angola,108566441]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~European_people,394067]]"
-  - "[[_Standards/WikiData/WD~Mbundu_people,460091]]"
-  - "[[_Standards/WikiData/WD~Kongo_people,640090]]"
-  - "[[_Standards/WikiData/WD~Ovimbundu_people,1257799]]"
-  - "[[_Standards/WikiData/WD~Mestiço,17073179]]"
+- '[[_Standards/WikiData/WD~European_people,394067]]'
+- '[[_Standards/WikiData/WD~Mbundu_people,460091]]'
+- '[[_Standards/WikiData/WD~Kongo_people,640090]]'
+- '[[_Standards/WikiData/WD~Ovimbundu_people,1257799]]'
+- '[[_Standards/WikiData/WD~Mestiço,17073179]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Angola,846091]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Angola,846091]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Angola,936669]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Angola,1064113]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Angola,1145408]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Moco,1348116]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Angola,846091]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Angola,846091]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Angola,936669]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Angola,1064113]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Angola,1145408]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Moco,1348116]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]"
-  - "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-  - "[[_Standards/WikiData/WD~Central_Africa,27433]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~Europlug,1378312]]"
+- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Kwanyama,1405077]]"
-  - "[[_Standards/WikiData/WD~Zemba,1845148]]"
-  - "[[_Standards/WikiData/WD~Kwadi,2364661]]"
-  - "[[_Standards/WikiData/WD~Chokwe,2422065]]"
-  - "[[_Standards/WikiData/WD~Yauma,2599826]]"
-  - "[[_Standards/WikiData/WD~Mbukushu,2691548]]"
-  - "[[_Standards/WikiData/WD~Lucazi,3265143]]"
-  - "[[_Standards/WikiData/WD~Nyemba,3346655]]"
-  - "[[_Standards/WikiData/WD~Gciriku,3780954]]"
-  - "[[_Standards/WikiData/WD~Holu,4121133]]"
-  - "[[_Standards/WikiData/WD~Bolo,4939959]]"
-  - "[[_Standards/WikiData/WD~Sama,6407456]]"
-  - "[[_Standards/WikiData/WD~Kuvale,6448765]]"
-  - "[[_Standards/WikiData/WD~Mbangala,6799612]]"
-  - "[[_Standards/WikiData/WD~Ndombe,6983792]]"
-  - "[[_Standards/WikiData/WD~Nsongo,7067577]]"
-  - "[[_Standards/WikiData/WD~Nyengo,7071068]]"
-  - "[[_Standards/WikiData/WD~Ngandyera,10961003]]"
-  - "[[_Standards/WikiData/WD~Kiyombe,10961975]]"
-  - "[[_Standards/WikiData/WD~Nkangala,10962292]]"
-  - "[[_Standards/WikiData/WD~Nyaneka,10962298]]"
-  - "[[_Standards/WikiData/WD~Mashi,10962737]]"
-  - "[[_Standards/WikiData/WD~Luimbi,10963134]]"
-  - "[[_Standards/WikiData/WD~Mbwela,11004988]]"
-  - "[[_Standards/WikiData/WD~Nkhumbi,11019169]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Khwe,28305]]"
-  - "[[_Standards/WikiData/WD~Luvale,33597]]"
-  - "[[_Standards/WikiData/WD~Lunda,33607]]"
-  - "[[_Standards/WikiData/WD~Mbunda,34170]]"
-  - "[[_Standards/WikiData/WD~Luba-Kasai,34173]]"
-  - "[[_Standards/WikiData/WD~Yaka,35588]]"
-  - "[[_Standards/WikiData/WD~Kimbundu,35891]]"
-  - "[[_Standards/WikiData/WD~Kwangali,36334]]"
-  - "[[_Standards/WikiData/WD~Umbundu,36983]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Angola,1969479]]"
+- '[[_Standards/WikiData/WD~Kwanyama,1405077]]'
+- '[[_Standards/WikiData/WD~Zemba,1845148]]'
+- '[[_Standards/WikiData/WD~Kwadi,2364661]]'
+- '[[_Standards/WikiData/WD~Chokwe,2422065]]'
+- '[[_Standards/WikiData/WD~Yauma,2599826]]'
+- '[[_Standards/WikiData/WD~Mbukushu,2691548]]'
+- '[[_Standards/WikiData/WD~Lucazi,3265143]]'
+- '[[_Standards/WikiData/WD~Nyemba,3346655]]'
+- '[[_Standards/WikiData/WD~Gciriku,3780954]]'
+- '[[_Standards/WikiData/WD~Holu,4121133]]'
+- '[[_Standards/WikiData/WD~Bolo,4939959]]'
+- '[[_Standards/WikiData/WD~Sama,6407456]]'
+- '[[_Standards/WikiData/WD~Kuvale,6448765]]'
+- '[[_Standards/WikiData/WD~Mbangala,6799612]]'
+- '[[_Standards/WikiData/WD~Ndombe,6983792]]'
+- '[[_Standards/WikiData/WD~Nsongo,7067577]]'
+- '[[_Standards/WikiData/WD~Nyengo,7071068]]'
+- '[[_Standards/WikiData/WD~Ngandyera,10961003]]'
+- '[[_Standards/WikiData/WD~Kiyombe,10961975]]'
+- '[[_Standards/WikiData/WD~Nkangala,10962292]]'
+- '[[_Standards/WikiData/WD~Nyaneka,10962298]]'
+- '[[_Standards/WikiData/WD~Mashi,10962737]]'
+- '[[_Standards/WikiData/WD~Luimbi,10963134]]'
+- '[[_Standards/WikiData/WD~Mbwela,11004988]]'
+- '[[_Standards/WikiData/WD~Nkhumbi,11019169]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Khwe,28305]]'
+- '[[_Standards/WikiData/WD~Luvale,33597]]'
+- '[[_Standards/WikiData/WD~Lunda,33607]]'
+- '[[_Standards/WikiData/WD~Mbunda,34170]]'
+- '[[_Standards/WikiData/WD~Luba-Kasai,34173]]'
+- '[[_Standards/WikiData/WD~Yaka,35588]]'
+- '[[_Standards/WikiData/WD~Kimbundu,35891]]'
+- '[[_Standards/WikiData/WD~Kwangali,36334]]'
+- '[[_Standards/WikiData/WD~Umbundu,36983]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Angola,1969479]]'
 replaces: "[[_Standards/WikiData/WD~People's_Republic_of_Angola,2208280]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Angola,2402452]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Angola,3007243]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Angola,2402452]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Angola,3007243]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Luanda,4689506]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Angola,7112180]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Angola,11302861]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+- '[[_Standards/WikiData/WD~Africa_Luanda,4689506]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Angola,7112180]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Angola,11302861]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~116,25648807]]"
-  - "[[_Standards/WikiData/WD~113,25648804]]"
-  - "[[_Standards/WikiData/WD~115,25648805]]"
+- '[[_Standards/WikiData/WD~116,25648807]]'
+- '[[_Standards/WikiData/WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~115,25648805]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q27062317,27062317]]"
-  - "[[_Standards/WikiData/WD~Q42199124,42199124]]"
-  - "[[_Standards/WikiData/WD~Q42311013,42311013]]"
-head_of_state: "[[_Standards/WikiData/WD~João_Lourenço,28650390]]"
-head_of_government: "[[_Standards/WikiData/WD~João_Lourenço,28650390]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32932558,32932558]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-motto: "[[_Standards/WikiData/WD~Q102185417,102185417]]"
-studied_in: "[[_Standards/WikiData/WD~Angolan_studies,115669295]]"
+- '[[_Standards/WikiData/WD~Q27062317,27062317]]'
+- '[[_Standards/WikiData/WD~Q42199124,42199124]]'
+- '[[_Standards/WikiData/WD~Q42311013,42311013]]'
+head_of_state: '[[_Standards/WikiData/WD~João_Lourenço,28650390]]'
+head_of_government: '[[_Standards/WikiData/WD~João_Lourenço,28650390]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32932558,32932558]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+motto: '[[_Standards/WikiData/WD~Q102185417,102185417]]'
+studied_in: '[[_Standards/WikiData/WD~Angolan_studies,115669295]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Angola%20%28orthographic%20projection%29.svg
 UMLS_CUI: C0003023
 demonym:
-  - أنڭولي
-  - أنڭولية
-  - أنڭوليات
-  - أنڭوليين
-  - Angólach
-  - أنغولي
-  - أنغولية
-  - أنغوليون
-  - angolana
-  - angolanu
-  - অ্যাঙ্গোলীয়
-  - angolès
-  - angolesa
-  - Angolan
-  - Angolanka
-  - angolaner
-  - Angolan
-  - Angolano
-  - Angolais
-  - Angolaise
-  - אנגולי
-  - אנגולית
-  - angolai
-  - Angolano
-  - angolana
-  - angolane
-  - angolani
-  - angolano
-  - angolan
-  - angolez
-  - angoleză
-  - angolezi
-  - анголец
-  - анголка
-  - ангольцы
-  - angołan
-  - angołana
-  - angołane
-  - angołani
-  - Langolänan
+- أنڭولي
+- أنڭولية
+- أنڭوليات
+- أنڭوليين
+- Angólach
+- أنغولي
+- أنغولية
+- أنغوليون
+- angolana
+- angolanu
+- অ্যাঙ্গোলীয়
+- angolès
+- angolesa
+- Angolan
+- Angolanka
+- angolaner
+- Angolan
+- Angolano
+- Angolais
+- Angolaise
+- אנגולי
+- אנגולית
+- angolai
+- Angolano
+- angolana
+- angolane
+- angolani
+- angolano
+- angolan
+- angolez
+- angoleză
+- angolezi
+- анголец
+- анголка
+- ангольцы
+- angołan
+- angołana
+- angołane
+- angołani
+- Langolänan
 ISNI: 404983083
 MeSH_tree_code: Z01.058.290.175.095
 nominal_GDP:
-  - 65685435100
-  - 106713618735
+- 65685435100
+- 106713618735
 coordinates_of_northernmost_point: Point(12.75 -4.37)
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Angola%20-%20Location%20Map%20%282013%29%20-%20AGO%20-%20UNOCHA.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationAngola.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Angola%20-%20Location%20Map%20%282013%29%20-%20AGO%20-%20UNOCHA.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LocationAngola.svg
 coordinates_of_easternmost_point: Point(24.058111111 -13.000777777)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-country: "[[_Standards/WikiData/WD~Angola,916]]"
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Zimbabwe,954]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+country: '[[_Standards/WikiData/WD~Angola,916]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-capital: "[[_Standards/WikiData/WD~Luanda,3897]]"
-official_language: "[[_Standards/WikiData/WD~Portuguese,5146]]"
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+capital: '[[_Standards/WikiData/WD~Luanda,3897]]'
+official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-  - "[[_Standards/WikiData/WD~presidential_system,49892]]"
-central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Angola,31211]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~presidential_system,49892]]'
+central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Angola,31211]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 unemployment_rate: 7
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 220
 BTI_Governance_Index:
-  - 3.6
-  - 3.11
-  - 3.56
-  - 3.61
-  - 3.96
-  - 4.03
-  - 4.18
-  - 4.23
-  - 4.46
+- 3.6
+- 3.11
+- 3.56
+- 3.61
+- 3.96
+- 4.03
+- 4.18
+- 4.23
+- 4.46
 suicide_rate: 4.7
 literacy_rate: 66
 ISO_3166_1_alpha_3_code: AGO
@@ -275,72 +361,72 @@ Commons_category: Angola
 FIPS_10_4_countries_and_regions_: AO
 WIPO_ST_3: AO
 ISO_3166_1_alpha_2_code: AO
-Unicode_character: 🇦🇴
+Unicode_character: "\U0001F1E6\U0001F1F4"
 PM20_geo_code: C85
 Colon_Classification: SG--643
 Krugosvet_article: strany_mira/ANGOLA.html
 official_name:
-  - People's Republic of Angola
-  - Republic of Angola
-  - République d’Angola
-  - République populaire d'Angola
-  - República de Angola
-  - República Popular de Angola
-  - Angolská republika
+- People's Republic of Angola
+- Republic of Angola
+- République d’Angola
+- République populaire d'Angola
+- República de Angola
+- República Popular de Angola
+- Angolská republika
 motto_text: Virtus Unita Fortior
 native_label:
-  - Angola
-  - República de Angola
-short_name: 🇦🇴
+- Angola
+- República de Angola
+short_name: "\U0001F1E6\U0001F1F4"
 death_rate:
-  - 7.811
-  - 7.821
-  - 7.863
-  - 8.009
+- 7.811
+- 7.821
+- 7.863
+- 8.009
 area: 1246700
 birth_rate:
-  - 38.809
-  - 39.271
-  - 39.725
-  - 38.2
+- 38.809
+- 39.271
+- 39.725
+- 38.2
 life_expectancy: 61.547
 rural_population:
-  - 11089900
-  - 10942954
-  - 11227528
-  - 11359649
+- 11089900
+- 10942954
+- 11227528
+- 11359649
 female_population:
-  - 17998220
-  - 16370553
-  - 16910989
-  - 17452283
+- 17998220
+- 16370553
+- 16910989
+- 17452283
 number_of_out_of_school_children: 2088363
 coordinates_of_westernmost_point: Point(11.7 -16.5833)
 male_population:
-  - 15983035
-  - 16517497
-  - 17051491
-  - 17590767
+- 15983035
+- 16517497
+- 17051491
+- 17590767
 urban_population:
-  - 21410634
-  - 22338586
-  - 23276246
-  - 24229338
+- 21410634
+- 22338586
+- 23276246
+- 24229338
 inception: 1992-08-25
 has_time_started: 1992-08-25
 coordinates_of_southernmost_point: Point(20.825527777 -18.0385)
 population: 36749906
 coordinate_location: Point(17.35 -12.35)
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.ao,39006]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ao,39006]]'
 BTI_Status_Index:
-  - 3.41
-  - 3.82
-  - 3.94
-  - 4.16
-  - 4.21
-  - 4.44
-  - 4.56
-  - 4.92
+- 3.41
+- 3.82
+- 3.94
+- 4.16
+- 4.21
+- 4.44
+- 4.56
+- 4.92
 Democracy_Index: 3.66
 Inequality_adjusted_Human_Development_Index: 0.407
 maximum_temperature_record: 43.5
@@ -351,10 +437,10 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Angola.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Angola.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Angola.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A3%D9%86%D8%BA%D9%88%D9%84%D8%A7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Angola.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Angola.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A3%D9%86%D8%BA%D9%88%D9%84%D8%A7.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Angola.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Malange%20%28Angola%29%20banner%20Kalandula%20waterfalls%20of%20the%20Lucala%20River.jpg
 official_website: https://www.governo.gov.ao/
 country_calling_code: 244
@@ -370,6 +456,303 @@ INSEE_countries_and_foreign_territories_code: 99395
 ITU_letter_code: AGL
 dv_has_:
   name_:
+    ab: Ангола
+    aeb-arab: أنڨولا
+    af: Angola
+    am: አንጎላ
+    ami: Angola
+    an: Angola
+    ang: Angola
+    ann: Angola
+    anp: अंगोला
+    ar: أنغولا
+    ary: أنڭولا
+    arz: انجولا
+    as: আংগলা
+    ast: Angola
+    avk: Angola
+    ay: Angula
+    az: Anqola
+    azb: آنقولا
+    ba: Ангола
+    ban: Angola
+    bar: Angola
+    bcl: Angola
+    be: Ангола
+    be-tarask: Ангола
+    bew: Anggola
+    bg: Ангола
+    bgn: انگولا
+    bho: अंगोला
+    bi: Angola
+    bjn: Angola
+    bm: Angola
+    bn: অ্যাঙ্গোলা
+    bo: ཨང་གོ་ལ།
+    bpy: এঙ্গোলা
+    br: Angola
+    bs: Angola
+    bxr: Ангола
+    ca: Angola
+    cbk-zam: Angola
+    cdo: Angola
+    ce: Ангола
+    ceb: Angola
+    chr: ᎠᏂᎪᎳ
+    ckb: ئەنگۆلا
+    co: Angola
+    crh: Angola
+    crh-latn: Angola
+    cs: Angola
+    csb: Angòlô
+    cv: Ангола
+    cy: Angola
+    da: Angola
+    dag: Angola
+    de: Angola
+    de-at: Angola
+    de-ch: Angola
+    din: Aŋola
+    diq: Angola
+    dsb: Angola
+    dty: एन्गोला
+    dv: އެންގޯލާ
+    ee: Angola
+    el: Ανγκόλα
+    en: Angola
+    en-ca: Angola
+    en-gb: Angola
+    en-us: Angola
+    eo: Angolo
+    es: Angola
+    et: Angola
+    eu: Angola
+    ext: Angola
+    fa: آنگولا
+    ff: Anngolaa
+    fi: Angola
+    fit: Angola
+    fo: Angola
+    fr: Angola
+    frp: Angola
+    frr: Angoola
+    fy: Angoala
+    ga: Angóla
+    gag: Angola
+    gcr: Angola
+    gd: Angòla
+    gl: Angola
+    glk: آنگؤلا
+    gn: Angola
+    gom: आंगोला
+    gpe: Angola
+    gsw: Angola
+    gu: અંગોલા
+    gur: Angola
+    guw: Angola
+    gv: Angoley
+    ha: Angola
+    hak: Angola
+    haw: ‘Anakola
+    he: אנגולה
+    hi: अंगोला
+    hif: Angola
+    hr: Angola
+    hsb: Angola
+    ht: Angola
+    hu: Angola
+    hy: Անգոլա
+    hyw: Անկոլա
+    ia: Angola
+    id: Angola
+    ie: Angola
+    ig: Angola
+    ik: Aŋkuulaq
+    ilo: Angola
+    io: Angola
+    is: Angóla
+    it: Angola
+    ja: アンゴラ
+    jam: Angguola
+    jbo: angol
+    jv: Angola
+    ka: ანგოლა
+    kaa: Angola
+    kab: Angola
+    kbp: Aŋgoola
+    kcg: Anggola
+    kea: Angola
+    kg: Ngola
+    khw: انگولا
+    ki: Angola
+    kk: Ангола
+    km: អង់កូឡា
+    kn: ಅಂಗೋಲ
+    knc: Angola
+    ko: 앙골라
+    krc: Ангола
+    ksh: Angola
+    ku: Angola
+    kw: Angola
+    ky: Ангола
+    la: Angolia
+    lad: Angola
+    lb: Angola
+    lfn: Angola
+    lg: Angola
+    li: Angola
+    lij: Angòla
+    lld: Angola
+    lmo: Angola
+    ln: Angola
+    lo: ປະເທດອັງໂກລາ
+    lrc: آنگولا
+    lt: Angola
+    ltg: Angola
+    lv: Angola
+    lzh: 安哥拉
+    map-bms: Angola
+    mdf: Ангола
+    mg: Angola
+    mhr: Ангола
+    mi: Anakora
+    min: Angola
+    mk: Ангола
+    ml: അംഗോള
+    mn: Ангол
+    mni: ꯑꯦꯟꯒꯣꯂꯥ
+    mr: अँगोला
+    mrj: Ангола
+    ms: Angola
+    mt: Angola
+    mwl: Angola
+    my: အင်ဂိုလာနိုင်ငံ
+    mzn: آنگولا
+    na: Angora
+    nah: Angola
+    nan: Angola
+    nb: Angola
+    nds: Angola
+    nds-nl: Angola
+    ne: एङ्गोला
+    new: एङ्गोला
+    nl: Angola
+    nn: Angola
+    nov: Angola
+    nqo: ߊ߲ߜ߭ߏߟߊ߫
+    nr: Angola
+    nso: Angola
+    ny: Angola
+    oc: Angòla
+    olo: Angola
+    om: Angoolaa
+    or: ଆଙ୍ଗୋଲା
+    os: Анголæ
+    pa: ਅੰਗੋਲਾ
+    pam: Angola
+    pap: Angola
+    pcm: Angola
+    pdc: Angola
+    pi: अंगोला
+    pih: Angola
+    pl: Angola
+    pms: Angòla
+    pnb: انگولا
+    ps: انګولا
+    pt: Angola
+    pt-br: Angola
+    qu: Angula
+    rm: Angola
+    rmy: Angola
+    ro: Angola
+    ru: Ангола
+    rue: Анґола
+    rup: Angola
+    rw: Angola
+    sa: अङ्गोला
+    sah: Ангола
+    sat: ᱮᱝᱜᱳᱞᱟ
+    sc: Angola
+    scn: Angola
+    sco: Angolae
+    sd: انگولا
+    se: Angola
+    sg: Angoläa
+    sgs: Anguola
+    sh: Angola
+    shi: Angula
+    shn: မိူင်းဢႅၼ်ႇၵူဝ်ႇလႃႇ
+    si: ඇන්ගෝලා
+    sk: Angola
+    sl: Angola
+    sm: Angola
+    smj: Angåvllå
+    smn: Angola
+    sms: Angola
+    sn: Angola
+    so: Angola
+    sq: Angola
+    sr: Ангола
+    sr-ec: Ангола
+    sr-el: Angola
+    ss: I-Angola
+    st: Angola
+    stq: Angola
+    su: Angola
+    sv: Angola
+    sw: Angola
+    szl: Angola
+    szy: Angola
+    ta: அங்கோலா
+    tay: Angola
+    te: అంగోలా
+    tet: Angola
+    tg: Ангола
+    th: ประเทศแองโกลา
+    ti: ኣንጎላ
+    tk: Angola
+    tl: Anggola
+    tly: Angola
+    tok: ma Ankola
+    tr: Angola
+    trv: Angola
+    ts: Angola
+    tt: Ангола
+    tum: Angola
+    tw: Angola
+    udm: Ангола
+    ug: ئانگولا
+    uk: Ангола
+    ur: انگولا
+    uz: Angola
+    vec: Angoła
+    vep: Angol
+    vi: Angola
+    vls: Angola
+    vo: Langolän
+    vro: Angola
+    war: Angola
+    wo: Angolaa
+    wuu: 安哥拉
+    xal: Анһлмудин Орн
+    xh: I-Angola
+    xmf: ანგოლა
+    yi: אנגאלא
+    yo: Àngólà
+    yue: 安哥拉
+    za: Angola
+    zea: Anhola
+    zgh: ⴰⵏⴳⵓⵍⴰ
+    zh: 安哥拉
+    zh-cn: 安哥拉
+    zh-hans: 安哥拉
+    zh-hant: 安哥拉
+    zh-hk: 安哥拉
+    zh-mo: 安哥拉
+    zh-my: 安哥拉
+    zh-sg: 安哥拉
+    zh-tw: 安哥拉
+    zu: I-Angola
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Angola
 dv_ISO4217-currency_alphabetic: AOA
@@ -400,9 +783,9 @@ dv_UNTERM_Chinese_Formal: 安哥拉共和国
 dv_UNTERM_French_Formal: la République d'Angola
 dv_UNTERM_Russian: Ангола
 dv_UNTERM_Russian_Formal: Республика Ангола
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Middle Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Middle Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 17
 dv_Sub-region: 202
@@ -428,36 +811,35 @@ dv_ISO3: AGO
 dv_has_name_de: Angola
 dv_Area-Total: 1246700
 dv_Area-Land: 1246700
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: ANG
 dv_Alcohol-l: 5.4
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 13.23
 dv_has_place_latitude: -8.8
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]"
+  - '[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Angola
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]"
+- '[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]'
+- '[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]'
 ---
-
 # [[Angola]] 
 
 For more Details, check out this Repository into this Subfolder: 

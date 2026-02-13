@@ -1,50 +1,77 @@
 ---
 aliases:
-  - P._T._Barnum
-  - Phineas Taylor Barnum
-  - Barnum
-  - Barnum,P.T.
+- Barnum
+- Barnum,P.T.
+- F. T. Barnum
+- Fineas Teylor Barnum
+- Finiass Teilors Bārnums
+- P. T. Barnum
+- P. T. 바넘
+- P.T. Barnum
+- P._T._Barnum
+- Phineas Taylor Barnum
+- Phinees Taylor Barnum
+- P·T·巴林
+- P・T・バーナム
+- Φ. Τ. Μπάρνουμ
+- Фінеас Тейлор Барнум
+- Фінэас Тэйлар Барнэм
+- Финеас Тейлор Барнум
+- Финиъс Барнъм
+- Բարնում Թեյլոր
+- פי. טי. ברנום
+- بى تى بارنوم
+- بي تي بارنوم
+- فینس تیلور بارنوم
+- فینیاس تیلور بارنوم
+- فینیاس ټایلور بارنوم
+- ପି.ଟି. ଉଷା
+- பி. டி. பர்னம்
+- ፊንሳስ ቴይለር በርናም
+- 巴納姆
+- 菲尼亚斯·泰勒·巴纳姆
+- 菲尼亞斯·泰勒·巴納姆
 has_id_wikidata: Q223766
 Libris_URI: xv8cmm2g1wnvlbw
 name_in_native_language: Phineas Barnum
 birth_name: Phineas Taylor Barnum.
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~showman,355242]]'
-  - '[[_Standards/WikiData/WD~circus_performer,17307272]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~showman,355242]]'
+- '[[_Standards/WikiData/WD~circus_performer,17307272]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bethel,263912]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Phineas,3090424]]'
-  - '[[_Standards/WikiData/WD~Taylor,3981665]]'
+- '[[_Standards/WikiData/WD~Phineas,3090424]]'
+- '[[_Standards/WikiData/WD~Taylor,3981665]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Joice_Heth,4413239]]'
-  - '[[_Standards/WikiData/WD~waterfall,34038]]'
+- '[[_Standards/WikiData/WD~Joice_Heth,4413239]]'
+- '[[_Standards/WikiData/WD~waterfall,34038]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_burial: '[[_Standards/WikiData/WD~Mountain_Grove_Cemetery,6924965]]'
 archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
 social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Mayor_of_Bridgeport,_Connecticut,11722685]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_Connecticut_House_of_Representatives,18763331]]'
+- '[[_Standards/WikiData/WD~Mayor_of_Bridgeport,_Connecticut,11722685]]'
+- '[[_Standards/WikiData/WD~Member_of_the_Connecticut_House_of_Representatives,18763331]]'
 family_name: '[[_Standards/WikiData/WD~Barnum,28649126]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Nancy_Fish,64027451]]'
-  - '[[_Standards/WikiData/WD~Charity_Hallett,109320562]]'
+- '[[_Standards/WikiData/WD~Nancy_Fish,64027451]]'
+- '[[_Standards/WikiData/WD~Charity_Hallett,109320562]]'
 father: '[[_Standards/WikiData/WD~Philo_Barnum,100947757]]'
 mother: '[[_Standards/WikiData/WD~Irene_Taylor,100947900]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
@@ -53,8 +80,8 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
-  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_death: '[[_Standards/WikiData/WD~Bridgeport,49174]]'
@@ -64,8 +91,110 @@ date_of_birth: 1810-07-05T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/P.%20T.%20Barnum%20-%2002176a%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/PT%20Barnum%20Signature.svg
 ISNI: 0000000110351945
+dv_has_:
+  name_:
+    af: P. T. Barnum
+    am: ፊንሳስ ቴይለር በርናም
+    an: P. T. Barnum
+    ang: Phineas Taylor Barnum
+    ar: بي تي بارنوم
+    arz: بى تى بارنوم
+    ast: Phineas Taylor Barnum
+    az: Fineas Teylor Barnum
+    azb: فینیاس تیلور بارنوم
+    bar: Phineas Taylor Barnum
+    bcl: P. T. Barnum
+    be-tarask: Фінэас Тэйлар Барнэм
+    bg: Финиъс Барнъм
+    bi: P. T. Barnum
+    br: Phineas Taylor Barnum
+    bs: P. T. Barnum
+    ca: P. T. Barnum
+    ceb: P. T. Barnum
+    co: Phineas Taylor Barnum
+    cs: Phineas Taylor Barnum
+    cy: P. T. Barnum
+    da: P. T. Barnum
+    de: P. T. Barnum
+    de-ch: P. T. Barnum
+    el: Φ. Τ. Μπάρνουμ
+    en: P. T. Barnum
+    en-ca: P. T. Barnum
+    en-gb: P. T. Barnum
+    eo: P. T. Barnum
+    es: P. T. Barnum
+    et: P. T. Barnum
+    eu: P. T. Barnum
+    ext: P. T. Barnum
+    fa: فینس تیلور بارنوم
+    fi: P. T. Barnum
+    fr: Phineas Taylor Barnum
+    fy: P. T. Barnum
+    ga: P. T. Barnum
+    gd: P. T. Barnum
+    gl: P. T. Barnum
+    gsw: Phineas Taylor Barnum
+    he: פי. טי. ברנום
+    hr: P. T. Barnum
+    hu: P. T. Barnum
+    hy: Բարնում Թեյլոր
+    id: P. T. Barnum
+    ie: P. T. Barnum
+    ilo: P. T. Barnum
+    io: P. T. Barnum
+    is: P. T. Barnum
+    it: Phineas Taylor Barnum
+    ja: P・T・バーナム
+    ko: P. T. 바넘
+    la: Phinees Taylor Barnum
+    lb: P. T. Barnum
+    lmo: P. T. Barnum
+    lt: P. T. Barnum
+    lv: Finiass Teilors Bārnums
+    mg: P. T. Barnum
+    ms: P. T. Barnum
+    mul: P. T. Barnum
+    nan: P. T. Barnum
+    nb: P.T. Barnum
+    nl: Phineas Taylor Barnum
+    nn: P. T. Barnum
+    oc: P. T. Barnum
+    or: ପି.ଟି. ଉଷା
+    pap: P. T. Barnum
+    pl: P.T. Barnum
+    pms: P. T. Barnum
+    ps: فینیاس ټایلور بارنوم
+    pt: P. T. Barnum
+    pt-br: P. T. Barnum
+    ro: Phineas Taylor Barnum
+    ru: Финеас Тейлор Барнум
+    scn: Phineas Taylor Barnum
+    sco: P. T. Barnum
+    sh: P. T. Barnum
+    sl: P. T. Barnum
+    sq: P. T. Barnum
+    sr: F. T. Barnum
+    sv: P.T. Barnum
+    sw: P. T. Barnum
+    ta: பி. டி. பர்னம்
+    tl: P. T. Barnum
+    tr: P. T. Barnum
+    uk: Фінеас Тейлор Барнум
+    vec: Phineas Taylor Barnum
+    vi: P. T. Barnum
+    vo: P. T. Barnum
+    war: P. T. Barnum
+    wuu: 菲尼亚斯·泰勒·巴纳姆
+    yo: P. T. Barnum
+    yue: 巴納姆
+    zh: 菲尼亚斯·泰勒·巴纳姆
+    zh-cn: 菲尼亚斯·泰勒·巴纳姆
+    zh-hans: 菲尼亚斯·泰勒·巴纳姆
+    zh-hant: 菲尼亞斯·泰勒·巴納姆
+    zh-hk: P·T·巴林
+    zh-sg: 菲尼亚斯·泰勒·巴纳姆
+    zh-tw: 菲尼亞斯·泰勒·巴納姆
 ---
-
 # [[Barnum,P.T.]] 
 
 #is_/same_as :: [[WD~P._T._Barnum,223766]] 

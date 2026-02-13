@@ -1,44 +1,163 @@
 ---
 aliases:
-  - Pashto
-  - Lang-pus
+- an Phaistis
+- Bahasa Pashto
+- bahasa Pashtun
+- Basa Pastun
+- Fiteny pastô
+- Gjuha pashto
+- Gŏdka pasztŏ
+- isi-Pashto
+- język paszto
+- Lang-pus
+- Lenga Pashto sentral
+- Lengaz pashtu
+- Lengua Pashtu
+- limba paștună
+- Lingua pastun
+- lingua Pathanensis
+- Lingua paxta
+- pachto
+- pachtoueg
+- Pactu
+- Pagsasao a Pashto
+- paixtu
+- Pajtunapük
+- Paschtu
+- Paschtunische Sproch
+- Pashtgbe
+- Pashto
+- Pashto bhasa
+- Pashto leid
+- Pashto-gí
+- Pashto-linguo
+- Pashtomiutut
+- pashtu
+- Pashtu simi
+- Pasjtoe
+- pastu
+- pastó
+- pastún
+- paxtu
+- Paxtun
+- paxtunera
+- paŝtuna lingvo
+- Paşto tili
+- paštogiella
+- paštu
+- paštukielâ
+- paštunski jezici
+- Paštunski jezik
+- paštunščina
+- paštuǩiõll
+- paštčina
+- paštština
+- Peştu dili
+- Peştuca
+- Peştuki
+- Phú-sṳ̍p-thok-ngî
+- Pinastun
+- Pushtu tili
+- Puştu dili
+- Puštu
+- puštu keel
+- puštūnų kalba
+- Pəšto zyvon
+- Reo Pashto
+- tiếng Pashtun
+- toki Pato
+- Vah Pashtun
+- Wikang Pastun
+- Zimanê peşto
+- Èdè Pashtó
+- Παστού
+- Афган бызшәа
+- пашту
+- Паштунски јазик
+- паштунски језик
+- Пушту
+- Пушту тілі
+- пушту теле
+- Пушту хэл
+- Пуштубзэ
+- Пущунски език
+- Փաշտու
+- פשטו
+- افغانى
+- البشتوية
+- زبان پشتو
+- زمانی پەشتۆ
+- زون پشتو
+- پاشتو
+- پاشتوچە
+- پستوٗ زَبان
+- پشتو
+- پشتو دیلی
+- پشتو زبان
+- پشتو ٻولي
+- پشتۊ زوان
+- پښتو
+- पश्तो
+- पश्तो भाषा
+- पश्तोभाषा
+- पस्तो भाषा
+- পশতু ভাষা
+- ਪਸ਼ਤੋ
+- પશ્તો
+- ପାସ୍ତୋ
+- பஷ்தூ மொழி
+- പഷ്തു
+- ภาษาปาทาน
+- ປາຊໂຕ
+- ပါရှတို
+- პუშტუ
+- ፐሽቶ
+- ፓሽቶ
+- ភាសាប៉ាស្តូ
+- ᱯᱟᱥᱛᱚ
+- パシュトー語
+- 普什图语
+- 普什圖文
+- 普什圖語
+- ꠙꠡꠔꠥ
+- 파슈토어
 has_id_wikidata: Q58680
 tags:
-  - Lang/ps
+- Lang/ps
 type: Lang
 instance_of:
-  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 country:
-  - '[[_Standards/WikiData/WD~Balochistan,163239]]'
-  - '[[_Standards/WikiData/WD~India,668]]'
-  - '[[_Standards/WikiData/WD~Iran,794]]'
-  - '[[_Standards/WikiData/WD~Pakistan,843]]'
-  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Balochistan,163239]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 linguistic_typology:
-  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
-  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 ethnic_group:
-  - '[[_Standards/WikiData/WD~Burusho_people,367765]]'
-  - '[[_Standards/WikiData/WD~Nuristani_people,737671]]'
-  - '[[_Standards/WikiData/WD~Kalash_people,845748]]'
-  - '[[_Standards/WikiData/WD~Pashtuns,2556103]]'
+- '[[_Standards/WikiData/WD~Burusho_people,367765]]'
+- '[[_Standards/WikiData/WD~Nuristani_people,737671]]'
+- '[[_Standards/WikiData/WD~Kalash_people,845748]]'
+- '[[_Standards/WikiData/WD~Pashtuns,2556103]]'
 subclass_of: '[[_Standards/WikiData/WD~Eastern_Iranian,391015]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
-  - '[[_Standards/WikiData/WD~Arabic_alphabet,8196]]'
+- '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
+- '[[_Standards/WikiData/WD~Arabic_alphabet,8196]]'
 UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q101517221,101517221]]'
 number_of_speakers_writers_or_signers: 39000000
@@ -64,12 +183,172 @@ Glottolog_code: pash1269
 GitHub_topic: pashto
 Commons_category: Pashto language
 entry_in_abbreviations_table:
-  - Psht.
-  - अफ़॰
+- Psht.
+- अफ़॰
 GOST_7_75_97_code: пуш 550
 native_label: پښتو ژبه
+dv_has_:
+  name_:
+    ab: Афган бызшәа
+    af: Pasjtoe
+    am: ፐሽቶ
+    anp: पश्तो
+    ar: البشتوية
+    ary: پاشتو
+    arz: افغانى
+    as: পশতু ভাষা
+    ast: paxtu
+    az: Puştu dili
+    azb: پشتو دیلی
+    ba: Пушту теле
+    bar: Paschtunische Sproch
+    be: пушту
+    be-tarask: пушту
+    bg: Пущунски език
+    bn: পশতু ভাষা
+    br: pachtoueg
+    bs: paštunski jezik
+    ca: paixtu
+    ceb: Pinastun
+    ckb: زمانی پەشتۆ
+    crh: Paşto tili
+    cs: paštština
+    cv: Пушту
+    cy: Pashto
+    da: Pashto
+    de: Paschtu
+    diq: Peştuki
+    ee: Pashtgbe
+    el: Παστού
+    en: Pashto
+    en-ca: Pashto
+    en-gb: Pashto
+    eo: paŝtuna lingvo
+    es: pastún
+    et: puštu keel
+    eu: paxtunera
+    fa: زبان پشتو
+    fi: paštu
+    fr: pachto
+    frr: Paschtu
+    ga: an Phaistis
+    gag: Peştu dili
+    gl: Lingua paxta
+    glk: پشتۊ زوان
+    gu: પશ્તો
+    hak: Phú-sṳ̍p-thok-ngî
+    he: פשטו
+    hi: पश्तो भाषा
+    hif: Pashto bhasa
+    hr: paštunski jezici
+    hu: pastu
+    hy: Փաշտու
+    ia: Lingua pastun
+    id: bahasa Pashtun
+    ilo: Pagsasao a Pashto
+    io: Pashto-linguo
+    is: Pashto
+    it: pashtu
+    ja: パシュトー語
+    ka: პუშტუ
+    kab: Pactu
+    kbd: Пуштубзэ
+    kge: Bahasa Pashto
+    kk: Пушту тілі
+    kl: Pashtomiutut
+    km: ភាសាប៉ាស្តូ
+    ko: 파슈토어
+    krj: Pinastun
+    ks: پستوٗ زَبان
+    ku: Zimanê peşto
+    kv: Пушту
+    ky: Пушту
+    la: lingua Pathanensis
+    lb: Pashtu
+    lij: Lengua Pashtu
+    lld: Lengaz pashtu
+    lmo: Lengua pashtu
+    lo: ປາຊໂຕ
+    lrc: زون پشتو
+    lt: puštūnų kalba
+    lv: puštu
+    mag: पश्तोभाषा
+    mai: पश्तो भाषा
+    mg: Fiteny pastô
+    mi: Reo Pashto
+    mk: Паштунски јазик
+    ml: പഷ്തു
+    mn: Пушту хэл
+    mr: पश्तो भाषा
+    ms: bahasa Pashto
+    mt: Paxtun
+    my: ပါရှတို
+    mzn: پشتو
+    nan: Pashto-gí
+    nb: pashto
+    ne: पस्तो भाषा
+    new: पश्तो भाषा
+    nl: Pasjtoe
+    nn: pashto
+    oc: Pashto
+    or: ପାସ୍ତୋ
+    os: Пушту
+    pa: ਪਸ਼ਤੋ
+    pl: język paszto
+    pms: Lenga Pashto sentral
+    pnb: پشتو
+    ps: پښتو
+    pt: pastó
+    pt-br: pastó
+    qu: Pashtu simi
+    ro: limba paștună
+    ru: пушту
+    rue: Пушту
+    sat: ᱯᱟᱥᱛᱚ
+    sco: Pashto leid
+    sd: پشتو ٻولي
+    se: paštogiella
+    sh: Paštunski jezik
+    sk: paštčina
+    skr: پشتو زبان
+    sl: paštunščina
+    smn: paštukielâ
+    sms: paštuǩiõll
+    sq: Gjuha pashto
+    sr: паштунски језик
+    su: Basa Pastun
+    sv: pashto
+    syl: ꠙꠡꠔꠥ
+    szl: Gŏdka pasztŏ
+    ta: பஷ்தூ மொழி
+    tg: пашту
+    th: ภาษาปาทาน
+    ti: ፓሽቶ
+    tk: Puştu dili
+    tl: Wikang Pastun
+    tly: Pəšto zyvon
+    tok: toki Pato
+    tr: Peştuca
+    tt: пушту теле
+    ug: پاشتوچە
+    uk: пушту
+    ur: پشتو
+    uz: Pushtu tili
+    vec: pashtu
+    vep: Puštu
+    vi: tiếng Pashtun
+    vo: Pajtunapük
+    wuu: 普什图语
+    xmf: პუშტუ
+    yo: Èdè Pashtó
+    yue: 普什圖文
+    za: Vah Pashtun
+    zh: 普什圖語
+    zh-cn: 普什图语
+    zh-hans: 普什图语
+    zh-hant: 普什圖語
+    zu: isi-Pashto
 ---
-
 # [[Lang-pus]] 
 
 [SpocWebEntityId:: 455 ]

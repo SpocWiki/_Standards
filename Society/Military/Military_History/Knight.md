@@ -1,45 +1,230 @@
 ---
 aliases:
-  - Ritter
-  - Knight
-  - chevalier
+- bruņinieks
+- cabaleiro
+- caballero
+- caballeru
+- cavaleiro
+- Cavaler
+- Cavaleri
+- cavalier
+- cavaliere
+- cavaliero
+- cavalièr
+- cavaller
+- chevalier
+- chevalier ou chevalière
+- cəngavər
+- Eques
+- hiệp sĩ
+- Kabalyero
+- Kalorësi
+- Kavaliero
+- kavaliro
+- kavallier
+- kesateria
+- knicht
+- Knight
+- Kvalier
+- lovag
+- marc'heg
+- marchog
+- Qùevalyî
+- Reejerey
+- riddar
+- riddare
+- Riddari
+- ridder
+- ridire
+- ritari
+- riteris
+- Ritsarlar
+- Ritter
+- rycerz
+- Rytier
+- rytíř
+- ryćer
+- Rüütel
+- Vitez
+- zaldun
+- Şovalye
+- Şövalye
+- ιππότης
+- Арыцар
+- Витез
+- Империалық рыцарьлар
+- лицар
+- Ритсар
+- ритсер
+- Рицар
+- рыцар
+- рыцарь
+- Хотыхдар
+- ասպետ
+- אביר
+- سوارچاک
+- شوالیه
+- شہہ سوار
+- شۆڤالیە
+- فارس
+- नाइट
+- নাইট
+- வீரத்திருத்தகை
+- ಅಶ್ವಾರೋಹಿ ಸೈನಿಕ
+- อัศวิน
+- რაინდი
+- អស្សឬទ្ធិ
+- 騎士
+- 骑士
+- 기사
 has_id_wikidata: Q102083
-honorific_prefix: "[[_Standards/WikiData/WD~Sir,209690]]"
+honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~military_rank,56019]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~chivalry,1056721]]"
-subclass_of: "[[_Standards/WikiData/WD~warrior,1250916]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~knight,2261440]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59576034,59576034]]"
-OmegaWiki_Defined_Meaning: "459910"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~chivalry,1056721]]'
+subclass_of: '[[_Standards/WikiData/WD~warrior,1250916]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~knight,2261440]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576034,59576034]]'
+OmegaWiki_Defined_Meaning: 459910
 Commons_category: Knights
 IMDb_keyword: knight
 male_form_of_label:
-  - cavaliere
-  - فارس
-  - riteris
+- cavaliere
+- فارس
+- riteris
 female_form_of_label:
-  - Ritterin
-  - فارسة
-  - caballera
-  - cavalleressa
-  - chevalière
-  - cavaliera
-  - riterė
+- Ritterin
+- فارسة
+- caballera
+- cavalleressa
+- chevalière
+- cavaliera
+- riterė
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Miniatura%20dei%20Carmina%20regia%2002.jpg
 Iconclass_notation: 46A124
-Dewey_Decimal_Classification: "394.7"
+Dewey_Decimal_Classification: 394.7
+dv_has_:
+  name_:
+    ab: Арыцар
+    af: Ridder
+    ar: فارس
+    arz: فارس
+    ast: caballeru
+    az: cəngavər
+    be: рыцар
+    be-tarask: рыцар
+    bg: Рицар
+    bn: নাইট
+    br: marc'heg
+    bs: Vitez
+    ca: cavaller
+    ceb: Kabalyero
+    ckb: سوارچاک
+    cs: rytíř
+    cy: marchog
+    da: ridder
+    de: Ritter
+    de-ch: Ritter
+    el: ιππότης
+    en: knight
+    en-ca: Knight
+    en-gb: knight
+    eo: kavaliro
+    es: caballero
+    et: Rüütel
+    eu: zaldun
+    fa: شوالیه
+    fi: ritari
+    fr: chevalier ou chevalière
+    fy: ridder
+    ga: ridire
+    gl: cabaleiro
+    gsw: Ritter
+    gv: Reejerey
+    he: אביר
+    hi: नाइट
+    hr: Vitez
+    hsb: ryćer
+    hu: lovag
+    hy: ասպետ
+    id: knight
+    inh: Рыцарь
+    io: Kavaliero
+    is: Riddari
+    it: cavaliere
+    ja: 騎士
+    ka: რაინდი
+    kk: Империалық рыцарьлар
+    km: អស្សឬទ្ធិ
+    kn: ಅಶ್ವಾರೋಹಿ ಸೈನಿಕ
+    ko: 기사
+    ku: Şovalye
+    ku-arab: شۆڤالیە
+    ku-latn: Şovalye
+    ky: Рыцарь
+    la: Eques
+    lb: Ritter
+    lmo: cavaller
+    lt: riteris
+    lv: bruņinieks
+    mk: витез
+    ms: kesateria
+    mt: kavallier
+    nb: ridder
+    nds: Ridder
+    nl: ridder
+    nn: riddar
+    nrm: Qùevalyî
+    oc: cavalièr
+    os: Хотыхдар
+    pcd: Kvalier
+    pl: rycerz
+    pms: cavalier
+    pt: cavaleiro
+    pt-br: cavaleiro
+    ro: Cavaler
+    ru: рыцарь
+    scn: Cavaleri
+    sco: knicht
+    sh: Vitez
+    sk: Rytier
+    sl: vitez
+    sq: Kalorësi
+    sr: витез
+    sr-ec: Витез
+    sr-el: Vitez
+    sv: riddare
+    ta: வீரத்திருத்தகை
+    tg: Ритсар
+    th: อัศวิน
+    tl: Kabalyero
+    tr: Şövalye
+    tt: ритсер
+    uk: лицар
+    ur: شہہ سوار
+    uz: Ritsarlar
+    vec: cavaliero
+    vi: hiệp sĩ
+    war: Kabalyero
+    wuu: 骑士
+    yue: 騎士
+    zh: 骑士
+    zh-cn: 骑士
+    zh-hans: 骑士
+    zh-hant: 騎士
+    zh-hk: 騎士
+    zh-sg: 骑士
+    zh-tw: 騎士
 ---
-
 # [[Knight]] 
 
 #is_/same_as :: [[WD~Knight,102083]] 

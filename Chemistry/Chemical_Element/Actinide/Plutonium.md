@@ -1,23 +1,99 @@
 ---
 aliases:
-  - Plutonium
+- ImPulu
+- jinmrplutoni
+- Mictlāntēuctepoztli
+- Plitonyòm
+- Plutoanium
+- pluton
+- Plutoni
+- Plutonii
+- plutonij
+- plutonijs
+- Plutonijum
+- plutonin
+- plutonio
+- Plutoniom
+- plutonis
+- plutoniu
+- Plutonium
+- Plutoniy
+- plutonju
+- Plutonnio
+- Plutonyo
+- Plutonyu
+- plutoonium
+- Plutòni
+- Plutòniu
+- plutónio
+- plutónium
+- plutônio
+- Plwtoniwm
+- Plùtòníọ̀m
+- plútóiniam
+- plútóníum
+- plütonyum
+- Plʊtɔnɩyɔm
+- πλουτώνιο
+- плутоній
+- плутони
+- плутонијум
+- Плутоний
+- плутониум
+- плютон
+- պլուտոնիում
+- פלוטאניום
+- פלוטוניום
+- بلوتونيوم
+- پلوتونىي
+- پلوتونيم
+- پلوتونيوم
+- پلوتونیم
+- پلوتونیوم
+- پلووتۆنیۆم
+- پلوٹونیئم
+- پلوٹونیم
+- پلوٽونيم
+- प्लुटोनियम
+- प्लूटोनियम
+- प्लोटोनियम
+- প্লুটোনিয়াম
+- ਪਲੂਟੋਨੀਅਮ
+- પ્લુટોનીયમ
+- ପ୍ଲୁଟୋନିଅମ
+- புளுட்டோனியம்
+- ప్లూటోనియం
+- ಪ್ಲುಟೋನಿಯಮ್
+- പ്ലൂട്ടോണിയം
+- พลูโทเนียม
+- ཕུ་ལུ་ཊོ་ནིམ།
+- ပလူတိုနီယမ်
+- პლუტონიუმი
+- ፕሉቶኒየም
+- ᏡᏙᏂᎥᎻ
+- プルトニウム
+- 鈈
+- 鈽
+- 钚
+- 플루토늄
+- 플루토니움
 has_id_wikidata: Q1102
 atomic_number: 94
-canonical_SMILES: "[Pu]"
+canonical_SMILES: '[Pu]'
 CAS_Registry_Number: 7440-07-5
 chemical_formula: Pu
 Commons_category: Plutonium
 Commons_gallery: Plutonium
 Common_Procurement_Vocabulary_code: 9342000
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification:
-  - 546.434
-  - 669.2934
+- 546.434
+- 669.2934
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Arthur_Wahl,472997]]"
-  - "[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]"
-  - "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
-  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+- '[[_Standards/WikiData/WD~Arthur_Wahl,472997]]'
+- '[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID2047646
 EC_number: 231-117-7
 electronegativity: 1.28
@@ -26,39 +102,207 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Plutonium%20ring.jpg
 InChI: InChI=1S/Pu
 InChIKey: OYEHPCDNVJXUIW-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1
-  - 0.71
-  - 0.74
-  - 0.86
+- 1
+- 0.71
+- 0.74
+- 0.86
 MeSH_tree_code:
-  - D01.268.271.100.700
-  - D01.268.556.700
-  - D01.496.749.305.100.700
-  - D01.552.020.734
-  - D01.552.544.700
-named_after: "[[_Standards/WikiData/WD~Pluto,152262]]"
+- D01.268.271.100.700
+- D01.268.556.700
+- D01.496.749.305.100.700
+- D01.552.020.734
+- D01.552.544.700
+named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
 OmegaWiki_Defined_Meaning: 2844
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20147.jpg
 PubChem_CID: 23940
 SpocWebEntityId: 21989
 time_of_discovery_or_invention: 1941
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]'
 type: Element
 UMLS_CUI: C0032259
 Unicode_character: 鈽
 UNII: 53023GN24M
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Plutonium
-    de: Plutonium
     abbreviated: Pu
+    af: Plutonium
+    am: ፕሉቶኒየም
+    an: Plutonio
+    anp: प्लोटोनियम
+    ar: بلوتونيوم
+    ary: پلوتونيوم
+    arz: بلوتونيوم
+    ast: plutoniu
+    az: plutonium
+    azb: پلوتونیوم
+    ba: Плутоний
+    ban: Plutonium
+    be: плутоній
+    be-tarask: плютон
+    bg: плутоний
+    bho: प्लुटोनियम
+    bjn: Plutonium
+    bn: প্লুটোনিয়াম
+    bo: ཕུ་ལུ་ཊོ་ནིམ།
+    br: Plutoniom
+    bs: plutonij
+    ca: plutoni
+    cdo: Plutonium
+    ceb: Plutonyo
+    chr: ᏡᏙᏂᎥᎻ
+    ckb: پلووتۆنیۆم
+    co: Plutoniu
+    cs: plutonium
+    cv: Плутони
+    cy: Plwtoniwm
+    da: plutonium
+    de: Plutonium
+    de-ch: Plutonium
+    el: πλουτώνιο
+    en: plutonium
+    en-ca: Plutonium
+    en-gb: plutonium
+    eo: plutonio
+    es: plutonio
+    et: plutoonium
+    eu: plutonio
+    fa: پلوتونیم
+    fi: plutonium
+    fo: Plutonium
+    fr: plutonium
+    frr: Plutoonium
+    fy: Plutoanium
+    ga: plútóiniam
+    gd: Plutonium
+    gl: Plutonio
+    group: Actinide-Group
+    gsw: Plutonium
+    gu: પ્લુટોનીયમ
+    gv: plutonium
+    hak: plutonium
+    he: פלוטוניום
+    hi: प्लूटोनियम
+    hif: Plutonium
+    hr: plutonij
+    ht: Plitonyòm
+    hu: plutónium
+    hy: պլուտոնիում
+    ia: plutonium
+    id: plutonium
+    io: plutonio
+    is: plútóníum
+    it: plutonio
+    ja: プルトニウム
+    jbo: jinmrplutoni
+    jv: Plutonium
+    ka: პლუტონიუმი
+    kbp: Plʊtɔnɩyɔm
+    kk: плутоний
+    kn: ಪ್ಲುಟೋನಿಯಮ್
+    ko: 플루토늄
+    ko-kp: 플루토니움
+    kv: Плутоний
+    kw: Plutoniom
+    ky: Плутоний
+    la: plutonium
+    lb: Plutonium
+    lfn: plutonio
+    li: Plutonium
+    lij: Plutonnio
+    lmo: Plutonio
+    lt: plutonis
+    lv: plutonijs
+    lzh: 鈽
+    mk: плутониум
+    ml: പ്ലൂട്ടോണിയം
+    mn: плутони
+    mr: प्लुटोनियम
+    mrj: Плутоний
+    ms: Plutonium
+    mt: plutonju
+    my: ပလူတိုနီယမ်
+    nah: Mictlāntēuctepoztli
+    nan: Plutonium
+    nb: plutonium
+    nds: Plutonium
+    ne: प्लुटोनियम
+    new: प्लुटोनियम
+    nl: plutonium
+    nn: plutonium
+    nov: Plutonium
+    oc: plutonium
+    olo: Plutonii
+    or: ପ୍ଲୁଟୋନିଅମ
+    os: плутоний
+    pa: ਪਲੂਟੋਨੀਅਮ
+    pi: प्लुटोनियम
+    pl: pluton
+    pms: Plutòni
+    pnb: پلوٹونیم
+    ps: پلوتونيم
+    pt: plutónio
+    pt-br: plutônio
+    qu: Plutonyu
+    ro: plutoniu
+    ru: плутоний
+    rup: Plutoniu
+    sa: प्लुटोनियम
+    sah: Плутониум
+    sc: Plutòniu
+    scn: plutoniu
+    sd: پلوٽونيم
+    se: plutonium
+    sh: Plutonijum
+    sk: plutónium
+    sl: plutonij
+    smn: plutonium
+    sms: plutonium
+    sq: Plutoni
+    sr: плутонијум
+    stq: Plutonium
+    sv: plutonium
+    sw: Plutoni
+    ta: புளுட்டோனியம்
+    te: ప్లూటోనియం
+    tg: Плутоний
+    th: พลูโทเนียม
+    tl: Plutonyo
+    tr: plütonyum
+    tt: Плутоний
+    ug: پلوتونىي
+    uk: плутоній
+    ur: پلوٹونیئم
+    uz: Plutoniy
+    vep: Plutonii
+    vi: plutoni
+    vo: plutonin
+    war: Plutonyo
+    wuu: 钚
+    xal: Плутониум
+    yi: פלוטאניום
+    yo: Plùtòníọ̀m
+    yue: 鈈
+    zh: 鈈
+    zh-cn: 钚
+    zh-hans: 钚
+    zh-hant: 鈽
+    zh-hk: 鈈
+    zh-mo: 鈈
+    zh-my: 钚
+    zh-sg: 钚
+    zh-tw: 鈽
+    zu: ImPulu
+  number_of_:
+    period: 7
+    group: 28
+    electrons: 94
   value_for_:
     weight_:
       u: 242
@@ -86,21 +330,17 @@ dv_has_:
       form_:
         kj_:
           mol: 344
-  number_of_:
-    period: 7
-    group: 28
-    electrons: 94
-dv_Group: "[[../Actinide]]"
+dv_Group: '[[../Actinide]]'
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Plutonium,1102]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Plutonium.protect|Plutonium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private|Plutonium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]"
+  - '[[../../../WikiData/WD~Plutonium,1102]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Plutonium.protect|Plutonium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private|Plutonium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]'
 dv_has_name_group: Actinide-Group
 dv_has_name_en: Plutonium
 dv_has_name_de: Plutonium
@@ -122,16 +362,15 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 28
 dv_has_number_of_electrons: 94
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Plutonium,1102]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Plutonium.protect|Plutonium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private|Plutonium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]"
+- '[[../../../WikiData/WD~Plutonium,1102]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Plutonium.protect|Plutonium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private|Plutonium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]'
 ---
-
 # [[Plutonium]] 
 
 #chemic/Element 

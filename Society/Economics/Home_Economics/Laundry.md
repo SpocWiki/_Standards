@@ -1,23 +1,77 @@
 ---
 aliases:
-  - Laundry
-  - Laundering
+- baca'
+- Bokata
+- Bouwêye
+- bucato
+- bugada
+- Camaşırxana
+- clothes washing
+- Dobi
+- Giặt ủi
+- Golchwaith
+- Kannañ
+- klesvask
+- Laundering
+- Laundry
+- lavado de ropa
+- lavado de roupa
+- Lavo
+- lessive
+- Llaváu de ropa
+- Manting
+- mencuci
+- mosás
+- Pranie
+- pranje perila
+- praní
+- Pyykki
+- płokanje
+- Savasava (Samaki)
+- Sé-saⁿ
+- T'aqsay
+- tvätt
+- tøjvask
+- wasgoed
+- wassery
+- Wäsche
+- Çamaşırhane
+- Μπουγάδα
+- веш
+- Кір жуу
+- мыцьцё
+- перење
+- пранне
+- прання
+- стирка
+- כביסה
+- دھلائی
+- رختشویی
+- غسيل
+- वस्त्र धुलाई
+- ခဝါလုပ်ငန်း
+- ၸၢင်ႈသၵ်ႉၶူဝ်း
+- 汏衣
+- 洗濯
+- 洗衣
+- 洗衫
+- 빨래
 has_id_wikidata: Q852100
 uses:
-  - '[[_Standards/WikiData/WD~washing_machine,124441]]'
-  - '[[_Standards/WikiData/WD~laundry_detergent,910284]]'
-  - '[[_Standards/WikiData/WD~washboard,1123029]]'
-  - '[[_Standards/WikiData/WD~water_softener,25437661]]'
-  - '[[_Standards/WikiData/WD~Q108008615,108008615]]'
+- '[[_Standards/WikiData/WD~washing_machine,124441]]'
+- '[[_Standards/WikiData/WD~laundry_detergent,910284]]'
+- '[[_Standards/WikiData/WD~washboard,1123029]]'
+- '[[_Standards/WikiData/WD~water_softener,25437661]]'
+- '[[_Standards/WikiData/WD~Q108008615,108008615]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~technique,2695280]]'
-  - '[[../../../WikiData/WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~technique,2695280]]'
+- '[[../../../WikiData/WD~economic_activity,8187769]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Wäsche,2596246]]'
-  - '[[_Standards/WikiData/WD~Laundering,6498474]]'
-  - '[[_Standards/WikiData/WD~Prádlo,12047386]]'
+- '[[_Standards/WikiData/WD~Wäsche,2596246]]'
+- '[[_Standards/WikiData/WD~Laundering,6498474]]'
+- '[[_Standards/WikiData/WD~Prádlo,12047386]]'
 practiced_by: '[[_Standards/WikiData/WD~washerwoman,16624872]]'
 subclass_of: '[[_Standards/WikiData/WD~washing,23841]]'
 Iconclass_notation: 41D42
@@ -27,8 +81,71 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Madagascar%2006%20545%
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Laundry.jpg
 UMLS_CUI: C0023134
 MeSH_tree_code: J01.576.549
+dv_has_:
+  name_:
+    af: wassery
+    ar: غسيل
+    arz: غسيل
+    ast: Llaváu de ropa
+    az: Camaşırxana
+    ban: Manting
+    be: пранне
+    be-tarask: мыцьцё
+    br: Kannañ
+    ca: bugada
+    cs: praní
+    cy: Golchwaith
+    da: tøjvask
+    de: Wäsche
+    el: Μπουγάδα
+    en: laundry
+    en-us: clothes washing
+    eo: Lavo
+    es: lavado de ropa
+    eu: Bokata
+    fa: رختشویی
+    fi: Pyykki
+    fj: Savasava (Samaki)
+    fr: lessive
+    gl: lavado de roupa
+    he: כביסה
+    hi: वस्त्र धुलाई
+    hsb: płokanje
+    hu: mosás
+    id: mencuci
+    it: bucato
+    ja: 洗濯
+    kk: Кір жуу
+    ko: 빨래
+    mk: перење
+    ms: Dobi
+    my: ခဝါလုပ်ငန်း
+    nan: Sé-saⁿ
+    nb: klesvask
+    nl: wasgoed
+    nn: Klesvask
+    oc: Bugada
+    pl: pranie
+    qu: T'aqsay
+    ru: стирка
+    shn: ၸၢင်ႈသၵ်ႉၶူဝ်း
+    sk: Pranie
+    sl: pranje perila
+    sr: веш
+    sv: tvätt
+    szy: baca'
+    tr: Çamaşırhane
+    uk: прання
+    ur: دھلائی
+    vi: Giặt ủi
+    wa: Bouwêye
+    wuu: 汏衣
+    yue: 洗衫
+    zh: 洗衣
+    zh-hans: 洗衣
+    zh-hant: 洗衣
+    zh-hk: 洗衣
 ---
-
 # [[Laundry]] 
 
 #is_/same_as :: [[WD~Laundering,852100]] 

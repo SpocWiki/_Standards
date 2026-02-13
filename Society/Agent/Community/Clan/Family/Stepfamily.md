@@ -1,29 +1,136 @@
 ---
 aliases:
-  - bonus family
-  - Stepfamily
+- bonus family
+- fameja reconponesta
+- famiglia patchwork
+- familia ensamblada
+- familia privigna
+- familiaorde
+- famille recomposée
+- família recomposada
+- gia đình có con riêng
+- kasuema
+- krušna družina
+- leasteaghlach
+- lezverc'h
+- miksita familio
+- mozaikcsalád
+- nevlastní rodina
+- parentalidade socioafetiva
+- Patchworkfamilie
+- przybrana rodzina
+- ribasteye famile
+- stedfamilie
+- stefamilie
+- Stepfamily
+- stiefgezin
+- Styffamylje
+- styvfamilj
+- tam ögey qohumluq
+- tiri
+- usvajatelji
+- uusperhe
+- üvey aile
+- θετή οικογένεια
+- зведена сім'я
+- зводная сям’я
+- посвојно семејство
+- сводная семья
+- үги кыз
+- Խորթ ընտանիք
+- משפחה מורכבת
+- أسرة الربائب
+- سوتیلا خاندان
+- وۄرٕ عیال
+- साैतनि परिवार
+- सौतेला परिवार
+- সৎপরিবার
+- సవతి
+- ครอบครัวเลี้ยง
+- 繼親
+- 继亲
+- 複合家族
+- 의붓가정
 has_id_wikidata: Q927143
 instance_of:
-  - '[[_Standards/WikiData/WD~kinship,171318]]'
-  - '[[_Standards/WikiData/WD~family_structure,66363776]]'
+- '[[_Standards/WikiData/WD~kinship,171318]]'
+- '[[_Standards/WikiData/WD~family_structure,66363776]]'
 described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of: '[[_Standards/WikiData/WD~nuclear_family,720069]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~biological_parent,1502246]]'
-  - '[[_Standards/WikiData/WD~stepchild,3103421]]'
-  - '[[_Standards/WikiData/WD~stepparent,19822352]]'
-  - '[[_Standards/WikiData/WD~non_biological_parent,66363468]]'
-  - '[[_Standards/WikiData/WD~legal_parent,66363655]]'
+- '[[_Standards/WikiData/WD~biological_parent,1502246]]'
+- '[[_Standards/WikiData/WD~stepchild,3103421]]'
+- '[[_Standards/WikiData/WD~stepparent,19822352]]'
+- '[[_Standards/WikiData/WD~non_biological_parent,66363468]]'
+- '[[_Standards/WikiData/WD~legal_parent,66363655]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~stepchild,3103421]]'
-  - '[[_Standards/WikiData/WD~stepparent,19822352]]'
-  - '[[_Standards/WikiData/WD~stepsibling,28009010]]'
+- '[[_Standards/WikiData/WD~stepchild,3103421]]'
+- '[[_Standards/WikiData/WD~stepparent,19822352]]'
+- '[[_Standards/WikiData/WD~stepsibling,28009010]]'
 different_from:
-  - '[[_Standards/WikiData/WD~foster_family,20729778]]'
-  - '[[_Standards/WikiData/WD~adoptive_family,66363751]]'
+- '[[_Standards/WikiData/WD~foster_family,20729778]]'
+- '[[_Standards/WikiData/WD~adoptive_family,66363751]]'
 described_at_URL: https://www.nrc.nl/nieuws/2016/05/07/hart-open-en-relax-1615851-a1019288
+dv_has_:
+  name_:
+    ar: أسرة الربائب
+    ast: familia ensamblada
+    az: tam ögey qohumluq
+    be-tarask: зводная сям’я
+    bn: সৎপরিবার
+    br: lezverc'h
+    ca: família recomposada
+    cs: nevlastní rodina
+    da: stedfamilie
+    de: Patchworkfamilie
+    el: θετή οικογένεια
+    en: stepfamily
+    eo: miksita familio
+    es: familia ensamblada
+    et: kasuema
+    eu: familiaorde
+    fi: uusperhe
+    fr: famille recomposée
+    fy: Styffamylje
+    ga: leasteaghlach
+    gl: familia ensamblada
+    he: משפחה מורכבת
+    hi: सौतेला परिवार
+    hu: mozaikcsalád
+    hy: Խորթ ընտանիք
+    id: tiri
+    it: famiglia patchwork
+    ja: 複合家族
+    ko: 의붓가정
+    ks: وۄرٕ عیال
+    la: familia privigna
+    mk: посвојно семејство
+    nb: stefamilie
+    ne: साैतनि परिवार
+    nl: stiefgezin
+    nn: stefamilie
+    pl: przybrana rodzina
+    pt: parentalidade socioafetiva
+    ru: сводная семья
+    sl: krušna družina
+    sr: usvajatelji
+    sv: styvfamilj
+    te: సవతి
+    th: ครอบครัวเลี้ยง
+    tr: üvey aile
+    tt: үги кыз
+    tt-cyrl: үги кыз
+    uk: зведена сім'я
+    ur: سوتیلا خاندان
+    vec: fameja reconponesta
+    vi: gia đình có con riêng
+    wa: ribasteye famile
+    yue: 繼親
+    zh: 繼親
+    zh-hans: 继亲
+    zh-hant: 繼親
+    zh-hk: 繼親
 ---
-
 # [[Stepfamily]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stepfamily,927143|WD~Stepfamily,927143]]  

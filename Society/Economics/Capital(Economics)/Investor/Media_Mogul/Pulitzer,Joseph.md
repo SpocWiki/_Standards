@@ -1,28 +1,56 @@
 ---
 aliases:
-  - Joseph_Pulitzer
-  - Joseph Pulitzer
-  - Pulitzer József
-  - Pulitzer
-  - Pulitzer,Joseph
+- Cozef Pulitser
+- Džozef Pulicer
+- Džozefs Pulicers
+- Ioseph Pulitzer
+- Joseph Pulitzer
+- Joseph_Pulitzer
+- Pulitzer
+- Pulitzer József
+- Pulitzer,Joseph
+- Τζόζεφ Πούλιτζερ
+- Џозеф Пулицер
+- Джозеф Пуліцер
+- Джозеф Пулитцер
+- Джозэф Пулітцэр
+- Джоузеф Пулицър
+- Жозеф Пулитцер
+- Пулитцер Джозеф
+- Ժոզեֆ Պուլիցեր
+- ג'וזף פוליצר
+- جوزف پولیتزر
+- جوزيف بوليتزر
+- जोसेफ पुलित्जर
+- জোসেফ পুলিৎজার
+- ਜੋਸਫ ਪੁਲਿਤਜ਼ਰ
+- ஜோசேப் புலிட்சர்
+- ജോസഫ് പുലിറ്റ്സർ
+- โจเซฟ พูลิตเซอร์
+- ჯოზეფ პულიცერი
+- ジョーゼフ・ピューリツァー
+- 約瑟·普立茲
+- 約瑟夫·普立茲
+- 约瑟夫·普利策
+- 조지프 퓰리처
 has_id_wikidata: Q173417
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~publisher,2516866]]'
-  - '[[_Standards/WikiData/WD~newspaper_proprietor,24266767]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~publisher,2516866]]'
+- '[[_Standards/WikiData/WD~newspaper_proprietor,24266767]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Makó,240504]]'
 given_name: '[[_Standards/WikiData/WD~Joseph,471788]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 employer: '[[_Standards/WikiData/WD~New_York_World,1066835]]'
 owner_of: '[[_Standards/WikiData/WD~New_York_World,1066835]]'
 field_of_work: '[[_Standards/WikiData/WD~journalist,1930187]]'
@@ -31,13 +59,13 @@ sibling: '[[_Standards/WikiData/WD~Albert_Pulitzer,4711049]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 student_of: '[[_Standards/WikiData/WD~Paul_Joseph_Sachs,7151510]]'
 child:
-  - '[[_Standards/WikiData/WD~Ralph_Pulitzer,7287981]]'
-  - '[[_Standards/WikiData/WD~Joseph_Pulitzer,61940549]]'
-  - '[[_Standards/WikiData/WD~Herbert_Pulitzer,89914353]]'
-  - '[[_Standards/WikiData/WD~Edith_Pulitzer,117768562]]'
+- '[[_Standards/WikiData/WD~Ralph_Pulitzer,7287981]]'
+- '[[_Standards/WikiData/WD~Joseph_Pulitzer,61940549]]'
+- '[[_Standards/WikiData/WD~Herbert_Pulitzer,89914353]]'
+- '[[_Standards/WikiData/WD~Edith_Pulitzer,117768562]]'
 position_held:
-  - '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
-  - '[[_Standards/WikiData/WD~member_of_the_Missouri_House_of_Representatives,18131809]]'
+- '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
+- '[[_Standards/WikiData/WD~member_of_the_Missouri_House_of_Representatives,18131809]]'
 family_name: '[[_Standards/WikiData/WD~Pulitzer,37528401]]'
 father: '[[_Standards/WikiData/WD~Philip_Pulitzer,46041245]]'
 notable_work: '[[_Standards/WikiData/WD~Pulitzer_Trophy,87067614]]'
@@ -45,33 +73,126 @@ spouse: '[[_Standards/WikiData/WD~Kate_Davis,108709887]]'
 work_period_start_: 1865-01-01T00:00:00Z
 date_of_birth: 1847-04-10T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Hungarian,9067]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Jefferson_City,28180]]'
-  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Jefferson_City,28180]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
 place_of_death: '[[_Standards/WikiData/WD~Charleston,47716]]'
 Commons_category: Joseph Pulitzer
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Pulitzer%20Signature.svg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/JosephPulitzernndb.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/JosephPulitzerPinceNeznpsgov.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/JosephPulitzernndb.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/JosephPulitzerPinceNeznpsgov.jpg
 ISNI: 0000000108922622
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PULITTSER_DZHOZEF.html
 birth_name: Politzer József
 date_of_death: 1911-10-29T00:00:00Z
 work_period_end_: 1907-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Joseph Pulitzer
+    ar: جوزيف بوليتزر
+    arz: جوزيف بوليتزر
+    ast: Joseph Pulitzer
+    az: Cozef Pulitser
+    azb: جوزف پولیتزر
+    bar: Joseph Pulitzer
+    be-tarask: Джозэф Пулітцэр
+    bg: Джоузеф Пулицър
+    bn: জোসেফ পুলিৎজার
+    bs: Joseph Pulitzer
+    ca: Joseph Pulitzer
+    cs: Joseph Pulitzer
+    cv: Джозеф Пулитцер
+    cy: Joseph Pulitzer
+    da: Joseph Pulitzer
+    de: Joseph Pulitzer
+    de-ch: Joseph Pulitzer
+    diq: Joseph Pulitzer
+    el: Τζόζεφ Πούλιτζερ
+    en: Joseph Pulitzer
+    en-ca: Joseph Pulitzer
+    en-gb: Joseph Pulitzer
+    eo: Joseph Pulitzer
+    es: Joseph Pulitzer
+    et: Joseph Pulitzer
+    eu: Joseph Pulitzer
+    fa: جوزف پولیتزر
+    fi: Joseph Pulitzer
+    fr: Joseph Pulitzer
+    ga: Joseph Pulitzer
+    gl: Joseph Pulitzer
+    he: ג'וזף פוליצר
+    hi: जोसेफ पुलित्जर
+    hr: Joseph Pulitzer
+    hu: Pulitzer József
+    hy: Ժոզեֆ Պուլիցեր
+    id: Joseph Pulitzer
+    is: Joseph Pulitzer
+    it: Joseph Pulitzer
+    ja: ジョーゼフ・ピューリツァー
+    jv: Joseph Pulitzer
+    ka: ჯოზეფ პულიცერი
+    ko: 조지프 퓰리처
+    la: Ioseph Pulitzer
+    lb: Joseph Pulitzer
+    lt: Joseph Pulitzer
+    lv: Džozefs Pulicers
+    mk: Џозеф Пулицер
+    ml: ജോസഫ് പുലിറ്റ്സർ
+    mn: Жозеф Пулитцер
+    ms: Joseph Pulitzer
+    nb: Joseph Pulitzer
+    nds: Joseph Pulitzer
+    nl: Joseph Pulitzer
+    nn: Joseph Pulitzer
+    pa: ਜੋਸਫ ਪੁਲਿਤਜ਼ਰ
+    pap: Joseph Pulitzer
+    pl: Joseph Pulitzer
+    pt: Joseph Pulitzer
+    pt-br: Joseph Pulitzer
+    ro: Joseph Pulitzer
+    ru: Джозеф Пулитцер
+    sah: Пулитцер Джозеф
+    sco: Joseph Pulitzer
+    sh: Joseph Pulitzer
+    sk: Joseph Pulitzer
+    sl: Joseph Pulitzer
+    sq: Joseph Pulitzer
+    sr: Џозеф Пулицер
+    sr-ec: Џозеф Пулицер
+    sr-el: Džozef Pulicer
+    sv: Joseph Pulitzer
+    sw: Joseph Pulitzer
+    ta: ஜோசேப் புலிட்சர்
+    th: โจเซฟ พูลิตเซอร์
+    tr: Joseph Pulitzer
+    tt: Джозеф Пулитцер
+    uk: Джозеф Пуліцер
+    uz: Joseph Pulitzer
+    vi: Joseph Pulitzer
+    war: Joseph Pulitzer
+    wuu: 约瑟夫·普利策
+    yo: Joseph Pulitzer
+    yue: 約瑟·普立茲
+    zh: 約瑟夫·普立茲
+    zh-cn: 约瑟夫·普利策
+    zh-hans: 约瑟夫·普利策
+    zh-hant: 約瑟夫·普立茲
+    zh-hk: 約瑟·普立茲
+    zh-sg: 约瑟夫·普利策
+    zh-tw: 約瑟夫·普立茲
 ---
-
 # [[Pulitzer,Joseph]] 
 
 #is_/same_as :: [[WD~Joseph_Pulitzer,173417]] 

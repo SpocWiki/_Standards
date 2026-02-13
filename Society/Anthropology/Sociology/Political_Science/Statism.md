@@ -1,14 +1,132 @@
 ---
 aliases:
-  - Statismus
-  - etatism
-  - Statism
+- devletçilik
+- dövlətçilik
+- estadismo
+- estatisme
+- estatismo
+- Estatismu
+- etatism
+- etatisme
+- Etatismo
+- Etatisms
+- Etatismus
+- etatizam
+- etatizem
+- Etatizm
+- etatizmas
+- etatizmus
+- etatyzm
+- Kok-ka-chú-gī
+- Statalism
+- statalismo
+- Statism
+- statisme
+- statismo
+- Statismus
+- státachas
+- valtiojohtoisuus
+- étatisme
+- ŝtatismo
+- κρατισμός
+- давлатгароӣ
+- етатизам
+- етатизм
+- Етатизъм
+- этатизм
+- этатызм
+- מדינתנות
+- حکومت محوری
+- دؤولتچیلیک
+- سيطرة الدولة
+- राज्यवाद्
+- स्ततिस्म्
+- ರಾಜ್ಯವಧೂ
+- ეტატიზმი
+- 国家主义
+- 国家主義
+- 國家主義
+- 국가주의
 has_id_wikidata: Q322294
 opposite_of: '[[_Standards/WikiData/WD~anti_statism,646407]]'
 part_of: '[[_Standards/WikiData/WD~corporate_statism,872760]]'
 instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+dv_has_:
+  name_:
+    ar: سيطرة الدولة
+    ast: Estatismu
+    az: dövlətçilik
+    azb: دؤولتچیلیک
+    be: этатызм
+    be-tarask: этатызм
+    bg: Етатизъм
+    ca: estatisme
+    cs: etatismus
+    da: etatisme
+    de: Etatismus
+    de-ch: Etatismus
+    el: κρατισμός
+    en: statism
+    en-ca: statism
+    en-gb: statism
+    eo: ŝtatismo
+    es: estatismo
+    et: Etatism
+    eu: Estatismo
+    fa: حکومت محوری
+    fi: valtiojohtoisuus
+    fr: étatisme
+    ga: státachas
+    he: מדינתנות
+    hi: राज्यवाद्
+    hr: etatizam
+    hu: etatizmus
+    id: statisme
+    io: Etatismo
+    it: statalismo
+    ja: 国家主義
+    ka: ეტატიზმი
+    kk: Этатизм
+    kn: ರಾಜ್ಯವಧೂ
+    ko: 국가주의
+    ky: Этатизм
+    la: Statismus
+    lmo: Statalism
+    lt: etatizmas
+    lv: Etatisms
+    mk: етатизам
+    nan: Kok-ka-chú-gī
+    nb: etatisme
+    nl: Etatisme
+    pl: etatyzm
+    pt: estadismo
+    pt-br: Estadismo
+    ro: etatism
+    ru: этатизм
+    sa: स्ततिस्म्
+    sco: statism
+    sh: Etatizam
+    sk: Etatizmus
+    sl: etatizem
+    sr: етатизам
+    sr-ec: Етатизам
+    sr-el: Etatizam
+    sv: etatism
+    tg: давлатгароӣ
+    tr: devletçilik
+    tt: этатизм
+    uk: етатизм
+    uz: Etatizm
+    vec: statismo
+    yue: 國家主義
+    zh: 國家主義
+    zh-cn: 国家主义
+    zh-hans: 国家主义
+    zh-hant: 國家主義
+    zh-hk: 國家主義
+    zh-sg: 国家主义
+    zh-tw: 國家主義
 ---
-
 # [[Statism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Statism,322294|WD~Statism,322294]]  

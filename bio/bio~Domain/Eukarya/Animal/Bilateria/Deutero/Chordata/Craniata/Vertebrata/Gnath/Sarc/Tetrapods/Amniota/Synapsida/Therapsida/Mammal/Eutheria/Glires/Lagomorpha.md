@@ -1,15 +1,83 @@
 ---
 aliases:
-  - Lagomorpha
-  - Rabbit
-  - hare
-  - pika
-  - lagomorphs
-  - lagomorph
-  - خرگوش
-  - харгӯш
-  - haredyr
-  - қоянтәрізділер
+- Bộ Thỏ
+- Dovşankimilər
+- Dvojitozubce
+- Gah Danilínígíí
+- haasachtigen
+- Haasendiarten
+- Hardjur
+- hare
+- haredyr
+- Hasenartige
+- Hasenartigi
+- Hazze-eftigen
+- Hoasenoardige
+- Hoaze-achtign
+- héradýr
+- Jäneselised
+- jäniseläimet
+- Kiškiažvėriai
+- Knienechtege
+- Koneho
+- Lagomorfed
+- Lagomorfi
+- Lagomorfo
+- Lagomorfos
+- lagomorfs
+- Lagomorfu
+- Lagomorfă
+- lagomorph
+- Lagomorpha
+- lagomorphs
+- Leporuloj
+- Liboldunol (Lagomorpha)
+- nyúlalakúak
+- pika
+- Rabbit
+- Rinrisapa khankiq
+- Støttetandede
+- Tavşanımsılar
+- Tiwetlin
+- Wuchace
+- Zajacy
+- zajícovci
+- zajęczaki
+- Zaķveidīgie
+- Zec
+- Zečevi
+- Λαγόμορφα
+- Ажьаԥшрақәа
+- Двозупци
+- Зајаковидни
+- зайцападобныя
+- зайцевидни
+- зайцеобразные
+- зайцеподібні
+- Кöччез
+- Коёнсымалдар
+- Куобахтыҥылар аймахтара
+- Куянсыманнар
+- Морен ганьывлӓ
+- Мулкач евĕрлисем
+- Тæрхъусхуызтæ
+- харгӯш
+- қоянтәрізділер
+- նապաստականմաններ
+- ארנבאים
+- أرنبيات الشكل
+- ارنبيات الشكل
+- خرگوش
+- خرگوشیان
+- دوْوشانکیمیلر
+- खरहारूपी
+- ਖ਼ਰਗੋਸ਼
+- லகோமோர்பா
+- อันดับกระต่าย
+- ოთხმჭრელიანები
+- ウサギ目
+- 兔形目
+- 토끼목
 has_id_wikidata: Q25401
 title: Lagomorpha
 parent_taxon: '[[_Standards/WikiData/WD~Glires,660432]]'
@@ -19,10 +87,10 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 180105
 taxon_common_name:
-  - خرگوش
-  - харгӯш
-  - haredyr
-  - қоянтәрізділер
+- خرگوش
+- харгӯш
+- haredyr
+- қоянтәрізділер
 Commons_category: Lagomorpha
 taxon_name: Lagomorpha
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagomorpha%20range.png
@@ -31,8 +99,116 @@ EPPO_Code: 1LAGOO
 MeSH_tree_code: B01.050.150.900.649.313.968
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ZATSEOBRAZNIE.html
 NBN_System_Key: NBNSYS0000160265
+dv_has_:
+  name_:
+    ab: Ажьаԥшрақәа
+    af: Lagomorpha
+    an: Lagomorpha
+    ar: أرنبيات الشكل
+    arz: ارنبيات الشكل
+    ast: Lagomorpha
+    avk: Liboldunol (Lagomorpha)
+    az: Dovşankimilər
+    azb: دوْوشانکیمیلر
+    be: зайцападобныя
+    be-tarask: зайцападобныя
+    bg: зайцевидни
+    br: Lagomorfed
+    ca: lagomorfs
+    ceb: Koneho
+    cs: zajícovci
+    cv: Мулкач евĕрлисем
+    cy: Lagomorpha
+    da: Støttetandede
+    de: Hasenartige
+    dsb: Wuchace
+    el: Λαγόμορφα
+    en: Lagomorpha
+    eo: Leporuloj
+    es: Lagomorpha
+    et: Jäneselised
+    eu: Lagomorpha
+    ext: Lagomorpha
+    fa: خرگوشیان
+    fi: jäniseläimet
+    fr: Lagomorpha
+    frr: Haasendiarten
+    fy: Hazze-eftigen
+    ga: Lagomorpha
+    gl: Lagomorfos
+    gsw: Hasenartigi
+    he: ארנבאים
+    hi: खरहारूपी
+    hr: Zečevi
+    hsb: Zajacy
+    hu: nyúlalakúak
+    hy: նապաստականմաններ
+    ia: Lagomorpha
+    id: Lagomorpha
+    ie: Lagomorpha
+    io: Lagomorpha
+    is: héradýr
+    it: Lagomorpha
+    ja: ウサギ目
+    ka: ოთხმჭრელიანები
+    kab: Tiwetlin
+    kk: Қоянтәрізділер
+    ko: 토끼목
+    koi: Кöччез
+    ky: Коёнсымалдар
+    la: Lagomorpha
+    lfn: Lagomorfo
+    li: Knienechtege
+    lij: Lagomorpha
+    lt: Kiškiažvėriai
+    lv: Zaķveidīgie
+    mk: Зајаковидни
+    mrj: Морен ганьывлӓ
+    ms: Lagomorpha
+    mt: Lagomorfu
+    mul: Lagomorpha
+    nb: haredyr
+    nl: haasachtigen
+    nn: haredyr
+    nov: Lagomorpha
+    nv: Gah Danilínígíí
+    oc: Lagomorpha
+    os: Тæрхъусхуызтæ
+    pa: ਖ਼ਰਗੋਸ਼
+    pl: zajęczaki
+    pnb: خرگوش
+    pt: Lagomorfos
+    pt-br: Lagomorpha
+    qu: Rinrisapa khankiq
+    ro: Lagomorfă
+    ru: зайцеобразные
+    sah: Куобахтыҥылар аймахтара
+    scn: Lagomorpha
+    sco: Lagomorpha
+    sh: Zec
+    sk: Dvojitozubce
+    sl: Lagomorfi
+    sq: Lagomorpha
+    sr: Двозупци
+    stq: Hoasenoardige
+    sv: Hardjur
+    ta: லகோமோர்பா
+    th: อันดับกระต่าย
+    tl: Lagomorpha
+    tr: Tavşanımsılar
+    tt: Куянсыманнар
+    uk: зайцеподібні
+    vi: Bộ Thỏ
+    vls: Hoaze-achtign
+    vo: Lagomorpha
+    war: Lagomorpha
+    wuu: 兔形目
+    yue: 兔形目
+    zh: 兔形目
+    zh-cn: 兔形目
+    zh-hans: 兔形目
+    zh-tw: 兔形目
 ---
-
 # [[Lagomorpha]]
 
 ## Rabbits, hares, and pikas 

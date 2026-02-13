@@ -1,17 +1,74 @@
 ---
 aliases:
-  - Korrelation
-  - Correlation
+- Analisis korélasi
+- comhghaolú
+- corelație
+- corełasion
+- correlació
+- correlación
+- correlatie
+- Correlation
+- correlazione
+- correlação
+- correllación
+- corrélation
+- Dependentia (statistica)
+- hệ số tương quan
+- ine pānga
+- Koeficijent korelacije
+- korelace
+- Korelacija
+- korelacio
+- korelacja
+- Korelashon
+- Korelasi
+- korelasyon
+- Korelasyon at dependiyensiya
+- koreliacija
+- korelácia
+- korelācija
+- korrelaatio
+- Korrelacioni
+- korrelasjon
+- Korrelation
+- korrelatsioon
+- Korrelazio
+- korrelašuvdna
+- korrelyasiya
+- korreláció
+- Korélasi
+- Uhusiano (Takwimu)
+- Συσχέτιση και εξάρτηση
+- карэляцыя
+- Корелација
+- Корелация
+- кореляція
+- корреляция
+- Կոռելյացիա
+- מתאם
+- ارتباط
+- ضریب همبستگی
+- گڏيل لاڳاپو
+- कोरिलेशन
+- सहसम्बन्ध
+- সংশ্লেষ ও নির্ভরশীলতা
+- সহ-সম্বন্ধ
+- สหสัมพันธ์
+- 相关
+- 相関関係
+- 相關
+- 統計相關
+- 상관 분석
 has_id_wikidata: Q186290
 subclass_of: '[[_Standards/WikiData/WD~relation,930933]]'
 part_of:
-  - '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-  - '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~statistics,12483]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from: '[[_Standards/WikiData/WD~dependent_variable,9391534]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-  - '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 studied_by: '[[_Standards/WikiData/WD~statistics,12483]]'
 facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
@@ -19,8 +76,92 @@ Commons_category: Correlation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Correlation%20examples2.svg
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/correlation
 MeSH_tree_code: H01.548.832.500
+dv_has_:
+  name_:
+    ar: ارتباط
+    as: সহ-সম্বন্ধ
+    ast: correllación
+    az: korrelyasiya
+    be: карэляцыя
+    be-tarask: карэляцыя
+    bg: Корелация
+    bho: कोरिलेशन
+    bn: সংশ্লেষ ও নির্ভরশীলতা
+    bs: Koeficijent korelacije
+    ca: correlació
+    cs: korelace
+    da: korrelation
+    de: Korrelation
+    el: Συσχέτιση και εξάρτηση
+    en: correlation
+    eo: korelacio
+    es: correlación
+    et: korrelatsioon
+    eu: Korrelazio
+    fa: ضریب همبستگی
+    fi: korrelaatio
+    fr: corrélation
+    ga: comhghaolú
+    gl: Correlación
+    he: מתאם
+    hi: सहसम्बन्ध
+    hr: Korelacija
+    hu: korreláció
+    hy: Կոռելյացիա
+    id: Korelasi
+    it: correlazione
+    ja: 相関関係
+    jv: Analisis korélasi
+    kk: корреляция
+    ko: 상관 분석
+    ky: корреляция
+    la: Dependentia (statistica)
+    lt: koreliacija
+    lv: korelācija
+    mi: ine pānga
+    mk: Корелација
+    ms: korelasi
+    nb: korrelasjon
+    nl: correlatie
+    nn: korrelasjon
+    pap: Korelashon
+    pl: korelacja
+    pt: correlação
+    pt-br: correlação
+    ro: corelație
+    ru: корреляция
+    sd: گڏيل لاڳاپو
+    se: korrelašuvdna
+    sh: Korelacija
+    sk: korelácia
+    sl: korelacija
+    smn: korrelaatio
+    sms: korrelaatio
+    sq: Korrelacioni
+    sr: корелација
+    sr-ec: Корелација
+    sr-el: Korelacija
+    su: Korélasi
+    sv: korrelation
+    sw: Uhusiano (Takwimu)
+    th: สหสัมพันธ์
+    tl: Korelasyon at dependiyensiya
+    tr: korelasyon
+    tt: корреляция
+    uk: кореляція
+    ur: Correlation
+    vec: corełasion
+    vi: hệ số tương quan
+    wuu: 相关
+    yue: 統計相關
+    zh: 相关
+    zh-cn: 相关
+    zh-hans: 相关
+    zh-hant: 相關
+    zh-hk: 相關
+    zh-sg: 相关
+    zh-tw: 相關
 ---
-
 # [[Correlation]] 
 
 #is_/worse_than :: [[Correlation/Causality]] 

@@ -1,37 +1,184 @@
 ---
 aliases:
-  - Mormonismus
-  - Mormonism
+- La iglesia de Jesucristo de los santos de los ultimos dias
+- Maamanizam
+- Mormannachas
+- Mormon
+- Mormon neva
+- Mormon-phài
+- Mormonachd
+- Mormonai
+- Mormonarar
+- Mormonegezh
+- Mormonendum
+- Mormonentum
+- Mormoniaeth
+- Mormonism
+- Mormonisma
+- mormonisme
+- mormonismi
+- mormonismo
+- mormonisms
+- mormonismu
+- Mormonismus
+- Mormonizm
+- mormonizmus
+- Mormoniżmu
+- Mormonluk
+- Mormonska cerkev
+- Mormontî
+- Mormonët
+- Mormoonid
+- Mórmon
+- Mặc Môn giáo
+- Perintis Mormon
+- Ubumormoni
+- Μορμονισμός
+- Марманізм
+- Мармоны
+- мормонізм
+- Мормондар шіркеуі
+- Мормонизам
+- мормонизм
+- Мормонизъм
+- мормончылык
+- Мормоны шашин
+- Մորմոններ
+- הכנסייה המורמונית
+- مورمنیت
+- مورمون
+- مورمونية
+- مورمونیسم
+- مۆرمۆنی
+- मॉर्मनिझम
+- மொர்மனியம்
+- మోర్మన్ మతం
+- მორმონიზმი
+- モルモニズム
+- 摩尔门教
+- 摩爾門教
+- 摩門教
+- 摩门教
+- 모르몬교
 has_id_wikidata: Q747802
-foundational_text: "[[_Standards/WikiData/WD~Book_of_Mormon,459842]]"
-named_after: "[[_Standards/WikiData/WD~Book_of_Mormon,459842]]"
+foundational_text: '[[_Standards/WikiData/WD~Book_of_Mormon,459842]]'
+named_after: '[[_Standards/WikiData/WD~Book_of_Mormon,459842]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nontrinitarianism,584205]]"
-  - "[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]"
-  - "[[_Standards/WikiData/WD~premillennialism,1493080]]"
+- '[[_Standards/WikiData/WD~nontrinitarianism,584205]]'
+- '[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]'
+- '[[_Standards/WikiData/WD~premillennialism,1493080]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]"
-  - "[[_Standards/WikiData/WD~The_Church_of_Jesus_Christ_of_Latter_day_Saints,42504]]"
-instance_of: "[[_Standards/WikiData/WD~religious_movement,1826286]]"
+- '[[_Standards/WikiData/WD~Latter_Day_Saint_movement,1097673]]'
+- '[[_Standards/WikiData/WD~The_Church_of_Jesus_Christ_of_Latter_day_Saints,42504]]'
+instance_of: '[[_Standards/WikiData/WD~religious_movement,1826286]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Latter_Day_Saint_movement,15884919]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mormonism,100512942]]"
-founded_by: "[[_Standards/WikiData/WD~Joseph_Smith,47102]]"
+- '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Latter_Day_Saint_movement,15884919]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mormonism,100512942]]'
+founded_by: '[[_Standards/WikiData/WD~Joseph_Smith,47102]]'
 social_media_followers: 52183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salt%20Lake%20Temple%2C%20Utah%20-%20Sept%202004-2.jpg
 subreddit: latterdaysaints
 Archive_of_Our_Own_tag: Mormonism
 Commons_category: Mormonism
 OpenStreetMap_tag: denomination=mormon
+dv_has_:
+  name_:
+    an: Mormonismo
+    ar: مورمونية
+    arz: مورمون
+    ast: mormonismu
+    avk: Mormon neva
+    az: Mormonizm
+    bar: Mormonendum
+    bcl: Mormonismo
+    be: Мармоны
+    be-tarask: Марманізм
+    bg: Мормонизъм
+    br: Mormonegezh
+    ca: mormonisme
+    ckb: مۆرمۆنی
+    cs: mormonismus
+    cy: Mormoniaeth
+    da: mormonisme
+    de: Mormonentum
+    el: Μορμονισμός
+    en: Mormonism
+    en-ca: Mormonism
+    en-gb: Mormonism
+    eo: Mormonismo
+    es: La iglesia de Jesucristo de los santos de los ultimos dias
+    et: Mormoonid
+    eu: mormonismo
+    fa: مورمونیسم
+    fi: mormonismi
+    fo: Mormonarar
+    fr: mormonisme
+    ga: Mormannachas
+    gd: Mormonachd
+    gl: mormonismo
+    he: הכנסייה המורמונית
+    hr: Mormon
+    hu: mormonizmus
+    hy: Մորմոններ
+    ia: Mormonismo
+    id: Mormonisme
+    io: Mormonismo
+    it: mormonismo
+    ja: モルモニズム
+    jam: Maamanizam
+    ka: მორმონიზმი
+    kk: Мормондар шіркеуі
+    ko: 모르몬교
+    ku: Mormontî
+    la: Mormonismus
+    lad: Mormonismo
+    lfn: Mormonisme
+    lmo: Mormonism
+    lt: Mormonai
+    lv: mormonisms
+    mg: Mormonisma
+    mk: Мормонизам
+    mn: Мормоны шашин
+    mr: मॉर्मनिझम
+    ms: Perintis Mormon
+    mt: Mormoniżmu
+    nan: Mormon-phài
+    nb: mormonisme
+    nl: mormonisme
+    nn: mormonisme
+    oc: Mormonisme
+    pl: mormonizm
+    pnb: مورمنیت
+    pt: Mórmon
+    ru: мормонизм
+    sk: Mormonizmus
+    sl: Mormonska cerkev
+    sq: Mormonët
+    sr: мормонизам
+    sv: mormonism
+    ta: மொர்மனியம்
+    te: మోర్మన్ మతం
+    tr: Mormonluk
+    tt: мормончылык
+    uk: мормонізм
+    ur: مورمنیت
+    vi: Mặc Môn giáo
+    wuu: 摩门教
+    xmf: მორმონიზმი
+    yue: 摩門教
+    zh: 摩爾門教
+    zh-hans: 摩尔门教
+    zh-hant: 摩爾門教
+    zh-hk: 摩爾門教
+    zu: Ubumormoni
 ---
-
 # [[Mormonism]] 
 
 #is_/same_as :: [[WD~Mormonism,747802]] 

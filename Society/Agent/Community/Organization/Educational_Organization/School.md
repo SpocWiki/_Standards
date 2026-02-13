@@ -1,19 +1,190 @@
 ---
 aliases:
-  - school
-  - School
-  - is_a_school
-  - School: ''
+- adesua yɛbia
+- Aglagvik (ini)
+- aɣerbaz
+- a̱lifang
+- chikoro
+- ckule
+- dibistan
+- dugsi
+- escola
+- escuela
+- escòla
+- eskola
+- eskwelahan
+- Esukúlu
+- hagdangz
+- ha̍k-hāu
+- hŏk-hâu
+- ilé-ìwé
+- Ishure
+- ishuri
+- iskola
+- is_a_school
+- kelasi
+- kiskinohamatowikamikw
+- koleejia
+- kool
+- koulu
+- kuul
+- lekòl
+- lernejo
+- makaranta
+- maktab
+- mbo'ehao
+- mekdep
+- mekteb
+- mektep
+- mokykla
+- Mowonti
+- moxe'estonemaheo'o
+- muokīkla
+- mäktäp
+- məktəb
+- okul
+- paaralan
+- Pawiyatan
+- piknihaus
+- Pitilidan
+- Sakola
+- Sakola'an
+- sakulah
+- Sakuuri
+- Sapah pyasan
+- schola
+- schole
+- school
+- Schoul
+- Schuel
+- schuil
+- Schule
+- scoil
+- scol
+- scola
+- scole
+- scora
+- scoła
+- sculii
+- scuola
+- scöla
+- Sekola
+- sekolah
+- sekoly
+- Sekul
+- Sekula
+- sgoil
+- shikuru
+- shkollë
+- shule
+- sikingro'kher
+- sikul
+- sikula
+- skoalle
+- skol
+- skola
+- skole
+- skolo
+- skool
+- skoola
+- skul
+- skule
+- Skuul
+- skuvla
+- skuvle
+- skuvlla
+- skåvllå
+- skåvvlå
+- skóli
+- skúli
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- szkoła
+- szkòła
+- tinml
+- tomo sona
+- trường học
+- tulunghaan
+- yachay wasi
+- yatiña uta
+- ysgol
+- école
+- škol
+- škola
+- škooul
+- škovlâ
+- šola
+- šula
+- școală
+- διδασκαλεῖον
+- σχολείο
+- дешоле
+- еджапӏэ
+- ишкол
+- мактаб
+- мектеп
+- мәктәп
+- скъола
+- училиште
+- училище
+- школ
+- школа
+- шкул
+- Һургуули
+- դպրոց
+- בית ספר
+- שולע
+- اسکول
+- سکول
+- سکوله
+- سۆکوٗل
+- قوتابخانە
+- مدرسة
+- مدرسه
+- مدرسو
+- مكتب
+- مەكتەپ
+- ښوونځی
+- ߞߊ߬ߙߊ߲߬ߕߊ
+- इस्कूल
+- विद्यालय
+- शाळा
+- বিদ্যালয়
+- ਸਕੂਲ
+- ବିଦ୍ୟାଳୟ
+- பள்ளிக்கூடம்
+- బడి
+- ಶಾಲೆ
+- ಸಾಲೆ
+- വിദ്യാലയം
+- ඉස්කෝල
+- โรงเรียน
+- ໂຮງຮຽນ
+- སློབ་གྲྭ།
+- ကျောင်း
+- ဘာ
+- ႁူင်းႁဵၼ်း
+- სკოლა
+- መድረሰት
+- ᏗᏕᎶᏆᏍᏗ
+- ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ
+- ᱟᱥᱲᱟ
+- ụlọ akwukwọ
+- ⵜⵉⵏⵎⵍ
+- 学堂
+- 学校
+- 學校
+- ꯃꯍꯩꯀꯣꯜ
+- 학교
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - school
+- school
 layout: ''
 license: (c)copyrighted
 linkTitle:
@@ -21,10 +192,10 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - School: ''
-  - excalidraw
+- class/Class
+- schema-org/Class
+- School: ''
+- excalidraw
 title:
   School: ''
 type: private_note
@@ -36,6 +207,245 @@ has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 has_id_wikidata: Q3914
+dv_has_:
+  name_:
+    ace: sikula
+    ady: еджапӏэ
+    aeb-arab: مكتب
+    aeb-latn: maktab
+    af: skool
+    aig: piknihaus
+    ak: adesua yɛbia
+    ami: Pitilidan
+    an: escuela
+    ang: scol
+    ar: مدرسة
+    ary: مدرسة
+    arz: مدرسه
+    as: বিদ্যালয়
+    ast: escuela
+    atj: kiskinohamatowikamikw
+    ay: yatiña uta
+    az: məktəb
+    azb: مدرسه
+    ba: мәктәп
+    ban: sekolah
+    bcl: eskwelahan
+    bdr: Sekul
+    be: школа
+    be-tarask: школа
+    bew: Sekolah
+    bg: училище
+    bho: इस्कूल
+    bjn: sakulah
+    bn: বিদ্যালয়
+    bo: སློབ་གྲྭ།
+    br: skol
+    bs: škola
+    bxr: Һургуули
+    ca: escola
+    cdo: hŏk-hâu
+    ce: ишкол
+    ceb: tulunghaan
+    chr: ᏗᏕᎶᏆᏍᏗ
+    chy: moxe'estonemaheo'o
+    ckb: قوتابخانە
+    cs: škola
+    csb: szkòła
+    cv: шкул
+    cy: ysgol
+    da: skole
+    dag: shikuru
+    de: Schule
+    de-ch: Schule
+    dga: Sakuuri
+    diq: mekteb
+    dsb: šula
+    dtp: sikul
+    dua: Esukúlu
+    el: σχολείο
+    en: school
+    eo: lernejo
+    es: escuela
+    et: kool
+    eu: eskola
+    ext: escuela
+    fa: مدرسه
+    fat: Skuul
+    fi: koulu
+    fo: skúli
+    fr: école
+    fy: skoalle
+    ga: scoil
+    gd: sgoil
+    gl: escola
+    gn: mbo'ehao
+    grc: διδασκαλεῖον
+    gsw: Schuel
+    guc: koleejia
+    ha: makaranta
+    he: בית ספר
+    hi: विद्यालय
+    hr: škola
+    hsb: šula
+    ht: lekòl
+    hu: iskola
+    hy: դպրոց
+    hyw: դպրոց
+    ia: schola
+    iba: Sekula
+    id: sekolah
+    ig: ụlọ akwukwọ
+    ik: Aglagvik (ini)
+    inh: дешоле
+    io: skolo
+    is: skóli
+    it: scuola
+    iu: ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ
+    ja: 学校
+    jbo: ckule
+    jv: Pawiyatan
+    ka: სკოლა
+    kaa: mektep
+    kab: aɣerbaz
+    kcg: a̱lifang
+    kge: Sakola
+    kk: мектеп
+    kn: ಶಾಲೆ
+    knc: Mowonti
+    ko: 학교
+    ks: سۆکوٗل
+    ku: dibistan
+    ku-latn: dibistan
+    kw: skol
+    ky: мектеп
+    la: schola
+    lad: eskola
+    lb: Schoul
+    lld: scora
+    lmo: scöla
+    ln: kelasi
+    lo: ໂຮງຮຽນ
+    lt: mokykla
+    lv: skola
+    lzh: 學校
+    mad: Sakola'an
+    mai: विद्यालय
+    map-bms: sekolah
+    mg: sekoly
+    mhr: школ
+    mk: училиште
+    ml: വിദ്യാലയം
+    mni: ꯃꯍꯩꯀꯣꯜ
+    mnw: ဘာ
+    mr: शाळा
+    ms: sekolah
+    ms-arab: سکوله
+    mt: skola
+    my: ကျောင်း
+    myv: школа
+    nan: ha̍k-hāu
+    nb: skole
+    nds: School
+    ne: विद्यालय
+    nia: Sekola
+    nl: school
+    nn: skule
+    nqo: ߞߊ߬ߙߊ߲߬ߕߊ
+    oc: escòla
+    olo: škola
+    or: ବିଦ୍ୟାଳୟ
+    os: скъола
+    pa: ਸਕੂਲ
+    pap: skol
+    pap-aw: scol
+    pl: szkoła
+    pnb: سکول
+    ps: ښوونځی
+    pt: escola
+    pt-br: escola
+    qu: yachay wasi
+    rmf: skoola
+    rmy: sikingro'kher
+    rn: Ishure
+    ro: școală
+    ru: школа
+    rue: школа
+    rup: sculii
+    rw: ishuri
+    sat: ᱟᱥᱲᱟ
+    scn: scola
+    sco: schuil
+    sd: مدرسو
+    se: skuvla
+    sgs: muokīkla
+    sh: škola
+    shi: tinml
+    shn: ႁူင်းႁဵၼ်း
+    si: ඉස්කෝල
+    sje: skåvvlå
+    sju: skuvlla
+    sk: škola
+    sl: šola
+    sma: skuvle
+    smj: skåvllå
+    smn: škovlâ
+    sms: škooul
+    sn: chikoro
+    so: dugsi
+    sq: shkollë
+    sr: школа
+    sr-ec: школа
+    sr-el: škola
+    su: sakola
+    sv: skola
+    sw: shule
+    szl: szkoła
+    ta: பள்ளிக்கூடம்
+    tcy: ಸಾಲೆ
+    te: బడి
+    tg: мактаб
+    th: โรงเรียน
+    tig: መድረሰት
+    tk: mekdep
+    tl: paaralan
+    tok: tomo sona
+    tpi: skul
+    tr: okul
+    trv: Sapah pyasan
+    tt: мәктәп
+    tt-cyrl: мәктәп
+    tt-latn: mäktäp
+    tyv: школа
+    ug: مەكتەپ
+    ug-latn: mektep
+    uk: школа
+    ur: اسکول
+    uz: maktab
+    vec: scoła
+    vep: škol
+    vi: trường học
+    vls: schole
+    vro: kuul
+    wa: scole
+    war: eskwelahan
+    wuu: 学堂
+    xmf: სკოლა
+    yi: שולע
+    yo: ilé-ìwé
+    yue: 學校
+    za: hagdangz
+    zea: schole
+    zgh: ⵜⵉⵏⵎⵍ
+    zh: 学校
+    zh-cn: 学校
+    zh-hans: 学校
+    zh-hant: 學校
+    zh-hk: 學校
+    zh-mo: 學校
+    zh-my: 学校
+    zh-sg: 学校
+    zh-tw: 學校
 ---
 # [[School]] 
 

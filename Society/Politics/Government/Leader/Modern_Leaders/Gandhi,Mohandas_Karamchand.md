@@ -1,84 +1,161 @@
 ---
 aliases:
-  - Mohandas Karamchand Gandhi
-  - Mahatma Gandhi
-  - Gandhi,Mohandas_Karamchand
-  - Gandhi
-  - Gandhi,Mohandas Karamchand
+- Gandhi
+- Gandhi Mahatma
+- Gandhi,Mohandas Karamchand
+- Gandhi,Mohandas_Karamchand
+- Gandi
+- Gandi Moxandas Karamchand
+- Gân-tì
+- jan Kansi
+- Mahatma Gandhi
+- Mahatma Gandi
+- Mahatma Gandî
+- Mahatma Qandi
+- Mahátma Gándhí
+- Mahátmá Gándí
+- Mohandas Gandhi
+- Mohandas Gandi
+- Mohandas Karamchand Gandhi
+- Mohandas Karamçand Gandi
+- mohandas.karamtcand.gandis
+- Mohandass Karamčands Gandijs
+- Mohandász Karamcsand Gandhi
+- Muohands Gandi
+- Móhandás Karamčand Gándhí
+- Μαχάτμα Γκάντι
+- Ганди, Мохандас Карамчанд
+- Магатма Ганді
+- Магатма Гандзі
+- Магатма Ґанді
+- Магьатма Ганди
+- Махатмæ Ганди
+- Махатма Гандзі
+- Махатма Ганди
+- Маҳатма Ганди
+- Моhандас Карамчанд Ганди
+- Мохандас Ганди
+- Մահաթմա Գանդի
+- Մահաթմա Կանտի
+- מאהענדאס קערעמטשענד גאנדי
+- מהאטמה גנדי
+- لماهاطما ݣاندي
+- ماهاتما گاندی
+- ماھاتما گەندى
+- مهاتما جاندى
+- مهاتما غاندي
+- مهاتما ګاندي
+- موهنداس ڪرمچند گانڌي
+- موھاتما گاندی
+- موہن داس کرم چند ڳاندھی
+- موہن داس گاندھی
+- مەھاتما گاندی
+- މަހާއްތްމާ ގާންދީހ
+- ߡߏ߬ߤߊ߲ߘߊߛ ߞߊ߬ߙߊ߲ߡߑߛ߭ߊ߲ߘ ߜ߭ߊ߲ߘߌ߫
+- महात्मा गाँधी
+- महात्मा गांधी
+- महात्मा गान्धिः
+- महात्मा गान्धी
+- মহাত্মা গান্ধী
+- মোহনদাস করমচাঁদ গান্ধী
+- মোহনদাস কৰমচান্দ গান্ধী
+- ਮੋਹਨਦਾਸ ਕਰਮਚੰਦ ਗਾਂਧੀ
+- મહાત્મા ગાંધી
+- ମୋହନଦାସ କରମଚାନ୍ଦ ଗାନ୍ଧୀ
+- மோகன்தாசு கரம்சந்த் காந்தி
+- మోహన్ దాస్ కరంచంద్ గాంధీ
+- ಮಹಾತ್ಮ ಗಾಂಧಿ
+- മഹാത്മാ ഗാന്ധി
+- මහත්මා ගාන්ධි
+- มหาตมา คานธี
+- ມະຫາຕະມາ ຄານທີ
+- གཱན་དྷི།
+- မဟတ္တမ ဂန္ဒီ
+- မဟာတ္တမ ဂါန္ဒဳ
+- მაჰათმა განდი
+- ማህተማ ጋንዲ
+- មហាត្មះគន្ធី
+- ᱢᱚᱦᱟᱛᱢᱟ ᱜᱟᱱᱫᱷᱤ
+- マハトマ・ガンディー
+- 圣雄甘地
+- 甘地
+- 聖雄甘地
+- ꯃꯍꯥꯇꯃꯥ ꯒꯥꯟꯗꯤ
+- 마하트마 간디
 has_id_wikidata: Q1001
 ArhivX_LOD: 50078
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi%20-%20His%20Spiritual%20Message%20to%20the%20World%2C%2017%20October%201931.mp3
 award_received:
-  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
-  - '[[_Standards/WikiData/WD~Kaisar-i-Hind_Medal,2423226]]'
-  - "[[_Standards/WikiData/WD~Queen's_South_Africa_Medal,2469664]]"
-  - '[[_Standards/WikiData/WD~Natal_Native_Rebellion_Medal,6967959]]'
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
+- '[[_Standards/WikiData/WD~Kaisar-i-Hind_Medal,2423226]]'
+- "[[_Standards/WikiData/WD~Queen's_South_Africa_Medal,2469664]]"
+- '[[_Standards/WikiData/WD~Natal_Native_Rebellion_Medal,6967959]]'
 BHCL_UUID: 4d3544db-c1d5-4403-9b50-1b3e636d9976
 birth_name: મોહનદાસ ગાંધી
 cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
 child:
-  - '[[_Standards/WikiData/WD~Ramdas_Gandhi,185403]]'
-  - '[[_Standards/WikiData/WD~Devdas_Gandhi,732728]]'
-  - '[[_Standards/WikiData/WD~Manilal_Gandhi,1280678]]'
-  - '[[_Standards/WikiData/WD~Harilal_Gandhi,1390715]]'
+- '[[_Standards/WikiData/WD~Ramdas_Gandhi,185403]]'
+- '[[_Standards/WikiData/WD~Devdas_Gandhi,732728]]'
+- '[[_Standards/WikiData/WD~Manilal_Gandhi,1280678]]'
+- '[[_Standards/WikiData/WD~Harilal_Gandhi,1390715]]'
 Commons_category: Mohandas K. Gandhi
 Commons_Creator_page: Mohandas K. Gandhi
 Commons_gallery: Mohandas K. Gandhi
 confidential: private
 country_of_citizenship: '[[_Standards/WikiData/WD~India,668]]'
 cssclasses:
-  - private
-  - note
+- private
+- note
 date_of_birth: 1869-10-02
 date_of_death: 1948-01-30
 described_at_URL: http://gadyakosh.org/gk/महात्मा_गांधी
 described_by_source:
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]'
-  - "[[_Standards/WikiData/WD~Temps,_espaces_et_histoires._Monuments_et_héritage_raciste_et_colonial_dans_l'espace_public_genevois___état_des_lieux_historique,122870672]]"
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]'
+- "[[_Standards/WikiData/WD~Temps,_espaces_et_histoires._Monuments_et_héritage_raciste_et_colonial_dans_l'espace_public_genevois___état_des_lieux_historique,122870672]]"
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 DPLA_subject_term: Gandhi, Mahatma, 1869-1948
 educated_at:
-  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
-  - '[[_Standards/WikiData/WD~Inner_Temple,1233784]]'
-  - '[[_Standards/WikiData/WD~Mahatma_Gandhi_Museum,4722851]]'
-  - '[[_Standards/WikiData/WD~Samaldas_Arts_College,100148173]]'
+- '[[_Standards/WikiData/WD~University_College_London,193196]]'
+- '[[_Standards/WikiData/WD~Inner_Temple,1233784]]'
+- '[[_Standards/WikiData/WD~Mahatma_Gandhi_Museum,4722851]]'
+- '[[_Standards/WikiData/WD~Samaldas_Arts_College,100148173]]'
 ethnic_group: '[[_Standards/WikiData/WD~Gujarati_people,1282294]]'
 expiryDate: ''
 eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
 family_name: '[[_Standards/WikiData/WD~Gandhi,302736]]'
 father: '[[_Standards/WikiData/WD~Karamchand_Uttamchand_Gandhi,11735530]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~pacifism,58848]]'
+- '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~pacifism,58848]]'
 given_name: '[[_Standards/WikiData/WD~ricardo,20658450]]'
 Google_Doodle: birthday-of-mohandas-karamchand-gandhi
 Gujarati_Vishwakosh_entry: ગાંધી-મોહનદાસ-કરમચંદ
 hairstyle_hairlength: '[[_Standards/WikiData/WD~hair_loss,181391]]'
 handedness: '[[_Standards/WikiData/WD~left-handedness,789447]]'
 has_Template:
-  - - Extract~Note~Template
+- - Extract~Note~Template
 has_time_started: 2025-02-11
 height: 164
 honorific_prefix: '[[_Standards/WikiData/WD~Mahatma,12937862]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20studio%2C%201931.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
-  - '[[_Standards/WikiData/WD~John_Ruskin,179126]]'
-  - '[[_Standards/WikiData/WD~G._K._Chesterton,183167]]'
-  - '[[_Standards/WikiData/WD~Vyasa,330521]]'
-  - '[[_Standards/WikiData/WD~Henry_Stephens_Salt,1364647]]'
-  - '[[_Standards/WikiData/WD~Thiruvalluvar,2353373]]'
-  - '[[_Standards/WikiData/WD~Narmadashankar_Dave,2723334]]'
-  - '[[_Standards/WikiData/WD~Leo_Tolstoy,7243]]'
-  - '[[_Standards/WikiData/WD~The_Buddha,9441]]'
-  - '[[_Standards/WikiData/WD~Shrimad_Rajchandra,16382]]'
+- '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
+- '[[_Standards/WikiData/WD~John_Ruskin,179126]]'
+- '[[_Standards/WikiData/WD~G._K._Chesterton,183167]]'
+- '[[_Standards/WikiData/WD~Vyasa,330521]]'
+- '[[_Standards/WikiData/WD~Henry_Stephens_Salt,1364647]]'
+- '[[_Standards/WikiData/WD~Thiruvalluvar,2353373]]'
+- '[[_Standards/WikiData/WD~Narmadashankar_Dave,2723334]]'
+- '[[_Standards/WikiData/WD~Leo_Tolstoy,7243]]'
+- '[[_Standards/WikiData/WD~The_Buddha,9441]]'
+- '[[_Standards/WikiData/WD~Shrimad_Rajchandra,16382]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 isDeleted: false
 ISNI: 121386043
@@ -97,86 +174,319 @@ lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 linkTitle: Gandhi,Mohandas_Karamchand
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Inner_Temple,1233784]]'
-  - '[[_Standards/WikiData/WD~Vegetarian_Society,2154954]]'
+- '[[_Standards/WikiData/WD~Inner_Temple,1233784]]'
+- '[[_Standards/WikiData/WD~Vegetarian_Society,2154954]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Indian_National_Congress,10225]]'
 mother: '[[_Standards/WikiData/WD~Putlibai_Karamchand_Gandhi,48438546]]'
 movement: '[[_Standards/WikiData/WD~nonviolence,76611]]'
 name_in_native_language: મોહનદાસ ગાંધી
 native_language: '[[_Standards/WikiData/WD~Gujarati,5137]]'
 nickname:
-  - राष्ट्रपिता
-  - बापू
-  - बापू जी
+- राष्ट्रपिता
+- बापू
+- बापू जी
 NLC_authorities: 144994
 notable_work: '[[_Standards/WikiData/WD~satyagraha,194279]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~jurist,185351]]'
-  - '[[_Standards/WikiData/WD~barrister,808967]]'
-  - '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~political_writer,15958642]]'
-  - '[[_Standards/WikiData/WD~peace_activist,16323111]]'
-  - '[[_Standards/WikiData/WD~newspaper_editor,17351648]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~humanitarian,22336956]]'
-  - '[[_Standards/WikiData/WD~freedom_fighter,30242234]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~memoirist,11774156]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~barrister,808967]]'
+- '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~political_writer,15958642]]'
+- '[[_Standards/WikiData/WD~peace_activist,16323111]]'
+- '[[_Standards/WikiData/WD~newspaper_editor,17351648]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~humanitarian,22336956]]'
+- '[[_Standards/WikiData/WD~freedom_fighter,30242234]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~memoirist,11774156]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
 OmegaWiki_Defined_Meaning: 1444027
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-  - '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Mahatma_Gandhi,21200566]]'
 PhilPapers_topic: mahatma-gandhi
 place_of_birth: '[[_Standards/WikiData/WD~Porbandar,6419912]]'
 place_of_burial: '[[_Standards/WikiData/WD~Raj_Ghat_and_associated_memorials,1210083]]'
 place_of_death: '[[_Standards/WikiData/WD~Gandhi_Smriti,1381516]]'
 place_of_detention:
-  - '[[_Standards/WikiData/WD~Yerawada_Central_Jail,142534]]'
-  - '[[_Standards/WikiData/WD~Aga_Khan_Palace,2344976]]'
+- '[[_Standards/WikiData/WD~Yerawada_Central_Jail,142534]]'
+- '[[_Standards/WikiData/WD~Aga_Khan_Palace,2344976]]'
 political_ideology: '[[_Standards/WikiData/WD~Gandhism,41240]]'
 present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
 publishDate: ''
 religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 replaced_by: '[[_Standards/WikiData/WD~Sarojini_Naidu,250165]]'
 residence:
-  - '[[_Standards/WikiData/WD~South_Africa,258]]'
-  - '[[_Standards/WikiData/WD~India,668]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Raliatbehn_Gandhi,100778818]]'
-  - '[[_Standards/WikiData/WD~Muliben_Gandhi,100778893]]'
-  - '[[_Standards/WikiData/WD~Pankunvarben_Gandhi,100778902]]'
-  - '[[_Standards/WikiData/WD~Laxmidas_Karamchand_Gandhi,100779061]]'
-  - '[[_Standards/WikiData/WD~Karsandas_Gandhi,100779088]]'
+- '[[_Standards/WikiData/WD~Raliatbehn_Gandhi,100778818]]'
+- '[[_Standards/WikiData/WD~Muliben_Gandhi,100778893]]'
+- '[[_Standards/WikiData/WD~Pankunvarben_Gandhi,100778902]]'
+- '[[_Standards/WikiData/WD~Laxmidas_Karamchand_Gandhi,100779061]]'
+- '[[_Standards/WikiData/WD~Karsandas_Gandhi,100779088]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi%20signature.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Mahatma%20Gandhi-article.ogg
 spouse: '[[_Standards/WikiData/WD~Kasturba_Gandhi,264908]]'
 student: '[[_Standards/WikiData/WD~Vinoba_Bhave,13021]]'
 student_of: '[[_Standards/WikiData/WD~Shrimad_Rajchandra,16382]]'
 tags:
-  - Gandhi,Mohandas_Karamchand
-  - ''
+- Gandhi,Mohandas_Karamchand
+- ''
 title: Gandhi,Mohandas_Karamchand
 type: private_note
 U_S_National_Archives_Identifier: 10582643
 Wolfram_Language_entity_code:
-  - Entity["Concept", "MahatmaGandhi::d8fq5"]
-  - Entity["Person", "MahatmaGandhi::s6r2s"]
+- Entity["Concept", "MahatmaGandhi::d8fq5"]
+- Entity["Person", "MahatmaGandhi::s6r2s"]
 work_period_end_: 1948
 work_period_start_: 1893
 writing_language:
-  - '[[_Standards/WikiData/WD~Hindi,1568]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Gujarati,5137]]'
+- '[[_Standards/WikiData/WD~Hindi,1568]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Gujarati,5137]]'
+dv_has_:
+  name_:
+    ady: Махатма Ганди
+    af: Mahatma Gandhi
+    am: ማህተማ ጋንዲ
+    an: Mohandas Karamchand Gandhi
+    ang: Mohandas Karamchand Gandhi
+    anp: महात्मा गांधी
+    ar: مهاتما غاندي
+    ary: لماهاطما ݣاندي
+    arz: مهاتما جاندى
+    as: মোহনদাস কৰমচান্দ গান্ধী
+    ast: Mahatma Gandhi
+    avk: Mahatma Gandhi
+    awa: महात्मा गाँधी
+    ay: Mahatma Gandhi
+    az: Mahatma Qandi
+    azb: ماهاتما گاندی
+    ba: Махатма Ганди
+    ban: Mahatma Gandhi
+    bar: Mahatma Gandhi
+    bcl: Mohandas Karamchand Gandhi
+    be: Махатма Гандзі
+    be-tarask: Магатма Гандзі
+    bg: Махатма Ганди
+    bho: महात्मा गाँधी
+    bjn: Mahatma Gandhi
+    bn: মোহনদাস করমচাঁদ গান্ধী
+    bo: གཱན་དྷི།
+    bpy: মহাত্মা গান্ধী
+    br: Mahatma Gandhi
+    brh: Mahátmá Gándí
+    bs: Mohandas Gandhi
+    btm: Mahatma Gandhi
+    bxr: Махатма Ганди
+    ca: Mohandas Gandhi
+    ce: Махатма Ганди
+    ceb: Mahatma Gandhi
+    ckb: مەھاتما گاندی
+    co: Mahatma Gandhi
+    crh: Mohandas Gandi
+    cs: Mahátma Gándhí
+    cv: Махатма Ганди
+    cy: Mahatma Gandhi
+    da: Mahatma Gandhi
+    dag: Mahatma Gandhi
+    de: Mohandas Karamchand Gandhi
+    de-at: Mahatma Gandhi
+    de-ch: Mohandas Karamchand Gandhi
+    diq: Mahatma Gandi
+    dsb: Mahatma Gandhi
+    dtp: Mahatma Gandhi
+    dty: महात्मा गान्धी
+    dv: މަހާއްތްމާ ގާންދީހ
+    el: Μαχάτμα Γκάντι
+    en: Mahatma Gandhi
+    en-ca: Mohandas Karamchand Gandhi
+    en-gb: Mohandas Karamchand Gandhi
+    en-us: Mahatma Gandhi
+    eo: Mohandas Karamchand Gandhi
+    es: Mahatma Gandhi
+    et: Mahatma Gandhi
+    eu: Mohandas Karamchand Gandhi
+    ext: Mahatma Gandhi
+    fa: ماهاتما گاندی
+    fi: Mahatma Gandhi
+    fo: Mahatma Gandhi
+    fr: Mohandas Karamchand Gandhi
+    frp: Mohandas Karamchand Gandhi
+    frr: Mahatma Gandhi
+    fy: Mahatma Gandhi
+    ga: Mahatma Gandhi
+    gan: 甘地
+    gcr: Mohandas Karamchand Gandhi
+    gd: Mahatma Gandhi
+    gl: Mahatma Gandhi
+    gn: Mahatma Gandhi
+    gom: महात्मा गांधी
+    gom-deva: महात्मा गांधी
+    gom-latn: Mahatma Gandhi
+    gor: Mahatma Gandhi
+    gsw: Mohandas Karamchand Gandhi
+    gu: મહાત્મા ગાંધી
+    ha: Mahatma Gandhi
+    he: מהאטמה גנדי
+    hi: महात्मा गांधी
+    hif: Mohandas Karamchand Gandhi
+    hr: Mahatma Gandhi
+    ht: Mohandas Karamchand Gandhi
+    hu: Mohandász Karamcsand Gandhi
+    hy: Մահաթմա Գանդի
+    hyw: Մահաթմա Կանտի
+    ia: Mahatma Gandhi
+    id: Mahatma Gandhi
+    ilo: Mahatma Gandhi
+    io: Mahatma Gandhi
+    is: Mohandas Gandhi
+    it: Mahatma Gandhi
+    ja: マハトマ・ガンディー
+    jam: Mohandas Karamchand Gandhi
+    jbo: mohandas.karamtcand.gandis
+    jv: Mohandas Gandhi
+    ka: მაჰათმა განდი
+    kaa: Gandi Moxandas Karamchand
+    kab: Mohandas Gandhi
+    kbd: Махатма Ганди
+    kbp: Gandhi
+    kk: Махатма Ганди
+    km: មហាត្មះគន្ធី
+    kn: ಮಹಾತ್ಮ ಗಾಂಧಿ
+    knc: Mohandas Karamchand Gandhi
+    ko: 마하트마 간디
+    ks: महात्मा गांधी
+    ku: Mahatma Gandî
+    kw: Mahatma Gandhi
+    ky: Махатма Ганди
+    la: Mahatma Gandhi
+    lad: Mohandas Gandhi
+    lb: Mohandas Karamchand Gandhi
+    lez: Магьатма Ганди
+    lfn: Mahatma Gandhi
+    li: Mahatma Gandhi
+    lmo: Mahatma Gandhi
+    ln: Mohandas Gandhi
+    lo: ມະຫາຕະມາ ຄານທີ
+    lrc: موھاتما گاندی
+    lt: Mohandas Gandhi
+    lv: Mohandass Karamčands Gandijs
+    lzh: 甘地
+    mad: Mahatma Gandhi
+    mag: महात्मा गान्धी
+    mai: महात्मा गान्धी
+    mg: Mohandas Karamchand Gandhi
+    mhr: Мохандас Ганди
+    min: Mahatma Gandhi
+    mk: Махатма Ганди
+    ml: മഹാത്മാ ഗാന്ധി
+    mn: Махатма Ганди
+    mni: ꯃꯍꯥꯇꯃꯥ ꯒꯥꯟꯗꯤ
+    mnw: မဟာတ္တမ ဂါန္ဒဳ
+    mr: महात्मा गांधी
+    ms: Mohandas Karamchand Gandhi
+    mt: Mahatma Gandhi
+    my: မဟတ္တမ ဂန္ဒီ
+    mzn: ماهاتما گاندی
+    nan: Gân-tì
+    nb: Mahatma Gandhi
+    nds: Mohandas Karamchand Gandhi
+    ne: महात्मा गान्धी
+    new: महात्मा गान्धी
+    nl: Mahatma Gandhi
+    nn: Mahatma Gandhi
+    nqo: ߡߏ߬ߤߊ߲ߘߊߛ ߞߊ߬ߙߊ߲ߡߑߛ߭ߊ߲ߘ ߜ߭ߊ߲ߘߌ߫
+    nup: Mahatma Gandhi
+    oc: Mohandas Karamchand Gandhi
+    olo: Mahatma Gandhi
+    or: ମୋହନଦାସ କରମଚାନ୍ଦ ଗାନ୍ଧୀ
+    os: Махатмæ Ганди
+    pa: ਮੋਹਨਦਾਸ ਕਰਮਚੰਦ ਗਾਂਧੀ
+    pap: Mahatma Gandhi
+    pcd: Mahatma Gandhi
+    pcm: Mahatma Gandhi
+    pl: Mahatma Gandhi
+    pms: Mahatma Gandhi
+    pnb: موہن داس گاندھی
+    ps: مهاتما ګاندي
+    pt: Mahatma Gandhi
+    qu: Mohandas Gandhi
+    rmy: Mahatma Gandhi
+    ro: Mahatma Gandhi
+    ru: Махатма Ганди
+    rue: Магатма Ґанді
+    sa: महात्मा गान्धिः
+    sah: Моhандас Карамчанд Ганди
+    sat: ᱢᱚᱦᱟᱛᱢᱟ ᱜᱟᱱᱫᱷᱤ
+    sc: Mohandas Karamchand Gandhi
+    scn: Mahatma Gandhi
+    sco: Mohandas Karamchand Gandhi
+    sd: موهنداس ڪرمچند گانڌي
+    sgs: Muohands Gandi
+    sh: Mahatma Gandhi
+    shi: Mahatma Gandi
+    si: මහත්මා ගාන්ධි
+    sk: Móhandás Karamčand Gándhí
+    skr: موہن داس کرم چند ڳاندھی
+    sl: Mahatma Gandhi
+    so: Mahatma Gandhi
+    sq: Mahatma Gandi
+    sr: Махатма Ганди
+    ss: Mahatma Gandhi
+    su: Mohandas Gandhi
+    sv: Mahatma Gandhi
+    sw: Mohandas Karamchand Gandhi
+    ta: மோகன்தாசு கரம்சந்த் காந்தி
+    tcy: ಮಹಾತ್ಮ ಗಾಂಧಿ
+    te: మోహన్ దాస్ కరంచంద్ గాంధీ
+    tg: Маҳатма Ганди
+    th: มหาตมา คานธี
+    tk: Mahatma Gandi
+    tl: Mahatma Gandhi
+    tly: Mahatma Gandi
+    tok: jan Kansi
+    tpi: Gandi
+    tr: Mohandas Karamçand Gandi
+    ts: Mahatma Gandhi
+    tt: Махатма Ганди
+    tw: Mahatma Gandi
+    tyv: Махатма Ганди
+    ug: ماھاتما گەندى
+    uk: Магатма Ганді
+    ur: موہن داس گاندھی
+    uz: Mahatma Gandi
+    uz-cyrl: Маҳатма Ганди
+    vec: Mahatma Gandhi
+    vep: Mahatma Gandi
+    vi: Mahatma Gandhi
+    vo: Mohandas Gandhi
+    vro: Gandhi Mahatma
+    war: Mohandas Karamchand Gandhi
+    wuu: 甘地
+    xal: Ганди, Мохандас Карамчанд
+    xmf: მაჰათმა განდი
+    yi: מאהענדאס קערעמטשענד גאנדי
+    yo: Mohandas Karamchand Gandhi
+    yue: 甘地
+    zh: 圣雄甘地
+    zh-cn: 圣雄甘地
+    zh-hans: 圣雄甘地
+    zh-hant: 聖雄甘地
+    zh-hk: 聖雄甘地
+    zh-mo: 聖雄甘地
+    zh-my: 圣雄甘地
+    zh-sg: 圣雄甘地
+    zh-tw: 聖雄甘地
 ---
-
 # [[Gandhi,Mohandas_Karamchand]] 
 
 #has_/time_/started :: 1869-10-02

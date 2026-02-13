@@ -1,16 +1,89 @@
 ---
 aliases:
+- dreadnought
+- Drednoot
+- Drednot
+- Drednoutas
+- Dretnot
+- Großlinienschiff
+- Θωρηκτό Ντρέντνωτ
+- Дреднаут
+- дредноут
+- дрэдноўт
+- דרדנוט
+- دریدنوت
+- مدرعة بحرية
+- ਡ੍ਰੈਡਨੋਟ
+- เดรดนอต
+- 弩級戦艦
+- 无畏舰
+- 無畏艦
+- 드레드노트
 has_id_wikidata: Q847109
-subclass_of: "[[_Standards/WikiData/WD~battleship,182531]]"
-named_after: "[[_Standards/WikiData/WD~HMS_Dreadnought,308909]]"
-follows: "[[_Standards/WikiData/WD~pre_dreadnought_battleship,1051067]]"
-instance_of: "[[_Standards/WikiData/WD~ship_type,2235308]]"
+subclass_of: '[[_Standards/WikiData/WD~battleship,182531]]'
+named_after: '[[_Standards/WikiData/WD~HMS_Dreadnought,308909]]'
+follows: '[[_Standards/WikiData/WD~pre_dreadnought_battleship,1051067]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 different_from:
-  - "[[_Standards/WikiData/WD~dreadnought,4167999]]"
-  - "[[_Standards/WikiData/WD~Dreadnoughtus,17581455]]"
+- '[[_Standards/WikiData/WD~dreadnought,4167999]]'
+- '[[_Standards/WikiData/WD~Dreadnoughtus,17581455]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Dreadnought%201906.jpg
+dv_has_:
+  name_:
+    ar: مدرعة بحرية
+    ast: Dreadnought
+    be: дрэдноўт
+    be-tarask: дрэдноўт
+    bg: Дреднаут
+    br: Dreadnought
+    bxr: Дредноут
+    ca: dreadnought
+    cs: dreadnought
+    cy: dreadnought
+    da: dreadnought
+    de: Großlinienschiff
+    el: Θωρηκτό Ντρέντνωτ
+    en: dreadnought
+    en-gb: dreadnought
+    es: dreadnought
+    et: Drednoot
+    eu: Dreadnought
+    fa: دریدنوت
+    fi: dreadnought
+    fr: dreadnought
+    he: דרדנוט
+    hr: Dreadnought
+    id: Dreadnought
+    it: dreadnought
+    ja: 弩級戦艦
+    ko: 드레드노트
+    lt: Drednoutas
+    ms: Dreadnought
+    nb: dreadnought
+    nl: dreadnought
+    oc: Dreadnought
+    pa: ਡ੍ਰੈਡਨੋਟ
+    pl: Drednot
+    pms: Dreadnought
+    pt: dreadnought
+    pt-br: dreadnought
+    ro: dreadnought
+    ru: дредноут
+    sh: Drednot
+    sl: dreadnought
+    sr: Drednot
+    sv: dreadnought
+    th: เดรดนอต
+    tr: Dretnot
+    uk: Дредноут
+    vi: Dreadnought
+    yue: 無畏艦
+    zh: 无畏舰
+    zh-hans: 无畏舰
+    zh-hant: 無畏艦
+    zh-hk: 無畏艦
+    zh-tw: 無畏艦
 ---
-
 # [[Dreadnought]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dreadnought,847109|WD~Dreadnought,847109]] 

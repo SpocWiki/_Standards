@@ -1,8 +1,53 @@
 ---
 aliases:
-  - Entelegynae
+- Entelegynae
+- Εντελήγυνη
+- درستمادینه
+- كاملات المناسل
+- 复杂生殖器下目
 title: Entelegynae
 has_id_wikidata: Q138259
+dv_has_:
+  name_:
+    ar: كاملات المناسل
+    ast: Entelegynae
+    bg: Entelegynae
+    ca: Entelegynae
+    ceb: Entelegynae
+    cs: Entelegynae
+    da: Entelegynae
+    de: Entelegynae
+    el: Εντελήγυνη
+    en: Entelegynae
+    es: Entelegynae
+    fa: درستمادینه
+    fi: Entelegynae
+    fr: Entelegynae
+    ga: Entelegynae
+    hu: Entelegynae
+    id: Entelegynae
+    it: Entelegynae
+    ja: Entelegynae
+    la: Entelegynae
+    mul: Entelegynae
+    nb: Entelegynae
+    nl: Entelegynae
+    nn: Entelegynae
+    oc: Entelegynae
+    pl: Entelegynae
+    pt: Entelegynae
+    ro: Entelegynae
+    ru: Entelegynae
+    sl: Entelegynae
+    sq: Entelegynae
+    sr: Entelegynae
+    sv: Entelegynae
+    uk: Entelegynae
+    vi: Entelegynae
+    war: Entelegynae
+    zh: 复杂生殖器下目
+    zh-cn: 复杂生殖器下目
+    zh-hans: 复杂生殖器下目
 ---
 # [[Entelegynae]] 
 

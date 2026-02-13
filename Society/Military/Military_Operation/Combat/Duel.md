@@ -1,23 +1,69 @@
 ---
 aliases:
-  - Duell
-  - Duel
+- Certamen singulare
+- comhrac aonair
+- Còmhrag-dithis
+- Divkauja
+- Duel
+- Duell
+- duello
+- duelo
+- duelu
+- Duvell
+- Duèl
+- Duël
+- Duşerkî
+- dvikova
+- dvoboj
+- dwell
+- Dyluftimi
+- Düello
+- Einvígi
+- Jejabanan
+- kaksintaistelu
+- Perang tanding
+- pojedynek
+- párbaj
+- souboj
+- tweegevecht
+- tweegeveg
+- tweekamp
+- Đấu tay đôi
+- μονομαχία
+- двобој
+- Дуел
+- дуель
+- дуэль
+- Ырал
+- մենամարտ
+- דו-קרב
+- דועל
+- دوئل
+- دوئێل
+- مبارزة
+- द्वंद्वयुद्ध
+- ದ್ವಂದ್ವಯುದ್ಧ
+- ദ്വന്ദ്വയുദ്ധം
+- 决斗
+- 決闘
+- 決鬥
+- 결투
 has_id_wikidata: Q191503
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~combat,650711]]'
-  - '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+- '[[_Standards/WikiData/WD~combat,650711]]'
+- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
 has_list: '[[_Standards/WikiData/WD~list_of_duels,6397425]]'
 different_from: '[[_Standards/WikiData/WD~Pojedynek,24704944]]'
 field_of_this_occupation: '[[_Standards/WikiData/WD~bretteur,27044075]]'
@@ -27,8 +73,87 @@ U_S_National_Archives_Identifier: 10637226
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FrzDuellImBoisDeBoulogneDurand1874.jpg
 Provenio_UUID: c031ad03-127f-4afd-9b90-5af3fc7d68af
 Commons_category: Duels
+dv_has_:
+  name_:
+    af: tweegeveg
+    ar: مبارزة
+    ast: duelu
+    az: Duel
+    bcl: Duelo
+    be: дуэль
+    be-tarask: дуэль
+    bew: Jejabanan
+    bg: Дуел
+    br: Duvell
+    ca: duel
+    ckb: دوئێل
+    cs: souboj
+    cv: Ырал
+    da: duel
+    de: Duell
+    el: μονομαχία
+    en: duel
+    eo: duelo
+    es: duelo
+    et: duell
+    eu: duelu
+    fa: دوئل
+    fi: kaksintaistelu
+    fr: duel
+    fy: Duël
+    ga: comhrac aonair
+    gd: Còmhrag-dithis
+    gl: duelo
+    he: דו-קרב
+    hi: द्वंद्वयुद्ध
+    hu: párbaj
+    hy: մենամարտ
+    id: Perang tanding
+    io: Duelo
+    is: Einvígi
+    it: duello
+    ja: 決闘
+    kk: Дуэль
+    kn: ದ್ವಂದ್ವಯುದ್ಧ
+    ko: 결투
+    ku: Duşerkî
+    ky: Дуэль
+    la: Certamen singulare
+    lt: dvikova
+    lv: Divkauja
+    mk: двобој
+    ml: ദ്വന്ദ്വയുദ്ധം
+    ms: perang tanding
+    mt: dwell
+    nb: duell
+    nds-nl: tweekamp
+    nl: tweegevecht
+    nn: duell
+    oc: Duèl
+    pl: pojedynek
+    pt: duelo
+    ro: duel
+    ru: дуэль
+    sk: Duel
+    sl: dvoboj
+    sq: Dyluftimi
+    sr: двобој
+    sr-ec: двобој
+    sr-el: dvoboj
+    sv: duell
+    tr: Düello
+    uk: дуель
+    vi: Đấu tay đôi
+    yi: דועל
+    yue: 決鬥
+    zh: 決鬥
+    zh-cn: 决斗
+    zh-hans: 决斗
+    zh-hant: 決鬥
+    zh-hk: 決鬥
+    zh-sg: 决斗
+    zh-tw: 決鬥
 ---
-
 # [[Duel]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Duel,191503|WD~Duel,191503]] 

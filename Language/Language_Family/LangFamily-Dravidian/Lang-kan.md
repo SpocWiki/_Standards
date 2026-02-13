@@ -1,24 +1,126 @@
 ---
 aliases:
-  - Kannada
-  - Lang-kan
+- an Channadais
+- bahasa Kannada
+- Basa Kannada
+- Canada
+- canarés
+- Fiteny kannada
+- Gjuha kanada
+- Idioma canarés
+- isi-Kannada
+- język kannada
+- Kanada jezik
+- kanadų kalba
+- kanara lingvo
+- Kanares
+- Kanarezo linguo
+- kanareščina
+- Kanaris
+- Kanariż
+- Kanaríska
+- Kannada
+- Kannada bhasa
+- Kannada dili
+- kannada jezik
+- Kannada keel
+- Kannada simi
+- Kannada-gí
+- Kannada-ngṳ̄
+- kannadagiella
+- kannadakielâ
+- kannadaǩiõll
+- kannadeg
+- kannadu valoda
+- kannadčina
+- kannadština
+- kannara
+- Khà-na̍p-tha̍t-ngî
+- Kikannada
+- Kinanares
+- Kánađ
+- Lang-kan
+- Lenga Kannada
+- limba kannada
+- lingua Cannadica
+- Lingua kannada
+- Lingua kannará
+- Língua canaresa
+- Reo Kanada
+- tiếng Kannada
+- Tok Kannada
+- toki Kanata
+- Wikang Kannada
+- Κανάντα γλώσσα
+- Забони каннада
+- канада
+- канада језик
+- канадзкая мова
+- канадски јазик
+- Каннада
+- Каннада тілі
+- каннада теле
+- Каннада хэл
+- կաննադա
+- קאנאדא
+- קאנדה
+- الكنادية
+- الكناديه
+- زبان کانارا
+- زمانی کانادا
+- كانناداچە
+- کانادا دیلی
+- کناډا ژبه
+- کندا زوون
+- کننڑ زَبان
+- کنڑ
+- کنڑ زبان
+- ڪنڙ ٻولي
+- ކައްނަޑާ
+- कन्नड
+- कन्नड भाषा
+- कन्नड भास
+- कन्नडभाषा
+- कन्नड़
+- कन्नड़ भाषा
+- কন্নড় ঠার
+- কন্নড় ভাষা
+- ਕੰਨੜ
+- કન્નડ ભાષા
+- କନ୍ନଡ଼ ଭାଷା
+- கன்னடம்
+- కన్నడ భాష
+- ಕನ್ನಡ
+- ಕನ್ನಡ ಬಾಸೆ
+- കന്നഡ
+- කන්නඩ
+- ภาษากันนาดา
+- კანადა
+- ካነዳኛ
+- ᱠᱚᱱᱱᱚᱲ ᱯᱟᱹᱨᱥᱤ
+- カンナダ語
+- 卡納達文
+- 卡纳达语
+- 康納達語
+- ꯀꯟꯅꯗ ꯂꯣꯟ
+- 칸나다어
 has_id_wikidata: Q33673
 linguistic_typology:
-  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 subclass_of: '[[_Standards/WikiData/WD~Kannada_Badaga,6363888]]'
 UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
 different_from: '[[_Standards/WikiData/WD~Kannada,21474034]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-  - '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 indigenous_to: '[[_Standards/WikiData/WD~Karnataka,1185]]'
@@ -45,8 +147,160 @@ Commons_category: Kannada language
 Glottolog_code: nucl1305
 GOST_7_75_97_code: кан 265
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shukla%20Kannada.svg
+dv_has_:
+  name_:
+    af: Kannada
+    am: ካነዳኛ
+    an: Idioma canarés
+    anp: कन्नड़
+    ar: الكنادية
+    arz: الكناديه
+    as: কন্নড় ভাষা
+    ast: canarés
+    az: Kannada dili
+    azb: کانادا دیلی
+    bcl: Kannada
+    be: канада
+    be-tarask: канадзкая мова
+    bg: Каннада
+    bho: कन्नड
+    bn: কন্নড় ভাষা
+    bpy: কন্নড় ঠার
+    br: kannadeg
+    brh: Kánađ
+    ca: kannada
+    cdo: Kannada-ngṳ̄
+    ceb: Kinanares
+    ckb: زمانی کانادا
+    cs: kannadština
+    cy: Kannada
+    da: kannada
+    de: Kannada
+    dv: ކައްނަޑާ
+    el: Κανάντα γλώσσα
+    en: Kannada
+    en-gb: Kannada
+    en-us: Canada
+    eo: kanara lingvo
+    es: canarés
+    et: Kannada keel
+    eu: kannada
+    fa: زبان کانارا
+    fi: kannada
+    fr: kannara
+    frr: Kannada
+    ga: an Channadais
+    gl: Lingua kannará
+    gom: कन्नड भास
+    gu: કન્નડ ભાષા
+    ha: Kannada
+    hak: Khà-na̍p-tha̍t-ngî
+    he: קאנדה
+    hi: कन्नड़ भाषा
+    hif: Kannada bhasa
+    hil: Kinanares
+    hr: kannada jezik
+    hu: kannada
+    hy: կաննադա
+    ia: Lingua kannada
+    id: bahasa Kannada
+    ilo: Kanares
+    io: Kanarezo linguo
+    is: Kanaríska
+    it: kannada
+    ja: カンナダ語
+    jv: Basa Kannada
+    ka: კანადა
+    kge: Bahasa Kannada
+    kk: Каннада тілі
+    kn: ಕನ್ನಡ
+    ko: 칸나다어
+    krj: Kinanares
+    ks: کننڑ زَبان
+    kv: Каннада
+    ky: Каннада
+    la: lingua Cannadica
+    lfn: canada
+    lt: kanadų kalba
+    lv: kannadu valoda
+    mai: कन्नड भाषा
+    mg: Fiteny kannada
+    mi: Reo Kanada
+    mk: канадски јазик
+    ml: കന്നഡ
+    mn: Каннада хэл
+    mni: ꯀꯟꯅꯗ ꯂꯣꯟ
+    mr: कन्नड भाषा
+    ms: Bahasa Kannada
+    mt: Kanariż
+    mzn: کندا زوون
+    nan: Kannada-gí
+    nb: kannada
+    nds: Kannada
+    ne: कन्नड़ भाषा
+    new: कन्नड भाषा
+    nl: Kannada
+    nn: kannada
+    oc: Kannada
+    or: କନ୍ନଡ଼ ଭାଷା
+    pa: ਕੰਨੜ
+    pam: Kanaris
+    pap: Kannada
+    pcd: Kannada
+    pl: język kannada
+    pms: Lenga Kannada
+    pnb: کنڑ
+    ps: کناډا ژبه
+    pt: Língua canaresa
+    qu: Kannada simi
+    ro: limba kannada
+    ru: каннада
+    sa: कन्नडभाषा
+    sat: ᱠᱚᱱᱱᱚᱲ ᱯᱟᱹᱨᱥᱤ
+    sco: Kannada
+    sd: ڪنڙ ٻولي
+    se: kannadagiella
+    sh: Kanada jezik
+    si: කන්නඩ
+    sk: kannadčina
+    sl: kanareščina
+    smn: kannadakielâ
+    sms: kannadaǩiõll
+    sq: Gjuha kanada
+    sr: канада језик
+    sr-ec: канада језик
+    sv: kannada
+    sw: Kikannada
+    ta: கன்னடம்
+    tcy: ಕನ್ನಡ ಬಾಸೆ
+    te: కన్నడ భాష
+    tg: Забони каннада
+    tg-cyrl: Каннада
+    th: ภาษากันนาดา
+    tl: Wikang Kannada
+    tok: toki Kanata
+    tpi: Tok Kannada
+    tr: Kannada dili
+    tt: каннада теле
+    ug: كانناداچە
+    uk: каннада
+    ur: کنڑ زبان
+    uz: Kannada
+    vec: kannada
+    vi: tiếng Kannada
+    war: Kinanares
+    wo: Kannada
+    wuu: 卡纳达语
+    xmf: კანადა
+    yi: קאנאדא
+    yue: 卡納達文
+    zh: 卡纳达语
+    zh-cn: 卡纳达语
+    zh-hans: 卡纳达语
+    zh-hant: 康納達語
+    zh-tw: 康納達語
+    zu: isi-Kannada
 ---
-
 # [[Lang-kan]] 
 
 #is_/same_as :: [[WD~Kannada,33673]] 

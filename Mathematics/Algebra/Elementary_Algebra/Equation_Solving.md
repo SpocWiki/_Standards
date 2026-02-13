@@ -1,15 +1,96 @@
 ---
 aliases:
-  - Equation solving
-  - Equation_Solving
-  - Equation Solving
+- cothromóid a réiteach
+- denklem çözme
+- egyenletmegoldás
+- Ekuazioak ebaztea
+- ekvacisolvado
+- Equation solving
+- Equation_Solving
+- Giải phương trình
+- ligningsløsning
+- Lösen von Gleichungen
+- oplossen van vergelijkingen
+- Penyelesaian persamaan
+- resolució d'equacions
+- resolución de ecuaciones
+- resolución de ecuacións
+- resolução de equações
+- resolvimientu d'ecuaciones
+- rezolvarea ecuațiilor
+- Rešavanje jednačina
+- reševanje enačb
+- risoluzione di un'equazione
+- Rješavanje jednadžbi
+- Solutio aequationis
+- Επίλυση εξισώσεων
+- разьвязаньне раўнаньня
+- решение уравнений
+- розв'язання рівнянь
+- Тигезләмәне чыгару
+- тигеҙләмәне сығарыу
+- Հավասարման լուծում
+- פתרון משוואות
+- حل معادلة
+- حل معادله
+- شیکارکردنی ھاوکێشە
+- समीकरण का हल
+- சமன்பாட்டைத் தீர்த்தல்
+- ಸಮೀಕರಣದ ಮೂಲ
+- സമവാക്യനിർദ്ധാരണം
+- 方程式の解
+- 方程求解
+- 解方程
 has_id_wikidata: Q1879820
 studied_by: '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~problem_solving,730920]]'
-  - '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
+- '[[_Standards/WikiData/WD~problem_solving,730920]]'
+- '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
+dv_has_:
+  name_:
+    ar: حل معادلة
+    ast: resolvimientu d'ecuaciones
+    ba: тигеҙләмәне сығарыу
+    be-tarask: разьвязаньне раўнаньня
+    ca: resolució d'equacions
+    ckb: شیکارکردنی ھاوکێشە
+    da: ligningsløsning
+    de: Lösen von Gleichungen
+    el: Επίλυση εξισώσεων
+    en: equation solving
+    eo: ekvacisolvado
+    es: resolución de ecuaciones
+    eu: Ekuazioak ebaztea
+    fa: حل معادله
+    ga: cothromóid a réiteach
+    gl: resolución de ecuacións
+    he: פתרון משוואות
+    hi: समीकरण का हल
+    hr: Rješavanje jednadžbi
+    hu: egyenletmegoldás
+    hy: Հավասարման լուծում
+    id: Penyelesaian persamaan
+    it: risoluzione di un'equazione
+    ja: 方程式の解
+    kn: ಸಮೀಕರಣದ ಮೂಲ
+    la: Solutio aequationis
+    ml: സമവാക്യനിർദ്ധാരണം
+    nl: oplossen van vergelijkingen
+    pt: resolução de equações
+    pt-br: resolução de equações
+    ro: rezolvarea ecuațiilor
+    ru: решение уравнений
+    sl: reševanje enačb
+    sr: Rešavanje jednačina
+    ta: சமன்பாட்டைத் தீர்த்தல்
+    tr: denklem çözme
+    tt: Тигезләмәне чыгару
+    uk: розв'язання рівнянь
+    vi: Giải phương trình
+    wuu: 解方程
+    yue: 解方程
+    zh: 方程求解
 ---
-
 # [[Equation_Solving]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Equation_solving,1879820|WD~Equation_solving,1879820]]

@@ -1,20 +1,119 @@
 ---
-has_time_started: 1956-01-01 
+has_time_started: 1956-01-01
 aliases:
-  - Paris Club
-  - Club de Paris
-  - Paris_Club
+- Club de Paris
+- Club de París
+- Club di Parigi
+- Club van Parijs
+- Clube de Paris
+- Câu lạc bộ Paris
+- Klub Paryski
+- Klubo de Parizo
+- Pariisin klubi
+- Paris Club
+- Paris Klubu
+- Paris Kulübü
+- Paris-klubo
+- Pariser Club
+- Pariski klub
+- Parisklubben
+- Parisko Kluba
+- Paris_Club
+- Pariški klub
+- Parížsky klub
+- Parïj klwbı
+- Pařížský klub
+- Párizs Klub
+- Λέσχη των Παρισίων
+- Париж клубы
+- Парижки клуб
+- Парижский клуб
+- Паризький клуб
+- Париски клуб
+- Парыскі клюб
+- מועדון פריז
+- פאריזער קלוב
+- نادي باريس
+- پارىيج كلۋبى
+- پیرس کلب
+- पेरिस क्लब
+- ਪੈਰਿਸ ਕਲੱਬ
+- パリクラブ
+- 巴黎俱乐部
+- 巴黎俱樂部
+- 파리 클럽
 has_id_wikidata: Q461736
 instance_of:
-  - '[[_Standards/WikiData/WD~international_organization,484652]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 headquarters_location: '[[_Standards/WikiData/WD~Paris,90]]'
 country: '[[_Standards/WikiData/WD~France,142]]'
 inception: 1956-01-01T00:00:00Z
 official_website: http://www.clubdeparis.org/
 ISNI: 0000000122960991
+dv_has_:
+  name_:
+    ar: نادي باريس
+    ast: Club de París
+    az: Paris Klubu
+    be-tarask: Парыскі клюб
+    bg: Парижки клуб
+    ca: Club de París
+    cs: Pařížský klub
+    de: Pariser Club
+    el: Λέσχη των Παρισίων
+    en: Paris Club
+    en-ca: Paris Club
+    en-gb: Paris Club
+    eo: Klubo de Parizo
+    es: Club de París
+    eu: Parisko Kluba
+    fi: Pariisin klubi
+    fr: Club de Paris
+    gl: Club de París
+    he: מועדון פריז
+    hi: पेरिस क्लब
+    hr: Pariški klub
+    hu: Párizs Klub
+    id: Paris Club
+    io: Paris-klubo
+    it: Club di Parigi
+    ja: パリクラブ
+    kk: Париж клубы
+    kk-arab: پارىيج كلۋبى
+    kk-cn: پارىيج كلۋبى
+    kk-cyrl: Париж клубы
+    kk-kz: Париж клубы
+    kk-latn: Parïj klwbı
+    kk-tr: Parïj klwbı
+    ko: 파리 클럽
+    mk: Париски клуб
+    nb: Parisklubben
+    nl: Club van Parijs
+    oc: Club de París
+    pa: ਪੈਰਿਸ ਕਲੱਬ
+    pl: Klub Paryski
+    pnb: پیرس کلب
+    pt: Clube de Paris
+    pt-br: Clube de Paris
+    ru: Парижский клуб
+    sk: Parížsky klub
+    sr: Париски клуб
+    sr-ec: Париски клуб
+    sr-el: Pariski klub
+    tr: Paris Kulübü
+    uk: Паризький клуб
+    ur: پیرس کلب
+    vi: Câu lạc bộ Paris
+    yi: פאריזער קלוב
+    zh: 巴黎俱樂部
+    zh-cn: 巴黎俱乐部
+    zh-hans: 巴黎俱乐部
+    zh-hant: 巴黎俱樂部
+    zh-hk: 巴黎俱樂部
+    zh-sg: 巴黎俱乐部
+    zh-tw: 巴黎俱樂部
 ---
-
 # [[Paris_Club]] 
 
 #is_/same_as :: [[WD~Paris_Club,461736]] 

@@ -1,36 +1,107 @@
 ---
-has_time_started: 1652-01-01 
+has_time_started: 1652-01-01
 aliases:
-  - Society of Friends
-  - Quakers
+- Adiskideen Erlijiozko Elkartea
+- Comann nan Caraid
+- Crynwyr
+- Cumann na gCarad
+- Genootschap der Vrienden
+- Giáo Hữu Hội
+- Jamii ya Marafiki
+- Kakɛrɩ
+- Kaum Quaker
+- Kevredigezh relijius ar Vignoned
+- Koakerisma
+- Kuakerët
+- kulupu sewi Kuweka
+- Kvakeri
+- kvakeriai
+- Kvakerismo
+- Kvakerlar
+- Kvakerlər
+- Kvakeři
+- Kveekarit
+- Kveekerid
+- Kvekarane
+- Kvekarar
+- Kvekeri
+- kvekerji
+- kväkare
+- Kvæker
+- kvékerek
+- kvēkerisms
+- Quaccheresimo
+- quaccherismo
+- Quaker
+- Quakeri
+- Quakero
+- Quakers
+- Quäkers
+- Quäkertum
+- Religijne Towarzystwo Przyjaciół
+- Religiosa Amicorum Sodalitas
+- Religious Society of Friends
+- Sociedad Religiosa de los Amigos
+- Sociedade Relixiosa dos Amigos
+- Sociedá Relixosa de los Amigos
+- Societat Religiosa d'Amics (Quàquers)
+- Society of Friends
+- Société religieuse des Amis (quakers)
+- Sosia Relijiosa de Amis
+- Sucità Riliggiusa di l'Amici
+- Vennenes samfunn
+- Égllése Quaker
+- Κουάκεροι
+- Квакер
+- Квакери
+- квакерство
+- квакеры
+- Квекери
+- Քվակերներ
+- געזעלשאפט פון פריינט
+- קווייקרים
+- الكويكرز
+- جمعية الأصدقاء الدينية
+- لجمعية الدينية د الصحاب
+- کواکرها
+- کویکر
+- क्वेकर पंथ
+- நண்பர்களின் சமய சமூகம்
+- เควกเกอร์
+- კვაკერები
+- クエーカー
+- 公誼會
+- 貴格會
+- 贵格会
+- 퀘이커
 has_id_wikidata: Q170208
 member_of:
-  - "[[_Standards/WikiData/WD~Zentralstelle_für_Recht_und_Schutz_der_Kriegsdienstverweigerer_aus_Gewissensgründen,190808]]"
-  - "[[_Standards/WikiData/WD~Federal_Council_of_Churches,17050140]]"
-founded_by: "[[_Standards/WikiData/WD~George_Fox,310439]]"
+- '[[_Standards/WikiData/WD~Zentralstelle_für_Recht_und_Schutz_der_Kriegsdienstverweigerer_aus_Gewissensgründen,190808]]'
+- '[[_Standards/WikiData/WD~Federal_Council_of_Churches,17050140]]'
+founded_by: '[[_Standards/WikiData/WD~George_Fox,310439]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Non_church_movement,487232]]"
-  - "[[_Standards/WikiData/WD~Shakers,1370167]]"
-  - "[[_Standards/WikiData/WD~Society_of_the_Friends_of_the_People,7552703]]"
-  - "[[_Standards/WikiData/WD~Society_of_Universal_Friends,106298640]]"
+- '[[_Standards/WikiData/WD~Non_church_movement,487232]]'
+- '[[_Standards/WikiData/WD~Shakers,1370167]]'
+- '[[_Standards/WikiData/WD~Society_of_the_Friends_of_the_People,7552703]]'
+- '[[_Standards/WikiData/WD~Society_of_Universal_Friends,106298640]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Yearly_Meeting,1482264]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Yearly_Meeting,1482264]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~worldview,2030462]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-has_part_s_: "[[_Standards/WikiData/WD~Quanglican,119521889]]"
-part_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+- '[[_Standards/WikiData/WD~worldview,2030462]]'
+- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+has_part_s_: '[[_Standards/WikiData/WD~Quanglican,119521889]]'
+part_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 Commons_gallery: Quaker
 Colon_Classification: Q66
 U_S_National_Archives_Identifier: 10640916
@@ -40,8 +111,96 @@ Commons_category: Quakerism
 Krugosvet_article_archived_: religiya/kvakery
 inception: 1652-01-01T00:00:00Z
 OpenStreetMap_tag: denomination=quaker
+dv_has_:
+  name_:
+    ar: جمعية الأصدقاء الدينية
+    ary: لجمعية الدينية د الصحاب
+    arz: الكويكرز
+    ast: Sociedá Relixosa de los Amigos
+    az: Kvakerlər
+    be: квакеры
+    be-tarask: квакеры
+    bg: Квакери
+    br: Kevredigezh relijius ar Vignoned
+    bs: Kvekeri
+    ca: Societat Religiosa d'Amics (Quàquers)
+    cs: Kvakeři
+    cy: Crynwyr
+    da: Kvæker
+    dag: Quakers
+    de: Quäkertum
+    el: Κουάκεροι
+    en: Quakers
+    eo: Kvakerismo
+    es: Sociedad Religiosa de los Amigos
+    et: Kveekerid
+    eu: Adiskideen Erlijiozko Elkartea
+    fa: کواکرها
+    fi: Kveekarit
+    fr: Société religieuse des Amis (quakers)
+    frp: Égllése Quaker
+    ga: Cumann na gCarad
+    gd: Comann nan Caraid
+    gl: Sociedade Relixiosa dos Amigos
+    he: קווייקרים
+    hr: Kvekeri
+    hu: kvékerek
+    hy: Քվակերներ
+    ia: Quaker
+    id: Kaum Quaker
+    io: Quakero
+    is: Kvekarar
+    it: quaccherismo
+    ja: クエーカー
+    ka: კვაკერები
+    kbp: Kakɛrɩ
+    kk: Квакер
+    ko: 퀘이커
+    la: Religiosa Amicorum Sodalitas
+    lfn: Sosia Relijiosa de Amis
+    lt: kvakeriai
+    lv: kvēkerisms
+    mg: Koakerisma
+    mk: Квекери
+    mr: क्वेकर पंथ
+    ms: Quaker
+    nap: Quaccheresimo
+    nb: Vennenes samfunn
+    nds: Quäkers
+    nl: Genootschap der Vrienden
+    nn: Kvekarane
+    pl: Religijne Towarzystwo Przyjaciół
+    pt: Quaker
+    ro: Quakeri
+    ru: квакеры
+    scn: Sucità Riliggiusa di l'Amici
+    sco: Quaker
+    sh: Kvekeri
+    sk: Kvakeri
+    sl: kvekerji
+    sq: Kuakerët
+    sr: Квекери
+    sv: kväkare
+    sw: Jamii ya Marafiki
+    ta: நண்பர்களின் சமய சமூகம்
+    th: เควกเกอร์
+    tok: kulupu sewi Kuweka
+    tr: Religious Society of Friends
+    uk: квакерство
+    ur: کویکر
+    uz: Kvakerlar
+    vi: Giáo Hữu Hội
+    wuu: 贵格会
+    yi: געזעלשאפט פון פריינט
+    yue: 公誼會
+    zh: 貴格會
+    zh-cn: 贵格会
+    zh-hans: 贵格会
+    zh-hant: 貴格會
+    zh-hk: 貴格會
+    zh-sg: 贵格会
+    zh-tw: 貴格會
 ---
-
 # [[Quakers]] 
 
 #is_/same_as :: [[WD~Quakers,170208]] 

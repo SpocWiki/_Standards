@@ -1,9 +1,167 @@
 ---
 aliases:
-  - Rhodophyta
-  - Red Algae
+- Alga abang
+- Alga cora
+- Alga gorri
+- Alga merah
+- Alga vermella
+- Algas vermellas
+- algaí dearga
+- Algă roșie
+- Crvene alge
+- Feamainn dearg
+- krasnorosty
+- Kırmızı algler
+- punalevät
+- Punavetiktaimed
+- Qizil suvoʻtlar
+- Qırmızı yosunlar
+- Raudalgar
+- Raudondumbliai
+- rauðþörungar
+- rdeče alge
+- Red alga
+- Red Algae
+- Rhodophyta
+- Rodjès ales
+- Rodofitoj
+- roodwieren
+- Rooiwier
+- Rotalgen
+- Ruad algen
+- ruduchy
+- rödalger
+- rødalger
+- sārtaļģes
+- Tảo đỏ
+- vörösmoszatok
+- Červené riasy
+- Ροδόφυτα
+- Красные водоросли
+- Кызыл балырлар
+- Кызыл суүсемнәр
+- Хӗрлӗ шыв курӑкӗсем
+- црвене алге
+- Црвени алги
+- Червени водорасли
+- червоні водорості
+- чырвоныя водарасці
+- Қызыл балдырлар
+- Կարմիր ջրիմուռներ
+- אדומיות
+- جلبک قرمز
+- طحالب حمراء
+- लाल शैवाल
+- লোহিত শৈবাল
+- சிவப்புப் பாசி
+- ಕೆಂಪು ಶೈವಲ
+- ചുവന്ന ആൽഗ
+- สาหร่ายสีแดง
+- ძოწეული წყალმცენარეები
+- ძოწული წყარჩანარეფი
+- 紅藻
+- 紅藻門
+- 红藻
+- 红藻门
+- 홍조식물
 title: Rhodophyta
 has_id_wikidata: Q103169
+dv_has_:
+  name_:
+    af: Rooiwier
+    an: Rhodophyta
+    ar: طحالب حمراء
+    arz: طحالب حمراء
+    ast: Rhodophyta
+    az: Qırmızı yosunlar
+    be: чырвоныя водарасці
+    bg: Червени водорасли
+    bn: লোহিত শৈবাল
+    bs: Crvene alge
+    ca: Alga vermella
+    ceb: Rhodophyta
+    cs: ruduchy
+    cv: Хӗрлӗ шыв курӑкӗсем
+    da: rødalger
+    de: Rotalgen
+    el: Ροδόφυτα
+    en: Rhodophyta
+    eo: Rodofitoj
+    es: Rhodophyta
+    et: Punavetiktaimed
+    eu: Alga gorri
+    ext: Rhodophyta
+    fa: جلبک قرمز
+    fi: punalevät
+    fr: Rhodophyta
+    frr: Ruad algen
+    ga: algaí dearga
+    gd: Feamainn dearg
+    gl: Algas vermellas
+    he: אדומיות
+    hi: लाल शैवाल
+    hr: Crvene alge
+    hu: vörösmoszatok
+    hy: Կարմիր ջրիմուռներ
+    ia: Rhodophyta
+    id: Alga merah
+    ie: Rhodophyta
+    io: Rhodophyta
+    is: rauðþörungar
+    it: Rhodophyta
+    ja: 紅藻
+    jv: Alga abang
+    ka: ძოწეული წყალმცენარეები
+    kk: Қызыл балдырлар
+    kn: ಕೆಂಪು ಶೈವಲ
+    ko: 홍조식물
+    ky: Кызыл балырлар
+    la: Rhodophyta
+    lt: Raudondumbliai
+    lv: sārtaļģes
+    mk: Црвени алги
+    ml: ചുവന്ന ആൽഗ
+    ms: Red algae
+    mul: Rhodophyta
+    nb: rødalger
+    nds: Rhodophyta
+    nl: roodwieren
+    nn: Raudalgar
+    oc: Rhodophyta
+    pap: Alga cora
+    pl: krasnorosty
+    pt: Rhodophyta
+    pt-br: Rhodophyta
+    ro: Algă roșie
+    ru: Красные водоросли
+    sh: Crvene alge
+    sk: Červené riasy
+    sl: rdeče alge
+    sq: Rhodophyta
+    sr: црвене алге
+    sr-ec: Црвене алге
+    sr-el: Crvene alge
+    sv: rödalger
+    ta: சிவப்புப் பாசி
+    th: สาหร่ายสีแดง
+    tl: Red alga
+    tr: Kırmızı algler
+    tt: Кызыл суүсемнәр
+    uk: червоні водорості
+    uz: Qizil suvoʻtlar
+    vi: Tảo đỏ
+    vo: Rhodophyta
+    wa: Rodjès ales
+    war: Rhodophyta
+    wuu: 红藻门
+    xmf: ძოწული წყარჩანარეფი
+    zh: 紅藻門
+    zh-cn: 红藻门
+    zh-hans: 红藻门
+    zh-hant: 紅藻
+    zh-hk: 紅藻
+    zh-sg: 红藻
+    zh-tw: 紅藻門
 ---
 # [[Rhodophyta]]
 

@@ -1,17 +1,38 @@
 ---
 aliases:
-  - Impressionist music
-  - Impressionist_Music
-  - Impressionist Music
+- ceol impriseanaíoch
+- Impressionist music
+- impressionistinen musiikki
+- impressionistische muziek
+- impressionistisk musik
+- impressionistisk musikk
+- Impressionist_Music
+- izlenimci müzik
+- musica impressionista
+- musique impressionniste
+- música impresionista
+- музыка импрессионизма
 has_id_wikidata: Q105697765
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_style,11921029]]"
-different_from: "[[_Standards/WikiData/WD~impressionism_in_music,837182]]"
-part_of: "[[_Standards/WikiData/WD~impressionism_in_music,837182]]"
-subclass_of: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_style,11921029]]'
+different_from: '[[_Standards/WikiData/WD~impressionism_in_music,837182]]'
+part_of: '[[_Standards/WikiData/WD~impressionism_in_music,837182]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+dv_has_:
+  name_:
+    da: impressionistisk musik
+    en: impressionist music
+    fi: impressionistinen musiikki
+    fr: musique impressionniste
+    ga: ceol impriseanaíoch
+    gl: música impresionista
+    it: musica impressionista
+    nb: impressionistisk musikk
+    nl: impressionistische muziek
+    ru: музыка импрессионизма
+    tr: izlenimci müzik
 ---
-
 # [[Impressionist_Music]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~impressionist_music,105697765]] 

@@ -1,9 +1,135 @@
 ---
 aliases:
-  - Eleanora Fagan
-  - Lady Day
-  - Holiday,Billie
+- Bili Holidej
+- Bilija Holideja
+- Billie Holiday
+- Eleanora Fagan
+- Gulielma Holiday
+- Holiday,Billie
+- jan Pili Olite
+- Lady Day
+- Μπίλι Χόλιντεϊ
+- Біллі Голідей
+- Били Холидеј
+- Били Холидей
+- Билли Холидей
+- Բիլլի Հոլիդեյ
+- Պիլի Հոլիտէյ
+- בילי הולידיי
+- بلی ہالیڈے
+- بلی ہولیڈے
+- بيلى هوليدى
+- بيلي هوليدي
+- بیلی هالیدی
+- বিলি হলিডে
+- ਬਿਲੀ ਹਾਲੀਡੇ
+- பில்லி ஹொலிடே
+- ബില്ലി ഹോളിഡേ
+- บิลลี ฮอลิเดย์
+- ბილი ჰოლიდეი
+- ビリー・ホリデイ
+- 比莉·哈樂黛
+- 比莉·荷莉戴
+- 比莉·霍利戴
+- 빌리 홀리데이
 has_id_wikidata: Q104358
+dv_has_:
+  name_:
+    an: Billie Holiday
+    ar: بيلي هوليدي
+    arz: بيلى هوليدى
+    ast: Billie Holiday
+    azb: بیلی هالیدی
+    bg: Били Холидей
+    bn: বিলি হলিডে
+    br: Billie Holiday
+    bs: Billie Holiday
+    ca: Billie Holiday
+    cs: Billie Holiday
+    cy: Billie Holiday
+    da: Billie Holiday
+    de: Billie Holiday
+    el: Μπίλι Χόλιντεϊ
+    en: Billie Holiday
+    eo: Billie Holiday
+    es: Billie Holiday
+    et: Billie Holiday
+    eu: Billie Holiday
+    fa: بیلی هالیدی
+    fi: Billie Holiday
+    fr: Billie Holiday
+    fy: Billie Holiday
+    ga: Billie Holiday
+    gl: Billie Holiday
+    gsw: Billie Holiday
+    he: בילי הולידיי
+    hr: Billie Holiday
+    ht: Billie Holiday
+    hu: Billie Holiday
+    hy: Բիլլի Հոլիդեյ
+    hyw: Պիլի Հոլիտէյ
+    id: Billie Holiday
+    ig: Billie Holiday
+    io: Billie Holiday
+    is: Billie Holiday
+    it: Billie Holiday
+    ja: ビリー・ホリデイ
+    ka: ბილი ჰოლიდეი
+    ko: 빌리 홀리데이
+    la: Gulielma Holiday
+    lb: Billie Holiday
+    lt: Billie Holiday
+    lv: Bilija Holideja
+    mk: Били Холидеј
+    ml: ബില്ലി ഹോളിഡേ
+    ms: Billie Holiday
+    mul: Billie Holiday
+    nb: Billie Holiday
+    nds: Billie Holiday
+    nl: Billie Holiday
+    nn: Billie Holiday
+    ny: Billie Holiday
+    oc: Billie Holiday
+    pa: ਬਿਲੀ ਹਾਲੀਡੇ
+    pap: Billie Holiday
+    pl: Billie Holiday
+    pnb: بلی ہالیڈے
+    pt: Billie Holiday
+    pt-br: Billie Holiday
+    qu: Billie Holiday
+    ro: Billie Holiday
+    ru: Билли Холидей
+    sc: Billie Holiday
+    scn: Billie Holiday
+    sco: Billie Holiday
+    sh: Billie Holiday
+    sl: Billie Holiday
+    smn: Billie Holiday
+    sq: Billie Holiday
+    sr: Били Холидеј
+    sr-ec: Били Холидеј
+    sr-el: Bili Holidej
+    sv: Billie Holiday
+    sw: Billie Holiday
+    ta: பில்லி ஹொலிடே
+    th: บิลลี ฮอลิเดย์
+    tl: Billie Holiday
+    tok: jan Pili Olite
+    tr: Billie Holiday
+    uk: Біллі Голідей
+    ur: بلی ہولیڈے
+    uz: Billie Holiday
+    vi: Billie Holiday
+    wuu: 比莉·荷莉戴
+    yo: Billie Holiday
+    yue: Billie Holiday
+    zh: 比莉·霍利戴
+    zh-cn: 比莉·荷莉戴
+    zh-hans: 比莉·荷莉戴
+    zh-hant: 比莉·哈樂黛
+    zh-hk: 比莉·哈樂黛
+    zh-sg: 比莉·荷莉戴
+    zh-tw: 比莉·哈樂黛
 ---
 #has_/time_/started :: 1915-04-07 
 #has_/time_/stopped :: 1959-07-17 

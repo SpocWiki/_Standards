@@ -1,8 +1,69 @@
 ---
 has_id_wikidata: Q2068526
+dv_has_:
+  name_:
+    ar: سلسلة جينومية الكاملة
+    bn: সম্পূর্ণ বংশাণুসমগ্র অনুক্রম নির্ণয়
+    bs: sekvenciranje cijelog genoma
+    ca: seqüenciació total del genoma
+    da: helgenomssekventering
+    el: αλληλουχία ολόκληρου του γονιδιώματος
+    en: whole genome sequencing
+    es: secuenciación del genoma
+    fa: توالییابی کل ژنوم
+    fi: koko perimän sekvensointi
+    fr: séquençage du génome complet
+    gl: secuenciación do xenoma completo
+    he: רצף גנום שלם
+    hi: संपूर्ण जीनोम अनुक्रमण
+    id: pengurutan keseluruhan genom
+    ja: 全ゲノム配列決定
+    kab: aselkem n ujinum ummid
+    ko: 총유전체
+    ms: susunan genom keseluruhan
+    nb: helgenomsekvensering
+    nn: heilgenomsekvensering
+    pt: sequenciamento completo de genoma
+    ru: секвенирование полного генома
+    sl: sekvenciranje celotnega genoma
+    sv: helgenomsekvensering
+    uk: Повне секвенування геному
+    ur: جینوم سلسلہ بندی
+    zh: 全基因組測序分析
+    zh-cn: 全基因组测序
+    zh-hans: 全基因组测序
+    zh-hant: 全基因組測序
+aliases:
+- aselkem n ujinum ummid
+- heilgenomsekvensering
+- helgenomsekvensering
+- helgenomssekventering
+- koko perimän sekvensointi
+- pengurutan keseluruhan genom
+- secuenciación del genoma
+- secuenciación do xenoma completo
+- sekvenciranje celotnega genoma
+- sekvenciranje cijelog genoma
+- sequenciamento completo de genoma
+- seqüenciació total del genoma
+- susunan genom keseluruhan
+- séquençage du génome complet
+- whole genome sequencing
+- αλληλουχία ολόκληρου του γονιδιώματος
+- Повне секвенування геному
+- секвенирование полного генома
+- רצף גנום שלם
+- توالییابی کل ژنوم
+- جینوم سلسلہ بندی
+- سلسلة جينومية الكاملة
+- संपूर्ण जीनोम अनुक्रमण
+- সম্পূর্ণ বংশাণুসমগ্র অনুক্রম নির্ণয়
+- 全ゲノム配列決定
+- 全基因組測序
+- 全基因組測序分析
+- 全基因组测序
+- 총유전체
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Whole **Genome Sequencing** (WGS) is the process of determining the entirety, or nearly the entirety, of the DNA sequence of an organism's genome at a single time. This entails sequencing all of an organism's chromosomal DNA as well as DNA contained in the mitochondria and, for plants, in the chloroplast.

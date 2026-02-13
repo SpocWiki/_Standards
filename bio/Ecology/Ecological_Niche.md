@@ -1,8 +1,68 @@
 ---
 aliases:
-  - Ecological niche
-  - Ecological_Niche
-  - Ecological Niche
+- Allun areygaman
+- Ecological niche
+- Ecological_Niche
+- ekologia niĉo
+- ekologická nika
+- Ekologik nisha
+- ekologinen lokero
+- ekologinė niša
+- ekologisk nisch
+- ekolojik niş
+- ekoloģiskā niša
+- ekološka niša
+- nicchia ecologica
+- Niccia ecologica
+- nich ekolojik
+- niche
+- niche écologique
+- nicho ecolochico
+- nicho ecológico
+- nicho ecolóxico
+- nichu ecolóxicu
+- nideog éiceolaíoch
+- nisza ekologiczna
+- nișă ecologică
+- nys
+- nínxol ecològic
+- oecothesis
+- relung
+- ròdol ecologic
+- txoko ekologiko
+- tūranga hauropi
+- Ékologïyalıq qwıs
+- ökologische Nische
+- Ökologiske Niske
+- ökoloogiline nišš
+- ökológai fülke
+- økologisk nisje
+- Οικοθέση
+- еkološka niša
+- екологічна ніша
+- Екологична ниша
+- Еколошка ниша
+- экалагічная ніша
+- экалягічная ніша
+- экологическая ниша
+- Экологиялық қуыс
+- Эряфса улемась
+- Էկոլոգիական խորշ
+- גומחה אקולוגית
+- تاقی ژینگەیی
+- نمط حياتي
+- چاپېریالي مېشتځای
+- کنام
+- ەكولوگىييالىق قۋىس
+- इकोलॉजिकल निच
+- சூழலியல் முடுக்கு
+- นิเวศเฉพาะแหล่ง
+- Ổ sinh thái
+- ニッチ
+- 生态位
+- 生態位
+- 生態棲位
+- 생태적 지위
 has_id_wikidata: Q172861
 subclass_of: '[[_Standards/WikiData/WD~context,196626]]'
 has_effect: '[[_Standards/WikiData/WD~annidation,1308433]]'
@@ -13,8 +73,89 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Garden%20in%20Munich%2
 Commons_category: Ecological niche
 Biology_Online_Biology_Dictionary_entry: ecological-niche
 Wolfram_Language_entity_code: Entity["Concept", "EcologicalNiche::b7cbh"]
+dv_has_:
+  name_:
+    an: nicho ecolochico
+    ar: نمط حياتي
+    ast: nichu ecolóxicu
+    be: экалагічная ніша
+    be-tarask: экалягічная ніша
+    bg: Екологична ниша
+    bho: इकोलॉजिकल निच
+    bs: ekološka niša
+    ca: nínxol ecològic
+    ckb: تاقی ژینگەیی
+    cs: ekologická nika
+    da: niche
+    de: ökologische Nische
+    el: Οικοθέση
+    en: ecological niche
+    eo: ekologia niĉo
+    es: nicho ecológico
+    et: ökoloogiline nišš
+    eu: txoko ekologiko
+    fa: کنام
+    fi: ekologinen lokero
+    fr: niche écologique
+    fy: nys
+    ga: nideog éiceolaíoch
+    gl: nicho ecolóxico
+    he: גומחה אקולוגית
+    ht: nich ekolojik
+    hu: ökológai fülke
+    hy: Էկոլոգիական խորշ
+    id: relung
+    it: nicchia ecologica
+    ja: ニッチ
+    kab: Allun areygaman
+    kk: Экологиялық қуыс
+    kk-arab: ەكولوگىييالىق قۋىس
+    kk-cn: ەكولوگىييالىق قۋىس
+    kk-cyrl: Экологиялық қуыс
+    kk-kz: Экологиялық қуыс
+    kk-latn: Ékologïyalıq qwıs
+    kk-tr: Ékologïyalıq qwıs
+    ko: 생태적 지위
+    la: oecothesis
+    lij: Niccia ecologica
+    lt: ekologinė niša
+    lv: ekoloģiskā niša
+    mdf: Эряфса улемась
+    mi: tūranga hauropi
+    mk: Еколошка ниша
+    nb: økologisk nisje
+    nl: niche
+    nn: økologisk nisje
+    oc: ròdol ecologic
+    pl: nisza ekologiczna
+    ps: چاپېریالي مېشتځای
+    pt: nicho ecológico
+    ro: nișă ecologică
+    ru: экологическая ниша
+    sh: ekološka niša
+    sk: ekologická nika
+    sl: ekološka niša
+    sr: еколошка ниша
+    sr-ec: еколошка ниша
+    sr-el: еkološka niša
+    stq: Ökologiske Niske
+    sv: ekologisk nisch
+    ta: சூழலியல் முடுக்கு
+    th: นิเวศเฉพาะแหล่ง
+    tr: ekolojik niş
+    uk: екологічна ніша
+    uz: Ekologik nisha
+    vi: Ổ sinh thái
+    wuu: 生态位
+    yue: 生態位
+    zh: 生态位
+    zh-cn: 生态位
+    zh-hans: 生态位
+    zh-hant: 生態位
+    zh-hk: 生態位
+    zh-sg: 生态位
+    zh-tw: 生態棲位
 ---
-
 # [[Ecological_Niche]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ecological_niche,172861|WD~Ecological_niche,172861]] 

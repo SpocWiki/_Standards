@@ -1,29 +1,94 @@
 ---
-has_time_started: 1893-01-01 
-location: [ 10.7375 , 59.916111111 ] 
+has_time_started: 1893-01-01
+location:
+- '[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]'
+- '[[_Standards/WikiData/WD~California,99]]'
 aliases:
-  - The_Scream
-  - Skrik
-  - Der Schrei der Natur
-  - The Scream
+- A sikoly
+- An Piyait
+- An Skrij
+- Ang Pagtili
+- Britma
+- De Schreeuw
+- Der Schrei
+- Der Schrei der Natur
+- Die Skreeu
+- El berru
+- El crit
+- El grito
+- El sigo
+- Garrasia (margolana)
+- Huuto
+- Iera (2) (trutca ke Munch)
+- It-Twerżiqa
+- Jeritan (lukisan)
+- Karje
+- Kliedziens
+- Klyksmas (paveikslas)
+- Krik
+- Krik (Edvard Munch)
+- Krik (slika)
+- Krzyk
+- Kuciakan
+- L'urlo
+- La Krio
+- Le Cri
+- Lo Crit
+- O chilo
+- O dango
+- O Grito
+- Qichqiriq
+- Rèl la
+- Skriet
+- Skriget
+- Skrik
+- Skríggið
+- The Scream
+- The_Scream
+- Výkrik
+- Výkřik
+- Y Sgrech
+- Âu-kiò
+- Çığlık (tablo)
+- Çığırtı
+- Ópið
+- Țipătul
+- Η Κραυγή
+- Викът
+- Крик
+- Крык
+- Крык, карціна
+- Кычкыру (рәсем)
+- Ճիչ
+- הצעקה
+- الصرخة
+- الصرخة (لوحه)
+- جیغ (تابلو)
+- قیژە
+- ਦ ਸਕਰੀਮ
+- அலறல்
+- ദി സ്ക്രീം
+- เสียงกรีดร้อง
+- 叫び
+- 吶喊
+- 吶喊 (繪畫)
+- 呐喊 (绘画)
+- 절규
 has_id_wikidata: Q471379
 depicts:
-  - '[[_Standards/WikiData/WD~Oslofjord,667456]]'
-  - '[[_Standards/WikiData/WD~sky,527]]'
-  - '[[_Standards/WikiData/WD~man,8441]]'
+- '[[_Standards/WikiData/WD~Oslofjord,667456]]'
+- '[[_Standards/WikiData/WD~sky,527]]'
+- '[[_Standards/WikiData/WD~man,8441]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
-  - '[[_Standards/WikiData/WD~group_of_paintings,18573970]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~group_of_paintings,18573970]]'
 collection: '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~painting,3305213]]'
-location:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]'
-  - '[[_Standards/WikiData/WD~California,99]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~The_Scream,18891155]]'
-  - '[[_Standards/WikiData/WD~The_Scream,18891158]]'
-  - '[[_Standards/WikiData/WD~The_Scream,18891156]]'
-  - '[[_Standards/WikiData/WD~The_Scream,18891157]]'
+- '[[_Standards/WikiData/WD~The_Scream,18891155]]'
+- '[[_Standards/WikiData/WD~The_Scream,18891158]]'
+- '[[_Standards/WikiData/WD~The_Scream,18891156]]'
+- '[[_Standards/WikiData/WD~The_Scream,18891157]]'
 inception: 1893-01-01T00:00:00Z
 height: 91
 creator: '[[_Standards/WikiData/WD~Edvard_Munch,41406]]'
@@ -31,13 +96,90 @@ width: 73.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%2C%201893%2C%20The%20Scream%2C%20oil%2C%20tempera%20and%20pastel%20on%20cardboard%2C%2091%20x%2073%20cm%2C%20National%20Gallery%20of%20Norway.jpg
 coordinate_location: Point(10.7375 59.916111111)
 title:
-  - Der Schrei der Natur
-  - Skrik
-  - L'urlo
+- Der Schrei der Natur
+- Skrik
+- L'urlo
 Commons_category: The Scream by Edvard Munch
 native_label: '"Skrik"'
+dv_has_:
+  name_:
+    af: Die Skreeu
+    an: O chilo
+    ar: الصرخة
+    arz: الصرخة (لوحه)
+    ast: El berru
+    avk: Iera (2) (trutca ke Munch)
+    az: Çığırtı
+    be: Крык, карціна
+    be-tarask: Крык
+    bg: Викът
+    bjn: Kuciakan
+    br: Skrik
+    bs: Krik (slika)
+    ca: El crit
+    ckb: قیژە
+    cs: Výkřik
+    cy: Y Sgrech
+    da: Skriget
+    de: Der Schrei
+    el: Η Κραυγή
+    en: The Scream
+    eo: La Krio
+    es: El grito
+    et: Karje
+    eu: Garrasia (margolana)
+    fa: جیغ (تابلو)
+    fi: Huuto
+    fo: Skríggið
+    fr: Le Cri
+    gl: O dango
+    he: הצעקה
+    hr: Krik
+    ht: Rèl la
+    hu: A sikoly
+    hy: Ճիչ
+    id: Jeritan (lukisan)
+    is: Ópið
+    it: L'urlo
+    ja: 叫び
+    ko: 절규
+    kw: An Skrij
+    lt: Klyksmas (paveikslas)
+    lv: Kliedziens
+    ml: ദി സ്ക്രീം
+    ms: Der Schrei der Natur
+    mt: It-Twerżiqa
+    nan: Âu-kiò
+    nb: Skrik
+    nl: De Schreeuw
+    nn: Skrik
+    oc: Lo Crit
+    pa: ਦ ਸਕਰੀਮ
+    pl: Krzyk
+    pt: O Grito
+    ro: Țipătul
+    ru: Крик
+    sh: Krik
+    sk: Výkrik
+    sl: Krik (Edvard Munch)
+    sq: Britma
+    sr: Крик
+    sr-ec: Крик
+    sv: Skriet
+    ta: அலறல்
+    th: เสียงกรีดร้อง
+    tl: Ang Pagtili
+    tr: Çığlık (tablo)
+    tt: Кычкыру (рәсем)
+    uk: Крик
+    uz: Qichqiriq
+    vec: El sigo
+    vi: Skrik
+    war: An Piyait
+    wuu: 呐喊 (绘画)
+    yue: 吶喊
+    zh: 吶喊 (繪畫)
 ---
-
 # [[The_Scream]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~The_Scream,471379|WD~The_Scream,471379]]  

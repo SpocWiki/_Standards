@@ -1,33 +1,80 @@
 ---
 aliases:
-  - Leier
-  - Lyra
-  - Zodiac~Lyra
+- an Lir
+- Gwiazdozbiór Lutni
+- Hairp
+- Harpan (stjörnumerki)
+- Kemançe
+- Kinubi
+- Lant csillagkép
+- Leier
+- Lier
+- Lira
+- Lira (konstelazioa)
+- Liro
+- Lourenn
+- Lyra
+- Lyra (ranneves)
+- Lyra (stäärbil)
+- Lyran
+- Lyre
+- Lyren
+- Lyyra
+- Lüüra
+- Lýra
+- Thian-khîm-chō
+- Thiên Cầm
+- Thiên-khìm-chho
+- Tiĕng-kìng-cô̤
+- y Lyre
+- Zodiac~Lyra
+- Λύρα
+- Ліра
+- Лирæ
+- Лира
+- Лира деп сылдыстар бөлүү
+- Лира йолдызлыгы
+- Քնար
+- נבל
+- القيثارة
+- بربط
+- شلیاق
+- ليرا
+- लायरा तारामंडल
+- বীণা মণ্ডল
+- അയംഗിതി
+- กลุ่มดาวพิณ
+- པི་ཝང་སྐར་ཚོམ་
+- လိုင်ရာ
+- ქნარის თანავარსკვლავედი
+- こと座
+- 天琴座
+- 거문고자리
 has_id_wikidata: Q10484
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
-named_after: "[[_Standards/WikiData/WD~lyre,201129]]"
+named_after: '[[_Standards/WikiData/WD~lyre,201129]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Lyra,105104280]]"
-part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Lyra,105104280]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782]]"
-  - "[[_Standards/WikiData/WD~Q10729068,10729068]]"
+- '[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782]]'
+- '[[_Standards/WikiData/WD~Q10729068,10729068]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Draco,8675]]"
-  - "[[_Standards/WikiData/WD~Cygnus,8921]]"
-  - "[[_Standards/WikiData/WD~Hercules,10448]]"
-  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Draco,8675]]'
+- '[[_Standards/WikiData/WD~Cygnus,8921]]'
+- '[[_Standards/WikiData/WD~Hercules,10448]]'
+- '[[_Standards/WikiData/WD~Vulpecula,10519]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 right_ascension: 1130
 declination: 36.5
 area: 286.5
@@ -41,32 +88,126 @@ official_name: Lyra
 dv_SpocWebEntityId: 28134
 dv_has_:
   name_:
+    af: Lier
+    ar: القيثارة
+    arz: ليرا
+    ast: Lyra
+    az: Lira
+    ba: Лира
+    be: Ліра
+    be-tarask: Ліра
+    bg: Лира
+    bn: বীণা মণ্ডল
+    bo: པི་ཝང་སྐར་ཚོམ་
+    br: Lourenn
+    bs: Lira
+    ca: Lira
+    cdo: Tiĕng-kìng-cô̤
+    co: Lyra
+    cs: Lyra
+    cy: Lyra
+    da: Lyren
+    de: Leier
+    diq: Lira
+    el: Λύρα
+    en: Lyra
+    en-ca: Lyra
+    en-gb: Lyra
+    eo: Liro
+    es: Lyra
+    et: Lüüra
+    eu: Lira (konstelazioa)
+    fa: شلیاق
+    fi: Lyyra
+    fr: Lyre
+    frr: Lyra (stäärbil)
+    ga: an Lir
+    gl: Lyra
+    gv: y Lyre
+    hak: Thiên-khìm-chho
+    he: נבל
+    hi: लायरा तारामंडल
+    hr: Lira
+    hu: Lant csillagkép
+    hy: Քնար
+    id: Lyra
+    ig: Lyra
+    is: Harpan (stjörnumerki)
+    it: Lira
+    ja: こと座
+    jv: Lyra
+    ka: ქნარის თანავარსკვლავედი
+    ko: 거문고자리
+    ku: Kemançe
+    kw: Lyra (ranneves)
+    ky: Лира
     la: Lyra
     la_:
       genitive: Lyrae
-    de: Leier
+    lb: Lyra
+    lt: Lyra
+    lv: Lira
+    mk: Лира
+    ml: അയംഗിതി
+    ms: Lira
+    my: လိုင်ရာ
+    nan: Thian-khîm-chō
+    nb: Lyren
+    nl: Lier
+    nn: Lyra
+    oc: Lira
+    os: Лирæ
+    pl: Gwiazdozbiór Lutni
+    pt: Lyra
+    pt-br: Lyra
+    ro: Lira
+    ru: Лира
+    sah: Лира
+    sco: Hairp
+    sh: Lira
+    sk: Lýra
+    sl: Lira
+    sr: Лира
+    sr-ec: Лира
+    sv: Lyran
+    sw: Kinubi
+    th: กลุ่มดาวพิณ
+    tl: Lyra
+    tr: Lyra
+    tt: Лира йолдызлыгы
+    tyv: Лира деп сылдыстар бөлүү
+    udm: Лира
+    uk: Ліра
+    ur: بربط
+    uz: Lira
+    vec: Lira
+    vi: Thiên Cầm
+    war: Lyra
+    wuu: 天琴座
+    yue: 天琴座
+    zh: 天琴座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]"
+  - '[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]'
 dv_has_name_la: Lyra
 dv_has_name_la_genitive: Lyrae
 dv_has_name_de: Leier
 dv_is_same_as:
-  - "[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]"
+- '[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]'
 ---
 # [[Zodiac~Lyra]] 
 

@@ -1,16 +1,100 @@
 ---
 aliases:
-  - Equity (law)
-  - Equity_Law
-  - Equity Law
+- billighetsrett
+- billighetsrätt
+- cothromas
+- echitate
+- ecwiti
+- Ekitate (zuzenbidea)
+- Ekuiti (undang-undang)
+- ekvita
+- Equidade
+- equitat
+- Equitato
+- equity
+- Equity (derecho)
+- Equity (law)
+- Equity (Recht)
+- Equity Law
+- Equity_Law
+- Equità
+- kapital
+- Luật Công bình
+- Nuosavybės teisės
+- retsfølelse
+- System equity
+- Vlastnícke právo
+- Θεωρία των δικαιωμάτων ιδιοκτησίας
+- Адолати судӣ
+- права справядлівасьці
+- правичност
+- Право справедливості
+- право справедливости
+- արդարության իրավունք
+- דיני היושר
+- انصاف
+- حقوق الملكية
+- सुनीति
+- エクイティ
+- 衡平法
+- 형평
 has_id_wikidata: Q2578557
 described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Equitable_doctrines,22720793]]'
 subclass_of: '[[_Standards/WikiData/WD~common_law,30216]]'
 U_S_National_Archives_Identifier: 10637520
 OmegaWiki_Defined_Meaning: 478075
+dv_has_:
+  name_:
+    ar: حقوق الملكية
+    be-tarask: права справядлівасьці
+    ca: equitat
+    cs: ekvita
+    cy: ecwiti
+    da: retsfølelse
+    de: Equity (Recht)
+    el: Θεωρία των δικαιωμάτων ιδιοκτησίας
+    en: equity
+    es: Equity (derecho)
+    eu: Ekitate (zuzenbidea)
+    fa: انصاف
+    fi: Equity
+    fr: equity
+    ga: cothromas
+    gl: Equidade
+    he: דיני היושר
+    hi: सुनीति
+    hy: արդարության իրավունք
+    io: Equitato
+    it: Equità
+    ja: エクイティ
+    ko: 형평
+    lt: Nuosavybės teisės
+    ms: Ekuiti (undang-undang)
+    nb: billighetsrett
+    pl: System equity
+    pt: equity
+    pt-br: equity
+    ro: echitate
+    ru: право справедливости
+    sk: Vlastnícke právo
+    sl: kapital
+    sr: правичност
+    sv: billighetsrätt
+    tg: Адолати судӣ
+    uk: Право справедливості
+    vi: Luật Công bình
+    yue: 衡平法
+    zh: 衡平法
+    zh-cn: 衡平法
+    zh-hans: 衡平法
+    zh-hant: 衡平法
+    zh-hk: 衡平法
+    zh-mo: 衡平法
+    zh-my: 衡平法
+    zh-sg: 衡平法
+    zh-tw: 衡平法
 ---
-
 # [[Equity_Law]]
 
 #is_/same_as :: [[../../../WikiData/WD~Equity,2578557|WD~Equity,2578557]] 

@@ -1,30 +1,93 @@
 ---
 aliases:
-  - Puppenspiel
-  - Puppetry
+- bábjáték
+- bábkové divadlo
+- dockteater
+- dohkkáteáhter
+- dokketeater
+- dukketeater
+- Kukla Teatrı
+- kukla tiyatrosu
+- kuuhlažteaʹtter
+- lalkarstwo
+- Leikbrúðugerð
+- loutkářství
+- Lutkarstvo
+- múa rối
+- Mŭk-ngēu-hié
+- nukketeatter
+- nukketeatteri
+- nukuteater
+- pedalangan
+- poppekas
+- poppenspel
+- puipéadóireacht
+- Pupazzata
+- Puppenspiel
+- Puppentheater
+- Puppetry
+- pupteatrado
+- Qoʻgʻirchoq teatri
+- Teatri i kukullave
+- teatro de fantoches
+- teatro de títeres
+- teatro dei pupazzi
+- teatru de păpuși
+- tejater de magatei
+- Teyåte di marionetes
+- théâtre de marionnettes
+- titelles
+- Txotxongilo antzezpen
+- títeres
+- Urpu aranway
+- Vakapapeti
+- μαριονέτα
+- кукларство
+- Куклен театър
+- курчак театры
+- Луткарско позориште
+- лялечны тэатр
+- лялькавы тэатар
+- Пукане театрĕ
+- театр кукол
+- театр ляльок
+- Қуыршақ театры
+- տիկնիկային թատրոն
+- תיאטרון בובות
+- اراجوز
+- عروسکگردانی
+- مسرح الدمى
+- পুতুল নাচ
+- பொம்மலாட்டம்
+- പാവകളി
+- თოჯინების თეატრი
+- 人形劇
+- 公仔戲
+- 木偶戲
+- 인형극
 has_id_wikidata: Q588750
 subclass_of:
-  - '[[_Standards/WikiData/WD~kleinkunst,1746926]]'
-  - '[[_Standards/WikiData/WD~popular_theatre,10378998]]'
-  - '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
-  - '[[_Standards/WikiData/WD~play,25379]]'
+- '[[_Standards/WikiData/WD~kleinkunst,1746926]]'
+- '[[_Standards/WikiData/WD~popular_theatre,10378998]]'
+- '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
+- '[[_Standards/WikiData/WD~play,25379]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 uses: '[[_Standards/WikiData/WD~puppet,1913135]]'
 practiced_by: '[[_Standards/WikiData/WD~puppeteer,2629392]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~animation_technique,3516833]]'
-  - '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
-  - '[[_Standards/WikiData/WD~type_of_theatrical_work,110013851]]'
+- '[[_Standards/WikiData/WD~animation_technique,3516833]]'
+- '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+- '[[_Standards/WikiData/WD~type_of_theatrical_work,110013851]]'
 different_from:
-  - '[[_Standards/WikiData/WD~puppetry_company,3982337]]'
-  - '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
+- '[[_Standards/WikiData/WD~puppetry_company,3982337]]'
+- '[[_Standards/WikiData/WD~puppet_opera,110889064]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Opera_dei_pupi,112316163]]'
+- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~WikiProject_Opera_dei_pupi,112316163]]'
 has_characteristic: '[[_Standards/WikiData/WD~puppet_museum,131560554]]'
 GS1_GPC_code: 10005152
 Commons_category: Puppetry
@@ -33,8 +96,81 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20dei%20buratti
 Dewey_Decimal_Classification: 791.53
 IMDb_keyword: puppetry
 Krugosvet_article_archived_: teatr-i-kino/kukolnyy-teatr
+dv_has_:
+  name_:
+    af: poppekas
+    ar: مسرح الدمى
+    arz: اراجوز
+    ast: títeres
+    az: Kukla Teatrı
+    be: лялечны тэатр
+    be-tarask: лялькавы тэатар
+    bg: Куклен театър
+    bn: পুতুল নাচ
+    ca: titelles
+    cdo: Mŭk-ngēu-hié
+    ceb: Puppetry
+    cs: loutkářství
+    cv: Пукане театрĕ
+    da: dukketeater
+    de: Puppentheater
+    el: μαριονέτα
+    en: puppetry
+    en-us: Puppetry
+    eo: pupteatrado
+    es: teatro de títeres
+    et: nukuteater
+    eu: Txotxongilo antzezpen
+    fa: عروسکگردانی
+    fi: nukketeatteri
+    fj: Vakapapeti
+    fr: théâtre de marionnettes
+    ga: puipéadóireacht
+    he: תיאטרון בובות
+    hr: Lutkarstvo
+    hu: bábjáték
+    hy: տիկնիկային թատրոն
+    hyw: Տիկնիկային Թատրոն
+    id: pedalangan
+    is: Leikbrúðugerð
+    it: teatro dei pupazzi
+    ja: 人形劇
+    ka: თოჯინების თეატრი
+    kk: Қуыршақ театры
+    ko: 인형극
+    lmo: tejater de magatei
+    mk: кукларство
+    ml: പാവകളി
+    nb: dukketeater
+    nl: poppenspel
+    nn: dokketeater
+    pl: lalkarstwo
+    pt: teatro de fantoches
+    qu: Urpu aranway
+    ro: teatru de păpuși
+    ru: театр кукол
+    scn: Pupazzata
+    se: dohkkáteáhter
+    sh: Lutkarstvo
+    sk: bábkové divadlo
+    sl: lutkarstvo
+    smn: nukketeatter
+    sms: kuuhlažteaʹtter
+    sq: Teatri i kukullave
+    sr: Луткарско позориште
+    sv: dockteater
+    ta: பொம்மலாட்டம்
+    tr: kukla tiyatrosu
+    tt: курчак театры
+    uk: театр ляльок
+    uz: Qoʻgʻirchoq teatri
+    vi: múa rối
+    wa: Teyåte di marionetes
+    yue: 公仔戲
+    zh: 木偶戲
+    zh-hant: 木偶戲
+    zh-tw: 木偶戲
 ---
-
 # [[Puppetry]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Puppetry,588750|WD~Puppetry,588750]]  

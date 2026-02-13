@@ -1,8 +1,48 @@
 ---
 aliases:
-  - Bolitaenidae
+- Bolitaenidae
+- Bolitaeninae
+- 單盤蛸亞科
 title: Bolitaenidae
 has_id_wikidata: Q2346507
+dv_has_:
+  name_:
+    an: Bolitaenidae
+    ast: Bolitaenidae
+    bg: Bolitaenidae
+    ca: Bolitaenidae
+    ceb: Bolitaenidae
+    de: Bolitaenidae
+    en: Bolitaenidae
+    eo: Bolitaenidae
+    es: Bolitaenidae
+    eu: Bolitaenidae
+    ext: Bolitaenidae
+    fi: Bolitaenidae
+    fr: Bolitaenidae
+    ga: Bolitaenidae
+    gl: Bolitaenidae
+    ia: Bolitaenidae
+    ie: Bolitaenidae
+    io: Bolitaenidae
+    it: Bolitaenidae
+    la: Bolitaenidae
+    mul: Bolitaenidae
+    nl: Bolitaenidae
+    oc: Bolitaenidae
+    pl: Bolitaenidae
+    pt: Bolitaenidae
+    pt-br: Bolitaenidae
+    ro: Bolitaenidae
+    ru: Bolitaenidae
+    sq: Bolitaenidae
+    sv: Bolitaenidae
+    tr: Bolitaeninae
+    uk: Bolitaenidae
+    vi: Bolitaenidae
+    vo: Bolitaenidae
+    war: Bolitaenidae
+    zh: 單盤蛸亞科
 ---
 # [[Bolitaenidae]] 
 

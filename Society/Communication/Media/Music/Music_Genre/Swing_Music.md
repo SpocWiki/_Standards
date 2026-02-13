@@ -1,14 +1,43 @@
 ---
-has_time_started: 1930-01-01 
+has_time_started: 1930-01-01
 aliases:
-  - Swing music
-  - Swing
-  - Swing_Music
-  - Swing Music
+- cerddoriaeth swing
+- luasc-cheol
+- muzîka swîng
+- nhạc swing
+- sving
+- svingas
+- svingo
+- svings
+- Swing
+- Swing (jazz)
+- Swing (Musikrichtung)
+- Swing music
+- swing-jazz
+- swingmusihkka
+- swingmusikk
+- swingmuusik
+- Swing_Music
+- szving
+- σουίνγκ
+- сўінг
+- свінг
+- свинг
+- суинг
+- սվինգ երաժշտություն
+- סווינג
+- سوینگ
+- موسيقى السوينج
+- موسيقى السوينغ
+- ดนตรีสวิง
+- スウィング・ジャズ
+- 搖擺樂
+- 摇摆乐
+- 스윙 음악
 has_id_wikidata: Q203775
 different_from:
-  - '[[_Standards/WikiData/WD~swing,123704]]'
-  - '[[_Standards/WikiData/WD~swing,1964690]]'
+- '[[_Standards/WikiData/WD~swing,123704]]'
+- '[[_Standards/WikiData/WD~swing,1964690]]'
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~jazz,8341]]'
 Commons_category: Swing
@@ -16,8 +45,74 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Andri%20from%20Pagefir
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Swingbop%27ers%20Kombo%2C%20Swing%20Band%20Berlin.png
 inception: 1930-01-01T00:00:00Z
 Dewey_Decimal_Classification: 781.654
+dv_has_:
+  name_:
+    ar: موسيقى السوينغ
+    arz: موسيقى السوينج
+    ast: swing
+    az: Swing
+    bar: Swing
+    be: свінг
+    be-tarask: сўінг
+    bg: суинг
+    ca: swing
+    cs: swing
+    cy: cerddoriaeth swing
+    da: swing
+    de: Swing
+    de-ch: Swing (Musikrichtung)
+    el: σουίνγκ
+    en: swing
+    en-ca: swing music
+    en-gb: swing music
+    eo: svingo
+    es: swing
+    et: sving
+    eu: swing
+    fa: سوینگ
+    fi: swing
+    fr: swing
+    ga: luasc-cheol
+    gl: Swing
+    gsw: Swing
+    he: סווינג
+    hr: Swing
+    hu: szving
+    hy: սվինգ երաժշտություն
+    it: swing
+    ja: スウィング・ジャズ
+    ko: 스윙 음악
+    ku: muzîka swîng
+    ku-latn: muzîka swîng
+    lt: svingas
+    lv: svings
+    nb: swing
+    nl: swing
+    nn: swing-jazz
+    pl: Swing
+    pt: swing
+    pt-br: Swing (jazz)
+    ru: свинг
+    se: swingmusihkka
+    sk: swing
+    sl: swing
+    smn: swingmuusik
+    sms: swingmusikk
+    sr: Свинг
+    sv: swing
+    th: ดนตรีสวิง
+    tr: swing
+    uk: свінг
+    vi: nhạc swing
+    yue: 搖擺樂
+    zh: 搖擺樂
+    zh-cn: 摇摆乐
+    zh-hans: 摇摆乐
+    zh-hant: 搖擺樂
+    zh-hk: 搖擺樂
+    zh-sg: 摇摆乐
+    zh-tw: 搖擺樂
 ---
-
 # [[Swing_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Swing_music,203775|WD~Swing_music,203775]] 

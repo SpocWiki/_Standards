@@ -1,43 +1,232 @@
 ---
 aliases:
-  - Papua New Guinea
-  - Papua Nueva Guinea
-  - Papouasie-Nouvelle-Guinée
-  - بابوا غينيا الجديدة
-  - 巴布亚新几内亚
-  - Папуа-Новая Гвинея
-  - Independent State of Papua New Guinea
-  - Estado Independiente de Papua Nueva Guinea
-  - Papua_New_Guinea
-  - Papua-New_Guinea
-  - Papua-New Guinea
+- Babwa ginya tamaynut
+- Bahbuyasinhgijneiya
+- Chooyééł Dineʼé Bikéyah
+- Estado Independiente de Papua Nueva Guinea
+- Gini eNtsha yasePapuwa
+- Gini Nuadh Phaputhach
+- I-Papua Nyugini
+- Independent State of Papua New Guinea
+- ma Papuwanijukini
+- Neoginea Papu
+- Nua-Ghuine Phapua
+- Paappu'aa Niwuu Giinii
+- Paapua Uus-Guinea
+- Paapua Vahtsõnõ Ginea
+- Papoa Ginea Vao
+- Papoa-Nòva Guinèa
+- Papoasie-Novèla-Guinê
+- Papoea Nieuw-Hunea
+- Papoea Nij-Guinea
+- Papoea-Nieu-Guinee
+- Papoea-Nieuw-Guinea
+- Papoea-Nui-Guinea
+- Papooey Guinea Noa
+- Papoua Ginea-Nevez
+- Papoua Gyni Nowydh
+- Papouasie-Nouvelle-Guinée
+- Papouazi-Nouvèl-Giné
+- Papua
+- Papua Bagong Guineya
+- Papua Baro a Guinea
+- Papua Eni Gvineya
+- Papua Gine Nova
+- Papua Ginea Berria
+- Papua Gineya Newiye
+- Papua Gini Newydd
+- Papua Guinea e Re
+- Papua Guinea Mpya
+- Papua Guinea Titun
+- Papua Gîneya Nû
+- Papua Mueva Guinea
+- Papua Naujoji Gvinėja
+- Papua Naujuojė Gvėniejė
+- Papua Neuva Guinea
+- Papua Nevo Guiney
+- Papua New Guinea
+- Papua Niu Gini
+- Papua Niu Guinéa
+- Papua Niugini
+- Papua Noua Guinee
+- Papua Nov-Guinéa
+- Papua Nova Guinea
+- Papua Nova Gvineja
+- Papua Nove Guinea
+- Papua Nová Guinea
+- Papua Nu Gini
+- Papua Nueva Guinea
+- Papua Nugini
+- Papua Nuova Guinea
+- Papua Ny Guinea
+- Papua Ny-Guinea
+- Papua Nya Guinea
+- Papua Nyguinea
+- Papua Nyuu Gini
+- Papua Növa Guinea
+- Papua Nýguinea
+- Papua Nīw Guinea
+- Papua Nūkini
+- Papua Ođđa-Guinea
+- Papua y Nueva Guinea
+- Papua Yangi Gvineya
+- Papua Yankwik Gineah
+- Papua Yañı Gvineya
+- Papua Yeni Gine
+- Papua — Uz' Gvinei
+- Papua-Jaungvineja
+- Papua-Jańa Gvineya
+- Papua-Nei-Guinea
+- Papua-Neiginea
+- Papua-Neiguinea
+- Papua-Neuguinea
+- Papua-New Guinea
+- Papua-New_Guinea
+- Papua-Niegguinea
+- Papua-Nieuw-Guinea
+- Papua-Nova Guiné
+- Papua-Nova-Guinea
+- Papua-Nová Guinea
+- Papua-Nowa Gwinea
+- Papua-Nowo Gwinyjo
+- Papua-Nuoba Guiné
+- Papua-Ođđ-Guinea
+- Papua-Täze Gwineýa
+- Papua-Uusi-Guinea
+- Papua-Uuzi Guinea
+- Papua-Uđđâ-Guinea
+- Papua-Yeni Qvineya
+- Papuaniuginia
+- Papua_New_Guinea
+- Papuo-Nov-Gvineo
+- Papuveän Nula-Gineyän
+- Papuwa Nuveli Gineya
+- Papuwa-Nowa Gineja
+- Papuwaasi-Gine-Gu-Bees
+- Papuwazii
+- Papwa Gini A̱fai
+- Papwa Ñukini
+- Papwa-Giné ya Sika
+- Papwazi-Nouvèl-Gine
+- Papúa Gynéa Pyahu
+- Papúa Nueva Guinea
+- Papúa Nýja-Gínea
+- Papúa-Nova Guinea
+- Papû Finî Ginëe
+- Pàpua Noa Guinea
+- Pàpua Nova Guinea
+- Pápua Új-Guinea
+- Pāpua
+- Pāpua Niu Kini
+- Pāpua Nūkini
+- Sabuwar Gini Papuwa
+- Παπούα Νέα Γουινέα
+- Папоуа · Нова Гвинєꙗ
+- Папуæ — Ног Гвиней
+- Папуа - Ҫӗнӗ Гвинея
+- Папуа Жаңа Гвинея
+- Папуа Нова Гвінея
+- Папуа Нова Гвинеја
+- Папуа Нова Гвинея
+- Папуа Нова Ґвінея
+- Папуа Саҥа Гуинея
+- Папуа Шинэ Гвиней
+- Папуа — Выль Гвинея
+- Папуа — Джангы Гвинея
+- Папуа — Керла Гвине
+- Папуа — Новая Гвінея
+- Папуа — Новая Гвінэя
+- Папуа — Новая Гвинея
+- Папуа — У Гвиней
+- Папуа — Яңа Гвинея
+- Папуа — Яңы Гвинея
+- Папуа-Гвинеиа ҿыц
+- Папуа-Жаӊы-Гвинея.
+- Папуа-Новая Гвинея
+- Папуа-У Гвиней
+- Папуа-Шэнэ Гвинея
+- Папуһасин болн Шин Гвинемудин Орн
+- Попуо Гинеяи Нав
+- Պապուա Նոր Գվինեա
+- פאפוא ניי גינע
+- פפואה גינאה החדשה
+- بابوا غينيا الجديدة
+- بابوا نيو جينيا
+- نوې پاپواګينه
+- پاپوآ نو گینه
+- پاپوآ گینه نو
+- پاپوا غينيا الجديدة
+- پاپوا غينيا جديدة
+- پاپوا نيو گني
+- پاپوا نیو گنی
+- پاپوا گینێی نوێ
+- پاپوا یئنی قینه
+- پاپوانیوگنی
+- پاپۇئا يېڭى گۋىنېيە
+- پاپۊآ نؤ گينه
+- ޕަޕުއާ ނިއު ގިނީ
+- पपुवा न्यु गिनिया
+- पपुवा न्युगिनी
+- पपुवा न्यू गिनी
+- पपुवा न्हु गिनिया
+- पापुआ न्यू गिनी
+- पापुआ न्यू गीनिया
+- পাপুয়া নিউগিনি
+- ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ
+- પપુઆ ન્યુ ગીની
+- ପାପୁଆ ନିଉ ଗିନି
+- பப்புவா நியூ கினி
+- పాపువా న్యూ గినియా
+- ಪಾಪುಅ ನ್ಯೂ ಗಿನಿ
+- പാപുവ ന്യൂ ഗിനിയ
+- පැපුවා නව ගිනියාව
+- ประเทศปาปัวนิวกินี
+- ປະເທດປາປົວນິວກີເນ
+- པ་པུ་འ་ནིའུ་གི་ནེ།
+- ပါပူအာနယူးဂီနီနိုင်ငံ
+- မိူင်းပႃးပႂႃႇၼိဝ်းၵီးၼီး
+- პაპუა-ახალი გვინეა
+- ፓፑዋ ኒው ጊኒ
+- ᏆᏇᎢᏤᎩᎢᏂ
+- ᐸᐳᐊ ᓂᐅ ᒍᐃᓇ
+- ប៉ាពួនូវែលគីនេ
+- ᱯᱟᱞᱩᱣᱟ ᱱᱤᱣ ᱜᱤᱱᱤ
+- ⴱⴰⴱⵡⴰ ⴳⵉⵏⵢⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ
+- パプアニューギニア
+- 巴布亚新几内亚
+- 巴布亞新幾內亞
+- 巴布亞新畿內亞
+- 巴布亞紐幾內亞
+- ꯄꯥꯄꯨꯋꯥ ꯅ꯭ꯌꯨ ꯒꯤꯅꯤ
+- 파푸아뉴기니
+- 파푸아뉴기니아
 has_id_wikidata: Q691
 confidential: public
 cssclasses:
-  - Country
+- Country
 draft: false
-expiryDate: ""
+expiryDate: ''
 icon: flag-pg
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - en-PG
-  - ho
-  - meu
-  - tpi
-layout: ""
+- en-PG
+- ho
+- meu
+- tpi
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - -9.5
-  - 147.117
+- -9.5
+- 147.117
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26993
 tags:
-  - geo/Country
+- geo/Country
 title: Papua New Guinea
 type: Country
 dv_ISO4217-currency_alphabetic: PGK
@@ -50,8 +239,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Papua New Guinea
 dv_has_name_en:
-  - Papua New Guinea
-  - Papua New Guinea
+- Papua New Guinea
+- Papua New Guinea
 dv_has_name_es: Papua Nueva Guinea
 dv_has_name_fr: Papouasie-Nouvelle-Guinée
 dv_has_name_cn: 巴布亚新几内亚
@@ -70,9 +259,9 @@ dv_UNTERM_Chinese_Formal: 巴布亚新几内亚独立国
 dv_UNTERM_French_Formal: l'État indépendant de Papouasie-Nouvelle-Guinée
 dv_UNTERM_Russian: Папуа-Новая Гвинея
 dv_UNTERM_Russian_Formal: Независимое государство Папуа-Новая Гвинея
-dv_Region_Name: "[[../../../Oceania]]"
-dv_Intermediate_Region_Name: "[[Papua-New_Guinea]]"
-dv_Sub-region_Name: "[[../../../Australasia/Melanesia]]]"
+dv_Region_Name: '[[../../../Oceania]]'
+dv_Intermediate_Region_Name: '[[Papua-New_Guinea]]'
+dv_Sub-region_Name: '[[../../../Australasia/Melanesia]]]'
 dv_Region: 9
 dv_Sub-region: 54
 dv_Geoname-ID: 2088628
@@ -96,37 +285,305 @@ dv_ISO2: PG
 dv_ISO3: PNG
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]"
+  - '[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]'
 dv_has_name_de: Papua-Neuguinea
 dv_Area-Total: 462840
 dv_Area-Land: 452860
-dv_has_place_continent: "[[../../../Oceania]]"
+dv_has_place_continent: '[[../../../Oceania]]'
 dv_VehicleCode: PNG
-dv_Capital: "[[Port_Moresby]]"
+dv_Capital: '[[Port_Moresby]]'
 dv_Alcohol-l: 3.5
 dv_Language-Id: 499
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 147.117
 dv_has_place_latitude: -9.5
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]"
+- '[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]'
+- '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]'
+dv_has_:
+  name_:
+    ab: Папуа-Гвинеиа ҿыц
+    ace: Papua New Guinea
+    aeb-arab: پاپوا غينيا الجديدة
+    af: Papoea-Nieu-Guinee
+    am: ፓፑዋ ኒው ጊኒ
+    ami: Papua new guinea
+    an: Papua y Nueva Guinea
+    ang: Papua Nīw Guinea
+    anp: पापुआ न्यू गीनिया
+    ar: بابوا غينيا الجديدة
+    ary: پاپوا غينيا جديدة
+    arz: بابوا نيو جينيا
+    ast: Papúa Nueva Guinea
+    avk: Papuaniuginia
+    ay: Papua Nu Gini
+    az: Papua-Yeni Qvineya
+    azb: پاپوا یئنی قینه
+    ba: Папуа — Яңы Гвинея
+    ban: Papua Nugini
+    bar: Papua-Neuguinea
+    bcl: Papua Bagong Guineya
+    be: Папуа — Новая Гвінея
+    be-tarask: Папуа — Новая Гвінэя
+    bew: Papua Nugini
+    bg: Папуа Нова Гвинея
+    bi: Papua New Guinea
+    bn: পাপুয়া নিউগিনি
+    bo: པ་པུ་འ་ནིའུ་གི་ནེ།
+    bpy: পাপুয়া নিউগিনি
+    br: Papoua Ginea-Nevez
+    bs: Papua Nova Gvineja
+    bxr: Папуа-Шэнэ Гвинея
+    ca: Papua Nova Guinea
+    cbk-zam: Papua Nueva Guinea
+    cdo: Papua New Guinea
+    ce: Папуа — Керла Гвине
+    ceb: Papua New Guinea
+    chr: ᏆᏇᎢᏤᎩᎢᏂ
+    chy: Papua New Guinea
+    ckb: پاپوا گینێی نوێ
+    crh: Papua Yañı Gvineya
+    crh-latn: Papua Yañı Gvineya
+    cs: Papua Nová Guinea
+    cu: Папоуа · Нова Гвинєꙗ
+    cv: Папуа - Ҫӗнӗ Гвинея
+    cy: Papua Gini Newydd
+    da: Papua Ny Guinea
+    dag: Papua New Guinea
+    de: Papua-Neuguinea
+    de-ch: Papua-Neuguinea
+    din: Papua New Guinea
+    diq: Papua Gineya Newiye
+    dsb: Papua-Neuguinea
+    dtp: Papua New Guinea
+    dty: पपुवा न्युगिनी
+    dv: ޕަޕުއާ ނިއު ގިނީ
+    el: Παπούα Νέα Γουινέα
+    en: Papua New Guinea
+    en-ca: Papua New Guinea
+    en-gb: Papua New Guinea
+    en-us: Papua New Guinea
+    eo: Papuo-Nov-Gvineo
+    es: Papúa Nueva Guinea
+    et: Paapua Uus-Guinea
+    eu: Papua Ginea Berria
+    ext: Papua Nueva Guinea
+    fa: پاپوآ گینه نو
+    fi: Papua-Uusi-Guinea
+    fj: Papua New Guinea
+    fo: Papua Nýguinea
+    fr: Papouasie-Nouvelle-Guinée
+    frp: Papoasie-Novèla-Guinê
+    frr: Papua-Nei-Guinea
+    fy: Papoea Nij-Guinea
+    ga: Nua-Ghuine Phapua
+    gag: Papua Eni Gvineya
+    gcr: Papouazi-Nouvèl-Giné
+    gd: Gini Nuadh Phaputhach
+    gl: Papúa-Nova Guinea
+    glk: پاپۊآ نؤ گينه
+    gn: Papúa Gynéa Pyahu
+    gom: पापुआ न्यू गिनी
+    gom-deva: पापुआ न्यू गिनी
+    gom-latn: Papua New Guinea
+    gpe: Papua New Guinea
+    gsw: Papua-Neiginea
+    gu: પપુઆ ન્યુ ગીની
+    gv: Papooey Guinea Noa
+    ha: Sabuwar Gini Papuwa
+    hak: Papua New Guinea
+    haw: Pāpua Nūkini
+    he: פפואה גינאה החדשה
+    hi: पापुआ न्यू गिनी
+    hif: Papua New Guinea
+    hr: Papua Nova Gvineja
+    hsb: Papuwa-Nowa Gineja
+    ht: Papwazi-Nouvèl-Gine
+    hu: Pápua Új-Guinea
+    hy: Պապուա Նոր Գվինեա
+    ia: Papua Nove Guinea
+    id: Papua Nugini
+    ie: Papua Nov-Guinéa
+    ilo: Papua Baro a Guinea
+    io: Papua-Nova-Guinea
+    is: Papúa Nýja-Gínea
+    it: Papua Nuova Guinea
+    iu: ᐸᐳᐊ ᓂᐅ ᒍᐃᓇ
+    ja: パプアニューギニア
+    jam: Papua Nyuu Gini
+    jv: Papua Niu Guinéa
+    ka: პაპუა-ახალი გვინეა
+    kaa: Papua-Jańa Gvineya
+    kab: Babwa ginya tamaynut
+    kbp: Papuwazii
+    kcg: Papwa Gini A̱fai
+    kge: Papua Nugini
+    kk: Папуа Жаңа Гвинея
+    kl: Papua Ny Guinea
+    km: ប៉ាពួនូវែលគីនេ
+    kn: ಪಾಪುಅ ನ್ಯೂ ಗಿನಿ
+    ko: 파푸아뉴기니
+    ko-kp: 파푸아뉴기니아
+    krc: Папуа — Джангы Гвинея
+    krj: Neoginea Papu
+    ku: Papua Gîneya Nû
+    kw: Papoua Gyni Nowydh
+    ky: Папуа-Жаӊы-Гвинея.
+    la: Papua Nova Guinea
+    lad: Papua Mueva Guinea
+    lb: Papua-Neiguinea
+    lfn: Papua Gine Nova
+    li: Papoea-Nui-Guinea
+    lij: Papua Neuva Guinea
+    lld: Papua Nueva Guinea
+    lmo: Papua Növa Guinea
+    ln: Papwa-Giné ya Sika
+    lo: ປະເທດປາປົວນິວກີເນ
+    lt: Papua Naujoji Gvinėja
+    lv: Papua-Jaungvineja
+    lzh: 巴布亚新几内亚
+    mad: Papua Nugini
+    map-bms: Papua Nugini
+    mg: Papoa Ginea Vao
+    mhr: Папуа-У Гвиней
+    mi: Papua Nūkini
+    min: Papua Nugini
+    mk: Папуа Нова Гвинеја
+    ml: പാപുവ ന്യൂ ഗിനിയ
+    mn: Папуа Шинэ Гвиней
+    mni: ꯄꯥꯄꯨꯋꯥ ꯅ꯭ꯌꯨ ꯒꯤꯅꯤ
+    mos: Papua New Guinea
+    mr: पापुआ न्यू गिनी
+    mrj: Папуа — У Гвиней
+    ms: Papua New Guinea
+    mt: Papua New Guinea
+    mwl: Papua-Nuoba Guiné
+    my: ပါပူအာနယူးဂီနီနိုင်ငံ
+    mzn: پاپوآ نو گینه
+    na: Papua New Guinea
+    nah: Papua Yankwik Gineah
+    nan: Papua New Guinea
+    nb: Papua Ny-Guinea
+    nds: Papua-Niegguinea
+    nds-nl: Papua Nyguinea
+    ne: पपुवा न्यु गिनिया
+    new: पपुवा न्हु गिनिया
+    nia: Papua Nugini
+    nl: Papoea-Nieuw-Guinea
+    nn: Papua Ny-Guinea
+    nv: Chooyééł Dineʼé Bikéyah
+    oc: Papoa-Nòva Guinèa
+    olo: Papua-Uuzi Guinea
+    om: Paappu'aa Niwuu Giinii
+    or: ପାପୁଆ ନିଉ ଗିନି
+    os: Папуæ — Ног Гвиней
+    pa: ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ
+    pam: Papua New Guinea
+    pap: Papua-Nieuw-Guinea
+    pcm: Papua Niu Gini
+    pi: पपुवा न्यू गिनी
+    pih: Papua Nyuu Gini
+    pl: Papua-Nowa Gwinea
+    pms: Papua Neuva Guinea
+    pnb: پاپوانیوگنی
+    ps: نوې پاپواګينه
+    pt: Papua-Nova Guiné
+    pt-br: Papua-Nova Guiné
+    qu: Papwa Ñukini
+    rki: ပါပူအာနယူးဂီနီနိုင်ငံ
+    rmy: Papua Nevo Guiney
+    ro: Papua Noua Guinee
+    ru: Папуа — Новая Гвинея
+    rue: Папуа Нова Ґвінея
+    rw: Papuwa Nuveli Gineya
+    sa: पपुवा न्यू गिनी
+    sah: Папуа Саҥа Гуинея
+    sat: ᱯᱟᱞᱩᱣᱟ ᱱᱤᱣ ᱜᱤᱱᱤ
+    sc: Pàpua Noa Guinea
+    scn: Papua Nova Guinea
+    sco: Papua New Guinea
+    sd: پاپوا نيو گني
+    se: Papua Ođđa-Guinea
+    sg: Papû Finî Ginëe
+    sgs: Papua Naujuojė Gvėniejė
+    sh: Papua Nova Gvineja
+    shn: မိူင်းပႃးပႂႃႇၼိဝ်းၵီးၼီး
+    si: පැපුවා නව ගිනියාව
+    sk: Papua-Nová Guinea
+    sl: Papua Nova Gvineja
+    sm: Papua
+    smn: Papua-Uđđâ-Guinea
+    sms: Papua-Ođđ-Guinea
+    sn: Papua New Guinea
+    so: Papua New Guinea
+    sq: Papua Guinea e Re
+    sr: Папуа Нова Гвинеја
+    sr-ec: Папуа Нова Гвинеја
+    sr-el: Papua Nova Gvineja
+    su: Papua Nugini
+    sv: Papua Nya Guinea
+    sw: Papua Guinea Mpya
+    szl: Papua-Nowo Gwinyjo
+    szy: Papua new guinea
+    ta: பப்புவா நியூ கினி
+    tay: Papua new guinea
+    te: పాపువా న్యూ గినియా
+    tg: Попуо Гинеяи Нав
+    th: ประเทศปาปัวนิวกินี
+    tk: Papua-Täze Gwineýa
+    tl: Papua New Guinea
+    to: Pāpua Niu Kini
+    tok: ma Papuwanijukini
+    tpi: Papua Niugini
+    tr: Papua Yeni Gine
+    trv: Papua New Guinea
+    tt: Папуа — Яңа Гвинея
+    ty: Pāpua
+    udm: Папуа — Выль Гвинея
+    ug: پاپۇئا يېڭى گۋىنېيە
+    uk: Папуа Нова Гвінея
+    ur: پاپوا نیو گنی
+    uz: Papua Yangi Gvineya
+    vec: Pàpua Nova Guinea
+    vep: Papua — Uz' Gvinei
+    vi: Papua New Guinea
+    vls: Papoea-Nieuw-Guinea
+    vo: Papuveän Nula-Gineyän
+    vro: Paapua Vahtsõnõ Ginea
+    war: Papua New Guinea
+    wo: Papuwaasi-Gine-Gu-Bees
+    wuu: 巴布亞新幾內亞
+    xal: Папуһасин болн Шин Гвинемудин Орн
+    xh: Gini eNtsha yasePapuwa
+    xmf: პაპუა-ახალი გვინეა
+    yi: פאפוא ניי גינע
+    yo: Papua Guinea Titun
+    yue: 巴布亞新畿內亞
+    za: Bahbuyasinhgijneiya
+    zea: Papoea Nieuw-Hunea
+    zgh: ⴱⴰⴱⵡⴰ ⴳⵉⵏⵢⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ
+    zh: 巴布亚新几内亚
+    zh-cn: 巴布亚新几内亚
+    zh-hans: 巴布亚新几内亚
+    zh-hant: 巴布亞紐幾內亞
+    zh-hk: 巴布亞新畿內亞
+    zh-tw: 巴布亞紐幾內亞
+    zu: I-Papua Nyugini
 ---
-
 # [[Papua-New_Guinea]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 

@@ -1,8 +1,85 @@
 ---
 aliases:
-  - Potamochoerus
+- Buschschweine
+- busksvin og penselsvin
+- Dzikan
+- Krūmyninės kiaulės
+- pensselisiat
+- Potamochoerus
+- Potamochère
+- Potamoker
+- povodna svinja
+- wafokoleem
+- štětkoun
+- Ποταμόχοιρος
+- Кистеухие свиньи
+- חזיר אדום
+- خنزير النهر
+- رودخوکها
+- पोटामोकोएरस
+- カワイノシシ属
+- 非洲野猪属
+- 非洲野豬
+- 非洲野豬屬
+- 강멧돼지속
 title: Potamochoerus
 has_id_wikidata: Q632928
+dv_has_:
+  name_:
+    an: Potamochoerus
+    ar: خنزير النهر
+    arz: خنزير النهر
+    ast: Potamochoerus
+    avk: wafokoleem
+    ban: Potamochoerus
+    bg: Potamochoerus
+    br: Potamoker
+    ca: Potamochoerus
+    ceb: Potamochoerus
+    cs: štětkoun
+    de: Buschschweine
+    el: Ποταμόχοιρος
+    en: Potamochoerus
+    eo: Potamochoerus
+    es: Potamochoerus
+    eu: Potamochoerus
+    ext: Potamochoerus
+    fa: رودخوکها
+    fi: pensselisiat
+    fr: Potamochère
+    ga: Potamochoerus
+    gl: Potamochoerus
+    he: חזיר אדום
+    hi: पोटामोकोएरस
+    hu: Potamochoerus
+    ia: Potamochoerus
+    ie: Potamochoerus
+    io: Potamochoerus
+    it: Potamochoerus
+    ja: カワイノシシ属
+    ko: 강멧돼지속
+    la: Potamochoerus
+    lt: Krūmyninės kiaulės
+    mul: Potamochoerus
+    nb: busksvin og penselsvin
+    nl: Potamochoerus
+    oc: Potamochoerus
+    pl: Dzikan
+    pt: Potamochoerus
+    pt-br: Potamochoerus
+    ro: Potamochoerus
+    ru: Кистеухие свиньи
+    sl: povodna svinja
+    sq: Potamochoerus
+    sv: Potamochoerus
+    uk: Potamochoerus
+    vi: Potamochoerus
+    vo: Potamochoerus
+    war: Potamochoerus
+    yue: 非洲野豬
+    zh: 非洲野猪属
+    zh-cn: 非洲野猪属
+    zh-tw: 非洲野豬屬
 ---
 # [[Potamochoerus]] 
 ![ ](Potamochoerus/126136127_3fa04e5125_o.jpg) 

@@ -1,8 +1,44 @@
 ---
 aliases:
-  - Stenandriopsis
+- Stenandriopsis
 title: Stenandriopsis Clade
 has_id_wikidata: Q10374140
+dv_has_:
+  name_:
+    an: Stenandriopsis
+    ast: Stenandriopsis
+    bg: Stenandriopsis
+    ca: Stenandriopsis
+    ceb: Stenandriopsis
+    de: Stenandriopsis
+    en: Stenandriopsis
+    eo: Stenandriopsis
+    es: Stenandriopsis
+    eu: Stenandriopsis
+    ext: Stenandriopsis
+    fi: Stenandriopsis
+    fr: Stenandriopsis
+    ga: Stenandriopsis
+    gl: Stenandriopsis
+    hr: Stenandriopsis
+    ia: Stenandriopsis
+    ie: Stenandriopsis
+    io: Stenandriopsis
+    it: Stenandriopsis
+    la: Stenandriopsis
+    mul: Stenandriopsis
+    nl: Stenandriopsis
+    oc: Stenandriopsis
+    pl: Stenandriopsis
+    pt: Stenandriopsis
+    pt-br: Stenandriopsis
+    ro: Stenandriopsis
+    ru: Stenandriopsis
+    sq: Stenandriopsis
+    uk: Stenandriopsis
+    vi: Stenandriopsis
+    vo: Stenandriopsis
+    war: Stenandriopsis
 ---
 # [[Stenandriopsis]] 
 

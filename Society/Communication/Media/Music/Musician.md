@@ -1,9 +1,315 @@
 ---
 aliases:
-  - Musicians
-  - ''
-  - Musician
+- amusiqi
+- atõihára
+- ceoltóir
+- cerddor
+- Cuīcatiani
+- glasbenik
+- glazbenik
+- hudebník
+- hudobník
+- hudźbnik
+- ilewydh
+- Im-ga̍k-ka
+- kaiwhakatangitangi
+- kiaulleyder
+- maghuhuni
+- mawaƙi
+- Metoweriniw
+- Mizisyen
+- mpitendry mozika
+- muisicker
+- Museker
+- musicaire
+- musicante
+- Musichien
+- Musician
+- Musicians
+- musicien ou musicienne
+- musicista
+- musiciste
+- musico
+- musicus
+- musigan
+- musihkkár
+- musiiker
+- Musika
+- musikant
+- musikar
+- musikari
+- Musiker
+- Musikero
+- musikiero
+- musikkneǩ
+- musikkár
+- musiko
+- musiqachi
+- musiqiçi
+- Musisi
+- musiǧiəžən
+- muusik
+- muusikko
+- muxicìsta
+- Muyimbeleri wa vunanga
+- muzician
+- muzikaant
+- muzikant
+- muzikantas
+- muziker
+- muzikisto
+- muzisista
+- Muzisyen
+- muzičar
+- muzyk
+- muzîkvan
+- muzıkant
+- mużiċist
+- Mwanamuziki
+- músic
+- músico
+- músicu
+- müzisyen
+- mūziķis
+- neach-ciùil
+- nhạc sĩ
+- olórin
+- onye egwu
+- pemusik
+- pemuzik
+- Souneus
+- tocaol
+- Tukang gending
+- tónleikari
+- Tónlistarmaður
+- Umculi
+- umiiweng
+- zenész
+- çalğıcı
+- μουσικός
+- кьавал
+- музикант
+- Музичар
+- музыка
+- музыкант
+- музыкачы
+- мусиқидон
+- мусукаан
+- седайсь
+- седиця
+- хүгжэмшэ
+- երաժիշտ
+- מוזיקאי
+- מוזיקער
+- فنان موسيقي
+- مزقونچی
+- موسيقى
+- موسيقي
+- موسیقار
+- موسیقیدان
+- موسیقیچی
+- موٗسیٖقار
+- ميوزيشن
+- مۆسیقاژەن
+- ڤموزيک
+- ߘߐ߲߬ߞߟߌ߬ߟߊ߬ߟߊ
+- संगीतकार
+- সংগীতজ্ঞ
+- সঙ্গীতজ্ঞ
+- ਸੰਗੀਤਕਾਰ
+- સંગીતકાર
+- இசைக் கலைஞர்
+- సగీతకారులు
+- ಸಂಗೀತಗಾರ
+- ഗായകൻ
+- นักดนตรี
+- ນັກດົນຕີ
+- မေႃသႅင်း
+- მუსიკოსი
+- 音乐家
+- 音楽家
+- 音樂家
+- 음악가
 has_id_wikidata: Q639669
+dv_has_:
+  name_:
+    acm: موسيقي
+    af: musikant
+    an: musico
+    anp: संगीतकार
+    ar: موسيقي
+    ary: فنان موسيقي
+    arz: موسيقى
+    as: সংগীতজ্ঞ
+    ast: músicu
+    atj: Metoweriniw
+    az: musiqiçi
+    azb: موسیقیچی
+    ba: музыкант
+    bar: Musika
+    bcl: Musikero
+    be: музыкант
+    be-tarask: музыка
+    bew: Tukang gending
+    bg: музикант
+    bn: সঙ্গীতজ্ঞ
+    br: muziker
+    bs: muzičar
+    bxr: хүгжэмшэ
+    ca: músic
+    ceb: maghuhuni
+    ckb: مۆسیقاژەن
+    co: musicante
+    crh-latn: çalğıcı
+    cs: hudebník
+    cy: cerddor
+    da: musiker
+    de: Musiker
+    de-at: Musiker
+    de-ch: Musiker
+    diq: Muzisyen
+    el: μουσικός
+    en: musician
+    eo: muzikisto
+    es: músico
+    et: muusik
+    eu: musikari
+    ext: tocaol
+    fa: موسیقیدان
+    fi: muusikko
+    fo: tónleikari
+    fr: musicien ou musicienne
+    frr: musiiker
+    ga: ceoltóir
+    gd: neach-ciùil
+    gl: músico
+    gn: atõihára
+    gsw: Musiker
+    gu: સંગીતકાર
+    gv: kiaulleyder
+    ha: mawaƙi
+    he: מוזיקאי
+    hi: संगीतकार
+    hr: glazbenik
+    hsb: hudźbnik
+    ht: Mizisyen
+    hu: zenész
+    hy: երաժիշտ
+    ia: musico
+    id: pemusik
+    ig: onye egwu
+    ilo: umiiweng
+    io: muzikisto
+    is: Tónlistarmaður
+    it: musicista
+    ja: 音楽家
+    jv: Musisi
+    ka: მუსიკოსი
+    kaa: muzıkant
+    kab: amusiqi
+    kk: музыкант
+    kn: ಸಂಗೀತಗಾರ
+    ko: 음악가
+    ks: موٗسیٖقار
+    ku: muzîkvan
+    ku-latn: muzîkvan
+    kw: ilewydh
+    ky: Музыкант
+    la: musicus
+    lb: Museker
+    lez: кьавал
+    lfn: musiciste
+    lij: muxicìsta
+    lo: ນັກດົນຕີ
+    lt: muzikantas
+    lv: mūziķis
+    mai: संगीतकार
+    mdf: седайсь
+    mg: mpitendry mozika
+    mi: kaiwhakatangitangi
+    mk: музичар
+    ml: ഗായകൻ
+    mr: संगीतकार
+    ms: pemuzik
+    ms-arab: ڤموزيک
+    mt: mużiċist
+    myv: седиця
+    mzn: مزقونچی
+    nah: Cuīcatiani
+    nan: Im-ga̍k-ka
+    nb: musiker
+    nds: Musiker
+    nds-nl: muzikaant
+    ne: संगीतकार
+    nl: muzikant
+    nn: musikar
+    nqo: ߘߐ߲߬ߞߟߌ߬ߟߊ߬ߟߊ
+    nrm: Souneus
+    oc: musicaire
+    os: музыкант
+    pa: ਸੰਗੀਤਕਾਰ
+    pap: musiko
+    pap-aw: musico
+    pcd: Musichien
+    pl: muzyk
+    pnb: موسیقار
+    ps: ميوزيشن
+    pt: músico
+    pt-br: músico
+    rmf: musikiero
+    ro: muzician
+    rsk: Музичар
+    ru: музыкант
+    rue: музикант
+    sah: мусукаан
+    sc: musicista
+    sco: muisicker
+    se: musihkkár
+    sh: muzičar
+    shn: မေႃသႅင်း
+    sk: hudobník
+    sl: glasbenik
+    smn: musikkár
+    sms: musikkneǩ
+    sq: muzikant
+    sr: музичар
+    sr-ec: музичар
+    sr-el: muzičar
+    su: Musisi
+    sv: musiker
+    sw: Mwanamuziki
+    ta: இசைக் கலைஞர்
+    te: సగీతకారులు
+    tg: мусиқидон
+    th: นักดนตรี
+    tl: musiko
+    tly: musiǧiəžən
+    tr: müzisyen
+    ts: Muyimbeleri wa vunanga
+    tt: музыкачы
+    tt-cyrl: музыкачы
+    uk: музикант
+    ur: موسیقار
+    uz: musiqachi
+    vec: muzisista
+    vep: muzikant
+    vi: nhạc sĩ
+    vo: musigan
+    wuu: 音乐家
+    xmf: მუსიკოსი
+    yi: מוזיקער
+    yo: olórin
+    yue: 音樂家
+    zh: 音樂家
+    zh-cn: 音乐家
+    zh-hans: 音乐家
+    zh-hant: 音樂家
+    zh-hk: 音樂家
+    zh-mo: 音樂家
+    zh-my: 音乐家
+    zh-sg: 音乐家
+    zh-tw: 音樂家
+    zu: Umculi
 ---
 ## #has_/text_of_/abstract 
 

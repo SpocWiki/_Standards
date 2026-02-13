@@ -1,79 +1,206 @@
 ---
 aliases:
-  - Herpes
-  - Herpes simplex
-  - Herpes_Simplex
-  - Herpes Simplex
+- Breac-òtraich
+- Dampa
+- heirpéas simplí
+- Herpes
+- Herpes simple
+- Herpes simpleks
+- Herpes simplex
+- herpes syml
+- Herpes đơn dạng
+- herpesas
+- herpesz
+- Herpes_Simplex
+- herpeto
+- herpès
+- hèrpes
+- jednoduchý opar
+- Kayap
+- Ugonjwa wa hepesi simpleksi
+- vienkāršā pūslīšēde
+- zakażenia opryszczkowe
+- Áblástur
+- Èpès senpleks
+- απλός έρπης
+- герпес
+- герпес простий
+- герпэс
+- Табхол
+- Херпес
+- Հասարակ հերպես
+- הרפס
+- اوچوق
+- تبخال
+- هربس
+- گنش(ناخشی)
+- ہرپیز
+- सरल परिसर्प
+- হার্পিস সিমপ্লেক্স
+- হাৰ্পিছ ছিম্প্লেক্স
+- ହର୍ପିସ୍ ସିମ୍ପ୍ଲେକ୍ସ୍
+- அக்கி
+- సర్పి
+- ಸರ್ಪ ಸುತ್ತು
+- เริม
+- 单纯疱疹
+- 単純疱疹
+- 單純疱疹
+- 疱疹
+- 단순포진
 has_id_wikidata: Q6473911
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~aciclovir,147101]]'
-  - '[[_Standards/WikiData/WD~vidarabine,415107]]'
-  - '[[_Standards/WikiData/WD~valacyclovir,418594]]'
-  - '[[_Standards/WikiData/WD~famciclovir,420186]]'
-  - '[[_Standards/WikiData/WD~penciclovir,420364]]'
-  - '[[_Standards/WikiData/WD~foscarnet,420387]]'
-  - '[[_Standards/WikiData/WD~benzocaine,422745]]'
-  - '[[_Standards/WikiData/WD~trifluridine,2359590]]'
-  - '[[_Standards/WikiData/WD~docosanol,3033497]]'
-  - '[[_Standards/WikiData/WD~acedoben_sodium,27280825]]'
+- '[[_Standards/WikiData/WD~aciclovir,147101]]'
+- '[[_Standards/WikiData/WD~vidarabine,415107]]'
+- '[[_Standards/WikiData/WD~valacyclovir,418594]]'
+- '[[_Standards/WikiData/WD~famciclovir,420186]]'
+- '[[_Standards/WikiData/WD~penciclovir,420364]]'
+- '[[_Standards/WikiData/WD~foscarnet,420387]]'
+- '[[_Standards/WikiData/WD~benzocaine,422745]]'
+- '[[_Standards/WikiData/WD~trifluridine,2359590]]'
+- '[[_Standards/WikiData/WD~docosanol,3033497]]'
+- '[[_Standards/WikiData/WD~acedoben_sodium,27280825]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~dermatology,171171]]'
-  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~dermatology,171171]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~blister,276469]]'
-  - '[[_Standards/WikiData/WD~low_grade_fever,480971]]'
-  - '[[_Standards/WikiData/WD~rash,653197]]'
-  - '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
+- '[[_Standards/WikiData/WD~blister,276469]]'
+- '[[_Standards/WikiData/WD~low_grade_fever,480971]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-  - '[[_Standards/WikiData/WD~Simplexvirus_infectious_disease,55009463]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~Simplexvirus_infectious_disease,55009463]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
-  - '[[_Standards/WikiData/WD~placental_transmission,12059568]]'
-  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+- '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+- '[[_Standards/WikiData/WD~placental_transmission,12059568]]'
+- '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~Simplexvirus_humanalpha2,18965147]]'
-  - '[[_Standards/WikiData/WD~Simplexvirus_humanalpha1,24808667]]'
+- '[[_Standards/WikiData/WD~Simplexvirus_humanalpha2,18965147]]'
+- '[[_Standards/WikiData/WD~Simplexvirus_humanalpha1,24808667]]'
 minimal_incubation_period_in_humans: 4
 maximal_incubation_period_in_humans: 12
 DiseasesDB:
-  - 5841
-  - 33021
+- 5841
+- 33021
 ICD_9_CM:
-  - 054
-  - 058.89
+- 054
+- 058.89
 ICD_10_CM:
-  - B00
-  - B00.9
+- B00
+- B00.9
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20cytopathy.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20infection%20Case%20160%20%285442482607%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20pneumonia%20%283679099457%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20cytopathy.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20infection%20Case%20160%20%285442482607%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Herpes%20simplex%20pneumonia%20%283679099457%29.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:8566
-  - http://purl.obolibrary.org/obo/DOID_8566
+- http://identifiers.org/doid/DOID:8566
+- http://purl.obolibrary.org/obo/DOID_8566
 Dewey_Decimal_Classification:
-  - 614.5812
-  - 616.522
+- 614.5812
+- 616.522
 UMLS_CUI: C0019348
 MeSH_tree_code:
-  - C01.925.256.466.382
-  - C01.925.825.320
-  - C17.800.838.790.320
+- C01.925.256.466.382
+- C01.925.825.320
+- C17.800.838.790.320
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine054"]
 Commons_category: Herpes simplex
 Library_of_Congress_Classification: RC147.H6
+dv_has_:
+  name_:
+    af: Herpes simplex
+    ar: هربس
+    arz: هربس
+    as: হাৰ্পিছ ছিম্প্লেক্স
+    ast: Herpes simple
+    azb: اوچوق
+    be-tarask: герпэс
+    bew: Dampa
+    bg: Herpes simplex
+    bjn: Kayap
+    bn: হার্পিস সিমপ্লেক্স
+    br: Herpes
+    bs: Herpes
+    ca: herpes simple
+    cs: jednoduchý opar
+    cy: herpes syml
+    da: Herpes
+    de: Herpes simplex
+    el: απλός έρπης
+    en: herpes simplex
+    en-ca: Herpes simplex
+    en-gb: Herpes simplex
+    eo: herpeto
+    es: herpes simple
+    et: Herpes
+    eu: Herpes
+    fa: تبخال
+    fi: Herpes simplex
+    fr: herpès
+    ga: heirpéas simplí
+    gd: Breac-òtraich
+    gl: Herpes simple
+    gpe: herpes simplex
+    ha: Herpes simplex
+    he: הרפס
+    hi: सरल परिसर्प
+    hr: Herpes simpleks
+    ht: Èpès senpleks
+    hu: herpesz
+    hy: Հասարակ հերպես
+    id: Herpes simpleks
+    io: Herpeto
+    is: Áblástur
+    it: herpes
+    ja: 単純疱疹
+    kk: Герпес
+    kn: ಸರ್ಪ ಸುತ್ತು
+    ko: 단순포진
+    lt: herpesas
+    lv: vienkāršā pūslīšēde
+    mad: Herpes Simpleks
+    mk: Херпес
+    ms: Herpes
+    mzn: گنش(ناخشی)
+    nb: Herpes simplex
+    nl: herpes simplex
+    nn: herpes simplex
+    or: ହର୍ପିସ୍ ସିମ୍ପ୍ଲେକ୍ସ୍
+    pl: zakażenia opryszczkowe
+    pt: herpes
+    pt-br: Herpes
+    ru: герпес
+    sh: Herpes simplex
+    sk: Jednoduchý opar
+    sl: herpes simplex
+    sr: херпес
+    sr-ec: Херпес
+    sv: herpes simplex
+    sw: Ugonjwa wa hepesi simpleksi
+    ta: அக்கி
+    te: సర్పి
+    tg: Табхол
+    th: เริม
+    tl: Herpes
+    tr: Herpes simpleks
+    uk: герпес простий
+    ur: ہرپیز
+    vec: hèrpes
+    vi: Herpes đơn dạng
+    wuu: 单纯疱疹
+    yue: 疱疹
+    zh: 單純疱疹
 ---
-
 # [[Herpes_Simplex]] 
 
 #is_/same_as :: [[WD~Herpes_simplex,6473911]] 

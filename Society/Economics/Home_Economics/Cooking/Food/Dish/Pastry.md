@@ -1,20 +1,84 @@
 ---
 aliases:
-  - Gebäck
-  - Pastry
+- bagværk
+- bakaĵo
+- bakverk
+- crwst
+- cukrászsütemény
+- gebak
+- Gebäck
+- gozogintza
+- gwastell
+- Keke
+- kepinys
+- kue pastri
+- Küdsüs
+- Küpsetis
+- leivonnainen
+- mīklas izstrādājums
+- Ofelleria
+- Pasta
+- pastelaria
+- Pastelerya
+- pasticceria
+- pastissariá
+- Pastra
+- Pastri
+- Pastry
+- patiserie
+- Patisserie
+- Pecivo
+- pečivo
+- pječwo
+- pâtisserie
+- Påstaedjreye
+- rebosteria
+- repostaría
+- repostería
+- roti
+- taosrán
+- wypieki
+- Şirniyyat
+- αρτοσκεύασμα
+- выпечка
+- Нан бышыруу
+- Пĕçерĕм
+- пециво
+- печиво
+- тістечко
+- тестено изделие
+- ҡамыр аштары
+- Թխուածք
+- թխվածք
+- מגדנאות
+- شرنی
+- شیرینی
+- معجنات
+- ڤستري
+- पेस्ट्री
+- সেঁকা ময়দার সুখাদ্য
+- ಪೇಸ್ಟ್ರಿ
+- പേസ്ട്രി
+- แป้งพาย
+- ペイストリー
+- 糕
+- 糕点
+- 糕點
+- 西餅
+- 페이스트리
 has_id_wikidata: Q477248
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~baked_good,2251745]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~baked_good,2251745]]'
-  - '[[_Standards/WikiData/WD~bánh,5004791]]'
-  - '[[_Standards/WikiData/WD~pastries_and_scones,115618359]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~baked_good,2251745]]'
+- '[[_Standards/WikiData/WD~bánh,5004791]]'
+- '[[_Standards/WikiData/WD~pastries_and_scones,115618359]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 different_from:
-  - '[[_Standards/WikiData/WD~confection,5159627]]'
-  - '[[_Standards/WikiData/WD~pastry_dough,116188654]]'
+- '[[_Standards/WikiData/WD~confection,5159627]]'
+- '[[_Standards/WikiData/WD~pastry_dough,116188654]]'
 booru_tag: pastry
 Danbooru_tag: pastry
 hashtag: pastry
@@ -23,8 +87,102 @@ Commons_category: Pastries
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Baked%20goods.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DPastry001%20HQ.stl
 Amazon_com_browse_node: 18770272011
+dv_has_:
+  name_:
+    af: gebak
+    ar: معجنات
+    arz: معجنات
+    ast: repostería
+    az: Şirniyyat
+    ba: ҡамыр аштары
+    be: выпечка
+    be-tarask: выпечка
+    bg: тестено изделие
+    bn: সেঁকা ময়দার সুখাদ্য
+    br: gwastell
+    bs: Pecivo
+    ca: rebosteria
+    cs: pečivo
+    cv: Пĕçерĕм
+    cy: crwst
+    da: bagværk
+    de: Gebäck
+    de-ch: Gebäck
+    el: αρτοσκεύασμα
+    en: pastry
+    en-ca: Pastry
+    en-gb: pastry
+    eo: bakaĵo
+    es: repostería
+    et: Küpsetis
+    eu: gozogintza
+    fa: شیرینی
+    fi: leivonnainen
+    fj: Keke
+    fr: pâtisserie
+    ga: taosrán
+    gd: Pastra
+    gl: repostaría
+    gsw: Gebäck
+    he: מגדנאות
+    hi: पेस्ट्री
+    hsb: pječwo
+    hu: cukrászsütemény
+    hy: թխվածք
+    hyw: Թխուածք
+    id: Pastri
+    it: pasticceria
+    ja: ペイストリー
+    jv: kue pastri
+    kn: ಪೇಸ್ಟ್ರಿ
+    ko: 페이스트리
+    ky: Нан бышыруу
+    lb: Patisserie
+    lt: kepinys
+    lv: mīklas izstrādājums
+    lzh: 糕
+    min: roti
+    mk: печиво
+    ml: പേസ്ട്രി
+    mr: पेस्ट्री
+    ms: pastri
+    ms-arab: ڤستري
+    mzn: شرنی
+    nb: bakverk
+    nl: gebak
+    nn: bakverk
+    oc: pastissariá
+    pl: wypieki
+    pt: pastelaria
+    ro: patiserie
+    ru: выпечка
+    sc: Ofelleria
+    sco: pastry
+    sh: Pecivo
+    sk: pečivo
+    sl: pecivo
+    sr: пециво
+    sr-ec: пециво
+    sr-el: pecivo
+    sv: bakverk
+    th: แป้งพาย
+    tl: Pastelerya
+    tr: Pasta
+    uk: тістечко
+    vi: pastry
+    vls: Gebak
+    vro: Küdsüs
+    wa: Påstaedjreye
+    wuu: 糕点
+    yue: 西餅
+    zh: 糕点
+    zh-cn: 糕点
+    zh-hans: 糕点
+    zh-hant: 糕點
+    zh-hk: 糕點
+    zh-sg: 糕点
+    zh-tw: 糕點
 ---
-
 # [[Pastry]] 
 
 #is_/same_as :: [[WD~Pastry,477248]] 

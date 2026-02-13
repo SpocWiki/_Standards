@@ -1,9 +1,43 @@
 ---
 aliases:
-  - Methanobacteriota
-  - Euryarchaeota
+- Euryarchaeota
+- Methanobacteriota
+- Μεθανοβακτηριώτα
+- メタノバクテリウム門
 title: Euryarchaeota
 has_id_wikidata: Q12963847
+dv_has_:
+  name_:
+    an: Methanobacteriota
+    ast: Methanobacteriota
+    ca: Methanobacteriota
+    de: Methanobacteriota
+    en: Methanobacteriota
+    en-ca: Methanobacteriota
+    en-gb: Methanobacteriota
+    eo: Methanobacteriota
+    es: Methanobacteriota
+    eu: Methanobacteriota
+    ext: Methanobacteriota
+    fr: Methanobacteriota
+    ga: Methanobacteriota
+    gl: Methanobacteriota
+    grc: Μεθανοβακτηριώτα
+    hu: Methanobacteriota
+    ia: Methanobacteriota
+    ie: Methanobacteriota
+    io: Methanobacteriota
+    it: Methanobacteriota
+    ja: メタノバクテリウム門
+    la: Methanobacteriota
+    mul: Methanobacteriota
+    nl: Methanobacteriota
+    oc: Methanobacteriota
+    pl: Methanobacteriota
+    pt: Methanobacteriota
+    pt-br: Methanobacteriota
+    ru: Methanobacteriota
+    vo: Methanobacteriota
 ---
 # [[Methanobacteriota]] 
 

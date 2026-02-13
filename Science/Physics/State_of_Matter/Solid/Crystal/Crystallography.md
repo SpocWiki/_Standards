@@ -1,21 +1,81 @@
 ---
 aliases:
-  - Kristallographie
-  - Crystallography
+- criostalagrafaíocht
+- cristallografia
+- cristallographie
+- cristalografia
+- cristalografie
+- cristalografía
+- cristal·lografia
+- cristałografia
+- crystalgrafeeaght
+- crystallographia
+- Crystallography
+- grisialeg
+- kiat-chiⁿ-ha̍k
+- kristallafræði
+- kristallograafia
+- kristallografi
+- kristallografia
+- kristallografie
+- kristallografiija
+- kristallografiya
+- Kristallographie
+- kristalloqrafiya
+- kristalografi
+- kristalografia
+- kristalografija
+- kristalografio
+- kristalograpiya
+- kristalogrāfija
+- kristálytan
+- krystallografi
+- krystalografia
+- krystalografie
+- kryštalografia
+- krïstallografïya
+- tinh thể học
+- Umchazamncwebe
+- κρυσταλλογραφία
+- булӯршиносӣ
+- Кристаллографи
+- кристаллография
+- кристалографія
+- кристалографија
+- кристалография
+- крышталяграфія
+- բյուրեղագիտություն
+- קריסטלוגרפיה
+- بلورنگاری
+- علم البلورات
+- قلمیات
+- كرىيستاللوگرافىييا
+- ڪرسٽلوگرافي
+- क्रिस्टलकी
+- स्फटिकशास्त्र
+- কেলাসবিজ্ঞান
+- படிகவுருவியல்
+- ಸ್ಫಟಿಕವಿಜ್ಞಾನ
+- ผลิกศาสตร์
+- კრისტალოგრაფია
+- 晶体学
+- 晶體學
+- 結晶学
+- 결정학
 has_id_wikidata: Q160398
 subclass_of:
-  - '[[_Standards/WikiData/WD~mineralogy,83353]]'
-  - '[[_Standards/WikiData/WD~materials_science,228736]]'
-  - '[[_Standards/WikiData/WD~analytical_chemistry,2346]]'
+- '[[_Standards/WikiData/WD~mineralogy,83353]]'
+- '[[_Standards/WikiData/WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~analytical_chemistry,2346]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~crystallographer,15142825]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Crystallography,125809136]]'
 has_characteristic: '[[_Standards/WikiData/WD~Crystallography_on_stamps,130218608]]'
@@ -26,18 +86,121 @@ GitHub_topic: crystallography
 Iconclass_notation: 49E4
 Basisklassifikation: 38.31
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20lattice%20composition.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Crystallography.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20lattice%20composition.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Crystallography.jpg
 Provenio_UUID: 4455f726-3b6f-4a21-9ebf-c5302618d3a4
 UMLS_CUI: C0010424
 Commons_gallery: Crystallography
 Commons_category: Crystallography
 MeSH_tree_code:
-  - E05.196.309
-  - H01.181.529.240
+- E05.196.309
+- H01.181.529.240
 Wolfram_Language_entity_code: Entity["Concept", "Crystallography::jy7v8"]
+dv_has_:
+  name_:
+    af: kristallografie
+    an: cristalografía
+    ar: علم البلورات
+    ast: cristalografía
+    az: kristalloqrafiya
+    be: крышталяграфія
+    be-tarask: крышталяграфія
+    bg: кристалография
+    bn: কেলাসবিজ্ঞান
+    bs: kristalografija
+    ca: cristal·lografia
+    cs: krystalografie
+    cy: grisialeg
+    da: krystallografi
+    de: Kristallographie
+    el: κρυσταλλογραφία
+    en: crystallography
+    eo: kristalografio
+    es: cristalografía
+    et: kristallograafia
+    eu: kristalografia
+    fa: بلورنگاری
+    fi: kristallografia
+    fr: cristallographie
+    ga: criostalagrafaíocht
+    gl: cristalografía
+    gv: crystalgrafeeaght
+    he: קריסטלוגרפיה
+    hi: क्रिस्टलकी
+    hr: kristalografija
+    hu: kristálytan
+    hy: բյուրեղագիտություն
+    ia: crystallographia
+    id: kristalografi
+    io: kristalografio
+    is: kristallafræði
+    it: cristallografia
+    ja: 結晶学
+    ka: კრისტალოგრაფია
+    kk: кристаллография
+    kk-arab: كرىيستاللوگرافىييا
+    kk-cn: كرىيستاللوگرافىييا
+    kk-cyrl: кристаллография
+    kk-kz: кристаллография
+    kk-latn: krïstallografïya
+    kk-tr: krïstallografïya
+    kn: ಸ್ಫಟಿಕವಿಜ್ಞಾನ
+    ko: 결정학
+    ky: Кристаллография
+    la: crystallographia
+    lb: Kristallographie
+    lfn: cristalografia
+    lt: kristalografija
+    lv: kristalogrāfija
+    mk: кристалографија
+    mn: Кристаллографи
+    mr: स्फटिकशास्त्र
+    ms: kristalografi
+    nan: kiat-chiⁿ-ha̍k
+    nb: krystallografi
+    nl: kristallografie
+    nn: krystallografi
+    os: кристаллографи
+    pl: krystalografia
+    pt: cristalografia
+    pt-br: cristalografia
+    ro: cristalografie
+    ru: кристаллография
+    sd: ڪرسٽلوگرافي
+    se: kristallografiija
+    sh: kristalografija
+    sk: kryštalografia
+    sl: kristalografija
+    smn: kristallografia
+    sms: kristallografia
+    sq: kristalografia
+    sr: кристалографија
+    sr-ec: кристалографија
+    sr-el: kristalografija
+    sv: kristallografi
+    ta: படிகவுருவியல்
+    tg: булӯршиносӣ
+    th: ผลิกศาสตร์
+    tl: kristalograpiya
+    tr: kristalografi
+    tt: кристаллография
+    uk: кристалографія
+    ur: قلمیات
+    uz: kristallografiya
+    vec: cristałografia
+    vi: tinh thể học
+    war: kristalograpiya
+    wuu: 晶体学
+    yue: 晶體學
+    zh: 晶体学
+    zh-cn: 晶体学
+    zh-hans: 晶体学
+    zh-hant: 晶體學
+    zh-hk: 晶體學
+    zh-sg: 晶体学
+    zh-tw: 晶體學
+    zu: Umchazamncwebe
 ---
-
 # [[Crystallography]] 
 
 #is_/same_as  :: [[../../../../../WikiData/WD~Crystallography,160398|WD~Crystallography,160398]] 

@@ -1,35 +1,205 @@
 ---
 aliases:
+- Dîroka erdê
+- Eerdhistorie
+- Erdgeschichte
+- földtörténet
+- geokronologija
+- geschiedenis van de Aarde
+- Geskiedenis van die Aarde
+- histoire de la Terre
+- historia da Terra
+- Historia de la Tierra
+- Historia e Tokës
+- Historia terrae
+- historia Ziemi
+- historie Země
+- historija Zemlje
+- history of Earth
+- History of the Earth
+- History of the World
+- història de la Terra
+- história da Terra
+- Ischri a Oert
+- istor an Douar
+- istoria Pământului
+- Istorija Zemlje
+- Istwè di Latè
+- Istòria de la Tèrra
+- jordens historia
+- Jordens historie
+- Kaagi han Kalibutan
+- Kasaysayan ng Daigdig
+- Lurraren historia
+- lịch sử Trái Đất
+- Maan historia
+- Sejarah Bumi
+- storia della Terra
+- Terala eri
+- Terhistorio
+- Yer tarixi
+- Yerin tarixi
+- Yerküre tarihi
+- Zemes vēsture
+- zgodovina Zemlje
+- Äerdgeschicht
+- Žemės istorija
+- ιστορία της Γης
+- історія Землі
+- гісторыя Зямлі
+- Дэлхийн түүх
+- Ер тарихы
+- Жер тарихының шежіресі
+- историја на Земјата
+- история Земли
+- История на Земята
+- Җир тарихы
+- Երկրի պատմություն
+- היסטוריה של כדור הארץ
+- تاريخ الأرض
+- تاریخ زمین
+- د ځمکې تاریخ
+- زمین دی تریخ
+- زمین کی تاریخ
+- مێژووی زەوی
+- يەرشارى ھەققىدە
+- ߘߎ߰ߞߟߏ߫ ߘߐ߬ߝߐ߫ ߥߛߎ߬ ߣߊ߯ߣߌ߲߫ ߕߐ߬ߝߍ߬ߦߊ߫
+- धरती के इतिहास
+- पृथिव्याः इतिहासः
+- पृथ्वी का इतिहास
+- पृथ्वीचा इतिहास
+- পৃথিবীর ইতিহাস
+- পৃথিৱীৰ ইতিহাস
+- ਧਰਤੀ ਦਾ ਇਤਿਹਾਸ
+- புவியின் வரலாறு
+- ഭൂമിയുടെ ചരിത്രം
+- დედამიწის ისტორია
+- 地球の歴史
+- 地球历史
+- 地球史
+- 地球歷史
+- 지구의 역사
 has_id_wikidata: Q156312
-part_of: "[[_Standards/WikiData/WD~planetary_science,104499]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+part_of: '[[_Standards/WikiData/WD~planetary_science,104499]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~history,309]]"
-  - "[[_Standards/WikiData/WD~Earth,2]]"
-subclass_of: "[[_Standards/WikiData/WD~history,309]]"
+- '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309]]'
 Commons_category: History of earth science
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-31-Elektro-L-3.png
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]"
-    - "[[/_Standards/Earth/History_of_Earth|History_of_Earth]]"
-    - "[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]"
-    - "[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]"
-    - "[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]"
-    - "[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]"
-    - "[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]"
-    - "[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]"
+  - '[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]'
+  - '[[/_Standards/Earth/History_of_Earth|History_of_Earth]]'
+  - '[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]'
+  - '[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]'
+  - '[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]'
+  - '[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]'
+  - '[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]'
+  - '[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]"
-  - "[[/_Standards/Earth/History_of_Earth|History_of_Earth]]"
-  - "[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]"
-  - "[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]"
-  - "[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]"
-  - "[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]"
-  - "[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]"
-  - "[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]"
+- '[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]'
+- '[[/_Standards/Earth/History_of_Earth|History_of_Earth]]'
+- '[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]'
+- '[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]'
+- '[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]'
+- '[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]'
+- '[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]'
+- '[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]'
+dv_has_:
+  name_:
+    af: Geskiedenis van die Aarde
+    ar: تاريخ الأرض
+    as: পৃথিৱীৰ ইতিহাস
+    ast: Historia de la Tierra
+    az: Yerin tarixi
+    ba: Ер тарихы
+    be: гісторыя Зямлі
+    be-tarask: гісторыя Зямлі
+    bg: История на Земята
+    bho: धरती के इतिहास
+    bn: পৃথিবীর ইতিহাস
+    br: istor an Douar
+    bs: historija Zemlje
+    ca: història de la Terra
+    ckb: مێژووی زەوی
+    cs: historie Země
+    da: Jordens historie
+    de: Erdgeschichte
+    el: ιστορία της Γης
+    en: history of Earth
+    en-gb: History of the World
+    eo: Terhistorio
+    es: historia de la Tierra
+    eu: Lurraren historia
+    fa: تاریخ زمین
+    fi: Maan historia
+    fr: histoire de la Terre
+    gcr: Istwè di Latè
+    gl: historia da Terra
+    he: היסטוריה של כדור הארץ
+    hi: पृथ्वी का इतिहास
+    hr: geokronologija
+    hu: földtörténet
+    hy: Երկրի պատմություն
+    id: Sejarah Bumi
+    io: Terala eri
+    it: storia della Terra
+    ja: 地球の歴史
+    jam: Ischri a Oert
+    ka: დედამიწის ისტორია
+    kk: Жер тарихының шежіресі
+    ko: 지구의 역사
+    ku: Dîroka erdê
+    la: Historia terrae
+    lb: Äerdgeschicht
+    lt: Žemės istorija
+    lv: Zemes vēsture
+    mk: историја на Земјата
+    ml: ഭൂമിയുടെ ചരിത്രം
+    mn: Дэлхийн түүх
+    mr: पृथ्वीचा इतिहास
+    ms: Sejarah Bumi
+    nb: jordens historie
+    nds: Eerdhistorie
+    nl: geschiedenis van de Aarde
+    nqo: ߘߎ߰ߞߟߏ߫ ߘߐ߬ߝߐ߫ ߥߛߎ߬ ߣߊ߯ߣߌ߲߫ ߕߐ߬ߝߍ߬ߦߊ߫
+    oc: Istòria de la Tèrra
+    pa: ਧਰਤੀ ਦਾ ਇਤਿਹਾਸ
+    pl: historia Ziemi
+    pnb: زمین دی تریخ
+    ps: د ځمکې تاریخ
+    pt: história da Terra
+    ro: istoria Pământului
+    ru: история Земли
+    sa: पृथिव्याः इतिहासः
+    si: History of the Earth
+    sl: zgodovina Zemlje
+    sq: Historia e Tokës
+    sr: Istorija Zemlje
+    sv: jordens historia
+    ta: புவியின் வரலாறு
+    tl: Kasaysayan ng Daigdig
+    tr: Yerküre tarihi
+    tt: Җир тарихы
+    tt-cyrl: Җир тарихы
+    ug: يەرشارى ھەققىدە
+    uk: історія Землі
+    ur: زمین کی تاریخ
+    uz: Yer tarixi
+    vi: lịch sử Trái Đất
+    war: Kaagi han Kalibutan
+    wuu: 地球历史
+    yue: 地球史
+    zh: 地球歷史
+    zh-cn: 地球历史
+    zh-hans: 地球历史
+    zh-hant: 地球歷史
+    zh-hk: 地球歷史
+    zh-sg: 地球历史
+    zh-tw: 地球歷史
 ---
-
 # [[History_of_Earth]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]] 

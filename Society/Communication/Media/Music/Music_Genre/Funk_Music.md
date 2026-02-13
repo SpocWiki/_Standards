@@ -1,15 +1,42 @@
 ---
-has_time_started: 1965-01-01 
+has_time_started: 1965-01-01
 aliases:
-  - Funk
-  - Funk_Music
-  - Funk Music
+- fank
+- fankas
+- fankmūzika
+- ffwnc
+- func
+- Funk
+- Funk Music
+- funkmusihkka
+- funkmusikk
+- funkmuusik
+- funko
+- Funk_Music
+- Fönk
+- φανκ
+- фанк
+- фънк
+- Ֆանկ
+- Ֆանք
+- פאנק
+- فانك
+- فانک
+- فاڭك
+- فەنک
+- ਫ਼ੰਕ
+- வன்கு இசை
+- ฟังก์
+- ფანკი
+- ファンク
+- 放克
+- 펑크
 has_id_wikidata: Q164444
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Funk,1355692]]'
-  - '[[_Standards/WikiData/WD~Funk,6693896]]'
+- '[[_Standards/WikiData/WD~Funk,1355692]]'
+- '[[_Standards/WikiData/WD~Funk,6693896]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Funk,13441065]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 practiced_by: '[[_Standards/WikiData/WD~funk_musician,74093582]]'
@@ -22,8 +49,102 @@ native_label: Funk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Wind%20and%20Fire.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Got%20Funk%20%28ISRC%20USUAN1200005%29.mp3
 Krugosvet_article: kultura_i_obrazovanie/muzyka/FANK.html
+dv_has_:
+  name_:
+    ar: فانك
+    arz: فانك
+    ast: funk
+    az: fank
+    be: фанк
+    be-tarask: фанк
+    bg: фънк
+    br: Funk
+    ca: funk
+    ckb: فەنک
+    crh: Fank
+    crh-latn: Fank
+    cs: funk
+    cy: ffwnc
+    da: funk
+    de: Funk
+    el: φανκ
+    en: funk
+    en-us: funk
+    eo: funko
+    es: funk
+    et: Funk
+    eu: funk
+    fa: فانک
+    fi: funk
+    fr: funk
+    fy: Funk
+    ga: func
+    gd: Func
+    gl: funk
+    gsw: Funk
+    gv: funk
+    he: פאנק
+    hr: funk
+    hu: funk
+    hy: Ֆանկ
+    hyw: Ֆանք
+    ia: Funk
+    id: Funk
+    io: Funk
+    is: Fönk
+    it: funk
+    ja: ファンク
+    ka: ფანკი
+    kk: Фанк
+    ko: 펑크
+    lb: Funk
+    lmo: Funk
+    lt: fankas
+    lv: fankmūzika
+    mk: фанк
+    ms: Funk
+    mt: funk
+    mzn: فانک
+    nah: Funk
+    nan: Funk
+    nb: funk
+    nds-nl: funk
+    nl: funk
+    nn: funk
+    pa: ਫ਼ੰਕ
+    pl: funk
+    pt: funk
+    pt-br: funk
+    ro: funk
+    ru: фанк
+    sco: funk
+    se: funkmusihkka
+    sh: Funk
+    sk: funk
+    sl: funk
+    smn: funkmuusik
+    sms: funkmusikk
+    sr: фанк
+    sr-ec: фанк
+    sr-el: fank
+    sv: funk
+    ta: வன்கு இசை
+    th: ฟังก์
+    tr: funk
+    ug: فاڭك
+    uk: фанк
+    uz: Funk
+    vi: funk
+    wuu: 放克
+    yue: Funk
+    zh: 放克
+    zh-cn: 放克
+    zh-hans: 放克
+    zh-hant: 放克
+    zh-hk: 放克
+    zh-sg: 放克
+    zh-tw: 放克
 ---
-
 # [[Funk_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Funk,164444|WD~Funk,164444]] 

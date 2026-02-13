@@ -1,25 +1,234 @@
 ---
 aliases:
-  - Treibhaus-Effekt
-  - Greenhouse-Effect
+- Berotegi-efektua
+- broeikaseffect
+- Buaidh an taigh-ghloine
+- drivhuseffekt
+- Efect de seră
+- efecte d'hivernacle
+- Efecto hibernadero
+- efecto invernadero
+- Efecto invernadoiro
+- efed ti-gwer
+- efeito de estufa
+- efeito estufa
+- efek rumah kaca
+- efekt cieplarniany
+- Efekt staklenika
+- Efekti serrë
+- Efeutu ivernaderu
+- Effaith tŷ gwydr
+- Effecto conservatorio
+- Effectus thermocepicus
+- effet de serre
+- effetto serra
+- Effètt sèrra
+- Efièch de sèrra
+- Efè tèmik
+- Epektong greenhouse
+- forceja efiko
+- greenhouse efect
+- greenhouse effect
+- Greenhouse-Effect
+- Gróðurhúsaáhrif
+- hiệu ứng nhà kính
+- iarmhairt cheaptha teasa
+- Issiqxona effekti
+- kasvihuoneilmiö
+- kasvuhooneefekt
+- kesan rumah hijau
+- Kweekhuiseffek
+- Mmetụta okpomọkụ
+- Pacha q'uñichiy
+- Parnik effekti
+- sera etkisi
+- siltumnīcas efekts
+- sjaddadimviessovájkkudus
+- sjædtoegåetieeffeekte
+- skleníkový efekt
+- Süpütaka tü juyapouko
+- Tasirin Greenhouse
+- Teplic-efekto
+- Tesirê sera
+- Treibhaus-Effekt
+- Treibhauseffekt
+- Un-sek hāu-èng
+- učinek tople grede
+- växthuseffekten
+- Zäreneffekt
+- üvegházhatás
+- šaddovistealmoon
+- šaddovisteiđa
+- Šiltnamio efektas
+- Φαινόμενο του θερμοκηπίου
+- Асари гулхонаӣ
+- ефекат стаклене баште
+- Ефект на стаклена градина
+- йыгдос эффект
+- Көшетхана эффектісі
+- парніковы эфект
+- Парник эффектиси
+- Парников ефект
+- парниковий ефект
+- парниковый эффект
+- Хүлэмжийн эффект
+- Ջերմոցային էֆեկտ
+- אפקט החממה
+- اثر گلخانهای
+- تأثير البيت الزجاجي
+- د شنې خونې اغېزه
+- لحتيباس لحراري
+- پارنىك ئېففېكتى
+- کسن رومه هيجاو
+- ग्रीन हाउस प्रभाव
+- ग्रीनहाउस प्रभाव
+- हरितगृह परिणाम
+- हरितगृह प्रभाव
+- গ্রীনহাউজ প্রতিক্রিয়া
+- সেউজ গৃহ প্ৰভাৱ
+- ਗ੍ਰੀਨਹਾਊਸ ਪ੍ਰਭਾਵ
+- பைங்குடில் விளைவு
+- గ్రీన్ హౌస్ ప్రభావం
+- ಹಸಿರುಮನೆ ಪರಿಣಾಮ
+- ഹരിതഗൃഹപ്രഭാവം
+- හරිතාගාර ආචරණය
+- ปรากฏการณ์เรือนกระจก
+- ຜົນກະທົບເຮືອນແກ້ວ
+- სათბურის ეფექტი
+- 温室効果
+- 温室效应
+- 溫室效應
+- 온실 효과
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]"
-    - "[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]"
-    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]"
-    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]"
-    - "[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]"
-    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]"
-    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]"
+  - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]'
+  - '[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]'
+  - '[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]'
+  - '[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]'
+  - '[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]'
+  - '[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]'
+  - '[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]"
-  - "[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]"
-  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]"
-  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]"
-  - "[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]"
-  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]"
-  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]"
+- '[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]'
+- '[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]'
+- '[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]'
+- '[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]'
+- '[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]'
+- '[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]'
+- '[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]'
 has_id_wikidata: Q41560
+dv_has_:
+  name_:
+    af: Kweekhuiseffek
+    an: Efecto hibernadero
+    ar: تأثير البيت الزجاجي
+    ary: لحتيباس لحراري
+    as: সেউজ গৃহ প্ৰভাৱ
+    ast: Efeutu ivernaderu
+    az: Parnik effekti
+    be: парніковы эфект
+    bg: Парников ефект
+    bho: ग्रीनहाउस प्रभाव
+    bn: গ্রীনহাউজ প্রতিক্রিয়া
+    br: efed ti-gwer
+    bs: Efekt staklenika
+    ca: efecte d'hivernacle
+    cs: skleníkový efekt
+    cy: Effaith tŷ gwydr
+    da: drivhuseffekt
+    de: Treibhauseffekt
+    de-ch: Treibhauseffekt
+    diq: Tesirê sera
+    dty: हरितगृह प्रभाव
+    el: Φαινόμενο του θερμοκηπίου
+    en: greenhouse effect
+    en-ca: Greenhouse effect
+    en-gb: greenhouse effect
+    eo: forceja efiko
+    es: efecto invernadero
+    et: kasvuhooneefekt
+    eu: Berotegi-efektua
+    fa: اثر گلخانهای
+    fi: kasvihuoneilmiö
+    fr: effet de serre
+    ga: iarmhairt cheaptha teasa
+    gd: Buaidh an taigh-ghloine
+    gl: Efecto invernadoiro
+    guc: Süpütaka tü juyapouko
+    ha: Tasirin Greenhouse
+    he: אפקט החממה
+    hi: ग्रीन हाउस प्रभाव
+    hr: efekt staklenika
+    ht: Efè tèmik
+    hu: üvegházhatás
+    hy: Ջերմոցային էֆեկտ
+    ia: Effecto conservatorio
+    id: efek rumah kaca
+    ig: Mmetụta okpomọkụ
+    io: Teplic-efekto
+    is: Gróðurhúsaáhrif
+    it: effetto serra
+    ja: 温室効果
+    ka: სათბურის ეფექტი
+    kk: Көшетхана эффектісі
+    kn: ಹಸಿರುಮನೆ ಪರಿಣಾಮ
+    ko: 온실 효과
+    ku-arab: greenhouse efect
+    ky: Парник эффектиси
+    la: Effectus thermocepicus
+    lb: Zäreneffekt
+    lmo: Effètt sèrra
+    lo: ຜົນກະທົບເຮືອນແກ້ວ
+    lt: Šiltnamio efektas
+    lv: siltumnīcas efekts
+    mk: Ефект на стаклена градина
+    ml: ഹരിതഗൃഹപ്രഭാവം
+    mn: Хүлэмжийн эффект
+    mr: हरितगृह परिणाम
+    ms: kesan rumah hijau
+    ms-arab: کسن رومه هيجاو
+    nan: Un-sek hāu-èng
+    nb: drivhuseffekt
+    ne: हरितगृह प्रभाव
+    nl: broeikaseffect
+    nn: drivhuseffekt
+    oc: Efièch de sèrra
+    pa: ਗ੍ਰੀਨਹਾਊਸ ਪ੍ਰਭਾਵ
+    pl: efekt cieplarniany
+    ps: د شنې خونې اغېزه
+    pt: efeito de estufa
+    pt-br: efeito estufa
+    qu: Pacha q'uñichiy
+    ro: Efect de seră
+    ru: парниковый эффект
+    se: šaddovisteiđa
+    sh: Efekt staklenika
+    si: හරිතාගාර ආචරණය
+    sk: skleníkový efekt
+    sl: učinek tople grede
+    sma: sjædtoegåetieeffeekte
+    smj: sjaddadimviessovájkkudus
+    smn: šaddovistealmoon
+    sq: Efekti serrë
+    sr: ефекат стаклене баште
+    sv: växthuseffekten
+    ta: பைங்குடில் விளைவு
+    te: గ్రీన్ హౌస్ ప్రభావం
+    tg: Асари гулхонаӣ
+    th: ปรากฏการณ์เรือนกระจก
+    tl: Epektong greenhouse
+    tr: sera etkisi
+    udm: йыгдос эффект
+    ug: پارنىك ئېففېكتى
+    uk: парниковий ефект
+    uz: Issiqxona effekti
+    vi: hiệu ứng nhà kính
+    wuu: 温室效应
+    yue: 溫室效應
+    zh: 温室效应
+    zh-cn: 温室效应
+    zh-hk: 溫室效應
+    zh-tw: 溫室效應
 ---
 # [[Greenhouse-Effect]] 
 

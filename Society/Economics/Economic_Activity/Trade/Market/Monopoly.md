@@ -1,32 +1,191 @@
 ---
 aliases:
-  - Monopoly
+- Ampihimamba
+- Einahandil
+- Einokun
+- Kuluh
+- lungjdon
+- monaplacht
+- monopol
+- Monopol ponuky
+- monopola
+- monopole
+- Monopoli
+- monopolie
+- monopolija
+- monopolio
+- Monopoliu
+- Monopolium
+- Monopoliya
+- monopolo
+- Monopols
+- Monopoly
+- Monopolyo
+- Monopòli
+- monopólio
+- monopólium
+- Pasar monopoli
+- Tekel
+- To̍k-chiàm
+- Uhodhisoko
+- Độc quyền
+- İnhisar
+- Μονοπώλιο
+- манаполія
+- Монопол
+- Монопол эрх
+- монополія
+- Монополизм
+- монополия
+- Մենաշնորհ
+- מאנאפאל
+- מונופול
+- احتكار
+- احتکار
+- انحصار
+- ھڪھٽي
+- एकाधिकार
+- একচেটিয়া বাজার
+- একচেটীয়া বজাৰ
+- ਇਜਾਰੇਦਾਰੀ
+- ஏகபோகம்
+- గుత్తాధిపత్యం
+- การผูกขาด
+- მონოპოლია
+- 垄断
+- 壟斷
+- 独占
+- 獨占
+- 독점
 has_id_wikidata: Q43637
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~patent,253623]]"
-  - "[[_Standards/WikiData/WD~trade_barrier,377302]]"
-  - "[[_Standards/WikiData/WD~barrier_to_entry,1163938]]"
-  - "[[_Standards/WikiData/WD~secrecy,1503443]]"
-  - "[[_Standards/WikiData/WD~consolidation,3050847]]"
-  - "[[_Standards/WikiData/WD~anti_competitive_practices,3401418]]"
-  - "[[_Standards/WikiData/WD~control,29017603]]"
-  - "[[_Standards/WikiData/WD~precedence,52063259]]"
-opposite_of: "[[_Standards/WikiData/WD~monopsony,319808]]"
+- '[[_Standards/WikiData/WD~patent,253623]]'
+- '[[_Standards/WikiData/WD~trade_barrier,377302]]'
+- '[[_Standards/WikiData/WD~barrier_to_entry,1163938]]'
+- '[[_Standards/WikiData/WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~consolidation,3050847]]'
+- '[[_Standards/WikiData/WD~anti_competitive_practices,3401418]]'
+- '[[_Standards/WikiData/WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~precedence,52063259]]'
+opposite_of: '[[_Standards/WikiData/WD~monopsony,319808]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~market_structure,877707]]"
-different_from: "[[_Standards/WikiData/WD~Monopole,1218344]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~monopoly_market,16048255]]"
-instance_of: "[[_Standards/WikiData/WD~economic_concept,29028649]]"
-studied_by: "[[_Standards/WikiData/WD~economics,8134]]"
-part_of: "[[_Standards/WikiData/WD~microeconomics,39072]]"
-U_S_National_Archives_Identifier: "10644242"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~market_structure,877707]]'
+different_from: '[[_Standards/WikiData/WD~Monopole,1218344]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~monopoly_market,16048255]]'
+instance_of: '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+studied_by: '[[_Standards/WikiData/WD~economics,8134]]'
+part_of: '[[_Standards/WikiData/WD~microeconomics,39072]]'
+U_S_National_Archives_Identifier: 10644242
 Commons_category: Monopoly (economics)
-Dewey_Decimal_Classification: "338.82"
+Dewey_Decimal_Classification: 338.82
+dv_has_:
+  name_:
+    af: monopolie
+    ar: احتكار
+    arz: احتكار
+    as: একচেটীয়া বজাৰ
+    ast: Monopoliu
+    az: İnhisar
+    be: манаполія
+    be-tarask: манаполія
+    bg: Монопол
+    bjn: Kuluh
+    bn: একচেটিয়া বাজার
+    bs: Monopol
+    ca: monopoli
+    ckb: monopol
+    cs: monopol
+    cy: Monopoli
+    da: monopol
+    de: Monopol
+    el: Μονοπώλιο
+    en: monopoly
+    eo: monopolo
+    es: monopolio
+    et: monopol
+    eu: Monopolio
+    fa: انحصار
+    fi: monopoli
+    fo: Einahandil
+    fr: monopole
+    ga: monaplacht
+    gl: Monopolio
+    he: מונופול
+    hi: एकाधिकार
+    hr: Monopol
+    hu: monopólium
+    hy: Մենաշնորհ
+    ia: Monopolio
+    id: Pasar monopoli
+    io: Monopolo
+    is: Einokun
+    it: monopolio
+    ja: 独占
+    ka: მონოპოლია
+    kk: Монополизм
+    ko: 독점
+    ky: Монополия
+    la: Monopolium
+    lb: Monopol
+    lfn: Monopolio
+    lmo: Monopoli
+    lt: monopolija
+    lv: Monopols
+    lzh: 壟斷
+    mg: Ampihimamba
+    mk: Монопол
+    mn: Монопол эрх
+    mr: एकाधिकार
+    ms: Monopoli
+    nan: To̍k-chiàm
+    nb: monopol
+    ne: एकाधिकार
+    nl: monopolie
+    nn: Monopol
+    oc: Monopòli
+    pa: ਇਜਾਰੇਦਾਰੀ
+    pl: Monopol
+    ps: انحصار
+    pt: monopólio
+    ro: monopol
+    ru: монополия
+    sco: monopoly
+    sd: ھڪھٽي
+    se: monopola
+    sh: Monopol
+    sk: Monopol ponuky
+    sl: monopol
+    smn: monopol
+    sms: monopol
+    sq: Monopoli
+    sr: монопол
+    sr-ec: монопол
+    sv: monopol
+    sw: Uhodhisoko
+    ta: ஏகபோகம்
+    te: గుత్తాధిపత్యం
+    th: การผูกขาด
+    tl: Monopolyo
+    tr: Tekel
+    uk: монополія
+    ur: احتکار
+    uz: Monopoliya
+    vi: Độc quyền
+    war: Monopolyo
+    wuu: 垄断
+    yi: מאנאפאל
+    yue: 壟斷
+    za: lungjdon
+    zh: 垄断
+    zh-cn: 垄断
+    zh-hans: 垄断
+    zh-hant: 壟斷
+    zh-hk: 壟斷
+    zh-tw: 獨占
 ---
-
 # [[Monopoly]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Monopoly,43637|WD~Monopoly,43637]]  

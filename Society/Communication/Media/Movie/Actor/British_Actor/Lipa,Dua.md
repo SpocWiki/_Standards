@@ -1,8 +1,166 @@
 ---
 aliases:
-  - Dua Lipa
-  - Lipa,Dua
+- Dua Lipa
+- Lipa,Dua
+- Ντούα Λίπα
+- Дуа Ліпа
+- Дуа Липа
+- Դուա Լիպա
+- דואה ליפה
+- دعاء ليبا
+- دوآ لیپا
+- دوا ليبا
+- دوا لیپا
+- دُوا لیپا
+- डुआ लिपा
+- ड्यूआ लिपा
+- ডুয়া লিপা
+- ਦੁਆ ਲੀਪਾ
+- డ్యూఆ లిప
+- ದುವಾ ಲಿಪಾ
+- ഡുഅ ലിപാ
+- ดัว ลีปา
+- დუა ლიპა
+- ዱዋ ሊፓ
+- デュア・リパ
+- 杜娃·黎波
+- 杜娃黎波
+- 杜阿·利帕
+- 두아 리파
+- "\U00010333\U0001033F\U00010330 \U0001033B\U00010339\U00010340\U00010330"
 has_id_wikidata: Q21914464
+dv_has_:
+  name_:
+    acm: دوا ليبا
+    af: Dua Lipa
+    am: ዱዋ ሊፓ
+    an: Dua Lipa
+    ang: Dua Lipa
+    ar: دوا ليبا
+    arq: دعاء ليبا
+    arz: دوا ليبا
+    ast: Dua Lipa
+    az: Dua Lipa
+    azb: دوا لیپا
+    ba: Дуа Липа
+    be: Дуа Ліпа
+    be-tarask: Дуа Ліпа
+    bg: Дуа Липа
+    bn: ডুয়া লিপা
+    br: Dua Lipa
+    ca: Dua Lipa
+    ckb: دوا لیپا
+    co: Dua Lipa
+    cs: Dua Lipa
+    cy: Dua Lipa
+    da: Dua Lipa
+    de: Dua Lipa
+    diq: Dua Lipa
+    el: Ντούα Λίπα
+    en: Dua Lipa
+    en-ca: Dua Lipa
+    en-gb: Dua Lipa
+    en-us: Dua Lipa
+    eo: Dua Lipa
+    es: Dua Lipa
+    et: Dua Lipa
+    eu: Dua Lipa
+    ext: Dua Lipa
+    fa: دوآ لیپا
+    fi: Dua Lipa
+    fit: Dua Lipa
+    fo: Dua Lipa
+    fr: Dua Lipa
+    ga: Dua Lipa
+    gd: Dua Lipa
+    gl: Dua Lipa
+    got: "\U00010333\U0001033F\U00010330 \U0001033B\U00010339\U00010340\U00010330"
+    gv: Dua Lipa
+    he: דואה ליפה
+    hi: ड्यूआ लिपा
+    hr: Dua Lipa
+    hu: Dua Lipa
+    hy: Դուա Լիպա
+    iba: Dua Lipa
+    id: Dua Lipa
+    ig: Dua Lipa
+    io: Dua Lipa
+    is: Dua Lipa
+    it: Dua Lipa
+    ja: デュア・リパ
+    ka: დუა ლიპა
+    kk: Dua Lipa
+    kn: ದುವಾ ಲಿಪಾ
+    ko: 두아 리파
+    ks: دُوا لیپا
+    ku: Dua Lipa
+    kw: Dua Lipa
+    ky: Дуа Липа
+    lad: Dua Lipa
+    lb: Dua Lipa
+    lt: Dua Lipa
+    lv: Dua Lipa
+    mhr: Дуа Липа
+    mk: Дуа Липа
+    ml: ഡുഅ ലിപാ
+    mn: Дуа Липа
+    ms: Dua Lipa
+    mul: Dua Lipa
+    mzn: دوآ لیپا
+    nb: Dua Lipa
+    nds: Dua Lipa
+    nds-nl: Dua Lipa
+    ne: डुआ लिपा
+    nl: Dua Lipa
+    nn: Dua Lipa
+    oc: Dua Lipa
+    pa: ਦੁਆ ਲੀਪਾ
+    pl: Dua Lipa
+    pt: Dua Lipa
+    pt-br: Dua Lipa
+    rmf: Dua Lipa
+    rmy: Dua Lipa
+    ro: Dua Lipa
+    ru: Дуа Липа
+    sc: Dua Lipa
+    sco: Dua Lipa
+    se: Dua Lipa
+    sh: Dua Lipa
+    sjd: Дуа Липа
+    sje: Dua Lipa
+    sju: Dua Lipa
+    sk: Dua Lipa
+    sl: Dua Lipa
+    sma: Dua Lipa
+    smj: Dua Lipa
+    smn: Dua Lipa
+    sms: Dua Lipa
+    so: Dua Lipa
+    sq: Dua Lipa
+    sr: Дуа Липа
+    su: Dua Lipa
+    sv: Dua Lipa
+    szl: Dua Lipa
+    te: డ్యూఆ లిప
+    tg: Дуа Липа
+    th: ดัว ลีปา
+    tl: Dua Lipa
+    tr: Dua Lipa
+    ty: Dua Lipa
+    uk: Дуа Ліпа
+    ur: دوا لیپا
+    uz: Dua Lipa
+    vec: Dua Lipa
+    vep: Dua Lipa
+    vi: Dua Lipa
+    wuu: 杜阿·利帕
+    xmf: დუა ლიპა
+    yue: 杜娃黎波
+    zea: Dua Lipa
+    zh: 杜阿·利帕
+    zh-cn: 杜阿·利帕
+    zh-hant: 杜娃·黎波
+    zh-tw: 杜娃·黎波
 ---
 # [[Lipa,Dua]] 
 

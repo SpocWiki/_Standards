@@ -1,11 +1,44 @@
 ---
 aliases:
+- comunicación punto a punto
+- Direktverbindung
+- divpunktu savienojums
+- Dvoubodový spoj
+- liaison point à point
+- point-to-point
+- povezava točka-točka
+- Punkt-till-punkt
+- Punt a punt
+- puntutik punturako konexio
+- rede punto a punto
+- Сеть точка-точка
+- קו תקשורת
+- نقطه به نقطه
+- ポイント・ツー・ポイント
+- 點對點通訊
 has_id_wikidata: Q681349
-opposite_of: "[[_Standards/WikiData/WD~point_to_multipoint_communication,6554265]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_communication,38786485]]"
-subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
+opposite_of: '[[_Standards/WikiData/WD~point_to_multipoint_communication,6554265]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_communication,38786485]]'
+subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
+dv_has_:
+  name_:
+    ca: Punt a punt
+    cs: Dvoubodový spoj
+    de: Direktverbindung
+    en: point-to-point
+    es: comunicación punto a punto
+    eu: puntutik punturako konexio
+    fa: نقطه به نقطه
+    fr: liaison point à point
+    gl: rede punto a punto
+    he: קו תקשורת
+    ja: ポイント・ツー・ポイント
+    lv: divpunktu savienojums
+    ru: Сеть точка-точка
+    sl: povezava točka-točka
+    sv: Punkt-till-punkt
+    zh: 點對點通訊
 ---
-
 # [[Point-to-Point_Channel]] 
 
 #is_/same_as :: [[WD~point-to-point,681349]]

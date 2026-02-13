@@ -1,8 +1,94 @@
 ---
 aliases:
-  - Michael Palin
-  - Palin,Michael
+- Maikls Peilins
+- Michael Palin
+- Palin,Michael
+- Μάικλ Πέιλιν
+- Мајкл Палин
+- Мајкл Пејлин
+- Майкл Пейлин
+- Майкл Пелін
+- Майкъл Пейлин
+- Մայքլ Փեյլին
+- מייקל פיילין
+- مايكل بالين
+- مايكل پيلين
+- مایکل پیلین
+- মাইকেল পেলিন
+- மைக்கேல் பாலின்
+- ไมเคิล เพลิน
+- マイケル・ペイリン
+- 米高沛連
+- 迈克尔·帕林
+- 마이클 페일린
 has_id_wikidata: Q223985
+dv_has_:
+  name_:
+    af: Michael Palin
+    an: Michael Palin
+    ar: مايكل بالين
+    arz: مايكل پيلين
+    ast: Michael Palin
+    azb: مایکل پیلین
+    bg: Майкъл Пейлин
+    bn: মাইকেল পেলিন
+    ca: Michael Palin
+    cs: Michael Palin
+    cy: Michael Palin
+    da: Michael Palin
+    dag: Michael Palin
+    de: Michael Palin
+    de-ch: Michael Palin
+    el: Μάικλ Πέιλιν
+    en: Michael Palin
+    en-ca: Michael Palin
+    en-gb: Michael Palin
+    eo: Michael Palin
+    es: Michael Palin
+    eu: Michael Palin
+    fa: مایکل پیلین
+    fi: Michael Palin
+    fr: Michael Palin
+    ga: Michael Palin
+    gl: Michael Palin
+    he: מייקל פיילין
+    hr: Michael Palin
+    hu: Michael Palin
+    hy: Մայքլ Փեյլին
+    ia: Michael Palin
+    id: Michael Palin
+    io: Michael Palin
+    is: Michael Palin
+    it: Michael Palin
+    ja: マイケル・ペイリン
+    ko: 마이클 페일린
+    la: Michael Palin
+    lv: Maikls Peilins
+    mk: Мајкл Палин
+    nan: Michael Palin
+    nb: Michael Palin
+    nl: Michael Palin
+    nn: Michael Palin
+    pl: Michael Palin
+    pt: Michael Palin
+    pt-br: Michael Palin
+    ro: Michael Palin
+    ru: Майкл Пейлин
+    sco: Michael Palin
+    sh: Michael Palin
+    sk: Michael Palin
+    sl: Michael Palin
+    sq: Michael Palin
+    sr: Мајкл Пејлин
+    sv: Michael Palin
+    ta: மைக்கேல் பாலின்
+    th: ไมเคิล เพลิน
+    tr: Michael Palin
+    uk: Майкл Пелін
+    vi: Michael Palin
+    war: Michael Palin
+    yue: 米高沛連
+    zh: 迈克尔·帕林
 ---
 # [[Palin,Michael]] 
 

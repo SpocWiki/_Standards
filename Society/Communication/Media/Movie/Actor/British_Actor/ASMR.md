@@ -1,8 +1,73 @@
 ---
 aliases:
-  - autonomous sensory meridian response
-  - ASMR
+- ASMR
+- Autonom sensorisk meridianrespons
+- autonominė sensorinė meridionalinė reakcija
+- autonomous sensory meridian response
+- Aŭtonoma senta meridiana reago
+- Otonom Duyusal Meridyen Tepki
+- Respons meridian dan otonom saraf sensorik
+- Responsa sensoriala meridiana autonòma
+- resposta sensorial autónoma do meridiano
+- resposta sensorial autônoma do meridiano
+- Resposta sensorial meridiana autònoma
+- Resposta sensorial meridiana autónoma
+- Αυτόνομη Αισθητήρια Ανταπόκριση Μεσημβρινών
+- Автономна сензорна меридианна реакция
+- автономна сенсорна меридіональна реакція
+- автономная сенсорная меридиональная реакция
+- أي أس إم آر
+- اي ايس ايم آر
+- ایاسامآر
+- एएसएमआर
+- 自主性感官經絡反應
+- 자율 감각 쾌락 반응
 has_id_wikidata: Q4826866
+dv_has_:
+  name_:
+    ar: أي أس إم آر
+    ast: ASMR
+    az: ASMR
+    bg: Автономна сензорна меридианна реакция
+    ca: Resposta sensorial meridiana autònoma
+    cs: ASMR
+    cy: ASMR
+    da: ASMR
+    de: ASMR
+    el: Αυτόνομη Αισθητήρια Ανταπόκριση Μεσημβρινών
+    en: autonomous sensory meridian response
+    eo: Aŭtonoma senta meridiana reago
+    es: ASMR
+    et: ASMR
+    fa: ایاسامآر
+    fi: ASMR
+    fr: autonomous sensory meridian response
+    gl: Resposta sensorial meridiana autónoma
+    he: ASMR
+    hi: एएसएमआर
+    id: Respons meridian dan otonom saraf sensorik
+    it: Autonomous sensory meridian response
+    ja: ASMR
+    ko: 자율 감각 쾌락 반응
+    lt: autonominė sensorinė meridionalinė reakcija
+    ms: ASMR
+    nb: Autonom sensorisk meridianrespons
+    nl: autonomous sensory meridian response
+    oc: Responsa sensoriala meridiana autonòma
+    pl: ASMR
+    pt: resposta sensorial autónoma do meridiano
+    pt-br: resposta sensorial autônoma do meridiano
+    ru: автономная сенсорная меридиональная реакция
+    sd: اي ايس ايم آر
+    sv: Autonomous sensory meridian response
+    tr: Otonom Duyusal Meridyen Tepki
+    uk: автономна сенсорна меридіональна реакція
+    uz: ASMR
+    vi: ASMR
+    zh: 自主性感官經絡反應
+    zh-hant: 自主性感官經絡反應
+    zh-hk: 自主性感官經絡反應
+    zh-tw: 自主性感官經絡反應
 ---
 ## #has_/text_of_/abstract 
 

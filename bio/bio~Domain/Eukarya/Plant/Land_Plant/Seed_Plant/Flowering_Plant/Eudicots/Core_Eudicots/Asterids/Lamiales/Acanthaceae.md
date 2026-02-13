@@ -1,8 +1,127 @@
 ---
 aliases:
-  - Acanthaceae
+- Acantacee
+- Acanthaceae
+- acantàcies
+- acantáceas
+- Akantacoj
+- Akanthusgewächse
+- Akantiniai
+- Akantkimilər
+- akantovke
+- Akantowate
+- akanttikasvit
+- Akantu dzimta
+- Akantus-familien
+- akantuselised
+- Akantusfamilien
+- Akantusowe rostliny
+- Akantusplaanten
+- Akantusväxter
+- Ayıpençesigiller
+- Famîleya pelkerengan
+- Họ Ô rô
+- medvekörömfélék
+- paznehtníkovité
+- Primogovke
+- Акант котыр
+- Акантові
+- акантовые
+- матруни
+- страшникови
+- ականթազգիներ
+- קוציציים
+- أقنثية
+- اقنثيه
+- پاخرسیان
+- முண்மூலிகைக் குடும்பம்
+- అకాంథేసి
+- അക്കാന്തേസീ
+- วงศ์เหงือกปลาหมอ
+- キツネノマゴ科
+- 爵床科
+- 쥐꼬리망초과
 title: Acanthaceae
 has_id_wikidata: Q53475
+dv_has_:
+  name_:
+    af: Acanthaceae
+    an: Acanthaceae
+    ar: أقنثية
+    arz: اقنثيه
+    ast: Acanthaceae
+    az: Akantkimilər
+    bg: страшникови
+    bs: Acanthaceae
+    ca: acantàcies
+    ceb: Acanthaceae
+    co: Acanthaceae
+    cs: paznehtníkovité
+    da: Akantus-familien
+    de: Akanthusgewächse
+    en: Acanthaceae
+    en-ca: Acanthaceae
+    en-gb: Acanthaceae
+    eo: Akantacoj
+    es: Acanthaceae
+    et: akantuselised
+    eu: Acanthaceae
+    ext: Acanthaceae
+    fa: پاخرسیان
+    fi: akanttikasvit
+    fr: Acanthaceae
+    frr: Akantusplaanten
+    ga: Acanthaceae
+    gl: acantáceas
+    he: קוציציים
+    hr: Primogovke
+    hsb: Akantusowe rostliny
+    hu: medvekörömfélék
+    hy: ականթազգիներ
+    ia: Acanthaceae
+    id: Acanthaceae
+    ie: Acanthaceae
+    io: Acanthaceae
+    it: Acanthaceae
+    ja: キツネノマゴ科
+    ko: 쥐꼬리망초과
+    koi: Акант котыр
+    ku: Famîleya pelkerengan
+    kv: Акант котыр
+    la: Acanthaceae
+    lt: Akantiniai
+    lv: Akantu dzimta
+    mad: Acanthaceae
+    mk: матруни
+    ml: അക്കാന്തേസീ
+    mul: Acanthaceae
+    nb: Akantusfamilien
+    nl: Acanthaceae
+    nn: Acanthaceae
+    oc: Acanthaceae
+    pam: Acanthaceae
+    pl: Akantowate
+    pt: Acanthaceae
+    pt-br: Acanthaceae
+    ro: Acantacee
+    ru: акантовые
+    sl: akantovke
+    sq: Acanthaceae
+    sr: Acanthaceae
+    sv: Akantusväxter
+    ta: முண்மூலிகைக் குடும்பம்
+    te: అకాంథేసి
+    th: วงศ์เหงือกปลาหมอ
+    tr: Ayıpençesigiller
+    uk: Акантові
+    vi: Họ Ô rô
+    vo: Acanthaceae
+    war: Acanthaceae
+    yue: 爵床科
+    zh: 爵床科
+    zh-cn: 爵床科
+    zh-hans: 爵床科
+    zh-tw: 爵床科
 ---
 # [[Acanthaceae]] 
 

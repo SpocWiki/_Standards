@@ -1,8 +1,63 @@
 ---
 aliases:
-  - Deomyinae
+- Deomyinae
+- Deomí
+- sztywniaki
+- Деомииновые
+- Деомистер
+- קוצניים
+- 刚果攀鼠亚科
+- 剛果攀鼠亞科
+- 데오미스아과
 title: Deomyinae
 has_id_wikidata: Q131896
+dv_has_:
+  name_:
+    an: Deomyinae
+    ast: Deomyinae
+    bg: Deomyinae
+    ca: Deomí
+    ceb: Deomyinae
+    de: Deomyinae
+    en: Deomyinae
+    eo: Deomyinae
+    es: Deomyinae
+    eu: Deomyinae
+    ext: Deomyinae
+    fi: Deomyinae
+    fr: Deomyinae
+    ga: Deomyinae
+    gl: Deomyinae
+    he: קוצניים
+    hu: Deomyinae
+    ia: Deomyinae
+    ie: Deomyinae
+    io: Deomyinae
+    it: Deomyinae
+    ko: 데오미스아과
+    ky: Деомистер
+    la: Deomyinae
+    mul: Deomyinae
+    nb: Deomyinae
+    nl: Deomyinae
+    oc: Deomyinae
+    pl: sztywniaki
+    pt: Deomyinae
+    pt-br: deomyinae
+    ro: Deomyinae
+    ru: Деомииновые
+    sq: Deomyinae
+    sv: Deomyinae
+    tr: Deomyinae
+    uk: Deomyinae
+    vi: Deomyinae
+    vo: Deomyinae
+    war: Deomyinae
+    zh: 刚果攀鼠亚科
+    zh-cn: 刚果攀鼠亚科
+    zh-hans: 刚果攀鼠亚科
+    zh-hant: 剛果攀鼠亞科
+    zh-tw: 剛果攀鼠亞科
 ---
 # [[Deomyinae]] 
 

@@ -1,81 +1,115 @@
 ---
 aliases:
-  - Astrid Anna Emilia Lindgren
-  - Astrid Anna Emilia Ericsson
-  - Astrid Lindgren
-  - Astrid_Lindgren
-  - Lindgren
-  - Lindgren,Astrid
+- Astrid Anna Emilia Ericsson
+- Astrid Anna Emilia Lindgren
+- Astrid Lindgren
+- Astrid Lindgrenová
+- Astrid Lindqren
+- astrid. lindgren
+- Astrida Lindgren
+- Astrida Lindgrēna
+- Astrid_Lindgren
+- Lindgren
+- Lindgren Astrid Anna Emiliya
+- Lindgren,Astrid
+- Lindgreni Astrid
+- Άστριντ Λίντγκρεν
+- Астрід Ліндґрен
+- Астрид Линдгрен
+- Астрыд Ліндгрэн
+- Линдгрен Астрид Анна Эмилия
+- Линдгрен, Астрид
+- Աստրիդ Լինդգրեն
+- אסטריד לינדגרן
+- آسترید لیندقرن
+- آسترید لیندگرن
+- آسٹریڈ لنڈگرین
+- أستريد ليندغرين
+- ئاسترید لیندگرین
+- استريد ليندجرين
+- एस्ट्रिड लिंडग्रेन
+- एस्ट्रीड लिन्ड्ग्रेन
+- অস্ট্রিড লিনগ্রেন
+- ਐਸਟ੍ਰਿਡ ਲਿੰਗ੍ਰੇਨ
+- ஆஸ்ட்ரிட் லிண்ட்கிரென்
+- ඇස්ට්රිඩ් ලින්ඩ්ග්රෙන්
+- แอสตริด ลินด์เกรน
+- ასტრიდ ლინდგრენი
+- アストリッド・リンドグレーン
+- 林格倫
+- 阿斯特丽德·林格伦
+- 阿斯特麗德·林格倫
+- 아스트리드 린드그렌
 has_id_wikidata: Q55767
 member_of_political_party: '[[_Standards/WikiData/WD~Swedish_Social_Democratic_Party,105112]]'
 genre:
-  - "[[_Standards/WikiData/WD~children's_literature,131539]]"
-  - '[[_Standards/WikiData/WD~fairy_tale,699]]'
+- "[[_Standards/WikiData/WD~children's_literature,131539]]"
+- '[[_Standards/WikiData/WD~fairy_tale,699]]'
 given_name: '[[_Standards/WikiData/WD~Q167755,167755]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Mio,_My_Son,178688]]'
-  - '[[_Standards/WikiData/WD~The_Brothers_Lionheart,1142693]]'
-  - "[[_Standards/WikiData/WD~Ronja,_the_Robber's_Daughter,1144655]]"
-  - '[[_Standards/WikiData/WD~Bill_Bergson,1261962]]'
-  - '[[_Standards/WikiData/WD~The_Six_Bullerby_Children,1506195]]'
-  - '[[_Standards/WikiData/WD~Karlsson_on_the_Roof,1990880]]'
-  - '[[_Standards/WikiData/WD~Pippi_Longstocking,2446285]]'
-  - '[[_Standards/WikiData/WD~Emil_from_Lönneberga,21475406]]'
+- '[[_Standards/WikiData/WD~Mio,_My_Son,178688]]'
+- '[[_Standards/WikiData/WD~The_Brothers_Lionheart,1142693]]'
+- "[[_Standards/WikiData/WD~Ronja,_the_Robber's_Daughter,1144655]]"
+- '[[_Standards/WikiData/WD~Bill_Bergson,1261962]]'
+- '[[_Standards/WikiData/WD~The_Six_Bullerby_Children,1506195]]'
+- '[[_Standards/WikiData/WD~Karlsson_on_the_Roof,1990880]]'
+- '[[_Standards/WikiData/WD~Pippi_Longstocking,2446285]]'
+- '[[_Standards/WikiData/WD~Emil_from_Lönneberga,21475406]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Hans_Christian_Andersen_Award,327154]]'
-  - '[[_Standards/WikiData/WD~Deutscher_Jugendliteraturpreis,691086]]'
-  - '[[_Standards/WikiData/WD~Nils_Holgersson_Plaque,1270327]]'
-  - '[[_Standards/WikiData/WD~Expressens_Heffaklump,1384818]]'
-  - '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
-  - '[[_Standards/WikiData/WD~Svenska_Dagbladet_Literature_Prize,3353869]]'
-  - '[[_Standards/WikiData/WD~Illis_quorum,3432215]]'
-  - '[[_Standards/WikiData/WD~International_Swede_of_the_Year,6053779]]'
-  - '[[_Standards/WikiData/WD~Lisebergsapplåden,10563197]]'
-  - '[[_Standards/WikiData/WD~Order_of_Freedom_of_the_Republic_of_Slovenia,11997611]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_Order_of_Vasa,116884132]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
+- '[[_Standards/WikiData/WD~Hans_Christian_Andersen_Award,327154]]'
+- '[[_Standards/WikiData/WD~Deutscher_Jugendliteraturpreis,691086]]'
+- '[[_Standards/WikiData/WD~Nils_Holgersson_Plaque,1270327]]'
+- '[[_Standards/WikiData/WD~Expressens_Heffaklump,1384818]]'
+- '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
+- '[[_Standards/WikiData/WD~Svenska_Dagbladet_Literature_Prize,3353869]]'
+- '[[_Standards/WikiData/WD~Illis_quorum,3432215]]'
+- '[[_Standards/WikiData/WD~International_Swede_of_the_Year,6053779]]'
+- '[[_Standards/WikiData/WD~Lisebergsapplåden,10563197]]'
+- '[[_Standards/WikiData/WD~Order_of_Freedom_of_the_Republic_of_Slovenia,11997611]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~Member_of_the_Order_of_Vasa,116884132]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
 member_of: '[[_Standards/WikiData/WD~Samfundet_De_Nio,1507627]]'
 occupation:
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 significant_person: '[[_Standards/WikiData/WD~Elsa_Olenius,4970914]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Gunnar_Ericsson,5411103]]'
-  - '[[_Standards/WikiData/WD~Ingegerd_Lindström,16912270]]'
-  - '[[_Standards/WikiData/WD~Stina_Hergin,16912273]]'
+- '[[_Standards/WikiData/WD~Gunnar_Ericsson,5411103]]'
+- '[[_Standards/WikiData/WD~Ingegerd_Lindström,16912270]]'
+- '[[_Standards/WikiData/WD~Stina_Hergin,16912273]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Astrid_Lindgren,6689360]]'
 place_of_death: '[[_Standards/WikiData/WD~Gustav_Vasa_parish,10511165]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Swedish_Literature_Bank,10567910]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~Swedish_Literature_Bank,10567910]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 place_of_birth: '[[_Standards/WikiData/WD~Vimmerby_Parish,10715638]]'
 child:
-  - '[[_Standards/WikiData/WD~Karin_Nyman,16595992]]'
-  - '[[_Standards/WikiData/WD~Lars_Lindgren,26262208]]'
+- '[[_Standards/WikiData/WD~Karin_Nyman,16595992]]'
+- '[[_Standards/WikiData/WD~Lars_Lindgren,26262208]]'
 spouse: '[[_Standards/WikiData/WD~Sture_Lindgren,16649707]]'
 family_name: '[[_Standards/WikiData/WD~Lindgren,23536612]]'
 Plex_person_key: 5d776832880197001ec92e62
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
+- '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
 place_of_burial: '[[_Standards/WikiData/WD~Vimmerby_Cemetery,108045462]]'
 father: '[[_Standards/WikiData/WD~Samuel_August_Ericsson,116013175]]'
 mother: '[[_Standards/WikiData/WD~Hanna_Ericsson,116013355]]'
 writing_language: '[[_Standards/WikiData/WD~Swedish,9027]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Swedish,9027]]'
-  - '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~Swedish,9027]]'
+- '[[_Standards/WikiData/WD~Danish,9035]]'
 native_language: '[[_Standards/WikiData/WD~Swedish,9027]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -104,8 +138,134 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lindgren%
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Astrid%20Lindgrens%20V%C3%A4rld%20banner.jpg
 official_website: https://www.astridlindgren.com
 ISNI: 0000000084029206
+dv_has_:
+  name_:
+    af: Astrid Lindgren
+    an: Astrid Lindgren
+    ar: أستريد ليندغرين
+    arz: استريد ليندجرين
+    ast: Astrid Lindgren
+    avk: Astrid Lindgren
+    az: Astrid Lindqren
+    azb: آسترید لیندقرن
+    ba: Астрид Линдгрен
+    be: Астрыд Ліндгрэн
+    be-tarask: Астрыд Ліндгрэн
+    bg: Астрид Линдгрен
+    bn: অস্ট্রিড লিনগ্রেন
+    br: Astrid Lindgren
+    bs: Astrid Lindgren
+    ca: Astrid Lindgren
+    ckb: ئاسترید لیندگرین
+    cs: Astrid Lindgrenová
+    cy: Astrid Lindgren
+    da: Astrid Lindgren
+    de: Astrid Lindgren
+    de-at: Astrid Lindgren
+    de-ch: Astrid Lindgren
+    el: Άστριντ Λίντγκρεν
+    en-ca: Astrid Lindgren
+    en-gb: Astrid Lindgren
+    eo: Astrid Lindgren
+    es: Astrid Lindgren
+    et: Astrid Lindgren
+    eu: Astrid Lindgren
+    fa: آسترید لیندگرن
+    fi: Astrid Lindgren
+    fit: Astrid Lindgren
+    fo: Astrid Lindgren
+    fr: Astrid Lindgren
+    frp: Astrid Lindgren
+    fy: Astrid Lindgren
+    ga: Astrid Lindgren
+    gl: Astrid Lindgren
+    gsw: Astrid Lindgren
+    he: אסטריד לינדגרן
+    hi: एस्ट्रिड लिंडग्रेन
+    hil: Astrid Lindgren
+    hr: Astrid Lindgren
+    hsb: Astrid Lindgren
+    hu: Astrid Lindgren
+    hy: Աստրիդ Լինդգրեն
+    id: Astrid Lindgren
+    io: Astrid Lindgren
+    is: Astrid Lindgren
+    it: Astrid Lindgren
+    ja: アストリッド・リンドグレーン
+    jbo: astrid. lindgren
+    jut: Astrid Lindgren
+    ka: ასტრიდ ლინდგრენი
+    kk: Астрид Линдгрен
+    kl: Astrid Lindgren
+    ko: 아스트리드 린드그렌
+    ky: Линдгрен Астрид Анна Эмилия
+    la: Astrid Lindgren
+    lb: Astrid Lindgren
+    li: Astrid Lindgren
+    liv: Astrid Lindgren
+    lt: Astrida Lindgren
+    lv: Astrida Lindgrēna
+    mg: Astrid Lindgren
+    mhr: Астрид Линдгрен
+    mk: Астрид Линдгрен
+    mrj: Линдгрен, Астрид
+    ms: Astrid Lindgren
+    mul: Astrid Lindgren
+    nan: Astrid Lindgren
+    nb: Astrid Lindgren
+    new: एस्ट्रीड लिन्ड्ग्रेन
+    nl: Astrid Lindgren
+    nn: Astrid Lindgren
+    nov: Astrid Lindgren
+    oc: Astrid Lindgren
+    olo: Astrid Lindgren
+    pa: ਐਸਟ੍ਰਿਡ ਲਿੰਗ੍ਰੇਨ
+    pap: Astrid Lindgren
+    pms: Astrid Lindgren
+    pt: Astrid Lindgren
+    pt-br: Astrid Lindgren
+    rmf: Astrid Lindgren
+    ro: Astrid Lindgren
+    ru: Астрид Линдгрен
+    sc: Astrid Lindgren
+    sco: Astrid Lindgren
+    se: Astrid Lindgren
+    sh: Astrid Lindgren
+    si: ඇස්ට්රිඩ් ලින්ඩ්ග්රෙන්
+    sjd: Астрид Линдгрен
+    sje: Astrid Lindgren
+    sju: Astrid Lindgren
+    sk: Astrid Lindgrenová
+    sl: Astrid Lindgren
+    sma: Astrid Lindgren
+    smj: Astrid Lindgren
+    smn: Astrid Lindgren
+    sms: Astrid Lindgren
+    so: Astrid Lindgren
+    sq: Astrid Lindgren
+    sr: Астрид Линдгрен
+    sr-ec: Астрид Линдгрен
+    sv: Astrid Lindgren
+    sw: Astrid Lindgren
+    ta: ஆஸ்ட்ரிட் லிண்ட்கிரென்
+    th: แอสตริด ลินด์เกรน
+    tk: Astrid Lindgren
+    tr: Astrid Lindgren
+    tt: Астрид Линдгрен
+    uk: Астрід Ліндґрен
+    ur: آسٹریڈ لنڈگرین
+    uz: Lindgren Astrid Anna Emiliya
+    vec: Astrid Lindgren
+    vi: Astrid Lindgren
+    vot: Astrid Lindgren
+    vro: Lindgreni Astrid
+    war: Astrid Lindgren
+    wuu: 阿斯特丽德·林格伦
+    xmf: ასტრიდ ლინდგრენი
+    yue: 林格倫
+    zh: 阿斯特麗德·林格倫
+    zh-hant: 阿斯特麗德·林格倫
 ---
-
 # [[Lindgren,Astrid]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Astrid_Lindgren,55767|WD~Astrid_Lindgren,55767]] 

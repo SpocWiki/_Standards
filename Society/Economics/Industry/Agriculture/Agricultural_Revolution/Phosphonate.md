@@ -1,7 +1,65 @@
 ---
 aliases:
-  - phosphonic acid
+- Fosf-acido
+- Fosfon turşuları
+- fosfonaat
+- fosfonaatti
+- Fosfonat
+- Fosfonata acido
+- Fosfonati
+- fosfonato
+- fosfonatt
+- fosfonian
+- Fosfonska kiselina
+- fosfonzuur
+- fosfonáhtta
+- Fosfonáty
+- phosphonate
+- phosphonic acid
+- Ácido fosfônico
+- фосфонат
+- فسفونات
+- فوسفونات
+- ホスホン酸塩
+- 膦酸酯
 has_id_wikidata: Q422733
+dv_has_:
+  name_:
+    ar: فوسفونات
+    az: Fosfon turşuları
+    bs: Fosfonat
+    ca: fosfonat
+    cs: Fosfonáty
+    de: Phosphonate
+    en: phosphonate
+    eo: Fosfonata acido
+    es: fosfonato
+    eu: Fosfonato
+    fa: فسفونات
+    fi: fosfonaatti
+    fr: phosphonate
+    gl: Fosfonato
+    hr: Fosfonska kiselina
+    id: Fosfonat
+    io: Fosf-acido
+    it: Fosfonati
+    ja: ホスホン酸塩
+    nb: fosfonat
+    nl: fosfonzuur
+    nn: fosfonat
+    pl: fosfonian
+    pt: Ácido fosfônico
+    ro: Fosfonat
+    ru: фосфонат
+    se: fosfonáhtta
+    sh: Fosfonat
+    sl: fosfonat
+    smn: fosfonaat
+    sms: fosfonatt
+    sr: Fosfonat
+    sv: fosfonat
+    uk: фосфонат
+    zh: 膦酸酯
 ---
 # [[Phosphonate]] 
 

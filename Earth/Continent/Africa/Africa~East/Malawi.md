@@ -1,95 +1,161 @@
 ---
 aliases:
-  - Malawi
-  - ملاوي
-  - 马拉维
-  - Малави
-  - the Republic of Malawi
-  - la República de Malawi
+- an Mhaláiv
+- IMalawi
+- Kiniikǫʼí Dineʼé Bikéyah
+- la República de Malawi
+- ma Malawi
+- Maalaawwii
+- Malaaw
+- Malaawi
+- Malabhaidh
+- Malahui
+- Malaui
+- Malaveja
+- Malavi
+- Malavio
+- Malavis
+- Malavium
+- Malaviyän
+- Malaví
+- Malavî
+- Malawi
+- Malawia
+- Malawii
+- Malawy
+- Malawïi
+- Malaŵi
+- Maláui
+- Malāvija
+- Marāwi
+- Màláwì
+- the Republic of Malawi
+- Μαλάουι
+- Малаві
+- Малави
+- Малави Республикасы
+- Малавудин Орн
+- Малауи
+- Մալավի
+- מאלאווי
+- מלאווי
+- مالاوى
+- مالاوي
+- مالاوی
+- مالاۋى
+- ملاوي
+- ملاوی
+- މަލާވީ
+- मलावी
+- मालावी
+- মালাউই
+- মালাবি
+- ਮਲਾਵੀ
+- મલાવી
+- ମଲାୱୀ
+- மலாவி
+- మలావీ
+- ಮಲಾವಿ
+- മലാവി
+- මලාවි
+- ประเทศมาลาวี
+- མ་ལ་ཝི།
+- မာလဝီနိုင်ငံ
+- မိူင်းမႃႇလႃႇဝီႇ
+- მალავი
+- ማላዊ
+- ម៉ាឡាវី
+- ⵎⴰⵍⴰⵡⵉ
+- マラウイ
+- 馬拉威
+- 馬拉維
+- 马拉维
+- ꯃꯥꯂꯥꯋꯤ
+- 말라위
 has_id_wikidata: Q1020
-flag: "[[_Standards/WikiData/WD~flag_of_Malawi,103001]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Malawi,103001]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 member_of:
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-anthem: "[[_Standards/WikiData/WD~Mulungu_dalitsa_Malaŵi,215077]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Malawi,242909]]"
-different_from: "[[_Standards/WikiData/WD~Marawi,592338]]"
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+anthem: '[[_Standards/WikiData/WD~Mulungu_dalitsa_Malaŵi,215077]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Malawi,242909]]'
+different_from: '[[_Standards/WikiData/WD~Marawi,592338]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Central_Region,860758]]"
-  - "[[_Standards/WikiData/WD~Southern_Region,868784]]"
-  - "[[_Standards/WikiData/WD~Northern_Region,868827]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Malawi,1430684]]"
-highest_point: "[[_Standards/WikiData/WD~Mulanje_Massif,1510436]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1577811]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Malawi,1990296]]"
-lowest_point: "[[_Standards/WikiData/WD~Shire_River,2279579]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Malawi,2354603]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Malawi,2366173]]"
-central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Malawi,2397584]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Malawi,3007345]]"
+- '[[_Standards/WikiData/WD~Central_Region,860758]]'
+- '[[_Standards/WikiData/WD~Southern_Region,868784]]'
+- '[[_Standards/WikiData/WD~Northern_Region,868827]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Malawi,1430684]]'
+highest_point: '[[_Standards/WikiData/WD~Mulanje_Massif,1510436]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1577811]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malawi,1990296]]'
+lowest_point: '[[_Standards/WikiData/WD~Shire_River,2279579]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malawi,2354603]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malawi,2366173]]'
+central_bank: '[[_Standards/WikiData/WD~Reserve_Bank_of_Malawi,2397584]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Malawi,3007345]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~999,3086706]]"
-  - "[[_Standards/WikiData/WD~997,25648827]]"
-  - "[[_Standards/WikiData/WD~998,25648832]]"
-  - "[[_Standards/WikiData/WD~990,25648918]]"
+- '[[_Standards/WikiData/WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~997,25648827]]'
+- '[[_Standards/WikiData/WD~998,25648832]]'
+- '[[_Standards/WikiData/WD~990,25648918]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Nyakyusa,3272620]]"
-  - "[[_Standards/WikiData/WD~Tonga,3847648]]"
-  - "[[_Standards/WikiData/WD~Lambya,6481626]]"
-  - "[[_Standards/WikiData/WD~Ndali,6983678]]"
-  - "[[_Standards/WikiData/WD~Malawi_Lomwe,10975286]]"
-  - "[[_Standards/WikiData/WD~Malawi_Sena,11056292]]"
-  - "[[_Standards/WikiData/WD~Kokola,11128329]]"
-  - "[[_Standards/WikiData/WD~Shinyiha,12636088]]"
-  - "[[_Standards/WikiData/WD~Nyika,13123491]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Chewa,33273]]"
-  - "[[_Standards/WikiData/WD~Tumbuka,34138]]"
-  - "[[_Standards/WikiData/WD~Yao,36902]]"
+- '[[_Standards/WikiData/WD~Nyakyusa,3272620]]'
+- '[[_Standards/WikiData/WD~Tonga,3847648]]'
+- '[[_Standards/WikiData/WD~Lambya,6481626]]'
+- '[[_Standards/WikiData/WD~Ndali,6983678]]'
+- '[[_Standards/WikiData/WD~Malawi_Lomwe,10975286]]'
+- '[[_Standards/WikiData/WD~Malawi_Sena,11056292]]'
+- '[[_Standards/WikiData/WD~Kokola,11128329]]'
+- '[[_Standards/WikiData/WD~Shinyiha,12636088]]'
+- '[[_Standards/WikiData/WD~Nyika,13123491]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chewa,33273]]'
+- '[[_Standards/WikiData/WD~Tumbuka,34138]]'
+- '[[_Standards/WikiData/WD~Yao,36902]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Blantyre,4689479]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Malawi,5015531]]"
-replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]"
-follows: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Malawi,7112347]]"
+- '[[_Standards/WikiData/WD~Africa_Blantyre,4689479]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Malawi,5015531]]'
+replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]'
+follows: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malawi,7112347]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Southeast_Africa,7569281]]"
-  - "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-  - "[[_Standards/WikiData/WD~East_Africa,27407]]"
+- '[[_Standards/WikiData/WD~Southeast_Africa,7569281]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Malawi.map
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Malawi.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%85%D8%A7%D9%84%D8%A7%D9%88%D9%8A.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Malawi.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Malawi.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%85%D8%A7%D9%84%D8%A7%D9%88%D9%8A.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Malawi.wav
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20%28orthographic%20projection%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationMalawi.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20%28orthographic%20projection%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LocationMalawi.svg
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Stamp%20British%20Central%20Africa%201897%206p.jpg
 official_website: http://www.malawi.gov.mw/
 country_calling_code: 265
@@ -99,153 +165,153 @@ Commons_gallery: Malaŵi
 Colon_Classification: SG--615
 Krugosvet_article: strany_mira/MALAVI.html
 demonym:
-  - ملاوية
-  - ملاويون
-  - مالاوي
-  - malauiana
-  - malauianu
-  - মালাউইয়ীয়
-  - malawià
-  - malawiana
-  - malawianes
-  - malawians
-  - Malawian
-  - Malaviano
-  - Malawite
-  - מלאווי
-  - מלאווית
-  - malawi
-  - Malawiano
-  - malawiana
-  - malawiane
-  - malawiani
-  - malawiano
-  - マラウイ人
-  - 말라위인
-  - malaui
-  - malawian
-  - malawiană
-  - malawieni
-  - maławian
-  - maławiana
-  - maławiane
-  - maławiani
-  - Malaviyänan
-  - مالاوية
-  - مالاويين
-  - مالاويات
-  - Malavijec
-  - Malavijka
-  - Malávach
-  - ملاوي
+- ملاوية
+- ملاويون
+- مالاوي
+- malauiana
+- malauianu
+- মালাউইয়ীয়
+- malawià
+- malawiana
+- malawianes
+- malawians
+- Malawian
+- Malaviano
+- Malawite
+- מלאווי
+- מלאווית
+- malawi
+- Malawiano
+- malawiana
+- malawiane
+- malawiani
+- malawiano
+- マラウイ人
+- 말라위인
+- malaui
+- malawian
+- malawiană
+- malawieni
+- maławian
+- maławiana
+- maławiane
+- maławiani
+- Malaviyänan
+- مالاوية
+- مالاويين
+- مالاويات
+- Malavijec
+- Malavijka
+- Malávach
+- ملاوي
 native_label: Republic of Malawi
 motto_text:
-  - The warm heart of Africa
-  - Undod a Rhyddid
-  - Unity and Freedom
+- The warm heart of Africa
+- Undod a Rhyddid
+- Unity and Freedom
 official_name:
-  - la République du Malawi
-  - Malawi
-  - Malawi
-short_name: 🇲🇼
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Malawi,11255482]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Malawi,15921529]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Malawi,15921529]]"
+- la République du Malawi
+- Malawi
+- Malawi
+short_name: "\U0001F1F2\U0001F1FC"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malawi,11255482]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malawi,15921529]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Malawi,15921529]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-head_of_state: "[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]"
-head_of_government: "[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-studied_in: "[[_Standards/WikiData/WD~Malawian_studies,54255721]]"
+head_of_state: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]'
+head_of_government: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+studied_in: '[[_Standards/WikiData/WD~Malawian_studies,54255721]]'
 UMLS_CUI: C0024548
 ISNI: 121867269
 MeSH_tree_code: Z01.058.290.175.500
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20-%20Location%20Map%20%282013%29%20-%20MWI%20-%20UNOCHA.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20-%20Location%20Map%20%282013%29%20-%20MWI%20-%20UNOCHA.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg
 nominal_GDP:
-  - 12602334124
-  - 13164667627
+- 12602334124
+- 13164667627
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-country: "[[_Standards/WikiData/WD~Malawi,1020]]"
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029]]'
+country: '[[_Standards/WikiData/WD~Malawi,1020]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Chewa,33273]]"
-capital: "[[_Standards/WikiData/WD~Lilongwe,3876]]"
-named_after: "[[_Standards/WikiData/WD~Lake_Malawi,5532]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chewa,33273]]'
+capital: '[[_Standards/WikiData/WD~Lilongwe,3876]]'
+named_after: '[[_Standards/WikiData/WD~Lake_Malawi,5532]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 8
 mains_voltage: 230
 BTI_Governance_Index:
-  - 5.5
-  - 5.7
-  - 4.72
-  - 5.61
-  - 5.63
-  - 5.64
-  - 5.66
-  - 5.86
-  - 5.99
+- 5.5
+- 5.7
+- 4.72
+- 5.61
+- 5.63
+- 5.64
+- 5.66
+- 5.86
+- 5.99
 VAT_rate: 16.5
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.mw,43073]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073]]'
 Inequality_adjusted_Human_Development_Index: 0.377
 Gini_coefficient: 38.5
 Happy_Planet_Index_score: 38.7
 BTI_Status_Index:
-  - 4.89
-  - 5.35
-  - 5.41
-  - 5.47
-  - 5.49
-  - 5.55
-  - 5.56
-  - 5.57
-  - 5.77
+- 4.89
+- 5.35
+- 5.41
+- 5.47
+- 5.49
+- 5.55
+- 5.56
+- 5.57
+- 5.77
 Human_Development_Index: 0.512
 Democracy_Index: 5.74
 total_fertility_rate: 5.129
 death_rate:
-  - 6.611
-  - 6.706
-  - 6.934
-  - 6.983
+- 6.611
+- 6.706
+- 6.934
+- 6.983
 maritime_identification_digits: 655
 mobile_country_code: 650
 FIPS_10_4_countries_and_regions_: MI
 birth_rate:
-  - 32.611
-  - 32.859
-  - 33.233
-  - 33.598
+- 32.611
+- 32.859
+- 33.233
+- 33.598
 life_expectancy: 63.223
 ISO_3166_1_numeric_code: 454
 M49_code: 454
 OmegaWiki_Defined_Meaning: 8354
 male_population:
-  - 9670800
-  - 9168342
-  - 9418758
-  - 9924861
+- 9670800
+- 9168342
+- 9418758
+- 9924861
 IAB_code: 1346
 area: 118484
 Commons_category: Malawi
@@ -253,10 +319,10 @@ subreddit: Malawi
 hashtag: Malawi
 INSEE_countries_and_foreign_territories_code: 99334
 urban_population:
-  - 3376840
-  - 3519490
-  - 3240276
-  - 3668876
+- 3376840
+- 3519490
+- 3240276
+- 3668876
 number_of_out_of_school_children: 764717
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zomba%20Plateau%20banner.jpg
 ISO_3166_1_alpha_3_code: MWI
@@ -266,16 +332,16 @@ inception: 1964-07-06
 has_time_started: 1964-07-06
 coordinates_of_westernmost_point: Point(32.6725 -13.6208)
 female_population:
-  - 9698995
-  - 9958303
-  - 10218942
-  - 10480456
+- 9698995
+- 9958303
+- 10218942
+- 10480456
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Malawian%20national%20anthem.oga
 rural_population:
-  - 15627061
-  - 16000221
-  - 16370252
-  - 16736441
+- 15627061
+- 16000221
+- 16370252
+- 16736441
 population: 18622104
 IOC_country_code: MAW
 licence_plate_code: MW
@@ -286,15 +352,15 @@ coordinates_of_southernmost_point: Point(35.0973 -17.1295)
 coordinate_location: Point(34.0 -13.0)
 Dewey_Decimal_Classification: 2--6897
 coordinates_of_northernmost_point: Point(33.0 -9.37)
-Unicode_character: 🇲🇼
+Unicode_character: "\U0001F1F2\U0001F1FC"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malawi.svg
 coordinates_of_easternmost_point: Point(35.9185 -14.8954)
 location:
-  - -13.95
-  - 33.7
+- -13.95
+- 33.7
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26973
 isDeleted: false
 confidential: public
@@ -302,20 +368,20 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Malawi
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ny
-  - yao
-  - tum
-  - swk
+- ny
+- yao
+- tum
+- swk
 dv_ISO4217-currency_alphabetic: MWK
 dv_ISO4217-currency_name: Malawi Kwacha
 dv_ISO4217-currency_numeric: 454
@@ -344,9 +410,9 @@ dv_UNTERM_Chinese_Formal: 马拉维共和国
 dv_UNTERM_French_Formal: la République du Malawi
 dv_UNTERM_Russian: Малави
 dv_UNTERM_Russian_Formal: Республика Малави
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Eastern Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Eastern Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 14
 dv_Sub-region: 202
@@ -372,41 +438,307 @@ dv_ISO2: MW
 dv_ISO3: MWI
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
+  - '[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]'
 dv_has_:
   name_:
+    ab: Малави
+    ace: Malawi
+    aeb-arab: مالاوي
+    af: Malawi
+    am: ማላዊ
+    ami: Malawi
+    an: Malawi
+    ang: Malawi
+    ann: Malawi
+    anp: मालावी
+    ar: ملاوي
+    ary: مالاوي
+    arz: مالاوى
+    ast: Malaui
+    avk: Malawia
+    az: Malavi
+    azb: مالاوی
+    ba: Малави
+    ban: Malawi
+    bar: Malawi
+    bcl: Malawi
+    be: Малаві
+    be-tarask: Малаві
+    bew: Malawi
+    bg: Малави
+    bho: मलावी
+    bi: Malawi
+    bjn: Malawi
+    bm: Malawi
+    bn: মালাউই
+    bo: མ་ལ་ཝི།
+    bpy: মালাবি
+    br: Malawi
+    bs: Malavi
+    bxr: Малави
+    ca: Malawi
+    cbk-zam: Malawi
+    cdo: Malawi
+    ce: Малави
+    ceb: Malawi
+    chy: Malawi
+    ckb: مالاوی
+    co: Malaui
+    crh: Malavi
+    crh-latn: Malavi
+    cs: Malawi
+    cv: Малави
+    cy: Malawi
+    da: Malawi
+    dag: Malawi
+    de: Malawi
+    de-at: Malawi
+    de-ch: Malawi
+    diq: Malawi
+    dsb: Malawi
+    dty: मलावी
+    dv: މަލާވީ
+    ee: Malawi
+    el: Μαλάουι
+    en: Malawi
+    en-ca: Malawi
+    en-gb: Malawi
+    eo: Malavio
+    es: Malaui
+    et: Malawi
+    eu: Malawi
+    ext: Malaui
+    fa: مالاوی
+    ff: Malawi
+    fi: Malawi
+    fo: Malavi
+    fr: Malawi
+    frp: Malavi
+    frr: Malaawi
+    fy: Malawy
+    ga: an Mhaláiv
+    gag: Malavi
+    gcr: Malawi
+    gd: Malabhaidh
+    gl: Malawi
+    glk: مالاوي
+    gn: Maláui
+    gpe: Malawi
+    gsw: Malawi
+    gu: મલાવી
+    gur: Malawi
+    gv: Malawi
+    ha: Malawi
+    hak: Malawi
+    he: מלאווי
+    hi: मलावी
+    hif: Malawi
+    hr: Malavi
+    hsb: Malawi
+    ht: Malawi
+    hu: Malawi
+    hy: Մալավի
+    ia: Malawi
+    id: Malawi
+    ie: Malawi
+    ig: Malawi
+    ilo: Malawi
+    io: Malawi
+    is: Malaví
+    it: Malawi
+    ja: マラウイ
+    jam: Malaawi
+    jv: Malawi
+    ka: მალავი
+    kaa: Malavi
+    kab: Malawi
+    kbp: Malawii
+    kg: Malawi
+    ki: Malawi
+    kk: Малави Республикасы
+    km: ម៉ាឡាវី
+    kn: ಮಲಾವಿ
+    knc: Malawi
+    ko: 말라위
+    krc: Малави
+    ku: Malavî
+    kw: Malawi
+    ky: Малави
+    la: Malavium
+    lad: Malawi
+    lb: Malawi
+    lez: Малави
+    lfn: Malaui
+    lg: Malawi
+    li: Malawi
+    lij: Malawi
+    lld: Malaui
+    lmo: Malawi
+    ln: Malawi
+    lt: Malavis
+    ltg: Malaveja
+    lv: Malāvija
+    lzh: 馬拉威
+    mai: मलावी
+    mdf: Малави
+    mg: Malawi
+    mhr: Малави
+    mi: Marāwi
+    min: Malawi
+    mk: Малави
+    ml: മലാവി
+    mn: Малави
+    mni: ꯃꯥꯂꯥꯋꯤ
+    mr: मलावी
+    ms: Malawi
+    mt: Malawi
+    my: မာလဝီနိုင်ငံ
+    mzn: مالاوی
+    na: Malawi
+    nah: Malahui
+    nan: Malawi
+    nb: Malawi
+    nds: Malawi
+    nds-nl: Malawi
+    ne: मलावी
+    new: मलावी
+    nl: Malawi
+    nn: Malawi
+    nov: Malawi
+    nr: Malawi
+    nso: Malawi
+    nv: Kiniikǫʼí Dineʼé Bikéyah
+    ny: Malaŵi
+    oc: Malawi
+    olo: Malavi
+    om: Maalaawwii
+    or: ମଲାୱୀ
+    os: Малави
+    pa: ਮਲਾਵੀ
+    pam: Malawi
+    pap: Malawi
+    pi: मलावी
+    pih: Malaawi
+    pl: Malawi
+    pms: Malawi
+    pnb: ملاوی
+    ps: مالاوي
+    pt: Malawi
+    pt-br: Malawi
+    qu: Malawi
+    rmy: Malawi
+    ro: Malawi
+    ru: Малави
+    rw: Malawi
+    sa: मलावी
+    sah: Малауи
+    sc: Malawi
+    scn: Malaui
+    sco: Malawi
+    sd: ملاوي
+    se: Malawi
+    sg: Malawïi
+    sgs: Malavis
+    sh: Malavi
+    shn: မိူင်းမႃႇလႃႇဝီႇ
+    si: මලාවි
+    sk: Malawi
+    sl: Malavi
+    sm: Malawi
+    smn: Malawi
+    sms: Malaaw
+    sn: Malawi
+    so: Malaawi
+    sq: Malavi
+    sr: Малави
+    sr-ec: Малави
+    sr-el: Malavi
+    ss: IMalawi
+    st: Malawi
+    stq: Malawi
+    su: Malawi
+    sv: Malawi
+    sw: Malawi
+    szl: Malawi
+    szy: Malawi
+    ta: மலாவி
+    tay: Malawi
+    te: మలావీ
+    tg: Малави
+    th: ประเทศมาลาวี
+    ti: ማላዊ
+    tk: Malawi
+    tl: Malawi
+    tly: Malavi
+    tok: ma Malawi
+    tr: Malavi
+    trv: Malawi
+    ts: Malawi
+    tt: Малави
+    tum: Malaŵi
+    tw: Malawi
+    udm: Малави
+    ug: مالاۋى
+    uk: Малаві
+    ur: ملاوی
+    uz: Malavi
+    vec: Malawi
+    vep: Malavi
+    vi: Malawi
+    vls: Malawi
+    vo: Malaviyän
+    vro: Malawi
+    war: Malawi
+    wo: Malawi
+    wuu: 馬拉維
+    xal: Малавудин Орн
+    xh: Malawi
+    xmf: მალავი
+    yi: מאלאווי
+    yo: Màláwì
+    yue: 馬拉維
+    za: Malawi
+    zea: Malawi
+    zgh: ⵎⴰⵍⴰⵡⵉ
+    zh: 馬拉威
+    zh-cn: 马拉维
+    zh-hans: 马拉维
+    zh-hant: 馬拉威
+    zh-hk: 馬拉維
+    zh-sg: 马拉维
+    zh-tw: 馬拉威
+    zu: IMalawi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Malawi
 dv_has_name_de: Malawi
 dv_Area-Total: 118484
 dv_Area-Land: 94080
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: MW
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 33.7
 dv_has_place_latitude: -13.95
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
+- '[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Malawi
 ---
-
 # [[Malawi]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

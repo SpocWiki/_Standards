@@ -1,24 +1,195 @@
 ---
-aliases: 
+aliases:
+- arêkerdoğ
+- chhau-chi̍p-khì
+- compilador
+- compilateur
+- compilator
+- compilatore
+- compilatrum
+- compiler
+- cumpilador
+- derleyici
+- fordítóprogram
+- jezični prevoditelj
+- kempuner
+- kikonganyi
+- kompajler
+- kompayler
+- kompilaator
+- kompilador
+- kompilator
+- kompilators
+- kompiliatorius
+- Kompililo
+- kompilyator
+- kompilátor
+- konpiladore
+- manggupgop
+- ohjelmointikielen kääntäjä
+- penyusun
+- prevajalnik kode
+- Përpiluesi
+- překladač
+- setswana
+- Suntuq (antañiqiy)
+- tiomsaitheoir
+- tradukilo
+- trình biên dịch
+- vertalerkonstruksie
+- þýðandi
+- μεταγλωττιστής
+- кампілятар
+- компілятор
+- компајлер
+- компилатор
+- компилер
+- компилятор
+- компиляций
+- люкась
+- мутарҷим
+- програмски преводилац
+- эмхэтгүүр
+- կոմպիլյատոր
+- מהדר
+- קאמפיילער
+- درلییجی
+- مترجم
+- مصرف
+- کمپائلر
+- کۆمپایلەر
+- कम्पाइलर
+- কম্পাইলার
+- ਕੰਪਾਇਲਰ
+- நிரல்மொழிமாற்றி
+- కంపైలర్
+- കംപൈലർ
+- คอมไพเลอร์
+- კომპილატორი
+- コンパイラ
+- 編譯器
+- 编译器
+- 컴파일러
 has_id_wikidata: Q47506
-uses: "[[_Standards/WikiData/WD~source_code,128751]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~object_code,157965]]"
-opposite_of: "[[_Standards/WikiData/WD~decompiler,913697]]"
-studied_by: "[[_Standards/WikiData/WD~compiler_construction,1121462]]"
+uses: '[[_Standards/WikiData/WD~source_code,128751]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~object_code,157965]]'
+opposite_of: '[[_Standards/WikiData/WD~decompiler,913697]]'
+studied_by: '[[_Standards/WikiData/WD~compiler_construction,1121462]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~implementation_of_a_programming_language,4117406]]"
-  - "[[_Standards/WikiData/WD~build_tool,114900488]]"
-has_characteristic: "[[_Standards/WikiData/WD~Compiler_correctness,5156378]]"
-has_use: "[[_Standards/WikiData/WD~compilation,12769326]]"
-instance_of: "[[_Standards/WikiData/WD~software_category,17155032]]"
+- '[[_Standards/WikiData/WD~implementation_of_a_programming_language,4117406]]'
+- '[[_Standards/WikiData/WD~build_tool,114900488]]'
+has_characteristic: '[[_Standards/WikiData/WD~Compiler_correctness,5156378]]'
+has_use: '[[_Standards/WikiData/WD~compilation,12769326]]'
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
 social_media_followers: 14055
 GitHub_topic: compiler
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Compiler.svg
 IEV_number: 171-05-27
 subreddit: Compilers
 Commons_category: Compilers
+dv_has_:
+  name_:
+    af: vertalerkonstruksie
+    an: compilador
+    ar: مصرف
+    ast: compilador
+    az: kompilyator
+    azb: درلییجی
+    be: кампілятар
+    be-tarask: кампілятар
+    bg: компилатор
+    bn: কম্পাইলার
+    br: kempuner
+    bs: kompajler
+    ca: compilador
+    ckb: کۆمپایلەر
+    cs: překladač
+    da: compiler
+    de: Compiler
+    diq: arêkerdoğ
+    el: μεταγλωττιστής
+    en: compiler
+    eo: tradukilo
+    es: compilador
+    et: kompilaator
+    eu: konpiladore
+    fa: مترجم
+    fi: ohjelmointikielen kääntäjä
+    fr: compilateur
+    ga: tiomsaitheoir
+    gl: compilador
+    ha: Compiler
+    he: מהדר
+    hi: कम्पाइलर
+    hr: jezični prevoditelj
+    hsb: kompilator
+    hu: fordítóprogram
+    hy: կոմպիլյատոր
+    ia: compilator
+    id: kompilator
+    ilo: manggupgop
+    io: Kompililo
+    is: þýðandi
+    it: compilatore
+    ja: コンパイラ
+    ka: კომპილატორი
+    kaa: Kompilyator
+    kk: компилятор
+    ko: 컴파일러
+    ky: компилер
+    la: compilatrum
+    lb: Compiler
+    lfn: compilador
+    lmo: compilator
+    lt: kompiliatorius
+    lv: kompilators
+    mhr: компиляций
+    mk: компајлер
+    ml: കംപൈലർ
+    mn: эмхэтгүүр
+    ms: penyusun
+    mwl: cumpilador
+    my: compiler
+    nan: chhau-chi̍p-khì
+    nb: kompilator
+    ne: कम्पाइलर
+    nl: compiler
+    pa: ਕੰਪਾਇਲਰ
+    pl: kompilator
+    pms: Compilator
+    pnb: کمپائلر
+    pt: compilador
+    qu: Suntuq (antañiqiy)
+    ro: compilator
+    ru: компилятор
+    sco: compiler
+    sh: kompajler
+    sk: kompilátor
+    sl: prevajalnik kode
+    sq: Përpiluesi
+    sr: програмски преводилац
+    sv: kompilator
+    sw: kikonganyi
+    ta: நிரல்மொழிமாற்றி
+    te: కంపైలర్
+    tg: мутарҷим
+    th: คอมไพเลอร์
+    tl: kompayler
+    tn: setswana
+    tr: derleyici
+    udm: люкась
+    uk: компілятор
+    ur: کمپائلر
+    vi: trình biên dịch
+    war: kompilador
+    wuu: 编译器
+    yi: קאמפיילער
+    yue: 編譯器
+    zh: 編譯器
+    zh-cn: 編譯器
+    zh-hant: 編譯器
+    zh-tw: 編譯器
 ---
-
 # [[Compiler]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Compiler,47506|WD~Compiler,47506]]

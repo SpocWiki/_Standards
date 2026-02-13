@@ -1,25 +1,142 @@
 ---
 aliases:
-  - ontological naturalism
-  - metaphysical naturalism
-  - pure naturalism
-  - philosophical naturalism
-  - antisupernaturalism
-  - Naturalismus
-  - Naturalism
+- antisupernaturalism
+- aðferðafræðileg náttúruhyggja
+- chủ nghĩa tự nhiên
+- doğalcılık
+- metaphysical naturalism
+- Natoralisma (filôzôfia)
+- Naturalism
+- Naturalism (filosofìa)
+- naturalisma
+- naturalisme
+- naturalismi
+- naturalismm
+- naturalismo
+- Naturalismus
+- naturalissma
+- naturalizam
+- naturalizem
+- naturalizm
+- Naturalizm (fəlsəfə)
+- naturalizmus
+- naturalîzm
+- naturiolaeth
+- naturālisms
+- natyralizmi në filozofi
+- natūralizmas
+- nádúrachas
+- ontological naturalism
+- philosophical naturalism
+- pure naturalism
+- натуралізм
+- натурализам
+- натурализм
+- Табиатгароӣ (фалсафа)
+- նատուրալիզմ
+- נטורליזם
+- المذهب الطبيعي
+- طبیعتگرایی
+- ناتورالیسم
+- نیچریت
+- प्रकृतिबाद
+- प्रकृतिवाद
+- স্বাভাবিকতা
+- இயற்கையியல்
+- ნატურალიზმი
+- 自然主义
+- 自然主義
+- 자연주의
 has_id_wikidata: Q56000
 different_from:
-  - '[[_Standards/WikiData/WD~naturalism,223978]]'
-  - '[[_Standards/WikiData/WD~natural_history,484591]]'
+- '[[_Standards/WikiData/WD~naturalism,223978]]'
+- '[[_Standards/WikiData/WD~natural_history,484591]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-  - '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
 described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 opposite_of: '[[_Standards/WikiData/WD~supernaturalism,21071527]]'
 Dewey_Decimal_Classification: 146
 Commons_category: Naturalism (philosophy)
+dv_has_:
+  name_:
+    af: naturalisme
+    ar: المذهب الطبيعي
+    az: Naturalizm (fəlsəfə)
+    azb: ناتورالیسم
+    be-tarask: натуралізм
+    bn: স্বাভাবিকতা
+    ca: naturalisme
+    cs: naturalismus
+    cy: naturiolaeth
+    da: naturalisme
+    de: Naturalismus
+    de-ch: Naturalismus
+    en: naturalism
+    en-ca: naturalism
+    en-gb: naturalism
+    eo: naturalismo
+    es: naturalismo
+    et: naturalism
+    eu: naturalismo
+    fa: طبیعتگرایی
+    fi: naturalismi
+    fr: naturalisme
+    ga: nádúrachas
+    gl: naturalismo
+    he: נטורליזם
+    hi: प्रकृतिवाद
+    hr: naturalizam
+    hu: naturalizmus
+    hy: նատուրալիզմ
+    ia: naturalismo
+    id: naturalisme
+    is: aðferðafræðileg náttúruhyggja
+    it: naturalismo
+    ja: 自然主義
+    ka: ნატურალიზმი
+    ko: 자연주의
+    ku: naturalîzm
+    ky: натурализм
+    la: naturalismus
+    lt: natūralizmas
+    lv: naturālisms
+    mg: Natoralisma (filôzôfia)
+    mk: натурализам
+    nb: naturalisme
+    ne: प्रकृतिबाद
+    nl: naturalisme
+    nn: naturalisme
+    oc: naturalisme
+    pl: naturalizm
+    pms: Naturalism (filosofìa)
+    pt: naturalismo
+    pt-br: naturalismo
+    ru: натурализм
+    se: naturalisma
+    sh: naturalizam
+    sk: naturalizmus
+    sl: naturalizem
+    sma: naturalisme
+    smj: naturalissma
+    smn: naturalism
+    sms: naturalismm
+    sq: natyralizmi në filozofi
+    sr: натурализам
+    sr-ec: натурализам
+    sv: naturalism
+    ta: இயற்கையியல்
+    tg: Табиатгароӣ (фалсафа)
+    tl: naturalismo
+    tr: doğalcılık
+    uk: натуралізм
+    ur: نیچریت
+    uz: naturalizm
+    vi: chủ nghĩa tự nhiên
+    wuu: 自然主义
+    yue: 自然主義
+    zh: 自然主义
 ---
-
 # [[Naturalism]] 
 
 #is_/same_as :: [[WD~Naturalism,56000]] 

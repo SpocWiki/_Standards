@@ -1,33 +1,141 @@
 ---
 aliases:
-  - prion
-  - prion
-  - Prion
-  - is_a_prion
+- is_a_prion
+- prioi
+- prion
+- prionas
+- prione
+- prioni
+- priono
+- prions
+- priony
+- prioonid
+- priyon
+- prió
+- prión
+- priùni
+- príon
+- thể đạm độc
+- πράιον
+- пріон
+- прион
+- прионы
+- прыёны
+- պրիոններ
+- פריון
+- بريون
+- پری اون
+- پریون
+- প্রিয়ন
+- প্ৰিয়ন
+- ପ୍ରିଅନ
+- புரதப்பீழை
+- പ്രിയോൺ
+- พรีออน
+- プリオン
+- 朊毒体
+- 朊毒體
+- 프리온
 has_id_wikidata: Q47051
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: InfectiousAgentClass
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - prion
+- prion
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_prion Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
+- class/Class
+- schema-org/Class
+- class/infectious_agent
 title: is_a_prion Class
 type: Type
+dv_has_:
+  name_:
+    af: prion
+    ar: بريون
+    as: প্ৰিয়ন
+    ast: prión
+    az: prion
+    be: прыёны
+    be-tarask: прыёны
+    bg: прион
+    bn: প্রিয়ন
+    br: prion
+    bs: prion
+    ca: prió
+    cs: prion
+    da: prion
+    de: Prion
+    el: πράιον
+    en: prion
+    eo: priono
+    es: prion
+    et: prioonid
+    eu: prioi
+    fa: پریون
+    fi: prioni
+    fr: prion
+    ga: prión
+    gl: prión
+    he: פריון
+    hr: prioni
+    ht: priyon
+    hu: prion
+    hy: պրիոններ
+    ia: prion
+    id: prion
+    is: príon
+    it: prione
+    ja: プリオン
+    jv: prion
+    kk: прионы
+    ko: 프리온
+    la: prion
+    lmo: prion
+    lt: prionas
+    lv: prions
+    mk: прион
+    ml: പ്രിയോൺ
+    ms: prion
+    nb: prion
+    nl: prion
+    nn: prion
+    oc: prion
+    or: ପ୍ରିଅନ
+    pl: priony
+    pnb: پری اون
+    ps: پریون
+    pt: príon
+    ro: prion
+    ru: прионы
+    scn: priùni
+    sh: prion
+    sk: prión
+    sl: prion
+    sr: прион
+    sr-ec: прион
+    sv: prion
+    ta: புரதப்பீழை
+    th: พรีออน
+    tr: prion
+    uk: пріон
+    ur: پری اون
+    vi: thể đạm độc
+    wuu: 朊毒体
+    yue: 朊毒體
+    zh: 朊毒體
+    zh-hans: 朊毒体
+    zh-hant: 朊毒體
 ---
-
 # [[Prion]] 
 
 Class of all prions.

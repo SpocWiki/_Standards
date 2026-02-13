@@ -1,8 +1,108 @@
 ---
 aliases:
-  - Dugongidae
+- Diugoniniai
+- Diugoniowate
+- Doejongdieren
+- doejongs
+- Dugongedoj
+- Dugongfamilien
+- dugongfélék
+- Dugonggiller
+- Dugongidae
+- dugongido
+- Dugongovité
+- dugongovití
+- Dugonzi
+- dugòngids
+- Dygonger
+- Dyoqonlar
+- Gabelschwanzseekühe
+- Gafelschwanzséikéi
+- Jūrasgovju dzimta
+- merilehmät
+- wekixoleem
+- Ντιγκονγκίδες
+- Дугонзи
+- Дюгондор
+- дюгоневые
+- дюгонови
+- תחשיים
+- أطومات
+- اتومات
+- دریافیلان
+- துகாங்கிடே
+- ジュゴン科
+- 儒艮科
+- 듀공과
 title: Dugongidae
 has_id_wikidata: Q838603
+dv_has_:
+  name_:
+    an: Dugongidae
+    ar: أطومات
+    arz: اتومات
+    ast: Dugongidae
+    avk: wekixoleem
+    az: Dyoqonlar
+    bg: дюгонови
+    ca: dugòngids
+    ceb: Dugongidae
+    cs: dugongovití
+    da: Dygonger
+    de: Gabelschwanzseekühe
+    el: Ντιγκονγκίδες
+    en: Dugongidae
+    eo: Dugongedoj
+    es: Dugongidae
+    eu: dugongido
+    ext: Dugongidae
+    fa: دریافیلان
+    fi: merilehmät
+    fr: Dugongidae
+    fy: Doejongdieren
+    ga: Dugongidae
+    gl: Dugongidae
+    he: תחשיים
+    hu: dugongfélék
+    ia: Dugongidae
+    id: Dugongidae
+    ie: Dugongidae
+    io: Dugongidae
+    it: Dugongidae
+    ja: ジュゴン科
+    ko: 듀공과
+    ky: Дюгондор
+    la: Dugongidae
+    lb: Gafelschwanzséikéi
+    lt: Diugoniniai
+    lv: Jūrasgovju dzimta
+    mt: Dugongidae
+    mul: Dugongidae
+    nb: Dugongfamilien
+    nl: doejongs
+    oc: Dugongidae
+    pl: Diugoniowate
+    pt: Dugongidae
+    pt-br: Dugongidae
+    ro: Dugongidae
+    ru: дюгоневые
+    sk: Dugongovité
+    sq: Dugongidae
+    sr: Дугонзи
+    sr-ec: Дугонзи
+    sr-el: Dugonzi
+    ta: துகாங்கிடே
+    tr: Dugonggiller
+    uk: Dugongidae
+    vi: Dugongidae
+    vo: Dugongidae
+    war: Dugongidae
+    zh: 儒艮科
+    zh-cn: 儒艮科
+    zh-hans: 儒艮科
+    zh-hant: 儒艮科
+    zh-hk: 儒艮科
+    zh-tw: 儒艮科
 ---
 # [[Dugongidae]] 
 

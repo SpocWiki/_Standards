@@ -1,16 +1,64 @@
 ---
 aliases:
-  - spherical circle
-  - small circle
-  - lesser circle
-  - Spherical_Circle
-  - Spherical Circle
+- Cerc mic
+- círculo menor
+- kleincirkel
+- Kleinkreis
+- koło małe
+- lesser circle
+- Lillecirkel
+- Lytssirkel
+- Malgranda cirklo
+- mali krog
+- Mały krejz
+- Mały kruh
+- mažasis apskritimas
+- petit cercle
+- small circle
+- småcirkel
+- spherical circle
+- Spherical_Circle
+- Väikering
+- Zirkulu txiki
+- мале коло
+- Малка окръжност
+- малый круг
+- קוילקרייז
+- دائرة صغيرة
+- دائرہ صغیر
+- 球面上の円
 has_id_wikidata: Q149295
 opposite_of: '[[_Standards/WikiData/WD~great_circle,146657]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of: '[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]'
+dv_has_:
+  name_:
+    ar: دائرة صغيرة
+    bg: Малка окръжност
+    da: Lillecirkel
+    de: Kleinkreis
+    dsb: Mały krejz
+    en: small circle
+    eo: Malgranda cirklo
+    et: Väikering
+    eu: Zirkulu txiki
+    fr: petit cercle
+    fy: Lytssirkel
+    hsb: Mały kruh
+    ja: 球面上の円
+    lt: mažasis apskritimas
+    nl: kleincirkel
+    pl: koło małe
+    pt: círculo menor
+    ro: Cerc mic
+    ru: малый круг
+    rue: Малый круг
+    sl: mali krog
+    sv: småcirkel
+    uk: мале коло
+    ur: دائرہ صغیر
+    yi: קוילקרייז
 ---
-
 # [[Spherical_Circle]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~small_circle,149295]]

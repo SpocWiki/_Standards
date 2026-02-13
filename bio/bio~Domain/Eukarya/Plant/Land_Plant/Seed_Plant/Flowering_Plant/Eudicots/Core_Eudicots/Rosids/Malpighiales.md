@@ -1,7 +1,41 @@
 ---
 aliases:
-  - Malpighiales
-  - 金虎尾目
+- Barbadoskirsebær-ordenen
+- Bộ Sơ ri
+- Malpighiales
+- Malpighials
+- Malpighienartige
+- malpighiotvaré
+- Malpigialoj
+- Malpigiaordningen
+- malpigijevci
+- Malpigijiečiai
+- malpigiotvaré
+- malpigiowce
+- Malpiigialaadsed
+- Malpīgiju rinda
+- Söyüdçiçəklilər
+- vierordenen
+- Μαλπιγειώδη
+- Вербакветныя
+- малпигиецветни
+- малпигиовидни
+- Мальпігієцвіті
+- Мальпігіякветныя
+- мальпигиецветные
+- Мальпигия чукӧр
+- մալպիգիածաղկավորներ
+- מלפיגאים
+- مالپگیالے
+- مالپیگیسانان
+- ملبيغيات
+- मालपिग्यालेस
+- மால்பிகியால்சு
+- മാൽപീഗൈൽസ്
+- อันดับโนรา
+- キントラノオ目
+- 金虎尾目
+- 말피기아목
 has_id_wikidata: Q21887
 title: Malpighiales
 parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
@@ -16,8 +50,97 @@ Commons_category: Malpighiales
 taxon_name: Malpighiales
 NBN_System_Key: NHMSYS0020824592
 taxon_common_name: 金虎尾目
+dv_has_:
+  name_:
+    af: Malpighiales
+    an: Malpighiales
+    ar: ملبيغيات
+    arz: ملبيغيات
+    ast: Malpighiales
+    az: Söyüdçiçəklilər
+    be: Вербакветныя
+    be-tarask: Мальпігіякветныя
+    bg: малпигиецветни
+    bs: Malpighiales
+    ca: Malpighials
+    ceb: Malpighiales
+    cs: malpighiotvaré
+    da: Barbadoskirsebær-ordenen
+    de: Malpighienartige
+    el: Μαλπιγειώδη
+    en: Malpighiales
+    en-ca: Malpighiales
+    en-gb: Malpighiales
+    eo: Malpigialoj
+    es: Malpighiales
+    et: Malpiigialaadsed
+    eu: Malpighiales
+    ext: Malpighiales
+    fa: مالپیگیسانان
+    fi: Malpighiales
+    fr: Malpighiales
+    frr: Malpighiales
+    ga: Malpighiales
+    gl: Malpighiales
+    he: מלפיגאים
+    hi: मालपिग्यालेस
+    hr: Malpighiales
+    hu: Malpighiales
+    hy: մալպիգիածաղկավորներ
+    ia: Malpighiales
+    id: Malpighiales
+    ie: Malpighiales
+    io: Malpighiales
+    it: Malpighiales
+    ja: キントラノオ目
+    jv: Malpighiales
+    ko: 말피기아목
+    koi: Мальпигия чукӧр
+    ku: Malpighiales
+    kv: Мальпигия чукӧр
+    la: Malpighiales
+    lmo: Malpighiales
+    lt: Malpigijiečiai
+    lv: Malpīgiju rinda
+    mk: малпигиовидни
+    ml: മാൽപീഗൈൽസ്
+    ms: Malpighiales
+    mul: Malpighiales
+    nb: vierordenen
+    nl: Malpighiales
+    nn: vierordenen
+    oc: Malpighiales
+    pl: malpigiowce
+    pnb: مالپگیالے
+    pt: Malpighiales
+    pt-br: Malpighiales
+    ro: Malpighiales
+    ru: мальпигиецветные
+    scn: Malpighiales
+    sco: Malpighiales
+    sh: Malpighiales
+    sk: malpigiotvaré
+    sl: malpigijevci
+    sq: Malpighiales
+    sr: Malpighiales
+    sv: Malpigiaordningen
+    ta: மால்பிகியால்சு
+    th: อันดับโนรา
+    tl: Malpighiales
+    tr: Malpighiales
+    uk: Мальпігієцвіті
+    vi: Bộ Sơ ri
+    vls: Malpighiales
+    vo: Malpighiales
+    war: Malpighiales
+    wuu: 金虎尾目
+    yue: 金虎尾目
+    zh: 金虎尾目
+    zh-cn: 金虎尾目
+    zh-hans: 金虎尾目
+    zh-hant: 金虎尾目
+    zh-tw: 金虎尾目
 ---
-
 # [[Malpighiales]] 
 
 ![Salix_laevigata](Malpighiales/Salix_laevigata.jpg)  ![Euphorbia_canariensis](Malpighiales/Euphorbia_canariensis.jpg)  ![Hypericum_cerastoides](Malpighiales/Hypericum_cerastoides.jpg) 

@@ -1,55 +1,180 @@
 ---
 aliases:
-  - tayga
-  - тайга́
-  - boreal forest or snow forest
-  - Taiga
+- Barrskógabelti
+- boreaalinen vyöhyke
+- Boreal barskog
+- boreal forest
+- boreal forest or snow forest
+- Boreala foresto
+- Borealer Nadelwald
+- borealni iglasti gozd
+- Boreoale busschn
+- foraoisí tuaisceartacha
+- Silva borealis
+- Taiga
+- taigà
+- tajga
+- Tajgo
+- tayga
+- Tayiga
+- Tayqa
+- taïga
+- Τάιγκα
+- Тајга
+- тайга
+- тайга́
+- Тайҕа
+- Տայգա
+- טייגה
+- تائیگا
+- تايغا
+- تایگا
+- ताइगा
+- তৈগা
+- தைகா
+- ടൈഗ
+- ไทกา
+- ტაიგა
+- タイガ
+- 北方森林
+- 北方針葉林
+- 北方针叶林
+- 타이가
 has_id_wikidata: Q69564
 instance_of:
-  - "[[_Standards/WikiData/WD~biome,101998]]"
-  - "[[_Standards/WikiData/WD~vegetational_formation,2083910]]"
-  - "[[_Standards/WikiData/WD~WWF_biome,119820518]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~forest,4421]]"
+- '[[_Standards/WikiData/WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
+- '[[_Standards/WikiData/WD~WWF_biome,119820518]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~forest,4421]]'
 continent:
-  - "[[_Standards/WikiData/WD~South_America,18]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~North_America,49]]"
+- '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~North_America,49]]'
 OmegaWiki_Defined_Meaning: 1459570
 Commons_category: Taiga
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Taiga%20ecoregion.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ecoregion%20NT0402.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Taiga%20ecoregion.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ecoregion%20NT0402.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Boreal%20Forest%20Banner.JPG
 equivalent_class: https://inspire.ec.europa.eu/codelist/EnvironmentalStratificationClassificationValue/BOR
 UMLS_CUI: C3850011
 MeSH_tree_code:
-  - G16.500.275.157.437.750
-  - N06.230.124.343.750
+- G16.500.275.157.437.750
+- N06.230.124.343.750
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]"
-    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]"
-    - "[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]"
-    - "[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]"
-    - "[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]"
-    - "[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]"
-    - "[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]"
-    - "[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]"
+  - '[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]'
+  - '[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]'
+  - '[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]'
+  - '[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]'
+  - '[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]'
+  - '[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]'
+  - '[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]'
+  - '[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]"
-  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]"
-  - "[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]"
-  - "[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]"
-  - "[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]"
-  - "[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]"
-  - "[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]"
-  - "[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]"
+- '[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]'
+- '[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]'
+- '[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]'
+- '[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]'
+- '[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]'
+- '[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]'
+- '[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]'
+- '[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]'
+dv_has_:
+  name_:
+    af: Taiga
+    ar: تايغا
+    ast: Taiga
+    az: Tayqa
+    be: тайга
+    be-tarask: тайга
+    bg: Тайга
+    bn: তৈগা
+    bs: Tajga
+    ca: taigà
+    ce: Тайга
+    ckb: تایگا
+    cs: tajga
+    cv: Тайга
+    da: Taiga
+    de: Borealer Nadelwald
+    el: Τάιγκα
+    en: taiga
+    en-ca: boreal forest
+    en-gb: taiga
+    eo: Tajgo
+    es: taiga
+    et: Taiga
+    eu: Taiga
+    fa: تایگا
+    fi: boreaalinen vyöhyke
+    fr: taïga
+    fy: Taiga
+    ga: foraoisí tuaisceartacha
+    gl: Taiga
+    he: טייגה
+    hi: ताइगा
+    hr: Tajga
+    ht: Tayiga
+    hu: tajga
+    hy: Տայգա
+    ia: Taiga
+    id: Taiga
+    io: Boreala foresto
+    is: Barrskógabelti
+    it: Taiga
+    ja: タイガ
+    ka: ტაიგა
+    kk: Тайга
+    ko: 타이가
+    ky: Тайга
+    la: Silva borealis
+    lfn: Taiga
+    li: Taiga
+    lt: taiga
+    lv: Taiga
+    mk: Тајга
+    ml: ടൈഗ
+    ms: Taiga
+    nb: Boreal barskog
+    nl: taiga
+    nn: taiga
+    oc: Taiga
+    pl: Tajga
+    pt: taiga
+    ro: taiga
+    ru: тайга
+    sah: Тайҕа
+    sco: taiga
+    sh: Tajga
+    sk: tajga
+    sl: borealni iglasti gozd
+    so: Tayga
+    sq: Tajga
+    sr: тајга
+    stq: Taiga
+    sv: tajga
+    sw: Taiga
+    ta: தைகா
+    th: ไทกา
+    tl: Taiga
+    tr: tayga
+    tt: Тайга
+    udm: тайга
+    uk: тайга
+    ur: تائیگا
+    uz: Tayga
+    vi: Taiga
+    vls: Boreoale busschn
+    war: Taiga
+    wuu: 北方针叶林
+    yue: 北方森林
+    zh: 北方針葉林
 ---
-
 # [[Taiga]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]  

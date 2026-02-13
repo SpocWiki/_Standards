@@ -1,21 +1,151 @@
 ---
-has_time_started: 1800-01-01 
-has_time_stopped: 1900-01-01 
+has_time_started: 1800-01-01
+has_time_stopped: 1900-01-01
 aliases:
+- ceol Rómánsúil
+- cerddoriaeth ramantus
+- ceòl romansach
+- era romântica
+- erromantizismo
+- hudební romantismus
+- kiaull romansagh
+- musica romantic
+- musica romantica
+- Musik der Romantik
+- musik romantik
+- musique romantique
+- Muusig vo dr Romantik
+- Muzik era romantis
+- muzyka romantyczna
+- mużika romantika
+- Mùsica rumàntica
+- música del Romanticismo
+- Música del Romanticismu
+- romantic muisic
+- Romantic music
+- romanticisme musical
+- romanticismo musical
+- romantiek
+- Romantiikan musiikki
+- Romantik müzik
+- romantikens musik
+- romantikisma muziko
+- romantikkens musik
+- romantikus zene
+- romantisk musikk
+- romantism
+- Romantism muzical
+- romantisma mūzika
+- Romantizam
+- Romantizmo muzika
+- Romantizmus
+- romantična glasba
+- âm nhạc lãng mạn
+- ρομαντική μουσική
+- музика епохи романтизму
+- Музика на романтизма
+- музыка перыяду рамантызму
+- музыка рамантызму
+- музыка эпохи романтизма
+- мусиқии романтик
+- Романтизм
+- Романтистичка музика
+- романтична музика
+- ռոմանդիգ դարաշրջանի երաժշտութիուն
+- ռոմանտիզմի դարաշրջանի երաժշտություն
+- המוזיקה הקלאסית בתקופה הרומנטית
+- موسيقى رومانسية
+- موسیقی رمانتیک
+- مۆسیقای ڕۆمانتیک
+- रोमांटिक संगीत
+- ดนตรีสมัยโรแมนติก
+- ロマン派音楽
+- 浪漫主义音乐
+- 浪漫主義音樂
+- 낭만주의 음악
 has_id_wikidata: Q207591
 start_time: 1800-01-01T00:00:00Z
 end_time: 1900-01-01T00:00:00Z
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-followed_by: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
-different_from: "[[_Standards/WikiData/WD~neoromantic_music,105697818]]"
-subclass_of: "[[_Standards/WikiData/WD~classical_music,9730]]"
-follows: "[[_Standards/WikiData/WD~Classical_period,17723]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+followed_by: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+different_from: '[[_Standards/WikiData/WD~neoromantic_music,105697818]]'
+subclass_of: '[[_Standards/WikiData/WD~classical_music,9730]]'
+follows: '[[_Standards/WikiData/WD~Classical_period,17723]]'
 Europeana_entity: agent/base/146915
+dv_has_:
+  name_:
+    ar: موسيقى رومانسية
+    ast: Música del Romanticismu
+    be: музыка перыяду рамантызму
+    be-tarask: музыка рамантызму
+    bg: Музика на романтизма
+    ca: romanticisme musical
+    ckb: مۆسیقای ڕۆمانتیک
+    cs: hudební romantismus
+    cy: cerddoriaeth ramantus
+    da: romantikkens musik
+    de: Musik der Romantik
+    el: ρομαντική μουσική
+    en: Romantic music
+    eo: romantikisma muziko
+    es: música del Romanticismo
+    et: romantism
+    eu: erromantizismo
+    fa: موسیقی رمانتیک
+    fi: Romantiikan musiikki
+    fr: musique romantique
+    ga: ceol Rómánsúil
+    gd: ceòl romansach
+    gl: romanticismo musical
+    gsw: Muusig vo dr Romantik
+    gv: kiaull romansagh
+    he: המוזיקה הקלאסית בתקופה הרומנטית
+    hi: रोमांटिक संगीत
+    hu: romantikus zene
+    hy: ռոմանտիզմի դարաշրջանի երաժշտություն
+    hyw: ռոմանդիգ դարաշրջանի երաժշտութիուն
+    ia: musica romantic
+    id: musik romantik
+    it: musica romantica
+    ja: ロマン派音楽
+    kk: Романтизм
+    ko: 낭만주의 음악
+    lt: Romantizmo muzika
+    lv: romantisma mūzika
+    mk: Романтистичка музика
+    ms: Muzik era romantis
+    mt: mużika romantika
+    nb: romantisk musikk
+    nl: romantiek
+    nn: romantisk musikk
+    pl: muzyka romantyczna
+    pt: era romântica
+    ro: Romantism muzical
+    ru: музыка эпохи романтизма
+    scn: Mùsica rumàntica
+    sco: romantic muisic
+    sh: Romantizam
+    sk: Romantizmus
+    sl: romantična glasba
+    sr: романтична музика
+    sv: romantikens musik
+    tg: мусиқии романтик
+    th: ดนตรีสมัยโรแมนติก
+    tr: Romantik müzik
+    uk: музика епохи романтизму
+    vi: âm nhạc lãng mạn
+    yue: 浪漫主義音樂
+    zh: 浪漫主義音樂
+    zh-cn: 浪漫主义音乐
+    zh-hans: 浪漫主义音乐
+    zh-hant: 浪漫主義音樂
+    zh-hk: 浪漫主義音樂
+    zh-sg: 浪漫主义音乐
+    zh-tw: 浪漫主義音樂
 ---
-
 # [[1800-Romantic_Music+1900]] 
 
 #is_/same_as :: [[WD~Romantic_music,207591]] 

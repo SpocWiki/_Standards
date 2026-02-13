@@ -1,18 +1,63 @@
 ---
 aliases:
-  - Fließmörtel
-  - Fugenmörtel
-  - Grout
+- beurada
+- Boiaca
+- Boiacca
+- coulis
+- Fließmörtel
+- Fogning
+- Fuga
+- fuge
+- Fugenmörtel
+- Grout
+- habarcs
+- lechada
+- Nat (bangunan)
+- Rejunte
+- Saumauslaasti
+- Фуга
+- Կարան
+- כוחלה
+- حقين
+- گروت
+- グラウト
+- 灌浆
+- 그라우트
 has_id_wikidata: Q4580104
 subclass_of:
-  - "[[_Standards/WikiData/WD~slurry,23925154]]"
-  - "[[_Standards/WikiData/WD~concrete,22657]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-Nomenclature_for_Museum_Cataloging: "66"
+- '[[_Standards/WikiData/WD~slurry,23925154]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+Nomenclature_for_Museum_Cataloging: 66
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Applying%20grout.jpg
 Commons_category: Grouting
+dv_has_:
+  name_:
+    ar: حقين
+    bg: Фуга
+    ca: beurada
+    de: Fließmörtel
+    en: grout
+    es: lechada
+    fa: گروت
+    fi: Saumauslaasti
+    fr: coulis
+    he: כוחלה
+    hu: habarcs
+    hy: Կարան
+    id: Nat (bangunan)
+    it: Boiacca
+    ja: グラウト
+    ko: 그라우트
+    nb: fuge
+    nl: grout
+    nn: fuge
+    pl: Fuga
+    pt: Rejunte
+    sv: Fogning
+    vec: Boiaca
+    zh: 灌浆
 ---
-
 # [[Grout]] 
 
 #is_/same_as :: [[wd Grout]]

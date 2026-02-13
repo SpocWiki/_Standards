@@ -1,58 +1,83 @@
 ---
 aliases:
-  - Harold_Lloyd
-  - Harold Clayton Lloyd Sr.
-  - Harold Lloyd
-  - Lloyd
-  - Lloyd,Harold
+- Harold Clayton Lloyd
+- Harold Clayton Lloyd Sr.
+- Harold Lloyd
+- Haroldus Lloyd
+- Harold_Lloyd
+- Herolds Loids
+- Lloyd
+- Lloyd,Harold
+- Χάρολντ Λόιντ
+- Гаральд Лойд
+- Гарольд Ллойд
+- Харолд Лојд
+- Харолд Лойд
+- הרולד לויד
+- هارولد لويد
+- هارولد لوید
+- ھارولڊ لايڊ
+- हेरोल्ड लॉयड
+- ਹੈਰਲਡ ਲੌਇਡ
+- ହେରୋଳ୍ଡ ଲାୟଡ଼
+- ஹரோல்ட் லாயிட்
+- హెరాల్డ్ లాయిడ్
+- ഹരോൾഡ് ലോയിഡ്
+- ჰაროლდ ლოიდი
+- ハロルド・ロイド
+- 哈洛·羅依德
+- 哈罗德·劳埃德
+- 夏勞哀
+- 神经六
+- 해럴드 로이드
 has_id_wikidata: Q104340
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~comedy_film,157443]]'
-  - '[[_Standards/WikiData/WD~Western_film,172980]]'
-  - '[[_Standards/WikiData/WD~action_film,188473]]'
-  - '[[_Standards/WikiData/WD~silent_film,226730]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~independent_film,459290]]'
-  - '[[_Standards/WikiData/WD~romance_film,1054574]]'
-  - '[[_Standards/WikiData/WD~sport_film,1339864]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~comedy_film,157443]]'
+- '[[_Standards/WikiData/WD~Western_film,172980]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~silent_film,226730]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~independent_film,459290]]'
+- '[[_Standards/WikiData/WD~romance_film,1054574]]'
+- '[[_Standards/WikiData/WD~sport_film,1339864]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
 cause_of_death: '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 spouse: '[[_Standards/WikiData/WD~Mildred_Davis,452630]]'
 place_of_birth: '[[_Standards/WikiData/WD~Burchard,649943]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 family_name: '[[_Standards/WikiData/WD~Lloyd,1287630]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~San_Diego_High_School,2894818]]'
-  - '[[_Standards/WikiData/WD~East_High_School,5328588]]'
+- '[[_Standards/WikiData/WD~San_Diego_High_School,2894818]]'
+- '[[_Standards/WikiData/WD~East_High_School,5328588]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 filmography: '[[_Standards/WikiData/WD~Harold_Lloyd_filmography,3745461]]'
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 child:
-  - '[[_Standards/WikiData/WD~Harold_Lloyd_Jr.,5661534]]'
-  - '[[_Standards/WikiData/WD~Gloria_Lloyd,28934329]]'
+- '[[_Standards/WikiData/WD~Harold_Lloyd_Jr.,5661534]]'
+- '[[_Standards/WikiData/WD~Gloria_Lloyd,28934329]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Harold,14647205]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sibling: '[[_Standards/WikiData/WD~Gaylord_Fraser_Lloyd,24259559]]'
 floruit: 1900-01-01T00:00:00Z
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
@@ -78,8 +103,98 @@ Europeana_entity: agent/base/61640
 birth_name: Harold Clayton Lloyd
 work_period_end_: 1963-01-01T00:00:00Z
 work_period_start_: 1913-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Harold Lloyd
+    an: Harold Lloyd
+    ar: هارولد لويد
+    arz: هارولد لويد
+    ast: Harold Lloyd
+    azb: هارولد لوید
+    ba: Гарольд Ллойд
+    be: Гаральд Лойд
+    be-tarask: Гаральд Лойд
+    bg: Харолд Лойд
+    bi: Harold Lloyd
+    ca: Harold Lloyd
+    cs: Harold Lloyd
+    cy: Harold Lloyd
+    da: Harold Lloyd
+    de: Harold Lloyd
+    de-ch: Harold Lloyd
+    el: Χάρολντ Λόιντ
+    en: Harold Lloyd
+    en-ca: Harold Lloyd
+    en-gb: Harold Lloyd
+    eo: Harold Clayton Lloyd
+    es: Harold Lloyd
+    et: Harold Lloyd
+    eu: Harold Lloyd
+    fa: هارولد لوید
+    fi: Harold Lloyd
+    fr: Harold Lloyd
+    ga: Harold Lloyd
+    gl: Harold Lloyd
+    gpe: Harold Lloyd
+    ha: Harold Lloyd
+    he: הרולד לויד
+    hi: हेरोल्ड लॉयड
+    hif: Harold Lloyd
+    hu: Harold Lloyd
+    id: Harold Lloyd
+    ig: Harold Lloyd
+    ilo: Harold Lloyd
+    io: Harold Clayton Lloyd
+    it: Harold Lloyd
+    ja: ハロルド・ロイド
+    ka: ჰაროლდ ლოიდი
+    ko: 해럴드 로이드
+    la: Haroldus Lloyd
+    lb: Harold Lloyd
+    lv: Herolds Loids
+    mg: Harold Lloyd
+    ml: ഹരോൾഡ് ലോയിഡ്
+    ms: Harold Lloyd
+    mul: Harold Lloyd
+    nan: Harold Lloyd
+    nb: Harold Lloyd
+    nl: Harold Lloyd
+    nn: Harold Lloyd
+    oc: Harold Clayton Lloyd
+    or: ହେରୋଳ୍ଡ ଲାୟଡ଼
+    pa: ਹੈਰਲਡ ਲੌਇਡ
+    pap: Harold Lloyd
+    pl: Harold Lloyd
+    pt: Harold Lloyd
+    pt-br: Harold Lloyd
+    ro: Harold Lloyd
+    ru: Гарольд Ллойд
+    sd: ھارولڊ لايڊ
+    sh: Harold Lloyd
+    sk: Harold Lloyd
+    sl: Harold Lloyd
+    sq: Harold Lloyd
+    sr: Харолд Лојд
+    sv: Harold Lloyd
+    sw: Harold Lloyd
+    ta: ஹரோல்ட் லாயிட்
+    te: హెరాల్డ్ లాయిడ్
+    tr: Harold Lloyd
+    uk: Гарольд Ллойд
+    uz: Harold Lloyd
+    vi: Harold Lloyd
+    war: Harold Lloyd
+    wuu: 哈罗德·劳埃德
+    yo: Harold Lloyd
+    yue: 夏勞哀
+    zh: 哈洛·羅依德
+    zh-cn: 哈罗德·劳埃德
+    zh-hant: 哈洛·羅依德
+    zh-hk: 夏勞哀
+    zh-my: 神经六
+    zh-sg: 神经六
+    zh-tw: 哈洛·羅依德
 ---
-
 # [[Lloyd,Harold]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Harold_Lloyd,104340|WD~Harold_Lloyd,104340]] 

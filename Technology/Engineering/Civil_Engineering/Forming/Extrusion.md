@@ -1,18 +1,98 @@
 ---
 aliases:
+- ekstrudering
+- Ekstrusi
+- Ekstruusio
+- ekstruzija
+- Ekstrūzija
+- estrusio
+- estrusione
+- estrusión
+- Extrudare
+- Extrudering
+- extrusie
+- extrusion
+- extrusió
+- extrusión
+- extrusão
+- extruze
+- Extrúzia
+- Isprešavanje
+- kisajtolás
+- Plastik Ekstruderi
+- Wyciskanie
+- Екструдиране
+- Екструзія
+- экструзія
+- Экструзия
+- אקסטרוזיה
+- اکستروژن
+- بثق
+- ویشتنه
+- 压出机
+- 押出成形
+- 挤出机
+- 擠出機
+- 擠型
+- 擠製
+- 압출성형
 has_id_wikidata: Q139143
-instance_of: "[[_Standards/WikiData/WD~manufacturing_process,1408288]]"
+instance_of: '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
 uses:
-  - "[[_Standards/WikiData/WD~die,2609080]]"
-  - "[[_Standards/WikiData/WD~compression,2712821]]"
+- '[[_Standards/WikiData/WD~die,2609080]]'
+- '[[_Standards/WikiData/WD~compression,2712821]]'
 different_from:
-  - "[[_Standards/WikiData/WD~drawing,2997961]]"
-  - "[[_Standards/WikiData/WD~extrusion,99904327]]"
-subclass_of: "[[_Standards/WikiData/WD~forming,5470205]]"
+- '[[_Standards/WikiData/WD~drawing,2997961]]'
+- '[[_Standards/WikiData/WD~extrusion,99904327]]'
+subclass_of: '[[_Standards/WikiData/WD~forming,5470205]]'
 Commons_gallery: Extrusion
 Commons_category: Extrusion
+dv_has_:
+  name_:
+    ar: بثق
+    ast: estrusión
+    bar: Extrusion
+    be-tarask: экструзія
+    bg: Екструдиране
+    ca: extrusió
+    cs: extruze
+    de: Extrusion
+    en: extrusion
+    es: extrusión
+    eu: estrusio
+    fa: اکستروژن
+    fi: Ekstruusio
+    fr: extrusion
+    he: אקסטרוזיה
+    hr: Isprešavanje
+    hu: kisajtolás
+    id: Ekstrusi
+    it: estrusione
+    ja: 押出成形
+    ko: 압출성형
+    lv: Ekstrūzija
+    nb: ekstrudering
+    nl: extrusie
+    oc: Extrusion
+    pl: Wyciskanie
+    ps: ویشتنه
+    pt: extrusão
+    ro: Extrudare
+    ru: Экструзия
+    sh: Isprešavanje
+    sk: Extrúzia
+    sl: ekstruzija
+    sr: Ekstruzija
+    sv: Extrudering
+    tr: Plastik Ekstruderi
+    uk: Екструзія
+    yue: 擠型
+    zh: 擠製
+    zh-cn: 挤出机
+    zh-hans: 压出机
+    zh-hant: 擠出機
+    zh-tw: 擠型
 ---
-
 # [[Extrusion]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Extrusion,139143|WD~Extrusion,139143]] 

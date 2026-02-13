@@ -1,12 +1,15 @@
 ---
 aliases:
-- Firmicutes
 - Bacillota
-title: Firmicutes
+- Firmicutes
+- عصويات
+- 厚壁菌門
+- 芽孢杆菌门
+title: 
 confidential: public
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -20,9 +23,50 @@ license: (c)copyrighted
 publish: false
 publishDate: 
 tags:
-  - excalidraw
-title:
+- excalidraw
 has_id_wikidata: Q25519942
+dv_has_:
+  name_:
+    an: Bacillota
+    ar: عصويات
+    ast: Bacillota
+    bg: Bacillota
+    ca: Bacillota
+    ceb: Bacillota
+    de: Bacillota
+    en: Bacillota
+    eo: Bacillota
+    es: Bacillota
+    eu: Bacillota
+    ext: Bacillota
+    fi: Bacillota
+    fr: Bacillota
+    ga: Bacillota
+    gl: Bacillota
+    hu: Bacillota
+    ia: Bacillota
+    ie: Bacillota
+    io: Bacillota
+    it: Bacillota
+    la: Bacillota
+    mul: Bacillota
+    nl: Bacillota
+    oc: Bacillota
+    pl: Bacillota
+    pt: Bacillota
+    pt-br: Bacillota
+    ro: Bacillota
+    ru: Bacillota
+    sl: Bacillota
+    sq: Bacillota
+    uk: Bacillota
+    vi: Bacillota
+    vo: Bacillota
+    war: Bacillota
+    zh: 芽孢杆菌门
+    zh-cn: 芽孢杆菌门
+    zh-hans: 芽孢杆菌门
+    zh-tw: 厚壁菌門
 ---
 # [[Bacillota]] 
 

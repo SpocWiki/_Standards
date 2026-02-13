@@ -1,26 +1,56 @@
 ---
 aliases:
-  - Orson Welles
-  - Orson_Welles
-  - Welles
-  - Welles,Orson
+- Orson Uells
+- Orson Welles
+- Orsons Velss
+- Orson_Welles
+- Welles
+- Welles,Orson
+- Όρσον Γουέλς
+- Орсан Ўэлз
+- Орсан Уэлс
+- Орсон Веллс
+- Орсон Велс
+- Орсон Уелс
+- Орсон Уэллс
+- Орсън Уелс
+- Օրսոն Ուելս
+- אורסון ולס
+- أورسن ويلز
+- ئۆرسێن وێڵز
+- اورسن ولز
+- اورسن ويلز
+- اورسن ویلز
+- ऑर्सन वेल्स
+- অরসন ওয়েলস
+- ਓਰਸਨ ਵੇਲਜ਼
+- ഓർസൺ വെൽസ്
+- ออร์สัน เวลส์
+- ორსონ უელსი
+- オーソン・ウェルズ
+- 奥森·威尔斯
+- 奥森·韦尔斯
+- 奥逊·威尔斯
+- 奧森·威爾斯
+- 奧遜威爾斯
+- 오슨 웰스
 has_id_wikidata: Q24829
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Paris_VII,126416222]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Paris_VII,126416222]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 BHCL_UUID: f7c26360-69db-40e7-9bb8-c687dd924af9
 birth_name: George Orson Welles
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 child:
-  - '[[_Standards/WikiData/WD~Beatrice_Welles,22957855]]'
-  - '[[_Standards/WikiData/WD~Rebecca_Welles,75331359]]'
-  - '[[_Standards/WikiData/WD~Chris_Welles_Feder,131689430]]'
+- '[[_Standards/WikiData/WD~Beatrice_Welles,22957855]]'
+- '[[_Standards/WikiData/WD~Rebecca_Welles,75331359]]'
+- '[[_Standards/WikiData/WD~Chris_Welles_Feder,131689430]]'
 Commons_category: Orson Welles
 Commons_Creator_page: Orson Welles
 Commons_gallery: Orson Welles
@@ -29,31 +59,31 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 date_of_birth: 1915-05-06T00:00:00Z
 date_of_death: 1985-10-10T00:00:00Z
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 discography: '[[_Standards/WikiData/WD~Orson_Welles_discography,7104181]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~School_of_the_Art_Institute_of_Chicago,7432601]]'
-  - '[[_Standards/WikiData/WD~Todd_Seminary_for_Boys,7812623]]'
+- '[[_Standards/WikiData/WD~School_of_the_Art_Institute_of_Chicago,7432601]]'
+- '[[_Standards/WikiData/WD~Todd_Seminary_for_Boys,7812623]]'
 family_name: '[[_Standards/WikiData/WD~Welles,17142656]]'
 father: '[[_Standards/WikiData/WD~Richard_Head_Welles,96202443]]'
 filmography: '[[_Standards/WikiData/WD~Orson_Welles_filmography,1058484]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~film_noir,185867]]'
-  - '[[_Standards/WikiData/WD~action_film,188473]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
-  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
 given_name:
-  - '[[_Standards/WikiData/WD~George,15921732]]'
-  - '[[_Standards/WikiData/WD~Orson,16585237]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Orson,16585237]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 height: 183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orson%20Welles%201937%20cr3-4.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -62,62 +92,163 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/UELLS_ORSON.html
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: rp369f291x8g7p8
 list_of_works:
-  - '[[_Standards/WikiData/WD~Orson_Welles_radiography,7104182]]'
-  - '[[_Standards/WikiData/WD~bibliography_of_Orson_Welles,7104180]]'
-  - '[[_Standards/WikiData/WD~Orson_Welles_theatre_credits,18358299]]'
+- '[[_Standards/WikiData/WD~Orson_Welles_radiography,7104182]]'
+- '[[_Standards/WikiData/WD~bibliography_of_Orson_Welles,7104180]]'
+- '[[_Standards/WikiData/WD~Orson_Welles_theatre_credits,18358299]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 member_of: '[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]'
 mother: '[[_Standards/WikiData/WD~Beatrice_Ives_Welles,96202463]]'
 name_in_native_language: Orson Welles
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor,641316]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor,641316]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~theatrical_producer,1759246]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~stage_magician,15855449]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~theatrical_producer,1759246]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~stage_magician,15855449]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 P8189: 987007310839805200
 place_of_burial: '[[_Standards/WikiData/WD~Ronda,13153]]'
 place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 Plex_person_key: 5d776828999c64001ec2ccb6
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
-  - '[[_Standards/WikiData/WD~atheism,7066]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~atheism,7066]]'
 represented_by: '[[_Standards/WikiData/WD~Light_Cone,28495285]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Orson%20Welles%20signature.svg
 spouse:
-  - '[[_Standards/WikiData/WD~Paola_Mori,3459755]]'
-  - '[[_Standards/WikiData/WD~Virginia_Nicolson,26101945]]'
-  - '[[_Standards/WikiData/WD~Rita_Hayworth,42745]]'
+- '[[_Standards/WikiData/WD~Paola_Mori,3459755]]'
+- '[[_Standards/WikiData/WD~Virginia_Nicolson,26101945]]'
+- '[[_Standards/WikiData/WD~Rita_Hayworth,42745]]'
 student_of: '[[_Standards/WikiData/WD~Boris_Anisfeld,1961456]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Orson_Welles,6630145]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Dolores_del_Rio,124057]]'
-  - '[[_Standards/WikiData/WD~Oja_Kodar,537212]]'
+- '[[_Standards/WikiData/WD~Dolores_del_Rio,124057]]'
+- '[[_Standards/WikiData/WD~Oja_Kodar,537212]]'
 U_S_National_Archives_Identifier: 10580779
 work_period_end_: 1985-01-01T00:00:00Z
 work_period_start_: 1934-01-01T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: Orson Welles
+    an: Orson Welles
+    ar: أورسن ويلز
+    arz: اورسن ويلز
+    ast: Orson Welles
+    az: Orson Uells
+    azb: اورسن ولز
+    be: Орсан Уэлс
+    be-tarask: Орсан Ўэлз
+    bg: Орсън Уелс
+    bho: ऑर्सन वेल्स
+    bn: অরসন ওয়েলস
+    br: Orson Welles
+    bs: Orson Welles
+    ca: Orson Welles
+    ckb: ئۆرسێن وێڵز
+    cs: Orson Welles
+    cy: Orson Welles
+    da: Orson Welles
+    de: Orson Welles
+    de-ch: Orson Welles
+    diq: Orson Welles
+    el: Όρσον Γουέλς
+    en: Orson Welles
+    en-ca: Orson Welles
+    en-gb: Orson Welles
+    eo: Orson Welles
+    es: Orson Welles
+    et: Orson Welles
+    eu: Orson Welles
+    fa: اورسن ولز
+    fi: Orson Welles
+    fr: Orson Welles
+    ga: Orson Welles
+    gl: Orson Welles
+    he: אורסון ולס
+    hi: ऑर्सन वेल्स
+    hr: Orson Welles
+    ht: Orson Welles
+    hu: Orson Welles
+    hy: Օրսոն Ուելս
+    id: Orson Welles
+    ig: Orson Welles
+    io: Orson Welles
+    is: Orson Welles
+    it: Orson Welles
+    ja: オーソン・ウェルズ
+    ka: ორსონ უელსი
+    kbp: Orson Welles
+    kk: Орсон Уэллс
+    ko: 오슨 웰스
+    la: Orson Welles
+    lb: Orson Welles
+    lt: Orson Welles
+    lv: Orsons Velss
+    mg: Orson Welles
+    mk: Орсон Велс
+    ml: ഓർസൺ വെൽസ്
+    ms: Orson Welles
+    mul: Orson Welles
+    nb: Orson Welles
+    nl: Orson Welles
+    nn: Orson Welles
+    oc: Orson Welles
+    pa: ਓਰਸਨ ਵੇਲਜ਼
+    pap: Orson Welles
+    pl: Orson Welles
+    pt: Orson Welles
+    pt-br: Orson Welles
+    qu: Orson Welles
+    ro: Orson Welles
+    ru: Орсон Уэллс
+    scn: Orson Welles
+    sco: Orson Welles
+    sh: Orson Welles
+    sk: Orson Welles
+    sl: Orson Welles
+    sq: Orson Welles
+    sr: Орсон Велс
+    sv: Orson Welles
+    sw: Orson Welles
+    tg: Орсон Уелс
+    th: ออร์สัน เวลส์
+    tr: Orson Welles
+    uk: Орсон Веллс
+    ur: اورسن ویلز
+    vi: Orson Welles
+    vo: Orson Welles
+    war: Orson Welles
+    wuu: 奥森·威尔斯
+    yo: Orson Welles
+    yue: 奧遜威爾斯
+    za: Orson Welles
+    zh: 奧森·威爾斯
+    zh-cn: 奥森·韦尔斯
+    zh-hans: 奥逊·威尔斯
+    zh-hant: 奧遜威爾斯
+    zh-my: 奥逊·威尔斯
+    zh-sg: 奥逊·威尔斯
+    zh-tw: 奧森·威爾斯
 ---
-
 # [[Welles,Orson]] 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

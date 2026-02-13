@@ -1,51 +1,74 @@
 ---
-has_time_started: 1875-01-01 
+has_time_started: 1875-01-01
 aliases:
-  - Carmen
+- Carmen
+- Carmen (opera)
+- Carmena
+- Karmen
+- Karmena
+- Karmeno
+- «Кармен» (опера)
+- Κάρμεν
+- Кармен
+- Кармен (аопера)
+- Кармен (Дуурь)
+- Кармэн
+- Կարմեն
+- כרמן
+- كارمن
+- کارمن
+- கார்மென்
+- കാർമെൻ
+- การ์เมน
+- კარმენი (ოპერა)
+- カルメン
+- 卡門
+- 卡门
+- 카르멘
 has_id_wikidata: Q185968
 different_from: '[[_Standards/WikiData/WD~Carmen,225401]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Carmen,429043]]'
-  - '[[_Standards/WikiData/WD~Carmen_Suite,1995373]]'
-  - '[[_Standards/WikiData/WD~Carmen_Fantasy,3066537]]'
-  - '[[_Standards/WikiData/WD~The_Car_Man,3520202]]'
-  - '[[_Standards/WikiData/WD~Carmen_Fantasie,5043464]]'
-  - '[[_Standards/WikiData/WD~Carmen_(2015),47089559]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1984),52195508]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1924),53796221]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1970_71),57449143]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1971_72),57449152]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1975_76),57449193]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1979_80),57449261]]'
-  - '[[_Standards/WikiData/WD~Carmen_(1981_82),57449306]]'
-  - '[[_Standards/WikiData/WD~Carmen,105038174]]'
+- '[[_Standards/WikiData/WD~Carmen,429043]]'
+- '[[_Standards/WikiData/WD~Carmen_Suite,1995373]]'
+- '[[_Standards/WikiData/WD~Carmen_Fantasy,3066537]]'
+- '[[_Standards/WikiData/WD~The_Car_Man,3520202]]'
+- '[[_Standards/WikiData/WD~Carmen_Fantasie,5043464]]'
+- '[[_Standards/WikiData/WD~Carmen_(2015),47089559]]'
+- '[[_Standards/WikiData/WD~Carmen_(1984),52195508]]'
+- '[[_Standards/WikiData/WD~Carmen_(1924),53796221]]'
+- '[[_Standards/WikiData/WD~Carmen_(1970_71),57449143]]'
+- '[[_Standards/WikiData/WD~Carmen_(1971_72),57449152]]'
+- '[[_Standards/WikiData/WD~Carmen_(1975_76),57449193]]'
+- '[[_Standards/WikiData/WD~Carmen_(1979_80),57449261]]'
+- '[[_Standards/WikiData/WD~Carmen_(1981_82),57449306]]'
+- '[[_Standards/WikiData/WD~Carmen,105038174]]'
 genre:
-  - '[[_Standards/WikiData/WD~French_opera,662073]]'
-  - '[[_Standards/WikiData/WD~opéra_comique,785479]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~French_opera,662073]]'
+- '[[_Standards/WikiData/WD~opéra_comique,785479]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
 based_on: '[[_Standards/WikiData/WD~Carmen,674832]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Habanera,692648]]'
-  - '[[_Standards/WikiData/WD~Toreador_Song,6150784]]'
+- '[[_Standards/WikiData/WD~Habanera,692648]]'
+- '[[_Standards/WikiData/WD~Toreador_Song,6150784]]'
 librettist:
-  - '[[_Standards/WikiData/WD~Ludovic_Halévy,723585]]'
-  - '[[_Standards/WikiData/WD~Henri_Meilhac,723648]]'
+- '[[_Standards/WikiData/WD~Ludovic_Halévy,723585]]'
+- '[[_Standards/WikiData/WD~Henri_Meilhac,723648]]'
 location_of_first_performance: '[[_Standards/WikiData/WD~Opéra_Comique,872222]]'
 discography: '[[_Standards/WikiData/WD~Carmen_discography,5043623]]'
 characters:
-  - '[[_Standards/WikiData/WD~Carmen,18123205]]'
-  - '[[_Standards/WikiData/WD~Don_José,24932876]]'
-  - '[[_Standards/WikiData/WD~Carmen,50386809]]'
-  - '[[_Standards/WikiData/WD~Escamillo,55000455]]'
-  - '[[_Standards/WikiData/WD~Le_Dancaïre,55000462]]'
-  - '[[_Standards/WikiData/WD~Le_Remendado,55000463]]'
-  - '[[_Standards/WikiData/WD~Moralès,55000468]]'
-  - '[[_Standards/WikiData/WD~Zuniga,55000472]]'
-  - '[[_Standards/WikiData/WD~Lillas_Pastia,55000484]]'
-  - '[[_Standards/WikiData/WD~Micaëla,55000496]]'
-  - '[[_Standards/WikiData/WD~Frasquita,55000500]]'
-  - '[[_Standards/WikiData/WD~Mercédès,55000505]]'
-  - '[[_Standards/WikiData/WD~A_guide,63487180]]'
+- '[[_Standards/WikiData/WD~Carmen,18123205]]'
+- '[[_Standards/WikiData/WD~Don_José,24932876]]'
+- '[[_Standards/WikiData/WD~Carmen,50386809]]'
+- '[[_Standards/WikiData/WD~Escamillo,55000455]]'
+- '[[_Standards/WikiData/WD~Le_Dancaïre,55000462]]'
+- '[[_Standards/WikiData/WD~Le_Remendado,55000463]]'
+- '[[_Standards/WikiData/WD~Moralès,55000468]]'
+- '[[_Standards/WikiData/WD~Zuniga,55000472]]'
+- '[[_Standards/WikiData/WD~Lillas_Pastia,55000484]]'
+- '[[_Standards/WikiData/WD~Micaëla,55000496]]'
+- '[[_Standards/WikiData/WD~Frasquita,55000500]]'
+- '[[_Standards/WikiData/WD~Mercédès,55000505]]'
+- '[[_Standards/WikiData/WD~A_guide,63487180]]'
 instance_of: '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
 date_of_first_performance: 1875-03-03T00:00:00Z
 inception: 1875-01-01T00:00:00Z
@@ -63,8 +86,89 @@ title: Jorge
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carmen%20-%20illustration%20by%20Luc%20for%20Journal%20Amusant%201911.jpg
 P8189: 987007576872505171
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersParis"]
+dv_has_:
+  name_:
+    ab: Кармен (аопера)
+    af: Carmen
+    ar: كارمن
+    arz: كارمن
+    az: Karmen
+    ba: Кармен
+    be: Кармэн
+    be-tarask: Кармэн
+    bg: Кармен
+    ca: Carmen
+    cs: Carmen
+    cy: Carmen
+    da: Carmen
+    de: Carmen
+    de-ch: Carmen
+    el: Κάρμεν
+    en: Carmen
+    en-ca: Carmen
+    en-gb: Carmen
+    eo: Karmeno
+    es: Carmen
+    et: Carmen
+    eu: Carmen
+    fa: کارمن
+    fi: Carmen
+    fr: Carmen
+    ga: Carmen
+    gl: Carmen
+    he: כרמן
+    hr: Carmen
+    hu: Carmen
+    hy: Կարմեն
+    id: Carmen (opera)
+    it: Carmen
+    ja: カルメン
+    ka: კარმენი (ოპერა)
+    kab: Karmen
+    ko: 카르멘
+    ku: Carmen
+    la: Carmen (opera)
+    lv: Karmena
+    mk: Кармен
+    ml: കാർമെൻ
+    mn: Кармен (Дуурь)
+    ms: Carmen
+    nb: Carmen
+    nl: Carmen
+    nn: Carmen
+    pl: Carmen
+    pt: Carmen
+    pt-br: Carmen
+    qu: Carmen
+    ro: Carmena
+    ru: Кармен
+    sh: Carmen
+    sk: Carmen
+    sl: Carmen
+    sq: Carmen
+    sr: Кармен
+    sr-ec: Кармен
+    sr-el: Karmen
+    sv: Carmen
+    ta: கார்மென்
+    tg: «Кармен» (опера)
+    th: การ์เมน
+    tr: Carmen
+    tt: Carmen
+    uk: Кармен
+    uz: Carmen
+    vi: Carmen
+    war: Carmen (opera)
+    wuu: 卡门
+    yue: 卡門
+    zh: 卡门
+    zh-cn: 卡门
+    zh-hans: 卡门
+    zh-hant: 卡門
+    zh-hk: 卡門
+    zh-sg: 卡门
+    zh-tw: 卡門
 ---
-
 # [[Carmen]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Carmen,185968|WD~Carmen,185968]] 

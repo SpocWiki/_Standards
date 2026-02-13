@@ -1,8 +1,165 @@
 ---
 has_id_wikidata: Q133900
+dv_has_:
+  name_:
+    am: የብርሃን መወላገድ
+    ar: حيود
+    ast: difraición
+    az: Difraksiya
+    be: Дыфракцыя
+    be-tarask: дыфракцыя
+    bg: Дифракция
+    bn: অপবর্তন
+    ca: difracció
+    ckb: لادانی شەپۆل
+    cs: Difrakce
+    cv: Дифракци
+    cy: Diffreithiant
+    da: Diffraktion
+    de: Beugung
+    el: Περίθλαση
+    en: diffraction
+    eo: difrakto
+    es: difracción
+    et: difraktsioon
+    eu: Difrakzio (fisika)
+    fa: پراش
+    fi: diffraktio
+    fr: diffraction
+    ga: díraonadh
+    gl: Difracción
+    gu: વિવર્તન
+    he: עקיפה
+    hi: विवर्तन
+    hr: Ogib
+    ht: Difraksyon
+    hu: diffrakció
+    hy: Ալիքների դիֆրակցիա
+    id: Difraksi
+    it: diffrazione
+    ja: 回折
+    kk: Дифракция
+    kk-arab: دىيفراكتسىييا
+    kk-cn: دىيفراكتسىييا
+    kk-cyrl: Дифракция
+    kk-kz: Дифракция
+    kk-latn: Dïfrakcïya
+    kk-tr: Dïfrakcïya
+    ko: 회절
+    ky: Дифракция
+    lmo: Diffrazion
+    lt: Difrakcija
+    lv: Difrakcija
+    mk: скршнување
+    ml: വിഭംഗനം
+    mn: Дифракц
+    mr: विवर्तन
+    ms: Belauan
+    nb: diffraksjon
+    nl: diffractie
+    nn: diffraksjon
+    pa: ਵਿਵਰਤਨ
+    pl: dyfrakcja
+    pms: Difrassion
+    pt: difração
+    ro: Difracție
+    ru: дифракция
+    scn: Diffrazzioni
+    sh: Difrakcija
+    si: විවර්තනය
+    sk: Difrakcia
+    sl: uklon
+    sn: Bvurunuro
+    sq: Difraksioni i Drites
+    sr: дифракција
+    sr-ec: Дифракција
+    sr-el: Difrakcija
+    su: Difraksi
+    sv: diffraktion
+    ta: விளிம்பு விளைவு
+    te: వివర్తనం
+    th: การเลี้ยวเบน
+    tr: Kırınım
+    uk: дифракція
+    ur: انکسار
+    uz: Difraksiya
+    vi: nhiễu xạ
+    wuu: 衍射
+    yue: 繞射
+    zh: 衍射
+    zh-cn: 衍射
+    zh-hans: 衍射
+    zh-hant: 衍射
+    zh-hk: 繞射
+    zh-sg: 衍射
+    zh-tw: 繞射
+aliases:
+- Belauan
+- Beugung
+- Bvurunuro
+- diffractie
+- diffraction
+- diffrakció
+- diffraksjon
+- diffraktio
+- Diffraktion
+- Diffrazion
+- diffrazione
+- Diffrazzioni
+- Diffreithiant
+- difracció
+- difracción
+- Difracție
+- difraición
+- Difrakce
+- Difrakcia
+- Difrakcija
+- Difraksi
+- Difraksioni i Drites
+- Difraksiya
+- Difraksyon
+- difrakto
+- difraktsioon
+- Difrakzio (fisika)
+- Difrassion
+- difração
+- dyfrakcja
+- díraonadh
+- Dïfrakcïya
+- Kırınım
+- nhiễu xạ
+- Ogib
+- uklon
+- Περίθλαση
+- Дифракц
+- дифракція
+- Дифракци
+- дифракција
+- дифракция
+- Дыфракцыя
+- скршнување
+- Ալիքների դիֆրակցիա
+- עקיפה
+- انکسار
+- حيود
+- دىيفراكتسىييا
+- لادانی شەپۆل
+- پراش
+- विवर्तन
+- অপবর্তন
+- ਵਿਵਰਤਨ
+- વિવર્તન
+- விளிம்பு விளைவு
+- వివర్తనం
+- വിഭംഗനം
+- විවර්තනය
+- การเลี้ยวเบน
+- የብርሃን መወላገድ
+- 回折
+- 繞射
+- 衍射
+- 회절
 ---
-
-
 # [[Diffraction]] 
 
 #is_/same_as  :: [[../../../../WikiData/WD~Diffraction,133900|WD~Diffraction,133900]] 

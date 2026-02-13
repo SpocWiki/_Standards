@@ -1,29 +1,116 @@
 ---
 aliases:
+- Bombardino
+- bombardí
+- bombardín
+- Bummardinu
+- eofón
+- Eufonijum
+- eufonio
+- Eufonium
+- eufoonium
+- eufónium
+- eufônio
+- euphonium
+- evfonij
+- Ewffoniwm
+- Eŭfono
+- ευφώνιο
+- Баритон (сози нафасӣ)
+- ефоніум
+- эўфаніюм
+- эуфониум
+- אפוניון
+- إيوفونيوم
+- یوفونیوم
+- ยูโฟเนียม
+- ბარიტონი
+- ユーフォニューム
+- 上低音號
+- 粗管上低音号
+- 粗管上低音號
+- 유포니움
 has_id_wikidata: Q495529
-subclass_of: "[[_Standards/WikiData/WD~tuba,131168]]"
+subclass_of: '[[_Standards/WikiData/WD~tuba,131168]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-different_from: "[[_Standards/WikiData/WD~baritone_horn,790468]]"
-used_by: "[[_Standards/WikiData/WD~euphonium_player,32999759]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10684"
-OmegaWiki_Defined_Meaning: "1194695"
-Hornbostel_Sachs_classification: "423.232"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+different_from: '[[_Standards/WikiData/WD~baritone_horn,790468]]'
+used_by: '[[_Standards/WikiData/WD~euphonium_player,32999759]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10684
+OmegaWiki_Defined_Meaning: 1194695
+Hornbostel_Sachs_classification: 423.232
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Euphonium%20Boosey%20and%20hawkes.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wycliffe%20Gordon%20playing%20euphonium.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Yamaha%20Euphonium%20YEP-621.tif
-Amazon_com_browse_node: "11971731"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Euphonium%20Boosey%20and%20hawkes.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wycliffe%20Gordon%20playing%20euphonium.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Yamaha%20Euphonium%20YEP-621.tif
+Amazon_com_browse_node: 11971731
 name_in_kana: ユーフォニウム・ユーフォニューム
 Commons_category: Euphoniums
+dv_has_:
+  name_:
+    ar: إيوفونيوم
+    ast: bombardín
+    az: Eufonium
+    be-tarask: эўфаніюм
+    ca: bombardí
+    cs: eufonium
+    cy: Ewffoniwm
+    da: Euphonium
+    de: Euphonium
+    el: ευφώνιο
+    en: euphonium
+    eo: Eŭfono
+    es: eufonio
+    et: eufoonium
+    eu: Eufonio
+    fa: یوفونیوم
+    fi: eufonium
+    fr: euphonium
+    fy: Euphonium
+    ga: eofón
+    gd: Euphonium
+    gl: Bombardino
+    gsw: Euphonium
+    he: אפוניון
+    hu: eufónium
+    id: Eufonium
+    it: eufonio
+    ja: ユーフォニューム
+    ka: ბარიტონი
+    ko: 유포니움
+    la: Euphonium
+    lb: Euphonium
+    li: Euphonium
+    ms: Eufonium
+    nb: Eufonium
+    nl: eufonium
+    nn: Eufonium
+    pl: Eufonium
+    pt: eufônio
+    pt-br: Bombardino
+    ru: эуфониум
+    scn: Bummardinu
+    sl: evfonij
+    sr: Eufonijum
+    sv: eufonium
+    tg: Баритон (сози нафасӣ)
+    th: ยูโฟเนียม
+    uk: ефоніум
+    uz: Eufonium
+    yue: 上低音號
+    zh: 粗管上低音號
+    zh-cn: 粗管上低音号
+    zh-hans: 粗管上低音号
+    zh-hant: 粗管上低音號
+    zh-hk: 粗管上低音號
+    zh-tw: 粗管上低音號
 ---
-
 # [[Euphonium]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Euphonium,495529|WD~Euphonium,495529]] 

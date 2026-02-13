@@ -1,36 +1,63 @@
 ---
 aliases:
-  - Caine
-  - Michael Caine
-  - Maurice Joseph Micklewhite
-  - Michael_Caine
-  - Caine,Michael
+- Caine
+- Caine,Michael
+- Maiklas Keinas
+- Maikls Keins
+- Majkl Kejn
+- Maurice Joseph Micklewhite
+- Maykl Keyn
+- Michael Caine
+- Michael_Caine
+- Μάικλ Κέιν
+- Мајкл Кејн
+- Майкл Кейн
+- Майкъл Кейн
+- Մայքլ Քեյն
+- מייקל קיין
+- مائیکل کین
+- مايكل كين
+- مایکل کین
+- مایکڵ کەین
+- मायकल केन
+- मायकेल केन
+- মাইকেল কেইন
+- ਮਾਈਕਲ ਕੇਨ
+- மைக்கேல் கெயின்
+- ไมเคิล เคน
+- მაიკლ კეინი
+- マイケル・ケイン
+- 米高·肯恩
+- 米高堅
+- 迈克尔·凯恩
+- 麦克·凯恩
+- 마이클 케인
 has_id_wikidata: Q123351
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
-  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Miniseries_or_Television_Film,251542]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
-  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~European_Film_Academy_Honorary_Award,80482724]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Miniseries_or_Television_Film,251542]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Actor,932281]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Honorary_Award,80482724]]'
 military_branch: '[[_Standards/WikiData/WD~British_Army,222595]]'
 residence: '[[_Standards/WikiData/WD~Windsor,464955]]'
 noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Maurice,1472321]]'
-  - '[[_Standards/WikiData/WD~Michael,4927524]]'
+- '[[_Standards/WikiData/WD~Maurice,1472321]]'
+- '[[_Standards/WikiData/WD~Michael,4927524]]'
 place_of_birth: '[[_Standards/WikiData/WD~Rotherhithe,2886632]]'
 educated_at: '[[_Standards/WikiData/WD~Hackney_Downs_School,5637362]]'
 spouse: '[[_Standards/WikiData/WD~Shakira_Caine,6337248]]'
@@ -39,13 +66,13 @@ sibling: '[[_Standards/WikiData/WD~Stanley_Caine,7599509]]'
 occupation: '[[_Standards/WikiData/WD~film_actor,10800557]]'
 filmography: '[[_Standards/WikiData/WD~Michael_Caine_filmography,13648698]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Caine,16865293]]'
-  - '[[_Standards/WikiData/WD~Micklewhite,123570475]]'
+- '[[_Standards/WikiData/WD~Caine,16865293]]'
+- '[[_Standards/WikiData/WD~Micklewhite,123570475]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~International_Roma_Day_Edit_a_thon,117352722]]'
 child:
-  - '[[_Standards/WikiData/WD~Natasha_Caine,129571260]]'
-  - '[[_Standards/WikiData/WD~Dominique_Caine,129571270]]'
+- '[[_Standards/WikiData/WD~Natasha_Caine,129571260]]'
+- '[[_Standards/WikiData/WD~Dominique_Caine,129571270]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
@@ -58,8 +85,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Caine%20-%20
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Caine%20BBC%20Radio4%20Front%20Row%2029%20Sept%202010%20b00tyv8c.flac
 official_website: https://www.michaelcaine.com/
 ISNI:
-  - 0000000121336708
-  - 0000000368642117
+- 0000000121336708
+- 0000000368642117
 Libris_URI: 31fjn49m5frcn8n
 Plex_person_key: 5d776825880197001ec90390
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/KEN_MAKL.html
@@ -67,8 +94,130 @@ X_Twitter_username: themichaelcaine
 birth_name: Maurice Joseph Micklewhite
 date_of_birth: 1933-03-14T00:00:00Z
 work_period_end_: 2012-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ace: Michael Caine
+    af: Michael Caine
+    an: Michael Caine
+    ar: مايكل كين
+    arz: مايكل كين
+    as: মাইকেল কেইন
+    ast: Michael Caine
+    az: Maykl Keyn
+    azb: مایکل کین
+    ba: Майкл Кейн
+    bcl: Michael Caine
+    be: Майкл Кейн
+    be-tarask: Майкл Кейн
+    bg: Майкъл Кейн
+    bn: মাইকেল কেইন
+    br: Michael Caine
+    bs: Michael Caine
+    ca: Michael Caine
+    cbk-zam: Michael Caine
+    ckb: مایکڵ کەین
+    cs: Michael Caine
+    cy: Michael Caine
+    da: Michael Caine
+    de: Michael Caine
+    de-ch: Michael Caine
+    dsb: Michael Caine
+    el: Μάικλ Κέιν
+    eml: Michael Caine
+    en: Michael Caine
+    en-ca: Michael Caine
+    en-gb: Michael Caine
+    eo: Michael Caine
+    es: Michael Caine
+    et: Michael Caine
+    eu: Michael Caine
+    fa: مایکل کین
+    fi: Michael Caine
+    fo: Michael Caine
+    fr: Michael Caine
+    frp: Michael Caine
+    fy: Michael Caine
+    ga: Michael Caine
+    gl: Michael Caine
+    gv: Michael Caine
+    he: מייקל קיין
+    hi: मायकल केन
+    hif: Michael Caine
+    hr: Michael Caine
+    hu: Michael Caine
+    hy: Մայքլ Քեյն
+    id: Michael Caine
+    ig: Michael Caine
+    ilo: Michael Caine
+    io: Michael Caine
+    it: Michael Caine
+    ja: マイケル・ケイン
+    ka: მაიკლ კეინი
+    kk: Майкл Кейн
+    ko: 마이클 케인
+    kw: Michael Caine
+    ky: Майкл Кейн
+    la: Michael Caine
+    lb: Michael Caine
+    lt: Maiklas Keinas
+    lv: Maikls Keins
+    mg: Michael Caine
+    mk: Мајкл Кејн
+    mn: Майкл Кейн
+    mr: मायकेल केन
+    ms: Michael Caine
+    mul: Michael Caine
+    nan: Michael Caine
+    nb: Michael Caine
+    nl: Michael Caine
+    nn: Michael Caine
+    nov: Michael Caine
+    oc: Michael Caine
+    pa: ਮਾਈਕਲ ਕੇਨ
+    pag: Michael Caine
+    pl: Michael Caine
+    pms: Michael Caine
+    pnb: مائیکل کین
+    pt: Michael Caine
+    pt-br: Michael Caine
+    qu: Michael Caine
+    rmy: Michael Caine
+    ro: Michael Caine
+    ru: Майкл Кейн
+    sco: Michael Caine
+    sh: Michael Caine
+    sk: Michael Caine
+    sl: Michael Caine
+    sq: Michael Caine
+    sr: Мајкл Кејн
+    sr-ec: Мајкл Кејн
+    sr-el: Majkl Kejn
+    su: Michael Caine
+    sv: Michael Caine
+    ta: மைக்கேல் கெயின்
+    tg: Майкл Кейн
+    th: ไมเคิล เคน
+    tl: Michael Caine
+    tpi: Michael Caine
+    tr: Michael Caine
+    uk: Майкл Кейн
+    ur: مائیکل کین
+    uz: Michael Caine
+    vi: Michael Caine
+    vo: Michael Caine
+    war: Michael Caine
+    wuu: 迈克尔·凯恩
+    xmf: მაიკლ კეინი
+    yo: Michael Caine
+    yue: 米高堅
+    zh: 米高·肯恩
+    zh-cn: 迈克尔·凯恩
+    zh-hans: 迈克尔·凯恩
+    zh-hant: 米高·肯恩
+    zh-hk: 米高堅
+    zh-sg: 麦克·凯恩
+    zh-tw: 米高·肯恩
 ---
-
 # [[Caine,Michael]] 
 
 #has_/time_/started :: 1933-03-14 

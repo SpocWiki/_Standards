@@ -1,11 +1,202 @@
 ---
 aliases:
-  - taxonomic rank
-  - taxon rank
-  - nomenclatural rank
-  - Taxon_Rank
-  - Taxon Rank
+- adras amessarti
+- bậc phân loại
+- categoria tasonòmega
+- categoria tassonomica
+- categoria taxonòmica
+- categoria taxonómica
+- categoria taxonômica
+- categoría taxonomica
+- categoría taxonómica
+- kategori
+- kategoria systematyczna
+- kategoria taxonomikoa
+- nomenclatural rank
+- pangkat taksonomi
+- Pulas emeem
+- rang tacsanomaíoch
+- rang taxonomic
+- rang taxonomique
+- rango taxonomic
+- Rangstapfle
+- Rangstufn
+- rangu tassinomicu
+- rangu tassunomicu
+- rank taxinomicum
+- Renditja taksonomike
+- rendszertani kategória
+- reng taxonomic
+- renk taksonomek
+- reza taksonomiye
+- rheng tacson
+- taksono rangas
+- taksonomalaš kategoriija
+- taksonomia rango
+- taksonomian taso
+- taksonomiese rang
+- taksonomik dərəcə
+- taksonomik sıralama
+- taksonomiko a ranggo
+- taksonomisk kategori
+- taksonomisk nivå
+- taksonomiskais rangs
+- taksonomisâš luokka
+- taksonomska kategorija
+- taksonomska raven
+- taksonomski rang
+- taksonomyske rang
+- taksonoomiline kategooria
+- taksonoomisk kategorii
+- taksonoomlaž kategoria
+- taxon rank
+- taxonomiala kategorio
+- taxonomic rank
+- taxonomická kategorie
+- taxonomická úroveň
+- taxonomische rang
+- taxonomische Rangstufe
+- taxonomisk rang
+- Taxon_Rank
+- tingkat taksonomi
+- UQhiwu lobuNgqwangqwa
+- ταξινομική βαθμίδα
+- катеґорія
+- ранг
+- ранги таксономӣ
+- таксанамічная катэгорыя
+- таксономічна категорія
+- Таксономийн зэрэглэл
+- таксономик ранг
+- таксономион ранг
+- таксономический ранг
+- таксономиялық санат
+- таксономски ранг
+- таксономски чин
+- явшемтонань чалгамот
+- טאקסאנאמישער ראנג
+- רמה טקסונומית
+- تاکسونی طبقه
+- رٕژوٲنؠ شرٛنڈ
+- طبقه آرایهشناختی
+- مرتبة تصنيفية
+- مرتبه التصنيف
+- ڤڠکت تکسونومي
+- टैक्सोनॉमिक रैंक
+- वर्गिकीय कोटि
+- শ্রেণিবিন্যাসের ধাপ
+- பெயரீட்டுத் தரநிலை
+- වර්ගීකරණාත්මක අනුස්ථිතිය
+- ระดับอนุกรมวิธาน
+- ဇီဝမျိုးရိုးခွဲခြားခြင်း အဆင့်
+- 分类等级
+- 分类阶元
+- 分類等級
+- 分類階級
+- 분류 계급
 has_id_wikidata: Q427626
+dv_has_:
+  name_:
+    af: taksonomiese rang
+    an: categoría taxonomica
+    ar: مرتبة تصنيفية
+    arz: مرتبه التصنيف
+    ast: categoría taxonómica
+    avk: Pulas emeem
+    az: taksonomik dərəcə
+    bar: Rangstufn
+    be: ранг
+    be-tarask: таксанамічная катэгорыя
+    bho: टैक्सोनॉमिक रैंक
+    bn: শ্রেণিবিন্যাসের ধাপ
+    br: renk taksonomek
+    bs: taksonomski rang
+    ca: categoria taxonòmica
+    co: rangu tassinomicu
+    cs: taxonomická kategorie
+    cy: rheng tacson
+    da: taksonomisk kategori
+    de: taxonomische Rangstufe
+    diq: reza taksonomiye
+    el: ταξινομική βαθμίδα
+    en: taxonomic rank
+    en-gb: taxonomic rank
+    eo: taksonomia rango
+    es: categoría taxonómica
+    et: taksonoomiline kategooria
+    eu: kategoria taxonomikoa
+    fa: طبقه آرایهشناختی
+    fi: taksonomian taso
+    fr: rang taxonomique
+    frr: taksonoomisk kategorii
+    fy: taksonomyske rang
+    ga: rang tacsanomaíoch
+    gl: categoría taxonómica
+    gsw: Rangstapfle
+    he: רמה טקסונומית
+    hi: वर्गिकीय कोटि
+    hr: taksonomska kategorija
+    hu: rendszertani kategória
+    ia: rango taxonomic
+    id: tingkat taksonomi
+    ilo: taksonomiko a ranggo
+    io: taxonomiala kategorio
+    it: categoria tassonomica
+    ja: 分類階級
+    kab: adras amessarti
+    kk: таксономиялық санат
+    ko: 분류 계급
+    ks: رٕژوٲنؠ شرٛنڈ
+    la: rank taxinomicum
+    lt: taksono rangas
+    lv: taksonomiskais rangs
+    mk: таксономски чин
+    mn: Таксономийн зэрэглэл
+    ms: pangkat taksonomi
+    ms-arab: ڤڠکت تکسونومي
+    my: ဇီဝမျိုးရိုးခွဲခြားခြင်း အဆင့်
+    myv: явшемтонань чалгамот
+    mzn: تاکسونی طبقه
+    nb: kategori
+    nl: taxonomische rang
+    nn: taksonomisk nivå
+    oc: reng taxonomic
+    os: таксономион ранг
+    pl: kategoria systematyczna
+    pt: categoria taxonómica
+    pt-br: categoria taxonômica
+    rki: ဇီဝမျိုးရိုးခွဲခြားခြင်း အဆင့်
+    ro: rang taxonomic
+    ru: таксономический ранг
+    rue: катеґорія
+    scn: rangu tassunomicu
+    sco: taxonomic rank
+    se: taksonomalaš kategoriija
+    sh: taksonomski rang
+    si: වර්ගීකරණාත්මක අනුස්ථිතිය
+    sk: taxonomická úroveň
+    sl: taksonomska raven
+    smn: taksonomisâš luokka
+    sms: taksonoomlaž kategoria
+    sq: Renditja taksonomike
+    sr: таксономски ранг
+    sv: taxonomisk rang
+    ta: பெயரீட்டுத் தரநிலை
+    tg: ранги таксономӣ
+    th: ระดับอนุกรมวิธาน
+    tr: taksonomik sıralama
+    tt: таксономик ранг
+    tt-cyrl: таксономик ранг
+    uk: таксономічна категорія
+    vec: categoria tasonòmega
+    vi: bậc phân loại
+    yi: טאקסאנאמישער ראנג
+    zh: 分类等级
+    zh-cn: 分类阶元
+    zh-hans: 分类等级
+    zh-hant: 分類等級
+    zh-tw: 分類等級
+    zu: UQhiwu lobuNgqwangqwa
 ---
 # [[Taxon_Rank]] 
 

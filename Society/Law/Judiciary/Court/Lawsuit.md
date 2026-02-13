@@ -1,8 +1,114 @@
 ---
 has_id_wikidata: Q697327
+dv_has_:
+  name_:
+    ar: دعوى قضائية
+    az: İddia
+    be: іск
+    be-tarask: пазоў
+    bew: Kelah hukum
+    bg: Иск
+    bs: Parnica
+    ca: judici
+    ckb: سکاڵا
+    cs: žaloba
+    dag: Sama
+    de: Klage
+    diq: Dewa (hıquq)
+    el: Αγωγή
+    en: lawsuit
+    en-gb: lawsuit
+    es: demanda
+    et: Hagi
+    eu: Demanda (zuzenbidea)
+    fa: دعوی قضایی
+    fi: oikeusjuttu
+    fr: poursuite
+    ga: cúis dlí
+    gl: demanda
+    he: ליטיגציה
+    hi: मुकदमा
+    hr: Parnica
+    hu: per
+    hy: Հայց
+    id: Gugatan hukum
+    it: azione legale
+    ja: 民事訴訟
+    ka: სარჩელი
+    ko: 소송
+    lt: ieškinys
+    nb: søksmål
+    nl: aanklacht
+    pl: Pozew
+    pt: processo cautelar
+    ru: иск
+    sk: žaloba
+    sl: tožba
+    sq: Padia
+    sr: судски спор
+    sv: stämning
+    tl: Demanda (batas)
+    tr: dava
+    uk: позов
+    ur: دعویٰ
+    vi: vụ kiện
+    wuu: 民事诉讼
+    zgh: ⴰⵎⵚⵉⵕⵉⴹ
+    zh: 民事诉讼
+    zh-cn: 民事诉讼
+    zh-hans: 民事诉讼
+    zh-hant: 民事訴訟
+    zh-hk: 民事訴訟
+    zh-tw: 民事訴訟
+aliases:
+- aanklacht
+- azione legale
+- cúis dlí
+- dava
+- demanda
+- Demanda (batas)
+- Demanda (zuzenbidea)
+- Dewa (hıquq)
+- Gugatan hukum
+- Hagi
+- ieškinys
+- judici
+- Kelah hukum
+- Klage
+- lawsuit
+- oikeusjuttu
+- Padia
+- Parnica
+- per
+- poursuite
+- Pozew
+- processo cautelar
+- Sama
+- stämning
+- søksmål
+- tožba
+- vụ kiện
+- İddia
+- žaloba
+- Αγωγή
+- іск
+- иск
+- пазоў
+- позов
+- судски спор
+- Հայց
+- ליטיגציה
+- دعوى قضائية
+- دعوی قضایی
+- دعویٰ
+- سکاڵا
+- मुकदमा
+- სარჩელი
+- ⴰⵎⵚⵉⵕⵉⴹ
+- 民事訴訟
+- 民事诉讼
+- 소송
 ---
-
-
 # [[Lawsuit]] 
 
 #is_/same_as :: [[lawsuit,]]

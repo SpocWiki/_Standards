@@ -1,56 +1,90 @@
 ---
 dv_is_:
   same_as:
-    - "[[WD~One_World_Trade_Center,11245]]"
-    - "[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]"
-    - "[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]"
-    - "[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]"
-    - "[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]"
-    - "[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]"
-    - "[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]"
-    - "[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]"
+  - '[[WD~One_World_Trade_Center,11245]]'
+  - '[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]'
+  - '[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]'
+  - '[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]'
+  - '[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]'
+  - '[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]'
+  - '[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]'
+  - '[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]'
 dv_is_same_as:
-  - "[[WD~One_World_Trade_Center,11245]]"
-  - "[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]"
-  - "[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]"
-  - "[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]"
-  - "[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]"
-  - "[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]"
-  - "[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]"
-  - "[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]"
-
-has_time_started: 2014-11-03 
+- '[[WD~One_World_Trade_Center,11245]]'
+- '[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]'
+- '[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]'
+- '[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]'
+- '[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]'
+- '[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]'
+- '[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]'
+- '[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]'
+has_time_started: 2014-11-03
 aliases:
-  - One WTC
-  - Freedom Tower
-  - One World Trade Center
+- 1 World Trade Center
+- 1 உலக வர்த்தக மையம்
+- 1 വേൾഡ് ട്രേഡ് സെന്റർ
+- Dünya Ticarət Mərkəzi 1
+- Freedom Tower
+- One World Trade Center
+- One World Trade Centre
+- One WTC
+- Ozodlik minorasi
+- Trung tâm Thương mại 1 Thế giới
+- Özgürlük Kulesi
+- Παγκόσμιο Κέντρο Εμπορίου 1
+- Всемирный торговый центр 1
+- Всесвітній торговий центр 1
+- Световен търговски център 1
+- Светски трговински центар 1
+- Светски трговски центар 1
+- Сусветны гандлёвы цэнтр 1
+- Ազատության աշտարակ
+- מרכז הסחר העולמי החדש
+- فریڈم ٹاور
+- مركز التجارة العالمي 1
+- مركز التجاره العالمى 1
+- مرکز تجارت جهانی
+- ھڪڙو ورلڊ ٽريڊ سينٽر
+- वन वर्ल्ड ट्रेड सेंटर
+- १ वर्ल्ड ट्रेड सेंटर
+- १ वर्ल्ड ट्रेड सेन्टर
+- ওয়ান ওয়ার্ল্ড ট্রেড সেন্টার
+- ફ્રિડમ ટાવર
+- వన్ వరల్డ్ ట్రేడ్ సెంటర్
+- วันเวิลด์เทรดเซ็นเตอร์
+- ერთი მსოფლიო სავაჭრო ცენტრი
+- ᱢᱤᱫ ᱡᱮᱜᱮᱛ ᱵᱮᱯᱟᱨ ᱛᱟᱞᱢᱟ
+- ワン・ワールド・トレード・センター
+- 世界貿易中心一號大樓
+- 世界贸易中心一号大楼
+- 원 월드 트레이드 센터
 has_id_wikidata: Q11245
 architect:
-  - '[[_Standards/WikiData/WD~Daniel_Libeskind,154538]]'
-  - '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
-  - '[[_Standards/WikiData/WD~David_Childs,1173984]]'
+- '[[_Standards/WikiData/WD~Daniel_Libeskind,154538]]'
+- '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
+- '[[_Standards/WikiData/WD~David_Childs,1173984]]'
 has_use: '[[_Standards/WikiData/WD~office,182060]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-  - '[[_Standards/WikiData/WD~bulletproof_glass,1133376]]'
-  - '[[_Standards/WikiData/WD~aluminium,663]]'
-  - '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~bulletproof_glass,1133376]]'
+- '[[_Standards/WikiData/WD~aluminium,663]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
 structural_engineer:
-  - '[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302]]'
-  - '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
+- '[[_Standards/WikiData/WD~Schlaich_Bergermann_Partner,325302]]'
+- '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
 significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~office_building,1021645]]'
-  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~office_building,1021645]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303]]'
 occupant:
-  - '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
-  - '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
+- '[[_Standards/WikiData/WD~Condé_Nast,605401]]'
+- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
 located_on_street: '[[_Standards/WikiData/WD~Fulton_Street,685083]]'
 developer: '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
-  - '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
+- '[[_Standards/WikiData/WD~Port_Authority_of_New_York_and_New_Jersey,908666]]'
+- '[[_Standards/WikiData/WD~The_Durst_Organization,5316774]]'
 shape: '[[_Standards/WikiData/WD~antiprism,1048057]]'
 main_building_contractor: '[[_Standards/WikiData/WD~Tishman_Realty_&_Construction,1542905]]'
 different_from: '[[_Standards/WikiData/WD~1_World_Trade_Center,20445370]]'
@@ -74,16 +108,101 @@ P8189: 987007287908305171
 Commons_gallery: One World Trade Center
 Commons_category: One World Trade Center
 short_name:
-  - DTM 1
-  - 1 WTC
+- DTM 1
+- 1 WTC
 street_address:
-  - Fulton küçəsi, 285, Manhetten, Nyu-York şəhəri, ABŞ
-  - 285 Fulton Street, Manhattan, New York City, U.S.
+- Fulton küçəsi, 285, Manhetten, Nyu-York şəhəri, ABŞ
+- 285 Fulton Street, Manhattan, New York City, U.S.
 official_name: One World Trade Center
 date_of_official_opening: 2014-11-03T00:00:00Z
 inception: 2014-11-03T00:00:00Z
+dv_has_:
+  name_:
+    ang: One World Trade Center
+    ar: مركز التجارة العالمي 1
+    arz: مركز التجاره العالمى 1
+    ast: One World Trade Center
+    az: Dünya Ticarət Mərkəzi 1
+    ban: One World Trade Center
+    bcl: One World Trade Center
+    be: Сусветны гандлёвы цэнтр 1
+    bg: Световен търговски център 1
+    bn: ওয়ান ওয়ার্ল্ড ট্রেড সেন্টার
+    ca: One World Trade Center
+    cs: One World Trade Center
+    da: One World Trade Center
+    de: One World Trade Center
+    de-ch: One World Trade Center
+    el: Παγκόσμιο Κέντρο Εμπορίου 1
+    en: One World Trade Center
+    en-ca: One World Trade Center
+    en-gb: One World Trade Center
+    en-us: One World Trade Center
+    eo: One World Trade Center
+    es: One World Trade Center
+    et: One World Trade Center
+    eu: One World Trade Center
+    fa: مرکز تجارت جهانی
+    fi: One World Trade Center
+    fo: One World Trade Center
+    fr: One World Trade Center
+    fy: 1 World Trade Center
+    gl: One World Trade Center
+    gn: One World Trade Center
+    gu: ફ્રિડમ ટાવર
+    he: מרכז הסחר העולמי החדש
+    hi: १ वर्ल्ड ट्रेड सेंटर
+    hr: One World Trade Center
+    hu: One World Trade Center
+    hy: Ազատության աշտարակ
+    id: One World Trade Center
+    is: One World Trade Center
+    it: One World Trade Center
+    ja: ワン・ワールド・トレード・センター
+    ka: ერთი მსოფლიო სავაჭრო ცენტრი
+    kbp: One World Trade Center
+    kl: One World Trade Center
+    ko: 원 월드 트레이드 센터
+    lt: One World Trade Center
+    lv: One World Trade Center
+    mai: १ वर्ल्ड ट्रेड सेन्टर
+    mk: Светски трговски центар 1
+    ml: 1 വേൾഡ് ട്രേഡ് സെന്റർ
+    mr: वन वर्ल्ड ट्रेड सेंटर
+    ms: One World Trade Center
+    nb: One World Trade Centre
+    nl: One World Trade Center
+    nn: One World Trade Center
+    oc: One World Trade Center
+    pl: One World Trade Center
+    pnb: فریڈم ٹاور
+    pt: One World Trade Center
+    pt-br: 1 World Trade Center
+    ro: Freedom Tower
+    ru: Всемирный торговый центр 1
+    sat: ᱢᱤᱫ ᱡᱮᱜᱮᱛ ᱵᱮᱯᱟᱨ ᱛᱟᱞᱢᱟ
+    sco: One World Trade Center
+    sd: ھڪڙو ورلڊ ٽريڊ سينٽر
+    sk: One World Trade Center
+    sl: One World Trade Center
+    sr: Светски трговински центар 1
+    sv: One World Trade Center
+    ta: 1 உலக வர்த்தக மையம்
+    te: వన్ వరల్డ్ ట్రేడ్ సెంటర్
+    th: วันเวิลด์เทรดเซ็นเตอร์
+    tr: Özgürlük Kulesi
+    uk: Всесвітній торговий центр 1
+    ur: فریڈم ٹاور
+    uz: Ozodlik minorasi
+    vi: Trung tâm Thương mại 1 Thế giới
+    war: One World Trade Center
+    wuu: 世界贸易中心一号大楼
+    yue: 世界貿易中心一號大樓
+    zh: 世界貿易中心一號大樓
+    zh-hans: 世界贸易中心一号大楼
+    zh-hant: 世界貿易中心一號大樓
+    zh-tw: 世界貿易中心一號大樓
 ---
-
 # [[One World Trade Center]] 
 
 ![[../../../assets/Pasted image 20250817151541.png]] 

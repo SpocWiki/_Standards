@@ -1,8 +1,136 @@
 ---
 aliases:
-  - Björn Borg
-  - Borg,Björn
+- Bjern Borg
+- Bjorn Borg
+- Björn Borg
+- Bjērns Borgs
+- Borg,Björn
+- Μπγιορν Μποργκ
+- Б'ёрн Борг
+- Бјерн Борг
+- Бјорн Борг
+- Бйорн Борг
+- Бьорн Борг
+- Бьорн Руне Борг
+- Б’ёрн Борг
+- Բյորն Բորգ
+- ביורן בורג
+- بجرون بورگ
+- بيورن بورج
+- بيورن بورغ
+- بیورن بوری
+- ब्यॉन बोर्ग
+- ब्योन बोर्ग
+- বিয়োর্ন বোরি
+- ਬਿਯੋਰਨ ਬੋਗ
+- பியார்ன் போர்டி
+- జాన్ బోర్గ్
+- ബ്യോൺ ബോർഗ്
+- บิยอร์น บอร์ก
+- ბიერნ ბორგი
+- ビョルン・ボルグ
+- 比約·波格
+- 比約恩·博格
+- 比約恩·博里
+- 比约恩·博格
+- 比约恩·博里
+- 波格
+- 비에른 보리
 has_id_wikidata: Q104506
+dv_has_:
+  name_:
+    af: Björn Borg
+    an: Björn Borg
+    ar: بيورن بورغ
+    arz: بيورن بورج
+    ast: Björn Borg
+    ay: Björn Borg
+    be: Б'ёрн Борг
+    be-tarask: Б’ёрн Борг
+    bg: Бьорн Борг
+    bn: বিয়োর্ন বোরি
+    bs: Björn Borg
+    ca: Björn Borg
+    cs: Björn Borg
+    cv: Бьорн Борг
+    da: Björn Borg
+    de: Björn Borg
+    de-ch: Björn Borg
+    el: Μπγιορν Μποργκ
+    en: Björn Borg
+    en-ca: Björn Borg
+    en-gb: Björn Borg
+    eo: Björn Borg
+    es: Björn Borg
+    et: Björn Borg
+    eu: Björn Borg
+    fa: بیورن بوری
+    fi: Björn Borg
+    fo: Björn Borg
+    fr: Björn Borg
+    ga: Björn Borg
+    gd: Björn Borg
+    gl: Björn Borg
+    he: ביורן בורג
+    hi: ब्योन बोर्ग
+    hr: Björn Borg
+    hu: Björn Borg
+    hy: Բյորն Բորգ
+    id: Björn Borg
+    io: Björn Borg
+    is: Björn Borg
+    it: Björn Borg
+    ja: ビョルン・ボルグ
+    ka: ბიერნ ბორგი
+    kk: Бьорн Руне Борг
+    ko: 비에른 보리
+    lt: Björn Borg
+    lv: Bjērns Borgs
+    mk: Бјорн Борг
+    ml: ബ്യോൺ ബോർഗ്
+    mr: ब्यॉन बोर्ग
+    nb: Björn Borg
+    nds: Björn Borg
+    nl: Björn Borg
+    nn: Björn Borg
+    oc: Björn Borg
+    pa: ਬਿਯੋਰਨ ਬੋਗ
+    pl: Björn Borg
+    pt: Björn Borg
+    pt-br: Björn Borg
+    qu: Björn Borg
+    rm: Björn Borg
+    ro: Björn Borg
+    ru: Бьорн Борг
+    scn: Bjorn Borg
+    sco: Björn Borg
+    sh: Björn Borg
+    sk: Björn Borg
+    sl: Björn Borg
+    sq: Björn Borg
+    sr: Бјерн Борг
+    sr-ec: Бјерн Борг
+    sr-el: Bjern Borg
+    sv: Björn Borg
+    ta: பியார்ன் போர்டி
+    te: జాన్ బోర్గ్
+    th: บิยอร์น บอร์ก
+    tr: Björn Borg
+    uk: Бйорн Борг
+    ur: بجرون بورگ
+    uz: Björn Borg
+    vi: Bjorn Borg
+    war: Björn Borg
+    wuu: 比约恩·博格
+    yo: Björn Borg
+    yue: 波格
+    zh: 比约恩·博里
+    zh-cn: 比约恩·博里
+    zh-hans: 比约恩·博里
+    zh-hant: 比約恩·博里
+    zh-hk: 比約·波格
+    zh-sg: 比约恩·博格
+    zh-tw: 比約恩·博格
 ---
 #has_/time_/started :: 1956-06-06
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

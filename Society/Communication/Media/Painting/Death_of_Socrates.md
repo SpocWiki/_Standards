@@ -1,43 +1,84 @@
 ---
-has_time_started: 1787-01-01 
+has_time_started: 1787-01-01
 aliases:
-  - 'The Death of Socrates (French: La Mort de Socrate'
-  - Death_of_Socrates
-  - Death of Socrates
+- A morte de Sócrates
+- De dood van Socrates
+- Death of Socrates
+- Death_of_Socrates
+- Der Tod des Sokrates
+- Die Dood van Sokrates
+- Kematian Socrates
+- La Mort de Socrate
+- La mort de Sòcrates
+- La Morto de Sokrato
+- La muerte de Sócrates
+- Moartea lui Socrate
+- Morte di Socrate
+- Smrt Sokratova
+- Sokrata nāve
+- Sokrateen kuolema
+- Sokrates död
+- Sokrates'in Ölümü
+- Sokratesen heriotza
+- Sokrato mirtis
+- Sokratova smrt
+- Sokratın ölümü
+- Szókratész halála (David-kép)
+- The Death of Socrates
+- 'The Death of Socrates (French: La Mort de Socrate'
+- Śmierć Sokratesa
+- Ο Θάνατος του Σωκράτη
+- Смерть Сократа
+- Смртта на Сократ
+- Смъртта на Сократ
+- Сократова смрт
+- Сьмерць Сакрата
+- Սոկրատեսի մահը
+- מותו של סוקרטס
+- مردنەکەی سوقرات
+- مرگ سقراط
+- موت سقراط
+- সক্রেটিসের মৃত্যু
+- சாக்கிரட்டீசுவின் மரணம்
+- სოკრატეს სიკვდილი
+- ソクラテスの死
+- 苏格拉底之死
+- 蘇格拉底之死
+- 소크라테스의 죽음
 has_id_wikidata: Q1752990
 creator: '[[_Standards/WikiData/WD~Jacques_Louis_David,83155]]'
 location: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
 collection: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
 depicts:
-  - '[[_Standards/WikiData/WD~sadness,169251]]'
-  - '[[_Standards/WikiData/WD~Conium_maculatum,218041]]'
-  - '[[_Standards/WikiData/WD~robe,345127]]'
-  - '[[_Standards/WikiData/WD~scroll,720106]]'
-  - '[[_Standards/WikiData/WD~chain,2397485]]'
-  - '[[_Standards/WikiData/WD~forced_suicide,2746270]]'
-  - '[[_Standards/WikiData/WD~Socrates,913]]'
-  - '[[_Standards/WikiData/WD~man,8441]]'
-  - '[[_Standards/WikiData/WD~suicide,10737]]'
-  - '[[_Standards/WikiData/WD~stairs,12511]]'
-  - '[[_Standards/WikiData/WD~bed,42177]]'
+- '[[_Standards/WikiData/WD~sadness,169251]]'
+- '[[_Standards/WikiData/WD~Conium_maculatum,218041]]'
+- '[[_Standards/WikiData/WD~robe,345127]]'
+- '[[_Standards/WikiData/WD~scroll,720106]]'
+- '[[_Standards/WikiData/WD~chain,2397485]]'
+- '[[_Standards/WikiData/WD~forced_suicide,2746270]]'
+- '[[_Standards/WikiData/WD~Socrates,913]]'
+- '[[_Standards/WikiData/WD~man,8441]]'
+- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~stairs,12511]]'
+- '[[_Standards/WikiData/WD~bed,42177]]'
 fabrication_method: '[[_Standards/WikiData/WD~oil_painting,174705]]'
 movement: '[[_Standards/WikiData/WD~academic_art,189458]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~oil_paint,296955]]'
-  - '[[_Standards/WikiData/WD~canvas,12321255]]'
+- '[[_Standards/WikiData/WD~oil_paint,296955]]'
+- '[[_Standards/WikiData/WD~canvas,12321255]]'
 genre: '[[_Standards/WikiData/WD~history_painting,742333]]'
 different_from:
-  - '[[_Standards/WikiData/WD~The_Death_of_Socrates,3210839]]'
-  - '[[_Standards/WikiData/WD~The_Death_of_Socrates,52828271]]'
+- '[[_Standards/WikiData/WD~The_Death_of_Socrates,3210839]]'
+- '[[_Standards/WikiData/WD~The_Death_of_Socrates,52828271]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~Marius_Bianchi,3293769]]'
-  - '[[_Standards/WikiData/WD~Olivier_de_Saint_Georges_de_Vérac,3351471]]'
-  - '[[_Standards/WikiData/WD~Adolphe_de_Rougé,28836225]]'
-  - '[[_Standards/WikiData/WD~Charles_Louis_Trudaine_de_Montigny,58231181]]'
+- '[[_Standards/WikiData/WD~Marius_Bianchi,3293769]]'
+- '[[_Standards/WikiData/WD~Olivier_de_Saint_Georges_de_Vérac,3351471]]'
+- '[[_Standards/WikiData/WD~Adolphe_de_Rougé,28836225]]'
+- '[[_Standards/WikiData/WD~Charles_Louis_Trudaine_de_Montigny,58231181]]'
 instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Heilbrunn_Timeline_of_Art_History,28837176]]'
-  - '[[_Standards/WikiData/WD~The_Metropolitan_Museum_of_Art_Guide_(2012_edition),29167435]]'
+- '[[_Standards/WikiData/WD~Heilbrunn_Timeline_of_Art_History,28837176]]'
+- '[[_Standards/WikiData/WD~The_Metropolitan_Museum_of_Art_Guide_(2012_edition),29167435]]'
 maintained_by: '[[_Standards/WikiData/WD~European_Paintings,67429134]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Met_Museum_artworks_on_display,116234000]]'
 main_subject: '[[_Standards/WikiData/WD~Socrates,913]]'
@@ -46,9 +87,9 @@ height: 129.5
 catalog_code: 76
 width: 196.2
 title:
-  - The Death of Socrates
-  - La Mort de Socrate
-  - موت سُقراط
+- The Death of Socrates
+- La Mort de Socrate
+- موت سُقراط
 native_label: La Mort de Socrate
 image_with_frame: http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20The%20Death%20of%20Socrates%20-%20with%20frame.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Socrates%20MET%20DP-13139-001.jpg
@@ -57,8 +98,60 @@ inventory_number: 31.45
 depicts_Iconclass_notation: 98B(SOCRATES)68
 Commons_category: The Death of Socrates (Jacques-Louis David)
 inception: 1787-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Die Dood van Sokrates
+    ar: موت سقراط
+    arz: موت سقراط
+    ast: La muerte de Sócrates
+    az: Sokratın ölümü
+    be-tarask: Сьмерць Сакрата
+    bg: Смъртта на Сократ
+    bjn: Kematian Socrates
+    bn: সক্রেটিসের মৃত্যু
+    bs: Sokratova smrt
+    ca: La mort de Sòcrates
+    ckb: مردنەکەی سوقرات
+    cs: Smrt Sokratova
+    de: Der Tod des Sokrates
+    el: Ο Θάνατος του Σωκράτη
+    en: The Death of Socrates
+    eo: La Morto de Sokrato
+    es: La muerte de Sócrates
+    eu: Sokratesen heriotza
+    fa: مرگ سقراط
+    fi: Sokrateen kuolema
+    fr: La Mort de Socrate
+    gl: A morte de Sócrates
+    he: מותו של סוקרטס
+    hr: Sokratova smrt
+    hu: Szókratész halála (David-kép)
+    hy: Սոկրատեսի մահը
+    id: Kematian Socrates
+    it: Morte di Socrate
+    ja: ソクラテスの死
+    ka: სოკრატეს სიკვდილი
+    ko: 소크라테스의 죽음
+    lt: Sokrato mirtis
+    lv: Sokrata nāve
+    mk: Смртта на Сократ
+    nl: De dood van Socrates
+    pl: Śmierć Sokratesa
+    pt: A Morte de Sócrates
+    ro: Moartea lui Socrate
+    ru: Смерть Сократа
+    sl: Sokratova smrt
+    sr: Сократова смрт
+    sr-ec: Сократова смрт
+    sv: Sokrates död
+    ta: சாக்கிரட்டீசுவின் மரணம்
+    tr: Sokrates'in Ölümü
+    uk: Смерть Сократа
+    vi: The Death of Socrates
+    wuu: 苏格拉底之死
+    yue: 蘇格拉底之死
+    zh: 苏格拉底之死
 ---
-
 # [[Death_of_Socrates]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~The_Death_of_Socrates,1752990|WD~The_Death_of_Socrates,1752990]]  

@@ -1,25 +1,163 @@
 ---
 aliases:
-  - Social_Stratification
-  - Social Stratification
+- društvena stratifikacija
+- Društveno raslojavanje
+- družbena stratifikacija
+- elekọta mmadụ stratification
+- estratificació social
+- Estratificación social
+- estratificação social
+- Gizarte estratifikazio
+- Haeniad cymdeithasol
+- jámiyetlik qatlamlasıw
+- Kala-soocid bulsho
+- phân tầng xã hội
+- sabiedrības noslāņošanās
+- shtresim shoqëror
+- Siā-hōe chiâⁿ-chân
+- socia tavoligo
+- social aratification
+- Social Stratification
+- social stratifiering
+- sociale stratificatie
+- Social_Stratification
+- socijalna stratifikacija
+- sociální stratifikace
+- sosial lagdeling
+- sosiale stratifikasie
+- sotsiaalne stratifikatsioon
+- soziale Schichtung
+- Spoločenská stratifikácia
+- stratificare socială
+- stratification sociale
+- stratificazione sociale
+- Stratifikaatio
+- Stratifikasi sosial
+- Stratifikasiya
+- stratifikation
+- stratyfikacja społeczna
+- toplumsal tabakalaşma
+- társadalmi rétegződés
+- visuomenės susisluoksniavimas
+- Älewmettik stratïfïkacïya
+- κοινωνική διαστρωμάτωση
+- Друштвена стратификација
+- Нийгмийн давхраажилт
+- Општествена хиерархија
+- сацыяльнае стратыфікацыя
+- соціальна стратифікація
+- Социална стратификация
+- социальная стратификация
+- қишрбандӣ
+- Әлеуметтік стратификация
+- Սոցիալական ստրատիֆիկացում
+- ריבוד חברתי
+- الەۋمەتتىك ستراتىيفىيكاتسىييا
+- تدرج اجتماعي
+- سماجی درجہ بندی
+- قشربندی
+- ټولنیزه ډلبندي
+- सामाजिक स्तरीकरण
+- সামাজিক স্তরবিন্যাস
+- การจัดช่วงชั้นทางสังคม
+- 社会阶层
+- 社会階層
+- 社會階層
+- 社會階級
+- 사회 계층
 has_id_wikidata: Q841628
 has_effect:
-  - '[[_Standards/WikiData/WD~social_stratum,149211]]'
-  - '[[_Standards/WikiData/WD~social_class,187588]]'
-  - '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
+- '[[_Standards/WikiData/WD~social_stratum,149211]]'
+- '[[_Standards/WikiData/WD~social_class,187588]]'
+- '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
 part_of: '[[_Standards/WikiData/WD~social_structure,211606]]'
 uses: '[[_Standards/WikiData/WD~demographics,2725376]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
-  - '[[_Standards/WikiData/WD~Q25523410,25523410]]'
+- '[[_Standards/WikiData/WD~social_hierarchy,4430235]]'
+- '[[_Standards/WikiData/WD~Q25523410,25523410]]'
 instance_of: '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Library_of_Congress_Classification: HM821-HM821.17
 Dewey_Decimal_Classification:
-  - 305.5
-  - 1--0862
+- 305.5
+- 1--0862
+dv_has_:
+  name_:
+    af: sosiale stratifikasie
+    ar: تدرج اجتماعي
+    ast: Estratificación social
+    az: Stratifikasiya
+    ban: Stratifikasi sosial
+    be-tarask: сацыяльнае стратыфікацыя
+    bg: Социална стратификация
+    bn: সামাজিক স্তরবিন্যাস
+    bs: Društveno raslojavanje
+    ca: estratificació social
+    cs: sociální stratifikace
+    cy: Haeniad cymdeithasol
+    da: stratifikation
+    de: soziale Schichtung
+    el: κοινωνική διαστρωμάτωση
+    en: social stratification
+    en-gb: social stratification
+    eo: socia tavoligo
+    es: estratificación social
+    et: sotsiaalne stratifikatsioon
+    eu: Gizarte estratifikazio
+    fa: قشربندی
+    fi: Stratifikaatio
+    fr: stratification sociale
+    gl: estratificación social
+    he: ריבוד חברתי
+    hi: सामाजिक स्तरीकरण
+    hr: društvena stratifikacija
+    hu: társadalmi rétegződés
+    hy: Սոցիալական ստրատիֆիկացում
+    id: Stratifikasi sosial
+    ig: elekọta mmadụ stratification
+    it: stratificazione sociale
+    ja: 社会階層
+    kaa: jámiyetlik qatlamlasıw
+    kk: Әлеуметтік стратификация
+    kk-arab: الەۋمەتتىك ستراتىيفىيكاتسىييا
+    kk-cyrl: Әлеуметтік стратификация
+    kk-latn: Älewmettik stratïfïkacïya
+    ko: 사회 계층
+    lt: visuomenės susisluoksniavimas
+    lv: sabiedrības noslāņošanās
+    mk: Општествена хиерархија
+    mn: Нийгмийн давхраажилт
+    nan: Siā-hōe chiâⁿ-chân
+    nb: sosial lagdeling
+    nl: sociale stratificatie
+    nn: sosial lagdeling
+    pl: stratyfikacja społeczna
+    ps: ټولنیزه ډلبندي
+    pt: estratificação social
+    ro: stratificare socială
+    ru: социальная стратификация
+    sh: socijalna stratifikacija
+    sk: Spoločenská stratifikácia
+    sl: družbena stratifikacija
+    so: Kala-soocid bulsho
+    sq: shtresim shoqëror
+    sr: Друштвена стратификација
+    sr-ec: Друштвена стратификација
+    sr-el: Društvena stratifikacija
+    sv: social stratifiering
+    ta: social aratification
+    tg: қишрбандӣ
+    th: การจัดช่วงชั้นทางสังคม
+    tr: toplumsal tabakalaşma
+    uk: соціальна стратифікація
+    ur: سماجی درجہ بندی
+    vi: phân tầng xã hội
+    yue: 社會階級
+    zh: 社會階層
+    zh-hans: 社会阶层
+    zh-hant: 社會階層
+    zh-hk: 社會階層
 ---
-
 # [[Social_Stratification]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_stratification,841628|WD~Social_stratification,841628]] 

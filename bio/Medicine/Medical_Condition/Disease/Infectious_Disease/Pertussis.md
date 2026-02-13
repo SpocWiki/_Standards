@@ -1,38 +1,139 @@
 ---
 aliases:
-  - Whooping cough
-  - Keuchhusten
-  - Pertussis
+- Aebakngoenz
+- Batuk kokol
+- Batuk rejan
+- boaktjánimgåsås
+- Boğmaca
+- Chifuwa chokoka mtima
+- Chikosoro chinonzi "Whooping cough"
+- coqueluche
+- Drev
+- garais klepus
+- Gökbogma
+- göy öskürək
+- hinkuyskä
+- ho gà
+- Hripavac
+- Keuchhusten
+- Kifaduro
+- kighoste
+- kikhosta
+- kikhoste
+- Kikhosti
+- Kinkhoes
+- kinkhoest
+- Koke reşe
+- Kokliušas
+- Koklusho
+- kokluŝo
+- Koʻkyoʻtal
+- krztusiec
+- Kukutxeztul
+- kuxika reş
+- Kuxıka siyae
+- Kéntosse
+- Kíghósti
+- Kökjötel
+- Kɔhindɔtɔntɔn
+- llandra
+- läkaköha
+- nkɔnkɔn
+- oslovski kašelj
+- Pah-ji̍t-sàu
+- Patusis
+- pertose
+- pertosse
+- Pertussis
+- Pertússis
+- Rzëpòt
+- sainnahat
+- soinâttâh
+- szamárköhögés
+- sõhttâmkoss
+- T'ukuch'uqu
+- Tarin jaki
+- tos ferina
+- Tose ferina
+- tosse convulsa
+- Toŋgol
+- triuch
+- Tuse convulsivă
+- Ubong-dalahit
+- veliki kašalj
+- Whooping cough
+- y pâs
+- černý kašel
+- Čierny kašeľ
+- κοκκύτης
+- бума ютәл
+- велики кашаљ
+- голема кашлица
+- кабудсулфа
+- кашлюк
+- коклюш
+- кохлік
+- көк жөтөл
+- көкжөтел
+- Хөхүүл ханиад
+- Կապոյտ հազ
+- Կապույտ հազ
+- שעלת
+- السعال الديكى
+- سعال ديكي
+- سیاهسرفه
+- كوكجوتەل
+- کالی کھانسی
+- کوتاخوس
+- کۆکە رەشە
+- کۆکەڕەشە
+- ހޯއްގޮއްވާ ކެއްސުން
+- कुक्कुर खाँसी
+- डांग्या खोकला
+- लहरे खोकी
+- হুপিং কাশি
+- ਕਾਲੀ ਖਾਂਸੀ
+- ଲହରା କାଶ
+- தொடர் இருமல்
+- కోరింత దగ్గు
+- ನಾಯಿಕೆಮ್ಮು
+- വില്ലൻചുമ
+- โรคไอกรน
+- ყივანახველა
+- ᎤᏎᏍᎩ ᎤᏂᏏᏩᏍᎩ
+- រោគក្អកមាន់
+- 百日咳
+- 백일해
 has_id_wikidata: Q134859
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~clarithromycin,118551]]'
-  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
-  - '[[_Standards/WikiData/WD~erythromycin,213511]]'
-  - '[[_Standards/WikiData/WD~guaifenesin,420682]]'
-  - '[[_Standards/WikiData/WD~demeclocycline,2736402]]'
+- '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~erythromycin,213511]]'
+- '[[_Standards/WikiData/WD~guaifenesin,420682]]'
+- '[[_Standards/WikiData/WD~demeclocycline,2736402]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~vomiting,127076]]'
-  - '[[_Standards/WikiData/WD~apnea,754424]]'
-  - '[[_Standards/WikiData/WD~runny_nose,1115038]]'
-  - '[[_Standards/WikiData/WD~fatigue,9690]]'
-  - '[[_Standards/WikiData/WD~cough,35805]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~apnea,754424]]'
+- '[[_Standards/WikiData/WD~runny_nose,1115038]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 has_cause: '[[_Standards/WikiData/WD~Bordetella_pertussis,137103]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~droplet_infection,871752]]'
-  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+- '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+- '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~commensal_bacterial_infectious_disease,18553248]]'
-  - '[[_Standards/WikiData/WD~Bordetella_infections,66773817]]'
+- '[[_Standards/WikiData/WD~commensal_bacterial_infectious_disease,18553248]]'
+- '[[_Standards/WikiData/WD~Bordetella_infections,66773817]]'
 instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 possible_treatment: '[[_Standards/WikiData/WD~antibiotic,12187]]'
 minimal_incubation_period_in_humans: 7
@@ -45,18 +146,149 @@ disease_burden: 6142377
 Commons_category: Pertussis
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Whooping%20cough%20boy.ogv
 exact_match:
-  - http://identifiers.org/doid/DOID:1116
-  - http://purl.obolibrary.org/obo/DOID_1116
+- http://identifiers.org/doid/DOID:1116
+- http://purl.obolibrary.org/obo/DOID_1116
 UMLS_CUI:
-  - C0006015
-  - C0043167
+- C0006015
+- C0043167
 MeSH_tree_code:
-  - C01.150.252.400.143.500
-  - C01.748.969
-  - C08.730.969
+- C01.150.252.400.143.500
+- C01.748.969
+- C08.730.969
 Krugosvet_article_archived_: medicina/koklyush
+dv_has_:
+  name_:
+    af: Kinkhoes
+    ak: nkɔnkɔn
+    ar: سعال ديكي
+    arz: السعال الديكى
+    ast: llandra
+    az: göy öskürək
+    be: кохлік
+    be-tarask: кохлік
+    bg: Коклюш
+    bn: হুপিং কাশি
+    br: Drev
+    bs: Veliki kašalj
+    ca: tos ferina
+    chr: ᎤᏎᏍᎩ ᎤᏂᏏᏩᏍᎩ
+    ckb: کۆکەڕەشە
+    cs: černý kašel
+    csb: Rzëpòt
+    cy: y pâs
+    da: kighoste
+    dag: Kɔhindɔtɔntɔn
+    de: Keuchhusten
+    de-ch: Keuchhusten
+    din: Toŋgol
+    diq: Kuxıka siyae
+    dv: ހޯއްގޮއްވާ ކެއްސުން
+    el: κοκκύτης
+    en: pertussis
+    en-ca: Pertussis
+    en-gb: pertussis
+    eo: kokluŝo
+    es: tos ferina
+    et: läkaköha
+    eu: Kukutxeztul
+    fa: سیاهسرفه
+    fi: hinkuyskä
+    fo: Kikhosti
+    fr: coqueluche
+    ga: triuch
+    gl: Tose ferina
+    glk: کوتاخوس
+    ha: Tarin jaki
+    he: שעלת
+    hi: कुक्कुर खाँसी
+    hr: Hripavac
+    hu: szamárköhögés
+    hy: Կապույտ հազ
+    hyw: Կապոյտ հազ
+    id: Batuk rejan
+    ig: Patusis
+    io: Koklusho
+    is: Kíghósti
+    it: pertosse
+    ja: 百日咳
+    ka: ყივანახველა
+    kk: көкжөтел
+    kk-arab: كوكجوتەل
+    kk-cn: كوكجوتەل
+    kk-cyrl: Көкжөтел
+    kk-kz: Көкжөтел
+    kk-latn: Kökjötel
+    kk-tr: Kökjötel
+    km: រោគក្អកមាន់
+    kn: ನಾಯಿಕೆಮ್ಮು
+    ko: 백일해
+    ku: kuxika reş
+    ku-arab: کۆکە رەشە
+    ku-latn: Koke reşe
+    ky: көк жөтөл
+    lt: Kokliušas
+    lv: garais klepus
+    mk: голема кашлица
+    ml: വില്ലൻചുമ
+    mn: Хөхүүл ханиад
+    mr: डांग्या खोकला
+    ms: Batuk kokol
+    nan: Pah-ji̍t-sàu
+    nb: kikhoste
+    ne: लहरे खोकी
+    nl: kinkhoest
+    nn: kikhoste
+    ny: Chifuwa chokoka mtima
+    or: ଲହରା କାଶ
+    pa: ਕਾਲੀ ਖਾਂਸੀ
+    pl: krztusiec
+    pnb: کالی کھانسی
+    pt: tosse convulsa
+    pt-br: Pertússis
+    qu: T'ukuch'uqu
+    ro: Tuse convulsivă
+    ru: коклюш
+    se: sainnahat
+    sh: Veliki kašalj
+    sk: Čierny kašeľ
+    sl: oslovski kašelj
+    smj: boaktjánimgåsås
+    smn: soinâttâh
+    sms: sõhttâmkoss
+    sn: Chikosoro chinonzi "Whooping cough"
+    sr: велики кашаљ
+    sr-ec: велики кашаљ
+    sr-el: veliki kašalj
+    ss: Pertussis
+    st: Pertussis
+    sv: kikhosta
+    sw: Kifaduro
+    ta: தொடர் இருமல்
+    te: కోరింత దగ్గు
+    tg: кабудсулфа
+    th: โรคไอกรน
+    tk: Gökbogma
+    tl: Ubong-dalahit
+    tr: Boğmaca
+    tt: бума ютәл
+    uk: кашлюк
+    ur: کالی کھانسی
+    uz: Koʻkyoʻtal
+    vec: pertose
+    vi: ho gà
+    wa: Kéntosse
+    wo: Whooping cough
+    wuu: 百日咳
+    yue: 百日咳
+    za: Aebakngoenz
+    zh: 百日咳
+    zh-cn: 百日咳
+    zh-hans: 百日咳
+    zh-hant: 百日咳
+    zh-hk: 百日咳
+    zh-sg: 百日咳
+    zh-tw: 百日咳
 ---
-
 # [[Pertussis]] 
 
 #is_/same_as :: [[WD~Pertussis,134859]] 

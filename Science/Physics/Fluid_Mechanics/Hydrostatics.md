@@ -1,25 +1,153 @@
 ---
 aliases:
-  - fluid statics
-  - Hydrostatik
-  - Hydrostatics
+- fluid statics
+- fluida statiko
+- fluidostatica
+- Gidrostatika
+- Gïdrostatïka
+- hidroestàtica
+- Hidrostatik
+- hidrostatika
+- Hidrostatiko
+- Hidrostatički tlak
+- hidrostática
+- hidrosztatika
+- hydrostatica
+- Hydrostatics
+- hydrostatiikka
+- Hydrostatik
+- hydrostatika
+- Hydrostatikk
+- hydrostatique
+- hydrostatyka
+- Hüdrostaatika
+- Hüdrostatik
+- Idrostàtega
+- Idrostàtica
+- Liû-thé chēng-le̍k-ha̍k
+- Sgoil-uisge
+- Statica fluidelor
+- Statik bendalir
+- Statika fluida
+- Thủy tĩnh học
+- Υδροστατική
+- гідрастатыка
+- гідростатика
+- гидростатика
+- статика флуида
+- Хидростатика
+- Հիդրոստատիկա
+- הידרוסטטיקה
+- ایستاشناسی شارهها
+- سكونيات الموائع
+- گىيدروستاتىيكا
+- द्रवस्थैतिकी
+- উদস্থিতিবিজ্ঞান
+- பாய்ம நிலையியல்
+- තරල ස්ථිතිකය
+- สถิตยศาสตร์ของไหล
+- អ៊ីដ្រូស្តាទិច
+- 流体静力学
+- 流體靜力學
+- 유체 정역학
 has_id_wikidata: Q177807
 part_of:
-  - '[[_Standards/WikiData/WD~statics,169019]]'
-  - '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
+- '[[_Standards/WikiData/WD~statics,169019]]'
+- '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
 subclass_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 OmegaWiki_Defined_Meaning: 795911
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FluidInRotatingVessel.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/fluid-statics
 Colon_Classification: B75:2
 Commons_category: Fluid statics
+dv_has_:
+  name_:
+    ar: سكونيات الموائع
+    ast: Hidrostática
+    az: hidrostatika
+    be: гідрастатыка
+    be-tarask: гідрастатыка
+    bg: Хидростатика
+    bn: উদস্থিতিবিজ্ঞান
+    bs: Statika fluida
+    ca: hidroestàtica
+    cs: hydrostatika
+    cv: Гидростатика
+    de: Hydrostatik
+    el: Υδροστατική
+    en: hydrostatics
+    eo: fluida statiko
+    es: hidrostática
+    et: Hüdrostaatika
+    eu: Hidrostatika
+    fa: ایستاشناسی شارهها
+    fi: hydrostatiikka
+    fr: hydrostatique
+    gd: Sgoil-uisge
+    gl: Hidrostática
+    gsw: Hüdrostatik
+    he: הידרוסטטיקה
+    hi: द्रवस्थैतिकी
+    hr: Hidrostatički tlak
+    hu: hidrosztatika
+    hy: Հիդրոստատիկա
+    id: Statika fluida
+    io: Hidrostatiko
+    it: fluidostatica
+    ja: 流体静力学
+    jv: Hidrostatika
+    kk: Гидростатика
+    kk-arab: گىيدروستاتىيكا
+    kk-cn: گىيدروستاتىيكا
+    kk-cyrl: Гидростатика
+    kk-kz: Гидростатика
+    kk-latn: Gïdrostatïka
+    kk-tr: Gïdrostatïka
+    km: អ៊ីដ្រូស្តាទិច
+    ko: 유체 정역학
+    ky: Гидростатика
+    lt: Hidrostatika
+    mk: хидростатика
+    ms: Statik bendalir
+    nan: Liû-thé chēng-le̍k-ha̍k
+    nb: Hydrostatikk
+    nl: hydrostatica
+    nn: Hydrostatikk
+    pl: hydrostatyka
+    pms: Idrostàtica
+    pt: hidrostática
+    ro: Statica fluidelor
+    ru: гидростатика
+    sh: Statika fluida
+    si: තරල ස්ථිතිකය
+    sk: Hydrostatika
+    sl: hidrostatika
+    sr: статика флуида
+    sr-ec: Статика флуида
+    sr-el: Statika fluida
+    sv: hydrostatik
+    ta: பாய்ம நிலையியல்
+    th: สถิตยศาสตร์ของไหล
+    tr: Hidrostatik
+    uk: гідростатика
+    uz: Gidrostatika
+    vec: Idrostàtega
+    vi: Thủy tĩnh học
+    wuu: 流体静力学
+    yue: 流體靜力學
+    zh: 流体静力学
+    zh-cn: 流体静力学
+    zh-hans: 流体静力学
+    zh-hant: 流體靜力學
+    zh-hk: 流體靜力學
+    zh-sg: 流体静力学
+    zh-tw: 流體靜力學
 ---
-
 # [[Hydrostatics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hydrostatics,177807|WD~Hydrostatics,177807]] 

@@ -1,13 +1,104 @@
 ---
 aliases:
-  - Mehrfachintegral
-  - Multiple_Integral
-  - Multiple Integral
+- Całka wielokrotna
+- divkāršais integrālis
+- Eseli ïntegral
+- Integral anizkoitz
+- Integral lipat
+- integral múltipla
+- integral múltiple
+- Integral tikel
+- integrale multiplo
+- Integrală multiplă
+- Integrointi moniulotteisessa avaruudessa
+- intégrale multiple
+- Karrali integral
+- meervoudige integraal
+- Mehrfachintegral
+- Multipelintegral
+- Multipelt integral
+- Multiple Integral
+- Multiple_Integral
+- obla integralo
+- Tích phân bội
+- večkratni integral
+- Višestruki integral
+- vícerozměrný integrál
+- Çokkatlı integral
+- İkiqat inteqral
+- πολλαπλό ολοκλήρωμα
+- багатократний інтеграл
+- Еселі интеграл
+- кратны інтэграл
+- кратный интеграл
+- Тапҡырлы интеграл
+- Хутлă интеграл
+- אינטגרל רב-ממדי
+- انتگرال چندگانه
+- تكامل متعدد
+- تەواوکاریی چەندجارە
+- ەسەلى ىينتەگرال
+- 多重積分
+- 重积分
+- 중적분
 has_id_wikidata: Q844937
 subclass_of: '[[_Standards/WikiData/WD~integral,80091]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+dv_has_:
+  name_:
+    ar: تكامل متعدد
+    ast: integral múltiple
+    az: İkiqat inteqral
+    ba: Тапҡырлы интеграл
+    be-tarask: кратны інтэграл
+    bs: Višestruki integral
+    ca: integral múltiple
+    ckb: تەواوکاریی چەندجارە
+    cs: vícerozměrný integrál
+    cv: Хутлă интеграл
+    da: Multipelt integral
+    de: Mehrfachintegral
+    el: πολλαπλό ολοκλήρωμα
+    en: multiple integral
+    en-ca: Multiple integral
+    en-gb: multiple integral
+    eo: obla integralo
+    es: integral múltiple
+    eu: Integral anizkoitz
+    fa: انتگرال چندگانه
+    fi: Integrointi moniulotteisessa avaruudessa
+    fr: intégrale multiple
+    gl: Integral múltiple
+    he: אינטגרל רב-ממדי
+    id: Integral lipat
+    it: integrale multiplo
+    ja: 多重積分
+    kk: Еселі интеграл
+    kk-arab: ەسەلى ىينتەگرال
+    kk-cyrl: Еселі интеграл
+    kk-latn: Eseli ïntegral
+    ko: 중적분
+    lv: divkāršais integrālis
+    nl: meervoudige integraal
+    pl: Całka wielokrotna
+    pt: integral múltipla
+    pt-br: Integral múltipla
+    ro: Integrală multiplă
+    ru: кратный интеграл
+    sl: večkratni integral
+    sr: Višestruki integral
+    su: Integral tikel
+    sv: Multipelintegral
+    tr: Çokkatlı integral
+    uk: багатократний інтеграл
+    uz: Karrali integral
+    vi: Tích phân bội
+    yue: 多重積分
+    zh: 重积分
+    zh-hans: 重积分
+    zh-hant: 多重積分
+    zh-hk: 多重積分
 ---
-
 # [[Multiple_Integral]] 
 
 #is_/same_as :: [[WD~Multiple_integral,844937]] 

@@ -1,47 +1,82 @@
 ---
 aliases:
-  - Thomas_Paine
-  - Thomas Paine
-  - Paine
-  - Thomas Pain
-  - Paine,Thomas
+- jan Toma Pin
+- Paine
+- Paine,Thomas
+- Thomas Pain
+- Thomas Paine
+- Thomas_Paine
+- Tom Paine
+- Tomas Peinas
+- Tomas Pejn
+- Tomas Peyn
+- Tomass Peins
+- Τόμας Πέιν
+- Пейн Томас
+- Томас Пејн
+- Томас Пейн
+- Томас Пэйн
+- Թոմաս Փեյն
+- תומאס פיין
+- توماس بين
+- توماس پین
+- توماس پېن
+- تھامس پین
+- تۆماس پەین
+- ٿامس پئن
+- थॉमस पेन
+- थोमस पेन
+- টমাচ পেইন
+- টমাস পেইন
+- ਥਾਮਸ ਪੇਨ
+- தாமஸ் பெய்ன்
+- థామస్ పేన్
+- തൊമസ് പെയ്ൻ
+- โทมัส เพน
+- ტომას პეინი
+- トマス・ペイン
+- 托馬斯·潘恩
+- 托马斯·潘恩
+- 湯瑪士·比恩
+- 湯瑪斯·潘恩
+- 토머스 페인
 has_id_wikidata: Q126462
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 place_of_death: '[[_Standards/WikiData/WD~Greenwich_Village,205380]]'
 place_of_birth: '[[_Standards/WikiData/WD~Thetford,237250]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~deism,620629]]'
 place_of_burial: '[[_Standards/WikiData/WD~New_Rochelle,744948]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Common_Sense,843940]]'
-  - '[[_Standards/WikiData/WD~Rights_of_Man,979108]]'
-  - '[[_Standards/WikiData/WD~The_Age_of_Reason,1983019]]'
+- '[[_Standards/WikiData/WD~Common_Sense,843940]]'
+- '[[_Standards/WikiData/WD~Rights_of_Man,979108]]'
+- '[[_Standards/WikiData/WD~The_Age_of_Reason,1983019]]'
 different_from: '[[_Standards/WikiData/WD~Thomas_O._Paine,1367762]]'
 position_held: '[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -49,28 +84,28 @@ educated_at: '[[_Standards/WikiData/WD~Thetford_Grammar_School,7783567]]'
 award_received: '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
 given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Paine,16880907]]'
-  - '[[_Standards/WikiData/WD~Pain,37486727]]'
+- '[[_Standards/WikiData/WD~Paine,16880907]]'
+- '[[_Standards/WikiData/WD~Pain,37486727]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Thomas_Paine,28048367]]'
-  - '[[_Standards/WikiData/WD~Thomas_Paine_(1737_1809),119802486]]'
+- '[[_Standards/WikiData/WD~Thomas_Paine,28048367]]'
+- '[[_Standards/WikiData/WD~Thomas_Paine_(1737_1809),119802486]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Mary_Lambert,108668999]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Ollive,108669005]]'
+- '[[_Standards/WikiData/WD~Mary_Lambert,108668999]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Ollive,108669005]]'
 date_of_birth: 1737-02-09T00:00:00Z
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_location: '[[_Standards/WikiData/WD~Paris,90]]'
 BHCL_UUID:
-  - bcf9cded-d410-4af1-bf3b-20ce1ec49725
-  - ff952d30-a1b9-4825-ac8b-c4fead4c0e67
+- bcf9cded-d410-4af1-bf3b-20ce1ec49725
+- ff952d30-a1b9-4825-ac8b-c4fead4c0e67
 date_of_death: 1809-06-08T00:00:00Z
 Commons_category: Thomas Paine
 Commons_Creator_page: Thomas Paine
@@ -83,8 +118,126 @@ U_S_National_Archives_Identifier: 10582088
 Libris_URI: 97mpstxt1r930qf
 Europeana_entity: agent/base/145364
 Krugosvet_article_archived_: istoriya/PEN_TOMAS.html
+dv_has_:
+  name_:
+    af: Thomas Paine
+    an: Thomas Paine
+    ar: توماس بين
+    arz: توماس بين
+    as: টমাচ পেইন
+    ast: Thomas Paine
+    az: Tomas Peyn
+    azb: توماس پین
+    bar: Thomas Paine
+    bcl: Thomas Paine
+    be: Томас Пейн
+    be-tarask: Томас Пэйн
+    bg: Томас Пейн
+    bho: थॉमस पेन
+    bn: টমাস পেইন
+    br: Thomas Paine
+    bs: Thomas Paine
+    ca: Thomas Paine
+    ceb: Thomas Paine
+    ckb: تۆماس پەین
+    cs: Thomas Paine
+    cy: Thomas Paine
+    da: Thomas Paine
+    de: Thomas Paine
+    diq: Thomas Paine
+    el: Τόμας Πέιν
+    en: Thomas Paine
+    eo: Thomas Paine
+    es: Thomas Paine
+    et: Thomas Paine
+    eu: Thomas Paine
+    fa: توماس پین
+    fi: Thomas Paine
+    fr: Thomas Paine
+    ga: Thomas Paine
+    gl: Thomas Paine
+    gsw: Thomas Paine
+    he: תומאס פיין
+    hi: थॉमस पेन
+    hr: Thomas Paine
+    hu: Thomas Paine
+    hy: Թոմաս Փեյն
+    id: Thomas Paine
+    io: Thomas Paine
+    is: Thomas Paine
+    it: Thomas Paine
+    ja: トマス・ペイン
+    ka: ტომას პეინი
+    kk: Пейн Томас
+    ko: 토머스 페인
+    ku: Thomas Paine
+    la: Thomas Paine
+    lb: Thomas Paine
+    li: Thomas Paine
+    lmo: Thomas Paine
+    lt: Tomas Peinas
+    lv: Tomass Peins
+    lzh: 托馬斯·潘恩
+    mai: थोमस पेन
+    mg: Thomas Paine
+    ml: തൊമസ് പെയ്ൻ
+    mr: थॉमस पेन
+    ms: Thomas Paine
+    mul: Thomas Paine
+    nan: Tom Paine
+    nb: Thomas Paine
+    nds: Thomas Paine
+    nds-nl: Thomas Paine
+    ne: थोमस पेन
+    nl: Thomas Paine
+    nn: Thomas Paine
+    pa: ਥਾਮਸ ਪੇਨ
+    pap: Thomas Paine
+    pl: Thomas Paine
+    pms: Thomas Paine
+    pnb: تھامس پین
+    ps: توماس پېن
+    pt: Thomas Paine
+    pt-br: Thomas Paine
+    ro: Thomas Paine
+    ru: Томас Пейн
+    sco: Thomas Paine
+    sd: ٿامس پئن
+    sh: Thomas Paine
+    sk: Thomas Paine
+    sl: Thomas Paine
+    sq: Thomas Paine
+    sr: Томас Пејн
+    sr-ec: Томас Пејн
+    sr-el: Tomas Pejn
+    sv: Thomas Paine
+    ta: தாமஸ் பெய்ன்
+    te: థామస్ పేన్
+    tg: Томас Пейн
+    tg-latn: Tomas Pejn
+    th: โทมัส เพน
+    tl: Thomas Paine
+    tok: jan Toma Pin
+    tr: Thomas Paine
+    uk: Томас Пейн
+    ur: تھامس پین
+    uz: Thomas Paine
+    vec: Thomas Paine
+    vi: Thomas Paine
+    wa: Thomas Paine
+    war: Thomas Paine
+    wuu: 托马斯·潘恩
+    xmf: ტომას პეინი
+    yo: Thomas Paine
+    yue: 湯瑪斯·潘恩
+    zh: 托马斯·潘恩
+    zh-cn: 托马斯·潘恩
+    zh-hans: 托马斯·潘恩
+    zh-hant: 托馬斯·潘恩
+    zh-hk: 湯瑪士·比恩
+    zh-sg: 托马斯·潘恩
+    zh-tw: 湯瑪斯·潘恩
 ---
-
 # [[Paine,Thomas]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thomas_Paine,126462|WD~Thomas_Paine,126462]]  

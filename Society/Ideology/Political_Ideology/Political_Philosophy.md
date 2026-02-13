@@ -1,24 +1,214 @@
 ---
 aliases:
+- athroniaeth wleidyddol
+- Chèng-tī tiat-ha̍k
+- falsafah politik
+- fealsúnacht pholaitiúil
+- felsefeya siyasetê
+- filosofia politica
+- filosofia politikoa
+- filosofia política
+- Filosofìa polìtica
+- filosofía política
+- Filozofi politik
+- filozofi politike
+- filozofia polityczna
+- filozofie politică
+- filsafat politik
+- Filusufìa pulìtica
+- Filôzôfia pôlitika
+- fiłozofia pułìtega
+- Philosophia politica
+- philosophie politique
+- Pilosopiyang pampulitika
+- poleetical filosofie
+- poliitiline filosoofia
+- poliittinen filosofia
+- poliittlaž filosofia
+- politesch Philosophie
+- political philosophy
+- politická filozofia
+- politická filozofie
+- politieke filosofie
+- politihkalaš filosofiija
+- politika filozofio
+- politikai filozófia
+- politikas filozofija
+- politinė filosofija
+- politische Philosophie
+- politisk filosofi
+- politička filozofija
+- politična filozofija
+- Polletieke filosofie
+- poolitlâš filosofia
+- siyaset felsefesi
+- siyasi fəlsəfə
+- Siyosiy falsafa
+- Stjórnspeki
+- triết học chính trị
+- πολιτική φιλοσοφία
+- палітычная філасофія
+- палітычная філязофія
+- політична філософія
+- политикон философи
+- Политическа философия
+- политическая философия
+- политичка филозофија
+- Саяси философия
+- Сәйәси фәлсәфә
+- сәяси фәлсәфә
+- Улс төрийн гүн ухаан ах
+- фалсафаи сиёсӣ
+- քաղաքական փիլիսոփայություն
+- מחשבה מדינית
+- سياسي فلسفه
+- سیاسی فلسفه
+- سیاسی فلسفہ
+- فلسفة سياسية
+- فلسفه سياسيه
+- فلسفه سیاسی
+- فلسفه ڤوليتيک
+- فەلسەفەی سیاسی
+- राजनीतिक दर्शन
+- রাজনৈতিক দর্শন
+- ৰাজনৈতিক দৰ্শন
+- ਰਾਜਨੀਤਕ ਦਰਸ਼ਨ
+- રાજનૈતિક દર્શન
+- அரசியல் தத்துவம்
+- పాలనా తత్త్వశాస్త్రం
+- ปรัชญาการเมือง
+- პოლიტიკური ფილოსოფია
+- ᱨᱟᱡᱽᱟᱹᱨᱤ ᱧᱮᱱᱮᱞ
+- 政治哲学
+- 政治哲學
+- 정치철학
 has_id_wikidata: Q179805
-topic_has_template: "[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~political_thought,11499141]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Political_philosophy,15664752]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_and_political_philosophy,9176297]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~political_thought,11499141]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Political_philosophy,15664752]]'
 part_of:
-  - "[[_Standards/WikiData/WD~political_studies,15831440]]"
-  - "[[_Standards/WikiData/WD~political_theory_and_political_philosophy,112981240]]"
-  - "[[_Standards/WikiData/WD~social_and_political_philosophy,113001585]]"
-practiced_by: "[[_Standards/WikiData/WD~political_philosopher,18930007]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+- '[[_Standards/WikiData/WD~political_studies,15831440]]'
+- '[[_Standards/WikiData/WD~political_theory_and_political_philosophy,112981240]]'
+- '[[_Standards/WikiData/WD~social_and_political_philosophy,113001585]]'
+practiced_by: '[[_Standards/WikiData/WD~political_philosopher,18930007]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 social_media_followers: 26929
 Library_of_Congress_Classification: B65
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/political-philosophy
 Provenio_UUID: 89122e8a-5ba7-4c56-be2e-43b7dff144b6
 Commons_category: Political philosophy
 subreddit: PoliticalPhilosophy
+dv_has_:
+  name_:
+    af: politieke filosofie
+    ar: فلسفة سياسية
+    arz: فلسفه سياسيه
+    as: ৰাজনৈতিক দৰ্শন
+    ast: filosofía política
+    az: siyasi fəlsəfə
+    azb: سیاسی فلسفه
+    ba: Сәйәси фәлсәфә
+    be: палітычная філасофія
+    be-tarask: палітычная філязофія
+    bg: Политическа философия
+    bn: রাজনৈতিক দর্শন
+    bs: Politička filozofija
+    ca: filosofia política
+    ckb: فەلسەفەی سیاسی
+    cs: politická filozofie
+    cy: athroniaeth wleidyddol
+    da: politisk filosofi
+    de: politische Philosophie
+    el: πολιτική φιλοσοφία
+    en: political philosophy
+    eo: politika filozofio
+    es: filosofía política
+    et: poliitiline filosoofia
+    eu: filosofia politikoa
+    fa: فلسفه سیاسی
+    fi: poliittinen filosofia
+    fr: philosophie politique
+    ga: fealsúnacht pholaitiúil
+    gl: filosofía política
+    gu: રાજનૈતિક દર્શન
+    he: מחשבה מדינית
+    hi: राजनीतिक दर्शन
+    hr: politička filozofija
+    ht: Filozofi politik
+    hu: politikai filozófia
+    hy: քաղաքական փիլիսոփայություն
+    id: filsafat politik
+    is: Stjórnspeki
+    it: filosofia politica
+    ja: 政治哲学
+    ka: პოლიტიკური ფილოსოფია
+    kk: Саяси философия
+    ko: 정치철학
+    ku: felsefeya siyasetê
+    la: Philosophia politica
+    lb: politesch Philosophie
+    li: Polletieke filosofie
+    lt: politinė filosofija
+    lv: politikas filozofija
+    lzh: 政治哲學
+    mg: Filôzôfia pôlitika
+    min: Filsafat politik
+    mk: политичка филозофија
+    mn: Улс төрийн гүн ухаан ах
+    ms: falsafah politik
+    ms-arab: فلسفه ڤوليتيک
+    nan: Chèng-tī tiat-ha̍k
+    nb: politisk filosofi
+    nl: politieke filosofie
+    nn: politisk filosofi
+    oc: Filosofia politica
+    os: политикон философи
+    pa: ਰਾਜਨੀਤਕ ਦਰਸ਼ਨ
+    pl: filozofia polityczna
+    pms: Filosofìa polìtica
+    ps: سياسي فلسفه
+    pt: filosofia política
+    ro: filozofie politică
+    ru: политическая философия
+    sat: ᱨᱟᱡᱽᱟᱹᱨᱤ ᱧᱮᱱᱮᱞ
+    scn: Filusufìa pulìtica
+    sco: poleetical filosofie
+    se: politihkalaš filosofiija
+    sh: Politička filozofija
+    sk: politická filozofia
+    sl: politična filozofija
+    smn: poolitlâš filosofia
+    sms: poliittlaž filosofia
+    sq: filozofi politike
+    sr: политичка филозофија
+    sr-ec: политичка филозофија
+    sr-el: politička filozofija
+    sv: politisk filosofi
+    ta: அரசியல் தத்துவம்
+    te: పాలనా తత్త్వశాస్త్రం
+    tg: фалсафаи сиёсӣ
+    th: ปรัชญาการเมือง
+    tl: Pilosopiyang pampulitika
+    tr: siyaset felsefesi
+    tt: сәяси фәлсәфә
+    uk: політична філософія
+    ur: سیاسی فلسفہ
+    uz: Siyosiy falsafa
+    vec: fiłozofia pułìtega
+    vi: triết học chính trị
+    wuu: 政治哲学
+    yue: 政治哲學
+    zh: 政治哲学
+    zh-cn: 政治哲学
+    zh-hans: 政治哲学
+    zh-hant: 政治哲學
+    zh-hk: 政治哲學
+    zh-mo: 政治哲學
+    zh-my: 政治哲学
+    zh-sg: 政治哲学
+    zh-tw: 政治哲學
 ---
-
 # [[Political_Philosophy]] 
 
 #is_/similar_to :: [[../../Anthropology/Sociology/Political_Science|Political_Science]]  

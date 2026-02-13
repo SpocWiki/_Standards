@@ -1,8 +1,61 @@
 ---
 aliases:
-  - Euneomys
+- Euneomys
+- Patagonische Chinchillamäuse
+- slakevoleem ke Euneomys oxi
+- Szynszylomyszor
+- اونيوميس
+- 巴塔戈尼亚灰鼠属
+- 巴塔戈尼亞灰鼠屬
+- 친칠라생쥐속
 title: Euneomys
 has_id_wikidata: Q910113
+dv_has_:
+  name_:
+    an: Euneomys
+    arz: اونيوميس
+    ast: Euneomys
+    avk: slakevoleem ke Euneomys oxi
+    bg: Euneomys
+    ca: Euneomys
+    ceb: Euneomys
+    de: Patagonische Chinchillamäuse
+    en: Euneomys
+    eo: Euneomys
+    es: Euneomys
+    eu: Euneomys
+    ext: Euneomys
+    fi: Euneomys
+    fr: Euneomys
+    ga: Euneomys
+    gl: Euneomys
+    hu: Euneomys
+    ia: Euneomys
+    ie: Euneomys
+    io: Euneomys
+    it: Euneomys
+    ko: 친칠라생쥐속
+    la: Euneomys
+    mul: Euneomys
+    nl: Euneomys
+    oc: Euneomys
+    pl: Szynszylomyszor
+    pt: Euneomys
+    pt-br: Euneomys
+    ro: Euneomys
+    ru: Euneomys
+    sq: Euneomys
+    sv: Euneomys
+    tr: Euneomys
+    uk: Euneomys
+    vi: Euneomys
+    vo: Euneomys
+    war: Euneomys
+    zh: 巴塔戈尼亞灰鼠屬
+    zh-cn: 巴塔戈尼亚灰鼠属
+    zh-hans: 巴塔戈尼亚灰鼠属
+    zh-hant: 巴塔戈尼亞灰鼠屬
+    zh-hk: 巴塔戈尼亞灰鼠屬
 ---
 # Euneomys
 

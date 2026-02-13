@@ -1,25 +1,51 @@
 ---
 aliases:
-  - Guiana Shield
-  - Plateau des Guyanes
-  - Bouclier guyanais
-  - Hoogland van Guyana
-  - Guianaschild
-  - Planalto das Guianas
-  - Escudo das Guianas
-  - Escudo guayanés
+- Amasonasskjoldet
+- bouclier des Guyanes
+- Bouclier guyanais
+- Escudo das Guianas
+- Escudo guayanés
+- Escudo güianés
+- Escudu guayanés
+- Escut guaianès
+- Guayanaskjoldet
+- Guiana Shield
+- Guianaschild
+- Gujana Ŝildo
+- Guyana Kalkanı
+- Guyana-skjoldet
+- Guyanan ylänkö
+- Guyanaschild
+- Guyanetako ezkutua
+- Gvajanski štit
+- Gvajanski ščit
+- Hoogland van Guyana
+- Khiên Guiana
+- Perisai Guyana
+- Planalto das Guianas
+- Plateau des Guyanes
+- Scudo della Guiana
+- Гвіанський щит
+- Гвајански Штит
+- Гвианский щит
+- שילד גויאנה
+- درع غيانا
+- سپر گویان
+- गयाना शील्ड
+- গায়ানা শিল্ড
+- 圭亚那地盾
 has_id_wikidata: Q9309106
-different_from: "[[_Standards/WikiData/WD~Guiana_Highlands,208807]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Guiana_Highlands,208807]]"
-highest_point: "[[_Standards/WikiData/WD~Pico_da_Neblina,739484]]"
-instance_of: "[[_Standards/WikiData/WD~shield,852013]]"
+different_from: '[[_Standards/WikiData/WD~Guiana_Highlands,208807]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Guiana_Highlands,208807]]'
+highest_point: '[[_Standards/WikiData/WD~Pico_da_Neblina,739484]]'
+instance_of: '[[_Standards/WikiData/WD~shield,852013]]'
 country:
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Suriname,730]]"
-  - "[[_Standards/WikiData/WD~Guyana,734]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
 Commons_category: Guiana Shield
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kukenan%20Tepuy%20at%20Sunset.jpg
 coordinate_location: Point(-60.7625 5.143333333)
@@ -27,25 +53,58 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Guiana+Shield.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Guiana%20shield.png
 dv_is_:
   same_as:
-    - "[[WD~Guiana_Shield,9309106]]"
-    - "[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]"
-    - "[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]"
-    - "[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]"
-    - "[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]"
-    - "[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]"
-    - "[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]"
-    - "[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]"
+  - '[[WD~Guiana_Shield,9309106]]'
+  - '[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]'
+  - '[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]'
+  - '[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]'
+  - '[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]'
+  - '[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]'
+  - '[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]'
+  - '[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]'
 dv_is_same_as:
-  - "[[WD~Guiana_Shield,9309106]]"
-  - "[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]"
-  - "[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]"
-  - "[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]"
-  - "[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]"
-  - "[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]"
-  - "[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]"
-  - "[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]"
+- '[[WD~Guiana_Shield,9309106]]'
+- '[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]'
+- '[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]'
+- '[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]'
+- '[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]'
+- '[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]'
+- '[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]'
+- '[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]'
+dv_has_:
+  name_:
+    ar: درع غيانا
+    ast: Escudu guayanés
+    bn: গায়ানা শিল্ড
+    ca: Escut guaianès
+    da: Guyana-skjoldet
+    en: Guiana Shield
+    eo: Gujana Ŝildo
+    es: Escudo guayanés
+    eu: Guyanetako ezkutua
+    fa: سپر گویان
+    fi: Guyanan ylänkö
+    fr: bouclier des Guyanes
+    gl: Escudo güianés
+    he: שילד גויאנה
+    hi: गयाना शील्ड
+    hr: Gvajanski štit
+    id: Perisai Guyana
+    it: Scudo della Guiana
+    lld: Guiana Shield
+    mk: Гвајански Штит
+    nb: Amasonasskjoldet
+    nl: Guyanaschild
+    nn: Guayanaskjoldet
+    pt: Escudo das Guianas
+    ru: Гвианский щит
+    sco: Guiana Shield
+    sh: Gvajanski štit
+    sl: Gvajanski ščit
+    tr: Guyana Kalkanı
+    uk: Гвіанський щит
+    vi: Khiên Guiana
+    zh: 圭亚那地盾
 ---
-
 # [[Guiana_Shield]] 
 
 #is_/same_as :: [[WD~Guiana_Shield,9309106]]

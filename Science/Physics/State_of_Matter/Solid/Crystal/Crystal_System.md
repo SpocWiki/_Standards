@@ -1,8 +1,57 @@
 ---
 aliases:
-  - crystal system
-  - Crystal_System
-  - Crystal System
+- crystal seestem
+- crystal system
+- Crystal_System
+- Digpakking
+- hệ tinh thể
+- kristal yapı
+- kristalinė gardelė
+- Kristalloqrafik sinqoniya
+- Kristallsystem
+- kristalna sistema
+- Kristalni sistem
+- Kristalni sustav
+- kristalsistemo
+- kristalstelsel
+- kristályrendszer
+- krystallsystem
+- krystalografická soustava
+- Kryštálová sústava
+- singonija
+- Sistem de cristalizare
+- sistem hablur
+- Sistem kristal
+- sistema cristalino
+- sistema cristallino
+- sistema cristallinu
+- sistema cristal·lí
+- Sistema cristalín
+- sistema cristałin
+- Sistema kristalino
+- systema crystallinum
+- système cristallin
+- Sïngonïya
+- Süngoonia
+- układ krystalograficzny
+- Κρυσταλλικό σύστημα
+- кристален систем
+- кристаллическая система
+- кристална система
+- крышталічная сыстэма
+- сінгонія
+- сингонія
+- Сингония
+- Уикипедия:Инкубатор/Статии/Сингония
+- מערכת גבישית
+- دستگاه بلوری
+- سىينگونىييا
+- سيستم هبلور
+- نظام بلوري
+- სინგონია
+- 晶系
+- 結晶系
+- 결정계
 has_id_wikidata: Q898786
 subclass_of: '[[_Standards/WikiData/WD~point_group,899720]]'
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -10,8 +59,74 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Crystal_systems,8085113]]
 Wikidata_property: crystal system
 Commons_category: Crystal structures
 Wolfram_Language_entity_type: CrystalSystem
+dv_has_:
+  name_:
+    af: Digpakking
+    ar: نظام بلوري
+    ast: Sistema cristalín
+    az: Kristalloqrafik sinqoniya
+    be: сінгонія
+    be-tarask: крышталічная сыстэма
+    bg: Уикипедия:Инкубатор/Статии/Сингония
+    bs: Kristalni sistem
+    ca: sistema cristal·lí
+    cs: krystalografická soustava
+    de: Kristallsystem
+    de-ch: Kristallsystem
+    el: Κρυσταλλικό σύστημα
+    en: crystal system
+    en-ca: Crystal system
+    en-gb: crystal system
+    eo: kristalsistemo
+    es: sistema cristalino
+    et: Süngoonia
+    eu: Sistema kristalino
+    fa: دستگاه بلوری
+    fr: système cristallin
+    gl: sistema cristalino
+    he: מערכת גבישית
+    hu: kristályrendszer
+    id: Sistem kristal
+    it: sistema cristallino
+    ja: 結晶系
+    ka: სინგონია
+    kk: Сингония
+    kk-arab: سىينگونىييا
+    kk-cyrl: Сингония
+    kk-latn: Sïngonïya
+    ko: 결정계
+    ky: Сингония
+    la: systema crystallinum
+    lt: kristalinė gardelė
+    lv: singonija
+    mk: кристален систем
+    ms: sistem hablur
+    ms-arab: سيستم هبلور
+    nb: krystallsystem
+    nl: kristalstelsel
+    nn: krystallsystem
+    pl: układ krystalograficzny
+    pt: sistema cristalino
+    pt-br: Sistema cristalino
+    ro: Sistem de cristalizare
+    ru: кристаллическая система
+    scn: sistema cristallinu
+    sco: crystal seestem
+    sh: Kristalni sustav
+    sk: Kryštálová sústava
+    sl: kristalni sistem
+    sr: кристална система
+    sr-ec: кристална система
+    sr-el: kristalna sistema
+    tr: kristal yapı
+    uk: сингонія
+    vec: sistema cristałin
+    vi: hệ tinh thể
+    zh: 晶系
+    zh-hans: 晶系
+    zh-hant: 晶系
+    zh-hk: 晶系
 ---
-
 # [[Crystal_System]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Crystal_system,898786|WD~Crystal_system,898786]] 

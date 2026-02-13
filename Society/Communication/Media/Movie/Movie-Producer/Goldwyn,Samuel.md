@@ -1,34 +1,53 @@
 ---
 aliases:
-  - Samuel_Goldwyn
-  - Szmuel Gelbfisz
-  - שמואל געלבפֿיש
-  - Goldwyn
-  - Samuel Goldwyn
-  - Goldwyn,Samuel
+- Goldwyn
+- Goldwyn,Samuel
+- Samjuel Goldvin
+- Samuel Goldwyn
+- Samuel_Goldwyn
+- Semas Goldvinas
+- Szmuel Gelbfisz
+- Σάμιουελ Γκόλντγουϊν
+- Самюъл Голдуин
+- Семюел Ґолдвін
+- Сэмюэл Голдвин
+- Сэм’юэл Голдўін
+- Սեմյուել Հոլդվին
+- סמואל גולדווין
+- שמואל גלבפֿיש
+- שמואל געלבפֿיש
+- ساموئل گلدوین
+- صمويل جولدوين
+- صمويل غولدوين
+- স্যামুয়েল গোল্ডউইন
+- ਸੈਮੂਅਲ ਗੋਲਡਵਿਨ
+- శామ్యూల్ గోల్డ్విన్
+- サミュエル・ゴールドウィン
+- 塞缪尔·高德温
+- 새뮤얼 골드윈
 has_id_wikidata: Q72579
 name_in_native_language:
-  - Szmuel Gelbfisz
-  - שמואל געלבפֿיש
+- Szmuel Gelbfisz
+- שמואל געלבפֿיש
 work_period_start_: 1917-01-01T00:00:00Z
 owner_of:
-  - '[[_Standards/WikiData/WD~Goldwyn_Pictures,179922]]'
-  - '[[_Standards/WikiData/WD~Jesse_L._Lasky_Feature_Play_Company,57315094]]'
+- '[[_Standards/WikiData/WD~Goldwyn_Pictures,179922]]'
+- '[[_Standards/WikiData/WD~Jesse_L._Lasky_Feature_Play_Company,57315094]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 relative: '[[_Standards/WikiData/WD~Tony_Goldwyn,224754]]'
 professional_partner:
-  - '[[_Standards/WikiData/WD~Louis_B._Mayer,319682]]'
-  - '[[_Standards/WikiData/WD~Marcus_Loew,1373662]]'
+- '[[_Standards/WikiData/WD~Louis_B._Mayer,319682]]'
+- '[[_Standards/WikiData/WD~Marcus_Loew,1373662]]'
 spouse: '[[_Standards/WikiData/WD~Frances_Howard,623123]]'
 given_name: '[[_Standards/WikiData/WD~Samuel,629347]]'
 nominated_for: '[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 child: '[[_Standards/WikiData/WD~Samuel_Goldwyn_Jr.,3946621]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -38,15 +57,15 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 date_of_birth:
-  - 1882-08-17T00:00:00Z
-  - 1879-07-01T00:00:00Z
+- 1882-08-17T00:00:00Z
+- 1879-07-01T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Warsaw,270]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 Commons_category: Samuel Goldwyn
 Libris_URI: nl025v264ss2npz
@@ -55,8 +74,66 @@ work_period_end_: 1953-01-01T00:00:00Z
 U_S_National_Archives_Identifier: 10568382
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Goldwyn%20-%20Jul%201919%20EH.jpg
 ISNI: 0000000083793990
+dv_has_:
+  name_:
+    an: Samuel Goldwyn
+    ar: صمويل غولدوين
+    arz: صمويل جولدوين
+    ast: Samuel Goldwyn
+    be-tarask: Сэм’юэл Голдўін
+    bg: Самюъл Голдуин
+    bn: স্যামুয়েল গোল্ডউইন
+    ca: Samuel Goldwyn
+    cs: Samuel Goldwyn
+    cy: Samuel Goldwyn
+    da: Samuel Goldwyn
+    de: Samuel Goldwyn
+    el: Σάμιουελ Γκόλντγουϊν
+    en: Samuel Goldwyn
+    en-ca: Samuel Goldwyn
+    en-gb: Samuel Goldwyn
+    eo: Samuel Goldwyn
+    es: Samuel Goldwyn
+    eu: Samuel Goldwyn
+    fa: ساموئل گلدوین
+    fi: Samuel Goldwyn
+    fr: Samuel Goldwyn
+    ga: Samuel Goldwyn
+    gl: Samuel Goldwyn
+    he: סמואל גולדווין
+    hr: Samuel Goldwyn
+    hu: Samuel Goldwyn
+    hy: Սեմյուել Հոլդվին
+    id: Samuel Goldwyn
+    it: Samuel Goldwyn
+    ja: サミュエル・ゴールドウィン
+    ko: 새뮤얼 골드윈
+    lt: Semas Goldvinas
+    mg: Samuel Goldwyn
+    nb: Samuel Goldwyn
+    nl: Samuel Goldwyn
+    nn: Samuel Goldwyn
+    oc: Samuel Goldwyn
+    pa: ਸੈਮੂਅਲ ਗੋਲਡਵਿਨ
+    pap: Samuel Goldwyn
+    pl: Samuel Goldwyn
+    pt: Samuel Goldwyn
+    pt-br: Samuel Goldwyn
+    ro: Samuel Goldwyn
+    ru: Сэмюэл Голдвин
+    sh: Samuel Goldwyn
+    sl: Samuel Goldwyn
+    sq: Samuel Goldwyn
+    sr: Samjuel Goldvin
+    sv: Samuel Goldwyn
+    te: శామ్యూల్ గోల్డ్విన్
+    tr: Samuel Goldwyn
+    uk: Семюел Ґолдвін
+    vi: Samuel Goldwyn
+    war: Samuel Goldwyn
+    yi: שמואל גלבפֿיש
+    zh: 塞缪尔·高德温
 ---
-
 # [[Goldwyn,Samuel]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Samuel_Goldwyn,72579|WD~Samuel_Goldwyn,72579]]  

@@ -1,8 +1,46 @@
 ---
 aliases:
-  - Crossandrella
+- Crossandrella
 title: Crossandrella dusenii
 has_id_wikidata: Q8351878
+dv_has_:
+  name_:
+    an: Crossandrella
+    ast: Crossandrella
+    bg: Crossandrella
+    ca: Crossandrella
+    ceb: Crossandrella
+    de: Crossandrella
+    en: Crossandrella
+    eo: Crossandrella
+    es: Crossandrella
+    eu: Crossandrella
+    ext: Crossandrella
+    fi: Crossandrella
+    fr: Crossandrella
+    ga: Crossandrella
+    gl: Crossandrella
+    hr: Crossandrella
+    ia: Crossandrella
+    ie: Crossandrella
+    io: Crossandrella
+    it: Crossandrella
+    la: Crossandrella
+    mul: Crossandrella
+    nl: Crossandrella
+    oc: Crossandrella
+    pl: Crossandrella
+    pt: Crossandrella
+    pt-br: Crossandrella
+    ro: Crossandrella
+    ru: Crossandrella
+    sq: Crossandrella
+    sv: Crossandrella
+    th: Crossandrella
+    uk: Crossandrella
+    vi: Crossandrella
+    vo: Crossandrella
+    war: Crossandrella
 ---
 ## [[Crossandrella]] 
 

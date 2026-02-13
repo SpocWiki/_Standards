@@ -1,7 +1,34 @@
 ---
 aliases:
-  - Brahman_Cattle
-  - Brahman Cattle
+- Amerikan Brahman
+- Brahma marha
+- Brahman
+- Brahman (gado)
+- Brahman (ko)
+- Brahman behi
+- Brahman Cattle
+- Brahmane
+- Brahmansko govedo
+- brahmanský skot
+- Brahman_Cattle
+- brahmoa bovo
+- Bramansko govedo
+- Bò Brahman
+- Jawi brahman
+- Sapi brahman
+- брагман
+- Брахман
+- Բրահման (ցեղատեսակ)
+- بقر براهمان
+- ماشية براهمان
+- ٿوهي دار ڍڳو
+- अमेरिकी ब्राह्मण
+- ब्राह्मण गाय
+- ব্রাহ্মণ (গরুর জাত)
+- பிரம்மன் மாடு
+- ブラーマン種
+- 婆罗门牛
+- 布拉曼牛
 has_id_wikidata: Q897314
 instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -9,8 +36,44 @@ subclass_of: '[[_Standards/WikiData/WD~hybrid,42621]]'
 Commons_category: Brahman cattle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BrahmaBullFeria09.JPG
 Commons_gallery: Brahman (cattle)
+dv_has_:
+  name_:
+    af: Brahman
+    ar: ماشية براهمان
+    arz: بقر براهمان
+    be-tarask: брагман
+    bn: ব্রাহ্মণ (গরুর জাত)
+    ca: Brahman
+    cs: brahmanský skot
+    de: Brahman
+    en: Brahman cattle
+    eo: brahmoa bovo
+    es: Brahman
+    eu: Brahman behi
+    fr: Brahmane
+    fy: Brahman (ko)
+    gl: Brahman
+    hi: अमेरिकी ब्राह्मण
+    hr: Brahmansko govedo
+    hu: Brahma marha
+    hy: Բրահման (ցեղատեսակ)
+    id: Sapi brahman
+    it: Brahman
+    ja: ブラーマン種
+    min: Jawi brahman
+    mr: ब्राह्मण गाय
+    nl: Brahman
+    pt: Brahman (gado)
+    ru: Брахман
+    sd: ٿوهي دار ڍڳو
+    sr: Bramansko govedo
+    ta: பிரம்மன் மாடு
+    tr: Amerikan Brahman
+    uk: Брахман
+    vi: Bò Brahman
+    yue: 布拉曼牛
+    zh: 婆罗门牛
 ---
-
 # [[Brahman_Cattle]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brahman_cattle,897314|WD~Brahman_cattle,897314]] 

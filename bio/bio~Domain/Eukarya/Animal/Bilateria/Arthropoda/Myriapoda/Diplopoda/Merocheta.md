@@ -1,8 +1,77 @@
 ---
 aliases:
-  - Merocheta
+- Banddubbelfotingar
+- Bandfüßer
+- Jááłánii biziiz łání
+- Karimás ikerszelvényes-alakúak
+- Merocheta
+- ploske kačice
+- Polidèsmides
+- Polydesmida
+- Çoxbağlılar
+- многосвязы
+- متعددة الأربطة
+- متعددة الاربطه
+- オビヤスデ目
+- 多带马陆目
+- 帶馬陸目
+- 띠노래기목
 title: Polydesmida
 has_id_wikidata: Q282015
+dv_has_:
+  name_:
+    an: Polydesmida
+    ar: متعددة الأربطة
+    arz: متعددة الاربطه
+    ast: Polydesmida
+    az: Çoxbağlılar
+    bg: Polydesmida
+    ca: Polidèsmides
+    ceb: Polydesmida
+    cs: Polydesmida
+    de: Bandfüßer
+    el: Polydesmida
+    en: Polydesmida
+    eo: Polydesmida
+    es: Polydesmida
+    eu: Polydesmida
+    ext: Polydesmida
+    fi: Polydesmida
+    fr: Polydesmida
+    ga: Polydesmida
+    gl: Polydesmida
+    hu: Karimás ikerszelvényes-alakúak
+    ia: Polydesmida
+    id: Polydesmida
+    ie: Polydesmida
+    io: Polydesmida
+    it: Polydesmida
+    ja: オビヤスデ目
+    ko: 띠노래기목
+    la: Polydesmida
+    mul: Polydesmida
+    nb: Polydesmida
+    nl: Polydesmida
+    nn: Polydesmida
+    nv: Jááłánii biziiz łání
+    oc: Polydesmida
+    pl: Polydesmida
+    pt: Polydesmida
+    pt-br: Polydesmida
+    ro: Polydesmida
+    ru: многосвязы
+    sl: ploske kačice
+    sq: Polydesmida
+    sv: Banddubbelfotingar
+    tr: Polydesmida
+    uk: Polydesmida
+    vi: Polydesmida
+    vo: Polydesmida
+    war: Polydesmida
+    zh: 多带马陆目
+    zh-cn: 多带马陆目
+    zh-hans: 多带马陆目
+    zh-tw: 帶馬陸目
 ---
 ## [[Merocheta]] 
 

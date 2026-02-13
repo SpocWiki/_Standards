@@ -1,8 +1,94 @@
 ---
 has_id_wikidata: Q929105
+dv_has_:
+  name_:
+    an: Anguimorpha
+    ar: بدغيات الشكل
+    arz: بدغيات الشكل
+    ast: Anguimorpha
+    az: Koramalkimilər
+    bg: Anguimorpha
+    ca: Anguimorpha
+    ceb: Anguimorpha
+    cs: Anguimorpha
+    cv: Туй калта евĕрлисем
+    de: Schleichenartige
+    el: Anguimorpha
+    en: Anguimorpha
+    eo: Anguimorpha
+    es: Anguimorpha
+    eu: Anguimorpha
+    ext: Anguimorpha
+    fa: مارمولکریختان
+    fi: vaskitsamaiset
+    fr: Anguimorpha
+    frr: Anguimorpha
+    ga: Anguimorpha
+    gl: Anguimorfos
+    he: דמויי קמטן
+    hi: ऐंगुइमोर्फा
+    hu: lábatlangyík-alakúak
+    ia: Anguimorpha
+    ie: Anguimorpha
+    io: Anguimorpha
+    it: Anguimorpha
+    ja: オオトカゲ下目
+    ko: 무족도마뱀류
+    la: Anguimorpha
+    lv: Glodeņveidīgie
+    mk: слепоколики
+    mrj: Той шӓкшӓльӹ ганьывлӓ
+    mul: Anguimorpha
+    nb: Anguimorpha
+    nl: Anguimorpha
+    nv: Tiníléí dóó bikʼéí
+    oc: Anguimorpha
+    pl: Autarchoglossa
+    pt: Anguimorpha
+    pt-br: Anguimorpha
+    ro: Anguimorpha
+    ru: Веретеницеобразные
+    sco: Anguimorpha
+    sk: Slepúchy
+    sl: Anguimorpha
+    sq: Anguimorpha
+    sr: Anguimorpha
+    sv: Anguimorpha
+    uk: Anguimorpha
+    vi: Anguimorpha
+    vo: Anguimorpha
+    war: Anguimorpha
+    zh: 蛇蜥亚目
+    zh-cn: 蛇蜥亚目
+    zh-hans: 蛇蜥亚目
+    zh-hant: 蛇蜥下目
+    zh-hk: 蛇蜥下目
+    zh-tw: 蛇蜥亞目
+aliases:
+- Anguimorfos
+- Anguimorpha
+- Autarchoglossa
+- Glodeņveidīgie
+- Koramalkimilər
+- lábatlangyík-alakúak
+- Schleichenartige
+- Slepúchy
+- Tiníléí dóó bikʼéí
+- vaskitsamaiset
+- Веретеницеобразные
+- слепоколики
+- Той шӓкшӓльӹ ганьывлӓ
+- Туй калта евĕрлисем
+- דמויי קמטן
+- بدغيات الشكل
+- مارمولکریختان
+- ऐंगुइमोर्फा
+- オオトカゲ下目
+- 蛇蜥下目
+- 蛇蜥亚目
+- 蛇蜥亞目
+- 무족도마뱀류
 ---
-
-
 # [[Anguimorpha]] 
 
 

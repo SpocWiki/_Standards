@@ -1,25 +1,46 @@
 ---
 aliases:
-  - Open Media Database
-  - OMDB
+- OMDB
+- Open Media Database
+- Адкрытая база мэдыязьвестак
+- قاعدة بيانات الوسائط المفتوحة
+- オープン・メディア・データベース
+- 开放媒体数据库
 has_id_wikidata: Q27653527
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_2.0_Germany,75466259]]"
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_2.0_Germany,75466259]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~online_film_database,130735522]]"
-  - "[[_Standards/WikiData/WD~website,35127]]"
+- '[[_Standards/WikiData/WD~online_film_database,130735522]]'
+- '[[_Standards/WikiData/WD~website,35127]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 main_Wikidata_property:
-  - Open Media Database film ID
-  - Open Media Database person ID
+- Open Media Database film ID
+- Open Media Database person ID
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Omdb-logo.png
 official_website: https://www.omdb.org/
+dv_has_:
+  name_:
+    ar: قاعدة بيانات الوسائط المفتوحة
+    be-tarask: Адкрытая база мэдыязьвестак
+    ca: Open Media Database
+    da: Open Media Database
+    de: Open Media Database
+    en: Open Media Database
+    es: Open Media Database
+    it: Open Media Database
+    ja: オープン・メディア・データベース
+    nl: Open Media Database
+    nn: Open Media Database
+    ru: Open Media Database
+    sl: Open Media Database
+    sv: Open Media Database
+    uk: Open Media Database
+    zh-hans: 开放媒体数据库
 ---
-
 # [[OMDB(Open_Media_Database)]] 
 
 #is_/similar_to :: [[IMDb(Internet_Movie_Database)]] 

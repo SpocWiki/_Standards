@@ -1,8 +1,168 @@
 ---
 aliases:
-  - Fields Medal
-  - Fields_Medal
+- Bonn Fields
+- Fields Chióng
+- Fields Domina
+- Fields madalyası
+- Fields Medal
+- Fields medali
+- Fields-Medaille
+- Fields-Medalio
+- Fields-medalje
+- Fields-érem
+- Fieldsi medal
+- Fieldsin mitali
+- Fieldsmedaljen
+- Fieldsova medaila
+- Fieldsova medaile
+- Fieldsova medalja
+- Fields_Medal
+- Filds medalı
+- Fildso medalis
+- Fīldsa prēmija
+- Gwobrau Fields
+- Huy chương Fields
+- medaglia Fields
+- Medal Fieldsa
+- Medalha Fields
+- Medali Fields
+- Medalia Fields
+- Medalja Fields
+- Medalla Fields
+- Medalo Fields
+- Medaya Fields
+- Midagghia Fields
+- médaille Fields
+- Numisma Fields
+- Pingat Fields
+- μετάλλιο Φιλντς
+- медаль Філдса
+- Філдсаўская прэмія
+- Филдс медалі
+- Филдс медалы
+- Филдс премияһы
+- Филдсов медал
+- Филдсова медаља
+- Филдсовская премия
+- Филдсы преми
+- Фильдсийн медаль
+- Ֆիլդսյան մրցանակ
+- Ֆիլտց պարգեւ
+- מדליית פילדס
+- خەڵاتی فیڵدز
+- فیلڈز انعام
+- فیلڈز میڈل
+- مدال فیلدز
+- ميدالية فيلدز
+- फिल्ड पुरस्कार
+- फील्ड्स मेडल
+- फील्ड्स् पदकप्रशस्तिः
+- ফিল্ডছ মেডেল
+- ফিল্ডস পদক
+- ਫ਼ੀਲਡਜ਼ ਤਗਮਾ
+- ஃபீல்ட்ஸ் பதக்கம்
+- ఫీల్డ్స్ పతకం
+- ಫೀಲ್ಡ್ಸ್ ಮೆಡಲ್
+- ഫീൽഡ്സ് മെഡൽ
+- เหรียญฟีลดส์
+- ဖီး ဆုတံဆိပ်
+- ფილდზის მედალი
+- ფილდსიშ მენდალი
+- フィールズ賞
+- 菲尔兹奖
+- 菲爾茲獎
+- 필즈상
 has_id_wikidata: Q28835
+dv_has_:
+  name_:
+    af: Fields-medalje
+    ar: ميدالية فيلدز
+    as: ফিল্ডছ মেডেল
+    ast: Medaya Fields
+    az: Filds medalı
+    ba: Филдс премияһы
+    be: Філдсаўская прэмія
+    bg: Филдсов медал
+    bho: फील्ड्स मेडल
+    bn: ফিল্ডস পদক
+    bs: Fieldsova medalja
+    ca: Medalla Fields
+    ckb: خەڵاتی فیڵدز
+    cs: Fieldsova medaile
+    cy: Gwobrau Fields
+    da: Fieldsmedaljen
+    de: Fields-Medaille
+    el: μετάλλιο Φιλντς
+    en: Fields medal
+    en-ca: Fields Medal
+    en-gb: Fields Medal
+    eo: Medalo Fields
+    es: Medalla Fields
+    et: Fieldsi medal
+    eu: Fields Domina
+    fa: مدال فیلدز
+    fi: Fieldsin mitali
+    fr: médaille Fields
+    ga: Bonn Fields
+    gl: Medalla Fields
+    he: מדליית פילדס
+    hi: फील्ड्स मेडल
+    hu: Fields-érem
+    hy: Ֆիլդսյան մրցանակ
+    hyw: Ֆիլտց պարգեւ
+    id: Medali Fields
+    io: Fields-Medalio
+    it: medaglia Fields
+    ja: フィールズ賞
+    ka: ფილდზის მედალი
+    kk: Филдс медалі
+    kn: ಫೀಲ್ಡ್ಸ್ ಮೆಡಲ್
+    ko: 필즈상
+    ky: Филдс медалы
+    la: Numisma Fields
+    lt: Fildso medalis
+    lv: Fīldsa prēmija
+    mk: Филдсов медал
+    ml: ഫീൽഡ്സ് മെഡൽ
+    mn: Фильдсийн медаль
+    ms: Pingat Fields
+    my: ဖီး ဆုတံဆိပ်
+    nan: Fields Chióng
+    nb: Fieldsmedaljen
+    ne: फिल्ड पुरस्कार
+    nl: Fields-medaille
+    nn: Fieldsmedaljen
+    oc: Medalha Fields
+    os: Филдсы преми
+    pa: ਫ਼ੀਲਡਜ਼ ਤਗਮਾ
+    pl: Medal Fieldsa
+    pnb: فیلڈز میڈل
+    pt: Medalha Fields
+    pt-br: Medalha Fields
+    ro: Medalia Fields
+    ru: Филдсовская премия
+    sa: फील्ड्स् पदकप्रशस्तिः
+    scn: Midagghia Fields
+    sk: Fieldsova medaila
+    sl: Fieldsova medalja
+    sq: Medalja Fields
+    sr: Филдсова медаља
+    sv: Fieldsmedaljen
+    ta: ஃபீல்ட்ஸ் பதக்கம்
+    te: ఫీల్డ్స్ పతకం
+    th: เหรียญฟีลดส์
+    tr: Fields madalyası
+    uk: медаль Філдса
+    ur: فیلڈز انعام
+    uz: Fields medali
+    vi: Huy chương Fields
+    wuu: 菲尔兹奖
+    xmf: ფილდსიშ მენდალი
+    yue: 菲爾茲獎
+    zh: 菲尔兹奖
+    zh-cn: 菲尔兹奖
+    zh-hans: 菲尔兹奖
+    zh-hant: 菲爾茲獎
 ---
 #is_/similar_to :: [[Abel_Prize]] 
 

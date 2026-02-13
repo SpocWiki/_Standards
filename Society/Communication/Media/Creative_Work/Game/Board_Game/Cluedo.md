@@ -1,11 +1,23 @@
 ---
 aliases:
-  - Cluedo
+- Clue
+- Cluedo
+- Detetive
+- Клуедо
+- Клуэда
+- Клюдо
+- הרמז
+- سرنخ
+- كلودو
+- คลูโด
+- クルード
+- 妙探尋兇
+- 클루
 has_id_wikidata: Q17245
 instance_of: '[[_Standards/WikiData/WD~board_game,131436]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Clue,398601]]'
-  - '[[_Standards/WikiData/WD~Cluedo,25194596]]'
+- '[[_Standards/WikiData/WD~Clue,398601]]'
+- '[[_Standards/WikiData/WD~Cluedo,25194596]]'
 derivative_work: '[[_Standards/WikiData/WD~Clue,558795]]'
 publisher: '[[_Standards/WikiData/WD~Miro_Company,3316086]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Anthony_E._Pratt,4772439]]'
@@ -13,18 +25,18 @@ main_subject: '[[_Standards/WikiData/WD~crime_fiction,5937792]]'
 media_franchise: '[[_Standards/WikiData/WD~Cluedo,55607812]]'
 part_of_the_series: '[[_Standards/WikiData/WD~Cluedo,55607812]]'
 characters:
-  - '[[_Standards/WikiData/WD~Professor_Plum,62063382]]'
-  - '[[_Standards/WikiData/WD~Miss_Scarlett,118242418]]'
-  - '[[_Standards/WikiData/WD~Mrs._Peacock,118244417]]'
-  - '[[_Standards/WikiData/WD~Colonel_Mustard,118245884]]'
-  - '[[_Standards/WikiData/WD~Mrs._White,118246990]]'
-  - '[[_Standards/WikiData/WD~Reverend_Green,118247148]]'
-  - '[[_Standards/WikiData/WD~Dr._Orchid,118247311]]'
-  - '[[_Standards/WikiData/WD~Dr._Black,118247387]]'
+- '[[_Standards/WikiData/WD~Professor_Plum,62063382]]'
+- '[[_Standards/WikiData/WD~Miss_Scarlett,118242418]]'
+- '[[_Standards/WikiData/WD~Mrs._Peacock,118244417]]'
+- '[[_Standards/WikiData/WD~Colonel_Mustard,118245884]]'
+- '[[_Standards/WikiData/WD~Mrs._White,118246990]]'
+- '[[_Standards/WikiData/WD~Reverend_Green,118247148]]'
+- '[[_Standards/WikiData/WD~Dr._Orchid,118247311]]'
+- '[[_Standards/WikiData/WD~Dr._Black,118247387]]'
 genre: '[[_Standards/WikiData/WD~investigation_game,112966988]]'
 narrative_location:
-  - '[[_Standards/WikiData/WD~Lab,123301895]]'
-  - '[[_Standards/WikiData/WD~Library,123301945]]'
+- '[[_Standards/WikiData/WD~Lab,123301895]]'
+- '[[_Standards/WikiData/WD~Library,123301945]]'
 takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Clueniverse,123301901]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
@@ -35,8 +47,57 @@ publication_date: 1949-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/CLUE%20logo.png
 official_website: http://www.hasbro.com/clue/
 title: Cluedo
+dv_has_:
+  name_:
+    ar: كلودو
+    ast: Cluedo
+    bar: Cluedo
+    be-tarask: Клуэда
+    bg: Клюдо
+    ca: Cluedo
+    cy: Cluedo
+    da: Cluedo
+    de: Cluedo
+    de-at: Cluedo
+    de-ch: Cluedo
+    en: Cluedo
+    en-ca: Clue
+    en-gb: Cluedo
+    eo: Clue
+    es: Cluedo
+    eu: Cluedo
+    fa: سرنخ
+    fi: Cluedo
+    fr: Cluedo
+    gl: Cluedo
+    he: הרמז
+    hu: Cluedo
+    id: Cluedo
+    io: Cluedo
+    is: Cluedo
+    it: Cluedo
+    ja: クルード
+    ko: 클루
+    lt: Cluedo
+    lv: Cluedo
+    mk: Клуедо
+    ms: Cluedo
+    nb: Cluedo
+    nl: Cluedo
+    oc: Cluedo
+    pl: Cluedo
+    pt: Detetive
+    ro: Cluedo
+    ru: Cluedo
+    sl: Cluedo
+    sr: Клуедо
+    sv: Cluedo
+    th: คลูโด
+    tr: Cluedo
+    uk: Cluedo
+    yue: 妙探尋兇
+    zh: 妙探尋兇
 ---
-
 # [[Cluedo]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cluedo,17245|WD~Cluedo,17245]] 

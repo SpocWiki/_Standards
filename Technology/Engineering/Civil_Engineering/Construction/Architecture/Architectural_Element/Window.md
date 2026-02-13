@@ -1,34 +1,171 @@
 ---
 aliases:
+- ablak
+- aken
+- awang
+- Bintana
+- Cendhéla
+- Conghcueng
+- cửa sổ
+- Dariishad
+- Dirisha
+- dritare
+- Dungawan
+- Empelua
+- F'nêt'
+- Fafitera
+- Fenesta
+- Fenestra
+- fenestro
+- Fenster
+- Fenèstra
+- Fenèt
+- fenêtre
+- fereastră
+- Ffenestr
+- fiestra
+- finestra
+- finiesse
+- Finster
+- Firidâ
+- Fnèstra
+- fuinneog
+- Fèrèsé
+- Fënster
+- fönster
+- Gluggi
+- Ifestile
+- ikkuna
+- ikkân
+- jandéla
+- janela
+- jendela
+- Jendelo
+- klaase
+- Kāng-muòng-giāng
+- laasâ
+- Lalungkang
+- langas
+- leiho
+- Lininísa
+- logs
+- Longs
+- láse
+- nèla
+- Ohere
+- okno
+- Osapwakan
+- Ovetã
+- Pencere
+- Prenestr
+- prozor
+- Pəncərə
+- Sasingaran
+- sasinglan
+- Taga
+- takole
+- Takoro
+- Tazewwut
+- Thang
+- tingkap
+- tingkok
+- täräzä
+- Uinneag
+- Veister
+- venster
+- ventana
+- vienster
+- vindauge
+- vindu
+- vindue
+- vinndek
+- Windae
+- window
+- Wintana
+- wokno
+- Ēagduru
+- παράθυρο
+- акно
+- вікно
+- вакно
+- кор
+- окно
+- прозор
+- прозорец
+- Сонхо
+- Терезе
+- Терз
+- Тиреза
+- Түннүк
+- тәрәзә
+- тәҙрә
+- тӧрза
+- Чӳрече
+- эххкан
+- պատուհան
+- חלון
+- פענסטער
+- آبشکه
+- باری
+- دري
+- شباك
+- نافذة
+- پنجره
+- پەنجەرە
+- کړکۍ
+- کھڑکی
+- ܟܘܬܐ
+- खिडकी
+- खिड़की
+- झ्याः
+- झ्याल
+- জানালা
+- ਖਿੜਕੀ
+- சாளரம்
+- కిటికీ
+- ಕಂಡಿ
+- ಕಿಟಕಿ
+- หน้าต่าง
+- ပြတင်းပေါက်
+- ၽၵ်းတူႁူးလႅင်း
+- ფანჯარა
+- መስኮት
+- ᡶᠠ
+- ᱠᱷᱤᱲᱠᱤ
+- 格子
+- 牖
+- 窓
+- 窗
+- 창문
 has_id_wikidata: Q35473
 part_of:
-  - "[[_Standards/WikiData/WD~façade,183061]]"
-  - "[[_Standards/WikiData/WD~house,3947]]"
-  - "[[_Standards/WikiData/WD~door,36794]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
+- '[[_Standards/WikiData/WD~façade,183061]]'
+- '[[_Standards/WikiData/WD~house,3947]]'
+- '[[_Standards/WikiData/WD~door,36794]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
-  - "[[_Standards/WikiData/WD~bay,2879412]]"
-  - "[[_Standards/WikiData/WD~separator,135899982]]"
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[../../../../../../WikiData/WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~bay,2879412]]'
+- '[[_Standards/WikiData/WD~separator,135899982]]'
 has_use:
-  - "[[_Standards/WikiData/WD~ventilation,584049]]"
-  - "[[_Standards/WikiData/WD~view,2075301]]"
-  - "[[_Standards/WikiData/WD~daylighting,54316]]"
+- '[[_Standards/WikiData/WD~ventilation,584049]]'
+- '[[_Standards/WikiData/WD~view,2075301]]'
+- '[[_Standards/WikiData/WD~daylighting,54316]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Okno,15689935]]"
-made_from_material: "[[_Standards/WikiData/WD~glass,11469]]"
-Nomenclature_for_Museum_Cataloging: "150"
-OmegaWiki_Defined_Meaning: "5932"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Okno,15689935]]'
+made_from_material: '[[_Standards/WikiData/WD~glass,11469]]'
+Nomenclature_for_Museum_Cataloging: 150
+OmegaWiki_Defined_Meaning: 5932
 Commons_category: Windows
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Santorin%20%28GR%29%2C%20Fira%20--%202017%20--%202624.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gordijnen%20aan%20venster.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%BD%20Berl%C3%ADn%201084u.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Santorin%20%28GR%29%2C%20Fira%20--%202017%20--%202624.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gordijnen%20aan%20venster.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mal%C3%BD%20Berl%C3%ADn%201084u.jpg
 Iconclass_notation: 41A33
 Commons_gallery: Window
 hashtag: window
@@ -38,13 +175,183 @@ Danbooru_tag: window
 view: http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Brigittines%2006.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BE%D0%BA%D0%BD%D0%BE.ogg
 Dewey_Decimal_Classification:
-  - "721.0448"
-  - "721.823"
+- 721.0448
+- 721.823
 IEV_number: 845-29-140
 name_in_kana: まど
-Unicode_character: 🪟
+Unicode_character: "\U0001FA9F"
+dv_has_:
+  name_:
+    af: venster
+    am: መስኮት
+    ami: Sasingaran
+    an: Finestra
+    ang: Ēagduru
+    ar: نافذة
+    arc: ܟܘܬܐ
+    arz: شباك
+    ast: Ventana
+    atj: Osapwakan
+    az: Pəncərə
+    ba: тәҙрә
+    ban: Jendelo
+    bcl: Bintana
+    be: акно
+    be-tarask: вакно
+    bg: Прозорец
+    bho: खिड़की
+    bjn: Lalungkang
+    bn: জানালা
+    br: Prenestr
+    bs: Prozor
+    bxr: Сонхо
+    ca: finestra
+    cdo: Kāng-muòng-giāng
+    ce: кор
+    ceb: Bintana
+    ckb: پەنجەرە
+    cs: okno
+    cv: Чӳрече
+    cy: Ffenestr
+    da: vindue
+    dag: Takoro
+    de: Fenster
+    de-ch: Fenster
+    dsb: Wokno
+    el: παράθυρο
+    eml: Fnèstra
+    en: window
+    en-ca: window
+    en-gb: window
+    eo: fenestro
+    es: ventana
+    et: aken
+    eu: leiho
+    fa: پنجره
+    fi: ikkuna
+    fr: fenêtre
+    fy: Finster
+    ga: fuinneog
+    gan: 格子
+    gd: Uinneag
+    gl: fiestra
+    gn: Ovetã
+    gur: takole
+    ha: Taga
+    he: חלון
+    hi: खिड़की
+    hr: prozor
+    hsb: wokno
+    ht: Fenèt
+    hu: ablak
+    hy: պատուհան
+    iba: Empelua
+    id: jendela
+    ig: Ohere
+    io: Fenestro
+    is: Gluggi
+    it: finestra
+    ja: 窓
+    jv: Cendhéla
+    ka: ფანჯარა
+    kab: Tazewwut
+    kg: nèla
+    kk: Терезе
+    kn: ಕಿಟಕಿ
+    ko: 창문
+    ku: Pencere
+    ky: Терезе
+    la: Fenestra
+    lb: Fënster
+    lmo: Fenestra
+    ln: Lininísa
+    lt: langas
+    lv: logs
+    lzh: 牖
+    mhr: тӧрза
+    min: tingkok
+    mk: прозорец
+    mnc: ᡶᠠ
+    mr: खिडकी
+    ms: tingkap
+    my: ပြတင်းပေါက်
+    mzn: آبشکه
+    nan: Thang
+    nap: Fenesta
+    nb: vindu
+    nds: Finster
+    nds-nl: vienster
+    ne: झ्याल
+    new: झ्याः
+    nl: venster
+    nn: vindauge
+    nrm: F'nêt'
+    oc: Fenèstra
+    pa: ਖਿੜਕੀ
+    pam: awang
+    pl: okno
+    pnb: باری
+    ps: کړکۍ
+    pt: janela
+    pt-br: janela
+    qu: Wintana
+    ro: fereastră
+    ru: окно
+    rup: Firidâ
+    sah: Түннүк
+    sat: ᱠᱷᱤᱲᱠᱤ
+    sc: Ventana
+    scn: Finestra
+    sco: Windae
+    sd: دري
+    se: láse
+    sgs: Longs
+    sh: prozor
+    shn: ၽၵ်းတူႁူးလႅင်း
+    sjd: эххкан
+    sk: okno
+    sl: okno
+    sma: klaase
+    smj: vinndek
+    smn: laasâ
+    sms: ikkân
+    sn: Fafitera
+    so: Dariishad
+    sq: dritare
+    sr: прозор
+    sr-ec: прозор
+    sr-el: prozor
+    su: jandéla
+    sv: fönster
+    sw: Dirisha
+    szy: sasinglan
+    ta: சாளரம்
+    tcy: ಕಂಡಿ
+    te: కిటికీ
+    tg: Тиреза
+    th: หน้าต่าง
+    tl: Dungawan
+    tr: pencere
+    tt: тәрәзә
+    tt-cyrl: тәрәзә
+    tt-latn: täräzä
+    uk: вікно
+    ur: کھڑکی
+    vec: fenestra
+    vi: cửa sổ
+    vls: Veister
+    wa: finiesse
+    wuu: 窗
+    xal: Терз
+    xh: Ifestile
+    yi: פענסטער
+    yo: Fèrèsé
+    yue: 窗
+    za: Conghcueng
+    zh: 窗
+    zh-hans: 窗
+    zh-hant: 窗
 ---
-
 # [[Window]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Window,35473|WD~Window,35473]]  

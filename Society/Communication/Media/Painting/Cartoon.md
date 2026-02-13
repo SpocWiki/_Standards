@@ -1,28 +1,184 @@
 ---
-aliases: 
+aliases:
+- cartoon
+- cartuin
+- Cartuun
+- cartún
+- cartŵn
+- desen animat
+- dessin humoristique
+- dibujo humorístico
+- dibuxu humorísticu
+- Gambar cèmèn
+- Guhit-larawan
+- Histouère ilustrâye
+- Karikatuur
+- Kartun
+- kartuno
+- Kemos
+- khah-thong
+- kreskówka
+- Kreslený vtip
+- marrazki satiriko
+- pilapiirros
+- Resimli taslak
+- risanka
+- skämtteckning
+- spotprent
+- stāsts attēlā
+- tegneserie
+- tranh biếm họa
+- vignetta umoristica
+- vitsetegning
+- Vitseteikning
+- Šaljiva slika
+- Історії в картинках
+- гісторыі ў малюнках
+- гумарыстычна-сатырычны малюнак
+- истории в картинках
+- Көр-күлүү
+- կոմիքս
+- קרטון
+- الكرتون
+- كارتون
+- کارتون
+- کارتۆن
+- کارٹون
+- ڪارٽون
+- कार्टून
+- व्यंगचित्र
+- हास्यचित्र
+- কাৰ্টুন
+- ব্যঙ্গচিত্র
+- ਕਾਰਟੂਨ
+- கேலிச் சித்திரம்
+- కార్టూన్
+- ಕ್ಯಾರಿಕೇಚರುಗಳು, ಕಾರ್ಟೂನುಗಳು
+- കാർട്ടൂൺ
+- การ์ตูน
+- ກາຕູນ
+- རབ་བཏགས་རི་མོ།
+- ကာတွန်း ရုပ်ပြောင်
+- ၵႃႇတူၼ်း
+- រូបថ្លុក
+- ᨠᩣᩁ᩺ᨲᩪᨶ
+- ᱠᱟᱨᱴᱩᱱ
+- ⴰⴽⴰⵔⵜⵓⵏ
+- カートゥーン
+- 卡通
+- 카툰
 has_id_wikidata: Q627603
 subclass_of:
-  - "[[_Standards/WikiData/WD~drawing,93184]]"
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~graphic_humour,3397153]]"
-different_from: "[[_Standards/WikiData/WD~caricature,482919]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- '[[_Standards/WikiData/WD~drawing,93184]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~graphic_humour,3397153]]'
+different_from: '[[_Standards/WikiData/WD~caricature,482919]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~cartoonist,1114448]]"
-  - "[[_Standards/WikiData/WD~gag_cartoonist,106671598]]"
-instance_of: "[[_Standards/WikiData/WD~two_dimensional_visual_artwork_genre,116479606]]"
+- '[[_Standards/WikiData/WD~cartoonist,1114448]]'
+- '[[_Standards/WikiData/WD~gag_cartoonist,106671598]]'
+instance_of: '[[_Standards/WikiData/WD~two_dimensional_visual_artwork_genre,116479606]]'
 Commons_category: Cartoons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Busterbrown15.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/cartoon
 equivalent_class: http://dbpedia.org/ontology/Cartoon
-P8189: "987007283468405171"
+P8189: 987007283468405171
 IPTC_NewsCode: mediatopic/20000004
 MeSH_tree_code:
-  - V02.540.200
-  - V02.700.149
+- V02.540.200
+- V02.700.149
 subreddit: CARTOON
+dv_has_:
+  name_:
+    ar: الكرتون
+    as: কাৰ্টুন
+    ast: dibuxu humorísticu
+    be: гісторыі ў малюнках
+    be-tarask: гумарыстычна-сатырычны малюнак
+    bew: Gambar cèmèn
+    bjn: Kemos
+    bn: ব্যঙ্গচিত্র
+    bo: རབ་བཏགས་རི་མོ།
+    ca: cartoon
+    ckb: کارتۆن
+    cs: Kreslený vtip
+    cy: cartŵn
+    da: tegneserie
+    de: Cartoon
+    de-ch: Cartoon
+    en: cartoon
+    en-ca: cartoon
+    en-gb: cartoon
+    eo: kartuno
+    es: dibujo humorístico
+    et: Karikatuur
+    eu: marrazki satiriko
+    fa: کارتون
+    fi: pilapiirros
+    fr: dessin humoristique
+    frp: Histouère ilustrâye
+    fy: Cartoon
+    ga: cartún
+    gsw: Cartuun
+    he: קרטון
+    hi: हास्यचित्र
+    hy: կոմիքս
+    id: Kartun
+    io: Kartuno
+    it: vignetta umoristica
+    ja: カートゥーン
+    jv: Kartun
+    km: រូបថ្លុក
+    kn: ಕ್ಯಾರಿಕೇಚರುಗಳು, ಕಾರ್ಟೂನುಗಳು
+    ko: 카툰
+    ks: کارٹون
+    lo: ກາຕູນ
+    lv: stāsts attēlā
+    ml: കാർട്ടൂൺ
+    mr: व्यंगचित्र
+    ms: Kartun
+    my: ကာတွန်း ရုပ်ပြောင်
+    nan: khah-thong
+    nb: vitsetegning
+    ne: कार्टून
+    nl: spotprent
+    nn: Vitseteikning
+    nod: ᨠᩣᩁ᩺ᨲᩪᨶ
+    pa: ਕਾਰਟੂਨ
+    pl: kreskówka
+    pnb: کارٹون
+    ps: کارتون
+    pt: cartoon
+    pt-br: cartoon
+    ro: desen animat
+    ru: истории в картинках
+    sah: Көр-күлүү
+    sat: ᱠᱟᱨᱴᱩᱱ
+    sco: cartuin
+    sd: ڪارٽون
+    shn: ၵႃႇတူၼ်း
+    sl: risanka
+    sr: Šaljiva slika
+    su: Kartun
+    sv: skämtteckning
+    ta: கேலிச் சித்திரம்
+    te: కార్టూన్
+    th: การ์ตูน
+    tl: Guhit-larawan
+    tr: Resimli taslak
+    ug: كارتون
+    uk: Історії в картинках
+    ur: کارٹون
+    vi: tranh biếm họa
+    wuu: 卡通
+    yue: 卡通
+    zgh: ⴰⴽⴰⵔⵜⵓⵏ
+    zh: 卡通
+    zh-hans: 卡通
+    zh-hant: 卡通
+    zh-hk: 卡通
+    zh-tw: 卡通
 ---
-
 # [[Cartoon]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cartoon,627603|WD~Cartoon,627603]] 

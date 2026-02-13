@@ -1,19 +1,90 @@
 ---
 aliases:
+- Cichorioideae
+- Cicoriòidia
+- Cigoriņu apakšdzimta
+- Glavočike jezičnjače
+- Kasnıkimilər
+- katángformák
+- čekankové
+- Κιχωριοειδή
+- Цикорієві
+- цикориевые
+- եղերդակայիններ
+- هندباوات
+- キクニガナ亜科
+- 舌状花亚科
+- 舌狀花亞科
+- 치커리아과
 has_id_wikidata: Q133142
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-has_fruit_type: "[[_Standards/WikiData/WD~samara,475697]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Aster,517130]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+has_fruit_type: '[[_Standards/WikiData/WD~samara,475697]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Aster,517130]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2768
 UMLS_CUI: C1230384
 Commons_category: Cichorioideae
 taxon_name: Cichorioideae
+dv_has_:
+  name_:
+    an: Cichorioideae
+    ar: هندباوات
+    arz: هندباوات
+    ast: Cichorioideae
+    az: Kasnıkimilər
+    bg: Cichorioideae
+    ca: Cicoriòidia
+    ceb: Cichorioideae
+    cs: čekankové
+    de: Cichorioideae
+    el: Κιχωριοειδή
+    en: Cichorioideae
+    eo: Cichorioideae
+    es: Cichorioideae
+    eu: Cichorioideae
+    ext: Cichorioideae
+    fi: Cichorioideae
+    fr: Cichorioideae
+    ga: Cichorioideae
+    gl: Cichorioideae
+    hr: Glavočike jezičnjače
+    hu: katángformák
+    hy: եղերդակայիններ
+    ia: Cichorioideae
+    ie: Cichorioideae
+    io: Cichorioideae
+    it: Cichorioideae
+    ja: キクニガナ亜科
+    ko: 치커리아과
+    la: Cichorioideae
+    lv: Cigoriņu apakšdzimta
+    mul: Cichorioideae
+    nl: Cichorioideae
+    oc: Cichorioideae
+    pl: Cichorioideae
+    pt: Cichorioideae
+    pt-br: Cichorioideae
+    ro: Cichorioideae
+    ru: цикориевые
+    sl: Cichorioideae
+    sq: Cichorioideae
+    sv: Cichorioideae
+    tr: Cichorioideae
+    uk: Цикорієві
+    vi: Cichorioideae
+    vo: Cichorioideae
+    war: Cichorioideae
+    zh: 舌状花亚科
+    zh-cn: 舌状花亚科
+    zh-hans: 舌状花亚科
+    zh-hant: 舌狀花亞科
+    zh-hk: 舌狀花亞科
+    zh-sg: 舌状花亚科
+    zh-tw: 舌狀花亞科
 ---
-
 # [[Cichorioideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Cichorioideae,133142]] 

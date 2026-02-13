@@ -1,88 +1,356 @@
 ---
 aliases:
-  - Capitalism
+- caipitalism
+- caipitleachas
+- Calpachas
+- Capitalisim
+- Capitalism
+- capitalisme
+- Capitalismo
+- capitalismu
+- capitalismus
+- Capitałixmo
+- Chu-pún-chú-gī
+- Chṳ̂-pún chú-ngi
+- Chủ nghĩa tư bản
+- Cyfalafiaeth
+- Cṳ̆-buōng-ciō-ngiê
+- Jari-hujja
+- Kaappitaalizimii
+- Kapitaalism
+- kapitalism
+- Kapitalisma
+- Kapitalisme
+- kapitalismi
+- kapitalismm
+- kapitalismo
+- Kapitalismu
+- Kapitalismus
+- Kapitalismɛ
+- Kapitalizam
+- kapitalizem
+- kapitalizm
+- kapitalizmas
+- Kapitalizmi
+- kapitalizmus
+- kapitaliżmu
+- kapitālisms
+- kapítalismi
+- Kapîtalîzm
+- Kapėtalėzmos
+- Kepercukongan
+- Kevalaouriezh
+- Kiapitalizam
+- nasin mani
+- Punjiwaad
+- Qaniimeynta
+- swhbwnj cujyi
+- Ubepari
+- UbuGombelakwesakhe
+- Ǣhtwealdes endebyrdness
+- Καπιταλισμός
+- Капіталізм
+- Капитализам
+- Капитализм
+- Капитализъм
+- Хүрэнгэтэ журам
+- Դրամատիրութիւն
+- Կապիտալիզմ
+- קאפיטאליזם
+- קפיטליזם
+- رأسمالية
+- راسمالية
+- راسماليه
+- سرمائيداري
+- سرمایهداری
+- سرمایہ داری نظام
+- سەرمایەداری
+- پانګولي
+- کاپیتالیسم
+- کیپیٹلزم
+- ܪܫܡܠܘܬܐ
+- पूँजीवाद
+- पूंजीवाद
+- भांडवलशाही
+- পুঁজিবাদ
+- ਪੂੰਜੀਵਾਦ
+- મૂડીવાદ
+- முதலாளித்துவம்
+- పెట్టుబడిదారీ విధానం
+- ಬಂಡವಾಳಶಾಹಿ
+- മുതലാളിത്തം
+- ධනවාදය
+- ทุนนิยม
+- ລັດທິທຶນນິຍົມ
+- အရင်းရှင်ဝါဒ
+- კაპიტალიზმი
+- ራስ-ገንዘብ
+- ᱯᱩᱸᱡᱤᱵᱟᱫᱽ
+- 資本主義
+- 资本主义
+- 자본주의
 has_id_wikidata: Q6206
 based_on:
-  - '[[_Standards/WikiData/WD~private_property,555911]]'
-  - '[[_Standards/WikiData/WD~economic_profit,26911]]'
+- '[[_Standards/WikiData/WD~private_property,555911]]'
+- '[[_Standards/WikiData/WD~economic_profit,26911]]'
 Commons_category: Capitalism
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: ''
 has_characteristic:
-  - '[[_Standards/WikiData/WD~economic_growth,189833]]'
-  - '[[_Standards/WikiData/WD~economic_competition,319676]]'
-  - '[[_Standards/WikiData/WD~capital_accumulation,420062]]'
-  - '[[_Standards/WikiData/WD~wage_labor,949973]]'
-  - '[[_Standards/WikiData/WD~Price_system,1131126]]'
-  - '[[_Standards/WikiData/WD~Voluntary_exchange,11900430]]'
+- '[[_Standards/WikiData/WD~economic_growth,189833]]'
+- '[[_Standards/WikiData/WD~economic_competition,319676]]'
+- '[[_Standards/WikiData/WD~capital_accumulation,420062]]'
+- '[[_Standards/WikiData/WD~wage_labor,949973]]'
+- '[[_Standards/WikiData/WD~Price_system,1131126]]'
+- '[[_Standards/WikiData/WD~Voluntary_exchange,11900430]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~mass_production,215768]]'
-  - '[[_Standards/WikiData/WD~income_inequality,5055020]]'
+- '[[_Standards/WikiData/WD~mass_production,215768]]'
+- '[[_Standards/WikiData/WD~income_inequality,5055020]]'
 has_part_s_: '[[_Standards/WikiData/WD~means_of_production,260747]]'
 has_Template: '[[Extract~Note~Template]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_capitalism,3183163]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anti-capitalism%20color.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Microcosm%20of%20London%20Plate%20033%20-%20Corn%20Exchange.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Anti-capitalism%20color.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Microcosm%20of%20London%20Plate%20033%20-%20Corn%20Exchange.jpg
 instance_of: '[[_Standards/WikiData/WD~social_formation,1641112]]'
 isDeleted: false
 isReadOnly: false
 item_disputed_by:
-  - '[[_Standards/WikiData/WD~anti-consumerism,1783091]]'
-  - '[[_Standards/WikiData/WD~Marxism,7264]]'
+- '[[_Standards/WikiData/WD~anti-consumerism,1783091]]'
+- '[[_Standards/WikiData/WD~Marxism,7264]]'
 keywords: Capitalism
 lang: en
 layout: ''
 license: (c)copyrighted
 linkTitle: Capitalism
 MeSH_tree_code:
-  - I01.261.100
-  - I01.696.100
+- I01.261.100
+- I01.696.100
 OmegaWiki_Defined_Meaning: 1208510
 opposite_of:
-  - '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
-  - '[[_Standards/WikiData/WD~communism,6186]]'
+- '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
+- '[[_Standards/WikiData/WD~communism,6186]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%8A%D8%A9.wav
 Provenio_UUID: dad5e2e0-c50e-4087-8697-9236b7606c4f
 publish: false
 publishDate: ''
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~laissez_faire,171990]]'
-  - '[[_Standards/WikiData/WD~market_economy,179522]]'
-  - '[[_Standards/WikiData/WD~economic_liberalism,729119]]'
-  - '[[_Standards/WikiData/WD~capitalist_mode_of_production,3132726]]'
-  - '[[_Standards/WikiData/WD~free_market,46607]]'
+- '[[_Standards/WikiData/WD~laissez_faire,171990]]'
+- '[[_Standards/WikiData/WD~market_economy,179522]]'
+- '[[_Standards/WikiData/WD~economic_liberalism,729119]]'
+- '[[_Standards/WikiData/WD~capitalist_mode_of_production,3132726]]'
+- '[[_Standards/WikiData/WD~free_market,46607]]'
 subclass_of: '[[_Standards/WikiData/WD~economic_system,273005]]'
 subreddit:
-  - Capitalism
-  - ABoringDystopia
+- Capitalism
+- ABoringDystopia
 tags:
-  - Capitalism
-  - excalidraw
+- Capitalism
+- excalidraw
 title: Capitalism
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Aspects_of_capitalism,6688953]]'
-  - '[[_Standards/WikiData/WD~Template_Capitalism,65741511]]'
+- '[[_Standards/WikiData/WD~Template_Aspects_of_capitalism,6688953]]'
+- '[[_Standards/WikiData/WD~Template_Capitalism,65741511]]'
 type: private_note
 UMLS_CUI: C0006913
 uses: '[[_Standards/WikiData/WD~commodification,1780322]]'
 U_S_National_Archives_Identifier: 10638013
 Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
+dv_has_:
+  name_:
+    af: kapitalisme
+    am: ራስ-ገንዘብ
+    an: Capitalismo
+    ang: Ǣhtwealdes endebyrdness
+    ar: رأسمالية
+    arc: ܪܫܡܠܘܬܐ
+    ary: راسمالية
+    arz: راسماليه
+    as: পুঁজিবাদ
+    ast: Capitalismu
+    az: Kapitalizm
+    azb: کاپیتالیسم
+    ba: Капитализм
+    bcl: Kapitalismo
+    be: капіталізм
+    be-tarask: капіталізм
+    bew: Kepercukongan
+    bg: Капитализъм
+    bho: पूँजीवाद
+    bn: পুঁজিবাদ
+    br: Kevalaouriezh
+    bs: kapitalizam
+    btm: Kapitalisme
+    bxr: Хүрэнгэтэ журам
+    ca: capitalisme
+    cdo: Cṳ̆-buōng-ciō-ngiê
+    ce: Капитализм
+    ckb: سەرمایەداری
+    co: capitalismu
+    crh: kapitalizm
+    cs: kapitalismus
+    csb: Kapitalizm
+    cy: Cyfalafiaeth
+    da: kapitalisme
+    de: Kapitalismus
+    diq: Kapitalizm
+    el: Καπιταλισμός
+    en: capitalism
+    en-ca: capitalism
+    en-gb: capitalism
+    en-us: capitalism
+    eo: kapitalismo
+    es: capitalismo
+    et: kapitalism
+    eu: Kapitalismo
+    ext: Capitalismu
+    fa: سرمایهداری
+    fi: kapitalismi
+    fo: Kapitalisma
+    fr: capitalisme
+    fur: Capitalisim
+    fy: kapitalisme
+    ga: caipitleachas
+    gan: 資本主義
+    gcr: Kapitalism
+    gd: Calpachas
+    gl: capitalismo
+    gn: Capitalismo
+    gsw: Kapitalismus
+    gu: મૂડીવાદ
+    ha: Jari-hujja
+    hak: Chṳ̂-pún chú-ngi
+    he: קפיטליזם
+    hi: पूंजीवाद
+    hif: Punjiwaad
+    hr: kapitalizam
+    hu: kapitalizmus
+    hy: Կապիտալիզմ
+    hyw: Դրամատիրութիւն
+    id: kapitalisme
+    ilo: Kapitalismo
+    io: Kapitalismo
+    is: kapítalismi
+    it: capitalismo
+    ja: 資本主義
+    jam: Kiapitalizam
+    jv: Kapitalisme
+    ka: კაპიტალიზმი
+    kbp: Kapitaalism
+    kk: Капитализм
+    kn: ಬಂಡವಾಳಶಾಹಿ
+    ko: 자본주의
+    krc: Капитализм
+    ku: Kapîtalîzm
+    ky: Капитализм
+    la: capitalismus
+    lb: Kapitalismus
+    lfn: Capitalisme
+    li: Kapitalisme
+    lmo: Capitalism
+    ln: Kapitalismɛ
+    lo: ລັດທິທຶນນິຍົມ
+    lt: kapitalizmas
+    lv: kapitālisms
+    mad: Kapitalisme
+    mg: Kapitalisma
+    min: Kapitalisme
+    mk: Капитализам
+    ml: മുതലാളിത്തം
+    mn: Капитализм
+    mr: भांडवलशाही
+    ms: Kapitalisme
+    mt: kapitaliżmu
+    mwl: Capitalismo
+    my: အရင်းရှင်ဝါဒ
+    nan: Chu-pún-chú-gī
+    nb: kapitalisme
+    nds: Kapitalismus
+    nds-nl: kapitalisme
+    ne: पूँजीवाद
+    new: पूंजीवाद
+    nl: kapitalisme
+    nn: kapitalisme
+    oc: capitalisme
+    om: Kaappitaalizimii
+    os: капитализм
+    pa: ਪੂੰਜੀਵਾਦ
+    pap: kapitalismo
+    pl: kapitalizm
+    pms: Capitalism
+    pnb: کیپیٹلزم
+    ps: پانګولي
+    pt: capitalismo
+    pt-br: Capitalismo
+    qu: Kapitalismu
+    ro: capitalism
+    ru: капитализм
+    rue: Капіталізм
+    sah: Капитализм
+    sat: ᱯᱩᱸᱡᱤᱵᱟᱫᱽ
+    sc: capitalismu
+    scn: capitalismu
+    sco: caipitalism
+    sd: سرمائيداري
+    se: kapitalisma
+    sgs: Kapėtalėzmos
+    sh: Kapitalizam
+    si: ධනවාදය
+    sk: kapitalizmus
+    sl: kapitalizem
+    smn: kapitalism
+    sms: kapitalismm
+    so: Qaniimeynta
+    sq: Kapitalizmi
+    sr: капитализам
+    sv: kapitalism
+    sw: Ubepari
+    ta: முதலாளித்துவம்
+    te: పెట్టుబడిదారీ విధానం
+    tg: Капитализм
+    th: ทุนนิยม
+    tl: Kapitalismo
+    tok: nasin mani
+    tr: kapitalizm
+    tt: капитализм
+    udm: капитализм
+    uk: капіталізм
+    ur: سرمایہ داری نظام
+    uz: Kapitalizm
+    vec: Capitałixmo
+    vep: Kapitalizm
+    vi: Chủ nghĩa tư bản
+    vro: Kapitalism
+    war: Kapitalismo
+    wuu: 資本主義
+    xmf: კაპიტალიზმი
+    yi: קאפיטאליזם
+    yue: 資本主義
+    za: swhbwnj cujyi
+    zh: 资本主义
+    zh-cn: 资本主义
+    zh-hans: 资本主义
+    zh-hant: 資本主義
+    zh-hk: 資本主義
+    zh-mo: 資本主義
+    zh-my: 资本主义
+    zh-sg: 资本主义
+    zh-tw: 資本主義
+    zu: UbuGombelakwesakhe
 ---
-
 # [[Capitalism]] 
 
 #is_/better_than :: [[Mercantilism|Mercantilism]] 

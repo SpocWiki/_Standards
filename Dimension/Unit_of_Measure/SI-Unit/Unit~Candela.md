@@ -1,38 +1,176 @@
 ---
 aliases:
-  - Unit~Candela
+- caindéile
+- candela
+- candelă
+- candèila
+- cannila
+- delno
+- kandela
+- kandelo
+- Unit~Candela
+- καντέλα
+- кандел
+- кандела
+- кандэла
+- свѣща · мѣра
+- կանդելա
+- קנדלה
+- شمع
+- قنديلة
+- کاندێڵا
+- کینڈل پاور
+- کینڈیلا
+- कैण्डेला
+- क्यान्डेला
+- ক্যান্ডেলা
+- ਕੈਂਡਲ ਪਾਵਰ
+- கேண்டெலா
+- കാൻഡെല
+- แคนเดลา
+- ཁེན།
+- კანდელა
+- カンデラ
+- 坎德拉
+- 燭光
+- 칸델라
 has_id_wikidata: Q83216
 measured_physical_quantity:
-  - '[[_Standards/WikiData/WD~luminous_intensity,104831]]'
-  - '[[_Standards/WikiData/WD~luminous_flux,107780]]'
-  - '[[_Standards/WikiData/WD~conventional_retinal_illuminance,107164637]]'
-  - '[[_Standards/WikiData/WD~natural_pupil_luminance,107165192]]'
+- '[[_Standards/WikiData/WD~luminous_intensity,104831]]'
+- '[[_Standards/WikiData/WD~luminous_flux,107780]]'
+- '[[_Standards/WikiData/WD~conventional_retinal_illuminance,107164637]]'
+- '[[_Standards/WikiData/WD~natural_pupil_luminance,107165192]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
-  - '[[_Standards/WikiData/WD~unit_of_luminous_intensity,126734908]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~unit_of_luminous_intensity,126734908]]'
 replaces: '[[_Standards/WikiData/WD~candlepower,902274]]'
 named_after: '[[_Standards/WikiData/WD~candle,12888135]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~new_candle,21282164]]'
 conversion_to_SI_unit: 1
 UCUM_code: cd
 unit_symbol:
-  - кд
-  - cd
-  - kd
-  - cd
+- кд
+- cd
+- kd
+- cd
 UN_CEFACT_Common_Code: CDL
 Wolfram_Language_unit_code: '"Candelas"'
 IEV_number:
-  - 112-02-10
-  - 845-21-083
+- 112-02-10
+- 845-21-083
 Unicode_character: ㏅
 Wikidata_SPARQL_query_equivalent: wd:Q83216 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    ar: قنديلة
+    ary: قنديلة
+    ast: candela
+    az: kandela
+    be: кандэла
+    be-tarask: кандэла
+    bg: кандела
+    bn: ক্যান্ডেলা
+    bo: ཁེན།
+    br: candela
+    bs: kandela
+    ca: candela
+    ceb: candela
+    ckb: کاندێڵا
+    cs: kandela
+    cu: свѣща · мѣра
+    cv: кандела
+    cy: candela
+    da: candela
+    de: Candela
+    de-ch: Candela
+    el: καντέλα
+    en: candela
+    en-ca: candela
+    en-gb: candela
+    eo: kandelo
+    es: candela
+    et: kandela
+    eu: kandela
+    fa: شمع
+    fi: kandela
+    fr: candela
+    frr: Candela
+    ga: caindéile
+    gl: candela
+    he: קנדלה
+    hi: कैण्डेला
+    hr: kandela
+    hu: kandela
+    hy: կանդելա
+    id: kandela
+    is: kandela
+    it: candela
+    ja: カンデラ
+    jbo: delno
+    ka: კანდელა
+    kk: кандела
+    ko: 칸델라
+    ky: кандела
+    la: candela
+    lb: Candela
+    lt: kandela
+    lv: kandela
+    lzh: 燭光
+    mk: кандела
+    ml: കാൻഡെല
+    mn: кандел
+    ms: kandela
+    mt: candela
+    nan: candela
+    nb: candela
+    nds: Candela
+    ne: क्यान्डेला
+    nl: candela
+    nn: candela
+    oc: candela
+    pa: ਕੈਂਡਲ ਪਾਵਰ
+    pl: kandela
+    pms: candèila
+    pnb: کینڈل پاور
+    pt: candela
+    pt-br: candela
+    ro: candelă
+    ru: кандела
+    sc: candela
+    scn: cannila
+    sh: kandela
+    sk: kandela
+    sl: kandela
+    smn: kandela
+    sr: кандела
+    sr-ec: Кандела
+    sv: candela
+    ta: கேண்டெலா
+    tg: кандела
+    th: แคนเดลา
+    tr: kandela
+    uk: кандела
+    ur: کینڈیلا
+    uz: kandela
+    vi: candela
+    vls: candela
+    war: candela
+    wuu: 坎德拉
+    yue: 燭光
+    zh: 坎德拉
+    zh-cn: 坎德拉
+    zh-hans: 坎德拉
+    zh-hant: 燭光
+    zh-hk: 燭光
+    zh-mo: 燭光
+    zh-my: 坎德拉
+    zh-sg: 坎德拉
+    zh-tw: 燭光
 ---
-
 # [[Unit~Candela]] 
 
 #is_a :: [[../SI-Unit]] 

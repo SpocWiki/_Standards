@@ -1,15 +1,126 @@
 ---
 aliases:
+- Bodenmechanik
+- Cơ học đất
+- geotehnika
+- Geotekniikka
+- geoteknik
+- grondmechanica
+- grundmeĥaniko
+- Gruntlar mexanikasi
+- grunts mehānika
+- jeoteknik
+- jordmekanik
+- jordmekanikk
+- Lurzoruaren mekanika
+- mecanica solului
+- meccanica del suolo
+- Mechanika gruntów
+- mechanika zemin
+- Mecànica dels sòls
+- Mecánica de suelos
+- mecânica dos solos
+- mehanika tal
+- Mehanika tla
+- Mekanik tanah
+- Mekanika lemah
+- Mekanika tanah
+- mekaniki ala
+- mécanique des sols
+- Mékanika taneuh
+- soil mechanics
+- soli Mechanicae
+- talajmechanika
+- Tū-iōng lĭk-hŏk
+- Εδαφομηχανική
+- Грунтсен механики
+- земна механика
+- механіка ґрунтів
+- механика грунтов
+- Механика тла
+- мэханіка грунтоў
+- Хөрсний механик
+- Գրունտների մեխանիկա
+- ميكانيكا التربة
+- مکانیک خاک
+- भूयांत्रिकी
+- মৃত্তিকা বলবিদ্যা
+- ნიადაგების მექანიკა
+- 土力学
+- 土力學
+- 土壤力學
+- 土質力学
+- 토질역학
 has_id_wikidata: Q471872
 subclass_of:
-  - "[[_Standards/WikiData/WD~soil_physics,1707766]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
-part_of: "[[_Standards/WikiData/WD~geomechanics,2670285]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[_Standards/WikiData/WD~soil_physics,1707766]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
+part_of: '[[_Standards/WikiData/WD~geomechanics,2670285]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
+dv_has_:
+  name_:
+    ar: ميكانيكا التربة
+    ast: Mecánica de suelos
+    be: земна механика
+    be-tarask: мэханіка грунтоў
+    bn: মৃত্তিকা বলবিদ্যা
+    ca: Mecànica dels sòls
+    cdo: Tū-iōng lĭk-hŏk
+    cs: mechanika zemin
+    cv: Грунтсен механики
+    da: geoteknik
+    de: Bodenmechanik
+    el: Εδαφομηχανική
+    en: soil mechanics
+    eo: grundmeĥaniko
+    es: Mecánica de suelos
+    et: geotehnika
+    eu: Lurzoruaren mekanika
+    fa: مکانیک خاک
+    fi: Geotekniikka
+    fr: mécanique des sols
+    hi: भूयांत्रिकी
+    hr: Mehanika tla
+    hu: talajmechanika
+    hy: Գրունտների մեխանիկա
+    id: Mekanika tanah
+    ig: mekaniki ala
+    it: meccanica del suolo
+    ja: 土質力学
+    jv: Mekanika lemah
+    ka: ნიადაგების მექანიკა
+    ko: 토질역학
+    la: soli Mechanicae
+    lv: grunts mehānika
+    mn: Хөрсний механик
+    ms: Mekanik tanah
+    nb: jordmekanikk
+    nl: grondmechanica
+    pl: Mechanika gruntów
+    pt: mecânica dos solos
+    ro: mecanica solului
+    ru: механика грунтов
+    sh: Mehanika tla
+    sl: mehanika tal
+    sr: Механика тла
+    sr-ec: Механика тла
+    sr-el: Mehanika tla
+    su: Mékanika taneuh
+    sv: jordmekanik
+    tr: jeoteknik
+    uk: механіка ґрунтів
+    uz: Gruntlar mexanikasi
+    vi: Cơ học đất
+    zh: 土力学
+    zh-cn: 土力学
+    zh-hans: 土力学
+    zh-hant: 土壤力學
+    zh-hk: 土力學
+    zh-sg: 土力学
+    zh-tw: 土力學
 ---
-
 # [[Soil_Mechanics]] 
 
 #is_/same_as :: [[WD~Soil_mechanics,471872]] 

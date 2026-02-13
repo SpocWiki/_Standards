@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Chactidae
+- Chactidae
+- Séigoʼ biwooʼí
+- شقطسية
+- شقطسيه
+- ヒゲナガサソリ科
+- 湿地蝎科
+- 濕地蠍科
 title: Chactidae
 has_id_wikidata: Q135360
+dv_has_:
+  name_:
+    an: Chactidae
+    ar: شقطسية
+    arz: شقطسيه
+    ast: Chactidae
+    bg: Chactidae
+    ca: Chactidae
+    ceb: Chactidae
+    de: Chactidae
+    en: Chactidae
+    eo: Chactidae
+    es: Chactidae
+    eu: Chactidae
+    ext: Chactidae
+    fi: Chactidae
+    fr: Chactidae
+    ga: Chactidae
+    gl: Chactidae
+    ia: Chactidae
+    ie: Chactidae
+    io: Chactidae
+    it: Chactidae
+    ja: ヒゲナガサソリ科
+    la: Chactidae
+    mul: Chactidae
+    nb: Chactidae
+    nl: Chactidae
+    nv: Séigoʼ biwooʼí
+    oc: Chactidae
+    pl: Chactidae
+    pt: Chactidae
+    pt-br: Chactidae
+    ro: Chactidae
+    ru: Chactidae
+    sq: Chactidae
+    tr: Chactidae
+    uk: Chactidae
+    vi: Chactidae
+    vo: Chactidae
+    war: Chactidae
+    zh: 湿地蝎科
+    zh-cn: 湿地蝎科
+    zh-hans: 湿地蝎科
+    zh-tw: 濕地蠍科
 ---
 ## Phylogeny 
 

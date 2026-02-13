@@ -24,9 +24,9 @@ dv_UNTERM_Chinese_Formal: 巴勒斯坦国
 dv_UNTERM_French_Formal: État de Palestine
 dv_UNTERM_Russian: Государство Палестина  *
 dv_UNTERM_Russian_Formal: Государство Палестина
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Palestine]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Palestine]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 6254930
@@ -35,8 +35,8 @@ dv_FIFA: PLE
 dv_IOC: PLE
 dv_MARC: gz,wj
 dv_GAUL:
-  - 91
-  - 267
+- 91
+- 267
 dv_TLD: .ps
 dv_M49: 275
 dv_is_independent: In contention
@@ -45,37 +45,114 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 275
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]"
+  - '[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]'
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]"
-location: [ 31.625321, 35.145264 ] 
+- '[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]'
+location:
+- 31.625321
+- 35.145264
 aliases:
-  - Palestine
-  - State of Palestine
-  - Estado de Palestina
-  - État de Palestine
-  - دولة فلسطين
-  - 巴勒斯坦国
-  - Государство Палестина
-  - State of Palestine
-  - State of Palestine
-  - Estado  de Palestina
-  - Estado  de Palestina
+- an Phalaistín
+- Baaleschdi
+- Estado  de Palestina
+- Estado de Palestina
+- Falasdinu
+- Falastiin
+- Falastin
+- Falesṭin
+- Filistin
+- Filistîn
+- fistu'a
+- Fələstin
+- Palaestina
+- Palekekine
+- Palesitina
+- Palestayn
+- Palesteina
+- Palestene
+- Palestiin
+- Palestiina
+- Palestiinná
+- Palestin
+- Palestina
+- Palestina (streek)
+- Palestine
+- Palestinn
+- Palestinna
+- Palestino
+- Palestinos regionas
+- Palestyna
+- Palestìn
+- Palestína
+- Palestīna
+- Palesztina
+- Palistina
+- Palästina
+- Palæstina
+- Palèstina
+- Paléstina
+- Palẹstínì
+- Pałestina
+- State of Palestine
+- État de Palestine
+- Παλαιστίνη
+- Государство Палестина
+- Палестин
+- Палестинæ
+- Палестина
+- Палестына
+- ПалестӀина
+- Палесціна
+- Фаластин
+- Фәлистыйн
+- Фәләстин
+- Պաղեստին
+- ארץ ישראל
+- دولة فلسطين
+- فلستین
+- فلسطين
+- فلسطین
+- فلسطیٖن (علاقہٕ)
+- فيليسطين
+- فیلیسطین
+- فەلەستین
+- ܦܠܣܛܝܢ
+- पॅलेस्टाईन
+- प्यालेस्टाइन
+- प्यालेस्टाइन राज्य
+- फ़िलिस्तीनी राज्यक्षेत्र
+- পালেসটিনা
+- ফিলিস্তিন অঞ্চল
+- ਫਿਲਿਸਤੀਨੀ ਇਲਾਕਾ
+- ಪ್ಯಾಲೆಸ್ಟೈನ್
+- പലസ്തീൻ
+- පලස්තීන රාජ්යය
+- ปาเลสไตน์
+- პალესტინა
+- ፍልስጤም
+- ᏆᎴᏍᏗᏂ
+- ⴼⴰⵍⵉⵙⵟⵉⵏ
+- パレスチナ
+- 巴勒斯坦
+- 巴勒斯坦国
+- 巴勒斯坦地區
+- ꠙꠤꠟꠤꠍ꠆ꠔꠤꠘ
+- 팔레스타인
 has_id_wikidata: Q23792
 BHCL_UUID: 82c96a6a-df72-4d0a-bc31-f624b93bd1b2
 Commons_category: Palestine
@@ -83,27 +160,27 @@ confidential: public
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 coordinate_location: Point(35.145264 31.625321)
 country:
-  - '[[_Standards/WikiData/WD~Palestine,219060]]'
-  - '[[_Standards/WikiData/WD~Israel,801]]'
-  - '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
 cssclasses:
-  - Country
+- Country
 demographics_of_topic: '[[_Standards/WikiData/WD~demographic_history_of_Palestine,5256060]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Palestine,219060]]'
-  - '[[_Standards/WikiData/WD~Palestine,617602]]'
-  - '[[_Standards/WikiData/WD~Palestinian_National_Authority,42620]]'
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Palestine,617602]]'
+- '[[_Standards/WikiData/WD~Palestinian_National_Authority,42620]]'
 draft: false
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 expiryDate: ''
@@ -112,41 +189,41 @@ history_of_topic: '[[_Standards/WikiData/WD~history_of_Palestine,556079]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20jordan.jpg
 INSEE_countries_and_foreign_territories_code: 99261
 instance_of:
-  - '[[_Standards/WikiData/WD~geographic_region,82794]]'
-  - '[[_Standards/WikiData/WD~tourist_destination,1200957]]'
-  - '[[_Standards/WikiData/WD~historical_region,1620908]]'
-  - '[[_Standards/WikiData/WD~occupied_territory,2577883]]'
-  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-  - '[[_Standards/WikiData/WD~divided_region,5284036]]'
+- '[[_Standards/WikiData/WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~tourist_destination,1200957]]'
+- '[[_Standards/WikiData/WD~historical_region,1620908]]'
+- '[[_Standards/WikiData/WD~occupied_territory,2577883]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~divided_region,5284036]]'
 isDeleted: false
 isReadOnly: false
 keywords: ''
 Krugosvet_article:
-  - istoriya/PALESTINA_DREVNYAYA.html
-  - istoriya/PALESTINA.html
+- istoriya/PALESTINA_DREVNYAYA.html
+- istoriya/PALESTINA.html
 Languages:
-  - ar-PS
+- ar-PS
 language_used:
-  - '[[_Standards/WikiData/WD~Jewish_Palestinian_Aramaic,948909]]'
-  - '[[_Standards/WikiData/WD~South_Levantine_Arabic,55633582]]'
+- '[[_Standards/WikiData/WD~Jewish_Palestinian_Aramaic,948909]]'
+- '[[_Standards/WikiData/WD~South_Levantine_Arabic,55633582]]'
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: ''
 literal_translation: فلسطين
 located_in_time_zone:
-  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-  - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 locations: '[[_Standards/WikiData/WD~West_Asia,27293]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Palestine%20et%20Transjordanie%20%281922%20-%201948%29.PNG
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Asia,8503454]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Israel,10781185]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Western_Asia,14867525]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Palestine,15885013]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Limited_recognition,21830051]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]'
-  - '[[_Standards/WikiData/WD~WikiProject_British_Empire,88424997]]'
+- '[[_Standards/WikiData/WD~WikiProject_Asia,8503454]]'
+- '[[_Standards/WikiData/WD~WikiProject_Israel,10781185]]'
+- '[[_Standards/WikiData/WD~WikiProject_Western_Asia,14867525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
+- '[[_Standards/WikiData/WD~WikiProject_Palestine,15885013]]'
+- '[[_Standards/WikiData/WD~WikiProject_Limited_recognition,21830051]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]'
+- '[[_Standards/WikiData/WD~WikiProject_British_Empire,88424997]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~Israel,801]]'
 part_of: '[[_Standards/WikiData/WD~Southern_Levant,7570085]]'
 PM20_geo_code: B24a
@@ -155,20 +232,181 @@ Provenio_UUID: f9514186-867b-40a0-9acd-5941883d8433
 publish: true
 publishDate: ''
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Land_of_Israel,155321]]'
-  - '[[_Standards/WikiData/WD~Holy_Land_in_Islam,126894958]]'
+- '[[_Standards/WikiData/WD~Land_of_Israel,155321]]'
+- '[[_Standards/WikiData/WD~Holy_Land_in_Islam,126894958]]'
 source: https://datahub.io/core/country-codes
 studied_in:
-  - '[[_Standards/WikiData/WD~Land_of_palestine_Studies_and_Archaeology,7007095]]'
-  - '[[_Standards/WikiData/WD~Palestinian_studies,12408688]]'
+- '[[_Standards/WikiData/WD~Land_of_palestine_Studies_and_Archaeology,7007095]]'
+- '[[_Standards/WikiData/WD~Palestinian_studies,12408688]]'
 tags:
-  - geo/Country
+- geo/Country
 title: Palestine
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Palestine,11044579]]'
 type: Country
 U_S_National_Archives_Identifier: 10044839
+dv_has_:
+  name_:
+    ace: Palèstina
+    af: Palestina
+    am: ፍልስጤም
+    an: Palestina
+    apc: فلسطين
+    ar: فلسطين
+    arc: ܦܠܣܛܝܢ
+    ary: فيليسطين
+    arz: فلسطين
+    ast: Palestina
+    az: Fələstin
+    azb: فیلیسطین
+    ba: Фәләстин
+    bar: Palästina
+    be: Палесціна
+    be-tarask: Палестына
+    bg: Палестина
+    bn: ফিলিস্তিন অঞ্চল
+    bpy: পালেসটিনা
+    br: Palestina
+    bs: Palestina
+    bug: Palestina
+    ca: Palestina
+    cdo: Palestine
+    ce: ПалестӀина
+    ceb: Palestina
+    chr: ᏆᎴᏍᏗᏂ
+    ckb: فەلەستین
+    co: Palestina
+    crh-ro: Filistin
+    cs: Palestina
+    csb: Palestina
+    cv: Палестина
+    cy: Palesteina
+    da: Palæstina
+    de: Palästina
+    dty: प्यालेस्टाइन
+    el: Παλαιστίνη
+    en: Palestine
+    en-ca: Palestine
+    en-gb: Palestine
+    eo: Palestino
+    es: Palestina
+    et: Palestiina
+    eu: Palestina
+    fa: فلسطین
+    fi: Palestiina
+    fo: Palestina
+    fr: Palestine
+    fy: Palestina
+    ga: an Phalaistín
+    gcr: Palestinn
+    gl: Palestina
+    grc: Παλαιστίνη
+    gsw: Palestina
+    ha: Falasdinu
+    hak: Palestine
+    haw: Palekekine
+    he: ארץ ישראל
+    hi: फ़िलिस्तीनी राज्यक्षेत्र
+    hr: Palestina
+    ht: Palestìn
+    hu: Palesztina
+    hy: Պաղեստին
+    ia: Palestina
+    id: Palestina
+    ie: Palestina
+    ilo: Palestina
+    io: Palestina
+    is: Palestína
+    it: Palestina
+    ja: パレスチナ
+    jbo: fistu'a
+    jv: Palèstina
+    ka: პალესტინა
+    kab: Falesṭin
+    kk: Палестина
+    kl: Palæstina
+    kn: ಪ್ಯಾಲೆಸ್ಟೈನ್
+    ko: 팔레스타인
+    krc: Палестина
+    ks: فلسطیٖن (علاقہٕ)
+    ku: Filistîn
+    ku-arab: فلستین
+    kw: Palestayn
+    ky: Палестина
+    la: Palaestina
+    lb: Palestina
+    lij: Palestinna
+    lt: Palestinos regionas
+    lv: Palestīna
+    lzh: 巴勒斯坦
+    mai: प्यालेस्टाइन राज्य
+    mg: Palestina
+    min: Palestina
+    mk: Палестина
+    ml: പലസ്തീൻ
+    mn: Палестин
+    mr: पॅलेस्टाईन
+    ms: Palestin
+    ms-arab: فلسطين
+    mzn: فلسطین
+    nah: Palestina
+    nan: Palestine
+    nb: Palestina
+    ne: प्यालेस्टाइन
+    nl: Palestina
+    nn: Palestina
+    oc: Palestina
+    os: Палестинæ
+    pa: ਫਿਲਿਸਤੀਨੀ ਇਲਾਕਾ
+    pdc: Baaleschdi
+    pl: Palestyna
+    pnb: فلسطین
+    ps: فلسطين
+    pt: Palestina
+    pt-br: Palestina
+    qu: Palistina
+    rmy: Palestina
+    ro: Palestina
+    ru: Палестина
+    sc: Palestina
+    scn: Palistina
+    sco: Palestine
+    se: Palestiinná
+    sh: Palestina
+    si: පලස්තීන රාජ්යය
+    sk: Palestína
+    sl: Palestina
+    sm: Palesitina
+    so: Falastiin
+    sq: Palestina
+    sr: Палестина
+    su: Paléstina
+    sv: Palestina
+    syl: ꠙꠤꠟꠤꠍ꠆ꠔꠤꠘ
+    szl: Palestyna
+    tg: Фаластин
+    th: ปาเลสไตน์
+    ti: ፍልስጤም
+    tl: Palestina
+    tr: Filistin
+    tt: Фәлистыйн
+    uk: Палестина
+    ur: فلسطین
+    uz: Falastin
+    vec: Pałestina
+    vi: Palestine
+    wa: Palestene
+    war: Palestina
+    wo: Palestiin
+    wuu: 巴勒斯坦
+    xmf: პალესტინა
+    yi: ארץ ישראל
+    yo: Palẹstínì
+    yue: 巴勒斯坦
+    zea: Palestina (streek)
+    zgh: ⴼⴰⵍⵉⵙⵟⵉⵏ
+    zh: 巴勒斯坦
+    zh-hant: 巴勒斯坦地區
 ---
-
 # [[Palestine]] 
 
 ## [[Palestine]] has Properties...

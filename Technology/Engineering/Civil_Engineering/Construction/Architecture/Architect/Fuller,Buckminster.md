@@ -1,93 +1,120 @@
 ---
 aliases:
-  - Richard Buckminster Fuller
-  - Buckminster Fuller
-  - R. Buckminster Fuller
-  - Fuller,Buckminster
+- Bakminster Fuler
+- Bakminster Fuller
+- Bakminsteris Fuleris
+- Buckminister Fuller
+- Buckminster Fuller
+- Bukminster Fuller
+- Fuller,Buckminster
+- R. Buckminster Fuller
+- Richard Buckminster Fuller
+- Ričards Bakminsters Fulers
+- Ρίτσαρντ Μπάκμινστερ Φούλερ
+- Бакминстер Фулер
+- Бъкминстър Фулър
+- Річард Бакмінстер Фуллер
+- Ричард Бакминстер Фуллер
+- Рычард Бакмінстэр Фулер
+- Ռիչարդ Բաքմինսթեր Ֆուլլեր
+- באקמינסטר פולר
+- باکمینستر فولر
+- باکمېنسټر فولر
+- ريتشارد بوكمينستر فولر
+- बकमिन्स्टर फुलर
+- বাকমিন্স্টার ফুলার
+- பக்மினிசிட்டர் ஃபுல்லர்
+- บักมินสเตอร์ ฟุลเลอร์
+- バックミンスター・フラー
+- 巴克敏斯特·富勒
+- 巴克敏斯特·福乐
+- 畢敏斯特·富拿
+- 畢緬士打·富拿
+- 버크민스터 풀러
 has_id_wikidata: Q102289
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~artist,483501]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~visual_artist,3391743]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~designer,5322166]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~architect,42973]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~artist,483501]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~visual_artist,3391743]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~designer,5322166]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~design,82604]]'
-  - '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~design,82604]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
 artist_files_at:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
-  - '[[_Standards/WikiData/WD~Brooklyn_Museum_Libraries_and_Archives,18748945]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
-  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
-  - '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~Brooklyn_Museum_Libraries_and_Archives,18748945]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
+- '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
+- '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
-  - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]'
-  - '[[_Standards/WikiData/WD~Whitney_Museum_of_American_Art,639791]]'
-  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
-  - '[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]'
-  - '[[_Standards/WikiData/WD~Vanderbilt_Museum_of_Art,18563658]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Print_Collection,105027234]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+- '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art,510324]]'
+- '[[_Standards/WikiData/WD~Whitney_Museum_of_American_Art,639791]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~The_Nelson_Atkins_Museum_of_Art,1976985]]'
+- '[[_Standards/WikiData/WD~Vanderbilt_Museum_of_Art,18563658]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Print_Collection,105027234]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Alfred_Korzybski,333402]]'
-  - '[[_Standards/WikiData/WD~Mary_Kenneth_Keller,11752]]'
-  - '[[_Standards/WikiData/WD~Bertrand_Russell,33760]]'
+- '[[_Standards/WikiData/WD~Alfred_Korzybski,333402]]'
+- '[[_Standards/WikiData/WD~Mary_Kenneth_Keller,11752]]'
+- '[[_Standards/WikiData/WD~Bertrand_Russell,33760]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Institute_of_Architects,465197]]'
-  - '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Institute_of_Architects,465197]]'
+- '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
 place_of_birth: '[[_Standards/WikiData/WD~Milton,739428]]'
 employer:
-  - '[[_Standards/WikiData/WD~Washington_University_in_St._Louis,777403]]'
-  - '[[_Standards/WikiData/WD~Black_Mountain_College,880447]]'
-  - '[[_Standards/WikiData/WD~Southern_Illinois_University_Carbondale,1472347]]'
+- '[[_Standards/WikiData/WD~Washington_University_in_St._Louis,777403]]'
+- '[[_Standards/WikiData/WD~Black_Mountain_College,880447]]'
+- '[[_Standards/WikiData/WD~Southern_Illinois_University_Carbondale,1472347]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Bates_College,810771]]'
-  - '[[_Standards/WikiData/WD~Milton_Academy,6860967]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-  - '[[_Standards/WikiData/WD~Harvard_College,49123]]'
+- '[[_Standards/WikiData/WD~Bates_College,810771]]'
+- '[[_Standards/WikiData/WD~Milton_Academy,6860967]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Harvard_College,49123]]'
 movement: '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Montreal_Biosphère,864789]]'
-  - '[[_Standards/WikiData/WD~Science_World,1391769]]'
-  - '[[_Standards/WikiData/WD~Critical_Path,5186647]]'
-  - '[[_Standards/WikiData/WD~Nine_Chains_to_the_Moon,7038284]]'
-  - '[[_Standards/WikiData/WD~Operating_Manual_for_Spaceship_Earth,7096686]]'
+- '[[_Standards/WikiData/WD~Montreal_Biosphère,864789]]'
+- '[[_Standards/WikiData/WD~Science_World,1391769]]'
+- '[[_Standards/WikiData/WD~Critical_Path,5186647]]'
+- '[[_Standards/WikiData/WD~Nine_Chains_to_the_Moon,7038284]]'
+- '[[_Standards/WikiData/WD~Operating_Manual_for_Spaceship_Earth,7096686]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Royal_Gold_Medal,920783]]'
-  - '[[_Standards/WikiData/WD~John_Scott_Award,3332215]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Institute_of_Architects,5442488]]'
-  - '[[_Standards/WikiData/WD~St._Louis_Literary_Award,7589655]]'
-  - '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
-  - '[[_Standards/WikiData/WD~Frank_P._Brown_Medal,19873358]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Toynbee_Prize,56293505]]'
-  - '[[_Standards/WikiData/WD~honorary_Royal_Designer_for_Industry,59783532]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Royal_Gold_Medal,920783]]'
+- '[[_Standards/WikiData/WD~John_Scott_Award,3332215]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Institute_of_Architects,5442488]]'
+- '[[_Standards/WikiData/WD~St._Louis_Literary_Award,7589655]]'
+- '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+- '[[_Standards/WikiData/WD~Frank_P._Brown_Medal,19873358]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Toynbee_Prize,56293505]]'
+- '[[_Standards/WikiData/WD~honorary_Royal_Designer_for_Industry,59783532]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
 family_name: '[[_Standards/WikiData/WD~Fuller,1158382]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Richard,1249148]]'
-  - '[[_Standards/WikiData/WD~Buckminster,64107464]]'
+- '[[_Standards/WikiData/WD~Richard,1249148]]'
+- '[[_Standards/WikiData/WD~Buckminster,64107464]]'
 place_of_burial: '[[_Standards/WikiData/WD~Mount_Auburn_Cemetery,1950363]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -101,9 +128,9 @@ mother: '[[_Standards/WikiData/WD~Caroline_Wolcott_Andrews,96089678]]'
 father: '[[_Standards/WikiData/WD~Richard_Buckminster_Fuller,96089677]]'
 spouse: '[[_Standards/WikiData/WD~Anne_Hewlett,96089680]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 different_from: '[[_Standards/WikiData/WD~Buckminster_Fuller,106571525]]'
 sibling: '[[_Standards/WikiData/WD~Caroline_Leslie_Fuller,113132898]]'
 date_of_birth: 1895-07-12T00:00:00Z
@@ -129,8 +156,99 @@ birth_name: Richard Buckminster Fuller
 U_S_National_Archives_Identifier: 10580369
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BuckminsterFuller1.jpg
 ISNI: 0000000114419441
+dv_has_:
+  name_:
+    ar: ريتشارد بوكمينستر فولر
+    arz: ريتشارد بوكمينستر فولر
+    ast: Richard Buckminster Fuller
+    az: Bukminster Fuller
+    azb: باکمینستر فولر
+    be: Рычард Бакмінстэр Фулер
+    be-tarask: Рычард Бакмінстэр Фулер
+    bg: Бъкминстър Фулър
+    bn: বাকমিন্স্টার ফুলার
+    bs: Buckminster Fuller
+    ca: Buckminster Fuller
+    cs: Buckminster Fuller
+    cy: Buckminster Fuller
+    da: Buckminster Fuller
+    dag: Richard Buckminster Fuller
+    de: Richard Buckminster Fuller
+    el: Ρίτσαρντ Μπάκμινστερ Φούλερ
+    en: Buckminster Fuller
+    eo: Buckminster Fuller
+    es: Buckminster Fuller
+    et: Buckminster Fuller
+    eu: Buckminster Fuller
+    fa: باکمینستر فولر
+    fi: Buckminster Fuller
+    fr: Richard Buckminster Fuller
+    ga: Buckminster Fuller
+    gl: Buckminster Fuller
+    gsw: Richard Buckminster Fuller
+    guw: Richard Buckminster Fuller
+    he: באקמינסטר פולר
+    hi: बकमिन्स्टर फुलर
+    hif: Buckminster Fuller
+    hr: Buckminster Fuller
+    hu: Buckminster Fuller
+    hy: Ռիչարդ Բաքմինսթեր Ֆուլլեր
+    id: Buckminster Fuller
+    io: Richard Buckminster Fuller
+    is: Buckminster Fuller
+    it: Richard Buckminster Fuller
+    ja: バックミンスター・フラー
+    jv: Buckminster Fuller
+    ko: 버크민스터 풀러
+    li: Buckminster Fuller
+    lt: Bakminsteris Fuleris
+    lv: Ričards Bakminsters Fulers
+    mg: Richard Buckminster Fuller
+    mk: Бакминстер Фулер
+    ms: Buckminster Fuller
+    mul: Buckminster Fuller
+    nan: Buckminster Fuller
+    nb: Richard Buckminster Fuller
+    nds: Buckminster Fuller
+    new: बकमिन्स्टर फुलर
+    nl: Richard Buckminster Fuller
+    nn: Buckminster Fuller
+    oc: Buckminster Fuller
+    pap: Richard Buckminster Fuller
+    pl: Buckminster Fuller
+    ps: باکمېنسټر فولر
+    pt: Buckminster Fuller
+    pt-br: Buckminster Fuller
+    ro: Buckminster Fuller
+    ru: Ричард Бакминстер Фуллер
+    sa: बकमिन्स्टर फुलर
+    sco: Buckminster Fuller
+    sh: Buckminster Fuller
+    sk: Buckminster Fuller
+    sl: Buckminster Fuller
+    sq: Buckminister Fuller
+    sr: Бакминстер Фулер
+    sr-ec: Бакминстер Фулер
+    sr-el: Bakminster Fuler
+    sv: Buckminster Fuller
+    ta: பக்மினிசிட்டர் ஃபுல்லர்
+    th: บักมินสเตอร์ ฟุลเลอร์
+    tl: Buckminster Fuller
+    tr: Buckminster Fuller
+    uk: Річард Бакмінстер Фуллер
+    uz: Bakminster Fuller
+    vi: Buckminster Fuller
+    war: Buckminster Fuller
+    wuu: 巴克敏斯特·福乐
+    yue: 畢緬士打·富拿
+    zh: 巴克敏斯特·富勒
+    zh-cn: 巴克敏斯特·福乐
+    zh-hans: 巴克敏斯特·福乐
+    zh-hant: 巴克敏斯特·富勒
+    zh-hk: 畢敏斯特·富拿
+    zh-sg: 巴克敏斯特·福乐
+    zh-tw: 巴克敏斯特·富勒
 ---
-
 # [[Fuller,Buckminster]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Buckminster_Fuller,102289|WD~Buckminster_Fuller,102289]] 

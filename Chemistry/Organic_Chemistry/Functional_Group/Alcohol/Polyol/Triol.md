@@ -1,33 +1,62 @@
 ---
 aliases:
-  - Triols
-  - Triol
+- trialkohol
+- Triol
+- triolo
+- Triols
+- Trioly
+- Τριόλη
+- Триолы
+- تريول
+- تریال
+- トリオール
+- 三醇
+- 트리올
 has_id_wikidata: Q3539455
-subclass_of: "[[_Standards/WikiData/WD~polyol,415812]]"
-follows: "[[_Standards/WikiData/WD~diol,421916]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+subclass_of: '[[_Standards/WikiData/WD~polyol,415812]]'
+follows: '[[_Standards/WikiData/WD~diol,421916]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Triols
 dv_is_:
   same_as:
-    - "[[wd~Triol,3539455]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect|Triol.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private|Triol.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]]"
+  - '[[wd~Triol,3539455]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect|Triol.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private|Triol.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]]'
 dv_is_same_as:
-  - "[[wd~Triol,3539455]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect|Triol.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private|Triol.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]]"
+- '[[wd~Triol,3539455]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect|Triol.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private|Triol.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]]'
+dv_has_:
+  name_:
+    ar: تريول
+    cs: Trioly
+    el: Τριόλη
+    en: triol
+    en-ca: Triol
+    en-gb: Triol
+    eo: triolo
+    eu: trialkohol
+    fa: تریال
+    fr: triol
+    it: triolo
+    ja: トリオール
+    ko: 트리올
+    nn: triol
+    pl: triol
+    ru: Триолы
+    sl: triol
+    zh: 三醇
 ---
-
 # [[Triol]] 
 
 #is_/same_as :: [[wd~Triol,3539455]] 

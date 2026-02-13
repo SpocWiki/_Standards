@@ -1,45 +1,313 @@
 ---
 aliases:
-  - Hard_Disk_Drive
-  - Hard Disk Drive
+- apu'a atã
+- Aḍebsi aquran
+- Cakera keras
+- Cakram kareh
+- Cakram keras
+- Cakram Padhet
+- cietais disks
+- cruadhiosca
+- Disc dur
+- Disc dûr
+- Disch dür
+- Disch fiss
+- Disco dur
+- Disco duro
+- disco rigido
+- disco rígido
+- Disco ríxido
+- Discu fissu
+- Discus fixus
+- Disgyrrwr caled
+- diskaparato
+- Diski ebómbelo enéne
+- Disko gogor
+- diskong gahi
+- diskong matigas
+- Disque dur
+- dysk twardy
+- Fastplaat
+- Festplattenlaufwerk
+- Fêste skiif
+- Hard disk
+- Hard Disk Drive
+- Hard dîsk
+- hard-disk
+- Harda disko
+- harddisk
+- harde schijf
+- Hardeskyf
+- Hardisk
+- Hard_Disk_Drive
+- Harður diskur
+- Hel sjief
+- hårddisk
+- Kapila mangirana
+- Kiendeshi diski kuu
+- kiintolevy
+- kruta tačel
+- Kõvaketas
+- kōpae matua
+- merevlemez
+- Ngē-pôaⁿ-ki
+- Pevný disk
+- Pladenn galet
+- platelager
+- Qattiq magnit disk
+- Qattı disk
+- Qattı magnitli disk
+- Sabit disk
+- Sinch'i piruru pusachina
+- Standusis diskas
+- Stėrnasės dėskos
+- Sərt disk
+- trdi disk
+- tvrdi disk
+- Unidá de discu duru
+- Xusuusta moohaarka kasjilka
+- Σκληρός δίσκος
+- жёсткий диск
+- жорсткий диск
+- Зумыд диск
+- Калгода дисксь
+- Катуу диск
+- Каты диск
+- Кытаанах диск
+- Тăп диск
+- Таҥга диск
+- Твердый діск
+- тврд диск
+- Твърд диск
+- Тұрғылықты дискі
+- хард-диск
+- Хатуу диск
+- Цвёрды дыск
+- Цьвёрды дыск
+- чурыт диск
+- Ҡаты диск
+- Ҳофиза
+- կոշտ սկավառակ
+- דיסק קשיח
+- האַרטער דיסק
+- ثابیت دیسک
+- ديسك قاسح
+- دیسک سخت
+- قرص صلب
+- هارد ديسك
+- هارد دیسک
+- وەگەڕخەری دیسکی ڕەق
+- ہارڈ ڈسک
+- ہارڈ ڈسک ڈرائیو
+- हार्ड डिस्क
+- हार्ड डिस्क ड्राइव
+- हार्ड डिस्क ड्राइव्ह
+- हार्द दिस्क
+- হার্ড ডিস্ক ড্রাইভ
+- হাৰ্ড ডিস্ক ড্ৰাইভ
+- ਹਾਰਡ ਡਿਸਕ
+- வன்தட்டு நிலை நினைவகம்
+- హార్డ్ డిస్క్ డ్రైవ్
+- ಹಾರ್ಡ್ ಡಿಸ್ಕ್ ಡ್ರೈವ್
+- ഹാർഡ് ഡിസ്ക് ഡ്രൈവ്
+- ฮาร์ดดิสก์
+- ဟတ်ဒစ်စ် ဒရိုက်ဗ်
+- ဟတ်ဒစ်စ် ဒရိုက်ဗ်(HardDisk)
+- ბერჯეკი დისკი
+- მყარი დისკი
+- ổ đĩa cứng
+- ハードディスクドライブ
+- 硬盘
+- 硬碟
+- 하드 디스크 드라이브
 has_id_wikidata: Q4439
 Commons_category: Hard disks
 Commons_gallery: Hard disk
 Common_Procurement_Vocabulary_code: 30233132
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03492542-n
-followed_by: "[[_Standards/WikiData/WD~solid-state_drive,487343]]"
+followed_by: '[[_Standards/WikiData/WD~solid-state_drive,487343]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~flying_height,5463579]]"
-  - "[[_Standards/WikiData/WD~Hard_disk_drive_performance_characteristics,5655518]]"
+- '[[_Standards/WikiData/WD~flying_height,5463579]]'
+- '[[_Standards/WikiData/WD~Hard_disk_drive_performance_characteristics,5655518]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hard_disk_drive_platter,1195211]]"
-  - "[[_Standards/WikiData/WD~disk_drive_head,2165056]]"
-  - "[[_Standards/WikiData/WD~spindle,2416476]]"
-  - "[[_Standards/WikiData/WD~housing,11326220]]"
-  - "[[_Standards/WikiData/WD~signal_and_power_connector,65036927]]"
-  - "[[_Standards/WikiData/WD~computer_interface,23808]]"
-has_use: "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
+- '[[_Standards/WikiData/WD~hard_disk_drive_platter,1195211]]'
+- '[[_Standards/WikiData/WD~disk_drive_head,2165056]]'
+- '[[_Standards/WikiData/WD~spindle,2416476]]'
+- '[[_Standards/WikiData/WD~housing,11326220]]'
+- '[[_Standards/WikiData/WD~signal_and_power_connector,65036927]]'
+- '[[_Standards/WikiData/WD~computer_interface,23808]]'
+has_use: '[[_Standards/WikiData/WD~computer_data_storage_device,66221]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Harddisk.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Digital%20WD2500BB%20Hard%20Disk%20A.jpg
-instance_of: "[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
 Nomenclature_for_Museum_Cataloging: 10535
-part_of: "[[_Standards/WikiData/WD~disk_array,1228738]]"
+part_of: '[[_Standards/WikiData/WD~disk_array,1228738]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20drive-en.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/hard-drive
 subclass_of:
-  - "[[_Standards/WikiData/WD~computer_data_storage_device,66221]]"
-  - "[[_Standards/WikiData/WD~disk_drive,64819622]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
+- '[[_Standards/WikiData/WD~computer_data_storage_device,66221]]'
+- '[[_Standards/WikiData/WD~disk_drive,64819622]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
 time_of_discovery_or_invention: 1956
-Unicode_character: 🖴
+Unicode_character: "\U0001F5B4"
 UNSPSC_Code: 43201803
-uses: "[[_Standards/WikiData/WD~magnetic_storage,1364527]]"
+uses: '[[_Standards/WikiData/WD~magnetic_storage,1364527]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Harddrive-engineerguy.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ein-%20und%20Ausgabe%20mit%20Festplatte%20und%20Interrupts.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Harddrive-engineerguy.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ein-%20und%20Ausgabe%20mit%20Festplatte%20und%20Interrupts.webm
 WordLift_URL: http://data.thenextweb.com/tnw/entity/hard_disk_drive
+dv_has_:
+  name_:
+    af: Hardeskyf
+    an: Disco duro
+    anp: हार्ड डिस्क ड्राइव
+    ar: قرص صلب
+    ary: ديسك قاسح
+    arz: هارد ديسك
+    as: হাৰ্ড ডিস্ক ড্ৰাইভ
+    ast: Unidá de discu duru
+    az: Sərt disk
+    azb: ثابیت دیسک
+    ba: Ҡаты диск
+    be: Цвёрды дыск
+    be-tarask: Цьвёрды дыск
+    bg: Твърд диск
+    bn: হার্ড ডিস্ক ড্রাইভ
+    br: Pladenn galet
+    bs: tvrdi disk
+    ca: disc dur
+    cbk-zam: disco duro
+    ceb: diskong gahi
+    ckb: وەگەڕخەری دیسکی ڕەق
+    crh: Qattı disk
+    cs: pevný disk
+    cv: Тăп диск
+    cy: Disgyrrwr caled
+    da: harddisk
+    de: Festplattenlaufwerk
+    diq: Hard disk
+    el: Σκληρός δίσκος
+    en: hard disk
+    en-ca: hard disk drive
+    en-gb: hard disk drive
+    eo: diskaparato
+    es: disco duro
+    et: Kõvaketas
+    eu: Disko gogor
+    fa: دیسک سخت
+    fi: kiintolevy
+    fr: disque dur
+    fur: Disc dûr
+    fy: Fêste skiif
+    ga: cruadhiosca
+    gl: Disco ríxido
+    glk: هارد دیسک
+    gn: apu'a atã
+    gsw: Festplattenlaufwerk
+    he: דיסק קשיח
+    hi: हार्ड डिस्क ड्राइव
+    hif: hard disk
+    hr: tvrdi disk
+    hsb: kruta tačel
+    hu: merevlemez
+    hy: կոշտ սկավառակ
+    ia: Disco dur
+    id: Cakram keras
+    io: Harda disko
+    is: Harður diskur
+    it: disco rigido
+    ja: ハードディスクドライブ
+    jv: Cakram Padhet
+    ka: მყარი დისკი
+    kaa: Qattı magnitli disk
+    kab: Aḍebsi aquran
+    kk: Тұрғылықты дискі
+    kn: ಹಾರ್ಡ್ ಡಿಸ್ಕ್ ಡ್ರೈವ್
+    ko: 하드 디스크 드라이브
+    ku: Hard dîsk
+    ku-latn: Hard dîsk
+    kv: Зумыд диск
+    ky: Катуу диск
+    la: Discus fixus
+    li: Hel sjief
+    lmo: Disch dür
+    ln: Diski ebómbelo enéne
+    lt: Standusis diskas
+    lv: cietais disks
+    mdf: Калгода дисксь
+    mg: Kapila mangirana
+    mhr: Таҥга диск
+    mi: kōpae matua
+    min: Cakram kareh
+    mk: тврд диск
+    ml: ഹാർഡ് ഡിസ്ക് ഡ്രൈവ്
+    mn: Хатуу диск
+    mr: हार्ड डिस्क ड्राइव्ह
+    ms: Cakera keras
+    my: ဟတ်ဒစ်စ် ဒရိုက်ဗ်
+    nan: Ngē-pôaⁿ-ki
+    nb: platelager
+    nds: Fastplaat
+    ne: हार्ड डिस्क
+    new: हार्द दिस्क
+    nl: harde schijf
+    nn: Platelager
+    oc: Disc dur
+    pa: ਹਾਰਡ ਡਿਸਕ
+    pl: dysk twardy
+    pms: Disch fiss
+    pnb: ہارڈ ڈسک
+    pt: disco rígido
+    qu: Sinch'i piruru pusachina
+    rki: ဟတ်ဒစ်စ် ဒရိုက်ဗ်(HardDisk)
+    ro: Disc dur
+    ru: жёсткий диск
+    rue: Твердый діск
+    sah: Кытаанах диск
+    sc: Discu fissu
+    scn: Hard disk
+    sco: Hard disk drive
+    sg: Disque dur
+    sgs: Stėrnasės dėskos
+    sh: hard-disk
+    sk: Pevný disk
+    sl: trdi disk
+    so: Xusuusta moohaarka kasjilka
+    sq: Hard disk
+    sr: хард-диск
+    sr-ec: хард-диск
+    sr-el: hard-disk
+    su: Hardisk
+    sv: hårddisk
+    sw: Kiendeshi diski kuu
+    ta: வன்தட்டு நிலை நினைவகம்
+    te: హార్డ్ డిస్క్ డ్రైవ్
+    tg: Ҳофиза
+    th: ฮาร์ดดิสก์
+    tl: diskong matigas
+    tr: Sabit disk
+    tt: Каты диск
+    udm: чурыт диск
+    uk: жорсткий диск
+    ur: ہارڈ ڈسک ڈرائیو
+    uz: Qattiq magnit disk
+    vec: Disco duro
+    vi: ổ đĩa cứng
+    war: Hard disk
+    wuu: 硬盘
+    xmf: ბერჯეკი დისკი
+    yi: האַרטער דיסק
+    yue: 硬碟
+    zh: 硬盘
+    zh-cn: 硬盘
+    zh-hans: 硬盘
+    zh-hant: 硬碟
+    zh-hk: 硬碟
+    zh-mo: 硬碟
+    zh-my: 硬盘
+    zh-sg: 硬盘
+    zh-tw: 硬碟
 ---
-
 # [[Hard_Disk_Drive]] 🖴 
 
 #is_/same_as :: [[../../../WikiData/WD~Hard_disk,4439|WD~Hard_disk,4439]] 

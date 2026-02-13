@@ -1,8 +1,106 @@
 ---
 has_id_wikidata: Q131711
+dv_has_:
+  name_:
+    af: Kitsch
+    ar: كيتش
+    ast: Kitsch
+    az: Kitç
+    bar: Kitsch
+    be: Кіч
+    be-tarask: кіч
+    bg: Кич
+    br: Kitsch
+    ca: Kitsch
+    cs: kýč
+    da: Kitsch
+    de: Kitsch
+    de-at: Kitsch
+    de-ch: Kitsch
+    el: Κιτς
+    en: kitsch
+    en-ca: kitsch
+    en-gb: kitsch
+    en-us: kitsch
+    eo: Kiĉo
+    es: kitsch
+    et: Kitš
+    eu: kitsch
+    fa: کیچ
+    fi: kitsch
+    fr: kitsch
+    gan: 咭嚌
+    gan-hans: 咭哜
+    gan-hant: 咭嚌
+    gl: Kitsch
+    gsw: Kitsch
+    he: קיטש
+    hr: Kič
+    hu: giccs
+    io: Kitsch
+    it: Kitsch
+    ja: キッチュ
+    ko: 키치
+    ky: Китч
+    la: Kitsch
+    lt: Kičas
+    mk: Кич
+    mt: kitsch
+    nan: Kitsch
+    nb: kitsch
+    nl: kitsch
+    nn: Kitsch
+    pl: Kicz
+    pt: kitsch
+    pt-br: kitsch
+    ro: Kitsch
+    ru: Китч
+    sh: Kič
+    sk: Gýč
+    sl: kič
+    sq: Kiçi
+    sr: Кич
+    sr-ec: кич
+    sr-el: kič
+    su: Kitsch
+    sv: kitsch
+    tr: Kitsch
+    uk: Кіч
+    vi: Kitsch
+    yue: 拙劣作品
+    zh: 媚俗
+    zh-cn: 媚俗
+    zh-hans: 媚俗
+    zh-hant: 媚俗
+    zh-hk: 媚俗
+    zh-sg: 媚俗
+    zh-tw: 媚俗
+aliases:
+- giccs
+- Gýč
+- Kicz
+- kitsch
+- Kitç
+- Kitš
+- Kiçi
+- Kiĉo
+- Kič
+- Kičas
+- kýč
+- Κιτς
+- Кіч
+- Китч
+- Кич
+- קיטש
+- كيتش
+- کیچ
+- キッチュ
+- 咭哜
+- 咭嚌
+- 媚俗
+- 拙劣作品
+- 키치
 ---
-
-
 # [[Kitsch]] 
 
 #is_/same_as :: [[WD~Kitsch,131711]]  

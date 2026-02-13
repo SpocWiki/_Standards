@@ -1,23 +1,202 @@
 ---
 aliases:
+- Enjin jet
+- Esoreattore
+- Gāzes strūklas dzinējs
+- Havo-reaktiv dvigatel
+- Isilumbamdiki somtshazo
+- jet engine
+- jet ingine
+- Jet injin
+- Jet motoru
+- jetmotor
+- jetmotoro
+- Machina pyraulocinetica
+- Masin jet
+- Mesin jet
+- Mlazni motor
+- moteur à réaction
+- motor a reacción
+- motor a reação
+- motor cu reacție
+- Motor de reaccion
+- motor de reacció
+- motor de reacción
+- motor de reaición
+- Motora jet
+- Motori reaktiv
+- proudový motor
+- Prúdový motor
+- Reaktiivmootor
+- Reaktiv mühərrik
+- reaktivni motor
+- reaktyvinis variklis
+- Reaktïvti äwe qozğaltqışı
+- scairdinneall
+- silnik odrzutowy
+- Sjtraolmotor
+- Sprico mashino
+- Straalmotor
+- Strahltriebwerk
+- sugárhajtómű
+- suihkumoottori
+- Zurrusta-propultsio
+- Động cơ phản lực không khí
+- κινητήρας αεριώθησης
+- млазен мотор
+- млазни мотор
+- Муҳаррики реактивӣ
+- реактивний двигун
+- реактивный двигатель
+- Реактивті әуе қозғалтқышы
+- рэактыўны рухавік
+- Турбореактивен двигател
+- ռեակտիվ շարժիչ
+- מנוע סילון
+- المحرك النفاث
+- بزوێنەری جێت
+- جت موتور
+- جیٹ انجن
+- رەاكتىيۆتى اۋە قوزعالتقىشى
+- محرك نفاث
+- موتور جت
+- نفاثہ محرکیہ
+- जेट इंजन
+- जेट इंजिन
+- जेट इन्जिन
+- জেট ইঞ্জিন
+- ਜੈੱਟ ਇੰਜਣ
+- தாரைப் பொறி
+- ജെറ്റ് എൻജിൻ
+- ජෙට් එන්ජින්
+- เครื่องยนต์ไอพ่น
+- ဂျက်အင်ဂျင်
+- ჰაერრეაქტიული ძრავა
+- ᎠᏯᏄᎵ ᏥᏳ ᎠᏂᎩᏍᏗᏍᎩ
+- ジェットエンジン
+- 喷气发动机
+- 噴射引擎
+- 噴射發動機
+- 제트 엔진
 has_id_wikidata: Q178777
 subclass_of:
-  - "[[_Standards/WikiData/WD~gas_turbine,193470]]"
-  - "[[_Standards/WikiData/WD~aircraft_engine,743004]]"
-  - "[[_Standards/WikiData/WD~reaction_engine,1922879]]"
-  - "[[_Standards/WikiData/WD~aircraft_component,16693356]]"
-  - "[[_Standards/WikiData/WD~internal_combustion_engine,12757]]"
+- '[[_Standards/WikiData/WD~gas_turbine,193470]]'
+- '[[_Standards/WikiData/WD~aircraft_engine,743004]]'
+- '[[_Standards/WikiData/WD~reaction_engine,1922879]]'
+- '[[_Standards/WikiData/WD~aircraft_component,16693356]]'
+- '[[_Standards/WikiData/WD~internal_combustion_engine,12757]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~rocket_engine,335225]]"
-  - "[[_Standards/WikiData/WD~airbreathing_jet_engine,3773032]]"
-uses: "[[_Standards/WikiData/WD~jet_propulsion,3522973]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q25742827,25742827]]"
+- '[[_Standards/WikiData/WD~rocket_engine,335225]]'
+- '[[_Standards/WikiData/WD~airbreathing_jet_engine,3773032]]'
+uses: '[[_Standards/WikiData/WD~jet_propulsion,3522973]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25742827,25742827]]'
 properties_for_this_type: maximum thrust
 image: http://commons.wikimedia.org/wiki/Special:FilePath/F100%20F-15%20engine.JPG
-U_S_National_Archives_Identifier: "10675355"
+U_S_National_Archives_Identifier: 10675355
 Commons_category: Jet engines
+dv_has_:
+  name_:
+    af: Straalmotor
+    ar: محرك نفاث
+    arz: المحرك النفاث
+    ast: motor de reaición
+    az: Reaktiv mühərrik
+    azb: جت موتور
+    be-tarask: рэактыўны рухавік
+    bg: Турбореактивен двигател
+    bn: জেট ইঞ্জিন
+    bs: Mlazni motor
+    ca: motor de reacció
+    chr: ᎠᏯᏄᎵ ᏥᏳ ᎠᏂᎩᏍᏗᏍᎩ
+    ckb: بزوێنەری جێت
+    cs: proudový motor
+    da: Jetmotor
+    de: Strahltriebwerk
+    el: κινητήρας αεριώθησης
+    en: jet engine
+    en-ca: Jet engine
+    en-gb: jet engine
+    eo: jetmotoro
+    es: motor de reacción
+    et: Reaktiivmootor
+    eu: Zurrusta-propultsio
+    fa: موتور جت
+    fi: suihkumoottori
+    fr: moteur à réaction
+    ga: scairdinneall
+    gl: motor a reacción
+    he: מנוע סילון
+    hi: जेट इंजन
+    hr: Mlazni motor
+    hu: sugárhajtómű
+    hy: ռեակտիվ շարժիչ
+    id: Mesin jet
+    io: Sprico mashino
+    it: Esoreattore
+    ja: ジェットエンジン
+    jam: Jet injin
+    ka: ჰაერრეაქტიული ძრავა
+    kk: Реактивті әуе қозғалтқышы
+    kk-arab: رەاكتىيۆتى اۋە قوزعالتقىشى
+    kk-cn: رەاكتىيۆتى اۋە قوزعالتقىشى
+    kk-cyrl: Реактивті әуе қозғалтқышы
+    kk-kz: Реактивті әуе қозғалтқышы
+    kk-latn: Reaktïvti äwe qozğaltqışı
+    kk-tr: Reaktïvti äwe qozğaltqışı
+    ko: 제트 엔진
+    ku: Motora jet
+    la: Machina pyraulocinetica
+    li: Sjtraolmotor
+    lt: reaktyvinis variklis
+    lv: Gāzes strūklas dzinējs
+    min: Masin jet
+    mk: млазен мотор
+    ml: ജെറ്റ് എൻജിൻ
+    mr: जेट इंजिन
+    ms: Enjin jet
+    my: ဂျက်အင်ဂျင်
+    nb: jetmotor
+    ne: जेट इन्जिन
+    nl: straalmotor
+    nn: Jetmotor
+    oc: Motor de reaccion
+    pa: ਜੈੱਟ ਇੰਜਣ
+    pl: silnik odrzutowy
+    pnb: جیٹ انجن
+    pt: motor a reação
+    pt-br: motor a reação
+    ro: motor cu reacție
+    ru: реактивный двигатель
+    sco: jet ingine
+    sh: Mlazni motor
+    si: ජෙට් එන්ජින්
+    sk: Prúdový motor
+    sl: reaktivni motor
+    sq: Motori reaktiv
+    sr: млазни мотор
+    sr-ec: млазни мотор
+    sr-el: mlazni motor
+    sv: jetmotor
+    ta: தாரைப் பொறி
+    tg: Муҳаррики реактивӣ
+    th: เครื่องยนต์ไอพ่น
+    tr: Jet motoru
+    uk: реактивний двигун
+    ur: نفاثہ محرکیہ
+    uz: Havo-reaktiv dvigatel
+    vi: Động cơ phản lực không khí
+    war: Jet engine
+    wuu: 喷气发动机
+    yue: 噴射引擎
+    zh: 喷气发动机
+    zh-cn: 喷气发动机
+    zh-hans: 喷气发动机
+    zh-hant: 噴射發動機
+    zh-hk: 噴射引擎
+    zh-sg: 喷气发动机
+    zh-tw: 噴射發動機
+    zu: Isilumbamdiki somtshazo
 ---
-
 # [[Jet_Engine]] 
 
 #is_/same_as :: [[WD~Jet_engine,178777]] 

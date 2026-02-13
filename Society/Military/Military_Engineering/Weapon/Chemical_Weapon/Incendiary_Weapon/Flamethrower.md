@@ -1,8 +1,111 @@
 ---
 has_id_wikidata: Q45183
+dv_has_:
+  name_:
+    ar: قاذفة لهب
+    az: Odsaçan
+    be: Агнямёт
+    bg: огнехвъргачка
+    br: Strinker-tan
+    ca: llançaflames
+    cs: plamenomet
+    da: flammekaster
+    de: Flammenwerfer
+    el: φλογοβόλο
+    en: flamethrower
+    eo: flamĵetilo
+    es: lanzallamas
+    et: leegiheitja
+    eu: su-jaurtigailu
+    fa: شعلهافکن
+    fi: liekinheitin
+    fr: lance-flammes
+    fy: Flammewerper
+    he: להביור
+    hi: अग्नि-प्रक्षेपक
+    hu: lángszóró
+    hy: Հրանետ
+    id: pelontar api
+    io: flam-jetilo
+    it: lanciafiamme
+    ja: 火炎放射器
+    kk: отшашар
+    ko: 화염방사기
+    lt: liepsnosvaidis
+    mk: пламенофрлач
+    ms: Penyembur api
+    nb: flammekaster
+    nl: vlammenwerper
+    oc: lança-flamas
+    pl: miotacz ognia
+    pt: lança-chamas
+    pt-br: lança-chamas
+    ro: aruncător de flăcări
+    ru: огнемёт
+    sh: plamenobacač
+    sk: plameňomet
+    sl: plamenomet
+    sq: Flakëhedhësi
+    sr: бацач пламена
+    sr-ec: бацач пламена
+    sr-el: bacač plamena
+    sv: eldkastare
+    tr: alev makinesi
+    uk: вогнемет
+    ur: شعلہ انداز
+    vi: súng phun lửa
+    zh: 火焰喷射器
+aliases:
+- alev makinesi
+- aruncător de flăcări
+- bacač plamena
+- eldkastare
+- Flakëhedhësi
+- flam-jetilo
+- flamethrower
+- flammekaster
+- Flammenwerfer
+- Flammewerper
+- flamĵetilo
+- lance-flammes
+- lanciafiamme
+- lanzallamas
+- lança-chamas
+- lança-flamas
+- leegiheitja
+- liekinheitin
+- liepsnosvaidis
+- llançaflames
+- lángszóró
+- miotacz ognia
+- Odsaçan
+- pelontar api
+- Penyembur api
+- plamenobacač
+- plamenomet
+- plameňomet
+- Strinker-tan
+- su-jaurtigailu
+- súng phun lửa
+- vlammenwerper
+- φλογοβόλο
+- Агнямёт
+- бацач пламена
+- вогнемет
+- огнемёт
+- огнехвъргачка
+- отшашар
+- пламенофрлач
+- Հրանետ
+- להביור
+- شعلهافکن
+- شعلہ انداز
+- قاذفة لهب
+- अग्नि-प्रक्षेपक
+- 火炎放射器
+- 火焰喷射器
+- 화염방사기
 ---
-
-
 # [[Flamethrower]] 
 
 #is_/same_as :: 

@@ -1,9 +1,55 @@
 ---
 aliases:
-  - Thinking, Fast and Slow
-  - Thinking,Fast_and_Slow
-  - Thinking,Fast and Slow
+- Ajattelu, nopeasti ja hitaasti
+- Cəld və yavaş düşünmək
+- Hızlı ve Yavaş Düşünmek
+- Pensar ràpid, pensar a poc a poc
+- Pensar rápido, pensar despacio
+- Pensi rapide kaj malrapide
+- Pensieri lenti e veloci
+- Pułapki myślenia. O myśleniu szybkim i wolnym
+- Rápido e Devagar - Duas Formas de Pensar
+- Schnelles Denken, langsames Denken
+- 'Système 1 / Système 2 : Les deux vitesses de la pensée'
+- Thinking, Fast and Slow
+- Thinking,Fast and Slow
+- Thinking,Fast_and_Slow
+- Tänka, snabbt och långsamt
+- Думай медленно...решай быстро
+- Мислення швидке й повільне
+- לחשוב מהר, לחשוב לאט
+- التفكير، بسرعة وببطء
+- تفکر، سریع و آهسته
+- திங்கிங் பாஸ்ட் அன்ட் சுலோவ்
+- မြန်မြန်တွေးလိုက်၊ နှေးနှေးတွေးလိုက်
+- 快思慢想
 has_id_wikidata: Q983718
+dv_has_:
+  name_:
+    ar: التفكير، بسرعة وببطء
+    az: Cəld və yavaş düşünmək
+    ca: Pensar ràpid, pensar a poc a poc
+    de: Schnelles Denken, langsames Denken
+    en: Thinking, Fast and Slow
+    eo: Pensi rapide kaj malrapide
+    es: Pensar rápido, pensar despacio
+    fa: تفکر، سریع و آهسته
+    fi: Ajattelu, nopeasti ja hitaasti
+    fr: 'Système 1 / Système 2 : Les deux vitesses de la pensée'
+    ga: Thinking, Fast and Slow
+    he: לחשוב מהר, לחשוב לאט
+    it: Pensieri lenti e veloci
+    jv: Thinking, Fast and Slow
+    my: မြန်မြန်တွေးလိုက်၊ နှေးနှေးတွေးလိုက်
+    pl: Pułapki myślenia. O myśleniu szybkim i wolnym
+    pt: Rápido e Devagar - Duas Formas de Pensar
+    ru: Думай медленно...решай быстро
+    sv: Tänka, snabbt och långsamt
+    ta: திங்கிங் பாஸ்ட் அன்ட் சுலோவ்
+    tr: Hızlı ve Yavaş Düşünmek
+    uk: Мислення швидке й повільне
+    uz: Thinking, Fast and Slow
+    zh: 快思慢想
 ---
 > **Thinking, Fast and Slow** is a 2011 popular science book by psychologist [[../../../../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel]].
 >

@@ -1,50 +1,63 @@
 ---
-has_time_started: 1955-09-10 
-has_time_stopped: 1975-03-31 
+has_time_started: 1955-09-10
+has_time_stopped: 1975-03-31
 aliases:
-  - Rauchende Colts
-  - Gun Law
-  - Gunsmoke
+- Gun Law
+- Gunsmoke
+- Krutrök
+- Kruttrøyk
+- Miris baruta
+- Rauchende Colts
+- Димок зі ствола
+- Дымок з руля
+- Дымок из ствола
+- גאנסמוק
+- دود اسلحه
+- غان سموك
+- ガンスモーク
+- 枪烟满西城
+- 鐵腕明鎗
+- 건스모크
 has_id_wikidata: Q29641
 cast_member:
-  - '[[_Standards/WikiData/WD~Burt_Reynolds,202148]]'
-  - '[[_Standards/WikiData/WD~Dennis_Weaver,365550]]'
-  - '[[_Standards/WikiData/WD~Amanda_Blake,450012]]'
-  - '[[_Standards/WikiData/WD~James_Arness,470190]]'
-  - '[[_Standards/WikiData/WD~Ken_Curtis,949696]]'
-  - '[[_Standards/WikiData/WD~Sue_Randall,1153161]]'
-  - '[[_Standards/WikiData/WD~Milburn_Stone,1287322]]'
-  - '[[_Standards/WikiData/WD~Glenn_Strange,1368948]]'
+- '[[_Standards/WikiData/WD~Burt_Reynolds,202148]]'
+- '[[_Standards/WikiData/WD~Dennis_Weaver,365550]]'
+- '[[_Standards/WikiData/WD~Amanda_Blake,450012]]'
+- '[[_Standards/WikiData/WD~James_Arness,470190]]'
+- '[[_Standards/WikiData/WD~Ken_Curtis,949696]]'
+- '[[_Standards/WikiData/WD~Sue_Randall,1153161]]'
+- '[[_Standards/WikiData/WD~Milburn_Stone,1287322]]'
+- '[[_Standards/WikiData/WD~Glenn_Strange,1368948]]'
 composer: '[[_Standards/WikiData/WD~Jerry_Goldsmith,235077]]'
 creator:
-  - '[[_Standards/WikiData/WD~Nathan_Juran,588246]]'
-  - '[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]'
+- '[[_Standards/WikiData/WD~Nathan_Juran,588246]]'
+- '[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]'
 color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
 list_of_episodes: '[[_Standards/WikiData/WD~list_of_Gunsmoke_television_episodes,5219091]]'
 instance_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
 director: '[[_Standards/WikiData/WD~Norman_Macdonnell,7052546]]'
 genre: '[[_Standards/WikiData/WD~Westerns_on_television,7988576]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_10,16553015]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_19,16553018]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_17,16553021]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_12,16553027]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_18,16553024]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_9,16553030]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_8,16553033]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_4,16553039]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_1,16553036]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_14,16553042]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_15,16553045]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_2,16553051]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_5,16553048]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_16,16553054]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_6,16553057]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_3,16553062]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_7,16553060]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_13,16553065]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_20,16553071]]'
-  - '[[_Standards/WikiData/WD~Gunsmoke,_season_11,16553068]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_10,16553015]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_19,16553018]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_17,16553021]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_12,16553027]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_18,16553024]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_9,16553030]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_8,16553033]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_4,16553039]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_1,16553036]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_14,16553042]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_15,16553045]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_2,16553051]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_5,16553048]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_16,16553054]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_6,16553057]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_3,16553062]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_7,16553060]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_13,16553065]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_20,16553071]]'
+- '[[_Standards/WikiData/WD~Gunsmoke,_season_11,16553068]]'
 different_from: '[[_Standards/WikiData/WD~Gunsmoke,120202692]]'
 original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -60,8 +73,45 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gunsmoke%20%28Par
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gunsmoke%20cast%201963.JPG
 Plex_media_key: 5d9c07fe02391c001f57e34d
 Archive_of_Our_Own_tag: Gunsmoke (TV *a* Movies 1955)
+dv_has_:
+  name_:
+    am: Gunsmoke
+    ar: غان سموك
+    ast: Gunsmoke
+    be-tarask: Дымок з руля
+    ca: Gunsmoke
+    cs: Gunsmoke
+    de: Rauchende Colts
+    el: Gunsmoke
+    en: Gunsmoke
+    eo: Gunsmoke
+    es: Gunsmoke
+    eu: Gunsmoke
+    fa: دود اسلحه
+    fi: Gunsmoke
+    fr: Gunsmoke
+    ga: Gunsmoke
+    he: גאנסמוק
+    it: Gunsmoke
+    ja: ガンスモーク
+    ko: 건스모크
+    nb: Kruttrøyk
+    nl: Gunsmoke
+    oc: Gunsmoke
+    pl: Gunsmoke
+    pt: Gunsmoke
+    ru: Дымок из ствола
+    sh: Gunsmoke
+    sr: Miris baruta
+    sv: Krutrök
+    tr: Gunsmoke
+    uk: Димок зі ствола
+    zh: 鐵腕明鎗
+    zh-hant: 鐵腕明鎗
+    zh-my: 枪烟满西城
+    zh-sg: 枪烟满西城
+    zh-tw: 鐵腕明鎗
 ---
-
 # [[Gunsmoke]] 
 
 #is_/same_as :: [[WD~Gunsmoke,29641]] 

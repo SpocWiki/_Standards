@@ -1,27 +1,201 @@
 ---
 aliases:
+- Arbrawf
+- Chedza
+- Deney
+- eksperiment
+- eksperimentas
+- eksperimenti
+- eksperimento
+- eksperiments
+- eksperyans
+- eksperyment
+- esperimento
+- esperimentu
+- Experiment
+- experimento
+- experimento científico
+- experimentum
+- experiéncia
+- experiência científica
+- expérience
+- Faaqidaad
+- iskkus
+- iskos
+- Jaribio
+- koe
+- kísérlet
+- Miegėnėms
+- Percobaan
+- pokus
+- saiakuntza
+- Si̍t-giām
+- sperimentasion
+- Spirimentu
+- thí nghiệm
+- Tilraun
+- turgnamh
+- uji kaji
+- UmGcanso
+- Yañaku
+- Πείραμα
+- Експерімент
+- Експеримент
+- озмоиш
+- опит
+- Туршилт
+- эксперимент
+- эксперымент
+- экспэрымэнт
+- эскерон-чаклан
+- փորձ
+- ניסוי
+- آزمایش
+- ازمايښت
+- اوجي کاجي
+- تاقیکاری
+- تجربة
+- प्रयोग
+- পরীক্ষা
+- ਪ੍ਰਯੋਗ
+- ପରୀକ୍ଷା
+- பரிசோதனை
+- ప్రయోగం
+- ಪ್ರಯೋಗ
+- പരീക്ഷണം
+- පර්යේෂණ නිර්මාණය වීම
+- การทดลอง
+- စမ်းသပ်ခြင်း
+- 实验
+- 実験
+- 實驗
+- 실험
 has_id_wikidata: Q101965
-has_part_s_: "[[_Standards/WikiData/WD~protocol,367158]]"
-different_from: "[[_Standards/WikiData/WD~Experiment,445178]]"
+has_part_s_: '[[_Standards/WikiData/WD~protocol,367158]]'
+different_from: '[[_Standards/WikiData/WD~Experiment,445178]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~test,1003030]]"
-  - "[[_Standards/WikiData/WD~research_work,118563234]]"
-practiced_by: "[[_Standards/WikiData/WD~laboratory_technician,1483433]]"
-part_of: "[[_Standards/WikiData/WD~experimentation,3331334]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923]]"
-OmegaWiki_Defined_Meaning: "1382"
+- '[[_Standards/WikiData/WD~test,1003030]]'
+- '[[_Standards/WikiData/WD~research_work,118563234]]'
+practiced_by: '[[_Standards/WikiData/WD~laboratory_technician,1483433]]'
+part_of: '[[_Standards/WikiData/WD~experimentation,3331334]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923]]'
+OmegaWiki_Defined_Meaning: 1382
 Dewey_Decimal_Classification:
-  - "507.2"
-  - "001.434"
-  - 1--0724
-  - 1--078
+- 507.2
+- 001.434
+- 1--0724
+- 1--078
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chodowiecki%20Basedow%20Tafel%2012%20d.jpg
 Commons_category: Experiments
 IMDb_keyword:
-  - science-experiment
-  - scientific-experiment
+- science-experiment
+- scientific-experiment
+dv_has_:
+  name_:
+    ar: تجربة
+    ast: esperimentu
+    az: eksperiment
+    ba: Эксперимент
+    be: эксперымент
+    be-tarask: экспэрымэнт
+    bg: Експеримент
+    bn: পরীক্ষা
+    bs: eksperiment
+    ca: experiment
+    ckb: تاقیکاری
+    cs: experiment
+    cy: Arbrawf
+    da: eksperiment
+    de: Experiment
+    el: Πείραμα
+    en: experiment
+    eo: eksperimento
+    es: experimento
+    et: eksperiment
+    eu: saiakuntza
+    fa: آزمایش
+    fi: koe
+    fr: expérience
+    ga: turgnamh
+    gl: experimento
+    he: ניסוי
+    hi: प्रयोग
+    hr: eksperiment
+    ht: eksperyans
+    hu: kísérlet
+    hy: փորձ
+    id: Percobaan
+    is: Tilraun
+    it: esperimento
+    ja: 実験
+    kn: ಪ್ರಯೋಗ
+    ko: 실험
+    ky: Эксперимент
+    la: experimentum
+    lb: Experiment
+    lt: eksperimentas
+    lv: eksperiments
+    mk: опит
+    ml: പരീക്ഷണം
+    mn: Туршилт
+    ms: uji kaji
+    ms-arab: اوجي کاجي
+    my: စမ်းသပ်ခြင်း
+    nan: Si̍t-giām
+    nb: eksperiment
+    nds: Experiment
+    nl: experiment
+    nn: eksperiment
+    oc: experiéncia
+    or: ପରୀକ୍ଷା
+    pa: ਪ੍ਰਯੋਗ
+    pl: eksperyment
+    ps: ازمايښت
+    pt: experiência científica
+    pt-br: experimento científico
+    qu: Yañaku
+    ro: experiment
+    ru: эксперимент
+    rue: Експерімент
+    scn: Spirimentu
+    se: iskkus
+    sgs: Miegėnėms
+    sh: eksperiment
+    si: පර්යේෂණ නිර්මාණය වීම
+    sk: pokus
+    sl: eksperiment
+    smn: iskos
+    sn: Chedza
+    so: Faaqidaad
+    sq: eksperimenti
+    sr: експеримент
+    sr-ec: експеримент
+    sr-el: eksperiment
+    sv: experiment
+    sw: Jaribio
+    ta: பரிசோதனை
+    te: ప్రయోగం
+    tg: озмоиш
+    th: การทดลอง
+    tl: eksperimento
+    tr: Deney
+    udm: эскерон-чаклан
+    uk: експеримент
+    uz: Eksperiment
+    vec: sperimentasion
+    vi: thí nghiệm
+    war: eksperimento
+    wuu: 实验
+    yue: 實驗
+    zh: 实验
+    zh-cn: 实验
+    zh-hans: 实验
+    zh-hant: 實驗
+    zh-hk: 實驗
+    zh-sg: 实验
+    zh-tw: 實驗
+    zu: UmGcanso
 ---
-
 # [[Experiment]] 
 
 #is_/different_from :: [[Observational_Study]] 

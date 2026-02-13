@@ -1,27 +1,181 @@
 ---
 aliases:
+- Adabijoti rusī
+- Errusierazko literatura
+- krievu literatūra
+- letteratura russa
+- Literatura da Rússia
+- literatura rosyjska
+- literatura rusa
+- literatura russa
+- literatura rusă
+- Litríocht na Rúise
+- Litterae Russiae
+- littérature russe
+- Lliteratura rusa
+- Llên Rwsia
+- orosz irodalom
+- Panitikang Ruso
+- Rus adabiyoti
+- Rus edebiyatı
+- Rus ədəbiyyatı
+- Ruska književnost
+- ruska literatura
+- ruská literatura
+- Ruská literatúra
+- ruslingva literaturo
+- Russesch Literatur
+- Russian literature
+- russische Literatur
+- Russische literatuur
+- Russisk litteratur
+- rusų literatūra
+- ryskspråkig litteratur
+- Sastra Rusia
+- Vene kirjandus
+- Venälaine literatur
+- venäläinen kirjallisuus
+- Văn học Nga
+- Wêjeya rûsî
+- Ρωσική λογοτεχνία
+- Адабиёти русӣ
+- Вырăс литератури
+- Орыс әдебиеті
+- расейская літаратура
+- російська література
+- рус әдәбияты
+- Рус әҙәбиәте
+- руска књижевност
+- Руска литература
+- руская літаратура
+- русская литература
+- Ռուս գրականություն
+- ספרות רוסית
+- أدب روسي
+- ادبیات روسی
+- روسی ادب
+- وێژەی ڕووسی
+- रशियन साहित्य
+- रूसी भाषा का साहित्य
+- রুশ সাহিত্য
+- ਰੂਸੀ ਸਾਹਿਤ
+- உருசிய இலக்கியம்
+- ರಷ್ಯಾ ಸಾಹಿತ್ಯಕ್ಕೆ
+- რუსული ლიტერატურა
+- የሩሲያ ሥነ-ፅሁፍ
+- ロシア文学
+- 俄国文学
+- 俄國文學
+- 俄文文學
+- 러시아 문학
 has_id_wikidata: Q179161
-studied_by: "[[_Standards/WikiData/WD~Russian_studies,375470]]"
+studied_by: '[[_Standards/WikiData/WD~Russian_studies,375470]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Russian_literature,16656428]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-subclass_of: "[[_Standards/WikiData/WD~Central_and_Eastern_European_literature,113208817]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Russian_literature,16656428]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+subclass_of: '[[_Standards/WikiData/WD~Central_and_Eastern_European_literature,113208817]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B8%D0%B7%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Open%20book%20Russia.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tredyakovskiy.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B8%D0%B7%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Open%20book%20Russia.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tredyakovskiy.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/RUSSKAYA_LITERATURA.html
 Commons_category: Literature of Russia
+dv_has_:
+  name_:
+    am: የሩሲያ ሥነ-ፅሁፍ
+    ar: أدب روسي
+    ast: Lliteratura rusa
+    az: Rus ədəbiyyatı
+    ba: Рус әҙәбиәте
+    be: руская літаратура
+    be-tarask: расейская літаратура
+    bg: Руска литература
+    bjn: Sastra Rusia
+    bn: রুশ সাহিত্য
+    bs: Ruska književnost
+    ca: literatura russa
+    ckb: وێژەی ڕووسی
+    cs: ruská literatura
+    cv: Вырăс литератури
+    cy: Llên Rwsia
+    da: Russisk litteratur
+    de: russische Literatur
+    el: Ρωσική λογοτεχνία
+    en: Russian literature
+    en-gb: Russian literature
+    eo: ruslingva literaturo
+    es: literatura rusa
+    et: Vene kirjandus
+    eu: Errusierazko literatura
+    fa: ادبیات روسی
+    fi: venäläinen kirjallisuus
+    fr: littérature russe
+    ga: Litríocht na Rúise
+    gl: literatura rusa
+    he: ספרות רוסית
+    hi: रूसी भाषा का साहित्य
+    hr: Ruska književnost
+    hu: orosz irodalom
+    hy: Ռուս գրականություն
+    id: Sastra Rusia
+    it: letteratura russa
+    ja: ロシア文学
+    ka: რუსული ლიტერატურა
+    kk: Орыс әдебиеті
+    kn: ರಷ್ಯಾ ಸಾಹಿತ್ಯಕ್ಕೆ
+    ko: 러시아 문학
+    ku: Wêjeya rûsî
+    la: Litterae Russiae
+    lb: Russesch Literatur
+    lt: rusų literatūra
+    lv: krievu literatūra
+    mk: Руска литература
+    mr: रशियन साहित्य
+    nb: russisk litteratur
+    nl: Russische literatuur
+    nn: russisk litteratur
+    pa: ਰੂਸੀ ਸਾਹਿਤ
+    pl: literatura rosyjska
+    pnb: روسی ادب
+    pt: Literatura da Rússia
+    ro: literatura rusă
+    ru: русская литература
+    sh: Ruska književnost
+    sk: Ruská literatúra
+    sl: ruska literatura
+    sr: руска књижевност
+    sr-ec: Руска књижевност
+    sr-el: Ruska književnost
+    sv: ryskspråkig litteratur
+    ta: உருசிய இலக்கியம்
+    tg: Адабиёти русӣ
+    tg-latn: Adabijoti rusī
+    tl: Panitikang Ruso
+    tr: Rus edebiyatı
+    tt: рус әдәбияты
+    uk: російська література
+    ur: روسی ادب
+    uz: Rus adabiyoti
+    vep: Venälaine literatur
+    vi: Văn học Nga
+    wuu: 俄国文学
+    yue: 俄文文學
+    zh: 俄國文學
+    zh-cn: 俄国文学
+    zh-hans: 俄国文学
+    zh-hant: 俄國文學
+    zh-hk: 俄國文學
+    zh-sg: 俄国文学
+    zh-tw: 俄國文學
 ---
-
 # [[Russian_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Russian_literature,179161|WD~Russian_literature,179161]]  

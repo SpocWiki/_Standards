@@ -1,8 +1,286 @@
 ---
 has_id_wikidata: Q35197
+dv_has_:
+  name_:
+    af: spieël
+    an: espiello
+    ar: مرآة
+    arc: ܡܚܙܝܬܐ
+    arz: مرايه
+    ast: espeyu
+    az: güzgü
+    azb: گؤزگو
+    ban: meka
+    bcl: salming
+    be: люстра
+    be-tarask: люстра
+    bew: kaca
+    bg: огледало
+    bjn: caramin
+    bn: আয়না
+    br: melezour
+    bs: ogledalo
+    ca: mirall
+    cdo: giáng
+    ce: куьзга
+    chr: ᏓᏎᏘ
+    ckb: ئاوێنە
+    cs: zrcadlo
+    cv: тĕкĕр
+    cy: drych
+    da: spejl
+    dag: diɣi
+    de: Spiegel
+    ee: ahuhoe
+    el: κάτοπτρο
+    en: mirror
+    en-gb: mirror
+    eo: spegulo
+    es: espejo
+    et: peegel
+    eu: ispilu
+    fa: آینه
+    fi: peili
+    fj: iloilo
+    fr: miroir
+    frr: Speegel
+    ga: scáthán
+    gl: espello
+    gn: itagecha
+    guc: rouya
+    he: מראה
+    hi: दर्पण
+    hr: zrcalo
+    hsb: špihel
+    ht: glas
+    hu: tükör
+    hy: հայելի
+    hyw: հայելի
+    id: cermin
+    ig: enyo
+    ilo: sarming
+    io: spegulo
+    it: specchio
+    ja: 鏡
+    jv: pengilon
+    ka: სარკე
+    kab: tazrut
+    ki: Gĩcicio
+    kk: айна
+    kn: ಕನ್ನಡಿ
+    ko: 거울
+    ku: awêne
+    la: speculum
+    li: spegel
+    lmo: spegg
+    lt: veidrodis
+    lv: spogulis
+    lzh: 鏡
+    mk: огледало
+    ml: കണ്ണാടി
+    mnc: ᠪᡠᠯᡝᡴᡠ
+    mr: आरसा
+    ms: cermin
+    ms-arab: چرمين
+    mwl: speilho
+    my: ကြည့်မှန်
+    myv: чавачамо
+    nah: tezcatl
+    nan: kiàⁿ
+    nb: speil
+    nds-nl: spegel
+    ne: दर्पण
+    new: न्ह्याकं
+    nl: spiegel
+    nn: spegel
+    nrm: mireus
+    oc: miralh
+    om: Daawwitii
+    pa: ਸ਼ੀਸ਼ਾ
+    pdc: Schpiggel
+    pl: lustro
+    pnb: شیشہ
+    ps: هينداره
+    pt: espelho
+    pt-br: espelho
+    qu: rirpu
+    ro: oglindă
+    ru: зеркало
+    rue: зеркало
+    sat: ᱟᱹᱨᱥᱤ
+    scn: specchiu
+    sco: mirror
+    sd: آرسي
+    se: speadjal
+    sgs: zelkorios
+    sh: ogledalo
+    shn: ၸမ်ႈ
+    si: දර්පණ
+    sk: zrkadlo
+    sl: zrcalo
+    smn: speeijâl
+    sms: sueiʹmkar
+    sn: chiringiro
+    sq: pasqyra
+    sr: огледало
+    sr-ec: огледало
+    sr-el: ogledalo
+    su: kaca eunteung
+    sv: spegel
+    ta: ஆடி
+    tcy: ಕನ್ನಡಿ
+    te: దర్పణం
+    tg: оина
+    th: กระจกเงา
+    tl: salamin
+    to: sioʻata
+    tok: ilo jasima
+    tr: ayna
+    tt: көзге
+    tw: ahwehwɛ
+    uk: дзеркало
+    ur: آئینہ
+    uz: koʻzgu
+    vep: zerkol
+    vi: gương
+    vro: piigli
+    war: espiho
+    wuu: 平面镜
+    yi: שפיגל
+    yo: dígí
+    yue: 鏡
+    zh: 鏡
+    zh-hans: 镜
+    zh-hant: 鏡
+    zh-hk: 鏡
+aliases:
+- ahuhoe
+- ahwehwɛ
+- awêne
+- ayna
+- caramin
+- cermin
+- chiringiro
+- Daawwitii
+- diɣi
+- drych
+- dígí
+- enyo
+- espejo
+- espelho
+- espello
+- espeyu
+- espiello
+- espiho
+- giáng
+- glas
+- güzgü
+- Gĩcicio
+- gương
+- ilo jasima
+- iloilo
+- ispilu
+- itagecha
+- kaca
+- kaca eunteung
+- kiàⁿ
+- koʻzgu
+- lustro
+- meka
+- melezour
+- miralh
+- mirall
+- mireus
+- miroir
+- mirror
+- ogledalo
+- oglindă
+- pasqyra
+- peegel
+- peili
+- pengilon
+- piigli
+- rirpu
+- rouya
+- salamin
+- salming
+- sarming
+- Schpiggel
+- scáthán
+- sioʻata
+- speadjal
+- specchio
+- specchiu
+- speculum
+- Speegel
+- speeijâl
+- spegel
+- spegg
+- spegulo
+- speil
+- speilho
+- spejl
+- spiegel
+- spieël
+- spogulis
+- sueiʹmkar
+- tazrut
+- tezcatl
+- tükör
+- veidrodis
+- zelkorios
+- zerkol
+- zrcadlo
+- zrcalo
+- zrkadlo
+- špihel
+- κάτοπτρο
+- айна
+- дзеркало
+- зеркало
+- куьзга
+- көзге
+- люстра
+- огледало
+- оина
+- тĕкĕр
+- чавачамо
+- հայելի
+- מראה
+- שפיגל
+- آئینہ
+- آرسي
+- آینه
+- ئاوێنە
+- شیشہ
+- مرآة
+- مرايه
+- هينداره
+- چرمين
+- گؤزگو
+- ܡܚܙܝܬܐ
+- आरसा
+- दर्पण
+- न्ह्याकं
+- আয়না
+- ਸ਼ੀਸ਼ਾ
+- ஆடி
+- దర్పణం
+- ಕನ್ನಡಿ
+- കണ്ണാടി
+- දර්පණ
+- กระจกเงา
+- ကြည့်မှန်
+- ၸမ်ႈ
+- სარკე
+- ᏓᏎᏘ
+- ᠪᡠᠯᡝᡴᡠ
+- ᱟᱹᱨᱥᱤ
+- 平面镜
+- 鏡
+- 镜
+- 거울
 ---
-
-
 # [[Mirror]]
 
 #is_/same_as :: [[WD~Mirror,35197]] 

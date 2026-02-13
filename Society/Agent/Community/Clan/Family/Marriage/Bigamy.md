@@ -1,22 +1,127 @@
 ---
 aliases:
-  - Bigamy
+- bigami
+- bigamia
+- bigamie
+- Bigamija
+- bigamije
+- bigamio
+- Bigamy
+- Bigamya
+- bigàmia
+- bigámia
+- Divwregiezh
+- Dvipatystė
+- déchéileachas
+- guvttiinnáitaleapmi
+- kaksinnaiminen
+- kuohtiinaaijâm
+- twiǽwfæstnes
+- İki eşlilik
+- İkiarvadlılıq
+- Διγαμία
+- Бігамія
+- Бигамија
+- дваяжэнства
+- Двоєженство
+- двоежёнство
+- Дузанагӣ ё серзанагӣ
+- երկկնություն
+- ביגמיה
+- دو شریک حیات
+- دو همسری
+- مضارة
+- ਦੋ-ਪਤਨੀ ਵਿਆਹ
+- இருதுணை மணம்
+- การสมรสซ้อน
+- 重婚
+- 중혼
 has_id_wikidata: Q720243
 subclass_of:
-  - '[[_Standards/WikiData/WD~crime,83267]]'
-  - '[[_Standards/WikiData/WD~polygamy,170585]]'
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~polygamy,170585]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,876563]]'
 instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
 different_from:
-  - '[[_Standards/WikiData/WD~ambiamory,103620313]]'
-  - '[[_Standards/WikiData/WD~duogamy,131387931]]'
+- '[[_Standards/WikiData/WD~ambiamory,103620313]]'
+- '[[_Standards/WikiData/WD~duogamy,131387931]]'
 OmegaWiki_Defined_Meaning: 541715
 Commons_category: Polygamy
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Bigamya.wav
 P8189: 987007284756605171
+dv_has_:
+  name_:
+    ang: twiǽwfæstnes
+    ar: مضارة
+    ast: Bigamia
+    az: İkiarvadlılıq
+    be: Бігамія
+    be-tarask: дваяжэнства
+    br: Divwregiezh
+    bs: Bigamija
+    ca: bigàmia
+    cs: bigamie
+    de: Bigamie
+    el: Διγαμία
+    en: bigamy
+    en-ca: Bigamy
+    en-gb: Bigamy
+    en-us: bigamy
+    eo: bigamio
+    es: bigamia
+    eu: Bigamia
+    fa: دو همسری
+    fi: kaksinnaiminen
+    fr: bigamie
+    ga: déchéileachas
+    gl: Bigamia
+    he: ביגמיה
+    hr: Bigamija
+    hu: bigámia
+    hy: երկկնություն
+    id: bigami
+    it: bigamia
+    ja: 重婚
+    ko: 중혼
+    la: Bigamia
+    lt: Dvipatystė
+    mk: Бигамија
+    nb: bigami
+    nl: bigamie
+    nn: bigami
+    pa: ਦੋ-ਪਤਨੀ ਵਿਆਹ
+    pl: Bigamia
+    pt: bigamia
+    pt-br: Bigamia
+    ro: Bigamie
+    ru: двоежёнство
+    se: guvttiinnáitaleapmi
+    sh: Bigamija
+    sk: bigamia
+    sma: bigamije
+    smj: bigamija
+    smn: kuohtiinaaijâm
+    sms: bigamia
+    sr: Бигамија
+    sr-ec: бигамија
+    sr-el: bigamija
+    sv: bigami
+    ta: இருதுணை மணம்
+    tg: Дузанагӣ ё серзанагӣ
+    tg-cyrl: Дузанагӣ ё серзанагӣ
+    th: การสมรสซ้อน
+    tl: Bigamya
+    tr: İki eşlilik
+    uk: Двоєженство
+    ur: دو شریک حیات
+    yue: 重婚
+    zh: 重婚
+    zh-cn: 重婚
+    zh-hans: 重婚
+    zh-hant: 重婚
+    zh-hk: 重婚
 ---
-
 # [[Bigamy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bigamy,720243|WD~Bigamy,720243]] 

@@ -1,8 +1,46 @@
 ---
 aliases:
-  - Marc Russell Benioff
-  - Benioff,Marc
+- Benioff,Marc
+- Marc Benioff
+- Marc Russell Benioff
+- Марк Бениофф
+- Марк Бэніёф
+- מארק בניוף
+- مارك بينيوف
+- مارک بنیوف
+- マーク・ベニオフ
+- 馬爾克·貝尼奧夫
 has_id_wikidata: Q1521908
+dv_has_:
+  name_:
+    ar: مارك بينيوف
+    arz: مارك بينيوف
+    ast: Marc Benioff
+    be: Марк Бэніёф
+    ca: Marc Benioff
+    cs: Marc Benioff
+    cy: Marc Benioff
+    da: Marc Benioff
+    de: Marc Benioff
+    en: Marc Benioff
+    es: Marc Benioff
+    fa: مارک بنیوف
+    fi: Marc Benioff
+    fr: Marc Benioff
+    ga: Marc Benioff
+    he: מארק בניוף
+    hu: Marc Benioff
+    it: Marc Benioff
+    ja: マーク・ベニオフ
+    nb: Marc Benioff
+    nl: Marc Benioff
+    nn: Marc Benioff
+    ru: Марк Бениофф
+    sl: Marc Benioff
+    sq: Marc Benioff
+    sv: Marc Benioff
+    zh: 馬爾克·貝尼奧夫
+    zh-hant: 馬爾克·貝尼奧夫
 ---
 # [[Benioff,Marc]] 
 

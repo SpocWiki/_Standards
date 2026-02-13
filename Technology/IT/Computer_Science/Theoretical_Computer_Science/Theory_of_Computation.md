@@ -1,22 +1,134 @@
 ---
 aliases:
+- algoritmalar teorisi
+- alqoritmlər nəzəriyyəsi
+- beräkningsteori
+- computasjonsteori
+- computation theory
+- computationsteori
+- konputazioaren teoria
+- laskettavuus
+- nazarijai avtomatho
+- teori komputasi
+- teori pengiraan
+- teoria calculabilității
+- teoria da computação
+- teoria de la computació
+- teoria de ła conputasion
+- teoria della computazione
+- teoria obliczeń
+- teorie algoritmů
+- teorie de la cumputaçon
+- teorija izračunljivosti
+- teorija računanja
+- teorio de komputado
+- teorio di komputado
+- teoriya ng komputasyon
+- teoría da computación
+- teoría de la computación
+- teória algoritmov
+- theorie van de berekeningen
+- theory of computation
+- théorie du calcul
+- θεωρία υπολογισμού
+- назарияи автоматҳо
+- теорія алгоритмів
+- теорија израчунљивости
+- теорија на сметањето
+- теория алгоритмов
+- Тооцооллын онол
+- тэорыя алгарытмаў
+- тэорыя альгарытмаў
+- ալգորիթմների տեսություն
+- תורת החישוביות
+- د محاسبې تیوري
+- نظرية الحوسبة
+- نظریه محاسبات
+- نظریۂ شمارندگی
+- अभिकलन का सिद्धांत
+- ทฤษฎีการคำนวณ
+- 計算理論
+- 计算理论
+- 運算理論
+- 계산 이론
 has_id_wikidata: Q844718
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~average_case_complexity,4828244]]"
-  - "[[_Standards/WikiData/WD~computational_complexity,5157286]]"
-  - "[[_Standards/WikiData/WD~worst_case_complexity,8037118]]"
-  - "[[_Standards/WikiData/WD~algorithm,8366]]"
+- '[[_Standards/WikiData/WD~average_case_complexity,4828244]]'
+- '[[_Standards/WikiData/WD~computational_complexity,5157286]]'
+- '[[_Standards/WikiData/WD~worst_case_complexity,8037118]]'
+- '[[_Standards/WikiData/WD~algorithm,8366]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
-has_part_s_: "[[_Standards/WikiData/WD~algorithmics,13636890]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~theory,17737]]'
+has_part_s_: '[[_Standards/WikiData/WD~algorithmics,13636890]]'
 part_of:
-  - "[[_Standards/WikiData/WD~information_science,16387]]"
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
-subclass_of: "[[_Standards/WikiData/WD~theory,17737]]"
+- '[[_Standards/WikiData/WD~information_science,16387]]'
+- '[[_Standards/WikiData/WD~computer_science,21198]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
 Commons_category: Theory of computation
+dv_has_:
+  name_:
+    ar: نظرية الحوسبة
+    ast: teoría de la computación
+    az: alqoritmlər nəzəriyyəsi
+    be: тэорыя алгарытмаў
+    be-tarask: тэорыя альгарытмаў
+    bs: teorija računanja
+    ca: teoria de la computació
+    cs: teorie algoritmů
+    da: computationsteori
+    el: θεωρία υπολογισμού
+    en: theory of computation
+    eo: teorio de komputado
+    es: teoría de la computación
+    eu: konputazioaren teoria
+    fa: نظریه محاسبات
+    fi: laskettavuus
+    fr: théorie du calcul
+    gl: teoría da computación
+    he: תורת החישוביות
+    hi: अभिकलन का सिद्धांत
+    hr: teorija računanja
+    hy: ալգորիթմների տեսություն
+    id: teori komputasi
+    io: teorio di komputado
+    it: teoria della computazione
+    ja: 計算理論
+    ki: computation theory
+    ko: 계산 이론
+    mk: теорија на сметањето
+    mn: Тооцооллын онол
+    ms: teori pengiraan
+    mwl: teorie de la cumputaçon
+    nb: computasjonsteori
+    nl: theorie van de berekeningen
+    pl: teoria obliczeń
+    ps: د محاسبې تیوري
+    pt: teoria da computação
+    pt-br: teoria da computação
+    ro: teoria calculabilității
+    ru: теория алгоритмов
+    sh: teorija računanja
+    sk: teória algoritmov
+    sl: teorija računanja
+    sr: теорија израчунљивости
+    sr-ec: теорија израчунљивости
+    sr-el: teorija izračunljivosti
+    sv: beräkningsteori
+    tg: назарияи автоматҳо
+    tg-latn: nazarijai avtomatho
+    th: ทฤษฎีการคำนวณ
+    tl: teoriya ng komputasyon
+    tr: algoritmalar teorisi
+    uk: теорія алгоритмів
+    ur: نظریۂ شمارندگی
+    vec: teoria de ła conputasion
+    yue: 運算理論
+    zh: 计算理论
+    zh-hans: 计算理论
+    zh-hant: 計算理論
+    zh-hk: 計算理論
 ---
-
 # [[Theory_of_Computation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Theory_of_computation,844718|WD~Theory_of_computation,844718]]  

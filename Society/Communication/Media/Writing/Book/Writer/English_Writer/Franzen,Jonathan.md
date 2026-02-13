@@ -1,8 +1,99 @@
 ---
 aliases:
-  - Jonathan Franzen
-  - Franzen,Jonathan
+- Džonatan Franzen
+- Franzen,Jonathan
+- Ionathan Franzen
+- Jonatan Franzen
+- Jonathan Franzen
+- Джонатан Франзен
+- Джонатан Францен
+- Ջոնաթան Ֆրանզեն
+- ג'ונתן פרנזן
+- جاناتان فرانزن
+- جوناثان فرانزن
+- जानथन फ्रान्ज़ेन
+- ਜੋਨਾਥਨ ਫਰੈਂਸਨ
+- ଜୋନାଥନ ଫ୍ରାନଜେନ
+- ஜொனாதன் பிரான்சன்
+- ჯონათან ფრენზენი
+- ジョナサン・フランゼン
+- 強納森·法蘭森
+- 强纳森·法兰森
+- 조너선 프랜즌
 has_id_wikidata: Q316607
+dv_has_:
+  name_:
+    af: Jonathan Franzen
+    an: Jonathan Franzen
+    ar: جوناثان فرانزن
+    arz: جوناثان فرانزن
+    ast: Jonathan Franzen
+    azb: جاناتان فرانزن
+    bg: Джонатан Францен
+    ca: Jonathan Franzen
+    cs: Jonathan Franzen
+    cy: Jonathan Franzen
+    da: Jonathan Franzen
+    de: Jonathan Franzen
+    de-at: Jonathan Franzen
+    de-ch: Jonathan Franzen
+    en: Jonathan Franzen
+    en-ca: Jonathan Franzen
+    en-gb: Jonathan Franzen
+    eo: Jonathan Franzen
+    es: Jonathan Franzen
+    et: Jonathan Franzen
+    eu: Jonathan Franzen
+    fa: جاناتان فرانزن
+    fi: Jonathan Franzen
+    fr: Jonathan Franzen
+    ga: Jonathan Franzen
+    gl: Jonathan Franzen
+    he: ג'ונתן פרנזן
+    hi: जानथन फ्रान्ज़ेन
+    hu: Jonathan Franzen
+    hy: Ջոնաթան Ֆրանզեն
+    io: Jonathan Franzen
+    it: Jonathan Franzen
+    ja: ジョナサン・フランゼン
+    jut: Jonathan Franzen
+    ka: ჯონათან ფრენზენი
+    ko: 조너선 프랜즌
+    kw: Jonathan Franzen
+    la: Ionathan Franzen
+    lfn: Jonathan Franzen
+    mul: Jonathan Franzen
+    nb: Jonathan Franzen
+    nds: Jonathan Franzen
+    nl: Jonathan Franzen
+    nn: Jonathan Franzen
+    or: ଜୋନାଥନ ଫ୍ରାନଜେନ
+    pa: ਜੋਨਾਥਨ ਫਰੈਂਸਨ
+    pap: Jonathan Franzen
+    pl: Jonathan Franzen
+    pms: Jonathan Franzen
+    pt: Jonathan Franzen
+    pt-br: Jonathan Franzen
+    ro: Jonathan Franzen
+    ru: Джонатан Франзен
+    sc: Jonathan Franzen
+    sco: Jonathan Franzen
+    sh: Jonathan Franzen
+    sje: Jonathan Franzen
+    sl: Jonathan Franzen
+    sq: Jonatan Franzen
+    sr: Džonatan Franzen
+    sv: Jonathan Franzen
+    ta: ஜொனாதன் பிரான்சன்
+    tr: Jonathan Franzen
+    uk: Джонатан Франзен
+    zh: 強納森·法蘭森
+    zh-cn: 强纳森·法兰森
+    zh-hans: 强纳森·法兰森
+    zh-hant: 強納森·法蘭森
+    zh-hk: 強納森·法蘭森
+    zh-sg: 强纳森·法兰森
+    zh-tw: 強納森·法蘭森
 ---
 # [[Franzen,Jonathan]] 
 

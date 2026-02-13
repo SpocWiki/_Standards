@@ -1,8 +1,323 @@
 ---
 aliases:
-  - Scorpionida
+- Ajarankhu
+- Akrep
+- Akrepi
+- Alakdan
+- Alikdana
+- Amamatak
+- Bọ cạp
+- Celedu
+- Chayonlar
+- Chinyaridi
+- Colōtl
+- Dabaqaroof
+- Dûpişk
+- Eferen̄
+- escorpião
+- escorpión
+- Escorpí
+- Eskorpioi
+- Giat-á
+- hɔnklekle
+- Japeusaroto
+- Je'yulu
+- Kala jengking
+- Kalajengking
+- Kalamangghâ
+- Kiék
+- Krug
+- Kruktutere
+- Kunama
+- Langir
+- Maingoka
+- Naŋ
+- naŋaa
+- Nge
+- nyang
+- Nɔŋa
+- Pɩcɩka
+- Qaajjibuu
+- scairp
+- schorpioenen
+- Scoirpion
+- scorpion
+- Scorpiones
+- Scorpionida
+- scorpions
+- Scurpiuni
+- Scurpiòṅ
+- Sgorpion
+- Sira-sira
+- Skerpioen
+- Skorpio
+- skorpion
+- Skorpionai
+- skorpionar
+- Skorpione
+- skorpioner
+- Skorpioni
+- Skorpionilised
+- skorpionit
+- Skorpiono
+- Skorpiony
+- Skorpioonen
+- skorpiók
+- skorpyon
+- Sporðdrekar
+- Séigoʼ
+- Tiɣirdemt
+- Tongo
+- þrowend
+- Škorpija
+- Škorpion
+- štipavci
+- štíři
+- ščipalci
+- šťúry
+- Əqrəblər
+- Σκορπιός
+- Каждум
+- Къæдздым
+- Сарышаяндар
+- Саяндар
+- скарпіёны
+- скорпіони
+- Скорпија
+- Скорпион
+- скорпиони
+- Скорпионсем
+- скорпионы
+- Чаяндар
+- Чаяннар
+- шкорпије
+- կարիճներ
+- עקדיש
+- עקרבאים
+- اقربلر
+- بِچھ
+- بچھو
+- دووپشک
+- عقرب
+- لړم
+- وڇون
+- کژدم
+- ܥܩܪܒܐ
+- ߖߐ߲߭ߞߐ߲߬ߞߐ߲
+- बिच्छी
+- बिच्छू
+- विंचू
+- वृश्चिकः
+- বৃশ্চিক
+- ਬਿੱਛੂ
+- વિંછી (પ્રાણી)
+- தேள்
+- తేలు
+- ಚೇಳು, ವೃಶ್ಚಿಕ
+- തേൾ
+- แมงป่อง
+- ကင်းမြီးကောက်
+- မႅင်းၵူၼ်ႈငေႃး
+- მორიელები
+- ጊንጥ
+- ᡳᠰᡝᠯᡝᡴᡠ ᡠᠮᡳᠶᠠᡥᠠ
+- ᱠᱤᱫᱤᱢ ᱠᱟᱴᱠᱚᱢ
+- ᷅̀̀̀̀̀̀̀̀hu᷆rdù
+- サソリ
+- 剪人蟲
+- 蝎子
+- 蝎目
+- 蠍
+- 蠍子
+- 蠍目
+- 전갈
 title: Scorpionida
 has_id_wikidata: Q19125
+dv_has_:
+  name_:
+    af: Skerpioen
+    am: ጊንጥ
+    an: Scorpiones
+    ang: þrowend
+    ann: Eferen̄
+    ar: عقرب
+    arc: ܥܩܪܒܐ
+    arz: عقرب
+    as: বৃশ্চিক
+    ast: Scorpiones
+    ay: Ajarankhu
+    az: Əqrəblər
+    azb: اقربلر
+    ba: Саяндар
+    ban: Celedu
+    bar: Scorpiones
+    bcl: Amamatak
+    be: скарпіёны
+    be-tarask: скарпіёны
+    bg: скорпиони
+    bn: বৃশ্চিক
+    br: Krug
+    bs: Škorpija
+    ca: Escorpí
+    cdo: Kiék
+    ceb: Alikdana
+    ckb: دووپشک
+    co: Scorpiones
+    cs: štíři
+    cv: Скорпионсем
+    cy: Sgorpion
+    da: skorpion
+    dag: Nɔŋa
+    de: Skorpione
+    de-at: Scorpiones
+    de-ch: Scorpiones
+    dga: naŋaa
+    el: Σκορπιός
+    eml: Scurpiòṅ
+    en: scorpion
+    en-ca: Scorpiones
+    en-gb: Scorpiones
+    eo: Skorpio
+    es: escorpión
+    et: Skorpionilised
+    eu: Eskorpioi
+    fa: کژدم
+    fi: skorpionit
+    fo: Sporðdrekar
+    fon: hɔnklekle
+    fr: scorpions
+    frp: Scorpiones
+    frr: Skorpioonen
+    fur: Scorpiones
+    ga: scairp
+    gan: 剪人蟲
+    gd: Scorpiones
+    gl: Escorpión
+    gn: Japeusaroto
+    gsw: Scorpiones
+    gu: વિંછી (પ્રાણી)
+    guc: Je'yulu
+    ha: Kunama
+    he: עקרבאים
+    hi: बिच्छू
+    hr: štipavci
+    hu: skorpiók
+    hy: կարիճներ
+    ia: Scorpiones
+    id: Kalajengking
+    ie: Scorpiones
+    io: Skorpiono
+    is: Scorpiones
+    it: Scorpiones
+    ja: サソリ
+    jv: Kalajengking
+    ka: მორიელები
+    kab: Tiɣirdemt
+    kbp: Pɩcɩka
+    kcg: nyang
+    kg: Scorpiones
+    kk: Сарышаяндар
+    kn: ಚೇಳು, ವೃಶ್ಚಿಕ
+    ko: 전갈
+    ks: بِچھ
+    ku: Dûpişk
+    kus: Naŋ
+    kw: skorpyon
+    ky: Чаяндар
+    la: Scorpiones
+    lb: Scorpiones
+    lfn: Scorpion
+    li: Scorpiones
+    lij: Scorpiones
+    lt: Skorpionai
+    lv: Skorpioni
+    lzh: 蠍
+    mad: Kalamangghâ
+    mcn: ᷅̀̀̀̀̀̀̀̀hu᷆rdù
+    mg: Maingoka
+    min: Scorpiones
+    mk: Скорпија
+    ml: തേൾ
+    mnc: ᡳᠰᡝᠯᡝᡴᡠ ᡠᠮᡳᠶᠠᡥᠠ
+    mr: विंचू
+    mrj: Скорпион
+    ms: Kala jengking
+    mul: Scorpiones
+    my: ကင်းမြီးကောက်
+    nah: Colōtl
+    nan: Giat-á
+    nap: Scorpiones
+    nb: skorpioner
+    nds: Scorpiones
+    nds-nl: Scorpiones
+    ne: बिच्छी
+    nia: Tongo
+    nl: schorpioenen
+    nn: skorpionar
+    nqo: ߖߐ߲߭ߞߐ߲߬ߞߐ߲
+    nrm: Scorpiones
+    nv: Séigoʼ
+    nys: Scorpiones
+    oc: Scorpiones
+    om: Qaajjibuu
+    os: Къæдздым
+    pa: ਬਿੱਛੂ
+    pcd: Scorpiones
+    pl: Skorpiony
+    pms: Scorpiones
+    pnb: بچھو
+    ps: لړم
+    pt: escorpião
+    pt-br: Scorpiones
+    qu: Sira-sira
+    rm: Scorpiones
+    ro: Scorpion
+    ru: скорпионы
+    sa: वृश्चिकः
+    sat: ᱠᱤᱫᱤᱢ ᱠᱟᱴᱠᱚᱢ
+    sc: Scorpiones
+    scn: Scurpiuni
+    sco: scorpion
+    sd: وڇون
+    sh: Škorpion
+    shn: မႅင်းၵူၼ်ႈငေႃး
+    sk: šťúry
+    sl: ščipalci
+    sn: Chinyaridi
+    so: Dabaqaroof
+    sq: Akrepi
+    sr: шкорпије
+    sr-ec: шкорпије
+    srn: Kruktutere
+    su: Langir
+    sv: skorpioner
+    sw: Nge
+    ta: தேள்
+    te: తేలు
+    tg: Каждум
+    th: แมงป่อง
+    tl: Alakdan
+    tr: Akrep
+    tt: Чаяннар
+    uk: скорпіони
+    ur: بچھو
+    uz: Chayonlar
+    vec: Scorpiones
+    vi: Bọ cạp
+    vls: Scorpiones
+    vo: Scorpiones
+    wa: Scoirpion
+    war: Scorpiones
+    wo: Scorpiones
+    wuu: 蝎子
+    yi: עקדיש
+    yue: 蠍子
+    zh: 蠍目
+    zh-cn: 蝎目
+    zh-hans: 蝎目
+    zh-hant: 蝎目
+    zh-tw: 蠍目
+    zu: Scorpiones
 ---
 # [[Scorpionida]]
 

@@ -1,15 +1,162 @@
 ---
 aliases:
+- chân trời sự kiện
+- dogodkovni horizont
+- dremmwel eus an darvoudoù
+- Ereignishorizont
+- eseményhorizont
+- event horizon
+- eventa horizonto
+- gertakari-horizonte
+- hadisə üfüqü
+- hendelseshorisont
+- hendingsrand
+- horitzó d'esdeveniments
+- horizon des événements
+- horizon eventuum
+- horizont događaja
+- horizont udalostí
+- Horizont událostí
+- horizonte de eventos
+- horizonte de sucesos
+- horyzont zdarzeń
+- händelsehorisont
+- hændelseshorisont
+- léaslíne theagmhais
+- notikumu horizonts
+- olay ufku
+- orizon de avenis
+- orizont de evenimente
+- orizont deis eveniments
+- orizzonte degli eventi
+- sündmuste horisont
+- tapahtumahorisontti
+- ufuk peristiwa
+- voqealar gorizonti
+- waarnemingshorison
+- waarnemingshorizon
+- waqiğalar ofığı
+- įvykių horizontas
+- ορίζοντας γεγονότων
+- гарызонт падзей
+- гарызонт падзеяў
+- горизонт подій
+- горизонт событий
+- пулăмсен горизончĕ
+- хоризонт догађаја
+- хоризонт на случувањата
+- хоризонт на събитията
+- Իրադարձությունների հորիզոն
+- אופק אירועים
+- أفق الحدث
+- افق رویداد
+- افق وقیعہ
+- حادیثه اوفوقو
+- घटना क्षितिज
+- ঘটনা দিগন্ত
+- ਘਟਨਾ ਖਤਿਜ
+- நிகழ்வெல்லை
+- സംഭവചക്രവാളം
+- ขอบฟ้าเหตุการณ์
+- ဖြစ်ရပ် မိုးကုတ်စက်ဝိုင်း
+- მოვლენათა ჰორიზონტი
+- 事件視界
+- 事件视界
+- 事体视界
+- 事象の地平面
+- 사건 지평선
 has_id_wikidata: Q181741
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Schwarzschild_radius,72755]]"
-instance_of: "[[_Standards/WikiData/WD~hypersurface,973321]]"
-subclass_of: "[[_Standards/WikiData/WD~horizon,5903346]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Schwarzschild_radius,72755]]'
+instance_of: '[[_Standards/WikiData/WD~hypersurface,973321]]'
+subclass_of: '[[_Standards/WikiData/WD~horizon,5903346]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ergosphere%20of%20a%20rotating%20black%20hole.svg
 Stack_Exchange_tag:
-  - https://physics.stackexchange.com/tags/event-horizon
-  - https://astronomy.stackexchange.com/tags/event-horizon
+- https://physics.stackexchange.com/tags/event-horizon
+- https://astronomy.stackexchange.com/tags/event-horizon
+dv_has_:
+  name_:
+    af: waarnemingshorison
+    ar: أفق الحدث
+    ast: horizonte de sucesos
+    az: hadisə üfüqü
+    azb: حادیثه اوفوقو
+    be: гарызонт падзей
+    be-tarask: гарызонт падзеяў
+    bg: хоризонт на събитията
+    bn: ঘটনা দিগন্ত
+    br: dremmwel eus an darvoudoù
+    bs: horizont događaja
+    ca: horitzó d'esdeveniments
+    cs: Horizont událostí
+    cv: пулăмсен горизончĕ
+    da: hændelseshorisont
+    de: Ereignishorizont
+    el: ορίζοντας γεγονότων
+    en: event horizon
+    eo: eventa horizonto
+    es: horizonte de sucesos
+    et: sündmuste horisont
+    eu: gertakari-horizonte
+    fa: افق رویداد
+    fi: tapahtumahorisontti
+    fr: horizon des événements
+    ga: léaslíne theagmhais
+    he: אופק אירועים
+    hi: घटना क्षितिज
+    hr: horizont događaja
+    hu: eseményhorizont
+    hy: Իրադարձությունների հորիզոն
+    ia: horizonte de eventos
+    id: ufuk peristiwa
+    it: orizzonte degli eventi
+    ja: 事象の地平面
+    ka: მოვლენათა ჰორიზონტი
+    ko: 사건 지평선
+    la: horizon eventuum
+    lfn: orizon de avenis
+    lt: įvykių horizontas
+    lv: notikumu horizonts
+    mk: хоризонт на случувањата
+    ml: സംഭവചക്രവാളം
+    mr: घटना क्षितिज
+    ms: ufuk peristiwa
+    my: ဖြစ်ရပ် မိုးကုတ်စက်ဝိုင်း
+    nb: hendelseshorisont
+    nl: waarnemingshorizon
+    nn: hendingsrand
+    oc: orizont deis eveniments
+    pa: ਘਟਨਾ ਖਤਿਜ
+    pl: horyzont zdarzeń
+    pt: horizonte de eventos
+    pt-br: horizonte de eventos
+    ro: orizont de evenimente
+    ru: горизонт событий
+    sh: horizont događaja
+    sk: horizont udalostí
+    sl: dogodkovni horizont
+    sr: хоризонт догађаја
+    sr-ec: хоризонт догађаја
+    sr-el: horizont događaja
+    sv: händelsehorisont
+    ta: நிகழ்வெல்லை
+    th: ขอบฟ้าเหตุการณ์
+    tl: event horizon
+    tr: olay ufku
+    tt: waqiğalar ofığı
+    uk: горизонт подій
+    ur: افق وقیعہ
+    uz: voqealar gorizonti
+    vi: chân trời sự kiện
+    wuu: 事体视界
+    yue: 事件視界
+    zh: 事件視界
+    zh-cn: 事件视界
+    zh-hans: 事件视界
+    zh-hant: 事件視界
+    zh-hk: 事件視界
+    zh-sg: 事件视界
+    zh-tw: 事件視界
 ---
-
 # [[Event_Horizon]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Event_horizon,181741|WD~Event_horizon,181741]] 

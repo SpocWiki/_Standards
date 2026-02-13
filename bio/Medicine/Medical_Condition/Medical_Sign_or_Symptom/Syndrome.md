@@ -1,28 +1,177 @@
 ---
 aliases:
-  - Syndrom
-  - Syndrome
+- Faarmullisa
+- gejala
+- hội chứng
+- oireyhtymä
+- sendrom
+- Sindrom
+- Sindromas
+- sindrome
+- sindromi
+- sindromo
+- sindroms
+- sindromë
+- siondróm
+- Syndrom
+- syndroma
+- Syndrome
+- syndroom
+- Syndróm
+- szindróma
+- sìndrome
+- síndrome
+- Sïndrom
+- sündroom
+- Timsedfert
+- zespół chorobowy
+- σύνδρομο
+- сіндром
+- синдром
+- синдрум
+- сындром
+- համախտանիշ
+- תסמונת
+- ساندروم
+- سىيندروم
+- طبی علامات
+- متلازمة
+- نشانگان
+- کۆنیشان
+- संलक्षण
+- উপসৰ্গ
+- সংলক্ষণ
+- ସିଣ୍ଡ୍ରୋମ
+- സിൻഡ്രോം
+- සහලක්ෂණය
+- กลุ่มอาการ
+- ཕྱོགས་འདུས་ནད་
+- სინდრომი
+- 症候群
+- 綜合症
+- 综合征
+- 综合症
+- 증후군
 has_id_wikidata: Q179630
 has_part_s_: '[[_Standards/WikiData/WD~symptom,169872]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~symptom,169872]]'
-  - '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~symptom,169872]]'
+- '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~umbrella_term,210588]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-  - '[[_Standards/WikiData/WD~symptom_type,130753312]]'
+- '[[_Standards/WikiData/WD~umbrella_term,210588]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_type,130753312]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 348605
 exact_match:
-  - http://identifiers.org/doid/DOID:225
-  - http://purl.obolibrary.org/obo/DOID_225
+- http://identifiers.org/doid/DOID:225
+- http://purl.obolibrary.org/obo/DOID_225
 UMLS_CUI: C0039082
 MeSH_tree_code: C23.550.288.500
 Commons_category: Syndromes
+dv_has_:
+  name_:
+    ar: متلازمة
+    ary: ساندروم
+    as: উপসৰ্গ
+    ast: Síndrome
+    az: Sindrom
+    be: сіндром
+    be-tarask: сындром
+    bg: Синдром
+    bn: সংলক্ষণ
+    bo: ཕྱོགས་འདུས་ནད་
+    bs: Sindrom
+    ca: síndrome
+    ckb: کۆنیشان
+    cs: syndrom
+    cy: syndrom
+    da: syndrom
+    de: Syndrom
+    el: σύνδρομο
+    en: syndrome
+    eo: sindromo
+    es: síndrome
+    et: sündroom
+    eu: sindrome
+    fa: نشانگان
+    fi: oireyhtymä
+    fj: Syndrome
+    fr: syndrome
+    ga: siondróm
+    gl: síndrome
+    he: תסמונת
+    hi: संलक्षण
+    hr: sindrom
+    hu: szindróma
+    hy: համախտանիշ
+    id: Sindrom
+    it: sindrome
+    ja: 症候群
+    ka: სინდრომი
+    kab: Timsedfert
+    kk: Синдром
+    kk-arab: سىيندروم
+    kk-cn: سىيندروم
+    kk-cyrl: Синдром
+    kk-kz: Синдром
+    kk-latn: Sïndrom
+    kk-tr: Sïndrom
+    ko: 증후군
+    ku-latn: sendrom
+    la: syndroma
+    lt: Sindromas
+    lv: sindroms
+    mk: синдром
+    ml: സിൻഡ്രോം
+    ms: gejala
+    nb: syndrom
+    nl: syndroom
+    nn: syndrom
+    om: Faarmullisa
+    or: ସିଣ୍ଡ୍ରୋମ
+    pam: sindromi
+    pl: zespół chorobowy
+    pt: síndrome
+    ro: sindrom
+    ru: синдром
+    rue: Синдром
+    sco: syndrome
+    se: syndroma
+    sh: Sindrom
+    si: සහලක්ෂණය
+    sk: Syndróm
+    sl: sindrom
+    smn: syndroom
+    sms: syndroom
+    sq: sindromë
+    sr: синдром
+    sr-ec: синдром
+    sr-el: sindrom
+    sv: syndrom
+    th: กลุ่มอาการ
+    tr: sendrom
+    tt: синдрум
+    uk: синдром
+    ur: طبی علامات
+    uz: Sindrom
+    vec: sìndrome
+    vi: hội chứng
+    wa: Sindrome
+    wuu: 综合征
+    yue: 綜合症
+    zh: 症候群
+    zh-cn: 综合征
+    zh-hans: 综合征
+    zh-hant: 症候群
+    zh-hk: 綜合症
+    zh-mo: 綜合症
+    zh-my: 综合症
+    zh-sg: 综合症
+    zh-tw: 症候群
 ---
-
 # [[Syndrome]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Syndrome,179630|WD~Syndrome,179630]]  

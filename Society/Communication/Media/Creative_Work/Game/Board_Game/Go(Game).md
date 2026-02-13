@@ -1,26 +1,70 @@
 ---
 aliases:
-  - Go (game)
-  - Go
-  - Go(Game)
+- cờ vây
+- Go
+- Go (board game)
+- Go (game)
+- Go (gieugh)
+- Go (gwari bordh)
+- Go (jé)
+- Go (lojë)
+- Go (Spiel)
+- Go(Game)
+- goo
+- gos
+- Gó
+- Igo
+- Qo
+- Ùi-gì
+- Ûi-kî
+- γκο
+- Го
+- Ґо
+- Գո
+- גא
+- גו
+- غو
+- قو
+- ڭو
+- گو
+- گو، لعبہ
+- گەو
+- गो
+- बदूक
+- গ' খেল
+- গো (খেলা)
+- ਗੋ
+- வெய்ச்சி
+- വെയ്ക്കി
+- หมากล้อม
+- མིག་མངས་སྒོར་སྒོར།
+- ဂို
+- გო
+- ጎ
+- ᱥᱮᱱ
+- 囲碁
+- 围棋
+- 圍棋
+- 弈
+- 바둑
 has_id_wikidata: Q11413
 authority:
-  - '[[_Standards/WikiData/WD~International_Go_Federation,921135]]'
-  - '[[_Standards/WikiData/WD~American_Go_Association,1112770]]'
-  - '[[_Standards/WikiData/WD~Nihon_Ki-in,1634097]]'
-  - '[[_Standards/WikiData/WD~European_Go_Federation,2328638]]'
+- '[[_Standards/WikiData/WD~International_Go_Federation,921135]]'
+- '[[_Standards/WikiData/WD~American_Go_Association,1112770]]'
+- '[[_Standards/WikiData/WD~Nihon_Ki-in,1634097]]'
+- '[[_Standards/WikiData/WD~European_Go_Federation,2328638]]'
 Baidu_Tieba_name: 围棋
 Bilibili_UID: 3461565862906475
 Commons_category: Go (game)
 Commons_gallery: Go (board game)
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Go,219221]]'
-  - '[[_Standards/WikiData/WD~Othello,748139]]'
-  - '[[_Standards/WikiData/WD~Ludus_latrunculorum,1700280]]'
+- '[[_Standards/WikiData/WD~Go,219221]]'
+- '[[_Standards/WikiData/WD~Othello,748139]]'
+- '[[_Standards/WikiData/WD~Ludus_latrunculorum,1700280]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Go,2383545]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20%28game%29%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20board.jpg
@@ -34,25 +78,153 @@ OmegaWiki_Defined_Meaning: 334648
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20banner.png
 part_of: '[[_Standards/WikiData/WD~four_arts_of_the_Chinese_scholar,1751511]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~Go_professional,3186699]]'
-  - '[[_Standards/WikiData/WD~female_Go_player,11446504]]'
-  - '[[_Standards/WikiData/WD~Go_player,12039558]]'
+- '[[_Standards/WikiData/WD~Go_professional,3186699]]'
+- '[[_Standards/WikiData/WD~female_Go_player,11446504]]'
+- '[[_Standards/WikiData/WD~Go_player,12039558]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~board_game,131436]]'
-  - '[[_Standards/WikiData/WD~two-player_game,7858742]]'
-  - '[[_Standards/WikiData/WD~game_on_cell_board,18703581]]'
+- '[[_Standards/WikiData/WD~board_game,131436]]'
+- '[[_Standards/WikiData/WD~two-player_game,7858742]]'
+- '[[_Standards/WikiData/WD~game_on_cell_board,18703581]]'
 subreddit: baduk
 time_of_discovery_or_invention: -2254
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Go,14614575]]'
 uses:
-  - '[[_Standards/WikiData/WD~Goban,1352055]]'
-  - '[[_Standards/WikiData/WD~Go_stone,7887414]]'
-  - '[[_Standards/WikiData/WD~go_equipment,17640628]]'
+- '[[_Standards/WikiData/WD~Goban,1352055]]'
+- '[[_Standards/WikiData/WD~Go_stone,7887414]]'
+- '[[_Standards/WikiData/WD~go_equipment,17640628]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/9x9%20Go.ogv
 Wolfram_Language_entity_code: Entity["BoardGame", "Go"]
 WordLift_URL: http://data.thenextweb.com/tnw/entity/go
+dv_has_:
+  name_:
+    af: Go
+    am: ጎ
+    an: Go
+    ar: غو
+    ary: ڭو
+    as: গ' খেল
+    ast: Go
+    awa: बदूक
+    az: Qo
+    azb: قو
+    ba: Го
+    bar: Go
+    be: го
+    be-tarask: го
+    bg: Го
+    bn: গো (খেলা)
+    bo: མིག་མངས་སྒོར་སྒོར།
+    br: Go
+    bs: Go
+    ca: go
+    cdo: Ùi-gì
+    ce: Го
+    ckb: گەو
+    crh: Go
+    cs: Go
+    cv: Го
+    cy: Go
+    da: go
+    de: Go
+    de-ch: Go (Spiel)
+    dsb: Go
+    el: γκο
+    en: go
+    eo: goo
+    es: go
+    et: Go
+    eu: Go
+    ext: Go
+    fa: گو
+    fi: go
+    fr: go
+    ga: Gó
+    gan: 圍棋
+    gcr: Go (jé)
+    gd: Go
+    gl: Go
+    gn: go
+    gsw: Go
+    he: גו
+    hi: गो
+    hif: Go
+    hr: Go
+    hsb: Go
+    hu: go
+    hy: Գո
+    ia: Go
+    id: Igo
+    is: gó
+    it: go
+    ja: 囲碁
+    jbo: gos
+    ka: გო
+    kk: Го
+    ko: 바둑
+    kw: Go (gwari bordh)
+    la: Igo
+    lb: Go
+    lfn: Go
+    lt: go
+    lv: Go
+    lzh: 弈
+    mk: Го
+    ml: വെയ്ക്കി
+    mn: Го
+    ms: Go
+    my: ဂို
+    nan: Ûi-kî
+    nb: go
+    nds: Go
+    nl: go
+    nn: go
+    nso: Go (board game)
+    oc: Go
+    os: Го
+    pa: ਗੋ
+    pl: go
+    pms: Go (gieugh)
+    pnb: گو
+    pt: go
+    pt-br: Go
+    ro: go
+    ru: го
+    rue: Ґо
+    sat: ᱥᱮᱱ
+    sco: go
+    sgs: Go
+    sh: Go
+    sk: Go
+    sl: go
+    sq: Go (lojë)
+    sr: го
+    sr-ec: го
+    sr-el: go
+    sv: go
+    sw: Go
+    ta: வெய்ச்சி
+    th: หมากล้อม
+    tk: Go
+    tl: go
+    tr: go
+    tt: Го
+    uk: го
+    ur: گو، لعبہ
+    uz: Go
+    vep: Go
+    vi: cờ vây
+    vro: Go
+    war: Go
+    wuu: 围棋
+    yi: גא
+    yue: 圍棋
+    zh: 圍棋
+    zh-cn: 围棋
+    zh-hans: 围棋
+    zh-hant: 圍棋
+    zh-hk: 圍棋
+    zh-tw: 圍棋
 ---
-
 # [[Go(Game)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Go,11413|WD~Go,11413]] 

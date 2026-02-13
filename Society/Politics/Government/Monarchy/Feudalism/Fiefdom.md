@@ -1,8 +1,133 @@
 ---
 aliases:
-  - fief
-  - Fiefdom
+- aotrouniezhoù
+- feod
+- feodas
+- feu
+- Feud
+- feudo
+- Feudu
+- feudum
+- feudă
+- fevd
+- feŭdo
+- fief
+- Fiefdom
+- Fieu
+- Fèu
+- fèudo
+- fìof
+- Fî
+- förläning
+- Hieëredeenste
+- Kuripan
+- leenstelsel
+- Lehn (Feudalismus)
+- Lehnswesen
+- len
+- lenno
+- liefeigenschop
+- lãnh địa
+- Läächewääse
+- Lään
+- läänitys
+- lén
+- léno
+- lēnis
+- lǣn
+- maenor wriogaethol
+- yurtluk
+- φέουδο
+- лен
+- феод
+- феуд
+- фэод
+- Ֆեոդ
+- פייף
+- إقطاعة
+- تیول
+- レーエン
+- 采邑
+- 采邑制
+- 봉토
 has_id_wikidata: Q188063
+dv_has_:
+  name_:
+    ang: lǣn
+    ar: إقطاعة
+    ast: Feudu
+    be: феод
+    be-tarask: фэод
+    bg: Феод
+    br: aotrouniezhoù
+    ca: feu
+    cs: léno
+    cy: maenor wriogaethol
+    da: Len
+    de: Lehnswesen
+    el: φέουδο
+    en: fiefdom
+    en-ca: Fief
+    en-gb: fief
+    eo: feŭdo
+    es: feudo
+    et: Lään
+    eu: Feudo
+    fa: تیول
+    fi: läänitys
+    fr: fief
+    ga: feod
+    gd: fìof
+    gl: feudo
+    gsw: Läächewääse
+    he: פייף
+    hr: Feud
+    hu: feudum
+    hy: Ֆեոդ
+    id: fiefdom
+    io: Feudo
+    is: lén
+    it: feudo
+    ja: レーエン
+    kaa: Feod
+    kk: Феод
+    ko: 봉토
+    li: Hieëredeenste
+    lt: feodas
+    lv: lēnis
+    mk: феуд
+    ms: Kuripan
+    nb: len
+    nds: Lehn (Feudalismus)
+    nds-nl: liefeigenschop
+    nl: leenstelsel
+    nn: len
+    nrm: Fieu
+    oc: Fèu
+    pl: lenno
+    pt: feudo
+    pt-br: Feudo
+    ro: feudă
+    ru: феод
+    scn: Feu
+    sh: Feud
+    sk: Léno
+    sl: fevd
+    sr: Феуд
+    sv: förläning
+    tr: yurtluk
+    uk: лен
+    uz: Feod
+    vec: fèudo
+    vi: lãnh địa
+    wa: Fî
+    zh: 采邑
+    zh-cn: 采邑制
+    zh-hans: 采邑制
+    zh-hant: 采邑制
+    zh-hk: 采邑制
+    zh-sg: 采邑制
+    zh-tw: 采邑制
 ---
 # [[Fiefdom]] 
 

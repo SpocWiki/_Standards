@@ -1,15 +1,106 @@
 ---
 aliases:
+- braiteoir optúil
+- detektor záření
+- fotocelle
+- fotodetector
+- fotodetektagailu
+- fotodetektilo
+- Fotodetektor
+- fotoelementas
+- Fotoelements
+- fotoreceptor
+- fotorivelatore
+- Fotorreceptor
+- Fotosel
+- Fotoćelija
+- Isihlongabane
+- Ljósnemi
+- photodetector
+- Photodetektor
+- photodétecteur
+- Sensor cahaya
+- sensor de lumenozità
+- valokenno
+- φωτοανιχευτής
+- светлосетилник
+- фотадэтэктар
+- фотодавач
+- Фотодетектор
+- ֆոտոդետեկտոր
+- גלאי אור
+- آشکارساز نوری
+- مستشعر ضوئي
+- फोटोडिटेक्टोर
+- ಬೆಳಕು ಪತ್ತೆಕಾರಕ
+- 光度感應器
+- 光感應器
+- 光感测器
+- 光検出器
+- 광검출기
 has_id_wikidata: Q210765
 subclass_of:
-  - "[[_Standards/WikiData/WD~detector,2066909]]"
-  - "[[_Standards/WikiData/WD~optoelectronic_device,11585131]]"
+- '[[_Standards/WikiData/WD~detector,2066909]]'
+- '[[_Standards/WikiData/WD~optoelectronic_device,11585131]]'
 Commons_category: Optical sensors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20sensor.png
-Dewey_Decimal_Classification: "621.381542"
+Dewey_Decimal_Classification: 621.381542
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Photodetector"]
+dv_has_:
+  name_:
+    ar: مستشعر ضوئي
+    ast: fotodetector
+    az: Fotodetektor
+    be-tarask: фотадэтэктар
+    bg: Фотодетектор
+    ca: fotoreceptor
+    cs: detektor záření
+    da: fotodetektor
+    de: Photodetektor
+    el: φωτοανιχευτής
+    en: photodetector
+    eo: fotodetektilo
+    es: fotodetector
+    et: Fotodetektor
+    eu: fotodetektagailu
+    fa: آشکارساز نوری
+    fi: valokenno
+    fr: photodétecteur
+    ga: braiteoir optúil
+    gl: Fotorreceptor
+    he: גלאי אור
+    hi: फोटोडिटेक्टोर
+    hr: Fotoćelija
+    hy: ֆոտոդետեկտոր
+    id: Sensor cahaya
+    is: Ljósnemi
+    it: fotorivelatore
+    ja: 光検出器
+    kn: ಬೆಳಕು ಪತ್ತೆಕಾರಕ
+    ko: 광검출기
+    lt: fotoelementas
+    lv: Fotoelements
+    mk: светлосетилник
+    nb: fotocelle
+    nl: fotodetector
+    nn: fotocelle
+    pl: fotodetektor
+    ru: фотодетектор
+    sh: Fotodetektor
+    sk: Fotodetektor
+    sl: fotodetektor
+    sr: фотодетектор
+    sv: fotodetektor
+    tr: Fotosel
+    uk: фотодавач
+    uz: Fotodetektor
+    vec: sensor de lumenozità
+    vi: Photodetector
+    wuu: 光感测器
+    yue: 光感應器
+    zh: 光度感應器
+    zu: Isihlongabane
 ---
-
 # [[Photodetector]] 
 
 #is_/same_as :: [[WD~Photodetector,210765]] 

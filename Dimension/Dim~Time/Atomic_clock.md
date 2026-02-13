@@ -1,7 +1,68 @@
 ---
 aliases:
-  - Atomic_clock
-  - Atomic clock
+- aatomkell
+- Arlògi atòmich
+- atom saati
+- atom saatı
+- atom soati
+- atomhorloĝo
+- Atomic clock
+- Atomic_clock
+- atomikello
+- atominis laikrodis
+- atomové hodiny
+- atompulkstenis
+- atomska ura
+- atomski sat
+- atomski časovnik
+- Atomuhr
+- atomur
+- atomóra
+- atoomhorlosie
+- Atoomklok
+- atómové hodiny
+- ceas atomic
+- cloc atomig
+- erloju atomiko
+- horloge atomique
+- jam atom
+- ora atomike
+- orologio atomico
+- rellotge atòmic
+- reloj atómico
+- reloxo atómico
+- relòtge atomic
+- reló atómicu
+- relógio atómico
+- relógio atômico
+- rełojo atòmico
+- zegar atomowy
+- Đồng hồ nguyên tử
+- ατομικό ρολόι
+- атамны гадзіннік
+- атамны гадзіньнік
+- атом сағаты
+- атом сәгате
+- атомен часовник
+- атомний годинник
+- атомные часы
+- атомски часовник
+- ատոմային ժամացույց
+- שעון אטומי
+- آتوم ساعاتی
+- جوہری گھڑی
+- ساعة ذرية
+- ساعت اتمی
+- परमाणु घड़ी
+- அணுக் கடிகாரம்
+- ಪರಮಾಣು ಗಡಿಯಾರ
+- ആണവഘടികാരം
+- นาฬิกาอะตอม
+- አተሚክ ሰዓት
+- 原子時計
+- 原子鐘
+- 原子钟
+- 원자 시계
 has_id_wikidata: Q227467
 described_by_source: '[[_Standards/WikiData/WD~Ukrainian_Soviet_Encyclopedia,2478929]]'
 different_from: '[[_Standards/WikiData/WD~nuclear_clock,16040784]]'
@@ -9,18 +70,102 @@ subclass_of: '[[_Standards/WikiData/WD~timepiece,376]]'
 OmegaWiki_Defined_Meaning: 1295741
 time_of_discovery_or_invention: 1955-06-03T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/17jila003%203d%20strontium%20atomic%20clock.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20Clock-Louis%20Essen.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/ChipScaleClock2%20HR.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/President%20Pi%C3%B1era%20receives%20ESO%27s%20first%20atomic%20clock.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20Optical%20Lattice%20Clock%20purple%20and%20green%20light.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/17jila003%203d%20strontium%20atomic%20clock.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20Clock-Louis%20Essen.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/ChipScaleClock2%20HR.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/President%20Pi%C3%B1era%20receives%20ESO%27s%20first%20atomic%20clock.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20Optical%20Lattice%20Clock%20purple%20and%20green%20light.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Clock%20accuracy.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/atomic-clocks
 P8189: 987007295870005171
 Commons_category: Atomic clocks
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "ClockAtomic"]
+dv_has_:
+  name_:
+    af: atoomhorlosie
+    am: አተሚክ ሰዓት
+    ar: ساعة ذرية
+    ast: reló atómicu
+    az: atom saatı
+    azb: آتوم ساعاتی
+    be: атамны гадзіннік
+    be-tarask: атамны гадзіньнік
+    bg: атомен часовник
+    bs: atomski sat
+    ca: rellotge atòmic
+    cs: atomové hodiny
+    cy: cloc atomig
+    da: atomur
+    de: Atomuhr
+    de-ch: Atomuhr
+    el: ατομικό ρολόι
+    en: atomic clock
+    en-ca: atomic clock
+    en-gb: atomic clock
+    eo: atomhorloĝo
+    es: reloj atómico
+    et: aatomkell
+    eu: erloju atomiko
+    fa: ساعت اتمی
+    fi: atomikello
+    fr: horloge atomique
+    frr: Atoomklok
+    gl: reloxo atómico
+    gsw: Atomuhr
+    he: שעון אטומי
+    hi: परमाणु घड़ी
+    hr: atomski sat
+    hu: atomóra
+    hy: ատոմային ժամացույց
+    id: jam atom
+    it: orologio atomico
+    ja: 原子時計
+    kk: атом сағаты
+    kn: ಪರಮಾಣು ಗಡಿಯಾರ
+    ko: 원자 시계
+    lt: atominis laikrodis
+    lv: atompulkstenis
+    mk: атомски часовник
+    ml: ആണവഘടികാരം
+    ms: jam atom
+    nb: atomur
+    nl: atoomklok
+    nn: atomur
+    oc: relòtge atomic
+    pl: zegar atomowy
+    pms: Arlògi atòmich
+    pt: relógio atómico
+    pt-br: relógio atômico
+    ro: ceas atomic
+    ru: атомные часы
+    sh: atomski sat
+    sk: atómové hodiny
+    sl: atomska ura
+    sq: ora atomike
+    sr: атомски часовник
+    sr-ec: атомски часовник
+    sr-el: atomski časovnik
+    sv: atomur
+    ta: அணுக் கடிகாரம்
+    th: นาฬิกาอะตอม
+    tr: atom saati
+    tt: атом сәгате
+    tt-cyrl: атом сәгате
+    uk: атомний годинник
+    ur: جوہری گھڑی
+    uz: atom soati
+    vec: rełojo atòmico
+    vi: Đồng hồ nguyên tử
+    wuu: 原子钟
+    yue: 原子鐘
+    zh: 原子鐘
+    zh-cn: 原子钟
+    zh-hans: 原子钟
+    zh-hant: 原子鐘
+    zh-hk: 原子鐘
+    zh-sg: 原子钟
+    zh-tw: 原子鐘
 ---
-
 # [[Atomic_clock]] 
 
 #is_/same_as :: [[../../WikiData/WD~Atomic_clock,227467|WD~Atomic_clock,227467]] 

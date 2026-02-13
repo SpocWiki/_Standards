@@ -1,15 +1,77 @@
 ---
 aliases:
-  - Chemotherapie
-  - Chemotherapy
+- ceimiteiripe
+- cemotherapi
+- chemioterapia
+- chemioterapia nowotworów
+- chemiotherapia
+- chemoterapia
+- Chemoterapie
+- chemoterapija
+- Chemotherapie
+- Chemotherapy
+- chimioterapie
+- chimiothérapie
+- Chimyoterapi
+- Hemoterapija
+- hóa trị liệu
+- keemiaravi
+- Kemioterapio
+- kemoterapi
+- kemoterapia
+- kemoterapiija
+- Kemoterapija
+- Kemoterapiya
+- Kemoterapiye
+- kemoterápia
+- kiemasanav
+- Kimioterapia
+- Kimoterapya
+- Kimyaterapiya
+- kjemoterapi
+- Malign neoplazmalar uchun kimyoterapiya
+- quimioterapia
+- quimioteràpia
+- ĥemioterapio
+- ļaundabīgo audzēju ķīmijterapija
+- Χημειοθεραπεία
+- хімієтерапія
+- хіміятэрапія
+- Хемотерапија
+- Химиотерапия
+- химиотерапия злокачественных новообразований
+- Химия терапиясы
+- Яман шешләр химиотерапиясе
+- քիմիաթերապիա
+- כימותרפיה
+- العلاج الكيميائي
+- شیمیدرمانی
+- معالجۂ کیمیائیہ
+- چارەسەری کیمیایی
+- کيموتراپي
+- ڪيموٿراپي
+- कीमोथेरेपी
+- रसायनोपचार
+- কেমোথেরাপি
+- ਕੀਮੋਥੇਰੇਪੀ
+- வேதிச்சிகிச்சை
+- ಕೀಮೋಥೆರಪಿ
+- കീമോതെറാപ്പി
+- කීමොතෙරපි
+- เคมีบำบัด
+- Ọgwụ Ọgwụ
+- 化学疗法
+- 化学療法
+- 化療
+- 화학요법
 has_id_wikidata: Q974135
 has_effect:
-  - '[[_Standards/WikiData/WD~vomiting,127076]]'
-  - '[[_Standards/WikiData/WD~cancer_pain,3712728]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~cancer_pain,3712728]]'
 uses: '[[_Standards/WikiData/WD~chemotherapeutic_agents,574031]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~treatment_of_cancer,2575340]]'
-  - '[[_Standards/WikiData/WD~chemotherapy,3252988]]'
+- '[[_Standards/WikiData/WD~treatment_of_cancer,2575340]]'
+- '[[_Standards/WikiData/WD~chemotherapy,3252988]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from: '[[_Standards/WikiData/WD~chemotherapy,3252988]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Targeted_cancer_therapeutic_agents,5769797]]'
@@ -20,8 +82,94 @@ U_S_National_Archives_Identifier: 10636900
 P8189: 987007283224205171
 IMDb_keyword: chemotherapy
 Wolfram_Language_entity_code: Entity["Concept", "Chemotherapy::3p27j"]
+dv_has_:
+  name_:
+    af: Chemoterapie
+    an: Quimioterapia
+    ar: العلاج الكيميائي
+    ast: Quimioterapia
+    az: Kimyaterapiya
+    be: хіміятэрапія
+    be-tarask: хіміятэрапія
+    bg: Химиотерапия
+    bn: কেমোথেরাপি
+    bs: Hemoterapija
+    ca: quimioteràpia
+    ckb: چارەسەری کیمیایی
+    cs: chemoterapie
+    cy: cemotherapi
+    da: kemoterapi
+    de: Chemotherapie
+    diq: Kemoterapiye
+    el: Χημειοθεραπεία
+    en: chemotherapy
+    eo: ĥemioterapio
+    es: quimioterapia
+    et: keemiaravi
+    eu: Kimioterapia
+    fa: شیمیدرمانی
+    fi: kemoterapia
+    fr: chimiothérapie
+    ga: ceimiteiripe
+    gl: quimioterapia
+    ha: Chemotherapy
+    he: כימותרפיה
+    hi: कीमोथेरेपी
+    hr: Kemoterapija
+    ht: Chimyoterapi
+    hu: kemoterápia
+    hy: քիմիաթերապիա
+    id: kemoterapi
+    ig: Ọgwụ Ọgwụ
+    io: Kemioterapio
+    it: chemioterapia
+    ja: 化学療法
+    jv: Kemoterapi
+    kk: Химиотерапия
+    kn: ಕೀಮೋಥೆರಪಿ
+    ko: 화학요법
+    ky: Химия терапиясы
+    la: chemiotherapia
+    lt: chemoterapija
+    lv: ļaundabīgo audzēju ķīmijterapija
+    mk: Хемотерапија
+    ml: കീമോതെറാപ്പി
+    mr: रसायनोपचार
+    ms: Kemoterapi
+    nb: kjemoterapi
+    nl: chemotherapie
+    nn: kjemoterapi
+    pa: ਕੀਮੋਥੇਰੇਪੀ
+    pl: chemioterapia nowotworów
+    ps: کيموتراپي
+    pt: quimioterapia
+    ro: chimioterapie
+    ru: химиотерапия злокачественных новообразований
+    sd: ڪيموٿراپي
+    se: kemoterapiija
+    sh: Hemoterapija
+    si: කීමොතෙරපි
+    sk: chemoterapia
+    sl: kemoterapija
+    smn: kemoterapia
+    sq: Kimioterapia
+    sr: Хемотерапија
+    sv: kemoterapi
+    ta: வேதிச்சிகிச்சை
+    th: เคมีบำบัด
+    tl: Kemoterapiya
+    tr: kemoterapi
+    tt: Яман шешләр химиотерапиясе
+    uk: хімієтерапія
+    ur: معالجۂ کیمیائیہ
+    uz: Malign neoplazmalar uchun kimyoterapiya
+    vi: hóa trị liệu
+    vo: kiemasanav
+    war: Kimoterapya
+    wuu: 化学疗法
+    yue: 化療
+    zh: 化学疗法
 ---
-
 # [[Chemotherapy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chemotherapy,974135|WD~Chemotherapy,974135]] 

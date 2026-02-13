@@ -1,70 +1,114 @@
 ---
-has_time_started: 1887-01-01 
+has_time_started: 1887-01-01
 aliases:
-  - Sherlock Holmes
-  - Holmes
-  - Sherlock_Holmes
+- Holmes
+- Sherlock Holmes
+- Sherlock_Holmes
+- Sherlok Xolms
+- Şerlok Holms
+- Šerlok Holms
+- Šerlokas Holmsas
+- Šerloks Holmss
+- Šerluoks Huolmsos
+- Σέρλοκ Χολμς
+- Шерлок Голмс
+- Шерлок Гьолмс
+- Шерлок Холмс
+- Шерлок Ҳолмс
+- Шерлок Һолмс
+- Шэрлак Голмз
+- Шэрлак Холмс
+- Շերլոք Հոլմս
+- שערלאק האלמס
+- שרלוק הולמס
+- شارلوك هولمز
+- شرلاک ہولمز
+- شرلاک ہومز
+- شرلوك هولمز
+- شرلوک هلمز
+- شرلوک هولمز
+- شێرلۆک ھۆڵمز
+- शर्लक होम्स
+- शेरलॉक होम्स
+- शेर्लोच्क होल्मेस
+- ছাৰ্লক হ'ম্ ছ
+- শার্লক হোমস
+- ਸ਼ਰਲੌਕ ਹੋਮਜ਼
+- செர்லக் ஓம்சு
+- షెర్లాక్ హోమ్స్
+- ಷರ್ಲಾಕ್ ಹೋಮ್ಸ್
+- ഷെർലക് ഹോംസ്
+- ෂර්ලොක් හෝම්ස්
+- เชอร์ล็อก โฮมส์
+- ရှားလော့ခ်ဟုမ်း
+- შერლოკ ჰოლმსი
+- シャーロック・ホームズ
+- 夏洛克·福尔摩斯
+- 夏洛克·福爾摩斯
+- 歇洛克·福尔摩斯
+- 福爾摩斯
+- 셜록 홈즈
 has_id_wikidata: Q4653
 present_in_work:
-  - '[[_Standards/WikiData/WD~Arsène_Lupin,_Gentleman_Burglar,82442]]'
-  - '[[_Standards/WikiData/WD~The_Adventure_of_the_Red_Headed_League,461026]]'
-  - '[[_Standards/WikiData/WD~The_Sign_of_Four,500688]]'
-  - '[[_Standards/WikiData/WD~The_Adventure_of_the_Three_Students,961957]]'
-  - '[[_Standards/WikiData/WD~The_Adventure_of_the_Speckled_Band,1060471]]'
-  - '[[_Standards/WikiData/WD~canon_of_Sherlock_Holmes,2316684]]'
-  - "[[_Standards/WikiData/WD~The_Engineer's_Thumb,16028428]]"
-  - '[[_Standards/WikiData/WD~The_Hound_of_the_Baskervilles,45192]]'
+- '[[_Standards/WikiData/WD~Arsène_Lupin,_Gentleman_Burglar,82442]]'
+- '[[_Standards/WikiData/WD~The_Adventure_of_the_Red_Headed_League,461026]]'
+- '[[_Standards/WikiData/WD~The_Sign_of_Four,500688]]'
+- '[[_Standards/WikiData/WD~The_Adventure_of_the_Three_Students,961957]]'
+- '[[_Standards/WikiData/WD~The_Adventure_of_the_Speckled_Band,1060471]]'
+- '[[_Standards/WikiData/WD~canon_of_Sherlock_Holmes,2316684]]'
+- "[[_Standards/WikiData/WD~The_Engineer's_Thumb,16028428]]"
+- '[[_Standards/WikiData/WD~The_Hound_of_the_Baskervilles,45192]]'
 performer:
-  - '[[_Standards/WikiData/WD~John_Barrymore,95034]]'
-  - '[[_Standards/WikiData/WD~Michael_Caine,123351]]'
-  - '[[_Standards/WikiData/WD~Roger_Moore,134333]]'
-  - '[[_Standards/WikiData/WD~Robert_Downey_Jr.,165219]]'
-  - '[[_Standards/WikiData/WD~Ian_McKellen,170510]]'
-  - '[[_Standards/WikiData/WD~Christopher_Lee,180338]]'
-  - '[[_Standards/WikiData/WD~Christopher_Plummer,190523]]'
-  - '[[_Standards/WikiData/WD~Rupert_Everett,208685]]'
-  - '[[_Standards/WikiData/WD~Benedict_Cumberbatch,244674]]'
-  - '[[_Standards/WikiData/WD~Henry_Cavill,295498]]'
-  - '[[_Standards/WikiData/WD~Jeremy_Brett,297384]]'
-  - '[[_Standards/WikiData/WD~Peter_Cushing,309589]]'
-  - '[[_Standards/WikiData/WD~Basil_Rathbone,336865]]'
-  - '[[_Standards/WikiData/WD~Douglas_Wilmer,361461]]'
-  - '[[_Standards/WikiData/WD~Richard_Roxburgh,361630]]'
-  - '[[_Standards/WikiData/WD~Vasily_Livanov,362133]]'
-  - '[[_Standards/WikiData/WD~Ian_Richardson,363691]]'
-  - '[[_Standards/WikiData/WD~Patrick_Macnee,436719]]'
-  - '[[_Standards/WikiData/WD~Matt_Frewer,545172]]'
-  - '[[_Standards/WikiData/WD~Arthur_Wontner,615953]]'
-  - '[[_Standards/WikiData/WD~Viggo_Larsen,731703]]'
-  - '[[_Standards/WikiData/WD~William_Gillette,983339]]'
-  - '[[_Standards/WikiData/WD~Einar_Zangenberg,1305951]]'
-  - '[[_Standards/WikiData/WD~Hero_Fiennes_Tiffin,1335213]]'
-  - '[[_Standards/WikiData/WD~Algimantas_Masiulis,2655731]]'
-  - '[[_Standards/WikiData/WD~Eille_Norwood,3049434]]'
-  - '[[_Standards/WikiData/WD~Nikolay_Volkov,4123336]]'
-  - '[[_Standards/WikiData/WD~Igor_Petrenko,4360503]]'
-  - '[[_Standards/WikiData/WD~Alan_Wheatley,4708036]]'
-  - '[[_Standards/WikiData/WD~Otto_Lagoni,12330573]]'
-  - '[[_Standards/WikiData/WD~Jonny_Lee_Miller,7516]]'
+- '[[_Standards/WikiData/WD~John_Barrymore,95034]]'
+- '[[_Standards/WikiData/WD~Michael_Caine,123351]]'
+- '[[_Standards/WikiData/WD~Roger_Moore,134333]]'
+- '[[_Standards/WikiData/WD~Robert_Downey_Jr.,165219]]'
+- '[[_Standards/WikiData/WD~Ian_McKellen,170510]]'
+- '[[_Standards/WikiData/WD~Christopher_Lee,180338]]'
+- '[[_Standards/WikiData/WD~Christopher_Plummer,190523]]'
+- '[[_Standards/WikiData/WD~Rupert_Everett,208685]]'
+- '[[_Standards/WikiData/WD~Benedict_Cumberbatch,244674]]'
+- '[[_Standards/WikiData/WD~Henry_Cavill,295498]]'
+- '[[_Standards/WikiData/WD~Jeremy_Brett,297384]]'
+- '[[_Standards/WikiData/WD~Peter_Cushing,309589]]'
+- '[[_Standards/WikiData/WD~Basil_Rathbone,336865]]'
+- '[[_Standards/WikiData/WD~Douglas_Wilmer,361461]]'
+- '[[_Standards/WikiData/WD~Richard_Roxburgh,361630]]'
+- '[[_Standards/WikiData/WD~Vasily_Livanov,362133]]'
+- '[[_Standards/WikiData/WD~Ian_Richardson,363691]]'
+- '[[_Standards/WikiData/WD~Patrick_Macnee,436719]]'
+- '[[_Standards/WikiData/WD~Matt_Frewer,545172]]'
+- '[[_Standards/WikiData/WD~Arthur_Wontner,615953]]'
+- '[[_Standards/WikiData/WD~Viggo_Larsen,731703]]'
+- '[[_Standards/WikiData/WD~William_Gillette,983339]]'
+- '[[_Standards/WikiData/WD~Einar_Zangenberg,1305951]]'
+- '[[_Standards/WikiData/WD~Hero_Fiennes_Tiffin,1335213]]'
+- '[[_Standards/WikiData/WD~Algimantas_Masiulis,2655731]]'
+- '[[_Standards/WikiData/WD~Eille_Norwood,3049434]]'
+- '[[_Standards/WikiData/WD~Nikolay_Volkov,4123336]]'
+- '[[_Standards/WikiData/WD~Igor_Petrenko,4360503]]'
+- '[[_Standards/WikiData/WD~Alan_Wheatley,4708036]]'
+- '[[_Standards/WikiData/WD~Otto_Lagoni,12330573]]'
+- '[[_Standards/WikiData/WD~Jonny_Lee_Miller,7516]]'
 wears:
-  - '[[_Standards/WikiData/WD~pipe,104526]]'
-  - '[[_Standards/WikiData/WD~deerstalker,1182503]]'
+- '[[_Standards/WikiData/WD~pipe,104526]]'
+- '[[_Standards/WikiData/WD~deerstalker,1182503]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]'
-  - '[[_Standards/WikiData/WD~cocaine_dependence,3743188]]'
+- '[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]'
+- '[[_Standards/WikiData/WD~cocaine_dependence,3743188]]'
 award_received: '[[_Standards/WikiData/WD~Legion_of_Honour,163700]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 personality_trait_of_fictional_character:
-  - '[[_Standards/WikiData/WD~narcissism,186529]]'
-  - '[[_Standards/WikiData/WD~apathy,107273981]]'
-  - '[[_Standards/WikiData/WD~cleanliness,107274003]]'
-  - '[[_Standards/WikiData/WD~eccentricity,50013]]'
+- '[[_Standards/WikiData/WD~narcissism,186529]]'
+- '[[_Standards/WikiData/WD~apathy,107273981]]'
+- '[[_Standards/WikiData/WD~cleanliness,107274003]]'
+- '[[_Standards/WikiData/WD~eccentricity,50013]]'
 lifestyle:
-  - '[[_Standards/WikiData/WD~bohemianism,207175]]'
-  - '[[_Standards/WikiData/WD~smoker,18809854]]'
+- '[[_Standards/WikiData/WD~bohemianism,207175]]'
+- '[[_Standards/WikiData/WD~smoker,18809854]]'
 enemy:
-  - '[[_Standards/WikiData/WD~Professor_Moriarty,283111]]'
-  - '[[_Standards/WikiData/WD~Sebastian_Moran,2499763]]'
+- '[[_Standards/WikiData/WD~Professor_Moriarty,283111]]'
+- '[[_Standards/WikiData/WD~Sebastian_Moran,2499763]]'
 inspired_by: '[[_Standards/WikiData/WD~Joseph_Bell,648680]]'
 occupation: '[[_Standards/WikiData/WD~private_investigator,1058617]]'
 sibling: '[[_Standards/WikiData/WD~Mycroft_Holmes,1616457]]'
@@ -72,14 +116,14 @@ family_name: '[[_Standards/WikiData/WD~Holmes,1762298]]'
 residence: '[[_Standards/WikiData/WD~221B_Baker_Street,1992196]]'
 different_from: '[[_Standards/WikiData/WD~Sherlock_Holmes,2008640]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Q22341374,22341374]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Q22341374,22341374]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~fictional_detective,3656924]]'
-  - '[[_Standards/WikiData/WD~literary_character,3658341]]'
-  - '[[_Standards/WikiData/WD~fictional_human,15632617]]'
-  - '[[_Standards/WikiData/WD~television_character,15773317]]'
-  - '[[_Standards/WikiData/WD~film_character,15773347]]'
+- '[[_Standards/WikiData/WD~fictional_detective,3656924]]'
+- '[[_Standards/WikiData/WD~literary_character,3658341]]'
+- '[[_Standards/WikiData/WD~fictional_human,15632617]]'
+- '[[_Standards/WikiData/WD~television_character,15773317]]'
+- '[[_Standards/WikiData/WD~film_character,15773347]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at: '[[_Standards/WikiData/WD~University_of_Minnesota_Libraries,7895799]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_HolmesNovels,8084673]]'
@@ -109,8 +153,133 @@ Europeana_entity: agent/base/146924
 Libris_URI: ljx189f453x0k1s
 Baidu_Tieba_name: 福尔摩斯
 name: Уильям Шерлок Скотт Холмс
+dv_has_:
+  name_:
+    af: Sherlock Holmes
+    ar: شارلوك هولمز
+    arz: شارلوك هولمز
+    as: ছাৰ্লক হ'ম্ ছ
+    ast: Sherlock Holmes
+    az: Şerlok Holms
+    bcl: Sherlock Holmes
+    be: Шэрлак Холмс
+    be-tarask: Шэрлак Голмз
+    bg: Шерлок Холмс
+    bn: শার্লক হোমস
+    br: Sherlock Holmes
+    bs: Sherlock Holmes
+    ca: Sherlock Holmes
+    ceb: Sherlock Holmes
+    ckb: شێرلۆک ھۆڵمز
+    cs: Sherlock Holmes
+    cv: Шерлок Холмс
+    cy: Sherlock Holmes
+    da: Sherlock Holmes
+    de: Sherlock Holmes
+    de-ch: Sherlock Holmes
+    diq: Sherlock Holmes
+    el: Σέρλοκ Χολμς
+    en: Sherlock Holmes
+    en-ca: Sherlock Holmes
+    en-gb: Sherlock Holmes
+    eo: Sherlock Holmes
+    es: Sherlock Holmes
+    et: Sherlock Holmes
+    eu: Sherlock Holmes
+    fa: شرلوک هلمز
+    fi: Sherlock Holmes
+    fr: Sherlock Holmes
+    fy: Sherlock Holmes
+    ga: Sherlock Holmes
+    gl: Sherlock Holmes
+    he: שרלוק הולמס
+    hi: शर्लक होम्स
+    hr: Sherlock Holmes
+    hsb: Sherlock Holmes
+    hu: Sherlock Holmes
+    hy: Շերլոք Հոլմս
+    ia: Sherlock Holmes
+    id: Sherlock Holmes
+    inh: Шерлок Холмс
+    is: Sherlock Holmes
+    it: Sherlock Holmes
+    ja: シャーロック・ホームズ
+    ka: შერლოკ ჰოლმსი
+    kk: Шерлок Холмс
+    kn: ಷರ್ಲಾಕ್ ಹೋಮ್ಸ್
+    ko: 셜록 홈즈
+    ku: Sherlock Holmes
+    ky: Шерлок Холмс
+    la: Sherlock Holmes
+    lb: Sherlock Holmes
+    lez: Шерлок Гьолмс
+    lld: Sherlock Holmes
+    lt: Šerlokas Holmsas
+    lv: Šerloks Holmss
+    lzh: 福爾摩斯
+    mg: Sherlock Holmes
+    mk: Шерлок Холмс
+    ml: ഷെർലക് ഹോംസ്
+    mn: Шерлок Холмс
+    mr: शेरलॉक होम्स
+    ms: Sherlock Holmes
+    mt: Sherlock Holmes
+    mul: Sherlock Holmes
+    my: ရှားလော့ခ်ဟုမ်း
+    nah: Sherlock Holmes
+    nan: Sherlock Holmes
+    nb: Sherlock Holmes
+    nl: Sherlock Holmes
+    nn: Sherlock Holmes
+    oc: Sherlock Holmes
+    os: Шерлок Холмс
+    pa: ਸ਼ਰਲੌਕ ਹੋਮਜ਼
+    pl: Sherlock Holmes
+    pnb: شرلاک ہولمز
+    ps: شرلوک هولمز
+    pt: Sherlock Holmes
+    pt-br: Sherlock Holmes
+    rm: Sherlock Holmes
+    ro: Sherlock Holmes
+    ru: Шерлок Холмс
+    sa: शेर्लोच्क होल्मेस
+    scn: Sherlock Holmes
+    sco: Sherlock Holmes
+    sgs: Šerluoks Huolmsos
+    sh: Sherlock Holmes
+    si: ෂර්ලොක් හෝම්ස්
+    sk: Sherlock Holmes
+    skr: شرلوك هولمز
+    sl: Sherlock Holmes
+    sq: Sherlock Holmes
+    sr: Шерлок Холмс
+    sr-ec: Шерлок Холмс
+    sr-el: Šerlok Holms
+    sv: Sherlock Holmes
+    ta: செர்லக் ஓம்சு
+    te: షెర్లాక్ హోమ్స్
+    tg: Шерлок Ҳолмс
+    th: เชอร์ล็อก โฮมส์
+    tl: Sherlock Holmes
+    tr: Sherlock Holmes
+    tt: Шерлок Һолмс
+    tt-cyrl: Шерлок Һолмс
+    uk: Шерлок Голмс
+    ur: شرلاک ہومز
+    uz: Sherlok Xolms
+    vi: Sherlock Holmes
+    war: Sherlock Holmes
+    wuu: 歇洛克·福尔摩斯
+    yi: שערלאק האלמס
+    yue: 福爾摩斯
+    zh: 歇洛克·福尔摩斯
+    zh-cn: 歇洛克·福尔摩斯
+    zh-hant: 夏洛克·福爾摩斯
+    zh-hk: 夏洛克·福爾摩斯
+    zh-my: 夏洛克·福尔摩斯
+    zh-sg: 夏洛克·福尔摩斯
+    zh-tw: 夏洛克·福爾摩斯
 ---
-
 # [[Sherlock_Holmes]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sherlock_Holmes,4653|WD~Sherlock_Holmes,4653]] 

@@ -1,8 +1,213 @@
 ---
 aliases:
-  - Asteroidea
+- Asterio
+- Asteroidea
+- Asteroideo
+- Asteroidia
+- Asteroïdeu
+- bintang laut
+- Bituon sa dagat
+- Béntang laut
+- Dengiz yulduzlari
+- Denizyıldızı
+- Deňiz ýyldyzy
+- Dəniz ulduzları
+- Estela de mar
+- estella de mar
+- estrela do mar
+- estrela-do-mar
+- Estrelamar
+- Etwaldemè
+- Hviezdovky
+- hvězdice
+- Isdambituin
+- Itril
+- Itsas izar
+- Jūras zvaigznes
+- Jūrų žvaigždės
+- Krossfiskar
+- Marstelo
+- meritähdet
+- meritähed
+- morske zvezde
+- Morske zvijezde
+- méadail mhéarach
+- rozgwiazdy
+- Sao biển
+- Scoskie
+- Seesterne
+- Seesterre
+- seren môr
+- Siastäären
+- sjöstjärnor
+- sjøstjerner
+- starfish
+- stella di mare
+- Steorrfisc
+- Stered-mor
+- stêra deryayê
+- søstjerne
+- Sǫʼ łóóʼ
+- Tapak Sulaiman
+- tengericsillagok
+- Yaku quyllur
+- Ylli detar
+- zeesterren
+- Zvjezdače
+- Zêesterre
+- étoile de mer
+- Étòle-éd-mér
+- Αστερίας
+- Далайн од
+- Деңиз жылдыздары
+- Диңгез йолдызлары
+- марскія зоркі
+- морске звезде
+- морски ѕвезди
+- морски звезди
+- морские звёзды
+- морські зірки
+- Тангыж шӹдӹр
+- Тештекал
+- Теңіз жұлдыздары
+- ծովային աստղ
+- כוכבי־ים
+- تارا مچھلی
+- تارا مچھی
+- تارک گاڑ.
+- دنیز اۇلدوزلاری
+- ستاره دریایی
+- نجم البحر
+- तारा मछली
+- तारामासा
+- তারামাছ
+- ਸਟਾਰਫਿਸ਼
+- તારા માછલી
+- விண்மீன் உயிரி
+- ನಕ್ಷತ್ರ ಮೀನ್
+- ನಕ್ಷತ್ರಮೀನು
+- നക്ഷത്രമത്സ്യം
+- ดาวทะเล
+- ရေလက်ဝါး
+- ზღვის ვარსკვლავები
+- ヒトデ
+- 海星
+- 海星綱
+- 海星纲
+- 불가사리류
 title: Asteroidea
 has_id_wikidata: Q25349
+dv_has_:
+  name_:
+    af: Seesterre
+    ang: Steorrfisc
+    ar: نجم البحر
+    arz: نجم البحر
+    ast: Asteroidea
+    az: Dəniz ulduzları
+    azb: دنیز اۇلدوزلاری
+    be: марскія зоркі
+    be-tarask: марскія зоркі
+    bg: морски звезди
+    bn: তারামাছ
+    br: Stered-mor
+    bs: Morske zvijezde
+    ca: Asteroïdeu
+    ceb: Bituon sa dagat
+    cs: hvězdice
+    cy: seren môr
+    da: søstjerne
+    de: Seesterne
+    el: Αστερίας
+    en: Asteroidia
+    eo: Marstelo
+    es: estella de mar
+    et: meritähed
+    eu: Itsas izar
+    fa: ستاره دریایی
+    fi: meritähdet
+    fo: Krossfiskar
+    fr: étoile de mer
+    frr: Siastäären
+    ga: méadail mhéarach
+    gl: Estrelamar
+    gu: તારા માછલી
+    he: כוכבי־ים
+    hi: तारा मछली
+    hr: Zvjezdače
+    ht: Etwaldemè
+    hu: tengericsillagok
+    hy: ծովային աստղ
+    ia: Asteroidea
+    id: bintang laut
+    io: Asterio
+    is: Krossfiskar
+    it: stella di mare
+    ja: ヒトデ
+    jv: Bintang laut
+    ka: ზღვის ვარსკვლავები
+    kab: Itril
+    kk: Теңіз жұлдыздары
+    kn: ನಕ್ಷತ್ರಮೀನು
+    ko: 불가사리류
+    ks: تارک گاڑ.
+    ku-latn: stêra deryayê
+    ky: Деңиз жылдыздары
+    la: Asteroidea
+    lfn: Asteroideo
+    lt: Jūrų žvaigždės
+    lv: Jūras zvaigznes
+    mk: морски ѕвезди
+    ml: നക്ഷത്രമത്സ്യം
+    mn: Далайн од
+    mr: तारामासा
+    mrj: Тангыж шӹдӹр
+    ms: Tapak Sulaiman
+    mul: Asteroidea
+    my: ရေလက်ဝါး
+    myv: Тештекал
+    nb: sjøstjerner
+    nl: zeesterren
+    nn: sjøstjerner
+    nv: Sǫʼ łóóʼ
+    oc: Estela de mar
+    pa: ਸਟਾਰਫਿਸ਼
+    pcd: Étòle-éd-mér
+    pl: rozgwiazdy
+    pnb: تارا مچھی
+    pt: estrela-do-mar
+    pt-br: estrela do mar
+    qu: Yaku quyllur
+    ro: Asteroidea
+    ru: морские звёзды
+    sco: Scoskie
+    sh: Zvjezdače
+    sk: Hviezdovky
+    sl: morske zvezde
+    sq: Ylli detar
+    sr: морске звезде
+    su: Béntang laut
+    sv: sjöstjärnor
+    ta: விண்மீன் உயிரி
+    tcy: ನಕ್ಷತ್ರ ಮೀನ್
+    te: starfish
+    th: ดาวทะเล
+    tk: Deňiz ýyldyzy
+    tl: Isdambituin
+    tr: Denizyıldızı
+    tt: Диңгез йолдызлары
+    uk: морські зірки
+    ur: تارا مچھلی
+    uz: Dengiz yulduzlari
+    vi: Sao biển
+    vls: Zêesterre
+    war: Asteroidea
+    wuu: 海星
+    yue: 海星
+    zh: 海星纲
+    zh-cn: 海星纲
+    zh-hans: 海星纲
+    zh-tw: 海星綱
 ---
 # [[Asteroidea]] 
 

@@ -1,8 +1,98 @@
 ---
 aliases:
-  - Symphyla
+- Drobnonogi
+- Drobnonožke
+- Dvergfotingar
+- Dvergfotinger
+- Dvärgfotingar
+- Harusabased
+- Jááłániichilí bighádzígaiígíí
+- Simfilas
+- Simfillər
+- Simfiloj
+- Skolopendrelės
+- sokkojuoksiaiset
+- Sweragbianer
+- Symphyla
+- szövőcsévések
+- símfils
+- Sínfilos
+- Tandu-shamba
+- Zwergfüßer
+- σύμφυλα
+- Сімфілы
+- Симфіли
+- Симфили
+- Симфилы
+- סימפילה
+- سیمفیللر
+- مؤتلفات
+- کوتولهپایان
+- ซิมไฟลา
+- コムカデ
+- 綜合綱
+- 결합강
 title: Symphyla
 has_id_wikidata: Q244147
+dv_has_:
+  name_:
+    an: Symphyla
+    ar: مؤتلفات
+    arz: مؤتلفات
+    ast: Symphyla
+    az: Simfillər
+    azb: سیمفیللر
+    be: Сімфілы
+    bg: Симфили
+    ca: símfils
+    ceb: Symphyla
+    de: Zwergfüßer
+    el: σύμφυλα
+    en: Symphyla
+    eo: Simfiloj
+    es: Symphyla
+    et: Harusabased
+    eu: Symphyla
+    ext: Symphyla
+    fa: کوتولهپایان
+    fi: sokkojuoksiaiset
+    fr: Symphyla
+    frr: Sweragbianer
+    ga: Symphyla
+    gl: Sínfilos
+    he: סימפילה
+    hu: szövőcsévések
+    ia: Symphyla
+    ie: Symphyla
+    io: Symphyla
+    it: Symphyla
+    ja: コムカデ
+    ko: 결합강
+    la: Symphyla
+    lt: Skolopendrelės
+    lv: Simfilas
+    mul: Symphyla
+    nb: Dvergfotinger
+    nl: Symphyla
+    nn: Dvergfotingar
+    nv: Jááłániichilí bighádzígaiígíí
+    oc: Symphyla
+    pl: Drobnonogi
+    pt: Symphyla
+    pt-br: Symphyla
+    ro: Symphyla
+    ru: Симфилы
+    sl: Drobnonožke
+    sq: Symphyla
+    sv: Dvärgfotingar
+    sw: Tandu-shamba
+    th: ซิมไฟลา
+    tr: Symphyla
+    uk: Симфіли
+    vi: Symphyla
+    vo: Symphyla
+    war: Symphyla
+    zh: 綜合綱
 ---
 # [[Symphyla]] 
 

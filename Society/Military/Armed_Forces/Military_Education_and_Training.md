@@ -1,12 +1,48 @@
 ---
 aliases:
-  - Military education and training
-  - Military_Education_and_Training
-  - Military Education and Training
+- arsimi ushtarak
+- askerî öğretim ve eğitim
+- educazione e addestramento militare
+- instruccion militara
+- instrucció militar
+- instrucción militar
+- instrukzio militar
+- instrução militar
+- militair onderwijs en opleiding
+- militaj eduko kaj trejnado
+- militar eddication an trainin
+- Military education and training
+- military training
+- Military_Education_and_Training
+- militär utbildning
+- militær uddannelse og træning
+- militær utdanning og trening
+- sotilaskoulutus
+- szkolnictwo wojskowe
+- vojaško izobraževanje in usposabljanje
+- vojenský výcvik a vzdělávání
+- vojno obrazovanja i obuka
+- éducation et entraînement militaire
+- боевая подготовка
+- бойова підготовка
+- вайсковая падрыхтоўка
+- војно образовања и обука
+- Военна подготовка
+- הכשרה צבאית
+- آموزش و تربیت نظامی
+- تعليم وتدريب عسكري
+- پەروەردە و ڕاھێنانی سەربازی
+- सैनिक शिक्षण एवं प्रशिक्षण
+- সামরিক শিক্ষা এবং প্রশিক্ষণ
+- ಮಿಲಿಟರಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿ
+- හමුදා අධ්යාපන හා පුහුණුව
+- 军事教育
+- 軍事教育
+- 군사 교육 및 훈련
 has_id_wikidata: Q2351849
 subclass_of:
-  - '[[_Standards/WikiData/WD~training,918385]]'
-  - '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~training,918385]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
 described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
 practiced_by: '[[_Standards/WikiData/WD~directing_staff,5280423]]'
 different_from: '[[_Standards/WikiData/WD~military_training,10894999]]'
@@ -15,8 +51,53 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_
 Iconclass_notation: 45B2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/15th%20MEU%20Marines%20zero%20in%20on%20targets%20150323-M-GC438-073.jpg
 Commons_category: Military education and training
+dv_has_:
+  name_:
+    ar: تعليم وتدريب عسكري
+    be-tarask: вайсковая падрыхтоўка
+    bg: Военна подготовка
+    bn: সামরিক শিক্ষা এবং প্রশিক্ষণ
+    ca: instrucció militar
+    ckb: پەروەردە و ڕاھێنانی سەربازی
+    cs: vojenský výcvik a vzdělávání
+    da: militær uddannelse og træning
+    en: military education and training
+    eo: militaj eduko kaj trejnado
+    es: instrucción militar
+    eu: instrukzio militar
+    fa: آموزش و تربیت نظامی
+    fi: sotilaskoulutus
+    fr: éducation et entraînement militaire
+    he: הכשרה צבאית
+    hi: सैनिक शिक्षण एवं प्रशिक्षण
+    it: educazione e addestramento militare
+    ja: 軍事教育
+    kn: ಮಿಲಿಟರಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿ
+    ko: 군사 교육 및 훈련
+    nb: militær utdanning og trening
+    nl: militair onderwijs en opleiding
+    oc: instruccion militara
+    pl: szkolnictwo wojskowe
+    pt: instrução militar
+    ru: боевая подготовка
+    sco: militar eddication an trainin
+    si: හමුදා අධ්යාපන හා පුහුණුව
+    sl: vojaško izobraževanje in usposabljanje
+    sq: arsimi ushtarak
+    sr: војно образовања и обука
+    sr-ec: војно образовања и обука
+    sr-el: vojno obrazovanja i obuka
+    sv: militär utbildning
+    tr: askerî öğretim ve eğitim
+    uk: бойова підготовка
+    ur: military training
+    yue: 軍事教育
+    zh: 军事教育
+    zh-hans: 军事教育
+    zh-hant: 軍事教育
+    zh-hk: 軍事教育
+    zh-tw: 軍事教育
 ---
-
 # [[Military_Education_and_Training]] 
 
 #is_/same_as :: [[WD~Military_education_and_training,2351849]] 

@@ -1,11 +1,75 @@
 ---
 aliases:
-  - Cable television
-  - Cable TV
-  - Kabelfernsehen
-  - CATV
-  - Cable_Television
-  - Cable Television
+- cable televeesion
+- Cable television
+- Cable TV
+- Cable_Television
+- CATV
+- Gemeinschaftsantenn
+- Kaabeltelevisioon
+- kaapelitelevisio
+- kabel televiziyası
+- kabel-tv
+- Kabelfernsehen
+- Kabelfjernsyn
+- Kabelli televideniye
+- kabelová televize
+- kabelska televizija
+- kabeltelevisie
+- kabla televido
+- kable bidezko telebista
+- kablovska televizija
+- Kablovski distributivni sistem
+- Kapalsjónvarp
+- kábeltelevízió
+- káblová televízia
+- teilifís chábla
+- telebisyong kable
+- teledu cebl
+- televisi kabel
+- televisione via cavo
+- televisió per cable
+- Televisión per cable
+- televisión por cable
+- televisyen kabel
+- televisão a cabo
+- televisão por cabo
+- Televizioni kabllor
+- Televiziune prin cablu
+- telewizja kablowa
+- tełevizion via cavo
+- Tipi kabel
+- truyền hình cáp
+- TV kabel
+- télévision par câble
+- Türksat Kablo TV
+- Кабелдик телекөрсөтүү
+- Кабелийн телевиз
+- Кабелна телевизия
+- Кабелска телевизија
+- кабель телевидениеһы
+- Кабельді теледидар
+- кабельнае тэлебачанне
+- Кабельне телебачення
+- кабельное телевидение
+- кабловски дистрибутивни систем
+- кабэльнае тэлебачаньне
+- кәбил элемтәсе
+- Телевизиони ноқилӣ
+- טלוויזיה בכבלים
+- קאבל־טעלעוויזיע
+- تلفزيون كبلي
+- تلویزیون کابلی
+- کێبڵی تەلەڤیزیۆن
+- केबल टीवी
+- கம்பி வடம்
+- కేబుల్ టీవీ
+- โทรทัศน์ผ่านสายเคเบิล
+- ケーブルテレビ
+- 有線電視
+- 有线电视
+- 电缆电视
+- 케이블 텔레비전
 has_id_wikidata: Q184452
 opposite_of: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
 uses: '[[_Standards/WikiData/WD~digital_cable,5276046]]'
@@ -16,8 +80,98 @@ Commons_category: Cable television
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Belling-Lee-Stecker.jpg
 Common_Procurement_Vocabulary_code: 92232000
 P8189: 987007293764905171
+dv_has_:
+  name_:
+    ar: تلفزيون كبلي
+    ast: Televisión per cable
+    az: kabel televiziyası
+    ba: кабель телевидениеһы
+    be: кабельнае тэлебачанне
+    be-tarask: кабэльнае тэлебачаньне
+    bg: Кабелна телевизия
+    bs: kablovska televizija
+    ca: televisió per cable
+    ckb: کێبڵی تەلەڤیزیۆن
+    cs: kabelová televize
+    cy: teledu cebl
+    da: kabel-tv
+    de: Kabelfernsehen
+    de-ch: Kabelfernsehen
+    en: cable television
+    en-ca: cable television
+    en-gb: cable television
+    en-us: cable television
+    eo: kabla televido
+    es: televisión por cable
+    et: Kaabeltelevisioon
+    eu: kable bidezko telebista
+    fa: تلویزیون کابلی
+    fi: kaapelitelevisio
+    fr: télévision par câble
+    ga: teilifís chábla
+    gan: 有线电视
+    gan-hans: 有线电视
+    gan-hant: 有線電視
+    gl: Televisión por cable
+    he: טלוויזיה בכבלים
+    hi: केबल टीवी
+    hr: Kabelska televizija
+    hu: kábeltelevízió
+    id: televisi kabel
+    is: Kapalsjónvarp
+    it: televisione via cavo
+    ja: ケーブルテレビ
+    jv: Tipi kabel
+    kk: Кабельді теледидар
+    ko: 케이블 텔레비전
+    ky: Кабелдик телекөрсөтүү
+    lb: Gemeinschaftsantenn
+    mk: Кабелска телевизија
+    mn: Кабелийн телевиз
+    ms: televisyen kabel
+    nb: kabel-TV
+    nl: kabeltelevisie
+    nn: Kabelfjernsyn
+    pl: telewizja kablowa
+    pt: televisão por cabo
+    pt-br: televisão a cabo
+    ro: Televiziune prin cablu
+    ru: кабельное телевидение
+    sco: cable televeesion
+    sh: Kablovski distributivni sistem
+    sk: káblová televízia
+    sl: kabelska televizija
+    sq: Televizioni kabllor
+    sr: кабловски дистрибутивни систем
+    sr-ec: Кабловски дистрибутивни систем
+    sr-el: Kablovski distributivni sistem
+    su: TV kabel
+    sv: kabel-TV
+    ta: கம்பி வடம்
+    te: కేబుల్ టీవీ
+    tg: Телевизиони ноқилӣ
+    th: โทรทัศน์ผ่านสายเคเบิล
+    tl: telebisyong kable
+    tr: Türksat Kablo TV
+    tt: кәбил элемтәсе
+    uk: Кабельне телебачення
+    ur: cable tv
+    uz: Kabelli televideniye
+    vec: tełevizion via cavo
+    vi: truyền hình cáp
+    wuu: 有线电视
+    yi: קאבל־טעלעוויזיע
+    yue: 有線電視
+    zh: 有线电视
+    zh-cn: 有线电视
+    zh-hans: 有线电视
+    zh-hant: 有線電視
+    zh-hk: 有線電視
+    zh-mo: 有線電視
+    zh-my: 有线电视
+    zh-sg: 电缆电视
+    zh-tw: 有線電視
 ---
-
 # [[Cable_Television]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cable_television,184452|WD~Cable_television,184452]] 

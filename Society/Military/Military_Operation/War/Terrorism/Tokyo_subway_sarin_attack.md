@@ -1,8 +1,104 @@
 ---
 aliases:
-  - Tokyo subway sarin attack
-  - Tokyo_subway_sarin_attack
+- 1995 m. išpuolis zarino dujomis Tokijo metro
+- Atac amb gas sarín al metro de Tòquio
+- Atak w tokijskim metrze
+- Ataque com gás sarin ao Metrô de Tóquio
+- Ataque cun gáç sarin al Metro de Tóquio
+- Ataque de gas sarín en el metro de Tokio
+- Ataque de gas sarín nel metro de Tokio
+- attentat au gaz sarin dans le métro de Tokyo
+- Attentato alla metropolitana di Tokyo
+- Giftgasangrebet i Tokyos undergrundsbane 1995
+- Giftgassangrepet i Tokyos undergrunnsbane 1995
+- Napad sarinom na Tokijski metro
+- Sarin-gasaanval in de metro van Tokio
+- Saringasattacken i Tokyo
+- Serangan gas sarin di kereta bawah tanah Tokyo
+- Serangan gas sarin ke atas kereta api bawah tanah Tokyo
+- Sulmi me sarin në metronë e Tokios
+- Tokio Sarin Anschlag
+- Tokion metron sariinikaasuisku
+- Tokiói gáztámadás
+- Tokyo metrosu sarin gazı saldırısı
+- Tokyo subway sarin attack
+- Tokyo_subway_sarin_attack
+- Tōkyō metroo sariinirünnak
+- Tấn công sarin tàu điện ngầm Tokyo
+- venengasa atenco kontraŭ Tokia metroo en 1995
+- Útok sarinem v tokijském metru
+- Útok sarínom v tokijskom metre
+- Τρομοκρατική επίθεση στο μετρό του Τόκιο (1995)
+- Зариновая атака в токийском метро
+- Напад сарином у токијском метроу
+- Теракт у Токійському метро
+- Токио метросындағы зарин шабуылы
+- Զարինային հարձակում Տոկիոյի մետրոպոլիտենում
+- מתקפת הסארין ברכבת התחתית של טוקיו
+- حادثه حمله با گاز سارین در متروی توکیو
+- عملية الغازات السامة في مترو طوكيو
+- टोक्यो सबवे सरीन हमला
+- การโจมตีโตเกียวเมโทรด้วยซาริน
+- 东京地铁沙林毒气事件
+- 地下鉄サリン事件
+- 東京地下鐵施毒氣之禍
+- 東京地下鐵沙林毒氣襲擊
+- 東京地鐵沙林毒氣事件
+- 도쿄 지하철 사린 사건
 has_id_wikidata: Q1146739
+dv_has_:
+  name_:
+    ar: عملية الغازات السامة في مترو طوكيو
+    ast: Ataque de gas sarín nel metro de Tokio
+    ca: Atac amb gas sarín al metro de Tòquio
+    cs: Útok sarinem v tokijském metru
+    da: Giftgasangrebet i Tokyos undergrundsbane 1995
+    de: Tokio Sarin Anschlag
+    de-ch: Tokio Sarin Anschlag
+    el: Τρομοκρατική επίθεση στο μετρό του Τόκιο (1995)
+    en: Tokyo subway sarin attack
+    en-ca: Tokyo subway sarin attack
+    en-gb: Tokyo subway sarin attack
+    eo: venengasa atenco kontraŭ Tokia metroo en 1995
+    es: Ataque de gas sarín en el metro de Tokio
+    et: Tōkyō metroo sariinirünnak
+    fa: حادثه حمله با گاز سارین در متروی توکیو
+    fi: Tokion metron sariinikaasuisku
+    fr: attentat au gaz sarin dans le métro de Tokyo
+    he: מתקפת הסארין ברכבת התחתית של טוקיו
+    hi: टोक्यो सबवे सरीन हमला
+    hu: Tokiói gáztámadás
+    hy: Զարինային հարձակում Տոկիոյի մետրոպոլիտենում
+    id: Serangan gas sarin di kereta bawah tanah Tokyo
+    it: Attentato alla metropolitana di Tokyo
+    ja: 地下鉄サリン事件
+    kk: Токио метросындағы зарин шабуылы
+    ko: 도쿄 지하철 사린 사건
+    lt: 1995 m. išpuolis zarino dujomis Tokijo metro
+    lzh: 東京地下鐵施毒氣之禍
+    ms: Serangan gas sarin ke atas kereta api bawah tanah Tokyo
+    mwl: Ataque cun gáç sarin al Metro de Tóquio
+    nb: Giftgassangrepet i Tokyos undergrunnsbane 1995
+    nl: Sarin-gasaanval in de metro van Tokio
+    pl: Atak w tokijskim metrze
+    pt: Ataque com gás sarin ao Metrô de Tóquio
+    pt-br: Ataque com gás sarin ao Metrô de Tóquio
+    ru: Зариновая атака в токийском метро
+    sh: Napad sarinom na Tokijski metro
+    sk: Útok sarínom v tokijskom metre
+    sq: Sulmi me sarin në metronë e Tokios
+    sr: Напад сарином у токијском метроу
+    sv: Saringasattacken i Tokyo
+    th: การโจมตีโตเกียวเมโทรด้วยซาริน
+    tr: Tokyo metrosu sarin gazı saldırısı
+    uk: Теракт у Токійському метро
+    vi: Tấn công sarin tàu điện ngầm Tokyo
+    wuu: 东京地铁沙林毒气事件
+    yue: 東京地下鐵沙林毒氣襲擊
+    zh: 東京地鐵沙林毒氣事件
+    zh-hans: 东京地铁沙林毒气事件
+    zh-hant: 東京地鐵沙林毒氣事件
+    zh-hk: 東京地鐵沙林毒氣事件
 ---
 # [[Tokyo_subway_sarin_attack]]
 

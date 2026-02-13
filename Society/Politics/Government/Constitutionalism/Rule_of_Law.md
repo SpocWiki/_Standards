@@ -1,21 +1,168 @@
 ---
 aliases:
-  - no one is above the law
-  - all are equal before the law
-  - rule of law
-  - Rule_of_Law
-  - Rule of Law
+- all are equal before the law
+- aturan hukum
+- Dokokin doka
+- Estado de dereito
+- estado de direito
+- Estat de Dret
+- forlámhas an dlí
+- Governo de la legg
+- Hoat-lu̍t ê thóng-tī
+- Hukukun üstünlüğü
+- Hüququn aliliyi
+- imperio de la ley
+- Imperiu de la llei
+- joguralom
+- kedaulatan undang-undang
+- lagstyre
+- Legalesoprincipo
+- Legearen inperio
+- no one is above the law
+- oppergesag van die reg
+- Pananaig ng batas
+- Pháp quyền
+- pravna država
+- praworządność
+- regado de la leĝo
+- Regnum legis
+- Retssamfund
+- rettssikkerhet
+- rheolaeth y gyfraith
+- Rul of Lau
+- rule of law
+- Rule_of_Law
+- Réttarríki
+- stat de drept
+- Sundimi i ligjit
+- teisinė valstybė
+- tiesiskums
+- Ukubusa komthetho
+- Utawala wa sheria
+- Vladavina prava
+- état de droit
+- õigusriik
+- κράτος δικαίου
+- верховенство права
+- Владеење на правото
+- вяршэнства закону
+- вяршэнства права
+- Правова държава
+- Эрх зүйт төрийн үндсэн зарчим, түүний шалгуур
+- Իրավունքի ընդհանուր տեսություն
+- שלטון החוק
+- حاکمیت قانون
+- د قانون حاکمیت
+- سيادة القانون
+- سەروەریی یاسا
+- قانون کی حکمرانی
+- कानूनको शासन
+- विधि शासन
+- আইনের শাসন
+- ਕਨੂੰਨ ਦਾ ਸ਼ਾਸਨ
+- சட்ட ஆட்சி
+- නීතියේ ආධිපත්යය
+- หลักนิติธรรม
+- တရားဥပဒေ စိုးမိုးမှု
+- კანონის უზენაესობა
+- የሕግ የበላይነት
+- នីតិរដ្ឋ
+- ᱠᱟ.ᱱᱩᱱ
+- 法の支配
+- 法治
+- 법치주의
 has_id_wikidata: Q44918
 instance_of: '[[_Standards/WikiData/WD~legal_doctrine,1192543]]'
 different_from:
-  - '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
-  - '[[_Standards/WikiData/WD~party_state_constitutionalism,11143392]]'
+- '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
+- '[[_Standards/WikiData/WD~party_state_constitutionalism,11143392]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q28468052,28468052]]'
 relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.3_of_the_Sustainable_Development_Goals,57590922]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20mosaic%20%22LAW%22%20by%20Frederick%20Dielman%2C%201847-1935.JPG
+dv_has_:
+  name_:
+    af: oppergesag van die reg
+    am: የሕግ የበላይነት
+    ar: سيادة القانون
+    ast: Imperiu de la llei
+    az: Hüququn aliliyi
+    be: вяршэнства права
+    be-tarask: вяршэнства закону
+    bg: Правова държава
+    bn: আইনের শাসন
+    br: rule of law
+    ca: Estat de Dret
+    ckb: سەروەریی یاسا
+    cs: rule of law
+    cy: rheolaeth y gyfraith
+    da: Retssamfund
+    de: Rule of Law
+    el: κράτος δικαίου
+    en: rule of law
+    en-ca: Rule of law
+    en-gb: rule of law
+    eo: regado de la leĝo
+    es: imperio de la ley
+    et: õigusriik
+    eu: Legearen inperio
+    fa: حاکمیت قانون
+    fr: état de droit
+    ga: forlámhas an dlí
+    gl: Estado de dereito
+    ha: Dokokin doka
+    he: שלטון החוק
+    hi: विधि शासन
+    hr: pravna država
+    hu: joguralom
+    hy: Իրավունքի ընդհանուր տեսություն
+    id: aturan hukum
+    io: Legalesoprincipo
+    is: Réttarríki
+    it: Rule of Law
+    ja: 法の支配
+    ka: კანონის უზენაესობა
+    km: នីតិរដ្ឋ
+    ko: 법치주의
+    la: Regnum legis
+    lmo: Governo de la legg
+    lt: teisinė valstybė
+    lv: tiesiskums
+    mk: Владеење на правото
+    ml: rule of law
+    mn: Эрх зүйт төрийн үндсэн зарчим, түүний шалгуур
+    ms: kedaulatan undang-undang
+    my: တရားဥပဒေ စိုးမိုးမှု
+    nan: Hoat-lu̍t ê thóng-tī
+    nb: rettssikkerhet
+    ne: कानूनको शासन
+    nl: Rule of law
+    pa: ਕਨੂੰਨ ਦਾ ਸ਼ਾਸਨ
+    pcm: Rul of Lau
+    pl: praworządność
+    ps: د قانون حاکمیت
+    pt: estado de direito
+    ro: stat de drept
+    ru: верховенство права
+    sat: ᱠᱟ.ᱱᱩᱱ
+    sh: Vladavina prava
+    si: නීතියේ ආධිපත්යය
+    sl: vladavina prava
+    sq: Sundimi i ligjit
+    sr: Vladavina prava
+    sv: lagstyre
+    sw: Utawala wa sheria
+    ta: சட்ட ஆட்சி
+    th: หลักนิติธรรม
+    tl: Pananaig ng batas
+    tr: Hukukun üstünlüğü
+    uk: верховенство права
+    ur: قانون کی حکمرانی
+    vi: Pháp quyền
+    yue: 法治
+    zh: 法治
+    zu: Ukubusa komthetho
 ---
-
 # [[Rule_of_Law]] 
 
 #has_/complement :: [[Rule_of_Man]]

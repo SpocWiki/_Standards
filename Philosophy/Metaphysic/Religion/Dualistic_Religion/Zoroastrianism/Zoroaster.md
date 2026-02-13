@@ -1,54 +1,113 @@
 ---
 aliases:
-  - Zoroaster
-  - Zarathushtra
-  - Zarathushtra Spitama
+- Jardus
+- Saraþústra
+- Sorastar
+- Suo-luo-ya-se-de
+- Zarathushtra
+- Zarathushtra Spitama
+- Zarathustra
+- Zarathuštra
+- Zaratostra
+- Zaratustra
+- Zaratusztra
+- Zaratuŝtro
+- Zardusht
+- Zerdeşt
+- Zerduşt
+- Zerdüşt
+- Zoroasta
+- Zoroaster
+- Zoroastr
+- Zoroastre
+- Zoroastres
+- Zoroastro
+- Zoroastru
+- Zärdöşt
+- Zərdüşt
+- Ζωροάστρης
+- Заратустра
+- Заратуштра
+- Зардушт
+- Зороастор
+- Зороастър
+- Саратуштра
+- Զրադաշտ
+- Զրադաշտականութիւն
+- זרתוסטרה
+- زرادشت
+- زرتشت
+- زرتۆشت
+- زردشت
+- زەردەشت
+- जरथुस्त्र
+- ज़रथुश्त्र
+- जोरोआस्तर
+- झरथुष्ट्र
+- हरिदुष्ट्रः
+- জরথুস্ত্র
+- জৰথুষ্ট্ৰ
+- ਜ਼ਰਥੁਸ਼ਟ
+- જરથુષ્ટ્ર
+- சரத்துஸ்தர்
+- ಝರತುಷ್ಟ್ರ
+- സൊറോസ്റ്റർ
+- ซาราธุสตรา
+- ဇိုရော့အက်စတာ
+- ဇောရော့အက်စတာ
+- ზარათუშტრა
+- ዞራስተር
+- ザラスシュトラ
+- 左羅阿斯特
+- 琐罗亚斯德
+- 瑣羅亞斯德
+- 자라투스트라
 has_id_wikidata: Q35811
 P8189: 987007298287805200
 Commons_category: Zoroaster
 nickname:
-  - Bactrian Sage
-  - El sabio bactriano
-  - le Sage de Bactriane
+- Bactrian Sage
+- El sabio bactriano
+- le Sage de Bactriane
 cause_of_death: http://www.wikidata.org/.well-known/genid/b88ce2f6b53f31ad4c8f6b9e196456d5
-lifestyle: "[[_Standards/WikiData/WD~vegetarianism,83364]]"
+lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
-  - "[[_Standards/WikiData/WD~Philosophical_Encyclopedic_Dictionary,4484349]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
+- '[[_Standards/WikiData/WD~Philosophical_Encyclopedic_Dictionary,4484349]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
 occupation:
-  - "[[_Standards/WikiData/WD~thaumaturge,1349880]]"
-  - "[[_Standards/WikiData/WD~father_of_faith,2142783]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~prophet,42857]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-different_from: "[[_Standards/WikiData/WD~Zoroaster,4024820]]"
+- '[[_Standards/WikiData/WD~thaumaturge,1349880]]'
+- '[[_Standards/WikiData/WD~father_of_faith,2142783]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~prophet,42857]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+different_from: '[[_Standards/WikiData/WD~Zoroaster,4024820]]'
 child:
-  - "[[_Standards/WikiData/WD~Porvchyista,5556095]]"
-  - "[[_Standards/WikiData/WD~Isat_Vastar,5706248]]"
-father: "[[_Standards/WikiData/WD~Porushaspa,5666161]]"
-mother: "[[_Standards/WikiData/WD~Dohodo,5953040]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Porvchyista,5556095]]'
+- '[[_Standards/WikiData/WD~Isat_Vastar,5706248]]'
+father: '[[_Standards/WikiData/WD~Porushaspa,5666161]]'
+mother: '[[_Standards/WikiData/WD~Dohodo,5953040]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_character,18563354]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-spouse: "[[_Standards/WikiData/WD~Hvōvi,22249555]]"
-given_name: "[[_Standards/WikiData/WD~Zarathustra,27624133]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~religious_character,18563354]]'
+- '[[_Standards/WikiData/WD~human,5]]'
+spouse: '[[_Standards/WikiData/WD~Hvōvi,22249555]]'
+given_name: '[[_Standards/WikiData/WD~Zarathustra,27624133]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 place_of_death: http://www.wikidata.org/.well-known/genid/851ad62bc22a407c027db6f1a708a282
 manner_of_death: http://www.wikidata.org/.well-known/genid/3409ca5e2108bfffb12f871e4d1e7149
-religion_or_worldview: "[[_Standards/WikiData/WD~Zoroastrianism,9601]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Avestan,29572]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Avestan,29572]]'
 OmegaWiki_Defined_Meaning: 933753
 BHCL_UUID: 18992ffa-98eb-42f3-8fea-ea138833b7ed
 Libris_URI: tr578sxc1cwvl9w
@@ -57,8 +116,133 @@ place_of_birth: http://www.wikidata.org/.well-known/genid/3cf0506bca8172fe8575b8
 date_of_birth: http://www.wikidata.org/.well-known/genid/4467b2f7f40115d0d4abb7d35a243387
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zartosht%2030salegee.jpg
 ISNI: 116616596
+dv_has_:
+  name_:
+    af: Zoroaster
+    am: ዞራስተር
+    an: Zoroastres
+    anp: ज़रथुश्त्र
+    ar: زرادشت
+    arz: زرادشت
+    as: জৰথুষ্ট্ৰ
+    ast: Zoroastru
+    az: Zərdüşt
+    azb: زرتۆشت
+    ba: Заратустра
+    bar: Zarathustra
+    bcl: Zoroaster
+    be: Заратуштра
+    be-tarask: Заратустра
+    bew: Jardus
+    bg: Зороастър
+    bho: जरथुस्त्र
+    bn: জরথুস্ত্র
+    br: Zoroastr
+    ca: Zaratustra
+    ce: Заратустра
+    ckb: زەردەشت
+    cs: Zarathuštra
+    cv: Саратуштра
+    cy: Zarathustra
+    da: Zarathustra
+    de: Zarathustra
+    diq: Zerduşt
+    el: Ζωροάστρης
+    en: Zoroaster
+    eo: Zaratuŝtro
+    es: Zoroastro
+    et: Zarathustra
+    eu: Zoroastro
+    fa: زرتشت
+    fi: Zarathustra
+    fr: Zoroastre
+    ga: Sorastar
+    gan: 左羅阿斯特
+    gcr: Zoroastre
+    gl: Zoroastro
+    gsw: Zarathustra
+    gu: જરથુષ્ટ્ર
+    ha: Zoroaster
+    he: זרתוסטרה
+    hi: ज़रथुश्त्र
+    hr: Zarathuštra
+    hu: Zarathustra
+    hy: Զրադաշտ
+    hyw: Զրադաշտականութիւն
+    ia: Zoroastro
+    id: Zarathustra
+    is: Saraþústra
+    it: Zarathustra
+    ja: ザラスシュトラ
+    jam: Zoroaster
+    jv: Zoroaster
+    ka: ზარათუშტრა
+    kbp: Zoroastre
+    kk: Заратуштра
+    kn: ಝರತುಷ್ಟ್ರ
+    ko: 자라투스트라
+    ku: Zerdeşt
+    la: Zoroastres
+    lfn: Zaratustra
+    lt: Zaratustra
+    lv: Zaratustra
+    mdf: Зороастор
+    mg: Zaratostra
+    mk: Заратустра
+    ml: സൊറോസ്റ്റർ
+    mr: झरथुष्ट्र
+    ms: Zarathustra
+    mwl: Zaratustra
+    my: ဇိုရော့အက်စတာ
+    mzn: زرتشت
+    nan: Zarathuštra
+    nb: Zarathustra
+    nds: Zarathustra
+    nds-nl: Zarathustra
+    new: जोरोआस्तर
+    nl: Zarathustra
+    nn: Zarathustra
+    oc: Zaratostra
+    pa: ਜ਼ਰਥੁਸ਼ਟ
+    pl: Zaratusztra
+    pnb: زرتشت
+    ps: زردشت
+    pt: Zaratustra
+    pt-br: Zaratustra
+    rki: ဇောရော့အက်စတာ
+    ro: Zarathustra
+    ru: Заратустра
+    sa: हरिदुष्ट्रः
+    scn: Zoroastru
+    sco: Zoroaster
+    sd: زرتشت
+    sh: Zaratustra
+    sk: Zaratustra
+    sl: Zaratustra
+    sq: Zoroaster
+    sr: Заратустра
+    su: Zoroaster
+    sv: Zarathustra
+    sw: Zoroasta
+    szy: Suo-luo-ya-se-de
+    ta: சரத்துஸ்தர்
+    tg: Зардушт
+    th: ซาราธุสตรา
+    tl: Zoroaster
+    tr: Zerdüşt
+    tt: Zärdöşt
+    uk: Заратуштра
+    ur: زرتشت
+    uz: Zardusht
+    vi: Zarathushtra
+    vro: Zarathustra
+    war: Zoroaster
+    wuu: 琐罗亚斯德
+    xmf: ზარათუშტრა
+    yo: Zoroaster
+    yue: 瑣羅亞斯德
+    zh: 琐罗亚斯德
 ---
-
 # [[Zoroaster]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Zoroaster,35811|WD~Zoroaster,35811]] 

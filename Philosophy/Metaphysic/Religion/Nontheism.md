@@ -1,11 +1,97 @@
 ---
 aliases:
-  - non-theism
-  - Nontheism
+- Jainko eza
+- Joteizmi
+- neteismo
+- neteizem
+- no teisme
+- no teísmo
+- non teísmo
+- Non teísmu
+- Non-teïsme
+- non-theism
+- non-théisme
+- nonteism
+- nonteisma
+- Nonteisme
+- nonteismi
+- nonteismm
+- nonteismo
+- Nonteismus
+- Nonteizam
+- Nonteizm
+- Nontheism
+- Nontheismus
+- não teísmo
+- Ureligiøs
+- Μη θεϊσμός
+- Нетеїзм
+- нетеизм
+- Нетеизъм
+- Нонтеизам
+- нэтэізм
+- נונתאיזם
+- غیرخداباوری
+- لاألوهية
+- لاالوهيه
+- অঈশ্বরবাদ
+- 非有神論
+- 非有神论
+- 비신론
 has_id_wikidata: Q871396
 subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
+dv_has_:
+  name_:
+    ar: لاألوهية
+    arz: لاالوهيه
+    ast: Non teísmu
+    be-tarask: нэтэізм
+    bg: Нетеизъм
+    bn: অঈশ্বরবাদ
+    ca: no teisme
+    cs: Nonteismus
+    da: Ureligiøs
+    el: Μη θεϊσμός
+    en: nontheism
+    en-ca: Nontheism
+    en-gb: Nontheism
+    eo: neteismo
+    es: no teísmo
+    eu: Jainko eza
+    fa: غیرخداباوری
+    fi: nonteismi
+    fr: non-théisme
+    fy: Non-teïsme
+    gl: non teísmo
+    he: נונתאיזם
+    hr: Nonteizam
+    id: Nonteisme
+    it: nonteismo
+    ja: 非有神論
+    ko: 비신론
+    la: Nontheismus
+    pl: nonteizm
+    pt: não teísmo
+    pt-br: Não teísmo
+    ru: нетеизм
+    se: nonteisma
+    sh: Nonteizam
+    sl: neteizem
+    smn: nonteism
+    sms: nonteismm
+    sq: Joteizmi
+    sr: Нонтеизам
+    sr-ec: Нонтеизам
+    sr-el: Nonteizam
+    tr: Nonteizm
+    uk: Нетеїзм
+    uz: Nonteizm
+    zh: 非有神论
+    zh-hans: 非有神论
+    zh-hant: 非有神論
+    zh-hk: 非有神論
+    zh-tw: 非有神論
 ---
-
 # [[Nontheism]] 
 
 #is_/same_as :: [[WD~Nontheism,871396]] 

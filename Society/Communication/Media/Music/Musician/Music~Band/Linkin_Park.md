@@ -1,8 +1,314 @@
 ---
 aliases:
-  - Linkin Park
-  - Linkin_Park
+- Linge Pag
+- Lingin Poak
+- Linkin Park
+- Linkin Poak
+- Linkin_Park
+- Linkoun Pourk
+- Längen Paag
+- Länke Paak
+- Länkn Paak
+- Линкин Парк
+- Լինքին Փարք
+- לינקין פארק
+- لنکن پارک
+- لينكين بارك
+- لینکین پارک
+- लिंकिन पार्क
+- লিঙ্কিন পার্ক
+- ਲਿੰਕਿਨ ਪਾਰਕ
+- லிங்கின் பார்க்
+- లింకిన్ పార్క్
+- ಲಿಂಕಿನ್ ಪಾರ್ಕ್
+- ലിങ്കിൻ പർക്
+- ลิงคินพาร์ก
+- လင်ကင်းပါ့
+- ლინკინ პარკი
+- ሊንኪን ፓርክ
+- ᎵᏂᎩᏂ ᏆᎩ
+- លីងឃីន ផាក
+- リンキン・パーク
+- 联合公园
+- 聯合公園
+- 린킨 파크
 has_id_wikidata: Q261
+dv_has_:
+  name_:
+    aa: Linkin Park
+    ace: Linkin Park
+    af: Linkin Park
+    aln: Linkin Park
+    am: ሊንኪን ፓርክ
+    an: Linkin Park
+    ar: لينكين بارك
+    arn: Linkin Park
+    ast: Linkin Park
+    atj: Linkin Park
+    avk: Linkin Park
+    ay: Linkin Park
+    az: Linkin Park
+    azb: لینکین پارک
+    ban: Linkin Park
+    bar: Linkin Poak
+    bbc: Linkin Park
+    bcl: Linkin Park
+    be: Linkin Park
+    be-tarask: Linkin Park
+    bg: Линкин Парк
+    bho: लिंकिन पार्क
+    bi: Linkin Park
+    bm: Linkin Park
+    bn: লিঙ্কিন পার্ক
+    br: Linkin Park
+    bs: Linkin Park
+    bto: Linkin Park
+    ca: Linkin Park
+    cbk-zam: Linkin Park
+    ceb: Linkin Park
+    ch: Linkin Park
+    cho: Linkin Park
+    chr: ᎵᏂᎩᏂ ᏆᎩ
+    chy: Linkin Park
+    ckb: لینکین پارک
+    co: Linkin Park
+    cps: Linkin Park
+    crh: Linkin Park
+    crh-latn: Linkin Park
+    cs: Linkin Park
+    csb: Linkin Park
+    cy: Linkin Park
+    da: Linkin Park
+    de: Linkin Park
+    de-at: Lingin Poak
+    de-ch: Länke Paak
+    din: Linkin Park
+    diq: Linkin Park
+    dsb: Linkin Park
+    dtp: Linkin Park
+    ee: Linkin Park
+    egl: Linkin Park
+    el: Linkin Park
+    eml: Linkin Park
+    en: Linkin Park
+    en-ca: Linkin Park
+    en-gb: Linkin Park
+    en-us: Linkin Park
+    eo: Linkin Park
+    es: Linkin Park
+    et: Linkin Park
+    eu: Linkin Park
+    ext: Linkin Park
+    fa: لینکین پارک
+    ff: Linkin Park
+    fi: Linkin Park
+    fit: Linkin Park
+    fj: Linkin Park
+    fo: Linkin Park
+    fr: Linkin Park
+    frc: Linkin Park
+    frp: Linkin Park
+    frr: Linkin Park
+    fur: Linkin Park
+    fy: Linkin Park
+    ga: Linkin Park
+    gag: Linkin Park
+    gd: Linkin Park
+    gl: Linkin Park
+    gn: Linkin Park
+    gor: Linkin Park
+    gsw: Linkin Park
+    gv: Linkin Park
+    ha: Linkin Park
+    haw: Linkin Park
+    he: לינקין פארק
+    hi: लिंकिन पार्क
+    hif: Linkin Park
+    hil: Linkin Park
+    ho: Linkin Park
+    hr: Linkin Park
+    hrx: Linkin Park
+    hsb: Linkin Park
+    ht: Linkin Park
+    hu: Linkin Park
+    hy: Linkin Park
+    hyw: Լինքին Փարք
+    hz: Linkin Park
+    ia: Linkin Park
+    id: Linkin Park
+    ie: Linkin Park
+    ig: Linkin Park
+    ik: Linkin Park
+    ilo: Linkin Park
+    io: Linkin Park
+    is: Linkin Park
+    it: Linkin Park
+    ja: リンキン・パーク
+    jam: Linkin Park
+    jut: Linkin Park
+    jv: Linkin Park
+    ka: ლინკინ პარკი
+    kaa: Linkin Park
+    kab: Linkin Park
+    kbp: Linkin Park
+    kea: Linkin Park
+    kg: Linkin Park
+    ki: Linkin Park
+    kj: Linkin Park
+    kk: Linkin Park
+    kk-latn: Linkin Park
+    kl: Linkin Park
+    km: លីងឃីន ផាក
+    kn: ಲಿಂಕಿನ್ ಪಾರ್ಕ್
+    ko: 린킨 파크
+    kri: Linkin Park
+    krj: Linkin Park
+    krl: Linkin Park
+    ksh: Linkin Park
+    ku: Linkin Park
+    kw: Linkin Park
+    ky: Linkin Park
+    la: Linkin Park
+    lad: Linkin Park
+    lb: Linkin Park
+    lfn: Linkin Park
+    lg: Linkin Park
+    li: Linkin Park
+    lij: Linkin Park
+    lmo: Linkin Park
+    ln: Linkin Park
+    lt: Linkin Park
+    ltg: Linkin Park
+    lv: Linkin Park
+    mai: लिंकिन पार्क
+    map-bms: Linkin Park
+    mg: Linkin Park
+    mh: Linkin Park
+    mi: Linkin Park
+    mk: Linkin Park
+    ml: ലിങ്കിൻ പർക്
+    mn: Линкин Парк
+    mr: लिंकिन पार्क
+    ms: Linkin Park
+    mt: Linkin Park
+    mul: Linkin Park
+    mus: Linkin Park
+    mwl: Linkin Park
+    my: လင်ကင်းပါ့
+    na: Linkin Park
+    nah: Linkin Park
+    nan: Linkin Park
+    nap: Linkin Park
+    nb: Linkin Park
+    nds: Länkn Paak
+    nds-nl: Längen Paag
+    ne: लिंकिन पार्क
+    ng: Linkin Park
+    niu: Linkin Park
+    nl: Linkin Park
+    nn: Linkin Park
+    nov: Linkin Park
+    nrm: Linkin Park
+    nso: Linkin Park
+    nv: Linkin Park
+    ny: Linkin Park
+    nys: Linkin Park
+    oc: Linkin Park
+    olo: Linkin Park
+    pa: ਲਿੰਕਿਨ ਪਾਰਕ
+    pag: Linkin Park
+    pam: Linkin Park
+    pap: Linkin Park
+    pcd: Linkin Park
+    pdc: Linkin Park
+    pdt: Linge Pag
+    pfl: Linkoun Pourk
+    pih: Linkin Park
+    pl: Linkin Park
+    pms: Linkin Park
+    prg: Linkin Park
+    pt: Linkin Park
+    pt-br: Linkin Park
+    qu: Linkin Park
+    qug: Linkin Park
+    rgn: Linkin Park
+    rif: Linkin Park
+    rm: Linkin Park
+    rn: Linkin Park
+    ro: Linkin Park
+    roa-tara: Linkin Park
+    ru: Linkin Park
+    rup: Linkin Park
+    rw: Linkin Park
+    sc: Linkin Park
+    scn: Linkin Park
+    sco: Linkin Park
+    sdc: Linkin Park
+    se: Linkin Park
+    sg: Linkin Park
+    sgs: Linkin Park
+    sh: Linkin Park
+    sje: Linkin Park
+    sk: Linkin Park
+    sl: Linkin Park
+    sli: Linkin Park
+    sm: Linkin Park
+    sma: Linkin Park
+    smj: Linkin Park
+    sn: Linkin Park
+    so: Linkin Park
+    sq: Linkin Park
+    sr: Линкин парк
+    srn: Linkin Park
+    srq: Linkin Park
+    ss: Linkin Park
+    st: Linkin Park
+    stq: Linkin Park
+    su: Linkin Park
+    sv: Linkin Park
+    sw: Linkin Park
+    szl: Linkin Park
+    ta: லிங்கின் பார்க்
+    te: లింకిన్ పార్క్
+    tet: Linkin Park
+    tg-cyrl: Linkin Park
+    th: ลิงคินพาร์ก
+    tk: Linkin Park
+    tl: Linkin Park
+    tn: Linkin Park
+    to: Linkin Park
+    tpi: Linkin Park
+    tr: Linkin Park
+    ts: Linkin Park
+    tum: Linkin Park
+    tw: Linkin Park
+    ty: Linkin Park
+    uk: Linkin Park
+    ur: لنکن پارک
+    uz: Linkin Park
+    ve: Linkin Park
+    vec: Linkin Park
+    vep: Linkin Park
+    vi: Linkin Park
+    vls: Linkin Park
+    vmf: Linkin Park
+    vo: Linkin Park
+    vro: Linkin Park
+    wa: Linkin Park
+    war: Linkin Park
+    wo: Linkin Park
+    wuu: 联合公园
+    xh: Linkin Park
+    xmf: ლინკინ პარკი
+    yo: Linkin Park
+    yue: Linkin Park
+    zea: Linkin Park
+    zh: 聯合公園
+    zh-hans: 联合公园
+    zh-hant: 聯合公園
+    zh-sg: 联合公园
+    zh-tw: 聯合公園
+    zu: Linkin Park
 ---
 Most famous Tracks: 
 

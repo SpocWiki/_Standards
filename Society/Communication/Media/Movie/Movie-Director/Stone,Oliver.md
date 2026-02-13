@@ -1,72 +1,104 @@
 ---
 aliases:
-  - Oliver_Stone
-  - William Oliver Stone
-  - Oliver Stone
-  - Stone
-  - Stone,Oliver
+- Olivarius Stone
+- Oliver Ston
+- Oliver Stone
+- Oliver Stoun
+- Olivers Stouns
+- Oliver_Stone
+- Stone
+- Stone,Oliver
+- William Oliver Stone
+- Όλιβερ Στόουν
+- Олівер Стоўн
+- Олівер Стоун
+- Олівэр Стоўн
+- Оливер Стон
+- Оливер Стоун
+- Оливър Стоун
+- Օլիվեր Սթոուն
+- אוליבר סטון
+- أوليفر ستون
+- ئۆلیڤەر ستۆن
+- الیور استون
+- اوليفر ستون
+- اولیور استون
+- اولیور اسٹون
+- ऑलिव्हर स्टोन
+- অলিভার স্টোন
+- ਔਲੀਵਰ ਸਟੋਨ
+- ഒലിവർ സ്റ്റോൺ
+- โอลิเวอร์ สโตน
+- ოლივერ სტოუნი
+- オリバー・ストーン
+- 奥利华·史东
+- 奥利弗·斯通
+- 奧利佛·史東
+- 奧利華·史東
+- 奧利華史東
+- 올리버 스톤
 has_id_wikidata: Q179497
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Screenplay,1421666]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Screenplay,1421666]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Purple_Heart,145752]]'
-  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-  - '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-  - '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
-  - '[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]'
-  - '[[_Standards/WikiData/WD~Air_Medal,980090]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
-  - '[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]'
-  - '[[_Standards/WikiData/WD~Vietnam_Service_Medal,2445351]]'
-  - '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
-  - '[[_Standards/WikiData/WD~Commendation_Medal,2986122]]'
-  - '[[_Standards/WikiData/WD~Combat_Infantryman_Badge,4192947]]'
-  - '[[_Standards/WikiData/WD~Vietnam_Campaign_Medal,4287215]]'
-  - '[[_Standards/WikiData/WD~Dallas_Fort_Worth_Film_Critics_Association_Award_for_Best_Director,5211225]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Ouissam_Alaouite,18536327]]'
-  - '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665]]'
-  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Purple_Heart,145752]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
+- '[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]'
+- '[[_Standards/WikiData/WD~Air_Medal,980090]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]'
+- '[[_Standards/WikiData/WD~Vietnam_Service_Medal,2445351]]'
+- '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
+- '[[_Standards/WikiData/WD~Commendation_Medal,2986122]]'
+- '[[_Standards/WikiData/WD~Combat_Infantryman_Badge,4192947]]'
+- '[[_Standards/WikiData/WD~Vietnam_Campaign_Medal,4287215]]'
+- '[[_Standards/WikiData/WD~Dallas_Fort_Worth_Film_Critics_Association_Award_for_Best_Director,5211225]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Ouissam_Alaouite,18536327]]'
+- '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665]]'
+- '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Platoon,190643]]'
-  - '[[_Standards/WikiData/WD~Wall_Street,332348]]'
-  - '[[_Standards/WikiData/WD~JFK,741823]]'
-  - '[[_Standards/WikiData/WD~Natural_Born_Killers,748986]]'
-  - '[[_Standards/WikiData/WD~The_Doors,937087]]'
+- '[[_Standards/WikiData/WD~Platoon,190643]]'
+- '[[_Standards/WikiData/WD~Wall_Street,332348]]'
+- '[[_Standards/WikiData/WD~JFK,741823]]'
+- '[[_Standards/WikiData/WD~Natural_Born_Killers,748986]]'
+- '[[_Standards/WikiData/WD~The_Doors,937087]]'
 child: '[[_Standards/WikiData/WD~Sean_Stone,256666]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Oliver,2110096]]'
-  - '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Oliver,2110096]]'
+- '[[_Standards/WikiData/WD~William,12344159]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~documentarian,11814411]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~documentarian,11814411]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Saybrook_College,7429130]]'
-  - '[[_Standards/WikiData/WD~The_Hill_School,7739685]]'
-  - '[[_Standards/WikiData/WD~Trinity_School,7842961]]'
-  - '[[_Standards/WikiData/WD~Yale_University,49112]]'
-  - '[[_Standards/WikiData/WD~New_York_University,49210]]'
+- '[[_Standards/WikiData/WD~Saybrook_College,7429130]]'
+- '[[_Standards/WikiData/WD~The_Hill_School,7739685]]'
+- '[[_Standards/WikiData/WD~Trinity_School,7842961]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112]]'
+- '[[_Standards/WikiData/WD~New_York_University,49210]]'
 member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 family_name: '[[_Standards/WikiData/WD~Stone,12803555]]'
 spouse: '[[_Standards/WikiData/WD~Sun_jung_Jung,21694236]]'
@@ -76,19 +108,19 @@ mother: '[[_Standards/WikiData/WD~Jacqueline_Goddet,100148353]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
 residence:
-  - '[[_Standards/WikiData/WD~Manhattan,11299]]'
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~Manhattan,11299]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 number_of_children: 3
 height: 6
@@ -112,8 +144,103 @@ web_feed_URL: https://www.billcosby.com/feed/
 ISNI: 0000000122807313
 Libris_URI: 1zcgmh0k0m0ss4s
 Plex_person_key: 5d776825880197001ec9050e
+dv_has_:
+  name_:
+    af: Oliver Stone
+    an: Oliver Stone
+    ar: أوليفر ستون
+    arz: اوليفر ستون
+    ast: Oliver Stone
+    az: Oliver Stoun
+    azb: اولیور استون
+    ba: Оливер Стоун
+    be: Олівер Стоўн
+    be-tarask: Олівэр Стоўн
+    bg: Оливър Стоун
+    bn: অলিভার স্টোন
+    bs: Oliver Stone
+    ca: Oliver Stone
+    ckb: ئۆلیڤەر ستۆن
+    cs: Oliver Stone
+    cy: Oliver Stone
+    da: Oliver Stone
+    de: Oliver Stone
+    de-ch: Oliver Stone
+    el: Όλιβερ Στόουν
+    en: Oliver Stone
+    en-ca: Oliver Stone
+    en-gb: Oliver Stone
+    eo: Oliver Stone
+    es: Oliver Stone
+    et: Oliver Stone
+    eu: Oliver Stone
+    fa: الیور استون
+    fi: Oliver Stone
+    fr: Oliver Stone
+    ga: Oliver Stone
+    gl: Oliver Stone
+    he: אוליבר סטון
+    hr: Oliver Stone
+    hu: Oliver Stone
+    hy: Օլիվեր Սթոուն
+    id: Oliver Stone
+    it: Oliver Stone
+    ja: オリバー・ストーン
+    ka: ოლივერ სტოუნი
+    kk: Оливер Стоун
+    ko: 올리버 스톤
+    la: Olivarius Stone
+    li: Oliver Stone
+    lt: Oliver Stone
+    lv: Olivers Stouns
+    mg: Oliver Stone
+    mk: Оливер Стоун
+    ml: ഒലിവർ സ്റ്റോൺ
+    mr: ऑलिव्हर स्टोन
+    mul: Oliver Stone
+    nb: Oliver Stone
+    nl: Oliver Stone
+    nn: Oliver Stone
+    pa: ਔਲੀਵਰ ਸਟੋਨ
+    pam: Oliver Stone
+    pap: Oliver Stone
+    pl: Oliver Stone
+    pt: Oliver Stone
+    pt-br: Oliver Stone
+    qu: Oliver Stone
+    ro: Oliver Stone
+    ru: Оливер Стоун
+    sco: Oliver Stone
+    sh: Oliver Stone
+    sk: Oliver Stone
+    sl: Oliver Stone
+    sq: Oliver Stone
+    sr: Оливер Стоун
+    sr-ec: Оливер Стоун
+    sr-el: Oliver Stoun
+    sv: Oliver Stone
+    sw: Oliver Stone
+    tg: Оливер Стон
+    tg-latn: Oliver Ston
+    th: โอลิเวอร์ สโตน
+    tr: Oliver Stone
+    uk: Олівер Стоун
+    ur: اولیور اسٹون
+    vi: Oliver Stone
+    war: Oliver Stone
+    wuu: 奥利弗·斯通
+    xmf: ოლივერ სტოუნი
+    yo: Oliver Stone
+    yue: 奧利華史東
+    zh: 奧利華·史東
+    zh-cn: 奥利弗·斯通
+    zh-hans: 奥利弗·斯通
+    zh-hant: 奧利佛·史東
+    zh-hk: 奧利華·史東
+    zh-my: 奥利华·史东
+    zh-sg: 奥利华·史东
+    zh-tw: 奧利佛·史東
 ---
-
 # [[Stone,Oliver]] 
 
 #is_/same_as :: [[WD~Oliver_Stone,179497]] 

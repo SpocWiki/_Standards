@@ -1,34 +1,203 @@
 ---
 aliases:
-  - Coriolis force
-  - Coriolis_Force
-  - Coriolis Force
+- Coriolis efektua
+- Coriolis effect
+- Coriolis etkisi
+- Coriolis force
+- Coriolis-efekto
+- Coriolis-erő
+- Coriolis-ilmiö
+- corioliseffect
+- Corioliseffekten
+- Coriolisi efekt
+- Corioliskraft
+- Corioliskrafta
+- Corioliskrag
+- Coriolisov učinak
+- Coriolisova sila
+- Coriolisova síla
+- Coriolis_Force
+- Coriolis力
+- efecte de Coriolis
+- efecto Coriolis
+- Efectu Coriolis
+- Efek Coriolis
+- efekt Coriolisa
+- efekto Coriolis
+- efè Coriolis
+- force de Coriolis
+- forza de Coriolis
+- forza di Coriolis
+- força inercial de Coriolis
+- forța Coriolis
+- Fuqia e Koriolit
+- fòrza del Coriolis
+- fòrça de Coriolis
+- Hiệu ứng Coriolis
+- Iarmhairt Coriolis
+- Kesan Coriolis
+- Koriolio efektas
+- Koriolis qüvvəsi
+- Koriolisa spēks
+- Koriolisforto
+- Korioliskrêft
+- Koriolisov efekat
+- Korïolïs küşi
+- Nerzh Coriolis
+- Sayyora uchun Koriolis kuchi
+- Vis Coriolis
+- éfék Coriolis
+- Δύναμη Κοριόλις
+- Кориолис вăйĕ
+- Кориолис күші
+- Кориолис көче
+- Кориолисов ефекат
+- Кориолисова сила
+- сіла Карыёліса
+- сіла Карыяліса
+- сила Коріоліса
+- сила Кориолиса
+- Կորիոլիսի ուժ
+- כוח קוריוליס
+- اثر کوریولیس
+- تأثير كوريوليس
+- كورىيولىيس كۇشى
+- کاریگەریی کۆریۆلیس
+- کوریولیس فورس
+- कॉरिऑलिस प्रभाव
+- कोरिओलिस बल
+- কোরিওলিস প্রভাব
+- கோரியாலிஸ் விளைவு
+- కోరియోలిస్ ప్రభావం
+- കൊറിയോലിസ് ബലം
+- โคริออลิส
+- კორიოლისის ძალა
+- コリオリの力
+- 科里奥利力
+- 科里奧利力
+- 코리올리 효과
 has_id_wikidata: Q169973
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~fictitious_force,212126]]"
-named_after: "[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~fictitious_force,212126]]'
+named_after: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Gaspard_Gustave_de_Coriolis,202827]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Coriolis_acceleration,2822923]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_theory,3239681]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Coriolis_acceleration,2822923]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 time_of_discovery_or_invention: 1835-01-01T00:00:00Z
-measurement_scale: "[[_Standards/WikiData/WD~newton,12438]]"
+measurement_scale: '[[_Standards/WikiData/WD~newton,12438]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coriolis%20effect14.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coriolis%20effect14.png
 Commons_category: Coriolis force
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Corioliskraftanimation.gif
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%93%E0%A6%B2%E0%A6%BF%E0%A6%B8%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC.wav
-OmegaWiki_Defined_Meaning: "921069"
+OmegaWiki_Defined_Meaning: 921069
 Commons_gallery: Coriolis effect
 MeSH_tree_code: G01.482.311
+dv_has_:
+  name_:
+    af: Corioliskrag
+    ar: تأثير كوريوليس
+    ast: Efectu Coriolis
+    az: Koriolis qüvvəsi
+    be: сіла Карыёліса
+    be-tarask: сіла Карыяліса
+    bg: Кориолисова сила
+    bho: कोरिओलिस बल
+    bn: কোরিওলিস প্রভাব
+    br: Nerzh Coriolis
+    ca: efecte de Coriolis
+    ckb: کاریگەریی کۆریۆلیس
+    cs: Coriolisova síla
+    cv: Кориолис вăйĕ
+    da: Corioliseffekten
+    de: Corioliskraft
+    el: Δύναμη Κοριόλις
+    en: Coriolis force
+    en-ca: Coriolis effect
+    en-gb: Coriolis effect
+    eo: Koriolisforto
+    es: efecto Coriolis
+    et: Coriolisi efekt
+    eu: Coriolis efektua
+    fa: اثر کوریولیس
+    fi: Coriolis-ilmiö
+    fr: force de Coriolis
+    fy: Korioliskrêft
+    ga: Iarmhairt Coriolis
+    gl: forza de Coriolis
+    he: כוח קוריוליס
+    hi: कॉरिऑलिस प्रभाव
+    hr: Coriolisov učinak
+    ht: efè Coriolis
+    hu: Coriolis-erő
+    hy: Կորիոլիսի ուժ
+    id: Efek Coriolis
+    io: Coriolis-efekto
+    it: forza di Coriolis
+    ja: コリオリの力
+    ka: კორიოლისის ძალა
+    kk: Кориолис күші
+    kk-arab: كورىيولىيس كۇشى
+    kk-cn: كورىيولىيس كۇشى
+    kk-cyrl: Кориолис күші
+    kk-kz: Кориолис күші
+    kk-latn: Korïolïs küşi
+    kk-tr: Korïolïs küşi
+    ko: 코리올리 효과
+    la: Vis Coriolis
+    lmo: fòrza del Coriolis
+    lt: Koriolio efektas
+    lv: Koriolisa spēks
+    mk: Кориолисова сила
+    ml: കൊറിയോലിസ് ബലം
+    ms: Kesan Coriolis
+    nb: Corioliskraft
+    nl: corioliseffect
+    nn: Corioliskrafta
+    oc: fòrça de Coriolis
+    pap: efekto Coriolis
+    pl: efekt Coriolisa
+    pt: força inercial de Coriolis
+    ro: forța Coriolis
+    ru: сила Кориолиса
+    scn: forza di Coriolis
+    sco: Coriolis force
+    sh: Coriolisov učinak
+    sk: Coriolisova sila
+    sl: Coriolisova sila
+    sq: Fuqia e Koriolit
+    sr: Кориолисов ефекат
+    sr-ec: Кориолисов ефекат
+    sr-el: Koriolisov efekat
+    su: éfék Coriolis
+    sv: Corioliseffekten
+    szl: efekt Coriolisa
+    ta: கோரியாலிஸ் விளைவு
+    te: కోరియోలిస్ ప్రభావం
+    th: โคริออลิส
+    tr: Coriolis etkisi
+    tt: Кориолис көче
+    uk: сила Коріоліса
+    ur: کوریولیس فورس
+    uz: Sayyora uchun Koriolis kuchi
+    vi: Hiệu ứng Coriolis
+    wuu: 科里奥利力
+    yue: Coriolis力
+    zh: 科里奥利力
+    zh-cn: 科里奥利力
+    zh-hans: 科里奥利力
+    zh-hant: 科里奧利力
+    zh-hk: 科里奧利力
+    zh-sg: 科里奥利力
+    zh-tw: 科里奧利力
 ---
-
 # [[Coriolis_Force]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Coriolis_force,169973|WD~Coriolis_force,169973]] 

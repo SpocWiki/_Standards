@@ -1,33 +1,108 @@
 ---
 aliases:
+- Abɛ kaam
+- Aceite de palma
+- Aleji
+- Alyvpalmių aliejus
+- Amamesa
+- Ami vɔvɔ
+- azeite de dendê
+- Dầu cọ
+- Epo pupa
+- huile de palme
+- Lenga sawit
+- Mafúta ma mbíla
+- Manja
+- Mawese
+- Menaka palma
+- Minyak kelapa sawit
+- Minyak sawik
+- Minyak sawit
+- Mmanụ nri
+- Muamba
+- Ngo
+- ola phailme
+- olej palmowy
+- oli de palma
+- olio di palma
+- palm oil
+- Palm yağı
+- Palma yog'i
+- palma-olio
+- palmeolie
+- palmeolje
+- Palmino ulje
+- Palmiõli
+- palmoleo
+- palmolie
+- palmolja
+- palmovo olje
+- palmový olej
+- Palmu eļļa
+- Palmuöljy
+- Palmöl
+- pálmaolaj
+- ulei de palmier
+- Vaji i palmës
+- Ògiu de prama
+- Òli de palma
+- Φοινικέλαιο
+- палмино масло
+- Палмино уље
+- Палмово масло
+- Пальма мае
+- Пальмавы алей
+- Пальмова олія
+- пальмовое масло
+- Արմավենու յուղ
+- שמן דקלים
+- تاڑ کا تیل
+- د خرما (نخل) غوړي
+- روغن نخل
+- زيت النخيل
+- پالم یاغی
+- ताड़ का तेल
+- पाम तेल
+- পাম তেল
+- ପାମୋଲିନ ତେଲ
+- செம்பனை எண்ணெய்
+- పామాయిల్
+- ತಾಳೆ ಎಣ್ಣೆ
+- പാമോയിൽ
+- น้ำมันปาล์ม
+- პალმის ზეთი
+- パーム油
+- 棕榈油
+- 棕櫚油
+- 팜유
 has_id_wikidata: Q231458
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Elaeis_guineensis,165403]]"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Elaeis_guineensis,165403]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cooking_oil,427457]]"
-  - "[[_Standards/WikiData/WD~biocombustible,14515877]]"
+- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~biocombustible,14515877]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~palm_kernel_oil,1960534]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Palm_oil,20317779]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~palm_kernel_oil,1960534]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Palm_oil,20317779]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Culinária,116741808]]'
 carbon_footprint: 15.1
 water_footprint: 4971
-USDA_NDB_number: "04055"
-OmegaWiki_Defined_Meaning: "1311510"
-CosIng_number: "87225"
+USDA_NDB_number: 04055
+OmegaWiki_Defined_Meaning: 1311510
+CosIng_number: 87225
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Palm%20oil%20in%20a%20bowl.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Palm%20oil%20in%20a%20white%20bowl.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%8B%D1%80%D0%BE%D0%B5%20%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tunku%20Sabah%20Bandar-Sahabat-04.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Palm%20oil%20in%20a%20bowl.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Palm%20oil%20in%20a%20white%20bowl.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%8B%D1%80%D0%BE%D0%B5%20%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tunku%20Sabah%20Bandar-Sahabat-04.jpg
 Dewey_Decimal_Classification:
-  - "664.3"
-  - "665.35"
+- 664.3
+- 665.35
 Commons_category: Palm oil
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/2013palm%20oil.png
 EC_number: 232-316-1
@@ -35,11 +110,103 @@ UNII: 5QUO05548Z
 CAS_Registry_Number: 8002-75-3
 UMLS_CUI: C0069962
 MeSH_tree_code:
-  - D10.627.700.798
-  - D20.215.784.750.728
+- D10.627.700.798
+- D20.215.784.750.728
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PALMOVOE_MASLO.html
+dv_has_:
+  name_:
+    ak: Ngo
+    ar: زيت النخيل
+    as: পাম তেল
+    ast: Aceite de palma
+    azb: پالم یاغی
+    be: Пальмавы алей
+    be-tarask: пальмавы алей
+    bg: Палмово масло
+    bn: পাম তেল
+    ca: oli de palma
+    cs: palmový olej
+    da: palmeolie
+    dag: Aleji
+    de: Palmöl
+    el: Φοινικέλαιο
+    en: palm oil
+    en-ca: Palm oil
+    en-gb: palm oil
+    eo: palmoleo
+    es: aceite de palma
+    et: Palmiõli
+    eu: palma-olio
+    fa: روغن نخل
+    fi: Palmuöljy
+    fon: Ami vɔvɔ
+    fr: huile de palme
+    ga: ola phailme
+    gl: aceite de palma
+    gur: Abɛ kaam
+    ha: Manja
+    he: שמן דקלים
+    hi: ताड़ का तेल
+    hr: Palmino ulje
+    hu: pálmaolaj
+    hy: Արմավենու յուղ
+    id: Minyak sawit
+    ig: Mmanụ nri
+    it: olio di palma
+    ja: パーム油
+    jv: Lenga sawit
+    ka: პალმის ზეთი
+    kg: Muamba
+    kn: ತಾಳೆ ಎಣ್ಣೆ
+    ko: 팜유
+    ln: Mafúta ma mbíla
+    lt: Alyvpalmių aliejus
+    lv: Palmu eļļa
+    mg: Menaka palma
+    min: Minyak sawik
+    mk: палмино масло
+    ml: പാമോയിൽ
+    mr: पाम तेल
+    ms: Minyak kelapa sawit
+    nb: palmeolje
+    nl: palmolie
+    nn: Palmeolje
+    oc: Òli de palma
+    or: ପାମୋଲିନ ତେଲ
+    pl: olej palmowy
+    ps: د خرما (نخل) غوړي
+    pt: azeite de dendê
+    pt-br: Azeite de dendê
+    rn: Amamesa
+    ro: ulei de palmier
+    ru: пальмовое масло
+    sc: Ògiu de prama
+    sk: Palmový olej
+    sl: palmovo olje
+    sq: Vaji i palmës
+    sr: Палмино уље
+    sv: palmolja
+    sw: Mawese
+    ta: செம்பனை எண்ணெய்
+    te: పామాయిల్
+    th: น้ำมันปาล์ม
+    tr: Palm yağı
+    tt: Пальма мае
+    uk: Пальмова олія
+    ur: تاڑ کا تیل
+    uz: Palma yog'i
+    vi: Dầu cọ
+    wuu: 棕榈油
+    yo: Epo pupa
+    yue: 棕櫚油
+    zh: 棕櫚油
+    zh-cn: 棕榈油
+    zh-hans: 棕榈油
+    zh-hant: 棕櫚油
+    zh-hk: 棕櫚油
+    zh-sg: 棕榈油
+    zh-tw: 棕櫚油
 ---
-
 # [[Palm_Oil]] 
 
 #is_/same_as :: [[WD~Palm_oil,231458]] 

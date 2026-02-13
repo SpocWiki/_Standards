@@ -1,8 +1,108 @@
 ---
 aliases:
-  - Inanna
-  - Ishtar
+- Inana
+- Inanna
+- Inano
+- Ishtar
+- Înanna
+- Ινάννα
+- Інана
+- Інанна
+- Инана
+- Инанна
+- Истэр иэйэхсит
+- Ինաննա
+- איננה
+- إنانا
+- ئیناننا
+- انانا
+- اننا
+- اِنانا
+- این آنا
+- اینانا
+- इश्तार
+- ইনানা
+- எஸ்தர், சுமேரியக் கடவுள்
+- ഇനന്ന
+- อินันนา
+- ინანა
+- イナンナ
+- 伊南娜
+- ꯏꯅꯥꯟꯅꯥ
+- 이슈타르
 has_id_wikidata: Q272523
+dv_has_:
+  name_:
+    ar: إنانا
+    arz: انانا
+    azb: این آنا
+    bcl: Inanna
+    be: Інана
+    bg: Инана
+    bn: ইনানা
+    ca: Inanna
+    cs: Inanna
+    cv: Инанна
+    da: Inanna
+    de: Inanna
+    el: Ινάννα
+    en: Inanna
+    eo: Inano
+    es: Inanna
+    et: Inanna
+    eu: Inanna
+    fa: اینانا
+    fi: Inanna
+    fr: Inanna
+    gl: Inanna
+    he: איננה
+    hu: Inanna
+    hy: Ինաննա
+    ia: Inanna
+    id: Inanna
+    ig: Inanna
+    it: Inanna
+    ja: イナンナ
+    ka: ინანა
+    ko: 이슈타르
+    ks: اِنانا
+    ku: Înanna
+    ku-arab: ئیناننا
+    ku-latn: Înanna
+    la: Inanna
+    lt: Inana
+    mg: Inanna
+    mi: Inanna
+    mk: Инана
+    ml: ഇനന്ന
+    mni: ꯏꯅꯥꯟꯅꯥ
+    mr: इश्तार
+    nb: Inanna
+    nl: Inanna
+    oc: Inanna
+    pt: Inana
+    pt-br: Inana
+    ro: Inanna
+    ru: Инанна
+    sah: Истэр иэйэхсит
+    sk: Inanna
+    sl: Inana
+    sq: Inanna
+    sv: Inanna
+    ta: எஸ்தர், சுமேரியக் கடவுள்
+    th: อินันนา
+    tl: Inanna
+    tr: Inanna
+    uk: Інанна
+    ur: اننا
+    vi: Inanna
+    zh: 伊南娜
+    zh-cn: 伊南娜
+    zh-hans: 伊南娜
+    zh-hant: 伊南娜
+    zh-hk: 伊南娜
+    zh-sg: 伊南娜
+    zh-tw: 伊南娜
 ---
 # [[Ishtar]]
 

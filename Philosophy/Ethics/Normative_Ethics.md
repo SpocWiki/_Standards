@@ -1,8 +1,91 @@
 ---
 has_id_wikidata: Q1321845
+dv_has_:
+  name_:
+    ar: أخلاقيات معيارية
+    ast: Ética normativa
+    az: Normativ etika
+    ba: Норматив этика
+    be-tarask: нарматыўная этыка
+    bn: আদর্শগত নীতিশাস্ত্র
+    ca: ètica normativa
+    cs: Normativní etika
+    de: normative Ethik
+    el: κανονιστική ηθική
+    en: normative ethics
+    en-ca: Normative ethics
+    en-gb: normative ethics
+    eo: normiga etiko
+    es: Ética normativa
+    eu: Etika normatibo
+    fa: اخلاق هنجاری
+    fi: normatiivinen etiikka
+    fr: éthique normative
+    gl: Ética normativa
+    he: אתיקה נורמטיבית
+    hi: मानदण्डक नीतिशास्त्र
+    hr: Normativna etika
+    hy: Նորմատիվ բարոյագիտություն
+    ja: 規範倫理学
+    ko: 규범윤리학
+    la: ethica normativa
+    lt: normatyvioji etika
+    ms: Etika normatif
+    nb: normativ etikk
+    nl: normatieve ethiek
+    pl: Etyka normatywna
+    pms: Ética normativa
+    pt: ética normativa
+    pt-br: Ética normativa
+    ro: etică normativă
+    ru: нормативная этика
+    sk: Normatívna etika
+    sl: normativna etika
+    sr: Normativna etika
+    sv: normativ etik
+    tl: Normatibong etika
+    tr: Normatif etik
+    tt: норматив этика
+    uk: нормативна етика
+    zh: 規範倫理學
+aliases:
+- ethica normativa
+- etică normativă
+- Etika normatibo
+- Etika normatif
+- Etyka normatywna
+- Normatibong etika
+- normatieve ethiek
+- Normatif etik
+- normatiivinen etiikka
+- normativ etik
+- Normativ etika
+- normativ etikk
+- normative ethics
+- normative Ethik
+- Normativna etika
+- Normativní etika
+- normatyvioji etika
+- Normatívna etika
+- normiga etiko
+- ètica normativa
+- éthique normative
+- Ética normativa
+- κανονιστική ηθική
+- нарматыўная этыка
+- Норматив этика
+- нормативна етика
+- нормативная этика
+- Նորմատիվ բարոյագիտություն
+- אתיקה נורמטיבית
+- أخلاقيات معيارية
+- اخلاق هنجاری
+- मानदण्डक नीतिशास्त्र
+- আদর্শগত নীতিশাস্ত্র
+- 規範倫理学
+- 規範倫理學
+- 규범윤리학
 ---
-
-
 # [[Normative_Ethics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Normative_ethics,1321845|WD~Normative_ethics,1321845]] 

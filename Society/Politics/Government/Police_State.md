@@ -1,19 +1,117 @@
 ---
 aliases:
-  - Polizeistaat
-  - Police_State
-  - Police State
+- estado policial
+- estadong pulis
+- estat policia
+- estáu policial
+- negara polis
+- negara polisi
+- Nhà nước cảnh sát
+- państwo policyjne
+- polica ŝtato
+- policajný štát
+- Police State
+- policejní stát
+- Police_State
+- policijska država
+- policinė valstybė
+- poliisivaltio
+- polis devleti
+- polisstat
+- politiestaat
+- politistat
+- politseiriik
+- politsiya mamlakati
+- Polizeistaat
+- polizia estatu
+- rendőrállam
+- Stat de Polizia
+- stat polițienesc
+- stato di polizia
+- État policier
+- Αστυνομοκρατία
+- паліцэйская дзяржава
+- поліцейська держава
+- Полицейска държава
+- полицейское государство
+- Полицијска држава
+- מדינת משטרה
+- حکومت پلیسی
+- دولة بوليسية
+- পুলিশি রাষ্ট্র
+- காவல் இராச்சியம்
+- პოლიციური სახელმწიფო
+- 警察国家
+- 警察國家
+- 경찰국가
 has_id_wikidata: Q217405
 uses:
-  - '[[_Standards/WikiData/WD~secret_police,214183]]'
-  - '[[_Standards/WikiData/WD~political_repression,1899269]]'
+- '[[_Standards/WikiData/WD~secret_police,214183]]'
+- '[[_Standards/WikiData/WD~political_repression,1899269]]'
 different_from: '[[_Standards/WikiData/WD~state_police,460336]]'
 opposite_of: '[[_Standards/WikiData/WD~Mafia_state,604883]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~counterintelligence_state,17007978]]'
 subclass_of: '[[_Standards/WikiData/WD~state,7275]]'
 IMDb_keyword: police-state
+dv_has_:
+  name_:
+    ar: دولة بوليسية
+    arz: دولة بوليسية
+    ast: estáu policial
+    be-tarask: паліцэйская дзяржава
+    bg: Полицейска държава
+    bn: পুলিশি রাষ্ট্র
+    ca: estat policia
+    cs: policejní stát
+    da: politistat
+    de: Polizeistaat
+    el: Αστυνομοκρατία
+    en: police state
+    eo: polica ŝtato
+    es: estado policial
+    et: politseiriik
+    eu: polizia estatu
+    fa: حکومت پلیسی
+    fi: poliisivaltio
+    fr: État policier
+    gl: estado policial
+    he: מדינת משטרה
+    hr: policijska država
+    hu: rendőrállam
+    id: negara polisi
+    it: stato di polizia
+    ja: 警察国家
+    ka: პოლიციური სახელმწიფო
+    ko: 경찰국가
+    lmo: Stat de Polizia
+    lt: policinė valstybė
+    ms: negara polis
+    nb: politistat
+    nl: politiestaat
+    pl: państwo policyjne
+    pt: estado policial
+    ro: stat polițienesc
+    ru: полицейское государство
+    sh: policijska država
+    sk: policajný štát
+    sl: policijska država
+    sr: Полицијска држава
+    sv: polisstat
+    ta: காவல் இராச்சியம்
+    tl: estadong pulis
+    tr: polis devleti
+    uk: поліцейська держава
+    uz: politsiya mamlakati
+    vi: Nhà nước cảnh sát
+    yue: 警察國家
+    zh: 警察國家
+    zh-cn: 警察国家
+    zh-hans: 警察国家
+    zh-hant: 警察國家
+    zh-hk: 警察國家
+    zh-sg: 警察国家
+    zh-tw: 警察國家
 ---
-
 # [[Police_State]] 
 
 #is_/same_as :: [[WD~Police_state,217405]] 

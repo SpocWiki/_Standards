@@ -1,27 +1,107 @@
 ---
 aliases:
-  - Krustentier
-  - Krustentiere
-  - crustacean
-  - crustaceans
-  - Crustacea
-  - krepsdyr
-  - Kreeftachtigen
-  - skorupiaki
-  - ракообразные
-  - raki
-  - Krebstiere
+- Chʼosh bikágí dantłʼizí
+- Cramennog
+- Crostacei
+- Crustacea
+- crustacean
+- crustaceans
+- crustacee
+- crustacis
+- Crustacèu
+- crustacé
+- Crustaseo
+- Crustáceo
+- crustáceos
+- crústach
+- dwaarsloper
+- Gegereka
+- Id bu-wwqqcur
+- Kabuklular
+- Kah-khak-lūi
+- Kevjal
+- korýši
+- Kraaben
+- Krabbadýr
+- Krabechtige
+- krebsdyr
+- Krebstiere
+- Kreeftachtigen
+- Kreefte
+- krepsdyr
+- Kresteneg
+- Krestennek
+- Kriftachtign
+- Kriibsen
+- Krustaceo
+- krustacoj
+- Krustasea
+- Krustazeo
+- krustaċej
+- Krustentier
+- Krustentiere
+- kräftdjur
+- Kôrovce
+- marisko
+- Qaraqruyuwa
+- Qisqichbaqasimonlar
+- raki
+- rakovi
+- rapuelleeh
+- reabbáeallit
+- rákok
+- Skaaldier
+- skorupiaki
+- Soqoleeyyii (Crustacean)
+- Tiruca
+- vähilaadsed
+- Vēžveidīgie
+- Vėžiagyviai
+- Xərçəngkimilər
+- äyriäiset
+- động vật giáp xác
+- Καρκινοειδή
+- кысласыманнар
+- Мыдзбырхуызтæ
+- Рак евĕрли
+- Рак сымалдар
+- ракападобныя
+- ракови
+- ракообразни
+- ракообразные
+- ракоподібні
+- Рӓк ганьывлӓ
+- Шаянтәрізділер
+- Ҡыҫала
+- խեցգետնանմաններ
+- סרטנאים
+- سختپوستان
+- قابؽق لیلار
+- قشريات
+- قشریات
+- كلک پوستى ژوي
+- क्रस्टेशिया
+- ஓடுடைய இனங்கள்
+- ക്രസ്റ്റേഷ്യൻ
+- ครัสเตเชียน
+- ပူ
+- კიბოსნაირნი
+- 甲壳亚门
+- 甲殻類
+- 甲殼亞門
+- 甲殼動物
+- 갑각아문
 has_id_wikidata: Q25364
 Biology_Online_Biology_Dictionary_entry: crustacean
 Commons_category: Crustacea
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 EPPO_Code: 1CRUSQ
 GS1_GPC_code: 10005450
 Iconclass_notation: 25F716
@@ -36,12 +116,12 @@ parent_taxon: '[[_Standards/WikiData/WD~Pancrustacea,671280]]'
 start_time: -511000000-01-01
 studied_by: '[[_Standards/WikiData/WD~carcinology,2183296]]'
 taxon_common_name:
-  - krepsdyr
-  - Kreeftachtigen
-  - skorupiaki
-  - ракообразные
-  - raki
-  - Krebstiere
+- krepsdyr
+- Kreeftachtigen
+- skorupiaki
+- ракообразные
+- raki
+- Krebstiere
 taxon_name: Crustacea
 taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~shellfish,6501235]]'
@@ -49,8 +129,149 @@ title: Crustacea
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8922920,8922920]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crustaceans,20630742]]'
 Wikidata_property: time in the pouch
+dv_has_:
+  name_:
+    af: Skaaldier
+    an: Crustacea
+    ar: قشريات
+    arz: قشريات
+    ast: Crustacea
+    az: Xərçəngkimilər
+    azb: قابؽق لیلار
+    ba: Ҡыҫала
+    bar: Crustacea
+    be: ракападобныя
+    be-tarask: ракападобныя
+    bg: ракообразни
+    br: Kresteneg
+    bs: Rakovi
+    ca: crustacis
+    ceb: Crustacea
+    co: Crustacea
+    cs: korýši
+    cv: Рак евĕрли
+    cy: Cramennog
+    da: krebsdyr
+    de: Krebstiere
+    de-at: Crustacea
+    de-ch: Krebstiere
+    el: Καρκινοειδή
+    en: Crustacea
+    en-ca: Crustacean
+    en-gb: Crustacean
+    en-us: Crustacean
+    eo: krustacoj
+    es: crustáceos
+    et: vähilaadsed
+    eu: Krustazeo
+    ext: Crustacea
+    fa: سختپوستان
+    fi: äyriäiset
+    fr: crustacé
+    frp: Crustacea
+    frr: Kraaben
+    fur: Crustacea
+    ga: crústach
+    gd: Crustacea
+    gl: crustáceos
+    gsw: Crustacea
+    he: סרטנאים
+    hi: क्रस्टेशिया
+    hr: Rakovi
+    hu: rákok
+    hy: խեցգետնանմաններ
+    ia: Crustacea
+    id: Krustasea
+    ie: Crustacea
+    io: Krustaceo
+    is: Krabbadýr
+    it: Crostacei
+    ja: 甲殻類
+    jv: Crustacea
+    ka: კიბოსნაირნი
+    kab: Tiruca
+    kg: Crustacea
+    kk: Шаянтәрізділер
+    ko: 갑각아문
+    ku: Kevjal
+    kw: Krestennek
+    ky: Рак сымалдар
+    la: Crustacea
+    lb: Kriibsen
+    lfn: Crustaseo
+    li: Krabechtige
+    lij: Crustacea
+    lt: Vėžiagyviai
+    lv: Vēžveidīgie
+    mg: Crustacea
+    min: Crustacea
+    mk: ракови
+    ml: ക്രസ്റ്റേഷ്യൻ
+    mrj: Рӓк ганьывлӓ
+    ms: Krustasea
+    mt: krustaċej
+    mul: Crustacea
+    nan: Kah-khak-lūi
+    nap: Crustacea
+    nb: krepsdyr
+    nds: Kreefte
+    nds-nl: dwaarsloper
+    nl: kreeftachtigen
+    nn: krepsdyr
+    nrm: Crustacea
+    nv: Chʼosh bikágí dantłʼizí
+    nys: Crustacea
+    oc: Crustacèu
+    om: Soqoleeyyii (Crustacean)
+    os: Мыдзбырхуызтæ
+    pap: marisko
+    pcd: Crustacea
+    pl: skorupiaki
+    pms: Crustacea
+    ps: كلک پوستى ژوي
+    pt: crustáceo
+    pt-br: Crustáceo
+    qu: Qaraqruyuwa
+    rm: Crustacea
+    ro: crustacee
+    ru: ракообразные
+    sc: Crustacea
+    scn: Crustacea
+    sco: crustacean
+    se: reabbáeallit
+    sh: rakovi
+    shi: Id bu-wwqqcur
+    shn: ပူ
+    sk: Kôrovce
+    sl: raki
+    smn: rapuelleeh
+    sq: Crustacea
+    sr: ракови
+    sv: kräftdjur
+    sw: Gegereka
+    ta: ஓடுடைய இனங்கள்
+    th: ครัสเตเชียน
+    tl: Crustacea
+    tr: Kabuklular
+    tt: кысласыманнар
+    uk: ракоподібні
+    ur: قشریات
+    uz: Qisqichbaqasimonlar
+    vec: Crustacea
+    vi: động vật giáp xác
+    vls: Kriftachtign
+    vo: Crustacea
+    wa: Crustacea
+    war: Crustacea
+    wo: Crustacea
+    wuu: 甲壳亚门
+    yue: 甲殼動物
+    zh: 甲壳亚门
+    zh-cn: 甲壳亚门
+    zh-hans: 甲壳亚门
+    zh-tw: 甲殼亞門
+    zu: Crustacea
 ---
-
 # [[Crustacea]]
 
 Crabs, lobsters, shrimp, barnacles, sow bugs, etc. 

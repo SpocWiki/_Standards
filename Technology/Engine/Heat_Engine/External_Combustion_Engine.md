@@ -1,8 +1,100 @@
 ---
 has_id_wikidata: Q843537
+dv_has_:
+  name_:
+    ar: محرك احتراق خارجي
+    be: Рухавік знешняга згарання
+    be-tarask: Рухавік вонкавага згараньня
+    bg: Двигател с външно горене
+    ca: motor de combustió externa
+    ckb: بزوێنەری سووتانی دەرەکی
+    cs: motor s vnějším spalováním
+    de: Kraftmaschine mit äußerer Verbrennung
+    el: Μηχανή εξωτερικής καύσης
+    en: external combustion engine
+    eo: ekstera eksplodmotoro
+    es: motor de combustión externa
+    eu: kanpo-errekuntzako motor
+    fa: موتور برون سوز
+    fr: moteur à combustion externe
+    gl: motor de combustión externa
+    he: מנוע בעירה חיצונית
+    hi: बहिर्दहन इंजन
+    id: Mesin pembakaran luar
+    io: Extera kombusto motoro
+    it: motore a combustione esterna
+    ja: 外燃機関
+    ko: 외연기관
+    lv: ārdedzes dzinējs
+    mk: мотор со надворешно согорување
+    mn: Гадаад шаталтат хөдөлгүүр
+    ne: बाह्य दहन इन्जिन
+    pl: silnik o spalaniu zewnętrznym
+    ro: Motor cu ardere externă
+    ru: Двигатель внешнего сгорания
+    sco: freemit combustion ingine
+    sk: Motor s vonkajším spaľovaním
+    sl: Motor z zunanjim zgorevanjem
+    sq: Motori me djegie të jashtme
+    sr: мотор са спољашњим сагоревањем
+    sv: extern förbränningsmotor
+    ta: வெளி எரி பொறி
+    th: เครื่องยนต์สันดาปภายนอก
+    tr: Dıştan yanmalı motor
+    uk: Двигун зовнішнього згоряння
+    ur: بیرونی احتراقی انجن
+    vi: Động cơ đốt ngoài
+    yue: 外燃機
+    zh: 外燃机
+    zh-hans: 外燃机
+    zh-hant: 外燃機
+    zh-hk: 外燃機
+    zh-tw: 外燃機
+aliases:
+- Dıştan yanmalı motor
+- ekstera eksplodmotoro
+- Extera kombusto motoro
+- extern förbränningsmotor
+- external combustion engine
+- freemit combustion ingine
+- kanpo-errekuntzako motor
+- Kraftmaschine mit äußerer Verbrennung
+- Mesin pembakaran luar
+- moteur à combustion externe
+- Motor cu ardere externă
+- motor de combustió externa
+- motor de combustión externa
+- motor s vnějším spalováním
+- Motor s vonkajším spaľovaním
+- Motor z zunanjim zgorevanjem
+- motore a combustione esterna
+- Motori me djegie të jashtme
+- silnik o spalaniu zewnętrznym
+- ārdedzes dzinējs
+- Động cơ đốt ngoài
+- Μηχανή εξωτερικής καύσης
+- Гадаад шаталтат хөдөлгүүр
+- Двигател с външно горене
+- Двигатель внешнего сгорания
+- Двигун зовнішнього згоряння
+- мотор са спољашњим сагоревањем
+- мотор со надворешно согорување
+- Рухавік вонкавага згараньня
+- Рухавік знешняга згарання
+- מנוע בעירה חיצונית
+- بزوێنەری سووتانی دەرەکی
+- بیرونی احتراقی انجن
+- محرك احتراق خارجي
+- موتور برون سوز
+- बहिर्दहन इंजन
+- बाह्य दहन इन्जिन
+- வெளி எரி பொறி
+- เครื่องยนต์สันดาปภายนอก
+- 外燃机
+- 外燃機
+- 外燃機関
+- 외연기관
 ---
-
-
 # [[External_Combustion_Engine]] 
 
 External combustion (like Stirling engines) can potentially achieve higher theoretical efficiencies 

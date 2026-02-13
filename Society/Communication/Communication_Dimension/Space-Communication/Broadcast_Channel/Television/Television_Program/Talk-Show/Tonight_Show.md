@@ -1,18 +1,23 @@
 ---
-has_time_started: 1954-09-27 
+has_time_started: 1954-09-27
 aliases:
-  - The Tonight Show
-  - The_Tonight_Show
-  - Tonight_Show
-  - Tonight Show
+- The Tonight Show
+- The Tonight Show Starring Jimmy Fallon
+- The_Tonight_Show
+- Tonight Show
+- Tonight_Show
+- ذا تونايت شو
+- ザ・トゥナイト・ショー
+- 今夜秀
+- 더 투나잇 쇼
 has_id_wikidata: Q1338655
 presenter: '[[_Standards/WikiData/WD~Jimmy_Fallon,335680]]'
 genre: '[[_Standards/WikiData/WD~talk_show,622812]]'
 color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
 director: '[[_Standards/WikiData/WD~Dwight_Hemion,5318178]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~television_series,5398426]]'
-  - '[[_Standards/WikiData/WD~television_program,15416]]'
+- '[[_Standards/WikiData/WD~television_series,5398426]]'
+- '[[_Standards/WikiData/WD~television_program,15416]]'
 list_of_episodes: '[[_Standards/WikiData/WD~list_of_The_Tonight_Show_episodes,22908196]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~American_English,7976]]'
@@ -25,8 +30,45 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Bush%20on%20Th
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tonight%20Show%20Starring%20Jimmy%20Fallon.svg
 official_website: http://www.nbc.com/the-tonight-show
 Commons_category: The Tonight Show
+dv_has_:
+  name_:
+    ar: ذا تونايت شو
+    ast: The Tonight Show
+    be-tarask: The Tonight Show
+    ca: The Tonight Show
+    cs: The Tonight Show
+    da: The Tonight Show
+    de: The Tonight Show
+    el: The Tonight Show
+    en: The Tonight Show
+    es: The Tonight Show Starring Jimmy Fallon
+    eu: The Tonight Show
+    fi: The Tonight Show
+    fr: The Tonight Show
+    ga: The Tonight Show
+    he: The Tonight Show
+    hu: The Tonight Show
+    hy: The Tonight Show
+    id: The Tonight Show
+    it: The Tonight Show
+    ja: ザ・トゥナイト・ショー
+    jv: The Tonight Show
+    ko: 더 투나잇 쇼
+    lt: Tonight Show
+    nb: The Tonight Show
+    nl: The Tonight Show
+    pl: The Tonight Show
+    pt: The Tonight Show
+    ru: The Tonight Show
+    sh: The Tonight Show
+    sk: The Tonight Show
+    sr: The Tonight Show
+    sv: The Tonight Show
+    tl: The Tonight Show
+    tr: The Tonight Show
+    uk: The Tonight Show
+    zh: 今夜秀
 ---
-
 # [[Tonight_Show]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~The_Tonight_Show,1338655|WD~The_Tonight_Show,1338655]]  

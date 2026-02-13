@@ -1,9 +1,39 @@
 ---
 has_id_wikidata: Q790060
+dv_has_:
+  name_:
+    ar: Broadcom
+    ca: Broadcom
+    da: Broadcom
+    de: Avago Technologies
+    en: Broadcom
+    es: Broadcom
+    et: Broadcom
+    fa: Broadcom
+    fr: Avago Technologies
+    ga: Broadcom
+    gl: Broadcom
+    hu: Broadcom
+    id: Avago Technologies
+    it: Avago Technologies
+    ja: Broadcom
+    ko: Broadcom
+    lv: Broadcom
+    ms: Broadcom
+    nl: Broadcom
+    pt: Broadcom
+    qu: Broadcom
+    ru: Broadcom
+    sl: Avago Technologies
+    sv: Broadcom
+    tr: Broadcom
+    uk: Broadcom
+    uz: Broadcom
+    zh: Broadcom
+aliases:
+- Avago Technologies
+- Broadcom
 ---
-
-
-
 #is_/similar_to :: [[Nvidia]] 
 
 

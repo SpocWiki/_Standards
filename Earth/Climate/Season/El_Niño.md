@@ -1,45 +1,206 @@
 ---
 aliases:
-  - El Niño–Southern Oscillation
-  - El Niño
-  - El Nino
-  - El_Niño
+- el niniyu
+- El Ninjo
+- El Nino
+- El Ninyo
+- El Niño
+- El Niño–Osilasi Selatan
+- El Niño–Southern Oscillation
+- El-Ninjo
+- El-Ninyo
+- El_Niño
+- ENSO
+- Ελ Νίνιο
+- Ел Нињо
+- Ел Ниньо
+- Ель-Ніньйо
+- Эль Ніньнё
+- Эль Нино
+- Эль-Ніньё
+- Эль-Ниньё
+- Эль-Ниньо
+- אל ניניו
+- על ניניא
+- إل نينيو
+- ئێل نینیۆ
+- ال نینو
+- النینیو
+- एल निन्यो
+- एल नीनो
+- एल-नीनो
+- এল নিনো
+- ਅਲ ਨੀਨੋ
+- எல் நீனோ-தெற்கத்திய அலைவு
+- ఎల్నినొ
+- ಎಲ್ ನಿನ್ಯೊ
+- എൽ നിനോ
+- එල් නිනෝ
+- เอลนีโญ
+- အယ်လ်နီညို
+- ელ-ნინიო
+- エルニーニョ現象
+- 厄尔尼诺-南方涛动现象
+- 厄尔尼诺现象
+- 厄爾尼諾-南方振盪現象
+- 厄爾尼諾南方擺動現象
+- 聖嬰-南方振盪現象
+- 聖嬰現象
+- 엘니뇨
 has_id_wikidata: Q7939
-opposite_of: "[[_Standards/WikiData/WD~La_Niña,642867]]"
+opposite_of: '[[_Standards/WikiData/WD~La_Niña,642867]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]"
-  - "[[_Standards/WikiData/WD~El_Niño_Current,19949840]]"
-different_from: "[[_Standards/WikiData/WD~El_Niño,3050124]]"
-part_of: "[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-subclass_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
-OmegaWiki_Defined_Meaning: "671675"
+- '[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]'
+- '[[_Standards/WikiData/WD~El_Niño_Current,19949840]]'
+different_from: '[[_Standards/WikiData/WD~El_Niño,3050124]]'
+part_of: '[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+subclass_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+OmegaWiki_Defined_Meaning: 671675
 Commons_category: El Niño
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video%20%28Spanish%29.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video%20%28Spanish%29.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3%B1o.svg
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]"
-    - "[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]"
-    - "[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]"
-    - "[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]"
-    - "[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]"
-    - "[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]"
-    - "[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]"
-    - "[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]"
+  - '[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]'
+  - '[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]'
+  - '[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]'
+  - '[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]'
+  - '[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]'
+  - '[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]'
+  - '[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]'
+  - '[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]"
-  - "[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]"
-  - "[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]"
-  - "[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]"
-  - "[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]"
-  - "[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]"
-  - "[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]"
-  - "[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]"
+- '[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]'
+- '[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]'
+- '[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]'
+- '[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]'
+- '[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]'
+- '[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]'
+- '[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]'
+- '[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]'
+dv_has_:
+  name_:
+    af: El Niño
+    an: El Niño
+    anp: एल-नीनो
+    ar: إل نينيو
+    ary: إل نينيو
+    ast: El Niño
+    az: El-Ninyo
+    azb: ال نینو
+    ba: Эль-Ниньо
+    bar: El Niño
+    bcl: El Niño
+    be: Эль-Ніньё
+    be-tarask: Эль Ніньнё
+    bg: Ел Ниньо
+    bn: এল নিনো
+    br: El Niño
+    bs: El Niño
+    ca: El Niño
+    ce: Эль-Ниньо
+    ckb: ئێل نینیۆ
+    crh: El Niño
+    cs: El Niño
+    cy: El Niño
+    da: El Niño
+    de: El Niño
+    el: Ελ Νίνιο
+    en: El Niño
+    eo: El-Ninjo
+    es: El Niño
+    et: El Niño
+    eu: El niño
+    fa: النینیو
+    fi: El Niño
+    fr: El Niño
+    frr: El Niño
+    fy: El Niño
+    ga: El Niño
+    gl: El Niño
+    gn: El Niño
+    gsw: El Niño
+    he: אל ניניו
+    hi: एल नीनो
+    hif: ENSO
+    hr: El Niño
+    ht: El Niño
+    hu: El Niño
+    id: El Niño–Osilasi Selatan
+    ig: El Niño
+    io: El-Ninyo
+    is: El Niño
+    it: El Niño
+    ja: エルニーニョ現象
+    ka: ელ-ნინიო
+    kbp: El Niño
+    kk: Эль-Ниньо
+    kn: ಎಲ್ ನಿನ್ಯೊ
+    ko: 엘니뇨
+    krc: Эль-Ниньо
+    la: El Niño
+    li: El Niño
+    lmo: El Niño
+    lt: El Ninjo
+    lv: El Ninjo
+    mg: El Niño
+    mk: Ел Нињо
+    ml: എൽ നിനോ
+    mn: Эль Нино
+    mr: एल निन्यो
+    ms: El Nino
+    my: အယ်လ်နီညို
+    nan: El Niño
+    nb: El Niño
+    nds: El Niño
+    nl: El Niño
+    nn: El Niño
+    oc: El Niño
+    pa: ਅਲ ਨੀਨੋ
+    pag: El Niño
+    pl: El Niño
+    pms: El Niño
+    pnb: ال نینو
+    pt: El Niño
+    pwn: el niniyu
+    qu: El Niño
+    ro: El Niño
+    ru: Эль-Ниньо
+    sco: El Niño
+    sgs: El Ninjo
+    sh: El Niño
+    si: එල් නිනෝ
+    sk: El Niño
+    sl: el niño
+    sq: El Ninjo
+    sr: El Ninjo
+    sv: El Niño
+    sw: El Ninyo
+    ta: எல் நீனோ-தெற்கத்திய அலைவு
+    te: ఎల్నినొ
+    th: เอลนีโญ
+    tl: El Niño
+    tr: El Niño
+    udm: Эль-Ниньё
+    uk: Ель-Ніньйо
+    ur: ال نینو
+    vi: El Niño
+    vro: El Niño
+    war: El Niño
+    wuu: 厄尔尼诺现象
+    yi: על ניניא
+    yue: 厄爾尼諾南方擺動現象
+    zh: 聖嬰現象
+    zh-cn: 厄尔尼诺现象
+    zh-hans: 厄尔尼诺-南方涛动现象
+    zh-hant: 聖嬰-南方振盪現象
+    zh-hk: 厄爾尼諾-南方振盪現象
+    zh-tw: 聖嬰-南方振盪現象
 ---
 # [[El_Niño]] 
 

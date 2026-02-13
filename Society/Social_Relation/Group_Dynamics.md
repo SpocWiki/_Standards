@@ -1,8 +1,47 @@
 ---
 aliases:
-  - Gruppendynamik
-  - Group_Dynamics
-  - Group Dynamics
+- csoportdinamika
+- Dinamika kelompok
+- dinàmica de grup
+- dinámica de grupo
+- dinâmica de grupo
+- dynamique de groupe
+- groepsdynamiek
+- Group Dynamics
+- Group_Dynamics
+- Grup dinamiği
+- grupdinamiko
+- grupi i dinamikave
+- grupidünaamika
+- Grupna dinamika
+- gruppedynamik
+- gruppedynamikk
+- Gruppendynamik
+- Grupprocess
+- grupės dinamika
+- Guruh dinamikasi
+- Kurta lewina skola
+- psicologia dei gruppi
+- ryhmädynamiikka
+- Skupinová dynamika
+- skupinska dinamika
+- Talde-dinamika
+- δυναμική των ομάδων
+- групна динамика
+- групова динаміка
+- групповая динамика
+- Խմբի դինամիկա
+- דינמיקה קבוצתית
+- جۆشی گرووپ
+- قوة محركة للجماعة
+- پویایی گروه
+- समूह गतिकी
+- พลวัตกลุ่ม
+- 群体动力学
+- 群体行为
+- 群體動力學
+- 集団力学
+- 집단역학
 has_id_wikidata: Q839578
 subclass_of: '[[_Standards/WikiData/WD~social_interaction,609298]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32540086,32540086]]'
@@ -12,8 +51,57 @@ Basisklassifikation: 77.64
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moreno%20Sociogram%201st%20Grade.png
 MeSH_tree_code: F01.829.316.223
 APA_Dictionary_of_Psychology_entry: group-dynamics
+dv_has_:
+  name_:
+    ar: قوة محركة للجماعة
+    ca: dinàmica de grup
+    ckb: جۆشی گرووپ
+    cs: Skupinová dynamika
+    da: gruppedynamik
+    de: Gruppendynamik
+    el: δυναμική των ομάδων
+    en: group dynamics
+    eo: grupdinamiko
+    es: dinámica de grupo
+    et: grupidünaamika
+    eu: Talde-dinamika
+    fa: پویایی گروه
+    fi: ryhmädynamiikka
+    fr: dynamique de groupe
+    gl: dinámica de grupo
+    he: דינמיקה קבוצתית
+    hi: समूह गतिकी
+    hu: csoportdinamika
+    hy: Խմբի դինամիկա
+    id: Dinamika kelompok
+    it: psicologia dei gruppi
+    ja: 集団力学
+    ko: 집단역학
+    lt: grupės dinamika
+    lv: Kurta lewina skola
+    nb: gruppedynamikk
+    nl: groepsdynamiek
+    nn: gruppedynamikk
+    pt: dinâmica de grupo
+    ru: групповая динамика
+    sk: Skupinová dynamika
+    sl: skupinska dinamika
+    sq: grupi i dinamikave
+    sr: групна динамика
+    sr-ec: Групна динамика
+    sr-el: Grupna dinamika
+    sv: Grupprocess
+    th: พลวัตกลุ่ม
+    tr: Grup dinamiği
+    uk: групова динаміка
+    uz: Guruh dinamikasi
+    yue: 群體動力學
+    zh: 群体动力学
+    zh-cn: 群体行为
+    zh-hans: 群体动力学
+    zh-hant: 群體動力學
+    zh-hk: 群體動力學
 ---
-
 # [[Group_Dynamics]] 
 
 #is_/same_as :: [[../../WikiData/WD~group_dynamics,839578|WD~group_dynamics,839578]]  

@@ -1,12 +1,79 @@
 ---
-aliases: 
+aliases:
+- berechenbare Funktion
+- berekenbare functie
+- computable function
+- fonction calculable
+- Funció computable
+- Función computable
+- Función computábel
+- funcție calculabilă
+- funkcja obliczalna
+- Funtzio konputagarri
+- funzione calcolabile
+- função computável
+- Hesaplanabilir fonksiyon
+- Hàm tính toán được
+- Komputebla funciono
+- komputebla funkcio
+- vyčíslitelná funkce
+- Υπολογίσιμη συνάρτηση
+- вылічальная функцыя
+- вычислимая функция
+- Израчунљива функција
+- обчислювана функція
+- פונקציה בת-חישוב
+- دالة حسوبة
+- গণনাযোগ্য ফাংশন
+- 可計算函數
+- 可计算函数
+- 可運算函數
+- 計算可能関数
+- 계산 가능한 함수
 has_id_wikidata: Q1148456
-studied_by: "[[_Standards/WikiData/WD~computability_theory,818930]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-opposite_of: "[[_Standards/WikiData/WD~Non_computable_function,127841039]]"
-subclass_of: "[[_Standards/WikiData/WD~function,11348]]"
+studied_by: '[[_Standards/WikiData/WD~computability_theory,818930]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~Non_computable_function,127841039]]'
+subclass_of: '[[_Standards/WikiData/WD~function,11348]]'
+dv_has_:
+  name_:
+    ar: دالة حسوبة
+    ast: Función computable
+    be-tarask: вылічальная функцыя
+    bn: গণনাযোগ্য ফাংশন
+    ca: Funció computable
+    cs: vyčíslitelná funkce
+    de: berechenbare Funktion
+    el: Υπολογίσιμη συνάρτηση
+    en: computable function
+    en-ca: Computable function
+    en-gb: computable function
+    eo: komputebla funkcio
+    es: función computable
+    eu: Funtzio konputagarri
+    fr: fonction calculable
+    gl: Función computábel
+    he: פונקציה בת-חישוב
+    io: Komputebla funciono
+    it: funzione calcolabile
+    ja: 計算可能関数
+    ko: 계산 가능한 함수
+    nl: berekenbare functie
+    pl: funkcja obliczalna
+    pt: função computável
+    pt-br: função computável
+    ro: funcție calculabilă
+    ru: вычислимая функция
+    sr: Израчунљива функција
+    tr: Hesaplanabilir fonksiyon
+    uk: обчислювана функція
+    vi: Hàm tính toán được
+    yue: 可運算函數
+    zh: 可计算函数
+    zh-hans: 可计算函数
+    zh-hant: 可計算函數
+    zh-hk: 可計算函數
 ---
-
 # [[Computable_Function]] 
 
 #is_/same_as :: [[../../WikiData/WD~Computable_function,1148456|WD~Computable_function,1148456]] 

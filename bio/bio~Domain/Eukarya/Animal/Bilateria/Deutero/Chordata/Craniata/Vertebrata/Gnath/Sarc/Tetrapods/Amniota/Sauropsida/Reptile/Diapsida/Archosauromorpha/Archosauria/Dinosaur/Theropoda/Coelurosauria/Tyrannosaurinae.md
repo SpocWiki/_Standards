@@ -1,13 +1,57 @@
 ---
 aliases:
+- Tyrannosaurinae
+- Τυραννοσαυρίνες
+- Тираннозаврины
+- Тиранозаврини
+- тыраназаўрыны
+- تيرانوصورونيات
+- ティラノサウルス亜科
+- 暴龍亞科
+- 暴龙亚科
+- 티라노사우루스아과
 has_id_wikidata: Q2073980
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 Commons_category: Tyrannosaurinae
 taxon_name: Tyrannosaurinae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tyranosaurus%20Rex%2028-12-2007%2015-01-16.jpg
+dv_has_:
+  name_:
+    ar: تيرانوصورونيات
+    ast: Tyrannosaurinae
+    be-tarask: тыраназаўрыны
+    bg: Tyrannosaurinae
+    ceb: Tyrannosaurinae
+    cs: Tyrannosaurinae
+    de: Tyrannosaurinae
+    el: Τυραννοσαυρίνες
+    en: Tyrannosaurinae
+    es: Tyrannosaurinae
+    fi: Tyrannosaurinae
+    fr: Tyrannosaurinae
+    ga: Tyrannosaurinae
+    ia: Tyrannosaurinae
+    it: Tyrannosaurinae
+    ja: ティラノサウルス亜科
+    ko: 티라노사우루스아과
+    la: Tyrannosaurinae
+    mul: Tyrannosaurinae
+    nl: Tyrannosaurinae
+    pl: Tyrannosaurinae
+    pt: Tyrannosaurinae
+    ro: Tyrannosaurinae
+    ru: Тираннозаврины
+    sq: Tyrannosaurinae
+    uk: Тиранозаврини
+    vec: Tyrannosaurinae
+    vi: Tyrannosaurinae
+    war: Tyrannosaurinae
+    zh: 暴龙亚科
+    zh-cn: 暴龙亚科
+    zh-hans: 暴龙亚科
+    zh-tw: 暴龍亞科
 ---
-
 # [[Tyrannosaurinae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]] 

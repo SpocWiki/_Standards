@@ -1,50 +1,218 @@
 ---
 aliases:
+- baskagan
+- fylki
+- hâng-lia̍t
+- ma trận
+- maatriks
+- macierz
+- maitrís
+- matica
+- matice
+- matrica
+- matrice
+- matrici
+- matrico
+- Matrico (matematiko)
+- matrics
+- matriis
+- matriisa
+- matriisi
+- matrika
+- matriks
+- matris
+- matrise
+- matriu
+- matrix
+- matriz
+- matrize
+- mátrix
+- poukapa
+- Tareentaa (Maatiriksii)
+- taxane
+- πίνακας
+- матрица
+- матрице
+- матриця
+- матрыца
+- մատրից
+- מטריצה
+- ماتريس
+- ماتریس
+- ماتریکس
+- ماٹرکس
+- مصفوفة
+- میٹرکس
+- आव्यूह
+- मेट्रिक्स
+- व्यूह
+- মৌলকক্ষ
+- ম্যাট্রিক্স
+- ਮਾਤਰੀਕਸ
+- ମ୍ୟାଟ୍ରିକ୍ସ
+- அணி
+- ಮಾತೃಕೆಗಳು
+- മാട്രിക്സ്
+- න්යාස
+- เมทริกซ์
+- ມາຕຣິກ
+- မက်ထရစ်စနစ်
+- მატრიცა
+- ማትሪክስ
+- 矩阵
+- 矩陣
+- 行列
+- 행렬
 has_id_wikidata: Q44337
 studied_by:
-  - "[[_Standards/WikiData/WD~linear_algebra,82571]]"
-  - "[[_Standards/WikiData/WD~matrix_theory,2256206]]"
-facet_of: "[[_Standards/WikiData/WD~linear_algebra,82571]]"
+- '[[_Standards/WikiData/WD~linear_algebra,82571]]'
+- '[[_Standards/WikiData/WD~matrix_theory,2256206]]'
+facet_of: '[[_Standards/WikiData/WD~linear_algebra,82571]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~array_data_structure,186152]]"
-  - "[[_Standards/WikiData/WD~tensor,188524]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~linear_map,207643]]"
-different_from: "[[_Standards/WikiData/WD~table,496946]]"
-has_characteristic: "[[_Standards/WikiData/WD~rank,656784]]"
+- '[[_Standards/WikiData/WD~array_data_structure,186152]]'
+- '[[_Standards/WikiData/WD~tensor,188524]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~linear_map,207643]]'
+different_from: '[[_Standards/WikiData/WD~table,496946]]'
+has_characteristic: '[[_Standards/WikiData/WD~rank,656784]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Matrix_classes,20371767]]"
-has_part_s_: "[[_Standards/WikiData/WD~matrix_element,58215060]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Matrix_classes,20371767]]'
+has_part_s_: '[[_Standards/WikiData/WD~matrix_element,58215060]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrica.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrica%20hr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrice.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matris%20sv.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix-sr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20-%20it.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20bg.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20cs.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20fa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20german.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20zh-hans.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20zh-hant.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Matriz%20organizacao.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrica.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrica%20hr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrice.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matris%20sv.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix-sr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20-%20it.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20bg.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20cs.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20fa.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20german.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20zh-hans.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matrix%20zh-hant.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Matriz%20organizacao.png
 Stack_Exchange_tag:
-  - https://cstheory.stackexchange.com/tags/matrices
-  - https://math.stackexchange.com/tags/matrices
-  - https://mathematica.stackexchange.com/tags/matrix
-  - https://mathoverflow.net/tags/matrices
-  - https://stackoverflow.com/tags/matrix
-  - https://tex.stackexchange.com/tags/matrices
+- https://cstheory.stackexchange.com/tags/matrices
+- https://math.stackexchange.com/tags/matrices
+- https://mathematica.stackexchange.com/tags/matrix
+- https://mathoverflow.net/tags/matrices
+- https://stackoverflow.com/tags/matrix
+- https://tex.stackexchange.com/tags/matrices
 IEV_number: 102-06-01
 Commons_category: Matrices
+dv_has_:
+  name_:
+    af: matriks
+    am: ማትሪክስ
+    ar: مصفوفة
+    ary: ماتريس
+    as: মৌলকক্ষ
+    az: matris
+    be: матрыца
+    be-tarask: матрыца
+    bg: матрица
+    bn: ম্যাট্রিক্স
+    bs: matrica
+    ca: matriu
+    ckb: ماتریکس
+    cs: matice
+    cv: матрица
+    cy: matrics
+    da: matrix
+    de: Matrix
+    el: πίνακας
+    en: matrix
+    en-ca: matrix
+    en-gb: matrix
+    eo: matrico
+    es: matriz
+    et: maatriks
+    eu: matrize
+    fa: ماتریس
+    fi: matriisi
+    fr: matrice
+    frr: maatriks
+    ga: maitrís
+    gan: 行列
+    gcr: matris
+    gl: matriz
+    he: מטריצה
+    hi: व्यूह
+    hr: matrica
+    hu: mátrix
+    hy: մատրից
+    ia: matrice
+    id: matriks
+    io: Matrico (matematiko)
+    is: fylki
+    it: matrice
+    ja: 行列
+    ka: მატრიცა
+    kk: матрица
+    kn: ಮಾತೃಕೆಗಳು
+    ko: 행렬
+    la: matrix
+    lmo: matris
+    lo: ມາຕຣິກ
+    lt: matrica
+    lv: matrica
+    lzh: 矩陣
+    mag: आव्यूह
+    mhr: матрице
+    mi: poukapa
+    mk: матрица
+    ml: മാട്രിക്സ്
+    ms: matriks
+    my: မက်ထရစ်စနစ်
+    nan: hâng-lia̍t
+    nb: matrise
+    ne: मेट्रिक्स
+    nl: matrix
+    nn: matrise
+    om: Tareentaa (Maatiriksii)
+    or: ମ୍ୟାଟ୍ରିକ୍ସ
+    pa: ਮਾਤਰੀਕਸ
+    pl: macierz
+    pms: matris
+    pnb: ماٹرکس
+    pt: matriz
+    pt-br: matriz
+    ro: matrice
+    ru: матрица
+    sah: матрица
+    scn: matrici
+    sco: matrix
+    se: matriisa
+    sh: matrica
+    si: න්යාස
+    sk: matica
+    sl: matrika
+    sms: matriis
+    so: taxane
+    sq: matrica
+    sr: матрица
+    sr-ec: матрица
+    sv: matris
+    ta: அணி
+    th: เมทริกซ์
+    tl: baskagan
+    tr: matris
+    uk: матриця
+    ur: میٹرکس
+    uz: matrice
+    vi: ma trận
+    wuu: 矩阵
+    yue: 矩陣
+    zh: 矩阵
+    zh-hans: 矩阵
+    zh-hant: 矩陣
 ---
-
 # [[Matrix]] 
 
 #is_/same_as :: [[WD~Matrix,44337]] 

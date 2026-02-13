@@ -1,8 +1,117 @@
 ---
 aliases:
-  - Theropoda
+- khủng long chân thú
+- Plėšrieji dinozaurai
+- Teropodi
+- teropodit
+- Teropodlar
+- Teropodoj
+- teropody
+- Teropódy
+- Teròpode
+- Terópoda
+- Terópodos
+- Theropod
+- Theropoda
+- theropodar
+- Theropoder
+- Waerapî
+- Θηριόποδα
+- ѕвероноги
+- Тheropoda
+- тероподи
+- Тероподсем
+- Тероподууд
+- тероподы
+- תרופודה
+- تروپودها
+- وحشيات الأرجل
+- وحشيات الارجل
+- থেরোপোডা
+- തെറാപ്പോഡ
+- เทโรพอด
+- თეროპოდები
+- 兽脚亚目
+- 獣脚類
+- 獸腳亞目
+- 수각아목
 title: Theropoda
 has_id_wikidata: Q188438
+dv_has_:
+  name_:
+    af: Theropoda
+    ar: وحشيات الأرجل
+    arz: وحشيات الارجل
+    ast: Theropoda
+    az: Teropodlar
+    bg: тероподи
+    bn: থেরোপোডা
+    br: Theropoda
+    ca: Teròpode
+    ceb: Theropoda
+    cs: Teropodi
+    cv: Тероподсем
+    da: Theropoder
+    de: Theropoda
+    el: Θηριόποδα
+    en: Тheropoda
+    eo: Teropodoj
+    es: Theropoda
+    eu: Theropoda
+    fa: تروپودها
+    fi: teropodit
+    fr: Theropoda
+    ga: Theropoda
+    gl: Terópodos
+    he: תרופודה
+    hr: Teropodi
+    hu: Theropoda
+    ia: Theropoda
+    id: Theropoda
+    it: Theropoda
+    ja: 獣脚類
+    ka: თეროპოდები
+    ko: 수각아목
+    la: Theropoda
+    lt: Plėšrieji dinozaurai
+    mk: ѕвероноги
+    ml: തെറാപ്പോഡ
+    mn: Тероподууд
+    ms: Theropod
+    mul: Theropoda
+    nb: Theropoder
+    nl: Theropoda
+    nn: theropodar
+    oc: Theropoda
+    or: Theropod
+    pl: teropody
+    pt: Terópoda
+    ro: Theropod
+    ru: тероподы
+    sco: Theropoda
+    sh: Teropodi
+    sk: Teropódy
+    sl: Theropoda
+    sq: Theropoda
+    sr: Theropoda
+    sv: Theropoder
+    th: เทโรพอด
+    tl: Theropoda
+    tr: Theropoda
+    uk: тероподи
+    uz: Teropodlar
+    vi: khủng long chân thú
+    vo: Theropoda
+    wa: Waerapî
+    war: Theropoda
+    yue: 獸腳亞目
+    zh: 獸腳亞目
+    zh-cn: 兽脚亚目
+    zh-hans: 兽脚亚目
+    zh-hant: 獸腳亞目
+    zh-hk: 獸腳亞目
+    zh-sg: 兽脚亚目
+    zh-tw: 獸腳亞目
 ---
 # [[Theropoda]] 
 

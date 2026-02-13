@@ -1,8 +1,67 @@
 ---
 aliases:
-  - Florideophyceae
+- Florideoficoj
+- Florideofíceas
+- Florideophyceae
+- флоридеевые водоросли
+- флоридови водорасли
+- زهراويات
+- 真正紅藻綱
+- 紅藻綱
+- 红藻纲
+- 진정홍조강
 title: Florideophyceae
 has_id_wikidata: Q1002125
+dv_has_:
+  name_:
+    an: Florideophyceae
+    ar: زهراويات
+    arz: زهراويات
+    ast: Florideophyceae
+    bg: флоридови водорасли
+    ca: Florideophyceae
+    ceb: Florideophyceae
+    cs: Florideophyceae
+    de: Florideophyceae
+    en: Florideophyceae
+    eo: Florideoficoj
+    es: Florideophyceae
+    eu: Florideophyceae
+    ext: Florideophyceae
+    fi: Florideophyceae
+    fr: Florideophyceae
+    ga: Florideophyceae
+    gl: Florideofíceas
+    hr: Florideophyceae
+    hu: Florideophyceae
+    ia: Florideophyceae
+    ie: Florideophyceae
+    io: Florideophyceae
+    it: Florideophyceae
+    ja: 真正紅藻綱
+    ko: 진정홍조강
+    la: Florideophyceae
+    mul: Florideophyceae
+    nl: Florideophyceae
+    oc: Florideophyceae
+    pl: Florideophyceae
+    pt: Florideophyceae
+    pt-br: Florideophyceae
+    ro: Florideophyceae
+    ru: флоридеевые водоросли
+    sl: Florideophyceae
+    sq: Florideophyceae
+    sr: Florideophyceae
+    sv: Florideophyceae
+    tr: Florideophyceae
+    uk: Florideophyceae
+    vi: Florideophyceae
+    vo: Florideophyceae
+    war: Florideophyceae
+    zh: 红藻纲
+    zh-cn: 红藻纲
+    zh-hans: 红藻纲
+    zh-tw: 紅藻綱
 ---
 # [[Florideophyceae]] 
 

@@ -1,18 +1,132 @@
 ---
 aliases:
-  - Academic_Art
-  - Academic Art
+- Academic Art
+- academicisme
+- academicismo
+- Academicismu
+- Academic_Art
+- academische kunst
+- academism
+- académisme
+- Akadeemiline kunst
+- Akademische Kunst
+- Akademisk konst
+- Akademisk kunst
+- Akademismo
+- akademismus
+- Akademismus af Neoklassizismus
+- Akademizam
+- Akademizismo
+- akademizm
+- Akademizmas
+- Akademizmus
+- akademska umetnost
+- akadémizmus
+- akadēmiskā māksla
+- Akateeminen taide
+- art pompier
+- Arz akademiek
+- chủ nghĩa học viện
+- Seni akademik
+- ακαδημαϊσμός
+- академізм
+- академизам
+- академизм
+- Академично рисуване
+- акадэмізм
+- ակադեմիզմ
+- האומנות האקדמית
+- فن أكاديمي
+- فن اكاديمى
+- هنر آکادمیک
+- ھونەری ئەکادیمیک
+- पाश्चात्य शैक्षिक कला
+- শিক্ষায়তনিক শিল্পকর্ম
+- ศิลปะตามหลักวิชา
+- アカデミック美術
+- 學院派
+- 學院藝術
+- 아카데믹 미술
 has_id_wikidata: Q189458
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~L'art_pompier,3268288]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20The%20Birth%20of%20Venus%20-%20Google%20Art%20Project%202.jpg
 Commons_gallery: Academic art
 Commons_category: Academic art
+dv_has_:
+  name_:
+    ar: فن أكاديمي
+    arz: فن اكاديمى
+    ast: Academicismu
+    az: akademizm
+    be: акадэмізм
+    be-tarask: акадэмізм
+    bg: Академично рисуване
+    bn: শিক্ষায়তনিক শিল্পকর্ম
+    br: Arz akademiek
+    bxr: Академизм
+    ca: academicisme
+    ckb: ھونەری ئەکادیمیک
+    cs: akademismus
+    cv: Академизм
+    da: Akademisk kunst
+    de: Akademische Kunst
+    de-ch: Akademische Kunst
+    el: ακαδημαϊσμός
+    en: academic art
+    en-ca: Academic art
+    en-gb: academic art
+    eo: Akademismo
+    es: academicismo
+    et: Akadeemiline kunst
+    eu: Akademizismo
+    fa: هنر آکادمیک
+    fi: Akateeminen taide
+    fr: académisme
+    gl: Academicismo
+    he: האומנות האקדמית
+    hr: Akademizam
+    hu: akadémizmus
+    hy: ակադեմիզմ
+    id: Seni akademik
+    it: art pompier
+    ja: アカデミック美術
+    kk: Академизм
+    ko: 아카데믹 미술
+    ky: Академизм
+    lt: Akademizmas
+    lv: akadēmiskā māksla
+    mk: академизам
+    nb: akademisk kunst
+    new: पाश्चात्य शैक्षिक कला
+    nl: academische kunst
+    nn: akademisk kunst
+    pl: Akademizm
+    pt: academicismo
+    pt-br: Academicismo
+    ro: academism
+    ru: академизм
+    sh: Akademizam
+    sk: Akademizmus
+    sl: akademska umetnost
+    sr: академизам
+    sr-ec: академизам
+    sr-el: akademizam
+    stq: Akademismus af Neoklassizismus
+    sv: Akademisk konst
+    tg: Академизм
+    th: ศิลปะตามหลักวิชา
+    tr: Akademizm
+    tt: академизм
+    uk: академізм
+    uz: Akademizm
+    vi: chủ nghĩa học viện
+    yue: 學院派
+    zh: 學院藝術
 ---
-
 # [[Academic_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Academic_art,189458]] 

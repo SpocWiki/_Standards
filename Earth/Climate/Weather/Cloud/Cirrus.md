@@ -1,19 +1,65 @@
 ---
 aliases:
-  - Zirrus
-  - Cirrus
+- Amayezi
+- Awan sirus
+- ciorras
+- Cirr
+- cirro
+- Cirru
+- Cirrus
+- Cirruswolke
+- Cirus
+- Ciruset
+- ciruso
+- fjersky
+- Gait's hair
+- iorangi
+- khiû-hûn
+- Kiudpilved
+- Klósigar
+- Mây ti
+- Plunksniniai debesys
+- sirüs
+- Spalvmākoņi
+- untuvapilvi
+- Wingu vundevunde
+- Zirru
+- Zirrus
+- Θύσανοι
+- Перести облаци
+- Перисті хмари
+- Перистые облака
+- перкаваты воблак
+- Перыстыя воблакі
+- Циррус үүл
+- Цирус
+- Шарбы бұлттар
+- Փետրավոր ամպեր
+- צירוס
+- ابر سیروس
+- سمحاق
+- तंतुमेघ
+- पक्षाभ मेघ
+- অলক-স্তুপ
+- කෙඳි වලාකුළු
+- เซอร์รัส
+- 卷云
+- 卷雲
+- 巻雲
+- 捲雲
+- 권운
 has_id_wikidata: Q185638
-different_from: "[[_Standards/WikiData/WD~Cirrus,343317]]"
+different_from: '[[_Standards/WikiData/WD~Cirrus,343317]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cirrus_uncinus,1124042]]"
-  - "[[_Standards/WikiData/WD~cirrus_fibratus,1410752]]"
-  - "[[_Standards/WikiData/WD~cirrus_spissatus,2742837]]"
-  - "[[_Standards/WikiData/WD~cirrus_radiatus,3744280]]"
-instance_of: "[[_Standards/WikiData/WD~cloud_type,1840368]]"
-subclass_of: "[[_Standards/WikiData/WD~high_level_cloud,2641011]]"
-facet_of: "[[_Standards/WikiData/WD~international_cloud_classification,3281195]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~cirrus_uncinus,1124042]]'
+- '[[_Standards/WikiData/WD~cirrus_fibratus,1410752]]'
+- '[[_Standards/WikiData/WD~cirrus_spissatus,2742837]]'
+- '[[_Standards/WikiData/WD~cirrus_radiatus,3744280]]'
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~high_level_cloud,2641011]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 elevation_above_sea_level: 8000
 OmegaWiki_Defined_Meaning: 920983
 Commons_gallery: Cirrus
@@ -25,25 +71,105 @@ Commons_category: Cirrus clouds
 short_name: Ciquepasa
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Cirrus,185638|WD~Cirrus,185638]]"
-    - "[[/_Standards/Earth/Climate/Weather/Cloud/Cirrus|Cirrus]]"
-    - "[[/_public/Earth/Climate/Weather/Cloud/Cirrus.public|Cirrus.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal|Cirrus.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect|Cirrus.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Cloud/Cirrus.private|Cirrus.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal|Cirrus.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret|Cirrus.secret]]"
+  - '[[../../../../WikiData/WD~Cirrus,185638|WD~Cirrus,185638]]'
+  - '[[/_Standards/Earth/Climate/Weather/Cloud/Cirrus|Cirrus]]'
+  - '[[/_public/Earth/Climate/Weather/Cloud/Cirrus.public|Cirrus.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal|Cirrus.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect|Cirrus.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Cloud/Cirrus.private|Cirrus.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal|Cirrus.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret|Cirrus.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cirrus,185638|WD~Cirrus,185638]]"
-  - "[[/_Standards/Earth/Climate/Weather/Cloud/Cirrus|Cirrus]]"
-  - "[[/_public/Earth/Climate/Weather/Cloud/Cirrus.public|Cirrus.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal|Cirrus.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect|Cirrus.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Cloud/Cirrus.private|Cirrus.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal|Cirrus.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret|Cirrus.secret]]"
+- '[[../../../../WikiData/WD~Cirrus,185638|WD~Cirrus,185638]]'
+- '[[/_Standards/Earth/Climate/Weather/Cloud/Cirrus|Cirrus]]'
+- '[[/_public/Earth/Climate/Weather/Cloud/Cirrus.public|Cirrus.public]]'
+- '[[/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal|Cirrus.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect|Cirrus.protect]]'
+- '[[/_private/Earth/Climate/Weather/Cloud/Cirrus.private|Cirrus.private]]'
+- '[[/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal|Cirrus.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret|Cirrus.secret]]'
+dv_has_:
+  name_:
+    af: Cirruswolke
+    ar: سمحاق
+    be: Перыстыя воблакі
+    be-tarask: перкаваты воблак
+    bg: Перести облаци
+    bn: অলক-স্তুপ
+    ca: Cirrus
+    co: Cirru
+    cs: cirrus
+    csb: Cirrus
+    cy: Cirrus
+    da: fjersky
+    de: Cirrus
+    el: Θύσανοι
+    en: cirrus
+    eo: ciruso
+    es: cirro
+    et: Kiudpilved
+    eu: Zirru
+    fa: ابر سیروس
+    fi: untuvapilvi
+    fr: cirrus
+    ga: ciorras
+    gl: Cirrus
+    he: צירוס
+    hi: पक्षाभ मेघ
+    hr: Cirus
+    hu: cirrus
+    hy: Փետրավոր ամպեր
+    id: Awan sirus
+    is: Klósigar
+    it: cirrus
+    ja: 巻雲
+    kk: Шарбы бұлттар
+    ko: 권운
+    lmo: Cirro
+    lt: Plunksniniai debesys
+    lv: Spalvmākoņi
+    mi: iorangi
+    mk: Цирус
+    mn: Циррус үүл
+    mr: तंतुमेघ
+    ms: Awan sirus
+    nan: khiû-hûn
+    nap: Cirr
+    nb: cirrus
+    nl: cirrus
+    nn: cirrus
+    oc: Cirrus
+    pl: Cirrus
+    pt: cirro
+    ro: Cirrus
+    ru: Перистые облака
+    sco: Gait's hair
+    sh: Cirus
+    si: කෙඳි වලාකුළු
+    sk: Cirus
+    sl: cirus
+    sq: Ciruset
+    sr: цирус
+    sr-ec: цирус
+    sr-el: cirus
+    sv: cirrus
+    sw: Wingu vundevunde
+    th: เซอร์รัส
+    tr: sirüs
+    uk: Перисті хмари
+    vi: Mây ti
+    war: Cirrus
+    wuu: 卷云
+    yue: 卷雲
+    zh: 卷云
+    zh-cn: 卷云
+    zh-hans: 卷云
+    zh-hant: 捲雲
+    zh-hk: 捲雲
+    zh-sg: 卷云
+    zh-tw: 捲雲
+    zu: Amayezi
 ---
-
 # [[Cirrus]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cirrus,185638|WD~Cirrus,185638]] 

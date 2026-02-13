@@ -1,87 +1,131 @@
 ---
 aliases:
-  - Jules Verne
-  - Jules_Verne
-  - Jules Gabriel Verne
-  - Verne
-  - Verne,Jules
+- Iulius Verne
+- Jules Gabriel Verne
+- Jules Verne
+- Jules_Verne
+- Julio Verne
+- Juliusz Verne
+- Júlio Verne
+- Jül Vern
+- Verne
+- Verne,Jules
+- Žils Verns
+- Žiolės Verns
+- Ιούλιος Βερν
+- Верн Жюль Габриэль
+- Жил Верн
+- Жул Верн
+- Жуль Верн
+- Жуль Вэрн
+- Жюл Габриэл Верн
+- Жюль Верн
+- Жүл Верн
+- Ժիւլ Վեռն
+- Ժյուլ Վեռն
+- ז'ול ורן
+- جول فيرن
+- جول ڤيرن
+- جولس ورن
+- ژول ورن
+- ژول ڤێرن
+- ژىيۇل ۋېرن
+- یول ورن
+- जुल भर्न
+- जूल वेर्न
+- जूल्स वर्न
+- জুল ভার্ন
+- জুল ভাৰ্ন
+- ਯੂਲ ਵਰਨ
+- ழூல் வேர்ண்
+- జూల్స్ వెర్న్
+- ജൂൾസ് വേൺ
+- ฌูล แวร์น
+- ဂျို့စ် ဂေဗီယို ဗမ်းန်
+- ჟიულ ვერნი
+- ጁልስ ቨርን
+- ジュール・ヴェルヌ
+- 儒勒·凡尔纳
+- 儒勒·凡爾納
+- 凡爾納
+- 쥘 베른
 has_id_wikidata: Q33977
 influenced_by:
-  - '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
-  - '[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856]]'
-  - '[[_Standards/WikiData/WD~Victor_Hugo,535]]'
-  - '[[_Standards/WikiData/WD~George_Sand,3816]]'
-  - '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867]]'
-  - '[[_Standards/WikiData/WD~Daniel_Defoe,40946]]'
+- '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
+- '[[_Standards/WikiData/WD~James_Fenimore_Cooper,167856]]'
+- '[[_Standards/WikiData/WD~Victor_Hugo,535]]'
+- '[[_Standards/WikiData/WD~George_Sand,3816]]'
+- '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867]]'
+- '[[_Standards/WikiData/WD~Daniel_Defoe,40946]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Twenty_Thousand_Leagues_Under_the_Sea,183565]]'
-  - '[[_Standards/WikiData/WD~A_Journey_to_the_Center_of_the_Earth,219457]]'
-  - '[[_Standards/WikiData/WD~The_Mysterious_Island,471005]]'
-  - '[[_Standards/WikiData/WD~Q622634,622634]]'
-  - '[[_Standards/WikiData/WD~Michael_Strogoff,1121567]]'
-  - '[[_Standards/WikiData/WD~Around_the_World_in_Eighty_Days,1219561]]'
-  - '[[_Standards/WikiData/WD~From_the_Earth_to_the_Moon,53592]]'
+- '[[_Standards/WikiData/WD~Twenty_Thousand_Leagues_Under_the_Sea,183565]]'
+- '[[_Standards/WikiData/WD~A_Journey_to_the_Center_of_the_Earth,219457]]'
+- '[[_Standards/WikiData/WD~The_Mysterious_Island,471005]]'
+- '[[_Standards/WikiData/WD~Q622634,622634]]'
+- '[[_Standards/WikiData/WD~Michael_Strogoff,1121567]]'
+- '[[_Standards/WikiData/WD~Around_the_World_in_Eighty_Days,1219561]]'
+- '[[_Standards/WikiData/WD~From_the_Earth_to_the_Moon,53592]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-  - '[[_Standards/WikiData/WD~lycée_Georges_Clemenceau,3268696]]'
-  - '[[_Standards/WikiData/WD~lycée_Saint_Stanislas,3268936]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~lycée_Georges_Clemenceau,3268696]]'
+- '[[_Standards/WikiData/WD~lycée_Saint_Stanislas,3268936]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~futurist,846430]]'
-  - '[[_Standards/WikiData/WD~Esperantist,860918]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~futurist,846430]]'
+- '[[_Standards/WikiData/WD~Esperantist,860918]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Leksikon_Ofek_le_sifrut_yeladim,6588559]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Montyon_Prize,372160]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+- '[[_Standards/WikiData/WD~Montyon_Prize,372160]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
 child: '[[_Standards/WikiData/WD~Michel_Verne,580137]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
 genre:
-  - '[[_Standards/WikiData/WD~popular_science_literature,1129795]]'
-  - '[[_Standards/WikiData/WD~speculative_fiction,9326077]]'
-  - '[[_Standards/WikiData/WD~adventure_fiction,21802675]]'
-  - '[[_Standards/WikiData/WD~merveilleux_scientifique,67467614]]'
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~theatre_art,11635]]'
-  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~popular_science_literature,1129795]]'
+- '[[_Standards/WikiData/WD~speculative_fiction,9326077]]'
+- '[[_Standards/WikiData/WD~adventure_fiction,21802675]]'
+- '[[_Standards/WikiData/WD~merveilleux_scientifique,67467614]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~theatre_art,11635]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jules,1711638]]'
-  - '[[_Standards/WikiData/WD~Gabriel,4925914]]'
+- '[[_Standards/WikiData/WD~Jules,1711638]]'
+- '[[_Standards/WikiData/WD~Gabriel,4925914]]'
 sibling: '[[_Standards/WikiData/WD~Paul_Verne,1785509]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Société_de_Géographie,2297128]]'
-  - "[[_Standards/WikiData/WD~Académie_des_sciences,_des_lettres_et_des_arts_d'Amiens,2822392]]"
+- '[[_Standards/WikiData/WD~Société_de_Géographie,2297128]]'
+- "[[_Standards/WikiData/WD~Académie_des_sciences,_des_lettres_et_des_arts_d'Amiens,2822392]]"
 residence:
-  - '[[_Standards/WikiData/WD~Maison_de_Jules_Verne,2415168]]'
-  - '[[_Standards/WikiData/WD~Nantes,12191]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~Amiens,41604]]'
+- '[[_Standards/WikiData/WD~Maison_de_Jules_Verne,2415168]]'
+- '[[_Standards/WikiData/WD~Nantes,12191]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Amiens,41604]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Saint_Michel_II,3463011]]'
-  - '[[_Standards/WikiData/WD~Saint_Michel_I,21426769]]'
-  - '[[_Standards/WikiData/WD~Q51768241,51768241]]'
+- '[[_Standards/WikiData/WD~Saint_Michel_II,3463011]]'
+- '[[_Standards/WikiData/WD~Saint_Michel_I,21426769]]'
+- '[[_Standards/WikiData/WD~Q51768241,51768241]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 list_of_works: '[[_Standards/WikiData/WD~Jules_Verne_bibliography,4436315]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -105,8 +149,8 @@ field_of_work: '[[_Standards/WikiData/WD~drama,25372]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Esperanto,143]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Esperanto,143]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~French,150]]'
 place_of_death: '[[_Standards/WikiData/WD~Amiens,41604]]'
@@ -133,8 +177,154 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Julio
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Jules%20Verne%20%281828%E2%80%931905%29%202.jpg
 ISNI: 0000000121400562
 NLC_authorities: 000139711
+dv_has_:
+  name_:
+    af: Jules Verne
+    am: ጁልስ ቨርን
+    an: Jules Verne
+    ar: جول فيرن
+    ary: جول ڤيرن
+    arz: جول فيرن
+    as: জুল ভাৰ্ন
+    ast: Jules Verne
+    avk: Jules Verne
+    ay: Jules Verne
+    az: Jül Vern
+    azb: ژول ورن
+    ba: Жюль Верн
+    bcl: Jules Verne
+    be: Жуль Верн
+    be-tarask: Жуль Вэрн
+    bg: Жул Верн
+    bn: জুল ভার্ন
+    br: Jules Verne
+    bs: Jules Verne
+    ca: Jules Verne
+    ckb: ژول ڤێرن
+    cs: Jules Verne
+    cy: Jules Verne
+    da: Jules Verne
+    de: Jules Verne
+    de-at: Jules Verne
+    de-ch: Jules Verne
+    diq: Jules Verne
+    el: Ιούλιος Βερν
+    en: Jules Verne
+    en-ca: Jules Verne
+    en-gb: Jules Verne
+    eo: Jules Verne
+    es: Julio Verne
+    et: Jules Verne
+    eu: Jules Verne
+    ext: Jules Verne
+    fa: ژول ورن
+    fi: Jules Verne
+    fo: Jules Verne
+    fr: Jules Verne
+    frp: Jules Verne
+    frr: Jules Verne
+    fy: Jules Verne
+    ga: Jules Verne
+    gl: Jules Verne
+    he: ז'ול ורן
+    hi: जूल्स वर्न
+    hr: Jules Verne
+    ht: Jules Verne
+    hu: Jules Verne
+    hy: Ժյուլ Վեռն
+    hyw: Ժիւլ Վեռն
+    ia: Jules Verne
+    id: Jules Verne
+    ie: Jules Verne
+    io: Jules Verne
+    is: Jules Verne
+    it: Jules Verne
+    ja: ジュール・ヴェルヌ
+    jut: Jules Verne
+    jv: Jules Verne
+    ka: ჟიულ ვერნი
+    kab: Jules Verne
+    kk: Жюль Верн
+    kl: Jules Verne
+    ko: 쥘 베른
+    ku: Jules Verne
+    kw: Jules Verne
+    ky: Верн Жюль Габриэль
+    la: Iulius Verne
+    lb: Jules Verne
+    li: Jules Verne
+    lt: Jules Verne
+    lv: Žils Verns
+    mg: Jules Verne
+    mk: Жил Верн
+    ml: ജൂൾസ് വേൺ
+    mn: Жюль Верн
+    mr: जूल वेर्न
+    ms: Jules Verne
+    mul: Jules Verne
+    my: ဂျို့စ် ဂေဗီယို ဗမ်းန်
+    mzn: ژول ورن
+    nan: Jules Verne
+    nb: Jules Verne
+    nds: Jules Verne
+    new: जुल भर्न
+    nl: Jules Verne
+    nn: Jules Verne
+    nrm: Jules Verne
+    oc: Jules Verne
+    os: Жюль Верн
+    pa: ਯੂਲ ਵਰਨ
+    pap: Jules Verne
+    pcd: Jules Verne
+    pl: Juliusz Verne
+    pms: Jules Verne
+    pnb: یول ورن
+    pt: Júlio Verne
+    pt-br: Júlio Verne
+    qu: Jules Verne
+    rm: Jules Verne
+    ro: Jules Verne
+    ru: Жюль Верн
+    rup: Jules Verne
+    sah: Жюль Верн
+    sc: Jules Verne
+    sco: Jules Verne
+    sgs: Žiolės Verns
+    sh: Jules Verne
+    sh-cyrl: Жил Верн
+    sje: Jules Verne
+    sk: Jules Verne
+    skr: جولس ورن
+    sl: Jules Verne
+    sq: Jules Verne
+    sr: Жил Верн
+    stq: Jules Verne
+    sv: Jules Verne
+    szl: Jules Verne
+    ta: ழூல் வேர்ண்
+    te: జూల్స్ వెర్న్
+    tg: Жюл Габриэл Верн
+    th: ฌูล แวร์น
+    tl: Jules Verne
+    tr: Jules Verne
+    tt: Жүл Верн
+    tt-cyrl: Жүл Верн
+    ug: ژىيۇل ۋېرن
+    uk: Жуль Верн
+    ur: جولس ورن
+    uz: Jules Verne
+    vi: Jules Verne
+    vo: Jules Verne
+    war: Jules Verne
+    wuu: 儒勒·凡尔纳
+    xmf: ჟიულ ვერნი
+    yo: Jules Verne
+    yue: 凡爾納
+    zh: 儒勒·凡尔纳
+    zh-cn: 儒勒·凡尔纳
+    zh-hans: 儒勒·凡尔纳
+    zh-hant: 儒勒·凡爾納
 ---
-
 # [[Verne,Jules]] 
 
 Verne had a Notes system, similar to [[../../../../../../../../_orga/Zettelkasten]] that he destroyed before his death. 

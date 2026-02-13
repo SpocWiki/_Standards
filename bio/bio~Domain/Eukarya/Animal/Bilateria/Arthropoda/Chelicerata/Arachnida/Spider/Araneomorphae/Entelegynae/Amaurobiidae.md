@@ -1,8 +1,73 @@
 ---
 aliases:
-  - Amaurobiidae
+- Amaurobiidae
+- Amauròbid
+- Cedivkovité
+- cedivkovití
+- Chahałheeł naʼashjéʼii
+- Eretnekpókfélék
+- Finsterspinnen
+- Mörkrumsspindlar
+- nachtkaardespinnen
+- pimentohämähäkit
+- vinduedderkopper
+- пауки-амауробииды
+- אמאורוביים
+- الأموربيدات
+- عنکبوتهای شب
+- 暗蛛科
 title: Amaurobiidae
 has_id_wikidata: Q5854
+dv_has_:
+  name_:
+    an: Amaurobiidae
+    ar: الأموربيدات
+    ast: Amaurobiidae
+    bg: Amaurobiidae
+    ca: Amauròbid
+    ceb: Amaurobiidae
+    cs: cedivkovití
+    de: Finsterspinnen
+    en: Amaurobiidae
+    eo: Amaurobiidae
+    es: Amaurobiidae
+    eu: Amaurobiidae
+    ext: Amaurobiidae
+    fa: عنکبوتهای شب
+    fi: pimentohämähäkit
+    fr: Amaurobiidae
+    ga: Amaurobiidae
+    gl: Amaurobiidae
+    he: אמאורוביים
+    hr: Amaurobiidae
+    hu: Eretnekpókfélék
+    ia: Amaurobiidae
+    ie: Amaurobiidae
+    io: Amaurobiidae
+    it: Amaurobiidae
+    la: Amaurobiidae
+    mul: Amaurobiidae
+    nb: vinduedderkopper
+    nl: nachtkaardespinnen
+    nv: Chahałheeł naʼashjéʼii
+    oc: Amaurobiidae
+    pl: Amaurobiidae
+    pt: Amaurobiidae
+    pt-br: Amaurobiidae
+    ro: Amaurobiidae
+    ru: пауки-амауробииды
+    sk: Cedivkovité
+    sq: Amaurobiidae
+    sv: Mörkrumsspindlar
+    tr: Amaurobiidae
+    uk: Amaurobiidae
+    vi: Amaurobiidae
+    vo: Amaurobiidae
+    war: Amaurobiidae
+    zh: 暗蛛科
+    zh-cn: 暗蛛科
+    zh-hans: 暗蛛科
+    zh-tw: 暗蛛科
 ---
 # [[Amaurobiidae]] 
 ![ ](Amaurobiidae/Amaurobius_ferox-8001.jpg) 

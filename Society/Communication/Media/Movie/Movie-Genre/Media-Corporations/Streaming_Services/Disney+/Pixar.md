@@ -1,8 +1,151 @@
 ---
 has_id_wikidata: Q127552
+dv_has_:
+  name_:
+    an: Pixar
+    ar: بيكسار
+    arz: بيكسار
+    ast: Pixar
+    az: Pixar
+    azb: پیکسار
+    ban: Pixar Animation Studios
+    be: Pixar
+    be-tarask: Pixar
+    bg: Пиксар
+    bn: পিক্সার
+    br: Pixar Animation Studios
+    ca: Pixar
+    ceb: Pixar
+    ckb: پیکسار
+    cs: Pixar
+    cy: Pixar
+    da: Pixar
+    de: Pixar
+    el: Pixar Animation Studios
+    en: Pixar
+    en-us: Pixar
+    eo: Pixar
+    es: Pixar
+    et: Pixar
+    eu: Pixar
+    fa: پیکسار
+    fi: Pixar
+    fo: Pixar
+    fr: Pixar Animation Studios
+    fy: Pixar Animation Studios
+    ga: Pixar
+    gl: Pixar
+    gv: Pixar
+    he: פיקסאר
+    hi: पिक्सार
+    hr: Pixar
+    hu: Pixar
+    hy: Պիքսար
+    ia: Pixar
+    id: Pixar Animation Studios
+    is: Pixar
+    it: Pixar Animation Studios
+    ja: ピクサー・アニメーション・スタジオ
+    jv: Pixar Animation Studios
+    ka: პიქსარი
+    kk: Pixar Animation Studios
+    kk-arab: Pixar Animation Studios
+    kk-cn: Pixar Animation Studios
+    kk-cyrl: Піхар Аніматіон Стұдіос
+    kk-kz: Піхар Аніматіон Стұдіос
+    kk-latn: Pixar Animation Studios
+    kk-tr: Pixar Animation Studios
+    kn: ಪಿಕ್ಸರ್
+    ko: 픽사
+    ky: Pixar
+    la: Pixar Animation Studios
+    lb: Pixar
+    lt: Pixar
+    lv: Pixar
+    lzh: 彼思社
+    mk: Pixar
+    ml: പിക്സാർ
+    mr: पिक्सार अॅनिमेशन स्टुडिओज
+    ms: Pixar
+    mul: Pixar
+    nan: Pixar Animation Studios
+    nb: Pixar
+    ne: पिक्सार
+    nl: Pixar Animation Studios
+    nn: Pixar
+    pl: Pixar
+    pnb: پکسار
+    pt: Pixar Animation Studios
+    pt-br: Pixar Animation Studios
+    ro: Pixar
+    ru: Pixar
+    sah: Pixar
+    sco: Pixar
+    sh: Pixar
+    si: Pixar
+    sk: Pixar Animation Studios
+    sl: Pixar
+    sq: Pixar
+    sr: Пиксар
+    sr-ec: Пиксар
+    sr-el: Piksar
+    sv: Pixar Animation Studios
+    sw: Pixar
+    szl: Pixar
+    ta: பிக்சார்
+    tg: Pixar
+    th: พิกซาร์
+    tl: Pixar
+    tr: Pixar
+    tt: Pixar
+    tt-cyrl: Pixar
+    ug: پىكسار جانلاندۇرۇم ستۇدىيىسى
+    uk: Pixar
+    ur: پکسر
+    uz: Pixar
+    vec: Pixar
+    vi: Pixar
+    war: Pixar
+    wuu: 皮克斯动画工作室
+    xmf: Pixar
+    yi: פיקסאר
+    yue: 彼思
+    zh: 皮克斯动画工作室
+    zh-cn: 皮克斯动画工作室
+    zh-hans: 皮克斯动画工作室
+    zh-hant: 皮克斯動畫工作室
+    zh-hk: 彼思動畫製作室
+    zh-sg: 皮克斯动画工作室
+    zh-tw: 皮克斯動畫工作室
+aliases:
+- Piksar
+- Pixar
+- Pixar Animation Studios
+- Піхар Аніматіон Стұдіос
+- Пиксар
+- Պիքսար
+- פיקסאר
+- بيكسار
+- پىكسار جانلاندۇرۇم ستۇدىيىسى
+- پکسار
+- پکسر
+- پیکسار
+- पिक्सार
+- पिक्सार अॅनिमेशन स्टुडिओज
+- পিক্সার
+- பிக்சார்
+- ಪಿಕ್ಸರ್
+- പിക്സാർ
+- พิกซาร์
+- პიქსარი
+- ピクサー・アニメーション・スタジオ
+- 彼思
+- 彼思動畫製作室
+- 彼思社
+- 皮克斯动画工作室
+- 皮克斯動畫工作室
+- 픽사
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Pixar** Animation Studios () is an American animation studio based in Emeryville, California, 

@@ -1,34 +1,133 @@
 ---
 aliases:
-  - medical-procedure
-  - medical_procedure
-  - MedicalProcedure
-  - is_a_medical_procedure
-  - Medical_Procedure
-  - Medical Procedure
+- gnáthamh leighis
+- gweithdrefn feddygol
+- is_a_medical_procedure
+- kuracoprocedo
+- lääketieteellinen toimenpide
+- lékařský zákrok
+- medical procedur
+- Medical Procedure
+- medical-procedure
+- MedicalProcedure
+- medical_procedure
+- medicininė procedūra
+- medicinsk procedure
+- medicinsk åtgärd
+- medicinski postopek
+- medicinski postupak
+- medicínsky zákrok
+- medicīniska procedūra
+- medische procedure
+- medisinsk prosedyre
+- medizinisches Verfahren
+- orvosi beavatkozás
+- procediment mèdic
+- procedimento mèdego
+- procedimiento médico
+- procedura medica
+- procedura medyczna
+- procedură medicală
+- procédure médicale
+- prosede medical
+- prosedur medis
+- tatacara perubatan
+- thủ tục y tế
+- Tıbbi prosedür
+- Медицина алымнары
+- медицинска постапка
+- медицинская процедура
+- медицински поступак
+- медична процедура
+- мэдыцынская працэдура
+- բժշկական միջամտություն
+- הליך רפואי
+- إجراء طبي
+- चिकित्सा प्रक्रिया
+- চিকিৎসা পদ্ধতি
+- 医疗程序
+- 医療処置
+- 醫療程序
 has_id_wikidata: Q796194
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/50731006
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - medical_procedure
+- medical_procedure
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_procedure Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_medical_procedure Class
 type: Type
+dv_has_:
+  name_:
+    ar: إجراء طبي
+    be-tarask: мэдыцынская працэдура
+    bn: চিকিৎসা পদ্ধতি
+    bs: medicinski postupak
+    ca: procediment mèdic
+    cs: lékařský zákrok
+    cy: gweithdrefn feddygol
+    da: medicinsk procedure
+    de: medizinisches Verfahren
+    en: medical procedure
+    eo: kuracoprocedo
+    es: procedimiento médico
+    fi: lääketieteellinen toimenpide
+    fr: procédure médicale
+    ga: gnáthamh leighis
+    gl: procedimiento médico
+    he: הליך רפואי
+    hi: चिकित्सा प्रक्रिया
+    hr: medicinski postupak
+    hu: orvosi beavatkozás
+    hy: բժշկական միջամտություն
+    id: prosedur medis
+    it: procedura medica
+    ja: 医療処置
+    lfn: prosede medical
+    lt: medicininė procedūra
+    lv: medicīniska procedūra
+    mk: медицинска постапка
+    ms: tatacara perubatan
+    nb: medisinsk prosedyre
+    nl: medische procedure
+    nn: medisinsk prosedyre
+    pl: procedura medyczna
+    pt: procedimiento médico
+    ro: procedură medicală
+    ru: медицинская процедура
+    sco: medical procedur
+    sk: medicínsky zákrok
+    sl: medicinski postopek
+    sr: медицински поступак
+    sv: medicinsk åtgärd
+    tr: Tıbbi prosedür
+    tt: Медицина алымнары
+    uk: медична процедура
+    vec: procedimento mèdego
+    vi: thủ tục y tế
+    yue: 醫療程序
+    zh: 醫療程序
+    zh-cn: 医疗程序
+    zh-hans: 医疗程序
+    zh-hant: 醫療程序
+    zh-hk: 醫療程序
+    zh-mo: 醫療程序
+    zh-my: 医疗程序
+    zh-sg: 医疗程序
+    zh-tw: 醫療程序
 ---
-
 # [[Medical_Procedure]] 
 
 Class of all medical_procedures.

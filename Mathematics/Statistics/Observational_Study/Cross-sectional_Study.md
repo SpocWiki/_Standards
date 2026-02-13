@@ -1,13 +1,70 @@
 ---
 aliases:
-  - cross-sectional study
-  - cross-sectional studies
-  - cross-sectional analysis
-  - transverse study
-  - prevalence study
-  - Cross-sectional_Study
-  - Cross-sectional Study
+- anailís thrasghearrthach
+- analyse transversale
+- badanie przekrojowe
+- cross section
+- cross-sectional analysis
+- cross-sectional studies
+- cross-sectional study
+- Cross-sectional_Study
+- Cross-sectioneel onderzoek
+- estudi transversal
+- estudio transversal
+- keresztmetszeti vizsgálat
+- Penelitian potong-lintang
+- Poikittaistutkimus
+- presečna raziskava
+- prevalence study
+- prevalenční studie
+- Querschnittsstudie
+- transverse study
+- Tverrsnittstudie
+- tvärsnittsstudie
+- поперечне дослідження
+- поперечное исследование
+- מחקר חתך
+- دراسة مستعرضة
+- مطالعه مقطعی
+- งานศึกษาตามขวาง
+- 横向研究
+- 横断研究
+- 橫切面研究
+- 橫向研究
+- 橫斷面研究
+- 단면연구
 has_id_wikidata: Q954027
+dv_has_:
+  name_:
+    ar: دراسة مستعرضة
+    ca: estudi transversal
+    cs: prevalenční studie
+    de: Querschnittsstudie
+    en: cross-sectional study
+    es: estudio transversal
+    fa: مطالعه مقطعی
+    fi: Poikittaistutkimus
+    fr: analyse transversale
+    ga: anailís thrasghearrthach
+    he: מחקר חתך
+    hu: keresztmetszeti vizsgálat
+    id: Penelitian potong-lintang
+    it: cross section
+    ja: 横断研究
+    ko: 단면연구
+    nb: Tverrsnittstudie
+    nl: Cross-sectioneel onderzoek
+    nn: Tverrsnittstudie
+    pl: badanie przekrojowe
+    ru: поперечное исследование
+    sl: presečna raziskava
+    sv: tvärsnittsstudie
+    th: งานศึกษาตามขวาง
+    uk: поперечне дослідження
+    yue: 橫切面研究
+    zh: 橫斷面研究
+    zh-cn: 横向研究
+    zh-hant: 橫向研究
 ---
 # [[Cross-sectional_Study]] 
 

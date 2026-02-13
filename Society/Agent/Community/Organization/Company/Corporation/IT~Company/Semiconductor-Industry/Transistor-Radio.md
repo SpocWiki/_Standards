@@ -1,7 +1,84 @@
 ---
 has_id_wikidata: Q506260
+dv_has_:
+  name_:
+    af: Transistorradio
+    ak: akasanoma
+    ar: مذياع الترانزستور
+    ca: Ràdio transistor
+    cs: tranzistorový přijímač
+    da: transistorradio
+    de: Transistorradio
+    en: transistor radio
+    es: Radio a transistores
+    fa: رادیو ترانزیستوری
+    fi: Transistoriradio
+    fr: radio à transistors
+    ga: raidió trasraitheora
+    ha: Rediyon transistor
+    hu: Tranzisztoros rádió
+    it: radio a transistor
+    ja: トランジスタラジオ
+    ka: ტრანზისტორული რადიომიმღები
+    ko: 트랜지스터 라디오
+    lv: tranzistoru radiouztvērējs
+    mn: Транзистор радио
+    ms: Radio transistor
+    nb: transistorradio
+    nds: Transisterradio
+    nl: transistorradio
+    pt: rádio transistorizado
+    ru: транзисторный радиоприёмник
+    sk: Tranzistorový prijímač
+    sl: tranzistorski radio
+    sv: transistorradio
+    ta: டிரான்சிஸ்டர் வானொலி
+    te: ట్రాన్సిస్టర్ రేడియో
+    uk: Транзисторний радіоприймач
+    uz: Tranzistorli radio
+    vi: Đài phát thanh bán dẫn
+    yue: 原子粒收音機
+    zh: 晶体管收音机
+    zh-hans: 晶体管收音机
+    zh-hant: 晶體管收音機
+    zh-hk: 電晶體收音機
+    zh-tw: 電晶體收音機
+aliases:
+- akasanoma
+- radio a transistor
+- Radio a transistores
+- Radio transistor
+- radio à transistors
+- raidió trasraitheora
+- Rediyon transistor
+- Ràdio transistor
+- rádio transistorizado
+- Transisterradio
+- transistor radio
+- Transistoriradio
+- transistorradio
+- Tranzistorli radio
+- Tranzistorový prijímač
+- tranzistorový přijímač
+- tranzistorski radio
+- tranzistoru radiouztvērējs
+- Tranzisztoros rádió
+- Đài phát thanh bán dẫn
+- Транзистор радио
+- Транзисторний радіоприймач
+- транзисторный радиоприёмник
+- رادیو ترانزیستوری
+- مذياع الترانزستور
+- டிரான்சிஸ்டர் வானொலி
+- ట్రాన్సిస్టర్ రేడియో
+- ტრანზისტორული რადიომიმღები
+- トランジスタラジオ
+- 原子粒收音機
+- 晶体管收音机
+- 晶體管收音機
+- 電晶體收音機
+- 트랜지스터 라디오
 ---
-
 # [[Transistor-Radio]] 
 
 > A transistor radio is a small portable radio receiver that uses [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]-based circuitry. 

@@ -1,44 +1,68 @@
 ---
 aliases:
-  - John_Ford
-  - John Martin Feeney
-  - John Ford
-  - Ford,John
+- Con Ford
+- Džons Fords
+- Ford,John
+- John Ford
+- John Martin Feeney
+- John_Ford
+- Τζον Φορντ
+- Џон Форд
+- Джон Форд
+- Дьон Форд
+- Ջոն Ֆորդ
+- ג'ון פורד
+- جان فورد
+- جان فورڈ
+- جون فورد
+- জন ফোর্ড
+- ਜਾਨ ਫੋਰਡ
+- ஜான் போர்டு
+- జాన్ ఫోర్డ్
+- ജോൺ ഫോർഡ്
+- จอห์น ฟอร์ด
+- ჯონ ფორდი
+- ジョン・フォード
+- 尊·福
+- 尊福
+- 約翰·福特
+- 约翰·福特
+- 존 포드
 has_id_wikidata: Q51114
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Purple_Heart,145752]]'
-  - '[[_Standards/WikiData/WD~Combat_Action_Ribbon,198533]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Air_Medal,980090]]'
-  - '[[_Standards/WikiData/WD~China_Service_Medal,1073493]]'
-  - '[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]'
-  - '[[_Standards/WikiData/WD~Navy_Occupation_Service_Medal,1442474]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
-  - '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
-  - '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
-  - '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
-  - '[[_Standards/WikiData/WD~Korean_Service_Medal,2613227]]'
-  - '[[_Standards/WikiData/WD~United_Nations_Korea_Medal,2666524]]'
-  - '[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]'
-  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
-  - '[[_Standards/WikiData/WD~Owen_Wister_Award,3910622]]'
-  - '[[_Standards/WikiData/WD~Naval_Reserve_Medal,6981908]]'
-  - '[[_Standards/WikiData/WD~Navy_&_Marine_Corps_Commendation_Medal,16144959]]'
-  - '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-  - '[[_Standards/WikiData/WD~Order_of_Leopold,26126]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Purple_Heart,145752]]'
+- '[[_Standards/WikiData/WD~Combat_Action_Ribbon,198533]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Air_Medal,980090]]'
+- '[[_Standards/WikiData/WD~China_Service_Medal,1073493]]'
+- '[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]'
+- '[[_Standards/WikiData/WD~Navy_Occupation_Service_Medal,1442474]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
+- '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+- '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
+- '[[_Standards/WikiData/WD~Korean_Service_Medal,2613227]]'
+- '[[_Standards/WikiData/WD~United_Nations_Korea_Medal,2666524]]'
+- '[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]'
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Owen_Wister_Award,3910622]]'
+- '[[_Standards/WikiData/WD~Naval_Reserve_Medal,6981908]]'
+- '[[_Standards/WikiData/WD~Navy_&_Marine_Corps_Commendation_Medal,16144959]]'
+- '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Order_of_Leopold,26126]]'
 employer:
-  - '[[_Standards/WikiData/WD~Universal_Pictures,168383]]'
-  - '[[_Standards/WikiData/WD~Office_of_Strategic_Services,658626]]'
+- '[[_Standards/WikiData/WD~Universal_Pictures,168383]]'
+- '[[_Standards/WikiData/WD~Office_of_Strategic_Services,658626]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588]]'
 place_of_death: '[[_Standards/WikiData/WD~Palm_Desert,399976]]'
 different_from: '[[_Standards/WikiData/WD~John_Ford,503798]]'
@@ -47,13 +71,13 @@ sibling: '[[_Standards/WikiData/WD~Francis_Ford,1361838]]'
 place_of_burial: '[[_Standards/WikiData/WD~Holy_Cross_Cemetery,1625328]]'
 influenced_by: '[[_Standards/WikiData/WD~The_Plow_That_Broke_the_Plains,2480639]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
 medical_condition: '[[_Standards/WikiData/WD~one_eyed,3321212]]'
 filmography: '[[_Standards/WikiData/WD~John_Ford_filmography,3434204]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -87,11 +111,101 @@ work_period_end_: 1966-01-01T00:00:00Z
 Commons_category: John Ford (director)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Ford%201946.jpg
 ISNI:
-  - 0000000108927888
-  - 0000000122835517
+- 0000000108927888
+- 0000000122835517
 Libris_URI: dbqsmwnx06nfst5
+dv_has_:
+  name_:
+    an: John Ford
+    ar: جون فورد
+    arz: جون فورد
+    ast: John Ford
+    az: Con Ford
+    be: Джон Форд
+    be-tarask: Джон Форд
+    bg: Джон Форд
+    bn: জন ফোর্ড
+    br: John Ford
+    bs: John Ford
+    ca: John Ford
+    cs: John Ford
+    cy: John Ford
+    da: John Ford
+    de: John Ford
+    el: Τζον Φορντ
+    en: John Ford
+    en-ca: John Ford
+    en-gb: John Ford
+    eo: John Ford
+    es: John Ford
+    et: John Ford
+    eu: John Ford
+    fa: جان فورد
+    fi: John Ford
+    fo: John Ford
+    fr: John Ford
+    fy: John Ford
+    ga: John Ford
+    gl: John Ford
+    he: ג'ון פורד
+    hr: John Ford
+    ht: John Ford
+    hu: John Ford
+    hy: Ջոն Ֆորդ
+    id: John Ford
+    is: John Ford
+    it: John Ford
+    ja: ジョン・フォード
+    ka: ჯონ ფორდი
+    kbp: John Ford
+    kk: Джон Форд
+    ko: 존 포드
+    kw: John Ford
+    lb: John Ford
+    li: John Ford
+    lmo: John Ford
+    lv: Džons Fords
+    mg: John Ford
+    ml: ജോൺ ഫോർഡ്
+    mul: John Ford
+    mzn: جان فورد
+    nan: John Ford
+    nb: John Ford
+    nl: John Ford
+    nn: John Ford
+    oc: John Ford
+    pa: ਜਾਨ ਫੋਰਡ
+    pap: John Ford
+    pl: John Ford
+    pms: John Ford
+    pt: John Ford
+    pt-br: John Ford
+    qu: John Ford
+    ro: John Ford
+    ru: Джон Форд
+    sah: Дьон Форд
+    sco: John Ford
+    sh: John Ford
+    sk: John Ford
+    sl: John Ford
+    sq: John Ford
+    sr: Џон Форд
+    sr-ec: Џон Форд
+    sv: John Ford
+    ta: ஜான் போர்டு
+    te: జాన్ ఫోర్డ్
+    th: จอห์น ฟอร์ด
+    tr: John Ford
+    uk: Джон Форд
+    ur: جان فورڈ
+    vi: John Ford
+    war: John Ford
+    wuu: 约翰·福特
+    xmf: ჯონ ფორდი
+    yue: 尊福
+    zh: 約翰·福特
+    zh-hk: 尊·福
 ---
-
 # [[Ford,John]] 
 
 #is_/same_as :: [[WD~John_Ford,51114]] 

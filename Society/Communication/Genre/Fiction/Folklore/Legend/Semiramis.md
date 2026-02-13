@@ -1,31 +1,53 @@
 ---
 aliases:
-  - ܫܲܡܝܼܪܵܡ
-  - Šammīrām
-  - Շամիրամ
-  - Šamiram
-  - Σεμίραμις
-  - سميراميس
-  - Samīrāmīs
-  - Shammuramat
-  - Semiramis
+- Sameramis
+- Sammu-rámat
+- Samīrāmīs
+- Semiramida
+- Semiramide
+- Semiramidė
+- Semiramis
+- Semiramiso
+- Semíramis
+- Semîramîs
+- Shammuramat
+- Szemiramisz
+- Sémiramis
+- Šamiram
+- Šammīrām
+- Σεμίραμις
+- Семіраміда
+- Семирамида
+- Сэміраміда
+- Շամիրամ
+- סמירמיס
+- سميراميس
+- سمیرامیس
+- ܫܡܝܪܡ
+- ܫܲܡܝܼܪܵܡ
+- സെമിറാമിസ്
+- შამურამატი
+- ሴሚራሚስ
+- セミラミス
+- 沙米拉姆
+- 세미라미스
 has_id_wikidata: Q103960
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Shammuramat,234177]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gesta_Treverorum,877738]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gesta_Treverorum,877738]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
 place_of_birth: '[[_Standards/WikiData/WD~Lydia,620765]]'
 noble_title: '[[_Standards/WikiData/WD~queen_consort,719039]]'
 spouse: '[[_Standards/WikiData/WD~Ninus,1152356]]'
 child: '[[_Standards/WikiData/WD~Ninyas,3342062]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~Ninus_Romance,3940772]]'
-  - '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
+- '[[_Standards/WikiData/WD~Ninus_Romance,3940772]]'
+- '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 mother: '[[_Standards/WikiData/WD~Derceto,18604149]]'
 instance_of: '[[_Standards/WikiData/WD~human_whose_existence_is_disputed,21070568]]'
@@ -35,10 +57,81 @@ occupation: '[[_Standards/WikiData/WD~monarch,116]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Semiramide%20Babilonia.jpg
 Commons_category: Semiramis
 name_in_native_language:
-  - Σεμίρᾰμις
-  - Շամիրամ
+- Σεμίρᾰμις
+- Շամիրամ
+dv_has_:
+  name_:
+    am: ሴሚራሚስ
+    ang: Sameramis
+    ar: سميراميس
+    arc: ܫܡܝܪܡ
+    arz: سميراميس
+    ast: Semíramis
+    ba: Семирамида
+    bcl: Semiramis
+    be: Семіраміда
+    be-tarask: Сэміраміда
+    bg: Семирамида
+    bs: Semiramis
+    ca: Semiramis
+    cs: Semiramis
+    cv: Семирамида
+    cy: Semiramis
+    da: Semiramis
+    de: Semiramis
+    el: Σεμίραμις
+    en: Semiramis
+    eo: Semiramiso
+    es: Semíramis
+    et: Semiramis
+    eu: Semiramis
+    fa: سمیرامیس
+    fi: Semiramis
+    fr: Sémiramis
+    gl: Semíramis
+    he: סמירמיס
+    hr: Semiramida
+    hu: Szemiramisz
+    hy: Շամիրամ
+    id: Semiramis
+    is: Semíramis
+    it: Semiramide
+    ja: セミラミス
+    ka: შამურამატი
+    ko: 세미라미스
+    ku: Semîramîs
+    la: Semiramis
+    lt: Semiramidė
+    mg: Semiramis
+    mk: Семирамида
+    ml: സെമിറാമിസ്
+    mul: Semiramis
+    nan: Semiramis
+    nb: Semiramis
+    nds: Semiramis
+    nl: Semiramis
+    oc: Semiramis
+    pl: Semiramida
+    pt: Semíramis
+    ro: Semiramida
+    ru: Семирамида
+    sh: Semiramida
+    sk: Sammu-rámat
+    sl: Semiramida
+    sq: Semiramis
+    sr: Семирамида
+    sr-ec: Семирамида
+    sr-el: Semiramida
+    sv: Semiramis
+    tr: Semiramis
+    uk: Семіраміда
+    uz: Semiramida
+    vi: Semiramis
+    war: Semiramis
+    wuu: 沙米拉姆
+    yue: 沙米拉姆
+    zh: 沙米拉姆
 ---
-
 # [[Semiramis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Semiramis,103960|WD~Semiramis,103960]]  

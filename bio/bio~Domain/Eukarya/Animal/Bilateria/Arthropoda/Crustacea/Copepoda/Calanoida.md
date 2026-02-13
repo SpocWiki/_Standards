@@ -1,8 +1,75 @@
 ---
 aliases:
-  - Calanoida
+- Calanoida
+- calanoides
+- Hormikulised
+- Táyiʼ naatʼiʼí bideenézí
+- vznášivky
+- Каланидтар
+- Каланус түспөлдүүлөр
+- каляноиды
+- קלנואידיים
+- كالانيات
+- پرشمارواران
+- კალანუსები
+- カラヌス目
+- 哲水蚤目
 title: Calanoida
 has_id_wikidata: Q478553
+dv_has_:
+  name_:
+    an: Calanoida
+    ar: كالانيات
+    arz: كالانيات
+    ast: Calanoida
+    bg: Calanoida
+    ca: calanoides
+    ceb: Calanoida
+    cs: vznášivky
+    de: Calanoida
+    en: Calanoida
+    eo: Calanoida
+    es: Calanoida
+    et: Hormikulised
+    eu: Calanoida
+    ext: Calanoida
+    fa: پرشمارواران
+    fi: Calanoida
+    fr: Calanoida
+    ga: Calanoida
+    gl: Calanoida
+    he: קלנואידיים
+    hu: Calanoida
+    ia: Calanoida
+    id: Calanoida
+    ie: Calanoida
+    io: Calanoida
+    it: Calanoida
+    ja: カラヌス目
+    ka: კალანუსები
+    kk: Каланидтар
+    ky: Каланус түспөлдүүлөр
+    la: Calanoida
+    mul: Calanoida
+    nl: Calanoida
+    nv: Táyiʼ naatʼiʼí bideenézí
+    oc: Calanoida
+    pl: Calanoida
+    pt: Calanoida
+    pt-br: Calanoida
+    ro: Calanoida
+    ru: каляноиды
+    sq: Calanoida
+    sv: Calanoida
+    tr: Calanoida
+    uk: Calanoida
+    vi: Calanoida
+    vo: Calanoida
+    war: Calanoida
+    zh: 哲水蚤目
+    zh-cn: 哲水蚤目
+    zh-hans: 哲水蚤目
+    zh-tw: 哲水蚤目
 ---
 # [[Calanoida]]  
 

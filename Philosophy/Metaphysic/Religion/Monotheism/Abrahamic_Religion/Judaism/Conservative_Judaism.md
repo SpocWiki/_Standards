@@ -1,17 +1,107 @@
 ---
-has_time_started: 1900-01-01 
+has_time_started: 1900-01-01
 aliases:
+- Conservatief jodendom
+- Conservative Judaism
+- Ebraismo conservatore
+- Giúdachas Coimeádach
+- Jodaisma mpitahiry
+- judaisme conservador
+- judaismo kontserbadorea
+- Judaizm konserwatywny
+- judaísmo conservador
+- judaïsme massorti
+- Konservatiivinen juutalaisuus
+- Konservativ Jodendom
+- Konservativ judendom
+- Konservativ jødedom
+- Konservatives Judentum
+- konservatyvusis judaizmas
+- konservema judismo
+- Konzervativni judaizam
+- konzervativno judovstvo
+- konzervativní judaismus
+- konzervatív judaizmus
+- Movement Massorti
+- Tutucu Yahudilik
+- Xudaísmo conservador
+- Xudaísmu conservador
+- Yudaisme Konservatif
+- Yuzevegezh virour
+- Συντηρητικός Ιουδαϊσμός
+- кансэрватыўны юдаізм
+- конзервативен јудаизам
+- консервативний юдаїзм
+- консервативный иудаизм
+- יהדות קונסרבטיבית
+- קאנסערוואטיוו יידנטום
+- رجعت پسند یہودیت
+- محافظه کاره یهودیت
+- يهودية محافظة
+- یهودیت محافظهکار
+- பழமை விரும்பும் யூதம்
+- 保守派
+- 猶太教保守派
+- 보수파 유대교
 has_id_wikidata: Q205644
-subclass_of: "[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]"
-instance_of: "[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]"
-different_from: "[[_Standards/WikiData/WD~Masortim,14396128]]"
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
+different_from: '[[_Standards/WikiData/WD~Masortim,14396128]]'
 inception: 1900-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20191229ADATHISRAEL%20MERION%20Sanctuary.jpg
 Commons_category: Conservative Judaism
 OpenStreetMap_tag_or_key: Tag:denomination=conservative
+dv_has_:
+  name_:
+    ar: يهودية محافظة
+    ast: Xudaísmu conservador
+    be-tarask: кансэрватыўны юдаізм
+    br: Yuzevegezh virour
+    ca: judaisme conservador
+    cs: konzervativní judaismus
+    da: Konservativ jødedom
+    de: Konservatives Judentum
+    el: Συντηρητικός Ιουδαϊσμός
+    en: Conservative Judaism
+    en-gb: Conservative Judaism
+    eo: konservema judismo
+    es: judaísmo conservador
+    eu: judaismo kontserbadorea
+    fa: یهودیت محافظهکار
+    fi: Konservatiivinen juutalaisuus
+    fr: judaïsme massorti
+    ga: Giúdachas Coimeádach
+    gl: Xudaísmo conservador
+    he: יהדות קונסרבטיבית
+    hr: Konzervativni judaizam
+    hu: konzervatív judaizmus
+    id: Yudaisme Konservatif
+    it: Ebraismo conservatore
+    ja: 保守派
+    ko: 보수파 유대교
+    lt: konservatyvusis judaizmas
+    mg: Jodaisma mpitahiry
+    mk: конзервативен јудаизам
+    nb: Konservativ jødedom
+    nds: Konservativ Jodendom
+    nl: Conservatief jodendom
+    nn: Konservativ jødedom
+    oc: Movement Massorti
+    pl: Judaizm konserwatywny
+    ps: محافظه کاره یهودیت
+    pt: Judaísmo conservador
+    ru: консервативный иудаизм
+    sl: konzervativno judovstvo
+    sr: Konzervativni judaizam
+    sv: Konservativ judendom
+    ta: பழமை விரும்பும் யூதம்
+    tr: Tutucu Yahudilik
+    uk: консервативний юдаїзм
+    ur: رجعت پسند یہودیت
+    yi: קאנסערוואטיוו יידנטום
+    zh: 猶太教保守派
 ---
-
 # [[Conservative_Judaism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Conservative_Judaism,205644|WD~Conservative_Judaism,205644]] 

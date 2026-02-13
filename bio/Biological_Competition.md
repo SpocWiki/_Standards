@@ -1,7 +1,47 @@
 ---
 aliases:
-  - Biological_Competition
-  - Biological Competition
+- Biological Competition
+- Biological_Competition
+- competencia
+- competizione
+- competição
+- competència
+- compétition
+- concurrentie
+- conpetision
+- Cạnh tranh sinh học
+- kilpailu
+- kompetice
+- Kompetisie
+- konkurenca
+- Konkurencija
+- konkurencja
+- Konkurents
+- konkuro
+- konkurranse
+- Konkurrenz
+- Konkurrinsje (ekology)
+- Lehia
+- persaingan
+- persaingan hayati
+- Rekabet (biyoloji)
+- versengés
+- Ανταγωνισμός (βιολογία)
+- канкурэнцыя
+- конкуренція
+- конкуренция
+- Конкуренция (биология)
+- Конкуренция (екология)
+- תחרות
+- تنافس
+- رقابت (زیستشناسی)
+- प्रतियोगिता (जीव विज्ञान)
+- போட்டி
+- 爭嘢 (生物學)
+- 生態競爭
+- 竞争 (生物学)
+- 競争
+- 경쟁
 has_id_wikidata: Q45767
 different_from: '[[_Standards/WikiData/WD~economic_competition,319676]]'
 subclass_of: '[[_Standards/WikiData/WD~competition,476300]]'
@@ -9,8 +49,54 @@ part_of: '[[_Standards/WikiData/WD~phytosociology,1138244]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9484464,9484464]]'
 Commons_category: Competition (biology)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20bucks%20of%20Tal%20Chappar.jpg
+dv_has_:
+  name_:
+    af: Kompetisie
+    ar: تنافس
+    be-tarask: канкурэнцыя
+    bg: Конкуренция (екология)
+    ca: competència
+    cs: kompetice
+    de: Konkurrenz
+    el: Ανταγωνισμός (βιολογία)
+    en: biological competition
+    eo: konkuro
+    es: competencia
+    et: Konkurents
+    eu: Lehia
+    fa: رقابت (زیستشناسی)
+    fi: kilpailu
+    fr: compétition
+    fy: Konkurrinsje (ekology)
+    gl: Competencia
+    he: תחרות
+    hi: प्रतियोगिता (जीव विज्ञान)
+    hu: versengés
+    id: persaingan hayati
+    it: competizione
+    ja: 競争
+    ko: 경쟁
+    ms: persaingan
+    nb: konkurranse
+    nl: concurrentie
+    pl: konkurencja
+    pt: competição
+    ru: конкуренция
+    rue: Конкуренция (биология)
+    sh: Konkurencija
+    sl: konkurenca
+    sr: Konkurencija
+    ta: போட்டி
+    tr: Rekabet (biyoloji)
+    tt: Конкуренция (биология)
+    udm: конкуренция
+    uk: конкуренція
+    vec: conpetision
+    vi: Cạnh tranh sinh học
+    wuu: 竞争 (生物学)
+    yue: 爭嘢 (生物學)
+    zh: 生態競爭
 ---
-
 # [[Biological_Competition]] 
 
 #is_/same_as :: [[../WikiData/WD~Biological_competition,45767|WD~Biological_competition,45767]] 

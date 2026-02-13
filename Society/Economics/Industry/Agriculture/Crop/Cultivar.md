@@ -1,14 +1,50 @@
 ---
 aliases:
-  - Kultivar
-  - Cultivar
+- Cultivar
+- cyltifar
+- giống cây trồng
+- Kultibar
+- Kultivar
+- Kultivari
+- kulturvario
+- kultywar
+- kultūršķirne
+- Kvæmi
+- Kültivar
+- lajike
+- növényfajta
+- Oʻsimlik navi
+- saothróg
+- soi
+- sort
+- Troarag
+- ποικιλία φυτού
+- гатунак
+- культивар
+- навъ
+- сорт
+- сорта
+- կուլտուրա
+- זן תרבות
+- رقم
+- قابل کاشت
+- مستنبت نباتي
+- किसिम (खेती आ बागबानी)
+- किस्म
+- कृषिजोपजाति
+- பயிரிடும்வகை
+- കൾട്ടിവർ
+- სორტი
+- 栽培品种
+- 栽培品種
+- 재배품종
 has_id_wikidata: Q4886
 named_by: '[[_Standards/WikiData/WD~Liberty_Hyde_Bailey,152366]]'
 instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
 different_from: '[[_Standards/WikiData/WD~cultigen,1362373]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~cultigen,1362373]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~cultigen,1362373]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_cultivar,6184948]]'
 has_list: '[[_Standards/WikiData/WD~lists_of_cultivars,6646972]]'
 properties_for_this_type: breed belongs to taxon
@@ -19,8 +55,87 @@ Commons_category: Cultivars
 Wolfram_Language_entity_code: Entity["Concept", "Cultivar::74q79"]
 OpenStreetMap_tag_or_key: Key:taxon:cultivar
 short_name: cv.
+dv_has_:
+  name_:
+    af: Kultivar
+    ar: مستنبت نباتي
+    ast: Cultivar
+    ba: Сорт
+    be: сорт
+    be-tarask: гатунак
+    bg: Сорт
+    bho: किसिम (खेती आ बागबानी)
+    bs: kultivar
+    ca: cultivar
+    cs: kultivar
+    cy: cyltifar
+    da: kultivar
+    de: Cultivar
+    el: ποικιλία φυτού
+    en: cultivar
+    en-ca: cultivar
+    en-gb: cultivar
+    eo: kulturvario
+    es: cultivar
+    et: sort
+    eu: Kultibar
+    fa: رقم
+    fi: lajike
+    fr: cultivar
+    ga: saothróg
+    gl: Cultivar
+    gv: Troarag
+    he: זן תרבות
+    hi: किस्म
+    hr: Kultivar
+    hu: növényfajta
+    hy: կուլտուրա
+    ia: Cultivar
+    id: kultivar
+    is: Kvæmi
+    it: cultivar
+    ja: 栽培品種
+    ka: სორტი
+    kk: Сорт
+    ko: 재배품종
+    ky: Сорт
+    la: cultivar
+    lv: kultūršķirne
+    mai: कृषिजोपजाति
+    mk: сорта
+    ml: കൾട്ടിവർ
+    ms: Kultivar
+    mzn: رقم
+    nb: kultivar
+    nl: cultivar
+    nn: kultivar
+    oc: Cultivar
+    os: сорт
+    pl: kultywar
+    pt: cultivar
+    ro: soi
+    ru: культивар
+    sco: cultivar
+    sh: Kultivar
+    si: Cultivar
+    sk: Kultivar
+    sl: kultivar
+    sq: Kultivari
+    sr: Kultivar
+    sv: sort
+    ta: பயிரிடும்வகை
+    tg: навъ
+    tl: cultivar
+    tr: Kültivar
+    uk: сорт
+    ur: قابل کاشت
+    uz: Oʻsimlik navi
+    vec: Cultivar
+    vi: giống cây trồng
+    yue: 栽培品種
+    zh: 栽培品种
+    zh-hant: 栽培品種
 ---
-
 # [[Cultivar]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cultivar,4886|WD~Cultivar,4886]] 

@@ -1,23 +1,126 @@
 ---
 aliases:
-  - Chainmail
-  - Chain-mail
-  - Chain mail
-  - maille
+- baju rantai
+- Chain mail
+- Chain-mail
+- Chainmail
+- cota de malha
+- cota de malla
+- cotte de mailles
+- cămașă de zale
+- Drôtená košeľa
+- Kettenrüstung
+- kolczuga
+- kroužkové brnění
+- Lorica hamata
+- Maglia di ferro
+- maille
+- Maja (armadura)
+- Maliekolder
+- maliënkolder
+- maŝkuto
+- Rengashaarniska
+- ringbrynje
+- ringväv
+- Sae-vailhek
+- Sare-kota
+- verižna srajca
+- Verižnjača
+- Zirah rantai
+- Örme zincir
+- Аймауыт
+- верижњача
+- верижница
+- кальчуга
+- кольчуга
+- Къовлчlуг
+- Ризница
+- Хөө хуяг
+- Ҷавшан
+- Օղազրահ
+- שריון שרשראות
+- جوشن
+- زرد
+- வலைக் கவசம்
+- ჯაჭვის პერანგი
+- 鎖子甲
+- 鎖帷子
+- 鏈甲
+- 锁子甲
+- 쇄자갑
 has_id_wikidata: Q659631
 subclass_of:
-  - "[[_Standards/WikiData/WD~body_armor,485027]]"
-  - "[[_Standards/WikiData/WD~ring_armour,736868]]"
-  - "[[_Standards/WikiData/WD~coat_armor,5660520]]"
+- '[[_Standards/WikiData/WD~body_armor,485027]]'
+- '[[_Standards/WikiData/WD~ring_armour,736868]]'
+- '[[_Standards/WikiData/WD~coat_armor,5660520]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-made_from_material: "[[_Standards/WikiData/WD~mail,29000384]]"
-OmegaWiki_Defined_Meaning: "454253"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+made_from_material: '[[_Standards/WikiData/WD~mail,29000384]]'
+OmegaWiki_Defined_Meaning: 454253
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chain%20mail%20shirt%20-%20Georgian.jpg
 Commons_category: Mail (armour)
+dv_has_:
+  name_:
+    af: Maliekolder
+    ar: زرد
+    ast: Cota de malla
+    be: кальчуга
+    be-tarask: кальчуга
+    bg: Ризница
+    br: Sae-vailhek
+    ca: cota de malla
+    ce: Къовлчlуг
+    cs: kroužkové brnění
+    da: ringbrynje
+    de: Kettenrüstung
+    en: chainmail
+    en-ca: chainmail
+    en-gb: chainmail
+    eo: maŝkuto
+    es: cota de malla
+    eu: Sare-kota
+    fa: جوشن
+    fi: Rengashaarniska
+    fr: cotte de mailles
+    gl: Cota de malla
+    he: שריון שרשראות
+    hy: Օղազրահ
+    id: Zirah rantai
+    it: Maglia di ferro
+    ja: 鎖帷子
+    ka: ჯაჭვის პერანგი
+    kk: Аймауыт
+    ko: 쇄자갑
+    la: Lorica hamata
+    mk: верижница
+    mn: Хөө хуяг
+    ms: baju rantai
+    nb: ringbrynje
+    nl: maliënkolder
+    pl: kolczuga
+    pms: Maja (armadura)
+    pt: cota de malha
+    pt-br: Cota de malha
+    ro: cămașă de zale
+    ru: кольчуга
+    sh: Verižnjača
+    sk: Drôtená košeľa
+    sl: verižna srajca
+    sr: верижњача
+    sr-ec: верижњача
+    sr-el: Verižnjača
+    sv: ringväv
+    ta: வலைக் கவசம்
+    tg: Ҷавшан
+    tr: Örme zincir
+    uk: кольчуга
+    yue: 鏈甲
+    zh: 鎖子甲
+    zh-hans: 锁子甲
+    zh-hant: 鎖子甲
+    zh-hk: 鎖子甲
 ---
-
 # [[Chainmail]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Chainmail,659631|WD~Chainmail,659631]] 

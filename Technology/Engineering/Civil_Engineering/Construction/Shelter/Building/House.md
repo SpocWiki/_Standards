@@ -1,94 +1,546 @@
 ---
 aliases:
-  - house
-  - House
-  - is_a_house
+- axxam
+- a̱li
+- balay
+- bale
+- baláy
+- bele
+- ca
+- casa
+- casâ
+- casă
+- caza
+- chhù
+- chió
+- chy
+- chāntli
+- cjase
+- cà
+- dar
+- die
+- dom
+- domo
+- domus
+- dàr
+- Dábó
+- dōm
+- dům
+- eländkodi
+- etxe
+- ev
+- fato
+- gaga skbaley sali
+- ghar
+- gida
+- guri
+- haos
+- harong
+- haus
+- hiša
+- hoes
+- hoose
+- house
+- huis
+- hus
+- huus
+- ház
+- hús
+- hûs
+- hüs
+- hūs
+- Iglu
+- illu
+- ilé
+- imah
+- imba
+- indlu
+- inzu
+- is_a_house
+- kas
+- kay
+- kaz
+- keye
+- kher
+- kuća
+- kër
+- lamin
+- loma'
+- lombahan
+- maison
+- maisoun
+- maja
+- miichi
+- mikiwam
+- moaison
+- måjhon
+- mêson
+- māja
+- namas
+- ndáko
+- nhà ở
+- noms
+- nyumba
+- Nzo
+- omah
+- omo
+- oomâhóoné-mâhéó'o
+- ostal
+- ous
+- owhé
+- põrtt
+- ranz
+- roma
+- ruma
+- rumah
+- rumoh
+- rūmah
+- sapah
+- shtëpi
+- tahanan
+- taigh
+- talo
+- teach
+- ti
+- tigmmi
+- tomo
+- trano
+- turar joy
+- tŷ
+- uta
+- uus
+- uwu
+- vale
+- vuk
+- wasi
+- woonhuis
+- xanî
+- yili
+- zaka
+- zdani
+- zínà
+- óga
+- úy
+- ɖɩɣa
+- ɛdan
+- ένοικον
+- οικία
+- οἰκία
+- гер
+- дом
+- домъ
+- дьиэ
+- житло
+- жыллё
+- жытло
+- йорт
+- кил-çурт
+- корка
+- кућа
+- куќа
+- кудо
+- къща
+- пӧрт
+- торлаҡ
+- турак жай
+- хона
+- хыжа
+- хӏусам
+- үй
+- բնակելի տուն
+- בית מגורים
+- הויז
+- ائو
+- بيت
+- خؤنه
+- خانه
+- خانوو
+- دار
+- رومه
+- سره
+- منزل
+- مکان
+- کور
+- گھر
+- ܒܝܬܐ
+- ߟߎ
+- घर
+- छेँ
+- मकान
+- ঘৰ
+- বাড়ি
+- ਮਕਾਨ
+- ઘર
+- ଘର
+- வீடு
+- ఇల్లు
+- ಇಲ್ಲ್
+- ಮನೆ
+- വീട്
+- บ้าน
+- ເຮືອນ
+- ནང་།
+- လမ်း
+- သ္ၚိ
+- အိမ်
+- ႁိူၼ်း
+- სახლი
+- ჸუდე
+- መኖርያ ቤት
+- ᐃᓪᓗ
+- ᠪᠣᠣ
+- ᨅᨚᨒ
+- ụlọ
+- 住宅
+- 家屋
+- 屋
+- 房子
+- ꠊꠞ
+- ꯌꯨꯝ
+- 집
 has_id_wikidata: Q3947
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - house
-layout: ""
+- house
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_house Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_house Class
 type: Type
 Commons_category: Houses
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
-  - 690.8
-  - 728.37
-  - 690.837
-  - 643
-  - 728
-  - 643.1
+- 690.8
+- 728.37
+- 690.837
+- 643
+- 728
+- 643.1
 different_from:
-  - "[[_Standards/WikiData/WD~Dom,255708]]"
-  - "[[_Standards/WikiData/WD~Q65425102,65425102]]"
-  - "[[_Standards/WikiData/WD~home,7743]]"
+- '[[_Standards/WikiData/WD~Dom,255708]]'
+- '[[_Standards/WikiData/WD~Q65425102,65425102]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
 equivalent_class: https://schema.org/House
 exact_match: https://schema.org/House
-facet_of: "[[_Standards/WikiData/WD~minka,935445]]"
+facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
 GeoNames_feature_code: S.HSE
 hashtag: house
 has_part_s_:
-  - "[[_Standards/WikiData/WD~roof,83180]]"
-  - "[[_Standards/WikiData/WD~room,180516]]"
-  - "[[_Standards/WikiData/WD~floor,217164]]"
-  - "[[_Standards/WikiData/WD~basement,234852]]"
-  - "[[_Standards/WikiData/WD~attic,244490]]"
-  - "[[_Standards/WikiData/WD~majlis,10858057]]"
-  - "[[_Standards/WikiData/WD~window,35473]]"
-  - "[[_Standards/WikiData/WD~door,36794]]"
-  - "[[_Standards/WikiData/WD~wall,42948]]"
+- '[[_Standards/WikiData/WD~roof,83180]]'
+- '[[_Standards/WikiData/WD~room,180516]]'
+- '[[_Standards/WikiData/WD~floor,217164]]'
+- '[[_Standards/WikiData/WD~basement,234852]]'
+- '[[_Standards/WikiData/WD~attic,244490]]'
+- '[[_Standards/WikiData/WD~majlis,10858057]]'
+- '[[_Standards/WikiData/WD~window,35473]]'
+- '[[_Standards/WikiData/WD~door,36794]]'
+- '[[_Standards/WikiData/WD~wall,42948]]'
 has_use:
-  - "[[_Standards/WikiData/WD~residence,699405]]"
-  - "[[../../../../../../WikiData/WD~shelter,989946]]"
-  - "[[_Standards/WikiData/WD~housing,1247867]]"
-  - "[[_Standards/WikiData/WD~home,7743]]"
+- '[[_Standards/WikiData/WD~residence,699405]]'
+- '[[../../../../../../WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~housing,1247867]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
 IAB_code: 447
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG
-instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-made_from_material: "[[_Standards/WikiData/WD~building_material,206615]]"
+instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+made_from_material: '[[_Standards/WikiData/WD~building_material,206615]]'
 Nomenclature_for_Museum_Cataloging: 743
 OmegaWiki_Defined_Meaning: 5517
 OpenStreetMap_tag_or_key: Tag:building=house
-permanent_duplicated_item: "[[_Standards/WikiData/WD~house,55744010]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Haus2.ogg
 properties_for_this_type:
-  - occupant
-  - inception
-  - located on street
-  - heritage designation
-  - time period
-  - country
-  - owned by
-  - located in the administrative territorial entity
-  - architectural style
+- occupant
+- inception
+- located on street
+- heritage designation
+- time period
+- country
+- owned by
+- located in the administrative territorial entity
+- architectural style
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[../../../../../../WikiData/WD~shelter,989946]]"
-  - "[[_Standards/WikiData/WD~residential_building,11755880]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
-Unicode_character: 🏡
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[../../../../../../WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~residential_building,11755880]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
+Unicode_character: "\U0001F3E1"
 Wikidata_property: number of houses
+dv_has_:
+  name_:
+    ace: rumoh
+    aeb-arab: دار
+    aeb-latn: dàr
+    af: huis
+    am: መኖርያ ቤት
+    ami: loma'
+    an: casa
+    ang: hūs
+    ann: uwu
+    apc: بيت
+    ar: منزل
+    arc: ܒܝܬܐ
+    ary: دار
+    arz: بيت
+    as: ঘৰ
+    ast: casa
+    atj: mikiwam
+    ay: uta
+    az: ev
+    azb: ائو
+    ba: торлаҡ
+    bcl: harong
+    be: жыллё
+    be-tarask: жытло
+    bew: ruma
+    bg: къща
+    bho: मकान
+    bi: haos
+    bjn: rūmah
+    blk: လမ်း
+    bn: বাড়ি
+    bo: ནང་།
+    br: ti
+    bs: kuća
+    bug: ᨅᨚᨒ
+    ca: casa
+    cbk-zam: casa
+    cdo: chió
+    ce: хӏусам
+    ceb: balay
+    chy: oomâhóoné-mâhéó'o
+    ckb: خانوو
+    co: casa
+    crh: ev
+    cs: dům
+    cu: домъ
+    cv: кил-çурт
+    cy: tŷ
+    da: hus
+    dag: yili
+    de: Haus
+    de-ch: Haus
+    dga: die
+    diq: keye
+    dtp: lamin
+    dua: Dábó
+    el: οικία
+    eml: cà
+    en: house
+    en-ca: house
+    en-gb: house
+    en-us: house
+    eo: domo
+    es: casa
+    et: maja
+    eu: etxe
+    ext: casa
+    fa: خانه
+    fi: talo
+    fj: vale
+    fr: maison
+    frp: mêson
+    frr: hüs
+    fur: cjase
+    fy: hûs
+    ga: teach
+    gan: 屋
+    gcr: kaz
+    gd: taigh
+    gl: casa
+    glk: خؤنه
+    gn: óga
+    gor: bele
+    grc: οἰκία
+    gsw: Huus
+    gu: ઘર
+    guc: miichi
+    guw: owhé
+    ha: gida
+    hak: vuk
+    he: בית מגורים
+    hi: घर
+    hif: ghar
+    hr: kuća
+    hsb: dom
+    ht: kay
+    hu: ház
+    hy: բնակելի տուն
+    ia: casa
+    iba: rumah
+    id: rumah
+    ie: dom
+    ig: ụlọ
+    ik: Iglu
+    ilo: balay
+    io: domo
+    is: hús
+    it: casa
+    iu: ᐃᓪᓗ
+    ja: 家屋
+    jam: ous
+    jbo: zdani
+    jv: omah
+    ka: სახლი
+    kaa: úy
+    kab: axxam
+    kbp: ɖɩɣa
+    kcg: a̱li
+    kg: Nzo
+    kge: lombahan
+    kk: үй
+    kl: illu
+    kn: ಮನೆ
+    knc: fato
+    ko: 집
+    ks: مکان
+    ku-latn: xanî
+    kw: chy
+    ky: турак жай
+    la: domus
+    lb: Haus
+    lfn: casa
+    li: hoes
+    lmo: cà
+    ln: ndáko
+    lo: ເຮືອນ
+    lt: namas
+    lv: māja
+    mad: roma
+    mcn: zínà
+    mg: trano
+    mhr: пӧрт
+    min: rumah
+    mk: куќа
+    ml: വീട്
+    mnc: ᠪᠣᠣ
+    mni: ꯌꯨꯝ
+    mnw: သ္ၚိ
+    mos: zaka
+    mrj: пӧрт
+    ms: rumah
+    ms-arab: رومه
+    mt: dar
+    my: အိမ်
+    myv: кудо
+    mzn: سره
+    nah: chāntli
+    nan: chhù
+    nb: hus
+    nds: Huus
+    nds-nl: huus
+    ne: घर
+    new: छेँ
+    nia: omo
+    nl: woonhuis
+    nn: hus
+    nqo: ߟߎ
+    nrm: maisoun
+    oc: ostal
+    or: ଘର
+    pa: ਮਕਾਨ
+    pam: bale
+    pap: kas
+    pcd: moaison
+    pcm: house
+    pfl: Haus
+    pih: haus
+    pl: dom
+    pms: ca
+    pnb: گھر
+    pnt: ένοικον
+    ps: کور
+    pt: casa
+    pt-br: casa
+    qu: wasi
+    rmy: kher
+    rn: inzu
+    ro: casă
+    ru: дом
+    rue: хыжа
+    rup: casâ
+    sah: дьиэ
+    sc: domo
+    scn: casa
+    sco: hoose
+    sgs: noms
+    sh: kuća
+    shi: tigmmi
+    shn: ႁိူၼ်း
+    sk: dom
+    sl: hiša
+    sms: põrtt
+    sn: imba
+    so: guri
+    sq: shtëpi
+    sr: кућа
+    sr-ec: кућа
+    sr-el: kuća
+    su: imah
+    sv: hus
+    sw: nyumba
+    syl: ꠊꠞ
+    szl: dōm
+    ta: வீடு
+    tay: gaga skbaley sali
+    tcy: ಇಲ್ಲ್
+    te: ఇల్లు
+    tg: хона
+    th: บ้าน
+    tl: tahanan
+    tok: tomo
+    tr: ev
+    trv: sapah
+    tt: йорт
+    tt-cyrl: йорт
+    tw: ɛdan
+    udm: корка
+    uk: житло
+    ur: مکان
+    uz: turar joy
+    vec: caza
+    vep: eländkodi
+    vi: nhà ở
+    vls: uus
+    vo: dom
+    wa: måjhon
+    war: baláy
+    wo: kër
+    wuu: 房子
+    xal: гер
+    xh: indlu
+    xmf: ჸუდე
+    yi: הויז
+    yo: ilé
+    yue: 住宅
+    za: ranz
+    zh: 住宅
+    zh-cn: 住宅
+    zh-hans: 住宅
+    zh-hant: 住宅
+    zh-hk: 住宅
+    zh-mo: 住宅
+    zh-my: 住宅
+    zh-sg: 住宅
+    zh-tw: 住宅
+    zu: indlu
 ---
-
 # [[House]] 🏡 
 
 Class of all houses.

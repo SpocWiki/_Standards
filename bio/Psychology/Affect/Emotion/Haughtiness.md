@@ -1,27 +1,176 @@
 ---
 aliases:
-  - Hochmut
-  - Haughtiness
+- Adigung
+- Arrucanza (orgogghiu)
+- Fa'agambaoho
+- fiero
+- Fyè
+- gurur
+- Hantuste
+- Haughtiness
+- Hochmut
+- hoogmoed
+- hovmod
+- högmod
+- Kapalaluan
+- Kesombongan
+- kevélység
+- Kiburi
+- Mioitra
+- Momba'eguasu
+- Mondroms
+- Márnomyseľnosť
+- Mândrie
+- oholost
+- orgueil
+- Ourgouilh
+- Ponos
+- pride
+- Puikybė
+- pycha
+- pýcha
+- Qürur
+- soberba
+- soberbia
+- superbia
+- Supèrbia
+- Turaqtı üýir
+- Tự hào
+- Uhkus
+- Ylpeys
+- ганарыстасьць
+- Гонар
+- гординя
+- гордост
+- гордыня
+- надменност
+- понос
+- Тұрақты үйір
+- Ғурур
+- Հպարտություն
+- גאווה
+- تۇراقتى ٴۇيىر
+- غرور
+- غطرسة
+- ہنکار
+- अहङ्कार
+- ਹੰਕਾਰ
+- பெருமை
+- అహంకారము
+- ಅಭಿಮಾನ
+- അഹങ്കാരം
+- 傲慢
+- 自豪
+- 驕傲
+- 骄傲
+- 교만
 has_id_wikidata: Q187234
 opposite_of:
-  - '[[_Standards/WikiData/WD~shame,152282]]'
-  - '[[_Standards/WikiData/WD~humility,1186677]]'
-  - '[[_Standards/WikiData/WD~modesty,11199149]]'
+- '[[_Standards/WikiData/WD~shame,152282]]'
+- '[[_Standards/WikiData/WD~humility,1186677]]'
+- '[[_Standards/WikiData/WD~modesty,11199149]]'
 part_of: '[[_Standards/WikiData/WD~seven_deadly_sins,166502]]'
 different_from:
-  - '[[_Standards/WikiData/WD~arrogance,777939]]'
-  - '[[_Standards/WikiData/WD~pride,3071551]]'
+- '[[_Standards/WikiData/WD~arrogance,777939]]'
+- '[[_Standards/WikiData/WD~pride,3071551]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~arrogance,777939]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~arrogance,777939]]'
-  - '[[_Standards/WikiData/WD~vanity,1321250]]'
-  - '[[_Standards/WikiData/WD~arrogans,28120051]]'
+- '[[_Standards/WikiData/WD~arrogance,777939]]'
+- '[[_Standards/WikiData/WD~vanity,1321250]]'
+- '[[_Standards/WikiData/WD~arrogans,28120051]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of: '[[_Standards/WikiData/WD~moral_quality,31172650]]'
 Commons_category: Pride
 Provenio_UUID: 92ac9e5a-3eb2-4166-8899-26cb2bcd214b
+dv_has_:
+  name_:
+    ar: غطرسة
+    ast: Soberbia
+    az: Qürur
+    be: Гонар
+    be-tarask: ганарыстасьць
+    bg: надменност
+    br: Ourgouilh
+    bs: Ponos
+    ca: Supèrbia
+    cs: pýcha
+    da: hovmod
+    de: Hochmut
+    de-ch: Hochmut
+    eml: Supèrbia
+    en: haughtiness
+    eo: fiero
+    es: soberbia
+    et: Uhkus
+    eu: Hantuste
+    fa: غرور
+    fi: Ylpeys
+    fr: orgueil
+    gl: soberbia
+    gn: Momba'eguasu
+    he: גאווה
+    hr: Ponos
+    ht: Fyè
+    hu: kevélység
+    hy: Հպարտություն
+    id: Kesombongan
+    it: superbia
+    ja: 傲慢
+    kk-arab: تۇراقتى ٴۇيىر
+    kk-cn: تۇراقتى ٴۇيىر
+    kk-cyrl: Тұрақты үйір
+    kk-kz: Тұрақты үйір
+    kk-latn: Turaqtı üýir
+    kk-tr: Turaqtı üýir
+    kn: ಅಭಿಮಾನ
+    ko: 교만
+    la: superbia
+    lt: Puikybė
+    mg: Mioitra
+    mk: гордост
+    ml: അഹങ്കാരം
+    nb: hovmod
+    new: अहङ्कार
+    nia: Fa'agambaoho
+    nl: hoogmoed
+    pa: ਹੰਕਾਰ
+    pl: pycha
+    pnb: ہنکار
+    pt: soberba
+    pt-br: Soberba
+    ro: Mândrie
+    ru: гордыня
+    scn: Arrucanza (orgogghiu)
+    sco: pride
+    sd: غرور
+    sgs: Mondroms
+    sh: Ponos
+    sk: Márnomyseľnosť
+    sl: oholost
+    sr: понос
+    sr-ec: Понос
+    sr-el: Ponos
+    su: Adigung
+    sv: högmod
+    sw: Kiburi
+    ta: பெருமை
+    te: అహంకారము
+    tg: Ғурур
+    tl: Kapalaluan
+    tr: gurur
+    uk: гординя
+    ur: غرور
+    vi: Tự hào
+    wuu: 骄傲
+    yue: 自豪
+    zh: 骄傲
+    zh-cn: 骄傲
+    zh-hans: 骄傲
+    zh-hant: 驕傲
+    zh-hk: 驕傲
+    zh-sg: 骄傲
+    zh-tw: 驕傲
 ---
-
 # [[Haughtiness]] 
 
 #is_/same_as :: [[WD~Haughtiness,187234]] 

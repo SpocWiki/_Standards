@@ -1,57 +1,81 @@
 ---
 aliases:
-  - Joseph_Schumpeter
-  - Joseph Alois Schumpeter
-  - Joseph Schumpeter
-  - Schumpeter
-  - Schumpeter,Joseph
+- Iosephus Schumpeter
+- Josef Alois Schumpeter
+- Joseph Alois Schumpeter
+- Joseph Schumpeter
+- Joseph_Schumpeter
+- Jozefs Šumpēters
+- Schumpeter
+- Schumpeter,Joseph
+- Shumpeter Yozef
+- Yozef Şumpeter
+- Γιόζεφ Σουμπέτερ
+- Ёзэф Шумпетэр
+- Ёзэф Шумпэтэр
+- Јозеф Шумпетер
+- Йозеф Шумпетер
+- Шумпетер Йозеф Алоис
+- Յոզեֆ Շումպետեր
+- ג'וזף שומפטר
+- جوزف شومپیتر
+- جوزيف شومبيتر
+- چوزيف شومبيتر
+- ژۆزیڤ شومپیتەر
+- یوزف شومپیتر
+- ইয়োজেফ শুম্পেটার
+- ヨーゼフ・シュンペーター
+- 約瑟·岑彼達
+- 約瑟夫·熊彼得
+- 约瑟夫·熊彼特
+- 조지프 슘페터
 has_id_wikidata: Q78477
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~jurist,185351]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~political_economist,1227195]]'
-  - '[[_Standards/WikiData/WD~political_scientist,1238570]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~anthropologist,4773904]]'
-  - '[[_Standards/WikiData/WD~book_collector,28776412]]'
-  - '[[_Standards/WikiData/WD~state_political_scientist,88198806]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~political_economist,1227195]]'
+- '[[_Standards/WikiData/WD~political_scientist,1238570]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+- '[[_Standards/WikiData/WD~book_collector,28776412]]'
+- '[[_Standards/WikiData/WD~state_political_scientist,88198806]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Friedrich_von_Wieser,84482]]'
-  - '[[_Standards/WikiData/WD~Eugen_von_Böhm_Bawerk,311535]]'
+- '[[_Standards/WikiData/WD~Friedrich_von_Wieser,84482]]'
+- '[[_Standards/WikiData/WD~Eugen_von_Böhm_Bawerk,311535]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Wolfgang_Stolper,84815]]'
-  - '[[_Standards/WikiData/WD~Paul_Samuelson,102454]]'
-  - '[[_Standards/WikiData/WD~Ferdinand_A._Hermens,110013]]'
-  - '[[_Standards/WikiData/WD~James_Tobin,211776]]'
-  - '[[_Standards/WikiData/WD~Paul_McCracken,520580]]'
-  - '[[_Standards/WikiData/WD~Paul_Sweezy,715127]]'
-  - '[[_Standards/WikiData/WD~Anne_P._Carter,4216192]]'
-  - '[[_Standards/WikiData/WD~Arthur_Smithies,21535828]]'
-  - '[[_Standards/WikiData/WD~Daniel_C._Vandermeulen,38227664]]'
-  - '[[_Standards/WikiData/WD~Shou_Shan_Pu,102611590]]'
+- '[[_Standards/WikiData/WD~Wolfgang_Stolper,84815]]'
+- '[[_Standards/WikiData/WD~Paul_Samuelson,102454]]'
+- '[[_Standards/WikiData/WD~Ferdinand_A._Hermens,110013]]'
+- '[[_Standards/WikiData/WD~James_Tobin,211776]]'
+- '[[_Standards/WikiData/WD~Paul_McCracken,520580]]'
+- '[[_Standards/WikiData/WD~Paul_Sweezy,715127]]'
+- '[[_Standards/WikiData/WD~Anne_P._Carter,4216192]]'
+- '[[_Standards/WikiData/WD~Arthur_Smithies,21535828]]'
+- '[[_Standards/WikiData/WD~Daniel_C._Vandermeulen,38227664]]'
+- '[[_Standards/WikiData/WD~Shou_Shan_Pu,102611590]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
-  - '[[_Standards/WikiData/WD~University_of_Graz,622683]]'
-  - '[[_Standards/WikiData/WD~Chernivtsi_University,1551183]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
+- '[[_Standards/WikiData/WD~University_of_Graz,622683]]'
+- '[[_Standards/WikiData/WD~Chernivtsi_University,1551183]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-  - '[[_Standards/WikiData/WD~Theresianum,294469]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~Theresianum,294469]]'
 cause_of_death: '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
 student_of: '[[_Standards/WikiData/WD~Eugen_von_Böhm_Bawerk,311535]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Joseph,471788]]'
-  - '[[_Standards/WikiData/WD~Alois,575207]]'
+- '[[_Standards/WikiData/WD~Joseph,471788]]'
+- '[[_Standards/WikiData/WD~Alois,575207]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Austria,40]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 place_of_birth: '[[_Standards/WikiData/WD~Třešť,999899]]'
 notable_work: '[[_Standards/WikiData/WD~Capitalism,_Socialism_and_Democracy,1074682]]'
@@ -59,12 +83,12 @@ student: '[[_Standards/WikiData/WD~Nicholas_Georgescu_Roegen,1351160]]'
 place_of_death: '[[_Standards/WikiData/WD~Salisbury,2323182]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Q65007844,65007844]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~mises.at,106977968]]'
-  - '[[_Standards/WikiData/WD~regional_database_of_the_Regional_Library_of_Highlands,125582843]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Q65007844,65007844]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~mises.at,106977968]]'
+- '[[_Standards/WikiData/WD~regional_database_of_the_Regional_Library_of_Highlands,125582843]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 position_held: '[[_Standards/WikiData/WD~finance_minister_of_Austria,20675031]]'
@@ -75,8 +99,8 @@ father: '[[_Standards/WikiData/WD~Josef_Schumpeter,94875688]]'
 place_of_burial: '[[_Standards/WikiData/WD~Salisbury_Cemetery,111694210]]'
 date_of_birth: 1883-02-08T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 field_of_work: '[[_Standards/WikiData/WD~economics,8134]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
@@ -91,8 +115,78 @@ BHCL_UUID: 6665036f-7cc7-4dbb-affb-412b301b1fa7
 date_of_death: 1950-01-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Schumpeter%20ekonomialaria.jpg
 ISNI: 0000000121363669
+dv_has_:
+  name_:
+    af: Joseph Schumpeter
+    ar: جوزيف شومبيتر
+    arz: چوزيف شومبيتر
+    ast: Joseph Schumpeter
+    az: Yozef Şumpeter
+    ba: Йозеф Шумпетер
+    be: Ёзэф Шумпетэр
+    be-tarask: Ёзэф Шумпэтэр
+    bg: Йозеф Шумпетер
+    bn: ইয়োজেফ শুম্পেটার
+    ca: Joseph Schumpeter
+    ckb: ژۆزیڤ شومپیتەر
+    cs: Josef Alois Schumpeter
+    cy: Joseph Schumpeter
+    da: Joseph Schumpeter
+    dag: Joseph Schumpeter
+    de: Joseph Schumpeter
+    el: Γιόζεφ Σουμπέτερ
+    en: Joseph Schumpeter
+    eo: Joseph Schumpeter
+    es: Joseph Alois Schumpeter
+    eu: Joseph Schumpeter
+    fa: یوزف شومپیتر
+    fi: Joseph Schumpeter
+    fo: Joseph Schumpeter
+    fr: Joseph Schumpeter
+    ga: Joseph Schumpeter
+    gl: Joseph Schumpeter
+    he: ג'וזף שומפטר
+    hr: Joseph Alois Schumpeter
+    hu: Joseph Schumpeter
+    hy: Յոզեֆ Շումպետեր
+    id: Joseph Schumpeter
+    io: Joseph Alois Schumpeter
+    is: Joseph Schumpeter
+    it: Joseph Schumpeter
+    ja: ヨーゼフ・シュンペーター
+    ko: 조지프 슘페터
+    ky: Шумпетер Йозеф Алоис
+    la: Iosephus Schumpeter
+    lrc: جوزف شومپیتر
+    lv: Jozefs Šumpēters
+    mk: Јозеф Шумпетер
+    mul: Joseph Schumpeter
+    nan: Joseph Schumpeter
+    nb: Joseph Schumpeter
+    nl: Joseph Schumpeter
+    nn: Joseph Schumpeter
+    oc: Joseph Schumpeter
+    pl: Joseph Schumpeter
+    ps: یوزف شومپیتر
+    pt: Joseph Schumpeter
+    pt-br: Joseph Schumpeter
+    ro: Joseph Schumpeter
+    ru: Йозеф Шумпетер
+    sh: Joseph Schumpeter
+    sk: Joseph Alois Schumpeter
+    sl: Joseph Schumpeter
+    sq: Joseph Schumpeter
+    sr: Јозеф Шумпетер
+    sv: Joseph Schumpeter
+    tr: Joseph Alois Schumpeter
+    uk: Йозеф Шумпетер
+    uz: Shumpeter Yozef
+    vi: Joseph Schumpeter
+    yue: 約瑟·岑彼達
+    zh: 约瑟夫·熊彼特
+    zh-hant: 約瑟夫·熊彼得
+    zh-hk: 約瑟·岑彼達
 ---
-
 # [[Schumpeter,Joseph]] 
 
 #is_/same_as :: [[WD~Joseph_Schumpeter,78477]] 

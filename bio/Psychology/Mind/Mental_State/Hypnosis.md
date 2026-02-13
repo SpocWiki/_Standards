@@ -1,39 +1,186 @@
 ---
 aliases:
+- Gipnoz
+- hiopnóis
+- Hipnose
+- hipnosi
+- hipnosis
+- hipnoto
+- hipnoz
+- Hipnoza
+- hipnoze
+- hipnoză
+- hipnozė
+- hipnózis
+- Hypnoaze
+- hypnoos
+- hypnoosi
+- hypnos
+- hypnosa
+- hypnose
+- hypnosis
+- hypnóza
+- hüpnoos
+- ipnosi
+- ipnòsi
+- Oferswefn
+- Thôi miên
+- ύπνωση
+- Гіпноз
+- гипноз
+- Хипноза
+- Արհեստաքուն
+- Հիպնոս
+- היפנאזיע
+- היפנוזה
+- ايحاء
+- تنويم إيحائي
+- خەواندنی موگناتیسی
+- هيپناٽزم
+- هیپنوتیزم
+- هیپنوتیسم
+- सम्मोहन
+- हिप्नाेसिस्
+- সম্মোহন
+- அறிதுயில் நிலை
+- హిప్నాటిజం
+- ಸಂಮೋಹನ ಶಾಸ್ತ್ರ
+- ഹിപ്നോട്ടിസം
+- මෝහනය
+- การสะกดจิต
+- စိတ်ညှို့ပညာ
+- ჰიპნოზი
+- 催眠
+- 최면
 has_id_wikidata: Q8609
-named_after: "[[_Standards/WikiData/WD~Hypnos,189347]]"
+named_after: '[[_Standards/WikiData/WD~Hypnos,189347]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Hidden_Depths,58001891]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Hypnosis,133280496]]"
-subclass_of: "[[_Standards/WikiData/WD~suggestion,690194]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Hidden_Depths,58001891]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Hypnosis,133280496]]'
+subclass_of: '[[_Standards/WikiData/WD~suggestion,690194]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~altered_state_of_consciousness,852859]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-different_from: "[[_Standards/WikiData/WD~Hypnose,3144231]]"
-practiced_by: "[[_Standards/WikiData/WD~hypnotist,16746942]]"
-OmegaWiki_Defined_Meaning: "1758181"
+- '[[_Standards/WikiData/WD~altered_state_of_consciousness,852859]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+different_from: '[[_Standards/WikiData/WD~Hypnose,3144231]]'
+practiced_by: '[[_Standards/WikiData/WD~hypnotist,16746942]]'
+OmegaWiki_Defined_Meaning: 1758181
 booru_tag: hypnosis
 Commons_category: Hypnosis
 Archive_of_Our_Own_tag:
-  - Hypnosis
-  - Hypnotism
+- Hypnosis
+- Hypnotism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hypnotic%20S%C3%A9ance%20%28Richard%20Bergh%29%20-%20Nationalmuseum%20-%2018855.tif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Photographic%20Studies%20in%20Hypnosis%2C%20Abnormal%20Psychology%20%281938%29.ogv
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/hypnosis
 MeSH_tree_code:
-  - E02.190.525.217
-  - F04.754.424
+- E02.190.525.217
+- F04.754.424
 Krugosvet_article_archived_: medicina/GIPNOZ.html
 OpenStreetMap_tag: healthcare:speciality=hypnosis
+dv_has_:
+  name_:
+    af: hipnose
+    ang: Oferswefn
+    ar: تنويم إيحائي
+    arz: ايحاء
+    ast: Hipnosis
+    az: hipnoz
+    azb: هیپنوتیسم
+    ban: Hipnosis
+    be: Гіпноз
+    be-tarask: Гіпноз
+    bg: Хипноза
+    bn: সম্মোহন
+    bs: Hipnoza
+    ca: hipnosi
+    ckb: خەواندنی موگناتیسی
+    cs: hypnóza
+    cy: Hypnosis
+    da: hypnose
+    de: Hypnose
+    de-ch: Hypnose
+    el: ύπνωση
+    en: hypnosis
+    en-ca: Hypnosis
+    en-gb: hypnosis
+    eo: hipnoto
+    es: hipnosis
+    et: hüpnoos
+    eu: Hipnosi
+    fa: هیپنوتیزم
+    fi: hypnoosi
+    fr: hypnose
+    fy: Hypnoaze
+    ga: hiopnóis
+    gl: Hipnose
+    he: היפנוזה
+    hi: सम्मोहन
+    hr: hipnoza
+    hu: hipnózis
+    hy: Հիպնոս
+    hyw: Արհեստաքուն
+    id: Hipnosis
+    it: ipnosi
+    ja: 催眠
+    ka: ჰიპნოზი
+    kk: Гипноз
+    kn: ಸಂಮೋಹನ ಶಾಸ್ತ್ರ
+    ko: 최면
+    ky: Гипноз
+    la: hypnosis
+    lt: hipnozė
+    lv: hipnoze
+    mk: Хипноза
+    ml: ഹിപ്നോട്ടിസം
+    ms: Hipnosis
+    my: စိတ်ညှို့ပညာ
+    nb: hypnose
+    ne: हिप्नाेसिस्
+    nl: hypnose
+    nn: Hypnose
+    oc: ipnòsi
+    pl: hipnoza
+    pt: hipnose
+    pt-br: Hipnose
+    rki: စိတ်ညှို့ပညာ
+    ro: hipnoză
+    ru: гипноз
+    sah: Гипноз
+    sd: هيپناٽزم
+    se: hypnosa
+    sh: Hipnoza
+    si: මෝහනය
+    sk: hypnóza
+    sl: hipnoza
+    smn: hypnoos
+    sms: hypnoos
+    sq: hipnoza
+    sr: хипноза
+    sr-ec: хипноза
+    sv: hypnos
+    ta: அறிதுயில் நிலை
+    te: హిప్నాటిజం
+    th: การสะกดจิต
+    tl: Hipnosis
+    tr: hipnoz
+    uk: гіпноз
+    uz: Gipnoz
+    vi: Thôi miên
+    wuu: 催眠
+    yi: היפנאזיע
+    yue: 催眠
+    zh: 催眠
+    zh-cn: 催眠
+    zh-hans: 催眠
+    zh-hant: 催眠
 ---
-
 # [[Hypnosis]] 
 
 #is_/same_as :: [[WikiData/WD~Hypnosis,8609|WD~Hypnosis,8609]] 

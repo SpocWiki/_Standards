@@ -1,8 +1,96 @@
 ---
 aliases:
-  - Eric Idle
-  - Idle,Eric
+- Eric Idle
+- Ericus Idle
+- Erik Ajdl
+- Idle,Eric
+- Ēriks Aidls
+- Έρικ Άιντλ
+- Ерік Айдл
+- Ерик Ајдл
+- Ерик Айдъл
+- Эрик Айдл
+- Էրիկ Այդլ
+- אריק איידל
+- إيريك أيدل
+- اریک آیدل
+- ايريك ايدل
+- ایرک آئیڈل
+- ఎరిక్ ఐడిల్
+- เอริก ไอเดิล
+- エリック・アイドル
+- 埃里克·埃德尔
+- 埃里克·埃德爾
+- 埃里克·艾德尔
+- 에릭 아이들
 has_id_wikidata: Q210741
+dv_has_:
+  name_:
+    af: Eric Idle
+    an: Eric Idle
+    ar: إيريك أيدل
+    arz: ايريك ايدل
+    ast: Eric Idle
+    azb: اریک آیدل
+    bg: Ерик Айдъл
+    ca: Eric Idle
+    cs: Eric Idle
+    cy: Eric Idle
+    da: Eric Idle
+    de: Eric Idle
+    el: Έρικ Άιντλ
+    en: Eric Idle
+    eo: Eric Idle
+    es: Eric Idle
+    eu: Eric Idle
+    fa: اریک آیدل
+    fi: Eric Idle
+    fr: Eric Idle
+    ga: Eric Idle
+    gl: Eric Idle
+    he: אריק איידל
+    hr: Eric Idle
+    hu: Eric Idle
+    hy: Էրիկ Այդլ
+    ia: Eric Idle
+    id: Eric Idle
+    io: Eric Idle
+    it: Eric Idle
+    ja: エリック・アイドル
+    ko: 에릭 아이들
+    la: Ericus Idle
+    lv: Ēriks Aidls
+    mk: Ерик Ајдл
+    mul: Eric Idle
+    nan: Eric Idle
+    nb: Eric Idle
+    nl: Eric Idle
+    nn: Eric Idle
+    oc: Eric Idle
+    pl: Eric Idle
+    pt: Eric Idle
+    pt-br: Eric Idle
+    ro: Eric Idle
+    ru: Эрик Айдл
+    sco: Eric Idle
+    sh: Eric Idle
+    sk: Eric Idle
+    sl: Eric Idle
+    sq: Eric Idle
+    sr: Ерик Ајдл
+    sr-ec: Ерик Ајдл
+    sr-el: Erik Ajdl
+    sv: Eric Idle
+    te: ఎరిక్ ఐడిల్
+    th: เอริก ไอเดิล
+    tr: Eric Idle
+    uk: Ерік Айдл
+    ur: ایرک آئیڈل
+    war: Eric Idle
+    zh: 埃里克·艾德尔
+    zh-cn: 埃里克·埃德尔
+    zh-hans: 埃里克·埃德尔
+    zh-hant: 埃里克·埃德爾
 ---
 # [[Idle,Eric]] 
 

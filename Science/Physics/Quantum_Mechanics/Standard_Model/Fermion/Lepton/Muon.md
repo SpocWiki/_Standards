@@ -1,20 +1,59 @@
 ---
 aliases:
-  - Myon
-  - Muon
+- mion
+- mions
+- miuon
+- miuonas
+- mión
+- muoi
+- Muon
+- muone
+- muono
+- muonu
+- muyon
+- muão
+- muó
+- muón
+- muún
+- Myon
+- myona
+- myoni
+- myoon
+- myuon
+- Múon
+- müon
+- müüon
+- mýeind
+- μιόνιο
+- μ子
+- мион
+- мюон
+- մյուոններ
+- מיואון
+- ميوون
+- میون
+- म्यूऑन
+- মিউঅ’ন
+- মিউয়ন
+- மியூவான்
+- മ്യൂഓൺ
+- မျူယွန်
+- მიუონი
+- ミュー粒子
+- 뮤 입자
 has_id_wikidata: Q3151
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_David_Anderson,169366]]'
 followed_by: '[[_Standards/WikiData/WD~tau,188392]]'
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 antiparticle: '[[_Standards/WikiData/WD~antimuon,2174695]]'
 has_superpartner: '[[_Standards/WikiData/WD~smuon,18732735]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~charged_lepton,94535579]]'
-  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~charged_lepton,94535579]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 magnetic_moment: -4.4904478e-26
 follows: '[[_Standards/WikiData/WD~electron,2225]]'
@@ -31,8 +70,91 @@ Dewey_Decimal_Classification: 539.72114
 IEV_number: 881-02-67
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hard-component-muon-868x1024.png
 g_factor: -2.0023318418
+dv_has_:
+  name_:
+    af: muon
+    ar: ميوون
+    as: মিউঅ’ন
+    ast: muon
+    az: myuon
+    be: мюон
+    be-tarask: мюон
+    bg: мюон
+    bn: মিউয়ন
+    br: muon
+    bs: mion
+    ca: muó
+    co: muonu
+    cs: mion
+    da: myon
+    de: Myon
+    el: μιόνιο
+    en: muon
+    eo: muono
+    es: muon
+    et: müüon
+    eu: muoi
+    fa: میون
+    fi: myoni
+    fr: muon
+    ga: muón
+    gl: Múon
+    gsw: Myon
+    he: מיואון
+    hi: म्यूऑन
+    hr: mion
+    hu: müon
+    hy: մյուոններ
+    ia: muon
+    id: muon
+    io: Muono
+    is: mýeind
+    it: muone
+    ja: ミュー粒子
+    ka: მიუონი
+    kk: мюон
+    ko: 뮤 입자
+    la: myon
+    li: muon
+    lmo: muún
+    lt: miuonas
+    lv: mions
+    mk: мион
+    ml: മ്യൂഓൺ
+    mr: म्यूऑन
+    ms: muon
+    my: မျူယွန်
+    nb: myon
+    nds: Myon
+    nl: muon
+    nn: myon
+    oc: muon
+    pl: mion
+    pnb: میون
+    pt: muão
+    pt-br: múon
+    ro: miuon
+    ru: мюон
+    se: myona
+    sh: mion
+    sk: mión
+    sl: mion
+    smn: myoon
+    sms: myoon
+    sr: мион
+    sr-ec: мион
+    sr-el: mion
+    sv: myon
+    ta: மியூவான்
+    tl: muon
+    tr: müon
+    uk: мюон
+    vi: muyon
+    war: muon
+    wuu: μ子
+    yue: Muon
+    zh: μ子
 ---
-
 # [[Muon]] 
 
 #is_/same_as :: [[WD~Muon,3151]] 

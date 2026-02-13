@@ -1,8 +1,121 @@
 ---
 has_id_wikidata: Q632006
+dv_has_:
+  name_:
+    ar: سلبية الغرام
+    be: грамадмоўныя бактэрыі
+    be-tarask: грам-нэгатыўная
+    bn: গ্রাম-নেগেটিভ ব্যাকটেরিয়া
+    br: Gram-nann
+    bs: Gram-negativna bakterija
+    ca: gramnegatiu
+    cs: gramnegativní bakterie
+    da: Gram-negative bakterier
+    de: gramnegativ
+    el: gram αρνητικά βακτήρια
+    en: gram-negative bacteria
+    eo: Gram-negativaj bakterioj
+    es: bacteria gramnegativa
+    et: gramnegatiivsed bakterid
+    eu: bakterio gram-negatibo
+    fa: باکتری گرم-منفی
+    fi: gramnegatiivinen bakteeri
+    fr: Gram négatif
+    ga: baictéir Ghram-dhiúltacha
+    gl: Bacteria Gram-negativa
+    he: חיידקים גראם-שליליים
+    hi: ग्राम-ऋणात्मक बैक्टीरिया
+    hr: Gram-negativna bakterija
+    hu: Gram-negatív
+    hy: Գրամ բացասական բակտերիա
+    id: Gram-negatif
+    it: batteri Gram-negativi
+    ja: グラム陰性菌
+    jv: Gram-negatif
+    kn: ಗ್ರಾಮ್ಋಣ ಬ್ಯಾಕ್ಟೀರಿಯ
+    ko: 그람 음성균
+    lo: ເຊື້ອແບັກທີເຣັຍ ແກມລົບ
+    lv: gramnegatīvās baktērijas
+    mk: грамнегативни бактерии
+    ml: ഗ്രാം-നെഗറ്റീവ് ബാക്റ്റീരിയ
+    ms: Gram-negatif
+    nb: Gram-negativ bakterie
+    nl: gramnegatief
+    nn: gramnegativ
+    om: Baakteeriyaa Giraam negativii(Hi'eentaa)
+    or: ଗ୍ରାମ୍-ବିରୋଧୀ ବ୍ୟାକ୍ଟେରିଆ
+    pl: bakterie Gram-ujemne
+    pt: bactéria Gram-negativa
+    ro: bacterie Gram-negativă
+    ru: грамотрицательные бактерии
+    sh: Gram negativne bakterije
+    sl: gramnegativna bakterija
+    sr: Gram negativne bakterije
+    sv: gramnegativa bakterier
+    ta: கிராம்-எதிர் பாக்டீரியா
+    th: แบคทีเรียแกรมลบ
+    tl: Gram negative bacteria
+    tr: Gram-negatif
+    uk: грам-негативні бактерії
+    vi: Vi khuẩn Gram âm
+    zh: 革兰氏阴性菌
+    zh-hans: 革兰氏阴性菌
+    zh-hant: 革蘭氏陰性菌
+    zh-hk: 革蘭氏陰性菌
+aliases:
+- Baakteeriyaa Giraam negativii(Hi'eentaa)
+- Bacteria Gram-negativa
+- bacteria gramnegativa
+- bacterie Gram-negativă
+- bactéria Gram-negativa
+- baictéir Ghram-dhiúltacha
+- bakterie Gram-ujemne
+- bakterio gram-negatibo
+- batteri Gram-negativi
+- Gram negative bacteria
+- Gram negativne bakterije
+- Gram négatif
+- gram αρνητικά βακτήρια
+- Gram-nann
+- Gram-negatif
+- Gram-negativ bakterie
+- Gram-negativaj bakterioj
+- gram-negative bacteria
+- Gram-negative bakterier
+- Gram-negativna bakterija
+- Gram-negatív
+- gramnegatief
+- gramnegatiivinen bakteeri
+- gramnegatiivsed bakterid
+- gramnegatiu
+- gramnegativ
+- gramnegativa bakterier
+- gramnegativna bakterija
+- gramnegativní bakterie
+- gramnegatīvās baktērijas
+- Vi khuẩn Gram âm
+- грам-негативні бактерії
+- грам-нэгатыўная
+- грамадмоўныя бактэрыі
+- грамнегативни бактерии
+- грамотрицательные бактерии
+- Գրամ բացասական բակտերիա
+- חיידקים גראם-שליליים
+- باکتری گرم-منفی
+- سلبية الغرام
+- ग्राम-ऋणात्मक बैक्टीरिया
+- গ্রাম-নেগেটিভ ব্যাকটেরিয়া
+- ଗ୍ରାମ୍-ବିରୋଧୀ ବ୍ୟାକ୍ଟେରିଆ
+- கிராம்-எதிர் பாக்டீரியா
+- ಗ್ರಾಮ್ಋಣ ಬ್ಯಾಕ್ಟೀರಿಯ
+- ഗ്രാം-നെഗറ്റീവ് ബാക്റ്റീരിയ
+- แบคทีเรียแกรมลบ
+- ເຊື້ອແບັກທີເຣັຍ ແກມລົບ
+- グラム陰性菌
+- 革兰氏阴性菌
+- 革蘭氏陰性菌
+- 그람 음성균
 ---
-
-
 # [[Gram-negative]] 
 
 #has_/complement :: [[Gram-positive]]

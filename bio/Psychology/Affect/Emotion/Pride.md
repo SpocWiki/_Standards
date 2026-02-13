@@ -1,9 +1,116 @@
 ---
 aliases:
-  - Stolz
+- büszkeség
+- duma
+- fierté
+- firté
+- gurur
+- Hanweyni
+- hrdost
+- Kamongkogan
+- Kburija
+- Kebanggaan
+- Krenaria
+- lepnība
+- Mag'rurlik
+- mândrie
+- orgoglio
+- orgojlo
+- orgulho
+- orgull
+- orgullo
+- ourgouilh
+- Ponos
+- pride
+- stolthed
+- stolthet
+- Stolz
+- trots
+- ylpeys
+- Υπερηφάνεια
+- Гонар
+- гордість
+- гордост
+- гордость
+- Мăнаçлăх
+- Понос
+- גאווה
+- שטאָלץ
+- غرور
+- فخر
+- பெருமை
+- ಅಭಿಮಾನ
+- അഭിമാനം
+- ཁེངས་
+- ဂုဏ်ယူ
+- ဢဝ်ၵုင်ႇမုၼ်
+- 憍傲
+- 自豪
+- 誇り
+- 骄傲
 has_id_wikidata: Q3071551
+dv_has_:
+  name_:
+    ar: فخر
+    be: Гонар
+    be-tarask: Гонар
+    bg: гордост
+    bo: ཁེངས་
+    br: ourgouilh
+    ca: orgull
+    cs: hrdost
+    cv: Мăнаçлăх
+    da: stolthed
+    de: Stolz
+    de-ch: Stolz
+    el: Υπερηφάνεια
+    en: pride
+    en-ca: pride
+    en-gb: pride
+    eo: orgojlo
+    es: orgullo
+    fa: غرور
+    fi: ylpeys
+    fr: fierté
+    he: גאווה
+    hr: ponos
+    hu: büszkeség
+    id: Kebanggaan
+    it: orgoglio
+    ja: 誇り
+    jv: Kamongkogan
+    kn: ಅಭಿಮಾನ
+    lv: lepnība
+    mk: гордост
+    ml: അഭിമാനം
+    mt: Kburija
+    my: ဂုဏ်ယူ
+    nb: stolthet
+    nl: trots
+    pl: duma
+    pt: orgulho
+    pt-br: orgulho
+    ro: mândrie
+    ru: гордость
+    sco: pride
+    sh: Ponos
+    shn: ဢဝ်ၵုင်ႇမုၼ်
+    sl: ponos
+    so: Hanweyni
+    sq: Krenaria
+    sr: Понос
+    sv: stolthet
+    ta: பெருமை
+    tr: gurur
+    uk: гордість
+    ur: فخر
+    uz: Mag'rurlik
+    wa: firté
+    wuu: 骄傲
+    yi: שטאָלץ
+    yue: 自豪
+    zh: 憍傲
 ---
-
 # [[Pride]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~pride,3071551]] 

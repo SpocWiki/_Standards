@@ -1,8 +1,89 @@
 ---
 aliases:
-  - Zeigarnik Effect
-  - Zeigarnik_Effect
+- efecte Zeigarnik
+- efecto Zeigarnik
+- Efecto Zeigárnik
+- Efectul Zeigarnik
+- efekt Zeigarnik
+- Efekti Zeigarnik
+- Effet Zeigarnik
+- Effetto Zeigarnik
+- efiko de Zeigarnik
+- učinek Zeigarnik
+- Zeigarnik efektas
+- Zeigarnik Effect
+- Zeigarnik etkisi
+- Zeigarnik-efekti
+- Zeigarnik-effect
+- Zeigarnik-Effekt
+- Zeigarnik-effekten
+- Zeigarnik-hatás
+- Zeigarnikeffekt
+- Zeigarniki efekt
+- Zeigarnik_Effect
+- Zeygarnik effekti
+- Zeyqarnik effekti
+- Zeýgarnïk äseri
+- ефект Зейгарнік
+- Ефект на Зейгарник
+- Зејгарник ефект
+- Зейгарник әсері
+- Цајгарникова ефекат
+- эффект Зейгарник
+- Զեյգառնիկի էֆեկտ
+- אפקט זייגרניק
+- اثر زیگرانیک
+- تأثير زيجارنيك
+- زەيگارنىيك اسەرى
+- சீகார்னிக் விளைவு
+- ზეიგარნიკის ეფექტი
+- ツァイガルニク効果
+- 蔡氏效应
+- 미완성 효과
 has_id_wikidata: Q184812
+dv_has_:
+  name_:
+    ar: تأثير زيجارنيك
+    az: Zeyqarnik effekti
+    bg: Ефект на Зейгарник
+    ca: efecte Zeigarnik
+    da: Zeigarnik-effekten
+    de: Zeigarnik-Effekt
+    en: Zeigarnik effect
+    eo: efiko de Zeigarnik
+    es: efecto Zeigarnik
+    et: Zeigarniki efekt
+    fa: اثر زیگرانیک
+    fi: Zeigarnik-efekti
+    fr: Effet Zeigarnik
+    gl: Efecto Zeigárnik
+    he: אפקט זייגרניק
+    hu: Zeigarnik-hatás
+    hy: Զեյգառնիկի էֆեկտ
+    it: Effetto Zeigarnik
+    ja: ツァイガルニク効果
+    ka: ზეიგარნიკის ეფექტი
+    kk: Зейгарник әсері
+    kk-arab: زەيگارنىيك اسەرى
+    kk-cyrl: Зейгарник әсері
+    kk-latn: Zeýgarnïk äseri
+    ko: 미완성 효과
+    lt: Zeigarnik efektas
+    mk: Зејгарник ефект
+    nb: Zeigarnik-effekten
+    nl: Zeigarnik-effect
+    pl: efekt Zeigarnik
+    ro: Efectul Zeigarnik
+    ru: эффект Зейгарник
+    sl: učinek Zeigarnik
+    sq: Efekti Zeigarnik
+    sr: Цајгарникова ефекат
+    sv: Zeigarnikeffekt
+    ta: சீகார்னிக் விளைவு
+    tr: Zeigarnik etkisi
+    uk: ефект Зейгарнік
+    uz: Zeygarnik effekti
+    zh: 蔡氏效应
 ---
 # [[Zeigarnik_Effect]] 
 

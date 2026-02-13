@@ -1,7 +1,43 @@
 ---
 aliases:
-  - Cantor's theorem
-  - Cantor's_theorem
+- Cantor kuramı
+- Cantor 定理
+- Cantor's theorem
+- Cantor's_theorem
+- Cantor-tétel
+- Cantorin lause
+- Cantorjev izrek
+- Cantoro teorema
+- Cantorov teorem
+- Cantorova věta
+- Cantorren teorema
+- Cantors sats
+- Cantors teorem
+- Cantorteoremet
+- Kantorova teorema
+- Satz von Cantor
+- Stelling van Cantor
+- Teorema Cantor
+- Teorema de Cantor
+- teorema di Cantor
+- teorema lui Cantor
+- teoremo de Cantor
+- Teorèma de Cantor
+- théorème de Cantor
+- twierdzenie Cantora
+- Định lý đường chéo Cantor
+- Θεώρημα του Καντόρ
+- Кантарава тэарэма
+- Теорема Кантора
+- משפט קנטור
+- قضیه کانتور
+- مبرهنة كانتور
+- ทฤษฎีบทของคันทอร์
+- კანტორის თეორემა
+- カントールの定理
+- 康托尔定理
+- 康托爾定理
+- 칸토어의 정리
 has_id_wikidata: Q474881
 instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
 named_after: '[[_Standards/WikiData/WD~Georg_Cantor,76420]]'
@@ -12,8 +48,61 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 studied_by: '[[_Standards/WikiData/WD~set_theory,12482]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.webm
 Commons_category: Cantor's theorem
+dv_has_:
+  name_:
+    ar: مبرهنة كانتور
+    ast: Teorema de Cantor
+    be-tarask: Кантарава тэарэма
+    ca: teorema de Cantor
+    cs: Cantorova věta
+    de: Satz von Cantor
+    el: Θεώρημα του Καντόρ
+    en: Cantor's theorem
+    en-ca: Cantor's theorem
+    en-gb: Cantor's theorem
+    eo: teoremo de Cantor
+    es: teorema de Cantor
+    eu: Cantorren teorema
+    fa: قضیه کانتور
+    fi: Cantorin lause
+    fr: théorème de Cantor
+    gl: Teorema de Cantor
+    he: משפט קנטור
+    hr: Cantorov teorem
+    hu: Cantor-tétel
+    id: Teorema Cantor
+    it: teorema di Cantor
+    ja: カントールの定理
+    ka: კანტორის თეორემა
+    ko: 칸토어의 정리
+    lmo: Teorema de Cantor
+    lt: Cantoro teorema
+    lzh: 康托爾定理
+    nb: Cantors teorem
+    nl: Stelling van Cantor
+    nn: Cantorteoremet
+    oc: Teorèma de Cantor
+    pl: twierdzenie Cantora
+    pt: teorema de Cantor
+    pt-br: teorema de Cantor
+    ro: teorema lui Cantor
+    ru: теорема Кантора
+    sl: Cantorjev izrek
+    sr: Kantorova teorema
+    sv: Cantors sats
+    th: ทฤษฎีบทของคันทอร์
+    tr: Cantor kuramı
+    uk: Теорема Кантора
+    vi: Định lý đường chéo Cantor
+    yue: Cantor 定理
+    zh: 康托尔定理
+    zh-cn: 康托尔定理
+    zh-hans: 康托尔定理
+    zh-hant: 康托爾定理
+    zh-hk: 康托爾定理
+    zh-sg: 康托尔定理
+    zh-tw: 康托爾定理
 ---
-
 # [[Cantor's_theorem]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cantor's_theorem,474881|WD~Cantor's_theorem,474881]] 

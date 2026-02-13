@@ -1,12 +1,61 @@
 ---
 aliases:
+- Dromopoda
+- Dromopòdes
+- Брзоноги
+- جوالات الأرجل
+- دوندهپایان
+- 走脚亜綱
 has_id_wikidata: Q5308296
-taxon_rank: "[[_Standards/WikiData/WD~subclass,5867051]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pseudoscorpion%20-%20Soil%20Fauna%20Diversity.jpeg
 taxon_name: Dromopoda
+dv_has_:
+  name_:
+    an: Dromopoda
+    ar: جوالات الأرجل
+    ast: Dromopoda
+    bg: Dromopoda
+    ca: Dromopoda
+    ceb: Dromopoda
+    da: Dromopoda
+    de: Dromopoda
+    en: Dromopoda
+    eo: Dromopoda
+    es: Dromopoda
+    eu: Dromopoda
+    ext: Dromopoda
+    fa: دوندهپایان
+    fi: Dromopoda
+    fr: Dromopoda
+    ga: Dromopoda
+    gl: Dromopoda
+    ia: Dromopoda
+    ie: Dromopoda
+    io: Dromopoda
+    it: Dromopoda
+    ja: 走脚亜綱
+    la: Dromopoda
+    mk: Брзоноги
+    mul: Dromopoda
+    nb: Dromopoda
+    nl: Dromopoda
+    nn: Dromopoda
+    oc: Dromopòdes
+    pl: Dromopoda
+    pt: Dromopoda
+    pt-br: Dromopoda
+    ro: Dromopoda
+    ru: Dromopoda
+    sl: Dromopoda
+    sq: Dromopoda
+    sv: Dromopoda
+    uk: Dromopoda
+    vi: Dromopoda
+    vo: Dromopoda
+    war: Dromopoda
 ---
-
 # [[Dromopoda]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Dromopoda,5308296]] 

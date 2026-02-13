@@ -1,10 +1,110 @@
 ---
 aliases:
-  - Madoqua
-  - dik-dik
-  - Dik-dik
+- dic-dic
+- Digidigi
+- dik-dik
+- Dik-dikantiloper
+- Dikdik
+- Dikdikai
+- dikdikek
+- dikdikit
+- Dikdiks
+- Díʼdikii
+- Madoqua
+- Surbol (Madoqua)
+- ντικ-ντικ
+- Дікдік
+- Дикдик
+- дикдики
+- Накта дикдиктер
+- דיקדיק
+- دقدق
+- دیکدیک
+- ڈک-ڈک
+- ดิก-ดิก
+- დიკ-დიკი
+- የንሹ
+- ディクディク属
+- 犬羚属
+- 犬羚屬
+- 딕딕
 title: Madoqua
 has_id_wikidata: Q216263
+dv_has_:
+  name_:
+    af: Dik-dik
+    am: የንሹ
+    an: Madoqua
+    ar: دقدق
+    arz: دقدق
+    ast: Madoqua
+    av: Дикдик
+    avk: Surbol (Madoqua)
+    bg: дикдики
+    br: Dikdik
+    ca: dic-dic
+    ceb: Madoqua
+    cs: dikdik
+    de: Dikdiks
+    el: ντικ-ντικ
+    en: Madoqua
+    eo: Madoqua
+    es: Madoqua
+    eu: Madoqua
+    ext: Madoqua
+    fa: دیکدیک
+    fi: dikdikit
+    fr: Madoqua
+    frr: Dikdiks
+    ga: dic-dic
+    gl: Madoqua
+    he: דיקדיק
+    hr: Dik-dik
+    hu: dikdikek
+    ia: Madoqua
+    id: Dik-dik
+    ie: Madoqua
+    io: Madoqua
+    it: Madoqua
+    ja: ディクディク属
+    ka: დიკ-დიკი
+    ko: 딕딕
+    ky: Накта дикдиктер
+    la: Madoqua
+    lez: Дикдик
+    lt: Dikdikai
+    mhr: Дикдик
+    mul: Madoqua
+    nb: Madoqua
+    nl: dikdiks
+    nn: dik-dik
+    nv: Díʼdikii
+    oc: Madoqua
+    pl: Madoqua
+    pnb: ڈک-ڈک
+    pt: Madoqua
+    pt-br: Madoqua
+    ro: Madoqua
+    ru: дикдики
+    sco: dik-dik
+    sh: Dik-dik
+    sq: Madoqua
+    sv: Dik-dikantiloper
+    sw: Digidigi
+    th: ดิก-ดิก
+    tr: Dikdik
+    udm: Дикдик
+    uk: Дікдік
+    vi: Madoqua
+    vo: Madoqua
+    war: Madoqua
+    zh: 犬羚属
+    zh-cn: 犬羚属
+    zh-hans: 犬羚属
+    zh-hant: 犬羚屬
+    zh-hk: 犬羚屬
+    zh-sg: 犬羚属
+    zh-tw: 犬羚屬
 ---
 # [[Dik-dik]]
 

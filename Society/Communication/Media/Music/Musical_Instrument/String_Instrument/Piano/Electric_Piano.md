@@ -1,20 +1,96 @@
 ---
 aliases:
-  - electric piano
-  - E-Piano
-  - Electric_Piano
-  - Electric Piano
+- E-Piano
+- El-klaver
+- electric piano
+- Electric_Piano
+- elektrické piano
+- Elektrik pianino
+- Elektrische piano
+- elektrisk piano
+- električni klavir
+- Elektronika piano
+- elpiano
+- Hybrid-Piano
+- pian electric
+- Pianino elektroniczne
+- Piano elektriko
+- piano elèctric
+- piano eléctrico
+- piano elétrico
+- piano ełètrego
+- Piano électrique
+- Piano điện
+- pianoforte elettrico
+- pianu llétricu
+- pianó leictreach
+- sähköpiano
+- ηλεκτρικό πιάνο
+- електропіаніно
+- электрическое фортепиано
+- электрычнае піяніна
+- электрычнае фартэпіяна
+- פסנתר חשמלי
+- بيانو كهربي
+- پیانو الکتریک
+- エレクトリックピアノ
+- 电钢琴
+- 電鋼琴
+- 전기 피아노
 has_id_wikidata: Q1136507
 different_from:
-  - '[[_Standards/WikiData/WD~synthesizer,163829]]'
-  - '[[_Standards/WikiData/WD~electronic_piano,3503387]]'
+- '[[_Standards/WikiData/WD~synthesizer,163829]]'
+- '[[_Standards/WikiData/WD~electronic_piano,3503387]]'
 subclass_of: '[[_Standards/WikiData/WD~electromechanical_instruments,1372823]]'
 Hornbostel_Sachs_classification: 52
 image: http://commons.wikimedia.org/wiki/Special:FilePath/6f%201.png
 Commons_category: Electric pianos
 Baidu_Tieba_name: 电钢琴
+dv_has_:
+  name_:
+    ar: بيانو كهربي
+    ast: pianu llétricu
+    az: Elektrik pianino
+    be: электрычнае піяніна
+    be-tarask: электрычнае фартэпіяна
+    ca: piano elèctric
+    cs: elektrické piano
+    da: El-klaver
+    de: Hybrid-Piano
+    el: ηλεκτρικό πιάνο
+    en: electric piano
+    eo: Elektronika piano
+    es: piano eléctrico
+    eu: Piano elektriko
+    fa: پیانو الکتریک
+    fi: sähköpiano
+    fr: Piano électrique
+    ga: pianó leictreach
+    gl: Piano eléctrico
+    he: פסנתר חשמלי
+    it: pianoforte elettrico
+    ja: エレクトリックピアノ
+    ko: 전기 피아노
+    nb: elektrisk piano
+    nl: Elektrische piano
+    nn: elektrisk piano
+    pl: Pianino elektroniczne
+    pt: piano elétrico
+    ro: pian electric
+    ru: электрическое фортепиано
+    sk: elektrické piano
+    sl: električni klavir
+    sr: Električni klavir
+    sv: elpiano
+    uk: електропіаніно
+    vec: piano ełètrego
+    vi: Piano điện
+    yue: 電鋼琴
+    zh: 電鋼琴
+    zh-hans: 电钢琴
+    zh-hant: 電鋼琴
+    zh-hk: 電鋼琴
 ---
-
 # [[Electric_Piano]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Electric_piano,1136507|WD~Electric_piano,1136507]] 

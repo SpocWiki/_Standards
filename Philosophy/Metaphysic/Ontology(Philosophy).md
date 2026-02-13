@@ -1,37 +1,223 @@
 ---
 aliases:
-  - Ontologie
-  - Ontology(Philosophy)
+- bản thể luận
+- ointeolaíocht
+- Ontalaji
+- Ontoleg
+- Ontolociye
+- ontologi
+- ontologia
+- Ontologie
+- ontologiezh
+- ontologii
+- ontologiija
+- ontologija
+- ontologije
+- ontologio
+- ontologiya
+- ontologji
+- ontology
+- Ontology(Philosophy)
+- Ontologìa
+- ontología
+- Ontolohiya
+- ontolohía
+- Ontoloji (filozofi)
+- Ontolojia
+- ontoloogia
+- ontoloxía
+- ontoloģija
+- ontológia
+- Ontuluggìa
+- Pún-thé-lūn
+- Tasnilit
+- Thoome wa Kĩeũ
+- varlık bilimi
+- verufræði
+- Xiinleetoo
+- Ôntôlôjia (filôzôfia)
+- οντολογία
+- анталёгія
+- анталогія
+- онтологія
+- онтологи
+- Онтологија
+- онтология
+- ҳастишиносӣ
+- գոյաբանութիւն
+- Գոյաբանություն
+- אונטולוגיה
+- آنٽالاجي
+- ئۆنتۆلۆجی
+- انټولوژي
+- اونتولوݢي
+- علم الوجود
+- هستیشناسی
+- अन्टोलोजी
+- सत्तामीमांसा
+- সত্তাতত্ত্ব
+- ਤੱਤ-ਸਿੱਧਾਂਤ
+- உள்ளியம்
+- ภววิทยา
+- ဖြစ်တည်သရုပ် ဗေဒ
+- ონტოლოგია
+- ሥነ ኑባሬ
+- ⵜⴰⵙⵏⵉⵍⵍⵉⵜ
+- 存在論
+- 本体论
+- 本体论 (哲学)
+- 本體論
+- 존재론
 has_id_wikidata: Q44325
 different_from:
-  - '[[_Standards/WikiData/WD~anthology,105420]]'
-  - '[[_Standards/WikiData/WD~ontology,324254]]'
-  - '[[_Standards/WikiData/WD~ontology,347424]]'
+- '[[_Standards/WikiData/WD~anthology,105420]]'
+- '[[_Standards/WikiData/WD~ontology,324254]]'
+- '[[_Standards/WikiData/WD~ontology,347424]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~being,203872]]'
-  - '[[_Standards/WikiData/WD~becoming,461674]]'
-  - '[[_Standards/WikiData/WD~existence,468777]]'
-  - '[[_Standards/WikiData/WD~reality,9510]]'
+- '[[_Standards/WikiData/WD~being,203872]]'
+- '[[_Standards/WikiData/WD~becoming,461674]]'
+- '[[_Standards/WikiData/WD~existence,468777]]'
+- '[[_Standards/WikiData/WD~reality,9510]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~ontologist,16743936]]'
 part_of:
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
 Dewey_Decimal_Classification: 111
 BHCL_UUID: 20964cc2-7531-4a03-a41f-fe83c4d16f19
 PhilPapers_topic: ontology
 Commons_category: Ontology
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/ontology
 Library_of_Congress_Classification: BD300-BD450
+dv_has_:
+  name_:
+    af: Ontologie
+    am: ሥነ ኑባሬ
+    ar: علم الوجود
+    ast: Ontoloxía
+    az: ontologiya
+    be: анталогія
+    be-tarask: анталёгія
+    bg: Онтология
+    bn: সত্তাতত্ত্ব
+    br: ontologiezh
+    bs: ontologija
+    ca: ontologia
+    ckb: ئۆنتۆلۆجی
+    cs: ontologie
+    cv: Онтологи
+    cy: Ontoleg
+    da: ontologi
+    de: Ontologie
+    diq: Ontolociye
+    el: οντολογία
+    en: ontology
+    eo: ontologio
+    es: ontología
+    et: ontoloogia
+    eu: ontologia
+    fa: هستیشناسی
+    fi: ontologia
+    fr: ontologie
+    frr: ontologii
+    fy: Ontology
+    ga: ointeolaíocht
+    gan: 存在論
+    gcr: Ontoloji (filozofi)
+    gl: ontoloxía
+    gsw: Ontologie
+    ha: Ontology
+    he: אונטולוגיה
+    hi: सत्तामीमांसा
+    hr: ontologija
+    hu: ontológia
+    hy: Գոյաբանություն
+    hyw: գոյաբանութիւն
+    ia: ontologia
+    id: ontologi
+    io: ontologio
+    is: verufræði
+    it: ontologia
+    ja: 存在論
+    jam: Ontalaji
+    ka: ონტოლოგია
+    kaa: Ontologiya
+    kab: Tasnilit
+    ki: Thoome wa Kĩeũ
+    kk: Онтология
+    ko: 존재론
+    ky: Онтология
+    la: ontologia
+    lb: Ontologie
+    lfn: ontolojia
+    lld: Ontologia
+    lt: ontologija
+    lv: ontoloģija
+    mg: Ôntôlôjia (filôzôfia)
+    min: Ontologi
+    mk: онтологија
+    ms: ontologi
+    ms-arab: اونتولوݢي
+    my: ဖြစ်တည်သရုပ် ဗေဒ
+    nan: Pún-thé-lūn
+    nb: ontologi
+    nds: Ontologie
+    new: अन्टोलोजी
+    nl: ontologie
+    nn: ontologi
+    oc: ontologia
+    om: Xiinleetoo
+    os: онтологи
+    pa: ਤੱਤ-ਸਿੱਧਾਂਤ
+    pam: ontolohía
+    pl: ontologia
+    pms: Ontologìa
+    ps: انټولوژي
+    pt: ontologia
+    pt-br: ontologia
+    ro: ontologie
+    ru: онтология
+    scn: Ontuluggìa
+    sco: ontology
+    sd: آنٽالاجي
+    se: ontologiija
+    sh: Ontologija
+    sk: ontológia
+    sl: ontologija
+    sma: ontologije
+    smj: ontologija
+    smn: ontologia
+    sms: ontologia
+    sq: ontologji
+    sr: онтологија
+    sr-ec: Онтологија
+    sv: ontologi
+    sw: Ontolojia
+    ta: உள்ளியம்
+    tg: ҳастишиносӣ
+    th: ภววิทยา
+    tl: Ontolohiya
+    tr: varlık bilimi
+    tt: онтология
+    tt-cyrl: онтология
+    uk: онтологія
+    ur: علم الوجود
+    vi: bản thể luận
+    war: Ontolohiya
+    wuu: 本体论 (哲学)
+    yue: 本體論
+    zgh: ⵜⴰⵙⵏⵉⵍⵍⵉⵜ
+    zh: 本体论
+    zh-hant: 本體論
+    zh-tw: 本體論
 ---
-
 # [[Ontology(Philosophy)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ontology,44325|WD~Ontology,44325]] 

@@ -1,9 +1,98 @@
 ---
 aliases:
-  - Stramenopiles
-  - heterokonts
+- Eterocontes
+- Heterocont
+- Heterocontófitas
+- Heterokondid
+- heterokont
+- Heterokonta
+- Heterokonto
+- Heterokontophyta
+- heterokonts
+- rumenkaste alge
+- ruskeat levät
+- Stramenopila
+- Stramenopile
+- Stramenopiler
+- Stramenopiles
+- sárgásmoszatok
+- Σταχυομαστιγωτά
+- гетероконти
+- страменопилы
+- סטראמנופילס
+- سوطيات متغايرة
+- سوطيات متغايره
+- ناجورتاژکان
+- হেটারোকন্ট
+- 不等毛類
+- 不等鞭毛总门
+- 不等鞭毛类
+- 不等鞭毛總門
+- 不等鞭毛類
+- 부등편모조류
 title: Stramenopiles
 has_id_wikidata: Q461622
+dv_has_:
+  name_:
+    af: Heterokonta
+    ar: سوطيات متغايرة
+    arz: سوطيات متغايره
+    ast: Heterokonta
+    bg: Heterokonta
+    bn: হেটারোকন্ট
+    bs: Heterokonta
+    ca: Heterocont
+    ceb: Stramenopiles
+    cs: Stramenopila
+    da: Stramenopila
+    de: Stramenopile
+    el: Σταχυομαστιγωτά
+    en: heterokont
+    eo: Heterokonto
+    es: Heterokonta
+    et: Heterokondid
+    eu: Heterokonta
+    fa: ناجورتاژکان
+    fi: ruskeat levät
+    fr: Heterokonta
+    frr: Heterokonta
+    ga: Stramenopiles
+    gl: Heterocontófitas
+    he: סטראמנופילס
+    hr: Heterokonta
+    hu: sárgásmoszatok
+    ia: Stramenopiles
+    id: Heterokontophyta
+    it: Heterokonta
+    ja: 不等毛類
+    ko: 부등편모조류
+    la: Stramenopiles
+    mul: Stramenopiles
+    nb: heterokont
+    nl: heterokont
+    oc: Eterocontes
+    pl: Stramenopile
+    pt: Heterokontophyta
+    ro: Stramenopiles
+    ru: страменопилы
+    sl: rumenkaste alge
+    sq: Stramenopiles
+    sr: Heterokonta
+    sr-ec: Heterokonta
+    sr-el: Heterokonta
+    sv: Stramenopiler
+    tl: Heterokont
+    tr: Stramenopile
+    uk: гетероконти
+    vi: Heterokont
+    war: Stramenopiles
+    zh: 不等鞭毛總門
+    zh-cn: 不等鞭毛总门
+    zh-hans: 不等鞭毛类
+    zh-hant: 不等鞭毛類
+    zh-hk: 不等鞭毛類
+    zh-sg: 不等鞭毛类
+    zh-tw: 不等鞭毛類
 ---
 # [[Stramenopiles]] 
 

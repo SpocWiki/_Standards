@@ -1,8 +1,135 @@
 ---
 has_id_wikidata: Q181543
+dv_has_:
+  name_:
+    ar: تحطيم الأيقونات
+    ast: iconoclasta
+    az: İkonoborçuluq
+    ban: Ikonoklasme
+    be-tarask: іканаборства
+    bg: иконоборство
+    bn: প্রতিমাপূজা বিরোধিতা
+    ca: iconoclàstia
+    cs: obrazoborectví
+    cy: delwddrylliad
+    da: ikonoklasme
+    de: Ikonoklasmus
+    el: εικονομαχία
+    en: iconoclasm
+    en-gb: iconoclasm
+    eo: ikonrompismo
+    es: iconoclasia
+    et: Ikonoklasm
+    eu: ikonoklasmo
+    fa: شمایلشکنی
+    fi: ikonoklasmi
+    fr: iconoclasme
+    fy: ikoanoklasme
+    ga: íolbhriseadh
+    gl: iconoclasta
+    gsw: Ikonoklasmus
+    he: איקונוקלאזם
+    hi: प्रतिमाभंजन
+    hr: ikonoklazam
+    hu: képrombolás
+    hy: պատկերամարտություն
+    id: ikonoklasme
+    io: ikonoklasmo
+    it: iconoclastia
+    ja: イコノクラスム
+    ka: ხატმებრძოლეობა
+    ko: 성상 파괴 운동
+    la: iconoclasmus
+    lb: Ikonoklasmus
+    lt: ikonoklazmas
+    mk: иконоборство
+    ms: Ikonoklasme
+    nb: ikonoklasme
+    nl: iconoclasme
+    nn: ikonoklast
+    pl: ikonoklazm
+    ps: بت (بت) ړنګوونه
+    pt: iconoclastia
+    ro: iconoclasm
+    ru: иконоборчество
+    scn: iconuclastia
+    sh: Ikonoklazam
+    sk: obrazoborectvo
+    sl: ikonoklazem
+    sq: ikonoklastia
+    sr: иконоборство
+    sr-ec: иконоборство
+    sr-el: ikonoborstvo
+    sv: ikonoklasm
+    ta: உருவ அழிப்பு
+    th: ลัทธิทำลายรูปเคารพ
+    tl: Ikonoklasta
+    tr: İkonoklazm
+    uk: іконоборство
+    ur: شبیہ شکنی
+    vi: bài trừ ảnh tượng
+    wuu: 圣像破坏主义
+    yue: 聖像破壞主義
+    zh: 聖像破壞主義
+    zh-cn: 圣像破坏主义
+    zh-hans: 圣像破坏主义
+    zh-hant: 聖像破壞主義
+    zh-hk: 聖像破壞主義
+    zh-sg: 圣像破坏主义
+    zh-tw: 聖像破壞主義
+aliases:
+- bài trừ ảnh tượng
+- delwddrylliad
+- iconoclasia
+- iconoclasm
+- iconoclasme
+- iconoclasmus
+- iconoclasta
+- iconoclastia
+- iconoclàstia
+- iconuclastia
+- ikoanoklasme
+- ikonoborstvo
+- Ikonoklasm
+- ikonoklasme
+- ikonoklasmi
+- ikonoklasmo
+- Ikonoklasmus
+- ikonoklast
+- Ikonoklasta
+- ikonoklastia
+- ikonoklazam
+- ikonoklazem
+- ikonoklazm
+- ikonoklazmas
+- ikonrompismo
+- képrombolás
+- obrazoborectvo
+- obrazoborectví
+- íolbhriseadh
+- İkonoborçuluq
+- İkonoklazm
+- εικονομαχία
+- іканаборства
+- іконоборство
+- иконоборство
+- иконоборчество
+- պատկերամարտություն
+- איקונוקלאזם
+- بت (بت) ړنګوونه
+- تحطيم الأيقونات
+- شبیہ شکنی
+- شمایلشکنی
+- प्रतिमाभंजन
+- প্রতিমাপূজা বিরোধিতা
+- உருவ அழிப்பு
+- ลัทธิทำลายรูปเคารพ
+- ხატმებრძოლეობა
+- イコノクラスム
+- 圣像破坏主义
+- 聖像破壞主義
+- 성상 파괴 운동
 ---
-
-
 # [[Iconoclasm]] 
 
 #is_/same_as :: [[WD~Iconoclasm,181543]] 

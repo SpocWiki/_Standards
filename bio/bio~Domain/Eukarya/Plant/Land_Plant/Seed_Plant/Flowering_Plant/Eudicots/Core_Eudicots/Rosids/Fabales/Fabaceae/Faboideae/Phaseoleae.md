@@ -1,7 +1,62 @@
 ---
 aliases:
-  - Phaseoleae
+- Faseòlia
+- Phaseoleae
+- фасолевые
+- فازئولآ
+- فاصولياوية
+- فاصولياويه
+- インゲン連
+- 菜豆族
 has_id_wikidata: Q141198
+dv_has_:
+  name_:
+    an: Phaseoleae
+    ar: فاصولياوية
+    arz: فاصولياويه
+    ast: Phaseoleae
+    bcl: Phaseoleae
+    be: Phaseoleae
+    bg: Phaseoleae
+    ca: Faseòlia
+    ceb: Phaseoleae
+    cs: Phaseoleae
+    de: Phaseoleae
+    en: Phaseoleae
+    eo: Phaseoleae
+    es: Phaseoleae
+    eu: Phaseoleae
+    ext: Phaseoleae
+    fa: فازئولآ
+    fi: Phaseoleae
+    fr: Phaseoleae
+    ga: Phaseoleae
+    gl: Phaseoleae
+    hr: Phaseoleae
+    hu: Phaseoleae
+    ia: Phaseoleae
+    ie: Phaseoleae
+    ilo: Phaseoleae
+    io: Phaseoleae
+    it: Phaseoleae
+    ja: インゲン連
+    la: Phaseoleae
+    mul: Phaseoleae
+    nl: Phaseoleae
+    oc: Phaseoleae
+    pl: Phaseoleae
+    pt: Phaseoleae
+    pt-br: Phaseoleae
+    ro: Phaseoleae
+    ru: фасолевые
+    sl: Phaseoleae
+    sq: Phaseoleae
+    sv: Phaseoleae
+    uk: Phaseoleae
+    vi: Phaseoleae
+    vo: Phaseoleae
+    war: Phaseoleae
+    zh: 菜豆族
 ---
 # [[Phaseoleae]] 
 

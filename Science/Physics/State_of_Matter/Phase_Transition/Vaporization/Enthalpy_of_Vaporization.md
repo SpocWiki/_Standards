@@ -1,24 +1,157 @@
 ---
 aliases:
-  - Verdampfungswärme
-  - latent heat of vaporization
-  - heat of evaporation
-  - Enthalpy_of_Vaporization
-  - Enthalpy of Vaporization
+- aurustumissoojus
+- Buharlaşma ısısı
+- Bwlanw jılwı
+- calor de vaporització
+- ciepło parowania
+- Entalpi pengewapan
+- Entalpia de vaporizacion
+- entalpia de vaporizare
+- entalpia de vaporização
+- entalpia di vaporizzazione
+- entalpio de vaporigo
+- entalpía de vaporización
+- enthalpie de vaporisation
+- enthalpy o vapourisation
+- Enthalpy of Vaporization
+- Enthalpy_of_Vaporization
+- fordampingsvarme
+- fordampningsvarme
+- Garavimo šiluma
+- heat of evaporation
+- höyrystymislämpö
+- Irakite-entalpia
+- izparilna toplota
+- Kalor panguwaban
+- latent heat of vaporization
+- lievlâlumliegâsvuotâ
+- manri febybi'o nejni
+- Merné skupenské teplo varu
+- měrné skupenské teplo varu
+- Nhiệt bay hơi
+- Panas penguapan
+- Párolgáshő
+- Solishtirma qaynash issiqligi
+- Toplina isparivanja
+- Toplota isparavanja
+- Verdampfungswärme
+- verdampingswarmte
+- ångbildningsvärme
+- ενθαλπία εξάτμισης
+- Булану жылуы
+- Пăсланнин тата конденсациленнин пайлавла ăшши
+- питома теплота випаровування
+- Специфична топлина на изпарение
+- спэцыфічная цяплыня выпарэньня
+- топлина на испарување
+- Топлота испаравања
+- удельная теплота испарения
+- ӵыжатон шунытлык
+- אנתלפיית אידוי
+- آنتالپی تبخیر
+- بۋلانۋ جىلۋى
+- حرارة تبخر
+- حرارت تبخیر
+- वाष्पन की पूर्ण उष्मा
+- বাষ্পীভবনের এনথালপি
+- ஆவியாதல் உள்ளீட்டு வெப்பம்
+- වාෂ්පීකරණයේ එන්තැල්පිය
+- ความร้อนแฝงของการกลายเป็นไอ
+- აორთქლების კუთრი სითბო
+- 汽化热
+- 汽化熱
+- 蒸発熱
+- 기화열
 has_id_wikidata: Q483538
 subclass_of:
-  - "[[_Standards/WikiData/WD~enthalpy,161064]]"
-  - "[[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458]]"
+- '[[_Standards/WikiData/WD~enthalpy,161064]]'
+- '[[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458]]'
 different_from:
-  - "[[_Standards/WikiData/WD~enthalpy_of_sublimation,477945]]"
-  - "[[_Standards/WikiData/WD~molar_enthalpy_of_vaporization,108898049]]"
-instance_of: "[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+- '[[_Standards/WikiData/WD~enthalpy_of_sublimation,477945]]'
+- '[[_Standards/WikiData/WD~molar_enthalpy_of_vaporization,108898049]]'
+instance_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 OmegaWiki_Defined_Meaning: 426268
 Commons_category: Enthalpy of vaporization
+dv_has_:
+  name_:
+    af: Verdampingswarmte
+    an: Entalpía de vaporización
+    ar: حرارة تبخر
+    ast: Entalpía de vaporización
+    be-tarask: спэцыфічная цяплыня выпарэньня
+    bg: Специфична топлина на изпарение
+    bn: বাষ্পীভবনের এনথালপি
+    bs: Toplota isparavanja
+    ca: calor de vaporització
+    cs: měrné skupenské teplo varu
+    cv: Пăсланнин тата конденсациленнин пайлавла ăшши
+    da: Fordampningsvarme
+    de: Verdampfungswärme
+    el: ενθαλπία εξάτμισης
+    en: enthalpy of vaporization
+    en-us: enthalpy of vaporization
+    eo: entalpio de vaporigo
+    es: entalpía de vaporización
+    et: aurustumissoojus
+    eu: Irakite-entalpia
+    fa: آنتالپی تبخیر
+    fi: höyrystymislämpö
+    fr: enthalpie de vaporisation
+    gl: Entalpía de vaporización
+    he: אנתלפיית אידוי
+    hi: वाष्पन की पूर्ण उष्मा
+    hr: Toplina isparivanja
+    hu: Párolgáshő
+    id: Panas penguapan
+    it: entalpia di vaporizzazione
+    ja: 蒸発熱
+    jbo: manri febybi'o nejni
+    jv: Kalor panguwaban
+    ka: აორთქლების კუთრი სითბო
+    kk: Булану жылуы
+    kk-arab: بۋلانۋ جىلۋى
+    kk-cyrl: Булану жылуы
+    kk-latn: Bwlanw jılwı
+    ko: 기화열
+    lt: Garavimo šiluma
+    mk: топлина на испарување
+    ms: Entalpi pengewapan
+    nb: fordampningsvarme
+    nl: verdampingswarmte
+    nn: fordampingsvarme
+    oc: Entalpia de vaporizacion
+    pl: ciepło parowania
+    pt: entalpia de vaporização
+    pt-br: entalpia de vaporização
+    ro: entalpia de vaporizare
+    ru: удельная теплота испарения
+    sco: enthalpy o vapourisation
+    sh: Toplota isparavanja
+    si: වාෂ්පීකරණයේ එන්තැල්පිය
+    sk: Merné skupenské teplo varu
+    sl: izparilna toplota
+    smn: lievlâlumliegâsvuotâ
+    sr: Топлота испаравања
+    sr-ec: топлота испаравања
+    sr-el: toplota isparavanja
+    sv: ångbildningsvärme
+    ta: ஆவியாதல் உள்ளீட்டு வெப்பம்
+    th: ความร้อนแฝงของการกลายเป็นไอ
+    tr: Buharlaşma ısısı
+    udm: ӵыжатон шунытлык
+    uk: питома теплота випаровування
+    ur: حرارت تبخیر
+    uz: Solishtirma qaynash issiqligi
+    vi: Nhiệt bay hơi
+    wuu: 汽化热
+    zh: 汽化热
+    zh-hans: 汽化热
+    zh-hant: 汽化熱
+    zh-hk: 汽化熱
 ---
-
 # [[Enthalpy_of_Vaporization]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Enthalpy_of_vaporization,483538|WD~Enthalpy_of_vaporization,483538]] 

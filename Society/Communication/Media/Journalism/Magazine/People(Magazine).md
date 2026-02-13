@@ -1,5 +1,70 @@
 ---
-has_time_started: 1974-03-04 
+has_time_started: 1974-03-04
+aliases:
+- People
+- People (revuo)
+- People (списание)
+- People Dergisi
+- Пипл
+- פיפל
+- مجلة بيبول
+- پیپل
+- पीपल
+- পিপল
+- พีเพิล
+- ភីផឹល (ទស្សនាវដ្ដី)
+- ピープル
+- 人物
+- 人物杂志
+- 피플
+has_id_wikidata: Q33659
+main_subject:
+- '[[_Standards/WikiData/WD~celebrity,211236]]'
+- '[[_Standards/WikiData/WD~human_interest_story,361306]]'
+- '[[_Standards/WikiData/WD~news,38926]]'
+founded_by:
+- '[[_Standards/WikiData/WD~Andrew_Heiskell,1791673]]'
+- '[[_Standards/WikiData/WD~Dick_Durrell,5272864]]'
+- '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]'
+production_company: '[[_Standards/WikiData/WD~Meredith_Corporation,1921579]]'
+newspaper_format: '[[_Standards/WikiData/WD~digest_size,2480302]]'
+instance_of: '[[_Standards/WikiData/WD~weekly_magazine,12340140]]'
+different_from:
+- "[[_Standards/WikiData/WD~People's_Magazine,63684861]]"
+- "[[_Standards/WikiData/WD~People's_Magazine,63686479]]"
+- '[[_Standards/WikiData/WD~Renwu,107494379]]'
+- '[[_Standards/WikiData/WD~People_Magazine,124535772]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Robert_Emmett_Ginna,110111600]]'
+publisher: '[[_Standards/WikiData/WD~People_Inc.,124250582]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
+publication_interval: 1
+social_media_followers: 1330000
+title: People
+ISSN:
+- 2169-2157
+- 0093-7673
+ISSN_L: 0093-7673
+TikTok_username: people
+Instagram_username: people
+X_Twitter_username:
+- people
+- PEOPLEPets
+total_produced:
+- 3425166
+- 3556753
+inception: 1974-03-04T00:00:00Z
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/People%20Magazine%20logo.svg
+official_website:
+- http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18_GRGM_0__jn+%22People+Weekly%22?sw_aep=uarizona_main
+- http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18_ITOF_0__jn+%22People+Weekly%22?sw_aep=uarizona_main
+- http://vnweb.hwwilsonweb.com/hww/Journals/searchAction.jhtml?sid=HWW:OMNIS&issn=0093-7673
+- http://www.people.com/people/archive/issues/
+- https://people.com
+OCLC_number: 794712888
+shortened_URL_formatter: https://peoplem.ag/has_time_started: 1974-03-04 
 aliases:
 has_id_wikidata: Q33659
 main_subject:
@@ -54,8 +119,70 @@ Bluesky_handle: people.com
 Giphy_username: peoplemag
 Facebook_username: peoplemag
 Reddit_username: peoplemagazine
+domain_name: people.com
+Bluesky_handle: people.com
+Giphy_username: peoplemag
+Facebook_username: peoplemag
+Reddit_username: peoplemagazine
+dv_has_:
+  name_:
+    ar: مجلة بيبول
+    ast: People
+    be: People
+    be-tarask: People
+    bg: People (списание)
+    bn: পিপল
+    ca: People
+    cs: People
+    cy: People
+    da: People
+    de: People
+    el: People
+    en: People
+    eo: People (revuo)
+    es: People
+    eu: People
+    fa: پیپل
+    fi: People
+    fr: People
+    gl: People
+    he: פיפל
+    hi: पीपल
+    hu: People
+    hy: People
+    id: People
+    is: People
+    it: People
+    ja: ピープル
+    ka: People
+    kk: People
+    km: ភីផឹល (ទស្សនាវដ្ដី)
+    ko: 피플
+    lv: People
+    ms: People
+    mul: People
+    nb: People
+    nl: People
+    oc: People
+    pap: People
+    pl: People
+    pt: People
+    pt-br: People
+    ro: People
+    ru: People
+    sh: People
+    sk: People
+    sr: Пипл
+    sv: People
+    th: พีเพิล
+    tr: People Dergisi
+    uk: People
+    ur: پیپل
+    vi: People
+    zh: 人物
+    zh-cn: 人物
+    zh-hans: 人物杂志
 ---
-
 # [[People(Magazine)]] 
 
 #is_/same_as :: [[WD~People,33659]] 

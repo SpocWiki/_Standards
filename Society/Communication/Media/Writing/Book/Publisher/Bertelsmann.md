@@ -1,9 +1,74 @@
 ---
 has_id_wikidata: Q156913
+dv_has_:
+  name_:
+    ar: شركة بيرتلسمان
+    arz: شركة برتلسمان
+    azb: برتلسمان
+    bg: Бертелсман
+    ca: Bertelsmann
+    cs: Bertelsmann
+    cy: Bertelsmann
+    da: Bertelsmann
+    de: Bertelsmann
+    de-ch: Bertelsmann
+    diq: Bertelsmann
+    en: Bertelsmann
+    en-ca: Bertelsmann
+    en-gb: Bertelsmann
+    eo: Bertelsmann
+    es: Bertelsmann
+    fa: برتلزمان
+    fi: Bertelsmann
+    fr: Bertelsmann
+    fy: Bertelsmann
+    he: ברטלסמן
+    id: Bertelsmann
+    it: Bertelsmann
+    ja: ベルテルスマン
+    ko: 베텔스만
+    la: Bertelsmann
+    lt: Bertelsmann AG
+    ms: Bertelsmann
+    mul: Bertelsmann
+    nb: Bertelsmann
+    nl: Bertelsmann
+    pl: Bertelsmann
+    pt: Bertelsmann
+    pt-br: Bertelsmann
+    ro: Bertelsmann
+    ru: Bertelsmann
+    sl: Bertelsmann
+    sv: Bertelsmann
+    tg: Bertelsmann
+    tl: Bertelsmann
+    tr: Bertelsmann
+    uk: Bertelsmann
+    ur: بیرتسمان
+    wuu: 贝塔斯曼
+    zh: 贝塔斯曼
+    zh-cn: 贝塔斯曼
+    zh-hans: 贝塔斯曼
+    zh-hant: 貝塔斯曼
+    zh-hk: 貝塔斯曼
+    zh-sg: 贝塔斯曼
+    zh-tw: 博德曼
+aliases:
+- Bertelsmann
+- Bertelsmann AG
+- Бертелсман
+- ברטלסמן
+- برتلزمان
+- برتلسمان
+- بیرتسمان
+- شركة برتلسمان
+- شركة بيرتلسمان
+- ベルテルスマン
+- 博德曼
+- 貝塔斯曼
+- 贝塔斯曼
+- 베텔스만
 ---
-
-
-
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 

@@ -1,64 +1,283 @@
 ---
 aliases:
-  - ladybird beetles
-  - lady beetles
-  - ladybugs
-  - ladybirds
-  - ladybird beetle
-  - lady beetle
-  - ladybug
-  - ladybird
-  - Coccinellidae
-  - Coccinellida
-  - Lady_Beetle
-  - Lady Beetle
-  - marihøner
-  - Lieveheersbeestjes
-  - polonice
-  - 瓢虫科
+- biedronkowate
+- Biesse å Bon Diu
+- Boružės
+- Bože słónčko
+- Bubamare
+- Buoc'hig-Doue
+- bóín Dé
+- Bọ rùa
+- Chʼosh łitsxooí dóó Chʼosh łichííʼí
+- Clock leddy
+- Coccinellida
+- Coccinellidae
+- Dù-gā-cāu
+- Emelbêestje
+- Fâ-lò-chhùng
+- Goddeshankene
+- Goodshenken
+- Himmelsdéiercher
+- Joaninha
+- K'uslulu
+- katicabogárfélék
+- Kocinelo
+- Kokcinelo
+- kukeluusjen
+- Kukuyaan
+- kumbang koksi
+- Kumbang Kura-Kura
+- lady beetle
+- lady beetles
+- ladybird
+- ladybird beetle
+- ladybird beetles
+- ladybirds
+- ladybug
+- ladybugs
+- Lady_Beetle
+- Lepatriinulased
+- leppäkertut
+- Lienkovité
+- Lieveheersbeestjes
+- Lieweheersbesie
+- mariehøne
+- Marienkäfer
+- marieta
+- marigorringo
+- Marihøne
+- marihøner
+- Mariuhønur
+- Maruxiña
+- Maríubjalla
+- Mdudu-kibibi
+- Micazayolli
+- Mollëkuqja
+- Mrim migran
+- Mārīšu dzimta
+- Nyckelpigor
+- pagung-pagungan
+- Parabüzənlər
+- Patak mantcoc
+- polonice
+- Potpalakė
+- Pû-á-thâng
+- Sjmoutwörmke
+- slunéčkovití
+- Sünnenküken
+- Sırlı böcek
+- Tangkub-angkub
+- Xalxalok
+- Xonqizi qoʻngʻizlari
+- Κοκκινελλίδες
+- багоўкі
+- Божыя кароўкі
+- божьи коровки
+- бубамара
+- бубамари
+- Вирвитса
+- Доадолгаш
+- Енгаг
+- зоркибыос
+- калинки
+- камкалар
+- Майрæмы карк
+- Сонечка
+- Шүрэн цох
+- Қанқыз
+- Ҡамҡалар
+- Өөдөкөчтөр
+- զատկաբզեզներ
+- מושיתיים
+- بیر بہوٹی
+- تتوک
+- خۄداے سِنٛد بتہٕ پھٔلؠ
+- دعسوقيات
+- ليدى باج
+- منگھڻ
+- کفشدوزک
+- तितिभ
+- पाँचथोप्ले खपटे कीरा
+- கரும்புள்ளிச் செவ்வண்டினம்
+- ಕೊಕ್ಸಿನೆಲ್ಲಿಡೇ
+- കോക്സിനെല്ലിടെ
+- ด้วงเต่าลาย
+- ჭიამაიასებრნი
+- テントウムシ
+- 瓢虫
+- 瓢虫科
+- 瓢蟲
+- 瓢蟲科
+- 무당벌레과
 has_id_wikidata: Q25327
-has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
-has_characteristic: "[[_Standards/WikiData/WD~hibernation,159408]]"
-main_food_source: "[[_Standards/WikiData/WD~aphid,183350]]"
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
+has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408]]'
+main_food_source: '[[_Standards/WikiData/WD~aphid,183350]]'
 this_zoological_name_is_coordinate_with:
-  - "[[_Standards/WikiData/WD~Coccinellinae,687380]]"
-  - "[[_Standards/WikiData/WD~Coccinellini,4036347]]"
-  - "[[_Standards/WikiData/WD~Coccinelloidea,25406957]]"
+- '[[_Standards/WikiData/WD~Coccinellinae,687380]]'
+- '[[_Standards/WikiData/WD~Coccinellini,4036347]]'
+- '[[_Standards/WikiData/WD~Coccinelloidea,25406957]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Coccinellidae_genera,1941976]]"
-parent_taxon: "[[_Standards/WikiData/WD~Coccinelloidea,25406957]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Coccinellidae_genera,1941976]]'
+parent_taxon: '[[_Standards/WikiData/WD~Coccinelloidea,25406957]]'
 color:
-  - "[[_Standards/WikiData/WD~red,3142]]"
-  - "[[_Standards/WikiData/WD~black,23445]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+- '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~black,23445]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 ITIS_TSN: 114329
 OmegaWiki_Defined_Meaning: 629382
 Commons_category: Coccinellidae
 taxon_name: Coccinellidae
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20larva%20%28Coccinellidae%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20eating%20aphids.%20%2849485764276%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20side.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20larva%20%28Coccinellidae%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20eating%20aphids.%20%2849485764276%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20side.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%22%2Barya%2B%22%20Coccinellidae%20on%20Acalypha%20indica%20-%20Pilangsari%202020.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Coccinellidae%20%28Ladybug%29%20Anatomy.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20ladybug.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02165456-n
-Unicode_character: 🐞
+Unicode_character: "\U0001F41E"
 EPPO_Code: 1COCNF
 UMLS_CUI: C0998434
 NBN_System_Key: NHMSYS0020151767
 taxon_common_name:
-  - marihøner
-  - Lieveheersbeestjes
-  - polonice
-  - 瓢虫科
+- marihøner
+- Lieveheersbeestjes
+- polonice
+- 瓢虫科
+dv_has_:
+  name_:
+    af: Lieweheersbesie
+    an: Coccinellidae
+    ar: دعسوقيات
+    arz: ليدى باج
+    ast: Coccinellidae
+    atj: Patak mantcoc
+    az: Parabüzənlər
+    ba: Ҡамҡалар
+    be: Божыя кароўкі
+    be-tarask: багоўкі
+    bg: калинки
+    br: Buoc'hig-Doue
+    ca: marieta
+    cdo: Dù-gā-cāu
+    ceb: Coccinellidae
+    crh: Sırlı böcek
+    cs: slunéčkovití
+    cv: Вирвитса
+    cy: Coccinellidae
+    da: mariehøne
+    de: Marienkäfer
+    diq: Xalxalok
+    dtp: Tangkub-angkub
+    el: Κοκκινελλίδες
+    en: Coccinellidae
+    eo: Kokcinelo
+    es: Coccinellidae
+    et: Lepatriinulased
+    eu: marigorringo
+    ext: Coccinellidae
+    fa: کفشدوزک
+    fi: leppäkertut
+    fo: Mariuhønur
+    fr: Coccinellidae
+    frr: Goodshenken
+    ga: bóín Dé
+    gl: Maruxiña
+    hak: Fâ-lò-chhùng
+    he: מושיתיים
+    hi: तितिभ
+    hr: Bubamare
+    hsb: Bože słónčko
+    hu: katicabogárfélék
+    hy: զատկաբզեզներ
+    ia: Coccinellidae
+    id: kumbang koksi
+    ie: Coccinellidae
+    ig: Coccinellidae
+    inh: Доадолгаш
+    io: Kocinelo
+    is: Maríubjalla
+    it: Coccinellidae
+    ja: テントウムシ
+    jv: Kumbang koksi
+    ka: ჭიამაიასებრნი
+    kab: Mrim migran
+    kk: Қанқыз
+    kn: ಕೊಕ್ಸಿನೆಲ್ಲಿಡೇ
+    ko: 무당벌레과
+    koi: Енгаг
+    ks: خۄداے سِنٛد بتہٕ پھٔلؠ
+    kv: Енгаг
+    ky: Өөдөкөчтөр
+    la: Coccinellidae
+    lb: Himmelsdéiercher
+    li: Sjmoutwörmke
+    lt: Boružės
+    lv: Mārīšu dzimta
+    mk: бубамари
+    ml: കോക്സിനെല്ലിടെ
+    mn: Шүрэн цох
+    ms: Kumbang Kura-Kura
+    mt: Coccinellidae
+    mul: Coccinellidae
+    mzn: تتوک
+    nah: Micazayolli
+    nan: Pû-á-thâng
+    nb: marihøner
+    nds: Sünnenküken
+    nds-nl: kukeluusjen
+    ne: पाँचथोप्ले खपटे कीरा
+    nl: lieveheersbeestjes
+    nn: Marihøne
+    nv: Chʼosh łitsxooí dóó Chʼosh łichííʼí
+    oc: Coccinellidae
+    os: Майрæмы карк
+    pl: biedronkowate
+    pnb: بیر بہوٹی
+    pt: Joaninha
+    pt-br: Joaninha
+    qu: K'uslulu
+    ro: Coccinellidae
+    ru: божьи коровки
+    sco: Clock leddy
+    sd: منگھڻ
+    sgs: Potpalakė
+    sh: Bubamare
+    sk: Lienkovité
+    sl: polonice
+    sq: Mollëkuqja
+    sr: бубамара
+    sr-ec: Бубамара
+    stq: Goddeshankene
+    su: Kukuyaan
+    sv: Nyckelpigor
+    sw: Mdudu-kibibi
+    ta: கரும்புள்ளிச் செவ்வண்டினம்
+    th: ด้วงเต่าลาย
+    tl: pagung-pagungan
+    tr: Coccinellidae
+    tt: камкалар
+    udm: зоркибыос
+    uk: Сонечка
+    uz: Xonqizi qoʻngʻizlari
+    vi: Bọ rùa
+    vls: Emelbêestje
+    vo: Coccinellidae
+    wa: Biesse å Bon Diu
+    war: Coccinellidae
+    wuu: 瓢虫
+    yue: 瓢蟲
+    zh: 瓢虫科
+    zh-cn: 瓢虫科
+    zh-hans: 瓢虫科
+    zh-tw: 瓢蟲科
 ---
-
 # [[Lady_Beetle]]  🐞 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Coccinellidae,25327|WD~Coccinellidae,25327]] 

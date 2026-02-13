@@ -1,53 +1,223 @@
 ---
 aliases:
+- brīvpiekļuves atmiņa
+- cuimhne randamrochtana
+- ewetoeganklike geheue
+- hajasaantimuisti
+- hovedminne
+- ingatan capaian rawak
+- KUFINA
+- kujtesë me hyrje të rastësishme
+- memor bresk
+- memori akses acak
+- memoria d'accesu aleatoriu
+- memoria de acceso aleatorio
+- memoria volatilis
+- memòria a atzessu casuale
+- Memòria d'accès aleatòri
+- memòria d'accés aleatori
+- memória de acesso aleatório
+- memória de acesso randômico
+- muutmälu
+- mémoire
+- mémoire vive
+- operativ yad
+- operativ yaddaş qurğusu
+- operatyvioji atmintis
+- pamięć o dostępie swobodnym
+- pamäť s priamym prístupom
+- pomnilnik z naključnim dostopom
+- RAM
+- RAM меморија
+- RAM זיכרון
+- Random Access Memory
+- Random-Access Memory
+- tezkor xotira
+- Wurkûnthâld
+- ĉefmemoro
+- μνήμη τυχαίας προσπέλασης
+- жады
+- Жедел Жадтау Құрылғысы
+- запоминающее устройство с произвольным доступом
+- КОШ
+- операчна память
+- пам'ять з довільним доступом
+- памет с произволен достъп
+- памяць з адвольным доступам
+- радна меморија
+- хотираи дастраси аҳёнӣ
+- шуурхай санах ой
+- օպերատիվ հիշողություն
+- זיכרון גישה אקראית
+- بیرگەی دەستپێگەیشتن-بەھەڵکەوت
+- تصادفی رسائی حافظہ
+- حافظه دسترسی تصادفی
+- ذاكرة الوصول العشوائي
+- رام
+- رم(کامپیوتر)
+- ريم
+- ریم
+- राम्
+- रॅम
+- रैम
+- र् याम
+- র্যান্ডম অ্যাক্সেস মেমোরি
+- ਰੈਂਡਮ-ਐਕਸੈਸ ਮੈਮੋਰੀ
+- நேரடி அணுகல் நினைவகம்
+- రాండమ్ ఏక్సెస్ మెమరీ
+- റാൻഡം ആക്സസ് മെമ്മറി
+- රැම්
+- แรม
+- თავისუფალი შეღწევის მეხსიერება
+- ოპერატიული შვენა
+- ランダムアクセスメモリ
+- 随机存取存储器
+- 隨機存取記憶體
+- 랜덤 액세스 메모리
+- 주기억기
 has_id_wikidata: Q5295
 different_from:
-  - "[[_Standards/WikiData/WD~read_only_memory,160710]]"
-  - "[[_Standards/WikiData/WD~dynamic_random_access_memory,189396]]"
-  - "[[_Standards/WikiData/WD~static_random_access_memory,267416]]"
-  - "[[_Standards/WikiData/WD~volatile_memory,496533]]"
-  - "[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]"
-  - "[[_Standards/WikiData/WD~write_only_memory,1535598]]"
-  - "[[_Standards/WikiData/WD~storage_capacity,2308599]]"
-  - "[[_Standards/WikiData/WD~computer_memory,5830907]]"
-  - "[[_Standards/WikiData/WD~Random_Access_Memories,8119033]]"
-  - "[[_Standards/WikiData/WD~non_volatile_memory,10997658]]"
+- '[[_Standards/WikiData/WD~read_only_memory,160710]]'
+- '[[_Standards/WikiData/WD~dynamic_random_access_memory,189396]]'
+- '[[_Standards/WikiData/WD~static_random_access_memory,267416]]'
+- '[[_Standards/WikiData/WD~volatile_memory,496533]]'
+- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]'
+- '[[_Standards/WikiData/WD~write_only_memory,1535598]]'
+- '[[_Standards/WikiData/WD~storage_capacity,2308599]]'
+- '[[_Standards/WikiData/WD~computer_memory,5830907]]'
+- '[[_Standards/WikiData/WD~Random_Access_Memories,8119033]]'
+- '[[_Standards/WikiData/WD~non_volatile_memory,10997658]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~dynamic_random_access_memory,189396]]"
-  - "[[_Standards/WikiData/WD~static_random_access_memory,267416]]"
-  - "[[_Standards/WikiData/WD~DDR_SDRAM,333914]]"
-  - "[[_Standards/WikiData/WD~DDR2_SDRAM,847146]]"
-  - "[[_Standards/WikiData/WD~DDR3_SDRAM,847207]]"
-  - "[[_Standards/WikiData/WD~LPDDR,869101]]"
-  - "[[_Standards/WikiData/WD~DDR4_SDRAM,1189682]]"
-  - "[[_Standards/WikiData/WD~SDR_SDRAM,6116127]]"
-  - "[[_Standards/WikiData/WD~LPDDR3,16651575]]"
-  - "[[_Standards/WikiData/WD~LPDDR2,16651572]]"
-  - "[[_Standards/WikiData/WD~LPDDR4,17619409]]"
-  - "[[_Standards/WikiData/WD~DDR5_SDRAM,28444653]]"
-  - "[[_Standards/WikiData/WD~LPDDR5,107545378]]"
-  - "[[_Standards/WikiData/WD~LPDDR6,125209195]]"
+- '[[_Standards/WikiData/WD~dynamic_random_access_memory,189396]]'
+- '[[_Standards/WikiData/WD~static_random_access_memory,267416]]'
+- '[[_Standards/WikiData/WD~DDR_SDRAM,333914]]'
+- '[[_Standards/WikiData/WD~DDR2_SDRAM,847146]]'
+- '[[_Standards/WikiData/WD~DDR3_SDRAM,847207]]'
+- '[[_Standards/WikiData/WD~LPDDR,869101]]'
+- '[[_Standards/WikiData/WD~DDR4_SDRAM,1189682]]'
+- '[[_Standards/WikiData/WD~SDR_SDRAM,6116127]]'
+- '[[_Standards/WikiData/WD~LPDDR3,16651575]]'
+- '[[_Standards/WikiData/WD~LPDDR2,16651572]]'
+- '[[_Standards/WikiData/WD~LPDDR4,17619409]]'
+- '[[_Standards/WikiData/WD~DDR5_SDRAM,28444653]]'
+- '[[_Standards/WikiData/WD~LPDDR5,107545378]]'
+- '[[_Standards/WikiData/WD~LPDDR6,125209195]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~Corsair_Gaming,552969]]"
-  - "[[_Standards/WikiData/WD~Kingston_Technology,683771]]"
-  - "[[_Standards/WikiData/WD~Micron_Technology,1197548]]"
-  - "[[_Standards/WikiData/WD~Mushkin,6941284]]"
-  - "[[_Standards/WikiData/WD~Samsung_Electronics,20718]]"
-has_use: "[[_Standards/WikiData/WD~computer_memory,5830907]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~primary_memory,11140433]]"
+- '[[_Standards/WikiData/WD~Corsair_Gaming,552969]]'
+- '[[_Standards/WikiData/WD~Kingston_Technology,683771]]'
+- '[[_Standards/WikiData/WD~Micron_Technology,1197548]]'
+- '[[_Standards/WikiData/WD~Mushkin,6941284]]'
+- '[[_Standards/WikiData/WD~Samsung_Electronics,20718]]'
+has_use: '[[_Standards/WikiData/WD~computer_memory,5830907]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~primary_memory,11140433]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~volatile_storage,112801081]]"
-  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]"
+- '[[_Standards/WikiData/WD~volatile_storage,112801081]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
 Wikidata_property: RAM capacity
 Commons_gallery: RAM
 Commons_category: RAM
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KVR400X64C3AK2%20-%202G.jpg
 IEV_number: 171-04-27
-UNSPSC_Code: "32101601"
+UNSPSC_Code: 32101601
 short_name: RAM
+dv_has_:
+  name_:
+    af: ewetoeganklike geheue
+    ar: ذاكرة الوصول العشوائي
+    arz: رام
+    ast: memoria d'accesu aleatoriu
+    awa: रैम
+    az: operativ yaddaş qurğusu
+    azb: رم(کامپیوتر)
+    be: памяць з адвольным доступам
+    be-tarask: памяць з адвольным доступам
+    bg: памет с произволен достъп
+    bn: র্যান্ডম অ্যাক্সেস মেমোরি
+    br: memor bresk
+    ca: memòria d'accés aleatori
+    ckb: بیرگەی دەستپێگەیشتن-بەھەڵکەوت
+    de: Random-Access Memory
+    de-ch: Random-Access Memory
+    el: μνήμη τυχαίας προσπέλασης
+    en: random-access memory
+    en-ca: random-access memory
+    en-gb: random-access memory
+    eo: ĉefmemoro
+    es: memoria de acceso aleatorio
+    et: muutmälu
+    eu: Random Access Memory
+    fa: حافظه دسترسی تصادفی
+    fi: hajasaantimuisti
+    fr: mémoire vive
+    fy: Wurkûnthâld
+    ga: cuimhne randamrochtana
+    gl: memoria de acceso aleatorio
+    gsw: Random-Access Memory
+    he: זיכרון גישה אקראית
+    hi: रैम
+    hif: Random-access memory
+    hy: օպերատիվ հիշողություն
+    id: memori akses acak
+    ja: ランダムアクセスメモリ
+    ka: თავისუფალი შეღწევის მეხსიერება
+    kaa: operativ yad
+    kk: Жедел Жадтау Құрылғысы
+    ko: 랜덤 액세스 메모리
+    ko-kp: 주기억기
+    ky: жады
+    la: memoria volatilis
+    lt: operatyvioji atmintis
+    lv: brīvpiekļuves atmiņa
+    mhr: КОШ
+    min: memori akses acak
+    mk: RAM меморија
+    ml: റാൻഡം ആക്സസ് മെമ്മറി
+    mn: шуурхай санах ой
+    mr: रॅम
+    ms: ingatan capaian rawak
+    mul: RAM
+    nb: hovedminne
+    ne: र् याम
+    new: राम्
+    nl: random-access memory
+    nn: Random Access Memory
+    oc: Memòria d'accès aleatòri
+    pa: ਰੈਂਡਮ-ਐਕਸੈਸ ਮੈਮੋਰੀ
+    pl: pamięć o dostępie swobodnym
+    pms: random access memory
+    pnb: ریم
+    ps: ريم
+    pt: memória de acesso aleatório
+    pt-br: memória de acesso randômico
+    ro: RAM
+    ru: запоминающее устройство с произвольным доступом
+    rue: операчна память
+    sc: memòria a atzessu casuale
+    sco: random-access memory
+    sg: mémoire
+    si: රැම්
+    sk: pamäť s priamym prístupom
+    sl: pomnilnik z naključnim dostopom
+    sq: kujtesë me hyrje të rastësishme
+    sr: радна меморија
+    sv: random access memory
+    sw: KUFINA
+    ta: நேரடி அணுகல் நினைவகம்
+    te: రాండమ్ ఏక్సెస్ మెమరీ
+    tg: хотираи дастраси аҳёнӣ
+    th: แรม
+    tl: random access memory
+    uk: пам'ять з довільним доступом
+    ur: تصادفی رسائی حافظہ
+    uz: tezkor xotira
+    wuu: 随机存取存储器
+    xmf: ოპერატიული შვენა
+    yi: RAM זיכרון
+    zh: 随机存取存储器
+    zh-hant: 隨機存取記憶體
+    zh-tw: 隨機存取記憶體
 ---
-
 # [[RAM(Random Access Memory)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Random-access_memory,5295|WD~Random-access_memory,5295]] 

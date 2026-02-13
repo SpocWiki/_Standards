@@ -1,44 +1,192 @@
 ---
 aliases:
+- beroving
+- chhiúⁿ-kiap
+- cướp
+- dizî
+- grabitja
+- Irsızlık
+- jawq'a
+- lapurreta
+- loupež
+- paghabon
+- perampokan
+- plėšimas
+- rablás
+- rabo
+- rabùnk
+- ran
+- rapina
+- rapto
+- Raub
+- razbojništvo
+- robatori
+- robbery
+- robo
+- robu
+- robáil
+- rompakan
+- rop
+- roubo
+- rozbój
+- ryöstö
+- rán
+- rån
+- rööv
+- røveri
+- soygun
+- talonchilik
+- vol avec violence
+- vòl
+- ysbeiliad
+- ληστεία
+- грабёж
+- грабіж
+- грабеж
+- дуздӣ
+- пљачка
+- рабунак
+- талор
+- тонау
+- ғоратгарӣ
+- կողոպուտ
+- שוד
+- دزیکردن
+- دستبرد
+- سرقة بالإكراه
+- ڈاکا
+- ڌاڙو
+- ডাকাতি
+- ਡਕੈਤੀ
+- దోపిడీ
+- ಡಕಾಯಿತಿ
+- โจรกรรม
+- 強盗
+- 打劫
+- 抢劫
+- 搶劫
+- 강도
 has_id_wikidata: Q53706
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~misdemeanor,694324]]"
-  - "[[_Standards/WikiData/WD~violent_crime,1520311]]"
-  - "[[_Standards/WikiData/WD~theft,2727213]]"
+- '[[_Standards/WikiData/WD~misdemeanor,694324]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~theft,2727213]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]"
-  - "[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]"
-  - "[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]"
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]'
+- '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Ukraine,5761127]]'
 different_from:
-  - "[[_Standards/WikiData/WD~hijacking,1933595]]"
-  - "[[_Standards/WikiData/WD~Raub,2352205]]"
-  - "[[_Standards/WikiData/WD~theft,2727213]]"
-  - "[[_Standards/WikiData/WD~Rapina,7294269]]"
-practiced_by: "[[_Standards/WikiData/WD~robber,10659189]]"
+- '[[_Standards/WikiData/WD~hijacking,1933595]]'
+- '[[_Standards/WikiData/WD~Raub,2352205]]'
+- '[[_Standards/WikiData/WD~theft,2727213]]'
+- '[[_Standards/WikiData/WD~Rapina,7294269]]'
+practiced_by: '[[_Standards/WikiData/WD~robber,10659189]]'
 Commons_category: Robbery
-U_S_National_Archives_Identifier: "10645279"
+U_S_National_Archives_Identifier: 10645279
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Shafer%20cartoon%20about%20mugging.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-12762%2C%20Bank%C3%BCberfall%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Shafer%20cartoon%20about%20mugging.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-12762%2C%20Bank%C3%BCberfall%20%28cropped%29.jpg
 IMDb_keyword:
-  - hold-up
-  - robbery
+- hold-up
+- robbery
 Iconclass_notation: 44G522
 booru_tag: robbery
-MIL_STD_2525_Symbol_Identification_Code: "10014000001101160000"
+MIL_STD_2525_Symbol_Identification_Code: 10014000001101160000
+dv_has_:
+  name_:
+    ady: Грабёж
+    ar: سرقة بالإكراه
+    ast: robu
+    ay: jawq'a
+    bcl: paghabon
+    be: рабунак
+    be-tarask: рабунак
+    bg: грабеж
+    bn: ডাকাতি
+    ca: robatori
+    ce: талор
+    ckb: دزیکردن
+    cs: loupež
+    csb: rabùnk
+    cy: ysbeiliad
+    da: røveri
+    de: Raub
+    de-ch: Raub
+    el: ληστεία
+    en: robbery
+    en-ca: robbery
+    en-gb: robbery
+    eo: rabo
+    es: robo
+    et: rööv
+    eu: lapurreta
+    fa: دستبرد
+    fi: ryöstö
+    fr: vol avec violence
+    ga: robáil
+    gag: Irsızlık
+    gl: roubo
+    he: שוד
+    ht: vòl
+    hu: rablás
+    hy: կողոպուտ
+    id: perampokan
+    io: rapto
+    is: rán
+    it: rapina
+    ja: 強盗
+    kk: тонау
+    kn: ಡಕಾಯಿತಿ
+    ko: 강도
+    ku: dizî
+    ku-latn: dizî
+    la: rapina
+    lt: plėšimas
+    mk: грабеж
+    ms: rompakan
+    nan: chhiúⁿ-kiap
+    nb: ran
+    nl: beroving
+    nn: ran
+    pa: ਡਕੈਤੀ
+    pl: rozbój
+    pt: roubo
+    ru: грабёж
+    scn: rapina
+    sco: robbery
+    sd: ڌاڙو
+    sh: razbojništvo
+    sl: rop
+    sq: grabitja
+    sr: пљачка
+    sv: rån
+    te: దోపిడీ
+    tg: дуздӣ
+    tg-cyrl: ғоратгарӣ
+    th: โจรกรรม
+    tr: soygun
+    uk: грабіж
+    ur: ڈاکا
+    uz: talonchilik
+    vi: cướp
+    wuu: 抢劫
+    yue: 打劫
+    zh: 抢劫
+    zh-hans: 抢劫
+    zh-hant: 搶劫
+    zh-tw: 搶劫
 ---
-
 # [[Robbery]] 
 
 #is_/same_as :: [[WD~Robbery,53706]] 

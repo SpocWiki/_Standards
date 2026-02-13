@@ -1,13 +1,86 @@
 ---
 aliases:
-  - Bomber
+- '1: بم اچونکې الوتکې'
+- avion bombardues
+- bombagirdi
+- Bombalawşı
+- Bombardaviono
+- bombardeiro
+- bombarder
+- bombardero
+- bombarderski avion
+- Bombarderu
+- bombardier
+- bombardiere
+- Bombardimonchi
+- Bombardié
+- bombardmançı
+- bombardovacie lietadlo
+- bombardovací letoun
+- Bombardıman uçağı
+- bombaviadilo
+- Bombağa totuçı
+- bombe-girtie
+- bombefly
+- Bomber
+- bombezer
+- bombflygplan
+- bombnik
+- Bombonešis
+- bombázó
+- bommenwerper
+- Bommesmiter
+- Bomwerper
+- Bonbaketari
+- bumbbagirdde
+- bumbvedējs
+- Chidí naatʼaʼítsoh beeʼeldǫǫh bikǫʼ neiyéhé
+- máy bay ném bom
+- Pesawat pengebom
+- pommikone
+- pommitaja
+- pommjarplaan
+- Po̍k-kek-ki
+- samolot bombowy
+- Sprengjuflugvél
+- Βομβαρδιστικό αεροσκάφος
+- бамбавік
+- Бамбардзіроўшчык
+- Бомбалаушы
+- бомбардер
+- бомбардерски авион
+- Бомбардировач
+- бомбардировщик
+- бомбардувальник
+- Бумбафкан
+- Бөмбөгдөгч онгоц
+- ռմբակոծիչ
+- מפציץ
+- بمبار طیارہ
+- بمبافکن
+- بمبر (ہوائی جہاز)
+- بومبالاۋشى
+- بۆمبھاوێژ
+- قاذفة قنابل
+- बमवर्षक
+- ਬੰਬਰ
+- குண்டுவீச்சு வானூர்தி
+- ബോംബർ വിമാനം
+- බෝම්බ හෙලන ගුවන් යානාව
+- เครื่องบินทิ้งระเบิด
+- ဗုံးကြဲလေယာဉ်များ
+- ႁိူဝ်းမိၼ်ပွႆႇမၢၵ်ႇ
+- 爆撃機
+- 轟炸機
+- 轰炸机
+- 폭격기
 has_id_wikidata: Q170877
 has_use: '[[_Standards/WikiData/WD~airstrike,2380335]]'
 instance_of: '[[_Standards/WikiData/WD~aircraft_functional_class,20027953]]'
 subclass_of: '[[_Standards/WikiData/WD~attack_airplane,65924079]]'
 military_designation:
-  - B
-  - VB
+- B
+- VB
 Nomenclature_for_Museum_Cataloging: 11706
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B-1B%20over%20the%20pacific%20ocean.jpg
 MIL_STD_2525_Symbol_Identification_Code: 10010100001101030000
@@ -15,6 +88,108 @@ UNSPSC_Code: 25131701
 Common_Procurement_Vocabulary_code: 35611300
 P8189: 987007283109605171
 Commons_category: Bomber aircraft
+dv_has_:
+  name_:
+    af: Bomwerper
+    an: Bombardero
+    ar: قاذفة قنابل
+    ast: Bombarderu
+    az: bombardmançı
+    be: Бамбардзіроўшчык
+    be-tarask: бамбавік
+    bg: Бомбардировач
+    br: bombezer
+    bs: bombarder
+    ca: bombarder
+    ckb: بۆمبھاوێژ
+    cs: bombardovací letoun
+    da: bombefly
+    de: Bomber
+    el: Βομβαρδιστικό αεροσκάφος
+    en: bomber
+    eo: bombaviadilo
+    es: bombardero
+    et: pommitaja
+    eu: Bonbaketari
+    fa: بمبافکن
+    fi: pommikone
+    fr: bombardier
+    fy: Bommesmiter
+    gl: bombardeiro
+    he: מפציץ
+    hi: बमवर्षक
+    hr: Bombarder
+    hu: bombázó
+    hy: ռմբակոծիչ
+    id: Pesawat pengebom
+    io: Bombardaviono
+    is: Sprengjuflugvél
+    it: bombardiere
+    ja: 爆撃機
+    kk: Бомбалаушы
+    kk-arab: بومبالاۋشى
+    kk-cn: بومبالاۋشى
+    kk-cyrl: Бомбалаушы
+    kk-kz: Бомбалаушы
+    kk-latn: Bombalawşı
+    kk-tr: Bombalawşı
+    ko: 폭격기
+    lmo: Bombarder
+    lt: Bombonešis
+    lv: bumbvedējs
+    mk: бомбардер
+    ml: ബോംബർ വിമാനം
+    mn: Бөмбөгдөгч онгоц
+    ms: Pesawat pengebom
+    my: ဗုံးကြဲလေယာဉ်များ
+    nan: Po̍k-kek-ki
+    nb: bombefly
+    nl: bommenwerper
+    nn: bombefly
+    nv: Chidí naatʼaʼítsoh beeʼeldǫǫh bikǫʼ neiyéhé
+    oc: Bombardier
+    pa: ਬੰਬਰ
+    pl: samolot bombowy
+    pms: Bombardié
+    pnb: بمبر (ہوائی جہاز)
+    ps: '1: بم اچونکې الوتکې'
+    pt: bombardeiro
+    ro: Bombardier
+    ru: бомбардировщик
+    se: bombagirdi
+    sh: Bombarder
+    shn: ႁိူဝ်းမိၼ်ပွႆႇမၢၵ်ႇ
+    si: බෝම්බ හෙලන ගුවන් යානාව
+    sk: bombardovacie lietadlo
+    sl: bombnik
+    sma: bombe-girtie
+    smj: bumbbagirdde
+    sms: pommjarplaan
+    sq: avion bombardues
+    sr: бомбардерски авион
+    sr-ec: бомбардерски авион
+    sr-el: bombarderski avion
+    sv: bombflygplan
+    ta: குண்டுவீச்சு வானூர்தி
+    tg: Бумбафкан
+    th: เครื่องบินทิ้งระเบิด
+    tr: Bombardıman uçağı
+    tt: Bombağa totuçı
+    uk: бомбардувальник
+    ur: بمبار طیارہ
+    uz: Bombardimonchi
+    vi: máy bay ném bom
+    wuu: 轰炸机
+    yue: 轟炸機
+    zh: 轟炸機
+    zh-cn: 轰炸机
+    zh-hans: 轰炸机
+    zh-hant: 轟炸機
+    zh-hk: 轟炸機
+    zh-mo: 轟炸機
+    zh-my: 轰炸机
+    zh-sg: 轰炸机
+    zh-tw: 轟炸機
 ---
 # [[Bomber]] 
 

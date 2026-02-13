@@ -1,32 +1,301 @@
 ---
 aliases:
-  - person
-  - Person
-  - is_a_person
-  - dbo:Person
-  - schema:Person
-  - natural person
+- asmenybė
+- dbo:Person
+- Den
+- einstaklingur
+- hende
+- henkilö
+- isik
+- is_a_person
+- jan
+- jomo
+- kanaka
+- Kes
+- kişi
+- Kò-jîn
+- mann
+- moto
+- mutum
+- Nafsi
+- natural person
+- neach
+- người
+- ooumaž
+- orang
+- oseba
+- osoba
+- persoa
+- persoan
+- persoană
+- person
+- persona
+- personne
+- persono
+- persoon
+- Persoun
+- persovdna
+- persovn
+- persuna
+- persónur
+- pertsona
+- Perzoeën
+- pessoa
+- pirsuna
+- prenu
+- pressona
+- pribadi
+- Pèrsonne
+- pösod
+- Qof
+- schema:Person
+- shaxs
+- személy
+- sìɛ́
+- Tamata
+- tao
+- tawu
+- tulǵa
+- táu
+- urang
+- Vo'êstane
+- vunz
+- Wenok
+- wosoba
+- ènìyàn
+- òsoba
+- ôsoba
+- şäxes
+- şəxs
+- κατσίν
+- πρόσωπο
+- Амы-бот
+- асоба
+- Жабысқақтық
+- Инсан
+- личност
+- личность
+- особа
+- харкамлăх
+- шахс
+- шәхес
+- անձ
+- אדם
+- פערזאן
+- اورڠ
+- جݨا
+- شخص
+- فلان
+- ماڻھو
+- کەس
+- ܦܪܨܘܦܐ
+- ߡߐ߬ ߝߊ߬ߘߌ߬ߕߌ߬
+- व्यक्ति
+- व्यक्ती
+- ব্যক্তি
+- ਜਣਾ
+- વ્યક્તિ
+- ବ୍ୟକ୍ତି
+- ஆள் (நபர்)
+- వ్యక్తి
+- വ്യക്തി
+- บุคคล
+- མི་ངོམ་རེ་རེ་བཞིན་དུ
+- မၞိဟ်
+- პიროვნება
+- პიჯი
+- ሰው
+- ᱦᱚᱲ
+- 个人
+- 人
+- 인격체
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 equivalent_class: http://xmlns.com/foaf/0.1/Person
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - person
+- person
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_person Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_person Class
 type: Type
 has_id_wikidata: Q215627
+dv_has_:
+  name_:
+    af: persoon
+    am: ሰው
+    ang: mann
+    ar: شخص
+    arc: ܦܪܨܘܦܐ
+    ary: فلان
+    arz: شخص
+    as: ব্যক্তি
+    ast: persona
+    az: şəxs
+    ba: шәхес
+    bdr: jomo
+    be: асоба
+    be-tarask: асоба
+    bg: личност
+    bn: ব্যক্তি
+    br: Den
+    bs: osoba
+    ca: persona
+    chy: Vo'êstane
+    ckb: کەس
+    cs: osoba
+    csb: òsoba
+    cv: харкамлăх
+    cy: person
+    da: person
+    de: Person
+    de-ch: Person
+    diq: Kes
+    dua: moto
+    dz: མི་ངོམ་རེ་རེ་བཞིན་དུ
+    el: πρόσωπο
+    en: person
+    en-ca: person
+    eo: persono
+    es: persona
+    et: isik
+    eu: pertsona
+    ext: pressona
+    fa: شخص
+    fi: henkilö
+    fj: Tamata
+    fmp: Wenok
+    fo: persónur
+    fr: personne
+    fy: persoan
+    ga: neach
+    gd: neach
+    gl: persoa
+    gsw: Person
+    gu: વ્યક્તિ
+    ha: mutum
+    haw: kanaka
+    he: אדם
+    hi: व्यक्ति
+    hr: osoba
+    hsb: wosoba
+    hu: személy
+    hy: անձ
+    ia: persona
+    id: pribadi
+    ilo: tao
+    io: persono
+    is: einstaklingur
+    it: persona
+    ja: 人
+    jbo: prenu
+    ka: პიროვნება
+    kaa: tulǵa
+    kk: Жабысқақтық
+    ko: 인격체
+    krj: tawu
+    ks: شخص
+    ku-latn: kes
+    ky: Инсан
+    la: persona
+    lb: Persoun
+    lfn: person
+    li: Perzoeën
+    lt: asmenybė
+    lv: persona
+    mcn: sìɛ́
+    min: urang
+    mk: личност
+    ml: വ്യക്തി
+    mnw: မၞိဟ်
+    mr: व्यक्ती
+    ms: orang
+    ms-arab: اورڠ
+    mzn: شخص
+    nan: Kò-jîn
+    nb: person
+    nds: Person
+    nds-nl: persoon
+    ne: व्यक्ति
+    nl: persoon
+    nn: person
+    nqo: ߡߐ߬ ߝߊ߬ߘߌ߬ߕߌ߬
+    nrm: Pèrsonne
+    oc: persona
+    or: ବ୍ୟକ୍ତି
+    pa: ਜਣਾ
+    pam: táu
+    pap: hende
+    pl: osoba
+    pnb: جݨا
+    pnt: κατσίν
+    pt: pessoa
+    pt-br: pessoa
+    rm: persuna
+    ro: persoană
+    ru: личность
+    sat: ᱦᱚᱲ
+    scn: pirsuna
+    sco: person
+    sd: ماڻھو
+    se: persovdna
+    sh: osoba
+    sk: osoba
+    sl: oseba
+    smn: persovn
+    sms: ooumaž
+    so: Qof
+    sq: person
+    sr: особа
+    sr-ec: особа
+    sr-el: osoba
+    stq: Persoon
+    sv: person
+    sw: Nafsi
+    szl: ôsoba
+    ta: ஆள் (நபர்)
+    te: వ్యక్తి
+    tg: шахс
+    tg-cyrl: шахс
+    th: บุคคล
+    tl: persona
+    tok: jan
+    tr: kişi
+    tt: шәхес
+    tt-cyrl: шәхес
+    tt-latn: şäxes
+    tyv: Амы-бот
+    uk: особа
+    ur: شخص
+    uz: shaxs
+    vec: persona
+    vi: người
+    vo: pösod
+    wuu: 个人
+    xmf: პიჯი
+    yi: פערזאן
+    yo: ènìyàn
+    yue: 人
+    za: vunz
+    zh: 个人
+    zh-cn: 人
+    zh-hans: 人
+    zh-hant: 人
+    zh-hk: 人
+    zh-mo: 人
+    zh-my: 人
+    zh-sg: 人
+    zh-tw: 人
 ---
 # [[Person]] 
 

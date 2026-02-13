@@ -1,18 +1,88 @@
 ---
 aliases:
+- ariā puoro
+- hudební teorie
+- hudobná teória
+- lý thuyết âm nhạc
+- muisic theory
+- Musekstheorie
+- music theory
+- musihkkateoriija
+- musiikinteoria
+- musikaren teoria
+- musikkteori
+- musikkteoria
+- musikteori
+- Musiktheorie
+- Musiqa nazariyasi
+- Musiqi nəzəriyyəsi
+- muusikateooria
+- muusikteoria
+- muziektheorie
+- muzikteorio
+- müzik kuramı
+- mūzikas teorija
+- teoiric an cheoil
+- teori musik
+- teori muzik
+- teoria de la música
+- teoria musical
+- teoria musicale
+- teoria muzicală
+- teoria muzicałe
+- teoria muzyki
+- teorija glasbe
+- teorija glazbe
+- teorija muzike
+- Teoriya ng tugtugin
+- teoría de la música
+- Teoría musical
+- Theoria musicae
+- théorie de la musique
+- Tiurìa musicali
+- Tónfræði
+- zeneelmélet
+- θεωρία της μουσικής
+- музыкæйы теори
+- музыка теориясе
+- музыка теорияһы
+- назарияи мусиқӣ
+- теорія музики
+- теорија музике
+- теорија на музиката
+- Теория музики
+- теория музыки
+- Теория на музиката
+- тэорыя музыкі
+- երաժշտության տեսություն
+- תורת המוזיקה
+- تئوری موسیقی
+- تیۆریی مۆسیقا
+- نظرية الموسيقى
+- نظریہ موسیقی
+- संगीत सिद्धांत
+- সংগীত তত্ত্ব
+- সঙ্গীত তত্ত্ব
+- సంగీత సిద్ధాంతం
+- მუსიკის თეორია
+- 樂理
+- 音乐理论
+- 音楽理論
+- 音樂理論
+- 음악 이론
 has_id_wikidata: Q193544
-part_of: "[[_Standards/WikiData/WD~musicology,164204]]"
+part_of: '[[_Standards/WikiData/WD~musicology,164204]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Music_theory,16327995]]"
-is_the_study_of: "[[_Standards/WikiData/WD~music,638]]"
-subclass_of: "[[_Standards/WikiData/WD~theory,17737]]"
-Dewey_Decimal_Classification: "781"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Music_theory,16327995]]'
+is_the_study_of: '[[_Standards/WikiData/WD~music,638]]'
+subclass_of: '[[_Standards/WikiData/WD~theory,17737]]'
+Dewey_Decimal_Classification: 781
 social_media_followers: 539613
 Commons_category: Music theory
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Title%20page%20of%20Rameau%E2%80%99s%20New%20System%20of%20Musical%20Theory.jpg
@@ -20,8 +90,91 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKI_TEORIYA.html
 Library_of_Congress_Classification: MT5.5-MT7
 GitHub_topic: music-theory
 subreddit: musictheory
+dv_has_:
+  name_:
+    ar: نظرية الموسيقى
+    as: সংগীত তত্ত্ব
+    ast: Teoría musical
+    az: Musiqi nəzəriyyəsi
+    ba: музыка теорияһы
+    be: тэорыя музыкі
+    be-tarask: тэорыя музыкі
+    bg: Теория на музиката
+    bn: সঙ্গীত তত্ত্ব
+    bs: teorija muzike
+    ca: teoria de la música
+    ckb: تیۆریی مۆسیقا
+    cs: hudební teorie
+    da: musikteori
+    de: Musiktheorie
+    el: θεωρία της μουσικής
+    en: music theory
+    eo: muzikteorio
+    es: teoría de la música
+    et: muusikateooria
+    eu: musikaren teoria
+    fa: تئوری موسیقی
+    fi: musiikinteoria
+    fr: théorie de la musique
+    ga: teoiric an cheoil
+    gl: teoría musical
+    he: תורת המוזיקה
+    hi: संगीत सिद्धांत
+    hr: teorija glazbe
+    hu: zeneelmélet
+    hy: երաժշտության տեսություն
+    id: teori musik
+    is: Tónfræði
+    it: teoria musicale
+    ja: 音楽理論
+    ka: მუსიკის თეორია
+    ko: 음악 이론
+    la: Theoria musicae
+    lb: Musekstheorie
+    lv: mūzikas teorija
+    mi: ariā puoro
+    mk: теорија на музиката
+    ms: teori muzik
+    nb: musikkteori
+    nl: muziektheorie
+    nn: Musikkteori
+    os: музыкæйы теори
+    pl: teoria muzyki
+    pt: teoria musical
+    ro: teoria muzicală
+    rsk: Теория музики
+    ru: теория музыки
+    scn: Tiurìa musicali
+    sco: muisic theory
+    se: musihkkateoriija
+    sh: Teorija muzike
+    sk: hudobná teória
+    sl: teorija glasbe
+    smn: muusikteoria
+    sms: musikkteoria
+    sr: теорија музике
+    sr-ec: теорија музике
+    sr-el: teorija muzike
+    sv: musikteori
+    te: సంగీత సిద్ధాంతం
+    tg: назарияи мусиқӣ
+    tl: Teoriya ng tugtugin
+    tr: müzik kuramı
+    tt: музыка теориясе
+    uk: теорія музики
+    ur: نظریہ موسیقی
+    uz: Musiqa nazariyasi
+    vec: teoria muzicałe
+    vi: lý thuyết âm nhạc
+    yue: 樂理
+    zh: 音樂理論
+    zh-cn: 音乐理论
+    zh-hans: 音乐理论
+    zh-hant: 音樂理論
+    zh-hk: 音樂理論
+    zh-sg: 音乐理论
+    zh-tw: 音樂理論
 ---
-
 # [[Music_Theory]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Music_theory,193544|WD~Music_theory,193544]] 

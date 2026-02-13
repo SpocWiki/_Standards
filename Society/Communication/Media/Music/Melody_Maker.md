@@ -1,8 +1,44 @@
 ---
 aliases:
-  - Melody Maker
-  - Melody_Maker
+- Melody Maker
+- Melody_Maker
+- Мелъди Мейкър
+- מלודי מייקר
+- メロディ・メイカー
+- 旋律作者
+- 旋律制造者
+- 멜로디 메이커
 has_id_wikidata: Q580896
+dv_has_:
+  name_:
+    bg: Мелъди Мейкър
+    cs: Melody Maker
+    da: Melody Maker
+    de: Melody Maker
+    en: Melody Maker
+    eo: Melody Maker
+    es: Melody Maker
+    fi: Melody Maker
+    fr: Melody Maker
+    gl: Melody Maker
+    he: מלודי מייקר
+    hr: Melody Maker
+    hu: Melody Maker
+    is: Melody Maker
+    it: Melody Maker
+    ja: メロディ・メイカー
+    ko: 멜로디 메이커
+    nb: Melody Maker
+    nl: Melody Maker
+    pl: Melody Maker
+    pt: Melody Maker
+    ru: Melody Maker
+    sv: Melody Maker
+    sw: Melody Maker
+    tr: Melody Maker
+    uk: Melody Maker
+    zh: 旋律作者
+    zh-hans: 旋律制造者
 ---
 # [[Melody_Maker]] 
 

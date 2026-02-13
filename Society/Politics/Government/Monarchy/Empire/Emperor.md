@@ -1,71 +1,165 @@
 ---
 aliases:
-  - Imperator
-  - empereor
-  - Emperor
+- Amiră
+- Amperador
+- anperè
+- car
+- casere
+- cesar
+- cesarz
+- Ceusair
+- cisár
+- császár
+- cysŏrz
+- césôrz
+- císař
+- emperador
+- empereor
+- empereur
+- Empereus
+- Emperor
+- emperour
+- Enperadore
+- geaissir
+- hoàng đế
+- hungti
+- Huòng-dá̤
+- Hông-tè
+- Impalaer
+- imperador
+- Imperator
+- imperatore
+- imperatorius
+- imperators
+- imperatur
+- imperiestro
+- impir
+- impire
+- Impreur
+- inperador
+- Kaisar
+- Kaiser
+- Kaizari
+- Keeser
+- keisar
+- keisari
+- keiser
+- keizer
+- kejsare
+- kejser
+- kejžor
+- kiäisár
+- Koasa
+- lampöran
+- Mburuvihára
+- mpiraturi
+- Nɛŋa daana
+- Perandori
+- Vong Ti
+- ymerawdwr
+- Împerator
+- împărat
+- İmparator
+- İmperator
+- ǩeeisar
+- αυτοκράτορας
+- αὐτοκράτωρ
+- імператар
+- імператор
+- імпэратар
+- император
+- Императорсь
+- импиратыр
+- Хуанди
+- цар
+- цѣсар҄ь
+- կայսր
+- קיסר
+- إمبراطور
+- ئیمپراتۆر
+- امبراطور
+- امپراتور
+- امپراتیز
+- ایمپیراتور
+- سترواک
+- شهنشاھ
+- شہنشاہ
+- ߝߊ߰ߡߊ
+- सम्राट
+- সম্রাট
+- સમ્રાટ
+- ಚಕ್ರವರ್ತಿ
+- സാമ്രാട്ട്
+- จักรพรรดิ
+- မင်းဧကရာဇ်
+- იმპერატორი
+- ᎤᎬᏫᏳᎯ ᎡᏆ
+- ᡥᡡᠸᠠᠩᡩᡳ
+- 皇帝
+- 황제
 has_id_wikidata: Q39018
 male_form_of_label:
-  - emperador
-  - keisari
-  - imperador
-  - emperador
-  - Kaiser
-  - emperor
-  - император
-  - imperatore
-  - kejser
-  - kejsare
-  - keisar
-  - císař
-  - keiser
-  - emperador
-  - імператор
-  - إمبراطور
-  - emperador
-  - imperatorius
-  - Keeser
-  - emperador
+- emperador
+- keisari
+- imperador
+- emperador
+- Kaiser
+- emperor
+- император
+- imperatore
+- kejser
+- kejsare
+- keisar
+- císař
+- keiser
+- emperador
+- імператор
+- إمبراطور
+- emperador
+- imperatorius
+- Keeser
+- emperador
 female_form_of_label:
-  - imperiestrino
-  - կայսրուհի
-  - Keeserin
-  - cesarzowa
-  - царица
-  - імператорка
-  - императрица
-  - imperatrice
-  - empress
-  - קיסרית
-  - Kaiserin
-  - císařovna
-  - kejsarinna
-  - emperatriz
-  - αυτοκράτειρα
-  - emperatriz
-  - إمبراطورة
-  - emperadriu
-  - impératrice
-  - emperatriz
-  - imperatorienė
-  - імператрыца
-  - nữ hoàng
-  - keizerin
-  - nữ hoàng đế
-  - imperatriz
+- imperiestrino
+- կայսրուհի
+- Keeserin
+- cesarzowa
+- царица
+- імператорка
+- императрица
+- imperatrice
+- empress
+- קיסרית
+- Kaiserin
+- císařovna
+- kejsarinna
+- emperatriz
+- αυτοκράτειρα
+- emperatriz
+- إمبراطورة
+- emperadriu
+- impératrice
+- emperatriz
+- imperatorienė
+- імператрыца
+- nữ hoàng
+- keizerin
+- nữ hoàng đế
+- imperatriz
 instance_of:
-  - '[[_Standards/WikiData/WD~noble_title,355567]]'
-  - '[[_Standards/WikiData/WD~position,4164871]]'
-  - '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~King_of_Kings,938153]]'
-  - '[[_Standards/WikiData/WD~Empress,100387742]]'
+- '[[_Standards/WikiData/WD~King_of_Kings,938153]]'
+- '[[_Standards/WikiData/WD~Empress,100387742]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Imperial_Majesty,3843034]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q122998465,122998465]]'
 depicted_by: '[[_Standards/WikiData/WD~Emperors_Room,131561669]]'
@@ -75,8 +169,155 @@ Commons_category: Emperors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue-Augustus.jpg
 applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/f1661c77ff096240bd8275e89be6a359
 Krugosvet_article: istoriya/IMPERATOR.html
+dv_has_:
+  name_:
+    af: keiser
+    an: Emperador
+    ang: casere
+    ar: إمبراطور
+    ary: إمبراطور
+    arz: امبراطور
+    ast: emperador
+    az: imperator
+    azb: ایمپیراتور
+    ba: Император
+    bar: Koasa
+    bcl: Emperador
+    be: імператар
+    be-tarask: імпэратар
+    bg: Император
+    bn: সম্রাট
+    br: Impalaer
+    bs: Imperator
+    ca: emperador
+    cdo: Huòng-dá̤
+    chr: ᎤᎬᏫᏳᎯ ᎡᏆ
+    ckb: ئیمپراتۆر
+    cs: císař
+    csb: césôrz
+    cu: цѣсар҄ь
+    cy: ymerawdwr
+    da: kejser
+    de: Kaiser
+    diq: İmperator
+    dsb: kejžor
+    el: αυτοκράτορας
+    en: emperor
+    en-ca: emperor
+    en-gb: emperor
+    eo: imperiestro
+    es: emperador
+    et: keiser
+    eu: Enperadore
+    fa: امپراتور
+    fi: keisari
+    fo: Keisari
+    fr: empereur
+    fy: keizer
+    ga: impire
+    gan: 皇帝
+    gd: Ceusair
+    gl: emperador
+    gn: Mburuvihára
+    grc: αὐτοκράτωρ
+    gsw: Kaiser
+    gu: સમ્રાટ
+    gur: Nɛŋa daana
+    gv: impir
+    hak: Vong Ti
+    he: קיסר
+    hr: Car
+    ht: anperè
+    hu: császár
+    hy: կայսր
+    ia: Imperator
+    id: Kaisar
+    is: Keisari
+    it: imperatore
+    ja: 皇帝
+    jv: Kaisar
+    ka: იმპერატორი
+    kk: Император
+    kn: ಚಕ್ರವರ್ತಿ
+    ko: 황제
+    ku: Împerator
+    kw: emperour
+    la: imperator
+    lb: Keeser
+    li: Keizer
+    lmo: Imperador
+    lt: imperatorius
+    lv: imperators
+    lzh: 皇帝
+    mdf: Императорсь
+    min: Kaisar
+    mk: цар
+    ml: സാമ്രാട്ട്
+    mn: Хуанди
+    mnc: ᡥᡡᠸᠠᠩᡩᡳ
+    mr: सम्राट
+    ms: Kaiser
+    mt: imperatur
+    mwl: Amperador
+    my: မင်းဧကရာဇ်
+    mzn: امپراتیز
+    nan: Hông-tè
+    nb: keiser
+    nds: Kaiser
+    nl: keizer
+    nn: keisar
+    nqo: ߝߊ߰ߡߊ
+    nrm: Empereus
+    oc: emperador
+    os: император
+    pl: cesarz
+    pnb: شہنشاہ
+    ps: سترواک
+    pt: imperador
+    pt-br: imperador
+    ro: împărat
+    ru: император
+    rue: Император
+    rup: Amiră
+    scn: mpiraturi
+    sco: emperor
+    sd: شهنشاھ
+    se: geaissir
+    sh: Car
+    sk: cisár
+    sl: cesar
+    smn: kiäisár
+    sms: ǩeeisar
+    sq: Perandori
+    sr: цар
+    sr-ec: цар
+    sr-el: car
+    sv: kejsare
+    sw: Kaizari
+    szl: cysŏrz
+    szy: hungti
+    tg: Император
+    th: จักรพรรดิ
+    tl: Emperador
+    tr: İmparator
+    tt: импиратыр
+    uk: імператор
+    ur: شہنشاہ
+    uz: Imperator
+    vec: inperador
+    vi: hoàng đế
+    vo: lampöran
+    wa: Impreur
+    wuu: 皇帝
+    xmf: იმპერატორი
+    yue: 皇帝
+    zh: 皇帝
+    zh-cn: 皇帝
+    zh-hans: 皇帝
+    zh-hant: 皇帝
+    zh-hk: 皇帝
+    zh-tw: 皇帝
 ---
-
 # [[Emperor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Emperor,39018|WD~Emperor,39018]] 

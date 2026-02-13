@@ -1,42 +1,121 @@
 ---
 aliases:
+- champ magnétique
+- eremu magnetikoaren intentsitate
+- excitació magnètica
+- intensidad de campo magnético
+- intensitate a câmpului magnetic
+- Intenzita magnetického pole
+- intenzita magnetického poľa
+- jakost magnetnega polja
+- magneetisk fialmäächt
+- magneettikentän voimakkuus
+- magneta kampintenso
+- magnetic field strength
+- magnetische Feldstärke
+- magnetische Föödstärkn
+- magnetische veldsterkte
+- magnetisk feltstyrke
+- magnetisk fältstyrka
+- magnetvälja tugevus
+- magnit maydon kuchi
+- mágneses térerősség
+- natężenie pola magnetycznego
+- јачина магнетног поља
+- јачина на магнетно поле
+- интензитет на магнитното поле
+- магнит өрісінің кернеулігі
+- магнитла уй хиврелĕхĕ
+- напружанасць магнітнага поля
+- напружанасьць магнітнага поля
+- напруженість магнітного поля
+- напряжённость магнитного поля
+- մագնիսական դաշտի լարվածություն
+- עוצמת שדה מגנטי
+- شدة المجال المغناطيسي
+- მაგნიტური ველის დაძაბულობა
+- 励磁
+- 勵磁
+- 磁场强度
+- 磁場の強さ
 has_id_wikidata: Q28123
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~field,185674]]"
-  - "[[_Standards/WikiData/WD~field_strength,1365197]]"
-  - "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~field,185674]]'
+- '[[_Standards/WikiData/WD~field_strength,1365197]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
 part_of:
-  - "[[_Standards/WikiData/WD~magnetostatics,665093]]"
-  - "[[_Standards/WikiData/WD~magnetism,3294789]]"
+- '[[_Standards/WikiData/WD~magnetostatics,665093]]'
+- '[[_Standards/WikiData/WD~magnetism,3294789]]'
 different_from:
-  - "[[_Standards/WikiData/WD~field_strength,1365197]]"
-  - "[[_Standards/WikiData/WD~gravitational_field_strength,21652129]]"
-  - "[[../../../WikiData/WD~magnetic_flux_density,30204]]"
+- '[[_Standards/WikiData/WD~field_strength,1365197]]'
+- '[[_Standards/WikiData/WD~gravitational_field_strength,21652129]]'
+- '[[../../../WikiData/WD~magnetic_flux_density,30204]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~ampere_per_metre,2844478]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~technical_term,12812139]]"
-quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑯</mi></mrow></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere_per_metre,2844478]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~technical_term,12812139]]'
+quantity_symbol_LaTeX_: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑯</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mrow data-mjx-texclass="ORD"><mi>𝑱</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">t</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">t</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑴</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝐫</mi><mi>𝐨</mi><mi>𝐭</mi></mrow></mrow><mo>&#x2061;</mo><mrow data-mjx-texclass="ORD"><mi>𝑭</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D471</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D474</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D42B</mi><mi>\U0001D428</mi><mi>\U0001D42D</mi></mrow></mrow><mo>&#x2061;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mstyle></mrow></math>"
 defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝐫</mi><mi>𝐨</mi><mi>𝐭</mi></mrow></mrow><mo>&#x2061;</mo><mrow data-mjx-texclass="ORD"><mi>𝑯</mi></mrow><mo stretchy="false">=</mo><msub><mrow data-mjx-texclass="ORD"><mi>𝑱</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">t</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">t</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑯</mi></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mrow></mfrac></mrow><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mi>𝑴</mi></mrow></mstyle></mrow></math>
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow></mstyle></mrow></math>
-facet_of: "[[_Standards/WikiData/WD~magnetic_field,11408]]"
-named_after: "[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D42B</mi><mi>\U0001D428</mi><mi>\U0001D42D</mi></mrow></mrow><mo>&#x2061;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">=</mo><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D471</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub></mrow></mfrac></mrow><mo stretchy=\"false\">&#x2212;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D474</mi></mrow></mstyle></mrow></math>"
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow></mstyle></mrow></math>"
+facet_of: '[[_Standards/WikiData/WD~magnetic_field,11408]]'
+named_after: '[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]'
 IEV_number: 121-11-56
+dv_has_:
+  name_:
+    ar: شدة المجال المغناطيسي
+    bar: magnetische Föödstärkn
+    be: напружанасць магнітнага поля
+    be-tarask: напружанасьць магнітнага поля
+    bg: интензитет на магнитното поле
+    ca: excitació magnètica
+    cs: Intenzita magnetického pole
+    cv: магнитла уй хиврелĕхĕ
+    da: magnetisk feltstyrke
+    de: magnetische Feldstärke
+    en: magnetic field strength
+    eo: magneta kampintenso
+    es: intensidad de campo magnético
+    et: magnetvälja tugevus
+    eu: eremu magnetikoaren intentsitate
+    fi: magneettikentän voimakkuus
+    fr: champ magnétique
+    frr: magneetisk fialmäächt
+    he: עוצמת שדה מגנטי
+    hu: mágneses térerősség
+    hy: մագնիսական դաշտի լարվածություն
+    ja: 磁場の強さ
+    ka: მაგნიტური ველის დაძაბულობა
+    kk: магнит өрісінің кернеулігі
+    mk: јачина на магнетно поле
+    nb: magnetisk feltstyrke
+    nl: magnetische veldsterkte
+    nn: magnetisk feltstyrke
+    pl: natężenie pola magnetycznego
+    ro: intensitate a câmpului magnetic
+    ru: напряжённость магнитного поля
+    sk: intenzita magnetického poľa
+    sl: jakost magnetnega polja
+    sr: јачина магнетног поља
+    sv: magnetisk fältstyrka
+    uk: напруженість магнітного поля
+    uz: magnit maydon kuchi
+    zh: 磁场强度
+    zh-cn: 励磁
+    zh-hant: 勵磁
 ---
-
 # [[Dim~Magnetic_Field_Strength_H]] 
 
 #is_/similar_to :: [[../Dim~Magnetic_Flux_Density_B]] 

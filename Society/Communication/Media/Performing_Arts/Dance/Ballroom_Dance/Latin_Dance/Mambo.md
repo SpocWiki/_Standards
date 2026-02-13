@@ -1,16 +1,76 @@
 ---
-has_time_started: 1938-01-01 
+has_time_started: 1938-01-01
 aliases:
+- mambo
+- mambó
+- Μάμπο
+- мамба
+- мамбо
+- Մամբո (պար)
+- Մամպօ (պար)
+- ממבו
+- مامبو
+- میمبو
+- মাম্বো (নৃত্য)
+- มัมโบ
+- マンボ
+- 曼波舞
+- 맘보
 has_id_wikidata: Q333002
-named_after: "[[_Standards/WikiData/WD~Mambo,16915553]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-subclass_of: "[[_Standards/WikiData/WD~dance,11639]]"
-country_of_origin: "[[_Standards/WikiData/WD~Cuba,241]]"
+named_after: '[[_Standards/WikiData/WD~Mambo,16915553]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~dance,11639]]'
+country_of_origin: '[[_Standards/WikiData/WD~Cuba,241]]'
 Commons_category: Mambo
 start_time: 1938-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation28.JPG
+dv_has_:
+  name_:
+    ar: مامبو
+    as: মাম্বো (নৃত্য)
+    be-tarask: мамба
+    bg: мамбо
+    br: Mambo
+    ca: mambo
+    cs: mambo
+    da: Mambo
+    de: Mambo
+    el: Μάμπο
+    en: mambo
+    eo: Mambo
+    es: Mambo
+    et: Mambo
+    eu: mambo
+    fi: Mambo
+    fr: mambo
+    fur: Mambo
+    gl: Mambo
+    he: ממבו
+    hr: Mambo
+    hu: mambó
+    hy: Մամբո (պար)
+    hyw: Մամպօ (պար)
+    it: mambo
+    ja: マンボ
+    ko: 맘보
+    mk: Мамбо
+    nb: mambo
+    nl: mambo
+    pl: Mambo
+    pt: mambo
+    ru: мамбо
+    sh: Mambo
+    sr: Мамбо
+    sr-ec: Мамбо
+    sr-el: Mambo
+    sv: mambo
+    th: มัมโบ
+    uk: Мамбо
+    ur: میمبو
+    yue: 曼波舞
+    zh: 曼波舞
+    zh-tw: 曼波舞
 ---
-
 # [[Mambo]] 
 
 #is_/same_as :: [[WD~Mambo,333002]] 

@@ -1,8 +1,278 @@
 ---
 has_id_wikidata: Q22687
+dv_has_:
+  name_:
+    af: Bank
+    am: ባንክ
+    ar: مصرف
+    arc: ܒܝܬ ܥܘܪܦܢܐ
+    arq: بنك
+    arz: بنك
+    as: বেংক
+    ast: bancu
+    atj: coriawikamikw
+    az: bank
+    azb: بانک
+    ba: банк
+    be: банк
+    be-tarask: банк
+    bew: Bang
+    bg: Банка
+    bn: ব্যাংক
+    br: bank
+    bs: banka
+    bxr: Банк
+    ca: banc
+    cdo: Ngṳ̀ng-hòng
+    ckb: بانک
+    cs: banka
+    cv: Банк
+    cy: banc
+    da: bank
+    dag: banki
+    de: Bank
+    diq: Bank
+    el: τράπεζα
+    en: bank
+    en-ca: bank
+    en-gb: bank
+    en-us: Bank
+    eo: banko
+    es: banco
+    et: pank
+    eu: Banku
+    fa: بانک
+    fat: Sikakorabea
+    fi: pankki
+    fj: Baqe
+    fr: banque
+    frr: Beenken
+    fy: Bank (finansjele ynstelling)
+    ga: banc
+    gd: Banca
+    gl: banco
+    gn: Viruróga
+    gom: बँको आनी बँकींग
+    gor: Bank
+    gu: બેંક
+    gv: banc
+    ha: banki
+    hak: Ngiùn-hòng
+    haw: Panakō
+    he: בנק
+    hi: बैंक
+    hr: banka
+    ht: Labank
+    hu: bank
+    hy: բանկ
+    ia: banca
+    iba: Bank
+    id: bank
+    ig: Ụlọ akụ́
+    io: Banko
+    is: Banki
+    it: banca
+    ja: 銀行
+    jv: Bank
+    ka: ბანკი
+    kaa: Bank
+    kbp: Liidiye koozaɣ
+    kcg: a̱lisaaikurum
+    kk: Банк
+    kn: ಬ್ಯಾಂಕ್
+    ko: 은행
+    ks: بیٚنٛک
+    ku: bank
+    ky: Банк
+    la: Argentaria
+    lb: Bank
+    lmo: Banca
+    lt: bankas
+    lv: banka
+    mai: बैंक
+    mg: Banky
+    mhr: банк
+    mi: pēke
+    min: Bank
+    mk: банка
+    ml: ബാങ്ക്
+    mn: Банк
+    mr: बँक
+    ms: bank
+    ms-arab: بڠک
+    my: ဘဏ်
+    nan: Gîn-hâng
+    nb: bank
+    ne: बैंक
+    new: बैंक
+    nl: bank
+    nn: bank
+    nqo: ߜߍߓߏ߲
+    nrm: Banque
+    oc: Banca
+    om: Baankii
+    or: ବ୍ୟାଙ୍କ
+    os: банк
+    pa: ਬੈਂਕ
+    pam: bangku
+    pfl: Bong
+    pl: bank
+    pnb: بینک
+    ps: بانک
+    pt: banco
+    pt-br: Banco
+    qu: Qullqi wasi
+    rm: Banca
+    ro: bancă
+    ru: банк
+    rue: банк
+    sah: Баан
+    sat: ᱵᱮᱝᱠ
+    scn: bancu
+    sco: bank
+    sd: بئنڪ
+    se: báŋku
+    sgs: Banks
+    sh: banka
+    shn: ပၢၼ်ႇ
+    si: බැංකු
+    sje: báŋŋka
+    sk: Banka
+    sl: banka
+    sma: baanghke
+    smj: báŋŋka
+    smn: paŋkki
+    sms: baŋkk
+    so: Banki
+    sq: bankë
+    sr: банка
+    sr-ec: банка
+    sr-el: banka
+    su: Bank
+    sv: bank
+    sw: Benki
+    szy: gingku
+    ta: வங்கி
+    te: బ్యాంకు
+    tg: бонк
+    th: ธนาคาร
+    tl: Bangko
+    to: Pangikē
+    tr: banka
+    tt: банк
+    tt-cyrl: банк
+    tw: Sikakorabea
+    uk: банк
+    ur: بنک
+    uz: Bank
+    vi: ngân hàng
+    wa: Banke
+    war: Bangko
+    wuu: 银行
+    yi: באנק
+    yue: 銀行
+    za: Yinzhangz
+    zh: 銀行
+    zh-cn: 银行
+    zh-hans: 银行
+    zh-hant: 銀行
+    zh-hk: 銀行
+    zh-mo: 銀行
+    zh-my: 银行
+    zh-sg: 银行
+    zh-tw: 銀行
+aliases:
+- Argentaria
+- a̱lisaaikurum
+- baanghke
+- Baankii
+- banc
+- Banca
+- Banco
+- bancu
+- bancă
+- Bang
+- Bangko
+- bangku
+- Bank
+- Bank (finansjele ynstelling)
+- banka
+- bankas
+- Banke
+- banki
+- Banko
+- Banks
+- Banku
+- Banky
+- bankë
+- Banque
+- Baqe
+- baŋkk
+- Beenken
+- Benki
+- Bong
+- báŋku
+- báŋŋka
+- coriawikamikw
+- gingku
+- Gîn-hâng
+- Labank
+- Liidiye koozaɣ
+- Ngiùn-hòng
+- ngân hàng
+- Ngṳ̀ng-hòng
+- Panakō
+- Pangikē
+- pank
+- pankki
+- paŋkki
+- pēke
+- Qullqi wasi
+- Sikakorabea
+- Viruróga
+- Yinzhangz
+- τράπεζα
+- Баан
+- Банк
+- банка
+- бонк
+- բանկ
+- באנק
+- בנק
+- بئنڪ
+- بانک
+- بنك
+- بنک
+- بڠک
+- بینک
+- بیٚنٛک
+- مصرف
+- ܒܝܬ ܥܘܪܦܢܐ
+- ߜߍߓߏ߲
+- बँक
+- बँको आनी बँकींग
+- बैंक
+- বেংক
+- ব্যাংক
+- ਬੈਂਕ
+- બેંક
+- ବ୍ୟାଙ୍କ
+- வங்கி
+- బ్యాంకు
+- ಬ್ಯಾಂಕ್
+- ബാങ്ക്
+- බැංකු
+- ธนาคาร
+- ပၢၼ်ႇ
+- ဘဏ်
+- ბანკი
+- ባንክ
+- ᱵᱮᱝᱠ
+- Ụlọ akụ́
+- 銀行
+- 银行
+- 은행
 ---
-
-
 # [[Bank]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bank,22687|WD~Bank,22687]] 

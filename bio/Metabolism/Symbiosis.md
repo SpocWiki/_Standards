@@ -1,39 +1,203 @@
 ---
 aliases:
-  - endosymbiosis
-  - endosymbiose
-  - Symbiose
-  - Symbiosis
+- Biyo-soce
+- cộng sinh
+- endosymbiose
+- endosymbiosis
+- Interaksi Ékosistem
+- kesvewans
+- samlífi
+- selbesw
+- senbyoz
+- simanın nağılı
+- simbiose
+- simbiosi
+- simbiosis
+- simbioso
+- Simbioz
+- simbioza
+- simbioze
+- simbiozo
+- simbioză
+- simbiozė
+- simbiyosis
+- simbiyoz beslenme
+- sinbiosi
+- sinbioze
+- siombóis
+- Symbioas
+- symbioos
+- symbioosi
+- symbios
+- symbiosa
+- Symbiose
+- Symbiosis
+- symbioza
+- symbióza
+- szimbiózis
+- sümbioos
+- Tamsetlelt (tasnudert)
+- Συμβίωση
+- сімбіёз
+- селбесу
+- симбіоз
+- симбиоз
+- симбиоза
+- сымбіёз
+- Սիմբիոզ
+- סימביוזה
+- تعايش
+- سیمبیوز
+- سەلبەسۋ
+- همزیستی
+- ګډژوندون
+- ھاوگوزەرانی
+- सहजीवन
+- ਸਹਿਜੀਵਨ
+- ஒன்றிய வாழ்வு
+- ಸಹಜೀವನ
+- സഹജീവനം
+- ภาวะอยู่ร่วมกัน
+- ဆင်ဗိုင်အိုစစ်
+- სიმბიოზი
+- 共生
+- 공생
 has_id_wikidata: Q121610
 Commons_category: Symbiosis
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 exact_match: http://purl.obolibrary.org/obo/GO_0044403
 facet_of:
-  - '[[_Standards/WikiData/WD~symbiogenesis,2030494]]'
+- '[[_Standards/WikiData/WD~symbiogenesis,2030494]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~symbiont,2374421]]'
+- '[[_Standards/WikiData/WD~symbiont,2374421]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Common%20clownfish%20curves%20dnsmpl.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hummingbird%20hawkmoth%20a.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Common%20clownfish%20curves%20dnsmpl.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hummingbird%20hawkmoth%20a.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
 Krugosvet_article: biologiya/simbioz
 Library_of_Congress_Classification: QH548-QH548.3
 MeSH_tree_code:
-  - G06.550.800
-  - G16.840
+- G06.550.800
+- G16.840
 OmegaWiki_Defined_Meaning: 3691
 opposite_of: '[[_Standards/WikiData/WD~antibiosis,770530]]'
 P8189: 987007553531805200
 subclass_of:
-  - '[[_Standards/WikiData/WD~cooperation,380962]]'
-  - '[[_Standards/WikiData/WD~cross_species_interaction,111171519]]'
+- '[[_Standards/WikiData/WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~cross_species_interaction,111171519]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    af: simbiose
+    ar: تعايش
+    az: simanın nağılı
+    azb: سیمبیوز
+    be: сімбіёз
+    be-tarask: сымбіёз
+    bg: симбиоза
+    bs: simbioza
+    ca: simbiosi
+    ckb: ھاوگوزەرانی
+    cs: symbióza
+    da: symbiose
+    de: Symbiose
+    el: Συμβίωση
+    en: symbiosis
+    eo: simbiozo
+    es: simbiosis
+    et: sümbioos
+    eu: sinbiosi
+    fa: همزیستی
+    fi: symbioosi
+    fr: symbiose
+    ga: siombóis
+    gl: simbiose
+    ha: Symbiosis
+    he: סימביוזה
+    hi: सहजीवन
+    hr: simbioza
+    ht: senbyoz
+    hu: szimbiózis
+    hy: Սիմբիոզ
+    id: simbiosis
+    ie: simbiose
+    io: simbioso
+    is: samlífi
+    it: simbiosi
+    ja: 共生
+    jv: Interaksi Ékosistem
+    ka: სიმბიოზი
+    kab: Tamsetlelt (tasnudert)
+    kk: селбесу
+    kk-arab: سەلبەسۋ
+    kk-cn: سەلبەسۋ
+    kk-cyrl: селбесу
+    kk-kz: селбесу
+    kk-latn: selbesw
+    kk-tr: selbesw
+    kn: ಸಹಜೀವನ
+    ko: 공생
+    kw: kesvewans
+    ky: симбиоз
+    la: symbiosis
+    li: Symbioas
+    lt: simbiozė
+    lv: simbioze
+    mk: симбиоза
+    ml: സഹജീവനം
+    mn: Симбиоз
+    ms: simbiosis
+    my: ဆင်ဗိုင်အိုစစ်
+    nb: symbiose
+    nl: symbiose
+    nn: symbiose
+    om: symbiosis
+    os: симбиоз
+    pa: ਸਹਿਜੀਵਨ
+    pl: symbioza
+    ps: ګډژوندون
+    pt: simbiose
+    rki: ဆင်ဗိုင်အိုစစ်
+    ro: simbioză
+    ru: симбиоз
+    sco: symbiosis
+    se: symbiosa
+    sh: simbioza
+    sk: symbióza
+    sl: simbioza
+    smn: symbioos
+    sms: symbioos
+    sq: Simbioza
+    sr: симбиоза
+    sr-ec: симбиоза
+    sr-el: simbioza
+    sv: symbios
+    ta: ஒன்றிய வாழ்வு
+    th: ภาวะอยู่ร่วมกัน
+    tl: simbiyosis
+    tr: simbiyoz beslenme
+    tt: симбиоз
+    uk: симбіоз
+    uz: Simbioz
+    vec: sinbioze
+    vi: cộng sinh
+    wa: Biyo-soce
+    war: Simbiyosis
+    wuu: 共生
+    xmf: სიმბიოზი
+    yue: 共生
+    zh: 共生
+    zh-cn: 共生
+    zh-hans: 共生
+    zh-hant: 共生
+    zh-hk: 共生
+    zh-sg: 共生
+    zh-tw: 共生
 ---
-
 # [[Symbiosis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Symbiosis,121610|WD~Symbiosis,121610]] 

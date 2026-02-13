@@ -1,11 +1,65 @@
 ---
 aliases:
-  - rule of law
-  - legal state
-  - state of law
-  - state of justice
-  - state based on justice and integrity
-  - Rechtsstaat
+- estado de derecho
+- Estado de dereito
+- estado de direito
+- estado di derecho
+- estat de dret
+- estáu de drechu
+- Fanjakana tan-dalàna
+- gwladwriaeth gyfreithiol
+- horttibosko them
+- huquqiy davlat
+- hüquqi dövlət
+- jogállam
+- jurŝtato
+- legal state
+- oikeusvaltio
+- państwo prawa
+- pravna država
+- prawny stat
+- Právny štát
+- právní stát
+- Rechtsstaat
+- Regnum legis
+- retsstat
+- rettsstat
+- riehtistaatâ
+- riektestáhta
+- riektiestaate
+- riektástáhtta
+- rule of law
+- Rächtsschtaat
+- rättsstat
+- Stad a wir
+- Stat de Diritt
+- stat de drept
+- state based on justice and integrity
+- state of justice
+- state of law
+- stato de derecto
+- stato di diritto
+- statu di drittu
+- Teisinė valstybė
+- vuõiggâdvuõttvaldia
+- État de droit
+- õigusriik
+- Κράτος δικαίου
+- прававая дзяржава
+- Правна држава
+- правова держава
+- Правова държава
+- правовое государство
+- хокукый дәүләт
+- Құқықтық мемлекет
+- دولة القانون
+- رشتشتات
+- রেখটসষ্টাট
+- นิติรัฐ
+- საკანონმდებლო სახელმწიფო
+- 法治国
+- 法治国家
+- 法治國
 has_id_wikidata: Q4209223
 instance_of: '[[_Standards/WikiData/WD~legal_doctrine,1192543]]'
 opposite_of: '[[_Standards/WikiData/WD~Unrechtsstaat,1503467]]'
@@ -13,14 +67,94 @@ different_from: '[[_Standards/WikiData/WD~State_of_Law_Coalition,1971776]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
 part_of: '[[_Standards/WikiData/WD~rule_of_law,7378937]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Rechtsstaat_statt_Revolution,_Verrechtlichung_statt_Demokratie_,65013282]]'
-  - '[[_Standards/WikiData/WD~Rechtsstaat_versus_Demokratie,65015824]]'
+- '[[_Standards/WikiData/WD~Rechtsstaat_statt_Revolution,_Verrechtlichung_statt_Demokratie_,65013282]]'
+- '[[_Standards/WikiData/WD~Rechtsstaat_versus_Demokratie,65015824]]'
 subclass_of: '[[_Standards/WikiData/WD~state,7275]]'
 Dewey_Decimal_Classification:
-  - 320.1
-  - 340.11
+- 320.1
+- 340.11
+dv_has_:
+  name_:
+    ar: دولة القانون
+    ast: estáu de drechu
+    az: hüquqi dövlət
+    be: прававая дзяржава
+    be-tarask: прававая дзяржава
+    bg: Правова държава
+    bn: রেখটসষ্টাট
+    br: Stad a wir
+    bs: pravna država
+    ca: estat de dret
+    cs: právní stát
+    cy: gwladwriaeth gyfreithiol
+    da: retsstat
+    de: Rechtsstaat
+    de-ch: Rechtsstaat
+    el: Κράτος δικαίου
+    en: Rechtsstaat
+    en-ca: Rechtsstaat
+    en-gb: Rechtsstaat
+    eo: jurŝtato
+    es: estado de derecho
+    et: õigusriik
+    fa: رشتشتات
+    fi: oikeusvaltio
+    fr: État de droit
+    ga: Rechtsstaat
+    gl: Estado de dereito
+    gsw: Rächtsschtaat
+    hr: Pravna država
+    hsb: prawny stat
+    hu: jogállam
+    ia: stato de derecto
+    id: Rechtsstaat
+    io: Rechtsstaat
+    it: stato di diritto
+    ja: 法治国家
+    ka: საკანონმდებლო სახელმწიფო
+    kk: Құқықтық мемлекет
+    la: Regnum legis
+    lmo: Stat de Diritt
+    lt: Teisinė valstybė
+    mg: Fanjakana tan-dalàna
+    mk: Правна држава
+    nb: rettsstat
+    nds: Rechtsstaat
+    nl: rechtsstaat
+    nn: rettsstat
+    oc: Estat de Dret
+    pap: estado di derecho
+    pl: państwo prawa
+    pt: estado de direito
+    pt-br: estado de direito
+    rmf: horttibosko them
+    ro: stat de drept
+    ru: правовое государство
+    scn: statu di drittu
+    sco: rechtsstaat
+    se: riektestáhta
+    sh: Pravna država
+    sk: Právny štát
+    sl: pravna država
+    sma: riektiestaate
+    smj: riektástáhtta
+    smn: riehtistaatâ
+    sms: vuõiggâdvuõttvaldia
+    sr: правна држава
+    sr-ec: правна држава
+    sr-el: pravna država
+    sv: rättsstat
+    th: นิติรัฐ
+    tr: Rechtsstaat
+    tt: хокукый дәүләт
+    tt-cyrl: хокукый дәүләт
+    uk: правова держава
+    uz: huquqiy davlat
+    vi: Rechtsstaat
+    zh: 法治国
+    zh-cn: 法治国家
+    zh-hant: 法治國
 ---
-
 # [[Rechtsstaat]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Rechtsstaat,4209223]] 

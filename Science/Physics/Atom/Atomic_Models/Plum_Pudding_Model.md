@@ -1,20 +1,124 @@
 ---
 aliases:
-  - plum pudding model
-  - Plum_Pudding_Model
-  - Plum Pudding Model
+- Atom uchun Tomson modeli
+- atommodelo de Thomson
+- atoommodel van Thomson
+- model atomu Thomsona
+- Model atòmic de Thomson
+- Model puding prem
+- modello atomico di Thomson
+- modelo atómico de Thomson
+- modelo atômico de thomson
+- Modelu atómicu de Thomson
+- Modelul atomic Thomson
+- modèle atomique de Thomson
+- Mô hình mứt mận
+- plum pudding model
+- Plum_Pudding_Model
+- Thompsonov model atoma
+- Thomson atom modeli
+- Thomson-féle atommodell
+- Thomsonen eredu atomikoa
+- Thomsonin atomimalli
+- Thomsonov model atoma
+- Thomsonov model atómu
+- Thomsons atommodel
+- Thomsons atommodell
+- Thomsons rosinbollemodell
+- Thomsonsches Atommodell
+- Thomsonův model atomu
+- Tomson atom modeli
+- Tomsonov model atoma
+- Ατομικό μοντέλο του σταφιδόψωμου
+- Атомның Томсон моделі
+- Мадэль атама Томсана
+- Модель атома Томсона
+- Թոմսոնի ատոմի մոդելը
+- מודל עוגת הצימוקים
+- تھامسن ماڈل
+- مدل تامسون
+- نموذج طومسون للذرة
+- पल्म पुडिंग मॉडल
+- থমসন পরমাণু মডেল
+- ਪਲੱਮ ਪੁਡਿੰਗ ਨਮੂਨਾ
+- செ. செ. தாம்சனின் அணு மாதிரி
+- ప్లం పుడింగ్ నమూనా
+- പ്ലം പുഡിങ് മാതൃക
+- ප්ලම් පුඩින් ආකෘතිය
+- แบบจำลองอะตอมของทอมสัน
+- ブドウパンモデル
+- 梅子布丁模型
+- 톰슨 원자 모형
 has_id_wikidata: Q274116
 instance_of: '[[_Standards/WikiData/WD~atom_model,780649]]'
 inception:
-  - 1897-01-01T00:00:00Z
-  - 1904-01-01T00:00:00Z
+- 1897-01-01T00:00:00Z
+- 1904-01-01T00:00:00Z
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~electron,2225]]'
 creator: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
 named_after: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plum%20pudding%20atom.svg
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PlumPuddingModel"]
+dv_has_:
+  name_:
+    ar: نموذج طومسون للذرة
+    ast: Modelu atómicu de Thomson
+    az: Tomson atom modeli
+    be: Мадэль атама Томсана
+    be-tarask: мадэль атама Томсана
+    bn: থমসন পরমাণু মডেল
+    ca: Model atòmic de Thomson
+    cs: Thomsonův model atomu
+    da: Thomsons atommodel
+    de: Thomsonsches Atommodell
+    el: Ατομικό μοντέλο του σταφιδόψωμου
+    en: plum pudding model
+    eo: atommodelo de Thomson
+    es: modelo atómico de Thomson
+    eu: Thomsonen eredu atomikoa
+    fa: مدل تامسون
+    fi: Thomsonin atomimalli
+    fr: modèle atomique de Thomson
+    he: מודל עוגת הצימוקים
+    hi: पल्म पुडिंग मॉडल
+    hr: Thompsonov model atoma
+    hu: Thomson-féle atommodell
+    hy: Թոմսոնի ատոմի մոդելը
+    id: Model puding prem
+    it: modello atomico di Thomson
+    ja: ブドウパンモデル
+    kk: Атомның Томсон моделі
+    ko: 톰슨 원자 모형
+    ml: പ്ലം പുഡിങ് മാതൃക
+    nb: Thomsons rosinbollemodell
+    nl: atoommodel van Thomson
+    pa: ਪਲੱਮ ਪੁਡਿੰਗ ਨਮੂਨਾ
+    pl: model atomu Thomsona
+    pnb: تھامسن ماڈل
+    pt: modelo atômico de thomson
+    ro: Modelul atomic Thomson
+    ru: Модель атома Томсона
+    sh: Thomsonov model atoma
+    si: ප්ලම් පුඩින් ආකෘතිය
+    sk: Thomsonov model atómu
+    sr: Tomsonov model atoma
+    sv: Thomsons atommodell
+    ta: செ. செ. தாம்சனின் அணு மாதிரி
+    te: ప్లం పుడింగ్ నమూనా
+    th: แบบจำลองอะตอมของทอมสัน
+    tr: Thomson atom modeli
+    uk: Модель атома Томсона
+    uz: Atom uchun Tomson modeli
+    vi: Mô hình mứt mận
+    wuu: 梅子布丁模型
+    zh: 梅子布丁模型
+    zh-cn: 梅子布丁模型
+    zh-hans: 梅子布丁模型
+    zh-hant: 梅子布丁模型
+    zh-hk: 梅子布丁模型
+    zh-sg: 梅子布丁模型
+    zh-tw: 梅子布丁模型
 ---
-
 # [[Plum_Pudding_Model]] 
 
 #is_/same_as :: [[WD~Plum_pudding_model,274116]] 

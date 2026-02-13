@@ -1,18 +1,112 @@
 ---
 aliases:
+- Dějiny hinduismu
+- Geschichte des Hinduismus
+- Geschiedenis van het hindoeïsme
+- hinduisma vēsture
+- hinduisme historie
+- Hinduismens historie
+- hinduismoaren historia
+- Hinduizm tarihi
+- Hinduizmo istorija
+- hindulaisuuden historia
+- histoire de l'hindouisme
+- Historia del hinduismo
+- historia do hinduísmo
+- Historia hinduizmu
+- historio de Hinduismo
+- history i hiudui
+- history of Hinduism
+- història de l'hinduisme
+- Istorija hinduizma
+- storia dell'induismo
+- zgodovina hinduizma
+- історія індуїзму
+- гісторыя індуізму
+- история индуизма
+- Հինդուիզմի պատմություն
+- היסטוריה של ההינדואיזם
+- تاريخ الهندوسية
+- تاریخچة آیین هندوئیسم
+- هندومت جي تاريخ
+- ہندو دھرم دی تریخ
+- ہندومت کی تاریخ
+- हिंदू धर्माचा इतिहास
+- हिन्दुधर्मस्य इतिहासः
+- हिन्दू धर्म का इतिहास
+- हिन्दू धर्मको इतिहास
+- হিন্দুধর্মের ইতিহাস
+- ਹਿੰਦੂ ਧਰਮ ਦਾ ਇਤਿਹਾਸ
+- இந்து சமய வரலாறு
+- హిందూ మతం యొక్క చరిత్ర
+- ಹಿಂದೂ ಧರ್ಮದ ಇತಿಹಾಸ
+- හින්දුසමයේ ඉතිහාසය
+- ประวัติศาสนาฮินดู
+- རྒྱ་གར་ཆོས་འབྱུང་
+- ヒンドゥー教の歴史
+- 印度教历史
+- 힌두교의 역사
 has_id_wikidata: Q1192933
-part_of: "[[_Standards/WikiData/WD~history_of_religions,846742]]"
+part_of: '[[_Standards/WikiData/WD~history_of_religions,846742]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~history_of_religions,846742]]"
-  - "[[_Standards/WikiData/WD~Hindu_studies,5766501]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
+- '[[_Standards/WikiData/WD~history_of_religions,846742]]'
+- '[[_Standards/WikiData/WD~Hindu_studies,5766501]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krishna%20Rukmini%20Satyabhama%20Garuda.jpg
 Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/history
 Commons_category: History of Hinduism
+dv_has_:
+  name_:
+    ar: تاريخ الهندوسية
+    be: гісторыя індуізму
+    be-tarask: гісторыя індуізму
+    bn: হিন্দুধর্মের ইতিহাস
+    bo: རྒྱ་གར་ཆོས་འབྱུང་
+    ca: història de l'hinduisme
+    cs: Dějiny hinduismu
+    da: Hinduismens historie
+    de: Geschichte des Hinduismus
+    en: history of Hinduism
+    eo: historio de Hinduismo
+    es: Historia del hinduismo
+    eu: hinduismoaren historia
+    fa: تاریخچة آیین هندوئیسم
+    fi: hindulaisuuden historia
+    fr: histoire de l'hindouisme
+    gl: historia do hinduísmo
+    he: היסטוריה של ההינדואיזם
+    hi: हिन्दू धर्म का इतिहास
+    hy: Հինդուիզմի պատմություն
+    it: storia dell'induismo
+    ja: ヒンドゥー教の歴史
+    kn: ಹಿಂದೂ ಧರ್ಮದ ಇತಿಹಾಸ
+    ko: 힌두교의 역사
+    lt: Hinduizmo istorija
+    lv: hinduisma vēsture
+    mr: हिंदू धर्माचा इतिहास
+    nb: hinduisme historie
+    ne: हिन्दू धर्मको इतिहास
+    nl: Geschiedenis van het hindoeïsme
+    pa: ਹਿੰਦੂ ਧਰਮ ਦਾ ਇਤਿਹਾਸ
+    pl: Historia hinduizmu
+    pnb: ہندو دھرم دی تریخ
+    ru: история индуизма
+    sa: हिन्दुधर्मस्य इतिहासः
+    sd: هندومت جي تاريخ
+    si: හින්දුසමයේ ඉතිහාසය
+    sl: zgodovina hinduizma
+    sr: Istorija hinduizma
+    sv: history i hiudui
+    ta: இந்து சமய வரலாறு
+    te: హిందూ మతం యొక్క చరిత్ర
+    th: ประวัติศาสนาฮินดู
+    tr: Hinduizm tarihi
+    uk: історія індуїзму
+    ur: ہندومت کی تاریخ
+    zh: 印度教历史
 ---
-
 # [[History_of_Hinduism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~History_of_Hinduism,1192933|WD~History_of_Hinduism,1192933]] 

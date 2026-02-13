@@ -1,16 +1,82 @@
 ---
 aliases:
-  - legendary creature
-  - Mythical Creature
-  - Mythische Kreatur
-  - Mythical_Creature
+- Alamat na linalang
+- bajkovito stvorenje
+- creadur chwedlonol
+- Creatura fabularis
+- creatura mitologica
+- Creutairean
+- criatura lendária
+- criatura mitològica
+- criatura mitológica
+- criatura mitolóxica
+- créature légendaire
+- efsanevi varlık
+- fabeldyr
+- fabelvesen
+- Fabelwese
+- Fabelwesen
+- Fabelwiesen
+- izaki mitologiko
+- Krijesa legjendare
+- legendary creature
+- Mahluqatê efsanewi
+- makhluk mitologis
+- makhluk mitos
+- mifologijə vyčud
+- Mifologik obrazlar
+- mita kreitaĵo
+- mitikus lény
+- mitoloģisks radījums
+- mitološko bitje
+- mitološko stvorenje
+- Mythical Creature
+- Mythical_Creature
+- mythisch wezen
+- Mythische Kreatur
+- mytická bytost
+- Mytysk wêzen
+- müütiline olend
+- neach ón miotaseolaíocht
+- sagodjur
+- sinh vật huyền thoại
+- stworzenie mityczne
+- taruolento
+- Vættur
+- μυθικό πλάσμα
+- бајковито створење
+- міталягічная істота
+- міфічна істота
+- міфічная істота
+- митично същество
+- митско суштество
+- мифическое существо
+- առասպելական էակ
+- יצור מיתולוגי
+- اَفسٲنوی مخلوٗق
+- بوونەوەری ئەفسانەیی
+- جانوران افسانهای
+- كائن اسطورى
+- مخلوق أسطوري
+- مخلوق ميتوس
+- काल्पनिक प्राणी
+- কাল্পনিক জীব
+- কিংবদন্তিমূলক জীৱ
+- ლეგენდარული არსება
+- 传说中的生物
+- 傳說中的生物
+- 傳說生物
+- 奇幻生物
+- 神話の生き物
+- ꯂꯩ ꯍꯥꯢꯅ ꯊꯥꯖꯅꯕ ꯊꯋꯥꯢ ꯄꯥꯟꯕ
+- 전설 속 생물
 has_id_wikidata: Q2239243
 fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~creature,1274979]]'
 has_list: '[[_Standards/WikiData/WD~list_of_legendary_creatures,2383080]]'
 different_from: '[[_Standards/WikiData/WD~fictional_creature,2593744]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~mythical_entity,24334685]]'
-  - '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~mythical_entity,24334685]]'
+- '[[_Standards/WikiData/WD~organism,7239]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Legendary_creatures,52678482]]'
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 OmegaWiki_Defined_Meaning: 463768
@@ -19,8 +85,79 @@ Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/mythical-creatu
 MeSH_tree_code: I01.076.201.450.515.500
 Commons_category: Legendary creatures
 Dewey_Decimal_Classification: 398.2454
+dv_has_:
+  name_:
+    ar: مخلوق أسطوري
+    arz: كائن اسطورى
+    as: কিংবদন্তিমূলক জীৱ
+    bcl: Alamat na linalang
+    be: міфічная істота
+    be-tarask: міталягічная істота
+    bg: митично същество
+    bn: কাল্পনিক জীব
+    ca: criatura mitològica
+    ckb: بوونەوەری ئەفسانەیی
+    cs: mytická bytost
+    cy: creadur chwedlonol
+    da: fabeldyr
+    de: Fabelwesen
+    diq: Mahluqatê efsanewi
+    el: μυθικό πλάσμα
+    en: mythical creature
+    eo: mita kreitaĵo
+    es: criatura mitológica
+    et: müütiline olend
+    eu: izaki mitologiko
+    fa: جانوران افسانهای
+    fi: taruolento
+    fr: créature légendaire
+    fy: Mytysk wêzen
+    ga: neach ón miotaseolaíocht
+    gd: Creutairean
+    gl: criatura mitolóxica
+    gsw: Fabelwese
+    he: יצור מיתולוגי
+    hi: काल्पनिक प्राणी
+    hr: mitološko stvorenje
+    hu: mitikus lény
+    hy: առասպելական էակ
+    id: makhluk mitologis
+    is: Vættur
+    it: creatura mitologica
+    ja: 神話の生き物
+    ka: ლეგენდარული არსება
+    ko: 전설 속 생물
+    ks: اَفسٲنوی مخلوٗق
+    la: Creatura fabularis
+    lb: Fabelwiesen
+    lv: mitoloģisks radījums
+    mk: митско суштество
+    mni: ꯂꯩ ꯍꯥꯢꯅ ꯊꯥꯖꯅꯕ ꯊꯋꯥꯢ ꯄꯥꯟꯕ
+    ms: makhluk mitos
+    ms-arab: مخلوق ميتوس
+    nb: fabelvesen
+    nl: mythisch wezen
+    nn: fabeldyr
+    pl: stworzenie mityczne
+    pt: criatura lendária
+    ru: мифическое существо
+    sl: mitološko bitje
+    sq: Krijesa legjendare
+    sr: бајковито створење
+    sr-ec: бајковито створење
+    sr-el: bajkovito stvorenje
+    sv: sagodjur
+    tly: mifologijə vyčud
+    tr: efsanevi varlık
+    uk: міфічна істота
+    uz: Mifologik obrazlar
+    vi: sinh vật huyền thoại
+    yue: 傳說生物
+    zh: 奇幻生物
+    zh-cn: 传说中的生物
+    zh-hans: 传说中的生物
+    zh-hant: 傳說中的生物
 ---
-
 # [[Mythical_Creature]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~mythical_creature,2239243]] 

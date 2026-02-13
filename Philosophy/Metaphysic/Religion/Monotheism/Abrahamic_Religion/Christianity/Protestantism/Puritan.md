@@ -1,28 +1,164 @@
 ---
 aliases:
-  - Puritaner
-  - Puritan
+- Chheng-kàu-tô͘
+- Hreintrúarstefna
+- piwritaniaeth
+- Piúratánaigh
+- Poritanisma
+- Puritaan
+- Puritan
+- Puritanci
+- Puritanegezh
+- Puritaner
+- puritani
+- Puritanism
+- puritanisme
+- Puritanismi
+- puritanismo
+- Puritanismu
+- Puritanismus
+- puritanizam
+- puritanizmus
+- puritanlar
+- Puritano
+- Puritans
+- Puritanus
+- Puritanët
+- puriteinen
+- puritonai
+- puritáni
+- puritāņi
+- Purytanizm
+- Pwrïtanïzm
+- Püritenler
+- Thanh giáo
+- Πουριτανισμός
+- Пуританаш
+- пуритане
+- пуритани
+- пуританизам
+- пуританизм
+- Пуританство
+- Пуританци
+- пурытанства
+- Պուրիտանություն
+- פוריטניות
+- بيوريتانيه
+- تطهيرية
+- پۋرىيتانىيزم
+- پیوریتنها
+- پیوریٹن
+- พิวริตัน
+- პურიტანები
+- ピューリタン
+- 清教徒
+- 청교도
 has_id_wikidata: Q137073
 subclass_of:
-  - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
-  - "[[_Standards/WikiData/WD~Protestantism,23540]]"
-opposite_of: "[[_Standards/WikiData/WD~anglo_catholicism,541235]]"
+- '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+- '[[_Standards/WikiData/WD~Protestantism,23540]]'
+opposite_of: '[[_Standards/WikiData/WD~anglo_catholicism,541235]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Colon_Classification: Q65
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PuritanGallery.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PURITANTIZM.html
 Commons_category: Puritans
+dv_has_:
+  name_:
+    ar: تطهيرية
+    arz: بيوريتانيه
+    ast: Puritanismu
+    az: puritanlar
+    be: пурытанства
+    be-tarask: пурытанства
+    bg: Пуританство
+    br: Puritanegezh
+    ca: puritanisme
+    ce: Пуританаш
+    cs: puritáni
+    cy: piwritaniaeth
+    da: Puritanisme
+    de: Puritanismus
+    el: Πουριτανισμός
+    en: Puritans
+    eo: Puritanismo
+    es: puritanismo
+    et: Puritaan
+    eu: Puritanismo
+    fa: پیوریتنها
+    fi: Puritanismi
+    fr: puritanisme
+    fy: puriteinen
+    ga: Piúratánaigh
+    gl: Puritanismo
+    he: פוריטניות
+    hr: puritanizam
+    hu: puritanizmus
+    hy: Պուրիտանություն
+    id: Puritan
+    io: Puritano
+    is: Hreintrúarstefna
+    it: puritani
+    ja: ピューリタン
+    ka: პურიტანები
+    kk: пуританизм
+    kk-arab: پۋرىيتانىيزم
+    kk-cn: پۋرىيتانىيزم
+    kk-cyrl: Пуританизм
+    kk-kz: Пуританизм
+    kk-latn: Pwrïtanïzm
+    kk-tr: Pwrïtanïzm
+    ko: 청교도
+    la: Puritanus
+    lfn: Puritanisme
+    lt: puritonai
+    lv: puritāņi
+    mg: Poritanisma
+    mk: пуританизам
+    ms: puritanisme
+    nan: Chheng-kàu-tô͘
+    nb: puritanisme
+    nl: puritanisme
+    nn: puritanisme
+    oc: Puritanisme
+    pl: Purytanizm
+    pt: puritanismo
+    pt-br: puritanismo
+    ro: Puritanism
+    ru: пуритане
+    sh: Puritanci
+    sk: Puritáni
+    sl: puritanci
+    sq: Puritanët
+    sr: Пуританци
+    sr-ec: Пуританци
+    sr-el: Puritanci
+    sv: puritanism
+    th: พิวริตัน
+    tr: Püritenler
+    uk: пуритани
+    ur: پیوریٹن
+    uz: Puritanlar
+    vi: Thanh giáo
+    wuu: 清教徒
+    yue: 清教徒
+    zh: 清教徒
+    zh-cn: 清教徒
+    zh-hans: 清教徒
+    zh-hant: 清教徒
+    zh-hk: 清教徒
+    zh-sg: 清教徒
+    zh-tw: 清教徒
 ---
-
 # [[Puritan]] 
 
 #is_/same_as :: [[WD~Puritans,137073]] 

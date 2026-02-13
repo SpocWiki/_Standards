@@ -1,33 +1,61 @@
 ---
-has_time_started: 2006-10-04 
+has_time_started: 2006-10-04
 aliases:
+- WikiLeaks
+- ВикиЛикс
+- УикиЛийкс
+- ՎիքիԼիքս
+- ויקיליקס
+- تسريبات ويكيليكس
+- ويكيليكيس
+- ويکيلېکس
+- وکی لیکس
+- ویکی لیکس
+- ویکیلیکس
+- ڤیکی لیکس
+- विकिलिक्स
+- विकिलीक्स
+- উইকিলিকস
+- ਵਿਕੀਲੀਕਸ
+- விக்கிலீக்ஸ்
+- వికీలీక్స్
+- ವಿಕಿಲೀಕ್ಸ್
+- വിക്കിലീക് സ്
+- විකීලීක්ස්
+- วิกิลีกส์
+- ვიკილიქსი
+- ウィキリークス
+- 維基解密
+- 维基解密
+- ꠃꠁꠇꠤꠟꠤꠇ꠆ꠍ
+- 위키리크스
 has_id_wikidata: Q359
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~whistleblower_platform,1344897]]"
-award_received: "[[_Standards/WikiData/WD~Walkley_Award_for_Most_Outstanding_Contribution_to_Journalism,7962552]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_WikiLeaks,13318013]]"
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~whistleblower_platform,1344897]]'
+award_received: '[[_Standards/WikiData/WD~Walkley_Award_for_Most_Outstanding_Contribution_to_Journalism,7962552]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_WikiLeaks,13318013]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Tactical_Media_Files,130563651]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_WikiLeaks,19762699]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
-developer: "[[_Standards/WikiData/WD~Julian_Assange,360]]"
-creator: "[[_Standards/WikiData/WD~Julian_Assange,360]]"
-founded_by: "[[_Standards/WikiData/WD~Julian_Assange,360]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-has_goal: "[[_Standards/WikiData/WD~whistleblower,26102]]"
-software_engine: "[[_Standards/WikiData/WD~Q83,83]]"
-platform: "[[_Standards/WikiData/WD~Android,94]]"
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+- '[[_Standards/WikiData/WD~Tactical_Media_Files,130563651]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_WikiLeaks,19762699]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+developer: '[[_Standards/WikiData/WD~Julian_Assange,360]]'
+creator: '[[_Standards/WikiData/WD~Julian_Assange,360]]'
+founded_by: '[[_Standards/WikiData/WD~Julian_Assange,360]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+has_goal: '[[_Standards/WikiData/WD~whistleblower,26102]]'
+software_engine: '[[_Standards/WikiData/WD~Q83,83]]'
+platform: '[[_Standards/WikiData/WD~Android,94]]'
 Alexa_rank: 16899
 official_website: https://wikileaks.org/
 social_media_followers: 5649417
 native_label: WikiLeaks
 subreddit:
-  - wikileaks
-  - WikiLeaks
+- wikileaks
+- WikiLeaks
 Facebook_username: wikileaks
 X_Twitter_username: wikileaks
 Know_Your_Meme_slug: wikileaks
@@ -37,8 +65,48 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikileaks%20logo.
 official_shop_URL: https://wikileaks.shop/
 public_key_fingerprint: A04C 5E09 ED02 B328 03EB 6116 93ED 732E
 inception: 2006-10-04T00:00:00Z
+dv_has_:
+  name_:
+    af: WikiLeaks
+    ar: ويكيليكيس
+    arz: تسريبات ويكيليكس
+    bg: УикиЛийкс
+    bn: উইকিলিকস
+    ckb: ویکیلیکس
+    cv: ВикиЛикс
+    en: WikiLeaks
+    fa: ویکیلیکس
+    he: ויקיליקס
+    hi: विकिलीक्स
+    hif: Wikileaks
+    hy: ՎիքիԼիքս
+    ja: ウィキリークス
+    kn: ವಿಕಿಲೀಕ್ಸ್
+    ko: 위키리크스
+    lrc: ڤیکی لیکس
+    lzh: 維基解密
+    mag: विकिलिक्स
+    mk: Викиликс
+    ml: വിക്കിലീക് സ്
+    mr: विकिलीक्स
+    mul: WikiLeaks
+    mzn: ویکی لیکس
+    ne: विकिलिक्स
+    pa: ਵਿਕੀਲੀਕਸ
+    pnb: وکی لیکس
+    ps: ويکيلېکس
+    si: විකීලීක්ස්
+    sr: Викиликс
+    syl: ꠃꠁꠇꠤꠟꠤꠇ꠆ꠍ
+    ta: விக்கிலீக்ஸ்
+    te: వికీలీక్స్
+    th: วิกิลีกส์
+    xmf: ვიკილიქსი
+    zh: 維基解密
+    zh-hans: 维基解密
+    zh-hant: 維基解密
+    zh-tw: 維基解密
 ---
-
 # [[WikiLeaks]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~WikiLeaks,359|WD~WikiLeaks,359]]  

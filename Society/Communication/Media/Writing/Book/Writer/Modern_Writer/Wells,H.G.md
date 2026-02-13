@@ -1,103 +1,145 @@
 ---
 aliases:
-  - H.G.Wells
-  - H. G. Wells
-  - Herbert George Wells
-  - H._G._Wells
-  - Wells,H.G
+- H. G. Wells
+- H. G. 웰스
+- H.G. Wells
+- H.G.Wells
+- H.G.威爾斯
+- H._G._Wells
+- Herbert George Wells
+- Herbert Uells
+- Herbert Wells
+- Herberts Velss
+- Herbertus Georgius Wells
+- H·G·威尔斯
+- H·G·威爾斯
+- Wells,H.G
+- Χ. Τζ. Γουέλς
+- Герберт Веллс
+- Герберт Уэллс
+- Герберт Уэлс
+- Герберт Уэльс
+- Гэрбэрт Ўэлз
+- Уэллс, Герберт Джордж
+- Херберт Џорџ Велс
+- Хърбърт Уелс
+- Ҳерберт Ҷорҷ Уэллс
+- Հերբերտ Ուելս
+- הרברט ג'ורג' ולס
+- اچ. جی. ولز
+- اچ.جي. وېلز
+- ایچ جی ویلز
+- هربرت جورج ويلز
+- ھێربەرت جۆرج وێڵز
+- ऍच॰ जी॰ वेल्स
+- एच जी वेल्स्
+- एच. जी. वेल्स
+- एच.जी. वेल्स
+- হারবার্ট জর্জ ওয়েল্স
+- ਐਚ ਜੀ ਵੈਲਜ
+- எச். ஜி. வெல்ஸ்
+- హెచ్. జి. వెల్స్
+- ಎಚ್. ಜಿ. ವೆಲ್ಸ್
+- എച്ച്.ജി. വെൽസ്
+- เอช. จี. เวลส์
+- ဝဲလ်၊ အိပ်ချ်၊ ဂျီ
+- ჰერბერტ უელსი
+- ჰერბერტ ჯორჯ უელსი
+- ハーバート・ジョージ・ウェルズ
+- 赫伯特·喬治·威爾斯
 has_id_wikidata: Q42511
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Elizabeth_von_Arnim,76189]]'
-  - '[[_Standards/WikiData/WD~Rebecca_West,236669]]'
-  - '[[_Standards/WikiData/WD~Moura_Budberg,275577]]'
-  - '[[_Standards/WikiData/WD~Margaret_Sanger,285514]]'
-  - '[[_Standards/WikiData/WD~Amber_Reeves,4741298]]'
-  - '[[_Standards/WikiData/WD~Odette_Keun,18126753]]'
+- '[[_Standards/WikiData/WD~Elizabeth_von_Arnim,76189]]'
+- '[[_Standards/WikiData/WD~Rebecca_West,236669]]'
+- '[[_Standards/WikiData/WD~Moura_Budberg,275577]]'
+- '[[_Standards/WikiData/WD~Margaret_Sanger,285514]]'
+- '[[_Standards/WikiData/WD~Amber_Reeves,4741298]]'
+- '[[_Standards/WikiData/WD~Odette_Keun,18126753]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bromley,122892]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_London,170027]]'
-  - '[[_Standards/WikiData/WD~Royal_College_of_Science,7373985]]'
+- '[[_Standards/WikiData/WD~University_of_London,170027]]'
+- '[[_Standards/WikiData/WD~Royal_College_of_Science,7373985]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 student_of: '[[_Standards/WikiData/WD~Thomas_Henry_Huxley,184366]]'
 member_of: '[[_Standards/WikiData/WD~Fabian_Society,192186]]'
 occupation:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~Idist,27496075]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~Idist,27496075]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019]]'
-  - '[[_Standards/WikiData/WD~The_Time_Machine,627333]]'
-  - '[[_Standards/WikiData/WD~The_Shape_of_Things_to_Come,627383]]'
-  - '[[_Standards/WikiData/WD~The_Island_of_Dr_Moreau,718268]]'
-  - '[[_Standards/WikiData/WD~The_First_Men_in_the_Moon,1218232]]'
-  - '[[_Standards/WikiData/WD~The_Invisible_Man,1539509]]'
-  - '[[_Standards/WikiData/WD~Marriage,5051272]]'
-  - '[[_Standards/WikiData/WD~The_Outline_of_History,5840464]]'
-  - '[[_Standards/WikiData/WD~The_Soul_of_a_Bishop,7765370]]'
+- '[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019]]'
+- '[[_Standards/WikiData/WD~The_Time_Machine,627333]]'
+- '[[_Standards/WikiData/WD~The_Shape_of_Things_to_Come,627383]]'
+- '[[_Standards/WikiData/WD~The_Island_of_Dr_Moreau,718268]]'
+- '[[_Standards/WikiData/WD~The_First_Men_in_the_Moon,1218232]]'
+- '[[_Standards/WikiData/WD~The_Invisible_Man,1539509]]'
+- '[[_Standards/WikiData/WD~Marriage,5051272]]'
+- '[[_Standards/WikiData/WD~The_Outline_of_History,5840464]]'
+- '[[_Standards/WikiData/WD~The_Soul_of_a_Bishop,7765370]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Tate,430682]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Tate,430682]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 position_held: '[[_Standards/WikiData/WD~president,1255921]]'
 has_written_for:
-  - '[[_Standards/WikiData/WD~The_Atlantic,1542536]]'
-  - '[[_Standards/WikiData/WD~The_Saturday_Evening_Post,2302345]]'
+- '[[_Standards/WikiData/WD~The_Atlantic,1542536]]'
+- '[[_Standards/WikiData/WD~The_Saturday_Evening_Post,2302345]]'
 cause_of_death: '[[_Standards/WikiData/WD~liver_tumor,1671502]]'
 child:
-  - '[[_Standards/WikiData/WD~Anthony_West,2852999]]'
-  - '[[_Standards/WikiData/WD~George_Philip_Wells,5512394]]'
-  - '[[_Standards/WikiData/WD~Frank_Wells,110983312]]'
+- '[[_Standards/WikiData/WD~Anthony_West,2852999]]'
+- '[[_Standards/WikiData/WD~George_Philip_Wells,5512394]]'
+- '[[_Standards/WikiData/WD~Frank_Wells,110983312]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~science_fiction_literature,3238422]]'
-  - '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
-  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
-  - '[[_Standards/WikiData/WD~non_fiction_literature,27801]]'
+- '[[_Standards/WikiData/WD~science_fiction_literature,3238422]]'
+- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~non_fiction_literature,27801]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Herbert,4926833]]'
-  - '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Herbert,4926833]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~Rare_Book_and_Manuscript_Library_(University_of_Illinois_Urbana_Champaign),18749551]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Rare_Book_and_Manuscript_Library_(University_of_Illinois_Urbana_Champaign),18749551]]'
 father: '[[_Standards/WikiData/WD~Joseph_Wells,6287854]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Wells,13583397]]'
 academic_degree: '[[_Standards/WikiData/WD~Doktor_of_Biology_Sciences,17281188]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Catherine_Wells,17759463]]'
-  - '[[_Standards/WikiData/WD~Isabel_Mary_Wells,111272196]]'
+- '[[_Standards/WikiData/WD~Catherine_Wells,17759463]]'
+- '[[_Standards/WikiData/WD~Isabel_Mary_Wells,111272196]]'
 award_received: '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
 filmography: '[[_Standards/WikiData/WD~H._G._Wells_filmography,65130892]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
-  - '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 mother: '[[_Standards/WikiData/WD~Sarah_Neal,105800836]]'
 significant_person: '[[_Standards/WikiData/WD~Raphael_Roche,111697220]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Francis_Charles_Wells,114340940]]'
-  - '[[_Standards/WikiData/WD~Frederick_Joseph_Wells,114341164]]'
+- '[[_Standards/WikiData/WD~Francis_Charles_Wells,114340940]]'
+- '[[_Standards/WikiData/WD~Frederick_Joseph_Wells,114341164]]'
 work_period_start_: 1895-01-01T00:00:00Z
 date_of_birth: 1866-09-21T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -107,19 +149,19 @@ political_ideology: '[[_Standards/WikiData/WD~socialism,7272]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Labour_Party,9630]]'
 medical_condition: '[[_Standards/WikiData/WD~diabetes,12206]]'
 genre:
-  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
-  - '[[_Standards/WikiData/WD~biography,36279]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~biography,36279]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: H. G. Wells
 Commons_gallery: H. G. Wells
 pseudonym:
-  - H. G. Wells
-  - Reginald Bliss
-  - Septimus Browne
-  - Sosthenes Smith
+- H. G. Wells
+- Reginald Bliss
+- Septimus Browne
+- Sosthenes Smith
 Commons_Creator_page: Herbert George Wells
 BHCL_UUID: 5fcc7594-31c0-4633-836a-249b6c484b9b
 Libris_URI: wt79650f1z8z8qs
@@ -133,8 +175,130 @@ Plex_person_key: 5d776a777a53e9001e705dff
 Europeana_entity: agent/base/60023
 Google_Doodle: birthday-of-hg-wells
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/UELLS_GERBERT_DZHORDZH.html
+dv_has_:
+  name_:
+    af: H. G. Wells
+    an: H.G. Wells
+    ang: H. G. Wells
+    ar: هربرت جورج ويلز
+    arz: هربرت جورج ويلز
+    ast: Herbert George Wells
+    ay: H. G. Wells
+    az: Herbert Uells
+    azb: اچ. جی. ولز
+    be: Герберт Уэлс
+    be-tarask: Гэрбэрт Ўэлз
+    bg: Хърбърт Уелс
+    bn: হারবার্ট জর্জ ওয়েল্স
+    br: H. G. Wells
+    bs: Herbert George Wells
+    ca: H.G. Wells
+    ckb: ھێربەرت جۆرج وێڵز
+    cs: Herbert George Wells
+    cy: H. G. Wells
+    da: H.G. Wells
+    de: H. G. Wells
+    de-ch: H. G. Wells
+    diq: H. G. Wells
+    el: Χ. Τζ. Γουέλς
+    en: H. G. Wells
+    en-ca: H. G. Wells
+    en-gb: H. G. Wells
+    eo: Herbert Wells
+    es: H. G. Wells
+    et: Herbert George Wells
+    eu: Herbert George Wells
+    fa: اچ. جی. ولز
+    fi: H. G. Wells
+    fr: H. G. Wells
+    fy: Herbert George Wells
+    ga: H. G. Wells
+    gl: H.G. Wells
+    guw: H. G. Wells
+    he: הרברט ג'ורג' ולס
+    hi: ऍच॰ जी॰ वेल्स
+    hr: Herbert George Wells
+    hu: H. G. Wells
+    hy: Հերբերտ Ուելս
+    ia: Herbert George Wells
+    id: H.G. Wells
+    ie: H. G. Wells
+    io: H. G. Wells
+    is: H. G. Wells
+    it: H. G. Wells
+    ja: ハーバート・ジョージ・ウェルズ
+    jv: H.G. Wells
+    ka: ჰერბერტ უელსი
+    kab: Herbert George Wells
+    kk: Герберт Уэллс
+    kl: H. G. Wells
+    kn: ಎಚ್. ಜಿ. ವೆಲ್ಸ್
+    ko: H. G. 웰스
+    ku: H. G. Wells
+    kv: Уэллс, Герберт Джордж
+    kw: H. G. Wells
+    la: Herbertus Georgius Wells
+    lb: H. G. Wells
+    lfn: H. G. Wells
+    lt: Herbert George Wells
+    lv: Herberts Velss
+    mai: एच. जी. वेल्स
+    mg: H. G. Wells
+    mk: Херберт Џорџ Велс
+    ml: എച്ച്.ജി. വെൽസ്
+    mr: एच.जी. वेल्स
+    ms: H. G. Wells
+    mt: H. G. Wells
+    mwl: H. G. Wells
+    my: ဝဲလ်၊ အိပ်ချ်၊ ဂျီ
+    nan: H. G. Wells
+    nb: Herbert George Wells
+    ne: एच. जी. वेल्स
+    new: एच जी वेल्स्
+    nl: Herbert George Wells
+    nn: H.G. Wells
+    nov: H. G. Wells
+    oc: H. G. Wells
+    pa: ਐਚ ਜੀ ਵੈਲਜ
+    pl: Herbert George Wells
+    pms: H.G. Wells
+    pnb: ایچ جی ویلز
+    ps: اچ.جي. وېلز
+    pt: H. G. Wells
+    pt-br: H. G. Wells
+    qu: H.G. Wells
+    rm: H.G. Wells
+    ro: H. G. Wells
+    ru: Герберт Уэллс
+    sah: Герберт Уэльс
+    sh: H. G. Wells
+    sk: Herbert George Wells
+    sl: H. G. Wells
+    sq: H. G. Wells
+    sr: Herbert George Wells
+    sv: H.G. Wells
+    sw: H. G. Wells
+    szl: Herbert George Wells
+    ta: எச். ஜி. வெல்ஸ்
+    te: హెచ్. జి. వెల్స్
+    tg: Ҳерберт Ҷорҷ Уэллс
+    th: เอช. จี. เวลส์
+    tl: H. G. Wells
+    tr: H. G. Wells
+    tt: Герберт Уэллс
+    uk: Герберт Веллс
+    ur: ایچ جی ویلز
+    uz: Herbert George Wells
+    vec: H. G. Wells
+    vi: H. G. Wells
+    war: H. G. Wells
+    wuu: H·G·威尔斯
+    xmf: ჰერბერტ ჯორჯ უელსი
+    yue: H.G.威爾斯
+    zh: 赫伯特·喬治·威爾斯
+    zh-hant: H·G·威爾斯
+    zh-tw: H·G·威爾斯
 ---
-
 # [[Wells,H.G]] 
 
 #has_/time_/started ::  1866-09-21

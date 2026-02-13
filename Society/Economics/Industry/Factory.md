@@ -1,25 +1,113 @@
 ---
 aliases:
-  - Fabrik
-  - plant
-  - mill
-  - Factory
+- Banika/niirɛ
+- Dėrbīkla
+- fabbrica
+- Fabrica
+- Fabrica (officina)
+- Fabriche
+- Fabricâ
+- fabrică
+- fabriek
+- fabrihkka
+- Fabrik
+- fabrika
+- Fabrike
+- Fabrikerio
+- fabrikk
+- fabriko
+- fabrikë
+- fabryk
+- fabryka
+- Fabréck
+- Factoraidh
+- Factory
+- feela duu
+- ffatri
+- Fàbbrica
+- fàbrica
+- fábrica
+- Gamykla
+- gyár
+- Izin
+- Kang-tiûⁿ
+- Karxane
+- kilang
+- Kiwanda
+- masana'anta
+- Mba'eapopyha
+- mill
+- monarcha
+- nhà máy
+- pabrik
+- Pabrika
+- Pabrék
+- pagawaan
+- Phawrika
+- plant
+- rūpnīca
+- Suliuġvik
+- tehdas
+- tovarna
+- továreň
+- továrna
+- tvornica
+- Umkhando
+- Usina
+- usine
+- uzin
+- vabrik
+- Verksmiðja
+- εργοστάσιο
+- Завод
+- Корхона
+- Тевдаз
+- фабрика
+- фабрика, завод
+- фабрыка
+- фәбрик
+- Хапрăк
+- Ֆաբրիկա
+- בית חרושת
+- فابریکا
+- مصنع
+- کارخانه
+- کارخانہ
+- کارخانە
+- کارخنه
+- کيلڠ
+- कारखाना
+- কারখানা
+- ਕਾਰਖ਼ਾਨਾ
+- தொழிற்சாலை
+- కర్మాగారము
+- ಕಾರಖಾನೆ
+- โรงงาน
+- ໂຮງງານ
+- စက်ရုံ
+- ႁူင်းၸၢၵ်ႈ
+- 工厂
+- 工場
+- 工廠
+- ꦥꦧꦿꦶꦏ꧀
+- ꯄꯣꯠꯁꯥꯁꯪ
+- 공장
 has_id_wikidata: Q83405
-different_from: "[[_Standards/WikiData/WD~manufactory,380342]]"
+different_from: '[[_Standards/WikiData/WD~manufactory,380342]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~industrial_building,1662011]]"
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-  - "[[_Standards/WikiData/WD~industrial_facility,134496677]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~industrial_building,1662011]]"
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~industrial_building,1662011]]'
+- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~industrial_facility,134496677]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~industrial_building,1662011]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-part_of: "[[_Standards/WikiData/WD~business,4830453]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_factory,13383730]]"
-has_effect: "[[_Standards/WikiData/WD~pollution,58734]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~business,4830453]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_factory,13383730]]'
+has_effect: '[[_Standards/WikiData/WD~pollution,58734]]'
 Nomenclature_for_Museum_Cataloging: 807
 OmegaWiki_Defined_Meaning: 385823
 IMDb_keyword: factory
@@ -27,16 +115,149 @@ Iconclass_notation: 47A12
 Commons_gallery: Factory
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Workers%20in%20the%20fuse%20factory%20Woolwich%20Arsenal%20Flickr%204615367952%20d40a18ec24%20o.jpg
 equivalent_class: http://dbpedia.org/ontology/Factory
-Unicode_character: 🏭
+Unicode_character: "\U0001F3ED"
 UMLS_CUI: C0442620
 Commons_category: Factories
 MeSH_tree_code: J03.540
 GeoNames_feature_code: S.MFG
 OpenStreetMap_tag_or_key:
-  - Tag:industrial=factory
-  - Tag:man_made=works
+- Tag:industrial=factory
+- Tag:man_made=works
+dv_has_:
+  name_:
+    ace: Pabrék
+    af: Fabriek
+    an: Fabrica
+    ar: مصنع
+    ast: fábrica
+    az: fabrik
+    azb: فابریکا
+    ba: фабрика, завод
+    bcl: Pabrika
+    be: фабрыка
+    be-tarask: фабрыка
+    bg: Завод
+    bn: কারখানা
+    br: uzin
+    bs: fabrika
+    ca: fàbrica
+    cbk-zam: fábrica
+    ceb: fabrika
+    ckb: کارخانە
+    cs: továrna
+    cv: Хапрăк
+    cy: ffatri
+    da: fabrik
+    dag: feela duu
+    de: Fabrik
+    de-ch: Fabrik
+    el: εργοστάσιο
+    eml: Fàbrica
+    en: factory
+    en-ca: Factory
+    en-gb: factory
+    eo: fabriko
+    es: fábrica
+    et: vabrik
+    eu: fabrika
+    fa: کارخانه
+    fi: tehdas
+    fr: usine
+    fur: Fabriche
+    fy: fabryk
+    ga: monarcha
+    gcr: Izin
+    gd: Factoraidh
+    gl: fábrica
+    gn: Mba'eapopyha
+    gsw: Fabrik
+    gur: Banika/niirɛ
+    ha: masana'anta
+    he: בית חרושת
+    hi: कारखाना
+    hr: tvornica
+    hsb: fabrika
+    ht: Izin
+    hu: gyár
+    hy: Ֆաբրիկա
+    ia: Fabrica
+    id: pabrik
+    ik: Suliuġvik
+    io: Fabrikerio
+    is: Verksmiðja
+    it: fabbrica
+    ja: 工場
+    jv: ꦥꦧꦿꦶꦏ꧀
+    kaa: Fabrika
+    kk: Фабрика
+    kn: ಕಾರಖಾನೆ
+    ko: 공장
+    krj: fabrika
+    ku: Karxane
+    ky: Завод
+    la: Fabrica (officina)
+    lb: Fabréck
+    lo: ໂຮງງານ
+    lt: Gamykla
+    lv: rūpnīca
+    min: Pabrik
+    mk: фабрика
+    mni: ꯄꯣꯠꯁꯥꯁꯪ
+    mr: कारखाना
+    ms: kilang
+    ms-arab: کيلڠ
+    my: စက်ရုံ
+    myv: Тевдаз
+    mzn: کارخنه
+    nan: Kang-tiûⁿ
+    nb: fabrikk
+    nl: fabriek
+    nn: fabrikk
+    oc: Usina
+    pa: ਕਾਰਖ਼ਾਨਾ
+    pl: fabryka
+    pt: fábrica
+    pt-br: fábrica
+    qu: Phawrika
+    ro: fabrică
+    ru: фабрика
+    rup: Fabricâ
+    scn: Fàbbrica
+    se: fabrihkka
+    sgs: Dėrbīkla
+    sh: fabrika
+    shn: ႁူင်းၸၢၵ်ႈ
+    sk: továreň
+    sl: tovarna
+    smn: fabrik
+    sms: fabrikk
+    sq: fabrikë
+    sr: фабрика
+    sr-ec: фабрика
+    sr-el: fabrika
+    sv: fabrik
+    sw: Kiwanda
+    ta: தொழிற்சாலை
+    te: కర్మాగారము
+    tg: Корхона
+    th: โรงงาน
+    tl: pagawaan
+    tr: fabrika
+    tt: фәбрик
+    udm: фабрика
+    uk: фабрика
+    ur: کارخانہ
+    uz: Fabrika
+    vi: nhà máy
+    wa: Fabrike
+    war: Pabrika
+    wuu: 工厂
+    yue: 工廠
+    zh: 工廠
+    zh-hans: 工厂
+    zh-hant: 工廠
+    zu: Umkhando
 ---
-
 # [[Factory]] 🏭 
 
 #is_/same_as :: [[../../../WikiData/WD~Factory,83405|WD~Factory,83405]] 

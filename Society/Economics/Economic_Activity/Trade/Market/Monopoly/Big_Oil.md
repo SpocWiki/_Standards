@@ -1,8 +1,44 @@
 ---
 has_id_wikidata: Q1330390
+dv_has_:
+  name_:
+    ar: كبار النفط
+    ca: Big Oil
+    de: Supermajor
+    en: Big Oil
+    eo: naftofirmaego
+    es: supermajor
+    fa: سوپرمیجر
+    fr: supermajor
+    he: חברות נפט מג'וריות
+    it: Big Oil
+    ja: 国際石油資本#スーパーメジャー
+    ko: 슈퍼메이저
+    lt: Pagrindiniai naftos tiekėjai
+    nl: Supermajor
+    pt: Empresa petrolífera internacional
+    ro: supermajor
+    sl: naftni gigant
+    sv: Supermajor
+    ta: மாபெரும் எண்ணெய் நிறுவனங்கள்
+    uk: нафтові гіганти
+    zh: 石油巨头
+aliases:
+- Big Oil
+- Empresa petrolífera internacional
+- naftni gigant
+- naftofirmaego
+- Pagrindiniai naftos tiekėjai
+- Supermajor
+- нафтові гіганти
+- חברות נפט מג'וריות
+- سوپرمیجر
+- كبار النفط
+- மாபெரும் எண்ணெய் நிறுவனங்கள்
+- 国際石油資本#スーパーメジャー
+- 石油巨头
+- 슈퍼메이저
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Big Oil** is a name sometimes used to describe the world's five, six or seven largest publicly traded and investor-owned oil and gas companies, also known as supermajors.

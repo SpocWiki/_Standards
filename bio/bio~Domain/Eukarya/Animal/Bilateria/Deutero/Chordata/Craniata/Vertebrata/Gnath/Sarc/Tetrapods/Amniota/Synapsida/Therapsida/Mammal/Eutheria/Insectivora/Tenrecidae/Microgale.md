@@ -1,8 +1,70 @@
 ---
 aliases:
-  - Microgale
+- Fori menjy
+- Kleintenreks
+- Långsvanstanrekar
+- Microgale
+- Ratiavatol (Microgale)
+- Sjaermoestenreks
+- Snjáldurteinrekur
+- Tenrec musaranya
+- Tenreczek
+- Длиннохвостые тенреки
+- Малі тенреки
+- زبابة دقيقة
+- زبابه دقيقه
+- سموریهای کوچک
+- 鼬猬属
+- 땃쥐텐렉
 title: Microgale
 has_id_wikidata: Q1773950
+dv_has_:
+  name_:
+    an: Microgale
+    ar: زبابة دقيقة
+    arz: زبابه دقيقه
+    ast: Microgale
+    avk: Ratiavatol (Microgale)
+    bg: Microgale
+    ca: Tenrec musaranya
+    ceb: Microgale
+    de: Kleintenreks
+    en: Microgale
+    eo: Microgale
+    es: Microgale
+    eu: Microgale
+    ext: Microgale
+    fa: سموریهای کوچک
+    fi: Microgale
+    fr: Microgale
+    ga: Microgale
+    gl: Microgale
+    ia: Microgale
+    ie: Microgale
+    io: Microgale
+    is: Snjáldurteinrekur
+    it: Microgale
+    ko: 땃쥐텐렉
+    la: Microgale
+    li: Sjaermoestenreks
+    mg: Fori menjy
+    mul: Microgale
+    nl: Microgale
+    oc: Microgale
+    pl: Tenreczek
+    pt: Microgale
+    pt-br: Microgale
+    ro: Microgale
+    ru: Длиннохвостые тенреки
+    sq: Microgale
+    sv: Långsvanstanrekar
+    uk: Малі тенреки
+    vi: Microgale
+    vo: Microgale
+    war: Microgale
+    zh: 鼬猬属
+    zh-cn: 鼬猬属
+    zh-hans: 鼬猬属
 ---
 # [[Microgale]]
 

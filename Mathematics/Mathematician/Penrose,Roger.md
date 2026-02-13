@@ -1,8 +1,128 @@
 ---
 has_id_wikidata: Q193803
+dv_has_:
+  name_:
+    ar: روجر بنروز
+    arz: روجر بنروز
+    as: ৰ'জাৰ পেনৰ'জ
+    ast: Roger Penrose
+    az: Roger Penrose
+    azb: راجر پنروز
+    be: Роджэр Пенроўз
+    be-tarask: Роджэр Пэнроўз
+    bg: Роджър Пенроуз
+    bn: রজার পেনরোজ
+    bs: Roger Penrose
+    ca: Roger Penrose
+    ckb: ڕۆجە پێنرۆز
+    cs: Roger Penrose
+    cy: Roger Penrose
+    da: Roger Penrose
+    de: Roger Penrose
+    el: Ρότζερ Πένροουζ
+    en: Roger Penrose
+    eo: Roger Penrose
+    es: Roger Penrose
+    et: Roger Penrose
+    eu: Roger Penrose
+    fa: راجر پنروز
+    fi: Roger Penrose
+    fr: Roger Penrose
+    ga: Roger Penrose
+    gd: Roger Penrose
+    gl: Roger Penrose
+    hak: Roger Penrose
+    he: רוג'ר פנרוז
+    hi: रोजर पेनरोस
+    ht: Roger Penrose
+    hu: Roger Penrose
+    hy: Ռոջեր Պենրոուզ
+    ia: Roger Penrose
+    id: Roger Penrose
+    io: Roger Penrose
+    it: Roger Penrose
+    ja: ロジャー・ペンローズ
+    ka: როჯერ პენროუზი
+    kk: Роджер Пенроуз
+    ko: 로저 펜로즈
+    ky: Рожер Пенроуз
+    la: Rogerius Penrose
+    lb: Roger Penrose
+    lfn: Roger Penrose
+    lt: Roger Penrose
+    lv: Rodžers Penrouzs
+    mk: Роџер Пенроуз
+    ml: റോജർ പെൻറോസ്
+    mr: रॉजर पेनरोझ
+    ms: Roger Penrose
+    mul: Roger Penrose
+    mzn: راجر پنروز
+    nan: Roger Penrose
+    nb: Roger Penrose
+    nds: Roger Penrose
+    nl: Roger Penrose
+    nn: Roger Penrose
+    pa: ਰੋਜਰ ਪੈਨਰੋਜ਼
+    pl: Roger Penrose
+    pnb: راجر پینریز
+    ps: روډ جکسن (د وبايي ناروغيو متخصص)
+    pt: Roger Penrose
+    pt-br: Roger Penrose
+    ro: Roger Penrose
+    ru: Роджер Пенроуз
+    sk: Roger Penrose
+    sl: Roger Penrose
+    sq: Roger Penrose
+    sr: Роџер Пенроуз
+    sr-ec: Роџер Пенроуз
+    sv: Roger Penrose
+    ta: உரோசர் பென்ரோசு
+    tr: Roger Penrose
+    uk: Роджер Пенроуз
+    ur: راجر پینریز
+    vi: Roger Penrose
+    wuu: 罗杰·彭罗斯
+    yo: Roger Penrose
+    yue: 羅渣彭羅斯
+    zh: 羅傑·潘洛斯
+    zh-cn: 罗杰·彭罗斯
+    zh-hans: 罗杰·彭罗斯
+    zh-hant: 羅傑·潘洛斯
+    zh-hk: 羅傑·潘洛斯
+    zh-sg: 罗杰·彭罗斯
+    zh-tw: 羅傑·潘洛斯
+aliases:
+- Rodžers Penrouzs
+- Roger Penrose
+- Rogerius Penrose
+- Ρότζερ Πένροουζ
+- Роџер Пенроуз
+- Роджер Пенроуз
+- Роджър Пенроуз
+- Роджэр Пенроўз
+- Роджэр Пэнроўз
+- Рожер Пенроуз
+- Ռոջեր Պենրոուզ
+- רוג'ר פנרוז
+- راجر پنروز
+- راجر پینریز
+- روجر بنروز
+- روډ جکسن (د وبايي ناروغيو متخصص)
+- ڕۆجە پێنرۆز
+- रॉजर पेनरोझ
+- रोजर पेनरोस
+- রজার পেনরোজ
+- ৰ'জাৰ পেনৰ'জ
+- ਰੋਜਰ ਪੈਨਰੋਜ਼
+- உரோசர் பென்ரோசு
+- റോജർ പെൻറോസ്
+- როჯერ პენროუზი
+- ロジャー・ペンローズ
+- 罗杰·彭罗斯
+- 羅傑·潘洛斯
+- 羅渣彭羅斯
+- 로저 펜로즈
 ---
-
-
 #has_/time_/started :: 1931-08-08
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 

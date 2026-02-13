@@ -1,10 +1,190 @@
 ---
 aliases:
-  - Basidiomycota
+- baisidimícéití
+- Basidiesvampar
+- Basidiesvampe
+- Basidiomicetos
+- Basidiomicots
+- Basidiomycota
+- Bassidiomicete
+- Bazidiomicetes
+- Bazidiomikotoj
+- Bazidiomitsetlar
+- Bazitli mantarlar
+- Bazídiové huby
+- bazídiumos gombák
+- Bazîdiyomikot
+- Bazïdïomïcetter
+- bazīdijsēnes
+- Bsaidiomycoota
+- Gljive stapčarke
+- houby stopkovýtrusné
+- kandseened
+- kantasienet
+- Kólfsveppir
+- Papėdgrybiai
+- podstawczaki
+- prostotrosnice
+- stilksporesoppar
+- Stilksporesopper
+- Ständerpilze
+- Tiksicha k'allampa
+- Βασιδιομύκητες
+- базідыяльныя грыбы
+- базидіомікотові
+- базидиеви гъби
+- Базидиомитсетҳо
+- Базидиомицетлар
+- Базидиомицеттер
+- базидиомицеты
+- Столпчести габи
+- Բազիդիավոր սնկեր
+- פטריות בסיסה
+- بازىيدىيومىيتسەتتەر
+- دعاميات
+- قارچهای چتری
+- کھمبیاں
+- கதைப்பூஞ்சைத் தொகுதி
+- బెసిడియోమైకోటా
+- ბაზიდიუმიანი სოკოები
+- 担子菌門
+- 担子菌门
+- 擔子菌門
+- 담자균류
 has_id_wikidata: Q174698
 title: Basidiomycota
+dv_has_:
+  name_:
+    af: Basidiomycota
+    an: Basidiomycota
+    ar: دعاميات
+    arz: دعاميات
+    ast: Basidiomycota
+    az: Bsaidiomycoota
+    ba: Basidiomycota
+    bar: Basidiomycota
+    be: базідыяльныя грыбы
+    be-tarask: базідыяльныя грыбы
+    bg: базидиеви гъби
+    br: Basidiomycota
+    bs: Basidiomycota
+    ca: Basidiomicots
+    ceb: Basidiomycota
+    co: Basidiomycota
+    cs: houby stopkovýtrusné
+    cy: Basidiomycota
+    da: Basidiesvampe
+    de: Ständerpilze
+    de-at: Basidiomycota
+    de-ch: Basidiomycota
+    el: Βασιδιομύκητες
+    en: Basidiomycota
+    en-ca: Basidiomycota
+    en-gb: Basidiomycota
+    eo: Bazidiomikotoj
+    es: Basidiomycota
+    et: kandseened
+    eu: Basidiomycota
+    ext: Basidiomycota
+    fa: قارچهای چتری
+    fi: kantasienet
+    fr: Basidiomycota
+    frp: Basidiomycota
+    fur: Basidiomycota
+    ga: baisidimícéití
+    gd: Basidiomycota
+    gl: Basidiomicetos
+    gsw: Basidiomycota
+    he: פטריות בסיסה
+    hr: Basidiomycota
+    hu: bazídiumos gombák
+    hy: Բազիդիավոր սնկեր
+    ia: Basidiomycota
+    id: Basidiomycota
+    ie: Basidiomycota
+    io: Basidiomycota
+    is: Kólfsveppir
+    it: Basidiomycota
+    ja: 担子菌門
+    jv: Basidiomycota
+    ka: ბაზიდიუმიანი სოკოები
+    kg: Basidiomycota
+    kk: Базидиомицеттер
+    kk-arab: بازىيدىيومىيتسەتتەر
+    kk-cn: بازىيدىيومىيتسەتتەر
+    kk-cyrl: Базидиомицеттер
+    kk-kz: Базидиомицеттер
+    kk-latn: Bazïdïomïcetter
+    kk-tr: Bazïdïomïcetter
+    ko: 담자균류
+    ku: Bazîdiyomikot
+    ky: Базидиомицеттер
+    la: Basidiomycota
+    lb: Basidiomycota
+    li: Basidiomycota
+    lij: Basidiomycota
+    lt: Papėdgrybiai
+    lv: bazīdijsēnes
+    mg: Basidiomycota
+    min: Basidiomycota
+    mk: Столпчести габи
+    ms: Basidiomycota
+    mul: Basidiomycota
+    nap: Basidiomycota
+    nb: Stilksporesopper
+    nds: Basidiomycota
+    nds-nl: Basidiomycota
+    nl: Basidiomycota
+    nn: stilksporesoppar
+    nrm: Basidiomycota
+    nys: Basidiomycota
+    oc: Basidiomycota
+    pcd: Basidiomycota
+    pl: podstawczaki
+    pms: Basidiomycota
+    pnb: کھمبیاں
+    pt: Basidiomycota
+    pt-br: Basidiomycota
+    qu: Tiksicha k'allampa
+    rm: Basidiomycota
+    ro: Basidiomycota
+    ru: базидиомицеты
+    sc: Basidiomycota
+    scn: Basidiomycota
+    sco: Basidiomycota
+    sh: Gljive stapčarke
+    sk: Bazídiové huby
+    sl: prostotrosnice
+    sq: Bazidiomicetes
+    sr: Gljive stapčarke
+    sv: Basidiesvampar
+    sw: Basidiomycota
+    ta: கதைப்பூஞ்சைத் தொகுதி
+    te: బెసిడియోమైకోటా
+    tg: Базидиомитсетҳо
+    tl: Basidiomycota
+    tr: Bazitli mantarlar
+    tt: Базидиомицетлар
+    uk: базидіомікотові
+    uz: Bazidiomitsetlar
+    vec: Basidiomycota
+    vi: Basidiomycota
+    vls: Basidiomycota
+    vo: Basidiomycota
+    wa: Bassidiomicete
+    war: Basidiomycota
+    wo: Basidiomycota
+    wuu: 担子菌门
+    yue: 擔子菌門
+    zh: 担子菌门
+    zh-cn: 担子菌门
+    zh-hans: 担子菌门
+    zh-hant: 擔子菌門
+    zh-hk: 擔子菌門
+    zh-sg: 担子菌门
+    zh-tw: 擔子菌門
+    zu: Basidiomycota
 ---
-
 # [[Basidiomycota]]
 
 #is_a/bio-Phylum  

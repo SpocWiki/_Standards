@@ -1,30 +1,173 @@
 ---
 aliases:
+- bìd nathrach
+- Cizon maciji
+- Cokotan ula
+- Ekisubi kimusaze
+- Gyvatės įgėlimas
+- Ilon chaqishi
+- Kafshimi i gjarprit
+- kačji ugriz
+- Käärmeenpurema
+- kígyómarás
+- Maohammustus
+- Mordedura de culiebra
+- mordedura de serpente
+- mordedura de serpiente
+- morsegon de serpente
+- morso di serpente
+- morsure de serpent
+- pertolongan pada gigitan ular
+- picada de serp
+- pêvêdana mar
+- Rắn cắn
+- Schlangenbiss
+- serpenta mordo
+- slangbyt
+- slangebid
+- slangebit
+- slangebitt
+- slangenbeet
+- snakebite
+- suge-hozkada
+- Trabada de serpe
+- Ugriz zmije
+- ukąszenie węża
+- uštknutí hadem
+- Yılan ısırığı
+- zmijski ujed
+- δάγκωμα φιδιού
+- змеиный укус
+- змијски ујед
+- змиско каснување
+- зьмяіны ўкус
+- Укус змії (травма)
+- ухапване от змия
+- Օձի խայթոց
+- הכשת נחש
+- سانپ کا ڈنک
+- لدغة تعبان
+- لدغة ثعبان
+- مارچيچل
+- مارگزیدگی
+- सर्पको टोकाइ
+- सर्पदंश
+- সর্পদংশন
+- সৰ্পদংশন
+- ਸੱਪ ਦਾ ਡੱਸਣਾ
+- ସର୍ପ ଦଂଶ
+- பாம்புக் கடி
+- పాముకాటు
+- ಹಾವು ಕಡಿತ
+- සර්පයන් දෂ්ඨකිරීම
+- ဇြုံၜံက်
+- မြွေကိုက်ဒဏ်ရာ
+- ᱵᱤᱧᱜᱮᱨ
+- 蛇咬伤
+- 蛇咬傷
+- 사교상
 has_id_wikidata: Q68854
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~animal_bite,866650]]"
-  - "[[_Standards/WikiData/WD~envenomation,3055418]]"
-  - "[[_Standards/WikiData/WD~rare_intoxication,55785342]]"
-different_from: "[[_Standards/WikiData/WD~dry_bite,2454710]]"
-health_specialty: "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
-has_cause: "[[_Standards/WikiData/WD~animal_attack,17450153]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-DiseasesDB: "29733"
+- '[[_Standards/WikiData/WD~animal_bite,866650]]'
+- '[[_Standards/WikiData/WD~envenomation,3055418]]'
+- '[[_Standards/WikiData/WD~rare_intoxication,55785342]]'
+different_from: '[[_Standards/WikiData/WD~dry_bite,2454710]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+has_cause: '[[_Standards/WikiData/WD~animal_attack,17450153]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+DiseasesDB: 29733
 UMLS_CUI: C0037379
-U_S_National_Archives_Identifier: "10666062"
+U_S_National_Archives_Identifier: 10666062
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20VII%2C%20steel%20engraving%20of%20the%20encaustic%20painting%20found%20at%20Hadrian%27s%20Villa%20in%201818.jpg
 exact_match: http://www.orpha.net/ORDO/Orphanet_449285
 MeSH_tree_code:
-  - C25.723.127.442
-  - C26.176.724
+- C25.723.127.442
+- C26.176.724
 Wolfram_Language_entity_code: Entity["Concept", "Snakebite::cb5bt"]
 Commons_category: Snake bites
 ICD_10_CM: T63.0
+dv_has_:
+  name_:
+    af: slangbyt
+    ar: لدغة ثعبان
+    arz: لدغة تعبان
+    as: সৰ্পদংশন
+    ast: Mordedura de culiebra
+    be-tarask: зьмяіны ўкус
+    bg: ухапване от змия
+    bn: সর্পদংশন
+    ca: picada de serp
+    cs: uštknutí hadem
+    da: slangebid
+    de: Schlangenbiss
+    el: δάγκωμα φιδιού
+    en: snakebite
+    en-ca: Snakebite
+    en-gb: Snakebite
+    eo: serpenta mordo
+    es: mordedura de serpiente
+    et: Maohammustus
+    eu: suge-hozkada
+    fa: مارگزیدگی
+    fi: Käärmeenpurema
+    fr: morsure de serpent
+    gd: bìd nathrach
+    gl: Trabada de serpe
+    ha: Cizon maciji
+    he: הכשת נחש
+    hi: सर्पदंश
+    hr: Ugriz zmije
+    hu: kígyómarás
+    hy: Օձի խայթոց
+    id: pertolongan pada gigitan ular
+    it: morso di serpente
+    ja: 蛇咬傷
+    jv: Cokotan ula
+    kn: ಹಾವು ಕಡಿತ
+    ko: 사교상
+    ku: pêvêdana mar
+    lg: Ekisubi kimusaze
+    lt: Gyvatės įgėlimas
+    mk: змиско каснување
+    mnw: ဇြုံၜံက်
+    mr: सर्पदंश
+    my: မြွေကိုက်ဒဏ်ရာ
+    nb: slangebitt
+    ne: सर्पको टोकाइ
+    nl: slangenbeet
+    nn: slangebit
+    or: ସର୍ପ ଦଂଶ
+    pa: ਸੱਪ ਦਾ ਡੱਸਣਾ
+    pl: ukąszenie węża
+    ps: مارچيچل
+    pt: mordedura de serpente
+    pt-br: Mordedura de serpente
+    ru: змеиный укус
+    sat: ᱵᱤᱧᱜᱮᱨ
+    sco: snakebite
+    si: සර්පයන් දෂ්ඨකිරීම
+    sl: kačji ugriz
+    sq: Kafshimi i gjarprit
+    sr: змијски ујед
+    sr-ec: змијски ујед
+    sr-el: zmijski ujed
+    ta: பாம்புக் கடி
+    te: పాముకాటు
+    tr: Yılan ısırığı
+    uk: Укус змії (травма)
+    ur: سانپ کا ڈنک
+    uz: Ilon chaqishi
+    vec: morsegon de serpente
+    vi: Rắn cắn
+    yue: 蛇咬傷
+    zh: 蛇咬傷
+    zh-hans: 蛇咬伤
+    zh-hant: 蛇咬傷
+    zh-tw: 蛇咬傷
 ---
-
 # [[Snakebite]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Snakebite,68854|WD~Snakebite,68854]]  

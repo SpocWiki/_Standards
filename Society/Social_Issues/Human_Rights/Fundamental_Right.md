@@ -1,16 +1,117 @@
 ---
 aliases:
-  - Fundamental rights
-  - Fundamental right
-  - Fundamental_Right
-  - Fundamental Right
+- alapvető jogok
+- Bazaj rajtoj
+- cearta bunúsacha
+- derechos fundamentales
+- Dereitos fundamentais
+- direitos fundamentais
+- drets fonamentals
+- Fundamental right
+- Fundamental rights
+- Fundamental_Right
+- grondrechten
+- Grundrecht
+- Hakki na asali
+- hawliau sylfaenol
+- Libertats fondamentalas
+- libertà e diritti fondamentali
+- libertés fondamentales
+- Oinarrizko eskubideak
+- pamatinės teisės
+- perusoikeudet
+- põhiõigused
+- temel haklar
+- temeljna ljudska prava
+- temeljne pravice
+- vuođđovuoigatvuođat
+- vuáđuvuoigâdvuođah
+- vuâđđvuõiggâdvuõđ
+- Əsas hüquq və azadlıqlar
+- основні права і свободи
+- основни права
+- основные права и свободы
+- фундамэнтальныя правы
+- Үндсэн эрх
+- זכויות אדם בסיסיות
+- اساسي حقونه
+- الحقوق الأساسية
+- حقوق بنیادی
+- مافە بنچینەییەکان
+- मूल अधिकार
+- মৌলিক অধিকার
+- ਮੁੱਢਲੇ ਅਧਿਕਾਰ
+- அடிப்படை உரிமைகள்
+- മൗലികാവകാശങ്ങൾ
+- මූලික අයිතිවාසිකම්
+- 基本权利
+- 基本權利
+- 基本的権利
+- 기본권
 has_id_wikidata: Q3237872
 subclass_of: '[[_Standards/WikiData/WD~rights,780687]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen%20in%201789.jpg
 IPTC_NewsCode: mediatopic/20000587
+dv_has_:
+  name_:
+    ar: الحقوق الأساسية
+    az: Əsas hüquq və azadlıqlar
+    be-tarask: фундамэнтальныя правы
+    bho: मूल अधिकार
+    bn: মৌলিক অধিকার
+    ca: drets fonamentals
+    ckb: مافە بنچینەییەکان
+    cy: hawliau sylfaenol
+    de: Grundrecht
+    en: fundamental rights
+    eo: Bazaj rajtoj
+    es: derechos fundamentales
+    et: põhiõigused
+    eu: Oinarrizko eskubideak
+    fa: حقوق بنیادی
+    fi: perusoikeudet
+    fr: libertés fondamentales
+    ga: cearta bunúsacha
+    gl: Dereitos fundamentais
+    ha: Hakki na asali
+    he: זכויות אדם בסיסיות
+    hi: मूल अधिकार
+    hr: temeljna ljudska prava
+    hu: alapvető jogok
+    it: libertà e diritti fondamentali
+    ja: 基本的権利
+    ko: 기본권
+    lt: pamatinės teisės
+    mai: मूल अधिकार
+    mk: основни права
+    ml: മൗലികാവകാശങ്ങൾ
+    mn: Үндсэн эрх
+    nl: grondrechten
+    oc: Libertats fondamentalas
+    pa: ਮੁੱਢਲੇ ਅਧਿਕਾਰ
+    ps: اساسي حقونه
+    pt: direitos fundamentais
+    ru: основные права и свободы
+    se: vuođđovuoigatvuođat
+    si: මූලික අයිතිවාසිකම්
+    sl: temeljne pravice
+    smn: vuáđuvuoigâdvuođah
+    sms: vuâđđvuõiggâdvuõđ
+    sr: Temeljna ljudska prava
+    ta: அடிப்படை உரிமைகள்
+    tr: temel haklar
+    uk: основні права і свободи
+    zh: 基本權利
+    zh-cn: 基本权利
+    zh-hans: 基本权利
+    zh-hant: 基本權利
+    zh-hk: 基本權利
+    zh-mo: 基本權利
+    zh-my: 基本权利
+    zh-sg: 基本权利
+    zh-tw: 基本權利
 ---
-
 # [[Fundamental_Right]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fundamental_rights,3237872|WD~Fundamental_rights,3237872]] 

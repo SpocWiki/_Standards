@@ -1,8 +1,55 @@
 ---
 aliases:
-  - Bacteroidetes
+- Bacteroidetes
+- Bacteroidota
+- عصوانيات (شعبة)
+- バクテロイデス門
+- 拟杆菌门
 title: Bacteroidetes
 has_id_wikidata: Q9810870
+dv_has_:
+  name_:
+    an: Bacteroidota
+    ar: عصوانيات (شعبة)
+    ast: Bacteroidota
+    bg: Bacteroidota
+    ca: Bacteroidota
+    ceb: Bacteroidota
+    cs: Bacteroidota
+    de: Bacteroidota
+    en: Bacteroidota
+    en-ca: Bacteroidota
+    en-gb: Bacteroidota
+    eo: Bacteroidota
+    es: Bacteroidota
+    eu: Bacteroidota
+    ext: Bacteroidota
+    fi: Bacteroidota
+    fr: Bacteroidota
+    ga: Bacteroidota
+    gl: Bacteroidota
+    ia: Bacteroidota
+    ie: Bacteroidota
+    io: Bacteroidota
+    it: Bacteroidota
+    ja: バクテロイデス門
+    la: Bacteroidota
+    mk: Bacteroidota
+    mul: Bacteroidota
+    nl: Bacteroidota
+    oc: Bacteroidota
+    pl: Bacteroidota
+    pt: Bacteroidota
+    pt-br: Bacteroidota
+    ro: Bacteroidota
+    ru: Bacteroidota
+    sq: Bacteroidota
+    sv: Bacteroidota
+    uk: Bacteroidota
+    vi: Bacteroidota
+    vo: Bacteroidota
+    war: Bacteroidota
+    zh: 拟杆菌门
 ---
 # [[Bacteroidetes]] 
 

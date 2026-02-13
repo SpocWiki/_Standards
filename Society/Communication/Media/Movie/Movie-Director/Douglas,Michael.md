@@ -1,9 +1,196 @@
 ---
 aliases:
-  - Michael Douglas
-  - Michael Kirk Douglas
-  - Douglas,Michael
+- Douglas,Michael
+- Maikls Daglass
+- Majkl Daglas
+- Maykl Duqlas
+- Maýkl Dwglas
+- Michael Douglas
+- Michael Kirk Douglas
+- Μάικλ Ντάγκλας
+- Мајкл Даглас
+- Майкл Дуглас
+- Майкъл Дъглас
+- Մայքլ Դուգլաս
+- מייקל דאגלס
+- مائیکل ڈگلس
+- مايكل دوجلاس
+- مايكل دوغلاس
+- مايكل دۋگلاس
+- مایکل داقلاس
+- مایکل داگلاس
+- مایکڵ دۆگلاس
+- माइकल डगलस
+- मायकेल डग्लस
+- মাইকেল ডগলাস
+- ਮਾਈਕਲ ਡਗਲਸ
+- மைக்கேல் டக்ளஸ்
+- ಮೈಕೇಲ್ ಡೊಗ್ಲಾಸ್
+- മൈക്കൽ ഡഗ്ലസ്
+- ไมเคิล ดักลาส
+- ໄມເຄີລ ດູລາສ
+- მაიკლ დუგლასი
+- マイケル・ダグラス
+- 米高德格拉斯
+- 迈克尔·道格拉斯
+- 邁克爾·道格拉斯
+- 麥可·道格拉斯
+- 麦克·道格拉斯
+- 麦可·道格拉斯
+- 마이클 더글러스
 has_id_wikidata: Q119798
+dv_has_:
+  name_:
+    af: Michael Douglas
+    an: Michael Douglas
+    ar: مايكل دوغلاس
+    arz: مايكل دوجلاس
+    ast: Michael Douglas
+    az: Maykl Duqlas
+    azb: مایکل داقلاس
+    bar: Michael Douglas
+    be: Майкл Дуглас
+    be-tarask: Майкл Дуглас
+    bg: Майкъл Дъглас
+    bm: Michael Douglas
+    bn: মাইকেল ডগলাস
+    br: Michael Douglas
+    bs: Michael Douglas
+    ca: Michael Douglas
+    ckb: مایکڵ دۆگلاس
+    co: Michael Douglas
+    cs: Michael Douglas
+    csb: Michael Douglas
+    cy: Michael Douglas
+    da: Michael Douglas
+    de: Michael Douglas
+    de-at: Michael Douglas
+    de-ch: Michael Douglas
+    diq: Michael Douglas
+    el: Μάικλ Ντάγκλας
+    eml: Michael Douglas
+    en: Michael Douglas
+    en-ca: Michael Douglas
+    en-gb: Michael Douglas
+    en-us: Michael Douglas
+    eo: Michael Douglas
+    es: Michael Douglas
+    et: Michael Douglas
+    eu: Michael Douglas
+    fa: مایکل داگلاس
+    fi: Michael Douglas
+    fr: Michael Douglas
+    frc: Michael Douglas
+    frp: Michael Douglas
+    fur: Michael Douglas
+    ga: Michael Douglas
+    gd: Michael Douglas
+    gl: Michael Douglas
+    gsw: Michael Douglas
+    he: מייקל דאגלס
+    hi: माइकल डगलस
+    hr: Michael Douglas
+    ht: Michael Douglas
+    hu: Michael Douglas
+    hy: Մայքլ Դուգլաս
+    ia: Michael Douglas
+    id: Michael Douglas
+    ie: Michael Douglas
+    ilo: Michael Douglas
+    io: Michael Douglas
+    it: Michael Douglas
+    ja: マイケル・ダグラス
+    jam: Michael Douglas
+    ka: მაიკლ დუგლასი
+    kab: Michael Douglas
+    kg: Michael Douglas
+    kk: Майкл Дуглас
+    kk-arab: مايكل دۋگلاس
+    kk-cn: مايكل دۋگلاس
+    kk-cyrl: Майкл Дуглас
+    kk-kz: Майкл Дуглас
+    kk-latn: Maýkl Dwglas
+    kk-tr: Maýkl Dwglas
+    kn: ಮೈಕೇಲ್ ಡೊಗ್ಲಾಸ್
+    ko: 마이클 더글러스
+    la: Michael Douglas
+    lb: Michael Douglas
+    li: Michael Douglas
+    lij: Michael Douglas
+    lo: ໄມເຄີລ ດູລາສ
+    lt: Michael Douglas
+    lv: Maikls Daglass
+    mg: Michael Douglas
+    min: Michael Douglas
+    mk: Мајкл Даглас
+    ml: മൈക്കൽ ഡഗ്ലസ്
+    mn: Майкл Дуглас
+    mr: मायकेल डग्लस
+    ms: Michael Douglas
+    mul: Michael Douglas
+    nan: Michael Douglas
+    nap: Michael Douglas
+    nb: Michael Douglas
+    nds: Michael Douglas
+    nds-nl: Michael Douglas
+    nl: Michael Douglas
+    nn: Michael Douglas
+    nrm: Michael Douglas
+    oc: Michael Douglas
+    pa: ਮਾਈਕਲ ਡਗਲਸ
+    pap: Michael Douglas
+    pcd: Michael Douglas
+    pl: Michael Douglas
+    pms: Michael Douglas
+    prg: Michael Douglas
+    pt: Michael Douglas
+    pt-br: Michael Douglas
+    qu: Michael Douglas
+    rgn: Michael Douglas
+    rm: Michael Douglas
+    ro: Michael Douglas
+    ru: Майкл Дуглас
+    sc: Michael Douglas
+    scn: Michael Douglas
+    sh: Michael Douglas
+    sk: Michael Douglas
+    sl: Michael Douglas
+    sq: Michael Douglas
+    sr: Мајкл Даглас
+    sr-ec: Мајкл Даглас
+    sr-el: Majkl Daglas
+    sv: Michael Douglas
+    sw: Michael Douglas
+    ta: மைக்கேல் டக்ளஸ்
+    th: ไมเคิล ดักลาส
+    tl: Michael Douglas
+    tr: Michael Douglas
+    tt: Майкл Дуглас
+    tt-cyrl: Майкл Дуглас
+    uk: Майкл Дуглас
+    ur: مائیکل ڈگلس
+    uz: Michael Douglas
+    vec: Michael Douglas
+    vi: Michael Douglas
+    vls: Michael Douglas
+    vmf: Michael Douglas
+    vo: Michael Douglas
+    wa: Michael Douglas
+    war: Michael Douglas
+    wo: Michael Douglas
+    wuu: 迈克尔·道格拉斯
+    xmf: მაიკლ დუგლასი
+    yo: Michael Douglas
+    yue: 米高德格拉斯
+    zh: 邁克爾·道格拉斯
+    zh-cn: 迈克尔·道格拉斯
+    zh-hans: 迈克尔·道格拉斯
+    zh-hant: 邁克爾·道格拉斯
+    zh-hk: 米高德格拉斯
+    zh-my: 麦可·道格拉斯
+    zh-sg: 麦克·道格拉斯
+    zh-tw: 麥可·道格拉斯
+    zu: Michael Douglas
 ---
 #has_/time_/started :: 1944-09-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

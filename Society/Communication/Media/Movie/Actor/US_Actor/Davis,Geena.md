@@ -1,8 +1,115 @@
 ---
 aliases:
-  - Geena Davis
-  - Davis,Geena
+- Cina Devis
+- Davis,Geena
+- Džīna Deivisa
+- Geena Davis
+- Geena Davisová
+- Τζίνα Ντέιβις
+- Џина Дејвис
+- Джина Девіс
+- Джина Дейвис
+- Джина Дэвис
+- Джына Дэвіс
+- Жина Дэвис
+- Ջինա Դեյվիս
+- ג'ינה דייוויס
+- جينا ديفيس
+- جینا دیویس
+- جینا ڈیوس
+- জিনা ডেভিস
+- ਗੀਨਾ ਡੇਵਿਸ
+- జీన్ డేవిడ్
+- ജീന ഡേവിസ്
+- ჯინა დევისი
+- ジーナ・デイヴィス
+- 吉娜·戴维斯
+- 珍娜·戴维丝
+- 지나 데이비스
 has_id_wikidata: Q280098
+dv_has_:
+  name_:
+    af: Geena Davis
+    ar: جينا ديفيس
+    arz: جينا ديفيس
+    ast: Geena Davis
+    az: Cina Devis
+    azb: جینا دیویس
+    be-tarask: Джына Дэвіс
+    bg: Джина Дейвис
+    bn: জিনা ডেভিস
+    ca: Geena Davis
+    cs: Geena Davisová
+    cy: Geena Davis
+    da: Geena Davis
+    de: Geena Davis
+    de-ch: Geena Davis
+    el: Τζίνα Ντέιβις
+    en: Geena Davis
+    en-ca: Geena Davis
+    en-gb: Geena Davis
+    eo: Geena Davis
+    es: Geena Davis
+    et: Geena Davis
+    eu: Geena Davis
+    fa: جینا دیویس
+    fi: Geena Davis
+    fr: Geena Davis
+    ga: Geena Davis
+    gl: Geena Davis
+    he: ג'ינה דייוויס
+    hr: Geena Davis
+    hu: Geena Davis
+    hy: Ջինա Դեյվիս
+    id: Geena Davis
+    ig: Geena Davis
+    io: Geena Davis
+    is: Geena Davis
+    it: Geena Davis
+    ja: ジーナ・デイヴィス
+    ka: ჯინა დევისი
+    ko: 지나 데이비스
+    ku: Geena Davis
+    lb: Geena Davis
+    lv: Džīna Deivisa
+    mk: Џина Дејвис
+    ml: ജീന ഡേവിസ്
+    mn: Жина Дэвис
+    ms: Geena Davis
+    nan: Geena Davis
+    nb: Geena Davis
+    nl: Geena Davis
+    nn: Geena Davis
+    oc: Geena Davis
+    pa: ਗੀਨਾ ਡੇਵਿਸ
+    pam: Geena Davis
+    pap: Geena Davis
+    pl: Geena Davis
+    pnb: جینا ڈیوس
+    pt: Geena Davis
+    pt-br: Geena Davis
+    ro: Geena Davis
+    ru: Джина Дэвис
+    sco: Geena Davis
+    sh: Geena Davis
+    sk: Geena Davisová
+    skr: جینا ڈیوس
+    sl: Geena Davis
+    sq: Geena Davis
+    sr: Џина Дејвис
+    sv: Geena Davis
+    te: జీన్ డేవిడ్
+    tl: Geena Davis
+    tr: Geena Davis
+    uk: Джина Девіс
+    ur: جینا ڈیوس
+    uz: Geena Davis
+    vi: Geena Davis
+    wuu: 吉娜·戴维斯
+    xmf: ჯინა დევისი
+    yo: Geena Davis
+    zh: 吉娜·戴维斯
+    zh-sg: 珍娜·戴维丝
 ---
 #has_/time_/started :: 1956-01-21 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

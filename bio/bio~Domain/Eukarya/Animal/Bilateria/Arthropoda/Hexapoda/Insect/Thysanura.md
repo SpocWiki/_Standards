@@ -1,8 +1,101 @@
 ---
 aliases:
-  - Thysanura
+- Anh vĩ
+- Dlakorepci
+- earr ghuaireach
+- fjällborstsvansar
+- Franjestaarten
+- Harjashännalised
+- kolmisukahäntäiset
+- Kögurskottur
+- Mdudu Mikia-mitatu
+- Qılquyruqlular
+- szczeciogonki
+- Thysanura
+- Tisanur
+- Tisanuros
+- Tizanure
+- Tizzardfarin
+- Zottenschwänze
+- zvīņenes
+- Łeʼesoołii bitseeʼ táʼígíí
+- Šeriauodegiai
+- šupinušky
+- Ščetinorepke
+- Θυσάνουρα
+- люспеници
+- Шчацінахвосткі
+- Щетинкохвості
+- זנבזיפאים
+- هدبيات الذيل
+- კუდჯაგრიანები
+- シミ目
+- 纓尾目
+- 缨尾目
+- 좀목
 title: Thysanura
 has_id_wikidata: Q226951
+dv_has_:
+  name_:
+    an: Thysanura
+    ar: هدبيات الذيل
+    arz: هدبيات الذيل
+    ast: Thysanura
+    az: Qılquyruqlular
+    be: Шчацінахвосткі
+    bg: люспеници
+    ca: Tisanur
+    ceb: Thysanura
+    cs: šupinušky
+    de: Zottenschwänze
+    el: Θυσάνουρα
+    en: Thysanura
+    eo: Thysanura
+    es: Thysanura
+    et: Harjashännalised
+    eu: Thysanura
+    ext: Thysanura
+    fa: THYSANURA
+    fi: kolmisukahäntäiset
+    fr: Thysanura
+    ga: earr ghuaireach
+    gl: Tisanuros
+    he: זנבזיפאים
+    hr: Dlakorepci
+    ia: Thysanura
+    id: Thysanura
+    ie: Thysanura
+    io: Thysanura
+    is: Kögurskottur
+    it: Thysanura
+    ja: シミ目
+    ka: კუდჯაგრიანები
+    kab: Tizzardfarin
+    ko: 좀목
+    la: Thysanura
+    lt: Šeriauodegiai
+    lv: zvīņenes
+    mul: Thysanura
+    nb: Thysanura
+    nl: Franjestaarten
+    nv: Łeʼesoołii bitseeʼ táʼígíí
+    oc: Thysanura
+    pl: szczeciogonki
+    pt: Thysanura
+    pt-br: Thysanura
+    ro: Tizanure
+    ru: Thysanura
+    sl: Ščetinorepke
+    sq: Thysanura
+    sv: fjällborstsvansar
+    sw: Mdudu Mikia-mitatu
+    uk: Щетинкохвості
+    vi: Anh vĩ
+    vo: Thysanura
+    war: Thysanura
+    zh: 纓尾目
+    zh-cn: 缨尾目
+    zh-hans: 缨尾目
 ---
 # [[Thysanura]] 
 

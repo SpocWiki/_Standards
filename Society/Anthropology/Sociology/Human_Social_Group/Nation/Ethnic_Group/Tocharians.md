@@ -1,11 +1,137 @@
 ---
 aliases:
+- Người Tochari
+- orang Tokharia
+- Tocari
+- Tocarianos
+- Tocarios
+- tocaris
+- Tocharai
+- Tocharen
+- Tocharer
+- Tochari
+- Tocharians
+- Tocharové
+- Tocharowie
+- Toharci
+- Tohari
+- Toharieni
+- Toharlar
+- Tokaarit
+- Tokarianët
+- Tokario
+- Tokharer
+- Tokharere
+- Tokharerne
+- Tokhariens
+- Tokkarar
+- Toxalar
+- Toxarlar
+- Toĥarianoj
+- Tôkariana (vahoaka)
+- Τόχαροι
+- Тахары
+- Тохалар
+- Тохари
+- Тохарлар
+- Тохарци
+- тохары
+- Тоһарҙар
+- Тухориён
+- טוכארים
+- تخار
+- تخاريون
+- تخاری لوک
+- توحالار
+- توخارلار
+- तुषारी लोग
+- টোকারীয় জাতি
+- தொச்சாரியர்கள்
+- ტოხარები
+- トハラ人
+- 吐火罗
+- 吐火罗人
+- 吐火羅
+- 吐火羅人
+- 토하리인
 has_id_wikidata: Q192858
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Daxia,846492]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Daxia,846492]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 Commons_category: Tocharians
+dv_has_:
+  name_:
+    ar: تخاريون
+    ast: Tocarios
+    az: Toxarlar
+    azb: توخارلار
+    ba: Тоһарҙар
+    be: Тахары
+    be-tarask: Тахары
+    bg: Тохари
+    bn: টোকারীয় জাতি
+    ca: tocaris
+    cs: Tocharové
+    da: Tokharerne
+    de: Tocharer
+    el: Τόχαροι
+    en: Tocharians
+    eo: Toĥarianoj
+    es: tocarios
+    eu: Tokario
+    fa: تخار
+    fi: Tokaarit
+    fr: Tokhariens
+    gl: Tocarios
+    grc: Τόχαροι
+    he: טוכארים
+    hi: तुषारी लोग
+    hr: Toharci
+    id: orang Tokharia
+    is: Tokkarar
+    it: Tocari
+    ja: トハラ人
+    ka: ტოხარები
+    kk: Тохалар
+    kk-arab: توحالار
+    kk-cn: توحالار
+    kk-cyrl: Тохалар
+    kk-kz: Тохалар
+    kk-latn: Toxalar
+    kk-tr: Toxalar
+    ko: 토하리인
+    ky: Тохарлар
+    lt: Tocharai
+    lzh: 吐火羅
+    mg: Tôkariana (vahoaka)
+    nb: Tokharere
+    nl: Tocharen
+    pl: Tocharowie
+    pnb: تخاری لوک
+    pt: Tocarianos
+    ro: Toharieni
+    ru: тохары
+    sh: Tohari
+    sk: Tochari
+    sq: Tokarianët
+    sr: Тохарци
+    sv: Tokharer
+    ta: தொச்சாரியர்கள்
+    tg: Тухориён
+    tr: Toharlar
+    ug: توخارلار
+    uk: тохари
+    uz: Toxarlar
+    vec: tocari
+    vi: Người Tochari
+    yue: 吐火羅人
+    zh: 吐火罗人
+    zh-cn: 吐火罗
+    zh-hans: 吐火罗
+    zh-hant: 吐火羅
+    zh-hk: 吐火羅
+    zh-sg: 吐火罗
+    zh-tw: 吐火羅
 ---
-
 # [[Tocharians]] 
 
 #is_/same_as :: [[WD~Tocharians,192858]] 

@@ -1,9 +1,91 @@
 ---
 aliases:
-  - Backus–Naur form
-  - BNF(Backus–Naur_Form)
-  - BNF(Backus–Naur Form)
+- Backus eta Naurren formatu
+- Backus-Naur form
+- Backus-Naur-Form
+- Backus-Naur-vorm
+- Backus-Naurov oblik
+- Backus-Naurova oblika
+- Backusova-Naurova forma
+- Backus–Naur form
+- Backus–Naur-forma
+- Backus–Naur-muoto
+- Bekus-Naur forması
+- Bekus-Naurova forma
+- Bentuk Backus–Naur
+- BNF
+- BNF(Backus–Naur Form)
+- BNF(Backus–Naur_Form)
+- Forma de Backus i Naur
+- Formalismo de Backus-Naur
+- Forme de Backus-Naur
+- formo Backus-Naur
+- Notación de Backus-Naur
+- Notacja BNF
+- Μορφή Μπάκους-Νάουρ
+- Бекус-Наурова форма
+- Нотація Бекуса-Наура
+- Форма Бэкуса — Наура
+- صيغة باكوس ونور
+- فرم بکوس-نائور
+- बाक्कस-नार प्रारूप
+- பேக்கசு-நார் முறை
+- รูปแบบแบกคัส-เนาร์
+- ბეკუს-ნაურის ფორმალიზმი
+- バッカス・ナウア記法
+- 巴科斯範式
+- 巴科斯范式
+- 바쿠스-나우르 표기법
 has_id_wikidata: Q211577
+dv_has_:
+  name_:
+    ar: صيغة باكوس ونور
+    az: Bekus-Naur forması
+    ca: Forma de Backus i Naur
+    cs: Backusova-Naurova forma
+    da: Backus-Naur form
+    de: Backus-Naur-Form
+    el: Μορφή Μπάκους-Νάουρ
+    en: Backus–Naur form
+    eo: formo Backus-Naur
+    es: Notación de Backus-Naur
+    eu: Backus eta Naurren formatu
+    fa: فرم بکوس-نائور
+    fi: Backus–Naur-muoto
+    fr: Forme de Backus-Naur
+    gl: Backus-Naur Form
+    hi: बाक्कस-नार प्रारूप
+    hr: Backus-Naurov oblik
+    hu: Backus–Naur-forma
+    is: BNF
+    it: Backus-Naur Form
+    ja: バッカス・ナウア記法
+    ka: ბეკუს-ნაურის ფორმალიზმი
+    ko: 바쿠스-나우르 표기법
+    lmo: Backus-Naur Form
+    ms: Bentuk Backus–Naur
+    nb: Backus-Naur form
+    nl: Backus-Naur-vorm
+    pl: Notacja BNF
+    pt: Formalismo de Backus-Naur
+    ru: Форма Бэкуса — Наура
+    sh: Backus-Naurov oblik
+    sl: Backus-Naurova oblika
+    sr: Бекус-Наурова форма
+    sr-ec: Бекус-Наурова форма
+    sr-el: Bekus-Naurova forma
+    sv: Backus-Naur-form
+    ta: பேக்கசு-நார் முறை
+    th: รูปแบบแบกคัส-เนาร์
+    tr: Backus-Naur form
+    uk: Нотація Бекуса-Наура
+    zh: 巴科斯范式
+    zh-cn: 巴科斯范式
+    zh-hans: 巴科斯范式
+    zh-hant: 巴科斯範式
+    zh-hk: 巴科斯範式
+    zh-sg: 巴科斯范式
+    zh-tw: 巴科斯範式
 ---
 ## #has_/text_of_/abstract 
 

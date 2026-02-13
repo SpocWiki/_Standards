@@ -1,40 +1,199 @@
 ---
 aliases:
+- an tử
+- An-lo̍k-sí
+- beint líknardráp
+- Eitanāzija
+- eotanáis
+- Eutanaasia
+- eutanasi
+- eutanasia
+- eutanasie
+- Eutanasy
+- Eutanasya
+- Eutanaxia
+- eutanazie
+- Eutanazija
+- eutanazja
+- eutanàsia
+- Eutanásia
+- eutanázia
+- euthanasia
+- euthanasie
+- evtanazija
+- Evtanaziya
+- Ewtanaziya
+- ewthanasia
+- eŭtanazio
+- Genadedood
+- Myghin-varroo
+- Otanaziye
+- Sterbehilfe
+- Yuutanieja
+- ötanazi
+- Ευθανασία
+- евтаназія
+- евтаназија
+- Евтаназия
+- еутаназија
+- Эўтаназія
+- Эвтанази
+- эвтаназия
+- Էֆթանազիա
+- המתת חסד
+- مرگِ آسان
+- موت رحيم
+- یوتانازی
+- इच्छा मृत्यु या यूथेनेज़िया
+- इच्छा-मृत्यु
+- दयामरण
+- ইচ্ছামৃত্যু
+- ਸੁਖੈਨ ਮੌਤ
+- கருணைக் கொலை
+- కారుణ్య మరణం
+- ದಯಾಮರಣ
+- ദയാവധം
+- การุณยฆาต
+- ევთანასია
+- 安乐死
+- 安楽死
+- 安樂死
+- 안락사
 has_id_wikidata: Q100159
 different_from:
-  - "[[_Standards/WikiData/WD~assisted_suicide,689846]]"
-  - "[[_Standards/WikiData/WD~assisted_dying,101874706]]"
-has_goal: "[[_Standards/WikiData/WD~prevention,1717246]]"
+- '[[_Standards/WikiData/WD~assisted_suicide,689846]]'
+- '[[_Standards/WikiData/WD~assisted_dying,101874706]]'
+has_goal: '[[_Standards/WikiData/WD~prevention,1717246]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-connects_with: "[[_Standards/WikiData/WD~right_to_die,2044946]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+connects_with: '[[_Standards/WikiData/WD~right_to_die,2044946]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
-  - "[[_Standards/WikiData/WD~end_of_life_decision_making,110418604]]"
-practiced_by: "[[_Standards/WikiData/WD~Accabadora,3742379]]"
+- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+- '[[_Standards/WikiData/WD~end_of_life_decision_making,110418604]]'
+practiced_by: '[[_Standards/WikiData/WD~Accabadora,3742379]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_practice,4117999]]"
-  - "[[_Standards/WikiData/WD~assisted_dying,101874706]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~dignified_death,5276322]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Euthanasia,14403131]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Death,15884704]]"
-OmegaWiki_Defined_Meaning: "471979"
+- '[[_Standards/WikiData/WD~medical_practice,4117999]]'
+- '[[_Standards/WikiData/WD~assisted_dying,101874706]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dignified_death,5276322]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Euthanasia,14403131]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Death,15884704]]'
+OmegaWiki_Defined_Meaning: 471979
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%282-5%29%20Wanneer%20mag%20je%20iemand%20helpen%20met%20doodgaan-.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Intracardial-injection-rat.JPG
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Legality%20of%20euthanasia.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A6%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A4%A3.wav
-RIA_Novosti_reference: "39555671"
+RIA_Novosti_reference: 39555671
 UMLS_CUI: C0015187
 MeSH_tree_code:
-  - E02.760.905.199
-  - I01.880.735.344.500
-  - N02.421.585.905.199
+- E02.760.905.199
+- I01.880.735.344.500
+- N02.421.585.905.199
 PhilPapers_topic: euthanasia
 Commons_category: Euthanasia
 IPTC_NewsCode: mediatopic/20000811
+dv_has_:
+  name_:
+    af: Genadedood
+    anp: इच्छा मृत्यु या यूथेनेज़िया
+    ar: موت رحيم
+    ast: Eutanasia
+    az: Evtanaziya
+    be: Эўтаназія
+    be-tarask: эўтаназія
+    bg: Евтаназия
+    bn: ইচ্ছামৃত্যু
+    bs: Eutanazija
+    ca: eutanàsia
+    cs: eutanazie
+    cv: Эвтанази
+    cy: ewthanasia
+    da: eutanasi
+    de: Sterbehilfe
+    de-ch: Sterbehilfe
+    diq: Otanaziye
+    el: Ευθανασία
+    en: euthanasia
+    en-ca: Euthanasia
+    en-gb: euthanasia
+    eo: eŭtanazio
+    es: eutanasia
+    et: Eutanaasia
+    eu: eutanasia
+    fa: یوتانازی
+    fi: eutanasia
+    fo: eutanasi
+    fr: euthanasie
+    fy: Eutanasy
+    ga: eotanáis
+    gl: Eutanasia
+    gv: Myghin-varroo
+    ha: Euthanasia
+    he: המתת חסד
+    hi: इच्छा-मृत्यु
+    hr: Eutanazija
+    hu: eutanázia
+    hy: Էֆթանազիա
+    id: Eutanasia
+    is: beint líknardráp
+    it: eutanasia
+    ja: 安楽死
+    jam: Yuutanieja
+    jv: Eutanasia
+    ka: ევთანასია
+    kk: Эвтаназия
+    kn: ದಯಾಮರಣ
+    ko: 안락사
+    ky: эвтаназия
+    la: Euthanasia
+    lb: Euthanasie
+    lij: Eutanaxia
+    lt: Eutanazija
+    lv: Eitanāzija
+    lzh: 安樂死
+    mk: евтаназија
+    ml: ദയാവധം
+    mr: दयामरण
+    ms: Eutanasia
+    nan: An-lo̍k-sí
+    nb: eutanasi
+    nl: euthanasie
+    pa: ਸੁਖੈਨ ਮੌਤ
+    pl: eutanazja
+    pt: eutanasia
+    pt-br: Eutanásia
+    ro: eutanasie
+    ru: эвтаназия
+    sco: euthanasie
+    sh: Eutanazija
+    sk: eutanázia
+    sl: evtanazija
+    sq: Euthanasia
+    sr: еутаназија
+    sr-ec: еутаназија
+    sr-el: eutanazija
+    sv: eutanasi
+    ta: கருணைக் கொலை
+    te: కారుణ్య మరణం
+    th: การุณยฆาต
+    tk: Ewtanaziya
+    tl: Eutanasya
+    tr: ötanazi
+    uk: евтаназія
+    ur: مرگِ آسان
+    uz: Evtanaziya
+    vi: an tử
+    vls: euthanasie
+    wuu: 安乐死
+    yue: 安樂死
+    zh: 安乐死
+    zh-cn: 安乐死
+    zh-hans: 安乐死
+    zh-hant: 安樂死
+    zh-hk: 安樂死
+    zh-sg: 安乐死
+    zh-tw: 安樂死
 ---
-
 # [[Euthanasia]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Euthanasia,100159|WD~Euthanasia,100159]] 

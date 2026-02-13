@@ -1,49 +1,179 @@
 ---
 aliases:
-  - Autoimmune disease
-  - Autoimmunkrankheit
-  - Autoimmune_Disease
-  - Autoimmune Disease
+- auto-immuunziekte
+- autoimmun betegség
+- Autoimmun kasalliklar
+- autoimmun sjukdom
+- autoimmun sygdom
+- autoimmun sykdom
+- Autoimmune disease
+- Autoimmunerkrankung
+- Autoimmune_Disease
+- Autoimmunkrankheit
+- autoimmuunhaigus
+- autoimmuunisairaus
+- autoimuna bolest
+- Autoimune bolesti
+- autoimuninė liga
+- Autoimunitná choroba
+- autoimunitní onemocnění
+- Autoimūna slimība
+- avtoimunska bolezen
+- Aṭṭan affalman
+- boală autoimună
+- bệnh tự miễn dịch
+- choroby autoimmunologiczne
+- clefyd hunanimíwn
+- doenza autoinmune
+- doença autoimune
+- enfermedad autoinmune
+- Gaixotasun autoimmune
+- galar uath-imdhíonachta
+- Maladia autoimune
+- maladie auto-immune
+- malaltia autoimmunitària
+- malattia autoimmune
+- memimuna malsano
+- Morbus autoimmunitatis
+- Otoimmün hastalık
+- penyakit autoimun
+- Sjálfsofnæmissjúkdómur
+- Ugonjwa unaoshambulia kingamwili
+- Yare a nipadua no tumi ko tia nyarewa
+- αυτοάνοση νόσος
+- аўтаімуннае захворваньне
+- автоімунні захворювання
+- Автоимуна болест
+- Автоимунно заболяване
+- Аутоиммундық аурулар
+- аутоиммунные заболевания
+- аутоимуни поремећај
+- աուտոիմունային հիվանդություններ
+- מחלה אוטואימונית
+- اؤزگوونلیک مریضلیکلری
+- بیماری خودایمنی
+- خودکار مدافعتی بیماری
+- مرض مناعي ذاتي
+- स्वप्रतिरक्षित रोग
+- স্বতঃঅনাক্রম্য রোগ
+- ଅଟୋଇମ୍ମ୍ୟୁନ ଡିଜିଜ
+- தன்னுடல் தாக்குநோய்
+- స్వయం ప్రతిరక్షక వ్యాధి
+- ഓട്ടോഇമ്മ്യൂൺ രോഗങ്ങൾ
+- โรคภูมิต้านตนเอง
+- 自己免疫疾患
+- 自體免疫性疾病
+- 자가 면역 질환
 has_id_wikidata: Q8084905
 health_specialty:
-  - "[[_Standards/WikiData/WD~immunology,101929]]"
-  - "[[_Standards/WikiData/WD~rheumatology,327657]]"
+- '[[_Standards/WikiData/WD~immunology,101929]]'
+- '[[_Standards/WikiData/WD~rheumatology,327657]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
-  - "[[_Standards/WikiData/WD~nodding_disease,895930]]"
-  - "[[_Standards/WikiData/WD~systemic_lupus_erythematosus,1485]]"
-manifestation_of: "[[_Standards/WikiData/WD~autoimmunity,192360]]"
+- '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
+- '[[_Standards/WikiData/WD~nodding_disease,895930]]'
+- '[[_Standards/WikiData/WD~systemic_lupus_erythematosus,1485]]'
+manifestation_of: '[[_Standards/WikiData/WD~autoimmunity,192360]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~cyclosporine,367700]]"
-  - "[[_Standards/WikiData/WD~methylprednisolone,417222]]"
-  - "[[_Standards/WikiData/WD~dexamethasone,422252]]"
-  - "[[_Standards/WikiData/WD~prednisone,424972]]"
-  - "[[_Standards/WikiData/WD~azathioprine,18939]]"
+- '[[_Standards/WikiData/WD~cyclosporine,367700]]'
+- '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
+- '[[_Standards/WikiData/WD~dexamethasone,422252]]'
+- '[[_Standards/WikiData/WD~prednisone,424972]]'
+- '[[_Standards/WikiData/WD~azathioprine,18939]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~primary_immunodeficiency_disease,3043160]]"
-  - "[[_Standards/WikiData/WD~immune_disorder,3843811]]"
-  - "[[_Standards/WikiData/WD~hypersensitivity,5958765]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-has_cause: "[[_Standards/WikiData/WD~type_II_hypersensitivity,5898312]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Hypersensitivity_disease_by_cause,6330513]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-afflicts: "[[_Standards/WikiData/WD~immune_system,1059]]"
-ICD_9_CM: "720"
-DiseasesDB: "28805"
+- '[[_Standards/WikiData/WD~primary_immunodeficiency_disease,3043160]]'
+- '[[_Standards/WikiData/WD~immune_disorder,3843811]]'
+- '[[_Standards/WikiData/WD~hypersensitivity,5958765]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+has_cause: '[[_Standards/WikiData/WD~type_II_hypersensitivity,5898312]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hypersensitivity_disease_by_cause,6330513]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+afflicts: '[[_Standards/WikiData/WD~immune_system,1059]]'
+ICD_9_CM: 720
+DiseasesDB: 28805
 Commons_category: Autoimmune diseases and disorders
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Warm%20autoimmune%20hemolytic%20anemia.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:417
-  - http://purl.obolibrary.org/obo/DOID_417
+- http://identifiers.org/doid/DOID:417
+- http://purl.obolibrary.org/obo/DOID_417
 subreddit: Autoimmune
 UMLS_CUI:
-  - C0003089
-  - C0004364
+- C0003089
+- C0004364
 MeSH_tree_code: C20.111
-Dewey_Decimal_Classification: "571.973"
+Dewey_Decimal_Classification: 571.973
+dv_has_:
+  name_:
+    ar: مرض مناعي ذاتي
+    azb: اؤزگوونلیک مریضلیکلری
+    be-tarask: аўтаімуннае захворваньне
+    bg: Автоимунно заболяване
+    bn: স্বতঃঅনাক্রম্য রোগ
+    bs: Autoimune bolesti
+    ca: malaltia autoimmunitària
+    cs: autoimunitní onemocnění
+    cy: clefyd hunanimíwn
+    da: autoimmun sygdom
+    de: Autoimmunerkrankung
+    el: αυτοάνοση νόσος
+    en: autoimmune disease
+    en-ca: Autoimmune disease
+    en-gb: autoimmune disease
+    eo: memimuna malsano
+    es: enfermedad autoinmune
+    et: autoimmuunhaigus
+    eu: Gaixotasun autoimmune
+    fa: بیماری خودایمنی
+    fi: autoimmuunisairaus
+    fr: maladie auto-immune
+    ga: galar uath-imdhíonachta
+    gl: doenza autoinmune
+    gpe: Autoimmune disease
+    he: מחלה אוטואימונית
+    hi: स्वप्रतिरक्षित रोग
+    hr: autoimuna bolest
+    hu: autoimmun betegség
+    hy: աուտոիմունային հիվանդություններ
+    id: penyakit autoimun
+    ig: Autoimmune disease
+    is: Sjálfsofnæmissjúkdómur
+    it: malattia autoimmune
+    ja: 自己免疫疾患
+    kab: Aṭṭan affalman
+    kk: Аутоиммундық аурулар
+    ko: 자가 면역 질환
+    la: Morbus autoimmunitatis
+    lfn: Maladia autoimune
+    lt: autoimuninė liga
+    lv: Autoimūna slimība
+    mk: Автоимуна болест
+    ml: ഓട്ടോഇമ്മ്യൂൺ രോഗങ്ങൾ
+    ms: Penyakit autoimun
+    nb: autoimmun sykdom
+    ne: स्वप्रतिरक्षित रोग
+    nl: auto-immuunziekte
+    nn: autoimmun sjukdom
+    or: ଅଟୋଇମ୍ମ୍ୟୁନ ଡିଜିଜ
+    pl: choroby autoimmunologiczne
+    pt: doença autoimune
+    ro: boală autoimună
+    ru: аутоиммунные заболевания
+    sh: Autoimune bolesti
+    sk: Autoimunitná choroba
+    sl: avtoimunska bolezen
+    sr: аутоимуни поремећај
+    sw: Ugonjwa unaoshambulia kingamwili
+    ta: தன்னுடல் தாக்குநோய்
+    te: స్వయం ప్రతిరక్షక వ్యాధి
+    th: โรคภูมิต้านตนเอง
+    tr: Otoimmün hastalık
+    tw: Yare a nipadua no tumi ko tia nyarewa
+    uk: автоімунні захворювання
+    ur: خودکار مدافعتی بیماری
+    uz: Autoimmun kasalliklar
+    vi: bệnh tự miễn dịch
+    zh: 自體免疫性疾病
 ---
-
 # [[Autoimmune_Disease]] 
 
 #is_/same_as :: [[WD~Autoimmune_disease,8084905]]

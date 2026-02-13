@@ -1,17 +1,88 @@
 ---
 aliases:
-  - Degree Fahrenheit
-  - Grad Fahrenheit
-  - Degree_Fahrenheit
+- céim Fahrenheit
+- Degre Farennayt
+- Degree Fahrenheit
+- Degree_Fahrenheit
+- degré Fahrenheit
+- Derez Fahrenheit
+- Faaranhaayt
+- Fahrenhayt
+- Fahrenheit
+- Fahrenheit gradu
+- Fahrenheit-asteikko
+- Fahrenheit-fok
+- Fahrenheiti skaala
+- Fahrenheitova termometarska skala
+- Fahrenheitsjaol
+- Farenait
+- Farengeyt
+- Farengeyt şkalası
+- Farenheito skalė
+- Farinhayt
+- Fārenheita grāds
+- Graad Fahrenheit
+- Grad Fahrenheit
+- gradd Fahrenheit
+- grader fahrenheit
+- grado Fahrenheit
+- grado farenhejta
+- Gradu Fahrenheit
+- grao Fahrenheit
+- Grau Fahrenheit
+- grau(s) Fahrenheit
+- stopień Fahrenheita
+- stopinja Fahrenheita
+- stupeň Fahrenheita
+- °F
+- độ Fahrenheit
+- κλίμακα Φαρενάιτ
+- градус Фаренгейта
+- градус Фаренхайт
+- градус Фарэнгайта
+- градус Фарэнгейта
+- Фаренгейт
+- Фаренгейт градусы
+- Фаренгейт шкаласы
+- Фаренгейты градус
+- фаренхајт
+- Фаренхајтов степен
+- Фаренһейт градысы
+- מעלות פרנהייט
+- פארענהייט
+- فارن ہائٹ
+- فارنهایت
+- فارنہائٹ
+- فارەنھایت
+- فهرنهايت
+- مقیاس فارنهایت
+- फारनहाइट
+- फॉरेन्हाइट
+- ফারেনহাইট
+- ফাৰেনহাইট
+- ਫ਼ਾਰਨਹਾਈਟ
+- பாரன்ஃகைட்
+- ఫారెన్హీట్
+- ಫಾಹ್ರೆನ್ಹೈಟ್
+- ഫാരൺഹീറ്റ്
+- องศาฟาเรนไฮต์
+- ဒီဂရီ ဖာရင်ဟိုက်
+- ფარენჰაიტი
+- ᎤᏪᏘ ᎠᏟᎶᎥ
+- ℉
+- 华氏温标
+- 華氏
+- 華氏度
+- 화씨도
 has_id_wikidata: Q42289
 different_from:
-  - '[[_Standards/WikiData/WD~french_degree,3021268]]'
-  - '[[_Standards/WikiData/WD~degree_Fahrenheit_difference,69364146]]'
-  - '[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]'
+- '[[_Standards/WikiData/WD~french_degree,3021268]]'
+- '[[_Standards/WikiData/WD~degree_Fahrenheit_difference,69364146]]'
+- '[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
-  - '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
+- '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~degree_Rankine,37732658]]'
 measurement_scale: '[[_Standards/WikiData/WD~Fahrenheit_scale,105525247]]'
 measured_physical_quantity: '[[_Standards/WikiData/WD~Fahrenheit_temperature,106432709]]'
@@ -27,13 +98,120 @@ UCUM_code: '[degF]'
 Unicode_character: ℉
 Wikidata_SPARQL_query_equivalent: wd:Q42289 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 unit_symbol:
-  - °F
-  - °F
-  - °F
-  - °F
-  - ℉
+- °F
+- °F
+- °F
+- °F
+- ℉
+dv_has_:
+  name_:
+    af: Fahrenheit
+    an: Grau Fahrenheit
+    ar: فهرنهايت
+    as: ফাৰেনহাইট
+    ast: Grau Fahrenheit
+    az: Farengeyt şkalası
+    azb: فارنهایت
+    ba: Фаренгейт градусы
+    bcl: Fahrenheit
+    be: градус Фарэнгейта
+    be-tarask: градус Фарэнгайта
+    bg: градус Фаренхайт
+    bn: ফারেনহাইট
+    br: Derez Fahrenheit
+    ca: grau Fahrenheit
+    chr: ᎤᏪᏘ ᎠᏟᎶᎥ
+    ckb: فارەنھایت
+    cs: stupeň Fahrenheita
+    cy: gradd Fahrenheit
+    da: Fahrenheit
+    de: Grad Fahrenheit
+    el: κλίμακα Φαρενάιτ
+    en: degree Fahrenheit
+    en-ca: Fahrenheit
+    en-gb: Fahrenheit
+    eo: grado farenhejta
+    es: grado Fahrenheit
+    et: Fahrenheiti skaala
+    eu: Fahrenheit gradu
+    fa: مقیاس فارنهایت
+    fi: Fahrenheit-asteikko
+    fo: Fahrenheit
+    fr: degré Fahrenheit
+    frr: Graad Fahrenheit
+    fy: Fahrenheit
+    ga: céim Fahrenheit
+    gl: grao Fahrenheit
+    he: מעלות פרנהייט
+    hi: फॉरेन्हाइट
+    hr: Fahrenheitova termometarska skala
+    ht: Degre Farennayt
+    hu: Fahrenheit-fok
+    hy: °F
+    ia: Grado Fahrenheit
+    id: Fahrenheit
+    ilo: grado Fahrenheit
+    io: grado Fahrenheit
+    is: Fahrenheit
+    it: grado Fahrenheit
+    ja: 華氏度
+    jam: Farenait
+    ka: ფარენჰაიტი
+    kk: Фаренгейт шкаласы
+    kn: ಫಾಹ್ರೆನ್ಹೈಟ್
+    ko: 화씨도
+    ku: Farinhayt
+    lb: Grad Fahrenheit
+    li: Fahrenheitsjaol
+    lt: Farenheito skalė
+    lv: Fārenheita grāds
+    mk: Фаренхајтов степен
+    ml: ഫാരൺഹീറ്റ്
+    mn: Фаренгейт
+    mr: फारनहाइट
+    ms: Fahrenheit
+    mt: grad Fahrenheit
+    mul: ℉
+    my: ဒီဂရီ ဖာရင်ဟိုက်
+    nb: grader fahrenheit
+    nds: Grad Fahrenheit
+    nl: Fahrenheit
+    nn: grader fahrenheit
+    oc: Fahrenheit
+    os: Фаренгейты градус
+    pa: ਫ਼ਾਰਨਹਾਈਟ
+    pl: stopień Fahrenheita
+    pnb: فارن ہائٹ
+    pt: grau Fahrenheit
+    pt-br: grau(s) Fahrenheit
+    ro: grad Fahrenheit
+    ru: градус Фаренгейта
+    scn: Gradu Fahrenheit
+    sco: Fahrenheit
+    sh: Fahrenheitova termometarska skala
+    sk: stupeň Fahrenheita
+    sl: stopinja Fahrenheita
+    so: Faaranhaayt
+    sr: фаренхајт
+    sr-ec: фаренхајт
+    sv: grad Fahrenheit
+    sw: Fahrenheit
+    ta: பாரன்ஃகைட்
+    te: ఫారెన్హీట్
+    th: องศาฟาเรนไฮต์
+    tl: Fahrenheit
+    tr: Fahrenhayt
+    tt: Фаренһейт градысы
+    uk: градус Фаренгейта
+    ur: فارنہائٹ
+    uz: Farengeyt
+    vi: độ Fahrenheit
+    war: Fahrenheit
+    wuu: 华氏温标
+    yi: פארענהייט
+    yue: 華氏
+    zh: 华氏温标
 ---
-
 # [[Degree_Fahrenheit]] 
 
 #is_/similar_to :: [[../Unit~Celsius|Unit~Celsius]] 

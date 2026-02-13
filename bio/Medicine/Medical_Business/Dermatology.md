@@ -1,31 +1,91 @@
 ---
 aliases:
-  - dermatology
-  - Dermatologie
-  - is_a_dermatology
-  - Dermatology
+- bőrgyógyászat
+- cildiye
+- Crackan-oaylleeaght
+- deirmeolaíocht
+- Dermatoleg
+- Dermatolochía
+- dermatologi
+- dermatologia
+- Dermatologie
+- dermatologiezh
+- dermatologiija
+- Dermatologija
+- Dermatologijə
+- dermatologio
+- dermatologiya
+- Dermatologjia
+- dermatology
+- dermatología
+- Dermatologïya
+- Dermatolohiya
+- dermatolojia
+- dermatoloogia
+- dermatoloxía
+- dermatoloģija
+- dermatológia
+- dermatołoxia
+- Hoedkónde
+- is_a_dermatology
+- khoa da liễu
+- Phê-hu Pīⁿ-ha̍k
+- Qara hampikamayuq
+- tasnaglimt
+- Çermnasî
+- δερματολογία
+- дерматологія
+- дерматологија
+- дерматология
+- дэрматалёгія
+- дэрматалогія
+- մաշկաբանություն
+- רפואת עור
+- جلدیات
+- درماتولوژی
+- درماتولوݢي
+- دەرماتولوگىييا
+- طب الجلد
+- ڈرمیٚٹولوجی
+- ߜߟߏ߬ ߖߊ߲ߞߊߙߏ
+- डर्म्याटोलोजी
+- त्वचाविज्ञान
+- दर्मातोलोजी
+- চর্মরোগবিদ্যা
+- ਡਰਮਾਟੋਲੋਜੀ
+- தோல் மருத்துவம்
+- ಚರ್ಮಶಾಸ್ತ್ರ
+- ഡെർമറ്റോളജി
+- චර්ම රෝග පිළිබද අධ්යයන විද්යාව
+- ตจวิทยา
+- დერმატოლოგია
+- 皮肤病学
+- 皮膚病學
+- 皮膚科
+- 皮膚科学
+- 피부과
 has_id_wikidata: Q171171
 confidential: private
 cssclasses:
-  - Type
-  - private
-  - note
+- Type
+- private
+- note
 draft: true
 enumerationtype: MedicalSpecialty
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - dermatology
+- dermatology
 layout: ''
 license: (c)copyrighted
 publish: false
 publishDate: ''
 supersedes: Dermatologic
 tags:
-  - class/Class
-  - schema-org/Class
-  - excalidraw
+- class/Class
+- schema-org/Class
+- excalidraw
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -33,17 +93,17 @@ excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'
 lang: en
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~health_sciences,843601]]'
-  - '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
+- '[[_Standards/WikiData/WD~health_sciences,843601]]'
+- '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~skin_disease,949302]]'
-  - '[[_Standards/WikiData/WD~skin,1074]]'
+- '[[_Standards/WikiData/WD~skin_disease,949302]]'
+- '[[_Standards/WikiData/WD~skin,1074]]'
 practiced_by: '[[_Standards/WikiData/WD~dermatologist,2447386]]'
 IAB_code: 309
 All_Science_Journal_Classification_Codes: 2708
@@ -59,8 +119,120 @@ Commons_gallery: Dermatology
 Commons_category: Dermatology
 MeSH_tree_code: H02.403.225
 OpenStreetMap_tag_or_key: Tag:healthcare:speciality=dermatology
+dv_has_:
+  name_:
+    an: Dermatolochía
+    ar: طب الجلد
+    ast: dermatoloxía
+    az: dermatologiya
+    azb: درماتولوژی
+    ba: Дерматология
+    bcl: Dermatolohiya
+    be: дэрматалогія
+    be-tarask: дэрматалёгія
+    bg: Дерматология
+    bn: চর্মরোগবিদ্যা
+    br: dermatologiezh
+    bs: Dermatologija
+    ca: dermatologia
+    cs: dermatologie
+    cy: Dermatoleg
+    da: dermatologi
+    de: Dermatologie
+    el: δερματολογία
+    en: dermatology
+    eo: dermatologio
+    es: dermatología
+    et: dermatoloogia
+    eu: dermatologia
+    fa: درماتولوژی
+    fi: dermatologia
+    fr: dermatologie
+    fy: Dermatology
+    ga: deirmeolaíocht
+    gl: dermatoloxía
+    gv: Crackan-oaylleeaght
+    he: רפואת עור
+    hi: त्वचाविज्ञान
+    hr: dermatologija
+    hu: bőrgyógyászat
+    hy: մաշկաբանություն
+    id: Dermatologi
+    io: Dermatologio
+    it: dermatologia
+    ja: 皮膚科学
+    jv: Dermatologi
+    ka: დერმატოლოგია
+    kab: tasnaglimt
+    kk: Дерматология
+    kk-arab: دەرماتولوگىييا
+    kk-cn: دەرماتولوگىييا
+    kk-cyrl: Дерматология
+    kk-kz: Дерматология
+    kk-latn: Dermatologïya
+    kk-tr: Dermatologïya
+    kn: ಚರ್ಮಶಾಸ್ತ್ರ
+    ko: 피부과
+    ks: ڈرمیٚٹولوجی
+    ku: Çermnasî
+    ky: Дерматология
+    la: Dermatologia
+    lb: Dermatologie
+    lfn: dermatolojia
+    li: Hoedkónde
+    lt: dermatologija
+    lv: dermatoloģija
+    mk: дерматологија
+    ml: ഡെർമറ്റോളജി
+    ms: dermatologi
+    ms-arab: درماتولوݢي
+    nan: Phê-hu Pīⁿ-ha̍k
+    nb: dermatologi
+    ne: डर्म्याटोलोजी
+    new: दर्मातोलोजी
+    nl: dermatologie
+    nn: dermatologi
+    nqo: ߜߟߏ߬ ߖߊ߲ߞߊߙߏ
+    pa: ਡਰਮਾਟੋਲੋਜੀ
+    pl: dermatologia
+    pt: dermatologia
+    qu: Qara hampikamayuq
+    ro: dermatologie
+    ru: дерматология
+    se: dermatologiija
+    sh: Dermatologija
+    si: චර්ම රෝග පිළිබද අධ්යයන විද්යාව
+    sk: dermatológia
+    sl: dermatologija
+    smn: dermatologia
+    sms: dermatologia
+    sq: Dermatologjia
+    sr: дерматологија
+    sr-ec: Дерматологија
+    sr-el: Dermatologija
+    sv: dermatologi
+    ta: தோல் மருத்துவம்
+    th: ตจวิทยา
+    tly: Dermatologijə
+    tr: cildiye
+    tt: дерматология
+    uk: дерматологія
+    ur: جلدیات
+    uz: Dermatologiya
+    vec: dermatołoxia
+    vi: khoa da liễu
+    war: Dermatolohiya
+    wuu: 皮肤病学
+    xmf: დერმატოლოგია
+    yue: 皮膚科
+    zh: 皮肤病学
+    zh-cn: 皮肤病学
+    zh-hans: 皮肤病学
+    zh-hant: 皮膚病學
+    zh-hk: 皮膚病學
+    zh-sg: 皮肤病学
+    zh-tw: 皮膚病學
 ---
-
 # [[Dermatology]] 
 
 

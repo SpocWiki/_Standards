@@ -1,19 +1,79 @@
 ---
-has_time_started: 1940-01-01 
+has_time_started: 1940-01-01
 aliases:
-  - Postmodernismus
-  - Postmoderne
-  - Postmodernism
+- chủ nghĩa hậu hiện đại
+- D Postmodärne
+- iar-nua-aoiseachas
+- Pascamodenisme
+- Posmodernisme
+- posmodernismo
+- posmodernismu
+- postmoderna
+- Postmoderne
+- Postmodernism
+- postmodernisma
+- postmodernisme
+- postmodernismi
+- postmodernismm
+- postmodernismo
+- postmodernisms
+- Postmodernismus
+- postmodernitat
+- Postmodernitate
+- Postmodernizam
+- postmodernizem
+- Postmodernizm
+- Postmodernizmas
+- Postmodernizmi
+- postmodernîzm
+- posztmodern
+- Puosmadanizim
+- Pòsmodèrnism
+- pós-modernismo
+- Póstmódernismi
+- Ôl-foderniaeth
+- Āu-hiān-tāi-chú-gī
+- Μεταμοντερνισμός
+- постмадэрнізм
+- постмодернізм
+- постмодернизам
+- постмодернизм
+- Постмодернизъм
+- պոստմոդեռնիզմ
+- פוסטמודרניזם
+- تامورعصرييت
+- حركة ما بعد الحداثة
+- كىيىنكى زامانىۋىلىق
+- مابعد الحداثه
+- مابعد جدیدیت
+- وروستۍ نوواله
+- پاش نوێگەری
+- پسانوگرایی
+- پستمدرنیزم
+- उत्तर आधुनिकतावाद
+- उत्तरआधुनिकतावाद
+- উত্তর আধুনিকতাবাদ
+- নৱন্যাসবাদ
+- ਉੱਤਰਆਧੁਨਿਕਤਾਵਾਦ
+- பின்நவீனத்துவம்
+- ഉത്തരാധുനികത
+- แนวคิดหลังยุคนวนิยม
+- პოსტმოდერნიზმი
+- ポストモダン
+- 后现代
+- 后现代主义
+- 後現代主義
+- 포스트모더니즘
 has_id_wikidata: Q47783
 founded_by:
-  - '[[_Standards/WikiData/WD~Charles_Jencks,354634]]'
-  - '[[_Standards/WikiData/WD~Christopher_Alexander,455076]]'
+- '[[_Standards/WikiData/WD~Charles_Jencks,354634]]'
+- '[[_Standards/WikiData/WD~Christopher_Alexander,455076]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Postmodernity,2249769]]'
-  - '[[_Standards/WikiData/WD~Postmodernism,7234389]]'
+- '[[_Standards/WikiData/WD~Postmodernity,2249769]]'
+- '[[_Standards/WikiData/WD~Postmodernism,7234389]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Postmodernism,6960433]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~post_avant_garde,113005557]]'
 start_time: 1940-01-01T00:00:00Z
@@ -23,8 +83,110 @@ UMLS_CUI: C0871995
 MeSH_tree_code: K01.752.720
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/POSTMODERNIZM.html
 Commons_category: Postmodernism
+dv_has_:
+  name_:
+    af: Postmodernisme
+    ar: حركة ما بعد الحداثة
+    ary: تامورعصرييت
+    arz: مابعد الحداثه
+    as: নৱন্যাসবাদ
+    ast: posmodernismu
+    az: Postmodernizm
+    azb: پستمدرنیزم
+    be: постмадэрнізм
+    be-tarask: постмадэрнізм
+    bg: Постмодернизъм
+    bn: উত্তর আধুনিকতাবাদ
+    bs: Postmodernizam
+    ca: postmodernitat
+    ckb: پاش نوێگەری
+    cs: postmoderna
+    cy: Ôl-foderniaeth
+    da: Postmodernisme
+    de: Postmoderne
+    el: Μεταμοντερνισμός
+    en: Postmodernism
+    eo: postmodernismo
+    es: posmodernismo
+    et: postmodernism
+    eu: Postmodernitate
+    fa: پسانوگرایی
+    fi: postmodernismi
+    fr: postmodernisme
+    ga: iar-nua-aoiseachas
+    gan: 後現代主義
+    gcr: Pòsmodèrnism
+    gl: Posmodernismo
+    gsw: D Postmodärne
+    ha: Postmodernism
+    he: פוסטמודרניזם
+    hi: उत्तर आधुनिकतावाद
+    hr: Postmoderna
+    hu: posztmodern
+    hy: պոստմոդեռնիզմ
+    ia: Postmodernismo
+    id: postmodernisme
+    io: Postmodernismo
+    is: Póstmódernismi
+    it: postmodernismo
+    ja: ポストモダン
+    jam: Puosmadanizim
+    ka: პოსტმოდერნიზმი
+    kk: Постмодернизм
+    ko: 포스트모더니즘
+    ku: postmodernîzm
+    ku-latn: postmodernîzm
+    la: Postmodernismus
+    li: Posmodernisme
+    lt: Postmodernizmas
+    lv: postmodernisms
+    mk: постмодернизам
+    ml: ഉത്തരാധുനികത
+    ms: Pascamodenisme
+    nan: Āu-hiān-tāi-chú-gī
+    nb: postmodernisme
+    nds-nl: postmodernisme
+    ne: उत्तरआधुनिकतावाद
+    nl: postmodernisme
+    nn: postmodernisme
+    os: постмодернизм
+    pa: ਉੱਤਰਆਧੁਨਿਕਤਾਵਾਦ
+    pl: Postmodernizm
+    pms: Postmodernism
+    ps: وروستۍ نوواله
+    pt: pós-modernismo
+    pt-br: pós-modernismo
+    ro: postmodernism
+    ru: постмодернизм
+    se: postmodernisma
+    sh: Postmodernizam
+    sk: Postmoderna
+    sl: postmodernizem
+    smn: postmodernism
+    sms: postmodernismm
+    sq: Postmodernizmi
+    sr: постмодернизам
+    sr-ec: постмодернизам
+    sr-el: postmodernizam
+    sv: postmodernism
+    ta: பின்நவீனத்துவம்
+    th: แนวคิดหลังยุคนวนิยม
+    tr: Postmodernizm
+    tt: Постмодернизм
+    ug: كىيىنكى زامانىۋىلىق
+    uk: постмодернізм
+    ur: مابعد جدیدیت
+    uz: Postmodernizm
+    vi: chủ nghĩa hậu hiện đại
+    wuu: 后现代
+    yue: 後現代主義
+    zh: 后现代主义
+    zh-cn: 后现代主义
+    zh-hans: 后现代主义
+    zh-hant: 後現代主義
+    zh-hk: 後現代主義
+    zh-tw: 後現代主義
 ---
-
 # [[Postmodernism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Postmodernism,47783|WD~Postmodernism,47783]] 

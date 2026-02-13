@@ -1,25 +1,187 @@
 ---
 aliases:
-  - Bathtub
+- badekar
+- Badewanne
+- badkar
+- badkuip
+- badkupe
+- baignoire
+- bainuontzi
+- Bak mandi
+- Ballan
+- banheira
+- banujo
+- Banyera
+- Bathtub
+- Baðker
+- Bañeira
+- bañera
+- Bodwann
+- Buedbidden
+- Büdd
+- Bồn tắm
+- Cadă
+- Ch'illami
+- Ebe ịsa ahụ
+- E̍k-tháng
+- folcadán
+- fürdőkád
+- Jedhing
+- Kada
+- kapacimo orakan
+- Kibell
+- kopalna kad
+- kylpyamme
+- Küvet
+- laauǥkaarât
+- laavkome-lihtie
+- Labrum
+- lávggomgárre
+- lávgungárri
+- lávguääldis
+- vana
+- vann
+- Vanna
+- vasca da bagno
+- vaňa
+- vonia
+- Wanna kąpielowa
+- μπανιέρα
+- Вана
+- ванна
+- када
+- Լոգարան
+- אמבטיה
+- וואנע
+- بانيو banyo
+- بانیۆ
+- حوض استحمام
+- وان (حمام)
+- وھنجڻ وارو ٽب
+- ۆاننا
+- स्नानपात्र
+- குளியல் தொட்டி
+- აბაზანა
+- 沖涼缸
+- 浴槽
+- 浴缸
+- 욕조
 has_id_wikidata: Q152095
 has_use:
-  - "[[_Standards/WikiData/WD~bathing,327651]]"
-  - "[[_Standards/WikiData/WD~washing,23841]]"
+- '[[_Standards/WikiData/WD~bathing,327651]]'
+- '[[_Standards/WikiData/WD~washing,23841]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_container,987767]]"
-  - "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
-described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-different_from: "[[_Standards/WikiData/WD~Wanna,7967993]]"
+- '[[_Standards/WikiData/WD~physical_container,987767]]'
+- '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
+described_by_source: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+different_from: '[[_Standards/WikiData/WD~Wanna,7967993]]'
 Nomenclature_for_Museum_Cataloging: 282
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1rm60rt0t%20rtbcwh.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000991
-Unicode_character: 🛁
+Unicode_character: "\U0001F6C1"
 Iconclass_notation: 41A2411
 P8189: 987007284632405100
 Commons_category: Bathtubs
 IMDb_keyword: bathtub
+dv_has_:
+  name_:
+    an: Banyera
+    ar: حوض استحمام
+    arz: بانيو banyo
+    ast: bañera
+    atj: kapacimo orakan
+    az: Vanna
+    ba: Ванна
+    bar: Bodwann
+    be: ванна
+    be-tarask: ванна
+    bg: Вана
+    br: Kibell
+    ca: banyera
+    ckb: بانیۆ
+    cs: vana
+    da: badekar
+    de: Badewanne
+    de-ch: Badewanne
+    el: μπανιέρα
+    en: bathtub
+    en-ca: Bathtub
+    en-gb: bathtub
+    eo: banujo
+    es: bañera
+    et: vann
+    eu: bainuontzi
+    fa: وان (حمام)
+    fi: kylpyamme
+    fr: baignoire
+    ga: folcadán
+    gd: Ballan
+    gl: Bañeira
+    he: אמבטיה
+    hi: स्नानपात्र
+    hr: Kada
+    hu: fürdőkád
+    hy: Լոգարան
+    id: Bak mandi
+    ig: Ebe ịsa ahụ
+    is: Baðker
+    it: vasca da bagno
+    ja: 浴槽
+    jv: Jedhing
+    ka: აბაზანა
+    kk: Ванна
+    kk-arab: ۆاننا
+    kk-cn: ۆاننا
+    kk-cyrl: Ванна
+    kk-kz: Ванна
+    kk-latn: Vanna
+    kk-tr: Vanna
+    ko: 욕조
+    ksh: Büdd
+    ky: Ванна
+    la: Labrum
+    lb: Buedbidden
+    lt: vonia
+    lv: vanna
+    mk: када
+    nan: E̍k-tháng
+    nb: badekar
+    nds-nl: badkupe
+    nl: badkuip
+    nn: badekar
+    pl: Wanna kąpielowa
+    pt: banheira
+    pt-br: Banheira
+    qu: Ch'illami
+    ro: Cadă
+    ru: ванна
+    sd: وھنجڻ وارو ٽب
+    se: lávgungárri
+    sk: vaňa
+    sl: kopalna kad
+    sma: laavkome-lihtie
+    smj: lávggomgárre
+    smn: lávguääldis
+    sms: laauǥkaarât
+    sr: када
+    sv: badkar
+    ta: குளியல் தொட்டி
+    tr: Küvet
+    tyv: Ванна
+    uk: ванна
+    uz: Vanna
+    vi: Bồn tắm
+    wuu: 浴缸
+    yi: וואנע
+    yue: 沖涼缸
+    zh: 浴缸
+    zh-cn: 浴缸
+    zh-hans: 浴缸
+    zh-hant: 浴缸
+    zh-hk: 浴缸
+    zh-sg: 浴缸
+    zh-tw: 浴缸
 ---
-
 # [[Bathtub]] 🛁 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Bathtub,152095|WD~Bathtub,152095]] 

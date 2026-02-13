@@ -1,9 +1,58 @@
 ---
 aliases:
-  - sausage millipedes
-  - Chordeumatida
+- Chordeumatida
+- Cordeumàtides
+- sausage millipedes
+- Vinterdubbelfotingar
+- нитеносцы
+- عصبية الظهر
+- 微型馬陸目
+- 索马陆目
 title: Chordeumatida
 has_id_wikidata: Q4300743
+dv_has_:
+  name_:
+    an: Chordeumatida
+    ar: عصبية الظهر
+    arz: عصبية الظهر
+    ast: Chordeumatida
+    bg: Chordeumatida
+    ca: Cordeumàtides
+    ceb: Chordeumatida
+    de: Chordeumatida
+    en: Chordeumatida
+    eo: Chordeumatida
+    es: Chordeumatida
+    eu: Chordeumatida
+    ext: Chordeumatida
+    fi: Chordeumatida
+    fr: Chordeumatida
+    ga: Chordeumatida
+    gl: Chordeumatida
+    ia: Chordeumatida
+    ie: Chordeumatida
+    io: Chordeumatida
+    it: Chordeumatida
+    la: Chordeumatida
+    mul: Chordeumatida
+    nl: Chordeumatida
+    oc: Chordeumatida
+    pl: Chordeumatida
+    pt: Chordeumatida
+    pt-br: Chordeumatida
+    ro: Chordeumatida
+    ru: нитеносцы
+    sq: Chordeumatida
+    sv: Vinterdubbelfotingar
+    tr: Chordeumatida
+    uk: Chordeumatida
+    vi: Chordeumatida
+    vo: Chordeumatida
+    war: Chordeumatida
+    zh: 索马陆目
+    zh-cn: 索马陆目
+    zh-hans: 索马陆目
+    zh-tw: 微型馬陸目
 ---
 # [[Chordeumatida]] 
 

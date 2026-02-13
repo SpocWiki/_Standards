@@ -1,18 +1,85 @@
 ---
 aliases:
-  - pasteurisation
-  - Pasteurization
+- Paaschraizieshan
+- paistéarachán
+- pasterace
+- Pasterizacija
+- Pasterizimi
+- Pasterizácia
+- Pasterizācija
+- Pasterizə
+- Pasterlash
+- pasteryzacja
+- Pasteureiddio
+- Pasteurekaat
+- Pasteurisasi
+- Pasteurisasie
+- Pasteurisasyon
+- pasteurisation
+- pasteuriseren
+- Pasteurisering
+- Pasteurisierung
+- Pasteuriso
+- pasteurització
+- pasteurización
+- Pasteurizare
+- Pasteurizasiù
+- pasteurizatio
+- Pasteurization
+- Pasteurizazio
+- Pasteurizaçon
+- pasteurização
+- Pasteŭrizado
+- pastorizzazione
+- Pastorîzasyon
+- Pastòrizasyon
+- pastörisering
+- Pastörizasyon
+- Pastörointi
+- Pastöörimine
+- pasztőrözés
+- Pempasteuran
+- Phương pháp tiệt trùng Pasteur
+- Upasteurishaji
+- Παστερίωση
+- Пастеризація
+- Пастеризација
+- пастеризация
+- Пастерлөө
+- Пастьоризация
+- Пастэрызацыя
+- Պաստերացում
+- פסטור
+- بسترة
+- پاستوریزه کردن
+- کير اُٻارڻ
+- पाश्चरायझेशन
+- पाश्चुरीकरण
+- পাস্তুরায়ন
+- ਪੈਸਚੂਰਾਈਜ਼ੇਸ਼ਨ
+- பாச்சர்முறை
+- పాశ్చరైజేషన్
+- ಪಾಶ್ಚೀಕರಣ
+- പാസ്റ്ററീകരണം
+- พาสเจอร์ไรซ์
+- პასტერიზაცია
+- パスチャライゼーション
+- 叭嘶哣消毒法
+- 巴士德消毒法
+- 巴斯德消毒法
+- 巴氏消毒法
+- 저온 살균법
 has_id_wikidata: Q58148
 subclass_of:
-  - '[[_Standards/WikiData/WD~food_preservation,173514]]'
-  - '[[_Standards/WikiData/WD~heat_treatment,1458918]]'
+- '[[_Standards/WikiData/WD~food_preservation,173514]]'
+- '[[_Standards/WikiData/WD~heat_treatment,1458918]]'
 used_by:
-  - '[[_Standards/WikiData/WD~pharmaceutics,186249]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~pharmaceutics,186249]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
 location_of_creation: '[[_Standards/WikiData/WD~Arbois,330888]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 fabrication_method: '[[../../../../../../WikiData/WD~heating,4311765]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~pasteurized_food,131300899]]'
@@ -20,18 +87,112 @@ time_of_discovery_or_invention: 1864-04-20T00:00:00Z
 named_after: '[[_Standards/WikiData/WD~Louis_Pasteur,529]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Pasteur,529]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/60s%20Pama%20pasteurizer.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Pasteur.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Milk%20Vat.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/60s%20Pama%20pasteurizer.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Pasteur.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Milk%20Vat.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-PASTEURIZACION-article.ogg
 UMLS_CUI: C0597885
 Wolfram_Language_entity_code: Entity["Concept", "Pasteurisation::t4ft4"]
 MeSH_tree_code:
-  - J01.576.423.200.850
-  - J01.576.423.850.700.700
+- J01.576.423.200.850
+- J01.576.423.850.700.700
 Commons_category: Pasteurization
+dv_has_:
+  name_:
+    af: Pasteurisasie
+    ar: بسترة
+    ast: Pasteurización
+    az: Pasterizə
+    ba: пастеризация
+    ban: Pasteurisasi
+    be: Пастэрызацыя
+    be-tarask: Пастэрызацыя
+    bg: Пастьоризация
+    bn: পাস্তুরায়ন
+    br: Pasteurekaat
+    bs: Pasterizacija
+    ca: pasteurització
+    cs: pasterace
+    cy: Pasteureiddio
+    da: Pasteurisering
+    de: Pasteurisierung
+    de-ch: Pasteurisierung
+    el: Παστερίωση
+    en: pasteurization
+    en-ca: Pasteurisation
+    en-gb: pasteurisation
+    eo: Pasteŭrizado
+    es: pasteurización
+    et: Pastöörimine
+    eu: Pasteurizazio
+    fa: پاستوریزه کردن
+    fi: Pastörointi
+    fr: pasteurisation
+    ga: paistéarachán
+    gan: 叭嘶哣消毒法
+    gcr: Pastòrizasyon
+    gl: Pasteurización
+    he: פסטור
+    hi: पाश्चुरीकरण
+    hr: Pasterizacija
+    hu: pasztőrözés
+    hy: Պաստերացում
+    id: Pasteurisasi
+    ig: Pasteurization
+    io: Pasteuriso
+    it: pastorizzazione
+    ja: パスチャライゼーション
+    jam: Paaschraizieshan
+    jv: Pasteurisasi
+    ka: პასტერიზაცია
+    kk: Пастеризация
+    kn: ಪಾಶ್ಚೀಕರಣ
+    ko: 저온 살균법
+    krc: Пастеризация
+    ku: Pastorîzasyon
+    ky: Пастерлөө
+    la: pasteurizatio
+    lmo: Pasteurizasiù
+    lt: Pasterizacija
+    lv: Pasterizācija
+    mk: Пастеризација
+    ml: പാസ്റ്ററീകരണം
+    mr: पाश्चरायझेशन
+    ms: Pempasteuran
+    mwl: Pasteurizaçon
+    nb: pasteurisering
+    nl: pasteuriseren
+    nn: pasteurisering
+    pa: ਪੈਸਚੂਰਾਈਜ਼ੇਸ਼ਨ
+    pl: pasteryzacja
+    pt: pasteurização
+    pt-br: Pasteurização
+    ro: Pasteurizare
+    ru: Пастеризация
+    sah: Пастеризация
+    sd: کير اُٻارڻ
+    sh: Pasterizacija
+    sk: Pasterizácia
+    sl: pasterizacija
+    sq: Pasterizimi
+    sr: Пастеризација
+    sr-ec: пастеризација
+    sv: pastörisering
+    sw: Upasteurishaji
+    ta: பாச்சர்முறை
+    te: పాశ్చరైజేషన్
+    th: พาสเจอร์ไรซ์
+    tl: Pasteurisasyon
+    tr: Pastörizasyon
+    uk: Пастеризація
+    uz: Pasterlash
+    vi: Phương pháp tiệt trùng Pasteur
+    war: Pasteurisasyon
+    wuu: 巴氏消毒法
+    yue: 巴斯德消毒法
+    zh: 巴斯德消毒法
+    zh-hk: 巴士德消毒法
 ---
-
 # [[Pasteurization]] 
 
 #is_/same_as :: [[WD~Pasteurization,58148]] 

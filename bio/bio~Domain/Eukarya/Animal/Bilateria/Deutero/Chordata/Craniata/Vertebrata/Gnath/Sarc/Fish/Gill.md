@@ -1,25 +1,200 @@
 ---
 aliases:
-  - Kiemen
-  - Gill
+- Angsangan
+- Asang
+- Branchi
+- branchia
+- Branchiae
+- branchie
+- Branhie
+- Brankio
+- branko
+- branquia
+- brànquia
+- brânquia
+- Chĭ
+- Cill (personaj)
+- Gill
+- Gjelle
+- gälar
+- Gælle
+- Hasang
+- Insang
+- kidukset
+- Kieme
+- Kiemen
+- kieu
+- kieuw
+- Kim
+- Kiuw
+- kopoltyú
+- Lõpused
+- Mang
+- Matamvua (samaki)
+- rîşû
+- Sagoaga
+- Skrzela
+- Solungaç
+- Tálkn
+- Velëza
+- Yawsamaq
+- Zakatz
+- škrga
+- Škrge
+- Žabtā
+- žaunas
+- Žiabre
+- Žiauna
+- žábry
+- Ƣalsama
+- Βράγχια
+- Айғолаҡтар
+- жабраос
+- Жабри
+- жабры
+- зябра
+- саңак
+- Суха (сывлав органĕ)
+- Хайыы
+- Хриле
+- шкрге
+- Шчэлепы
+- Ғалсама
+- Խռիկներ
+- זימים
+- آبشش
+- أفوشك
+- خيشوم
+- سولونگاچ
+- ڕیشوو
+- क्लोम
+- செவுள்
+- ಕಿವಿರುಗಳು
+- ചെകിള
+- ငၢပ်ႇၵၢင်း
+- ပါးဟက်
+- ლაყუჩები
+- ᠰᡝᠩᡤᡝᠯᡝ
+- えら
+- 鰓
+- 鳃
+- 아가미
 has_id_wikidata: Q132390
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~organ,712378]]"
-has_use: "[[_Standards/WikiData/WD~aquatic_respiration,4782808]]"
-instance_of: "[[_Standards/WikiData/WD~organ_type,103812529]]"
-OmegaWiki_Defined_Meaning: "844061"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~organ,712378]]'
+has_use: '[[_Standards/WikiData/WD~aquatic_respiration,4782808]]'
+instance_of: '[[_Standards/WikiData/WD~organ_type,103812529]]'
+OmegaWiki_Defined_Meaning: 844061
 Commons_category: Gills
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carp%20gill%20defect.jpg
 MeSH_tree_code: A13.421
 UMLS_CUI: C0017558
+dv_has_:
+  name_:
+    af: kieu
+    ar: خيشوم
+    ary: أفوشك
+    ast: Branquia
+    az: Cill (personaj)
+    azb: سولونگاچ
+    ba: Айғолаҡтар
+    ban: Angsangan
+    bcl: Hasang
+    be: Шчэлепы
+    be-tarask: шчэлепы
+    bg: Хриле
+    bs: Škrge
+    ca: brànquia
+    cdo: Chĭ
+    ckb: ڕیشوو
+    cs: žábry
+    cv: Суха (сывлав органĕ)
+    da: Gælle
+    de: Kieme
+    el: Βράγχια
+    en: gill
+    eo: branko
+    es: branquia
+    et: Lõpused
+    eu: Zakatz
+    fa: آبشش
+    fi: kidukset
+    fr: branchie
+    fy: Kiuw
+    gl: branquia
+    he: זימים
+    hi: क्लोम
+    hr: Škrge
+    ht: Branchi
+    hu: kopoltyú
+    hy: Խռիկներ
+    id: Insang
+    io: Brankio
+    is: Tálkn
+    it: branchia
+    ja: えら
+    jv: Insang
+    ka: ლაყუჩები
+    kn: ಕಿವಿರುಗಳು
+    ko: 아가미
+    ku: rîşû
+    ku-latn: rîşû
+    la: Branchiae
+    lb: Kim
+    lt: Žiauna
+    lv: žaunas
+    mg: Sagoaga
+    mk: Жабри
+    ml: ചെകിള
+    mnc: ᠰᡝᠩᡤᡝᠯᡝ
+    ms: Insang
+    my: ပါးဟက်
+    nb: Gjelle
+    nl: kieuw
+    nn: gjelle
+    om: Gill
+    pl: Skrzela
+    pt: brânquia
+    qu: Yawsamaq
+    ro: Branhie
+    ru: жабры
+    sah: Хайыы
+    sgs: Žabtā
+    sh: Škrge
+    shn: ငၢပ်ႇၵၢင်း
+    sk: Žiabre
+    sl: škrga
+    sq: Velëza
+    sr: шкрге
+    sr-ec: Шкрге
+    sr-el: Škrge
+    su: Asang
+    sv: gälar
+    sw: Matamvua (samaki)
+    ta: செவுள்
+    tg: Ғалсама
+    tg-latn: Ƣalsama
+    tr: Solungaç
+    tt: саңак
+    udm: жабраос
+    uk: зябра
+    vi: Mang
+    wuu: 鳃
+    yue: 鰓
+    zh: 鳃
+    zh-cn: 鳃
+    zh-hans: 鳃
+    zh-hant: 鰓
+    zh-hk: 鰓
+    zh-sg: 鳃
+    zh-tw: 鰓
 ---
-
 # [[Gill]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Gill,132390|WD~Gill,132390]] 

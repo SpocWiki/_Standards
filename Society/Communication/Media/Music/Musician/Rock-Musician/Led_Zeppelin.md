@@ -1,42 +1,65 @@
 ---
-has_time_started: 1968-01-01 
-has_time_stopped: 1980-12-04 
+has_time_started: 1968-01-01
+has_time_stopped: 1980-12-04
 aliases:
-  - Led Zeppelin
-  - Led_Zeppelin
+- Led zepelin
+- Led Zepellin
+- Led Zeppelin
+- Led_Zeppelin
+- Лед Зепелин
+- Լեդ Զեփելին
+- Լետ Զեփլին
+- לד זפלין
+- لئد زئپلين
+- لد زبلين
+- لد زپلین
+- لیڈ زیپلن
+- لیڈ زیپلین
+- लेड जेप्लिन
+- लेड झेपेलिन
+- লেড জেপেলিন
+- லெட் செப்பெலின்
+- ലെഡ് സെപ്പലിൻ
+- เลด เซพเพลิน
+- ლედ ზეპელინი
+- レッド・ツェッペリン
+- 齊柏林飛船
+- 齐柏林飞船
+- 齐柏林飞艇 (乐队)
+- 레드 제플린
 has_id_wikidata: Q2331
 genre:
-  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
-  - '[[_Standards/WikiData/WD~folk_rock,186472]]'
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Jimmy_Page,165467]]'
-  - '[[_Standards/WikiData/WD~John_Paul_Jones,190243]]'
-  - '[[_Standards/WikiData/WD~Robert_Plant,428223]]'
-  - '[[_Standards/WikiData/WD~John_Bonham,485490]]'
+- '[[_Standards/WikiData/WD~Jimmy_Page,165467]]'
+- '[[_Standards/WikiData/WD~John_Paul_Jones,190243]]'
+- '[[_Standards/WikiData/WD~Robert_Plant,428223]]'
+- '[[_Standards/WikiData/WD~John_Bonham,485490]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Echo_Pop_Honorary_Award,113060743]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Echo_Pop_Honorary_Award,113060743]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Stairway_to_Heaven,192023]]'
-  - '[[_Standards/WikiData/WD~Led_Zeppelin_IV,201940]]'
+- '[[_Standards/WikiData/WD~Stairway_to_Heaven,192023]]'
+- '[[_Standards/WikiData/WD~Led_Zeppelin_IV,201940]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Robert_Johnson,192133]]'
-  - '[[_Standards/WikiData/WD~Willie_Dixon,204092]]'
-  - '[[_Standards/WikiData/WD~The_Grapes_of_Wrath,215983]]'
-  - '[[_Standards/WikiData/WD~Blind_Willie_Johnson,712586]]'
-  - '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
-  - '[[_Standards/WikiData/WD~The_Lord_of_the_Rings,15228]]'
+- '[[_Standards/WikiData/WD~Robert_Johnson,192133]]'
+- '[[_Standards/WikiData/WD~Willie_Dixon,204092]]'
+- '[[_Standards/WikiData/WD~The_Grapes_of_Wrath,215983]]'
+- '[[_Standards/WikiData/WD~Blind_Willie_Johnson,712586]]'
+- '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
+- '[[_Standards/WikiData/WD~The_Lord_of_the_Rings,15228]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
-  - '[[_Standards/WikiData/WD~Decca,557632]]'
-  - '[[_Standards/WikiData/WD~Swan_Song_Records,632992]]'
+- '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+- '[[_Standards/WikiData/WD~Decca,557632]]'
+- '[[_Standards/WikiData/WD~Swan_Song_Records,632992]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~musical_group,215380]]'
-  - '[[_Standards/WikiData/WD~rock_band,5741069]]'
+- '[[_Standards/WikiData/WD~musical_group,215380]]'
+- '[[_Standards/WikiData/WD~rock_band,5741069]]'
 discography: '[[_Standards/WikiData/WD~Led_Zeppelin_discography,1072622]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Led_Zeppelin,10603419]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Led_Zeppelin,15554536]]'
@@ -45,8 +68,8 @@ field_of_work: '[[_Standards/WikiData/WD~music,638]]'
 country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
 location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
 social_media_followers:
-  - 3750000
-  - 739336
+- 3750000
+- 739336
 Commons_gallery: Led Zeppelin
 Commons_category: Led Zeppelin
 Archive_of_Our_Own_tag: Led Zeppelin
@@ -68,8 +91,130 @@ ISNI: 0000000123483226
 Wolfram_Language_entity_code: Entity["MusicAct", "LedZeppelin::pgd77"]
 Krugosvet_article: muzyka/led-zeppelin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20zeppelin%20revista%20pelo%201971.jpg
+dv_has_:
+  name_:
+    af: Led Zeppelin
+    ar: لد زبلين
+    arz: لد زبلين
+    ast: Led Zeppelin
+    ay: Led Zeppelin
+    az: Led Zeppelin
+    azb: لد زپلین
+    ban: Led Zeppelin
+    bar: Led Zeppelin
+    bcl: Led Zeppelin
+    be: Led Zeppelin
+    be-tarask: Led Zeppelin
+    bg: Лед Зепелин
+    bn: লেড জেপেলিন
+    br: Led Zeppelin
+    bs: Led Zeppelin
+    ca: Led Zeppelin
+    cs: Led Zeppelin
+    cv: Led Zeppelin
+    cy: Led Zeppelin
+    da: Led Zeppelin
+    de: Led Zeppelin
+    diq: Led Zeppelin
+    el: Led Zeppelin
+    en: Led Zeppelin
+    en-ca: Led Zeppelin
+    en-gb: Led Zeppelin
+    eo: Led Zeppelin
+    es: Led Zeppelin
+    et: Led Zeppelin
+    eu: Led Zeppelin
+    ext: Led Zeppelin
+    fa: لد زپلین
+    fi: Led Zeppelin
+    fo: Led Zeppelin
+    fr: Led Zeppelin
+    fy: Led Zeppelin
+    ga: Led Zeppelin
+    gd: Led Zeppelin
+    gl: Led Zeppelin
+    glk: لئد زئپلين
+    he: לד זפלין
+    hr: Led Zeppelin
+    hsb: Led Zeppelin
+    hu: Led Zeppelin
+    hy: Լեդ Զեփելին
+    hyw: Լետ Զեփլին
+    ia: Led Zeppelin
+    id: Led Zeppelin
+    io: Led Zeppelin
+    is: Led Zeppelin
+    it: Led Zeppelin
+    ja: レッド・ツェッペリン
+    jv: Led Zeppelin
+    ka: ლედ ზეპელინი
+    kaa: Led Zeppelin
+    kk: Led Zeppelin
+    ko: 레드 제플린
+    ku: Led Zeppelin
+    la: Led Zeppelin
+    lmo: Led Zeppelin
+    lt: Led Zeppelin
+    ltg: Led Zeppelin
+    lv: Led Zeppelin
+    mg: Led Zeppelin
+    mk: Led Zeppelin
+    ml: ലെഡ് സെപ്പലിൻ
+    mr: लेड झेपेलिन
+    ms: Led Zeppelin
+    mul: Led Zeppelin
+    my: Led zeppelin
+    nb: Led Zeppelin
+    new: लेड जेप्लिन
+    nl: Led Zeppelin
+    nn: Led Zeppelin
+    oc: Led Zeppelin
+    pcd: Led Zeppelin
+    pl: Led Zeppelin
+    pms: Led Zeppelin
+    pnb: لیڈ زیپلین
+    pt: Led Zeppelin
+    pt-br: Led Zeppelin
+    qu: Led Zeppelin
+    ro: Led Zeppelin
+    ru: Led Zeppelin
+    rue: Led Zeppelin
+    sc: Led Zeppelin
+    scn: Led Zeppelin
+    sco: Led Zeppelin
+    sh: Led Zeppelin
+    sk: Led Zeppelin
+    sl: Led Zeppelin
+    sq: Led Zeppelin
+    sr: Лед зепелин
+    sr-ec: Лед зепелин
+    sr-el: Led zepelin
+    su: Led Zeppelin
+    sv: Led Zeppelin
+    sw: Led Zeppelin
+    szl: Led Zeppelin
+    ta: லெட் செப்பெலின்
+    tg: Led Zeppelin
+    th: เลด เซพเพลิน
+    tl: Led Zepellin
+    tpi: Led Zeppelin
+    tr: Led Zeppelin
+    tt: Led Zeppelin
+    tt-cyrl: Led Zeppelin
+    uk: Led Zeppelin
+    ur: لیڈ زیپلن
+    uz: Led Zeppelin
+    vec: Led Zeppelin
+    vi: Led Zeppelin
+    wa: Led Zeppelin
+    war: Led Zeppelin
+    wuu: 齐柏林飞艇 (乐队)
+    xmf: ლედ ზეპელინი
+    yue: 齊柏林飛船
+    zh: 齐柏林飞船
+    zh-my: 齐柏林飞船
+    zh-sg: 齐柏林飞船
 ---
-
 # [[Led_Zeppelin]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Led_Zeppelin,2331|WD~Led_Zeppelin,2331]]

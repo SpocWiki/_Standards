@@ -1,8 +1,138 @@
 ---
 has_id_wikidata: Q158597
+dv_has_:
+  name_:
+    an: Anopheles
+    ar: أنوفيلة
+    arz: انوفيليس
+    ast: Anopheles
+    be: Малярыйныя камары
+    bg: анофелеси
+    ca: Anopheles
+    ceb: Anopheles
+    cs: Anofeles
+    de: Anopheles
+    el: Ανωφελής
+    en: Anopheles
+    eo: Anopheles
+    es: Anopheles
+    et: Hallasääsk
+    eu: Anopheles
+    ext: Anopheles
+    fa: آنوفل
+    fi: horkkahyttyset
+    fr: Anophèle
+    ga: Anopheles
+    gl: Anopheles
+    he: אנופלס
+    hi: एनोफ़िलीज़
+    hr: Anopheles
+    hsb: Čura
+    hu: maláriaszúnyogok
+    hy: անոֆելես
+    ia: Anopheles
+    id: Anopheles
+    ie: Anopheles
+    io: Anopheles
+    it: zanzara anofele
+    ja: ハマダラカ
+    jv: Anopheles
+    ka: მალარიის კოღო
+    kk: Безгек масасы
+    kn: ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ
+    ko: 학질모기
+    ky: Безгек чиркейи
+    la: Anopheles
+    lv: Malārijas odi
+    mg: Moka anôfela
+    mk: Маларичен комарец
+    ml: അനോഫെലിസ്
+    mn: Хумхаагийн шумуул
+    ms: Anopheles
+    mul: Anopheles
+    nb: malariamygg
+    nds: Anopheles
+    nl: Anopheles
+    nn: malariamygg
+    oc: Anopheles
+    pl: widliszek
+    pnb: انوفلیز
+    ps: غوماشی
+    pt: Anopheles
+    pt-br: Anopheles
+    ro: Anopheles
+    ru: Малярийные комары
+    sl: komar mrzličar
+    so: Anopheles
+    sq: Anopheles
+    sr: Anopheles
+    su: Anopheles
+    sv: Malariamyggor
+    sw: Anofelesi
+    ta: அனோபிலிஸ்
+    th: ยุงก้นปล่อง
+    tr: Anofel
+    uk: Anopheles
+    uz: Bezgak chivinlari
+    vi: Anopheles
+    vo: Anopheles
+    war: Anopheles
+    wuu: 疟蚊
+    yue: 按蚊
+    zh: 按蚊属
+    zh-cn: 按蚊属
+    zh-hans: 按蚊属
+    zh-hant: 瘧蚊
+    zh-hk: 瘧蚊
+    zh-sg: 疟蚊
+    zh-tw: 瘧蚊屬
+aliases:
+- Anofel
+- Anofeles
+- Anofelesi
+- Anopheles
+- Anophèle
+- Bezgak chivinlari
+- Hallasääsk
+- horkkahyttyset
+- komar mrzličar
+- malariamygg
+- Malariamyggor
+- maláriaszúnyogok
+- Malārijas odi
+- Moka anôfela
+- widliszek
+- zanzara anofele
+- Čura
+- Ανωφελής
+- анофелеси
+- Безгек масасы
+- Безгек чиркейи
+- Маларичен комарец
+- Малярийные комары
+- Малярыйныя камары
+- Хумхаагийн шумуул
+- անոֆելես
+- אנופלס
+- آنوفل
+- أنوفيلة
+- انوفلیز
+- انوفيليس
+- غوماشی
+- एनोफ़िलीज़
+- அனோபிலிஸ்
+- ಅನಾಫಿಲಿಸ್ ಸೊಳ್ಳೆ
+- അനോഫെലിസ്
+- ยุงก้นปล่อง
+- მალარიის კოღო
+- ハマダラカ
+- 按蚊
+- 按蚊属
+- 疟蚊
+- 瘧蚊
+- 瘧蚊屬
+- 학질모기
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Anopheles** is a genus of mosquito 

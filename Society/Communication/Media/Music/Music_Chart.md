@@ -1,14 +1,63 @@
 ---
 aliases:
-  - Record_chart
-  - record chart
-  - music chart
-  - Music_Chart
-  - Music Chart
+- Bảng xếp hạng âm nhạc
+- carta rakaman
+- classement musical
+- classifica musicale
+- clasìfega muzicałe
+- Hit-parad
+- Hitlist
+- hitliste
+- hitparade
+- hitparáda
+- Index successuum musicorum
+- Kayıt listeleri
+- lestvica glasbenih posnetkov
+- lista de successos music
+- lista de succèsses musicales
+- Lista de éxitos musicais
+- lista de éxitos musicales
+- lista przebojów
+- llista d'èxits musicals
+- music chart
+- Music_Chart
+- musiikkilista
+- Musika arrakasten zerrenda
+- Musikcharts
+- musikklistt
+- muusiklisto
+- muzikaĵrangolisto
+- mūzikas ierakstu tabula
+- parada musical
+- record chart
+- Record_chart
+- Siart recordiau
+- Talaan ng mga musika
+- tangga musik
+- Toplista
+- topplista
+- Xit-parad
+- гіт-парад
+- музичка топ-листа
+- топ-листа
+- хіт-парад
+- хит-парад
+- чарт
+- հիթ շքերթ
+- מצעד מוזיקה
+- ترتيب تسجيلات
+- جدول موسیقی
+- রেকর্ড চার্ট
+- ชาร์ตเพลง
+- ヒットチャート
+- 唱片榜
+- 唱片榜单
+- 唱片榜單
+- 레코드 차트
 has_id_wikidata: Q373899
 different_from:
-  - '[[_Standards/WikiData/WD~playlist,1569406]]'
-  - '[[_Standards/WikiData/WD~Hit_list,5871510]]'
+- '[[_Standards/WikiData/WD~playlist,1569406]]'
+- '[[_Standards/WikiData/WD~Hit_list,5871510]]'
 has_list: '[[_Standards/WikiData/WD~list_of_record_charts,2548754]]'
 has_part_s_: '[[_Standards/WikiData/WD~number_one_hit,20878491]]'
 subclass_of: '[[_Standards/WikiData/WD~ranked_list,80793969]]'
@@ -16,8 +65,69 @@ has_part_s_of_the_class: '[[_Standards/WikiData/WD~record_chart_edition,10882865
 topic_has_template: '[[_Standards/WikiData/WD~Q131363454,131363454]]'
 Wikidata_property: charted in
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Music-GClef.svg
+dv_has_:
+  name_:
+    ar: ترتيب تسجيلات
+    az: Hit-parad
+    be: хіт-парад
+    be-tarask: гіт-парад
+    bn: রেকর্ড চার্ট
+    ca: llista d'èxits musicals
+    cs: hitparáda
+    cy: Siart recordiau
+    da: hitliste
+    de: Musikcharts
+    de-ch: Musikcharts
+    en: record chart
+    en-ca: record chart
+    en-gb: record chart
+    eo: muzikaĵrangolisto
+    es: lista de éxitos musicales
+    eu: Musika arrakasten zerrenda
+    fa: جدول موسیقی
+    fi: musiikkilista
+    fr: classement musical
+    fy: Hitlist
+    gl: Lista de éxitos musicais
+    he: מצעד מוזיקה
+    hy: հիթ շքերթ
+    ia: lista de successos music
+    id: tangga musik
+    it: classifica musicale
+    ja: ヒットチャート
+    ko: 레코드 차트
+    la: Index successuum musicorum
+    lv: mūzikas ierakstu tabula
+    mk: топ-листа
+    ms: carta rakaman
+    nb: hitliste
+    nl: hitparade
+    nn: hitliste
+    oc: lista de succèsses musicales
+    pl: lista przebojów
+    pt: parada musical
+    pt-br: parada musical
+    ru: хит-парад
+    sk: hitparáda
+    sl: lestvica glasbenih posnetkov
+    smn: muusiklisto
+    sms: musikklistt
+    sq: Toplista
+    sr: музичка топ-листа
+    sv: topplista
+    th: ชาร์ตเพลง
+    tl: Talaan ng mga musika
+    tr: Kayıt listeleri
+    tt: Хит-парад
+    uk: чарт
+    uz: Xit-parad
+    vec: clasìfega muzicałe
+    vi: Bảng xếp hạng âm nhạc
+    zh: 唱片榜
+    zh-cn: 唱片榜单
+    zh-hans: 唱片榜单
+    zh-hant: 唱片榜單
 ---
-
 # [[Music_Chart]] 
 
 #is_/same_as :: [[WD~Record_chart,373899]] 

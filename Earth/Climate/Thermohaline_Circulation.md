@@ -1,39 +1,144 @@
 ---
 aliases:
-  - Thermohaline circulation
-  - Thermohaline_Circulation
-  - Thermohaline Circulation
+- Circolazione termoalina
+- Circulacion termoalina
+- Circulacion termohalino
+- circulació termohalina
+- Circulación termohalina
+- circulation thermohaline
+- Circulação termoalina
+- circulația termohalină
+- Cyrkulacja termohalinowa
+- Den termohaline cirkulation
+- imshruthú teirmeahailíneach
+- Juyawar thermohaline
+- Luân chuyển nhiệt muối
+- Peredaran termohalin
+- Sirkulasi termohalin
+- Tasnisnit Tamatut n Ugaraw
+- Termohaliene sirkulasie
+- Termohaliinikierto
+- Termohaliinne tsirkulatsioon
+- termohalin cirkulation
+- Termohalin Döngü
+- Termohalin sirkulasjon
+- termohalinní výměník
+- termohalinska cirkulacija
+- Termohalinska pokretna traka
+- Termohalinė cirkuliacija
+- thermohaliene circulatie
+- Thermohaline circulation
+- thermohaline Zirkulation
+- Thermohaline_Circulation
+- varmeca-saleca oceana ĉirkaŭfluo
+- Zirkulazio termohalino
+- Θερμόαλη κυκλοφορία
+- термохалінна циркуляція
+- термохалинная циркуляция
+- Термохалинска покретна трака
+- Термохалинско кружење
+- тэрмагалінная цыркуляцыя
+- тэрмахалінная цыркуляцыя
+- המסוע הימי
+- دورة حرارية ملحية
+- گردش دماشوری
+- थर्मोहैलाइन परिसंचरण
+- 深海洋流
+- 温盐环流
+- 溫鹽環流
+- 熱塩循環
+- 열염순환
 has_id_wikidata: Q463223
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~sea_water,184395]]"
-subclass_of: "[[_Standards/WikiData/WD~fluid_flow,12142910]]"
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~sea_water,184395]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910]]'
 Colon_Classification: U256
 Commons_category: Ocean currents
 distribution_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%202.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt-ru.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%202.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt-ru.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%20using%20Improved%20Flow%20Field.ogv
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]"
-    - "[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]"
-    - "[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]"
-    - "[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]"
-    - "[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]"
-    - "[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]"
-    - "[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]"
-    - "[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]"
+  - '[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]'
+  - '[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]'
+  - '[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]'
+  - '[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]'
+  - '[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]'
+  - '[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]'
+  - '[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]'
+  - '[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]"
-  - "[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]"
-  - "[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]"
-  - "[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]"
-  - "[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]"
-  - "[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]"
-  - "[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]"
-  - "[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]"
+- '[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]'
+- '[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]'
+- '[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]'
+- '[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]'
+- '[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]'
+- '[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]'
+- '[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]'
+- '[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]'
+dv_has_:
+  name_:
+    af: Termohaliene sirkulasie
+    ar: دورة حرارية ملحية
+    ast: Circulación termohalina
+    be: тэрмахалінная цыркуляцыя
+    be-tarask: тэрмагалінная цыркуляцыя
+    ca: circulació termohalina
+    cs: termohalinní výměník
+    da: Den termohaline cirkulation
+    de: thermohaline Zirkulation
+    el: Θερμόαλη κυκλοφορία
+    en: thermohaline circulation
+    eo: varmeca-saleca oceana ĉirkaŭfluo
+    es: circulación termohalina
+    et: Termohaliinne tsirkulatsioon
+    eu: Zirkulazio termohalino
+    fa: گردش دماشوری
+    fi: Termohaliinikierto
+    fr: circulation thermohaline
+    ga: imshruthú teirmeahailíneach
+    gl: Circulación termohalina
+    ha: Juyawar thermohaline
+    he: המסוע הימי
+    hi: थर्मोहैलाइन परिसंचरण
+    hr: Termohalinska pokretna traka
+    id: Sirkulasi termohalin
+    it: Circolazione termoalina
+    ja: 熱塩循環
+    kab: Tasnisnit Tamatut n Ugaraw
+    ko: 열염순환
+    lt: Termohalinė cirkuliacija
+    mk: Термохалинско кружење
+    ms: Peredaran termohalin
+    nb: Termohalin sirkulasjon
+    nl: thermohaliene circulatie
+    nn: Termohalin sirkulasjon
+    oc: Circulacion termoalina
+    pap: Circulacion termohalino
+    pl: Cyrkulacja termohalinowa
+    pt: Circulação termoalina
+    ro: circulația termohalină
+    ru: термохалинная циркуляция
+    sh: Termohalinska pokretna traka
+    sl: termohalinska cirkulacija
+    sr: Термохалинска покретна трака
+    sr-ec: Термохалинска покретна трака
+    sr-el: Termohalinska pokretna traka
+    sv: termohalin cirkulation
+    tr: Termohalin Döngü
+    uk: термохалінна циркуляція
+    vi: Luân chuyển nhiệt muối
+    wuu: 温盐环流
+    yue: 深海洋流
+    zh: 溫鹽環流
+    zh-cn: 温盐环流
+    zh-hans: 温盐环流
+    zh-hant: 溫鹽環流
+    zh-hk: 溫鹽環流
+    zh-sg: 温盐环流
+    zh-tw: 溫鹽環流
 ---
-
 # [[Thermohaline_Circulation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]  

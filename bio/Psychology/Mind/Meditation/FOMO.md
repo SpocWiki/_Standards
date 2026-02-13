@@ -1,13 +1,72 @@
 ---
 aliases:
+- aksio de maltrafo
+- Angst, etwas zu verpassen
+- Biror narsani yoʻqotishdan qoʻrqish
+- fear of missing out
+- FOMO
+- FOMO sindrome
+- Günceli kaçırma korkusu
+- pelko, että jää jostakin paitsi
+- Qaçırmaq qorxusu
+- strah pred izpustitvijo
+- Síndrome de FOMO
+- Síndrome FOMO
+- Боязнь пропустить интересное
+- синдром втрачених можливостей
+- Բաց թողնված օգուտի սինդրոմ
+- חרדת החמצה
+- ترس از دست دادن فرصت
+- فومو
+- โรคกลัวตกกระแส
+- 錯失恐懼症
+- 错失恐惧症
+- 포모
 has_id_wikidata: Q16753510
-instance_of: "[[_Standards/WikiData/WD~acronym,101244]]"
-subclass_of: "[[_Standards/WikiData/WD~anxiety,154430]]"
-manifestation_of: "[[_Standards/WikiData/WD~connectedness,253405]]"
-opposite_of: "[[_Standards/WikiData/WD~Joy_of_Missing_Out,61927257]]"
+instance_of: '[[_Standards/WikiData/WD~acronym,101244]]'
+subclass_of: '[[_Standards/WikiData/WD~anxiety,154430]]'
+manifestation_of: '[[_Standards/WikiData/WD~connectedness,253405]]'
+opposite_of: '[[_Standards/WikiData/WD~Joy_of_Missing_Out,61927257]]'
 short_name: FOMO
+dv_has_:
+  name_:
+    apc: فومو
+    ar: فومو
+    az: Qaçırmaq qorxusu
+    ca: Síndrome FOMO
+    cs: FOMO
+    de: Fomo
+    el: Fomo
+    en: fear of missing out
+    eo: aksio de maltrafo
+    es: Síndrome FOMO
+    eu: FOMO sindrome
+    fa: ترس از دست دادن فرصت
+    fi: pelko, että jää jostakin paitsi
+    fr: FOMO
+    gl: síndrome FOMO
+    he: חרדת החמצה
+    hu: FOMO
+    hy: Բաց թողնված օգուտի սինդրոմ
+    id: FOMO
+    it: FOMO
+    ja: FOMO
+    ko: 포모
+    nb: FOMO
+    nl: Fear of missing out
+    pfl: Angst, etwas zu verpassen
+    pl: FOMO
+    pt: Síndrome de FOMO
+    ru: Боязнь пропустить интересное
+    sl: strah pred izpustitvijo
+    th: โรคกลัวตกกระแส
+    tr: Günceli kaçırma korkusu
+    uk: синдром втрачених можливостей
+    uz: Biror narsani yoʻqotishdan qoʻrqish
+    vi: FOMO
+    yue: 錯失恐懼症
+    zh: 错失恐惧症
 ---
-
 # [[FOMO]] 
 
 #is_/same_as :: [[WD~FOMO,16753510]] 

@@ -1,6 +1,44 @@
 ---
 aliases:
-  - Antihydrogen
+- anti-hidrogénio
+- anti-hidrogênio
+- anti-idrogeno
+- Antibrint
+- antihidrogen
+- antihidrogeno
+- Antihidrojen
+- antihidrógeno
+- Antihidróxeno
+- Antihidróxenu
+- Antihydrogen
+- antihydrogeno
+- antihydrogène
+- Antiidrogèn
+- Antiidrugenu
+- antivety
+- antivodik
+- Antivodonik
+- antivodík
+- Antiväte
+- Antiwasserstoff
+- antiwaterstof
+- antywodór
+- phản hiđrô
+- Αντιυδρογόνο
+- антиводород
+- Антигідроген
+- антывадарод
+- אנטי-מימן
+- ضد آبساز
+- نقيض الهيدروجين
+- پادهیدروژن
+- प्रति-हाइड्रोजन
+- ප්රතිහයිඩ්රජන්
+- แอนติไฮโดรเจน
+- 反氢
+- 反氫
+- 反水素
+- 반수소
 has_id_wikidata: Q216121
 color: '[[_Standards/WikiData/WD~colorless,1396399]]'
 instance_of: '[[_Standards/WikiData/WD~chemical_anti_element,9158156]]'
@@ -15,11 +53,68 @@ discoverer_or_inventor: '[[_Standards/WikiData/WD~CERN,42944]]'
 mass: 1.008
 time_of_discovery_or_invention: 1995-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D1%82%D0%B8%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/3D%20image%20of%20Antihydrogen.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D1%82%D0%B8%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/3D%20image%20of%20Antihydrogen.jpg
 Commons_category: Antihydrogen
+dv_has_:
+  name_:
+    ar: نقيض الهيدروجين
+    ast: Antihidróxenu
+    be-tarask: антывадарод
+    bg: Антиводород
+    ca: antihidrogen
+    co: Antiidrugenu
+    cs: antivodík
+    da: Antibrint
+    de: Antiwasserstoff
+    el: Αντιυδρογόνο
+    en: antihydrogen
+    en-ca: Antihydrogen
+    en-gb: antihydrogen
+    eo: antihidrogeno
+    es: antihidrógeno
+    eu: Antihidrogeno
+    fa: پادهیدروژن
+    fi: antivety
+    fr: antihydrogène
+    gl: Antihidróxeno
+    he: אנטי-מימן
+    hi: प्रति-हाइड्रोजन
+    ia: antihydrogeno
+    id: Antihidrogen
+    it: anti-idrogeno
+    ja: 反水素
+    ko: 반수소
+    lzh: 反氫
+    mk: антиводород
+    ms: Antihidrogen
+    nb: antihydrogen
+    nl: antiwaterstof
+    nn: antihydrogen
+    oc: Antiidrogèn
+    pl: antywodór
+    pt: anti-hidrogénio
+    pt-br: anti-hidrogênio
+    ro: Antihidrogen
+    ru: антиводород
+    si: ප්රතිහයිඩ්රජන්
+    sl: antivodik
+    sr: Antivodonik
+    sv: Antiväte
+    th: แอนติไฮโดรเจน
+    tr: Antihidrojen
+    uk: Антигідроген
+    ur: ضد آبساز
+    vi: phản hiđrô
+    yue: 反氫
+    zh: 反氫
+    zh-cn: 反氢
+    zh-hans: 反氢
+    zh-hant: 反氫
+    zh-hk: 反氫
+    zh-sg: 反氢
+    zh-tw: 反氫
 ---
-
 # [[Antihydrogen]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antihydrogen,216121|WD~Antihydrogen,216121]]

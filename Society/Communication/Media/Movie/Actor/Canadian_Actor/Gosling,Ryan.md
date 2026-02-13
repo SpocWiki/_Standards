@@ -1,9 +1,146 @@
 ---
 aliases:
-  - Ryan Gosling
-  - Ryan Thomas Gosling
-  - Gosling,Ryan
+- Gosling,Ryan
+- Raiens Goslings
+- Rajan Gozling
+- Rayan Gosling
+- Rayan Qoslinq
+- Ryan Gosling
+- Ryan Thomas Gosling
+- Rýan Gosling
+- Ράιαν Γκόσλινγκ
+- Рајан Гозлинг
+- Рајан Гослинг
+- Райан Гослинг
+- Райан Гослиң
+- Райън Гослинг
+- Раян Гослінг
+- Раян Госьлінг
+- Раян Ґослінґ
+- Ռայան Գոսլինգ
+- Րայան Կոսլինկ
+- ראיין גוסלינג
+- رايان جوسلينج
+- رايان غوسلينغ
+- رایان قاسلینق
+- رایان گاسلینگ
+- ڕایان گۆسلینگ
+- रयान गोसलिंग
+- रायन गॉसलिंग
+- রায়ান গসলিং
+- ராயன் கோஸ்லிங்
+- റയാൻ ഗോസ്ലിങ്ങ്
+- ไรอัน กอสลิง
+- ရိုင်ယန် ဂေါ့စလင်း
+- რაიან გოსლინგი
+- រ៉ាយអាន់ ហ្គូស្លីង
+- ライアン・ゴズリング
+- 瑞恩·高斯林
+- 莱恩·葛斯林
+- 賴恩·高斯寧
+- 賴恩高斯寧
+- 雷恩·葛斯林
+- 라이언 고슬링
 has_id_wikidata: Q193815
+dv_has_:
+  name_:
+    af: Ryan Gosling
+    ar: رايان غوسلينغ
+    arz: رايان جوسلينج
+    ast: Ryan Gosling
+    az: Rayan Qoslinq
+    azb: رایان قاسلینق
+    be: Раян Гослінг
+    be-tarask: Раян Госьлінг
+    bg: Райън Гослинг
+    bn: রায়ান গসলিং
+    ca: Ryan Gosling
+    ckb: ڕایان گۆسلینگ
+    cs: Ryan Gosling
+    da: Ryan Gosling
+    de: Ryan Gosling
+    diq: Ryan Gosling
+    el: Ράιαν Γκόσλινγκ
+    en: Ryan Gosling
+    en-ca: Ryan Gosling
+    en-gb: Ryan Gosling
+    eo: Ryan Gosling
+    es: Ryan Gosling
+    et: Ryan Gosling
+    eu: Ryan Gosling
+    fa: رایان گاسلینگ
+    fi: Ryan Gosling
+    fo: Ryan Gosling
+    fr: Ryan Gosling
+    ga: Ryan Gosling
+    gl: Ryan Gosling
+    gv: Ryan Gosling
+    he: ראיין גוסלינג
+    hi: रयान गोसलिंग
+    hr: Ryan Gosling
+    hu: Ryan Gosling
+    hy: Ռայան Գոսլինգ
+    hyw: Րայան Կոսլինկ
+    id: Ryan Gosling
+    is: Ryan Gosling
+    it: Ryan Gosling
+    ja: ライアン・ゴズリング
+    jv: Ryan Gosling
+    ka: რაიან გოსლინგი
+    kk: Райан Гослинг
+    km: រ៉ាយអាន់ ហ្គូស្លីង
+    ko: 라이언 고슬링
+    ku: Ryan Gosling
+    ky: Райан Гослиң
+    lt: Ryan Gosling
+    lv: Raiens Goslings
+    mad: Ryan Gosling
+    mg: Ryan Gosling
+    mk: Рајан Гослинг
+    ml: റയാൻ ഗോസ്ലിങ്ങ്
+    mn: Райан Гослинг
+    mr: रायन गॉसलिंग
+    ms: Ryan Gosling
+    my: ရိုင်ယန် ဂေါ့စလင်း
+    nb: Ryan Gosling
+    nl: Ryan Gosling
+    nn: Ryan Gosling
+    pam: Ryan Gosling
+    pap: Ryan Gosling
+    pl: Ryan Gosling
+    pt: Ryan Gosling
+    pt-br: Ryan Gosling
+    ro: Ryan Gosling
+    ru: Райан Гослинг
+    sco: Ryan Gosling
+    sh: Рајан Гозлинг
+    sk: Ryan Gosling
+    sl: Ryan Gosling
+    sq: Ryan Gosling
+    sr: Рајан Гозлинг
+    sr-ec: Рајан Гозлинг
+    sr-el: Rajan Gozling
+    su: Ryan Gosling
+    sv: Ryan Gosling
+    sw: Ryan Gosling
+    ta: ராயன் கோஸ்லிங்
+    th: ไรอัน กอสลิง
+    tk: Rýan Gosling
+    tl: Ryan Gosling
+    tr: Ryan Gosling
+    uk: Раян Ґослінґ
+    uz: Rayan Gosling
+    vi: Ryan Gosling
+    wuu: 瑞恩·高斯林
+    xmf: რაიან გოსლინგი
+    yue: 賴恩高斯寧
+    zh: 雷恩·葛斯林
+    zh-cn: 瑞恩·高斯林
+    zh-hans: 瑞恩·高斯林
+    zh-hant: 雷恩·葛斯林
+    zh-hk: 賴恩·高斯寧
+    zh-sg: 莱恩·葛斯林
+    zh-tw: 雷恩·葛斯林
 ---
 #has_/time_/started :: 1980-11-12 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

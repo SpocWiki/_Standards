@@ -1,8 +1,167 @@
 ---
 has_id_wikidata: Q620805
+dv_has_:
+  name_:
+    af: teïsme
+    ar: ألوهية
+    arz: الوهيه
+    ast: teísmu
+    az: teizm
+    be: тэізм
+    be-tarask: тэізм
+    bg: теизъм
+    bn: আস্তিক্যবাদ
+    ca: teisme
+    cs: teismus
+    cy: theistiaeth
+    da: teisme
+    de: Theismus
+    el: θεϊσμός
+    en: theism
+    eo: teismo
+    es: teísmo
+    et: teism
+    eu: teismo
+    fa: خداباوری
+    fi: teismi
+    fr: théisme
+    fy: teïsme
+    ga: diachas
+    gcr: téism
+    gl: teísmo
+    he: תאיזם
+    hi: आस्तिकता
+    hr: teizam
+    hu: teizmus
+    hy: Թեիզմ
+    ia: theismo
+    id: teisme
+    io: teismo
+    it: teismo
+    ja: 有神論
+    jam: tiyizim
+    jv: téisme
+    ka: თეიზმი
+    kcg: nwuak a̱cucuk da̱ A̱gwaza
+    kk: теизм
+    kn: ಈಶ್ವರವಾದ
+    ko: 유신론
+    ky: теизм
+    la: theismus
+    lb: Theismus
+    lfn: teisme
+    lt: teizmas
+    lv: teisms
+    mg: teisma
+    mk: теизам
+    ms: teisme
+    ms-arab: تيئيسمى
+    nan: Iú-sîn-lūn
+    nb: teisme
+    nds-nl: teïsme
+    nl: theïsme
+    os: теизм
+    pap: teismo
+    pl: teizm
+    pt: teísmo
+    pt-br: teísmo
+    ro: teism
+    ru: теизм
+    rue: теизм
+    sco: theism
+    se: teisma
+    sh: Teizam
+    si: දේවවාදය
+    sk: teizmus
+    sl: teizem
+    smn: teism
+    sms: teismm
+    sq: teizmi
+    sr: теизам
+    sr-ec: теизам
+    sr-el: teizam
+    sv: teism
+    ta: ஆத்திகம்
+    te: ఆస్తికవాదం
+    th: เทวนิยม
+    tl: teismo
+    tr: teizm
+    uk: теїзм
+    ur: توحید پرستی
+    uz: teizm
+    vi: chủ nghĩa hữu thần
+    vro: teism
+    war: teismo
+    wuu: 有神论
+    xmf: თეიზმი
+    yi: טעיזם
+    yue: 有神論
+    zh: 有神论
+    zh-cn: 有神论
+    zh-hans: 有神论
+    zh-hant: 有神論
+    zh-hk: 有神論
+    zh-mo: 有神論
+    zh-my: 有神论
+    zh-sg: 有神论
+    zh-tw: 有神論
+aliases:
+- chủ nghĩa hữu thần
+- diachas
+- Iú-sîn-lūn
+- nwuak a̱cucuk da̱ A̱gwaza
+- teism
+- teisma
+- teisme
+- teismi
+- teismm
+- teismo
+- teisms
+- teismus
+- teizam
+- teizem
+- teizm
+- teizmas
+- teizmi
+- teizmus
+- teísmo
+- teísmu
+- teïsme
+- theism
+- theismo
+- Theismus
+- theistiaeth
+- theïsme
+- théisme
+- tiyizim
+- téism
+- téisme
+- θεϊσμός
+- теїзм
+- теизам
+- теизм
+- теизъм
+- тэізм
+- Թեիզմ
+- טעיזם
+- תאיזם
+- ألوهية
+- الوهيه
+- توحید پرستی
+- تيئيسمى
+- خداباوری
+- आस्तिकता
+- আস্তিক্যবাদ
+- ஆத்திகம்
+- ఆస్తికవాదం
+- ಈಶ್ವರವಾದ
+- දේවවාදය
+- เทวนิยม
+- თეიზმი
+- 有神論
+- 有神论
+- 유신론
 ---
-
-
 # [[Theism]] 
 
 #has_/complement :: [[Atheism|Atheism]] 

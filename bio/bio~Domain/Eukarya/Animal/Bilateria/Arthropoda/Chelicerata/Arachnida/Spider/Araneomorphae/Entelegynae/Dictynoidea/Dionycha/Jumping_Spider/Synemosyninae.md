@@ -1,8 +1,45 @@
 ---
 aliases:
-  - Synemosyninae
+- Synemosyninae
+- سينيموسينينى
 title: Synemosyninae
 has_id_wikidata: Q101300
+dv_has_:
+  name_:
+    an: Synemosyninae
+    arz: سينيموسينينى
+    ast: Synemosyninae
+    bg: Synemosyninae
+    ca: Synemosyninae
+    ceb: Synemosyninae
+    de: Synemosyninae
+    en: Synemosyninae
+    eo: Synemosyninae
+    es: Synemosyninae
+    eu: Synemosyninae
+    ext: Synemosyninae
+    fi: Synemosyninae
+    fr: Synemosyninae
+    ga: Synemosyninae
+    gl: Synemosyninae
+    ia: Synemosyninae
+    ie: Synemosyninae
+    io: Synemosyninae
+    it: Synemosyninae
+    la: Synemosyninae
+    mul: Synemosyninae
+    nl: Synemosyninae
+    oc: Synemosyninae
+    pl: Synemosyninae
+    pt: Synemosyninae
+    pt-br: Synemosyninae
+    ro: Synemosyninae
+    ru: Synemosyninae
+    sq: Synemosyninae
+    uk: Synemosyninae
+    vi: Synemosyninae
+    vo: Synemosyninae
+    war: Synemosyninae
 ---
 # [[Synemosyninae]] 
 

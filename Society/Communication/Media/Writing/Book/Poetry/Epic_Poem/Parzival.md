@@ -1,8 +1,59 @@
 ---
 has_id_wikidata: Q1247232
+dv_has_:
+  name_:
+    ar: بارزيفال
+    ast: Parzival
+    be-tarask: Парцыфаль
+    br: Parzival
+    ca: Parzival
+    cs: Parzival
+    da: Parzival
+    de: Parzival
+    el: Πάρσιφαλ
+    en: Parzival
+    eo: Parzival
+    es: Parzival
+    et: Parzival
+    eu: Parzival
+    fa: پارزیفال
+    fi: Parsifal
+    fr: Parzival
+    gl: Parzival
+    gsw: Parzival
+    he: פרציבל
+    hr: Parzival
+    hu: Parzival
+    id: Parzival
+    it: Parzival
+    ja: パルツィヴァール
+    ko: 파르치팔
+    la: Parzival
+    mk: Парцивал
+    nb: Parzival
+    nl: Parzival
+    pl: Parsifal
+    pt: Parzival
+    ru: Парцифаль
+    sl: Parzival
+    sr: Parzival
+    uk: Парцифаль
+    war: Parzival
+    zh: 帕西瓦尔
+aliases:
+- Parsifal
+- Parzival
+- Πάρσιφαλ
+- Парцивал
+- Парцифаль
+- Парцыфаль
+- פרציבל
+- بارزيفال
+- پارزیفال
+- パルツィヴァール
+- 帕西瓦尔
+- 파르치팔
 ---
-
-
 # [[Parzival]] 
 
 #is_/same_as :: [[WD~Parzival,1247232]] 

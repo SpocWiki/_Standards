@@ -1,16 +1,80 @@
 ---
 aliases:
+- afección
+- afició
+- afición
+- avocamentum
+- balwad
+- caitheamh aimsire
+- ceau emshir
+- denbora-pasa
+- difyrwaith
+- dudi
+- habby
+- harrastus
+- hilig
+- hinawngan
+- hobbi
+- hobby
+- hobi
+- hobio
+- hoby
+- hobî
+- huobis
+- Hèng-chhù
+- kavieklis
+- konjiček
+- leafhawwerij
+- lèsirs
+- pasmint d' tins
+- pomėgis
+- stokperdjie
+- sở thích
+- Tómstundagaman
+- vaļasprieks
+- xobbi
+- ŝatokupo
+- χόμπι
+- гобі
+- хобі
+- хобби
+- хоби
+- шавқ
+- һобби
+- հոբբի
+- תחביב
+- تفنن
+- مشغلہ
+- هواية
+- هوبي
+- रुचि
+- लाज्या
+- শখ
+- হবি
+- பொழுதுபோக்குகளின் பட்டியல்
+- అభిరుచి
+- විනෝදාංශ නාමාවලිය
+- งานอดิเรก
+- ဝါသနာ
+- ჰობი
+- ᨖᨚᨅᨗ
+- 兴趣
+- 嗜好
+- 愛好
+- 爱好
+- 趣味
+- 취미
 has_id_wikidata: Q47728
-subclass_of: "[[_Standards/WikiData/WD~recreation,184872]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-has_list: "[[_Standards/WikiData/WD~list_of_hobbies,6623388]]"
-practiced_by: "[[_Standards/WikiData/WD~hobbyist,65720209]]"
-opposite_of: "[[_Standards/WikiData/WD~profession,28640]]"
-IAB_code: "239"
+subclass_of: '[[_Standards/WikiData/WD~recreation,184872]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_list: '[[_Standards/WikiData/WD~list_of_hobbies,6623388]]'
+practiced_by: '[[_Standards/WikiData/WD~hobbyist,65720209]]'
+opposite_of: '[[_Standards/WikiData/WD~profession,28640]]'
+IAB_code: 239
 social_media_followers: 64025
 subreddit: Hobbies
 Commons_category: Hobbies
-U_S_National_Archives_Identifier: "10638677"
+U_S_National_Archives_Identifier: 10638677
 Colon_Classification: MY97
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedian%20at%20otium.jpg
 UMLS_CUI: C0019826
@@ -19,26 +83,138 @@ IPTC_NewsCode: mediatopic/20000550
 Library_of_Congress_Classification: GV1201.5
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~hobby,47728]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]"
-    - "[[Hobby]]"
+  - '[[_Standards/WikiData/WD~hobby,47728]]'
+  - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]'
+  - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]'
+  - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]'
+  - '[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]'
+  - '[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]'
+  - '[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]'
+  - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]'
+  - '[[Hobby]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-  - "[[Hobby]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]"
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[Hobby]]'
+- '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]'
+- '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]'
+- '[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]'
+- '[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]'
+- '[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]'
+- '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]'
+dv_has_:
+  name_:
+    af: stokperdjie
+    ar: هواية
+    as: হবি
+    ast: afición
+    az: hobbi
+    be: хобі
+    be-tarask: хобі
+    bg: хоби
+    bn: শখ
+    br: dudi
+    bs: hobi
+    bug: ᨖᨚᨅᨗ
+    ca: afició
+    cs: hobby
+    cy: difyrwaith
+    da: hobby
+    de: Hobby
+    de-ch: Hobby
+    el: χόμπι
+    en: hobby
+    en-ca: hobby
+    en-gb: hobby
+    en-us: hobby
+    eo: ŝatokupo
+    es: afición
+    et: harrastus
+    eu: denbora-pasa
+    fa: تفنن
+    fi: harrastus
+    fr: hobby
+    frp: lèsirs
+    fur: hobby
+    fy: leafhawwerij
+    ga: caitheamh aimsire
+    gl: afección
+    gsw: Hobby
+    gv: ceau emshir
+    he: תחביב
+    hi: रुचि
+    hr: hobi
+    hsb: hobby
+    hu: hobbi
+    hy: հոբբի
+    ia: hobby
+    id: hobi
+    io: hobio
+    is: Tómstundagaman
+    it: hobby
+    ja: 趣味
+    jv: hobi
+    ka: ჰობი
+    kaa: hobbi
+    ko: 취미
+    ku: hobî
+    ku-latn: hobî
+    la: avocamentum
+    lb: Hobby
+    lt: pomėgis
+    ltg: kavieklis
+    lv: vaļasprieks
+    mk: хоби
+    ms: hobi
+    ms-arab: هوبي
+    my: ဝါသနာ
+    nan: Hèng-chhù
+    nb: hobby
+    ne: रुचि
+    new: लाज्या
+    nl: hobby
+    nn: hobby
+    oc: hobby
+    os: хобби
+    pl: hobby
+    pt: hobby
+    ro: hobby
+    ru: хобби
+    rue: гобі
+    sco: habby
+    sgs: huobis
+    sh: hobi
+    si: විනෝදාංශ නාමාවලිය
+    sk: hobby
+    sl: konjiček
+    so: balwad
+    sq: hobi
+    sr: хоби
+    sr-ec: хоби
+    sr-el: hobi
+    sv: hobby
+    ta: பொழுதுபோக்குகளின் பட்டியல்
+    te: అభిరుచి
+    tg: Хобби
+    tg-cyrl: шавқ
+    th: งานอดิเรก
+    tl: hilig
+    tly: Hobbi
+    tr: hobi
+    tt: һобби
+    tt-cyrl: һобби
+    uk: хобі
+    ur: مشغلہ
+    uz: xobbi
+    vec: hoby
+    vi: sở thích
+    wa: pasmint d' tins
+    war: hinawngan
+    wuu: 兴趣
+    yue: 嗜好
+    zh: 爱好
+    zh-hans: 爱好
+    zh-hant: 愛好
 ---
-
 # [[Hobby]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~hobby,47728]] 

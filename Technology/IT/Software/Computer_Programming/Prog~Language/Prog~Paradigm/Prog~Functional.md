@@ -1,24 +1,157 @@
 ---
 aliases:
-  - Functional_programming
-  - Prog~Functional
+- fonksiyonel programlama
+- functional programming
+- Functional_programming
+- functioneel programmeren
+- funkcia programado
+- Funkcijsko programiranje
+- Funkcinis programavimas
+- funkcional programmalastırıw
+- Funkcionalno programiranje
+- funkcionális programozás
+- Funkcionálne programovanie
+- funkcionální programování
+- Funksionele programmering
+- funksjonell programmering
+- funktionaalinen ohjelmointi
+- funktional Programméierung
+- funktionale Programmierung
+- funktionell programmering
+- funktionsprogrammering
+- Funktsionaalne programmeerimine
+- lập trình hàm
+- Pemrograman fungsional
+- pengaturcaraan fungsian
+- Porgramaçon funcional
+- programació funcional
+- programación funcional
+- programare funcțională
+- Programassion funsional
+- Programazio funtzional
+- programação funcional
+- Programimi funksional
+- programmation fonctionnelle
+- Programmatura functionalis
+- programmazione funzionale
+- Programnayışo fonksiyonal
+- programowanie funkcyjne
+- Prog~Functional
+- rhaglennu swyddogaethol
+- ríomhchlárú feidhmiúil
+- Uprogramishaji kikadhia
+- συναρτησιακός προγραμματισμός
+- функційне програмування
+- Функціоналне проґрамованя
+- функционално програмирање
+- Функционално програмиране
+- функциональ програмлаштыру
+- функциональное программирование
+- Функцыйнае праграмаванне
+- функцыйнае праграмаваньне
+- Ֆունկցիոնալ ծրագրավորում
+- תכנות פונקציונלי
+- برمجة وظيفية
+- تابعی
+- ফাংশনভিত্তিক প্রোগ্রামিং
+- பணிமுறை நிரல் மொழி
+- ഫങ്ഷണൽ പ്രോഗ്രാമിംഗ്
+- การเขียนโปรแกรมเชิงฟังก์ชัน
+- 函数式编程
+- 函數式編程
+- 函數程式設計
+- 関数型プログラミング
+- 함수형 프로그래밍
 has_id_wikidata: Q193076
 instance_of:
-  - '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
-  - '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
+- '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
+- '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
 subclass_of: '[[_Standards/WikiData/WD~declarative_programming,531152]]'
 OmegaWiki_Defined_Meaning: 975428
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Functional%20programming.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2014%20%28Madehub%29-programmation%20fonctionnelle.wav
 Stack_Exchange_tag:
-  - https://cstheory.stackexchange.com/tags/functional-programming
-  - https://stackoverflow.com/tags/functional-programming
+- https://cstheory.stackexchange.com/tags/functional-programming
+- https://stackoverflow.com/tags/functional-programming
 Mastodon_instance_URL: https://functional.cafe
 Commons_category: Functional programming
 GitHub_topic: functional-programming
 subreddit: functionalprogramming
+dv_has_:
+  name_:
+    af: Funksionele programmering
+    ar: برمجة وظيفية
+    ast: programación funcional
+    be: Функцыйнае праграмаванне
+    be-tarask: функцыйнае праграмаваньне
+    bg: Функционално програмиране
+    bn: ফাংশনভিত্তিক প্রোগ্রামিং
+    bs: Funkcionalno programiranje
+    ca: programació funcional
+    cs: funkcionální programování
+    cy: rhaglennu swyddogaethol
+    da: funktionsprogrammering
+    de: funktionale Programmierung
+    diq: Programnayışo fonksiyonal
+    el: συναρτησιακός προγραμματισμός
+    en: functional programming
+    eo: funkcia programado
+    es: programación funcional
+    et: Funktsionaalne programmeerimine
+    eu: Programazio funtzional
+    fa: تابعی
+    fi: funktionaalinen ohjelmointi
+    fr: programmation fonctionnelle
+    ga: ríomhchlárú feidhmiúil
+    gl: programación funcional
+    he: תכנות פונקציונלי
+    hr: Funkcijsko programiranje
+    hu: funkcionális programozás
+    hy: Ֆունկցիոնալ ծրագրավորում
+    id: Pemrograman fungsional
+    it: programmazione funzionale
+    ja: 関数型プログラミング
+    kaa: funkcional programmalastırıw
+    ko: 함수형 프로그래밍
+    la: Programmatura functionalis
+    lb: funktional Programméierung
+    lt: Funkcinis programavimas
+    ml: ഫങ്ഷണൽ പ്രോഗ്രാമിംഗ്
+    ms: pengaturcaraan fungsian
+    mwl: Porgramaçon funcional
+    nb: funksjonell programmering
+    nl: functioneel programmeren
+    nn: funksjonell programmering
+    pl: programowanie funkcyjne
+    pms: Programassion funsional
+    pt: programação funcional
+    ro: programare funcțională
+    ru: функциональное программирование
+    rue: Функціоналне проґрамованя
+    sh: Funkcijsko programiranje
+    sk: Funkcionálne programovanie
+    sl: funkcionalno programiranje
+    sq: Programimi funksional
+    sr: функционално програмирање
+    sr-ec: Функционално програмирање
+    sr-el: Funkcionalno programiranje
+    sv: funktionell programmering
+    sw: Uprogramishaji kikadhia
+    ta: பணிமுறை நிரல் மொழி
+    th: การเขียนโปรแกรมเชิงฟังก์ชัน
+    tr: fonksiyonel programlama
+    tt: функциональ програмлаштыру
+    tt-cyrl: функциональ програмлаштыру
+    uk: функційне програмування
+    vi: lập trình hàm
+    yue: 函數程式設計
+    zh: 函数式编程
+    zh-cn: 函数式编程
+    zh-hans: 函数式编程
+    zh-hant: 函數式編程
+    zh-hk: 函數式編程
+    zh-sg: 函数式编程
 ---
-
 # [[Prog~Functional]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]]  

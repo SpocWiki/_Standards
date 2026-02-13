@@ -1,24 +1,191 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]"
-    - "[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land|Franz_Josef_Land]]"
-    - "[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public|Franz_Josef_Land.public]]"
-    - "[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal|Franz_Josef_Land.internal]]"
-    - "[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect|Franz_Josef_Land.protect]]"
-    - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]]"
-    - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]]"
-    - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]]"
+  - '[[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]'
+  - '[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land|Franz_Josef_Land]]'
+  - '[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public|Franz_Josef_Land.public]]'
+  - '[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal|Franz_Josef_Land.internal]]'
+  - '[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect|Franz_Josef_Land.protect]]'
+  - '[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]]'
+  - '[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]]'
+  - '[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]"
-  - "[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land|Franz_Josef_Land]]"
-  - "[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public|Franz_Josef_Land.public]]"
-  - "[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal|Franz_Josef_Land.internal]]"
-  - "[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect|Franz_Josef_Land.protect]]"
-  - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]]"
-  - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]]"
-  - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]]"
+- '[[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]'
+- '[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land|Franz_Josef_Land]]'
+- '[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public|Franz_Josef_Land.public]]'
+- '[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal|Franz_Josef_Land.internal]]'
+- '[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect|Franz_Josef_Land.protect]]'
+- '[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]]'
+- '[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]]'
+- '[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]]'
 has_id_wikidata: Q185018
+dv_has_:
+  name_:
+    af: Franz Josef-land
+    ar: أرخبيل فرنسوا جوزيف
+    ast: Tierra de Franciscu Xosé
+    avk: Franz-Josef (tursia)
+    az: Frans-İosif Torpağı
+    ba: Франц-Иосиф Ере
+    be: Зямля Франца-Іосіфа
+    be-tarask: Зямля Франца-Іосіфа
+    bg: Земя на Франц Йосиф
+    br: Douar Franz-Josef
+    ca: Terra de Francesc Josep
+    ce: Франц-Иосифан Латта
+    ceb: Franz Josef Land
+    cs: země Františka Josefa
+    cv: Франц-Иосиф Çĕрĕ
+    da: Franz Josefs Land
+    de: Franz-Josef-Land
+    de-ch: Franz-Josef-Land
+    el: Γη του Φραγκίσκου Ιωσήφ
+    en: Franz Josef Land
+    en-ca: Franz Josef Land
+    en-gb: Franz Josef Land
+    eo: Lando de Francisko Jozefo
+    es: Tierra de Francisco José
+    et: Franz Josephi maa
+    eu: Frantzisko Josefen Lurraldea
+    fa: مجمعالجزایر فرانز جوزف
+    fi: Frans Joosefin maa
+    fr: Terre François-Joseph
+    frr: Franz-Josef-Lun
+    fy: Frâns Joazeflân
+    ga: Tír Franz Josef
+    gl: Terra de Francisco Xosé
+    he: ארץ פרנץ יוזף
+    hi: फ़्रांज़ योसेफ़ द्वीपसमूह
+    hif: Franz Josef Land
+    hr: Zemlja Franje Josipa
+    hu: Ferenc József-föld
+    hy: Ֆրանց Իոսիֆի երկիր
+    id: Daratan Franz Josef
+    is: Frans Jósefsland
+    it: Terra di Francesco Giuseppe
+    ja: ゼムリャフランツァヨシファ
+    ka: ფრანც-იოსების მიწა
+    kk: Франц-Иосиф жері
+    ko: 제믈랴프란차이오시파 제도
+    ky: Франц-Иосиф жери
+    la: Terra Francisci Iosephi
+    lb: Franz-Josef-Land
+    lt: Prano Juozapo Žemė
+    lv: Franča Jozefa Zeme
+    mk: Земја на Франц Јосиф
+    ml: ഫ്രാൻസ് ജോസഫ് ലാൻഡ്
+    mn: Франц-Иосифын газар
+    nb: Frans Josefs land
+    nl: Frans Jozefland
+    nn: Frans Josefs land
+    oc: Tèrra de Francés Josèp
+    os: Франц-Иосифы зæхх
+    pl: Ziemia Franciszka Józefa
+    pt: Terra de Francisco José
+    pt-br: Terra de Francisco José
+    ro: Arhipelagul Franz Josef
+    ru: Земля Франца-Иосифа
+    sh: Zemlja Franje Josifa
+    sk: Zem Františka Jozefa
+    sl: Dežela Franca Jožefa
+    sr: Земља Фрање Јосифа
+    sr-ec: Земља Франца Јозефа
+    sr-el: Zemlja Franca Jozefa
+    sv: Frans Josefs land
+    sw: Funguvisiwa ya Franz Josef
+    tg: Замини Франс Иосиф
+    th: ฟรานซ์โจเซฟแลนด์
+    tr: Franz Josef Toprakları
+    tt: Франц-Иосиф җире
+    udm: Франц-Иосифлэн Музъемез
+    uk: Земля Франца-Йосифа
+    uz: Frans-iosif yeri
+    vi: Zemlya Frantsa-Iosifa
+    war: Katunaan Franz Josef
+    wuu: 法兰士约瑟夫地群岛
+    yue: 法蘭茨約瑟夫地群島
+    zh: 法兰士约瑟夫地群岛
+    zh-cn: 法兰士约瑟夫地群岛
+    zh-hans: 法兰士约瑟夫地群岛
+    zh-hant: 法蘭士約瑟夫地群島
+    zh-hk: 法蘭士約瑟夫地群島
+    zh-sg: 法兰士约瑟夫地群岛
+    zh-tw: 法蘭士約瑟夫地群島
+aliases:
+- Arhipelagul Franz Josef
+- Daratan Franz Josef
+- Dežela Franca Jožefa
+- Douar Franz-Josef
+- Ferenc József-föld
+- Frans Joosefin maa
+- Frans Josefs land
+- Frans Jozefland
+- Frans Jósefsland
+- Frans-iosif yeri
+- Frans-İosif Torpağı
+- Frantzisko Josefen Lurraldea
+- Franz Josef Land
+- Franz Josef Toprakları
+- Franz Josef-land
+- Franz Josefs Land
+- Franz Josephi maa
+- Franz-Josef (tursia)
+- Franz-Josef-Land
+- Franz-Josef-Lun
+- Franča Jozefa Zeme
+- Frâns Joazeflân
+- Funguvisiwa ya Franz Josef
+- Katunaan Franz Josef
+- Lando de Francisko Jozefo
+- Prano Juozapo Žemė
+- Terra de Francesc Josep
+- Terra de Francisco José
+- Terra de Francisco Xosé
+- Terra di Francesco Giuseppe
+- Terra Francisci Iosephi
+- Terre François-Joseph
+- Tierra de Francisco José
+- Tierra de Franciscu Xosé
+- Tèrra de Francés Josèp
+- Tír Franz Josef
+- Zem Františka Jozefa
+- Zemlja Franca Jozefa
+- Zemlja Franje Josifa
+- Zemlja Franje Josipa
+- Zemlya Frantsa-Iosifa
+- země Františka Josefa
+- Ziemia Franciszka Józefa
+- Γη του Φραγκίσκου Ιωσήφ
+- Замини Франс Иосиф
+- Земја на Франц Јосиф
+- Земља Фрање Јосифа
+- Земља Франца Јозефа
+- Земля Франца-Иосифа
+- Земля Франца-Йосифа
+- Земя на Франц Йосиф
+- Зямля Франца-Іосіфа
+- Франц-Иосиф Çĕрĕ
+- Франц-Иосиф Ере
+- Франц-Иосиф жері
+- Франц-Иосиф жери
+- Франц-Иосиф җире
+- Франц-Иосифан Латта
+- Франц-Иосифлэн Музъемез
+- Франц-Иосифы зæхх
+- Франц-Иосифын газар
+- Ֆրանց Իոսիֆի երկիր
+- ארץ פרנץ יוזף
+- أرخبيل فرنسوا جوزيف
+- مجمعالجزایر فرانز جوزف
+- फ़्रांज़ योसेफ़ द्वीपसमूह
+- ഫ്രാൻസ് ജോസഫ് ലാൻഡ്
+- ฟรานซ์โจเซฟแลนด์
+- ფრანც-იოსების მიწა
+- ゼムリャフランツァヨシファ
+- 法兰士约瑟夫地群岛
+- 法蘭士約瑟夫地群島
+- 法蘭茨約瑟夫地群島
+- 제믈랴프란차이오시파 제도
 ---
 # [[Franz_Josef_Land]] 
 

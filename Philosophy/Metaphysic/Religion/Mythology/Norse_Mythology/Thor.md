@@ -1,8 +1,167 @@
 ---
 has_id_wikidata: Q42952
+dv_has_:
+  name_:
+    af: Thor
+    an: Thor
+    ang: Þunor
+    ar: ثور
+    arz: ثور
+    as: থৰ
+    ast: Thor
+    az: Tor
+    ban: Thor
+    bar: Donar
+    bcl: Thor
+    be: Тор
+    be-tarask: Тор
+    bg: Тор
+    bn: থর
+    br: Thor
+    bs: Tor
+    ca: Thor
+    ckb: تۆر
+    cs: Thór
+    da: Thor
+    de: Thor
+    dtp: Thor
+    el: Θωρ
+    en: Thor
+    en-ca: Thor
+    en-gb: Thor
+    eo: Toro
+    es: Thor
+    et: Thor
+    eu: Thor
+    fa: ثور
+    fi: Thor
+    fo: Tórur
+    fr: Thor
+    fy: Tonger
+    ga: Túr
+    gl: Thor
+    gor: Thor
+    got: "\U00010338\U0001033F\U0001033D\U00010330\U00010342/Þunar"
+    gsw: Donar
+    gv: Thor
+    ha: Thor
+    he: תור
+    hi: थोर
+    hr: Thor
+    hu: Thor
+    hy: Թոր
+    ia: Thor
+    id: Thor
+    io: Tor
+    is: Þór
+    it: Thor
+    ja: トール
+    ka: თორი
+    ko: 토르
+    ksh: Thor
+    ku: Tor
+    ku-latn: Tor
+    la: Thorus
+    lb: Thor
+    lfn: Tor
+    lmo: Thor
+    lt: Toras
+    lv: Tors
+    mk: Тор
+    ml: തോർ
+    mni: ꯊꯣꯔ
+    ms: Thor
+    mul: Þórr
+    my: သော်
+    nan: Thor
+    nb: Tor
+    nds-nl: Donar
+    new: थोर
+    nl: Thor
+    nn: Tor
+    oc: Tòr
+    os: Тор
+    pa: ਥੌਰ
+    pl: Thor
+    pt: Thor
+    pt-br: Thor
+    ro: Thor
+    ru: Тор
+    sco: Thor
+    sh: Thor
+    si: තෝර්
+    sk: Thor
+    sl: Thor
+    sq: Thori
+    sr: Тор
+    sr-ec: Тор
+    stq: Thuner
+    sv: Tor
+    sw: Thor
+    ta: தோர்
+    th: ทอร์
+    tl: Thor
+    tok: jan sewi To
+    tr: Thor
+    tt: Тор
+    tt-cyrl: Тор
+    uk: Тор
+    uz: Thor
+    vi: Thor
+    vls: Thor
+    war: Thor
+    wuu: 索尔
+    yue: 托爾
+    zh: 索尔
+    zh-cn: 托尔
+    zh-hant: 索爾
+    zh-hk: 霍爾
+    zh-tw: 索爾
+aliases:
+- Donar
+- jan sewi To
+- Thor
+- Thori
+- Thorus
+- Thuner
+- Thór
+- Tonger
+- Tor
+- Toras
+- Toro
+- Tors
+- Tòr
+- Tórur
+- Túr
+- Þunor
+- Þór
+- Þórr
+- Θωρ
+- Тор
+- Թոր
+- תור
+- تۆر
+- ثور
+- थोर
+- থর
+- থৰ
+- ਥੌਰ
+- தோர்
+- തോർ
+- තෝර්
+- ทอร์
+- သော်
+- თორი
+- トール
+- 托尔
+- 托爾
+- 索尔
+- 索爾
+- 霍爾
+- ꯊꯣꯔ
+- 토르
+- "\U00010338\U0001033F\U0001033D\U00010330\U00010342/Þunar"
 ---
-
-
 # [[Thor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Thor,42952|WD~Thor,42952]]  

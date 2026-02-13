@@ -1,43 +1,112 @@
 ---
 aliases:
+- Akʼah sisíʼí tsin
+- blahovičník
+- bạch đàn
+- Eikalipti
+- eucalipt
+- Eucalipto
+- eucaliptus
+- Eucalyptus
+- Eukaliptas
+- Eukalipto
+- Eukaliptus
+- eukaliptusz
+- Eukalypten
+- Eukalyptowc
+- eukalyptukset
+- Eukalyptus
+- eukalyptusslekta
+- eukalyptusslekten
+- Eukalyptussläktet
+- Eukalíto
+- Eukalüpt
+- Evkalipt
+- Ewcalyptws
+- Eŭkalipto
+- Kalistu
+- Kininina (zavamaniry)
+- Mikalatusi
+- Mũbaũ
+- Okaliptüs
+- Okalîptûs
+- Pulukamu
+- Tröllatré
+- Ευκάλυπτος
+- Аевкалипт
+- Евкаліпт
+- евкалипт
+- евкалиптус
+- еукалиптус
+- Эўкаліпт
+- Эвкалипт
+- Նվենի
+- אקליפטוס
+- أوكالبتوس
+- اوكالبتوس
+- اوکالیپتوس
+- اکالیپتوس
+- بيد مشڪ
+- كلتوس
+- يوکليپتوس (لاچي ونه)
+- یوکلپٹس
+- निलगिरी
+- नीलगिरी
+- ইউক্যালিপটাস
+- નીલગિરી
+- தைலம்
+- యూకలిప్టస్
+- ನೀಲಗಿರಿ
+- യൂക്കാലിപ്റ്റസ്
+- ยูคาลิปตัส
+- မႆႉၼၢင်းလဝ်း
+- ယူကလစ်တပ်ပင်
+- ევკალიპტი
+- ባህር ዛፍ
+- ユーカリ
+- 尤加利
+- 桉属
+- 桉屬
+- 桉树
+- 유칼립투스
 has_id_wikidata: Q45669
 taxon_common_name:
-  - eucalipt
-  - evkalipt
-  - 桉属
-  - 桉属
-  - gum
-  - eucaliptus
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Eucalyptus_obliqua,602226]]"
+- eucalipt
+- evkalipt
+- 桉属
+- 桉属
+- gum
+- eucaliptus
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Eucalyptus_obliqua,602226]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]"
-different_from: "[[_Standards/WikiData/WD~Q1373653,1373653]]"
-parent_taxon: "[[_Standards/WikiData/WD~Eucalypteae,13399983]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
+different_from: '[[_Standards/WikiData/WD~Q1373653,1373653]]'
+parent_taxon: '[[_Standards/WikiData/WD~Eucalypteae,13399983]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Eudesmia,87151634]]"
-  - "[[_Standards/WikiData/WD~Symphyomyrtus,87169454]]"
-  - "[[_Standards/WikiData/WD~Aromadendrum,97011631]]"
+- '[[_Standards/WikiData/WD~Eudesmia,87151634]]'
+- '[[_Standards/WikiData/WD~Symphyomyrtus,87169454]]'
+- '[[_Standards/WikiData/WD~Aromadendrum,97011631]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Eucalyptus_gum,104212234]]"
-  - "[[_Standards/WikiData/WD~eucalyptus,118475713]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "27187"
-OmegaWiki_Defined_Meaning: "1092464"
+- '[[_Standards/WikiData/WD~Eucalyptus_gum,104212234]]'
+- '[[_Standards/WikiData/WD~eucalyptus,118475713]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 27187
+OmegaWiki_Defined_Meaning: 1092464
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/00%204937%20Eucalyptus%20salubris%20-%20tree%20%28Australia%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20tereticornis%20flowers%2C%20capsules%2C%20buds%20and%20foliage.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20flowers2.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20Larousse%20Extracted.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/00%204937%20Eucalyptus%20salubris%20-%20tree%20%28Australia%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20tereticornis%20flowers%2C%20capsules%2C%20buds%20and%20foliage.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20flowers2.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eucalyptus%20Larousse%20Extracted.png
 Commons_gallery: Eucalyptus
 Commons_category: Eucalyptus
 taxon_name: Eucalyptus
@@ -48,8 +117,123 @@ MeSH_tree_code: B01.875.800.575.912.250.773.366
 UMLS_CUI: C1005038
 Colon_Classification: JXE
 NBN_System_Key: NHMSYS0000458614
+dv_has_:
+  name_:
+    ab: Аевкалипт
+    aeb-arab: كلتوس
+    af: Eucalyptus
+    am: ባህር ዛፍ
+    an: Eucalyptus
+    ar: أوكالبتوس
+    arz: اوكالبتوس
+    ast: Eucalyptus
+    az: Evkalipt
+    be: Эўкаліпт
+    be-tarask: эўкаліпт
+    bg: евкалипт
+    bn: ইউক্যালিপটাস
+    bs: Eukaliptus
+    ca: eucaliptus
+    ceb: Eucalyptus
+    cs: blahovičník
+    cy: Ewcalyptws
+    da: Eukalyptus
+    de: Eukalypten
+    el: Ευκάλυπτος
+    en: Eucalyptus
+    eo: Eŭkalipto
+    es: Eucalipto
+    et: Eukalüpt
+    eu: Eukalipto
+    ext: Eucalyptus
+    fa: اکالیپتوس
+    fi: eukalyptukset
+    fr: Eucalyptus
+    frr: Eukalyptus
+    ga: Eucalyptus
+    gl: Eucalipto
+    gn: Eukalíto
+    gu: નીલગિરી
+    gv: Eucalyptus
+    he: אקליפטוס
+    hi: नीलगिरी
+    hr: Eukaliptus
+    hsb: Eukalyptowc
+    hu: eukaliptusz
+    hy: Նվենի
+    ia: Eucalyptus
+    id: Eukaliptus
+    ie: Eucalyptus
+    io: Eukalipto
+    is: Tröllatré
+    it: Eucalyptus
+    ja: ユーカリ
+    ka: ევკალიპტი
+    kaa: Evkalipt
+    ki: Mũbaũ
+    kk: Эвкалипт
+    kn: ನೀಲಗಿರಿ
+    ko: 유칼립투스
+    ku: Okalîptûs
+    kv: Эвкалипт
+    ky: Эвкалипт
+    la: Eucalyptus
+    lt: Eukaliptas
+    lv: Eikalipti
+    mg: Kininina (zavamaniry)
+    mk: евкалиптус
+    ml: യൂക്കാലിപ്റ്റസ്
+    mr: निलगिरी
+    mrj: Эвкалипт
+    ms: Eucalyptus
+    mul: Eucalyptus
+    my: ယူကလစ်တပ်ပင်
+    mzn: اوکالیپتوس
+    nb: eukalyptusslekten
+    nl: Eucalyptus
+    nn: eukalyptusslekta
+    nv: Akʼah sisíʼí tsin
+    oc: Eucalyptus
+    os: Эвкалипт
+    pl: Eukaliptus
+    pnb: یوکلپٹس
+    ps: يوکليپتوس (لاچي ونه)
+    pt: Eucalipto
+    pt-br: Eucalyptus
+    qu: Kalistu
+    ro: eucalipt
+    ru: Эвкалипт
+    sc: Eucalyptus
+    sco: Eucalyptus
+    sd: بيد مشڪ
+    sh: Eukaliptus
+    shn: မႆႉၼၢင်းလဝ်း
+    sk: Eukalyptus
+    sl: evkalipt
+    sq: Eucalyptus
+    sr: еукалиптус
+    sv: Eukalyptussläktet
+    sw: Mikalatusi
+    ta: தைலம்
+    te: యూకలిప్టస్
+    th: ยูคาลิปตัส
+    tl: Eukaliptus
+    to: Pulukamu
+    tr: Okaliptüs
+    tt: эвкалипт
+    uk: Евкаліпт
+    ur: یوکلپٹس
+    uz: Evkalipt
+    vi: bạch đàn
+    vo: Eucalyptus
+    war: Eucalyptus
+    wuu: 桉树
+    yue: 尤加利
+    zh: 桉属
+    zh-cn: 桉属
+    zh-hans: 桉属
+    zh-tw: 桉屬
 ---
-
 # [[Eucalyptus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Eucalyptus,45669|WD~Eucalyptus,45669]] 

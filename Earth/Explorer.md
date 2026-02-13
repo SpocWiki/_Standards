@@ -1,25 +1,54 @@
 ---
 dv_has_:
-  created: "[[../Society/Politics/Government/Colonialism|Colonialism]]"
+  created: '[[../Society/Politics/Government/Colonialism|Colonialism]]'
+  name_:
+    bn: অনুসন্ধান
+    en: exploration
+    es: exploración
+    fa: کاوشگری
+    fr: exploration
+    ga: taiscéalaíocht
+    hi: समन्वेषण
+    it: esplorazione
+    la: exploratio
+    ru: исследование
+    sah: чинчийии
+    sl: odkrivanje
+    udm: эскерон
+    zh: 探索
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Explorer|Explorer]]"
-    - "[[/_public/Earth/Explorer.public|Explorer.public]]"
-    - "[[/_internal/Earth/Explorer.internal|Explorer.internal]]"
-    - "[[/_protect/Earth/Explorer.protect|Explorer.protect]]"
-    - "[[/_private/Earth/Explorer.private|Explorer.private]]"
-    - "[[/_personal/Earth/Explorer.personal|Explorer.personal]]"
-    - "[[/_secret/Earth/Explorer.secret|Explorer.secret]]"
-dv_has_created: "[[../Society/Politics/Government/Colonialism|Colonialism]]"
+  - '[[/_Standards/Earth/Explorer|Explorer]]'
+  - '[[/_public/Earth/Explorer.public|Explorer.public]]'
+  - '[[/_internal/Earth/Explorer.internal|Explorer.internal]]'
+  - '[[/_protect/Earth/Explorer.protect|Explorer.protect]]'
+  - '[[/_private/Earth/Explorer.private|Explorer.private]]'
+  - '[[/_personal/Earth/Explorer.personal|Explorer.personal]]'
+  - '[[/_secret/Earth/Explorer.secret|Explorer.secret]]'
+dv_has_created: '[[../Society/Politics/Government/Colonialism|Colonialism]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Explorer|Explorer]]"
-  - "[[/_public/Earth/Explorer.public|Explorer.public]]"
-  - "[[/_internal/Earth/Explorer.internal|Explorer.internal]]"
-  - "[[/_protect/Earth/Explorer.protect|Explorer.protect]]"
-  - "[[/_private/Earth/Explorer.private|Explorer.private]]"
-  - "[[/_personal/Earth/Explorer.personal|Explorer.personal]]"
-  - "[[/_secret/Earth/Explorer.secret|Explorer.secret]]"
+- '[[/_Standards/Earth/Explorer|Explorer]]'
+- '[[/_public/Earth/Explorer.public|Explorer.public]]'
+- '[[/_internal/Earth/Explorer.internal|Explorer.internal]]'
+- '[[/_protect/Earth/Explorer.protect|Explorer.protect]]'
+- '[[/_private/Earth/Explorer.private|Explorer.private]]'
+- '[[/_personal/Earth/Explorer.personal|Explorer.personal]]'
+- '[[/_secret/Earth/Explorer.secret|Explorer.secret]]'
 has_id_wikidata: Q116967296
+aliases:
+- esplorazione
+- exploración
+- exploratio
+- exploration
+- odkrivanje
+- taiscéalaíocht
+- исследование
+- чинчийии
+- эскерон
+- کاوشگری
+- समन्वेषण
+- অনুসন্ধান
+- 探索
 ---
 # [[Explorer]] 
 

@@ -1,47 +1,176 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]"
+  - '[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]"
-
-has_time_started: 1464-01-01 
-has_time_stopped: 1591-03-12 
+- '[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]'
+- '[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]'
+has_time_started: 1464-01-01
+has_time_stopped: 1591-03-12
 aliases:
+- Daular Songhai
+- Dola la Songhai
+- Empayar Songhai
+- Emperyong Songhay
+- Empire songhaï
+- Empèri Songai
+- Ilẹ̀ Ọbalúayé Sọ́ngháì
+- Imbraatóor gu Songaay
+- Imperi Songhai
+- Imperio Songai
+- Imperio songhai
+- Imperiu songhai
+- Impero Songhai
+- Império Songhai
+- Inpero Songhai
+- Kekaisaran Songhai
+- Songai Mansamara
+- Songaj
+- Songajsko Carstvo
+- Songajus
+- Songhai
+- Songhai Empire
+- Songhai Inperioa
+- Songhai Tè-kok
+- Songhai-Imperiet
+- Songhai-rijk
+- Songhaireich
+- Songhairiket
+- Songhaj
+- Songhajská ríša
+- Songhajská říše
+- Songhay İmparatorluğu
+- Sonhaja regno
+- Sonqay
+- Szongáj Birodalom
+- Дзяржава Сангай
+- Сонгај
+- Сонгајско Царство
+- Сонгай
+- אימפריית סונגהאי
+- إيمبراطورية صونݣاي
+- امپراتوری سنغای
+- سلطنة صنغاي
+- سلطنت سونگھائی
+- سونغای ایمپراتورلوغو
+- سونگھائی بادشاہت
+- ߛߐ߲ߜ߭ߊߌ߫ ߝߊ߰ߡߊ߬ߟߊ
+- सोंघाई साम्राज्य
+- सोन्घाई साम्राज्य
+- সোনহাই সাম্রাজ্য
+- ਸੋਂਘਾਈ ਸਲਤਨਤ
+- จักรวรรดิซองไฮ
+- სონგაის იმპერია
+- ソンガイ帝国
+- 桑海帝国
+- 桑海帝國
+- 송가이 제국
 has_id_wikidata: Q202687
-capital: "[[_Standards/WikiData/WD~Gao,188904]]"
-official_language: "[[_Standards/WikiData/WD~Songhay,505198]]"
-replaces: "[[_Standards/WikiData/WD~Gao_Empire,1493766]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-language_used: "[[_Standards/WikiData/WD~Central_Mande,5972907]]"
-currency: "[[_Standards/WikiData/WD~cowrie_currency,115706729]]"
+capital: '[[_Standards/WikiData/WD~Gao,188904]]'
+official_language: '[[_Standards/WikiData/WD~Songhay,505198]]'
+replaces: '[[_Standards/WikiData/WD~Gao_Empire,1493766]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+language_used: '[[_Standards/WikiData/WD~Central_Mande,5972907]]'
+currency: '[[_Standards/WikiData/WD~cowrie_currency,115706729]]'
 inception: 1464-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1591-03-12T00:00:00Z
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 located_in_the_present_day_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/SONGHAI%20empire%20map.PNG
 Commons_category: Songhai Empire
 coordinate_location: Point(-0.05 16.26666667)
+dv_has_:
+  name_:
+    ar: سلطنة صنغاي
+    ary: إيمبراطورية صونݣاي
+    ast: Imperiu songhai
+    az: Sonqay
+    azb: سونغای ایمپراتورلوغو
+    be: Дзяржава Сангай
+    be-tarask: Сонгай
+    bg: Сонгай
+    bm: Songai Mansamara
+    bn: সোনহাই সাম্রাজ্য
+    ca: Imperi Songhai
+    cs: Songhajská říše
+    da: Songhai-Imperiet
+    de: Songhaireich
+    en: Songhai Empire
+    eo: Sonhaja regno
+    es: Imperio songhai
+    eu: Songhai Inperioa
+    fa: امپراتوری سنغای
+    fi: Songhai
+    fr: Empire songhaï
+    gl: Imperio Songai
+    ha: Daular Songhai
+    he: אימפריית סונגהאי
+    hi: सोन्घाई साम्राज्य
+    hr: Songajsko Carstvo
+    hu: Szongáj Birodalom
+    id: Kekaisaran Songhai
+    io: Imperio Songhai
+    it: Impero Songhai
+    ja: ソンガイ帝国
+    ka: სონგაის იმპერია
+    ko: 송가이 제국
+    lt: Songajus
+    mk: Сонгајско Царство
+    mr: सोंघाई साम्राज्य
+    ms: Empayar Songhai
+    nan: Songhai Tè-kok
+    nb: Songhai
+    nl: Songhai-rijk
+    nn: Songhairiket
+    nqo: ߛߐ߲ߜ߭ߊߌ߫ ߝߊ߰ߡߊ߬ߟߊ
+    oc: Empèri Songai
+    pa: ਸੋਂਘਾਈ ਸਲਤਨਤ
+    pl: Songhaj
+    pnb: سونگھائی بادشاہت
+    pt: Império Songhai
+    ru: Сонгай
+    sco: Songhai Empire
+    sh: Songaj
+    sk: Songhajská ríša
+    sr: Сонгај
+    sv: Songhairiket
+    sw: Dola la Songhai
+    th: จักรวรรดิซองไฮ
+    tl: Emperyong Songhay
+    tr: Songhay İmparatorluğu
+    uk: Сонгай
+    ur: سلطنت سونگھائی
+    vec: Inpero Songhai
+    vi: songhai
+    wo: Imbraatóor gu Songaay
+    wuu: 桑海帝国
+    yo: Ilẹ̀ Ọbalúayé Sọ́ngháì
+    yue: 桑海帝國
+    zh: 桑海帝国
+    zh-cn: 桑海帝国
+    zh-hans: 桑海帝国
+    zh-hant: 桑海帝國
+    zh-hk: 桑海帝國
+    zh-sg: 桑海帝国
+    zh-tw: 桑海帝國
 ---
-
 # [[1464-Songhai_Empire+1591]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]  

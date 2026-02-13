@@ -1,34 +1,158 @@
 ---
-has_time_started: 1848-01-01 
+has_time_started: 1848-01-01
 aliases:
-  - Pre-Raphaelite Brotherhood
-  - Pre-Raphaelites
-  - Pre-Raphaelite_Brotherhood
+- an Bráithreachas Réamh-Rafaeilíteach
+- Brawdoliaeth y Cyn-Raffaëliaid
+- Dareraffaelloeva
+- Det prerafaelittiske broderskap
+- Det Prærafaelitiske Broderskab
+- Fraternitas Praeraphaelitarum
+- Hermandad Prerrafaelita
+- Hermandá Prerrafaelita
+- Irmandade Prerrafaelista
+- Irmandade Pré-Rafaelita
+- La Antaŭ-Rafaelida Frataro
+- Persaudaraan Pra-Raphaelite
+- Pre-Raphaelite Brotherhood
+- Pre-Raphaelites
+- Pre-Raphaelite_Brotherhood
+- Prerafaelici
+- Prerafaeliitit
+- Prerafaeliterna
+- Prerafaeliti
+- prerafaelitisme
+- Prerafaelitlar
+- Prerafaelittane
+- Prerafaelité
+- Prerafaelitų brolija
+- Prerafaeliții
+- Prerafaelītu brālība
+- Prerafaëlieten
+- Prerafelisme
+- Preraffaelisti
+- Preraffaelitas
+- preraffaeliták
+- preraffaelliti
+- Prerrafaelismo
+- Präraffaeliten
+- préraphaélisme
+- Rakrafaelouriezh
+- Tiền Raphael
+- Ön Raffaellocular
+- Προραφαηλίτες
+- предрафаелити
+- прерафаеліти
+- Прерафаелити
+- Прерафаэлитсем
+- Прерафаэлиттер
+- прерафаэлиты
+- прэрафаэліты
+- Պրեռաֆայելիտներ
+- האחווה הפרה-רפאליטית
+- انجمن برادری پیشارافائلی
+- ما قبل الرفائيلية
+- ما قبل الرفائيليه
+- پيشارافايلي ورورولي
+- กลุ่มนิยมแบบก่อนราฟาเอล
+- პრერაფაელიტები
+- ラファエル前派
+- 前拉斐尔派
+- 前拉斐爾派
+- 라파엘 전파
 has_id_wikidata: Q184814
 founded_by:
-  - '[[_Standards/WikiData/WD~John_Everett_Millais,159606]]'
-  - '[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748]]'
-  - '[[_Standards/WikiData/WD~William_Holman_Hunt,211763]]'
+- '[[_Standards/WikiData/WD~John_Everett_Millais,159606]]'
+- '[[_Standards/WikiData/WD~Dante_Gabriel_Rossetti,186748]]'
+- '[[_Standards/WikiData/WD~William_Holman_Hunt,211763]]'
 influenced_by: '[[_Standards/WikiData/WD~John_Ruskin,179126]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~style,1292119]]'
-  - '[[_Standards/WikiData/WD~art_group,4502119]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~art_group,4502119]]'
 inception: 1848-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20-%20Mariana%20-%20Google%20Art%20Project.jpg
 ISNI: 0000000099935375
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PRERAFAELITI.html
 Commons_category: Pre-Raphaelite Brotherhood
 Royal_Academy_new_identifier: pre-raphaelite-brotherhood
+dv_has_:
+  name_:
+    ar: ما قبل الرفائيلية
+    arz: ما قبل الرفائيليه
+    ast: Hermandá Prerrafaelita
+    avk: Dareraffaelloeva
+    be: прэрафаэліты
+    be-tarask: Прэрафаэліты
+    bg: Прерафаелити
+    br: Rakrafaelouriezh
+    bs: Prerafaeliti
+    ca: prerafaelitisme
+    cs: Prerafaelité
+    cv: Прерафаэлитсем
+    cy: Brawdoliaeth y Cyn-Raffaëliaid
+    da: Det Prærafaelitiske Broderskab
+    de: Präraffaeliten
+    el: Προραφαηλίτες
+    en: Pre-Raphaelite Brotherhood
+    eo: La Antaŭ-Rafaelida Frataro
+    es: Hermandad Prerrafaelita
+    eu: Prerrafaelismo
+    fa: انجمن برادری پیشارافائلی
+    fi: Prerafaeliitit
+    fr: préraphaélisme
+    ga: an Bráithreachas Réamh-Rafaeilíteach
+    gl: Irmandade Prerrafaelista
+    he: האחווה הפרה-רפאליטית
+    hr: Prerafaeliti
+    hu: preraffaeliták
+    hy: Պրեռաֆայելիտներ
+    id: Persaudaraan Pra-Raphaelite
+    it: preraffaelliti
+    ja: ラファエル前派
+    ka: პრერაფაელიტები
+    ko: 라파엘 전파
+    ky: Прерафаэлиттер
+    la: Fraternitas Praeraphaelitarum
+    lt: Prerafaelitų brolija
+    lv: Prerafaelītu brālība
+    mk: предрафаелити
+    nb: Det prerafaelittiske broderskap
+    nl: Prerafaëlieten
+    nn: Prerafaelittane
+    oc: Prerafelisme
+    pl: Prerafaelici
+    ps: پيشارافايلي ورورولي
+    pt: Irmandade Pré-Rafaelita
+    ro: Prerafaeliții
+    ru: прерафаэлиты
+    sc: Preraffaelitas
+    sh: Prerafaeliti
+    sk: Preraffaelisti
+    sl: prerafaeliti
+    sr: Прерафаелити
+    sr-ec: Прерафаелити
+    sr-el: Prerafaeliti
+    sv: Prerafaeliterna
+    th: กลุ่มนิยมแบบก่อนราฟาเอล
+    tr: Ön Raffaellocular
+    uk: прерафаеліти
+    uz: Prerafaelitlar
+    vi: Tiền Raphael
+    zh: 前拉斐爾派
+    zh-cn: 前拉斐尔派
+    zh-hans: 前拉斐尔派
+    zh-hant: 前拉斐爾派
+    zh-hk: 前拉斐爾派
+    zh-sg: 前拉斐尔派
+    zh-tw: 前拉斐爾派
 ---
-
 # [[Pre-Raphaelite_Brotherhood]] 
 
 #is_/same_as :: [[WD~Pre-Raphaelite_Brotherhood,184814]] 

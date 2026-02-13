@@ -1,8 +1,123 @@
 ---
 aliases:
-  - Peracarida
+- hévízi rákok
+- Peracarida
+- Peracàrides
+- Peracáridos
+- Perakarīdi
+- Ranzenkrebse
+- torboraki
+- váčkovníci
+- Περακάριδα
+- перакариды
+- պերիկարիդներ
+- قشريات جرابية
+- قشريات جرابيه
+- میگوهای کیسهدار
+- フクロエビ上目
+- 囊虾总目
+- 囊蝦總目
+- 낭하상목
 title: Peracarida
 has_id_wikidata: Q25933
+dv_has_:
+  name_:
+    af: Peracarida
+    an: Peracarida
+    ar: قشريات جرابية
+    arz: قشريات جرابيه
+    ast: Peracarida
+    bar: Peracarida
+    bg: Peracarida
+    br: Peracarida
+    ca: Peracàrides
+    ceb: Peracarida
+    co: Peracarida
+    cs: váčkovníci
+    cy: Peracarida
+    da: Peracarida
+    de: Ranzenkrebse
+    de-at: Peracarida
+    de-ch: Peracarida
+    el: Περακάριδα
+    en: Peracarida
+    en-ca: Peracarida
+    en-gb: Peracarida
+    eo: Peracarida
+    es: Peracarida
+    et: Peracarida
+    eu: Peracarida
+    ext: Peracarida
+    fa: میگوهای کیسهدار
+    fi: Peracarida
+    fr: Peracarida
+    frp: Peracarida
+    fur: Peracarida
+    ga: Peracarida
+    gd: Peracarida
+    gl: Peracáridos
+    gsw: Peracarida
+    hr: Peracarida
+    hu: hévízi rákok
+    hy: պերիկարիդներ
+    ia: Peracarida
+    id: Peracarida
+    ie: Peracarida
+    io: Peracarida
+    is: Peracarida
+    it: Peracarida
+    ja: フクロエビ上目
+    kg: Peracarida
+    ko: 낭하상목
+    la: Peracarida
+    lb: Peracarida
+    li: Peracarida
+    lij: Peracarida
+    lv: Perakarīdi
+    mg: Peracarida
+    min: Peracarida
+    ms: Peracarida
+    mul: Peracarida
+    nap: Peracarida
+    nb: Peracarida
+    nds: Peracarida
+    nds-nl: Peracarida
+    nl: Peracarida
+    nn: Peracarida
+    nrm: Peracarida
+    nys: Peracarida
+    oc: Peracarida
+    pcd: Peracarida
+    pl: torboraki
+    pms: Peracarida
+    pt: Peracarida
+    pt-br: Peracarida
+    rm: Peracarida
+    ro: Peracarida
+    ru: перакариды
+    sc: Peracarida
+    scn: Peracarida
+    sco: Peracarida
+    sk: Peracarida
+    sl: Peracarida
+    sq: Peracarida
+    sr: Peracarida
+    sv: Peracarida
+    sw: Peracarida
+    tr: Peracarida
+    uk: Peracarida
+    vec: Peracarida
+    vi: Peracarida
+    vls: Peracarida
+    vo: Peracarida
+    wa: Peracarida
+    war: Peracarida
+    wo: Peracarida
+    zh: 囊蝦總目
+    zh-cn: 囊虾总目
+    zh-hans: 囊虾总目
+    zh-tw: 囊蝦總目
+    zu: Peracarida
 ---
 # [[Peracarida]]  
 

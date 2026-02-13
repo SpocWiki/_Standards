@@ -1,39 +1,260 @@
 ---
 aliases:
+- co-vunstoo orgaanagh
+- comhdhúil orgánach
+- component organic
+- composito organic
+- compost orgànic
+- composto organico
+- composto orgánico
+- composto orgânico
+- composé organique
+- compuesto orgánico
+- compuestu orgánicu
+- compus organic
+- cumpost urganich
+- cumpostu urgànicu
+- cyfansoddyn organig
+- hợp chất hữu cơ
+- iú-ki hòa-ha̍p-bu̍t
+- kampaundi ogania
+- kesstoff organek
+- kimiċi organiċi
+- kompaawundii orgaanikii
+- komponime organike
+- kompuwestong organiko
+- kompwesto organico
+- konposatu organiko
+- konpoze òganik
+- lífrænt efnasamband
+- orgaanilised ühendid
+- orgaaninen yhdiste
+- orgaanlâš ovtâstâh
+- organic compoond
+- organic compound
+- organická sloučenina
+- organická zlúčenina
+- organiese verbinding
+- organik bileşik
+- organik birikma
+- organika kombinaĵo
+- organikong kompuwesto
+- organinis junginys
+- organische verbinding
+- organische Verbindung
+- organische verbinjing
+- organisk forbindelse
+- organisk förening
+- organisk sambinding
+- organiska viela
+- organska jedinjenja
+- organska spojina
+- organski spoj
+- organsko jedinjenje
+- organïkalıq qosılıstar
+- orgánalaš ovttastus
+- sanyawa organik
+- sebatian organik
+- senyawa organik
+- szerves vegyület
+- uddis agman
+- yû-kî fa-ha̍p-vu̍t
+- związek organiczny
+- üzvi maddələr
+- οργανική ένωση
+- арганічнае рэчыва
+- арганічныя рэчывы
+- органічні сполуки
+- органик кушылмалар
+- органик нэгдэл
+- органикăллă япалалăхсем
+- органикай хӀамаш
+- органикалық қосылыстар
+- органическое соединение
+- органично съединение
+- органичны злученины
+- органско једињење
+- органско соединение
+- օրգանական միացություններ
+- ארגאנישע פארבינדונג
+- תרכובת אורגנית
+- آرگینک کمپاؤنڈ
+- ئاوێتەی ئەندامی
+- اورقانیک بیلشیک
+- ترکیب آلی
+- سباتين اورݢانيک
+- مركب عضوي
+- نامیاتی مرکبات
+- ورگانىيكالىق قوسىلىستار
+- कार्बनिक यौगिक
+- जैविक यौगिक
+- জৈব যৌগ
+- ਕਾਰਬਨੀ ਯੋਗ
+- கரிமச் சேர்வை
+- సేంద్రియ సమ్మేళనం
+- കാർബണിക സംയുക്തം
+- කාබනික සංයෝගය
+- สารประกอบอินทรีย์
+- ທາດປະສົມອິນຊີ
+- သက်ရှိနွယ် ဒြပ်ပေါင်း
+- ორგანული ნივთიერებები
+- 有机化合物
+- 有機化合物
+- 유기 화합물
 has_id_wikidata: Q174211
 opposite_of:
-  - "[[_Standards/WikiData/WD~inorganic_compound,190065]]"
-  - "[[_Standards/WikiData/WD~inorganic_substance,3361209]]"
-has_use: "[[_Standards/WikiData/WD~organic_reaction,648191]]"
-subclass_of: "[[_Standards/WikiData/WD~carbon_compound,2901852]]"
-described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-studied_by: "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
-OmegaWiki_Defined_Meaning: "2666"
+- '[[_Standards/WikiData/WD~inorganic_compound,190065]]'
+- '[[_Standards/WikiData/WD~inorganic_substance,3361209]]'
+has_use: '[[_Standards/WikiData/WD~organic_reaction,648191]]'
+subclass_of: '[[_Standards/WikiData/WD~carbon_compound,2901852]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+studied_by: '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
+OmegaWiki_Defined_Meaning: 2666
 MeSH_tree_code: D02
 UMLS_CUI: C0029224
 Commons_category: Organic compounds
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Organic_compound,174211]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]"
+  - '[[../../WikiData/WD~Organic_compound,174211]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Organic_compound,174211]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]"
+- '[[../../WikiData/WD~Organic_compound,174211]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]'
+dv_has_:
+  name_:
+    af: organiese verbinding
+    ar: مركب عضوي
+    ast: compuestu orgánicu
+    awa: कार्बनिक यौगिक
+    az: üzvi maddələr
+    azb: اورقانیک بیلشیک
+    bcl: organikong kompuwesto
+    be: арганічныя рэчывы
+    be-tarask: арганічнае рэчыва
+    bg: органично съединение
+    bn: জৈব যৌগ
+    bs: organski spoj
+    ca: compost orgànic
+    ckb: ئاوێتەی ئەندامی
+    cs: organická sloučenina
+    cv: органикăллă япалалăхсем
+    cy: cyfansoddyn organig
+    da: organisk forbindelse
+    de: organische Verbindung
+    el: οργανική ένωση
+    en: organic compound
+    eo: organika kombinaĵo
+    es: compuesto orgánico
+    et: orgaanilised ühendid
+    eu: konposatu organiko
+    fa: ترکیب آلی
+    fi: orgaaninen yhdiste
+    fr: composé organique
+    ga: comhdhúil orgánach
+    gl: composto orgánico
+    gv: co-vunstoo orgaanagh
+    hak: yû-kî fa-ha̍p-vu̍t
+    he: תרכובת אורגנית
+    hi: कार्बनिक यौगिक
+    hr: organski spoj
+    ht: konpoze òganik
+    hu: szerves vegyület
+    hy: օրգանական միացություններ
+    ia: composito organic
+    id: senyawa organik
+    inh: органикай хӀамаш
+    is: lífrænt efnasamband
+    it: composto organico
+    ja: 有機化合物
+    ka: ორგანული ნივთიერებები
+    kab: uddis agman
+    kk: органикалық қосылыстар
+    kk-arab: ورگانىيكالىق قوسىلىستار
+    kk-cn: ورگانىيكالىق قوسىلىستار
+    kk-cyrl: органикалық қосылыстар
+    kk-kz: органикалық қосылыстар
+    kk-latn: organïkalıq qosılıstar
+    kk-tr: organïkalıq qosılıstar
+    ko: 유기 화합물
+    kw: kesstoff organek
+    li: organische verbinjing
+    lmo: cumpost urganich
+    lo: ທາດປະສົມອິນຊີ
+    lt: organinis junginys
+    lv: organiska viela
+    lzh: 有機化合物
+    mag: जैविक यौगिक
+    mk: органско соединение
+    ml: കാർബണിക സംയുക്തം
+    mn: органик нэгдэл
+    ms: sebatian organik
+    ms-arab: سباتين اورݢانيک
+    mt: kimiċi organiċi
+    my: သက်ရှိနွယ် ဒြပ်ပေါင်း
+    nan: iú-ki hòa-ha̍p-bu̍t
+    nb: organisk forbindelse
+    nl: organische verbinding
+    nn: organisk sambinding
+    oc: component organic
+    om: kompaawundii orgaanikii
+    pa: ਕਾਰਬਨੀ ਯੋਗ
+    pl: związek organiczny
+    pnb: آرگینک کمپاؤنڈ
+    pt: composto orgânico
+    pt-br: composto orgânico
+    ro: compus organic
+    ru: органическое соединение
+    rue: органичны злученины
+    scn: cumpostu urgànicu
+    sco: organic compoond
+    se: orgánalaš ovttastus
+    sh: organska jedinjenja
+    si: කාබනික සංයෝගය
+    sk: organická zlúčenina
+    sl: organska spojina
+    smn: orgaanlâš ovtâstâh
+    sq: komponime organike
+    sr: органско једињење
+    sr-ec: органско једињење
+    sr-el: organsko jedinjenje
+    su: sanyawa organik
+    sv: organisk förening
+    sw: kampaundi ogania
+    ta: கரிமச் சேர்வை
+    te: సేంద్రియ సమ్మేళనం
+    th: สารประกอบอินทรีย์
+    tl: kompuwestong organiko
+    tr: organik bileşik
+    tt: органик кушылмалар
+    uk: органічні сполуки
+    ur: نامیاتی مرکبات
+    uz: organik birikma
+    vi: hợp chất hữu cơ
+    war: kompwesto organico
+    wuu: 有机化合物
+    yi: ארגאנישע פארבינדונג
+    yue: 有機化合物
+    zh: 有机化合物
+    zh-cn: 有机化合物
+    zh-hans: 有机化合物
+    zh-hant: 有機化合物
+    zh-hk: 有機化合物
+    zh-sg: 有机化合物
+    zh-tw: 有機化合物
 ---
-
 # [[Organic_Compound]] 
 
 #is_/same_as :: [[WD~Organic_compound,174211]] 

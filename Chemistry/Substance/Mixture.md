@@ -1,38 +1,231 @@
 ---
 aliases:
-  - mixtures
-  - Mixture
+- amestec
+- amiestu
+- aralaspa
+- Arway
+- blanding
+- blandning
+- campuran
+- Chaqrusqa
+- cymysgedd
+- efnablanda
+- Gemisch
+- Gemësch
+- Halo
+- Jehe'a
+- karışım
+- kemisk blanding
+- kemyskans
+- keverék
+- maisījums
+- Makaa
+- meascán
+- Melanj etewojèn
+- Mengsel
+- Mes'ciada (chimica)
+- mescla
+- mestura
+- mezcla
+- mieszanina
+- miksaĵo
+- miscela
+- mistura
+- mixtur
+- mixtura
+- Mixture
+- mixtures
+- mixuro
+- mišinys
+- mélange
+- Məhlulun qatılığının ifadə üsulları
+- nahaste
+- pha trộn
+- Përzierja
+- Sangísa
+- segu
+- seos
+- Smeša
+- Smeše
+- smjesa
+- směs
+- têkil
+- Umxube
+- zmes
+- změšk
+- μίγμα
+- Аралашма
+- катнашма
+- омехта
+- Смес
+- смеса
+- смесь
+- смеша
+- Смеше
+- суміш
+- сумесь
+- Хутăш
+- Қоспа
+- խառնուրդ
+- תערובת
+- آمیزہ
+- اۆڑٕرن
+- مخلوط
+- مزيج
+- ملاوٽ
+- मिश्रण
+- মিশ্র পদার্থ
+- মিশ্ৰণ
+- ਰਲਾਵਟ
+- ମିଶ୍ରଣ
+- கலவை (வேதியியல்)
+- ಮಿಶ್ರಣ
+- മിശ്രിതം
+- เนื้อสาร
+- ქიმიური ნაერთები
+- 混合物
+- 混雜物
+- 혼합물
 has_id_wikidata: Q169336
 Commons_category: Chemical mixtures
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
+- '[[_Standards/WikiData/WD~pure_substance,578779]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Einteilung%20der%20Stoffe.svg
 instance_of:
-  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
-opposite_of: "[[_Standards/WikiData/WD~pure_substance,578779]]"
+- '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+opposite_of: '[[_Standards/WikiData/WD~pure_substance,578779]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture|Mixture]]"
-    - "[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]"
+  - '[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]'
+  - '[[/_Standards/Chemistry/Substance/Mixture|Mixture]]'
+  - '[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]'
+  - '[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]'
+  - '[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]'
+  - '[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]'
+  - '[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]'
+  - '[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture|Mixture]]"
-  - "[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]"
+- '[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]'
+- '[[/_Standards/Chemistry/Substance/Mixture|Mixture]]'
+- '[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]'
+- '[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]'
+- '[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]'
+- '[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]'
+- '[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]'
+- '[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]'
+dv_has_:
+  name_:
+    af: Mengsel
+    an: Mezcla
+    ar: مزيج
+    as: মিশ্ৰণ
+    ast: amiestu
+    az: Məhlulun qatılığının ifadə üsulları
+    be: сумесь
+    be-tarask: сумесь
+    bg: Смес
+    bn: মিশ্র পদার্থ
+    bs: smjesa
+    ca: mescla
+    cs: směs
+    cv: Хутăш
+    cy: cymysgedd
+    da: kemisk blanding
+    de: Gemisch
+    el: μίγμα
+    en: mixture
+    en-gb: mixture
+    eo: miksaĵo
+    es: mezcla
+    et: segu
+    eu: nahaste
+    fa: مخلوط
+    fi: seos
+    fr: mélange
+    ga: meascán
+    gl: mestura
+    gn: Jehe'a
+    he: תערובת
+    hi: मिश्रण
+    hr: smjesa
+    hsb: změšk
+    ht: Melanj etewojèn
+    hu: keverék
+    hy: խառնուրդ
+    id: campuran
+    io: mixuro
+    is: efnablanda
+    it: miscela
+    ja: 混合物
+    ka: ქიმიური ნაერთები
+    kaa: aralaspa
+    kab: Arway
+    kk: Қоспа
+    kn: ಮಿಶ್ರಣ
+    ko: 혼합물
+    ks: اۆڑٕرن
+    ku-latn: têkil
+    kw: kemyskans
+    ky: Аралашма
+    la: mixtura
+    lb: Gemësch
+    lmo: Mes'ciada (chimica)
+    ln: Sangísa
+    lt: mišinys
+    lv: maisījums
+    lzh: 混雜物
+    mk: смеса
+    ml: മിശ്രിതം
+    ms: campuran
+    nb: blanding
+    ne: मिश्रण
+    nl: mengsel
+    nn: blanding
+    om: Makaa
+    or: ମିଶ୍ରଣ
+    pa: ਰਲਾਵਟ
+    pl: mieszanina
+    pnb: آمیزہ
+    pt: mistura
+    pt-br: mistura
+    qu: Chaqrusqa
+    ro: amestec
+    ru: смесь
+    scn: miscela
+    sco: mixtur
+    sd: ملاوٽ
+    sh: Smeša
+    sk: zmes
+    sl: zmes
+    sq: Përzierja
+    sr: смеша
+    sr-ec: Смеше
+    sr-el: Smeše
+    sv: blandning
+    ta: கலவை (வேதியியல்)
+    tg: омехта
+    th: เนื้อสาร
+    tl: Halo
+    tr: karışım
+    tt: катнашма
+    tt-cyrl: катнашма
+    uk: суміш
+    ur: آمیزہ
+    vec: mistura
+    vi: pha trộn
+    wuu: 混合物
+    xh: Umxube
+    yue: 混合物
+    zh: 混合物
+    zh-cn: 混合物
+    zh-hans: 混合物
+    zh-hant: 混合物
+    zh-hk: 混合物
+    zh-sg: 混合物
+    zh-tw: 混合物
 ---
-
 # [[Mixture]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]] 

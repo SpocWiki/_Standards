@@ -1,9 +1,37 @@
 ---
 aliases:
-  - American_Bell_Telephone_Company
-  - Bell_Telephone_Company
-  - Bell Telephone Company
+- American_Bell_Telephone_Company
+- Bell System
+- Bell Telephone Company
+- Bell_Telephone_Company
+- חברת Bell
+- سامانه بل
+- نظام بيل
+- ベルシステム
+- 美國貝爾公司
+- 貝爾系統
+- 贝尔系统
+- 벨 시스템
 has_id_wikidata: Q4883269
+dv_has_:
+  name_:
+    ar: نظام بيل
+    de: Bell System
+    en: Bell System
+    fa: سامانه بل
+    he: חברת Bell
+    id: Bell System
+    ja: ベルシステム
+    ko: 벨 시스템
+    ms: Bell System
+    nl: Bell System
+    pt: Bell System
+    sl: Bell System
+    sv: Bell System
+    zh: 貝爾系統
+    zh-cn: 贝尔系统
+    zh-hans: 贝尔系统
+    zh-hant: 美國貝爾公司
 ---
 # [[Bell_Telephone_Company]] 
 

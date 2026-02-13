@@ -1,39 +1,115 @@
 ---
 aliases:
-  - Orgel
-  - Pipe_Organ
-  - Pipe Organ
+- Draaiorrel
+- Hõrril
+- ilo kalama kon pi tomo sewi
+- Kinanda cha filimbi
+- Oargel
+- orel
+- org
+- organ
+- organ bib
+- Organ paip
+- Organ pipa
+- organe piob
+- organo
+- Organo (instrumento musical)
+- organo a canne
+- Organum
+- organy piszczałkowe
+- Orgel
+- orgenfasado
+- Orgeno
+- Orghen
+- Orgle
+- orgni
+- orgona
+- orgue
+- orgulje
+- orgă
+- orqan
+- Orɩgɩ
+- pibeorgel
+- pijporgel
+- Pipe Organ
+- pipeorgel
+- Pipe_Organ
+- Puywanku
+- píborgán
+- Pípuorgel
+- píšťalové varhany
+- pūkeru paipa
+- Uergel
+- urut
+- vargonai
+- Òrgan
+- Òrgano
+- Òrganë
+- Òrgue
+- órgano
+- órgano de tubos
+- órganu
+- órgão
+- ôrga
+- Örgel
+- đại phong cầm
+- ērģeles
+- εκκλησιαστικό όργανο
+- арган
+- орган
+- органы
+- оргуље
+- оргули
+- трубный орган
+- тръбен орган
+- երգեհոն
+- עוגב
+- أرغن ذو أنابيب
+- ئۆرگنی بۆری
+- ارگ
+- اورج بأنابيب
+- اورگ وا
+- نے دار ارغوان
+- অর্গান
+- ഓർഗൻ
+- ออร์แกน
+- ပြွန်အော်ဂင်
+- ორგანი
+- パイプ・オルガン
+- 管風琴
+- 管风琴
+- 파이프 오르간
 has_id_wikidata: Q281460
 has_part_s_:
-  - '[[_Standards/WikiData/WD~organ_console,392573]]'
-  - '[[_Standards/WikiData/WD~swell,1415737]]'
-  - '[[_Standards/WikiData/WD~organ_stop,1446290]]'
-  - '[[_Standards/WikiData/WD~organ_pipe,1510738]]'
-  - '[[_Standards/WikiData/WD~pedal_keyboard,1758965]]'
-  - '[[_Standards/WikiData/WD~organ_case,2927648]]'
-  - '[[_Standards/WikiData/WD~organ_manual,2978691]]'
+- '[[_Standards/WikiData/WD~organ_console,392573]]'
+- '[[_Standards/WikiData/WD~swell,1415737]]'
+- '[[_Standards/WikiData/WD~organ_stop,1446290]]'
+- '[[_Standards/WikiData/WD~organ_pipe,1510738]]'
+- '[[_Standards/WikiData/WD~pedal_keyboard,1758965]]'
+- '[[_Standards/WikiData/WD~organ_case,2927648]]'
+- '[[_Standards/WikiData/WD~organ_manual,2978691]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 practiced_by:
-  - '[[_Standards/WikiData/WD~organist,765778]]'
-  - '[[_Standards/WikiData/WD~bellows_pumper,1361693]]'
-  - '[[_Standards/WikiData/WD~registrant,2138592]]'
+- '[[_Standards/WikiData/WD~organist,765778]]'
+- '[[_Standards/WikiData/WD~bellows_pumper,1361693]]'
+- '[[_Standards/WikiData/WD~registrant,2138592]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]'
-  - '[[_Standards/WikiData/WD~sets_of_open_flutes_with_internal_duct_without_fingerholes,55738684]]'
-  - '[[_Standards/WikiData/WD~sets_of_oboes_with_conical_bore,55738864]]'
-  - '[[_Standards/WikiData/WD~organ,1444]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~wind_instrument_with_keyboard,11712894]]'
+- '[[_Standards/WikiData/WD~sets_of_open_flutes_with_internal_duct_without_fingerholes,55738684]]'
+- '[[_Standards/WikiData/WD~sets_of_oboes_with_conical_bore,55738864]]'
+- '[[_Standards/WikiData/WD~organ,1444]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Orgue,3356205]]'
-  - '[[_Standards/WikiData/WD~Orghen,12554913]]'
-  - '[[_Standards/WikiData/WD~Órgano,126391433]]'
+- '[[_Standards/WikiData/WD~Orgue,3356205]]'
+- '[[_Standards/WikiData/WD~Orghen,12554913]]'
+- '[[_Standards/WikiData/WD~Órgano,126391433]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_organ,14337230]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10715
@@ -44,8 +120,109 @@ Hornbostel_Sachs_classification: 421.222.11+421.222.3+412.1
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ORGAN.html
 Commons_gallery: Pipe organ
 Commons_category: Pipe organs
+dv_has_:
+  name_:
+    af: Draaiorrel
+    an: Organo
+    ar: أرغن ذو أنابيب
+    arz: اورج بأنابيب
+    ast: órganu
+    az: orqan
+    be: арган
+    be-tarask: арган
+    bg: тръбен орган
+    bn: অর্গান
+    bs: Orgulje
+    ca: orgue
+    ckb: ئۆرگنی بۆری
+    cs: píšťalové varhany
+    csb: Òrganë
+    cy: organ bib
+    da: pibeorgel
+    de: Orgel
+    el: εκκλησιαστικό όργανο
+    en: pipe organ
+    eo: orgenfasado
+    es: órgano de tubos
+    et: orel
+    eu: organo
+    fa: ارگ
+    fi: urut
+    fr: orgue
+    frp: ôrga
+    ga: píborgán
+    gd: Òrgan
+    gl: órgano
+    gsw: Orgle
+    gv: organe piob
+    he: עוגב
+    hr: orgulje
+    hu: orgona
+    hy: երգեհոն
+    hyw: երգեհոն
+    ia: Organo (instrumento musical)
+    id: Organ pipa
+    io: Orgeno
+    is: Pípuorgel
+    it: organo a canne
+    ja: パイプ・オルガン
+    ka: ორგანი
+    kbp: Orɩgɩ
+    kk: Орган
+    ko: 파이프 오르간
+    ky: Орган
+    la: Organum
+    lb: Uergel
+    lmo: Orghen
+    lt: vargonai
+    lv: ērģeles
+    mg: Ôrga
+    mi: pūkeru paipa
+    mk: оргули
+    ml: ഓർഗൻ
+    ms: Organ paip
+    mt: orgni
+    my: ပြွန်အော်ဂင်
+    mzn: اورگ وا
+    nb: pipeorgel
+    nds: Orgel
+    nds-nl: Örgel
+    nl: pijporgel
+    nn: pipeorgel
+    oc: Òrgue
+    os: орган
+    pl: organy piszczałkowe
+    pt: órgão
+    qu: Puywanku
+    ro: orgă
+    ru: трубный орган
+    rue: органы
+    sh: Orgulje
+    sk: organ
+    sl: orgle
+    sq: Organo
+    sr: оргуље
+    stq: Oargel
+    sv: orgel
+    sw: Kinanda cha filimbi
+    th: ออร์แกน
+    tl: organo
+    tok: ilo kalama kon pi tomo sewi
+    tr: org
+    tt: орган
+    uk: орган
+    ur: نے دار ارغوان
+    uz: Organ
+    vec: Òrgano
+    vi: đại phong cầm
+    vro: Hõrril
+    war: Organo
+    wuu: 管风琴
+    yue: 管風琴
+    zh: 管风琴
+    zh-hant: 管風琴
+    zh-tw: 管風琴
 ---
-
 # [[Pipe_Organ]] 
 
 #is_/same_as :: [[WD~Pipe_organ,281460]] 

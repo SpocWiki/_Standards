@@ -1,17 +1,137 @@
 ---
 aliases:
+- ama jainkosa
+- ana tanrıça
+- Andriamanibavy Reny
+- Bogini Matka
+- Boginja majka
+- boginja mati
+- Bohyně Matka
+- Bòżëna Nënka
+- Dea materna
+- deessa mare
+- Deivė Motina
+- deusa mãe
+- Deusa nai
+- Dewi Ibu
+- diosa madre
+- déesse mère
+- Emajumalanna
+- Grande Madre
+- Lielā pirmmāte
+- Memmegoadinne
+- modergodinne
+- Modergudinde
+- modergudinna
+- modergudinne
+- moedergodin
+- mother goddess
+- Muadageddin
+- Muttergöttin
+- Mẫu thần
+- patrina diino
+- Pământ
+- äitijumalatar
+- İlahə ana
+- ősanya
+- Μεγάλη Μητέρα
+- Богиња мајка
+- Богиня - мати
+- Богиня майка
+- Богиня-мать
+- божица мајка
+- маці-багавіца
+- մայր աստվածուհի
+- האלה האם
+- الإلهة الأم
+- الهه مادر
+- دیوی ماں
+- देवी माता
+- মাতৃদেবী
+- মাতৃদেৱী
+- ਮਾਂ ਦੇਵੀ
+- దేవమాత
+- അമ്മ ദൈവം
+- დედაღვთაება
+- 地母神
+- 대지모
 has_id_wikidata: Q334486
-subclass_of: "[[_Standards/WikiData/WD~goddess,205985]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-different_from: "[[_Standards/WikiData/WD~Terre_Mère,59537955]]"
-opposite_of: "[[_Standards/WikiData/WD~father_god,115210812]]"
+subclass_of: '[[_Standards/WikiData/WD~goddess,205985]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+different_from: '[[_Standards/WikiData/WD~Terre_Mère,59537955]]'
+opposite_of: '[[_Standards/WikiData/WD~father_god,115210812]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Seated%20Woman%20of%20%C3%87atalh%C3%B6y%C3%BCk%20on%20black%20background.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cybele%20Bithynia%20Nicaea.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/S344%20durga-idol-golden.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Seated%20Woman%20of%20%C3%87atalh%C3%B6y%C3%BCk%20on%20black%20background.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cybele%20Bithynia%20Nicaea.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/S344%20durga-idol-golden.png
 Commons_category: Mother goddesses
+dv_has_:
+  name_:
+    ar: الإلهة الأم
+    as: মাতৃদেৱী
+    ast: Diosa madre
+    az: İlahə ana
+    bar: Muadageddin
+    be-tarask: маці-багавіца
+    bg: Богиня майка
+    bn: মাতৃদেবী
+    ca: deessa mare
+    cs: Bohyně Matka
+    csb: Bòżëna Nënka
+    da: Modergudinde
+    de: Muttergöttin
+    el: Μεγάλη Μητέρα
+    en: mother goddess
+    eo: patrina diino
+    es: diosa madre
+    et: Emajumalanna
+    eu: ama jainkosa
+    fa: الهه مادر
+    fi: äitijumalatar
+    fr: déesse mère
+    fy: Memmegoadinne
+    gl: Deusa nai
+    he: האלה האם
+    hi: देवी माता
+    hu: ősanya
+    hy: մայր աստվածուհի
+    id: Dewi Ibu
+    it: Grande Madre
+    ja: 地母神
+    ka: დედაღვთაება
+    ko: 대지모
+    la: Dea materna
+    lt: Deivė Motina
+    lv: Lielā pirmmāte
+    mg: Andriamanibavy Reny
+    mk: божица мајка
+    ml: അമ്മ ദൈവം
+    nb: modergudinne
+    nds-nl: modergodinne
+    nl: moedergodin
+    pa: ਮਾਂ ਦੇਵੀ
+    pl: Bogini Matka
+    pt: deusa mãe
+    ro: Pământ
+    ru: Богиня-мать
+    sl: boginja mati
+    sr: Богиња мајка
+    sr-ec: Богиња мајка
+    sr-el: Boginja majka
+    sv: modergudinna
+    te: దేవమాత
+    tr: ana tanrıça
+    uk: Богиня - мати
+    ur: دیوی ماں
+    vi: Mẫu thần
+    zh: 地母神
+    zh-cn: 地母神
+    zh-hans: 地母神
+    zh-hant: 地母神
+    zh-hk: 地母神
+    zh-sg: 地母神
+    zh-tw: 地母神
 ---
-
 # [[Mother_Goddess]] 
 
 #is_/same_as :: [[WD~Mother_goddess,334486]] 

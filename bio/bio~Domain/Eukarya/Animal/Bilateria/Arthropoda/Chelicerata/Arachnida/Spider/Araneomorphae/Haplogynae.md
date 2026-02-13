@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Haplogynae
+- Haplogina
+- Haplogynae
+- Απλόγυνες
+- سادهمادینه
+- هابلوجينى
 title: Haplogynae
 has_id_wikidata: Q136328
+dv_has_:
+  name_:
+    an: Haplogynae
+    arz: هابلوجينى
+    ast: Haplogynae
+    bg: Haplogynae
+    ca: Haplogynae
+    ceb: Haplogynae
+    cs: Haplogynae
+    da: Haplogynae
+    de: Haplogynae
+    el: Απλόγυνες
+    en: Haplogynae
+    eo: Haplogynae
+    es: Haplogina
+    eu: Haplogynae
+    ext: Haplogynae
+    fa: سادهمادینه
+    fi: Haplogynae
+    fr: Haplogynae
+    ga: Haplogynae
+    gl: Haplogynae
+    he: Haplogynae
+    hu: Haplogynae
+    ia: Haplogynae
+    ie: Haplogynae
+    io: Haplogynae
+    it: Haplogynae
+    la: Haplogynae
+    mul: Haplogynae
+    nb: Haplogynae
+    nl: Haplogynae
+    nn: Haplogynae
+    oc: Haplogynae
+    pl: Haplogynae
+    pt: Haplogynae
+    pt-br: Haplogynae
+    ro: Haplogynae
+    ru: Haplogynae
+    sq: Haplogynae
+    sv: Haplogynae
+    uk: Haplogynae
+    vi: Haplogynae
+    vo: Haplogynae
+    war: Haplogynae
 ---
 # [[Haplogynae]] 
 

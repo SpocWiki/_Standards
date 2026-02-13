@@ -1,26 +1,70 @@
 ---
 aliases:
-  - Quark–gluon plasma
-  - quark soup
-  - Quark–Gluon_Plasma
-  - Quark–Gluon Plasma
+- Kuark-gluon plazması
+- kvark-gluon plasma
+- Kvark-gluon plazma
+- Kvark-gluon-plasma
+- Kvark-gluonové plazma
+- Kvark-gluonska plazma
+- Kvark-gluuonplasma
+- kvarka-gluona plasmo
+- Kvarkki-gluoniplasma
+- Kvarkovo-gluónová plazma
+- kvark–gluon-plasma
+- Kwark-gluonplasma
+- plasma cuarc/glúón
+- plasma de cuarks-gluones
+- Plasma de quarks e gluóns
+- Plasma de quarks-gluones
+- Plasma de quarks-gluons
+- plasma de quarks-glúons
+- plasma di quark e gluoni
+- plasma quark-gluon
+- plazma kwarkowo-gluonowa
+- quark soup
+- Quark-gluoizko plasma
+- Quark-Gluon-Plasma
+- quark-gluonplasma
+- Quark–gluon plasma
+- Quark–Gluon_Plasma
+- Кварк-глуонна плазма
+- кварк-глюённая плязма
+- Кварк-глюон плазмасы
+- Кварк-глюонна плазма
+- Кварк-глюонная плазма
+- Кваркла йăмлăх
+- кварково-глуонска плазма
+- פלזמת קווארקים-גלואונים
+- بلازما كوارك-غلوونية
+- قوارک- گلوؤن پلازمہ
+- پلاسمای کوارک گلوئون
+- क्वार्क-ग्लूऑन प्लाज्मा
+- কোয়ার্ক-গ্লুয়ন প্লাজমা
+- କ୍ୱାର୍କ--ଗ୍ଲୁନ୍ ପ୍ଲାଜମା
+- ക്വാർക്ക് ഗ്ലുവോൺ പ്ലാസ്മ
+- พลาสมาควาร์ก–กลูออน
+- クォークグルーオンプラズマ
+- 夸克-胶子等离子体
+- 夸克-膠子等離子體
+- 夸克-膠子電漿
+- 쿼크-글루온 플라즈마
 has_id_wikidata: Q733096
 facet_of:
-  - '[[_Standards/WikiData/WD~hadron,101667]]'
-  - '[[_Standards/WikiData/WD~high_energy_physics,350265]]'
-  - '[[_Standards/WikiData/WD~plasma,10251]]'
-  - '[[_Standards/WikiData/WD~particle_physics,18334]]'
-  - '[[_Standards/WikiData/WD~physical_cosmology,18346]]'
+- '[[_Standards/WikiData/WD~hadron,101667]]'
+- '[[_Standards/WikiData/WD~high_energy_physics,350265]]'
+- '[[_Standards/WikiData/WD~plasma,10251]]'
+- '[[_Standards/WikiData/WD~particle_physics,18334]]'
+- '[[_Standards/WikiData/WD~physical_cosmology,18346]]'
 theorized_by:
-  - '[[_Standards/WikiData/WD~Johann_Rafelski,119499]]'
-  - '[[_Standards/WikiData/WD~Berndt_Mueller,824499]]'
-  - '[[_Standards/WikiData/WD~Edward_V._Shuryak,1290436]]'
-  - '[[_Standards/WikiData/WD~Helmut_Satz,1604106]]'
+- '[[_Standards/WikiData/WD~Johann_Rafelski,119499]]'
+- '[[_Standards/WikiData/WD~Berndt_Mueller,824499]]'
+- '[[_Standards/WikiData/WD~Edward_V._Shuryak,1290436]]'
+- '[[_Standards/WikiData/WD~Helmut_Satz,1604106]]'
 has_characteristic: '[[_Standards/WikiData/WD~color_confinement,505724]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
-  - '[[_Standards/WikiData/WD~gluon,3299]]'
-  - '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~antiquark,2052084]]'
+- '[[_Standards/WikiData/WD~gluon,3299]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
 subclass_of: '[[_Standards/WikiData/WD~QCD_matter,2755153]]'
 instance_of: '[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]'
 follows: '[[_Standards/WikiData/WD~glasma,17141153]]'
@@ -30,18 +74,72 @@ research_site: '[[_Standards/WikiData/WD~CERN,42944]]'
 location_of_discovery: '[[_Standards/WikiData/WD~CERN,42944]]'
 time_of_discovery_or_invention: 2000-02-10T00:00:00Z
 short_name:
-  - QGP
-  - КГП
+- QGP
+- КГП
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lead-Ion%20Collision%20at%20NA49-CERN.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quark-gluon-plasma.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lead-Ion%20Collision%20at%20NA49-CERN.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quark-gluon-plasma.jpg
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PhasDiagQGP.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/QCDphasediagramm%20de.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/PhasDiagQGP.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/QCDphasediagramm%20de.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quark-gluon-plasma
 Commons_category: Quark-gluon plasma
+dv_has_:
+  name_:
+    af: Kwark-gluonplasma
+    ar: بلازما كوارك-غلوونية
+    ast: Plasma de quarks-gluones
+    be: Кварк-глюонная плазма
+    be-tarask: кварк-глюённая плязма
+    bg: Кварк-глуонна плазма
+    bn: কোয়ার্ক-গ্লুয়ন প্লাজমা
+    ca: Plasma de quarks-gluons
+    cs: Kvark-gluonové plazma
+    cv: Кваркла йăмлăх
+    de: Quark-Gluon-Plasma
+    en: quark–gluon plasma
+    eo: kvarka-gluona plasmo
+    es: plasma de cuarks-gluones
+    et: Kvark-gluuonplasma
+    eu: Quark-gluoizko plasma
+    fa: پلاسمای کوارک گلوئون
+    fi: Kvarkki-gluoniplasma
+    fr: plasma quark-gluon
+    ga: plasma cuarc/glúón
+    gl: Plasma de quarks e gluóns
+    he: פלזמת קווארקים-גלואונים
+    hi: क्वार्क-ग्लूऑन प्लाज्मा
+    hu: Kvark-gluon plazma
+    it: plasma di quark e gluoni
+    ja: クォークグルーオンプラズマ
+    ko: 쿼크-글루온 플라즈마
+    mk: кварково-глуонска плазма
+    ml: ക്വാർക്ക് ഗ്ലുവോൺ പ്ലാസ്മ
+    nb: Kvark-gluon-plasma
+    nl: quark-gluonplasma
+    nn: kvark–gluon-plasma
+    or: କ୍ୱାର୍କ--ଗ୍ଲୁନ୍ ପ୍ଲାଜମା
+    pl: plazma kwarkowo-gluonowa
+    pt: plasma de quarks-glúons
+    ro: Plasma quark-gluon
+    ru: кварк-глюонная плазма
+    scn: plasma di quark e gluoni
+    sh: Kvark-gluonska plazma
+    sk: Kvarkovo-gluónová plazma
+    sl: kvark-gluonska plazma
+    sr: Kvark-gluonska plazma
+    sv: kvark-gluon plasma
+    th: พลาสมาควาร์ก–กลูออน
+    tr: Kuark-gluon plazması
+    tt: Кварк-глюон плазмасы
+    uk: Кварк-глюонна плазма
+    ur: قوارک- گلوؤن پلازمہ
+    zh: 夸克-膠子電漿
+    zh-hans: 夸克-胶子等离子体
+    zh-hant: 夸克-膠子電漿
+    zh-hk: 夸克-膠子等離子體
+    zh-tw: 夸克-膠子電漿
 ---
-
 # [[Quark–Gluon_Plasma]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Quark–gluon_plasma,733096|WD~Quark–gluon_plasma,733096]]  

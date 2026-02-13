@@ -1,33 +1,110 @@
 ---
 aliases:
+- Den Neandertal
+- Djin del Vå d' Neyander
+- Dyn Neanderthal
+- home de Neandertal
+- Home de Neanderthal
+- Homem-de-neandertal
+- Homme de Néandertal
+- Homo neanderthalensis
+- Lehilaly Neanderthal
+- Manush le Neanderthales
+- Neanderdaaler
+- Neanderdaler
+- Neanderdaller
+- Neanderdalsmaður
+- Neandertal
+- Neandertal'
+- Neandertala homo
+- Neandertalac
+- neandertalar
+- neandertalczyk
+- neandertalec
+- Neandertaler
+- neandertalere
+- Neandertalietis
+- Neandertalin ristit
+- neandertalinihminen
+- neandertallane
+- Neandertallar
+- neandertalmänniska
+- Neanderthal
+- Neanderthaler
+- Neanderthalgo gizaki
+- neandertálec
+- neandertālietis
+- neandervölgyi ember
+- Người Neanderthal
+- Njeriu i Neandertalit
+- Néandartálach
+- soweli Nejanteta
+- Òme de Neandertal
+- Človek neandertálsky
+- Νεάντερταλ
+- Неандерталац
+- Неандерталдықтар
+- неандерталец
+- неандерталець
+- Неандерталь çынни
+- Неандерталь адамдары
+- неандэрталец
+- Палеоантроп
+- նեանդերթալյան մարդ
+- האדם הניאנדרטלי
+- نئاندرتال
+- نيئندرتال ماٿري
+- نياندرتال
+- نيانډرټال
+- نیاندرتھال
+- نیاندەرتاڵ
+- نینڈرتهال
+- هومو نيانديرطالينسيس
+- निअँडरथाल
+- निअंडरथल मानव
+- नियान्दरथल
+- নিয়ানডার্থাল
+- ਨਿਐਂਡਰਥਲ ਮਨੁੱਖ
+- நியண்டர்தால் மனிதன்
+- నియాండర్తల్
+- നിയാന്തർത്താൽ മനുഷ്യൻ
+- නියැන්ඩර්තාල්
+- นีแอนเดอร์ทาล
+- ນີແອນເດີທອນ
+- နဏ္ဍသဲ
+- ნეანდერტალელი
+- ネアンデルタール人
+- 尼安德塔人
+- 尼安德特人
+- 네안데르탈인
 has_id_wikidata: Q40171
-named_after: "[[_Standards/WikiData/WD~Neandertal,170081]]"
-subclass_of: "[[_Standards/WikiData/WD~archaic_humans,284851]]"
+named_after: '[[_Standards/WikiData/WD~Neandertal,170081]]'
+subclass_of: '[[_Standards/WikiData/WD~archaic_humans,284851]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Neanderthal_1,821603]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Neanderthal_map,105542426]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Neanderthal_1,821603]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neanderthal_map,105542426]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 start_time: -248050-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis%20%28Fundort%20Gibraltar%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20neanderthalensis%2C%20The%20Natural%20History%20Museum%20Vienna%2C%2020210730%201225%201278.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis-J%C3%A4ger.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis-Mr.%20N.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis%20%28Fundort%20Gibraltar%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20neanderthalensis%2C%20The%20Natural%20History%20Museum%20Vienna%2C%2020210730%201225%201278.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis-J%C3%A4ger.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis-Mr.%20N.jpg
 taxon_common_name:
-  - Neandertaler
-  - Neanderthal
-  - Néanderthalien
-  - Neanderthaler
-  - neanderthaler
-  - neandertalec
+- Neandertaler
+- Neanderthal
+- Néanderthalien
+- Neanderthaler
+- neanderthaler
+- neandertalec
 end_time: -38050-01-01T00:00:00Z
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20of%20Homo%20neanderthalensis.png
 MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.550
@@ -35,8 +112,127 @@ UMLS_CUI: C3178755
 Commons_category: Homo neanderthalensis
 taxon_name: Homo neanderthalensis
 short_name: H. neanderthalensis
+dv_has_:
+  name_:
+    af: Neanderdaller
+    ar: نياندرتال
+    ary: هومو نيانديرطالينسيس
+    ast: Homo neanderthalensis
+    az: Neandertal
+    azb: نئاندرتال
+    ban: Neanderthal
+    bar: Neandertaler
+    bcl: Neandertal
+    be: неандэрталец
+    be-tarask: неандэрталец
+    bg: неандерталец
+    bn: নিয়ানডার্থাল
+    br: Den Neandertal
+    bs: Neandertalac
+    ca: home de Neandertal
+    ceb: Homo neanderthalensis
+    ckb: نیاندەرتاڵ
+    cs: neandertálec
+    cv: Неандерталь çынни
+    cy: Dyn Neanderthal
+    da: Neandertaler
+    de: Neandertaler
+    diq: Neandertal
+    el: Νεάντερταλ
+    en: Neanderthal
+    eo: Neandertala homo
+    es: Homo neanderthalensis
+    et: neandertallane
+    eu: Neanderthalgo gizaki
+    fa: نئاندرتال
+    fi: neandertalinihminen
+    fr: Homme de Néandertal
+    fy: Neandertaler
+    ga: Néandartálach
+    gl: Home de Neanderthal
+    gsw: Neanderdaaler
+    he: האדם הניאנדרטלי
+    hi: निअंडरथल मानव
+    hr: Neandertalac
+    hu: neandervölgyi ember
+    hy: նեանդերթալյան մարդ
+    ia: Homo neanderthalensis
+    id: Neanderthal
+    io: Homo neanderthalensis
+    is: Neanderdalsmaður
+    it: Homo neanderthalensis
+    ja: ネアンデルタール人
+    jv: Neanderthal
+    ka: ნეანდერტალელი
+    kaa: neandertallar
+    kk: Неандерталдықтар
+    ko: 네안데르탈인
+    ku: Neandertal
+    ky: Неандерталь адамдары
+    la: Homo neanderthalensis
+    lb: Neandertaler
+    lfn: Neandertal
+    li: Neanderthaler
+    lo: ນີແອນເດີທອນ
+    lt: Neandertalietis
+    lv: neandertālietis
+    mg: Lehilaly Neanderthal
+    mk: Неандерталец
+    ml: നിയാന്തർത്താൽ മനുഷ്യൻ
+    mr: निअँडरथाल
+    ms: Neanderthal
+    mul: Homo neanderthalensis
+    my: နဏ္ဍသဲ
+    nb: neandertalere
+    nds: Neanderdaler
+    nds-nl: neanderthaler
+    new: नियान्दरथल
+    nl: neanderthaler
+    nn: neandertalar
+    oc: Òme de Neandertal
+    pa: ਨਿਐਂਡਰਥਲ ਮਨੁੱਖ
+    pl: neandertalczyk
+    pnb: نیاندرتھال
+    ps: نيانډرټال
+    pt: Homem-de-neandertal
+    rmy: Manush le Neanderthales
+    ro: Homo neanderthalensis
+    ru: неандерталец
+    rup: Homo neanderthalensis
+    sah: Палеоантроп
+    scn: Homo neanderthalensis
+    sco: Neanderthal
+    sd: نيئندرتال ماٿري
+    sh: Neandertalac
+    si: නියැන්ඩර්තාල්
+    sk: Človek neandertálsky
+    sl: neandertalec
+    sq: Njeriu i Neandertalit
+    sr: Неандерталац
+    sv: neandertalmänniska
+    sw: Homo neanderthalensis
+    ta: நியண்டர்தால் மனிதன்
+    te: నియాండర్తల్
+    th: นีแอนเดอร์ทาล
+    tl: Neandertal
+    tok: soweli Nejanteta
+    tr: Neandertal
+    tt: Neandertal'
+    uk: неандерталець
+    ur: نینڈرتهال
+    uz: Neandertallar
+    vep: Neandertalin ristit
+    vi: Người Neanderthal
+    wa: Djin del Vå d' Neyander
+    war: Neandertal
+    wuu: 尼安德特人
+    yo: Neanderthal
+    yue: 尼安德特人
+    zh: 尼安德特人
+    zh-cn: 尼安德特人
+    zh-hant: 尼安德塔人
+    zh-tw: 尼安德塔人
 ---
-
 # [[Neanderthal]] 
 
 #has_/time_/stopped  :: -40000-06 

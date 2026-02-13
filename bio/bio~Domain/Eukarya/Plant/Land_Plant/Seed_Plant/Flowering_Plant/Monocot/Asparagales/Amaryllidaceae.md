@@ -1,8 +1,155 @@
 ---
 has_id_wikidata: Q155848
+dv_has_:
+  name_:
+    af: Amaryllidaceae
+    an: Amaryllidaceae
+    ar: الفصيلة النرجسية
+    arz: الفصيلة النرجسيه
+    ast: Amaryllidaceae
+    az: Amarilliskimilər
+    be: Амарылісавыя
+    be-tarask: амарылісавыя
+    bg: кокичеви
+    bs: Amaryllidaceae
+    ca: amaril·lidàcies
+    ceb: Amaryllidaceae
+    co: Amaryllidaceae
+    cs: amarylkovité
+    cv: Амариллис йышшисем
+    da: påskelilje-familien
+    de: Amaryllisgewächse
+    el: αμαρυλλιδοειδή
+    en: Amaryllidaceae
+    eo: Amarilidacoj
+    es: amarilidáceas
+    et: Amarüllilised
+    eu: Amaryllidaceae
+    ext: Amaryllidaceae
+    fa: نرگسیان
+    fi: narsissikasvit
+    fr: Amaryllidaceae
+    frr: Amaryllisplaanten
+    ga: Amaryllidaceae
+    gl: Amaryllidaceae
+    he: נרקיסיים
+    hi: सुदर्शन कुल
+    hr: Zvanikovke
+    hsb: Amarylisowe rostliny
+    hu: amarilliszfélék
+    hy: շքանարգիզազգիներ
+    ia: Amaryllidaceae
+    id: Amaryllidaceae
+    ie: Amaryllidaceae
+    io: Amaryllidaceae
+    it: Amaryllidaceae
+    ja: ヒガンバナ科
+    ka: ამარილისისებრნი
+    kk: Амариллистер тұқымдасы
+    kk-arab: امارىيللىيستەر تۇقىمداسى
+    kk-cn: امارىيللىيستەر تۇقىمداسى
+    kk-cyrl: Амариллистер тұқымдасы
+    kk-kz: Амариллистер тұқымдасы
+    kk-latn: Amarïllïster tuqımdası
+    kk-tr: Amarïllïster tuqımdası
+    kn: ಅಗೇವಿ
+    ko: 수선화과
+    la: Amaryllidaceae
+    lij: Amaryllidaceae
+    lt: Amariliniai
+    lv: Amariļļu dzimta
+    mk: кокичиња
+    ml: അമരില്ലിഡേസി
+    mul: Amaryllidaceae
+    nb: påskeliljefamilien
+    nl: narcisfamilie
+    nn: påskeliljefamilien
+    oc: Amaryllidaceae
+    os: Амариллисонтæ
+    pl: amarylkowate
+    pnb: نرگس ٹبر
+    pt: Amaryllidaceae
+    pt-br: Amaryllidaceae
+    qu: Hamanq'ay yura rikch'aq ayllu
+    ro: Amaryllidaceae
+    ru: амариллисовые
+    sco: Amaryllidaceae
+    sh: Amaryllidaceae
+    sk: Amarylkovité
+    sl: narcisovke
+    sq: Amaryllidaceae
+    sr: Amaryllidaceae
+    sv: Amaryllisväxter
+    ta: அமாரில்லிடேசி
+    th: วงศ์พลับพลึง
+    tr: Nergisgiller
+    uk: амарилісові
+    vi: Họ Loa kèn đỏ
+    vls: Poaslelieachtign
+    vo: Amaryllidaceae
+    war: Amaryllidaceae
+    wuu: 石蒜科
+    yue: 石蒜科
+    zh: 石蒜科
+    zh-cn: 石蒜科
+    zh-hans: 石蒜科
+    zh-hant: 石蒜科
+    zh-hk: 石蒜科
+    zh-sg: 石蒜科
+    zh-tw: 石蒜科
+aliases:
+- Amarilidacoj
+- amarilidáceas
+- Amariliniai
+- Amarilliskimilər
+- amarilliszfélék
+- amaril·lidàcies
+- Amariļļu dzimta
+- Amarylisowe rostliny
+- amarylkovité
+- amarylkowate
+- Amaryllidaceae
+- Amaryllisgewächse
+- Amaryllisplaanten
+- Amaryllisväxter
+- Amarïllïster tuqımdası
+- Amarüllilised
+- Hamanq'ay yura rikch'aq ayllu
+- Họ Loa kèn đỏ
+- narcisfamilie
+- narcisovke
+- narsissikasvit
+- Nergisgiller
+- Poaslelieachtign
+- påskelilje-familien
+- påskeliljefamilien
+- Zvanikovke
+- αμαρυλλιδοειδή
+- амарилісові
+- Амариллис йышшисем
+- амариллисовые
+- Амариллисонтæ
+- Амариллистер тұқымдасы
+- Амарылісавыя
+- кокичеви
+- кокичиња
+- շքանարգիզազգիներ
+- נרקיסיים
+- الفصيلة النرجسية
+- الفصيلة النرجسيه
+- امارىيللىيستەر تۇقىمداسى
+- نرگس ٹبر
+- نرگسیان
+- सुदर्शन कुल
+- அமாரில்லிடேசி
+- ಅಗೇವಿ
+- അമരില്ലിഡേസി
+- วงศ์พลับพลึง
+- ამარილისისებრნი
+- ヒガンバナ科
+- 石蒜科
+- 수선화과
 ---
-
-
 # [[Amaryllidaceae]] 
 
 #is_/same_as :: [[wd~Amaryllidaceae,]]

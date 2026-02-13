@@ -1,9 +1,156 @@
 ---
 aliases:
-  - Bryce Dallas Howard
-  - Howard,Bryce_Dallas
-  - Howard,Bryce Dallas
+- Braisa Dalasa Hauarda
+- Brays Dallas Hovard
+- Bryce Dallas Howard
+- Bryce Dallas Howardová
+- Howard,Bryce Dallas
+- Howard,Bryce_Dallas
+- Μπράις Ντάλας Χάουαρντ
+- Брајс Далас Хауард
+- Брайс Далас Гаўард
+- Брайс Далас Ховард
+- Брайс Даллас Говард
+- Брайс Даллас Ховард
+- Բրայս Դալաս Հովարդ
+- ברייס דאלאס הווארד
+- برائس ڈلاس ہاورڈ
+- برايس دالاس هوارد
+- برایس دالاس هاوارد
+- بڕایس داڵاس ھاوارد
+- ব্রাইস ডালাস হাওয়ার্ড
+- பிரைஸ் டல்லாஸ் ஹோவர்ட்
+- ബ്രൈസ് ഡല്ലാസ് ഹോവാർഡ്
+- ბრაის დალას ჰაუარდი
+- ブライス・ダラス・ハワード
+- 布莱丝·达拉丝·豪沃
+- 布莱斯·达拉斯·霍华德
+- 布萊斯·達拉斯·霍華德
+- 拜絲·黛麗·侯活
+- 브라이스 댈러스 하워드
 has_id_wikidata: Q229775
+dv_has_:
+  name_:
+    af: Bryce Dallas Howard
+    an: Bryce Dallas Howard
+    ar: برايس دالاس هوارد
+    arz: برايس دالاس هوارد
+    ast: Bryce Dallas Howard
+    az: Brays Dallas Hovard
+    azb: برایس دالاس هاوارد
+    bar: Bryce Dallas Howard
+    be: Брайс Далас Ховард
+    be-tarask: Брайс Далас Гаўард
+    bm: Bryce Dallas Howard
+    bn: ব্রাইস ডালাস হাওয়ার্ড
+    br: Bryce Dallas Howard
+    ca: Bryce Dallas Howard
+    ckb: بڕایس داڵاس ھاوارد
+    co: Bryce Dallas Howard
+    cs: Bryce Dallas Howardová
+    cy: Bryce Dallas Howard
+    da: Bryce Dallas Howard
+    de: Bryce Dallas Howard
+    de-at: Bryce Dallas Howard
+    de-ch: Bryce Dallas Howard
+    el: Μπράις Ντάλας Χάουαρντ
+    en: Bryce Dallas Howard
+    en-ca: Bryce Dallas Howard
+    en-gb: Bryce Dallas Howard
+    eo: Bryce Dallas Howard
+    es: Bryce Dallas Howard
+    et: Bryce Dallas Howard
+    eu: Bryce Dallas Howard
+    fa: برایس دالاس هاوارد
+    fi: Bryce Dallas Howard
+    fr: Bryce Dallas Howard
+    frc: Bryce Dallas Howard
+    frp: Bryce Dallas Howard
+    fur: Bryce Dallas Howard
+    ga: Bryce Dallas Howard
+    gd: Bryce Dallas Howard
+    gl: Bryce Dallas Howard
+    gsw: Bryce Dallas Howard
+    he: ברייס דאלאס הווארד
+    hr: Bryce Dallas Howard
+    hu: Bryce Dallas Howard
+    hy: Բրայս Դալաս Հովարդ
+    ia: Bryce Dallas Howard
+    id: Bryce Dallas Howard
+    ie: Bryce Dallas Howard
+    ig: Bryce Dallas Howard
+    io: Bryce Dallas Howard
+    it: Bryce Dallas Howard
+    ja: ブライス・ダラス・ハワード
+    jam: Bryce Dallas Howard
+    ka: ბრაის დალას ჰაუარდი
+    kab: Bryce Dallas Howard
+    kg: Bryce Dallas Howard
+    ko: 브라이스 댈러스 하워드
+    lb: Bryce Dallas Howard
+    li: Bryce Dallas Howard
+    lij: Bryce Dallas Howard
+    lt: Bryce Dallas Howard
+    lv: Braisa Dalasa Hauarda
+    mg: Bryce Dallas Howard
+    min: Bryce Dallas Howard
+    ml: ബ്രൈസ് ഡല്ലാസ് ഹോവാർഡ്
+    ms: Bryce Dallas Howard
+    mul: Bryce Dallas Howard
+    nan: Bryce Dallas Howard
+    nap: Bryce Dallas Howard
+    nb: Bryce Dallas Howard
+    nds: Bryce Dallas Howard
+    nds-nl: Bryce Dallas Howard
+    nl: Bryce Dallas Howard
+    nn: Bryce Dallas Howard
+    nrm: Bryce Dallas Howard
+    oc: Bryce Dallas Howard
+    pap: Bryce Dallas Howard
+    pcd: Bryce Dallas Howard
+    pl: Bryce Dallas Howard
+    pms: Bryce Dallas Howard
+    prg: Bryce Dallas Howard
+    pt: Bryce Dallas Howard
+    pt-br: Bryce Dallas Howard
+    rgn: Bryce Dallas Howard
+    rm: Bryce Dallas Howard
+    ro: Bryce Dallas Howard
+    ru: Брайс Даллас Ховард
+    sc: Bryce Dallas Howard
+    scn: Bryce Dallas Howard
+    sco: Bryce Dallas Howard
+    sh: Bryce Dallas Howard
+    sk: Bryce Dallas Howard
+    skr: برائس ڈلاس ہاورڈ
+    sl: Bryce Dallas Howard
+    sq: Bryce Dallas Howard
+    sr: Брајс Далас Хауард
+    sr-el: Bryce Dallas Howard
+    sv: Bryce Dallas Howard
+    sw: Bryce Dallas Howard
+    ta: பிரைஸ் டல்லாஸ் ஹோவர்ட்
+    tr: Bryce Dallas Howard
+    uk: Брайс Даллас Говард
+    ur: برائس ڈلاس ہاورڈ
+    uz: Bryce Dallas Howard
+    vec: Bryce Dallas Howard
+    vi: Bryce Dallas Howard
+    vls: Bryce Dallas Howard
+    vmf: Bryce Dallas Howard
+    vo: Bryce Dallas Howard
+    wa: Bryce Dallas Howard
+    wo: Bryce Dallas Howard
+    wuu: 布莱斯·达拉斯·霍华德
+    yo: Bryce Dallas Howard
+    zh: 布莱斯·达拉斯·霍华德
+    zh-cn: 布莱斯·达拉斯·霍华德
+    zh-hans: 布莱斯·达拉斯·霍华德
+    zh-hant: 布萊斯·達拉斯·霍華德
+    zh-hk: 拜絲·黛麗·侯活
+    zh-sg: 布莱丝·达拉丝·豪沃
+    zh-tw: 布萊斯·達拉斯·霍華德
+    zu: Bryce Dallas Howard
 ---
 #has_/parent :: [[../../Movie-Directors/Howard,Ron|Howard,Ron]] 
 #has_/time_/started :: 1981-03-02 

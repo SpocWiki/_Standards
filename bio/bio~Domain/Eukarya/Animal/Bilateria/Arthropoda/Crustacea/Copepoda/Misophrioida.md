@@ -1,8 +1,53 @@
 ---
 aliases:
-  - Misophrioida
+- Misophrioida
+- ミソフリア目
+- 小虱水蚤目
+- 小蚤目
+- 異水蚤目
 title: Misophrioida
 has_id_wikidata: Q2261023
+dv_has_:
+  name_:
+    an: Misophrioida
+    ast: Misophrioida
+    bg: Misophrioida
+    ca: Misophrioida
+    ceb: Misophrioida
+    de: Misophrioida
+    en: Misophrioida
+    eo: Misophrioida
+    es: Misophrioida
+    eu: Misophrioida
+    ext: Misophrioida
+    fi: Misophrioida
+    fr: Misophrioida
+    ga: Misophrioida
+    gl: Misophrioida
+    ia: Misophrioida
+    ie: Misophrioida
+    io: Misophrioida
+    it: Misophrioida
+    ja: ミソフリア目
+    la: Misophrioida
+    mul: Misophrioida
+    nl: Misophrioida
+    oc: Misophrioida
+    pl: Misophrioida
+    pt: Misophrioida
+    pt-br: Misophrioida
+    ro: Misophrioida
+    ru: Misophrioida
+    sq: Misophrioida
+    tr: Misophrioida
+    uk: Misophrioida
+    vi: Misophrioida
+    vo: Misophrioida
+    war: Misophrioida
+    zh: 異水蚤目
+    zh-cn: 小虱水蚤目
+    zh-hans: 小蚤目
+    zh-tw: 異水蚤目
 ---
 # [[Misophrioida]] 
 

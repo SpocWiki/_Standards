@@ -1,71 +1,109 @@
 ---
 aliases:
-  - Thomas Hobbes
-  - Thomas_Hobbes
-  - Hobbes,Thomas
+- Gobbs Tomas
+- Hobbes,Thomas
+- Thomas Hobbes
+- Thomas Hobbesius
+- Thomas_Hobbes
+- Thömas Höbbes
+- Tomas Hobbes
+- Tomas Hobbs
+- Tomas hobis
+- Tomass Hobss
+- Τόμας Χομπς
+- Гоббс
+- Гоббс Томас
+- Томас Гоббс
+- Томас Гобс
+- Томас Хобс
+- Томас Ҳобс
+- Томас Һоббс
+- Թոմաս Հոբս
+- תומאס הובס
+- تامس هابز
+- توماس هابز
+- توماس هوبز
+- تۆماس ھۆبز
+- طامس حابز
+- टामस हाब्स
+- टॉमस हॉब्ज
+- টমাস হব্স
+- ਥਾਮਸ ਹੋਬਸ
+- தாமசு ஆபிசு
+- థామస్ హాబ్స్
+- ಥಾಮಸ್ ಹಾಬ್ಸ್
+- തോമസ് ഹോബ്സ്
+- โทมัส ฮอบส์
+- თომას ჰობსი
+- ტომას ჰობზი
+- ቶማስ ሆብስ
+- トマス・ホッブズ
+- 托马斯·霍布斯
+- 湯瑪斯賀布斯
+- 토머스 홉스
 has_id_wikidata: Q37621
 educated_at:
-  - '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
-  - '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+- '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
+- '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~in_home_tutor,656823]]'
-  - '[[_Standards/WikiData/WD~political_scientist,1238570]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~philosopher_of_law,23760244]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~in_home_tutor,656823]]'
+- '[[_Standards/WikiData/WD~political_scientist,1238570]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~philosopher_of_law,23760244]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 movement:
-  - '[[_Standards/WikiData/WD~empiricism,83368]]'
-  - '[[_Standards/WikiData/WD~determinism,131133]]'
-  - '[[_Standards/WikiData/WD~legal_positivism,644971]]'
+- '[[_Standards/WikiData/WD~empiricism,83368]]'
+- '[[_Standards/WikiData/WD~determinism,131133]]'
+- '[[_Standards/WikiData/WD~legal_positivism,644971]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Hugo_Grotius,154959]]'
-  - '[[_Standards/WikiData/WD~Plato,859]]'
-  - '[[_Standards/WikiData/WD~Aristotle,868]]'
-  - '[[_Standards/WikiData/WD~Francis_Bacon,37388]]'
+- '[[_Standards/WikiData/WD~Hugo_Grotius,154959]]'
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Aristotle,868]]'
+- '[[_Standards/WikiData/WD~Francis_Bacon,37388]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Leviathan,193034]]'
-  - '[[_Standards/WikiData/WD~De_Cive,1149540]]'
-  - '[[_Standards/WikiData/WD~De_Corpore,5244329]]'
-  - '[[_Standards/WikiData/WD~De_Homine,129759346]]'
+- '[[_Standards/WikiData/WD~Leviathan,193034]]'
+- '[[_Standards/WikiData/WD~De_Cive,1149540]]'
+- '[[_Standards/WikiData/WD~De_Corpore,5244329]]'
+- '[[_Standards/WikiData/WD~De_Homine,129759346]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 place_of_birth: '[[_Standards/WikiData/WD~Westport,745956]]'
 employer:
-  - '[[_Standards/WikiData/WD~William_Cavendish,_1st_Duke_of_Newcastle,1101373]]'
-  - '[[_Standards/WikiData/WD~William_Cavendish,_3rd_Earl_of_Devonshire,2084968]]'
-  - '[[_Standards/WikiData/WD~Sir_Gervase_Clifton,_1st_Baronet,7526961]]'
+- '[[_Standards/WikiData/WD~William_Cavendish,_1st_Duke_of_Newcastle,1101373]]'
+- '[[_Standards/WikiData/WD~William_Cavendish,_3rd_Earl_of_Devonshire,2084968]]'
+- '[[_Standards/WikiData/WD~Sir_Gervase_Clifton,_1st_Baronet,7526961]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~legal_theory,1331392]]'
-  - '[[_Standards/WikiData/WD~history,309]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~geometry,8087]]'
-  - '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~legal_theory,1331392]]'
+- '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~ethics,9465]]'
 place_of_death: '[[_Standards/WikiData/WD~Hardwick_Hall,2526406]]'
 student: '[[_Standards/WikiData/WD~William_Cavendish,_2nd_Earl_of_Devonshire,2756020]]'
 sponsor: '[[_Standards/WikiData/WD~Charles_Cavendish,2958696]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 given_name: '[[_Standards/WikiData/WD~Thomas,16428906]]'
 place_of_burial: '[[_Standards/WikiData/WD~Church_of_St_John_the_Baptist,_Ault_Hucknall,17530701]]'
 family_name: '[[_Standards/WikiData/WD~Hobbes,37057407]]'
@@ -73,8 +111,8 @@ depicted_by: '[[_Standards/WikiData/WD~Thomas_Hobbes_(1588_1679),_aged_89,522046
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1588-04-05T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Thomas Hobbes
@@ -93,12 +131,134 @@ NLC_authorities: 038002202
 Provenio_UUID: 065a1a55-0b25-4a14-9ed3-253d14dd133c
 Europeana_entity: agent/base/145362
 Regensburg_Classification:
-  - BF 3960
-  - CF 4500
+- BF 3960
+- CF 4500
 Wolfram_Language_entity_code: Entity["Person", "ThomasHobbes::458k4"]
 Krugosvet_article_archived_: istoriya/GOBBS_TOMAS.html
+dv_has_:
+  name_:
+    af: Thomas Hobbes
+    am: ቶማስ ሆብስ
+    an: Thomas Hobbes
+    ar: توماس هوبز
+    arz: توماس هوبز
+    ast: Thomas Hobbes
+    az: Tomas Hobbs
+    ba: Томас Гоббс
+    ban: Thomas Hobbes
+    bar: Thomas Hobbes
+    be: Томас Гобс
+    be-tarask: Томас Гобс
+    bg: Томас Хобс
+    bn: টমাস হব্স
+    br: Thomas Hobbes
+    bs: Thomas Hobbes
+    ca: Thomas Hobbes
+    ckb: تۆماس ھۆبز
+    cs: Thomas Hobbes
+    cv: Томас Гоббс
+    cy: Thomas Hobbes
+    da: Thomas Hobbes
+    de: Thomas Hobbes
+    de-ch: Thomas Hobbes
+    ee: Thomas Hobbes
+    el: Τόμας Χομπς
+    en: Thomas Hobbes
+    en-ca: Thomas Hobbes
+    en-gb: Thomas Hobbes
+    eo: Thomas Hobbes
+    es: Thomas Hobbes
+    et: Thomas Hobbes
+    eu: Thomas Hobbes
+    ext: Thomas Hobbes
+    fa: تامس هابز
+    fi: Thomas Hobbes
+    fr: Thomas Hobbes
+    frr: Thomas Hobbes
+    ga: Thomas Hobbes
+    gl: Thomas Hobbes
+    gom: टॉमस हॉब्ज
+    gor: Thomas Hobbes
+    gsw: Thomas Hobbes
+    he: תומאס הובס
+    hi: टामस हाब्स
+    hr: Thomas Hobbes
+    hu: Thomas Hobbes
+    hy: Թոմաս Հոբս
+    id: Thomas Hobbes
+    io: Thomas Hobbes
+    is: Thomas Hobbes
+    it: Thomas Hobbes
+    ja: トマス・ホッブズ
+    jv: Thomas Hobbes
+    ka: ტომას ჰობზი
+    kab: Thomas Hobbes
+    kk: Гоббс Томас
+    kn: ಥಾಮಸ್ ಹಾಬ್ಸ್
+    ko: 토머스 홉스
+    ku: Thomas Hobbes
+    ky: Гоббс
+    la: Thomas Hobbesius
+    lb: Thomas Hobbes
+    lfn: Thomas Hobbes
+    lt: Thomas Hobbes
+    lv: Tomass Hobss
+    mg: Thomas Hobbes
+    mk: Томас Хобс
+    ml: തോമസ് ഹോബ്സ്
+    ms: Thomas Hobbes
+    mul: Thomas Hobbes
+    mzn: تامس هابز
+    nan: Thomas Hobbes
+    nb: Thomas Hobbes
+    nds: Thömas Höbbes
+    nl: Thomas Hobbes
+    nn: Thomas Hobbes
+    oc: Thomas Hobbes
+    pa: ਥਾਮਸ ਹੋਬਸ
+    pap: Thomas Hobbes
+    pl: Thomas Hobbes
+    pms: Thomas Hobbes
+    ps: توماس هابز
+    pt: Thomas Hobbes
+    pt-br: Thomas Hobbes
+    ro: Thomas Hobbes
+    ru: Томас Гоббс
+    scn: Thomas Hobbes
+    sco: Thomas Hobbes
+    sh: Thomas Hobbes
+    sk: Thomas Hobbes
+    sl: Thomas Hobbes
+    so: Tomas hobis
+    sq: Thomas Hobbes
+    sr: Томас Хобс
+    sr-ec: Томас Хобс
+    su: Thomas Hobbes
+    sv: Thomas Hobbes
+    sw: Thomas Hobbes
+    ta: தாமசு ஆபிசு
+    te: థామస్ హాబ్స్
+    tg: Томас Ҳобс
+    th: โทมัส ฮอบส์
+    tk: Tomas Hobbes
+    tl: Thomas Hobbes
+    tr: Thomas Hobbes
+    tt: Томас Һоббс
+    uk: Томас Гоббс
+    ur: طامس حابز
+    uz: Gobbs Tomas
+    vi: Thomas Hobbes
+    vls: Thomas Hobbes
+    vo: Thomas Hobbes
+    war: Thomas Hobbes
+    wuu: 托马斯·霍布斯
+    xmf: თომას ჰობსი
+    yo: Thomas Hobbes
+    yue: 湯瑪斯賀布斯
+    zh: 托马斯·霍布斯
+    zh-cn: 托马斯·霍布斯
+    zh-hans: 托马斯·霍布斯
 ---
-
 # [[Hobbes,Thomas]] 
 
 #has_/time_/started :: 1588-04-05 

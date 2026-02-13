@@ -1,27 +1,89 @@
 ---
-has_time_started: 1949-01-01 
+has_time_started: 1949-01-01
 aliases:
-  - Emmy Award
-  - Emmys
-  - Emmy
-  - Emmy_Award
+- '"Emmi" mükafatı'
+- Anugerah Emmy
+- Cena Emmy
+- Duais Emmy
+- Emi
+- Emmy
+- Emmy apdovanojimas
+- Emmy Award
+- Emmy Awards
+- Emmy balva
+- Emmy nagrada
+- Emmy sariak
+- Emmy Ödülleri
+- Emmy-díj
+- Emmy-palkinto
+- Emmy-prisen
+- Emmy-verðlaunin
+- Emmys
+- Emmy_Award
+- Gawad Emmy
+- Giải Emmy
+- Gwobr Emmy
+- Nagrada Emmy
+- Nagroda Emmy
+- Penghargaan Emmy
+- Premi Emmy
+- Premio Emmy
+- Premios Emmy
+- Premiul Emmy
+- Xelata Emmy
+- Xelatên Emmy
+- «Эмми» кинопремиясе
+- βραβεία Έμμυ
+- Еми
+- Еммі
+- Эмі
+- Эмми
+- Эмми шагнал
+- Эммӣ
+- Էմմի
+- Էմմի Մրցանակ
+- פרס אמי
+- امی جایزه
+- ایمی اؤدولو
+- ایمی اعزاز
+- ایمی انعام
+- ایمی جایزه
+- جائزة إيمي
+- جايزة ايمى
+- جايزة د الإمي
+- جایزه امی
+- خەڵاتی ئێمی
+- एमी पुरस्कार
+- एम्मी पुरस्कार
+- এমি পুরস্কার
+- ਐਮੀ ਇਨਾਮ
+- எம்மி விருது
+- എമ്മി അവാർഡ്
+- එමී (Emmy) සම්මාන
+- รางวัลเอ็มมี
+- ემი
+- ემიშ ჯილდო
+- エミー賞
+- 艾美奖
+- 艾美獎
+- 에미상
 has_id_wikidata: Q123737
 conferred_by:
-  - '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
+- '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
 creator:
-  - '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
+- '[[_Standards/WikiData/WD~Academy_of_Television_Arts_&_Sciences,427611]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Television_Arts_and_Sciences,2822443]]'
 subclass_of: '[[_Standards/WikiData/WD~television_award,1407225]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~television_award,1407225]]'
-  - '[[_Standards/WikiData/WD~group_of_awards,107655869]]'
+- '[[_Standards/WikiData/WD~television_award,1407225]]'
+- '[[_Standards/WikiData/WD~group_of_awards,107655869]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Creative_Arts_Emmy_Award,3002405]]'
-  - '[[_Standards/WikiData/WD~Sports_Emmy_Awards,3494164]]'
-  - '[[_Standards/WikiData/WD~Technology_and_Engineering_Emmy_Award,7692549]]'
-  - '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
-  - "[[_Standards/WikiData/WD~Children's_and_Family_Emmy_Awards,109875376]]"
+- '[[_Standards/WikiData/WD~Creative_Arts_Emmy_Award,3002405]]'
+- '[[_Standards/WikiData/WD~Sports_Emmy_Awards,3494164]]'
+- '[[_Standards/WikiData/WD~Technology_and_Engineering_Emmy_Award,7692549]]'
+- '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
+- "[[_Standards/WikiData/WD~Children's_and_Family_Emmy_Awards,109875376]]"
 topic_has_template: '[[_Standards/WikiData/WD~Template_Emmy_Awards,12401028]]'
 Wikidata_property: Emmys person ID
 country: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -35,8 +97,118 @@ official_website: https://www.emmys.com/awards
 Giphy_username: emmys
 X_Twitter_username: TelevisionAcad
 inception: 1949-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Emmy
+    ar: جائزة إيمي
+    ary: جايزة د الإمي
+    arz: جايزة ايمى
+    ast: Premios Emmy
+    az: '"Emmi" mükafatı'
+    azb: ایمی اؤدولو
+    bar: Emmy
+    be: Эмі
+    be-tarask: Эмі
+    bg: Еми
+    bn: এমি পুরস্কার
+    br: Emmy Awards
+    bs: Emmy nagrada
+    ca: Premi Emmy
+    ckb: خەڵاتی ئێمی
+    co: Emmy
+    cs: Cena Emmy
+    cy: Gwobr Emmy
+    da: Emmy Award
+    de: Emmy
+    diq: Xelata Emmy
+    el: βραβεία Έμμυ
+    eml: Emmy Award
+    en: Emmy Award
+    en-ca: Emmy Award
+    en-gb: Emmy Award
+    en-us: Emmy Award
+    eo: Premio Emmy
+    es: Premios Emmy
+    et: Emmy
+    eu: Emmy sariak
+    fa: جایزه امی
+    fi: Emmy-palkinto
+    fr: Emmy Award
+    fy: Emmy Award
+    ga: Duais Emmy
+    gl: Premios Emmy
+    ha: Emmy Awards
+    he: פרס אמי
+    hi: एमी पुरस्कार
+    hr: Nagrada Emmy
+    hu: Emmy-díj
+    hy: Էմմի
+    hyw: Էմմի Մրցանակ
+    id: Penghargaan Emmy
+    ilo: Premio Emmy
+    io: Premio Emmy
+    is: Emmy-verðlaunin
+    it: Premio Emmy
+    ja: エミー賞
+    ka: ემი
+    kk: Эмми
+    ko: 에미상
+    ku: Xelatên Emmy
+    lb: Emmy Award
+    lt: Emmy apdovanojimas
+    lv: Emmy balva
+    mai: एमी पुरस्कार
+    mdf: Эмми
+    mk: Еми
+    ml: എമ്മി അവാർഡ്
+    mn: Эмми шагнал
+    mr: एम्मी पुरस्कार
+    ms: Anugerah Emmy
+    mzn: ایمی جایزه
+    nb: Emmy-prisen
+    nl: Emmy Award
+    nn: Emmy-prisen
+    os: Эмми
+    pa: ਐਮੀ ਇਨਾਮ
+    pl: Nagroda Emmy
+    pnb: ایمی انعام
+    ps: امی جایزه
+    pt: Emmy
+    pt-br: Emmy
+    ro: Premiul Emmy
+    ru: Эмми
+    sh: Emmy Award
+    si: එමී (Emmy) සම්මාන
+    sk: Emmy Award
+    skr: ایمی اعزاز
+    sl: emmy
+    sr: Еми
+    sr-ec: Еми
+    sr-el: Emi
+    sv: Emmy Award
+    sw: Emmy
+    ta: எம்மி விருது
+    tg: Эммӣ
+    th: รางวัลเอ็มมี
+    tl: Gawad Emmy
+    tr: Emmy Ödülleri
+    tt: «Эмми» кинопремиясе
+    uk: Еммі
+    ur: ایمی اعزاز
+    uz: Emmy
+    vec: Emmy Award
+    vi: Giải Emmy
+    wuu: 艾美奖
+    xmf: ემიშ ჯილდო
+    yue: 艾美獎
+    zh: 艾美奖
+    zh-cn: 艾美奖
+    zh-hans: 艾美奖
+    zh-hant: 艾美獎
+    zh-hk: 艾美獎
+    zh-sg: 艾美奖
+    zh-tw: 艾美獎
 ---
-
 # [[Emmy_Award]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Emmy_Award,123737|WD~Emmy_Award,123737]] 

@@ -1,30 +1,103 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Köppen_climate_classification,124095]]"
-    - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]"
-    - "[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]"
-    - "[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]"
-    - "[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]"
-    - "[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]"
-    - "[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]"
-    - "[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]"
+  - '[[../../WikiData/WD~Köppen_climate_classification,124095]]'
+  - '[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]'
+  - '[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]'
+  - '[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]'
+  - '[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]'
+  - '[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]'
+  - '[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]'
+  - '[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Köppen_climate_classification,124095]]"
-  - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]"
-  - "[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]"
-  - "[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]"
-  - "[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]"
-  - "[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]"
-  - "[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]"
-  - "[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]"
-
-has_time_started: 1884-01-01 
+- '[[../../WikiData/WD~Köppen_climate_classification,124095]]'
+- '[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]'
+- '[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]'
+- '[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]'
+- '[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]'
+- '[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]'
+- '[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]'
+- '[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]'
+has_time_started: 1884-01-01
 aliases:
-  - Köppen climate classification
-  - Köppen–Geiger climate classification
-  - Köppen_Climate_Classification
-  - Köppen Climate Classification
+- Aicmiú aeráide Köppen
+- clasifegasion climàtega de Köppen
+- Clasificación climatica de Köppen
+- Clasificación climática de Köppen
+- clasificación climática de Köppen-Geiger
+- clasificarea climatică Köppen
+- Classificacion de Köppen
+- classificació climàtica de Köppen
+- classification de Köppen
+- classificazione dei climi di Köppen
+- classificação climática de Köppen-Geiger
+- Enumeratio climatum Köppen
+- Kepena klimata klasifikācija
+- Klasifikashon di klima di Köppen
+- Klasifikasi iklim Köppen
+- Klasipikasyon nin klima ni Köppen
+- Klasyfikacja klimatów Köppena
+- klimaatclassificatie van Köppen
+- Klimaatklassifikaasje fan Köppen
+- Klimaklassifikation nach Köppen und Geiger
+- Klimata klasifiko de Köppen
+- Klimatala klasifikuro da Köppen
+- Köppen climate classification
+- Köppen iklim sınıflandırması
+- Köppen khì-hāu hun-lūi-hoat
+- Köppen klima sailkapena
+- Köppen klimato klasifikacija
+- Köppen klímaosztályozása
+- Köppen si klimaklassifisering
+- Köppen-klimaatklassifikasie
+- Köppeni kliimaklassifikatsioon
+- Köppenin ilmastoluokitus
+- Köppenova klasifikace podnebí
+- Köppenova klasifikacija klime
+- Köppenova klasifikácia podnebia
+- Köppenova razvrstitev podnebja
+- Köppens klimaklassifikation
+- Köppens klimaklassifisering
+- Köppens klimatklassificering
+- Köppen_Climate_Classification
+- Köppen–Geiger climate classification
+- Loftslagsbelti
+- Pag-uuri ng klima ni Köppen
+- pengelasan iklim Köppen
+- Phân loại khí hậu Köppen
+- Rarrabawar yanayi na Köppen
+- Tasartut tanezwayt n Köppen
+- Κλιματική ταξινόμηση Κέππεν
+- Кёппенни климат классификациясы
+- Кепенова класификација климата
+- Кепенова класификација на климата
+- Класіфікацыя кліматаў Кёпена
+- класифікація кліматів Кеппена
+- классификация климатов Кёппена
+- Климатична класификация на Кьопен
+- клясыфікацыя кліматаў Кёпэна
+- Կյոպպենի կլիմաների դասակարգում
+- שיטת קפן
+- تصنيف كوبن للمناخ
+- تصنيف مناخ كوبن
+- سامانه طبقهبندی اقلیمی کوپن
+- پۆلێنکردنی ئاووھەوای کوپێن
+- کوپن موسمی زمرہ بندی
+- کوپن کی موسمی زمرہ بندی
+- ڪوپن موسمياتي درجه بندي
+- कोपेन का जलवायु वर्गीकरण
+- कोपेन के जलवायु वर्गीकरण
+- कोपेन हावापानी वर्गीकरण
+- কোপেন জলবায়ু শ্রেণীবিন্যাস
+- கோப்பென் வகைப்பாட்டு
+- കോപ്പൻ കാലാവസ്ഥാ വിഭാഗീകരണ രീതി
+- การแบ่งเขตภูมิอากาศแบบเคิพเพิน
+- ကော့(ခ်)ပန်ရာသီဥတုခွဲခြားမှုများ
+- კიოპენის კლიმატის კლასიფიკაცია
+- ケッペンの気候区分
+- 哥本氣候分類法
+- 柯本气候分类法
+- 쾨펜의 기후 구분
 has_id_wikidata: Q124095
 named_after: '[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Wladimir_Köppen,76991]]'
@@ -35,8 +108,97 @@ instance_of: '[[_Standards/WikiData/WD~effective_climate_2024classification,1200
 inception: 1884-01-01T00:00:00Z
 Wikidata_property: Köppen climate classification
 Commons_category: Köppen-Geiger
+dv_has_:
+  name_:
+    af: Köppen-klimaatklassifikasie
+    an: Clasificación climatica de Köppen
+    ar: تصنيف كوبن للمناخ
+    arz: تصنيف مناخ كوبن
+    ast: Clasificación climática de Köppen
+    bcl: Klasipikasyon nin klima ni Köppen
+    be: Класіфікацыя кліматаў Кёпена
+    be-tarask: клясыфікацыя кліматаў Кёпэна
+    bg: Климатична класификация на Кьопен
+    bho: कोपेन के जलवायु वर्गीकरण
+    bn: কোপেন জলবায়ু শ্রেণীবিন্যাস
+    bs: Köppenova klasifikacija klime
+    ca: classificació climàtica de Köppen
+    ckb: پۆلێنکردنی ئاووھەوای کوپێن
+    cs: Köppenova klasifikace podnebí
+    da: Köppens klimaklassifikation
+    de: Klimaklassifikation nach Köppen und Geiger
+    el: Κλιματική ταξινόμηση Κέππεν
+    en: Köppen climate classification
+    en-ca: Köppen climate classification
+    en-gb: Köppen climate classification
+    en-us: Köppen climate classification
+    eo: Klimata klasifiko de Köppen
+    es: clasificación climática de Köppen-Geiger
+    et: Köppeni kliimaklassifikatsioon
+    eu: Köppen klima sailkapena
+    ext: Clasificación climática de Köppen
+    fa: سامانه طبقهبندی اقلیمی کوپن
+    fi: Köppenin ilmastoluokitus
+    fr: classification de Köppen
+    fy: Klimaatklassifikaasje fan Köppen
+    ga: Aicmiú aeráide Köppen
+    gl: Clasificación climática de Köppen
+    ha: Rarrabawar yanayi na Köppen
+    he: שיטת קפן
+    hi: कोपेन का जलवायु वर्गीकरण
+    hr: Köppenova klasifikacija klime
+    hu: Köppen klímaosztályozása
+    hy: Կյոպպենի կլիմաների դասակարգում
+    id: Klasifikasi iklim Köppen
+    io: Klimatala klasifikuro da Köppen
+    is: Loftslagsbelti
+    it: classificazione dei climi di Köppen
+    ja: ケッペンの気候区分
+    jv: Klasifikasi iklim Köppen
+    ka: კიოპენის კლიმატის კლასიფიკაცია
+    kab: Tasartut tanezwayt n Köppen
+    ko: 쾨펜의 기후 구분
+    krc: Кёппенни климат классификациясы
+    la: Enumeratio climatum Köppen
+    lt: Köppen klimato klasifikacija
+    lv: Kepena klimata klasifikācija
+    mk: Кепенова класификација на климата
+    ml: കോപ്പൻ കാലാവസ്ഥാ വിഭാഗീകരണ രീതി
+    ms: pengelasan iklim Köppen
+    my: ကော့(ခ်)ပန်ရာသီဥတုခွဲခြားမှုများ
+    nan: Köppen khì-hāu hun-lūi-hoat
+    nb: Köppens klimaklassifisering
+    ne: कोपेन हावापानी वर्गीकरण
+    nl: klimaatclassificatie van Köppen
+    nn: Köppen si klimaklassifisering
+    oc: Classificacion de Köppen
+    pap: Klasifikashon di klima di Köppen
+    pl: Klasyfikacja klimatów Köppena
+    pnb: کوپن موسمی زمرہ بندی
+    pt: classificação climática de Köppen-Geiger
+    pt-br: Classificação climática de Köppen-Geiger
+    ro: clasificarea climatică Köppen
+    ru: классификация климатов Кёппена
+    sco: Köppen climate classification
+    sd: ڪوپن موسمياتي درجه بندي
+    sh: Köppenova klasifikacija klime
+    sk: Köppenova klasifikácia podnebia
+    sl: Köppenova razvrstitev podnebja
+    sr: Кепенова класификација климата
+    sv: Köppens klimatklassificering
+    ta: கோப்பென் வகைப்பாட்டு
+    th: การแบ่งเขตภูมิอากาศแบบเคิพเพิน
+    tl: Pag-uuri ng klima ni Köppen
+    tr: Köppen iklim sınıflandırması
+    uk: класифікація кліматів Кеппена
+    ur: کوپن کی موسمی زمرہ بندی
+    vec: clasifegasion climàtega de Köppen
+    vi: Phân loại khí hậu Köppen
+    wuu: 柯本气候分类法
+    yue: 哥本氣候分類法
+    zh: 柯本气候分类法
+    zu: Köppen climate classification
 ---
-
 # [[Köppen_Climate_Classification]] 
 
 #is_/same_as :: [[../../WikiData/WD~Köppen_climate_classification,124095]] 

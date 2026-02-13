@@ -1,7 +1,62 @@
 ---
 aliases:
-  - Ozon
-  - Ozone
+- achiksamaytu
+- I-Ozowuni
+- IntshOngohwe
+- oazon
+- occoon
+- ocon
+- osona
+- osono
+- osoon
+- osôn
+- otsoni
+- otsoon
+- Ozon
+- ozonas
+- Ozone
+- ozoni
+- ozono
+- ozons
+- ozonu
+- ozonum
+- ozovdna
+- ozòn
+- ozó
+- ozón
+- ozônio
+- óson
+- ózon
+- ózón
+- όζον
+- азон
+- озон
+- օզոն
+- אוזון
+- أوزون
+- ئۆزۆن
+- ازن
+- ازون
+- اوزون
+- ओज़ोन
+- ओजोन
+- ओजोन परत
+- ओझोन
+- অজ’ন
+- ওজোন
+- ਓਜ਼ੋਨ
+- ઓઝોન
+- ଓଜୋନ
+- ஓசோன்
+- ఓజోన్
+- ಓಝೋನ್
+- ഓസോൺ
+- โอโซน
+- အိုဇုန်း
+- ოზონი
+- オゾン
+- 臭氧
+- 오존
 has_id_wikidata: Q36933
 P8189: 987007555722705200
 UMLS_CUI: C0030106
@@ -9,54 +64,54 @@ MeSH_tree_code: D01.362.670.600
 DSSTOX_compound_identifier: DTXCID001098
 Krugosvet_article: khimiya/ozon
 RTECS_number: RS8225000
-subclass_of: "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
+subclass_of: '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~allotrope_of_oxygen,428653]]"
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+- '[[_Standards/WikiData/WD~allotrope_of_oxygen,428653]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 different_from:
-  - "[[_Standards/WikiData/WD~O3,437092]]"
-  - "[[_Standards/WikiData/WD~Ozun,1096772]]"
-  - "[[_Standards/WikiData/WD~cyclic_ozone,3359226]]"
+- '[[_Standards/WikiData/WD~O3,437092]]'
+- '[[_Standards/WikiData/WD~Ozun,1096772]]'
+- '[[_Standards/WikiData/WD~cyclic_ozone,3359226]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use:
-  - "[[_Standards/WikiData/WD~ozone_therapy,1426433]]"
-  - "[[_Standards/WikiData/WD~Q4332246,4332246]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~Transient_receptor_potential_cation_channel_subfamily_A_member_1,7834290]]"
-subject_has_role: "[[_Standards/WikiData/WD~photochemical_oxidant,11388301]]"
+- '[[_Standards/WikiData/WD~ozone_therapy,1426433]]'
+- '[[_Standards/WikiData/WD~Q4332246,4332246]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~Transient_receptor_potential_cation_channel_subfamily_A_member_1,7834290]]'
+subject_has_role: '[[_Standards/WikiData/WD~photochemical_oxidant,11388301]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ozone-montage.png
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_ozone,14864432]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_ozone,22272330]]"
-associated_hazard: "[[_Standards/WikiData/WD~ozone_exposure,21175024]]"
-has_effect: "[[_Standards/WikiData/WD~ozone_exposure,21175024]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+- '[[_Standards/WikiData/WD~response_to_ozone,14864432]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_ozone,22272330]]'
+associated_hazard: '[[_Standards/WikiData/WD~ozone_exposure,21175024]]'
+has_effect: '[[_Standards/WikiData/WD~ozone_exposure,21175024]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 boiling_point:
-  - -111.35
-  - -111.9
-  - -169
+- -111.35
+- -111.9
+- -169
 melting_point:
-  - -197.2
-  - -315
-  - -193
-has_part_s_: "[[_Standards/WikiData/WD~oxygen,629]]"
+- -197.2
+- -315
+- -193
+has_part_s_: '[[_Standards/WikiData/WD~oxygen,629]]'
 vapor_pressure: 1
 solubility: 0.001
 ceiling_exposure_limit: 0.2
 time_weighted_average_exposure_limit: 0.2
 immediately_dangerous_to_life_or_health: 9.8
 electric_dipole_moment:
-  - 0.534
-  - 0.5337
+- 0.534
+- 0.5337
 ionization_energy:
-  - 12.43
-  - 12.52
+- 12.43
+- 12.52
 standard_molar_entropy: 238.9
 ZVG_number: 4040
 OmegaWiki_Defined_Meaning: 2702
@@ -75,34 +130,141 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ozon%20Mesomerie.svg
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Ozone-CRC-MW-3D-balls.png
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/ozone
-canonical_SMILES: "[O-][O+]=O"
+canonical_SMILES: '[O-][O+]=O'
 CAS_Registry_Number: 10028-15-6
 EC_number: 233-069-2
 dv_has_:
   formula_:
     sum: O³
+  name_:
+    af: osoon
+    an: ozono
+    anp: ओजोन परत
+    ar: أوزون
+    as: অজ’ন
+    ast: ozonu
+    az: ozon
+    azb: ازون
+    ba: озон
+    be: азон
+    be-tarask: азон
+    bg: озон
+    bho: ओजोन
+    bn: ওজোন
+    br: ozon
+    bs: ozon
+    ca: ozó
+    ckb: ئۆزۆن
+    cs: ozon
+    cy: osôn
+    da: ozon
+    de: Ozon
+    el: όζον
+    en: ozone
+    eo: ozono
+    es: ozono
+    et: osoon
+    eu: ozono
+    fa: ازن
+    fi: otsoni
+    fr: ozone
+    fy: oazon
+    ga: ózón
+    gl: ozono
+    gu: ઓઝોન
+    he: אוזון
+    hi: ओज़ोन
+    hr: ozon
+    hsb: ocon
+    ht: ozòn
+    hu: ózon
+    hy: օզոն
+    iba: Ozon
+    id: ozon
+    io: ozono
+    is: óson
+    it: ozono
+    ja: オゾン
+    ka: ოზონი
+    kk: озон
+    kn: ಓಝೋನ್
+    ko: 오존
+    ky: озон
+    la: ozonum
+    lt: ozonas
+    lv: ozons
+    mk: озон
+    ml: ഓസോൺ
+    mr: ओझोन
+    ms: ozon
+    my: အိုဇုန်း
+    nan: ozone
+    nb: ozon
+    ne: ओजोन
+    nl: ozon
+    nn: ozon
+    oc: ozòn
+    om: ozone
+    or: ଓଜୋନ
+    os: озон
+    pa: ਓਜ਼ੋਨ
+    pl: ozon
+    pnb: اوزون
+    ps: اوزون
+    pt: ozono
+    pt-br: ozônio
+    qu: achiksamaytu
+    ro: ozon
+    ru: озон
+    rue: озон
+    sco: ozone
+    se: ozovdna
+    sh: ozon
+    sk: ozón
+    sl: ozon
+    smn: occoon
+    sms: otsoon
+    sq: ozoni
+    sr: озон
+    su: ozon
+    sv: ozon
+    sw: ozoni
+    ta: ஓசோன்
+    te: ఓజోన్
+    th: โอโซน
+    tl: osona
+    tr: ozon
+    uk: озон
+    ur: اوزون
+    uz: ozon
+    vi: ozon
+    war: osono
+    wuu: 臭氧
+    xh: I-Ozowuni
+    yue: 臭氧
+    zh: 臭氧
+    zu: IntshOngohwe
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Ozone,36933|WD~Ozone,36933]]"
-    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Ozone|Ozone]]"
-    - "[[/_public/Earth/Climate/Atmosphere,Earth/Ozone.public|Ozone.public]]"
-    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal|Ozone.internal]]"
-    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect|Ozone.protect]]"
-    - "[[/_private/Earth/Climate/Atmosphere,Earth/Ozone.private|Ozone.private]]"
-    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal|Ozone.personal]]"
-    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret|Ozone.secret]]"
+  - '[[../../../WikiData/WD~Ozone,36933|WD~Ozone,36933]]'
+  - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Ozone|Ozone]]'
+  - '[[/_public/Earth/Climate/Atmosphere,Earth/Ozone.public|Ozone.public]]'
+  - '[[/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal|Ozone.internal]]'
+  - '[[/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect|Ozone.protect]]'
+  - '[[/_private/Earth/Climate/Atmosphere,Earth/Ozone.private|Ozone.private]]'
+  - '[[/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal|Ozone.personal]]'
+  - '[[/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret|Ozone.secret]]'
 dv_has_formula_sum: O³
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Ozone,36933|WD~Ozone,36933]]"
-  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Ozone|Ozone]]"
-  - "[[/_public/Earth/Climate/Atmosphere,Earth/Ozone.public|Ozone.public]]"
-  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal|Ozone.internal]]"
-  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect|Ozone.protect]]"
-  - "[[/_private/Earth/Climate/Atmosphere,Earth/Ozone.private|Ozone.private]]"
-  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal|Ozone.personal]]"
-  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret|Ozone.secret]]"
+- '[[../../../WikiData/WD~Ozone,36933|WD~Ozone,36933]]'
+- '[[/_Standards/Earth/Climate/Atmosphere,Earth/Ozone|Ozone]]'
+- '[[/_public/Earth/Climate/Atmosphere,Earth/Ozone.public|Ozone.public]]'
+- '[[/_internal/Earth/Climate/Atmosphere,Earth/Ozone.internal|Ozone.internal]]'
+- '[[/_protect/Earth/Climate/Atmosphere,Earth/Ozone.protect|Ozone.protect]]'
+- '[[/_private/Earth/Climate/Atmosphere,Earth/Ozone.private|Ozone.private]]'
+- '[[/_personal/Earth/Climate/Atmosphere,Earth/Ozone.personal|Ozone.personal]]'
+- '[[/_secret/Earth/Climate/Atmosphere,Earth/Ozone.secret|Ozone.secret]]'
 ---
-
 # [[Ozone]] 
 
 has_formula_sum = `=this.dv_has_formula_sum`

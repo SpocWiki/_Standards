@@ -1,9 +1,120 @@
 ---
 aliases:
-  - Kathryn Bigelow
-  - Kathryn Ann Bigelow
-  - Bigelow,Kathryn
+- Bigelow,Kathryn
+- Catharina Bigelow
+- Kathryn Ann Bigelow
+- Kathryn Bigelow
+- Kathryn Bigelowová
+- Ketrina Bigelova
+- Κάθριν Μπίγκελοου
+- Катрин Бигълоу
+- Кетрін Біґелоу
+- Кетрин Бигелоу
+- Кэтрин Бигелоу
+- Кэтрын Бігелоу
+- Քեթրին Բիգելոու
+- קתרין ביגלו
+- كاثرين بيجلو
+- كاثرين بيغلو
+- کاترین بیقلو
+- کاترین بیگلو
+- کاترین بیگەلۆو
+- کیتھرین بگیلو
+- कैथरीन बिगेलो
+- क्याथरिन बिगलो
+- ক্যাথরিন বিগেলো
+- கேத்தரின் பிகலோ
+- കാതറീൻ ബിഗലോ
+- แคทริน บิเกโลว์
+- კეთრინ ბიგელოუ
+- キャスリン・ビグロー
+- 凯瑟琳·毕奇洛
+- 凯瑟琳·毕格罗
+- 嘉芙莲·碧格露
+- 嘉芙蓮碧格露
+- 캐스린 비글로
 has_id_wikidata: Q34816
+dv_has_:
+  name_:
+    an: Kathryn Bigelow
+    ar: كاثرين بيغلو
+    arz: كاثرين بيجلو
+    ast: Kathryn Bigelow
+    azb: کاترین بیقلو
+    be: Кэтрын Бігелоу
+    bg: Катрин Бигълоу
+    bn: ক্যাথরিন বিগেলো
+    ca: Kathryn Bigelow
+    ckb: کاترین بیگەلۆو
+    cs: Kathryn Bigelowová
+    cy: Kathryn Bigelow
+    da: Kathryn Bigelow
+    de: Kathryn Bigelow
+    el: Κάθριν Μπίγκελοου
+    en: Kathryn Bigelow
+    eo: Kathryn Bigelow
+    es: Kathryn Bigelow
+    et: Kathryn Bigelow
+    eu: Kathryn Bigelow
+    ext: Kathryn Bigelow
+    fa: کاترین بیگلو
+    fi: Kathryn Bigelow
+    fr: Kathryn Bigelow
+    ga: Kathryn Bigelow
+    gl: Kathryn Bigelow
+    he: קתרין ביגלו
+    hi: कैथरीन बिगेलो
+    hr: Kathryn Bigelow
+    hu: Kathryn Bigelow
+    hy: Քեթրին Բիգելոու
+    id: Kathryn Bigelow
+    is: Kathryn Bigelow
+    it: Kathryn Bigelow
+    ja: キャスリン・ビグロー
+    ka: კეთრინ ბიგელოუ
+    kk: Кэтрин Бигелоу
+    ko: 캐스린 비글로
+    la: Catharina Bigelow
+    lb: Kathryn Bigelow
+    li: Kathryn Bigelow
+    lt: Kathryn Bigelow
+    lv: Ketrina Bigelova
+    mg: Kathryn Bigelow
+    mk: Кетрин Бигелоу
+    ml: കാതറീൻ ബിഗലോ
+    ms: Kathryn Bigelow
+    mul: Kathryn Bigelow
+    nb: Kathryn Bigelow
+    ne: क्याथरिन बिगलो
+    nl: Kathryn Bigelow
+    nn: Kathryn Bigelow
+    oc: Kathryn Bigelow
+    pap: Kathryn Bigelow
+    pl: Kathryn Bigelow
+    pt: Kathryn Bigelow
+    pt-br: Kathryn Bigelow
+    ro: Kathryn Bigelow
+    ru: Кэтрин Бигелоу
+    sco: Kathryn Bigelow
+    sh: Kathryn Bigelow
+    sk: Kathryn Bigelowová
+    skr: کیتھرین بگیلو
+    sl: Kathryn Bigelow
+    sq: Kathryn Bigelow
+    sr: Кетрин Бигелоу
+    sv: Kathryn Bigelow
+    ta: கேத்தரின் பிகலோ
+    th: แคทริน บิเกโลว์
+    tr: Kathryn Bigelow
+    uk: Кетрін Біґелоу
+    ur: کیتھرین بگیلو
+    vi: Kathryn Bigelow
+    wuu: 凯瑟琳·毕奇洛
+    xmf: კეთრინ ბიგელოუ
+    yue: 嘉芙蓮碧格露
+    zh: 凯瑟琳·毕格罗
+    zh-hk: 嘉芙蓮碧格露
+    zh-my: 嘉芙莲·碧格露
 ---
 # [[Bigelow,Kathryn]] 
 

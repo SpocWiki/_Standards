@@ -1,21 +1,76 @@
 ---
 aliases:
-  - Rhythmus
-  - ῥυθμός
-  - rhythmos
-  - Rhythm
+- Aluy-oy
+- erritmo
+- Gadona
+- Mogbata
+- Nhịp
+- Rentak
+- Rhythm
+- rhythmos
+- Rhythmus
+- Rhythmus (Musik)
+- Ritam
+- ritem
+- rithim
+- ritim
+- Ritm
+- ritmas
+- ritme
+- Ritme (solfegi)
+- ritmo
+- ritms
+- Ritmu
+- ritmus
+- Rukuttaa
+- rythme
+- rytm
+- rytme
+- rytmi
+- rytmus
+- Rîtm
+- Rütm
+- Taktur
+- Çемĕ
+- Ρυθμός
+- Ритам
+- ритм
+- Ритъм
+- рытм
+- Рытм (музыка)
+- ырғақ
+- קצב
+- إيقاع
+- ریتم
+- ڕیتم
+- तालः
+- लय
+- লয়
+- ਲੈਅ
+- તાલ
+- లయ
+- താളം
+- จังหวะ
+- စည်းချက်
+- რიტმი
+- ᎧᏃᎩᏍᏗ ᎤᏃᏴᎬ
+- ῥυθμός
+- リズム
+- 節奏
+- 节奏
+- 리듬
 has_id_wikidata: Q170406
 different_from: '[[_Standards/WikiData/WD~Ritm,250958]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 uses: '[[_Standards/WikiData/WD~isochrony,968561]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~pace,3306516]]'
-  - '[[_Standards/WikiData/WD~Q117898917,117898917]]'
+- '[[_Standards/WikiData/WD~pace,3306516]]'
+- '[[_Standards/WikiData/WD~Q117898917,117898917]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q7216645,7216645]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12688210,12688210]]'
 practiced_by: '[[_Standards/WikiData/WD~rhythmist,124738271]]'
@@ -23,8 +78,101 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/8beat%20example%2001.j
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/RITM.html
 Commons_category: Rhythms
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rhythmus.oga
+dv_has_:
+  name_:
+    af: ritme
+    ar: إيقاع
+    as: লয়
+    ast: Ritmu
+    az: Ritm
+    be: Рытм (музыка)
+    be-tarask: рытм
+    bg: Ритъм
+    bs: Ritam
+    ca: ritme
+    chr: ᎧᏃᎩᏍᏗ ᎤᏃᏴᎬ
+    ckb: ڕیتم
+    cs: rytmus
+    cv: Çемĕ
+    da: rytme
+    de: Rhythmus
+    el: Ρυθμός
+    en: rhythm
+    eo: ritmo
+    es: ritmo
+    et: Rütm
+    eu: erritmo
+    fa: ریتم
+    fi: rytmi
+    fr: rythme
+    ga: rithim
+    gl: ritmo
+    gsw: Rhythmus (Musik)
+    gu: તાલ
+    he: קצב
+    hi: लय
+    hr: Ritam
+    hu: ritmus
+    id: ritme
+    io: Ritmo
+    is: Taktur
+    it: ritmo
+    ja: リズム
+    ka: რიტმი
+    kk: ырғақ
+    ko: 리듬
+    ku: Rîtm
+    ku-arab: ریتم
+    ku-latn: Rîtm
+    ky: ритм
+    la: Rhythmus
+    lij: Ritmo
+    ln: Mogbata
+    lt: ritmas
+    lv: ritms
+    mg: Gadona
+    mk: Ритам
+    ml: താളം
+    ms: Rentak
+    my: စည်းချက်
+    nb: rytme
+    nl: ritme
+    nn: rytme
+    oc: Ritme (solfegi)
+    om: Rukuttaa
+    os: Ритм
+    pa: ਲੈਅ
+    pl: rytm
+    pt: ritmo
+    ro: Ritm
+    ru: ритм
+    sa: तालः
+    sh: Ritam
+    sk: Rytmus
+    sl: ritem
+    sr: ритам
+    sr-ec: ритам
+    sv: rytm
+    te: లయ
+    th: จังหวะ
+    tl: Aluy-oy
+    tr: ritim
+    tt: ритм
+    uk: ритм
+    uz: ritm
+    vi: Nhịp
+    war: Ritmo
+    wuu: 节奏
+    xmf: რიტმი
+    yue: 節奏
+    zh: 节奏
+    zh-cn: 节奏
+    zh-hans: 节奏
+    zh-hant: 節奏
+    zh-hk: 節奏
+    zh-sg: 节奏
+    zh-tw: 節奏
 ---
-
 # [[Rhythm]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Rhythm,170406|WD~Rhythm,170406]] 

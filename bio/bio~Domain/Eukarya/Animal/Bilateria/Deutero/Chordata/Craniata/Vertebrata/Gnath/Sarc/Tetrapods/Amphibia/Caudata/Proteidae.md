@@ -1,8 +1,90 @@
 ---
 aliases:
-  - Proteidae
+- Hulepadder
+- hòlepadder
+- kopoltyús gőtefélék
+- macarátovití
+- močerilarji
+- mudpuppy
+- odmieńcowate
+- olmachtigen
+- Olmar
+- Olme
+- olmit
+- Proteid
+- Proteidae
+- Proteju dzimta
+- Proteylar
+- Protėjiniai
+- Táłtłʼááh tsxilghááh dóó bikʼéí
+- пратэі
+- протеї
+- протееви
+- протеи
+- פרוטיאוסיים
+- متقلبية
+- متقلبيه
+- پروتیدائه
+- วงศ์หมาน้ำ
+- პროტეუსებრნი
+- ホライモリ科
+- 洞螈科
+- 동굴영원과
 title: Proteidae
 has_id_wikidata: Q743692
+dv_has_:
+  name_:
+    ar: متقلبية
+    arz: متقلبيه
+    ast: Proteidae
+    be: пратэі
+    be-tarask: пратэі
+    bg: протееви
+    ca: Proteid
+    ceb: Proteidae
+    cs: macarátovití
+    da: Hulepadder
+    de: Olme
+    en: mudpuppy
+    es: Proteidae
+    fa: پروتیدائه
+    fi: olmit
+    fr: Proteidae
+    ga: Proteidae
+    he: פרוטיאוסיים
+    hu: kopoltyús gőtefélék
+    ia: Proteidae
+    it: Proteidae
+    ja: ホライモリ科
+    ka: პროტეუსებრნი
+    ko: 동굴영원과
+    la: Proteidae
+    lt: Protėjiniai
+    lv: Proteju dzimta
+    mul: Proteidae
+    nb: Hulepadder
+    nl: olmachtigen
+    nn: hòlepadder
+    nv: Táłtłʼááh tsxilghááh dóó bikʼéí
+    pl: odmieńcowate
+    pt: Proteidae
+    ro: Proteidae
+    ru: протеи
+    sl: močerilarji
+    sq: Proteidae
+    sv: Olmar
+    th: วงศ์หมาน้ำ
+    tr: Proteidae
+    uk: протеї
+    uz: Proteylar
+    vi: Proteidae
+    war: Proteidae
+    zh: 洞螈科
+    zh-cn: 洞螈科
+    zh-hans: 洞螈科
+    zh-hant: 洞螈科
+    zh-hk: 洞螈科
+    zh-tw: 洞螈科
 ---
 # [[Proteidae]] 
 

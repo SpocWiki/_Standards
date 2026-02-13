@@ -1,23 +1,121 @@
 ---
 aliases:
+- beiriste conartha
+- bridds
+- bridge
+- Bridge (kaartspul)
+- bridzs
+- Bridż
+- bridž
+- bridžas
+- bridžs
+- Brij
+- briç
+- briĝo
+- brydż
+- contract bridge
+- ugovorni bridž
+- Μπριτζ
+- бридж
+- брыдж
+- ברידג'
+- برج
+- بريدج
+- بریج
+- บริดจ์
+- ბრიჯი
+- コントラクトブリッジ
+- 合約橋牌
+- 定约桥牌
+- 桥牌
+- 橋牌
+- 콘트랙트 브리지
 has_id_wikidata: Q188966
 instance_of:
-  - "[[_Standards/WikiData/WD~card_game,142714]]"
-  - "[[_Standards/WikiData/WD~mind_sport,1188693]]"
-  - "[[_Standards/WikiData/WD~bidding_based_game,112972683]]"
-different_from: "[[_Standards/WikiData/WD~Bridge,347789]]"
+- '[[_Standards/WikiData/WD~card_game,142714]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~bidding_based_game,112972683]]'
+different_from: '[[_Standards/WikiData/WD~Bridge,347789]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~strategy_game,1150710]]"
-  - "[[_Standards/WikiData/WD~trick_taking_game,1191150]]"
-uses: "[[_Standards/WikiData/WD~standard_52_card_deck,3419503]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_contract_bridge,5867569]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-practiced_by: "[[_Standards/WikiData/WD~bridge_player,18437198]]"
+- '[[_Standards/WikiData/WD~strategy_game,1150710]]'
+- '[[_Standards/WikiData/WD~trick_taking_game,1191150]]'
+uses: '[[_Standards/WikiData/WD~standard_52_card_deck,3419503]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_contract_bridge,5867569]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+practiced_by: '[[_Standards/WikiData/WD~bridge_player,18437198]]'
 maximum_number_of_players: 4
 minimum_number_of_players: 4
 Commons_category: Bridge (card game)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20bidding%20sequence.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Contract%20bridge%20pictogram.svg
+dv_has_:
+  name_:
+    ar: بريدج
+    ba: бридж
+    be-tarask: брыдж
+    bg: бридж
+    ca: bridge
+    cs: bridž
+    da: bridge
+    de: Bridge
+    el: Μπριτζ
+    en: contract bridge
+    en-ca: contract bridge
+    en-gb: contract bridge
+    eo: briĝo
+    es: bridge
+    et: bridž
+    eu: bridge
+    fa: بریج
+    fi: bridge
+    fr: bridge
+    fy: Bridge (kaartspul)
+    ga: beiriste conartha
+    gl: bridge
+    he: ברידג'
+    hr: bridž
+    hu: bridzs
+    id: bridge
+    is: bridds
+    it: bridge
+    ja: コントラクトブリッジ
+    ka: ბრიჯი
+    ko: 콘트랙트 브리지
+    kw: Brij
+    lb: Bridge
+    li: Bridge
+    lt: bridžas
+    lv: bridžs
+    nb: bridge
+    nl: bridge
+    nn: bridge
+    pl: brydż
+    pt: bridge
+    pt-br: bridge
+    ro: bridge
+    ru: бридж
+    scn: bridge
+    sh: bridž
+    sk: bridž
+    sl: bridž
+    sr: ugovorni bridž
+    stq: Bridge
+    su: Bridge
+    sv: bridge
+    szl: Bridż
+    th: บริดจ์
+    tr: briç
+    uk: бридж
+    ur: برج
+    wuu: 定约桥牌
+    yue: 橋牌
+    zh: 合約橋牌
+    zh-cn: 桥牌
+    zh-hans: 桥牌
+    zh-hant: 橋牌
+    zh-hk: 橋牌
+    zh-sg: 桥牌
+    zh-tw: 橋牌
 ---
 # [[Contract_bridge]] 
 

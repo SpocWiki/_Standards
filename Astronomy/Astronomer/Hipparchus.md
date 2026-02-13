@@ -1,5 +1,56 @@
 ---
 aliases:
+- Gipparx
+- Hioparcas
+- Hiparc de Nicea
+- Hiparchas
+- Hiparco
+- Hiparco de Nicea
+- Hiparco han Nicea
+- Hiparh
+- Hiparh sa Rodosa
+- Hiparhs
+- Hiparko
+- Hiparko Nizeakoa
+- Hipparcho
+- Hipparchos
+- Hipparchos vun Nicäa
+- Hipparchos wa Nikaia
+- Hipparchos z Nikaie
+- Hipparchos z Nikei
+- Hipparchus
+- Hipparchus Nicaenus
+- Hipparkhos
+- Hipparkhosz
+- Hipparkos
+- Hipparque
+- Hîparxos
+- Ipparco di Nicea
+- Ipparcu
+- Ίππαρχος ο Ρόδιος
+- Гіпарх
+- Гіппарх
+- Гиппарх
+- Хипарх
+- Хипарх са Родоса
+- Հիպարքոս
+- היפרכוס
+- أبرخش
+- ابرخس
+- هيپارخوس
+- هیپارکوس
+- هېپارخوس
+- ہپارخس
+- हिप्पारकस
+- হিপারকাস
+- ஹிப்பார்க்கஸ்
+- ഹിപ്പാർക്കസ്
+- ฮิปปาร์โคส
+- ჰიპარქე
+- ヒッパルコス
+- 依巴谷
+- 喜帕恰斯
+- 히파르코스
 has_id_wikidata: Q159905
 BHCL_UUID: d4bd45c1-8974-4a69-a24d-0d79ad63bd8a
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/GIPPARH.html
@@ -7,64 +58,156 @@ Libris_URI: vs69fvnd5c7dpv0
 name_in_native_language: Ίππαρχος
 date_of_death: -0119-01-01T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~geographer,901402]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~geographer,901402]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
-place_of_birth: "[[_Standards/WikiData/WD~Nicaea,739037]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Pergamon,2022162]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+place_of_birth: '[[_Standards/WikiData/WD~Nicaea,739037]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Pergamon,2022162]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~On_Sizes_and_Distances,3024121]]"
-  - "[[_Standards/WikiData/WD~Schröder_Hipparchus_number,15264444]]"
-  - "[[_Standards/WikiData/WD~Against_the_Geography_of_Eratosthenes,42185278]]"
-  - "[[_Standards/WikiData/WD~On_Bodies_Carried_Down_by_Their_Weight,42193726]]"
-  - "[[_Standards/WikiData/WD~Ton_Aratou_kai_Eudoxou_Phainomenon_exegeseos_biblia_tria,42196579]]"
-  - "[[_Standards/WikiData/WD~Hipparchus_star_catalog,115694584]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-award_received: "[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]"
-given_name: "[[_Standards/WikiData/WD~Ίππαρχος,118733092]]"
+- '[[_Standards/WikiData/WD~On_Sizes_and_Distances,3024121]]'
+- '[[_Standards/WikiData/WD~Schröder_Hipparchus_number,15264444]]'
+- '[[_Standards/WikiData/WD~Against_the_Geography_of_Eratosthenes,42185278]]'
+- '[[_Standards/WikiData/WD~On_Bodies_Carried_Down_by_Their_Weight,42193726]]'
+- '[[_Standards/WikiData/WD~Ton_Aratou_kai_Eudoxou_Phainomenon_exegeseos_biblia_tria,42196579]]'
+- '[[_Standards/WikiData/WD~Hipparchus_star_catalog,115694584]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+award_received: '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
+given_name: '[[_Standards/WikiData/WD~Ίππαρχος,118733092]]'
 date_of_birth: -0189-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-place_of_death: "[[_Standards/WikiData/WD~Rhodes,43048]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+place_of_death: '[[_Standards/WikiData/WD~Rhodes,43048]]'
 birth_name: Ἵππαρχος
 Commons_category: Hipparchus
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20Hipparchus%20%28cropped%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20Hipparchus%20%28cropped%29.jpg
-ISNI: "0000000107855341"
+ISNI: 0000000107855341
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]"
-    - "[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]"
-    - "[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]"
+  - '[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]'
+  - '[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]'
+  - '[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]"
-  - "[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]"
-  - "[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]"
+- '[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]'
+- '[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]'
+- '[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]'
+- '[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]'
+- '[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]'
+- '[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]'
+dv_has_:
+  name_:
+    af: Hipparchos
+    ar: أبرخش
+    arz: هيپارخوس
+    ast: Hiparco de Nicea
+    az: Hipparkos
+    be: Гіпарх
+    be-tarask: Гіпарх
+    bg: Хипарх
+    bn: হিপারকাস
+    ca: Hiparc de Nicea
+    cs: Hipparchos
+    cy: Hipparchus
+    da: Hipparchos
+    de: Hipparchos
+    el: Ίππαρχος ο Ρόδιος
+    en: Hipparchus
+    en-ca: Hipparchus
+    en-gb: Hipparchus
+    eo: Hiparko
+    es: Hiparco de Nicea
+    et: Hipparchos
+    eu: Hiparko Nizeakoa
+    fa: هیپارکوس
+    fi: Hipparkhos
+    fr: Hipparque
+    ga: Hioparcas
+    gl: Hiparco
+    he: היפרכוס
+    hi: हिप्पारकस
+    hr: Hiparh
+    hu: Hipparkhosz
+    hy: Հիպարքոս
+    ia: Hipparcho
+    id: Hipparkhos
+    it: Ipparco di Nicea
+    ja: ヒッパルコス
+    ka: ჰიპარქე
+    kk: Гиппарх
+    ko: 히파르코스
+    ku: Hîparxos
+    ky: Гиппарх
+    la: Hipparchus Nicaenus
+    lb: Hipparchos vun Nicäa
+    lfn: Hiparco
+    lt: Hiparchas
+    lv: Hiparhs
+    mg: Hipparque
+    mk: Хипарх
+    ml: ഹിപ്പാർക്കസ്
+    nb: Hipparkhos
+    nds: Hipparchos
+    nl: Hipparchus
+    nn: Hipparkhos
+    pl: Hipparchos z Nikei
+    pnb: ہپارخس
+    ps: هېپارخوس
+    pt: Hiparco
+    pt-br: Hiparco
+    ro: Hiparh
+    ru: Гиппарх
+    scn: Ipparcu
+    sh: Hiparh
+    sk: Hipparchos z Nikaie
+    skr: ابرخس
+    sl: Hiparh
+    sq: Hipparchus
+    sr: Хипарх са Родоса
+    sr-ec: Хипарх са Родоса
+    sr-el: Hiparh sa Rodosa
+    sv: Hipparchos
+    sw: Hipparchos wa Nikaia
+    ta: ஹிப்பார்க்கஸ்
+    th: ฮิปปาร์โคส
+    tl: Hiparco
+    tr: Hipparkos
+    uk: Гіппарх
+    ur: ابرخس
+    uz: Gipparx
+    vi: Hipparchus
+    vmf: Hipparchos
+    war: Hiparco han Nicea
+    wuu: 喜帕恰斯
+    xmf: ჰიპარქე
+    yue: 喜帕恰斯
+    zh: 依巴谷
+    zh-cn: 依巴谷
+    zh-hans: 依巴谷
+    zh-hant: 依巴谷
+    zh-hk: 喜帕恰斯
+    zh-sg: 喜帕恰斯
+    zh-tw: 喜帕恰斯
 ---
-
 # [[Hipparchus]] 
 
 #is_/same_as :: [[WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]] 

@@ -1,10 +1,53 @@
 ---
 aliases:
-  - Bathtub curve
-  - Ausfallverteilung
-  - Bathtub_Curve
-  - Bathtub Curve
+- Ausfallverteilung
+- badkarskurva
+- Badkuipkromme
+- Bainuontziaren kurba
+- Bathtub curve
+- Bathtub_Curve
+- Corba en banyera
+- Curva a vasca da bagno
+- curva da banheira
+- Curva de la bañera
+- fürdőkádgörbe
+- Küvet eğrisi
+- Taux de défaillance
+- Vanová křivka
+- Vivdaŭro
+- Інтенсивність відмов
+- Интенсивность отказов
+- פונקציית סיכון
+- معدل الإخفاق
+- نرخ خرابی
+- 失效率
+- 故障率曲線
+- 욕조곡선
 has_id_wikidata: Q432465
+dv_has_:
+  name_:
+    ar: معدل الإخفاق
+    ca: Corba en banyera
+    cs: Vanová křivka
+    de: Ausfallverteilung
+    en: bathtub curve
+    eo: Vivdaŭro
+    es: Curva de la bañera
+    eu: Bainuontziaren kurba
+    fa: نرخ خرابی
+    fr: Taux de défaillance
+    he: פונקציית סיכון
+    hu: fürdőkádgörbe
+    it: Curva a vasca da bagno
+    ja: 故障率曲線
+    ko: 욕조곡선
+    nl: Badkuipkromme
+    pt: curva da banheira
+    ru: Интенсивность отказов
+    sv: badkarskurva
+    tr: Küvet eğrisi
+    uk: Інтенсивність відмов
+    zh: 失效率
 ---
 ## #has_/text_of_/abstract 
 

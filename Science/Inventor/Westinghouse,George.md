@@ -1,28 +1,49 @@
 ---
 aliases:
-  - George_Westinghouse
-  - George Westinghouse Jr.
-  - Westinghouse
-  - Westinghouse,George
+- Corc Vestinqauz
+- George Westinghouse
+- George Westinghouse Jr.
+- George_Westinghouse
+- Westinghouse
+- Westinghouse,George
+- Τζωρτζ Γουέστινγκχαουζ
+- Џорџ Вестингхаус
+- Джордж Ўэстынггаўз
+- Джордж Вестінгауз
+- Джордж Вестингауз
+- Джордж Уестингхаус
+- Ҷорҷ Вестингҳаус
+- Ջորջ Ուեսթինգհաուզ
+- ג'ורג' וסטינגהאוס
+- جرج وستینقهاوس
+- جورج وستینگهاوس
+- جورج ويستينجهاوس
+- جورج ويستينغهاوس
+- জৰ্জ ৱেষ্টিংহাউছ
+- ஜார்ஜ் வெஸ்டிங்ஹவுஸ்
+- จอร์จ เวสติงเฮาส์
+- ジョージ・ウェスティングハウス
+- 乔治·威斯汀豪斯
+- 조지 웨스팅하우스
 has_id_wikidata: Q262367
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
 place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~John_Fritz_Medal,6234290]]'
-  - '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~John_Fritz_Medal,6234290]]'
+- '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
 educated_at: '[[_Standards/WikiData/WD~Union_College,1567748]]'
 residence: '[[_Standards/WikiData/WD~George_Westinghouse,_Jr.,_Birthplace_and_Boyhood_Home,5546178]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_birth: '[[_Standards/WikiData/WD~Central_Bridge,12156499]]'
 given_name: '[[_Standards/WikiData/WD~George,15921732]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child: '[[_Standards/WikiData/WD~George_Westinghouse_III,75499256]]'
 family_name: '[[_Standards/WikiData/WD~Westinghouse,110089588]]'
 date_of_birth: 1846-10-06T00:00:00Z
@@ -38,8 +59,71 @@ ISNI: 0000000066788479
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/VESTINGAUZ_DZHORDZH.html
 name_in_native_language: George Westinghouse
 date_of_death: 1914-03-12T00:00:00Z
+dv_has_:
+  name_:
+    ar: جورج ويستينغهاوس
+    arz: جورج ويستينجهاوس
+    as: জৰ্জ ৱেষ্টিংহাউছ
+    ast: George Westinghouse
+    az: Corc Vestinqauz
+    azb: جرج وستینقهاوس
+    be-tarask: Джордж Ўэстынггаўз
+    bg: Джордж Уестингхаус
+    bs: George Westinghouse
+    ca: George Westinghouse
+    cs: George Westinghouse
+    cy: George Westinghouse
+    da: George Westinghouse
+    de: George Westinghouse
+    el: Τζωρτζ Γουέστινγκχαουζ
+    en: George Westinghouse
+    eo: George Westinghouse
+    es: George Westinghouse
+    eu: George Westinghouse
+    fa: جورج وستینگهاوس
+    fi: George Westinghouse
+    fr: George Westinghouse
+    fy: George Westinghouse
+    ga: George Westinghouse
+    gl: George Westinghouse
+    he: ג'ורג' וסטינגהאוס
+    hr: George Westinghouse
+    hu: George Westinghouse
+    hy: Ջորջ Ուեսթինգհաուզ
+    id: George Westinghouse
+    it: George Westinghouse
+    ja: ジョージ・ウェスティングハウス
+    kk: Джордж Вестингауз
+    ko: 조지 웨스팅하우스
+    ku: George Westinghouse
+    mg: George Westinghouse
+    ms: George Westinghouse
+    mul: George Westinghouse
+    nb: George Westinghouse
+    nl: George Westinghouse
+    nn: George Westinghouse
+    pam: George Westinghouse
+    pl: George Westinghouse
+    pt: George Westinghouse
+    pt-br: George Westinghouse
+    ru: Джордж Вестингауз
+    sco: George Westinghouse
+    sh: George Westinghouse
+    sk: George Westinghouse
+    sl: George Westinghouse
+    sq: George Westinghouse
+    sr: Џорџ Вестингхаус
+    sv: George Westinghouse
+    ta: ஜார்ஜ் வெஸ்டிங்ஹவுஸ்
+    tg: Ҷорҷ Вестингҳаус
+    th: จอร์จ เวสติงเฮาส์
+    tl: George Westinghouse
+    tr: George Westinghouse
+    uk: Джордж Вестінгауз
+    vi: George Westinghouse
+    war: George Westinghouse
+    zh: 乔治·威斯汀豪斯
 ---
-
 # [[Westinghouse,George]] 
 
 #has_/employee :: [[Tesla,Nikola]] 

@@ -1,32 +1,202 @@
 ---
 aliases:
-  - anesthesia
-  - Anaesthesia
-  - Anesthesia
-  - is_an_anesthesia
+- ainéistéise
+- Anaesthesia
+- anestesi
+- anestesia
+- anestesiija
+- anestesija
+- anestesije
+- anestezi
+- Anestezia
+- anestezie
+- anestezija
+- Anestezio
+- anesteziya
+- anestezo
+- anestezïya
+- anesthesia
+- anesthesie
+- anesthésie
+- anestèsia
+- Anestézi
+- anestēzija
+- anesztézia
+- Anästhesie
+- anæstesi
+- Bâ-chùi
+- Cion-faireachdain
+- Deyfing
+- Edoirmaedje (medcene)
+- fнестезия
+- Gây mê
+- is_an_anesthesia
+- narkoos
+- Narkose
+- Narkóza (medicína)
+- Pemba'alan
+- Puñuchiq hampikamayuq
+- znieczulenie
+- Αναισθησία
+- анестезія
+- Анестезија
+- анестезия
+- анестэзія
+- анэстэзія
+- Беҳушӣ
+- անեսթեզիա
+- הרדמה
+- انەستەزىييا
+- بیهوشلوق
+- بیهوشی
+- تخدير
+- تخدیر
+- ھۆشبڕی
+- एनेस्थीसिया
+- एनेस्थेसिया
+- संज्ञाहरण
+- অবেদন
+- மயக்க மருந்து
+- అనస్థీషియా
+- ಅರಿವಳಿಕೆ
+- അനസ്തീസിയ
+- ანესთეზია
+- 麻酔
+- 麻醉
+- 마취
 has_id_wikidata: Q131130
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicalSpecialty
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - anesthesia
+- anesthesia
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_anesthesia Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_anesthesia Class
 type: Type
+dv_has_:
+  name_:
+    af: Narkose
+    ar: تخدير
+    ast: Anestesia
+    az: anesteziya
+    azb: بیهوشلوق
+    be: анестэзія
+    be-tarask: анэстэзія
+    bew: Pemba'alan
+    bg: Анестезия
+    bho: एनेस्थीसिया
+    bn: অবেদন
+    bs: anestezija
+    ca: anestèsia
+    ckb: ھۆشبڕی
+    cs: anestezie
+    da: anæstesi
+    de: Anästhesie
+    el: Αναισθησία
+    en: anaesthesia
+    en-gb: anaesthesia
+    eo: anestezo
+    es: anestesia
+    et: narkoos
+    eu: Anestesia
+    fa: بیهوشی
+    fi: anestesia
+    fr: anesthésie
+    ga: ainéistéise
+    gan: 麻醉
+    gan-hans: 麻醉
+    gan-hant: 麻醉
+    gcr: Anestézi
+    gd: Cion-faireachdain
+    gl: Anestesia
+    he: הרדמה
+    hi: संज्ञाहरण
+    hr: anestezija
+    hu: anesztézia
+    hy: անեսթեզիա
+    ia: Anesthesia
+    id: Anestesi
+    io: Anestezio
+    is: Deyfing
+    it: anestesia
+    ja: 麻酔
+    jv: Anestesi
+    ka: ანესთეზია
+    kk: fнестезия
+    kk-arab: انەستەزىييا
+    kk-cn: انەستەزىييا
+    kk-cyrl: Анестезия
+    kk-kz: Анестезия
+    kk-latn: anestezïya
+    kk-tr: Anestezïya
+    kn: ಅರಿವಳಿಕೆ
+    ko: 마취
+    ky: fнестезия
+    la: Anaesthesia
+    lt: Anestezija
+    lv: anestēzija
+    min: Anestesi
+    mk: Анестезија
+    ml: അനസ്തീസിയ
+    ms: Anestesia
+    nan: Bâ-chùi
+    nb: anestesi
+    ne: एनेस्थेसिया
+    new: एनेस्थेसिया
+    nl: anesthesie
+    nn: anestesi
+    pl: znieczulenie
+    pt: anestesia
+    qu: Puñuchiq hampikamayuq
+    ro: anestezie
+    ru: анестезия
+    se: anestesiija
+    sh: Anestezija
+    sje: anestesija
+    sk: Narkóza (medicína)
+    sl: anestezija
+    sma: anestesije
+    smj: anestesija
+    smn: anestesia
+    sms: anestesia
+    sq: Anestezia
+    sr: Анестезија
+    sr-ec: Анестезија
+    sr-el: Anestezija
+    sv: anestesi
+    ta: மயக்க மருந்து
+    te: అనస్థీషియా
+    tg: Беҳушӣ
+    tr: anestezi
+    tt: анестезия
+    uk: анестезія
+    ur: تخدیر
+    uz: anesteziya
+    vi: Gây mê
+    wa: Edoirmaedje (medcene)
+    war: Anestesia
+    wuu: 麻醉
+    yue: 麻醉
+    zh: 麻醉
+    zh-cn: 麻醉
+    zh-hans: 麻醉
+    zh-hant: 麻醉
+    zh-hk: 麻醉
+    zh-sg: 麻醉
+    zh-tw: 麻醉
 ---
-
 # [[Anesthesia]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Anaesthesia,131130|WD~Anaesthesia,131130]]  

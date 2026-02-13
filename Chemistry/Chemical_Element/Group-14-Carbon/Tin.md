@@ -1,78 +1,216 @@
 ---
 aliases:
-  - Zinn
-  - Tin
-  - Stannum
+- Alavas
+- Alavs
+- alva
+- Amochitl
+- Aɣuzzer
+- Béésh Dildǫʼí
+- Chayanta
+- cyna
+- cín
+- dadne
+- datni
+- ditnie
+- Estam
+- estanho
+- estany
+- Estanyo
+- estaño
+- estañu
+- Eten
+- Etɛŋ
+- eztainu
+- Firapotsy
+- ijo lili nanpa 50
+- IsiThanambi
+- Istàngiu
+- itamembeatã
+- kalaj
+- kalay
+- Kallaj
+- kositar
+- kositer
+- landa
+- Lata
+- Pîl
+- Qalay
+- Qelay
+- Qorqorroo
+- Siah
+- Siak
+- Sik
+- Staen
+- Stagn
+- Stagn (metal)
+- stagno
+- Stagnu
+- stainney
+- Stane
+- Stani
+- stanin
+- stanio
+- staniu
+- stanno
+- Stannum
+- stano
+- Staoin
+- staño
+- Stegn
+- sten
+- Stin
+- stán
+- Sék
+- Tan
+- tane
+- Tansan
+- tenn
+- thiếc
+- Timah
+- Tin
+- tina
+- tinci
+- tinn
+- tun
+- Tánganran
+- tââʹnn
+- Zinn
+- Zënn
+- étain
+- ón
+- κασσίτερος
+- Аккургаш
+- Аҡ ҡурғаш
+- Валдакиви
+- Валдо киве
+- волава
+- Вулны
+- калај
+- Калай
+- къала
+- Къалай
+- Къеле
+- Озісь
+- Озысь
+- олово
+- Тăхлан
+- таннҍ
+- тӧдьыузвесь
+- Хорҕолдьун
+- Цін
+- цагаан тугалга
+- Цанхорһлҗн
+- цына
+- Қалайы
+- Қалъ
+- անագ
+- בדיל
+- צין
+- تنهکه
+- قزدير
+- قصدير
+- قلع
+- قَلٲے
+- قەلەي
+- ٹن
+- ټېن
+- ٽين
+- ژریژ
+- टिन
+- टीना
+- त्रपु
+- बङ्गम्
+- वंग
+- টিন
+- ਟੀਨ
+- ટીન
+- ଟିଣ
+- வெள்ளீயம்
+- తగరము
+- ತವರ
+- വെളുത്തീയം
+- ดีบุก
+- ཀྲིན།
+- တင်း
+- კალა
+- ቆርቆሮ
+- ᏔᎷᎩᏍᎩᏳᏍᏗ
+- ᡨᠣᡥᠣᠯᠣᠨ
+- ᱴᱤᱬ
+- スズ
+- 錫
+- 锡
+- 주석
 has_id_wikidata: Q1096
-associated_hazard: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+associated_hazard: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
 atomic_number: 50
 boiling_point:
-  - 2507
-  - 4545
-canonical_SMILES: "[Sn]"
+- 2507
+- 4545
+canonical_SMILES: '[Sn]'
 CAS_Registry_Number: 7440-31-5
 chemical_formula: Sn
-color: "[[_Standards/WikiData/WD~silver,317802]]"
+color: '[[_Standards/WikiData/WD~silver,317802]]'
 Commons_category: Tin
 Commons_gallery: Tin
 CosIng_number: 86716
 density: 7.28
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Tin,84668552]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Timah,19752956]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Tin,84668552]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Timah,19752956]]'
 DSSTOX_compound_identifier: DTXCID701323006
 EC_number: 231-141-8
 electronegativity: 1.96
 electron_configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²
-  - "[Kr] 5s² 5d¹⁰ 5p²"
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²
+- '[Kr] 5s² 5d¹⁰ 5p²'
 element_symbol: Sn
-has_effect: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
+has_effect: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG
 immediately_dangerous_to_life_or_health: 100
 InChI: InChI=1S/Sn
 InChIKey: ATJFFYVFTNAWJD-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.55
-  - 0.69
-  - 0.81
+- 0.55
+- 0.69
+- 0.81
 Krugosvet_article:
-  - nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
-  - nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
 mass: 118.71
 melting_point:
-  - 449
-  - 231.9
+- 449
+- 231.9
 MeSH_tree_code:
-  - D01.268.556.875
-  - D01.552.544.875
+- D01.268.556.875
+- D01.552.544.875
 OmegaWiki_Defined_Meaning: 3780
 part_of:
-  - "[[_Standards/WikiData/WD~group_14,106693]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]"
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]'
 PubChem_CID: 5352426
 RTECS_number: XP7320000
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
 SpocWebEntityId: 3285
 standard_molar_entropy: 44.1
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_weighted_average_exposure_limit: 2
 type: Element
 UMLS_CUI: C0040238
@@ -85,10 +223,210 @@ Wolfram_Language_entity_code: Entity["Mineral", "Tin"]
 ZVG_number: 8380
 dv_has_:
   name_:
-    group: Group-14-Carbon
-    en: Tin
-    de: Zinn
     abbreviated: Sn
+    af: tin
+    alt: Калай
+    am: ቆርቆሮ
+    an: Estanyo
+    ang: Tin
+    anp: वंग
+    ar: قصدير
+    ary: قزدير
+    arz: قصدير
+    as: টিন
+    ast: estañu
+    ay: Chayanta
+    az: Qalay
+    azb: تنهکه
+    ba: Аҡ ҡурғаш
+    ban: Timah
+    bcl: Lata
+    be: волава
+    be-tarask: цына
+    bg: калай
+    bho: टीना
+    bn: টিন
+    bo: ཀྲིན།
+    br: Staen
+    bs: kalaj
+    ca: estany
+    cdo: Sék
+    ceb: Tansan
+    chr: ᏔᎷᎩᏍᎩᏳᏍᏗ
+    ckb: ژریژ
+    co: Stagnu
+    cs: cín
+    cv: Тăхлан
+    cy: tun
+    da: tin
+    de: Zinn
+    de-ch: Zinn
+    diq: Qelay
+    el: κασσίτερος
+    en: tin
+    en-ca: tin
+    en-gb: tin
+    eo: stano
+    es: estaño
+    et: tina
+    eu: eztainu
+    fa: قلع
+    fi: tina
+    fo: Tin
+    fr: étain
+    frr: Tan
+    fur: Stagn
+    fy: Tin
+    ga: stán
+    gd: Staoin
+    gl: estaño
+    gn: itamembeatã
+    group: Group-14-Carbon
+    gsw: Zinn
+    gu: ટીન
+    gv: stainney
+    ha: Tin
+    hak: Siak
+    he: בדיל
+    hi: टिन
+    hif: Tin
+    hr: kositar
+    ht: Eten
+    hu: ón
+    hy: անագ
+    hyw: անագ
+    ia: stanno
+    id: timah
+    io: stano
+    is: tin
+    it: stagno
+    ja: スズ
+    jbo: tinci
+    jv: Timah
+    ka: კალა
+    kab: Aɣuzzer
+    kbp: Etɛŋ
+    kk: Қалайы
+    kn: ತವರ
+    ko: 주석
+    koi: Озісь
+    ks: قَلٲے
+    ku: Pîl
+    kv: Озысь
+    kw: sten
+    ky: Калай
+    la: stannum
+    lb: Zënn
+    lbe: Къалай
+    lez: Къеле
+    lfn: stanio
+    li: Tin
+    lij: Stagno
+    lld: Stegn
+    lmo: Stagn
+    lt: Alavas
+    lv: alva
+    lzh: 錫
+    mdf: Валдакиви
+    mg: Firapotsy
+    mk: калај
+    ml: വെളുത്തീയം
+    mn: цагаан тугалга
+    mnc: ᡨᠣᡥᠣᠯᠣᠨ
+    mr: टिन
+    mrj: Вулны
+    ms: timah
+    mt: landa
+    my: တင်း
+    myv: Валдо киве
+    nah: Amochitl
+    nan: Siah
+    nb: tinn
+    nds: Tinn
+    ne: त्रपु
+    new: टिन
+    nl: tin
+    nn: tinn
+    nov: Stane
+    nv: Béésh Dildǫʼí
+    oc: Estam
+    olo: Tina
+    om: Qorqorroo
+    or: ଟିଣ
+    os: къала
+    pa: ਟੀਨ
+    pap: staño
+    pap-aw: staño
+    pi: टिन
+    pl: cyna
+    pms: Stagn (metal)
+    pnb: ٹن
+    ps: ټېن
+    pt: estanho
+    pt-br: estanho
+    qu: Chayanta
+    ro: staniu
+    ru: олово
+    rue: Цін
+    rup: Staniu
+    sa: बङ्गम्
+    sah: Хорҕолдьун
+    sat: ᱴᱤᱬ
+    sc: Istàngiu
+    scn: stagnu
+    sd: ٽين
+    se: datni
+    sgs: Alavs
+    sh: Kalaj
+    sjd: таннҍ
+    sk: cín
+    sl: kositer
+    sma: ditnie
+    smj: dadne
+    smn: tane
+    sms: tââʹnn
+    so: Tin
+    sq: Kallaj
+    sr: калај
+    stq: Tin
+    su: Timah
+    sv: tenn
+    sw: Stani
+    ta: வெள்ளீயம்
+    te: తగరము
+    tg: Қалъ
+    th: ดีบุก
+    tl: tin
+    tok: ijo lili nanpa 50
+    tr: kalay
+    tt: Аккургаш
+    udm: тӧдьыузвесь
+    ug: قەلەي
+    uk: олово
+    ur: قلع
+    uz: Qalay
+    vep: Tin
+    vi: thiếc
+    vo: stanin
+    vro: Tina
+    wa: Stin
+    war: Lata
+    wuu: 锡
+    xal: Цанхорһлҗн
+    xmf: კალა
+    yi: צין
+    yo: Tánganran
+    yue: 錫
+    za: Sik
+    zh: 锡
+    zh-hans: 锡
+    zh-hant: 錫
+    zh-tw: 錫
+    zu: IsiThanambi
+  number_of_:
+    period: 5
+    group: 14
+    electrons: 50
   value_for_:
     weight_:
       u: 118.71
@@ -116,23 +454,19 @@ dv_has_:
       form_:
         kj_:
           mol: 295.8
-  number_of_:
-    period: 5
-    group: 14
-    electrons: 50
 dv_is_:
-  part_of: "[[../Group-14-Carbon]]]"
+  part_of: '[[../Group-14-Carbon]]]'
   same_as:
-    - "[[../../../WikiData/WD~Tin,1096]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]"
+  - '[[../../../WikiData/WD~Tin,1096]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]'
 dv_has_name_group: Group-14-Carbon
-dv_is_part_of: "[[../Group-14-Carbon]]]"
+dv_is_part_of: '[[../Group-14-Carbon]]]'
 dv_has_name_en: Tin
 dv_has_name_de: Zinn
 dv_has_value_for_weight_u: 118.71
@@ -151,18 +485,17 @@ dv_has_value_for_energy_form_kj_mol: 295.8
 dv_has_number_of_period: 5
 dv_has_number_of_group: 14
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Tin,1096]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]"
+- '[[../../../WikiData/WD~Tin,1096]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]'
 dv_has_name_abbreviated: Sn
 dv_has_number_of_electrons: 50
 ---
-
 # [[Tin]] 
 
 #chemic/Element 

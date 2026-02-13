@@ -1,24 +1,147 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]"
+  - '[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]"
+- '[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]'
+- '[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]'
 has_id_wikidata: Q26422
+dv_has_:
+  name_:
+    af: Salween
+    ar: نهر سالوين
+    ast: Ríu Salween
+    az: Salvin çayı
+    azb: سالوین چایی
+    ba: Салуин
+    ban: Tukad Salween
+    be: Рака Салуін
+    be-tarask: Салуін
+    bg: Салуин
+    bho: सालवीन नदी
+    blk: ခြုံꩻခြောင်
+    bn: সালউইন নদী
+    bo: རྒྱལ་མོ་རྔུལ་ཆུ།
+    br: Salouen
+    bs: Salween
+    ca: Salween
+    ceb: Salween River
+    cs: Salwin
+    cy: Afon Salawin
+    da: Salween
+    de: Saluen
+    el: Σάλουιν
+    en: Salween River
+    eo: Salŭin
+    es: río Salween
+    et: Salween
+    eu: Salween
+    fa: سالوین
+    fi: Salween
+    fr: Salouen
+    gl: Río Salween
+    he: נהר הסלווין
+    hi: सालवीन नदी
+    hif: Salween Naddi
+    hr: Salven
+    hy: Սալուին
+    id: Sungai Salween
+    it: Saluen
+    ja: サルウィン川
+    kk: Салуин
+    ko: 살윈강
+    ky: Салуин
+    la: Saluen
+    lt: Salvinas
+    lv: Salvina
+    mk: Салуен
+    ml: സാൽവീൻ നദി
+    my: သံလွင်မြစ်
+    nb: Salween
+    nl: Salween
+    os: Салуин
+    pa: ਸਲਵੀਨ ਦਰਿਆ
+    pl: Saluin
+    pt: Rio Salween
+    ru: Салуин
+    sco: Salween River
+    sh: Saluen
+    sl: Salween
+    sr: Салуен
+    sv: Salween
+    sw: Mto Salawin
+    ta: சல்வீன் ஆறு
+    tg: Дарёи Салуэн
+    th: แม่น้ำสาละวิน
+    tr: Saluen
+    uk: Салуїн
+    uz: Saluin
+    vi: Sông Thanlwin
+    war: Salog Salween
+    wuu: 萨尔温江
+    yue: 薩爾溫江
+    zh: 怒江
+aliases:
+- Afon Salawin
+- Mto Salawin
+- Rio Salween
+- río Salween
+- Ríu Salween
+- Salog Salween
+- Salouen
+- Saluen
+- Saluin
+- Salven
+- Salvin çayı
+- Salvina
+- Salvinas
+- Salween
+- Salween Naddi
+- Salween River
+- Salwin
+- Salŭin
+- Sungai Salween
+- Sông Thanlwin
+- Tukad Salween
+- Σάλουιν
+- Дарёи Салуэн
+- Рака Салуін
+- Салуін
+- Салуїн
+- Салуен
+- Салуин
+- Սալուին
+- נהר הסלווין
+- سالوین
+- سالوین چایی
+- نهر سالوين
+- सालवीन नदी
+- সালউইন নদী
+- ਸਲਵੀਨ ਦਰਿਆ
+- சல்வீன் ஆறு
+- സാൽവീൻ നദി
+- แม่น้ำสาละวิน
+- རྒྱལ་མོ་རྔུལ་ཆུ།
+- ခြုံꩻခြောင်
+- သံလွင်မြစ်
+- サルウィン川
+- 怒江
+- 萨尔温江
+- 薩爾溫江
+- 살윈강
 ---
 # [[Salween_River]] 
 

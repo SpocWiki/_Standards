@@ -1,56 +1,213 @@
 ---
 aliases:
-  - Spider
-  - Aranea
-  - Araneae
-  - Spinne
-  - Ananse
-  - Паяци
-  - Ayiyi
-  - Αράχνες
-  - Arañas
-  - hämähäkit
-  - Aranéides
-  - עכבישאים
-  - मकडी
-  - Սարդեր
-  - Ragni
-  - クモ目
-  - 거미목
-  - ပင့်ကူ
-  - Spinnen
-  - Pająki
-  - Aranhas
-  - Păianjen
-  - Пауки
-  - pajki
-  - Spindlar
-  - แมงมุม
-  - Örümcekler
-  - Spiders
-  - edderkopper
-  - pavouci
-  - damhán alla
-  - Naʼashjéʼii
+- Aasivak
+- Ananse
+- Araegne
+- araignée
+- Aranea
+- Araneae
+- Araneo
+- Araneuloj
+- aranha
+- Aranhas
+- Arani
+- aranya
+- Aranéides
+- araña
+- Arañas
+- Areye
+- armiarma
+- Awaq uru
+- Ayiyi
+- Aɣukar
+- a̱taneang
+- Babagwa
+- Baraw
+- Brimba
+- Buibui
+- Buwe
+- bàykájíwjíw
+- Bındırık
+- Caarcaaro
+- Corryn
+- Daarabaaftuu
+- Damhan-allaidh
+- damhán alla
+- Duzgyau
+- Dĭ-dṳ̆
+- Edderkop
+- edderkoppar
+- edderkopper
+- Ehepikw
+- Eiturkoppur
+- Heavdni
+- hievnie
+- Hämähoukud
+- hämähäkit
+- Härmävitäi
+- Hörümçəklər
+- kabibitak
+- Kaka
+- kemangga
+- Kevnid
+- Kevnisen
+- Kobbe
+- Korut
+- Kpatinariga
+- Kusikusi
+- Köngulær
+- laba-laba
+- labah-labah
+- lancah
+- Lawa
+- Lawah
+- lawwalawwa
+- Limpúlututú
+- Makrraa
+- Maramangâ
+- Mbũmbũĩ
+- Merimanga
+- Naʼashjéʼii
+- Naʼashjéʼii dóó Naałʼaashii
+- Nhện
+- Olọnjin
+- Oʻrgimchaklar
+- pajki
+- Pająki
+- Pauci
+- Pauk
+- pavouci
+- Pavúky
+- pipi len
+- Pêtre
+- Pîrê
+- pókok
+- Păianjen
+- pūngāwere
+- Ragn
+- Ragni
+- Ragno
+- Segokgo
+- Speeder
+- Spider
+- Spiders
+- Spindlar
+- Spinne
+- Spinnekop
+- Spinnen
+- Szpiny
+- Tau-Tau
+- Ti-tu
+- Tocatl
+- Tî-tû
+- Viritalawalawa
+- Vorai
+- Vuors
+- Walekerü
+- Webspinnen
+- Weebschpinne
+- Weevspinnen
+- Wiefspannen
+- Wääbkoonkern
+- yiyie
+- yokay
+- zirnekļi
+- Àrin·nhie
+- Ämblikulised
+- Ñandu
+- Ömüchük
+- Örümcek
+- Örümcekler
+- örümçek
+- Ātorcoppe
+- Αράχνες
+- αράχνη
+- аалз
+- Абаахай
+- Гезиг
+- Гизг
+- Жөргөмүш
+- пајаци
+- павукі
+- Павуки
+- Павукы
+- Пауки
+- пауци
+- Паяци
+- тортанак
+- Хæлуарæг
+- Хуьшрекан
+- Черань
+- чонариос
+- шанжав
+- Эрешменсем
+- эҥыремыш
+- Үрмәкселәр
+- үрмәкүчләр
+- Ӓнгӹремшӹвлӓ
+- Өрмекшілер
+- Սարդ
+- Սարդեր
+- עכבישאים
+- שפין
+- بتو
+- تورآتان
+- جاڵجاڵۆکە
+- زَلُر
+- عنكبوت
+- عنکبوت
+- غڼه
+- مکڑی
+- ڪوريئڙو
+- ܓܘܓܝ
+- ऊर्णनाभः (कीटः)
+- कोळी
+- मकड़ी
+- मकडी
+- माकुरा
+- মকৰা
+- মাকড়শা
+- ਮੱਕੜੀ
+- ବୁଢ଼ିଆଣୀ
+- சிலந்தி
+- సాలెపురుగు
+- ಜೇಡ
+- എട്ടുകാലി
+- แมงมุม
+- ပင့်ကူ
+- ၵူင်ႇၵၢဝ်
+- ბორბოლიეფი
+- ობობები
+- ሸረሪት
+- ᎧᎿᏁᏍᎩ
+- ᐋᓯᕙᖅ
+- ᡥᡝᠯᠮᡝᡥᡝᠨ
+- ᱵᱤᱱᱫᱤ
+- クモ目
+- 蜘蛛
+- 蜘蛛目
+- 蠄蟧
+- 거미
+- 거미목
 has_id_wikidata: Q1357
 Baidu_Tieba_name: 蜘蛛
 Commons_category: Araneae
 Commons_gallery: Araneae
 described_at_URL: https://neal.fun/earth-reviews/spiders
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~Spiders,1950984]]'
 EPPO_Code: 1ARANO
 has_effect:
-  - '[[_Standards/WikiData/WD~arachnophobia,220783]]'
-  - '[[_Standards/WikiData/WD~spider_bite,2549274]]'
+- '[[_Standards/WikiData/WD~arachnophobia,220783]]'
+- '[[_Standards/WikiData/WD~spider_bite,2549274]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clynotis%20severus%2C%20AF%202.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 82732
@@ -66,43 +223,266 @@ small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Aw
 start_time: -319000000-01-01
 studied_by: '[[_Standards/WikiData/WD~araneology,2859535]]'
 taxon_common_name:
-  - Ananse
-  - Паяци
-  - Ayiyi
-  - Αράχνες
-  - Arañas
-  - hämähäkit
-  - Aranéides
-  - עכבישאים
-  - मकडी
-  - Սարդեր
-  - Ragni
-  - クモ目
-  - 거미목
-  - ပင့်ကူ
-  - Spinnen
-  - Pająki
-  - Aranhas
-  - Păianjen
-  - Пауки
-  - pajki
-  - Spindlar
-  - แมงมุม
-  - Örümcekler
-  - Spiders
-  - Spinnen
-  - edderkopper
-  - pavouci
-  - damhán alla
-  - Naʼashjéʼii
+- Ananse
+- Паяци
+- Ayiyi
+- Αράχνες
+- Arañas
+- hämähäkit
+- Aranéides
+- עכבישאים
+- मकडी
+- Սարդեր
+- Ragni
+- クモ目
+- 거미목
+- ပင့်ကူ
+- Spinnen
+- Pająki
+- Aranhas
+- Păianjen
+- Пауки
+- pajki
+- Spindlar
+- แมงมุม
+- Örümcekler
+- Spiders
+- Spinnen
+- edderkopper
+- pavouci
+- damhán alla
+- Naʼashjéʼii
 taxon_name: Araneae
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Araneida,30587689]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~spider_silk,2740926]]'
 title: Spider
 UMLS_CUI: C0037913
+dv_has_:
+  name_:
+    af: Spinnekop
+    am: ሸረሪት
+    an: Araneae
+    ang: Ātorcoppe
+    ann: Olọnjin
+    ar: عنكبوت
+    arc: ܓܘܓܝ
+    ary: عنكبوت
+    arz: عنكبوت
+    as: মকৰা
+    ast: Araneae
+    atj: Ehepikw
+    ay: Kusikusi
+    az: Hörümçəklər
+    azb: تورآتان
+    ba: Үрмәкселәр
+    bar: Araneae
+    bcl: Lawa
+    be: павукі
+    be-tarask: павукі
+    bg: паяци
+    bjn: kabibitak
+    bn: মাকড়শা
+    br: Kevnid
+    bs: Pauk
+    bxr: Абаахай
+    ca: aranya
+    cdo: Dĭ-dṳ̆
+    ce: Гезиг
+    ceb: Kaka
+    chr: ᎧᎿᏁᏍᎩ
+    ckb: جاڵجاڵۆکە
+    co: Araneae
+    cr: Ehepikw
+    crh: örümçek
+    cs: pavouci
+    cv: Эрешменсем
+    cy: Corryn
+    da: Edderkop
+    dag: Kpatinariga
+    de: Webspinnen
+    de-at: Araneae
+    de-ch: Webspinnen
+    din: Aɣukar
+    diq: Bındırık
+    dtp: Korut
+    ee: yiyie
+    el: αράχνη
+    eml: Ragn
+    en: Araneae
+    en-ca: Spider
+    en-gb: spider
+    eo: Araneuloj
+    es: araña
+    et: Ämblikulised
+    eu: armiarma
+    ext: Araneae
+    fa: عنکبوت
+    fi: hämähäkit
+    fj: Viritalawalawa
+    fo: Eiturkoppur
+    fr: araignée
+    frp: Araneae
+    frr: Wääbkoonkern
+    fur: Araneae
+    ga: damhán alla
+    gd: Damhan-allaidh
+    gl: araña
+    gn: Ñandu
+    gsw: Weebschpinne
+    guc: Walekerü
+    hak: Tî-tû
+    he: עכבישאים
+    hi: मकड़ी
+    hif: Makrraa
+    hr: Pauci
+    ht: Areye
+    hu: pókok
+    hy: սարդեր
+    hyw: Սարդ
+    ia: Araneae
+    id: laba-laba
+    ie: Araneae
+    ik: Aasivak
+    ilo: lawwalawwa
+    inh: Гизг
+    io: Araneo
+    is: Köngulær
+    it: ragno
+    iu: ᐋᓯᕙᖅ
+    ja: クモ目
+    jv: kemangga
+    ka: ობობები
+    kcg: a̱taneang
+    kg: Araneae
+    ki: Mbũmbũĩ
+    kk: Өрмекшілер
+    kn: ಜೇಡ
+    knc: Tau-Tau
+    ko: 거미
+    ks: زَلُر
+    ku: Pîrê
+    kv: Черань
+    kw: Kevnisen
+    ky: Жөргөмүш
+    la: Araneae
+    lb: Wiefspannen
+    lez: Хуьшрекан
+    li: Araneae
+    lij: Araneae
+    lld: Arani
+    ln: Limpúlututú
+    lt: Vorai
+    lv: zirnekļi
+    lzh: 蜘蛛
+    mcn: bàykájíwjíw
+    mg: Araneae
+    mhr: эҥыремыш
+    mi: pūngāwere
+    min: Lawah
+    mk: пајаци
+    ml: എട്ടുകാലി
+    mn: аалз
+    mnc: ᡥᡝᠯᠮᡝᡥᡝᠨ
+    mr: कोळी
+    mrj: Ӓнгӹремшӹвлӓ
+    ms: labah-labah
+    mt: Brimba
+    mul: Araneae
+    my: ပင့်ကူ
+    myv: шанжав
+    mzn: بتو
+    nah: Tocatl
+    nan: Ti-tu
+    nap: Araneae
+    nb: edderkopper
+    nds: Weevspinnen
+    nds-nl: Araneae
+    ne: माकुरा
+    nl: spinnen
+    nn: edderkoppar
+    nrm: Pêtre
+    nv: Naʼashjéʼii dóó Naałʼaashii
+    nys: Araneae
+    oc: Araneae
+    olo: Hämähäkit
+    om: Daarabaaftuu
+    or: ବୁଢ଼ିଆଣୀ
+    os: Хæлуарæг
+    pa: ਮੱਕੜੀ
+    pam: Babagwa
+    pcd: Àrin·nhie
+    pl: pająki
+    pms: Araneae
+    pnb: مکڑی
+    ps: غڼه
+    pt: aranha
+    pt-br: Aranha
+    qu: Awaq uru
+    rm: Araneae
+    ro: Păianjen
+    ru: пауки
+    rue: Павукы
+    rup: Maramangâ
+    sa: ऊर्णनाभः (कीटः)
+    sat: ᱵᱤᱱᱫᱤ
+    sc: Araneae
+    scn: Araneae
+    sco: Speeder
+    sd: ڪوريئڙو
+    se: Heavdni
+    sgs: Vuors
+    sh: Pauci
+    shn: ၵူင်ႇၵၢဝ်
+    sk: Pavúky
+    sl: pajki
+    sma: hievnie
+    sn: Buwe
+    so: Caarcaaro
+    sq: Merimanga
+    sr: пауци
+    su: lancah
+    sv: spindlar
+    sw: Buibui
+    szl: Szpiny
+    ta: சிலந்தி
+    tay: yokay
+    te: సాలెపురుగు
+    tg: тортанак
+    th: แมงมุม
+    tl: Araneae
+    tn: Segokgo
+    tok: pipi len
+    tr: Örümcek
+    tt: үрмәкүчләр
+    tt-cyrl: үрмәкүчләр
+    tw: ananse
+    udm: чонариос
+    ug: Ömüchük
+    uk: Павуки
+    ur: مکڑی
+    uz: Oʻrgimchaklar
+    vec: Ragno
+    vep: Hämähoukud
+    vi: Nhện
+    vls: Kobbe
+    vo: Araneae
+    vro: Härmävitäi
+    wa: Araegne
+    war: Baraw
+    wo: Araneae
+    wuu: 蜘蛛
+    xmf: ბორბოლიეფი
+    yi: שפין
+    yue: 蠄蟧
+    za: Duzgyau
+    zh: 蜘蛛目
+    zh-cn: 蜘蛛目
+    zh-hans: 蜘蛛目
+    zh-hant: 蜘蛛
+    zh-tw: 蜘蛛目
+    zu: Araneae
 ---
-
 # [[Spider]] 
 
 ![Latrodectus_mactans](Spider/Latrodectus_mactans.jpg) ![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg)  

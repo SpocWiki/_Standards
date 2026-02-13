@@ -1,8 +1,78 @@
 ---
 has_id_wikidata: Q173431
+dv_has_:
+  name_:
+    ar: سيموس
+    az: CMOS
+    be: КМАП
+    be-tarask: КМАП
+    bg: CMOS
+    bn: সিমস
+    bs: CMOS
+    ca: CMOS
+    cs: CMOS
+    de: Complementary Metal Oxide Semiconductor
+    en: CMOS
+    eo: komplementa metaloksida duonkonduktanto
+    es: Complementary metal oxide semiconductor
+    et: CMOS
+    eu: CMOS
+    fa: سیماس
+    fi: CMOS
+    fr: complementary metal oxide semi-conductor
+    he: CMOS
+    hi: सीएमओएस
+    hr: CMOS
+    hu: CMOS
+    id: CMOS
+    it: CMOS
+    ja: CMOS
+    kn: ಸಿ ಎಮ್ ಒ ಎಸ್
+    ko: CMOS
+    ml: സി.എം.ഓ.എസ്.
+    nan: CMOS
+    nb: CMOS
+    nl: CMOS
+    nn: CMOS
+    pl: CMOS
+    pt: CMOS
+    pt-br: CMOS
+    ro: Semiconductor metal-oxid complementar
+    ru: КМОП
+    sh: CMOS
+    sk: Complementary Metal Oxide Semiconductor
+    sl: CMOS
+    sr: CMOS
+    sv: CMOS
+    ta: துணை உலோக ஆக்சைடு குறைகடத்தி
+    te: cmos
+    tr: CMOS
+    uk: КМОН
+    ur: تکمیلی فلزی اکسید نیم موصل
+    vi: CMOS
+    wuu: 互补式金属氧化物半导体
+    zh: CMOS
+    zh-hant: 互補金屬氧化物半導體隨機存儲器
+aliases:
+- CMOS
+- complementary metal oxide semi-conductor
+- Complementary Metal Oxide Semiconductor
+- komplementa metaloksida duonkonduktanto
+- Semiconductor metal-oxid complementar
+- КМАП
+- КМОН
+- КМОП
+- تکمیلی فلزی اکسید نیم موصل
+- سيموس
+- سیماس
+- सीएमओएस
+- সিমস
+- துணை உலோக ஆக்சைடு குறைகடத்தி
+- ಸಿ ಎಮ್ ಒ ಎಸ್
+- സി.എം.ഓ.എസ്.
+- 互补式金属氧化物半导体
+- 互補金屬氧化物半導體隨機存儲器
 ---
-
-
 # [[CMOS]] 
 
 #has_/previous_/item :: [[TTL(Transistor–Transistor_Logic)]] 

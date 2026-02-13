@@ -1,10 +1,87 @@
 ---
 aliases:
-  - Alveolates
-  - Alveolate
-  - Alveolata
+- ailbheolach
+- Alveolaadid
+- Alveolados
+- Alveolat
+- Alveolata
+- Alveolatae
+- Alveolate
+- Alveolater
+- Alveolates
+- alveolati
+- alveolatriket
+- Alveolbiontlar
+- Alveoluloj
+- alweolaty
+- алвеолати
+- Альвеолобіонти
+- альвеоляты
+- אלוואולטה
+- حبابچهداران
+- طلائعيات سناخية
+- طلائعيات سناخيه
+- এল্ভিয়োলাটা
+- アルベオラータ
+- 囊泡虫类
+- 알베올라타
 title: Alveolates
 has_id_wikidata: Q448746
+dv_has_:
+  name_:
+    ar: طلائعيات سناخية
+    arz: طلائعيات سناخيه
+    ast: Alveolata
+    az: Alveolbiontlar
+    bg: алвеолати
+    bn: এল্ভিয়োলাটা
+    bs: Alveolata
+    ca: Alveolat
+    ceb: Alveolata
+    cs: Alveolata
+    de: Alveolata
+    en: Alveolate
+    en-us: Alveolate
+    eo: Alveoluloj
+    es: Alveolata
+    et: Alveolaadid
+    fa: حبابچهداران
+    fi: Alveolata
+    fr: Alveolata
+    ga: ailbheolach
+    gl: Alveolados
+    ha: Alveolate
+    he: אלוואולטה
+    hr: Alveolata
+    hu: Alveolata
+    ia: Alveolata
+    id: Alveolata
+    it: Alveolata
+    ja: アルベオラータ
+    jv: Alveolata
+    ko: 알베올라타
+    la: Alveolata
+    mul: Alveolata
+    nb: Alveolata
+    nl: Alveolatae
+    nn: alveolatriket
+    pcm: Alveolate
+    pl: alweolaty
+    pt: Alveolata
+    ro: Alveolata
+    ru: альвеоляты
+    sl: alveolati
+    sq: Alveolata
+    sr: Alveolata
+    sv: Alveolater
+    tl: Alveolate
+    tr: Alveolata
+    uk: Альвеолобіонти
+    vi: Alveolata
+    war: Alveolata
+    zh: 囊泡虫类
+    zh-cn: 囊泡虫类
+    zh-hans: 囊泡虫类
 ---
 # [[Alveolate]] 
 

@@ -1,42 +1,76 @@
 ---
 aliases:
-  - Hexapoda
-  - hexápodos
-  - Sechsfüßer
-  - سداسيات الأرجل
-  - Altıayaqlılar
-  - Шасціногія
-  - Шесткраки
-  - Hexàpodes
-  - šestinozí
-  - Εξάποδα
-  - hexapods
-  - Kuusijalkaiset
-  - Hexapodes
-  - Sechsfießer
-  - Hatlábúak
-  - Artikopodo
-  - Sexfætlur
-  - Esapodi
-  - 六脚亜門 (ろっきゃくあもん)
-  - 육각아문(六脚亞門)
-  - Шестоноги
-  - Sessfööt
-  - Zespotigen
-  - Seksfotingar
-  - Sześcionogi
-  - Hexápodes
-  - Шестиногие
-  - šesteronožni členonožci
-  - அறுகாலி (arukaali)
-  - Altı bacaklılar
-  - Loài sáu chân
-  - 六足亞門
+- Altı bacaklılar
+- Altıayaqlılar
+- Artikopodo
+- Esapodi
+- Esapudi
+- Hatlábúak
+- Heksapoda
+- heksapodi
+- Heksapodoj
+- Hexapoda
+- Hexapodes
+- hexapods
+- Hexàpodes
+- Hexápodes
+- hexápodos
+- kuuejalgsed
+- Kuusijalkaiset
+- kuuđâjuálgásiih
+- Loài sáu chân
+- Miiljahee (Heksaapoodaa)
+- Mymba ipy poteĩ
+- Sechsfießer
+- Sechsfüsser
+- Sechsfüßer
+- Seksbenede leddyr
+- Seksfotingar
+- Sessfööt
+- sexfotingar
+- Sexfætlur
+- Seškāji
+- Sześcionogi
+- Zespotigen
+- šesteronožni členonožci
+- šestinozí
+- Šešiakojai
+- Εξάποδα
+- алтыаяклылар
+- котопильгень
+- Хеxапода
+- Шасціногія
+- шасьціногія
+- шестиногі
+- Шестиногие
+- Шесткраки
+- шестноги
+- шестокраки
+- Шестоноги
+- վեցոտանիներ
+- שש-רגלים
+- آلتی باجاکلیلار
+- سداسيات الأرجل
+- سداسيات الارجل
+- ششپایان
+- شپږ پښې لرونکی ژوي
+- ھيڪساپوڊا
+- षटपाद
+- হেক্সাপোডা
+- அறுகாலி
+- அறுகாலி (arukaali)
+- ഷഡ്പദം
+- 六脚亜門 (ろっきゃくあもん)
+- 六脚類
+- 六足亚门
+- 六足亞門
+- 육각류
+- 육각아문(六脚亞門)
 has_id_wikidata: Q105146
 title: Hexapoda
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 parent_taxon: '[[_Standards/WikiData/WD~Allotriocarida,81196012]]'
 start_time: -440000000-06
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -45,46 +79,150 @@ Commons_category: Hexapoda
 taxon_name: Hexapoda
 ITIS_TSN: 563886
 taxon_common_name:
-  - hexápodos
-  - Sechsfüßer
-  - سداسيات الأرجل
-  - Altıayaqlılar
-  - Шасціногія
-  - Шесткраки
-  - Hexàpodes
-  - šestinozí
-  - Εξάποδα
-  - hexapods
-  - Kuusijalkaiset
-  - Hexapodes
-  - Sechsfießer
-  - Hatlábúak
-  - Artikopodo
-  - Sexfætlur
-  - Esapodi
-  - 六脚亜門 (ろっきゃくあもん)
-  - 육각아문(六脚亞門)
-  - Шестоноги
-  - Sessfööt
-  - Zespotigen
-  - Seksfotingar
-  - Sześcionogi
-  - Hexápodes
-  - Шестиногие
-  - šesteronožni členonožci
-  - அறுகாலி (arukaali)
-  - Altı bacaklılar
-  - Loài sáu chân
-  - 六足亞門
+- hexápodos
+- Sechsfüßer
+- سداسيات الأرجل
+- Altıayaqlılar
+- Шасціногія
+- Шесткраки
+- Hexàpodes
+- šestinozí
+- Εξάποδα
+- hexapods
+- Kuusijalkaiset
+- Hexapodes
+- Sechsfießer
+- Hatlábúak
+- Artikopodo
+- Sexfætlur
+- Esapodi
+- 六脚亜門 (ろっきゃくあもん)
+- 육각아문(六脚亞門)
+- Шестоноги
+- Sessfööt
+- Zespotigen
+- Seksfotingar
+- Sześcionogi
+- Hexápodes
+- Шестиногие
+- šesteronožni členonožci
+- அறுகாலி (arukaali)
+- Altı bacaklılar
+- Loài sáu chân
+- 六足亞門
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20Entognatha.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Common%20blue%20damselfly02.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diptera%2001gg.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Common%20blue%20damselfly02.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Diptera%2001gg.jpg
 IPA_transcription: ˈhɛksəˈpɑdə
 EPPO_Code: 1HEXAQ
 NBN_System_Key: NHMSYS0020191879
+dv_has_:
+  name_:
+    af: Hexapoda
+    an: Hexapoda
+    ar: سداسيات الأرجل
+    arz: سداسيات الارجل
+    ast: Hexapoda
+    az: Altıayaqlılar
+    azb: آلتی باجاکلیلار
+    be: шасціногія
+    be-tarask: шасьціногія
+    bg: шестокраки
+    bn: হেক্সাপোডা
+    br: Hexapoda
+    ca: hexàpodes
+    ceb: Hexapoda
+    co: Hexapoda
+    cs: šestinozí
+    da: Seksbenede leddyr
+    de: Sechsfüßer
+    de-ch: Sechsfüsser
+    el: Εξάποδα
+    en: Hexapoda
+    eo: Heksapodoj
+    es: Hexapoda
+    et: kuuejalgsed
+    eu: Hexapoda
+    ext: Hexapoda
+    fa: ششپایان
+    fi: kuusijalkaiset
+    fr: Hexapoda
+    ga: Hexapoda
+    gl: Hexápodos
+    gn: Mymba ipy poteĩ
+    gsw: Sechsfießer
+    he: שש-רגלים
+    hi: षटपाद
+    hr: heksapodi
+    hu: hatlábúak
+    hy: վեցոտանիներ
+    ia: Hexapoda
+    id: Heksapoda
+    ie: Hexapoda
+    io: Artikopodo
+    is: Sexfætlur
+    it: Hexapoda
+    ja: 六脚類
+    ko: 육각류
+    kw: Hexapoda
+    la: Hexapoda
+    lad: Hexapoda
+    li: Hexapoda
+    lmo: Hexapoda
+    lt: Šešiakojai
+    lv: Seškāji
+    mk: шестноги
+    ml: ഷഡ്പദം
+    ms: Heksapoda
+    mul: Hexapoda
+    myv: котопильгень
+    nb: Hexapoda
+    nds: Sessfööt
+    nl: zespotigen
+    nn: Seksfotingar
+    nov: Hexapoda
+    nrm: Hexapoda
+    oc: Hexapoda
+    om: Miiljahee (Heksaapoodaa)
+    pl: sześcionogi
+    ps: شپږ پښې لرونکی ژوي
+    pt: Hexapoda
+    pt-br: Hexapoda
+    rm: Hexapoda
+    ro: Hexapoda
+    ru: шестиногие
+    rup: Hexapoda
+    scn: Esapudi
+    sco: Hexapoda
+    sd: ھيڪساپوڊا
+    sh: Hexapoda
+    sk: Hexapoda
+    sl: šesteronožni členonožci
+    smn: kuuđâjuálgásiih
+    sq: Hexapoda
+    sr: Hexapoda
+    sr-ec: Хеxапода
+    sr-el: Hexapoda
+    sv: sexfotingar
+    ta: அறுகாலி
+    tl: Hexapoda
+    tr: Altı bacaklılar
+    tt: алтыаяклылар
+    uk: шестиногі
+    vi: Hexapoda
+    vo: Hexapoda
+    war: Hexapoda
+    wuu: 六足亚门
+    yue: 六足亞門
+    zh: 六足亞門
+    zh-cn: 六足亚门
+    zh-hans: 六足亚门
+    zh-hant: 六足亞門
+    zh-hk: 六足亞門
+    zh-sg: 六足亚门
+    zh-tw: 六足亞門
 ---
-
 # [[Hexapoda]] 
 
 Insects, springtails, diplurans, and proturans 

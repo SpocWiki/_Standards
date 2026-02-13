@@ -1,11 +1,91 @@
 ---
 aliases:
-  - one-party state
-  - single-party state
-  - one-party system
-  - single-party system
-  - Single-Party_System
-  - Single-Party System
+- aty ojoikuaikuaáva peteĩnte
+- eenpartijstelsel
+- einflokkaríki
+- Einparteiensystem
+- Einpertiesjtaot
+- Eittpartistat
+- enostrankarski sistem
+- enpartisystem
+- etpartistat
+- ettpartistat
+- flokksræði
+- it-tóng-chè
+- jednopartijska država
+- jednostranački sustav
+- lingómbá-lɛ́ta
+- mfumo wa chama kimoja
+- monopartidismo
+- monopartitism
+- monopartitismo
+- negara satu parti
+- nhà nước đơn đảng
+- one party system
+- one-party state
+- one-party system
+- parti unique
+- partid unic
+- Partit unic
+- pártállam
+- Shteti njëpartiak
+- single-party state
+- single-party system
+- Single-Party_System
+- sistem satu-partai
+- sistema unipartidista
+- sit balpaletik
+- stranícka diktatúra
+- stát aonpháirtí (polaitíocht)
+- system jednopartyjny
+- systema monocommaticum
+- sîstema yekpartiyî
+- tek parti rejimi
+- təkpartiyalı sistem
+- unipartidarismo
+- unipartidismo
+- unipartidismu
+- unupartiismo
+- vienpartijas sistēma
+- vienpartinė sistema
+- vláda jedné strany
+- wehenga pāti-kotahi
+- yksipuoluejärjestelmä
+- üheparteisüsteem
+- μονοκομματικό πολιτικό σύστημα
+- једнопартијска држава
+- аднапартыйная сістэма
+- аднапартыйная сыстэма
+- бірпартиялық жүйе
+- бер партияле система
+- еднопартийна система
+- еднопартиска држава
+- однопартійна система
+- однопартийная система
+- партиак иатәу асистема
+- միակուսակցական համակարգ
+- משטר חד-מפלגתי
+- تکحزبي نيظام
+- نظام الحزب الواحد
+- نظام تکحزبی
+- يو گونديز حکومت
+- ڕژێمی تاک حیزبی
+- ھڪ جماعتي رياست
+- یک جماعت ریاست
+- एक दलीय राज्य
+- एकल पार्टी राज्य
+- একদলীয় রাষ্ট্র
+- ਇਕ-ਪਾਰਟੀ ਰਿਆਸਤ
+- ඒක පක්ෂ ක්රමය
+- รัฐพรรคการเมืองเดียว
+- ລັດພັກດຽວ
+- တစ်ပါတီစနစ်
+- ართპარტიული სახენწჷფო
+- ერთპარტიული სახელმწიფო
+- 一党制
+- 一黨制
+- 一黨專政
+- 일당제
 has_id_wikidata: Q50686
 instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 different_from: '[[_Standards/WikiData/WD~One_party_government_(democracy),10484375]]'
@@ -13,8 +93,100 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~single_party_system,1845029
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~single_party_system,18450296]]'
 subclass_of: '[[_Standards/WikiData/WD~political_system,28108]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/18th%20National%20Congress%20of%20the%20Communist%20Party%20of%20China.jpg
+dv_has_:
+  name_:
+    ab: партиак иатәу асистема
+    ar: نظام الحزب الواحد
+    arz: نظام الحزب الواحد
+    ast: unipartidismu
+    az: təkpartiyalı sistem
+    be: аднапартыйная сістэма
+    be-tarask: аднапартыйная сыстэма
+    bg: еднопартийна система
+    bn: একদলীয় রাষ্ট্র
+    bs: jednopartijska država
+    ca: sistema unipartidista
+    ckb: ڕژێمی تاک حیزبی
+    cs: vláda jedné strany
+    da: etpartistat
+    de: Einparteiensystem
+    el: μονοκομματικό πολιτικό σύστημα
+    en: one-party state
+    en-ca: single-party state
+    en-gb: single-party state
+    eo: unupartiismo
+    es: unipartidismo
+    et: üheparteisüsteem
+    eu: unipartidismo
+    fa: نظام تکحزبی
+    fi: yksipuoluejärjestelmä
+    fo: einflokkaríki
+    fr: parti unique
+    ga: stát aonpháirtí (polaitíocht)
+    gl: unipartidismo
+    glk: تکحزبي نيظام
+    gn: aty ojoikuaikuaáva peteĩnte
+    he: משטר חד-מפלגתי
+    hi: एकल पार्टी राज्य
+    hr: jednostranački sustav
+    hu: pártállam
+    hy: միակուսակցական համակարգ
+    id: sistem satu-partai
+    is: flokksræði
+    it: monopartitismo
+    ja: 一党制
+    ka: ერთპარტიული სახელმწიფო
+    kk: бірпартиялық жүйе
+    ko: 일당제
+    ku: sîstema yekpartiyî
+    la: systema monocommaticum
+    li: Einpertiesjtaot
+    lmo: monopartitism
+    ln: lingómbá-lɛ́ta
+    lo: ລັດພັກດຽວ
+    lt: vienpartinė sistema
+    lv: vienpartijas sistēma
+    mi: wehenga pāti-kotahi
+    mk: еднопартиска држава
+    ms: negara satu parti
+    my: တစ်ပါတီစနစ်
+    nan: it-tóng-chè
+    nb: ettpartistat
+    ne: एक दलीय राज्य
+    nl: eenpartijstelsel
+    nn: Eittpartistat
+    oc: Partit unic
+    pa: ਇਕ-ਪਾਰਟੀ ਰਿਆਸਤ
+    pl: system jednopartyjny
+    ps: يو گونديز حکومت
+    pt: unipartidarismo
+    pt-br: unipartidarismo
+    ro: partid unic
+    ru: однопартийная система
+    sd: ھڪ جماعتي رياست
+    sh: jednopartijska država
+    si: ඒක පක්ෂ ක්රමය
+    sk: stranícka diktatúra
+    sl: enostrankarski sistem
+    sq: Shteti njëpartiak
+    sr: једнопартијска држава
+    sv: enpartisystem
+    sw: mfumo wa chama kimoja
+    th: รัฐพรรคการเมืองเดียว
+    tl: one party system
+    tr: tek parti rejimi
+    tt: бер партияле система
+    uk: однопартійна система
+    ur: یک جماعت ریاست
+    vec: monopartidismo
+    vi: nhà nước đơn đảng
+    vo: sit balpaletik
+    wuu: 一党制
+    xmf: ართპარტიული სახენწჷფო
+    yue: 一黨專政
+    zh: 一党制
+    zh-hk: 一黨制
 ---
-
 # [[Single-Party_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Single-party_system,50686|WD~Single-party_system,50686]]  

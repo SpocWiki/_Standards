@@ -1,8 +1,119 @@
 ---
 has_id_wikidata: Q47670
+dv_has_:
+  name_:
+    af: Black Sabbath
+    ar: بلاك سابث
+    arz: بلاك سابث
+    ast: Black Sabbath
+    az: Black Sabbath
+    azb: بلک سبث
+    ban: Black Sabbath
+    be: Black Sabbath
+    be-tarask: Black Sabbath
+    bg: Блек Сабат
+    bn: ব্ল্যাক সাবাথ
+    bs: Black Sabbath
+    ca: Black Sabbath
+    cs: Black Sabbath
+    cy: Black Sabbath
+    da: Black Sabbath
+    de: Black Sabbath
+    el: Black Sabbath
+    eml: Black Sabbath
+    en: Black Sabbath
+    en-ca: Black Sabbath
+    en-gb: Black Sabbath
+    eo: Black Sabbath
+    es: Black Sabbath
+    et: Black Sabbath
+    eu: Black Sabbath
+    fa: بلک سبث
+    fi: Black Sabbath
+    fr: Black Sabbath
+    ga: Black Sabbath
+    gl: Black Sabbath
+    glk: سيا شنبه
+    gu: બ્લેક સબાથ
+    he: בלאק סאבת'
+    hi: ब्लैक सब्बाथ
+    hr: Black Sabbath
+    hu: Black Sabbath
+    hy: Բլեք Սաբաթ
+    hyw: Պլեք Սապըթ
+    id: Black Sabbath
+    io: Black Sabbath
+    is: Black Sabbath
+    it: Black Sabbath
+    ja: ブラック・サバス
+    jv: Black Sabbath
+    ka: ბლექ საბათი
+    kk: Black Sabbath
+    kn: ಬ್ಲ್ಯಾಕ್ ಸಬ್ಬತ್
+    ko: 블랙 사바스
+    la: Black Sabbath
+    lb: Black Sabbath
+    lt: Black Sabbath
+    ltg: Black Sabbath
+    lv: Black Sabbath
+    mg: Black Sabbath
+    mk: Black Sabbath
+    ms: Black Sabbath
+    mul: Black Sabbath
+    nb: Black Sabbath
+    nl: Black Sabbath
+    nn: Black Sabbath
+    oc: Black Sabbath
+    pl: Black Sabbath
+    pt: Black Sabbath
+    pt-br: Black Sabbath
+    ro: Black Sabbath
+    ru: Black Sabbath
+    sc: Black Sabbath
+    scn: Black Sabbath
+    sco: Black Sabbath
+    sh: Black Sabbath
+    sk: Black Sabbath
+    sl: Black Sabbath
+    sq: Black Sabbath
+    sr: Блек сабат
+    sv: Black Sabbath
+    szl: Black Sabbath
+    ta: பிளாக் சாபத்
+    te: బ్లాక్ సబ్బాత్
+    th: แบล็กแซ็บบาธ
+    tr: Black Sabbath
+    uk: Black Sabbath
+    ur: بلیک سباتھ
+    uz: Black Sabbath
+    vi: Black Sabbath
+    wa: Black Sabbath
+    war: Black Sabbath
+    wuu: 黑色安息日
+    yue: 黑色安息日
+    zh: 黑色安息日
+aliases:
+- Black Sabbath
+- Блек Сабат
+- Բլեք Սաբաթ
+- Պլեք Սապըթ
+- בלאק סאבת'
+- بلاك سابث
+- بلک سبث
+- بلیک سباتھ
+- سيا شنبه
+- ब्लैक सब्बाथ
+- ব্ল্যাক সাবাথ
+- બ્લેક સબાથ
+- பிளாக் சாபத்
+- బ్లాక్ సబ్బాత్
+- ಬ್ಲ್ಯಾಕ್ ಸಬ್ಬತ್
+- แบล็กแซ็บบาธ
+- ბლექ საბათი
+- ブラック・サバス
+- 黑色安息日
+- 블랙 사바스
 ---
-
-
 # [[Black_Sabbath]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Black_Sabbath,47670|WD~Black_Sabbath,47670]] 

@@ -1,48 +1,125 @@
 ---
 aliases:
-  - public-swimming-pool
-  - public_swimming_pool
-  - PublicSwimmingPool
-  - is_a_public_swimming_pool
-  - swimming pool, swimming bath, wading pool, paddling pool, or simply pool
-  - Swimming_Pool
-  - Swimming Pool
+- amar-snàmh
+- asnawge
+- banejo
+- bangnérêsse
+- Banjë noti
+- Barkadda dabaasha
+- baseinas
+- bazen
+- dziva rokushambira
+- havuz
+- hewz
+- hovuz
+- hồ bơi
+- igerileku
+- is_a_public_swimming_pool
+- Iû-éng-tî
+- kolam renang
+- linn snámha
+- peldbaseins
+- pescina
+- piscina
+- piscine
+- plavalni bazen
+- plavecký bazén
+- poull-neuial
+- public-swimming-pool
+- PublicSwimmingPool
+- public_swimming_pool
+- pwll nofio
+- pływalnia
+- Rijiyar wanka
+- Schwimmbecken
+- Schwämm
+- simbassäng
+- sundlaug
+- Suzish havzasi
+- svømmebasseng
+- svømmebassin
+- swembad
+- Swimbad
+- Swimming Pool
+- swimming pool, swimming bath, wading pool, paddling pool, or simply pool
+- Swimming_Pool
+- tavan
+- uima-allas
+- uinduallikko
+- ujumisbassein
+- vuoijâmääldis
+- vuojadanálddis
+- vuõjjâmkäivv
+- zwembad
+- zwömbad
+- úszómedence
+- πισίνα
+- базен
+- плавальний басейн
+- плавальны басейн
+- плавальны басэйн
+- плаварня
+- плавательный бассейн
+- плувен басейн
+- ավազան
+- בריכת שחייה
+- שווים באסיין
+- استخر
+- تیرتال
+- حەوزی مەلەکردن
+- مسبح
+- پيسين
+- जलतरण तलाव
+- तरण ताल
+- स्वीमिङ्ग पुल
+- সুইমিং পুল
+- நீச்சற் குளம்
+- ఈత కొలను
+- നീന്തൽക്കുളം
+- สระว่ายน้ำ
+- ရေကူးကန်
+- ၼွင်လုၺ်းၼမ်ႉ
+- ᱯᱟᱭᱨᱟ ᱯᱩᱠᱷᱨᱤ
+- プール
+- 游水池
+- 游泳池
+- 수영장
 has_id_wikidata: Q1501
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - public_swimming_pool
+- public_swimming_pool
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_public_swimming_pool Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_public_swimming_pool Class
 type: Type
 associated_hazard:
-  - '[[_Standards/WikiData/WD~drowning,506616]]'
-  - '[[_Standards/WikiData/WD~bathing_death,15785099]]'
-  - '[[_Standards/WikiData/WD~slip,_trip,_fall,95693871]]'
+- '[[_Standards/WikiData/WD~drowning,506616]]'
+- '[[_Standards/WikiData/WD~bathing_death,15785099]]'
+- '[[_Standards/WikiData/WD~slip,_trip,_fall,95693871]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Swimming_Pools_(Drank),958595]]'
-  - '[[_Standards/WikiData/WD~open_water,2479431]]'
-  - '[[_Standards/WikiData/WD~Natatorium,2744619]]'
-  - '[[_Standards/WikiData/WD~alberca,110164525]]'
+- '[[_Standards/WikiData/WD~Swimming_Pools_(Drank),958595]]'
+- '[[_Standards/WikiData/WD~open_water,2479431]]'
+- '[[_Standards/WikiData/WD~Natatorium,2744619]]'
+- '[[_Standards/WikiData/WD~alberca,110164525]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~sports_venue,1076486]]'
-  - '[[_Standards/WikiData/WD~swimming_facility,12004466]]'
-  - '[[_Standards/WikiData/WD~pool_&_spa_product,117208189]]'
+- '[[_Standards/WikiData/WD~sports_venue,1076486]]'
+- '[[_Standards/WikiData/WD~swimming_facility,12004466]]'
+- '[[_Standards/WikiData/WD~pool_&_spa_product,117208189]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_swimming_pool,20367641]]'
 instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 used_by: '[[_Standards/WikiData/WD~competitive_swimming,31920]]'
@@ -66,8 +143,113 @@ Commons_category: Swimming pools
 OpenStreetMap_key: swimming_pool
 OpenStreetMap_tag: leisure=swimming_pool
 Dewey_Decimal_Classification: 797.2
+dv_has_:
+  name_:
+    af: swembad
+    an: piscina
+    ar: مسبح
+    ary: پيسين
+    ast: piscina
+    az: hovuz
+    be: плавальны басейн
+    be-tarask: плавальны басэйн
+    bg: плувен басейн
+    bn: সুইমিং পুল
+    br: poull-neuial
+    ca: piscina
+    ckb: حەوزی مەلەکردن
+    cs: plavecký bazén
+    cy: pwll nofio
+    da: svømmebassin
+    de: Schwimmbecken
+    de-ch: Schwimmbecken
+    diq: asnawge
+    el: πισίνα
+    en: swimming pool
+    en-ca: swimming pool
+    en-gb: swimming pool
+    eo: banejo
+    es: piscina
+    et: ujumisbassein
+    eu: igerileku
+    fa: استخر
+    fi: uima-allas
+    fr: piscine
+    fy: Swimbad
+    ga: linn snámha
+    gan-hant: 游泳池
+    gd: amar-snàmh
+    gl: piscina
+    ha: Rijiyar wanka
+    he: בריכת שחייה
+    hi: तरण ताल
+    hr: bazen
+    hu: úszómedence
+    hy: ավազան
+    ia: piscina
+    id: kolam renang
+    is: sundlaug
+    it: piscina
+    ja: プール
+    ko: 수영장
+    ku: hewz
+    la: piscina
+    lb: Schwämm
+    lt: baseinas
+    lv: peldbaseins
+    mk: базен
+    ml: നീന്തൽക്കുളം
+    mr: जलतरण तलाव
+    ms: kolam renang
+    my: ရေကူးကန်
+    nan: Iû-éng-tî
+    nap: pescina
+    nb: svømmebasseng
+    nds-nl: zwömbad
+    ne: स्वीमिङ्ग पुल
+    nl: zwembad
+    nrm: bangnérêsse
+    oc: piscina
+    olo: uinduallikko
+    pl: pływalnia
+    pnb: تیرتال
+    pt: piscina
+    pt-br: piscina
+    ro: tavan
+    ru: плавательный бассейн
+    rue: плаварня
+    sat: ᱯᱟᱭᱨᱟ ᱯᱩᱠᱷᱨᱤ
+    scn: piscina
+    se: vuojadanálddis
+    sh: bazen
+    shn: ၼွင်လုၺ်းၼမ်ႉ
+    sk: plavecký bazén
+    sl: plavalni bazen
+    smn: vuoijâmääldis
+    sms: vuõjjâmkäivv
+    sn: dziva rokushambira
+    so: Barkadda dabaasha
+    sq: Banjë noti
+    sr: базен
+    sv: simbassäng
+    ta: நீச்சற் குளம்
+    te: ఈత కొలను
+    th: สระว่ายน้ำ
+    tr: havuz
+    uk: плавальний басейн
+    ur: تیرتال
+    uz: Suzish havzasi
+    vi: hồ bơi
+    wuu: 游泳池
+    yi: שווים באסיין
+    yue: 游水池
+    zh: 游泳池
+    zh-cn: 游泳池
+    zh-hans: 游泳池
+    zh-hant: 游泳池
+    zh-hk: 游泳池
+    zh-tw: 游泳池
 ---
-
 # [[Swimming_Pool]] 
 
 Class of all (public) swimming_pools.

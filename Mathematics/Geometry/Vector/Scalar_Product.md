@@ -1,31 +1,191 @@
 ---
 aliases:
-  - dot product
-  - scalar product
-  - inner product
-  - projection product
-  - Scalar_Product
-  - Scalar Product
+- Biderketa eskalar
+- dot product
+- Hasil darab bintik
+- Iloczyn skalarny
+- Indreprodukt
+- inner product
+- inwendig product
+- Nokta çarpım
+- pistetulo
+- prodhimi skalar
+- Prodot ëscalar
+- prodotto scalare
+- producte escalar
+- producto escalar
+- Productu esguilar
+- Productum interius
+- produit scalaire
+- Produk skalar
+- Produktong tuldok
+- produs scalar
+- Produto escalar
+- projection product
+- scalar product
+- Scalar_Product
+- Skalaarkorrutis
+- skalara produto
+- skalarni produkt
+- Skalarni proizvod
+- Skalarni proizvod vektora
+- Skalarni umnožak
+- Skalarprodukt
+- skaliarinė sandauga
+- Skalyar hasil
+- Skalyar koʻpaytmasi
+- Skalyar köbeýtindi
+- skaláris szorzat
+- Skalárny súčin
+- skalární součin
+- Skalärprodukt
+- Skalārais reizinājums
+- Tích vô hướng
+- εσωτερικό γινόμενο
+- здабытак скалярны
+- скаларен производ
+- скаларни производ вектора
+- Скаларно произведение
+- Скаляр көбейтінді
+- Скаляр тапкырчыгыш
+- Скаляр ҡабатландыҡ
+- Скалярла хутлав
+- скалярний добуток
+- скалярное произведение
+- скалярны здабытак
+- Սկալյար արտադրյալ
+- מכפלה סקלרית
+- سكاليار كوبەيتىندى
+- ضرب داخلی
+- ضرب نقطي
+- لێکدانی ناوەکی
+- अदिश गुणनफल
+- डाँट उत्पाद्
+- बिंदू गुणाकार
+- बिन्दु आहति
+- ডট গুণন
+- புள்ளிப் பெருக்கல்
+- ಡಾಟ್ ಉತ್ಪನ್ನ
+- ผลคูณจุด
+- სკალარული ნამრავლი
+- ጥላ ብዜት
+- ドット積
+- 內積
+- 数量积
+- 스칼라곱
 has_id_wikidata: Q181365
 subclass_of:
-  - "[[_Standards/WikiData/WD~binary_operation,164307]]"
-  - "[[_Standards/WikiData/WD~inner_product,23924662]]"
-  - "[[_Standards/WikiData/WD~vector_multiplication,56457918]]"
-different_from: "[[_Standards/WikiData/WD~inner_product_space,214159]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow><mo stretchy="false">=</mo><munder><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></munder><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
+- '[[_Standards/WikiData/WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~inner_product,23924662]]'
+- '[[_Standards/WikiData/WD~vector_multiplication,56457918]]'
+different_from: '[[_Standards/WikiData/WD~inner_product_space,214159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x2211;</mo><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></munder><msub><mi>a</mi><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub><msub><mi>b</mi><mrow data-mjx-texclass=\"ORD\"><mi>i</mi></mrow></msub></mstyle></mrow></math>"
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒂</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒃</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D482</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D483</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scalar-product-dot-product.svg
 IEV_number: 102-03-17
 Commons_category: Scalar product
+dv_has_:
+  name_:
+    am: ጥላ ብዜት
+    ar: ضرب نقطي
+    ast: Productu esguilar
+    az: Skalyar hasil
+    ba: Скаляр ҡабатландыҡ
+    be: скалярны здабытак
+    be-tarask: здабытак скалярны
+    bg: Скаларно произведение
+    bn: ডট গুণন
+    bs: Skalarni proizvod
+    ca: producte escalar
+    ckb: لێکدانی ناوەکی
+    cs: skalární součin
+    cv: Скалярла хутлав
+    da: skalarprodukt
+    de: Skalarprodukt
+    el: εσωτερικό γινόμενο
+    en: scalar product
+    en-ca: Dot product
+    en-gb: Dot product
+    eo: skalara produto
+    es: producto escalar
+    et: Skalaarkorrutis
+    eu: Biderketa eskalar
+    fa: ضرب داخلی
+    fi: pistetulo
+    fr: produit scalaire
+    gl: Produto escalar
+    he: מכפלה סקלרית
+    hi: डाँट उत्पाद्
+    hr: Skalarni umnožak
+    hu: skaláris szorzat
+    hy: Սկալյար արտադրյալ
+    id: Produk skalar
+    io: Skalara produto
+    it: prodotto scalare
+    ja: ドット積
+    ka: სკალარული ნამრავლი
+    kk: Скаляр көбейтінді
+    kk-arab: سكاليار كوبەيتىندى
+    kk-cn: سكاليار كوبەيتىندى
+    kk-cyrl: Скаляр көбейтінді
+    kk-kz: Скаляр көбейтінді
+    kk-latn: Skalyar köbeýtindi
+    kk-tr: Skalyar köbeýtindi
+    kn: ಡಾಟ್ ಉತ್ಪನ್ನ
+    ko: 스칼라곱
+    la: Productum interius
+    lt: skaliarinė sandauga
+    lv: Skalārais reizinājums
+    mag: अदिश गुणनफल
+    mk: скаларен производ
+    mr: बिंदू गुणाकार
+    ms: Hasil darab bintik
+    nb: Indreprodukt
+    nl: inwendig product
+    nn: skalarprodukt
+    pl: Iloczyn skalarny
+    pms: Prodot ëscalar
+    pt: produto escalar
+    pt-br: produto escalar
+    ro: produs scalar
+    ru: скалярное произведение
+    sa: बिन्दु आहति
+    sah: скалярное произведение
+    sco: dot product
+    sh: Skalarni proizvod vektora
+    sk: Skalárny súčin
+    sl: skalarni produkt
+    sq: prodhimi skalar
+    sr: скаларни производ вектора
+    sr-ec: скаларни производ вектора
+    sr-el: Skalarni proizvod vektora
+    sv: Skalärprodukt
+    ta: புள்ளிப் பெருக்கல்
+    th: ผลคูณจุด
+    tl: Produktong tuldok
+    tr: Nokta çarpım
+    tt: Скаляр тапкырчыгыш
+    uk: скалярний добуток
+    ur: Dot product
+    uz: Skalyar koʻpaytmasi
+    vi: Tích vô hướng
+    wuu: 数量积
+    yue: 內積
+    zh: 数量积
+    zh-cn: 数量积
+    zh-hans: 数量积
+    zh-hant: 內積
+    zh-hk: 內積
+    zh-sg: 数量积
+    zh-tw: 內積
 ---
-
 # [[Scalar_Product]] 
 
 #is_/same_as :: [[WD~Scalar_product,181365]] 

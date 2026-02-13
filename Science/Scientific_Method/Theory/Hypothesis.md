@@ -1,35 +1,232 @@
 ---
 aliases:
-  - hypotheses
-  - Hypothese
-  - Hypothesen
-  - Hypothesis
+- chisumamunyati
+- damcaniaeth
+- dhana
+- gipoteza
+- giả thuyết
+- hipitéis
+- hipotese
+- hipotesi
+- hipotesis
+- hipotez
+- hipoteza
+- hipotezo
+- hipotezë
+- hipotezė
+- hipotézis
+- hipotēze
+- hipòtesi
+- hipótese
+- hipótesis
+- hypotees
+- hypoteesi
+- hypoteeʹs
+- hypotes
+- hypotesa
+- hypotese
+- Hypothees
+- Hypothese
+- Hypothesen
+- hypotheses
+- Hypothesis
+- hypothèse
+- hypotéza
+- hîpotez
+- hüpotees
+- ipotese
+- ipotesi
+- ipoteză
+- ipotèsi
+- ipotèz
+- Ipòtesi
+- ipòteze
+- isihlawumbiselo
+- ká-soat
+- petra-kevitra
+- tilgáta
+- varsayım
+- ñawpariy yuyay
+- υπόθεση
+- азьмалпан
+- гіпотеза
+- гіпотэза
+- гипотезæ
+- гипотеза
+- гипотезо
+- хипотеза
+- վարկած
+- השערה
+- د بايزیان مغز فرضيه
+- فرضية
+- فرضیه
+- مفروضو
+- مفروضہ
+- هيڤوتيسيس
+- ھیپۆتێز
+- परिकल्पना
+- অনুকল্প
+- ਮਨੌਤ
+- ઉત્કલ્પના
+- கருதுகோள்
+- పరికల్పన
+- പരികല്പന
+- කල්පිතය
+- สมมติฐาน
+- အဆိုပြုရှင်းလင်းချက်
+- ჰიპოთეზა
+- 仮説
+- 假說
+- 假说
+- 가설
 has_id_wikidata: Q41719
 part_of:
-  - "[[_Standards/WikiData/WD~theorem,65943]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
+- '[[_Standards/WikiData/WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~theory,17737]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~proposition,108163]]"
-  - "[[_Standards/WikiData/WD~premise,321703]]"
-  - "[[../../../WikiData/WD~work,386724]]"
+- '[[_Standards/WikiData/WD~proposition,108163]]'
+- '[[_Standards/WikiData/WD~premise,321703]]'
+- '[[../../../WikiData/WD~work,386724]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-has_characteristic: "[[_Standards/WikiData/WD~testability,2149495]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_characteristic: '[[_Standards/WikiData/WD~testability,2149495]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~unknown,24238356]]"
-  - "[[_Standards/WikiData/WD~hypothetical_thinking,94626994]]"
+- '[[_Standards/WikiData/WD~unknown,24238356]]'
+- '[[_Standards/WikiData/WD~hypothetical_thinking,94626994]]'
 properties_for_this_type:
-  - solved by
-  - instance of
+- solved by
+- instance of
 related_property: sourcing circumstances
 GitHub_topic: hypothesis
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%90%E0%B8%B2%E0%B8%99.wav
 equivalent_class: http://vocab.org/evidence/terms/Hypothesis
 Commons_category: Hypotheses
+dv_has_:
+  name_:
+    af: hipotese
+    an: hipotesi
+    ar: فرضية
+    ast: hipótesis
+    az: hipotez
+    ba: гипотеза
+    be: гіпотэза
+    be-tarask: гіпотэза
+    bg: хипотеза
+    bn: অনুকল্প
+    bs: hipoteza
+    bxr: гипотезо
+    ca: hipòtesi
+    ckb: ھیپۆتێز
+    co: Ipotesi
+    cs: hypotéza
+    cv: Гипотеза
+    cy: damcaniaeth
+    da: hypotese
+    de: Hypothese
+    el: υπόθεση
+    en: hypothesis
+    en-gb: hypothesis
+    eo: hipotezo
+    es: hipótesis
+    et: hüpotees
+    eu: hipotesi
+    fa: فرضیه
+    fi: hypoteesi
+    fr: hypothèse
+    fur: ipotesi
+    fy: hypotese
+    ga: hipitéis
+    gl: hipótese
+    gu: ઉત્કલ્પના
+    he: השערה
+    hi: परिकल्पना
+    hr: hipoteza
+    ht: ipotèz
+    hu: hipotézis
+    hy: վարկած
+    ia: hypothese
+    id: hipotesis
+    io: hipotezo
+    is: tilgáta
+    it: ipotesi
+    ja: 仮説
+    ka: ჰიპოთეზა
+    kaa: gipoteza
+    kk: гипотеза
+    ko: 가설
+    ku: hîpotez
+    ku-latn: hîpotez
+    ky: гипотеза
+    la: Hypothesis
+    lb: Hypothees
+    lfn: ipotese
+    lt: hipotezė
+    lv: hipotēze
+    mg: petra-kevitra
+    mk: хипотеза
+    ml: പരികല്പന
+    ms: hipotesis
+    ms-arab: هيڤوتيسيس
+    my: အဆိုပြုရှင်းလင်းချက်
+    nan: ká-soat
+    nap: ipotesi
+    nb: hypotese
+    ne: परिकल्पना
+    nl: hypothese
+    nn: hypotese
+    oc: ipotèsi
+    os: гипотезæ
+    pa: ਮਨੌਤ
+    pl: hipoteza
+    pms: Ipòtesi
+    ps: د بايزیان مغز فرضيه
+    pt: hipótese
+    pt-br: hipótese
+    qu: ñawpariy yuyay
+    ro: ipoteză
+    ru: гипотеза
+    sco: hypothesis
+    sd: مفروضو
+    se: hypotesa
+    sh: hipoteza
+    si: කල්පිතය
+    sk: hypotéza
+    sl: hipoteza
+    smn: hypotees
+    sms: hypoteeʹs
+    sn: chisumamunyati
+    sq: hipotezë
+    sr: хипотеза
+    sr-ec: хипотеза
+    sr-el: hipoteza
+    sv: hypotes
+    sw: dhana
+    ta: கருதுகோள்
+    te: పరికల్పన
+    tg: гипотеза
+    th: สมมติฐาน
+    tl: hipotesis
+    tr: varsayım
+    tt: гипотеза
+    udm: азьмалпан
+    uk: гіпотеза
+    ur: مفروضہ
+    uz: gipoteza
+    vec: ipòteze
+    vi: giả thuyết
+    war: hipotesis
+    wuu: 假说
+    yue: 假說
+    zh: 假說
+    zh-cn: 假说
+    zh-hans: 假说
+    zh-hant: 假說
+    zh-hk: 假說
+    zh-tw: 假說
+    zu: isihlawumbiselo
 ---
-
 # [[Hypothesis]] 
 
 #is_/same_as :: [[WikiData/WD~Hypothesis,41719|WD~Hypothesis,41719]] 

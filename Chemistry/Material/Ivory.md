@@ -1,46 +1,211 @@
 ---
 aliases:
-  - Elfenbein
-  - Ivory
+- almafí
+- avorio
+- avoriu
+- avòlio
+- bjelokost
+- boli
+- cios
+- dramblio kaulas
+- eabhar
+- ebur
+- eburo
+- elefántcsont
+- elevandiluu
+- Elfenbeen
+- Elfenbein
+- elfenben
+- elfenbian
+- elpendbān
+- evòri
+- fildeș
+- fildishi
+- fildişi
+- gading
+- gading sebagai perhiasan
+- gadíng
+- Iviéthe
+- Ivoar
+- ivoara
+- Ivoear
+- ivoire
+- ivoor
+- ivoro
+- Ivory
+- marfil
+- marfim
+- marpil
+- mpɛ́mbɛ́ ya nzɔku
+- ngà
+- norsunluu
+- olifant
+- siong-ngà
+- slonovača
+- slonovina
+- słonowina
+- vior
+- vori
+- ziloņkauls
+- zubovina
+- ελεφαντόδοντο
+- пылыстæг
+- слановая косць
+- слановая косьць
+- слонова кістка
+- слонова коска
+- слонова кост
+- слоновача
+- слоновая кость
+- фил сөяге
+- փղոսկր
+- שנהב
+- آئیوری
+- عاج
+- ہاتھی دانت
+- ܓܪܡܦܝܠܐ
+- हाथीदाँत
+- করিদন্ত
+- தந்தம்
+- ఐవరీ
+- කැපූ ක්ෂීරපායී දළ
+- งาช้าง
+- ဆင်စွယ်
+- სპილოს ძვალი
+- アイボリー
+- 象牙
+- 상아
 has_id_wikidata: Q82001
-subclass_of: "[[_Standards/WikiData/WD~dentin,189637]]"
+subclass_of: '[[_Standards/WikiData/WD~dentin,189637]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - "[[_Standards/WikiData/WD~ivory,1358981]]"
-  - "[[_Standards/WikiData/WD~elephant_ivory,29838213]]"
+- '[[_Standards/WikiData/WD~ivory,1358981]]'
+- '[[_Standards/WikiData/WD~elephant_ivory,29838213]]'
 Commons_category: Ivory
 U_S_National_Archives_Identifier: 10664626
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elfenbein%20verarbeitet.jpg
 EAGLE_id: material/lod/120
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Ivory,82001|WD~Ivory,82001]]"
-    - "[[/_Standards/Chemistry/Material/Ivory|Ivory]]"
-    - "[[/_public/Chemistry/Material/Ivory.public|Ivory.public]]"
-    - "[[/_internal/Chemistry/Material/Ivory.internal|Ivory.internal]]"
-    - "[[/_protect/Chemistry/Material/Ivory.protect|Ivory.protect]]"
-    - "[[/_private/Chemistry/Material/Ivory.private|Ivory.private]]"
-    - "[[/_personal/Chemistry/Material/Ivory.personal|Ivory.personal]]"
-    - "[[/_secret/Chemistry/Material/Ivory.secret|Ivory.secret]]"
+  - '[[../../WikiData/WD~Ivory,82001|WD~Ivory,82001]]'
+  - '[[/_Standards/Chemistry/Material/Ivory|Ivory]]'
+  - '[[/_public/Chemistry/Material/Ivory.public|Ivory.public]]'
+  - '[[/_internal/Chemistry/Material/Ivory.internal|Ivory.internal]]'
+  - '[[/_protect/Chemistry/Material/Ivory.protect|Ivory.protect]]'
+  - '[[/_private/Chemistry/Material/Ivory.private|Ivory.private]]'
+  - '[[/_personal/Chemistry/Material/Ivory.personal|Ivory.personal]]'
+  - '[[/_secret/Chemistry/Material/Ivory.secret|Ivory.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Ivory,82001|WD~Ivory,82001]]"
-  - "[[/_Standards/Chemistry/Material/Ivory|Ivory]]"
-  - "[[/_public/Chemistry/Material/Ivory.public|Ivory.public]]"
-  - "[[/_internal/Chemistry/Material/Ivory.internal|Ivory.internal]]"
-  - "[[/_protect/Chemistry/Material/Ivory.protect|Ivory.protect]]"
-  - "[[/_private/Chemistry/Material/Ivory.private|Ivory.private]]"
-  - "[[/_personal/Chemistry/Material/Ivory.personal|Ivory.personal]]"
-  - "[[/_secret/Chemistry/Material/Ivory.secret|Ivory.secret]]"
+- '[[../../WikiData/WD~Ivory,82001|WD~Ivory,82001]]'
+- '[[/_Standards/Chemistry/Material/Ivory|Ivory]]'
+- '[[/_public/Chemistry/Material/Ivory.public|Ivory.public]]'
+- '[[/_internal/Chemistry/Material/Ivory.internal|Ivory.internal]]'
+- '[[/_protect/Chemistry/Material/Ivory.protect|Ivory.protect]]'
+- '[[/_private/Chemistry/Material/Ivory.private|Ivory.private]]'
+- '[[/_personal/Chemistry/Material/Ivory.personal|Ivory.personal]]'
+- '[[/_secret/Chemistry/Material/Ivory.secret|Ivory.secret]]'
+dv_has_:
+  name_:
+    af: ivoor
+    an: vori
+    ang: elpendbān
+    ar: عاج
+    arc: ܓܪܡܦܝܠܐ
+    ast: marfil
+    bcl: gading
+    be: слановая косць
+    be-tarask: слановая косьць
+    bg: слонова кост
+    bn: করিদন্ত
+    br: olifant
+    bs: slonovača
+    ca: vori
+    cs: zubovina
+    da: elfenben
+    de: Elfenbein
+    el: ελεφαντόδοντο
+    en: ivory
+    eo: eburo
+    es: marfil
+    et: elevandiluu
+    eu: boli
+    ext: marfil
+    fa: عاج
+    fi: norsunluu
+    fr: ivoire
+    frr: elfenbian
+    fy: Ivoar
+    ga: eabhar
+    gl: almafí
+    gsw: Elfenbein
+    hak: siong-ngà
+    he: שנהב
+    hi: हाथीदाँत
+    hr: bjelokost
+    hsb: słonowina
+    hu: elefántcsont
+    hy: փղոսկր
+    hyw: փղոսկր
+    id: gading
+    io: ivoro
+    it: avorio
+    ja: アイボリー
+    ka: სპილოს ძვალი
+    ko: 상아
+    la: ebur
+    li: Ivoear
+    ln: mpɛ́mbɛ́ ya nzɔku
+    lt: dramblio kaulas
+    lv: ziloņkauls
+    mg: ivoara
+    mk: слонова коска
+    ms: gading sebagai perhiasan
+    my: ဆင်စွယ်
+    nb: elfenben
+    nds: Elfenbeen
+    nl: ivoor
+    nn: elfenbein
+    nrm: Iviéthe
+    oc: evòri
+    os: пылыстæг
+    pl: cios
+    pnb: آئیوری
+    pt: marfim
+    pt-br: marfim
+    ro: fildeș
+    ru: слоновая кость
+    scn: avoriu
+    sh: slonovača
+    si: කැපූ ක්ෂීරපායී දළ
+    sk: slonovina
+    sl: slonovina
+    sq: fildishi
+    sr: слоновача
+    sv: elfenben
+    ta: தந்தம்
+    te: ఐవరీ
+    th: งาช้าง
+    tl: marpil
+    tr: fildişi
+    tt: фил сөяге
+    uk: слонова кістка
+    ur: ہاتھی دانت
+    vec: avòlio
+    vi: ngà
+    vo: vior
+    war: gadíng
+    wuu: 象牙
+    yue: 象牙
+    zh: 象牙
 ---
-
 # [[Ivory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ivory,82001|WD~Ivory,82001]] 

@@ -1,38 +1,173 @@
 ---
 aliases:
-  - Modern paganism, also known as neopaganism and contemporary paganism
+- modern heidedóm
+- Modern heidendom
+- modern paganism
+- Modern paganism, also known as neopaganism and contemporary paganism
+- Neo-baganiaeth
+- neopaganesimo
+- Neopaganisme
+- Neopaganismo
+- neopaganismu
+- Neopaganismus
+- Neopaganizam
+- Neopaganizm
+- Neopaganizmi
+- Neopagonybė
+- neopagānisms
+- neopaqanizm
+- Neopoganstvo
+- neopogaństwo
+- Neopăgânism
+- Neôpaganisma
+- Novopohanstvo
+- novopohanství
+- novpaganismo
+- Nua-phàganachd
+- Ny Heidendom
+- nyhedendom
+- nyhedenskab
+- néopaganisme
+- Pagan giáo hiện đại
+- Paganisme Moden
+- Paganisme modern
+- Paganizmo newe
+- staroverstvo
+- Upagani mamboleo
+- Uuspaganlus
+- Uuspakanuus
+- Zamonaviy butparastlik
+- újpogányság
+- Νεοπαγανισμός
+- неапаганства
+- нео-мәҗүсилек
+- неомуртатдзинад
+- неопаганизам
+- неопаганизъм
+- Неопаганство
+- неоязичництво
+- неоязычество
+- нэапаганства
+- ժամանակակից հեթանոսություն
+- נאו-פגניות
+- باغانية جديدة
+- وثنيه جديده
+- پگانیسم مدرن
+- আধুনিক পৌত্তলিকতা
+- ネオペイガニズム
+- 新异教主义
+- 新異教主義
+- 現代異教
+- 신이교주의
 has_id_wikidata: Q189753
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~modern_Asatru,213483]]"
-  - "[[_Standards/WikiData/WD~heathenry,285441]]"
-  - "[[_Standards/WikiData/WD~Kemetism,1081042]]"
-  - "[[_Standards/WikiData/WD~Rodnovery,1258217]]"
-  - "[[_Standards/WikiData/WD~Hellenism,1539307]]"
-  - "[[_Standards/WikiData/WD~Druidism_Modern,1541838]]"
-  - "[[_Standards/WikiData/WD~Roman_polytheistic_reconstructionism,2254859]]"
-  - "[[_Standards/WikiData/WD~Q28196969,28196969]]"
-  - "[[_Standards/WikiData/WD~Wicca,59774]]"
+- '[[_Standards/WikiData/WD~modern_Asatru,213483]]'
+- '[[_Standards/WikiData/WD~heathenry,285441]]'
+- '[[_Standards/WikiData/WD~Kemetism,1081042]]'
+- '[[_Standards/WikiData/WD~Rodnovery,1258217]]'
+- '[[_Standards/WikiData/WD~Hellenism,1539307]]'
+- '[[_Standards/WikiData/WD~Druidism_Modern,1541838]]'
+- '[[_Standards/WikiData/WD~Roman_polytheistic_reconstructionism,2254859]]'
+- '[[_Standards/WikiData/WD~Q28196969,28196969]]'
+- '[[_Standards/WikiData/WD~Wicca,59774]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~new_religious_movement,477544]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
+- '[[_Standards/WikiData/WD~new_religious_movement,477544]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pantheism,728455]]"
-  - "[[_Standards/WikiData/WD~idolatry,840665]]"
-  - "[[_Standards/WikiData/WD~polytheistic_religion,108704490]]"
-  - "[[_Standards/WikiData/WD~paganism,29536]]"
+- '[[_Standards/WikiData/WD~pantheism,728455]]'
+- '[[_Standards/WikiData/WD~idolatry,840665]]'
+- '[[_Standards/WikiData/WD~polytheistic_religion,108704490]]'
+- '[[_Standards/WikiData/WD~paganism,29536]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_Neopagan_movements,1261170]]"
-  - "[[_Standards/WikiData/WD~list_of_Modern_Pagan_Temples,28456894]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~polytheistic_reconstructionism,3191950]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Paganism_topics,10686857]]"
-based_on: "[[_Standards/WikiData/WD~paganism,29536]]"
+- '[[_Standards/WikiData/WD~list_of_Neopagan_movements,1261170]]'
+- '[[_Standards/WikiData/WD~list_of_Modern_Pagan_Temples,28456894]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~polytheistic_reconstructionism,3191950]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Paganism_topics,10686857]]'
+based_on: '[[_Standards/WikiData/WD~paganism,29536]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5rblot%202010%20offerg%C3%A5vor.jpg
 Commons_category: Neopaganism
 OpenStreetMap_tag: religion=pagan
-Dewey_Decimal_Classification: "299.94"
+Dewey_Decimal_Classification: 299.94
+dv_has_:
+  name_:
+    af: Neopaganisme
+    an: Neopaganismo
+    ar: باغانية جديدة
+    arz: وثنيه جديده
+    ast: neopaganismu
+    az: neopaqanizm
+    be: неапаганства
+    be-tarask: нэапаганства
+    bg: неопаганизъм
+    bn: আধুনিক পৌত্তলিকতা
+    ca: neopaganisme
+    cs: novopohanství
+    cy: Neo-baganiaeth
+    da: nyhedenskab
+    de: Neopaganismus
+    diq: Paganizmo newe
+    el: Νεοπαγανισμός
+    en: modern paganism
+    eo: novpaganismo
+    es: neopaganismo
+    et: Uuspaganlus
+    eu: Neopaganismo
+    fa: پگانیسم مدرن
+    fi: Uuspakanuus
+    fr: néopaganisme
+    fy: Modern heidendom
+    gd: Nua-phàganachd
+    gl: neopaganismo
+    gsw: Neopaganismus
+    he: נאו-פגניות
+    hr: Neopoganstvo
+    hu: újpogányság
+    hy: ժամանակակից հեթանոսություն
+    ia: Neopaganismo
+    id: Paganisme modern
+    it: neopaganesimo
+    ja: ネオペイガニズム
+    ko: 신이교주의
+    la: Neopaganismus
+    li: modern heidedóm
+    lt: Neopagonybė
+    lv: neopagānisms
+    mg: Neôpaganisma
+    mk: Неопаганство
+    ms: Paganisme Moden
+    nb: neopaganisme
+    nds-nl: Ny Heidendom
+    nl: neopaganisme
+    oc: Neopaganisme
+    os: неомуртатдзинад
+    pl: neopogaństwo
+    pt: neopaganismo
+    ro: Neopăgânism
+    ru: неоязычество
+    sh: Neopaganizam
+    sk: Novopohanstvo
+    sl: staroverstvo
+    sq: Neopaganizmi
+    sr: неопаганизам
+    sr-ec: Неопаганизам
+    sr-el: Neopaganizam
+    sv: nyhedendom
+    sw: Upagani mamboleo
+    tr: Neopaganizm
+    tt: нео-мәҗүсилек
+    uk: неоязичництво
+    uz: Zamonaviy butparastlik
+    vi: Pagan giáo hiện đại
+    yue: 現代異教
+    zh: 新異教主義
+    zh-cn: 新异教主义
+    zh-hans: 新异教主义
+    zh-hant: 新異教主義
+    zh-hk: 新異教主義
+    zh-sg: 新异教主义
+    zh-tw: 新異教主義
 ---
-
 # [[Modern_Paganism]] 
 
 #is_/same_as :: [[WD~Modern_Paganism,189753]] 

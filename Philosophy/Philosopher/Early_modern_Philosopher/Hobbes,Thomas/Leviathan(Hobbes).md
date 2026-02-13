@@ -1,7 +1,42 @@
 ---
 aliases:
-  - Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil
-  - Leviathan(Hobbes)
+- Leviafan
+- Leviatan
+- Leviatano
+- Leviatanul
+- Leviathan
+- Leviathan (Hobbes)
+- Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil
+- Leviathan(Hobbes)
+- Leviatán
+- Leviatán (Hobbes)
+- Leviatã
+- Levijatan
+- Levjatano
+- Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
+- Lewiatan
+- Léviathan
+- «Leviathan» vom Thomas Hobbes
+- Λεβιάθαν
+- Левіафан
+- Левіятан
+- Левијатан
+- Левиатан
+- Левиафан
+- Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
+- Լևիաթան
+- לויתן
+- الطاغوت
+- لویاتان
+- لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
+- লেভিয়াথন
+- லெவியாதன்
+- ლევიათანი (წიგნი)
+- リヴァイアサン
+- 利維坦
+- 利维坦
+- 巨靈論
+- 리바이어던
 has_id_wikidata: Q193034
 illustrator: '[[_Standards/WikiData/WD~Abraham_Bosse,326215]]'
 publisher: '[[_Standards/WikiData/WD~Andrew_Crooke,19271247]]'
@@ -19,8 +54,75 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispie
 Commons_category: Leviathan (Thomas Hobbes)
 subtitle: or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil
 publication_date: 1651-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: الطاغوت
+    az: Leviafan
+    be-tarask: Левіятан
+    bg: Левиатан
+    bn: লেভিয়াথন
+    bs: Levijatan
+    ca: Leviatan
+    cs: Leviathan
+    da: Leviathan
+    de: Leviathan
+    el: Λεβιάθαν
+    en: Leviathan
+    eo: Levjatano
+    es: Leviatán
+    et: Leviathan (Hobbes)
+    eu: Leviathan
+    fa: لویاتان
+    fi: Leviathan
+    fr: Léviathan
+    gl: Leviatán (Hobbes)
+    gsw: «Leviathan» vom Thomas Hobbes
+    he: לויתן
+    hr: Levijatan
+    hu: Leviatán
+    hy: Լևիաթան
+    id: Leviathan
+    is: Leviathan
+    it: Leviatano
+    ja: リヴァイアサン
+    ka: ლევიათანი (წიგნი)
+    kk: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
+    kk-arab: لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
+    kk-cn: لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
+    kk-cyrl: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
+    kk-kz: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
+    kk-latn: Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
+    kk-tr: Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
+    ko: 리바이어던
+    la: Leviathan
+    min: Leviathan
+    mk: Левијатан
+    nan: Leviathan
+    nb: Leviathan
+    nl: Leviathan
+    pl: Lewiatan
+    pt: Leviatã
+    ro: Leviatanul
+    ru: Левиафан
+    sh: Leviathan
+    sl: Leviatan
+    sr: Левијатан
+    sr-ec: Левијатан
+    sr-el: Levijatan
+    sv: Leviathan
+    ta: லெவியாதன்
+    tr: Leviathan
+    uk: Левіафан
+    vi: Leviathan
+    yue: 巨靈論
+    zh: 利维坦
+    zh-cn: 利维坦
+    zh-hans: 利维坦
+    zh-hant: 利維坦
+    zh-hk: 利維坦
+    zh-sg: 利维坦
+    zh-tw: 利維坦
 ---
-
 # [[Leviathan(Hobbes)]] 
 
 #is_/same_as :: [[WD~Leviathan,193034]] 

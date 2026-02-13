@@ -1,38 +1,61 @@
 ---
 aliases:
-  - Dietrich Bonhoeffer
-  - Bonhoeffer
-  - Bonhoeffer,Dietrich
+- Bonhoeffer
+- Bonhoeffer,Dietrich
+- Dietrich Bonhoeffer
+- Dietrich Bonhöffer
+- Ditrik Bonoefer
+- Dītrihs Bonhēfers
+- Theodoricus Bonhoeffer
+- Ντίτριχ Μπονχέφερ
+- Дітріх Бонгеффер
+- Дзітрых Банхёфер
+- Дитрих Бонхёффер
+- Дитрих Бонхефер
+- Дитрих Бонхьофер
+- Дытрых Бонгёфэр
+- Դիտրիխ Բոնհոֆեր
+- דיטריך בונהופר
+- ديتريش بونهوفر
+- دیتریش بنهوفر
+- ډيټريک بونهوفر
+- ดีทริช บอนเฮฟเฟอร์
+- ディートリッヒ・ボンヘッファー
+- 潘霍華
+- 迪特里希·朋霍费尔
+- 迪特里希·潘霍华
+- 迪特里希·潘霍華
+- 디트리히 본회퍼
 has_id_wikidata: Q76326
 sibling:
-  - '[[_Standards/WikiData/WD~Klaus_Bonhoeffer,69270]]'
-  - '[[_Standards/WikiData/WD~Karl_Friedrich_Bonhoeffer,84790]]'
-  - '[[_Standards/WikiData/WD~Sabine_Leibholz_Bonhoeffer,109687]]'
-  - '[[_Standards/WikiData/WD~Christine_Bonhoeffer,22442626]]'
-  - '[[_Standards/WikiData/WD~Susanne_Dreß,51884440]]'
-  - '[[_Standards/WikiData/WD~Ursula_Schleicher,94776079]]'
+- '[[_Standards/WikiData/WD~Klaus_Bonhoeffer,69270]]'
+- '[[_Standards/WikiData/WD~Karl_Friedrich_Bonhoeffer,84790]]'
+- '[[_Standards/WikiData/WD~Sabine_Leibholz_Bonhoeffer,109687]]'
+- '[[_Standards/WikiData/WD~Christine_Bonhoeffer,22442626]]'
+- '[[_Standards/WikiData/WD~Susanne_Dreß,51884440]]'
+- '[[_Standards/WikiData/WD~Ursula_Schleicher,94776079]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-  - '[[_Standards/WikiData/WD~Confessing_Church,161362]]'
+- '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+- '[[_Standards/WikiData/WD~Confessing_Church,161362]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Karl_Holl,92113]]'
-  - '[[_Standards/WikiData/WD~Reinhold_Seeberg,64584]]'
+- '[[_Standards/WikiData/WD~Karl_Holl,92113]]'
+- '[[_Standards/WikiData/WD~Reinhold_Seeberg,64584]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Maria_von_Wedemeyer_Weller,101030]]'
 father: '[[_Standards/WikiData/WD~Karl_Bonhoeffer,106829]]'
 occupation:
-  - '[[_Standards/WikiData/WD~pastor,152002]]'
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~resistance_fighter,1397808]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~pastor,152002]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~resistance_fighter,1397808]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~University_of_Tübingen,153978]]'
-  - '[[_Standards/WikiData/WD~Union_Theological_Seminary,1196251]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~University_of_Tübingen,153978]]'
+- '[[_Standards/WikiData/WD~Union_Theological_Seminary,1196251]]'
 employer: '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
 place_of_detention:
-  - '[[_Standards/WikiData/WD~Buchenwald_concentration_camp,152802]]'
-  - '[[_Standards/WikiData/WD~Flossenbürg_concentration_camp,274354]]'
+- '[[_Standards/WikiData/WD~Buchenwald_concentration_camp,152802]]'
+- '[[_Standards/WikiData/WD~Flossenbürg_concentration_camp,274354]]'
 cause_of_death: '[[_Standards/WikiData/WD~hanging,175111]]'
 place_of_death: '[[_Standards/WikiData/WD~Flossenbürg_concentration_camp,274354]]'
 influenced_by: '[[_Standards/WikiData/WD~Reinhold_Niebuhr,358561]]'
@@ -40,10 +63,10 @@ place_of_burial: '[[_Standards/WikiData/WD~Dorotheenstadt_Cemetery,564922]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Dietrich,18145860]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Modern_Christian_Politics_(2006_ed.),21032589]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Q126955255,126955255]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Modern_Christian_Politics_(2006_ed.),21032589]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Q126955255,126955255]]'
 mother: '[[_Standards/WikiData/WD~Paula_Bonhoeffer,41659788]]'
 family: '[[_Standards/WikiData/WD~Bonhoeffer_family,55605739]]'
 family_name: '[[_Standards/WikiData/WD~Bonhoeffer,100759348]]'
@@ -68,8 +91,79 @@ NLC_authorities: 000701611
 Libris_URI: 97mpsfct01pqtzn
 Wolfram_Language_entity_code: Entity["Concept", "Bonhoeffer::7r25z"]
 Krugosvet_article: kultura_i_obrazovanie/religiya/BONHEFFER_DITRIH.html
+dv_has_:
+  name_:
+    ar: ديتريش بونهوفر
+    arz: ديتريش بونهوفر
+    ast: Dietrich Bonhoeffer
+    be: Дзітрых Банхёфер
+    be-tarask: Дытрых Бонгёфэр
+    bg: Дитрих Бонхьофер
+    ca: Dietrich Bonhoeffer
+    cs: Dietrich Bonhoeffer
+    cy: Dietrich Bonhoeffer
+    da: Dietrich Bonhoeffer
+    dag: Dietrich Bonhoeffer
+    de: Dietrich Bonhoeffer
+    el: Ντίτριχ Μπονχέφερ
+    en: Dietrich Bonhoeffer
+    eo: Dietrich Bonhoeffer
+    es: Dietrich Bonhoeffer
+    eu: Dietrich Bonhoeffer
+    fa: دیتریش بنهوفر
+    fi: Dietrich Bonhoeffer
+    fo: Dietrich Bonhoeffer
+    fr: Dietrich Bonhoeffer
+    ga: Dietrich Bonhoeffer
+    gd: Dietrich Bonhoeffer
+    gl: Dietrich Bonhoeffer
+    gsw: Dietrich Bonhoeffer
+    he: דיטריך בונהופר
+    hr: Dietrich Bonhoeffer
+    hu: Dietrich Bonhoeffer
+    hy: Դիտրիխ Բոնհոֆեր
+    id: Dietrich Bonhoeffer
+    is: Dietrich Bonhoeffer
+    it: Dietrich Bonhoeffer
+    ja: ディートリッヒ・ボンヘッファー
+    ko: 디트리히 본회퍼
+    la: Theodoricus Bonhoeffer
+    lt: Dietrich Bonhoeffer
+    lv: Dītrihs Bonhēfers
+    mg: Dietrich Bonhoeffer
+    mk: Дитрих Бонхефер
+    mul: Dietrich Bonhoeffer
+    nb: Dietrich Bonhoeffer
+    nds: Dietrich Bonhoeffer
+    nl: Dietrich Bonhoeffer
+    nn: Dietrich Bonhoeffer
+    oc: Dietrich Bonhöffer
+    pl: Dietrich Bonhoeffer
+    ps: ډيټريک بونهوفر
+    pt: Dietrich Bonhoeffer
+    pt-br: Dietrich Bonhoeffer
+    rm: Dietrich Bonhoeffer
+    ro: Dietrich Bonhoeffer
+    ru: Дитрих Бонхёффер
+    sc: Dietrich Bonhoeffer
+    sco: Dietrich Bonhoeffer
+    sk: Dietrich Bonhoeffer
+    sl: Dietrich Bonhoeffer
+    sq: Dietrich Bonhoeffer
+    sr: Ditrik Bonoefer
+    sv: Dietrich Bonhoeffer
+    sw: Dietrich Bonhoeffer
+    th: ดีทริช บอนเฮฟเฟอร์
+    tl: Dietrich Bonhoeffer
+    tr: Dietrich Bonhoeffer
+    uk: Дітріх Бонгеффер
+    vi: Dietrich Bonhoeffer
+    war: Dietrich Bonhoeffer
+    wuu: 迪特里希·潘霍华
+    yue: 潘霍華
+    zh: 迪特里希·潘霍華
+    zh-cn: 迪特里希·朋霍费尔
 ---
-
 # [[Bonhoeffer,Dietrich]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dietrich_Bonhoeffer,76326|WD~Dietrich_Bonhoeffer,76326]] 

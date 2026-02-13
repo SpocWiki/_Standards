@@ -1,33 +1,186 @@
 ---
 aliases:
+- banda kriminale
+- cho͘-chit hoān-choē
+- coirpeacht eagraithe
+- crim organitzat
+- crima organizată
+- crime organisé
+- crime organizado
+- Crime organizat
+- crimen organizado
+- crimenałità organizada
+- criminalità organizzata
+- delincuencia organizada
+- delinkuentzia antolatu
+- georganiseerde misdaad
+- järjestäytynyt rikollisuus
+- Kasalekad no maliangay
+- kejahatan terorganisasi
+- mütəşəkkil cinayətkarlıq
+- Organisearre misdie
+- organised crime
+- organiseeritud kuritegevus
+- organiserad brottslighet
+- organiserejuvvon rihkolašvuohta
+- organiseret kriminalitet
+- organisert kriminalitet
+- organisierte Kriminalität
+- organisit creeme
+- organiséiert Kriminalitéit
+- organizata krimagado
+- organize suç
+- organized crime
+- organizirani kriminal
+- organizovani kriminal
+- organizovaný zločin
+- organizuotas nusikalstamumas
+- organizētā noziedzība
+- przestępczość zorganizowana
+- szervezett bűnözés
+- torfederezh aozet
+- trosedd cyfundrefnol
+- tội phạm có tổ chức
+- οργανωμένο έγκλημα
+- арганізаваная злачыннасць
+- арганізаваная злачыннасьць
+- організована злочинність
+- организиран криминал
+- организирана престъпност
+- организовани криминал
+- организованная преступность
+- Уюмдашкан кылмыштуулук
+- կազմակերպված հանցագործություն
+- פשע מאורגן
+- جرایم سازمانیافته
+- جريمة منظمة
+- منظم جرم
+- منظمات اجراميه
+- संगठित अपराध
+- सङ्गठित अपराध
+- সংগঠিত অপরাধ পর্যটন
+- စနစ်တကျစီစဉ်ထားသော ဒုစရိုက်မှု
+- ორგანიზებული დანაშაული
+- 合眾犯科
+- 有組織罪案
+- 有组织罪案
+- 組織犯罪
+- 黑社会
+- 黑社會
+- 조직범죄
 has_id_wikidata: Q46952
-has_effect: "[[_Standards/WikiData/WD~crime,83267]]"
+has_effect: '[[_Standards/WikiData/WD~crime,83267]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~criminality,12754227]]"
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~criminality,12754227]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~yakuza,183287]]"
-  - "[[_Standards/WikiData/WD~mobster,1404030]]"
-has_part_s_: "[[_Standards/WikiData/WD~drug_cartel,1260006]]"
-different_from: "[[../../../../WikiData/WD~criminal_organization,1788992]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923]]"
+- '[[_Standards/WikiData/WD~yakuza,183287]]'
+- '[[_Standards/WikiData/WD~mobster,1404030]]'
+has_part_s_: '[[_Standards/WikiData/WD~drug_cartel,1260006]]'
+different_from: '[[../../../../WikiData/WD~criminal_organization,1788992]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human_activity,61788060]]"
-  - "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
-opposite_of: "[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~underworld,117847897]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~organized_crime,136087004]]"
+- '[[_Standards/WikiData/WD~human_activity,61788060]]'
+- '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+opposite_of: '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~underworld,117847897]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~organized_crime,136087004]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakuza%20at%20Sanja%20Matsuri.jpg
-U_S_National_Archives_Identifier: "10641981"
+U_S_National_Archives_Identifier: 10641981
 Krugosvet_article_archived_: gumanitarnye_nauki/sociologiya/MAFIYA_ORGANIZOVANNAYA_PRESTUPNOST.html
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Capone%20Banner.jpg
 Library_of_Congress_Classification: HV6441-HV6453
 IPTC_NewsCode: mediatopic/20000101
 Commons_category: Organized crime
 IMDb_keyword: organized-crime
+dv_has_:
+  name_:
+    af: georganiseerde misdaad
+    ami: Kasalekad no maliangay
+    ar: جريمة منظمة
+    arz: منظمات اجراميه
+    ast: delincuencia organizada
+    az: mütəşəkkil cinayətkarlıq
+    be: арганізаваная злачыннасць
+    be-tarask: арганізаваная злачыннасьць
+    bg: организирана престъпност
+    bn: সংগঠিত অপরাধ পর্যটন
+    br: torfederezh aozet
+    bs: organizirani kriminal
+    ca: crim organitzat
+    cs: organizovaný zločin
+    cy: trosedd cyfundrefnol
+    da: organiseret kriminalitet
+    de: organisierte Kriminalität
+    el: οργανωμένο έγκλημα
+    en: organized crime
+    en-ca: organized crime
+    en-gb: organised crime
+    eo: organizata krimagado
+    es: crimen organizado
+    et: organiseeritud kuritegevus
+    eu: delinkuentzia antolatu
+    fa: جرایم سازمانیافته
+    fi: järjestäytynyt rikollisuus
+    fr: crime organisé
+    fy: Organisearre misdie
+    ga: coirpeacht eagraithe
+    gan: 黑社會
+    gl: crime organizado
+    he: פשע מאורגן
+    hi: संगठित अपराध
+    hr: organizirani kriminal
+    hu: szervezett bűnözés
+    hy: կազմակերպված հանցագործություն
+    id: kejahatan terorganisasi
+    it: criminalità organizzata
+    ja: 組織犯罪
+    ka: ორგანიზებული დანაშაული
+    ko: 조직범죄
+    ky: Уюмдашкан кылмыштуулук
+    lb: organiséiert Kriminalitéit
+    lt: organizuotas nusikalstamumas
+    lv: organizētā noziedzība
+    lzh: 合眾犯科
+    mk: организиран криминал
+    my: စနစ်တကျစီစဉ်ထားသော ဒုစရိုက်မှု
+    nan: cho͘-chit hoān-choē
+    nan-hant: 組織犯罪
+    nb: organisert kriminalitet
+    ne: सङ्गठित अपराध
+    nl: georganiseerde misdaad
+    oc: Crime organizat
+    pl: przestępczość zorganizowana
+    pt: crime organizado
+    ro: crima organizată
+    ru: организованная преступность
+    sco: organisit creeme
+    se: organiserejuvvon rihkolašvuohta
+    sh: organizovani kriminal
+    sk: organizovaný zločin
+    sl: organizirani kriminal
+    sq: banda kriminale
+    sr: организовани криминал
+    sr-ec: организовани криминал
+    sv: organiserad brottslighet
+    tr: organize suç
+    uk: організована злочинність
+    ur: منظم جرم
+    vec: crimenałità organizada
+    vi: tội phạm có tổ chức
+    wuu: 黑社会
+    yue: 黑社會
+    zh: 有組織罪案
+    zh-cn: 有组织罪案
+    zh-hans: 有组织罪案
+    zh-hant: 有組織罪案
+    zh-hk: 有組織罪案
+    zh-mo: 有組織罪案
+    zh-my: 有组织罪案
+    zh-sg: 有组织罪案
+    zh-tw: 有組織罪案
 ---
-
 # [[Organized_Crime]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Organized_crime,46952]] 

@@ -1,8 +1,147 @@
 ---
 has_id_wikidata: Q3299
+dv_has_:
+  name_:
+    af: Gluon
+    ar: غلوون
+    as: গ্লুঅ’ন
+    ast: Gluon
+    az: Qlüon
+    azb: قلئؤون
+    be: Глюон
+    be-tarask: глюон
+    bg: Глуон
+    bn: গ্লুয়ন
+    bs: Gluon
+    ca: gluó
+    co: Gluonu
+    cs: gluon
+    cv: Глюонсем
+    da: Gluon
+    de: Gluon
+    el: Γκλουόνιο
+    en: gluon
+    en-us: gluon
+    eo: gluono
+    es: gluon
+    et: gluuon
+    eu: gluoi
+    fa: گلوئون
+    fi: gluoni
+    fr: gluon
+    ga: glúón
+    gl: gluón
+    he: גלואון
+    hi: ग्लुओन
+    hr: Gluon
+    hu: gluon
+    hy: գլյուոն
+    ia: Gluton
+    id: Gluon
+    io: Gluono
+    is: Límeind
+    it: gluone
+    ja: グルーオン
+    kk: Глюон
+    ko: 글루온
+    ky: Глюон
+    la: Gluon
+    lb: Gluon
+    li: Gluon
+    lmo: Gluun
+    lt: Gliuonas
+    lv: Gluons
+    mk: глуон
+    ml: ഗ്ലൂഓൺ
+    ms: Gluon
+    mul: gluon
+    my: ဂလူယွန်
+    nb: gluon
+    nds: Gluon
+    nl: gluon
+    nn: gluon
+    oc: gluon
+    pa: ਗਲੂਔਨ
+    pl: gluon
+    pnb: گلؤن
+    pt: gluão
+    pt-br: glúon
+    ro: Gluon
+    ru: глюон
+    scn: gluoni
+    se: gluona
+    sh: Gluon
+    sk: Gluón
+    sl: gluon
+    smn: gluoon
+    sms: gluoon
+    sr: глуон
+    sr-ec: глуон
+    sr-el: gluon
+    sv: gluon
+    ta: ஒட்டுமின்னி
+    tg: Глюонҳо
+    th: กลูออน
+    tl: Gluon
+    tr: Gluon
+    tt: Глюон
+    uk: Глюон
+    ur: گلواون
+    uz: Glyuon
+    vi: Gluon
+    war: Gluon
+    wuu: 胶子
+    yue: 膠子
+    zh: 膠子
+    zu: Ingcinyane
+aliases:
+- Gliuonas
+- gluoi
+- Gluon
+- gluona
+- gluone
+- gluoni
+- gluono
+- Gluons
+- Gluonu
+- gluoon
+- Gluton
+- Gluun
+- gluuon
+- gluão
+- gluó
+- gluón
+- Glyuon
+- glúon
+- glúón
+- Ingcinyane
+- Límeind
+- Qlüon
+- Γκλουόνιο
+- Глуон
+- глюон
+- Глюонсем
+- Глюонҳо
+- գլյուոն
+- גלואון
+- غلوون
+- قلئؤون
+- گلؤن
+- گلوئون
+- گلواون
+- ग्लुओन
+- গ্লুঅ’ন
+- গ্লুয়ন
+- ਗਲੂਔਨ
+- ஒட்டுமின்னி
+- ഗ്ലൂഓൺ
+- กลูออน
+- ဂလူယွန်
+- グルーオン
+- 胶子
+- 膠子
+- 글루온
 ---
-
-
 # [[Gluon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Gluon,3299|WD~Gluon,3299]] 

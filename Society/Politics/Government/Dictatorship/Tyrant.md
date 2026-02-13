@@ -1,38 +1,157 @@
 ---
 aliases:
-  - Tyrann
-  - Tyrant
+- Bạo chúa
+- Despota
+- Gormesdeyrn
+- Maniniil
+- Tiran
+- Tirani
+- tiranin
+- Tirann
+- tiranno
+- Tirannu
+- tirano
+- Tirant
+- tironas
+- tirà
+- tirāns
+- tyran
+- Tyrann
+- tyranni
+- Tyrannis
+- Tyrant
+- türann
+- türannosz
+- Çığıran sərçələr
+- τύραννος
+- Τυραννος
+- тиран
+- тиранија
+- тыран
+- רודן
+- تىيرانىييا
+- تیران
+- جبار
+- طاغوت
+- طاغية
+- طاغيه
+- निरङ्कुशता
+- অপস্বৈরশাসক
+- ทรราช
+- ტირანია
+- አምባገነን
+- 僭主
+- 참주
 has_id_wikidata: Q180095
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~dictator,183318]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Tiran_Island,598889]]'
-  - '[[_Standards/WikiData/WD~ruler,1097498]]'
-  - '[[_Standards/WikiData/WD~tyrannis,2463288]]'
+- '[[_Standards/WikiData/WD~Tiran_Island,598889]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~tyrannis,2463288]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~official,599151]]'
-  - '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~official,599151]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of: '[[_Standards/WikiData/WD~position,4164871]]'
 female_form_of_label:
-  - Tyrannin
-  - tirana
-  - tyranka
-  - tiranna
-  - Tyrannin
-  - tironė
-  - тиранка
-  - тиранка
+- Tyrannin
+- tirana
+- tyranka
+- tiranna
+- Tyrannin
+- tironė
+- тиранка
+- тиранка
 DOI: 10.1163/1875-3922_Q3_EQSIM_00309
 male_form_of_label:
-  - Tyrann
-  - tironas
+- Tyrann
+- tironas
 Dewey_Decimal_Classification: 321.9092
+dv_has_:
+  name_:
+    af: tiran
+    am: አምባገነን
+    ar: طاغية
+    arz: طاغيه
+    az: Çığıran sərçələr
+    azb: تیران
+    be-tarask: тыран
+    bg: Тиран
+    bn: অপস্বৈরশাসক
+    br: Tirant
+    bs: tiranin
+    ca: tirà
+    cs: tyran
+    cy: Gormesdeyrn
+    da: tyran
+    de: Tyrann
+    el: τύραννος
+    en: tyrant
+    eo: tirano
+    es: tirano
+    et: türann
+    eu: tirano
+    fa: جبار
+    fi: tyranni
+    fr: tyran
+    gl: tirano
+    grc: Τυραννος
+    he: רודן
+    hr: Tiranin
+    hu: türannosz
+    id: Tiran
+    io: Tirano
+    it: tiranno
+    ja: 僭主
+    ka: ტირანია
+    kk-arab: تىيرانىييا
+    kk-cn: تىيرانىييا
+    ko: 참주
+    ky: Тиран
+    la: Tyrannis
+    lmo: Tirann
+    lt: tironas
+    lv: tirāns
+    mk: тиран
+    ms: Tiran
+    nb: tyrann
+    new: निरङ्कुशता
+    nl: tiran
+    nn: tyrann
+    pl: tyran
+    pt: tirano
+    ro: tiran
+    ru: тиран
+    scn: Tirannu
+    sh: Tiranin
+    sk: Despota
+    sl: Tiran
+    sq: Tirani
+    sr: тиранија
+    sr-ec: тиранија
+    sr-el: Tiranin
+    sv: tyrann
+    ta: tyrant
+    th: ทรราช
+    tl: Maniniil
+    tr: Tiran
+    uk: тиран
+    ur: طاغوت
+    vec: tiran
+    vep: Tiran
+    vi: Bạo chúa
+    zh: 僭主
+    zh-cn: 僭主
+    zh-hans: 僭主
+    zh-hant: 僭主
+    zh-hk: 僭主
+    zh-sg: 僭主
+    zh-tw: 僭主
 ---
-
 # [[Tyrant]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tyrant,180095|WD~Tyrant,180095]]  

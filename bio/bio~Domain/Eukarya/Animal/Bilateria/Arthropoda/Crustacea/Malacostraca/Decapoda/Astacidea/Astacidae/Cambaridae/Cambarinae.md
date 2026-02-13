@@ -1,8 +1,68 @@
 ---
 aliases:
-  - Cambarinae
+- Cambaridae
+- Cambarinae
+- Инçет Хĕвелтухаç юханшыв ракĕ
+- كركنديات المياة العذبه
+- كركنديات المياه العذبة
+- アメリカザリガニ科
+- 蝲蛄科
+- 미국가재과
 title: Cambarinae
 has_id_wikidata: Q138415
+dv_has_:
+  name_:
+    an: Cambaridae
+    ar: كركنديات المياه العذبة
+    arz: كركنديات المياة العذبه
+    ast: Cambaridae
+    bg: Cambaridae
+    ca: Cambaridae
+    ceb: Cambaridae
+    cv: Инçет Хĕвелтухаç юханшыв ракĕ
+    da: Cambaridae
+    de: Cambaridae
+    en: Cambaridae
+    eo: Cambaridae
+    es: Cambaridae
+    eu: Cambaridae
+    ext: Cambaridae
+    fi: Cambaridae
+    fr: Cambaridae
+    ga: Cambaridae
+    gl: Cambaridae
+    ia: Cambaridae
+    ie: Cambaridae
+    io: Cambaridae
+    is: Cambaridae
+    it: Cambaridae
+    ja: アメリカザリガニ科
+    ko: 미국가재과
+    la: Cambaridae
+    mul: Cambaridae
+    nb: Cambaridae
+    nl: Cambaridae
+    nn: Cambaridae
+    oc: Cambaridae
+    pl: Cambaridae
+    pt: Cambaridae
+    pt-br: Cambaridae
+    ro: Cambaridae
+    ru: Cambaridae
+    sq: Cambaridae
+    sv: Cambaridae
+    tr: Cambaridae
+    uk: Cambaridae
+    vi: Cambaridae
+    vo: Cambaridae
+    war: Cambaridae
+    zh: 蝲蛄科
+    zh-cn: 蝲蛄科
+    zh-hans: 蝲蛄科
+    zh-hant: 蝲蛄科
+    zh-hk: 蝲蛄科
+    zh-sg: 蝲蛄科
+    zh-tw: 蝲蛄科
 ---
 ## Phylogeny 
 

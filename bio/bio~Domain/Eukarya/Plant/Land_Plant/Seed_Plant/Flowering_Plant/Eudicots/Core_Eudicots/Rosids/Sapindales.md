@@ -1,8 +1,165 @@
 ---
 aliases:
-  - Sapindales
+- bộ Bồ hòn
+- javorovci
+- Kinesträdordningen
+- lønneordenen
+- muileniečiai
+- mydleńcowce
+- mydlonvíkotvaré
+- mýdelníkotvaré
+- Sabunağacıçiçəklilər
+- Sapindales
+- Sapindaloj
+- Sapindals
+- sapindolike
+- Seebipuulaadsed
+- Seifenbaumartige
+- szappanfavirágúak
+- Sæbetræ-ordenen
+- ziepjkoku rinda
+- Σαπινδώδη
+- сапіндакветныя
+- Сапіндоцвіті
+- сапиндоцветни
+- сапиндоцветные
+- Сапиндус чукӧр
+- сапуновидни
+- օճառածաղկավորներ
+- סבוננאים
+- اسپینڈالیس
+- افراسانان
+- صابونيات
+- सैपिंडेलीज़
+- సపిండేలిస్
+- സാപ്പിൻഡേൽസ്
+- อันดับเงาะ
+- ムクロジ目
+- 无患子目
+- 無患子目
+- 무환자나무목
 title: Sapindales
 has_id_wikidata: Q26316
+dv_has_:
+  name_:
+    af: Sapindales
+    an: Sapindales
+    ar: صابونيات
+    arz: صابونيات
+    ast: Sapindales
+    az: Sabunağacıçiçəklilər
+    bar: Sapindales
+    bcl: Sapindales
+    be: Sapindales
+    be-tarask: сапіндакветныя
+    bg: сапиндоцветни
+    bho: सैपिंडेलीज़
+    br: Sapindales
+    bs: Sapindales
+    ca: Sapindals
+    ceb: Sapindales
+    co: Sapindales
+    cs: mýdelníkotvaré
+    cy: Sapindales
+    da: Sæbetræ-ordenen
+    de: Seifenbaumartige
+    de-at: Seifenbaumartige
+    de-ch: Sapindales
+    el: Σαπινδώδη
+    en: Sapindales
+    en-ca: Sapindales
+    en-gb: Sapindales
+    eo: Sapindaloj
+    es: Sapindales
+    et: Seebipuulaadsed
+    eu: Sapindales
+    ext: Sapindales
+    fa: افراسانان
+    fi: Sapindales
+    fr: Sapindales
+    frp: Sapindales
+    frr: Sapindales
+    fur: Sapindales
+    ga: Sapindales
+    gd: Sapindales
+    gl: Sapindales
+    gsw: Sapindales
+    he: סבוננאים
+    hr: sapindolike
+    hu: szappanfavirágúak
+    hy: օճառածաղկավորներ
+    ia: Sapindales
+    id: Sapindales
+    ie: Sapindales
+    ilo: Sapindales
+    io: Sapindales
+    is: Sapindales
+    it: Sapindales
+    ja: ムクロジ目
+    jv: Sapindales
+    kg: Sapindales
+    ko: 무환자나무목
+    koi: Сапиндус чукӧр
+    kv: Сапиндус чукӧр
+    la: Sapindales
+    lb: Sapindales
+    li: Sapindales
+    lij: Sapindales
+    lt: muileniečiai
+    lv: ziepjkoku rinda
+    mg: Sapindales
+    min: Sapindales
+    mk: сапуновидни
+    ml: സാപ്പിൻഡേൽസ്
+    ms: Sapindales
+    mul: Sapindales
+    nap: Sapindales
+    nb: lønneordenen
+    nds: Sapindales
+    nds-nl: Sapindales
+    nl: Sapindales
+    nn: Sapindales
+    nrm: Sapindales
+    nys: Sapindales
+    oc: Sapindales
+    pcd: Sapindales
+    pl: mydleńcowce
+    pms: Sapindales
+    pt: Sapindales
+    pt-br: Sapindales
+    rm: Sapindales
+    ro: Sapindales
+    ru: сапиндоцветные
+    sc: Sapindales
+    scn: Sapindales
+    sco: Sapindales
+    sh: Sapindolike
+    sk: mydlonvíkotvaré
+    sl: javorovci
+    sq: Sapindales
+    sr: Sapindolike
+    su: Sapindales
+    sv: Kinesträdordningen
+    sw: Sapindales
+    te: సపిండేలిస్
+    th: อันดับเงาะ
+    tl: Sapindales
+    tr: Sapindales
+    uk: Сапіндоцвіті
+    ur: اسپینڈالیس
+    vec: Sapindales
+    vi: bộ Bồ hòn
+    vls: Sapindales
+    vo: Sapindales
+    wa: Sapindales
+    war: Sapindales
+    wo: Sapindales
+    wuu: 无患子目
+    yue: 無患子目
+    zh: 无患子目
+    zh-cn: 无患子目
+    zh-hans: 无患子目
+    zu: Sapindales
 ---
 # [[Sapindales]] 
 

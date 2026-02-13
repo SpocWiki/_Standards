@@ -1,38 +1,165 @@
 ---
 aliases:
+- borsfélék
+- Cabé jawa
+- Famîleya bîberên reş
+- Họ Hồ tiêu
+- Karabibergiller
+- paparovke
+- Peber-familien
+- Peparfamilien
+- Peperfamilie
+- Pepparväxter
+- Pepperfamilien
+- pepřovníkovité
+- Pfeffergewächse
+- Pieprzowate
+- Piperaceae
+- Piperàcies
+- Pipiriniai
+- pippurikasvit
+- Pipralised
+- Piprujacoj
+- Popjerjowcowe rostliny
+- poprovke
+- Pöberplaanten
+- Shita
+- İstiotkimilər
+- Πιπερίδες
+- Перечные
+- Перцавыя
+- Перцеві
+- пипери
+- пиперови
+- պղպեղազգիներ
+- פלפליים
+- فامیلەیا بیبەرێن رەش
+- فلفلسیاهیان
+- فلفلية
+- فلفليه
+- పైపరేసి
+- പിപ്പരേസീ
+- วงศ์พริกไทย
+- პილპილისებრნი
+- コショウ科
+- 胡椒科
+- 후추과
 has_id_wikidata: Q156522
-taxonomic_type: "[[_Standards/WikiData/WD~Piper,159536]]"
-uses: "[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Piper,159536]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_20(1),112869395]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Peperomiaceae,81934617]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Piperales,27287]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "18224"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_20(1),112869395]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Peperomiaceae,81934617]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Piperales,27287]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 18224
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20nigrum%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-107.jpg
 taxon_common_name:
-  - peppers
-  - Pepper family
-  - Pipralised
-  - Pippurikasvit
-  - Borsfélék
-  - Piperacee
-  - 후추과
-  - Пипери
-  - poprovke
-  - Karabibergiller
-  - 胡椒科
-  - 胡椒科
+- peppers
+- Pepper family
+- Pipralised
+- Pippurikasvit
+- Borsfélék
+- Piperacee
+- 후추과
+- Пипери
+- poprovke
+- Karabibergiller
+- 胡椒科
+- 胡椒科
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=881
 EPPO_Code: 1PIPF
 MeSH_tree_code: B01.875.800.575.912.250.812
 UMLS_CUI: C0682480
 Commons_category: Piperaceae
 taxon_name: Piperaceae
+dv_has_:
+  name_:
+    an: Piperaceae
+    ar: فلفلية
+    arz: فلفليه
+    ast: Piperaceae
+    az: İstiotkimilər
+    be: Перцавыя
+    bg: пиперови
+    bs: Piperaceae
+    ca: Piperàcies
+    ceb: Piperaceae
+    cs: pepřovníkovité
+    da: Peber-familien
+    de: Pfeffergewächse
+    dtp: Piperaceae
+    el: Πιπερίδες
+    en: Piperaceae
+    eo: Piprujacoj
+    es: Piperaceae
+    et: Pipralised
+    eu: Piperaceae
+    ext: Piperaceae
+    fa: فلفلسیاهیان
+    fi: pippurikasvit
+    fr: Piperaceae
+    frr: Pöberplaanten
+    ga: Piperaceae
+    gl: Piperaceae
+    he: פלפליים
+    hr: paparovke
+    hsb: Popjerjowcowe rostliny
+    hu: borsfélék
+    hy: պղպեղազգիներ
+    ia: Piperaceae
+    id: Piperaceae
+    ie: Piperaceae
+    io: Piperaceae
+    it: Piperaceae
+    ja: コショウ科
+    jv: Piperaceae
+    ka: პილპილისებრნი
+    kcg: Shita
+    ko: 후추과
+    ku: Famîleya bîberên reş
+    ku-arab: فامیلەیا بیبەرێن رەش
+    ku-latn: Famîleya bîberên reş
+    la: Piperaceae
+    lt: Pipiriniai
+    mad: Piperaceae
+    mk: пипери
+    ml: പിപ്പരേസീ
+    ms: Piperaceae
+    mul: Piperaceae
+    nb: Pepperfamilien
+    nds-nl: Piperaceae
+    nl: Piperaceae
+    nn: Peparfamilien
+    oc: Piperaceae
+    pl: Pieprzowate
+    pt: Piperaceae
+    pt-br: Piperaceae
+    ro: Piperaceae
+    ru: Перечные
+    sco: Piperaceae
+    sl: poprovke
+    sq: Piperaceae
+    sr: Piperaceae
+    sr-ec: Piperaceae
+    sr-el: Piperaceae
+    su: Cabé jawa
+    sv: Pepparväxter
+    te: పైపరేసి
+    th: วงศ์พริกไทย
+    tr: Karabibergiller
+    uk: Перцеві
+    vi: Họ Hồ tiêu
+    vls: Peperfamilie
+    vo: Piperaceae
+    war: Piperaceae
+    yue: 胡椒科
+    zh: 胡椒科
+    zh-cn: 胡椒科
+    zh-tw: 胡椒科
 ---
-
 # [[Piperaceae]] 
 
 #is_/same_as :: [[WD~Piperaceae,156522]]  

@@ -1,18 +1,138 @@
 ---
 aliases:
-  - Minimalismus
-  - Minimalism
+- Architetura minimalista
+- art minimalista
+- Arz bihanañ
+- Chì-chió-chú-gī
+- ealaín íosmhéideach
+- Minimal art
+- minimal sanat
+- minimaliaeth
+- Minimalism
+- minimalisme
+- minimalismi
+- minimalismo
+- Minimalismu
+- Minimalismus
+- Minimalizam
+- minimalizem
+- minimalizm
+- minimalizmas
+- Minimalizmi
+- minimalizmus
+- Minimallik
+- minimumismo
+- minimālisms
+- nasin pali pi ijo lili
+- phong cách tối giản
+- μινιμαλισμός
+- мінімалізм
+- минимализам
+- минимализм
+- Минимализъм
+- մինիմալիզմ
+- מינימליזם
+- تقليلية
+- سادهگرایی
+- مينيماليزم
+- مینیماڵیزم
+- अतिसूक्ष्मवाद
+- স্বল্পবাদ (মিনিমালিজম)
+- ลัทธิจุลนิยม
+- მინიმალიზმი
+- ミニマリズム
+- 极简主义
+- 極簡主義
+- 최소주의
 has_id_wikidata: Q173436
 different_from: '[[_Standards/WikiData/WD~Minimalism,416389]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 opposite_of: '[[_Standards/WikiData/WD~maximalism,2246318]]'
 subreddit: minimalism
 Commons_category: Minimalism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%201915%2C%20Black%20Suprematic%20Square%2C%20oil%20on%20linen%20canvas%2C%2079.5%20x%2079.5%20cm%2C%20Tretyakov%20Gallery%2C%20Moscow.jpg
+dv_has_:
+  name_:
+    af: minimalisme
+    ar: تقليلية
+    ary: مينيماليزم
+    arz: مينيماليزم
+    ast: Minimalismu
+    az: minimalizm
+    be-tarask: мінімалізм
+    bg: Минимализъм
+    bn: স্বল্পবাদ (মিনিমালিজম)
+    br: Arz bihanañ
+    bs: Minimalizam
+    ca: art minimalista
+    ckb: مینیماڵیزم
+    cs: minimalismus
+    cy: minimaliaeth
+    da: minimalisme
+    de: Minimalismus
+    el: μινιμαλισμός
+    en: Minimalism
+    eo: minimumismo
+    es: minimalismo
+    et: Minimalism
+    eu: Minimalismo
+    fa: سادهگرایی
+    fi: minimalismi
+    fr: minimalisme
+    ga: ealaín íosmhéideach
+    gl: Minimalismo
+    gsw: Minimalismus
+    he: מינימליזם
+    hi: अतिसूक्ष्मवाद
+    hr: Minimalizam
+    hu: minimalizmus
+    hy: մինիմալիզմ
+    id: Minimal art
+    it: minimalismo
+    ja: ミニマリズム
+    ka: მინიმალიზმი
+    kk: Минимализм
+    ko: 최소주의
+    la: Minimalismus
+    lt: minimalizmas
+    lv: minimālisms
+    mk: минимализам
+    ms: Minimalisme
+    nan: Chì-chió-chú-gī
+    nb: minimalisme
+    nl: minimal art
+    nn: minimalisme
+    pl: minimalizm
+    pms: Architetura minimalista
+    pt: minimalismo
+    ro: minimalism
+    ru: минимализм
+    sh: Minimalizam
+    sk: Minimal art
+    sl: minimalizem
+    sq: Minimalizmi
+    sr: минимализам
+    sr-ec: минимализам
+    sr-el: minimalizam
+    sv: minimalism
+    th: ลัทธิจุลนิยม
+    tok: nasin pali pi ijo lili
+    tr: minimal sanat
+    uk: мінімалізм
+    uz: Minimallik
+    vi: phong cách tối giản
+    wuu: 极简主义
+    yue: 極簡主義
+    zh: 極簡主義
+    zh-cn: 极简主义
+    zh-hans: 极简主义
+    zh-hant: 極簡主義
+    zh-hk: 極簡主義
+    zh-sg: 极简主义
+    zh-tw: 極簡主義
 ---
-
 # [[Minimalism]] 
 
 #is_/same_as :: [[WD~Minimalism,173436]] 

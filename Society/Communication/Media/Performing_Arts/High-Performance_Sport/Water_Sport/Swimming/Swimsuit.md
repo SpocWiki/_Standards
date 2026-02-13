@@ -1,32 +1,96 @@
 ---
 aliases:
-  - Badeanzug
-  - swimwear
-  - bathing suit
-  - bathing attire
-  - swimming costume
-  - bathing costume
-  - swimming suit
-  - swimmers
-  - swimming togs
-  - bathers
-  - cossie
-  - swimming trunks
-  - Swimsuit
+- Amaxtli
+- Baaiklean
+- Badeanzug
+- Badebekleidung
+- badedrakt
+- badetøj
+- badetøy
+- badkläder
+- badyancug
+- bainujantzi
+- Baju mandi
+- balno-vesto
+- bankostumo
+- banyador
+- bathers
+- bathing attire
+- bathing costume
+- bathing suit
+- Briogais-snàmh
+- cossie
+- costum de baie
+- costume da bagno
+- culaith shnámha
+- Dilhad-kouronkañ
+- Eaddagh-snaue
+- fürdőruha
+- Iû-éng-saⁿ
+- Kasuotang panligo't panlangoy
+- Kipacmo arakpecakan
+- kopalna oblačila
+- kostium kąpielowy
+- Kupaći kostim
+- Kıncê deryay
+- maillot de bain
+- maudymosi kostiumėlis
+- mayo
+- Mayo benyen
+- Pakaian renang
+- peldkostīms
+- plavky
+- Sundföt
+- Supeltrikoo
+- swimmers
+- swimming costume
+- swimming suit
+- swimming togs
+- swimming trunks
+- Swimsuit
+- swimwear
+- traje de banho
+- traje de baño
+- Traxe de baño
+- traxe de bañu
+- uimapuku
+- veste de nada
+- Vestis balnearis
+- zwemkleding
+- Đồ bơi
+- Бански костюм
+- костим за капење
+- купаћи костим
+- купальний костюм
+- купальник
+- плавальны касьцюм
+- Լողազգեստ
+- בגד ים
+- لباس سباحة
+- مايوه  mayyoh
+- مایو
+- पौडिपहिरन
+- সাঁতারের স্যুট
+- ಸ್ವಿಮ್ ಸೂತ್
+- ชุดว่ายน้ำ
+- 水着
+- 泳衣
+- 游水衫
+- 수영복
 has_id_wikidata: Q212989
 made_from_material:
-  - "[[_Standards/WikiData/WD~nylon,177941]]"
-  - "[[_Standards/WikiData/WD~polyester,188245]]"
+- '[[_Standards/WikiData/WD~nylon,177941]]'
+- '[[_Standards/WikiData/WD~polyester,188245]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sportswear,645292]]"
-  - "[[_Standards/WikiData/WD~swimwear,7223116]]"
+- '[[_Standards/WikiData/WD~sportswear,645292]]'
+- '[[_Standards/WikiData/WD~swimwear,7223116]]'
 has_use:
-  - "[[_Standards/WikiData/WD~sun_bathing,47125651]]"
-  - "[[_Standards/WikiData/WD~swimming,6388]]"
+- '[[_Standards/WikiData/WD~sun_bathing,47125651]]'
+- '[[_Standards/WikiData/WD~swimming,6388]]'
 Dewey_Decimal_Classification:
-  - 391
-  - 646.47
-  - 687.16
+- 391
+- 646.47
+- 687.16
 Nomenclature_for_Museum_Cataloging: 2510
 OmegaWiki_Defined_Meaning: 7939
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chloe%20Sutton.jpg
@@ -38,10 +102,86 @@ hashtag: swimsuit
 Commons_gallery: Swimsuit
 Commons_category: Swimwear
 IMDb_keyword: woman-wears-a-swimsuit
-Unicode_character: 🩱
+Unicode_character: "\U0001FA71"
 OpenStreetMap_tag: clothing=swimwear
+dv_has_:
+  name_:
+    an: banyador
+    ar: لباس سباحة
+    arz: مايوه  mayyoh
+    ast: traxe de bañu
+    atj: Kipacmo arakpecakan
+    be-tarask: плавальны касьцюм
+    bg: Бански костюм
+    bn: সাঁতারের স্যুট
+    br: Dilhad-kouronkañ
+    ca: banyador
+    cs: plavky
+    da: badetøj
+    de: Badebekleidung
+    diq: Kıncê deryay
+    en: swimsuit
+    en-gb: swimming costume
+    eo: bankostumo
+    es: traje de baño
+    et: Supeltrikoo
+    eu: bainujantzi
+    fa: مایو
+    fi: uimapuku
+    fr: maillot de bain
+    fy: Baaiklean
+    ga: culaith shnámha
+    gd: Briogais-snàmh
+    gl: Traxe de baño
+    gv: Eaddagh-snaue
+    he: בגד ים
+    hr: Kupaći kostim
+    ht: Mayo benyen
+    hu: fürdőruha
+    hy: Լողազգեստ
+    hyw: Լողազգեստ
+    id: Pakaian renang
+    io: balno-vesto
+    is: Sundföt
+    it: costume da bagno
+    ja: 水着
+    kn: ಸ್ವಿಮ್ ಸೂತ್
+    ko: 수영복
+    la: Vestis balnearis
+    lfn: veste de nada
+    lt: maudymosi kostiumėlis
+    lv: peldkostīms
+    mk: костим за капење
+    ms: Baju mandi
+    nah: Amaxtli
+    nan: Iû-éng-saⁿ
+    nb: badedrakt
+    ne: पौडिपहिरन
+    nl: zwemkleding
+    nn: badetøy
+    pl: kostium kąpielowy
+    pt: traje de banho
+    pt-br: traje de banho
+    ro: costum de baie
+    ru: купальник
+    sl: kopalna oblačila
+    sr: купаћи костим
+    sv: badkläder
+    szl: badyancug
+    th: ชุดว่ายน้ำ
+    tl: Kasuotang panligo't panlangoy
+    tr: mayo
+    uk: купальний костюм
+    vi: Đồ bơi
+    yue: 游水衫
+    zh: 泳衣
+    zh-cn: 泳衣
+    zh-hans: 泳衣
+    zh-hant: 泳衣
+    zh-hk: 泳衣
+    zh-sg: 泳衣
+    zh-tw: 泳衣
 ---
-
 # [[Swimsuit]] 🩱 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Swimsuit,212989|WD~Swimsuit,212989]]  

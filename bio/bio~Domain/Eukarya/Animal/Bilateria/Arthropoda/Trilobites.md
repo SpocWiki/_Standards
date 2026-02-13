@@ -1,8 +1,142 @@
 ---
 aliases:
-  - Trilobites
+- Bọ ba thùy
+- Sam-ia̍p-thiông
+- Trilobiet
+- Trilobiete
+- trilobieten
+- Trilobiidid
+- trilobiitit
+- trilobit
+- Trilobita
+- Trilobitai
+- Trilobitalar
+- Trilobite
+- Trilobiten
+- Trilobiter
+- Trilobites
+- Trilobiti
+- Trilobitler
+- Trilobitlər
+- Trilobito
+- trilobittar
+- Trilobitter
+- Trilobity
+- trilobiták
+- Trilobuloj
+- Trilobīti
+- trylobity
+- Tríliopaít
+- Þríbrotar
+- Τριλοβίτης
+- трилобіти
+- Трилобииттар
+- трилобити
+- Трилобитлар
+- Трилобиттер
+- трилобиты
+- трылабіты
+- трылябіты
+- Տրիլոբիտներ
+- טרילוביטים
+- ترٛؠکھٔنڈل
+- تریلوبیت
+- ثلاثيات الفصوص
+- ټریلوبیټ
+- ट्राइलोबाइट
+- ট্রাইলোবাইট
+- ട്രൈലോബൈറ്റ്
+- ට්රයිලොබයිටා
+- ไทรโลไบต์
+- ტრილობიტები
+- 三叶虫
+- 三叶虫纲
+- 三葉虫
+- 三葉蟲
+- 三葉蟲綱
+- 삼엽충
 title: Trilobites
 has_id_wikidata: Q17170
+dv_has_:
+  name_:
+    af: Trilobiet
+    ar: ثلاثيات الفصوص
+    az: Trilobitlər
+    bar: Trilobita
+    be: трылабіты
+    be-tarask: трылябіты
+    bg: трилобити
+    bn: ট্রাইলোবাইট
+    bs: Trilobiti
+    ca: trilobit
+    cs: trilobiti
+    da: trilobit
+    de: Trilobiten
+    de-at: Trilobita
+    de-ch: Trilobita
+    el: Τριλοβίτης
+    eo: Trilobuloj
+    et: Trilobiidid
+    fa: تریلوبیت
+    fi: trilobiitit
+    frr: Trilobiten
+    ga: Tríliopaít
+    gl: Trilobite
+    gsw: Trilobita
+    he: טרילוביטים
+    hi: ट्राइलोबाइट
+    ht: Trilobit
+    hu: trilobiták
+    hy: Տրիլոբիտներ
+    id: trilobit
+    io: Trilobito
+    is: Þríbrotar
+    ja: 三葉虫
+    jv: Trilobite
+    ka: ტრილობიტები
+    kk: Трилобиттер
+    ko: 삼엽충
+    ks: ترٛؠکھٔنڈل
+    lb: Trilobita
+    li: Trilobiete
+    lt: Trilobitai
+    lv: Trilobīti
+    min: Trilobita
+    mk: трилобити
+    ml: ട്രൈലോബൈറ്റ്
+    mul: Trilobita
+    nan: Sam-ia̍p-thiông
+    nb: Trilobitter
+    nds: Trilobita
+    nds-nl: Trilobita
+    nl: trilobieten
+    nn: trilobittar
+    oc: Trilobit
+    pl: trylobity
+    ps: ټریلوبیټ
+    rm: Trilobita
+    ru: трилобиты
+    sah: Трилобииттар
+    sco: trilobite
+    sh: Trilobiti
+    si: ට්රයිලොබයිටා
+    sk: Trilobity
+    sl: trilobiti
+    sr: трилобити
+    sv: Trilobiter
+    th: ไทรโลไบต์
+    tr: Trilobitler
+    tt: Трилобитлар
+    uk: трилобіти
+    uz: Trilobitalar
+    vi: Bọ ba thùy
+    vls: Trilobita
+    wuu: 三叶虫
+    yue: 三葉蟲
+    zh: 三葉蟲綱
+    zh-cn: 三叶虫纲
+    zh-hans: 三叶虫纲
+    zh-tw: 三葉蟲
 ---
 # [[Trilobites]]
 

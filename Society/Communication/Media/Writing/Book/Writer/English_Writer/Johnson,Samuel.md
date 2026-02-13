@@ -1,61 +1,100 @@
 ---
 aliases:
-  - Samuel_Johnson
-  - Samuel Johnson
-  - Johnson
-  - Johnson,Samuel
+- Johnson
+- Johnson,Samuel
+- Samjuel Džonson
+- Samuel Conson
+- Samuel Johnson
+- Samuelis Džonsonas
+- Samuel_Johnson
+- Semjuels Džonsons
+- Simi Johnson
+- Σάμιουελ Τζόνσον
+- Джонсон Сэмюэл
+- Самюел Джонсън
+- Семјуел Џонсон
+- Семюел Джонсон
+- Сэмюэл Джонсон
+- Сэм’юэл Джонсан
+- Սեմյուել Ջոնսոն
+- סמואל ג'ונסון
+- ساموئل جانسون
+- سامويل جانسن
+- سیموئیل جانسن
+- صمويل جونسون
+- ڈاکٹر سیموئیل جانسن
+- सॅम्युएल जॉन्सन
+- सैमुएल जॉनसन
+- ছেমুৱেল জনছন
+- স্যামুয়েল জনসন
+- ਸੈਮੂਅਲ ਜਾਨਸਨ
+- ସାମୁଏଲ୍ ଜନ୍ସନ୍
+- சாமுவேல் ஜோன்சன்
+- శామ్యూల్ జాన్సన్
+- ಸ್ಯಾಮುಯಲ್ ಜಾನ್ಸ್ಸನ್
+- സാമുവൽ ജോൺസൺ
+- ซามูเอล จอห์นสัน
+- ဂျွန်ဆင် ဆယ်မျူယယ်
+- სამუელ ჯონსონი
+- სემუელ ჯონსონი
+- サミュエル・ジョンソン
+- 塞繆爾·約翰遜
+- 塞繆爾·詹森
+- 塞缪尔·约翰逊
+- 森繆莊臣
+- 새뮤얼 존슨
 has_id_wikidata: Q183266
 educated_at:
-  - '[[_Standards/WikiData/WD~Pembroke_College,82606]]'
-  - '[[_Standards/WikiData/WD~King_Edward_VI_College_Stourbridge,6411521]]'
-  - '[[_Standards/WikiData/WD~King_Edward_VI_School,6411536]]'
+- '[[_Standards/WikiData/WD~Pembroke_College,82606]]'
+- '[[_Standards/WikiData/WD~King_Edward_VI_College_Stourbridge,6411521]]'
+- '[[_Standards/WikiData/WD~King_Edward_VI_School,6411536]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~biographer,864380]]'
-  - '[[_Standards/WikiData/WD~bookseller,998550]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~critic,6430706]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
-  - '[[_Standards/WikiData/WD~linguist,14467526]]'
-  - '[[_Standards/WikiData/WD~lexicographer,14972848]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~biographer,864380]]'
+- '[[_Standards/WikiData/WD~bookseller,998550]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~critic,6430706]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+- '[[_Standards/WikiData/WD~linguist,14467526]]'
+- '[[_Standards/WikiData/WD~lexicographer,14972848]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~myopia,168403]]'
-  - '[[_Standards/WikiData/WD~Tourette_syndrome,191779]]'
+- '[[_Standards/WikiData/WD~myopia,168403]]'
+- '[[_Standards/WikiData/WD~Tourette_syndrome,191779]]'
 place_of_birth: '[[_Standards/WikiData/WD~Lichfield,207371]]'
 student: '[[_Standards/WikiData/WD~David_Garrick,222390]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Tories,499956]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Q19036877,19036877]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Q19036877,19036877]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 given_name: '[[_Standards/WikiData/WD~Samuel,629347]]'
 family_name: '[[_Standards/WikiData/WD~Johnson,1158485]]'
 notable_work: '[[_Standards/WikiData/WD~A_Dictionary_of_the_English_Language,1210346]]'
 owner_of: '[[_Standards/WikiData/WD~Hodge,1622688]]'
 spouse: '[[_Standards/WikiData/WD~Elizabeth_Porter,3051259]]'
 academic_degree:
-  - '[[_Standards/WikiData/WD~Master_of_Arts,3297864]]'
-  - '[[_Standards/WikiData/WD~Legum_Doctor,6518699]]'
+- '[[_Standards/WikiData/WD~Master_of_Arts,3297864]]'
+- '[[_Standards/WikiData/WD~Legum_Doctor,6518699]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 student_of: '[[_Standards/WikiData/WD~William_Adams,8004146]]'
@@ -63,9 +102,9 @@ cause_of_death: '[[_Standards/WikiData/WD~surgical_complications,14467705]]'
 mother: '[[_Standards/WikiData/WD~Sarah_Ford,20897792]]'
 father: '[[_Standards/WikiData/WD~Michael_Johnson,20897811]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Doctor_Samuel_Johnson,28541460]]'
-  - '[[_Standards/WikiData/WD~Dr_Samuel_Johnson_(1709_1784),52201453]]'
-  - '[[_Standards/WikiData/WD~Samuel_Johnson_(1709_1784),119801175]]'
+- '[[_Standards/WikiData/WD~Doctor_Samuel_Johnson,28541460]]'
+- '[[_Standards/WikiData/WD~Dr_Samuel_Johnson_(1709_1784),52201453]]'
+- '[[_Standards/WikiData/WD~Samuel_Johnson_(1709_1784),119801175]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1709-09-18T00:00:00Z
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -88,8 +127,110 @@ Google_Doodle: samuel-johnsons-308th-birthday
 Libris_URI: zw9cdlmh3rstsss
 date_of_death: 1784-12-13T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Samuel%20Johnson%20Blue%20Plaque.JPG
+dv_has_:
+  name_:
+    af: Samuel Johnson
+    ar: صمويل جونسون
+    arz: صمويل جونسون
+    as: ছেমুৱেল জনছন
+    ast: Samuel Johnson
+    az: Samuel Conson
+    azb: ساموئل جانسون
+    be-tarask: Сэм’юэл Джонсан
+    bg: Самюел Джонсън
+    bn: স্যামুয়েল জনসন
+    br: Samuel Johnson
+    bs: Samuel Johnson
+    ca: Samuel Johnson
+    cs: Samuel Johnson
+    cv: Джонсон Сэмюэл
+    cy: Samuel Johnson
+    da: Samuel Johnson
+    de: Samuel Johnson
+    de-ch: Samuel Johnson
+    el: Σάμιουελ Τζόνσον
+    en: Samuel Johnson
+    en-ca: Samuel Johnson
+    en-gb: Samuel Johnson
+    eo: Samuel Johnson
+    es: Samuel Johnson
+    et: Samuel Johnson
+    eu: Samuel Johnson
+    fa: ساموئل جانسون
+    fi: Samuel Johnson
+    fr: Samuel Johnson
+    ga: Samuel Johnson
+    gl: Samuel Johnson
+    gor: Samuel Johnson
+    he: סמואל ג'ונסון
+    hi: सैमुएल जॉनसन
+    hr: Samuel Johnson
+    hu: Samuel Johnson
+    hy: Սեմյուել Ջոնսոն
+    ia: Samuel Johnson
+    id: Samuel Johnson
+    ig: Simi Johnson
+    it: Samuel Johnson
+    ja: サミュエル・ジョンソン
+    jv: Samuel Johnson
+    ka: სემუელ ჯონსონი
+    kn: ಸ್ಯಾಮುಯಲ್ ಜಾನ್ಸ್ಸನ್
+    ko: 새뮤얼 존슨
+    ku: Samuel Johnson
+    kw: Samuel Johnson
+    la: Samuel Johnson
+    li: Samuel Johnson
+    lt: Samuelis Džonsonas
+    lv: Semjuels Džonsons
+    mk: Семјуел Џонсон
+    ml: സാമുവൽ ജോൺസൺ
+    mr: सॅम्युएल जॉन्सन
+    mul: Samuel Johnson
+    my: ဂျွန်ဆင် ဆယ်မျူယယ်
+    nan: Samuel Johnson
+    nb: Samuel Johnson
+    nds: Samuel Johnson
+    nl: Samuel Johnson
+    nn: Samuel Johnson
+    or: ସାମୁଏଲ୍ ଜନ୍ସନ୍
+    pa: ਸੈਮੂਅਲ ਜਾਨਸਨ
+    pam: Samuel Johnson
+    pl: Samuel Johnson
+    pnb: سیموئیل جانسن
+    ps: سامويل جانسن
+    pt: Samuel Johnson
+    pt-br: Samuel Johnson
+    qu: Samuel Johnson
+    ro: Samuel Johnson
+    ru: Сэмюэл Джонсон
+    rue: Семюел Джонсон
+    sh: Samuel Johnson
+    sk: Samuel Johnson
+    sl: Samuel Johnson
+    sq: Samuel Johnson
+    sr: Samjuel Džonson
+    sv: Samuel Johnson
+    ta: சாமுவேல் ஜோன்சன்
+    te: శామ్యూల్ జాన్సన్
+    th: ซามูเอล จอห์นสัน
+    tr: Samuel Johnson
+    uk: Семюел Джонсон
+    ur: ڈاکٹر سیموئیل جانسن
+    uz: Samuel Johnson
+    vi: Samuel Johnson
+    vmf: Samuel Johnson
+    wuu: 塞缪尔·约翰逊
+    xmf: სამუელ ჯონსონი
+    yo: Samuel Johnson
+    yue: 森繆莊臣
+    zh: 塞缪尔·约翰逊
+    zh-cn: 塞缪尔·约翰逊
+    zh-hans: 塞缪尔·约翰逊
+    zh-hant: 塞繆爾·約翰遜
+    zh-hk: 塞繆爾·約翰遜
+    zh-sg: 塞缪尔·约翰逊
+    zh-tw: 塞繆爾·詹森
 ---
-
 # [[Johnson,Samuel]] 
 
 #is_/same_as :: [[WD~Samuel_Johnson,183266]] 

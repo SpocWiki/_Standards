@@ -1,9 +1,67 @@
 ---
 aliases:
+- class field theory
+- Eremuen klaseen teoria
+- klasokorpa teorio
+- Klassenkörpertheorie
+- klassenveldtheorie
+- osztálytestelmélet
+- Sınıf alan teorisi
+- teoria corpurilor de clase
+- teoria de cossos de classes
+- teoria dos corpos de classes
+- teorie třídových těles
+- Teorija polja klasa
+- Teoría de corpos de clases
+- Teoría de cuerpos de clases
+- théorie des corps de classes
+- Θεωρία κλάσεων σωμάτων
+- Теорія полів класів
+- теория полей классов
+- тэорыя палёў клясаў
+- тэорыя палей класаў
+- תורת שדות המחלקה
+- نظرية الحقول الفصلية
+- نظریه میدان ردهای
+- 类域论
+- 類体論
+- 類域論
+- 類場論
+- 유체론
 has_id_wikidata: Q1744580
-subclass_of: "[[_Standards/WikiData/WD~algebraic_number_theory,613048]]"
+subclass_of: '[[_Standards/WikiData/WD~algebraic_number_theory,613048]]'
+dv_has_:
+  name_:
+    ar: نظرية الحقول الفصلية
+    ast: Teoría de cuerpos de clases
+    be: тэорыя палей класаў
+    be-tarask: тэорыя палёў клясаў
+    ca: teoria de cossos de classes
+    cs: teorie třídových těles
+    de: Klassenkörpertheorie
+    el: Θεωρία κλάσεων σωμάτων
+    en: class field theory
+    eo: klasokorpa teorio
+    es: teoría de cuerpos de clases
+    eu: Eremuen klaseen teoria
+    fa: نظریه میدان ردهای
+    fr: théorie des corps de classes
+    gl: Teoría de corpos de clases
+    he: תורת שדות המחלקה
+    hu: osztálytestelmélet
+    ja: 類体論
+    ko: 유체론
+    nl: klassenveldtheorie
+    pt: teoria dos corpos de classes
+    ro: teoria corpurilor de clase
+    ru: теория полей классов
+    sr: Teorija polja klasa
+    tr: Sınıf alan teorisi
+    uk: Теорія полів класів
+    wuu: 类域论
+    yue: 類場論
+    zh: 類域論
 ---
-
 # [[Class_Field_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Class_field_theory,1744580|WD~Class_field_theory,1744580]] 

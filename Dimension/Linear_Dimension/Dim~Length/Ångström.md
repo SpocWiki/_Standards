@@ -1,24 +1,57 @@
 ---
 aliases:
-  - angstrom
-  - Angström
-  - Ångström
+- angstram
+- angstrem
+- Angstrem (birlik)
+- Angstremas
+- angstrom
+- Angström
+- angstrēms
+- Anqstrem
+- anstromo
+- Ongström
+- àngstrom
+- Ángstrom
+- Å
+- Ångstrom
+- Ångström
+- Ångström (eenheid)
+- ångstrøm
+- Ώνγκστρεμ
+- Ангстрем
+- Ангстрьом
+- Ангстрэм
+- անգստրեմ
+- אנגסטרום
+- آنگستروم
+- أنغستروم
+- أنݣستروم
+- انګستروم
+- कर्विमान
+- অ্যাংস্ট্রম একক
+- ஆங்ஸ்டிராம்
+- ಆಯ್ಂಗ್ ಸ್ಟ್ರಾಮ್
+- อังสตรอม
+- ანგსტრემი
+- オングストローム
+- 埃格斯特朗
+- 옹스트롬
 has_id_wikidata: Q81454
-named_after: "[[_Standards/WikiData/WD~Anders_Jonas_Ångström,187258]]"
+named_after: '[[_Standards/WikiData/WD~Anders_Jonas_Ångström,187258]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_length,1978718]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Å,9989]]"
+- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Å,9989]]'
 conversion_to_standard_unit: 1000000000
 conversion_to_SI_unit: 1e-10
-measured_physical_quantity: "[[_Standards/WikiData/WD~length,36253]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
 UN_CEFACT_Common_Code: A11
-OmegaWiki_Defined_Meaning: "542808"
+OmegaWiki_Defined_Meaning: 542808
 UCUM_code: Ao
 unit_symbol:
-  - Å
-  - Å
+- Å
+- Å
 Unicode_character: Å
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%8F%E0%A6%95%E0%A6%95.wav
 Wolfram_Language_unit_code: '"Angstroms"'
@@ -27,8 +60,105 @@ Commons_category: Ångström (unit of length)
 Wolfram_Language_entity_code: Entity["SolarSystemFeature", "AngstromAMoon"]
 Wikidata_SPARQL_query_equivalent: wd:Q81454 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 UMLS_CUI: C0560170
+dv_has_:
+  name_:
+    af: Ångström (eenheid)
+    anp: कर्विमान
+    ar: أنغستروم
+    ary: أنݣستروم
+    ast: Ángstrom
+    az: Anqstrem
+    be: Ангстрэм
+    be-tarask: ангстрэм
+    bg: Ангстрьом
+    bn: অ্যাংস্ট্রম একক
+    br: Angström
+    bs: Ångstrom
+    ca: àngstrom
+    cs: ångström
+    cv: Ангстрем
+    da: ångstrøm
+    de: Ångström
+    el: Ώνγκστρεμ
+    en: ångström
+    eo: anstromo
+    es: ángstrom
+    et: Ongström
+    eu: Angstrom
+    ext: Ångström
+    fa: آنگستروم
+    fi: Ångström
+    fr: ångström
+    frr: Ångström
+    fur: Angstrom
+    ga: angstram
+    gd: Ångström
+    gl: ángstrom
+    he: אנגסטרום
+    hi: कर्विमान
+    hr: Ångstrom
+    hu: ångström
+    hy: անգստրեմ
+    id: Ångström
+    is: ångström
+    it: Ångström
+    ja: オングストローム
+    ka: ანგსტრემი
+    kk: Ангстрем
+    kn: ಆಯ್ಂಗ್ ಸ್ಟ್ರಾಮ್
+    ko: 옹스트롬
+    ky: Ангстрем
+    la: Ångström
+    lb: Angström
+    lt: Angstremas
+    lv: angstrēms
+    min: Angstrom
+    mk: ангстрем
+    mr: कर्विमान
+    ms: Angstrom
+    mul: Å
+    nb: ångstrøm
+    nl: ångström
+    nn: ångström
+    oc: Àngstrom
+    pl: angstrem
+    ps: انګستروم
+    pt: ångström
+    qu: Ångström
+    ro: Ångström
+    ru: ангстрем
+    sah: Ангстрем
+    scn: Ångström
+    sh: Angstrem
+    sk: angström
+    sl: angstrem
+    sq: Angstrom
+    sr: ангстрем
+    sv: ångström
+    ta: ஆங்ஸ்டிராம்
+    tg: Ангстрем
+    th: อังสตรอม
+    tl: Angstrom
+    tr: Ångström
+    udm: ангстрем
+    uk: Ангстрем
+    uz: Angstrem (birlik)
+    vi: Ångström
+    vls: Ångström
+    war: Angstrom
+    wuu: 埃格斯特朗
+    xmf: ანგსტრემი
+    yue: 埃格斯特朗
+    zh: 埃格斯特朗
+    zh-cn: 埃格斯特朗
+    zh-hans: 埃格斯特朗
+    zh-hant: 埃格斯特朗
+    zh-hk: 埃格斯特朗
+    zh-mo: 埃格斯特朗
+    zh-my: 埃格斯特朗
+    zh-sg: 埃格斯特朗
+    zh-tw: 埃格斯特朗
 ---
-
 # [[Ångström]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ångström,81454|WD~Ångström,81454]] 

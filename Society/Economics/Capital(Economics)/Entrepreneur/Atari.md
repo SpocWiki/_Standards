@@ -1,48 +1,97 @@
 ---
-has_time_stopped: 1984-01-01 
+has_time_stopped: 1984-01-01
 aliases:
+- Atari
+- Atari Inc.
+- Atari, Inc
+- Atari, Inc.
+- Աթարի
+- شركة أتاري
+- شركه اتارى
+- شرکت آتاری
+- アタリ
+- 雅达利公司
+- 雅达利有限公司
+- 아타리
 has_id_wikidata: Q13409231
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~Atari_2600,206261]]"
-  - "[[_Standards/WikiData/WD~Pong,216293]]"
-  - "[[_Standards/WikiData/WD~Atari_8_bit_family,249075]]"
-  - "[[_Standards/WikiData/WD~Atari_5200,743222]]"
-  - "[[_Standards/WikiData/WD~Space_Race,2006880]]"
-  - "[[_Standards/WikiData/WD~Gotcha,4039627]]"
-  - "[[_Standards/WikiData/WD~Pong_Doubles_(C_160),68148042]]"
-  - "[[_Standards/WikiData/WD~software,7397]]"
-location_of_formation: "[[_Standards/WikiData/WD~Sunnyvale,208459]]"
-headquarters_location: "[[_Standards/WikiData/WD~Sunnyvale,208459]]"
+- '[[_Standards/WikiData/WD~Atari_2600,206261]]'
+- '[[_Standards/WikiData/WD~Pong,216293]]'
+- '[[_Standards/WikiData/WD~Atari_8_bit_family,249075]]'
+- '[[_Standards/WikiData/WD~Atari_5200,743222]]'
+- '[[_Standards/WikiData/WD~Space_Race,2006880]]'
+- '[[_Standards/WikiData/WD~Gotcha,4039627]]'
+- '[[_Standards/WikiData/WD~Pong_Doubles_(C_160),68148042]]'
+- '[[_Standards/WikiData/WD~software,7397]]'
+location_of_formation: '[[_Standards/WikiData/WD~Sunnyvale,208459]]'
+headquarters_location: '[[_Standards/WikiData/WD~Sunnyvale,208459]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~video_game_developer,210167]]"
-  - "[[_Standards/WikiData/WD~video_game_publisher,1137109]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Warner_Communications,247032]]"
-owned_by: "[[_Standards/WikiData/WD~Warner_Communications,247032]]"
+- '[[_Standards/WikiData/WD~video_game_developer,210167]]'
+- '[[_Standards/WikiData/WD~video_game_publisher,1137109]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Warner_Communications,247032]]'
+owned_by: '[[_Standards/WikiData/WD~Warner_Communications,247032]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Nolan_Bushnell,335039]]"
-  - "[[_Standards/WikiData/WD~Ted_Dabney,3982507]]"
+- '[[_Standards/WikiData/WD~Nolan_Bushnell,335039]]'
+- '[[_Standards/WikiData/WD~Ted_Dabney,3982507]]'
 copyright_representative:
-  - "[[_Standards/WikiData/WD~Atari,_Inc.,527336]]"
-  - "[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]"
-different_from: "[[_Standards/WikiData/WD~Atari,_Inc.,527336]]"
-industry: "[[_Standards/WikiData/WD~video_game_industry,941594]]"
+- '[[_Standards/WikiData/WD~Atari,_Inc.,527336]]'
+- '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
+different_from: '[[_Standards/WikiData/WD~Atari,_Inc.,527336]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Atari_Games,1061580]]"
-  - "[[_Standards/WikiData/WD~Atari_Corporation,3627870]]"
-archives_at: "[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-CAGE_code: "63236"
+- '[[_Standards/WikiData/WD~Atari_Games,1061580]]'
+- '[[_Standards/WikiData/WD~Atari_Corporation,3627870]]'
+archives_at: '[[_Standards/WikiData/WD~Stanford_University_Libraries_Department_of_Special_Collections_and_University_Archives,60339057]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+CAGE_code: 63236
 inception:
-  - 1972-06-09T00:00:00Z
-  - 1972-06-27T00:00:00Z
+- 1972-06-09T00:00:00Z
+- 1972-06-27T00:00:00Z
 YouTube_handle: atari
 subreddit: atari
 dissolved_abolished_or_demolished_date: 1984-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Atari%20logo%20alt.svg
-Central_Index_Key: "0000703122"
+Central_Index_Key: 0000703122
 DPLA_subject_term: Atari, Inc
+dv_has_:
+  name_:
+    ar: شركة أتاري
+    arz: شركه اتارى
+    be-tarask: Atari, Inc.
+    ca: Atari, Inc.
+    cs: Atari, Inc.
+    de: Atari, Inc.
+    de-ch: Atari, Inc.
+    en: Atari, Inc.
+    en-ca: Atari, Inc.
+    en-gb: Atari, Inc.
+    es: Atari, Inc.
+    fa: شرکت آتاری
+    fi: Atari, Inc.
+    fr: Atari Inc.
+    gl: Atari, Inc.
+    hu: Atari, Inc.
+    hy: Աթարի
+    id: Atari, Inc.
+    it: Atari, Inc.
+    ja: アタリ
+    ka: Atari, Inc.
+    ko: 아타리
+    lld: Atari Inc.
+    ms: Atari, Inc.
+    nb: Atari, Inc.
+    nl: Atari, Inc.
+    pt: Atari, Inc.
+    pt-br: Atari, Inc.
+    ro: Atari, Inc.
+    ru: Atari, Inc
+    sl: Atari, Inc.
+    sv: Atari, Inc.
+    sw: Atari, Inc.
+    tl: Atari
+    wuu: 雅达利公司
+    zh: 雅达利有限公司
 ---
-
 # [[Atari]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Atari,_Inc.,13409231]] 

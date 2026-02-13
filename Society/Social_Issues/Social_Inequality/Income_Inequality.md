@@ -1,8 +1,79 @@
 ---
 has_id_wikidata: Q3915542
+dv_has_:
+  name_:
+    ar: توزيع الدخل
+    ast: Distribución de la renta
+    az: Gəlirlərin paylanması
+    ca: distribució de la renda
+    ckb: كوردى
+    da: Indkomstfordeling
+    de: Einkommensverteilung
+    en: income distribution
+    en-us: income distribution
+    eo: distribuo de enspezo
+    es: Distribución de la renta
+    eu: Errentaren banaketa
+    fa: توزیع درآمد
+    fi: tulonjako
+    fr: répartition des revenus
+    hi: आय वितरण
+    hu: jövedelemeloszlás
+    id: Distribusi pendapatan
+    ig: nkesa ego
+    it: distribuzione del reddito
+    ja: 所得分布
+    ko: 소득 분배
+    mk: Распределба на доходот
+    mn: Орлогын хуваарилалт
+    nl: inkomensverdeling
+    pt: distribuição de renda
+    ru: распределение доходов
+    sr: расподела прихода
+    sr-ec: расподела прихода
+    sr-el: raspodela prihoda
+    sv: Lönespridning
+    th: การกระจายรายได้
+    tr: Gelir dağılımı
+    vi: Phân phối thu nhập
+    zh: 收入分配
+    zh-hans: 收入分配
+    zh-hant: 收入分配
+    zh-hk: 收入分配
+aliases:
+- distribució de la renda
+- Distribución de la renta
+- distribuição de renda
+- distribuo de enspezo
+- Distribusi pendapatan
+- distribuzione del reddito
+- Einkommensverteilung
+- Errentaren banaketa
+- Gelir dağılımı
+- Gəlirlərin paylanması
+- income distribution
+- Indkomstfordeling
+- inkomensverdeling
+- jövedelemeloszlás
+- Lönespridning
+- nkesa ego
+- Phân phối thu nhập
+- raspodela prihoda
+- répartition des revenus
+- tulonjako
+- Орлогын хуваарилалт
+- расподела прихода
+- Распределба на доходот
+- распределение доходов
+- توزيع الدخل
+- توزیع درآمد
+- كوردى
+- आय वितरण
+- การกระจายรายได้
+- 所得分布
+- 收入分配
+- 소득 분배
 ---
-
-
 # [[Income_Inequality]] 
 
 #is_/less_than :: [[Wealth_Inequality]]  

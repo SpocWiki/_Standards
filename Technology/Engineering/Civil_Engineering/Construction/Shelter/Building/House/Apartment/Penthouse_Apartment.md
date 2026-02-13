@@ -1,16 +1,94 @@
 ---
 aliases:
-  - Penthouse
-  - Penthouse_Apartment
-  - Penthouse Apartment
+- attico
+- Cobertura
+- cobertura (moradia)
+- Căn hộ penthouse
+- Griya tawang
+- kattohuoneisto
+- pent house
+- Penthaus
+- Penthouse
+- Penthouse (typ bytu)
+- Penthouse Apartment
+- Penthouse daire
+- Penthouse_Apartment
+- Surtegmenta apartamento
+- takleilighet
+- Takvåning
+- Teilatupe
+- àtic
+- Ático
+- Ático (vivienda)
+- Ρετιρέ
+- Мезонет
+- Надградбен стан
+- пентхаус
+- Пентхаус стан
+- Пэнтгаўс
+- פנטהאוז
+- برساتی (عمارت)
+- مشرفة
+- پنتهاوس
+- बरसाती (निर्माण)
+- கூரைவீடு அடுக்ககம்
+- ペントハウスアパートメント
+- 空中别墅
+- 頂層住宅
+- 펜트하우스
 has_id_wikidata: Q2069469
 subclass_of: '[[_Standards/WikiData/WD~apartment,188507]]'
 instance_of: '[[_Standards/WikiData/WD~storey,831691]]'
 different_from: '[[_Standards/WikiData/WD~mechanical_penthouse,130323264]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/One-Harbour-Green-Penthouses.jpg
 Commons_category: Penthouses
+dv_has_:
+  name_:
+    ar: مشرفة
+    be: Пентхаус
+    be-tarask: Пэнтгаўс
+    bg: Мезонет
+    ca: àtic
+    cs: Penthouse (typ bytu)
+    de: Penthouse
+    de-ch: Penthouse
+    el: Ρετιρέ
+    en: penthouse apartment
+    en-ca: Penthouse apartment
+    en-gb: penthouse apartment
+    eo: Surtegmenta apartamento
+    es: Ático (vivienda)
+    eu: Teilatupe
+    fa: پنتهاوس
+    fi: kattohuoneisto
+    fr: penthouse
+    gl: Ático
+    gu: pent house
+    he: פנטהאוז
+    hi: बरसाती (निर्माण)
+    id: Griya tawang
+    it: attico
+    ja: ペントハウスアパートメント
+    ko: 펜트하우스
+    mk: Надградбен стан
+    nb: takleilighet
+    nl: penthouse
+    pl: Penthouse
+    pt: cobertura (moradia)
+    pt-br: Cobertura
+    ro: penthouse
+    ru: пентхаус
+    sh: Penthaus
+    sr: Пентхаус стан
+    sv: Takvåning
+    ta: கூரைவீடு அடுக்ககம்
+    tr: Penthouse daire
+    uk: пентхаус
+    ur: برساتی (عمارت)
+    vi: Căn hộ penthouse
+    yue: 頂層住宅
+    zh: 空中别墅
 ---
-
 # [[Penthouse_Apartment]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Penthouse_apartment,2069469]] 

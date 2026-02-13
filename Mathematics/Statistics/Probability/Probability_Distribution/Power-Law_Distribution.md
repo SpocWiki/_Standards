@@ -1,8 +1,71 @@
 ---
 aliases:
-  - power-law probability distribution
-  - power-law distribution
+- Güc qanunu
+- hatványtörvény
+- Hukum pangkat
+- lege de putere
+- legge di potenza
+- lei de potência
+- Lei potencial
+- ley de potencias
+- llei potencial
+- loi de puissance
+- potenslag
+- potenslov
+- potenssilaki
+- Potenzgesetz
+- power law
+- power-law distribution
+- power-law probability distribution
+- Κατανομή νόμου δύναμης
+- експоненційний закон
+- Степенен закон
+- степенов закон
+- Экспоненциальный закон
+- חוק החזקה
+- طاقت کا قانون
+- قانون الطاقة
+- قانون توان
+- ঘাত অবরোহন
+- 冪乗則
+- 冪定律
+- 幂定律
+- 멱법칙
 has_id_wikidata: Q428971
+dv_has_:
+  name_:
+    ar: قانون الطاقة
+    az: Güc qanunu
+    bg: Степенен закон
+    bn: ঘাত অবরোহন
+    ca: llei potencial
+    de: Potenzgesetz
+    el: Κατανομή νόμου δύναμης
+    en: power law
+    es: ley de potencias
+    fa: قانون توان
+    fi: potenssilaki
+    fr: loi de puissance
+    gl: Lei potencial
+    he: חוק החזקה
+    hu: hatványtörvény
+    id: Hukum pangkat
+    it: legge di potenza
+    ja: 冪乗則
+    ko: 멱법칙
+    mk: степенов закон
+    nb: potenslov
+    pt: lei de potência
+    ro: lege de putere
+    ru: Экспоненциальный закон
+    sv: potenslag
+    uk: експоненційний закон
+    ur: طاقت کا قانون
+    yue: 冪定律
+    zh: 冪定律
+    zh-hans: 幂定律
+    zh-hant: 冪定律
+    zh-hk: 冪定律
 ---
 # [[Power-Law_Distribution]] 
 

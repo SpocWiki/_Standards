@@ -1,16 +1,113 @@
 ---
 aliases:
+- Biashara ya ng'ambo ya Sahara
+- comercio transahariano
+- Comerciu transahariano
+- comerç transsaharià
+- Commerce transsaharien
+- Comèrci transsaharian
+- Comércio transaariano
+- Cummerciu tranzaharianu
+- Handel transsaharyjski
+- Kasuwancin Sahara
+- Komercado Trans-Saharana
+- l'apogéé
+- Mbubek òkije itibi Sayara
+- Perdagangan rentas Sahara
+- Perdagangan trans-Sahara
+- Sahara-cɛla jago
+- Saharaverslunin
+- Saharský obchod
+- Tra-sahara komerco
+- Trans Sahra ticareti
+- Trans-Sahara-handelen
+- trans-Saharan trade
+- Trans-Saharar merkataritza
+- Transsacharinė prekyba
+- Transsaharahandel
+- transsaharisk handel
+- Transsaharska trgovina
+- Transsəhra ticarət yolu
+- Vie commerciali trans-sahariane
+- Сахара сутă-илӳ çулĕ
+- Транссахарскі гандаль
+- Транссахарска търговия
+- Транссахарская торговля
+- Транссахарська торгівля
+- סחר חוצה סהרה
+- التجارة عبر الصحراء الكبرى
+- تجارت صحراگذر
+- ट्रांस-सहारा व्यापार
+- サハラ交易
+- 跨撒哈拉貿易
+- 跨撒哈拉贸易
+- 사하라 종단 무역
 has_id_wikidata: Q465279
-subclass_of: "[[_Standards/WikiData/WD~international_trade,178803]]"
-instance_of: "[[_Standards/WikiData/WD~trade,601401]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q28976226,28976226]]"
+subclass_of: '[[_Standards/WikiData/WD~international_trade,178803]]'
+instance_of: '[[_Standards/WikiData/WD~trade,601401]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q28976226,28976226]]'
 described_by_source: "[[_Standards/WikiData/WD~Great_journeys_travel_the_world's_most_spectacular_routes,125766454]]"
-country: "[[_Standards/WikiData/WD~Algeria,262]]"
+country: '[[_Standards/WikiData/WD~Algeria,262]]'
 Commons_category: Sahara
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20saharan%20medieval%20trade%20routes.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20language%20map%20of%20Central%20and%20Eastern%20Africa%201862.jpg
+dv_has_:
+  name_:
+    ann: Mbubek òkije itibi Sayara
+    ar: التجارة عبر الصحراء الكبرى
+    ast: Comerciu transahariano
+    az: Transsəhra ticarət yolu
+    be-tarask: Транссахарскі гандаль
+    bg: Транссахарска търговия
+    bm: Sahara-cɛla jago
+    ca: comerç transsaharià
+    cs: Saharský obchod
+    cv: Сахара сутă-илӳ çулĕ
+    da: Trans-Sahara-handelen
+    de: Transsaharahandel
+    en: trans-Saharan trade
+    eo: Tra-sahara komerco
+    es: comercio transahariano
+    eu: Trans-Saharar merkataritza
+    fa: تجارت صحراگذر
+    fr: Commerce transsaharien
+    gpe: Trans-Saharan trade
+    ha: Kasuwancin Sahara
+    he: סחר חוצה סהרה
+    hi: ट्रांस-सहारा व्यापार
+    hr: Transsaharska trgovina
+    id: Perdagangan trans-Sahara
+    io: Komercado Trans-Saharana
+    is: Saharaverslunin
+    it: Vie commerciali trans-sahariane
+    ja: サハラ交易
+    ko: 사하라 종단 무역
+    lt: Transsacharinė prekyba
+    ms: Perdagangan rentas Sahara
+    nb: transsaharisk handel
+    nl: Transsaharahandel
+    nn: transsaharahandel
+    oc: Comèrci transsaharian
+    pl: Handel transsaharyjski
+    pt: Comércio transaariano
+    ru: Транссахарская торговля
+    scn: Cummerciu tranzaharianu
+    sl: transsaharska trgovina
+    sr: Transsaharska trgovina
+    sv: Transsaharahandel
+    sw: Biashara ya ng'ambo ya Sahara
+    tr: Trans Sahra ticareti
+    uk: Транссахарська торгівля
+    wo: l'apogéé
+    wuu: 跨撒哈拉贸易
+    zh: 跨撒哈拉贸易
+    zh-cn: 跨撒哈拉贸易
+    zh-hans: 跨撒哈拉贸易
+    zh-hant: 跨撒哈拉貿易
+    zh-hk: 跨撒哈拉貿易
+    zh-sg: 跨撒哈拉贸易
+    zh-tw: 跨撒哈拉貿易
 ---
-
 # [[Trans-Saharan_Trade]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Trans-Saharan_trade,465279|WD~Trans-Saharan_trade,465279]]  

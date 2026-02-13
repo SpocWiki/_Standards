@@ -1,26 +1,101 @@
 ---
 aliases:
-  - Polonium
+- Boloniyaam
+- ImPosumu
+- jicmrpoloni
+- polon
+- poloni
+- Polonii
+- polonij
+- polonijs
+- Polonijum
+- polonin
+- polonio
+- Poloniom
+- Polonis
+- poloniu
+- Polonium
+- Poloniumi
+- poloniwm
+- Poloniy
+- polonju
+- Polonnio
+- Polonyo
+- Polonyo (elemento)
+- Polonyu
+- polonyum
+- Polonyòm
+- Polonyûm
+- poloonium
+- Polòni
+- Polòniu
+- polóiniam
+- polónio
+- polónium
+- polônio
+- puloniu
+- pólon
+- Pɔlɔnɩyɔm
+- πολώνιο
+- палён
+- палоній
+- Полон
+- полоній
+- полони
+- полонијум
+- Полоний
+- полониум
+- պոլոնիում
+- פאלאניום
+- פולוניום
+- بولونيوم
+- پولونىي
+- پولونيئم
+- پولونيم
+- پولونيوم
+- پولونیئم
+- پولونیم
+- پۆلۆنیۆم
+- पोलोनियम
+- পোলোনিয়াম
+- ਪੋਲੋਨੀਅਮ
+- પોલોનીયમ
+- ପୋଲୋନିଅମ
+- பொலோனியம்
+- పొలోనియం
+- ಪೊಲೊನಿಯಮ್
+- പൊളോണിയം
+- පොලෝනියම්
+- พอโลเนียม
+- བོ་ལོ་ནིམ།
+- ပိုလိုနီယမ်
+- პოლონიუმი
+- ፖሎኒየም
+- ポロニウム
+- 釙
+- 钋
+- ꯄꯣꯂꯣꯅꯤꯌꯝ
+- 폴로늄
 has_id_wikidata: Q979
 SpocWebEntityId: 21979
 type: Element
 part_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_16,104567]]"
-  - "[[_Standards/WikiData/WD~post_transition_metal,19591]]"
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~post_transition_metal,19591]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 time_of_discovery_or_invention: 1898-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Element_84,129955955]]"
+different_from: '[[_Standards/WikiData/WD~Element_84,129955955]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
-  - "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-named_after: "[[_Standards/WikiData/WD~Poland,36]]"
+- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Poland,36]]'
 electronegativity: 2
 atomic_number: 84
 ionic_radius: 0.97
@@ -35,7 +110,7 @@ InChI: InChI=1S/Po
 Commons_gallery: Polonium
 Commons_category: Polonium
 Unicode_character: 釙
-canonical_SMILES: "[Po]"
+canonical_SMILES: '[Po]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2019-11-22%20Spark%20plugs%20and%20static%20eliminators%20with%20radioactive%20polonium%20at%20museum%20display.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20157.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20084%20polonium.png
@@ -45,18 +120,180 @@ RIA_Novosti_reference: 55967007
 CAS_Registry_Number: 7440-08-6
 UMLS_CUI: C0032390
 MeSH_tree_code:
-  - D01.268.185.600
-  - D01.268.271.680
-  - D01.268.513.875
-  - D01.496.749.305.680
+- D01.268.185.600
+- D01.268.271.680
+- D01.268.513.875
+- D01.496.749.305.680
 DSSTOX_compound_identifier: DTXCID7047647
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
 dv_has_:
   name_:
-    group: Group-16-Chalcogene
-    en: Polonium
-    de: Polonium
     abbreviated: Po
+    af: polonium
+    am: ፖሎኒየም
+    an: Polonio
+    anp: पोलोनियम
+    ar: بولونيوم
+    ary: پولونيوم
+    arz: بولونيوم
+    ast: poloniu
+    az: Polonium
+    ba: Полоний
+    ban: Polonium
+    bcl: Polonyo (elemento)
+    be: палоній
+    be-tarask: палён
+    bg: полоний
+    bho: पोलोनियम
+    bn: পোলোনিয়াম
+    bo: བོ་ལོ་ནིམ།
+    br: Poloniom
+    bs: polonij
+    ca: poloni
+    cdo: Polonium
+    ceb: Polonyo
+    ckb: پۆلۆنیۆم
+    co: Poloniu
+    cs: polonium
+    cv: Полони
+    cy: poloniwm
+    da: polonium
+    de: Polonium
+    el: πολώνιο
+    en: polonium
+    en-ca: Polonium
+    en-gb: polonium
+    eo: polonio
+    es: polonio
+    et: poloonium
+    eu: polonio
+    fa: پولونیم
+    fi: polonium
+    fo: Polonium
+    fr: polonium
+    frr: Poloonium
+    fur: Poloni
+    ga: polóiniam
+    gd: Polonium
+    gl: polonio
+    group: Group-16-Chalcogene
+    gu: પોલોનીયમ
+    gv: polonium
+    hak: polonium
+    he: פולוניום
+    hi: पोलोनियम
+    hif: Polonium
+    hr: polonij
+    ht: Polonyòm
+    hu: polónium
+    hy: պոլոնիում
+    ia: Polonium
+    id: polonium
+    io: Polonio
+    is: pólon
+    it: polonio
+    ja: ポロニウム
+    jbo: jicmrpoloni
+    ka: პოლონიუმი
+    kbp: Pɔlɔnɩyɔm
+    kk: Полоний
+    kn: ಪೊಲೊನಿಯಮ್
+    ko: 폴로늄
+    ku: Polonyûm
+    kv: Полоний
+    kw: Poloniom
+    ky: Полоний
+    la: polonium
+    lb: Polonium
+    lfn: polonio
+    li: Polonium
+    lij: Polonnio
+    lmo: Polonio
+    lt: Polonis
+    lv: polonijs
+    lzh: 釙
+    mk: полониум
+    ml: പൊളോണിയം
+    mn: полони
+    mni: ꯄꯣꯂꯣꯅꯤꯌꯝ
+    mr: पोलोनियम
+    mrj: Полоний
+    ms: Polonium
+    mt: polonju
+    my: ပိုလိုနီယမ်
+    nan: Polonium
+    nb: polonium
+    nds: Polonium
+    ne: पोलोनियम
+    new: पोलोनियम
+    nl: polonium
+    nn: polonium
+    nov: Polonium
+    oc: Polòni
+    olo: Polonii
+    or: ପୋଲୋନିଅମ
+    os: полоний
+    pa: ਪੋਲੋਨੀਅਮ
+    pi: पोलोनियम
+    pl: polon
+    pms: Polòni
+    pnb: پولونیم
+    ps: پولونيم
+    pt: polónio
+    pt-br: polônio
+    qu: Polonyu
+    ro: poloniu
+    ru: полоний
+    rup: Poloniu
+    sa: पोलोनियम
+    sc: Polòniu
+    scn: puloniu
+    sco: polonium
+    sd: پولونيئم
+    sh: Polonijum
+    si: පොලෝනියම්
+    sk: polónium
+    sl: polonij
+    so: Boloniyaam
+    sq: Poloniumi
+    sr: полонијум
+    stq: Polonium
+    sv: polonium
+    sw: Poloni
+    ta: பொலோனியம்
+    te: పొలోనియం
+    tg: Полоний
+    th: พอโลเนียม
+    tl: Polonyo
+    tr: polonyum
+    tt: Полоний
+    ug: پولونىي
+    uk: полоній
+    ur: پولونیئم
+    uz: Poloniy
+    vep: Polonii
+    vi: poloni
+    vo: polonin
+    war: Polonyo
+    wuu: 钋
+    xal: Полон
+    yi: פאלאניום
+    yo: Polonium
+    yue: 釙
+    zh: 釙
+    zh-cn: 钋
+    zh-hans: 钋
+    zh-hant: 釙
+    zh-hk: 釙
+    zh-mo: 釙
+    zh-my: 钋
+    zh-sg: 钋
+    zh-tw: 釙
+    zu: ImPosumu
+  number_of_:
+    period: 6
+    group: 16
+    electrons: 84
   value_for_:
     weight_:
       u: 209
@@ -84,23 +321,19 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 6
-    group: 16
-    electrons: 84
 dv_is_:
-  part_of: "[[../Group-16-Chalcogene]]"
+  part_of: '[[../Group-16-Chalcogene]]'
   same_as:
-    - "[[../../../WikiData/WD~Polonium,979]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]"
+  - '[[../../../WikiData/WD~Polonium,979]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]'
 dv_has_name_group: Group-16-Chalcogene
-dv_is_part_of: "[[../Group-16-Chalcogene]]"
+dv_is_part_of: '[[../Group-16-Chalcogene]]'
 dv_has_name_en: Polonium
 dv_has_name_de: Polonium
 dv_has_value_for_weight_u: 209
@@ -119,18 +352,17 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 6
 dv_has_number_of_group: 16
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Polonium,979]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]"
+- '[[../../../WikiData/WD~Polonium,979]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]'
 dv_has_name_abbreviated: Po
 dv_has_number_of_electrons: 84
 ---
-
 # [[Polonium]]
 
 #chemic/Element 

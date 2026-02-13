@@ -1,59 +1,235 @@
 ---
 aliases:
-  - Māori
-  - Māori_People
-  - Māori People
+- Anak Māori
+- Jolma Maori
+- maoorid
+- Maore
+- Maori
+- Maori tamdaw
+- Maoriai
+- Maoriani
+- Maoriar
+- maorier
+- maorih
+- maorik
+- Maorilar
+- Maorilər
+- Maorioj
+- Maoriovia
+- maoris
+- maorit
+- Maorové
+- Maorysi
+- Maorí
+- Maorís
+- Maorïaid
+- Maworis
+- Mawri runa
+- Maòri
+- Maórar
+- Mô-li-ngìn
+- Māori
+- Māori (katawhan)
+- Māori People
+- Māoried
+- Māoris
+- Māori_People
+- Người Māori
+- Orang Maori
+- pobo maorí
+- Populo Maori
+- Tagata Māoli
+- toki Majoli
+- Tulun Maori
+- u Mauli a binacadan
+- Vahoaka maory
+- Wamaori
+- Μαορί
+- Маары
+- Маорі
+- маори
+- Маорилар
+- Маорилер
+- маориялер
+- маоры
+- Մաորիներ
+- מאורים
+- ماؤری
+- مائوری
+- ماورى
+- ماوري
+- ماوريان
+- ماوری لوک
+- माओरी
+- মাওরি জাতি
+- ਮਾਓਰੀ ਲੋਕ
+- மாவோரி
+- മാവോറി ജനത
+- ชาวมาวรี
+- მაორი
+- ᎹᎣᎢ
+- マオリ
+- 毛利人
+- 마오리족
 has_id_wikidata: Q6122670
 subclass_of:
-  - '[[_Standards/WikiData/WD~indigenous_people,103817]]'
-  - '[[_Standards/WikiData/WD~Polynesians,1042001]]'
+- '[[_Standards/WikiData/WD~indigenous_people,103817]]'
+- '[[_Standards/WikiData/WD~Polynesians,1042001]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 part_of: '[[_Standards/WikiData/WD~Polynesians,1042001]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Rātana,1468049]]'
-  - '[[_Standards/WikiData/WD~Ringatū,3432223]]'
-  - '[[_Standards/WikiData/WD~Mātauranga_Māori,99547709]]'
-  - '[[_Standards/WikiData/WD~Islam,432]]'
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Rātana,1468049]]'
+- '[[_Standards/WikiData/WD~Ringatū,3432223]]'
+- '[[_Standards/WikiData/WD~Mātauranga_Māori,99547709]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_aan_de_Stroom,1646305]]'
-  - '[[_Standards/WikiData/WD~British_Museum,6373]]'
+- '[[_Standards/WikiData/WD~Museum_aan_de_Stroom,1646305]]'
+- '[[_Standards/WikiData/WD~British_Museum,6373]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Moriori_people,1758372]]'
-  - '[[_Standards/WikiData/WD~Maouri_people,6753697]]'
-  - '[[_Standards/WikiData/WD~Maori_People,124353353]]'
+- '[[_Standards/WikiData/WD~Moriori_people,1758372]]'
+- '[[_Standards/WikiData/WD~Maouri_people,6753697]]'
+- '[[_Standards/WikiData/WD~Maori_People,124353353]]'
 flag: '[[_Standards/WikiData/WD~Tino_Rangatiratanga_flag,98609686]]'
 country_of_origin: '[[_Standards/WikiData/WD~New_Zealand,664]]'
 country: '[[_Standards/WikiData/WD~New_Zealand,664]]'
 language_used:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Māori,36451]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Māori,36451]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Māori,36451]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Māori,36451]]'
 native_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Māori,36451]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Māori,36451]]'
 instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 population: 775836
 native_label: Māori
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tino%20Rangatiratanga%20Maori%20Flag.svg
 Commons_category: Māori
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/00%203451%20Maori%2C%20indigenous%20people%20of%20New%20Zealand.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Maori%20welkom.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/00%203451%20Maori%2C%20indigenous%20people%20of%20New%20Zealand.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Maori%20welkom.JPG
 MeSH_tree_code:
-  - M01.270.968.650
-  - M01.686.493.500.800.400
+- M01.270.968.650
+- M01.686.493.500.800.400
+dv_has_:
+  name_:
+    af: Maori
+    ami: Maori tamdaw
+    an: Maorís
+    ang: Maore
+    ar: ماوري
+    ary: ماوري
+    arz: ماورى
+    ast: Maorí
+    az: Maorilər
+    ban: Anak Māori
+    be: Маары
+    be-tarask: маоры
+    bew: Orang Maori
+    bg: Маори
+    bn: মাওরি জাতি
+    br: Māoried
+    bs: Maori
+    ca: maoris
+    chr: ᎹᎣᎢ
+    cs: Maorové
+    cy: Maorïaid
+    da: Maori
+    de: Maori
+    dtp: Tulun Maori
+    el: Μαορί
+    en: Māori
+    eo: Maorioj
+    es: māori
+    et: maoorid
+    eu: Maori
+    fa: مائوری
+    fi: maorit
+    fr: Maori
+    ga: Māori
+    gl: pobo maorí
+    hak: Mô-li-ngìn
+    he: מאורים
+    hi: माओरी
+    hr: Maori
+    hu: maorik
+    hy: Մաորիներ
+    id: orang Maori
+    io: Populo Maori
+    is: Maórar
+    it: Maori
+    ja: マオリ
+    ka: მაორი
+    kge: Jolma Maori
+    kk: Маори
+    kk-cyrl: маориялер
+    ko: 마오리족
+    ky: Маорилер
+    la: Maoriani
+    lt: Maoriai
+    lv: maori
+    mg: Vahoaka maory
+    mi: Māori
+    mk: Маори
+    ml: മാവോറി ജനത
+    mn: Маори
+    mr: माओरी
+    ms: Māori
+    mul: Māori
+    nan: Māori
+    nb: maorier
+    nl: Maori
+    nn: Maoriar
+    oc: Maòri
+    pa: ਮਾਓਰੀ ਲੋਕ
+    pl: Maorysi
+    pnb: ماوری لوک
+    ps: ماوريان
+    pt: Maoris
+    qu: Mawri runa
+    ro: Maori
+    ru: маори
+    sah: Маори
+    sc: Māoris
+    se: maorit
+    sh: Maori
+    sk: Maoriovia
+    sl: Maori
+    sm: Tagata Māoli
+    smn: maorih
+    sq: Māori
+    sr: Маори
+    sv: maorier
+    sw: Wamaori
+    szy: u Mauli a binacadan
+    ta: மாவோரி
+    th: ชาวมาวรี
+    tok: toki Majoli
+    tr: Māori
+    tt: Маорилар
+    uk: Маорі
+    ur: ماؤری
+    uz: Maorilar
+    vec: māori
+    vi: Người Māori
+    wa: Maworis
+    war: Māori (katawhan)
+    wuu: 毛利人
+    yue: 毛利人
+    zea: Māori
+    zh: 毛利人
+    zh-hant: 毛利人
+    zh-tw: 毛利人
 ---
-
 # [[Māori_People]] 
 
 #is_/same_as :: [[WD~Māori,6122670]] 

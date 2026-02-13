@@ -1,17 +1,92 @@
 ---
 aliases:
-  - Baumaterial
-  - Building material
-  - Building_Material
-  - Building Material
+- Bahan bangunan
+- bahan binaan
+- Baumaterial
+- Bauschtoff
+- Baustoff
+- bouwmateriaal
+- Building material
+- Building_Material
+- byggemateriale
+- Byggingarefni
+- byggjemateriale
+- byggnadsmaterial
+- celtniecības materiāls
+- daffar drehevyel
+- defnydd adeiladu
+- ehitusmaterjal
+- eraikuntza ekai
+- gradbeni material
+- građevinski materijal
+- konstrumaterialo
+- material de construcció
+- material de construcción
+- material de construción
+- material de construcție
+- material de construção
+- materiale da costruzione
+- materiał budowlany
+- materiałe de costrusion
+- Materyales na pangtayo
+- matériau de construction
+- ohun ìkọ́lé
+- qurilish materiallari
+- qurılıs materialı
+- qurılıs materïaldarı
+- rakennusmateriaali
+- sapisaluma’
+- statybinė medžiaga
+- stavební materiál
+- stavebný materiál
+- Stuth-togail
+- tikinti materialı
+- vật liệu xây dựng
+- yapı malzemesi
+- ábhar foirgníochta
+- Çурттăвăм йăмлăхĕсем
+- építőanyag
+- οικοδομικό υλικό
+- арæзтадон æрмæг
+- Барилгын материал
+- будівельний матеріал
+- будаўнічы матэрыял
+- будаўнічыя матэрыялы
+- грађевински материјал
+- градежен материјал
+- гӀишлойн гӀирсаш
+- строителен материал
+- строительный материал
+- Тутуу материала
+- төзелеш материаллары
+- төҙөлөш материалдары
+- құрылыс материалдары
+- құрылыс материалдары жалпы түсінік
+- շինարարական նյութեր
+- חומר בניין
+- تعمیراتی مواد
+- مادة بناء
+- ماددەی بینا
+- مصالح ساختمانی
+- ودانيز توکي
+- ߟߐ߬ߟߌ߬ ߖߐ߯ߙߊ߲ ߠߎ߬
+- निर्माण सामग्री
+- ভবনের উপাদান
+- கட்டிடப் பொருள்
+- ගොඩනැගිලි ද්රව්ය
+- วัสดุก่อสร้าง
+- სამშენებლო მასალა
+- 建筑材料
+- 建築材料
+- 건축재료
 has_id_wikidata: Q206615
 subclass_of:
-  - '[[_Standards/WikiData/WD~material,214609]]'
-  - '[[_Standards/WikiData/WD~construction_product,16110223]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~construction_product,16110223]]'
 has_use: '[[_Standards/WikiData/WD~construction,385378]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Nomenclature_for_Museum_Cataloging: 43
 OmegaWiki_Defined_Meaning: 447
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stapel%20bakstenen%20-%20Pile%20of%20bricks%202005%20Fruggo.jpg
@@ -24,8 +99,104 @@ Krugosvet_article: energetika-i-stroitelstvo/konstrukcionnye-i-stroitelnye-mater
 MeSH_tree_code: J01.637.241
 IPTC_NewsCode: mediatopic/20000317
 EAGLE_id: objtyp/lod/13
+dv_has_:
+  name_:
+    ar: مادة بناء
+    ast: Material de construcción
+    az: tikinti materialı
+    ba: төҙөлөш материалдары
+    bar: Bauschtoff
+    be: будаўнічыя матэрыялы
+    be-tarask: будаўнічы матэрыял
+    bg: строителен материал
+    bn: ভবনের উপাদান
+    bs: građevinski materijal
+    ca: material de construcció
+    ce: гӀишлойн гӀирсаш
+    ckb: ماددەی بینا
+    cs: stavební materiál
+    cv: Çурттăвăм йăмлăхĕсем
+    cy: defnydd adeiladu
+    da: byggemateriale
+    de: Baustoff
+    el: οικοδομικό υλικό
+    en: building material
+    en-gb: building material
+    eo: konstrumaterialo
+    es: material de construcción
+    et: ehitusmaterjal
+    eu: eraikuntza ekai
+    fa: مصالح ساختمانی
+    fi: rakennusmateriaali
+    fr: matériau de construction
+    ga: ábhar foirgníochta
+    gd: Stuth-togail
+    gl: material de construción
+    he: חומר בניין
+    hi: निर्माण सामग्री
+    hr: građevinski materijal
+    hu: építőanyag
+    hy: շինարարական նյութեր
+    id: Bahan bangunan
+    is: Byggingarefni
+    it: materiale da costruzione
+    ja: 建築材料
+    jv: Bahan bangunan
+    ka: სამშენებლო მასალა
+    kaa: qurılıs materialı
+    kk: құрылыс материалдары
+    kk-cyrl: құрылыс материалдары жалпы түсінік
+    kk-latn: qurılıs materïaldarı
+    ko: 건축재료
+    kw: daffar drehevyel
+    lt: statybinė medžiaga
+    lv: celtniecības materiāls
+    min: Bahan bangunan
+    mk: градежен материјал
+    mn: Барилгын материал
+    ms: bahan binaan
+    nb: byggemateriale
+    nl: bouwmateriaal
+    nn: byggjemateriale
+    nqo: ߟߐ߬ߟߌ߬ ߖߐ߯ߙߊ߲ ߠߎ߬
+    os: арæзтадон æрмæг
+    pl: materiał budowlany
+    ps: ودانيز توکي
+    pt: material de construção
+    pt-br: material de construção
+    ro: material de construcție
+    ru: строительный материал
+    sah: Тутуу материала
+    sh: građevinski materijal
+    si: ගොඩනැගිලි ද්රව්ය
+    sk: stavebný materiál
+    sl: gradbeni material
+    sr: грађевински материјал
+    sr-ec: грађевински материјал
+    sr-el: građevinski materijal
+    sv: byggnadsmaterial
+    szy: sapisaluma’
+    ta: கட்டிடப் பொருள்
+    th: วัสดุก่อสร้าง
+    tl: Materyales na pangtayo
+    tr: yapı malzemesi
+    tt: төзелеш материаллары
+    tt-cyrl: төзелеш материаллары
+    uk: будівельний матеріал
+    ur: تعمیراتی مواد
+    uz: qurilish materiallari
+    vec: materiałe de costrusion
+    vi: vật liệu xây dựng
+    yo: ohun ìkọ́lé
+    yue: 建築材料
+    zh: 建筑材料
+    zh-cn: 建筑材料
+    zh-hans: 建筑材料
+    zh-hant: 建築材料
+    zh-hk: 建築材料
+    zh-sg: 建筑材料
+    zh-tw: 建築材料
 ---
-
 # [[Building_Material]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Building_material,206615|WD~Building_material,206615]] 

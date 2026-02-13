@@ -1,21 +1,87 @@
 ---
 aliases:
-  - cotton gin
-  - cotton engine
-  - Cotton_Gin
-  - Cotton Gin
+- bomullsgin
+- cotten seed
+- cotton engine
+- cotton gin
+- Cotton_Gin
+- desmotadora
+- Egreniermaschine
+- inneall scartha cadáis
+- Jin mashina
+- kotoi makina
+- koton džin
+- kotonseparilo
+- makina hin pan-gapas
+- mașină de egrenat bumbac
+- odziarniarka
+- puuvillaloukku
+- Sfiladòira dël coton
+- sgranatrice di cotone
+- çırçır makinesi
+- égreneuse en coton
+- котан-джын
+- коттон-джин
+- машина за почистване на памука
+- מנפטה
+- ماشین پنبه پاککن
+- محلج القطن
+- பருத்தி அரவை ஆலை
+- కాటన్ జిన్
+- คอตตอนจิน
+- 綿繰り機
+- 軋棉機
+- 조면기
 has_id_wikidata: Q1136790
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Eli_Whitney,280930]]"
-subclass_of: "[[_Standards/WikiData/WD~agricultural_machinery,16000047]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Eli_Whitney,280930]]'
+subclass_of: '[[_Standards/WikiData/WD~agricultural_machinery,16000047]]'
 different_from:
-  - "[[_Standards/WikiData/WD~lint,110521706]]"
-  - "[[_Standards/WikiData/WD~ginning,121144794]]"
-Nomenclature_for_Museum_Cataloging: "6969"
+- '[[_Standards/WikiData/WD~lint,110521706]]'
+- '[[_Standards/WikiData/WD~ginning,121144794]]'
+Nomenclature_for_Museum_Cataloging: 6969
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cotton%20gin%20EWM%202007.jpg
 Commons_category: Cotton gins
 time_of_discovery_or_invention: 1793-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: محلج القطن
+    ast: desmotadora
+    be-tarask: котан-джын
+    bg: машина за почистване на памука
+    ca: desmotadora
+    de: Egreniermaschine
+    en: cotton gin
+    eo: kotonseparilo
+    es: desmotadora
+    eu: kotoi makina
+    fa: ماشین پنبه پاککن
+    fi: puuvillaloukku
+    fr: égreneuse en coton
+    fy: cotton gin
+    ga: inneall scartha cadáis
+    he: מנפטה
+    it: sgranatrice di cotone
+    ja: 綿繰り機
+    ko: 조면기
+    mr: cotten seed
+    nl: cotton gin
+    pl: odziarniarka
+    pms: Sfiladòira dël coton
+    ro: mașină de egrenat bumbac
+    ru: коттон-джин
+    sr: koton džin
+    sv: bomullsgin
+    ta: பருத்தி அரவை ஆலை
+    te: కాటన్ జిన్
+    th: คอตตอนจิน
+    tr: çırçır makinesi
+    uk: коттон-джин
+    uz: Jin mashina
+    war: makina hin pan-gapas
+    yue: 軋棉機
+    zh: 軋棉機
+    zh-hant: 軋棉機
 ---
-
 # [[Cotton_Gin]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cotton_gin,1136790|WD~Cotton_gin,1136790]] 

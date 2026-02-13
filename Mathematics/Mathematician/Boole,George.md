@@ -1,8 +1,39 @@
 ---
 aliases:
-  - George Boole
-  - George_Boole
-  - Boole,George
+- Boole,George
+- Bul Jorj
+- Corc Bul
+- Džordž Bul
+- Džordžs Būls
+- George Boole
+- George_Boole
+- Georgius Boole
+- Τζορτζ Μπουλ
+- Џорџ Бул
+- Буль
+- Джордж Бул
+- Джордж Буль
+- Дҗордҗ Буль
+- Ջորջ Բուլ
+- ג'ורג' בול
+- جارج بول
+- جرج بول
+- جورج بول
+- جۆرج بووڵ
+- گەۆرگە بۆۆلە
+- जॉर्ज बूल
+- জর্জ বুল
+- ஜார்ஜ் பூல்
+- జార్జ్ బూలె
+- ಜಾರ್ಜ್ ಬೂಲ್
+- ജോർജ്ജ് ബൂൾ
+- ජෝජ් බූල්
+- จอร์จ บูล
+- ジョージ・ブール
+- 乔治·布尔
+- 喬治·布爾
+- 布爾
+- 조지 불
 has_id_wikidata: Q134661
 Libris_URI: 97mqwwft2ltdwkf
 Europeana_entity: agent/base/145373
@@ -11,40 +42,40 @@ Krugosvet_article: nauka_i_tehnika/matematika/BUL_DZHORDZH.html
 name_in_native_language: George Boole
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20George%20Boole%20standing.png
 occupation:
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~logician,14565331]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~logician,14565331]]'
 member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~boolean_algebra,173183]]'
-  - "[[_Standards/WikiData/WD~Boole's_inequality,517378]]"
-  - '[[_Standards/WikiData/WD~Boolean_function,942353]]'
-  - "[[_Standards/WikiData/WD~Boole's_rule,4943343]]"
-  - '[[_Standards/WikiData/WD~The_Laws_of_Thought,7746455]]'
-  - '[[_Standards/WikiData/WD~The_Mathematical_Analysis_of_Logic,42192745]]'
+- '[[_Standards/WikiData/WD~boolean_algebra,173183]]'
+- "[[_Standards/WikiData/WD~Boole's_inequality,517378]]"
+- '[[_Standards/WikiData/WD~Boolean_function,942353]]'
+- "[[_Standards/WikiData/WD~Boole's_rule,4943343]]"
+- '[[_Standards/WikiData/WD~The_Laws_of_Thought,7746455]]'
+- '[[_Standards/WikiData/WD~The_Mathematical_Analysis_of_Logic,42192745]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 place_of_birth: '[[_Standards/WikiData/WD~Lincoln,180057]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Keith_Medal,195552]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Keith_Medal,195552]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
 child:
-  - '[[_Standards/WikiData/WD~Alicia_Boole_Stott,441991]]'
-  - '[[_Standards/WikiData/WD~Ethel_Lilian_Voynich,466068]]'
-  - '[[_Standards/WikiData/WD~Mary_Boole_Hinton,21293405]]'
-  - '[[_Standards/WikiData/WD~Margaret_Boole_Taylor,21293439]]'
-  - '[[_Standards/WikiData/WD~Lucy_Everest_Boole,7445]]'
+- '[[_Standards/WikiData/WD~Alicia_Boole_Stott,441991]]'
+- '[[_Standards/WikiData/WD~Ethel_Lilian_Voynich,466068]]'
+- '[[_Standards/WikiData/WD~Mary_Boole_Hinton,21293405]]'
+- '[[_Standards/WikiData/WD~Margaret_Boole_Taylor,21293439]]'
+- '[[_Standards/WikiData/WD~Lucy_Everest_Boole,7445]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 field_of_work: '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
 different_from: '[[_Standards/WikiData/WD~George_Boolos,1392740]]'
 employer: '[[_Standards/WikiData/WD~University_College_Cork,1574185]]'
@@ -65,8 +96,105 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: George Boole
 date_of_birth: 1815-11-02T00:00:00Z
 ISNI: 0000000110614506
+dv_has_:
+  name_:
+    af: George Boole
+    ar: جورج بول
+    arz: جورج بول
+    ast: George Boole
+    az: Corc Bul
+    be: Джордж Буль
+    be-tarask: Джордж Бул
+    bg: Джордж Бул
+    bn: জর্জ বুল
+    bs: George Boole
+    ca: George Boole
+    ckb: جۆرج بووڵ
+    cs: George Boole
+    cy: George Boole
+    da: George Boole
+    diq: George Boole
+    el: Τζορτζ Μπουλ
+    en-ca: George Boole
+    en-gb: George Boole
+    eo: George Boole
+    es: George Boole
+    et: George Boole
+    eu: George Boole
+    fa: جرج بول
+    fi: George Boole
+    ga: George Boole
+    gl: George Boole
+    gsw: George Boole
+    he: ג'ורג' בול
+    hi: जॉर्ज बूल
+    hr: George Boole
+    ht: George Boole
+    hu: George Boole
+    hy: Ջորջ Բուլ
+    id: George Boole
+    io: George Boole
+    it: George Boole
+    ja: ジョージ・ブール
+    jv: George Boole
+    kk: Джордж Буль
+    kn: ಜಾರ್ಜ್ ಬೂಲ್
+    ko: 조지 불
+    ku: George Boole
+    ku-arab: گەۆرگە بۆۆلە
+    ku-latn: George Boole
+    ky: Буль
+    la: Georgius Boole
+    lt: George Boole
+    lv: Džordžs Būls
+    mg: George Boole
+    mk: Џорџ Бул
+    ml: ജോർജ്ജ് ബൂൾ
+    ms: George Boole
+    mul: George Boole
+    nan: George Boole
+    nb: George Boole
+    nn: George Boole
+    nov: George Boole
+    oc: George Boole
+    pl: George Boole
+    pms: George Boole
+    ps: جورج بول
+    pt: George Boole
+    pt-br: George Boole
+    ro: George Boole
+    ru: Джордж Буль
+    sco: George Boole
+    sh: George Boole
+    si: ජෝජ් බූල්
+    sk: George Boole
+    sl: George Boole
+    sq: george boole
+    sr: Џорџ Бул
+    sr-ec: Џорџ Бул
+    sr-el: Džordž Bul
+    sv: George Boole
+    ta: ஜார்ஜ் பூல்
+    te: జార్జ్ బూలె
+    th: จอร์จ บูล
+    tl: George Boole
+    tr: George Boole
+    tt: Дҗордҗ Буль
+    uk: Джордж Буль
+    ur: جارج بول
+    uz: Bul Jorj
+    vi: George Boole
+    war: George Boole
+    wuu: 乔治·布尔
+    yue: 布爾
+    zh: 乔治·布尔
+    zh-cn: 乔治·布尔
+    zh-hans: 乔治·布尔
+    zh-hant: 喬治·布爾
+    zh-hk: 喬治·布爾
+    zh-sg: 乔治·布尔
+    zh-tw: 喬治·布爾
 ---
-
 # [[Boole,George]] 
 
 #is_/same_as :: [[../../WikiData/WD~George_Boole,134661|WD~George_Boole,134661]] 

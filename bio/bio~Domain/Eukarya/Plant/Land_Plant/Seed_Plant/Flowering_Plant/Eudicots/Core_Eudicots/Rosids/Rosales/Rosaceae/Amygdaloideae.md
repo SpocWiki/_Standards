@@ -1,19 +1,104 @@
 ---
 aliases:
+- Amigdalòidia
+- Amygdaloideae
+- gavalıkimilər
+- Mandeļu apakšdzimta
+- Phân họ Mận mơ
+- Prunoideae
+- Slyviniai
+- Steinfruktfamilien
+- мигдалеві
+- Слівавыя
+- Слива йышшисем
+- сливи
+- сливови
+- сливовые
+- սալորայիններ
+- שזיפיים
+- آمیگدالوئیده
+- لوزاوات
+- დამაზიშობურეფი
+- ტყემლოვანნი
+- サクラ亜科
+- 桃亚科
+- 桃亞科
+- 梅亚科
+- 梅亞科
+- 벚나무아과
 has_id_wikidata: Q854082
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]'
 Commons_category: Amygdaloideae
 taxon_name: Amygdaloideae
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Amygdaloideae.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Prunus%20dulcis0.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Amygdaloideae.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Prunus%20dulcis0.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2373
 UMLS_CUI: C2818700
+dv_has_:
+  name_:
+    an: Prunoideae
+    ar: لوزاوات
+    arz: لوزاوات
+    ast: Amygdaloideae
+    az: gavalıkimilər
+    be: Слівавыя
+    bg: сливови
+    ca: Amigdalòidia
+    ceb: Amygdaloideae
+    cv: Слива йышшисем
+    de: Amygdaloideae
+    en: Amygdaloideae
+    eo: Amygdaloideae
+    es: Amygdaloideae
+    eu: Amygdaloideae
+    ext: Amygdaloideae
+    fa: آمیگدالوئیده
+    fi: Amygdaloideae
+    fr: Amygdaloideae
+    ga: Amygdaloideae
+    gl: Amygdaloideae
+    he: שזיפיים
+    hr: Amygdaloideae
+    hy: սալորայիններ
+    ia: Amygdaloideae
+    ie: Amygdaloideae
+    io: Amygdaloideae
+    it: Amygdaloideae
+    ja: サクラ亜科
+    ka: ტყემლოვანნი
+    ko: 벚나무아과
+    la: Prunoideae
+    lt: Slyviniai
+    lv: Mandeļu apakšdzimta
+    mk: сливи
+    ms: Amygdaloideae
+    mul: Amygdaloideae
+    nb: Steinfruktfamilien
+    nl: Amygdaloideae
+    oc: Amygdaloideae
+    pl: Amygdaloideae
+    pt: Prunoideae
+    pt-br: prunoideae
+    ro: Prunoideae
+    ru: сливовые
+    sl: Amygdaloideae
+    sq: Amygdaloideae
+    uk: мигдалеві
+    vi: Phân họ Mận mơ
+    vo: Amygdaloideae
+    war: Amygdaloideae
+    xmf: დამაზიშობურეფი
+    zh: 桃亚科
+    zh-cn: 桃亚科
+    zh-hans: 梅亚科
+    zh-hant: 梅亞科
+    zh-hk: 梅亞科
+    zh-tw: 桃亞科
 ---
-
 # [[Amygdaloideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]] 

@@ -1,19 +1,144 @@
 ---
 aliases:
+- a mezőgazdaság kialakulása
+- agriculture
+- Agrikulturhistorio
+- dejiny poľnohospodárstva
+- dějiny zemědělství
+- Geschichte der Landwirtschaft
+- geschiedenis van de landbouw
+- histoire de l'agriculture
+- Historia agriculturae
+- historia da agricultura
+- Historia de l'agricultura
+- historia de la agricultura
+- historia rolnictwa
+- Historija poljoprivrede
+- history of agriculture
+- història de l'agricultura
+- história da agricultura
+- istoria agriculturii
+- Istorija poljoprivrede
+- Istwè di lagrikiltir
+- jordbrukets historia
+- jordbrukets historie
+- Kənd təsərrüfatı tarixi
+- landbrugets historie
+- lauksaimniecības vēsture
+- Lịch sử nông nghiệp
+- maatalouden historia
+- Nekazaritzaren historia
+- Povijest poljoprivrede
+- Sejarah pertanian
+- storia dell'agricoltura
+- Stòria de l'agricultüra
+- tarım tarihi
+- Turaga
+- zgodovina kmetijstva
+- Ιστορία της γεωργίας
+- історія сільського господарства
+- авыл хуҗалыгы тарихы
+- гісторыя сельскай гаспадаркі
+- история сельского хозяйства
+- Գյուղատնտեսության պատմություն
+- היסטוריה של החקלאות
+- اکینچیلیک تاریخی
+- تاريخ الزراعة
+- تاريخ الزراعه
+- تاریخ کشاورزی
+- د کرنې تاریخ
+- مێژووی وەرزێری
+- واہی بیجی دی تریخ
+- कृषि का इतिहास
+- बुँज्याया इतिहास
+- কৃষিকাজের ইতিহাস
+- ਖੇਤੀਬਾੜੀ ਦਾ ਇਤਿਹਾਸ
+- வேளாண்மை வரலாறு
+- കൃഷി
+- ပိုၼ်းလွင်ႈၽုၵ်ႇသွမ်ႈ
+- სოფლის მეურნეობის ისტორია
+- 农业史
+- 農業の歴史
+- 農業史
+- 농업의 역사
 has_id_wikidata: Q952080
-studied_by: "[[_Standards/WikiData/WD~agrarian_history,396077]]"
-different_from: "[[_Standards/WikiData/WD~agrarian_history,396077]]"
+studied_by: '[[_Standards/WikiData/WD~agrarian_history,396077]]'
+different_from: '[[_Standards/WikiData/WD~agrarian_history,396077]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~history_of_botany,2495041]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
-  - "[[_Standards/WikiData/WD~economic_history,47398]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+- '[[_Standards/WikiData/WD~history_of_botany,2495041]]'
+- '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~economic_history,47398]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 Commons_category: History of agriculture
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Centres%20of%20origin%20and%20spread%20of%20agriculture%20v2.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Irish%20farmers%20hut%2C%20Irish%20National%20Heritage%20Park%20-%20geograph.org.uk%20-%201252729.jpg
 Provenio_UUID: 7733d8ab-c2ea-4d0e-8ef9-0bf5939cf682
+dv_has_:
+  name_:
+    ar: تاريخ الزراعة
+    arz: تاريخ الزراعه
+    ast: Historia de l'agricultura
+    az: Kənd təsərrüfatı tarixi
+    azb: اکینچیلیک تاریخی
+    be-tarask: гісторыя сельскай гаспадаркі
+    bn: কৃষিকাজের ইতিহাস
+    ca: història de l'agricultura
+    ckb: مێژووی وەرزێری
+    cs: dějiny zemědělství
+    da: landbrugets historie
+    de: Geschichte der Landwirtschaft
+    el: Ιστορία της γεωργίας
+    en: history of agriculture
+    eo: Agrikulturhistorio
+    es: historia de la agricultura
+    eu: Nekazaritzaren historia
+    fa: تاریخ کشاورزی
+    fi: maatalouden historia
+    fr: histoire de l'agriculture
+    gcr: Istwè di lagrikiltir
+    gl: historia da agricultura
+    he: היסטוריה של החקלאות
+    hi: कृषि का इतिहास
+    hr: Povijest poljoprivrede
+    hu: a mezőgazdaság kialakulása
+    hy: Գյուղատնտեսության պատմություն
+    id: Sejarah pertanian
+    it: storia dell'agricoltura
+    ja: 農業の歴史
+    ka: სოფლის მეურნეობის ისტორია
+    ko: 농업의 역사
+    la: Historia agriculturae
+    lmo: Stòria de l'agricultüra
+    lv: lauksaimniecības vēsture
+    ml: കൃഷി
+    nb: jordbrukets historie
+    new: बुँज्याया इतिहास
+    nl: geschiedenis van de landbouw
+    pa: ਖੇਤੀਬਾੜੀ ਦਾ ਇਤਿਹਾਸ
+    pl: historia rolnictwa
+    pnb: واہی بیجی دی تریخ
+    ps: د کرنې تاریخ
+    pt: história da agricultura
+    ro: istoria agriculturii
+    ru: история сельского хозяйства
+    sh: Historija poljoprivrede
+    shn: ပိုၼ်းလွင်ႈၽုၵ်ႇသွမ်ႈ
+    si: agriculture
+    sk: dejiny poľnohospodárstva
+    sl: zgodovina kmetijstva
+    sr: Istorija poljoprivrede
+    sv: jordbrukets historia
+    ta: வேளாண்மை வரலாறு
+    te: Turaga
+    tr: tarım tarihi
+    tt: авыл хуҗалыгы тарихы
+    uk: історія сільського господарства
+    vi: Lịch sử nông nghiệp
+    yue: 農業史
+    zh: 农业史
+    zh-cn: 农业史
+    zh-hans: 农业史
 ---
-
 # [[History_of_Agriculture]] 
 
 #is_/same_as :: [[WikiData/WD~History_of_agriculture,952080|WD~History_of_agriculture,952080]] 

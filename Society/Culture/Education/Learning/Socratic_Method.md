@@ -1,8 +1,93 @@
 ---
 has_id_wikidata: Q839475
+dv_has_:
+  name_:
+    ar: طريقة سقراط
+    arz: طريقة سوقراط
+    az: Sokrat metodu
+    cs: Sokratovská metoda
+    de: Sokratische Methode
+    el: Σωκρατική μέθοδος
+    en: Socratic method
+    eo: Sokrata metodo
+    es: Método socrático
+    et: Sokraatiline meetod
+    eu: Metodo sokratiko
+    fa: روش سقراطی
+    fi: Sokraattinen menetelmä
+    fr: Maïeutique (philosophe)
+    he: השיטה הסוקרטית
+    hi: सुकरातीय विधि
+    hy: Սոկրատեսյան մեթոդ
+    id: Metode Sokrates
+    it: Metodo socratico
+    ja: ソクラテス式問答法
+    ka: სოკრატესეული მეთოდი
+    kk: Сократтық әдіс
+    ko: 문답법
+    la: Elenchus
+    mk: Сократика
+    mn: Сократын арга
+    nl: Socratische methode
+    pl: Metoda sokratyczna
+    ps: سقراطي مېتود
+    pt: Método socrático
+    ru: Сократический метод
+    sd: سقراطي اسلوب
+    sk: Elenchos
+    sl: majevtika
+    sq: Metoda sokratike
+    sv: Sokratisk metod
+    tr: Sokratik yöntem
+    uk: Сократів метод
+    uz: Suqrot metodi
+    yue: 蘇格拉底反詰法
+    zh: 蘇格拉底反詰法
+    zh-hans: 苏格拉底反诘法
+    zh-hant: 蘇格拉底反詰法
+    zh-hk: 蘇格拉底反詰法
+aliases:
+- Elenchos
+- Elenchus
+- majevtika
+- Maïeutique (philosophe)
+- Metoda sokratike
+- Metoda sokratyczna
+- Metode Sokrates
+- Metodo socratico
+- Metodo sokratiko
+- Método socrático
+- Socratic method
+- Socratische methode
+- Sokraatiline meetod
+- Sokraattinen menetelmä
+- Sokrat metodu
+- Sokrata metodo
+- Sokratik yöntem
+- Sokratische Methode
+- Sokratisk metod
+- Sokratovská metoda
+- Suqrot metodi
+- Σωκρατική μέθοδος
+- Сократів метод
+- Сократика
+- Сократический метод
+- Сократтық әдіс
+- Сократын арга
+- Սոկրատեսյան մեթոդ
+- השיטה הסוקרטית
+- روش سقراطی
+- سقراطي اسلوب
+- سقراطي مېتود
+- طريقة سقراط
+- طريقة سوقراط
+- सुकरातीय विधि
+- სოკრატესეული მეთოდი
+- ソクラテス式問答法
+- 苏格拉底反诘法
+- 蘇格拉底反詰法
+- 문답법
 ---
-
-
 # [[Socratic_Method]]
 
 > The Socratic method (also known as the method of Elenchus or Socratic debate) 

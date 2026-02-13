@@ -1,8 +1,195 @@
 ---
 aliases:
-  - Annelida
+- anailid
+- Anelid
+- Anelidi
+- Anelido
+- Anelidoj
+- Anelídeo
+- Annelid
+- Annelida
+- Anèŀlid
+- Anélidos
+- Chʼosh naatsʼǫǫdí
+- Fàn-chiet-thûng-vu̍t-mùn
+- gyűrűsférgek
+- Halkalı solucanlar
+- Həlqəvi qurdlar
+- Khoân-chat tōng-bu̍t
+- kolobarniki
+- Kolutićavci
+- kroužkovci
+- Leddmakkar
+- leddormer
+- Ledorme
+- Liðormar
+- Liðormur
+- Ngành Giun đốt
+- nivelmadot
+- Obrúčkavce
+- pierścienice
+- Posmtārpi
+- Riengelworms
+- Ringelwörmer
+- Ringelwürmer
+- Ringmaskar
+- ringwormen
+- Ringwurms
+- Rõngussid
+- Sillwi kuru
+- ulod nga singsing
+- Wirmer
+- Člankoviti crvi
+- Žieduotosios kirmėlės
+- Δακτυλιοσκώληκες
+- балдаҡлы селәүсендәр
+- боҗралы суалчаннар
+- Буылтық құрттар
+- кільчасті черви
+- кальчакі
+- кольчатые черви
+- кольчатыя чэрві
+- Муунак курттар
+- прешленести червеи
+- прстенести црви
+- Ункăсемлĕ хуртсем
+- чланковити црви
+- Шӓргӓшӓн шукшвлӓ
+- օղակավոր որդեր
+- תולעים טבעתיות
+- اناليڊا
+- حلقوی قۇردلار
+- حلقيات
+- چوڑیاںوالے
+- کرم حلقوی
+- लघुवलयक
+- অ্যানিলিডা
+- বলয়ী প্ৰাণী
+- નૂપુરક
+- வளையப் புழு
+- అనెలిడా
+- ವಲಯವಂತಗಳು
+- അനലിഡ
+- สัตว์พวกหนอนปล้อง
+- တီမျိုး
+- რგოლოვანი ჭიები
+- 环节动物门
+- 環形動物
+- 環節動物
+- 環節動物門
+- 환형동물
 title: Annelida
 has_id_wikidata: Q25522
+dv_has_:
+  name_:
+    af: Ringwurms
+    an: Annelida
+    ar: حلقيات
+    arz: حلقيات
+    as: বলয়ী প্ৰাণী
+    ast: Annelida
+    az: Həlqəvi qurdlar
+    azb: حلقوی قۇردلار
+    ba: балдаҡлы селәүсендәр
+    be: кольчатыя чэрві
+    be-tarask: кальчакі
+    bg: прешленести червеи
+    bn: অ্যানিলিডা
+    bs: Annelida
+    ca: Anèŀlid
+    ceb: ulod nga singsing
+    cs: kroužkovci
+    cv: Ункăсемлĕ хуртсем
+    cy: Anelid
+    da: Ledorme
+    de: Ringelwürmer
+    el: Δακτυλιοσκώληκες
+    en: Annelida
+    en-ca: Annelid
+    en-gb: Annelid
+    eo: Anelidoj
+    es: Annelida
+    et: Rõngussid
+    eu: Annelida
+    ext: Annelida
+    fa: کرم حلقوی
+    fi: nivelmadot
+    fo: Liðormur
+    fr: Annelida
+    frr: Wirmer
+    ga: anailid
+    gl: Anélidos
+    gu: નૂપુરક
+    hak: Fàn-chiet-thûng-vu̍t-mùn
+    he: תולעים טבעתיות
+    hi: लघुवलयक
+    hr: Kolutićavci
+    hu: gyűrűsférgek
+    hy: օղակավոր որդեր
+    ia: Annelida
+    id: Annelida
+    ie: Annelida
+    io: Annelida
+    is: Liðormar
+    it: Annelida
+    ja: 環形動物
+    jv: Annelida
+    ka: რგოლოვანი ჭიები
+    kk: Буылтық құрттар
+    kn: ವಲಯವಂತಗಳು
+    ko: 환형동물
+    ky: Муунак курттар
+    la: Annelida
+    lfn: Anelido
+    lt: Žieduotosios kirmėlės
+    lv: Posmtārpi
+    mk: прстенести црви
+    ml: അനലിഡ
+    mrj: Шӓргӓшӓн шукшвлӓ
+    ms: Annelida
+    mul: Annelida
+    my: တီမျိုး
+    nan: Khoân-chat tōng-bu̍t
+    nb: leddormer
+    nds: Ringelwörmer
+    nl: ringwormen
+    nn: Leddmakkar
+    nv: Chʼosh naatsʼǫǫdí
+    oc: Annelida
+    pl: pierścienice
+    pnb: چوڑیاںوالے
+    pt: Anelídeo
+    pt-br: Anelídeo
+    qu: Sillwi kuru
+    ro: Annelida
+    ru: кольчатые черви
+    sco: Annelid
+    sd: اناليڊا
+    sh: Člankoviti crvi
+    sk: Obrúčkavce
+    sl: kolobarniki
+    sq: Annelida
+    sr: чланковити црви
+    su: Annelida
+    sv: Ringmaskar
+    sw: Anelidi
+    ta: வளையப் புழு
+    te: అనెలిడా
+    th: สัตว์พวกหนอนปล้อง
+    tl: Annelida
+    tr: Halkalı solucanlar
+    tt: боҗралы суалчаннар
+    uk: кільчасті черви
+    vi: Ngành Giun đốt
+    vls: Riengelworms
+    vo: Annelida
+    war: Annelida
+    wuu: 环节动物门
+    yue: 環節動物
+    zh: 环节动物门
+    zh-cn: 环节动物门
+    zh-hans: 环节动物门
+    zh-tw: 環節動物門
 ---
 # Annelida
 

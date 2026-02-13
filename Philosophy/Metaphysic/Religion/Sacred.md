@@ -1,22 +1,130 @@
 ---
 aliases:
+- banal
+- heilag
+- heilig
+- helig
+- hellighed
+- hellighet
+- Hillich
+- keramat
+- kutsal
+- masina
+- muqaddas
+- müqəddəslik
+- naofa
+- pyhä
+- pühadus
+- sacredness
+- sacro
+- sacru
+- sacrum
+- sacré
+- sagrado
+- sagrat
+- sagráu
+- sakratu
+- sankteco
+- sfințenie
+- shenjtëria
+- suci
+- sukla
+- svatost
+- svet
+- svätosť
+- svētums
+- sự thánh thiêng
+- utakatifu
+- šventybė
+- сакрален
+- сакральне
+- светост
+- святость
+- сьвятасьць
+- սրբություն
+- הייליגקייט
+- קודש וחול ביהדות
+- مقدس
+- پاک
+- پیرۆز
+- পবিত্রতা
+- 神聖
+- 신성
 has_id_wikidata: Q1151419
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-opposite_of: "[[_Standards/WikiData/WD~profane,1583810]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+opposite_of: '[[_Standards/WikiData/WD~profane,1583810]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~holiness,16600343]]"
-  - "[[_Standards/WikiData/WD~holiness,56344991]]"
-subclass_of: "[[_Standards/WikiData/WD~sacred,21651927]]"
-part_of: "[[_Standards/WikiData/WD~sacred_profane_dichotomy,110564788]]"
-OmegaWiki_Defined_Meaning: "1082971"
+- '[[_Standards/WikiData/WD~holiness,16600343]]'
+- '[[_Standards/WikiData/WD~holiness,56344991]]'
+subclass_of: '[[_Standards/WikiData/WD~sacred,21651927]]'
+part_of: '[[_Standards/WikiData/WD~sacred_profane_dichotomy,110564788]]'
+OmegaWiki_Defined_Meaning: 1082971
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mathieu%20Kappler-sacr%C3%A9.wav
+dv_has_:
+  name_:
+    ar: مقدس
+    ast: sagráu
+    az: müqəddəslik
+    ban: sukla
+    be-tarask: сьвятасьць
+    bg: сакрален
+    bn: পবিত্রতা
+    ca: sagrat
+    ckb: پیرۆز
+    cs: svatost
+    da: hellighed
+    de: Heilig
+    en: sacredness
+    eo: sankteco
+    es: sagrado
+    et: pühadus
+    eu: sakratu
+    ext: sacru
+    fa: مقدس
+    fi: pyhä
+    fr: sacré
+    fy: Hillich
+    ga: naofa
+    gl: sagrado
+    he: קודש וחול ביהדות
+    hy: սրբություն
+    id: keramat
+    it: sacro
+    ja: 神聖
+    ko: 신성
+    lt: šventybė
+    lv: svētums
+    mg: masina
+    mk: светост
+    ms: suci
+    nb: hellighet
+    nl: heilig
+    nn: heilag
+    pl: sacrum
+    pt: sagrado
+    ro: sfințenie
+    ru: святость
+    sk: svätosť
+    sl: svet
+    so: muqaddas
+    sq: shenjtëria
+    sr: светост
+    sv: helig
+    sw: utakatifu
+    tl: banal
+    tr: kutsal
+    uk: сакральне
+    ur: پاک
+    vi: sự thánh thiêng
+    yi: הייליגקייט
+    yue: 神聖
+    zh: 神聖
 ---
-
 # [[Sacred]] 
 
 #is_/same_as :: [[WD~Sacred,1151419]] 

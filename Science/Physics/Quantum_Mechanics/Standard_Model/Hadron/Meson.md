@@ -1,37 +1,180 @@
 ---
 aliases:
-  - Meson
+- meesoon
+- mesoi
+- Meson
+- mesone
+- mesoni
+- mesonid
+- mesoon
+- mesão
+- mesó
+- mesón
+- mezon
+- mezonas
+- mezoni
+- Mezonlar
+- mezono
+- mezony
+- mezón
+- misoni
+- miðeind
+- méasón
+- méson
+- μεσόνιο
+- мезон
+- мезони
+- мэзон
+- մեզոններ
+- מזון
+- مزون
+- ميزون
+- میزون
+- مەزون
+- मेसॉन
+- মেছ’ন
+- মেসন
+- ਮੀਜ਼ੌਨ
+- மேசான்
+- ಮೆಸಾನ್
+- മെസോൺ
+- මීසෝන
+- มีซอน
+- မေဇွန်
+- მეზონი
+- 中間子
+- 介子
+- 중간자
 has_id_wikidata: Q102742
 subclass_of:
-  - '[[_Standards/WikiData/WD~hadron,101667]]'
-  - '[[_Standards/WikiData/WD~boson,43101]]'
+- '[[_Standards/WikiData/WD~hadron,101667]]'
+- '[[_Standards/WikiData/WD~boson,43101]]'
 antiparticle: '[[_Standards/WikiData/WD~meson,102742]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~baryon_number,110346]]'
-  - '[[_Standards/WikiData/WD~lepton_number,174012]]'
+- '[[_Standards/WikiData/WD~baryon_number,110346]]'
+- '[[_Standards/WikiData/WD~lepton_number,174012]]'
 followed_by: '[[_Standards/WikiData/WD~baryon,159731]]'
 different_from:
-  - '[[_Standards/WikiData/WD~diquark,265326]]'
-  - '[[_Standards/WikiData/WD~Meson,23810842]]'
+- '[[_Standards/WikiData/WD~diquark,265326]]'
+- '[[_Standards/WikiData/WD~Meson,23810842]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
-  - '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~antiquark,2052084]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 follows: '[[_Standards/WikiData/WD~quark,6718]]'
 interaction:
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Meson.wav
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/mesons
 Dewey_Decimal_Classification: 539.72162
 P8189: 987007565542505171
 Commons_category: Mesons
 MeSH_tree_code: G01.249.600
+dv_has_:
+  name_:
+    af: Meson
+    ar: ميزون
+    as: মেছ’ন
+    ast: mesón
+    azb: مزون
+    be: мезон
+    be-tarask: мэзон
+    bg: мезон
+    bn: মেসন
+    bs: mezon
+    ca: mesó
+    cs: mezon
+    cy: meson
+    da: meson
+    de: Meson
+    el: μεσόνιο
+    en: meson
+    eo: mezono
+    es: mesón
+    et: mesonid
+    eu: mesoi
+    fa: مزون
+    fi: mesoni
+    fr: méson
+    ga: méasón
+    gl: mesón
+    gsw: Meson
+    he: מזון
+    hi: मेसॉन
+    hr: mezon
+    hu: mezon
+    hy: մեզոններ
+    id: meson
+    io: Mezono
+    is: miðeind
+    it: mesone
+    ja: 中間子
+    ka: მეზონი
+    kk: Мезон
+    kk-arab: مەزون
+    kk-cn: مەزون
+    kk-cyrl: мезон
+    kk-kz: мезон
+    kk-latn: mezon
+    kk-tr: mezon
+    kn: ಮೆಸಾನ್
+    ko: 중간자
+    la: meson
+    lfn: meson
+    li: Meson
+    lt: mezonas
+    lv: mezoni
+    mk: мезон
+    ml: മെസോൺ
+    mn: мезон
+    ms: meson
+    my: မေဇွန်
+    nb: meson
+    nds: Meson
+    nl: meson
+    nn: meson
+    oc: meson
+    pa: ਮੀਜ਼ੌਨ
+    pl: mezony
+    pnb: میزون
+    pt: mesão
+    pt-br: méson
+    ro: mezon
+    ru: мезон
+    scn: misoni
+    se: meson
+    sh: mezon
+    si: මීසෝන
+    sk: mezón
+    sl: mezon
+    smn: meesoon
+    sms: mesoon
+    sr: мезон
+    sr-ec: мезон
+    sr-el: mezon
+    sv: meson
+    ta: மேசான்
+    th: มีซอน
+    tl: Meson
+    tr: mezon
+    uk: мезони
+    uz: Mezonlar
+    vi: meson
+    war: meson
+    wuu: 介子
+    yue: 介子
+    zh: 介子
+    zh-cn: 介子
+    zh-hans: 介子
+    zh-hant: 介子
+    zh-hk: 介子
+    zh-sg: 介子
+    zh-tw: 介子
 ---
-
 # [[Meson]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Meson,102742|WD~Meson,102742]] 

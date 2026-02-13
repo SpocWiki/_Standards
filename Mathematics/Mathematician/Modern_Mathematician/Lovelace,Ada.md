@@ -1,82 +1,124 @@
 ---
 aliases:
-  - Augusta Ada King
-  - Countess of Lovelace
-  - Augusta Ada Byron
-  - Ada Lovelace
-  - Ada_Lovelace
+- Ada Augusta Lovelace
+- Ada Byron King
+- Ada Byron Lovelace
+- Ada Lavleisa
+- Ada Lavleys
+- Ada Lovelace
+- Ada Lovelaceová
+- Ada_Lovelace
+- Augusta Ada Byron
+- Augusta Ada King
+- Countess of Lovelace
+- eida.luvleis
+- Άντα Λάβλεϊς
+- Ада Лаўлейс
+- Ада Лаўлэйс
+- Ада Лавлејс
+- Ада Лавлейс
+- Ада Ловлейс
+- Ада Лъвлейс
+- Ејда Кинг Лавлејс
+- Лавлейс, Ада
+- Ադա Լավլեյս
+- עדה לאבלייס
+- آدا لوفلايس
+- ئەیدا لەڤلەس
+- ادا لولېس
+- ایدا لاولیس
+- ایڈا لولیس
+- एडा लभलेस
+- एडा लवलेस
+- অ্যাডা লাভলেস
+- আডা লাভলেছ
+- ਐਡਾ ਲਵਲੇਸ
+- ଏଡା ଲଭଲେସ
+- அடா லவ்லேஸ்
+- అడా లవ్లేస్
+- ಅದ ಲೊವೆಲ್ಸ್
+- അഡ ലവ് ലേസ്
+- เอดา เลิฟเลซ
+- ადა ლავლეისი
+- ᱮᱰᱟ ᱞᱚᱵᱷᱞᱮᱥ
+- エイダ・ラブレス
+- 勒芙蕾絲
+- 埃达·洛夫莱斯
+- 愛達·勒芙蕾絲
+- 爱达·勒芙蕾丝
+- 에이다 러브레이스
 has_id_wikidata: Q7259
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~programmer,5482740]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-place_of_death: "[[_Standards/WikiData/WD~Marylebone,123634]]"
-social_classification: "[[_Standards/WikiData/WD~nobility,134737]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+place_of_death: '[[_Standards/WikiData/WD~Marylebone,123634]]'
+social_classification: '[[_Standards/WikiData/WD~nobility,134737]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~computing,179310]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
+- '[[_Standards/WikiData/WD~computing,179310]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
 student_of:
-  - "[[_Standards/WikiData/WD~Augustus_De_Morgan,208448]]"
-  - "[[_Standards/WikiData/WD~Mary_Somerville,268702]]"
-  - "[[_Standards/WikiData/WD~William_Frend,8009437]]"
-mother: "[[_Standards/WikiData/WD~Anne_Isabella_Byron,272161]]"
+- '[[_Standards/WikiData/WD~Augustus_De_Morgan,208448]]'
+- '[[_Standards/WikiData/WD~Mary_Somerville,268702]]'
+- '[[_Standards/WikiData/WD~William_Frend,8009437]]'
+mother: '[[_Standards/WikiData/WD~Anne_Isabella_Byron,272161]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Elizabeth_Medora_Leigh,276241]]"
-  - "[[_Standards/WikiData/WD~Allegra_Byron,2837843]]"
+- '[[_Standards/WikiData/WD~Elizabeth_Medora_Leigh,276241]]'
+- '[[_Standards/WikiData/WD~Allegra_Byron,2837843]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Ada,346047]]"
-  - "[[_Standards/WikiData/WD~Augusta,1370330]]"
+- '[[_Standards/WikiData/WD~Ada,346047]]'
+- '[[_Standards/WikiData/WD~Augusta,1370330]]'
 child:
-  - "[[_Standards/WikiData/WD~Anne_Blunt,451969]]"
-  - "[[_Standards/WikiData/WD~Byron_King_Noel,_Viscount_Ockham,5004403]]"
-  - "[[_Standards/WikiData/WD~Ralph_King_Milbanke,_2nd_Earl_of_Lovelace,7287750]]"
+- '[[_Standards/WikiData/WD~Anne_Blunt,451969]]'
+- '[[_Standards/WikiData/WD~Byron_King_Noel,_Viscount_Ockham,5004403]]'
+- '[[_Standards/WikiData/WD~Ralph_King_Milbanke,_2nd_Earl_of_Lovelace,7287750]]'
 family_name:
-  - "[[_Standards/WikiData/WD~King,535214]]"
-  - "[[_Standards/WikiData/WD~Byron,1260681]]"
-cause_of_death: "[[_Standards/WikiData/WD~uterine_cancer,1209744]]"
-honorific_prefix: "[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-spouse: "[[_Standards/WikiData/WD~William_King_Noel,_1st_Earl_of_Lovelace,4426480]]"
+- '[[_Standards/WikiData/WD~King,535214]]'
+- '[[_Standards/WikiData/WD~Byron,1260681]]'
+cause_of_death: '[[_Standards/WikiData/WD~uterine_cancer,1209744]]'
+honorific_prefix: '[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+spouse: '[[_Standards/WikiData/WD~William_King_Noel,_1st_Earl_of_Lovelace,4426480]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Biography,4913761]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-  - "[[_Standards/WikiData/WD~WikiProject_London,11036732]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Women_scientists,14544312]]"
-  - "[[_Standards/WikiData/WD~WikiProject_England,14605773]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Computing,15730590]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Women,21712210]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Scientists_and_academics,21829616]]"
-place_of_burial: "[[_Standards/WikiData/WD~Church_of_St._Mary_Magdalene,_Hucknall,5117286]]"
-noble_title: "[[_Standards/WikiData/WD~countess,5177051]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~WikiProject_Biography,4913761]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_London,11036732]]'
+- '[[_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485]]'
+- '[[_Standards/WikiData/WD~WikiProject_Women_scientists,14544312]]'
+- '[[_Standards/WikiData/WD~WikiProject_England,14605773]]'
+- '[[_Standards/WikiData/WD~WikiProject_Computing,15730590]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
+- '[[_Standards/WikiData/WD~WikiProject_Women,21712210]]'
+- '[[_Standards/WikiData/WD~WikiProject_Scientists_and_academics,21829616]]'
+place_of_burial: '[[_Standards/WikiData/WD~Church_of_St._Mary_Magdalene,_Hucknall,5117286]]'
+noble_title: '[[_Standards/WikiData/WD~countess,5177051]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]"
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~The_Palgrave_Encyclopedia_of_Victorian_Women's_Writing,108572536]]"
-  - "[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]"
-  - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
-  - "[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]"
+- '[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~The_Palgrave_Encyclopedia_of_Victorian_Women's_Writing,108572536]]"
+- '[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]'
+- '[[_Standards/WikiData/WD~Women_In_Science,113116304]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 date_of_death: 1852-11-27T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-father: "[[_Standards/WikiData/WD~Lord_Byron,5679]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_birth: "[[_Standards/WikiData/WD~London,84]]"
-employer: "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
-significant_person: "[[_Standards/WikiData/WD~Charles_Babbage,46633]]"
-influenced_by: "[[_Standards/WikiData/WD~Charles_Babbage,46633]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+father: '[[_Standards/WikiData/WD~Lord_Byron,5679]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_birth: '[[_Standards/WikiData/WD~London,84]]'
+employer: '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+significant_person: '[[_Standards/WikiData/WD~Charles_Babbage,46633]]'
+influenced_by: '[[_Standards/WikiData/WD~Charles_Babbage,46633]]'
 subject_named_as: Ada Lovelace
 Commons_Creator_page: Ada Lovelace
 Commons_gallery: Ada Lovelace
@@ -87,15 +129,173 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ada%20Byron%20daguerre
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ada%20Lovelace%20%28As%20Told%20By%20U.S.%20Chief%20Technology%20Officer%20Megan%20Smith%29.mp3
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/AdaLovelaceplaque.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Augusta%20Ava%20Lovelace%20autograph.svg
-ISNI: "0000000076897871"
-P1015: "3063884"
+ISNI: 0000000076897871
+P1015: 3063884
 Libris_URI: 64jlp0nq07d76c7
 pseudonym: A. A. L.
 Google_Doodle: ada-lovelaces-197th-birthday
 name_in_native_language: Augusta Ada King, Countess of Lovelace
 birth_name: Augusta Ada Byron
+dv_has_:
+  name_:
+    ace: Ada Lovelace
+    af: Ada Lovelace
+    an: Ada Lovelace
+    ar: آدا لوفلايس
+    arz: آدا لوفلايس
+    as: আডা লাভলেছ
+    ast: Ada Lovelace
+    az: Ada Lavleys
+    ban: Ada Lovelace
+    bar: Ada Lovelace
+    bcl: Ada Lovelace
+    be: Ада Лаўлейс
+    be-tarask: Ада Лаўлэйс
+    bg: Ада Лъвлейс
+    bjn: Ada Lovelace
+    bn: অ্যাডা লাভলেস
+    br: Ada Lovelace
+    bs: Ada Lovelace
+    bug: Ada Lovelace
+    ca: Ada Lovelace
+    ckb: ئەیدا لەڤلەس
+    co: Ada Lovelace
+    cs: Ada Lovelaceová
+    cv: Ада Лавлейс
+    cy: Ada Lovelace
+    da: Ada Lovelace
+    dag: Ada Lovelace
+    de: Ada Lovelace
+    de-at: Ada Lovelace
+    de-ch: Ada Lovelace
+    el: Άντα Λάβλεϊς
+    en: Ada Lovelace
+    en-ca: Ada Lovelace
+    en-gb: Ada Lovelace
+    en-us: Ada Lovelace
+    eo: Ada Lovelace
+    es: Ada Lovelace
+    et: Ada Lovelace
+    eu: Ada Lovelace
+    ext: Ada Lovelace
+    fa: ایدا لاولیس
+    fi: Ada Lovelace
+    fr: Ada Lovelace
+    frp: Ada Lovelace
+    frr: Ada Lovelace
+    fur: Ada Lovelace
+    ga: Ada Lovelace
+    gd: Ada Lovelace
+    gl: Ada Augusta Lovelace
+    gor: Ada Lovelace
+    gsw: Ada Lovelace
+    gv: Ada Lovelace
+    ha: Ada Lovelace
+    he: עדה לאבלייס
+    hi: एडा लवलेस
+    hr: Ada Lovelace
+    ht: Ada Lovelace
+    hu: Ada Lovelace
+    hy: Ադա Լավլեյս
+    ia: Ada Lovelace
+    id: Ada Lovelace
+    ie: Ada Lovelace
+    ig: Ada Lovelace
+    io: Ada Lovelace
+    is: Ada Lovelace
+    it: Ada Lovelace
+    ja: エイダ・ラブレス
+    jbo: eida.luvleis
+    jv: Ada Lovelace
+    ka: ადა ლავლეისი
+    kg: Ada Lovelace
+    kk: Ада лавлейс
+    kn: ಅದ ಲೊವೆಲ್ಸ್
+    knc: Ada Lovelace
+    ko: 에이다 러브레이스
+    kw: Ada Lovelace
+    la: Ada Lovelace
+    lb: Ada Lovelace
+    li: Ada Lovelace
+    lij: Ada Lovelace
+    lmo: Ada Lovelace
+    lt: Ada Lovelace
+    lv: Ada Lavleisa
+    mai: एडा लभलेस
+    map-bms: Ada Lovelace
+    mg: Ada Lovelace
+    min: Ada Lovelace
+    mk: Ада Лавлејс
+    ml: അഡ ലവ് ലേസ്
+    mr: एडा लवलेस
+    ms: Ada Lovelace
+    mt: Ada Lovelace
+    mul: Ada Lovelace
+    nan: Ada Lovelace
+    nap: Ada Lovelace
+    nb: Ada Lovelace
+    nds: Ada Lovelace
+    nds-nl: Ada Lovelace
+    ne: एडा लभलेस
+    nl: Ada Lovelace
+    nn: Ada Byron Lovelace
+    nrm: Ada Lovelace
+    oc: Ada Lovelace
+    olo: Ada Lovelace
+    or: ଏଡା ଲଭଲେସ
+    pa: ਐਡਾ ਲਵਲੇਸ
+    pcd: Ada Lovelace
+    pcm: Ada Lovelace
+    pl: Ada Lovelace
+    pms: Ada Byron King
+    ps: ادا لولېس
+    pt: Ada Lovelace
+    pt-br: Ada Lovelace
+    rm: Ada Lovelace
+    ro: Ada Lovelace
+    ru: Ада Лавлейс
+    rue: Ада Лавлейс
+    sah: Ада Лавлейс
+    sat: ᱮᱰᱟ ᱞᱚᱵᱷᱞᱮᱥ
+    sc: Ada Lovelace
+    scn: Ada Lovelace
+    sco: Ada Lovelace
+    sh: Ada Lovelace
+    sk: Ada Lovelaceová
+    skr: ایڈا لولیس
+    sl: Ada Lovelace
+    sq: Ada Lovelace
+    sr: Ејда Кинг Лавлејс
+    sr-el: Ada Lovelace
+    su: Ada Lovelace
+    sv: Ada Lovelace
+    sw: Ada Lovelace
+    ta: அடா லவ்லேஸ்
+    te: అడా లవ్లేస్
+    tg: Ада Ловлейс
+    th: เอดา เลิฟเลซ
+    tl: Ada Lovelace
+    tr: Ada Lovelace
+    tyv: Лавлейс, Ада
+    uk: Ада Лавлейс
+    ur: ایڈا لولیس
+    uz: Ada Lovelace
+    vec: Ada Lovelace
+    vi: Ada Lovelace
+    vls: Ada Lovelace
+    vo: Ada Lovelace
+    wa: Ada Lovelace
+    war: Ada Lovelace
+    wo: Ada Lovelace
+    wuu: 埃达·洛夫莱斯
+    xmf: ადა ლავლეისი
+    yo: Ada Lovelace
+    yue: 勒芙蕾絲
+    zh: 愛達·勒芙蕾絲
+    zh-hans: 爱达·勒芙蕾丝
+    zh-hant: 愛達·勒芙蕾絲
+    zu: Ada Lovelace
 ---
-
 # [[Lovelace,Ada]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ada_Lovelace,7259]] 

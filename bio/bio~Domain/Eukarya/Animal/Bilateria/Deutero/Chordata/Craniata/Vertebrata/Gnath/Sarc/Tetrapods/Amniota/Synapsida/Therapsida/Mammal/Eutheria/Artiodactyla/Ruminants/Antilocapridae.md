@@ -1,8 +1,92 @@
 ---
 aliases:
-  - Antilocapridae
+- Antilocapridae
+- antilocàprids
+- Antilokapredoj
+- gaffelantilopen
+- hanka-antiloopit
+- harksarviklased
+- Haçabuynuzlar
+- kinzoleem
+- syeriantiloopeh
+- Vidlorohovité
+- vidlorohovití
+- villásszarvúantilop-félék
+- Widłorogowate
+- Šakiaraginiai
+- Ашамүйізділер
+- Віларогавыя
+- вилороги
+- Вилорогові
+- вилорогови
+- Вилороговые
+- אנטילוקפריים
+- شاخچنگالان
+- ظباء شائكة القرون
+- プロングホーン科
+- 叉角羚科
+- 영양붙이과
 title: Antilocapridae
 has_id_wikidata: Q3581369
+dv_has_:
+  name_:
+    an: Antilocapridae
+    ar: ظباء شائكة القرون
+    arz: ظباء شائكة القرون
+    ast: Antilocapridae
+    avk: kinzoleem
+    az: Haçabuynuzlar
+    be-tarask: Віларогавыя
+    bg: вилорогови
+    ca: antilocàprids
+    ceb: Antilocapridae
+    cs: vidlorohovití
+    de: Antilocapridae
+    en: Antilocapridae
+    eo: Antilokapredoj
+    es: Antilocapridae
+    et: harksarviklased
+    eu: Antilocapridae
+    ext: Antilocapridae
+    fa: شاخچنگالان
+    fi: hanka-antiloopit
+    fr: Antilocapridae
+    ga: Antilocapridae
+    gl: Antilocapridae
+    he: אנטילוקפריים
+    hu: villásszarvúantilop-félék
+    ia: Antilocapridae
+    id: Antilocapridae
+    ie: Antilocapridae
+    io: Antilocapridae
+    it: Antilocapridae
+    ja: プロングホーン科
+    kk: Ашамүйізділер
+    ko: 영양붙이과
+    la: Antilocapridae
+    lt: Šakiaraginiai
+    mk: вилороги
+    ms: Antilocapridae
+    mul: Antilocapridae
+    nl: gaffelantilopen
+    oc: Antilocapridae
+    pl: Widłorogowate
+    pt: Antilocapridae
+    pt-br: Antilocapridae
+    ro: Antilocapridae
+    ru: Вилороговые
+    sk: Vidlorohovité
+    smn: syeriantiloopeh
+    sq: Antilocapridae
+    tr: Antilocapridae
+    uk: Вилорогові
+    vi: Antilocapridae
+    vo: Antilocapridae
+    war: Antilocapridae
+    zh: 叉角羚科
+    zh-cn: 叉角羚科
+    zh-hans: 叉角羚科
+    zh-tw: 叉角羚科
 ---
 # [[Antilocapridae]] 
 ![](Antilocapridae/Merycodus_necatus_skull.jpg) 

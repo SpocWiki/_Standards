@@ -1,33 +1,70 @@
 ---
-has_time_started: 1936-01-01 
+has_time_started: 1936-01-01
 aliases:
+- Akvofalejo
+- Casa da Cascata
+- Casa da fervenza
+- Casa de la Cascada
+- Casa de la catarata
+- Casa sulla cascata
+- Dom nad vodopadom
+- Fallingwater
+- Kaz asou kaskad
+- maison sur la cascade
+- Māja virs ūdenskrituma
+- Ostau de la Cascada
+- Rumah Fallingwater
+- Ur-jauziko etxea
+- Vila Kaufmann
+- Şelale Evi
+- Будинок над водоспадом
+- Дом над водопадом
+- Къща над водопада
+- Сарқырыма үстіндегі үй
+- Фолінгўотэр
+- Шарлауыҡ өҫтөндәге йорт
+- Տուն ջրվեժի վերևում
+- הבית על האשד
+- بيت الشلال
+- تاڤگەماڵ
+- فالنگواٹر
+- فالینگواتر
+- ফলিংওয়াটার
+- ஃபாலிங்வாட்டர்
+- ഫാളിംഗ് വാട്ടർ
+- ฟอลลิงวอเทอร์
+- ფოლინგუოტერი
+- 落水山庄
+- 落水山莊
+- 落水荘
+- 낙수장
 has_id_wikidata: Q463179
 architectural_style:
-  - "[[_Standards/WikiData/WD~modern_architecture,245188]]"
-  - "[[_Standards/WikiData/WD~organic_architecture,36118]]"
+- '[[_Standards/WikiData/WD~modern_architecture,245188]]'
+- '[[_Standards/WikiData/WD~organic_architecture,36118]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]"
-  - "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
-  - "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]"
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+- '[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]'
+- '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
+- '[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listed_place,19558910]]'
+- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~single_family_detached_home,1307276]]"
-  - "[[_Standards/WikiData/WD~historic_house_museum,2087181]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Stewart_Township,1896250]]"
-different_from: "[[_Standards/WikiData/WD~Fallingwater,3738703]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Bear_Run,4876568]]"
-operator: "[[_Standards/WikiData/WD~Western_Pennsylvania_Conservancy,7988153]]"
-maintained_by: "[[_Standards/WikiData/WD~Western_Pennsylvania_Conservancy,7988153]]"
-part_of: "[[_Standards/WikiData/WD~The_20th_Century_Architecture_of_Frank_Lloyd_Wright,10498496]]"
-made_from_material: "[[_Standards/WikiData/WD~steel_reinforced_concrete,11649809]]"
-member_of: "[[_Standards/WikiData/WD~Iconic_Houses_Network,55065239]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Architourist_Guide,134412769]]"
-creator: "[[_Standards/WikiData/WD~Frank_Lloyd_Wright,5604]]"
-architect: "[[_Standards/WikiData/WD~Frank_Lloyd_Wright,5604]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-named_after: "[[_Standards/WikiData/WD~waterfall,34038]]"
+- '[[_Standards/WikiData/WD~single_family_detached_home,1307276]]'
+- '[[_Standards/WikiData/WD~historic_house_museum,2087181]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Stewart_Township,1896250]]'
+different_from: '[[_Standards/WikiData/WD~Fallingwater,3738703]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Bear_Run,4876568]]'
+operator: '[[_Standards/WikiData/WD~Western_Pennsylvania_Conservancy,7988153]]'
+maintained_by: '[[_Standards/WikiData/WD~Western_Pennsylvania_Conservancy,7988153]]'
+part_of: '[[_Standards/WikiData/WD~The_20th_Century_Architecture_of_Frank_Lloyd_Wright,10498496]]'
+made_from_material: '[[_Standards/WikiData/WD~steel_reinforced_concrete,11649809]]'
+member_of: '[[_Standards/WikiData/WD~Iconic_Houses_Network,55065239]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Architourist_Guide,134412769]]'
+creator: '[[_Standards/WikiData/WD~Frank_Lloyd_Wright,5604]]'
+architect: '[[_Standards/WikiData/WD~Frank_Lloyd_Wright,5604]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+named_after: '[[_Standards/WikiData/WD~waterfall,34038]]'
 contact_page_URL: https://fallingwater.org/contact-us/
-NRHP_reference_number: "74001781"
+NRHP_reference_number: 74001781
 native_label: Fallingwater
 inception: 1936-01-01T00:00:00Z
 coordinate_location: Point(-79.468055555 39.906388888)
@@ -41,11 +78,79 @@ email_address: mailto:fallingwater@paconserve.org
 Instagram_username: visitfallingwater
 Facebook_username: VisitFallingwater
 street_address:
-  - 1491 Mill Run Road, Mill Run, PA 15464
-  - PO Box R, Mill Run, PA 15464
+- 1491 Mill Run Road, Mill Run, PA 15464
+- PO Box R, Mill Run, PA 15464
 directions: between Ohiopyle and Mill Run, several miles north of town
+dv_has_:
+  name_:
+    ar: بيت الشلال
+    ast: Casa de la catarata
+    ba: Шарлауыҡ өҫтөндәге йорт
+    ban: Fallingwater
+    be-tarask: Фолінгўотэр
+    bg: Къща над водопада
+    bn: ফলিংওয়াটার
+    ca: Casa de la Cascada
+    ckb: تاڤگەماڵ
+    cs: Fallingwater
+    cy: Fallingwater
+    da: Fallingwater
+    de: Fallingwater
+    el: Fallingwater
+    en: Fallingwater
+    eo: Akvofalejo
+    es: Casa de la Cascada
+    eu: Ur-jauziko etxea
+    fa: فالینگواتر
+    fi: Fallingwater
+    fr: maison sur la cascade
+    gcr: Kaz asou kaskad
+    gl: Casa da fervenza
+    he: הבית על האשד
+    hr: Fallingwater
+    hu: Fallingwater
+    hy: Տուն ջրվեժի վերևում
+    id: Rumah Fallingwater
+    it: Casa sulla cascata
+    ja: 落水荘
+    ka: ფოლინგუოტერი
+    kk: Сарқырыма үстіндегі үй
+    ko: 낙수장
+    la: Fallingwater
+    lv: Māja virs ūdenskrituma
+    ml: ഫാളിംഗ് വാട്ടർ
+    ms: Fallingwater
+    nb: Fallingwater
+    nl: Fallingwater
+    oc: Ostau de la Cascada
+    olo: Fallingwater
+    pl: Fallingwater
+    pnb: فالنگواٹر
+    pt: Casa da Cascata
+    pt-br: Casa da cascata
+    ro: Vila Kaufmann
+    ru: Дом над водопадом
+    sco: Fallingwater
+    sh: Fallingwater
+    sk: Fallingwater
+    sl: Fallingwater
+    sr: Dom nad vodopadom
+    sv: Fallingwater
+    ta: ஃபாலிங்வாட்டர்
+    th: ฟอลลิงวอเทอร์
+    tr: Şelale Evi
+    uk: Будинок над водоспадом
+    vi: Fallingwater
+    war: Fallingwater
+    yue: 落水山莊
+    zh: 落水山莊
+    zh-cn: 落水山庄
+    zh-hans: 落水山庄
+    zh-hant: 落水山莊
+    zh-hk: 落水山莊
+    zh-sg: 落水山庄
+    zh-tw: 落水山莊
 ---
-
 # [[Fallingwater]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Fallingwater,463179|WD~Fallingwater,463179]] 

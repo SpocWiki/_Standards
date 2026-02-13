@@ -1,8 +1,150 @@
 ---
 has_id_wikidata: Q186150
+dv_has_:
+  name_:
+    ar: مغالطة
+    as: ভ্ৰান্তি
+    be-tarask: лягічная хіба
+    bg: Логическа заблуда
+    bn: যুক্তিদোষ
+    bs: logička greška
+    ca: fal·làcia
+    ckb: بەھەڵەبردنی لۆژیکی
+    cs: argumentační klam
+    da: fejlslutning
+    de: Fehlschluss
+    el: Λογική πλάνη
+    en: fallacy
+    en-ca: fallacy
+    en-gb: fallacy
+    eo: logika trompo
+    es: falacia
+    et: Arutlusviga
+    eu: Falazia
+    fa: مغالطه
+    fi: argumentointivirhe
+    fr: raisonnement fallacieux
+    ga: fállas
+    gl: Falacia
+    he: כשל לוגי
+    hi: मिथ्या तर्क
+    hr: logička pogreška
+    hu: érvelési hiba
+    hy: Տրամաբանական սխալներ
+    id: Kesesatan
+    io: Sofismo
+    is: Rökvilla
+    it: fallacia
+    ja: 誤謬
+    kk: Логикалық қателер
+    kn: ಕುತರ್ಕ
+    ko: 논리적 오류
+    la: Fallacia
+    lfn: Falasias
+    lt: argumentacijos klaida
+    mk: логичка грешка
+    ml: ഹേത്വാഭാസം
+    mr: तार्कीक उणीवा
+    ms: Falasi
+    nan: Lô-chek gō͘-biū
+    nb: tankefeil
+    nl: drogreden
+    nn: tankefeil
+    oc: Sofisme
+    pfl: Fehlschluss
+    pl: błąd logiczny
+    ps: تېروتنه یا غلط فهمي
+    pt: falácia
+    pt-br: Falácia
+    ro: eroare logică
+    ru: логическая ошибка
+    rue: Лоґічна хыба
+    sco: fallacy
+    sh: Logička greška
+    sk: logický klam
+    sl: zmota
+    so: Seeraar
+    sq: Falsiteti
+    sr: логичка грешка
+    sv: argumentationsfel
+    th: เหตุผลวิบัติ
+    tl: Palasiya
+    tr: safsata
+    uk: логічна хиба
+    uz: Mantiqiy xatolar
+    vec: fałasa
+    vi: Ngụy biện
+    wuu: 谬误
+    yue: 謬論
+    zh: 謬誤
+    zh-cn: 谬误
+aliases:
+- argumentacijos klaida
+- argumentationsfel
+- argumentační klam
+- argumentointivirhe
+- Arutlusviga
+- błąd logiczny
+- drogreden
+- eroare logică
+- falacia
+- Falasi
+- Falasias
+- Falazia
+- fallacia
+- fallacy
+- Falsiteti
+- fal·làcia
+- falácia
+- fałasa
+- Fehlschluss
+- fejlslutning
+- fállas
+- Kesesatan
+- logický klam
+- logika trompo
+- logička greška
+- logička pogreška
+- Lô-chek gō͘-biū
+- Mantiqiy xatolar
+- Ngụy biện
+- Palasiya
+- raisonnement fallacieux
+- Rökvilla
+- safsata
+- Seeraar
+- Sofisme
+- Sofismo
+- tankefeil
+- zmota
+- érvelési hiba
+- Λογική πλάνη
+- логічна хиба
+- Логикалық қателер
+- Логическа заблуда
+- логическая ошибка
+- логичка грешка
+- Лоґічна хыба
+- лягічная хіба
+- Տրամաբանական սխալներ
+- כשל לוגי
+- بەھەڵەبردنی لۆژیکی
+- تېروتنه یا غلط فهمي
+- مغالطة
+- مغالطه
+- तार्कीक उणीवा
+- मिथ्या तर्क
+- ভ্ৰান্তি
+- যুক্তিদোষ
+- ಕುತರ್ಕ
+- ഹേത്വാഭാസം
+- เหตุผลวิบัติ
+- 誤謬
+- 謬誤
+- 謬論
+- 谬误
+- 논리적 오류
 ---
-
-
 # [[Fallacy]] 
 
 #is_/same_as :: [[WD~Fallacy,]]

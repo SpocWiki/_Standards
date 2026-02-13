@@ -1,24 +1,180 @@
 ---
 aliases:
-  - commutative
-  - kommutativ
-  - Commutativity
-  - Kommutativität
+- Awıstırımdılıq
+- Co-iomlaideachd
+- commutative
+- commutative property
+- Commutativitas
+- Commutativitate
+- commutativiteit
+- Commutativity
+- commutatività
+- comutatividade
+- Comutativitate
+- conmutatividad
+- conmutatividade
+- cómhalartacht
+- Den kommutative lov
+- Değişme özelliği
+- giao hoán
+- Kalis tukar tertib
+- Kommutatiewe bewerking
+- kommutatiivsus
+- kommutativ
+- Kommutativgesetz
+- Kommutativitet
+- kommutativitás
+- Kommutativität
+- Kommutativlik xassəsi
+- Komutatiifgesets
+- komutativita
+- komutativitāte
+- Komutativnost
+- komutatyvumas
+- Komutatívnosť
+- komuteco
+- loi commutative
+- propietat commutativa
+- Propietà comutativa
+- przemienność
+- sifat komutatif
+- trukatze-lege
+- vaihdannaisuus
+- Vetia e ndërrimit
+- Víxlregla
+- āhuatanga kōaro
+- Αντιμεταθετική ιδιότητα
+- Ауыстырымдылық
+- камутатыўнасьць
+- камутатыўная аперацыя
+- коммутатив операция
+- Коммутативлă операци
+- Коммутативлык
+- коммутативность
+- комутативність
+- Комутативност
+- տեղափոխականություն
+- פעולה קומוטטיבית
+- اۋىستىرىمدىلىق
+- خاسیەتی ئاڵوگۆڕ
+- خاصیت جابهجایی
+- عملية تبديلية
+- क्रमविनिमेयता
+- বিনিময় বৈশিষ্ট্য
+- பரிமாற்றுத்தன்மை
+- ക്രമനിയമം
+- න්යාදේශ්ය න්යාය
+- สมบัติการสลับที่
+- 交换律
+- 交換律
+- 交換法則
+- 교환법칙
 has_id_wikidata: Q165474
 instance_of: '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 calculated_from: '[[_Standards/WikiData/WD~binary_operator,30242895]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2200;</mi><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">&#x003A;</mo><mi>x</mi><mo stretchy="false">&#x22C6;</mo><mi>y</mi><mo stretchy="false">=</mo><mi>y</mi><mo stretchy="false">&#x22C6;</mo><mi>x</mi></mstyle></mrow></math>
 used_by:
-  - '[[_Standards/WikiData/WD~addition,32043]]'
-  - '[[_Standards/WikiData/WD~multiplication,40276]]'
+- '[[_Standards/WikiData/WD~addition,32043]]'
+- '[[_Standards/WikiData/WD~multiplication,40276]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Commutativity%20of%20binary%20operations%20%28without%20question%20mark%29.svg
 Commons_category: Commutativity
+dv_has_:
+  name_:
+    af: Kommutatiewe bewerking
+    ar: عملية تبديلية
+    ast: Conmutatividad
+    az: Kommutativlik xassəsi
+    ba: коммутатив операция
+    be: камутатыўная аперацыя
+    be-tarask: камутатыўнасьць
+    bg: Комутативност
+    bn: বিনিময় বৈশিষ্ট্য
+    bs: Komutativnost
+    ca: propietat commutativa
+    ckb: خاسیەتی ئاڵوگۆڕ
+    cs: komutativita
+    cv: Коммутативлă операци
+    da: Kommutativitet
+    de: Kommutativgesetz
+    el: Αντιμεταθετική ιδιότητα
+    en: commutative property
+    eo: komuteco
+    es: conmutatividad
+    et: kommutatiivsus
+    eu: trukatze-lege
+    fa: خاصیت جابهجایی
+    fi: vaihdannaisuus
+    fr: loi commutative
+    frr: Komutatiifgesets
+    ga: cómhalartacht
+    gd: Co-iomlaideachd
+    gl: conmutatividade
+    he: פעולה קומוטטיבית
+    hi: क्रमविनिमेयता
+    hr: Komutativnost
+    hu: kommutativitás
+    hy: տեղափոխականություն
+    ia: Commutativitate
+    id: sifat komutatif
+    is: Víxlregla
+    it: commutatività
+    ja: 交換法則
+    kk: Ауыстырымдылық
+    kk-arab: اۋىستىرىمدىلىق
+    kk-cn: اۋىستىرىمدىلىق
+    kk-cyrl: Ауыстырымдылық
+    kk-kz: Ауыстырымдылық
+    kk-latn: Awıstırımdılıq
+    kk-tr: Awıstırımdılıq
+    ko: 교환법칙
+    la: Commutativitas
+    lb: Kommutativgesetz
+    lt: komutatyvumas
+    lv: komutativitāte
+    mi: āhuatanga kōaro
+    mk: Комутативност
+    ml: ക്രമനിയമം
+    ms: Kalis tukar tertib
+    nb: Den kommutative lov
+    nl: commutativiteit
+    nn: kommutativitet
+    pl: przemienność
+    pt: comutatividade
+    pt-br: comutatividade
+    ro: Comutativitate
+    ru: коммутативность
+    sco: commutative property
+    sh: Komutativnost
+    si: න්යාදේශ්ය න්යාය
+    sk: Komutatívnosť
+    sl: komutativnost
+    sq: Vetia e ndërrimit
+    sr: комутативност
+    sr-ec: комутативност
+    sr-el: komutativnost
+    sv: kommutativitet
+    ta: பரிமாற்றுத்தன்மை
+    th: สมบัติการสลับที่
+    tr: Değişme özelliği
+    tt: Коммутативлык
+    uk: комутативність
+    ur: Commutativity
+    vec: Propietà comutativa
+    vi: giao hoán
+    wuu: 交换律
+    yue: 交換律
+    zh: 交換律
+    zh-cn: 交换律
+    zh-hans: 交换律
+    zh-hant: 交換律
+    zh-hk: 交換律
+    zh-sg: 交换律
+    zh-tw: 交換律
 ---
-
 # [[commutative]] 
 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Commutative_property,165474|WD~Commutative_property,165474]] 

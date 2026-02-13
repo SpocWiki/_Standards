@@ -1,9 +1,128 @@
 ---
 aliases:
-  - Fruchtfolge
-  - Crop_Rotation
-  - Crop Rotation
+- almashlab ekish rotatsiyasi
+- Crop Rotation
+- Crop_Rotation
+- Cultura a redolín
+- Fihodinan' ny voly
+- Fruchtfolge
+- heuleut
+- kolobarjenje
+- kultivciklo
+- Külvikord
+- labore-txandaketa
+- Luân canh
+- Mgbanwe nke ihe ọkụkụ
+- nadas
+- newba
+- osevní postup
+- Penggiliran tanaman
+- Plodored
+- płodozmian
+- rotació de conreus
+- rotación de cultivos
+- Rotasi tanaman
+- rotation des cultures
+- Rotazion dełe colture
+- Rotazione delle colture
+- rotação de culturas
+- Sėjomaina
+- uainíocht barr
+- Vekselbruk
+- vekseldrift
+- vetésforgó
+- vruchtwisseling
+- vuoroviljely
+- Växelbruk
+- Önim aýnalımı
+- Αμειψισπορά
+- Газар тариалангийн эргэлт
+- Плодоред
+- Пусăçаврăнăш
+- сівозміна
+- севазварот
+- севооборот
+- Сеитбообращение
+- өнім айналымы
+- Ցանքաշրջանառություն
+- מחזור זרעים
+- تناوب زراعی
+- دورة زراعية
+- ٴونىم اينالىمى
+- फसल चक्र
+- ਕਰਾਪ ਰੋਟੇਸ਼ਨ
+- பயிர் சுழற்சி
+- การปลูกพืชหมุนเวียน
+- თესლბრუნვა
+- ልውውጠ ሰብል
+- 輪作
+- 돌려짓기
 has_id_wikidata: Q191258
+dv_has_:
+  name_:
+    am: ልውውጠ ሰብል
+    an: Cultura a redolín
+    ar: دورة زراعية
+    be: севазварот
+    bg: Сеитбообращение
+    ca: rotació de conreus
+    cs: osevní postup
+    cv: Пусăçаврăнăш
+    da: vekseldrift
+    de: Fruchtfolge
+    el: Αμειψισπορά
+    en: crop rotation
+    eo: kultivciklo
+    es: rotación de cultivos
+    et: Külvikord
+    eu: labore-txandaketa
+    fa: تناوب زراعی
+    fi: vuoroviljely
+    fr: rotation des cultures
+    ga: uainíocht barr
+    gl: Rotación de cultivos
+    he: מחזור זרעים
+    hi: फसल चक्र
+    hr: Plodored
+    hu: vetésforgó
+    hy: Ցանքաշրջանառություն
+    id: Rotasi tanaman
+    ig: Mgbanwe nke ihe ọkụkụ
+    it: Rotazione delle colture
+    ja: 輪作
+    ka: თესლბრუნვა
+    kk: өнім айналымы
+    kk-arab: ٴونىم اينالىمى
+    kk-cn: ٴونىم اينالىمى
+    kk-cyrl: Өнім айналымы
+    kk-kz: Өнім айналымы
+    kk-latn: Önim aýnalımı
+    kk-tr: Önim aýnalımı
+    ko: 돌려짓기
+    lt: Sėjomaina
+    mg: Fihodinan' ny voly
+    mk: Плодоред
+    mn: Газар тариалангийн эргэлт
+    ms: Penggiliran tanaman
+    mt: newba
+    nb: Vekselbruk
+    nl: vruchtwisseling
+    pa: ਕਰਾਪ ਰੋਟੇਸ਼ਨ
+    pl: płodozmian
+    pt: rotação de culturas
+    ru: севооборот
+    sl: kolobarjenje
+    sr: плодоред
+    su: heuleut
+    sv: Växelbruk
+    ta: பயிர் சுழற்சி
+    th: การปลูกพืชหมุนเวียน
+    tr: nadas
+    uk: сівозміна
+    uz: almashlab ekish rotatsiyasi
+    vec: Rotazion dełe colture
+    vi: Luân canh
+    zh: 輪作
 ---
 # [[Crop_Rotation]] 
 

@@ -1,13 +1,74 @@
 ---
 aliases:
-  - Decapoda
-  - tifotkrepser
-  - Kreeften, krabben & garnalen
+- Cha̍p-kha-ba̍k
+- Chʼosh bijáád neeznánígíí
+- Decapoda
+- decàpode
+- Decápodos
+- Dehpê
+- Dekapoda
+- Dekpieduloj
+- Desaťnožce
+- Deseteronošci
+- deseteronožci
+- desetinožci
+- desmitkājvēži
+- Dešimtkojai vėžiai
+- dziesięcionogi
+- giáp xác mười chân
+- Hà
+- Imṛawdaren
+- Kamba
+- Kreeften, krabben & garnalen
+- kymmenjalkaiset
+- kümnejalalised
+- lovejuálgásiih
+- On ayaklılar
+- Onayaqlılar
+- oʻnoyoqli qisqichbaqalar
+- Tibenede krebsdyr
+- tienpotigen
+- Tienpotiges
+- tifotkreps
+- tifotkrepser
+- tiofotade kräftdjur
+- Tjiinbiankraaben
+- tízlábú rákok
+- tīenfōt
+- Veʻehongofulu
+- Zehnfusskrebse
+- Zehnfußkrebse
+- Δεκάποδα
+- Дæскъахджынтæ
+- десетношци
+- десетоноги
+- Десятиногі раки
+- десятиногие ракообразные
+- дзесяціногія ракападобныя
+- Он буттуулар
+- Онаяқты шаянтәрізділер
+- Унаяклы кысласыманнар
+- տասնոտանի խեցգետնակերպեր
+- מעשירי רגל
+- اوْن ایاقلیلار
+- دسپا
+- دهپایان
+- عشاريات الأرجل
+- عشاريات الارجل
+- لس پښې لرونکی ژوي
+- பத்துக்காலிகள்
+- ഡെക്കാപോഡ
+- ပုစွန်
+- ათფეხა კიბოები
+- 十脚目
+- 十腳目
+- 十足目
+- 십각목
 has_id_wikidata: Q4610
 Commons_category: Decapoda
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 EPPO_Code: 1DECAO
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Decapoda.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -16,14 +77,145 @@ MeSH_tree_code: B01.050.500.131.365.190
 NBN_System_Key: NHMSYS0021049528
 parent_taxon: '[[_Standards/WikiData/WD~Eucarida,127341]]'
 taxon_common_name:
-  - tifotkrepser
-  - Kreeften, krabben & garnalen
+- tifotkrepser
+- Kreeften, krabben & garnalen
 taxon_name: Decapoda
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 title: Decapoda
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Decapoda,112034186]]'
+dv_has_:
+  name_:
+    af: Tienpotiges
+    an: Decapoda
+    ang: tīenfōt
+    ar: عشاريات الأرجل
+    arz: عشاريات الارجل
+    ast: Decapoda
+    az: Onayaqlılar
+    azb: اوْن ایاقلیلار
+    bar: Decapoda
+    be: дзесяціногія ракападобныя
+    be-tarask: дзесяціногія ракападобныя
+    bg: десетоноги
+    br: Decapoda
+    ca: decàpode
+    cdo: Hà
+    ceb: Decapoda
+    co: Decapoda
+    cs: desetinožci
+    cy: Decapoda
+    da: Tibenede krebsdyr
+    de: Zehnfußkrebse
+    de-at: Decapoda
+    de-ch: Zehnfusskrebse
+    el: Δεκάποδα
+    en: Decapoda
+    en-ca: Decapoda
+    en-gb: Decapoda
+    eo: Dekpieduloj
+    es: Decapoda
+    et: kümnejalalised
+    eu: Decapoda
+    ext: Decapoda
+    fa: دهپایان
+    fi: kymmenjalkaiset
+    fr: Decapoda
+    frp: Decapoda
+    frr: Tjiinbiankraaben
+    fur: Decapoda
+    ga: Decapoda
+    gd: Decapoda
+    gl: Decápodos
+    gsw: Decapoda
+    he: מעשירי רגל
+    hr: Deseteronošci
+    hu: tízlábú rákok
+    hy: տասնոտանի խեցգետնակերպեր
+    ia: Decapoda
+    id: Dekapoda
+    ie: Decapoda
+    io: Decapoda
+    is: Decapoda
+    it: Decapoda
+    ja: 十脚目
+    ka: ათფეხა კიბოები
+    kab: Imṛawdaren
+    kg: Decapoda
+    kk: Онаяқты шаянтәрізділер
+    ko: 십각목
+    ku: Dehpê
+    ky: Он буттуулар
+    la: Decapoda
+    lb: Decapoda
+    lfn: Decapoda
+    li: Decapoda
+    lij: Decapoda
+    lt: Dešimtkojai vėžiai
+    lv: desmitkājvēži
+    mg: Decapoda
+    min: Decapoda
+    mk: десетношци
+    ml: ഡെക്കാപോഡ
+    ms: Decapoda
+    mt: Decapoda
+    mul: Decapoda
+    my: ပုစွန်
+    nan: Cha̍p-kha-ba̍k
+    nap: Decapoda
+    nb: tifotkreps
+    nds: Decapoda
+    nds-nl: Decapoda
+    nl: tienpotigen
+    nn: tifotkreps
+    nrm: Decapoda
+    nv: Chʼosh bijáád neeznánígíí
+    nys: Decapoda
+    oc: Decapoda
+    os: Дæскъахджынтæ
+    pcd: Decapoda
+    pl: dziesięcionogi
+    pms: Decapoda
+    ps: لس پښې لرونکی ژوي
+    pt: Decapoda
+    pt-br: Decapoda
+    rm: Decapoda
+    ro: Decapoda
+    ru: десятиногие ракообразные
+    sc: Decapoda
+    scn: Decapoda
+    sco: decapoda
+    sh: Deseteronošci
+    sk: Desaťnožce
+    sl: deseteronožci
+    smn: lovejuálgásiih
+    sq: Decapoda
+    sr: Decapoda
+    sv: tiofotade kräftdjur
+    sw: Kamba
+    ta: பத்துக்காலிகள்
+    tl: Decapoda
+    to: Veʻehongofulu
+    tr: On ayaklılar
+    tt: Унаяклы кысласыманнар
+    uk: Десятиногі раки
+    ur: دسپا
+    uz: oʻnoyoqli qisqichbaqalar
+    vec: Decapoda
+    vi: giáp xác mười chân
+    vls: Decapoda
+    vo: Decapoda
+    wa: Decapoda
+    war: Decapoda
+    wo: Decapoda
+    wuu: 十足目
+    yue: 十腳目
+    zh: 十足目
+    zh-cn: 十足目
+    zh-hans: 十足目
+    zh-hk: 十足目
+    zh-tw: 十足目
+    zu: Decapoda
 ---
-
 # [[Decapoda]]  
 
 ![Callianassa_californiensis](Decapoda/Callianassa_californiensis.jpg) ![](Decapoda/Panulirus_argus1075.jpg)) ![](Decapoda/Hemigrapsus_nudus0008.jpg)) 

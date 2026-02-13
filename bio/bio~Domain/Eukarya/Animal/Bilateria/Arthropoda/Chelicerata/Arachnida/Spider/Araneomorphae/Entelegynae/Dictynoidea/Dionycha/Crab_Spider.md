@@ -1,14 +1,101 @@
 ---
 aliases:
-  - Thomisidae
-  - Thomisida
-  - crab spider
-  - flower spider
-  - flower crab spider
-  - Crab_Spider
-  - Crab Spider
+- běžníkovití
+- Chʼilátah naʼashjéʼii
+- crab spider
+- Crab_Spider
+- flower crab spider
+- flower spider
+- karolópókfélék
+- krabbeedderkopper
+- Krabbenspinnen
+- krabbspindlar
+- Krabiämbliklased
+- krabspinnen
+- Krabvoriai
+- Rakovičarji
+- rapuhämähäkit
+- Račji pauci
+- Thomisida
+- Thomisidae
+- Tomisedoj
+- tomísids
+- Ukośnikowate
+- крабови паяци
+- павукі-бакаходы
+- Павуки-краби
+- Паук краба
+- пауки-бокоходы
+- раковидни пајаци
+- սարդ-խաչափառ
+- סרטבישיים
+- ذوطيات
+- عنکبوت خرچنگی
+- カニグモ科
+- 蟹蛛科
+- 게거미
 title: Thomisidae
 has_id_wikidata: Q12023
+dv_has_:
+  name_:
+    an: Thomisidae
+    ar: ذوطيات
+    arz: ذوطيات
+    ast: Thomisidae
+    be: павукі-бакаходы
+    bg: крабови паяци
+    bs: Thomisidae
+    ca: tomísids
+    ceb: Thomisidae
+    cs: běžníkovití
+    de: Krabbenspinnen
+    en: Thomisidae
+    eo: Tomisedoj
+    es: Thomisidae
+    et: Krabiämbliklased
+    eu: Thomisidae
+    ext: Thomisidae
+    fa: عنکبوت خرچنگی
+    fi: rapuhämähäkit
+    fr: Thomisidae
+    ga: Thomisidae
+    gl: Thomisidae
+    he: סרטבישיים
+    hr: Račji pauci
+    hu: karolópókfélék
+    hy: սարդ-խաչափառ
+    ia: Thomisidae
+    ie: Thomisidae
+    io: Thomisidae
+    it: Thomisidae
+    ja: カニグモ科
+    ko: 게거미
+    la: Thomisidae
+    lt: Krabvoriai
+    mk: раковидни пајаци
+    mul: Thomisidae
+    nb: krabbeedderkopper
+    nl: krabspinnen
+    nv: Chʼilátah naʼashjéʼii
+    oc: Thomisidae
+    pl: Ukośnikowate
+    pt: Thomisidae
+    pt-br: Thomisidae
+    ro: Thomisidae
+    ru: пауки-бокоходы
+    sl: Rakovičarji
+    sq: Thomisidae
+    sr: Паук краба
+    sv: krabbspindlar
+    tr: Thomisidae
+    uk: Павуки-краби
+    vi: Thomisidae
+    vo: Thomisidae
+    war: Thomisidae
+    zh: 蟹蛛科
+    zh-cn: 蟹蛛科
+    zh-hans: 蟹蛛科
+    zh-tw: 蟹蛛科
 ---
 # [[Crab_Spider]] 
 

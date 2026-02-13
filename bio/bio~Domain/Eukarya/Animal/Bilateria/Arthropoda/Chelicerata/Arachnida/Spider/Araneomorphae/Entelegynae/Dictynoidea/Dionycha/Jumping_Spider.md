@@ -1,10 +1,114 @@
 ---
 aliases:
-  - Salticidae
-  - Jumping Spider
-  - Jumping_Spider
+- hoppeedderkopper
+- hoppspindlar
+- hyppyhämähäkit
+- Hüpikämbliklased
+- Jumping Spider
+- Jumping_Spider
+- Lēcējzirnekļi
+- Naʼashjéʼii nahachaʼígíí
+- Salticedoj
+- Salticidae
+- Saltícid
+- Skakači (pajki)
+- skakunowate
+- skákavkovití
+- Sprangspannen
+- Springedderkopper
+- Springspinnen
+- ugrópókfélék
+- Šokliavoriai
+- пајаци-скокачи
+- Павукі-скакуны
+- павуки-стрибуни
+- Паук скакач
+- пауки-скакуны
+- Секіргіш өрмекші
+- Скачащи паяци
+- קופצניים
+- عناكب قافزة
+- عناكب قافزه
+- عنکبوت جهنده
+- کدنی مکڑی
+- குதிக்கும் சிலந்தி
+- แมงมุมกระโดด
+- ハエトリグモ
+- 蠅虎
+- 蠅虎科
+- 跳蛛科
+- 깡충거미과
 title: Salticidae
 has_id_wikidata: Q11687
+dv_has_:
+  name_:
+    an: Salticidae
+    ar: عناكب قافزة
+    arz: عناكب قافزه
+    ast: Salticidae
+    be: Павукі-скакуны
+    be-tarask: Павукі-скакуны
+    bg: Скачащи паяци
+    ca: Saltícid
+    ceb: Salticidae
+    cs: skákavkovití
+    da: Springedderkopper
+    de: Springspinnen
+    el: Salticidae
+    en: Salticidae
+    eo: Salticedoj
+    es: Salticidae
+    et: Hüpikämbliklased
+    eu: Salticidae
+    ext: Salticidae
+    fa: عنکبوت جهنده
+    fi: hyppyhämähäkit
+    fr: Salticidae
+    ga: Salticidae
+    gl: Salticidae
+    he: קופצניים
+    hu: ugrópókfélék
+    ia: Salticidae
+    id: Salticidae
+    ie: Salticidae
+    io: Salticidae
+    it: Salticidae
+    ja: ハエトリグモ
+    kk: Секіргіш өрмекші
+    ko: 깡충거미과
+    la: Salticidae
+    lb: Sprangspannen
+    lt: Šokliavoriai
+    lv: Lēcējzirnekļi
+    lzh: 蠅虎
+    mk: пајаци-скокачи
+    mul: Salticidae
+    nb: hoppeedderkopper
+    nl: springspinnen
+    nv: Naʼashjéʼii nahachaʼígíí
+    oc: Salticidae
+    pl: skakunowate
+    pnb: کدنی مکڑی
+    pt: Salticidae
+    pt-br: Salticidae
+    ro: Salticidae
+    ru: пауки-скакуны
+    sl: Skakači (pajki)
+    sq: Salticidae
+    sr: Паук скакач
+    sv: hoppspindlar
+    ta: குதிக்கும் சிலந்தி
+    th: แมงมุมกระโดด
+    tr: Salticidae
+    uk: павуки-стрибуни
+    vi: Salticidae
+    vo: Salticidae
+    war: Salticidae
+    yue: 跳蛛科
+    zh: 跳蛛科
+    zh-cn: 跳蛛科
+    zh-hans: 跳蛛科
+    zh-tw: 蠅虎科
 ---
 ## Phylogeny 
 

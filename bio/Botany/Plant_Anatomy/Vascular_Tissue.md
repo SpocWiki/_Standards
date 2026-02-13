@@ -1,17 +1,122 @@
 ---
 aliases:
+- Biljni vaskularni sustav
+- Damar dokusu
+- Ehun baskular
+- fíochán feadánach
+- johtosolukko
+- jođusseallat
+- juhtkude
+- ledningsvävnad
+- ledningvev
+- Leitgewebe
+- meinwe fasgwlaidd
+- Mô mạch
+- pūtautau tariwai
+- szállítószövetek
+- tecido vascular
+- tejido vascular
+- Texíu vascular
+- Tisu vaskular
+- Tisyung baskular
+- Tkanka przewodząca
+- Vadaudi
+- vascular tissue
+- vaskula histo
+- vaskulært vev
+- vasos llenyosos
+- şaneya lûleyî
+- žilno tkivo
+- țesut vascular
+- Αγωγός ιστός
+- Провідні тканини рослин
+- Проводна ткива
+- Проводяща тъкан
+- Проводящая ткань
+- судзінкавая тканіна
+- Өткізгіш ұлпа
+- Փոխադրող հյուսվածք
+- بافت آوندی
+- نسيج وعائي
+- संवहनीय ऊतक
+- সংবহন কলা
+- সংবহনতান্ত্রিক কলা
+- கலன் இழையம்
+- സംവഹന കലകൾ
+- เนื้อเยื่อท่อลำเลียง
+- გამტარი ქსოვილი
+- 維管束組織
+- 維管組織
+- 维管组织
 has_id_wikidata: Q968604
 has_part_s_:
-  - "[[_Standards/WikiData/WD~xylem,122811]]"
-  - "[[_Standards/WikiData/WD~phloem,185138]]"
-has_use: "[[_Standards/WikiData/WD~transport,1435575]]"
-subclass_of: "[[_Standards/WikiData/WD~plant_tissue,2707831]]"
+- '[[_Standards/WikiData/WD~xylem,122811]]'
+- '[[_Standards/WikiData/WD~phloem,185138]]'
+has_use: '[[_Standards/WikiData/WD~transport,1435575]]'
+subclass_of: '[[_Standards/WikiData/WD~plant_tissue,2707831]]'
 Dewey_Decimal_Classification:
-  - "581.495"
-  - "571.58"
-  - "575.4359"
+- 581.495
+- 571.58
+- 575.4359
+dv_has_:
+  name_:
+    ar: نسيج وعائي
+    as: সংবহন কলা
+    ast: Texíu vascular
+    be-tarask: судзінкавая тканіна
+    bg: Проводяща тъкан
+    bn: সংবহনতান্ত্রিক কলা
+    ca: vasos llenyosos
+    cy: meinwe fasgwlaidd
+    de: Leitgewebe
+    el: Αγωγός ιστός
+    en: vascular tissue
+    en-ca: Vascular tissue
+    en-gb: Vascular tissue
+    eo: vaskula histo
+    es: tejido vascular
+    et: juhtkude
+    eu: Ehun baskular
+    fa: بافت آوندی
+    fi: johtosolukko
+    ga: fíochán feadánach
+    gl: tecido vascular
+    hi: संवहनीय ऊतक
+    hr: Biljni vaskularni sustav
+    hu: szállítószövetek
+    hy: Փոխադրող հյուսվածք
+    ja: 維管束組織
+    ka: გამტარი ქსოვილი
+    kk: Өткізгіш ұлпа
+    ku: şaneya lûleyî
+    ku-latn: şaneya lûleyî
+    lv: Vadaudi
+    mi: pūtautau tariwai
+    ml: സംവഹന കലകൾ
+    ms: Tisu vaskular
+    nb: ledningvev
+    nn: vaskulært vev
+    pl: Tkanka przewodząca
+    ro: țesut vascular
+    ru: Проводящая ткань
+    sco: vascular tissue
+    se: jođusseallat
+    sl: žilno tkivo
+    sr: Проводна ткива
+    sv: ledningsvävnad
+    ta: கலன் இழையம்
+    th: เนื้อเยื่อท่อลำเลียง
+    tl: Tisyung baskular
+    tr: Damar dokusu
+    uk: Провідні тканини рослин
+    vi: Mô mạch
+    wuu: 维管组织
+    yue: 維管組織
+    zh: 维管组织
+    zh-cn: 维管组织
+    zh-hant: 維管組織
+    zh-tw: 維管束組織
 ---
-
 # [[Vascular_Tissue]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vascular_tissue,968604|WD~Vascular_tissue,968604]]  

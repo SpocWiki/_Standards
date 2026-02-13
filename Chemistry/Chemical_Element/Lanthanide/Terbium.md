@@ -1,47 +1,112 @@
 ---
 aliases:
-  - Terbium
+- jinmrterbi
+- teirbiam
+- terb
+- Terbi
+- Terbii
+- terbij
+- terbijs
+- Terbijum
+- Terbio
+- Terbiom
+- Terbis
+- Terbitium
+- terbiu
+- Terbium
+- Terbiumi
+- terbiwm
+- Terbiy
+- Terbiyo
+- Terbiyum
+- Terbiôma
+- terbju
+- Terbyo
+- Terbyu
+- Terbín
+- tèrbi
+- Tèrbiu
+- térbio
+- Tɛrɩbɩyɔm
+- UmThabathofi
+- Çherbium
+- τέρβιο
+- тербій
+- Терби
+- тербијум
+- тербий
+- Тербиум
+- Тербиүм
+- Тэрб
+- Тэрбій
+- տերբիում
+- טרביום
+- تربيوم
+- تربیم
+- تێربیۆم
+- تېربىي
+- تېربيوم
+- طيربيوم
+- ٹربیئم
+- ٹربیم
+- टर्बियम
+- টারবিয়াম
+- ਟਰਬੀਅਮ
+- ટર્બિયમ
+- ଟର୍ବିଅମ
+- டெர்பியம்
+- టెర్బియం
+- ಟೆರ್ಬಿಯಮ್
+- ടെർബിയം
+- เทอร์เบียม
+- တာဘီယမ်
+- ტერბიუმი
+- ተርቢየም
+- テルビウム
+- 鋱
+- 铽
+- 터븀
 has_id_wikidata: Q1838
 atomic_number: 65
-canonical_SMILES: "[Tb]"
+canonical_SMILES: '[Tb]'
 CAS_Registry_Number: 7440-27-9
 chemical_formula: Tb
 Commons_category: Terbium
 Commons_gallery: Terbium
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID6047656
 EC_number: 231-137-6
 electronegativity: 1.2
 element_symbol: Tb
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
 Gmelin_number: 16311
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg
 InChI: InChI=1S/Tb
 InChIKey: GZCRRIHWUXGPOV-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.76
-  - 0.88
-  - 0.92
-  - 1.04
-location_of_discovery: "[[_Standards/WikiData/WD~Stockholm,1754]]"
+- 0.76
+- 0.88
+- 0.92
+- 1.04
+location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]"
-  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-  - "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
-  - "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
+- '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]'
+- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
 mass: 158.925354
 MeSH_tree_code:
-  - D01.268.558.362.968
-  - D01.552.550.399.968
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
+- D01.268.558.362.968
+- D01.552.550.399.968
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
 OmegaWiki_Defined_Meaning: 364226
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23958
 SpocWebEntityId: 21961
 time_of_discovery_or_invention: 1843
@@ -51,21 +116,165 @@ Unicode_character: 鋱
 UNII: 06SSF7P179
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Terbium,1838]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Terbium|Terbium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Terbium.public|Terbium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Terbium.internal|Terbium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Terbium.protect|Terbium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Terbium.private|Terbium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Terbium.personal|Terbium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Terbium.secret|Terbium.secret]]"
-  part_of: "[[../Lanthanide]]"
+  - '[[../../../WikiData/WD~Terbium,1838]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Terbium|Terbium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Terbium.public|Terbium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Terbium.internal|Terbium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Terbium.protect|Terbium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Terbium.private|Terbium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Terbium.personal|Terbium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Terbium.secret|Terbium.secret]]'
+  part_of: '[[../Lanthanide]]'
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Terbium
-    de: Terbium
     abbreviated: Tb
+    af: terbium
+    am: ተርቢየም
+    anp: टर्बियम
+    ar: تربيوم
+    ary: طيربيوم
+    arz: تربيوم
+    ast: terbiu
+    az: Terbitium
+    ba: Тербий
+    ban: Terbium
+    be: Тэрбій
+    be-tarask: Тэрб
+    bg: тербий
+    bho: टर्बियम
+    bn: টারবিয়াম
+    br: Terbiom
+    bs: terbij
+    ca: terbi
+    cdo: Terbium
+    ceb: Terbyo
+    ckb: تێربیۆم
+    co: Terbiu
+    cs: terbium
+    cv: Терби
+    cy: terbiwm
+    da: terbium
+    de: Terbium
+    el: τέρβιο
+    en: terbium
+    en-gb: terbium
+    eo: terbio
+    es: terbio
+    et: Terbium
+    eu: terbio
+    fa: تربیم
+    fi: terbium
+    fr: terbium
+    frr: Terbium
+    fur: Terbi
+    ga: teirbiam
+    gd: Terbium
+    gl: Terbio
+    group: Lanthanide-Group
+    gu: ટર્બિયમ
+    gv: Çherbium
+    hak: terbium
+    he: טרביום
+    hi: टर्बियम
+    hif: Terbium
+    hr: Terbij
+    hu: terbium
+    hy: տերբիում
+    ia: terbium
+    id: terbium
+    io: terbio
+    is: Terbín
+    it: terbio
+    ja: テルビウム
+    jbo: jinmrterbi
+    jv: Terbium
+    ka: ტერბიუმი
+    kbp: Tɛrɩbɩyɔm
+    kk: Тербий
+    kn: ಟೆರ್ಬಿಯಮ್
+    ko: 터븀
+    kv: Тербий
+    kw: Terbiom
+    ky: Тербий
+    la: terbium
+    lb: Terbium
+    lfn: terbio
+    li: Terbium
+    lij: Terbio
+    lt: Terbis
+    lv: terbijs
+    lzh: 鋱
+    mg: Terbiôma
+    mk: тербиум
+    ml: ടെർബിയം
+    mn: терби
+    mr: टर्बियम
+    mrj: Тербий
+    ms: Terbium
+    mt: terbju
+    my: တာဘီယမ်
+    nan: Terbium
+    nb: terbium
+    ne: टर्बियम
+    new: टर्बियम
+    nl: terbium
+    nn: terbium
+    nov: Terbium
+    oc: tèrbi
+    olo: Terbii
+    or: ଟର୍ବିଅମ
+    os: тербий
+    pa: ਟਰਬੀਅਮ
+    pi: टर्बियम
+    pl: terb
+    pms: Terbio
+    pnb: ٹربیم
+    ps: تېربيوم
+    pt: térbio
+    pt-br: térbio
+    qu: Terbyu
+    ro: terbiu
+    ru: тербий
+    rup: Terbiu
+    sa: टर्बियम
+    sah: Тербиум
+    sc: Tèrbiu
+    scn: terbiu
+    sh: Terbijum
+    sk: terbium
+    sl: terbij
+    sq: Terbiumi
+    sr: тербијум
+    sr-ec: Тербијум
+    stq: Terbium
+    sv: terbium
+    sw: Terbi
+    ta: டெர்பியம்
+    te: టెర్బియం
+    tg: тербий
+    th: เทอร์เบียม
+    tl: Terbiyo
+    tr: Terbiyum
+    tt: Тербий
+    ug: تېربىي
+    uk: тербій
+    ur: ٹربیئم
+    uz: Terbiy
+    vep: Terbii
+    vi: terbi
+    war: Terbyo
+    wuu: 铽
+    xal: Тербиүм
+    yo: Terbium
+    yue: 鋱
+    zh: 铽
+    zh-hant: 鋱
+    zh-tw: 鋱
+    zu: UmThabathofi
+  number_of_:
+    period: 6
+    group: 31
+    electrons: 65
   value_for_:
     weight_:
       u: 158.9254
@@ -93,21 +302,17 @@ dv_has_:
       form_:
         kj_:
           mol: 330.9
-  number_of_:
-    period: 6
-    group: 31
-    electrons: 65
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Terbium,1838]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Terbium|Terbium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Terbium.public|Terbium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Terbium.internal|Terbium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Terbium.protect|Terbium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Terbium.private|Terbium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Terbium.personal|Terbium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Terbium.secret|Terbium.secret]]"
+- '[[../../../WikiData/WD~Terbium,1838]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Terbium|Terbium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Terbium.public|Terbium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Terbium.internal|Terbium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Terbium.protect|Terbium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Terbium.private|Terbium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Terbium.personal|Terbium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Terbium.secret|Terbium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Terbium
 dv_has_name_de: Terbium
 dv_has_value_for_weight_u: 158.9254
@@ -128,7 +333,6 @@ dv_has_number_of_group: 31
 dv_has_name_abbreviated: Tb
 dv_has_number_of_electrons: 65
 ---
-
 # [[Terbium]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 

@@ -1,26 +1,109 @@
 ---
 aliases:
-  - Nunchaku
-  - ヌンチャク
-  - dual-section stick
-  - nunchuks
-  - nunchucks
-  - chainsticks
-  - chuka sticks
+- chainsticks
+- chuka sticks
+- côn nhị khúc
+- dual-section stick
+- Nunchaku
+- nunchucks
+- nunchuks
+- nuncsaku
+- nunczako
+- nunçaku
+- nunčake
+- nunčaks
+- nunčaku
+- nunčiakas
+- νουντσάκου
+- нунчакі
+- нунчаке
+- нунчаки
+- нунчаку
+- Նունչակի
+- נונצ'קו
+- نانچاکو
+- ننشاكو
+- নুনচাকু
+- நன்சாகூ
+- နံချပ်ကူ
+- ნუნჩაკუ
+- ヌンチャク
+- 双节棍
+- 雙節棍
+- 쌍절곤
 has_id_wikidata: Q204206
 subclass_of:
-  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-  - '[[_Standards/WikiData/WD~farmer_weapon,811318]]'
-  - '[[_Standards/WikiData/WD~melee_weapon,5581528]]'
-  - '[[_Standards/WikiData/WD~prohibited_weapon,74409921]]'
+- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~farmer_weapon,811318]]'
+- '[[_Standards/WikiData/WD~melee_weapon,5581528]]'
+- '[[_Standards/WikiData/WD~prohibited_weapon,74409921]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
 Commons_category: Nunchaku
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ja-Nunchaku.oga
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nunchaku.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Nunchaku%20Routine.gif
 IMDb_keyword: nunchaku
+dv_has_:
+  name_:
+    ar: ننشاكو
+    ast: nunchaku
+    be-tarask: нунчакі
+    bg: нунчаку
+    bn: নুনচাকু
+    bs: nunčaku
+    ca: nunchaku
+    cs: nunčaku
+    cy: nunchaku
+    da: nunchaku
+    de: Nunchaku
+    el: νουντσάκου
+    en: nunchaku
+    es: nunchaku
+    eu: Nunchaku
+    fa: نانچاکو
+    fi: nunchaku
+    fr: nunchaku
+    gl: nunchaku
+    he: נונצ'קו
+    hu: nuncsaku
+    hy: Նունչակի
+    id: nunchaku
+    it: nunchaku
+    ja: ヌンチャク
+    ka: ნუნჩაკუ
+    kk: нунчаки
+    ko: 쌍절곤
+    lt: nunčiakas
+    lv: nunčaks
+    ms: nunchaku
+    my: နံချပ်ကူ
+    nb: nunchaku
+    nl: nunchaku
+    oc: nunchaku
+    pl: nunczako
+    pms: Nunchaku
+    pt: nunchaku
+    ru: нунчаки
+    sh: nunčake
+    sl: nunchaku
+    sq: nunçaku
+    sr: nunčake
+    sr-ec: нунчаке
+    sr-el: nunčake
+    sv: nunchaku
+    ta: நன்சாகூ
+    tr: nunçaku
+    uk: нунчаку
+    vi: côn nhị khúc
+    yue: 雙節棍
+    zh: 雙節棍
+    zh-cn: 双节棍
+    zh-hans: 双节棍
+    zh-hant: 雙節棍
+    zh-hk: 雙節棍
+    zh-sg: 双节棍
+    zh-tw: 雙節棍
 ---
-
 # [[Nunchaku]] 
 
 #is_/same_as :: [[WD~Nunchaku,204206]] 

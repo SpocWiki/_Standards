@@ -1,8 +1,90 @@
 ---
 aliases:
-  - Damaliscus
+- Basterhartbees
+- Blua damalisko
+- buvolec modrý
+- Common tsessebe
+- Damaliscus
+- Damaliscus lunatus
+- halvmåneantilope
+- Jádítsoh dilwoʼí
+- Keyol (Damaliscus lunatus)
+- közönséges lantszarvúantilop
+- Leierantilope
+- Lierantilope
+- sasebi właściwy
+- Sassabi
+- sassabiantilooppi
+- Topi
+- topi comú
+- Tsessebe
+- лиророга антилопа
+- Топи
+- דאמאליסק הסהר
+- ثيتل هجين
+- زسیو
+- ساسابى مالوف
+- شاخچنگی
+- 轉角牛羚
+- 转角牛羚
+- 사사비영양
 title: Damaliscus lunatus
 has_id_wikidata: Q545071
+dv_has_:
+  name_:
+    af: Basterhartbees
+    ar: ثيتل هجين
+    arz: ساسابى مالوف
+    ast: Damaliscus lunatus
+    av: Топи
+    avk: Keyol (Damaliscus lunatus)
+    az: Topi
+    bg: лиророга антилопа
+    ca: topi comú
+    ceb: Damaliscus lunatus
+    cs: buvolec modrý
+    de: Leierantilope
+    en: Common tsessebe
+    eo: Blua damalisko
+    es: Damaliscus lunatus
+    eu: Damaliscus lunatus
+    fa: شاخچنگی
+    fi: sassabiantilooppi
+    fr: Sassabi
+    ga: Damaliscus lunatus
+    gl: Damaliscus lunatus
+    he: דאמאליסק הסהר
+    hu: közönséges lantszarvúantilop
+    ia: Damaliscus lunatus
+    id: Tsessebe
+    it: Damaliscus lunatus
+    ko: 사사비영양
+    la: Damaliscus lunatus
+    lez: Топи
+    lg: Damaliscus lunatus
+    lt: Topi
+    mhr: Топи
+    mk: лиророга антилопа
+    mul: Damaliscus lunatus
+    nb: halvmåneantilope
+    nl: Lierantilope
+    nv: Jádítsoh dilwoʼí
+    pl: sasebi właściwy
+    pnb: زسیو
+    pt: Damaliscus lunatus
+    pt-br: Damaliscus lunatus
+    ro: Damaliscus lunatus
+    ru: Топи
+    sq: Damaliscus lunatus
+    sr: Damaliscus lunatus
+    sv: Topi
+    udm: Топи
+    uk: Damaliscus lunatus
+    vi: Damaliscus lunatus
+    war: Damaliscus lunatus
+    zh: 转角牛羚
+    zh-cn: 转角牛羚
+    zh-tw: 轉角牛羚
 ---
 # [[Damaliscus]] lunatus 
 

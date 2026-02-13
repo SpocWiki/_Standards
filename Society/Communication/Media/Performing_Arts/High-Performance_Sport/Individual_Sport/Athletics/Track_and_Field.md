@@ -1,29 +1,136 @@
 ---
 aliases:
-  - Track and Field
-  - Track_and_Field
+- athlétisme
+- atletism
+- atletisme de pista i camp
+- atletismo de pista e campo
+- atletismo de pista y campo
+- baan en veld
+- balapan dan padang
+- bieżnia
+- Chrak ah fiil atletix
+- Chân-kèng ūn-tōng
+- cluichí raoin is faiche
+- Dirreefi Xurree
+- friidrett
+- friidrott
+- könnyűatlétika
+- Leichtathletik
+- Liichtathleetik
+- Pist ve saha
+- steza in igrišče
+- Track and Field
+- Track and field athletics
+- Track_and_Field
+- trek dan lapangan
+- vojkampa atletiko
+- điền kinh trong sân vận động
+- στίβος
+- атлетика на патеки
+- атлетска дисциплина
+- варзиши сабук
+- лёгкая атлетика на стадионе
+- лёгкая атлетыка
+- лёткая атлетыка на стадыёне
+- легка атлетика на стадіоні
+- թեթև աթլետիկա
+- אתלטיקה קלה
+- دو و میدانی
+- سباقات المضمار والميدان
+- ٹریک اینڈ فیلڈ
+- گۆڕەپان و مەیدان
+- ट्रैक और फील्ड
+- ट्र्याक एण्ड फिल्ड
+- ট্র্যাক অ্যান্ড ফিল্ড
+- ਟਰੈਕ ਅਤੇ ਫ਼ੀਲਡ
+- தடகளம்
+- ట్రాక్ అండ్ ఫీల్డ్
+- ട്രാക്ക് ആൻഡ് ഫീൾഡ്
+- ජවන සහ පිටිය ක්රීඩා
+- ลู่และลาน
+- トラック&フィールド
+- 場內田徑賽
+- ꯂꯝꯄꯥꯛ ꯱ꯁꯨꯡ ꯂꯝꯖꯦꯜ
+- 트랙 및 필드
 has_id_wikidata: Q3312129
 uses:
-  - "[[_Standards/WikiData/WD~athletics_track,1004435]]"
-  - "[[_Standards/WikiData/WD~starting_pistol,1543471]]"
-  - "[[_Standards/WikiData/WD~starting_blocks,2703864]]"
-  - "[[_Standards/WikiData/WD~running_shoe,33612712]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Athletics_events,10505794]]"
-practiced_by: "[[_Standards/WikiData/WD~athletics_competitor,11513337]]"
+- '[[_Standards/WikiData/WD~athletics_track,1004435]]'
+- '[[_Standards/WikiData/WD~starting_pistol,1543471]]'
+- '[[_Standards/WikiData/WD~starting_blocks,2703864]]'
+- '[[_Standards/WikiData/WD~running_shoe,33612712]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Athletics_events,10505794]]'
+practiced_by: '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-different_from: "[[_Standards/WikiData/WD~athletics,542]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~athletics,542]]"
-subclass_of: "[[_Standards/WikiData/WD~athletics,542]]"
-IAB_code: "540"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~athletics,542]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~athletics,542]]'
+subclass_of: '[[_Standards/WikiData/WD~athletics,542]]'
+IAB_code: 540
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg
-U_S_National_Archives_Identifier: "10647146"
+U_S_National_Archives_Identifier: 10647146
 Commons_category: Athletics
 Library_of_Congress_Classification: GV1060.5-GV1098
 MeSH_tree_code: I03.450.642.845.925
 subreddit: trackandfield
+dv_has_:
+  name_:
+    af: baan en veld
+    ar: سباقات المضمار والميدان
+    be: лёткая атлетыка на стадыёне
+    be-tarask: лёгкая атлетыка
+    bn: ট্র্যাক অ্যান্ড ফিল্ড
+    ca: atletisme de pista i camp
+    ckb: گۆڕەپان و مەیدان
+    de: Leichtathletik
+    el: στίβος
+    en: track and field
+    eo: vojkampa atletiko
+    es: atletismo de pista y campo
+    fa: دو و میدانی
+    fr: athlétisme
+    ga: cluichí raoin is faiche
+    gl: atletismo de pista e campo
+    gpe: Track and field
+    he: אתלטיקה קלה
+    hi: ट्रैक और फील्ड
+    ht: Athlétisme
+    hu: könnyűatlétika
+    hy: թեթև աթլետիկա
+    id: trek dan lapangan
+    ja: トラック&フィールド
+    jam: Chrak ah fiil atletix
+    ko: 트랙 및 필드
+    lb: Liichtathleetik
+    mk: атлетика на патеки
+    ml: ട്രാക്ക് ആൻഡ് ഫീൾഡ്
+    mni: ꯂꯝꯄꯥꯛ ꯱ꯁꯨꯡ ꯂꯝꯖꯦꯜ
+    ms: balapan dan padang
+    nan: Chân-kèng ūn-tōng
+    nb: friidrett
+    new: ट्र्याक एण्ड फिल्ड
+    nl: track and field
+    nn: friidrett
+    om: Dirreefi Xurree
+    pa: ਟਰੈਕ ਅਤੇ ਫ਼ੀਲਡ
+    pl: bieżnia
+    pt: atletismo de pista e campo
+    ro: atletism
+    ru: лёгкая атлетика на стадионе
+    si: ජවන සහ පිටිය ක්රීඩා
+    sl: steza in igrišče
+    sr: атлетска дисциплина
+    sv: friidrott
+    ta: தடகளம்
+    te: ట్రాక్ అండ్ ఫీల్డ్
+    tg: варзиши сабук
+    th: ลู่และลาน
+    tr: Pist ve saha
+    uk: легка атлетика на стадіоні
+    ur: ٹریک اینڈ فیلڈ
+    vi: điền kinh trong sân vận động
+    war: Track and field athletics
+    zh: 場內田徑賽
 ---
-
 # [[Track_and_Field]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~track_and_field,3312129]] 

@@ -1,8 +1,85 @@
 ---
 has_id_wikidata: Q1401124
+dv_has_:
+  name_:
+    ar: الأساطير الهندية الأوروبية البدائية
+    ast: Relixón protoindoeuropea
+    be: праіндаеўрапейская рэлігія
+    bn: প্রোটো-ইন্দো-ইউরোপীয় ধর্ম
+    ca: religió protoindoeuropea
+    cs: Indoevropské náboženství
+    cy: Mytholeg Proto-Indo-Ewropeaidd
+    de: Indogermanische Religion
+    en: Proto-Indo-European mythology
+    eo: prahindeŭropa religio
+    es: Religión protoindoeuropea
+    eu: erlijio protoindoeuroparra
+    fa: دین نیاهندواروپایی
+    fr: religion proto-indo-européenne
+    gl: relixión protoindoeuropea
+    gsw: Indogermanischi Religio
+    he: מיתולוגיה פרוטו-הודו-אירופית
+    id: Agama Proto-India-Eropa
+    it: religione protoindoeuropea
+    ja: インド・ヨーロッパ系神話
+    ko: 원시 인도유럽 신화
+    lt: Indoeuropiečių proreligijė
+    lv: indoeiropiešu mitoloģija
+    nan: Goân-chó͘ Ìn-Au chong-kàu
+    nb: Urindoeuropeisk religion
+    nds-nl: Indo-Europese rilligie
+    nl: Indo-Europese religie
+    pt: Religião protoindo-europeia
+    ro: Religia proto-indo-europeană
+    ru: Праиндоевропейская религия
+    sl: praindoevropska mitologija
+    sv: Protoindoeuropeisk mytologi
+    tl: Relihiyong Proto-Indo-Europeo
+    tr: Hint-Avrupa dini
+    uk: Праіндоєвропейська релігія
+    zh: 原始印歐宗教
+    zh-hans: 原始印欧神话
+    zh-hant: 原始印歐神話
+aliases:
+- Agama Proto-India-Eropa
+- erlijio protoindoeuroparra
+- Goân-chó͘ Ìn-Au chong-kàu
+- Hint-Avrupa dini
+- Indo-Europese religie
+- Indo-Europese rilligie
+- indoeiropiešu mitoloģija
+- Indoeuropiečių proreligijė
+- Indoevropské náboženství
+- Indogermanische Religion
+- Indogermanischi Religio
+- Mytholeg Proto-Indo-Ewropeaidd
+- prahindeŭropa religio
+- praindoevropska mitologija
+- Proto-Indo-European mythology
+- Protoindoeuropeisk mytologi
+- Religia proto-indo-europeană
+- religion proto-indo-européenne
+- religione protoindoeuropea
+- Religião protoindo-europeia
+- religió protoindoeuropea
+- Religión protoindoeuropea
+- Relihiyong Proto-Indo-Europeo
+- relixión protoindoeuropea
+- Relixón protoindoeuropea
+- Urindoeuropeisk religion
+- праіндаеўрапейская рэлігія
+- Праіндоєвропейська релігія
+- Праиндоевропейская религия
+- מיתולוגיה פרוטו-הודו-אירופית
+- الأساطير الهندية الأوروبية البدائية
+- دین نیاهندواروپایی
+- প্রোটো-ইন্দো-ইউরোপীয় ধর্ম
+- インド・ヨーロッパ系神話
+- 原始印欧神话
+- 原始印歐宗教
+- 原始印歐神話
+- 원시 인도유럽 신화
 ---
-
-
 # [[Proto-Indo-European_Mythology]] 
 
 

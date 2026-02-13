@@ -1,9 +1,148 @@
 ---
 aliases:
-  - Pierce Brendan Brosnan
-  - Pierce Brosnan
-  - Brosnan,Pierce
+- Brosnan,Pierce
+- Pierce Brendan Brosnan
+- Pierce Brosnan
+- Pirs Brosnan
+- Pīrss Brosnans
+- Πιρς Μπρόσναν
+- Пірс Броснан
+- Пирс Броснан
+- Пиърс Броснан
+- Փիրս Բրոսնան
+- פירס ברוסנן
+- بيرس بروسنان
+- پیئرس بروسنن
+- پیرس برازنان
+- پیێرس برۆسنان
+- पियर्स ब्रॉसनन
+- पियर्स ब्रॉस्नन
+- পিয়ার্স ব্রসনান
+- பியர்ஸ் புரோஸ்னன்
+- పియర్స్ బ్రోస్నన్
+- ಪಿಯರ್ಸ್ ಬ್ರಾನ್ಸನ್
+- പിയേഴ്സ് ബ്രോസ്നൻ
+- පියර්ස් බ්රොස්නන්
+- เพียร์ซ บรอสแนน
+- პირს ბროსნანი
+- ピアース・ブロスナン
+- 皮尔斯·布鲁斯南
+- 皮爾斯·布洛斯南
+- 皮雅斯·布洛斯南
+- 皮雅斯布士南
+- 피어스 브로스넌
 has_id_wikidata: Q81520
+dv_has_:
+  name_:
+    af: Pierce Brosnan
+    an: Pierce Brosnan
+    ar: بيرس بروسنان
+    arz: بيرس بروسنان
+    ast: Pierce Brosnan
+    az: Pirs Brosnan
+    azb: پیرس برازنان
+    bar: Pierce Brosnan
+    be: Пірс Броснан
+    be-tarask: Пірс Броснан
+    bg: Пиърс Броснан
+    bn: পিয়ার্স ব্রসনান
+    br: Pierce Brosnan
+    ca: Pierce Brosnan
+    ckb: پیێرس برۆسنان
+    co: Pierce Brosnan
+    cs: Pierce Brosnan
+    cy: Pierce Brosnan
+    da: Pierce Brosnan
+    dag: Pierce Brosnan
+    de: Pierce Brosnan
+    de-ch: Pierce Brosnan
+    el: Πιρς Μπρόσναν
+    en: Pierce Brosnan
+    en-ca: Pierce Brosnan
+    en-gb: Pierce Brosnan
+    eo: Pierce Brosnan
+    es: Pierce Brosnan
+    et: Pierce Brosnan
+    eu: Pierce Brosnan
+    fa: پیرس برازنان
+    fi: Pierce Brosnan
+    fo: Pierce Brosnan
+    fr: Pierce Brosnan
+    ga: Pierce Brosnan
+    gl: Pierce Brosnan
+    he: פירס ברוסנן
+    hi: पियर्स ब्रॉसनन
+    hr: Pierce Brosnan
+    hu: Pierce Brosnan
+    hy: Փիրս Բրոսնան
+    id: Pierce Brosnan
+    ig: Pierce Brosnan
+    io: Pierce Brosnan
+    is: Pierce Brosnan
+    it: Pierce Brosnan
+    ja: ピアース・ブロスナン
+    jv: Pierce Brosnan
+    ka: პირს ბროსნანი
+    kk: Пирс Броснан
+    kl: Pierce Brosnan
+    kn: ಪಿಯರ್ಸ್ ಬ್ರಾನ್ಸನ್
+    ko: 피어스 브로스넌
+    kw: Pierce Brosnan
+    la: Pierce Brosnan
+    lb: Pierce Brosnan
+    lfn: Pierce Brosnan
+    lt: Pierce Brosnan
+    lv: Pīrss Brosnans
+    mk: Пирс Броснан
+    ml: പിയേഴ്സ് ബ്രോസ്നൻ
+    mn: Пирс Броснан
+    mr: पियर्स ब्रॉस्नन
+    ms: Pierce Brosnan
+    mul: Pierce Brosnan
+    nan: Pierce Brosnan
+    nb: Pierce Brosnan
+    nds: Pierce Brosnan
+    nl: Pierce Brosnan
+    nn: Pierce Brosnan
+    oc: Pierce Brosnan
+    pap: Pierce Brosnan
+    pl: Pierce Brosnan
+    pms: Pierce Brosnan
+    pt: Pierce Brosnan
+    pt-br: Pierce Brosnan
+    qu: Pierce Brosnan
+    ro: Pierce Brosnan
+    ru: Пирс Броснан
+    scn: Pierce Brosnan
+    sh: Pierce Brosnan
+    si: පියර්ස් බ්රොස්නන්
+    sk: Pierce Brosnan
+    skr: پیئرس بروسنن
+    sl: Pierce Brosnan
+    sq: Pierce Brosnan
+    sr: Пирс Броснан
+    sr-ec: Пирс Броснан
+    sr-el: Pirs Brosnan
+    su: Pierce Brosnan
+    sv: Pierce Brosnan
+    sw: Pierce Brosnan
+    ta: பியர்ஸ் புரோஸ்னன்
+    te: పియర్స్ బ్రోస్నన్
+    th: เพียร์ซ บรอสแนน
+    tr: Pierce Brosnan
+    uk: Пірс Броснан
+    ur: پیئرس بروسنن
+    uz: Pierce Brosnan
+    vi: Pierce Brosnan
+    war: Pierce Brosnan
+    wuu: 皮尔斯·布鲁斯南
+    xmf: პირს ბროსნანი
+    yo: Pierce Brosnan
+    yue: 皮雅斯布士南
+    zh: 皮尔斯·布鲁斯南
+    zh-hant: 皮爾斯·布洛斯南
+    zh-my: 皮雅斯·布洛斯南
+    zh-tw: 皮爾斯·布洛斯南
 ---
 ## #has_/text_of_/abstract 
 

@@ -1,18 +1,96 @@
 ---
 aliases:
-  - Asexual_Reproduction
-  - Asexual Reproduction
+- Amyaraw arzufan
+- aseksual
+- Asexual Reproduction
+- Asexual_Reproduction
+- asexuell förökning
+- atáirgeadh éighnéasach
+- bespolno razmnožavanje
+- bezdzimumvairošanās
+- Eşeysiz üreme
+- I-asexual reproduction
+- ivartalan szaporodás
+- Jinssiz koʻpayish
+- Jınıssız köbeyu
+- Kynlaus æxlun
+- multiplication asexuée
+- nelytinis dauginimasis
+- Nepohlavné rozmnožovanie
+- nepohlavní rozmnožování
+- neseksa reproduktado
+- nespolno razmnožavanje
+- nespolno razmnoževanje
+- ongeslachtelijke voortplanting
+- pembiakan aseks
+- pirbûna nezayendî
+- reproducció asexual
+- reproducción asexual
+- reproducere asexuată
+- reprodución asexual
+- Reproduction asexual
+- reprodui asesal
+- reproduksyong aseksuwal
+- reprodusion asesuałe
+- reprodução assexuada
+- Repwodiksyon aseksyèl
+- Riprodhimi aseksual
+- riproduzione asessuata
+- rozmnażanie bezpłciowe
+- sinh sản vô tính
+- Suguta sigimine
+- Suulda siginemine
+- suvuton lisääntyminen
+- Ugalketa asexual
+- ukjønna formeiring
+- ukjønnet formering
+- Ukønnet formering
+- ungeschlechtliche Vermehrung
+- Ungeslachtlike fuortplanting
+- Walhormaata saal-malee
+- Αγενής αναπαραγωγή
+- Арамалăхсăр ĕрчев
+- Безполово размножаване
+- безстатеве розмноження
+- бесполно размножавање
+- бесполово размножување
+- бесполое размножение
+- бязстацевае размнажэньне
+- бясполае размнажэнне
+- Енси булмаған үрсеү
+- Жыныссыз көбею
+- начеаськытэк йылон
+- անսեռ բազմացում
+- רבייה אל-זוויגית
+- تكاثر لاجنسي
+- تولید مثل غیرجنسی
+- جىنىسسىز كوبەيۋ
+- زێدەبوونا بێزایەندی
+- غیرجنسي بیا توليد
+- غیرجنسی تولید
+- ناتوخمە زۆربوون
+- अलैंगिक जनन
+- অযৌন প্রজনন
+- கலவியற்ற இனப்பெருக்கம்
+- ಅಬೀಜೋತ್ಪಾದನೆ
+- අලිංගික ප්රජනනය
+- การสืบพันธุ์แบบไม่อาศัยเพศ
+- უსქესო გამრავლება
+- 无性生殖
+- 無性生殖
+- 無性繁殖
+- 무성생식
 has_id_wikidata: Q173432
 opposite_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
 different_from: '[[_Standards/WikiData/WD~asexuality,724351]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
-  - '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 has_effect: '[[_Standards/WikiData/WD~clone,131727693]]'
 subclass_of: '[[_Standards/WikiData/WD~reproduction,11990]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Binary%20Fission.png
@@ -24,8 +102,103 @@ Commons_category: Asexual reproduction
 UMLS_CUI: C0035152
 Colon_Classification: G:676
 MeSH_tree_code: G08.686.784.830
+dv_has_:
+  name_:
+    ar: تكاثر لاجنسي
+    ast: reproducción asexual
+    ba: Енси булмаған үрсеү
+    be: бясполае размнажэнне
+    be-tarask: бязстацевае размнажэньне
+    bg: Безполово размножаване
+    bn: অযৌন প্রজনন
+    bs: bespolno razmnožavanje
+    ca: reproducció asexual
+    ckb: ناتوخمە زۆربوون
+    cs: nepohlavní rozmnožování
+    cv: Арамалăхсăр ĕрчев
+    da: Ukønnet formering
+    de: ungeschlechtliche Vermehrung
+    el: Αγενής αναπαραγωγή
+    en: asexual reproduction
+    eo: neseksa reproduktado
+    es: reproducción asexual
+    et: Suguta sigimine
+    eu: Ugalketa asexual
+    fa: تولید مثل غیرجنسی
+    fi: suvuton lisääntyminen
+    fr: multiplication asexuée
+    fy: Ungeslachtlike fuortplanting
+    ga: atáirgeadh éighnéasach
+    gl: reprodución asexual
+    he: רבייה אל-זוויגית
+    hi: अलैंगिक जनन
+    hif: Asexual reproduction
+    hr: nespolno razmnožavanje
+    ht: Repwodiksyon aseksyèl
+    hu: ivartalan szaporodás
+    hy: անսեռ բազմացում
+    ia: Reproduction asexual
+    id: aseksual
+    is: Kynlaus æxlun
+    it: riproduzione asessuata
+    ja: 無性生殖
+    ka: უსქესო გამრავლება
+    kab: Amyaraw arzufan
+    kk: Жыныссыз көбею
+    kk-arab: جىنىسسىز كوبەيۋ
+    kk-cn: جىنىسسىز كوبەيۋ
+    kk-cyrl: Жыныссыз көбею
+    kk-kz: Жыныссыз көбею
+    kk-latn: Jınıssız köbeyu
+    kk-tr: Jınıssız köbeyu
+    kn: ಅಬೀಜೋತ್ಪಾದನೆ
+    ko: 무성생식
+    ku: pirbûna nezayendî
+    ku-arab: زێدەبوونا بێزایەندی
+    ku-latn: pirbûna nezayendî
+    lfn: reprodui asesal
+    lt: nelytinis dauginimasis
+    lv: bezdzimumvairošanās
+    mk: бесполово размножување
+    ms: pembiakan aseks
+    nb: ukjønnet formering
+    nl: ongeslachtelijke voortplanting
+    nn: ukjønna formeiring
+    om: Walhormaata saal-malee
+    pl: rozmnażanie bezpłciowe
+    ps: غیرجنسي بیا توليد
+    pt: reprodução assexuada
+    ro: reproducere asexuată
+    ru: бесполое размножение
+    sh: Bespolno razmnožavanje
+    si: අලිංගික ප්රජනනය
+    sk: Nepohlavné rozmnožovanie
+    sl: nespolno razmnoževanje
+    sq: Riprodhimi aseksual
+    sr: бесполно размножавање
+    sv: asexuell förökning
+    ta: கலவியற்ற இனப்பெருக்கம்
+    th: การสืบพันธุ์แบบไม่อาศัยเพศ
+    tl: reproduksyong aseksuwal
+    tr: Eşeysiz üreme
+    udm: начеаськытэк йылон
+    uk: безстатеве розмноження
+    ur: غیرجنسی تولید
+    uz: Jinssiz koʻpayish
+    vec: reprodusion asesuałe
+    vi: sinh sản vô tính
+    vro: Suulda siginemine
+    wuu: 无性生殖
+    xh: I-asexual reproduction
+    yue: 無性繁殖
+    zh: 无性生殖
+    zh-cn: 无性生殖
+    zh-hans: 无性生殖
+    zh-hant: 無性生殖
+    zh-hk: 無性生殖
+    zh-sg: 无性生殖
+    zh-tw: 無性生殖
 ---
-
 # [[Asexual_Reproduction]] 
 
 #has_/complement :: [[Sexual_Reproduction]] 

@@ -1,8 +1,33 @@
 ---
 has_id_wikidata: Q958161
+dv_has_:
+  name_:
+    bg: Manic Pixie Dream Girl
+    de: Manic Pixie Dream Girl
+    en: Manic Pixie Dream Girl
+    es: Manic Pixie Dream Girl
+    fr: Manic Pixie Dream Girl
+    hy: Մանիկ փիքսի երազների աղջիկ
+    id: Manic Pixie Dream Girl
+    ja: マニック・ピクシー・ドリーム・ガール
+    nl: Manic Pixie Dream Girl
+    pl: Manic Pixie Dream Girl
+    pt: Garota Maniaca Fada Sonhadora
+    ru: Маниакальная девушка-мечта
+    sk: Manic Pixie Dream Girl
+    sv: Manic Pixie Dream Girl
+    th: มานิกพิกซีดรีมเกิร์ล
+    uk: Маніакальна дівчина мрії піксі
+    vi: Manic Pixie Dream Girl
+aliases:
+- Garota Maniaca Fada Sonhadora
+- Manic Pixie Dream Girl
+- Маніакальна дівчина мрії піксі
+- Маниакальная девушка-мечта
+- Մանիկ փիքսի երազների աղջիկ
+- มานิกพิกซีดรีมเกิร์ล
+- マニック・ピクシー・ドリーム・ガール
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > A Manic Pixie Dream Girl (MPDG) is a stock character type in fiction, 

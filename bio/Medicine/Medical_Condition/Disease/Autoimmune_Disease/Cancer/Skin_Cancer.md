@@ -1,47 +1,240 @@
 ---
 aliases:
+- aillse-chraicinn
+- ailse chraicinn
+- Aizcwng Naeng
+- bőrrák
+- cancer cutis
+- cancer de la peau
+- cancer de piele
+- cancro da pele
+- Cancro de pel
+- cancro della pelle
+- canser y croen
+- Cilt kanseri
+- Ciwon daji na fata
+- càncer de la pèl
+- càncer de pell
+- cáncanu de piel
+- cáncer de piel
+- câncer de pele
+- dəri xərçəngi
+- Hautkrebs
+- Hautkriibs
+- haŭta kancero
+- hudcancer
+- hudkreft
+- hudkræft
+- huidkanker
+- Húðkrabbamein
+- ihosyöpä
+- Kanker kulit
+- Kanser kulit
+- Kanseri yo mu ruhu
+- kožni rak
+- krign-bev ar c'hroc'hen.
+- larruazaleko minbizi
+- liškepurâstavdâ
+- nahavähk
+- Neoplasmas de pel
+- nowotwór złośliwy skóry
+- Odos vėžys
+- Rak kože
+- rakovina kože
+- rakovina kůže
+- skin cancer
+- skinakanser
+- Teri ragı
+- teri saratoni
+- Ung thư da
+- ādas vēzis
+- şêrpenceya çermî
+- καρκίνος του δέρματος
+- рак коже
+- рак кожи
+- Рак на кожа
+- Рак на кожата
+- рак скуры
+- рак шкіри
+- Тері рагы
+- մաշկի ուռուցք
+- סרטן העור
+- تېرە راكى
+- تەرى راگى
+- جلدی سرطان
+- دری سرطانی
+- سرطان الجلد
+- سرطان پوست
+- كونصير د الجلد
+- ހަމުގެ ކެންސަރު
+- ߜߏ߬ߟߏ ߥߊ߲߬ߞߏ߲߬ߖߊ߲ߞߊߙߏ
+- छालाको क्यान्सर
+- त्वचा कैंसर
+- त्वचेचा कर्करोग
+- ছালৰ কৰ্কট ৰোগ
+- ত্বকের ক্যান্সার
+- ਚਮੜੀ ਦਾ ਕੈਂਸਰ
+- ତ୍ଵକ କର୍କଟ
+- தோல் புற்றுநோய்
+- ಚರ್ಮ ಕ್ಯಾನ್ಸರ್
+- มะเร็งผิวหนัง
+- အရီပြားကင်ဆာ
+- အရေပြားကင်ဆာ
+- კანის კიბო
+- ọrịa kansa anụ ahụ
+- 皮肤癌
+- 皮膚がん
+- 皮膚癌
+- 피부암
 has_id_wikidata: Q192102
-health_specialty: "[[_Standards/WikiData/WD~dermatology,171171]]"
+health_specialty: '[[_Standards/WikiData/WD~dermatology,171171]]'
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~itch,199602]]"
-  - "[[_Standards/WikiData/WD~nodule,582484]]"
-  - "[[_Standards/WikiData/WD~nevus,692077]]"
-  - "[[_Standards/WikiData/WD~burning_sensation,3645517]]"
-  - "[[_Standards/WikiData/WD~ulcer,6452285]]"
-  - "[[_Standards/WikiData/WD~skin_lesion,102187434]]"
+- '[[_Standards/WikiData/WD~itch,199602]]'
+- '[[_Standards/WikiData/WD~nodule,582484]]'
+- '[[_Standards/WikiData/WD~nevus,692077]]'
+- '[[_Standards/WikiData/WD~burning_sensation,3645517]]'
+- '[[_Standards/WikiData/WD~ulcer,6452285]]'
+- '[[_Standards/WikiData/WD~skin_lesion,102187434]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~fluorouracil,238512]]"
-  - "[[_Standards/WikiData/WD~vemurafenib,423111]]"
-  - "[[_Standards/WikiData/WD~imiquimod,423417]]"
-  - "[[_Standards/WikiData/WD~ingenol_mebutate,426386]]"
-  - "[[_Standards/WikiData/WD~vismodegib,2070286]]"
-  - "[[_Standards/WikiData/WD~ipilimumab,2459042]]"
-  - "[[_Standards/WikiData/WD~dabrafenib,3011604]]"
+- '[[_Standards/WikiData/WD~fluorouracil,238512]]'
+- '[[_Standards/WikiData/WD~vemurafenib,423111]]'
+- '[[_Standards/WikiData/WD~imiquimod,423417]]'
+- '[[_Standards/WikiData/WD~ingenol_mebutate,426386]]'
+- '[[_Standards/WikiData/WD~vismodegib,2070286]]'
+- '[[_Standards/WikiData/WD~ipilimumab,2459042]]'
+- '[[_Standards/WikiData/WD~dabrafenib,3011604]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~skin_disease,949302]]"
-  - "[[_Standards/WikiData/WD~integumentary_system_cancer,18553679]]"
-  - "[[_Standards/WikiData/WD~skin_neoplasm,18921119]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+- '[[_Standards/WikiData/WD~skin_disease,949302]]'
+- '[[_Standards/WikiData/WD~integumentary_system_cancer,18553679]]'
+- '[[_Standards/WikiData/WD~skin_neoplasm,18921119]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~Dermatology_task_force,21830344]]"
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~Dermatology_task_force,21830344]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~CMM,17907815]]"
-  - "[[_Standards/WikiData/WD~ultraviolet_radiation,11391]]"
-anatomical_location: "[[_Standards/WikiData/WD~zone_of_skin,30029801]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+- '[[_Standards/WikiData/WD~CMM,17907815]]'
+- '[[_Standards/WikiData/WD~ultraviolet_radiation,11391]]'
+anatomical_location: '[[_Standards/WikiData/WD~zone_of_skin,30029801]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basal%20cell%20carcinoma.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:4159
-  - http://purl.obolibrary.org/obo/DOID_4159
+- http://identifiers.org/doid/DOID:4159
+- http://purl.obolibrary.org/obo/DOID_4159
 ICD_9_CM:
-  - "173.8"
-  - "173.9"
+- 173.8
+- 173.9
 UMLS_CUI: C0007114
 ICD_10_CM: C43.C44
 Commons_category: Skin cancers
+dv_has_:
+  name_:
+    ar: سرطان الجلد
+    ary: كونصير د الجلد
+    as: ছালৰ কৰ্কট ৰোগ
+    ast: cáncanu de piel
+    az: dəri xərçəngi
+    azb: دری سرطانی
+    be: рак скуры
+    be-tarask: рак скуры
+    bg: Рак на кожата
+    bn: ত্বকের ক্যান্সার
+    br: krign-bev ar c'hroc'hen.
+    bs: Rak kože
+    ca: càncer de pell
+    cs: rakovina kůže
+    cy: canser y croen
+    da: hudkræft
+    de: Hautkrebs
+    dv: ހަމުގެ ކެންސަރު
+    el: καρκίνος του δέρματος
+    en: skin cancer
+    en-ca: Skin cancer
+    en-gb: skin cancer
+    eo: haŭta kancero
+    es: cáncer de piel
+    et: nahavähk
+    eu: larruazaleko minbizi
+    fa: سرطان پوست
+    fi: ihosyöpä
+    fr: cancer de la peau
+    ga: ailse chraicinn
+    gd: aillse-chraicinn
+    gl: Cancro de pel
+    gpe: skin cancer
+    ha: Ciwon daji na fata
+    he: סרטן העור
+    hi: त्वचा कैंसर
+    hr: rak kože
+    hu: bőrrák
+    hy: մաշկի ուռուցք
+    id: Kanker kulit
+    ig: ọrịa kansa anụ ahụ
+    is: Húðkrabbamein
+    it: cancro della pelle
+    ja: 皮膚がん
+    jv: Kanker Kulit
+    ka: კანის კიბო
+    kk: Тері рагы
+    kk-arab: تەرى راگى
+    kk-cn: تەرى راگى
+    kk-cyrl: Тері рагы
+    kk-kz: Тері рагы
+    kk-latn: Teri ragı
+    kk-tr: Teri ragı
+    kn: ಚರ್ಮ ಕ್ಯಾನ್ಸರ್
+    ko: 피부암
+    ku: şêrpenceya çermî
+    ku-latn: şêrpenceya çermî
+    la: cancer cutis
+    lb: Hautkriibs
+    lfn: Neoplasmas de pel
+    lt: Odos vėžys
+    lv: ādas vēzis
+    mk: Рак на кожа
+    mr: त्वचेचा कर्करोग
+    ms: Kanser kulit
+    my: အရေပြားကင်ဆာ
+    nb: hudkreft
+    ne: छालाको क्यान्सर
+    nl: huidkanker
+    nn: hudkreft
+    nqo: ߜߏ߬ߟߏ ߥߊ߲߬ߞߏ߲߬ߖߊ߲ߞߊߙߏ
+    oc: càncer de la pèl
+    or: ତ୍ଵକ କର୍କଟ
+    pa: ਚਮੜੀ ਦਾ ਕੈਂਸਰ
+    pl: nowotwór złośliwy skóry
+    pt: cancro da pele
+    pt-br: câncer de pele
+    rki: အရီပြားကင်ဆာ
+    ro: cancer de piele
+    ru: рак кожи
+    rw: Kanseri yo mu ruhu
+    sco: skin cancer
+    sk: rakovina kože
+    sl: kožni rak
+    smn: liškepurâstavdâ
+    sr: рак коже
+    sv: hudcancer
+    ta: தோல் புற்றுநோய்
+    th: มะเร็งผิวหนัง
+    tr: Cilt kanseri
+    ug: تېرە راكى
+    uk: рак шкіри
+    ur: جلدی سرطان
+    uz: teri saratoni
+    vi: Ung thư da
+    vo: skinakanser
+    wuu: 皮肤癌
+    yue: 皮膚癌
+    za: Aizcwng Naeng
+    zh: 皮膚癌
+    zh-cn: 皮肤癌
+    zh-hans: 皮肤癌
+    zh-hant: 皮膚癌
+    zh-hk: 皮膚癌
+    zh-sg: 皮肤癌
+    zh-tw: 皮膚癌
 ---
-
 # [[Skin_Cancer]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Skin_cancer,192102|WD~Skin_cancer,192102]]  

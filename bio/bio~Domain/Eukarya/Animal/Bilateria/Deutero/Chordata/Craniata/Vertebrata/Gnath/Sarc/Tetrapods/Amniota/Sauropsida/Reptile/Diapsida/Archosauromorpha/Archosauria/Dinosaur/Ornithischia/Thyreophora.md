@@ -1,22 +1,108 @@
 ---
 aliases:
+- panssaridinosaurukset
+- Thyreophora
+- Thyreophorer
+- Tireofori
+- Tireòfor
+- tyreofory
+- Θυρεοφόρα
+- Диносауруси са оклопом
+- Тиреофорлар
+- Тиреофорни
+- тиреофоры
+- տիրեոֆորներ
+- תיראופורה
+- تایرئوفورها
+- ديناصورات مدرعة
+- থাইরিওফোরা
+- 装甲亚目
+- 装盾亜目
+- 裝甲亞目
+- 裝甲類
+- 장순아목
 has_id_wikidata: Q823931
-parent_taxon: "[[_Standards/WikiData/WD~Genasauria,2605453]]"
-taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
+parent_taxon: '[[_Standards/WikiData/WD~Genasauria,2605453]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q14465148,14465148]]"
-  - "[[_Standards/WikiData/WD~Template_Thyreophora,24566692]]"
-different_from: "[[_Standards/WikiData/WD~Thyreophora,15119464]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-part_of: "[[_Standards/WikiData/WD~Benton_Classification,124359233]]"
+- '[[_Standards/WikiData/WD~Q14465148,14465148]]'
+- '[[_Standards/WikiData/WD~Template_Thyreophora,24566692]]'
+different_from: '[[_Standards/WikiData/WD~Thyreophora,15119464]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+part_of: '[[_Standards/WikiData/WD~Benton_Classification,124359233]]'
 end_time: -66000000-01-01T00:00:00Z
 start_time: -199600000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Patagopelta%20Skeletal.svg
 Commons_category: Thyreophora
 taxon_name: Thyreophora
 Wolfram_Language_entity_code: Entity["Dinosaur", "Suborder:Thyreophora"]
+dv_has_:
+  name_:
+    af: Thyreophora
+    an: Thyreophora
+    ar: ديناصورات مدرعة
+    ast: Thyreophora
+    az: Thyreophora
+    bg: Тиреофорни
+    bn: থাইরিওফোরা
+    br: Thyreophora
+    ca: Tireòfor
+    ceb: Thyreophora
+    cs: Thyreophora
+    de: Thyreophora
+    el: Θυρεοφόρα
+    en: Thyreophora
+    en-us: Thyreophora
+    eo: Thyreophora
+    es: Thyreophora
+    eu: Thyreophora
+    ext: Thyreophora
+    fa: تایرئوفورها
+    fi: panssaridinosaurukset
+    fr: Thyreophora
+    ga: Thyreophora
+    gl: Thyreophora
+    he: תיראופורה
+    hr: Tireofori
+    hu: Thyreophora
+    hy: տիրեոֆորներ
+    ia: Thyreophora
+    id: Thyreophora
+    ie: Thyreophora
+    io: Thyreophora
+    it: Thyreophora
+    ja: 装盾亜目
+    ko: 장순아목
+    la: Thyreophora
+    mul: Thyreophora
+    nl: Thyreophora
+    oc: Thyreophora
+    or: Thyreophora
+    pl: tyreofory
+    pt: Thyreophora
+    pt-br: Thyreophora
+    ro: Thyreophora
+    ru: тиреофоры
+    sh: Tireofori
+    sk: Thyreophora
+    sq: Thyreophora
+    sr: Диносауруси са оклопом
+    sv: Thyreophorer
+    tl: Thyreophora
+    tr: Thyreophora
+    tt: Тиреофорлар
+    uk: Thyreophora
+    vec: Thyreophora
+    vi: Thyreophora
+    vo: Thyreophora
+    war: Thyreophora
+    yue: 裝甲類
+    zh: 裝甲亞目
+    zh-cn: 装甲亚目
+    zh-hans: 装甲亚目
+    zh-hant: 裝甲亞目
+    zh-hk: 裝甲亞目
 ---
-
 # [[Thyreophora]] 
 
 #is_/same_as :: [[WD~Thyreophora,823931]]

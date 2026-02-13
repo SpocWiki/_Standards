@@ -1,58 +1,204 @@
 ---
 aliases:
-  - Zahnrad
-  - gear
-  - gearwheel
-  - gear train
-  - Cogwheel
+- bánh răng
+- Cogwheel
+- dentrado
+- dişli çark
+- Dişli çarx
+- Enggranahe
+- engranaje
+- engranatge
+- engranaxe
+- engrenage
+- engrenagem
+- Engrenaxe
+- fogaskerék
+- gear
+- gear train
+- gearwheel
+- giar
+- hammaspyörä
+- Hammasratas
+- ingranaggio
+- Ingranaj
+- Ingrano
+- koło zębate
+- Krumpliaratis
+- kugghjul
+- Loekgawq
+- Marsho
+- Ozubené koleso
+- ozubené kolo
+- roată dințată
+- roda gigi
+- Rota dentata
+- tandhjul
+- tandwiel
+- tannhjul
+- Zahnrad
+- zobnik
+- zobrats
+- Zupčanik
+- Γρανάζι
+- Бер
+- запченик
+- зубчастае кола
+- зубчасте колесо
+- зубчатое колесо
+- зупчаник
+- Зъбно колело
+- Пиня мӧдӧдӧм
+- тіктісті доңғалақ
+- Шăллă кустăрма
+- шестерня
+- ատամնանիվ
+- גלגל שיניים
+- ציינראד
+- ترس
+- دیشلی چرخ
+- چرخدنده
+- गियर
+- গিয়ার
+- ਗਰਾਰੀ
+- பற்சில்லு
+- ಗಿಯರ್
+- പൽച്ചക്രം
+- เฟือง
+- ဂီယာ
+- ጥርስ
+- 歯車
+- 牙轆
+- 齿轮
+- 기어
 has_id_wikidata: Q143873
 instance_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
 different_from:
-  - '[[_Standards/WikiData/WD~undercarriage,263421]]'
-  - '[[_Standards/WikiData/WD~sheave,1057381]]'
-  - '[[_Standards/WikiData/WD~gear_train,2644088]]'
-  - '[[_Standards/WikiData/WD~Gear,21958357]]'
+- '[[_Standards/WikiData/WD~undercarriage,263421]]'
+- '[[_Standards/WikiData/WD~sheave,1057381]]'
+- '[[_Standards/WikiData/WD~gear_train,2644088]]'
+- '[[_Standards/WikiData/WD~Gear,21958357]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~cast_iron,483269]]'
-  - '[[_Standards/WikiData/WD~alloy_steel,1070521]]'
-  - '[[_Standards/WikiData/WD~plastic,11474]]'
+- '[[_Standards/WikiData/WD~cast_iron,483269]]'
+- '[[_Standards/WikiData/WD~alloy_steel,1070521]]'
+- '[[_Standards/WikiData/WD~plastic,11474]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-  - '[[_Standards/WikiData/WD~rear_derailleur,2230729]]'
-  - '[[_Standards/WikiData/WD~gear_train,2644088]]'
-  - '[[_Standards/WikiData/WD~gearbox,6497460]]'
-  - '[[_Standards/WikiData/WD~rack_and_pinion_steering,106121071]]'
+- '[[_Standards/WikiData/WD~rear_derailleur,2230729]]'
+- '[[_Standards/WikiData/WD~gear_train,2644088]]'
+- '[[_Standards/WikiData/WD~gearbox,6497460]]'
+- '[[_Standards/WikiData/WD~rack_and_pinion_steering,106121071]]'
 has_use:
-  - '[[_Standards/WikiData/WD~gearbox,6497460]]'
-  - '[[_Standards/WikiData/WD~physical_interface,64830866]]'
+- '[[_Standards/WikiData/WD~gearbox,6497460]]'
+- '[[_Standards/WikiData/WD~physical_interface,64830866]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Gears,8072112]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~tooth,47450777]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~gear,64355242]]'
-  - '[[_Standards/WikiData/WD~gear,71532044]]'
+- '[[_Standards/WikiData/WD~gear,64355242]]'
+- '[[_Standards/WikiData/WD~gear,71532044]]'
 has_part_s_: '[[_Standards/WikiData/WD~gear_tooth,109530223]]'
 subclass_of: '[[_Standards/WikiData/WD~wheel,446]]'
 Nomenclature_for_Museum_Cataloging: 8918
 OmegaWiki_Defined_Meaning: 501082
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Engranajesreductores.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Gears%2035041.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Spur%20Gear%2012mm%2C%2018t.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Engranajesreductores.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20Gears%2035041.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Spur%20Gear%2012mm%2C%2018t.svg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Zahnrad%2020230523%20001.stl
 Unicode_character: ⚙
 P8189: 987007560570205171
 Commons_category: Gears
+dv_has_:
+  name_:
+    am: ጥርስ
+    ar: ترس
+    ast: engranaxe
+    az: Dişli çarx
+    azb: دیشلی چرخ
+    be: зубчастае кола
+    be-tarask: зубчастае кола
+    bg: Зъбно колело
+    bn: গিয়ার
+    bs: Zupčanik
+    ca: engranatge
+    ce: Бер
+    cs: ozubené kolo
+    cv: Шăллă кустăрма
+    da: tandhjul
+    de: Zahnrad
+    el: Γρανάζι
+    en: cogwheel
+    en-us: gear
+    eo: dentrado
+    es: engranaje
+    et: Hammasratas
+    eu: Engranaje
+    fa: چرخدنده
+    fi: hammaspyörä
+    fr: engrenage
+    ga: giar
+    gl: Engrenaxe
+    he: גלגל שיניים
+    hi: गियर
+    hr: zupčanik
+    hu: fogaskerék
+    hy: ատամնանիվ
+    id: roda gigi
+    io: Ingrano
+    it: ingranaggio
+    ja: 歯車
+    kk: тіктісті доңғалақ
+    kn: ಗಿಯರ್
+    ko: 기어
+    kv: Пиня мӧдӧдӧм
+    ky: шестерня
+    la: Rota dentata
+    lmo: Ingranaj
+    lt: Krumpliaratis
+    lv: zobrats
+    mk: запченик
+    ml: പൽച്ചക്രം
+    ms: Gear
+    my: ဂီယာ
+    nb: tannhjul
+    ne: गियर
+    nl: tandwiel
+    nn: tannhjul
+    oc: Engranatge
+    pa: ਗਰਾਰੀ
+    pl: koło zębate
+    pt: engrenagem
+    pt-br: engrenagem
+    ro: roată dințată
+    ru: зубчатое колесо
+    sh: Zupčanik
+    sk: Ozubené koleso
+    sl: zobnik
+    so: Marsho
+    sr: зупчаник
+    sr-ec: зупчаник
+    sr-el: zupčanik
+    sv: kugghjul
+    ta: பற்சில்லு
+    th: เฟือง
+    tl: Enggranahe
+    tr: dişli çark
+    uk: зубчасте колесо
+    vi: bánh răng
+    wuu: 齿轮
+    yi: ציינראד
+    yue: 牙轆
+    za: Loekgawq
+    zh: 齿轮
 ---
-
 # [[Cogwheel]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cogwheel,143873|WD~Cogwheel,143873]] 

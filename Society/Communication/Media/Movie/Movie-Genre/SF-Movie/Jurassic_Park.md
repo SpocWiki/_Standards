@@ -1,8 +1,165 @@
 ---
 aliases:
-  - Jurassic Park
-  - Jurassic_Park
+- Công viên kỷ Jura
+- Filem Jurassic Park
+- Filmen Jurassic Park
+- Juras laikmeta parks
+- Juras perėjuoda parks
+- Jurassic Park
+- Jurassic Park (cinta)
+- Jurassic Park (film)
+- Jurassic Park (pelikula)
+- Jurassic Park (rolprent)
+- Jurassic Park - Parque dos Dinossauros
+- Jurassic Park I
+- Jurassic_Park
+- Juros periodo parkas
+- Jurski park
+- Jurský park
+- Júragarðurinn
+- Parc Juràssic
+- Park iz doba jure
+- Parque Jurásico
+- Parque Jurássico
+- Parque Xurásico
+- Yura dövrü parkı (film)
+- Τζουράσικ Παρκ
+- Джурасик парк
+- Парк из доба јуре
+- Парк юрскага перыяду
+- Парк юрского периода
+- Парк Юрського періоду
+- Паркот Јура
+- Юра доорунун паркы
+- Юра кезеңінің саябағы
+- Юра кэм Паарката
+- Юрийн галавын цэцэрлэг
+- Յուրայի դարաշրջանի այգին (ֆիլմ)
+- פארק היורה
+- الجردة الجوارسية
+- الحديقة الجوارسية
+- الحديقه الجوارسيه
+- جراسک پارک
+- جوراسیک پارک
+- پارک ژوراسیک
+- پارکی جوراسیک
+- ژوراسیک پارکی
+- जुरासिक पार्क
+- জুরাসিক পার্ক
+- জুৰাছিক পাৰ্ক (চলচ্চিত্ৰ)
+- ਜੁਰਾਸਿਕ ਪਾਰਕ
+- ஜுராசிக் பார்க்
+- జురాసిక్ పార్క్
+- ಜುರಾಸಿಕ್ ಪಾರ್ಕ್
+- ജുറാസ്സിക് പാർക്ക്
+- จูราสสิค พาร์ค กำเนิดใหม่ไดโนเสาร์
+- იურული პარკი
+- ジュラシック・パーク
+- 侏儸紀公園
+- 侏罗纪公园
+- 侏羅紀公園
+- 쥬라기 공원
 has_id_wikidata: Q167726
+dv_has_:
+  name_:
+    af: Jurassic Park (rolprent)
+    an: Jurassic Park (cinta)
+    ar: الحديقة الجوارسية
+    ary: الجردة الجوارسية
+    arz: الحديقه الجوارسيه
+    as: জুৰাছিক পাৰ্ক (চলচ্চিত্ৰ)
+    ast: Jurassic Park
+    az: Yura dövrü parkı (film)
+    azb: ژوراسیک پارکی
+    be: Парк юрскага перыяду
+    bg: Джурасик парк
+    bn: জুরাসিক পার্ক
+    br: Jurassic Park
+    ca: Parc Juràssic
+    ceb: Jurassic Park (pelikula)
+    ckb: پارکی جوراسیک
+    cs: Jurský park
+    cy: Jurassic Park
+    da: Jurassic Park
+    de: Jurassic Park
+    el: Τζουράσικ Παρκ
+    eml: Jurassic Park (film)
+    en: Jurassic Park
+    eo: Jurassic Park
+    es: Parque Jurásico
+    eu: Jurassic Park
+    fa: پارک ژوراسیک
+    fi: Jurassic Park
+    fr: Jurassic Park
+    fy: Jurassic Park (film)
+    ga: Jurassic Park
+    gl: Parque Xurásico
+    gsw: Jurassic Park
+    he: פארק היורה
+    hi: जुरासिक पार्क
+    hr: Jurski park
+    hu: Jurassic Park
+    hy: Յուրայի դարաշրջանի այգին (ֆիլմ)
+    id: Jurassic Park
+    is: Júragarðurinn
+    it: Jurassic Park
+    ja: ジュラシック・パーク
+    ka: იურული პარკი
+    kk: Юра кезеңінің саябағы
+    kn: ಜುರಾಸಿಕ್ ಪಾರ್ಕ್
+    ko: 쥬라기 공원
+    ky: Юра доорунун паркы
+    la: Jurassic Park
+    lb: Jurassic Park
+    lt: Juros periodo parkas
+    lv: Juras laikmeta parks
+    mk: Паркот Јура
+    ml: ജുറാസ്സിക് പാർക്ക്
+    mn: Юрийн галавын цэцэрлэг
+    mr: जुरासिक पार्क
+    ms: Filem Jurassic Park
+    mzn: جوراسیک پارک
+    nb: Jurassic Park
+    nl: Jurassic Park
+    nn: Filmen Jurassic Park
+    pa: ਜੁਰਾਸਿਕ ਪਾਰਕ
+    pcd: Jurassic Park
+    pl: Jurassic Park
+    pnb: جراسک پارک
+    pt: Parque Jurássico
+    pt-br: Jurassic Park - Parque dos Dinossauros
+    qu: Jurassic Park
+    ro: Jurassic Park
+    ru: Парк юрского периода
+    sah: Юра кэм Паарката
+    scn: Jurassic Park I
+    sgs: Juras perėjuoda parks
+    sh: Jurassic Park
+    sk: Jurský park
+    sl: Jurski park
+    so: Jurassic Park
+    sr: Парк из доба јуре
+    sr-ec: Парк из доба јуре
+    sr-el: Park iz doba jure
+    sv: Jurassic Park
+    ta: ஜுராசிக் பார்க்
+    te: జురాసిక్ పార్క్
+    th: จูราสสิค พาร์ค กำเนิดใหม่ไดโนเสาร์
+    tl: Jurassic Park
+    tr: Jurassic Park
+    uk: Парк Юрського періоду
+    uz: Jurassic Park
+    vi: Công viên kỷ Jura
+    war: Jurassic Park
+    wuu: 侏罗纪公园
+    yue: 侏羅紀公園
+    zh: 侏儸紀公園
+    zh-cn: 侏罗纪公园
+    zh-hans: 侏罗纪公园
+    zh-hant: 侏羅紀公園
+    zh-hk: 侏羅紀公園
+    zh-sg: 侏罗纪公园
+    zh-tw: 侏羅紀公園
 ---
 # [[Jurassic_Park]] 
 

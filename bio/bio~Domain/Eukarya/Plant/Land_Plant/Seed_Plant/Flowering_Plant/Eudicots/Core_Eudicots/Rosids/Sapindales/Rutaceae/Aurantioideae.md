@@ -1,8 +1,58 @@
 ---
 aliases:
-  - Citroideae
-  - Aurantioideae
+- Aurantioideae
+- Aurantiòidia
+- Citroideae
+- citrusformák
+- померанцевые
+- نارنجاوات
+- ミカン亜科
+- 柑橘亚科
+- 귤아과
 has_id_wikidata: Q663700
+dv_has_:
+  name_:
+    an: Aurantioideae
+    ar: نارنجاوات
+    arz: نارنجاوات
+    ast: Aurantioideae
+    bg: Aurantioideae
+    ca: Aurantiòidia
+    ceb: Aurantioideae
+    de: Aurantioideae
+    en: Aurantioideae
+    eo: Aurantioideae
+    es: Aurantioideae
+    eu: Aurantioideae
+    ext: Aurantioideae
+    fi: Aurantioideae
+    fr: Aurantioideae
+    ga: Aurantioideae
+    gl: Aurantioideae
+    hr: Aurantioideae
+    hu: citrusformák
+    ia: Aurantioideae
+    ie: Aurantioideae
+    io: Aurantioideae
+    it: Aurantioideae
+    ja: ミカン亜科
+    ko: 귤아과
+    la: Aurantioideae
+    mul: Aurantioideae
+    nl: Aurantioideae
+    oc: Aurantioideae
+    pl: Aurantioideae
+    pt: Aurantioideae
+    pt-br: Aurantioideae
+    ro: Aurantioideae
+    ru: померанцевые
+    sl: Aurantioideae
+    sq: Aurantioideae
+    uk: Aurantioideae
+    vi: Aurantioideae
+    vo: Aurantioideae
+    war: Aurantioideae
+    zh: 柑橘亚科
 ---
 # [[Aurantioideae]] 
 

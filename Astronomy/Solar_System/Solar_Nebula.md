@@ -1,28 +1,106 @@
 ---
 aliases:
+- Bolygókeletkezés
+- Bulutsu varsayım
+- Eguzki-nebulosa
+- Formiranje planeta
+- Hinuhang pangnebula
+- Hipotesis nebula
+- Nebularhypotesen
+- Nebuloasă solară
+- Nebulosa protosolar
+- nebulosa solar
+- Nebulosa solare
+- Nifwl heulol
+- Niiruw jant
+- nébuleuse solaire
+- Planeettakuntien synty
+- Powstawanie planet
+- Slnečná hmlovina
+- sluneční mlhovina
+- Solar Nebula
+- Solnebulosan
+- Sonnennebel
+- Sonnenniwwel
+- Suna nebulozo
+- Tinh vân Mặt Trời
+- Zonnenevel
+- Слънчева мъглявина
+- солнечная туманность
+- сонечная туманнасьць
+- Сонячна туманність
+- سديم شمسي
+- 原始太陽系星雲
+- 太阳星云
+- 太陽星雲
+- 성운 가설
 has_id_wikidata: Q3400
-instance_of: "[[_Standards/WikiData/WD~molecular_cloud,272447]]"
+instance_of: '[[_Standards/WikiData/WD~molecular_cloud,272447]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]"
-    - "[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]"
-    - "[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]"
+  - '[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]'
+  - '[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]'
+  - '[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]"
-  - "[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]"
-  - "[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]"
+- '[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]'
+- '[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]'
+- '[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]'
+- '[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]'
+- '[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]'
+- '[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]'
+dv_has_:
+  name_:
+    ar: سديم شمسي
+    ast: Nebulosa protosolar
+    be-tarask: сонечная туманнасьць
+    bg: Слънчева мъглявина
+    ca: nebulosa solar
+    cs: sluneční mlhovina
+    cy: Nifwl heulol
+    de: Sonnennebel
+    de-ch: Sonnennebel
+    en: Solar Nebula
+    eo: Suna nebulozo
+    es: nebulosa protosolar
+    eu: Eguzki-nebulosa
+    fi: Planeettakuntien synty
+    fr: nébuleuse solaire
+    gl: Nebulosa protosolar
+    hu: Bolygókeletkezés
+    id: Hipotesis nebula
+    it: Nebulosa solare
+    ja: 原始太陽系星雲
+    ko: 성운 가설
+    lb: Sonnenniwwel
+    nb: Nebularhypotesen
+    nl: Zonnenevel
+    pl: Powstawanie planet
+    pt: Nebulosa solar
+    pt-br: Nebulosa solar
+    ro: Nebuloasă solară
+    ru: солнечная туманность
+    sk: Slnečná hmlovina
+    sr: Formiranje planeta
+    sv: Solnebulosan
+    tl: Hinuhang pangnebula
+    tr: Bulutsu varsayım
+    uk: Сонячна туманність
+    vi: Tinh vân Mặt Trời
+    wo: Niiruw jant
+    wuu: 太阳星云
+    yue: 太陽星雲
+    zh: 太陽星雲
+    zh-cn: 太陽星雲
+    zh-hans: 太陽星雲
+    zh-hant: 太陽星雲
 ---
-
 # [[Solar_Nebula]] 
 
 #is_/same_as :: [[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]  

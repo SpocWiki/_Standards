@@ -1,8 +1,167 @@
 ---
 has_id_wikidata: Q80284
+dv_has_:
+  name_:
+    af: altviool
+    ang: ealtfiolene
+    ar: كمان متوسط
+    arz: ڤيولا
+    ast: viola
+    az: alt
+    be: альт
+    be-tarask: альт
+    bg: виола
+    bs: viola
+    ca: viola
+    ckb: ڤیۆلا
+    cs: viola
+    cv: альт
+    cy: fiola
+    da: bratsch
+    de: Bratsche
+    el: βιόλα
+    en: viola
+    en-gb: viola
+    eo: aldviolono
+    es: viola
+    et: vioola
+    eu: biola
+    ext: viola
+    fa: ویولا
+    fi: alttoviulu
+    fr: alto
+    fy: altfioele
+    ga: vióla
+    gd: ailt
+    gl: viola
+    gsw: Bratsche
+    gv: veeoiley
+    he: ויולה
+    hr: viola
+    hu: brácsa
+    hy: ալտ
+    ia: viola
+    id: viola
+    ie: bassviolin
+    io: alto
+    is: víóla
+    it: viola
+    ja: ヴィオラ
+    kbp: alto
+    kn: ವಿಯೋಲ
+    ko: 비올라
+    lb: Braatsch
+    lmo: viola
+    lt: altas
+    lv: alts
+    mg: Viôla
+    mk: виола
+    ml: വയോള
+    mn: эрдүү хийл
+    ms: viola
+    mt: vjola
+    mwl: biuola
+    my: ဗီယိုလာ
+    mzn: ویولا
+    nb: bratsj
+    nl: altviool
+    nn: bratsj
+    oc: violon alto
+    pl: altówka
+    pt: viola
+    pt-br: viola
+    qu: wiyula
+    ro: violă
+    ru: альт
+    se: áltofijuvla
+    sh: viola
+    sh-cyrl: виола
+    sk: viola
+    sl: viola
+    smn: alttovivlu
+    sms: alttoviulu
+    sq: viola
+    sr: виола
+    sr-ec: виола
+    sr-el: viola
+    stq: Viola
+    sv: viola
+    ta: வியோலம்
+    tg: алт
+    th: วิโอลา
+    tl: biyola
+    tr: viyola
+    uk: альт
+    ur: وایولا
+    uz: alt
+    vep: al't
+    vi: viola
+    war: viola
+    wuu: 中提琴
+    yi: וויאלע
+    yue: 中提琴
+    zh: 中提琴
+    zh-hans: 中提琴
+    zh-hant: 中提琴
+    zh-tw: 中提琴
+aliases:
+- ailt
+- al't
+- aldviolono
+- alt
+- altas
+- altfioele
+- alto
+- alts
+- alttoviulu
+- alttovivlu
+- altviool
+- altówka
+- bassviolin
+- biola
+- biuola
+- biyola
+- Braatsch
+- bratsch
+- Bratsche
+- bratsj
+- brácsa
+- ealtfiolene
+- fiola
+- veeoiley
+- viola
+- violon alto
+- violă
+- vioola
+- viyola
+- vióla
+- Viôla
+- vjola
+- víóla
+- wiyula
+- áltofijuvla
+- βιόλα
+- алт
+- альт
+- виола
+- эрдүү хийл
+- ալտ
+- וויאלע
+- ויולה
+- كمان متوسط
+- وایولا
+- ویولا
+- ڤيولا
+- ڤیۆلا
+- வியோலம்
+- ವಿಯೋಲ
+- വയോള
+- วิโอลา
+- ဗီယိုလာ
+- ヴィオラ
+- 中提琴
+- 비올라
 ---
-
-
 # [[Viola]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Viola,80284|WD~Viola,80284]]  

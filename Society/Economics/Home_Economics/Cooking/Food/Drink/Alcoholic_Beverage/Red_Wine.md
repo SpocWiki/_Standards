@@ -1,22 +1,164 @@
 ---
 aliases:
-  - Rotwein
-  - Red_Wine
-  - Red Wine
+- anggur abang
+- anggur merah
+- ardo beltz
+- crno vino
+- fíon dearg
+- gwin coch
+- gwin rudh
+- gwin ruz
+- kırmızı şarap
+- Laeuj Nding
+- punaviini
+- raudvin
+- rauðvín
+- rdeče vino
+- Red Wine
+- Red_Wine
+- reyðvín
+- rode wijn
+- rooiwyn
+- Rotwein
+- Rotwy
+- rouche vin
+- roude Wäin
+- rouoge vin
+- ruĝa vino
+- rött vin
+- rødvin
+- rượu vang đỏ
+- sarkanvīns
+- vi negre
+- vin nèir
+- vin rouge
+- vin roșu
+- vinho tinto
+- vino kolorado
+- vino rosso
+- vino tinto
+- vinu tinto
+- viño tinto
+- vörösbor
+- wino czerwone
+- červené víno
+- κόκκινο κρασί
+- красное вино
+- Хĕрлĕ эрех
+- црвено вино
+- црно вино
+- червено вино
+- червоне вино
+- чырвонае віно
+- қызыл таң
+- ҡыҙыл шарап
+- կարմիր գինի
+- יין אדום
+- شراب سرخ
+- نبيت احمر
+- نبيذ أحمر
+- திராட்சைச் செங்கள்
+- റെഡ് വൈൻ (മുന്തിരി)
+- წითელი ღვინო
+- 紅葡萄酒
+- 紅酒
+- 红葡萄酒
+- 赤ワイン
+- 적포도주
 has_id_wikidata: Q1827
-instance_of: "[[_Standards/WikiData/WD~wine_color,8024923]]"
-subclass_of: "[[_Standards/WikiData/WD~wine,282]]"
-color: "[[_Standards/WikiData/WD~red,3142]]"
+instance_of: '[[_Standards/WikiData/WD~wine_color,8024923]]'
+subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
+color: '[[_Standards/WikiData/WD~red,3142]]'
 USDA_NDB_number: 14100
 IMDb_keyword: red-wine
-Unicode_character: 🍷
+Unicode_character: "\U0001F377"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pouring%20a%20glass%20of%20red%20wine.tiff
 exact_match: http://wordnet-rdf.princeton.edu/wn30/07892512-n
 FoodEx2_code: A03MX
 Commons_category: Red wine
 Baidu_Tieba_name: 红酒
+dv_has_:
+  name_:
+    af: rooiwyn
+    ar: نبيذ أحمر
+    arz: نبيت احمر
+    ast: vinu tinto
+    ba: ҡыҙыл шарап
+    be-tarask: чырвонае віно
+    bg: червено вино
+    br: gwin ruz
+    ca: vi negre
+    cs: červené víno
+    cv: Хĕрлĕ эрех
+    cy: gwin coch
+    da: rødvin
+    de: Rotwein
+    de-ch: Rotwein
+    el: κόκκινο κρασί
+    en: red wine
+    en-ca: red wine
+    en-gb: red wine
+    eo: ruĝa vino
+    es: vino tinto
+    eu: ardo beltz
+    fa: شراب سرخ
+    fi: punaviini
+    fo: reyðvín
+    fr: vin rouge
+    ga: fíon dearg
+    gl: viño tinto
+    gsw: Rotwy
+    he: יין אדום
+    hr: crno vino
+    hu: vörösbor
+    hy: կարմիր գինի
+    id: anggur merah
+    is: rauðvín
+    it: vino rosso
+    ja: 赤ワイン
+    jv: anggur abang
+    ka: წითელი ღვინო
+    kk: қызыл таң
+    ko: 적포도주
+    kw: gwin rudh
+    lad: vino kolorado
+    lb: roude Wäin
+    lv: sarkanvīns
+    lzh: 紅酒
+    mk: црвено вино
+    ml: റെഡ് വൈൻ (മുന്തിരി)
+    nb: rødvin
+    nl: rode wijn
+    nn: raudvin
+    nrm: rouoge vin
+    pcd: rouche vin
+    pl: wino czerwone
+    pms: vin nèir
+    pt: vinho tinto
+    pt-br: vinho tinto
+    ro: vin roșu
+    ru: красное вино
+    sh: crno vino
+    sk: červené víno
+    sl: rdeče vino
+    sr: црно вино
+    sv: rött vin
+    ta: திராட்சைச் செங்கள்
+    tr: kırmızı şarap
+    uk: червоне вино
+    vi: rượu vang đỏ
+    yue: 紅酒
+    za: Laeuj Nding
+    zh: 紅葡萄酒
+    zh-cn: 红葡萄酒
+    zh-hans: 红葡萄酒
+    zh-hant: 紅葡萄酒
+    zh-hk: 紅葡萄酒
+    zh-mo: 紅葡萄酒
+    zh-my: 红葡萄酒
+    zh-sg: 红葡萄酒
+    zh-tw: 紅葡萄酒
 ---
-
 # [[Red_Wine]] 🍷 
 
 #is_/same_as :: [[WD~Red_wine,1827]] 

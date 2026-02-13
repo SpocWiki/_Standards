@@ -1,10 +1,162 @@
 ---
 aliases:
-  - Okapia
-  - Okapi
-  - Okapis
+- Bijáád noodǫ́ǫzii
+- Hươu đùi vằn
+- I-Okapi
+- Mondonga
+- ocapi
+- Okaapi
+- Okapi
+- okapi leśne
+- Okapia
+- Okapia johnstoni
+- Okapia pralesná
+- Okapija
+- Okapio
+- Okapis
+- onkapi
+- Zuxol (Okapia johnstoni)
+- Ókapi
+- Ôkapy
+- Οκάπι
+- Акапі
+- Окапі
+- Окапи
+- Օկապի
+- אוקאפי
+- أكاب
+- اكاب
+- اوکاپی
+- اوکاپی زرافه
+- اکاپی
+- زەڕافەی مل کورت
+- ओकापी
+- ওকাপি
+- ஓக்காப்பி
+- ಒಕಾಪಿ
+- ഓകാപി
+- โอคาพี
+- ოკაპი
+- オカピ
+- 㺢㹢狓
+- 㺢㹢狓屬
+- 霍加狓
+- 오카피
 title: Okapia johnstoni
 has_id_wikidata: Q82037
+dv_has_:
+  name_:
+    af: Okapi
+    an: Okapia johnstoni
+    ar: أكاب
+    arz: اكاب
+    ast: Okapi
+    avk: Zuxol (Okapia johnstoni)
+    az: Okapi
+    azb: اوکاپی زرافه
+    ban: Okapi
+    bcl: Okapi
+    be: Акапі
+    bg: окапи
+    bn: ওকাপি
+    br: Okapi
+    bs: Okapi
+    ca: ocapi
+    ceb: Okapia johnstoni
+    ckb: زەڕافەی مل کورت
+    cs: okapi
+    cv: Окапи
+    cy: Ocapi
+    da: okapi
+    de: Okapi
+    de-ch: Okapi
+    el: Οκάπι
+    en: Okapia johnstoni
+    en-ca: Okapi
+    en-gb: Okapi
+    eo: Okapio
+    es: Okapia johnstoni
+    et: Okaapi
+    eu: Okapi
+    ext: Okapia johnstoni
+    fa: اکاپی
+    fi: okapi
+    fr: okapi
+    frp: Ocapi
+    frr: Okapi
+    ga: Okapia johnstoni
+    gl: Ocapi
+    he: אוקאפי
+    hi: ओकापी
+    hr: Okapi
+    hu: okapi
+    hy: Օկապի
+    ia: Okapia johnstoni
+    id: Okapi
+    ie: Okapia johnstoni
+    io: Okapio
+    is: Ókapi
+    it: Okapia johnstoni
+    ja: オカピ
+    jbo: onkapi
+    jv: Okapi
+    ka: ოკაპი
+    kg: Okapi
+    kk: Окапи
+    kn: ಒಕಾಪಿ
+    ko: 오카피
+    la: Okapia johnstoni
+    lbe: Окапи
+    ln: Mondonga
+    lt: Okapija
+    lv: Okapi
+    mg: Ôkapy
+    mhr: Окапи
+    mk: Окапи
+    ml: ഓകാപി
+    ms: Okapi
+    mul: Okapia johnstoni
+    nan: Okapi
+    nb: okapi
+    nl: okapi
+    nn: okapi
+    nrm: Okapi
+    nv: Bijáád noodǫ́ǫzii
+    oc: Okapia johnstoni
+    pl: okapi leśne
+    pnb: اوکاپی
+    pt: Okapia johnstoni
+    pt-br: Okapia johnstoni
+    ro: Okapi
+    ru: Окапи
+    sco: okapi
+    sh: Okapi
+    sk: Okapia pralesná
+    sl: Okapi
+    smn: Okapi
+    sn: Okapi
+    so: Okapi
+    sq: Okapia johnstoni
+    sr: окапи
+    sv: okapi
+    sw: Okapi
+    ta: ஓக்காப்பி
+    th: โอคาพี
+    tl: Okapi
+    tr: Okapi
+    udm: Окапи
+    uk: Окапі
+    vi: Hươu đùi vằn
+    vls: Okapi
+    vo: Okapia johnstoni
+    war: Okapia johnstoni
+    wuu: 㺢㹢狓
+    xmf: ოკაპი
+    yue: 㺢㹢狓屬
+    zh: 㺢㹢狓
+    zh-cn: 霍加狓
+    zh-tw: 㺢㹢狓
+    zu: I-Okapi
 ---
 ## Phylogeny 
 

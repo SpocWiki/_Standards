@@ -1,10 +1,94 @@
 ---
 aliases:
-  - Pandanales
-  - pandans
-  - screw-pines
+- Bộ Dứa dại
+- csavarpálma-virágúak
+- Koma ceredaran
+- Pandanales
+- Pandanaloj
+- Pandanals
+- Pandanaçiçəklilər
+- Pandaniečiai
+- Pandanilaadsed
+- Pandanolike
+- pandanovci
+- pandanowce
+- pandans
+- pandánotvaré
+- Pandānu rinda
+- Schraubenbaumartige
+- screw-pines
+- Skruepalme-ordenen
+- панданоцветни
+- панданоцветные
+- كاذيات
+- پیچکاجیسانان
+- อันดับเตยทะเล
+- タコノキ目
+- 露兜树目
+- 露兜樹目
+- 부들목
 title: Pandanales
 has_id_wikidata: Q269303
+dv_has_:
+  name_:
+    an: Pandanales
+    ar: كاذيات
+    arz: كاذيات
+    ast: Pandanales
+    az: Pandanaçiçəklilər
+    bg: панданоцветни
+    bs: Pandanales
+    ca: Pandanals
+    ceb: Pandanales
+    cs: pandánotvaré
+    da: Skruepalme-ordenen
+    de: Schraubenbaumartige
+    en: Pandanales
+    eo: Pandanaloj
+    es: Pandanales
+    et: Pandanilaadsed
+    eu: Pandanales
+    ext: Pandanales
+    fa: پیچکاجیسانان
+    fi: Pandanales
+    fr: Pandanales
+    frr: Pandanales
+    ga: Pandanales
+    gl: Pandanales
+    hr: Pandanolike
+    hu: csavarpálma-virágúak
+    ia: Pandanales
+    id: Pandanales
+    ie: Pandanales
+    io: Pandanales
+    it: Pandanales
+    ja: タコノキ目
+    ko: 부들목
+    ku: Koma ceredaran
+    la: Pandanales
+    lt: Pandaniečiai
+    lv: Pandānu rinda
+    mul: Pandanales
+    nb: Pandanales
+    nl: Pandanales
+    oc: Pandanales
+    pl: pandanowce
+    pt: Pandanales
+    pt-br: Pandanales
+    ro: Pandanales
+    ru: панданоцветные
+    sl: pandanovci
+    sq: Pandanales
+    sv: Pandanales
+    th: อันดับเตยทะเล
+    uk: Pandanales
+    vi: Bộ Dứa dại
+    vo: Pandanales
+    war: Pandanales
+    yue: 露兜樹目
+    zh: 露兜树目
+    zh-cn: 露兜树目
+    zh-tw: 露兜樹目
 ---
 # [[Pandanales]] 
 

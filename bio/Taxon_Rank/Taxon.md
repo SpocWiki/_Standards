@@ -1,29 +1,227 @@
 ---
 aliases:
-  - taxon
-  - taxon
-  - Taxon
-  - is_a_taxon
+- is_a_taxon
+- kulupu pi ijo lon pi sama lukin
+- lague
+- tacson
+- tacsón
+- takson
+- taksonas
+- taksoni
+- taksono
+- taksonomik obje
+- taksons
+- taksōn
+- tamsartut
+- taqson
+- taxon
+- taxón
+- tekovemohendaha
+- tàxon
+- táxon
+- đơn vị phân loại
+- τάξη
+- τάξις
+- атаксон
+- бүлэг
+- таксон
+- տաքսոն
+- טאקסאן
+- טקסון
+- آرایه
+- أصنوفة
+- تاکسون
+- تصنيفه
+- تکسون
+- ٹؠکزان
+- ٹیکزون
+- ٹیکسون
+- ټاکسون
+- ߛߌߓߟߏߡߊ
+- टॅक्सॉन
+- टैक्सोन
+- টেক্সন
+- ট্যাক্সন
+- ਟੈਕਸੋਨ
+- ଶ୍ରେଣୀ
+- உயிரலகு
+- టాక్సన్
+- ടാക്സോൺ
+- තක්සෝනය
+- หน่วยอนุกรมวิธาน
+- တက်ဆွန်
+- တူဝ်တတ်းသတ်းမႅင်း
+- ტაქსონი
+- ⴰⵙⵏⵎⴰⵍⴰ
+- タクソン
+- 分类单元
+- 生物分类单元
+- 生物分類單元
+- 분류군
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - taxon
+- taxon
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_taxon Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_taxon Class
 type: Type
 has_id_wikidata: Q16521
+dv_has_:
+  name_:
+    ab: атаксон
+    af: takson
+    an: taxón
+    ar: أصنوفة
+    arz: تصنيفه
+    as: টেক্সন
+    ast: taxón
+    az: takson
+    ba: таксон
+    bar: Taxon
+    be: таксон
+    be-tarask: таксон
+    bg: таксон
+    bn: ট্যাক্সন
+    br: takson
+    bs: takson
+    ca: tàxon
+    cs: taxon
+    cv: таксон
+    cy: tacson
+    da: takson
+    de: Taxon
+    de-at: Taxon
+    de-ch: Taxon
+    diq: taksonomik obje
+    el: τάξη
+    en: taxon
+    en-ca: taxon
+    en-gb: taxon
+    en-us: taxon
+    eo: taksono
+    es: taxón
+    et: takson
+    eu: taxon
+    fa: آرایه
+    fi: taksoni
+    fr: taxon
+    frp: taxon
+    frr: takson
+    fy: takson
+    ga: tacsón
+    gd: tacson
+    gl: taxon
+    gn: tekovemohendaha
+    grc: τάξις
+    gsw: Taxon
+    he: טקסון
+    hi: टैक्सोन
+    hr: takson
+    ht: takson
+    hu: taxon
+    hy: տաքսոն
+    ia: taxon
+    id: takson
+    ilo: takson
+    it: taxon
+    ja: タクソン
+    ka: ტაქსონი
+    kaa: takson
+    kab: tamsartut
+    ko: 분류군
+    ks: ٹؠکزان
+    ku-latn: takson
+    la: taxon
+    lb: Taxon
+    li: Taxon
+    lmo: taxon
+    lt: taksonas
+    lv: taksons
+    mk: таксон
+    ml: ടാക്സോൺ
+    mn: бүлэг
+    mr: टॅक्सॉन
+    mrj: таксон
+    ms: takson
+    ms-arab: تکسون
+    mt: takson
+    my: တက်ဆွန်
+    mzn: تاکسون
+    nb: takson
+    nds: Taxon
+    nl: taxon
+    nn: takson
+    nqo: ߛߌߓߟߏߡߊ
+    nrm: lague
+    oc: taxon
+    or: ଶ୍ରେଣୀ
+    os: таксон
+    pa: ਟੈਕਸੋਨ
+    pam: takson
+    pap: takson
+    pl: takson
+    pnb: ٹیکسون
+    ps: ټاکسون
+    pt: táxon
+    pt-br: táxon
+    ro: taxon
+    ru: таксон
+    rue: таксон
+    sah: таксон
+    scn: taxon
+    sco: taxon
+    sh: takson
+    shn: တူဝ်တတ်းသတ်းမႅင်း
+    si: තක්සෝනය
+    sk: taxón
+    sl: takson
+    sq: takson
+    sr: таксон
+    sr-ec: таксон
+    sr-el: takson
+    stq: Taxon
+    sv: taxon
+    szl: taksōn
+    ta: உயிரலகு
+    te: టాక్సన్
+    tg: таксон
+    tg-cyrl: таксон
+    th: หน่วยอนุกรมวิธาน
+    tl: takson
+    tly: takson
+    tok: kulupu pi ijo lon pi sama lukin
+    tr: takson
+    tt: таксон
+    tt-cyrl: таксон
+    tt-latn: taqson
+    udm: таксон
+    uk: таксон
+    ur: ٹیکزون
+    uz: takson
+    vec: tàxon
+    vi: đơn vị phân loại
+    wuu: 分类单元
+    xmf: ტაქსონი
+    yi: טאקסאן
+    zgh: ⴰⵙⵏⵎⴰⵍⴰ
+    zh: 生物分類單元
+    zh-cn: 生物分类单元
+    zh-hans: 生物分类单元
+    zh-hant: 生物分類單元
+    zh-hk: 生物分類單元
+    zh-tw: 生物分類單元
 ---
 # [[Taxon]] 
 

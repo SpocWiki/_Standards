@@ -1,28 +1,110 @@
 ---
 aliases:
-  - Prelude
-  - Präludium
-  - Vorspiel
-  - praeludium
-  - prélude
-  - preludio
+- praeludium
+- preludas
+- Prelude
+- preludi
+- preludij
+- preludio
+- Preludiu
+- preludium
+- preludo
+- Prelyudiya
+- prelúdio
+- Prelúdium
+- Prelüd
+- Prelüüd
+- Prelūdija
+- Präludium
+- Præludium
+- prélude
+- Vorspiel
+- πρελούδιο
+- Прелид
+- прелудиум
+- Прелюд
+- прелюдія
+- прелюдия
+- прэлюдыя
+- Պրելյուդ
+- פרלוד
+- مقدمة
+- پرلود
+- پرێلوود
+- 前奏曲
+- 전주곡
 has_id_wikidata: Q212148
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 opposite_of: '[[_Standards/WikiData/WD~postlude,2094385]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PRELYUDIYA.html
 Commons_category: Preludes (music)
+dv_has_:
+  name_:
+    ar: مقدمة
+    ast: Preludiu
+    be-tarask: прэлюдыя
+    bg: Прелюд
+    ca: preludi
+    ckb: پرێلوود
+    cs: preludium
+    da: Præludium
+    de: Präludium
+    el: πρελούδιο
+    en: prelude
+    eo: preludo
+    es: preludio
+    et: Prelüüd
+    eu: preludio
+    fa: پرلود
+    fi: preludi
+    fr: prélude
+    he: פרלוד
+    hu: prelúdium
+    hy: Պրելյուդ
+    id: Prelude
+    it: preludio
+    ja: 前奏曲
+    ko: 전주곡
+    la: Praeludium
+    lt: preludas
+    lv: Prelūdija
+    mk: прелудиум
+    nb: preludium
+    nl: prelude
+    nn: preludium
+    pl: preludium
+    pt: prelúdio
+    pt-br: prelúdio
+    ro: preludiu
+    ru: прелюдия
+    sk: Prelúdium
+    sl: preludij
+    sr: Прелид
+    sv: preludium
+    tg: Прелюдия
+    tr: Prelüd
+    uk: прелюдія
+    uz: Prelyudiya
+    vi: Prelude
+    yue: 前奏曲
+    zh: 前奏曲
+    zh-cn: 前奏曲
+    zh-hans: 前奏曲
+    zh-hant: 前奏曲
+    zh-hk: 前奏曲
+    zh-sg: 前奏曲
+    zh-tw: 前奏曲
 ---
-
 # [[Prelude]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Prelude,212148|WD~Prelude,212148]]  

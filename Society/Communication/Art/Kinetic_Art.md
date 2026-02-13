@@ -1,22 +1,133 @@
 ---
 aliases:
+- Ars kinetica
+- art cinètic
+- art cinétique
+- arte cinetica
+- Arte cinética
+- Arte cinético
+- Arte zinetikoa
+- Arti kinetik
+- artă cinetică
+- celfyddyd ginetig
+- Kineetiline kunst
+- kineettinen taide
+- kinetic art
+- Kinetické umenie
+- kinetické umění
+- Kinetiese Kuns
+- Kinetik incəsənət
+- kinetik sanat
+- Kinetik sanʼat
+- kinetika arto
+- kinetikus művészet
+- Kinetinis menas
+- kinetische Kunst
+- Kinetischi Kunst
+- kinetisk kunst
+- Kinetička skulptura
+- Kinetička umjetnost
+- kinetična umetnost
+- kinētiskā māksla
+- rörlig konst
+- Seni kinetik
+- sztuka kinetyczna
+- Κινητική τέχνη
+- Кінетичне мистецтво
+- кінетычнае мастацтва
+- кінэтычнае мастацтва
+- Кинетикалык көркөм искусство
+- Кинетическое искусство
+- кинетичка скулптура
+- Кинетично изкуство
+- կինետիկ արվեստ
+- אמנות קינטית
+- فن حركي
+- هنر سینتیک
+- จลนศิลป์
+- キネティック・アート
+- 动感雕塑
+- 動力藝術
+- 動感藝術
+- 動感雕塑
+- 키네틱 아트
 has_id_wikidata: Q466521
 subclass_of:
-  - "[[_Standards/WikiData/WD~installation_art,212431]]"
-  - "[[_Standards/WikiData/WD~art_of_sculpture,11634]]"
+- '[[_Standards/WikiData/WD~installation_art,212431]]'
+- '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
-  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~kinetic_sculpture,29857932]]"
-different_from: "[[_Standards/WikiData/WD~Q112583732,112583732]]"
-OmegaWiki_Defined_Meaning: "683318"
+- '[[_Standards/WikiData/WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~kinetic_sculpture,29857932]]'
+different_from: '[[_Standards/WikiData/WD~Q112583732,112583732]]'
+OmegaWiki_Defined_Meaning: 683318
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Whirligig.jpg
 Commons_gallery: Kinetic art
 Commons_category: Kinetic art
 hashtag_: kineticart
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MOBILI.html
+dv_has_:
+  name_:
+    af: Kinetiese Kuns
+    ar: فن حركي
+    ast: Arte cinético
+    az: Kinetik incəsənət
+    be: кінетычнае мастацтва
+    be-tarask: кінэтычнае мастацтва
+    bg: Кинетично изкуство
+    ca: art cinètic
+    cs: kinetické umění
+    cy: celfyddyd ginetig
+    da: kinetisk kunst
+    de: kinetische Kunst
+    el: Κινητική τέχνη
+    en: kinetic art
+    eo: kinetika arto
+    es: arte cinético
+    et: Kineetiline kunst
+    eu: Arte zinetikoa
+    fa: هنر سینتیک
+    fi: kineettinen taide
+    fr: art cinétique
+    gl: Arte cinética
+    gsw: Kinetischi Kunst
+    he: אמנות קינטית
+    hr: Kinetička umjetnost
+    hu: kinetikus művészet
+    hy: կինետիկ արվեստ
+    id: Seni kinetik
+    it: arte cinetica
+    ja: キネティック・アート
+    ko: 키네틱 아트
+    ky: Кинетикалык көркөм искусство
+    la: Ars kinetica
+    lt: Kinetinis menas
+    lv: kinētiskā māksla
+    nb: kinetisk kunst
+    nl: kinetische kunst
+    pl: sztuka kinetyczna
+    pt: arte cinética
+    ro: artă cinetică
+    ru: Кинетическое искусство
+    sh: Kinetička umjetnost
+    sk: Kinetické umenie
+    sl: kinetična umetnost
+    sq: Arti kinetik
+    sr: кинетичка скулптура
+    sr-ec: кинетичка скулптура
+    sr-el: Kinetička skulptura
+    sv: rörlig konst
+    th: จลนศิลป์
+    tr: kinetik sanat
+    uk: Кінетичне мистецтво
+    uz: Kinetik sanʼat
+    yue: 動感藝術
+    zh: 動力藝術
+    zh-cn: 动感雕塑
+    zh-hans: 动感雕塑
+    zh-hant: 動感雕塑
+    zh-tw: kinetic art
 ---
-
 # [[Kinetic_Art]] 
 
 #is_/same_as :: [[WD~Kinetic_art,466521]] 

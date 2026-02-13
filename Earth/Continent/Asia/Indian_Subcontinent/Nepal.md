@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 尼泊尔联邦民主共和国
 dv_UNTERM_French_Formal: la République fédérale démocratique du Népal
 dv_UNTERM_Russian: Непал
 dv_UNTERM_Russian_Formal: Федеративная Демократическая Республика Непал
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Nepal]]"
-dv_Sub-region_Name: "[[Southern Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Nepal]]'
+dv_Sub-region_Name: '[[Southern Asia]]'
 dv_Region: 142
 dv_Sub-region: 34
 dv_Geoname-ID: 1282988
@@ -54,398 +54,753 @@ dv_ISO2: NP
 dv_ISO3: NPL
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Nepal,837|WD~Nepal,837]]"
-    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal|Nepal]]"
-    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public|Nepal.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal|Nepal.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect|Nepal.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private|Nepal.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]"
+  - '[[../../../../WikiData/WD~Nepal,837|WD~Nepal,837]]'
+  - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal|Nepal]]'
+  - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public|Nepal.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal|Nepal.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect|Nepal.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private|Nepal.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]'
 dv_has_:
   name_:
+    ab: Непал
+    ace: Nepal
+    ady: Непал
+    aeb-arab: نيپال
+    af: Nepal
+    am: ኔፓል
+    ami: Nepal
+    an: Nepal
+    ang: Nepal
+    ar: نيبال
+    ary: نيپال
+    arz: نيبال
+    as: নেপাল
+    ast: Nepal
+    av: Непал
+    awa: नेपाल
+    az: Nepal
+    azb: نئپال
+    ba: Непал
+    ban: Népal
+    bar: Nepal
+    bcl: Nepal
+    be: Непал
+    be-tarask: Нэпал
+    bew: Népal
+    bg: Непал
+    bgn: نیپال
+    bho: नेपाल
+    bi: Nepal
+    bjn: Nepal
+    bn: নেপাল
+    bo: བལ་ཡུལ།
+    bpy: নেপাল
+    br: Nepal
+    bs: Nepal
+    bxr: Балба
+    ca: Nepal
+    cbk-zam: Nepal
+    cdo: Nepal
+    ce: Непал
+    ceb: Nepal
+    ckb: نیپال
+    crh: Nepal
+    crh-latn: Nepal
+    crh-ro: Nepal
+    cs: Nepál
+    csb: Nepal
+    cv: Непал
+    cy: Nepal
+    da: Nepal
+    dag: Nepal
+    de: Nepal
+    de-ch: Nepal
+    diq: Nepal
+    dsb: Nepal
+    dtp: Nepal
+    dty: नेपाल
+    dv: ނޭޕާލް
+    dz: བལ་ཡུལ་
+    el: Νεπάλ
+    en: Nepal
+    en-ca: Nepal
+    en-gb: Nepal
+    eo: Nepalo
+    es: Nepal
+    et: Nepal
+    eu: Nepal
+    ext: Nepal
+    fa: نپال
+    ff: Nepal
+    fi: Nepal
+    fj: Nepal
+    fo: Nepal
+    fr: Népal
+    frp: Nèpal
+    frr: Nepaal
+    fy: Nepal
+    ga: Neipeal
+    gag: Nepal
+    gcr: Népal
+    gd: Neapàl
+    gl: Nepal
+    glk: نپال
+    gn: Nepal
+    gom: नेपाळ
+    gom-deva: नेपाळ
+    gom-latn: Nepal
+    gpe: Nepal
+    gsw: Nepal
+    gu: નેપાળ
+    gv: Nepaal
+    ha: Nepal
+    hak: Nepal
+    haw: Nepala
+    he: נפאל
+    hi: नेपाल
+    hif: Nepal
+    hr: Nepal
+    hsb: Nepal
+    ht: Nepal
+    hu: Nepál
+    hy: Նեպալ
+    hyw: Նեփալ
+    ia: Nepal
+    id: Nepal
+    ie: Nepal
+    ilo: Nepal
+    io: Nepal
+    is: Nepal
+    it: Nepal
+    iu: ᓃᑉᐊᓐ
+    ja: ネパール
+    jam: Nepal
+    jbo: nepal
+    jv: Népal
+    ka: ნეპალი
+    kaa: Nepal
+    kab: Nipal
+    kbp: Nepaalɩ
+    kg: Nepal
+    kge: Nepal
+    ki: Nepal
+    kk: Непал
+    kl: Nepal
+    km: នេប៉ាល់
+    kn: ನೇಪಾಳ
+    ko: 네팔
+    krc: Непал
+    ks: نؠپال
+    ku: Nepal
+    kv: Непал
+    kw: Nepal
+    ky: Непал
+    la: Nepalia
+    lad: Nepal
+    lb: Nepal
+    lez: Непал
+    lfn: Nepal
+    lg: Nepal
+    li: Nepal
+    lij: Nepal
+    lld: Nepal
+    lmo: Nepal
+    ln: Nepáli
+    lo: ເນປານ
+    lrc: نپال
+    lt: Nepalas
+    lv: Nepāla
+    lzh: 尼泊爾
+    mad: Nepal
+    mai: नेपाल
+    map-bms: Nepal
+    mdf: Нэпал
+    mg: Nepal
+    mhr: Непал
+    mi: Nepōra
+    min: Nepal
+    mk: Непал
+    ml: നേപ്പാൾ
+    mn: Балба
+    mni: ꯅꯦꯄꯥꯜ
+    mr: नेपाळ
+    ms: Nepal
+    ms-arab: نيڤل
+    mt: Nepal
+    mwl: Nepal
+    my: နီပေါနိုင်ငံ
+    myv: Непал Мастор
+    mzn: نپال
+    na: Nepar
+    nah: Nepal
+    nan: Nepal
+    nb: Nepal
+    nds: Nepal
+    nds-nl: Nepal
+    ne: नेपाल
+    new: नेपाः
+    nl: Nepal
+    nn: Nepal
+    nov: Nepal
+    nv: Dziłghą́ąʼdi Naakaii Dootłʼizhí Bikéyah
+    oc: Nepal
+    olo: Nepal
+    om: Neeppaal
+    or: ନେପାଳ
+    os: Непал
+    pa: ਨੇਪਾਲ
+    pag: Nepal
+    pam: Nepal
+    pap: Nepal
+    pcd: Népal
+    pi: नेपाल
+    pih: Nepal
+    pl: Nepal
+    pms: Nepal
+    pnb: نیپال
+    ps: نيپال
+    pt: Nepal
+    qu: Nipal
+    rmy: Nepal
+    ro: Nepal
+    ru: Непал
+    rue: Непал
+    rup: Nepal
+    rw: Nepali
+    sa: नेपालदेशः
+    sah: Непал
+    sat: ᱱᱮᱹᱯᱟᱞ
+    sc: Nepal
+    scn: Nepal
+    sco: Nepal
+    sd: نيپال
+    se: Nepal
+    sgs: Nepals
+    sh: Nepal
+    shn: မိူင်းၼေႇပေႃး
+    si: නේපාලය
+    sk: Nepál
+    sl: Nepal
+    sm: Nepal
+    smn: Nepal
+    sms: Nepal
+    sn: Nepal
+    so: Nebal
+    sq: Nepali
+    sr: Непал
+    sr-ec: Непал
+    sr-el: Nepal
+    srn: Nepal
+    ss: INephali
+    su: Nepal
+    sv: Nepal
+    sw: Nepal
+    syl: ꠘꠦꠙꠣꠟ
+    szl: Nepal
+    szy: Nepal
+    ta: நேபாளம்
+    tay: Nepal
+    tcy: ನೇಪಾಳ
+    te: నేపాల్
+    tet: Nepál
+    tg: Непал
+    th: ประเทศเนปาล
+    tk: Nepal
+    tl: Nepal
+    tly: Nepal
+    to: Nepali
+    tok: ma Nepalu
+    tpi: Nepal
+    tr: Nepal
+    trv: Nepal
+    ts: Nepal
+    tt: Непал
+    tum: Nepal
+    tw: Nepal
+    udm: Непал
+    ug: نېپال
+    uk: Непал
+    ur: نیپال
+    uz: Nepal
+    vec: Nèpal
+    vep: Nepal
+    vi: Nepal
+    vls: Nepal
+    vo: Nepalän
+    vro: Nepal
+    war: Nepal
+    wo: Nepaal
+    wuu: 尼泊尔
+    xal: Балвудин Улсин Ниицәтә Орн
+    xh: Nephal
+    xmf: ნეპალი
+    yi: נעפאל
+    yo: Nepal
+    yue: 尼泊爾
+    za: Nepal
+    zea: Nepal
+    zh: 尼泊爾
+    zh-cn: 尼泊尔
+    zh-hans: 尼泊尔
+    zh-hant: 尼泊爾
+    zh-hk: 尼泊爾
+    zh-my: 尼泊尔
+    zh-tw: 尼泊爾
+    zu: i-Nepal
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Nepal
 dv_has_name_de: Nepal
 dv_Area-Total: 147181
 dv_Area-Land: 136800
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: NEP
-dv_Capital: "[[Nepal/Counties/Bagmati/City/Kathmandu]]"
+dv_Capital: '[[Nepal/Counties/Bagmati/City/Kathmandu]]'
 dv_Alcohol-l: 2.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 85.3167
 dv_has_place_latitude: 27.7
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Nepal,837|WD~Nepal,837]]"
-  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal|Nepal]]"
-  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public|Nepal.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal|Nepal.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect|Nepal.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private|Nepal.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]"
+- '[[../../../../WikiData/WD~Nepal,837|WD~Nepal,837]]'
+- '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal|Nepal]]'
+- '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public|Nepal.public]]'
+- '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal|Nepal.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect|Nepal.protect]]'
+- '[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private|Nepal.private]]'
+- '[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Nepal
-
 aliases:
-  - Nepal
-  - Népal
-  - نيبال
-  - 尼泊尔
-  - Непал
-  - the Federal Democratic Republic of Nepal
-  - la República Democrática Federal de Nepal
+- Dziłghą́ąʼdi Naakaii Dootłʼizhí Bikéyah
+- i-Nepal
+- INephali
+- la República Democrática Federal de Nepal
+- ma Nepalu
+- Neapàl
+- Nebal
+- Neeppaal
+- Neipeal
+- Nepaal
+- Nepaalɩ
+- Nepal
+- Nepala
+- Nepalas
+- Nepali
+- Nepalia
+- Nepalo
+- Nepals
+- Nepalän
+- Nepar
+- Nephal
+- Nepál
+- Nepáli
+- Nepāla
+- Nepōra
+- Nipal
+- Nèpal
+- Népal
+- the Federal Democratic Republic of Nepal
+- Νεπάλ
+- Балба
+- Балвудин Улсин Ниицәтә Орн
+- Непал
+- Непал Мастор
+- Нэпал
+- Նեպալ
+- Նեփալ
+- נעפאל
+- נפאל
+- نؠپال
+- نئپال
+- نيبال
+- نيپال
+- نيڤل
+- نپال
+- نیپال
+- نېپال
+- ނޭޕާލް
+- नेपाः
+- नेपाल
+- नेपालदेशः
+- नेपाळ
+- নেপাল
+- ਨੇਪਾਲ
+- નેપાળ
+- ନେପାଳ
+- நேபாளம்
+- నేపాల్
+- ನೇಪಾಳ
+- നേപ്പാൾ
+- නේපාලය
+- ประเทศเนปาล
+- ເນປານ
+- བལ་ཡུལ་
+- བལ་ཡུལ།
+- နီပေါနိုင်ငံ
+- မိူင်းၼေႇပေႃး
+- ნეპალი
+- ኔፓል
+- ᓃᑉᐊᓐ
+- នេប៉ាល់
+- ᱱᱮᱹᱯᱟᱞ
+- ネパール
+- 尼泊尔
+- 尼泊爾
+- ꠘꠦꠙꠣꠟ
+- ꯅꯦꯄꯥꯜ
+- 네팔
 has_id_wikidata: Q837
 instance_of:
-  - "[[_Standards/WikiData/WD~geographic_region,82794]]"
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~people's_republic,465613]]"
-  - "[[_Standards/WikiData/WD~federal_republic,512187]]"
-  - "[[_Standards/WikiData/WD~socialist_state,842112]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Nepal,153756]]"
+- '[[_Standards/WikiData/WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- "[[_Standards/WikiData/WD~people's_republic,465613]]"
+- '[[_Standards/WikiData/WD~federal_republic,512187]]'
+- '[[_Standards/WikiData/WD~socialist_state,842112]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Nepal,153756]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Bhutan,917]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Nepal,159741]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Bhutan,917]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Nepal,159741]]'
 member_of:
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Indo-Gangetic_Plain,192305]]"
-  - "[[_Standards/WikiData/WD~Himalayas,5451]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Toyota,201117]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Nepal,209224]]"
-head_of_government: "[[_Standards/WikiData/WD~Pushpa_Kamal_Dahal,315500]]"
-anthem: "[[_Standards/WikiData/WD~Sayaun_Thunga_Phulka,371559]]"
-has_list: "[[_Standards/WikiData/WD~list_of_cities_in_Nepal,504806]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- '[[_Standards/WikiData/WD~Indo-Gangetic_Plain,192305]]'
+- '[[_Standards/WikiData/WD~Himalayas,5451]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Toyota,201117]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Nepal,209224]]'
+head_of_government: '[[_Standards/WikiData/WD~Pushpa_Kamal_Dahal,315500]]'
+anthem: '[[_Standards/WikiData/WD~Sayaun_Thunga_Phulka,371559]]'
+has_list: '[[_Standards/WikiData/WD~list_of_cities_in_Nepal,504806]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~federal_republic,512187]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Newar_people,524007]]"
-  - "[[_Standards/WikiData/WD~Bene_Israel,817287]]"
-  - "[[_Standards/WikiData/WD~Rai_people,905467]]"
-  - "[[_Standards/WikiData/WD~Chhetri,1071516]]"
-  - "[[_Standards/WikiData/WD~Chamar,1111240]]"
-  - "[[_Standards/WikiData/WD~Tamang_people,1144444]]"
-  - "[[_Standards/WikiData/WD~Yadav,1194596]]"
-  - "[[_Standards/WikiData/WD~Tharu_people,1277626]]"
-  - "[[_Standards/WikiData/WD~Gurung_people,1341218]]"
-  - "[[_Standards/WikiData/WD~Magars,2605658]]"
-  - "[[_Standards/WikiData/WD~Limbu_people,2668355]]"
-  - "[[_Standards/WikiData/WD~Kami_people,3892207]]"
-  - "[[_Standards/WikiData/WD~Miji_people,4292816]]"
-  - "[[_Standards/WikiData/WD~Kushwaha,6448103]]"
-  - "[[_Standards/WikiData/WD~Sarki,7530475]]"
-  - "[[_Standards/WikiData/WD~Bahun,13183983]]"
-  - "[[_Standards/WikiData/WD~Thakuri,27963681]]"
-  - "[[_Standards/WikiData/WD~Muslim,47740]]"
+- '[[_Standards/WikiData/WD~Newar_people,524007]]'
+- '[[_Standards/WikiData/WD~Bene_Israel,817287]]'
+- '[[_Standards/WikiData/WD~Rai_people,905467]]'
+- '[[_Standards/WikiData/WD~Chhetri,1071516]]'
+- '[[_Standards/WikiData/WD~Chamar,1111240]]'
+- '[[_Standards/WikiData/WD~Tamang_people,1144444]]'
+- '[[_Standards/WikiData/WD~Yadav,1194596]]'
+- '[[_Standards/WikiData/WD~Tharu_people,1277626]]'
+- '[[_Standards/WikiData/WD~Gurung_people,1341218]]'
+- '[[_Standards/WikiData/WD~Magars,2605658]]'
+- '[[_Standards/WikiData/WD~Limbu_people,2668355]]'
+- '[[_Standards/WikiData/WD~Kami_people,3892207]]'
+- '[[_Standards/WikiData/WD~Miji_people,4292816]]'
+- '[[_Standards/WikiData/WD~Kushwaha,6448103]]'
+- '[[_Standards/WikiData/WD~Sarki,7530475]]'
+- '[[_Standards/WikiData/WD~Bahun,13183983]]'
+- '[[_Standards/WikiData/WD~Thakuri,27963681]]'
+- '[[_Standards/WikiData/WD~Muslim,47740]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Nepal,660099]]"
-part_of: "[[_Standards/WikiData/WD~South_Asia,771405]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Nepal,660099]]'
+part_of: '[[_Standards/WikiData/WD~South_Asia,771405]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Bon,815628]]"
-  - "[[_Standards/WikiData/WD~Prakṛti,920021]]"
-  - "[[_Standards/WikiData/WD~Kirat_Mundhum,3429351]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Nepal,983179]]"
-replaces: "[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602]]"
-central_bank: "[[_Standards/WikiData/WD~Nepal_Rastra_Bank,1318435]]"
+- '[[_Standards/WikiData/WD~Bon,815628]]'
+- '[[_Standards/WikiData/WD~Prakṛti,920021]]'
+- '[[_Standards/WikiData/WD~Kirat_Mundhum,3429351]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Nepal,983179]]'
+replaces: '[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602]]'
+central_bank: '[[_Standards/WikiData/WD~Nepal_Rastra_Bank,1318435]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~BS_546,1383497]]"
-  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Nepal,1648546]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~BS_546,1383497]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Nepal,1648546]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Gurung,2392342]]"
-  - "[[_Standards/WikiData/WD~Nepali_Kurux,3200624]]"
-  - "[[_Standards/WikiData/WD~Chamling,3436664]]"
-  - "[[_Standards/WikiData/WD~Sampang,3449115]]"
-  - "[[_Standards/WikiData/WD~Athpare,3449126]]"
-  - "[[_Standards/WikiData/WD~Dura,3449842]]"
-  - "[[_Standards/WikiData/WD~Dhanwar_Rai,3522797]]"
-  - "[[_Standards/WikiData/WD~Palpa,3832956]]"
-  - "[[_Standards/WikiData/WD~Nepali_Sign_Language,3915492]]"
-  - "[[_Standards/WikiData/WD~Chantyal,4926344]]"
-  - "[[_Standards/WikiData/WD~Nar_Phu,4926353]]"
-  - "[[_Standards/WikiData/WD~Central_Tibetan,5061915]]"
-  - "[[_Standards/WikiData/WD~Chepang,5091700]]"
-  - "[[_Standards/WikiData/WD~Chulung,5116126]]"
-  - "[[_Standards/WikiData/WD~Jhankot_Sign_Language,6190889]]"
-  - "[[_Standards/WikiData/WD~Jumla_Sign_Language,6310991]]"
-  - "[[_Standards/WikiData/WD~Jumli_Khas,6310993]]"
-  - "[[_Standards/WikiData/WD~Kayort,6380675]]"
-  - "[[_Standards/WikiData/WD~Koi,6426194]]"
-  - "[[_Standards/WikiData/WD~Kulung,6443304]]"
-  - "[[_Standards/WikiData/WD~Kutang,6448337]]"
-  - "[[_Standards/WikiData/WD~Lambichhong,6481472]]"
-  - "[[_Standards/WikiData/WD~Lohorung,6668040]]"
-  - "[[_Standards/WikiData/WD~Lumba-Yakkha,6703050]]"
-  - "[[_Standards/WikiData/WD~Majhi,6737786]]"
-  - "[[_Standards/WikiData/WD~Manang,6746900]]"
-  - "[[_Standards/WikiData/WD~Mugom,6932210]]"
-  - "[[_Standards/WikiData/WD~Musasa,6940122]]"
-  - "[[_Standards/WikiData/WD~Nachering,6957144]]"
-  - "[[_Standards/WikiData/WD~Raji,7286138]]"
-  - "[[_Standards/WikiData/WD~Raute,7296262]]"
-  - "[[_Standards/WikiData/WD~Saam,7395644]]"
-  - "[[_Standards/WikiData/WD~Thakali,7709348]]"
-  - "[[_Standards/WikiData/WD~Thangmi,7710314]]"
-  - "[[_Standards/WikiData/WD~Tilung,7803037]]"
-  - "[[_Standards/WikiData/WD~Vayu,7917585]]"
-  - "[[_Standards/WikiData/WD~Waling,7961957]]"
-  - "[[_Standards/WikiData/WD~Bote-Majhi,9229570]]"
-  - "[[_Standards/WikiData/WD~Kaike,10951226]]"
-  - "[[_Standards/WikiData/WD~Naaba,11883865]]"
-  - "[[_Standards/WikiData/WD~Chukwa,12629033]]"
-  - "[[_Standards/WikiData/WD~Dolpo,12629969]]"
-  - "[[_Standards/WikiData/WD~Rajbanshi,12640969]]"
-  - "[[_Standards/WikiData/WD~Southern_Ghale,12952453]]"
-  - "[[_Standards/WikiData/WD~Kagate,12952538]]"
-  - "[[_Standards/WikiData/WD~Sheshi_Kham,12952622]]"
-  - "[[_Standards/WikiData/WD~Kyirong,12952691]]"
-  - "[[_Standards/WikiData/WD~Southern_Lorung,12952742]]"
-  - "[[_Standards/WikiData/WD~Lowa,12952744]]"
-  - "[[_Standards/WikiData/WD~Eastern_Magar,12952758]]"
-  - "[[_Standards/WikiData/WD~Eastern_Meohang,12952840]]"
-  - "[[_Standards/WikiData/WD~Nubri,12952969]]"
-  - "[[_Standards/WikiData/WD~Eastern_Parbate_Kham,12953022]]"
-  - "[[_Standards/WikiData/WD~Phangduwali,12953036]]"
-  - "[[_Standards/WikiData/WD~Eastern_Gorkha_Tamang,12953175]]"
-  - "[[_Standards/WikiData/WD~Western_Tamang,12953178]]"
-  - "[[_Standards/WikiData/WD~Eastern_Tamang,12953177]]"
-  - "[[_Standards/WikiData/WD~Tsum,12953223]]"
-  - "[[_Standards/WikiData/WD~Sonha,12953890]]"
-  - "[[_Standards/WikiData/WD~Rana_Tharu,12953920]]"
-  - "[[_Standards/WikiData/WD~Kumhali,13580783]]"
-  - "[[_Standards/WikiData/WD~Lhomi,14240916]]"
-  - "[[_Standards/WikiData/WD~Tichurong,15615594]]"
-  - "[[_Standards/WikiData/WD~Northwestern_Tamang,15616509]]"
-  - "[[_Standards/WikiData/WD~Ghandruk_Sign_Language,15971577]]"
-  - "[[_Standards/WikiData/WD~Western_Meohang,17442461]]"
-  - "[[_Standards/WikiData/WD~Humla,17588918]]"
-  - "[[_Standards/WikiData/WD~Doteli,18415595]]"
-  - "[[_Standards/WikiData/WD~Yolmo,19841092]]"
-  - "[[_Standards/WikiData/WD~Chitwania_Tharu,22083804]]"
-  - "[[_Standards/WikiData/WD~Dangaura_Tharu,22083815]]"
-  - "[[_Standards/WikiData/WD~Kathariya_Tharu,22083822]]"
-  - "[[_Standards/WikiData/WD~Kochila_Tharu,22083826]]"
-  - "[[_Standards/WikiData/WD~Gamale_Kham,22236996]]"
-  - "[[_Standards/WikiData/WD~Western_Parbate_Kham,22237017]]"
-  - "[[_Standards/WikiData/WD~Western_Magar,22303263]]"
-  - "[[_Standards/WikiData/WD~Northern_Ghale,22662104]]"
-  - "[[_Standards/WikiData/WD~Thudam,22674828]]"
-  - "[[_Standards/WikiData/WD~Walungge,22674847]]"
-  - "[[_Standards/WikiData/WD~Seke,30226846]]"
-  - "[[_Standards/WikiData/WD~Darai,46995026]]"
-  - "[[_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Angika,28378]]"
-  - "[[_Standards/WikiData/WD~Awadhi,29579]]"
-  - "[[_Standards/WikiData/WD~Belhare,32961]]"
-  - "[[_Standards/WikiData/WD~Chintang,32994]]"
-  - "[[_Standards/WikiData/WD~Bhojpuri,33268]]"
-  - "[[_Standards/WikiData/WD~Kusunda,33630]]"
-  - "[[_Standards/WikiData/WD~Puma,33736]]"
-  - "[[_Standards/WikiData/WD~Nepali,33823]]"
-  - "[[_Standards/WikiData/WD~Santali,33965]]"
-  - "[[_Standards/WikiData/WD~Newar,33979]]"
-  - "[[_Standards/WikiData/WD~Tibetan,34271]]"
-  - "[[_Standards/WikiData/WD~Dhimal,35229]]"
-  - "[[_Standards/WikiData/WD~Lepcha,35990]]"
-  - "[[_Standards/WikiData/WD~Maithili,36109]]"
-  - "[[_Standards/WikiData/WD~Sherpa,36612]]"
-  - "[[_Standards/WikiData/WD~Dumi,56315]]"
-  - "[[_Standards/WikiData/WD~Yamphu,56316]]"
-  - "[[_Standards/WikiData/WD~Bhujel,56317]]"
-  - "[[_Standards/WikiData/WD~Jerung,56372]]"
-  - "[[_Standards/WikiData/WD~Khaling,56381]]"
-  - "[[_Standards/WikiData/WD~Bahing,56442]]"
-  - "[[_Standards/WikiData/WD~Limbu,56477]]"
-  - "[[_Standards/WikiData/WD~Bantawa,56500]]"
-  - "[[_Standards/WikiData/WD~Sunwar,56549]]"
-  - "[[_Standards/WikiData/WD~Thulung,56553]]"
-  - "[[_Standards/WikiData/WD~Yakkha,56666]]"
-  - "[[_Standards/WikiData/WD~Wambule,56785]]"
-  - "[[_Standards/WikiData/WD~Baram,56804]]"
-  - "[[_Standards/WikiData/WD~Jirel,56863]]"
-  - "[[_Standards/WikiData/WD~Dungmali,56871]]"
-  - "[[_Standards/WikiData/WD~Byangsi,56904]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Nepal,2398928]]"
-different_from: "[[_Standards/WikiData/WD~Nepal,2843253]]"
-head_of_state: "[[_Standards/WikiData/WD~Ram_Chandra_Poudel,3183124]]"
+- '[[_Standards/WikiData/WD~Gurung,2392342]]'
+- '[[_Standards/WikiData/WD~Nepali_Kurux,3200624]]'
+- '[[_Standards/WikiData/WD~Chamling,3436664]]'
+- '[[_Standards/WikiData/WD~Sampang,3449115]]'
+- '[[_Standards/WikiData/WD~Athpare,3449126]]'
+- '[[_Standards/WikiData/WD~Dura,3449842]]'
+- '[[_Standards/WikiData/WD~Dhanwar_Rai,3522797]]'
+- '[[_Standards/WikiData/WD~Palpa,3832956]]'
+- '[[_Standards/WikiData/WD~Nepali_Sign_Language,3915492]]'
+- '[[_Standards/WikiData/WD~Chantyal,4926344]]'
+- '[[_Standards/WikiData/WD~Nar_Phu,4926353]]'
+- '[[_Standards/WikiData/WD~Central_Tibetan,5061915]]'
+- '[[_Standards/WikiData/WD~Chepang,5091700]]'
+- '[[_Standards/WikiData/WD~Chulung,5116126]]'
+- '[[_Standards/WikiData/WD~Jhankot_Sign_Language,6190889]]'
+- '[[_Standards/WikiData/WD~Jumla_Sign_Language,6310991]]'
+- '[[_Standards/WikiData/WD~Jumli_Khas,6310993]]'
+- '[[_Standards/WikiData/WD~Kayort,6380675]]'
+- '[[_Standards/WikiData/WD~Koi,6426194]]'
+- '[[_Standards/WikiData/WD~Kulung,6443304]]'
+- '[[_Standards/WikiData/WD~Kutang,6448337]]'
+- '[[_Standards/WikiData/WD~Lambichhong,6481472]]'
+- '[[_Standards/WikiData/WD~Lohorung,6668040]]'
+- '[[_Standards/WikiData/WD~Lumba-Yakkha,6703050]]'
+- '[[_Standards/WikiData/WD~Majhi,6737786]]'
+- '[[_Standards/WikiData/WD~Manang,6746900]]'
+- '[[_Standards/WikiData/WD~Mugom,6932210]]'
+- '[[_Standards/WikiData/WD~Musasa,6940122]]'
+- '[[_Standards/WikiData/WD~Nachering,6957144]]'
+- '[[_Standards/WikiData/WD~Raji,7286138]]'
+- '[[_Standards/WikiData/WD~Raute,7296262]]'
+- '[[_Standards/WikiData/WD~Saam,7395644]]'
+- '[[_Standards/WikiData/WD~Thakali,7709348]]'
+- '[[_Standards/WikiData/WD~Thangmi,7710314]]'
+- '[[_Standards/WikiData/WD~Tilung,7803037]]'
+- '[[_Standards/WikiData/WD~Vayu,7917585]]'
+- '[[_Standards/WikiData/WD~Waling,7961957]]'
+- '[[_Standards/WikiData/WD~Bote-Majhi,9229570]]'
+- '[[_Standards/WikiData/WD~Kaike,10951226]]'
+- '[[_Standards/WikiData/WD~Naaba,11883865]]'
+- '[[_Standards/WikiData/WD~Chukwa,12629033]]'
+- '[[_Standards/WikiData/WD~Dolpo,12629969]]'
+- '[[_Standards/WikiData/WD~Rajbanshi,12640969]]'
+- '[[_Standards/WikiData/WD~Southern_Ghale,12952453]]'
+- '[[_Standards/WikiData/WD~Kagate,12952538]]'
+- '[[_Standards/WikiData/WD~Sheshi_Kham,12952622]]'
+- '[[_Standards/WikiData/WD~Kyirong,12952691]]'
+- '[[_Standards/WikiData/WD~Southern_Lorung,12952742]]'
+- '[[_Standards/WikiData/WD~Lowa,12952744]]'
+- '[[_Standards/WikiData/WD~Eastern_Magar,12952758]]'
+- '[[_Standards/WikiData/WD~Eastern_Meohang,12952840]]'
+- '[[_Standards/WikiData/WD~Nubri,12952969]]'
+- '[[_Standards/WikiData/WD~Eastern_Parbate_Kham,12953022]]'
+- '[[_Standards/WikiData/WD~Phangduwali,12953036]]'
+- '[[_Standards/WikiData/WD~Eastern_Gorkha_Tamang,12953175]]'
+- '[[_Standards/WikiData/WD~Western_Tamang,12953178]]'
+- '[[_Standards/WikiData/WD~Eastern_Tamang,12953177]]'
+- '[[_Standards/WikiData/WD~Tsum,12953223]]'
+- '[[_Standards/WikiData/WD~Sonha,12953890]]'
+- '[[_Standards/WikiData/WD~Rana_Tharu,12953920]]'
+- '[[_Standards/WikiData/WD~Kumhali,13580783]]'
+- '[[_Standards/WikiData/WD~Lhomi,14240916]]'
+- '[[_Standards/WikiData/WD~Tichurong,15615594]]'
+- '[[_Standards/WikiData/WD~Northwestern_Tamang,15616509]]'
+- '[[_Standards/WikiData/WD~Ghandruk_Sign_Language,15971577]]'
+- '[[_Standards/WikiData/WD~Western_Meohang,17442461]]'
+- '[[_Standards/WikiData/WD~Humla,17588918]]'
+- '[[_Standards/WikiData/WD~Doteli,18415595]]'
+- '[[_Standards/WikiData/WD~Yolmo,19841092]]'
+- '[[_Standards/WikiData/WD~Chitwania_Tharu,22083804]]'
+- '[[_Standards/WikiData/WD~Dangaura_Tharu,22083815]]'
+- '[[_Standards/WikiData/WD~Kathariya_Tharu,22083822]]'
+- '[[_Standards/WikiData/WD~Kochila_Tharu,22083826]]'
+- '[[_Standards/WikiData/WD~Gamale_Kham,22236996]]'
+- '[[_Standards/WikiData/WD~Western_Parbate_Kham,22237017]]'
+- '[[_Standards/WikiData/WD~Western_Magar,22303263]]'
+- '[[_Standards/WikiData/WD~Northern_Ghale,22662104]]'
+- '[[_Standards/WikiData/WD~Thudam,22674828]]'
+- '[[_Standards/WikiData/WD~Walungge,22674847]]'
+- '[[_Standards/WikiData/WD~Seke,30226846]]'
+- '[[_Standards/WikiData/WD~Darai,46995026]]'
+- '[[_Standards/WikiData/WD~Hindi,1568]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Angika,28378]]'
+- '[[_Standards/WikiData/WD~Awadhi,29579]]'
+- '[[_Standards/WikiData/WD~Belhare,32961]]'
+- '[[_Standards/WikiData/WD~Chintang,32994]]'
+- '[[_Standards/WikiData/WD~Bhojpuri,33268]]'
+- '[[_Standards/WikiData/WD~Kusunda,33630]]'
+- '[[_Standards/WikiData/WD~Puma,33736]]'
+- '[[_Standards/WikiData/WD~Nepali,33823]]'
+- '[[_Standards/WikiData/WD~Santali,33965]]'
+- '[[_Standards/WikiData/WD~Newar,33979]]'
+- '[[_Standards/WikiData/WD~Tibetan,34271]]'
+- '[[_Standards/WikiData/WD~Dhimal,35229]]'
+- '[[_Standards/WikiData/WD~Lepcha,35990]]'
+- '[[_Standards/WikiData/WD~Maithili,36109]]'
+- '[[_Standards/WikiData/WD~Sherpa,36612]]'
+- '[[_Standards/WikiData/WD~Dumi,56315]]'
+- '[[_Standards/WikiData/WD~Yamphu,56316]]'
+- '[[_Standards/WikiData/WD~Bhujel,56317]]'
+- '[[_Standards/WikiData/WD~Jerung,56372]]'
+- '[[_Standards/WikiData/WD~Khaling,56381]]'
+- '[[_Standards/WikiData/WD~Bahing,56442]]'
+- '[[_Standards/WikiData/WD~Limbu,56477]]'
+- '[[_Standards/WikiData/WD~Bantawa,56500]]'
+- '[[_Standards/WikiData/WD~Sunwar,56549]]'
+- '[[_Standards/WikiData/WD~Thulung,56553]]'
+- '[[_Standards/WikiData/WD~Yakkha,56666]]'
+- '[[_Standards/WikiData/WD~Wambule,56785]]'
+- '[[_Standards/WikiData/WD~Baram,56804]]'
+- '[[_Standards/WikiData/WD~Jirel,56863]]'
+- '[[_Standards/WikiData/WD~Dungmali,56871]]'
+- '[[_Standards/WikiData/WD~Byangsi,56904]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Nepal,2398928]]'
+different_from: '[[_Standards/WikiData/WD~Nepal,2843253]]'
+head_of_state: '[[_Standards/WikiData/WD~Ram_Chandra_Poudel,3183124]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Nepal_Standard_Time,3297477]]"
-  - "[[_Standards/WikiData/WD~Asia_Kathmandu,63285950]]"
-  - "[[_Standards/WikiData/WD~UTC+05_45,6890]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Nepal,3316598]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Nepal,3896143]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Nepal,5589267]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Nepal,7112372]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Nepal,7644951]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q8065114,8065114]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nepal,11175022]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-public_holiday: "[[_Standards/WikiData/WD~Republic_Day,19671863]]"
+- '[[_Standards/WikiData/WD~Nepal_Standard_Time,3297477]]'
+- '[[_Standards/WikiData/WD~Asia_Kathmandu,63285950]]'
+- '[[_Standards/WikiData/WD~UTC+05_45,6890]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Nepal,3316598]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Nepal,3896143]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Nepal,5589267]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Nepal,7112372]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Nepal,7644951]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8065114,8065114]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nepal,11175022]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+public_holiday: '[[_Standards/WikiData/WD~Republic_Day,19671863]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Koshi_Province,25104008]]"
-  - "[[_Standards/WikiData/WD~Madhesh_Province,25104009]]"
-  - "[[_Standards/WikiData/WD~Lumbini_Province,25104014]]"
-  - "[[_Standards/WikiData/WD~Bagmati_Province,25104015]]"
-  - "[[_Standards/WikiData/WD~Sudurpashchim_Province,25104019]]"
-  - "[[_Standards/WikiData/WD~Gandaki_Province,25104016]]"
-  - "[[_Standards/WikiData/WD~Karnali_Province,25104017]]"
+- '[[_Standards/WikiData/WD~Koshi_Province,25104008]]'
+- '[[_Standards/WikiData/WD~Madhesh_Province,25104009]]'
+- '[[_Standards/WikiData/WD~Lumbini_Province,25104014]]'
+- '[[_Standards/WikiData/WD~Bagmati_Province,25104015]]'
+- '[[_Standards/WikiData/WD~Sudurpashchim_Province,25104019]]'
+- '[[_Standards/WikiData/WD~Gandaki_Province,25104016]]'
+- '[[_Standards/WikiData/WD~Karnali_Province,25104017]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~101,25648794]]"
-  - "[[_Standards/WikiData/WD~100,25648793]]"
-  - "[[_Standards/WikiData/WD~102,25648798]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103885,27103885]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Nepal,30100626]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-lowest_point: "[[_Standards/WikiData/WD~Kechana_Kawal,48839297]]"
-motto: "[[_Standards/WikiData/WD~Mother_and_Motherland_are_Greater_than_Heaven,56686358]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Nepal,97062430]]"
+- '[[_Standards/WikiData/WD~101,25648794]]'
+- '[[_Standards/WikiData/WD~100,25648793]]'
+- '[[_Standards/WikiData/WD~102,25648798]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103885,27103885]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Nepal,30100626]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+lowest_point: '[[_Standards/WikiData/WD~Kechana_Kawal,48839297]]'
+motto: '[[_Standards/WikiData/WD~Mother_and_Motherland_are_Greater_than_Heaven,56686358]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Nepal,97062430]]'
 nominal_GDP:
-  - 36924841430
-  - 40828247302
+- 36924841430
+- 40828247302
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Nepal.svg
 UMLS_CUI: C0027689
 demonym:
-  - Nepalec
-  - Nepalka
-  - نيپالي
-  - نيپالية
-  - نيپاليات
-  - نيپاليين
-  - Neipealach
-  - نيبالي
-  - نيباليون
-  - nepalés
-  - nepalesa
-  - nepalesa
-  - Népalaise
-  - נפאלי
-  - Nepalano
-  - nepalesi
-  - നേപ്പാളി
-  - nepalez
-  - nepalezi
-  - непалец
-  - непалка
-  - непальцы
-  - nepałezi
-  - Nepalänan
-  - Nepali
-  - নেপালী
-  - نيبالية
-  - nepalès
-  - Nepalese
-  - nepalí
-  - Népalais
-  - נפאלית
-  - nepáli
-  - nepalese
-  - nepali
-  - nepaleză
-  - nepałezo
+- Nepalec
+- Nepalka
+- نيپالي
+- نيپالية
+- نيپاليات
+- نيپاليين
+- Neipealach
+- نيبالي
+- نيباليون
+- nepalés
+- nepalesa
+- nepalesa
+- Népalaise
+- נפאלי
+- Nepalano
+- nepalesi
+- നേപ്പാളി
+- nepalez
+- nepalezi
+- непалец
+- непалка
+- непальцы
+- nepałezi
+- Nepalänan
+- Nepali
+- নেপালী
+- نيبالية
+- nepalès
+- Nepalese
+- nepalí
+- Népalais
+- נפאלית
+- nepáli
+- nepalese
+- nepali
+- nepaleză
+- nepałezo
 ISNI: 470276037
 motto_text:
-  - La madre y la patria son más grandes que el cielo
-  - Майка и Родина са по-ценни от царството небесно
-  - Mae Mam a Mamwlad yn Fwy na'r Nefoedd
-  - Mother and Motherland are Greater than Heaven
-  - जननी जन्मभूमिश्च स्वर्गादपि गरीयसी
-  - Once is not enough
+- La madre y la patria son más grandes que el cielo
+- Майка и Родина са по-ценни от царството небесно
+- Mae Mam a Mamwlad yn Fwy na'r Nefoedd
+- Mother and Motherland are Greater than Heaven
+- जननी जन्मभूमिश्च स्वर्गादपि गरीयसी
+- Once is not enough
 MeSH_tree_code: Z01.252.245.782.937
 coordinates_of_southernmost_point: Point(87.266666666 26.366666666)
 coordinate_location: Point(84.0 28.0)
-highest_point: "[[_Standards/WikiData/WD~Mount_Everest,513]]"
+highest_point: '[[_Standards/WikiData/WD~Mount_Everest,513]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-country: "[[_Standards/WikiData/WD~Nepal,837]]"
-capital: "[[_Standards/WikiData/WD~Kathmandu,3037]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: '[[_Standards/WikiData/WD~Nepal,837]]'
+capital: '[[_Standards/WikiData/WD~Kathmandu,3037]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate:
-  - 0
-  - 13
+- 0
+- 13
 marriageable_age: 20
 unemployment_rate: 3
 age_of_majority: 16
 mains_voltage: 230
-official_language: "[[_Standards/WikiData/WD~Nepali,33823]]"
+official_language: '[[_Standards/WikiData/WD~Nepali,33823]]'
 BTI_Status_Index:
-  - 4.6
-  - 4.37
-  - 4.38
-  - 4.45
-  - 4.52
-  - 4.55
-  - 4.74
-  - 5.21
-  - 5.23
+- 4.6
+- 4.37
+- 4.38
+- 4.45
+- 4.52
+- 4.55
+- 4.74
+- 5.21
+- 5.23
 retirement_age: 58
 suicide_rate: 9.8
 total_fertility_rate: 1.93
 Gini_coefficient: 32.8
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.np,43582]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.np,43582]]'
 BTI_Governance_Index:
-  - 3.74
-  - 3.75
-  - 3.98
-  - 4.05
-  - 4.15
-  - 4.16
-  - 4.34
-  - 4.46
-  - 5.02
+- 3.74
+- 3.75
+- 3.98
+- 4.05
+- 4.15
+- 4.16
+- 4.34
+- 4.46
+- 5.02
 Democracy_Index: 4.41
 Inequality_adjusted_Human_Development_Index: 0.449
 Happy_Planet_Index_score: 53.1
@@ -453,16 +808,16 @@ literacy_rate: 59.6
 Human_Development_Index: 0.602
 OmegaWiki_Defined_Meaning: 8373
 birth_rate:
-  - 20.64
-  - 20.165
-  - 20.402
-  - 20.868
+- 20.64
+- 20.165
+- 20.402
+- 20.868
 IAB_code: 1365
 death_rate:
-  - 6.651
-  - 6.871
-  - 7.209
-  - 7.776
+- 6.651
+- 6.871
+- 7.209
+- 7.776
 life_expectancy: 72.12
 Dewey_Decimal_Classification: 2--5496
 mobile_country_code: 429
@@ -471,13 +826,13 @@ ISO_3166_1_numeric_code: 524
 M49_code: 524
 maritime_identification_digits: 459
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg
-Unicode_character: 🇳🇵
+Unicode_character: "\U0001F1F3\U0001F1F5"
 INSEE_countries_and_foreign_territories_code: 99215
 urban_population:
-  - 6309750
-  - 5810613
-  - 6038773
-  - 6552761
+- 6309750
+- 5810613
+- 6038773
+- 6552761
 number_of_out_of_school_children: 1055237
 ITU_letter_code: NPL
 ISO_3166_1_alpha_3_code: NPL
@@ -490,10 +845,10 @@ GitHub_topic: nepal
 IPA_transcription: nɛˈpɑːl
 Krugosvet_article: strany_mira/NEPAL.html
 hashtag:
-  - नेपाल
-  - Nepal
+- नेपाल
+- Nepal
 Commons_gallery: नेपाल
-short_name: 🇳🇵
+short_name: "\U0001F1F3\U0001F1F5"
 number_of_households: 6666937
 PM20_geo_code: B55
 male_population: 14253551
@@ -501,10 +856,10 @@ female_population: 14911027
 IOC_country_code: NEP
 licence_plate_code: NEP
 rural_population:
-  - 23021883
-  - 23309854
-  - 23725239
-  - 23994819
+- 23021883
+- 23309854
+- 23725239
+- 23994819
 population: 29164578
 native_label: नेपाल
 official_name: नेपाल
@@ -526,11 +881,11 @@ country_calling_code: 977
 Libris_URI: fcrtsp8z0f4309t
 CIVICUS_Monitor_country_entry: nepal
 location:
-  - 27.7
-  - 85.3167
+- 27.7
+- 85.3167
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26985
 isDeleted: false
 confidential: public
@@ -540,18 +895,17 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Nepal
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ne
-  - en
+- ne
+- en
 icon: flag-np
 ---
-
 # [[Nepal]] 
 
 ## [[Nepal]] has Properties...

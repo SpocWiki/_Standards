@@ -1,40 +1,196 @@
 ---
 aliases:
-  - böse
-  - Evil
+- blogis
+- böse
+- Das Böse
+- drwg
+- e ligë
+- Evil
+- Fall
+- gaizki
+- gonosz
+- Illska
+- jahat
+- Kajaatan
+- keburukan
+- kurjus
+- kwaad
+- kötü
+- mal
+- Mal (adjektif)
+- Malajo
+- malbono
+- maldat
+- male
+- malum
+- Maraot
+- Mau
+- małe
+- olc
+- ondska
+- ondskab
+- ondskap
+- pahuus
+- Ratsy
+- rău
+- Shar
+- Uvi
+- vondskap
+- Yomonlik
+- zlo
+- zło
+- ác
+- Ñanqha
+- Ñaña
+- Ļaunums
+- şər
+- κακό
+- зло
+- Куһаҕан
+- Усал
+- Хорон сэтгэл
+- явызлык
+- Яуызлыҡ, уҫаллыҡ, яманлыҡ
+- չարիք
+- רוע
+- שלעכטס
+- خراپە
+- شر
+- অশুভ
+- ਬੁਰਾਈ
+- ความชั่วร้าย
+- უბადობა
+- ᡝᡥᡝ
+- 恶
+- 悪
+- 惡
+- 악
 has_id_wikidata: Q15292
 has_part_s_:
-  - '[[_Standards/WikiData/WD~demon,177413]]'
-  - '[[_Standards/WikiData/WD~Natural_evil,6980674]]'
-  - '[[_Standards/WikiData/WD~Moral_evil,16977284]]'
+- '[[_Standards/WikiData/WD~demon,177413]]'
+- '[[_Standards/WikiData/WD~Natural_evil,6980674]]'
+- '[[_Standards/WikiData/WD~Moral_evil,16977284]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Evil,439616]]'
-  - '[[_Standards/WikiData/WD~apple,89]]'
+- '[[_Standards/WikiData/WD~Evil,439616]]'
+- '[[_Standards/WikiData/WD~apple,89]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~applied_ethics,538733]]'
-  - '[[_Standards/WikiData/WD~normative_ethics,1321845]]'
-  - '[[_Standards/WikiData/WD~metaethics,56003]]'
+- '[[_Standards/WikiData/WD~applied_ethics,538733]]'
+- '[[_Standards/WikiData/WD~normative_ethics,1321845]]'
+- '[[_Standards/WikiData/WD~metaethics,56003]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of: '[[_Standards/WikiData/WD~immorality,3796713]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]'
-  - '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
 has_effect: '[[_Standards/WikiData/WD~suffering,5780945]]'
 part_of: '[[_Standards/WikiData/WD~good_and_evil,10797504]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~darkness,12328138]]'
-  - '[[_Standards/WikiData/WD~badness,19357367]]'
+- '[[_Standards/WikiData/WD~darkness,12328138]]'
+- '[[_Standards/WikiData/WD~badness,19357367]]'
 opposite_of: '[[_Standards/WikiData/WD~good,15290]]'
 PhilPapers_topic: evil
 IMDb_keyword: evil
 OmegaWiki_Defined_Meaning: 1098473
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Inferno%20by%20Herri%20met%20de%20Bles%20%28582x800%29.jpg
 Commons_category: Evil
+dv_has_:
+  name_:
+    af: Kwaad
+    ar: شر
+    ast: Mal
+    ay: Ñanqha
+    az: şər
+    ba: Яуызлыҡ, уҫаллыҡ, яманлыҡ
+    ban: Kajaatan
+    bcl: Maraot
+    be: зло
+    be-tarask: зло
+    bg: Зло
+    bn: অশুভ
+    br: Fall
+    bs: zlo
+    ca: maldat
+    ckb: خراپە
+    cs: zlo
+    cv: Усал
+    cy: drwg
+    da: ondskab
+    de: Das Böse
+    el: κακό
+    en: evil
+    eo: malbono
+    es: mal
+    et: kurjus
+    eu: gaizki
+    fa: شر
+    fi: pahuus
+    fr: mal
+    ga: olc
+    gl: mal
+    gn: Ñaña
+    he: רוע
+    hr: zlo
+    ht: Mal (adjektif)
+    hu: gonosz
+    hy: չարիք
+    id: keburukan
+    io: Malajo
+    is: Illska
+    it: male
+    ja: 悪
+    ko: 악
+    la: malum
+    lt: blogis
+    lv: Ļaunums
+    mg: Ratsy
+    mk: зло
+    mn: Хорон сэтгэл
+    mnc: ᡝᡥᡝ
+    ms: jahat
+    nb: ondskap
+    nl: kwaad
+    nn: vondskap
+    oc: Mau
+    pa: ਬੁਰਾਈ
+    pcd: Mau
+    pl: zło
+    pt: mal
+    ro: rău
+    ru: зло
+    sah: Куһаҕан
+    sh: Zlo
+    sk: zlo
+    sl: zlo
+    sn: Uvi
+    so: Shar
+    sq: e ligë
+    sr: зло
+    sv: ondska
+    th: ความชั่วร้าย
+    tr: kötü
+    tt: явызлык
+    tt-cyrl: явызлык
+    uk: зло
+    uz: Yomonlik
+    vec: małe
+    vi: ác
+    wuu: 恶
+    xmf: უბადობა
+    yi: שלעכטס
+    yue: 惡
+    zh: 惡
+    zh-cn: 恶
+    zh-hans: 恶
+    zh-hant: 惡
+    zh-hk: 惡
+    zh-mo: 惡
+    zh-my: 恶
+    zh-sg: 恶
+    zh-tw: 惡
 ---
-
 # [[Evil]] 
 
 #has_/complement :: [[Good]] 

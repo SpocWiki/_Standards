@@ -1,14 +1,74 @@
 ---
 aliases:
-  - Mathematical optimization
-  - Mathematical optimisation
-  - mathematical programming
-  - Optimization(Math)
+- Hoberenatze
+- matemaattinen optimointi
+- matematihkalaš optimeren
+- matematikai optimalizálás
+- Matematikal na optimisasyon
+- matematisk optimering
+- matematična optimizacija
+- Matematïkalıq optïmïzacïya
+- mathemateg optimeiddiol
+- Mathematical optimisation
+- Mathematical optimization
+- mathematical programming
+- optamú matamaiticiúil
+- optimalizace
+- Optimalizácia
+- Optimallaşdırma
+- optimeringslära
+- Optimierung
+- Optimisasi
+- optimisation
+- optimització matemàtica
+- Optimizacija
+- optimización
+- optimización matemática
+- Optimizare
+- Optimizasyon
+- Optimizasyon (matématik)
+- Optimization(Math)
+- optimizavimas
+- optimumigo
+- optymalizacja
+- otimizasion matemàtega
+- otimização
+- ottimizzazione
+- oптимизација
+- Pengoptimuman
+- thjeshtëzim matematikor
+- tối ưu hóa toán học
+- wiskundige optimalisatie
+- Βελτιστοποίηση
+- аптымізацыя
+- математик оптимизация
+- Математикалық оптимизация
+- оптимізація
+- оптималләштереү
+- оптимизација
+- оптимизация
+- Оптимиране
+- Մաթեմատիկական օպտիմիզացիա
+- Ուսողական Ծրագրաւորում
+- אופטימיזציה
+- استمثال
+- بهینهسازی
+- ماتەماتىيكالىق وپتىيمىيزاتسىييا
+- کاملیت
+- इष्टतमकरण
+- গাণিতিক অনুকূলকরণ
+- การหาค่าเหมาะที่สุด
+- ການຊອກຄ່າເໝາະສົມ
+- 数理最適化
+- 最优化
+- 最佳化
+- 수학적 최적화
+- 최량화방법
 has_id_wikidata: Q141495
 is_the_study_of: '[[_Standards/WikiData/WD~optimization_problem,984063]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~mathematical_programming,10578306]]'
-  - '[[_Standards/WikiData/WD~optimization,24476018]]'
+- '[[_Standards/WikiData/WD~mathematical_programming,10578306]]'
+- '[[_Standards/WikiData/WD~optimization,24476018]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 part_of: '[[_Standards/WikiData/WD~algorithmics,13636890]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Major_subfields_of_optimization,20352240]]'
@@ -18,8 +78,88 @@ studied_by: '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
 OmegaWiki_Defined_Meaning: 687670
 Commons_category: Optimization
 Library_of_Congress_Classification: QA402.5-QA402.6
+dv_has_:
+  name_:
+    ar: استمثال
+    az: Optimallaşdırma
+    ba: оптималләштереү
+    be: аптымізацыя
+    be-tarask: аптымізацыя
+    bg: Оптимиране
+    bn: গাণিতিক অনুকূলকরণ
+    ca: optimització matemàtica
+    cs: optimalizace
+    cy: mathemateg optimeiddiol
+    da: matematisk optimering
+    de: Optimierung
+    el: Βελτιστοποίηση
+    en: mathematical optimization
+    en-gb: mathematical optimisation
+    eo: optimumigo
+    es: optimización
+    eu: Hoberenatze
+    fa: بهینهسازی
+    fi: matemaattinen optimointi
+    fr: optimisation
+    ga: optamú matamaiticiúil
+    gcr: Optimizasyon (matématik)
+    gl: optimización matemática
+    he: אופטימיזציה
+    hi: इष्टतमकरण
+    hr: Optimizacija
+    hu: matematikai optimalizálás
+    hy: Մաթեմատիկական օպտիմիզացիա
+    hyw: Ուսողական Ծրագրաւորում
+    id: Optimisasi
+    it: ottimizzazione
+    ja: 数理最適化
+    kk: Математикалық оптимизация
+    kk-arab: ماتەماتىيكالىق وپتىيمىيزاتسىييا
+    kk-cn: ماتەماتىيكالىق وپتىيمىيزاتسىييا
+    kk-cyrl: Математикалық оптимизация
+    kk-kz: Математикалық оптимизация
+    kk-latn: Matematïkalıq optïmïzacïya
+    kk-tr: Matematïkalıq optïmïzacïya
+    ko: 수학적 최적화
+    ko-kp: 최량화방법
+    lo: ການຊອກຄ່າເໝາະສົມ
+    lt: optimizavimas
+    mk: оптимизација
+    ms: Pengoptimuman
+    nb: matematisk optimering
+    nl: wiskundige optimalisatie
+    nn: matematisk optimering
+    pl: optymalizacja
+    pt: otimização
+    pt-br: otimização
+    ro: Optimizare
+    ru: оптимизация
+    se: matematihkalaš optimeren
+    sk: Optimalizácia
+    sl: matematična optimizacija
+    sq: thjeshtëzim matematikor
+    sr: oптимизација
+    sr-ec: Оптимизација
+    sr-el: Optimizacija
+    su: Optimisasi
+    sv: optimeringslära
+    th: การหาค่าเหมาะที่สุด
+    tl: Matematikal na optimisasyon
+    tr: Optimizasyon
+    tt: математик оптимизация
+    uk: оптимізація
+    ur: کاملیت
+    vec: otimizasion matemàtega
+    vi: tối ưu hóa toán học
+    yue: 最佳化
+    zh: 最优化
+    zh-cn: 最优化
+    zh-hans: 最优化
+    zh-hant: 最佳化
+    zh-hk: 最佳化
+    zh-sg: 最优化
+    zh-tw: 最佳化
 ---
-
 # [[Optimization(Math)]] 
 
 #is_/same_as :: [[WD~Mathematical_optimization,141495]] 

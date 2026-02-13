@@ -1,27 +1,200 @@
 ---
 aliases:
-  - Activism
+- Activism
+- activisme
+- activismo
+- activismu
+- activismus
+- Aktibismo
+- aktivism
+- aktivisma
+- aktivisme
+- aktivismi
+- aktivismm
+- Aktivismo
+- Aktivismus
+- aktivissma
+- Aktivist
+- aktivizam
+- aktivizem
+- aktivizm
+- aktivizmus
+- aktivizëm
+- aktiwizm
+- aktyvizmas
+- aktywizm
+- aktîvîzm
+- aktīvisms
+- ativisme
+- Ativismo
+- attivismo
+- Aðgerðastefna
+- gníomhaíochas
+- Harakati
+- hoạt động xã hội
+- Hushingairi
+- Hêng-tōng Chú-gī
+- Hîng-tōng Tsú-gī
+- Iomairteachd
+- militantisme
+- sheerloayrtys
+- Stourmerezh
+- ακτιβισμός
+- активізм
+- активизам
+- Активизм
+- Активизъм
+- актывізм
+- гражданский активизм
+- ակտիվիզմ
+- אקטיביזם
+- اکتيۏيسمى
+- فعالیت پسندی
+- نشاط
+- نشاطية
+- کنشگری
+- ھەڵسووڕاوی
+- सक्रियतावाद
+- সক্রিয়তাবাদ
+- ਐਕਟਿਵਿਜ਼ਮ
+- செயற்பாட்டியம்
+- คตินิยมการมีส่วนร่วม
+- တက်ကြွထက်သန်သူများ
+- 倡議行動
+- 積極行動主義
+- 行动主义
+- 行動主義
+- 활동주의
 has_id_wikidata: Q203764
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~occupation,12737077]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_engagement,1283504]]"
-  - "[[_Standards/WikiData/WD~advocacy,2509280]]"
+- '[[_Standards/WikiData/WD~social_engagement,1283504]]'
+- '[[_Standards/WikiData/WD~advocacy,2509280]]'
 part_of:
-  - "[[_Standards/WikiData/WD~civic_engagement,4116870]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12097912,12097912]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-practiced_by: "[[_Standards/WikiData/WD~activist,15253558]]"
-different_from: "[[_Standards/WikiData/WD~political_activism,19890758]]"
+- '[[_Standards/WikiData/WD~civic_engagement,4116870]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12097912,12097912]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+practiced_by: '[[_Standards/WikiData/WD~activist,15253558]]'
+different_from: '[[_Standards/WikiData/WD~political_activism,19890758]]'
 social_media_followers: 12400
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenpeacebelomonte.jpg
 IMDb_keyword: activism
 subreddit: activism
 Commons_category: Activism
+dv_has_:
+  name_:
+    ar: نشاطية
+    arz: نشاط
+    ast: activismu
+    az: aktivizm
+    bcl: Aktibismo
+    be: актывізм
+    be-tarask: актывізм
+    bg: Активизъм
+    bn: সক্রিয়তাবাদ
+    br: Stourmerezh
+    bs: aktivizam
+    ca: activisme
+    ckb: ھەڵسووڕاوی
+    cs: aktivismus
+    da: aktivisme
+    de: Aktivismus
+    de-at: Aktivismus
+    de-ch: Aktivismus
+    el: ακτιβισμός
+    en: activism
+    en-ca: Activism
+    en-gb: activism
+    eo: aktivismo
+    es: activismo
+    et: aktivism
+    eu: aktibismo
+    fa: کنشگری
+    fi: aktivismi
+    fr: militantisme
+    fy: Aktivisme
+    ga: gníomhaíochas
+    gd: Iomairteachd
+    gl: activismo
+    gsw: Aktivist
+    gv: sheerloayrtys
+    he: אקטיביזם
+    hi: सक्रियतावाद
+    hr: Aktivizam
+    hsb: aktiwizm
+    hu: aktivizmus
+    hy: ակտիվիզմ
+    ia: Activismo
+    id: Aktivisme
+    io: Aktivismo
+    is: Aðgerðastefna
+    it: attivismo
+    ja: 積極行動主義
+    ko: 활동주의
+    ku: aktîvîzm
+    ku-latn: aktîvîzm
+    ky: Активизм
+    la: activismus
+    lb: Aktivismus
+    lfn: ativisme
+    lt: aktyvizmas
+    lv: aktīvisms
+    mk: активизам
+    ms: aktivisme
+    ms-arab: اکتيۏيسمى
+    my: တက်ကြွထက်သန်သူများ
+    nan: Hêng-tōng Chú-gī
+    nan-hani: 行動主義
+    nan-hant: 行動主義
+    nan-latn-pehoeji: Hêng-tōng Chú-gī
+    nan-latn-tailo: Hîng-tōng Tsú-gī
+    nb: aktivisme
+    nl: activisme
+    nn: Aktivisme
+    pa: ਐਕਟਿਵਿਜ਼ਮ
+    pap: aktivismo
+    pap-aw: activismo
+    pl: aktywizm
+    pt: Ativismo
+    pt-br: Ativismo
+    rmy: Aktivismo
+    ro: activism
+    ru: гражданский активизм
+    se: aktivisma
+    sh: aktivizam
+    sje: aktivissma
+    sk: aktivizmus
+    sl: aktivizem
+    sma: aktivisme
+    smj: aktivissma
+    smn: aktivism
+    sms: aktivismm
+    sn: Hushingairi
+    sq: aktivizëm
+    sr: активизам
+    sr-ec: активизам
+    sr-el: aktivizam
+    sv: aktivism
+    sw: Harakati
+    ta: செயற்பாட்டியம்
+    th: คตินิยมการมีส่วนร่วม
+    tl: Aktibismo
+    tr: aktivizm
+    uk: активізм
+    ur: فعالیت پسندی
+    uz: Aktivizm
+    vec: ativismo
+    vi: hoạt động xã hội
+    yue: 倡議行動
+    zh: 行动主义
+    zh-cn: 行动主义
+    zh-hans: 行动主义
+    zh-hant: 行動主義
+    zh-tw: 行動主義
 ---
-
 # [[Activism]] 
 
 #is_/same_as :: [[../WikiData/WD~Activism,203764]] 

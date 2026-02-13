@@ -1,23 +1,128 @@
 ---
 aliases:
+- afecte
+- afectivitate
+- afecto
+- Afehtiviá
+- Afekat
+- afekcio
+- afekt
+- afektas
+- Afektivita
+- Afektivitas
+- Afeto (psicologia)
+- affect
+- affectivité
+- Affek
+- affekt
+- Affekt (psixologiya)
+- affekti
+- Affektïvti
+- affetto
+- duygulanım
+- Ndikimi (psikologji)
+- Saamaynta
+- tác động
+- érzelmi jelenség
+- επίδραση
+- афект
+- аффект
+- Аффект (психологи)
+- Аффективті
+- афэкт
+- Աֆեկտ
+- אפקט
+- اففەكتىيۆتى
+- هناخت
+- وجدان
+- भाव (मनोविज्ञान)
+- აფექტი
+- 主觀情感
+- 情動
+- 情感
+- 정동
 has_id_wikidata: Q159904
 subclass_of:
-  - "[[../../WikiData/WD~feeling,205555]]"
-  - "[[_Standards/WikiData/WD~pattern,2083958]]"
-  - "[[_Standards/WikiData/WD~emotion,9415]]"
+- '[[../../WikiData/WD~feeling,205555]]'
+- '[[_Standards/WikiData/WD~pattern,2083958]]'
+- '[[_Standards/WikiData/WD~emotion,9415]]'
 different_from:
-  - "[[_Standards/WikiData/WD~affection,1124198]]"
-  - "[[_Standards/WikiData/WD~pseudobulbar_affect,3508789]]"
+- '[[_Standards/WikiData/WD~affection,1124198]]'
+- '[[_Standards/WikiData/WD~pseudobulbar_affect,3508789]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~psychology_concept,96634632]]"
-facet_of: "[[_Standards/WikiData/WD~emotion,9415]]"
-Dewey_Decimal_Classification: "152.4"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+facet_of: '[[_Standards/WikiData/WD~emotion,9415]]'
+Dewey_Decimal_Classification: 152.4
 MeSH_tree_code: F01.470.047
 Colon_Classification: S:53
+dv_has_:
+  name_:
+    af: Affek
+    ar: وجدان
+    arz: وجدان
+    az: Affekt
+    be: афект
+    be-tarask: афэкт
+    bg: Афект
+    ca: afecte
+    cs: afekt
+    cv: Аффект (психологи)
+    da: affekt
+    de: Affekt
+    el: επίδραση
+    en: affect
+    eo: afekcio
+    es: afecto
+    et: Afekt
+    ext: Afehtiviá
+    fa: هناخت
+    fi: affekti
+    fr: affectivité
+    gl: afecto
+    gsw: Affekt
+    he: אפקט
+    hi: भाव (मनोविज्ञान)
+    hu: érzelmi jelenség
+    hy: Աֆեկտ
+    id: Afektivitas
+    it: affetto
+    ja: 情動
+    ka: აფექტი
+    kk: Аффективті
+    kk-arab: اففەكتىيۆتى
+    kk-cn: اففەكتىيۆتى
+    kk-cyrl: Аффективті
+    kk-kz: Аффективті
+    kk-latn: Affektïvti
+    kk-tr: Affektïvti
+    ko: 정동
+    lt: afektas
+    mk: Афект
+    nb: affekt
+    nl: affect
+    pl: afekt
+    pt: Afeto (psicologia)
+    ro: afectivitate
+    ru: аффект
+    sh: Afekat
+    sk: Afektivita
+    sl: afekt
+    so: Saamaynta
+    sq: Ndikimi (psikologji)
+    sr: афект
+    sr-ec: Афект
+    sr-el: Afekt
+    sv: affekt
+    tr: duygulanım
+    uk: афект
+    uz: Affekt (psixologiya)
+    vi: tác động
+    yue: 主觀情感
+    zh: 情感
+    zh-hant: 情感
 ---
-
 # [[Affect]]
 
 #is_/same_as :: [[../../WikiData/WD~affect,159904]] 

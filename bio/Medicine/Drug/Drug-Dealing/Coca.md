@@ -1,8 +1,52 @@
 ---
 has_id_wikidata: Q66793593
+dv_has_:
+  name_:
+    ar: كوكا
+    be-tarask: кока
+    bg: Кока
+    ca: coca
+    de: Kokapflanze
+    el: κόκα
+    en: coca plant
+    eo: kokao
+    es: planta de la coca
+    fa: کوکا
+    fr: Coca
+    he: קוקה
+    id: Koka
+    ja: コカ
+    jv: Koka
+    kk: Кока
+    ko: 코카
+    oc: Còca (planta)
+    pt: Coca
+    ru: кока
+    sl: rastlina koke
+    su: Koka
+    uz: Koka o'simligi
+    vi: Côca (cây)
+    zh: 古柯
+aliases:
+- Coca
+- coca plant
+- Còca (planta)
+- Côca (cây)
+- Koka
+- Koka o'simligi
+- kokao
+- Kokapflanze
+- planta de la coca
+- rastlina koke
+- κόκα
+- кока
+- קוקה
+- كوكا
+- کوکا
+- コカ
+- 古柯
+- 코카
 ---
-
-
 # [[Coca]] 
 
 #has_/created :: [[Cocaine]] 

@@ -1,8 +1,115 @@
 ---
 aliases:
-  - Saxifragales
+- Bộ Tai hùm
+- Daşdələnçiçəklilər
+- Kamenikolike
+- kamnokrečevci
+- Kivirikulaadsed
+- Koma berbiran
+- kőtörőfű-virágúak
+- lomikamenotvaré
+- lomikameňotvaré
+- Saksifragaloj
+- Saxifragales
+- Saxifragals
+- sildreordenen
+- skalnicowce
+- Steinbrechartige
+- stenbräckeordningen
+- stenbræk-ordenen
+- Σαξιφραγκώδη
+- каменоломковидни
+- каменоломкоцветни
+- Каменяломнікакветныя
+- камнеломкоцветные
+- Ломикаменецвіті
+- քարբեկածաղկավորներ
+- בקעצוראים
+- خاراشکنسانان
+- كاسريات الحجر
+- อันดับอัสดง
+- ユキノシタ目
+- 虎耳草目
+- 범의귀목
 title: Saxifragales
 has_id_wikidata: Q21855
+dv_has_:
+  name_:
+    af: Saxifragales
+    an: Saxifragales
+    ar: كاسريات الحجر
+    arz: كاسريات الحجر
+    ast: Saxifragales
+    az: Daşdələnçiçəklilər
+    be: Каменяломнікакветныя
+    be-tarask: Каменяломнікакветныя
+    bg: каменоломкоцветни
+    bs: Saxifragales
+    ca: Saxifragals
+    ceb: Saxifragales
+    cs: lomikamenotvaré
+    da: stenbræk-ordenen
+    de: Steinbrechartige
+    el: Σαξιφραγκώδη
+    en: Saxifragales
+    en-ca: Saxifragales
+    en-gb: Saxifragales
+    eo: Saksifragaloj
+    es: Saxifragales
+    et: Kivirikulaadsed
+    eu: Saxifragales
+    ext: Saxifragales
+    fa: خاراشکنسانان
+    fi: Saxifragales
+    fr: Saxifragales
+    frr: Saxifragales
+    ga: Saxifragales
+    gl: Saxifragales
+    he: בקעצוראים
+    hr: Kamenikolike
+    hu: kőtörőfű-virágúak
+    hy: քարբեկածաղկավորներ
+    ia: Saxifragales
+    id: Saxifragales
+    ie: Saxifragales
+    io: Saxifragales
+    it: Saxifragales
+    ja: ユキノシタ目
+    ko: 범의귀목
+    ku: Koma berbiran
+    la: Saxifragales
+    lmo: Saxifragales
+    lt: Saxifragales
+    mk: каменоломковидни
+    mul: Saxifragales
+    nb: sildreordenen
+    nl: Saxifragales
+    nn: Sildreordenen
+    oc: Saxifragales
+    pl: skalnicowce
+    pt: Saxifragales
+    pt-br: Saxifragales
+    ro: Saxifragales
+    ru: камнеломкоцветные
+    sco: Saxifragales
+    sh: Saxifragales
+    sk: lomikameňotvaré
+    sl: kamnokrečevci
+    sq: Saxifragales
+    sr: Saxifragales
+    sv: stenbräckeordningen
+    th: อันดับอัสดง
+    uk: Ломикаменецвіті
+    vi: Bộ Tai hùm
+    vls: Saxifragales
+    vo: Saxifragales
+    war: Saxifragales
+    yue: 虎耳草目
+    zh: 虎耳草目
+    zh-cn: 虎耳草目
+    zh-hans: 虎耳草目
+    zh-hant: 虎耳草目
+    zh-tw: 虎耳草目
 ---
 # [[Saxifragales]]  
 

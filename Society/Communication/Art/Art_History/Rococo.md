@@ -1,32 +1,60 @@
 ---
-has_time_started: 1730-01-01 
-has_time_stopped: 1780-01-01 
+has_time_started: 1730-01-01
+has_time_stopped: 1780-01-01
 aliases:
-  - Late Baroque
-  - Roccoco
-  - Rococo
+- Genus conchatum
+- Late Baroque
+- Roccoco
+- Rococo
+- rococò
+- Rococó
+- Rocócó
+- Rokokas
+- rokokko
+- rokoko
+- Rokokoo
+- rokokó
+- Rókokó
+- Stîle rococo
+- wokoko
+- Ροκοκό
+- ракако
+- Рококо
+- ռոկոկկո
+- Ռոքոքօ ոճ
+- רוקוקו
+- روكوكو
+- روکوکو
+- رکوکو
+- रोकोको कला
+- ਰੋਕੋਕੋ
+- โรโกโก
+- როკოკო
+- ロココ
+- 洛可可
+- 로코코
 has_id_wikidata: Q122960
 manner_of:
-  - '[[_Standards/WikiData/WD~motion,79782]]'
-  - '[[_Standards/WikiData/WD~color,1075]]'
+- '[[_Standards/WikiData/WD~motion,79782]]'
+- '[[_Standards/WikiData/WD~color,1075]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~interior_design,179232]]'
-  - '[[_Standards/WikiData/WD~decoration,2520975]]'
-  - '[[_Standards/WikiData/WD~costume,9053464]]'
-  - '[[_Standards/WikiData/WD~music,638]]'
-  - '[[_Standards/WikiData/WD~literature,8242]]'
-  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
-  - '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
-  - '[[_Standards/WikiData/WD~theatre_art,11635]]'
-  - '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~interior_design,179232]]'
+- '[[_Standards/WikiData/WD~decoration,2520975]]'
+- '[[_Standards/WikiData/WD~costume,9053464]]'
+- '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+- '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+- '[[_Standards/WikiData/WD~theatre_art,11635]]'
+- '[[_Standards/WikiData/WD~architecture,12271]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 subclass_of: '[[_Standards/WikiData/WD~Baroque_art,3624106]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 start_time: 1730-01-01T00:00:00Z
@@ -36,8 +64,103 @@ Commons_gallery: Rococo
 Commons_category: Rococo art
 OpenStreetMap_tag: Tag:building:architecture=rococo
 end_time: 1780-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Rococo
+    ar: روكوكو
+    arz: روكوكو
+    ast: Rococó
+    az: rokoko
+    be: ракако
+    be-tarask: ракако
+    bg: Рококо
+    bs: Rokoko
+    ca: rococó
+    cs: rokoko
+    cv: Рококо
+    cy: Rococo
+    da: Rokoko
+    de: Rokoko
+    el: Ροκοκό
+    en: Rococo
+    en-gb: Rococo
+    eo: Rokoko
+    es: Rococó
+    et: Rokokoo
+    eu: Rokoko
+    fa: روکوکو
+    fi: rokokoo
+    fr: rococo
+    frp: Rococo
+    fy: Rokoko
+    ga: Rocócó
+    gl: Rococó
+    gom: रोकोको कला
+    gsw: Rokoko
+    he: רוקוקו
+    hr: Rokoko
+    ht: wokoko
+    hu: rokokó
+    hy: ռոկոկկո
+    hyw: Ռոքոքօ ոճ
+    id: rokoko
+    io: Rokoko
+    is: Rókokó
+    it: rococò
+    ja: ロココ
+    jv: Rokoko
+    ka: როკოკო
+    kk: Рококо
+    ko: 로코코
+    ky: Рококо
+    la: Genus conchatum
+    lb: Rokoko
+    li: Rococo
+    lt: Rokokas
+    ltg: Rokoko
+    lv: rokoko
+    mk: рококо
+    ms: rokoko
+    mt: Rococò
+    nb: rokokko
+    nds-nl: rokoko
+    nl: rococo
+    nn: rokokko
+    oc: Rococo
+    os: рококо
+    pa: ਰੋਕੋਕੋ
+    pl: rokoko
+    pnb: رکوکو
+    ps: روکوکو
+    pt: rococó
+    pt-br: rococó
+    ro: Rococo
+    ru: рококо
+    sh: rokoko
+    sk: Rokoko
+    sl: rokoko
+    sr: рококо
+    sr-ec: рококо
+    sr-el: rokoko
+    stq: Rokoko
+    sv: rokoko
+    th: โรโกโก
+    tl: Rococo
+    tr: rokoko
+    uk: рококо
+    vi: Rococo
+    wa: Stîle rococo
+    war: Rococo
+    wuu: 洛可可
+    yue: 洛可可
+    zh: 洛可可
+    zh-cn: 洛可可
+    zh-hans: 洛可可
+    zh-hant: 洛可可
+    zh-hk: 洛可可
+    zh-sg: 洛可可
+    zh-tw: 洛可可
 ---
-
 # [[Rococo]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Rococo,122960|WD~Rococo,122960]] 

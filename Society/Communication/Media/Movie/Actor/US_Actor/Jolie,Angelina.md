@@ -1,8 +1,218 @@
 ---
 aliases:
-  - Angelina Jolie
-  - Jolie,Angelina
+- Ancelina Coli
+- Andželīna Džolija
+- Angelina Jolie
+- Anjelina Joli
+- Ančelina Čoli
+- Jolie,Angelina
+- Αντζελίνα Τζολί
+- Анџелина Џоли
+- Анджеліна Джолі
+- Анджелина Джоли
+- Анджэліна Джалі
+- Анжелина Жоли
+- Анҷелина Ҷолӣ
+- Անժելինա Ճոլի
+- Անջելինա Ջոլի
+- אנג'לינה ג'ולי
+- אנזשאלינא זשאולי
+- آنجلینا جولی
+- أنجلينا جولى
+- أنجلينا جولي
+- ئەنجلینا جۆولی
+- انجلينا جولي
+- انجلینا جولی
+- اينجلينا جولي
+- ایٚنجلینا جولی
+- ܐܢܓܠܝܢܐ ܓܘܠܝ
+- अँजेलिना जोली
+- एंजेलिना जोली
+- एन्जेलिना जोली
+- অ্যাঞ্জেলিনা জোলি
+- এঞ্জেলিনা জলি
+- ਅਨਜਲੀਨਾ ਜੋਲੀ
+- ଆଞ୍ଜେଲିନା ଜୋଲି
+- ஏஞ்சலினா ஜோலி
+- ఏంజలీనా జోలీ
+- ಏಂಜೆಲಿನಾ ಜೋಲೀ
+- ആഞ്ചലീന ജോളി
+- ඇන්ජලීනා ජොලී
+- แอนเจลีนา โจลี
+- ཨན་ཇེ་ལི་ནའ་ཇོའོ་ལི།
+- အင်ဂျလီနာ ဂျိုလီ
+- ანჯელინა ჯოლი
+- អែន ជេ លីណា ចូលី
+- ᱟᱧᱡᱮᱞᱤᱱᱟ ᱡᱳᱞᱤ
+- アンジェリーナ・ジョリー
+- 安吉丽娜
+- 安吉丽娜·卓莉
+- 安吉丽娜·朱莉
+- 安吉麗娜·朱莉
+- 安潔莉娜·裘莉
+- 安祖莲娜·祖莉
+- 安祖蓮娜祖莉
+- ꯑꯦꯟꯖꯦꯂꯤꯅꯥ ꯖꯣꯂꯤ
+- 안젤리나 졸리
 has_id_wikidata: Q13909
+dv_has_:
+  name_:
+    ace: Angelina Jolie
+    af: Angelina Jolie
+    an: Angelina Jolie
+    ar: أنجلينا جولي
+    arc: ܐܢܓܠܝܢܐ ܓܘܠܝ
+    arz: أنجلينا جولى
+    as: এঞ্জেলিনা জলি
+    ast: Angelina Jolie
+    az: Ancelina Coli
+    azb: آنجلینا جولی
+    bcl: Angelina Jolie
+    be: Анджэліна Джалі
+    be-tarask: Анджэліна Джалі
+    bg: Анджелина Джоли
+    bn: অ্যাঞ্জেলিনা জোলি
+    bo: ཨན་ཇེ་ལི་ནའ་ཇོའོ་ལི།
+    br: Angelina Jolie
+    bs: Angelina Jolie
+    ca: Angelina Jolie
+    cbk-zam: Angelina Jolie
+    ce: Анджелина Джоли
+    ceb: Angelina Jolie
+    ckb: ئەنجلینا جۆولی
+    cs: Angelina Jolie
+    csb: Angelina Jolie
+    cv: Анджелина Джоли
+    cy: Angelina Jolie
+    da: Angelina Jolie
+    de: Angelina Jolie
+    de-ch: Angelina Jolie
+    diq: Angelina Jolie
+    dtp: Angelina Jolie
+    dty: एन्जेलिना जोली
+    el: Αντζελίνα Τζολί
+    eml: Angelina Jolie
+    en: Angelina Jolie
+    en-ca: Angelina Jolie
+    en-gb: Angelina Jolie
+    eo: Angelina Jolie
+    es: Angelina Jolie
+    et: Angelina Jolie
+    eu: Angelina Jolie
+    fa: آنجلینا جولی
+    fi: Angelina Jolie
+    fo: Angelina Jolie
+    fr: Angelina Jolie
+    fy: Angelina Jolie
+    ga: Angelina Jolie
+    gl: Angelina Jolie
+    gom: Angelina Jolie
+    gsw: Angelina Jolie
+    ha: Angelina Jolie
+    haw: Angelina Jolie
+    he: אנג'לינה ג'ולי
+    hi: एंजेलिना जोली
+    hr: Angelina Jolie
+    hu: Angelina Jolie
+    hy: Անջելինա Ջոլի
+    hyw: Անժելինա Ճոլի
+    ia: Angelina Jolie
+    id: Angelina Jolie
+    ig: Angelina Jolie
+    ilo: Angelina Jolie
+    io: Angelina Jolie
+    is: Angelina Jolie
+    it: Angelina Jolie
+    ja: アンジェリーナ・ジョリー
+    jv: Angelina Jolie
+    ka: ანჯელინა ჯოლი
+    kaa: Angelina Jolie
+    kk: Анджелина Джоли
+    km: អែន ជេ លីណា ចូលី
+    kn: ಏಂಜೆಲಿನಾ ಜೋಲೀ
+    ko: 안젤리나 졸리
+    ks: ایٚنجلینا جولی
+    ku: Angelina Jolie
+    ky: Анжелина Жоли
+    la: Angelina Jolie
+    lb: Angelina Jolie
+    lt: Angelina Jolie
+    lv: Andželīna Džolija
+    mai: एन्जेलिना जोली
+    mg: Angelina Jolie
+    mk: Анџелина Џоли
+    ml: ആഞ്ചലീന ജോളി
+    mn: Анжелина Жоли
+    mni: ꯑꯦꯟꯖꯦꯂꯤꯅꯥ ꯖꯣꯂꯤ
+    mr: अँजेलिना जोली
+    ms: Angelina Jolie
+    mul: Angelina Jolie
+    my: အင်ဂျလီနာ ဂျိုလီ
+    mzn: آنجلینا جولی
+    nah: Angelina Jolie
+    nan: Angelina Jolie
+    nb: Angelina Jolie
+    ne: एन्जेलिना जोली
+    nl: Angelina Jolie
+    nn: Angelina Jolie
+    oc: Angelina Jolie
+    or: ଆଞ୍ଜେଲିନା ଜୋଲି
+    pa: ਅਨਜਲੀਨਾ ਜੋਲੀ
+    pag: Angelina Jolie
+    pam: Angelina Jolie
+    pap: Angelina Jolie
+    pl: Angelina Jolie
+    pms: Angelina Jolie
+    pnb: انجلینا جولی
+    ps: انجلينا جولي
+    pt: Angelina Jolie
+    pt-br: Angelina Jolie
+    ro: Angelina Jolie
+    ru: Анджелина Джоли
+    sat: ᱟᱧᱡᱮᱞᱤᱱᱟ ᱡᱳᱞᱤ
+    sco: Angelina Jolie
+    sd: اينجلينا جولي
+    sh: Angelina Jolie
+    si: ඇන්ජලීනා ජොලී
+    sk: Angelina Jolie
+    skr: انجلینا جولی
+    sl: Angelina Jolie
+    smn: Angelina Jolie
+    so: Angelina Jolie
+    sq: Angelina Jolie
+    sr: Анџелина Џоли
+    su: Angelina Jolie
+    sv: Angelina Jolie
+    sw: Angelina Jolie
+    ta: ஏஞ்சலினா ஜோலி
+    te: ఏంజలీనా జోలీ
+    tg: Анҷелина Ҷолӣ
+    th: แอนเจลีนา โจลี
+    tk: Anjelina Joli
+    tl: Angelina Jolie
+    tly: Ančelina Čoli
+    tr: Angelina Jolie
+    tt: Анджелина Джоли
+    uk: Анджеліна Джолі
+    ur: انجلینا جولی
+    uz: Angelina Jolie
+    vi: Angelina Jolie
+    vo: Angelina Jolie
+    war: Angelina Jolie
+    wuu: 安吉丽娜
+    xmf: ანჯელინა ჯოლი
+    yi: אנזשאלינא זשאולי
+    yo: Angelina Jolie
+    yue: 安祖蓮娜祖莉
+    zh: 安吉丽娜·朱莉
+    zh-cn: 安吉丽娜·朱莉
+    zh-hans: 安吉丽娜·朱莉
+    zh-hant: 安吉麗娜·朱莉
+    zh-hk: 安祖蓮娜祖莉
+    zh-mo: 安祖蓮娜祖莉
+    zh-my: 安祖莲娜·祖莉
+    zh-sg: 安吉丽娜·卓莉
+    zh-tw: 安潔莉娜·裘莉
 ---
 #has_/time_/started :: 1975-06-04 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

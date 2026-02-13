@@ -1,25 +1,123 @@
 ---
 aliases:
-  - Virus
-  - Viruses
-  - virus
-  - is_a_virus
+- avirus
+- Añaw
+- Bayrus
+- bhìoras
+- Binghdoeg
+- birus
+- Bâng-dŭk
+- bírus
+- Clēofanwyrm
+- Firus
+- firws
+- huaketo
+- igciwane
+- is_a_virus
+- jaki lili pi poki sijelo lili
+- Kʊdɔŋ sɔtʊ
+- Phiang-thu̍k
+- Popĩami
+- Pēⁿ-to̍k
+- Vaaros
+- Vaayirasii
+- vajrus
+- Vayiraasi
+- Veerys
+- veira
+- viirused
+- vijruse
+- Vilúsu
+- Viren
+- Viris
+- Virosy
+- virukset
+- Virus
+- Virus (biologia)
+- Virus biologicum
+- virusai
+- Viruses
+- Virusi
+- viruslar
+- Viruso
+- Virûsse
+- virüs
+- víreas
+- vírus
+- vîrus
+- Vėrosos
+- vīruss
+- Wiiren
+- Wirus
+- wirusy
+- Èràn
+- ιός
+- Вірус
+- вирус
+- Вирусаш
+- вируси
+- вируслар
+- Вирустар
+- вирусы
+- Вирусҳо
+- Кезовкшт
+- Ժահր
+- Վիրուսներ
+- ווירוס
+- נגיף
+- فيروس
+- وائرس
+- ویروس
+- ڤایرۆس
+- ڤيروس
+- ۋىرۇس
+- ۏيروس
+- ܒܝܪܘܣ
+- ވައިރަސް
+- भाइरस
+- वायरस
+- विषाणु
+- विषाणू
+- ভাইরাস
+- ভাইৰাছ
+- ਵਿਸ਼ਾਣੁ
+- વિષાણુ
+- ଭୂତାଣୁ
+- தீநுண்மி
+- వైరస్
+- ವೈರಸ್
+- ವೈರಾಣು
+- വൈറസ്
+- වෛරස
+- ไวรัส
+- ໄວຣັສ
+- ནད་དུག་
+- ဗိုင်းရပ်စ်
+- ဝဳရုသ်
+- ვირუსები
+- ვირუსეფი
+- ቫይረስ
+- ᱵᱷᱟᱭᱨᱟᱥ
+- ウイルス
+- 病毒
+- 바이러스
+- 비루스
 has_id_wikidata: Q808
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Virus_Classification_and_Nomenclature,14920640]]'
 Commons_category: Viruses
 Commons_gallery: Virus
 confidential: public
 cssclasses:
-  - Type
+- Type
 described_by_source:
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Virus,90485223]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Virus,90485223]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
 Dewey_Decimal_Classification:
-  - 571.992
-  - 579.2
-  - 616.9101
+- 571.992
+- 579.2
+- 616.9101
 different_from: '[[_Standards/WikiData/WD~computer_virus,485]]'
 draft: false
 EntitySchema_for_this_class: E170
@@ -28,29 +126,29 @@ expiryDate: ''
 facet_of: '[[_Standards/WikiData/WD~virology,7215]]'
 hashtag: virus
 has_characteristic:
-  - '[[_Standards/WikiData/WD~subspecies,68947]]'
-  - '[[_Standards/WikiData/WD~genotype,106016]]'
-  - '[[_Standards/WikiData/WD~serotype,848328]]'
-  - '[[_Standards/WikiData/WD~strain,855769]]'
-  - '[[_Standards/WikiData/WD~viral_life_cycle,3241872]]'
-  - '[[_Standards/WikiData/WD~scientific_name,10753560]]'
-  - '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
-  - '[[_Standards/WikiData/WD~virus_name,125481078]]'
-  - '[[_Standards/WikiData/WD~isolate,125482110]]'
-  - '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~subspecies,68947]]'
+- '[[_Standards/WikiData/WD~genotype,106016]]'
+- '[[_Standards/WikiData/WD~serotype,848328]]'
+- '[[_Standards/WikiData/WD~strain,855769]]'
+- '[[_Standards/WikiData/WD~viral_life_cycle,3241872]]'
+- '[[_Standards/WikiData/WD~scientific_name,10753560]]'
+- '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
+- '[[_Standards/WikiData/WD~virus_name,125481078]]'
+- '[[_Standards/WikiData/WD~isolate,125482110]]'
+- '[[_Standards/WikiData/WD~species,7432]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-  - '[[_Standards/WikiData/WD~viral_pneumonia,2603200]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~viral_pneumonia,2603200]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~viral_capsid,830465]]'
-  - '[[_Standards/WikiData/WD~viral_genome,22329087]]'
+- '[[_Standards/WikiData/WD~viral_capsid,830465]]'
+- '[[_Standards/WikiData/WD~viral_genome,22329087]]'
 has_use: '[[_Standards/WikiData/WD~virovory,115941943]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rotavirus%20Reconstruction.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 isDeleted: false
 isReadOnly: false
 keywords:
-  - virus
+- virus
 Krugosvet_article: nauka_i_tehnika/biologiya/VIRUSI.html
 layout: ''
 license: CC BY-SA 4.0
@@ -64,23 +162,235 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Baculoviridae%20vi
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8E%D5%AB%D6%80%D5%B8%D6%82%D5%BD%D5%B6%D5%A5%D6%80%20%28Virus%29.ogg
 studied_by: '[[_Standards/WikiData/WD~virology,7215]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~pathogen,170065]]'
-  - '[[_Standards/WikiData/WD~microorganism,39833]]'
+- '[[_Standards/WikiData/WD~pathogen,170065]]'
+- '[[_Standards/WikiData/WD~microorganism,39833]]'
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
+- class/Class
+- schema-org/Class
+- class/infectious_agent
 taxon_name: Virus
 taxon_rank: '[[_Standards/WikiData/WD~domain,146481]]'
 title: is_a_virus Class
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Virus_topics,10970373]]'
-  - '[[_Standards/WikiData/WD~Template_Virus_navs,14402738]]'
-  - '[[_Standards/WikiData/WD~Template_Viruses,14465544]]'
+- '[[_Standards/WikiData/WD~Template_Virus_topics,10970373]]'
+- '[[_Standards/WikiData/WD~Template_Virus_navs,14402738]]'
+- '[[_Standards/WikiData/WD~Template_Viruses,14465544]]'
 type: Type
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Was%20sind%20Viren%20%28CC%20BY%204.0%29%20%28720p%29.webm
+dv_has_:
+  name_:
+    af: Virus
+    am: ቫይረስ
+    an: Virus
+    ang: Clēofanwyrm
+    ar: فيروس
+    arc: ܒܝܪܘܣ
+    ary: ڤيروس
+    arz: فيروس
+    as: ভাইৰাছ
+    ast: Virus
+    az: Viruslar
+    azb: ویروس
+    ba: Вирустар
+    bcl: Birus
+    be: вірус
+    be-tarask: вірус
+    bg: вируси
+    bho: वायरस
+    bn: ভাইরাস
+    bo: ནད་དུག་
+    br: virus
+    bs: Virus
+    bto: birus
+    bxr: Вирус
+    ca: virus
+    cdo: Bâng-dŭk
+    ceb: birus
+    ckb: ڤایرۆس
+    cps: birus
+    crh: virus
+    cs: virus
+    csb: Wirus
+    cv: Вирус
+    cy: firws
+    da: virus
+    dag: Vaaros
+    de: Viren
+    dv: ވައިރަސް
+    el: ιός
+    en: virus
+    en-gb: virus
+    eo: viruso
+    es: virus
+    et: viirused
+    eu: birus
+    ext: virus
+    fa: ویروس
+    fi: virukset
+    fo: Virus
+    fr: virus
+    frr: Wiiren
+    fy: Firus
+    ga: víreas
+    gcr: Viris
+    gd: bhìoras
+    gl: virus
+    gn: Popĩami
+    gor: Virus
+    gsw: Virus
+    gu: વિષાણુ
+    gv: Veerys
+    ha: virus
+    hak: Phiang-thu̍k
+    he: נגיף
+    hi: विषाणु
+    hif: virus
+    hil: birus
+    hr: virus
+    ht: Viris
+    hu: vírus
+    hy: Վիրուսներ
+    hyw: Ժահր
+    ia: Virus
+    id: virus
+    ie: Virus
+    ilo: birus
+    inh: Вирусаш
+    io: Viruso
+    is: veira
+    it: virus
+    ja: ウイルス
+    jv: Virus
+    ka: ვირუსები
+    kaa: viruslar
+    kbp: Kʊdɔŋ sɔtʊ
+    ki: Virus
+    kk: Вирустар
+    kn: ವೈರಾಣು
+    ko: 바이러스
+    ko-kp: 비루스
+    krj: birus
+    ku: vîrus
+    ku-latn: vîrus
+    kw: Virus
+    ky: Вирустар
+    la: Virus biologicum
+    lb: Virus
+    lfn: Virus
+    lg: Vayiraasi
+    li: Virus
+    lij: Virus
+    lmo: Virus
+    ln: Vilúsu
+    lo: ໄວຣັສ
+    lt: virusai
+    lv: vīruss
+    lzh: 病毒
+    mad: Virus
+    mg: Virosy
+    mi: huaketo
+    min: Virus
+    mk: вирус
+    ml: വൈറസ്
+    mn: Вирус
+    mnw: ဝဳရုသ်
+    mr: विषाणू
+    ms: virus
+    ms-arab: ۏيروس
+    mt: vajrus
+    my: ဗိုင်းရပ်စ်
+    myv: Кезовкшт
+    mzn: ویروس
+    nan: Pēⁿ-to̍k
+    nb: virus
+    nds: Virus
+    nds-nl: Virus
+    ne: विषाणु
+    new: भाइरस
+    nl: virus
+    nn: virus
+    oc: Virus
+    om: Vaayirasii
+    or: ଭୂତାଣୁ
+    pa: ਵਿਸ਼ਾਣੁ
+    pag: birus
+    pam: bírus
+    pap: virus
+    pl: wirusy
+    pms: Virus
+    pnb: وائرس
+    ps: ویروس
+    pt: vírus
+    pt-br: vírus
+    qu: Añaw
+    rki: ဗိုင်းရပ်စ်
+    rn: Virus
+    ro: virus
+    ru: вирусы
+    rue: Вірус
+    sah: Вирус
+    sat: ᱵᱷᱟᱭᱨᱟᱥ
+    sc: Virus (biologia)
+    scn: Virus
+    sco: virus
+    sd: وائرس
+    se: virus
+    sgs: Vėrosos
+    sh: Virus
+    shi: avirus
+    si: වෛරස
+    sje: virus
+    sk: vírus
+    sl: virus
+    sma: vijruse
+    smj: virus
+    smn: virus
+    sms: virus
+    so: Virus
+    sq: virus
+    sr: вирус
+    sr-ec: вирус
+    su: Virus
+    sv: virus
+    sw: Virusi
+    ta: தீநுண்மி
+    tcy: ವೈರಸ್
+    te: వైరస్
+    tg: Вирусҳо
+    th: ไวรัส
+    tl: virus
+    tok: jaki lili pi poki sijelo lili
+    tpi: Virus
+    tr: virüs
+    tt: вируслар
+    tt-cyrl: вируслар
+    tyv: Вирус
+    udm: вирус
+    ug: ۋىرۇس
+    uk: вірус
+    ur: وائرس
+    uz: Viruslar
+    vec: Virus
+    vi: virus
+    wa: Virûsse
+    war: Bayrus
+    wuu: 病毒
+    xmf: ვირუსეფი
+    yi: ווירוס
+    yo: Èràn
+    yue: 病毒
+    za: Binghdoeg
+    zh: 病毒
+    zh-cn: 病毒
+    zh-hans: 病毒
+    zh-hant: 病毒
+    zh-hk: 病毒
+    zh-mo: 病毒
+    zh-my: 病毒
+    zh-sg: 病毒
+    zh-tw: 病毒
+    zu: igciwane
 ---
-
 # [[Virus]] 
 
 #is_a/bio-Domain 

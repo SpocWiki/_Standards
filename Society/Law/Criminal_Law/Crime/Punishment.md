@@ -1,63 +1,255 @@
 ---
 aliases:
+- Adhabu
+- aznoičend
+- Bausmie
+- bausmė
+- Bestraffing
+- büntetés
+- ceza
+- châtiment
+- Ciqaab
+- cosb
+- càstig
+- Cəza
+- Etúmbu
+- hukuman
+- hukuntarwa
+- hình phạt
+- Isohlwayo
+- jaza
+- Jazo
+- kara
+- Karistus
+- kazen
+- Kazna
+- Ndëshkimi
+- ntaramahuhu
+- pedeapsă
+- pena
+- Penitince
+- pionós
+- poena
+- punishment
+- puno
+- rangaistus
+- refsing
+- revsing
+- siza
+- sods
+- straf
+- Strafe
+- straff
+- Strof
+- trest
+- Wanachay
+- zigor
+- ποινή
+- Дьас
+- жаза
+- казна
+- наказание
+- пакаранне
+- пакараньне
+- покарання
+- Хаса
+- җәза
+- ҷазо
+- Պատիժ
+- ענישה
+- تنبیه
+- جازا
+- سزا
+- عِقَاب
+- مجازات
+- ߞߏߟߊߕߐ߲
+- दण्ड
+- शिक्षा
+- শাস্তি
+- ਸਜ਼ਾ
+- தண்டனை
+- శిక్ష
+- ಶಿಕ್ಷೆ
+- ശിക്ഷ
+- การลงโทษ
+- ဒဏ်ပေးခံရမှု
+- დასჯა
+- 処罰
+- 惩罚
+- 懲罰
+- 처벌
 has_id_wikidata: Q186361
 studied_by:
-  - "[[_Standards/WikiData/WD~criminal_law,146491]]"
-  - "[[_Standards/WikiData/WD~criminology,161733]]"
-  - "[[_Standards/WikiData/WD~sociology_of_punishment,7552859]]"
+- '[[_Standards/WikiData/WD~criminal_law,146491]]'
+- '[[_Standards/WikiData/WD~criminology,161733]]'
+- '[[_Standards/WikiData/WD~sociology_of_punishment,7552859]]'
 part_of:
-  - "[[_Standards/WikiData/WD~criminal_law,146491]]"
-  - "[[_Standards/WikiData/WD~Carrot_and_stick,227809]]"
-  - "[[_Standards/WikiData/WD~legal_act,740464]]"
-  - "[[_Standards/WikiData/WD~religious_doctrine,11499334]]"
+- '[[_Standards/WikiData/WD~criminal_law,146491]]'
+- '[[_Standards/WikiData/WD~Carrot_and_stick,227809]]'
+- '[[_Standards/WikiData/WD~legal_act,740464]]'
+- '[[_Standards/WikiData/WD~religious_doctrine,11499334]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~reform,900406]]"
-  - "[[_Standards/WikiData/WD~recidivism,1420643]]"
+- '[[_Standards/WikiData/WD~reform,900406]]'
+- '[[_Standards/WikiData/WD~recidivism,1420643]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sentence,1763090]]"
-  - "[[_Standards/WikiData/WD~Shiksha,2588510]]"
-  - "[[_Standards/WikiData/WD~Poena,2992411]]"
-  - "[[_Standards/WikiData/WD~Pena,22108769]]"
-  - "[[_Standards/WikiData/WD~punishment,113594218]]"
+- '[[_Standards/WikiData/WD~sentence,1763090]]'
+- '[[_Standards/WikiData/WD~Shiksha,2588510]]'
+- '[[_Standards/WikiData/WD~Poena,2992411]]'
+- '[[_Standards/WikiData/WD~Pena,22108769]]'
+- '[[_Standards/WikiData/WD~punishment,113594218]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~result,2995644]]"
-  - "[[_Standards/WikiData/WD~action,4026292]]"
+- '[[_Standards/WikiData/WD~result,2995644]]'
+- '[[_Standards/WikiData/WD~action,4026292]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Crime_and_Criminal_Biography,15298836]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Libertarianism,17590525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Correction_and_Detention_Facilities,21829825]]"
-has_part_s_: "[[_Standards/WikiData/WD~disciplinary_action,11495309]]"
-has_characteristic: "[[_Standards/WikiData/WD~undesirability,60528728]]"
-opposite_of: "[[_Standards/WikiData/WD~reward,66688988]]"
-has_cause: "[[_Standards/WikiData/WD~punishment,113594218]]"
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
+- '[[_Standards/WikiData/WD~WikiProject_Crime_and_Criminal_Biography,15298836]]'
+- '[[_Standards/WikiData/WD~WikiProject_Libertarianism,17590525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Ethics,18811666]]'
+- '[[_Standards/WikiData/WD~WikiProject_Correction_and_Detention_Facilities,21829825]]'
+has_part_s_: '[[_Standards/WikiData/WD~disciplinary_action,11495309]]'
+has_characteristic: '[[_Standards/WikiData/WD~undesirability,60528728]]'
+opposite_of: '[[_Standards/WikiData/WD~reward,66688988]]'
+has_cause: '[[_Standards/WikiData/WD~punishment,113594218]]'
 properties_for_this_type: described by source
 Wikidata_property: penalty
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alavoine%20Rab%20feny%C3%ADt%C3%A9se%20Temesv%C3%A1ron.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Strafe2.ogg
-U_S_National_Archives_Identifier: "10642273"
+U_S_National_Archives_Identifier: 10642273
 UMLS_CUI: C0034119
 MeSH_tree_code:
-  - F02.463.425.770.571
-  - I01.880.630.716
+- F02.463.425.770.571
+- I01.880.630.716
 Library_of_Congress_Classification:
-  - GT6710-GT6715
-  - HV7231-HV9920
+- GT6710-GT6715
+- HV7231-HV9920
 Commons_category: Punishments
+dv_has_:
+  name_:
+    ar: عِقَاب
+    ast: Pena
+    az: Cəza
+    be: пакаранне
+    be-tarask: пакараньне
+    bg: Наказание
+    bn: শাস্তি
+    bs: Kazna
+    ca: càstig
+    cs: trest
+    cv: Хаса
+    cy: cosb
+    da: straf
+    de: Strafe
+    el: ποινή
+    en: punishment
+    en-gb: punishment
+    eo: puno
+    es: pena
+    et: Karistus
+    eu: zigor
+    fa: تنبیه
+    fi: rangaistus
+    fo: revsing
+    fr: châtiment
+    fy: Bestraffing
+    ga: pionós
+    gan-hans: 惩罚
+    gan-hant: 懲罰
+    gl: pena
+    ha: hukuntarwa
+    he: ענישה
+    hi: दण्ड
+    hr: kazna
+    hu: büntetés
+    hy: Պատիժ
+    id: hukuman
+    ig: ntaramahuhu
+    is: refsing
+    it: pena
+    ja: 処罰
+    ka: დასჯა
+    kk: жаза
+    kk-arab: جازا
+    kk-cn: جازا
+    kk-cyrl: Жаза
+    kk-kz: Жаза
+    kk-latn: jaza
+    kk-tr: Jaza
+    kn: ಶಿಕ್ಷೆ
+    ko: 처벌
+    ku: siza
+    ku-latn: siza
+    ky: жаза
+    la: poena
+    lb: Strof
+    ln: Etúmbu
+    lt: bausmė
+    lv: sods
+    mk: казна
+    ml: ശിക്ഷ
+    mr: शिक्षा
+    ms: hukuman
+    my: ဒဏ်ပေးခံရမှု
+    nb: straff
+    nds-nl: straf
+    new: दण्ड
+    nl: straf
+    nn: straff
+    nqo: ߞߏߟߊߕߐ߲
+    pa: ਸਜ਼ਾ
+    pl: kara
+    pnb: سزا
+    ps: مجازات
+    pt: pena
+    qu: Wanachay
+    ro: pedeapsă
+    ru: наказание
+    sah: Дьас
+    sgs: Bausmie
+    sk: trest
+    sl: kazen
+    so: Ciqaab
+    sq: Ndëshkimi
+    sr: казна
+    sr-ec: Казна
+    sr-el: Kazna
+    sv: straff
+    sw: Adhabu
+    ta: தண்டனை
+    te: శిక్ష
+    tg: ҷазо
+    th: การลงโทษ
+    tr: ceza
+    tt: җәза
+    tt-cyrl: җәза
+    uk: покарання
+    ur: سزا
+    uz: Jazo
+    vec: pena
+    vep: aznoičend
+    vi: hình phạt
+    wa: Penitince
+    wuu: 惩罚
+    xh: Isohlwayo
+    yue: 懲罰
+    zh: 懲罰
+    zh-cn: 惩罚
+    zh-hans: 惩罚
+    zh-hant: 懲罰
+    zh-hk: 懲罰
+    zh-sg: 惩罚
+    zh-tw: 懲罰
 ---
-
 # [[Punishment]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Punishment,186361|WD~Punishment,186361]]  

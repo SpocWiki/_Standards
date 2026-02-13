@@ -1,29 +1,110 @@
 ---
 aliases:
-  - Criminal law
-  - Criminal_Law
-  - Criminal Law
+- Balaod pankrimen
+- Batas na pangkrimen
+- baudžiamoji teisė
+- bysvehts-reakta
+- büntetőjog
+- ceza hukuku
+- cinayət hüququ
+- Criminal law
+- Criminal_Law
+- cyfraith droseddol
+- derecho penal
+- Derechu penal
+- dereito penal
+- Derito penałe
+- Direito criminal
+- direito penal
+- diritto penale
+- dlí coiriúil
+- Drech penau
+- drept penal
+- dret penal
+- droit pénal
+- dwa penal
+- E drejta penale
+- hukum pidana
+- Ijtimoiy qonunchilik
+- Ius criminale
+- kazensko pravo
+- kazneno pravo
+- kriminaalvuõiǥâs
+- kriminaalõigus
+- krimināltiesības
+- Krivično pravo
+- lagh eucoirean
+- luật hình sự
+- prawo karne
+- puna juro
+- Qılmıstıq quqıq
+- rikosoikeus
+- rikosriehti
+- ráŋggáštusriekti
+- Sjtroafrech
+- strafferet
+- strafferett
+- straffrätt
+- Strafrecht
+- strafreg
+- Strafrjocht
+- Strofreacht
+- trestné právo
+- trestní právo
+- undang-undang jenayah
+- zigor-zuzenbide
+- Ποινικό Δίκαιο
+- кривично право
+- кримінальне право
+- крымінальнае права
+- Кылмыш-жаза укугу
+- Наказателно право
+- Пуçиле тивĕç-ирĕкĕ
+- уголовное право
+- җинаи хокук
+- Қылмыстық құқық
+- քրեական իրավունք
+- משפט פלילי
+- القانون الجنائى
+- اوندڠ٢ جنايه
+- حقوق کیفری
+- قانون جنائي
+- قىلمىستىق قۇقىق
+- کیفری حوقوق
+- आपराधिक कानुन
+- दण्डविधि
+- ফৌজদারি আইন
+- ਅਪਰਾਧਿਕ ਕਾਨੂੰਨ
+- குற்றவியல் சட்டம்
+- శిక్షాస్మృతి
+- අපරාධ නීතිය
+- กฎหมายอาญา
+- სისხლის სამართალი
+- ⴰⵣⵔⴼ ⴰⵏⴱⴽⴰⴹ
+- 刑事法
+- 刑法
+- 형법
 has_id_wikidata: Q146491
 opposite_of: '[[_Standards/WikiData/WD~civil_law,222249]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~criminal_defense_lawyer,512345]]'
-  - '[[_Standards/WikiData/WD~prosecutor,600751]]'
+- '[[_Standards/WikiData/WD~criminal_defense_lawyer,512345]]'
+- '[[_Standards/WikiData/WD~prosecutor,600751]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~inchoate_offense,578241]]'
-  - '[[_Standards/WikiData/WD~defense,838247]]'
-  - '[[_Standards/WikiData/WD~element,2621792]]'
-  - '[[_Standards/WikiData/WD~offence_against_the_person,7079040]]'
-  - '[[_Standards/WikiData/WD~criminal_code,19705]]'
+- '[[_Standards/WikiData/WD~inchoate_offense,578241]]'
+- '[[_Standards/WikiData/WD~defense,838247]]'
+- '[[_Standards/WikiData/WD~element,2621792]]'
+- '[[_Standards/WikiData/WD~offence_against_the_person,7079040]]'
+- '[[_Standards/WikiData/WD~criminal_code,19705]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~area_of_law,1756157]]'
-  - '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+- '[[_Standards/WikiData/WD~area_of_law,1756157]]'
+- '[[_Standards/WikiData/WD~type_of_law,63718619]]'
 has_characteristic: '[[_Standards/WikiData/WD~motive,4583280]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
-  - '[[_Standards/WikiData/WD~sociology_of_criminal_law,113884040]]'
+- '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+- '[[_Standards/WikiData/WD~sociology_of_criminal_law,113884040]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Criminal_law,6946106]]'
 different_from: '[[_Standards/WikiData/WD~tort_law,27214006]]'
 part_of: '[[_Standards/WikiData/WD~law,7748]]'
@@ -35,11 +116,118 @@ PhilPapers_topic: criminal-law
 Commons_category: Criminal law
 Law_Insider_Legal_Dictionary_entry: criminal-laws
 MeSH_tree_code:
-  - I01.198.290
-  - I01.880.604.583.100
+- I01.198.290
+- I01.880.604.583.100
 IPTC_NewsCode: mediatopic/20000125
+dv_has_:
+  name_:
+    af: strafreg
+    ar: قانون جنائي
+    arz: القانون الجنائى
+    ast: Derechu penal
+    az: cinayət hüququ
+    azb: کیفری حوقوق
+    be: крымінальнае права
+    be-tarask: крымінальнае права
+    bg: Наказателно право
+    bn: ফৌজদারি আইন
+    bs: Krivično pravo
+    ca: dret penal
+    cs: trestní právo
+    cv: Пуçиле тивĕç-ирĕкĕ
+    cy: cyfraith droseddol
+    da: strafferet
+    de: Strafrecht
+    el: Ποινικό Δίκαιο
+    en: criminal law
+    eo: puna juro
+    es: derecho penal
+    et: kriminaalõigus
+    eu: zigor-zuzenbide
+    fa: حقوق کیفری
+    fi: rikosoikeus
+    fr: droit pénal
+    fy: Strafrjocht
+    ga: dlí coiriúil
+    gd: lagh eucoirean
+    gl: dereito penal
+    gsw: Strofreacht
+    he: משפט פלילי
+    hi: दण्डविधि
+    hr: kazneno pravo
+    ht: dwa penal
+    hu: büntetőjog
+    hy: քրեական իրավունք
+    id: hukum pidana
+    it: diritto penale
+    ja: 刑法
+    ka: სისხლის სამართალი
+    kk: Қылмыстық құқық
+    kk-arab: قىلمىستىق قۇقىق
+    kk-cn: قىلمىستىق قۇقىق
+    kk-cyrl: Қылмыстық құқық
+    kk-kz: Қылмыстық құқық
+    kk-latn: Qılmıstıq quqıq
+    kk-tr: Qılmıstıq quqıq
+    ko: 형법
+    ky: Кылмыш-жаза укугу
+    la: Ius criminale
+    li: Sjtroafrech
+    lt: baudžiamoji teisė
+    lv: krimināltiesības
+    min: Hukum pidana
+    mk: кривично право
+    ms: undang-undang jenayah
+    ms-arab: اوندڠ٢ جنايه
+    nb: strafferett
+    nds-nl: strafrecht
+    ne: आपराधिक कानुन
+    nl: strafrecht
+    oc: Drech penau
+    pa: ਅਪਰਾਧਿਕ ਕਾਨੂੰਨ
+    pl: prawo karne
+    pt: direito penal
+    pt-br: Direito criminal
+    ro: drept penal
+    ru: уголовное право
+    se: ráŋggáštusriekti
+    sh: Kazneno pravo
+    si: අපරාධ නීතිය
+    sk: trestné právo
+    sl: kazensko pravo
+    sma: bysvehts-reakta
+    smn: rikosriehti
+    sms: kriminaalvuõiǥâs
+    sq: E drejta penale
+    sr: кривично право
+    sr-ec: кривично право
+    sr-el: krivično pravo
+    su: Hukum pidana
+    sv: straffrätt
+    ta: குற்றவியல் சட்டம்
+    te: శిక్షాస్మృతి
+    th: กฎหมายอาญา
+    tl: Batas na pangkrimen
+    tr: ceza hukuku
+    tt: җинаи хокук
+    uk: кримінальне право
+    uz: Ijtimoiy qonunchilik
+    vec: Derito penałe
+    vi: luật hình sự
+    war: Balaod pankrimen
+    wuu: 刑法
+    yue: 刑法
+    zgh: ⴰⵣⵔⴼ ⴰⵏⴱⴽⴰⴹ
+    zh: 刑法
+    zh-cn: 刑法
+    zh-hans: 刑法
+    zh-hant: 刑法
+    zh-hk: 刑事法
+    zh-mo: 刑法
+    zh-my: 刑法
+    zh-sg: 刑法
+    zh-tw: 刑法
 ---
-
 # [[Criminal_Law]] 
 
 #is_/same_as :: [[../../WikiData/WD~Criminal_law,146491|WD~Criminal_law,146491]] 

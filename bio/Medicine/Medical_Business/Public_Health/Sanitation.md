@@ -1,15 +1,73 @@
 ---
 aliases:
-  - Sanitäre Anlage
-  - Sanitation
+- asanare
+- Asenisman
+- assainissement
+- Assanida
+- Asénisman
+- Eche ki fẹ
+- igienizzazione
+- Ingurumenaren saneamendu
+- Khoân-kèng ūi-seng
+- Kusadikila nse
+- közegészségügy
+- qoqıstan tazartw
+- Sabita
+- salubrigo
+- Saneamento
+- saneamento básico
+- saneamiento
+- Saneamientu ambiental
+- sanejament
+- sanitaatio
+- sanitace
+- Sanitacija
+- sanitair
+- sanitarije
+- sanitarna tehnika
+- sanitasi
+- Sanitasyon
+- Sanitation
+- sanitet
+- Sanitäre Anlage
+- Sanitärtechnik
+- sağlıklama
+- Tsabtace Yanayi
+- Usafi wa mazingira
+- υγιεινή
+- санітарія
+- санітарыя
+- санитария
+- санитација
+- Қоқыстан тазарту
+- סניטריה
+- صرف صحي
+- قوقىستان تازارتۋ
+- پسابزدایی
+- सरसफाइ
+- स्वच्छता
+- পয়ঃনিষ্কাশন ব্যবস্থা
+- ਸਫਾਈ
+- ଶୁଚିତ୍ୱ
+- துப்புரவு
+- ನಿರ್ಮಲೀಕರಣ
+- การสุขาภิบาล
+- ကျန်းမာသန့်ရှင်းရေး
+- სანიტარია
+- ịdị ọcha
+- 环境卫生
+- 衛生條件
+- 衛生状態
+- 衞生設備
+- 위생 시설
 has_id_wikidata: Q949149
 instance_of:
-  - '[[_Standards/WikiData/WD~concept,151885]]'
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~hygiene,162297]]'
-  - '[[_Standards/WikiData/WD~environmental_policy,919526]]'
-  - '[[_Standards/WikiData/WD~environmental_factor,2142347]]'
+- '[[_Standards/WikiData/WD~hygiene,162297]]'
+- '[[_Standards/WikiData/WD~environmental_policy,919526]]'
+- '[[_Standards/WikiData/WD~environmental_factor,2142347]]'
 facet_of: '[[_Standards/WikiData/WD~water_management,1501619]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 uses: '[[_Standards/WikiData/WD~sanitary_ware,59282504]]'
@@ -20,11 +78,80 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Corotes%20saiwaedje%20
 U_S_National_Archives_Identifier: 10644570
 UMLS_CUI: C0036172
 MeSH_tree_code:
-  - H02.229.782
-  - N06.850.780.200.800
-  - N06.850.860
+- H02.229.782
+- N06.850.780.200.800
+- N06.850.860
+dv_has_:
+  name_:
+    ar: صرف صحي
+    ast: Saneamientu ambiental
+    be: санітарыя
+    be-tarask: санітарыя
+    bn: পয়ঃনিষ্কাশন ব্যবস্থা
+    ca: sanejament
+    cs: sanitace
+    da: sanitet
+    dag: Sabita
+    de: Sanitärtechnik
+    el: υγιεινή
+    en: sanitation
+    eo: salubrigo
+    es: saneamiento
+    eu: Ingurumenaren saneamendu
+    fa: پسابزدایی
+    fi: sanitaatio
+    fr: assainissement
+    gcr: Asénisman
+    gl: Saneamento
+    ha: Tsabtace Yanayi
+    he: סניטריה
+    hi: स्वच्छता
+    ht: Asenisman
+    hu: közegészségügy
+    id: sanitasi
+    ig: ịdị ọcha
+    igl: Eche ki fẹ
+    it: igienizzazione
+    ja: 衛生状態
+    ka: სანიტარია
+    kk: қоқыстан тазарту
+    kk-arab: قوقىستان تازارتۋ
+    kk-cyrl: Қоқыстан тазарту
+    kk-latn: qoqıstan tazartw
+    kn: ನಿರ್ಮಲೀಕರಣ
+    ko: 위생 시설
+    lua: Kusadikila nse
+    min: Sanitasi
+    mk: санитација
+    mr: स्वच्छता
+    ms: Sanitasi
+    my: ကျန်းမာသန့်ရှင်းရေး
+    nan: Khoân-kèng ūi-seng
+    nb: sanitet
+    ne: सरसफाइ
+    nl: sanitair
+    oc: Assanida
+    or: ଶୁଚିତ୍ୱ
+    pa: ਸਫਾਈ
+    pt: saneamento básico
+    pt-br: saneamento básico
+    ro: asanare
+    ru: санитария
+    sh: sanitarije
+    sl: sanitarna tehnika
+    sr: Sanitacija
+    sv: sanitet
+    sw: Usafi wa mazingira
+    ta: துப்புரவு
+    th: การสุขาภิบาล
+    tl: Sanitasyon
+    tr: sağlıklama
+    uk: санітарія
+    yue: 衞生設備
+    zh: 衛生條件
+    zh-cn: 环境卫生
+    zh-hans: 环境卫生
 ---
-
 # [[Sanitation]] 
 
 #is_/same_as :: [[WD~Sanitation,949149]] 

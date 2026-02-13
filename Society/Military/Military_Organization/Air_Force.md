@@ -1,16 +1,108 @@
 ---
 aliases:
-  - Air_Force
-  - Air Force
+- aerarmeo
+- aerfhórsa
+- aerlu
+- Aeronautega
+- aeronautica militare
+- Air Force
+- Aireko indar
+- Airforce
+- Air_Force
+- angkatan udara
+- Angkatan udaro
+- Angkatan Udhara
+- awyrlu
+- Ciidanka Cirka
+- Classis aeria
+- Flugher
+- flygvapen
+- flyvåpen
+- Forca Ajrore
+- force aérienne
+- forsa aèrea
+- forza aérea
+- força aèria
+- força aérea
+- forță aeriană
+- fuercia aérea
+- Fuerza aeria
+- fuerza aérea
+- Fòrça aeriana
+- gaisa spēki
+- Harbiy-havo kuchlari
+- hava kuvvetleri
+- Hukbong himpapawid
+- hêzên esmanî
+- Hərbi hava qüvvələri
+- ilmavoimat
+- Jeshi la anga
+- karinės oro pajėgos
+- Khong-kun
+- không quân
+- Kusóg pan-igbaw
+- lennuvägi
+- letectvo
+- Loftmacht
+- luchtmacht
+- Luftstreitkräfte
+- luftvåben
+- Lugmag
+- légierő
+- ratna avijacija
+- Ratno zrakoplovstvo
+- siły powietrzne
+- Soldadu udara
+- Tentera udara
+- Uora pajiegas
+- Vojenské letectvo
+- vojno letalstvo
+- áimuvyeimih
+- äimmviõǥǥ
+- Ñorairõha ovevéva
+- Πολεμική αεροπορία
+- Аскер-аба күчтөрү
+- ваенна-паветраныя сілы
+- вайскова-паветраныя сілы
+- военно-воздушные силы
+- военновъздушни сили
+- воено воздухопловство
+- нерӯи ҳавоӣ
+- повітряні сили
+- ратно ваздухопловство
+- Сывлăш-Çар вăйĕсем
+- хәрби-һава көчләре
+- Әскери-Әуе Күштері
+- ռազմա-օդային ուժեր
+- חיל אוויר
+- سلاح الجو
+- فضائیہ
+- نیروی هوایی
+- ھێزی ئاسمانی
+- ہَوٲیی فوج
+- वायुसेना
+- বিমানবাহিনী
+- ਹਵਾਈ ਸੈਨਾ
+- வான்படை
+- ವಾಯುಪಡೆ
+- വ്യോമസേന
+- กองทัพอากาศ
+- လေတပ်
+- ოურდუმე-ოჰეერე ძალეფი
+- სამხედრო-საჰაერო ძალები
+- 空军
+- 空師
+- 空軍
+- 공군
 has_id_wikidata: Q61883
 Commons_category: Air force
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 358
 different_from: '[[_Standards/WikiData/WD~air_force,105982231]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~airborne_forces,864306]]'
-  - '[[_Standards/WikiData/WD~air_force_infantry_and_special_forces_unit,18177009]]'
-  - '[[_Standards/WikiData/WD~air_force_personnel,113548630]]'
+- '[[_Standards/WikiData/WD~airborne_forces,864306]]'
+- '[[_Standards/WikiData/WD~air_force_infantry_and_special_forces_unit,18177009]]'
+- '[[_Standards/WikiData/WD~air_force_personnel,113548630]]'
 has_use: '[[_Standards/WikiData/WD~aerial_warfare,471145]]'
 Iconclass_notation: 45D23
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B4%D0%BE%D0%BB%D0%B0%D0%B7%D0%BD%D0%B0%20%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20IMG%200376%20%2851111951000%29.jpg
@@ -22,8 +114,121 @@ OpenStreetMap_tag_or_key: Tag:military_service=air_force
 P8189: 987007294765405171
 subclass_of: '[[_Standards/WikiData/WD~military_branch,781132]]'
 U_S_National_Archives_Identifier: 10636847
+dv_has_:
+  name_:
+    af: Lugmag
+    an: Fuerza aeria
+    ar: سلاح الجو
+    ast: fuercia aérea
+    az: Hərbi hava qüvvələri
+    be: ваенна-паветраныя сілы
+    be-tarask: вайскова-паветраныя сілы
+    bew: Soldadu udara
+    bg: военновъздушни сили
+    bn: বিমানবাহিনী
+    br: aerlu
+    bs: ratna avijacija
+    ca: força aèria
+    ckb: ھێزی ئاسمانی
+    cs: letectvo
+    cv: Сывлăш-Çар вăйĕсем
+    cy: awyrlu
+    da: luftvåben
+    de: Luftstreitkräfte
+    el: Πολεμική αεροπορία
+    en: air force
+    en-ca: Air force
+    en-gb: air force
+    eo: aerarmeo
+    es: fuerza aérea
+    et: lennuvägi
+    eu: Aireko indar
+    fa: نیروی هوایی
+    fi: ilmavoimat
+    fr: force aérienne
+    fy: Loftmacht
+    ga: aerfhórsa
+    gl: forza aérea
+    gn: Ñorairõha ovevéva
+    he: חיל אוויר
+    hi: वायुसेना
+    hr: Ratno zrakoplovstvo
+    hu: légierő
+    hy: ռազմա-օդային ուժեր
+    id: angkatan udara
+    io: Aerarmeo
+    is: Flugher
+    it: aeronautica militare
+    ja: 空軍
+    jv: Angkatan Udhara
+    ka: სამხედრო-საჰაერო ძალები
+    kk: Әскери-Әуе Күштері
+    kn: ವಾಯುಪಡೆ
+    ko: 공군
+    ks: ہَوٲیی فوج
+    ku: hêzên esmanî
+    ku-latn: hêzên esmanî
+    ky: Аскер-аба күчтөрү
+    la: Classis aeria
+    lmo: Aeronautega
+    lt: karinės oro pajėgos
+    lv: gaisa spēki
+    lzh: 空師
+    min: Angkatan udaro
+    mk: воено воздухопловство
+    ml: വ്യോമസേന
+    ms: Tentera udara
+    my: လေတပ်
+    nan: Khong-kun
+    nb: flyvåpen
+    nl: luchtmacht
+    nn: flyvåpen
+    oc: Fòrça aeriana
+    pa: ਹਵਾਈ ਸੈਨਾ
+    pl: siły powietrzne
+    pt: força aérea
+    pt-br: força aérea
+    ro: forță aeriană
+    ru: военно-воздушные силы
+    sco: Airforce
+    sgs: Uora pajiegas
+    sh: Ratno zrakoplovstvo
+    sk: Vojenské letectvo
+    sl: vojno letalstvo
+    smn: áimuvyeimih
+    sms: äimmviõǥǥ
+    so: Ciidanka Cirka
+    sq: Forca Ajrore
+    sr: ратно ваздухопловство
+    sr-ec: Ратно ваздухопловство
+    sv: flygvapen
+    sw: Jeshi la anga
+    ta: வான்படை
+    tg: нерӯи ҳавоӣ
+    th: กองทัพอากาศ
+    tl: Hukbong himpapawid
+    tr: hava kuvvetleri
+    tt: хәрби-һава көчләре
+    tt-cyrl: хәрби-һава көчләре
+    uk: повітряні сили
+    ur: فضائیہ
+    uz: Harbiy-havo kuchlari
+    vec: forsa aèrea
+    vi: không quân
+    war: Kusóg pan-igbaw
+    wuu: 空军
+    xmf: ოურდუმე-ოჰეერე ძალეფი
+    yue: 空軍
+    zh: 空军
+    zh-cn: 空军
+    zh-hans: 空军
+    zh-hant: 空軍
+    zh-hk: 空軍
+    zh-mo: 空軍
+    zh-my: 空军
+    zh-sg: 空军
+    zh-tw: 空軍
 ---
-
 # [[Air_Force]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Air_force,61883]] 

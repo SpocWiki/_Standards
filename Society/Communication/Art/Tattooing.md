@@ -1,46 +1,229 @@
 ---
 aliases:
+- Bombwe
+- Chhiah-jī
+- Compunctio
+- Deq
+- dövme
+- Húðflúr
+- Jarfa
+- Kakiñiq
+- kivecik
+- Pakájuma
+- rajah
+- Rosang Tatu
+- Tato
+- Tatoatge
+- Tatoeaazje
+- Tatoeëermerk
+- tatoeëren
+- Tatouadur
+- tatouage
+- tatovering
+- Tattoo
+- tattooing
+- Tatu
+- Tatuache
+- Tatuage
+- tatuagem
+- tatuaggio
+- Tatuaj
+- tatuaje
+- Tatuajea
+- tatuatge
+- Tatuaxe
+- tatuaż
+- tatuering
+- Tatuirovka
+- tatuiruind
+- tatuiruotė
+- tatuo
+- tatuointi
+- Tatuáhe
+- tatuáil
+- Tatŵ
+- tetovanie
+- Tetoviranje
+- tetoválás
+- tetování
+- tetovējums
+- Tombokavatsa
+- Tutang
+- Tätoveering
+- Tätowieren
+- Tätowierung
+- Tätowéierung
+- Xăm
+- τατουάζ
+- татуіроўка
+- татуаж
+- Татуировка
+- татуювання
+- тетовирање
+- Կտածում
+- טאטואירונג
+- כתובת קעקע
+- تتو
+- فرایند خالکوبی
+- وشم
+- گدنا
+- गुदना
+- गोंदण
+- উল্কি
+- ଟାଟୂ
+- பச்சை குத்துதல்
+- పచ్చబొట్టు
+- ಹಚ್ಚೆ
+- പച്ചകുത്തൽ
+- การสัก
+- པགས་གཙགས་རི་མོ།
+- ဆေးမင်ကြောင်
+- ტატუირება
+- ការសាក់
+- 入れ墨
+- 刺青
+- 文身
+- 紋身
+- 문신
 has_id_wikidata: Q43006
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~body_art,678649]]"
-  - "[[_Standards/WikiData/WD~body_modification,890057]]"
-  - "[[_Standards/WikiData/WD~technique,2695280]]"
+- '[[_Standards/WikiData/WD~body_art,678649]]'
+- '[[_Standards/WikiData/WD~body_modification,890057]]'
+- '[[_Standards/WikiData/WD~technique,2695280]]'
 uses:
-  - "[[_Standards/WikiData/WD~motif,1229071]]"
-  - "[[_Standards/WikiData/WD~tattoo_machine,2708032]]"
-  - "[[_Standards/WikiData/WD~tattoo_ink,4237858]]"
-practiced_by: "[[_Standards/WikiData/WD~tattoo_artist,1861368]]"
+- '[[_Standards/WikiData/WD~motif,1229071]]'
+- '[[_Standards/WikiData/WD~tattoo_machine,2708032]]'
+- '[[_Standards/WikiData/WD~tattoo_ink,4237858]]'
+practiced_by: '[[_Standards/WikiData/WD~tattoo_artist,1861368]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~irezumi,3183723]]"
-  - "[[_Standards/WikiData/WD~tattooing_in_Ainu_and_Jōmon_culture,15783255]]"
-  - "[[_Standards/WikiData/WD~tattooing_in_Myanmar,17069492]]"
-  - "[[_Standards/WikiData/WD~tattooing_in_South_Korea,28405982]]"
-  - "[[_Standards/WikiData/WD~tattooing_in_China,115826658]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_tattooing,5868977]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tattoo,22740719]]"
-location: "[[_Standards/WikiData/WD~tattoo_parlor,27038997]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~tattoo,72941682]]"
+- '[[_Standards/WikiData/WD~irezumi,3183723]]'
+- '[[_Standards/WikiData/WD~tattooing_in_Ainu_and_Jōmon_culture,15783255]]'
+- '[[_Standards/WikiData/WD~tattooing_in_Myanmar,17069492]]'
+- '[[_Standards/WikiData/WD~tattooing_in_South_Korea,28405982]]'
+- '[[_Standards/WikiData/WD~tattooing_in_China,115826658]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_tattooing,5868977]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tattoo,22740719]]'
+location: '[[_Standards/WikiData/WD~tattoo_parlor,27038997]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~tattoo,72941682]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%BD%D0%B0%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%B0%D1%82%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tattoo%20artist%20Nassu%20making%20a%20colourful%20tattoo%20at%20TattooCamy%20parlour%20in%20Tampere..webm
 Iconclass_notation: 31A5151
 MeSH_tree_code:
-  - E02.218.085.840
-  - E04.085.840
+- E02.218.085.840
+- E04.085.840
 subreddit: tattoos
 Commons_category: Tattoos
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-T%C3%A4towieren.ogg
 Library_of_Congress_Classification: GN419.3
+dv_has_:
+  name_:
+    af: Tatoeëermerk
+    an: Tatuache
+    ar: وشم
+    arz: وشم
+    ast: Tatuaxe
+    az: Tatuirovka
+    azb: تتو
+    be: татуіроўка
+    be-tarask: татуіроўка
+    bg: Татуировка
+    bjn: Tutang
+    bn: উল্কি
+    bo: པགས་གཙགས་རི་མོ།
+    br: Tatouadur
+    ca: tatuatge
+    cs: tetování
+    cy: Tatŵ
+    da: tatovering
+    de: Tätowieren
+    de-ch: Tätowierung
+    el: τατουάζ
+    en: tattooing
+    en-ca: Tattoo
+    en-gb: tattoo
+    eo: tatuo
+    es: tatuaje
+    et: Tätoveering
+    eu: Tatuajea
+    fa: فرایند خالکوبی
+    fi: tatuointi
+    fr: tatouage
+    fy: Tatoeaazje
+    ga: tatuáil
+    gl: tatuaxe
+    gn: Tatuáhe
+    ha: Jarfa
+    he: כתובת קעקע
+    hi: गुदना
+    hr: Tetoviranje
+    hu: tetoválás
+    hy: Կտածում
+    ia: Tatuage
+    id: rajah
+    ik: Kakiñiq
+    is: Húðflúr
+    it: tatuaggio
+    ja: 入れ墨
+    jv: Tato
+    ka: ტატუირება
+    kk: Татуировка
+    km: ការសាក់
+    kn: ಹಚ್ಚೆ
+    ko: 문신
+    ku: Deq
+    ky: Татуировка
+    la: Compunctio
+    lb: Tätowéierung
+    ln: Pakájuma
+    lt: tatuiruotė
+    lv: tetovējums
+    lzh: 文身
+    mg: Tombokavatsa
+    mk: тетовирање
+    ml: പച്ചകുത്തൽ
+    mr: गोंदण
+    ms: Tatu
+    my: ဆေးမင်ကြောင်
+    nan: Chhiah-jī
+    nb: tatovering
+    nl: tatoeëren
+    oc: Tatoatge
+    or: ଟାଟୂ
+    pam: Rosang Tatu
+    pl: tatuaż
+    pt: tatuagem
+    pt-br: Tatuagem
+    pwn: kivecik
+    ro: Tatuaj
+    ru: татуаж
+    sh: Tetoviranje
+    sk: tetovanie
+    sl: tetoviranje
+    sr: тетовирање
+    sv: tatuering
+    sw: Bombwe
+    ta: பச்சை குத்துதல்
+    te: పచ్చబొట్టు
+    th: การสัก
+    tr: dövme
+    uk: татуювання
+    ur: گدنا
+    vep: tatuiruind
+    vi: Xăm
+    wuu: 刺青
+    yi: טאטואירונג
+    yue: 紋身
+    zh: 刺青
 ---
-
 # [[Tattooing]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Tattooing,43006|WD~Tattooing,43006]]  

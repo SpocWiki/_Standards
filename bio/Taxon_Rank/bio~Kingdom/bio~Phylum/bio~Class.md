@@ -1,28 +1,242 @@
 ---
 aliases:
-  - classis
-  - class
-  - bio~Class
+- aicme
+- asmil
+- bio~Class
+- clas
+- clase
+- class
+- classa
+- classe
+- classi
+- classis
+- clasă
+- crasse
+- dosbarth
+- flokkur
+- isigaba
+- jueheguasã
+- kelas
+- Kelas (èlmu hayat)
+- kevrennad
+- klas
+- klasa
+- klase
+- klaso
+- klass
+- klasse
+- klassi
+- klasė
+- kong
+- luokka
+- luokká
+- lớp
+- ngeli
+- osztály
+- pinduan
+- pol
+- razred
+- rikch'aq sinri
+- sinf
+- sinif
+- sınıf
+- sıynıf
+- trieda
+- třída
+- Çîn
+- ομοταξία
+- клас
+- класа
+- класс
+- Класс (биологи)
+- кляса
+- косжарнаклылар классы
+- кълас
+- кылаас
+- синф
+- сыйныф
+- Դաս
+- מחלקה
+- جماعت
+- درجو
+- رجه
+- رده
+- طائفة
+- طايفه (أحياء)
+- كلاص
+- نِکٲے
+- چین
+- वर्ग
+- শ্রেণী
+- শ্ৰেণী
+- વર્ગ
+- வகுப்பு
+- తరగతి
+- ഗണം
+- වර්ගය
+- คลาส
+- မျိုးပေါင်း
+- კლასი
+- 綱
+- 纲
+- 강
 has_id_wikidata: Q37517
 Dewey_Decimal_Classification: 578.012
 different_from:
-  - '[[_Standards/WikiData/WD~Klass,453341]]'
-  - '[[_Standards/WikiData/WD~Klasse,1744556]]'
-  - '[[_Standards/WikiData/WD~Classis,3307293]]'
-  - '[[_Standards/WikiData/WD~Class,3679160]]'
-  - '[[_Standards/WikiData/WD~Clase,8346739]]'
-  - '[[_Standards/WikiData/WD~Klasa,13085175]]'
+- '[[_Standards/WikiData/WD~Klass,453341]]'
+- '[[_Standards/WikiData/WD~Klasse,1744556]]'
+- '[[_Standards/WikiData/WD~Classis,3307293]]'
+- '[[_Standards/WikiData/WD~Class,3679160]]'
+- '[[_Standards/WikiData/WD~Clase,8346739]]'
+- '[[_Standards/WikiData/WD~Klasa,13085175]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 797986
 part_of:
-  - '[[_Standards/WikiData/WD~subphylum,1153785]]'
-  - '[[_Standards/WikiData/WD~subdivision,3491997]]'
-  - '[[_Standards/WikiData/WD~superclass,3504061]]'
+- '[[_Standards/WikiData/WD~subphylum,1153785]]'
+- '[[_Standards/WikiData/WD~subdivision,3491997]]'
+- '[[_Standards/WikiData/WD~superclass,3504061]]'
+dv_has_:
+  name_:
+    af: klas
+    an: clase
+    ar: طائفة
+    ary: كلاص
+    arz: طايفه (أحياء)
+    as: শ্ৰেণী
+    ast: clas
+    az: sinif
+    ba: класс
+    ban: kelas
+    bar: Klasse
+    be: клас
+    be-tarask: кляса
+    bew: Kelas (èlmu hayat)
+    bg: клас
+    bho: वर्ग
+    bn: শ্রেণী
+    br: kevrennad
+    bs: klasa
+    ca: classe
+    ckb: چین
+    cs: třída
+    cv: Класс (биологи)
+    cy: dosbarth
+    da: klasse
+    de: Klasse
+    el: ομοταξία
+    en: class
+    en-ca: class
+    en-gb: class
+    eo: klaso
+    es: clase
+    et: klass
+    eu: klase
+    fa: رده
+    fi: luokka
+    fr: classe
+    frr: Klas
+    fy: klasse
+    ga: aicme
+    gd: clas
+    gl: clase
+    gn: jueheguasã
+    gsw: Klass
+    gu: વર્ગ
+    he: מחלקה
+    hi: वर्ग
+    hr: razred
+    hsb: klasa
+    ht: klas
+    hu: osztály
+    hy: Դաս
+    ia: classe
+    id: kelas
+    ilo: klase
+    inh: класс
+    is: flokkur
+    it: classe
+    ja: 綱
+    jv: kelas
+    ka: კლასი
+    kab: asmil
+    kk: класс
+    kk-cyrl: косжарнаклылар классы
+    ko: 강
+    ks: نِکٲے
+    ku: Çîn
+    ku-latn: pol
+    ky: класс
+    la: Classis
+    lb: Klass
+    li: Klas
+    lt: klasė
+    lv: klase
+    mk: класа
+    ml: ഗണം
+    ms: kelas
+    mt: klassi
+    my: မျိုးပေါင်း
+    mzn: رجه
+    nan: kong
+    nap: crasse
+    nb: klasse
+    nds: Klass
+    nl: klasse
+    nn: klasse
+    oc: classa
+    om: class
+    os: кълас
+    pam: pinduan
+    pl: klasa
+    pt: classe
+    qu: rikch'aq sinri
+    rki: မျိုးပေါင်း
+    ro: clasă
+    ru: класс
+    rue: клас
+    sah: кылаас
+    scn: classi
+    sd: درجو
+    se: luokká
+    sh: razred
+    shi: asmil
+    si: වර්ගය
+    sk: trieda
+    sl: razred
+    smn: luokka
+    sq: klasa
+    sr: класа
+    sv: klass
+    sw: ngeli
+    ta: வகுப்பு
+    te: తరగతి
+    tg: синф
+    th: คลาส
+    tl: klase
+    tr: sınıf
+    tt: сыйныф
+    tt-cyrl: сыйныф
+    tt-latn: sıynıf
+    udm: класс
+    uk: клас
+    ur: جماعت
+    uz: sinf
+    vec: clase
+    vi: lớp
+    vls: Klasse
+    war: classis
+    wuu: 纲
+    yue: 綱
+    zea: klasse
+    zh: 纲
+    zh-hans: 纲
+    zh-hant: 綱
+    zh-tw: 綱
+    zu: isigaba
 ---
-
 # [[bio~Class]] 
 
 #is_a_/taxon_rank  

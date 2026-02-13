@@ -1,33 +1,221 @@
 ---
 aliases:
+- dhyan
+- Meditaasje
+- meditaatio
+- meditace
+- Meditacija
+- Meditacion
+- meditació
+- meditación
+- meditado
+- Meditasie
+- meditasion
+- meditasiya
+- meditasjon
+- Meditasyon
+- meditatie
+- meditatio
+- meditation
+- Meditatsioon
+- meditatsiya
+- meditazio
+- meditazione
+- Meditazzion
+- Meditaçon
+- meditação
+- Meditație
+- Meditesen
+- Meditieshan
+- Meditimi
+- Meditácia
+- meditáció
+- meditācija
+- medytacja
+- medïtacïya
+- midheamhain
+- myfyrdod
+- Méditasyon
+- méditation
+- pagninilay
+- pámangúnam
+- Sala ya moyo
+- semadi
+- tafakur
+- Thiền
+- Ufungisiso
+- διαλογισμός
+- Бясалгал
+- медитація
+- медитација
+- медитация
+- медытацыя
+- мэдытацыя
+- Մեդիտացիա
+- מדיטציה
+- מעדיטאַציע
+- تأمل
+- مدیتیشن
+- مراقبه
+- مراقبہ
+- مەدىيتاتسىييا
+- ध्यान
+- ধ্যান
+- ਧਿਆਨ
+- தியானம்
+- ధ్యానం
+- ಧ್ಯಾನ
+- ധ്യാനം
+- භාවනා
+- การนั่งสมาธิ
+- ཏིང་ངེ་འཛིན།
+- တရားရှုမှတ်ခြင်း
+- ការតាំងសមាធិ
+- 冥想
+- 瞑想
+- 명상
 has_id_wikidata: Q108458
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~relaxation_technique,955260]]"
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
+- '[[_Standards/WikiData/WD~relaxation_technique,955260]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 different_from:
-  - "[[_Standards/WikiData/WD~meditation,3374868]]"
-  - "[[_Standards/WikiData/WD~attention,6501338]]"
-  - "[[_Standards/WikiData/WD~Q54894882,54894882]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Meditation,24238410]]"
-facet_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
+- '[[_Standards/WikiData/WD~meditation,3374868]]'
+- '[[_Standards/WikiData/WD~attention,6501338]]'
+- '[[_Standards/WikiData/WD~Q54894882,54894882]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Meditation,24238410]]'
+facet_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
 subreddit: Meditation
 Commons_category: Meditation
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Meditation%20banner%20Kailash%20Nath%20Statue.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thapas%20by%20Saktha%20Sri%20Varahi%20Manikanda%20Swamiji.jpg
 MeSH_tree_code:
-  - E02.190.525.374
-  - E02.190.901.455
-  - F04.754.137.750.500
+- E02.190.525.374
+- E02.190.901.455
+- F04.754.137.750.500
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MEDITATSIYA.html
 IMDb_keyword: meditation
 GitHub_topic: meditation
+dv_has_:
+  name_:
+    af: Meditasie
+    ar: تأمل
+    arz: تأمل
+    ast: meditación
+    awa: ध्यान
+    az: meditasiya
+    be: медытацыя
+    be-tarask: мэдытацыя
+    bg: Медитация
+    bn: ধ্যান
+    bo: ཏིང་ངེ་འཛིན།
+    ca: meditació
+    cs: meditace
+    cy: myfyrdod
+    da: Meditation
+    de: Meditation
+    el: διαλογισμός
+    en: meditation
+    eo: meditado
+    es: meditación
+    et: Meditatsioon
+    eu: meditazio
+    fa: مراقبه
+    fi: meditaatio
+    fr: méditation
+    fy: Meditaasje
+    ga: midheamhain
+    gcr: Méditasyon
+    gl: meditación
+    gsw: Meditation
+    he: מדיטציה
+    hi: dhyan
+    hr: Meditacija
+    ht: Meditasyon
+    hu: meditáció
+    hy: Մեդիտացիա
+    ia: Meditation
+    id: semadi
+    it: meditazione
+    ja: 瞑想
+    jam: Meditieshan
+    kk: медитация
+    kk-arab: مەدىيتاتسىييا
+    kk-cn: مەدىيتاتسىييا
+    kk-cyrl: Медитация
+    kk-kz: Медитация
+    kk-latn: medïtacïya
+    kk-tr: Medïtacïya
+    km: ការតាំងសមាធិ
+    kn: ಧ್ಯಾನ
+    ko: 명상
+    krj: meditasyon
+    ky: медитация
+    la: meditatio
+    lmo: Meditazzion
+    lt: meditacija
+    lv: meditācija
+    mk: медитација
+    ml: ധ്യാനം
+    mn: Бясалгал
+    mr: ध्यान
+    ms: tafakur
+    mwl: Meditaçon
+    my: တရားရှုမှတ်ခြင်း
+    mzn: مدیتیشن
+    nb: meditasjon
+    nds-nl: meditatie
+    new: ध्यान
+    nl: meditatie
+    nn: meditasjon
+    oc: Meditacion
+    pa: ਧਿਆਨ
+    pam: pámangúnam
+    pl: medytacja
+    pnb: مراقبہ
+    ps: مراقبه
+    pt: meditação
+    ro: Meditație
+    ru: медитация
+    sh: Meditacija
+    si: භාවනා
+    sk: Meditácia
+    sl: meditacija
+    sn: Ufungisiso
+    sq: Meditimi
+    sr: медитација
+    sr-ec: медитација
+    sr-el: meditacija
+    sv: meditation
+    sw: Sala ya moyo
+    ta: தியானம்
+    te: ధ్యానం
+    th: การนั่งสมาธิ
+    tl: pagninilay
+    tpi: Meditesen
+    tr: meditasyon
+    tt: медитация
+    uk: медитація
+    ur: مراقبہ
+    uz: meditatsiya
+    vec: meditasion
+    vi: Thiền
+    war: Meditasyon
+    wuu: 冥想
+    yi: מעדיטאַציע
+    yue: 冥想
+    zh: 冥想
+    zh-cn: 冥想
+    zh-hans: 冥想
+    zh-hant: 冥想
+    zh-hk: 冥想
+    zh-sg: 冥想
+    zh-tw: 冥想
 ---
-
 # [[Meditation]] 
 
 #is_/same_as :: [[WD~Meditation,108458]] 

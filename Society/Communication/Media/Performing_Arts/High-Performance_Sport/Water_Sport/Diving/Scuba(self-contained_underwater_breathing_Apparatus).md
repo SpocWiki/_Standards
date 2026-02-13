@@ -1,21 +1,102 @@
 ---
 aliases:
-  - scuba
-  - scuba set
-  - Drucklufttauchgerät
+- Akvalang
+- akvalangas
+- Akvalanq
+- aparat autonom de respirat sub apă
+- attrezzatura per immersioni
+- aŭtonoma skafandro
+- Drucklufttauchgerät
+- Dykutrustning
+- Escafandra autónoma
+- Escafandre autonòm
+- escafandre autònom
+- escafandro autónomo
+- potapljaški aparat
+- potápěčský přístroj
+- scaphandre autonome
+- scuba
+- scuba set
+- Set za ronjenje
+- skuba
+- Urpekaritza jantzi
+- Vāsa Scūbæ
+- Αυτόνομη κατάδυση
+- акваланг
+- аквалянг
+- Աքվալանգ
+- اسکوبا
+- جهاز التنفس للغوص
+- سکوبا
+- スクーバ器材
+- 水肺潛水裝置
+- 水肺潛水設備
+- 水肺裝備
+- 스쿠버 장비
 has_id_wikidata: Q2079255
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jacques_Cousteau,83233]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jacques_Cousteau,83233]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~diving_equipment,852784]]"
-  - "[[_Standards/WikiData/WD~underwater_breathing_apparatus,30715263]]"
-has_use: "[[_Standards/WikiData/WD~scuba_diving,1096878]]"
-location: "[[_Standards/WikiData/WD~subaquaria,3246517]]"
+- '[[_Standards/WikiData/WD~diving_equipment,852784]]'
+- '[[_Standards/WikiData/WD~underwater_breathing_apparatus,30715263]]'
+has_use: '[[_Standards/WikiData/WD~scuba_diving,1096878]]'
+location: '[[_Standards/WikiData/WD~subaquaria,3246517]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20cramp.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20diver%20in%20danger.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20cramp.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Diving%20signal%20diver%20in%20danger.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EL54p.jpg
+dv_has_:
+  name_:
+    af: skuba
+    ar: جهاز التنفس للغوص
+    ast: Escafandra autónoma
+    az: Akvalanq
+    be: акваланг
+    be-tarask: аквалянг
+    bg: Акваланг
+    ca: escafandre autònom
+    cs: potápěčský přístroj
+    da: SCUBA
+    de: Drucklufttauchgerät
+    de-ch: Drucklufttauchgerät
+    el: Αυτόνομη κατάδυση
+    en: SCUBA
+    en-ca: Scuba set
+    en-gb: scuba set
+    eo: aŭtonoma skafandro
+    es: escafandra autónoma
+    et: Akvalang
+    eu: Urpekaritza jantzi
+    fa: اسکوبا
+    fr: scaphandre autonome
+    hy: Աքվալանգ
+    id: Scuba
+    it: attrezzatura per immersioni
+    ja: スクーバ器材
+    kk: Акваланг
+    ko: 스쿠버 장비
+    ky: Акваланг
+    la: Vāsa Scūbæ
+    lt: akvalangas
+    ms: Skuba
+    nb: SCUBA
+    nl: SCUBA
+    oc: Escafandre autonòm
+    pt: escafandro autónomo
+    pt-br: escafandro autónomo
+    ro: aparat autonom de respirat sub apă
+    ru: акваланг
+    sl: potapljaški aparat
+    sr: Set za ronjenje
+    sv: Dykutrustning
+    uk: акваланг
+    ur: سکوبا
+    uz: Akvalang
+    war: Scuba
+    yue: 水肺裝備
+    zh: 水肺裝備
+    zh-hans: 水肺潛水設備
+    zh-hant: 水肺潛水裝置
 ---
-
 # [[Scuba(self-contained_underwater_breathing_Apparatus)]] 
 
 #is_/same_as :: [[WD~Scuba_set,2079255]] 

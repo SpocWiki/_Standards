@@ -1,22 +1,96 @@
 ---
 aliases:
+- akmazlık
+- biskositate
+- Fitsiloly
+- gleiynaght
+- gwasgedd
+- japısqaqlıq
+- kelikatan
+- klampumas
+- lepkość
+- Liâm-tō͘
+- Seigja
+- slaodacht
+- Tutqırlıq
+- viscosidad
+- viscosidade
+- viscosidá
+- viscositat
+- viscositeit
+- viscosity
+- viscosità
+- viscosité
+- viscozitate
+- Viskoossus
+- Viskositas
+- viskositeetti
+- Viskositeit
+- viskositet
+- Viskosität
+- Viskositéit
+- viskozeco
+- viskozita
+- Viskozite
+- Viskoziteti
+- viskozitāte
+- Viskoznost
+- Viskoznost fluida
+- viszkozitás
+- Yopishqoqlik
+- Özlülük
+- độ nhớt
+- γλοιότητα ή ιξώδες
+- в'язкість
+- Вискозитет
+- вискозност
+- вискозност флуида
+- вязкасць
+- вязкость
+- грузкасьць
+- Зунгааралт
+- Нӳнек
+- Пезнамо
+- Тұтқырлық
+- ябышкаклык
+- մածուցիկություն
+- צמיגות
+- آغدالیک
+- تۇتقىرلىق
+- خټنه
+- لزوجة
+- لزوجت
+- گرانروی
+- भिस्कोसीटि
+- श्यानता
+- সান্দ্রতা
+- ਲੇਸ
+- பிசுக்குமை
+- స్నిగ్థత
+- ಸ್ನಿಗ್ಧತೆ
+- දුස්රාවීතාවය
+- ความหนืด
+- სიბლანტე
+- 粘度
+- 黏度
+- 점성
 has_id_wikidata: Q128709
-facet_of: "[[_Standards/WikiData/WD~friction,82580]]"
-studied_by: "[[../../../../WikiData/WD~Rheology,271707]]"
-different_from: "[[_Standards/WikiData/WD~plasticity,472074]]"
+facet_of: '[[_Standards/WikiData/WD~friction,82580]]'
+studied_by: '[[../../../../WikiData/WD~Rheology,271707]]'
+different_from: '[[_Standards/WikiData/WD~plasticity,472074]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~intensive_quantity,3387041]]"
-  - "[[_Standards/WikiData/WD~properties_of_water,6478447]]"
-  - "[[_Standards/WikiData/WD~resistance_force,110558361]]"
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~properties_of_water,6478447]]'
+- '[[_Standards/WikiData/WD~resistance_force,110558361]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-instance_of: "[[_Standards/WikiData/WD~mechanical_property,5725005]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Q124512574,124512574]]"
-OmegaWiki_Defined_Meaning: "3972"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Q124512574,124512574]]'
+OmegaWiki_Defined_Meaning: 3972
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi><mo stretchy="false">:</mo><mi>F</mi><mo stretchy="false">=</mo><mi>&#x03BC;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>u</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>y</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Honey%20from%20jar.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE.wav
@@ -26,9 +100,109 @@ Colon_Classification: C25:63
 MeSH_tree_code: G02.930
 Commons_category: Viscosity
 quantity_symbol_string_:
-  - η
-  - μ
-Dewey_Decimal_Classification: "532.0533"
+- η
+- μ
+Dewey_Decimal_Classification: 532.0533
+dv_has_:
+  name_:
+    af: Viskositeit
+    ar: لزوجة
+    ast: viscosidá
+    az: Özlülük
+    azb: آغدالیک
+    be: вязкасць
+    be-tarask: грузкасьць
+    bg: Вискозитет
+    bn: সান্দ্রতা
+    bs: Viskoznost
+    ca: viscositat
+    cs: viskozita
+    cv: Нӳнек
+    cy: gwasgedd
+    da: Viskositet
+    de: Viskosität
+    el: γλοιότητα ή ιξώδες
+    en: viscosity
+    eo: viskozeco
+    es: viscosidad
+    et: Viskoossus
+    eu: biskositate
+    fa: گرانروی
+    fi: viskositeetti
+    fr: viscosité
+    ga: slaodacht
+    gl: viscosidade
+    gv: gleiynaght
+    he: צמיגות
+    hi: श्यानता
+    hr: Viskoznost
+    ht: Viskozite
+    hu: viszkozitás
+    hy: մածուցիկություն
+    id: Viskositas
+    is: Seigja
+    it: viscosità
+    ja: 粘度
+    jv: Viskositas
+    ka: სიბლანტე
+    kaa: japısqaqlıq
+    kk: Тұтқырлық
+    kk-arab: تۇتقىرلىق
+    kk-cn: تۇتقىرلىق
+    kk-cyrl: Тұтқырлық
+    kk-kz: Тұтқырлық
+    kk-latn: Tutqırlıq
+    kk-tr: Tutqırlıq
+    kn: ಸ್ನಿಗ್ಧತೆ
+    ko: 점성
+    lb: Viskositéit
+    lt: klampumas
+    lv: viskozitāte
+    mg: Fitsiloly
+    mk: вискозност
+    ml: Viscosity
+    mn: Зунгааралт
+    ms: kelikatan
+    myv: Пезнамо
+    nan: Liâm-tō͘
+    nb: viskositet
+    ne: भिस्कोसीटि
+    nl: viscositeit
+    nn: viskositet
+    pa: ਲੇਸ
+    pl: lepkość
+    ps: خټنه
+    pt: viscosidade
+    ro: viscozitate
+    ru: вязкость
+    sh: Viskoznost fluida
+    si: දුස්රාවීතාවය
+    sk: viskozita
+    sl: viskoznost
+    sq: Viskoziteti
+    sr: вискозност флуида
+    sr-ec: Вискозност флуида
+    sr-el: Viskoznost fluida
+    sv: viskositet
+    ta: பிசுக்குமை
+    te: స్నిగ్థత
+    th: ความหนืด
+    tr: akmazlık
+    tt: ябышкаклык
+    tt-cyrl: ябышкаклык
+    uk: в'язкість
+    ur: لزوجت
+    uz: Yopishqoqlik
+    vi: độ nhớt
+    wuu: 黏度
+    yue: 黏度
+    zh: 黏度
+    zh-cn: 黏度
+    zh-hans: 黏度
+    zh-hant: 黏度
+    zh-hk: 黏度
+    zh-sg: 黏度
+    zh-tw: 黏度
 ---
 # [[Viscosity]] 
 

@@ -1,8 +1,60 @@
 ---
 has_id_wikidata: Q661845
+dv_has_:
+  name_:
+    af: STMicroelectronics
+    ar: إس تي ميكروإلكترونكس
+    azb: استیمایکروالکترونیکس
+    ca: STMicroelectronics
+    cs: STMicroelectronics
+    da: STMicroelectronics
+    de: STMicroelectronics
+    en: STMicroelectronics
+    eo: STMicroelectronics
+    es: STMicroelectronics
+    et: STMicroelectronics
+    eu: STMicroelectronics
+    fa: استیمایکروالکترونیکس
+    fi: STMicroelectronics
+    fr: STMicroelectronics
+    ga: STMicroelectronics
+    ha: STMicroelectronics
+    hi: एसटी माइक्रो इलेक्ट्रॉनिक्स
+    hu: STMicroelectronics
+    id: STMicroelectronics
+    ig: STMicroelectronics
+    is: STMicroelectronics
+    it: STMicroelectronics
+    ja: STマイクロエレクトロニクス
+    ko: ST마이크로일렉트로닉스
+    lv: STMicroelectronics
+    ms: STMicroelectronics
+    nb: STMicroelectronics
+    nl: STMicroelectronics
+    pl: STMicroelectronics
+    pt: STMicroelectronics
+    ro: STMicroelectronics
+    ru: STMicroelectronics
+    sk: STMicroelectronics
+    sv: STMicroelectronics
+    tr: STMicroelectronics
+    uk: STMicroelectronics
+    vec: STMicroelectronics
+    vi: STMicroelectronics
+    zh: 意法半導體
+    zh-hans: 意法半导体
+    zh-hant: 意法半導體
+    zh-hk: 意法半導體
+aliases:
+- STMicroelectronics
+- STマイクロエレクトロニクス
+- ST마이크로일렉트로닉스
+- إس تي ميكروإلكترونكس
+- استیمایکروالکترونیکس
+- एसटी माइक्रो इलेक्ट्रॉनिक्स
+- 意法半导体
+- 意法半導體
 ---
-
-
 # [[STMicroelectronics]] 
 
 

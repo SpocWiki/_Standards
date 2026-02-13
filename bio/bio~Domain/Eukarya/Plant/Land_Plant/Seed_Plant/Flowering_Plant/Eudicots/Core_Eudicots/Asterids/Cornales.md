@@ -1,8 +1,120 @@
 ---
 aliases:
-  - Cornales
+- Bộ Sơn thù du
+- Cornales
+- Cornals
+- Cornus (подрод)
+- dereniowce
+- drenovci
+- drieňotvaré
+- Drjenolike
+- dřínotvaré
+- grimoņu rinda
+- Hartriegelartige
+- Koma guhûşk û gihanavinciyan
+- Kontpuulaadsed
+- Kornel-ordenen
+- kornellordenen
+- Kornusaloj
+- Seduliečiai
+- Skermblom
+- somvirágúak
+- Zoğalçiçəklilər
+- Κρανειώδη
+- Дереноцвіті
+- дреновидни
+- дряноцветни
+- Кізілакветныя
+- кизилоцветные
+- հոնածաղկավորներ
+- קורנאים
+- زغالاختهسانان
+- قرانيات
+- കോർണേൽസ്
+- ミズキ目
+- 山茱萸目
+- 층층나무목
 title: Cornales
 has_id_wikidata: Q21769
+dv_has_:
+  name_:
+    af: Skermblom
+    an: Cornales
+    ar: قرانيات
+    arz: قرانيات
+    ast: Cornales
+    az: Zoğalçiçəklilər
+    be: Кізілакветныя
+    be-tarask: Кізілакветныя
+    bg: дряноцветни
+    bs: Cornales
+    ca: Cornals
+    ceb: Cornales
+    co: Cornales
+    cs: dřínotvaré
+    da: Kornel-ordenen
+    de: Hartriegelartige
+    el: Κρανειώδη
+    en: Cornales
+    en-ca: Cornales
+    en-gb: Cornales
+    eo: Kornusaloj
+    es: Cornales
+    et: Kontpuulaadsed
+    eu: Cornales
+    ext: Cornales
+    fa: زغالاختهسانان
+    fi: Cornales
+    fr: Cornales
+    frr: Cornales
+    ga: Cornales
+    gl: Cornales
+    he: קורנאים
+    hr: Drjenolike
+    hu: somvirágúak
+    hy: հոնածաղկավորներ
+    ia: Cornales
+    id: Cornales
+    ie: Cornales
+    io: Cornales
+    it: Cornales
+    ja: ミズキ目
+    ko: 층층나무목
+    ku: Koma guhûşk û gihanavinciyan
+    la: Cornales
+    lt: Seduliečiai
+    lv: grimoņu rinda
+    mk: дреновидни
+    ml: കോർണേൽസ്
+    mul: Cornales
+    nb: kornellordenen
+    nl: Cornales
+    nn: kornellordenen
+    oc: Cornales
+    pl: dereniowce
+    pt: Cornales
+    pt-br: Cornales
+    ro: Cornales
+    ru: кизилоцветные
+    sco: Cornales
+    sk: drieňotvaré
+    sl: drenovci
+    sq: Cornales
+    sr: Cornus (подрод)
+    sv: Cornales
+    tr: Cornales
+    uk: Дереноцвіті
+    vec: Cornales
+    vi: Bộ Sơn thù du
+    vo: Cornales
+    war: Cornales
+    wuu: 山茱萸目
+    yue: 山茱萸目
+    zh: 山茱萸目
+    zh-cn: 山茱萸目
+    zh-hans: 山茱萸目
+    zh-hant: 山茱萸目
+    zh-tw: 山茱萸目
 ---
 # [[Cornales]] 
 

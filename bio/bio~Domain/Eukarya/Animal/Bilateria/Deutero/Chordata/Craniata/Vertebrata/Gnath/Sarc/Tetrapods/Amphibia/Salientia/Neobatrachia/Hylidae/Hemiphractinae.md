@@ -1,8 +1,73 @@
 ---
 aliases:
-  - Hemiphractinae
+- Chʼał bizaʼazis dahólónígíí dóó bikʼéí
+- Hemiphractidae
+- Hemiphractinae
+- Họ Nhái sừng
+- vakorosničkovití
+- Американські райки
+- המיפרקטיים
+- شاخکغوکان
+- ضفادع مقرنة
+- ضفادع مقرنه
+- ჩანთოსანი ვასაკები
+- 扩角蛙科
+- 뿔청개구리과
 title: Hemiphractinae
 has_id_wikidata: Q2852661
+dv_has_:
+  name_:
+    an: Hemiphractidae
+    ar: ضفادع مقرنة
+    arz: ضفادع مقرنه
+    ast: Hemiphractidae
+    az: Hemiphractidae
+    be: Hemiphractidae
+    bg: Hemiphractidae
+    ca: Hemiphractidae
+    ceb: Hemiphractidae
+    cs: vakorosničkovití
+    de: Hemiphractidae
+    en: Hemiphractidae
+    en-ca: Hemiphractidae
+    en-gb: Hemiphractidae
+    eo: Hemiphractidae
+    es: Hemiphractidae
+    eu: Hemiphractidae
+    ext: Hemiphractidae
+    fa: شاخکغوکان
+    fi: Hemiphractidae
+    fr: Hemiphractidae
+    ga: Hemiphractidae
+    gl: Hemiphractidae
+    he: המיפרקטיים
+    hu: Hemiphractidae
+    ia: Hemiphractidae
+    ie: Hemiphractidae
+    io: Hemiphractidae
+    it: Hemiphractidae
+    ka: ჩანთოსანი ვასაკები
+    ko: 뿔청개구리과
+    la: Hemiphractidae
+    mul: Hemiphractidae
+    nl: Hemiphractidae
+    nv: Chʼał bizaʼazis dahólónígíí dóó bikʼéí
+    oc: Hemiphractinae
+    pl: Hemiphractidae
+    pt: Hemiphractidae
+    pt-br: Hemiphractidae
+    ro: Hemiphractidae
+    ru: Hemiphractidae
+    sq: Hemiphractidae
+    sv: Hemiphractidae
+    tr: Hemiphractidae
+    uk: Американські райки
+    vi: Họ Nhái sừng
+    vo: Hemiphractidae
+    war: Hemiphractidae
+    zh: 扩角蛙科
+    zh-cn: 扩角蛙科
+    zh-hans: 扩角蛙科
 ---
 # [[Hemiphractinae]] 
 

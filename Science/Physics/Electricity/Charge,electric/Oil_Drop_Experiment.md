@@ -1,10 +1,92 @@
 ---
 aliases:
+- Aliejaus lašo eksperimentas
+- eksperimenti i Millikan
+- eksperimento de oleguto
+- eksperyment Millikana
+- esperimento di Millikan
+- Esperimentu de Millikan
+- experiment de Millikan
+- experimento de Millikan
+- experiência da gota de óleo
+- expérience de la goutte d'huile de Millikan
+- Milikanov eksperiment
+- Millikan-Versuch
+- Millikanen esperimentu
+- Millikanin koe
+- Millikanov pokus
+- Millikans oljedroppsförsök
+- oil drop experiment
+- Olajcseppkísérlet
+- Percobaan Millikan
+- proef van Millikan
+- Thí nghiệm giọt dầu Millikan
+- Yağ damlası deneyi
+- Πείραμα των σταγονιδίων λαδιού
+- Експеримент з олійними краплями
+- Миликанов експеримент
+- Миликенови експерименти
+- Опыт Милликена
+- экспэрымэнт Мілікена
+- ניסוי מיליקן
+- آزمایش قطره روغن
+- تجربة قطرة الزيت
+- میلیکین کا برقی بار جاننے کا تجربہ
+- तैल विन्दु प्रयोग
+- மில்லிகனின் எண்ணெய் திவலை சோதனை
+- എണ്ണത്തുള്ളി പരീക്ഷണം
+- ミリカンの油滴実験
+- 油滴實驗
+- 기름방울 실험
 has_id_wikidata: Q649803
-named_after: "[[_Standards/WikiData/WD~Robert_A._Millikan,130975]]"
-instance_of: "[[_Standards/WikiData/WD~physics_experiment,77872752]]"
+named_after: '[[_Standards/WikiData/WD~Robert_A._Millikan,130975]]'
+instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Millikan%27s%20setup%20for%20the%20oil%20drop%20experiment.jpg
 Commons_category: Oil-drop experiment
+dv_has_:
+  name_:
+    ar: تجربة قطرة الزيت
+    ast: Esperimentu de Millikan
+    be-tarask: экспэрымэнт Мілікена
+    ca: experiment de Millikan
+    de: Millikan-Versuch
+    el: Πείραμα των σταγονιδίων λαδιού
+    en: oil drop experiment
+    en-ca: Oil drop experiment
+    en-gb: Oil drop experiment
+    eo: eksperimento de oleguto
+    es: experimento de Millikan
+    eu: Millikanen esperimentu
+    fa: آزمایش قطره روغن
+    fi: Millikanin koe
+    fr: expérience de la goutte d'huile de Millikan
+    he: ניסוי מיליקן
+    hi: तैल विन्दु प्रयोग
+    hr: Millikanov pokus
+    hu: Olajcseppkísérlet
+    id: Percobaan Millikan
+    it: esperimento di Millikan
+    ja: ミリカンの油滴実験
+    ko: 기름방울 실험
+    lt: Aliejaus lašo eksperimentas
+    mk: Миликенови експерименти
+    ml: എണ്ണത്തുള്ളി പരീക്ഷണം
+    nl: proef van Millikan
+    pl: eksperyment Millikana
+    pt: experiência da gota de óleo
+    pt-br: Experiência da gota de óleo
+    ru: Опыт Милликена
+    sh: Milikanov eksperiment
+    sq: eksperimenti i Millikan
+    sr: Миликанов експеримент
+    su: Percobaan Millikan
+    sv: Millikans oljedroppsförsök
+    ta: மில்லிகனின் எண்ணெய் திவலை சோதனை
+    tr: Yağ damlası deneyi
+    uk: Експеримент з олійними краплями
+    ur: میلیکین کا برقی بار جاننے کا تجربہ
+    vi: Thí nghiệm giọt dầu Millikan
+    zh: 油滴實驗
 ---
 # [[Oil_Drop_Experiment]] 
 

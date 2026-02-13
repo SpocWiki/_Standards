@@ -1,46 +1,53 @@
 ---
-has_time_started: 1950-06-05 
+has_time_started: 1950-06-05
 aliases:
-  - ARD(broadcaster)
+- Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland
+- ARD
+- ARD(broadcaster)
+- آ.ار.د
+- إيه آر دي
+- ドイツ公共放送連盟
+- 德国公共广播联盟
+- 德國公共廣播聯盟
 has_id_wikidata: Q49653
 chairperson: '[[_Standards/WikiData/WD~Tom_Buhrow,108634]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~Mitteldeutscher_Rundfunk,158948]]'
-  - '[[_Standards/WikiData/WD~Norddeutscher_Rundfunk,201275]]'
-  - '[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453]]'
-  - '[[_Standards/WikiData/WD~Bayerischer_Rundfunk,278637]]'
-  - '[[_Standards/WikiData/WD~Nordwestdeutscher_Rundfunk,446604]]'
-  - '[[_Standards/WikiData/WD~Ostdeutscher_Rundfunk_Brandenburg,446608]]'
-  - '[[_Standards/WikiData/WD~Süddeutscher_Rundfunk,446987]]'
-  - '[[_Standards/WikiData/WD~Saarländischer_Rundfunk,691047]]'
-  - '[[_Standards/WikiData/WD~Sender_Freies_Berlin,692419]]'
-  - '[[_Standards/WikiData/WD~Radio_Bremen,694837]]'
-  - '[[_Standards/WikiData/WD~Südwestrundfunk,700133]]'
-  - '[[_Standards/WikiData/WD~Südwestfunk,897128]]'
-  - '[[_Standards/WikiData/WD~Rundfunk_Berlin_Brandenburg,19899]]'
-  - '[[_Standards/WikiData/WD~Hessischer_Rundfunk,23565]]'
+- '[[_Standards/WikiData/WD~Mitteldeutscher_Rundfunk,158948]]'
+- '[[_Standards/WikiData/WD~Norddeutscher_Rundfunk,201275]]'
+- '[[_Standards/WikiData/WD~Westdeutscher_Rundfunk,203453]]'
+- '[[_Standards/WikiData/WD~Bayerischer_Rundfunk,278637]]'
+- '[[_Standards/WikiData/WD~Nordwestdeutscher_Rundfunk,446604]]'
+- '[[_Standards/WikiData/WD~Ostdeutscher_Rundfunk_Brandenburg,446608]]'
+- '[[_Standards/WikiData/WD~Süddeutscher_Rundfunk,446987]]'
+- '[[_Standards/WikiData/WD~Saarländischer_Rundfunk,691047]]'
+- '[[_Standards/WikiData/WD~Sender_Freies_Berlin,692419]]'
+- '[[_Standards/WikiData/WD~Radio_Bremen,694837]]'
+- '[[_Standards/WikiData/WD~Südwestrundfunk,700133]]'
+- '[[_Standards/WikiData/WD~Südwestfunk,897128]]'
+- '[[_Standards/WikiData/WD~Rundfunk_Berlin_Brandenburg,19899]]'
+- '[[_Standards/WikiData/WD~Hessischer_Rundfunk,23565]]'
 member_of:
-  - '[[_Standards/WikiData/WD~European_Broadcasting_Union,166400]]'
-  - '[[_Standards/WikiData/WD~Deutscher_Musikrat,1205137]]'
-  - '[[_Standards/WikiData/WD~Vertrauensstelle_gegen_sexuelle_Belästigung,54590149]]'
-  - '[[_Standards/WikiData/WD~German_Media_Council,62816344]]'
+- '[[_Standards/WikiData/WD~European_Broadcasting_Union,166400]]'
+- '[[_Standards/WikiData/WD~Deutscher_Musikrat,1205137]]'
+- '[[_Standards/WikiData/WD~Vertrauensstelle_gegen_sexuelle_Belästigung,54590149]]'
+- '[[_Standards/WikiData/WD~German_Media_Council,62816344]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
 different_from: '[[_Standards/WikiData/WD~ARD,256926]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~KiKA,262627]]'
-  - '[[_Standards/WikiData/WD~ARD_Mediathek,296581]]'
-  - '[[_Standards/WikiData/WD~One,316322]]'
-  - '[[_Standards/WikiData/WD~DW_TV,1156181]]'
-  - '[[_Standards/WikiData/WD~Phoenix,3381361]]'
-  - '[[_Standards/WikiData/WD~Arte_Deutschland_TV,23017388]]'
-  - '[[_Standards/WikiData/WD~funk,23786473]]'
-  - '[[_Standards/WikiData/WD~ARD_Audiothek,60983102]]'
-  - '[[_Standards/WikiData/WD~EinsPlus,45845]]'
-  - '[[_Standards/WikiData/WD~Das_Erste,49727]]'
+- '[[_Standards/WikiData/WD~KiKA,262627]]'
+- '[[_Standards/WikiData/WD~ARD_Mediathek,296581]]'
+- '[[_Standards/WikiData/WD~One,316322]]'
+- '[[_Standards/WikiData/WD~DW_TV,1156181]]'
+- '[[_Standards/WikiData/WD~Phoenix,3381361]]'
+- '[[_Standards/WikiData/WD~Arte_Deutschland_TV,23017388]]'
+- '[[_Standards/WikiData/WD~funk,23786473]]'
+- '[[_Standards/WikiData/WD~ARD_Audiothek,60983102]]'
+- '[[_Standards/WikiData/WD~EinsPlus,45845]]'
+- '[[_Standards/WikiData/WD~Das_Erste,49727]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~ARD_Hauptstadtstudio,296515]]'
-  - '[[_Standards/WikiData/WD~ARD_Stern,296554]]'
-  - '[[_Standards/WikiData/WD~ARD_Foto,109829474]]'
+- '[[_Standards/WikiData/WD~ARD_Hauptstadtstudio,296515]]'
+- '[[_Standards/WikiData/WD~ARD_Stern,296554]]'
+- '[[_Standards/WikiData/WD~ARD_Foto,109829474]]'
 award_received: '[[_Standards/WikiData/WD~Q2227687,2227687]]'
 instance_of: '[[_Standards/WikiData/WD~broadcaster,15265344]]'
 legal_form: '[[_Standards/WikiData/WD~public_law_institution_(Germany),67207116]]'
@@ -50,8 +57,8 @@ location_of_formation: '[[_Standards/WikiData/WD~Berlin,64]]'
 country: '[[_Standards/WikiData/WD~Germany,183]]'
 official_language: '[[_Standards/WikiData/WD~German,188]]'
 social_media_followers:
-  - 847000
-  - 161457
+- 847000
+- 161457
 Stadtwiki_Dresden_article: ARD
 Commons_category: ARD
 Twitch_username: ard
@@ -66,12 +73,72 @@ described_at_URL: https://www.kek-online.de/medienkonzentration/mediendatenbank/
 ISNI: 0000000121953271
 P8189: 987007461971305171
 X_Twitter_username:
-  - ardde
-  - ARDde
+- ardde
+- ARDde
 EU_VAT_number: DE812481116
 motto_text: Wir sind deins.
+dv_has_:
+  name_:
+    af: ARD
+    ar: إيه آر دي
+    ast: ARD
+    az: ARD
+    be-tarask: ARD
+    bg: ARD
+    ca: ARD
+    cs: ARD
+    da: ARD
+    de-ch: ARD
+    diq: ARD
+    el: ARD
+    en-ca: ARD
+    en-gb: ARD
+    eo: ARD
+    es: ARD
+    eu: ARD
+    fa: آ.ار.د
+    fi: ARD
+    frr: ARD
+    gl: ARD
+    he: ARD
+    hr: ARD
+    hu: ARD
+    hy: ARD
+    id: ARD
+    it: ARD
+    ja: ドイツ公共放送連盟
+    kk: ARD
+    ko: ARD
+    ku: ARD
+    la: ARD
+    lb: ARD
+    lt: ARD
+    ms: ARD
+    mul: ARD
+    nb: ARD
+    nl: ARD
+    nn: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland
+    oc: ARD
+    pl: ARD
+    pt: ARD
+    pt-br: ARD
+    ro: ARD
+    ru: ARD
+    sh: ARD
+    sl: ARD
+    sr: ARD
+    sv: ARD
+    tr: ARD
+    uk: ARD
+    vec: ARD
+    vi: ARD
+    wuu: 德国公共广播联盟
+    xmf: ARD
+    yue: 德國公共廣播聯盟
+    zh: 德国公共广播联盟
+    zh-hant: 德國公共廣播聯盟
+    zh-tw: 德國公共廣播聯盟
 ---
-
 # [[ARD(broadcaster)]] 
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~ARD,49653|WD~ARD,49653]] 

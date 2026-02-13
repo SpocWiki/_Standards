@@ -1,8 +1,61 @@
 ---
 has_id_wikidata: Q9092220
+dv_has_:
+  name_:
+    an: Vaccinioideae
+    ar: عنبياوات
+    ast: Vaccinioideae
+    az: Qaragiləkimilər
+    be: бруснічныя
+    bg: Vaccinioideae
+    ca: Vaccinioideae
+    ceb: Vaccinioideae
+    de: Vaccinioideae
+    en: Vaccinioideae
+    eo: Vaccinioideae
+    es: Vaccinioideae
+    eu: Vaccinioideae
+    ext: Vaccinioideae
+    fi: Vaccinioideae
+    fr: Vaccinioideae
+    ga: Vaccinioideae
+    gl: Vaccinioideae
+    hr: Vaccinioideae
+    hy: հապալասենայիններ
+    ia: Vaccinioideae
+    ie: Vaccinioideae
+    io: Vaccinioideae
+    it: Vaccinioideae
+    kk: Қаражидектер Тұқымдасы
+    ko: 산앵도나무아과
+    la: Vaccinioideae
+    mul: Vaccinioideae
+    nl: Vaccinioideae
+    oc: Vaccinioideae
+    pl: Vaccinioideae
+    pt: Vaccinioideae
+    pt-br: Vaccinioideae
+    qu: Macha-macha
+    ro: Vaccinioideae
+    ru: Vaccinioideae
+    sl: Vaccinioideae
+    sq: Vaccinioideae
+    uk: Vaccinioideae
+    vi: Vaccinioideae
+    vo: Vaccinioideae
+    war: Vaccinioideae
+    zh: 越橘亞科
+aliases:
+- Macha-macha
+- Qaragiləkimilər
+- Vaccinioideae
+- бруснічныя
+- Қаражидектер Тұқымдасы
+- հապալասենայիններ
+- عنبياوات
+- 越橘亞科
+- 산앵도나무아과
 ---
-
-
 # [[Vaccinioideae]] 
 
 #is_/same_as :: 

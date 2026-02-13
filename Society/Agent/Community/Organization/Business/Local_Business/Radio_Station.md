@@ -1,64 +1,231 @@
 ---
 aliases:
-  - radio-station
-  - radio_station
-  - RadioStation
-  - is_a_radio_station
-  - Radio_Station
-  - Radio Station
+- emesilo* di radio
+- emisora de radio
+- emissora de ràdio
+- estasyun ning radyu
+- estação de rádio
+- gorsaf radio
+- himpilan ng radyo
+- Hörfunksender
+- irrati-estazio
+- is_a_radio_station
+- i̇stasyonê radyoy
+- post de radio
+- raadiojaam
+- radijo stotis
+- radijska postaja
+- radio
+- radio stanica
+- Radio Station
+- radio-station
+- radioasema
+- radiosajattâh
+- Radiosenner
+- Radiosstatioun
+- radiostacija
+- radiostacio
+- radiostanica
+- radiostasie
+- radiostasjon
+- radiostasjovne
+- RadioStation
+- Radiosänder
+- radiozender
+- radio_station
+- radyo
+- radyo istasyonu
+- Raedio-Staeschen
+- rozhlasová stanice
+- rozhłosowy sćelak
+- ràdio
+- rádio
+- rádiostašuvdna
+- rádióállomás
+- savlec'h skingomz
+- Setatsiyun radhio
+- stacja radiowa
+- stasion aradiofonega
+- stasiun radio
+- station de radio
+- stazione radiofonica
+- stazione radiufonica
+- stesen penyiaran radio
+- stáisiún raidió
+- tashar radio
+- đài phát thanh
+- ραδιοφωνικός σταθμός
+- вещательная радиостанция
+- истгоҳи родиюӣ
+- радіомовна станція
+- радио станица
+- радио станциясе
+- радио-станица
+- радиостаница
+- радиостанция
+- радыёстанцыя
+- ռադիոկայան
+- תחנת רדיו
+- ایستگاه رادیویی
+- ریڈیو اسٹیشن
+- محطة إذاعية
+- অনাতাঁৰ কেন্দ্ৰ
+- বেতার কেন্দ্র
+- வானொலி நிலையம்
+- రేడియో స్టేషన్
+- สถานีวิทยุกระจายเสียง
+- რადიოსადგური
+- ラジオ放送局
+- 电台
+- 電台
+- 라디오 방송국
 has_id_wikidata: Q14350
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - radio_station
+- radio_station
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_station Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_radio_station Class
 type: Type
 owner_of: '[[_Standards/WikiData/WD~radio_channel,1474440]]'
 different_from:
-  - '[[_Standards/WikiData/WD~radio_communication_station,1474493]]'
-  - '[[_Standards/WikiData/WD~broadcasting_station,125053629]]'
+- '[[_Standards/WikiData/WD~radio_communication_station,1474493]]'
+- '[[_Standards/WikiData/WD~broadcasting_station,125053629]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-  - '[[_Standards/WikiData/WD~radio_people,27978310]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~radio_people,27978310]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~broadcaster,15265344]]'
-  - '[[_Standards/WikiData/WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~broadcaster,15265344]]'
+- '[[_Standards/WikiData/WD~mass_media,11033]]'
 industry: '[[_Standards/WikiData/WD~radio_broadcasting,29584757]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
 properties_for_this_type:
-  - radio format
-  - inception
-  - official website
-  - streaming media URL
-  - licensed to broadcast to
-  - language used
-  - country
+- radio format
+- inception
+- official website
+- streaming media URL
+- licensed to broadcast to
+- language used
+- country
 IMDb_keyword: radio-station
 subreddit: radio
 U_S_National_Archives_Identifier: 10644557
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RCF%20Dialogue%20r%C3%A9gie.jpg
 equivalent_class:
-  - http://purl.org/ontology/po/Radio
-  - https://schema.org/RadioStation
+- http://purl.org/ontology/po/Radio
+- https://schema.org/RadioStation
 Common_Procurement_Vocabulary_code: 32344230
 Commons_category: Radio stations
 GeoNames_feature_code: S.STNR
+dv_has_:
+  name_:
+    af: radiostasie
+    ar: محطة إذاعية
+    as: অনাতাঁৰ কেন্দ্ৰ
+    ast: radio
+    be: радыёстанцыя
+    be-tarask: радыёстанцыя
+    bg: радиостанция
+    bn: বেতার কেন্দ্র
+    br: savlec'h skingomz
+    bs: radiostanica
+    ca: emissora de ràdio
+    co: stazione radiufonica
+    cs: rozhlasová stanice
+    cy: gorsaf radio
+    da: radiostation
+    de: Hörfunksender
+    diq: i̇stasyonê radyoy
+    el: ραδιοφωνικός σταθμός
+    en: radio station
+    eo: radiostacio
+    es: emisora de radio
+    et: raadiojaam
+    eu: irrati-estazio
+    fa: ایستگاه رادیویی
+    fi: radioasema
+    fr: station de radio
+    ga: stáisiún raidió
+    gl: emisora de radio
+    gsw: Radiosänder
+    ha: tashar radio
+    he: תחנת רדיו
+    hsb: rozhłosowy sćelak
+    ht: radyo
+    hu: rádióállomás
+    hy: ռադիոկայան
+    id: stasiun radio
+    io: emesilo* di radio
+    it: stazione radiofonica
+    ja: ラジオ放送局
+    jv: Setatsiyun radhio
+    ka: რადიოსადგური
+    ko: 라디오 방송국
+    ky: радиостанция
+    lb: Radiosstatioun
+    lt: radijo stotis
+    lv: radiostacija
+    mk: радиостаница
+    ms: stesen penyiaran radio
+    nb: radiostasjon
+    nds: Radiosenner
+    nds-nl: radiozender
+    nl: radiostation
+    nn: radiostasjon
+    oc: ràdio
+    pam: estasyun ning radyu
+    pdc: Raedio-Staeschen
+    pl: stacja radiowa
+    pt: estação de rádio
+    pt-br: estação de rádio
+    ro: post de radio
+    ru: вещательная радиостанция
+    sco: radio station
+    se: rádiostašuvdna
+    sk: rádio
+    sl: radijska postaja
+    sma: radiostasjovne
+    smn: radiosajattâh
+    sr: радио-станица
+    sr-ec: радио станица
+    sr-el: radio stanica
+    sv: radiostation
+    ta: வானொலி நிலையம்
+    te: రేడియో స్టేషన్
+    tg: истгоҳи родиюӣ
+    th: สถานีวิทยุกระจายเสียง
+    tl: himpilan ng radyo
+    tr: radyo istasyonu
+    tt: радио станциясе
+    tt-cyrl: радио станциясе
+    uk: радіомовна станція
+    ur: ریڈیو اسٹیشن
+    vec: stasion aradiofonega
+    vi: đài phát thanh
+    yue: 電台
+    zh: 電台
+    zh-cn: 电台
+    zh-hans: 电台
+    zh-hant: 電台
+    zh-hk: 電台
+    zh-mo: 電台
+    zh-my: 电台
+    zh-sg: 电台
+    zh-tw: 電台
 ---
-
 # [[Radio_Station]] 
 
 Class of all radio_stations.

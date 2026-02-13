@@ -1,60 +1,359 @@
 ---
 aliases:
-  - Muscle
+- adale
+- Bazi
+- Bingkul
+- cyhyr
+- cơ
+- Deahkki
+- Gṳ̆ng-nṳ̆k
+- Hozatra
+- izom
+- iṣan
+- Janchi kamana
+- jàn tùmà ví ɗéŋ
+- Kalamnan
+- Kas
+- Kigenn
+- Kin-bah
+- Laman
+- Lihas
+- Masel
+- Masela
+- Masol
+- Masûlke
+- matán
+- Misk
+- mięsień
+- mišica
+- Mišić
+- Mišići
+- Montungá
+- Moskols
+- Mousk
+- Muruq
+- Muscle
+- Musclo
+- Muscol
+- muscolo
+- Musculo
+- Musculus
+- Muskel
+- Muskli
+- muskolo
+- Muskulatur
+- Muskullar
+- Muskulo
+- muskulu
+- muskuļi
+- Musse
+- Musuli
+- muşakho
+- mușchi
+- Mùscol
+- múscul
+- Músculo
+- Músculu
+- Nimviɖe
+- Noh
+- Otot
+- piskel
+- raumuo
+- Sepir
+- Sinchi aycha
+- Sistemi muskulor
+- spier
+- Spiere (anatomie)
+- sval
+- Tamaẓwalt
+- Vöðvi
+- Əzələlər
+- μυς
+- Балсан
+- Биши
+- Булчин
+- Булчуң системасы
+- быгыт
+- Былчыҥ
+- Бұлшық ет
+- Дилха
+- М'яз
+- мишићно ткиво
+- мускул
+- мускулдар
+- мускулы
+- мушакҳо
+- мышца
+- м’язи
+- пукшатне
+- Сенкерле
+- сум ит
+- цягліца
+- Чогашыл
+- Ччорбал
+- Մկանային համակարգ
+- מוסקל
+- שריר
+- اوتوت
+- عضلات
+- عضلة
+- ماسوولکە
+- ماهیچه
+- مشڪون
+- مَژھ
+- مۇسكۇل
+- پنڈے دے پٹھے
+- ڭلضمة
+- ܥܘܩܒܪܬܐ
+- މަސްތަކުގެ ނިޒާމް
+- पेशी
+- मांशपेसी
+- मांसपेशी
+- स्नायू
+- পেশী
+- ਮਾਸ-ਪੇਸ਼ੀਆਂ
+- ମାଂସପେଶୀ
+- தசை
+- కండరము
+- ಸ್ನಾಯು
+- പേശി
+- กล้ามเนื้อ
+- ກ້າມ
+- ကြွက်သား
+- ၵၢမ်ႈၼိူဝ်ႉ
+- კუნთი
+- ጡንቻ
+- ᎭᏫᏯᎭ ᏧᏈᏓᏟ
+- ᒥᒉᐢᑕᑕᕀ
+- ᠰᡠᠪᡝ
+- Ụtakụ
+- 筋肉
+- 肌肉
+- 근육
 has_id_wikidata: Q7365
 Commons_category: Muscles
 Commons_gallery: Muscle
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~muscle_organ_development,14863685]]'
 different_from: '[[_Standards/WikiData/WD~Piskel,101250889]]'
 equivalent_class:
-  - http://dbpedia.org/ontology/Muscle
-  - https://schema.org/Muscle
+- http://dbpedia.org/ontology/Muscle
+- https://schema.org/Muscle
 has_characteristic:
-  - '[[_Standards/WikiData/WD~muscle_strength,3076906]]'
-  - '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
+- '[[_Standards/WikiData/WD~muscle_strength,3076906]]'
+- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
 Iconclass_notation: 31A2263
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skeletal%20muscle.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
-  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/MISHTSI.html
 MeSH_tree_code:
-  - A02.633
-  - A10.690
+- A02.633
+- A10.690
 OmegaWiki_Defined_Meaning: 431414
 part_of: '[[_Standards/WikiData/WD~muscular_system,7060553]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A5%82.wav
 properties_for_this_type:
-  - antagonist muscle
-  - muscle action
-  - muscle insertion
-  - muscle origin
+- antagonist muscle
+- muscle action
+- muscle insertion
+- muscle origin
 studied_in: '[[_Standards/WikiData/WD~myology,674407]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
-  - '[[_Standards/WikiData/WD~general_anatomical_term,28843519]]'
-  - '[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]'
-  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
+- '[[_Standards/WikiData/WD~general_anatomical_term,28843519]]'
+- '[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term:
-  - musculi
-  - musculus
+- musculi
+- musculus
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621]]'
 UMLS_CUI:
-  - C4083049
-  - C0026845
+- C4083049
+- C0026845
 U_S_National_Archives_Identifier: 10643239
 Wikidata_property:
-  - muscle action
-  - target muscle
+- muscle action
+- target muscle
+dv_has_:
+  name_:
+    af: spier
+    am: ጡንቻ
+    an: Musclo
+    ar: عضلة
+    arc: ܥܘܩܒܪܬܐ
+    ary: ڭلضمة
+    as: পেশী
+    ast: Músculu
+    av: Ччорбал
+    ay: Janchi kamana
+    az: Əzələlər
+    ba: мускулдар
+    bcl: Kalamnan
+    be: мускулы
+    be-tarask: цягліца
+    bew: Sepir
+    bg: Мускул
+    bho: मांसपेशी
+    bn: পেশী
+    br: Kigenn
+    bs: Mišić
+    bxr: Балсан
+    ca: múscul
+    cdo: Gṳ̆ng-nṳ̆k
+    ce: Дилха
+    chr: ᎭᏫᏯᎭ ᏧᏈᏓᏟ
+    ckb: ماسوولکە
+    cr: ᒥᒉᐢᑕᑕᕀ
+    crh: adale
+    cs: sval
+    cv: Сенкерле
+    cy: cyhyr
+    da: muskel
+    de: Muskel
+    diq: Bazi
+    dv: މަސްތަކުގެ ނިޒާމް
+    el: μυς
+    en: muscle
+    en-ca: Muscle
+    en-gb: muscle
+    eo: muskolo
+    es: músculo
+    et: Lihas
+    eu: muskulu
+    fa: ماهیچه
+    fi: lihas
+    fj: Masela
+    fr: muscle
+    fy: Spier
+    ga: matán
+    gcr: Mousk
+    gl: músculo
+    gsw: Muskulatur
+    he: שריר
+    hi: पेशी
+    hif: Muscle
+    hr: mišić
+    ht: Misk
+    hu: izom
+    hy: Մկանային համակարգ
+    ia: Musculo
+    iba: Bingkul
+    id: Otot
+    ig: Ụtakụ
+    ilo: piskel
+    io: Muskulo
+    is: Vöðvi
+    it: muscolo
+    ja: 筋肉
+    jv: Otot
+    ka: კუნთი
+    kab: Tamaẓwalt
+    kbp: Nimviɖe
+    kk: Бұлшық ет
+    kn: ಸ್ನಾಯು
+    ko: 근육
+    ks: مَژھ
+    ku: Masûlke
+    ky: Булчуң системасы
+    la: Musculus
+    lb: Muskel
+    lbe: Биши
+    lfn: Musculo
+    li: Spier
+    lmo: Muscol
+    ln: Montungá
+    lo: ກ້າມ
+    lt: raumuo
+    lv: muskuļi
+    mad: Otot
+    mcn: jàn tùmà ví ɗéŋ
+    mdf: пукшатне
+    mg: Hozatra
+    mhr: Чогашыл
+    min: Otot
+    mk: мускул
+    ml: പേശി
+    mn: Булчин
+    mnc: ᠰᡠᠪᡝ
+    mr: स्नायू
+    ms: otot
+    ms-arab: اوتوت
+    my: ကြွက်သား
+    nan: Kin-bah
+    nb: muskel
+    nds: Muskel
+    ne: मांशपेसी
+    nl: spier
+    nn: muskel
+    oc: Muscle
+    or: ମାଂସପେଶୀ
+    pa: ਮਾਸ-ਪੇਸ਼ੀਆਂ
+    pag: Laman
+    pl: mięsień
+    pms: Mùscol
+    pnb: پنڈے دے پٹھے
+    pt: músculo
+    pt-br: Músculo
+    qu: Sinchi aycha
+    ro: mușchi
+    ru: мышца
+    rue: М'яз
+    sah: Былчыҥ
+    sd: مشڪون
+    se: Deahkki
+    sgs: Moskols
+    sh: Mišići
+    shn: ၵၢမ်ႈၼိူဝ်ႉ
+    sk: sval
+    sl: mišica
+    so: Muruq
+    sq: Sistemi muskulor
+    sr: мишићно ткиво
+    su: Otot
+    sv: muskel
+    sw: Musuli
+    ta: தசை
+    te: కండరము
+    tg: мушакҳо
+    tg-latn: muşakho
+    th: กล้ามเนื้อ
+    tl: Masel
+    tr: Kas
+    tt: мускул
+    tt-cyrl: сум ит
+    udm: быгыт
+    ug: مۇسكۇل
+    uk: м’язи
+    ur: عضلات
+    uz: Muskullar
+    vi: cơ
+    vls: Spiere (anatomie)
+    vro: Muskli
+    wa: Musse
+    war: Masol
+    wuu: 肌肉
+    yi: מוסקל
+    yo: iṣan
+    yue: 肌肉
+    za: Noh
+    zh: 肌肉
+    zh-cn: 肌肉
+    zh-hans: 肌肉
+    zh-hant: 肌肉
+    zh-hk: 肌肉
+    zh-mo: 肌肉
+    zh-my: 肌肉
+    zh-sg: 肌肉
+    zh-tw: 肌肉
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Muscle** is a soft tissue, one of the four basic types of animal tissue. 

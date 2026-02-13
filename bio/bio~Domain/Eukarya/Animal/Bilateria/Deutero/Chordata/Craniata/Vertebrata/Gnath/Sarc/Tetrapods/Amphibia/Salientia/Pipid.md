@@ -1,9 +1,101 @@
 ---
 aliases:
-  - Pipidae
-  - Pipid
+- Akotsovi
+- Bezmēles vardes
+- Grzbietorodowate
+- Idwi
+- Kielettömät sammakot
+- pipabékafélék
+- pipafrosker
+- Pipagrodor
+- Pipedoj
+- Pipid
+- Pipidae
+- Pipide
+- Pipiniai
+- pipovití
+- Pípidos
+- Pípids
+- Tongloze kikkers
+- Zungenlose
+- Безезични жаби
+- Піпові
+- Пиповые
+- חסרי-לשוניים
+- انجیبا ڈڈو
+- ضفادع عديمة اللسان
+- قورباغههای بیزبان
+- วงศ์กบเล็บ
+- პიპასებრნი
+- ピパ科
+- 負子蟾科
+- 负子蟾科
+- 발톱개구리과
 title: Pipidae
 has_id_wikidata: Q56067
+dv_has_:
+  name_:
+    an: Pipidae
+    ar: ضفادع عديمة اللسان
+    arz: ضفادع عديمة اللسان
+    ast: Pipidae
+    bg: Безезични жаби
+    ca: Pípids
+    ceb: Pipidae
+    cs: pipovití
+    de: Zungenlose
+    de-ch: Zungenlose
+    ee: Akotsovi
+    en: Pipidae
+    en-ca: Pipidae
+    en-gb: Pipidae
+    eo: Pipedoj
+    es: Pipidae
+    eu: Pipidae
+    ext: Pipidae
+    fa: قورباغههای بیزبان
+    fi: Kielettömät sammakot
+    fr: Pipidae
+    ga: Pipidae
+    gl: Pípidos
+    he: חסרי-לשוניים
+    hu: pipabékafélék
+    ia: Pipidae
+    id: Pipidae
+    ie: Pipidae
+    io: Pipidae
+    it: Pipidae
+    ja: ピパ科
+    ka: პიპასებრნი
+    ko: 발톱개구리과
+    la: Pipidae
+    lt: Pipiniai
+    lv: Bezmēles vardes
+    mul: Pipidae
+    nb: pipafrosker
+    nl: Tongloze kikkers
+    nn: Pipidae
+    oc: Pipidae
+    pl: Grzbietorodowate
+    pnb: انجیبا ڈڈو
+    pt: Pipidae
+    pt-br: Pipidae
+    ro: Pipide
+    ru: Пиповые
+    sl: Pipidae
+    sq: Pipidae
+    sv: Pipagrodor
+    th: วงศ์กบเล็บ
+    tr: Pipidae
+    uk: Піпові
+    vi: Pipidae
+    vo: Pipidae
+    war: Pipidae
+    zh: 负子蟾科
+    zh-cn: 负子蟾科
+    zh-hans: 负子蟾科
+    zh-tw: 負子蟾科
+    zu: Idwi
 ---
 # [[Pipid]]
 

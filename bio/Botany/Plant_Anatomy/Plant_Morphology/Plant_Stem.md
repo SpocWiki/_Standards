@@ -1,20 +1,107 @@
 ---
 aliases:
-  - stem
-  - Stamm
-  - Plant_Stem
-  - Plant Stem
+- Ageṭṭum n yimɣi
+- akaway
+- Ali lawa
+- batang
+- batang tanaman
+- bitki sapı
+- camba
+- caule
+- Caulis
+- Chillki
+- fusto
+- gas
+- Hoâiⁿ
+- Jirma
+- Kërcelli
+- Pidicuddu
+- Plant Stem
+- Plant_Stem
+- Poya
+- Qed
+- Schtengl
+- Sponzillo
+- Sprossachse
+- Stabljika
+- Stablo
+- Stamm
+- steblo
+- stem
+- stengel
+- stiebas
+- Stingel
+- stjälk
+- Stombris
+- stonek
+- Stonka
+- stumbrs
+- Stâle
+- Stængel
+- Stöngull
+- szár
+- Taho
+- tallo
+- Talo
+- tarmu
+- thân
+- tige
+- tigo
+- Tij
+- tija
+- Trallo
+- Truzo
+- tulpină de plantă
+- Tzīncuauhyōtl
+- vars
+- varsi
+- Zurtoin
+- zògga᷅ytà
+- łodyga
+- στέλεχος φυτού
+- модос
+- сабак
+- Сабақ
+- Стабло
+- стебель
+- стебло
+- Стъбло
+- сцябло
+- сьцябло
+- Туна (ботаника)
+- Ցողուն
+- גבעול
+- انباره
+- ساق نبات
+- ساقه
+- قەد
+- نباتی تنا
+- ٿڙ
+- گؤوده (ساقه)
+- तना
+- কাণ্ড
+- தாவரத்தண்டு
+- కాండం
+- ಕಾಂಡ
+- ลำต้น
+- အခက်
+- ၵၢၼ်ႈ
+- ღერო
+- 梗
+- 茎
+- 莖
+- 줄기
 has_id_wikidata: Q134267
 has_part_s_:
-  - '[[_Standards/WikiData/WD~bark,184453]]'
-  - '[[_Standards/WikiData/WD~Q190872,190872]]'
+- '[[_Standards/WikiData/WD~bark,184453]]'
+- '[[_Standards/WikiData/WD~Q190872,190872]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of: '[[_Standards/WikiData/WD~vegetative_organ,2668103]]'
 instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
 part_of: '[[_Standards/WikiData/WD~plant,756]]'
@@ -25,8 +112,113 @@ MeSH_tree_code: A18.024.937
 UMLS_CUI: C0242767
 Commons_gallery: Plant stems
 Commons_category: Plant stems
+dv_has_:
+  name_:
+    af: Stingel
+    an: Trallo
+    ar: ساق نبات
+    ast: tarmu
+    ay: Ali lawa
+    azb: گؤوده (ساقه)
+    bar: Schtengl
+    be: сцябло
+    be-tarask: сьцябло
+    bg: Стъбло
+    bn: কাণ্ড
+    bs: Stabljika
+    ca: tija
+    ckb: قەد
+    cs: stonek
+    cv: Туна (ботаника)
+    da: Stængel
+    de: Sprossachse
+    el: στέλεχος φυτού
+    en: plant stem
+    eo: tigo
+    es: tallo
+    et: vars
+    eu: Zurtoin
+    fa: ساقه
+    fi: varsi
+    fr: tige
+    fy: Stâle
+    ga: gas
+    gl: Talo
+    he: גבעול
+    hi: तना
+    hr: Stabljika
+    ht: Tij
+    hu: szár
+    hy: Ցողուն
+    id: batang tanaman
+    is: Stöngull
+    it: fusto
+    ja: 茎
+    jv: Batang
+    ka: ღერო
+    kab: Ageṭṭum n yimɣi
+    kk: Сабақ
+    kn: ಕಾಂಡ
+    ko: 줄기
+    ku: Qed
+    ku-latn: qed
+    la: Caulis
+    lt: stiebas
+    lv: stumbrs
+    mcn: zògga᷅ytà
+    mg: Taho
+    mk: стебло
+    ms: batang
+    my: အခက်
+    mzn: انباره
+    nah: Tzīncuauhyōtl
+    nan: Hoâiⁿ
+    nap: Sponzillo
+    nb: stengel
+    nl: stengel
+    nn: stengel
+    oc: camba
+    om: Jirma
+    pl: łodyga
+    pt: caule
+    pt-br: caule
+    qu: Chillki
+    ro: tulpină de plantă
+    ru: стебель
+    scn: Pidicuddu
+    sd: ٿڙ
+    sgs: Stombris
+    sh: Stablo
+    shn: ၵၢၼ်ႈ
+    sk: Stonka
+    sl: steblo
+    sq: Kërcelli
+    sr: Стабло
+    sr-ec: Стабло
+    sr-el: Stablo
+    sv: stjälk
+    szy: akaway
+    ta: தாவரத்தண்டு
+    te: కాండం
+    th: ลำต้น
+    tr: bitki sapı
+    tt: сабак
+    udm: модос
+    uk: стебло
+    ur: نباتی تنا
+    uz: Poya
+    vec: Truzo
+    vi: thân
+    wuu: 茎
+    yue: 梗
+    zh: 茎
+    zh-cn: 茎
+    zh-hans: 茎
+    zh-hant: 莖
+    zh-hk: 莖
+    zh-sg: 茎
+    zh-tw: 莖
 ---
-
 # [[Plant_Stem]] 
 
 #is_/same_as :: [[WD~Plant_stem,134267]] 

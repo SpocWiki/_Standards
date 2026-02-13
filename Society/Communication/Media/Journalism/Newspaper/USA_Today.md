@@ -1,8 +1,37 @@
 ---
 aliases:
-  - USA Today
-  - USA_Today
+- AQSh bugun
+- USA Today
+- USA 투데이
+- USA_Today
+- USAトゥデイ
+- Ю Ес Ей Тъдей
+- يو إس إيه توداي
+- يو اس ايه توداى
+- یواسای تودی
+- یوو ئێس ئەی توودەی
+- ইউএসএ টুডে
+- ยูเอสเอทูเดย์
+- 今日美国
+- 今日美國
 has_id_wikidata: Q39681
+dv_has_:
+  name_:
+    ar: يو إس إيه توداي
+    arz: يو اس ايه توداى
+    bg: Ю Ес Ей Тъдей
+    bn: ইউএসএ টুডে
+    ckb: یوو ئێس ئەی توودەی
+    en: USA Today
+    fa: یواسای تودی
+    he: USA Today
+    ja: USAトゥデイ
+    ko: USA 투데이
+    mul: USA Today
+    th: ยูเอสเอทูเดย์
+    uz: AQSh bugun
+    wuu: 今日美国
+    zh: 今日美國
 ---
 ## #has_/text_of_/abstract 
 

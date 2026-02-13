@@ -1,29 +1,163 @@
 ---
 aliases:
-  - artistic action
-  - Performance_Art
-  - Performance Art
+- actuació d'art
+- actuación artística
+- Ars actionis
+- artistic action
+- artă interpretativă
+- celfyddyd perfformio
+- Exekut-arto
+- Gjörningalist
+- hunera performans
+- ludarto
+- nghệ thuật trình diễn
+- Perfomans
+- performance
+- Performance Art
+- performance arte
+- performancekunst
+- Performance_Art
+- Performans
+- performans sanatı
+- performansas
+- performanssi
+- performansz
+- performanční umění
+- pertunjukan seni
+- seni persembahan
+- Seni Pintonan
+- Sining ng pagtatanghal
+- taibhealaín
+- uprizoritvena umetnost
+- παραστατική τέχνη
+- Перфоманс
+- перформанс
+- пърформанс
+- пэрформанс
+- կատարողական արվեստ
+- מיצג
+- فن الأداء
+- فن الاداء
+- هنر اجرا
+- پەرفومانس
+- निष्पादन कला
+- সম্পাদনী কলা
+- അവതരണ കല
+- ศิลปะการแสดง
+- སྤྱོད་ལམ་སྒྱུ་རྩལ་ཐོག
+- ပါဖောင့်မန့် အက်
+- パフォーマンス・アート
+- 行为艺术
+- 行為藝術
+- 행위 예술
 has_id_wikidata: Q213156
 different_from:
-  - '[[_Standards/WikiData/WD~performing_arts,184485]]'
-  - '[[_Standards/WikiData/WD~performance_artwork,22672348]]'
-  - '[[_Standards/WikiData/WD~performance,35140]]'
+- '[[_Standards/WikiData/WD~performing_arts,184485]]'
+- '[[_Standards/WikiData/WD~performance_artwork,22672348]]'
+- '[[_Standards/WikiData/WD~performance,35140]]'
 instance_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
 practiced_by: '[[_Standards/WikiData/WD~performance_artist,10774753]]'
 described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~performance_artwork,22672348]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~time_based_art,114088986]]'
-  - '[[_Standards/WikiData/WD~art,735]]'
+- '[[_Standards/WikiData/WD~time_based_art,114088986]]'
+- '[[_Standards/WikiData/WD~art,735]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Abramovi%C4%87%2C%20The%20Artist%20is%20Present%2C%202010.jpg
 described_at_URL:
-  - https://stedelijkstudies.com/journal/the-place-of-performance/
-  - https://www.tate.org.uk/art/art-terms/p/performance-art
+- https://stedelijkstudies.com/journal/the-place-of-performance/
+- https://www.tate.org.uk/art/art-terms/p/performance-art
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PERFORMANS_ART.html
 Commons_category: Performance art
+dv_has_:
+  name_:
+    ar: فن الأداء
+    arz: فن الاداء
+    ast: Performance
+    be: перформанс
+    be-tarask: пэрформанс
+    bg: пърформанс
+    bn: সম্পাদনী কলা
+    bo: སྤྱོད་ལམ་སྒྱུ་རྩལ་ཐོག
+    ca: actuació d'art
+    cs: performanční umění
+    cv: Перформанс
+    cy: celfyddyd perfformio
+    da: performancekunst
+    de: Performance
+    el: παραστατική τέχνη
+    en: performance art
+    eo: ludarto
+    es: performance
+    et: Performance
+    eu: performance arte
+    ext: performance
+    fa: هنر اجرا
+    fi: performanssi
+    fr: performance
+    ga: taibhealaín
+    gl: actuación artística
+    gsw: Performans
+    he: מיצג
+    hi: निष्पादन कला
+    hr: Performans
+    hu: performansz
+    hy: կատարողական արվեստ
+    id: pertunjukan seni
+    io: Exekut-arto
+    is: Gjörningalist
+    it: performance art
+    ja: パフォーマンス・アート
+    kk: Перфоманс
+    kk-arab: پەرفومانس
+    kk-cn: پەرفومانس
+    kk-cyrl: Перфоманс
+    kk-kz: Перфоманс
+    kk-latn: Perfomans
+    kk-tr: Perfomans
+    ko: 행위 예술
+    ku: hunera performans
+    ku-latn: hunera performans
+    la: Ars actionis
+    lt: performansas
+    mk: перформанс
+    ml: അവതരണ കല
+    ms: seni persembahan
+    my: ပါဖောင့်မန့် အက်
+    nb: performancekunst
+    nds: Performance
+    nl: performancekunst
+    nn: Performance
+    pl: performance
+    pt: performance
+    rki: ပါဖောင့်မန့် အက်
+    ro: artă interpretativă
+    ru: перформанс
+    sh: Performans
+    sk: Performance Art
+    sl: uprizoritvena umetnost
+    sr: перформанс
+    sr-ec: Перформанс
+    sr-el: Performans
+    su: Seni Pintonan
+    sv: performance
+    th: ศิลปะการแสดง
+    tl: Sining ng pagtatanghal
+    tr: performans sanatı
+    udm: Перфоманс
+    uk: перформанс
+    vi: nghệ thuật trình diễn
+    yue: 行為藝術
+    zh: 行为艺术
+    zh-cn: 行为艺术
+    zh-hans: 行为艺术
+    zh-hant: 行為藝術
+    zh-hk: 行為藝術
+    zh-mo: 行為藝術
+    zh-my: 行为艺术
+    zh-sg: 行为艺术
+    zh-tw: 行為藝術
 ---
-
 # [[Performance_Art]] 
 
 #is_/different_from :: [[../Media/Performing_Arts|Performing_Arts]] 

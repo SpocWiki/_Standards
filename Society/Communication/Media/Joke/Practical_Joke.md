@@ -1,14 +1,92 @@
 ---
 aliases:
-  - practical joke
-  - prank
-  - gag
-  - rib
-  - jape
-  - shenanigan
-  - Practical_Joke
-  - Practical Joke
+- broma
+- Celia
+- csíny
+- farce
+- gag
+- gaNmari
+- Gapstrek
+- jape
+- käytännön pila
+- Lawak terapan
+- Lelucon praktikal
+- narrestrek
+- pegadinha
+- practical joke
+- Practical_Joke
+- praktična šala
+- prank
+- psikus
+- recese
+- rib
+- scherzo
+- shenanigan
+- spratt
+- Streich
+- Trò chơi khăm
+- Txantxa
+- Vemp
+- Şaka
+- Šala
+- φάρσα
+- Розіграш
+- розыгрыш
+- Խաղարկային կատակ
+- מתיחה
+- شوخی زننده
+- مقلب
+- پرینک
+- പ്രാങ്ക് വീഡിയോ
+- 悪戯
+- 惡作劇
+- 장난
 has_id_wikidata: Q931092
+dv_has_:
+  name_:
+    ar: مقلب
+    be-tarask: розыгрыш
+    bs: Šala
+    ca: broma
+    cs: recese
+    da: practical joke
+    de: Streich
+    el: φάρσα
+    en: practical joke
+    es: broma
+    et: Vemp
+    eu: Txantxa
+    fa: شوخی زننده
+    fi: käytännön pila
+    fr: farce
+    he: מתיחה
+    ht: prank
+    hu: csíny
+    hy: Խաղարկային կատակ
+    id: Lelucon praktikal
+    it: scherzo
+    ja: 悪戯
+    ko: 장난
+    ml: പ്രാങ്ക് വീഡിയോ
+    ms: Lawak terapan
+    nb: narrestrek
+    nl: practical joke
+    nn: Gapstrek
+    pl: psikus
+    pnb: پرینک
+    pt: pegadinha
+    ru: розыгрыш
+    ryu: gaNmari
+    scn: Celia
+    sl: praktična šala
+    sv: spratt
+    tr: Şaka
+    uk: Розіграш
+    ur: پرینک
+    vi: Trò chơi khăm
+    yue: 惡作劇
+    zh: 惡作劇
+    zh-hant: 惡作劇
 ---
 # [[Practical_Joke]] 
 

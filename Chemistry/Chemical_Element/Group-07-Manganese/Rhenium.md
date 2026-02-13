@@ -1,55 +1,131 @@
 ---
 aliases:
-  - Rhenium
+- jinmlreni
+- rainium
+- reenium
+- Reheniyaam
+- ren
+- Renel
+- Reni
+- Renii
+- renij
+- Renijum
+- renin
+- Renio
+- Reniom
+- renis
+- reniu
+- renium
+- Reniy
+- renju
+- Renyo
+- Renyu
+- renyum
+- Renyûm
+- renín
+- rheni
+- Rhenium
+- Rheniumi
+- rheniwm
+- rhénium
+- Rèni
+- Rèniu
+- réiniam
+- rénio
+- rénium
+- rênio
+- rēnijs
+- Rɛnɩyɔm
+- UMlenembi
+- ρήνιο
+- реній
+- рени
+- ренијум
+- рений
+- рениум
+- Рэн
+- рэній
+- ռենիում
+- רניום
+- רעניום
+- رئنيئم
+- رنیوم
+- رينيوم
+- رہینیئم
+- رہینیم
+- رېنىي
+- رېنيوم
+- غينيوم
+- ڕینیۆم
+- रीनियम
+- रेनियम
+- र्हेनियम
+- রিনিয়াম
+- ਰੀਨੀਅਮ
+- રિનીયમ
+- ରେନିଅମ
+- ரெனியம்
+- రీనియం
+- ರೀನಿಯಮ್
+- റീനിയം
+- รีเนียม
+- རེ་ནིམ།
+- ရီနီယမ်
+- რენიუმი
+- ሬኒየም
+- レニウム
+- 錸
+- 铼
+- 레늄
 has_id_wikidata: Q737
 atomic_number: 75
-canonical_SMILES: "[Re]"
+canonical_SMILES: '[Re]'
 CAS_Registry_Number: 7440-15-5
 chemical_formula: Re
 Commons_category: Rhenium
 Commons_gallery: Rhenium
 Common_Procurement_Vocabulary_code:
-  - 14793000-6
-  - 14793000
+- 14793000-6
+- 14793000
 CPV_Supplementary_code: AA42
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Ida_Noddack,77529]]"
-  - "[[_Standards/WikiData/WD~Otto_Berg,85727]]"
-  - "[[_Standards/WikiData/WD~Walter_Noddack,62714]]"
+- '[[_Standards/WikiData/WD~Ida_Noddack,77529]]'
+- '[[_Standards/WikiData/WD~Otto_Berg,85727]]'
+- '[[_Standards/WikiData/WD~Walter_Noddack,62714]]'
 DSSTOX_compound_identifier: DTXCID7047649
 EC_number: 231-124-5
 electronegativity: 1.9
-electron_configuration: "[Xe] 4f¹⁴ 5d⁵ 6s²"
+electron_configuration: '[Xe] 4f¹⁴ 5d⁵ 6s²'
 element_symbol: Re
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium%20single%20crystal%20bar%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Re
 InChIKey: WUAPFZMCVAUBPE-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.38
-  - 0.53
-  - 0.55
-  - 0.58
-  - 0.63
+- 0.38
+- 0.53
+- 0.55
+- 0.58
+- 0.63
 Krugosvet_article: nauka_i_tehnika/himiya/RENI.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~rheniite,411587]]"
-  - "[[_Standards/WikiData/WD~molybdenite_mineral_group,3777754]]"
+- '[[_Standards/WikiData/WD~rheniite,411587]]'
+- '[[_Standards/WikiData/WD~molybdenite_mineral_group,3777754]]'
 mass: 186.207
 MeSH_tree_code:
-  - D01.268.556.787
-  - D01.268.956.750
-  - D01.552.544.787
-named_after: "[[_Standards/WikiData/WD~Rhine,584]]"
+- D01.268.556.787
+- D01.268.956.750
+- D01.552.544.787
+named_after: '[[_Standards/WikiData/WD~Rhine,584]]'
 OmegaWiki_Defined_Meaning: 348371
 oxidation_state:
-  - 3
-  - 5
-  - 7
+- 3
+- 5
+- 7
 part_of:
-  - "[[_Standards/WikiData/WD~group_7,202602]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_7,202602]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 PubChem_CID: 23947
 SpocWebEntityId: 21971
 time_of_discovery_or_invention: 1925
@@ -61,10 +137,163 @@ Wolfram_Language_entity_code: Entity["Mineral", "Rhenium"]
 ZVG_number: 7750
 dv_has_:
   name_:
-    group: Group-07-Manganese
-    en: Rhenium
-    de: Rhenium
     abbreviated: Re
+    af: Renium
+    am: ሬኒየም
+    an: Renio
+    anp: रेनियम
+    ar: رينيوم
+    ary: غينيوم
+    arz: رينيوم
+    ast: reniu
+    avk: Renel
+    az: Renium
+    ba: Рений
+    ban: Rhénium
+    bcl: Renyo
+    be: рэній
+    be-tarask: Рэн
+    bg: рений
+    bho: रेनियम
+    bn: রিনিয়াম
+    bo: རེ་ནིམ།
+    br: Reniom
+    bs: renij
+    ca: reni
+    cdo: Rhenium
+    ceb: Renyo
+    ckb: ڕینیۆم
+    co: Reniu
+    cs: rhenium
+    cv: рени
+    cy: rheniwm
+    da: rhenium
+    de: Rhenium
+    el: ρήνιο
+    en: rhenium
+    eo: renio
+    es: renio
+    et: reenium
+    eu: renio
+    fa: رنیوم
+    fi: renium
+    fr: rhénium
+    frr: Reenium
+    fur: Reni
+    ga: réiniam
+    gd: Renium
+    gl: Renio
+    group: Group-07-Manganese
+    gu: રિનીયમ
+    gv: rainium
+    hak: rhenium
+    he: רניום
+    hi: रीनियम
+    hif: Rhenium
+    hr: renij
+    hu: rénium
+    hy: ռենիում
+    ia: rhenium
+    id: renium
+    io: renio
+    is: renín
+    it: renio
+    ja: レニウム
+    jbo: jinmlreni
+    jv: Rhenium
+    ka: რენიუმი
+    kbp: Rɛnɩyɔm
+    kk: рений
+    kn: ರೀನಿಯಮ್
+    ko: 레늄
+    ku: Renyûm
+    kv: рений
+    kw: Reniom
+    ky: рений
+    la: rhenium
+    lb: Rhenium
+    lfn: renio
+    li: Renium
+    lij: Renio
+    lmo: Renio
+    lt: renis
+    lv: rēnijs
+    lzh: 錸
+    mdf: Рени
+    mk: рениум
+    ml: റീനിയം
+    mn: рени
+    mr: र्हेनियम
+    mrj: рений
+    ms: Renium
+    mt: renju
+    my: ရီနီယမ်
+    nan: Rhenium
+    nb: rhenium
+    ne: र्हेनियम
+    new: रेनियम
+    nl: renium
+    nn: rhenium
+    nov: Renium
+    oc: Rèni
+    olo: Renii
+    or: ରେନିଅମ
+    os: рений
+    pa: ਰੀਨੀਅਮ
+    pi: रेनियम
+    pl: ren
+    pms: Renio
+    pnb: رہینیم
+    ps: رېنيوم
+    pt: rénio
+    pt-br: rênio
+    qu: Renyu
+    ro: reniu
+    ru: рений
+    rup: Reniu
+    sa: रेनियम
+    sc: Rèniu
+    scn: reniu
+    sco: Rhenium
+    sd: رئنيئم
+    sh: Renijum
+    sk: rénium
+    sl: renij
+    so: Reheniyaam
+    sq: Rheniumi
+    sr: ренијум
+    sr-ec: Ренијум
+    stq: Renium
+    sv: rhenium
+    sw: Reni
+    ta: ரெனியம்
+    te: రీనియం
+    tg: рений
+    th: รีเนียม
+    tl: Renyo
+    tr: renyum
+    tt: рений
+    ug: رېنىي
+    uk: реній
+    ur: رہینیئم
+    uz: Reniy
+    vep: Renii
+    vi: rheni
+    vo: renin
+    war: Renyo
+    wuu: 铼
+    xal: рениум
+    yi: רעניום
+    yo: Rhenium
+    yue: 錸
+    zh: 铼
+    zh-hant: 錸
+    zh-tw: 錸
+    zu: UMlenembi
+  number_of_:
+    period: 6
+    electrons: 75
+    group: 7
   value_for_:
     weight_:
       u: 186.207
@@ -92,23 +321,19 @@ dv_has_:
       form_:
         kj_:
           mol: 715
-  number_of_:
-    period: 6
-    electrons: 75
-    group: 7
 dv_is_:
-  part_of: "[[../Group-07-Manganese]]"
+  part_of: '[[../Group-07-Manganese]]'
   same_as:
-    - "[[../../../WikiData/WD~Rhenium,737]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium|Rhenium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public|Rhenium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal|Rhenium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect|Rhenium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private|Rhenium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal|Rhenium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret|Rhenium.secret]]"
+  - '[[../../../WikiData/WD~Rhenium,737]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium|Rhenium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public|Rhenium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal|Rhenium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect|Rhenium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private|Rhenium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal|Rhenium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret|Rhenium.secret]]'
 dv_has_name_group: Group-07-Manganese
-dv_is_part_of: "[[../Group-07-Manganese]]"
+dv_is_part_of: '[[../Group-07-Manganese]]'
 dv_has_name_en: Rhenium
 dv_has_name_de: Rhenium
 dv_has_value_for_weight_u: 186.207
@@ -125,20 +350,19 @@ dv_has_value_for_enthalpy: 33.2
 dv_has_value_for_energy_form_kj_mol: 715
 dv_has_number_of_period: 6
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Rhenium,737]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium|Rhenium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public|Rhenium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal|Rhenium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect|Rhenium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private|Rhenium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal|Rhenium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret|Rhenium.secret]]"
+- '[[../../../WikiData/WD~Rhenium,737]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium|Rhenium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public|Rhenium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal|Rhenium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect|Rhenium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private|Rhenium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal|Rhenium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret|Rhenium.secret]]'
 dv_has_name_abbreviated: Re
 dv_has_number_of_electrons: 75
 dv_has_number_of_group: 7
 dv_has_value_for_temperature_boil_c: 5869
 ---
-
 # [[Rhenium]] 
 
 #chemic/Element 

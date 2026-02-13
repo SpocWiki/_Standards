@@ -1,45 +1,82 @@
 ---
 aliases:
-  - Suva
+- Huwha
+- i-Suva
+- Souva
+- Su-wa
+- Sufa
+- Suv
+- Suva
+- Suvo
+- Suwa
+- Σούβα
+- Сувæ
+- Сува
+- Сува (шаҳр)
+- Սուվա
+- סובה
+- سوفا
+- سووا
+- سوڤا
+- सुभा
+- सुवा
+- সুভা
+- ਸੂਵਾ
+- સુવા
+- சுவா
+- సూవా
+- ಸುವಾ
+- സുവ
+- සුවා
+- ซูวา
+- སུ་ཝ།
+- სუვა
+- ሱቫ
+- ស៊ូវ៉ា
+- ᱥᱩᱵᱷᱟ
+- スバ
+- 苏瓦
+- 蘇瓦
+- 수바
 has_id_wikidata: Q38807
 confidential: public
 isDeleted: false
 coordinate_location: Point(178.433333333 -18.133333333)
 location:
-  - -18.133333333
-  - 178.433333333
+- -18.133333333
+- 178.433333333
 mapmarker: city
 SpocWebEntityId: 35988
 tags:
-  - geo/City
+- geo/City
 type: City
 capital_of:
-  - "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
-  - "[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]"
-  - "[[_Standards/WikiData/WD~Fiji,712]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Rewa,1365257]]"
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Fiji,712]]"
+- '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
+- '[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]'
+- '[[_Standards/WikiData/WD~Fiji,712]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rewa,1365257]]'
+instance_of: '[[_Standards/WikiData/WD~city,515]]'
+country: '[[_Standards/WikiData/WD~Fiji,712]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Fijian,33295]]"
-  - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Fijian,33295]]'
+- '[[_Standards/WikiData/WD~Fiji_Hindi,46728]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 elevation_above_sea_level: 0
 local_dialing_code:
-  - 333
-  - 34
-  - 32
-  - 38
+- 333
+- 34
+- 32
+- 38
 area: 2048
 population: 88271
 WOEID: 1064103
 Commons_category: Suva
 native_label:
-  - Suva
-  - सुवा
+- Suva
+- सुवा
 official_name: Suva
 OmegaWiki_Defined_Meaning: 742351
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20map.png
@@ -52,34 +89,177 @@ ISNI: 111831043
 Facebook_username: scc.suvacitycouncil
 YouTube_handle: suvacitycouncil
 demonym:
-  - Suvien
-  - Suvienne
-dv_is_a_: "[[../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+- Suvien
+- Suvienne
+dv_is_a_: '[[../../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 178.45
 dv_has_place_latitude: -18.16667
 dv_has_name: Suva
 dv_Unknown: 32
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]"
-    - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]'
+  - '[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]"
-  - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]'
+- '[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]'
+- '[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]'
+dv_has_:
+  name_:
+    af: Suva
+    am: ሱቫ
+    an: Suva
+    ang: Sufa
+    ar: سوفا
+    ary: سوڤا
+    arz: سوفا
+    ast: Suva
+    avk: Suva
+    az: Suva
+    ba: Сува
+    ban: Suva
+    be: Сува
+    be-tarask: Сува
+    bg: Сува
+    bn: সুভা
+    bo: སུ་ཝ།
+    br: Suva
+    bs: Suva
+    ca: Suva
+    cdo: Suva
+    ceb: Suva
+    cs: Suva
+    cy: Suva
+    da: Suva
+    de: Suva
+    el: Σούβα
+    en: Suva
+    eo: Suvo
+    es: Suva
+    et: Suva
+    eu: Suva
+    fa: سووا
+    fi: Suva
+    fj: Suva
+    fr: Suva
+    frr: Suva
+    fy: Suva
+    ga: Suva
+    gd: Suva
+    gl: Suva
+    gn: Suva
+    gu: સુવા
+    hak: Suva
+    he: סובה
+    hi: सुवा
+    hif: Suva
+    hr: Suva
+    ht: Souva
+    hu: Suva
+    hy: Սուվա
+    ia: Suva
+    id: Suva
+    ie: Suva
+    io: Suva
+    is: Suva
+    it: Suva
+    ja: スバ
+    ka: სუვა
+    kge: Suva
+    kk: Сува
+    kk-cyrl: Сува
+    km: ស៊ូវ៉ា
+    kn: ಸುವಾ
+    ko: 수바
+    la: Suva
+    lb: Suva
+    lij: Suva
+    lmo: Suva
+    lt: Suva
+    lv: Suva
+    mi: Huwha
+    min: Suva
+    mk: Сува
+    ml: സുവ
+    mn: Сува
+    mr: सुवा
+    ms: Suva
+    nah: Suva
+    nan: Suva
+    nb: Suva
+    ne: सुभा
+    nl: Suva
+    nn: Suva
+    ny: Suva
+    oc: Suva
+    os: Сувæ
+    pa: ਸੂਵਾ
+    pap: Suva
+    pap-aw: Suva
+    pih: Suva
+    pl: Suva
+    pms: Suva
+    ps: سووا
+    pt: Suva
+    ro: Suva
+    ru: Сува
+    rw: Suva
+    sah: Сува
+    sat: ᱥᱩᱵᱷᱟ
+    sc: Suva
+    sco: Suva
+    sd: سووا
+    sh: Suva
+    si: සුවා
+    sk: Suva
+    sl: Suva
+    sn: Suva
+    sq: Suva
+    sr: Сува
+    sr-ec: Сува
+    sv: Suva
+    sw: Suva
+    szl: Suva
+    szy: Su-wa
+    ta: சுவா
+    te: సూవా
+    tg: Сува (шаҳр)
+    tg-cyrl: Сува
+    th: ซูวา
+    tk: Suwa
+    tl: Suva
+    to: Suva
+    tr: Suva
+    tt: Сува
+    ty: Suva
+    uk: Сува
+    ur: سووا
+    uz: Suva
+    vep: Suv
+    vi: Suva
+    war: Suva
+    wuu: 苏瓦
+    xmf: სუვა
+    yue: 蘇瓦
+    zh: 蘇瓦
+    zh-cn: 苏瓦
+    zh-hans: 苏瓦
+    zh-hant: 蘇瓦
+    zh-hk: 蘇瓦
+    zh-tw: 蘇瓦
+    zu: i-Suva
 ---
-
 # [[Suva]] 
 
 

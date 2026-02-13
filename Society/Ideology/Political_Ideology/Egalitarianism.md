@@ -1,20 +1,169 @@
 ---
 aliases:
-  - Egalitarianism
-  - equalitarianism
+- aequalitarismus
+- barazitarizëm
+- Berdinzaletasun
+- chủ nghĩa quân bình
+- cothromaíochas
+- cydraddoliaeth
+- Daidaitawa
+- Egalisme
+- egalismo
+- Egalitarianism
+- egalitarianisme
+- egalitarism
+- egalitarisme
+- Egalitarismi
+- Egalitarismo
+- Egalitarismus
+- Egalitarizam
+- egalitarizem
+- egalitarizmas
+- egalitarizmus
+- egalitaryzm
+- egalitārisms
+- egualitarismo
+- Eqalitarizm
+- equalitarianism
+- eşitlikçilik
+- Igualitarisismo
+- igualitarisme
+- igualitarismo
+- igualitarismu
+- iguałitarismo
+- jafnréttisstefna
+- Pêng-téng-chú-gī
+- rovnostářství
+- Simanahaansho
+- égalitarisme
+- Égalïtarïzm
+- ισότητα
+- егалітаризм
+- егалитаризам
+- егалитаризъм
+- игалитаризем
+- эгалітарызм
+- эгалитаризм
+- էգալիտարիզմ
+- עגאליטאריאניזם
+- שוויון
+- مساوات غوښتنه
+- مساوات پسندی
+- مساواتخواهی
+- مساواتية
+- ەگالىيتارىيزم
+- समतावाद
+- সমানাধিকারবাদ
+- ਬਰਾਬਰੀਵਾਦ
+- สมภาพนิยม
+- ეგალიტარიზმი
+- 平等主义
+- 平等主義
+- 平等原则
+- 平等原則
+- 평등주의
 has_id_wikidata: Q188958
 field_of_work: '[[_Standards/WikiData/WD~political_philosophy,179805]]'
 has_goal: '[[_Standards/WikiData/WD~equality,773009]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~egalitarian_society,110749146]]'
 Commons_category: Egalitarianism
 Library_of_Congress_Classification: JC575
+dv_has_:
+  name_:
+    af: Egalisme
+    ar: مساواتية
+    ast: igualitarismu
+    az: Eqalitarizm
+    be: эгалітарызм
+    be-tarask: эгалітарызм
+    bg: егалитаризъм
+    bn: সমানাধিকারবাদ
+    bs: Egalitarizam
+    ca: igualitarisme
+    cs: rovnostářství
+    cy: cydraddoliaeth
+    da: egalitarisme
+    de: Egalitarismus
+    el: ισότητα
+    en: egalitarianism
+    eo: egalismo
+    es: igualitarismo
+    et: egalitarism
+    eu: Berdinzaletasun
+    fa: مساواتخواهی
+    fi: Egalitarismi
+    fr: égalitarisme
+    ga: cothromaíochas
+    gl: igualitarismo
+    ha: Daidaitawa
+    he: שוויון
+    hi: समतावाद
+    hr: Egalitarizam
+    hu: egalitarizmus
+    hy: էգալիտարիզմ
+    id: egalitarianisme
+    ig: Egalitarianism
+    io: Egalitarismo
+    is: jafnréttisstefna
+    it: egualitarismo
+    ja: 平等主義
+    jv: Egalitarianisme
+    ka: ეგალიტარიზმი
+    kk: Эгалитаризм
+    kk-arab: ەگالىيتارىيزم
+    kk-cn: ەگالىيتارىيزم
+    kk-cyrl: Эгалитаризм
+    kk-kz: Эгалитаризм
+    kk-latn: Égalïtarïzm
+    kk-tr: Égalïtarïzm
+    ko: 평등주의
+    ky: Эгалитаризм
+    la: aequalitarismus
+    lt: egalitarizmas
+    lv: egalitārisms
+    mk: егалитаризам
+    ms: Egalitarianisme
+    nan: Pêng-téng-chú-gī
+    nb: egalitarisme
+    nl: egalitarisme
+    nn: egalitarisme
+    pa: ਬਰਾਬਰੀਵਾਦ
+    pl: egalitaryzm
+    ps: مساوات غوښتنه
+    pt: igualitarismo
+    ro: egalitarism
+    ru: эгалитаризм
+    sco: egalitarianism
+    sh: Egalitarizam
+    sl: egalitarizem
+    so: Simanahaansho
+    sq: barazitarizëm
+    sr: егалитаризам
+    sv: egalitarism
+    th: สมภาพนิยม
+    tl: Igualitarisismo
+    tr: eşitlikçilik
+    tt: игалитаризем
+    uk: егалітаризм
+    ur: مساوات پسندی
+    vec: iguałitarismo
+    vi: chủ nghĩa quân bình
+    wuu: 平等主义
+    yi: עגאליטאריאניזם
+    yue: 平等主義
+    zh: 平等主義
+    zh-cn: 平等原则
+    zh-hans: 平等原则
+    zh-hant: 平等原則
+    zh-hk: 平等原則
+    zh-sg: 平等原则
+    zh-tw: 平等原則
 ---
-
 # [[Egalitarianism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Egalitarianism,188958|WD~Egalitarianism,188958]] 

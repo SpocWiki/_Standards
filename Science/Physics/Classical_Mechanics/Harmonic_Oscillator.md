@@ -1,8 +1,57 @@
 ---
 aliases:
-  - harmonischer Oszillator
-  - Harmonic_Oscillator
-  - Harmonic Oscillator
+- dao động điều hòa
+- garmonïyalıq terbelis
+- harmona oscilanto
+- Harmonic Oscillator
+- harmonický oscilátor
+- Harmonic_Oscillator
+- harmonijski oscilator
+- harmonijski oscilatori
+- harmonijsko oscilovanje
+- harmonijsko titranje
+- Harmonik osilatör
+- harmonikus oszcillátor
+- harmoninen värähtelijä
+- harmoninis osciliatorius
+- harmonische oscillator
+- harmonischer Oszillator
+- harmonisk oscillator
+- harmonični oscilator
+- harmooniline võnkumine
+- oscilador armónico
+- oscilador harmónico
+- oscilador harmónicu
+- oscilador harmônico
+- oscilator armonic
+- oscillateur harmonique
+- oscillator harmonicus
+- oscillatore armonico
+- oscil·lador harmònic
+- oscylator harmoniczny
+- osgiliadur harmonig
+- osziladore harmoniko
+- гарманічны асцылятар
+- гармонічний осцилятор
+- гармоник тирбәнүләр
+- Гармонилле осциллятор
+- гармонический осциллятор
+- гармониялық тербеліс
+- хармонијски осцилатори
+- хармониски треперник
+- хармоничен осцилатор
+- מתנד הרמוני
+- نوسانگر هماهنگ
+- هزاز توافقي
+- گارمونىييالىق تەربەلىس
+- सरल आवर्ती दोलक
+- দোল গতি
+- අනුවර්තී දෝලකය
+- ჰარმონიული ოსცილატორი
+- 調和振動子
+- 諧振子
+- 谐振子
+- 조화 진동자
 has_id_wikidata: Q190070
 subclass_of: '[[_Standards/WikiData/WD~physical_system,1454986]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animated-mass-spring-faster.gif
@@ -10,8 +59,75 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Amortecimento%20Su
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/harmonic-oscillator
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "HarmonicOscillator"]
 Commons_category: Harmonic oscillators
+dv_has_:
+  name_:
+    ar: هزاز توافقي
+    ast: oscilador harmónicu
+    be-tarask: гарманічны асцылятар
+    bg: хармоничен осцилатор
+    bn: দোল গতি
+    bs: harmonijsko oscilovanje
+    ca: oscil·lador harmònic
+    cs: harmonický oscilátor
+    cv: Гармонилле осциллятор
+    cy: osgiliadur harmonig
+    da: harmonisk oscillator
+    de: harmonischer Oszillator
+    en: harmonic oscillator
+    eo: harmona oscilanto
+    es: oscilador armónico
+    et: harmooniline võnkumine
+    eu: osziladore harmoniko
+    fa: نوسانگر هماهنگ
+    fi: harmoninen värähtelijä
+    fr: oscillateur harmonique
+    gl: oscilador harmónico
+    he: מתנד הרמוני
+    hi: सरल आवर्ती दोलक
+    hr: harmonijsko titranje
+    hu: harmonikus oszcillátor
+    it: oscillatore armonico
+    ja: 調和振動子
+    ka: ჰარმონიული ოსცილატორი
+    kk: гармониялық тербеліс
+    kk-arab: گارمونىييالىق تەربەلىس
+    kk-cn: گارمونىييالىق تەربەلىس
+    kk-cyrl: гармониялық тербеліс
+    kk-kz: гармониялық тербеліс
+    kk-latn: garmonïyalıq terbelis
+    kk-tr: garmonïyalıq terbelis
+    ko: 조화 진동자
+    la: oscillator harmonicus
+    lt: harmoninis osciliatorius
+    mk: хармониски треперник
+    nb: harmonisk oscillator
+    nl: harmonische oscillator
+    nn: harmonisk oscillator
+    pl: oscylator harmoniczny
+    pt: oscilador harmónico
+    pt-br: oscilador harmônico
+    ro: oscilator armonic
+    ru: гармонический осциллятор
+    sh: harmonijski oscilator
+    si: අනුවර්තී දෝලකය
+    sl: harmonični oscilator
+    sr: harmonijski oscilatori
+    sr-ec: хармонијски осцилатори
+    sr-el: harmonijski oscilatori
+    sv: harmonisk oscillator
+    tr: Harmonik osilatör
+    tt: гармоник тирбәнүләр
+    uk: гармонічний осцилятор
+    vi: dao động điều hòa
+    yue: 諧振子
+    zh: 諧振子
+    zh-cn: 谐振子
+    zh-hans: 谐振子
+    zh-hant: 諧振子
+    zh-hk: 諧振子
+    zh-sg: 谐振子
+    zh-tw: 諧振子
 ---
-
 # [[Harmonic_Oscillator]] 
 
 #is_/same_as :: [[WikiData/WD~Harmonic_oscillator,190070|WD~Harmonic_oscillator,190070]] 

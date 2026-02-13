@@ -1,28 +1,118 @@
 ---
 aliases:
+- izarren nukleosintesi
+- Nchịkọta kpakpando
+- Nucleosintesi stellare
+- nucleosinteză stelară
+- nucleossíntese estelar
+- nucleosíntesi estel·lar
+- Nucleosíntesis estelar
+- nucléosynthèse stellaire
+- Nukleosintesis bintang
+- Nukleosyntese i astronomi
+- nukleosynteza w gwiazdach
+- nástti nukleosyntesa
+- Sintesis nuklear najam
+- Stela nukleosintezo
+- stellar nucleosynthesis
+- Stjernenukleosyntese
+- tähden nukleosynteesi
+- tääsni nukleosyntees
+- tääʹsn nukleosynteeʹs
+- Tổng hợp hạt nhân sao
+- Yıldız çekirdek bireşimi
+- Zvezdana nukleosinteza
+- Zvjezdana nukleosinteza
+- Çăлтăрсенчи нуклонсарла реакци
+- αστρική νουκλεουσύνθεση
+- Ѕвездена нуклеосинтеза
+- звёздный нуклеосинтез
+- зорны нуклеосынтэз
+- Зоряний нуклеосинтез
+- Космологичен нуклеосинтез
+- נוקליאוסינתזה כוכבית
+- تفاعلات الانصهار النجمي
+- هستهزایی ستارهای
+- अणू-संमेलन क्रिया
+- स्टेल्लर नाभिकीय संश्लेषण
+- নাক্ষত্রিক নিউক্লিওসংশ্লেষণ
+- การสังเคราะห์นิวเคลียสของดาวฤกษ์
+- 恆星核合成
+- 恒星内元素合成
+- 恒星核合成
+- 항성 핵합성
 has_id_wikidata: Q1057093
-subclass_of: "[[_Standards/WikiData/WD~nucleosynthesis,471702]]"
+subclass_of: '[[_Standards/WikiData/WD~nucleosynthesis,471702]]'
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]"
+  - '[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]"
+- '[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]'
+- '[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]'
+dv_has_:
+  name_:
+    ar: تفاعلات الانصهار النجمي
+    ast: Nucleosíntesis estelar
+    be-tarask: зорны нуклеосынтэз
+    bg: Космологичен нуклеосинтез
+    bn: নাক্ষত্রিক নিউক্লিওসংশ্লেষণ
+    bs: Zvjezdana nukleosinteza
+    ca: nucleosíntesi estel·lar
+    cv: Çăлтăрсенчи нуклонсарла реакци
+    da: Stjernenukleosyntese
+    el: αστρική νουκλεουσύνθεση
+    en: stellar nucleosynthesis
+    eo: Stela nukleosintezo
+    es: nucleosíntesis estelar
+    eu: izarren nukleosintesi
+    fa: هستهزایی ستارهای
+    fi: tähden nukleosynteesi
+    fr: nucléosynthèse stellaire
+    he: נוקליאוסינתזה כוכבית
+    hi: स्टेल्लर नाभिकीय संश्लेषण
+    id: Nukleosintesis bintang
+    ig: Nchịkọta kpakpando
+    it: Nucleosintesi stellare
+    ja: 恒星内元素合成
+    ko: 항성 핵합성
+    mk: Ѕвездена нуклеосинтеза
+    mr: अणू-संमेलन क्रिया
+    ms: Sintesis nuklear najam
+    nb: stjernenukleosyntese
+    nn: Nukleosyntese i astronomi
+    pl: nukleosynteza w gwiazdach
+    pt: nucleossíntese estelar
+    ro: nucleosinteză stelară
+    ru: звёздный нуклеосинтез
+    se: nástti nukleosyntesa
+    sh: Zvezdana nukleosinteza
+    si: Stellar nucleosynthesis
+    smn: tääsni nukleosyntees
+    sms: tääʹsn nukleosynteeʹs
+    sr: Zvezdana nukleosinteza
+    th: การสังเคราะห์นิวเคลียสของดาวฤกษ์
+    tr: Yıldız çekirdek bireşimi
+    uk: Зоряний нуклеосинтез
+    vi: Tổng hợp hạt nhân sao
+    yue: 恆星核合成
+    zh: 恆星核合成
+    zh-hans: 恒星核合成
+    zh-hant: 恆星核合成
+    zh-hk: 恆星核合成
 ---
-
 # [[Stellar_Nucleosynthesis]] 
 
 #is_/same_as  :: [[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]] 

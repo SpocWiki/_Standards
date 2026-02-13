@@ -1,37 +1,73 @@
 ---
 aliases:
-  - Πλούτων
-  - Ploútōn
-  - Plūto
-  - Plūton
-  - Dis Pater or Orcus
-  - Pluto(Mythology)
+- Dis Pater or Orcus
+- Pllutoun
+- Plotôna (andriamanitra)
+- Ploútōn
+- Pluto
+- Pluto(Mythology)
+- Pluton
+- Pluton (deo)
+- Pluton (mitologia)
+- Pluton (mitologie)
+- Plutonas
+- Plutone
+- Plutone (dio)
+- Plutoni
+- Plutono
+- Plutons (mitoloģija)
+- Plutão
+- Plutó
+- Plutón
+- Plútó
+- Plútón
+- Plûto (mîtolojî)
+- Plüton
+- Plūto
+- Plūton
+- Πλούτων
+- Плутон
+- Плютон
+- Պլուտոն
+- פלוטו
+- بلوتو
+- پلوتون
+- پلووتۆ
+- புளூட்டோ
+- พลูโต
+- ပလူတို
+- პლუტონი
+- プルートー
+- 布魯圖
+- 普路托
+- ꯄ꯭ꯂꯨꯇꯣ (ꯂꯥꯢ)
+- 플루톤
 has_id_wikidata: Q152262
 sibling:
-  - '[[_Standards/WikiData/WD~Juno,125046]]'
-  - '[[_Standards/WikiData/WD~Vesta,178710]]'
-  - '[[_Standards/WikiData/WD~Glauca,61749450]]'
-  - '[[_Standards/WikiData/WD~Neptune,3954]]'
-  - '[[_Standards/WikiData/WD~Jupiter,4649]]'
-  - '[[_Standards/WikiData/WD~Ceres,32102]]'
+- '[[_Standards/WikiData/WD~Juno,125046]]'
+- '[[_Standards/WikiData/WD~Vesta,178710]]'
+- '[[_Standards/WikiData/WD~Glauca,61749450]]'
+- '[[_Standards/WikiData/WD~Neptune,3954]]'
+- '[[_Standards/WikiData/WD~Jupiter,4649]]'
+- '[[_Standards/WikiData/WD~Ceres,32102]]'
 father: '[[_Standards/WikiData/WD~Saturn,134388]]'
 worshipped_by: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Aita,410277]]'
-  - '[[_Standards/WikiData/WD~Orcus,860314]]'
-  - '[[_Standards/WikiData/WD~Dis_Pater,1228338]]'
-  - '[[_Standards/WikiData/WD~Hades,41410]]'
+- '[[_Standards/WikiData/WD~Aita,410277]]'
+- '[[_Standards/WikiData/WD~Orcus,860314]]'
+- '[[_Standards/WikiData/WD~Dis_Pater,1228338]]'
+- '[[_Standards/WikiData/WD~Hades,41410]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Myths_of_the_peoples_of_the_world,27895143]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Myths_of_the_peoples_of_the_world,27895143]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~Pluto,2099776]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 instance_of: '[[_Standards/WikiData/WD~Roman_deity,11688446]]'
@@ -40,8 +76,102 @@ OmegaWiki_Defined_Meaning: 7973
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20Serapis%20Archmus%20Heraklion.jpg
 Iconclass_notation: 92N1
 Commons_category: Pluto (mythology)
+dv_has_:
+  name_:
+    af: Pluto
+    an: Plutón
+    ar: بلوتو
+    arz: بلوتو
+    az: Pluton
+    ba: Плутон
+    be: Плутон
+    be-tarask: Плютон
+    bg: Плутон
+    br: Pluto
+    bs: Pluton
+    ca: Plutó
+    ckb: پلووتۆ
+    cs: Pluto
+    da: Pluton
+    de: Pluton
+    en: Pluto
+    eo: Plutono
+    es: Plutón
+    et: Pluton
+    eu: Pluton
+    fa: پلوتون
+    fi: Pluto
+    fr: Pluton
+    ga: Plútón
+    gl: Plutón
+    grc: Πλούτων
+    gv: Pluto
+    he: פלוטו
+    hr: Pluton
+    hu: Pluto
+    hy: Պլուտոն
+    ia: Pluton (deo)
+    id: Pluto
+    is: Plútó
+    it: Plutone
+    ja: プルートー
+    ka: პლუტონი
+    kk: Плутон
+    ko: 플루톤
+    ksh: Pluto
+    ku: Plûto (mîtolojî)
+    la: Pluto
+    lb: Pluto
+    lmo: Pluton
+    lt: Plutonas
+    lv: Plutons (mitoloģija)
+    mg: Plotôna (andriamanitra)
+    mk: Плутон
+    mni: ꯄ꯭ꯂꯨꯇꯣ (ꯂꯥꯢ)
+    ms: Pluto
+    mt: Plutone
+    mul: Pluto
+    my: ပလူတို
+    nap: Plutone (dio)
+    nb: Pluto
+    nl: Pluto
+    nn: Pluton
+    nrm: Pllutoun
+    oc: Pluton (mitologia)
+    os: Плутон
+    pl: Pluton
+    pt: Plutão
+    pt-br: Plutão
+    ro: Pluton (mitologie)
+    ru: Плутон
+    scn: Plutoni
+    sco: Pluto
+    sh: Pluton
+    sk: Pluto
+    sl: Pluton
+    sq: Plutoni
+    sr: Плутон
+    sr-ec: Плутон
+    sr-el: Pluton
+    sv: Pluto
+    ta: புளூட்டோ
+    th: พลูโต
+    tr: Plüton
+    uk: Плутон
+    uz: Pluton
+    vi: Pluto
+    wa: Pluton
+    war: Pluto
+    wuu: 普路托
+    yue: 布魯圖
+    zh: 普路托
+    zh-cn: 普路托
+    zh-hans: 普路托
+    zh-hant: 普路托
+    zh-hk: 普路托
+    zh-sg: 普路托
+    zh-tw: 普路托
 ---
-
 # [[Pluto(Mythology)]] 
 
 #is_/same_as :: [[WD~Pluto,152262]] 

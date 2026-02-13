@@ -1,28 +1,178 @@
 ---
 aliases:
-  - exponential
-  - Exponential_Function
-  - Exponential Function
+- Argemmvac'henn
+- eksponeantafunkšuvdna
+- Eksponencijalna funkcija
+- eksponensiyal na punsiyon
+- Eksponensiële funksie
+- eksponenta funkcio
+- Eksponentfunkcija
+- eksponentfunktio
+- eksponentfunktsioon
+- eksponentialfunksjon
+- eksponentialfunktion
+- eksponentinė funkcija
+- eksponentna funkcija
+- eksponenttifunktio
+- eksponeʹnttfunktio
+- exponenciális függvény
+- Exponenciálna funkcia
+- exponenciální funkce
+- Exponentala
+- exponential
+- Exponential Function
+- Exponentialfunktion
+- Exponential_Function
+- exponentielle de base a
+- exponentiële functie
+- feidhm easpónantúil
+- Fonsion esponensial
+- funció exponencial
+- función exponencial
+- Functio exponentialis generalis
+- funcție exponențială
+- fungsi eksponen
+- Fungsi eksponensial
+- funkcja wykładnicza
+- funksioni eksponencial
+- funtzio esponentzial
+- funzione esponenziale
+- função exponencial
+- Hàm mũ
+- Koʻrsatkichli funksiya
+- veldisfall
+- Üstel fonksiyon
+- Εκθετική συνάρτηση
+- возьматымон функци
+- експоненцијална функција
+- експоненциална функция
+- Кăтартăшла функци
+- күрһәткесле функция
+- паказальнікавая функцыя
+- паказнікавая функцыя
+- показательная функция
+- показникова функція
+- экспоненттік функция
+- Ցուցչային ֆունկցիա
+- פונקציה מעריכית
+- اسی دالہ
+- تابع نمایی
+- دالة أسية
+- فانکشنی توانی
+- चरघातांकी फलन
+- সূচক ফাংশন
+- படிக்குறிச் சார்பு
+- ಘಾತೀಯ ಶ್ರೇಣಿ ಹಾಗೂ ಉತ್ಪನ್ನ
+- ฟังก์ชันเลขชี้กำลัง
+- მაჩვენებლიანი ფუნქცია
+- 指数函数
+- 指数関数
+- 指數函數
+- 지수 함수
 has_id_wikidata: Q168698
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~antilogarithm,577570]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~antilogarithm,577570]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~transcendental_function,864333]]"
-  - "[[_Standards/WikiData/WD~unary_function,7882311]]"
+- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
+- '[[_Standards/WikiData/WD~unary_function,7882311]]'
 different_from:
-  - "[[_Standards/WikiData/WD~exponential_equation,1062932]]"
-  - "[[_Standards/WikiData/WD~power_function,1173515]]"
-  - "[[_Standards/WikiData/WD~natural_exponential_function,47306354]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
-image_of_function: "[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-opposite_of: "[[_Standards/WikiData/WD~logarithm,11197]]"
-uses: "[[_Standards/WikiData/WD~exponentiation,33456]]"
-has_part_s_: "[[_Standards/WikiData/WD~exponentiation,33456]]"
+- '[[_Standards/WikiData/WD~exponential_equation,1062932]]'
+- '[[_Standards/WikiData/WD~power_function,1173515]]'
+- '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+image_of_function: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+opposite_of: '[[_Standards/WikiData/WD~logarithm,11197]]'
+uses: '[[_Standards/WikiData/WD~exponentiation,33456]]'
+has_part_s_: '[[_Standards/WikiData/WD~exponentiation,33456]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Exponentials.svg
 Commons_category: Exponential functions
+dv_has_:
+  name_:
+    af: Eksponensiële funksie
+    ar: دالة أسية
+    ba: күрһәткесле функция
+    be: паказнікавая функцыя
+    be-tarask: паказальнікавая функцыя
+    bg: експоненциална функция
+    bn: সূচক ফাংশন
+    br: Argemmvac'henn
+    bs: Eksponencijalna funkcija
+    ca: funció exponencial
+    ckb: فانکشنی توانی
+    cs: exponenciální funkce
+    cv: Кăтартăшла функци
+    da: eksponentialfunktion
+    de: Exponentialfunktion
+    el: Εκθετική συνάρτηση
+    en: exponential function
+    eo: eksponenta funkcio
+    es: función exponencial
+    et: eksponentfunktsioon
+    eu: funtzio esponentzial
+    fa: تابع نمایی
+    fi: eksponenttifunktio
+    fr: exponentielle de base a
+    ga: feidhm easpónantúil
+    gl: función exponencial
+    he: פונקציה מעריכית
+    hi: चरघातांकी फलन
+    hr: eksponencijalna funkcija
+    hu: exponenciális függvény
+    hy: Ցուցչային ֆունկցիա
+    id: Fungsi eksponensial
+    io: Exponentala
+    is: veldisfall
+    it: funzione esponenziale
+    ja: 指数関数
+    ka: მაჩვენებლიანი ფუნქცია
+    kk: экспоненттік функция
+    kn: ಘಾತೀಯ ಶ್ರೇಣಿ ಹಾಗೂ ಉತ್ಪನ್ನ
+    ko: 지수 함수
+    la: Functio exponentialis generalis
+    lt: eksponentinė funkcija
+    lv: Eksponentfunkcija
+    mk: експоненцијална функција
+    ms: fungsi eksponen
+    nb: eksponentialfunksjon
+    nl: exponentiële functie
+    nn: Eksponentialfunksjon
+    pl: funkcja wykładnicza
+    pms: Fonsion esponensial
+    pt: função exponencial
+    pt-br: função exponencial
+    ro: funcție exponențială
+    ru: показательная функция
+    se: eksponeantafunkšuvdna
+    sh: eksponencijalna funkcija
+    sk: Exponenciálna funkcia
+    sl: eksponentna funkcija
+    smn: eksponentfunktio
+    sms: eksponeʹnttfunktio
+    sq: funksioni eksponencial
+    sr: експоненцијална функција
+    sr-ec: експоненцијална функција
+    sr-el: eksponencijalna funkcija
+    sv: exponentialfunktion
+    ta: படிக்குறிச் சார்பு
+    th: ฟังก์ชันเลขชี้กำลัง
+    tl: eksponensiyal na punsiyon
+    tr: Üstel fonksiyon
+    udm: возьматымон функци
+    uk: показникова функція
+    ur: اسی دالہ
+    uz: Koʻrsatkichli funksiya
+    vi: Hàm mũ
+    wuu: 指数函数
+    yue: 指數函數
+    zh: 指數函數
+    zh-cn: 指数函数
+    zh-hans: 指数函数
+    zh-hant: 指數函數
+    zh-hk: 指數函數
+    zh-sg: 指数函数
+    zh-tw: 指數函數
 ---
-
 # [[Exponential_Function]] 
 
 #has_/inverse :: [[Natural_Logarithm]] 

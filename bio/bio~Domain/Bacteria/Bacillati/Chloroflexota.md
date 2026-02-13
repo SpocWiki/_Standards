@@ -1,8 +1,49 @@
 ---
 has_id_wikidata: Q21442539
+dv_has_:
+  name_:
+    an: Chloroflexota
+    ast: Chloroflexota
+    bg: Chloroflexota
+    ca: Chloroflexota
+    ceb: Chloroflexota
+    cs: Chloroflexota
+    de: Chloroflexota
+    en: Chloroflexota
+    eo: Chloroflexota
+    es: Chloroflexota
+    eu: Chloroflexota
+    ext: Chloroflexota
+    fi: Chloroflexota
+    fr: Chloroflexota
+    ga: Chloroflexota
+    gl: Chloroflexota
+    ia: Chloroflexota
+    ie: Chloroflexota
+    io: Chloroflexota
+    it: Chloroflexota
+    la: Chloroflexota
+    mul: Chloroflexota
+    nl: Chloroflexota
+    oc: Chloroflexota
+    pl: Chloroflexota
+    pt: Chloroflexota
+    pt-br: Chloroflexota
+    ro: Chloroflexota
+    ru: Chloroflexota
+    sk: Chloroflexota
+    sq: Chloroflexota
+    uk: Chloroflexota
+    vi: Chloroflexota
+    vo: Chloroflexota
+    war: Chloroflexota
+    zh: 綠彎菌門
+    zh-cn: 綠彎菌門
+    zh-tw: 綠彎菌門
+aliases:
+- Chloroflexota
+- 綠彎菌門
 ---
-
-
 # [[Chloroflexota]] 
 
 #is_a/bio-Phylum  

@@ -1,6 +1,66 @@
 ---
 aliases:
+- afmyndun
+- back-formation
+- derivació regressiva
+- derivación regresiva
+- derivare regresivă
+- derivação regressiva
+- derywacja wsteczna
+- dérivation régressive
+- elvonás
+- Formasi belakang
+- prapaformimi
+- retroformazione
+- retrograde vorming
+- retrogradna tvorba
+- ruâpttadjååʹđtummuš
+- Rückbildung
+- takaperoisjohto
+- tilbagedannelse
+- tilbakedannelse
+- ôl-ffurfiant
+- Зворотне словотворення
+- обратное словообразование
+- גזירה לאחור
+- قياس خاطئ
+- پسینسازی
+- 逆向构词法
+- 逆成
+- 逆成詞
+- 역형성
 has_id_wikidata: Q989162
+dv_has_:
+  name_:
+    ar: قياس خاطئ
+    ca: derivació regressiva
+    cy: ôl-ffurfiant
+    da: tilbagedannelse
+    de: Rückbildung
+    en: back-formation
+    es: derivación regresiva
+    fa: پسینسازی
+    fi: takaperoisjohto
+    fr: dérivation régressive
+    he: גזירה לאחור
+    hu: elvonás
+    id: Formasi belakang
+    is: afmyndun
+    it: retroformazione
+    ja: 逆成
+    ko: 역형성
+    nb: tilbakedannelse
+    nl: retrograde vorming
+    pl: derywacja wsteczna
+    pt: derivação regressiva
+    ro: derivare regresivă
+    ru: обратное словообразование
+    sl: retrogradna tvorba
+    sms: ruâpttadjååʹđtummuš
+    sq: prapaformimi
+    uk: Зворотне словотворення
+    yue: 逆成詞
+    zh: 逆向构词法
 ---
 # [[Back-Formation]] 
 

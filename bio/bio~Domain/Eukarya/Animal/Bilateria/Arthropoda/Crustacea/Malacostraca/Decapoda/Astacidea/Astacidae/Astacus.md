@@ -1,8 +1,116 @@
 ---
 aliases:
-  - Astacus
+- Astacus
+- Cinsê kerevîdan
+- upesvēži
+- Çay xərçəngi
+- Αστακός
+- Річковий рак
+- Речни ракови
+- جراد الماء العذب
+- მდინარის კიბოები
+- イチョウガニ属
+- 螯虾属
+- 螯蝦屬
+- 阿斯塔克蝦科
 title: Astacus
 has_id_wikidata: Q1942450
+dv_has_:
+  name_:
+    af: Astacus
+    an: Astacus
+    ar: جراد الماء العذب
+    ast: Astacus
+    az: Çay xərçəngi
+    bar: Astacus
+    bg: Astacus
+    br: Astacus
+    ca: Astacus
+    ceb: Astacus
+    co: Astacus
+    cs: Astacus
+    cy: Astacus
+    da: Astacus
+    de: Astacus
+    de-at: Astacus
+    de-ch: Astacus
+    el: Αστακός
+    en: Astacus
+    en-ca: Astacus
+    en-gb: Astacus
+    eo: Astacus
+    es: Astacus
+    et: Astacus
+    eu: Astacus
+    ext: Astacus
+    fi: Astacus
+    fr: Astacus
+    frp: Astacus
+    fur: Astacus
+    ga: Astacus
+    gd: Astacus
+    gl: Astacus
+    gsw: Astacus
+    hr: Astacus
+    hu: Astacus
+    ia: Astacus
+    id: Astacus
+    ie: Astacus
+    io: Astacus
+    is: Astacus
+    it: Astacus
+    ja: イチョウガニ属
+    ka: მდინარის კიბოები
+    kg: Astacus
+    ku: Cinsê kerevîdan
+    la: Astacus
+    lb: Astacus
+    li: Astacus
+    lij: Astacus
+    lv: upesvēži
+    mg: Astacus
+    min: Astacus
+    ms: Astacus
+    mul: Astacus
+    nap: Astacus
+    nb: Astacus
+    nds: Astacus
+    nds-nl: Astacus
+    nl: Astacus
+    nn: Astacus
+    nrm: Astacus
+    nys: Astacus
+    oc: Astacus
+    pcd: Astacus
+    pl: Astacus
+    pms: Astacus
+    pt: Astacus
+    pt-br: Astacus
+    rm: Astacus
+    ro: Astacus
+    ru: Astacus
+    sc: Astacus
+    scn: Astacus
+    sco: Astacus
+    sk: Astacus
+    sl: Astacus
+    sq: Astacus
+    sr: Речни ракови
+    sv: Astacus
+    sw: Astacus
+    uk: Річковий рак
+    vec: Astacus
+    vi: Astacus
+    vls: Astacus
+    vo: Astacus
+    wa: Astacus
+    war: Astacus
+    wo: Astacus
+    zh: 螯蝦屬
+    zh-cn: 螯虾属
+    zh-hans: 螯虾属
+    zh-hant: 阿斯塔克蝦科
+    zu: Astacus
 ---
 # [[Astacus]] 
 ![Astacus leptodactylus habitus](Astacus/a.jpg)) 

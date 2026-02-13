@@ -1,52 +1,83 @@
 ---
 aliases:
-  - Enid Mary Blyton
-  - Enid Blyton
-  - Blyton
-  - Enid_Blyton
-  - Blyton,Enid
+- Blyton
+- Blyton,Enid
+- Enid Bliton
+- Enid Blyton
+- Enid Blytonová
+- Enid Mary Blyton
+- Enid_Blyton
+- Īnida Blaitone
+- Ένιντ Μπλάιτον
+- Інід Блайтан
+- Енід Блайтон
+- Инид Блајтон
+- Инид Блайтън
+- Энид Мэри Блайтон
+- Էնիդ Բլայթոն
+- איניד בלייטאן
+- איניד בלייטון
+- إنيد بليتون
+- ئینید بلایتن
+- انيد بليتون
+- انید بلایتون
+- اینڈ بلائٹن
+- एनिड ब्लाइटन
+- एनिड ब्लायटन
+- এনিড ব্লাইটন
+- ਐਨਿਡ ਬਿਲਟਨ
+- எனிட் பிளைட்டன்
+- ಎನಿಡ್ ಬ್ಲೈಟನ್
+- ഇനിഡ് മേരി ബ്ലൈറ്റൺ
+- อีนิด ไบลตัน
+- ენიდ ბლაიტონი
+- イーニッド・ブライトン
+- 伊妮·布來敦
+- 伊妮·布来敦
+- 伊妮德布萊頓
+- 에니드 블라이턴
 has_id_wikidata: Q192069
 genre: "[[_Standards/WikiData/WD~children's_literature,131539]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Enid,714893]]'
-  - '[[_Standards/WikiData/WD~Mary,734578]]'
+- '[[_Standards/WikiData/WD~Enid,714893]]'
+- '[[_Standards/WikiData/WD~Mary,734578]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Famous_Five,1134354]]'
-  - '[[_Standards/WikiData/WD~The_Secret_Seven,2165270]]'
-  - '[[_Standards/WikiData/WD~Noddy,42192377]]'
+- '[[_Standards/WikiData/WD~The_Famous_Five,1134354]]'
+- '[[_Standards/WikiData/WD~The_Secret_Seven,2165270]]'
+- '[[_Standards/WikiData/WD~Noddy,42192377]]'
 list_of_works: '[[_Standards/WikiData/WD~Enid_Blyton_bibliography,1854283]]'
 occupation:
-  - '[[_Standards/WikiData/WD~school_teacher,2251335]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~school_teacher,2251335]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_birth: '[[_Standards/WikiData/WD~East_Dulwich,3305828]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 place_of_burial: '[[_Standards/WikiData/WD~Golders_Green_Crematorium,4141350]]'
 child:
-  - '[[_Standards/WikiData/WD~Gillian_Baverstock,5562197]]'
-  - '[[_Standards/WikiData/WD~Imogen_Smallwood,94640564]]'
+- '[[_Standards/WikiData/WD~Gillian_Baverstock,5562197]]'
+- '[[_Standards/WikiData/WD~Imogen_Smallwood,94640564]]'
 educated_at: '[[_Standards/WikiData/WD~Ipswich_High_School,6065579]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 archives_at: '[[_Standards/WikiData/WD~Seven_Stories,7457480]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
-  - '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
-  - '[[_Standards/WikiData/WD~literary_activity,115160290]]'
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~pedagogy,7922]]'
+- "[[_Standards/WikiData/WD~children's_and_youth_literature,11163999]]"
+- '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
+- '[[_Standards/WikiData/WD~literary_activity,115160290]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Hugh_Alexander_Pollock,16749773]]'
-  - '[[_Standards/WikiData/WD~Kenneth_Fraser_Darrell_Waters,59268638]]'
+- '[[_Standards/WikiData/WD~Hugh_Alexander_Pollock,16749773]]'
+- '[[_Standards/WikiData/WD~Kenneth_Fraser_Darrell_Waters,59268638]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
-  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 family_name: '[[_Standards/WikiData/WD~Blyton,92211456]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
@@ -71,15 +102,116 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Enid%20blyton.png
 described_at_URL: https://enidblytonsociety.co.uk
 official_website: https://enidblytonsociety.co.uk
 ISNI:
-  - 0000000110315354
-  - 0000000368573932
-  - 0000000368573940
+- 0000000110315354
+- 0000000368573932
+- 0000000368573940
 Plex_person_key: 5dcd39788b9802001f688837
 Europeana_entity: agent/base/59971
 Archive_of_Our_Own_tag: BLYTON Enid - Works
 Libris_URI: c9prsrnw2gfx6sf
+dv_has_:
+  name_:
+    af: Enid Blyton
+    an: Enid Blyton
+    ar: إنيد بليتون
+    arz: انيد بليتون
+    ast: Enid Blyton
+    az: Enid Bliton
+    azb: انید بلایتون
+    bar: Enid Blyton
+    be-tarask: Інід Блайтан
+    bg: Инид Блайтън
+    bn: এনিড ব্লাইটন
+    br: Enid Blyton
+    bs: Enid Blyton
+    ca: Enid Blyton
+    ckb: ئینید بلایتن
+    cs: Enid Blytonová
+    cy: Enid Blyton
+    de: Enid Blyton
+    de-at: Enid Blyton
+    de-ch: Enid Blyton
+    el: Ένιντ Μπλάιτον
+    en: Enid Blyton
+    en-gb: Enid Blyton
+    eo: Enid Blyton
+    es: Enid Blyton
+    et: Enid Blyton
+    eu: Enid Blyton
+    fa: انید بلایتون
+    ff: Enid Blyton
+    fi: Enid Blyton
+    fo: Enid Blyton
+    fr: Enid Blyton
+    ga: Enid Blyton
+    gl: Enid Blyton
+    ha: Enid Blyton
+    he: איניד בלייטון
+    hi: एनिड ब्लाइटन
+    hr: Enid Blyton
+    hu: Enid Blyton
+    hy: Էնիդ Բլայթոն
+    id: Enid Blyton
+    ie: Enid Blyton
+    ig: Enid blyton
+    ik: Enid Blyton
+    io: Enid Blyton
+    is: Enid Blyton
+    it: Enid Blyton
+    ja: イーニッド・ブライトン
+    jut: Enid Blyton
+    ka: ენიდ ბლაიტონი
+    kn: ಎನಿಡ್ ಬ್ಲೈಟನ್
+    ko: 에니드 블라이턴
+    ku: Enid Blyton
+    la: Enid Blyton
+    lb: Enid Blyton
+    lfn: Enid Blyton
+    lv: Īnida Blaitone
+    mg: Enid Blyton
+    ml: ഇനിഡ് മേരി ബ്ലൈറ്റൺ
+    mr: एनिड ब्लायटन
+    ms: Enid Blyton
+    mul: Enid Blyton
+    nb: Enid Blyton
+    nl: Enid Blyton
+    nn: Enid Blyton
+    oc: Enid Blyton
+    pa: ਐਨਿਡ ਬਿਲਟਨ
+    pms: Enid Blyton
+    pt: Enid Blyton
+    pt-br: Enid Blyton
+    ro: Enid Blyton
+    ru: Энид Мэри Блайтон
+    sc: Enid Blyton
+    sco: Enid Blyton
+    sje: Enid Blyton
+    skr: اینڈ بلائٹن
+    sl: Enid Blyton
+    sq: Enid Blyton
+    sr: Инид Блајтон
+    sv: Enid Blyton
+    sw: Enid Blyton
+    ta: எனிட் பிளைட்டன்
+    th: อีนิด ไบลตัน
+    tl: Enid Blyton
+    tr: Enid Blyton
+    uk: Енід Блайтон
+    ur: اینڈ بلائٹن
+    uz: Enid Blyton
+    vi: Enid Blyton
+    war: Enid Blyton
+    wuu: 伊妮·布来敦
+    yi: איניד בלייטאן
+    yue: 伊妮德布萊頓
+    zh: 伊妮·布來敦
+    zh-cn: 伊妮·布来敦
+    zh-hans: 伊妮·布来敦
+    zh-hant: 伊妮·布來敦
+    zh-hk: 伊妮·布來敦
+    zh-sg: 伊妮·布来敦
+    zh-tw: 伊妮·布來敦
 ---
-
 # [[Blyton,Enid]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Enid_Blyton,192069|WD~Enid_Blyton,192069]] 

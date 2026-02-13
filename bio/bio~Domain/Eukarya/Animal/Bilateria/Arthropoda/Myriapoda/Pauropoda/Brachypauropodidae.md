@@ -1,8 +1,49 @@
 ---
 aliases:
-  - Brachypauropodidae
+- Brachypauropodidae
+- 短䗃科
 title: Brachypauropodidae
 has_id_wikidata: Q6502177
+dv_has_:
+  name_:
+    an: Brachypauropodidae
+    ast: Brachypauropodidae
+    bg: Brachypauropodidae
+    ca: Brachypauropodidae
+    ceb: Brachypauropodidae
+    de: Brachypauropodidae
+    en: Brachypauropodidae
+    eo: Brachypauropodidae
+    es: Brachypauropodidae
+    eu: Brachypauropodidae
+    ext: Brachypauropodidae
+    fi: Brachypauropodidae
+    fr: Brachypauropodidae
+    ga: Brachypauropodidae
+    gl: Brachypauropodidae
+    ia: Brachypauropodidae
+    ie: Brachypauropodidae
+    io: Brachypauropodidae
+    it: Brachypauropodidae
+    la: Brachypauropodidae
+    mul: Brachypauropodidae
+    nl: Brachypauropodidae
+    oc: Brachypauropodidae
+    pl: Brachypauropodidae
+    pt: Brachypauropodidae
+    pt-br: Brachypauropodidae
+    ro: Brachypauropodidae
+    ru: Brachypauropodidae
+    sq: Brachypauropodidae
+    sv: Brachypauropodidae
+    tr: Brachypauropodidae
+    uk: Brachypauropodidae
+    vi: Brachypauropodidae
+    vo: Brachypauropodidae
+    war: Brachypauropodidae
+    zh: 短䗃科
+    zh-cn: 短䗃科
+    zh-tw: 短䗃科
 ---
 # [[Brachypauropodidae]] 
 

@@ -1,25 +1,188 @@
 ---
 aliases:
+- alkotmányjog
+- anayasa hukuku
+- Balaod hit Batakan-balaod
+- constitutional law
+- cyfraith gyfansoddiadol
+- Davlat huquqi
+- derecho constitucional
+- Derechu constitucional
+- Dereito constitucional
+- direito constitucional
+- diritto costituzionale
+- dlí bunreachtúil
+- Dokar kundin tsarin mulki
+- Drech constitucionau
+- drept constituțional
+- dret constitucional
+- droit constitutionnel
+- E drejta kushtetuese
+- Hukum tata negara
+- konstitucia juro
+- konstitucinė teisė
+- konstitucionālās tiesības
+- konstitusiya hüququ
+- leigh vunraghtoil
+- luật hiến pháp
+- prawo konstytucyjne
+- Riigiõigus
+- staatsrecht
+- statsforfatningsret
+- statsrett
+- statsrätt
+- Steatsrjocht
+- Stjórnskipunarréttur
+- ture kāwanatanga
+- undang-undang perlembagaan
+- Ustavno pravo
+- Vafassungsrecht
+- valtiosääntöoikeus
+- Verfassungsrecht
+- zuzenbide konstituzional
+- ústavné právo
+- ústavní právo
+- Συνταγματικό Δίκαιο
+- канстытуцыйнае права
+- конституційне право
+- Конституцилле тивĕç-ирĕк
+- конституцион барад
+- конституцион хокук
+- Конституционно право
+- конституционное право
+- Конституциялык укук
+- Конституциялық құқық
+- Уставно право
+- Үндсэн хуулийн эрх зүй
+- Ҳуқуқи асосӣ
+- Սահմանադրական իրավունք
+- משפט חוקתי
+- آئینی قانون
+- حقوق اساسی
+- قانون دستوري
+- संवैधानिक कानून
+- সাংবিধানিক আইন
+- ਸੰਵਿਧਾਨਿਕ ਕਨੂੰਨ
+- அரசியல் அமைப்புச் சட்டம்
+- ආණ්ඩුක්රම ව්යවස්ථා නීතිය
+- กฎหมายรัฐธรรมนูญ
+- 宪制性法律
+- 宪法性法律
+- 憲制性法律
+- 憲法
+- 헌법
 has_id_wikidata: Q11206
-subclass_of: "[[_Standards/WikiData/WD~public_law,207892]]"
+subclass_of: '[[_Standards/WikiData/WD~public_law,207892]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_law,1756157]]"
-history_of_topic: "[[_Standards/WikiData/WD~constitutional_history,2515460]]"
-studied_by: "[[_Standards/WikiData/WD~constitutional_theory,6818846]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
+history_of_topic: '[[_Standards/WikiData/WD~constitutional_history,2515460]]'
+studied_by: '[[_Standards/WikiData/WD~constitutional_theory,6818846]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~constitutionalist,77844028]]"
-  - "[[_Standards/WikiData/WD~constitutional_drafter,120499721]]"
-Dewey_Decimal_Classification: "342"
-U_S_National_Archives_Identifier: "10639675"
+- '[[_Standards/WikiData/WD~constitutionalist,77844028]]'
+- '[[_Standards/WikiData/WD~constitutional_drafter,120499721]]'
+Dewey_Decimal_Classification: 342
+U_S_National_Archives_Identifier: 10639675
 Commons_category: Constitutional law
 PhilPapers_topic: constitutional-law
+dv_has_:
+  name_:
+    ar: قانون دستوري
+    ast: Derechu constitucional
+    az: konstitusiya hüququ
+    bar: Vafassungsrecht
+    be: канстытуцыйнае права
+    be-tarask: канстытуцыйнае права
+    bg: Конституционно право
+    bn: সাংবিধানিক আইন
+    bs: Ustavno pravo
+    ca: dret constitucional
+    cs: ústavní právo
+    cv: Конституцилле тивĕç-ирĕк
+    cy: cyfraith gyfansoddiadol
+    da: statsforfatningsret
+    de: Verfassungsrecht
+    el: Συνταγματικό Δίκαιο
+    en: constitutional law
+    en-ca: Constitutional law
+    en-gb: constitutional law
+    eo: konstitucia juro
+    es: derecho constitucional
+    et: Riigiõigus
+    eu: zuzenbide konstituzional
+    fa: حقوق اساسی
+    fi: valtiosääntöoikeus
+    fr: droit constitutionnel
+    fy: Steatsrjocht
+    ga: dlí bunreachtúil
+    gl: Dereito constitucional
+    gv: leigh vunraghtoil
+    ha: Dokar kundin tsarin mulki
+    he: משפט חוקתי
+    hi: संवैधानिक कानून
+    hr: Ustavno pravo
+    hu: alkotmányjog
+    hy: Սահմանադրական իրավունք
+    id: Hukum tata negara
+    is: Stjórnskipunarréttur
+    it: diritto costituzionale
+    ja: 憲法
+    kk: Конституциялық құқық
+    ko: 헌법
+    ky: Конституциялык укук
+    lb: Droit constitutionnel
+    lt: konstitucinė teisė
+    lv: konstitucionālās tiesības
+    mi: ture kāwanatanga
+    mk: Уставно право
+    mn: Үндсэн хуулийн эрх зүй
+    ms: undang-undang perlembagaan
+    nb: statsrett
+    nl: staatsrecht
+    nn: statsrett
+    oc: Drech constitucionau
+    os: конституцион барад
+    pa: ਸੰਵਿਧਾਨਿਕ ਕਨੂੰਨ
+    pl: prawo konstytucyjne
+    pt: direito constitucional
+    pt-br: Direito constitucional
+    ro: drept constituțional
+    ru: конституционное право
+    sh: Ustavno pravo
+    si: ආණ්ඩුක්රම ව්යවස්ථා නීතිය
+    sk: ústavné právo
+    sl: ustavno pravo
+    sq: E drejta kushtetuese
+    sr: уставно право
+    sr-ec: уставно право
+    sr-el: ustavno pravo
+    sv: statsrätt
+    ta: அரசியல் அமைப்புச் சட்டம்
+    tg: Ҳуқуқи асосӣ
+    th: กฎหมายรัฐธรรมนูญ
+    tr: anayasa hukuku
+    tt: конституцион хокук
+    uk: конституційне право
+    ur: آئینی قانون
+    uz: Davlat huquqi
+    vi: luật hiến pháp
+    war: Balaod hit Batakan-balaod
+    wuu: 宪制性法律
+    yue: 憲制性法律
+    zh: 宪法性法律
+    zh-cn: 宪制性法律
+    zh-hans: 宪制性法律
+    zh-hant: 憲制性法律
+    zh-hk: 憲制性法律
+    zh-mo: 憲制性法律
+    zh-my: 宪制性法律
+    zh-sg: 宪制性法律
+    zh-tw: 憲制性法律
 ---
-
 # [[Constitutional_Law]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Constitutional_law,11206|WD~Constitutional_law,11206]] 

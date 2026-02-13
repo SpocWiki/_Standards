@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Victimisation
-  - Victim
-  - Opfer
+- mağduriyet
+- offergørelse
+- Opfer
+- Victim
+- Victimisation
+- victimisiering
+- victimització
+- victimización
+- victimizatio
+- viktimisering
+- Viktimisierung
+- viktimizace
+- viktimizacija
+- Viktimizimi
+- viktimizācija
+- viktimiĝo
+- vitimização
+- Wiktymizacja
+- θυματοποίηση
+- віктимізація
+- Виктимизација
+- виктимизация
+- Վիկտիմիզացիա
+- קורבנות
+- خلق الضحية
+- قربانیسازی
+- 再次受害
 has_id_wikidata: Q373752
+dv_has_:
+  name_:
+    ar: خلق الضحية
+    ca: victimització
+    cs: viktimizace
+    da: offergørelse
+    de: Viktimisierung
+    el: θυματοποίηση
+    en: victimisation
+    en-gb: victimisation
+    eo: viktimiĝo
+    es: victimización
+    fa: قربانیسازی
+    fr: victimisation
+    he: קורבנות
+    hy: Վիկտիմիզացիա
+    la: victimizatio
+    lt: viktimizacija
+    lv: viktimizācija
+    mk: Виктимизација
+    nl: victimisiering
+    pl: Wiktymizacja
+    pt: vitimização
+    ru: виктимизация
+    sl: viktimizacija
+    sq: Viktimizimi
+    sr: Виктимизација
+    sv: viktimisering
+    tr: mağduriyet
+    uk: віктимізація
+    zh: 再次受害
 ---
 ## #has_/text_of_/abstract 
 

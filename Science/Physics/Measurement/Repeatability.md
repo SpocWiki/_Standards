@@ -1,7 +1,57 @@
 ---
 aliases:
-  - repeatable
+- Condiție de repetabilitate
+- herhaalbaarheid
+- measurement repeatability
+- Metoda testu powtórnego
+- Opakovateľnosť merania
+- Ponovljivost
+- repeatable
+- repetabilitatea măsurătorilor
+- repeterbarhet
+- repetibilidad de medida
+- Repetibilitat
+- ripetibilità
+- répétabilité de mesure
+- Toistettavuus
+- Wiederholpräzision
+- Επαναληψιμότητα
+- Збіжність
+- Сходимость результатов
+- تکرارپذیری
+- قابلية التكرار
+- 再検査信頼性
+- 可重复性
+- 可重複性
+- 重測試信度
 has_id_wikidata: Q520171
+dv_has_:
+  name_:
+    ar: قابلية التكرار
+    ca: Repetibilitat
+    de: Wiederholpräzision
+    el: Επαναληψιμότητα
+    en: measurement repeatability
+    es: repetibilidad de medida
+    fa: تکرارپذیری
+    fi: Toistettavuus
+    fr: répétabilité de mesure
+    it: ripetibilità
+    ja: 再検査信頼性
+    mo: Condiție de repetabilitate
+    nb: repeterbarhet
+    nl: herhaalbaarheid
+    pl: Metoda testu powtórnego
+    ro: repetabilitatea măsurătorilor
+    ru: Сходимость результатов
+    sk: Opakovateľnosť merania
+    sl: Ponovljivost
+    sv: Repeterbarhet
+    uk: Збіжність
+    yue: 重測試信度
+    zh: 可重复性
+    zh-hans: 可重复性
+    zh-hant: 可重複性
 ---
 # [[Repeatability]] 
 

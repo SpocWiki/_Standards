@@ -1,18 +1,72 @@
 ---
 aliases:
-  - Robotik
-  - Robotics
+- Antapunqu kamay
+- EzobuThununu
+- robootika
+- Robot học
+- Robotega
+- robotica
+- Robotics
+- robotică
+- robotihkka
+- robotiik
+- robotiikka
+- Robotik
+- robotika
+- robotikk
+- robotiko
+- robotiks
+- robotikë
+- robotique
+- Robototexnika
+- robotttøkni
+- robotyka
+- robòtica
+- robótica
+- Ruobuotėka
+- róbataic
+- Thoome wa Gwangi
+- þjarkafræði
+- Ρομποτική
+- рабататэхніка
+- робататэхніка
+- Робот техники
+- Роботика
+- робототехніка
+- робототехника
+- Ռոբոտատեխնիկա
+- רובוטיקה
+- رباتیک
+- روبالیات
+- روباټیک
+- روبوتية
+- روبوتيک
+- ڕۆبۆتیک
+- रोबॉटिक्स
+- রোবটিক্স
+- தானியங்கியல்
+- రోబోటిక్స్
+- ಯಂತ್ರಮಾನವಶಾಸ್ತ್ರ
+- റോബോട്ടിക്സ്
+- රොබොටික්ස්
+- วิทยาการหุ่นยนต์
+- ຫຸ່ນຍົນສາດ
+- ロボット工学
+- 机器人学
+- 機器人學
+- 機械人學
+- 로봇공학
 has_id_wikidata: Q170978
 different_from: '[[_Standards/WikiData/WD~cybernetics,123637]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~mechatronics,180165]]'
-  - '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
+- '[[_Standards/WikiData/WD~mechatronics,180165]]'
+- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~industry,268592]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~roboticist,3437279]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_robotics,7112718]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Robotics,7380394]]'
@@ -32,12 +86,118 @@ U_S_National_Archives_Identifier: 10644311
 IEV_number: 171-09-26
 Basisklassifikation: 50.25
 MeSH_tree_code:
-  - H01.671.293.643
-  - J01.897.104.834
-  - L01.224.050.375.630
+- H01.671.293.643
+- J01.897.104.834
+- L01.224.050.375.630
 Commons_category: Robotics
+dv_has_:
+  name_:
+    af: robotika
+    ar: روبوتية
+    ast: Robótica
+    az: Robototexnika
+    be: робататэхніка
+    be-tarask: рабататэхніка
+    bg: Роботика
+    bn: রোবটিক্স
+    bs: robotika
+    ca: robòtica
+    ckb: ڕۆبۆتیک
+    cs: robotika
+    cv: Робот техники
+    da: robotik
+    de: Robotik
+    de-ch: Robotik
+    diq: Robotik
+    el: Ρομποτική
+    en: robotics
+    en-ca: Robotics
+    en-gb: robotics
+    eo: robotiko
+    es: robótica
+    et: robootika
+    eu: Robotika
+    ext: Robótica
+    fa: رباتیک
+    fi: robotiikka
+    fo: robotttøkni
+    fr: robotique
+    ga: róbataic
+    gl: Robótica
+    he: רובוטיקה
+    hi: रोबॉटिक्स
+    hr: robotika
+    hu: robotika
+    hy: Ռոբոտատեխնիկա
+    id: Robotika
+    ie: Robotica
+    io: Robotiko
+    is: þjarkafræði
+    it: robotica
+    ja: ロボット工学
+    jv: Robotika
+    kaa: Robototexnika
+    ki: Thoome wa Gwangi
+    kk: Робототехника
+    kk-cyrl: робототехника
+    kn: ಯಂತ್ರಮಾನವಶಾಸ್ತ್ರ
+    ko: 로봇공학
+    la: Robotica
+    lfn: Robotica
+    lo: ຫຸ່ນຍົນສາດ
+    lt: robotika
+    lv: Robotika
+    mk: роботика
+    ml: റോബോട്ടിക്സ്
+    ms: robotik
+    ms-arab: روبوتيک
+    mt: robotika
+    nb: robotikk
+    nl: robotica
+    nn: robotikk
+    nrm: Robotique
+    oc: Robotica
+    pih: robotiks
+    pl: robotyka
+    ps: روباټیک
+    pt: robótica
+    pt-br: robótica
+    qu: Antapunqu kamay
+    ro: robotică
+    ru: робототехника
+    se: robotihkka
+    sgs: Ruobuotėka
+    sh: robotika
+    si: රොබොටික්ස්
+    sk: robotika
+    sl: robotika
+    smn: robotiik
+    sms: robotikk
+    sq: robotikë
+    sr: роботика
+    sr-ec: роботика
+    sr-el: robotika
+    sv: robotik
+    ta: தானியங்கியல்
+    te: రోబోటిక్స్
+    th: วิทยาการหุ่นยนต์
+    tl: Robotiks
+    tr: Robotik
+    tt: робототехника
+    uk: робототехніка
+    ur: روبالیات
+    uz: Robototexnika
+    vec: Robotega
+    vi: Robot học
+    war: Robotika
+    wuu: 机器人学
+    yue: 機械人學
+    zh: 機器人學
+    zh-cn: 机器人学
+    zh-hant: 機器人學
+    zh-tw: 機器人學
+    zu: EzobuThununu
 ---
-
 # [[Robotics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Robotics,170978|WD~Robotics,170978]] 

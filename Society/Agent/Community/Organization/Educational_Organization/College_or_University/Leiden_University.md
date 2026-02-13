@@ -1,17 +1,104 @@
 ---
-has_time_started: 1575-02-18 
-location: [ 4.485277777 , 52.156944444 ] 
+has_time_started: 1575-02-18
+location:
+- '[[_Standards/WikiData/WD~The_Hague,36600]]'
+- '[[_Standards/WikiData/WD~Leiden,43631]]'
 aliases:
-  - Leiden University
-  - Universiteit Leiden
-  - Leiden_University
+- Academia Lugduno-Batava
+- Leiden ollâopâttâh
+- Leiden Tāi-ha̍k
+- Leiden universitehta
+- Leiden universiteʹtt
+- Leiden University
+- Leiden Varsity
+- Leiden Üniversitesi
+- Leidenes Universitāte
+- Leidengo Unibertsitatea
+- Leideni Egyetem
+- Leideni Ülikool
+- Leidenin yliopisto
+- Leideno universitetas
+- Leiden_University
+- Leyden Universiteti
+- Oilthigh Leiden
+- Ollooscoill Leiden
+- Ollscoil Leiden
+- Pennskol Leiden
+- Prifysgol Leiden
+- Sveučilište u Leidenu
+- Tasdawit n Leyde
+- Unibersidad Leiden
+- Unibersidad ng Leiden
+- Universidad de Leiden
+- Universidade de Leiden
+- Universidat di Leiden
+- Universidá de Leiden
+- Universitas Leiden
+- Universitat de Leiden
+- Universitatea din Leiden
+- Universitato de Lejdeno
+- Universiteit Leiden
+- Universiteit Leien
+- Universiteit van Leiden
+- Universitetet i Leiden
+- Universiteti i Lejdenit
+- Universiti Leiden
+- Università de Leida
+- Università de Leiden
+- Università di Leida
+- Università ta' Leiden
+- Universität Leiden
+- université de Leyde
+- Universitéit vu Leiden
+- Univerza v Leidnu
+- Univerzita v Leidenu
+- Univerzitet u Leidenu
+- Univérsitas Leiden
+- Uniwersita Leiden
+- Uniwersytet w Lejdzie
+- Zanîngeha Leidenê
+- Đại học Leiden
+- Πανεπιστήμιο του Λέιντεν
+- Донишгоҳи Лейден
+- Лайденски университет
+- Лејденски универзитет
+- Лейден университети
+- Лейден университеты
+- Лейденский университет
+- Лейденський університет
+- Лейдены университет
+- Лейдэнскі ўніверсітэт
+- Лейдэнскі ўнівэрсытэт
+- Универзитет у Лајдену
+- Լեյդենի համալսարան
+- Լէյտէնի Համալսարան
+- אוניברסיטת ליידן
+- جامعة لايدن
+- جامعة ليدن
+- جامعہ لیڈن
+- دانشگاه لیدن
+- لائڈن یونیورسٹی
+- لیدن بیلیمیوردو
+- لېيدېن ئۇنىۋېرستېتى
+- लीडेन विद्यापीठ
+- লাইডেন বিশ্ববিদ্যালয়
+- ਲਾਇਡਨ ਯੂਨੀਵਰਸਿਟੀ
+- லைடன் பல்கலைக்கழகம்
+- ലെയ്ഡൻ യൂണിവേർസിറ്റി
+- มหาวิทยาลัยไลเดิน
+- ლეიდენის უნივერსიტეტი
+- ライデン大学
+- 莱顿大学
+- 萊登大學
+- 萊頓大學
+- 레이던 대학교
 has_id_wikidata: Q156598
 ISNI:
-  - 0000000120132535
-  - 0000000123121970
+- 0000000120132535
+- 0000000123121970
 IPv4_routing_prefix:
-  - 188.200.154.48/29
-  - 194.171.106.0/24
+- 188.200.154.48/29
+- 194.171.106.0/24
 IPv6_routing_prefix: 2001:610:318::/48
 EU_Participant_Identification_Code: 999974553
 Pinterest_username: boards
@@ -27,37 +114,37 @@ native_label: Universiteit Leiden
 official_name: Universiteit Leiden
 founded_by: '[[_Standards/WikiData/WD~William_the_Silent,78454]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Q118398,118398]]'
-  - '[[_Standards/WikiData/WD~Coimbra_Group,211620]]'
-  - '[[_Standards/WikiData/WD~International_Association_of_Universities,284199]]'
-  - '[[_Standards/WikiData/WD~European_University_Association,868940]]'
-  - '[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269]]'
-  - '[[_Standards/WikiData/WD~Association_of_Universities_in_the_Netherlands,2574590]]'
-  - '[[_Standards/WikiData/WD~Stichting_Academisch_Erfgoed,3212092]]'
-  - '[[_Standards/WikiData/WD~Committee_on_Publication_Ethics,5153090]]'
-  - '[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]'
-  - '[[_Standards/WikiData/WD~UNA_Europa,97293368]]'
-  - '[[_Standards/WikiData/WD~Coalition_for_Advancing_Research_Assessment,115682002]]'
-  - '[[_Standards/WikiData/WD~Leiden_Delft_Erasmus_Universities,136349390]]'
+- '[[_Standards/WikiData/WD~Q118398,118398]]'
+- '[[_Standards/WikiData/WD~Coimbra_Group,211620]]'
+- '[[_Standards/WikiData/WD~International_Association_of_Universities,284199]]'
+- '[[_Standards/WikiData/WD~European_University_Association,868940]]'
+- '[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269]]'
+- '[[_Standards/WikiData/WD~Association_of_Universities_in_the_Netherlands,2574590]]'
+- '[[_Standards/WikiData/WD~Stichting_Academisch_Erfgoed,3212092]]'
+- '[[_Standards/WikiData/WD~Committee_on_Publication_Ethics,5153090]]'
+- '[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]'
+- '[[_Standards/WikiData/WD~UNA_Europa,97293368]]'
+- '[[_Standards/WikiData/WD~Coalition_for_Advancing_Research_Assessment,115682002]]'
+- '[[_Standards/WikiData/WD~Leiden_Delft_Erasmus_Universities,136349390]]'
 partnership_with: '[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Leiden_University_Library,638395]]'
-  - '[[_Standards/WikiData/WD~African_Studies_Centre_Leiden,2174585]]'
-  - '[[_Standards/WikiData/WD~Leiden_University_Medical_Center,2406409]]'
-  - '[[_Standards/WikiData/WD~Leiden_Law_School,55616739]]'
-  - '[[_Standards/WikiData/WD~Faculteit_der_Archeologie,61662973]]'
-  - '[[_Standards/WikiData/WD~Faculty_of_Humanities,61662985]]'
-  - '[[_Standards/WikiData/WD~Institute_for_Governance_and_Global_Affairs,61662993]]'
-  - '[[_Standards/WikiData/WD~Faculty_of_Social_and_Behavioural_Sciences,61666647]]'
-  - '[[_Standards/WikiData/WD~Faculteit_der_Wiskunde_en_Natuurwetenschappen,61666665]]'
+- '[[_Standards/WikiData/WD~Leiden_University_Library,638395]]'
+- '[[_Standards/WikiData/WD~African_Studies_Centre_Leiden,2174585]]'
+- '[[_Standards/WikiData/WD~Leiden_University_Medical_Center,2406409]]'
+- '[[_Standards/WikiData/WD~Leiden_Law_School,55616739]]'
+- '[[_Standards/WikiData/WD~Faculteit_der_Archeologie,61662973]]'
+- '[[_Standards/WikiData/WD~Faculty_of_Humanities,61662985]]'
+- '[[_Standards/WikiData/WD~Institute_for_Governance_and_Global_Affairs,61662993]]'
+- '[[_Standards/WikiData/WD~Faculty_of_Social_and_Behavioural_Sciences,61666647]]'
+- '[[_Standards/WikiData/WD~Faculteit_der_Wiskunde_en_Natuurwetenschappen,61666665]]'
 funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Rijksmuseum_van_Oudheden,1860378]]'
-  - '[[_Standards/WikiData/WD~Rapenburg_70_74,_Leiden,17339242]]'
-  - '[[_Standards/WikiData/WD~Leidse_Hoogleraren,23667505]]'
+- '[[_Standards/WikiData/WD~Rijksmuseum_van_Oudheden,1860378]]'
+- '[[_Standards/WikiData/WD~Rapenburg_70_74,_Leiden,17339242]]'
+- '[[_Standards/WikiData/WD~Leidse_Hoogleraren,23667505]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Regional_Archives_Nijmegen,15881190]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+- '[[_Standards/WikiData/WD~Regional_Archives_Nijmegen,15881190]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~rector_magnificus_of_Leiden_University,20968836]]'
 rector: '[[_Standards/WikiData/WD~Hester_Bijl,59096960]]'
 described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
@@ -65,37 +152,34 @@ part_of: '[[_Standards/WikiData/WD~ELIXIR_NL,109496389]]'
 coordinate_location: Point(4.485277777 52.156944444)
 inception: 1575-02-18T00:00:00Z
 language_used:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~university,3918]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~university,3918]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 country: '[[_Standards/WikiData/WD~Netherlands,55]]'
 ranking:
-  - 70
-  - 80
-  - 63
-  - 65
-  - 71
-  - 72
-  - 73
-  - 74
-  - 76
-  - 77
-  - 78
-  - 82
-  - 83
-  - 88
-  - 93
-  - 112
-  - 126
-  - 131
+- 70
+- 80
+- 63
+- 65
+- 71
+- 72
+- 73
+- 74
+- 76
+- 77
+- 78
+- 82
+- 83
+- 88
+- 93
+- 112
+- 126
+- 131
 social_media_followers:
-  - 10800
-  - 36090
-location:
-  - '[[_Standards/WikiData/WD~The_Hague,36600]]'
-  - '[[_Standards/WikiData/WD~Leiden,43631]]'
+- 10800
+- 36090
 headquarters_locations: '[[_Standards/WikiData/WD~Leiden,43631]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Leiden,43631]]'
 employees: 7860
@@ -107,8 +191,120 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Univers
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20Leiden%20University.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UniversiteitLeidenLogo.svg
 official_website: https://www.universiteitleiden.nl/
+dv_has_:
+  name_:
+    af: Universiteit van Leiden
+    ar: جامعة ليدن
+    arz: جامعة لايدن
+    ast: Universidá de Leiden
+    az: Leyden Universiteti
+    azb: لیدن بیلیمیوردو
+    ba: Лейден университеты
+    ban: Univérsitas Leiden
+    be: Лейдэнскі ўніверсітэт
+    be-tarask: Лейдэнскі ўнівэрсытэт
+    bg: Лайденски университет
+    bn: লাইডেন বিশ্ববিদ্যালয়
+    ca: Universitat de Leiden
+    co: Università di Leida
+    cs: Univerzita v Leidenu
+    cy: Prifysgol Leiden
+    da: Universiteit Leiden
+    de: Universität Leiden
+    de-ch: Universität Leiden
+    el: Πανεπιστήμιο του Λέιντεν
+    en: Leiden University
+    en-ca: Leiden University
+    en-gb: Leiden University
+    eo: Universitato de Lejdeno
+    es: Universidad de Leiden
+    et: Leideni Ülikool
+    eu: Leidengo Unibertsitatea
+    fa: دانشگاه لیدن
+    fi: Leidenin yliopisto
+    fr: université de Leyde
+    fy: Universiteit Leien
+    ga: Ollscoil Leiden
+    gd: Oilthigh Leiden
+    gl: Universidade de Leiden
+    gv: Ollooscoill Leiden
+    he: אוניברסיטת ליידן
+    hr: Sveučilište u Leidenu
+    hsb: Uniwersita Leiden
+    hu: Leideni Egyetem
+    hy: Լեյդենի համալսարան
+    hyw: Լէյտէնի Համալսարան
+    id: Universitas Leiden
+    it: Università di Leida
+    ja: ライデン大学
+    jv: Universitas Leiden
+    ka: ლეიდენის უნივერსიტეტი
+    kab: Tasdawit n Leyde
+    ko: 레이던 대학교
+    ku: Zanîngeha Leidenê
+    ku-latn: Zanîngeha Leidenê
+    kw: Pennskol Leiden
+    ky: Лейден университети
+    la: Academia Lugduno-Batava
+    lb: Universitéit vu Leiden
+    lld: Università de Leiden
+    lt: Leideno universitetas
+    lv: Leidenes Universitāte
+    mad: Universitas Leiden
+    min: Universitas Leiden
+    mk: Лејденски универзитет
+    ml: ലെയ്ഡൻ യൂണിവേർസിറ്റി
+    mr: लीडेन विद्यापीठ
+    ms: Universiti Leiden
+    mt: Università ta' Leiden
+    mul: Universiteit Leiden
+    nan: Leiden Tāi-ha̍k
+    nb: Universitetet i Leiden
+    nl: Universiteit Leiden
+    nn: Universitetet i Leiden
+    os: Лейдены университет
+    pa: ਲਾਇਡਨ ਯੂਨੀਵਰਸਿਟੀ
+    pap: Universidat di Leiden
+    pl: Uniwersytet w Lejdzie
+    pnb: لائڈن یونیورسٹی
+    pt: Universidade de Leiden
+    pt-br: Universidade de Leiden
+    ro: Universitatea din Leiden
+    ru: Лейденский университет
+    sco: Leiden Varsity
+    se: Leiden universitehta
+    sh: Univerzitet u Leidenu
+    sl: Univerza v Leidnu
+    smn: Leiden ollâopâttâh
+    sms: Leiden universiteʹtt
+    sq: Universiteti i Lejdenit
+    sr: Универзитет у Лајдену
+    su: Universitas Leiden
+    sv: Universitetet i Leiden
+    ta: லைடன் பல்கலைக்கழகம்
+    tg: Донишгоҳи Лейден
+    th: มหาวิทยาลัยไลเดิน
+    tl: Unibersidad ng Leiden
+    tr: Leiden Üniversitesi
+    tt: Лейден университеты
+    ug: لېيدېن ئۇنىۋېرستېتى
+    uk: Лейденський університет
+    ur: جامعہ لیڈن
+    uz: Leyden universiteti
+    vec: Università de Leida
+    vi: Đại học Leiden
+    war: Unibersidad Leiden
+    wuu: 莱顿大学
+    yo: Leiden University
+    yue: 萊頓大學
+    zh: 萊頓大學
+    zh-cn: 莱顿大学
+    zh-hans: 莱顿大学
+    zh-hant: 萊頓大學
+    zh-hk: 萊頓大學
+    zh-sg: 莱顿大学
+    zh-tw: 萊登大學
 ---
-
 # [[Leiden_University]] 
 
 #is_/same_as :: [[WD~Leiden_University,156598]] 

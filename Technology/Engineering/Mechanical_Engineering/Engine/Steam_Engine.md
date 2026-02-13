@@ -1,24 +1,125 @@
 ---
 aliases:
-  - Steam engine
-  - Steam_Engine
-  - Steam Engine
+- aurumasin
+- Aurumoodor
+- Bhaap ke ingin
+- Bu yörtkeçe
+- Bugʻ mashinasi
+- Buhar makinesi
+- Buv köçüricisi
+- buxar maşını
+- Cheng-khì ki-koan
+- Dampfmaschine
+- Dampmaschien
+- dampmaskin
+- dampmaskine
+- Enjin wap
+- Feveku n̄ɩɣyʋʋ
+- garo mašina
+- Gufuvél
+- gőzgép
+- höyrykone
+- injini ya mvuke
+- Inneal-stotha
+- inneall gaile
+- Isilumbamdiki somusi
+- Lurrun-makina
+- Machin a vapò
+- Machina vaporaria
+- machine à vapeur
+- Makina me avull
+- Makina nga ginpapaalisngawan
+- Makinang pinasisingawan
+- Maquina de vapor
+- Mekanik dre vurezh
+- Mesin uap
+- Mesin uwab
+- Motor a vapor
+- motor cu abur
+- Motor de vapor
+- motore a vapore
+- Màchina a vapor
+- màquina de vapor
+- Máquina de vapor
+- parna mašina
+- parni stroj
+- parní stroj
+- parný stroj
+- peiriant ager
+- Purumašin
+- silnik parowy
+- Steam engine
+- Steam_Engine
+- Stiim injin
+- Stoomenjin
+- stoommachine
+- Stoommasine
+- tvaika dzinējs
+- vapormaŝino
+- Vaporomashino
+- Wapsi kuyuchina
+- ångmaskin
+- động cơ hơi nước
+- ατμομηχανή
+- Бу машинасы
+- Буу машинасы
+- Пар машинаһы
+- парасілавая ўстаноўка
+- Парна машина
+- паро машина
+- парова машина
+- Парова машына
+- паровой двигатель
+- Уурын машин
+- Ӏанаран машина
+- Շոգեմեքենա
+- דאַמפֿמאטאר
+- מנוע קיטור
+- بزوێنەری ھەڵمی
+- بوخار ماشینی
+- بھاف آلا انجن
+- د بړاس ماشين
+- دخانی انجن
+- محرك بخاري
+- موتور بخار
+- موطور د لبوخار
+- ٻاڦ وارو انجڻ
+- ھور ماشىنىسى
+- भाप इंजन
+- भाप का इंजन
+- वाफेचे इंजिन
+- वाष्प इन्जिन
+- स्टिम इन्जिन
+- বাষ্পীয় ইঞ্জিন
+- ভাপ ইঞ্জিন
+- ਭਾਫ਼ ਦਾ ਇੰਜਨ
+- நீராவிப் பொறி
+- ఆవిరి యంత్రం
+- ಉಗಿಯಂತ್ರ
+- ആവിയന്ത്രം
+- เครื่องจักรไอน้ำ
+- ရေနွေးငွေ့ အင်ဂျင်
+- ორთქლმავალი
+- 蒸気機関
+- 蒸氣機
+- 蒸汽机
+- 증기기관
 has_id_wikidata: Q12760
 subclass_of: '[[_Standards/WikiData/WD~heat_engine,178185]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of: '[[_Standards/WikiData/WD~engineering_term,77330357]]'
 Nomenclature_for_Museum_Cataloging: 8867
 U_S_National_Archives_Identifier: 10643830
 Dewey_Decimal_Classification:
-  - 621.1
-  - 621.164
+- 621.1
+- 621.164
 Colon_Classification: D641
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Segeltuchfabrik%20Blancke.%20Jute-%20und%20Leinenweberei%20mit%20Dampfantrieb.webm
@@ -26,8 +127,126 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Steam%20Banner.j
 UNSPSC_Code: 26101505
 Commons_category: Steam engines
 IMDb_keyword: steam-engine
+dv_has_:
+  name_:
+    af: Stoomenjin
+    an: Maquina de vapor
+    anp: भाप इंजन
+    ar: محرك بخاري
+    ary: موطور د لبوخار
+    as: ভাপ ইঞ্জিন
+    ast: Máquina de vapor
+    az: buxar maşını
+    azb: بوخار ماشینی
+    ba: Пар машинаһы
+    be: парасілавая ўстаноўка
+    be-tarask: парасілавая ўстаноўка
+    bg: Парна машина
+    bn: বাষ্পীয় ইঞ্জিন
+    br: Mekanik dre vurezh
+    bs: parna mašina
+    ca: màquina de vapor
+    ce: Ӏанаран машина
+    ckb: بزوێنەری ھەڵمی
+    crh: Buv köçüricisi
+    cs: parní stroj
+    cy: peiriant ager
+    da: dampmaskine
+    de: Dampfmaschine
+    el: ατμομηχανή
+    en: steam engine
+    eo: vapormaŝino
+    es: máquina de vapor
+    et: aurumasin
+    eu: Lurrun-makina
+    fa: موتور بخار
+    fi: höyrykone
+    fr: machine à vapeur
+    fy: Stoommasine
+    ga: inneall gaile
+    gcr: Machin a vapò
+    gd: Inneal-stotha
+    gl: máquina de vapor
+    gsw: Dampfmaschine
+    he: מנוע קיטור
+    hi: भाप का इंजन
+    hif: Bhaap ke ingin
+    hr: parni stroj
+    hsb: parna mašina
+    hu: gőzgép
+    hy: Շոգեմեքենա
+    ia: Motor de vapor
+    id: Mesin uap
+    io: Vaporomashino
+    is: Gufuvél
+    it: motore a vapore
+    ja: 蒸気機関
+    jam: Stiim injin
+    jv: Mesin uwab
+    ka: ორთქლმავალი
+    kbp: Feveku n̄ɩɣyʋʋ
+    kk: Бу машинасы
+    kn: ಉಗಿಯಂತ್ರ
+    ko: 증기기관
+    ky: Буу машинасы
+    la: Machina vaporaria
+    lmo: Motor a vapor
+    lt: garo mašina
+    lv: tvaika dzinējs
+    mad: Mesin uap
+    mk: Парна машина
+    ml: ആവിയന്ത്രം
+    mn: Уурын машин
+    mr: वाफेचे इंजिन
+    ms: Enjin wap
+    my: ရေနွေးငွေ့ အင်ဂျင်
+    nan: Cheng-khì ki-koan
+    nb: dampmaskin
+    nds: Dampmaschien
+    ne: वाष्प इन्जिन
+    new: स्टिम इन्जिन
+    nl: stoommachine
+    nn: dampmaskin
+    oc: Maquina de vapor
+    pa: ਭਾਫ਼ ਦਾ ਇੰਜਨ
+    pl: silnik parowy
+    pms: Màchina a vapor
+    pnb: بھاف آلا انجن
+    ps: د بړاس ماشين
+    pt: motor a vapor
+    qu: Wapsi kuyuchina
+    ro: motor cu abur
+    ru: паровой двигатель
+    rue: Парова машына
+    sd: ٻاڦ وارو انجڻ
+    sh: Parna mašina
+    sk: parný stroj
+    sl: parni stroj
+    sq: Makina me avull
+    sr: Парна машина
+    sv: ångmaskin
+    sw: injini ya mvuke
+    ta: நீராவிப் பொறி
+    te: ఆవిరి యంత్రం
+    th: เครื่องจักรไอน้ำ
+    tl: Makinang pinasisingawan
+    tr: Buhar makinesi
+    tt: Bu yörtkeçe
+    udm: паро машина
+    ug: ھور ماشىنىسى
+    uk: парова машина
+    ur: دخانی انجن
+    uz: Bugʻ mashinasi
+    vep: Purumašin
+    vi: động cơ hơi nước
+    vro: Aurumoodor
+    war: Makina nga ginpapaalisngawan
+    wuu: 蒸汽机
+    yi: דאַמפֿמאטאר
+    yue: 蒸氣機
+    zh: 蒸汽机
+    zu: Isilumbamdiki somusi
 ---
-
 # [[Steam_Engine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Steam_engine,12760|WD~Steam_engine,12760]] 

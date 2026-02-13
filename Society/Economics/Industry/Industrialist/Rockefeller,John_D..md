@@ -1,12 +1,55 @@
 ---
 aliases:
-  - John_D._Rockefeller
-  - John Davison Rockefeller
-  - John Davison Rockefeller Sr.
-  - John Rockefeller
-  - Rockefeller
-  - Rockefeller,John_D.
-  - Rockefeller,John D.
+- Con Rokfeller
+- Džon D. Rokfeler
+- Džonas Deivisonas Rokfeleris
+- Džons Rokfellers
+- Ioannes Rockefeller
+- John D. Rockefeller
+- John Davison Rockefeller
+- John Davison Rockefeller Jr
+- John Davison Rockefeller Sr.
+- John Rockefeller
+- John_D._Rockefeller
+- Rockefeller
+- Rockefeller,John D.
+- Rockefeller,John_D.
+- Rokfeller, Djon Dévïson
+- Čon Rokfeller
+- Τζον Ντ. Ροκφέλερ
+- Џон Д. Рокфелер
+- Џон Дејвисон Рокфелер
+- Джон Девісон Рокфеллер
+- Джон Дэвісан Ракфелер
+- Джон Дэвисон Рокфеллер
+- Джон Дэйвісан Ракфэлер
+- Джон Рокфелер
+- Жон Рокфеллер
+- Рокфеллер Джон Дэвисон
+- Рокфеллер, Джон Дэвисон
+- Ջոն Դևիսոն Ռոքֆելլեր
+- ג'ון ד. רוקפלר
+- جان دیویس راکفلر
+- جان راک فیلر
+- جان ډي راکفیلر
+- جون دافيسون روكفلر
+- روكفەللەر، دجون دەۆىيسون
+- जन डेभिसन रकफेलर
+- जॉन डी. रॉकफेलर
+- जॉन डी. रॉकफेलर पहिला
+- जॉन डेव्हिसन रॉकफॅलर
+- জন রকফেলার
+- ஜான் டி. ராக்பெல்லர்
+- จอห์น ดี. ร็อกเกอะเฟลเลอร์
+- ཇོའོ་ཏའེ་ལྦེ་སོན་རོའོ་ཀ་ཧྥེ་ལར།
+- ဂျွန်ဒေးဗီဆန် ရော့ကဖဲလား
+- ရော့ကဖဲလား ဂျေ၊ ဒီ
+- ჯონ როკფელერი
+- ジョン・ロックフェラー
+- 洛克菲勒
+- 約翰·戴維森·洛克菲勒
+- 约翰·戴维森·洛克菲勒
+- 존 D. 록펠러
 has_id_wikidata: Q160278
 U_S_National_Archives_Identifier: 10581180
 Libris_URI: fcrv0whz3sd4cwc
@@ -15,39 +58,39 @@ birth_name: John Davison Rockefeller
 date_of_death: 1937-05-23T00:00:00Z
 religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~accountant,326653]]'
-  - '[[_Standards/WikiData/WD~banker,806798]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~accountant,326653]]'
+- '[[_Standards/WikiData/WD~banker,806798]]'
 child:
-  - '[[_Standards/WikiData/WD~John_D._Rockefeller_Jr.,363984]]'
-  - '[[_Standards/WikiData/WD~Alta_Rockefeller_Prentice,4735997]]'
-  - '[[_Standards/WikiData/WD~Edith_Rockefeller_McCormick,5338659]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Rockefeller_Strong,5363438]]'
+- '[[_Standards/WikiData/WD~John_D._Rockefeller_Jr.,363984]]'
+- '[[_Standards/WikiData/WD~Alta_Rockefeller_Prentice,4735997]]'
+- '[[_Standards/WikiData/WD~Edith_Rockefeller_McCormick,5338659]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Rockefeller_Strong,5363438]]'
 spouse: '[[_Standards/WikiData/WD~Laura_Spelman_Rockefeller,439950]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 ethnic_group: '[[_Standards/WikiData/WD~Americans,846570]]'
 place_of_death: '[[_Standards/WikiData/WD~Ormond_Beach,985167]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Kykuit,1049544]]'
-  - '[[_Standards/WikiData/WD~Riverside_Church,1156586]]'
+- '[[_Standards/WikiData/WD~Kykuit,1049544]]'
+- '[[_Standards/WikiData/WD~Riverside_Church,1156586]]'
 family: '[[_Standards/WikiData/WD~Rockefeller_family,1130469]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Frank_Rockefeller,1225501]]'
-  - '[[_Standards/WikiData/WD~William_Rockefeller,1347859]]'
+- '[[_Standards/WikiData/WD~Frank_Rockefeller,1225501]]'
+- '[[_Standards/WikiData/WD~William_Rockefeller,1347859]]'
 cause_of_death: '[[_Standards/WikiData/WD~arteriosclerotic_heart_disease,1444550]]'
 place_of_burial: '[[_Standards/WikiData/WD~Lake_View_Cemetery,3372820]]'
 place_of_birth: '[[_Standards/WikiData/WD~Richford,3710131]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~John,4925477]]'
-  - '[[_Standards/WikiData/WD~Davison,21396403]]'
+- '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Davison,21396403]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Chancellor_University,5070784]]'
-  - '[[_Standards/WikiData/WD~Bryant_&_Stratton_College,6631334]]'
+- '[[_Standards/WikiData/WD~Chancellor_University,5070784]]'
+- '[[_Standards/WikiData/WD~Bryant_&_Stratton_College,6631334]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 father: '[[_Standards/WikiData/WD~William_Rockefeller_Sr.,11837823]]'
 family_name: '[[_Standards/WikiData/WD~Rockefeller,30274563]]'
@@ -56,8 +99,8 @@ mother: '[[_Standards/WikiData/WD~Eliza_Davison,96078975]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 date_of_birth: 1839-07-08T00:00:00Z
 work_location:
-  - '[[_Standards/WikiData/WD~New_York,1384]]'
-  - '[[_Standards/WikiData/WD~Cleveland,37320]]'
+- '[[_Standards/WikiData/WD~New_York,1384]]'
+- '[[_Standards/WikiData/WD~Cleveland,37320]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
@@ -72,8 +115,152 @@ Commons_gallery: John D. Rockefeller
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20J.%20D.%20Rockefeller.jpg
 described_at_URL: https://baike.sogou.com/v4997475.htm
 ISNI: 0000000121197891
+dv_has_:
+  name_:
+    af: John D. Rockefeller
+    an: John D. Rockefeller
+    ar: جون دافيسون روكفلر
+    arz: جون دافيسون روكفلر
+    ast: John D. Rockefeller
+    az: Con Rokfeller
+    azb: جان دیویس راکفلر
+    ba: Рокфеллер Джон Дэвисон
+    bar: John D. Rockefeller
+    be: Джон Дэвісан Ракфелер
+    be-tarask: Джон Дэйвісан Ракфэлер
+    bg: Джон Рокфелер
+    bi: John D. Rockefeller
+    bm: John D. Rockefeller
+    bn: জন রকফেলার
+    bo: ཇོའོ་ཏའེ་ལྦེ་སོན་རོའོ་ཀ་ཧྥེ་ལར།
+    br: John D. Rockefeller
+    ca: John D. Rockefeller
+    co: John D. Rockefeller
+    cs: John D. Rockefeller
+    cy: John D. Rockefeller
+    da: John D. Rockefeller
+    de: John D. Rockefeller
+    de-at: John D. Rockefeller
+    de-ch: John D. Rockefeller
+    el: Τζον Ντ. Ροκφέλερ
+    en: John D. Rockefeller
+    en-ca: John D. Rockefeller
+    en-gb: John D. Rockefeller
+    eo: John D. Rockefeller
+    es: John D. Rockefeller
+    et: John D. Rockefeller
+    eu: John Davison Rockefeller
+    fa: جان دیویس راکفلر
+    fi: John D. Rockefeller
+    fr: John Davison Rockefeller
+    frc: John D. Rockefeller
+    frp: John D. Rockefeller
+    fur: John D. Rockefeller
+    ga: John D. Rockefeller
+    gd: John D. Rockefeller
+    gl: John D. Rockefeller
+    gom: जॉन डेव्हिसन रॉकफॅलर
+    gsw: John D. Rockefeller
+    he: ג'ון ד. רוקפלר
+    hi: जॉन डी. रॉकफेलर
+    hr: John D. Rockefeller
+    hu: John D. Rockefeller
+    hy: Ջոն Դևիսոն Ռոքֆելլեր
+    ia: John D. Rockefeller
+    id: John D. Rockefeller
+    ie: John D. Rockefeller
+    io: John D. Rockefeller
+    is: John D. Rockefeller
+    it: John Davison Rockefeller
+    ja: ジョン・ロックフェラー
+    jam: John D. Rockefeller
+    ka: ჯონ როკფელერი
+    kab: John D. Rockefeller
+    kg: John D. Rockefeller
+    kk: Рокфеллер, Джон Дэвисон
+    kk-arab: روكفەللەر، دجون دەۆىيسون
+    kk-cn: روكفەللەر، دجون دەۆىيسون
+    kk-cyrl: Рокфеллер, Джон Дэвисон
+    kk-kz: Рокфеллер, Джон Дэвисон
+    kk-latn: Rokfeller, Djon Dévïson
+    kk-tr: Rokfeller, Djon Dévïson
+    ko: 존 D. 록펠러
+    ky: Джон Дэвисон Рокфеллер
+    la: Ioannes Rockefeller
+    lb: John D. Rockefeller
+    li: John D. Rockefeller
+    lij: John D. Rockefeller
+    lt: Džonas Deivisonas Rokfeleris
+    lv: Džons Rokfellers
+    mg: John D. Rockefeller
+    min: John D. Rockefeller
+    mk: Џон Дејвисон Рокфелер
+    mn: Жон Рокфеллер
+    mr: जॉन डी. रॉकफेलर पहिला
+    ms: John D. Rockefeller
+    mul: John D. Rockefeller
+    my: ရော့ကဖဲလား ဂျေ၊ ဒီ
+    nan: John D. Rockefeller
+    nap: John D. Rockefeller
+    nb: John D. Rockefeller
+    nds: John D. Rockefeller
+    nds-nl: John D. Rockefeller
+    new: जन डेभिसन रकफेलर
+    nl: John D. Rockefeller
+    nn: John D. Rockefeller
+    nrm: John D. Rockefeller
+    oc: John D. Rockefeller
+    pap: John D. Rockefeller
+    pcd: John D. Rockefeller
+    pl: John D. Rockefeller
+    pms: John D. Rockefeller
+    prg: John D. Rockefeller
+    ps: جان ډي راکفیلر
+    pt: John Davison Rockefeller
+    pt-br: John Davison Rockefeller
+    rgn: John D. Rockefeller
+    rki: ဂျွန်ဒေးဗီဆန် ရော့ကဖဲလား
+    rm: John D. Rockefeller
+    ro: John D. Rockefeller
+    ru: Джон Дэвисон Рокфеллер
+    sc: John D. Rockefeller
+    scn: John D. Rockefeller
+    sh: John D. Rockefeller
+    sk: John D. Rockefeller
+    sl: John D. Rockefeller
+    sq: John D. Rockefeller
+    sr: Џон Д. Рокфелер
+    sr-ec: Џон Д. Рокфелер
+    sr-el: Džon D. Rokfeler
+    sv: John D. Rockefeller
+    sw: John D. Rockefeller
+    ta: ஜான் டி. ராக்பெல்லர்
+    th: จอห์น ดี. ร็อกเกอะเฟลเลอร์
+    tl: John D. Rockefeller
+    tly: Čon Rokfeller
+    tr: John D. Rockefeller
+    uk: Джон Девісон Рокфеллер
+    ur: جان راک فیلر
+    uz: John Davison Rockefeller Jr
+    vec: John D. Rockefeller
+    vi: John D. Rockefeller
+    vls: John D. Rockefeller
+    vmf: John D. Rockefeller
+    vo: John D. Rockefeller
+    wa: John D. Rockefeller
+    war: John D. Rockefeller
+    wo: John D. Rockefeller
+    wuu: 约翰·戴维森·洛克菲勒
+    yue: 洛克菲勒
+    zh: 约翰·戴维森·洛克菲勒
+    zh-cn: 约翰·戴维森·洛克菲勒
+    zh-hans: 约翰·戴维森·洛克菲勒
+    zh-hant: 約翰·戴維森·洛克菲勒
+    zh-hk: 約翰·戴維森·洛克菲勒
+    zh-sg: 约翰·戴维森·洛克菲勒
+    zh-tw: 約翰·戴維森·洛克菲勒
+    zu: John D. Rockefeller
 ---
-
 # [[Rockefeller,John_D.]] 
 
 #is_/same_as :: [[WD~John_D._Rockefeller,160278]] 

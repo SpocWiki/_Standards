@@ -1,8 +1,114 @@
 ---
 has_id_wikidata: Q428148
+dv_has_:
+  name_:
+    ar: تنظيم
+    be-tarask: рэгуляваньне
+    bg: Регулация
+    bn: প্রনিয়ম
+    br: reoliata
+    ca: reglament
+    cs: regulace
+    cy: rheoliad
+    da: regulering
+    de: Regulierung
+    en: regulation
+    eo: reguligo
+    es: reglamento
+    eu: araudi
+    fa: مقررات
+    fi: sääntely
+    fr: réglementation
+    ga: rialachán
+    gd: bacadh
+    gl: regulamento
+    ha: Tsarin mulki
+    he: אסדרה
+    hr: uredba
+    hu: szabályozás
+    id: regulasi
+    it: regolamentazione
+    ja: 規制
+    jv: Pranatan
+    kaa: huqıqıy basqarıw
+    kk: Құқықтық реттеу
+    ko: 규제
+    ku: rêkxistin
+    mk: Државна регулација
+    mn: Зохицуулалт
+    ms: pengawalaturan
+    nb: regulering
+    ne: नियमावली
+    nl: regulering
+    pl: regulamin
+    pt: regulação
+    pt-br: regulação
+    ro: reglementare
+    ru: правовое регулирование
+    sl: regulacija
+    sr: пропис
+    sv: reglering
+    tg: муқаррарот
+    tr: yönetmelik
+    uk: правове регулювання
+    uz: Reglament
+    vec: regołasion
+    yue: 規矩
+    zh: 规制
+    zh-cn: 规制
+    zh-hans: 规制
+    zh-hant: 規制
+aliases:
+- araudi
+- bacadh
+- huqıqıy basqarıw
+- pengawalaturan
+- Pranatan
+- reglament
+- reglamento
+- reglementare
+- reglering
+- regolamentazione
+- regołasion
+- regulace
+- regulacija
+- regulamento
+- regulamin
+- regulasi
+- regulation
+- regulação
+- regulering
+- Regulierung
+- reguligo
+- reoliata
+- rheoliad
+- rialachán
+- réglementation
+- rêkxistin
+- szabályozás
+- sääntely
+- Tsarin mulki
+- uredba
+- yönetmelik
+- Државна регулација
+- Зохицуулалт
+- муқаррарот
+- правове регулювання
+- правовое регулирование
+- пропис
+- Регулация
+- рэгуляваньне
+- Құқықтық реттеу
+- אסדרה
+- تنظيم
+- مقررات
+- नियमावली
+- প্রনিয়ম
+- 規制
+- 規矩
+- 规制
+- 규제
 ---
-
-
 # [[Regulation]] 
 
 #is_/same_as :: [[Regulation,]]

@@ -1,54 +1,87 @@
 ---
 aliases:
-  - Georg Cantor
-  - Cantor
-  - Georg_Cantor
-  - Cantor,Georg
+- Cantor
+- Cantor,Georg
+- Georg Cantor
+- Georg Ferdinand Cantor
+- Georgius Cantor
+- Georgs Kantors
+- Georg_Cantor
+- Kantor Georg
+- Qeorq Kantor
+- Γκέοργκ Κάντορ
+- Георг Кантар
+- Георг Кантор
+- Дзияк
+- Кантор Георг
+- Кантор Георг Фердинанд Людвиг Филипп
+- Գեորգ Կանտոր
+- גאורג קנטור
+- جورج كانتور
+- جورج کانټور
+- جورج کنٹور
+- قئورق کانتور
+- گئورگ کانتور
+- گیۆرگ کانتۆر
+- जर्ज क्यान्टर
+- जॉर्ज कांटॉर
+- গেয়র্গ কান্টর
+- জৰ্জ কেণ্টৰ
+- ଜର୍ଜ କ୍ୟାଣ୍ଟର
+- கியார்கு கேன்ட்டர்
+- ജോർജ് കാന്റർ
+- เกออร์ค คันทอร์
+- ဂျော့ ကန်တာ
+- გეორგ კანტორი
+- ゲオルク・カントール
+- 康托爾
+- 格奥尔格·康托尔
+- 게오르크 칸토어
 has_id_wikidata: Q76420
 religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~London_Mathematical_Society,1810244]]'
-  - '[[_Standards/WikiData/WD~Q106178641,106178641]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~London_Mathematical_Society,1810244]]'
+- '[[_Standards/WikiData/WD~Q106178641,106178641]]'
 medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~cardinal_number,163875]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
-  - '[[_Standards/WikiData/WD~ordinal_number,191780]]'
-  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-  - '[[_Standards/WikiData/WD~theology_and_philosophy,115154807]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~logic,8078]]'
-  - '[[_Standards/WikiData/WD~set_theory,12482]]'
+- '[[_Standards/WikiData/WD~cardinal_number,163875]]'
+- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
+- '[[_Standards/WikiData/WD~ordinal_number,191780]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~theology_and_philosophy,115154807]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~set_theory,12482]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
 academic_degree:
-  - '[[_Standards/WikiData/WD~habilitation,308678]]'
-  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~habilitation,308678]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 residence:
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
-  - '[[_Standards/WikiData/WD~Ludwig,14159020]]'
-  - '[[_Standards/WikiData/WD~George,15921732]]'
-  - '[[_Standards/WikiData/WD~Philipp,18145728]]'
+- '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
+- '[[_Standards/WikiData/WD~Ludwig,14159020]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Philipp,18145728]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 family_name: '[[_Standards/WikiData/WD~Cantor,13098937]]'
@@ -56,8 +89,8 @@ doctoral_student: '[[_Standards/WikiData/WD~Alfred_Barneck,19834351]]'
 archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Sophie_Nobiling,94743872]]'
-  - '[[_Standards/WikiData/WD~Constantin_Cantor,94918933]]'
+- '[[_Standards/WikiData/WD~Sophie_Nobiling,94743872]]'
+- '[[_Standards/WikiData/WD~Constantin_Cantor,94918933]]'
 mother: '[[_Standards/WikiData/WD~Maria_Cantor,94771516]]'
 child: '[[_Standards/WikiData/WD~Erich_Cantor,94918937]]'
 father: '[[_Standards/WikiData/WD~Georg_Woldemar_Cantor,94918941]]'
@@ -70,8 +103,8 @@ employer: '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Karl_Weierstraß,57103]]'
-  - '[[_Standards/WikiData/WD~Ernst_Kummer,57245]]'
+- '[[_Standards/WikiData/WD~Karl_Weierstraß,57103]]'
+- '[[_Standards/WikiData/WD~Ernst_Kummer,57245]]'
 Commons_category: Georg Cantor
 Commons_Creator_page: Georg Cantor
 Commons_gallery: Georg Cantor
@@ -85,8 +118,188 @@ Krugosvet_article: nauka_i_tehnika/matematika/KANTOR_GEORG.html
 name_in_native_language: George Cantor
 birth_name: George Ferdinand Ludwig Philipp Cantor
 date_of_death: 1918-01-06T00:00:00Z
+dv_has_:
+  name_:
+    ace: Georg Cantor
+    af: Georg Cantor
+    an: Georg Cantor
+    ar: جورج كانتور
+    arz: جورج كانتور
+    as: জৰ্জ কেণ্টৰ
+    ast: Georg Cantor
+    atj: Georg Cantor
+    az: Qeorq Kantor
+    azb: قئورق کانتور
+    bar: Georg Cantor
+    be: Георг Кантар
+    be-tarask: Георг Кантар
+    bg: Георг Кантор
+    bn: গেয়র্গ কান্টর
+    br: Georg Cantor
+    bs: Georg Cantor
+    ca: Georg Cantor
+    ceb: Georg Cantor
+    ckb: گیۆرگ کانتۆر
+    co: Georg Cantor
+    cs: Georg Cantor
+    cv: Кантор Георг Фердинанд Людвиг Филипп
+    cy: Georg Cantor
+    da: Georg Cantor
+    de: Georg Cantor
+    de-at: Georg Cantor
+    de-ch: Georg Cantor
+    diq: Georg Cantor
+    dsb: Georg Cantor
+    ee: Georg Cantor
+    egl: Georg Cantor
+    el: Γκέοργκ Κάντορ
+    eml: Georg Cantor
+    en: Georg Cantor
+    en-ca: Georg Cantor
+    en-gb: Georg Cantor
+    eo: Georg Cantor
+    es: Georg Cantor
+    et: Georg Cantor
+    eu: Georg Cantor
+    ext: Georg Cantor
+    fa: گئورگ کانتور
+    ff: Georg Cantor
+    fi: Georg Cantor
+    fit: Georg Cantor
+    fj: Georg Cantor
+    fo: Georg Cantor
+    fr: Georg Cantor
+    frc: Georg Cantor
+    frp: Georg Cantor
+    frr: Georg Cantor
+    fur: Georg Cantor
+    fy: Georg Cantor
+    ga: Georg Cantor
+    gd: Georg Cantor
+    gl: Georg Cantor
+    gsw: Georg Cantor
+    gv: Georg Cantor
+    he: גאורג קנטור
+    hi: जॉर्ज कांटॉर
+    hr: Georg Cantor
+    hsb: Georg Cantor
+    ht: Georg Cantor
+    hu: Georg Cantor
+    hy: Գեորգ Կանտոր
+    ia: Georg Cantor
+    id: Georg Cantor
+    ie: Georg Cantor
+    ilo: Georg Cantor
+    io: Georg Cantor
+    is: Georg Cantor
+    it: Georg Cantor
+    ja: ゲオルク・カントール
+    jv: Georg Cantor
+    ka: გეორგ კანტორი
+    kg: Georg Cantor
+    kk: Георг Кантор
+    ko: 게오르크 칸토어
+    ksh: Georg Cantor
+    ku: Georg Cantor
+    kw: Georg Cantor
+    ky: Кантор Георг
+    la: Georgius Cantor
+    lb: Georg Cantor
+    lfn: Georg Cantor
+    li: Georg Cantor
+    lij: Georg Cantor
+    lmo: Cantor
+    lt: Georg Cantor
+    lv: Georgs Kantors
+    lzh: 康托爾
+    map-bms: Georg Cantor
+    mg: Georg Cantor
+    min: Georg Cantor
+    mk: Георг Кантор
+    ml: ജോർജ് കാന്റർ
+    ms: Georg Cantor
+    mul: Georg Cantor
+    mus: Georg Cantor
+    mwl: Georg Cantor
+    my: ဂျော့ ကန်တာ
+    nap: Georg Cantor
+    nb: Georg Cantor
+    nds: Georg Cantor
+    nds-nl: Georg Cantor
+    ne: जर्ज क्यान्टर
+    nl: Georg Cantor
+    nn: Georg Cantor
+    nrm: Georg Cantor
+    oc: Georg Cantor
+    olo: Georg Cantor
+    or: ଜର୍ଜ କ୍ୟାଣ୍ଟର
+    pam: Georg Cantor
+    pap: Georg Cantor
+    pcd: Georg Cantor
+    pdc: Georg Cantor
+    pdt: Georg Cantor
+    pfl: Georg Cantor
+    pl: Georg Cantor
+    pms: Georg Cantor
+    pnb: جورج کنٹور
+    ps: جورج کانټور
+    pt: Georg Cantor
+    pt-br: Georg Cantor
+    rm: Georg Cantor
+    rmy: Georg Cantor
+    ro: Georg Cantor
+    roa-tara: Georg Cantor
+    rsk: Дзияк
+    ru: Георг Кантор
+    rup: Georg Cantor
+    sc: Georg Cantor
+    scn: Georg Cantor
+    sco: Georg Cantor
+    sdc: Georg Cantor
+    se: Georg Cantor
+    sei: Georg Cantor
+    sgs: Georg Cantor
+    sh: Georg Cantor
+    sk: Georg Ferdinand Cantor
+    sl: Georg Ferdinand Cantor
+    sli: Georg Cantor
+    sq: Georg Cantor
+    sr: Георг Кантор
+    sr-ec: Георг Кантор
+    sr-el: Georg Cantor
+    stq: Georg Cantor
+    su: Georg Cantor
+    sv: Georg Cantor
+    sw: Georg Cantor
+    szl: Georg Cantor
+    ta: கியார்கு கேன்ட்டர்
+    th: เกออร์ค คันทอร์
+    tl: Georg Cantor
+    tpi: Georg Cantor
+    tr: Georg Cantor
+    ty: Georg Cantor
+    uk: Георг Кантор
+    ur: جورج کنٹور
+    uz: Kantor Georg
+    vec: Georg Cantor
+    vi: Georg Cantor
+    vls: Georg Cantor
+    vmf: Georg Cantor
+    vo: Georg Cantor
+    vro: Georg Cantor
+    wa: Georg Cantor
+    war: Georg Cantor
+    wo: Georg Cantor
+    wuu: 格奥尔格·康托尔
+    xh: Georg Cantor
+    xmf: გეორგ კანტორი
+    yo: Georg Cantor
+    yue: 康托爾
+    zea: Georg Cantor
+    zh: 格奥尔格·康托尔
+    zh-hans: 格奥尔格·康托尔
+    zu: Georg Cantor
 ---
-
 # [[Cantor,Georg]] 
 
 - [[#has_/time_/started :: 1845-03-03]] [[#has_/place_ :: [[St.Petersburg]] ]] 

@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Scyphostegia_borneensis
-  - Scyphostegia borneensis
+- Scyphostegia
+- Scyphostegia borneensis
+- Scyphostegia_borneensis
+- 杯盖花属
+- 杯蓋花屬
 title: Scyphostegia borneensis
 has_id_wikidata: Q9075293
+dv_has_:
+  name_:
+    an: Scyphostegia
+    ast: Scyphostegia
+    bg: Scyphostegia
+    ca: Scyphostegia
+    ceb: Scyphostegia
+    de: Scyphostegia
+    en: Scyphostegia
+    eo: Scyphostegia
+    es: Scyphostegia
+    eu: Scyphostegia
+    ext: Scyphostegia
+    fi: Scyphostegia
+    fr: Scyphostegia
+    ga: Scyphostegia
+    gl: Scyphostegia
+    hr: Scyphostegia
+    ia: Scyphostegia
+    ie: Scyphostegia
+    io: Scyphostegia
+    it: Scyphostegia
+    la: Scyphostegia
+    mul: Scyphostegia
+    nl: Scyphostegia
+    oc: Scyphostegia
+    pl: Scyphostegia
+    pt: Scyphostegia
+    pt-br: Scyphostegia
+    ro: Scyphostegia
+    ru: Scyphostegia
+    sq: Scyphostegia
+    sv: Scyphostegia
+    uk: Scyphostegia
+    vi: Scyphostegia
+    vo: Scyphostegia
+    war: Scyphostegia
+    zh: 杯盖花属
+    zh-cn: 杯盖花属
+    zh-hans: 杯盖花属
+    zh-tw: 杯蓋花屬
 ---
 # [[Scyphostegia borneensis]]  
 

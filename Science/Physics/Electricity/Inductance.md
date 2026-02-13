@@ -1,38 +1,184 @@
 ---
 aliases:
-  - Induktivität
-  - Inductance
+- anwythiant
+- Električni induktivitet
+- Endiktans
+- Hiện tượng tự cảm
+- Inductance
+- inductancia
+- Inductanță
+- inductància
+- indukcyjność
+- induktanco
+- Induktans
+- Induktansi
+- induktansie
+- induktanss
+- induktanssi
+- induktantzia
+- induktiivsus
+- Induktivitet
+- Induktiviteti
+- induktivitás
+- Induktivität
+- Induktivitāte
+- induktivlik
+- induktivnost
+- Induktiwiteet
+- Induktiwlik
+- Induktyvumas
+- induktánsa
+- indukčnost
+- Indukčnosť
+- indutancia
+- induttanza
+- indutância
+- ionduchtas
+- Samoindukcija
+- Span
+- Tiān-kám
+- Xiirtalu
+- zelfinductie
+- İndüktans
+- Αυτεπαγωγή
+- індуктивність
+- індуктыўнасць
+- індуктыўнасьць
+- индуктивлăх
+- Индуктивлык
+- индуктивност
+- индуктивность
+- индукциялуулук
+- самоиндукција
+- Ինդուկտիվություն
+- השראות
+- القاوری
+- محاثة
+- इन्डक्ट्यान्स
+- प्रेरकत्व
+- আবেশ গুণাঙ্ক
+- தூண்டம்
+- ინდუქციურობა
+- እልከኝነት
+- インダクタンス
+- 电感
+- 電感
+- 인덕턴스
 has_id_wikidata: Q177897
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~henry,163354]]"
-  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_square_ampere,119085737]]"
+- '[[_Standards/WikiData/WD~henry,163354]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_square_ampere,119085737]]'
 different_from:
-  - "[[_Standards/WikiData/WD~electromagnetic_induction,988780]]"
-  - "[[_Standards/WikiData/WD~mutual_inductance,78101401]]"
-  - "[[_Standards/WikiData/WD~self_inductance,102274741]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~electromagnetic_induction,988780]]'
+- '[[_Standards/WikiData/WD~mutual_inductance,78101401]]'
+- '[[_Standards/WikiData/WD~self_inductance,102274741]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 quantity_symbol_LaTeX_:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>L</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "771150"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>L</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
+OmegaWiki_Defined_Meaning: 771150
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>I</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>I</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inductor.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/inductance
 IEV_number: 131-12-19
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x03A8;</mi></mrow><mrow data-mjx-texclass="ORD"><mi>I</mi></mrow></mfrac></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: induktansie
+    am: እልከኝነት
+    ar: محاثة
+    ast: Inductancia
+    az: induktivlik
+    bar: Induktivität
+    be: індуктыўнасць
+    be-tarask: індуктыўнасьць
+    bg: индуктивност
+    bn: আবেশ গুণাঙ্ক
+    bs: Induktivitet
+    ca: inductància
+    cs: indukčnost
+    cv: индуктивлăх
+    cy: anwythiant
+    da: Induktans
+    de: Induktivität
+    el: Αυτεπαγωγή
+    en: inductance
+    eo: induktanco
+    es: inductancia
+    et: induktiivsus
+    eu: induktantzia
+    fa: القاوری
+    fi: induktanssi
+    fr: inductance
+    frr: Induktiwiteet
+    ga: ionduchtas
+    gl: indutancia
+    he: השראות
+    hi: प्रेरकत्व
+    hr: Električni induktivitet
+    ht: Endiktans
+    hu: induktivitás
+    hy: Ինդուկտիվություն
+    id: Induktansi
+    is: Span
+    it: induttanza
+    ja: インダクタンス
+    ka: ინდუქციურობა
+    ko: 인덕턴스
+    ky: индукциялуулук
+    lt: Induktyvumas
+    lv: Induktivitāte
+    mk: индуктивност
+    ms: Induktans
+    nan: Tiān-kám
+    nb: induktans
+    new: इन्डक्ट्यान्स
+    nl: zelfinductie
+    nn: induktans
+    pl: indukcyjność
+    pt: indutância
+    ro: Inductanță
+    ru: индуктивность
+    se: induktánsa
+    sh: Samoindukcija
+    sk: Indukčnosť
+    sl: induktivnost
+    smn: induktans
+    sms: induktanss
+    sq: Induktiviteti
+    sr: самоиндукција
+    sr-ec: самоиндукција
+    sr-el: samoindukcija
+    sv: induktans
+    ta: தூண்டம்
+    tk: Induktiwlik
+    tr: İndüktans
+    tt: Индуктивлык
+    uk: індуктивність
+    uz: Induktivlik
+    vi: Hiện tượng tự cảm
+    wo: Xiirtalu
+    wuu: 电感
+    yue: 電感
+    zh: 电感
+    zh-cn: 电感
+    zh-hans: 电感
+    zh-hant: 電感
+    zh-hk: 電感
+    zh-sg: 电感
+    zh-tw: 電感
 ---
-
 # [[Inductance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Inductance,177897|WD~Inductance,177897]] 

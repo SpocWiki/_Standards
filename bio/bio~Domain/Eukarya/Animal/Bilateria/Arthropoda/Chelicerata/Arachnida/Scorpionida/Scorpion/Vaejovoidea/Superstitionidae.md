@@ -1,8 +1,32 @@
 ---
 aliases:
-  - Superstitionidae
+- Superstitionia
+- Superstitionidae
 title: Superstitionidae
 has_id_wikidata: Q16948489
+dv_has_:
+  name_:
+    ast: Superstitionia
+    bg: Superstitionia
+    ceb: Superstitionia
+    de: Superstitionia
+    en: Superstitionia
+    es: Superstitionia
+    fi: Superstitionia
+    fr: Superstitionia
+    ga: Superstitionia
+    it: Superstitionia
+    la: Superstitionia
+    mul: Superstitionia
+    nl: Superstitionia
+    pl: Superstitionia
+    pt: Superstitionia
+    ro: Superstitionia
+    ru: Superstitionia
+    sq: Superstitionia
+    uk: Superstitionia
+    vi: Superstitionia
+    war: Superstitionia
 ---
 ## Phylogeny 
 

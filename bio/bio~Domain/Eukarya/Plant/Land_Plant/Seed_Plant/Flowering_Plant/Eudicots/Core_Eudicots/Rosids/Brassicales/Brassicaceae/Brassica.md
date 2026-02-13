@@ -1,24 +1,67 @@
 ---
 aliases:
-  - Kohl
-  - Brassica
-  - cabbage
-  - mustard
-  - Kool
-  - Капуста
-  - kapus
-  - repa
-  - ogrščica
-  - 芸苔属
-  - 芸薹属
+- Amkirya
+- bastutis
+- Brasika
+- brasiko
+- Brassica
+- brukev
+- cabbage
+- Chou
+- Càule
+- càvolo
+- Càvulu
+- kaalit
+- Kapsasrohi
+- kapus
+- kapusta
+- Karam
+- Kał
+- Kohl
+- Kool
+- Kualplaanten
+- kupus
+- Kál
+- kål
+- kålslekta
+- kålsläktet
+- kāposti
+- Kələm
+- mustard
+- ogrščica
+- Pokok Kubis Hutan
+- repa
+- зеле
+- зелка
+- Капуста
+- Купăста
+- Купус
+- кәбестә
+- Қырыққабат
+- կաղամբ
+- כרוב
+- براسيكا
+- قىچا
+- كرنب
+- کلم
+- کلمها
+- బ్రాసికా
+- ബ്രാസ്സിക്ക
+- สกุลแบรสซิกา
+- კომბოსტო
+- アブラナ属
+- 芸苔属
+- 芸薹属
+- 蕓薹屬
+- 배추속
 has_id_wikidata: Q58677
 taxonomic_type: '[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]'
 has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
 parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388]]'
 has_use: '[[_Standards/WikiData/WD~vegetable,11004]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -26,17 +69,17 @@ carbon_footprint: 0.6
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 ITIS_TSN: 23054
 taxon_common_name:
-  - cabbage
-  - mustard
-  - Kohl
-  - Kool
-  - Капуста
-  - kapus
-  - repa
-  - ogrščica
-  - 芸苔属
-  - 芸苔属
-  - 芸薹属
+- cabbage
+- mustard
+- Kohl
+- Kool
+- Капуста
+- kapus
+- repa
+- ogrščica
+- 芸苔属
+- 芸苔属
+- 芸薹属
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20flowerdiagram.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20rapa%20plant.jpg
 Commons_gallery: Brassica
@@ -48,8 +91,104 @@ EPPO_Code: 1BRSG
 MeSH_tree_code: B01.875.800.575.912.250.157.200
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/KAPUSTA.html
 NBN_System_Key: NHMSYS0000456592
+dv_has_:
+  name_:
+    an: Brassica
+    ar: كرنب
+    arz: براسيكا
+    ast: Brassica
+    az: Kələm
+    azb: کلم
+    be: капуста
+    be-tarask: капуста
+    bg: зеле
+    bs: Brassica
+    ca: Brassica
+    ceb: Brassica
+    cs: brukev
+    cv: Купăста
+    da: kål
+    de: Kohl
+    en: Brassica
+    eo: brasiko
+    es: Brassica
+    et: Kapsasrohi
+    eu: Brassica
+    ext: Brassica
+    fa: کلمها
+    fi: kaalit
+    fr: Brassica
+    frr: Kualplaanten
+    ga: Brassica
+    gl: Brassica
+    gv: Brassica
+    he: כרוב
+    hr: kupus
+    hsb: Kał
+    ht: Chou
+    hu: Brassica
+    hy: կաղամբ
+    ia: Brassica
+    id: Brasika
+    ie: Brassica
+    ig: Brassica
+    io: Brassica
+    is: Kál
+    it: Brassica
+    ja: アブラナ属
+    ka: კომბოსტო
+    kk: Қырыққабат
+    ko: 배추속
+    ky: Капуста
+    la: Brassica
+    lmo: Brassica
+    lt: bastutis
+    lv: kāposti
+    mg: Brassica
+    mk: зелка
+    ml: ബ്രാസ്സിക്ക
+    ms: Pokok Kubis Hutan
+    mul: Brassica
+    nb: kålslekta
+    nl: kool
+    nn: kålslekta
+    oc: Brassica
+    pl: kapusta
+    pt: Brassica
+    pt-br: Brassica
+    qu: Amkirya
+    ro: Brassica
+    ru: капуста
+    sc: Càule
+    scn: Càvulu
+    sco: Brassica
+    sk: kapusta
+    sl: Brassica
+    sq: Brassica
+    sr: Купус
+    stq: Kool
+    sv: kålsläktet
+    te: బ్రాసికా
+    th: สกุลแบรสซิกา
+    tr: Brassica
+    tt: кәбестә
+    tt-cyrl: кәбестә
+    ug: قىچا
+    uk: капуста
+    uz: Karam
+    vec: càvolo
+    vi: Brassica
+    vls: Brassica
+    vo: Brassica
+    war: Brassica
+    wuu: 芸薹属
+    yue: 蕓薹屬
+    zh: 芸薹属
+    zh-cn: 芸薹属
+    zh-hans: 芸苔属
+    zh-hant: 蕓薹屬
+    zh-tw: 蕓薹屬
 ---
-
 # [[Brassica]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Brassica,58677]] 

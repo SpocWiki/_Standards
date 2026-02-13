@@ -1,8 +1,107 @@
 ---
 has_id_wikidata: Q215571
+dv_has_:
+  name_:
+    ar: نيوتن متر
+    bg: нютон-метър
+    bn: নিউটন মিটার
+    ca: newton-metre
+    cs: newton metr
+    cv: ньютон-метр
+    cy: newton-metr
+    da: newtonmeter
+    de: Newtonmeter
+    el: νιουτόμετρο
+    en: newton metre
+    en-ca: newton metre
+    en-gb: newton metre
+    en-us: newton meter
+    eo: neŭtono-metro
+    es: newton metro
+    et: njuutonmeeter
+    fa: نیوتون-متر
+    fi: newtonmetri
+    fr: newton-mètre
+    gl: newton metro
+    he: ניוטון מטר
+    hu: newtonméter
+    hy: նյուտոն-մետր
+    id: newton meter
+    ilo: newton metro
+    it: newton per metro
+    ja: ニュートンメートル
+    ko: 뉴턴 미터
+    ku: mitirê newton
+    ku-arab: مترێ نەوتۆن
+    ku-latn: mitirê newton
+    ky: ньютон-метр
+    lt: niutonmetras
+    lv: ņūtonmetrs
+    mk: њутнметар
+    ms: newton meter
+    nb: newtonmeter
+    nl: newtonmeter
+    nn: newtonmeter
+    pl: niutonometr
+    pt: newton-metro
+    ro: newton metru
+    ru: ньютон-метр
+    scn: newton metru
+    sk: newton meter
+    sl: newtonmeter
+    sr: њутнметар
+    sv: newtonmeter
+    szl: niutōnōmeter
+    th: นิวตันเมตร
+    tr: newton metre
+    uk: ньютон-метр
+    vi: newtơn mét
+    vls: newtonmeter
+    zh: 牛頓米
+    zh-cn: 牛顿米
+    zh-hans: 牛顿米
+    zh-hant: 牛頓米
+    zh-hk: 牛頓米
+    zh-sg: 牛顿米
+    zh-tw: 牛頓米
+aliases:
+- mitirê newton
+- newton meter
+- newton metr
+- newton metre
+- newton metro
+- newton metru
+- newton per metro
+- newton-metr
+- newton-metre
+- newton-metro
+- newton-mètre
+- newtonmeter
+- newtonmetri
+- newtonméter
+- newtơn mét
+- neŭtono-metro
+- niutonmetras
+- niutonometr
+- niutōnōmeter
+- njuutonmeeter
+- ņūtonmetrs
+- νιουτόμετρο
+- њутнметар
+- ньютон-метр
+- нютон-метър
+- նյուտոն-մետր
+- ניוטון מטר
+- مترێ نەوتۆن
+- نيوتن متر
+- نیوتون-متر
+- নিউটন মিটার
+- นิวตันเมตร
+- ニュートンメートル
+- 牛頓米
+- 牛顿米
+- 뉴턴 미터
 ---
-
-
 # [[Unit~NewtonMeter]] 
 
 #is_/different_from :: [[../../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule|Unit~Joule]] 

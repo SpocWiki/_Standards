@@ -1,109 +1,295 @@
 ---
 aliases:
-  - Colorectal Cancer
-  - bowel cancer
-  - colon cancer
-  - rectal cancer
-  - Colorectal_Cancer
+- aillse a' chaolain 's a' chaolain-dhìrich
+- ailse cholaireictach
+- Barah usus
+- bowel cancer
+- cancer colorectal
+- Cancer colorectalis
+- cancer de colon
+- cancere colorectal
+- cancher del colon-ret
+- cancro colorrectal
+- cancro colorretal
+- canser colorectaidd
+- carcinoma del colon-retto
+- Ciwon daji mai launi
+- colon cancer
+- Colorectal Cancer
+- Colorectal_Cancer
+- càncer colorectal
+- cáncanu colorrectal
+- cáncer colorrectal
+- câncer colorretal
+- darmkanker
+- Déckdaarmkriibs
+- jämesoolevähk
+- Kanceri kolorektal
+- Kanker usus besar
+- kanser sa kolon
+- kanser ti ubet
+- kanċer kolorektali
+- kojlorektuma kancero
+- koloncancer
+- kolorektal kreft
+- kolorektal xərçəng
+- kolorektale kanker
+- kolorektales Karzinom
+- kolorektalni rak
+- Kolorektálny karcinóm
+- kolorektální karcinom
+- kossâčuálipuurâs
+- Mate whēkau pukupuku
+- mhlaza
+- ondesteko minbizi
+- paksusuolen syöpä
+- penceşêra tortorîkê
+- Rak debelog creva
+- Rak debelog crijeva
+- rak jelita grubego
+- rectal cancer
+- Rektum kanseri
+- Storosios žarnos vėžys
+- tarmkreft
+- tyktarmskræft
+- Tōa-tn̂g-gâm
+- umdlavuza obala
+- ung thư đại trực tràng
+- vastagbélrák és végbélrák
+- zarnu vēzis
+- καρκίνος εντέρου
+- колоректаль яманшеш
+- колоректальний рак
+- колоректальный рак
+- рак дебелог црева
+- рак на дебелото црево
+- Рак на дебелото черво
+- рак тоўстай кішкі
+- Կոլոռեկտալ քաղցկեղ
+- סרטן המעי הגס
+- קישקע קענסער
+- سرطان القولون
+- سرطان روده بزرگ
+- قولن سرطان
+- كونصير د لمصارن
+- یوغون باغیرساق سرطانی
+- ގޮހޮރުގެ ކެންސަރު
+- कोलोरेक्टर क्यान्सर
+- कोलोरेक्टल कैंसर
+- कोलोरेक्टल क्यान्सर
+- मोठया आतडयाचा कर्करोग
+- মলাশয়ের ক্যান্সার
+- মলাশয়ৰ কৰ্কট ৰোগ
+- ਕੋਲਨ ਕੈਂਸਰ
+- ବୃହଦନ୍ତ୍ର-ମଳାଶୟ କର୍କଟ
+- பெருங்குடல் மலகுடலுக்குரிய புற்று நோய்
+- కొలోరెక్టల్ క్యాన్సర్
+- มะเร็งลำไส้ใหญ่
+- კოლორექტალური კიბო
+- 大肠癌
+- 大腸癌
+- 結腸癌
+- 结直肠癌
+- 대장암
 has_id_wikidata: Q188874
 medical_examination:
-  - '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
-  - '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
-  - '[[_Standards/WikiData/WD~virtual_colonoscopy,302481]]'
-  - '[[_Standards/WikiData/WD~colonoscopy,840387]]'
-  - '[[_Standards/WikiData/WD~blood_test,886837]]'
-  - '[[_Standards/WikiData/WD~sigmoidoscopy,941169]]'
-  - '[[_Standards/WikiData/WD~lower_gastrointestinal_series,1549149]]'
-  - '[[_Standards/WikiData/WD~RAS_test,16613270]]'
-  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
+- '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
+- '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
+- '[[_Standards/WikiData/WD~virtual_colonoscopy,302481]]'
+- '[[_Standards/WikiData/WD~colonoscopy,840387]]'
+- '[[_Standards/WikiData/WD~blood_test,886837]]'
+- '[[_Standards/WikiData/WD~sigmoidoscopy,941169]]'
+- '[[_Standards/WikiData/WD~lower_gastrointestinal_series,1549149]]'
+- '[[_Standards/WikiData/WD~RAS_test,16613270]]'
+- '[[_Standards/WikiData/WD~computed_tomography,32566]]'
 health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
 risk_factor:
-  - '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
-  - '[[_Standards/WikiData/WD~smoking,662860]]'
-  - '[[_Standards/WikiData/WD~alcohol_and_cancer,4713253]]'
-  - '[[_Standards/WikiData/WD~obesity,12174]]'
+- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~smoking,662860]]'
+- '[[_Standards/WikiData/WD~alcohol_and_cancer,4713253]]'
+- '[[_Standards/WikiData/WD~obesity,12174]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~irinotecan,412197]]'
+- '[[_Standards/WikiData/WD~irinotecan,412197]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - '[[_Standards/WikiData/WD~CCND2,5198271]]'
-  - '[[_Standards/WikiData/WD~COX1,14865314]]'
-  - '[[_Standards/WikiData/WD~WRN,14883734]]'
-  - '[[_Standards/WikiData/WD~PIK3CA,14887700]]'
-  - '[[_Standards/WikiData/WD~CTNNB1,14902794]]'
-  - '[[_Standards/WikiData/WD~SMAD3,14903974]]'
-  - '[[_Standards/WikiData/WD~SMAD4,14904154]]'
-  - '[[_Standards/WikiData/WD~SMAD7,14904375]]'
-  - '[[_Standards/WikiData/WD~GNAS,14905160]]'
-  - '[[_Standards/WikiData/WD~MSH2,14911688]]'
-  - '[[_Standards/WikiData/WD~MLH1,14911708]]'
-  - '[[_Standards/WikiData/WD~MSH6,14911717]]'
-  - '[[_Standards/WikiData/WD~TCF7L2,14913892]]'
-  - '[[_Standards/WikiData/WD~AKT1,17816452]]'
-  - '[[_Standards/WikiData/WD~BRAF,17853226]]'
-  - '[[_Standards/WikiData/WD~CDH1,17859787]]'
-  - '[[_Standards/WikiData/WD~DPP6,17914420]]'
-  - '[[_Standards/WikiData/WD~ALOX12,18016430]]'
-  - '[[_Standards/WikiData/WD~LAMA5,18028450]]'
-  - '[[_Standards/WikiData/WD~LAMC1,18028460]]'
-  - '[[_Standards/WikiData/WD~MTHFD1,18029537]]'
-  - '[[_Standards/WikiData/WD~PDGFRL,18030423]]'
-  - '[[_Standards/WikiData/WD~SLC22A3,18031583]]'
-  - '[[_Standards/WikiData/WD~TBX3,18031866]]'
-  - '[[_Standards/WikiData/WD~RBM10,18032782]]'
-  - '[[_Standards/WikiData/WD~AXIN2,18032812]]'
-  - '[[_Standards/WikiData/WD~POLD3,18035617]]'
-  - '[[_Standards/WikiData/WD~MLH3,18038559]]'
-  - '[[_Standards/WikiData/WD~MORC1,18038668]]'
-  - '[[_Standards/WikiData/WD~PNMA8A,18041678]]'
-  - '[[_Standards/WikiData/WD~ACOXL,18041733]]'
-  - '[[_Standards/WikiData/WD~MYNN,18042141]]'
-  - '[[_Standards/WikiData/WD~NXN,18045643]]'
-  - '[[_Standards/WikiData/WD~RHPN2,18048027]]'
-  - '[[_Standards/WikiData/WD~HSPA12A,18053900]]'
-  - '[[_Standards/WikiData/WD~CCDC190,18055322]]'
-  - '[[_Standards/WikiData/WD~EPHA3,18250396]]'
-  - '[[_Standards/WikiData/WD~RET,18253720]]'
-  - '[[_Standards/WikiData/WD~NF1,20782771]]'
+- '[[_Standards/WikiData/WD~CCND2,5198271]]'
+- '[[_Standards/WikiData/WD~COX1,14865314]]'
+- '[[_Standards/WikiData/WD~WRN,14883734]]'
+- '[[_Standards/WikiData/WD~PIK3CA,14887700]]'
+- '[[_Standards/WikiData/WD~CTNNB1,14902794]]'
+- '[[_Standards/WikiData/WD~SMAD3,14903974]]'
+- '[[_Standards/WikiData/WD~SMAD4,14904154]]'
+- '[[_Standards/WikiData/WD~SMAD7,14904375]]'
+- '[[_Standards/WikiData/WD~GNAS,14905160]]'
+- '[[_Standards/WikiData/WD~MSH2,14911688]]'
+- '[[_Standards/WikiData/WD~MLH1,14911708]]'
+- '[[_Standards/WikiData/WD~MSH6,14911717]]'
+- '[[_Standards/WikiData/WD~TCF7L2,14913892]]'
+- '[[_Standards/WikiData/WD~AKT1,17816452]]'
+- '[[_Standards/WikiData/WD~BRAF,17853226]]'
+- '[[_Standards/WikiData/WD~CDH1,17859787]]'
+- '[[_Standards/WikiData/WD~DPP6,17914420]]'
+- '[[_Standards/WikiData/WD~ALOX12,18016430]]'
+- '[[_Standards/WikiData/WD~LAMA5,18028450]]'
+- '[[_Standards/WikiData/WD~LAMC1,18028460]]'
+- '[[_Standards/WikiData/WD~MTHFD1,18029537]]'
+- '[[_Standards/WikiData/WD~PDGFRL,18030423]]'
+- '[[_Standards/WikiData/WD~SLC22A3,18031583]]'
+- '[[_Standards/WikiData/WD~TBX3,18031866]]'
+- '[[_Standards/WikiData/WD~RBM10,18032782]]'
+- '[[_Standards/WikiData/WD~AXIN2,18032812]]'
+- '[[_Standards/WikiData/WD~POLD3,18035617]]'
+- '[[_Standards/WikiData/WD~MLH3,18038559]]'
+- '[[_Standards/WikiData/WD~MORC1,18038668]]'
+- '[[_Standards/WikiData/WD~PNMA8A,18041678]]'
+- '[[_Standards/WikiData/WD~ACOXL,18041733]]'
+- '[[_Standards/WikiData/WD~MYNN,18042141]]'
+- '[[_Standards/WikiData/WD~NXN,18045643]]'
+- '[[_Standards/WikiData/WD~RHPN2,18048027]]'
+- '[[_Standards/WikiData/WD~HSPA12A,18053900]]'
+- '[[_Standards/WikiData/WD~CCDC190,18055322]]'
+- '[[_Standards/WikiData/WD~EPHA3,18250396]]'
+- '[[_Standards/WikiData/WD~RET,18253720]]'
+- '[[_Standards/WikiData/WD~NF1,20782771]]'
 anatomical_locations: '[[_Standards/WikiData/WD~colon,5982337]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~large_intestine_cancer,12048781]]'
-  - '[[_Standards/WikiData/WD~colorectal_neoplasm,58833976]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~large_intestine_cancer,12048781]]'
+- '[[_Standards/WikiData/WD~colorectal_neoplasm,58833976]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Colorectal_cancer,27725127]]'
-  - '[[_Standards/WikiData/WD~Q55924124,55924124]]'
+- '[[_Standards/WikiData/WD~Colorectal_cancer,27725127]]'
+- '[[_Standards/WikiData/WD~Q55924124,55924124]]'
 subreddit:
-  - coloncancer
+- coloncancer
 instance_of:
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 ICD_O: 8140
 DiseasesDB: 2975
 OmegaWiki_Defined_Meaning: 681996
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liseriketa%20sistemaren%20diagrama-eu.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Carcinoma%20Colon%2010X.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-ca.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-cy.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liseriketa%20sistemaren%20diagrama-eu.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Carcinoma%20Colon%2010X.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-ca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stomach%20colon%20rectum%20diagram-cy.svg
 Commons_category: Colorectal cancer
 exact_match:
-  - http://identifiers.org/doid/DOID:9256
-  - http://purl.obolibrary.org/obo/DOID_9256
+- http://identifiers.org/doid/DOID:9256
+- http://purl.obolibrary.org/obo/DOID_9256
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Colorectal_cancer
 P8189:
-  - 987007284598505171
-  - 987007530016405171
+- 987007284598505171
+- 987007530016405171
 UMLS_CUI: C1527249
 Wolfram_Language_entity_code:
-  - Entity["Concept", "ColonCancer::525v4"]
-  - Entity["Disease", "ICDNine153"]
-  - Entity["Disease", "ICDNine154.1"]
-  - Entity["Disease", {"ICDNine153", "Primary"}]
-  - Entity["Disease", {"ICDNine154.1", "Primary"}]
+- Entity["Concept", "ColonCancer::525v4"]
+- Entity["Disease", "ICDNine153"]
+- Entity["Disease", "ICDNine154.1"]
+- Entity["Disease", {"ICDNine153", "Primary"}]
+- Entity["Disease", {"ICDNine154.1", "Primary"}]
 Krugosvet_article: medicina/RAK_TOLSTOGO_KISHECHNIKA.html
+dv_has_:
+  name_:
+    af: kolorektale kanker
+    ar: سرطان القولون
+    ary: كونصير د لمصارن
+    arz: سرطان القولون
+    as: মলাশয়ৰ কৰ্কট ৰোগ
+    ast: cáncanu colorrectal
+    az: kolorektal xərçəng
+    azb: یوغون باغیرساق سرطانی
+    be: рак тоўстай кішкі
+    be-tarask: рак тоўстай кішкі
+    bg: Рак на дебелото черво
+    bn: মলাশয়ের ক্যান্সার
+    bs: Rak debelog crijeva
+    ca: càncer colorectal
+    cs: kolorektální karcinom
+    cy: canser colorectaidd
+    da: tyktarmskræft
+    de: kolorektales Karzinom
+    dv: ގޮހޮރުގެ ކެންސަރު
+    el: καρκίνος εντέρου
+    en: colorectal cancer
+    en-gb: bowel cancer
+    eo: kojlorektuma kancero
+    es: cáncer colorrectal
+    et: jämesoolevähk
+    eu: ondesteko minbizi
+    fa: سرطان روده بزرگ
+    fi: paksusuolen syöpä
+    fr: cancer colorectal
+    ga: ailse cholaireictach
+    gd: aillse a' chaolain 's a' chaolain-dhìrich
+    gl: cancro colorrectal
+    gpe: colorectal cancer
+    ha: Ciwon daji mai launi
+    he: סרטן המעי הגס
+    hi: कोलोरेक्टल कैंसर
+    hr: rak debelog crijeva
+    hu: vastagbélrák és végbélrák
+    hy: Կոլոռեկտալ քաղցկեղ
+    ia: cancere colorectal
+    id: Kanker usus besar
+    ilo: kanser ti ubet
+    it: carcinoma del colon-retto
+    ja: 大腸癌
+    ka: კოლორექტალური კიბო
+    ko: 대장암
+    ku-latn: penceşêra tortorîkê
+    la: Cancer colorectalis
+    lb: Déckdaarmkriibs
+    lmo: cancher del colon-ret
+    lt: Storosios žarnos vėžys
+    lv: zarnu vēzis
+    mi: Mate whēkau pukupuku
+    mk: рак на дебелото црево
+    mr: मोठया आतडयाचा कर्करोग
+    ms: Barah usus
+    mt: kanċer kolorektali
+    nan: Tōa-tn̂g-gâm
+    nan-hant: 大腸癌
+    nb: kolorektal kreft
+    ne: कोलोरेक्टर क्यान्सर
+    new: कोलोरेक्टल क्यान्सर
+    nl: darmkanker
+    nn: tarmkreft
+    or: ବୃହଦନ୍ତ୍ର-ମଳାଶୟ କର୍କଟ
+    pa: ਕੋਲਨ ਕੈਂਸਰ
+    pl: rak jelita grubego
+    pt: cancro colorretal
+    pt-br: câncer colorretal
+    ro: cancer de colon
+    ru: колоректальный рак
+    sh: Rak debelog creva
+    sk: Kolorektálny karcinóm
+    sl: kolorektalni rak
+    smn: kossâčuálipuurâs
+    sq: Kanceri kolorektal
+    sr: рак дебелог црева
+    sv: koloncancer
+    ta: பெருங்குடல் மலகுடலுக்குரிய புற்று நோய்
+    te: కొలోరెక్టల్ క్యాన్సర్
+    th: มะเร็งลำไส้ใหญ่
+    tl: kanser sa kolon
+    tr: Rektum kanseri
+    tt: колоректаль яманшеш
+    uk: колоректальний рак
+    ur: قولن سرطان
+    vi: ung thư đại trực tràng
+    wuu: 结直肠癌
+    xh: mhlaza
+    yi: קישקע קענסער
+    yue: 結腸癌
+    zh: 大腸癌
+    zh-cn: 大肠癌
+    zh-hans: 大肠癌
+    zh-hant: 大腸癌
+    zh-hk: 大腸癌
+    zh-sg: 大肠癌
+    zh-tw: 大腸癌
+    zu: umdlavuza obala
 ---
-
 # [[Colorectal_Cancer]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Colorectal_cancer,188874|WD~Colorectal_cancer,188874]] 

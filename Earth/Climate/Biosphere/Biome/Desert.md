@@ -1,24 +1,385 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]"
-    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]"
-    - "[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]"
-    - "[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]"
-    - "[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]"
-    - "[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]"
-    - "[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]"
-    - "[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]"
+  - '[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]'
+  - '[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]'
+  - '[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]'
+  - '[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]'
+  - '[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]'
+  - '[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]'
+  - '[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]'
+  - '[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]"
-  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]"
-  - "[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]"
-  - "[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]"
-  - "[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]"
-  - "[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]"
-  - "[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]"
-  - "[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]"
+- '[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]'
+- '[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]'
+- '[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]'
+- '[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]'
+- '[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]'
+- '[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]'
+- '[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]'
+- '[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]'
 has_id_wikidata: Q8514
+dv_has_:
+  name_:
+    ab: Асакара
+    af: woestyn
+    am: በረሃ
+    an: disierto
+    ang: Drȳġeland
+    ann: Èwê
+    ar: صحراء
+    arc: ܡܕܒܪܐ
+    ary: صحرا
+    arz: صحرا
+    as: মৰুভূমি
+    ast: ermu
+    az: səhra
+    azb: صحرا چؤلو
+    ba: Сүллек
+    ban: Gurun
+    bar: Wiastn
+    bcl: Desyerto
+    be: пустыня
+    be-tarask: пустэльня
+    bg: Пустиня
+    bho: रेगिस्तान
+    bn: মরুভূমি
+    br: dezerzh
+    bs: pustinja
+    bxr: Сүл
+    ca: desert
+    ce: ГӀум-аре
+    chr: ᎤᎧᏲᏗ ᎡᎶᎯᏱ
+    ckb: بیابان
+    crh: sahra
+    crh-latn: sahra
+    cs: poušť
+    cv: Пушхир
+    cy: anialwch
+    da: ørken
+    de: Wüste
+    de-ch: Wüste
+    diq: Çole
+    el: έρημος
+    eml: desêrt
+    en: desert
+    en-ca: Desert
+    en-gb: desert
+    eo: dezerto
+    es: desierto
+    et: kõrb
+    eu: basamortu
+    fa: بیابان
+    fi: aavikko
+    fj: Vanua dravuisiga
+    fo: oyðimørk
+    fr: désert
+    frr: Wüüst
+    fur: desert
+    fy: woastyn
+    ga: fásach
+    gan: 沙漠
+    gcr: Dézè
+    gd: fàsach
+    gl: deserto
+    gn: Yvyku'ipasu
+    got: "\U00010330\U0001033F\U00010338\U00010339\U00010333\U00010330"
+    gsw: Wüeschti
+    gu: રણ
+    guc: Isashii
+    he: מדבר
+    hi: मरुस्थल
+    hif: Desert
+    hr: pustinja
+    hsb: pusćina
+    ht: dezè
+    hu: sivatag
+    hy: անապատ
+    hyw: անապատ
+    ia: deserto
+    id: gurun
+    ie: deserte
+    ik: Nunagluktuaq
+    ilo: desierto
+    inh: Яьсса аре
+    io: dezerto
+    is: eyðimörk
+    it: deserto
+    ja: 砂漠
+    jam: Dezat
+    jv: segara wedhi
+    ka: უდაბნო
+    kaa: Shól
+    kab: Taneẓruft
+    kbp: Kañɩmpusuu tɛtʋ
+    kcg: tswa a̱ji̱jak
+    kge: Gurun
+    kk: Шөл
+    kn: ಮರುಭೂಮಿ
+    ko: 사막
+    krc: Къуругъан тюз
+    ku: beyaban
+    ku-latn: beyaban
+    kw: Difeyth
+    ky: Чөл
+    la: deserta
+    lad: desyerto
+    lb: Wüst
+    lbe: чул
+    lfn: deserto
+    li: weuste
+    lld: Desert
+    lmo: desert
+    ln: Elíkí
+    lo: ທະເລຊາຍ
+    lt: dykuma
+    lv: tuksnesis
+    lzh: 沙漠
+    mag: मरुस्थल
+    mai: मरुभूमि
+    mg: tanimaty
+    min: Gurun
+    mk: пустина
+    ml: മരുഭൂമി
+    mn: Цөл
+    mr: वाळवंट
+    ms: gurun
+    mwl: zerto
+    my: ကန္တာရ
+    mzn: صحرا
+    nah: Huāccāīxtlāhuatl
+    nan: Soa-bô͘
+    nb: ørken
+    nds: Wööst
+    nds-nl: weuste
+    ne: मरुभूमि
+    new: मरुभूमि
+    nl: woestijn
+    nn: ørken
+    nrm: desert
+    nv: Doo Nidahałtingóó
+    oc: desèrt
+    om: Gammoojjii
+    or: ମରୁଭୂମି
+    os: æдзæрæгран
+    pa: ਮਾਰੂਥਲ
+    pl: pustynia
+    pms: Desert
+    pnb: صحرا
+    ps: دښته
+    pt: deserto
+    pt-br: deserto
+    qu: Ch'in pacha
+    rmy: Sahgepte
+    ro: deșert
+    roa-tara: deserte
+    ru: пустыня
+    rue: Пустыня
+    sa: मरुस्थलीयभूमिः
+    sah: Кумах куйаар
+    sc: Desertu
+    scn: disertu
+    sco: desert
+    sd: ريگستان
+    se: sáttoáhpi
+    sgs: Dīkoma
+    sh: pustinja
+    shn: ၵၼ်ႇတႃႇရ
+    si: කාන්තාර
+    sk: púšť
+    sl: puščava
+    smn: ääpi
+    sn: Gwenga
+    so: Lamadegaan
+    sq: shkretëtira
+    sr: пустиња
+    sr-ec: пустиња
+    sv: öken
+    sw: Jangwa
+    szl: Půstyńijo
+    ta: பாலைவனம்
+    te: ఎడారి
+    tg: Биёбон
+    th: ทะเลทราย
+    tk: Çöl
+    tl: desyerto
+    tok: ma pi telo lili
+    tr: çöl
+    tt: Чүл
+    udm: бушкыр
+    uk: пустеля
+    ur: صحرا
+    uz: Choʻl
+    vec: dezerto
+    vep: rahvahatoi ma
+    vi: hoang mạc
+    vro: Kõrbõ
+    wa: Wastene (dezert)
+    war: Desyerto
+    wo: Yay
+    wuu: 荒漠
+    xh: Entlango
+    xmf: ტიოზი
+    yi: מדבר
+    yo: Aginjù
+    yue: 沙漠
+    za: Diegsa
+    zh: 荒漠
+    zh-hant: 荒漠
+aliases:
+- aavikko
+- Aginjù
+- anialwch
+- basamortu
+- beyaban
+- Ch'in pacha
+- Choʻl
+- Desert
+- deserta
+- deserte
+- deserto
+- Desertu
+- desierto
+- desyerto
+- desèrt
+- desêrt
+- Dezat
+- dezerto
+- dezerzh
+- dezè
+- deșert
+- Diegsa
+- Difeyth
+- disertu
+- disierto
+- Doo Nidahałtingóó
+- Drȳġeland
+- dykuma
+- désert
+- Dézè
+- Dīkoma
+- Elíkí
+- Entlango
+- ermu
+- eyðimörk
+- fàsach
+- fásach
+- Gammoojjii
+- Gurun
+- Gwenga
+- hoang mạc
+- Huāccāīxtlāhuatl
+- Isashii
+- Jangwa
+- Kañɩmpusuu tɛtʋ
+- kõrb
+- Kõrbõ
+- Lamadegaan
+- ma pi telo lili
+- Nunagluktuaq
+- oyðimørk
+- poušť
+- pustinja
+- pustynia
+- pusćina
+- puščava
+- púšť
+- Půstyńijo
+- rahvahatoi ma
+- Sahgepte
+- sahra
+- segara wedhi
+- shkretëtira
+- Shól
+- sivatag
+- Soa-bô͘
+- sáttoáhpi
+- səhra
+- Taneẓruft
+- tanimaty
+- tswa a̱ji̱jak
+- tuksnesis
+- Vanua dravuisiga
+- Wastene (dezert)
+- weuste
+- Wiastn
+- woastyn
+- woestijn
+- woestyn
+- Wööst
+- Wüeschti
+- Wüst
+- Wüste
+- Wüüst
+- Yay
+- Yvyku'ipasu
+- zerto
+- ääpi
+- æдзæрæгран
+- Çole
+- Çöl
+- Èwê
+- öken
+- ørken
+- έρημος
+- Асакара
+- Биёбон
+- бушкыр
+- ГӀум-аре
+- Кумах куйаар
+- Къуругъан тюз
+- пустеля
+- пустиња
+- пустина
+- Пустиня
+- Пустыня
+- пустэльня
+- Пушхир
+- Сүл
+- Сүллек
+- Цөл
+- чул
+- Чүл
+- Чөл
+- Шөл
+- Яьсса аре
+- անապատ
+- מדבר
+- بیابان
+- دښته
+- ريگستان
+- صحرا
+- صحرا چؤلو
+- صحراء
+- ܡܕܒܪܐ
+- मरुभूमि
+- मरुस्थल
+- मरुस्थलीयभूमिः
+- रेगिस्तान
+- वाळवंट
+- মরুভূমি
+- মৰুভূমি
+- ਮਾਰੂਥਲ
+- રણ
+- ମରୁଭୂମି
+- பாலைவனம்
+- ఎడారి
+- ಮರುಭೂಮಿ
+- മരുഭൂമി
+- කාන්තාර
+- ทะเลทราย
+- ທະເລຊາຍ
+- ကန္တာရ
+- ၵၼ်ႇတႃႇရ
+- ტიოზი
+- უდაბნო
+- በረሃ
+- ᎤᎧᏲᏗ ᎡᎶᎯᏱ
+- 沙漠
+- 砂漠
+- 荒漠
+- 사막
+- "\U00010330\U0001033F\U00010338\U00010339\U00010333\U00010330"
 ---
 # [[Desert]] 
 

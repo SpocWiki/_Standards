@@ -1,15 +1,105 @@
 ---
 aliases:
-  - Gammastrahlung
-  - Gammastrahlen
-  - Gamma_Ray
-  - Gamma Ray
+- Gama spinduliai
+- Gama spėndolē
+- Gama zračenje
+- gama ışını
+- gama-radiado
+- gama-čestica
+- gamma izpi
+- Gamma Ray
+- Gamma siā-soàⁿ
+- Gamma stari
+- Gamma wach'i
+- Gamma-nurlanish
+- gamma-sugárzás
+- gammageisli
+- gammakiirgus
+- Gammastraal
+- Gammastrahlen
+- Gammastrahlung
+- gammastraling
+- Gammastraoling
+- gammastråling
+- gammastrålning
+- gammasuonjardeapmi
+- gammasuonjârdem
+- gammasäteily
+- Gamma_Ray
+- gámaradaíocht
+- pelydr gama
+- promieniowanie gamma
+- Qamma şüalanma
+- radiació gamma
+- Radiación gamma
+- radiatio gamma
+- radiation gamma
+- radiação gama
+- radiație gamma
+- raggi gamma
+- Rais gama
+- Raj gama
+- rayon gamma
+- rayos gamma
+- Reyon gama
+- Rrezet gama
+- Sinag gamma
+- Sinar gama
+- Sinar gamma
+- Sunar gamma
+- Tia gamma
+- Umsebentathu
+- záření gama
+- žarek gama
+- žiarenie gama
+- ακτίνες γάμμα
+- гама зрачење
+- гама-выпраменьванне
+- гама-выпраменьваньне
+- гама-зрачење
+- Гама-лъчи
+- Гамма нурлануу
+- Гамма цацраг
+- гамма-излучение
+- Гамма-нур
+- гамма-нурланыш
+- Гамма-пайăркалав
+- гамма-промені
+- гамма-сиос
+- гамма-сәулелер
+- Գամմա ճառագայթներ
+- קרינת גמא
+- أشعة غاما
+- تیشکی گاما
+- د ګاما وړانګه
+- شعا د ڭاما
+- قاما ایشیقی
+- پرتو گاما
+- گیما رے
+- गामा किरण
+- गॅमा किरण
+- গামা রশ্মি
+- ਗਾਮਾ ਕਿਰਨ
+- காம்மா கதிர்
+- గామా కిరణం
+- ಗ್ಯಾಮಾ ಕಿರಣ
+- ഗാമാ കിരണം
+- ගැමා කිරණ
+- รังสีแกมมา
+- ແສງແກມມາ
+- ဂမ်မာရောင်ခြည်
+- გამა-გამოსხივება
+- ガンマ線
+- 丙種射綫
+- 伽馬射線
+- 伽马射线
+- 감마선
 has_id_wikidata: Q11523
 part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
 has_cause: '[[_Standards/WikiData/WD~beta_decay,306786]]'
 different_from:
-  - '[[_Standards/WikiData/WD~gamma_wave,2623017]]'
-  - '[[_Standards/WikiData/WD~gamma_decay,10885797]]'
+- '[[_Standards/WikiData/WD~gamma_wave,2623017]]'
+- '[[_Standards/WikiData/WD~gamma_decay,10885797]]'
 instance_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
@@ -20,12 +110,119 @@ Dewey_Decimal_Classification: 539.7524
 IEV_number: 881-02-17
 UMLS_CUI: C0017011
 MeSH_tree_code:
-  - G01.358.500.505.300
-  - G01.750.250.300
-  - G01.750.750.400
+- G01.358.500.505.300
+- G01.750.250.300
+- G01.750.750.400
 Commons_category: Gamma rays
+dv_has_:
+  name_:
+    af: Gammastraal
+    ar: أشعة غاما
+    ary: شعا د ڭاما
+    ast: Radiación gamma
+    az: Qamma şüalanma
+    azb: قاما ایشیقی
+    ban: Sunar gamma
+    be: гама-выпраменьванне
+    be-tarask: гама-выпраменьваньне
+    bg: Гама-лъчи
+    bn: গামা রশ্মি
+    bs: Gama zračenje
+    ca: radiació gamma
+    ckb: تیشکی گاما
+    cs: záření gama
+    cv: Гамма-пайăркалав
+    cy: pelydr gama
+    da: gammastråling
+    de: Gammastrahlung
+    el: ακτίνες γάμμα
+    en: gamma ray
+    eo: gama-radiado
+    es: rayos gamma
+    et: gammakiirgus
+    eu: gamma izpi
+    fa: پرتو گاما
+    fi: gammasäteily
+    fr: rayon gamma
+    ga: gámaradaíocht
+    gl: Radiación gamma
+    ha: Gamma ray
+    he: קרינת גמא
+    hi: गामा किरण
+    hif: Gamma ray
+    hr: gama-čestica
+    ht: Reyon gama
+    hu: gamma-sugárzás
+    hy: Գամմա ճառագայթներ
+    ia: radiation gamma
+    id: Sinar gama
+    is: gammageisli
+    it: raggi gamma
+    ja: ガンマ線
+    ka: გამა-გამოსხივება
+    kk: гамма-сәулелер
+    kn: ಗ್ಯಾಮಾ ಕಿರಣ
+    ko: 감마선
+    ky: Гамма нурлануу
+    la: radiatio gamma
+    li: Gammastraoling
+    lij: Raggi gamma
+    lo: ແສງແກມມາ
+    lt: Gama spinduliai
+    lv: Gamma stari
+    lzh: 伽馬射線
+    mk: гама-зрачење
+    ml: ഗാമാ കിരണം
+    mn: Гамма цацраг
+    mr: गॅमा किरण
+    ms: Sinar gama
+    my: ဂမ်မာရောင်ခြည်
+    nan: Gamma siā-soàⁿ
+    nb: gammastråling
+    nds: Gammastrahlen
+    nl: gammastraling
+    nn: gammastråling
+    pa: ਗਾਮਾ ਕਿਰਨ
+    pl: promieniowanie gamma
+    pms: Raj gama
+    pnb: گیما رے
+    ps: د ګاما وړانګه
+    pt: radiação gama
+    pt-br: radiação gama
+    qu: Gamma wach'i
+    ro: radiație gamma
+    ru: гамма-излучение
+    sco: gamma ray
+    se: gammasuonjardeapmi
+    sgs: Gama spėndolē
+    sh: Gama zračenje
+    si: ගැමා කිරණ
+    sk: žiarenie gama
+    sl: žarek gama
+    smn: gammasuonjârdem
+    sq: Rrezet gama
+    sr: гама зрачење
+    su: Sinar gamma
+    sv: gammastrålning
+    ta: காம்மா கதிர்
+    te: గామా కిరణం
+    tg: Гамма-нур
+    th: รังสีแกมมา
+    tl: Sinag gamma
+    tr: gama ışını
+    tt: гамма-нурланыш
+    tt-cyrl: гамма-нурланыш
+    udm: гамма-сиос
+    uk: гамма-промені
+    uz: Gamma-nurlanish
+    vi: Tia gamma
+    wa: Rais gama
+    war: Rayos Gamma
+    wuu: 伽马射线
+    yue: 丙種射綫
+    zh: 伽马射线
+    zu: Umsebentathu
 ---
-
 # [[Gamma_Ray]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gamma_ray,11523|WD~Gamma_ray,11523]] 

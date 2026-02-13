@@ -1,28 +1,110 @@
 ---
 aliases:
-  - Qualle
-  - Jellyfish
+- Acalefe
+- alforreca
+- Bantól
+- Bloneg-mor
+- bromu
+- bûka deryayê
+- Chúi-bó
+- Denizanası
+- Dikya
+- Dəniz anası
+- Gopler
+- grumer
+- Hvalspýggjur
+- Jellievis
+- Jelliskapp
+- Jellyfish
+- Jélii łóóʼ
+- Kachu k'arachiq
+- kala ko
+- Kandili i detit
+- Konyeza
+- Kwabben
+- Kwalle
+- kwallen
+- loch-livers
+- manet
+- Maneter
+- Marglyttur
+- marmoka
+- Mediz
+- medusa
+- Medusa (animal)
+- Meduus
+- meduusa
+- Meduza
+- Meduze
+- Meduzo
+- medúza
+- medūzas
+- Medūzos
+- Morgowles
+- méduse
+- Nuvayulġiq
+- petipeti
+- Qualle
+- Qurxummii dhoqonnaa'a
+- Slefren fôr
+- smugairle róin
+- Sứa
+- Tá
+- Ubur-ubur
+- θαλασσομάνα
+- Μέδουσα
+- Амыжьҳаҭ
+- диңгез йөрәге
+- медуза
+- медузи
+- Медузы
+- մեդուզա
+- מדוזה
+- بووکی دەریا
+- جیلی مچھی
+- دنیزآناسی
+- عروس دریایی
+- قنديل البحر
+- مېډوسا
+- गिजगिजिया
+- जेली फिस
+- जेलीफिश
+- জেলিফিশ
+- ਜੈਲੀਫਿਸ਼
+- சொறி மீன்
+- കടൽച്ചൊറി
+- ලොඩි
+- แมงกะพรุน
+- ပင်လယ်ရေခူ
+- ပႃတင်
+- მედუზები
+- ዓሳ ለግለግ
+- ᏩᏂᎨ ᎠᏣᏗ
+- クラゲ
+- 水母
+- 白蚱
+- 해파리
 has_id_wikidata: Q30178
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~box_jellyfish,273179]]"
-  - "[[_Standards/WikiData/WD~Medusozoa,6596143]]"
+- '[[_Standards/WikiData/WD~box_jellyfish,273179]]'
+- '[[_Standards/WikiData/WD~Medusozoa,6596143]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q1175371,1175371]]"
-  - "[[_Standards/WikiData/WD~Medusa,11776853]]"
-  - "[[_Standards/WikiData/WD~Meduza,72977655]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+- '[[_Standards/WikiData/WD~Q1175371,1175371]]'
+- '[[_Standards/WikiData/WD~Medusa,11776853]]'
+- '[[_Standards/WikiData/WD~Meduza,72977655]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 OmegaWiki_Defined_Meaning: 1392505
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mila%20Rose%20L.%20%28BiblioCanet66%29-m%C3%A9duse.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%CC%81%D0%B7%D0%B0.ogg
-Unicode_character: 🪼
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mila%20Rose%20L.%20%28BiblioCanet66%29-m%C3%A9duse.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%CC%81%D0%B7%D0%B0.ogg
+Unicode_character: "\U0001FABC"
 Commons_gallery: Jellyfish
 Commons_category: Jellyfish
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jelly%20cc11.jpg
@@ -30,8 +112,125 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Qualle%20im%20Sealife%
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sea%20Nettle%201%20Monterey%20Bay%20Aquarium%20banner.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/01910747-n
 subreddit: Hammyfish
+dv_has_:
+  name_:
+    ab: Амыжьҳаҭ
+    af: Jellievis
+    ar: قنديل البحر
+    az: Dəniz anası
+    azb: دنیزآناسی
+    ban: Ubur-ubur
+    bcl: Dikya
+    be: Медузы
+    be-tarask: медуза
+    bg: медузи
+    bho: जेलीफिश
+    bn: জেলিফিশ
+    br: Bloneg-mor
+    ca: grumer
+    cdo: Tá
+    chr: ᏩᏂᎨ ᎠᏣᏗ
+    ckb: بووکی دەریا
+    cs: medúza
+    cy: Slefren fôr
+    da: Gopler
+    de: Qualle
+    de-ch: Qualle
+    el: Μέδουσα
+    en: jellyfish
+    en-ca: Jellyfish
+    en-gb: jellyfish
+    eo: Meduzo
+    es: medusa
+    et: Meduus
+    eu: marmoka
+    fa: عروس دریایی
+    fi: meduusa
+    fo: Hvalspýggjur
+    fr: méduse
+    fy: Kwabben
+    ga: smugairle róin
+    gl: Medusa
+    he: מדוזה
+    hi: गिजगिजिया
+    hr: Meduze
+    ht: Mediz
+    hu: medúza
+    hy: մեդուզա
+    ia: Medusa
+    id: ubur-ubur
+    ik: Nuvayulġiq
+    io: Meduzo
+    is: Marglyttur
+    it: medusa
+    ja: クラゲ
+    jv: Ubur-ubur
+    ka: მედუზები
+    kaa: Meduza
+    kk: Медуза
+    ko: 해파리
+    ku-latn: bûka deryayê
+    kw: Morgowles
+    la: Medusa (animal)
+    lb: Jelliskapp
+    lt: Medūzos
+    lv: medūzas
+    lzh: 水母
+    mai: जेली फिस
+    mi: petipeti
+    mk: Медуза
+    ml: കടൽച്ചൊറി
+    ms: ubur-ubur
+    my: ပင်လယ်ရေခူ
+    nan: Chúi-bó
+    nb: manet
+    ne: जेली फिस
+    nl: kwallen
+    nn: manet
+    nv: Jélii łóóʼ
+    oc: Medusa
+    om: Qurxummii dhoqonnaa'a
+    pa: ਜੈਲੀਫਿਸ਼
+    pl: meduza
+    pnb: جیلی مچھی
+    pnt: θαλασσομάνα
+    ps: مېډوسا
+    pt: alforreca
+    pt-br: medusa
+    qu: Kachu k'arachiq
+    ro: Acalefe
+    ru: медуза
+    scn: bromu
+    sco: loch-livers
+    sh: Meduze
+    shn: ပႃတင်
+    si: ලොඩි
+    sk: medúza
+    sl: meduza
+    sq: Kandili i detit
+    sr: медуза
+    sr-ec: медуза
+    sv: Maneter
+    sw: Konyeza
+    ta: சொறி மீன்
+    th: แมงกะพรุน
+    ti: ዓሳ ለግለግ
+    tl: Dikya
+    tok: kala ko
+    tr: Denizanası
+    tt: диңгез йөрәге
+    udm: медуза
+    uk: медуза
+    uz: Meduza
+    vi: Sứa
+    vls: Kwalle
+    war: Bantól
+    wuu: 水母
+    yue: 白蚱
+    zh: 水母
+    zh-cn: 水母
+    zh-hans: 水母
 ---
-
 # [[Jellyfish]] 🪼 
 
 #is_/same_as :: [[WD~Jellyfish,30178]] 

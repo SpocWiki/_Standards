@@ -1,46 +1,149 @@
 ---
 aliases:
+- Artimųjų Rytų istorija
+- Dějiny Blízkého východu
+- Ekialde Hurbileko historia
+- Geschichte des Nahen Ostens
+- geschiedenis van het Midden-Oosten
+- Hanes y Dwyrain Canol
+- histoire du Moyen-Orient
+- historia Bliskiego Wschodu
+- Historia d'Oriente Próximu
+- historia de Oriente Medio
+- historia de Oriente Próximo
+- Historio de Okcidenta Azio
+- history of the Middle East
+- història del Pròxim Orient
+- história do Oriente Médio
+- Ischri a di Migl Iis
+- Istoria Orientului Mijlociu
+- Istorija Bliskog Istoka
+- Istwè di Mwayen-Oryan
+- lähi-idän historia
+- Lähis-Ida ajalugu
+- Lịch sử Trung Đông
+- Orta Doğu tarihi
+- Povijest Bliskog istoka
+- Sejarah Timur Tengah
+- storia del Medio Oriente
+- Tarihin Gabas Ta Tsakiya
+- zgodovina Bližnjega vzoda
+- історія Близького Сходу
+- гісторыя Блізкага Ўсходу
+- история Ближнего Востока
+- История на Близкия изток
+- Урта Көнсығыш тарихы
+- Մերձավոր Արևելքի պատմություն
+- היסטוריה של המזרח התיכון
+- تاريخ الشرق الأوسط
+- تاریخ خاورمیانه
+- د منځني ختيځ تاريخ
+- مشرق وسطا دی تریخ
+- مشرق وسطی کی تاریخ
+- مێژووی ڕۆژھەڵاتی ناوین
+- মধ্যপ্রাচ্যের ইতিহাস
+- மையக் கிழக்கின் வரலாறு
+- മധ്യപൂർവേഷ്യാചരിത്രം
+- 中東嗰歷史
+- 中東歷史
+- 西アジア・中東史
+- 중동의 역사
 has_id_wikidata: Q51615
 subclass_of:
-  - "[[_Standards/WikiData/WD~history_of_Africa,149813]]"
-  - "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
+- '[[_Standards/WikiData/WD~history_of_Africa,149813]]'
+- '[[_Standards/WikiData/WD~history_of_Asia,627531]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-  - "[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]"
+- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_the_ancient_Levant,4164459]]"
-  - "[[_Standards/WikiData/WD~genetic_history_of_the_Middle_East,4785363]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_History_of_the_Middle_East,42351239]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_the_Middle_East,100751527]]"
-facet_of: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-locations: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-Dewey_Decimal_Classification: "956"
+- '[[_Standards/WikiData/WD~history_of_the_ancient_Levant,4164459]]'
+- '[[_Standards/WikiData/WD~genetic_history_of_the_Middle_East,4785363]]'
+- '[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_History_of_the_Middle_East,42351239]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_the_Middle_East,100751527]]'
+facet_of: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+locations: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+Dewey_Decimal_Classification: 956
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ishtar-gate-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20the%20Middle%20East.ogg
 Commons_category: History of the Middle East
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]"
+  - '[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]"
+- '[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]'
+dv_has_:
+  name_:
+    ar: تاريخ الشرق الأوسط
+    ast: Historia d'Oriente Próximu
+    ba: Урта Көнсығыш тарихы
+    be-tarask: гісторыя Блізкага Ўсходу
+    bg: История на Близкия изток
+    bn: মধ্যপ্রাচ্যের ইতিহাস
+    ca: història del Pròxim Orient
+    ckb: مێژووی ڕۆژھەڵاتی ناوین
+    cs: Dějiny Blízkého východu
+    cy: Hanes y Dwyrain Canol
+    de: Geschichte des Nahen Ostens
+    en: history of the Middle East
+    en-ca: history of the Middle East
+    en-gb: history of the Middle East
+    eo: Historio de Okcidenta Azio
+    es: historia de Oriente Próximo
+    et: Lähis-Ida ajalugu
+    eu: Ekialde Hurbileko historia
+    fa: تاریخ خاورمیانه
+    fi: lähi-idän historia
+    fr: histoire du Moyen-Orient
+    gan: 中東嗰歷史
+    gcr: Istwè di Mwayen-Oryan
+    gl: historia de Oriente Medio
+    ha: Tarihin Gabas Ta Tsakiya
+    he: היסטוריה של המזרח התיכון
+    hr: Povijest Bliskog istoka
+    hy: Մերձավոր Արևելքի պատմություն
+    id: Sejarah Timur Tengah
+    it: storia del Medio Oriente
+    ja: 西アジア・中東史
+    jam: Ischri a di Migl Iis
+    ko: 중동의 역사
+    lt: Artimųjų Rytų istorija
+    ml: മധ്യപൂർവേഷ്യാചരിത്രം
+    nl: geschiedenis van het Midden-Oosten
+    pl: historia Bliskiego Wschodu
+    pnb: مشرق وسطا دی تریخ
+    ps: د منځني ختيځ تاريخ
+    pt: história do Oriente Médio
+    pt-br: história do Oriente Médio
+    ro: Istoria Orientului Mijlociu
+    ru: история Ближнего Востока
+    sl: zgodovina Bližnjega vzoda
+    sr: Istorija Bliskog Istoka
+    ta: மையக் கிழக்கின் வரலாறு
+    tr: Orta Doğu tarihi
+    uk: історія Близького Сходу
+    ur: مشرق وسطی کی تاریخ
+    vi: Lịch sử Trung Đông
+    zh: 中東歷史
+    zh-hant: 中東歷史
+    zh-hk: 中東歷史
+    zh-tw: 中東歷史
 ---
-
 # [[History_of_the_Middle_East]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]] 

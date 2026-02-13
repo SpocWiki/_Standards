@@ -1,153 +1,360 @@
 ---
 aliases:
-  - Enrico Fermi
-  - Enrico_Fermi
-  - Fermi
-  - Fermi,Enrico
+- Arrigu Fermi
+- Enrico Fermi
+- Enrico_Fermi
+- Enricu Fermi
+- Enriko Fermi
+- Enriks Fermis
+- Fermi
+- Fermi Enriko
+- Fermi,Enrico
+- Henricus Fermi
+- jan Enliko Pemi
+- N-li-ke. Fei-m
+- Ενρίκο Φέρμι
+- Енріко Фермі
+- Енрико Ферми
+- Ферми Энрико
+- Ферми, Энрико
+- Энрико Ферми
+- Энрику Фермӣ
+- Энрыка Фермі
+- Энрыка Фэрмі
+- Էնրիկո Ֆերմի
+- אנריקו פרמי
+- ענריקא פערמי
+- إنريكو فيرمي
+- ئێنریکۆ فێرمی
+- انريكو فيرمى
+- انریکو فرمي
+- انریکو فرمی
+- اینریکو فرمی
+- एनृको फर्मी
+- एन्रिको फर्मी
+- एन्रीको फर्मी
+- এনরিকো ফের্মি
+- এনৰিকো ফাৰ্মি
+- ਐਨਰੀਕੋ ਫ਼ੇਅਰਮੀ
+- ଏନରିକୋ ଫେରମିଂ
+- என்ரிக்கோ பெர்மி
+- ఎన్రికో ఫెర్మి
+- ಎನ್ರಿಕೊ ಫರ್ಮಿ
+- എൻറികോ ഫെർമി
+- เอนรีโก แฟร์มี
+- အန်ရစ်ကို ဖာမီ
+- ენრიკო ფერმი
+- ኤንሪኮ ፌርሚ
+- អង់រីកូ ហ្វែរមី
+- ᱮᱱᱨᱤᱠᱚ ᱯᱷᱚᱨᱢᱤ
+- エンリコ・フェルミ
+- 恩利高·費米
+- 恩里科·費米
+- 恩里科·费米
+- 費米
+- 엔리코 페르미
 has_id_wikidata: Q8753
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 academic_thesis: '[[_Standards/WikiData/WD~Un_teorema_di_calcolo_delle_probabilità_ed_alcune_sue_applicazioni,106468787]]'
 archives_at: '[[_Standards/WikiData/WD~University_of_Chicago_Library,7895259]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
-  - '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
-  - '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
-  - '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
+- '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
+- '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588]]'
 Commons_category: Enrico Fermi
 Commons_gallery: Enrico Fermi
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 date_of_birth: 1901-09-29
 date_of_death: 1954-11-28
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Luigi_Puccianti,3840066]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
-  - '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
-  - '[[_Standards/WikiData/WD~Tsung-Dao_Lee,183679]]'
-  - '[[_Standards/WikiData/WD~Marvin_Leonard_Goldberger,347236]]'
-  - '[[_Standards/WikiData/WD~Ettore_Majorana,367196]]'
-  - '[[_Standards/WikiData/WD~Geoffrey_Chew,376617]]'
-  - '[[_Standards/WikiData/WD~Oreste_Piccioni,430002]]'
-  - '[[_Standards/WikiData/WD~Sam_Treiman,567758]]'
-  - '[[_Standards/WikiData/WD~Mario_Ageno,792158]]'
-  - '[[_Standards/WikiData/WD~Herbert_L._Anderson,1608700]]'
-  - '[[_Standards/WikiData/WD~Richard_Garwin,2149560]]'
-  - '[[_Standards/WikiData/WD~Arthur_H._Rosenfeld,4396575]]'
-  - '[[_Standards/WikiData/WD~Willem_Malkus,47314101]]'
-  - '[[_Standards/WikiData/WD~Robert_A._Schluter,107303710]]'
+- '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+- '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
+- '[[_Standards/WikiData/WD~Tsung-Dao_Lee,183679]]'
+- '[[_Standards/WikiData/WD~Marvin_Leonard_Goldberger,347236]]'
+- '[[_Standards/WikiData/WD~Ettore_Majorana,367196]]'
+- '[[_Standards/WikiData/WD~Geoffrey_Chew,376617]]'
+- '[[_Standards/WikiData/WD~Oreste_Piccioni,430002]]'
+- '[[_Standards/WikiData/WD~Sam_Treiman,567758]]'
+- '[[_Standards/WikiData/WD~Mario_Ageno,792158]]'
+- '[[_Standards/WikiData/WD~Herbert_L._Anderson,1608700]]'
+- '[[_Standards/WikiData/WD~Richard_Garwin,2149560]]'
+- '[[_Standards/WikiData/WD~Arthur_H._Rosenfeld,4396575]]'
+- '[[_Standards/WikiData/WD~Willem_Malkus,47314101]]'
+- '[[_Standards/WikiData/WD~Robert_A._Schluter,107303710]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
-  - '[[_Standards/WikiData/WD~University_of_Pisa,645663]]'
-  - '[[_Standards/WikiData/WD~Scuola_Normale_Superiore._Classe_di_Scienze,114415800]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~University_of_Pisa,645663]]'
+- '[[_Standards/WikiData/WD~Scuola_Normale_Superiore._Classe_di_Scienze,114415800]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
-  - '[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]'
-  - '[[_Standards/WikiData/WD~University_of_Florence,820887]]'
-  - '[[_Standards/WikiData/WD~Enrico_Fermi_Institute,1274429]]'
-  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]'
+- '[[_Standards/WikiData/WD~University_of_Florence,820887]]'
+- '[[_Standards/WikiData/WD~Enrico_Fermi_Institute,1274429]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 Erdős_number: 3
 family_name: '[[_Standards/WikiData/WD~Fermi,76912274]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
-  - '[[_Standards/WikiData/WD~statistical_mechanics,188715]]'
-  - '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
-  - '[[_Standards/WikiData/WD~quantum_theory,3194786]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
-  - '[[_Standards/WikiData/WD~particle_physics,18334]]'
-  - '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
-  - '[[_Standards/WikiData/WD~experimental_physics,18366]]'
+- '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
+- '[[_Standards/WikiData/WD~statistical_mechanics,188715]]'
+- '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
+- '[[_Standards/WikiData/WD~quantum_theory,3194786]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+- '[[_Standards/WikiData/WD~particle_physics,18334]]'
+- '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
+- '[[_Standards/WikiData/WD~experimental_physics,18366]]'
 given_name: '[[_Standards/WikiData/WD~Enrico,16908530]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%201943-49.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
-  - '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+- '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
+- '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121341777
 Krugosvet_article: nauka_i_tehnika/fizika/FERMI_ENRIKO.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: 53hkkl6p2gp5kvk
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
-  - '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
 name_in_native_language: Enrico Fermi
 native_language: '[[_Standards/WikiData/WD~Italian,652]]'
 NLC_authorities: 43499918
 nominated_for:
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]'
-  - '[[_Standards/WikiData/WD~Fermi_Pasta_Ulam_Tsingou_problem,462254]]'
-  - '[[_Standards/WikiData/WD~Thomas_Fermi_model,900431]]'
-  - "[[_Standards/WikiData/WD~Fermi's_golden_rule,1073295]]"
-  - '[[_Standards/WikiData/WD~Fermi_problem,1192374]]'
-  - "[[_Standards/WikiData/WD~Fermi's_interaction,1406423]]"
-  - '[[_Standards/WikiData/WD~Fermi_contact_interaction,5444399]]'
-  - '[[_Standards/WikiData/WD~Fermi_paradox,33580]]'
+- '[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]'
+- '[[_Standards/WikiData/WD~Fermi_Pasta_Ulam_Tsingou_problem,462254]]'
+- '[[_Standards/WikiData/WD~Thomas_Fermi_model,900431]]'
+- "[[_Standards/WikiData/WD~Fermi's_golden_rule,1073295]]"
+- '[[_Standards/WikiData/WD~Fermi_problem,1192374]]'
+- "[[_Standards/WikiData/WD~Fermi's_interaction,1406423]]"
+- '[[_Standards/WikiData/WD~Fermi_contact_interaction,5444399]]'
+- '[[_Standards/WikiData/WD~Fermi_paradox,33580]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
-  - '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
+- '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
 place_of_birth: '[[_Standards/WikiData/WD~Rome,220]]'
 place_of_burial: '[[_Standards/WikiData/WD~Oak_Woods_Cemetery,7073757]]'
 place_of_death: '[[_Standards/WikiData/WD~Chicago,1297]]'
 Regensburg_Classification: UB 2580
 religion_or_worldview: '[[_Standards/WikiData/WD~agnosticism,288928]]'
 residence:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Fermi%20signature.svg
 spouse: '[[_Standards/WikiData/WD~Laura_Fermi,6498895]]'
 student:
-  - '[[_Standards/WikiData/WD~Murray_Gell-Mann,172840]]'
-  - '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
-  - '[[_Standards/WikiData/WD~Chen-ning_Yang,181369]]'
-  - '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
-  - '[[_Standards/WikiData/WD~Tsung-Dao_Lee,183679]]'
-  - '[[_Standards/WikiData/WD~Mario_Ageno,792158]]'
+- '[[_Standards/WikiData/WD~Murray_Gell-Mann,172840]]'
+- '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+- '[[_Standards/WikiData/WD~Chen-ning_Yang,181369]]'
+- '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
+- '[[_Standards/WikiData/WD~Tsung-Dao_Lee,183679]]'
+- '[[_Standards/WikiData/WD~Mario_Ageno,792158]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Paul_Ehrenfest,84227]]'
-  - '[[_Standards/WikiData/WD~Max_Born,58978]]'
+- '[[_Standards/WikiData/WD~Paul_Ehrenfest,84227]]'
+- '[[_Standards/WikiData/WD~Max_Born,58978]]'
 U_S_National_Archives_Identifier: 10582037
 writing_language:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: Enrico Fermi
+    am: ኤንሪኮ ፌርሚ
+    an: Enrico Fermi
+    ar: إنريكو فيرمي
+    arz: انريكو فيرمى
+    as: এনৰিকো ফাৰ্মি
+    ast: Enrico Fermi
+    az: Enriko Fermi
+    azb: انریکو فرمی
+    ba: Энрико Ферми
+    ban: Enrico Fermi
+    bcl: Enrico Fermi
+    be: Энрыка Фермі
+    be-tarask: Энрыка Фэрмі
+    bg: Енрико Ферми
+    bn: এনরিকো ফের্মি
+    br: Enrico Fermi
+    bs: Enrico Fermi
+    btm: Enrico Fermi
+    ca: Enrico Fermi
+    cdo: Enrico Fermi
+    ce: Ферми, Энрико
+    ckb: ئێنریکۆ فێرمی
+    co: Arrigu Fermi
+    crh: Enriko Fermi
+    cs: Enrico Fermi
+    cv: Ферми Энрико
+    cy: Enrico Fermi
+    da: Enrico Fermi
+    dag: Enrico Fermi
+    de: Enrico Fermi
+    de-ch: Enrico Fermi
+    diq: Enrico Fermi
+    el: Ενρίκο Φέρμι
+    en: Enrico Fermi
+    en-ca: Enrico Fermi
+    en-gb: Enrico Fermi
+    en-us: Enrico Fermi
+    eo: Enrico Fermi
+    es: Enrico Fermi
+    et: Enrico Fermi
+    eu: Enrico Fermi
+    fa: انریکو فرمی
+    fi: Enrico Fermi
+    fr: Enrico Fermi
+    frr: Enrico Fermi
+    fy: Enrico Fermi
+    ga: Enrico Fermi
+    gd: Enrico Fermi
+    gl: Enrico Fermi
+    gn: Enrico Fermi
+    gsw: Enrico Fermi
+    hak: Enrico Fermi
+    he: אנריקו פרמי
+    hi: एन्रीको फर्मी
+    hif: Enrico Fermi
+    hr: Enrico Fermi
+    ht: Enrico Fermi
+    hu: Enrico Fermi
+    hy: Էնրիկո Ֆերմի
+    ia: Enrico Fermi
+    id: Enrico Fermi
+    ilo: Enrico Fermi
+    io: Enrico Fermi
+    is: Enrico Fermi
+    it: Enrico Fermi
+    ja: エンリコ・フェルミ
+    jv: Enrico Fermi
+    ka: ენრიკო ფერმი
+    kk: Энрико Ферми
+    kk-cyrl: Энрико Ферми
+    km: អង់រីកូ ហ្វែរមី
+    kn: ಎನ್ರಿಕೊ ಫರ್ಮಿ
+    ko: 엔리코 페르미
+    ku: Enrico Fermi
+    kw: Enrico Fermi
+    ky: Энрико Ферми
+    la: Henricus Fermi
+    lad: Enriko Fermi
+    lb: Enrico Fermi
+    lfn: Enrico Fermi
+    li: Enrico Fermi
+    lij: Enrico Fermi
+    lmo: Enrico Fermi
+    lt: Enrico Fermi
+    lv: Enriko Fermi
+    lzh: 費米
+    mg: Enrico Fermi
+    mhr: Ферми Энрико
+    mk: Енрико Ферми
+    ml: എൻറികോ ഫെർമി
+    mn: Энрико Ферми
+    mr: एन्रिको फर्मी
+    ms: Enrico Fermi
+    mt: Enrico Fermi
+    mul: Enrico Fermi
+    my: အန်ရစ်ကို ဖာမီ
+    mzn: انریکو فرمی
+    nan: Enrico Fermi
+    nb: Enrico Fermi
+    nds: Enrico Fermi
+    new: एनृको फर्मी
+    nl: Enrico Fermi
+    nn: Enrico Fermi
+    oc: Enrico Fermi
+    or: ଏନରିକୋ ଫେରମିଂ
+    os: Энрико Ферми
+    pa: ਐਨਰੀਕੋ ਫ਼ੇਅਰਮੀ
+    pam: Enrico Fermi
+    pap: Enrico Fermi
+    pl: Enrico Fermi
+    pms: Enrico Fermi
+    pnb: اینریکو فرمی
+    ps: انریکو فرمي
+    pt: Enrico Fermi
+    qu: Enrico Fermi
+    rm: Enrico Fermi
+    ro: Enrico Fermi
+    ru: Энрико Ферми
+    rue: Енріко Фермі
+    sa: एन्रीको फर्मी
+    sah: Энрико Ферми
+    sat: ᱮᱱᱨᱤᱠᱚ ᱯᱷᱚᱨᱢᱤ
+    scn: Enricu Fermi
+    sco: Enrico Fermi
+    sgs: Enriks Fermis
+    sh: Enrico Fermi
+    sk: Enrico Fermi
+    sl: Enrico Fermi
+    sq: Enrico Fermi
+    sr: Енрико Ферми
+    sv: Enrico Fermi
+    sw: Enrico Fermi
+    szy: N-li-ke. Fei-m
+    ta: என்ரிக்கோ பெர்மி
+    te: ఎన్రికో ఫెర్మి
+    tg: Энрику Фермӣ
+    th: เอนรีโก แฟร์มี
+    tl: Enrico Fermi
+    tok: jan Enliko Pemi
+    tr: Enrico Fermi
+    tt: Энрико Ферми
+    uk: Енріко Фермі
+    ur: انریکو فرمی
+    uz: Fermi Enriko
+    vep: Fermi Enriko
+    vi: Enrico Fermi
+    vo: Enrico Fermi
+    war: Enrico Fermi
+    wuu: 恩里科·费米
+    xmf: ენრიკო ფერმი
+    yi: ענריקא פערמי
+    yo: Enrico Fermi
+    yue: 費米
+    zh: 恩里科·费米
+    zh-hant: 恩里科·費米
+    zh-hk: 恩利高·費米
 ---
-
 # [[Fermi,Enrico]] 
 
 #has_/time_/started :: 1901-09-29 

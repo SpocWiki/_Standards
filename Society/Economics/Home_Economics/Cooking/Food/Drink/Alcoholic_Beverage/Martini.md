@@ -1,25 +1,45 @@
 ---
-has_time_started: 1880-01-01 
+has_time_started: 1880-01-01
 aliases:
-  - Martini
+- Dry martini
+- Martiini
+- Martini
+- Martini (cocktail)
+- martinio
+- Μαρτίνι
+- Мартіні
+- Мартини
+- Мартыні
+- Մարտինի (կոկտեյլ)
+- מארטיני
+- מרטיני
+- مارتيني
+- مارتینی
+- มาร์ทีนี (ค็อกเทล)
+- მარტინი (კოქტეილი)
+- マティーニ
+- 馬丁尼
+- 馬天尼
+- 马天尼
+- 마티니
 has_id_wikidata: Q273027
 subclass_of: '[[_Standards/WikiData/WD~cocktail,134768]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~vermouth,231088]]'
-  - '[[_Standards/WikiData/WD~gin,959362]]'
-  - '[[_Standards/WikiData/WD~cocktail_glass,1105343]]'
-  - '[[_Standards/WikiData/WD~olive,1621080]]'
-  - '[[_Standards/WikiData/WD~lemon_twist,26877166]]'
-  - '[[_Standards/WikiData/WD~dry_vermouth,26877423]]'
+- '[[_Standards/WikiData/WD~vermouth,231088]]'
+- '[[_Standards/WikiData/WD~gin,959362]]'
+- '[[_Standards/WikiData/WD~cocktail_glass,1105343]]'
+- '[[_Standards/WikiData/WD~olive,1621080]]'
+- '[[_Standards/WikiData/WD~lemon_twist,26877166]]'
+- '[[_Standards/WikiData/WD~dry_vermouth,26877423]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~gin,959362]]'
-  - '[[_Standards/WikiData/WD~cocktail_glass,1105343]]'
-  - '[[_Standards/WikiData/WD~olive,1621080]]'
-  - '[[_Standards/WikiData/WD~lemon_twist,26877166]]'
-  - '[[_Standards/WikiData/WD~dry_vermouth,26877423]]'
+- '[[_Standards/WikiData/WD~gin,959362]]'
+- '[[_Standards/WikiData/WD~cocktail_glass,1105343]]'
+- '[[_Standards/WikiData/WD~olive,1621080]]'
+- '[[_Standards/WikiData/WD~lemon_twist,26877166]]'
+- '[[_Standards/WikiData/WD~dry_vermouth,26877423]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~IBA_official_cocktail,2536409]]'
-  - '[[_Standards/WikiData/WD~Q4227461,4227461]]'
+- '[[_Standards/WikiData/WD~IBA_official_cocktail,2536409]]'
+- '[[_Standards/WikiData/WD~Q4227461,4227461]]'
 named_after: '[[_Standards/WikiData/WD~Alessandro_Martini,3610132]]'
 derivative_work: '[[_Standards/WikiData/WD~Dirty_Martini,26879765]]'
 inception: 1880-01-01T00:00:00Z
@@ -29,8 +49,65 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Dry%20Martini-2.jpg
 described_at_URL: https://iba-world.com/iba-official-cocktails/dry-martini/
 Commons_category: Martini (cocktail)
 official_website: https://iba-world.com/iba-cocktails/
+dv_has_:
+  name_:
+    ar: مارتيني
+    ast: Martini
+    az: Martini
+    be-tarask: Мартыні
+    bg: Мартини
+    ca: Martini
+    cs: Martini
+    da: Dry martini
+    de: Martini
+    el: Μαρτίνι
+    en: Martini
+    eo: martinio
+    es: Martini
+    et: Martiini
+    eu: Martini
+    fa: مارتینی
+    fi: Martini
+    fr: martini
+    gl: Martini
+    he: מרטיני
+    hu: martini
+    hy: Մարտինի (կոկտեյլ)
+    id: Martini
+    is: Martini
+    it: Martini
+    ja: マティーニ
+    jv: Martini
+    ka: მარტინი (კოქტეილი)
+    ko: 마티니
+    la: Dry martini
+    mk: мартини
+    nb: martini
+    nl: Martini
+    oc: Martini
+    pl: Martini
+    pt: Martini
+    ro: Martini
+    ru: Мартини
+    sr: Мартини
+    sr-ec: Мартини
+    sr-el: Martini
+    sv: Dry martini
+    th: มาร์ทีนี (ค็อกเทล)
+    tr: Martini
+    uk: Мартіні
+    vi: Martini (cocktail)
+    wuu: 马天尼
+    yi: מארטיני
+    yue: 馬天尼
+    zh: 馬丁尼
+    zh-cn: 马天尼
+    zh-hans: 马天尼
+    zh-hant: 馬丁尼
+    zh-hk: 馬天尼
+    zh-sg: 马天尼
+    zh-tw: 馬丁尼
 ---
-
 # [[Martini]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Martini,273027|WD~Martini,273027]]

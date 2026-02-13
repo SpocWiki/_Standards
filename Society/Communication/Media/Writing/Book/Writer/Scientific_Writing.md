@@ -1,8 +1,70 @@
 ---
 has_id_wikidata: Q1965486
+dv_has_:
+  name_:
+    ar: الكتابة العلمية
+    az: elmi stil
+    be: навуковы стыль
+    be-tarask: навуковы стыль
+    ca: text científic
+    de: wissenschaftliches Schreiben und Veröffentlichen
+    en: scientific style
+    eo: scienca stilo
+    es: discurso científico
+    eu: diskurtso zientifiko
+    fa: نگارش علمی
+    fi: tieteellinen tyyli
+    fr: style scientifique
+    he: סגנון מדעי
+    hi: वैज्ञानिक लेखन
+    hu: tudományos stílus
+    hy: Գիտական ոճ
+    ja: 科学的記述法
+    kaa: Ilimiy stil
+    kk: Ғылыми стиль
+    lt: mokslinis stilius
+    nb: vitenskapelig skrivning
+    nn: vitskapleg skriving
+    pl: styl naukowy
+    pt: estilo científico
+    ru: научный стиль
+    sl: znanstveni slog
+    tr: bilimsel yazı
+    tt: фәнни стиль
+    uk: науковий стиль мовлення
+    zh: 科學寫作
+aliases:
+- bilimsel yazı
+- discurso científico
+- diskurtso zientifiko
+- elmi stil
+- estilo científico
+- Ilimiy stil
+- mokslinis stilius
+- scienca stilo
+- scientific style
+- styl naukowy
+- style scientifique
+- text científic
+- tieteellinen tyyli
+- tudományos stílus
+- vitenskapelig skrivning
+- vitskapleg skriving
+- wissenschaftliches Schreiben und Veröffentlichen
+- znanstveni slog
+- навуковы стыль
+- науковий стиль мовлення
+- научный стиль
+- фәнни стиль
+- Ғылыми стиль
+- Գիտական ոճ
+- סגנון מדעי
+- الكتابة العلمية
+- نگارش علمی
+- वैज्ञानिक लेखन
+- 科学的記述法
+- 科學寫作
 ---
-
-
 # [[Scientific_Writing]]
 
 

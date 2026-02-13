@@ -1,11 +1,130 @@
 ---
 aliases:
-  - List_of_Nobel_laureates_in_Chemistry
-  - Nobel Prize in Chemistry
-  - Nobelpriset i kemi
-  - Chemistry_Nobel_Prize
-  - Chemistry Nobel Prize
+- Appendice:Lista de premiatos del Premio Nobel pro Chimia
+- Chemistry Nobel Prize
+- Chemistry_Nobel_Prize
+- Daftar penerima Nobel Kimia
+- Danh sách người đoạt giải Nobel Hóa học
+- Ganadores del Premio Nobel de Química
+- Gañadores do Premio Nobel de Química
+- Kimya üzrə Nobel mükafatçılarının siyahısı
+- Kimyo boʻyicha Nobel mukofoti sovrindorlari roʻyxati
+- Laureados com o Nobel de Química
+- Lies vaan Nobelprieswinners (sjemie)
+- Lischt vu dr Nobelbryysdreger fir Chemii
+- list of Nobel laureates in Chemistry
+- lista laureatów Nagrody Nobla w dziedzinie chemii
+- lista laureaților Premiului Nobel pentru Chimie
+- lista över nobelpristagare i kemi
+- Liste der Nobelpreisträger für Chemie
+- liste des lauréats du prix Nobel de chimie
+- liste over modtagere af Nobelprisen i kemi
+- liste over nobelprisvinnere i kjemi
+- listo di Nobel-laureati pri kemio
+- listo Nobel-kemiapalhâšume vyeittein
+- List_of_Nobel_laureates_in_Chemistry
+- llista de guardonats amb el Premi Nobel de Química
+- luettelo Nobelin kemianpalkinnon saaneista
+- Lëscht vun de Laureate vum Nobelpräis fir Chimie
+- Lîsteya xelatwergirên Xelata Nobelê ya Kîmyayê
+- Nobel Kimya Ödülü sahipleri listesi
+- Nobel Prize in Chemistry
+- Nobela prēmijas laureāti ķīmijā
+- Nobelpriset i kemi
+- Senarai penerima Hadiah Nobel dalam Kimia
+- Seznam nositelů Nobelovy ceny za chemii
+- Spisak dobitnika Nobelove nagrade za hemiju
+- Sąrašas:Nobelio chemijos premijos laureatai
+- vincitori del premio Nobel per la chimica
+- Vincitura dû Nobel pâ chìmica
+- Zoznam nositeľov Nobelovej ceny za chémiu
+- Κατάλογος βραβευθέντων με Νόμπελ Χημείας
+- спіс лаўрэатаў Нобелеўскай прэміі па хіміі
+- Списак добитника Нобелове награде за хемију
+- список лауреатів Нобелівської премії з хімії
+- список лауреатов Нобелевской премии по химии
+- сьпіс нобэлеўскіх ляўрэатаў па хіміі
+- Химиядан Нобель сыйлығы
+- علم ڪيميا ۾ نوبل انعام کڻندڙ جي فهرست
+- فهرست برندگان جایزه نوبل شیمی
+- قائمة الحاصلين على جائزة نوبل في الكيمياء
+- نوبل انعام برائے کیمیا وصول کنندگان دی لسٹ
+- نوبل کیمیا اؤدولو صاحیبلری لیستی
+- پێرستی وەرگرانی خەڵاتی نۆبێل لە کیمیا
+- کیمیاء میں نوبیل انعام وصول کنندگان کی فہرست
+- रसायन विज्ञान में नोबेल पुरस्कार विजेताओं की सूची
+- ন'বেল বঁটা বিজয়ী
+- রসায়নে নোবেল বিজয়ীদের তালিকা
+- வேதியியலுக்கான நோபல் பரிசு பெற்றவர்கள்
+- ნობელის პრემიის ლაურეატები ქიმიის დარგში
+- បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែកគីមីវិទ្យា
+- ノーベル化学賞受賞者の一覧
+- 诺贝尔化学奖得主列表
+- 노벨 화학상 수상자 목록
 has_id_wikidata: Q7564201
+dv_has_:
+  name_:
+    ar: قائمة الحاصلين على جائزة نوبل في الكيمياء
+    as: ন'বেল বঁটা বিজয়ী
+    az: Kimya üzrə Nobel mükafatçılarının siyahısı
+    azb: نوبل کیمیا اؤدولو صاحیبلری لیستی
+    be: спіс лаўрэатаў Нобелеўскай прэміі па хіміі
+    be-tarask: сьпіс нобэлеўскіх ляўрэатаў па хіміі
+    bn: রসায়নে নোবেল বিজয়ীদের তালিকা
+    bs: Spisak dobitnika Nobelove nagrade za hemiju
+    ca: llista de guardonats amb el Premi Nobel de Química
+    ckb: پێرستی وەرگرانی خەڵاتی نۆبێل لە کیمیا
+    cs: Seznam nositelů Nobelovy ceny za chemii
+    da: liste over modtagere af Nobelprisen i kemi
+    de: Liste der Nobelpreisträger für Chemie
+    de-ch: Liste der Nobelpreisträger für Chemie
+    el: Κατάλογος βραβευθέντων με Νόμπελ Χημείας
+    en: list of Nobel laureates in Chemistry
+    en-ca: List of Nobel laureates in Chemistry
+    en-gb: List of Nobel laureates in Chemistry
+    es: Ganadores del Premio Nobel de Química
+    fa: فهرست برندگان جایزه نوبل شیمی
+    fi: luettelo Nobelin kemianpalkinnon saaneista
+    fr: liste des lauréats du prix Nobel de chimie
+    gl: Gañadores do Premio Nobel de Química
+    gsw: Lischt vu dr Nobelbryysdreger fir Chemii
+    hi: रसायन विज्ञान में नोबेल पुरस्कार विजेताओं की सूची
+    ia: Appendice:Lista de premiatos del Premio Nobel pro Chimia
+    id: Daftar penerima Nobel Kimia
+    io: listo di Nobel-laureati pri kemio
+    it: vincitori del premio Nobel per la chimica
+    ja: ノーベル化学賞受賞者の一覧
+    ka: ნობელის პრემიის ლაურეატები ქიმიის დარგში
+    kk: Химиядан Нобель сыйлығы
+    km: បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែកគីមីវិទ្យា
+    ko: 노벨 화학상 수상자 목록
+    ku: Lîsteya xelatwergirên Xelata Nobelê ya Kîmyayê
+    lb: Lëscht vun de Laureate vum Nobelpräis fir Chimie
+    li: Lies vaan Nobelprieswinners (sjemie)
+    lt: Sąrašas:Nobelio chemijos premijos laureatai
+    lv: Nobela prēmijas laureāti ķīmijā
+    ms: Senarai penerima Hadiah Nobel dalam Kimia
+    nb: liste over nobelprisvinnere i kjemi
+    pl: lista laureatów Nagrody Nobla w dziedzinie chemii
+    pnb: نوبل انعام برائے کیمیا وصول کنندگان دی لسٹ
+    pt: Laureados com o Nobel de Química
+    pt-br: Laureados com o Nobel de Química
+    ro: lista laureaților Premiului Nobel pentru Chimie
+    ru: список лауреатов Нобелевской премии по химии
+    scn: Vincitura dû Nobel pâ chìmica
+    sd: علم ڪيميا ۾ نوبل انعام کڻندڙ جي فهرست
+    sk: Zoznam nositeľov Nobelovej ceny za chémiu
+    smn: listo Nobel-kemiapalhâšume vyeittein
+    sq: list of Nobel laureates in Chemistry
+    sr: Списак добитника Нобелове награде за хемију
+    sv: lista över nobelpristagare i kemi
+    ta: வேதியியலுக்கான நோபல் பரிசு பெற்றவர்கள்
+    tr: Nobel Kimya Ödülü sahipleri listesi
+    uk: список лауреатів Нобелівської премії з хімії
+    ur: کیمیاء میں نوبیل انعام وصول کنندگان کی فہرست
+    uz: Kimyo boʻyicha Nobel mukofoti sovrindorlari roʻyxati
+    vi: Danh sách người đoạt giải Nobel Hóa học
+    zh: 诺贝尔化学奖得主列表
 ---
 ## #has_/text_of_/abstract 
 

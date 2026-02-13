@@ -1,14 +1,94 @@
 ---
 aliases:
-  - optical fiber, or optical fibre
-  - Optical_Fiber
-  - Optical Fiber
+- ffb optik
+- ffibr optig
+- fibbra ottica
+- fiber optics
+- fiberoptik
+- fiberoptikk
+- fibra optica
+- fibra ottica
+- fibra òptica
+- fibra óptica
+- fibrat optike
+- fibre optique
+- fibrenn optikel
+- fibră optică
+- gentian optik
+- isirg asekdan
+- kaaule o'ukaasü
+- Lichtwellenleiter
+- lysleder
+- Optical Fiber
+- optical fiber, or optical fibre
+- optical fibre
+- Optical_Fiber
+- optické vlákno
+- optiese vesel
+- optik lif
+- optik tola
+- optika fibro
+- optikai szál
+- optische vezel
+- optisk fiber
+- optiskā šķiedra
+- optičko vlakno
+- optično vlakno
+- sabot nga optika
+- serat optik
+- snáithín optúil
+- sợi quang học
+- Uzi wa kioo
+- valgusjuhe
+- valokuitu
+- zuntz optiko
+- światłowód
+- šviesolaidis
+- οπτική ίνα
+- нахи нурӣ
+- оптавалакно
+- оптик сүс
+- оптическое волокно
+- оптичко влакно
+- оптично влакно
+- оптоволокно
+- сәулежол
+- օպտիկական թելք
+- אפטישע פֿיברע
+- סיב אופטי
+- خيط أوپتيكي
+- فیبر نوری
+- ليف بصري
+- نوري فایبر
+- نوری فیبر
+- کێبڵی تیشکی
+- अप्टिकल फाइबर
+- ऑप्टिकल फाइबर
+- प्रकाशवाहक तंतू
+- प्रकाशीय तन्तु
+- অপটিক্যাল ফাইবার
+- আলোক তন্তু
+- ਪ੍ਰਕਾਸ਼ੀ ਤੰਦ
+- ஒளியிழை
+- ಆಪ್ಟಿಕಲ್ ಫೈಬರ್
+- ದ್ಯುತಿ ಇರೆಕುಲು
+- ഒപ്റ്റിക്കൽ ഫൈബർ
+- ප්රකාශ තන්තු
+- ใยแก้วนำแสง
+- အလင်းဖန်မျှင်
+- ოპტიკური ბოჭკო
+- 光ファイバー
+- 光导纤维
+- 光導纖維
+- 光纖
+- 광섬유
+- 빛섬유
 has_id_wikidata: Q162
 part_of: '[[_Standards/WikiData/WD~optical_fiber_cable,197961]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electromagnetic_waveguide,354724]]'
-  - '[[_Standards/WikiData/WD~optical_waveguide,3191702]]'
-  - '[[_Standards/WikiData/WD~glass_fiber,5861]]'
+- '[[_Standards/WikiData/WD~electromagnetic_waveguide,354724]]'
+- '[[_Standards/WikiData/WD~optical_waveguide,3191702]]'
+- '[[_Standards/WikiData/WD~glass_fiber,5861]]'
 different_from: '[[_Standards/WikiData/WD~LWL,561222]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fiber%20optic%20cables%20%E2%80%94%20How%20they%20work.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fibreoptic.jpg
@@ -18,8 +98,111 @@ Libris_URI: hftwvd212hdtjdf
 Commons_gallery: Optical fiber
 Commons_category: Optical fibers
 short_name: LWL
+dv_has_:
+  name_:
+    af: optiese vesel
+    ar: ليف بصري
+    ary: خيط أوپتيكي
+    as: আলোক তন্তু
+    ast: fibra óptica
+    az: optik lif
+    be-tarask: оптавалакно
+    bg: оптично влакно
+    bho: ऑप्टिकल फाइबर
+    bn: অপটিক্যাল ফাইবার
+    br: fibrenn optikel
+    bs: optičko vlakno
+    ca: fibra òptica
+    ckb: کێبڵی تیشکی
+    cs: optické vlákno
+    cy: ffibr optig
+    da: lysleder
+    de: Lichtwellenleiter
+    de-ch: Lichtwellenleiter
+    dty: अप्टिकल फाइबर
+    el: οπτική ίνα
+    en: optical fiber
+    en-ca: optical fibre
+    en-gb: optical fibre
+    en-us: optical fiber
+    eo: optika fibro
+    es: fibra óptica
+    et: valgusjuhe
+    eu: zuntz optiko
+    fa: فیبر نوری
+    fi: valokuitu
+    fr: fibre optique
+    ga: snáithín optúil
+    gl: fibra óptica
+    guc: kaaule o'ukaasü
+    he: סיב אופטי
+    hi: प्रकाशीय तन्तु
+    hr: optičko vlakno
+    ht: ffb optik
+    hu: optikai szál
+    hy: օպտիկական թելք
+    id: serat optik
+    it: fibra ottica
+    ja: 光ファイバー
+    ka: ოპტიკური ბოჭკო
+    kab: isirg asekdan
+    kk: сәулежол
+    kn: ಆಪ್ಟಿಕಲ್ ಫೈಬರ್
+    ko: 광섬유
+    ko-kp: 빛섬유
+    la: fibra optica
+    lt: šviesolaidis
+    lv: optiskā šķiedra
+    lzh: 光纖
+    mk: оптичко влакно
+    ml: ഒപ്റ്റിക്കൽ ഫൈബർ
+    mr: प्रकाशवाहक तंतू
+    ms: gentian optik
+    my: အလင်းဖန်မျှင်
+    mzn: نوری فیبر
+    nb: fiberoptikk
+    ne: अप्टिकल फाइबर
+    nl: optische vezel
+    nn: optisk fiber
+    oc: fibra optica
+    pa: ਪ੍ਰਕਾਸ਼ੀ ਤੰਦ
+    pl: światłowód
+    ps: نوري فایبر
+    pt: fibra óptica
+    pt-br: fibra óptica
+    ro: fibră optică
+    ru: оптическое волокно
+    scn: fibbra ottica
+    sh: optičko vlakno
+    si: ප්රකාශ තන්තු
+    sk: optické vlákno
+    sl: optično vlakno
+    sq: fibrat optike
+    sr: оптичко влакно
+    su: serat optik
+    sv: fiberoptik
+    sw: Uzi wa kioo
+    ta: ஒளியிழை
+    tcy: ದ್ಯುತಿ ಇರೆಕುಲು
+    te: optical fiber
+    tg: нахи нурӣ
+    th: ใยแก้วนำแสง
+    tl: fiber optics
+    tr: fiberoptik
+    tt: оптик сүс
+    tt-cyrl: оптик сүс
+    uk: оптоволокно
+    uz: optik tola
+    vi: sợi quang học
+    war: sabot nga optika
+    wuu: 光导纤维
+    yi: אפטישע פֿיברע
+    yue: 光纖
+    zh: 光導纖維
+    zh-hans: 光导纤维
+    zh-hant: 光導纖維
+    zh-tw: 光導纖維
 ---
-
 # [[Optical_Fiber]] 
 
 #is_/same_as :: [[WD~Optical_fiber,162]] 

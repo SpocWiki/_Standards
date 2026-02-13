@@ -1,31 +1,68 @@
 ---
-has_time_started: 1594-01-01 
+has_time_started: 1594-01-01
 aliases:
-  - Comedy of Errors
-  - Die Komödie der Irrungen
-  - La Comédie des erreurs
-  - Comedy_of_Errors
+- Comedia erorilor
+- Comedy of Errors
+- Comedy_of_Errors
+- Die Komödie der Irrungen
+- Erehdysten komedia
+- Förvillelser
+- In Komeedzje Fol Fersinnen
+- Klaidų komedija
+- Komedia omyłek
+- Komedie omylů
+- Komedija zmešnjav
+- La comedia de las equivocaciones
+- La commedia degli errori
+- La comèdia dels errors
+- La Comédie des erreurs
+- La komedio de eraroj
+- The Comedy of Errors
+- Tévedések vígjátéka
+- Xatolar komediyasi
+- Yanlışlıklar Komedisi
+- Η Κωμωδία των Παρεξηγήσεων
+- Забуне
+- Комедія помилок
+- Комедия от грешки
+- Комедия ошибок
+- Қателіктер комедиясы
+- Սխալների կատակերգություն
+- קומדיה של טעויות
+- دی کامیڈی آف ایررز
+- كوميديا الأخطاء
+- کمدی اشتباهات
+- द कॉमेडी ऑफ एरर्स
+- কমেডী অৱ এৰ'ৰচ
+- দ্য কমেডি অফ এররস
+- ది కామెడీ ఆఫ్ ఎర్రర్స్
+- ದಿ ಕಾಮೆಡಿ ಆಫ್ ಎರರ್ಸ್
+- 孿誤
+- 錯誤的喜劇
+- 間違いの喜劇
+- 難得糊塗
+- 실수 연발
 has_id_wikidata: Q506505
 genre: '[[_Standards/WikiData/WD~Shakespearean_comedy,1152184]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~The_Bomb_itty_of_Errors,7719064]]'
-  - '[[_Standards/WikiData/WD~Q47430252,47430252]]'
-  - '[[_Standards/WikiData/WD~The_Comedy_of_Errors,55947259]]'
+- '[[_Standards/WikiData/WD~The_Bomb_itty_of_Errors,7719064]]'
+- '[[_Standards/WikiData/WD~Q47430252,47430252]]'
+- '[[_Standards/WikiData/WD~The_Comedy_of_Errors,55947259]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Short_stories_from_Shakespeare,54461755]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Short_stories_from_Shakespeare,54461755]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Q98932778,98932778]]'
-  - '[[_Standards/WikiData/WD~Q102484301,102484301]]'
-  - '[[_Standards/WikiData/WD~Komedya_omyłek,107348047]]'
-  - '[[_Standards/WikiData/WD~The_Comedy_of_Errors,107607689]]'
-  - '[[_Standards/WikiData/WD~Q114797610,114797610]]'
-  - '[[_Standards/WikiData/WD~Q114797611,114797611]]'
-  - '[[_Standards/WikiData/WD~Q114797609,114797609]]'
-  - '[[_Standards/WikiData/WD~Q114797615,114797615]]'
-  - '[[_Standards/WikiData/WD~Q114797613,114797613]]'
+- '[[_Standards/WikiData/WD~Q98932778,98932778]]'
+- '[[_Standards/WikiData/WD~Q102484301,102484301]]'
+- '[[_Standards/WikiData/WD~Komedya_omyłek,107348047]]'
+- '[[_Standards/WikiData/WD~The_Comedy_of_Errors,107607689]]'
+- '[[_Standards/WikiData/WD~Q114797610,114797610]]'
+- '[[_Standards/WikiData/WD~Q114797611,114797611]]'
+- '[[_Standards/WikiData/WD~Q114797609,114797609]]'
+- '[[_Standards/WikiData/WD~Q114797615,114797615]]'
+- '[[_Standards/WikiData/WD~Q114797613,114797613]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~dramatic_work,116476516]]'
+- '[[_Standards/WikiData/WD~dramatic_work,116476516]]'
 publication_date: 1734-01-01T00:00:00Z
 inception: 1594-01-01T00:00:00Z
 author: '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
@@ -38,11 +75,60 @@ Commons_category: The Comedy of Errors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FirstFolioComedy.jpg
 P8189: 987007520685105171
 first_line:
-  - EGEON, a merchant from Syracuse
-  - Proceed, Solinus, to procure my fall
-  - and by the doom of death end woes and all.
+- EGEON, a merchant from Syracuse
+- Proceed, Solinus, to procure my fall
+- and by the doom of death end woes and all.
+dv_has_:
+  name_:
+    af: The Comedy of Errors
+    ar: كوميديا الأخطاء
+    as: কমেডী অৱ এৰ'ৰচ
+    bg: Комедия от грешки
+    bn: দ্য কমেডি অফ এররস
+    ca: La comèdia dels errors
+    cs: Komedie omylů
+    de: Die Komödie der Irrungen
+    el: Η Κωμωδία των Παρεξηγήσεων
+    en: The Comedy of Errors
+    eo: La komedio de eraroj
+    es: La comedia de las equivocaciones
+    fa: کمدی اشتباهات
+    fi: Erehdysten komedia
+    fr: La Comédie des erreurs
+    fy: In Komeedzje Fol Fersinnen
+    ga: The Comedy of Errors
+    he: קומדיה של טעויות
+    hi: द कॉमेडी ऑफ एरर्स
+    hu: Tévedések vígjátéka
+    hy: Սխալների կատակերգություն
+    id: The Comedy of Errors
+    it: La commedia degli errori
+    ja: 間違いの喜劇
+    kk: Қателіктер комедиясы
+    kn: ದಿ ಕಾಮೆಡಿ ಆಫ್ ಎರರ್ಸ್
+    ko: 실수 연발
+    la: The Comedy of Errors
+    lt: Klaidų komedija
+    lzh: 孿誤
+    nl: The Comedy of Errors
+    pl: Komedia omyłek
+    pt: The Comedy of Errors
+    ro: Comedia erorilor
+    ru: Комедия ошибок
+    sl: Komedija zmešnjav
+    sr: Забуне
+    sv: Förvillelser
+    te: ది కామెడీ ఆఫ్ ఎర్రర్స్
+    tr: Yanlışlıklar Komedisi
+    uk: Комедія помилок
+    ur: دی کامیڈی آف ایررز
+    uz: Xatolar komediyasi
+    yue: 難得糊塗
+    zh: 錯誤的喜劇
+    zh-hans: comedy of errors
+    zh-hk: 難得糊塗
+    zh-tw: 錯誤的喜劇
 ---
-
 # [[Comedy_of_Errors]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Comedy_of_Errors,506505|WD~Comedy_of_Errors,506505]] 

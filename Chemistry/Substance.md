@@ -1,56 +1,316 @@
 ---
 aliases:
-  - substance
-  - substance
-  - Substance
-  - is_a_substance
-  - Matter
+- aine
+- anyag
+- ayafu
+- butang
+- bu̍t-chit
+- damhna
+- hmota
+- ijo (nasin sona)
+- Imayay
+- is_a_substance
+- jirim
+- lo marji
+- lënda
+- maatar
+- madde
+- Mata
+- matearje
+- mateeriä
+- mateia
+- mater
+- Materi
+- materia
+- Materie
+- materija
+- materio
+- materiya
+- materja
+- materya
+- matière
+- Matter
+- maturo
+- Matyè
+- Matyèr
+- matèri
+- matèria
+- matéri
+- matéria
+- matērija
+- mba'e
+- Nabuzimbe
+- ne-ne
+- snov
+- stof
+- substance
+- Vu̍t-chṳt
+- vật chất
+- watana
+- Xiaka-Swilo
+- zaka
+- Èlò
+- Ŭk-cék
+- ύλη
+- Аваулемкс
+- Бодис
+- буаргъæд
+- Зат
+- йăмлăх
+- матдә
+- матерія
+- материја
+- материя
+- матэрыя
+- модда
+- մատերիա
+- חומר
+- מאטריאל
+- جيريم
+- مادة
+- ماددا
+- ماددە
+- ماده
+- ماده (فیزیک)
+- مادو
+- مادہ
+- میٹر تے ایندیاں قسماں
+- پَدارتھ
+- द्रव्यम्
+- पदार्थ
+- फेज (पदार्थ)
+- পদার্থ
+- ਪਦਾਰਥ
+- ପଦାର୍ଥ
+- பொருள்
+- పదార్థము
+- ದ್ರವ್ಯ
+- ദ്രവ്യം
+- පදාර්ථය
+- สสาร
+- དངོས་པོ།
+- ဒြပ်
+- მატერია
+- ቁስ አካል
+- ᎢᏳᏍᏗᏊ
+- រូបធាតុ
+- ⵜⴰⵏⴳⴰ
+- 物質
+- 物质
+- 물질
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/105590001
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - substance
-layout: ""
+- substance
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_substance Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_substance Class
 type: Type
 dv_is_:
-  parent_class: "[[../MedicalEntity]]"
+  parent_class: '[[../MedicalEntity]]'
   same_as:
-    - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
-    - "[[/_Standards/Chemistry/Substance|Substance]]"
-    - "[[/_public/Chemistry/Substance.public|Substance.public]]"
-    - "[[/_internal/Chemistry/Substance.internal|Substance.internal]]"
-    - "[[/_protect/Chemistry/Substance.protect|Substance.protect]]"
-    - "[[/_private/Chemistry/Substance.private|Substance.private]]"
-    - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
-    - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
+  - '[[../WikiData/WD~Matter,35758|WD~Matter,35758]]'
+  - '[[/_Standards/Chemistry/Substance|Substance]]'
+  - '[[/_public/Chemistry/Substance.public|Substance.public]]'
+  - '[[/_internal/Chemistry/Substance.internal|Substance.internal]]'
+  - '[[/_protect/Chemistry/Substance.protect|Substance.protect]]'
+  - '[[/_private/Chemistry/Substance.private|Substance.private]]'
+  - '[[/_personal/Chemistry/Substance.personal|Substance.personal]]'
+  - '[[/_secret/Chemistry/Substance.secret|Substance.secret]]'
 dv_has_:
-  child_class: "[ DietarySupplement, Drug ]"
-  properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
-dv_has_parent_class: "[[../MedicalEntity]]"
-dv_has_child_class: "[ DietarySupplement, Drug ]"
-dv_has_properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
+  child_class: '[ DietarySupplement, Drug ]'
+  name_:
+    af: materie
+    am: ቁስ አካል
+    anp: पदार्थ
+    ar: مادة
+    ary: مادة
+    ast: materia
+    az: materiya
+    azb: ماده (فیزیک)
+    ba: материя
+    bcl: materya
+    be: матэрыя
+    be-tarask: матэрыя
+    bg: материя
+    bho: पदार्थ
+    blk: ဒြပ်
+    bn: পদার্থ
+    bo: དངོས་པོ།
+    bs: materija
+    ca: matèria
+    cdo: Ŭk-cék
+    ceb: butang
+    chr: ᎢᏳᏍᏗᏊ
+    ckb: ماددە
+    cs: hmota
+    cv: йăмлăх
+    cy: mater
+    da: stof
+    de: Materie
+    el: ύλη
+    en: matter
+    eo: materio
+    es: materia
+    et: aine
+    eu: materia
+    ext: materia
+    fa: ماده (فیزیک)
+    fi: aine
+    fr: matière
+    fy: matearje
+    ga: damhna
+    gcr: Matyèr
+    gl: materia
+    gn: mba'e
+    hak: Vu̍t-chṳt
+    he: חומר
+    hi: पदार्थ
+    hr: materija
+    ht: Matyè
+    hu: anyag
+    hy: մատերիա
+    ia: materia
+    id: materi
+    io: materio
+    it: materia
+    ja: 物質
+    jam: Mata
+    jbo: lo marji
+    jv: matèri
+    ka: მატერია
+    kaa: materiya
+    kab: ayafu
+    kk: Зат
+    km: រូបធាតុ
+    kn: ದ್ರವ್ಯ
+    ko: 물질
+    ks: پَدارتھ
+    ku: madde
+    ky: материя
+    la: materia
+    lb: Matière
+    lg: Nabuzimbe
+    lij: mateia
+    lt: materija
+    lv: matērija
+    lzh: 物質
+    mag: पदार्थ
+    map-bms: materi
+    mg: zaka
+    min: Materi
+    mk: материја
+    ml: ദ്രവ്യം
+    mn: Бодис
+    mr: पदार्थ
+    ms: jirim
+    ms-arab: جيريم
+    mt: materja
+    mwl: matéria
+    my: ဒြပ်
+    myv: Аваулемкс
+    nan: bu̍t-chit
+    nb: materie
+    nds: Materie
+    ne: पदार्थ
+    new: फेज (पदार्थ)
+    nl: materie
+    nn: materie
+    nov: materie
+    oc: matèria
+    om: watana
+    or: ପଦାର୍ଥ
+    os: буаргъæд
+    pa: ਪਦਾਰਥ
+    pap: materia
+    pl: materia
+    pnb: مادہ
+    ps: ماده
+    pt: matéria
+    pt-br: matéria
+    qu: Imayay
+    rm: Materia
+    ro: materie
+    ru: материя
+    sa: द्रव्यम्
+    sah: материя
+    scn: materia
+    sco: matter
+    sd: مادو
+    sh: materija
+    si: පදාර්ථය
+    sk: hmota
+    skr: میٹر تے ایندیاں قسماں
+    sl: snov
+    sn: maturo
+    so: maatar
+    sq: lënda
+    sr: материја
+    sr-ec: материја
+    sr-el: materija
+    su: matéri
+    sv: materia
+    sw: mata
+    ta: பொருள்
+    te: పదార్థము
+    tg: модда
+    th: สสาร
+    tl: materya
+    tok: ijo (nasin sona)
+    tr: madde
+    ts: Xiaka-Swilo
+    tt: матдә
+    udm: материя
+    ug: ماددا
+    uk: матерія
+    ur: مادہ
+    uz: materiya
+    vec: materia
+    vi: vật chất
+    vls: Materie
+    vro: mateeriä
+    war: butang
+    wo: ne-ne
+    wuu: 物質
+    yi: מאטריאל
+    yo: Èlò
+    yue: 物質
+    zgh: ⵜⴰⵏⴳⴰ
+    zh: 物質
+    zh-cn: 物质
+    zh-hans: 物质
+    zh-hant: 物質
+    zh-hk: 物質
+    zh-mo: 物質
+    zh-my: 物质
+    zh-sg: 物质
+    zh-tw: 物質
+    zu: Matter
+  properties: '[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]'
+dv_has_parent_class: '[[../MedicalEntity]]'
+dv_has_child_class: '[ DietarySupplement, Drug ]'
+dv_has_properties: '[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
-  - "[[/_Standards/Chemistry/Substance|Substance]]"
-  - "[[/_public/Chemistry/Substance.public|Substance.public]]"
-  - "[[/_internal/Chemistry/Substance.internal|Substance.internal]]"
-  - "[[/_protect/Chemistry/Substance.protect|Substance.protect]]"
-  - "[[/_private/Chemistry/Substance.private|Substance.private]]"
-  - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
-  - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
+- '[[../WikiData/WD~Matter,35758|WD~Matter,35758]]'
+- '[[/_Standards/Chemistry/Substance|Substance]]'
+- '[[/_public/Chemistry/Substance.public|Substance.public]]'
+- '[[/_internal/Chemistry/Substance.internal|Substance.internal]]'
+- '[[/_protect/Chemistry/Substance.protect|Substance.protect]]'
+- '[[/_private/Chemistry/Substance.private|Substance.private]]'
+- '[[/_personal/Chemistry/Substance.personal|Substance.personal]]'
+- '[[/_secret/Chemistry/Substance.secret|Substance.secret]]'
 has_id_wikidata: Q35758
 ---
 # [[Substance]] 

@@ -1,8 +1,82 @@
 ---
 aliases:
-  - cartilaginous fish
-  - Knorpelfisch
-  - Chondrichthyes
+- Brjóskfiskar
+- broskfiskar
+- bruskfisk
+- bruskfiskar
+- bruskfisker
+- cartilaginous fish
+- Chnorpelfisch
+- Chondrichthyes
+- Condrictians
+- Condrictios
+- Condrictis
+- Condritti
+- Drsnokožce
+- Graselfasker
+- Hrskavičnjače
+- hrustančnice
+- iasc loingeánach
+- Ika niuniu
+- K'apa challwa
+- Kartilagaj fiŝoj
+- Kimerçäkle-qılçıqlı balıqlar
+- Knorpelfisch
+- Knorpelfische
+- Knorpelfësch
+- Kondriktie
+- Kondriktied
+- Kraakbeenvisse
+- kraakbeenvissen
+- Kreakbienfisken
+- kremzlinės žuvys
+- Kroakbêenvisn
+- Kõhrkalad
+- Kıkırdaklı balıklar
+- Lớp Cá sụn
+- masiyên kirkirkdar
+- Nńg-kut-hî
+- paryby
+- Pichons cartiladjineus
+- Pira ikyrýuva
+- porcos halak
+- Qığırdaqlı balıqlar
+- rustokalat
+- Rušljoribe
+- ryby chrzęstnoszkieletowe
+- Skrimšļzivis
+- Togʻayli baliqlar
+- Æргъиуджын кæфтæ
+- Łóóʼ ooshgę́ęzhii
+- Χονδριχθύες
+- Кемирчектүү балыктар
+- Кимерчәкле балыклар
+- Кимерчәкле-кылчыклы балыклар
+- рушљорибе
+- храстковыя рыбы
+- хрущялни риби
+- хрящевые рыбы
+- хрящові риби
+- Шеміршекті балықтар
+- կռճիկային ձկներ
+- דגי סחוס
+- أسماك غضروفية
+- اسماك غضروفيه
+- غضروفماهیان
+- غضروفی کبان
+- قیغیرداقلی بالیقلار
+- مڑکنی مچھیاں
+- ڪانڊرڪٿيز
+- कन्ड्रिक्थिस
+- कॉन्ड्रीइक्थीज़
+- কনড্রিকথিস
+- ಕಾಂಡ್ರಿಕ್ತೈಸ್
+- ปลากระดูกอ่อน
+- ხრტილიანი თევზები
+- ’рскавични риби
+- 軟骨魚綱
+- 软骨鱼纲
+- 연골어류
 has_id_wikidata: Q25371
 described_by_source: '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]'
@@ -20,8 +94,115 @@ EPPO_Code: 1CHONC
 UMLS_CUI: C0327606
 start_time: -430000000-01-01T00:00:00Z
 NBN_System_Key: NBNSYS0000172138
+dv_has_:
+  name_:
+    af: Kraakbeenvisse
+    an: Chondrichthyes
+    ar: أسماك غضروفية
+    arz: اسماك غضروفيه
+    ast: Chondrichthyes
+    az: Qığırdaqlı balıqlar
+    azb: قیغیرداقلی بالیقلار
+    ba: Chondrichthyes
+    be: храстковыя рыбы
+    be-tarask: храстковыя рыбы
+    bg: хрущялни риби
+    bn: কনড্রিকথিস
+    br: Kondriktied
+    bs: Rušljoribe
+    ca: Condrictis
+    ceb: Chondrichthyes
+    cs: paryby
+    da: bruskfisk
+    de: Knorpelfische
+    el: Χονδριχθύες
+    en: Chondrichthyes
+    eo: Kartilagaj fiŝoj
+    es: Chondrichthyes
+    et: Kõhrkalad
+    eu: Kondriktie
+    ext: Chondrichthyes
+    fa: غضروفماهیان
+    fi: rustokalat
+    fr: Chondrichthyes
+    frr: Graselfasker
+    fy: Kreakbienfisken
+    ga: iasc loingeánach
+    gl: Condrictios
+    gn: Pira ikyrýuva
+    gsw: Chnorpelfisch
+    he: דגי סחוס
+    hi: कॉन्ड्रीइक्थीज़
+    hr: Hrskavičnjače
+    hu: porcos halak
+    hy: կռճիկային ձկներ
+    ia: Chondrichthyes
+    id: Chondrichthyes
+    ie: Chondrichthyes
+    io: Chondrichthyes
+    is: Brjóskfiskar
+    it: Condritti
+    ja: 軟骨魚綱
+    jv: Chondrichthyes
+    ka: ხრტილიანი თევზები
+    kk: Шеміршекті балықтар
+    kn: ಕಾಂಡ್ರಿಕ್ತೈಸ್
+    ko: 연골어류
+    ku-latn: masiyên kirkirkdar
+    ky: Кемирчектүү балыктар
+    la: Chondrichthyes
+    lb: Knorpelfësch
+    lij: Chondrichthyes
+    lt: kremzlinės žuvys
+    lv: Skrimšļzivis
+    mk: ’рскавични риби
+    mrj: Chondrichthyes
+    ms: Chondrichthyes
+    mul: Chondrichthyes
+    nan: Nńg-kut-hî
+    nb: bruskfisker
+    new: कन्ड्रिक्थिस
+    nl: kraakbeenvissen
+    nn: bruskfiskar
+    nv: Łóóʼ ooshgę́ęzhii
+    oc: Condrictians
+    os: Æргъиуджын кæфтæ
+    pcd: Pichons cartiladjineus
+    pl: ryby chrzęstnoszkieletowe
+    pnb: مڑکنی مچھیاں
+    ps: غضروفی کبان
+    pt: Chondrichthyes
+    pt-br: Chondrichthyes
+    qu: K'apa challwa
+    ro: Chondrichthyes
+    ru: хрящевые рыбы
+    sd: ڪانڊرڪٿيز
+    sh: Hrskavičnjače
+    sk: Drsnokožce
+    sl: hrustančnice
+    sq: Chondrichthyes
+    sr: рушљорибе
+    sv: broskfiskar
+    th: ปลากระดูกอ่อน
+    tl: Chondrichthyes
+    to: Ika niuniu
+    tr: Kıkırdaklı balıklar
+    tt: Кимерчәкле балыклар
+    tt-cyrl: Кимерчәкле-кылчыклы балыклар
+    tt-latn: Kimerçäkle-qılçıqlı balıqlar
+    uk: хрящові риби
+    uz: Togʻayli baliqlar
+    vi: Lớp Cá sụn
+    vls: Kroakbêenvisn
+    vo: Chondrichthyes
+    war: Chondrichthyes
+    wuu: 软骨鱼纲
+    yue: 軟骨魚綱
+    zh: 软骨鱼纲
+    zh-cn: 软骨鱼纲
+    zh-hans: 软骨鱼纲
+    zh-tw: 軟骨魚綱
 ---
-
 # [[Chondrichthyes]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Chondrichthyes,25371|WD~Chondrichthyes,25371]] 

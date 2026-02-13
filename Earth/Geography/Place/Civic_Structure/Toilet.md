@@ -1,54 +1,160 @@
 ---
 aliases:
-  - toilet
-  - Toilet
-  - is_a_toilet
-  - Lavatory
+- Agu
+- avdestxane
+- banyo
+- cesso
+- cessu
+- chimbuzi
+- choo
+- cuitlacalli
+- doengjnyouh
+- escusau
+- húske
+- inodoro
+- inodoru
+- is_a_toilet
+- jamban
+- kakus
+- kasilyasan
+- Klo
+- klozetas
+- klozetska šolja
+- komun
+- käimla
+- käymälä
+- latrina
+- Lavatory
+- leithreas
+- makewayi
+- misiwkiwamik
+- musqul
+- necesejo
+- nhà vệ sinh
+- nuznik
+- o'êhnémâhéó'o
+- palikuran
+- patakaian
+- poki jaki
+- privezioù
+- retrete
+- salerni
+- sanita
+- stranišče
+- tandaih
+- tandas
+- tatayi'an
+- tazza del cess
+- tchiyote
+- toaleta
+- toalett
+- toaletă
+- toiled
+- toilet
+- Toilett
+- Toilette
+- toilettes
+- tojlit
+- trano fidiovana
+- tualet
+- tualete
+- tualeteyo
+- tualeti
+- tuvalet
+- ubikacja
+- uissien
+- vaso sanitário
+- vàter
+- water
+- WC
+- zahodska školjka
+- záchod
+- λεκάνη
+- Бударь
+- бәдрәф
+- клозетска шоља
+- нужник
+- тоалетна
+- туалет
+- туалетное оборудование
+- шондан
+- ҳоҷатхона
+- בית הכסא
+- בית שימוש
+- آیاقیولو
+- بيت الخلا
+- بیت الخلا
+- توالت
+- تواليت
+- جائی
+- مرحاض
+- پرېولنځی
+- शौचालय
+- संडास
+- শৌচাগার
+- ਟਾਇਲਟ
+- கழிவறை
+- మరుగు దొడ్డి
+- ಕಕ್ಕಸು
+- കക്കൂസ്
+- ส้วม
+- ထၢင်
+- ယင်လုံ အိမ်သာ
+- အိမ်သာ
+- ሽንት ቤት
+- ᖁᕐᕕᒃ
+- 便器
+- 厕所
+- 座廁
+- 馬桶
+- 马桶
+- ꯑꯃꯥꯡꯁꯪ
+- 변소
 has_id_wikidata: Q7857
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - toilet
-layout: ""
+- toilet
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_toilet Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_toilet Class
 type: Type
 made_from_material:
-  - "[[_Standards/WikiData/WD~porcelain,130693]]"
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~plastic,11474]]"
-  - "[[_Standards/WikiData/WD~concrete,22657]]"
-has_use: "[[_Standards/WikiData/WD~excretion,185557]]"
+- '[[_Standards/WikiData/WD~porcelain,130693]]'
+- '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~plastic,11474]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
+has_use: '[[_Standards/WikiData/WD~excretion,185557]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~flush_toilet,268534]]"
-  - "[[_Standards/WikiData/WD~toilets_in_Japan,646411]]"
-  - "[[_Standards/WikiData/WD~dry_toilet,18352682]]"
-facet_of: "[[_Standards/WikiData/WD~sanitation,949149]]"
+- '[[_Standards/WikiData/WD~flush_toilet,268534]]'
+- '[[_Standards/WikiData/WD~toilets_in_Japan,646411]]'
+- '[[_Standards/WikiData/WD~dry_toilet,18352682]]'
+facet_of: '[[_Standards/WikiData/WD~sanitation,949149]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~plumbing_fixture,2024731]]"
-part_of: "[[_Standards/WikiData/WD~toilet,7813355]]"
-subclass_of: "[[_Standards/WikiData/WD~facility,13226383]]"
-used_by: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
+part_of: '[[_Standards/WikiData/WD~toilet,7813355]]'
+subclass_of: '[[_Standards/WikiData/WD~facility,13226383]]'
+used_by: '[[_Standards/WikiData/WD~human,5]]'
 Nomenclature_for_Museum_Cataloging: 297
 GS1_GPC_code: 10002586
 Commons_gallery: Toilet
 IMDb_keyword: toilet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wc1.jpg
-Unicode_character: 🚽
+Unicode_character: "\U0001F6BD"
 U_S_National_Archives_Identifier: 10662890
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flushing%20the%20toilet.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toilet%20banner.JPG
@@ -56,31 +162,162 @@ Commons_category: Toilets (sanitation fixtures)
 dv_is_:
   part_of: https://pending.schema.org
   same_as:
-    - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
-    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]"
-    - "[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]"
-    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]"
-    - "[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]"
-    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]"
+  - '[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]'
 dv_has_:
-  parent_class: "[[../CivicStructure]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    af: toilet
+    am: ሽንት ቤት
+    ami: tatayi'an
+    an: escusau
+    ar: مرحاض
+    arz: تواليت
+    ast: retrete
+    atj: misiwkiwamik
+    az: tualet
+    azb: آیاقیولو
+    bar: Klo
+    bcl: kasilyasan
+    be: туалет
+    be-tarask: туалет
+    bg: тоалетна
+    bjn: patakaian
+    bn: শৌচাগার
+    br: privezioù
+    ca: vàter
+    cbk-zam: inodoro
+    ceb: inodoro
+    chy: o'êhnémâhéó'o
+    cs: toaleta
+    cv: туалет
+    cy: toiled
+    da: toilet
+    de: Toilette
+    el: λεκάνη
+    en: toilet
+    en-ca: toilet
+    en-gb: toilet
+    en-us: toilet
+    eo: necesejo
+    es: inodoro
+    et: käimla
+    eu: komun
+    fa: توالت
+    fi: käymälä
+    fr: toilettes
+    fy: húske
+    ga: leithreas
+    gl: retrete
+    ha: makewayi
+    he: בית שימוש
+    hi: शौचालय
+    hr: zahodska školjka
+    hsb: nuznik
+    hu: WC
+    ia: toilette
+    iba: Agu
+    id: toilet
+    io: tualeteyo
+    is: salerni
+    it: water
+    iu: ᖁᕐᕕᒃ
+    ja: 便器
+    jv: kakus
+    kn: ಕಕ್ಕಸು
+    ko: 변소
+    krj: inodoro
+    ku: avdestxane
+    la: latrina
+    lb: Toilett
+    lmo: tazza del cess
+    lt: klozetas
+    lv: tualete
+    mg: trano fidiovana
+    mhr: шондан
+    min: tandaih
+    mk: нужник
+    ml: കക്കൂസ്
+    mni: ꯑꯃꯥꯡꯁꯪ
+    mr: संडास
+    ms: tandas
+    mt: tojlit
+    my: အိမ်သာ
+    mzn: جائی
+    nah: cuitlacalli
+    nb: toalett
+    nds-nl: uissien
+    ne: शौचालय
+    nl: toilet
+    nn: toalett
+    pa: ਟਾਇਲਟ
+    pam: inodoru
+    pl: ubikacja
+    pms: Cesso
+    ps: پرېولنځی
+    pt: sanita
+    pt-br: vaso sanitário
+    rki: ယင်လုံ အိမ်သာ
+    ro: toaletă
+    ru: туалетное оборудование
+    rue: Бударь
+    scn: cessu
+    sd: بيت الخلا
+    sh: klozetska šolja
+    shn: ထၢင်
+    sk: záchod
+    sl: stranišče
+    sn: chimbuzi
+    so: musqul
+    sq: tualeti
+    sr: клозетска шоља
+    sr-ec: нужник
+    su: jamban
+    sv: toalett
+    sw: choo
+    ta: கழிவறை
+    te: మరుగు దొడ్డి
+    tg: ҳоҷатхона
+    th: ส้วม
+    tl: palikuran
+    tok: poki jaki
+    tpi: Toilet
+    tr: tuvalet
+    tt: бәдрәф
+    tt-cyrl: бәдрәф
+    uk: туалет
+    ur: بیت الخلا
+    vec: cesso
+    vi: nhà vệ sinh
+    wa: tchiyote
+    war: banyo
+    wuu: 厕所
+    yi: בית הכסא
+    yue: 座廁
+    za: doengjnyouh
+    zh: 馬桶
+    zh-hans: 马桶
+    zh-hant: 馬桶
+  parent_class: '[[../CivicStructure]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
-  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]"
-  - "[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]"
-  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]"
-  - "[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]"
-  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]"
+- '[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]'
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../CivicStructure]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_has_parent_class: '[[../CivicStructure]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 ---
-
 # [[Toilet]] 🚽 
 
 #is_/same_as :: [[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]] 

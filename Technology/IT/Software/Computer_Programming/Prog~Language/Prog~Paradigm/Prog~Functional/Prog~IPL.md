@@ -1,8 +1,32 @@
 ---
 has_id_wikidata: Q776372
+dv_has_:
+  name_:
+    ar: لغة معالجة المعلومات
+    ca: Information Processing Language
+    de: Information Processing Language
+    en: Information Processing Language
+    fa: زبان پردازش داده ها(IPL)
+    fr: Information Processing Language
+    ga: Information Processing Language
+    id: Bahasa pemroses informasi
+    ja: Information Processing Language
+    ko: 정보 처리 언어
+    mul: Information Processing Language
+    nl: Information Processing Language
+    pl: Information Processing Language
+    pt: Information Processing Language
+    ru: IPL
+    zh: 資訊處理語言
+aliases:
+- Bahasa pemroses informasi
+- Information Processing Language
+- IPL
+- زبان پردازش داده ها(IPL)
+- لغة معالجة المعلومات
+- 資訊處理語言
+- 정보 처리 언어
 ---
-
-
 # [[Prog~IPL]] 
 
 #is_a_/ComputerLanguage 

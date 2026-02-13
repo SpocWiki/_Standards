@@ -1,8 +1,55 @@
 ---
 aliases:
-  - Vitreledonellidae
+- Vitreledonella
+- Vitreledonella richardi
+- Vitreledonellidae
+- أخطبوط زجاجي
+- اختاپوس شیشهای
+- اخطبوط زجاجى
+- 玻璃章魚屬
 title: Vitreledonella richardi
 has_id_wikidata: Q3166977
+dv_has_:
+  name_:
+    an: Vitreledonella
+    ar: أخطبوط زجاجي
+    arz: اخطبوط زجاجى
+    ast: Vitreledonella
+    bg: Vitreledonella
+    ca: Vitreledonella
+    ceb: Vitreledonella
+    de: Vitreledonella
+    en: Vitreledonella
+    eo: Vitreledonella
+    es: Vitreledonella
+    eu: Vitreledonella
+    ext: Vitreledonella
+    fa: اختاپوس شیشهای
+    fi: Vitreledonella
+    fr: Vitreledonella
+    ga: Vitreledonella
+    gl: Vitreledonella
+    ia: Vitreledonella
+    ie: Vitreledonella
+    io: Vitreledonella
+    it: Vitreledonella
+    la: Vitreledonella
+    mul: Vitreledonella
+    nl: Vitreledonella richardi
+    oc: Vitreledonella
+    pl: Vitreledonella
+    pt: Vitreledonella
+    pt-br: Vitreledonella
+    ro: Vitreledonella
+    ru: Vitreledonella
+    sq: Vitreledonella
+    sv: Vitreledonella
+    tr: Vitreledonellidae
+    uk: Vitreledonella
+    vi: Vitreledonella
+    vo: Vitreledonella
+    war: Vitreledonella
+    zh: 玻璃章魚屬
 ---
 # [[Vitreledonellidae]] 
 

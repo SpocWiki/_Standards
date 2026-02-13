@@ -1,30 +1,129 @@
 ---
 aliases:
+- andebol
+- bal a mano
+- bal tangan
+- ballamaun
+- balonmano
+- balonmanu
+- balonmán
+- bałaman
+- bola baling
+- bola tangan
+- bóng ném
+- chytańca
+- egwuregwu ịtụ bọl aka.
+- eskubaloi
+- gandbol
+- giehtaspábba
+- handbal
+- Handbale
+- Handball
+- handbalo
+- Handboi
+- handbol
+- handboll
+- handbolti
+- handebol
+- haundbaw
+- hendbol
+- hendboll
+- hentbol
+- hlōþhandþōðer
+- hondbóltur
+- hádzaná
+- házená
+- hânbal
+- håndball
+- håndbold
+- həndbol
+- k'akcha pukllay
+- kietâpállu
+- käsipall
+- käsipallo
+- kézilabda
+- liathróid láimhe
+- manpilkado
+- manufollium
+- mell-dorn
+- mpira wa mkono
+- pallamano
+- pallamanu
+- pallammanu
+- piłka ręczna
+- pêl-law
+- pāringa tīma
+- rankinis
+- rokasbumba
+- rokomet
+- rukomet
+- rãcznô bala
+- tachamma n ufus
+- takurt n ufus
+- umupira w’intoke
+- ǩiõttpäll
+- χειροσφαίριση
+- гандбол
+- гьандбол
+- кисяр
+- китуп
+- култубы
+- ракомет
+- рукомет
+- хандбал
+- қол добы
+- ҳандбол
+- հանդբոլ
+- כדוריד
+- بولا باليڠ
+- تۆپی دەست
+- كرة اليد
+- كورة اليد
+- لهوند
+- هندبال
+- هندبول
+- ہینڈ بال
+- ہینڈبال
+- हँडबॉल
+- हस्तकन्दुक
+- हैंडबॉल
+- হেণ্ডবল
+- হ্যান্ডবল
+- ਹੈਂਡਬਾਲ
+- எறிபந்தாட்டம்
+- ഹാന്റ്ബോൾ
+- හෑන්ඩ්බෝල්
+- แฮนด์บอล
+- ხებურთი
+- ხელბურთი
+- ハンドボール
+- 手球
+- 핸드볼
 has_id_wikidata: Q8418
 OpenStreetMap_tag:
-  - sport=team_handball
-  - sport=handball
+- sport=team_handball
+- sport=handball
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-different_from: "[[_Standards/WikiData/WD~Handball,398407]]"
-regulated_by: "[[_Standards/WikiData/WD~International_Handball_Federation,651333]]"
-authority: "[[_Standards/WikiData/WD~International_Handball_Federation,651333]]"
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517]]'
+different_from: '[[_Standards/WikiData/WD~Handball,398407]]'
+regulated_by: '[[_Standards/WikiData/WD~International_Handball_Federation,651333]]'
+authority: '[[_Standards/WikiData/WD~International_Handball_Federation,651333]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~handball_referee,1302317]]"
-  - "[[_Standards/WikiData/WD~handball_player,12840545]]"
-  - "[[_Standards/WikiData/WD~handball_coach,13365201]]"
-  - "[[_Standards/WikiData/WD~handball_national_coach,63349579]]"
-uses: "[[_Standards/WikiData/WD~handball,2881341]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_International_Handball,8081088]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Handball,11051992]]"
+- '[[_Standards/WikiData/WD~handball_referee,1302317]]'
+- '[[_Standards/WikiData/WD~handball_player,12840545]]'
+- '[[_Standards/WikiData/WD~handball_coach,13365201]]'
+- '[[_Standards/WikiData/WD~handball_national_coach,63349579]]'
+uses: '[[_Standards/WikiData/WD~handball,2881341]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_International_Handball,8081088]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Handball,11051992]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-location_of_formation: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+location_of_formation: '[[_Standards/WikiData/WD~Germany,183]]'
 hashtag_: handball
 booru_tag: handball
 BHCL_UUID: aca41666-8df2-4cd3-b82f-6cdddf38b77f
@@ -34,15 +133,149 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Handball%20pictogram.sv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Rocas%20Selecci%C3%B3n%202013.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Handball2.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Handball%20in%20Europe%20banner%20Jornada%20de%20las%20Estrellas.jpg
-U_S_National_Archives_Identifier: "10645556"
+U_S_National_Archives_Identifier: 10645556
 Iconclass_notation: 43C4121
 IPTC_NewsCode: mediatopic/20000958
 Colon_Classification: MY211
 Baidu_Tieba_name: 手球
-Unicode_character: 🤾
+Unicode_character: "\U0001F93E"
 time_of_discovery_or_invention: 1915-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: handbal
+    an: balonmán
+    ang: hlōþhandþōðer
+    ar: كرة اليد
+    ary: لهوند
+    arz: كورة اليد
+    as: হেণ্ডবল
+    ast: balonmano
+    az: həndbol
+    azb: هندبول
+    ba: гандбол
+    bar: Handboi
+    be: гандбол
+    be-tarask: гандбол
+    bg: хандбал
+    bjn: bal tangan
+    bn: হ্যান্ডবল
+    br: mell-dorn
+    bs: rukomet
+    ca: handbol
+    ckb: تۆپی دەست
+    cs: házená
+    csb: rãcznô bala
+    cy: pêl-law
+    da: håndbold
+    de: Handball
+    de-ch: Handball
+    diq: hendbol
+    dsb: chytańca
+    el: χειροσφαίριση
+    en: handball
+    en-ca: handball
+    en-gb: handball
+    eo: manpilkado
+    es: balonmano
+    et: käsipall
+    eu: eskubaloi
+    ext: balonmanu
+    fa: هندبال
+    fi: käsipallo
+    fo: hondbóltur
+    fr: handball
+    fy: hânbal
+    ga: liathróid láimhe
+    gl: balonmán
+    gsw: Handball
+    he: כדוריד
+    hi: हैंडबॉल
+    hr: rukomet
+    hu: kézilabda
+    hy: հանդբոլ
+    ia: handball
+    id: bola tangan
+    ie: handball
+    ig: egwuregwu ịtụ bọl aka.
+    io: handbalo
+    is: handbolti
+    it: pallamano
+    ja: ハンドボール
+    ka: ხელბურთი
+    kab: takurt n ufus
+    kk: қол добы
+    ko: 핸드볼
+    ku: hendbol
+    kv: кисяр
+    la: manufollium
+    lb: Handball
+    lbe: гьандбол
+    lfn: bal a mano
+    li: handbal
+    lt: rankinis
+    lv: rokasbumba
+    mg: Handball
+    mi: pāringa tīma
+    mk: ракомет
+    ml: ഹാന്റ്ബോൾ
+    mr: हँडबॉल
+    ms: bola baling
+    ms-arab: بولا باليڠ
+    nb: håndball
+    nds: Handball
+    nl: handbal
+    nn: handball
+    nov: Handbale
+    nup: Handball
+    oc: handbal
+    pa: ਹੈਂਡਬਾਲ
+    pl: piłka ręczna
+    pnb: ہینڈ بال
+    pt: andebol
+    pt-br: handebol
+    qu: k'akcha pukllay
+    rm: ballamaun
+    ro: handbal
+    ru: гандбол
+    rw: umupira w’intoke
+    sa: हस्तकन्दुक
+    sc: pallamanu
+    scn: pallammanu
+    sco: haundbaw
+    se: giehtaspábba
+    sh: rukomet
+    shi: tachamma n ufus
+    si: හෑන්ඩ්බෝල්
+    sk: hádzaná
+    sl: rokomet
+    smn: kietâpállu
+    sms: ǩiõttpäll
+    sq: hendboll
+    sr: рукомет
+    sv: handboll
+    sw: mpira wa mkono
+    ta: எறிபந்தாட்டம்
+    tg: ҳандбол
+    th: แฮนด์บอล
+    tly: həndbol
+    tr: hentbol
+    tt: култубы
+    udm: китуп
+    uk: гандбол
+    ur: ہینڈبال
+    uz: gandbol
+    vec: bałaman
+    vi: bóng ném
+    wuu: 手球
+    xmf: ხებურთი
+    yue: 手球
+    zh: 手球
+    zh-cn: 手球
+    zh-hans: 手球
+    zh-hant: 手球
+    zh-hk: 手球
+    zh-tw: 手球
 ---
-
 # [[Handball]] 
 
 #is_/same_as :: [[WD~Handball,8418]] 

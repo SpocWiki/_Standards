@@ -1,8 +1,104 @@
 ---
 aliases:
-  - granti
+- gasela de Grant
+- Gazel grant
+- gazela Grantova
+- Gazela-de-grant
+- Gazelenn Grant
+- Gazelka masajska
+- Gazella granti
+- Gazelle de Grant
+- Grant's gazelle
+- Grant-gazella
+- Grant-Gazelle
+- Grantgasell
+- Grantgaselle
+- Grantgazelle
+- granti
+- Granti gasell
+- Grantingaselli
+- Granto gazelė
+- Grantova gazela
+- Haltsooítah jádígi átʼéhé bideeʼ nineezígíí
+- Lèwĕ
+- Nanger granti
+- Rayol (Nanger granti)
+- газела на Грант
+- Газель Гранта
+- Грантова газела
+- վիթ գրանտի
+- צבי גראנט
+- آهوی گرنت
+- غزال غرانت
+- گرانٹ غزال
+- แกรนท์กาเซลล์
+- გრანტის ქურციკი
+- グラントガゼル
+- 葛氏瞪羚
+- 葛氏苍羚
+- 葛氏蒼羚
+- 그랜트가젤
 title: Gazella granti
 has_id_wikidata: Q735222
+dv_has_:
+  name_:
+    ar: غزال غرانت
+    arz: غزال غرانت
+    ast: Nanger granti
+    avk: Rayol (Nanger granti)
+    bg: газела на Грант
+    br: Gazelenn Grant
+    ca: gasela de Grant
+    ceb: Gazella granti
+    cs: gazela Grantova
+    de: Grant-Gazelle
+    en: Grant's gazelle
+    en-us: Grant's gazelle
+    es: Nanger granti
+    et: Granti gasell
+    eu: Nanger granti
+    fa: آهوی گرنت
+    fi: Grantingaselli
+    fon: Lèwĕ
+    fr: Gazelle de Grant
+    ga: Nanger granti
+    he: צבי גראנט
+    hu: Grant-gazella
+    hy: վիթ գրանտի
+    ia: Nanger granti
+    id: Gazel grant
+    it: Nanger granti
+    ja: グラントガゼル
+    ka: გრანტის ქურციკი
+    ko: 그랜트가젤
+    la: Nanger granti
+    lg: Nanger granti
+    lt: Granto gazelė
+    mul: Nanger granti
+    nb: Grantgaselle
+    nl: Grantgazelle
+    nv: Haltsooítah jádígi átʼéhé bideeʼ nineezígíí
+    pl: Gazelka masajska
+    pnb: گرانٹ غزال
+    pt: Gazela-de-grant
+    ro: Nanger granti
+    ru: Газель Гранта
+    sk: Gazela Grantova
+    sq: Nanger granti
+    sr: Грантова газела
+    sr-ec: Грантова газела
+    sr-el: Grantova gazela
+    sv: Grantgasell
+    th: แกรนท์กาเซลล์
+    uk: Nanger granti
+    vi: Nanger granti
+    war: Gazella granti
+    zh: 葛氏苍羚
+    zh-cn: 葛氏苍羚
+    zh-hans: 葛氏瞪羚
+    zh-hant: 葛氏瞪羚
+    zh-hk: 葛氏瞪羚
+    zh-tw: 葛氏蒼羚
 ---
 # Gazella granti 
 

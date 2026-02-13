@@ -1,29 +1,58 @@
 ---
 aliases:
+- Remember
+- Remember (שיר של אירווינג ברלין)
+- リメンバー
 has_id_wikidata: Q7311630
 performer:
-  - "[[_Standards/WikiData/WD~Bing_Crosby,72984]]"
-  - "[[_Standards/WikiData/WD~Billie_Holiday,104358]]"
-  - "[[_Standards/WikiData/WD~Ray_Conniff,206304]]"
-  - "[[_Standards/WikiData/WD~Andy_Williams,214548]]"
-  - "[[_Standards/WikiData/WD~Julie_London,231255]]"
-  - "[[_Standards/WikiData/WD~Betty_Carter,465943]]"
-  - "[[_Standards/WikiData/WD~Cliff_Edwards,950376]]"
-  - "[[_Standards/WikiData/WD~Frank_Sinatra,40912]]"
-lyricist: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-composer: "[[_Standards/WikiData/WD~Irving_Berlin,128746]]"
-genre: "[[_Standards/WikiData/WD~popular_music,373342]]"
-different_from: "[[_Standards/WikiData/WD~Remember,547388]]"
-main_subject: "[[_Standards/WikiData/WD~nostalgia,12151852]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-has_characteristic: "[[_Standards/WikiData/WD~pop_standard,107290600]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+- '[[_Standards/WikiData/WD~Bing_Crosby,72984]]'
+- '[[_Standards/WikiData/WD~Billie_Holiday,104358]]'
+- '[[_Standards/WikiData/WD~Ray_Conniff,206304]]'
+- '[[_Standards/WikiData/WD~Andy_Williams,214548]]'
+- '[[_Standards/WikiData/WD~Julie_London,231255]]'
+- '[[_Standards/WikiData/WD~Betty_Carter,465943]]'
+- '[[_Standards/WikiData/WD~Cliff_Edwards,950376]]'
+- '[[_Standards/WikiData/WD~Frank_Sinatra,40912]]'
+lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
+genre: '[[_Standards/WikiData/WD~popular_music,373342]]'
+different_from: '[[_Standards/WikiData/WD~Remember,547388]]'
+main_subject: '[[_Standards/WikiData/WD~nostalgia,12151852]]'
+instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+has_characteristic: '[[_Standards/WikiData/WD~pop_standard,107290600]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-070.126.365-1
 title: Remember
 publication_date: 1925-01-01T00:00:00Z
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Remember%20%281925%2C%20Berlin%29%20Sheet%20Music%20%28page%201%20crop%29.jpg
 Commons_category: Remember (Irving Berlin song)
+dv_has_:
+  name_:
+    ast: Remember
+    ca: Remember
+    cs: Remember
+    da: Remember
+    de: Remember
+    en: Remember
+    es: Remember
+    eu: Remember
+    fi: Remember
+    fr: Remember
+    he: Remember (שיר של אירווינג ברלין)
+    hu: Remember
+    it: Remember
+    ja: リメンバー
+    nb: Remember
+    nl: Remember
+    nn: Remember
+    pl: Remember
+    pt: Remember
+    ro: Remember
+    se: Remember
+    sq: Remember
+    sv: Remember
+    tr: Remember
 ---
 # [[Remember(Irving_Berlin_song)]] 
 

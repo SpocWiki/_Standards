@@ -1,28 +1,91 @@
 ---
 title: Tubulidentata
 aliases:
+- Buistandigen
+- Cjevozupci
+- földimalacfélék
+- hrabáči
+- jordsvin
+- rurkozębne
+- Sperdoldunol (Tubulidentata)
+- Toruhambulised
+- Tubetodentuloj
+- Tubulidentat
+- Tubulidentata
+- Tubulidentato
+- Трубкозубые
+- тръбозъбоподобни
+- שנבובאים
+- نبيبيات الأسنان
+- 管齒目
+- 管齿目
 has_id_wikidata: Q1082523
-instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
-parent_taxon: "[[_Standards/WikiData/WD~Afroinsectiphilia,2570409]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
+parent_taxon: '[[_Standards/WikiData/WD~Afroinsectiphilia,2570409]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 taxon_common_name:
-  - Aardvark
-  - Тръбозъби
-  - Tubulidentados
-  - Putkihampaiset
-  - Csövesfogúak
-  - ツチブタ目
-  - 관치목(管齒目)
-  - Jordsvin
-  - Tüpdişliler
-  - Трубкозуби
-ITIS_TSN: "180673"
+- Aardvark
+- Тръбозъби
+- Tubulidentados
+- Putkihampaiset
+- Csövesfogúak
+- ツチブタ目
+- 관치목(管齒目)
+- Jordsvin
+- Tüpdişliler
+- Трубкозуби
+ITIS_TSN: 180673
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orycteropus%20afer00.jpg
 EPPO_Code: 1TUBUO
 Commons_category: Tubulidentata
 taxon_name: Tubulidentata
+dv_has_:
+  name_:
+    ar: نبيبيات الأسنان
+    ast: Tubulidentata
+    avk: Sperdoldunol (Tubulidentata)
+    bg: тръбозъбоподобни
+    br: Tubulidentata
+    ca: Tubulidentat
+    ceb: Tubulidentata
+    cs: hrabáči
+    de: Tubulidentata
+    el: Tubulidentata
+    en: Tubulidentata
+    eo: Tubetodentuloj
+    es: Tubulidentata
+    et: Toruhambulised
+    fi: Tubulidentata
+    fr: Tubulidentata
+    ga: Tubulidentata
+    he: שנבובאים
+    hr: Cjevozupci
+    hu: földimalacfélék
+    ia: Tubulidentata
+    it: Tubulidentata
+    la: Tubulidentata
+    lfn: Tubulidentato
+    mt: Tubulidentata
+    mul: Tubulidentata
+    nb: jordsvin
+    nl: Buistandigen
+    nov: Tubulidentata
+    oc: Tubulidentata
+    pl: rurkozębne
+    pt: Tubulidentata
+    ro: Tubulidentata
+    ru: Трубкозубые
+    scn: Tubulidentata
+    sq: Tubulidentata
+    sv: Tubulidentata
+    uk: Tubulidentata
+    vi: Tubulidentata
+    war: Tubulidentata
+    zh: 管齿目
+    zh-cn: 管齿目
+    zh-hans: 管齿目
+    zh-tw: 管齒目
 ---
-
 # [[Tubulidentata]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Tubulidentata,1082523|WD~Tubulidentata,1082523]] 

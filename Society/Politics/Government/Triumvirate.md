@@ -1,23 +1,128 @@
 ---
 aliases:
-  - troika
-  - triarchy
-  - Triumvirate
+- driemanschap
+- tam đầu chế
+- triarchy
+- trijumvirat
+- triumvir
+- triumviraat
+- triumviraatti
+- triumviraro
+- triumvirat
+- triumviratas
+- Triumvirate
+- triumvirato
+- triumviratt
+- triumviratus
+- triumvirelezh
+- triumvirlik
+- triumviráhtta
+- triumvirát
+- triumvirátus
+- triumvirāts
+- triumwirat
+- triunbiratu
+- triunvirato
+- Triunviratu
+- triyumbirado
+- triúracht
+- troika
+- Τριανδρία
+- тріумвірат
+- тријумвират
+- триумвират
+- трыумвірат
+- трыюмвірат
+- Եռապետություն
+- טריאומווירט
+- حكم ثلاثي
+- حکومت سهنفره
+- ტრიუმვირატი
+- 三头同盟
+- 三頭政治
+- 삼두정치
 has_id_wikidata: Q83204
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~committee,865588]]'
-  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-  - '[[_Standards/WikiData/WD~collective_head_of_state,22950320]]'
+- '[[_Standards/WikiData/WD~committee,865588]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~collective_head_of_state,22950320]]'
 follows: '[[_Standards/WikiData/WD~diarchy,936648]]'
 followed_by: '[[_Standards/WikiData/WD~tetrarchy,15733698]]'
 instance_of: '[[_Standards/WikiData/WD~group_of_3,135265559]]'
 OmegaWiki_Defined_Meaning: 1186968
+dv_has_:
+  name_:
+    af: Triumviraat
+    ar: حكم ثلاثي
+    ast: Triunviratu
+    az: triumvirat
+    be: трыумвірат
+    be-tarask: трыюмвірат
+    bg: Триумвират
+    br: triumvirelezh
+    ca: triumvir
+    cs: triumvirát
+    da: triumvirat
+    de: Triumvirat
+    el: Τριανδρία
+    en: triumvirate
+    en-ca: triumvirate
+    en-gb: triumvirate
+    eo: triumviraro
+    es: triunvirato
+    et: triumviraat
+    eu: triunbiratu
+    fa: حکومت سهنفره
+    fi: triumviraatti
+    fr: triumvirat
+    ga: triúracht
+    gl: triunvirato
+    he: טריאומווירט
+    hr: trijumvirat
+    hu: triumvirátus
+    hy: Եռապետություն
+    id: triumvirat
+    it: triumvirato
+    ja: 三頭政治
+    ka: ტრიუმვირატი
+    kk: триумвират
+    ko: 삼두정치
+    ky: Триумвират
+    la: triumviratus
+    lt: triumviratas
+    lv: triumvirāts
+    mk: Триумвират
+    nb: triumvirat
+    nl: driemanschap
+    oc: triumvirat
+    pl: triumwirat
+    pt: triunvirato
+    pt-br: triunvirato
+    ro: triumvirat
+    ru: триумвират
+    rue: Триумвират
+    se: triumviráhtta
+    sh: trijumvirat
+    sk: triumvirát
+    sl: triumvirat
+    smn: triumviraat
+    sms: triumviratt
+    sr: тријумвират
+    sr-ec: тријумвират
+    sv: triumvirat
+    tl: triyumbirado
+    tr: triumvirlik
+    uk: тріумвірат
+    uz: Triumvirat
+    vi: tam đầu chế
+    wuu: 三头同盟
+    xmf: ტრიუმვირატი
+    zh: 三头同盟
 ---
-
 # [[Triumvirate]] 
 
 #is_/same_as :: [[WD~Triumvirate,83204]] 

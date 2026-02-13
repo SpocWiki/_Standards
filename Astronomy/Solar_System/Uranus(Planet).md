@@ -1,185 +1,553 @@
 ---
 aliases:
-  - Uranus(Planet)
+- Arungrah
+- Chanya la Movwili
+- Hele‘ekela
+- I-Uranus (i-astronomy)
+- Ilhuicateōcītlalli
+- Iranis
+- Iranis (planèt)
+- la zelplini
+- mun Ulanu
+- Ndaundeiqdenh'vuengz
+- Oran
+- Orans
+- Ouran
+- Ourano
+- Rahor
+- Rangipō
+- Sao Thiên Vương
+- Thian-ông-chheⁿ
+- Thiên-vòng-sên
+- Tiĕng-uòng-sĭng
+- U-Uranu
+- Ulanusí
+- Uraan
+- Uraano
+- Uraanus
+- Uran
+- Uranas
+- Urane
+- Urani
+- Uranisi
+- Urano
+- Uranu
+- Uranud
+- Uranus
+- Uranus (planète)
+- Uranus(Planet)
+- Uranusi
+- Uranusse
+- Uranüs
+- Urranuß
+- Urà
+- Uràn
+- Urán
+- Uránusz
+- Urāns
+- Wranws
+- Yoowéinis
+- Yuranese
+- Yuranisi
+- Yuranut
+- Yurenes
+- Yuuraanis
+- Yuurienos
+- Ùran
+- Ùranas
+- Úranus
+- Úránas
+- Úránù
+- Ûranûs
+- Ůrůn
+- Ουρανός
+- Оуранъ
+- Тэнгэриин ван
+- Тэнгэрийн ван
+- Уран
+- Уранус
+- Ուրան
+- Ուրանուս մոլորակը
+- אוראנוס
+- אורנוס
+- أورانوس
+- ئۇران
+- اورانوس
+- اۊرانۊس
+- يورينس
+- یورانۆس
+- یورینس
+- یٔندٕر (گرٛہُد)
+- ߛߊ߲ߕߌ߮
+- अरुण
+- अरुण ग्रह
+- अरुणः
+- अरुणग्रह
+- अरूण
+- युरेनस ग्रह
+- यूरेनस ग्रह
+- ইউরেনাস গ্রহ
+- ইউৰেনাচ
+- ਉਰਣ
+- યુરેનસ
+- ଇଉରାନସ
+- யுரேனசு
+- యురేనస్
+- ಯುರೇನಸ್
+- യുറാനസ്
+- යුරේනස්
+- ดาวยูเรนัส
+- ດາວຢູລານຸດ
+- ཡུ་ར་ནཱས
+- སྐར་མ་གནམ་རྒྱལ།
+- ယူရေးနပ်စ်ဂြိုဟ်
+- ურანი
+- ኡራኑስ
+- ᏳᏪᏅᏍ
+- ᐅᕌᓄᔅ
+- ᓰᐲᐊᐧᑖᕁ
+- ភពអ៊ុយរ៉ានុស
+- ᱫᱷᱤᱨᱤ ᱮᱸᱜᱮᱞ
+- ⵓⵔⴰⵏⵓⵙ
+- 天王星
+- ꯁꯥꯀꯣꯛ ꯊꯄꯤ
+- 천왕성
 has_id_wikidata: Q324
 albedo:
-  - 0.3
-  - 0.488
+- 0.3
+- 0.488
 angular_diameter:
-  - 3.3
-  - 4.1
+- 3.3
+- 4.1
 apoapsis: 3006318143
 apparent_magnitude:
-  - 5.9
-  - 5.32
+- 5.9
+- 5.32
 area: 8115600000
 argument_of_periapsis: 170.9542763
 astronomic_symbol_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20monogram%20%28fixed%20width%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20symbol%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20monogram%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20symbol%20%28fixed%20width%29.svg
 child_astronomical_body:
-  - "[[_Standards/WikiData/WD~ε_ring,511479]]"
-  - "[[_Standards/WikiData/WD~β_ring,615967]]"
-  - "[[_Standards/WikiData/WD~ν_ring,628325]]"
-  - "[[_Standards/WikiData/WD~μ_ring,1132027]]"
-  - "[[_Standards/WikiData/WD~5_ring,2851398]]"
-  - "[[_Standards/WikiData/WD~4_ring,2851399]]"
-  - "[[_Standards/WikiData/WD~6_ring,2851401]]"
-  - "[[_Standards/WikiData/WD~δ_ring,2851408]]"
-  - "[[_Standards/WikiData/WD~γ_ring,2851426]]"
-  - "[[_Standards/WikiData/WD~λ_ring,2851428]]"
-  - "[[_Standards/WikiData/WD~η_ring,2851444]]"
-  - "[[_Standards/WikiData/WD~ζ_ring,3616611]]"
-  - "[[_Standards/WikiData/WD~α_ring,3680062]]"
-  - "[[_Standards/WikiData/WD~Titania,3322]]"
-  - "[[_Standards/WikiData/WD~Oberon,3332]]"
-  - "[[_Standards/WikiData/WD~Umbriel,3338]]"
-  - "[[_Standards/WikiData/WD~Ariel,3343]]"
-  - "[[_Standards/WikiData/WD~Miranda,3352]]"
-  - "[[_Standards/WikiData/WD~Cordelia,15613]]"
-  - "[[_Standards/WikiData/WD~Ophelia,15616]]"
-  - "[[_Standards/WikiData/WD~Bianca,15629]]"
-  - "[[_Standards/WikiData/WD~Cressida,15633]]"
-  - "[[_Standards/WikiData/WD~Desdemona,15637]]"
-  - "[[_Standards/WikiData/WD~Juliet,15643]]"
-  - "[[_Standards/WikiData/WD~Rosalind,15646]]"
-  - "[[_Standards/WikiData/WD~Portia,15644]]"
-  - "[[_Standards/WikiData/WD~Cupid,15655]]"
-  - "[[_Standards/WikiData/WD~Belinda,15658]]"
-  - "[[_Standards/WikiData/WD~Puck,15662]]"
-  - "[[_Standards/WikiData/WD~Perdita,15660]]"
-  - "[[_Standards/WikiData/WD~Mab,15667]]"
-  - "[[_Standards/WikiData/WD~Q18465,18465]]"
-  - "[[_Standards/WikiData/WD~Caliban,18481]]"
-  - "[[_Standards/WikiData/WD~Stephano,18488]]"
-  - "[[_Standards/WikiData/WD~Trinculo,18494]]"
-  - "[[_Standards/WikiData/WD~Sycorax,18495]]"
-  - "[[_Standards/WikiData/WD~Margaret,18496]]"
-  - "[[_Standards/WikiData/WD~Prospero,18497]]"
-  - "[[_Standards/WikiData/WD~Setebos,18500]]"
-  - "[[_Standards/WikiData/WD~Ferdinand,18501]]"
+- '[[_Standards/WikiData/WD~ε_ring,511479]]'
+- '[[_Standards/WikiData/WD~β_ring,615967]]'
+- '[[_Standards/WikiData/WD~ν_ring,628325]]'
+- '[[_Standards/WikiData/WD~μ_ring,1132027]]'
+- '[[_Standards/WikiData/WD~5_ring,2851398]]'
+- '[[_Standards/WikiData/WD~4_ring,2851399]]'
+- '[[_Standards/WikiData/WD~6_ring,2851401]]'
+- '[[_Standards/WikiData/WD~δ_ring,2851408]]'
+- '[[_Standards/WikiData/WD~γ_ring,2851426]]'
+- '[[_Standards/WikiData/WD~λ_ring,2851428]]'
+- '[[_Standards/WikiData/WD~η_ring,2851444]]'
+- '[[_Standards/WikiData/WD~ζ_ring,3616611]]'
+- '[[_Standards/WikiData/WD~α_ring,3680062]]'
+- '[[_Standards/WikiData/WD~Titania,3322]]'
+- '[[_Standards/WikiData/WD~Oberon,3332]]'
+- '[[_Standards/WikiData/WD~Umbriel,3338]]'
+- '[[_Standards/WikiData/WD~Ariel,3343]]'
+- '[[_Standards/WikiData/WD~Miranda,3352]]'
+- '[[_Standards/WikiData/WD~Cordelia,15613]]'
+- '[[_Standards/WikiData/WD~Ophelia,15616]]'
+- '[[_Standards/WikiData/WD~Bianca,15629]]'
+- '[[_Standards/WikiData/WD~Cressida,15633]]'
+- '[[_Standards/WikiData/WD~Desdemona,15637]]'
+- '[[_Standards/WikiData/WD~Juliet,15643]]'
+- '[[_Standards/WikiData/WD~Rosalind,15646]]'
+- '[[_Standards/WikiData/WD~Portia,15644]]'
+- '[[_Standards/WikiData/WD~Cupid,15655]]'
+- '[[_Standards/WikiData/WD~Belinda,15658]]'
+- '[[_Standards/WikiData/WD~Puck,15662]]'
+- '[[_Standards/WikiData/WD~Perdita,15660]]'
+- '[[_Standards/WikiData/WD~Mab,15667]]'
+- '[[_Standards/WikiData/WD~Q18465,18465]]'
+- '[[_Standards/WikiData/WD~Caliban,18481]]'
+- '[[_Standards/WikiData/WD~Stephano,18488]]'
+- '[[_Standards/WikiData/WD~Trinculo,18494]]'
+- '[[_Standards/WikiData/WD~Sycorax,18495]]'
+- '[[_Standards/WikiData/WD~Margaret,18496]]'
+- '[[_Standards/WikiData/WD~Prospero,18497]]'
+- '[[_Standards/WikiData/WD~Setebos,18500]]'
+- '[[_Standards/WikiData/WD~Ferdinand,18501]]'
 Commons_category: Uranus (planet)
 Commons_gallery: Uranus
 declination: -15.175
 demonym:
-  - uranià
-  - Uranian
-  - Uranano
+- uranià
+- Uranian
+- Uranano
 density: 1271
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
-  - 2--9927
-  - 523.47
+- 2--9927
+- 523.47
 diameter: 51118
-different_from: "[[_Standards/WikiData/WD~Uranus,15614740]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Herschel,14277]]"
+different_from: '[[_Standards/WikiData/WD~Uranus,15614740]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Herschel,14277]]'
 distance_from_Earth:
-  - 2600000000
-  - 3150000000
+- 2600000000
+- 3150000000
 flattening: 0.0229
 has_part_s_:
-  - "[[_Standards/WikiData/WD~atmosphere_of_Uranus,1708494]]"
-  - "[[_Standards/WikiData/WD~magnetosphere_of_Uranus,3843312]]"
+- '[[_Standards/WikiData/WD~atmosphere_of_Uranus,1708494]]'
+- '[[_Standards/WikiData/WD~magnetosphere_of_Uranus,3843312]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png
 instance_of:
-  - "[[_Standards/WikiData/WD~superior_planet,844911]]"
-  - "[[_Standards/WikiData/WD~ice_giant,1319599]]"
-  - "[[_Standards/WikiData/WD~outer_planet,30014]]"
+- '[[_Standards/WikiData/WD~superior_planet,844911]]'
+- '[[_Standards/WikiData/WD~ice_giant,1319599]]'
+- '[[_Standards/WikiData/WD~outer_planet,30014]]'
 IPA_transcription: ˈuːʁanʊs
-location: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 longitude_of_ascending_node: 74.01692503
 magnetic_moment: 3.9e+24
 mass: 86810
 mean_anomaly: 142.238
 MeSH_tree_code: G01.060.075.730.700.865
 named_after:
-  - "[[_Standards/WikiData/WD~Uranus,79999]]"
-  - "[[_Standards/WikiData/WD~Urania,104002]]"
-notation: "[[_Standards/WikiData/WD~Uranus_symbol,3594854]]"
+- '[[_Standards/WikiData/WD~Uranus,79999]]'
+- '[[_Standards/WikiData/WD~Urania,104002]]'
+notation: '[[_Standards/WikiData/WD~Uranus_symbol,3594854]]'
 OmegaWiki_Defined_Meaning: 382634
 orbital_eccentricity: 0.04725744
 orbital_inclination:
-  - 0.77263783
-  - 1.02
-  - 6.48
+- 0.77263783
+- 1.02
+- 6.48
 orbital_period:
-  - 30688.5
-  - 84.0205
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+- 30688.5
+- 84.0205
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 periapsis: 2734998229
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Uranus2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Uranus2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav
 radius:
-  - 24973
-  - 25362
-  - 25559
+- 24973
+- 25362
+- 25559
 right_ascension: 257.311
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20Urano.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Uranus-intern-hr-info.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20Urano.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Uranus-intern-hr-info.png
 semi_major_axis_of_an_orbit:
-  - 2870658186
-  - 19.18916464
+- 2870658186
+- 19.18916464
 significant_event:
-  - "[[_Standards/WD/WD~transit of Uranus from Neptune]]"
-  - "[[_Standards/WD/WD~discovery of Uranus]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Bath,22889]]"
+- '[[_Standards/WD/WD~transit of Uranus from Neptune]]'
+- '[[_Standards/WD/WD~discovery of Uranus]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Bath,22889]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/uranus
-studied_in: "[[_Standards/WikiData/WD~uranology,131626710]]"
+studied_in: '[[_Standards/WikiData/WD~uranology,131626710]]'
 surface_gravity: 8.7
 synodic_period: 369.66
 temperature:
-  - 49
-  - 53
-  - 57
+- 49
+- 53
+- 57
 time_of_discovery_or_invention: 1781-03-13
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Uranus,6416482]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Uranus,6416482]]'
 UMLS_CUI: C0242757
 Unicode_character:
-  - ⛢
-  - ♅
+- ⛢
+- ♅
 U_S_National_Archives_Identifier: 10046641
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20orientation%201985-2030.gif
 volume_as_quantity: 68330000000000
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uranus,30589067]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Uranus,30589067]]'
 Wolfram_Language_entity_code: Entity["Planet", "Uranus"]
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Uranus,324]]"
-    - "[[/_Standards/Astronomy/Solar_System/Uranus(Planet)|Uranus(Planet)]]"
-    - "[[/_public/Astronomy/Solar_System/Uranus(Planet).public|Uranus(Planet).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Uranus(Planet).internal|Uranus(Planet).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Uranus(Planet).protect|Uranus(Planet).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Uranus(Planet).private|Uranus(Planet).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Uranus(Planet).personal|Uranus(Planet).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Uranus(Planet).secret|Uranus(Planet).secret]]"
+  - '[[../../WikiData/WD~Uranus,324]]'
+  - '[[/_Standards/Astronomy/Solar_System/Uranus(Planet)|Uranus(Planet)]]'
+  - '[[/_public/Astronomy/Solar_System/Uranus(Planet).public|Uranus(Planet).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Uranus(Planet).internal|Uranus(Planet).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Uranus(Planet).protect|Uranus(Planet).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Uranus(Planet).private|Uranus(Planet).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Uranus(Planet).personal|Uranus(Planet).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Uranus(Planet).secret|Uranus(Planet).secret]]'
   different_from:
-    - "[[_Standards/WikiData/WD~Uranus,79999]]"
-    - "[[_Standards/WikiData/WD~Uranus,15614740]]"
+  - '[[_Standards/WikiData/WD~Uranus,79999]]'
+  - '[[_Standards/WikiData/WD~Uranus,15614740]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Uranus,324]]"
-  - "[[/_Standards/Astronomy/Solar_System/Uranus(Planet)|Uranus(Planet)]]"
-  - "[[/_public/Astronomy/Solar_System/Uranus(Planet).public|Uranus(Planet).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Uranus(Planet).internal|Uranus(Planet).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Uranus(Planet).protect|Uranus(Planet).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Uranus(Planet).private|Uranus(Planet).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Uranus(Planet).personal|Uranus(Planet).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Uranus(Planet).secret|Uranus(Planet).secret]]"
+- '[[../../WikiData/WD~Uranus,324]]'
+- '[[/_Standards/Astronomy/Solar_System/Uranus(Planet)|Uranus(Planet)]]'
+- '[[/_public/Astronomy/Solar_System/Uranus(Planet).public|Uranus(Planet).public]]'
+- '[[/_internal/Astronomy/Solar_System/Uranus(Planet).internal|Uranus(Planet).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Uranus(Planet).protect|Uranus(Planet).protect]]'
+- '[[/_private/Astronomy/Solar_System/Uranus(Planet).private|Uranus(Planet).private]]'
+- '[[/_personal/Astronomy/Solar_System/Uranus(Planet).personal|Uranus(Planet).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Uranus(Planet).secret|Uranus(Planet).secret]]'
 dv_is_different_from:
-  - "[[_Standards/WikiData/WD~Uranus,79999]]"
-  - "[[_Standards/WikiData/WD~Uranus,15614740]]"
+- '[[_Standards/WikiData/WD~Uranus,79999]]'
+- '[[_Standards/WikiData/WD~Uranus,15614740]]'
+dv_has_:
+  name_:
+    af: Uranus
+    am: ኡራኑስ
+    an: Urano
+    ang: Uranus
+    anp: अरुण ग्रह
+    ar: أورانوس
+    ary: أورانوس
+    arz: اورانوس
+    as: ইউৰেনাচ
+    ast: Uranu
+    awa: यूरेनस ग्रह
+    az: Uran
+    azb: اورانوس
+    ba: Уран
+    ban: Uranus
+    bar: Uranus
+    bcl: Urano
+    be: Уран
+    be-tarask: Уран
+    bew: Uranus
+    bg: Уран
+    bho: यूरेनस ग्रह
+    bjn: Uranus
+    bn: ইউরেনাস গ্রহ
+    bo: སྐར་མ་གནམ་རྒྱལ།
+    br: Ouran
+    bs: Uran
+    btm: Uranus
+    bxr: Тэнгэриин ван
+    ca: Urà
+    cdo: Tiĕng-uòng-sĭng
+    ce: Уран
+    ceb: Urano
+    chr: ᏳᏪᏅᏍ
+    ckb: یورانۆس
+    cr: ᓰᐲᐊᐧᑖᕁ
+    crh: Uran
+    cs: Uran
+    csb: Ùran
+    cu: Оуранъ
+    cv: Уран
+    cy: Wranws
+    da: Uranus
+    de: Uranus
+    de-ch: Uranus
+    diq: Uranus
+    dty: अरुणग्रह
+    dz: ཡུ་ར་ནཱས
+    el: Ουρανός
+    eml: Uràn
+    en: Uranus
+    en-ca: Uranus
+    en-gb: Uranus
+    eo: Urano
+    es: Urano
+    et: Uraan
+    eu: Urano
+    ext: Uranu
+    fa: اورانوس
+    fi: Uranus
+    fj: Uranusi
+    fo: Uranus
+    fr: Uranus
+    frp: Urano
+    frr: Uranus
+    fy: Uranus
+    ga: Úránas
+    gan: 天王星
+    gcr: Iranis (planèt)
+    gd: Ùranas
+    gl: Urano
+    glk: اۊرانۊس
+    gn: Urano
+    gpe: Uranus
+    gsw: Uranus
+    gu: યુરેનસ
+    guw: Uranus
+    gv: Uraanus
+    hak: Thiên-vòng-sên
+    haw: Hele‘ekela
+    he: אורנוס
+    hi: अरुण
+    hif: Arungrah
+    hr: Uran
+    hsb: Uranus
+    ht: Iranis
+    hu: Uránusz
+    hy: Ուրան
+    hyw: Ուրանուս մոլորակը
+    ia: Urano
+    id: Uranus
+    ie: Uran
+    ilo: Urano
+    io: Urano
+    is: Úranus
+    it: Urano
+    iu: ᐅᕌᓄᔅ
+    ja: 天王星
+    jam: Yuurienos
+    jbo: la zelplini
+    jv: Uranus
+    ka: ურანი
+    kaa: Uran
+    kbp: Uranisi
+    kcg: Yuranut
+    kg: Uranus
+    kk: Уран
+    km: ភពអ៊ុយរ៉ានុស
+    kn: ಯುರೇನಸ್
+    knc: Uranus
+    ko: 천왕성
+    ks: یٔندٕر (گرٛہُد)
+    ksh: Urranuß
+    ku: Ûranûs
+    kv: Уран
+    kw: Ouran
+    ky: Уран
+    la: Uranus
+    lb: Uranus
+    lez: Уран
+    lfn: Urano
+    li: Uranus
+    lij: Oran
+    lld: Uran
+    lmo: Urano
+    ln: Ulanusí
+    lo: ດາວຢູລານຸດ
+    lt: Uranas
+    lv: Urāns
+    lzh: 天王星
+    mad: Uranus
+    mai: अरुण ग्रह
+    map-bms: Uranus
+    mdf: Уран
+    mg: Uranus
+    mi: Rangipō
+    min: Uranus
+    mk: Уран
+    ml: യുറാനസ്
+    mn: Тэнгэрийн ван
+    mni: ꯁꯥꯀꯣꯛ ꯊꯄꯤ
+    mr: युरेनस ग्रह
+    ms: Uranus
+    mt: Uranu
+    mwl: Ourano
+    my: ယူရေးနပ်စ်ဂြိုဟ်
+    mzn: اورانوس
+    nah: Ilhuicateōcītlalli
+    nan: Thian-ông-chheⁿ
+    nap: Urano
+    nb: Uranus
+    nds: Uranus
+    nds-nl: Uranus
+    ne: अरूण
+    new: अरूण
+    nl: Uranus
+    nn: Uranus
+    nov: Urane
+    nqo: ߛߊ߲ߕߌ߮
+    nv: Yoowéinis
+    oc: Uranus
+    olo: Uranus
+    om: Yuuraanis
+    or: ଇଉରାନସ
+    os: Уран
+    pa: ਉਰਣ
+    pam: Uranus
+    pap: Urano
+    pcd: Uranus (planète)
+    pcm: Uranus
+    pl: Uran
+    pms: Uran
+    pnb: یورینس
+    ps: اورانوس
+    pt: Urano
+    pt-br: Urano
+    qu: Uranu
+    rm: Uranus
+    rmy: Rahor
+    ro: Uranus
+    ru: Уран
+    rue: Уран
+    rup: Uranus
+    sa: अरुणः
+    sah: Уранус
+    sat: ᱫᱷᱤᱨᱤ ᱮᱸᱜᱮᱞ
+    sc: Uranu
+    scn: Uranu
+    sco: Uranus
+    sd: يورينس
+    se: Uranus
+    sgs: Orans
+    sh: Uran
+    shi: Uranus
+    si: යුරේනස්
+    sk: Urán
+    skr: یورینس
+    sl: Uran
+    smn: Uranus
+    sn: Yuranisi
+    so: Uraano
+    sq: Urani
+    sr: Уран
+    st: Yuranese
+    stq: Uranus
+    su: Uranus
+    sv: Uranus
+    sw: Uranus
+    szl: Ůrůn
+    ta: யுரேனசு
+    te: యురేనస్
+    tg: Уран
+    th: ดาวยูเรนัส
+    tk: Uran
+    tl: Urano
+    tly: Uran
+    tok: mun Ulanu
+    tpi: Yurenes
+    tr: Uranüs
+    tt: Уран
+    tt-cyrl: Уран
+    tum: Chanya la Movwili
+    tyv: Уран
+    udm: Уран
+    ug: ئۇران
+    uk: Уран
+    ur: یورینس
+    uz: Uran
+    vec: Uran
+    vep: Uran
+    vi: Sao Thiên Vương
+    vls: Uranus
+    vo: Uranud
+    vro: Uraan
+    wa: Uranusse
+    war: Urano
+    wo: Uraanus
+    wuu: 天王星
+    xh: I-Uranus (i-astronomy)
+    xmf: ურანი
+    yi: אוראנוס
+    yo: Úránù
+    yue: 天王星
+    za: Ndaundeiqdenh'vuengz
+    zea: Uranus
+    zgh: ⵓⵔⴰⵏⵓⵙ
+    zh: 天王星
+    zh-cn: 天王星
+    zh-hans: 天王星
+    zh-hant: 天王星
+    zh-hk: 天王星
+    zh-mo: 天王星
+    zh-my: 天王星
+    zh-sg: 天王星
+    zh-tw: 天王星
+    zu: U-Uranu
 ---
-
 # [[Uranus(Planet)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Uranus,324]] 

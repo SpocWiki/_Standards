@@ -1,10 +1,134 @@
 ---
 aliases:
-  - Neil Richard MacKinnon Gaiman
-  - Neil Richard Gaiman
-  - Neil Gaiman
-  - Gaiman,Neil
+- Gaiman,Neil
+- Neil Gaiman
+- Neil Richard Gaiman
+- Neil Richard MacKinnon Gaiman
+- Nialus Gaiman
+- Nil Gejman
+- Nil Qeyman
+- Nīls Geimens
+- Νιλ Γκάιμαν
+- Гейман
+- Ніл Гейман
+- Ніл Ґейман
+- Нийл Геймън
+- Нил Гејман
+- Нил Гейман
+- Նիլ Գեյման
+- ניל גיימן
+- نيل جيمان
+- نيل غيمان
+- نیل قیمن
+- نیل گیمن
+- نیڵ گەیمن
+- নীল গেইম্যান
+- நீல் கெய்மென்
+- నీల్ గైమాన్
+- നീൽ ഗൈമന്
+- นีล ไกแมน
+- ნილ გეიმანი
+- ニール・ゲイマン
+- 尼奧基文
+- 尼尔·盖曼
+- 尼爾·蓋曼
+- 닐 게이먼
 has_id_wikidata: Q210059
+dv_has_:
+  name_:
+    af: Neil Gaiman
+    ar: نيل غيمان
+    arz: نيل جيمان
+    ast: Neil Gaiman
+    az: Nil Qeyman
+    azb: نیل قیمن
+    bar: Neil Gaiman
+    bcl: Neil Gaiman
+    be: Ніл Гейман
+    bg: Нийл Геймън
+    bn: নীল গেইম্যান
+    ca: Neil Gaiman
+    ckb: نیڵ گەیمن
+    cs: Neil Gaiman
+    cy: Neil Gaiman
+    da: Neil Gaiman
+    de: Neil Gaiman
+    el: Νιλ Γκάιμαν
+    en: Neil Gaiman
+    en-gb: Neil Gaiman
+    eo: Neil Gaiman
+    es: Neil Gaiman
+    et: Neil Gaiman
+    eu: Neil Gaiman
+    fa: نیل گیمن
+    fi: Neil Gaiman
+    fr: Neil Gaiman
+    ga: Neil Gaiman
+    gl: Neil Gaiman
+    he: ניל גיימן
+    hr: Neil Gaiman
+    hu: Neil Gaiman
+    hy: Նիլ Գեյման
+    ia: Neil Gaiman
+    id: Neil Gaiman
+    ie: Neil Gaiman
+    ig: Neil Gaiman
+    io: Neil Gaiman
+    is: Neil Gaiman
+    it: Neil Gaiman
+    ja: ニール・ゲイマン
+    ka: ნილ გეიმანი
+    ko: 닐 게이먼
+    ky: Нил Гейман
+    la: Nialus Gaiman
+    li: Neil Gaiman
+    lt: Neil Gaiman
+    lv: Nīls Geimens
+    mk: Нил Гејман
+    ml: നീൽ ഗൈമന്
+    mrj: Гейман
+    ms: Neil Gaiman
+    mul: Neil Gaiman
+    nb: Neil Gaiman
+    nds: Neil Gaiman
+    nds-nl: Neil Gaiman
+    nl: Neil Gaiman
+    nn: Neil Gaiman
+    no: Neil Gaiman
+    pag: Neil Gaiman
+    pam: Neil Gaiman
+    pfl: Neil Gaiman
+    pl: Neil Gaiman
+    pt: Neil Gaiman
+    pt-br: Neil Gaiman
+    ro: Neil Gaiman
+    ru: Нил Гейман
+    sco: Neil Gaiman
+    sh: Neil Gaiman
+    simple: Neil Gaiman
+    sk: Neil Gaiman
+    sl: Neil Gaiman
+    sq: Neil Gaiman
+    sr: Нил Гејман
+    sr-ec: Нил Гејман
+    sr-el: Nil Gejman
+    sv: Neil Gaiman
+    ta: நீல் கெய்மென்
+    te: నీల్ గైమాన్
+    th: นีล ไกแมน
+    tl: Neil Gaiman
+    tr: Neil Gaiman
+    uk: Ніл Ґейман
+    vi: Neil Gaiman
+    wuu: 尼尔·盖曼
+    yue: 尼奧基文
+    zh: 尼爾·蓋曼
+    zh-cn: 尼尔·盖曼
+    zh-hans: 尼尔·盖曼
+    zh-hant: 尼爾·蓋曼
+    zh-hk: 尼爾·蓋曼
+    zh-sg: 尼尔·盖曼
+    zh-tw: 尼爾·蓋曼
 ---
 # [[Gaiman,Neil]] 
 

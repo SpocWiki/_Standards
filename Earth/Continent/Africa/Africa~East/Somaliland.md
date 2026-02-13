@@ -1,47 +1,292 @@
 ---
 aliases:
-  - Somaliland
+- Críoch Shomáile
+- ISomaliland
+- ma Somalima
+- Somaalilun
+- Somaalimaa
+- Somalaland
+- Somaliaeennâm
+- Somaliajânnam
+- Somalilan
+- Somaliland
+- Somalilandas
+- Somalilande
+- Somalilandi
+- Somalilandia
+- Somalilandiya
+- Somalilando
+- Somalilend
+- Somalilàndia
+- Somalilândia
+- Somalilənd
+- Somalimaa
+- Somalîland
+- Somałiłàndia
+- Somáliaeana
+- Somālilenda
+- Soomaaliland
+- Szomáliföld
+- Sòmálílàndì
+- Sómalíland
+- Sômalilandy
+- Sůmaliland
+- Yn Tomaalee
+- Σομαλιλάνδη
+- Самаліленд
+- Самалілэнд
+- Сомаліленд
+- Сомалиланд
+- Сомалиленд
+- Сомалилендин Таңһч
+- Сумалиланд
+- Սոմալիլենդ
+- סאמאלילאנד
+- סומלילנד
+- أرض الصومال
+- ارض الصومال
+- سومالیلانډ
+- سومالیلند
+- سوٙمالی لأند
+- سۆماڵیلاند
+- صومالي لينڊ (ملڪ)
+- صوماليلاند
+- صومالی لینٛڈ
+- صومالی لینڈ
+- ܨܘܡܐܠܝܠܢܕ
+- ސޮމާލީލޭންޑު
+- सोमालिलैंड
+- सोमालीदेश
+- सोमालीलँड
+- सोमालीलैंड
+- সোমালিল্যান্ড
+- ਸੋਮਾਲੀਲੈਂਡ
+- સોમાલિલેન્ડ
+- சோமாலிலாந்து
+- సోమాలిలాండ్
+- ಸೊಮಾಲಿಲ್ಯಾಂಡ್
+- സോമാലിലാന്റ്
+- සෝමාලිලෑන්ඩ්
+- โซมาลีแลนด์
+- ໂຊມາລີແລນ
+- ဆိုမာလီလန်းနိုင်ငံ
+- မိူင်းသူဝ်ႇမႃးလီးလႅၼ်း
+- სომალილენდი
+- ሶማሊላንድ
+- ソマリランド
+- 索馬利蘭
+- 索馬里蘭
+- 索马里兰
+- 소말릴란드
 confidential: public
 cssclasses:
-  - geo-Region
+- geo-Region
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - de
-layout: ""
+- de
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - 9.7
-  - 46.1
+- 9.7
+- 46.1
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 title: Somaliland
 type: geo-Region
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]"
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]"
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]'
 has_id_wikidata: Q34754
+dv_has_:
+  name_:
+    ab: Сомалиленд
+    af: Somaliland
+    am: ሶማሊላንድ
+    an: Somalilandia
+    ang: Somalaland
+    anp: सोमालीदेश
+    ar: أرض الصومال
+    arc: ܨܘܡܐܠܝܠܢܕ
+    ary: صوماليلاند
+    arz: ارض الصومال
+    ast: Somalilandia
+    az: Somalilənd
+    azb: سومالیلند
+    ba: Сомалиленд
+    be: Самаліленд
+    be-tarask: Самалілэнд
+    bew: Somalilan
+    bg: Сомалиленд
+    bn: সোমালিল্যান্ড
+    br: Somaliland
+    bs: Somaliland
+    ca: Somalilàndia
+    cdo: Somaliland
+    ce: Сомалиленд
+    ckb: سۆماڵیلاند
+    crh: Somaliland
+    crh-latn: Somaliland
+    cs: Somaliland
+    cv: Сомалиленд
+    cy: Somaliland
+    da: Somaliland
+    de: Somaliland
+    diq: Somaliland
+    dv: ސޮމާލީލޭންޑު
+    el: Σομαλιλάνδη
+    en: Somaliland
+    eo: Somalilando
+    es: Somalilandia
+    et: Somaalimaa
+    eu: Somalilandia
+    fa: سومالیلند
+    fi: Somalimaa
+    fr: Somaliland
+    frp: Somalilande
+    frr: Somaalilun
+    ga: Críoch Shomáile
+    gag: Somalilend
+    gcr: Somaliland
+    gl: Somalilandia
+    gpe: Somaliland
+    gu: સોમાલિલેન્ડ
+    gur: Somaliland
+    gv: Yn Tomaalee
+    ha: Somaliland
+    hak: Somaliland
+    he: סומלילנד
+    hi: सोमालीलैंड
+    hr: Somaliland
+    ht: Somaliland
+    hu: Szomáliföld
+    hy: Սոմալիլենդ
+    iba: Somaliland
+    id: Somaliland
+    ie: Somaliland
+    ig: Somaliland
+    io: Somalilando
+    is: Sómalíland
+    it: Somaliland
+    ja: ソマリランド
+    jv: Somaliland
+    ka: სომალილენდი
+    kg: Somaliland
+    ki: Somaliland
+    kk: Сомалиленд
+    kn: ಸೊಮಾಲಿಲ್ಯಾಂಡ್
+    ko: 소말릴란드
+    ks: صومالی لینٛڈ
+    ku: Somalîland
+    ky: Сомалиленд
+    la: Somalilandia
+    lad: Somalilandia
+    lb: Somaliland
+    li: Somaliland
+    lij: Somaliland
+    lmo: Somaliland
+    ln: Somaliland
+    lo: ໂຊມາລີແລນ
+    lrc: سوٙمالی لأند
+    lt: Somalilandas
+    lv: Somālilenda
+    lzh: 索馬里蘭
+    mg: Sômalilandy
+    min: Somaliland
+    mk: Сомалиленд
+    ml: സോമാലിലാന്റ്
+    mn: Сомалиланд
+    mr: सोमालीलँड
+    ms: Somaliland
+    my: ဆိုမာလီလန်းနိုင်ငံ
+    mzn: سومالیلند
+    nan: Somaliland
+    nb: Somaliland
+    nl: Somaliland
+    nn: Somaliland
+    ny: Somaliland
+    oc: Somaliland
+    os: Сомалиленд
+    pa: ਸੋਮਾਲੀਲੈਂਡ
+    pam: Somaliland
+    pap: Somalilandia
+    pi: सोमालिलैंड
+    pl: Somaliland
+    pms: Somaliland
+    pnb: صومالی لینڈ
+    ps: سومالیلانډ
+    pt: Somalilândia
+    ro: Somaliland
+    ru: Сомалиленд
+    sa: सोमालिलैंड
+    sc: Somaliland
+    scn: Somaliland
+    sco: Somaliland
+    sd: صومالي لينڊ (ملڪ)
+    se: Somáliaeana
+    sh: Somaliland
+    shn: မိူင်းသူဝ်ႇမႃးလီးလႅၼ်း
+    si: සෝමාලිලෑන්ඩ්
+    sk: Soomaaliland
+    sl: Somaliland
+    smn: Somaliaeennâm
+    sms: Somaliajânnam
+    sn: SOMALILAND
+    so: Somaliland
+    sq: Somalilandi
+    sr: Somalilend
+    su: Somaliland
+    sv: Somaliland
+    sw: Somaliland
+    szl: Sůmaliland
+    ta: சோமாலிலாந்து
+    te: సోమాలిలాండ్
+    tg: Сумалиланд
+    th: โซมาลีแลนด์
+    tl: Somalilandiya
+    tok: ma Somalima
+    tr: Somaliland
+    tt: Сомалиленд
+    uk: Сомаліленд
+    ur: صومالی لینڈ
+    uz: Somalilend
+    vec: Somałiłàndia
+    vep: Somalilend
+    vi: Somaliland
+    war: Somaliland
+    wuu: 索马里兰
+    xal: Сомалилендин Таңһч
+    xmf: სომალილენდი
+    yi: סאמאלילאנד
+    yo: Sòmálílàndì
+    yue: 索馬里蘭
+    zh: 索马里兰
+    zh-hans: 索马里兰
+    zh-hant: 索馬利蘭
+    zh-hk: 索馬里蘭
+    zh-tw: 索馬利蘭
+    zu: ISomaliland
 ---
 # Somaliland
 

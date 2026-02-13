@@ -1,21 +1,57 @@
 ---
 aliases:
-  - William Golding
-  - Sir William Gerald Golding
-  - William Gerald Golding
-  - Golding
-  - William_Golding
-  - Golding,William
+- Golding
+- Golding Uilyam
+- Golding,William
+- Gulielmus Golding
+- Sir William Gerald Golding
+- Uilyam Qoldinq
+- Viljams Goldings
+- William Gerald Golding
+- William Golding
+- William_Golding
+- Ουίλιαμ Γκόλντινγκ
+- Ўільям Голдынг
+- Вільям Ґолдінґ
+- Вилијам Голдинг
+- Вильям Голдиң
+- Уільям Голдынг
+- Уильям Голдинг
+- Уилям Голдинг
+- Уилям Голдиң
+- Վիլյամ Գոլդինգ
+- ויליאם גולדינג
+- ولیم گولڈنگ
+- ولیم گولڈینگ
+- ويليام جولدنج
+- ويليام غولدنغ
+- ویلیام قلدینق
+- ویلیام گلدینگ
+- विलियम गोल्डिंग
+- विलियम गोल्डिङ
+- विल्यम गोल्डिंग
+- উইলিয়াম গোল্ডিং
+- ਵਿਲੀਅਮ ਗੋਲਡਿੰਗ
+- வில்லியம் கோல்டிங்
+- విలియం గోల్డింగ్
+- ಗೋಲ್ಡಿಂಗ್, ವಿಲಿಯಮ್
+- വില്യം ഗോൾഡിംഗ്
+- วิลเลียม โกลดิง
+- უილიამ გოლდინგი
+- ウィリアム・ゴールディング
+- 威廉·戈尔丁
+- 威廉高汀
+- 윌리엄 골딩
 has_id_wikidata: Q44183
 archives_at: '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Booker_Prize,160082]]'
-  - '[[_Standards/WikiData/WD~James_Tait_Black_Memorial_Prize,392586]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Literature,39477935]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Sorbonne_Nouvelle_University,113532584]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Booker_Prize,160082]]'
+- '[[_Standards/WikiData/WD~James_Tait_Black_Memorial_Prize,392586]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Literature,39477935]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Sorbonne_Nouvelle_University,113532584]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 BHCL_UUID: 7a08dc1a-8a04-4c93-b15c-79c4bf7a74ac
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 Commons_category: William Golding
@@ -24,13 +60,13 @@ date_of_birth: 1911-09-19T00:00:00Z
 date_of_death: 1993-06-19T00:00:00Z
 depicted_by: '[[_Standards/WikiData/WD~Sir_William_Gerald_Golding,28052147]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Brasenose_College,899030]]'
-  - '[[_Standards/WikiData/WD~Marlborough_Royal_Free_Grammar_School,15248403]]'
-  - '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+- '[[_Standards/WikiData/WD~Brasenose_College,899030]]'
+- '[[_Standards/WikiData/WD~Marlborough_Royal_Free_Grammar_School,15248403]]'
+- '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
 Europeana_entity: agent/base/60324
 family_name: '[[_Standards/WikiData/WD~Golding,21492385]]'
 field_of_work: '[[_Standards/WikiData/WD~novel,8261]]'
@@ -46,14 +82,14 @@ military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771]]'
 name_in_native_language: William Gerald Golding
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,271764]]'
-  - '[[_Standards/WikiData/WD~To_the_Ends_of_the_Earth,4394863]]'
+- '[[_Standards/WikiData/WD~Lord_of_the_Flies,271764]]'
+- '[[_Standards/WikiData/WD~To_the_Ends_of_the_Earth,4394863]]'
 occupation:
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 official_website: http://www.william-golding.co.uk/
 P8189: 987007306176305200
 place_of_birth: '[[_Standards/WikiData/WD~Newquay,943517]]'
@@ -65,8 +101,120 @@ spouse: '[[_Standards/WikiData/WD~Ann_Brookfield,108667516]]'
 Wolfram_Language_entity_code: Entity["Person", "WilliamGolding::3247f"]
 work_locations: '[[_Standards/WikiData/WD~Salisbury,160642]]'
 work_period_start_: 1934-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: William Golding
+    an: William Golding
+    ar: ويليام غولدنغ
+    arz: ويليام جولدنج
+    ast: William Golding
+    avk: William Golding
+    az: Uilyam Qoldinq
+    azb: ویلیام قلدینق
+    be: Уільям Голдынг
+    be-tarask: Ўільям Голдынг
+    bg: Уилям Голдинг
+    bn: উইলিয়াম গোল্ডিং
+    br: William Golding
+    ca: William Golding
+    cs: William Golding
+    cv: Уильям Голдинг
+    cy: William Golding
+    da: William Golding
+    de: William Golding
+    de-at: William Golding
+    de-ch: William Golding
+    diq: William Golding
+    el: Ουίλιαμ Γκόλντινγκ
+    en: William Golding
+    en-ca: William Golding
+    en-gb: William Golding
+    en-us: William Golding
+    eo: William Golding
+    es: William Golding
+    et: William Golding
+    eu: William Golding
+    fa: ویلیام گلدینگ
+    fi: William Golding
+    fr: William Golding
+    ga: William Golding
+    gd: William Golding
+    gl: William Golding
+    guw: William Golding
+    hak: William Golding
+    he: ויליאם גולדינג
+    hi: विलियम गोल्डिंग
+    hr: William Golding
+    hu: William Golding
+    hy: Վիլյամ Գոլդինգ
+    id: William Golding
+    ilo: William Golding
+    io: William Golding
+    is: William Golding
+    it: William Golding
+    ja: ウィリアム・ゴールディング
+    jut: William Golding
+    jv: William Golding
+    ka: უილიამ გოლდინგი
+    kk: Уильям Голдинг
+    kn: ಗೋಲ್ಡಿಂಗ್, ವಿಲಿಯಮ್
+    ko: 윌리엄 골딩
+    ku: William Golding
+    kw: William Golding
+    ky: Уилям Голдиң
+    la: Gulielmus Golding
+    lb: William Golding
+    lt: William Golding
+    lv: Viljams Goldings
+    mg: William Golding
+    mk: Вилијам Голдинг
+    ml: വില്യം ഗോൾഡിംഗ്
+    mr: विल्यम गोल्डिंग
+    ms: William Golding
+    mul: William Golding
+    mzn: ویلیام گلدینگ
+    nan: William Golding
+    nb: William Golding
+    ne: विलियम गोल्डिङ
+    nl: William Golding
+    nn: William Golding
+    oc: William Golding
+    pa: ਵਿਲੀਅਮ ਗੋਲਡਿੰਗ
+    pl: William Golding
+    pms: William Golding
+    pnb: ولیم گولڈنگ
+    pt: William Golding
+    pt-br: William Golding
+    qu: William Golding
+    ro: William Golding
+    ru: Уильям Голдинг
+    sc: William Golding
+    sco: William Golding
+    sh: William Golding
+    sje: William Golding
+    sk: William Golding
+    sl: William Golding
+    sq: William Golding
+    sr: Вилијам Голдинг
+    sr-ec: Вилијам Голдинг
+    sv: William Golding
+    sw: William Golding
+    ta: வில்லியம் கோல்டிங்
+    te: విలియం గోల్డింగ్
+    th: วิลเลียม โกลดิง
+    tr: William Golding
+    tt: Вильям Голдиң
+    uk: Вільям Ґолдінґ
+    ur: ولیم گولڈینگ
+    uz: Golding Uilyam
+    vi: William Golding
+    war: William Golding
+    wuu: 威廉·戈尔丁
+    xmf: უილიამ გოლდინგი
+    yo: William Golding
+    yue: 威廉高汀
+    zh: 威廉·戈尔丁
 ---
-
 # [[Golding,William]] 
 
 #has_/time_/started ::  1911-09-19 

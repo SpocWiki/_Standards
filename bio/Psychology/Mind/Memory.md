@@ -1,42 +1,131 @@
 ---
 aliases:
-  - Gedächtnis
-  - Memory
-  - "{ newTitle: }":
+- Alaala
+- Amuyu
+- atguods
+- atmintis
+- atmiņa
+- bellek
+- Bîrkan
+- Cof
+- cuimhne
+- emlékezet
+- eñvor
+- Fitadidiana
+- Gedächtnis
+- geheue
+- geheugen
+- Gmiak
+- hafiza
+- hukommelse
+- ingatan
+- kujtesë
+- Kumbukumbu
+- Kì-ek
+- Mandu'a
+- memoria
+- memorie
+- Memorija
+- memoro
+- Memory
+- Memorya
+- memòria
+- memória
+- Mimória
+- minne
+- Minni
+- muisti
+- Mälu
+- mémoire
+- Nostalgio
+- Oroimen
+- pamiãc
+- pamięć człowieka
+- pamäť
+- Pamćenje
+- paměť
+- Ricordiu
+- spomin
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- trí nhớ
+- Unthâld (psychology)
+- Xotira
+- yad
+- yaddaş
+- Yuyay
+- Μνήμη
+- Ас
+- Ес
+- Ой тогтоолт
+- пам'ять
+- памћење
+- Памет
+- память
+- памяць
+- Хотира
+- хәтер
+- Эс
+- հիշողություն
+- Յիշողութիւն
+- זיכרון
+- זכרון
+- ايڠتن
+- بیر
+- حافظه
+- حافظہ
+- حافیظه (جانلیلار)
+- ذاكرة
+- मेमरी
+- मेमोरी
+- लुमन्ति
+- स्मृति के विविध आयाम
+- স্মৃতি
+- স্মৃতি শক্তি
+- நினைவாற்றல்
+- ನೆನಪು
+- ഓർമ്മ
+- මතකය
+- ความจำ
+- ཁྱིམ་དྲན་སེམས་ནད།
+- မှတ်ဉာဏ်
+- მეხსიერება
+- 記憶
+- 记忆
+- 기억
 has_id_wikidata: Q492
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20fonctionne%20notre%20m%C3%A9moire.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Come%20funziona%20la%20nostra%20memoria.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20funktioniert%20unser%20Ged%C3%A4chtnis.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20fonctionne%20notre%20m%C3%A9moire.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Come%20funziona%20la%20nostra%20memoria.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20funktioniert%20unser%20Ged%C3%A4chtnis.webm
 different_from:
-  - "[[_Standards/WikiData/WD~Memory_(littoral_meaning),228636]]"
-  - "[[_Standards/WikiData/WD~computer_memory,5830907]]"
-  - "[[_Standards/WikiData/WD~memory,104127086]]"
-  - "[[_Standards/WikiData/WD~memory,110224124]]"
+- '[[_Standards/WikiData/WD~Memory_(littoral_meaning),228636]]'
+- '[[_Standards/WikiData/WD~computer_memory,5830907]]'
+- '[[_Standards/WikiData/WD~memory,104127086]]'
+- '[[_Standards/WikiData/WD~memory,110224124]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~cognitive_process,781413]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10703806,10703806]]"
-  - "[[_Standards/WikiData/WD~Template_Memory,12433042]]"
+- '[[_Standards/WikiData/WD~Q10703806,10703806]]'
+- '[[_Standards/WikiData/WD~Template_Memory,12433042]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~creation,11398090]]"
-  - "[[_Standards/WikiData/WD~short_term_memory,18599]]"
-  - "[[_Standards/WikiData/WD~long_term_memory,18601]]"
-  - "[[_Standards/WikiData/WD~explicit_memory,18608]]"
-  - "[[_Standards/WikiData/WD~implicit_memory,18614]]"
-  - "[[_Standards/WikiData/WD~recall,18733]]"
-subclass_of: "[[_Standards/WikiData/WD~learning_or_memory,14819853]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_characteristic: "[[_Standards/WikiData/WD~memory_type,27555265]]"
-has_effect: "[[_Standards/WikiData/WD~memory,104127086]]"
-studied_by: "[[_Standards/WikiData/WD~memory_and_attention,110620109]]"
+- '[[_Standards/WikiData/WD~creation,11398090]]'
+- '[[_Standards/WikiData/WD~short_term_memory,18599]]'
+- '[[_Standards/WikiData/WD~long_term_memory,18601]]'
+- '[[_Standards/WikiData/WD~explicit_memory,18608]]'
+- '[[_Standards/WikiData/WD~implicit_memory,18614]]'
+- '[[_Standards/WikiData/WD~recall,18733]]'
+subclass_of: '[[_Standards/WikiData/WD~learning_or_memory,14819853]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_characteristic: '[[_Standards/WikiData/WD~memory_type,27555265]]'
+has_effect: '[[_Standards/WikiData/WD~memory,104127086]]'
+studied_by: '[[_Standards/WikiData/WD~memory_and_attention,110620109]]'
 Commons_category: Memory
 Library_of_Congress_Classification: QP406
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20brain%20NIH.png
@@ -45,45 +134,166 @@ PhilPapers_topic: memory
 exact_match: http://purl.obolibrary.org/obo/GO_0007613
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/memory
 Dewey_Decimal_Classification:
-  - "128.3"
-  - "153.12"
-  - "370.1522"
-  - "612.823312"
+- 128.3
+- 153.12
+- 370.1522
+- 612.823312
 Iconclass_notation: 52A3
 MeSH_tree_code: F02.463.425.540
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/PAMYAT.html
 Colon_Classification: S:43
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
+dv_has_:
+  name_:
+    af: geheue
+    ar: ذاكرة
+    as: স্মৃতি শক্তি
+    ay: Amuyu
+    az: yaddaş
+    azb: حافیظه (جانلیلار)
+    ba: Хәтер
+    bar: Gmiak
+    bcl: Memorya
+    be: памяць
+    be-tarask: памяць
+    bg: Памет
+    bn: স্মৃতি
+    bo: ཁྱིམ་དྲན་སེམས་ནད།
+    br: eñvor
+    bs: Memorija
+    ca: memòria
+    ckb: بیر
+    cs: paměť
+    csb: pamiãc
+    cv: Ас
+    cy: Cof
+    da: hukommelse
+    de: Gedächtnis
+    de-ch: Gedächtnis
+    el: Μνήμη
+    en: memory
+    en-ca: Memory
+    en-gb: memory
+    eo: memoro
+    es: memoria
+    et: Mälu
+    eu: Oroimen
+    fa: حافظه
+    fi: muisti
+    fo: minni
+    fr: mémoire
+    fy: Unthâld (psychology)
+    ga: cuimhne
+    gl: memoria
+    gn: Mandu'a
+    he: זיכרון
+    hi: स्मृति के विविध आयाम
+    hr: Pamćenje
+    hu: emlékezet
+    hy: հիշողություն
+    hyw: Յիշողութիւն
+    ia: Memoria
+    id: Ingatan
+    io: Nostalgio
+    is: Minni
+    it: memoria
+    ja: 記憶
+    ka: მეხსიერება
+    kaa: yad
+    kk: Ес
+    kn: ನೆನಪು
+    ko: 기억
+    ku: Bîrkan
+    ky: Эс
+    la: Memoria
+    lfn: Memoria
+    lt: atmintis
+    ltg: atguods
+    lv: atmiņa
+    mg: Fitadidiana
+    mk: памет
+    ml: ഓർമ്മ
+    mn: Ой тогтоолт
+    mr: मेमरी
+    ms: ingatan
+    ms-arab: ايڠتن
+    mwl: Mimória
+    my: မှတ်ဉာဏ်
+    mzn: حافظه
+    nan: Kì-ek
+    nb: hukommelse
+    ne: मेमोरी
+    new: लुमन्ति
+    nl: geheugen
+    nn: minne
+    oc: memòria
+    pap: Memoria
+    pl: pamięć człowieka
+    pnb: حافظہ
+    ps: حافظه
+    pt: memória
+    qu: Yuyay
+    rki: မှတ်ဉာဏ်
+    ro: memorie
+    ru: память
+    scn: Ricordiu
+    sco: memory
+    sh: Pamćenje
+    si: මතකය
+    sk: pamäť
+    sl: spomin
+    sq: kujtesë
+    sr: памћење
+    sv: minne
+    sw: Kumbukumbu
+    ta: நினைவாற்றல்
+    tg: Хотира
+    th: ความจำ
+    tl: Alaala
+    tr: bellek
+    tt: хәтер
+    tt-cyrl: хәтер
+    uk: пам'ять
+    ur: hafiza
+    uz: Xotira
+    vec: memòria
+    vi: trí nhớ
+    war: Memorya
+    wuu: 记忆
+    yi: זכרון
+    yue: 記憶
+    zh: 記憶
+    zh-hans: 记忆
+    zh-hk: 記憶
 ---
-
 # [[Memory]] 
 
 #is_/same_as :: [[WD~Memory,492]] 

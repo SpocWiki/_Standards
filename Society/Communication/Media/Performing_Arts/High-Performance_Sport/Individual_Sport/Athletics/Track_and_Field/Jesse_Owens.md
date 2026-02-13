@@ -1,38 +1,67 @@
 ---
 aliases:
-  - Jesse_Owens
-  - James Cleveland Owens
-  - Jesse Owens
-  - Owens
+- Cesse Ouens
+- Džese Ouenss
+- Iesse Owens
+- James Cleveland Owens
+- Jesse Owens
+- Jesse_Owens
+- Owens
+- Τζέσε Όουενς
+- Џеси Овенс
+- Джеси Оуенс
+- Джессі Овенс
+- Джесси Оуэнс
+- Джэсі Оўэнз
+- Джэсі Оўэнс
+- Ջեսսի Օուենս
+- ג'סי אוונס
+- جسی اونز
+- جيسى اوينز
+- جيسي أوينز
+- جیسی اوونز
+- जेसी ओवेन्स
+- জেছি ওৱেন্ছ
+- জেসি ওয়েন্স
+- ਜੈਸੀ ਓਵਨਜ਼
+- ஜெசி ஓவென்ஸ்
+- జెస్సీ ఓవెన్స్
+- ജെസ്സി ഓവൻസ്
+- ဂျက်ဆီ အိုဝင်
+- ジェシー・オーエンス
+- 傑西·歐文斯
+- 杰西·欧文斯
+- 謝斯奧雲斯
+- 제시 오언스
 has_id_wikidata: Q52651
 Plex_person_key: 5d776827103a2d001f56459c
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "PresidentBushAwardsJesseOwensPosthumousCongressionalGoldMedal"]
 nickname: The Buckeye Bullet
 date_of_birth: 1913-09-12T00:00:00Z
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~100_metres,164761]]'
-  - '[[_Standards/WikiData/WD~long_jump,170737]]'
-  - '[[_Standards/WikiData/WD~200_metres,211155]]'
-  - '[[_Standards/WikiData/WD~4_100_metres_relay,230061]]'
+- '[[_Standards/WikiData/WD~100_metres,164761]]'
+- '[[_Standards/WikiData/WD~long_jump,170737]]'
+- '[[_Standards/WikiData/WD~200_metres,211155]]'
+- '[[_Standards/WikiData/WD~4_100_metres_relay,230061]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Ohio_State_University,309331]]'
-  - '[[_Standards/WikiData/WD~East_Technical_High_School,5329490]]'
-  - '[[_Standards/WikiData/WD~North_Platte_High_School,7056353]]'
+- '[[_Standards/WikiData/WD~Ohio_State_University,309331]]'
+- '[[_Standards/WikiData/WD~East_Technical_High_School,5329490]]'
+- '[[_Standards/WikiData/WD~North_Platte_High_School,7056353]]'
 family_name: '[[_Standards/WikiData/WD~Owens,357139]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]'
-  - "[[_Standards/WikiData/WD~Officer's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905334]]"
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]'
+- "[[_Standards/WikiData/WD~Officer's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905334]]"
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 given_name: '[[_Standards/WikiData/WD~Jesse,2227398]]'
 member_of: '[[_Standards/WikiData/WD~Alpha_Phi_Alpha,2839513]]'
 place_of_birth: '[[_Standards/WikiData/WD~Oakville,3116386]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 occupation:
-  - '[[_Standards/WikiData/WD~sprinter,4009406]]'
-  - '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
-  - '[[_Standards/WikiData/WD~long_jumper,13381428]]'
+- '[[_Standards/WikiData/WD~sprinter,4009406]]'
+- '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
+- '[[_Standards/WikiData/WD~long_jumper,13381428]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_burial: '[[_Standards/WikiData/WD~Oak_Woods_Cemetery,7073757]]'
 record_held: "[[_Standards/WikiData/WD~Men's_long_jump_world_record_progression,60748521]]"
@@ -57,11 +86,107 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jesse%20Owens%201936.j
 official_website: http://www.jesseowens.com/
 ORCID_iD: 0000-0003-4741-9661
 ISNI:
-  - 0000000063172505
-  - 0000000368412995
+- 0000000063172505
+- 0000000368412995
 Munzinger_Sport_number: 01000050035
+dv_has_:
+  name_:
+    af: Jesse Owens
+    an: Jesse Owens
+    ar: جيسي أوينز
+    arz: جيسى اوينز
+    as: জেছি ওৱেন্ছ
+    ast: Jesse Owens
+    ay: Jesse Owens
+    az: Cesse Ouens
+    bcl: Jesse Owens
+    be: Джэсі Оўэнс
+    be-tarask: Джэсі Оўэнз
+    bg: Джеси Оуенс
+    bn: জেসি ওয়েন্স
+    br: Jesse Owens
+    ca: Jesse Owens
+    cs: Jesse Owens
+    cy: Jesse Owens
+    da: Jesse Owens
+    de: Jesse Owens
+    el: Τζέσε Όουενς
+    en: Jesse Owens
+    en-ca: Jesse Owens
+    en-gb: Jesse Owens
+    eo: Jesse Owens
+    es: Jesse Owens
+    et: Jesse Owens
+    eu: Jesse Owens
+    fa: جسی اونز
+    fi: Jesse Owens
+    fr: Jesse Owens
+    fy: Jesse Owens
+    ga: Jesse Owens
+    gl: Jesse Owens
+    gom: Jesse Owens
+    he: ג'סי אוונס
+    hr: Jesse Owens
+    hu: Jesse Owens
+    hy: Ջեսսի Օուենս
+    id: Jesse Owens
+    io: Jesse Owens
+    is: Jesse Owens
+    it: Jesse Owens
+    ja: ジェシー・オーエンス
+    jv: Jesse Owens
+    kk: Джесси Оуэнс
+    ko: 제시 오언스
+    la: Iesse Owens
+    lb: Jesse Owens
+    lt: Jesse Owens
+    lv: Džese Ouenss
+    mg: Jesse Owens
+    min: Jesse Owens
+    ml: ജെസ്സി ഓവൻസ്
+    mr: जेसी ओवेन्स
+    ms: Jesse Owens
+    my: ဂျက်ဆီ အိုဝင်
+    nb: Jesse Owens
+    nl: Jesse Owens
+    nn: Jesse Owens
+    oc: Jesse Owens
+    pa: ਜੈਸੀ ਓਵਨਜ਼
+    pl: Jesse Owens
+    pnb: جیسی اوونز
+    pt: Jesse Owens
+    pt-br: Jesse Owens
+    qu: Jesse Owens
+    ro: Jesse Owens
+    ru: Джесси Оуэнс
+    scn: Jesse Owens
+    sco: Jesse Owens
+    sh: Jesse Owens
+    sk: Jesse Owens
+    sl: Jesse Owens
+    sq: Jesse Owens
+    sr: Џеси Овенс
+    sr-ec: Џеси Овенс
+    sv: Jesse Owens
+    sw: Jesse Owens
+    ta: ஜெசி ஓவென்ஸ்
+    te: జెస్సీ ఓవెన్స్
+    tl: Jesse Owens
+    tr: Jesse Owens
+    uk: Джессі Овенс
+    ur: جیسی اوونز
+    vi: Jesse Owens
+    wa: Jesse Owens
+    war: Jesse Owens
+    wuu: 杰西·欧文斯
+    yo: Jesse Owens
+    yue: 謝斯奧雲斯
+    zh: 杰西·欧文斯
+    zh-cn: 杰西·欧文斯
+    zh-hans: 杰西·欧文斯
+    zh-hant: 傑西·歐文斯
+    zh-tw: 傑西·歐文斯
 ---
-
 # [[Jesse_Owens]] 
 
 #is_/same_as :: [[WD~Jesse_Owens,52651]] 

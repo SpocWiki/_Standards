@@ -1,13 +1,80 @@
 ---
 aliases:
-  - Auftrieb
-  - upthrust
-  - Buoyancy
+- Auftrieb
+- bajásduvdin
+- Batmazlık
+- Batmazlıq
+- buacacht
+- Buoyancy
+- drijfkracht
+- Dryfvermoë
+- felhajtóerő
+- flosforto
+- flotabilidad
+- flotabilidade
+- Flotabilidá
+- flotabilitat
+- flotabilitate
+- Flotabilite
+- flotagarritasun
+- flottabilité
+- flytkraft
+- galleggiabilità
+- Gaya apung
+- gałizasion
+- hynofedd
+- impulsão
+- keapungan
+- kuubđâ
+- Lực nổi
+- noste
+- opdrift
+- oppdrift
+- Phû-le̍k
+- Pluskueshmëria
+- potisak
+- Simudzo
+- siła wyporu
+- statischer Auftrieb
+- Uppdrif
+- upthrust
+- uthlpavanam
+- uzgon
+- vzgon
+- vztlak
+- üleslükkejõud
+- Άνωση
+- Плаваемост
+- плавучість
+- пловност
+- плывучасць
+- плывучасьць
+- сила плавучести
+- Узгон
+- ציפה
+- باتمازلیق
+- سەرئاوکەتن
+- شناوری
+- طفو
+- قوت اچھال
+- لەيلىتىش كۈچى
+- उत्प्लावन बल
+- उर्ध्वचाप
+- প্লবতা
+- ਉਤਪਲਾਵਨ ਬਲ
+- மேலுதைப்பு
+- പ്ലവക്ഷമബലം
+- උත්ප්ලාවකතාව
+- แรงลอยตัว
+- ການລອຍຕົວ
+- ဖော့ဂုဏ်
+- 浮力
+- 부력
 has_id_wikidata: Q6497624
 described_by_source:
-  - "[[_Standards/WikiData/WD~Archimedes'_principle,181404]]"
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~Archimedes'_principle,181404]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
 instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 subclass_of: '[[_Standards/WikiData/WD~surface_force,2009590]]'
 statement_is_subject_of: '[[_Standards/WikiData/WD~object_immersed_in_liquid,29591319]]'
@@ -16,8 +83,85 @@ Commons_category: Buoyancy
 video: http://commons.wikimedia.org/wiki/Special:FilePath/04.%20%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE%20%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Buoyancy.svg
 Wolfram_Language_entity_code: Entity["Concept", "Irrepressibility::752dz"]
+dv_has_:
+  name_:
+    af: Dryfvermoë
+    ar: طفو
+    ast: Flotabilidá
+    az: Batmazlıq
+    azb: باتمازلیق
+    be: плывучасць
+    be-tarask: плывучасьць
+    bg: Плаваемост
+    bn: প্লবতা
+    bs: potisak
+    ca: flotabilitat
+    ckb: سەرئاوکەتن
+    cs: vztlak
+    cy: hynofedd
+    da: opdrift
+    de: statischer Auftrieb
+    el: Άνωση
+    en: buoyancy
+    eo: flosforto
+    es: flotabilidad
+    et: üleslükkejõud
+    eu: flotagarritasun
+    fa: شناوری
+    fi: noste
+    fr: flottabilité
+    ga: buacacht
+    gl: flotabilidade
+    he: ציפה
+    hi: उत्प्लावन बल
+    hr: uzgon
+    ht: Flotabilite
+    hu: felhajtóerő
+    id: Gaya apung
+    is: Uppdrif
+    it: galleggiabilità
+    ja: 浮力
+    ko: 부력
+    lo: ການລອຍຕົວ
+    mk: пловност
+    ml: പ്ലവക്ഷമബലം
+    ms: keapungan
+    my: ဖော့ဂုဏ်
+    nan: Phû-le̍k
+    nb: oppdrift
+    ne: उर्ध्वचाप
+    nl: drijfkracht
+    nn: oppdrift
+    pa: ਉਤਪਲਾਵਨ ਬਲ
+    pl: siła wyporu
+    pt: impulsão
+    ro: flotabilitate
+    ru: сила плавучести
+    se: bajásduvdin
+    sh: Uzgon
+    si: උත්ප්ලාවකතාව
+    sk: vztlak
+    sl: vzgon
+    smn: kuubđâ
+    sn: Simudzo
+    sq: Pluskueshmëria
+    sr: Узгон
+    sv: flytkraft
+    ta: மேலுதைப்பு
+    te: uthlpavanam
+    th: แรงลอยตัว
+    tr: Batmazlık
+    ug: لەيلىتىش كۈچى
+    uk: плавучість
+    ur: قوت اچھال
+    vec: gałizasion
+    vi: Lực nổi
+    wuu: 浮力
+    yue: 浮力
+    zh: 浮力
+    zh-hans: 浮力
+    zh-hant: 浮力
 ---
-
 # [[Buoyancy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Buoyancy,6497624|WD~Buoyancy,6497624]] 

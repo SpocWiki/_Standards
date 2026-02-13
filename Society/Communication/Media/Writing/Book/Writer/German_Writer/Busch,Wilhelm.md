@@ -1,10 +1,140 @@
 ---
 aliases:
-  - Wilhelm Busch
-  - Heinrich Christian Wilhelm Busch
-  - Wilhelm_Busch
-  - Busch,Wilhelm
+- Busch,Wilhelm
+- Gulielmus Busch
+- Heinrich Christian Wilhelm Busch
+- Vilhelm Buş
+- Vilhelm Buš
+- Vilhelmas Bušas
+- Vilhelms Bušs
+- Wellem Busch
+- Wilhelm Busch
+- Wilhelm_Busch
+- Willem Busch
+- Βίλχελμ Μπους
+- Вільгельм Буш
+- Вилхелм Буш
+- Вильгельм Буш
+- Вилҳелм Буш
+- Վիլհելմ Բուշ
+- וילהלם בוש
+- ويلهلم بوش
+- ویلهلم بوش
+- ویلھیلم بوش
+- ヴィルヘルム・ブッシュ
+- 威廉·布施
 has_id_wikidata: Q109540
+dv_has_:
+  name_:
+    af: Wilhelm Busch
+    an: Wilhelm Busch
+    ar: ويلهلم بوش
+    arz: ويلهلم بوش
+    ast: Wilhelm Busch
+    az: Vilhelm Buş
+    azb: ویلهلم بوش
+    bar: Wilhelm Busch
+    be: Вільгельм Буш
+    bg: Вилхелм Буш
+    br: Wilhelm Busch
+    bs: Wilhelm Busch
+    ca: Wilhelm Busch
+    ckb: ویلھیلم بوش
+    co: Wilhelm Busch
+    cs: Wilhelm Busch
+    cy: Wilhelm Busch
+    da: Wilhelm Busch
+    de: Wilhelm Busch
+    de-at: Wilhelm Busch
+    de-ch: Wilhelm Busch
+    ee: Wilhelm Busch
+    el: Βίλχελμ Μπους
+    en: Wilhelm Busch
+    en-ca: Wilhelm Busch
+    en-gb: Wilhelm Busch
+    eo: Wilhelm Busch
+    es: Wilhelm Busch
+    et: Wilhelm Busch
+    eu: Wilhelm Busch
+    fa: ویلهلم بوش
+    fi: Wilhelm Busch
+    fr: Wilhelm Busch
+    frp: Wilhelm Busch
+    fur: Wilhelm Busch
+    ga: Wilhelm Busch
+    gd: Wilhelm Busch
+    gl: Wilhelm Busch
+    gsw: Wilhelm Busch
+    he: וילהלם בוש
+    hr: Wilhelm Busch
+    hu: Wilhelm Busch
+    hy: Վիլհելմ Բուշ
+    ia: Wilhelm Busch
+    id: Wilhelm Busch
+    ie: Wilhelm Busch
+    io: Wilhelm Busch
+    is: Wilhelm Busch
+    it: Wilhelm Busch
+    ja: ヴィルヘルム・ブッシュ
+    kg: Wilhelm Busch
+    ksh: Wellem Busch
+    la: Gulielmus Busch
+    lb: Wilhelm Busch
+    li: Wilhelm Busch
+    lij: Wilhelm Busch
+    lt: Vilhelmas Bušas
+    lv: Vilhelms Bušs
+    mg: Wilhelm Busch
+    min: Wilhelm Busch
+    ms: Wilhelm Busch
+    mul: Wilhelm Busch
+    nap: Wilhelm Busch
+    nb: Wilhelm Busch
+    nds: Willem Busch
+    nds-nl: Wilhelm Busch
+    nl: Wilhelm Busch
+    nn: Wilhelm Busch
+    nrm: Wilhelm Busch
+    oc: Wilhelm Busch
+    pcd: Wilhelm Busch
+    pl: Wilhelm Busch
+    pms: Wilhelm Busch
+    pt: Wilhelm Busch
+    pt-br: Wilhelm Busch
+    rm: Wilhelm Busch
+    ro: Wilhelm Busch
+    ru: Вильгельм Буш
+    sc: Wilhelm Busch
+    scn: Wilhelm Busch
+    sco: Wilhelm Busch
+    sh: Wilhelm Busch
+    sk: Wilhelm Busch
+    sl: Wilhelm Busch
+    sq: Wilhelm Busch
+    sr: Вилхелм Буш
+    sr-ec: Вилхелм Буш
+    sr-el: Vilhelm Buš
+    stq: Heinrich Christian Wilhelm Busch
+    sv: Wilhelm Busch
+    sw: Wilhelm Busch
+    tg: Вилҳелм Буш
+    tg-latn: Vilhelm Buş
+    tr: Wilhelm Busch
+    uk: Вільгельм Буш
+    vec: Wilhelm Busch
+    vi: Wilhelm Busch
+    vls: Wilhelm Busch
+    vo: Wilhelm Busch
+    wa: Wilhelm Busch
+    wo: Wilhelm Busch
+    zh: 威廉·布施
+    zh-cn: 威廉·布施
+    zh-hans: 威廉·布施
+    zh-hant: 威廉·布施
+    zh-hk: 威廉·布施
+    zh-sg: 威廉·布施
+    zh-tw: 威廉·布施
+    zu: Wilhelm Busch
 ---
 # [[Busch,Wilhelm]] 
 

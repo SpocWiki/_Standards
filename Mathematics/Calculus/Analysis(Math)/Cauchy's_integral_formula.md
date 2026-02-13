@@ -1,23 +1,111 @@
 ---
 aliases:
-  - Cauchy's integral formula
-  - Cauchys integral formula
-  - Cauchy's_integral_formula
+- Cauchy integraalvalem
+- Cauchy integral formülü
+- Cauchy's integral formula
+- Cauchy's_integral_formula
+- Cauchy-integrálképlet
+- Cauchyho integrálna formula
+- Cauchyjeva integralska formula
+- Cauchyn integraalikaava
+- Cauchyren formula integral
+- Cauchys integral formula
+- Cauchys integralformel
+- cauchysche Integralformel
+- Cauchyův vzorec
+- Công thức tích phân Cauchy
+- Formula integrala de Cauchy
+- formula integrale di Cauchy
+- Formula integrale e Cauchy
+- formula integrală a lui Cauchy
+- formule intégrale de Cauchy
+- fórmula de la integral de Cauchy
+- Fórmula integral de Cauchy
+- Integraalformule van Cauchy
+- Koŝia integrala formulo
+- Košijeva integralna formula
+- Wzór całkowy Cauchy'ego
+- Ολοκληρωτικός τύπος του Κωσύ
+- Інтегральна формула Коші
+- інтэгральная формула Кашы
+- Интегральная формула Коши
+- Кошијева интегрална формула
+- Кошиҙың интеграль формулаһы
+- Կոշիի ինտեգրալ
+- נוסחת האינטגרל של קושי
+- صيغة كوشي التكاملية
+- فرمول انتگرال کوشی
+- فورمووڵی تەواوکاریی کۆشی
+- कौशी समाकल सूत्र
+- კოშის ინტეგრალი
+- コーシーの積分公式
+- 柯西积分公式
+- 柯西積分公式
+- 코시 적분 공식
 has_id_wikidata: Q913764
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
 different_from: "[[_Standards/WikiData/WD~Cauchy's_integral_theorem,834025]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-named_after: "[[_Standards/WikiData/WD~Augustin_Louis_Cauchy,8814]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+named_after: '[[_Standards/WikiData/WD~Augustin_Louis_Cauchy,8814]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C0;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖢</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><munder><mo stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝖢</mi></mrow></mrow></munder><mi>f</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>z</mi></mstyle></mrow></math>
-defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><msub><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>2</mn><mi>&#x03C0;</mi><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mrow></mrow></mfrac></mrow><munder><mo stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>𝖢</mi></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>f</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>z</mi><mo stretchy="false">&#x2212;</mo><msub><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mrow></mrow></mfrac></mrow><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>z</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C0;</mi></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><munder><mo stretchy=\"false\">&#x222B;</mo><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></munder><mi>f</mi><mo stretchy=\"false\">(</mo><mi>z</mi><mo stretchy=\"false\">)</mo><mspace width=\"0.167em\"></mspace><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mi>z</mi></mstyle></mrow></math>"
+defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>f</mi><mo stretchy=\"false\">(</mo><msub><mi>z</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mn>1</mn></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mn>2</mn><mi>&#x03C0;</mi><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">i</mi></mrow></mrow></mrow></mfrac></mrow><munder><mo stretchy=\"false\">&#x222B;</mo><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A2</mi></mrow></mrow></munder><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>f</mi><mo stretchy=\"false\">(</mo><mi>z</mi><mo stretchy=\"false\">)</mo></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>z</mi><mo stretchy=\"false\">&#x2212;</mo><msub><mi>z</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub></mrow></mrow></mfrac></mrow><mspace width=\"0.167em\"></mspace><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mi>z</mi></mstyle></mrow></math>"
+dv_has_:
+  name_:
+    ar: صيغة كوشي التكاملية
+    ast: Fórmula integral de Cauchy
+    ba: Кошиҙың интеграль формулаһы
+    be-tarask: інтэгральная формула Кашы
+    ca: fórmula de la integral de Cauchy
+    ckb: فورمووڵی تەواوکاریی کۆشی
+    cs: Cauchyův vzorec
+    de: cauchysche Integralformel
+    el: Ολοκληρωτικός τύπος του Κωσύ
+    en: Cauchy's integral formula
+    eo: Koŝia integrala formulo
+    es: fórmula integral de Cauchy
+    et: Cauchy integraalvalem
+    eu: Cauchyren formula integral
+    fa: فرمول انتگرال کوشی
+    fi: Cauchyn integraalikaava
+    fr: formule intégrale de Cauchy
+    gl: Fórmula integral de Cauchy
+    he: נוסחת האינטגרל של קושי
+    hi: कौशी समाकल सूत्र
+    hu: Cauchy-integrálképlet
+    hy: Կոշիի ինտեգրալ
+    it: formula integrale di Cauchy
+    ja: コーシーの積分公式
+    ka: კოშის ინტეგრალი
+    ko: 코시 적분 공식
+    nl: Integraalformule van Cauchy
+    oc: Formula integrala de Cauchy
+    pl: Wzór całkowy Cauchy'ego
+    pt: Fórmula integral de Cauchy
+    ro: formula integrală a lui Cauchy
+    ru: Интегральная формула Коши
+    sk: Cauchyho integrálna formula
+    sl: Cauchyjeva integralska formula
+    sq: Formula integrale e Cauchy
+    sr: Кошијева интегрална формула
+    sr-ec: Кошијева интегрална формула
+    sr-el: Košijeva integralna formula
+    sv: Cauchys integralformel
+    tr: Cauchy integral formülü
+    uk: Інтегральна формула Коші
+    vi: Công thức tích phân Cauchy
+    wuu: 柯西积分公式
+    yue: 柯西積分公式
+    zh: 柯西積分公式
+    zh-hans: 柯西积分公式
+    zh-hant: 柯西積分公式
+    zh-hk: 柯西積分公式
 ---
-
 # [[Cauchy's_integral_formula]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cauchy's_integral_formula,913764|WD~Cauchy's_integral_formula,913764]] 

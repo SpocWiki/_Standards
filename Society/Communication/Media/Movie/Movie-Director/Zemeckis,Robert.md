@@ -1,58 +1,88 @@
 ---
 aliases:
-  - Robert_Zemeckis
-  - Robert Lee Zemeckis
-  - Robert Zemeckis
-  - Bob Zemeckis
-  - Zemeckis
-  - Zemeckis,Robert
+- Bob Zemeckis
+- Robert Lee Zemeckis
+- Robert Zemeckis
+- Robert Zemekis
+- Robertas Zemeckis
+- Roberts Zemekis
+- Robertus Zemeckis
+- Robert_Zemeckis
+- Zemeckis
+- Zemeckis,Robert
+- Ρόμπερτ Ζεμέκις
+- Роберт Земекіс
+- Роберт Земекис
+- Робърт Земекис
+- Робэрт Зэмэкіс
+- Ռոբերտ Զեմեկիս
+- Ռոպերթ Զեմեքիս
+- רוברט זמקיס
+- رابرت زمکیس
+- رابرٹ زیمکس
+- رابرٹ زیمیکس
+- روبرت زيميكس
+- ڕۆبێرت زێمێکس
+- रॉबर्ट ज़माकिसो
+- रॉबर्ट झेमेकिस
+- রবার্ট জেমেকিস
+- ਰੌਬਰਟ ਜ਼ਮੈਕਿਸ
+- โรเบิร์ต เซเม็กคิส
+- რობერტ ზემეკისი
+- ロバート・ゼメキス
+- 罗伯特·泽米吉斯
+- 罗拔·泽麦基斯
+- 羅勃·辛密克斯
+- 羅拔·湛米基斯
+- 羅拔湛米基斯
+- 로버트 저메키스
 has_id_wikidata: Q187364
 notable_work:
-  - '[[_Standards/WikiData/WD~A_Christmas_Carol,86791]]'
-  - '[[_Standards/WikiData/WD~Back_to_the_Future,91558]]'
-  - '[[_Standards/WikiData/WD~Forrest_Gump,134773]]'
-  - '[[_Standards/WikiData/WD~Cast_Away,213411]]'
-  - '[[_Standards/WikiData/WD~Contact,270215]]'
-  - '[[_Standards/WikiData/WD~Who_Framed_Roger_Rabbit,379873]]'
-  - '[[_Standards/WikiData/WD~Romancing_the_Stone,502629]]'
-  - '[[_Standards/WikiData/WD~Flight,564298]]'
-  - '[[_Standards/WikiData/WD~What_Lies_Beneath,570481]]'
-  - '[[_Standards/WikiData/WD~Beowulf,644933]]'
-  - '[[_Standards/WikiData/WD~The_Polar_Express,862197]]'
-  - '[[_Standards/WikiData/WD~Death_Becomes_Her,1160186]]'
-  - '[[_Standards/WikiData/WD~Used_Cars,2363927]]'
-  - '[[_Standards/WikiData/WD~The_Witches,63630439]]'
-  - '[[_Standards/WikiData/WD~Pinocchio,105482844]]'
+- '[[_Standards/WikiData/WD~A_Christmas_Carol,86791]]'
+- '[[_Standards/WikiData/WD~Back_to_the_Future,91558]]'
+- '[[_Standards/WikiData/WD~Forrest_Gump,134773]]'
+- '[[_Standards/WikiData/WD~Cast_Away,213411]]'
+- '[[_Standards/WikiData/WD~Contact,270215]]'
+- '[[_Standards/WikiData/WD~Who_Framed_Roger_Rabbit,379873]]'
+- '[[_Standards/WikiData/WD~Romancing_the_Stone,502629]]'
+- '[[_Standards/WikiData/WD~Flight,564298]]'
+- '[[_Standards/WikiData/WD~What_Lies_Beneath,570481]]'
+- '[[_Standards/WikiData/WD~Beowulf,644933]]'
+- '[[_Standards/WikiData/WD~The_Polar_Express,862197]]'
+- '[[_Standards/WikiData/WD~Death_Becomes_Her,1160186]]'
+- '[[_Standards/WikiData/WD~Used_Cars,2363927]]'
+- '[[_Standards/WikiData/WD~The_Witches,63630439]]'
+- '[[_Standards/WikiData/WD~Pinocchio,105482844]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Northern_Illinois_University,1191344]]'
-  - '[[_Standards/WikiData/WD~USC_School_of_Cinematic_Arts,1583249]]'
-  - '[[_Standards/WikiData/WD~Fenger_Academy_High_School,5443418]]'
-  - '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
+- '[[_Standards/WikiData/WD~Northern_Illinois_University,1191344]]'
+- '[[_Standards/WikiData/WD~USC_School_of_Cinematic_Arts,1583249]]'
+- '[[_Standards/WikiData/WD~Fenger_Academy_High_School,5443418]]'
+- '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Lee,2061957]]'
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Lee,2061957]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 filmography: '[[_Standards/WikiData/WD~Robert_Zemeckis_filmography,6104658]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
@@ -80,8 +110,97 @@ ISNI: 0000000109347471
 Plex_person_key: 5d7768244de0ee001fcc80b7
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/ZEMEKIS_ROBERT.html
 birth_name: Robert Lee Zemeckis
+dv_has_:
+  name_:
+    ar: روبرت زيميكس
+    arz: روبرت زيميكس
+    ast: Robert Zemeckis
+    az: Robert Zemekis
+    be: Роберт Земекіс
+    be-tarask: Робэрт Зэмэкіс
+    bg: Робърт Земекис
+    bn: রবার্ট জেমেকিস
+    br: Robert Zemeckis
+    ca: Robert Zemeckis
+    ckb: ڕۆبێرت زێمێکس
+    co: Robert Zemeckis
+    cs: Robert Zemeckis
+    cy: Robert Zemeckis
+    da: Robert Zemeckis
+    de: Robert Zemeckis
+    el: Ρόμπερτ Ζεμέκις
+    en: Robert Zemeckis
+    eo: Robert Zemeckis
+    es: Robert Zemeckis
+    et: Robert Zemeckis
+    eu: Robert Zemeckis
+    fa: رابرت زمکیس
+    fi: Robert Zemeckis
+    fr: Robert Zemeckis
+    ga: Robert Zemeckis
+    gl: Robert Zemeckis
+    he: רוברט זמקיס
+    hi: रॉबर्ट ज़माकिसो
+    hr: Robert Zemeckis
+    hu: Robert Zemeckis
+    hy: Ռոբերտ Զեմեկիս
+    hyw: Ռոպերթ Զեմեքիս
+    id: Robert Zemeckis
+    io: Robert Zemeckis
+    it: Robert Zemeckis
+    ja: ロバート・ゼメキス
+    ka: რობერტ ზემეკისი
+    kk: Роберт Земекис
+    ko: 로버트 저메키스
+    ky: Роберт Земекис
+    la: Robertus Zemeckis
+    li: Robert Zemeckis
+    lt: Robertas Zemeckis
+    lv: Roberts Zemekis
+    mg: Robert Zemeckis
+    mk: Роберт Земекис
+    mn: Роберт Земекис
+    mr: रॉबर्ट झेमेकिस
+    ms: Robert Zemeckis
+    mul: Robert Zemeckis
+    nb: Robert Zemeckis
+    nl: Robert Zemeckis
+    nn: Robert Zemeckis
+    oc: Robert Zemeckis
+    pa: ਰੌਬਰਟ ਜ਼ਮੈਕਿਸ
+    pap: Robert Zemeckis
+    pl: Robert Zemeckis
+    pnb: رابرٹ زیمکس
+    pt: Robert Zemeckis
+    pt-br: Robert Zemeckis
+    qu: Robert Zemeckis
+    ro: Robert Zemeckis
+    ru: Роберт Земекис
+    sco: Robert Zemeckis
+    sh: Robert Zemeckis
+    sk: Robert Zemeckis
+    sl: Robert Zemeckis
+    sq: Robert Zemeckis
+    sr: Robert Zemekis
+    sv: Robert Zemeckis
+    th: โรเบิร์ต เซเม็กคิส
+    tr: Robert Zemeckis
+    uk: Роберт Земекіс
+    ur: رابرٹ زیمیکس
+    vi: Robert Zemeckis
+    war: Robert Zemeckis
+    wuu: 罗伯特·泽米吉斯
+    xmf: რობერტ ზემეკისი
+    yo: Robert Zemeckis
+    yue: 羅拔湛米基斯
+    zh: 羅拔·湛米基斯
+    zh-cn: 罗伯特·泽米吉斯
+    zh-hans: 罗伯特·泽米吉斯
+    zh-hant: 羅勃·辛密克斯
+    zh-hk: 羅拔湛米基斯
+    zh-sg: 罗拔·泽麦基斯
+    zh-tw: 羅勃·辛密克斯
 ---
-
 # [[Zemeckis,Robert]]  
 
 #is_/same_as :: [[WD~Robert_Zemeckis,187364]] 

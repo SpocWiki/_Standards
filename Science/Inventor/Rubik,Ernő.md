@@ -1,8 +1,104 @@
 ---
 has_id_wikidata: Q186089
+dv_has_:
+  name_:
+    ar: إرنو روبيك
+    arz: ارنو روبيك
+    ast: Ernő Rubik
+    az: Ernö Rubik
+    ba: Эрнё Рубик
+    bg: Ерньо Рубик
+    bn: এর্নো রুবিক
+    ca: Ernő Rubik
+    cs: Ernő Rubik
+    da: Ernő Rubik
+    de: Ernő Rubik
+    el: Έρνο Ρούμπικ
+    en: Ernő Rubik
+    eo: Ernő Rubik
+    es: Ernő Rubik
+    et: Ernő Rubik
+    eu: Ernő Rubik
+    fa: ارنو روبیک
+    fi: Ernő Rubik
+    fr: Ernő Rubik
+    ga: Ernő Rubik
+    gl: Ernő Rubik
+    he: ארנו רוביק
+    hr: Ernő Rubik
+    hu: Rubik Ernő
+    hy: Էռնյո Ռուբիկ
+    id: Ernő Rubik
+    it: Ernő Rubik
+    ja: ルビク・エルネー
+    ka: ერნო რუბიკი
+    kn: ಎರ್ನೋ ರೂಬಿಕ್
+    ko: 에르노 루빅
+    la: Ernő Rubik
+    lv: Ernē Rubiks
+    mg: Ernő Rubik
+    mk: Ерне Рубик
+    mn: Рубик Эрнё
+    ms: Ernő Rubik
+    mul: Ernő Rubik
+    nb: Ernő Rubik
+    nl: Ernő Rubik
+    pl: Ernő Rubik
+    pt: Ernő Rubik
+    pt-br: Ernő Rubik
+    ro: Ernő Rubik
+    ru: Эрнё Рубик
+    rue: Ернев Рубік
+    scn: Ernő Rubik
+    sco: Ernő Rubik
+    sk: Ernő Rubik
+    sl: Ernő Rubik
+    sq: Erno Rubik
+    sr: Ерне Рубик
+    sv: Ernő Rubik
+    szl: Ernő Rubik
+    ta: ஏர்னோ ரூபிக்
+    te: ఎర్నో రూబిక్
+    tr: Ernő Rubik
+    uk: Ерне Рубік
+    vi: Ernő Rubik
+    zh: 鲁比克·艾尔内
+    zh-cn: 艾尔内
+    zh-hans: 艾尔内
+    zh-hant: 艾爾內
+    zh-hk: 艾爾內
+    zh-sg: 艾尔内
+    zh-tw: 厄爾諾
+aliases:
+- Erno Rubik
+- Ernö Rubik
+- Ernē Rubiks
+- Ernő Rubik
+- Rubik Ernő
+- Έρνο Ρούμπικ
+- Ерне Рубік
+- Ерне Рубик
+- Ернев Рубік
+- Ерньо Рубик
+- Рубик Эрнё
+- Эрнё Рубик
+- Էռնյո Ռուբիկ
+- ארנו רוביק
+- إرنو روبيك
+- ارنو روبيك
+- ارنو روبیک
+- এর্নো রুবিক
+- ஏர்னோ ரூபிக்
+- ఎర్నో రూబిక్
+- ಎರ್ನೋ ರೂಬಿಕ್
+- ერნო რუბიკი
+- ルビク・エルネー
+- 厄爾諾
+- 艾尔内
+- 艾爾內
+- 鲁比克·艾尔内
+- 에르노 루빅
 ---
-
-
 # [[Rubik,Ernő]] 
 
 

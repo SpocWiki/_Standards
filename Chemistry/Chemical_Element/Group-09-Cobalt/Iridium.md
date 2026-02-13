@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Iridium
+- Imbidi
+- Irdel
+- iriddjum
+- Iridi
+- iridiam
+- Iridii
+- Iridij
+- Iridijum
+- iridio
+- Iridiom
+- Iridis
+- iridiu
+- Iridium
+- Iridiumi
+- iridiwm
+- Iridiy
+- Iridiyaam
+- Iridiyo
+- iridju
+- Iridyo
+- Iridyu
+- Iridyòm
+- iridín
+- Iriidium
+- iryd
+- Irìdiu
+- irídio
+- irídium
+- irīdijs
+- jinmrdiridi
+- Yirediyaamu
+- Îrîdyûm
+- İridium
+- İridyum
+- Ɩrɩdɩyɔm
+- ιρίδιο
+- іридій
+- ірыд
+- Ірыдый
+- Ириди
+- иридијум
+- Иридий
+- иридиум
+- իրիդիում
+- אירידיום
+- إريديوم
+- إيريديوم
+- ئىرىدىي
+- ئیریدیۆم
+- اريديوم
+- اریڈیم
+- ارېډيوم
+- ايريڊيم
+- ایریدیم
+- इरिडियम
+- इरीडियम
+- ইরিডিয়াম
+- ਇਰੀਡੀਅਮ
+- ઈરિડીયમ
+- ଇରିଡ଼ିଅମ
+- இரிடியம்
+- ఇరీడియం
+- ಇರಿಡಿಯಮ್
+- ഇറിഡിയം
+- อิริเดียม
+- ཨི་རི་ཌིམ།
+- အိုင်ရီဒီယမ်
+- ირიდიუმი
+- ኢሪዲየም
+- ᎠᎢᎵᏗᏴᎻ
+- イリジウム
+- 銥
+- 铱
+- ꯏꯔꯤꯗꯤꯌꯝ
+- 이리듐
+- 이리디움
 has_id_wikidata: Q877
 atomic_number: 77
-canonical_SMILES: "[Ir]"
+canonical_SMILES: '[Ir]'
 CAS_Registry_Number: 7439-88-5
 chemical_formula: Ir
 Commons_category: Iridium
@@ -11,16 +86,16 @@ Commons_gallery: Iridium
 Common_Procurement_Vocabulary_code: 14761000
 CPV_Supplementary_code: AA28
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Iridium,108310061]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Iridium,108310061]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q11714083,11714083]]"
-  - "[[_Standards/WikiData/WD~indium,1094]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson_Tennant,377800]]"
+- '[[_Standards/WikiData/WD~Q11714083,11714083]]'
+- '[[_Standards/WikiData/WD~indium,1094]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Smithson_Tennant,377800]]'
 DSSTOX_compound_identifier: DTXCID8047636
 EC_number: 231-095-9
 electronegativity: 2.2
@@ -28,27 +103,27 @@ element_symbol: Ir
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20foil.jpg
 InChI: InChI=1S/Ir
 InChIKey: GKOZUEZYRPOHIO-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.57
-  - 0.63
-  - 0.68
-location_of_discovery: "[[_Standards/WikiData/WD~London,84]]"
+- 0.57
+- 0.63
+- 0.68
+location_of_discovery: '[[_Standards/WikiData/WD~London,84]]'
 mass: 192.217
 MeSH_tree_code:
-  - D01.268.556.401
-  - D01.268.956.280
-  - D01.552.544.401
-named_after: "[[_Standards/WikiData/WD~Iris,184570]]"
+- D01.268.556.401
+- D01.268.956.280
+- D01.552.544.401
+named_after: '[[_Standards/WikiData/WD~Iris,184570]]'
 OmegaWiki_Defined_Meaning: 160503
 part_of:
-  - "[[_Standards/WikiData/WD~group_9,208107]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_9,208107]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 PubChem_CID: 23924
 SpocWebEntityId: 21973
-subclass_of: "[[_Standards/WikiData/WD~platinum_group,223995]]"
+subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995]]'
 time_of_discovery_or_invention: 1803
-topic_s_main_category: "[[_Standards/WikiData/WD~Q18200788,18200788]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q18200788,18200788]]'
 type: Element
 UMLS_CUI: C0022071
 Unicode_character: 銥
@@ -58,22 +133,184 @@ Wolfram_Language_entity_code: Entity["Mineral", "Iridium"]
 ZVG_number: 8460
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Iridium,877]]"
-    - "[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]"
-  part_of: "[[../Group-09-Cobalt]]"
+  - '[[../../../WikiData/WD~Iridium,877]]'
+  - '[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]'
+  part_of: '[[../Group-09-Cobalt]]'
 dv_has_:
   name_:
-    group: Group-09-Cobalt
-    en: Iridium
-    de: Iridium
     abbreviated: Ir
+    af: iridium
+    am: ኢሪዲየም
+    an: Iridio
+    anp: इरीडियम
+    ar: إريديوم
+    ary: إيريديوم
+    arz: اريديوم
+    ast: iridiu
+    avk: Irdel
+    az: İridium
+    ba: Иридий
+    ban: Iridium
+    bar: Iridium
+    bcl: Iridyo
+    be: Ірыдый
+    be-tarask: ірыд
+    bg: иридий
+    bho: इरीडियम
+    bn: ইরিডিয়াম
+    bo: ཨི་རི་ཌིམ།
+    br: Iridiom
+    bs: iridij
+    ca: iridi
+    cdo: Iridium
+    ceb: Iridio
+    chr: ᎠᎢᎵᏗᏴᎻ
+    ckb: ئیریدیۆم
+    co: Iridiu
+    cs: iridium
+    cv: Ириди
+    cy: iridiwm
+    da: iridium
+    de: Iridium
+    el: ιρίδιο
+    en: iridium
+    eo: iridio
+    es: iridio
+    et: Iriidium
+    eu: iridio
+    fa: ایریدیم
+    fi: iridium
+    fr: iridium
+    frr: Iriidium
+    fur: Iridi
+    ga: iridiam
+    gd: Iridium
+    gl: Iridio
+    group: Group-09-Cobalt
+    gu: ઈરિડીયમ
+    gv: iriddjum
+    hak: iridium
+    he: אירידיום
+    hi: इरीडियम
+    hif: Iridium
+    hr: Iridij
+    hsb: Iridium
+    ht: Iridyòm
+    hu: irídium
+    hy: իրիդիում
+    ia: Iridium
+    id: iridium
+    io: Iridio
+    is: iridín
+    it: iridio
+    ja: イリジウム
+    jbo: jinmrdiridi
+    jv: Iridium
+    ka: ირიდიუმი
+    kbp: Ɩrɩdɩyɔm
+    kk: Иридий
+    kn: ಇರಿಡಿಯಮ್
+    ko: 이리듐
+    ko-kp: 이리디움
+    ku: Îrîdyûm
+    kv: Иридий
+    kw: Iridiom
+    ky: Иридий
+    la: iridium
+    lb: Iridium
+    lfn: iridio
+    lg: Yirediyaamu
+    li: Iridium
+    lij: Iridio
+    lmo: Iridio
+    lt: Iridis
+    lv: irīdijs
+    lzh: 銥
+    mdf: Ириди
+    mk: иридиум
+    ml: ഇറിഡിയം
+    mn: ириди
+    mni: ꯏꯔꯤꯗꯤꯌꯝ
+    mr: इरिडियम
+    mrj: Иридий
+    ms: Iridium
+    mt: iridju
+    my: အိုင်ရီဒီယမ်
+    nan: Iridium
+    nb: iridium
+    ne: इरिडियम
+    new: इरिडियम
+    nl: iridium
+    nn: iridium
+    nov: Iridium
+    oc: Iridi
+    olo: Iridii
+    or: ଇରିଡ଼ିଅମ
+    os: иридий
+    pa: ਇਰੀਡੀਅਮ
+    pi: इरिडियम
+    pl: iryd
+    pms: Iridi
+    pnb: اریڈیم
+    ps: ارېډيوم
+    pt: irídio
+    pt-br: irídio
+    qu: Iridyu
+    ro: iridiu
+    ru: иридий
+    rup: Iridiu
+    sa: इरिडियम
+    sc: Irìdiu
+    scn: iridiu
+    sco: iridium
+    sd: ايريڊيم
+    sh: Iridijum
+    sk: irídium
+    sl: Iridij
+    so: Iridiyaam
+    sq: Iridiumi
+    sr: иридијум
+    sr-ec: Иридијум
+    stq: Iridium
+    sv: iridium
+    sw: Iridi
+    ta: இரிடியம்
+    te: ఇరీడియం
+    tg: Иридий
+    th: อิริเดียม
+    tl: Iridiyo
+    tr: İridyum
+    tt: Иридий
+    ug: ئىرىدىي
+    uk: іридій
+    ur: Iridium
+    uz: Iridiy
+    vep: Iridii
+    vi: iridi
+    war: Iridyo
+    wuu: 铱
+    xal: Иридиум
+    yi: אירידיום
+    yo: Iridium
+    yue: 銥
+    zh: 銥
+    zh-cn: 铱
+    zh-hans: 铱
+    zh-hant: 銥
+    zh-hk: 銥
+    zh-tw: 銥
+    zu: Imbidi
+  number_of_:
+    period: 6
+    group: 9
+    electrons: 77
   value_for_:
     weight_:
       u: 192.22
@@ -101,22 +338,18 @@ dv_has_:
       form_:
         kj_:
           mol: 604
-  number_of_:
-    period: 6
-    group: 9
-    electrons: 77
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Iridium,877]]"
-  - "[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]"
+- '[[../../../WikiData/WD~Iridium,877]]'
+- '[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]'
 dv_has_name_group: Group-09-Cobalt
-dv_is_part_of: "[[../Group-09-Cobalt]]"
+dv_is_part_of: '[[../Group-09-Cobalt]]'
 dv_has_name_en: Iridium
 dv_has_name_de: Iridium
 dv_has_value_for_weight_u: 192.22
@@ -137,7 +370,6 @@ dv_has_number_of_group: 9
 dv_has_name_abbreviated: Ir
 dv_has_number_of_electrons: 77
 ---
-
 # [[Iridium]] 
 
 #chemic/Element 

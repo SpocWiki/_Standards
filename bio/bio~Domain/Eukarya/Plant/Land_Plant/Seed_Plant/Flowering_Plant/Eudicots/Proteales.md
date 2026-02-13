@@ -1,8 +1,140 @@
 ---
 aliases:
-  - Proteales
+- Bộ Quắn hoa
+- Prootealaadsed
+- Protea-ordenen
+- Proteales
+- Protealoj
+- Proteals
+- proteju kārta
+- proteotvaré
+- Proteyaçiçəklilər
+- próteavirágúak
+- Silberbaumartige
+- srebrnikowce
+- πρωτεώδη
+- Протеєцвіті
+- протеецветные
+- Протея чукӧр
+- чинароцветни
+- פרוטנאים
+- بروطيات
+- راچیورگے
+- چنارسانان
+- प्रोटियेलीज़
+- อันดับเหมือดคน
+- ヤマモガシ目
+- 山龍眼目
+- 山龙眼目
+- 프로테아목
 title: Proteales
 has_id_wikidata: Q21838
+dv_has_:
+  name_:
+    af: Proteales
+    an: Proteales
+    ar: بروطيات
+    arz: بروطيات
+    ast: Proteales
+    az: Proteyaçiçəklilər
+    bar: Proteales
+    bg: чинароцветни
+    br: Proteales
+    bs: Proteales
+    ca: Proteals
+    ceb: Proteales
+    co: Proteales
+    cs: proteotvaré
+    cy: Proteales
+    da: Protea-ordenen
+    de: Silberbaumartige
+    de-at: Proteales
+    de-ch: Proteales
+    el: πρωτεώδη
+    en: Proteales
+    en-ca: Proteales
+    en-gb: Proteales
+    eo: Protealoj
+    es: Proteales
+    et: Prootealaadsed
+    eu: Proteales
+    ext: Proteales
+    fa: چنارسانان
+    fi: Proteales
+    fr: Proteales
+    frp: Proteales
+    frr: Proteales
+    fur: Proteales
+    ga: Proteales
+    gd: Proteales
+    gl: Proteales
+    gsw: Proteales
+    he: פרוטנאים
+    hi: प्रोटियेलीज़
+    hr: Proteales
+    hu: próteavirágúak
+    ia: Proteales
+    id: Proteales
+    ie: Proteales
+    io: Proteales
+    is: Proteales
+    it: Proteales
+    ja: ヤマモガシ目
+    kg: Proteales
+    ko: 프로테아목
+    koi: Протея чукӧр
+    ku: Proteales
+    la: Proteales
+    lb: Proteales
+    li: Proteales
+    lij: Proteales
+    lv: proteju kārta
+    mg: Proteales
+    min: Proteales
+    ms: Proteales
+    mul: Proteales
+    nap: Proteales
+    nb: Proteales
+    nds: Proteales
+    nds-nl: Proteales
+    nl: Proteales
+    nn: Proteales
+    nrm: Proteales
+    nys: Proteales
+    oc: Proteales
+    pcd: Proteales
+    pl: srebrnikowce
+    pms: Proteales
+    pnb: راچیورگے
+    pt: Proteales
+    pt-br: Proteales
+    rm: Proteales
+    ro: Proteales
+    ru: протеецветные
+    sc: Proteales
+    scn: Proteales
+    sco: Proteales
+    sk: Proteales
+    sl: Proteales
+    sq: Proteales
+    sv: Proteales
+    sw: Proteales
+    th: อันดับเหมือดคน
+    tr: Proteales
+    uk: Протеєцвіті
+    vec: Proteales
+    vi: Bộ Quắn hoa
+    vls: Proteales
+    vo: Proteales
+    wa: Proteales
+    war: Proteales
+    wo: Proteales
+    yue: 山龍眼目
+    zh: 山龙眼目
+    zh-cn: 山龙眼目
+    zh-hans: 山龙眼目
+    zh-hant: 山龍眼目
+    zu: Proteales
 ---
 ## Phylogeny 
 

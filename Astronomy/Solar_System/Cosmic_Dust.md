@@ -1,46 +1,191 @@
 ---
 aliases:
-  - Cosmic dust
-  - extraterrestrial dust
-  - space dust
-  - star dust
-  - Cosmic_Dust
-  - Cosmic Dust
+- Agedṛur akemdal
+- Avaruuspöly
+- Bụi vũ trụ
+- Cosmic dust
+- Cosmic_Dust
+- deannach cosmach
+- Debu kosmik
+- extraterrestrial dust
+- Geimryk
+- Interstellare Stëbs
+- Izarrarteko hauts
+- kosma polvo
+- Kosmala polvo
+- kosmický prach
+- Kosmik toz
+- Kosmiline tolm
+- Kosminės dulkės
+- kosmisch stof
+- kosmischer Staub
+- Kosmisk støv
+- kosmička prašina
+- Kosmiččupölü
+- Kozmik toz
+- kozmikus por
+- kozmični prah
+- Medziplanetárny prach
+- Međuzvezdana prašina
+- međuzvjezdana prašina
+- poeira cósmica
+- pols còsmica
+- polvere cosmica
+- polvo cósmico
+- Polvu cósmico
+- Posca cosmica
+- poussière cosmique
+- Povere
+- praf cosmic
+- pył kosmiczny
+- Ruimtestof
+- rymdstoft
+- space dust
+- star dust
+- Støv
+- Svemirska prašina
+- Κοσμική σκόνη
+- Алам букъу
+- вселенска прашина
+- Касмічны пыл
+- касьмічны пыл
+- Космічний пил
+- космик тузан
+- космическая пыль
+- Космически прах
+- космичка прашина
+- Космос саңы
+- Космос тусанĕ
+- Տիեզերական փոշի
+- אבק קוסמי
+- غبار كوني
+- غبار کیهانی
+- کائنأتؠ گرٕد
+- کائناتی غبار
+- खगोलीय धूल
+- মহাজাগতিক ধূলিকণা
+- ਖਗੋਲੀ ਧੂਲ
+- ฝุ่นคอสมิก
+- འཇིག་རྟེན་གྱི་ཐལམ།
+- კოსმოსური მტვერი
+- კოსმოსური ნტვერი
+- 宇宙塵
+- 宇宙尘
+- 우주진
 has_id_wikidata: Q193384
 subclass_of:
-  - "[[_Standards/WikiData/WD~dust,165632]]"
-  - "[[_Standards/WikiData/WD~particle,1621273]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~outer_space,4169]]"
+- '[[_Standards/WikiData/WD~dust,165632]]'
+- '[[_Standards/WikiData/WD~particle,1621273]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porous%20chondriteIDP.jpg
 UMLS_CUI: C0376611
 MeSH_tree_code:
-  - D20.633.222.200
-  - G01.060.075.159.200
-  - G16.500.275.240.200
+- D20.633.222.200
+- G01.060.075.159.200
+- G16.500.275.240.200
 Commons_category: Interstellar dust
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]"
-    - "[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]"
-    - "[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]"
+  - '[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]'
+  - '[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]'
+  - '[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]"
-  - "[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]"
-  - "[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]"
+- '[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]'
+- '[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]'
+- '[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]'
+- '[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]'
+- '[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]'
+- '[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]'
+dv_has_:
+  name_:
+    af: Ruimtestof
+    ar: غبار كوني
+    ast: Polvu cósmico
+    az: Kosmik toz
+    ba: Космос саңы
+    be: Касмічны пыл
+    be-tarask: касьмічны пыл
+    bg: Космически прах
+    bn: মহাজাগতিক ধূলিকণা
+    bs: Svemirska prašina
+    ca: pols còsmica
+    cs: kosmický prach
+    cv: Космос тусанĕ
+    da: Kosmisk støv
+    de: kosmischer Staub
+    dz: འཇིག་རྟེན་གྱི་ཐལམ།
+    el: Κοσμική σκόνη
+    en: cosmic dust
+    eo: kosma polvo
+    es: polvo cósmico
+    et: Kosmiline tolm
+    eu: Izarrarteko hauts
+    fa: غبار کیهانی
+    fi: Avaruuspöly
+    fr: poussière cosmique
+    ga: deannach cosmach
+    he: אבק קוסמי
+    hi: खगोलीय धूल
+    hr: međuzvjezdana prašina
+    hu: kozmikus por
+    hy: Տիեզերական փոշի
+    id: Debu kosmik
+    io: Kosmala polvo
+    is: Geimryk
+    it: polvere cosmica
+    ja: 宇宙塵
+    ka: კოსმოსური მტვერი
+    kab: Agedṛur akemdal
+    ko: 우주진
+    krc: Алам букъу
+    ks: کائنأتؠ گرٕد
+    lb: Interstellare Stëbs
+    lt: Kosminės dulkės
+    mk: вселенска прашина
+    ms: Debu kosmik
+    nap: Povere
+    nb: Støv
+    nl: kosmisch stof
+    oc: Posca cosmica
+    olo: Kosmiččupölü
+    pa: ਖਗੋਲੀ ਧੂਲ
+    pl: pył kosmiczny
+    pt: poeira cósmica
+    ro: praf cosmic
+    ru: космическая пыль
+    sh: Međuzvezdana prašina
+    sk: Medziplanetárny prach
+    sl: kozmični prah
+    sr: космичка прашина
+    sr-ec: космичка прашина
+    sr-el: kosmička prašina
+    sv: rymdstoft
+    th: ฝุ่นคอสมิก
+    tr: Kozmik toz
+    tt: космик тузан
+    tt-cyrl: космик тузан
+    uk: Космічний пил
+    ur: کائناتی غبار
+    vi: Bụi vũ trụ
+    xmf: კოსმოსური ნტვერი
+    yue: 宇宙塵
+    zh: 宇宙塵
+    zh-cn: 宇宙尘
+    zh-hans: 宇宙尘
+    zh-hant: 宇宙塵
+    zh-hk: 宇宙塵
+    zh-sg: 宇宙尘
+    zh-tw: 宇宙塵
 ---
-
 # [[Cosmic_Dust]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]] 

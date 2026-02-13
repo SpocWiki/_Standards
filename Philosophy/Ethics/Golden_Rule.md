@@ -1,27 +1,152 @@
 ---
 aliases:
-  - Golden Rule
-  - ethics of reciprocity
-  - Golden_Rule
+- Altın ereje
+- aranyszabály
+- Den Gyldne Regel
+- Den gyllene regeln
+- ethics of reciprocity
+- etica della reciprocità
+- Etika timbal balik
+- Ginintuang patakaran
+- Goidane Regl
+- Golden Rule
+- Goldene Regel
+- Golden_Rule
+- Goue Reël
+- gulden regel
+- Karşılıklılık Etiği
+- Kuldreegel
+- kultainen sääntö
+- Nguyên tắc vàng
+- Ora regulo
+- Regla d'Or
+- regla de oro
+- regula aurea
+- Regula de aur
+- Règle d'or
+- urrezko arau
+- Zlatno pravilo
+- zlato pravilo
+- Zlaté pravidlo
+- złota reguła etyczna
+- Ética da reciprocidade
+- Χρυσός Κανόνας
+- Алтын ереже
+- залатое правіла
+- Златно правило
+- Золоте правило моралі
+- Золотое правило нравственности
+- Кăмăл-сипетĕн ылтăн йĕркевĕ
+- Ոսկե կանոն
+- ואהבת לרעך כמוך
+- التىن ەرەجە
+- القاعدة الذهبية
+- القاعده الذهبيه
+- زرین قانون
+- سنہری اصول
+- قاعده طلایی
+- یاسای زێڕین
+- सुवर्ण नियम
+- स्वर्णिम नियम
+- গোল্ডেন রুল
+- பொன் விதி
+- ወርቃማው ሕግ
+- 恕道
+- 黄金律
+- 황금률
 has_id_wikidata: Q189573
 facet_of: '[[_Standards/WikiData/WD~applied_ethics,538733]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~rule,1151067]]'
-  - '[[_Standards/WikiData/WD~norm_of_reciprocity,2107249]]'
+- '[[_Standards/WikiData/WD~rule,1151067]]'
+- '[[_Standards/WikiData/WD~norm_of_reciprocity,2107249]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~maxim,1374354]]'
-  - '[[_Standards/WikiData/WD~ethical_principle,107085948]]'
-  - '[[_Standards/WikiData/WD~motto,42470]]'
+- '[[_Standards/WikiData/WD~maxim,1374354]]'
+- '[[_Standards/WikiData/WD~ethical_principle,107085948]]'
+- '[[_Standards/WikiData/WD~motto,42470]]'
 different_from: '[[_Standards/WikiData/WD~Lei_Áurea,1519167]]'
 main_subject: '[[_Standards/WikiData/WD~reciprocity,2147331]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/QVOD%20TIBI%20HOC%20ALTERI.jpg
 Commons_category: Golden rule
+dv_has_:
+  name_:
+    af: Goue Reël
+    am: ወርቃማው ሕግ
+    ar: القاعدة الذهبية
+    arz: القاعده الذهبيه
+    bar: Goidane Regl
+    be-tarask: залатое правіла
+    bg: Златно правило
+    bn: গোল্ডেন রুল
+    bs: Zlatno pravilo
+    ca: Regla d'Or
+    ckb: یاسای زێڕین
+    cs: Zlaté pravidlo
+    cv: Кăмăл-сипетĕн ылтăн йĕркевĕ
+    da: Den Gyldne Regel
+    de: Goldene Regel
+    de-ch: Goldene Regel
+    el: Χρυσός Κανόνας
+    en: Golden Rule
+    en-ca: Golden Rule
+    en-gb: Golden Rule
+    eo: Ora regulo
+    es: regla de oro
+    et: Kuldreegel
+    eu: urrezko arau
+    fa: قاعده طلایی
+    fi: kultainen sääntö
+    fr: Règle d'or
+    he: ואהבת לרעך כמוך
+    hi: स्वर्णिम नियम
+    hr: Zlatno pravilo
+    hu: aranyszabály
+    hy: Ոսկե կանոն
+    id: Etika timbal balik
+    it: etica della reciprocità
+    ja: 黄金律
+    kk: Алтын ереже
+    kk-arab: التىن ەرەجە
+    kk-cn: التىن ەرەجە
+    kk-cyrl: Алтын ереже
+    kk-kz: Алтын ереже
+    kk-latn: Altın ereje
+    kk-tr: Altın ereje
+    ko: 황금률
+    la: regula aurea
+    mk: Златно правило
+    nb: Den gyldne regel
+    new: सुवर्ण नियम
+    nl: gulden regel
+    pl: złota reguła etyczna
+    ps: زرین قانون
+    pt: Ética da reciprocidade
+    pt-br: Ética da reciprocidade
+    ro: Regula de aur
+    ru: Золотое правило нравственности
+    sh: Zlatno pravilo
+    sl: zlato pravilo
+    sr: Zlatno pravilo
+    sr-ec: Златно правило
+    sr-el: Zlatno pravilo
+    sv: Den gyllene regeln
+    ta: பொன் விதி
+    tl: Ginintuang patakaran
+    tr: Karşılıklılık Etiği
+    uk: Золоте правило моралі
+    ur: سنہری اصول
+    vi: Nguyên tắc vàng
+    zh: 恕道
+    zh-cn: 恕道
+    zh-hans: 恕道
+    zh-hant: 恕道
+    zh-hk: 恕道
+    zh-sg: 恕道
+    zh-tw: 恕道
 ---
-
 # [[Golden_Rule]] 
 
 #is_/same_as :: [[WD~Golden_Rule,189573]] 

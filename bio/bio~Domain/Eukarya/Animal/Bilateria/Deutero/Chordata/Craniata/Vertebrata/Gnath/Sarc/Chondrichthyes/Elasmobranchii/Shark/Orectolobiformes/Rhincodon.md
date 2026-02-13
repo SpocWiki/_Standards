@@ -1,17 +1,55 @@
 ---
 aliases:
+- Rhincodon
+- vaalhai
+- Ρυγχόδων
+- Китови акули
+- ジンベエザメ属
+- 鯨鯊屬
+- 鲸鲨属
 has_id_wikidata: Q17284129
-instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "159855"
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 159855
 Commons_category: Rhincodon typus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20Georgia%20aquarium.jpg
 EPPO_Code: 1RHNDG
 UMLS_CUI: C4391402
 taxon_name: Rhincodon
+dv_has_:
+  name_:
+    ast: Rhincodon
+    bg: Китови акули
+    ceb: Rhincodon
+    cs: Rhincodon
+    de: Rhincodon
+    el: Ρυγχόδων
+    en: Rhincodon
+    es: Rhincodon
+    et: vaalhai
+    fi: Rhincodon
+    fr: Rhincodon
+    ga: Rhincodon
+    hu: Rhincodon
+    it: Rhincodon
+    ja: ジンベエザメ属
+    la: Rhincodon
+    mul: Rhincodon
+    nl: Rhincodon
+    pl: Rhincodon
+    pt: Rhincodon
+    ro: Rhincodon
+    ru: Rhincodon
+    sq: Rhincodon
+    uk: Rhincodon
+    vi: Rhincodon
+    war: Rhincodon
+    zh: 鲸鲨属
+    zh-cn: 鯨鯊屬
+    zh-hans: 鲸鲨属
+    zh-tw: 鯨鯊屬
 ---
-
 # [[Rhincodon]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Rhincodon,17284129]] 

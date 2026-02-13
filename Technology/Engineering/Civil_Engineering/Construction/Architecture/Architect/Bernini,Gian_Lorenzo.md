@@ -1,11 +1,141 @@
 ---
 aliases:
-  - Giovanni Lorenzo Bernini
-  - Gian Lorenzo Bernini
-  - Gianlorenzo Bernini
-  - Bernini,Gian_Lorenzo
-  - Bernini,Gian Lorenzo
+- Bernini Jovanni Lorenso
+- Bernini,Gian Lorenzo
+- Bernini,Gian_Lorenzo
+- Covanni Lorenso Bernini
+- Džovanni Lorenco Bernīni
+- Gian Lorenzo Bernini
+- Gianlorenzo Bernini
+- Giovanni Lorenzo Bernini
+- Ioannes Laurentius Bernini
+- Le Bernin
+- Lorenco Bernïnï
+- Đovani Lorenco Bernini
+- Τζαν Λορέντσο Μπερνίνι
+- Ђовани Лоренцо Бернини
+- Џан Лоренцо Бернини
+- Бернини, Ҷованни Лоренсо
+- Джавані Ларэнца Берніні
+- Джаваньні Лярэнца Бэрніні
+- Джовани Лоренцо Бернини
+- Джованни Лоренцо Бернини
+- Лоренцо Берніні
+- Лоренцо Бернини
+- Ջովաննի Լորենցո Բեռնինի
+- ג'ובאני לורנצו ברניני
+- جان لورينزو برنينى
+- جان لورينزو برنيني
+- جان لورینزو برنینی
+- جان لۆرێنزۆ بێرنینی
+- جیان لورنزو برنینی
+- لورەنتسو بەرنىينىي
+- ਜਿਆਨ ਲੋਰੇਂਜ਼ੋ ਬੇਰਨਿਨੀ
+- จัน โลเรนโซ แบร์นีนี
+- ჯოვანი ლორენცო ბერნინი
+- ジャン・ロレンツォ・ベルニーニ
+- 吉安·洛伦佐·贝尼尼
+- 吉安·洛倫佐·貝尼尼
+- 잔 로렌초 베르니니
 has_id_wikidata: Q160538
+dv_has_:
+  name_:
+    af: Gian Lorenzo Bernini
+    an: Gian Lorenzo Bernini
+    ar: جان لورينزو برنيني
+    arz: جان لورينزو برنينى
+    ast: Gian Lorenzo Bernini
+    az: Covanni Lorenso Bernini
+    ba: Джованни Лоренцо Бернини
+    be: Джавані Ларэнца Берніні
+    be-tarask: Джаваньні Лярэнца Бэрніні
+    bg: Джовани Лоренцо Бернини
+    ca: Gian Lorenzo Bernini
+    ckb: جان لۆرێنزۆ بێرنینی
+    cs: Gian Lorenzo Bernini
+    cy: Gian Lorenzo Bernini
+    da: Giovanni Lorenzo Bernini
+    de: Gian Lorenzo Bernini
+    el: Τζαν Λορέντσο Μπερνίνι
+    en: Gian Lorenzo Bernini
+    en-ca: Gian Lorenzo Bernini
+    en-gb: Gian Lorenzo Bernini
+    en-us: Gian Lorenzo Bernini
+    eo: Gian Lorenzo Bernini
+    es: Gian Lorenzo Bernini
+    et: Gian Lorenzo Bernini
+    eu: Gian Lorenzo Bernini
+    fa: جیان لورنزو برنینی
+    fi: Gian Lorenzo Bernini
+    fr: Le Bernin
+    ga: Gian Lorenzo Bernini
+    gl: Gian Lorenzo Bernini
+    he: ג'ובאני לורנצו ברניני
+    hi: Gian Lorenzo Bernini
+    hif: Gian Lorenzo Bernini
+    hr: Gian Lorenzo Bernini
+    hu: Giovanni Lorenzo Bernini
+    hy: Ջովաննի Լորենցո Բեռնինի
+    id: Gian Lorenzo Bernini
+    io: Gian Lorenzo Bernini
+    it: Gian Lorenzo Bernini
+    ja: ジャン・ロレンツォ・ベルニーニ
+    ka: ჯოვანი ლორენცო ბერნინი
+    kk: Лоренцо Бернини
+    kk-arab: لورەنتسو بەرنىينىي
+    kk-cn: لورەنتسو بەرنىينىي
+    kk-cyrl: Лоренцо Бернини
+    kk-kz: Лоренцо Бернини
+    kk-latn: Lorenco Bernïnï
+    kk-tr: Lorenco Bernïnï
+    ko: 잔 로렌초 베르니니
+    la: Ioannes Laurentius Bernini
+    lt: Gian Lorenzo Bernini
+    lv: Džovanni Lorenco Bernīni
+    mg: Gian Lorenzo Bernini
+    mk: Џан Лоренцо Бернини
+    nb: Giovanni Lorenzo Bernini
+    nl: Gian Lorenzo Bernini
+    nn: Giovanni Lorenzo Bernini
+    olo: Gian Lorenzo Bernini
+    pa: ਜਿਆਨ ਲੋਰੇਂਜ਼ੋ ਬੇਰਨਿਨੀ
+    pam: Gian Lorenzo Bernini
+    pap: Gian Lorenzo Bernini
+    pl: Giovanni Lorenzo Bernini
+    pms: Gian Lorenzo Bernini
+    pt: Gian Lorenzo Bernini
+    pt-br: Gian Lorenzo Bernini
+    qu: Gian Lorenzo Bernini
+    ro: Gian Lorenzo Bernini
+    ru: Джованни Лоренцо Бернини
+    sco: Gian Lorenzo Bernini
+    sh: Gian Lorenzo Bernini
+    sk: Gian Lorenzo Bernini
+    sl: Gian Lorenzo Bernini
+    sq: Gian Lorenzo Bernini
+    sr: Ђовани Лоренцо Бернини
+    sr-ec: Ђовани Лоренцо Бернини
+    sr-el: Đovani Lorenco Bernini
+    sv: Giovanni Lorenzo Bernini
+    tg: Бернини, Ҷованни Лоренсо
+    th: จัน โลเรนโซ แบร์นีนี
+    tl: Gian Lorenzo Bernini
+    tr: Gian Lorenzo Bernini
+    uk: Лоренцо Берніні
+    ur: جان لورینزو برنینی
+    uz: Bernini Jovanni Lorenso
+    vi: Gian Lorenzo Bernini
+    vls: Gian Lorenzo Bernini
+    war: Gian Lorenzo Bernini
+    wuu: 吉安·洛伦佐·贝尼尼
+    yue: 吉安·洛倫佐·貝尼尼
+    zh: 吉安·洛伦佐·贝尼尼
+    zh-cn: 吉安·洛伦佐·贝尼尼
+    zh-hans: 吉安·洛伦佐·贝尼尼
+    zh-hant: 吉安·洛倫佐·貝尼尼
+    zh-hk: 吉安·洛倫佐·貝尼尼
+    zh-sg: 吉安·洛伦佐·贝尼尼
+    zh-tw: 吉安·洛倫佐·貝尼尼
 ---
 #has_/time_/started ::  1598-12-07
 #has_/time_/stopped  ::  1680-11-28 

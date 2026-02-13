@@ -1,34 +1,70 @@
 ---
-has_time_started: 1975-11-01 
+has_time_started: 1975-11-01
 aliases:
-  - G7
-  - Group of Seven
-  - G7(Group_of_Seven)
-  - G7(Group of Seven)
+- Böyük yeddilik
+- Chhit thai kûng-ngia̍p koet chû-chṳt
+- G-7
+- G7
+- G7 valstis
+- G7(Group of Seven)
+- G7(Group_of_Seven)
+- Groep van Sewe
+- Groep van Zeven
+- Group of Seven
+- Grupi 7
+- Grupo de Sep
+- Gróp vaan Zeve
+- Katta yettilik
+- Sjö helstu iðnríki heims
+- Большая семёрка
+- Вялікая сямёрка
+- Г-7
+- Г7
+- Група сямі
+- Их долоо
+- Ҙур ете
+- Ӝытпал кунъёслэн сизьым кузя огазеяськонзы
+- Մեծ յոթնյակ
+- ארגון המדינות המתועשות
+- جی۷
+- د اوو ډله
+- مجموعة الدول الصناعية السبع
+- يەتتە دۆلەت گوروھى
+- گرووپی حەوت
+- گروہ 7
+- जी-सेभेन
+- जी7
+- জি-৭
+- ஜி-7
+- ಕಾಮನ್ವೆಲ್ತಿನ ಆರ್ಥಿಕತೆ
+- กลุ่ม 7
+- ក្រុមប្រទេសទាំងប្រាំពីរ
+- 七国集团
+- 七大工業國組織
 has_id_wikidata: Q1764511
 instance_of:
-  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~group_of_major_economic_countries,28963381]]"
-  - "[[_Standards/WikiData/WD~heptad,29441572]]"
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~group_of_major_economic_countries,28963381]]'
+- '[[_Standards/WikiData/WD~heptad,29441572]]'
 different_from:
-  - "[[_Standards/WikiData/WD~G7,363716]]"
-  - "[[_Standards/WikiData/WD~G8,37143]]"
+- '[[_Standards/WikiData/WD~G7,363716]]'
+- '[[_Standards/WikiData/WD~G8,37143]]'
 replaces:
-  - "[[_Standards/WikiData/WD~G6,10287157]]"
-  - "[[_Standards/WikiData/WD~G8,37143]]"
+- '[[_Standards/WikiData/WD~G6,10287157]]'
+- '[[_Standards/WikiData/WD~G8,37143]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Group_of_7,22736998]]"
-  - "[[_Standards/WikiData/WD~Q25942093,25942093]]"
+- '[[_Standards/WikiData/WD~Template_Group_of_7,22736998]]'
+- '[[_Standards/WikiData/WD~Q25942093,25942093]]'
 participant:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-replaced_by: "[[_Standards/WikiData/WD~G8,37143]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+replaced_by: '[[_Standards/WikiData/WD~G8,37143]]'
 social_media_followers: 118534
 EU_Corporate_body_code: G7
 Facebook_username: G7
@@ -38,11 +74,106 @@ inception: 1975-11-01T00:00:00Z
 Commons_category: Group of Seven
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Group%20of%20Seven%20%28G7%29%20Countries.svg
 official_website: http://www.g7italy.it/
-ISNI: "0000000115480025"
-RIA_Novosti_reference: "1557774589"
+ISNI: 0000000115480025
+RIA_Novosti_reference: 1557774589
 short_name: G7
+dv_has_:
+  name_:
+    af: Groep van Sewe
+    ar: مجموعة الدول الصناعية السبع
+    az: Böyük yeddilik
+    ba: Ҙур ете
+    be: Вялікая сямёрка
+    be-tarask: Група сямі
+    bg: Г-7
+    bn: জি-৭
+    bs: G7
+    ca: G-7
+    ckb: گرووپی حەوت
+    cs: G7
+    cy: G7
+    da: G7
+    de: G7
+    en: G7
+    en-ca: Group of Seven
+    en-gb: Group of Seven
+    eo: G7
+    es: G-7
+    et: G7
+    eu: G7
+    fa: جی۷
+    fi: G7
+    fo: G7
+    fr: G7
+    ga: G7
+    gn: G-7
+    gsw: G7
+    hak: Chhit thai kûng-ngia̍p koet chû-chṳt
+    he: ארגון המדינות המתועשות
+    hi: जी7
+    hr: G7
+    hu: G7
+    hy: Մեծ յոթնյակ
+    id: G7
+    ie: G7
+    io: Grupo de Sep
+    is: Sjö helstu iðnríki heims
+    it: G7
+    ja: G7
+    km: ក្រុមប្រទេសទាំងប្រាំពីរ
+    kn: ಕಾಮನ್ವೆಲ್ತಿನ ಆರ್ಥಿಕತೆ
+    ko: G7
+    lb: G7
+    li: Gróp vaan Zeve
+    lt: G7
+    lv: G7 valstis
+    mn: Их долоо
+    ms: G7
+    mul: G7
+    nb: G7
+    ne: जी-सेभेन
+    nl: Groep van Zeven
+    nn: G7
+    pl: G7
+    ps: د اوو ډله
+    pt: G7
+    pt-br: G7
+    ro: G7
+    roa-tara: G7
+    ru: Большая семёрка
+    sc: G7
+    sh: G7
+    sk: G7
+    sl: G7
+    so: G7
+    sq: Grupi 7
+    sr: G7
+    sr-ec: Г7
+    sr-el: G7
+    sv: G7
+    sw: G7
+    ta: ஜி-7
+    th: กลุ่ม 7
+    tr: G7
+    udm: Ӝытпал кунъёслэн сизьым кузя огазеяськонзы
+    ug: يەتتە دۆلەت گوروھى
+    uk: G7
+    ur: گروہ 7
+    uz: Katta yettilik
+    vec: G7
+    vi: G7
+    wuu: 七国集团
+    yue: 七大工業國組織
+    zh: 七大工業國組織
+    zh-cn: 七国集团
+    zh-hans: 七国集团
+    zh-hant: 七大工業國組織
+    zh-hk: 七大工業國組織
+    zh-mo: 七大工業國組織
+    zh-my: 七国集团
+    zh-sg: 七国集团
+    zh-tw: 七大工業國組織
 ---
-
 # [[G7(Group_of_Seven)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~G7,1764511|WD~G7,1764511]] 

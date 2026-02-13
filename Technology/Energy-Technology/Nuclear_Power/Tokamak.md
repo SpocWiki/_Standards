@@ -1,23 +1,117 @@
 ---
 aliases:
+- tokamak
+- Tokamakas
+- Tokamako
+- tócamac
+- Τόκαμακ
+- такамак
+- токамак
+- Տոկամակ
+- טוקאמאק
+- توكاماك
+- توکاماک
+- टोकामाक
+- டோகாமாக்
+- ტოკამაკი
+- トカマク型
+- 托卡馬克
+- 托卡马克
+- 拓卡馬克
+- 토카막
 has_id_wikidata: Q188589
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Igor_Tamm,155759]]"
-  - "[[_Standards/WikiData/WD~Oleg_Lavrentiev,4252113]]"
-  - "[[_Standards/WikiData/WD~Andrei_Sakharov,997]]"
+- '[[_Standards/WikiData/WD~Igor_Tamm,155759]]'
+- '[[_Standards/WikiData/WD~Oleg_Lavrentiev,4252113]]'
+- '[[_Standards/WikiData/WD~Andrei_Sakharov,997]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Tokmok,854333]]"
-  - "[[_Standards/WikiData/WD~stellarator,1360597]]"
-  - "[[_Standards/WikiData/WD~levitated_dipole,3817417]]"
-uses: "[[_Standards/WikiData/WD~magnetic_confinement_fusion,939954]]"
-subclass_of: "[[_Standards/WikiData/WD~fusion_reactor,11536219]]"
-shape: "[[_Standards/WikiData/WD~torus,12510]]"
+- '[[_Standards/WikiData/WD~Tokmok,854333]]'
+- '[[_Standards/WikiData/WD~stellarator,1360597]]'
+- '[[_Standards/WikiData/WD~levitated_dipole,3817417]]'
+uses: '[[_Standards/WikiData/WD~magnetic_confinement_fusion,939954]]'
+subclass_of: '[[_Standards/WikiData/WD~fusion_reactor,11536219]]'
+shape: '[[_Standards/WikiData/WD~torus,12510]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Department%20of%20Energy%20-%20Science%20-%20425%20003%20001%20%289786811206%29.jpg
 IEV_number: 395-07-149
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOKAMAK.html
 Commons_category: Tokamaks
+dv_has_:
+  name_:
+    ar: توكاماك
+    ast: Tokamak
+    azb: توکاماک
+    ba: Токамак
+    be: такамак
+    be-tarask: такамак
+    bg: Токамак
+    bs: Tokamak
+    ca: Tokamak
+    cs: tokamak
+    da: Tokamak
+    de: Tokamak
+    el: Τόκαμακ
+    en: tokamak
+    en-ca: Tokamak
+    en-gb: Tokamak
+    eo: Tokamako
+    es: Tokamak
+    et: Tokamak
+    eu: Tokamak
+    fa: توکاماک
+    fr: tokamak
+    ga: tócamac
+    he: טוקאמאק
+    hi: टोकामाक
+    hr: Tokamak
+    hu: tokamak
+    hy: Տոկամակ
+    id: Tokamak
+    io: Tokamak
+    it: Tokamak
+    ja: トカマク型
+    ka: ტოკამაკი
+    kk: Токамак
+    kk-arab: توكاماك
+    kk-cn: توكاماك
+    kk-cyrl: Токамак
+    kk-kz: Токамак
+    kk-latn: Tokamak
+    kk-tr: Tokamak
+    ko: 토카막
+    ky: токамак
+    lt: Tokamakas
+    ms: tokamak
+    nb: tokamak
+    nl: tokamak
+    nn: tokamak
+    oc: Tokamak
+    pl: Tokamak
+    pt: tokamak
+    pt-br: Tokamak
+    ru: токамак
+    scn: Tokamak
+    sh: Tokamak
+    si: Tokamak
+    sk: Tokamak
+    sl: tokamak
+    sr: Tokamak
+    sv: Tokamak
+    ta: டோகாமாக்
+    th: Tokamak
+    tr: Tokamak
+    uk: токамак
+    uz: Tokamak
+    vi: Tokamak
+    war: Tokamak
+    yue: 拓卡馬克
+    zh: 托卡马克
+    zh-cn: 托卡马克
+    zh-hans: 托卡马克
+    zh-hant: 托卡馬克
+    zh-hk: 托卡馬克
+    zh-sg: 托卡马克
+    zh-tw: 托卡馬克
 ---
-
 # [[Tokamak]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tokamak,188589|WD~Tokamak,188589]]  

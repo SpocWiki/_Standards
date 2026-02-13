@@ -1,50 +1,475 @@
 ---
 aliases:
-  - Money
+- airgead
+- akuẹ
+- aqqariḍ
+- aqsha
+- arc'hant
+- argent
+- arian
+- ban
+- bèsi
+- béeso
+- cen
+- chîⁿ
+- cienz
+- cièng
+- coria
+- cwårs
+- danee
+- denar
+- denaro
+- Dengu
+- denheiro
+- dhuwit
+- dinaru
+- diner
+- dinero
+- diners
+- dineru
+- dinheiro
+- diru
+- diñeiro
+- duit
+- dëtczi
+- ega
+- ego
+- epeng
+- flus
+- Gejd
+- Geld
+- geldj
+- gelt
+- Gäld
+- gèld
+- ifaranga
+- Ikpoko
+- imali
+- Jil
+- jild
+- jinah
+- kalisiw
+- kefe
+- koppar
+- kuarta
+- kudi
+- kurum
+- kwarta
+- kîm-tshièn
+- lacagta
+- lajan
+- lanmonnen
+- laɣari
+- ligidi
+- lovi
+- mali
+- mani
+- manik
+- mari
+- mbɔ́ngɔ
+- mone
+- moneda
+- moneta
+- Money
+- moni
+- monie
+- mono
+- monæa
+- nauda
+- nneerü
+- novac
+- owó
+- paisa
+- para
+- paraja
+- pecunia
+- pekunio
+- pengar
+- penge
+- penger
+- peniaze
+- peningar
+- peníze
+- pere
+- pesa
+- pessè
+- pieniądz
+- pila'
+- pinigai
+- pitih
+- pul
+- pénz
+- pėnėngā
+- qullqi
+- raha
+- rahad
+- rantina qullqi
+- ruhta
+- salapi
+- schei
+- sika
+- siller
+- tiền
+- tupe
+- uang
+- viru
+- vola
+- wang
+- æхца
+- χρήμα
+- акча
+- акша
+- арцу
+- ахча
+- ачха
+- ақша
+- аҡса
+- аҧара
+- гроші
+- грошы
+- гӏарац
+- деньги
+- коньдон
+- мүнгэн
+- мөнгө
+- новац
+- пінязї
+- пари
+- пул
+- сьӧм
+- те̄ӈьк
+- укçа
+- харчы
+- ярмакт
+- փող
+- געלט
+- כסף
+- زر
+- فلوس
+- مال
+- پارە
+- پول
+- پيسا
+- پيسې
+- پیسے
+- پیل
+- धनम्
+- ध्यबा
+- पैसा
+- मनी
+- मुद्रा
+- অর্থ
+- মুদ্ৰা
+- ਮੁਦਰਾ
+- ଅର୍ଥ
+- பணம்
+- ధనం
+- ಹಣ
+- പണം
+- මුදල්
+- เงิน
+- ເງິນ
+- དངུལ་ལོར།
+- ငွေစက္ကူ
+- ფარა
+- ფული
+- ገንዘብ
+- ᎠᏕᎳ
+- ᠵᡳᡥᠠ
+- ᱠᱟᱹᱣᱰᱤ
+- ⴰⵇⵇⴰⵔⵉⴹ
+- 泉幣
+- 貨幣
+- 货币
+- 錢
+- 钞票
+- ꯁꯦꯜ
+- 돈
+- "\U00010343\U0001033A\U00010330\U00010344\U00010344\U00010343"
 has_id_wikidata: Q1368
 Colon_Classification: X6
 Commons_category: Money
 Commons_gallery: Money
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
-  - 332.024
-  - 332.4
+- 332.024
+- 332.4
 different_from:
-  - '[[_Standards/WikiData/WD~Money,295614]]'
-  - '[[_Standards/WikiData/WD~Geld,1314006]]'
-  - '[[_Standards/WikiData/WD~The_money,19455626]]'
-  - '[[_Standards/WikiData/WD~Piepen,63923349]]'
-  - '[[_Standards/WikiData/WD~currency,8142]]'
+- '[[_Standards/WikiData/WD~Money,295614]]'
+- '[[_Standards/WikiData/WD~Geld,1314006]]'
+- '[[_Standards/WikiData/WD~The_money,19455626]]'
+- '[[_Standards/WikiData/WD~Piepen,63923349]]'
+- '[[_Standards/WikiData/WD~currency,8142]]'
 has_use:
-  - '[[_Standards/WikiData/WD~trade,601401]]'
-  - '[[_Standards/WikiData/WD~payment,1148747]]'
+- '[[_Standards/WikiData/WD~trade,601401]]'
+- '[[_Standards/WikiData/WD~payment,1148747]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_money,167328]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ATMworldwide.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~legal_fiction,931483]]'
-  - '[[_Standards/WikiData/WD~medium_of_exchange,11105360]]'
+- '[[_Standards/WikiData/WD~legal_fiction,931483]]'
+- '[[_Standards/WikiData/WD~medium_of_exchange,11105360]]'
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/DENGI.html
 Library_of_Congress_Classification: HG201-HG1496
 named_after: '[[_Standards/WikiData/WD~groschen,159505]]'
 Nomenclature_for_Museum_Cataloging: 13823
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg
 subclass_of:
-  - '[[_Standards/WikiData/WD~legal_tender,1643989]]'
-  - '[[_Standards/WikiData/WD~nominal_good,1659862]]'
-  - '[[_Standards/WikiData/WD~standard_of_deferred_payment,7598359]]'
+- '[[_Standards/WikiData/WD~legal_tender,1643989]]'
+- '[[_Standards/WikiData/WD~nominal_good,1659862]]'
+- '[[_Standards/WikiData/WD~standard_of_deferred_payment,7598359]]'
 Wikidata_property: cash
+dv_has_:
+  name_:
+    ab: аҧара
+    acm: فلوس
+    af: geld
+    alt: акча
+    am: ገንዘብ
+    an: diners
+    ann: Ikpoko
+    ar: مال
+    ary: فلوس
+    arz: فلوس
+    as: মুদ্ৰা
+    ast: dineru
+    atj: coria
+    av: гӏарац
+    ay: qullqi
+    az: pul
+    azb: پول
+    ba: аҡса
+    ban: jinah
+    bar: Gejd
+    bcl: kwarta
+    be: грошы
+    be-tarask: грошы
+    bew: duit
+    bg: пари
+    bho: मनी
+    bjn: duit
+    bn: অর্থ
+    bo: དངུལ་ལོར།
+    br: arc'hant
+    bs: novac
+    btm: epeng
+    bxr: мүнгэн
+    ca: diner
+    cbk-zam: cen
+    cdo: cièng
+    ce: ахча
+    ceb: kwarta
+    chr: ᎠᏕᎳ
+    ckb: پارە
+    crh: para
+    cs: peníze
+    csb: dëtczi
+    cv: укçа
+    cy: arian
+    da: penge
+    dag: laɣari
+    de: Geld
+    de-at: Geld
+    de-ch: Geld
+    diq: pere
+    ee: ega
+    el: χρήμα
+    eml: bèsi
+    en: money
+    en-ca: money
+    en-gb: money
+    eo: mono
+    es: dinero
+    et: raha
+    eu: diru
+    ext: dineru
+    fa: پول
+    fi: raha
+    fr: argent
+    frr: Jil
+    fy: jild
+    ga: airgead
+    gan: 錢
+    gcr: lanmonnen
+    gd: airgead
+    gl: diñeiro
+    gn: viru
+    got: "\U00010343\U0001033A\U00010330\U00010344\U00010344\U00010343"
+    gpe: money
+    gsw: Gäld
+    guc: nneerü
+    guw: akuẹ
+    ha: kudi
+    hak: kîm-tshièn
+    he: כסף
+    hi: पैसा
+    hif: paisa
+    hr: novac
+    ht: lajan
+    hu: pénz
+    hy: փող
+    ia: moneta
+    id: uang
+    ig: ego
+    ik: manik
+    ilo: kuarta
+    inh: ахча
+    io: pekunio
+    is: peningar
+    it: denaro
+    ja: 貨幣
+    jam: moni
+    jv: dhuwit
+    ka: ფული
+    kaa: aqsha
+    kcg: kurum
+    kge: duit
+    kk: ақша
+    kn: ಹಣ
+    ko: 돈
+    krc: ачха
+    ku: pere
+    kv: сьӧм
+    ky: акча
+    la: pecunia
+    lb: Geld
+    lbe: арцу
+    lfn: mone
+    li: geldj
+    lij: monæa
+    lmo: danee
+    ln: mbɔ́ngɔ
+    lo: ເງິນ
+    lrc: پیل
+    lt: pinigai
+    lv: nauda
+    lzh: 泉幣
+    mad: pessè
+    mai: मुद्रा
+    mdf: ярмакт
+    mg: vola
+    mi: moni
+    min: pitih
+    mk: пари
+    ml: പണം
+    mn: мөнгө
+    mnc: ᠵᡳᡥᠠ
+    mni: ꯁꯦꯜ
+    mos: ligidi
+    ms: wang
+    mt: flus
+    mwl: denheiro
+    my: ငွေစက္ကူ
+    myv: ярмакт
+    mzn: پیل
+    nan: chîⁿ
+    nb: penger
+    nds: Geld
+    nds-nl: gèld
+    ne: मुद्रा
+    new: ध्यबा
+    nia: kefe
+    nl: geld
+    nn: pengar
+    nv: béeso
+    oc: moneda
+    olo: Dengu
+    or: ଅର୍ଥ
+    os: æхца
+    pa: ਮੁਦਰਾ
+    pcm: monie
+    pih: mani
+    pl: pieniądz
+    pms: moneda
+    pnb: پیسے
+    ps: پيسې
+    pt: dinheiro
+    pt-br: dinheiro
+    qu: rantina qullqi
+    rmy: lovi
+    ro: ban
+    ru: деньги
+    rue: пінязї
+    rw: ifaranga
+    sa: धनम्
+    sah: харчы
+    sat: ᱠᱟᱹᱣᱰᱤ
+    scn: dinaru
+    sco: siller
+    sd: پيسا
+    se: ruhta
+    sgs: pėnėngā
+    sh: novac
+    shi: aqqariḍ
+    si: මුදල්
+    sjd: те̄ӈьк
+    sk: peniaze
+    sl: denar
+    sm: tupe
+    sn: mari
+    so: lacagta
+    sq: paraja
+    sr: новац
+    sr-ec: новац
+    su: duit
+    sv: pengar
+    sw: pesa
+    szl: gelt
+    szy: kalisiw
+    ta: பணம்
+    tay: pila'
+    te: ధనం
+    tg: пул
+    th: เงิน
+    tk: pul
+    tl: salapi
+    tok: mani
+    tpi: mani
+    tr: para
+    ts: mali
+    tt: акча
+    tt-cyrl: акча
+    tw: sika
+    tyv: акша
+    udm: коньдон
+    uk: гроші
+    ur: زر
+    uz: pul
+    vec: schei
+    vep: rahad
+    vi: tiền
+    vro: raha
+    wa: cwårs
+    war: kwarta
+    wo: koppar
+    wuu: 钞票
+    xh: imali
+    xmf: ფარა
+    yi: געלט
+    yo: owó
+    yue: 錢
+    za: cienz
+    zgh: ⴰⵇⵇⴰⵔⵉⴹ
+    zh: 貨幣
+    zh-cn: 货币
+    zh-hans: 货币
+    zh-hant: 貨幣
+    zh-hk: 貨幣
+    zh-mo: 貨幣
+    zh-my: 货币
+    zh-sg: 货币
+    zh-tw: 貨幣
+    zu: imali
 ---
-
 # [[Money]] 
 
 #has_/result_/positive :: has/creates Trust 

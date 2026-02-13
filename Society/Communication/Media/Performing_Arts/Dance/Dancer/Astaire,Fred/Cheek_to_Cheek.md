@@ -1,8 +1,37 @@
 ---
 has_id_wikidata: Q3351931
+dv_has_:
+  name_:
+    ast: Cheek to Cheek
+    ca: Cheek to Cheek
+    da: Cheek to Cheek
+    de: Cheek to Cheek
+    en: Cheek to Cheek
+    es: Cheek to Cheek
+    eu: Cheek to Cheek
+    fi: Cheek to Cheek
+    fr: Cheek to Cheek
+    he: Cheek to Cheek
+    hu: Cheek to Cheek
+    it: Cheek to Cheek
+    ja: チーク・トゥ・チーク
+    mul: Cheek to Cheek
+    nb: Cheek to Cheek
+    nl: Cheek to Cheek
+    nn: Cheek to Cheek
+    pl: Cheek to Cheek
+    pt: Cheek to Cheek
+    ro: Cheek to Cheek
+    ru: Cheek to Cheek
+    se: Cheek to Cheek
+    sq: Cheek to Cheek
+    sv: Cheek to Cheek
+    tg: Cheek to Cheek
+    tr: Cheek to Cheek
+aliases:
+- Cheek to Cheek
+- チーク・トゥ・チーク
 ---
-
-
 # [[Cheek_to_Cheek]] 
 
 ## #has_/text_of_/abstract 

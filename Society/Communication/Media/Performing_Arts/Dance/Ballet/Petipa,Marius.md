@@ -1,16 +1,33 @@
 ---
 aliases:
-  - Marius_Petipa
-  - Marius Ivanovich Petipa
-  - Мариус Иванович Петипа
-  - Victor Marius Alphonse Petipa
-  - Marius Petipa
-  - Petipa
-  - Petipa,Marius
+- Marijus Petipa
+- Marius Ivanovich Petipa
+- Marius Petipa
+- Marius_Petipa
+- Marïws Ïvanovïç Petïpa
+- Petipa
+- Petipa,Marius
+- Victor Marius Alphonse Petipa
+- Маріус Петіпа
+- Маријус Петипа
+- Мариус Иванович Петипа
+- Мариус Петипа
+- Марыус Іванавіч Петыпа
+- Марыюс Пэтыпа
+- Петипа Мариус Иванович
+- Մարիուս Պետիպա
+- מריוס פטיפה
+- مارىيۋس ىيۆانوۆىيتش پەتىيپا
+- ماريوس بتيبا
+- ماریوس پتیپا
+- マリウス・プティパ
+- 馬里于斯·珀蒂帕
+- 马里于斯·珀蒂帕
+- 마리우스 프티파
 has_id_wikidata: Q312320
 ISNI:
-  - 0000000121491599
-  - 0000000108659203
+- 0000000121491599
+- 0000000108659203
 Europeana_entity: agent/base/72130
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/PETIPA_MARIUS_IVANOVICH.html
 pseudonym: Мариус Иванович Петипа
@@ -19,39 +36,39 @@ birth_name: Victor Alphonse Petipa
 date_of_death: 1910-07-14T00:00:00Z
 AGORHA_UUID: 08677815-ac6c-4eee-ad74-f54d060d2234
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Nutcracker,193705]]'
-  - '[[_Standards/WikiData/WD~Swan_Lake,199786]]'
-  - '[[_Standards/WikiData/WD~La_Bayadère,674967]]'
-  - '[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051]]'
-  - '[[_Standards/WikiData/WD~Don_Quixote,1239463]]'
+- '[[_Standards/WikiData/WD~The_Nutcracker,193705]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,199786]]'
+- '[[_Standards/WikiData/WD~La_Bayadère,674967]]'
+- '[[_Standards/WikiData/WD~The_Sleeping_Beauty,838051]]'
+- '[[_Standards/WikiData/WD~Don_Quixote,1239463]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_Crown,278739]]'
-  - '[[_Standards/WikiData/WD~French_Order_of_Academic_Palms,760940]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_3rd_class,18084456]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Crown,278739]]'
+- '[[_Standards/WikiData/WD~French_Order_of_Academic_Palms,760940]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_3rd_class,18084456]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
 educated_at: '[[_Standards/WikiData/WD~Royal_Conservatory_of_Brussels,336968]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 occupation:
-  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
-  - '[[_Standards/WikiData/WD~ballet_master,805253]]'
-  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~librettist,8178443]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+- '[[_Standards/WikiData/WD~ballet_master,805253]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
 place_of_death: '[[_Standards/WikiData/WD~Hurzuf,1026062]]'
 child:
-  - '[[_Standards/WikiData/WD~Marie_Petipa,1749273]]'
-  - '[[_Standards/WikiData/WD~Marius_Mariusovich_Petipa,4360301]]'
-  - '[[_Standards/WikiData/WD~Mariy_Petipa,113552844]]'
-  - '[[_Standards/WikiData/WD~Nadezhda_Petipa,120691087]]'
+- '[[_Standards/WikiData/WD~Marie_Petipa,1749273]]'
+- '[[_Standards/WikiData/WD~Marius_Mariusovich_Petipa,4360301]]'
+- '[[_Standards/WikiData/WD~Mariy_Petipa,113552844]]'
+- '[[_Standards/WikiData/WD~Nadezhda_Petipa,120691087]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Mariia_Surovshchikova_Petipa,1749281]]'
-  - '[[_Standards/WikiData/WD~Lyubov_Savitskaya,21737763]]'
+- '[[_Standards/WikiData/WD~Mariia_Surovshchikova_Petipa,1749281]]'
+- '[[_Standards/WikiData/WD~Lyubov_Savitskaya,21737763]]'
 given_name: '[[_Standards/WikiData/WD~Marius,2159938]]'
 place_of_burial: '[[_Standards/WikiData/WD~Tikhvin_Cemetery,2272835]]'
 genre: '[[_Standards/WikiData/WD~classical_ballet,2342373]]'
@@ -66,16 +83,122 @@ place_of_birth: '[[_Standards/WikiData/WD~rue_Dumarsais,110959387]]'
 field_of_work: '[[_Standards/WikiData/WD~dance,11639]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_category: Marius Petipa
 date_of_birth: 1818-03-11T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grabmal%20Petipa%20in%20Sankt%20Petersburg.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marius%20Petipa%20-1898.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Marius%20Petipa%20signature.png
+dv_has_:
+  name_:
+    af: Marius Petipa
+    an: Marius Petipa
+    ar: ماريوس بتيبا
+    ast: Marius Petipa
+    ba: Петипа Мариус Иванович
+    bar: Marius Petipa
+    be: Марыус Іванавіч Петыпа
+    be-tarask: Марыюс Пэтыпа
+    bg: Мариус Петипа
+    br: Marius Petipa
+    ca: Marius Petipa
+    co: Marius Petipa
+    cs: Marius Petipa
+    cy: Marius Petipa
+    da: Marius Petipa
+    de: Marius Petipa
+    de-at: Marius Petipa
+    de-ch: Marius Petipa
+    en: Marius Petipa
+    en-ca: Marius Petipa
+    en-gb: Marius Petipa
+    eo: Marius Petipa
+    es: Marius Petipa
+    et: Marius Petipa
+    eu: Marius Petipa
+    fa: ماریوس پتیپا
+    fi: Marius Petipa
+    fr: Marius Petipa
+    frp: Marius Petipa
+    fur: Marius Petipa
+    ga: Marius Petipa
+    gd: Marius Petipa
+    gl: Marius Petipa
+    gsw: Marius Petipa
+    he: מריוס פטיפה
+    hif: Marius Petipa
+    hr: Marius Petipa
+    hu: Marius Petipa
+    hy: Մարիուս Պետիպա
+    ia: Marius Petipa
+    id: Marius Petipa
+    ie: Marius Petipa
+    io: Marius Petipa
+    is: Marius Petipa
+    it: Marius Petipa
+    ja: マリウス・プティパ
+    kg: Marius Petipa
+    kk: Мариус Иванович Петипа
+    kk-arab: مارىيۋس ىيۆانوۆىيتش پەتىيپا
+    kk-cn: مارىيۋس ىيۆانوۆىيتش پەتىيپا
+    kk-cyrl: Мариус Иванович Петипа
+    kk-kz: Мариус Иванович Петипа
+    kk-latn: Marïws Ïvanovïç Petïpa
+    kk-tr: Marïws Ïvanovïç Petïpa
+    ko: 마리우스 프티파
+    la: Marius Petipa
+    lb: Marius Petipa
+    li: Marius Petipa
+    lij: Marius Petipa
+    lt: Marius Petipa
+    mg: Marius Petipa
+    min: Marius Petipa
+    ms: Marius Petipa
+    nap: Marius Petipa
+    nb: Marius Petipa
+    nds: Marius Petipa
+    nds-nl: Marius Petipa
+    nl: Marius Petipa
+    nn: Marius Petipa
+    nrm: Marius Petipa
+    oc: Marius Petipa
+    pap: Marius Petipa
+    pcd: Marius Petipa
+    pl: Marius Petipa
+    pms: Marius Petipa
+    pt: Marius Petipa
+    pt-br: Marius Petipa
+    rm: Marius Petipa
+    ro: Marius Petipa
+    ru: Мариус Иванович Петипа
+    sc: Marius Petipa
+    scn: Marius Petipa
+    sco: Marius Petipa
+    sk: Marius Petipa
+    sl: Marius Petipa
+    sq: Marius Petipa
+    sr: Маријус Петипа
+    sr-ec: Маријус Петипа
+    sr-el: Marijus Petipa
+    sv: Marius Petipa
+    sw: Marius Petipa
+    tr: Marius Petipa
+    uk: Маріус Петіпа
+    vec: Marius Petipa
+    vi: Marius Petipa
+    vls: Marius Petipa
+    vo: Marius Petipa
+    wa: Marius Petipa
+    war: Marius Petipa
+    wo: Marius Petipa
+    wuu: 马里于斯·珀蒂帕
+    yue: 馬里于斯·珀蒂帕
+    zh: 马里于斯·珀蒂帕
+    zh-cn: 马里于斯·珀蒂帕
+    zu: Marius Petipa
 ---
-
 # [[Petipa,Marius]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Marius_Petipa,312320|WD~Marius_Petipa,312320]]  

@@ -1,8 +1,101 @@
 ---
 has_id_wikidata: Q21534241
+dv_has_:
+  name_:
+    ar: لا وقت للموت
+    arz: لا وقت للموت
+    az: Ölməyə vaxt yoxdur
+    azb: اؤلمک اوچون واخت یوخدو
+    bg: Смъртта може да почака
+    bn: নো টাইম টু ডাই
+    ckb: کات نییە بۆ مردن
+    cs: Není čas zemřít
+    de: 'James Bond 007: Keine Zeit zu sterben'
+    en: No Time to Die
+    eu: Bond 25
+    fa: زمانی برای مردن نیست
+    fi: 007 No Time to Die
+    fr: Mourir peut attendre
+    fy: No Time to Die (film út 2021)
+    he: לא זמן למות
+    hi: नो टाइम टू डाई
+    hu: Nincs idő meghalni
+    hy: Մահանալու ժամանակը չէ
+    id: No Time To Die
+    ja: 007 ノー・タイム・トゥ・ダイ
+    ka: სიკვდილის დრო არ არის
+    ko: 007 노 타임 투 다이
+    lb: No Time to Die
+    lt: Mirtis palauks
+    lv: Bonds 25
+    mk: Нема време за умирање
+    mn: '007: Үхэх Ч Завгүй'
+    ms: No Time To Die
+    mul: No Time to Die
+    nl: No Time to Die
+    pl: Nie czas umierać
+    pnb: نو ٹائم ٹو ڈائی
+    ro: Nu e vreme de murit
+    ru: Не время умирать
+    sk: Nie je Čas Zomrieť
+    sr: Није време за умирање
+    ta: நோ டைம் டு டை
+    te: నో టైమ్ టు డై
+    th: พยัคฆ์ร้ายฝ่าเวลามรณะ
+    tr: Ölmek İçin Zaman Yok
+    uk: '007: Не час помирати'
+    ur: نو ٹائم ٹو ڈائی
+    uz: Intihoga hali erta
+    vi: Không phải lúc chết
+    yue: 007：生死有時
+    zh: 007：生死交戰
+    zh-hant: 007：生死交戰
+    zh-hk: 007：生死有時
+    zh-sg: 生死交战
+    zh-tw: 007：生死交戰
+aliases:
+- 007 No Time to Die
+- 007 ノー・タイム・トゥ・ダイ
+- 007 노 타임 투 다이
+- '007: Не час помирати'
+- '007: Үхэх Ч Завгүй'
+- 007：生死交戰
+- 007：生死有時
+- Bond 25
+- Bonds 25
+- Intihoga hali erta
+- 'James Bond 007: Keine Zeit zu sterben'
+- Không phải lúc chết
+- Mirtis palauks
+- Mourir peut attendre
+- Není čas zemřít
+- Nie czas umierać
+- Nie je Čas Zomrieť
+- Nincs idő meghalni
+- No Time to Die
+- No Time to Die (film út 2021)
+- Nu e vreme de murit
+- Ölmek İçin Zaman Yok
+- Ölməyə vaxt yoxdur
+- Не время умирать
+- Нема време за умирање
+- Није време за умирање
+- Смъртта може да почака
+- Մահանալու ժամանակը չէ
+- לא זמן למות
+- اؤلمک اوچون واخت یوخدو
+- زمانی برای مردن نیست
+- لا وقت للموت
+- نو ٹائم ٹو ڈائی
+- کات نییە بۆ مردن
+- नो टाइम टू डाई
+- নো টাইম টু ডাই
+- நோ டைம் டு டை
+- నో టైమ్ టు డై
+- พยัคฆ์ร้ายฝ่าเวลามรณะ
+- სიკვდილის დრო არ არის
+- 生死交战
 ---
-
-
 #has_/time_/started :: 2021-09-28 
 
 ## #has_/text_of_/abstract 

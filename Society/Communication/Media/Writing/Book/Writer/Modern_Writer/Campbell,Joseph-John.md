@@ -1,8 +1,106 @@
 ---
 has_id_wikidata: Q295516
+dv_has_:
+  name_:
+    af: Joseph Campbell
+    an: Joseph Campbell
+    ar: جوزيف كامبل
+    arz: چوزيف كامبل
+    ast: Joseph Campbell
+    azb: جوزف کمبل
+    be: Джозеф Кэмпбел
+    bg: Джоузеф Камбъл
+    bn: জোসেফ ক্যাম্পবেল
+    br: Joseph Campbell
+    bs: Joseph Campbell
+    ca: Joseph Campbell
+    ceb: Joseph Campbell
+    cs: Joseph Campbell
+    cy: Joseph Campbell
+    da: Joseph Campbell
+    dag: Joseph Campbell
+    de: Joseph Campbell
+    el: Τζόζεφ Κάμπελ
+    en: Joseph Campbell
+    eo: Joseph Campbell
+    es: Joseph Campbell
+    et: Joseph Campbell
+    eu: Joseph Campbell
+    fa: جوزف کمبل
+    fi: Joseph Campbell
+    fr: Joseph Campbell
+    fy: Joseph Campbell
+    ga: Joseph Campbell
+    gl: Joseph Campbell
+    gsw: Joseph Campbell
+    he: ג'וזף קמפבל
+    hr: Joseph Campbell
+    hu: Joseph Campbell
+    hy: Ժոզեֆ Քեմպբել
+    id: Joseph Campbell
+    is: Joseph Campbell
+    it: Joseph Campbell
+    ja: ジョーゼフ・キャンベル
+    ka: ჯოზეფ კემპბელი
+    ko: 조지프 캠벨
+    lb: Joseph Campbell
+    lmo: Joseph Campbell
+    lt: Joseph Campbell
+    mk: Џозеф Кемпбел
+    ms: Joseph Campbell
+    mul: Joseph Campbell
+    nb: Joseph Campbell
+    nds: Joseph Campbell
+    nds-nl: Joseph Campbell
+    nl: Joseph Campbell
+    nn: Joseph Campbell
+    pap: Joseph Campbell
+    pl: Joseph Campbell
+    pms: Joseph Campbell
+    ps: جوزف کمبل
+    pt: Joseph Campbell
+    pt-br: Joseph Campbell
+    ro: Joseph Campbell
+    ru: Джозеф Кэмпбелл
+    sh: Joseph Campbell
+    sk: Joseph Campbell
+    sl: Joseph Campbell
+    sq: Joseph Campbell
+    sr: Džozef Kembel
+    sv: Joseph Campbell
+    th: โจเซฟ แคมป์เบลล์
+    tr: Joseph Campbell
+    uk: Джозеф Кемпбелл
+    vec: Joseph Campbell
+    wa: Joseph Campbell
+    yue: 約瑟夫·坎伯
+    zh: 喬瑟夫·坎貝爾
+    zh-cn: 约瑟夫·坎贝尔
+    zh-hant: 約瑟夫·坎貝爾
+aliases:
+- Džozef Kembel
+- Joseph Campbell
+- Τζόζεφ Κάμπελ
+- Џозеф Кемпбел
+- Джозеф Кемпбелл
+- Джозеф Кэмпбел
+- Джозеф Кэмпбелл
+- Джоузеф Камбъл
+- Ժոզեֆ Քեմպբել
+- ג'וזף קמפבל
+- جوزف کمبل
+- جوزيف كامبل
+- چوزيف كامبل
+- জোসেফ ক্যাম্পবেল
+- โจเซฟ แคมป์เบลล์
+- ჯოზეფ კემპბელი
+- ジョーゼフ・キャンベル
+- 喬瑟夫·坎貝爾
+- 約瑟夫·坎伯
+- 約瑟夫·坎貝爾
+- 约瑟夫·坎贝尔
+- 조지프 캠벨
 ---
-
-
 # [[Campbell,Joseph-John]] 
 
 #is_/different_from :: [[Campbell,John_Wood]] 

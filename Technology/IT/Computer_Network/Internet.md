@@ -1,64 +1,394 @@
 ---
-has_time_started: 1969-10-29 
+has_time_started: 1969-10-29
 aliases:
+- Alnet
+- an tIdirlíon
+- Anternete
+- aptas
+- Arekwël
+- Aterineto
+- Betweoxnett
+- Danhautande
+- Eadar-lìon
+- Eddyr-voggyl
+- Engornät
+- Enternette
+- Entènèt
+- Entèrnèt
+- Etrernete
+- Gbândasango
+- Hulenzvangj
+- Hô-lièng-uōng
+- H̗ottinamaşa
+- Intaneit
+- Intanet
+- Intanethi
+- Intaneti
+- intanɛt
+- Interede
+- Interneahtta
+- Internec
+- internet
+- Internetas
+- Interneti
+- Internetið
+- Internetos
+- internets
+- Internett
+- Internetz
+- Interneʹtt
+- Internèt
+- Internét
+- Interrete
+- Interreto
+- interré
+- Inthaneti
+- intërnet
+- Ipurangi
+- Kenrouedad
+- Kesrosweyth
+- kulupu pi ilo sona
+- La Raid däl Raid
+- Luntandala
+- Mantagoo
+- Mióng-chi-mióng-lu
+- Mātlatzālantli
+- pamikicikowipitcikan
+- Ragnà
+- Rhyngrwyd
+- Vüresod
+- Wikipedia
+- Xuubcaaro (Internet)
+- Yanar gizo
+- Ynternet
+- Ìnternet
+- Înternet
+- İnternet
+- Škārsteiklys
+- Ɛntɛrinɛti
+- Ɛntɛrnɛ́tɛ
+- διαδίκτυο
+- Інтернет
+- Інтэрнэт
+- Интернет
+- Интернетсь
+- Интернэт
+- Интэриниэт
+- Мєждоусѣтиѥ
+- семрежје
+- Тетел
+- Ӧтуввез
+- համացանց
+- אינטערנעץ
+- אינטרנט
+- أنترنيت
+- ئینتەرنێت
+- الإنترنت
+- انترنت
+- انٹرنیٹ
+- انټرنټ
+- انٽرنيٽ
+- اينترنت
+- اينترنيت
+- اِنٹَرنؠٹ
+- اینترنت
+- خەلقارالىق تور
+- ܐܢܛܪܢܛ
+- ߓߟߐߟߐ
+- अन्तरजालम्
+- अन्तर्जाल
+- इंटरनेट
+- इन्टरनेट
+- महाजाल
+- ইণ্টাৰনেট
+- ইন্টারনেট
+- ਇੰਟਰਨੈੱਟ
+- ઇન્ટરનેટ
+- ଇଣ୍ଟରନେଟ
+- இணையம்
+- అంతర్జాలం
+- ಅಂತರ್ಜಾಲ
+- ಅಂತರ್ಜಾಲೊ
+- ഇന്റർനെറ്റ്
+- අන්තර්ජාලය
+- อินเทอร์เน็ต
+- ອິນເຕີເນັດ
+- ཡོངས་འབྲེལ། Internet
+- အင်တာနက်
+- အင်တာနက်(Internet)
+- ဢိၼ်ႇတိူဝ်ႇၼႅတ်ႉ
+- ინტერნეტი
+- ኢንተርነት
+- ድረ ገጽ መረብ
+- ᎠᏏᎳᏕᏫᏒᎢ
+- ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ
+- អ៊ីនធឺណេត
+- ᱤᱱᱴᱚᱨᱱᱮᱴ
+- ⴰⵏⵜⵉⵔⵏⵉⵜ
+- インターネット
+- 互联网
+- 互聯網
+- 網際網路
+- ꠁꠘ꠆ꠐꠣꠞꠘꠦꠐ
+- ꯂꯥꯡꯁꯦꯜ
+- 인터네트
+- 인터넷
 has_id_wikidata: Q75
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Vint_Cerf,92743]]"
-  - "[[_Standards/WikiData/WD~Bob_Kahn,62843]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Internet,193315]]"
-practiced_by: "[[_Standards/WikiData/WD~internaut,775318]]"
-used_by: "[[_Standards/WikiData/WD~internaut,775318]]"
-replaces: "[[_Standards/WikiData/WD~Bildschirmtext,861083]]"
-named_after: "[[_Standards/WikiData/WD~internetworking,1067099]]"
-subclass_of: "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
+- '[[_Standards/WikiData/WD~Vint_Cerf,92743]]'
+- '[[_Standards/WikiData/WD~Bob_Kahn,62843]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Internet,193315]]'
+practiced_by: '[[_Standards/WikiData/WD~internaut,775318]]'
+used_by: '[[_Standards/WikiData/WD~internaut,775318]]'
+replaces: '[[_Standards/WikiData/WD~Bildschirmtext,861083]]'
+named_after: '[[_Standards/WikiData/WD~internetworking,1067099]]'
+subclass_of: '[[_Standards/WikiData/WD~telecommunications_network,1068715]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~computer_network,1301371]]"
-  - "[[_Standards/WikiData/WD~IP_network,11224256]]"
-  - "[[_Standards/WikiData/WD~invention,14208553]]"
+- '[[_Standards/WikiData/WD~computer_network,1301371]]'
+- '[[_Standards/WikiData/WD~IP_network,11224256]]'
+- '[[_Standards/WikiData/WD~invention,14208553]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
-  - "[[_Standards/WikiData/WD~Q47470796,47470796]]"
-  - "[[_Standards/WikiData/WD~RFC_3271_The_Internet_is_for_Everyone,47484682]]"
-studied_by: "[[_Standards/WikiData/WD~Internet_studies,6056054]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Internet,7112764]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Internet,8133040]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Internet,13415274]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Internet,15060227]]"
-different_from: "[[_Standards/WikiData/WD~Q466,466]]"
-complies_with: "[[_Standards/WikiData/WD~Internet_Protocol,8795]]"
-uses: "[[_Standards/WikiData/WD~Internet_Protocol,8795]]"
-IAB_code: "619"
-OmegaWiki_Defined_Meaning: "5111"
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Q47470796,47470796]]'
+- '[[_Standards/WikiData/WD~RFC_3271_The_Internet_is_for_Everyone,47484682]]'
+studied_by: '[[_Standards/WikiData/WD~Internet_studies,6056054]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Internet,7112764]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Internet,8133040]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Internet,13415274]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Internet,15060227]]'
+different_from: '[[_Standards/WikiData/WD~Q466,466]]'
+complies_with: '[[_Standards/WikiData/WD~Internet_Protocol,8795]]'
+uses: '[[_Standards/WikiData/WD~Internet_Protocol,8795]]'
+IAB_code: 619
+OmegaWiki_Defined_Meaning: 5111
 inception: 1969-10-29T00:00:00Z
 Commons_category: Internet
 Stadtwiki_Dresden_article: Internet
 subreddit: Internet
 Dewey_Decimal_Classification:
-  - "025.042"
-  - "302.231"
-  - "004.678"
-  - "384.334"
+- 025.042
+- 302.231
+- 004.678
+- 384.334
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map%201024%20-%20transparent%2C%20inverted.png
-U_S_National_Archives_Identifier: "10637028"
+U_S_National_Archives_Identifier: 10637028
 PhilPapers_topic: the-internet
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%80%D5%A1%D5%B4%D5%A1%D6%81%D5%A1%D5%B6%D6%81%20%28Internet%29.ogg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Internet%20users%20by%20country%20world%20map.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Internet%20users%20per%20100%20and%20GDP%20per%20capita.jpg
 Stack_Exchange_tag:
-  - https://networkengineering.stackexchange.com/tags/internet
-  - https://security.stackexchange.com/tags/internet
-  - https://serverfault.com/tags/internet
-  - https://superuser.com/tags/internet
-  - https://unix.stackexchange.com/tags/internet
-Iconclass_notation: "46E67111"
+- https://networkengineering.stackexchange.com/tags/internet
+- https://security.stackexchange.com/tags/internet
+- https://serverfault.com/tags/internet
+- https://superuser.com/tags/internet
+- https://unix.stackexchange.com/tags/internet
+Iconclass_notation: 46E67111
 IEV_number: 732-07-01
 Regensburg_Classification: AP 18420
 MeSH_tree_code: L01.224.230.110.500
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTERNET.html
 Wikitribune_category: tech/internet-tech
 Gujarati_Vishwakosh_entry: ઇન્ટરનેટ
+dv_has_:
+  name_:
+    ace: Internèt
+    am: ድረ ገጽ መረብ
+    ang: Betweoxnett
+    anp: इंटरनेट
+    apc: الإنترنت
+    ar: الإنترنت
+    arc: ܐܢܛܪܢܛ
+    ary: أنترنيت
+    arz: انترنت
+    as: ইণ্টাৰনেট
+    atj: pamikicikowipitcikan
+    awa: इंटरनेट
+    az: İnternet
+    azb: اينترنت
+    ba: Интернет
+    bar: Internetz
+    be: Інтэрнэт
+    be-tarask: Інтэрнэт
+    bew: Internèt
+    bg: Интернет
+    bho: इंटरनेट
+    bm: Ɛntɛrinɛti
+    bn: ইন্টারনেট
+    bpy: ইন্টারনেট
+    br: Kenrouedad
+    bs: internet
+    bxr: Интернет
+    cdo: Hô-lièng-uōng
+    ce: H̗ottinamaşa
+    chr: ᎠᏏᎳᏕᏫᏒᎢ
+    ckb: ئینتەرنێت
+    crh: İnternet
+    cs: internet
+    cu: Мєждоусѣтиѥ
+    cv: Тетел
+    cy: Rhyngrwyd
+    da: internet
+    de: Internet
+    din: Arekwël
+    diq: İnternet
+    dz: ཡོངས་འབྲེལ། Internet
+    el: διαδίκτυο
+    eml: La Raid däl Raid
+    en: Internet
+    eo: Interreto
+    es: Internet
+    et: Internet
+    fa: اینترنت
+    fi: internet
+    fo: Alnet
+    fr: Internet
+    fy: Ynternet
+    ga: an tIdirlíon
+    gan: 互聯網
+    gcr: Entèrnèt
+    gd: Eadar-lìon
+    gsw: Internet
+    gu: ઇન્ટરનેટ
+    gv: Eddyr-voggyl
+    ha: Yanar gizo
+    hak: Mióng-chi-mióng-lu
+    he: אינטרנט
+    hi: इंटरनेट
+    hr: internet
+    ht: Entènèt
+    hu: internet
+    hy: համացանց
+    id: internet
+    ig: Intanet
+    io: Interreto
+    is: Internetið
+    iu: ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ
+    ja: インターネット
+    jam: Intanet
+    jv: Internèt
+    ka: ინტერნეტი
+    kk: Интернет
+    km: អ៊ីនធឺណេត
+    kn: ಅಂತರ್ಜಾಲ
+    ko: 인터넷
+    ko-kp: 인터네트
+    krj: intërnet
+    ks: اِنٹَرنؠٹ
+    ksh: Engornät
+    ku: Înternet
+    kv: Ӧтуввез
+    kw: Kesrosweyth
+    ky: Интернет
+    la: Interrete
+    lez: Интернет
+    lfn: Interede
+    ln: Ɛntɛrnɛ́tɛ
+    lo: ອິນເຕີເນັດ
+    lt: Internetas
+    ltg: Škārsteiklys
+    lua: Luntandala
+    lv: internets
+    lzh: 互聯網
+    mag: अन्तर्जाल
+    mdf: Интернетсь
+    mg: Aterineto
+    mhr: Интернет
+    mi: Ipurangi
+    mk: семрежје
+    ml: ഇന്റർനെറ്റ്
+    mn: Интернэт
+    mni: ꯂꯥꯡꯁꯦꯜ
+    mr: महाजाल
+    ms-arab: اينترنيت
+    mul: Internet
+    mwl: Anternete
+    my: အင်တာနက်
+    myv: Интернет
+    mzn: اینترنت
+    nah: Mātlatzālantli
+    nb: internett
+    ne: इन्टरनेट
+    new: इन्टरनेट
+    nl: internet
+    nn: Internett
+    nqo: ߓߟߐߟߐ
+    nrm: Enternette
+    om: Mantagoo
+    or: ଇଣ୍ଟରନେଟ
+    os: Интернет
+    pa: ਇੰਟਰਨੈੱਟ
+    pam: aptas
+    pih: Intaneit
+    pms: Ragnà
+    pnb: انٹرنیٹ
+    ps: انټرنټ
+    rki: အင်တာနက်(Internet)
+    rmf: Internetos
+    ru: Интернет
+    rue: Інтернет
+    sa: अन्तरजालम्
+    sah: Интэриниэт
+    sat: ᱤᱱᱴᱚᱨᱱᱮᱴ
+    sc: Ìnternet
+    sd: انٽرنيٽ
+    se: Interneahtta
+    sg: Gbândasango
+    sgs: Internets
+    shn: ဢိၼ်ႇတိူဝ်ႇၼႅတ်ႉ
+    si: අන්තර්ජාලය
+    sk: internet
+    sl: internet
+    sms: Interneʹtt
+    sn: Danhautande
+    so: Xuubcaaro (Internet)
+    sq: Interneti
+    sr: интернет
+    sr-ec: интернет
+    su: Internét
+    sv: internet
+    sw: Intaneti
+    syl: ꠁꠘ꠆ꠐꠣꠞꠘꠦꠐ
+    szl: Internec
+    ta: இணையம்
+    tcy: ಅಂತರ್ಜಾಲೊ
+    te: అంతర్జాలం
+    tg: Интернет
+    th: อินเทอร์เน็ต
+    ti: ኢንተርነት
+    tk: Wikipedia
+    tly: İnternet
+    tok: kulupu pi ilo sona
+    tpi: Intanet
+    tr: internet
+    ts: Inthaneti
+    tt: Интернет
+    tt-cyrl: Интернет
+    tum: Intaneti
+    tw: intanɛt
+    ug: خەلقارالىق تور
+    uk: інтернет
+    ur: انٹرنیٹ
+    vec: interré
+    vo: Vüresod
+    wa: Etrernete
+    wuu: 互聯網
+    xal: Интернет
+    xmf: ინტერნეტი
+    yi: אינטערנעץ
+    yue: 互聯網
+    za: Hulenzvangj
+    zgh: ⴰⵏⵜⵉⵔⵏⵉⵜ
+    zh: 互聯網
+    zh-cn: 互联网
+    zh-hans: 互联网
+    zh-hant: 網際網路
+    zh-hk: 互聯網
+    zh-mo: 互聯網
+    zh-my: 互联网
+    zh-sg: 互联网
+    zh-tw: 網際網路
+    zu: Intanethi
 ---
-
 # [[Internet]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Internet,75|WD~Internet,75]]  

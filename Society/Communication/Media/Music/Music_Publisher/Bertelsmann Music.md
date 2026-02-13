@@ -1,48 +1,96 @@
 ---
-has_time_stopped: 2008-10-01 
+has_time_stopped: 2008-10-01
 aliases:
-  - Bertelsmann Music Group
-  - Bertelsmann Music
+- Bertelsmann Music
+- Bertelsmann Music Group
+- BMG
+- Բերտելսմանի երաժշտական խումբ
+- ברטלסמן מיוזיק גרופ
+- مجموعة بيرتيلسمان الموسيقية
+- 貝塔斯曼音樂集團
+- 贝塔斯曼音乐集团
+- 베르텔스만 뮤직 그룹
 has_id_wikidata: Q770103
 parent_organization: '[[_Standards/WikiData/WD~Bertelsmann,156913]]'
 owned_by: '[[_Standards/WikiData/WD~Bertelsmann,156913]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~RCA_Records,202585]]'
-  - '[[_Standards/WikiData/WD~Constantin_Film,564960]]'
-  - '[[_Standards/WikiData/WD~BMG_Poland,_Sp._z_o.o.,18378207]]'
-  - '[[_Standards/WikiData/WD~BMG_Hungary_Kft.,56868082]]'
-  - '[[_Standards/WikiData/WD~BMG_Ariola_Argentina_S.A.,60675900]]'
-  - '[[_Standards/WikiData/WD~BMG_Ariola_Miller_GmbH,106922714]]'
-  - '[[_Standards/WikiData/WD~BMG_Brasil_Ltda.,111284981]]'
-  - '[[_Standards/WikiData/WD~BMG_Nederland_BV,114977235]]'
+- '[[_Standards/WikiData/WD~RCA_Records,202585]]'
+- '[[_Standards/WikiData/WD~Constantin_Film,564960]]'
+- '[[_Standards/WikiData/WD~BMG_Poland,_Sp._z_o.o.,18378207]]'
+- '[[_Standards/WikiData/WD~BMG_Hungary_Kft.,56868082]]'
+- '[[_Standards/WikiData/WD~BMG_Ariola_Argentina_S.A.,60675900]]'
+- '[[_Standards/WikiData/WD~BMG_Ariola_Miller_GmbH,106922714]]'
+- '[[_Standards/WikiData/WD~BMG_Brasil_Ltda.,111284981]]'
+- '[[_Standards/WikiData/WD~BMG_Nederland_BV,114977235]]'
 replaced_by:
-  - '[[_Standards/WikiData/WD~BMG_Rights_Management,796316]]'
-  - '[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]'
+- '[[_Standards/WikiData/WD~BMG_Rights_Management,796316]]'
+- '[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~media_conglomerate,1916382]]'
-  - '[[_Standards/WikiData/WD~record_company,2442401]]'
-  - '[[_Standards/WikiData/WD~record_label,18127]]'
+- '[[_Standards/WikiData/WD~media_conglomerate,1916382]]'
+- '[[_Standards/WikiData/WD~record_company,2442401]]'
+- '[[_Standards/WikiData/WD~record_label,18127]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]'
-  - '[[_Standards/WikiData/WD~Vogue_France,_S.A.,56872227]]'
+- '[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]'
+- '[[_Standards/WikiData/WD~Vogue_France,_S.A.,56872227]]'
 organizational_divisions:
-  - '[[_Standards/WikiData/WD~BMG_Records,_GmbH,56826559]]'
-  - '[[_Standards/WikiData/WD~BMG_Music_Publishing,56826594]]'
-  - '[[_Standards/WikiData/WD~BMG_Video,71015649]]'
-  - '[[_Standards/WikiData/WD~BMG_Entertainment,113644070]]'
+- '[[_Standards/WikiData/WD~BMG_Records,_GmbH,56826559]]'
+- '[[_Standards/WikiData/WD~BMG_Music_Publishing,56826594]]'
+- '[[_Standards/WikiData/WD~BMG_Video,71015649]]'
+- '[[_Standards/WikiData/WD~BMG_Entertainment,113644070]]'
 industry: '[[_Standards/WikiData/WD~music,638]]'
 headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
 country: '[[_Standards/WikiData/WD~Germany,183]]'
 inception:
-  - 1983-01-01T00:00:00Z
-  - 1987-01-01T00:00:00Z
+- 1983-01-01T00:00:00Z
+- 1987-01-01T00:00:00Z
 short_name: BMG
 dissolved_abolished_or_demolished_date: 2008-10-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bertelsmann%20Music%20Group%20Logo.svg
 Commons_category: Bertelsmann Music Group
 native_label: Bertelsmann Music Group
+dv_has_:
+  name_:
+    ar: مجموعة بيرتيلسمان الموسيقية
+    ast: Bertelsmann Music Group
+    az: BMG
+    bg: BMG
+    ca: Bertelsmann Music Group
+    cs: Bertelsmann Music Group
+    cy: Bertelsmann Music Group
+    da: Bertelsmann Music Group
+    de: Bertelsmann Music Group
+    en: Bertelsmann Music Group
+    eo: Bertelsmann Music Group
+    es: Bertelsmann Music Group
+    eu: Bertelsmann Music Group
+    fi: Bertelsmann Music Group
+    fr: BMG
+    ga: Bertelsmann Music Group
+    gl: Bertelsmann Music Group
+    he: ברטלסמן מיוזיק גרופ
+    hu: Bertelsmann Music Group
+    hy: Բերտելսմանի երաժշտական խումբ
+    id: Bertelsmann Music Group
+    it: Bertelsmann Music Group
+    ja: BMG
+    ko: 베르텔스만 뮤직 그룹
+    ms: Bertelsmann Music Group
+    mul: Bertelsmann Music Group
+    nb: Bertelsmann Music Group
+    nl: Bertelsmann Music Group
+    nn: Bertelsmann Music Group
+    pl: BMG
+    pt: BMG
+    ru: Bertelsmann Music Group
+    sk: Bertelsmann Music Group
+    sl: Bertelsmann Music Group
+    sv: Bertelsmann Music Group
+    tr: BMG
+    uk: Bertelsmann Music Group
+    yue: 貝塔斯曼音樂集團
+    zh: 贝塔斯曼音乐集团
+    zh-hant: 貝塔斯曼音樂集團
 ---
-
 # [[Bertelsmann Music]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Bertelsmann_Music_Group,770103]] 

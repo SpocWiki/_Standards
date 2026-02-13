@@ -1,14 +1,78 @@
 ---
 aliases:
+- disolbagarritasun
+- Ensolib
+- Hydoddedd
+- Kelarutan
+- Keterlarutan
+- Lahustuvus
+- liukoisuus
+- Löslichkeit
+- löslighet
+- løselighet
+- løysingsevne
+- oldhatóság
+- oplosbaarheid
+- Opløselighed
+- Rastvorljivost
+- rozpustnost
+- rozpustnosť
+- rozpuszczalność
+- solubilidad
+- solubilidade
+- Solubilidá
+- solubilitat
+- solubilitate
+- solubility
+- solubilità
+- solubilité
+- Solvebleco
+- tirpumas
+- topljivost
+- topnost
+- Tretshmëria
+- tuaslagthacht
+- çözünürlük
+- Độ hòa tan
+- šķīdība
+- Διαλυτότητα
+- Ерігіштік
+- Ирĕлеслĕх
+- Разтворимост
+- распушчальнасьць
+- растваральнасць
+- растворљивост
+- растворимость
+- растворливост
+- розчинність
+- Соламась
+- сылмонлык
+- Уусалт
+- Լուծելիություն
+- מסיסות
+- انحلالية
+- انحلالپذیری
+- توانەوەیەتی
+- حل پذیری
+- منحل کېدل
+- घुलनशीलता
+- দ্রাব্যতা
+- ਘੁਲਣਸ਼ੀਲਤਾ
+- கரைதிறன்
+- ലേയത്വം
+- การละลาย
+- 溶解度
+- 溶解性
+- 용해도
 has_id_wikidata: Q170731
-subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
 Wikidata_property:
-  - solubility
-  - descriptive solubility
-OmegaWiki_Defined_Meaning: "3549"
+- solubility
+- descriptive solubility
+OmegaWiki_Defined_Meaning: 3549
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SaltInWaterSolutionLiquid.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SolubilityVsTemperature.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/SaltInWaterSolutionLiquid.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/SolubilityVsTemperature.png
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
 IEV_number: 114-01-15
 UMLS_CUI: C0037628
@@ -16,25 +80,105 @@ MeSH_tree_code: G02.805
 Commons_category: Solubility
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Solubility,170731]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]"
-    - "[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]"
+  - '[[../../../../WikiData/WD~Solubility,170731]]'
+  - '[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]'
+  - '[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]'
+  - '[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]'
+  - '[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]'
+  - '[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]'
+  - '[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]'
+  - '[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Solubility,170731]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]"
-  - "[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]"
+- '[[../../../../WikiData/WD~Solubility,170731]]'
+- '[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]'
+- '[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]'
+- '[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]'
+- '[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]'
+- '[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]'
+- '[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]'
+- '[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]'
+dv_has_:
+  name_:
+    af: Oplosbaarheid
+    ar: انحلالية
+    ast: Solubilidá
+    be: растваральнасць
+    be-tarask: распушчальнасьць
+    bg: Разтворимост
+    bn: দ্রাব্যতা
+    bs: Rastvorljivost
+    ca: solubilitat
+    ckb: توانەوەیەتی
+    cs: rozpustnost
+    cv: Ирĕлеслĕх
+    cy: Hydoddedd
+    da: Opløselighed
+    de: Löslichkeit
+    el: Διαλυτότητα
+    en: solubility
+    eo: Solvebleco
+    es: solubilidad
+    et: Lahustuvus
+    eu: disolbagarritasun
+    fa: انحلالپذیری
+    fi: liukoisuus
+    fr: solubilité
+    ga: tuaslagthacht
+    gl: Solubilidade
+    he: מסיסות
+    hi: घुलनशीलता
+    hr: topljivost
+    ht: Ensolib
+    hu: oldhatóság
+    hy: Լուծելիություն
+    id: Kelarutan
+    it: solubilità
+    ja: 溶解度
+    kk: Ерігіштік
+    ko: 용해도
+    lt: tirpumas
+    lv: šķīdība
+    mdf: Соламась
+    mk: растворливост
+    ml: ലേയത്വം
+    mn: Уусалт
+    ms: Keterlarutan
+    nb: løselighet
+    nl: oplosbaarheid
+    nn: løysingsevne
+    pa: ਘੁਲਣਸ਼ੀਲਤਾ
+    pl: rozpuszczalność
+    ps: منحل کېدل
+    pt: solubilidade
+    pt-br: solubilidade
+    ro: solubilitate
+    ru: растворимость
+    sco: solubility
+    sh: Topljivost
+    sk: rozpustnosť
+    sl: topnost
+    sq: Tretshmëria
+    sr: растворљивост
+    sr-ec: Растворљивост
+    sr-el: Rastvorljivost
+    sv: löslighet
+    ta: கரைதிறன்
+    th: การละลาย
+    tl: Solubilidad
+    tr: çözünürlük
+    udm: сылмонлык
+    uk: розчинність
+    ur: حل پذیری
+    vi: Độ hòa tan
+    wuu: 溶解度
+    yue: 溶解度
+    zh: 溶解性
+    zh-cn: 溶解性
+    zh-hans: 溶解性
+    zh-hk: 溶解性
+    zh-sg: 溶解性
+    zh-tw: 溶解性
 ---
-
 # [[Solubility]] 
 
 #is_/same_as :: [[WD~Solubility,170731]] 

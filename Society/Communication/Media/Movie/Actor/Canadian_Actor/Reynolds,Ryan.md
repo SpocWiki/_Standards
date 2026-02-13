@@ -1,9 +1,145 @@
 ---
 aliases:
-  - Ryan Reynolds
-  - Ryan Rodney Reynolds
-  - Reynolds,Ryan
+- Golfian
+- Raiens Renoldss
+- Rajan Renolds
+- Rayan Reynolds
+- Reynolds,Ryan
+- Ryan Reynolds
+- Ryan Rodney Reynolds
+- Ράιαν Ρέινολντς
+- Рајан Рејнолдс
+- Рајан Ренолдс
+- Райан Рейнолдс
+- Райан Рейнольдс
+- Райън Рейнолдс
+- Раян Рейнольдс
+- Раян Рэйнальдс
+- Ռայան Ռեյնոլդս
+- ראיין ריינולדס
+- רײַאַן ריינאָלדס
+- رايان رينولدز
+- رایان رینولدز
+- ریان رینالڈز
+- ڕایەن ڕێینۆڵدز
+- रयान रेनॉल्ड्स
+- रायन रेनल्ड्स
+- রায়ান রেনল্ডস
+- ରିୟାନ ରେୟନଲ୍ଡସ
+- ரியான் ரெனால்ட்ஸ்
+- ర్యాన్ రేనాల్డ్స్
+- ไรอัน เรย์โนลด์ส
+- ရိုင်ယန် ရေးနိုး
+- რაიან რეინოლდსი
+- រ៉ាយអាន់ រៃណូលស៍
+- ライアン・レイノルズ
+- 瑞安·雷诺兹
+- 莱恩·雷诺斯
+- 萊恩·雷諾斯
+- 賴恩·雷諾士
+- 賴恩雷諾士
+- 라이언 레이놀즈
 has_id_wikidata: Q192682
+dv_has_:
+  name_:
+    af: Ryan Reynolds
+    ar: رايان رينولدز
+    arz: رايان رينولدز
+    ast: Ryan Reynolds
+    az: Rayan Reynolds
+    azb: رایان رینولدز
+    be: Раян Рэйнальдс
+    be-tarask: Раян Рэйнальдс
+    bg: Райън Рейнолдс
+    bn: রায়ান রেনল্ডস
+    ca: Ryan Reynolds
+    ckb: ڕایەن ڕێینۆڵدز
+    cs: Ryan Reynolds
+    cy: Ryan Reynolds
+    da: Ryan Reynolds
+    de: Ryan Reynolds
+    dtp: Ryan Reynolds
+    el: Ράιαν Ρέινολντς
+    en: Ryan Reynolds
+    en-ca: Ryan Reynolds
+    en-gb: Ryan Reynolds
+    eo: Ryan Reynolds
+    es: Ryan Reynolds
+    et: Ryan Reynolds
+    eu: Ryan Reynolds
+    fa: رایان رینولدز
+    fi: Ryan Reynolds
+    fr: Ryan Reynolds
+    ga: Ryan Reynolds
+    gl: Ryan Reynolds
+    he: ראיין ריינולדס
+    hi: रयान रेनॉल्ड्स
+    hr: Ryan Reynolds
+    hu: Ryan Reynolds
+    hy: Ռայան Ռեյնոլդս
+    id: Ryan Reynolds
+    is: Ryan Reynolds
+    it: Ryan Reynolds
+    ja: ライアン・レイノルズ
+    jv: Ryan Reynolds
+    ka: რაიან რეინოლდსი
+    kk: Райан Рейнольдс
+    km: រ៉ាយអាន់ រៃណូលស៍
+    ko: 라이언 레이놀즈
+    ky: Райан Рейнолдс
+    la: Ryan Reynolds
+    lt: Ryan Reynolds
+    lv: Raiens Renoldss
+    mk: Рајан Рејнолдс
+    ms: Ryan Reynolds
+    mul: Ryan Reynolds
+    my: ရိုင်ယန် ရေးနိုး
+    nan: Ryan Reynolds
+    nb: Ryan Reynolds
+    ne: रायन रेनल्ड्स
+    nl: Ryan Reynolds
+    nn: Ryan Reynolds
+    or: ରିୟାନ ରେୟନଲ୍ଡସ
+    pam: Golfian
+    pap: Ryan Reynolds
+    pl: Ryan Reynolds
+    pt: Ryan Reynolds
+    pt-br: Ryan Reynolds
+    ro: Ryan Reynolds
+    ru: Райан Рейнольдс
+    sah: Райан Рейнольдс
+    sco: Ryan Reynolds
+    sh: Ryan Reynolds
+    sk: Ryan Reynolds
+    sl: Ryan Reynolds
+    sq: Ryan Reynolds
+    sr: Рајан Ренолдс
+    sr-ec: Рајан Ренолдс
+    sr-el: Rajan Renolds
+    sv: Ryan Reynolds
+    sw: Ryan Reynolds
+    ta: ரியான் ரெனால்ட்ஸ்
+    te: ర్యాన్ రేనాల్డ్స్
+    tg: Райан Рейнолдс
+    th: ไรอัน เรย์โนลด์ส
+    tl: Ryan Reynolds
+    tr: Ryan Reynolds
+    uk: Раян Рейнольдс
+    ur: ریان رینالڈز
+    uz: Ryan Reynolds
+    vi: Ryan Reynolds
+    wuu: 瑞安·雷诺兹
+    xmf: რაიან რეინოლდსი
+    yi: רײַאַן ריינאָלדס
+    yo: Ryan Reynolds
+    yue: 賴恩雷諾士
+    zh: 萊恩·雷諾斯
+    zh-cn: 瑞安·雷诺兹
+    zh-hans: 瑞安·雷诺兹
+    zh-hant: 萊恩·雷諾斯
+    zh-hk: 賴恩·雷諾士
+    zh-sg: 莱恩·雷诺斯
+    zh-tw: 萊恩·雷諾斯
 ---
 #has_/time_/started :: 1976-10-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

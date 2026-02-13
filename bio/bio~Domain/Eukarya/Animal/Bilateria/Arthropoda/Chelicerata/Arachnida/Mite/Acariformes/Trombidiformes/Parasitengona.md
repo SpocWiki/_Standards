@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Parasitengona
+- Parasitengona
+- パラシテンゴナ
+- 寄殖螨亚目
 title: Parasitengona
 has_id_wikidata: Q7135940
+dv_has_:
+  name_:
+    an: Parasitengona
+    ast: Parasitengona
+    bg: Parasitengona
+    ca: Parasitengona
+    ceb: Parasitengona
+    de: Parasitengona
+    en: Parasitengona
+    eo: Parasitengona
+    es: Parasitengona
+    eu: Parasitengona
+    ext: Parasitengona
+    fi: Parasitengona
+    fr: Parasitengona
+    ga: Parasitengona
+    gl: Parasitengona
+    ia: Parasitengona
+    ie: Parasitengona
+    io: Parasitengona
+    it: Parasitengona
+    ja: パラシテンゴナ
+    la: Parasitengona
+    mul: Parasitengona
+    nl: Parasitengona
+    oc: Parasitengona
+    pl: Parasitengona
+    pt: Parasitengona
+    pt-br: Parasitengona
+    ro: Parasitengona
+    ru: Parasitengona
+    sl: Parasitengona
+    sq: Parasitengona
+    uk: Parasitengona
+    vi: Parasitengona
+    vo: Parasitengona
+    war: Parasitengona
+    zh: 寄殖螨亚目
+    zh-cn: 寄殖螨亚目
+    zh-hans: 寄殖螨亚目
 ---
 # [[Parasitengona]]
 

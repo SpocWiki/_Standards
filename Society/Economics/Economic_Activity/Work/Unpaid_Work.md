@@ -1,14 +1,55 @@
 ---
 aliases:
-  - Unpaid labor
-  - Unpaid work
-  - Unpaid_Work
-  - Unpaid Work
+- Haq toʻlanmaydigan parvarish mehnati
+- ingyenmunka
+- lavoro non retribuito
+- neplacená práce
+- neplačano delo
+- Trabajo no remunerado
+- treball no remunerat
+- Unbezahlte Arbeit
+- Unpaid labor
+- Unpaid work
+- Unpaid_Work
+- Ödemesiz iş
+- Акы төлөнбөгөн эмгек
+- неоплачиваемая работа
+- Неоплачувана робота
+- неплаћени радник
+- Неплатена работа
+- بې مزده یا وړیا کار
+- عمل غير مأجور
+- অবৈতনিক কাজ
+- 无偿工作
+- 無給労働
+- 무급노동
 has_id_wikidata: Q7897274
 subclass_of: '[[../../../../WikiData/WD~work,268378]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    ar: عمل غير مأجور
+    bn: অবৈতনিক কাজ
+    ca: treball no remunerat
+    cs: neplacená práce
+    de: Unbezahlte Arbeit
+    en: unpaid work
+    es: Trabajo no remunerado
+    hu: ingyenmunka
+    it: lavoro non retribuito
+    ja: 無給労働
+    ko: 무급노동
+    ky: Акы төлөнбөгөн эмгек
+    mk: Неплатена работа
+    ps: بې مزده یا وړیا کار
+    ru: неоплачиваемая работа
+    sl: neplačano delo
+    sr: неплаћени радник
+    tr: Ödemesiz iş
+    uk: Неоплачувана робота
+    uz: Haq toʻlanmaydigan parvarish mehnati
+    zh: 无偿工作
 ---
-
 # [[Unpaid_Work]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~unpaid_work,7897274]] 

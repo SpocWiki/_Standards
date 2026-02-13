@@ -1,9 +1,57 @@
 ---
 aliases:
-  - Salticus
-  - Salticinae
+- Salticinae
+- Salticus
+- Šokliavoriai
+- قافزاوات
+- 跳蛛亚科
 title: Salticus
 has_id_wikidata: Q101234
+dv_has_:
+  name_:
+    an: Salticinae
+    ar: قافزاوات
+    arz: قافزاوات
+    ast: Salticinae
+    be: Salticinae
+    bg: Salticinae
+    ca: Salticinae
+    ceb: Salticinae
+    cs: Salticinae
+    de: Salticinae
+    el: Salticinae
+    en: Salticinae
+    eo: Salticinae
+    es: Salticinae
+    eu: Salticinae
+    ext: Salticinae
+    fi: Salticinae
+    fr: Salticinae
+    ga: Salticinae
+    gl: Salticinae
+    ia: Salticinae
+    ie: Salticinae
+    io: Salticinae
+    it: Salticinae
+    la: Salticinae
+    lt: Šokliavoriai
+    mul: Salticinae
+    nl: Salticinae
+    oc: Salticinae
+    pl: Salticinae
+    pt: Salticinae
+    pt-br: Salticinae
+    ro: Salticinae
+    ru: Salticinae
+    sl: Salticinae
+    sq: Salticinae
+    uk: Salticinae
+    vi: Salticinae
+    vo: Salticinae
+    war: Salticinae
+    zh: 跳蛛亚科
+    zh-cn: 跳蛛亚科
+    zh-hans: 跳蛛亚科
 ---
 ## [[Salticinae]] 
 

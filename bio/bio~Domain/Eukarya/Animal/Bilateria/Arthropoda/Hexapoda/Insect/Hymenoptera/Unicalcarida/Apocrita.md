@@ -1,9 +1,149 @@
 ---
 has_id_wikidata: Q22864
+dv_has_:
+  name_:
+    af: Apocrita
+    an: Apocrita
+    ar: ذوات الخصر
+    arz: ذوات الخصر
+    ast: Apocrita
+    az: Saplaqqarıncıqlılar
+    bar: Apocrita
+    bg: висши ципокрили
+    br: Apocrita
+    ca: Apòcrit
+    ceb: Apocrita
+    co: Apocrita
+    cs: štíhlopasí
+    cy: Apocrita
+    da: Stilkhvepse
+    de: Taillenwespen
+    de-at: Apocrita
+    de-ch: Apocrita
+    el: Απόκριτα
+    en: Apocrita
+    en-ca: Apocrita
+    en-gb: Apocrita
+    eo: Apokrito
+    es: apócritos
+    et: Rippkehalised
+    eu: Apocrita
+    ext: Apocrita
+    fa: باریکتنهداران
+    fi: hoikkatyviset
+    fr: Apocrita
+    frp: Apocrita
+    fur: Apocrita
+    ga: Apocrita
+    gd: Apocrita
+    gl: Apócritos
+    gsw: Apocrita
+    hr: Utegnutozadčani
+    hu: fullánkosdarázs-alkatúak
+    ia: Apocrita
+    id: Apokrita
+    ie: Apocrita
+    io: Apocrita
+    is: Broddvespur
+    it: Apocrita
+    ja: ハチ亜目
+    kg: Apocrita
+    ko: 벌아목
+    la: Apocrita
+    lb: Apocrita
+    li: Apocrita
+    lij: Apocrita
+    lt: Smaugtapilviai
+    lv: Iežmauglapsenes
+    mg: Apocrita
+    min: Apocrita
+    ms: Apocrita
+    mul: Apocrita
+    nan: Ian-iⁿ
+    nap: Apocrita
+    nb: Stilkvepser
+    nds: Kneepwöpsen
+    nds-nl: Apocrita
+    nl: Apocrita
+    nn: Stilkkvefsar
+    nrm: Apocrita
+    nv: Tsísʼná dóó Wáláchííʼ
+    nys: Apocrita
+    oc: Apocrita
+    pcd: Apocrita
+    pfl: Talljewefze
+    pl: trzonkówki
+    pms: Apocrita
+    ps: باريکه تنه لرونکی خوځندکې
+    pt: Apocrita
+    pt-br: Apocrita
+    rm: Apocrita
+    ro: Apocrita
+    ru: стебельчатобрюхие
+    sc: Apocrita
+    scn: Apocrita
+    sco: Apocrita
+    sk: Apocrita
+    sl: ozkopase ose
+    sq: Apocrita
+    sr: Apocrita
+    sv: midjesteklar
+    sw: Apocrita
+    tl: Apocrita
+    tr: Apocrita
+    uk: стебельчасточеревні
+    vec: Apocrita
+    vi: Phân bộ Eo nhỏ
+    vls: Apocrita
+    vo: Apocrita
+    wa: Apocrita
+    war: Apocrita
+    wo: Apocrita
+    yue: 細腰亞目
+    zh: 细腰亚目
+    zh-cn: 细腰亚目
+    zh-hans: 细腰亚目
+    zh-tw: 細腰亞目
+    zu: Apocrita
+aliases:
+- Apocrita
+- Apokrita
+- Apokrito
+- Apòcrit
+- apócritos
+- Broddvespur
+- fullánkosdarázs-alkatúak
+- hoikkatyviset
+- Ian-iⁿ
+- Iežmauglapsenes
+- Kneepwöpsen
+- midjesteklar
+- ozkopase ose
+- Phân bộ Eo nhỏ
+- Rippkehalised
+- Saplaqqarıncıqlılar
+- Smaugtapilviai
+- Stilkhvepse
+- Stilkkvefsar
+- Stilkvepser
+- Taillenwespen
+- Talljewefze
+- trzonkówki
+- Tsísʼná dóó Wáláchííʼ
+- Utegnutozadčani
+- štíhlopasí
+- Απόκριτα
+- висши ципокрили
+- стебельчасточеревні
+- стебельчатобрюхие
+- باريکه تنه لرونکی خوځندکې
+- باریکتنهداران
+- ذوات الخصر
+- ハチ亜目
+- 細腰亞目
+- 细腰亚目
+- 벌아목
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **Apocrita** is a suborder of insects in the order Hymenoptera. 

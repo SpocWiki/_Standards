@@ -1,62 +1,100 @@
 ---
 aliases:
-  - Ἥρα
-  - Hḗrā
-  - Ἥρη
-  - Hḗrē
-  - Hera
+- Era
+- Gera
+- Gera (mif)
+- Hera
+- Héire
+- Héra
+- Hêra
+- Hēra
+- Hḗrā
+- Hḗrē
+- Sila
+- Èra
+- Ήρα
+- Герæ
+- Гера
+- Гэра
+- Хера
+- Ҳеро
+- Հերա
+- Հերա (աստուածուհի)
+- הרה
+- هرا
+- هيرا
+- ھیرا
+- ہیرہ
+- हिअरा
+- हीरा
+- হেরা
+- হেৰা
+- ਹੇਅਰਾ
+- ஈரா
+- ഹീര
+- ฮีรา
+- ဟီရာ
+- ჰერა
+- Ἡρα
+- Ἥρα
+- Ἥρη
+- ヘーラー
+- 希拉
+- 赫拉
+- ꯍꯦꯔꯥ
+- 헤라
 has_id_wikidata: Q38012
 child:
-  - '[[_Standards/WikiData/WD~Eileithyia,94066]]'
-  - '[[_Standards/WikiData/WD~Hebe,131125]]'
-  - '[[_Standards/WikiData/WD~Hecate,131575]]'
-  - '[[_Standards/WikiData/WD~Eris,140001]]'
-  - '[[_Standards/WikiData/WD~Enyo,747657]]'
-  - '[[_Standards/WikiData/WD~Pasithea,1235379]]'
-  - '[[_Standards/WikiData/WD~Angelos,2849878]]'
-  - '[[_Standards/WikiData/WD~Ares,40901]]'
-  - '[[_Standards/WikiData/WD~Hephaestus,44384]]'
+- '[[_Standards/WikiData/WD~Eileithyia,94066]]'
+- '[[_Standards/WikiData/WD~Hebe,131125]]'
+- '[[_Standards/WikiData/WD~Hecate,131575]]'
+- '[[_Standards/WikiData/WD~Eris,140001]]'
+- '[[_Standards/WikiData/WD~Enyo,747657]]'
+- '[[_Standards/WikiData/WD~Pasithea,1235379]]'
+- '[[_Standards/WikiData/WD~Angelos,2849878]]'
+- '[[_Standards/WikiData/WD~Ares,40901]]'
+- '[[_Standards/WikiData/WD~Hephaestus,44384]]'
 part_of: '[[_Standards/WikiData/WD~Twelve_Olympians,101609]]'
 mother: '[[_Standards/WikiData/WD~Rhea,108419]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Juno,125046]]'
 different_from: '[[_Standards/WikiData/WD~Hera,242337]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 worshipped_by:
-  - '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
-  - '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
+- '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 domain_of_saint_or_deity:
-  - '[[_Standards/WikiData/WD~fertility,964401]]'
-  - '[[_Standards/WikiData/WD~mother,7560]]'
-  - '[[_Standards/WikiData/WD~marriage,8445]]'
-  - '[[_Standards/WikiData/WD~parturition,34581]]'
+- '[[_Standards/WikiData/WD~fertility,964401]]'
+- '[[_Standards/WikiData/WD~mother,7560]]'
+- '[[_Standards/WikiData/WD~marriage,8445]]'
+- '[[_Standards/WikiData/WD~parturition,34581]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~fertility_deity,1470705]]'
-  - '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
-  - '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
+- '[[_Standards/WikiData/WD~fertility_deity,1470705]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
+- '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 official_residence: '[[_Standards/WikiData/WD~Olympus,70054479]]'
 given_name: '[[_Standards/WikiData/WD~Era,104625643]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Hera_with_Graces_and_Horai_statue_at_Argos,107043636]]'
-  - '[[_Standards/WikiData/WD~Hera_Borghese,126210728]]'
-  - '[[_Standards/WikiData/WD~Farnese_Hera,131764611]]'
+- '[[_Standards/WikiData/WD~Hera_with_Graces_and_Horai_statue_at_Argos,107043636]]'
+- '[[_Standards/WikiData/WD~Hera_Borghese,126210728]]'
+- '[[_Standards/WikiData/WD~Farnese_Hera,131764611]]'
 present_in_work: '[[_Standards/WikiData/WD~Iliad,8275]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Zeus,34201]]'
-  - '[[_Standards/WikiData/WD~Demeter,40730]]'
-  - '[[_Standards/WikiData/WD~Poseidon,41127]]'
-  - '[[_Standards/WikiData/WD~Hades,41410]]'
-  - '[[_Standards/WikiData/WD~Hestia,41419]]'
+- '[[_Standards/WikiData/WD~Zeus,34201]]'
+- '[[_Standards/WikiData/WD~Demeter,40730]]'
+- '[[_Standards/WikiData/WD~Poseidon,41127]]'
+- '[[_Standards/WikiData/WD~Hades,41410]]'
+- '[[_Standards/WikiData/WD~Hestia,41419]]'
 spouse: '[[_Standards/WikiData/WD~Zeus,34201]]'
 father: '[[_Standards/WikiData/WD~Cronus,44204]]'
 Hederich_encyclopedia_article: Hera
@@ -65,8 +103,118 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hera%20Campana%20Louvr
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-Ionenlaser-%CE%89%CF%81%CE%B1.wav
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/GERA_YUNONA.html
 native_label: Ἥρα
+dv_has_:
+  name_:
+    af: Hera
+    an: Hera
+    ar: هيرا
+    arz: هيرا
+    as: হেৰা
+    ast: Hera
+    az: Hera
+    ba: Гера
+    bar: Hera
+    bcl: Hera
+    be: Гера
+    be-tarask: Гэра
+    bg: Хера
+    bn: হেরা
+    br: Hera
+    bs: Hera
+    ca: Hera
+    ckb: ھیرا
+    cs: Héra
+    cy: Hera
+    da: Hera
+    de: Hera
+    diq: Hera
+    el: Ήρα
+    en: Hera
+    eo: Hera
+    es: Hera
+    et: Hera
+    eu: Hera
+    fa: هرا
+    fi: Hera
+    fr: Héra
+    ga: Héire
+    gl: Hera
+    grc: Ἡρα
+    gsw: Hera
+    he: הרה
+    hi: हीरा
+    hr: Hera
+    hu: Héra
+    hy: Հերա
+    hyw: Հերա (աստուածուհի)
+    ia: Hera
+    id: Hera
+    io: Hera
+    is: Hera
+    it: Era
+    ja: ヘーラー
+    jv: Hera
+    ka: ჰერა
+    kk: Гера
+    ko: 헤라
+    ku: Hêra
+    ku-latn: Hêra
+    la: Hera
+    lb: Hera
+    lt: Hera
+    lv: Hēra
+    mk: Хера
+    ml: ഹീര
+    mni: ꯍꯦꯔꯥ
+    mr: हिअरा
+    ms: Hera
+    mt: Era
+    my: ဟီရာ
+    mzn: هرا
+    nan: Hera
+    nb: Hera
+    nds: Hera
+    nl: Hera
+    nn: Hera
+    nrm: Héra
+    oc: Èra
+    os: Герæ
+    pa: ਹੇਅਰਾ
+    pl: Hera
+    ps: هيرا
+    pt: Hera
+    ro: Hera
+    ru: Гера
+    scn: Era
+    sco: Hera
+    sd: هيرا
+    sh: Hera
+    sk: Héra
+    sl: Hera
+    sq: Hera
+    sr: Хера
+    sv: Hera
+    sw: Hera
+    szy: Sila
+    ta: ஈரா
+    tg: Ҳеро
+    th: ฮีรา
+    tl: Hera
+    tr: Hera
+    tt: Hera
+    uk: Гера
+    ur: ہیرہ
+    uz: Gera (mif)
+    vep: Gera
+    vi: Hera
+    war: Hera
+    wuu: 赫拉
+    yue: 赫拉
+    zh: 赫拉
+    zh-hans: 赫拉
+    zh-hk: 希拉
+    zh-tw: 赫拉
 ---
-
 # [[Hera]] 
 
 #is_/similar_to :: [[../Roman_Mythology/Juno|Juno]]  

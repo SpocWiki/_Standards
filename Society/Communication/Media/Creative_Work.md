@@ -1,18 +1,107 @@
 ---
 aliases:
-  - creative-work
-  - creative_work
-  - CreativeWork
-  - is_a_creative_work
-  - creative_works
-  - dbo:Work
-  - Werk
-  - Creative_Work
-  - Creative Work
+- alkotás
+- Chok-phín
+- Creative Work
+- creative-work
+- CreativeWork
+- creative_work
+- creative_works
+- darbas
+- dbo:Work
+- delo
+- dielo
+- dílo
+- gwaith
+- Hugverk
+- is_a_creative_work
+- isé
+- jumıs
+- karya
+- karya kreatif
+- kreatiewe werk
+- kreativno djelo
+- lan
+- obbyr
+- ober
+- oberenn
+- obra
+- opera
+- operă
+- opus
+- overa
+- ovra
+- rad
+- radošs darbs
+- saothair
+- saothar
+- stvaralačko delo
+- teos
+- twórba
+- tyeji
+- tác phẩm
+- utwór
+- vepër
+- verk
+- verko
+- værk
+- wark
+- weorc
+- Werk
+- Wierk
+- work
+- wurk
+- Wärch
+- xebat
+- yaradıcı iş
+- yaratıcı çalışma
+- zèv
+- òbra
+- òpara
+- òpira
+- ùtwór
+- œuvre
+- έργο
+- асар
+- бичимел
+- осор
+- произведени
+- произведение
+- стваралачко дело
+- твір
+- твор
+- творечко дело
+- туынды
+- әсәр
+- әҫәр
+- ստեղծագործություն
+- יצירה
+- שעפערישע ווערק
+- اثر
+- عمل
+- مهم کارون
+- کاريا
+- کام
+- کم
+- ߓߊ߯ߙߊ
+- रचनात्मक कार्य
+- সৃষ্টিকর্ম
+- ରଚନାତ୍ମକ କାମ
+- ஆக்கவேலை
+- సృజనాత్మక కృతి
+- ಕೆಲಸ
+- സൃഷ്ടി
+- ผลงาน
+- အလုပ်
+- ၵၢၼ်
+- ნაწარმოები
+- Ọrụ
+- 作品
+- 작품
 has_id_wikidata: Q386724
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 fileClass: ''
@@ -20,18 +109,141 @@ isDeleted: false
 isReadOnly: false
 has_parent_class: '[Thing](../Thing)'
 keywords:
-  - creative_work
+- creative_work
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_creative_work Class
 publish: true
 publishDate: ''
 tags:
-  - schema-org/Class
+- schema-org/Class
 title: is_a_creative_work Class
 type: Type
+dv_has_:
+  name_:
+    af: kreatiewe werk
+    alt: бичимел
+    ang: weorc
+    ar: عمل
+    ast: obra
+    az: yaradıcı iş
+    ba: әҫәр
+    be: твор
+    be-tarask: твор
+    bg: произведение
+    bn: সৃষ্টিকর্ম
+    br: oberenn
+    bs: kreativno djelo
+    ca: obra
+    ce: произведени
+    cs: dílo
+    csb: ùtwór
+    cy: gwaith
+    da: værk
+    de: Werk
+    de-ch: Œuvre
+    el: έργο
+    en: work
+    en-ca: creative work
+    en-gb: work
+    eo: verko
+    es: obra
+    et: teos
+    eu: lan
+    fa: اثر
+    fi: teos
+    fr: œuvre
+    frr: werk
+    fy: wurk
+    ga: saothar
+    gd: saothair
+    gl: obra
+    gsw: Wärch
+    gv: obbyr
+    he: יצירה
+    hi: रचनात्मक कार्य
+    hr: rad
+    hsb: twórba
+    ht: zèv
+    hu: alkotás
+    hy: ստեղծագործություն
+    id: karya kreatif
+    ig: Ọrụ
+    ilo: obra
+    is: Hugverk
+    it: opera
+    ja: 作品
+    ka: ნაწარმოები
+    kaa: jumıs
+    kk: туынды
+    kn: ಕೆಲಸ
+    ko: 작품
+    ku: xebat
+    kw: ober
+    la: opus
+    lb: Wierk
+    lmo: overa
+    lt: darbas
+    lv: radošs darbs
+    min: karya
+    mk: творечко дело
+    ml: സൃഷ്ടി
+    ms: karya
+    ms-arab: کاريا
+    my: အလုပ်
+    mzn: مهم کارون
+    nan: Chok-phín
+    nb: verk
+    nds: Wark
+    nds-nl: wark
+    nl: werk
+    nn: verk
+    nqo: ߓߊ߯ߙߊ
+    oc: òbra
+    or: ରଚନାତ୍ମକ କାମ
+    pl: utwór
+    pnb: کم
+    pt: obra
+    pt-br: obra
+    rm: ovra
+    ro: operă
+    ru: произведение
+    scn: òpira
+    sh: kreativno djelo
+    shn: ၵၢၼ်
+    sk: dielo
+    sl: delo
+    smn: tyeji
+    sq: vepër
+    sr: стваралачко дело
+    sr-ec: стваралачко дело
+    sr-el: stvaralačko delo
+    stq: Wierk
+    sv: verk
+    ta: ஆக்கவேலை
+    te: సృజనాత్మక కృతి
+    tg: осор
+    tg-cyrl: асар
+    th: ผลงาน
+    tr: yaratıcı çalışma
+    tt: әсәр
+    tt-cyrl: әсәр
+    uk: твір
+    ur: کام
+    vec: òpara
+    vi: tác phẩm
+    yi: שעפערישע ווערק
+    yo: isé
+    zh: 作品
+    zh-cn: 作品
+    zh-hans: 作品
+    zh-hant: 作品
+    zh-hk: 作品
+    zh-mo: 作品
+    zh-my: 作品
+    zh-sg: 作品
+    zh-tw: 作品
 ---
-
 # [[Creative_Work]] 
 
 [[../../../schema-org/Class]] of all [[Creative_Work]]s.

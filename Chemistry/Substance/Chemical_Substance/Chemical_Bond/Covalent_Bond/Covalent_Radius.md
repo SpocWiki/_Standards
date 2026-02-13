@@ -1,38 +1,156 @@
 ---
 aliases:
-  - covalent radius
-  - Covalent_Radius
-  - Covalent Radius
+- Bán kính liên kết cộng hóa trị
+- covalent radius
+- covalente straal
+- Covalent_Radius
+- Erradio kobalente
+- Erradio kobalentea
+- Jari-jari kovalen
+- Jejari kovalen
+- kovalens sugár
+- kovalent radie
+- Kovalent radius
+- Kovalent yarıçapı
+- Kovalenta radiuso
+- kovalenter Radius
+- Kovalentinis spindulys
+- Kovalentlik radiusi
+- Kovalentni polmer
+- Kovalentni radijus
+- Kovalentní poloměr
+- kovalentsuonjâr
+- Kovalenttik radïws
+- kovalenttinen säde
+- Promień walencyjny
+- radi covalent
+- Radio covalent
+- radio covalente
+- Radiu covalente
+- Raggio covalente
+- Rai de covaléncia
+- raio covalente
+- rayon de covalence
+- Rază de covalență
+- ομοιοπολική ακτίνα
+- кавалентны радыюс
+- ковалентен полупречник
+- Ковалентен радиус
+- Ковалентла радиус
+- Ковалентни радијус
+- Ковалентний радіус
+- Ковалентный радиус
+- Коваленттік радиус
+- Կովալենտ շառավիղ
+- רדיוס קוולנטי
+- شعاع کووالانسی
+- كوۆالەنتتىك رادىيۋس
+- نصف قطر تساهمي
+- সমযোজী ব্যাসার্ধ
+- பங்கீட்டு ஆரை
+- സഹസംയോജകബന്ധനത്തിലെ ആരം
+- รัศมีโคเวเลนต์
+- კოვალენტური რადიუსი
+- 共价半径
+- 共價半徑
+- 共有結合半径
+- 공유 반지름
 has_id_wikidata: Q485360
-facet_of: "[[_Standards/WikiData/WD~covalent_bond,127920]]"
+facet_of: '[[_Standards/WikiData/WD~covalent_bond,127920]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~measure,192276]]"
-  - "[[_Standards/WikiData/WD~atomic_radius,483788]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_formalism,17540792]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~measure,192276]]'
+- '[[_Standards/WikiData/WD~atomic_radius,483788]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-covalent-bond-forces-%28simple%29.svg
 Commons_category: Covalent radius
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]"
+  - '[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]"
+- '[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]'
+dv_has_:
+  name_:
+    an: Radio covalent
+    ar: نصف قطر تساهمي
+    ast: Radiu covalente
+    bcl: Erradio kobalentea
+    be-tarask: кавалентны радыюс
+    bg: Ковалентен радиус
+    bn: সমযোজী ব্যাসার্ধ
+    ca: radi covalent
+    cs: Kovalentní poloměr
+    cv: Ковалентла радиус
+    da: Kovalent radius
+    de: kovalenter Radius
+    el: ομοιοπολική ακτίνα
+    en: covalent radius
+    eo: Kovalenta radiuso
+    es: radio covalente
+    eu: Erradio kobalente
+    fa: شعاع کووالانسی
+    fi: kovalenttinen säde
+    fr: rayon de covalence
+    gl: Radio covalente
+    he: רדיוס קוולנטי
+    hr: Kovalentni radijus
+    hu: kovalens sugár
+    hy: Կովալենտ շառավիղ
+    id: Jari-jari kovalen
+    it: Raggio covalente
+    ja: 共有結合半径
+    ka: კოვალენტური რადიუსი
+    kk: Коваленттік радиус
+    kk-arab: كوۆالەنتتىك رادىيۋس
+    kk-cyrl: Коваленттік радиус
+    kk-latn: Kovalenttik radïws
+    ko: 공유 반지름
+    lt: Kovalentinis spindulys
+    mk: ковалентен полупречник
+    ml: സഹസംയോജകബന്ധനത്തിലെ ആരം
+    ms: Jejari kovalen
+    nb: kovalent radius
+    nl: covalente straal
+    nn: kovalent radius
+    oc: Rai de covaléncia
+    pl: Promień walencyjny
+    pt: raio covalente
+    ro: Rază de covalență
+    ru: Ковалентный радиус
+    sh: Kovalentni radijus
+    sl: Kovalentni polmer
+    smn: kovalentsuonjâr
+    sr: Ковалентни радијус
+    sr-ec: Ковалентни радијус
+    sr-el: Kovalentni radijus
+    sv: kovalent radie
+    ta: பங்கீட்டு ஆரை
+    th: รัศมีโคเวเลนต์
+    tr: Kovalent yarıçapı
+    uk: Ковалентний радіус
+    ur: Covalent radius
+    uz: Kovalentlik radiusi
+    vi: Bán kính liên kết cộng hóa trị
+    yue: 共價半徑
+    zh: 共价半径
+    zh-hans: 共价半径
+    zh-hant: 共價半徑
+    zh-hk: 共價半徑
 ---
-
 # [[Covalent_Radius]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]] 

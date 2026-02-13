@@ -1,25 +1,118 @@
 ---
 aliases:
+- apmetums
+- estuc
+- estuco
+- estuque
+- Iztuku
+- stiuk
+- stuc
+- stucco
+- stuccu
+- stuch
+- stuck
+- stucwerk
+- stucó
+- stuk
+- stukk
+- stukkatur
+- stukko
+- stukkó
+- stuko
+- stükko
+- štuk
+- štukatúra
+- štuko
+- στόκος
+- гачбурӣ
+- стука
+- стукко
+- штуко
+- щукатура
+- Ստուկկո
+- סטוקו
+- اندود گچ و سیمان
+- زخارف جصية
+- ပန်းတော့
+- 化粧しっくい
+- 泥灰粉刷
+- 粉飾灰泥
+- 스투코
 has_id_wikidata: Q33526
-subclass_of: "[[_Standards/WikiData/WD~material,214609]]"
-different_from: "[[_Standards/WikiData/WD~plaster,274988]]"
-has_part_s_: "[[_Standards/WikiData/WD~plaster,274988]]"
+subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
+different_from: '[[_Standards/WikiData/WD~plaster,274988]]'
+has_part_s_: '[[_Standards/WikiData/WD~plaster,274988]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Q134884955,134884955]]"
-has_use: "[[_Standards/WikiData/WD~stuccoing,124132001]]"
-Nomenclature_for_Museum_Cataloging: "70"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Q134884955,134884955]]'
+has_use: '[[_Standards/WikiData/WD~stuccoing,124132001]]'
+Nomenclature_for_Museum_Cataloging: 70
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Himmelkron%20Kirche%20Decke%20HDR-20220306-RM-164134.jpg
 Commons_category: Stuccos
-Dewey_Decimal_Classification: "693.6"
+Dewey_Decimal_Classification: 693.6
+dv_has_:
+  name_:
+    ar: زخارف جصية
+    ast: Estuco
+    be: стука
+    be-tarask: стука
+    bg: щукатура
+    ca: estuc
+    co: Stuccu
+    cs: štuk
+    da: stuk
+    de: Stuck
+    el: στόκος
+    en: stucco
+    eo: stuko
+    es: estuco
+    et: stukk
+    eu: Iztuku
+    fa: اندود گچ و سیمان
+    fi: stukko
+    fr: stuc
+    ga: stucó
+    gl: estuco
+    he: סטוקו
+    hr: štuko
+    hu: stukkó
+    hy: Ստուկկո
+    id: stuko
+    io: stuko
+    it: stucco
+    ja: 化粧しっくい
+    ko: 스투코
+    lv: apmetums
+    ms: stuko
+    my: ပန်းတော့
+    nb: stukkatur
+    nds: Stuck
+    nl: stucwerk
+    nn: stukk
+    pl: stiuk
+    pms: stuch
+    pt: estuque
+    ro: stuc
+    ru: стукко
+    scn: stuccu
+    sh: štuko
+    sk: štukatúra
+    sl: štuk
+    sr: штуко
+    sr-ec: штуко
+    sv: stuck
+    tg: гачбурӣ
+    tr: stükko
+    uk: стукко
+    yue: 粉飾灰泥
+    zh: 泥灰粉刷
 ---
-
 # [[Stucco]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stucco,33526|WD~Stucco,33526]]  

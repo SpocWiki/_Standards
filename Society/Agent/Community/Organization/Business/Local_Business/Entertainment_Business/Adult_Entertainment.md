@@ -1,46 +1,153 @@
 ---
 aliases:
-  - adult-entertainment
-  - adult_entertainment
-  - AdultEntertainment
-  - is_an_adult_entertainment
-  - Adult_Entertainment
-  - Adult Entertainment
+- Adult Entertainment
+- adult-entertainment
+- AdultEntertainment
+- adult_entertainment
+- công nghệ tình dục
+- Diwydiant rhyw
+- Industri seks
+- industria del sesso
+- industria del sexo
+- industria do sexo
+- industrie du sexe
+- Industrija seksa
+- industrija spolnosti
+- Industriyang pagdurog
+- indústria del sexe
+- indústria do sexo
+- is_an_adult_entertainment
+- pornoindustrien
+- Przemysł seksualny
+- seks industrija
+- seks sektörü
+- Seks sənayesi
+- Seksa industrija
+- seksbranche
+- seksiala
+- sekskomerco
+- sekso pramonė
+- Seksyndustry
+- sex industry
+- Sexbiznis
+- sexbranschen
+- sexindustri
+- Sexindustrie
+- Sexu industria
+- sexuální průmysl
+- szexipar
+- секс индустрија
+- Секс индустрия
+- секс-індустрія
+- секс-індустрыя
+- секс-индустрия
+- сэкс-індустрыя
+- Սեքս-ինդուստրիա
+- תעשיית המין
+- جنسی صنعت
+- صناعة الجنس
+- صنعت سکس
+- सेक्स उद्योग
+- যৌনশিল্প
+- ਕਾਮ ਉਦਯੋਗ
+- 性風俗産業
+- 色情产业
+- 色情產業
+- 성 산업
 has_id_wikidata: Q837322
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - adult_entertainment
+- adult_entertainment
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_adult_entertainment Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_adult_entertainment Class
 type: Type
 has_part_s_:
-  - '[[_Standards/WikiData/WD~striptease,152213]]'
-  - '[[_Standards/WikiData/WD~sex_shop,221618]]'
-  - '[[_Standards/WikiData/WD~pornography,291]]'
-  - '[[_Standards/WikiData/WD~prostitution,36633]]'
+- '[[_Standards/WikiData/WD~striptease,152213]]'
+- '[[_Standards/WikiData/WD~sex_shop,221618]]'
+- '[[_Standards/WikiData/WD~pornography,291]]'
+- '[[_Standards/WikiData/WD~prostitution,36633]]'
 practiced_by: '[[_Standards/WikiData/WD~sex_worker,852857]]'
 subclass_of: '[[_Standards/WikiData/WD~sex_work,1297897]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~business_sector,3477367]]'
-  - '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~business_sector,3477367]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
 studied_by: '[[_Standards/WikiData/WD~sex_work_industry_studies,126955296]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20German%20prostitute%27s%20self-portrait%20in%20a%20brothel.jpg
 Commons_category: Sex business
+dv_has_:
+  name_:
+    ar: صناعة الجنس
+    arz: صناعة الجنس
+    az: Seks sənayesi
+    bcl: Industriyang pagdurog
+    be: секс-індустрыя
+    be-tarask: сэкс-індустрыя
+    bg: Секс индустрия
+    bn: যৌনশিল্প
+    ca: indústria del sexe
+    cs: sexuální průmysl
+    cy: Diwydiant rhyw
+    da: pornoindustrien
+    de: Sexindustrie
+    de-ch: Sexindustrie
+    en: sex industry
+    en-ca: Sex industry
+    en-gb: Sex industry
+    eo: sekskomerco
+    es: industria del sexo
+    eu: Sexu industria
+    fa: صنعت سکس
+    fi: seksiala
+    fr: industrie du sexe
+    fy: Seksyndustry
+    gl: industria do sexo
+    he: תעשיית המין
+    hi: सेक्स उद्योग
+    hu: szexipar
+    hy: Սեքս-ինդուստրիա
+    id: Industri seks
+    it: industria del sesso
+    ja: 性風俗産業
+    ko: 성 산업
+    lt: sekso pramonė
+    lv: Seksa industrija
+    nb: sexindustri
+    nl: seksbranche
+    pa: ਕਾਮ ਉਦਯੋਗ
+    pl: Przemysł seksualny
+    pnb: جنسی صنعت
+    pt: indústria do sexo
+    pt-br: Indústria do sexo
+    ru: секс-индустрия
+    sh: Industrija seksa
+    sk: Sexbiznis
+    sl: industrija spolnosti
+    sr: секс индустрија
+    sr-ec: секс индустрија
+    sr-el: seks industrija
+    sv: sexbranschen
+    tr: seks sektörü
+    uk: секс-індустрія
+    ur: جنسی صنعت
+    vi: công nghệ tình dục
+    zh: 色情產業
+    zh-hans: 色情产业
+    zh-hant: 色情產業
+    zh-hk: 色情產業
 ---
-
 # [[Adult_Entertainment]]
 
 #is_/same_as :: [[WD~erotic_entertainment,106466629]]

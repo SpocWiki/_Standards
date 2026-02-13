@@ -1,19 +1,214 @@
 ---
 aliases:
-  - Prose
+- Gancaran
+- Ghâncaran
+- hitz lau
+- Komz-plaen
+- Laproz
+- Nasr
+- Nathari
+- nesir
+- Nəsr
+- pexşan
+- Proaza
+- Proosa
+- prosa
+- Prose
+- proza
+- prozo
+- proză
+- proża
+- Pruoz
+- Pruoza
+- pròsa
+- pròza
+- prós
+- próza
+- Prôze
+- Pwòz
+- rhyddiaith
+- rosg
+- Tuluyan
+- văn xuôi
+- Yeth Plen
+- Óbundið mál
+- πεζός λόγος
+- наср
+- прозæ
+- проза
+- Хүүрнэл зохиол
+- արձակ
+- פראזע
+- פרוזה
+- نتر
+- نثر
+- پەخشان
+- गद्य
+- গদ্য
+- ਗਦ
+- உரைநடை
+- ಗದ್ಯ
+- ഗദ്യം
+- ร้อยแก้ว
+- ཚིག་ལྷུག
+- စကားပြေ
+- პროზა
+- 散文
+- 산문
 has_id_wikidata: Q676
 Commons_category: Prose
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prose%20and%20Verse%20on%20one%20page.jpg
 instance_of: '[[_Standards/WikiData/WD~literary_form,4263830]]'
 part_of: '[[_Standards/WikiData/WD~literature,8242]]'
 practiced_by: '[[_Standards/WikiData/WD~prose_writer,12144794]]'
 subclass_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+dv_has_:
+  name_:
+    af: prosa
+    an: Prosa
+    ar: نثر
+    ary: نتر
+    arz: نثر
+    as: গদ্য
+    ast: Prosa
+    az: nəsr
+    azb: نثر
+    ba: проза
+    ban: Gancaran
+    be: проза
+    be-tarask: проза
+    bg: проза
+    bn: গদ্য
+    bo: ཚིག་ལྷུག
+    br: Komz-plaen
+    bs: proza
+    btm: Prosa
+    ca: prosa
+    ce: Проза
+    ceb: Prosa
+    ckb: پەخشان
+    crh: nesir
+    cs: próza
+    cv: Проза
+    cy: rhyddiaith
+    da: prosa
+    de: Prosa
+    el: πεζός λόγος
+    en: prose
+    en-ca: Prose
+    en-gb: prose
+    eo: prozo
+    es: prosa
+    et: Proosa
+    eu: hitz lau
+    fa: نثر
+    fi: proosa
+    fr: prose
+    fy: Proaza
+    ga: prós
+    gan: 散文
+    gcr: Laproz
+    gd: rosg
+    gl: prosa
+    gsw: Prosa
+    gv: prose
+    he: פרוזה
+    hi: गद्य
+    hif: Prose
+    hr: Proza
+    ht: Pwòz
+    hu: próza
+    hy: արձակ
+    hyw: արձակ
+    id: prosa
+    ilo: prosa
+    io: Prozo
+    is: Óbundið mál
+    it: prosa
+    ja: 散文
+    jam: Pruoz
+    jv: Gancaran
+    ka: პროზა
+    kk: Проза
+    kn: ಗದ್ಯ
+    knc: Prose
+    ko: 산문
+    krc: Проза
+    krj: prosa
+    ku: pexşan
+    ku-latn: pexşan
+    kw: Yeth Plen
+    ky: Проза
+    la: Prosa
+    lb: Prosa
+    li: Proza
+    lmo: Pròsa
+    lt: proza
+    lv: proza
+    mad: Ghâncaran
+    mk: Проза
+    ml: ഗദ്യം
+    mn: Хүүрнэл зохиол
+    ms: Prosa
+    mt: proża
+    my: စကားပြေ
+    nb: prosa
+    nds: Prosa
+    nds-nl: proza
+    ne: गद्य
+    new: गद्य
+    nl: proza
+    nn: prosa
+    oc: pròsa
+    os: прозæ
+    pa: ਗਦ
+    pl: proza
+    pms: Prosa
+    pnb: نثر
+    ps: نثر
+    pt: prosa
+    pt-br: prosa
+    ro: proză
+    ru: проза
+    rue: проза
+    scn: Prosa
+    sd: نثر
+    sgs: Pruoza
+    sh: Proza
+    sk: próza
+    sl: proza
+    sq: Proza
+    sr: проза
+    su: Prosa
+    sv: prosa
+    sw: Nathari
+    ta: உரைநடை
+    tg: наср
+    th: ร้อยแก้ว
+    tl: Tuluyan
+    tly: Nəsr
+    tr: nesir
+    tt: проза
+    udm: проза
+    uk: проза
+    ur: نثر
+    uz: Nasr
+    vec: pròza
+    vi: văn xuôi
+    wa: Prôze
+    war: Prosa
+    wuu: 散文
+    yi: פראזע
+    yue: 散文
+    zh: 散文
+    zh-hans: 散文
+    zh-hant: 散文
+    zh-tw: 散文
 ---
-
 # [[Prose]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Prose,676|WD~Prose,676]] 

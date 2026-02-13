@@ -1,26 +1,97 @@
 ---
 aliases:
-  - Pongo
-  - Orangutan
-  - Orang Utan
-  - orangután de Bornéu
-  - orangutan
+- Bârângodhân
+- I-orengithengi
+- Ka'iporo
+- kogiu
+- Mágí diʼilí
+- Nəsnas
+- Orang Utan
+- Orang-oetang
+- orang-oetans
+- Orang-Utan
+- Orang-Utanen
+- Orang-Utans
+- orangit
+- Orangotan
+- Orangotango
+- Orangotàna
+- Orangoutan
+- Orangutan
+- Orangutanai
+- Orangutang
+- Orangutanger
+- Orangutangur
+- Orangutani
+- Orangutanlar
+- Orangutano
+- Orangutanu
+- Orangutanët
+- Orangután
+- orangután de Bornéu
+- Orangutāni
+- oraŋŋ
+- parboleem
+- Pongo
+- Pongo pygmaeus
+- Rangutango
+- Uorangutůn
+- Uranghutan
+- Urangutan
+- Âng-seng-seng
+- órang-útan
+- Órangútan
+- Đười ươi
+- Ουρακοτάγκος
+- арангутан
+- Арангутаны
+- орангутан
+- Орангутандар
+- орангутани
+- Орангутантæ
+- орангутаны
+- օրանգուտան
+- אורנגאוטן
+- إنسان الغاب
+- انسان الغاب
+- اورانگوتان
+- اورنګوتان
+- اورینگوٹان
+- ओरंगउटान
+- वनमानुष
+- वनमान्छे
+- ওৰাঙোটাং
+- বনমানুষ
+- ஓராங் ஊத்தான்
+- ఒరంగుటాన్
+- ಒರಾಂಗೂಟಾನ್
+- ഒറാങ്ങ്ഉട്ടാൻ
+- อุรังอุตัง
+- སྤྲ།
+- လူဝံ
+- ორანგუტანი
+- ᠰᡳᡵᠰᡳᠩ
+- オランウータン
+- 猩猩属
+- 猩猩屬
+- 紅毛猩猩
+- 오랑우탄
 has_id_wikidata: Q41050
 title: Pongo
-different_from: "[[_Standards/WikiData/WD~Pongo,403861]]"
-has_part_s_: "[[_Standards/WikiData/WD~Sumatran_orangutan,543424]]"
+different_from: '[[_Standards/WikiData/WD~Pongo,403861]]'
+has_part_s_: '[[_Standards/WikiData/WD~Sumatran_orangutan,543424]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-parent_taxon: "[[_Standards/WikiData/WD~Pongini,3755098]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Pongo_borneo,122832537]]"
-main_food_source: "[[_Standards/WikiData/WD~fruit,1364]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pongini,3755098]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Pongo_borneo,122832537]]'
+main_food_source: '[[_Standards/WikiData/WD~fruit,1364]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 OmegaWiki_Defined_Meaning: 8111
 Commons_gallery: Pongo
 Commons_category: Pongo
@@ -34,13 +105,136 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pongo%
 EPPO_Code: 1PONGG
 MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.635
 UMLS_CUI: C0178448
-Unicode_character: 🦧
+Unicode_character: "\U0001F9A7"
 taxon_common_name:
-  - orangután de Bornéu
-  - orangutan
+- orangután de Bornéu
+- orangutan
 native_label: orang hutan
+dv_has_:
+  name_:
+    af: Orang-oetang
+    an: Pongo
+    anp: वनमानुष
+    ar: إنسان الغاب
+    arz: انسان الغاب
+    as: ওৰাঙোটাং
+    ast: Orangután de Bornéu
+    avk: parboleem
+    az: Nəsnas
+    ba: Орангутандар
+    ban: Orangutan
+    bcl: Orangutan
+    be: Арангутаны
+    be-tarask: арангутан
+    bg: орангутани
+    bjn: Uranghutan
+    bn: বনমানুষ
+    bo: སྤྲ།
+    br: Orangoutan
+    bs: Orangutani
+    ca: orangutan
+    ceb: Pongo pygmaeus
+    cs: orangutan
+    cy: Orangutan
+    da: Orangutang
+    de: Orang-Utans
+    dtp: kogiu
+    el: Ουρακοτάγκος
+    en: Orangutan
+    en-us: orangutan
+    eo: Orangutano
+    es: Pongo
+    et: Orangutan
+    eu: Pongo
+    fa: اورانگوتان
+    fi: orangit
+    fo: Orangutangur
+    fr: Pongo
+    frr: Orang-Utans
+    ga: órang-útan
+    gl: Orangután
+    gn: Ka'iporo
+    gsw: Orang-Utan
+    he: אורנגאוטן
+    hi: ओरंगउटान
+    hr: Orangutan
+    hu: orangután
+    hy: օրանգուտան
+    ia: Pongo
+    id: Orang utan
+    io: Orangutano
+    is: Órangútan
+    it: Pongo
+    ja: オランウータン
+    jv: Orang utan
+    ka: ორანგუტანი
+    kk: Орангутандар
+    kn: ಒರಾಂಗೂಟಾನ್
+    ko: 오랑우탄
+    ky: Орангутан
+    la: Pongo
+    lb: Orang-Utanen
+    lbe: Орангутан
+    lt: Orangutanai
+    lv: Orangutāni
+    mad: Bârângodhân
+    mg: Orangotàna
+    mhr: Орангутан
+    mk: орангутан
+    ml: ഒറാങ്ങ്ഉട്ടാൻ
+    mn: Орангутан
+    mnc: ᠰᡳᡵᠰᡳᠩ
+    mrj: Орангутан
+    ms: orang utan
+    mul: Pongo
+    my: လူဝံ
+    mzn: اورانگوتان
+    nan: Âng-seng-seng
+    nap: Rangutango
+    nb: orangutanger
+    ne: वनमान्छे
+    nl: orang-oetans
+    nv: Mágí diʼilí
+    oc: Orangotan
+    os: Орангутантæ
+    pl: Orangutan
+    pnb: اورینگوٹان
+    ps: اورنګوتان
+    pt: Orangotango
+    qu: Orangutan
+    ro: Urangutan
+    ru: орангутаны
+    sah: Орангутан
+    scn: Pongo
+    sco: orangutan
+    sh: Orangutan
+    sk: Orangutan
+    sl: orangutan
+    sms: oraŋŋ
+    sq: Orangutanët
+    sr: орангутан
+    su: Orang utan
+    sv: Orangutanger
+    sw: Orangutanu
+    szl: Uorangutůn
+    ta: ஓராங் ஊத்தான்
+    te: ఒరంగుటాన్
+    th: อุรังอุตัง
+    tl: Orangutan
+    tr: Orangutan
+    udm: Орангутан
+    uk: Орангутан
+    uz: Orangutanlar
+    vi: Đười ươi
+    war: Pongo pygmaeus
+    wuu: 猩猩属
+    xmf: ორანგუტანი
+    yue: 紅毛猩猩
+    zh: 猩猩屬
+    zh-cn: 猩猩属
+    zh-tw: 猩猩屬
+    zu: I-orengithengi
 ---
-
 # [[Orangutan]] 🦧 
 
 ![ ](Orangutan/Pongo_pygmaeus0040.jpg)

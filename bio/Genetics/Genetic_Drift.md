@@ -1,7 +1,65 @@
 ---
 aliases:
-  - Genetic Drift
-  - Genetic_Drift
+- Deriv jenetik
+- Deriva genetic
+- Deriva genetica
+- deriva genètica
+- Deriva genética
+- Deriva xenética
+- Derivă genetică
+- dryf genetyczny
+- Dériv jénétik
+- dérive génétique
+- fánaíocht ghéiniteach
+- Geenitriiv
+- Genaflökt
+- Gendrift
+- geneettinen ajautuminen
+- Genetic Drift
+- genetický drift
+- Genetic_Drift
+- Genetik dreyf
+- genetik sürüklenme
+- genetika derivo
+- Genetikai sodródás
+- Genetische drift
+- Genetisk drift
+- Genetički drift
+- genetski zdrs
+- Genski drift
+- Genų dreifas
+- Hanyutan genetik
+- Henetikong pag-agos
+- Jito genetiko
+- Trôi dạt di truyền
+- Γενετική παρέκκλιση
+- Гендар дрейфы
+- Гендердин дрейфи
+- Генетичен дрейф
+- генетички дрифт
+- генетичний дрейф
+- генетско поместување
+- Генетычны дрэйф
+- генэтычны дрэйф
+- дрейф генов
+- Գեների դրեյֆ
+- סחף גנטי
+- انحراف وراثي
+- جنتيک ډرېفت
+- رانش ژن
+- لادانی بۆماوەیی
+- आनुवंशिक अन्वय
+- आनुवंशिक च्युति
+- জিন প্রবাহ
+- ಆನುವಂಶಿಕ ಡ್ರಿಫ್ಟ್
+- ජාන ප්ලාවිතය
+- การเปลี่ยนความถี่ยีนอย่างไม่เจาะจง
+- გენური დრეიფი
+- 基因漂變
+- 遗传漂变
+- 遺伝的浮動
+- 遺傳漂變
+- 유전자 부동
 has_id_wikidata: Q486420
 subclass_of: '[[_Standards/WikiData/WD~evolutionary_process,18054608]]'
 has_effect: '[[_Standards/WikiData/WD~evolution,1063]]'
@@ -9,11 +67,84 @@ PhilPapers_topic: genetic-drift
 Dewey_Decimal_Classification: 576.58
 UMLS_CUI: C0917892
 MeSH_tree_code:
-  - G05.045.300
-  - G05.330.320
+- G05.045.300
+- G05.330.320
 Commons_category: Genetic drift
+dv_has_:
+  name_:
+    ar: انحراف وراثي
+    ast: Deriva xenética
+    ba: Гендар дрейфы
+    be: Генетычны дрэйф
+    be-tarask: генэтычны дрэйф
+    bg: Генетичен дрейф
+    bn: জিন প্রবাহ
+    bs: Genetički drift
+    ca: deriva genètica
+    ckb: لادانی بۆماوەیی
+    cs: genetický drift
+    da: Genetisk drift
+    de: Gendrift
+    el: Γενετική παρέκκλιση
+    en: genetic drift
+    eo: genetika derivo
+    es: Deriva genética
+    et: Geenitriiv
+    eu: Jito genetiko
+    fa: رانش ژن
+    fi: geneettinen ajautuminen
+    fr: dérive génétique
+    ga: fánaíocht ghéiniteach
+    gcr: Dériv jénétik
+    gl: Deriva xenética
+    he: סחף גנטי
+    hi: आनुवंशिक च्युति
+    hr: Genski drift
+    ht: Deriv jenetik
+    hu: Genetikai sodródás
+    hy: Գեների դրեյֆ
+    ia: Deriva genetic
+    id: Hanyutan genetik
+    is: Genaflökt
+    it: Deriva genetica
+    ja: 遺伝的浮動
+    ka: გენური დრეიფი
+    kn: ಆನುವಂಶಿಕ ಡ್ರಿಫ್ಟ್
+    ko: 유전자 부동
+    ky: Гендердин дрейфи
+    lt: Genų dreifas
+    mk: генетско поместување
+    ms: Hanyutan genetik
+    nb: genetisk drift
+    nl: Genetische drift
+    nn: genetisk drift
+    pl: dryf genetyczny
+    ps: جنتيک ډرېفت
+    pt: deriva genética
+    ro: Derivă genetică
+    ru: дрейф генов
+    sa: आनुवंशिक अन्वय
+    sco: genetic drift
+    sh: Genetički drift
+    si: ජාන ප්ලාවිතය
+    sl: genetski zdrs
+    sr: генетички дрифт
+    sr-ec: генетички дрифт
+    sr-el: Genetički drift
+    sv: Genetisk drift
+    th: การเปลี่ยนความถี่ยีนอย่างไม่เจาะจง
+    tl: Henetikong pag-agos
+    tr: genetik sürüklenme
+    uk: генетичний дрейф
+    uz: Genetik dreyf
+    vi: Trôi dạt di truyền
+    wuu: 遗传漂变
+    yue: 基因漂變
+    zh: 遗传漂变
+    zh-hans: 遗传漂变
+    zh-hant: 遺傳漂變
+    zh-hk: 遺傳漂變
 ---
-
 # [[Genetic_Drift]] 
 
 #is_/same_as :: [[WD~Genetic_drift,486420]] 

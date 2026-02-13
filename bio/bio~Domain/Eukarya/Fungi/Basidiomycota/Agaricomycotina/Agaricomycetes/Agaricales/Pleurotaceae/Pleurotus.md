@@ -1,17 +1,52 @@
 ---
 aliases:
+- boczniak
+- Cordolinu de pezza
+- hlíva
+- isovinokkaat
+- Kreivabudė
+- Ostrigarji
+- Pleurotus
+- Pleŭroto
+- Q'utu qumutu
+- Seitlinge
+- servik
+- Vyoshenka
+- Vængsveppur
+- Østershat
+- Østerssoppar
+- østerssopper
+- Πλευρώτους
+- буковка
+- Вёшенка
+- вешанка
+- дрэўнавушка
+- плеврот
+- Ականջասնկեր
+- قارچ صدفی
+- محارى
+- محاري
+- ऑईस्टर मशरूम
+- சிப்பிக்காளான்
+- ചിപ്പിക്കൂൺ
+- ငွေမိုးမှို
+- ငွေမိုးမှို၊ ငွေနှင်းမှိုမျိုးစု
+- ヒラタケ属
+- 侧耳属
+- 側耳屬
+- 느타리속
 has_id_wikidata: Q852065
-taxonomic_type: "[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]]"
-different_from: "[[_Standards/WikiData/WD~compartment_coach,334485]]"
-parent_taxon: "[[_Standards/WikiData/WD~Pleurotaceae,7319414]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]]'
+different_from: '[[_Standards/WikiData/WD~compartment_coach,334485]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pleurotaceae,7319414]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 taxon_author_citation:
-  - (Fr.) P.Kumm.
-  - (Fr.) P.Kumm. (1871)
+- (Fr.) P.Kumm.
+- (Fr.) P.Kumm. (1871)
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Oyster%20mushoom%20fells.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pleurotus%20dryinus%20JPG1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Oyster%20mushoom%20fells.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pleurotus%20dryinus%20JPG1.jpg
 Commons_category: Pleurotus
 taxon_name: Pleurotus
 EPPO_Code: 1PLEUG
@@ -19,8 +54,79 @@ MeSH_tree_code: B01.300.179.100.650
 UMLS_CUI: C0600464
 NBN_System_Key: NHMSYS0001494099
 taxon_common_name: дрэўнавушка
+dv_has_:
+  name_:
+    an: Pleurotus
+    ar: محاري
+    arz: محارى
+    ast: Pleurotus
+    be: вешанка
+    be-tarask: дрэўнавушка
+    bg: Pleurotus
+    ca: Pleurotus
+    ceb: Pleurotus
+    cs: hlíva
+    da: Østershat
+    de: Seitlinge
+    de-ch: Seitlinge
+    el: Πλευρώτους
+    en: Pleurotus
+    en-ca: Pleurotus
+    en-gb: Pleurotus
+    eo: Pleŭroto
+    es: Pleurotus
+    et: servik
+    eu: Pleurotus
+    ext: Pleurotus
+    fa: قارچ صدفی
+    fi: isovinokkaat
+    fr: Pleurotus
+    ga: Pleurotus
+    gl: Pleurotus
+    hy: Ականջասնկեր
+    ia: Pleurotus
+    id: Pleurotus
+    ie: Pleurotus
+    io: Pleurotus
+    is: Vængsveppur
+    it: Pleurotus
+    ja: ヒラタケ属
+    ko: 느타리속
+    la: Pleurotus
+    lt: Kreivabudė
+    mk: буковка
+    ml: ചിപ്പിക്കൂൺ
+    mr: ऑईस्टर मशरूम
+    mul: Pleurotus
+    my: ငွေမိုးမှို၊ ငွေနှင်းမှိုမျိုးစု
+    nb: østerssopper
+    nl: Pleurotus
+    nn: Østerssoppar
+    oc: Pleurotus
+    pl: boczniak
+    pt: Pleurotus
+    pt-br: Pleurotus
+    qu: Q'utu qumutu
+    rki: ငွေမိုးမှို
+    ro: Pleurotus
+    ru: Вёшенка
+    sc: Cordolinu de pezza
+    sl: Ostrigarji
+    sq: Pleurotus
+    sv: Pleurotus
+    ta: சிப்பிக்காளான்
+    uk: плеврот
+    uz: Vyoshenka
+    vi: Pleurotus
+    vo: Pleurotus
+    war: Pleurotus
+    zh: 側耳屬
+    zh-cn: 侧耳属
+    zh-hans: 侧耳属
+    zh-hant: 側耳屬
+    zh-hk: 側耳屬
+    zh-tw: 側耳屬
 ---
-
 # [[Pleurotus]] 
 
 #is_/same_as :: [[WD~Pleurotus,852065]] 

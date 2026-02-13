@@ -1,8 +1,78 @@
 ---
 aliases:
-  - Clubionidae
+- Clubionidae
+- Clubiònid
+- Klubionedoj
+- Maišavoriai
+- Naʼashjéʼii azisí
+- pussihämähäkit
+- Păianjen sac
+- Sackspinnen
+- sekkeedderkopper
+- struikzakspinnen
+- säckspindlar
+- zápředníkovití
+- Κλουβιονίδες
+- Клубіяніды
+- عنکبوتهای کیسهباف
+- كلوبيونيداى
+- لماجيات
+- フクログモ科
+- 袋蛛科
 title: Clubionidae
 has_id_wikidata: Q8634
+dv_has_:
+  name_:
+    an: Clubionidae
+    ar: لماجيات
+    arz: كلوبيونيداى
+    ast: Clubionidae
+    be: Клубіяніды
+    bg: Clubionidae
+    ca: Clubiònid
+    ceb: Clubionidae
+    cs: zápředníkovití
+    de: Sackspinnen
+    el: Κλουβιονίδες
+    en: Clubionidae
+    eo: Klubionedoj
+    es: Clubionidae
+    eu: Clubionidae
+    ext: Clubionidae
+    fa: عنکبوتهای کیسهباف
+    fi: pussihämähäkit
+    fr: Clubionidae
+    ga: Clubionidae
+    gl: Clubionidae
+    ia: Clubionidae
+    ie: Clubionidae
+    io: Clubionidae
+    it: Clubionidae
+    ja: フクログモ科
+    la: Clubionidae
+    lt: Maišavoriai
+    mul: Clubionidae
+    nb: sekkeedderkopper
+    nl: struikzakspinnen
+    nn: Clubionidae
+    nv: Naʼashjéʼii azisí
+    oc: Clubionidae
+    pl: Clubionidae
+    pt: Clubionidae
+    pt-br: Clubionidae
+    ro: Păianjen sac
+    ru: Clubionidae
+    sq: Clubionidae
+    sv: säckspindlar
+    tr: Clubionidae
+    uk: Clubionidae
+    vi: Clubionidae
+    vo: Clubionidae
+    war: Clubionidae
+    zh: 袋蛛科
+    zh-cn: 袋蛛科
+    zh-hans: 袋蛛科
+    zh-tw: 袋蛛科
 ---
 # [[Clubionidae]] 
 

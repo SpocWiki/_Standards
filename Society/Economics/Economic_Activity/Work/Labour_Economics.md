@@ -1,23 +1,139 @@
 ---
 aliases:
+- arbeidseconomie
+- arbeidsmarkedsøkonomi
+- Arbeitsmarktökonomik
+- arbejdsmarkedsøkonomi
+- arbetsmarknadsekonomi
+- darba ekonomika
+- economia del lavoro
+- economia do trabalho
+- economia laboral
+- Economía do traballo
+- economía laboral
+- Economía llaboral
+- Ekonomi buruh
+- Ekonomia e punës
+- ekonomie práce
+- Ekonomija rada
+- Ekonomika pracy
+- Ekonomiks na pampaggawa
+- Kinh tế học lao động
+- laborekonomiko
+- labour economics
+- Lan-ekonomia
+- Mehnat iqtisodiyoti
+- munkagazdaságtan
+- Trg dela
+- Työn taloustiede
+- Tööturg
+- çalışma ekonomisi
+- économie du travail
+- Əmək bazarı
+- Οικονομική της Εργασίας
+- економіка праці
+- Економија рада
+- Икономика на труда
+- Иқтисоди меҳнат
+- працоўная эканоміка
+- Трудова економија
+- хезмәт икътисады
+- Хеҙмәт иҡтисады
+- Хөдөлмөрийн эдийн засаг
+- Эканоміка працы
+- экономика труда
+- Աշխատուժի տնտեսագիտություն
+- כלכלות עבודה
+- اقتصاد کار
+- اقتصاديات العمل
+- मजूर
+- श्रम अर्थशास्त्र
+- শ্রম অর্থশাস্ত্র
+- শ্ৰম
+- உழைப்பு
+- เศรษฐศาสตร์แรงงาน
+- 労働経済学
+- 勞動經濟學
+- 노동경제학
 has_id_wikidata: Q28161
 significant_person:
-  - "[[_Standards/WikiData/WD~Michael_Spence,157245]]"
-  - "[[_Standards/WikiData/WD~Gary_Becker,191020]]"
-  - "[[_Standards/WikiData/WD~Alan_B._Krueger,931129]]"
-  - "[[_Standards/WikiData/WD~David_Card,1173928]]"
-  - "[[_Standards/WikiData/WD~Jacob_Mincer,2599645]]"
-is_the_study_of: "[[../../../../WikiData/WD~work,268378]]"
+- '[[_Standards/WikiData/WD~Michael_Spence,157245]]'
+- '[[_Standards/WikiData/WD~Gary_Becker,191020]]'
+- '[[_Standards/WikiData/WD~Alan_B._Krueger,931129]]'
+- '[[_Standards/WikiData/WD~David_Card,1173928]]'
+- '[[_Standards/WikiData/WD~Jacob_Mincer,2599645]]'
+is_the_study_of: '[[../../../../WikiData/WD~work,268378]]'
 different_from:
-  - "[[_Standards/WikiData/WD~labor_economics,628722]]"
-  - "[[_Standards/WikiData/WD~labour,_migration_and_development,113115876]]"
-facet_of: "[[_Standards/WikiData/WD~economic_theory,1401304]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~economics,8134]]"
-Dewey_Decimal_Classification: "331"
+- '[[_Standards/WikiData/WD~labor_economics,628722]]'
+- '[[_Standards/WikiData/WD~labour,_migration_and_development,113115876]]'
+facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~economics,8134]]'
+Dewey_Decimal_Classification: 331
 Commons_category: Work
+dv_has_:
+  name_:
+    ar: اقتصاديات العمل
+    as: শ্ৰম
+    ast: Economía llaboral
+    az: Əmək bazarı
+    ba: Хеҙмәт иҡтисады
+    be: Эканоміка працы
+    be-tarask: працоўная эканоміка
+    bg: Икономика на труда
+    bn: শ্রম অর্থশাস্ত্র
+    ca: economia laboral
+    cs: ekonomie práce
+    da: arbejdsmarkedsøkonomi
+    de: Arbeitsmarktökonomik
+    el: Οικονομική της Εργασίας
+    en: labour economics
+    en-ca: Labour economics
+    en-gb: Labour economics
+    eo: laborekonomiko
+    es: economía laboral
+    et: Tööturg
+    eu: Lan-ekonomia
+    fa: اقتصاد کار
+    fi: Työn taloustiede
+    fr: économie du travail
+    gl: Economía do traballo
+    he: כלכלות עבודה
+    hi: श्रम अर्थशास्त्र
+    hu: munkagazdaságtan
+    hy: Աշխատուժի տնտեսագիտություն
+    id: Ekonomi buruh
+    it: economia del lavoro
+    ja: 労働経済学
+    ko: 노동경제학
+    lv: darba ekonomika
+    mk: Трудова економија
+    mn: Хөдөлмөрийн эдийн засаг
+    mr: मजूर
+    nb: arbeidsmarkedsøkonomi
+    nl: arbeidseconomie
+    pl: Ekonomika pracy
+    pt: economia do trabalho
+    pt-br: Economia do trabalho
+    ru: экономика труда
+    sh: Ekonomija rada
+    sl: Trg dela
+    sq: Ekonomia e punës
+    sr: Економија рада
+    sv: arbetsmarknadsekonomi
+    ta: உழைப்பு
+    tg: Иқтисоди меҳнат
+    th: เศรษฐศาสตร์แรงงาน
+    tl: Ekonomiks na pampaggawa
+    tr: çalışma ekonomisi
+    tt: хезмәт икътисады
+    uk: економіка праці
+    uz: Mehnat iqtisodiyoti
+    vec: economia del lavoro
+    vi: Kinh tế học lao động
+    yue: 勞動經濟學
+    zh: 勞動經濟學
 ---
-
 # [[Labour_Economics]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Labour_economics,28161|WD~Labour_economics,28161]]  

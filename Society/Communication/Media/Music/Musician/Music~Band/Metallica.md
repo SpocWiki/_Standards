@@ -1,52 +1,79 @@
 ---
-has_time_started: 1981-10-28 
+has_time_started: 1981-10-28
 aliases:
+- Metallica
+- Metàllica
+- Металика
+- Металлика
+- Մետալիկա
+- מטאליקה
+- متالیکا
+- ميتاليكا
+- مٹالیکا
+- مێتالیکا
+- މެޓަލިކާ
+- मेटालिका
+- মেটালিকা
+- ਮਟੈਲੀਕਾ
+- மெட்டாலிகா
+- ಮೆಟಾಲಿಕಾ
+- മെറ്റാലിക്ക
+- เมทัลลิกา
+- မက်တယ်လ်လစ်ကာ
+- მეთალიქა
+- მეტალიკა
+- メタリカ
+- 金属乐队
+- 金屬樂隊
+- 金屬製品合唱團
+- 메탈리카
+- "\U0001033C\U00010330\U00010339\U00010344\U00010330\U0001033B\U0001033B\U00010339\U0001033A\U00010330"
 has_id_wikidata: Q15920
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Lars_Ulrich,106193]]"
-  - "[[_Standards/WikiData/WD~Dave_Mustaine,187165]]"
-  - "[[_Standards/WikiData/WD~Cliff_Burton,188973]]"
-  - "[[_Standards/WikiData/WD~Robert_Trujillo,213229]]"
-  - "[[_Standards/WikiData/WD~Jason_Newsted,221546]]"
-  - "[[_Standards/WikiData/WD~Ron_McGovney,313647]]"
-  - "[[_Standards/WikiData/WD~Kirk_Hammett,484030]]"
-  - "[[_Standards/WikiData/WD~James_Hetfield,484302]]"
-  - "[[_Standards/WikiData/WD~Lloyd_Grant,2591131]]"
-  - "[[_Standards/WikiData/WD~Brad_Parker,135995074]]"
+- '[[_Standards/WikiData/WD~Lars_Ulrich,106193]]'
+- '[[_Standards/WikiData/WD~Dave_Mustaine,187165]]'
+- '[[_Standards/WikiData/WD~Cliff_Burton,188973]]'
+- '[[_Standards/WikiData/WD~Robert_Trujillo,213229]]'
+- '[[_Standards/WikiData/WD~Jason_Newsted,221546]]'
+- '[[_Standards/WikiData/WD~Ron_McGovney,313647]]'
+- '[[_Standards/WikiData/WD~Kirk_Hammett,484030]]'
+- '[[_Standards/WikiData/WD~James_Hetfield,484302]]'
+- '[[_Standards/WikiData/WD~Lloyd_Grant,2591131]]'
+- '[[_Standards/WikiData/WD~Brad_Parker,135995074]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Lars_Ulrich,106193]]"
-  - "[[_Standards/WikiData/WD~James_Hetfield,484302]]"
+- '[[_Standards/WikiData/WD~Lars_Ulrich,106193]]'
+- '[[_Standards/WikiData/WD~James_Hetfield,484302]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Mercury_Records,165745]]"
-  - "[[_Standards/WikiData/WD~Megaforce_Records,477213]]"
-  - "[[_Standards/WikiData/WD~Elektra,726251]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Vertigo_Records,1330417]]"
-  - "[[_Standards/WikiData/WD~Virgin_EMI_Records,13218788]]"
-  - "[[_Standards/WikiData/WD~Universal_Music_Group,38903]]"
+- '[[_Standards/WikiData/WD~Mercury_Records,165745]]'
+- '[[_Standards/WikiData/WD~Megaforce_Records,477213]]'
+- '[[_Standards/WikiData/WD~Elektra,726251]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Vertigo_Records,1330417]]'
+- '[[_Standards/WikiData/WD~Virgin_EMI_Records,13218788]]'
+- '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Metal_Performance,919095]]"
-different_from: "[[_Standards/WikiData/WD~Metallica,213516]]"
-instance_of: "[[_Standards/WikiData/WD~musical_group,215380]]"
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Metal_Performance,919095]]'
+different_from: '[[_Standards/WikiData/WD~Metallica,213516]]'
+instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
 genre:
-  - "[[_Standards/WikiData/WD~thrash_metal,483352]]"
-  - "[[_Standards/WikiData/WD~heavy_metal,38848]]"
-discography: "[[_Standards/WikiData/WD~Metallica_discography,727980]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Metallica,8084280]]"
-has_characteristic: "[[_Standards/WikiData/WD~heavy_metal_band,56816954]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-location_of_formation: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+- '[[_Standards/WikiData/WD~thrash_metal,483352]]'
+- '[[_Standards/WikiData/WD~heavy_metal,38848]]'
+discography: '[[_Standards/WikiData/WD~Metallica_discography,727980]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Metallica,8084280]]'
+has_characteristic: '[[_Standards/WikiData/WD~heavy_metal_band,56816954]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 social_media_followers:
-  - 11800000
-  - 6212620
+- 11800000
+- 6212620
 TikTok_username: metallica
 Tumblr_username: metallica
 Facebook_username: metallica
 Instagram_username: metallica
 X_Twitter_username:
-  - metallica
-  - Metallica
+- metallica
+- Metallica
 Commons_gallery: Metallica
 Commons_category: Metallica
 Archive_of_Our_Own_tag: Metallica
@@ -57,12 +84,141 @@ inception: 1981-10-28T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Metallica%20March%202024.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Metallica%20wordmark%202008.svg
 official_website: https://www.metallica.com
-ISNI: "0000000122939631"
+ISNI: 0000000122939631
 Wolfram_Language_entity_code: Entity["MusicAct", "Metallica::y6gd8"]
 Bluesky_handle: metallica.com
 Libris_URI: nl0362164w3kdxh
+dv_has_:
+  name_:
+    af: Metallica
+    an: Metallica
+    ang: Metallica
+    ar: ميتاليكا
+    arz: ميتاليكا
+    ast: Metallica
+    az: Metallica
+    azb: متالیکا
+    ban: Metallica
+    bar: Metallica
+    be: Metallica
+    be-tarask: Metallica
+    bg: Металика
+    bn: মেটালিকা
+    br: Metallica
+    bs: Metallica
+    ca: Metallica
+    ceb: Metallica
+    ckb: مێتالیکا
+    cs: Metallica
+    cy: Metallica
+    da: Metallica
+    de: Metallica
+    de-ch: Metallica
+    diq: Metallica
+    dv: މެޓަލިކާ
+    el: Metallica
+    eml: Metallica
+    en: Metallica
+    en-ca: Metallica
+    en-gb: Metallica
+    en-us: Metallica
+    eo: Metallica
+    es: Metallica
+    et: Metallica
+    eu: Metallica
+    fa: متالیکا
+    fi: Metallica
+    fo: Metallica
+    fr: Metallica
+    fy: Metallica
+    ga: Metallica
+    gl: Metallica
+    got: "\U0001033C\U00010330\U00010339\U00010344\U00010330\U0001033B\U0001033B\U00010339\U0001033A\U00010330"
+    gsw: Metallica
+    he: מטאליקה
+    hi: मेटालिका
+    hr: Metallica
+    hsb: Metallica
+    hu: Metallica
+    hy: Մետալիկա
+    id: Metallica
+    io: Metallica
+    is: Metallica
+    it: Metallica
+    ja: メタリカ
+    jv: Metallica
+    ka: მეტალიკა
+    kab: Metallica
+    kk: Metallica
+    kn: ಮೆಟಾಲಿಕಾ
+    ko: 메탈리카
+    ku: Metallica
+    ky: Metallica
+    la: Metallica
+    lad: Metallica
+    lb: Metallica
+    lez: Metallica
+    li: Metallica
+    lmo: Metallica
+    lt: Metallica
+    ltg: Metallica
+    lv: Metallica
+    mai: मेटालिका
+    mg: Metallica
+    mk: Металика
+    ml: മെറ്റാലിക്ക
+    mn: Металлика
+    ms: Metallica
+    mul: Metallica
+    my: မက်တယ်လ်လစ်ကာ
+    nah: Metallica
+    nb: Metallica
+    nds: Metallica
+    ne: मेटालिका
+    new: मेटालिका
+    nl: Metallica
+    nn: Metallica
+    oc: Metallica
+    pa: ਮਟੈਲੀਕਾ
+    pl: Metallica
+    pms: Metallica
+    pnb: مٹالیکا
+    pt: Metallica
+    pt-br: Metallica
+    qu: Metallica
+    ro: Metallica
+    ru: Metallica
+    sc: Metallica
+    scn: Metàllica
+    sco: Metallica
+    sh: Metallica
+    sk: Metallica
+    sl: Metallica
+    sq: Metallica
+    sr: Металика
+    sr-ec: Металика
+    sv: Metallica
+    szl: Metallica
+    ta: மெட்டாலிகா
+    th: เมทัลลิกา
+    tl: Metallica
+    tr: Metallica
+    tt: Metallica
+    uk: Metallica
+    uz: Metallica
+    vec: Metallica
+    vep: Metallica
+    vi: Metallica
+    vls: Metallica
+    wa: Metallica
+    war: Metallica
+    wuu: 金属乐队
+    xmf: მეთალიქა
+    yue: 金屬樂隊
+    zh: 金属乐队
+    zh-hant: 金屬製品合唱團
+    zh-tw: 金屬製品合唱團
 ---
-
 # [[Metallica]] 
 
 #is_/same_as :: [[WD~Metallica,15920]] 

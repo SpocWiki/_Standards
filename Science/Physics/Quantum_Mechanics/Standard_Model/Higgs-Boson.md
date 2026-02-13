@@ -1,38 +1,113 @@
 ---
 aliases:
-  - Higgs-Boson
-  - Higgs Boson
-  - Higgs particle
-  - Higgs_Boson
+- Boso Higgsianus
+- boson de Higgs
+- Boson Higgs
+- bosone di Higgs
+- bosono de Higgs
+- bosonul Higgs
+- bosão de Higgs
+- bosó de Higgs
+- Bosón de Higgs
+- bozon Higgsa
+- Bozoni i Higgsit
+- busoni di Higgs
+- bóson de Higgs
+- bósón Higgs
+- Bósónì Higgs
+- Higgs bosoi
+- Higgs Boson
+- Higgs bosono
+- Higgs bozoni
+- Higgs bozonu
+- Higgs particle
+- Higgs-boosoon
+- Higgs-Boson
+- Higgs-bosoon
+- Higgs-bozon
+- Higgs-bóseind
+- Higgs-partikel
+- Higgsa boson
+- Higgsboson
+- Higgsdeilke
+- Higgsi boson
+- Higgsin bosoni
+- Higgsov bozon
+- Higgsov bozón
+- Higgs_Boson
+- Higgsův boson
+- Higsa bozons
+- Higso bozonas
+- Higsov bozon
+- Hiqqs bozonu
+- hạt Higgs
+- xigzo
+- σωματίδιο Χιγκς
+- базон Гігса
+- Базон Хігса
+- бозон Гіґґса
+- бозон Хиггса
+- Хиггс бозонĕ
+- Хигс бозон
+- Хигсийн босон
+- Хигсов бозон
+- Һиггс бозоны
+- Հիգսի բոզոն
+- בוזון היגס
+- بوزون هيغز
+- بوزون هيڭز
+- بوزون هیگز
+- بۆزۆن ھیگز
+- هیگزبوسون
+- ہگ بوسون
+- ہگز بوسن
+- देवकणः
+- हिग्ज बोसॉन
+- हिग्स बोसॉन
+- हिग्स बोसोन
+- হিগস বোসন
+- ਹਿੱਗਸ ਬੋਸੋਨ
+- ହି ଗ୍ ସ୍ ବୋଷନ
+- ஹிக்ஸ் போசான்
+- హిగ్గ్స్ బోసన్
+- ದೇವಕಣ
+- ഹിഗ്സ് ബോസോൺ
+- හිග්ස් බොසෝනය
+- อนุภาคฮิกส์
+- ჰიგსის ბოზონი
+- ヒッグス粒子
+- 希格斯玻色子
+- 히그스 보손
+- 히그스립자
 has_id_wikidata: Q402
 theorized_by:
-  - '[[_Standards/WikiData/WD~François_Englert,151746]]'
-  - '[[_Standards/WikiData/WD~Robert_Brout,151833]]'
-  - '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
-  - '[[_Standards/WikiData/WD~Tom_Kibble,926167]]'
-  - '[[_Standards/WikiData/WD~C._R._Hagen,1040160]]'
-  - '[[_Standards/WikiData/WD~Gerald_Guralnik,1509906]]'
+- '[[_Standards/WikiData/WD~François_Englert,151746]]'
+- '[[_Standards/WikiData/WD~Robert_Brout,151833]]'
+- '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
+- '[[_Standards/WikiData/WD~Tom_Kibble,926167]]'
+- '[[_Standards/WikiData/WD~C._R._Hagen,1040160]]'
+- '[[_Standards/WikiData/WD~Gerald_Guralnik,1509906]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
-  - '[[_Standards/WikiData/WD~particle,1621273]]'
-  - '[[_Standards/WikiData/WD~God,190]]'
+- '[[_Standards/WikiData/WD~Peter_Higgs,192112]]'
+- '[[_Standards/WikiData/WD~particle,1621273]]'
+- '[[_Standards/WikiData/WD~God,190]]'
 decays_to:
-  - '[[_Standards/WikiData/WD~W_or_Z_boson,211922]]'
-  - '[[_Standards/WikiData/WD~electron,2225]]'
-  - '[[_Standards/WikiData/WD~photon,3198]]'
+- '[[_Standards/WikiData/WD~W_or_Z_boson,211922]]'
+- '[[_Standards/WikiData/WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~photon,3198]]'
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~ATLAS_experiment,299002]]'
-  - '[[_Standards/WikiData/WD~CMS_experiment,659478]]'
-  - '[[_Standards/WikiData/WD~CERN,42944]]'
+- '[[_Standards/WikiData/WD~ATLAS_experiment,299002]]'
+- '[[_Standards/WikiData/WD~CMS_experiment,659478]]'
+- '[[_Standards/WikiData/WD~CERN,42944]]'
 research_site:
-  - '[[_Standards/WikiData/WD~Fermilab,337641]]'
-  - '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]'
-  - '[[_Standards/WikiData/WD~CERN,42944]]'
+- '[[_Standards/WikiData/WD~Fermilab,337641]]'
+- '[[_Standards/WikiData/WD~Large_Hadron_Collider,40605]]'
+- '[[_Standards/WikiData/WD~CERN,42944]]'
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~Higgs_field,2094142]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~Higgs_field,2094142]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 has_superpartner: '[[_Standards/WikiData/WD~higgsino,1617700]]'
 subclass_of: '[[_Standards/WikiData/WD~scalar_boson,2750336]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
@@ -43,14 +118,14 @@ electric_charge: 0
 spin_quantum_number: 0
 parity_quantum_number: 1
 mean_lifetime:
-  - 0.00001
-  - 0.000156
+- 0.00001
+- 0.000156
 decay_width: 13000000
 Monte_Carlo_Particle_Number: 35
 mass:
-  - 124.97
-  - 125.11
-  - 125.26
+- 124.97
+- 125.11
+- 125.26
 OmegaWiki_Defined_Meaning: 1395736
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMS%20Higgs-event.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Higgs.mp3
@@ -58,8 +133,112 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 Wolfram_Language_entity_code: Entity["Particle", "HiggsBoson"]
 Commons_category: Higgs boson
 time_of_discovery_or_invention: 2012-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Higgsboson
+    ar: بوزون هيغز
+    ary: بوزون هيڭز
+    ast: Bosón de Higgs
+    az: Hiqqs bozonu
+    ba: Һиггс бозоны
+    be: Базон Хігса
+    be-tarask: базон Гігса
+    bg: Хигс бозон
+    bn: হিগস বোসন
+    br: Boson Higgs
+    bs: Higgsov bozon
+    ca: bosó de Higgs
+    ckb: بۆزۆن ھیگز
+    cs: Higgsův boson
+    cv: Хиггс бозонĕ
+    da: Higgs-partikel
+    de: Higgs-Boson
+    de-ch: Higgs-Boson
+    el: σωματίδιο Χιγκς
+    en: Higgs boson
+    en-ca: Higgs boson
+    en-gb: Higgs boson
+    eo: bosono de Higgs
+    es: bosón de Higgs
+    et: Higgsi boson
+    eu: Higgs bosoi
+    fa: بوزون هیگز
+    fi: Higgsin bosoni
+    fr: boson de Higgs
+    ga: bósón Higgs
+    gl: bosón de Higgs
+    gsw: Higgs-Boson
+    he: בוזון היגס
+    hi: हिग्स बोसॉन
+    hr: Higgsov bozon
+    hu: Higgs-bozon
+    hy: Հիգսի բոզոն
+    id: Boson Higgs
+    io: Higgs bosono
+    is: Higgs-bóseind
+    it: bosone di Higgs
+    ja: ヒッグス粒子
+    jbo: xigzo
+    ka: ჰიგსის ბოზონი
+    kn: ದೇವಕಣ
+    ko: 히그스 보손
+    ko-kp: 히그스립자
+    la: Boso Higgsianus
+    li: Higgsdeilke
+    lt: Higso bozonas
+    lv: Higsa bozons
+    mk: Хигсов бозон
+    ml: ഹിഗ്സ് ബോസോൺ
+    mn: Хигсийн босон
+    mr: हिग्ज बोसॉन
+    ms: Boson Higgs
+    mzn: بوزون هیگز
+    nb: Higgs-boson
+    nds: Higgs-Boson
+    ne: हिग्स बोसोन
+    nl: Higgsboson
+    nn: Higgs-boson
+    oc: boson de Higgs
+    or: ହି ଗ୍ ସ୍ ବୋଷନ
+    pa: ਹਿੱਗਸ ਬੋਸੋਨ
+    pl: bozon Higgsa
+    pnb: ہگز بوسن
+    ps: هیگزبوسون
+    pt: bosão de Higgs
+    pt-br: bóson de Higgs
+    ro: bosonul Higgs
+    ru: бозон Хиггса
+    sa: देवकणः
+    scn: busoni di Higgs
+    se: Higgsa boson
+    sh: Higgsov bozon
+    si: හිග්ස් බොසෝනය
+    simple: Higgs boson
+    sk: Higgsov bozón
+    sl: Higgsov bozon
+    smn: Higgs-boosoon
+    sms: Higgs-bosoon
+    sq: Bozoni i Higgsit
+    sr: Хигсов бозон
+    sr-ec: Хигсов бозон
+    sr-el: Higsov bozon
+    sv: Higgsboson
+    ta: ஹிக்ஸ் போசான்
+    te: హిగ్గ్స్ బోసన్
+    th: อนุภาคฮิกส์
+    tl: Higgs boson
+    tr: Higgs bozonu
+    tt: Һиггс бозоны
+    uk: бозон Гіґґса
+    ur: ہگ بوسون
+    uz: Higgs bozoni
+    vi: hạt Higgs
+    war: Higgs boson
+    wuu: 希格斯玻色子
+    yo: Bósónì Higgs
+    yue: 希格斯玻色子
+    zh: 希格斯玻色子
 ---
-
 # [[Higgs-Boson]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Higgs_boson,402|WD~Higgs_boson,402]] 

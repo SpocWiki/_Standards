@@ -1,8 +1,73 @@
 ---
 aliases:
-  - Ace Frehley
-  - Frehley,Ace
+- Ace Frehley
+- Frehley,Ace
+- Ејс Фрејли
+- Ейс Фрейлі
+- Ейс Фрели
+- Эйс Фрейли
+- Эйс Фрэйлі
+- Эйс Фрэйли
+- إيس فريلي
+- اس فريهلى
+- ایس فریلی
+- ᱮᱥ ᱯᱷᱨᱮᱦᱞᱤ
+- エース・フレーリー
+- 艾斯·費利
+- 에이스 프렐리
 has_id_wikidata: Q319610
+dv_has_:
+  name_:
+    af: Ace Frehley
+    ar: إيس فريلي
+    arz: اس فريهلى
+    ast: Ace Frehley
+    bar: Ace Frehley
+    be-tarask: Эйс Фрэйлі
+    bg: Ейс Фрели
+    ca: Ace Frehley
+    cs: Ace Frehley
+    cy: Ace Frehley
+    da: Ace Frehley
+    dag: Ace Frehley
+    de: Ace Frehley
+    eml: Ace Frehley
+    en: Ace Frehley
+    en-us: Ace Frehley
+    eo: Ace Frehley
+    es: Ace Frehley
+    et: Ace Frehley
+    eu: Ace Frehley
+    fa: ایس فریلی
+    fi: Ace Frehley
+    fr: Ace Frehley
+    ga: Ace Frehley
+    hu: Ace Frehley
+    id: Ace Frehley
+    it: Ace Frehley
+    ja: エース・フレーリー
+    kk: Эйс Фрэйли
+    ko: 에이스 프렐리
+    lb: Ace Frehley
+    mk: Ејс Фрејли
+    mul: Ace Frehley
+    nb: Ace Frehley
+    nl: Ace Frehley
+    nn: Ace Frehley
+    nup: Ace Frehley
+    pl: Ace Frehley
+    pt: Ace Frehley
+    pt-br: Ace Frehley
+    ru: Эйс Фрейли
+    sat: ᱮᱥ ᱯᱷᱨᱮᱦᱞᱤ
+    sh: Ace Frehley
+    sk: Ace Frehley
+    sl: Ace Frehley
+    sq: Ace Frehley
+    sv: Ace Frehley
+    tr: Ace Frehley
+    uk: Ейс Фрейлі
+    zh: 艾斯·費利
 ---
 #has_/time_/started :: 1951-04-27 
 

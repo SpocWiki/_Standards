@@ -1,8 +1,101 @@
 ---
 aliases:
+- estronci
+- estroncio
+- estronciu
+- estronsiyo
+- estronsyo
+- estrontzio
+- estrôncio
+- estwontyòm
+- ijo lili nanpa 38
+- ISolombi
+- Istiroontiyeemii
+- istoroontiyaam
+- istronsyu
+- istròntziu
+- jinmrstronti
+- sitrontiom
+- strointiam
+- stroinçhum
+- stroncii
+- stroncij
+- stroncijs
+- stroncijum
+- stroncio
+- stroncis
+- stroncium
+- stronciumi
+- stronsi
+- stronsio
+- stronsium
+- stronsiy
+- stronsiyum
+- stronsiyûm
+- stront
+- stronti
+- strontio
+- strontiom
+- strontium
+- strontiwm
+- strontsium
+- strontín
+- stronzi
+- stronzio
+- stronziu
+- stronzju
+- stronțiu
+- strónsio
+- stróńtíọ̀mù
+- sɩtrɔntɩyɔm
+- στρόντιο
+- стронсий
+- стронсиум
+- стронц
+- стронцій
+- стронци
+- стронцијум
+- стронций
+- стронциум
+- стронцый
+- ստրոնցիում
+- סטראנטיום
+- סטרונציום
+- استرانسیم
+- اسٽرونشيئم
+- سترونتسىي
+- سترونتيوم
+- سترونشيوم
+- سترۆنشیۆم
+- سطرونتيوم
+- سٹرونٹیئم
+- سٹرونٹیم
+- سټرونټيوم
+- स्ट्राँशियम
+- स्ट्रॉन्सियम
+- स्ट्रोंटियम
+- स्ट्रोन्सियम
+- স্ট্রনশিয়াম
+- ਸਟ੍ਰੌਂਸ਼ਮ
+- સ્ટ્રોન્શિયમ
+- ଷ୍ଟ୍ରୋନ୍ସିଅମ
+- இசுட்ரோன்சியம்
+- స్ట్రాన్షియం
+- ಸ್ಟ್ರಾನ್ಶಿಯಮ್
+- സ്ട്രോൺഷിയം
+- สตรอนเชียม
+- སྷྲོན་ཤམ།
+- စထရွန်တီယမ်
+- სტრონციუმი
+- ስትሮንቲየም
+- ストロンチウム
+- 鍶
+- 锶
+- 스트론튬
+- 스트론티움
 has_id_wikidata: Q938
 atomic_number: 38
-canonical_SMILES: "[Sr]"
+canonical_SMILES: '[Sr]'
 CAS_Registry_Number: 7440-24-6
 chemical_formula: Sr
 Commons_category: Strontium
@@ -10,57 +103,57 @@ Commons_gallery: Strontium
 Common_Procurement_Vocabulary_code: 14772000
 CPV_Supplementary_code: AA34
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Strontium,84688515]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Strontium,84688515]]'
 Dewey_Decimal_Classification: 546.394
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Cruickshank,902388]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Cruickshank,902388]]'
 DSSTOX_compound_identifier: DTXCID50875720
 EC_number: 231-133-4
 electronegativity: 1
-electron_configuration: "[Kr] 5s²"
+electron_configuration: '[Kr] 5s²'
 element_symbol: Sr
-found_in_taxon: "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
 Gmelin_number: 6868
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg
 InChI: InChI=1S/Sr
 InChIKey: CIOAGBVUUVVLOB-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1.18
-  - 1.26
-  - 1.36
-  - 1.44
+- 1.18
+- 1.26
+- 1.36
+- 1.44
 Krugosvet_article: biologiya/stronciy
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~celestine,407221]]"
-  - "[[_Standards/WikiData/WD~strontianite,422827]]"
-  - "[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]"
-  - "[[_Standards/WikiData/WD~epidote-(Sr),19833533]]"
+- '[[_Standards/WikiData/WD~celestine,407221]]'
+- '[[_Standards/WikiData/WD~strontianite,422827]]'
+- '[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]'
+- '[[_Standards/WikiData/WD~epidote-(Sr),19833533]]'
 mass: 87.62
 MCN_code: 2805.19.10
 MeSH_tree_code:
-  - D01.268.552.850
-  - D01.268.556.825
-  - D01.552.539.861
-  - D01.552.544.825
-named_after: "[[_Standards/WikiData/WD~Strontian,503042]]"
+- D01.268.552.850
+- D01.268.556.825
+- D01.552.539.861
+- D01.552.544.825
+named_after: '[[_Standards/WikiData/WD~Strontian,503042]]'
 OmegaWiki_Defined_Meaning: 3646
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~good_article_badge,17437798]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~good_article_badge,17437798]]'
 oxidation_state: 2
 part_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5359327
 SpocWebEntityId: 21936
 time_of_discovery_or_invention: 1787
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]'
 type: Element
 UMLS_CUI: C0038467
 Unicode_character: 鍶
@@ -68,22 +161,190 @@ UNII: YZS2RPE8LE
 ZVG_number: 8310
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Strontium,938]]"
-    - "[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]"
-  part_of: "[[../Group-02-Earth-Alkaline]]"
+  - '[[../../../WikiData/WD~Strontium,938]]'
+  - '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]'
+  part_of: '[[../Group-02-Earth-Alkaline]]'
 dv_has_:
   name_:
-    group: Group-02-Earth-Alkaline
-    en: Strontium
-    de: Strontium
     abbreviated: Sr
+    af: stronsium
+    am: ስትሮንቲየም
+    an: estroncio
+    anp: स्ट्रोंटियम
+    ar: سترونتيوم
+    ary: سطرونتيوم
+    arz: سترونشيوم
+    ast: estronciu
+    az: stronsium
+    ba: стронций
+    ban: strontium
+    bcl: estronsiyo
+    be: стронцый
+    be-tarask: стронц
+    bg: стронций
+    bho: स्ट्रॉन्सियम
+    bn: স্ট্রনশিয়াম
+    bo: སྷྲོན་ཤམ།
+    br: strontiom
+    bs: stroncij
+    ca: estronci
+    cdo: strontium
+    ceb: estronsyo
+    ckb: سترۆنشیۆم
+    co: stronziu
+    cs: stroncium
+    cv: стронци
+    cy: strontiwm
+    da: strontium
+    de: Strontium
+    el: στρόντιο
+    en: strontium
+    en-gb: strontium
+    eo: stroncio
+    es: estroncio
+    et: strontsium
+    eu: estrontzio
+    fa: استرانسیم
+    fi: strontium
+    fo: strontium
+    fr: strontium
+    frr: strontium
+    fur: stronzi
+    ga: strointiam
+    gan: 鍶
+    gd: strontium
+    gl: estroncio
+    group: Group-02-Earth-Alkaline
+    gu: સ્ટ્રોન્શિયમ
+    gv: stroinçhum
+    hak: strontium
+    he: סטרונציום
+    hi: स्ट्रोन्सियम
+    hif: strontium
+    hr: stroncij
+    ht: estwontyòm
+    hu: stroncium
+    hy: ստրոնցիում
+    ia: strontium
+    id: stronsium
+    io: stroncio
+    is: strontín
+    it: stronzio
+    ja: ストロンチウム
+    jbo: jinmrstronti
+    jv: strontium
+    ka: სტრონციუმი
+    kbp: sɩtrɔntɩyɔm
+    kk: стронций
+    kn: ಸ್ಟ್ರಾನ್ಶಿಯಮ್
+    ko: 스트론튬
+    ko-kp: 스트론티움
+    ku: stronsiyûm
+    kv: стронций
+    kw: strontiom
+    ky: стронций
+    la: strontium
+    lb: Strontium
+    lfn: strontio
+    li: strontium
+    lij: stronsio
+    lmo: stronsio
+    lt: stroncis
+    lv: stroncijs
+    lzh: 鍶
+    mdf: стронци
+    mg: Strontium
+    mk: стронциум
+    ml: സ്ട്രോൺഷിയം
+    mn: стронци
+    mr: स्ट्राँशियम
+    mrj: стронций
+    ms: strontium
+    mt: stronzju
+    my: စထရွန်တီယမ်
+    nan: strontium
+    nb: strontium
+    nds: Strontium
+    ne: स्ट्रोन्सियम
+    new: स्ट्रोन्सियम
+    nl: strontium
+    nn: strontium
+    nov: stronsium
+    oc: estronci
+    olo: stroncii
+    om: Istiroontiyeemii
+    or: ଷ୍ଟ୍ରୋନ୍ସିଅମ
+    os: стронций
+    pa: ਸਟ੍ਰੌਂਸ਼ਮ
+    pi: स्ट्रोन्सियम
+    pl: stront
+    pms: stronsi
+    pnb: سٹرونٹیم
+    ps: سټرونټيوم
+    pt: estrôncio
+    pt-br: estrôncio
+    qu: istronsyu
+    ro: stronțiu
+    ru: стронций
+    rup: stronțiu
+    sa: स्ट्रोन्सियम
+    sah: стронсиум
+    sc: istròntziu
+    scn: stronziu
+    sd: اسٽرونشيئم
+    se: strontium
+    sh: stroncijum
+    sk: stroncium
+    sl: stroncij
+    smn: strontium
+    sms: strontium
+    so: istoroontiyaam
+    sq: stronciumi
+    sr: стронцијум
+    sr-ec: стронцијум
+    stq: strontium
+    su: stronsium
+    sv: strontium
+    sw: stronti
+    ta: இசுட்ரோன்சியம்
+    te: స్ట్రాన్షియం
+    tg: стронсий
+    th: สตรอนเชียม
+    tl: estronsiyo
+    tok: ijo lili nanpa 38
+    tr: stronsiyum
+    tt: стронций
+    ug: سترونتسىي
+    uk: стронцій
+    ur: سٹرونٹیئم
+    uz: stronsiy
+    vec: strónsio
+    vep: stroncii
+    vi: stronti
+    wa: sitrontiom
+    war: estronsyo
+    wuu: 锶
+    xal: стронциум
+    yi: סטראנטיום
+    yo: stróńtíọ̀mù
+    yue: 鍶
+    zh: 锶
+    zh-hans: 锶
+    zh-hant: 鍶
+    zh-hk: 鍶
+    zh-tw: 鍶
+    zu: ISolombi
+  number_of_:
+    period: 5
+    group: 2
+    electrons: 38
   value_for_:
     weight_:
       u: 87.62
@@ -111,22 +372,18 @@ dv_has_:
       form_:
         kj_:
           mol: 144
-  number_of_:
-    period: 5
-    group: 2
-    electrons: 38
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Strontium,938]]"
-  - "[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]"
+- '[[../../../WikiData/WD~Strontium,938]]'
+- '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]'
 dv_has_name_group: Group-02-Earth-Alkaline
-dv_is_part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_is_part_of: '[[../Group-02-Earth-Alkaline]]'
 dv_has_name_en: Strontium
 dv_has_name_de: Strontium
 dv_has_value_for_weight_u: 87.62
@@ -147,7 +404,6 @@ dv_has_number_of_group: 2
 dv_has_name_abbreviated: Sr
 dv_has_number_of_electrons: 38
 ---
-
 # [[Strontium]] 
 
 #chemic/Element 

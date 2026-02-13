@@ -1,16 +1,78 @@
 ---
-has_time_started: 1908-01-01 
+has_time_started: 1908-01-01
 aliases:
+- dışavurumcu müzik
+- ekspresionisma muziko
+- Ekspresionistička muzika
+- Ekspresjonizm w muzyce
+- Ekspressionism
+- expresionismo musical
+- Expresionismus
+- Expressionisme musical
+- Expressionismus
+- expressionist music
+- expressionnisme musicale
+- expresszionizmus
+- Glasbeni ekspresionizem
+- musica espressionista
+- Musika espresionista
+- Musiqidə eskresionizm
+- Εξπρεσιονισμός στη μουσική
+- Експресіонізм у музиці
+- экспрессионизм
+- экспрэсіянізм
+- Էքսպրեսիոնիզմը երաժշտության մեջ
+- מוזיקה אקספרסיוניסטית
+- موسيقى تعبيرية
+- موسیقی اکسپرسیونیستی
+- ექსპრესიონიზმი (მუსიკა)
+- 表現主義音楽
+- 表現主義音樂
+- 表現派音樂
+- 표현주의 음악
 has_id_wikidata: Q613707
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-different_from: "[[_Standards/WikiData/WD~expressionism,9252021]]"
-subclass_of: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+different_from: '[[_Standards/WikiData/WD~expressionism,9252021]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 inception: 1908-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: موسيقى تعبيرية
+    az: Musiqidə eskresionizm
+    be: экспрэсіянізм
+    be-tarask: экспрэсіянізм
+    ca: Expressionisme musical
+    cs: Expresionismus
+    de: Expressionismus
+    el: Εξπρεσιονισμός στη μουσική
+    en: expressionist music
+    eo: ekspresionisma muziko
+    es: expresionismo musical
+    et: Ekspressionism
+    eu: Musika espresionista
+    fa: موسیقی اکسپرسیونیستی
+    fr: expressionnisme musicale
+    gl: Expresionismo musical
+    he: מוזיקה אקספרסיוניסטית
+    hu: expresszionizmus
+    hy: Էքսպրեսիոնիզմը երաժշտության մեջ
+    it: musica espressionista
+    ja: 表現主義音楽
+    ka: ექსპრესიონიზმი (მუსიკა)
+    ko: 표현주의 음악
+    la: Expressionismus
+    pl: Ekspresjonizm w muzyce
+    ru: экспрессионизм
+    sl: Glasbeni ekspresionizem
+    sr: Ekspresionistička muzika
+    tr: dışavurumcu müzik
+    uk: Експресіонізм у музиці
+    yue: 表現派音樂
+    zh: 表現主義音樂
 ---
-
 # [[Expressionist_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Expressionist_music,613707|WD~Expressionist_music,613707]] 

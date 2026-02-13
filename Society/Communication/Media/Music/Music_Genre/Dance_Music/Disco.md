@@ -1,29 +1,168 @@
 ---
-has_time_started: 1972-01-01 
+has_time_started: 1972-01-01
 aliases:
+- dioscó
+- diosgo
+- disco
+- disco music
+- Disco musika
+- discothecicus
+- disgo
+- disko
+- diskomuusika
+- diskomūzika
+- Diskoo
+- Diskó
+- diszkó
+- Dîsko
+- Musica disco
+- mużika disko
+- música disco
+- Música discu
+- Nhạc disco
+- діско
+- диско
+- диско музика
+- дыска
+- դիսկո
+- דיסקו
+- ديسكو
+- ديسکو
+- دیسکو
+- دیسکۆ
+- ڈسکو
+- डिस्को
+- ডিস্কো
+- திசுக்கோ
+- ഡിസ്കോ
+- ดิสโก้
+- დისკო
+- ディスコ
+- 的士高
+- 迪斯可
+- 迪斯科
+- 디스코
 has_id_wikidata: Q58339
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Disco,297312]]"
-  - "[[_Standards/WikiData/WD~Disco,15737907]]"
-part_of: "[[_Standards/WikiData/WD~African_American_music,388207]]"
-facet_of: "[[_Standards/WikiData/WD~disco_dance,1228513]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Disco_music_footer,10519444]]"
+- '[[_Standards/WikiData/WD~Disco,297312]]'
+- '[[_Standards/WikiData/WD~Disco,15737907]]'
+part_of: '[[_Standards/WikiData/WD~African_American_music,388207]]'
+facet_of: '[[_Standards/WikiData/WD~disco_dance,1228513]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Disco_music_footer,10519444]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~club_dance_music,11787389]]"
-  - "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-practiced_by: "[[_Standards/WikiData/WD~disco_singer,104224827]]"
+- '[[_Standards/WikiData/WD~club_dance_music,11787389]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+practiced_by: '[[_Standards/WikiData/WD~disco_singer,104224827]]'
 inception: 1972-01-01T00:00:00Z
 subreddit: Disco
 Commons_category: Disco
 native_label: Disco
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Disco%20TGI%20Bar%20by%20John%20Vance.jpg
 Krugosvet_article: kultura_i_obrazovanie/muzyka/DISKO.html
+dv_has_:
+  name_:
+    ar: ديسكو
+    arz: ديسكو
+    ast: Música discu
+    az: disko
+    be: дыска
+    be-tarask: дыска
+    bg: диско
+    bn: ডিস্কো
+    ca: música disco
+    ckb: دیسکۆ
+    cs: disco
+    cy: disgo
+    da: disco
+    de: Disco
+    el: Disco
+    en: disco
+    en-gb: disco
+    eo: Diskoo
+    es: música disco
+    et: diskomuusika
+    eu: Disco musika
+    fa: دیسکو
+    fi: disko
+    fr: disco
+    fy: disko
+    ga: dioscó
+    gd: diosgo
+    gl: música disco
+    gv: disco
+    he: דיסקו
+    hi: डिस्को
+    hr: Disco
+    ht: Disco
+    hu: diszkó
+    hy: դիսկո
+    ia: Musica disco
+    id: Disko
+    io: Disco
+    is: Diskó
+    it: disco music
+    ja: ディスコ
+    ka: დისკო
+    kk: Диско
+    ko: 디스코
+    ku: Dîsko
+    la: discothecicus
+    lb: Disco
+    lfn: Disco
+    lmo: Disco
+    lt: disko
+    lv: diskomūzika
+    mk: Диско
+    ml: ഡിസ്കോ
+    ms: disko
+    ms-arab: ديسکو
+    mt: mużika disko
+    mzn: دیسکو
+    nan: Disco
+    nb: disco
+    ne: डिस्को
+    nl: disco
+    nn: disco
+    oc: musica disco
+    pl: disco
+    pt: música disco
+    qu: disco
+    ro: disco
+    ru: диско
+    rue: діско
+    sco: disco
+    se: disko
+    sh: Disco
+    sk: Disko
+    sl: disco
+    smn: disko
+    sms: disko
+    sr: диско музика
+    st: Disco
+    sv: disco
+    ta: திசுக்கோ
+    th: ดิสโก้
+    tr: disko
+    uk: диско
+    ur: ڈسکو
+    uz: Disko
+    vi: Nhạc disco
+    wuu: 迪斯科
+    yue: 的士高
+    zh: 迪斯科
+    zh-cn: 迪斯科
+    zh-hans: 迪斯科
+    zh-hant: 迪斯可
+    zh-hk: 的士高
+    zh-mo: 的士高
+    zh-my: 迪斯科
+    zh-sg: 迪斯科
+    zh-tw: 迪斯可
 ---
-
 # [[Disco]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Disco,58339|WD~Disco,58339]] 

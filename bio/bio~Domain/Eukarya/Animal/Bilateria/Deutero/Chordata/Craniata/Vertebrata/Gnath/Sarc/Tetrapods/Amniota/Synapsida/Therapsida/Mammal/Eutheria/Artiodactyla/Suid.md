@@ -1,9 +1,174 @@
 ---
 aliases:
-  - Suidae
-  - Suid
+- Baboy
+- Bargen
+- cūku dzimta
+- disznófélék
+- domuzgiller
+- Donuzlar
+- Echt Schwäin
+- Echt swin
+- Echte Schweine
+- Hoc'heged
+- Họ Lợn
+- Kiauliniai
+- prasatovití
+- prašiči
+- siat
+- Sigalased
+- Suedoj
+- Suid
+- Suidae
+- Suide
+- Suido
+- Suidët
+- Svin
+- Svindjur
+- svinefamilien
+- Svinje
+- Svín
+- Súidos
+- súids
+- Ti-kho
+- Toʻngʻizlar
+- Tsiga
+- Tó wónaanídę́ę́ʼ bisóodi
+- varkens
+- Verkes
+- wafiboleem
+- Zwynefamilie
+- Świniowate
+- Συίδες
+- Дуңгызлар
+- свінні
+- свиневі
+- свиневи
+- свиные
+- Сибиинньэлэр кэргэннэрэ
+- Суидае
+- Сусҡалар
+- Сысна
+- сьвіньні
+- Тувот
+- Һаха
+- խոզեր
+- חזיריים
+- خنزيريات
+- دونوزلار
+- سوئیڈی
+- سور ٹبر
+- گرازسانان
+- सूइडाए
+- సూయిడే
+- ღორისებრნი
+- イノシシ科
+- 猪科
+- 豬科
+- 멧돼지과
 title: Suidae
 has_id_wikidata: Q166898
+dv_has_:
+  name_:
+    af: Suidae
+    an: Suidae
+    ar: خنزيريات
+    arz: خنزيريات
+    ast: Suidae
+    avk: wafiboleem
+    az: Donuzlar
+    azb: دونوزلار
+    ba: Сусҡалар
+    ban: Suidae
+    be: свінні
+    be-tarask: сьвіньні
+    bg: свиневи
+    br: Hoc'heged
+    ca: súids
+    ceb: Baboy
+    cs: prasatovití
+    cv: Сысна
+    da: Svin
+    de: Echte Schweine
+    el: Συίδες
+    en: Suidae
+    eo: Suedoj
+    es: Suidae
+    et: Sigalased
+    eu: Suido
+    ext: Suidae
+    fa: گرازسانان
+    fi: siat
+    fr: Suidae
+    frr: Echt swin
+    fy: Bargen
+    ga: Suidae
+    gl: Súidos
+    he: חזיריים
+    hi: सूइडाए
+    hr: Svinje
+    hu: disznófélék
+    hy: խոզեր
+    ia: Suidae
+    id: Suidae
+    ie: Suidae
+    io: Suidae
+    is: Svín
+    it: Suidae
+    ja: イノシシ科
+    ka: ღორისებრნი
+    ko: 멧돼지과
+    la: Suidae
+    lb: Echt Schwäin
+    li: Verkes
+    lt: Kiauliniai
+    lv: cūku dzimta
+    lzh: 豬科
+    mdf: Тувот
+    mul: Suidae
+    nan: Ti-kho
+    nb: svinefamilien
+    nl: varkens
+    nn: svinefamilien
+    nv: Tó wónaanídę́ę́ʼ bisóodi
+    oc: Suidae
+    pl: Świniowate
+    pnb: سور ٹبر
+    pt: Suidae
+    pt-br: Suidae
+    ro: Suide
+    ru: свиные
+    sah: Сибиинньэлэр кэргэннэрэ
+    scn: Suidae
+    sco: Suidae
+    sh: Svinje
+    sl: prašiči
+    sq: Suidët
+    sr: Суидае
+    sr-ec: Суидае
+    sr-el: Suidae
+    sv: Svindjur
+    te: సూయిడే
+    tl: Suidae
+    tr: domuzgiller
+    tt: Дуңгызлар
+    uk: свиневі
+    ur: سوئیڈی
+    uz: Toʻngʻizlar
+    vi: Họ Lợn
+    vls: Zwynefamilie
+    vo: Suidae
+    vro: Tsiga
+    war: Suidae
+    wuu: 猪科
+    xal: Һаха
+    yue: 豬科
+    zh: 猪科
+    zh-cn: 猪科
+    zh-hans: 猪科
+    zh-hant: 豬科
+    zh-hk: 豬科
+    zh-sg: 猪科
+    zh-tw: 豬科
 ---
 # [[Suid]]
 

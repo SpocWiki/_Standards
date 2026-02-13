@@ -1,8 +1,57 @@
 ---
 has_id_wikidata: Q15622633
+dv_has_:
+  name_:
+    ast: Self/less
+    bg: Без/смъртен
+    bn: সেলফ/লেস
+    ca: Self/less
+    da: Self/less
+    de: Self/less – Der Fremde in mir
+    en: Self/less
+    es: Selfless
+    et: Isetu
+    fa: بیخود از خود
+    fr: Renaissances
+    ga: Self/less
+    hi: सेल्फ/लेस
+    hu: Önkívület
+    hy: Իրենից/դուրս
+    id: Self/less
+    it: Self/less
+    ja: セルフレス/覚醒した記憶
+    ko: 셀프/리스
+    lv: Ne/sevī
+    nb: Self/less
+    nl: Self/less
+    pt: Self/less
+    ru: Вне себя
+    ta: செல்ப்/லெஸ்
+    tr: Self/less
+    uk: Ціна безсмертя
+    vi: Kẻ thế mạng
+    zh: 換命法則
+aliases:
+- Isetu
+- Kẻ thế mạng
+- Ne/sevī
+- Renaissances
+- Self/less
+- Self/less – Der Fremde in mir
+- Selfless
+- Önkívület
+- Без/смъртен
+- Вне себя
+- Ціна безсмертя
+- Իրենից/դուրս
+- بیخود از خود
+- सेल्फ/लेस
+- সেলফ/লেস
+- செல்ப்/லெஸ்
+- セルフレス/覚醒した記憶
+- 換命法則
+- 셀프/리스
 ---
-
-
 > **Self/less** is a 2015 American science fiction action thriller film directed by Tarsem Singh, 
 > produced by Ram Bergman and James D. Stern and written by Alex and David Pastor. 
 > 

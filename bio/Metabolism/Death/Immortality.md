@@ -1,8 +1,143 @@
 ---
 has_id_wikidata: Q193942
+dv_has_:
+  name_:
+    af: Onsterflikheid
+    ar: خلود
+    as: অমৰত্ব
+    az: Ölməzlik
+    bcl: Imortalidad
+    be-tarask: несьмяротнасьць
+    bg: Безсмъртие
+    bn: অমরত্ব
+    bo: རྒས་མེད་ཚེ་རིང་།
+    br: divarvelezh
+    bs: Besmrtnost
+    ca: immortalitat
+    ckb: نەمری
+    cs: nesmrtelnost
+    cv: Вилĕмсĕрлĕх
+    de: Unsterblichkeit
+    el: αθανασία
+    en: immortality
+    eo: senmorteco
+    es: inmortalidad
+    et: Surematus
+    eu: Hilezkortasun
+    fa: نامیرایی
+    fi: kuolemattomuus
+    fr: immortalité
+    fy: Unstjerlikens
+    ga: neamhbhásmhaireacht
+    gl: inmortalidade
+    he: חיי נצח
+    hr: besmrtnost
+    hu: halhatatlanság
+    hy: հավիտենական կյանք
+    id: keabadian
+    it: immortalità
+    ja: 不老不死
+    ko: 불로장생
+    lv: Nemirstība
+    mg: Tsy feteza-maty
+    mk: Бесмртност
+    ml: അമരത്വം
+    ms: Keabadian
+    mul: immortality
+    nb: udødelighet
+    nl: onsterfelijkheid
+    oc: Immortalitat
+    pl: nieśmiertelność
+    pt: imortalidade
+    ro: Nemurire
+    ru: бессмертие
+    scn: Immortalità
+    sh: Besmrtnost
+    sk: nesmrteľnosť
+    sl: nesmrtnost
+    sq: Pavdekësia
+    sr: бесмртност
+    sr-ec: Бесмртност
+    sr-el: Besmrtnost
+    sv: odödlighet
+    sw: Uzima wa milele
+    ta: அமரத்துவம்
+    tg: Ҷовидонӣ
+    tl: Imortalidad
+    tr: ölümsüzlük
+    uk: безсмертя
+    uz: Boqiylik
+    vi: bất tử
+    wuu: 长生弗老
+    yue: 長生不老
+    zh: 长生不老
+    zh-cn: 长生不老
+    zh-hans: 长生不老
+    zh-hant: 長生不老
+    zh-hk: 長生不老
+    zh-sg: 长生不老
+    zh-tw: 長生不老
+aliases:
+- Besmrtnost
+- Boqiylik
+- bất tử
+- divarvelezh
+- halhatatlanság
+- Hilezkortasun
+- immortalitat
+- immortality
+- immortalità
+- immortalité
+- Imortalidad
+- imortalidade
+- inmortalidad
+- inmortalidade
+- keabadian
+- kuolemattomuus
+- neamhbhásmhaireacht
+- Nemirstība
+- Nemurire
+- nesmrtelnost
+- nesmrteľnosť
+- nesmrtnost
+- nieśmiertelność
+- odödlighet
+- onsterfelijkheid
+- Onsterflikheid
+- Pavdekësia
+- senmorteco
+- Surematus
+- Tsy feteza-maty
+- udødelighet
+- Unsterblichkeit
+- Unstjerlikens
+- Uzima wa milele
+- Ölməzlik
+- ölümsüzlük
+- αθανασία
+- безсмертя
+- Безсмъртие
+- Бесмртност
+- бессмертие
+- Вилĕмсĕрлĕх
+- несьмяротнасьць
+- Ҷовидонӣ
+- հավիտենական կյանք
+- חיי נצח
+- خلود
+- نامیرایی
+- نەمری
+- অমরত্ব
+- অমৰত্ব
+- அமரத்துவம்
+- അമരത്വം
+- རྒས་མེད་ཚེ་རིང་།
+- 不老不死
+- 長生不老
+- 长生不老
+- 长生弗老
+- 불로장생
 ---
-
-
 # [[Immortality]] 
 
 #is_/same_as :: [[WD~Immortality,193942]] 

@@ -1,34 +1,193 @@
 ---
 aliases:
+- fiseind
+- neitrīno
+- neoidríonó
+- neutriino
+- neutriinod
+- neutrin
+- neutrinas
+- neutrino
+- neutrinu
+- neutrinum
+- neutrinò
+- neutrí
+- neutrín
+- neutríno
+- neutrínó
+- nevtrino
+- neytrin
+- neytrino
+- neütrin
+- neŭtrino
+- niutrinu
+- nyuuchriino
+- nétrino
+- nötrino
+- nøytrino
+- νετρίνο
+- нейтрино
+- нейтрына
+- неутрино
+- нэўтрына
+- նեյտրինո
+- נייטרינו
+- نوترينو
+- نوترینو
+- نووترینۆ
+- نيوترينو
+- نیوٹرینو
+- न्यूट्रिनो
+- নিউট্রিনো
+- নিউট্ৰিন’
+- ਨਿਊਟ੍ਰੀਨੋ
+- ન્યુટ્રિનો
+- நியூட்ரினோ
+- న్యూట్రినో
+- ന്യൂട്രിനോ
+- นิวตริโน
+- နျူထရီနို
+- ნეიტრინო
+- ニュートリノ
+- 中微子
+- 微中子
+- 중성미자
 has_id_wikidata: Q2126
 subclass_of:
-  - "[[_Standards/WikiData/WD~lepton,82586]]"
-  - "[[_Standards/WikiData/WD~neutral_particle,2990328]]"
-has_characteristic: "[[_Standards/WikiData/WD~neutrino_oscillation,509021]]"
-antiparticle: "[[_Standards/WikiData/WD~antineutrino,1066748]]"
-has_superpartner: "[[_Standards/WikiData/WD~sneutrino,1087194]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Subatomic_particle_symbol_neutrino,21370136]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
-different_from: "[[_Standards/WikiData/WD~neutron,2348]]"
+- '[[_Standards/WikiData/WD~lepton,82586]]'
+- '[[_Standards/WikiData/WD~neutral_particle,2990328]]'
+has_characteristic: '[[_Standards/WikiData/WD~neutrino_oscillation,509021]]'
+antiparticle: '[[_Standards/WikiData/WD~antineutrino,1066748]]'
+has_superpartner: '[[_Standards/WikiData/WD~sneutrino,1087194]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle_symbol_neutrino,21370136]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+different_from: '[[_Standards/WikiData/WD~neutron,2348]]'
 interaction:
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 electric_charge: 0
 spin_quantum_number: 0.5
 mass: 0.28
-OmegaWiki_Defined_Meaning: "789678"
+OmegaWiki_Defined_Meaning: 789678
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20neutrino%20observation.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Neutrino.mp3
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/neutrinos
-  - https://physics.stackexchange.com/tags/neutrinos
-Dewey_Decimal_Classification: "539.7215"
+- https://astronomy.stackexchange.com/tags/neutrinos
+- https://physics.stackexchange.com/tags/neutrinos
+Dewey_Decimal_Classification: 539.7215
 IEV_number: 881-02-69
 Wolfram_Language_entity_code: Entity["Particle", "PositiveLeptonNumberNeutrino"]
 Commons_category: Neutrino physics
+dv_has_:
+  name_:
+    af: neutrino
+    an: neutrino
+    ar: نيوترينو
+    ary: نوترينو
+    as: নিউট্ৰিন’
+    ast: neutrín
+    az: neytrin
+    azb: نوترینو
+    be: нейтрына
+    be-tarask: нэўтрына
+    bg: неутрино
+    bn: নিউট্রিনো
+    bs: neutrino
+    ca: neutrí
+    ckb: نووترینۆ
+    cs: neutrino
+    da: neutrino
+    de: Neutrino
+    el: νετρίνο
+    en: neutrino
+    en-ca: neutrino
+    en-gb: neutrino
+    eo: neŭtrino
+    es: neutrino
+    et: neutriinod
+    eu: neutrino
+    fa: نوترینو
+    fi: neutriino
+    fr: neutrino
+    fur: neutrin
+    fy: neutrino
+    ga: neoidríonó
+    gcr: nétrino
+    gl: neutrino
+    gu: ન્યુટ્રિનો
+    he: נייטרינו
+    hi: न्यूट्रिनो
+    hr: neutrino
+    hu: neutrínó
+    hy: նեյտրինո
+    id: neutrino
+    io: neutrino
+    is: fiseind
+    it: neutrino
+    ja: ニュートリノ
+    jam: nyuuchriino
+    ka: ნეიტრინო
+    kk: нейтрино
+    ko: 중성미자
+    ky: нейтрино
+    la: neutrinum
+    lb: Neutrino
+    lfn: neutrino
+    li: neutrino
+    lmo: neütrin
+    lt: neutrinas
+    lv: neitrīno
+    mk: неутрино
+    ml: ന്യൂട്രിനോ
+    mr: न्यूट्रिनो
+    ms: neutrino
+    my: နျူထရီနို
+    nan: neutrino
+    nb: nøytrino
+    nds: Neutrino
+    ne: न्यूट्रिनो
+    nl: neutrino
+    nn: nøytrino
+    oc: neutrinò
+    os: нейтрино
+    pa: ਨਿਊਟ੍ਰੀਨੋ
+    pl: neutrino
+    pnb: نیوٹرینو
+    pt: neutrino
+    pt-br: neutrino
+    rki: နျူထရီနို
+    ro: neutrino
+    ru: нейтрино
+    sc: neutrinu
+    scn: niutrinu
+    sco: neutrino
+    sh: neutrino
+    sk: neutríno
+    sl: nevtrino
+    smn: neutriino
+    sr: неутрино
+    sr-ec: неутрино
+    sr-el: neutrino
+    stq: Neutrino
+    sv: neutrino
+    ta: நியூட்ரினோ
+    te: న్యూట్రినో
+    th: นิวตริโน
+    tr: nötrino
+    tt: neytrino
+    udm: нейтрино
+    uk: нейтрино
+    ur: نیوٹرینو
+    uz: neytrino
+    vi: neutrino
+    war: neutrino
+    wuu: 中微子
+    yue: 微中子
+    zh: 中微子
+    zh-cn: 中微子
+    zh-hant: 中微子
 ---
-
 # [[Neutrino]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Neutrino,2126|WD~Neutrino,2126]] 

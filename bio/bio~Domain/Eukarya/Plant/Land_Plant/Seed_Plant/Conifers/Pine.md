@@ -1,10 +1,187 @@
 ---
 aliases:
-  - Pinaceae
-  - pine family
-  - Pine
+- beahcešattut
+- borovicovité
+- Borovke
+- Chhêng
+- Chójcowe rostliny
+- Chójnowe rostliny
+- dennenfamilie
+- Famîleya qajan
+- fenyőfélék
+- furufamilien
+- Föhrenfamilie
+- Galegale
+- Gocoengz
+- gran-familien
+- họ Thông
+- Kieferngewächse
+- Msonobari
+- Männilised
+- mäntykasvit
+- pecišadoh
+- Pinaceace
+- Pinaceae
+- Pinacoj
+- Pinazeo
+- Pine
+- pine family
+- Pinu yura rikch'aq ayllu
+- pinàcies
+- priežu dzimta
+- pušiniai
+- Pynboomachtign
+- Qaragʻaydoshlar
+- Qarağaýlar tuqımdası
+- sosnowate
+- Sṳ̀ng-chéu
+- tallväxter
+- Çamgiller
+- Þallarætt
+- Şamkimilər
+- борови
+- Дийхка (гаьний дезал)
+- Нæзыхуызтæ
+- Нарсныхан
+- Пожум котыр
+- соснові
+- сосновые
+- Хваёвыя
+- Хыр йышшисем
+- Қарағайлар тұқымдасы
+- սոճազգիներ
+- אורניים
+- صنوبرية
+- صنوبريه
+- فامیلەیا قاژان
+- قاراعايلار تۇقىمداسى
+- چیڑھ ٹبر
+- کاجیان
+- पायनेसीए
+- วงศ์สนเขา
+- ფიჭვისებრნი
+- ᠵᠠᡴᡩᠠᠨ
+- マツ科
+- 松
+- 松樹
+- 松科
+- 소나무과
 title: Pinaceae
 has_id_wikidata: Q101680
+dv_has_:
+  name_:
+    af: Pinaceae
+    an: Pinaceae
+    ar: صنوبرية
+    arz: صنوبريه
+    ast: Pinaceae
+    az: Şamkimilər
+    be: Хваёвыя
+    be-tarask: Хваёвыя
+    bg: борови
+    bs: Pinaceae
+    ca: pinàcies
+    cdo: Sṳ̀ng-chéu
+    ceb: Pinaceae
+    co: Pinaceae
+    cs: borovicovité
+    cv: Хыр йышшисем
+    da: gran-familien
+    de: Kieferngewächse
+    dsb: Chójcowe rostliny
+    en: Pinaceae
+    eo: Pinacoj
+    es: Pinaceae
+    et: Männilised
+    eu: Pinazeo
+    ext: Pinaceae
+    fa: کاجیان
+    fi: mäntykasvit
+    fj: Galegale
+    fr: Pinaceae
+    frr: Pinaceae
+    ga: Pinaceae
+    gl: Pinaceae
+    ha: Pinaceace
+    he: אורניים
+    hi: पायनेसीए
+    hr: Borovke
+    hsb: Chójnowe rostliny
+    hu: fenyőfélék
+    hy: սոճազգիներ
+    ia: Pinaceae
+    id: Pinaceae
+    ie: Pinaceae
+    inh: Дийхка (гаьний дезал)
+    io: Pinaceae
+    is: Þallarætt
+    it: Pinaceae
+    ja: マツ科
+    ka: ფიჭვისებრნი
+    kk: Қарағайлар тұқымдасы
+    kk-arab: قاراعايلار تۇقىمداسى
+    kk-cn: قاراعايلار تۇقىمداسى
+    kk-cyrl: Қарағайлар тұқымдасы
+    kk-kz: Қарағайлар тұқымдасы
+    kk-latn: Qarağaýlar tuqımdası
+    kk-tr: Qarağaýlar tuqımdası
+    ko: 소나무과
+    koi: Пожум котыр
+    ku: Famîleya qajan
+    ku-arab: فامیلەیا قاژان
+    ku-latn: Famîleya qajan
+    la: Pinaceae
+    lt: pušiniai
+    lv: priežu dzimta
+    lzh: 松
+    mk: борови
+    mn: Нарсныхан
+    mnc: ᠵᠠᡴᡩᠠᠨ
+    mul: Pinaceae
+    nan: Chhêng
+    nb: furufamilien
+    nds: Föhrenfamilie
+    nl: dennenfamilie
+    nn: furufamilien
+    oc: Pinaceae
+    os: Нæзыхуызтæ
+    pl: sosnowate
+    pnb: چیڑھ ٹبر
+    pt: Pinaceae
+    pt-br: Pinaceae
+    qu: Pinu yura rikch'aq ayllu
+    ro: Pinaceae
+    ru: сосновые
+    sco: Pinaceae
+    se: beahcešattut
+    sh: Pinaceae
+    sk: Borovicovité
+    sl: borovke
+    smn: pecišadoh
+    sq: Pinaceae
+    sr: Pinaceae
+    sr-ec: Pinaceae
+    sr-el: Pinaceae
+    sv: tallväxter
+    sw: Msonobari
+    th: วงศ์สนเขา
+    tr: Çamgiller
+    uk: соснові
+    uz: Qaragʻaydoshlar
+    vi: họ Thông
+    vls: Pynboomachtign
+    vo: Pinaceae
+    war: Pinaceae
+    wuu: 松科
+    yue: 松樹
+    za: Gocoengz
+    zh: 松科
+    zh-cn: 松科
+    zh-hans: 松科
+    zh-hant: 松科
+    zh-hk: 松科
+    zh-sg: 松科
+    zh-tw: 松科
 ---
 # [[Pine]] 
 

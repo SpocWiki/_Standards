@@ -1,107 +1,142 @@
 ---
 aliases:
-  - John_Amos_Comenius
-  - John Amos Comenius
-  - Jan Amos Komenský
-  - Johann Amos Comenius
-  - Jan Amos Komeński
-  - Ioannes Amos Comenius
-  - Comenius
-  - Comenius,John_Amos
-  - Comenius,John Amos
+- Comenio
+- Comenius
+- Comenius,John Amos
+- Comenius,John_Amos
+- Ioannes Amos Comenius
+- Iohannes Amos Comenius
+- Jan Amos Comenius
+- Jan Amos Komenski
+- Jan Amos Komensky
+- Jan Amos Komenský
+- Jan Amos Komeński
+- Jan Amós Comenius
+- Jan Ámos Komenský
+- Janas Amosas Komenskis
+- Jans Komenskis
+- Johan Amos Comenius
+- Johann Amos Comenius
+- Johano Amoso Komenio
+- John Amos Comenius
+- John_Amos_Comenius
+- Juan Amos Comenio
+- Komenius
+- Komenskiy Yan Amos
+- Yan Komenski
+- Ιωάννης Αμός Κομένιος
+- Јан Амос Коменски
+- Коменский Ян Амос
+- Коменский, Ян Амос
+- Ян Амас Каменскі
+- Ян Амос Каменскі
+- Ян Амос Коменски
+- Ян Амос Коменский
+- Ян Амос Коменський
+- Յան Ամոս Կոմենսկի
+- יוחנן עמוס קומניוס
+- جان آموس كومينيوس
+- یان آموس کمنسکی
+- یان آموس کمېنسکي
+- जॉन अमोस कॉमिनयस
+- იან კომენსკი
+- コメニウス
+- 康米紐斯
+- 约翰·阿摩司·夸美纽斯
+- 요한 아모스 코메니우스
 has_id_wikidata: Q12735
 relative:
-  - '[[_Standards/WikiData/WD~Daniel_Ernst_Jablonski,69770]]'
-  - '[[_Standards/WikiData/WD~Peter_Figulus_Jablonsky,12044843]]'
+- '[[_Standards/WikiData/WD~Daniel_Ernst_Jablonski,69770]]'
+- '[[_Standards/WikiData/WD~Peter_Figulus_Jablonsky,12044843]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~archivist,635734]]'
-  - '[[_Standards/WikiData/WD~presbyter,831474]]'
-  - '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~linguist,14467526]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~bishop,29182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~archivist,635734]]'
+- '[[_Standards/WikiData/WD~presbyter,831474]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~linguist,14467526]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~bishop,29182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
 educated_at: '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~natural_philosophy,269323]]'
-  - '[[_Standards/WikiData/WD~religious_emigration,115161682]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~pedagogy,7922]]'
-  - '[[_Standards/WikiData/WD~literature,8242]]'
-  - '[[_Standards/WikiData/WD~theology,34178]]'
+- '[[_Standards/WikiData/WD~natural_philosophy,269323]]'
+- '[[_Standards/WikiData/WD~religious_emigration,115161682]]'
+- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~pedagogy,7922]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~theology,34178]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Strážnice,304189]]'
-  - '[[_Standards/WikiData/WD~Přerov,470380]]'
-  - '[[_Standards/WikiData/WD~Fulnek,740915]]'
-  - '[[_Standards/WikiData/WD~Nivnice,1994183]]'
+- '[[_Standards/WikiData/WD~Strážnice,304189]]'
+- '[[_Standards/WikiData/WD~Přerov,470380]]'
+- '[[_Standards/WikiData/WD~Fulnek,740915]]'
+- '[[_Standards/WikiData/WD~Nivnice,1994183]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
-  - '[[_Standards/WikiData/WD~REGO,125023568]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~REGO,125023568]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 place_of_birth: '[[_Standards/WikiData/WD~Uherský_Brod,664895]]'
 position_held:
-  - '[[_Standards/WikiData/WD~head_teacher,1056391]]'
-  - '[[_Standards/WikiData/WD~bishop,29182]]'
+- '[[_Standards/WikiData/WD~head_teacher,1056391]]'
+- '[[_Standards/WikiData/WD~bishop,29182]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~KB_National_Library_of_the_Netherlands,1526131]]'
-  - '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+- '[[_Standards/WikiData/WD~KB_National_Library_of_the_Netherlands,1526131]]'
+- '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 studied_by: '[[_Standards/WikiData/WD~comeniology,12029903]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jan,12173670]]'
-  - '[[_Standards/WikiData/WD~Amos,18216060]]'
+- '[[_Standards/WikiData/WD~Jan,12173670]]'
+- '[[_Standards/WikiData/WD~Amos,18216060]]'
 depicted_by: '[[_Standards/WikiData/WD~Jan_Amos_Comenius_(Komensky)_(1592_1670)._Czech_humanist_and_pedagogue._Exiled_as_a_leader_of_the_Moravian_or_Bohemian_Brethren_and_settled_in_Amsterdam_in_1656,17327514]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Magdalena_Vizovská,84051134]]'
-  - '[[_Standards/WikiData/WD~Marie_Dorota_Cyrillová,101436707]]'
-  - '[[_Standards/WikiData/WD~Johanna_Gajusová,101436816]]'
+- '[[_Standards/WikiData/WD~Magdalena_Vizovská,84051134]]'
+- '[[_Standards/WikiData/WD~Marie_Dorota_Cyrillová,101436707]]'
+- '[[_Standards/WikiData/WD~Johanna_Gajusová,101436816]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Unity_of_the_Brethren,97738262]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Alba_amicorum_of_the_KB,_national_library_of_the_Netherlands,99484628]]'
-  - '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+- '[[_Standards/WikiData/WD~WikiProject_Alba_amicorum_of_the_KB,_national_library_of_the_Netherlands,99484628]]'
+- '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
 child:
-  - '[[_Standards/WikiData/WD~Alžběta_Komenská,104764411]]'
-  - '[[_Standards/WikiData/WD~Daniel_Komenský,105278094]]'
+- '[[_Standards/WikiData/WD~Alžběta_Komenská,104764411]]'
+- '[[_Standards/WikiData/WD~Daniel_Komenský,105278094]]'
 date_of_birth: 1592-03-28T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Czech,9056]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 place_of_death: '[[_Standards/WikiData/WD~Amsterdam,727]]'
 place_of_burial: '[[_Standards/WikiData/WD~Naarden,9949]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Regensburg_Classification:
-  - DD 5780
-  - FZ 23730
-  - KS 2740
+- DD 5780
+- FZ 23730
+- KS 2740
 Wolfram_Language_entity_code: Entity["Concept", "Comenius::rzsf8"]
 Google_Doodle: jan-amos-komenskys-418th-birthday
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/58588
@@ -118,8 +153,83 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signatur%20Johann%
 described_at_URL: http://www.digiporta.net/index.php?id=159665352
 ISNI: 0000000108840416
 NLC_authorities: 000161539
+dv_has_:
+  name_:
+    af: Johann Amos Comenius
+    ar: جان آموس كومينيوس
+    arz: جان آموس كومينيوس
+    ast: Comenio
+    az: Yan Komenski
+    ba: Коменский Ян Амос
+    be: Ян Амос Каменскі
+    be-tarask: Ян Амас Каменскі
+    bg: Ян Амос Коменски
+    bs: Comenius
+    ca: Jan Amós Comenius
+    cs: Jan Amos Komenský
+    cy: Jan Ámos Komenský
+    da: Johann Amos Comenius
+    de: Johann Amos Comenius
+    el: Ιωάννης Αμός Κομένιος
+    en: John Amos Comenius
+    en-ca: John Amos Comenius
+    en-gb: John Amos Comenius
+    eo: Johano Amoso Komenio
+    es: Juan Amos Comenio
+    et: Jan Amos Komenský
+    eu: Comenius
+    fa: یان آموس کمنسکی
+    fi: Johan Amos Comenius
+    fr: Comenius
+    fy: Jan Amos Comenius
+    ga: Johann Amos Comenius
+    gl: Comenius
+    he: יוחנן עמוס קומניוס
+    hi: जॉन अमोस कॉमिनयस
+    hr: Jan Amos Komenski
+    hu: Comenius
+    hy: Յան Ամոս Կոմենսկի
+    id: John Amos Comenius
+    io: Komenius
+    it: Comenio
+    ja: コメニウス
+    ka: იან კომენსკი
+    kk: Ян Амос Коменский
+    ko: 요한 아모스 코메니우스
+    ky: Коменский, Ян Амос
+    la: Iohannes Amos Comenius
+    lt: Janas Amosas Komenskis
+    lv: Jans Komenskis
+    mad: John Amos Comenius
+    mg: Comenius
+    mk: Јан Амос Коменски
+    mn: Ян Амос Коменский
+    nb: Johann Amos Comenius
+    nl: Jan Amos Comenius
+    nn: Jan Amos Komenský
+    pl: Jan Ámos Komenský
+    ps: یان آموس کمېنسکي
+    pt: Comenius
+    pt-br: Comenius
+    ro: Comenius
+    ru: Ян Амос Коменский
+    sco: John Amos Comenius
+    sh: Jan Amos Komenski
+    sk: Jan Amos Komenský
+    sl: Jan Amos Komensky
+    sq: Jan Amos Komenski
+    sr: Јан Амос Коменски
+    sr-ec: Јан Амос Коменски
+    sv: Johan Amos Comenius
+    tr: Jan Amos Comenius
+    uk: Ян Амос Коменський
+    uz: Komenskiy Yan Amos
+    vi: John Amos Comenius
+    war: John Amos Comenius
+    wuu: 约翰·阿摩司·夸美纽斯
+    yue: 康米紐斯
+    zh: 约翰·阿摩司·夸美纽斯
 ---
-
 # [[Comenius,John_Amos]] 
 
 #is_/same_as :: [[WD~John_Amos_Comenius,12735]] 

@@ -1,8 +1,132 @@
 ---
 aliases:
-  - Copepoda
+- Aerjalalised
+- Airkājvēži
+- ceponožci
+- copepod
+- Copepoda
+- Copepode
+- Copepodo
+- Copèpodes
+- copépode
+- Copépodos
+- cópapód
+- eenoogkreeftjes
+- Eshkakoyoqli qisqichbaqalar
+- Eskekayaqtı şayantärizdiler
+- evezőlábú rákok
+- hankajalkaiset
+- hoppekreps
+- Hoppkräftor
+- Irklakojai vėžiagyviai
+- klanonožci
+- kopepod
+- Kopepodo
+- Krabbaflær
+- Ruderfusskrebse
+- Ruderfußkrebse
+- SUCC
+- Táyiʼ naatʼiʼí bikágí ntłʼizígíí
+- Vandlopper
+- Veslonošci
+- widłonogi
+- Κωπήποδα
+- Весланогія ракападобныя
+- веслоногі раки
+- Веслоноги рачета
+- веслоногие ракообразные
+- Ескекаяқты шаянтәрізділер
+- ишкәгаяклы кысласыманнар
+- Ишкәгаяҡ
+- שטרגליים
+- مجذافيات الأرجل
+- مجذافيات الارجل
+- پاروپایان
+- ەسكەكاياقتى شايانتارىزدىلەر
+- कोपेपॉड्स
+- ნიჩაბფეხიანები
+- カイアシ類
+- 桡脚类
+- 桡足亚纲
+- 橈腳類
+- 橈足亞綱
+- 요각류
 title: Copepoda
 has_id_wikidata: Q189973
+dv_has_:
+  name_:
+    ar: مجذافيات الأرجل
+    arz: مجذافيات الارجل
+    ast: Copepoda
+    ba: Ишкәгаяҡ
+    be: Весланогія ракападобныя
+    bg: Веслоноги рачета
+    ca: Copèpodes
+    ceb: Copepoda
+    cs: klanonožci
+    cy: copepod
+    da: Vandlopper
+    de: Ruderfußkrebse
+    de-ch: Ruderfusskrebse
+    el: Κωπήποδα
+    en: copepod
+    eo: Kopepodo
+    es: SUCC
+    et: Aerjalalised
+    eu: Copepoda
+    fa: پاروپایان
+    fi: hankajalkaiset
+    fr: Copepoda
+    ga: cópapód
+    gl: Copépodos
+    he: שטרגליים
+    hi: कोपेपॉड्स
+    hr: Veslonošci
+    hu: evezőlábú rákok
+    id: Copepoda
+    is: Krabbaflær
+    it: Copepoda
+    ja: カイアシ類
+    jv: Copepoda
+    ka: ნიჩაბფეხიანები
+    kk: Ескекаяқты шаянтәрізділер
+    kk-arab: ەسكەكاياقتى شايانتارىزدىلەر
+    kk-cn: ەسكەكاياقتى شايانتارىزدىلەر
+    kk-cyrl: Ескекаяқты шаянтәрізділер
+    kk-kz: Ескекаяқты шаянтәрізділер
+    kk-latn: Eskekayaqtı şayantärizdiler
+    kk-tr: Eskekayaqtı şayantärizdiler
+    ko: 요각류
+    la: Copepoda
+    lfn: Copepodo
+    lt: Irklakojai vėžiagyviai
+    lv: Airkājvēži
+    mul: Copepoda
+    nb: hoppekreps
+    nl: eenoogkreeftjes
+    nn: hoppekreps
+    nv: Táyiʼ naatʼiʼí bikágí ntłʼizígíí
+    pl: widłonogi
+    pt: copépode
+    ro: Copepode
+    ru: веслоногие ракообразные
+    sl: ceponožci
+    sq: Copepoda
+    sr: Copepod
+    sv: Hoppkräftor
+    tr: kopepod
+    tt: ишкәгаяклы кысласыманнар
+    uk: веслоногі раки
+    uz: Eshkakoyoqli qisqichbaqalar
+    vi: Copepoda
+    war: Copepoda
+    zh: 桡足亚纲
+    zh-cn: 桡足亚纲
+    zh-hans: 桡脚类
+    zh-hant: 橈腳類
+    zh-hk: 橈腳類
+    zh-sg: 桡脚类
+    zh-tw: 橈足亞綱
 ---
 # [[Copepoda]] 
 

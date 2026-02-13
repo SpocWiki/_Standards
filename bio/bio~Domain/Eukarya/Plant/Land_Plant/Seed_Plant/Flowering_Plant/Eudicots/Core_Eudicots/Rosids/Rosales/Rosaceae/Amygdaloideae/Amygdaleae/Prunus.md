@@ -1,38 +1,82 @@
 ---
 aliases:
+- Breunishout
+- Chi Mận mơ
+- Dembûl
+- Gavalı
+- kauleņkoki
+- kirsebær
+- kirsebærslekta
+- Mplamu
+- plommonsläktet
+- Prunus
+- Prunuso
+- Sirwelas
+- sliva
+- slivka
+- slivoň
+- slyva
+- slëwa
+- Stianfrüchtbuumer
+- Toompuu
+- tuomet
+- śliwa
+- Абҳәа
+- Алхоры
+- караҗимеш
+- КъымцӀэ
+- Олу
+- Сейә
+- сліва
+- слива
+- сьліва
+- Хьач
+- Чылауи (мыггаг)
+- սալորենի
+- פרונוס
+- خوخ
+- پرونوس
+- प्रूनस
+- สกุลพรุน
+- ქლიავი (გვარი)
+- წკამი კულტურეფი
+- スモモ属
+- 李属
+- 李屬
+- 벚나무속
 has_id_wikidata: Q190545
 subclass_of:
-  - "[[_Standards/WikiData/WD~broad_leaved_tree,148993]]"
-  - "[[_Standards/WikiData/WD~tree,10884]]"
+- '[[_Standards/WikiData/WD~broad_leaved_tree,148993]]'
+- '[[_Standards/WikiData/WD~tree,10884]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~cherry,835785]]"
-  - "[[_Standards/WikiData/WD~bitter_almond_oil,879005]]"
-  - "[[_Standards/WikiData/WD~arabic_acid,38135784]]"
-  - "[[_Standards/WikiData/WD~Prunus_wood,111983255]]"
+- '[[_Standards/WikiData/WD~cherry,835785]]'
+- '[[_Standards/WikiData/WD~bitter_almond_oil,879005]]'
+- '[[_Standards/WikiData/WD~arabic_acid,38135784]]'
+- '[[_Standards/WikiData/WD~Prunus_wood,111983255]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Prunus_domestica,44120]]"
-ITIS_TSN: "24762"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Prunus_domestica,44120]]'
+ITIS_TSN: 24762
 taxon_common_name:
-  - plum
-  - Prunus
-  - sliva
-  - 李属
-  - 李属
+- plum
+- Prunus
+- sliva
+- 李属
+- 李属
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Prunus-domestica.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%BChling%20bl%C3%BChender%20Kirschenbaum.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/.00%203019%20Japanische%20Bl%C3%BCtenkirsche%20%28Prunus%20serrulata%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Prunus-domestica.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%BChling%20bl%C3%BChender%20Kirschenbaum.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/.00%203019%20Japanische%20Bl%C3%BCtenkirsche%20%28Prunus%20serrulata%29.jpg
 Commons_gallery: Prunus
 Commons_category: Prunus
 taxon_name: Prunus
@@ -42,8 +86,109 @@ MeSH_tree_code: B01.875.800.575.912.250.859.937.500.625
 Krugosvet_article_archived_: biologiya/sliva
 UMLS_CUI: C0330654
 NBN_System_Key: NHMSYS0000462080
+dv_has_:
+  name_:
+    ab: Абҳәа
+    an: Prunus
+    ar: خوخ
+    arz: خوخ
+    ast: Prunus
+    az: Gavalı
+    ba: Сейә
+    be: сліва
+    be-tarask: сьліва
+    bg: слива
+    br: Prunus
+    bs: Prunus
+    ca: Prunus
+    ceb: Prunus
+    cs: slivoň
+    csb: slëwa
+    cv: Слива
+    da: kirsebær
+    de: Prunus
+    en: Prunus
+    eo: Prunuso
+    es: Prunus
+    et: Toompuu
+    eu: Prunus
+    ext: Prunus
+    fa: پرونوس
+    fi: tuomet
+    fr: Prunus
+    frr: Stianfrüchtbuumer
+    ga: Prunus
+    gl: Prunus
+    he: פרונוס
+    hi: प्रूनस
+    hr: Prunus
+    hsb: Prunus
+    hu: Prunus
+    hy: սալորենի
+    ia: Prunus
+    id: Prunus
+    ie: Prunus
+    inh: Хьач
+    io: Prunus
+    is: Prunus
+    it: Prunus
+    ja: スモモ属
+    ka: ქლიავი (გვარი)
+    kbd: КъымцӀэ
+    kk: Алхоры
+    ko: 벚나무속
+    ku: Dembûl
+    la: Prunus
+    lb: Prunus
+    lmo: Prunus
+    lt: slyva
+    lv: kauleņkoki
+    mk: слива
+    ms: Prunus
+    mul: Prunus
+    nb: kirsebærslekta
+    nds-nl: Breunishout
+    nl: Prunus
+    nn: kirsebærslekta
+    oc: Prunus
+    os: Чылауи (мыггаг)
+    pl: śliwa
+    pt: Prunus
+    pt-br: Prunus
+    ro: Prunus
+    ru: слива
+    sco: Prunus
+    se: Prunus
+    sh: Prunus
+    sk: slivka
+    sl: sliva
+    sq: Prunus
+    sr: Prunus
+    su: Prunus
+    sv: plommonsläktet
+    sw: Mplamu
+    tg: Олу
+    th: สกุลพรุน
+    tl: Sirwelas
+    tr: Prunus
+    tt: караҗимеш
+    tt-cyrl: караҗимеш
+    uk: слива
+    vi: Chi Mận mơ
+    vls: Prunus
+    vo: Prunus
+    war: Prunus
+    wuu: 李属
+    xmf: წკამი კულტურეფი
+    yue: 李屬
+    zh: 李属
+    zh-cn: 李属
+    zh-hans: 李属
+    zh-hant: 李屬
+    zh-hk: 李屬
+    zh-sg: 李属
+    zh-tw: 李屬
 ---
-
 # [[Prunus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]] 

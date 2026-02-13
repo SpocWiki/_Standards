@@ -1,9 +1,38 @@
 ---
 aliases:
-  - Vieraella_herbsti
-  - Vieraella herbsti
+- Vieraella
+- Vieraella herbsti
+- Vieraella herbstii
+- Vieraella_herbsti
+- ויאראלה
 title: Vieraella herbsti
 has_id_wikidata: Q2021524
+dv_has_:
+  name_:
+    ast: Vieraella herbstii
+    bg: Vieraella herbstii
+    ceb: Vieraella herbstii
+    de: Vieraella herbstii
+    en: Vieraella herbstii
+    es: Vieraella herbstii
+    ff: Vieraella
+    fi: Vieraella
+    fr: Vieraella herbstii
+    ga: Vieraella herbstii
+    he: ויאראלה
+    it: Vieraella herbstii
+    la: Vieraella herbstii
+    mul: Vieraella herbstii
+    nl: Vieraella
+    pl: Vieraella
+    pt: Vieraella herbsti
+    ro: Vieraella herbstii
+    ru: Vieraella herbsti
+    sq: Vieraella herbstii
+    uk: Vieraella herbstii
+    vec: Vieraella herbstii
+    vi: Vieraella
+    war: Vieraella herbstii
 ---
 # Vieraella herbsti
 

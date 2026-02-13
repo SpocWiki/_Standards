@@ -1,8 +1,141 @@
 ---
 has_id_wikidata: Q148818
+dv_has_:
+  name_:
+    an: Ocimum
+    ar: حبق
+    arz: حبق
+    ast: Ocimum
+    az: Reyhan
+    azb: رئیحان
+    ba: Райхан
+    be-tarask: базылік
+    bg: Босилек
+    ca: Ocimum
+    ceb: Ocimum
+    cs: bazalka
+    da: Basilikum-slægten
+    de: Basilikum
+    dsb: Bazilikum
+    en: Ocimum
+    eo: Ocimo
+    es: Ocimum
+    et: Basiilik
+    eu: Ocimum
+    ext: Ocimum
+    fa: ریحان
+    fi: basilikat
+    fr: Ocimum
+    frr: Basiilikum (skööl)
+    ga: Ocimum
+    gl: Ocimum
+    grc: ὤκιμον
+    he: ריחן
+    hr: Bosiljak
+    hsb: Bazlik
+    hy: ռեհան
+    hyw: Ռեհան
+    ia: Ocimum
+    id: Ocimum
+    ie: Ocimum
+    io: Ocimum
+    it: Ocimum
+    ja: メボウキ属
+    ka: რეჰანი
+    kab: Taɣensit
+    kk: Базилик
+    kk-arab: بازىيلىيك
+    kk-cn: بازىيلىيك
+    kk-cyrl: Базилик
+    kk-kz: Базилик
+    kk-latn: Bazïlïk
+    kk-tr: Bazïlïk
+    ko: 바질속
+    ky: Базилик
+    la: Ocimum
+    lt: Bazilikas
+    lv: baziliki
+    mul: Ocimum
+    nb: Ocimum
+    nl: Ocimum
+    nn: Ocimum
+    oc: Ocimum
+    os: Реган
+    pl: bazylia
+    pt: Ocimum
+    pt-br: Ocimum
+    ro: Ocimum
+    ru: базилик
+    rup: Ocimum
+    sl: bazilika
+    sq: Ocimum
+    sr: Hyperaspis
+    sv: Basilikasläktet
+    ta: ஓசிமம்
+    tg: Райҳон
+    th: สกุลกะเพรา-โหระพา
+    tr: Ocimum
+    tt: рәйхан
+    uk: Базилік
+    uz: Rayhon (oʻsimlik)
+    vi: Chi Húng quế
+    vo: Ocimum
+    war: Ocimum
+    xmf: სამშურე
+    zh: 罗勒属
+    zh-cn: 罗勒属
+    zh-hans: 罗勒属
+    zh-hant: 羅勒屬
+    zh-hk: 羅勒屬
+    zh-sg: 罗勒属
+    zh-tw: 羅勒屬
+aliases:
+- Basiilik
+- Basiilikum (skööl)
+- Basilikasläktet
+- basilikat
+- Basilikum
+- Basilikum-slægten
+- bazalka
+- bazilika
+- Bazilikas
+- baziliki
+- Bazilikum
+- Bazlik
+- bazylia
+- Bazïlïk
+- Bosiljak
+- Chi Húng quế
+- Hyperaspis
+- Ocimo
+- Ocimum
+- Rayhon (oʻsimlik)
+- Reyhan
+- Taɣensit
+- Базилік
+- базилик
+- базылік
+- Босилек
+- Райхан
+- Райҳон
+- Реган
+- рәйхан
+- ռեհան
+- ריחן
+- بازىيلىيك
+- حبق
+- رئیحان
+- ریحان
+- ஓசிமம்
+- สกุลกะเพรา-โหระพา
+- რეჰანი
+- სამშურე
+- ὤκιμον
+- メボウキ属
+- 罗勒属
+- 羅勒屬
+- 바질속
 ---
-
-
 # [[Ocimum]] 
 
 #is_/same_as :: 

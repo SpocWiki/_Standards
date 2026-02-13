@@ -1,11 +1,52 @@
 ---
 aliases:
-  - Relais
-  - Relay
+- athsheachadán
+- commutamen
+- elektromagnetické relé
+- errele
+- geganti
+- jelfogó
+- przekaźnik
+- relai
+- Relais
+- relais électromécanique
+- relajso
+- Relay
+- relayo
+- rele
+- relee
+- relej
+- relejs
+- releu electromecanic
+- relä
+- relæ
+- relè
+- relé
+- relê
+- relė
+- röle
+- rơle
+- ηλεκτρονόμος
+- реле
+- релеј
+- рэле
+- Ռելե
+- ממסר
+- رله
+- مرحل
+- अभिचालित्र
+- रिले
+- রিলে
+- உணாத்தி
+- รีเลย์
+- 継電器
+- 繼電器
+- 继电器
+- 전자계전기
 has_id_wikidata: Q174053
 has_part_s_:
-  - '[[_Standards/WikiData/WD~electromagnet,178032]]'
-  - '[[_Standards/WikiData/WD~electrical_contact,394001]]'
+- '[[_Standards/WikiData/WD~electromagnet,178032]]'
+- '[[_Standards/WikiData/WD~electrical_contact,394001]]'
 different_from: '[[_Standards/WikiData/WD~base_transceiver_station,17005322]]'
 time_of_discovery_or_invention: 1835-01-01T00:00:00Z
 subclass_of: '[[_Standards/WikiData/WD~electrical_switch,5320]]'
@@ -15,8 +56,80 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symb-kip-relay.jpg
 IEV_number: 151-13-31
 Commons_gallery: Relay
 Commons_category: Relays
+dv_has_:
+  name_:
+    af: relê
+    ar: مرحل
+    ast: relé
+    az: rele
+    be: рэле
+    be-tarask: рэле
+    bg: реле
+    bn: রিলে
+    ca: relé
+    cs: elektromagnetické relé
+    da: relæ
+    de: Relais
+    el: ηλεκτρονόμος
+    en: relay
+    eo: relajso
+    es: relé
+    et: relee
+    eu: errele
+    fa: رله
+    fi: rele
+    fr: relais électromécanique
+    ga: athsheachadán
+    gu: relay
+    ha: Relay
+    he: ממסר
+    hi: रिले
+    hr: relej
+    hu: jelfogó
+    hy: Ռելե
+    id: relai
+    io: relayo
+    it: relè
+    ja: 継電器
+    kk: реле
+    ko: 전자계전기
+    ky: реле
+    la: commutamen
+    lmo: relé
+    lt: relė
+    lv: relejs
+    mk: релеј
+    mr: अभिचालित्र
+    ms: geganti
+    nb: relé
+    nl: relais
+    nn: relé
+    pl: przekaźnik
+    pms: Relé
+    pt: relé
+    ro: releu electromecanic
+    ru: реле
+    sh: релеј
+    sk: relé
+    sl: rele
+    sr: релеј
+    sr-ec: релеј
+    sr-el: relej
+    sv: relä
+    ta: உணாத்தி
+    th: รีเลย์
+    tr: röle
+    uk: реле
+    vi: rơle
+    yue: 繼電器
+    zh: 继电器
+    zh-cn: 继电器
+    zh-hans: 继电器
+    zh-hant: 繼電器
+    zh-hk: 繼電器
+    zh-sg: 继电器
+    zh-tw: 繼電器
 ---
-
 # [[Relay]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Relay,174053|WD~Relay,174053]] 

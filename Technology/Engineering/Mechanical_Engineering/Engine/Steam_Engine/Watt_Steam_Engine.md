@@ -1,9 +1,48 @@
 ---
 has_id_wikidata: Q3099902
+dv_has_:
+  name_:
+    ar: محرك واط البخاري
+    ca: Màquina de Watt
+    da: Watt-dampmaskine
+    en: Watt steam engine
+    es: Máquina de vapor de Watt
+    fr: machine de Watt
+    he: מנוע הקיטור של ואט
+    hi: वाट का वाष्प इंजन
+    it: Macchina a vapore di James Watt
+    ko: 와트 증기기관
+    ml: വാട്ട് ആവിയന്ത്രം
+    ps: واټ بړاس ماشين
+    ru: паровой двигатель Ватта
+    sk: Wattov parný stroj
+    udm: Уаттлэн машинаез
+    uk: Парова машина Джеймса Ватта
+    zh: 瓦特蒸氣機
+    zh-cn: 瓦特蒸汽机
+    zh-hans: 瓦特蒸汽机
+    zh-hant: 瓦特蒸汽機
+aliases:
+- Macchina a vapore di James Watt
+- machine de Watt
+- Màquina de Watt
+- Máquina de vapor de Watt
+- Watt steam engine
+- Watt-dampmaskine
+- Wattov parný stroj
+- Парова машина Джеймса Ватта
+- паровой двигатель Ватта
+- Уаттлэн машинаез
+- מנוע הקיטור של ואט
+- محرك واط البخاري
+- واټ بړاس ماشين
+- वाट का वाष्प इंजन
+- വാട്ട് ആവിയന്ത്രം
+- 瓦特蒸氣機
+- 瓦特蒸汽机
+- 瓦特蒸汽機
+- 와트 증기기관
 ---
-
-
-
 [[../../../../../assets/Watt_Steam_Engine.jpeg]]
 ![[../../../../../assets/Watt_Steam_Engine.jpeg]]
 

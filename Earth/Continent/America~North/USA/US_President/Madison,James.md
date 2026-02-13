@@ -1,58 +1,266 @@
 ---
 aliases:
-  - James Madison
-  - Madison,James
-  - James_Madison
+- Ceyms Madison
+- Ceyms Medison
+- Džeimss Medisons
+- Iacobus Madison
+- James Madison
+- James_Madison
+- Jeýms Madison
+- Madison,James
+- Xhejms Madison
+- Τζέιμς Μάντισον
+- Џејмс Медисон
+- Джеймс Мадисън
+- Джеймс Медісон
+- Джеймс Мэдисон
+- Джэймз Мэдысан
+- Джэймс Мэдзісан
+- Жеймс Мэдисон
+- Мэдисон
+- Җеймс Мәдисон
+- Ҷеймс Мэдисон
+- Ջեյմս Մեդիսոն
+- ג'יימס מדיסון
+- זשיימס מעדיסאן
+- جامېس مادىسون
+- جيمز ماډيسن
+- جيمس ماديسون
+- جیمز مادیسون
+- جیمز مدیسون
+- جیمز میڈیسن
+- جەیمز مەدیسۆن
+- دجيمس ماديسون
+- ޖޭމްސް މެޑިސަން
+- जेम्ज़ मैडिसन
+- जेम्स मॅडिसन
+- जेम्स म्याडिसन
+- জেমস ম্যাডিসন
+- ਜੇਮਜ ਮੈਡੀਸਨ
+- ஜேம்ஸ் மாடிசன்
+- జేమ్స్ మాడిసన్
+- ജയിംസ് മാഡിസൺ
+- ජේම්ස් මැඩිසන්
+- เจมส์ แมดิสัน
+- ဂျိမ်းစ် မဒီဆင်
+- ჯეიმზ მედისონი
+- ጄምስ ማዲሰን
+- ᏥᎻ ᎺᏗᏌᏂ
+- ジェームズ・マディスン
+- 占士麥迪遜
+- 詹姆士·麦迪逊
+- 詹姆斯·麥迪遜
+- 제임스 매디슨
 has_id_wikidata: Q11813
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ""
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Madison,James
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle: Madison,James
 publish: false
-publishDate: ""
+publishDate: ''
 tags:
-  - ""
+- ''
 title: Madison,James
 type: private_note
-dv_has_role: "[[../US_President]]"
-dv_is_member_of: "[[Democratic-Republican Party]]"
+dv_has_role: '[[../US_President]]'
+dv_is_member_of: '[[Democratic-Republican Party]]'
 dv_created: 1809-03-04
 dv_cancelled: 1817-03-04
 dv_has_:
+  name_:
+    af: James Madison
+    am: ጄምስ ማዲሰን
+    an: James Madison
+    ang: James Madison
+    ar: جيمس ماديسون
+    ary: دجيمس ماديسون
+    arz: جيمس ماديسون
+    ast: James Madison
+    awa: जेम्स म्याडिसन
+    ay: James Madison
+    az: Ceyms Medison
+    azb: جیمز مدیسون
+    ban: James Madison
+    bar: James Madison
+    bcl: James Madison
+    be: Джэймс Мэдзісан
+    be-tarask: Джэймз Мэдысан
+    bg: Джеймс Мадисън
+    bi: James Madison
+    bn: জেমস ম্যাডিসন
+    br: James Madison
+    bs: James Madison
+    ca: James Madison
+    cdo: James Madison
+    ceb: James Madison
+    chr: ᏥᎻ ᎺᏗᏌᏂ
+    ckb: جەیمز مەدیسۆن
+    co: James Madison
+    crh: Ceyms Madison
+    cs: James Madison
+    cv: Джеймс Мэдисон
+    cy: James Madison
+    da: James Madison
+    dag: James Madison
+    de: James Madison
+    diq: James Madison
+    dv: ޖޭމްސް މެޑިސަން
+    ee: James Madison
+    el: Τζέιμς Μάντισον
+    en: James Madison
+    en-ca: James Madison
+    en-gb: James Madison
+    en-us: James Madison
+    eo: James Madison
+    es: James Madison
+    et: James Madison
+    eu: James Madison
+    ext: James Madison
+    fa: جیمز مدیسون
+    fi: James Madison
+    fit: James Madison
+    fr: James Madison
+    ga: James Madison
+    gag: James Madison
+    gd: James Madison
+    gl: James Madison
+    guw: James Madison
+    gv: James Madison
+    ha: James Madison
+    hak: James Madison
+    haw: James Madison
+    he: ג'יימס מדיסון
+    hi: जेम्ज़ मैडिसन
+    hr: James Madison
+    ht: James Madison
+    hu: James Madison
+    hy: Ջեյմս Մեդիսոն
+    ia: James Madison
+    id: James Madison
+    ilo: James Madison
+    io: James Madison
+    is: James Madison
+    it: James Madison
+    ja: ジェームズ・マディスン
+    jv: James Madison
+    ka: ჯეიმზ მედისონი
+    kk: Джеймс Мэдисон
+    ko: 제임스 매디슨
+    ku: James Madison
+    kw: James Madison
+    ky: Мэдисон
+    la: Iacobus Madison
+    lb: James Madison
+    lfn: James Madison
+    li: James Madison
+    lij: James Madison
+    lmo: James Madison
+    lt: James Madison
+    lv: Džeimss Medisons
+    lzh: 詹姆斯·麥迪遜
+    mai: जेम्स म्याडिसन
+    mg: James Madison
+    min: James Madison
+    mk: Џејмс Медисон
+    ml: ജയിംസ് മാഡിസൺ
+    mn: Жеймс Мэдисон
+    mr: जेम्स मॅडिसन
+    ms: James Madison
+    mul: James Madison
+    my: ဂျိမ်းစ် မဒီဆင်
+    mzn: جیمز مادیسون
+    nan: James Madison
+    nb: James Madison
+    nds: James Madison
+    ne: जेम्स म्याडिसन
+    nl: James Madison
+    nn: James Madison
+    oc: James Madison
+    os: Джеймс Мэдисон
+    pa: ਜੇਮਜ ਮੈਡੀਸਨ
+    pam: James Madison
+    pap: James Madison
+    pl: James Madison
+    pms: James Madison
+    pnb: جیمز میڈیسن
+    ps: جيمز ماډيسن
+    pt: James Madison
+    pt-br: James Madison
+    qu: James Madison
+    rmf: James Madison
+    ro: James Madison
+    ru: Джеймс Мэдисон
+    rw: James Madison
+    scn: James Madison
+    sco: James Madison
+    se: James Madison
+    sh: James Madison
+    si: ජේම්ස් මැඩිසන්
+    sje: James Madison
+    sju: James Madison
+    sk: James Madison
+    sl: James Madison
+    sma: James Madison
+    smj: James Madison
+    smn: James Madison
+    sms: James Madison
+    sq: Xhejms Madison
+    sr: Џејмс Медисон
+    sv: James Madison
+    sw: James Madison
+    ta: ஜேம்ஸ் மாடிசன்
+    te: జేమ్స్ మాడిసన్
+    tg: Ҷеймс Мэдисон
+    th: เจมส์ แมดิสัน
+    tk: Jeýms Madison
+    tl: James Madison
+    tr: James Madison
+    tt: Җеймс Мәдисон
+    ug: جامېس مادىسون
+    uk: Джеймс Медісон
+    ur: جیمز میڈیسن
+    uz: James Madison
+    vi: James Madison
+    war: James Madison
+    wuu: 詹姆士·麦迪逊
+    xmf: ჯეიმზ მედისონი
+    yi: זשיימס מעדיסאן
+    yo: James Madison
+    yue: 占士麥迪遜
+    zh: 詹姆斯·麥迪遜
   time_:
     started: 1751-03-16T00:00:00.000+00:53
     stopped: 1836-06-28T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]"
+  - '[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]'
 dv_has_time_started: 1751-03-16
 dv_has_time_stopped: 1836-06-28
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]"
+- '[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]'
 ---
-
 # [[Madison,James]] 
 
 has_time_started = `=this.dv_has_time_started`

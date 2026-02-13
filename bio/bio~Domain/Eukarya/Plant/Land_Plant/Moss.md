@@ -1,22 +1,122 @@
 ---
 aliases:
-  - Bryophyta
-  - Moss
-  - Mosses
+- bladmosar
+- bladmoser
+- Bladmossor
+- Bleedenmöösk
+- Brión
+- Bryophyta
+- Bryophyta sensu stricto
+- caonach
+- Còinneach
+- Fog
+- Goroldio
+- hezaz
+- Ivruiyaq
+- Kalima
+- kewni
+- Laabmoos
+- Lapu sūnas
+- Laubmoose
+- lehtisammalet
+- Lehtsammaltaimed
+- Limuʻuta
+- lombosmohák
+- Lukut
+- Lumot
+- Lumuik
+- Lumut
+- Lumut daun
+- Lumut Godhong
+- Machy
+- mahovi
+- Mahovine
+- Mamırlar
+- mchy
+- mechy
+- Moassen
+- Mofa
+- molsa
+- Moosii
+- mos
+- Mosar
+- Moss
+- Mossea
+- mossen
+- Mosser
+- Mosses
+- musgo
+- musgos
+- Musko
+- muskoj
+- Musć
+- Mwsogl
+- Ngành Rêu
+- Rumi millma
+- Samanas
+- Samanūnai
+- ubulembu
+- ULele
+- Volombato
+- Yapraklı kara yosunları
+- Βρύο
+- лістасцябловыя імхі
+- листнати мъхове
+- Мăк
+- маховине
+- Мов
+- Мох
+- мохи
+- мхі
+- мхи
+- мүкләр
+- Мүктәр
+- Мүктәрізділер
+- Нитш
+- Рехень
+- Хъуына
+- Хөвд
+- Чиңгис
+- մամուռներ
+- טחבי עלים
+- خزه
+- سينور
+- نباتات حزازية
+- نباتات حزازيه
+- झ्याउ
+- हरिता
+- মসবর্গীয় উদ্ভিদ
+- શેવાળ
+- பாசங்கள்
+- నాచు
+- ಪಾಚಿ
+- ശേവാലം
+- มอสส์
+- တဝ်း
+- ရေညှိ
+- ფუთქურეფი
+- ხავსები
+- ᠨᡳᠣᠯᠮᠣᠨ
+- 苔藓植物门
+- 苔蘚植物
+- 薹蘚植物門
+- 藓类植物门
+- 蘚類
+- 이끼
 has_id_wikidata: Q25347
 title: Bryophyta
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Embryophytes,192154]]'
-  - '[[_Standards/WikiData/WD~Bryobiotina,106976267]]'
-  - '[[_Standards/WikiData/WD~Setaphyta,113130160]]'
+- '[[_Standards/WikiData/WD~Embryophytes,192154]]'
+- '[[_Standards/WikiData/WD~Bryobiotina,106976267]]'
+- '[[_Standards/WikiData/WD~Setaphyta,113130160]]'
 taxon_rank: '[[_Standards/WikiData/WD~division,334460]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Q75188101,75188101]]'
-  - '[[_Standards/WikiData/WD~Introduction_to_Bryology,75192879]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Q75188101,75188101]]'
+- '[[_Standards/WikiData/WD~Introduction_to_Bryology,75192879]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 different_from: '[[_Standards/WikiData/WD~bryophyte,29993]]'
 ITIS_TSN: 14189
@@ -31,8 +131,135 @@ taxon_name: Bryophyta
 UMLS_CUI: C0282635
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/MHI.html
 Gujarati_Vishwakosh_entry: શેવાળ-બ્રાયૉપ્સિડા
+dv_has_:
+  name_:
+    af: mos
+    an: Bryophyta
+    ar: نباتات حزازية
+    arz: نباتات حزازيه
+    ast: Bryophyta sensu stricto
+    az: Mamırlar
+    ba: Мүктәр
+    bar: Laabmoos
+    be: лістасцябловыя імхі
+    be-tarask: мхі
+    bg: листнати мъхове
+    bjn: Lumut daun
+    bn: মসবর্গীয় উদ্ভিদ
+    br: Bryophyta
+    bs: Bryophyta
+    ca: molsa
+    ceb: Bryophyta
+    cs: mechy
+    cv: Мăк
+    cy: Mwsogl
+    da: Mosser
+    dag: Kalima
+    de: Laubmoose
+    el: Βρύο
+    eml: Musć
+    en: moss
+    eo: muskoj
+    es: musgo
+    et: Lehtsammaltaimed
+    eu: Goroldio
+    fa: خزه
+    fi: lehtisammalet
+    fr: Bryophyta
+    frr: Bleedenmöösk
+    fy: Moassen
+    ga: caonach
+    gd: Còinneach
+    gl: Brión
+    gsw: Bryophyta
+    gu: શેવાળ
+    he: טחבי עלים
+    hi: हरिता
+    hr: Mahovine
+    hu: lombosmohák
+    hy: մամուռներ
+    ia: Bryophyta
+    id: lumut daun
+    ik: Ivruiyaq
+    io: Musko
+    is: Mosar
+    it: Bryophyta
+    ja: 蘚類
+    jv: Lumut Godhong
+    ka: ხავსები
+    kk: Мүктәрізділер
+    kn: ಪಾಚಿ
+    ko: 이끼
+    koi: Нитш
+    ku: hezaz
+    ku-latn: hezaz
+    kw: kewni
+    ky: Мох
+    la: Bryophyta
+    lb: Bryophyta
+    lfn: Mos
+    lmo: Bryophyta
+    lt: Samanūnai
+    lv: Lapu sūnas
+    mg: Volombato
+    min: Lumuik
+    mk: Мов
+    ml: ശേവാലം
+    mn: Хөвд
+    mnc: ᠨᡳᠣᠯᠮᠣᠨ
+    mrj: Рехень
+    ms: Lumut
+    mul: Bryophyta
+    my: ရေညှိ
+    nb: bladmoser
+    nds: Bryophyta
+    nds-nl: Bryophyta
+    ne: झ्याउ
+    nl: mossen
+    nn: bladmosar
+    oc: Mofa
+    om: Moosii
+    os: Хъуына
+    pl: mchy
+    pms: Bryophyta
+    pt: musgos
+    qu: Rumi millma
+    ro: Bryophyta
+    ru: мхи
+    sco: Fog
+    sd: سينور
+    sgs: Samanas
+    sh: Mahovine
+    shn: တဝ်း
+    sk: Machy
+    sl: mahovi
+    sq: Bryophyta
+    sr: маховине
+    su: Lukut
+    sv: Bladmossor
+    ta: பாசங்கள்
+    te: నాచు
+    th: มอสส์
+    tl: Lumot
+    to: Limuʻuta
+    tr: Yapraklı kara yosunları
+    tt: мүкләр
+    tyv: Чиңгис
+    uk: мохи
+    vec: Bryophyta
+    vi: Ngành Rêu
+    wa: Mossea
+    war: Bryophyta
+    wuu: 藓类植物门
+    xh: ubulembu
+    xmf: ფუთქურეფი
+    yue: 苔蘚植物
+    zh: 苔藓植物门
+    zh-cn: 苔藓植物门
+    zh-hans: 苔藓植物门
+    zh-tw: 薹蘚植物門
+    zu: ULele
 ---
-
 # [[Moss]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Moss,25347|WD~Moss,25347]] 

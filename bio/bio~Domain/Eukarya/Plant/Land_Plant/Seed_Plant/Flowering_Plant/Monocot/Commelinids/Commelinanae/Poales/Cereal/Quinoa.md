@@ -1,49 +1,70 @@
 ---
 aliases:
-  - Quinoa
-  - Andenhirse
-  - Inkakorn
-  - Inkareis
-  - Perureis
-  - Reismelde
-  - Reisspinat
-  - Κινόα
-  - quinoa
-  - Arroz Andino
-  - Kinwa
-  - Quínoa
-  - kvinoa
-  - Perumelde
-  - komosa ryżowa
-  - Mjölmålla
-  - Diêm mạch
-  - 昆诺阿藜
-  - 藜麥
-  - 藜麦
-  - kvinoja
-  - perujski riž
-  - Quinua
-  - Киноа
-  - merlík čilský
+- Andenhirse
+- Arroz Andino
+- Bolivinė balanda
+- Chenopodium quinoa
+- cuineo
+- Diêm mạch
+- Inkakorn
+- Inkareis
+- Jiwra
+- Kinoa
+- kinoja
+- Kinwa
+- komosa ryżowa
+- Kuinoa
+- kvinoa
+- kvinoja
+- Kvinoo
+- Kínóa
+- merlík čilský
+- Mjölmålla
+- perujski riž
+- Perumelde
+- Perureis
+- Quinoa
+- Quinua
+- Quínoa
+- Reismelde
+- Reisspinat
+- tšiili hanemalts
+- Κινόα
+- кіноа
+- Киноа
+- Սագախոտ
+- קינואה
+- كينوا
+- کینوآ
+- क्विन्वा
+- கினோவா
+- ಕೀನೋವಾ
+- คีนวา
+- კინოა
+- キヌア
+- 昆诺阿藜
+- 藜麥
+- 藜麦
+- 명아주속의 일년초
 has_id_wikidata: Q139925
 Commons_category: Chenopodium quinoa
 Commons_gallery: Chenopodium quinoa
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: CHEQU
 GenBank_assembly_accession_number:
-  - GCA_001683475.1
-  - GCA_001742885.1
-  - GCA_002732095.1
-  - GCA_021164245.1
+- GCA_001683475.1
+- GCA_001742885.1
+- GCA_002732095.1
+- GCA_021164245.1
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=10194
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Chenopodium%20quinoa0.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quinua.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Chenopodium%20quinoa0.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quinua.JPG
 instance_of:
-  - '[[_Standards/WikiData/WD~food_crop,31839438]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~food_crop,31839438]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 506567
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 MeSH_tree_code: B01.875.800.575.912.250.198.500.100.666.875
@@ -54,49 +75,131 @@ sequenced_genome_URL: https://plants.ensembl.org/Chenopodium_quinoa
 short_name: C. quinoa
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Quinoa%20%28Chenopodium%20quinoa%29-article.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~pseudocereal,749997]]'
-  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~pseudocereal,749997]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 taxon_common_name:
-  - Andenhirse
-  - Inkakorn
-  - Inkareis
-  - Perureis
-  - Reismelde
-  - Reisspinat
-  - Κινόα
-  - quinoa
-  - Arroz Andino
-  - Kinwa
-  - Quínoa
-  - kvinoa
-  - Quinoa
-  - Quinoa
-  - Perumelde
-  - komosa ryżowa
-  - Mjölmålla
-  - Diêm mạch
-  - 昆诺阿藜
-  - 藜麥
-  - 藜麦
-  - kvinoja
-  - perujski riž
-  - Quinua
-  - Quinoa
-  - Quinoa
-  - Quinoa
-  - Quinoa
-  - quinoa
-  - Киноа
-  - merlík čilský
+- Andenhirse
+- Inkakorn
+- Inkareis
+- Perureis
+- Reismelde
+- Reisspinat
+- Κινόα
+- quinoa
+- Arroz Andino
+- Kinwa
+- Quínoa
+- kvinoa
+- Quinoa
+- Quinoa
+- Perumelde
+- komosa ryżowa
+- Mjölmålla
+- Diêm mạch
+- 昆诺阿藜
+- 藜麥
+- 藜麦
+- kvinoja
+- perujski riž
+- Quinua
+- Quinoa
+- Quinoa
+- Quinoa
+- Quinoa
+- quinoa
+- Киноа
+- merlík čilský
 taxon_name: Chenopodium quinoa
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~quinoa_oil,7272327]]'
-  - '[[_Standards/WikiData/WD~quinoa_seed,104030862]]'
+- '[[_Standards/WikiData/WD~quinoa_oil,7272327]]'
+- '[[_Standards/WikiData/WD~quinoa_seed,104030862]]'
 UMLS_CUI: C0453354
 UNII: 9KMA964L92
+dv_has_:
+  name_:
+    an: Chenopodium quinoa
+    ar: كينوا
+    arn: Chenopodium quinoa
+    arz: كينوا
+    ast: Chenopodium quinoa
+    ay: Jiwra
+    az: Kinoa
+    bcl: Quinoa
+    be: кіноа
+    be-tarask: кіноа
+    bg: киноа
+    bjn: Kinoa
+    ca: quinoa
+    ceb: Chenopodium quinoa
+    cs: merlík čilský
+    da: Quinoa
+    de: Quinoa
+    el: Κινόα
+    en: Chenopodium quinoa
+    eo: Kvinoo
+    es: Chenopodium quinoa
+    et: tšiili hanemalts
+    eu: Kinoa
+    ext: Chenopodium quinoa
+    fa: کینوآ
+    fi: kvinoa
+    fr: quinoa
+    frr: Kinoa
+    ga: cuineo
+    gl: Quinoa
+    he: קינואה
+    hi: क्विन्वा
+    hr: Kvinoja
+    hu: Chenopodium quinoa
+    hy: Սագախոտ
+    ia: Chenopodium quinoa
+    id: Kinoa
+    ie: Chenopodium quinoa
+    io: Chenopodium quinoa
+    is: Kínóa
+    it: Chenopodium quinoa
+    ja: キヌア
+    jv: Quinoa
+    ka: კინოა
+    kn: ಕೀನೋವಾ
+    ko: 명아주속의 일년초
+    la: Chenopodium quinoa
+    lt: Bolivinė balanda
+    lv: kinoja
+    ms: Kuinoa
+    mul: Chenopodium quinoa
+    nb: Quinoa
+    nl: Quinoa
+    nn: Perumelde
+    oc: Quinoa
+    os: Киноа
+    pam: Quinoa
+    pl: komosa ryżowa
+    pt: Quinoa
+    pt-br: Chenopodium quinoa
+    qu: Kinwa
+    ro: Chenopodium quinoa
+    ru: киноа
+    sco: quinoa
+    sh: Kinoa
+    sl: perujski riž
+    sq: Chenopodium quinoa
+    sr: Kvinoja
+    sv: Quinoa
+    ta: கினோவா
+    th: คีนวา
+    tl: Quinoa
+    tr: Kinoa
+    uk: кіноа
+    ur: کینوآ
+    vi: Chenopodium quinoa
+    vo: Chenopodium quinoa
+    war: Chenopodium quinoa
+    wuu: 藜麦
+    yue: 藜麥
+    zh: 藜麥
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Quinoa** (Chenopodium quinoa; , from Quechua kinwa or kinuwa) is a flowering plant in the amaranth family. It is a herbaceous annual plant grown as a crop primarily for its edible seeds; the seeds are high in protein, dietary fiber, B vitamins and dietary minerals in amounts greater than in many grains. Quinoa is not a grass but rather a pseudocereal botanically related to spinach and amaranth (Amaranthus spp.), and originated in the Andean region of northwestern South America. It was first used to feed livestock 5,200–7,000 years ago, and for human consumption 3,000–4,000 years ago in the Lake Titicaca basin of Peru and Bolivia.

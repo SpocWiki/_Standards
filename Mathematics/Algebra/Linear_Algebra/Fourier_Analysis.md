@@ -1,27 +1,118 @@
 ---
 aliases:
+- analisi di Fourier
+- Analisis Fourier
+- analiza Fouriera
+- analiză Fourier
+- analyse de Fourier
+- anàlisi de Fourier
+- Análise de Fourier
+- análisis de Fourier
+- Fourier analizi
+- Fourier analysis
+- Fourier' analüüs
+- Fourier-Analysis
+- Fourier-analízis
+- Fourieranalys
+- fourieranalyse
+- Fourierova analiza
+- Fourierova analýza
+- Fourierren analisia
+- Furiera analitiko
+- Furijeova analiza
+- Furjė analizė
+- Giải tích Fourier
+- Ανάλυση Φουριέ
+- аналіз Фур’є
+- аналіз Фур’е
+- анализ Фурье
+- Фуријеова анализа
+- Фурие анализ
+- Фурье анализы
+- אנליזת פורייה
+- تحليل فورييه
+- تحلیل فوریه
+- شیکاریی فووریێ
+- फुरिअर विश्लेषण
+- ফুরিয়ার বিশ্লেষণ
+- フーリエ解析
+- 傅利耶分析
+- 傅立葉分析
+- 傅里叶分析
+- 傅里葉分析
+- 푸리에 해석학
 has_id_wikidata: Q1365258
 has_use:
-  - "[[_Standards/WikiData/WD~acoustics,82811]]"
-  - "[[_Standards/WikiData/WD~digital_signal_processing,173142]]"
+- '[[_Standards/WikiData/WD~acoustics,82811]]'
+- '[[_Standards/WikiData/WD~digital_signal_processing,173142]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_physics,156495]]"
-  - "[[_Standards/WikiData/WD~harmonic_analysis,876215]]"
+- '[[_Standards/WikiData/WD~mathematical_physics,156495]]'
+- '[[_Standards/WikiData/WD~harmonic_analysis,876215]]'
 uses:
-  - "[[_Standards/WikiData/WD~Fourier_series,179467]]"
-  - "[[_Standards/WikiData/WD~frequency_domain,786423]]"
-  - "[[_Standards/WikiData/WD~Fourier_transform,6520159]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-named_after: "[[_Standards/WikiData/WD~Joseph_Fourier,8772]]"
+- '[[_Standards/WikiData/WD~Fourier_series,179467]]'
+- '[[_Standards/WikiData/WD~frequency_domain,786423]]'
+- '[[_Standards/WikiData/WD~Fourier_transform,6520159]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 publication_date: 1822-01-01T00:00:00Z
 Stack_Exchange_tag: https://mathoverflow.net/tags/fourier-analysis
 MeSH_tree_code:
-  - E05.377
-  - G17.226
-  - L01.224.800.625
+- E05.377
+- G17.226
+- L01.224.800.625
 Commons_category: Fourier analysis
+dv_has_:
+  name_:
+    ar: تحليل فورييه
+    ba: Фурье анализы
+    be-tarask: аналіз Фур’е
+    bg: Фурие анализ
+    bn: ফুরিয়ার বিশ্লেষণ
+    ca: anàlisi de Fourier
+    ckb: شیکاریی فووریێ
+    cs: Fourierova analýza
+    de: Fourier-Analysis
+    el: Ανάλυση Φουριέ
+    en: Fourier analysis
+    eo: Furiera analitiko
+    es: análisis de Fourier
+    et: Fourier' analüüs
+    eu: Fourierren analisia
+    fa: تحلیل فوریه
+    fr: analyse de Fourier
+    gl: Análise de Fourier
+    he: אנליזת פורייה
+    hi: फुरिअर विश्लेषण
+    hu: Fourier-analízis
+    id: Analisis Fourier
+    it: analisi di Fourier
+    ja: フーリエ解析
+    ko: 푸리에 해석학
+    lt: Furjė analizė
+    ms: Analisis Fourier
+    nb: fourieranalyse
+    nl: Fourieranalyse
+    pl: analiza Fouriera
+    pt: análise de Fourier
+    pt-br: análise de Fourier
+    ro: analiză Fourier
+    ru: анализ Фурье
+    sl: Fourierova analiza
+    sr: Фуријеова анализа
+    sr-ec: Фуријеова анализа
+    sr-el: Furijeova analiza
+    su: Analisis Fourier
+    sv: Fourieranalys
+    tr: Fourier analizi
+    uk: аналіз Фур’є
+    vi: Giải tích Fourier
+    yue: 傅利耶分析
+    zh: 傅里叶分析
+    zh-hans: 傅里叶分析
+    zh-hant: 傅立葉分析
+    zh-hk: 傅里葉分析
+    zh-tw: 傅立葉分析
 ---
-
 # [[Fourier_Analysis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fourier_analysis,1365258|WD~Fourier_analysis,1365258]] 

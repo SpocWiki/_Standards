@@ -1,14 +1,85 @@
 ---
 aliases:
-  - Ionizing radiation
-  - ionising radiation
-  - Ionizing_Radiation
-  - Ionizing Radiation
+- Erradiazio ionizatzaile
+- ioniseeriv kiirgus
+- ioniserande stråling
+- ioniserejeaddji suonjardeapmi
+- Ioniserende straling
+- Ioniserende stråling
+- ionisierende Strahlung
+- ionising radiation
+- ionisistee suonjârdem
+- ionisoiva säteily
+- Ionizing radiation
+- Ionizing_Radiation
+- ionizirajoče sevanje
+- Ionizirajuće zračenje
+- ionizující záření
+- Ionizujúce žiarenie
+- ionizáló sugárzás
+- joniga radiado
+- joniserande strålning
+- Jonizujuće zračenje
+- jonizuojančioji spinduliuotė
+- jonizējošais starojums
+- Jónandi geislun
+- Phóng xạ ion hóa
+- promieniowanie jonizujące
+- Radia ioninte
+- radiació ionitzant
+- Radiación ionizante
+- radiasi pengion
+- Radiasiya
+- Radiatio ionizans
+- Radiatsiya
+- radiazione ionizzante
+- radiação ionizante
+- Radiație ionizantă
+- Radyasyon iyonik
+- Raionament ionizant
+- rayonnement ionisant
+- Sinaran pengion
+- İyonlaştırıcı radyasyon
+- ιονίζουσα ακτινοβολία
+- іанізавальнае выпраменьванне
+- іонізаційна радіація
+- іянізавальнае выпраменьваньне
+- јонизирачко зрачење
+- јонизујуће зрачење
+- Иондағыш сәулеленулер
+- Иондоштуруучу нурлануу
+- Ионжуулагч цацраг
+- Ионизацилекен пайăркалав
+- ионизирующее излучение
+- ионлаштыручы нурланыш
+- Радиация
+- Իոնացնող ճառագայթում
+- קרינה מייננת
+- إشعاع مؤين
+- اَیونایزِنگ ریڈیشَن
+- موین اشعاع
+- پرتوی یونیزان
+- یونیزه رادیاسیون
+- आयनकारी विकिरण
+- आयोनाइजेसन विकिरण
+- ਆਈਓਨਾਈਜ਼ਿੰਗ ਰੇਡੀਏਸ਼ਨ
+- વસ્તુ ઊપર ચોઢેલી ચિઠ્ઠી
+- அயனியாக்கும் கதிர்
+- අයනීකාර විකිරණය
+- การแผ่รังสีจากการแตกตัวเป็นไอออน
+- အိုင်ယွန်ပြုရောင်ခြည်
+- მაიონიზირებელი გამოსხივება
+- 放射線
+- 游离辐射
+- 游離輻射
+- 电离辐射
+- 致電離輻射
+- 이온화 방사선
 has_id_wikidata: Q186161
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~radiation_protection,1574099]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327]]'
-  - '[[_Standards/WikiData/WD~radiation_injury,11498930]]'
+- '[[_Standards/WikiData/WD~radiation_induced_neoplasms,7280327]]'
+- '[[_Standards/WikiData/WD~radiation_injury,11498930]]'
 subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
 OmegaWiki_Defined_Meaning: 2021
 U_S_National_Archives_Identifier: 10646158
@@ -22,8 +93,96 @@ Wolfram_Language_entity_code: Entity["Concept", "IonizingRadiation::5547m"]
 MeSH_tree_code: G01.750.750
 Commons_category: Ionizing radiation
 ComputerLanguage_com_definition: ionizing+radiation
+dv_has_:
+  name_:
+    af: Ioniserende straling
+    ar: إشعاع مؤين
+    ast: Radiación ionizante
+    az: Radiasiya
+    azb: یونیزه رادیاسیون
+    be: іанізавальнае выпраменьванне
+    be-tarask: іянізавальнае выпраменьваньне
+    bg: Радиация
+    bs: Ionizirajuće zračenje
+    ca: radiació ionitzant
+    cs: ionizující záření
+    cv: Ионизацилекен пайăркалав
+    da: Ioniserende stråling
+    de: ionisierende Strahlung
+    el: ιονίζουσα ακτινοβολία
+    en: ionizing radiation
+    en-gb: ionising radiation
+    eo: joniga radiado
+    es: radiación ionizante
+    et: ioniseeriv kiirgus
+    eu: Erradiazio ionizatzaile
+    fa: پرتوی یونیزان
+    fi: ionisoiva säteily
+    fr: rayonnement ionisant
+    gl: radiación ionizante
+    gu: વસ્તુ ઊપર ચોઢેલી ચિઠ્ઠી
+    he: קרינה מייננת
+    hi: आयनकारी विकिरण
+    hr: Ionizirajuće zračenje
+    ht: Radyasyon iyonik
+    hu: ionizáló sugárzás
+    hy: Իոնացնող ճառագայթում
+    id: radiasi pengion
+    is: Jónandi geislun
+    it: radiazione ionizzante
+    ja: 放射線
+    ka: მაიონიზირებელი გამოსხივება
+    kk: Иондағыш сәулеленулер
+    ko: 이온화 방사선
+    ks: اَیونایزِنگ ریڈیشَن
+    ky: Иондоштуруучу нурлануу
+    la: Radiatio ionizans
+    lfn: Radia ioninte
+    lt: jonizuojančioji spinduliuotė
+    lv: jonizējošais starojums
+    mk: јонизирачко зрачење
+    mn: Ионжуулагч цацраг
+    ms: Sinaran pengion
+    my: အိုင်ယွန်ပြုရောင်ခြည်
+    nb: ioniserende stråling
+    ne: आयोनाइजेसन विकिरण
+    nl: ioniserende straling
+    nn: ioniserande stråling
+    oc: Raionament ionizant
+    om: Ionizing Radiation
+    pa: ਆਈਓਨਾਈਜ਼ਿੰਗ ਰੇਡੀਏਸ਼ਨ
+    pl: promieniowanie jonizujące
+    pt: radiação ionizante
+    ro: Radiație ionizantă
+    ru: ионизирующее излучение
+    se: ioniserejeaddji suonjardeapmi
+    sh: Jonizujuće zračenje
+    si: අයනීකාර විකිරණය
+    sk: Ionizujúce žiarenie
+    sl: ionizirajoče sevanje
+    smn: ionisistee suonjârdem
+    sr: јонизујуће зрачење
+    sr-ec: Јонизујуће зрачење
+    sr-el: Jonizujuće zračenje
+    sv: joniserande strålning
+    ta: அயனியாக்கும் கதிர்
+    th: การแผ่รังสีจากการแตกตัวเป็นไอออน
+    tr: İyonlaştırıcı radyasyon
+    tt: ионлаштыручы нурланыш
+    uk: іонізаційна радіація
+    ur: موین اشعاع
+    uz: Radiatsiya
+    vi: Phóng xạ ion hóa
+    wuu: 电离辐射
+    yue: 致電離輻射
+    zh: 游離輻射
+    zh-cn: 电离辐射
+    zh-hans: 游离辐射
+    zh-hant: 游離輻射
+    zh-hk: 致電離輻射
+    zh-sg: 电离辐射
+    zh-tw: 游離輻射
 ---
-
 # [[Ionizing_Radiation]] 
 
 #is_/same_as :: [[WD~Ionizing_radiation,186161]] 

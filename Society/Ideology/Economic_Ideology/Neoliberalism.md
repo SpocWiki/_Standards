@@ -1,21 +1,175 @@
 ---
 aliases:
+- Chủ nghĩa tự do mới
+- Neo-ryddfrydiaeth
+- neolibarałismo
+- neoliberalism
+- neoliberalisme
+- neoliberalismo
+- Neoliberalismus
+- Neoliberalizam
+- neoliberalizem
+- neoliberalizm
+- neoliberalizmas
+- Neoliberalizmi
+- neoliberalizmus
+- Neoliberism
+- Neoliberālisms
+- Neolliberalismu
+- Neolïberalïzm
+- Neulibbirismu
+- neuliberalismu
+- novliberalismo
+- Nua-libearalas
+- nualiobrálachas
+- nyliberalism
+- nyliberalisme
+- Néoliberalisme
+- néolibéralisme
+- Nýfrjálshyggja
+- ođđaliberalisma
+- ođđliberalismm
+- uddâliberalism
+- uusliberalismi
+- Νεοφιλελευθερισμός
+- неолібералізм
+- неолиберализам
+- Неолиберализм
+- Неолиберализъм
+- ниялибирәлизем
+- нэалібэралізм
+- նեոլիբերալիզմ
+- נאו-ליברליזם
+- نئولیبرالیزم
+- نولیبرالیسم
+- نيوليبرالية
+- نيوليبراليسمى
+- نيوليبراليه
+- نیولېبرالیزم
+- نیۆلیبراڵیزم
+- نەولىيبەرالىيزم
+- आलस्
+- नवउदारवाद
+- নব্যউদারনীতিবাদ
+- నయా ఉదారవాదం
+- നവ ഉദാരവത്കരണം
+- නව ලිබරල්වාදය/Neoliberalism
+- เสรีนิยมใหม่
+- ნეოლიბერალიზმი
+- 新自由主义
+- 新自由主義
+- 신자유주의
 has_id_wikidata: Q162719
-subclass_of: "[[_Standards/WikiData/WD~economic_liberalism,729119]]"
-different_from: "[[_Standards/WikiData/WD~Neoliberalism,1417017]]"
+subclass_of: '[[_Standards/WikiData/WD~economic_liberalism,729119]]'
+different_from: '[[_Standards/WikiData/WD~Neoliberalism,1417017]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_ideology,5333510]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~neoliberism,19060633]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Neoliberalism,22713933]]"
-in_opposition_to: "[[_Standards/WikiData/WD~anti_neoliberalism,110157247]]"
-OmegaWiki_Defined_Meaning: "1208835"
+- '[[_Standards/WikiData/WD~economic_ideology,5333510]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~neoliberism,19060633]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neoliberalism,22713933]]'
+in_opposition_to: '[[_Standards/WikiData/WD~anti_neoliberalism,110157247]]'
+OmegaWiki_Defined_Meaning: 1208835
 subreddit: neoliberal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EffectOfTariff.svg
 Know_Your_Meme_slug: neoliberalism
 Commons_category: Neoliberalism
+dv_has_:
+  name_:
+    an: neoliberalismo
+    ar: نيوليبرالية
+    arz: نيوليبراليه
+    ast: Neolliberalismu
+    az: neoliberalizm
+    azb: نئولیبرالیزم
+    be-tarask: нэалібэралізм
+    bg: Неолиберализъм
+    bn: নব্যউদারনীতিবাদ
+    ca: neoliberalisme
+    ckb: نیۆلیبراڵیزم
+    co: neuliberalismu
+    cs: neoliberalismus
+    cy: Neo-ryddfrydiaeth
+    da: neoliberalisme
+    de: Neoliberalismus
+    el: Νεοφιλελευθερισμός
+    en: neoliberalism
+    eo: novliberalismo
+    es: neoliberalismo
+    et: neoliberalism
+    eu: Neoliberalismo
+    fa: نولیبرالیسم
+    fi: uusliberalismi
+    fr: néolibéralisme
+    ga: nualiobrálachas
+    gd: Nua-libearalas
+    gl: neoliberalismo
+    he: נאו-ליברליזם
+    hi: आलस्
+    hr: Neoliberalizam
+    hu: neoliberalizmus
+    hy: նեոլիբերալիզմ
+    id: neoliberalisme
+    is: Nýfrjálshyggja
+    it: neoliberalismo
+    ja: 新自由主義
+    jv: Néoliberalisme
+    ka: ნეოლიბერალიზმი
+    kk: Неолиберализм
+    kk-arab: نەولىيبەرالىيزم
+    kk-cn: نەولىيبەرالىيزم
+    kk-cyrl: Неолиберализм
+    kk-kz: Неолиберализм
+    kk-latn: Neolïberalïzm
+    kk-tr: Neolïberalïzm
+    ko: 신자유주의
+    lmo: Neoliberism
+    lt: neoliberalizmas
+    lv: Neoliberālisms
+    min: Neoliberalisme
+    mk: неолиберализам
+    ml: നവ ഉദാരവത്കരണം
+    mn: Неолиберализм
+    ms: neoliberalisme
+    ms-arab: نيوليبراليسمى
+    nb: nyliberalisme
+    ne: नवउदारवाद
+    nl: neoliberalisme
+    nn: nyliberalisme
+    pl: neoliberalizm
+    ps: نیولېبرالیزم
+    pt: neoliberalismo
+    ro: neoliberalism
+    ru: неолиберализм
+    scn: Neulibbirismu
+    se: ođđaliberalisma
+    sh: Neoliberalizam
+    si: නව ලිබරල්වාදය/Neoliberalism
+    sk: neoliberalizmus
+    sl: neoliberalizem
+    smn: uddâliberalism
+    sms: ođđliberalismm
+    sq: Neoliberalizmi
+    sr: неолиберализам
+    sr-ec: Неолиберализам
+    sr-el: Neoliberalizam
+    sv: nyliberalism
+    te: నయా ఉదారవాదం
+    th: เสรีนิยมใหม่
+    tr: neoliberalizm
+    tt: ниялибирәлизем
+    uk: неолібералізм
+    uz: Neoliberalizm
+    vec: neolibarałismo
+    vi: Chủ nghĩa tự do mới
+    wuu: 新自由主义
+    zh: 新自由主義
+    zh-cn: 新自由主义
+    zh-hans: 新自由主义
+    zh-hant: 新自由主義
+    zh-hk: 新自由主義
+    zh-sg: 新自由主义
+    zh-tw: 新自由主義
 ---
-
 # [[Neoliberalism]] 
 
 #has_/previous_/item :: [[Keynesianism]] 

@@ -1,30 +1,142 @@
 ---
 aliases:
+- ga lông
+- galjono
+- gallon
+- Gallona
+- gallone
+- galoi
+- Galon
+- Galona
+- Galonas
+- galwyn
+- galão
+- galó
+- galón
+- Gelen
+- gelling
+- Gă-lùng
+- Ka-lûn
+- kārani
+- γαλόνι
+- галён
+- галлон
+- галон
+- գալոն
+- גלון
+- غالون
+- گالون
+- گیلَن
+- गैलन
+- গ্যালন
+- கலன்
+- แกลลอน
+- ガロン
+- 加仑
+- 加侖
+- 갤런
 has_id_wikidata: Q178413
 different_from:
-  - "[[_Standards/WikiData/WD~gal,500515]]"
-  - "[[_Standards/WikiData/WD~dry_gallon,5309589]]"
-  - "[[_Standards/WikiData/WD~gallon_(Scots),5519125]]"
-  - "[[_Standards/WikiData/WD~wine_gallon,8024928]]"
-  - "[[_Standards/WikiData/WD~gallon_(UK),23925410]]"
-  - "[[_Standards/WikiData/WD~gallon_(US),23925413]]"
-  - "[[_Standards/WikiData/WD~beer_gallon,23925527]]"
+- '[[_Standards/WikiData/WD~gal,500515]]'
+- '[[_Standards/WikiData/WD~dry_gallon,5309589]]'
+- '[[_Standards/WikiData/WD~gallon_(Scots),5519125]]'
+- '[[_Standards/WikiData/WD~wine_gallon,8024928]]'
+- '[[_Standards/WikiData/WD~gallon_(UK),23925410]]'
+- '[[_Standards/WikiData/WD~gallon_(US),23925413]]'
+- '[[_Standards/WikiData/WD~beer_gallon,23925527]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~unit_of_volume,1302471]]"
-  - "[[_Standards/WikiData/WD~non_standard_unit,21652125]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~gallon,135710760]]"
-instance_of: "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
-OmegaWiki_Defined_Meaning: "350352"
+- '[[_Standards/WikiData/WD~unit_of_volume,1302471]]'
+- '[[_Standards/WikiData/WD~non_standard_unit,21652125]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~gallon,135710760]]'
+instance_of: '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+OmegaWiki_Defined_Meaning: 350352
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GasCan.jpg
 UMLS_CUI: CL449030
 Commons_category: Gallon
 unit_symbol: gal
+dv_has_:
+  name_:
+    af: gelling
+    ar: غالون
+    ast: Galón
+    be: галон
+    be-tarask: галён
+    bg: Галон
+    bn: গ্যালন
+    bs: Galon
+    ca: galó
+    cdo: Gă-lùng
+    cs: galon
+    cy: galwyn
+    da: gallon
+    de: Gallone
+    el: γαλόνι
+    en: gallon
+    en-gb: galon
+    eo: galjono
+    es: galón
+    et: Gallon
+    eu: galoi
+    fa: گالون
+    fi: Gallona
+    fo: Gallon
+    fr: gallon
+    gl: Galón
+    he: גלון
+    hi: गैलन
+    hr: Galon
+    hu: gallon
+    hy: գալոն
+    id: Galon
+    is: Gallon
+    it: gallone
+    ja: ガロン
+    kk: галлон
+    ko: 갤런
+    ks: گیلَن
+    lt: Galonas
+    mi: kārani
+    mk: Галон
+    ms: Gelen
+    nan: Ka-lûn
+    nan-hant: 加侖
+    nb: gallon
+    nl: gallon
+    nn: gallon
+    oc: Galon
+    pl: Galon
+    pt: galão
+    ro: Galon
+    ru: галлон
+    sco: Gallon
+    sh: Galon
+    sk: Galón
+    sl: Galona
+    sr: галон
+    sv: gallon
+    ta: கலன்
+    tg: Галлон
+    th: แกลลอน
+    tr: Galon
+    uk: галон
+    uz: Gallon
+    vi: ga lông
+    vro: Gallon
+    war: Galon
+    wuu: 加仑
+    yue: 加侖
+    zh: 加仑
+    zh-cn: 加仑
+    zh-hans: 加仑
+    zh-hant: 加侖
+    zh-hk: 加侖
+    zh-sg: 加仑
+    zh-tw: 加侖
 ---
-
 # [[Gallon]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gallon,178413|WD~Gallon,178413]] 

@@ -1,17 +1,59 @@
 ---
 aliases:
-  - Archaeopteryx
-  - 始祖鳥
+- Aircéipteiric
+- Archaeopteryx
+- Archeopteriksas
+- Archäopteryx
+- Arheopterikss
+- Arkaeopteryks
+- Arkeopterigo
+- Arkeopteriks
+- arqueòpterix
+- Arxeopteriks
+- Arxeopterïks
+- Huēhcāuhahtlapalli
+- Naayééʼ tsídii
+- Praptič
+- Urfugler
+- Öglir
+- Ürglind
+- ʻArekeopeterika
+- Αρχαιοπτέρυξ
+- Археоптерикс
+- археоптерикси
+- Праптушка
+- стараптах
+- Արխեոպտերիքս
+- ארכאופטריקס
+- آرخوپتریکس
+- آرکئوپتریکس
+- آرکیوپٹرکس
+- أركيوبتركس
+- ارحەوپتەرىيكس
+- आर्कियोप्टेरिक्स
+- आर्कीऑपटरिक्स
+- আর্কিওপ্টেরিক্স
+- ଆର୍କିଓପ୍ଟେରିକ୍ସ
+- ஆர்கியொட்ரிக்ஸ்
+- ಆರ್ಕಿಯಾಪ್ಟೆರಿಕ್ಸ್
+- ആർക്കിയോപ്റ്റെറിക്സ്
+- อาร์คีออปเทอริกซ์
+- အာခီယိုတီးရစ်ငှက်
+- არქეოპტერიქსი
+- 始祖鳥
+- 始祖鸟
+- ꯑꯥꯔꯀꯤꯌꯣꯞꯇꯦꯔꯤꯛ꯭ꯁ
+- 시조새
 has_id_wikidata: Q100196
 main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
 different_from: '[[_Standards/WikiData/WD~Archaeopteris,134691]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Friedrich_Häberlein,123555128]]'
 time_of_discovery_or_invention: 1861-01-01T00:00:00Z
@@ -23,18 +65,127 @@ Commons_category: Archaeopteryx
 taxon_name: Archaeopteryx
 OmegaWiki_Defined_Meaning: 1311114
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20-%20Pedro%20Jos%C3%A9%20Salas%20Fontelles%20%28flipped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20by%20durbed.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Archaeopteryx.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20-%20Pedro%20Jos%C3%A9%20Salas%20Fontelles%20%28flipped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20lithographica%20by%20durbed.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Archaeopteryx.jpg
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20Scale.svg
 P8189: 987007294839505171
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Archaeopteryx"]
 taxon_common_name: 始祖鳥
 end_time: -148500000-06
 start_time: -150800000-06
+dv_has_:
+  name_:
+    af: Archaeopteryx
+    an: Archaeopteryx
+    ar: أركيوبتركس
+    ast: Archaeopteryx
+    az: Arxeopteriks
+    azb: آرخوپتریکس
+    ban: Arkeopteriks
+    bar: Archäopteryx
+    be: Праптушка
+    be-tarask: стараптах
+    bg: археоптерикси
+    bn: আর্কিওপ্টেরিক্স
+    br: Arkaeopteryks
+    ca: arqueòpterix
+    ceb: Archaeopteryx
+    cs: Archaeopteryx
+    cv: Археоптерикс
+    cy: Archaeopteryx
+    da: Archaeopteryx
+    de: Archaeopteryx
+    el: Αρχαιοπτέρυξ
+    en: Archaeopteryx
+    eo: Arkeopterigo
+    es: Archaeopteryx
+    et: Ürglind
+    eu: Archaeopteryx
+    fa: آرکئوپتریکس
+    fi: Archaeopteryx
+    fr: Archaeopteryx
+    ga: Aircéipteiric
+    gl: Archaeopteryx
+    haw: ʻArekeopeterika
+    he: ארכאופטריקס
+    hi: आर्कियोप्टेरिक्स
+    hr: Archaeopteryx
+    hu: Archaeopteryx
+    hy: Արխեոպտերիքս
+    ia: Archaeopteryx
+    id: Archaeopteryx
+    ilo: Arkeopteriks
+    is: Öglir
+    it: Archaeopteryx
+    ja: 始祖鳥
+    jv: Archaeopteryx
+    ka: არქეოპტერიქსი
+    kk: Археоптерикс
+    kk-arab: ارحەوپتەرىيكس
+    kk-cn: ارحەوپتەرىيكس
+    kk-cyrl: Археоптерикс
+    kk-kz: Археоптерикс
+    kk-latn: Arxeopterïks
+    kk-tr: Arxeopterïks
+    kn: ಆರ್ಕಿಯಾಪ್ಟೆರಿಕ್ಸ್
+    ko: 시조새
+    ky: Археоптерикс
+    la: Archaeopteryx
+    lt: Archeopteriksas
+    lv: Arheopterikss
+    mk: археоптерикс
+    ml: ആർക്കിയോപ്റ്റെറിക്സ്
+    mni: ꯑꯥꯔꯀꯤꯌꯣꯞꯇꯦꯔꯤꯛ꯭ꯁ
+    mr: आर्कीऑपटरिक्स
+    ms: Arkeopteriks
+    mul: Archaeopteryx
+    my: အာခီယိုတီးရစ်ငှက်
+    nah: Huēhcāuhahtlapalli
+    nb: Urfugler
+    nl: Archaeopteryx
+    nn: Archaeopteryx
+    nv: Naayééʼ tsídii
+    oc: Archaeopteryx
+    or: ଆର୍କିଓପ୍ଟେରିକ୍ସ
+    pl: Archaeopteryx
+    pnb: آرکیوپٹرکس
+    pt: Archaeopteryx
+    ro: Archaeopteryx
+    ru: Археоптерикс
+    sco: Archaeopteryx
+    sh: Archaeopteryx
+    sk: Archaeopteryx
+    sl: Praptič
+    sq: Archaeopteryx
+    sr: Археоптерикс
+    sr-ec: Археоптерикс
+    su: Archaeopteryx
+    sv: Archaeopteryx
+    ta: ஆர்கியொட்ரிக்ஸ்
+    tg: Археоптерикс
+    th: อาร์คีออปเทอริกซ์
+    tl: Archaeopteryx
+    tr: Archaeopteryx
+    udm: археоптерикс
+    uk: Археоптерикс
+    uz: Arxeopteriks
+    vec: Archaeopteryx
+    vi: Archaeopteryx
+    vls: Archaeopteryx
+    vo: Archaeopteryx
+    war: Archaeopteryx
+    wuu: 始祖鸟
+    yue: 始祖鳥
+    zh: 始祖鸟
+    zh-cn: 始祖鸟
+    zh-hans: 始祖鸟
+    zh-hant: 始祖鳥
+    zh-hk: 始祖鳥
+    zh-sg: 始祖鸟
+    zh-tw: 始祖鳥
 ---
-
 # [[Archaeopteryx]] 
 
 ![[../../../../../../../../../Bird/Archaeopteryx.jpg]] 

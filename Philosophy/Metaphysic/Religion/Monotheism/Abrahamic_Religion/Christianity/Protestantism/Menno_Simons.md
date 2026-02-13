@@ -1,8 +1,21 @@
 ---
 aliases:
-  - Menno Simons
-  - Minne Simens
-  - Menno_Simons
+- Menno Simmons
+- Menno Simons
+- Menno_Simons
+- Meno Simons
+- Minne Simens
+- Менна Сіманс
+- Менно Сімонс
+- Менно Симонс
+- Мэна Сыманс
+- מנו סימונס
+- منو سیمونز
+- مينو سيمونز
+- メノ・シモンズ
+- 門諾·西蒙斯
+- 门诺·西蒙斯
+- 메노 시몬스
 has_id_wikidata: Q335171
 place_of_burial: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226]]'
 place_of_death: '[[_Standards/WikiData/WD~Bad_Oldesloe,155226]]'
@@ -10,19 +23,19 @@ religion_or_worldview: '[[_Standards/WikiData/WD~anabaptism,165580]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Seventeen_Provinces,330533]]'
 place_of_birth: '[[_Standards/WikiData/WD~Witmarsum,494324]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 occupation:
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~priest,42603]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~priest,42603]]'
 given_name: '[[_Standards/WikiData/WD~Menno,2551723]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Simons,18327304]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Dutch,7411]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
 date_of_death: 1561-02-10T00:00:00Z
@@ -34,8 +47,60 @@ Commons_gallery: Menno Simons
 Commons_category: Menno Simons
 name_in_native_language: Menno Simons
 date_of_birth: 1496-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: مينو سيمونز
+    arz: مينو سيمونز
+    ast: Menno Simons
+    be: Менна Сіманс
+    be-tarask: Мэна Сыманс
+    br: Menno Simons
+    ca: Menno Simons
+    cs: Menno Simons
+    cy: Menno Simons
+    da: Menno Simons
+    de: Menno Simons
+    en: Menno Simons
+    eo: Menno Simons
+    es: Menno Simons
+    eu: Menno Simons
+    fa: منو سیمونز
+    fi: Menno Simons
+    fr: Menno Simons
+    fy: Menno Simons
+    gl: Menno Simons
+    he: מנו סימונס
+    hu: Menno Simons
+    id: Menno Simons
+    it: Menno Simons
+    ja: メノ・シモンズ
+    ko: 메노 시몬스
+    la: Menno Simons
+    mg: Menno Simons
+    mul: Menno Simons
+    nb: Menno Simons
+    nl: Menno Simons
+    nn: Menno Simons
+    pdc: Menno Simons
+    pl: Menno Simmons
+    pt: Menno Simons
+    pt-br: Menno Simons
+    ru: Менно Симонс
+    sq: Menno Simons
+    sr: Meno Simons
+    sv: Menno Simons
+    tr: Menno Simons
+    uk: Менно Сімонс
+    war: Menno Simons
+    yue: 門諾·西蒙斯
+    zh: 门诺·西蒙斯
+    zh-cn: 门诺·西蒙斯
+    zh-hans: 门诺·西蒙斯
+    zh-hant: 門諾·西蒙斯
+    zh-hk: 門諾·西蒙斯
+    zh-sg: 门诺·西蒙斯
+    zh-tw: 門諾·西蒙斯
 ---
-
 # [[Menno_Simons]] 
 
 #is_/same_as :: [[WD~Menno_Simons,335171]] 

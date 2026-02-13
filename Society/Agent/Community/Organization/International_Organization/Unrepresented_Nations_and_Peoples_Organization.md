@@ -1,17 +1,72 @@
 ---
-has_time_started: 1991-02-11 
+has_time_started: 1991-02-11
 aliases:
+- Bû-tāi-piáu Kok-ka kap Bîn-cho̍k Cho͘-chit
+- Edustamattomien valtioiden ja kansojen yhteisö
+- Esindamata Rahvaste Organisatsioon
+- Kowethyans Kenedhlow ha Poblow heb Kanasedhyans
+- kulupu pi kulupu pi jo ala e ken toki
+- Képviselet Nélküli Népek és Nemzetek Egyesülete
+- Mò thoi-péu koet-kâ lâu mìn-chhu̍k chû-chṳt
+- Navigatie Organisatie van Niet-Vertegenwoordigde Naties en Volkeren
+- Ordezkapenik Gabeko Nazio eta Herrien Erakundea
+- Organisasi Bangsa dan Rakyat yang Tidak Terwakili
+- Organisation des nations et des peuples non représentés
+- Organizace nezastoupených států a národů
+- Organizacija nezastopanih narodov in ljudstev
+- Organizacija nezastupljenih nacija i naroda
+- Organizacion de Nacions e Pòbles Non Representats
+- Organización de Naciones y Pueblos No Representados
+- Organización de Naciones y Pueblos Non Representaos
+- Organización de Nacións e Pobos Non Representados
+- Organizacja Narodów i Ludów Niereprezentowanych
+- Organização das Nações e Povos Não Representados
+- Organizaĵo de Nereprezentitaj Nacioj kaj Popoloj
+- Organizzazione delle nazioni e dei popoli non rappresentati
+- Pasaulinė valstybingumo siekiančių tautų organizacija
+- Rêxistina Gel û Neteweyên Bêtemsîl
+- Shirika la Mataifa na Watu Lisilo na uwakilishi
+- Temsil Edilmeyen Milletler ve Halklar Organizasyonu
+- Təmsil Olunmayan Millətlər və Xalqlar Təşkilatı
+- Tổ chức các quốc gia và dân tộc không có đại diện
+- UNPO
+- Unrepresented Nations and Peoples Organisation
+- Unrepresented Nations and Peoples Organization
+- Ururka Dawladaha aan la aqoonsan Wali
+- Οργανισμός Μη Αντιπροσωπευόμενων Eθνών και Λαών
+- Арганізацыя непрадстаўленых нацыяў і народаў
+- Вәкиллектәре булмаған милләттәр һәм халыҡтар ойошмаһы
+- Організація непредставлених націй та народів
+- Организација на непретставените нации и народи
+- Организация наций и народов, не имеющих представительства
+- Өкүлдүгү жок Улуттардын жана Калктардын Уюму
+- Ներկայացուցչություն չունեցող ազգերի կազմակերպություն
+- ארגון העמים והאומות הלא מיוצגים
+- رسمی اولونمایان میلتلر و خالقلار تشکیلاتی
+- سازمان ملتها و اقلیتهای غیررسمی
+- غیر نمائندہ اقوام اور عوامی تنظیم
+- غیر نمائندہ قوماں تے لوکاں دی تنظیم
+- غیررسمی ملتون و اقلیتون سازمان
+- منظمة الأمم والشعوب غير الممثلة
+- ۋاكالەتسىز مىللەتلار تەشكىلاتى
+- பிரதிநிதித்துவமற்ற நாடுகள் மற்றும் மக்கள் அமைப்பு
+- องค์กรแห่งชาติและประชาชนที่ไม่เป็นที่รู้จัก
+- 代表なき国家民族機構
+- 冇代表國家同民族組織
+- 无代表国家和民族组织
+- 無代表國家和民族組織
+- 비국제연합 비국가민족조직기구
 has_id_wikidata: Q215613
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
-award_received: "[[_Standards/WikiData/WD~Petra_Kelly_Preis,2080088]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_UNPO,6633604]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-country: "[[_Standards/WikiData/WD~Netherlands,55]]"
-headquarters_location: "[[_Standards/WikiData/WD~The_Hague,36600]]"
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
+award_received: '[[_Standards/WikiData/WD~Petra_Kelly_Preis,2080088]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UNPO,6633604]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+headquarters_location: '[[_Standards/WikiData/WD~The_Hague,36600]]'
 social_media_followers: 12467
 total_revenue: 232434
 Commons_category: Unrepresented Nations and Peoples Organization
@@ -20,16 +75,87 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A2nkaart%20UNPO-lidmaatskip.png
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UNPO.svg
 official_website: https://unpo.org
-ISNI: "0000000453767811"
+ISNI: 0000000453767811
 domain_name: unpo.org
 Instagram_username: unpointl
 Facebook_username: UNPOintl
 X_Twitter_username: UNPOintl
 short_name:
-  - UNPO
-  - ОНН
+- UNPO
+- ОНН
+dv_has_:
+  name_:
+    af: UNPO
+    ar: منظمة الأمم والشعوب غير الممثلة
+    ast: Organización de Naciones y Pueblos Non Representaos
+    az: Təmsil Olunmayan Millətlər və Xalqlar Təşkilatı
+    azb: رسمی اولونمایان میلتلر و خالقلار تشکیلاتی
+    ba: Вәкиллектәре булмаған милләттәр һәм халыҡтар ойошмаһы
+    be-tarask: Арганізацыя непрадстаўленых нацыяў і народаў
+    ca: UNPO
+    cs: Organizace nezastoupených států a národů
+    da: UNPO
+    de: Unrepresented Nations and Peoples Organization
+    el: Οργανισμός Μη Αντιπροσωπευόμενων Eθνών και Λαών
+    en: Unrepresented Nations and Peoples Organization
+    eo: Organizaĵo de Nereprezentitaj Nacioj kaj Popoloj
+    es: Organización de Naciones y Pueblos No Representados
+    et: Esindamata Rahvaste Organisatsioon
+    eu: Ordezkapenik Gabeko Nazio eta Herrien Erakundea
+    fa: سازمان ملتها و اقلیتهای غیررسمی
+    fi: Edustamattomien valtioiden ja kansojen yhteisö
+    fr: Organisation des nations et des peuples non représentés
+    fy: UNPO
+    gl: Organización de Nacións e Pobos Non Representados
+    hak: Mò thoi-péu koet-kâ lâu mìn-chhu̍k chû-chṳt
+    he: ארגון העמים והאומות הלא מיוצגים
+    hr: Organizacija nezastupljenih nacija i naroda
+    hu: Képviselet Nélküli Népek és Nemzetek Egyesülete
+    hy: Ներկայացուցչություն չունեցող ազգերի կազմակերպություն
+    id: Organisasi Bangsa dan Rakyat yang Tidak Terwakili
+    it: Organizzazione delle nazioni e dei popoli non rappresentati
+    ja: 代表なき国家民族機構
+    ko: 비국제연합 비국가민족조직기구
+    ku: Rêxistina Gel û Neteweyên Bêtemsîl
+    kw: Kowethyans Kenedhlow ha Poblow heb Kanasedhyans
+    ky: Өкүлдүгү жок Улуттардын жана Калктардын Уюму
+    lt: Pasaulinė valstybingumo siekiančių tautų organizacija
+    mk: Организација на непретставените нации и народи
+    mul: Unrepresented Nations and Peoples Organization
+    mzn: غیررسمی ملتون و اقلیتون سازمان
+    nan: Bû-tāi-piáu Kok-ka kap Bîn-cho̍k Cho͘-chit
+    nb: UNPO
+    nl: Navigatie Organisatie van Niet-Vertegenwoordigde Naties en Volkeren
+    oc: Organizacion de Nacions e Pòbles Non Representats
+    pam: Unrepresented Nations and Peoples Organization
+    pl: Organizacja Narodów i Ludów Niereprezentowanych
+    pnb: غیر نمائندہ قوماں تے لوکاں دی تنظیم
+    pt: Organização das Nações e Povos Não Representados
+    ru: Организация наций и народов, не имеющих представительства
+    sl: Organizacija nezastopanih narodov in ljudstev
+    so: Ururka Dawladaha aan la aqoonsan Wali
+    sr: Organizacija nezastupljenih nacija i naroda
+    sv: Unrepresented Nations and Peoples Organisation
+    sw: Shirika la Mataifa na Watu Lisilo na uwakilishi
+    ta: பிரதிநிதித்துவமற்ற நாடுகள் மற்றும் மக்கள் அமைப்பு
+    th: องค์กรแห่งชาติและประชาชนที่ไม่เป็นที่รู้จัก
+    tok: kulupu pi kulupu pi jo ala e ken toki
+    tr: Temsil Edilmeyen Milletler ve Halklar Organizasyonu
+    ug: ۋاكالەتسىز مىللەتلار تەشكىلاتى
+    uk: Організація непредставлених націй та народів
+    ur: غیر نمائندہ اقوام اور عوامی تنظیم
+    vi: Tổ chức các quốc gia và dân tộc không có đại diện
+    yue: 冇代表國家同民族組織
+    zh: 無代表國家和民族組織
+    zh-cn: 无代表国家和民族组织
+    zh-hans: 无代表国家和民族组织
+    zh-hant: 無代表國家和民族組織
+    zh-hk: 無代表國家和民族組織
+    zh-mo: 無代表國家和民族組織
+    zh-my: 无代表国家和民族组织
+    zh-sg: 无代表国家和民族组织
+    zh-tw: 無代表國家和民族組織
 ---
-
 # [[Unrepresented_Nations_and_Peoples_Organization]] 
 
 #is_/same_as :: [[WD~Unrepresented_Nations_and_Peoples_Organization,215613]] 

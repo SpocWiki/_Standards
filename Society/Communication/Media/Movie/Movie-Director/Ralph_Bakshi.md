@@ -1,8 +1,77 @@
 ---
 has_id_wikidata: Q315441
+dv_has_:
+  name_:
+    ar: رالف باكشي
+    ary: رالف باكشي
+    arz: رالف باكشى
+    ast: Ralph Bakshi
+    az: Ralf Bakşi
+    bar: Ralph Bakshi
+    be: Ральф Бакшы
+    be-tarask: Ральф Бакшы
+    bg: Ралф Бакши
+    ca: Ralph Bakshi
+    ckb: ڕالف بەکشی
+    cs: Ralph Bakshi
+    cy: Ralph Bakshi
+    da: Ralph Bakshi
+    de: Ralph Bakshi
+    en: Ralph Bakshi
+    es: Ralph Bakshi
+    eu: Ralph Bakshi
+    fa: رالف بکشی
+    fi: Ralph Bakshi
+    fr: Ralph Bakshi
+    ga: Ralph Bakshi
+    gl: Ralph Bakshi
+    he: רלף בקשי
+    hu: Ralph Bakshi
+    hy: Ռալֆ Բակշի
+    it: Ralph Bakshi
+    ja: ラルフ・バクシ
+    ko: 랠프 박시
+    mg: Ralph Bakshi
+    nb: Ralph Bakshi
+    nl: Ralph Bakshi
+    nn: Ralph Bakshi
+    pap: Ralph Bakshi
+    pl: Ralph Bakshi
+    pt: Ralph Bakshi
+    pt-br: Ralph Bakshi
+    ro: Ralph Bakshi
+    ru: Ральф Бакши
+    sl: Ralph Bakshi
+    sq: Ralph Bakshi
+    sr: Ралф Бакши
+    sv: Ralph Bakshi
+    tr: Ralph Bakshi
+    uk: Ральф Бакши
+    yo: Ralph Bakshi
+    zh: 拉爾夫·巴克希
+    zh-cn: 拉尔夫·巴克希
+    zh-hans: 拉尔夫·巴克希
+    zh-hant: 拉爾夫·巴克希
+    zh-hk: 拉爾夫·巴克希
+    zh-sg: 拉尔夫·巴克希
+    zh-tw: 拉爾夫·巴克希
+aliases:
+- Ralf Bakşi
+- Ralph Bakshi
+- Ралф Бакши
+- Ральф Бакши
+- Ральф Бакшы
+- Ռալֆ Բակշի
+- רלף בקשי
+- رالف باكشى
+- رالف باكشي
+- رالف بکشی
+- ڕالف بەکشی
+- ラルフ・バクシ
+- 拉尔夫·巴克希
+- 拉爾夫·巴克希
+- 랠프 박시
 ---
-
-
 # [[Ralph_Bakshi]] 
 
 > Ralph Bakshi (born 1938-10-29) is an American animator, filmmaker and painter. In the 1970s, he established an alternative to mainstream animation through independent and adult-oriented productions. 

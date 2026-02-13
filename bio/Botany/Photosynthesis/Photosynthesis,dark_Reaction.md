@@ -1,18 +1,49 @@
 ---
 aliases:
-  - Calvin cycle
-  - light-independent reactions
-  - bio synthetic phase
-  - dark reactions
-  - photosynthetic carbon reduction
+- bio synthetic phase
+- Calvin cycle
+- dark reactions
+- Dunkelreaktion
+- fase escura
+- fase oscura
+- ffotosynthesis, adwaith tywyllwch
+- ilunpeko fase
+- Karanlık devre reaksiyonları
+- karlêkên neronahiyê
+- Kitaran Calvin
+- light-independent reactions
+- photosynthesis, dark reaction
+- photosynthetic carbon reduction
+- Senluma reakcio
+- temotna reakcija
+- темновая фаза
+- تفاعل غير معتمد على الضوء
+- 暗反应
+- 암반응
 has_id_wikidata: Q22283112
-follows: "[[_Standards/WikiData/WD~light_dependent_reactions,862876]]"
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-subclass_of: "[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]"
-part_of: "[[_Standards/WikiData/WD~photosynthesis,11982]]"
+follows: '[[_Standards/WikiData/WD~light_dependent_reactions,862876]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+subclass_of: '[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]'
+part_of: '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 exact_match: http://purl.obolibrary.org/obo/GO_0019685
+dv_has_:
+  name_:
+    ar: تفاعل غير معتمد على الضوء
+    cy: ffotosynthesis, adwaith tywyllwch
+    de: Dunkelreaktion
+    en: photosynthesis, dark reaction
+    eo: Senluma reakcio
+    es: fase oscura
+    eu: ilunpeko fase
+    gl: fase escura
+    ko: 암반응
+    ku-latn: karlêkên neronahiyê
+    ms: Kitaran Calvin
+    ru: темновая фаза
+    sl: temotna reakcija
+    tr: Karanlık devre reaksiyonları
+    zh: 暗反应
 ---
-
 # [[Photosynthesis,dark_Reaction]]  
 
 #is_/same_as :: [[WD~photosynthesis,_dark_reaction,22283112]]  

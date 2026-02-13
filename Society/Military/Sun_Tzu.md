@@ -1,10 +1,56 @@
 ---
 aliases:
-  - Sun Tzu
-  - 孫子
-  - 孙子
-  - Sūnzǐ
-  - Sun_Tzu
+- jan Sunsu
+- Son Dzė
+- Sun Cu
+- Sun Dzi
+- Sun Dzı
+- Sun Tzu
+- Sun Zi
+- Sun-c'
+- Sun-chú
+- Sun-c’
+- Suncius
+- Sunszi
+- Sunzi
+- Sun_Tzu
+- Suņdzi
+- Szun-ce
+- Sûn-chṳ́
+- Sŏng-cṳ̄
+- Sūnzǐ
+- Tôn Vũ
+- Σουν Τσου
+- Сун Дзъ
+- Сун Цу
+- Сун-цу
+- Сунь Цзы
+- Сунь-цзи
+- Сунь-цзы
+- Сұн Зы
+- Սուն Ցզի
+- סון דזה
+- سون تزو
+- سون تسو
+- سون تسی
+- سوون تزو
+- सन जु
+- स्वन वू
+- সুন সু
+- ਸਨ ਜੁ
+- சுன் சூ
+- సన్-జు
+- സൺ ത്സൂ
+- ซุนวู
+- ဆွန်ဇူး
+- သုန်သူ
+- სუნ ძი
+- ሱውን ጽዝዕ
+- 孙子
+- 孙武
+- 孫子
+- 孫武
+- 손무
 has_id_wikidata: Q37151
 Europeana_entity: agent/base/60499
 Krugosvet_article_archived_: istoriya/SUN-TSZI.html
@@ -12,29 +58,29 @@ Libris_URI: vs689qhd28jwrk3
 birth_name: 孫武
 date_of_birth: -0543-01-01T00:00:00Z
 military_or_police_rank:
-  - '[[_Standards/WikiData/WD~army_general,160910]]'
-  - '[[_Standards/WikiData/WD~military_leader,1402561]]'
+- '[[_Standards/WikiData/WD~army_general,160910]]'
+- '[[_Standards/WikiData/WD~military_leader,1402561]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~military_strategy,219087]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~military_strategy,219087]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 relative: '[[_Standards/WikiData/WD~Sun_Jian,334101]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Qi,837855]]'
-  - '[[_Standards/WikiData/WD~Wu,912068]]'
+- '[[_Standards/WikiData/WD~Qi,837855]]'
+- '[[_Standards/WikiData/WD~Wu,912068]]'
 place_of_birth: '[[_Standards/WikiData/WD~Qi,837855]]'
 allegiance: '[[_Standards/WikiData/WD~Wu,912068]]'
 commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Wu,912068]]'
 different_from: '[[_Standards/WikiData/WD~Sun_Tzu,2634383]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Sun,3543591]]'
-  - '[[_Standards/WikiData/WD~Gui,10943080]]'
+- '[[_Standards/WikiData/WD~Sun,3543591]]'
+- '[[_Standards/WikiData/WD~Gui,10943080]]'
 occupation:
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 father: '[[_Standards/WikiData/WD~Sun_Ping,10944647]]'
 place_of_death: '[[_Standards/WikiData/WD~Gusu,13814628]]'
@@ -42,8 +88,8 @@ copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_hav
 given_name: '[[_Standards/WikiData/WD~Wu,97653045]]'
 child: '[[_Standards/WikiData/WD~Sun_Ming_Zi,108784537]]'
 date_of_death:
-  - -0469-01-01T00:00:00Z
-  - -0495-01-01T00:00:00Z
+- -0469-01-01T00:00:00Z
+- -0495-01-01T00:00:00Z
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Chinese,7850]]'
 notable_work: '[[_Standards/WikiData/WD~The_Art_of_War,8251]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -54,10 +100,130 @@ Commons_category: Sun Tzu
 Commons_Creator_page: Sun Tzu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg
 ISNI:
-  - 0000000419909388
-  - 0000000453836557
+- 0000000419909388
+- 0000000453836557
+dv_has_:
+  name_:
+    af: Sunzi
+    am: ሱውን ጽዝዕ
+    an: Sun Tzu
+    ar: سون تزو
+    ary: سون تزو
+    arz: سون تسو
+    ast: Sun Tzu
+    az: Sun Dzı
+    azb: سون تسی
+    ba: Сунь Цзы
+    ban: Sun Tzu
+    bar: Sun Tzu
+    bcl: Sun Tzu
+    be: Сунь Цзы
+    be-tarask: Сунь Цзы
+    bg: Сун Дзъ
+    bn: সুন সু
+    br: Sun Tzu
+    bs: Sun Tzu
+    ca: Sunzi
+    cdo: Sŏng-cṳ̄
+    ckb: سوون تزو
+    cs: Sun-c'
+    cy: Sun Tzu
+    da: Sun Tzu
+    de: Sunzi
+    diq: Sun Tzu
+    el: Σουν Τσου
+    en: Sun Tzu
+    en-us: Sun Tzu
+    eo: Sun Tzu
+    es: Sun Tzu
+    es-419: Sun Tzu
+    et: Sunzi
+    eu: Sun Tzu
+    fa: سون تسی
+    fi: Sunzi
+    fo: Sun Tzu
+    fr: Sun Tzu
+    fy: Sun Tzu
+    ga: Sun Tzu
+    gl: Sun Tzu
+    hak: Sûn-chṳ́
+    he: סון דזה
+    hi: स्वन वू
+    hr: Sun Cu
+    hu: Szun-ce
+    hy: Սուն Ցզի
+    id: Sun Tzu
+    io: Sun Zi
+    is: Sun Tzu
+    it: Sun Tzu
+    ja: 孫武
+    jv: Sun Tzu
+    ka: სუნ ძი
+    kk: Сұн Зы
+    ko: 손무
+    ku: Sun Tzu
+    kw: Sun Tzu
+    la: Suncius
+    lad: Sun Tzu
+    lb: Sun Tzu
+    lfn: Sun Zi
+    li: Sun Tzu
+    lmo: Sun Tzu
+    lt: Sun Dzi
+    lv: Suņdzi
+    lzh: 孫武
+    mad: Sun Tzu
+    map-bms: Sun Zi
+    mg: Sun Tzu
+    mk: Сун-цу
+    ml: സൺ ത്സൂ
+    mn: Сунь-цзы
+    mnw: သုန်သူ
+    ms: Sun Tzu
+    mwl: Sun Tzu
+    my: ဆွန်ဇူး
+    myv: Сунь-цзы
+    nan: Sun-chú
+    nb: Sunzi
+    nds-nl: Sun Tzu
+    ne: सन जु
+    nl: Sunzi
+    nn: Sunzi
+    oc: Sun Tzu
+    pa: ਸਨ ਜੁ
+    pl: Sun Zi
+    pms: Sun Zi
+    ps: سون تزو
+    pt: Sun Tzu
+    ro: Sun Tzu
+    ru: Сунь-цзы
+    sco: Sun Tzu
+    sgs: Son Dzė
+    sh: Sun Tzu
+    sk: Sun-c’
+    sl: Sun Cu
+    sq: Sun Tzu
+    sr: Сун Цу
+    sr-ec: Сун Цу
+    sv: Sun Zi
+    sw: Sun Tzu
+    ta: சுன் சூ
+    te: సన్-జు
+    th: ซุนวู
+    tl: Sun Tzu
+    tok: jan Sunsu
+    tr: Sun Tzu
+    uk: Сунь-цзи
+    uz: Sunszi
+    vi: Tôn Vũ
+    wa: Sun Zi
+    war: Sun Tzu
+    wuu: 孙武
+    xmf: სუნ ძი
+    yue: 孫武
+    zh: 孙武
+    zh-tw: 孫武
 ---
-
 # [[Sun_Tzu]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sun_Tzu,37151|WD~Sun_Tzu,37151]]  

@@ -1,8 +1,126 @@
 ---
 aliases:
-  - Entoprocta
+- begermakkar
+- begerormer
+- bägardjur
+- Chʼosh bitsiiní
+- Endoproctos
+- Entoprocta
+- Entoprocte
+- Entoprocto
+- Entoprokti
+- Kadehimsi solucanlar
+- Kamptozoa
+- Kamptozoylar
+- Kelchwürmer
+- Kelkwormen
+- Kelkwörm
+- Kielichowate
+- kinyama-kidoto
+- Kummarloomad
+- Mananap nga tasa
+- Mechovnatci
+- nyelesférgek
+- Pamachovky
+- pikarimadot
+- Sonboşluqlar
+- Stilkormar
+- čaškarji
+- внутрішньопорошицеві
+- внутрипорошицевые
+- ентопрокти
+- Ийилгичтер, камптозоа
+- унутрыпарашыцавыя
+- אנטופרוקטה
+- داخليات الشرج
+- درونمورزیان
+- ಎಂಟೊಪ್ರಾಕ್ಟ
+- 內肛動物
+- 內肛動物門
+- 内肛动物门
+- 内肛動物
+- 내항동물
 title: Entoprocta
 has_id_wikidata: Q208580
+dv_has_:
+  name_:
+    an: Entoprocta
+    ar: داخليات الشرج
+    arz: داخليات الشرج
+    ast: Entoprocta
+    az: Sonboşluqlar
+    be-tarask: унутрыпарашыцавыя
+    bg: ентопрокти
+    bs: Entoprocta
+    ca: Entoprocte
+    ceb: Mananap nga tasa
+    cs: Mechovnatci
+    de: Kelchwürmer
+    en: Entoprocta
+    eo: Entoprocta
+    es: Entoprocta
+    et: Kummarloomad
+    eu: Entoprocta
+    ext: Entoprocta
+    fa: درونمورزیان
+    fi: pikarimadot
+    fr: Entoprocta
+    frr: Entoprocta
+    ga: Entoprocta
+    gl: Endoproctos
+    he: אנטופרוקטה
+    hr: Entoprocta
+    hu: nyelesférgek
+    ia: Entoprocta
+    id: Entoprocta
+    ie: Entoprocta
+    io: Entoprocta
+    is: Stilkormar
+    it: Entoprocta
+    ja: 内肛動物
+    kn: ಎಂಟೊಪ್ರಾಕ್ಟ
+    ko: 내항동물
+    ky: Ийилгичтер, камптозоа
+    la: Entoprocta
+    lfn: Entoprocto
+    li: Kelkwörm
+    lv: Entoprokti
+    mul: Entoprocta
+    nb: begerormer
+    nl: Kelkwormen
+    nn: begermakkar
+    nv: Chʼosh bitsiiní
+    oc: Entoprocta
+    pl: Kielichowate
+    pt: Entoprocta
+    pt-br: Entoprocta
+    ro: Entoprocta
+    ru: внутрипорошицевые
+    sk: Pamachovky
+    sl: čaškarji
+    sq: Entoprocta
+    sr: Entoprocta
+    sr-ec: Entoprocta
+    sr-el: Entoprocta
+    sv: bägardjur
+    sw: kinyama-kidoto
+    th: Entoprocta
+    tl: Entoprocta
+    tr: Kadehimsi solucanlar
+    uk: внутрішньопорошицеві
+    uz: Kamptozoylar
+    vi: Entoprocta
+    vo: Entoprocta
+    war: Kamptozoa
+    wuu: 内肛动物门
+    yue: 內肛動物
+    zh: 内肛动物门
+    zh-cn: 内肛动物门
+    zh-hans: 内肛动物门
+    zh-hant: 內肛動物門
+    zh-hk: 內肛動物門
+    zh-sg: 内肛动物门
+    zh-tw: 內肛動物門
 ---
 # [[Entoprocta]]
 

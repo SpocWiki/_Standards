@@ -1,25 +1,137 @@
 ---
 aliases:
-  - Roman Art
-  - Roman_Art
+- antik Roma sanatı
+- Antzinako Erromako artea
+- Ars Romana
+- art de la Rome antique
+- art romà
+- Arta romană
+- arte da Roma Antiga
+- Arte roman
+- arte romana
+- arte romano
+- Arte romanu
+- Arti i lashtë romak
+- Ealaín na Róimhe
+- rimska umetnost
+- rimska umjetnost
+- Roman Art
+- Romanik
+- Romanong sining
+- Roman_Art
+- Romeinse kuns
+- Romeinse kunst
+- romersk konst
+- romersk kunst
+- Romia arto
+- Rooman valtakunnan taide
+- Rímske umenie
+- római művészet
+- Römische Kunst
+- Seni Romawi
+- Senovės Romos menas
+- sztuka starożytnego Rzymu
+- umjetnost starog Rima
+- římské antické umění
+- Ρωμαϊκή τέχνη
+- древнеримское искусство
+- Ежелгі Рим өнері
+- Мастацтва Старажытнага Рыма
+- мистецтво Давнього Риму
+- римска уметност
+- Римско изкуство
+- Հռոմեական արվեստ
+- אמנות רומית
+- فن رومانى
+- فن روماني
+- هنر رومی
+- रोम की प्राचीन कलायें
+- रोमन कला
+- রোমান শিল্প
+- ெராமன் கலை
+- ศิลปะโรมันโบราณ
+- რომაული ხელოვნება
+- ローマ美術
+- 古羅馬藝術
+- 로마 미술
 has_id_wikidata: Q3354732
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 part_of:
-  - '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]'
-  - '[[_Standards/WikiData/WD~classical_arts_and_culture,12776671]]'
+- '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]'
+- '[[_Standards/WikiData/WD~classical_arts_and_culture,12776671]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~ancient_art,2277510]]'
-  - '[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]'
+- '[[_Standards/WikiData/WD~ancient_art,2277510]]'
+- '[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]'
 has_list: '[[_Standards/WikiData/WD~chronological_list_of_Ancient_Roman_art,4501742]]'
 instance_of: '[[_Standards/WikiData/WD~art_of_an_area,25679497]]'
 Commons_category: Ancient Roman art
+dv_has_:
+  name_:
+    af: Romeinse kuns
+    ar: فن روماني
+    arz: فن رومانى
+    ast: Arte romanu
+    be: Мастацтва Старажытнага Рыма
+    bg: Римско изкуство
+    bn: রোমান শিল্প
+    ca: art romà
+    cs: římské antické umění
+    de: Römische Kunst
+    de-ch: Römische Kunst
+    el: Ρωμαϊκή τέχνη
+    en: Roman art
+    en-ca: Roman art
+    en-gb: Roman art
+    eo: Romia arto
+    es: arte romano
+    eu: Antzinako Erromako artea
+    fa: هنر رومی
+    fi: Rooman valtakunnan taide
+    fr: art de la Rome antique
+    ga: Ealaín na Róimhe
+    gl: arte da Roma Antiga
+    he: אמנות רומית
+    hi: रोम की प्राचीन कलायें
+    hr: umjetnost starog Rima
+    hu: római művészet
+    hy: Հռոմեական արվեստ
+    id: Seni Romawi
+    it: arte romana
+    ja: ローマ美術
+    ka: რომაული ხელოვნება
+    kk: Ежелгі Рим өнері
+    ko: 로마 미술
+    la: Ars Romana
+    lb: Romanik
+    lfn: Arte roman
+    lt: Senovės Romos menas
+    mk: римска уметност
+    nb: romersk kunst
+    new: रोमन कला
+    nl: Romeinse kunst
+    pl: sztuka starożytnego Rzymu
+    pt: Arte da Roma Antiga
+    pt-br: Arte da Roma Antiga
+    ro: Arta romană
+    ru: древнеримское искусство
+    sh: rimska umjetnost
+    sk: Rímske umenie
+    sl: rimska umetnost
+    sq: Arti i lashtë romak
+    sr: Римска уметност
+    sv: romersk konst
+    ta: ெராமன் கலை
+    th: ศิลปะโรมันโบราณ
+    tl: Romanong sining
+    tr: antik Roma sanatı
+    uk: мистецтво Давнього Риму
+    zh: 古羅馬藝術
 ---
-
 # [[Roman_Art]] 
 
 #is_/same_as :: [[wd~Roman_Art,3354732]]

@@ -1,8 +1,130 @@
 ---
 has_id_wikidata: Q180126
+dv_has_:
+  name_:
+    ar: هاوتزر
+    ast: Obús
+    az: Haubitsa
+    be: Гаўбіца
+    be-tarask: гаўбіца
+    bg: Гаубица
+    ca: canó obús
+    ckb: ھاوتزەر
+    cs: houfnice
+    cv: Гаубица
+    da: Haubits
+    de: Haubitze
+    el: Οβιδοβόλο
+    en: howitzer
+    eo: haŭbizo
+    es: obús
+    et: Haubits
+    eu: Obus
+    fa: هویتزر
+    fi: haupitsi
+    fr: obusier
+    ga: habhatsar
+    he: הוביצר
+    hr: Haubica
+    hu: tarack
+    hy: Հաուբից
+    id: howitzer
+    io: Obus-kanono
+    it: obice
+    ja: 榴弾砲
+    ka: ჰაუბიცა
+    ko: 곡사포
+    ky: Гаубица
+    li: Houwitser
+    lt: Haubica
+    lv: Haubice
+    mk: хаубица
+    ms: Meriam katak
+    nb: haubits
+    ne: होइट्जर
+    nl: houwitser
+    nn: haubits
+    oc: Obusièr
+    pl: haubica
+    pms: Obusié
+    pt: obus
+    pt-br: obus
+    ro: Obuzier
+    ru: гаубица
+    sh: Haubica
+    sk: Húfnica
+    sl: havbica
+    sq: Obusi
+    sr: хаубица
+    sr-ec: хаубица
+    sr-el: haubica
+    sv: haubits
+    ta: தெறோச்சி
+    tg: Гаубитса
+    tr: obüs
+    tyv: Гаубица
+    uk: гаубиця
+    uz: Gaubitsa
+    vi: Lựu pháo
+    wuu: 榴弹炮
+    yue: 榴彈炮
+    zh: 榴弹炮
+    zh-cn: 榴弹炮
+    zh-hans: 榴弹炮
+    zh-hant: 榴彈炮
+    zh-hk: 榴彈炮
+    zh-sg: 榴弹炮
+    zh-tw: 榴彈炮
+    zu: Isingquphuza
+aliases:
+- canó obús
+- Gaubitsa
+- habhatsar
+- haubica
+- Haubice
+- haubits
+- Haubitsa
+- Haubitze
+- haupitsi
+- havbica
+- haŭbizo
+- houfnice
+- Houwitser
+- howitzer
+- Húfnica
+- Isingquphuza
+- Lựu pháo
+- Meriam katak
+- obice
+- Obus
+- Obus-kanono
+- Obusi
+- obusier
+- Obusièr
+- Obusié
+- Obuzier
+- Obús
+- obüs
+- tarack
+- Οβιδοβόλο
+- Гаўбіца
+- Гаубитса
+- гаубица
+- гаубиця
+- хаубица
+- Հաուբից
+- הוביצר
+- هاوتزر
+- هویتزر
+- ھاوتزەر
+- होइट्जर
+- தெறோச்சி
+- ჰაუბიცა
+- 榴弹炮
+- 榴弾砲
+- 榴彈炮
+- 곡사포
 ---
-
-
 # [[Howitzer]] 
 
 #is_/same_as :: [[WD~Howitzer,180126]] 

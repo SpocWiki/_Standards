@@ -1,8 +1,186 @@
 ---
 has_id_wikidata: Q123432
+dv_has_:
+  name_:
+    af: aristokrasie
+    an: Aristocracia
+    ar: أرستقراطية
+    arz: اريستقراطيه
+    ast: Aristocracia
+    az: Aristokratiya
+    azb: آریستوْکراتییا
+    be: арыстакратыя
+    be-tarask: арыстакратыя
+    bg: Аристокрация
+    bn: আভিজাত্য
+    bs: Aristokratija
+    bxr: Аристократи
+    ca: aristocràcia
+    ce: Аристократи
+    ckb: ئەرستۆکراسی
+    co: aristucrazia
+    cs: aristokracie
+    cy: Aristocratiaeth
+    da: Aristokrati
+    de: Aristokratie
+    el: Αριστοκρατία
+    en: aristocracy
+    eo: aristokratio
+    es: aristocracia
+    et: aristokraatia
+    eu: Aristokrazia
+    fa: آریستوکراسی
+    fi: aristokratia
+    fr: aristocratie
+    fy: Aristokrasy
+    ga: uaslathas
+    gl: aristocracia
+    grc: Ἀριστοκρατία
+    gsw: Aristokratie
+    he: אריסטוקרטיה
+    hi: अभिजाततंत्र
+    hr: Aristokracija
+    hu: arisztokrácia
+    hy: արիստոկրատիա
+    id: Aristokrasi
+    io: Aristokratismo
+    is: Aðalsveldi
+    it: aristocrazia
+    ja: 貴族制
+    ka: არისტოკრატია
+    kk: Аристократия
+    ko: 귀족제
+    krc: аристократия
+    ku: Arîstokrasî
+    ku-arab: ئاریستۆکراسی
+    ku-latn: Arîstokrasî
+    ky: Аристократия
+    la: Aristocratia
+    lt: aristokratija
+    lv: aristokrātija
+    mg: Aristôkrasia
+    mk: Аристократија
+    ml: അഭിജാതാധിപത്യം
+    ms: aristokrasi
+    ms-arab: اريستوکراسي
+    nb: aristokrati
+    ne: अभिजाततन्त्र
+    nl: aristocratie
+    nn: aristokrati
+    oc: aristocracia
+    os: аристократи
+    pa: ਕੁਲੀਨਰਾਜ
+    pl: arystokracja
+    ps: ارستوکراسي
+    pt: aristocracia
+    qu: Riqsisqa kallpay
+    ro: aristocrație
+    ru: аристократия
+    sc: aristocratzia
+    scn: Aristucrazzìa
+    se: aristokratiija
+    sh: Aristokracija
+    sl: aristokracija
+    sma: aristokratije
+    smj: aristokratija
+    smn: aristokratia
+    sms: aristokratia
+    sq: Aristokracia
+    sr: аристократија
+    sr-ec: Аристократија
+    sr-el: Aristokratija
+    su: Aristokrasi
+    sv: aristokrati
+    tg: нухбасолорӣ
+    th: อภิชนาธิปไตย
+    tl: Aristokrasya
+    tr: Aristokrasi
+    udm: аристократия
+    uk: аристократія
+    uz: Aristokratiya
+    vec: aristocrasia
+    vi: chế độ quý tộc
+    wuu: 贵族政治
+    xmf: არისტოკრატია
+    yue: 貴族制
+    zh: 贵族制
+    zh-cn: 贵族制
+    zh-hans: 贵族制
+    zh-hant: 貴族制
+    zh-hk: 貴族制
+    zh-sg: 贵族制
+    zh-tw: 貴族制
+aliases:
+- aristocracia
+- aristocracy
+- aristocrasia
+- Aristocratia
+- Aristocratiaeth
+- aristocratie
+- aristocratzia
+- aristocrazia
+- aristocrație
+- aristocràcia
+- aristokraatia
+- Aristokracia
+- aristokracie
+- Aristokracija
+- Aristokrasi
+- aristokrasie
+- Aristokrasy
+- Aristokrasya
+- aristokrati
+- aristokratia
+- Aristokratie
+- aristokratiija
+- Aristokratija
+- aristokratije
+- aristokratio
+- Aristokratismo
+- Aristokratiya
+- Aristokrazia
+- aristokrātija
+- aristucrazia
+- Aristucrazzìa
+- Aristôkrasia
+- arisztokrácia
+- arystokracja
+- Arîstokrasî
+- Aðalsveldi
+- chế độ quý tộc
+- Riqsisqa kallpay
+- uaslathas
+- Αριστοκρατία
+- аристократія
+- Аристократи
+- Аристократија
+- аристократия
+- Аристокрация
+- арыстакратыя
+- нухбасолорӣ
+- արիստոկրատիա
+- אריסטוקרטיה
+- آریستوْکراتییا
+- آریستوکراسی
+- أرستقراطية
+- ئاریستۆکراسی
+- ئەرستۆکراسی
+- ارستوکراسي
+- اريستقراطيه
+- اريستوکراسي
+- अभिजाततंत्र
+- अभिजाततन्त्र
+- আভিজাত্য
+- ਕੁਲੀਨਰਾਜ
+- അഭിജാതാധിപത്യം
+- อภิชนาธิปไตย
+- არისტოკრატია
+- Ἀριστοκρατία
+- 貴族制
+- 贵族制
+- 贵族政治
+- 귀족제
 ---
-
-
 # [[Aristocracy]] 
 
 ## #has_/text_of_/abstract 

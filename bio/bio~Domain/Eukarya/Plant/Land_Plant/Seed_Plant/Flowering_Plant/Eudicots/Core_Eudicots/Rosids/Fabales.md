@@ -1,7 +1,45 @@
 ---
 aliases:
-  - Fabales
-  - 豆目
+- Belgjurtabálkur
+- Bobolike
+- bobotvaré
+- bobowce
+- bôbotvaré
+- Bộ Đậu
+- erteblomordenen
+- erteblomstordenen
+- Fabales
+- Fabales (plantae)
+- Fabaloj
+- Fabals
+- Flenerkbloosen
+- hüvelyesek
+- Koma baqilan
+- Oalaadsed
+- Paxlaçiçəklilər
+- pupiečiai
+- Pākšaugu rinda
+- Schmetterlingsblütenartige
+- stročnice
+- Tanom nga sitaw
+- Ærteblomstordenen
+- Κυαμώδη
+- бабовакветныя
+- Бобовидни
+- бобовоцвіті
+- бобовоцветни
+- бобовоцветные
+- բակլածաղկավորներ
+- קטניתאים
+- باقلاسانان
+- فوليات
+- ఫాబేలిస్
+- ഫാബേൽസ്
+- อันดับถั่ว
+- პოპოქიშნერეფი
+- マメ目
+- 豆目
+- 콩목
 has_id_wikidata: Q21878
 title: Fabales
 parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
@@ -10,16 +48,104 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 358691
 ITIS_TSN: 500022
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Polygala%20senega%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-247.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Senna%20occidentalis%28Flower%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Polygala%20senega%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-247.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Senna%20occidentalis%28Flower%29.jpg
 EPPO_Code: 1FABO
 Commons_category: Fabales
 taxon_name: Fabales
 NBN_System_Key: NHMSYS0000066094
 taxon_common_name: 豆目
+dv_has_:
+  name_:
+    af: Fabales
+    an: Fabales
+    ar: فوليات
+    arz: فوليات
+    ast: Fabales
+    az: Paxlaçiçəklilər
+    be: бабовакветныя
+    be-tarask: бабовакветныя
+    bg: бобовоцветни
+    bs: Fabales
+    ca: Fabals
+    ceb: Tanom nga sitaw
+    cs: bobotvaré
+    da: Ærteblomstordenen
+    de: Schmetterlingsblütenartige
+    el: Κυαμώδη
+    en: Fabales
+    en-ca: Fabales
+    en-gb: Fabales
+    eo: Fabaloj
+    es: Fabales
+    et: Oalaadsed
+    eu: Fabales
+    ext: Fabales
+    fa: باقلاسانان
+    fi: Fabales
+    fr: Fabales
+    frr: Flenerkbloosen
+    ga: Fabales
+    gl: Fabales
+    he: קטניתאים
+    hr: Bobolike
+    hu: hüvelyesek
+    hy: բակլածաղկավորներ
+    ia: Fabales
+    id: Fabales
+    ie: Fabales
+    ilo: Fabales
+    io: Fabales
+    is: Belgjurtabálkur
+    it: Fabales
+    ja: マメ目
+    jv: Fabales
+    ko: 콩목
+    ku: Koma baqilan
+    la: Fabales
+    lb: Fabales
+    lt: pupiečiai
+    lv: Pākšaugu rinda
+    mk: Бобовидни
+    ml: ഫാബേൽസ്
+    ms: Fabales
+    mul: Fabales
+    nb: erteblomstordenen
+    nl: Fabales
+    nn: erteblomordenen
+    oc: Fabales
+    pl: bobowce
+    pt: Fabales
+    pt-br: Fabales
+    ro: Fabales
+    ru: бобовоцветные
+    sco: Fabales
+    sh: Fabales
+    sk: bôbotvaré
+    sl: stročnice
+    sq: Fabales
+    sr: Fabales
+    su: Fabales
+    sv: Fabales
+    te: ఫాబేలిస్
+    th: อันดับถั่ว
+    tl: Fabales
+    tr: Fabales
+    uk: бобовоцвіті
+    vi: Bộ Đậu
+    vls: Fabales
+    vo: Fabales
+    war: Fabales (plantae)
+    wuu: 豆目
+    xmf: პოპოქიშნერეფი
+    yue: 豆目
+    zh: 豆目
+    zh-cn: 豆目
+    zh-hans: 豆目
+    zh-hant: 豆目
+    zh-tw: 豆目
 ---
-
 # [[Fabales]] 
 
 ![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg)  ![Securidaca](Fabales/Securidaca_diversifolia.jpg)  ![Quillaja saponaria](Fabales/Quillaja_saponaria.jpg)  ![Suriana_maritima](Fabales/Suriana_maritima.jpg) 

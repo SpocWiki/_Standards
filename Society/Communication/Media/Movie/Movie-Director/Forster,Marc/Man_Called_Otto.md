@@ -1,9 +1,78 @@
 ---
 aliases:
-  - A Man Called Otto
-  - Man_Called_Otto
-  - Man Called Otto
+- A Man Called Otto
+- Az ember, akit Ottónak hívnak
+- Ein Mann namens Otto
+- Gyveno kartą Oto
+- Hayata Röveşata Çeken Adam
+- Le Pire voisin au monde
+- Man Called Otto
+- Man_Called_Otto
+- Mees nimega Otto
+- Muž jménem Otto
+- Mężczyzna imieniem Otto
+- Non così vicino
+- Vīrs, vārdā Oto
+- Ένας άνθρωπος που τον έλεγαν Ότο
+- Человек по имени Отто
+- Човек на име Ото
+- Човек по имену Ото
+- Човекот по име Ото
+- Чоловік на ім'я Отто
+- Իմ ահավոր հարևանը
+- איש ושמו אוטו
+- رجل اسمه أوتو
+- مردی به نام اتو
+- پیاوێک بە ناوی ئۆتۆ
+- ਏ ਮੈਨ ਕਾਲਡ ਓਟੋ
+- オットーという男
+- 超难搞先生
+- 超難搞先生
+- 隱閉中年
+- 오토라는 남자
 has_id_wikidata: Q111608782
+dv_has_:
+  name_:
+    ar: رجل اسمه أوتو
+    bg: Човек на име Ото
+    ckb: پیاوێک بە ناوی ئۆتۆ
+    cs: Muž jménem Otto
+    da: A Man Called Otto
+    de: Ein Mann namens Otto
+    el: Ένας άνθρωπος που τον έλεγαν Ότο
+    en: A Man Called Otto
+    es: A Man Called Otto
+    et: Mees nimega Otto
+    fa: مردی به نام اتو
+    fi: A Man Called Otto
+    fr: Le Pire voisin au monde
+    gl: A Man Called Otto
+    he: איש ושמו אוטו
+    hu: Az ember, akit Ottónak hívnak
+    hy: Իմ ահավոր հարևանը
+    id: A Man Called Otto
+    it: Non così vicino
+    ja: オットーという男
+    ko: 오토라는 남자
+    lt: Gyveno kartą Oto
+    lv: Vīrs, vārdā Oto
+    mk: Човекот по име Ото
+    mul: A Man Called Otto
+    nl: A Man Called Otto
+    pa: ਏ ਮੈਨ ਕਾਲਡ ਓਟੋ
+    pl: Mężczyzna imieniem Otto
+    pt: A Man Called Otto
+    ru: Человек по имени Отто
+    sr: Човек по имену Ото
+    sv: A Man Called Otto
+    tr: Hayata Röveşata Çeken Adam
+    uk: Чоловік на ім'я Отто
+    yue: 隱閉中年
+    zh: 超難搞先生
+    zh-hant: 超難搞先生
+    zh-hk: 隱閉中年
+    zh-sg: 超难搞先生
+    zh-tw: 超難搞先生
 ---
 ## #has_/text_of_/abstract 
 

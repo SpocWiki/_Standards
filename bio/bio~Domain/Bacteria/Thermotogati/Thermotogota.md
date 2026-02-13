@@ -1,8 +1,48 @@
 ---
 has_id_wikidata: Q26869797
+dv_has_:
+  name_:
+    an: Thermotogae
+    ast: Thermotogae
+    bg: Thermotogae
+    ca: Thermotogae
+    ceb: Thermotogae
+    de: Thermotogae
+    en: Thermotogae
+    eo: Thermotogae
+    es: Thermotogae
+    eu: Thermotogae
+    ext: Thermotogae
+    fi: Thermotogae
+    fr: Thermotogae
+    frr: Thermotogae (Classis)
+    ga: Thermotogae
+    gl: Thermotogae
+    ia: Thermotogae
+    ie: Thermotogae
+    io: Thermotogae
+    it: Thermotogae
+    la: Thermotogae
+    mul: Thermotogae
+    nl: Thermotogae
+    oc: Thermotogae
+    pl: Thermotogae
+    pt: Thermotogae
+    pt-br: Thermotogae
+    ro: Thermotogae
+    ru: термотоги
+    sq: Thermotogae
+    uk: Thermotogae
+    vi: Thermotogae
+    vo: Thermotogae
+    war: Thermotogae
+    zh: 热袍菌纲
+aliases:
+- Thermotogae
+- Thermotogae (Classis)
+- термотоги
+- 热袍菌纲
 ---
-
-
 # [[Thermotogota]] 
 
 #is_a/bio-Phylum  

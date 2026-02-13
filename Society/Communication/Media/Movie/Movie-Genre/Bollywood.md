@@ -1,29 +1,194 @@
 ---
 aliases:
-  - Hindi cinema
-  - Bombay cinema
-  - Bollywood
+- Bolivud
+- Bolivuda
+- Bolivudas
+- Bolivudo
+- Bollivud
+- Bollywood
+- Bombay cinema
+- Hindi cinema
+- Hindi Film Industry
+- Hindi-Film
+- Μπόλυγουντ
+- Балівуд
+- Боливуд
+- Боллівуд
+- Болливуд
+- Болливүүд
+- Բոլլիվուդ
+- בוליווד
+- باليووډ
+- باليووڊ
+- بالی ووڈ
+- بالی وڈ
+- بالیوود
+- بالیوڈ
+- بوللىۋود
+- بوليوود
+- بٲلی وُڈ
+- بۆللیوۆۆد
+- بۆلیوود
+- ބޮލީވުޑް
+- बलिउड
+- बॉलीवुड
+- बॉलीवूड
+- हिन्दी चलच्चित्र
+- हिन्दी संकिपा
+- বলিউড
+- ਬਾਲੀਵੁੱਡ
+- બોલીવુડ
+- ବଲିଉଡ଼
+- பாலிவுட்
+- బాలీవుడ్
+- ಬಾಲಿವುಡ್
+- ബോളിവുഡ്
+- බොලිවුඩ්
+- ภาพยนตร์ภาษาฮินดี
+- ბოლივუდი
+- ቦሊውድ
+- ボリウッド
+- 宝莱坞
+- 寶萊塢
+- 波里活
+- ꯕꯣꯜꯂꯤꯋꯨꯗ
+- 볼리우드
 has_id_wikidata: Q93196
 instance_of:
-  - "[[_Standards/WikiData/WD~film_genre,201658]]"
-  - "[[_Standards/WikiData/WD~cinema_by_country_or_region,67515288]]"
-subclass_of: "[[_Standards/WikiData/WD~cinema_of_India,328799]]"
-different_from: "[[_Standards/WikiData/WD~Marathi_cinema,3345861]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hindi_cinema,12902752]]"
-headquarters_location: "[[_Standards/WikiData/WD~Mumbai,1156]]"
+- '[[_Standards/WikiData/WD~film_genre,201658]]'
+- '[[_Standards/WikiData/WD~cinema_by_country_or_region,67515288]]'
+subclass_of: '[[_Standards/WikiData/WD~cinema_of_India,328799]]'
+different_from: '[[_Standards/WikiData/WD~Marathi_cinema,3345861]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hindi_cinema,12902752]]'
+headquarters_location: '[[_Standards/WikiData/WD~Mumbai,1156]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Mumbai,1156]]"
-  - "[[_Standards/WikiData/WD~Hollywood,34006]]"
+- '[[_Standards/WikiData/WD~Mumbai,1156]]'
+- '[[_Standards/WikiData/WD~Hollywood,34006]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Hindi,1568]]"
-  - "[[_Standards/WikiData/WD~Urdu,1617]]"
-  - "[[_Standards/WikiData/WD~Hindustani,11051]]"
+- '[[_Standards/WikiData/WD~Hindi,1568]]'
+- '[[_Standards/WikiData/WD~Urdu,1617]]'
+- '[[_Standards/WikiData/WD~Hindustani,11051]]'
 Commons_category: Bollywood
 Know_Your_Meme_slug: bollywood
 subreddit: bollywood
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Film%20City%2C%20Mumbai.jpg
+dv_has_:
+  name_:
+    af: Bollywood
+    am: ቦሊውድ
+    ar: بوليوود
+    as: বলিউড
+    ast: Bollywood
+    az: Bollivud
+    ban: Bollywood
+    be: Балівуд
+    be-tarask: Балівуд
+    bg: Боливуд
+    bho: बॉलीवुड
+    bjn: Bollywood
+    bn: বলিউড
+    br: Bollywood
+    bs: Bollywood
+    ca: Bollywood
+    ckb: بۆلیوود
+    cs: Bollywood
+    da: Bollywood
+    de: Hindi-Film
+    dty: बलिउड
+    dv: ބޮލީވުޑް
+    el: Μπόλυγουντ
+    en: Bollywood
+    en-ca: Bollywood
+    en-gb: Hindi Film Industry
+    eo: Bolivudo
+    es: Bollywood
+    eu: Bollywood
+    fa: بالیوود
+    fi: Bollywood
+    fr: Bollywood
+    gl: Bollywood
+    gu: બોલીવુડ
+    ha: Bollywood
+    he: בוליווד
+    hi: बॉलीवुड
+    hr: Bollywood
+    hu: Bollywood
+    hy: Բոլլիվուդ
+    id: Bollywood
+    it: Bollywood
+    ja: ボリウッド
+    ka: ბოლივუდი
+    kbp: Bollywood
+    kn: ಬಾಲಿವುಡ್
+    ko: 볼리우드
+    ks: بٲلی وُڈ
+    ku: Bollywood
+    ku-arab: بۆللیوۆۆد
+    ku-latn: Bollywood
+    la: Bollywood
+    lt: Bolivudas
+    lv: Bolivuda
+    mag: हिन्दी चलच्चित्र
+    mai: बलिउड
+    map-bms: Bollywood
+    mk: Боливуд
+    ml: ബോളിവുഡ്
+    mn: Болливүүд
+    mni: ꯕꯣꯜꯂꯤꯋꯨꯗ
+    mr: बॉलीवूड
+    ms: Bollywood
+    nan: Bollywood
+    nb: Bollywood
+    ne: बलिउड
+    new: हिन्दी संकिपा
+    nl: Bollywood
+    nn: Bollywood
+    oc: Bollywood
+    or: ବଲିଉଡ଼
+    pa: ਬਾਲੀਵੁੱਡ
+    pl: Bollywood
+    pnb: بالیوڈ
+    ps: باليووډ
+    pt: Bollywood
+    pt-br: Bollywood
+    ro: Bollywood
+    ru: Болливуд
+    sa: bollywood
+    sd: باليووڊ
+    sh: Bollywood
+    si: බොලිවුඩ්
+    sk: Bollywood
+    skr: بالی ووڈ
+    sl: Bollywood
+    so: Bollywood
+    sq: Bollywood
+    sr: Боливуд
+    sr-ec: Боливуд
+    sr-el: Bolivud
+    sv: Bollywood
+    sw: Bollywood
+    ta: பாலிவுட்
+    te: బాలీవుడ్
+    tg: Болливуд
+    th: ภาพยนตร์ภาษาฮินดี
+    tr: Bollywood
+    ug: بوللىۋود
+    uk: Боллівуд
+    ur: بالی وڈ
+    uz: Bollywood
+    vi: Bollywood
+    war: Bollywood
+    wuu: 宝莱坞
+    xmf: ბოლივუდი
+    yue: 波里活
+    zh: 宝莱坞
+    zh-cn: 宝莱坞
+    zh-hans: 宝莱坞
+    zh-hant: 寶萊塢
+    zh-hk: 波里活
+    zh-sg: 宝莱坞
+    zh-tw: 寶萊塢
 ---
-
 # [[Bollywood]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bollywood,93196|WD~Bollywood,93196]] 

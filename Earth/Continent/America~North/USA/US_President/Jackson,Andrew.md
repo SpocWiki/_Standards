@@ -1,61 +1,270 @@
 ---
 aliases:
-  - Andrew Jackson
-  - Jackson,Andrew
-  - Andrew_Jackson
+- Andreas Jackson
+- Andrew Jackson
+- Andrew_Jackson
+- Endrü Cekson
+- Endrýu Jekson
+- Endrū Džeksons
+- Hastiin alą́ąjįʼ dahsidáhígíí Andrew Jackson
+- Jackson,Andrew
+- jan Antu Sason
+- Άντριου Τζάκσον
+- Андрю Джаксън
+- Ендрју Џексон
+- Ендру Џексон
+- Ендрю Джексон
+- Эндру Джэксан
+- Эндрю Джексон
+- Эндрю Жексон
+- Әндрү Җәксон
+- Էնդրյու Ջեքսոն
+- אנדרו ג'קסון
+- ענדרו זשעקסאן
+- أندرو جاكسون
+- أندرو دجاكسون
+- ئادرېۋ جېكسون
+- ئەندرێو جاکسۆن
+- اندرو جاكسون
+- اندرو جکسون
+- انډریو جکسن
+- اینڈریو جیکسن
+- އެންޑްރޫ ޖެކްސަން
+- अँड्र्यू जॅक्सन
+- एन्ड्रयु ज्याक्सन
+- एन्ड्रियू ज्याक्सन
+- ऐन्ड्रयू जैकसन
+- অ্যান্ড্রু জ্যাকসন
+- ਐਾਡਰਿਊ ਜੈਕਸਨ
+- ஆன்ட்ரூ ஜாக்சன்
+- ఆండ్రూ జాక్సన్
+- ಆಂಡ್ರ್ಯೂ ಜ್ಯಾಕ್ಸನ್
+- ആൻഡ്രൂ ജാക്സൺ
+- แอนดรูว์ แจ็กสัน
+- အင်ဒရူး ဂျက်ဆန်
+- ენდრუ ჯექსონი
+- አንድሪው ጃክሰን
+- ᎡᏂᏗ ᏤᎩᏌᏂ
+- アンドルー・ジャクソン
+- 安德魯·傑克遜
+- 安德鲁·杰克逊
+- 安祖積遜
+- 앤드루 잭슨
 has_id_wikidata: Q11817
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
-expiryDate: ""
+expiryDate: ''
 has_Template:
-  - "[[Extract~Note~Template]]"
+- '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Jackson,Andrew
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle: Jackson,Andrew
 publish: false
-publishDate: ""
+publishDate: ''
 tags:
-  - Jackson,Andrew
+- Jackson,Andrew
 title: Jackson,Andrew
 type: private_note
-dv_has_role: "[[../US_President]]"
-dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]"
+dv_has_role: '[[../US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]'
 dv_created: 1829-03-04
 dv_cancelled: 1837-03-04
 dv_has_:
+  name_:
+    af: Andrew Jackson
+    am: አንድሪው ጃክሰን
+    an: Andrew Jackson
+    ang: Andrew Jackson
+    ar: أندرو جاكسون
+    ary: أندرو دجاكسون
+    arz: اندرو جاكسون
+    ast: Andrew Jackson
+    awa: एन्ड्रयु ज्याक्सन
+    ay: Andrew Jackson
+    az: Endrü Cekson
+    azb: اندرو جکسون
+    ban: Andrew Jackson
+    bar: Andrew Jackson
+    bcl: Andrew Jackson
+    be: Эндру Джэксан
+    be-tarask: Эндру Джэксан
+    bg: Андрю Джаксън
+    bi: Andrew Jackson
+    bn: অ্যান্ড্রু জ্যাকসন
+    br: Andrew Jackson
+    bs: Andrew Jackson
+    ca: Andrew Jackson
+    cdo: Andrew Jackson
+    ceb: Andrew Jackson
+    chr: ᎡᏂᏗ ᏤᎩᏌᏂ
+    ckb: ئەندرێو جاکسۆن
+    co: Andrew Jackson
+    cs: Andrew Jackson
+    cv: Эндрю Джексон
+    cy: Andrew Jackson
+    da: Andrew Jackson
+    dag: Andrew Jackson
+    de: Andrew Jackson
+    de-ch: Andrew Jackson
+    diq: Andrew Jackson
+    dv: އެންޑްރޫ ޖެކްސަން
+    ee: Andrew Jackson
+    el: Άντριου Τζάκσον
+    en: Andrew Jackson
+    en-ca: Andrew Jackson
+    en-gb: Andrew Jackson
+    eo: Andrew Jackson
+    es: Andrew Jackson
+    et: Andrew Jackson
+    eu: Andrew Jackson
+    ext: Andrew Jackson
+    fa: اندرو جکسون
+    fi: Andrew Jackson
+    fit: Andrew Jackson
+    fo: Andrew Jackson
+    fr: Andrew Jackson
+    frp: Andrew Jackson
+    ga: Andrew Jackson
+    gag: Andrew Jackson
+    gd: Andrew Jackson
+    gl: Andrew Jackson
+    guw: Andrew Jackson
+    gv: Andrew Jackson
+    ha: Andrew Jackson
+    hak: Andrew Jackson
+    haw: Andrew Jackson
+    he: אנדרו ג'קסון
+    hi: ऐन्ड्रयू जैकसन
+    hr: Andrew Jackson
+    ht: Andrew Jackson
+    hu: Andrew Jackson
+    hy: Էնդրյու Ջեքսոն
+    ia: Andrew Jackson
+    id: Andrew Jackson
+    ilo: Andrew Jackson
+    io: Andrew Jackson
+    is: Andrew Jackson
+    it: Andrew Jackson
+    ja: アンドルー・ジャクソン
+    jv: Andrew Jackson
+    ka: ენდრუ ჯექსონი
+    kk: Эндрю Джексон
+    kn: ಆಂಡ್ರ್ಯೂ ಜ್ಯಾಕ್ಸನ್
+    ko: 앤드루 잭슨
+    ksh: Andrew Jackson
+    ku: Andrew Jackson
+    kw: Andrew Jackson
+    la: Andreas Jackson
+    lb: Andrew Jackson
+    lfn: Andrew Jackson
+    li: Andrew Jackson
+    lij: Andrew Jackson
+    lmo: Andrew Jackson
+    lt: Andrew Jackson
+    lv: Endrū Džeksons
+    lzh: 安德魯·傑克遜
+    mg: Andrew Jackson
+    min: Andrew Jackson
+    mk: Ендрју Џексон
+    ml: ആൻഡ്രൂ ജാക്സൺ
+    mn: Эндрю Жексон
+    mr: अँड्र्यू जॅक्सन
+    ms: Andrew Jackson
+    mul: Andrew Jackson
+    my: အင်ဒရူး ဂျက်ဆန်
+    mzn: اندرو جکسون
+    nan: Andrew Jackson
+    nb: Andrew Jackson
+    nds: Andrew Jackson
+    ne: एन्ड्रियू ज्याक्सन
+    nl: Andrew Jackson
+    nn: Andrew Jackson
+    nv: Hastiin alą́ąjįʼ dahsidáhígíí Andrew Jackson
+    oc: Andrew Jackson
+    pa: ਐਾਡਰਿਊ ਜੈਕਸਨ
+    pag: Andrew Jackson
+    pam: Andrew Jackson
+    pap: Andrew Jackson
+    pl: Andrew Jackson
+    pms: Andrew Jackson
+    pnb: اینڈریو جیکسن
+    ps: انډریو جکسن
+    pt: Andrew Jackson
+    pt-br: Andrew Jackson
+    qu: Andrew Jackson
+    rmf: Andrew Jackson
+    ro: Andrew Jackson
+    ru: Эндрю Джексон
+    rw: Andrew Jackson
+    scn: Andrew Jackson
+    sco: Andrew Jackson
+    se: Andrew Jackson
+    sh: Andrew Jackson
+    sje: Andrew Jackson
+    sju: Andrew Jackson
+    sk: Andrew Jackson
+    sl: Andrew Jackson
+    sma: Andrew Jackson
+    smj: Andrew Jackson
+    smn: Andrew Jackson
+    sms: Andrew Jackson
+    sq: Andrew Jackson
+    sr: Ендру Џексон
+    sv: Andrew Jackson
+    sw: Andrew Jackson
+    ta: ஆன்ட்ரூ ஜாக்சன்
+    te: ఆండ్రూ జాక్సన్
+    th: แอนดรูว์ แจ็กสัน
+    tk: Endrýu Jekson
+    tl: Andrew Jackson
+    tok: jan Antu Sason
+    tr: Andrew Jackson
+    tt: Әндрү Җәксон
+    tum: Andrew Jackson
+    ug: ئادرېۋ جېكسون
+    uk: Ендрю Джексон
+    ur: اینڈریو جیکسن
+    uz: Andrew Jackson
+    vi: Andrew Jackson
+    war: Andrew Jackson
+    wuu: 安德鲁·杰克逊
+    xmf: ენდრუ ჯექსონი
+    yi: ענדרו זשעקסאן
+    yo: Andrew Jackson
+    yue: 安祖積遜
+    zh: 安德鲁·杰克逊
   time_:
     started: 1767-03-15T00:00:00.000+00:53
     stopped: 1845-06-08T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]"
+  - '[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]'
 dv_has_time_started: 1767-03-15
 dv_has_time_stopped: 1845-06-08
 dv_is_same_as:
-  - "[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]"
+- '[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]'
 ---
-
 # [[Jackson,Andrew]] 
 
 has_time_started = `=this.dv_has_time_started`

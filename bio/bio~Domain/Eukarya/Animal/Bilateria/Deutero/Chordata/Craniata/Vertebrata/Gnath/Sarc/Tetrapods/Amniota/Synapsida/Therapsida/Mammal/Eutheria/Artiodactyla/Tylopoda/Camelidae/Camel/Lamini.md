@@ -1,8 +1,70 @@
 ---
 has_id_wikidata: Q867207
+dv_has_:
+  name_:
+    an: Lamini
+    ar: لاماوية
+    arz: لاماويه
+    ast: Lamini
+    bg: Lamini
+    ca: Lamini
+    ceb: Lamini
+    de: Lamini
+    en: Lamini
+    eo: Lamini
+    es: Lamini
+    eu: Lamini
+    ext: Lamini
+    fi: Lamini
+    fr: Lamini
+    fy: Lama-eftigen
+    ga: Lamini
+    gl: Lamini
+    hu: Lamini
+    ia: Lamini
+    ie: Lamini
+    io: Lamini
+    it: Lamini
+    ja: ラマ族
+    ko: 라마족
+    la: Lamini
+    lv: Lamu cilts
+    mul: Lamini
+    nb: Lamadyr
+    nl: Lamini
+    nn: Lamadyr
+    oc: Lamini
+    pl: Lamini
+    pt: Lamini
+    pt-br: Lamini
+    ro: Lamini
+    ru: Lamini
+    sk: Lama
+    sq: Lamini
+    tr: Lamini
+    uk: Lamini
+    vi: Lạc đà Nam Mỹ
+    vo: Lamini
+    war: Lamini
+    zh: 美洲驼族
+    zh-cn: 美洲驼族
+    zh-hans: 美洲驼族
+    zh-hant: 美洲駝
+    zh-hk: 美洲駝
+aliases:
+- Lama
+- Lama-eftigen
+- Lamadyr
+- Lamini
+- Lamu cilts
+- Lạc đà Nam Mỹ
+- لاماوية
+- لاماويه
+- ラマ族
+- 美洲駝
+- 美洲驼族
+- 라마족
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Lamini** (members are called lamines) is a tribe of the subfamily Camelinae. 

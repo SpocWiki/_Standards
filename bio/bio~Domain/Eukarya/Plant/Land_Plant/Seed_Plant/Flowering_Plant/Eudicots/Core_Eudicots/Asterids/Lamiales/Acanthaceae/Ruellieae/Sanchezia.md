@@ -1,8 +1,61 @@
 ---
 aliases:
-  - Sanchezia
+- Sanchezia
+- Sanchezie
+- Sančecija
+- Tulisormet
+- Саншеция
+- サンケジア属
+- 少君木属
+- 金葉木屬
 title: Sanchezia
 has_id_wikidata: Q2492116
+dv_has_:
+  name_:
+    an: Sanchezia
+    ast: Sanchezia
+    bg: Sanchezia
+    ca: Sanchezia
+    ceb: Sanchezia
+    cs: Sanchezie
+    de: Sanchezia
+    en: Sanchezia
+    eo: Sanchezia
+    es: Sanchezia
+    eu: Sanchezia
+    ext: Sanchezia
+    fi: Tulisormet
+    fr: Sanchezia
+    ga: Sanchezia
+    gl: Sanchezia
+    hr: Sančecija
+    ia: Sanchezia
+    id: Sanchezia
+    ie: Sanchezia
+    io: Sanchezia
+    it: Sanchezia
+    ja: サンケジア属
+    la: Sanchezia
+    mul: Sanchezia
+    nb: Sanchezia
+    nl: Sanchezia
+    oc: Sanchezia
+    pl: Sanchezia
+    pt: Sanchezia
+    pt-br: Sanchezia
+    ro: Sanchezia
+    ru: Саншеция
+    sq: Sanchezia
+    sv: Sanchezia
+    tr: Sanchezia
+    uk: Sanchezia
+    vi: Sanchezia
+    vo: Sanchezia
+    war: Sanchezia
+    zh: 少君木属
+    zh-cn: 少君木属
+    zh-hans: 少君木属
+    zh-tw: 金葉木屬
 ---
 # [[Sanchezia]] 
 

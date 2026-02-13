@@ -1,16 +1,76 @@
 ---
 aliases:
-  - light-dependent_reactions
+- adweithiau sy'n dibynnu ar olau
+- argi fase
+- Den lyskrævende fase
+- fase lluminosa
+- fase luce dipendente
+- fase luminosa
+- Işıklı devre reaksiyonları
+- Karlêkên ronahiyê
+- Lichtreacties
+- Lichtreaktion
+- light-dependent reactions
+- light-dependent_reactions
+- Ljusreaktionen
+- luma reakcio
+- lysreaksjon
+- reakcja fotochemiczna
+- Svetla faza fotosinteze
+- svetlobna reakcija
+- Tugong nakadepende sa liwanag
+- Valgusreaktsioonid
+- Светла фаза фотосинтезе
+- световая фаза
+- تفاعل ضوئي
+- واکنش های وابسته به نور
+- අලෝක-පරායත්ත ප්රතික්රියා
+- 光化学反応
+- 光反應
+- 명반응
 has_id_wikidata: Q862876
-different_from: "[[_Standards/WikiData/WD~photochemical_reaction,2632731]]"
+different_from: '[[_Standards/WikiData/WD~photochemical_reaction,2632731]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~photochemical_reaction,2632731]]"
-  - "[[_Standards/WikiData/WD~biochemical_reaction,33059434]]"
-  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
-followed_by: "[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]"
-part_of: "[[_Standards/WikiData/WD~photosynthesis,11982]]"
+- '[[_Standards/WikiData/WD~photochemical_reaction,2632731]]'
+- '[[_Standards/WikiData/WD~biochemical_reaction,33059434]]'
+- '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+followed_by: '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
+part_of: '[[_Standards/WikiData/WD~photosynthesis,11982]]'
+dv_has_:
+  name_:
+    ar: تفاعل ضوئي
+    ca: fase lluminosa
+    cy: adweithiau sy'n dibynnu ar olau
+    da: Den lyskrævende fase
+    de: Lichtreaktion
+    en: light-dependent reactions
+    eo: luma reakcio
+    es: fase luminosa
+    et: Valgusreaktsioonid
+    eu: argi fase
+    fa: واکنش های وابسته به نور
+    gl: fase luminosa
+    it: fase luce dipendente
+    ja: 光化学反応
+    ko: 명반응
+    ku: Karlêkên ronahiyê
+    ku-latn: karlêkên ronahiyê
+    nl: Lichtreacties
+    nn: lysreaksjon
+    pl: reakcja fotochemiczna
+    pt: fase luminosa
+    ru: световая фаза
+    sh: Svetla faza fotosinteze
+    si: අලෝක-පරායත්ත ප්රතික්රියා
+    sl: svetlobna reakcija
+    sr: Светла фаза фотосинтезе
+    sr-ec: Светла фаза фотосинтезе
+    sr-el: Svetla faza fotosinteze
+    sv: Ljusreaktionen
+    tl: Tugong nakadepende sa liwanag
+    tr: Işıklı devre reaksiyonları
+    zh: 光反應
 ---
-
 # [[Photosynthesis,light_Reactions]] 
 
 #is_/same_as :: [[../../../WikiData/WD~light-dependent_reactions,862876|WD~light-dependent_reactions,862876]] 

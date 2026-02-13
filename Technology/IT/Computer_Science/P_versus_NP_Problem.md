@@ -1,33 +1,124 @@
 ---
 aliases:
+- Bài toán P so với NP
+- Clasele de complexitate P și NP
+- clases de complejidad P y NP
+- Clases de complexidá P y NP
+- classi di complessità P e NP
+- demando P = NP
+- Masalah P versus NP
+- P = NP problem
+- P ile NP arasındaki ilişki
+- P ir NP lygumas
+- P versus NP
+- P versus NP problem
+- P vs NP
+- P vs NP problema
+- P-NP 問題
+- P-NP 문제
+- P-NP-Problem
+- P-ն ընդդեմ NP-ի
+- P=NP
+- P=NP probléma
+- P=NP problēma
+- P=NP-problemet
+- P=NP-vandamálið
+- P=NP?
+- problem P = NP
+- problème P = NP
+- Problém P versus NP
+- P≠NP予想
+- Πρόβλημα P=NP
+- П = НП проблем
+- рівність класів P і NP
+- равенство классов P и NP
+- роўнасць класаў P і NP
+- роўнасьць клясаў P і NP
+- בעיית P=NP
+- مسألة P=NP
+- مسئله برابری پی و انپی
+- പി വേഴ്സസ് എൻ പി പ്രശ്നം
+- กลุ่มความซับซ้อน พี และ เอ็นพี
+- 多項式時間類問題等于不確定性多項式時間類問題
 has_id_wikidata: Q746242
 facet_of:
-  - "[[_Standards/WikiData/WD~computational_complexity_theory,205084]]"
-  - "[[_Standards/WikiData/WD~NP,628036]]"
-  - "[[_Standards/WikiData/WD~P,846354]]"
+- '[[_Standards/WikiData/WD~computational_complexity_theory,205084]]'
+- '[[_Standards/WikiData/WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~NP,628036]]"
-  - "[[_Standards/WikiData/WD~P,846354]]"
+- '[[_Standards/WikiData/WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354]]'
 named_after:
-  - "[[_Standards/WikiData/WD~NP,628036]]"
-  - "[[_Standards/WikiData/WD~P,846354]]"
-part_of: "[[_Standards/WikiData/WD~Millennium_Problems,727000]]"
+- '[[_Standards/WikiData/WD~NP,628036]]'
+- '[[_Standards/WikiData/WD~P,846354]]'
+part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~mathematical_problem,1166625]]"
-  - "[[_Standards/WikiData/WD~open_problem,1321906]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~mathematical_problem,1166625]]'
+- '[[_Standards/WikiData/WD~open_problem,1321906]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>N</mi><mi>P</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>N</mi><mi>P</mi></mstyle></mrow></math>
 defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false">=</mo><mi>N</mi><mi>P</mi><mtext>&#160;</mtext><mrow data-mjx-texclass="ORD"><mtext>or</mtext></mrow><mtext>&#160;</mtext><mi>P</mi><mo stretchy="false">&#x2260;</mo><mi>N</mi><mi>P</mi><mo stretchy="false">?</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">P</mi></mrow><mrow data-mjx-texclass="ORD"><mover><mrow><mo stretchy="false">=</mo></mrow><mo stretchy="false">?</mo></mover></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">N</mi><mi mathvariant="normal">P</mi></mrow></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false">=</mo><mi>N</mi><mi>P</mi><mtext>&#160;</mtext><mrow data-mjx-texclass="ORD"><mtext>or</mtext></mrow><mtext>&#160;</mtext><mi>P</mi><mo stretchy="false">&#x2260;</mo><mi>N</mi><mi>P</mi><mo stretchy="false">?</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">P</mi></mrow><mrow data-mjx-texclass="ORD"><mover><mrow><mo stretchy="false">=</mo></mrow><mo stretchy="false">?</mo></mover></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">N</mi><mi mathvariant="normal">P</mi></mrow></mrow></mstyle></mrow></math>
 Stack_Exchange_tag:
-  - https://cs.stackexchange.com/tags/p-vs-np
-  - https://cstheory.stackexchange.com/tags/p-vs-np
-  - https://stackoverflow.com/tags/p-np
+- https://cs.stackexchange.com/tags/p-vs-np
+- https://cstheory.stackexchange.com/tags/p-vs-np
+- https://stackoverflow.com/tags/p-np
+dv_has_:
+  name_:
+    ar: مسألة P=NP
+    ast: Clases de complexidá P y NP
+    az: P=NP
+    be: роўнасць класаў P і NP
+    be-tarask: роўнасьць клясаў P і NP
+    ca: P versus NP
+    cs: Problém P versus NP
+    da: P versus NP
+    de: P-NP-Problem
+    el: Πρόβλημα P=NP
+    en: P versus NP problem
+    en-ca: P versus NP problem
+    en-gb: P versus NP problem
+    eo: demando P = NP
+    es: clases de complejidad P y NP
+    eu: P vs NP problema
+    fa: مسئله برابری پی و انپی
+    fi: P=NP
+    fr: problème P = NP
+    gl: P versus NP
+    he: בעיית P=NP
+    hu: P=NP probléma
+    hy: P-ն ընդդեմ NP-ի
+    id: Masalah P versus NP
+    is: P=NP-vandamálið
+    it: classi di complessità P e NP
+    ja: P≠NP予想
+    ko: P-NP 문제
+    lmo: P vs NP
+    lt: P ir NP lygumas
+    lv: P=NP problēma
+    ml: പി വേഴ്സസ് എൻ പി പ്രശ്നം
+    nb: P=NP-problemet
+    nl: P versus NP problem
+    nn: P=NP-problemet
+    pt: P versus NP
+    pt-br: P versus NP
+    ro: Clasele de complexitate P și NP
+    ru: равенство классов P и NP
+    sl: problem P = NP
+    sr: П = НП проблем
+    sr-ec: П = НП проблем
+    sr-el: P = NP problem
+    sv: P=NP?
+    th: กลุ่มความซับซ้อน พี และ เอ็นพี
+    tr: P ile NP arasındaki ilişki
+    uk: рівність класів P і NP
+    vi: Bài toán P so với NP
+    yue: P-NP 問題
+    zh: 多項式時間類問題等于不確定性多項式時間類問題
 ---
-
 # [[P_versus_NP_Problem]] 
 
 #is_/same_as :: [[WD~P_versus_NP_problem,746242]] 

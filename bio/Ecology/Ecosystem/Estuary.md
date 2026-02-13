@@ -1,36 +1,199 @@
 ---
 aliases:
+- aber
+- Aestuarium
+- cửa sông
+- Egoloe
+- Engoulême
+- esteiro
+- Estero
+- Estuaar
+- estuaari
+- estuaire
+- estuar
+- Estuari
+- Estuaria
+- estuarij
+- Estuarija
+- estuario
+- Estuariu
+- estuarium
+- Estuariy
+- estuaro
+- estuary
+- Estuarët
+- Estuwaryo
+- estuár
+- estuário
+- Estyè
+- grīva
+- haliç
+- Hò-khiéu-vân
+- inbhear
+- Inver
+- Iестуарий
+- Muara
+- Muhara
+- Parapaha
+- pūahatanga
+- Sungapan
+- tölcsértorkolat
+- Tīgmūnung
+- Vinanin-dranomasina
+- Árós
+- Ästuar
+- æstuarium
+- εκβολή
+- Естуар
+- естуарій
+- Эстуари
+- эстуарий
+- эстуарый
+- Էստուար
+- לעפצונג
+- שפך נהר
+- خلیج دهانهای
+- خور
+- ज्वारनदमुखी डेल्टा
+- नदी मुहाना
+- கயவாய்
+- ನದೀಮುಖ
+- അഴിമുഖം
+- ชะวากทะเล
+- ესტუარი
+- 三角江
+- 入海口
+- 河口
+- 河口湾
+- 河口灣
+- 어귀
 has_id_wikidata: Q47053
 subclass_of:
-  - "[[_Standards/WikiData/WD~ecoregion,295469]]"
-  - "[[_Standards/WikiData/WD~river_mouth,1233637]]"
-  - "[[_Standards/WikiData/WD~marine_ecosystem,3304561]]"
-  - "[[_Standards/WikiData/WD~river_ecosystem,3578576]]"
-  - "[[_Standards/WikiData/WD~body_of_water,15324]]"
-  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
+- '[[_Standards/WikiData/WD~ecoregion,295469]]'
+- '[[_Standards/WikiData/WD~river_mouth,1233637]]'
+- '[[_Standards/WikiData/WD~marine_ecosystem,3304561]]'
+- '[[_Standards/WikiData/WD~river_ecosystem,3578576]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-facet_of: "[[_Standards/WikiData/WD~river_morphology,4400371]]"
-Code_of_Natura_2000_FFH_habitat: "1130"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+facet_of: '[[_Standards/WikiData/WD~river_morphology,4400371]]'
+Code_of_Natura_2000_FFH_habitat: 1130
 GeoNames_feature_code: H.ESTY
-OmegaWiki_Defined_Meaning: "1345"
+OmegaWiki_Defined_Meaning: 1345
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Exe%20estuary%20from%20balloon.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000045
 Dewey_Decimal_Classification:
-  - "551.4618"
-  - "577.786"
-  - "627.124"
+- 551.4618
+- 577.786
+- 627.124
 Krugosvet_article: Earth_sciences/geologiya/ESTUARI.html
 Commons_category: Estuaries
 MeSH_tree_code: G01.311.625.540
 OpenStreetMap_tag_or_key: Tag:estuary=yes
+dv_has_:
+  name_:
+    af: Estuarium
+    ang: Tīgmūnung
+    ar: خور
+    ast: Estuariu
+    az: Estuari
+    be: Эстуарый
+    be-tarask: эстуарый
+    bew: Sungapan
+    bg: Естуар
+    bho: नदी मुहाना
+    bjn: Muhara
+    br: aber
+    bs: Estuarij
+    ca: estuari
+    ce: Эстуари
+    ceb: Estuwaryo
+    cs: estuár
+    cy: aber
+    da: æstuarium
+    de: Ästuar
+    el: εκβολή
+    en: estuary
+    eo: estuaro
+    es: estuario
+    et: Estuaar
+    eu: Estuario
+    fa: خلیج دهانهای
+    fi: estuaari
+    fr: estuaire
+    frr: estuaar
+    fy: Estuarium
+    ga: inbhear
+    gl: esteiro
+    gn: Parapaha
+    gv: Inver
+    hak: Hò-khiéu-vân
+    he: שפך נהר
+    hi: ज्वारनदमुखी डेल्टा
+    hr: Estuarij
+    ht: Estyè
+    hu: tölcsértorkolat
+    hy: Էստուար
+    id: Estuaria
+    io: Estuario
+    is: Árós
+    it: estuario
+    ja: 三角江
+    jv: Muara
+    ka: ესტუარი
+    kbd: Iестуарий
+    kk: Эстуарий
+    kn: ನದೀಮುಖ
+    ko: 어귀
+    la: Aestuarium
+    lt: Estuarija
+    lv: grīva
+    mg: Vinanin-dranomasina
+    mi: pūahatanga
+    mk: естуар
+    ml: അഴിമുഖം
+    ms: Muara
+    nb: estuar
+    nl: estuarium
+    nn: estuar
+    nrm: Engoulême
+    oc: estuari
+    pl: estuarium
+    pt: estuário
+    ro: Estuar
+    ru: эстуарий
+    sah: Эстуарий
+    sh: estuarij
+    sk: Estuár
+    sl: estuarij
+    sq: Estuarët
+    sr: естуар
+    sr-ec: естуар
+    sr-el: estuar
+    sv: estuarium
+    ta: கயவாய்
+    th: ชะวากทะเล
+    tr: haliç
+    tt: Эстуарий
+    uk: естуарій
+    uz: Estuariy
+    vec: Estuario
+    vi: cửa sông
+    wa: Egoloe
+    war: Estero
+    wuu: 河口
+    xmf: ესტუარი
+    yi: לעפצונג
+    yue: 入海口
+    zh: 河口湾
+    zh-hant: 河口灣
 ---
-
 # [[Estuary]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Estuary,47053|WD~Estuary,47053]] 

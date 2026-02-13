@@ -1,29 +1,73 @@
 ---
 aliases:
-  - Yijing
-  - 易經
-  - I_Ching
-  - I Ching
+- Boek der Veranderingen
+- Buku Perubahan
+- Ciŭ-ĭk
+- Classique des mutations
+- Dəyişikliklər kitabı
+- E̍k-keng
+- I Ching
+- I Ging
+- I-Ching
+- I-Szin
+- I-ťing
+- Idzin
+- Il libro dei mutamenti
+- I_Ching
+- Ji csing
+- ji džing
+- Ji Đing
+- Kinh Dịch
+- Knjiga promene
+- Knjiga promjene
+- Muutuste raamat
+- Permainų knyga
+- Yi Çing
+- Yi-Jing
+- Yijing
+- Yi̍t-kîn
+- Ι Τσινγκ
+- Ји Ђинг
+- И Цзин
+- Китоби Дигаргуниҳо
+- Кніга пераменаў
+- Книга на промените
+- Книга перемін
+- Книга Перемен
+- Улшăнусен кĕнеки
+- Үҙгәрештәр китабы
+- אי צ'ינג
+- ئی چینگ
+- كتاب التغيرات
+- इत्सिंग
+- यि जिङ
+- อี้จิง
+- ᠵᡳᠵᡠᠩᡤᡝ ᠨᠣᠮᡠᠨ
+- 周易
+- 易経
+- 易經
+- 易经
+- 역경
 has_id_wikidata: Q181937
 derivative_work: '[[_Standards/WikiData/WD~Ten_Wings,184529]]'
 creator: '[[_Standards/WikiData/WD~Fuxi,236972]]'
 author: '[[_Standards/WikiData/WD~Fuxi,236972]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Chinese_classics,576921]]'
-  - '[[_Standards/WikiData/WD~Five_Classics,1148214]]'
-  - '[[_Standards/WikiData/WD~Three_Books_of_Changes,10866092]]'
+- '[[_Standards/WikiData/WD~Chinese_classics,576921]]'
+- '[[_Standards/WikiData/WD~Five_Classics,1148214]]'
+- '[[_Standards/WikiData/WD~Three_Books_of_Changes,10866092]]'
 main_subject:
-  - '[[_Standards/WikiData/WD~divination,1043197]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~divination,1043197]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
 genre:
-  - '[[_Standards/WikiData/WD~divination,1043197]]'
-  - '[[_Standards/WikiData/WD~cosmology,338]]'
+- '[[_Standards/WikiData/WD~divination,1043197]]'
+- '[[_Standards/WikiData/WD~cosmology,338]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~divination,1043197]]'
-  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~divination,1043197]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634]]'
 has_use: '[[_Standards/WikiData/WD~I_Ching_divination,1987140]]'
 studied_by: '[[_Standards/WikiData/WD~I_Ching_studies,3738441]]'
 has_edition_or_translation: '[[_Standards/WikiData/WD~Q76730987,76730987]]'
@@ -33,8 +77,8 @@ language_of_work_or_name: '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
 country_of_origin: '[[_Standards/WikiData/WD~Zhou_dynasty,35216]]'
 BISAC_Subject_Heading: OCC038000
 title:
-  - 周易
-  - 易經
+- 周易
+- 易經
 image: http://commons.wikimedia.org/wiki/Special:FilePath/I%20Ching%20Song%20Dynasty%20print.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/CHZHOU_I.html
 Commons_category: I Ching
@@ -42,12 +86,87 @@ IMDb_keyword: i-ching
 subreddit: iching
 PhilPapers_topic: yijing-the-book-of-change
 Baidu_Tieba_name:
-  - 周易
-  - 易经
+- 周易
+- 易经
 Commons_gallery: 易經
 first_line: 乾 ䷀ 元亨利貞
+dv_has_:
+  name_:
+    af: I-Ching
+    ar: كتاب التغيرات
+    ast: I Ching
+    az: Dəyişikliklər kitabı
+    ba: Үҙгәрештәр китабы
+    be-tarask: Кніга пераменаў
+    ca: Yijing
+    cdo: Ciŭ-ĭk
+    cs: I-ťing
+    cv: Улшăнусен кĕнеки
+    da: I Ching
+    de: I Ging
+    el: Ι Τσινγκ
+    en: I Ching
+    en-us: I Ching
+    eo: I Ching
+    es: I Ching
+    et: Muutuste raamat
+    eu: I Ching
+    fa: ئی چینگ
+    fi: Yijing
+    fr: Classique des mutations
+    gl: I Ching
+    hak: Yi̍t-kîn
+    he: אי צ'ינג
+    hi: इत्सिंग
+    hr: Knjiga promjene
+    hu: Ji csing
+    id: I-Ching
+    it: Il libro dei mutamenti
+    ja: 易経
+    ko: 역경
+    ky: И Цзин
+    la: 易經
+    lt: Permainų knyga
+    lv: Idzin
+    lzh: 易經
+    mk: Книга на промените
+    mnc: ᠵᡳᠵᡠᠩᡤᡝ ᠨᠣᠮᡠᠨ
+    ms: Buku Perubahan
+    nan: E̍k-keng
+    nb: Yijing
+    new: यि जिङ
+    nl: Boek der Veranderingen
+    nn: Yijing
+    pl: Yijing
+    pt: I Ching
+    ro: Yi-Jing
+    ru: Книга Перемен
+    sc: I Ching
+    sco: I Ching
+    sh: Knjiga promene
+    sk: I-ťing
+    sl: ji džing
+    sr: Ји Ђинг
+    sr-ec: Ји Ђинг
+    sr-el: Ji Đing
+    sv: I Ching
+    tg: Китоби Дигаргуниҳо
+    th: อี้จิง
+    tr: Yi Çing
+    uk: Книга перемін
+    uz: I-Szin
+    vi: Kinh Dịch
+    war: I Ching
+    wuu: 周易
+    yue: 易經
+    zh: 易經
+    zh-cn: 易经
+    zh-hans: 易经
+    zh-hant: 易經
+    zh-hk: 易經
+    zh-sg: 易经
+    zh-tw: 易經
 ---
-
 # [[I_Ching]] 
 
 #is_/same_as :: [[WikiData/WD~I_Ching,181937|WD~I_Ching,181937]] 

@@ -1,8 +1,35 @@
 ---
 has_id_wikidata: Q1564664
+dv_has_:
+  name_:
+    arz: چاجودا مارينيك
+    ast: Jagoda Marinić
+    ca: Jagoda Marinić
+    cs: Jagoda Marinićová
+    da: Jagoda Marinić
+    de: Jagoda Marinić
+    en: Jagoda Marinić
+    eo: Jagoda Marinić
+    es: Jagoda Marinić
+    fi: Jagoda Marinić
+    fr: Jagoda Marinić
+    ga: Jagoda Marinić
+    hr: Jagoda Marinić
+    hu: Jagoda Marinić
+    it: Jagoda Marinić
+    nb: Jagoda Marinić
+    nl: Jagoda Marinić
+    pl: Jagoda Marinić
+    pt: Jagoda Marinić
+    pt-br: Jagoda Marinić
+    sl: Jagoda Marinić
+    sq: Jagoda Marinić
+    sv: Jagoda Marinić
+aliases:
+- Jagoda Marinić
+- Jagoda Marinićová
+- چاجودا مارينيك
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Jagoda Marinić (born September 20, 1977 in Waiblingen) 

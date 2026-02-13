@@ -1,36 +1,45 @@
 ---
-has_time_started: 1953-10-03 
+has_time_started: 1953-10-03
 aliases:
-  - Petróleo Brasileiro S.A.
-  - Petróleo Brasileiro
-  - Petrobras
+- Petrobras
+- Petróleo Brasileiro
+- Petróleo Brasileiro S.A.
+- Петробрас
+- Пэтрабраз
+- פטרוברז
+- بتروبراس
+- پتروبراس
+- பெட்ரோபிராசு
+- ペトロブラス
+- 巴西石油
+- 페트로브라스
 has_id_wikidata: Q210047
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~biofuel,128991]]'
-  - '[[_Standards/WikiData/WD~gas,11432]]'
-  - '[[_Standards/WikiData/WD~petroleum,22656]]'
+- '[[_Standards/WikiData/WD~biofuel,128991]]'
+- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~petroleum,22656]]'
 founded_by: '[[_Standards/WikiData/WD~Getúlio_Vargas,156844]]'
 legal_form: '[[_Standards/WikiData/WD~S.A.,166280]]'
 stock_exchange:
-  - '[[_Standards/WikiData/WD~Madrid_Stock_Exchange,617426]]'
-  - '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
-  - '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+- '[[_Standards/WikiData/WD~Madrid_Stock_Exchange,617426]]'
+- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
 industry:
-  - '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
-  - '[[_Standards/WikiData/WD~gas_industry,21328659]]'
+- '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
+- '[[_Standards/WikiData/WD~gas_industry,21328659]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~business,4830453]]'
-  - '[[_Standards/WikiData/WD~educational_organization,5341295]]'
-  - '[[_Standards/WikiData/WD~enterprise,6881511]]'
-  - '[[_Standards/WikiData/WD~gas_station_chain,64027599]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~educational_organization,5341295]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~gas_station_chain,64027599]]'
 follows:
-  - '[[_Standards/WikiData/WD~Eg3_Combustibles_S.A.,2838252]]'
-  - '[[_Standards/WikiData/WD~Isaura_S.A.,18924139]]'
+- '[[_Standards/WikiData/WD~Eg3_Combustibles_S.A.,2838252]]'
+- '[[_Standards/WikiData/WD~Isaura_S.A.,18924139]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Quattor,7269596]]'
-  - '[[_Standards/WikiData/WD~Transpetro,7834816]]'
-  - '[[_Standards/WikiData/WD~Termobahia,106414220]]'
+- '[[_Standards/WikiData/WD~Quattor,7269596]]'
+- '[[_Standards/WikiData/WD~Transpetro,7834816]]'
+- '[[_Standards/WikiData/WD~Termobahia,106414220]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~president_of_Petrobras,98550858]]'
 chairperson: '[[_Standards/WikiData/WD~José_Mauro_Ferreira_Coelho,112201439]]'
 location_of_formation: '[[_Standards/WikiData/WD~Brasília,2844]]'
@@ -39,15 +48,15 @@ located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rio_
 country: '[[_Standards/WikiData/WD~Brazil,155]]'
 employees: 52000
 social_media_followers:
-  - 449000
-  - 507267
+- 449000
+- 507267
 total_revenue: 88827000000
 described_at_URL: https://dibrarq.arquivonacional.gov.br/index.php/r7g9-w28b-26cw
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Petrobras%20horizontal%20logo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Emblema%20cl%C3%A1ssico%20da%20Petrobras%20dos%20anos%2050%20do%20s%C3%A9culo%2020.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PETROBR%C3%81S%20LOGO%201.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PETROBRAS%20OLD%20LOGO.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Petrobras%20horizontal%20logo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Emblema%20cl%C3%A1ssico%20da%20Petrobras%20dos%20anos%2050%20do%20s%C3%A9culo%2020.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/PETROBR%C3%81S%20LOGO%201.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/PETROBRAS%20OLD%20LOGO.svg
 Threads_username: petrobras
 Facebook_username: petrobras
 Instagram_username: petrobras
@@ -58,8 +67,8 @@ official_website: https://www.petrobras.com.br
 email_address: mailto:sac@petrobras.com.br
 phone_number: +55-21-3224-6666
 ISNI:
-  - 0000000121924294
-  - 0000000406030411
+- 0000000121924294
+- 0000000406030411
 Central_Index_Key: 0001119639
 postal_code: 20031-312
 PermID: 4295859763
@@ -69,10 +78,69 @@ Commons_gallery: Petrobras
 Commons_category: Petrobras
 street_address: Avenida República do Chile, nº 65
 motto_text:
-  - Energia para transformar
-  - O desafio é a nossa energia.
+- Energia para transformar
+- O desafio é a nossa energia.
+dv_has_:
+  name_:
+    ar: بتروبراس
+    ast: Petrobras
+    az: Petrobras
+    azb: پتروبراس
+    be-tarask: Пэтрабраз
+    bg: Петробрас
+    ca: Petrobras
+    cs: Petrobras
+    da: Petrobras
+    de: Petrobras
+    el: Petrobras
+    en: Petrobras
+    eo: Petrobras
+    es: Petrobras
+    et: Petrobras
+    eu: Petrobras
+    fa: پتروبراس
+    fi: Petrobras
+    fr: Petrobras
+    ga: Petrobras
+    gl: Petrobras
+    he: פטרוברז
+    hr: Petrobras
+    id: Petrobras
+    it: Petrobras
+    ja: ペトロブラス
+    ko: 페트로브라스
+    lt: Petrobras
+    mg: Petrobras
+    ms: Petrobras
+    nb: Petrobras
+    nl: Petrobras
+    nn: Petrobras
+    pl: Petrobras
+    pt: Petrobras
+    pt-br: Petrobras
+    ro: Petrobras
+    ru: Petrobras
+    sk: Petrobras
+    sl: Petrobras
+    sr: Петробрас
+    sv: Petrobras
+    ta: பெட்ரோபிராசு
+    tr: Petrobras
+    uk: Petrobras
+    uz: Petrobras
+    vec: Petrobras
+    vi: Petrobras
+    war: Petrobras
+    wuu: 巴西石油
+    yue: 巴西石油
+    zh: 巴西石油
+    zh-cn: 巴西石油
+    zh-hans: 巴西石油
+    zh-hant: 巴西石油
+    zh-hk: 巴西石油
+    zh-sg: 巴西石油
+    zh-tw: 巴西石油
 ---
-
 # [[Petrobras]] 
 
 #is_/same_as :: [[WD~Petrobras,210047]] 

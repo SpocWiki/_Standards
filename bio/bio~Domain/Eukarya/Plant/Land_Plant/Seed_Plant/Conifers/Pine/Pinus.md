@@ -1,77 +1,122 @@
 ---
 aliases:
-  - Pine Tree
-  - Pinus
-  - Pīntrēoƿ
-  - Şam ağacı
-  - Kiefan
-  - Хвоя
-  - ཐང་ཤིང་།
-  - Pino
-  - Fyrreslægten
-  - Chójca
-  - Πεύκο
-  - Mänd
-  - Pinu
-  - Männyt
-  - Sjüüren
-  - Péine
-  - Giuthas
-  - Juys
-  - चीड़
-  - Chójna
-  - Tusam
-  - マツ属
-  - ფიჭვი
-  - 소나무속
-  - Пожум
-  - یارِکُل
-  - Пожӧм
-  - pušis
-  - Пиче
-  - Пӱнчӧ
-  - Бор
-  - പൈൻ
-  - Нарснууд
-  - पाईन वृक्ष
-  - Йӓктӹ
-  - ထင်းရှူး
-  - Furu
-  - Furuslekta
-  - Ńdíshchííʼ
-  - Pin
-  - Нæзы
-  - Beintbaam
-  - پائن
-  - pinus
-  - Umubunda
-  - Бэс
-  - Oppinu
-  - Borovica
-  - bor
-  - Fjuurenboom
-  - Pines
-  - Tallar
-  - పైన్
-  - Пужым
-  - Pynboom
-  - סאסנע
-  - 松属
-  - 松屬
-  - Den
-  - کاج
-  - borovice
-  - Kiefern
-  - sosna
-  - אורן
-  - Pinheiro
-  - Pine
-  - Çam
-  - Piñeiro
-  - صنوبر
-  - Priedes
-  - Сосна
-  - Pi
+- beazit
+- Beintbaam
+- bietsieh
+- bor
+- bor (biljka)
+- Bor (biljni rod)
+- Borovica
+- borovice
+- chi Thông
+- Chójca
+- Chójna
+- Cikokw
+- Den
+- Denneboom
+- Fjuurenboom
+- Furu
+- Furur
+- Furuslekta
+- furuslekten
+- Fyrreslægten
+- Föhren
+- Giuthas
+- Hazokesika
+- Juys
+- Kiefan
+- Kiefer
+- Kiefern
+- Kiferen
+- Mupayi
+- Mänd
+- Männyt
+- Oppinu
+- Pedai
+- peesih
+- Pi
+- pieʹʒʒ
+- Pin
+- Pine
+- Pine Tree
+- Pines
+- Pinheiro
+- Pino
+- Pinu
+- Pinus
+- Pinwydden
+- Pisha
+- Piñeiro
+- Pošis
+- Priedes
+- pušis
+- Pynboom
+- Péine
+- Pīntrēoƿ
+- pīnus
+- Qaragʻay
+- Sjüüren
+- sosna
+- Tallar
+- tallsläktet
+- Tayda
+- Tusam
+- tűnyalábos fenyő
+- Umubunda
+- Çam
+- Ńdíshchííʼ
+- Şam ağacı
+- πεύκη
+- Πεύκο
+- Бага (дитт)
+- Бор
+- Бэс
+- Дийхк (гаьний ваьр)
+- Йӓктӹ
+- Коҷ
+- Нæзы
+- нарат
+- Нарс
+- Нарснууд
+- Нарһан модон
+- пе̄дзьмӯр
+- Пиче
+- Пожум
+- Пожӧм
+- Пужым
+- Пӱнчӧ
+- Сосна
+- Хады
+- Хвоя
+- Хыр
+- Қарағай
+- սոճի
+- אורן
+- סאסנע
+- شام آغاجی
+- صنوبر
+- پائن
+- پینهیرو
+- کاج
+- یارِکُل
+- चीड़
+- पाईन वृक्ष
+- सल्ला
+- সরলবৃক্ষ
+- ਚੀੜ
+- பைன்
+- పైన్
+- പൈൻ
+- เกี๊ยะ
+- ཐང་ཤིང་།
+- ထင်းရှူး
+- ფიჭვი
+- የፈረንጅ ጥድ
+- マツ
+- マツ属
+- 松属
+- 松屬
+- 소나무속
 has_id_wikidata: Q12024
 title: Pinus
 EPPO_Code: 1PIUG
@@ -83,107 +128,107 @@ Commons_gallery: Pinus
 Commons_category: Pinus
 taxon_name: Pinus
 taxon_common_name:
-  - Pīntrēoƿ
-  - Şam ağacı
-  - Kiefan
-  - Хвоя
-  - ཐང་ཤིང་།
-  - Pino
-  - Fyrreslægten
-  - Chójca
-  - Πεύκο
-  - Pino
-  - Mänd
-  - Pinu
-  - Männyt
-  - Sjüüren
-  - Péine
-  - Giuthas
-  - Juys
-  - चीड़
-  - Chójna
-  - Tusam
-  - マツ属
-  - ფიჭვი
-  - 소나무속
-  - Пожум
-  - یارِکُل
-  - Пожӧм
-  - pušis
-  - Пиче
-  - Пӱнчӧ
-  - Бор
-  - പൈൻ
-  - Нарснууд
-  - पाईन वृक्ष
-  - Йӓктӹ
-  - ထင်းရှူး
-  - Furu
-  - Furuslekta
-  - Ńdíshchííʼ
-  - Pin
-  - Нæзы
-  - Beintbaam
-  - پائن
-  - pinus
-  - Pin
-  - Umubunda
-  - Бэс
-  - Oppinu
-  - Borovica
-  - bor
-  - Fjuurenboom
-  - Pines
-  - Tallar
-  - పైన్
-  - Pino
-  - Пужым
-  - Pynboom
-  - סאסנע
-  - 松属
-  - 松屬
-  - 松属
-  - Den
-  - کاج
-  - borovice
-  - Kiefern
-  - sosna
-  - אורן
-  - Pinheiro
-  - Pine
-  - Çam
-  - Pino
-  - Pino
-  - Бор
-  - Бор
-  - Piñeiro
-  - صنوبر
-  - Priedes
-  - Сосна
-  - Pi
-  - Сосна
-  - Pin
-  - Furu
+- Pīntrēoƿ
+- Şam ağacı
+- Kiefan
+- Хвоя
+- ཐང་ཤིང་།
+- Pino
+- Fyrreslægten
+- Chójca
+- Πεύκο
+- Pino
+- Mänd
+- Pinu
+- Männyt
+- Sjüüren
+- Péine
+- Giuthas
+- Juys
+- चीड़
+- Chójna
+- Tusam
+- マツ属
+- ფიჭვი
+- 소나무속
+- Пожум
+- یارِکُل
+- Пожӧм
+- pušis
+- Пиче
+- Пӱнчӧ
+- Бор
+- പൈൻ
+- Нарснууд
+- पाईन वृक्ष
+- Йӓктӹ
+- ထင်းရှူး
+- Furu
+- Furuslekta
+- Ńdíshchííʼ
+- Pin
+- Нæзы
+- Beintbaam
+- پائن
+- pinus
+- Pin
+- Umubunda
+- Бэс
+- Oppinu
+- Borovica
+- bor
+- Fjuurenboom
+- Pines
+- Tallar
+- పైన్
+- Pino
+- Пужым
+- Pynboom
+- סאסנע
+- 松属
+- 松屬
+- 松属
+- Den
+- کاج
+- borovice
+- Kiefern
+- sosna
+- אורן
+- Pinheiro
+- Pine
+- Çam
+- Pino
+- Pino
+- Бор
+- Бор
+- Piñeiro
+- صنوبر
+- Priedes
+- Сосна
+- Pi
+- Сосна
+- Pin
+- Furu
 nomenclatural_type_of: '[[_Standards/WikiData/WD~Pinaceae,101680]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Pinus_sylvestris,133128]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~pine_nut,212933]]'
-  - '[[_Standards/WikiData/WD~Myrtol_standardized,730609]]'
-  - '[[_Standards/WikiData/WD~pine_oil,990187]]'
-  - '[[_Standards/WikiData/WD~pine,1503211]]'
-  - '[[_Standards/WikiData/WD~naval_stores,6982026]]'
-  - '[[_Standards/WikiData/WD~pine_needle,59672484]]'
-  - '[[_Standards/WikiData/WD~pine_cone,118185651]]'
+- '[[_Standards/WikiData/WD~pine_nut,212933]]'
+- '[[_Standards/WikiData/WD~Myrtol_standardized,730609]]'
+- '[[_Standards/WikiData/WD~pine_oil,990187]]'
+- '[[_Standards/WikiData/WD~pine,1503211]]'
+- '[[_Standards/WikiData/WD~naval_stores,6982026]]'
+- '[[_Standards/WikiData/WD~pine_needle,59672484]]'
+- '[[_Standards/WikiData/WD~pine_cone,118185651]]'
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
 parent_taxon: '[[_Standards/WikiData/WD~Pinoideae,9339721]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q10514261,10514261]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
@@ -194,15 +239,165 @@ ITIS_TSN: 18035
 OmegaWiki_Defined_Meaning: 706003
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D1%81%D0%BE%D1%81%D0%BC%D1%83%D0%B3%D0%B0%20%D0%B1%D1%96%D0%BB%D1%8F%20%D0%9E%D0%BB%D0%B5%D1%88%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D1%96%D1%81%D0%BA%D1%96%D0%B2.webm
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20lambertiana%20cones%20Cucamonga%20Peak.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20pinaster.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20sylvestris%20Grytdalen%2002.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ponderosa%20Pine%20cones%2C%20Idaho%20Panhandle%20National%20Forest.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20lambertiana%20cones%20Cucamonga%20Peak.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20pinaster.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20sylvestris%20Grytdalen%2002.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ponderosa%20Pine%20cones%2C%20Idaho%20Panhandle%20National%20Forest.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pinus%20range.png
 Flora_of_the_Hawaiian_Islands_URL: https://naturalhistory2.si.edu/botany/hawaiianflora/genusdescr.cfm?genus=Pinus
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9418
+dv_has_:
+  name_:
+    af: Denneboom
+    am: የፈረንጅ ጥድ
+    an: Pinus
+    ang: Pīntrēoƿ
+    ar: صنوبر
+    arz: صنوبر
+    ast: Pinus
+    atj: Cikokw
+    az: Şam ağacı
+    azb: شام آغاجی
+    bar: Kiefan
+    be: хвоя
+    be-tarask: хвоя
+    bg: бор
+    bn: সরলবৃক্ষ
+    bo: ཐང་ཤིང་།
+    bs: Pinus
+    bxr: Нарһан модон
+    ca: Pinus
+    ce: Бага (дитт)
+    ceb: Pino
+    cs: borovice
+    csb: sosna
+    cv: Хыр
+    cy: Pinwydden
+    da: fyrreslægten
+    de: Kiefern
+    dsb: Chójca
+    el: Πεύκο
+    en: Pinus
+    en-us: Pinus
+    eo: Pino
+    es: pino
+    et: mänd
+    eu: Pinu
+    ext: Pinus
+    fa: کاج
+    fi: männyt
+    fr: pin
+    frr: Sjüüren
+    ga: péine
+    gd: Giuthas
+    gl: Piñeiro
+    grc: πεύκη
+    gsw: Kiefer
+    gv: Juys
+    he: אורן
+    hi: चीड़
+    hr: Bor (biljni rod)
+    hsb: Chójna
+    hu: tűnyalábos fenyő
+    hy: սոճի
+    hyw: Սոճի
+    ia: Pinus
+    id: pinus
+    ie: Pinus
+    inh: Дийхк (гаьний ваьр)
+    io: Pino
+    is: Furur
+    it: Pinus
+    ja: マツ
+    ka: ფიჭვი
+    kab: Tayda
+    kk: Қарағай
+    ko: 소나무속
+    koi: Пожум
+    ku: Çam
+    kv: Пожӧм
+    la: pīnus
+    lb: Kiferen
+    lfn: Pino
+    lt: pušis
+    lv: Priedes
+    mdf: Пиче
+    mg: Hazokesika
+    mhr: пӱнчӧ
+    mk: бор
+    ml: പൈൻ
+    mn: Нарс
+    mr: पाईन वृक्ष
+    mrj: Йӓктӹ
+    ms: Pinus
+    mul: Pinus
+    my: ထင်းရှူး
+    myv: Пиче
+    mzn: پینهیرو
+    nb: furuslekten
+    nds: Föhren
+    ne: सल्ला
+    nl: den
+    nn: furuslekta
+    nv: Ńdíshchííʼ
+    oc: Pin
+    os: Нæзы
+    pa: ਚੀੜ
+    pdc: Beintbaam
+    pl: sosna
+    pnb: پائن
+    pt: pinheiro
+    pt-br: Pinus
+    qu: Pinu
+    ro: Pin
+    ru: сосна
+    rw: Umubunda
+    sah: Бэс
+    sco: Pinus
+    se: beazit
+    sgs: Pošis
+    sh: bor (biljka)
+    shi: Tayda
+    sjd: пе̄дзьмӯр
+    sk: borovica
+    sl: bor
+    sma: bietsieh
+    smn: peesih
+    sms: pieʹʒʒ
+    sq: Pisha
+    sr: бор
+    sr-ec: Бор
+    sr-el: Bor
+    stq: Fjuurenboom
+    su: Pines
+    sv: tallsläktet
+    ta: பைன்
+    te: పైన్
+    tg: Коҷ
+    th: เกี๊ยะ
+    tl: Pino
+    tr: Çam
+    ts: Mupayi
+    tt: нарат
+    tyv: Хады
+    udm: Пужым
+    uk: сосна
+    ur: صنوبر
+    uz: Qaragʻay
+    vep: Pedai
+    vi: chi Thông
+    vls: Pynboom
+    vo: Pinus
+    war: Pinus
+    wuu: 松属
+    xmf: ფიჭვი
+    yi: סאסנע
+    yue: 松屬
+    zh: 松屬
+    zh-cn: 松属
+    zh-hans: 松属
+    zh-tw: 松屬
 ---
-
 # [[Pinus]] 
 
 #is_/instance_of :: [[../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus|bio-Genus]] 

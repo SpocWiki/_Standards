@@ -1,12 +1,93 @@
 ---
 aliases:
-  - Klein–Gordon equation
-  - Klein–Fock–Gordon equation
-  - Klein–Gordon–Fock equation
-  - Schrödinger–Gordon equation
-  - Klein-Gordon_Equation
-  - Klein-Gordon Equation
+- ecuación de Klein-Gordon
+- Ekuacioni Klein-Gordon
+- ekvacio de Klein-Gordon
+- Equació de Klein-Gordon
+- equazione di Klein-Gordon
+- Equação de Klein–Gordon
+- Klein-Gordon denklemi
+- Klein-Gordon Equation
+- Klein-Gordon-Gleichung
+- Klein-Gordon-ligning
+- Klein-Gordon-ligningen
+- Klein-Gordonova enačba
+- Klein-Gordonova jednadžba
+- Klein-Gordonvergelijking
+- Klein-Gordon_Equation
+- Kleinova-Gordonova rovnice
+- Klein–Fock–Gordon equation
+- Klein–Gordon equation
+- Klein–Gordon hong-têng-sek
+- Klein–Gordon-egyenlet
+- Klein–Gordon-ekvationen
+- Klein–Gordon–Fock equation
+- Klevin - Gordon equation
+- Persamaan Klein-Gordon
+- równanie Kleina-Gordona
+- Schrödinger–Gordon equation
+- équation de Klein-Gordon
+- Εξίσωση Κλάιν-Γκόρντον
+- Клейн — Гордон тигезләмәсе
+- Рівняння Клейна — Гордона
+- Уравнение Клейна — Гордона
+- Կլայն-Գորդոնի հավասարում
+- משוואת קליין-גורדון
+- معادلة كلاين-غوردون
+- معادله کلاین-گوردون
+- ਕਲੇਇਨ-ਗੌਰਡਨ ਇਕੁਏਸ਼ਨ
+- クライン-ゴルドン方程式
+- 克來恩-戈登方程式
+- 克莱因-戈尔登方程
+- 克萊因-戈爾登方程
+- 클라인-고든 방정식
 has_id_wikidata: Q868967
+dv_has_:
+  name_:
+    ar: معادلة كلاين-غوردون
+    ca: Equació de Klein-Gordon
+    cs: Kleinova-Gordonova rovnice
+    da: Klein-Gordon-ligningen
+    de: Klein-Gordon-Gleichung
+    de-ch: Klein-Gordon-Gleichung
+    el: Εξίσωση Κλάιν-Γκόρντον
+    en: Klein–Gordon equation
+    en-ca: Klein–Gordon equation
+    en-gb: Klein–Gordon equation
+    eo: ekvacio de Klein-Gordon
+    es: ecuación de Klein-Gordon
+    fa: معادله کلاین-گوردون
+    fr: équation de Klein-Gordon
+    gl: Ecuación de Klein-Gordon
+    he: משוואת קליין-גורדון
+    hr: Klein-Gordonova jednadžba
+    hu: Klein–Gordon-egyenlet
+    hy: Կլայն-Գորդոնի հավասարում
+    id: Persamaan Klein-Gordon
+    it: equazione di Klein-Gordon
+    ja: クライン-ゴルドン方程式
+    ko: 클라인-고든 방정식
+    nan: Klein–Gordon hong-têng-sek
+    nb: Klein-Gordon-ligning
+    nl: Klein-Gordonvergelijking
+    pa: ਕਲੇਇਨ-ਗੌਰਡਨ ਇਕੁਏਸ਼ਨ
+    pl: równanie Kleina-Gordona
+    pt: Equação de Klein–Gordon
+    pt-br: Equação de Klein–Gordon
+    ru: Уравнение Клейна — Гордона
+    sh: Klein-Gordonova jednadžba
+    sl: Klein-Gordonova enačba
+    sq: Ekuacioni Klein-Gordon
+    sv: Klein–Gordon-ekvationen
+    tr: Klein-Gordon denklemi
+    tt: Клейн — Гордон тигезләмәсе
+    uk: Рівняння Клейна — Гордона
+    vi: Klevin - Gordon equation
+    zh: 克莱因-戈尔登方程
+    zh-hans: 克莱因-戈尔登方程
+    zh-hant: 克萊因-戈爾登方程
+    zh-hk: 克來恩-戈登方程式
+    zh-tw: 克來恩-戈登方程式
 ---
 # [[Klein-Gordon_Equation]] 
 

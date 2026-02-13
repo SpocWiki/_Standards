@@ -1,18 +1,87 @@
 ---
 aliases:
-  - Unterlassungsurteil
-  - Verfügung
-  - gerichtliche Verfügung
-  - Injunction
+- bírósági meghagyás
+- Dacaree
+- forføyning
+- föreläggande
+- gerichtliche Verfügung
+- injuction
+- Injunction
+- kautela-neurri
+- Kautusan ng pansamantalang pagpigil
+- medida cautelar
+- mesura cautelar
+- Midida cautelar
+- misura cautelare
+- phán quyết
+- processo cautelar
+- påbud
+- sodna prepoved
+- Sudski nalog
+- tedbir kararı
+- Unterlassungsurteil
+- urghaire
+- Verfügung
+- Ασφαλιστικά μέτρα
+- судебный запрет
+- судова заборона
+- судовая забарона
+- צו מניעה
+- أمر قضائي
+- حکم امتناعی
+- حکم قضایی
+- समादेश
+- 差し止め命令
+- 禁制令
+- 금지명령
 has_id_wikidata: Q6495575
 subclass_of:
-  - '[[_Standards/WikiData/WD~equitable_remedy,562125]]'
-  - '[[_Standards/WikiData/WD~court_order,696617]]'
+- '[[_Standards/WikiData/WD~equitable_remedy,562125]]'
+- '[[_Standards/WikiData/WD~court_order,696617]]'
 different_from: '[[_Standards/WikiData/WD~restraining_order,593132]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 Library_of_Congress_Classification: K2320
+dv_has_:
+  name_:
+    ar: أمر قضائي
+    ast: Midida cautelar
+    be-tarask: судовая забарона
+    ca: mesura cautelar
+    da: påbud
+    de: Verfügung
+    de-ch: Verfügung
+    el: Ασφαλιστικά μέτρα
+    en: injunction
+    en-ca: Injunction
+    en-gb: injunction
+    es: medida cautelar
+    eu: kautela-neurri
+    fa: حکم قضایی
+    ga: urghaire
+    gl: Medida cautelar
+    he: צו מניעה
+    hi: समादेश
+    hr: Sudski nalog
+    hu: bírósági meghagyás
+    it: misura cautelare
+    ja: 差し止め命令
+    ko: 금지명령
+    nb: forføyning
+    pt: processo cautelar
+    pt-br: Processo cautelar
+    ru: судебный запрет
+    sl: sodna prepoved
+    so: Dacaree
+    sr: Sudski nalog
+    sv: föreläggande
+    ta: injuction
+    tl: Kautusan ng pansamantalang pagpigil
+    tr: tedbir kararı
+    uk: судова заборона
+    ur: حکم امتناعی
+    vi: phán quyết
+    zh: 禁制令
 ---
-
 # [[Injunction]] 
 
 #is_/same_as :: [[WikiData/WD~Injunction,6495575|WD~Injunction,6495575]] 

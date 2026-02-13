@@ -1,35 +1,129 @@
 ---
 aliases:
-  - Madagascar
-  - مدغشقر
-  - 马达加斯加
-  - Мадагаскар
-  - the Republic of Madagascar
-  - la República de Madagascar
+- IMadagasika
+- IMadagasikha
+- la República de Madagascar
+- ma Malakasi
+- Madagaka
+- Madagascal
+- Madagascar
+- Madagascara
+- Madagascaria
+- Madagascartò
+- Madagascàr
+- Madagascâr
+- Madagasgar
+- Madagasicara
+- Madagasika
+- Madagasikar
+- Madagasikara
+- Madagasikari
+- Madagaska
+- Madagaskaar
+- Madagaskar
+- Madagaskara
+- Madagaskaras
+- Madagaskari
+- Madagaskaro
+- Madagaskars
+- Madagaskära
+- Madagaszkár
+- Madagathkar
+- Madagiaska
+- Madagáscar
+- Madagáskar
+- Madagáskàr
+- Madahaskar
+- Madakasɩkarɩ
+- Madaqaskar
+- Madaɣacqar
+- Madaȝascar
+- Mada̱ga̱si̱ka
+- Malagaseän
+- Malagasi
+- Marakāhia
+- Matakasika
+- Mágí Bitseeʼ Noodǫ́zí Bikéyah
+- the Republic of Madagascar
+- Μαδαγασκάρη
+- Μαδαγασκάρην
+- Мадагаскар
+- Мадагаскар Республикасы
+- Мадагаскар Республики
+- Мадагаскармудин Орн
+- Մադագասկար
+- Մատակասքար
+- מאדאגאסקאר
+- מדגסקר
+- ماداقاسکار
+- ماداڭاسكار
+- ماداگاسكار
+- ماداگاسکار
+- مادجاسكار
+- مادغاسکر
+- مدغشقر
+- مَڈَغاسکر
+- مڈغاسکر
+- مڊگاسڪر
+- މަޑަގަސްކަރަ
+- ߡߊ߬ߘߜ߭ߊߛߑߞߊߙ
+- मडगास्कर
+- मडागास्कर
+- माडागास्कर
+- माडागास्कार
+- मादागास्कर
+- मेडागास्कर
+- মাদাগাস্কার
+- মাদাগাস্কাৰ
+- ਮਾਦਾਗਾਸਕਰ
+- મડાગાસ્કર
+- ମେଡାଗାସ୍କର
+- மடகாசுகர்
+- మడగాస్కర్
+- ಮಡಗಾಸ್ಕರ್
+- മഡഗാസ്കർ
+- මැඩගස්කරය
+- ประเทศมาดากัสการ์
+- ປະເທດມາດາກັສກາ
+- མ་ད་གཱ་སི་ཀར།
+- မဒါဂတ်စကားနိုင်ငံ
+- မိူင်းမၢတ်ႈတႃႇၵၢတ်ႈသၵႃႇ
+- მადაგასკარი
+- ማዳጋስካር
+- ម៉ាដាហ្គាស្ការ
+- ᱢᱟᱫᱟᱜᱟᱥᱠᱟᱨ
+- ⵎⴰⴷⴰⴳⴰⵙⴽⴰⵔ
+- マダガスカル
+- 馬達加斯加
+- 马达加斯加
+- ꠝꠣꠖꠣꠉꠣꠡ꠆ꠇꠣꠞ
+- ꯃꯦꯗꯒꯥꯁ꯭ꯀꯔ
+- 마다가스까르
+- 마다가스카르
 has_id_wikidata: Q1019
 confidential: public
 cssclasses:
-  - Country
+- Country
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - fr-MG
-  - mg
-layout: ""
+- fr-MG
+- mg
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - -18.8933
-  - 47.5083
+- -18.8933
+- 47.5083
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26959
 tags:
-  - geo/Country
+- geo/Country
 title: Madagascar
 type: Country
 dv_ISO4217-currency_alphabetic: MGA
@@ -60,9 +154,9 @@ dv_UNTERM_Chinese_Formal: 马达加斯加共和国
 dv_UNTERM_French_Formal: la République de Madagascar
 dv_UNTERM_Russian: Мадагаскар
 dv_UNTERM_Russian_Formal: Республика Мадагаскар
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Eastern Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Eastern Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 14
 dv_Sub-region: 202
@@ -87,42 +181,331 @@ dv_ISO2: MG
 dv_ISO3: MDG
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/Madagascar.public|Madagascar.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]"
+  - '[[../../../../WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/Madagascar.public|Madagascar.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]'
 dv_has_:
   name_:
+    ab: Мадагаскар
+    ace: Madagaskar
+    aeb-arab: مدغشقر
+    af: Madagaskar
+    am: ማዳጋስካር
+    ami: Madagascar
+    an: Madagascar
+    ang: Madaȝascar
+    ann: Madagasika
+    anp: माडागास्कार
+    ar: مدغشقر
+    ary: ماداڭاسكار
+    arz: مادجاسكار
+    as: মাদাগাস্কাৰ
+    ast: Madagascar
+    avk: Madagasikara
+    az: Madaqaskar
+    azb: ماداقاسکار
+    ba: Мадагаскар
+    ban: Madagaskar
+    bar: Madagaskar
+    bbc: Madagaskar
+    bcl: Madagaskar
+    be: Мадагаскар
+    be-tarask: Мадагаскар
+    bew: Madagaskar
+    bg: Мадагаскар
+    bho: मेडागास्कर
+    bi: Madagaskar
+    bjn: Madagaskar
+    bm: Madagaskar
+    bn: মাদাগাস্কার
+    bo: མ་ད་གཱ་སི་ཀར།
+    bpy: মাদাগাস্কার
+    br: Madagaskar
+    bs: Madagaskar
+    bxr: Мадагаскар
+    ca: Madagascar
+    cbk-zam: Madagascar
+    cdo: Madagascar
+    ce: Мадагаскар
+    ceb: Madagascar
+    chy: Madagascar
+    ckb: ماداگاسکار
+    co: Madagascara
+    crh: Madagaskar
+    crh-latn: Madagaskar
+    cs: Madagaskar
+    csb: Madagaskar
+    cv: Мадагаскар Республики
+    cy: Madagasgar
+    da: Madagaskar
+    dag: Madagascar
+    de: Madagaskar
+    de-at: Madagaskar
+    de-ch: Madagaskar
+    din: Madagathkar
+    diq: Madagaskar
+    dsb: Madagaskar
+    dty: मडागास्कर
+    dv: މަޑަގަސްކަރަ
+    ee: Madagascar
+    el: Μαδαγασκάρη
+    en: Madagascar
+    en-us: Madagascar
+    eo: Madagaskaro
+    es: Madagascar
+    et: Madagaskar
+    eu: Madagaskar
+    ext: Madagascal
+    fa: ماداگاسکار
+    ff: Madagaskar
+    fi: Madagaskar
+    fj: Madagasikar
+    fo: Madagaskar
+    fon: Madagascartò
+    fr: Madagascar
+    frp: Madagascâr
+    frr: Madagaskar
+    fy: Madagaskar
+    ga: Madagascar
+    gaa: Madagaska
+    gag: Madagaskar
+    gcr: Madagaskar
+    gd: Madagascar
+    gl: Madagascar
+    glk: ماداگاسکار
+    gn: Madagaka
+    gpe: Madagascar
+    gsw: Madagaskar
+    gu: મડાગાસ્કર
+    gur: Madagascar
+    gv: Madagascar
+    ha: Madagaskar
+    hak: Madagascar
+    he: מדגסקר
+    hi: मेडागास्कर
+    hif: Madagascar
+    hr: Madagaskar
+    hsb: Madagaskar
+    ht: Madagaskar
+    hu: Madagaszkár
+    hy: Մադագասկար
+    hyw: Մատակասքար
+    ia: Madagascar
+    id: Madagaskar
+    ie: Madagascar
+    ig: Madagascar
+    ilo: Madagascar
+    io: Madagaskar
+    is: Madagaskar
+    it: Madagascar
+    ja: マダガスカル
+    jam: Madagiaska
+    jv: Madagaskar
+    ka: მადაგასკარი
+    kaa: Madagaskar
+    kab: Madagaskar
+    kbp: Madakasɩkarɩ
+    kcg: Mada̱ga̱si̱ka
+    kg: Malagasi
+    ki: Madagascar
+    kk: Мадагаскар
+    kl: Madagascar
+    km: ម៉ាដាហ្គាស្ការ
+    kn: ಮಡಗಾಸ್ಕರ್
+    ko: 마다가스카르
+    ko-kp: 마다가스까르
+    krc: Мадагаскар
+    ks: مَڈَغاسکر
+    ku: Madagaskar
+    kw: Madagaskar
+    ky: Мадагаскар Республикасы
+    la: Madagascaria
+    lad: Madagaskar
+    lb: Madagaskar
+    lfn: Madagasicara
+    lg: Madagascar
+    li: Madagaskar
+    lij: Madagascar
+    lld: Madagascar
+    lmo: Madagascar
+    ln: Madagasikari
+    lo: ປະເທດມາດາກັສກາ
+    lrc: ماداگاسکار
+    lt: Madagaskaras
+    ltg: Madagaskars
+    lv: Madagaskara
+    lzh: 馬達加斯加
+    mdf: Мадагаскар
+    mg: Madagasikara
+    mhr: Мадагаскар
+    mi: Marakāhia
+    min: Madagaskar
+    mk: Мадагаскар
+    ml: മഡഗാസ്കർ
+    mn: Мадагаскар
+    mni: ꯃꯦꯗꯒꯥꯁ꯭ꯀꯔ
+    mr: मादागास्कर
+    mrj: Мадагаскар
+    ms: Madagaskar
+    mt: Madagascar
+    my: မဒါဂတ်စကားနိုင်ငံ
+    mzn: ماداگاسکار
+    na: Madagascar
+    nah: Madagascar
+    nan: Madagascar
+    nb: Madagaskar
+    nds: Madagaskar
+    nds-nl: Madagaskar
+    ne: माडागास्कर
+    new: माडागास्कर
+    nl: Madagaskar
+    nn: Madagaskar
+    nov: Madagaskar
+    nqo: ߡߊ߬ߘߜ߭ߊߛߑߞߊߙ
+    nso: Madagascar
+    nup: Madagascar
+    nv: Mágí Bitseeʼ Noodǫ́zí Bikéyah
+    ny: Madagascar
+    oc: Madagascar
+    olo: Madagaskar
+    om: Madagascar
+    or: ମେଡାଗାସ୍କର
+    os: Мадагаскар
+    pa: ਮਾਦਾਗਾਸਕਰ
+    pam: Madagascar
+    pap: Madagascar
+    pcd: Madagascar
+    pcm: Madagaska
+    pdc: Madagascar
+    pi: मडगास्कर
+    pih: Madagascar
+    pl: Madagaskar
+    pms: Madagascar
+    pnb: مڈغاسکر
+    pnt: Μαδαγασκάρην
+    ps: مادغاسکر
+    pt: Madagáscar
+    pt-br: Madagascar
+    qu: Madagaskar
+    rmy: Madagascar
+    ro: Madagascar
+    ru: Мадагаскар
+    rw: Madagasikari
+    sa: मडगास्कर
+    sah: Мадагаскар
+    sat: ᱢᱟᱫᱟᱜᱟᱥᱠᱟᱨ
+    sc: Madagascàr
+    scn: Madagascar
+    sco: Madagascar
+    sd: مڊگاسڪر
+    se: Madagaskar
+    sg: Madagaskära
+    sgs: Madagaskars
+    sh: Madagaskar
+    shi: Madaɣacqar
+    shn: မိူင်းမၢတ်ႈတႃႇၵၢတ်ႈသၵႃႇ
+    si: මැඩගස්කරය
+    sk: Madagaskar
+    sl: Madagaskar
+    sm: Madagascar
+    smj: Madagáskar
+    smn: Madagaskar
+    sms: Madagaskar
+    sn: Madagascar
+    so: Madagaskar
+    sq: Madagaskari
+    sr: Мадагаскар
+    sr-ec: Мадагаскар
+    sr-el: Madagaskar
+    ss: IMadagasikha
+    st: Madagascar
+    stq: Madagaskar
+    su: Madagaskar
+    sv: Madagaskar
+    sw: Madagaska
+    syl: ꠝꠣꠖꠣꠉꠣꠡ꠆ꠇꠣꠞ
+    szl: Madagaskar
+    szy: Madagascar
+    ta: மடகாசுகர்
+    tay: Madagascar
+    te: మడగాస్కర్
+    tg: Мадагаскар
+    th: ประเทศมาดากัสการ์
+    ti: ማዳጋስካር
+    tk: Madagaskar
+    tl: Madagaskar
+    tly: Madagaskar
+    to: Matakasika
+    tok: ma Malakasi
+    tr: Madagaskar
+    trv: Madagascar
+    ts: Madagascar
+    tt: Мадагаскар
+    tum: Madagascar
+    ty: Madagascar
+    udm: Мадагаскар
+    ug: ماداگاسكار
+    uk: Мадагаскар
+    ur: مڈغاسکر
+    uz: Madagaskar
+    vec: Madagascar
+    vep: Madagaskar
+    vi: Madagascar
+    vls: Madagaskar
+    vo: Malagaseän
+    vro: Madagaskar
+    wa: Madagascar
+    war: Madagascar
+    wo: Madagaskaar
+    wuu: 馬達加斯加
+    xal: Мадагаскармудин Орн
+    xmf: მადაგასკარი
+    yi: מאדאגאסקאר
+    yo: Madagáskàr
+    yue: 馬達加斯加
+    za: Madagascar
+    zea: Madahaskar
+    zgh: ⵎⴰⴷⴰⴳⴰⵙⴽⴰⵔ
+    zh: 馬達加斯加
+    zh-cn: 马达加斯加
+    zh-hans: 马达加斯加
+    zh-hant: 馬達加斯加
+    zh-hk: 馬達加斯加
+    zh-mo: 马达加斯加
+    zh-my: 马达加斯加
+    zh-sg: 马达加斯加
+    zh-tw: 馬達加斯加
+    zu: IMadagasika
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Madagascar
 dv_has_name_de: Madagaskar
 dv_Area-Total: 587041
 dv_Area-Land: 581540
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: RM
-dv_Capital: "[[Antananarivo]]"
+dv_Capital: '[[Antananarivo]]'
 dv_Alcohol-l: 1.3
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 47.5083
 dv_has_place_latitude: -18.8933
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/Madagascar.public|Madagascar.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]"
+- '[[../../../../WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/Madagascar.public|Madagascar.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Madagascar
 ---
-
 # [[Madagascar]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

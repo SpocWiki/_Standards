@@ -1,9 +1,161 @@
 ---
 aliases:
-  - fruit sugar
-  - Fruchtzucker
-  - Fructose
+- D-(−)-Fructose (offenkettig)
+- Froktôzy
+- Fruchtzucker
+- fruchtós
+- fructosa
+- Fructose
+- Fructosum
+- Fructoză
+- Fructòsa
+- fruit sugar
+- Fruktoaze
+- fruktoos
+- fruktoosi
+- fruktos
+- Fruktosa
+- Fruktose
+- Fruktoz
+- fruktoza
+- fruktoze
+- fruktozo
+- Fruktozė
+- fruktsukker
+- fruktóz
+- fruktóza
+- Frutosa
+- Frutose
+- fruttosio
+- Frwktoza
+- I-Fructose
+- keto-D-fructose
+- keto-D-fruktoza
+- Pruktosa
+- Wayu misk'i
+- φρουκτόζη
+- Фруктоз
+- фруктоза
+- Լևուլոզ
+- פרוקטוז
+- فركتوز
+- فروکتوز
+- فروکتۆز
+- فرۋكتوزا
+- कीटो-डी-फ्रुक्टोज
+- ফ্রুক্টোজ
+- புருக்டோசு
+- ฟรักโทส
+- ນ້ຳຕານໝາກໄມ້
+- フルクトース
+- 果糖
+- 菓醣
+- 프럭토스
 has_id_wikidata: Q122043
+dv_has_:
+  name_:
+    af: Fruktose
+    ar: فركتوز
+    arz: فركتوز
+    ast: Fructosa
+    azb: فروکتوز
+    be: фруктоза
+    be-tarask: фруктоза
+    bg: Фруктоза
+    bn: ফ্রুক্টোজ
+    bs: fruktoza
+    ca: fructosa
+    cs: fruktóza
+    da: Fruktose
+    de: D-(−)-Fructose (offenkettig)
+    el: φρουκτόζη
+    en: keto-D-fructose
+    en-us: keto-D-fructose
+    eo: fruktozo
+    es: fructosa
+    et: fruktoos
+    eu: Fruktosa
+    fa: فروکتوز
+    fi: fruktoosi
+    fr: fructose
+    fy: Fruktoaze
+    ga: fruchtós
+    gl: Frutosa
+    he: פרוקטוז
+    hi: कीटो-डी-फ्रुक्टोज
+    hr: Fruktoza
+    hu: fruktóz
+    hy: Լևուլոզ
+    id: Fruktosa
+    it: fruttosio
+    ja: フルクトース
+    jv: Fruktosa
+    kk: Фруктоза
+    kk-arab: فرۋكتوزا
+    kk-cn: فرۋكتوزا
+    kk-cyrl: Фруктоза
+    kk-kz: Фруктоза
+    kk-latn: Frwktoza
+    kk-tr: Frwktoza
+    ko: 프럭토스
+    ku: Fruktoz
+    ku-arab: فروکتۆز
+    ku-latn: Fruktoz
+    kw: fruktos
+    ky: фруктоза
+    la: Fructosum
+    lb: Fruktos
+    lo: ນ້ຳຕານໝາກໄມ້
+    lt: Fruktozė
+    lv: fruktoze
+    mg: Froktôzy
+    mk: Фруктоза
+    mn: Фруктоз
+    ms: Fruktosa
+    nb: fruktsukker
+    nl: fructose
+    nn: fruktose
+    oc: Fructòsa
+    pl: fruktoza
+    pt: Frutose
+    pt-br: frutose
+    qu: Wayu misk'i
+    ro: Fructoză
+    ru: фруктоза
+    sco: fructose
+    se: fruktosa
+    sh: Fruktoza
+    sk: fruktóza
+    sl: keto-D-fruktoza
+    smn: fruktoos
+    sms: fruktoos
+    sq: Fruktoza
+    sr: фруктоза
+    sr-ec: фруктоза
+    sr-el: fruktoza
+    su: Fruktosa
+    sv: fruktos
+    ta: புருக்டோசு
+    tg: Фруктоза
+    th: ฟรักโทส
+    tl: Pruktosa
+    tr: Fruktoz
+    tt: Fruktoza
+    uk: фруктоза
+    ur: Fructose
+    uz: Fruktoza
+    vi: fructose
+    war: Fructose
+    wuu: 果糖
+    yue: 菓醣
+    zh: 果糖
+    zh-cn: 果糖
+    zh-hans: 果糖
+    zh-hant: 果糖
+    zh-hk: 果糖
+    zh-sg: 果糖
+    zh-tw: 果糖
+    zu: I-Fructose
 ---
 ## #has_/text_of_/abstract 
 

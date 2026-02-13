@@ -1,10 +1,132 @@
 ---
 aliases:
-  - Nobel Peace Prize
-  - Friedensnobelpreis
-  - Peace_Nobel_Prize
-  - Peace Nobel Prize
+- Anexo:Ganadores del Premio Nobel de la Paz
+- Appendice:Lista de premiatos del Premio Nobel pro Labor Pacific
+- Daftar penerima Nobel Perdamaian
+- Danh sách người đoạt giải Nobel Hòa bình
+- Dhaptar pamenang bebungah Nobel Perdamaian
+- Elèinc di Prémi Nobel per la Pêś
+- Friedensnobelpreis
+- laureaci Pokojowej Nagrody Nobla
+- Laureados com o Nobel da Paz
+- Lies vaan Nobelprieswinners (vrei)
+- list of nobel peace
+- list of Nobel Peace Prize laureates
+- Liste der Friedensnobelpreisträger
+- liste des lauréats du Prix Nobel de la paix
+- liste over modtagere af Nobels Fredspris
+- liste over vinnere av Nobels fredspris
+- Liste vo de Fridesnobelpriisträger
+- listo di Nobel-laureati pri paco
+- listo Nobel-ráávhupalhâšume vyeittein
+- Listu Nobela ráfibálkkašumi vuitiin
+- llista de guardonats amb el Premi Nobel de la Pau
+- luettelo Nobelin rauhanpalkinnon saaneista
+- Lëscht Nobelpräis Fridden
+- Lîsteya Xelatgirên Nobela Aştiyê
+- Nobel Barış Ödülü sahipleri listesi
+- Nobel Peace Prize
+- Nobel Sülh mükafatı laureatlarının siyahısı
+- Nobel-békedíjasok listája
+- Nobela Miera prēmijas laureāti
+- Nobeli rahuauhinna laureaatide loend
+- Peace Nobel Prize
+- Peace_Nobel_Prize
+- Senarai penerima Hadiah Keamanan Nobel
+- Seznam nositelů Nobelovy ceny za mír
+- Spisak dobitnika Nobelove nagrade za mir
+- Tinchlik uchun Nobel mukofoti laureatlari roʻyxati
+- vincitori del premio Nobel per la pace
+- Vincitura dû Nobel pâ paci
+- Бейбітшілік саласында Нобель сыйлығының лауреаттарының тізімі
+- Спіс лаўрэатаў Нобелеўскай прэміі міру
+- Списак добитника Нобелове награде за мир
+- Список лауреатів Нобелівської премії миру
+- Список лауреатов Нобелевской премии мира
+- Феҳристи ғолибони Ҷоизаи сулҳи Нобел
+- Նոբելյան մրցանակի դափնեկիրներ
+- الحاصلين على جائزة نوبل للسلام
+- فهرست برندگان جایزه صلح نوبل
+- نوبل امن انعام حاصل کرنے والوں کی فہرست
+- نوبل صلح جایزه بورده ئون
+- پێڕستی براوەکانی خەڵاتی نۆبێلی ئاشتی
+- नोबेल शांति पुरस्कार विजेताओं की सूची
+- ন'বেল বঁটা বিজয়ী
+- শান্তিতে নোবেল বিজয়ীদের তালিকা
+- ནོའོ་བྷེལ་བྱ་དགའ་རགས་མཁན་གྱི་མིང་ཐོ།
+- ငြိမ်းချမ်းရေး နိုဘယ်ဆုရှင်များ
+- ნობელის პრემიის ლაურეატები მშვიდობის განმტკიცების დარგში
+- បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែលសន្តិភាព
+- ノーベル平和賞受賞者の一覧
+- 諾貝爾和平獎得主一覽
+- 諾貝爾和平獎得主列表
+- 노벨 평화상 수상자 목록
 has_id_wikidata: Q643610
+dv_has_:
+  name_:
+    ar: الحاصلين على جائزة نوبل للسلام
+    as: ন'বেল বঁটা বিজয়ী
+    az: Nobel Sülh mükafatı laureatlarının siyahısı
+    be: Спіс лаўрэатаў Нобелеўскай прэміі міру
+    bn: শান্তিতে নোবেল বিজয়ীদের তালিকা
+    bo: ནོའོ་བྷེལ་བྱ་དགའ་རགས་མཁན་གྱི་མིང་ཐོ།
+    bs: Spisak dobitnika Nobelove nagrade za mir
+    ca: llista de guardonats amb el Premi Nobel de la Pau
+    ckb: پێڕستی براوەکانی خەڵاتی نۆبێلی ئاشتی
+    cs: Seznam nositelů Nobelovy ceny za mír
+    da: liste over modtagere af Nobels Fredspris
+    de: Liste der Friedensnobelpreisträger
+    de-ch: Liste der Friedensnobelpreisträger
+    eml: Elèinc di Prémi Nobel per la Pêś
+    en: list of Nobel Peace Prize laureates
+    en-ca: list of Nobel Peace Prize laureates
+    en-gb: list of Nobel Peace Prize laureates
+    en-us: list of Nobel Peace Prize laureates
+    es: Anexo:Ganadores del Premio Nobel de la Paz
+    et: Nobeli rahuauhinna laureaatide loend
+    fa: فهرست برندگان جایزه صلح نوبل
+    fi: luettelo Nobelin rauhanpalkinnon saaneista
+    fr: liste des lauréats du Prix Nobel de la paix
+    gsw: Liste vo de Fridesnobelpriisträger
+    hi: नोबेल शांति पुरस्कार विजेताओं की सूची
+    hu: Nobel-békedíjasok listája
+    hy: Նոբելյան մրցանակի դափնեկիրներ
+    ia: Appendice:Lista de premiatos del Premio Nobel pro Labor Pacific
+    id: Daftar penerima Nobel Perdamaian
+    io: listo di Nobel-laureati pri paco
+    it: vincitori del premio Nobel per la pace
+    ja: ノーベル平和賞受賞者の一覧
+    jv: Dhaptar pamenang bebungah Nobel Perdamaian
+    ka: ნობელის პრემიის ლაურეატები მშვიდობის განმტკიცების დარგში
+    kk: Бейбітшілік саласында Нобель сыйлығының лауреаттарының тізімі
+    km: បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែលសន្តិភាព
+    ko: 노벨 평화상 수상자 목록
+    ku: Lîsteya Xelatgirên Nobela Aştiyê
+    lb: Lëscht Nobelpräis Fridden
+    li: Lies vaan Nobelprieswinners (vrei)
+    lv: Nobela Miera prēmijas laureāti
+    ms: Senarai penerima Hadiah Keamanan Nobel
+    my: ငြိမ်းချမ်းရေး နိုဘယ်ဆုရှင်များ
+    mzn: نوبل صلح جایزه بورده ئون
+    nb: liste over vinnere av Nobels fredspris
+    pl: laureaci Pokojowej Nagrody Nobla
+    pt: Laureados com o Nobel da Paz
+    ru: Список лауреатов Нобелевской премии мира
+    scn: Vincitura dû Nobel pâ paci
+    se: Listu Nobela ráfibálkkašumi vuitiin
+    smn: listo Nobel-ráávhupalhâšume vyeittein
+    sr: Списак добитника Нобелове награде за мир
+    te: list of nobel peace
+    tg: Феҳристи ғолибони Ҷоизаи сулҳи Нобел
+    tr: Nobel Barış Ödülü sahipleri listesi
+    uk: Список лауреатів Нобелівської премії миру
+    ur: نوبل امن انعام حاصل کرنے والوں کی فہرست
+    uz: Tinchlik uchun Nobel mukofoti laureatlari roʻyxati
+    vi: Danh sách người đoạt giải Nobel Hòa bình
+    yue: 諾貝爾和平獎得主一覽
+    zh: 諾貝爾和平獎得主列表
+    zh-hant: 諾貝爾和平獎得主列表
+    zh-hk: 諾貝爾和平獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

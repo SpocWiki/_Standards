@@ -1,9 +1,161 @@
 ---
 aliases:
-  - Sean Bean
-  - Shaun Mark Bean
-  - Bean,Sean
+- Bean,Sean
+- Ioannes Bean
+- Sean Bean
+- Shaun Mark Bean
+- Şon Bin
+- Šon Bin
+- Šons Bīns
+- Σον Μπιν
+- Шон Бін
+- Шон Бийн
+- Шон Бин
+- Шон Марк Бин
+- Շոն Բին
+- שון בין
+- شان بین
+- شون بين
+- شون بین
+- শন বিন
+- சான் பீன்
+- സീൻ ബീൻ
+- შონ ბინი
+- ショーン・ビーン
+- 尚·比恩
+- 肖恩·比恩
+- 西恩·賓
+- 辛·宾
+- 辛·般
+- 辛般
+- 숀 빈
 has_id_wikidata: Q191104
+dv_has_:
+  name_:
+    af: Sean Bean
+    an: Sean Bean
+    ar: شون بين
+    arz: شون بين
+    ast: Sean Bean
+    az: Şon Bin
+    azb: شان بین
+    bar: Sean Bean
+    be: Шон Бін
+    be-tarask: Шон Бін
+    bg: Шон Бийн
+    bm: Sean Bean
+    bn: শন বিন
+    br: Sean Bean
+    ca: Sean Bean
+    co: Sean Bean
+    cs: Sean Bean
+    cy: Sean Bean
+    da: Sean Bean
+    de: Sean Bean
+    de-at: Sean Bean
+    de-ch: Sean Bean
+    el: Σον Μπιν
+    en: Sean Bean
+    en-ca: Sean Bean
+    en-gb: Sean Bean
+    eo: Sean Bean
+    es: Sean Bean
+    et: Sean Bean
+    eu: Sean Bean
+    fa: شون بین
+    fi: Sean Bean
+    fr: Sean Bean
+    frc: Sean Bean
+    frp: Sean Bean
+    fur: Sean Bean
+    ga: Sean Bean
+    gd: Sean Bean
+    gl: Sean Bean
+    gsw: Sean Bean
+    he: שון בין
+    hr: Sean Bean
+    ht: Sean Bean
+    hu: Sean Bean
+    hy: Շոն Բին
+    ia: Sean Bean
+    id: Sean Bean
+    ie: Sean Bean
+    io: Sean Bean
+    it: Sean Bean
+    ja: ショーン・ビーン
+    jam: Sean Bean
+    ka: შონ ბინი
+    kab: Sean Bean
+    kg: Sean Bean
+    kk: Шон Марк Бин
+    ko: 숀 빈
+    ky: Шон Бин
+    la: Ioannes Bean
+    lb: Sean Bean
+    li: Sean Bean
+    lij: Sean Bean
+    lt: Sean Bean
+    lv: Šons Bīns
+    mg: Sean Bean
+    min: Sean Bean
+    mk: Шон Бин
+    ml: സീൻ ബീൻ
+    ms: Sean Bean
+    mul: Sean Bean
+    nap: Sean Bean
+    nb: Sean Bean
+    nds: Sean Bean
+    nds-nl: Sean Bean
+    nl: Sean Bean
+    nn: Sean Bean
+    nrm: Sean Bean
+    oc: Sean Bean
+    pap: Sean Bean
+    pcd: Sean Bean
+    pl: Sean Bean
+    pms: Sean Bean
+    prg: Sean Bean
+    pt: Sean Bean
+    pt-br: Sean Bean
+    rgn: Sean Bean
+    rm: Sean Bean
+    ro: Sean Bean
+    ru: Шон Бин
+    sc: Sean Bean
+    scn: Sean Bean
+    sco: Sean Bean
+    sh: Sean Bean
+    sk: Sean Bean
+    sl: Sean Bean
+    sq: Sean Bean
+    sr: Шон Бин
+    sr-ec: Шон Бин
+    sr-el: Šon Bin
+    sv: Sean Bean
+    sw: Sean Bean
+    ta: சான் பீன்
+    tr: Sean Bean
+    uk: Шон Бін
+    uz: Sean Bean
+    vec: Sean Bean
+    vi: Sean Bean
+    vls: Sean Bean
+    vmf: Sean Bean
+    vo: Sean Bean
+    wa: Sean Bean
+    wo: Sean Bean
+    wuu: 肖恩·比恩
+    xmf: შონ ბინი
+    yue: 辛般
+    zh: 肖恩·比恩
+    zh-cn: 肖恩·比恩
+    zh-hans: 肖恩·比恩
+    zh-hant: 肖恩·比恩
+    zh-hk: 辛·般
+    zh-my: 辛·宾
+    zh-sg: 尚·比恩
+    zh-tw: 西恩·賓
+    zu: Sean Bean
 ---
 # [[Bean,Sean]] 
 

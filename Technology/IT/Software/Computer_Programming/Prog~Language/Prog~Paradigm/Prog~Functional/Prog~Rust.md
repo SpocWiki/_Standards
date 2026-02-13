@@ -1,112 +1,126 @@
 ---
-has_time_started: 2006-01-01 
+has_time_started: 2006-01-01
 aliases:
-  - Prog~Rust
+- Prog~Rust
+- Rust
+- Rust (gjuhë programimi)
+- Rust (lenguagg de programazzion)
+- Rust (програмски језик)
+- toki ilo Wasi
+- راست
+- رست
+- রাস্ট
+- રસ્ટ
+- రస్ట్
+- റസ്റ്റ്
+- รัสต์
+- ꠞꠣꠡ꠆ꠐ
+- 러스트
 has_id_wikidata: Q575650
 AUR_package:
-  - cargo-git
-  - rls-git
-  - rust-analysis-git
-  - rust-bin
-  - rust-docs-git
-  - rust-git
-  - rust-nightly
-  - rust-nightly-bin
-  - rust-nightly-doc
-  - rust-nightly-src
-  - rust-src
-  - rust-src-git
+- cargo-git
+- rls-git
+- rust-analysis-git
+- rust-bin
+- rust-docs-git
+- rust-git
+- rust-nightly
+- rust-nightly-bin
+- rust-nightly-doc
+- rust-nightly-src
+- rust-src
+- rust-src-git
 Gentoo_package:
-  - dev-lang/rust
-  - dev-lang/rust-bin
+- dev-lang/rust
+- dev-lang/rust-bin
 Wolfram_Language_entity_code: Entity["ProgrammingLanguage", "Rust::8y9w4"]
 OpenBSD_port: lang/rust
 FreeBSD_port:
-  - lang/rust
-  - lang/rust-nightly
+- lang/rust
+- lang/rust-nightly
 Arch_Linux_package:
-  - lib32-rust-libs
-  - rust-docs
-  - rust-musl
-  - rust
+- lib32-rust-libs
+- rust-docs
+- rust-musl
+- rust
 Docker_Hub_repository: library/rust
 PyPI_trove_classifier: 'Programming Language :: Rust'
 Commons_category: Rust (programming language)
 ArchWiki_article:
-  - Rust_(Português)
-  - Rust_(Русский)
-  - Rust
+- Rust_(Português)
+- Rust_(Русский)
+- Rust
 Bluesky_handle: rust-lang.org
 GitHub_topic:
-  - rust-language
-  - rust
-  - rust-lang
+- rust-language
+- rust
+- rust-lang
 Mastodon_address: rust@social.rust-lang.org
 hashtag: rustlang
 X_Twitter_username: rustlang
 influenced_by:
-  - '[[_Standards/WikiData/WD~Cyclone,79598]]'
-  - '[[_Standards/WikiData/WD~Q161053,161053]]'
-  - '[[_Standards/WikiData/WD~Q187560,187560]]'
-  - '[[_Standards/WikiData/WD~OCaml,212587]]'
-  - '[[_Standards/WikiData/WD~Newsqueak,262003]]'
-  - '[[_Standards/WikiData/WD~Erlang,334879]]'
-  - '[[_Standards/WikiData/WD~Limbo,544927]]'
-  - '[[_Standards/WikiData/WD~Standard_ML,597330]]'
-  - '[[_Standards/WikiData/WD~Alef,1895587]]'
-  - '[[_Standards/WikiData/WD~Q17118377,17118377]]'
-  - '[[_Standards/WikiData/WD~Q2370,2370]]'
-  - '[[../../../../../../../WikiData/WD~Q2407,2407]]'
-  - '[[_Standards/WikiData/WD~Q34010,34010]]'
+- '[[_Standards/WikiData/WD~Cyclone,79598]]'
+- '[[_Standards/WikiData/WD~Q161053,161053]]'
+- '[[_Standards/WikiData/WD~Q187560,187560]]'
+- '[[_Standards/WikiData/WD~OCaml,212587]]'
+- '[[_Standards/WikiData/WD~Newsqueak,262003]]'
+- '[[_Standards/WikiData/WD~Erlang,334879]]'
+- '[[_Standards/WikiData/WD~Limbo,544927]]'
+- '[[_Standards/WikiData/WD~Standard_ML,597330]]'
+- '[[_Standards/WikiData/WD~Alef,1895587]]'
+- '[[_Standards/WikiData/WD~Q17118377,17118377]]'
+- '[[_Standards/WikiData/WD~Q2370,2370]]'
+- '[[../../../../../../../WikiData/WD~Q2407,2407]]'
+- '[[_Standards/WikiData/WD~Q34010,34010]]'
 programming_paradigm:
-  - '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
-  - '[[_Standards/WikiData/WD~concurrent_computing,128392]]'
-  - '[[_Standards/WikiData/WD~functional_programming,193076]]'
-  - '[[_Standards/WikiData/WD~imperative_programming,275596]]'
-  - '[[_Standards/WikiData/WD~generic_programming,1051282]]'
+- '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+- '[[_Standards/WikiData/WD~concurrent_computing,128392]]'
+- '[[_Standards/WikiData/WD~functional_programming,193076]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~generic_programming,1051282]]'
 platform:
-  - '[[_Standards/WikiData/WD~cross_platform,174666]]'
-  - '[[_Standards/WikiData/WD~WebAssembly,20155677]]'
-  - '[[_Standards/WikiData/WD~Linux,388]]'
-  - '[[../../../../../../../WikiData/WD~Microsoft_Windows,1406]]'
-  - '[[../../../../../../../WikiData/WD~macOS,14116]]'
-  - '[[../../../../../../../WikiData/WD~Q94,94]]'
-  - '[[_Standards/WikiData/WD~Q34236,34236]]'
-  - '[[../../../../../../../WikiData/WD~Q48493,48493]]'
+- '[[_Standards/WikiData/WD~cross_platform,174666]]'
+- '[[_Standards/WikiData/WD~WebAssembly,20155677]]'
+- '[[_Standards/WikiData/WD~Linux,388]]'
+- '[[../../../../../../../WikiData/WD~Microsoft_Windows,1406]]'
+- '[[../../../../../../../WikiData/WD~macOS,14116]]'
+- '[[../../../../../../../WikiData/WD~Q94,94]]'
+- '[[_Standards/WikiData/WD~Q34236,34236]]'
+- '[[../../../../../../../WikiData/WD~Q48493,48493]]'
 different_from:
-  - '[[_Standards/WikiData/WD~rust,184197]]'
-  - '[[_Standards/WikiData/WD~Rust,259214]]'
-  - '[[_Standards/WikiData/WD~Rust,632924]]'
-  - '[[_Standards/WikiData/WD~Pucciniales,1130524]]'
-  - '[[_Standards/WikiData/WD~Rust,15304961]]'
+- '[[_Standards/WikiData/WD~rust,184197]]'
+- '[[_Standards/WikiData/WD~Rust,259214]]'
+- '[[_Standards/WikiData/WD~Rust,632924]]'
+- '[[_Standards/WikiData/WD~Pucciniales,1130524]]'
+- '[[_Standards/WikiData/WD~Rust,15304961]]'
 typing_discipline:
-  - '[[_Standards/WikiData/WD~Hindley_Milner,200996]]'
-  - '[[_Standards/WikiData/WD~inference_typing,586459]]'
-  - '[[_Standards/WikiData/WD~strong_typing,991202]]'
-  - '[[_Standards/WikiData/WD~static_typing,1940914]]'
-  - '[[_Standards/WikiData/WD~nominative_typing,3509459]]'
-  - '[[_Standards/WikiData/WD~linear_typing,72735794]]'
+- '[[_Standards/WikiData/WD~Hindley_Milner,200996]]'
+- '[[_Standards/WikiData/WD~inference_typing,586459]]'
+- '[[_Standards/WikiData/WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914]]'
+- '[[_Standards/WikiData/WD~nominative_typing,3509459]]'
+- '[[_Standards/WikiData/WD~linear_typing,72735794]]'
 copyright_license:
-  - '[[_Standards/WikiData/WD~MIT_License,334661]]'
-  - '[[_Standards/WikiData/WD~Apache_Software_License_2.0,13785927]]'
+- '[[_Standards/WikiData/WD~MIT_License,334661]]'
+- '[[_Standards/WikiData/WD~Apache_Software_License_2.0,13785927]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~free_and_open_source_software,506883]]'
-  - '[[_Standards/WikiData/WD~compiled_language,651794]]'
-  - '[[_Standards/WikiData/WD~functional_programming_language,3839507]]'
-  - '[[_Standards/WikiData/WD~systems_programming_language,4117397]]'
-  - '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
-  - '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
-  - '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
-  - '[[_Standards/WikiData/WD~programming_language,9143]]'
+- '[[_Standards/WikiData/WD~free_and_open_source_software,506883]]'
+- '[[_Standards/WikiData/WD~compiled_language,651794]]'
+- '[[_Standards/WikiData/WD~functional_programming_language,3839507]]'
+- '[[_Standards/WikiData/WD~systems_programming_language,4117397]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
+- '[[_Standards/WikiData/WD~programming_language,9143]]'
 named_after: '[[_Standards/WikiData/WD~Pucciniales,1130524]]'
 has_goal:
-  - '[[_Standards/WikiData/WD~computer_performance,1197550]]'
-  - '[[_Standards/WikiData/WD~memory_safety,4080983]]'
-  - '[[_Standards/WikiData/WD~fearless_concurrency,115089572]]'
+- '[[_Standards/WikiData/WD~computer_performance,1197550]]'
+- '[[_Standards/WikiData/WD~memory_safety,4080983]]'
+- '[[_Standards/WikiData/WD~fearless_concurrency,115089572]]'
 developer:
-  - '[[_Standards/WikiData/WD~Q28937563,28937563]]'
-  - '[[_Standards/WikiData/WD~Q105394699,105394699]]'
-  - '[[_Standards/WikiData/WD~Q9661,9661]]'
+- '[[_Standards/WikiData/WD~Q28937563,28937563]]'
+- '[[_Standards/WikiData/WD~Q105394699,105394699]]'
+- '[[_Standards/WikiData/WD~Q9661,9661]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Q28937563,28937563]]'
 designed_by: '[[_Standards/WikiData/WD~Q28937563,28937563]]'
 copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
@@ -114,8 +128,8 @@ used_by: '[[_Standards/WikiData/WD~rustc,60885542]]'
 mascot: '[[_Standards/WikiData/WD~Ferris,115028546]]'
 practiced_by: '[[_Standards/WikiData/WD~Rustacean,115099598]]'
 social_media_followers:
-  - 64800
-  - 91754
+- 64800
+- 91754
 Baidu_Tieba_name: rust
 Alpine_Linux_package: rust
 Homebrew_formula_name: rust
@@ -130,12 +144,12 @@ official_website: https://rust-lang.org/
 Free_Software_Directory_entry: Rust
 official_demo_URL: https://play.rust-lang.org/
 official_forum_URL:
-  - https://users.rust-lang.org/
-  - https://rust-lang.zulipchat.com/
+- https://users.rust-lang.org/
+- https://rust-lang.zulipchat.com/
 software_version_identifier: 1.91.1
 media_type:
-  - text/rust
-  - text/x-rust
+- text/rust
+- text/x-rust
 inception: 2006-01-01T00:00:00Z
 publication_date: 2010-07-07T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cargo%20clippy%20hello%20world%20example.png
@@ -143,6 +157,24 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rust%20programmin
 source_code_repository_URL: https://github.com/rust-lang/rust
 Mastodon_instance_URL: https://social.rust-lang.org
 Stack_Exchange_tag: https://stackoverflow.com/tags/rust
+dv_has_:
+  name_:
+    ar: رست
+    bn: রাস্ট
+    cs: Rust
+    fa: راست
+    gl: Rust
+    gu: રસ્ટ
+    ko: 러스트
+    lmo: Rust (lenguagg de programazzion)
+    ml: റസ്റ്റ്
+    mul: Rust
+    sq: Rust (gjuhë programimi)
+    sr: Rust (програмски језик)
+    syl: ꠞꠣꠡ꠆ꠐ
+    te: రస్ట్
+    th: รัสต์
+    tok: toki ilo Wasi
 ---
 # [[Prog~Rust]] 
 

@@ -1,12 +1,192 @@
 ---
 aliases:
-  - Iron
-  - Eisen
+- aean
+- airn
+- aironi
+- aiyen
+- asın
+- ayan
+- ayinanii
+- azil
+- bakal
+- basi
+- Besi
+- Bessè
+- beusi
+- bir
+- burdina
+- béésh
+- chuma
+- demir
+- diet
+- dzelzs
+- dəmir
+- ebendé
+- Eisen
+- Eisn
+- fer
+- Fere
+- ferin
+- fero
+- ferre
+- ferro
+- ferru
+- ferrum
+- fier
+- fierro
+- færo
+- fè
+- fèrre
+- fé
+- geležis
+- gelžis
+- gàn
+- haearn
+- hekuri
+- heru
+- hesin
+- hierro
+- hierru
+- horn
+- houarn
+- iarann
+- Iersen
+- Iesen
+- iezer
+- Iise
+- ijo lili nanpa 26
+- ijzer
+- insimbi
+- Iron
+- itakandua
+- izer
+- jarn
+- jern
+- járn
+- järn
+- khillay
+- kibende
+- kkalwe
+- kurugu
+- loha
+- marad
+- puthaw
+- raud
+- raudu
+- rauta
+- rino
+- ruevtie
+- ruovdde
+- ruovdi
+- ruövddie
+- ruʹvdd
+- ryevdi
+- stälj
+- sắt
+- temir
+- thiet
+- thih
+- tirse
+- tiék
+- tlīltic tepoztli
+- utare
+- uzzal
+- vas
+- vy
+- wasi
+- wesi
+- wuwate
+- wëu
+- yero
+- yiarn
+- yster
+- yzer
+- ñɩɣtʊ ñɩɣɖɛ
+- ħadid
+- īsen
+- żelazo
+- železo
+- željezo
+- σίδηρος
+- аьшк
+- гвожде
+- жєлѣꙁо
+- жалеза
+- желїзо
+- железо
+- желязо
+- залізо
+- корт
+- кшни
+- кӧрт
+- мах
+- оҳан
+- ракь
+- рӯввьт
+- темір
+- темир
+- тимĕр
+- тимер
+- тимир
+- түмэр
+- төмр
+- төмөр
+- эчиг
+- ӕфсӕйнаг
+- երկաթ
+- אייזן
+- ברזל
+- آهن
+- ئاسن
+- اوسپنه
+- تۆمۈر
+- حديد
+- دمیر
+- شؠشتٕر
+- لوهه
+- لوہا
+- ܦܪܙܠܐ
+- ދަގަނޑު
+- अयः
+- आइरन
+- नँ
+- फलाम
+- लोखंड
+- लोखण
+- लोहा
+- লো
+- লোহা
+- ਲੋਹਾ
+- લોખંડ
+- ଲୌହ
+- இரும்பு
+- ఇనుము
+- ಕಬ್ಬಿಣ
+- ಕರ್ಬೊದ ಅದುರು
+- ഇരുമ്പ്
+- යකඩ
+- เหล็ก
+- ທາດເຫຼັກ
+- ལྕགས།
+- ပသီႏ
+- သံ
+- რკინა
+- ብረት
+- ᏔᎷᎩᏍᎩ
+- ᠰᡝᠯᡝ
+- ᱢᱮᱬᱦᱮᱫ
+- ⵓⵣⵣⴰⵍ
+- 鉄
+- 鐵
+- 铁
+- ꯌꯣꯠ
+- 철
+- "\U00010334\U00010339\U00010343\U00010330\U00010342\U0001033D"
 has_id_wikidata: Q677
-associated_hazard: "[[_Standards/WikiData/WD~iron_poisoning,1172607]]"
+associated_hazard: '[[_Standards/WikiData/WD~iron_poisoning,1172607]]'
 atomic_number: 26
 boiling_point: 2861
-canonical_SMILES: "[Fe]"
+canonical_SMILES: '[Fe]'
 CAS_Registry_Number: 7439-89-6
 chemical_formula: Fe
 Commons_category: Iron
@@ -14,85 +194,85 @@ Commons_gallery: Iron
 CosIng_number: 83503
 density: 7.874
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
 Dewey_Decimal_Classification: 672
 different_from:
-  - "[[_Standards/WikiData/WD~serum_iron,2537479]]"
-  - "[[_Standards/WikiData/WD~Q20418737,20418737]]"
+- '[[_Standards/WikiData/WD~serum_iron,2537479]]'
+- '[[_Standards/WikiData/WD~Q20418737,20418737]]'
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/fd1d2a0f5ae583e820451b0fc1a8c274
 DSSTOX_compound_identifier: DTXCID3023710
 EC_number: 231-096-4
 electronegativity: 1.83
-electron_configuration: "[Ar] 3d⁶ 4s²"
+electron_configuration: '[Ar] 3d⁶ 4s²'
 element_symbol: Fe
 embodied_energy: 25
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Commiphora_africana,559137]]"
-  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
-  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
-  - "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
-  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
-  - "[[_Standards/WikiData/WD~Triumfetta_rhomboidea,10898699]]"
-  - "[[_Standards/WikiData/WD~Brackenridgea_zanguebarica,15386064]]"
-  - "[[_Standards/WikiData/WD~Allophylus_rubifolius,15469676]]"
-  - "[[_Standards/WikiData/WD~Albizia_versicolor,15492856]]"
-  - "[[_Standards/WikiData/WD~Bridelia_cathartica,15512488]]"
-  - "[[_Standards/WikiData/WD~Adenia_cissampeloides,15606489]]"
-  - "[[_Standards/WikiData/WD~Adenia_gummifera,15606925]]"
-  - "[[_Standards/WikiData/WD~Lannea_schweinfurthii_var._stuhlmannii,55872678]]"
-  - "[[_Standards/WikiData/WD~cacao,42385]]"
-  - "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
+- '[[_Standards/WikiData/WD~Commiphora_africana,559137]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
+- '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]'
+- '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
+- '[[_Standards/WikiData/WD~Triumfetta_rhomboidea,10898699]]'
+- '[[_Standards/WikiData/WD~Brackenridgea_zanguebarica,15386064]]'
+- '[[_Standards/WikiData/WD~Allophylus_rubifolius,15469676]]'
+- '[[_Standards/WikiData/WD~Albizia_versicolor,15492856]]'
+- '[[_Standards/WikiData/WD~Bridelia_cathartica,15512488]]'
+- '[[_Standards/WikiData/WD~Adenia_cissampeloides,15606489]]'
+- '[[_Standards/WikiData/WD~Adenia_gummifera,15606925]]'
+- '[[_Standards/WikiData/WD~Lannea_schweinfurthii_var._stuhlmannii,55872678]]'
+- '[[_Standards/WikiData/WD~cacao,42385]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
 Gujarati_Vishwakosh_entry: આયર્ન-લોહ
-has_characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
-has_use: "[[_Standards/WikiData/WD~iron_alloy,10772391]]"
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+has_use: '[[_Standards/WikiData/WD~iron_alloy,10772391]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20electrolytic%20and%201cm3%20cube.jpg
 IMA_Mineral_Symbol: Fe
 InChI: InChI=1S/Fe
 InChIKey: XEEYBQQBJWHFJM-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
 ionic_radius:
-  - 0.49
-  - 0.55
-  - 0.61
-  - 0.63
-  - 0.78
-  - 0.92
+- 0.49
+- 0.55
+- 0.61
+- 0.63
+- 0.78
+- 0.92
 Krugosvet_article: nauka_i_tehnika/himiya/ZHELEZO.html
-magnetic_ordering: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
+magnetic_ordering: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 mass: 55.845
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~iron_deficiency_anemia,954674]]"
-  - "[[_Standards/WikiData/WD~hypochromic_anemia,2306782]]"
+- '[[_Standards/WikiData/WD~iron_deficiency_anemia,954674]]'
+- '[[_Standards/WikiData/WD~hypochromic_anemia,2306782]]'
 melting_point: 1538
 MeSH_tree_code:
-  - D01.268.556.412
-  - D01.268.956.287
-  - D01.552.544.412
+- D01.268.556.412
+- D01.268.956.287
+- D01.552.544.412
 OmegaWiki_Defined_Meaning: 2024
 oxidation_state:
-  - 2
-  - 3
+- 2
+- 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_8,202224]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828608,22828608]]"
+- '[[_Standards/WikiData/WD~group_8,202224]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828608,22828608]]'
 PubChem_CID: 23925
 relative_permeability: 200000
 SpocWebEntityId: 16528
 subclass_of:
-  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 thermal_conductivity: 84
 time_of_discovery_or_invention: -5000
 type: Element
@@ -104,22 +284,270 @@ Wolfram_Language_entity_code: Entity["Mineral", "Iron"]
 ZVG_number: 8210
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Iron,677]]"
-    - "[[../../../WikiData/WD~Iron,677|WD~Iron,677]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]"
-  part_of: "[[../Group-08-Iron]]"
+  - '[[../../../WikiData/WD~Iron,677]]'
+  - '[[../../../WikiData/WD~Iron,677|WD~Iron,677]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]'
+  part_of: '[[../Group-08-Iron]]'
 dv_has_:
   name_:
-    group: Group-08-Iron
-    en: Iron
-    de: Eisen
     abbreviated: Fe
+    af: yster
+    am: ብረት
+    ami: marad
+    an: fierro
+    ang: īsen
+    anp: लोहा
+    ar: حديد
+    arc: ܦܪܙܠܐ
+    ary: حديد
+    arz: حديد
+    as: লো
+    ast: fierro
+    avk: azil
+    awa: आइरन
+    az: dəmir
+    azb: دمیر
+    ba: тимер
+    ban: wesi
+    bar: Eisn
+    bcl: bakal
+    be: жалеза
+    be-tarask: жалеза
+    bew: Besi
+    bg: желязо
+    bho: आइरन
+    bi: aean
+    bjn: wasi
+    blk: ပသီႏ
+    bn: লোহা
+    bo: ལྕགས།
+    br: houarn
+    bs: željezo
+    bxr: түмэр
+    ca: ferro
+    cdo: tiék
+    ce: эчиг
+    ceb: yero
+    chr: ᏔᎷᎩᏍᎩ
+    ckb: ئاسن
+    co: ferru
+    crh: demir
+    cs: železo
+    cu: жєлѣꙁо
+    cv: тимĕр
+    cy: haearn
+    da: jern
+    dag: kurugu
+    de: Eisen
+    de-ch: Eisen
+    din: wëu
+    diq: asın
+    dv: ދަގަނޑު
+    el: σίδηρος
+    en: iron
+    en-ca: iron
+    en-gb: iron
+    eo: fero
+    es: hierro
+    et: raud
+    eu: burdina
+    ext: hierru
+    fa: آهن
+    fi: rauta
+    fj: aironi
+    fo: jarn
+    fon: gàn
+    fr: fer
+    frr: stälj
+    fur: fier
+    fy: izer
+    ga: iarann
+    gan: 鐵
+    gcr: fè
+    gd: iarann
+    gl: ferro
+    gn: itakandua
+    gom: लोखण
+    gor: wuwate
+    got: "\U00010334\U00010339\U00010343\U00010330\U00010342\U0001033D"
+    gpe: iron
+    group: Group-08-Iron
+    gsw: Iise
+    gu: લોખંડ
+    gv: yiarn
+    hak: thiet
+    he: ברזל
+    hi: लोहा
+    hif: loha
+    hr: željezo
+    hsb: železo
+    ht: fè
+    hu: vas
+    hy: երկաթ
+    ia: ferro
+    id: besi
+    ie: ferre
+    inh: аьшк
+    io: fero
+    is: járn
+    it: ferro
+    ja: 鉄
+    jam: ayan
+    jbo: tirse
+    jv: wesi
+    ka: რკინა
+    kaa: temir
+    kab: uzzal
+    kbp: ñɩɣtʊ ñɩɣɖɛ
+    kg: kibende
+    ki: iron
+    kk: темір
+    kn: ಕಬ್ಬಿಣ
+    ko: 철
+    koi: кӧрт
+    ks: شؠشتٕر
+    ksh: Eisen
+    ku: hesin
+    kv: кӧрт
+    kw: horn
+    ky: темир
+    la: ferrum
+    lb: Eisen
+    lbe: мах
+    lez: ракь
+    lfn: fero
+    lg: kkalwe
+    li: iezer
+    lij: færo
+    lld: fer
+    lmo: fer
+    ln: ebendé
+    lo: ທາດເຫຼັກ
+    lt: geležis
+    lv: dzelzs
+    lzh: 鐵
+    mad: Bessè
+    mai: लोहा
+    mdf: кшни
+    mg: vy
+    mi: rino
+    min: basi
+    mk: железо
+    ml: ഇരുമ്പ്
+    mn: төмөр
+    mnc: ᠰᡝᠯᡝ
+    mni: ꯌꯣꯠ
+    mr: लोखंड
+    ms: besi
+    mt: ħadid
+    my: သံ
+    myv: кшни
+    nah: tlīltic tepoztli
+    nan: thih
+    nap: fierro
+    nb: jern
+    nds: Iesen
+    nds-nl: iezer
+    ne: फलाम
+    new: नँ
+    nl: ijzer
+    nn: jern
+    nov: Fere
+    nrm: fé
+    nv: béésh
+    oc: fèrre
+    olo: raudu
+    om: ayinanii
+    or: ଲୌହ
+    os: ӕфсӕйнаг
+    pa: ਲੋਹਾ
+    pap: heru
+    pih: aiyen
+    pl: żelazo
+    pms: fer
+    pnb: لوہا
+    ps: اوسپنه
+    pt: ferro
+    pt-br: ferro
+    qu: khillay
+    ro: fier
+    ru: железо
+    rue: желїзо
+    rup: heru
+    sa: अयः
+    sah: тимир
+    sat: ᱢᱮᱬᱦᱮᱫ
+    sc: ferru
+    scn: ferru
+    sco: airn
+    sd: لوهه
+    se: ruovdi
+    sgs: gelžis
+    sh: željezo
+    si: යකඩ
+    sjd: рӯввьт
+    sju: ruövddie
+    sk: železo
+    sl: železo
+    sma: ruevtie
+    smj: ruovdde
+    smn: ryevdi
+    sms: ruʹvdd
+    sn: utare
+    so: bir
+    sq: hekuri
+    sr: гвожде
+    stq: Iersen
+    su: beusi
+    sv: järn
+    sw: chuma
+    ta: இரும்பு
+    tcy: ಕರ್ಬೊದ ಅದುರು
+    te: ఇనుము
+    tg: оҳан
+    th: เหล็ก
+    tl: bakal
+    tok: ijo lili nanpa 26
+    tr: demir
+    tt: тимер
+    tt-cyrl: тимер
+    udm: корт
+    ug: تۆمۈر
+    uk: залізо
+    ur: لوہا
+    uz: temir
+    vec: fero
+    vep: raud
+    vi: sắt
+    vls: yzer
+    vo: ferin
+    vro: raud
+    wa: fier
+    war: puthaw
+    wuu: 铁
+    xal: төмр
+    xmf: რკინა
+    yi: אייזן
+    yo: iron
+    yue: 鐵
+    za: diet
+    zgh: ⵓⵣⵣⴰⵍ
+    zh: 鐵
+    zh-hans: 铁
+    zh-hant: 鐵
+    zh-hk: 鐵
+    zh-tw: 鐵
+    zu: insimbi
+  number_of_:
+    period: 4
+    electrons: 26
+    group: 8
   value_for_:
     weight_:
       u: 55.847
@@ -147,22 +575,18 @@ dv_has_:
       form_:
         kj_:
           mol: 349.6
-  number_of_:
-    period: 4
-    electrons: 26
-    group: 8
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Iron,677]]"
-  - "[[../../../WikiData/WD~Iron,677|WD~Iron,677]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]"
+- '[[../../../WikiData/WD~Iron,677]]'
+- '[[../../../WikiData/WD~Iron,677|WD~Iron,677]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]'
 dv_has_name_group: Group-08-Iron
-dv_is_part_of: "[[../Group-08-Iron]]"
+dv_is_part_of: '[[../Group-08-Iron]]'
 dv_has_name_en: Iron
 dv_has_name_de: Eisen
 dv_has_value_for_weight_u: 55.847
@@ -183,7 +607,6 @@ dv_has_name_abbreviated: Fe
 dv_has_number_of_electrons: 26
 dv_has_number_of_group: 8
 ---
-
 # [[Iron]] 
 
 #chemic/Element 

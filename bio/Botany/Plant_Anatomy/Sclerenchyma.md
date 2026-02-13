@@ -1,19 +1,85 @@
 ---
 aliases:
+- esclerènquima
+- Esclerénquima
+- esclerênquima
+- esklerenkima
+- sclerenchima
+- sclerenchyma
+- sclérenchyme
+- Sklerenchym
+- sklerenchyma
+- Sklerenchým
+- sklerenhim
+- sklerenhüüm
+- Sklerenkima
+- sklerenkym
+- sklerenkyymi
+- szklerenchima
+- склеранхіма
+- склеренхіма
+- склеренхим
+- склеренхима
+- Սկլերենքիմ
+- بافت زمینه
+- نسيج خشبي
+- สเคลอเรนไคมา
+- 厚壁組織
+- 厚壁组织
 has_id_wikidata: Q375601
 subclass_of:
-  - "[[_Standards/WikiData/WD~stereome,1386433]]"
-  - "[[_Standards/WikiData/WD~ground_tissue,4498191]]"
+- '[[_Standards/WikiData/WD~stereome,1386433]]'
+- '[[_Standards/WikiData/WD~ground_tissue,4498191]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristo-mac%20prim%20DM010x.jpg
 Commons_category: Sclerenchyma
+dv_has_:
+  name_:
+    ar: نسيج خشبي
+    ast: Esclerénquima
+    be: склеранхіма
+    be-tarask: склеранхіма
+    ca: esclerènquima
+    cs: Sklerenchym
+    de: Sklerenchym
+    en: sclerenchyma
+    en-ca: Sclerenchyma
+    en-gb: Sclerenchyma
+    es: esclerénquima
+    et: sklerenhüüm
+    eu: esklerenkima
+    fa: بافت زمینه
+    fi: sklerenkyymi
+    fr: sclérenchyme
+    gl: Esclerénquima
+    hu: szklerenchima
+    hy: Սկլերենքիմ
+    id: Sklerenkima
+    it: sclerenchima
+    ja: 厚壁組織
+    kk: Склеренхима
+    nb: sklerenkym
+    nl: sklerenchym
+    pl: sklerenchyma
+    pt: esclerênquima
+    pt-br: Esclerênquima
+    ru: склеренхима
+    sk: Sklerenchým
+    sl: sklerenhim
+    sq: Sklerenkima
+    sr: склеренхим
+    sv: Sklerenkym
+    th: สเคลอเรนไคมา
+    uk: склеренхіма
+    wuu: 厚壁组织
+    yue: 厚壁組織
+    zh: 厚壁组织
 ---
-
 # [[Sclerenchyma]] 
 
 #is_/same_as :: [[WD~Sclerenchyma,375601]] 

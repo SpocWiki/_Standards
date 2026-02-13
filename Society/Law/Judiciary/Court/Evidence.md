@@ -1,29 +1,150 @@
 ---
 aliases:
+- adanseɛ
+- Asitõend
+- bevis
+- Beweis
+- bewijs
+- bewyse
+- bizonyíték
+- Bukti
+- bằng chứng
+- Chèng-kù
+- Dalil
+- delil
+- dokaz
+- Dovadă
+- dowód
+- Däleldemeler
+- důkaz
+- evidence
+- evidensa
+- Froga
+- keterangan
+- preuve
+- Proba
+- Prouve
+- prova
+- Prova jurídica
+- prueba
+- pruvobjekto
+- Sübut (hüquq)
+- todistusaineisto
+- Ĕнентерӳ (юриспруденци)
+- įrodymai
+- Αποδεικτικά μέσα
+- довад
+- доказ
+- Доказателство
+- доказательство
+- Дәлелдемелер
+- процесуальні докази
+- Судовыя доказы
+- Փաստ
+- ראיות
+- إثبات
+- ادله اثبات دعوی
+- دالەلدەمەلەر
+- साक्ष्य विधि
+- သက်သေပစ္စည်း
+- သၢၵ်ႈသေႇၶူဝ်းၶွင်
+- 証拠
+- 證據
+- 证据
+- 증거
 has_id_wikidata: Q176763
 part_of:
-  - "[[_Standards/WikiData/WD~criminal_procedure,146071]]"
-  - "[[_Standards/WikiData/WD~civil_procedure,206937]]"
-  - "[[_Standards/WikiData/WD~administrative_procedure,515244]]"
-  - "[[_Standards/WikiData/WD~administrative_justice,4057631]]"
+- '[[_Standards/WikiData/WD~criminal_procedure,146071]]'
+- '[[_Standards/WikiData/WD~civil_procedure,206937]]'
+- '[[_Standards/WikiData/WD~administrative_procedure,515244]]'
+- '[[_Standards/WikiData/WD~administrative_justice,4057631]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~area_of_law,1756157]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~area_of_law,1756157]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~evidence,1347572]]"
-  - "[[_Standards/WikiData/WD~artificial_object,16686448]]"
-  - "[[_Standards/WikiData/WD~information,11028]]"
-facet_of: "[[_Standards/WikiData/WD~jurisprudence,4932206]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Evidence_law,18943648]]"
-different_from: "[[_Standards/WikiData/WD~Q19814025,19814025]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~evidential_value,110953222]]"
+- '[[_Standards/WikiData/WD~evidence,1347572]]'
+- '[[_Standards/WikiData/WD~artificial_object,16686448]]'
+- '[[_Standards/WikiData/WD~information,11028]]'
+facet_of: '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Evidence_law,18943648]]'
+different_from: '[[_Standards/WikiData/WD~Q19814025,19814025]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~evidential_value,110953222]]'
+dv_has_:
+  name_:
+    af: bewyse
+    ak: adanseɛ
+    ar: إثبات
+    az: Sübut (hüquq)
+    be: Судовыя доказы
+    be-tarask: довад
+    bg: Доказателство
+    ca: prova
+    cs: důkaz
+    cv: Ĕнентерӳ (юриспруденци)
+    de: Beweis
+    el: Αποδεικτικά μέσα
+    en: evidence
+    en-ca: Evidence
+    en-gb: evidence
+    eo: pruvobjekto
+    es: prueba
+    et: Asitõend
+    eu: Froga
+    fa: ادله اثبات دعوی
+    fi: todistusaineisto
+    fr: preuve
+    gl: Proba
+    he: ראיות
+    hi: साक्ष्य विधि
+    hu: bizonyíték
+    hy: Փաստ
+    it: prova
+    ja: 証拠
+    kk: Дәлелдемелер
+    kk-arab: دالەلدەمەلەر
+    kk-cn: دالەلدەمەلەر
+    kk-cyrl: Дәлелдемелер
+    kk-kz: Дәлелдемелер
+    kk-latn: Däleldemeler
+    kk-tr: Däleldemeler
+    ko: 증거
+    lt: įrodymai
+    ms: keterangan
+    my: သက်သေပစ္စည်း
+    nan: Chèng-kù
+    nb: bevis
+    nl: bewijs
+    pl: dowód
+    pt: prova
+    pt-br: Prova jurídica
+    ro: Dovadă
+    ru: доказательство
+    shn: သၢၵ်ႈသေႇၶူဝ်းၶွင်
+    sl: dokaz
+    sr: доказ
+    sr-ec: Доказ
+    sr-el: Dokaz
+    su: Bukti
+    sv: bevis
+    tr: delil
+    uk: процесуальні докази
+    uz: Dalil
+    vec: evidensa
+    vi: bằng chứng
+    wa: Prouve
+    zh: 證據
+    zh-cn: 证据
+    zh-hans: 证据
+    zh-hant: 證據
+    zh-hk: 證據
+    zh-sg: 证据
+    zh-tw: 證據
 ---
-
 # [[Evidence]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Evidence,176763|WD~Evidence,176763]] 

@@ -1,8 +1,163 @@
 ---
 has_id_wikidata: Q131015
+dv_has_:
+  name_:
+    ar: وضعية
+    ast: Positivismu
+    az: pozitivizm
+    be: пазітывізм
+    be-tarask: пазытывізм
+    bg: позитивизъм
+    br: soliadouriezh
+    bs: pozitivizam
+    ca: positivisme
+    ckb: پۆزیتیڤیزم
+    cs: pozitivismus
+    cy: Positifiaeth
+    da: positivisme
+    de: Positivismus
+    el: Θετικισμός
+    en: positivism
+    en-ca: Positivism
+    en-gb: Positivism
+    eo: pozitivismo
+    es: positivismo
+    et: positivism
+    eu: positibismo
+    fa: اثباتگرایی
+    fi: positivismi
+    fr: positivisme
+    fy: positivisme
+    ga: posaitíbheachas
+    gl: positivismo
+    gsw: Positivismus
+    he: פוזיטיביזם
+    hi: तथ्यवाद
+    hr: pozitivizam
+    ht: Pozitivism
+    hu: pozitivizmus
+    hy: Պոզիտիվիզմ
+    ia: positivismo
+    id: positivisme
+    io: pozitivismo
+    is: framhyggja
+    it: positivismo
+    ja: 実証主義
+    ka: პოზიტივიზმი
+    kk: позитивизм
+    kk-arab: پوزىيتىيۆىيزم
+    kk-cn: پوزىيتىيۆىيزم
+    kk-cyrl: позитивизм
+    kk-kz: позитивизм
+    kk-latn: pozïtïvïzm
+    kk-tr: pozïtïvïzm
+    ko: 실증주의
+    ky: Позитивизм
+    la: positivismus
+    li: Positivisme
+    lt: pozityvizmas
+    lv: pozitīvisms
+    ml: അനുഭവസത്താവാദം
+    mr: प्रत्यक्षार्थवाद
+    nan: Si̍t-chèng-chú-gī
+    nb: positivisme
+    new: प्रत्यक्षवाद
+    nl: positivisme
+    nn: positivisme
+    oc: positivisme
+    pa: ਪ੍ਰਤੱਖਵਾਦ
+    pl: pozytywizm
+    pms: positivism
+    ps: پوزیټویزم
+    pt: positivismo
+    pt-br: Positivismo
+    ro: pozitivism
+    ru: позитивизм
+    sco: positivism
+    sd: اثباتيت
+    sh: pozitivizam
+    sk: pozitivizmus
+    sl: pozitivizem
+    sq: Pozitivizmi
+    sr: позитивизам
+    sr-ec: позитивизам
+    sr-el: pozitivizam
+    sv: positivism
+    ta: நேர்க்காட்சியியம்
+    tg: позитивизм
+    th: ปฏิฐานนิยม
+    tr: pozitivizz
+    ug: دەلىلچىلىك پەلسەپىسى
+    uk: позитивізм
+    ur: مثبتیت
+    uz: Pozitivizm
+    vi: Chủ nghĩa thực chứng
+    wuu: 实证主义
+    yue: 實證主義
+    zh: 实证主义
+    zh-cn: 实证主义
+    zh-hans: 实证主义
+    zh-hant: 實證主義
+    zh-hk: 實證主義
+    zh-sg: 实证主义
+    zh-tw: 實證主義
+aliases:
+- Chủ nghĩa thực chứng
+- framhyggja
+- posaitíbheachas
+- positibismo
+- Positifiaeth
+- positivism
+- positivisme
+- positivismi
+- positivismo
+- Positivismu
+- Positivismus
+- Pozitivism
+- pozitivismo
+- pozitivismus
+- pozitivizam
+- pozitivizem
+- pozitivizm
+- Pozitivizmi
+- pozitivizmus
+- pozitivizz
+- pozityvizmas
+- pozitīvisms
+- pozytywizm
+- pozïtïvïzm
+- Si̍t-chèng-chú-gī
+- soliadouriezh
+- Θετικισμός
+- пазітывізм
+- пазытывізм
+- позитивізм
+- позитивизам
+- позитивизм
+- позитивизъм
+- Պոզիտիվիզմ
+- פוזיטיביזם
+- اثباتيت
+- اثباتگرایی
+- دەلىلچىلىك پەلسەپىسى
+- مثبتیت
+- وضعية
+- پوزىيتىيۆىيزم
+- پوزیټویزم
+- پۆزیتیڤیزم
+- तथ्यवाद
+- प्रत्यक्षवाद
+- प्रत्यक्षार्थवाद
+- ਪ੍ਰਤੱਖਵਾਦ
+- நேர்க்காட்சியியம்
+- അനുഭവസത്താവാദം
+- ปฏิฐานนิยม
+- პოზიტივიზმი
+- 实证主义
+- 実証主義
+- 實證主義
+- 실증주의
 ---
-
-
 # [[Positivism]] 
 
 #is_/same_as :: [[WD~Positivism,131015]] 

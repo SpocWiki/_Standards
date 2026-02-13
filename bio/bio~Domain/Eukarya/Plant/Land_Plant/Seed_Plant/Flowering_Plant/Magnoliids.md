@@ -1,8 +1,101 @@
 ---
 aliases:
-  - Magnoliids
+- Magnolianae
+- magnoliaplanter
+- magnolidni kompleks
+- Magnoliedoj
+- Magnoliid
+- Magnoliidae
+- Magnoliids
+- Magnoliidy
+- Magnoliidées
+- magnolijažiedžiai
+- magnoliowe
+- magnoliídeas
+- Magnolîdiyan
+- Magnòlida
+- Maqnolidlər
+- phân lớp Mộc lan
+- Μαγνολιίδες
+- Магнолііды
+- Магноліїди
+- Магнолиди
+- магнолиды
+- Магнолииди
+- ماغنولانيات
+- ماگنۆلیدیان
+- ميگنولئيڊس
+- مگنولیان
+- میگنولی بوٹے
+- मैग्नोलिड
+- แมกโนลิด
+- モクレン類
+- 木兰类植物
+- 木蘭類植物
+- 목련군
 title: magnoliids
 has_id_wikidata: Q846071
+dv_has_:
+  name_:
+    ar: ماغنولانيات
+    ast: magnoliids
+    az: Maqnolidlər
+    bcl: Magnoliids
+    be-tarask: Магнолііды
+    bg: Магнолииди
+    bs: Magnoliidae
+    ca: Magnòlida
+    ceb: magnoliids
+    cy: Magnoliid
+    de: Magnoliids
+    el: Μαγνολιίδες
+    en: magnoliids
+    eo: Magnoliedoj
+    es: Magnoliidae
+    eu: Magnoliidae
+    fa: مگنولیان
+    fi: magnoliids
+    fr: Magnoliidées
+    ga: magnoliids
+    hi: मैग्नोलिड
+    hr: Magnolianae
+    hu: Magnoliidae
+    id: Magnoliids
+    ilo: Magnoliids
+    it: Magnoliidae
+    ja: モクレン類
+    jv: Magnoliids
+    ko: 목련군
+    ku: Magnolîdiyan
+    ku-arab: ماگنۆلیدیان
+    ku-latn: Magnolîdiyan
+    la: Magnoliidae
+    lt: magnolijažiedžiai
+    mg: Magnoliidae
+    mk: Магнолиди
+    nb: magnoliaplanter
+    nl: Magnoliids
+    oc: Magnoliids
+    pl: magnoliowe
+    pnb: میگنولی بوٹے
+    pt: magnoliídeas
+    ro: Magnoliidae
+    ru: магнолиды
+    sco: magnoliids
+    sd: ميگنولئيڊس
+    sk: Magnoliidy
+    sl: magnolidni kompleks
+    sq: magnoliids
+    sr: Magnoliids
+    sv: Magnoliidae
+    th: แมกโนลิด
+    uk: Магноліїди
+    vi: phân lớp Mộc lan
+    war: magnoliids
+    zh: 木兰类植物
+    zh-hans: 木兰类植物
+    zh-hant: 木蘭類植物
+    zh-hk: 木蘭類植物
 ---
 # [[Magnoliids]] 
 

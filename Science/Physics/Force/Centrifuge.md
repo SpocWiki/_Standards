@@ -1,8 +1,119 @@
 ---
 has_id_wikidata: Q191134
+dv_has_:
+  name_:
+    ar: طاردة
+    ast: Centrifugadora
+    be-tarask: цэнтрыфуга
+    bg: Центрофуга
+    ca: centrifugadora
+    ckb: سەنتەرفیووج
+    cs: odstředivka
+    da: centrifuge
+    de: Zentrifuge
+    de-ch: Zentrifuge
+    el: φυγοκεντρωτής
+    en: centrifuge
+    en-ca: Centrifuge
+    en-gb: centrifuge
+    eo: centrifugilo
+    es: centrifugadora
+    et: Tsentrifuug
+    eu: Zentrifugagailu
+    fa: سانتریفوژ
+    fi: Sentrifugi
+    fr: centrifugeuse
+    ga: lártheifneoir
+    gl: Centrifugadora
+    ha: centrifuge
+    he: צנטריפוגה
+    hi: मथित्र
+    hu: centrifuga
+    hy: Ցենտրիֆուգ
+    id: Pemusing
+    is: Skilvinda
+    it: centrifuga
+    ja: 遠心分離機
+    kk: центрифуга
+    ko: 원심분리기
+    ky: центрифуга
+    la: Centrifugium
+    lt: Centrifuga
+    mk: центрифуга
+    ms: Emparan
+    nb: sentrifuge
+    nl: centrifuge
+    pl: wirówka
+    pt: centrífuga
+    ro: Centrifugă
+    ru: центрифуга
+    sah: Центрифуга
+    sk: centrifugálny
+    sl: centrifuga
+    sr: центрифуга
+    sr-ec: центрифуга
+    sr-el: centrifuga
+    sv: centrifug
+    ta: மைய விலக்கு சுழற்சிக் கருவி
+    te: అపకేంద్ర యంత్రం
+    th: เครื่องหมุนเหวี่ยง
+    tr: santrifüj
+    uk: центрифуга
+    ur: نابذہ
+    vi: máy ly tâm
+    yue: 離心機
+    zh: 離心機
+    zh-cn: 离心机
+    zh-hans: 离心机
+    zh-hant: 離心機
+    zh-hk: 離心機
+    zh-mo: 離心機
+    zh-my: 离心机
+    zh-sg: 离心机
+    zh-tw: 離心機
+aliases:
+- centrifug
+- centrifuga
+- centrifugadora
+- centrifuge
+- centrifugeuse
+- centrifugilo
+- Centrifugium
+- centrifugálny
+- Centrifugă
+- centrífuga
+- Emparan
+- lártheifneoir
+- máy ly tâm
+- odstředivka
+- Pemusing
+- santrifüj
+- sentrifuge
+- Sentrifugi
+- Skilvinda
+- Tsentrifuug
+- wirówka
+- Zentrifugagailu
+- Zentrifuge
+- φυγοκεντρωτής
+- центрифуга
+- Центрофуга
+- цэнтрыфуга
+- Ցենտրիֆուգ
+- צנטריפוגה
+- سانتریفوژ
+- سەنتەرفیووج
+- طاردة
+- نابذہ
+- मथित्र
+- மைய விலக்கு சுழற்சிக் கருவி
+- అపకేంద్ర యంత్రం
+- เครื่องหมุนเหวี่ยง
+- 离心机
+- 遠心分離機
+- 離心機
+- 원심분리기
 ---
-
-
 # [[Centrifuge]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Centrifuge,191134|WD~Centrifuge,191134]] 

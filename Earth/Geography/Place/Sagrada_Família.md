@@ -1,69 +1,119 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]"
-    - "[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]"
-    - "[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]"
-    - "[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]"
-    - "[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]"
-    - "[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]"
+  - '[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]'
+  - '[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]'
+  - '[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]'
+  - '[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]'
+  - '[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]'
+  - '[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]"
-  - "[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]"
-  - "[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]"
-  - "[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]"
-  - "[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]"
-  - "[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]"
-
-location: [ 41.40369, 2.17433 ] 
+- '[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]'
+- '[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]'
+- '[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]'
+- '[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]'
+- '[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]'
+- '[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]'
+- '[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]'
+- '[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]'
+location:
+- 41.40369
+- 2.17433
 aliases:
-  - Sagrada Família
-  - Sagrada Familia
-  - Basílica i Temple Expiatori de la Sagrada Família
-  - Sagrada_Família
+- Barselonos Šv. Šeimynos bažnyčia
+- Basilica and Expiatory Church of the Holy Family
+- Basilica e Temple Expiatori del Sant Familie
+- Basilica Sanctae Familiae
+- Basílica i Temple Expiatori de la Sagrada Família
+- Familia Santuaren tenplua
+- Kèrk vaan de Heilege Femilie (Barcelona)
+- Müqəddəs Ailə kilsəsi
+- Sagrada Familha
+- Sagrada Familia
+- Sagrada familija
+- Sagrada Família
+- Sagrada Família iteocal
+- Sagrada_Família
+- Svētās Ģimenes baznīca
+- Szent Család-templom
+- Temple Expiatori de la Sagrada Família
+- templo expiatorio da Sagrada Familia
+- Templo Expiatorio de la Sagrada Familia
+- Templo Expiatório da Sagrada Família
+- Templo Sankta Familio
+- Templu Espiatoriu de la Sagrada Familia
+- Tupão guasu Sagrada Familia
+- Σαγράδα Φαμίλια
+- Саграда Фамілія
+- Саграда Фамілья
+- Саграда фамилија
+- Саграда Фамилия
+- Сийлахьчу Доьзалан килс
+- Храм Святого Сімейства
+- Храм Святого Семейства
+- Црква Саграда Фамилија
+- Սագրադա Ֆամիլիա
+- Սակրատա Ֆամիլիա
+- סגרדה פמיליה
+- ساغرادا فاميليا
+- ساگرادا فامیلیا
+- ساگرادا فامیلیای گت کلیسا
+- ساگرادا فیمیلیا
+- سگرادا فیمیلیا
+- كاتدرائية ساجرادا فاميليا
+- सग्रादा फैमिलिया
+- সাগ্রাডা ফামিলিয়া
+- ਸਗਰਾਦਾ ਫ਼ਮੀਲੀਆ
+- திருக்குடும்பப் பரிகாரப் பேராலயம்
+- സഗ്രാദാ ഫമില്യ
+- සාග්රාදා ෆමීලියා
+- ซากราดาฟามิลิอา
+- საგრადა ფამილია
+- サグラダ・ファミリア
+- 圣家堂
+- 聖家大教堂
+- 사그라다 파밀리아
 has_id_wikidata: Q48435
 street_address: Mallorca, 401, Marina, 253, Provença, 450 i Sardenya, 314-318
 instance_of:
-  - '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-  - '[[_Standards/WikiData/WD~unfinished_building,1570262]]'
-  - '[[_Standards/WikiData/WD~expiatory_temple,133747929]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~unfinished_building,1570262]]'
+- '[[_Standards/WikiData/WD~expiatory_temple,133747929]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~consecration,125375]]'
-  - '[[_Standards/WikiData/WD~construction,385378]]'
-  - '[[_Standards/WikiData/WD~construction,3875186]]'
-  - '[[_Standards/WikiData/WD~finishing_time,22083730]]'
-  - '[[_Standards/WikiData/WD~papal_visit,92634207]]'
-  - '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
+- '[[_Standards/WikiData/WD~consecration,125375]]'
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~construction,3875186]]'
+- '[[_Standards/WikiData/WD~finishing_time,22083730]]'
+- '[[_Standards/WikiData/WD~papal_visit,92634207]]'
+- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
 architectural_style:
-  - '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
-  - '[[_Standards/WikiData/WD~Noucentisme,1580216]]'
+- '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
+- '[[_Standards/WikiData/WD~Noucentisme,1580216]]'
 different_from: '[[_Standards/WikiData/WD~Sagrada_Familia,298843]]'
 named_after: '[[_Standards/WikiData/WD~Holy_Family,618057]]'
 dedicated_to: '[[_Standards/WikiData/WD~Holy_Family,618057]]'
 Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
 heritage_designation:
-  - '[[_Standards/WikiData/WD~Cultural_Asset_of_National_Interest,1019352]]'
-  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-  - '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
+- '[[_Standards/WikiData/WD~Cultural_Asset_of_National_Interest,1019352]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+- '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
 diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Barcelona,1364117]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sagrada_Família,2470217]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Sagrada_Família_schools,4891653]]'
-  - '[[_Standards/WikiData/WD~Crypt_and_Nativity_Facade_of_the_Sagrada_Família,14468710]]'
-  - '[[_Standards/WikiData/WD~crypt_of_the_Sagrada_Família,56146086]]'
-  - '[[_Standards/WikiData/WD~Passion_Facade_of_the_Sagrada_Família,131342139]]'
-  - '[[_Standards/WikiData/WD~Glory_Facade_of_the_Sagrada_Família,131342168]]'
+- '[[_Standards/WikiData/WD~Sagrada_Família_schools,4891653]]'
+- '[[_Standards/WikiData/WD~Crypt_and_Nativity_Facade_of_the_Sagrada_Família,14468710]]'
+- '[[_Standards/WikiData/WD~crypt_of_the_Sagrada_Família,56146086]]'
+- '[[_Standards/WikiData/WD~Passion_Facade_of_the_Sagrada_Família,131342139]]'
+- '[[_Standards/WikiData/WD~Glory_Facade_of_the_Sagrada_Família,131342168]]'
 state_of_conservation: '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]'
 present_in_work: '[[_Standards/WikiData/WD~Origin,30610044]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~wood,287]]'
-  - '[[_Standards/WikiData/WD~glass,11469]]'
-  - '[[_Standards/WikiData/WD~concrete,22657]]'
-  - '[[_Standards/WikiData/WD~stone,22731]]'
+- '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~stone,22731]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 architect: '[[_Standards/WikiData/WD~Antoni_Gaudí,25328]]'
 country: '[[_Standards/WikiData/WD~Spain,29]]'
@@ -72,9 +122,9 @@ maximum_capacity: 9000
 length: 90
 elevation_above_sea_level: 46
 visitors_per_year:
-  - 4830000
-  - 4527427
-  - 4561848
+- 4830000
+- 4527427
+- 4561848
 Inventari_del_Patrimoni_Arquitectònic_de_Catalunya_code: 57
 height: 162.91
 Asset_of_cultural_interest_code: RI-51-0003813
@@ -93,8 +143,113 @@ Facebook_username: BasilicadelaSagradaFamilia
 Commons_Institution_page: Sagrada Família
 Commons_gallery: Sagrada Família
 Commons_category: Sagrada Família
+dv_has_:
+  name_:
+    af: Sagrada Família
+    ar: ساغرادا فاميليا
+    arz: كاتدرائية ساجرادا فاميليا
+    ast: Templu Espiatoriu de la Sagrada Familia
+    az: Müqəddəs Ailə kilsəsi
+    ban: Sagrada Família
+    be: Саграда Фамілія
+    be-tarask: Саграда Фамілья
+    bg: Саграда Фамилия
+    bn: সাগ্রাডা ফামিলিয়া
+    bpy: সাগ্রাডা ফামিলিয়া
+    br: Sagrada Família
+    bs: Sagrada Família
+    ca: Temple Expiatori de la Sagrada Família
+    ce: Сийлахьчу Доьзалан килс
+    ceb: Temple Expiatori de la Sagrada Família
+    ckb: ساگرادا فامیلیا
+    cs: Sagrada Família
+    cy: Sagrada Família
+    da: Sagrada Família
+    de: Sagrada Família
+    de-ch: Sagrada Família
+    el: Σαγράδα Φαμίλια
+    en: Basilica and Expiatory Church of the Holy Family
+    en-ca: Sagrada Família
+    en-gb: Sagrada Família
+    eo: Templo Sankta Familio
+    es: Templo Expiatorio de la Sagrada Familia
+    et: Sagrada Família
+    eu: Familia Santuaren tenplua
+    fa: ساگرادا فامیلیا
+    fi: Sagrada Família
+    fo: Sagrada Família
+    fr: Sagrada Família
+    fy: Sagrada Família
+    ga: Sagrada Família
+    gl: templo expiatorio da Sagrada Familia
+    gn: Tupão guasu Sagrada Familia
+    he: סגרדה פמיליה
+    hi: सग्रादा फैमिलिया
+    hr: Sagrada Familia
+    hu: Szent Család-templom
+    hy: Սագրադա Ֆամիլիա
+    hyw: Սակրատա Ֆամիլիա
+    id: Sagrada Família
+    ie: Basilica e Temple Expiatori del Sant Familie
+    io: Sagrada Familia
+    is: Sagrada Família
+    it: Sagrada Família
+    ja: サグラダ・ファミリア
+    ka: საგრადა ფამილია
+    kbp: Sagrada Família
+    ko: 사그라다 파밀리아
+    ku: Sagrada Família
+    ku-latn: Sagrada Família
+    la: Basilica Sanctae Familiae
+    lb: Sagrada Familia
+    li: Kèrk vaan de Heilege Femilie (Barcelona)
+    lt: Barselonos Šv. Šeimynos bažnyčia
+    lv: Svētās Ģimenes baznīca
+    mg: Sagrada Família
+    mk: Црква Саграда Фамилија
+    ml: സഗ്രാദാ ഫമില്യ
+    mn: Саграда Фамилия
+    ms: Sagrada Família
+    mzn: ساگرادا فامیلیای گت کلیسا
+    nah: Sagrada Família iteocal
+    nan: Sagrada Família
+    nb: Sagrada Família
+    nl: Sagrada Família
+    nn: Sagrada Família
+    oc: Sagrada Familha
+    pa: ਸਗਰਾਦਾ ਫ਼ਮੀਲੀਆ
+    pl: Sagrada Família
+    pnb: ساگرادا فیمیلیا
+    pt: Templo Expiatório da Sagrada Família
+    pt-br: Templo Expiatório da Sagrada Família
+    ro: Sagrada Família
+    ru: Храм Святого Семейства
+    sh: Sagrada familija
+    si: සාග්රාදා ෆමීලියා
+    sk: Sagrada Familia
+    sl: Sagrada Família
+    sr: Саграда фамилија
+    stq: Sagrada Família
+    sv: Sagrada Família
+    ta: திருக்குடும்பப் பரிகாரப் பேராலயம்
+    th: ซากราดาฟามิลิอา
+    tl: Sagrada Família
+    tr: Sagrada Família
+    tw: Sagrada Familia
+    uk: Храм Святого Сімейства
+    ur: سگرادا فیمیلیا
+    uz: Sagrada Família
+    vec: Sagrada Familia
+    vi: Sagrada Família
+    vls: Sagrada Família
+    vro: Sagrada Família
+    war: Sagrada Família
+    wuu: 圣家堂
+    xmf: საგრადა ფამილია
+    yue: 聖家大教堂
+    zea: Sagrada Familia
+    zh: 圣家堂
 ---
-
 # [[Sagrada_Família]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]] 

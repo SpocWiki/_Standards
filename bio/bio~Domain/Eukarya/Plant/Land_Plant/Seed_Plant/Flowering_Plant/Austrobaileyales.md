@@ -1,8 +1,88 @@
 ---
 aliases:
-  - Austrobaileyales
+- Austrobaileials
+- Austrobaileyales
+- Austrobejliotvaré
+- Austrobileyales
+- Avstrobeyliyaçiçəklilər
+- Aŭstrobailejaloj
+- Tähtaniisipuulaadsed
+- австробејлиовидни
+- Австробэйлиецветные
+- أستربيليات
+- استربيليات
+- جنوبویرهایسانان
+- ஆசுட்ரோபெய்லேல்சு
+- アウストロバイレヤ目
+- 木兰藤目
+- 아우스트로바일레이아목
 title: Austrobaileyales
 has_id_wikidata: Q21788
+dv_has_:
+  name_:
+    an: Austrobaileyales
+    ar: أستربيليات
+    arz: استربيليات
+    ast: Austrobaileyales
+    az: Avstrobeyliyaçiçəklilər
+    bg: Austrobaileyales
+    bs: Austrobaileyales
+    ca: Austrobaileials
+    ceb: Austrobaileyales
+    cs: Austrobaileyales
+    da: Austrobaileyales
+    de: Austrobaileyales
+    en: Austrobaileyales
+    en-ca: Austrobaileyales
+    en-gb: Austrobaileyales
+    eo: Aŭstrobailejaloj
+    es: Austrobaileyales
+    et: Tähtaniisipuulaadsed
+    eu: Austrobaileyales
+    ext: Austrobaileyales
+    fa: جنوبویرهایسانان
+    fi: Austrobaileyales
+    fr: Austrobaileyales
+    frr: Austrobaileyales
+    ga: Austrobaileyales
+    gl: Austrobaileyales
+    hr: Austrobaileyales
+    hu: Austrobaileyales
+    ia: Austrobaileyales
+    id: Austrobaileyales
+    ie: Austrobaileyales
+    io: Austrobaileyales
+    it: Austrobaileyales
+    ja: アウストロバイレヤ目
+    jv: Austrobileyales
+    ko: 아우스트로바일레이아목
+    ku: Austrobaileyales
+    la: Austrobaileyales
+    mk: австробејлиовидни
+    mul: Austrobaileyales
+    nb: Austrobaileyales
+    nl: Austrobaileyales
+    oc: Austrobaileyales
+    pl: Austrobaileyales
+    pt: Austrobaileyales
+    pt-br: Austrobaileyales
+    ro: Austrobaileyales
+    ru: Австробэйлиецветные
+    sh: Austrobaileyales
+    sk: Austrobejliotvaré
+    sq: Austrobaileyales
+    sr: Austrobaileyales
+    sv: Austrobaileyales
+    ta: ஆசுட்ரோபெய்லேல்சு
+    uk: Austrobaileyales
+    vec: Austrobaileyales
+    vi: Austrobaileyales
+    vo: Austrobaileyales
+    war: Austrobaileyales
+    zh: 木兰藤目
+    zh-cn: 木兰藤目
+    zh-hans: 木兰藤目
+    zh-hant: 木兰藤目
 ---
 # [[Austrobaileyales]] 
 

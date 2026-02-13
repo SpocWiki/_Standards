@@ -1,20 +1,94 @@
 ---
 aliases:
-  - Häusliche Gewalt
-  - Domestic violence
-  - domestic abuse
-  - Domestic_Violence
-  - Domestic Violence
+- Aile içi şiddet
+- Ailə daxili şiddət
+- bearašveahkaváldi
+- bạo hành gia đình
+- cam-drin domestig
+- családon belüli erőszak
+- Dhuna në familje
+- domestic abuse
+- Domestic violence
+- Domestic_Violence
+- domácí násilí
+- Familia-indarkeria
+- Fitinaaji nder saare
+- foréigean teaghlaigh
+- hejma perforto
+- huiselijk geweld
+- Häusliche Gewalt
+- Húslik geweld
+- Ka-têng pō-le̍k
+- Keganasan rumah tangga
+- kekerasan dalam rumah tangga
+- Kekerasan dalam rumah tanggo
+- lähisuhtevägivald
+- Matatá na libála
+- Nasilje u porodici
+- nasilje v družini
+- Oiladagi zo'ravonlik
+- perheväkivalta
+- perâviehâväldi
+- piârviõkkväʹldd
+- przemoc domowa
+- smurtas artimojoje aplinkoje
+- Tashin hankali na gida
+- Ukatili wa majumbani
+- vardarbība ģimenē
+- violence domestique
+- violencia domestico
+- violencia doméstica
+- violensia doméstiko
+- violentia domestica
+- violenza domestica
+- violență domestică
+- violència domèstica
+- violência doméstica
+- vold i hjemmet
+- vold i nære relasjoner
+- våld i hemmet
+- whakarekereke ā-whare
+- ενδοοικογενειακή βία
+- Гэр бүлийн хүчирхийлэл
+- дамашні гвалт
+- домашнє насильство
+- домашнее насилие
+- Домашно насилие
+- Зӯроварии хонаводагӣ
+- насиље у породици
+- Семејно насилство
+- хатні гвалт
+- Үй-бүлөлүк зордук-зомбулук
+- өйҙә көс ҡулланыу
+- Ընտանեկան բռնություն
+- אלימות במשפחה
+- توندوتیژیی خێزانی
+- خشونت خانگی
+- عنف أسري
+- کورنی تاوتريخوالی
+- घरेलु हिंसा
+- घरेलू हिंसा
+- ঘৰুৱা নিৰ্যাতন
+- পারিবারিক সহিংসতা
+- ਘਰੇਲੂ ਹਿੰਸਾ
+- குடும்ப வன்முறை
+- గృహ హింస
+- ഗാർഹിക പീഡനം
+- ගෘහස්ථ ප්රචණ්ඩත්වය
+- អំពើអនិត្យានុកូល
+- ドメスティックバイオレンス
+- 家庭暴力
+- 가정폭력
 has_id_wikidata: Q156537
 subclass_of:
-  - '[[_Standards/WikiData/WD~crime,83267]]'
-  - '[[_Standards/WikiData/WD~violence,124490]]'
-  - '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-  - '[[_Standards/WikiData/WD~topic,26256810]]'
-  - '[[_Standards/WikiData/WD~risk_source,86923152]]'
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~violence,124490]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~risk_source,86923152]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~oppression,252000]]'
-  - "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~oppression,252000]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191]]"
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_domestic_violence,7112609]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11455425,11455425]]'
 has_part_s_: '[[_Standards/WikiData/WD~parental_abuse_by_children_in_Islam,12227478]]'
@@ -23,8 +97,8 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutc
 different_from: '[[_Standards/WikiData/WD~Q124347700,124347700]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 Archive_of_Our_Own_tag:
-  - Abuse
-  - Domestic Violence
+- Abuse
+- Domestic Violence
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UN%20Women%20-%20Domestic-violence.png
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/domestic_violence
 described_at_URL: https://www.rvn.se/sv/delplatser/Vardgivare/Vardgivarwebb/kunskapsstod-och-rutiner/vald-i-nara-relation/
@@ -33,10 +107,102 @@ IMDb_keyword: domestic-violence
 subreddit: domesticviolence
 Wolfram_Language_entity_code: Entity["Concept", "DomesticViolence::7fhx8"]
 MeSH_tree_code:
-  - I01.198.240.856.350
-  - I01.880.735.900.350
+- I01.198.240.856.350
+- I01.880.735.900.350
+dv_has_:
+  name_:
+    ar: عنف أسري
+    as: ঘৰুৱা নিৰ্যাতন
+    az: Ailə daxili şiddət
+    ba: өйҙә көс ҡулланыу
+    be: дамашні гвалт
+    be-tarask: хатні гвалт
+    bg: Домашно насилие
+    bn: পারিবারিক সহিংসতা
+    ca: violència domèstica
+    ckb: توندوتیژیی خێزانی
+    cs: domácí násilí
+    cy: cam-drin domestig
+    da: vold i hjemmet
+    de: häusliche Gewalt
+    el: ενδοοικογενειακή βία
+    en: domestic violence
+    eo: hejma perforto
+    es: violencia doméstica
+    et: lähisuhtevägivald
+    eu: Familia-indarkeria
+    fa: خشونت خانگی
+    ff: Fitinaaji nder Saare
+    fi: perheväkivalta
+    fr: violence domestique
+    fy: Húslik geweld
+    ga: foréigean teaghlaigh
+    gl: violencia doméstica
+    ha: Tashin hankali na gida
+    he: אלימות במשפחה
+    hi: घरेलू हिंसा
+    hu: családon belüli erőszak
+    hy: Ընտանեկան բռնություն
+    id: kekerasan dalam rumah tangga
+    ig: Domestic violence
+    it: violenza domestica
+    ja: ドメスティックバイオレンス
+    km: អំពើអនិត្យានុកូល
+    ko: 가정폭력
+    ky: Үй-бүлөлүк зордук-зомбулук
+    la: violentia domestica
+    ln: Matatá na libála
+    lt: smurtas artimojoje aplinkoje
+    lv: vardarbība ģimenē
+    mai: घरेलु हिंसा
+    mi: whakarekereke ā-whare
+    min: Kekerasan dalam rumah tanggo
+    mk: Семејно насилство
+    ml: ഗാർഹിക പീഡനം
+    mn: Гэр бүлийн хүчирхийлэл
+    ms: Keganasan rumah tangga
+    nan: Ka-têng pō-le̍k
+    nb: vold i nære relasjoner
+    ne: घरेलु हिंसा
+    nl: huiselijk geweld
+    pa: ਘਰੇਲੂ ਹਿੰਸਾ
+    pap: violensia doméstiko
+    pap-aw: violencia domestico
+    pcm: Fitinaaji nder saare
+    pl: przemoc domowa
+    ps: کورنی تاوتريخوالی
+    pt: violência doméstica
+    ro: violență domestică
+    ru: домашнее насилие
+    se: bearašveahkaváldi
+    sh: Nasilje u porodici
+    si: ගෘහස්ථ ප්රචණ්ඩත්වය
+    sl: nasilje v družini
+    smn: perâviehâväldi
+    sms: piârviõkkväʹldd
+    sq: Dhuna në familje
+    sr: насиље у породици
+    sr-ec: Насиље у породици
+    sr-el: Nasilje u porodici
+    sv: våld i hemmet
+    sw: Ukatili wa majumbani
+    ta: குடும்ப வன்முறை
+    te: గృహ హింస
+    tg: Зӯроварии хонаводагӣ
+    tr: Aile içi şiddet
+    uk: домашнє насильство
+    uz: Oiladagi zo'ravonlik
+    vi: bạo hành gia đình
+    wuu: 家庭暴力
+    yue: 家庭暴力
+    zh: 家庭暴力
+    zh-cn: 家庭暴力
+    zh-hans: 家庭暴力
+    zh-hant: 家庭暴力
+    zh-hk: 家庭暴力
+    zh-sg: 家庭暴力
+    zh-tw: 家庭暴力
 ---
-
 # [[Domestic_Violence]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Domestic_violence,156537|WD~Domestic_violence,156537]] 

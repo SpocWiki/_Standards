@@ -1,72 +1,104 @@
 ---
 aliases:
-  - Rainer_Maria_Rilke
-  - René Karl Wilhelm Johann Josef Maria Rilke
-  - Rainer Maria Rilke
-  - Rilke
+- Rainer Maria Rilke
+- Rainer Mariya Rilke
+- Rainer Rilke
+- Rainer-Maria Rilke
+- Raineris Marija Rilkė
+- Rainerius Maria Rilke
+- Rainers Marija Rilke
+- Rainer_Maria_Rilke
+- René Karl Wilhelm Johann Josef Maria Rilke
+- Rilke
+- Ράινερ Μαρία Ρίλκε
+- Рајнер Марија Рилке
+- Райнер Марія Рільке
+- Райнер Мария Рилке
+- Райнер Мария Рильке
+- Райнер Марыя Рыльке
+- Райнэр Марыя Рыльке
+- Рильке, Райнер Мария
+- Ռայներ Մարիա Ռիլկե
+- ריינר מריה רילקה
+- راينر ماريا ريلكه
+- راینر ماریا ریلکه
+- رینر ماریا رلکے
+- रायनर मारिया रिल्के
+- रैनेर मारिया रिल्के
+- রাইনার মারিয়া রিলকে
+- রিলকে
+- ਰੇਨਰ ਮਾਰਿਆ ਰਿਲਕੇ
+- ரெய்னர் மரியா ரில்கே
+- റയിനർ മരിയ റിൽക്കെ
+- რაინერ მარია რილკე
+- ライナー・マリア・リルケ
+- 赖内·马利亚·里尔克
+- 里尔克
+- 里爾克
+- 라이너 마리아 릴케
 has_id_wikidata: Q76483
 place_of_death: '[[_Standards/WikiData/WD~Montreux,69354]]'
 place_of_burial: '[[_Standards/WikiData/WD~Raron,69786]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Claire_Goll,71447]]'
-  - '[[_Standards/WikiData/WD~Baladine_Klossowska,3633193]]'
-  - '[[_Standards/WikiData/WD~Nimet_Eloui,126700662]]'
-  - '[[_Standards/WikiData/WD~Lou_Andreas_Salomé,38873]]'
+- '[[_Standards/WikiData/WD~Claire_Goll,71447]]'
+- '[[_Standards/WikiData/WD~Baladine_Klossowska,3633193]]'
+- '[[_Standards/WikiData/WD~Nimet_Eloui,126700662]]'
+- '[[_Standards/WikiData/WD~Lou_Andreas_Salomé,38873]]'
 movement: '[[_Standards/WikiData/WD~Symbolism,164800]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Clara_Westhoff,462333]]'
-  - '[[_Standards/WikiData/WD~Nimet_Eloui,126700662]]'
+- '[[_Standards/WikiData/WD~Clara_Westhoff,462333]]'
+- '[[_Standards/WikiData/WD~Nimet_Eloui,126700662]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]'
-  - '[[_Standards/WikiData/WD~German_Literature_Archive_Marbach,1205813]]'
-  - '[[_Standards/WikiData/WD~Houghton_Library,3719374]]'
+- '[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]'
+- '[[_Standards/WikiData/WD~German_Literature_Archive_Marbach,1205813]]'
+- '[[_Standards/WikiData/WD~Houghton_Library,3719374]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Duino_Elegies,688426]]'
-  - '[[_Standards/WikiData/WD~Die_Aufzeichnungen_des_Malte_Laurids_Brigge,968544]]'
-  - '[[_Standards/WikiData/WD~The_carousel,1169275]]'
-  - '[[_Standards/WikiData/WD~Sonnets_to_Orpheus,1216303]]'
-  - '[[_Standards/WikiData/WD~Worpswede,87203846]]'
+- '[[_Standards/WikiData/WD~Duino_Elegies,688426]]'
+- '[[_Standards/WikiData/WD~Die_Aufzeichnungen_des_Malte_Laurids_Brigge,968544]]'
+- '[[_Standards/WikiData/WD~The_carousel,1169275]]'
+- '[[_Standards/WikiData/WD~Sonnets_to_Orpheus,1216303]]'
+- '[[_Standards/WikiData/WD~Worpswede,87203846]]'
 genre:
-  - '[[_Standards/WikiData/WD~Dinggedicht,1226395]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~Dinggedicht,1226395]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~German_University_in_Prague,1729754]]'
-  - '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
+- '[[_Standards/WikiData/WD~German_University_in_Prague,1729754]]'
+- '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Q65007844,65007844]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Q65007844,65007844]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 given_name:
-  - '[[_Standards/WikiData/WD~René,2624417]]'
-  - '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
-  - '[[_Standards/WikiData/WD~Johann,11122389]]'
-  - '[[_Standards/WikiData/WD~Josef,15730712]]'
-  - '[[_Standards/WikiData/WD~Karl,15731830]]'
-  - '[[_Standards/WikiData/WD~Rainer,18924871]]'
-  - '[[_Standards/WikiData/WD~Maria,25413386]]'
+- '[[_Standards/WikiData/WD~René,2624417]]'
+- '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
+- '[[_Standards/WikiData/WD~Johann,11122389]]'
+- '[[_Standards/WikiData/WD~Josef,15730712]]'
+- '[[_Standards/WikiData/WD~Karl,15731830]]'
+- '[[_Standards/WikiData/WD~Rainer,18924871]]'
+- '[[_Standards/WikiData/WD~Maria,25413386]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~Prague_German_Literature,12046911]]'
-  - '[[_Standards/WikiData/WD~translation,7553]]'
-  - '[[_Standards/WikiData/WD~literature,8242]]'
-  - '[[_Standards/WikiData/WD~theatre_art,11635]]'
+- '[[_Standards/WikiData/WD~Prague_German_Literature,12046911]]'
+- '[[_Standards/WikiData/WD~translation,7553]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~theatre_art,11635]]'
 relative: '[[_Standards/WikiData/WD~Jaroslav_von_Rilke,14970190]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 family_name: '[[_Standards/WikiData/WD~Rilke,62727949]]'
@@ -77,17 +109,17 @@ date_of_birth: 1875-12-04T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Prague,1085]]'
 work_location: '[[_Standards/WikiData/WD~Munich,1726]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-  - '[[_Standards/WikiData/WD~Austria,40]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 cause_of_death: '[[_Standards/WikiData/WD~leukemia,29496]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 Commons_gallery: Rainer Maria Rilke
 Commons_category: Rainer Maria Rilke
@@ -102,23 +134,121 @@ work_period_end_: 1925-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rainer%20Maria%20Rilke.ogg
 ex_libris: http://commons.wikimedia.org/wiki/Special:FilePath/Ex%20Libris%20Rene-M.%20Rilke%20%28Rainer%20Maria%20Rilke%29%20von%20Emil%20Orlik%2C%201897.jpg
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Rainer%20Maria%20Rilke%20Ainmillerstr.%2034%20Muenchen-1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Rilke%20Veurne.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Rilke%20Memorial%20plaque%201.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Rainer%20Maria%20Rilke%20Ainmillerstr.%2034%20Muenchen-1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Rilke%20Veurne.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Prague%20Rilke%20Memorial%20plaque%201.JPG
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Rainer%20Maria%20Rilke%20at%20the%20churchyard%20in%20Raron%20-%20Swizerland.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Maria%20Rilke%201900.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rilke%20Signature.gif
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=455122912
-  - http://www.digiporta.net/index.php?id=595466368
+- http://www.digiporta.net/index.php?id=455122912
+- http://www.digiporta.net/index.php?id=595466368
 official_website: https://rilke.de
 IPA_transcription: '[ˈʁaɪnɐ maˈʁiːa ˈʁɪlkə]'
 ISNI: 0000000121312247
 Libris_URI: 20dghf8l1jtc1s5
 Europeana_entity: agent/base/60239
 Regensburg_Classification: GM 5162
+dv_has_:
+  name_:
+    af: Rainer Maria Rilke
+    ar: راينر ماريا ريلكه
+    arz: راينر ماريا ريلكه
+    ast: Rainer Maria Rilke
+    az: Rainer Mariya Rilke
+    azb: راینر ماریا ریلکه
+    ba: Райнер Мария Рильке
+    bar: Rainer Maria Rilke
+    be: Райнер Марыя Рыльке
+    be-tarask: Райнэр Марыя Рыльке
+    bg: Райнер Мария Рилке
+    bn: রাইনার মারিয়া রিলকে
+    bpy: রিলকে
+    br: Rainer-Maria Rilke
+    bs: Rainer Maria Rilke
+    ca: Rainer Maria Rilke
+    cs: Rainer Maria Rilke
+    cy: Rainer Maria Rilke
+    da: Rainer Maria Rilke
+    de: Rainer Maria Rilke
+    de-ch: Rainer Maria Rilke
+    el: Ράινερ Μαρία Ρίλκε
+    en: Rainer Maria Rilke
+    en-ca: Rainer Maria Rilke
+    en-gb: Rainer Maria Rilke
+    eo: Rainer Maria Rilke
+    es: Rainer Maria Rilke
+    et: Rainer Maria Rilke
+    eu: Rainer Maria Rilke
+    fa: راینر ماریا ریلکه
+    fi: Rainer Maria Rilke
+    fr: Rainer Maria Rilke
+    fy: Rainer Maria Rilke
+    ga: Rainer Maria Rilke
+    gd: Rainer Maria Rilke
+    gl: Rainer Maria Rilke
+    gsw: Rainer Maria Rilke
+    he: ריינר מריה רילקה
+    hr: Rainer Maria Rilke
+    hu: Rainer Maria Rilke
+    hy: Ռայներ Մարիա Ռիլկե
+    ia: Rainer Maria Rilke
+    id: Rainer Maria Rilke
+    ilo: Rainer Maria Rilke
+    io: Rainer Maria Rilke
+    is: Rainer Maria Rilke
+    it: Rainer Maria Rilke
+    ja: ライナー・マリア・リルケ
+    ka: რაინერ მარია რილკე
+    kk: Райнер Мария Рильке
+    ko: 라이너 마리아 릴케
+    ku: Rainer Maria Rilke
+    ky: Райнер Мария Рильке
+    la: Rainerius Maria Rilke
+    lb: Rainer Maria Rilke
+    lfn: Rainer Maria Rilke
+    li: Rainer Maria Rilke
+    lt: Raineris Marija Rilkė
+    lv: Rainers Marija Rilke
+    mg: Rainer Maria Rilke
+    mk: Рајнер Марија Рилке
+    ml: റയിനർ മരിയ റിൽക്കെ
+    mr: रायनर मारिया रिल्के
+    mrj: Рильке, Райнер Мария
+    mul: Rainer Rilke
+    nan: Rainer Maria Rilke
+    nb: Rainer Maria Rilke
+    new: रैनेर मारिया रिल्के
+    nl: Rainer Rilke
+    nn: Rainer Maria Rilke
+    oc: Rainer Maria Rilke
+    pa: ਰੇਨਰ ਮਾਰਿਆ ਰਿਲਕੇ
+    pap: Rainer Maria Rilke
+    pl: Rainer Maria Rilke
+    pnb: رینر ماریا رلکے
+    pt: Rainer Maria Rilke
+    pt-br: Rainer Maria Rilke
+    ro: Rainer Maria Rilke
+    ru: Райнер Мария Рильке
+    sco: Rainer Maria Rilke
+    sh: Rainer Maria Rilke
+    sk: Rainer Maria Rilke
+    sl: Rainer Maria Rilke
+    sq: Rainer Maria Rilke
+    sr: Рајнер Марија Рилке
+    sr-ec: Рајнер Марија Рилке
+    sv: Rainer Maria Rilke
+    sw: Rainer Maria Rilke
+    ta: ரெய்னர் மரியா ரில்கே
+    tr: Rainer Maria Rilke
+    uk: Райнер Марія Рільке
+    vi: Rainer Maria Rilke
+    vls: Rainer Maria Rilke
+    war: Rainer Maria Rilke
+    wuu: 里尔克
+    yue: 里爾克
+    zh: 赖内·马利亚·里尔克
 ---
-
 # [[Rainer_Maria_Rilke]] 
 
 #is_/same_as :: [[WD~Rainer_Maria_Rilke,76483]] 

@@ -1,19 +1,120 @@
 ---
 aliases:
-  - Continental philosophy
-  - Continental_Philosophy
-  - Continental Philosophy
+- Continental philosophy
+- continentale filosofie
+- Continental_Philosophy
+- Falsafah benua
+- fealsúnacht na Mór-Roinne
+- filosofia continental
+- Filosofia continentale
+- Filosofia kontinental
+- filosofija kontinentali
+- Filosofìa continental
+- Filosofía continental
+- Filozofia kontynentalna
+- Filsafat kontinental
+- kontinenta filozofio
+- Kontinentaalfilosoofia
+- kontinental filosofi
+- Kontinentale filosofie
+- Kontinentalna filozofija
+- Kontinentalphilosophie
+- kontinentális filozófia
+- kontinentální filozofie
+- Kıta felsefesi
+- Mannermainen filosofia
+- Meginlandsheimspeki
+- Philosophia continentalis
+- philosophie continentale
+- Pilosopiyang pangkontinente
+- Qitə fəlsəfəsi
+- triết học lục địa
+- Ηπειρωτική φιλοσοφία
+- кантынэнтальная філязофія
+- Континенталды философия
+- Континентална филозофија
+- Континентална философия
+- континентальна філософія
+- континентальная философия
+- Մայրցամաքային փիլիսոփայություն
+- פילוסופיה קונטיננטלית
+- فلسفة قارية
+- فلسفه قارهای
+- فەلسەفەی کیشوەری
+- قاره فلسفهسی
+- کانټینینټل فلسفه
+- ਮਹਾਂਦੀਪੀ ਫ਼ਲਸਫ਼ਾ
+- 大陸哲学
+- 歐陸哲學
+- 대륙 철학
 has_id_wikidata: Q59104
 instance_of:
-  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Continental_philosophy,7648315]]'
 subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Commons_category: Continental philosophy
 PhilPapers_topic: continental-philosophy
 subreddit: continentaltheory
+dv_has_:
+  name_:
+    af: Kontinentale filosofie
+    ar: فلسفة قارية
+    ast: Filosofía continental
+    az: Qitə fəlsəfəsi
+    azb: قاره فلسفهسی
+    be-tarask: кантынэнтальная філязофія
+    bg: Континентална философия
+    ca: filosofia continental
+    ckb: فەلسەفەی کیشوەری
+    cs: kontinentální filozofie
+    da: kontinental filosofi
+    de: Kontinentalphilosophie
+    el: Ηπειρωτική φιλοσοφία
+    en: continental philosophy
+    eo: kontinenta filozofio
+    es: filosofía continental
+    et: Kontinentaalfilosoofia
+    eu: Filosofia kontinental
+    fa: فلسفه قارهای
+    fi: Mannermainen filosofia
+    fr: philosophie continentale
+    ga: fealsúnacht na Mór-Roinne
+    gl: filosofía continental
+    he: פילוסופיה קונטיננטלית
+    hr: Kontinentalna filozofija
+    hu: kontinentális filozófia
+    hy: Մայրցամաքային փիլիսոփայություն
+    id: Filsafat kontinental
+    is: Meginlandsheimspeki
+    it: Filosofia continentale
+    ja: 大陸哲学
+    kk: Континенталды философия
+    ko: 대륙 철학
+    la: Philosophia continentalis
+    mk: Континентална филозофија
+    ms: Falsafah benua
+    mt: filosofija kontinentali
+    nb: Kontinental filosofi
+    nl: continentale filosofie
+    pa: ਮਹਾਂਦੀਪੀ ਫ਼ਲਸਫ਼ਾ
+    pl: Filozofia kontynentalna
+    pms: Filosofìa continental
+    ps: کانټینینټل فلسفه
+    pt: filosofia continental
+    ru: континентальная философия
+    sh: Kontinentalna filozofija
+    sl: kontinentalna filozofija
+    sr: континентална филозофија
+    sr-ec: континентална филозофија
+    sv: kontinental filosofi
+    tl: Pilosopiyang pangkontinente
+    tr: Kıta felsefesi
+    uk: континентальна філософія
+    vi: triết học lục địa
+    yue: 歐陸哲學
+    zh: 歐陸哲學
 ---
-
 # [[Continental_Philosophy]] 
 
 #is_/same_as :: [[../WikiData/WD~Continental_philosophy,59104|WD~Continental_philosophy,59104]] 

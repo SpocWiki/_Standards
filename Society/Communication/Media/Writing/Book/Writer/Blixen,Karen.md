@@ -1,80 +1,102 @@
 ---
 aliases:
-  - Karen_Blixen
-  - Baroness Karen Christentze von Blixen-Finecke
-  - Isak Dinesen
-  - Tania Blixen
-  - Osceola
-  - Pierre Andrézel
-  - Karen Christentze Dinesen
-  - Blixen,Karen
+- Baroness Karen Christentze von Blixen-Finecke
+- Blixen,Karen
+- Catharina Blixen
+- Isak Dinesen
+- Karen Bliksen
+- Karen Blinksen
+- Karen Blixen
+- Karen Blixenová
+- Karen Christentze Dinesen
+- Karena Bliksena
+- Karen_Blixen
+- Osceola
+- Pierre Andrézel
+- Tania Blixen
+- Κάρεν Μπλίξεν
+- Карен Бліксен
+- Карен Бликсен
+- Карэн Бліксен
+- Карэн Бліксэн
+- Կարեն Բլիկսեն
+- קארן בליקסן
+- كارين بلكسين
+- کارن بلیکسن
+- কারেন ব্লিক্সেন
+- კარენ ბლიქსენი
+- カレン・ブリクセン
+- 凯伦·布里克森
+- 凯伦·白烈森
+- 凱倫·白列森
+- 카렌 블릭센
 has_id_wikidata: Q182804
 genre:
-  - '[[_Standards/WikiData/WD~magic_realism,147516]]'
-  - '[[_Standards/WikiData/WD~Neo_romanticism,397469]]'
-  - '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
+- '[[_Standards/WikiData/WD~magic_realism,147516]]'
+- '[[_Standards/WikiData/WD~Neo_romanticism,397469]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
 father: '[[_Standards/WikiData/WD~Wilhelm_Dinesen,166766]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
 member_of: '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
 relative: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663]]'
 spouse: '[[_Standards/WikiData/WD~Bror_von_Blixen_Finecke,990663]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Danish_Critics_Prize_for_Literature,1146037]]'
-  - '[[_Standards/WikiData/WD~De_Gyldne_Laurbær,1179930]]'
-  - '[[_Standards/WikiData/WD~Tagea_Brandt_Rejselegat,1800376]]'
-  - '[[_Standards/WikiData/WD~Ingenio_et_arti,2345755]]'
-  - '[[_Standards/WikiData/WD~Holberg_Medal,3441509]]'
+- '[[_Standards/WikiData/WD~Danish_Critics_Prize_for_Literature,1146037]]'
+- '[[_Standards/WikiData/WD~De_Gyldne_Laurbær,1179930]]'
+- '[[_Standards/WikiData/WD~Tagea_Brandt_Rejselegat,1800376]]'
+- '[[_Standards/WikiData/WD~Ingenio_et_arti,2345755]]'
+- '[[_Standards/WikiData/WD~Holberg_Medal,3441509]]'
 given_name: '[[_Standards/WikiData/WD~Karen,1221747]]'
 place_of_burial: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
 place_of_death: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
 place_of_birth: '[[_Standards/WikiData/WD~Rungstedlund,1569018]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Out_of_Africa,1756234]]'
-  - "[[_Standards/WikiData/WD~Babette's_Feast,1762979]]"
+- '[[_Standards/WikiData/WD~Out_of_Africa,1756234]]'
+- "[[_Standards/WikiData/WD~Babette's_Feast,1762979]]"
 sibling:
-  - '[[_Standards/WikiData/WD~Thomas_Dinesen,3048238]]'
-  - '[[_Standards/WikiData/WD~Ellen_Dahl,12309806]]'
+- '[[_Standards/WikiData/WD~Thomas_Dinesen,3048238]]'
+- '[[_Standards/WikiData/WD~Ellen_Dahl,12309806]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 mother: '[[_Standards/WikiData/WD~Ingeborg_Dinesen,12318319]]'
 occupation: '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Karen_Blixen,22723961]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 educated_at: '[[_Standards/WikiData/WD~Q29180710,29180710]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-  - "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- "[[_Standards/WikiData/WD~The_History_of_Nordic_Women's_Literature,99568516]]"
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
 copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_not_represented_by_CISAC_member,71521142]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 bibliography: '[[_Standards/WikiData/WD~Karen_Blixen_bibliography,106234017]]'
 family_name: '[[_Standards/WikiData/WD~Blixen,131572484]]'
 date_of_birth: 1885-04-17T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Danish,9035]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Danish,9035]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Danish,9035]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: Karen Blixen
 pseudonym:
-  - Isak Dinesen
-  - Osceola
-  - Pierre Andrézel
-  - Tania Blixen
+- Isak Dinesen
+- Osceola
+- Pierre Andrézel
+- Tania Blixen
 Libris_URI: 31fhb5qm0rw0j0j
 personal_pronoun: L484
 ISNI:
-  - 0000000120966265
-  - 0000000118910457
-  - 0000000368634408
+- 0000000120966265
+- 0000000118910457
+- 0000000368634408
 date_of_death: 1962-09-07T00:00:00Z
 work_period_end_: 1959-01-01T00:00:00Z
 name_in_native_language: Karen Blixen
@@ -82,9 +104,9 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Gravsted%20Ka
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Isak%20Dinesen%20signature.jpg
 official_website: http://karenblixen.com
 BHCL_UUID:
-  - 149b3238-e756-446c-a4c4-61a612ee3884
-  - 72b0a455-a415-4a3a-8034-fc7bf546aa64
-  - d41f49f4-ec2d-482c-a315-6030bca5ff21
+- 149b3238-e756-446c-a4c4-61a612ee3884
+- 72b0a455-a415-4a3a-8034-fc7bf546aa64
+- d41f49f4-ec2d-482c-a315-6030bca5ff21
 Europeana_entity: agent/base/60690
 Regensburg_Classification: GX 1530
 Google_Doodle: karen-blixens-125th-birthday
@@ -92,8 +114,103 @@ married_name: Karen Christence Blixen-Finecke
 birth_name: Karen Christentze Dinesen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20Blixen%20cropped%20from%20larger%20original%20%28cropped%29.jpg
 work_period_start_: 1905-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Karen Blixen
+    an: Karen Blixen
+    ar: كارين بلكسين
+    arz: كارين بلكسين
+    ast: Karen Blixen
+    avk: Karen Blixen
+    az: Karen Blinksen
+    azb: کارن بلیکسن
+    ba: Карен Бликсен
+    be: Карэн Бліксен
+    be-tarask: Карэн Бліксэн
+    bg: Карен Бликсен
+    bn: কারেন ব্লিক্সেন
+    br: Karen Blixen
+    ca: Karen Blixen
+    cs: Karen Blixenová
+    cy: Karen Blixen
+    da: Karen Blixen
+    de: Karen Blixen
+    de-ch: Karen Blixen
+    ee: Karen Blixen
+    el: Κάρεν Μπλίξεν
+    en: Karen Blixen
+    en-ca: Karen Blixen
+    en-gb: Karen Blixen
+    eo: Karen Blixen
+    es: Karen Blixen
+    et: Karen Blixen
+    eu: Karen Blixen
+    fa: کارن بلیکسن
+    ff: Karen Blixen
+    fi: Karen Blixen
+    fo: Karen Blixen
+    fr: Karen Blixen
+    frr: Karen Blixen
+    fy: Karen Blixen
+    ga: Karen Blixen
+    gl: Karen Blixen
+    ha: Karen Blixen
+    he: קארן בליקסן
+    hr: Karen Blixen
+    hu: Karen Blixen
+    hy: Կարեն Բլիկսեն
+    id: Karen Blixen
+    ig: Karen Blixen
+    io: Karen Blixen
+    is: Karen Blixen
+    it: Karen Blixen
+    ja: カレン・ブリクセン
+    kl: Karen Blixen
+    ko: 카렌 블릭센
+    la: Catharina Blixen
+    lb: Karen Blixen
+    lv: Karena Bliksena
+    mg: Karen Blixen
+    mk: Карен Бликсен
+    mrj: Карен Бликсен
+    mul: Karen Blixen
+    nb: Karen Blixen
+    nl: Karen Blixen
+    nn: Karen Blixen
+    oc: Karen Blixen
+    pl: Karen Blixen
+    pms: Karen Blixen
+    pt: Karen Blixen
+    pt-br: Karen Blixen
+    ro: Karen Blixen
+    ru: Карен Бликсен
+    sco: Karen Blixen
+    sgs: Karen Blixen
+    sh: Karen Blixen
+    sk: Karen Blixenová
+    sl: Karen Blixen
+    sq: Karen Blixen
+    sr: Карен Бликсен
+    sr-ec: Карен Бликсен
+    sr-el: Karen Bliksen
+    sv: Karen Blixen
+    sw: Karen Blixen
+    tr: Karen Blixen
+    uk: Карен Бліксен
+    vi: Karen Blixen
+    vo: Karen Blixen
+    war: Karen Blixen
+    wuu: 凯伦·白烈森
+    xmf: კარენ ბლიქსენი
+    yue: 凱倫·白列森
+    zh: 凯伦·布里克森
+    zh-cn: 凯伦·布里克森
+    zh-hans: 凯伦·布里克森
+    zh-hant: 凱倫·白列森
+    zh-hk: 凱倫·白列森
+    zh-sg: 凯伦·布里克森
+    zh-tw: 凱倫·白列森
 ---
-
 # [[Blixen,Karen]] 
 
 #is_/same_as :: [[WD~Karen_Blixen,182804]] 

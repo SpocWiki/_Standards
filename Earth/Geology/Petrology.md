@@ -1,18 +1,66 @@
 ---
 aliases:
-  - Petrologie
-  - Petrology
+- Bedrologie
+- Bergfræði
+- Giâm-se̍k-ha̍k
+- Ketamabwe
+- kőzettan
+- Ngàng-sĭk-hŏk
+- peitreolaíocht
+- Petroleg
+- petrologi
+- petrologia
+- Petrologie
+- petrologiija
+- Petrologija
+- petrologio
+- Petrologiya
+- Petrologjia
+- Petrology
+- petrología
+- Petrolohiya
+- petroloji
+- petrolojia
+- petroloogia
+- Petroloxía
+- petroloģija
+- petrológia
+- pétrologie
+- Thạch luận
+- Πετρολογία
+- петралогія
+- петрологія
+- Петрологи
+- петрологија
+- петрология
+- пэтралёгія
+- պետրոլոգիա
+- פטרולוגיה
+- פעטראלאגיע
+- علم الصخور
+- پترولوژی
+- چٹان وگیان
+- शैलविज्ञान
+- পেট্রোলজি
+- ਚਟਾਨ-ਵਿਗਿਆਨ
+- பாறையியல்
+- ശിലാവിജ്ഞാനം
+- ศิลาวิทยา
+- პეტროლოგია
+- 岩石学
+- 岩石學
+- 암석학
 has_id_wikidata: Q163082
-partially_coincident_with: "[[_Standards/WikiData/WD~gemology,243330]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~gemology,243330]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_geology,87058424]]"
-practiced_by: "[[_Standards/WikiData/WD~petrologist,19356817]]"
-subclass_of: "[[_Standards/WikiData/WD~geology,1069]]"
-is_the_study_of: "[[_Standards/WikiData/WD~rock,8063]]"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
+practiced_by: '[[_Standards/WikiData/WD~petrologist,19356817]]'
+subclass_of: '[[_Standards/WikiData/WD~geology,1069]]'
+is_the_study_of: '[[_Standards/WikiData/WD~rock,8063]]'
 Dewey_Decimal_Classification: 552
 All_Science_Journal_Classification_Codes: 1906
 Commons_category: Petrology
@@ -22,25 +70,120 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Banc%20amp%C3%A9lite.j
 Library_of_Congress_Classification: QE420-QE499
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Petrology,163082]]"
-    - "[[/_Standards/Earth/Geology/Petrology|Petrology]]"
-    - "[[/_public/Earth/Geology/Petrology.public|Petrology.public]]"
-    - "[[/_internal/Earth/Geology/Petrology.internal|Petrology.internal]]"
-    - "[[/_protect/Earth/Geology/Petrology.protect|Petrology.protect]]"
-    - "[[/_private/Earth/Geology/Petrology.private|Petrology.private]]"
-    - "[[/_personal/Earth/Geology/Petrology.personal|Petrology.personal]]"
-    - "[[/_secret/Earth/Geology/Petrology.secret|Petrology.secret]]"
+  - '[[../../WikiData/WD~Petrology,163082]]'
+  - '[[/_Standards/Earth/Geology/Petrology|Petrology]]'
+  - '[[/_public/Earth/Geology/Petrology.public|Petrology.public]]'
+  - '[[/_internal/Earth/Geology/Petrology.internal|Petrology.internal]]'
+  - '[[/_protect/Earth/Geology/Petrology.protect|Petrology.protect]]'
+  - '[[/_private/Earth/Geology/Petrology.private|Petrology.private]]'
+  - '[[/_personal/Earth/Geology/Petrology.personal|Petrology.personal]]'
+  - '[[/_secret/Earth/Geology/Petrology.secret|Petrology.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Petrology,163082]]"
-  - "[[/_Standards/Earth/Geology/Petrology|Petrology]]"
-  - "[[/_public/Earth/Geology/Petrology.public|Petrology.public]]"
-  - "[[/_internal/Earth/Geology/Petrology.internal|Petrology.internal]]"
-  - "[[/_protect/Earth/Geology/Petrology.protect|Petrology.protect]]"
-  - "[[/_private/Earth/Geology/Petrology.private|Petrology.private]]"
-  - "[[/_personal/Earth/Geology/Petrology.personal|Petrology.personal]]"
-  - "[[/_secret/Earth/Geology/Petrology.secret|Petrology.secret]]"
+- '[[../../WikiData/WD~Petrology,163082]]'
+- '[[/_Standards/Earth/Geology/Petrology|Petrology]]'
+- '[[/_public/Earth/Geology/Petrology.public|Petrology.public]]'
+- '[[/_internal/Earth/Geology/Petrology.internal|Petrology.internal]]'
+- '[[/_protect/Earth/Geology/Petrology.protect|Petrology.protect]]'
+- '[[/_private/Earth/Geology/Petrology.private|Petrology.private]]'
+- '[[/_personal/Earth/Geology/Petrology.personal|Petrology.personal]]'
+- '[[/_secret/Earth/Geology/Petrology.secret|Petrology.secret]]'
+dv_has_:
+  name_:
+    ar: علم الصخور
+    ast: Petroloxía
+    az: Petrologiya
+    ba: петрология
+    be: петралогія
+    be-tarask: пэтралёгія
+    bg: петрология
+    bn: পেট্রোলজি
+    bs: Petrologija
+    ca: petrologia
+    cdo: Ngàng-sĭk-hŏk
+    cs: petrologie
+    cy: Petroleg
+    da: Petrologi
+    de: Petrologie
+    el: Πετρολογία
+    en: petrology
+    en-us: petrology
+    eo: petrologio
+    es: petrología
+    et: petroloogia
+    eu: Petrologia
+    fa: پترولوژی
+    fi: petrologia
+    fr: pétrologie
+    ga: peitreolaíocht
+    gl: petroloxía
+    he: פטרולוגיה
+    hi: शैलविज्ञान
+    hr: petrologija
+    hu: kőzettan
+    hy: պետրոլոգիա
+    id: Petrologi
+    io: petrologio
+    is: Bergfræði
+    it: petrologia
+    ja: 岩石学
+    jv: Petrologi
+    ka: პეტროლოგია
+    kk: Петрология
+    ko: 암석학
+    ky: Петрология
+    la: Petrologia
+    lb: Petrologie
+    lfn: petrolojia
+    lt: petrologija
+    lv: petroloģija
+    mk: петрологија
+    ml: ശിലാവിജ്ഞാനം
+    mn: Петрологи
+    nan: Giâm-se̍k-ha̍k
+    nb: petrologi
+    nds: Petrologie
+    nl: petrologie
+    nn: Petrologi
+    oc: Petrologia
+    pa: ਚਟਾਨ-ਵਿਗਿਆਨ
+    pl: petrologia
+    pnb: چٹان وگیان
+    pt: petrologia
+    ro: Petrologie
+    ru: петрология
+    se: petrologiija
+    sh: Petrologija
+    sk: petrológia
+    sl: petrologija
+    smn: petrologia
+    sms: petrologia
+    sn: Ketamabwe
+    sq: Petrologjia
+    sr: петрологија
+    sr-ec: петрологија
+    sr-el: petrologija
+    sv: petrologi
+    sw: Petrolojia
+    ta: பாறையியல்
+    th: ศิลาวิทยา
+    tr: petroloji
+    tt: петрология
+    uk: петрологія
+    uz: Petrologiya
+    vi: Thạch luận
+    vmf: Bedrologie
+    war: Petrolohiya
+    wuu: 岩石学
+    yi: פעטראלאגיע
+    yue: 岩石學
+    zh: 岩石学
+    zh-cn: 岩石学
+    zh-hans: 岩石学
+    zh-hant: 岩石學
+    zh-hk: 岩石學
+    zh-sg: 岩石学
+    zh-tw: 岩石學
 ---
-
 # [[Petrology]] 
 
 #is_/same_as :: [[WD~Petrology,163082]] 

@@ -1,44 +1,66 @@
 ---
 aliases:
-  - Almond
-  - Almonds
-  - Prunus amygdalus
-  - Prunus dulcis
-  - Prunus dulcis Rouchy
-  - Prunus_amygdalus
-  - Mandel
-  - Mandeln
-  - Mandelbaum
-  - almendral
-  - ametller
-  - mandljevec
+- Adi badam
+- almendral
+- Almond
+- Almonds
+- ametller
+- Badam
+- Behîv
+- Mandel
+- Mandelbaum
+- Mandeln
+- mandeltre
+- mandljevec
+- mandloň obecná
+- mandula
+- manteli
+- parastā mandele
+- Prunus amygdalus
+- Prunus dulcis
+- Prunus dulcis Rouchy
+- Prunus_amygdalus
+- Бадем
+- Бодом
+- Бәдәм
+- мігдалы звычайныя
+- Миндаль обыкновенный
+- اللوز
+- بادەم
+- बदाम
+- बादाम
+- ಪ್ರುನಸ್ ಅಮಿಗ್ಡಾಲಸ್
+- ബദാം
+- アーモンド
+- 扁桃
+- 아몬드
 has_id_wikidata: Q15545507
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~almond,184357]]'
-  - '[[_Standards/WikiData/WD~almond_oil,72437444]]'
-  - '[[_Standards/WikiData/WD~almond_tree_wood,110795631]]'
+- '[[_Standards/WikiData/WD~almond,184357]]'
+- '[[_Standards/WikiData/WD~almond_oil,72437444]]'
+- '[[_Standards/WikiData/WD~almond_tree_wood,110795631]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Badam,3666611]]'
-  - '[[_Standards/WikiData/WD~Q11780515,11780515]]'
+- '[[_Standards/WikiData/WD~Badam,3666611]]'
+- '[[_Standards/WikiData/WD~Q11780515,11780515]]'
 subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 taxon_synonym:
-  - '[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]'
-  - '[[_Standards/WikiData/WD~Prunus_dulcis,39918]]'
+- '[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]'
+- '[[_Standards/WikiData/WD~Prunus_dulcis,39918]]'
 replaced_synonym_for_nom_nov_: '[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 519646
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Almonds%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20blanched.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20dulcis%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-250.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Almonds%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20blanched.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20dulcis%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-250.jpg
 short_name: P. amygdalus
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Almond%20trees%2011.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/AlmondShakerbeforeafter.jpg
@@ -48,11 +70,70 @@ Commons_gallery: Prunus amygdalus
 Commons_category: Prunus amygdalus
 taxon_name: Prunus amygdalus
 taxon_common_name:
-  - almendral
-  - ametller
-  - mandljevec
+- almendral
+- ametller
+- mandljevec
+dv_has_:
+  name_:
+    an: Prunus amygdalus
+    ar: اللوز
+    ast: Prunus amygdalus
+    az: Adi badam
+    be-tarask: мігдалы звычайныя
+    bg: Prunus amygdalus
+    ca: ametller
+    ceb: Prunus amygdalus
+    ckb: بادەم
+    cs: mandloň obecná
+    de: Prunus amygdalus
+    en: Prunus amygdalus
+    eo: Prunus amygdalus
+    es: Prunus amygdalus
+    eu: Prunus amygdalus
+    ext: Prunus amygdalus
+    fi: manteli
+    fr: Prunus amygdalus
+    ga: Prunus amygdalus
+    gl: Prunus amygdalus
+    hi: बादाम
+    hu: mandula
+    ia: Prunus amygdalus
+    id: Badam
+    ie: Prunus amygdalus
+    io: Prunus amygdalus
+    it: Prunus amygdalus
+    ja: アーモンド
+    kn: ಪ್ರುನಸ್ ಅಮಿಗ್ಡಾಲಸ್
+    ko: 아몬드
+    ku: Behîv
+    la: Prunus amygdalus
+    lv: parastā mandele
+    ml: ബദാം
+    mr: बदाम
+    nb: mandeltre
+    nl: Prunus amygdalus
+    nn: mandeltre
+    oc: Prunus amygdalus
+    pl: Prunus amygdalus
+    pt: Prunus amygdalus
+    pt-br: Prunus amygdalus
+    ro: Prunus amygdalus
+    ru: Миндаль обыкновенный
+    sl: Prunus amygdalus
+    sq: Prunus amygdalus
+    sr: Бадем
+    sv: Mandel
+    tg: Бодом
+    tt: Бәдәм
+    uk: Prunus amygdalus
+    vi: Prunus amygdalus
+    vo: Prunus amygdalus
+    war: Prunus amygdalus
+    zh: 扁桃
+    zh-cn: 扁桃
+    zh-hans: 扁桃
+    zh-tw: 扁桃
 ---
-
 # [[Almond]] 
 
 #is_/same_as :: [[WD~Prunus_amygdalus,15545507]] 

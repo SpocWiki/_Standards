@@ -1,8 +1,77 @@
 ---
 aliases:
-  - Procapra
+- Getgaseller
+- Kurzschwanzgazellen
+- Procapra
+- rayoleem ke Procapra oxi
+- Stepju gazeles
+- Trumpauodegės antilopės
+- vuohigasellit
+- Дзерены
+- Дзэрэны
+- Средноазиатски газели
+- צבי יעלי
+- بروكابرا
+- پیشبزها
+- ძერენები
+- チベットガゼル属
+- 原羚属
+- 原羚屬
+- 프로카프라속
 title: Procapra
 has_id_wikidata: Q782492
+dv_has_:
+  name_:
+    an: Procapra
+    arz: بروكابرا
+    ast: Procapra
+    avk: rayoleem ke Procapra oxi
+    be: Дзэрэны
+    bg: Средноазиатски газели
+    br: Procapra
+    ca: Procapra
+    ceb: Procapra
+    de: Kurzschwanzgazellen
+    en: Procapra
+    eo: Procapra
+    es: Procapra
+    eu: Procapra
+    ext: Procapra
+    fa: پیشبزها
+    fi: vuohigasellit
+    fr: Procapra
+    frr: Procapra
+    ga: Procapra
+    gl: Procapra
+    he: צבי יעלי
+    hu: Procapra
+    ia: Procapra
+    ie: Procapra
+    io: Procapra
+    it: Procapra
+    ja: チベットガゼル属
+    ka: ძერენები
+    ko: 프로카프라속
+    la: Procapra
+    lt: Trumpauodegės antilopės
+    lv: Stepju gazeles
+    mul: Procapra
+    nl: Procapra
+    oc: Procapra
+    pl: Procapra
+    pt: Procapra
+    pt-br: Procapra
+    ro: Procapra
+    ru: Дзерены
+    sq: Procapra
+    sv: Getgaseller
+    uk: Procapra
+    vi: Procapra
+    vo: Procapra
+    war: Procapra
+    zh: 原羚属
+    zh-cn: 原羚属
+    zh-tw: 原羚屬
 ---
 # [[Procapra]] 
 

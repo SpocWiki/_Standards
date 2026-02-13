@@ -1,12 +1,138 @@
 ---
 aliases:
-  - Epilobium
-  - Epilobieae
-  - willowherb
-  - spike-primrose
-  - fireweed
+- basterdwederik
+- Chʼilátah atsʼos
+- Dueurt
+- Dunörtssläktet
+- Dúnurtir
+- Epilobi
+- Epilobieae
+- epilobio
+- Epilobium
+- fireweed
+- füzike
+- helygles
+- helyglys
+- Horbmášattut
+- horsmat
+- Kazrozes
+- Mjølkeslekta
+- Ožkarožė
+- Pajulill
+- spike-primrose
+- Uožkaruožė
+- Vrbolika
+- vrbovka
+- vŕbovka
+- Weidenröschen
+- Wierzbownica
+- willowherb
+- Wjerbinka
+- Yağıotu
+- épilobe
+- Войтун
+- врбовка
+- Върбовка
+- Зніт
+- Кипрей
+- Кырлыган
+- Күреңот
+- Скрыпень
+- Хĕрлĕхен курăкĕ
+- ապուզան
+- ערברבה
+- اپیلوبیوم
+- سنفية
+- سنفيه
+- یاغی اوتو
+- წყალნაწყენი
+- アカバナ属
+- 柳叶菜属
+- 柳葉菜屬
+- 바늘꽃속
 title: Epilobieae
 has_id_wikidata: Q157637
+dv_has_:
+  name_:
+    an: Epilobium
+    ar: سنفية
+    arz: سنفيه
+    ast: Epilobium
+    az: Yağıotu
+    azb: یاغی اوتو
+    be: Скрыпень
+    be-tarask: Epilobium
+    bg: Върбовка
+    ca: Epilobi
+    ceb: Epilobium
+    cs: vrbovka
+    cv: Хĕрлĕхен курăкĕ
+    cy: helyglys
+    da: Dueurt
+    de: Weidenröschen
+    de-ch: Weidenröschen
+    en: Epilobium
+    en-ca: Epilobium
+    en-gb: Epilobium
+    eo: epilobio
+    es: epilobium
+    et: Pajulill
+    eu: Epilobium
+    ext: Epilobium
+    fa: اپیلوبیوم
+    fi: horsmat
+    fr: épilobe
+    frr: Epilobium
+    ga: Epilobium
+    gl: Epilobium
+    he: ערברבה
+    hr: Vrbolika
+    hsb: Wjerbinka
+    hu: füzike
+    hy: ապուզան
+    ia: Epilobium
+    ie: Epilobium
+    io: Epilobium
+    is: Dúnurtir
+    it: epilobium
+    ja: アカバナ属
+    ka: წყალნაწყენი
+    kk: Күреңот
+    ko: 바늘꽃속
+    kw: helygles
+    la: Epilobium
+    lt: Ožkarožė
+    lv: Kazrozes
+    mk: врбовка
+    mrj: Войтун
+    mul: Epilobium
+    nb: Mjølkeslekta
+    nl: basterdwederik
+    nn: mjølkeslekta
+    nv: Chʼilátah atsʼos
+    oc: Epilobium
+    pl: Wierzbownica
+    pt: epilobium
+    pt-br: Epilobium
+    ro: Epilobium
+    ru: Кипрей
+    se: Horbmášattut
+    sgs: Uožkaruožė
+    sk: vŕbovka
+    sq: Epilobium
+    sv: Dunörtssläktet
+    tt: Кырлыган
+    uk: Зніт
+    vi: Epilobium
+    vo: Epilobium
+    war: Epilobium
+    zh: 柳叶菜属
+    zh-cn: 柳叶菜属
+    zh-hans: 柳叶菜属
+    zh-hant: 柳葉菜屬
+    zh-hk: 柳葉菜屬
+    zh-sg: 柳叶菜属
+    zh-tw: 柳葉菜屬
 ---
 # [[Epilobieae]] 
 

@@ -1,17 +1,55 @@
 ---
 aliases:
-  - Dressur
-  - Dressage
+- adestramento
+- Adomadura clásica
+- Aspətožnə məhorət
+- at terbiyesi
+- At təlimi
+- dailusis jojimas
+- doma
+- doma clásica
+- Dresaj
+- dresrajdo
+- Dressage
+- Dressur
+- Dressurreiden
+- Dressurreiten
+- dressurriding
+- dressuur
+- dressyr
+- dresura
+- Dresurno jahanje
+- drezura koní
+- Drezúrne jazdenie
+- díjlovaglás
+- Estorci
+- Koolisõit
+- kouluratsastus
+- Tunggang serasi (berkuda)
+- Ujeżdżenie
+- zaldi-heziera klasiko
+- виїздка
+- выездка
+- Жылқы үйрету
+- ձիաքայլք
+- רכיבה אמנותית
+- آت تعلیمی
+- ترويض الخيول
+- درساژ
+- 盛装舞步
+- 盛裝舞步
+- 馬場馬術
+- 마장마술
 has_id_wikidata: Q216033
 authority: '[[_Standards/WikiData/WD~International_Federation_for_Equestrian_Sports,477657]]'
 sport: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
 subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-  - '[[_Standards/WikiData/WD~horse_riding_technique,26208318]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~horse_riding_technique,26208318]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~dressage_rider,13381458]]'
-  - '[[_Standards/WikiData/WD~dressage_trainer,121411224]]'
+- '[[_Standards/WikiData/WD~dressage_rider,13381458]]'
+- '[[_Standards/WikiData/WD~dressage_trainer,121411224]]'
 uses: '[[_Standards/WikiData/WD~dressage_horse,60198807]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20Dressage%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WPT2013-CDI4-Dorselius%20Cecilia%20Andren-Lennox-3.JPG
@@ -19,8 +57,64 @@ official_website: http://www.fei.org/fei/disc/dressage
 Commons_gallery: Dressage
 Commons_category: Dressage
 IPTC_NewsCode: mediatopic/20000925
+dv_has_:
+  name_:
+    ar: ترويض الخيول
+    ast: Adomadura clásica
+    az: At təlimi
+    azb: آت تعلیمی
+    be: выездка
+    be-tarask: выездка
+    ca: doma
+    cs: drezura koní
+    da: dressur
+    de: Dressurreiten
+    diq: Estorci
+    en: dressage
+    eo: dresrajdo
+    es: doma clásica
+    et: Koolisõit
+    eu: zaldi-heziera klasiko
+    fa: درساژ
+    fi: kouluratsastus
+    fr: dressage
+    gl: doma
+    he: רכיבה אמנותית
+    hr: Dresurno jahanje
+    hu: díjlovaglás
+    hy: ձիաքայլք
+    id: Tunggang serasi (berkuda)
+    it: dressage
+    ja: 馬場馬術
+    kk: Жылқы үйрету
+    ko: 마장마술
+    lb: Dressurreiden
+    lt: dailusis jojimas
+    ms: Dressage
+    nb: dressur
+    nl: dressuur
+    nn: dressurriding
+    pl: Ujeżdżenie
+    pt: adestramento
+    ro: Dresaj
+    ru: выездка
+    simple: dressage
+    sk: Drezúrne jazdenie
+    sl: dresura
+    sr: Dresura
+    sv: dressyr
+    tly: Aspətožnə məhorət
+    tr: at terbiyesi
+    uk: виїздка
+    yue: 盛裝舞步
+    zh: 盛裝舞步
+    zh-cn: 盛装舞步
+    zh-hans: 盛装舞步
+    zh-hant: 盛裝舞步
+    zh-hk: 盛裝舞步
+    zh-sg: 盛装舞步
+    zh-tw: 盛裝舞步
 ---
-
 # [[Dressage]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Dressage,216033|WD~Dressage,216033]] 

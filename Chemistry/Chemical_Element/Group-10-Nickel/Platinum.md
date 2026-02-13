@@ -1,69 +1,327 @@
 ---
 aliases:
-  - Platinum
+- Balatiniyaam
+- Băh-gĭng
+- Emas kodok
+- Gimhau
+- IKhazi
+- lo jinmrplati
+- Patin
+- Pe̍h-kim
+- Pha̍k-kîm
+- Piwapiskw
+- Plaatin
+- Plaatina
+- platanam
+- Platanum
+- plateno
+- Platin
+- Platina
+- Platine
+- Platini
+- Platinina
+- platino
+- platinom
+- platinu
+- Platinum
+- platinwm
+- Platinâ
+- platină
+- platyna
+- Platëna
+- platí
+- Platín
+- platína
+- Platîn
+- platīns
+- Platɩnɩ
+- Plàtin
+- Plàtinu
+- Qullqiya
+- λευκόχρυσος
+- Агалтын
+- Ашо киве
+- Аҡ алтын
+- КӀяла муси
+- платинæ
+- Платина
+- Платинум
+- Плаціна
+- плятына
+- цагаан алт
+- պլատին
+- פלאטין
+- פלטינה
+- ئاق ئالتۇن
+- بلاتين
+- پلاتين
+- پلاتین
+- پلاتینا
+- پلاٹینم
+- پلاٹینیم
+- پلاټينيوم
+- پلاٽينيم
+- प्लाटिनम
+- प्लॅटिनम
+- प्लैटिनम
+- प्वलाख
+- প্লাটিনাম
+- ਪਲੈਟੀਨਮ
+- પ્લેટિનમ
+- ପ୍ଲାଟିନମ
+- பிளாட்டினம்
+- ప్లాటినం
+- ಪ್ಲಾಟಿನಮ್
+- പ്ലാറ്റിനം
+- แพลทินัม
+- བེ་ལེ་ཊི་ནམ།
+- ရွှေဖြူ
+- პლატინა
+- ፕላቲነም
+- ᏝᏘᏅᎻ
+- 白金
+- 鉑
+- 铂
+- ꯄ꯭ꯂꯥꯇꯤꯅꯝ
+- 백금
 has_id_wikidata: Q880
 associated_hazard:
-  - "[[_Standards/WikiData/WD~platinosis,7202318]]"
-  - "[[_Standards/WikiData/WD~platinum_exposure,21175066]]"
+- '[[_Standards/WikiData/WD~platinosis,7202318]]'
+- '[[_Standards/WikiData/WD~platinum_exposure,21175066]]'
 atomic_number: 78
 CAS_Registry_Number: 7440-06-4
 Commons_category: Platinum
 Commons_gallery: Platinum
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Platinum,108310084]]"
-different_from: "[[_Standards/WikiData/WD~white_gold,6582775]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Platinum,108310084]]'
+different_from: '[[_Standards/WikiData/WD~white_gold,6582775]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Julius_Caesar_Scaliger,441066]]"
-  - "[[_Standards/WikiData/WD~Antonio_de_Ulloa,470306]]"
+- '[[_Standards/WikiData/WD~Julius_Caesar_Scaliger,441066]]'
+- '[[_Standards/WikiData/WD~Antonio_de_Ulloa,470306]]'
 electronegativity: 2.28
 element_symbol: Pt
 Gmelin_number: 8862
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystals.jpg
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.6
-  - 0.8
-  - 0.63
+- 0.6
+- 0.8
+- 0.63
 Krugosvet_article: nauka_i_tehnika/himiya/PLATINA.html
 Libris_URI: 0xbdcbjj24ffd70
 made_from_material:
-  - "[[_Standards/WikiData/WD~sperrylite,425150]]"
-  - "[[_Standards/WikiData/WD~cooperite,1059093]]"
+- '[[_Standards/WikiData/WD~sperrylite,425150]]'
+- '[[_Standards/WikiData/WD~cooperite,1059093]]'
 mass: 195.084
 MeSH_tree_code:
-  - D01.268.556.690
-  - D01.268.956.734
-  - D01.552.544.690
-named_after: "[[_Standards/WikiData/WD~silver,1090]]"
+- D01.268.556.690
+- D01.268.956.734
+- D01.552.544.690
+named_after: '[[_Standards/WikiData/WD~silver,1090]]'
 OmegaWiki_Defined_Meaning: 2842
 part_of:
-  - "[[_Standards/WikiData/WD~group_10,205253]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25695214,25695214]]"
+- '[[_Standards/WikiData/WD~group_10,205253]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25695214,25695214]]'
 SpocWebEntityId: 21974
 subclass_of:
-  - "[[_Standards/WikiData/WD~platinum_group,223995]]"
-  - "[[_Standards/WikiData/WD~precious_metal,271449]]"
+- '[[_Standards/WikiData/WD~platinum_group,223995]]'
+- '[[_Standards/WikiData/WD~precious_metal,271449]]'
 time_of_discovery_or_invention: 1557
 type: Element
 UMLS_CUI:
-  - C0699665
-  - C0032207
+- C0699665
+- C0032207
 Unicode_character: 鉑
 UNSPSC_Code: 11101803
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 dv_has_:
   name_:
-    group: Group-10-Nickel
-    en: Platinum
-    de: Platin
     abbreviated: Pt
+    af: platinum
+    am: ፕላቲነም
+    an: Platín
+    anp: प्लैटिनम
+    ar: بلاتين
+    ary: پلاتين
+    arz: بلاتين
+    ast: platín
+    atj: Piwapiskw
+    az: Platin
+    azb: پلاتین
+    ba: Аҡ алтын
+    ban: Platinum
+    bar: Platin
+    bcl: Platino
+    be: Плаціна
+    be-tarask: плятына
+    bew: Emas kodok
+    bg: платина
+    bho: प्लैटिनम
+    bn: প্লাটিনাম
+    bo: བེ་ལེ་ཊི་ནམ།
+    br: Platin
+    bs: platina
+    ca: platí
+    cdo: Băh-gĭng
+    ceb: Platino
+    chr: ᏝᏘᏅᎻ
+    ckb: پلاتین
+    co: Platinu
+    cs: platina
+    csb: Platëna
+    cv: Платина
+    cy: platinwm
+    da: platin
+    de: Platin
+    el: λευκόχρυσος
+    en: platinum
+    en-gb: platinum
+    eo: plateno
+    es: platino
+    et: Plaatina
+    eu: platino
+    fa: پلاتین
+    fi: platina
+    fr: platine
+    frr: Plaatin
+    fur: Platin
+    ga: platanam
+    gd: Platanum
+    gl: Platino
+    group: Group-10-Nickel
+    gu: પ્લેટિનમ
+    gv: platinum
+    hak: Pha̍k-kîm
+    he: פלטינה
+    hi: प्लैटिनम
+    hif: Platinum
+    hr: Platina
+    ht: Platin
+    hu: platina
+    hy: պլատին
+    ia: Platino
+    id: platina
+    io: Platino
+    is: platína
+    it: platino
+    ja: 白金
+    jbo: lo jinmrplati
+    ka: პლატინა
+    kbp: Platɩnɩ
+    ki: Platinum
+    kk: Платина
+    kn: ಪ್ಲಾಟಿನಮ್
+    ko: 백금
+    ku: Platîn
+    kv: Платина
+    kw: platinom
+    ky: Платина
+    la: platinum
+    lb: Platin
+    lbe: КӀяла муси
+    lfn: platino
+    li: Platina
+    lij: Patin
+    lld: Platin
+    lmo: Platino
+    lt: Platina
+    lv: platīns
+    lzh: 鉑
+    mg: Platinina
+    mk: платина
+    ml: പ്ലാറ്റിനം
+    mn: цагаан алт
+    mni: ꯄ꯭ꯂꯥꯇꯤꯅꯝ
+    mr: प्लॅटिनम
+    mrj: Платина
+    ms: Platinum
+    mt: platinu
+    my: ရွှေဖြူ
+    myv: Ашо киве
+    mzn: پلاتینا
+    nan: Pe̍h-kim
+    nb: platina
+    nds: Platin
+    ne: प्लाटिनम
+    new: प्वलाख
+    nl: platina
+    nn: platina
+    nov: Platine
+    oc: Platin
+    olo: Platinu
+    or: ପ୍ଲାଟିନମ
+    os: платинæ
+    pa: ਪਲੈਟੀਨਮ
+    pap: platina
+    pap-aw: platina
+    pi: प्लाटिनम
+    pl: platyna
+    pms: Plàtin
+    pnb: پلاٹینم
+    ps: پلاټينيوم
+    pt: platina
+    pt-br: platina
+    qu: Qullqiya
+    ro: platină
+    ru: платина
+    rup: Platinâ
+    sa: प्लाटिनम
+    sc: Plàtinu
+    scn: platinu
+    sco: platinum
+    sd: پلاٽينيم
+    sh: platina
+    sk: platina
+    sl: platina
+    so: Balatiniyaam
+    sq: Platina
+    sr: платина
+    sr-ec: Платина
+    stq: Platin
+    su: Platinum
+    sv: platina
+    sw: Platini
+    ta: பிளாட்டினம்
+    te: ప్లాటినం
+    tg: Платина
+    th: แพลทินัม
+    tl: Platino
+    tr: Platin
+    tt: Агалтын
+    udm: платина
+    ug: ئاق ئالتۇن
+    ug-arab: ئاق ئالتۇن
+    ug-latn: Platina
+    uk: платина
+    ur: پلاٹینیم
+    uz: Platina
+    vep: platin
+    vi: platin
+    war: Platino
+    wuu: 铂
+    xal: Платинум
+    yi: פלאטין
+    yo: Platinum
+    yue: 白金
+    za: Gimhau
+    zh: 铂
+    zh-cn: 铂
+    zh-hans: 铂
+    zh-hant: 鉑
+    zh-hk: 鉑
+    zh-tw: 鉑
+    zu: IKhazi
+  number_of_:
+    period: 6
+    group: 10
+    electrons: 78
   value_for_:
     weight_:
       u: 195.08
@@ -91,23 +349,19 @@ dv_has_:
       form_:
         kj_:
           mol: 510
-  number_of_:
-    period: 6
-    group: 10
-    electrons: 78
 dv_is_:
-  part_of: "[[../Group-10-Nickel]]"
+  part_of: '[[../Group-10-Nickel]]'
   same_as:
-    - "[[../../../WikiData/WD~Platinum,880]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum|Platinum]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public|Platinum.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal|Platinum.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect|Platinum.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private|Platinum.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal|Platinum.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]]"
+  - '[[../../../WikiData/WD~Platinum,880]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum|Platinum]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public|Platinum.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal|Platinum.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect|Platinum.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private|Platinum.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal|Platinum.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]]'
 dv_has_name_group: Group-10-Nickel
-dv_is_part_of: "[[../Group-10-Nickel]]"
+dv_is_part_of: '[[../Group-10-Nickel]]'
 dv_has_name_en: Platinum
 dv_has_name_de: Platin
 dv_has_value_for_weight_u: 195.08
@@ -126,18 +380,17 @@ dv_has_value_for_energy_form_kj_mol: 510
 dv_has_number_of_period: 6
 dv_has_number_of_group: 10
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Platinum,880]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum|Platinum]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public|Platinum.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal|Platinum.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect|Platinum.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private|Platinum.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal|Platinum.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]]"
+- '[[../../../WikiData/WD~Platinum,880]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum|Platinum]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public|Platinum.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal|Platinum.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect|Platinum.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private|Platinum.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal|Platinum.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]]'
 dv_has_name_abbreviated: Pt
 dv_has_number_of_electrons: 78
 ---
-
 #chemic/Element 
 
 has_name_group = `=this.dv_has_name_group` 

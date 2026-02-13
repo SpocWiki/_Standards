@@ -1,31 +1,165 @@
 ---
 aliases:
+- Cïlïndrlik proyekcïya
+- Harita projeksiyonu
+- kaardiprojektsioon
+- kaartprojectie
+- Kartennetzentwurf
+- kartografické zobrazení
+- Kartografinė projekcija
+- kartografska projekcija
+- kartogrāfiskā projekcija
+- Kartoqrafik proyeksiyalar
+- kartprojeksjon
+- kartprojektion
+- karttaprojektio
+- Kortavörpun
+- kortprojektion
+- map projection
+- mapa projekcio
+- odwzorowanie kartograficzne
+- Proiecție cartografică
+- Proiekzio kartografiko
+- proiezione cartografica
+- Projeccion cartografica
+- Projecció cartogràfica
+- projection cartographique
+- Projeksionet hartografike
+- Projektiounsmodell
+- projeção cartográfica
+- Proxección cartográfica
+- proyección cartográfica
+- proyeición cartográfica
+- Proyeksi peta
+- Pwojeksyon konik
+- teilgean léarscáile
+- Unjuran peta
+- vetület
+- Xaritagrafik proyeksiyalar
+- Χαρτογραφική προβολή
+- Картаграфічная праекцыя
+- картографічні проекції
+- Картографик проекция
+- картографическая проекция
+- картография проекцията
+- Картографиялык проекциялар
+- Картографиялық проекция
+- Картографска пројекција
+- картографска проекција
+- Картографска проекция
+- Цилиндрлік проекция
+- היטל מפה
+- إسقاط الخرائط
+- ترسیم نقشه
+- تسىيلىيندرلىك پرويەكتسىييا
+- नक्शा प्रोजेक्शन
+- मानचित्र प्रक्षेप
+- মানচিত্র অভিক্ষেপ
+- เส้นโครงแผนที่
+- 地图投影
+- 地圖投影
+- 投影法
+- 지도 투영법
 has_id_wikidata: Q186386
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~projection,13415428]]"
-U_S_National_Archives_Identifier: "10640363"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~projection,13415428]]'
+U_S_National_Archives_Identifier: 10640363
 Commons_category: Map projections
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Map_projection,186386]]"
-    - "[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]"
-    - "[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]"
-    - "[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]"
-    - "[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]"
-    - "[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]"
-    - "[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]"
-    - "[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]"
+  - '[[../../../WikiData/WD~Map_projection,186386]]'
+  - '[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]'
+  - '[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]'
+  - '[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]'
+  - '[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]'
+  - '[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]'
+  - '[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]'
+  - '[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Map_projection,186386]]"
-  - "[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]"
-  - "[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]"
-  - "[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]"
-  - "[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]"
-  - "[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]"
-  - "[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]"
-  - "[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]"
+- '[[../../../WikiData/WD~Map_projection,186386]]'
+- '[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]'
+- '[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]'
+- '[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]'
+- '[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]'
+- '[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]'
+- '[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]'
+- '[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]'
+dv_has_:
+  name_:
+    ar: إسقاط الخرائط
+    ast: proyeición cartográfica
+    az: Kartoqrafik proyeksiyalar
+    ba: Картографик проекция
+    be: Картаграфічная праекцыя
+    be-tarask: картаграфічная праекцыя
+    bg: Картографска проекция
+    bho: नक्शा प्रोजेक्शन
+    bn: মানচিত্র অভিক্ষেপ
+    ca: Projecció cartogràfica
+    cs: kartografické zobrazení
+    da: kortprojektion
+    de: Kartennetzentwurf
+    el: Χαρτογραφική προβολή
+    en: map projection
+    eo: mapa projekcio
+    es: proyección cartográfica
+    et: kaardiprojektsioon
+    eu: Proiekzio kartografiko
+    fa: ترسیم نقشه
+    fi: karttaprojektio
+    fr: projection cartographique
+    ga: teilgean léarscáile
+    gl: Proxección cartográfica
+    he: היטל מפה
+    hi: मानचित्र प्रक्षेप
+    hr: Kartografska projekcija
+    ht: Pwojeksyon konik
+    hu: vetület
+    id: Proyeksi peta
+    is: Kortavörpun
+    it: proiezione cartografica
+    ja: 投影法
+    kk: Картографиялық проекция
+    kk-arab: تسىيلىيندرلىك پرويەكتسىييا
+    kk-cn: تسىيلىيندرلىك پرويەكتسىييا
+    kk-cyrl: Цилиндрлік проекция
+    kk-kz: Цилиндрлік проекция
+    kk-latn: Cïlïndrlik proyekcïya
+    kk-tr: Cïlïndrlik proyekcïya
+    ko: 지도 투영법
+    ky: Картографиялык проекциялар
+    lb: Projektiounsmodell
+    lt: Kartografinė projekcija
+    lv: kartogrāfiskā projekcija
+    mk: картографска проекција
+    ms: Unjuran peta
+    nb: kartprojeksjon
+    nl: kaartprojectie
+    oc: Projeccion cartografica
+    pl: odwzorowanie kartograficzne
+    pt: projeção cartográfica
+    ro: Proiecție cartografică
+    ru: картографическая проекция
+    sah: картография проекцията
+    sl: kartografska projekcija
+    sq: Projeksionet hartografike
+    sr: Картографска пројекција
+    sr-ec: Картографска пројекција
+    sr-el: Kartografska projekcija
+    sv: kartprojektion
+    th: เส้นโครงแผนที่
+    tr: Harita projeksiyonu
+    uk: картографічні проекції
+    uz: Xaritagrafik proyeksiyalar
+    yue: 地圖投影
+    zh: 地图投影
+    zh-cn: 地图投影
+    zh-hans: 地图投影
+    zh-hant: 地圖投影
+    zh-hk: 地圖投影
+    zh-sg: 地图投影
+    zh-tw: 地圖投影
 ---
-
 # [[Map_Projection]] 
 
 #is_/same_as :: [[WD~Map_projection,186386]] 

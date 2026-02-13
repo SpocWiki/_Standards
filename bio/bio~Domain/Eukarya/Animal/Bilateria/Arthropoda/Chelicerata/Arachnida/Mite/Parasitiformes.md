@@ -1,8 +1,78 @@
 ---
 aliases:
-  - Parasitiformes
+- höftkvalster
+- Nugilestalised
+- Parasitiforme
+- Parasitiformes
+- Parazitoformoj
+- parazītveida ērces
+- Παρασιτόμορφα
+- паразитиформные клещи
+- паразитообразни
+- Паразитоформні кліщі
+- انگلشکلان
+- طفيليات الشكل
+- 寄螨总目
+- 寄蟎總目
+- 胸穴ダニ類
+- 기생진드기상목
 title: Parasitiformes
 has_id_wikidata: Q132756
+dv_has_:
+  name_:
+    an: Parasitiformes
+    ar: طفيليات الشكل
+    arz: طفيليات الشكل
+    ast: Parasitiformes
+    az: Parasitiformes
+    bg: паразитообразни
+    ca: Parasitiforme
+    ceb: Parasitiformes
+    de: Parasitiformes
+    el: Παρασιτόμορφα
+    en: Parasitiformes
+    eo: Parazitoformoj
+    es: Parasitiformes
+    et: Nugilestalised
+    eu: Parasitiformes
+    ext: Parasitiformes
+    fa: انگلشکلان
+    fi: Parasitiformes
+    fr: Parasitiformes
+    ga: Parasitiformes
+    gl: Parasitiformes
+    ia: Parasitiformes
+    id: Parasitiformes
+    ie: Parasitiformes
+    io: Parasitiformes
+    it: Parasitiformes
+    ja: 胸穴ダニ類
+    ko: 기생진드기상목
+    la: Parasitiformes
+    lv: parazītveida ērces
+    mul: Parasitiformes
+    nb: Parasitiformes
+    nl: Parasitiformes
+    oc: Parasitiformes
+    pl: Parasitiformes
+    pt: Parasitiformes
+    pt-br: Parasitiformes
+    ro: Parasitiformes
+    ru: паразитиформные клещи
+    sq: Parasitiformes
+    sr: Parasitiformes
+    sv: höftkvalster
+    uk: Паразитоформні кліщі
+    vi: Parasitiformes
+    vo: Parasitiformes
+    war: Parasitiformes
+    zh: 寄蟎總目
+    zh-cn: 寄螨总目
+    zh-hans: 寄螨总目
+    zh-hant: 寄蟎總目
+    zh-hk: 寄蟎總目
+    zh-sg: 寄螨总目
+    zh-tw: 寄蟎總目
 ---
 ## Phylogeny 
 

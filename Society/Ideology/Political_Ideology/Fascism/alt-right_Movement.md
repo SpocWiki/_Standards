@@ -1,10 +1,86 @@
 ---
 aliases:
-  - white supremacism
-  - alt-right Movement
-  - alt-right
-  - alt-right_Movement
+- alt-right
+- alt-right Movement
+- alt-right_Movement
+- alternatif sağ
+- alternatiivsed parempoolsed
+- alternativa dekstrismo
+- alternativhøgre
+- alternativna desnica
+- alternatív jobboldal
+- derecha alternativa
+- dereita alternativa
+- direita alternativa
+- dreta alternativa
+- drita alternativa
+- Eskuin alternatibo
+- white supremacism
+- Εναλλακτική δεξιά
+- алтернативна десница
+- альтернативні праві
+- альтернативные правые
+- альтэрнатыўная правіца
+- Ալտ-աջ
+- הימין האלטרנטיבי
+- اليمين البديل
+- راستگرایی جایگزین
+- ออลต์ไรต์
+- オルタナ右翼
+- 另类右派
+- 另類右派
+- 대안우파
 has_id_wikidata: Q23018230
+dv_has_:
+  name_:
+    ar: اليمين البديل
+    be-tarask: альтэрнатыўная правіца
+    ca: dreta alternativa
+    cs: Alt-right
+    da: alt-right
+    de: alt-right
+    el: Εναλλακτική δεξιά
+    en: alt-right
+    eo: alternativa dekstrismo
+    es: derecha alternativa
+    et: alternatiivsed parempoolsed
+    eu: Eskuin alternatibo
+    fa: راستگرایی جایگزین
+    fi: Alt-right
+    fr: alt-right
+    gl: dereita alternativa
+    he: הימין האלטרנטיבי
+    hr: alternativna desnica
+    hu: alternatív jobboldal
+    hy: Ալտ-աջ
+    ia: Alt-right
+    id: Alt-right
+    it: alt-right
+    ja: オルタナ右翼
+    ko: 대안우파
+    lmo: Dreta alternativa
+    mk: алтернативна десница
+    ms: Alt-right
+    nb: alt-right
+    nl: alt-right
+    nn: alternativhøgre
+    pl: Alt-right
+    pt: direita alternativa
+    rmy: Alt-right
+    ro: Alt-right
+    ru: альтернативные правые
+    sl: alternativna desnica
+    sr: алтернативна десница
+    sv: Alt-right
+    th: ออลต์ไรต์
+    tr: alternatif sağ
+    uk: альтернативні праві
+    vec: drita alternativa
+    vi: Alt-right
+    wuu: 另類右派
+    zh: 另类右派
+    zh-hans: 另类右派
+    zh-hant: 另類右派
 ---
 ## #has_/text_of_/abstract 
 

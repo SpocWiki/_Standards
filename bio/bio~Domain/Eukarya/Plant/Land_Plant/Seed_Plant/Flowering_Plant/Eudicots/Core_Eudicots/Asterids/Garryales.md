@@ -1,8 +1,86 @@
 ---
 aliases:
-  - Garryales
+- barkamirtuszvirágúak
+- Bộ Giảo mộc
+- Garialoj
+- Garryales
+- Garryales (plantae)
+- garyotvaré
+- Qarriyaçiçəklilər
+- Γαρρυώδη
+- Гарриецветные
+- ابریشمآویزسانان
+- شرابيات الحرير
+- ガリア目
+- 丝缨花目
+- 絞木目
+- 絲纓花目
+- 绞木目
+- 가리아목
 title: Garryales
 has_id_wikidata: Q21761
+dv_has_:
+  name_:
+    an: Garryales
+    ar: شرابيات الحرير
+    arz: شرابيات الحرير
+    ast: Garryales
+    az: Qarriyaçiçəklilər
+    bg: Garryales
+    bs: Garryales
+    ca: Garryales
+    ceb: Garryales
+    cs: garyotvaré
+    da: Garryales
+    de: Garryales
+    el: Γαρρυώδη
+    en: Garryales
+    en-ca: Garryales
+    en-gb: Garryales
+    eo: Garialoj
+    es: Garryales
+    eu: Garryales
+    ext: Garryales
+    fa: ابریشمآویزسانان
+    fi: Garryales
+    fr: Garryales
+    frr: Garryales
+    ga: Garryales
+    gl: Garryales
+    hr: Garryales
+    hu: barkamirtuszvirágúak
+    ia: Garryales
+    id: Garryales
+    ie: Garryales
+    io: Garryales
+    it: Garryales
+    ja: ガリア目
+    ko: 가리아목
+    ku: Garryales
+    la: Garryales
+    mul: Garryales
+    nb: Garryales
+    nl: Garryales
+    oc: Garryales
+    pl: Garryales
+    pt: Garryales
+    pt-br: Garryales
+    ro: Garryales
+    ru: Гарриецветные
+    sl: Garryales
+    sq: Garryales
+    sv: Garryales
+    uk: Garryales
+    vec: Garryales
+    vep: Garryales
+    vi: Bộ Giảo mộc
+    vo: Garryales
+    war: Garryales (plantae)
+    yue: 絲纓花目
+    zh: 丝缨花目
+    zh-cn: 绞木目
+    zh-hans: 绞木目
+    zh-hant: 絞木目
 ---
 # [[Garryales]] 
 

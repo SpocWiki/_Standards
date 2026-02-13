@@ -1,34 +1,89 @@
 ---
 aliases:
-  - Delphin
-  - Zodiac~Delphinus
+- an Deilf
+- Dalufnin
+- Dauphin
+- Del'fin
+- Delfeno
+- Delfiin
+- Delfiin (stäärbil)
+- Delfiini
+- Delfin
+- Delfin csillagkép
+- Delfinas
+- Delfinen
+- Delfino
+- Delfinul
+- Delfín
+- Delfīns
+- Delphin
+- Delphinus
+- Delphinus (konstelazioa)
+- Delphinus (ranneves)
+- Dofí
+- Dolfijn
+- Dolfyn
+- Dupin
+- Gwiazdozbiór Delfina
+- Hái-thûn-chō
+- Hói-thùn-chho
+- Höfrungurinn
+- Hāi-dòng-cô̤
+- Hải Đồn
+- Lumba-lumba
+- y Pherkin
+- Yunus
+- Zodiac~Delphinus
+- Δελφίν
+- Делфин
+- Дельфін
+- Дельфин
+- Дельфин йолдызлыгы
+- Дэльфін
+- Դելֆին
+- דולפין
+- الدلفين
+- دلفينوس
+- دلفین
+- ڈولفن
+- ڈولفن تارہ چرمٹ
+- सूंस तारामंडल
+- டெல்பினசு
+- അവിട്ടം
+- กลุ่มดาวโลมา
+- མཚོ་ཕག་སྐར་ཚོམ་
+- ဒယ်ဖိုင်းနပ်စ်
+- დელფინის თანავარსკვლავედი
+- いるか座
+- 海豚座
+- 돌고래자리
 has_id_wikidata: Q9302
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Delphinus,105122286]]"
-part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Delphinus,105122286]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729013,10729013]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Delphinus,14336008]]"
-named_after: "[[_Standards/WikiData/WD~dolphin,7369]]"
+- '[[_Standards/WikiData/WD~Q10729013,10729013]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Delphinus,14336008]]'
+named_after: '[[_Standards/WikiData/WD~dolphin,7369]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
-  - "[[_Standards/WikiData/WD~Equuleus,10438]]"
-  - "[[_Standards/WikiData/WD~Sagitta,10513]]"
-  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
-  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
-  - "[[_Standards/WikiData/WD~Aquila,10586]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Pegasus,8864]]'
+- '[[_Standards/WikiData/WD~Equuleus,10438]]'
+- '[[_Standards/WikiData/WD~Sagitta,10513]]'
+- '[[_Standards/WikiData/WD~Vulpecula,10519]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576]]'
+- '[[_Standards/WikiData/WD~Aquila,10586]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 189
 official_name: Delphinus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20constellation%20map.svg
@@ -40,34 +95,121 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 dv_SpocWebEntityId: 28114
 dv_has_:
   name_:
+    af: Dolfyn
+    ar: الدلفين
+    arz: دلفينوس
+    az: Delfin
+    ba: Дельфин
+    be: Дэльфін
+    be-tarask: Дэльфін
+    bg: Делфин
+    bo: མཚོ་ཕག་སྐར་ཚོམ་
+    br: Delfin
+    bs: Delfin
+    ca: Dofí
+    cdo: Hāi-dòng-cô̤
+    co: Delphinus
+    cs: Delfín
+    cy: Delphinus
+    da: Delfinen
+    de: Delphin
+    diq: Yunus
+    el: Δελφίν
+    en: Delphinus
+    eo: Delfeno
+    es: Delphinus
+    et: Delfiin
+    eu: Delphinus (konstelazioa)
+    fa: دلفین
+    fi: Delfiini
+    fr: Dauphin
+    frr: Delfiin (stäärbil)
+    ga: an Deilf
+    gl: Delphinus
+    gv: y Pherkin
+    hak: Hói-thùn-chho
+    he: דולפין
+    hi: सूंस तारामंडल
+    hr: Dupin
+    hu: Delfin csillagkép
+    hy: Դելֆին
+    id: Delphinus
+    ig: Delphinus
+    is: Höfrungurinn
+    it: Delfino
+    ja: いるか座
+    jv: Delphinus
+    ka: დელფინის თანავარსკვლავედი
+    ko: 돌고래자리
+    kw: Delphinus (ranneves)
     la: Delphinus
     la_:
       genitive: Delphini
-    de: Delphin
+    lb: Delphinus
+    lt: Delfinas
+    lv: Delfīns
+    mk: Делфин
+    ml: അവിട്ടം
+    ms: Lumba-lumba
+    my: ဒယ်ဖိုင်းနပ်စ်
+    nan: Hái-thûn-chō
+    nb: Delfinen
+    nds: Delfin
+    nl: Dolfijn
+    nn: Delfinen
+    pl: Gwiazdozbiór Delfina
+    pnb: ڈولفن تارہ چرمٹ
+    pt: Delphinus
+    ro: Delfinul
+    ru: Дельфин
+    sah: Дельфин
+    sh: Dupin
+    sk: Delfín
+    sl: Delfin
+    sr: Делфин
+    sv: Delfinen
+    sw: Dalufnin
+    ta: டெல்பினசு
+    th: กลุ่มดาวโลมา
+    tr: Delphinus
+    tt: Дельфин йолдызлыгы
+    udm: Дельфин
+    uk: Дельфін
+    ur: ڈولفن
+    uz: Delfin
+    vec: Delfin
+    vep: Del'fin
+    vi: Hải Đồn
+    war: Delphinus
+    wuu: 海豚座
+    yue: 海豚座
+    zh: 海豚座
+    zh-hans: 海豚座
+    zh-hant: 海豚座
+    zh-tw: 海豚座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]"
+  - '[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]'
 dv_has_name_la: Delphinus
 dv_has_name_la_genitive: Delphini
 dv_has_name_de: Delphin
 dv_is_same_as:
-  - "[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]"
+- '[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]'
 ---
-
 # [[Zodiac~Delphinus]] 
 
 

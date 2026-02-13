@@ -1,45 +1,66 @@
 ---
 aliases:
-  - Claudio Giovanni Antonio Monteverdi
-  - Claudio Monteverdi
-  - Monteverdi
-  - Monteverdi,Claudio
+- Claudio Giovanni Antonio Monteverdi
+- Claudio Monteverdi
+- Claudius Monteverdi
+- Klaudio Monteverdi
+- Monteverdi
+- Monteverdi Klaudio Jovanni Antonio
+- Monteverdi,Claudio
+- Κλαούντιο Μοντεβέρντι
+- Клаўдзіа Мантэвердзі
+- Клаудіо Монтеверді
+- Клаудио Монтеверди
+- Кляўдыё Мантэвэрдзі
+- Կլաուդիո Մոնտեվերդի
+- קלאודיו מונטוורדי
+- كلاوديو مونتيفيردي
+- كلوديو مونتيفيردى
+- کلودیو مونتهوردی
+- क्लाउदियो मोन्तेभर्दि
+- ক্লাউদিও মোন্তেভের্দি
+- เกลาดีโอ มอนเตแวร์ดี
+- კლაუდიო მონტევერდი
+- クラウディオ・モンテヴェルディ
+- 克劳迪奥·蒙特威尔第
+- 蒙台忽第
+- 클라우디오 몬테베르디
 has_id_wikidata: Q53068
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~Catholic_priest,250867]]'
-  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~viol_player,19760296]]'
-  - '[[_Standards/WikiData/WD~classical_composer,21680663]]'
-  - '[[_Standards/WikiData/WD~opera_composer,21680731]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~Catholic_priest,250867]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~viol_player,19760296]]'
+- '[[_Standards/WikiData/WD~classical_composer,21680663]]'
+- '[[_Standards/WikiData/WD~opera_composer,21680731]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 movement:
-  - '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
-  - '[[_Standards/WikiData/WD~Baroque_music,8361]]'
+- '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
+- '[[_Standards/WikiData/WD~Baroque_music,8361]]'
 position_held: '[[_Standards/WikiData/WD~chapelmaster,215793]]'
 place_of_burial: '[[_Standards/WikiData/WD~Santa_Maria_Gloriosa_dei_Frari,224961]]'
 instrument:
-  - '[[_Standards/WikiData/WD~pipe_organ,281460]]'
-  - '[[_Standards/WikiData/WD~viola_da_braccio,570544]]'
-  - '[[_Standards/WikiData/WD~viol,40125]]'
+- '[[_Standards/WikiData/WD~pipe_organ,281460]]'
+- '[[_Standards/WikiData/WD~viola_da_braccio,570544]]'
+- '[[_Standards/WikiData/WD~viol,40125]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~L'incoronazione_di_Poppea,615522]]"
-  - "[[_Standards/WikiData/WD~L'Orfeo,724008]]"
-  - "[[_Standards/WikiData/WD~Il_ritorno_d'Ulisse_in_patria,907047]]"
-  - '[[_Standards/WikiData/WD~Il_combattimento_di_Tancredi_e_Clorinda,2541435]]'
+- "[[_Standards/WikiData/WD~L'incoronazione_di_Poppea,615522]]"
+- "[[_Standards/WikiData/WD~L'Orfeo,724008]]"
+- "[[_Standards/WikiData/WD~Il_ritorno_d'Ulisse_in_patria,907047]]"
+- '[[_Standards/WikiData/WD~Il_combattimento_di_Tancredi_e_Clorinda,2541435]]'
 given_name: '[[_Standards/WikiData/WD~Claudio,1150993]]'
 student: '[[_Standards/WikiData/WD~Giovanni_Rovetta,1526347]]'
 student_of: "[[_Standards/WikiData/WD~Marc'Antonio_Ingegneri,1995396]]"
@@ -56,8 +77,8 @@ date_of_birth: 1567-05-15T00:00:00Z
 place_of_death: '[[_Standards/WikiData/WD~Venice,641]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
 genre:
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~Baroque_music,8361]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~Baroque_music,8361]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
 place_of_birth: '[[_Standards/WikiData/WD~Cremona,6231]]'
@@ -80,8 +101,93 @@ ISNI: 0000000122791833
 P8189: 987007265682405171
 Europeana_entity: agent/base/146789
 Libris_URI: b8nqlq7v4060l7x
+dv_has_:
+  name_:
+    af: Claudio Monteverdi
+    ar: كلاوديو مونتيفيردي
+    arz: كلوديو مونتيفيردى
+    ast: Claudio Monteverdi
+    az: Klaudio Monteverdi
+    ba: Клаудио Монтеверди
+    be: Клаўдзіа Мантэвердзі
+    be-tarask: Кляўдыё Мантэвэрдзі
+    bg: Клаудио Монтеверди
+    bn: ক্লাউদিও মোন্তেভের্দি
+    bs: Claudio Monteverdi
+    ca: Claudio Monteverdi
+    cs: Claudio Monteverdi
+    cy: Claudio Monteverdi
+    da: Claudio Monteverdi
+    de: Claudio Monteverdi
+    de-ch: Claudio Monteverdi
+    el: Κλαούντιο Μοντεβέρντι
+    en: Claudio Monteverdi
+    en-ca: Claudio Monteverdi
+    en-gb: Claudio Monteverdi
+    eo: Claudio Monteverdi
+    es: Claudio Monteverdi
+    et: Claudio Monteverdi
+    eu: Claudio Monteverdi
+    fa: کلودیو مونتهوردی
+    fi: Claudio Monteverdi
+    fo: Claudio Monteverdi
+    fr: Claudio Monteverdi
+    ga: Claudio Monteverdi
+    gl: Claudio Monteverdi
+    gsw: Claudio Monteverdi
+    he: קלאודיו מונטוורדי
+    hr: Claudio Monteverdi
+    hu: Claudio Monteverdi
+    hy: Կլաուդիո Մոնտեվերդի
+    id: Claudio Monteverdi
+    io: Claudio Monteverdi
+    is: Claudio Monteverdi
+    it: Claudio Monteverdi
+    ja: クラウディオ・モンテヴェルディ
+    ka: კლაუდიო მონტევერდი
+    kk: Клаудио Монтеверди
+    ko: 클라우디오 몬테베르디
+    la: Claudius Monteverdi
+    lb: Claudio Monteverdi
+    lij: Claudio Monteverdi
+    lt: Claudio Monteverdi
+    lv: Klaudio Monteverdi
+    mg: Claudio Monteverdi
+    mk: Клаудио Монтеверди
+    mn: Клаудио Монтеверди
+    mt: Claudio Monteverdi
+    mul: Claudio Monteverdi
+    nan: Claudio Monteverdi
+    nb: Claudio Monteverdi
+    nds: Claudio Monteverdi
+    new: क्लाउदियो मोन्तेभर्दि
+    nl: Claudio Monteverdi
+    nn: Claudio Monteverdi
+    oc: Claudio Monteverdi
+    pam: Claudio Monteverdi
+    pl: Claudio Monteverdi
+    pt: Claudio Monteverdi
+    pt-br: Claudio Monteverdi
+    ro: Claudio Monteverdi
+    ru: Клаудио Монтеверди
+    sco: Claudio Monteverdi
+    sdc: Claudio Monteverdi
+    sh: Claudio Monteverdi
+    sk: Claudio Monteverdi
+    sl: Claudio Monteverdi
+    sq: Claudio Monteverdi
+    sr: Клаудио Монтеверди
+    sv: Claudio Monteverdi
+    th: เกลาดีโอ มอนเตแวร์ดี
+    tr: Claudio Monteverdi
+    uk: Клаудіо Монтеверді
+    uz: Monteverdi Klaudio Jovanni Antonio
+    vi: Claudio Monteverdi
+    war: Claudio Monteverdi
+    wuu: 克劳迪奥·蒙特威尔第
+    yue: 蒙台忽第
+    zh: 克劳迪奥·蒙特威尔第
 ---
-
 # [[Monteverdi,Claudio]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Claudio_Monteverdi,53068|WD~Claudio_Monteverdi,53068]] 

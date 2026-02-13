@@ -1,56 +1,169 @@
 ---
 aliases:
-  - mental disorder
-  - mental illness
-  - mental health condition
-  - psychiatric disability
-  - '{ newTitle: }': ''
-  - Mental_Disorder
-  - Mental Disorder
+- afiechyd meddwl
+- apytu'ũ mba'asy
+- brægenseocnes
+- buruko gaitz
+- Cheng-sîn-pēⁿ
+- Diperensya ha panhunahuna
+- disturbo mentale
+- disturbo mentałe
+- Disórdin mental
+- duševna bolest
+- duševna motnja
+- duševná porucha
+- duševní porucha
+- Enfermedá mental
+- Gangguan jiwa
+- Geestesteuring
+- Geðsjúkdómur
+- ike lawa
+- Indwara zo mu mutwe
+- Itaala'aanta maskaxda
+- Kaosê Mezgi
+- kleñved spered
+- Kpaŋ kʊdɔŋ
+- Maladia psicolojial
+- Malatia mentala
+- Malautiá mentala
+- Malautía mental
+- Matéria
+- Meelehaigus
+- mental bozukluk
+- Mental disaada
+- mental disorder
+- mental health condition
+- mental illness
+- Mental_Disorder
+- mentális zavar
+- Morbus mentis
+- neamhord meabhrach
+- paglaapan
+- penyakit kejiwaan
+- penyakit mental
+- perturbação mental
+- psichikos sutrikimas
+- psihiskie traucējumi
+- psika malsano
+- Psikėkas sotrėkėms
+- psychiatric disability
+- psychische aandoening
+- psychische Störung
+- Psychsche Stöörnisse
+- psykisk lidelse
+- psykisk liding
+- psykisk ohälsa
+- psykisk sygdom
+- psyykkinen häiriö
+- Psîkopatî
+- psüühika- ja käitumishäired
+- ruh bozğunlığı
+- ruhi xəstəlik
+- Ruhiy kasallik
+- rối loạn tâm thần
+- sakit sa pag-iisip
+- stiard weesen
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Sìng-gĭng-bâng
+- trastorn mental
+- trastorno mental
+- Troub fizik
+- trouble mental
+- tulburare mintală
+- Twoub sichik
+- Ugonjwa wa akili
+- Waq'ayay
+- zaburzenia psychiczne
+- Çrregullimi mendor
+- ψυχική ασθένεια
+- Бемориҳои рӯҳӣ
+- душевна болест
+- душевно растројство
+- песихик бозылыш
+- Псіхічны разлад
+- психічний розлад
+- Психик ҡаҡшау
+- Психикалык оорулар
+- Психикалық ширығу
+- психикалэн сураськемез
+- психическое расстройство
+- Психично разстройство
+- псыхічны разлад
+- հոգեկան հիվանդություն
+- הפרעה נפשית
+- מח-קרענק
+- اضطراب عقلی
+- اضطراب نفسي
+- بیماری روانی
+- ذہنی توازن وگڑنا
+- سایکولوژیک مریضلیک لری
+- پەشێویی دەروونی
+- मनोविकार
+- मानसिक रोग
+- मानसिक ल्वय्
+- मानसिकरोगः
+- মানসিক বিকাৰ
+- মানসিক ব্যাধি
+- ਮਨੋਵਿਕਾਰ
+- ମାନସିକ ରୋଗ
+- உளப் பிறழ்ச்சி
+- మానసిక రుగ్మత
+- ಮಾನಸಿಕ ರೋಗಗಳು
+- മാനസികരോഗം
+- මානසික අක් රමතා
+- ความผิดปกติทางจิต
+- ຄວາມຜິດປົກກະຕິທາງຈິດ
+- ფსიქიკური დაავადება
+- រោគ សរសៃ ប្រសាទ
+- 心理疾患
+- 精神疾患
+- 精神障碍
+- 精神障礙
+- 정신 질환
 has_id_wikidata: Q12135
 Commons_category: Mental and behavioural diseases and disorders
 PhilPapers_topic:
-  - mental-disorders
-  - mental-illness
+- mental-disorders
+- mental-illness
 ICD_9_CM:
-  - V11.9
-  - 298.8
-  - 290-299.99
+- V11.9
+- 298.8
+- 290-299.99
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~antidepressant,76560]]'
-  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-  - '[[_Standards/WikiData/WD~antipsychotics,208144]]'
-  - '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
-  - '[[_Standards/WikiData/WD~mood_stabilizer,2622367]]'
-  - '[[_Standards/WikiData/WD~anxiolytic,62903]]'
+- '[[_Standards/WikiData/WD~antidepressant,76560]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~antipsychotics,208144]]'
+- '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
+- '[[_Standards/WikiData/WD~mood_stabilizer,2622367]]'
+- '[[_Standards/WikiData/WD~anxiolytic,62903]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-  - '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
-  - '[[_Standards/WikiData/WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
 possible_treatment:
-  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-  - '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
 opposite_of: '[[_Standards/WikiData/WD~mental_health,317309]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~damage,481609]]'
-  - '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
-  - '[[_Standards/WikiData/WD~suicide,10737]]'
-  - '[[_Standards/WikiData/WD~death,4]]'
+- '[[_Standards/WikiData/WD~damage,481609]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
+- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~death,4]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - '[[_Standards/WikiData/WD~mental_illness,1499013]]'
-  - '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
+- '[[_Standards/WikiData/WD~mental_illness,1499013]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
 has_list: '[[_Standards/WikiData/WD~list_of_mental_disorders,2182963]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~neurological_disorder,3339235]]'
-  - '[[_Standards/WikiData/WD~psychosomatic_disease,10267833]]'
+- '[[_Standards/WikiData/WD~neurological_disorder,3339235]]'
+- '[[_Standards/WikiData/WD~psychosomatic_disease,10267833]]'
 handled_mitigated_or_managed_by:
-  - '[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210]]'
-  - '[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239]]'
+- '[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210]]'
+- '[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 has_cause: '[[_Standards/WikiData/WD~causes_of_mental_disorders,5054620]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Mental_disorders,8096255]]'
@@ -60,25 +173,25 @@ subclass_of: '[[_Standards/WikiData/WD~disease,12136]]'
 DiseasesDB: 28852
 MeSH_tree_code: F03
 ICD_10_CM:
-  - F99
-  - F99-F99
+- F99
+- F99-F99
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gautier%20-%20Salpetriere.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mental%20illness.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20banner.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:150
-  - http://purl.obolibrary.org/obo/DOID_150
+- http://identifiers.org/doid/DOID:150
+- http://purl.obolibrary.org/obo/DOID_150
 described_at_URL: https://www.hilarispublisher.com/scholarly/mental-health-morbidity-journals-articles-ppts-list-2525.html
 Dewey_Decimal_Classification: 616.89
 UMLS_CUI:
-  - C0004936
-  - C0029516
-  - C0376338
-  - C4046029
+- C0004936
+- C0029516
+- C0376338
+- C4046029
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -99,13 +212,143 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - '{ newTitle: }': ''
-  - excalidraw
+- '{ newTitle: }': ''
+- excalidraw
 title:
   '{ newTitle: }': ''
 type: private_note
+dv_has_:
+  name_:
+    af: Geestesteuring
+    an: Malautía mental
+    ang: brægenseocnes
+    ar: اضطراب نفسي
+    as: মানসিক বিকাৰ
+    ast: Enfermedá mental
+    az: ruhi xəstəlik
+    azb: سایکولوژیک مریضلیک لری
+    ba: Психик ҡаҡшау
+    be: Псіхічны разлад
+    be-tarask: псыхічны разлад
+    bg: Психично разстройство
+    bn: মানসিক ব্যাধি
+    br: kleñved spered
+    bs: duševna bolest
+    ca: trastorn mental
+    cdo: Sìng-gĭng-bâng
+    ckb: پەشێویی دەروونی
+    crh: ruh bozğunlığı
+    cs: duševní porucha
+    cy: afiechyd meddwl
+    da: psykisk sygdom
+    de: psychische Störung
+    diq: Kaosê Mezgi
+    dty: मानसिक रोग
+    el: ψυχική ασθένεια
+    eml: Matéria
+    en: mental disorder
+    eo: psika malsano
+    es: trastorno mental
+    et: psüühika- ja käitumishäired
+    eu: buruko gaitz
+    fa: بیماری روانی
+    fi: psyykkinen häiriö
+    fr: trouble mental
+    frr: stiard weesen
+    ga: neamhord meabhrach
+    gcr: Troub fizik
+    gl: trastorno mental
+    gn: apytu'ũ mba'asy
+    gpe: mental disorder
+    gsw: psychische Störung
+    he: הפרעה נפשית
+    hi: मानसिक रोग
+    hif: paglaapan
+    hr: duševna bolest
+    ht: Twoub sichik
+    hu: mentális zavar
+    hy: հոգեկան հիվանդություն
+    id: penyakit kejiwaan
+    is: Geðsjúkdómur
+    it: disturbo mentale
+    ja: 精神疾患
+    jam: Mental disaada
+    ka: ფსიქიკური დაავადება
+    kbp: Kpaŋ kʊdɔŋ
+    kk: Психикалық ширығу
+    km: រោគ សរសៃ ប្រសាទ
+    kn: ಮಾನಸಿಕ ರೋಗಗಳು
+    ko: 정신 질환
+    ku: Psîkopatî
+    ky: Психикалык оорулар
+    la: Morbus mentis
+    lfn: Maladia psicolojial
+    lmo: Malatia mentala
+    lo: ຄວາມຜິດປົກກະຕິທາງຈິດ
+    lt: psichikos sutrikimas
+    lv: psihiskie traucējumi
+    mai: मानसिक रोग
+    min: Gangguan jiwa
+    mk: душевно растројство
+    ml: മാനസികരോഗം
+    mr: मनोविकार
+    ms: penyakit mental
+    nan: Cheng-sîn-pēⁿ
+    nb: psykisk lidelse
+    nds: Psychsche Stöörnisse
+    ne: मानसिक रोग
+    new: मानसिक ल्वय्
+    nl: psychische aandoening
+    nn: psykisk liding
+    oc: Malautiá mentala
+    or: ମାନସିକ ରୋଗ
+    pa: ਮਨੋਵਿਕਾਰ
+    pap: Trastorno mental
+    pl: zaburzenia psychiczne
+    pms: Disórdin mental
+    pnb: ذہنی توازن وگڑنا
+    pt: perturbação mental
+    qu: Waq'ayay
+    ro: tulburare mintală
+    ru: психическое расстройство
+    rw: Indwara zo mu mutwe
+    sa: मानसिकरोगः
+    sco: mental disorder
+    sgs: Psikėkas sotrėkėms
+    sh: Duševna bolest
+    si: මානසික අක් රමතා
+    sk: duševná porucha
+    sl: duševna motnja
+    so: Itaala'aanta maskaxda
+    sq: Çrregullimi mendor
+    sr: душевна болест
+    sv: psykisk ohälsa
+    sw: Ugonjwa wa akili
+    ta: உளப் பிறழ்ச்சி
+    te: మానసిక రుగ్మత
+    tg: Бемориҳои рӯҳӣ
+    th: ความผิดปกติทางจิต
+    tl: sakit sa pag-iisip
+    tok: ike lawa
+    tr: mental bozukluk
+    tt: песихик бозылыш
+    udm: психикалэн сураськемез
+    uk: психічний розлад
+    ur: اضطراب عقلی
+    uz: Ruhiy kasallik
+    vec: disturbo mentałe
+    vi: rối loạn tâm thần
+    vro: Meelehaigus
+    war: Diperensya ha panhunahuna
+    wuu: 心理疾患
+    yi: מח-קרענק
+    yue: 精神障礙
+    zh: 精神障礙
+    zh-cn: 精神障碍
+    zh-hans: 精神障碍
+    zh-hant: 精神障礙
+    zh-tw: 精神障礙
 ---
-
 # [[Mental_Disorder]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mental_disorder,12135|WD~Mental_disorder,12135]] 

@@ -1,32 +1,109 @@
 ---
 aliases:
-  - Blazar
+- blasaari
+- blasar
+- blaseren
+- blasár
+- Blazar
+- blazár
+- blàzar
+- Nyotamwako
+- μπλέιζαρ
+- блазар
+- блязар
+- בלאזר
+- بلیزر
+- نجم زائف وهاج
+- ব্লেজার
+- சிற்றலை விண்மீன்
+- เบลซาร์
+- ブレーザー
+- 耀变体
+- 耀變體
+- 블레이자
 has_id_wikidata: Q221221
-subclass_of: "[[_Standards/WikiData/WD~quasar,83373]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+subclass_of: '[[_Standards/WikiData/WD~quasar,83373]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blazar-illustration.jpg
 Commons_category: Blazars
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]"
-    - "[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]"
-    - "[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]"
-    - "[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]"
-    - "[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]"
-    - "[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]"
+  - '[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]'
+  - '[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]'
+  - '[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]'
+  - '[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]'
+  - '[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]'
+  - '[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]"
-  - "[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]"
-  - "[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]"
-  - "[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]"
-  - "[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]"
-  - "[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]"
+- '[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]'
+- '[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]'
+- '[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]'
+- '[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]'
+- '[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]'
+- '[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]'
+- '[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]'
+- '[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]'
+dv_has_:
+  name_:
+    ar: نجم زائف وهاج
+    ast: blazar
+    be-tarask: блязар
+    bg: блазар
+    bn: ব্লেজার
+    bs: blazar
+    ca: blàzar
+    cs: blazar
+    cy: blaseren
+    de: Blazar
+    el: μπλέιζαρ
+    en: blazar
+    en-ca: Blazar
+    en-gb: Blazar
+    es: blazar
+    et: blasar
+    eu: blazar
+    fa: بلیزر
+    fi: blasaari
+    fr: blazar
+    ga: blasár
+    ha: blazar
+    he: בלאזר
+    hr: blazar
+    hu: blazár
+    id: blazar
+    it: blazar
+    ja: ブレーザー
+    ko: 블레이자
+    lb: Blazar
+    mk: Блазар
+    nb: blazar
+    nl: blazar
+    nn: blasar
+    oc: blazar
+    pl: blazar
+    pt: blazar
+    pt-br: blazar
+    ro: blazar
+    ru: блазар
+    sk: blazar
+    sl: blazar
+    sr: блазар
+    sr-ec: блазар
+    sr-el: blazar
+    sv: blazar
+    sw: Nyotamwako
+    ta: சிற்றலை விண்மீன்
+    th: เบลซาร์
+    tr: blazar
+    tt: блазар
+    uk: блазар
+    uz: Blazar
+    wuu: 耀变体
+    yue: 耀變體
+    zh: 耀变体
 ---
-
 # [[Blazar]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]] 

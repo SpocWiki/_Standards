@@ -1,12 +1,75 @@
 ---
 aliases:
-  - Puzzel
-  - Puzzle
+- atjautības uzdevums
+- buru-hausgarri
+- Casse tete
+- casse-tête
+- crebacabezas
+- dúcheist
+- Enigmatika
+- enigmatikë
+- enigmo
+- fejtörő
+- Geduldsspiel
+- Giải đố
+- Hal-xeraale
+- hjernevrider
+- hlavolam
+- INkilikiqi
+- joc d'habilitat mental
+- Joc problemă
+- Mainan teka-teki
+- Mõistatus
+- Ndaĩ (mĩthako)
+- Palaisipan
+- pos
+- pulmatehtävä
+- puslespill
+- pussel
+- puzel
+- Puzlo
+- Puzzel
+- Puzzle
+- quebra-cabeça
+- quebra-cabeças
+- rompecabeces
+- rompecabezas
+- rompicapo
+- Scassatesta
+- Tebakan
+- Tigmo
+- uganka
+- yapboz
+- Çıbenoki
+- łamigłówka
+- γρίφος
+- башваткыч
+- галаваломка
+- головоломка
+- енигматика
+- Пуçватмăш
+- գլուխկոտրուկ
+- Փազըլ
+- חידה
+- רעטעניש
+- أحجية
+- پازل
+- कोडी
+- पजल
+- पहेली
+- ধাঁধা
+- పజిల్
+- ප්රහේලිකා
+- ปริศนา
+- パズル
+- 智力游戏
+- 益智遊戲
+- 퍼즐
 has_id_wikidata: Q13698
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~product_category,63981612]]'
-  - '[[_Standards/WikiData/WD~game_genre,107551175]]'
+- '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~game_genre,107551175]]'
 part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 subclass_of: '[[_Standards/WikiData/WD~game,11410]]'
 IAB_code: 269
@@ -16,8 +79,82 @@ Commons_gallery: Puzzle
 OmegaWiki_Defined_Meaning: 370805
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Set%20of%20various%20puzzles.jpg
 Stack_Exchange_site_URL: https://puzzling.stackexchange.com
+dv_has_:
+  name_:
+    ar: أحجية
+    ast: rompecabeces
+    be: галаваломка
+    be-tarask: галаваломка
+    bho: पजल
+    bn: ধাঁধা
+    bs: Enigmatika
+    ca: joc d'habilitat mental
+    ceb: Tigmo
+    cs: hlavolam
+    cv: Пуçватмăш
+    cy: pos
+    da: hjernevrider
+    de: Geduldsspiel
+    diq: Çıbenoki
+    el: γρίφος
+    en: puzzle
+    eo: enigmo
+    es: rompecabezas
+    et: Mõistatus
+    eu: buru-hausgarri
+    fa: پازل
+    fi: pulmatehtävä
+    fr: casse-tête
+    fy: puzel
+    ga: dúcheist
+    gl: crebacabezas
+    haw: Casse tete
+    he: חידה
+    hi: पहेली
+    hr: Enigmatika
+    hu: fejtörő
+    hy: գլուխկոտրուկ
+    hyw: Փազըլ
+    id: Tebakan
+    io: Puzlo
+    it: rompicapo
+    ja: パズル
+    ki: Ndaĩ (mĩthako)
+    ko: 퍼즐
+    lv: atjautības uzdevums
+    mk: енигматика
+    mr: कोडी
+    ms: Mainan teka-teki
+    nb: puslespill
+    nl: puzzel
+    pl: łamigłówka
+    pt: quebra-cabeças
+    pt-br: quebra-cabeça
+    ro: Joc problemă
+    ru: головоломка
+    scn: Scassatesta
+    sh: Enigmatika
+    si: ප්රහේලිකා
+    sl: uganka
+    so: Hal-xeraale
+    sq: enigmatikë
+    sr: енигматика
+    sr-ec: енигматика
+    sv: pussel
+    te: పజిల్
+    th: ปริศนา
+    tl: Palaisipan
+    tr: yapboz
+    tt: башваткыч
+    tt-cyrl: башваткыч
+    uk: головоломка
+    vi: Giải đố
+    wuu: 智力游戏
+    yi: רעטעניש
+    yue: 益智遊戲
+    zh: 智力游戏
+    zu: INkilikiqi
 ---
-
 # [[Puzzle]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Puzzle,13698|WD~Puzzle,13698]]  

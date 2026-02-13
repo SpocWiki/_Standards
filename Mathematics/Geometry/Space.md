@@ -1,29 +1,271 @@
 ---
 aliases:
+- ala mun
+- avaruus
+- egor
+- Erana (jeômetria)
+- erdvė
+- espace
+- Espaci (omonimia)
+- espacio
+- espaciu
+- Espaciu físicu
+- espai
+- espazio
+- espazo
+- espaço físico
+- Fazo
+- Fànas
+- gofod
+- Hapësira
+- kakitidaan
+- Khong-kan
+- không gian
+- Lèspas (nosyon)
+- nafasi
+- Pluotmie
+- priestor
+- prostor
+- przestrzeń
+- Raum
+- Rohang
+- rom
+- Romte (natuerkunde)
+- ruang
+- ruimte
+- rum
+- Ruum
+- Rúm (eðlisfræði)
+- space
+- spaco
+- Spaco (fiziko)
+- Spais
+- Spasio (fisica)
+- spassio
+- Spatial
+- Spatio
+- spatium
+- spazio
+- spazju
+- spazziu
+- spațiu
+- Spies
+- spàsio
+- Spàtziu
+- spás
+- telpa
+- tér
+- Umkhathi
+- uzay
+- valageh
+- valahî
+- Vanualala
+- àyè
+- Χώρος
+- интывыл
+- Кеңістік
+- Огторгуй
+- прастора
+- простір
+- простор
+- пространство
+- тыгъдад
+- Уçлăх (физика)
+- фазо
+- фәза
+- Տարածութիւն
+- տարածություն
+- געשפרייט
+- מרחב
+- بۆشایی
+- رواڠ
+- فضا
+- فضاء
+- وٿي
+- अन्तरीक्ष
+- अवकाश
+- दिक्
+- स्पेस
+- স্থান
+- ਸਪੇਸ
+- விண்வெளி
+- అంతరిక్షం
+- ಬಾಹ್ಯಾಕಾಶ
+- സ്ഥലം
+- අවකාශය
+- ปริภูมิ
+- အကာသ
+- အာကာသ
+- အာႏကာႏသ
+- სივრცე
+- ᎤᏢᏅᏛ
+- 空
+- 空間
+- 空间
+- 공간
 has_id_wikidata: Q107
-part_of: "[[_Standards/WikiData/WD~spacetime,133327]]"
+part_of: '[[_Standards/WikiData/WD~spacetime,133327]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-studied_by: "[[_Standards/WikiData/WD~sociology_of_space,2133414]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_space,2133414]]'
 manifestation_of:
-  - "[[_Standards/WikiData/WD~measurable_set,3054889]]"
-  - "[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317]]"
-has_characteristic: "[[_Standards/WikiData/WD~dimension,4440864]]"
+- '[[_Standards/WikiData/WD~measurable_set,3054889]]'
+- '[[_Standards/WikiData/WD~Euclidean_three_dimensional_space,123411317]]'
+has_characteristic: '[[_Standards/WikiData/WD~dimension,4440864]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~curved_space,5196078]]"
-  - "[[_Standards/WikiData/WD~independent_continuant,53617489]]"
+- '[[_Standards/WikiData/WD~curved_space,5196078]]'
+- '[[_Standards/WikiData/WD~independent_continuant,53617489]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Raum,13472732]]"
-  - "[[_Standards/WikiData/WD~Space,25657856]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~space_in_physics,23055553]]"
-contains: "[[_Standards/WikiData/WD~region_of_space,26713767]]"
+- '[[_Standards/WikiData/WD~Raum,13472732]]'
+- '[[_Standards/WikiData/WD~Space,25657856]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~space_in_physics,23055553]]'
+contains: '[[_Standards/WikiData/WD~region_of_space,26713767]]'
 Commons_category: Space
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3D%20coordinate%20system.svg
 Iconclass_notation: 51I
 Colon_Classification: CRT
+dv_has_:
+  name_:
+    af: ruimte
+    ar: فضاء
+    ast: espaciu
+    azb: فضا
+    bar: Raum
+    be: прастора
+    be-tarask: прастора
+    bg: Пространство
+    bho: स्पेस
+    blk: အာႏကာႏသ
+    bn: স্থান
+    br: egor
+    bs: prostor
+    ca: espai
+    chr: ᎤᏢᏅᏛ
+    ckb: بۆشایی
+    cs: prostor
+    cv: Уçлăх (физика)
+    cy: gofod
+    da: rum
+    de: Raum
+    de-ch: Raum
+    el: Χώρος
+    en: space
+    en-ca: Space
+    en-gb: space
+    eo: spaco
+    es: espacio
+    et: Ruum
+    eu: espazio
+    ext: Espaciu físicu
+    fa: فضا
+    fi: avaruus
+    fj: Vanualala
+    fr: espace
+    fy: Romte (natuerkunde)
+    ga: spás
+    gcr: Lèspas (nosyon)
+    gd: Fànas
+    gl: espazo
+    gsw: Ruum
+    he: מרחב
+    hi: दिक्
+    hr: Prostor
+    hu: tér
+    hy: տարածություն
+    hyw: Տարածութիւն
+    ia: Spatio
+    id: ruang
+    io: Spaco (fiziko)
+    is: Rúm (eðlisfræði)
+    it: spazio
+    ja: 空間
+    jam: Spies
+    ka: სივრცე
+    kk: Кеңістік
+    kn: ಬಾಹ್ಯಾಕಾಶ
+    ko: 공간
+    ku: valahî
+    ku-latn: valageh
+    la: spatium
+    lb: Raum
+    lfn: Spasio (fisica)
+    lij: spassio
+    lt: erdvė
+    lv: telpa
+    lzh: 空
+    mag: दिक्
+    mg: Erana (jeômetria)
+    mk: простор
+    ml: സ്ഥലം
+    mn: Огторгуй
+    mnw: အကာသ
+    mr: अवकाश
+    ms: ruang
+    ms-arab: رواڠ
+    mt: spazju
+    my: အာကာသ
+    nan: Khong-kan
+    nb: rom
+    ne: अन्तरीक्ष
+    nl: ruimte
+    nn: rom
+    oc: Espaci (omonimia)
+    os: тыгъдад
+    pa: ਸਪੇਸ
+    pcm: Spais
+    pl: przestrzeń
+    ps: فضاء
+    pt: espaço físico
+    pt-br: espaço físico
+    ro: spațiu
+    ru: пространство
+    sc: Spàtziu
+    scn: spazziu
+    sco: space
+    sd: وٿي
+    sgs: Pluotmie
+    sh: Prostor
+    si: අවකාශය
+    sk: priestor
+    sl: prostor
+    sq: Hapësira
+    sr: простор
+    sr-ec: простор
+    sr-el: prostor
+    su: Rohang
+    sv: rum
+    sw: nafasi
+    szy: kakitidaan
+    ta: விண்வெளி
+    te: అంతరిక్షం
+    tg: фазо
+    th: ปริภูมิ
+    tok: ala mun
+    tr: uzay
+    tt: фәза
+    tt-cyrl: фәза
+    udm: интывыл
+    uk: простір
+    ur: Spatial
+    uz: Fazo
+    vec: spàsio
+    vi: không gian
+    wuu: 空間
+    yi: געשפרייט
+    yo: àyè
+    yue: 空間
+    zh: 空間
+    zh-cn: 空间
+    zh-hans: 空间
+    zh-hant: 空間
+    zh-hk: 空間
+    zh-mo: 空間
+    zh-my: 空间
+    zh-sg: 空间
+    zh-tw: 空間
+    zu: Umkhathi
 ---
-
 # [[Space]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space,107|WD~Space,107]]  

@@ -1,23 +1,70 @@
 ---
 aliases:
-  - double bass
-  - upright bass
-  - acoustic bass
-  - bull fiddle
-  - bass
-  - Double_Bass
-  - Double Bass
+- acoustic bass
+- Bas dwbl
+- bass
+- Bassgyge
+- biol injil
+- bull fiddle
+- contra-baxu
+- contrabaix
+- contrabaixo
+- contrabajo
+- contrabas
+- Contrabaso
+- Contrabassa
+- Contrabasso
+- Contrabaxu
+- contrabbasso
+- Contrabbassu
+- contrebasse
+- Dabal bes
+- Doble baho
+- double bass
+- Double_Bass
+- Hatunkaray llikilliki
+- kontrabas
+- Kontrabasi
+- kontrabaso
+- kontrabass
+- Kontrabassi
+- kontrabasso
+- kontrabaxu
+- kontrabosas
+- kontrbas
+- Kɔntrɩbasɩ
+- nagybőgő
+- olldord
+- upright bass
+- đại vĩ cầm
+- κοντραμπάσο
+- кантрабас
+- контрабас
+- Контрабасс
+- Կոնտրաբաս
+- קאנטראבאס
+- קונטרבס
+- كمان أجهر
+- كونتراباس
+- کنترباس
+- ഡബിൾ ബേസ്
+- ดับเบิลเบส
+- တိင်ႇလူင်
+- კონტრაბასი
+- コントラバス
+- 低音提琴
+- 콘트라베이스
 has_id_wikidata: Q80019
 different_from: '[[_Standards/WikiData/WD~acoustic_bass_guitar,424017]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~bass,810447]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~bass,810447]]'
+- '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 used_by: '[[_Standards/WikiData/WD~double_bassist,1214796]]'
 part_of: '[[_Standards/WikiData/WD~violin_family,1365097]]'
 lowest_note: '[[_Standards/WikiData/WD~D,1651121]]'
@@ -28,14 +75,101 @@ U_S_National_Archives_Identifier: 10647753
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20contrabass.png
 Hornbostel_Sachs_classification: 321.322-71
 inception:
-  - 1400-01-01T00:00:00Z
-  - 1800-01-01T00:00:00Z
+- 1400-01-01T00:00:00Z
+- 1800-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AGK%20bass1%20full.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Contrabass.stl
 Commons_category: Double basses
 Krugosvet_article: muzyka/kontrabas
+dv_has_:
+  name_:
+    af: Kontrabas
+    ar: كمان أجهر
+    arz: كونتراباس
+    ast: Contrabaxu
+    az: kontrabas
+    be: кантрабас
+    be-tarask: кантрабас
+    bg: контрабас
+    bs: Kontrabas
+    ca: contrabaix
+    cs: kontrabas
+    cv: Контрабас
+    cy: Bas dwbl
+    da: kontrabas
+    de: Kontrabass
+    el: κοντραμπάσο
+    en: double bass
+    en-gb: double bass
+    eo: kontrabaso
+    es: contrabajo
+    et: kontrabass
+    eu: kontrabaxu
+    ext: contra-baxu
+    fa: کنترباس
+    fi: kontrabasso
+    fr: contrebasse
+    ga: olldord
+    gl: contrabaixo
+    gsw: Bassgyge
+    gv: biol injil
+    he: קונטרבס
+    hr: Kontrabas
+    hu: nagybőgő
+    hy: Կոնտրաբաս
+    ia: Contrabasso
+    id: Kontrabas
+    io: Kontrabaso
+    is: Kontrabassi
+    it: contrabbasso
+    ja: コントラバス
+    ka: კონტრაბასი
+    kbp: Kɔntrɩbasɩ
+    kk: контрабас
+    ko: 콘트라베이스
+    ky: контрабас
+    lb: Kontrabass
+    lt: kontrabosas
+    lv: Kontrabass
+    mk: контрабас
+    ml: ഡബിൾ ബേസ്
+    mn: Контрабасс
+    ms: Dabal bes
+    nb: kontrabass
+    nl: contrabas
+    nn: kontrabass
+    oc: Contrabassa
+    pl: kontrabas
+    pt: contrabaixo
+    qu: Hatunkaray llikilliki
+    ro: contrabas
+    ru: контрабас
+    scn: Contrabbassu
+    sh: Kontrabas
+    shn: တိင်ႇလူင်
+    sk: kontrabas
+    sl: kontrabas
+    sq: Kontrabasi
+    sr: контрабас
+    sr-ec: Контрабас
+    stq: Kontrabass
+    sv: kontrabas
+    tg: контрабас
+    th: ดับเบิลเบส
+    tl: Doble baho
+    tr: kontrbas
+    uk: контрабас
+    uz: Kontrabas
+    vec: Contrabaso
+    vi: đại vĩ cầm
+    wuu: 低音提琴
+    xmf: კონტრაბასი
+    yi: קאנטראבאס
+    yue: 低音提琴
+    zh: 低音提琴
+    zh-hant: 低音提琴
+    zh-tw: 低音提琴
 ---
-
 # [[Double_Bass]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Double_bass,80019|WD~Double_bass,80019]] 

@@ -1,8 +1,72 @@
 ---
 aliases:
-  - Sicariidae
+- aavikkohämähäkit
+- koutníkovití
+- Naʼashjéʼii naalzheehígíí
+- Sicariidae
+- Sicàrid
+- Sääksuuget Sunkoonkern
+- vioolspinnen
+- Šesterooki račji pauci
+- паяци отшелници
+- ארסניים
+- عنکبوتهای گوشهنشین
+- イトグモ科
+- 丝蛛科
+- 絲蛛科
 title: Sicariidae
 has_id_wikidata: Q11717
+dv_has_:
+  name_:
+    an: Sicariidae
+    ast: Sicariidae
+    be: Sicariidae
+    bg: паяци отшелници
+    ca: Sicàrid
+    ceb: Sicariidae
+    cs: koutníkovití
+    de: Sicariidae
+    en: Sicariidae
+    eo: Sicariidae
+    es: Sicariidae
+    eu: Sicariidae
+    ext: Sicariidae
+    fa: عنکبوتهای گوشهنشین
+    fi: aavikkohämähäkit
+    fr: Sicariidae
+    frr: Sääksuuget Sunkoonkern
+    ga: Sicariidae
+    gl: Sicariidae
+    he: ארסניים
+    hr: Šesterooki račji pauci
+    ia: Sicariidae
+    id: Sicariidae
+    ie: Sicariidae
+    io: Sicariidae
+    it: Sicariidae
+    ja: イトグモ科
+    la: Sicariidae
+    mul: Sicariidae
+    nb: Sicariidae
+    nl: vioolspinnen
+    nv: Naʼashjéʼii naalzheehígíí
+    oc: Sicariidae
+    pl: Sicariidae
+    pt: Sicariidae
+    pt-br: Sicariidae
+    ro: Sicariidae
+    ru: Sicariidae
+    sq: Sicariidae
+    sv: Sicariidae
+    tr: Sicariidae
+    uk: Sicariidae
+    vi: Sicariidae
+    vo: Sicariidae
+    war: Sicariidae
+    zh: 丝蛛科
+    zh-cn: 丝蛛科
+    zh-hans: 丝蛛科
+    zh-tw: 絲蛛科
 ---
 # [[Sicariidae]] 
 ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1875.jpg)) ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1888.jpg))  ![loxosceles_laetamm](Sicariidae/loxosceles_laetamm_1898.jpg) 

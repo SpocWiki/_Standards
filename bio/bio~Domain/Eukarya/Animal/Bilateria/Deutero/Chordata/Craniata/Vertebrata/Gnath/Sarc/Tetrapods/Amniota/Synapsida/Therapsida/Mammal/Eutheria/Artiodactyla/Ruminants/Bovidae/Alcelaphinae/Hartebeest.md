@@ -1,11 +1,160 @@
 ---
 aliases:
-  - Alcelaphus buselaphus
-  - kongoni
-  - kaama
-  - Hartebeest
+- Alcelaphus buselaphus
+- Aluelweŋ
+- Bawolec krowi
+- Bubale
+- buvolec stepní
+- búbal
+- Búbalu
+- Cengu
+- Chengu
+- Eyundukol (Alcelaphus buselaphus)
+- Galvijinė antilopė
+- hartaibéist
+- Hartebeest
+- Hartenbeest
+- Indluzele
+- Jádí biniiʼtsʼózí
+- kaama
+- Koantilope
+- kongoni
+- kuantilope
+- Nordafrikanische Kuhantilope
+- Qorkee
+- Stepa alcelafo
+- Tankɔn
+- vörös tehénantilop
+- Конгони
+- обикновен бубал
+- בובאל איילי
+- ثيتل
+- ثيتل الهرتبيس
+- گاوگوزن
+- ہارٹبیسٹ
+- ஹார்ட்பீஸ்ட்
+- ഹർട്ടെബീസ്റ്റ്
+- ძროხისებრი ანტილოპა
+- ቆርኬ
+- ハーテビースト
+- 狷羚
+- 사슴영양
 title: Alcelaphus buselaphus
 has_id_wikidata: Q622880
+dv_has_:
+  name_:
+    af: Bubale
+    am: ቆርኬ
+    an: Bubale
+    ar: ثيتل
+    arz: ثيتل الهرتبيس
+    ast: Búbalu
+    av: Конгони
+    avk: Eyundukol (Alcelaphus buselaphus)
+    bar: Bubale
+    be: Alcelaphus buselaphus
+    bg: обикновен бубал
+    bm: Tankɔn
+    br: Bubale
+    ca: búbal
+    ceb: Alcelaphus buselaphus
+    co: Bubale
+    cs: buvolec stepní
+    cy: Bubale
+    da: Koantilope
+    de: Nordafrikanische Kuhantilope
+    de-at: Bubale
+    de-ch: Bubale
+    din: Aluelweŋ
+    en: hartebeest
+    en-ca: Bubale
+    en-gb: Bubale
+    eo: Stepa alcelafo
+    es: alcelaphus buselaphus
+    et: Bubale
+    eu: Alcelaphus buselaphus
+    fa: گاوگوزن
+    fi: kongoni
+    fr: Alcelaphus buselaphus
+    frp: Bubale
+    fur: Bubale
+    ga: hartaibéist
+    gd: Alcelaphus buselaphus
+    gl: Alcelaphus buselaphus
+    gsw: Bubale
+    he: בובאל איילי
+    hr: Alcelaphus buselaphus
+    hu: vörös tehénantilop
+    ia: Alcelaphus buselaphus
+    id: Cengu
+    ie: Bubale
+    io: Bubale
+    is: Bubale
+    it: Alcelaphus buselaphus
+    ja: ハーテビースト
+    ka: ძროხისებრი ანტილოპა
+    kg: Bubale
+    ko: 사슴영양
+    la: Alcelaphus buselaphus
+    lb: Bubale
+    lez: Конгони
+    li: Bubale
+    lij: Bubale
+    lt: Galvijinė antilopė
+    mg: Bubale
+    mhr: Конгони
+    min: Bubale
+    ml: ഹർട്ടെബീസ്റ്റ്
+    ms: Bubale
+    mul: Alcelaphus buselaphus
+    nap: Bubale
+    nb: kuantilope
+    nds: Bubale
+    nds-nl: Bubale
+    nl: Hartenbeest
+    nn: Bubale
+    nrm: Bubale
+    nv: Jádí biniiʼtsʼózí
+    oc: Bubale
+    om: Qorkee
+    pcd: Bubale
+    pl: Bawolec krowi
+    pms: Bubale
+    pnb: ہارٹبیسٹ
+    pt: búbalu
+    pt-br: Bubale
+    rm: Bubale
+    ro: Alcelaphus buselaphus
+    ru: Конгони
+    sc: Bubale
+    scn: Bubale
+    sco: hartebeest
+    sh: Alcelaphus buselaphus
+    sk: Bubale
+    sl: Bubale
+    sn: Chengu
+    sq: Alcelaphus buselaphus
+    sr: Alcelaphus buselaphus
+    sr-ec: Alcelaphus buselaphus
+    sr-el: Alcelaphus buselaphus
+    sv: Hartebeest
+    sw: Bubale
+    ta: ஹார்ட்பீஸ்ட்
+    udm: Конгони
+    uk: Alcelaphus buselaphus
+    vi: Alcelaphus buselaphus
+    vls: Bubale
+    vo: Bubale
+    wa: Bubale
+    war: Alcelaphus buselaphus
+    wo: Bubale
+    zh: 狷羚
+    zh-cn: 狷羚
+    zh-hans: 狷羚
+    zh-hant: 狷羚
+    zh-hk: 狷羚
+    zh-tw: 狷羚
+    zu: Indluzele
 ---
 # Alcelaphus buselaphus 
 ![Hartebeest](Hartebeest/Hartebeest.jpg) 

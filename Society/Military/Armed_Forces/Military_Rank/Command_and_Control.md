@@ -1,17 +1,96 @@
 ---
 aliases:
-  - Command and control
-  - Command_and_Control
-  - Command and Control
+- agintea eta kontrola
+- Comandament e contraròtle
+- comandament i control
+- Comando e controle
+- Comando e controllo
+- Comando e controlo
+- Command and control
+- commandement et contrôle
+- Command_and_Control
+- dowodzenie
+- Johtamissodankäynti
+- Komanda dhe kontrolli
+- Komandanlıq və nəzarət
+- Komando dan kendali
+- komando-regado
+- Kommando og kontroll
+- Komuta ve kontrol
+- Mando y control
+- Mandu y control
+- Militær kommando og kontroll
+- Perintah dan kawal
+- poveljevanje in kontrola
+- velení a řízení
+- Vojna komanda
+- військове управління
+- Идоракунии лашкар
+- Кіраванне войскамі
+- кіраваньне войскам
+- управление войсками
+- שליטה ובקרה
+- القيادة والتحكم
+- القياده والسيطره
+- فرماندهی و کنترل
+- فەرمان و کۆنتڕۆڵ
+- निर्देश व नियंत्रण
+- การสั่งการและควบคุม
+- 命令与控制
+- 指揮及管制
+- 統制
+- 지휘통제
 has_id_wikidata: Q21662260
 different_from:
-  - '[[_Standards/WikiData/WD~military_administration,858496]]'
-  - '[[_Standards/WikiData/WD~Dowodzenie,9210426]]'
+- '[[_Standards/WikiData/WD~military_administration,858496]]'
+- '[[_Standards/WikiData/WD~Dowodzenie,9210426]]'
 subclass_of: '[[_Standards/WikiData/WD~military_control_system,12153018]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_management,96247293]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SICCONA%20%28Command%2C%20Control%20and%20Navigation%20System%29%20-%20Italian%20Army.png
+dv_has_:
+  name_:
+    ar: القيادة والتحكم
+    arz: القياده والسيطره
+    ast: Mandu y control
+    az: Komandanlıq və nəzarət
+    be: Кіраванне войскамі
+    be-tarask: кіраваньне войскам
+    ca: comandament i control
+    ckb: فەرمان و کۆنتڕۆڵ
+    cs: velení a řízení
+    en: command and control
+    eo: komando-regado
+    es: Mando y control
+    eu: agintea eta kontrola
+    fa: فرماندهی و کنترل
+    fi: Johtamissodankäynti
+    fr: commandement et contrôle
+    he: שליטה ובקרה
+    hi: निर्देश व नियंत्रण
+    id: Komando dan kendali
+    it: Comando e controllo
+    ja: 統制
+    ko: 지휘통제
+    mn: Command and control
+    ms: Perintah dan kawal
+    nb: Kommando og kontroll
+    nn: Militær kommando og kontroll
+    oc: Comandament e contraròtle
+    pl: dowodzenie
+    pt: Comando e controlo
+    pt-br: Comando e controle
+    ru: управление войсками
+    sh: Vojna komanda
+    sl: poveljevanje in kontrola
+    sq: Komanda dhe kontrolli
+    sr: Vojna komanda
+    tg: Идоракунии лашкар
+    th: การสั่งการและควบคุม
+    tr: Komuta ve kontrol
+    uk: військове управління
+    zh: 指揮及管制
+    zh-hans: 命令与控制
 ---
-
 # [[Command_and_Control]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Command_and_control,21662260|WD~Command_and_control,21662260]] 

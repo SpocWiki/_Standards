@@ -1,9 +1,56 @@
 ---
 aliases:
-  - snakeherb
-  - Dyschoriste
+- Dyschoriste
+- snakeherb
+- ضيفد
+- திசுகோரிசுட்டே
+- 距药蓝属
 title: Dyschoriste
 has_id_wikidata: Q5319367
+dv_has_:
+  name_:
+    an: Dyschoriste
+    ar: ضيفد
+    ast: Dyschoriste
+    bg: Dyschoriste
+    ca: Dyschoriste
+    ceb: Dyschoriste
+    de: Dyschoriste
+    en: Dyschoriste
+    eo: Dyschoriste
+    es: Dyschoriste
+    eu: Dyschoriste
+    ext: Dyschoriste
+    fi: Dyschoriste
+    fr: Dyschoriste
+    ga: Dyschoriste
+    gl: Dyschoriste
+    hr: Dyschoriste
+    ia: Dyschoriste
+    ie: Dyschoriste
+    io: Dyschoriste
+    it: Dyschoriste
+    la: Dyschoriste
+    mul: Dyschoriste
+    mwl: Dyschoriste
+    nl: Dyschoriste
+    oc: Dyschoriste
+    pl: Dyschoriste
+    pt: Dyschoriste
+    pt-br: Dyschoriste
+    ro: Dyschoriste
+    ru: Dyschoriste
+    sq: Dyschoriste
+    sv: Dyschoriste
+    ta: திசுகோரிசுட்டே
+    tr: Dyschoriste
+    uk: Dyschoriste
+    vi: Dyschoriste
+    vo: Dyschoriste
+    war: Dyschoriste
+    zh: 距药蓝属
+    zh-cn: 距药蓝属
+    zh-hans: 距药蓝属
 ---
 # [[Dyschoriste]] 
 

@@ -1,41 +1,188 @@
 ---
 aliases:
-  - Flut
-  - '{ newTitle: }': ''
-  - Flood
+- Aia ampuah
+- Allavinamentu
+- Alluvione
+- ambaliya
+- Baah
+- baarr
+- Bah
+- baha
+- Bahâ
+- Banjir
+- Bânjir
+- Caah
+- Cūi-căi
+- Daad
+- Daşqın
+- Diluvio
+- dour-beuz
+- dulvi
+- dìle
+- flaum
+- Flod
+- flom
+- Flood
+- Fluad
+- fluid
+- Flut
+- flóð
+- Gentuh
+- grossès aiwes
+- Hochwasser
+- Huuchweeder
+- idei mmiri
+- Inondacion
+- inondasion
+- Inondassion
+- Inondasyon
+- inondation
+- inondazione
+- inundació
+- inundación
+- Inundatio
+- Inundation
+- inundação
+- inundație
+- inundo
+- Iwwerschwemmung
+- Kɔkpɛɣu
+- layus
+- lehî
+- Liud
+- liv
+- Llifogydd
+- Lɩm wadʋʋ
+- lụt
+- Mafashamo
+- Mafuriko
+- Midalo
+- Nsuyiri
+- Nuyuy
+- Oerstreaming
+- oorstroming
+- overstroming
+- oversvømmelse
+- plūdi
+- Plūds
+- poplava
+- potvynis
+- povodeň
+- powódź
+- përmbytja
+- Raemxrongz
+- Rngsux Paru
+- sel
+- sur'vezi
+- suv basuvı
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Tondra-drano
+- Toshqin
+- tuile
+- tulva
+- tulve
+- tuʹlvv
+- Tōa-chúi
+- uholde
+- wai hālana
+- Waluvu
+- wulka woda
+- árvíz
+- översvämning
+- Üleujotus
+- üleujutus
+- πλημμύρα
+- вутудӟон
+- Ейӳ
+- наводнение
+- обхезӣ
+- паводка
+- повідь
+- Повінь
+- поплава
+- Су басу
+- суу къобуу
+- Ташкын
+- Топан су
+- Үер
+- Һыу баҫыу
+- ջրհեղեղ
+- פֿאַרפֿלייצונג
+- שיטפון
+- بنجير
+- داشقین
+- سلھاب
+- سيلاب
+- سٔہلاب
+- سیل
+- سیلاب
+- فيضان
+- لافاو
+- لاهیز
+- खुसि बाहा
+- दाहार
+- पूर
+- प्लावन
+- बाढ
+- बाढ़
+- बाढ़ि
+- बाढी
+- বন্যা
+- বানপানী
+- ਹੜ੍ਹ
+- પૂર
+- ବନ୍ୟା
+- வெள்ளம்
+- వరద
+- ಪ್ರವಾಹ
+- വെള്ളപ്പൊക്കം
+- ගංවතුර
+- น้ำท่วม
+- ນໍ້າຖ້ວມ
+- ရေကြီးခြင်း
+- წყალდიდობა
+- წყარალა
+- ጎርፍ
+- ᱵᱟᱱ
+- 水澇
+- 水災
+- 洪水
+- 洪災
+- 洪灾
+- 홍수
 has_id_wikidata: Q8068
 Colon_Classification: Y:4355
 Commons_category: Floods
 Commons_gallery: Flood
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~flood,3223176]]'
 distribution_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Flood%20Hazard%20Frequency%20and%20Distribution%20%285457923272%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Flood%20Hazard%20Frequency%20and%20Distribution%20%285457923272%29.jpg
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~flood_control,1187968]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~cloud_burst,180382]]'
-  - '[[_Standards/WikiData/WD~siphoning,1550470]]'
-  - '[[_Standards/WikiData/WD~river_overflow,2369493]]'
-  - '[[_Standards/WikiData/WD~rain,7925]]'
-  - '[[_Standards/WikiData/WD~tsunami,8070]]'
+- '[[_Standards/WikiData/WD~cloud_burst,180382]]'
+- '[[_Standards/WikiData/WD~siphoning,1550470]]'
+- '[[_Standards/WikiData/WD~river_overflow,2369493]]'
+- '[[_Standards/WikiData/WD~rain,7925]]'
+- '[[_Standards/WikiData/WD~tsunami,8070]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~property_damage,554774]]'
-  - '[[_Standards/WikiData/WD~dam_failure,1033074]]'
-  - '[[_Standards/WikiData/WD~flood_damage,56873286]]'
-  - '[[_Standards/WikiData/WD~death,4]]'
+- '[[_Standards/WikiData/WD~property_damage,554774]]'
+- '[[_Standards/WikiData/WD~dam_failure,1033074]]'
+- '[[_Standards/WikiData/WD~flood_damage,56873286]]'
+- '[[_Standards/WikiData/WD~death,4]]'
 Iconclass_notation: 25H199
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KatrinaNewOrleansFlooded%20edit2.jpg
 IPTC_NewsCode: mediatopic/20000154
 MeSH_tree_code:
-  - G16.500.175.812
-  - N06.230.100.230.250
+- G16.500.175.812
+- N06.230.100.230.250
 MIL_STD_2525_Symbol_Identification_Code: 10014000001702020000
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Night%20Flood.jpg
 OmegaWiki_Defined_Meaning: 1482
@@ -46,21 +193,21 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 Provenio_UUID: 2ee69de1-7d70-457b-970d-46bc3dd96076
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Floods%20in%20Guatemala.jpg
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A9ma%20conceptuel%20illustrant%20les%20cons%C3%A9quences%20des%20inondations%20dans%20les%20Pays%20du%20Sud.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A9ma%20conceptuel%20illustrant%20les%20cons%C3%A9quences%20des%20inondations%20dans%20les%20Pays%20du%20Sud.jpg
 subclass_of:
-  - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
-  - '[[_Standards/WikiData/WD~high_tide,30017]]'
+- '[[_Standards/WikiData/WD~natural_disaster,8065]]'
+- '[[_Standards/WikiData/WD~high_tide,30017]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_flood,11008383]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_flood,11008383]]'
 UMLS_CUI: C2717751
 U_S_National_Archives_Identifier: 10639457
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/2018-01%20Ill%20flood%20drone.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/2018-01%20Ill%20flood%20drone.webm
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/FEMA%20-%2040488%20-%20Aerial%20of%20flood%20effects%20in%20Minnesota.jpg
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -81,13 +228,190 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - '{ newTitle: }': ''
-  - excalidraw
+- '{ newTitle: }': ''
+- excalidraw
 title:
   '{ newTitle: }': ''
 type: private_note
+dv_has_:
+  name_:
+    af: oorstroming
+    ak: Nsuyiri
+    am: ጎርፍ
+    an: Inundación
+    anp: बाढ
+    ar: فيضان
+    arz: فيضان
+    as: বানপানী
+    ast: Inundación
+    az: Daşqın
+    azb: داشقین
+    ba: Һыу баҫыу
+    ban: Gentuh
+    bar: Fluad
+    bcl: Baha
+    bdr: Liud
+    be: паводка
+    be-tarask: паводка
+    bg: наводнение
+    bho: दाहार
+    bjn: Baah
+    bn: বন্যা
+    br: dour-beuz
+    bs: Poplava
+    bxr: Үер
+    ca: inundació
+    cdo: Cūi-căi
+    ckb: لافاو
+    crh: suv basuvı
+    cs: povodeň
+    cv: Ейӳ
+    cy: Llifogydd
+    da: oversvømmelse
+    dag: Kɔkpɛɣu
+    de: Hochwasser
+    dty: बाढी
+    el: πλημμύρα
+    en: flood
+    eo: inundo
+    es: inundación
+    et: üleujutus
+    eu: uholde
+    fa: سیل
+    fi: tulva
+    fj: Waluvu
+    fo: flóð
+    fr: inondation
+    frr: Huuchweeder
+    fy: Oerstreaming
+    ga: tuile
+    gan: 水澇
+    gcr: Inondasyon
+    gd: dìle
+    gl: inundación
+    gsw: Hochwasser
+    gu: પૂર
+    ha: ambaliya
+    haw: wai hālana
+    he: שיטפון
+    hi: बाढ़
+    hif: baarr
+    hr: poplava
+    hsb: wulka woda
+    ht: Inondasyon
+    hu: árvíz
+    hy: ջրհեղեղ
+    ia: Inundation
+    iba: Bah
+    id: banjir
+    ig: idei mmiri
+    ilo: layus
+    io: Diluvio
+    is: flóð
+    it: inondazione
+    ja: 洪水
+    jam: Flod
+    jv: banjir
+    ka: წყალდიდობა
+    kbp: Lɩm wadʋʋ
+    kk: Топан су
+    kn: ಪ್ರವಾಹ
+    ko: 홍수
+    krc: суу къобуу
+    ks: سٔہلاب
+    ku: lehî
+    ku-latn: lehî
+    kw: liv
+    ky: Ташкын
+    la: Inundatio
+    lb: Iwwerschwemmung
+    lo: ນໍ້າຖ້ວມ
+    lt: potvynis
+    lv: plūdi
+    lzh: 水災
+    mad: Bânjir
+    mai: बाढ़ि
+    map-bms: Banjir
+    mg: Tondra-drano
+    min: Aia ampuah
+    mk: поплава
+    ml: വെള്ളപ്പൊക്കം
+    mn: Үер
+    mr: पूर
+    ms: banjir
+    ms-arab: بنجير
+    my: ရေကြီးခြင်း
+    mzn: لاهیز
+    nan: Tōa-chúi
+    nap: Alluvione
+    nb: flom
+    nds: overstroming
+    ne: बाढी
+    new: खुसि बाहा
+    nl: overstroming
+    nn: flaum
+    oc: Inondacion
+    or: ବନ୍ୟା
+    pa: ਹੜ੍ਹ
+    pl: powódź
+    pms: Inondassion
+    pnb: سلھاب
+    ps: سيلاب
+    pt: inundação
+    pt-br: inundação
+    qu: Nuyuy
+    ro: inundație
+    ru: наводнение
+    rue: Повінь
+    sa: प्लावन
+    sat: ᱵᱟᱱ
+    scn: Allavinamentu
+    sco: fluid
+    se: dulvi
+    sgs: Plūds
+    sh: poplava
+    si: ගංවතුර
+    sk: povodeň
+    sl: poplava
+    smn: tulve
+    sms: tuʹlvv
+    sn: Mafashamo
+    so: Daad
+    sq: përmbytja
+    sr: поплава
+    sr-ec: поплава
+    sr-el: poplava
+    su: Caah
+    sv: översvämning
+    sw: Mafuriko
+    ta: வெள்ளம்
+    te: వరద
+    tg: обхезӣ
+    th: น้ำท่วม
+    tl: baha
+    tr: sel
+    trv: Rngsux Paru
+    tt: Су басу
+    udm: вутудӟон
+    uk: повідь
+    ur: سیلاب
+    uz: Toshqin
+    ve: Midalo
+    vec: inondasion
+    vep: sur'vezi
+    vi: lụt
+    vro: Üleujotus
+    wa: grossès aiwes
+    war: Bahâ
+    wuu: 洪水
+    xmf: წყარალა
+    yi: פֿאַרפֿלייצונג
+    yue: 洪水
+    za: Raemxrongz
+    zh: 洪灾
+    zh-hans: 洪灾
+    zh-hant: 洪災
 ---
-
 # [[Flood]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Flood,8068|WD~Flood,8068]]  

@@ -1,21 +1,140 @@
 ---
 aliases:
-  - Portmanteau
-  - Kofferwort
-  - Mot-valise
-  - blend word
+- amálgama
+- birleşik sözcük
+- blend
+- blend word
+- cuvânt telescopat
+- cyfansoddair cywasgedig
+- ger-malizenn
+- hibrīdvārds
+- kata lakur
+- kofferwoord
+- Kofferwort
+- Mengelwoort
+- mot creuat
+- Mot-valise
+- mürəkkəb sözlər
+- palavra-valise
+- parola macedonia
+- parola-valise
+- pinagsamang salita
+- Portmanteau
+- Portmanteau-Wuert
+- Portmanteauwort
+- prekrivanka
+- samantrekt ord
+- sipotchî aplacaedje
+- stopljenica
+- sulandsõna
+- sulautuma
+- szóösszevonás
+- teleskopord
+- tembung garba
+- từ ghép
+- verbum amalgamatum
+- Vort-valizo
+- vortokunfando
+- zbitka wyrazowa
+- біріккен сөздер
+- портманто
+- склеенае слова
+- словослияние
+- стопеница
+- телескопія
+- հիբրիդային բառ
+- הלחם בסיסים
+- امیختہ
+- تکواژ چندوجهی
+- لفظ منحوت
+- পিন্ডারিশব্দ
+- หน่วยคำควบ
+- かばん語
+- 混成詞
+- 混成词
+- 혼성어
 has_id_wikidata: Q208674
 subclass_of:
-  - '[[_Standards/WikiData/WD~contamination,287903]]'
-  - '[[_Standards/WikiData/WD~derivation,728001]]'
-  - '[[_Standards/WikiData/WD~word_play,998840]]'
+- '[[_Standards/WikiData/WD~contamination,287903]]'
+- '[[_Standards/WikiData/WD~derivation,728001]]'
+- '[[_Standards/WikiData/WD~word_play,998840]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from: '[[_Standards/WikiData/WD~hybridism,1118483]]'
 has_cause: '[[_Standards/WikiData/WD~blending,115942947]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_word_or_phrase,135929641]]'
 Commons_category: Portmanteau
+dv_has_:
+  name_:
+    af: kofferwoord
+    ar: لفظ منحوت
+    az: mürəkkəb sözlər
+    be-tarask: склеенае слова
+    bn: পিন্ডারিশব্দ
+    br: ger-malizenn
+    bs: stopljenica
+    ca: mot creuat
+    cs: blend
+    cy: cyfansoddair cywasgedig
+    da: portmanteau
+    de: Kofferwort
+    de-ch: Portmanteauwort
+    en: blend word
+    en-ca: portmanteau
+    en-gb: portmanteau
+    eo: vortokunfando
+    es: portmanteau
+    et: sulandsõna
+    eu: portmanteau
+    fa: تکواژ چندوجهی
+    fi: sulautuma
+    fr: mot-valise
+    gl: amálgama
+    he: הלחם בסיסים
+    hr: stopljenica
+    hu: szóösszevonás
+    hy: հիբրիդային բառ
+    ia: parola-valise
+    id: portmanteau
+    io: Vort-valizo
+    it: parola macedonia
+    ja: かばん語
+    jv: tembung garba
+    kk: біріккен сөздер
+    ko: 혼성어
+    la: verbum amalgamatum
+    lb: Portmanteau-Wuert
+    lv: hibrīdvārds
+    mk: стопеница
+    ms: kata lakur
+    nb: teleskopord
+    nds: Mengelwoort
+    nl: portmanteau
+    nn: samantrekt ord
+    pl: zbitka wyrazowa
+    pt: palavra-valise
+    pt-br: palavra-valise
+    ro: cuvânt telescopat
+    ru: словослияние
+    sh: portmanteau
+    sl: prekrivanka
+    sr: портманто
+    sv: teleskopord
+    th: หน่วยคำควบ
+    tl: pinagsamang salita
+    tr: birleşik sözcük
+    uk: телескопія
+    ur: امیختہ
+    vi: từ ghép
+    wa: sipotchî aplacaedje
+    wuu: 混成词
+    yue: 混成詞
+    zh: 混成詞
+    zh-cn: 混成词
+    zh-hans: 混成词
+    zh-hk: 混成詞
+    zh-sg: 混成词
+    zh-tw: 混成詞
 ---
-
 # [[Portmanteau]] 
 
 #is_/same_as :: [[Portmanteau,208674]]

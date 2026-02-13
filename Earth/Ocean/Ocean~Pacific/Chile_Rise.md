@@ -1,35 +1,89 @@
 ---
 aliases:
+- Chile Rise
+- Chile-Rücken
+- Chilirug
+- Chilský hřbet
+- Dorsal de Chile
+- dorsal de Xile
+- Dorsal do Chile
+- Dorsale del Cile
+- Dorsale du Chili
+- Grzbiet Chilijski
+- Mgongo wa bahari wa Chile
+- Qərbi Çili qalxması
+- Txileko dortsala
+- Čileanski prag
+- Şili Sırtı
+- Западно-Чилийское поднятие
+- Чилійська височина
+- Чилеански Гребен
+- Чылійскае падняцьце
+- רכס צ'ילה
+- مرتفعات تشيلي
+- チリ海嶺
+- 智利海嶺
+- 智利海隆
 has_id_wikidata: Q603531
-instance_of: "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
-country: "[[_Standards/WikiData/WD~Chile,298]]"
+instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]'
+country: '[[_Standards/WikiData/WD~Chile,298]]'
 bathymetry_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bathymetry%20%281%29.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bathymetry%20%281%29.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg
 coordinate_location: Point(-94.0 -43.0)
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]"
-    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]"
-    - "[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]"
-    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]"
-    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]"
-    - "[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]"
-    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]"
-    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]"
+  - '[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]'
+  - '[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]'
+  - '[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]'
+  - '[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]'
+  - '[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]'
+  - '[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]'
+  - '[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]'
+  - '[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]"
-  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]"
-  - "[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]"
-  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]"
-  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]"
-  - "[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]"
-  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]"
-  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]"
+- '[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]'
+- '[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]'
+- '[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]'
+- '[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]'
+- '[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]'
+- '[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]'
+- '[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]'
+- '[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]'
+dv_has_:
+  name_:
+    ar: مرتفعات تشيلي
+    ast: Dorsal de Chile
+    az: Qərbi Çili qalxması
+    be-tarask: Чылійскае падняцьце
+    ca: dorsal de Xile
+    cs: Chilský hřbet
+    de: Chile-Rücken
+    en: Chile Rise
+    es: Dorsal de Chile
+    eu: Txileko dortsala
+    fr: Dorsale du Chili
+    gl: Dorsal de Chile
+    he: רכס צ'ילה
+    hr: Čileanski prag
+    it: Dorsale del Cile
+    ja: チリ海嶺
+    mk: Чилеански Гребен
+    nl: Chilirug
+    pl: Grzbiet Chilijski
+    pt: Dorsal do Chile
+    ru: Западно-Чилийское поднятие
+    sr: Чилеански гребен
+    sr-ec: Чилеански гребен
+    sw: Mgongo wa bahari wa Chile
+    tr: Şili Sırtı
+    uk: Чилійська височина
+    wuu: 智利海隆
+    yue: 智利海嶺
+    zh: 智利海隆
 ---
-
 # [[Chile_Rise]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]] 

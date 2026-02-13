@@ -1,46 +1,90 @@
 ---
 aliases:
-  - Cervus_canadensis
-  - elk
-  - Wapiti
+- Amerikaanse elk
+- Cervus canadensis
+- Cervus_canadensis
+- Dzeeh
+- elk
+- Elnias vapitis
+- fia mór
+- Hươu Bắc Mỹ
+- jeleń kanadyjski
+- Jeleň americký
+- Kanada cervo
+- Kanada geyiği
+- kanadar orein
+- Karguol
+- Mo'éhe
+- Oapity
+- Uapiti
+- uapití
+- vaapiit
+- Vapiti
+- Vapítihjörtur
+- Vapïtï
+- Wapiti
+- άλκη
+- алень канадзкі
+- Вапіті
+- Вапіці
+- Вапити
+- уапити
+- վապիտի
+- אייל קנדי
+- וואפיטי
+- ئێڵک
+- الإلكة
+- الالكه
+- الک
+- ایلک
+- ۆاپىيتىي
+- गोज़न
+- காட்டுமான்
+- എൽക്
+- กวางเอลก์
+- ཤྭ་བ་རྔ་རིང་།
+- アメリカアカシカ
+- 加拿大馬鹿
+- 加拿大马鹿
+- 와피티사슴
 has_id_wikidata: Q180404
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+- '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~wapiti_meat,102317893]]'
+- '[[_Standards/WikiData/WD~wapiti_meat,102317893]]'
 taxon_range:
-  - '[[_Standards/WikiData/WD~Mongolia,711]]'
-  - '[[_Standards/WikiData/WD~Korea,18097]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Korea,18097]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Alces_alces,35517]]'
+- '[[_Standards/WikiData/WD~Alces_alces,35517]]'
 ITIS_TSN: 898259
 short_name:
-  - C. canadensis
+- C. canadensis
 start_time: -2500000-06
 taxon_common_name:
-  - Wapiti
+- Wapiti
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Elkbellow.ogg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jasper.Wapiti-Hirsch.P1033401.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wapiti%20at%20the%20Firehole%20River.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Jasper.Wapiti-Hirsch.P1033401.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wapiti%20at%20the%20Firehole%20River.jpg
 taxon_range_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Range%20map%20cervus%20canadensis.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wapiti.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Range%20map%20cervus%20canadensis.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wapiti.png
 Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/bio/mammal/Hoofed/elk/elkfrm.htm
 UMLS_CUI: C3889730
 EPPO_Code: CERVCA
@@ -49,10 +93,116 @@ Commons_category: Cervus canadensis
 taxon_name: Cervus canadensis
 Wolfram_Language_entity_code: Entity["FoodType", "Elk"]
 GenBank_assembly_accession_number:
-  - GCA_019320065.1
+- GCA_019320065.1
 NBN_System_Key: NHMSYS0021109635
+dv_has_:
+  name_:
+    af: Amerikaanse elk
+    an: Cervus canadensis
+    ar: الإلكة
+    arz: الالكه
+    ast: Cervus canadensis
+    avk: Karguol
+    az: Cervus canadensis
+    ban: Elk
+    bar: Cervus canadensis
+    be: Вапіці
+    be-tarask: алень канадзкі
+    bg: уапити
+    bo: ཤྭ་བ་རྔ་རིང་།
+    br: Wapiti
+    ca: uapití
+    ceb: Cervus canadensis
+    chy: Mo'éhe
+    ckb: ئێڵک
+    cs: wapiti
+    da: wapiti
+    de: Wapiti
+    el: άλκη
+    en: Cervus canadensis
+    en-us: elk
+    eo: Kanada cervo
+    es: Cervus canadensis
+    et: Vapiti
+    eu: kanadar orein
+    ext: Cervus canadensis
+    fa: الک
+    fi: vapiti
+    fr: wapiti
+    ga: fia mór
+    gl: Uapití
+    gn: Uapiti
+    he: אייל קנדי
+    hi: गोज़न
+    hr: Wapiti
+    hu: vapiti
+    hy: վապիտի
+    ia: Cervus canadensis
+    id: Elk
+    ie: Cervus canadensis
+    io: Cervus canadensis
+    is: Vapítihjörtur
+    it: Cervus canadensis
+    ja: アメリカアカシカ
+    jv: Elk
+    kk: Вапити
+    kk-arab: ۆاپىيتىي
+    kk-cn: ۆاپىيتىي
+    kk-cyrl: Вапити
+    kk-kz: Вапити
+    kk-latn: Vapïtï
+    kk-tr: Vapïtï
+    ko: 와피티사슴
+    la: Cervus canadensis
+    lt: Elnias vapitis
+    lv: Vapiti
+    mg: Oapity
+    mk: вапити
+    ml: എൽക്
+    ms: Elk
+    mul: Cervus canadensis
+    nb: wapiti
+    nl: wapiti
+    nv: Dzeeh
+    oc: Cervus canadensis
+    pl: jeleń kanadyjski
+    pnb: ایلک
+    pt: Uapiti
+    pt-br: Cervus canadensis
+    qu: Wapiti
+    ro: Cervus canadensis
+    ru: Вапити
+    sco: Wapiti
+    sh: Wapiti
+    sk: Jeleň americký
+    sl: vapiti
+    smn: vaapiit
+    sq: Cervus canadensis
+    sr: вапити
+    sr-ec: Вапити
+    sr-el: Vapiti
+    sv: vapiti
+    sw: Wapiti
+    ta: காட்டுமான்
+    th: กวางเอลก์
+    tl: Cervus canadensis
+    tr: Kanada geyiği
+    uk: Вапіті
+    vec: wapiti
+    vi: Hươu Bắc Mỹ
+    vo: Cervus canadensis
+    war: Cervus canadensis
+    wuu: 加拿大马鹿
+    yi: וואפיטי
+    yue: 加拿大馬鹿
+    zh: 加拿大馬鹿
+    zh-cn: 加拿大马鹿
+    zh-hans: 加拿大马鹿
+    zh-hant: 加拿大馬鹿
+    zh-hk: 加拿大馬鹿
+    zh-sg: 加拿大马鹿
+    zh-tw: 加拿大馬鹿
 ---
-
 # [[Wapiti]] 
 
 ![[Wapiti/Wapiti.jpg]]

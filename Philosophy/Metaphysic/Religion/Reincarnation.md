@@ -1,35 +1,227 @@
 ---
 aliases:
+- Adkemer korf
+- ailymgnawdoliad
+- avatar
+- endurholdgun
+- haragitze
+- jälleensyntyminen
+- Metempsychosis
+- punarjanam
+- punarjanmam
+- reencarnacion
+- reencarnació
+- reencarnación
+- reencarnação
+- reengkarnasyon
+- reenkarnasyon
+- reenkarniĝo
+- Reincarnassion
+- reincarnation
+- reincarnazione
+- reinkarnace
+- reinkarnacija
+- reinkarnacja
+- reinkarnacėjė
+- reinkarnasi
+- reinkarnasiya
+- reinkarnasjon
+- reinkarnation
+- reinkarnatión
+- Reinkarnatschoon
+- reinkarnatsioon
+- reinkarnatsiya
+- reinkarnácia
+- reinkarnáció
+- retchårnaedje
+- Reynkarnaasje
+- reîncarnare
+- reïncarnatie
+- reïnkarnasie
+- rimishërimi
+- réincarnation
+- rārdzimšana
+- själavandring
+- Widergeburt
+- Àkúdàáyá
+- ñembohetejey
+- đầu thai
+- μετενσάρκωση
+- прераждане
+- реінкарнація
+- реинкарнација
+- реинкарнацие
+- реинкарнация
+- рэінкарнацыя
+- таносух
+- ռեինկարնացիա
+- גלגול
+- גלגול נשמות
+- تناسخ
+- تناسخ الأرواح
+- پنر جنم
+- އާތަމާލަ
+- पुनर्जन्म
+- पूर्नजन्म
+- পুনর্জন্ম
+- ପୁନର୍ଜନ୍ମ
+- மறுபிறப்பு
+- పునర్జన్మ
+- ಪುನರ್ಜನ್ಮ
+- පුනර්භවය
+- การกลับชาติมาเกิดใหม่
+- སྐྱེ་བ་སྔ་ཕྱི་
+- რეირკანაცია
+- ᏔᎵᏁ ᎤᎾᏨᏅ
+- ចាប់បដិសនិ្ធ
+- ịlọ ụwa
+- 投胎
+- 投胎轉世
+- 転生
+- 轉世
+- 转世
+- 환생
 has_id_wikidata: Q128593
 part_of:
-  - "[[_Standards/WikiData/WD~Samsara,173324]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
+- '[[_Standards/WikiData/WD~Samsara,173324]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-has_effect: "[[_Standards/WikiData/WD~afterlife,623282]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+has_effect: '[[_Standards/WikiData/WD~afterlife,623282]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~superpower,1047698]]"
-  - "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-different_from: "[[_Standards/WikiData/WD~metempsychosis,1262856]]"
-subclass_of: "[[_Standards/WikiData/WD~hypothetical_event,72867640]]"
-has_cause: "[[_Standards/WikiData/WD~previous_life,115203478]]"
+- '[[_Standards/WikiData/WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+different_from: '[[_Standards/WikiData/WD~metempsychosis,1262856]]'
+subclass_of: '[[_Standards/WikiData/WD~hypothetical_event,72867640]]'
+has_cause: '[[_Standards/WikiData/WD~previous_life,115203478]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
 Commons_category: Reincarnation
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Reinkarnation.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reincarnation%20AS.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/METEMPSIHOZA.html
 IMDb_keyword: reincarnation
+dv_has_:
+  name_:
+    af: reïnkarnasie
+    an: reencarnación
+    ar: تناسخ الأرواح
+    ast: reencarnación
+    az: reinkarnasiya
+    ba: реинкарнация
+    be: рэінкарнацыя
+    be-tarask: рэінкарнацыя
+    bg: прераждане
+    bn: পুনর্জন্ম
+    bo: སྐྱེ་བ་སྔ་ཕྱི་
+    br: Adkemer korf
+    bs: reinkarnacija
+    ca: reencarnació
+    chr: ᏔᎵᏁ ᎤᎾᏨᏅ
+    cs: reinkarnace
+    cy: ailymgnawdoliad
+    da: reinkarnation
+    de: Reinkarnation
+    dv: އާތަމާލަ
+    el: μετενσάρκωση
+    en: reincarnation
+    eo: reenkarniĝo
+    es: reencarnación
+    et: reinkarnatsioon
+    eu: haragitze
+    fa: تناسخ
+    fi: jälleensyntyminen
+    fo: reinkarnatión
+    fr: réincarnation
+    fy: Reynkarnaasje
+    gl: reencarnación
+    gn: ñembohetejey
+    gom: avatar
+    gsw: Widergeburt
+    he: גלגול נשמות
+    hi: पुनर्जन्म
+    hif: punarjanam
+    hr: reinkarnacija
+    hu: reinkarnáció
+    hy: ռեինկարնացիա
+    ia: reincarnation
+    id: reinkarnasi
+    ig: ịlọ ụwa
+    is: endurholdgun
+    it: reincarnazione
+    ja: 転生
+    ka: რეირკანაცია
+    km: ចាប់បដិសនិ្ធ
+    kn: ಪುನರ್ಜನ್ಮ
+    ko: 환생
+    la: Metempsychosis
+    lt: reinkarnacija
+    lv: rārdzimšana
+    lzh: 投胎
+    mdf: реинкарнацие
+    mk: реинкарнација
+    ml: punarjanmam
+    mr: पुनर्जन्म
+    ms: reinkarnasi
+    mzn: تناسخ
+    nb: reinkarnasjon
+    nds: Reinkarnatschoon
+    ne: पूर्नजन्म
+    new: पुनर्जन्म
+    nl: reïncarnatie
+    nn: reinkarnasjon
+    oc: reencarnacion
+    or: ପୁନର୍ଜନ୍ମ
+    pl: reinkarnacja
+    pms: Reincarnassion
+    pt: reencarnação
+    ro: reîncarnare
+    ru: реинкарнация
+    rue: реінкарнація
+    sa: पुनर्जन्म
+    sd: پنر جنم
+    sgs: reinkarnacėjė
+    sh: reinkarnacija
+    si: පුනර්භවය
+    sk: reinkarnácia
+    sl: reinkarnacija
+    sq: rimishërimi
+    sr: реинкарнација
+    sr-ec: реинкарнација
+    sr-el: reinkarnacija
+    sv: själavandring
+    ta: மறுபிறப்பு
+    te: పునర్జన్మ
+    tg: таносух
+    th: การกลับชาติมาเกิดใหม่
+    tl: reengkarnasyon
+    tr: reenkarnasyon
+    tt: реинкарнация
+    uk: реінкарнація
+    ur: تناسخ
+    uz: reinkarnatsiya
+    vi: đầu thai
+    wa: retchårnaedje
+    wuu: 转世
+    yi: גלגול
+    yo: Àkúdàáyá
+    yue: 投胎轉世
+    zh: 轉世
+    zh-cn: 转世
+    zh-hans: 转世
+    zh-hant: 轉世
+    zh-hk: 轉世
+    zh-sg: 转世
+    zh-tw: 轉世
 ---
-
 # [[Reincarnation]] 
 
 #is_/same_as :: [[WD~Reincarnation,128593]] 

@@ -1,15 +1,193 @@
 ---
 aliases:
+- aalmuglâškirjerááju
+- bibbliuteca nazziunali
+- biblioteca nacional
+- biblioteca nazionale
+- biblioteca nazzional
+- biblioteca națională
+- Biblioteka kombëtare
+- biblioteka narodowa
+- Bibliotheca nationalis
+- bibliothèque nationale
+- Bibliotèca nacionala
+- kansaliskirjasto
+- kansalliskirjasto
+- Kok-li̍p tô͘-su-koán
+- leabharlann náisiúnta
+- liburutegi nazional
+- llyfrgell genedlaethol
+- meersažǩeʹrjjpõrtt
+- milli kitabxana
+- Milliy kutubxona
+- millî kütüphane
+- nacia biblioteko
+- Nacionala biblioteko
+- nacionalinė biblioteka
+- Nacionalna biblioteka
+- nacionalna knjižnica
+- nacionālā bibliotēka
+- naitional librar
+- narodna biblioteka
+- Nasionale biblioteek
+- nasjonaale gærjagåetie
+- nasjonalbibliotek
+- national library
+- nationalbibliotek
+- Nationalbibliothek
+- Nationalbibliothéik
+- nationale bibliotheek
+- Natschonalbibliotek
+- nemzeti könyvtár
+- národní knihovna
+- Perpustakaan nasional
+- perpustakaan negara
+- pirtûkxaneya neteweyî
+- rahvusraamatukogu
+- riikkagirjerádju
+- rijkalasjgirjjevuorkká
+- thư viện quốc gia
+- whare pukapuka matua
+- Óbá akwukwo goomenti etiti na-adi
+- Þjóðbókasafn
+- εθνική βιβλιοθήκη
+- милли китапхана
+- милли китапханә
+- національна бібліотека
+- национ библиотекæ
+- национална библиотека
+- национальная библиотека
+- Нацыянальная бібліятэка
+- Ұлттық Кітапхана
+- ազգային գրադարան
+- ספרייה לאומית
+- قومی کتب خانہ
+- مكتبة وطنية
+- ملي کتابتون
+- ڤرڤوستاکاءن نݢارا
+- کتابخانه ملی
+- জাতীয় গ্রন্থাগার
+- ਰਾਸ਼ਟਰੀ ਲਾਇਬ੍ਰੇਰੀ
+- தேசிய நூலகம்
+- ජාතික පුස්තකාලය
+- ეროვნული ბიბლიოთეკა
+- 国家图书馆
+- 国立図書館
+- 國家圖書館
+- 국립도서관
 has_id_wikidata: Q22806
 subclass_of:
-  - "[[_Standards/WikiData/WD~government_agency,327333]]"
-  - "[[_Standards/WikiData/WD~government_library,65768782]]"
-different_from: "[[_Standards/WikiData/WD~Biblioteka_Narodowa,11687972]]"
+- '[[_Standards/WikiData/WD~government_agency,327333]]'
+- '[[_Standards/WikiData/WD~government_library,65768782]]'
+different_from: '[[_Standards/WikiData/WD~Biblioteka_Narodowa,11687972]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Centenoyespelta-biblioteca%20nacional.wav
 Provenio_UUID: eff05211-bcd3-48ee-8730-6f27ee37d27f
 Commons_category: National libraries
+dv_has_:
+  name_:
+    af: Nasionale biblioteek
+    ar: مكتبة وطنية
+    az: milli kitabxana
+    ba: милли китапхана
+    be: Нацыянальная бібліятэка
+    be-tarask: нацыянальная бібліятэка
+    bg: Национална библиотека
+    bn: জাতীয় গ্রন্থাগার
+    bs: Nacionalna biblioteka
+    ca: biblioteca nacional
+    cs: národní knihovna
+    cy: llyfrgell genedlaethol
+    da: nationalbibliotek
+    de: Nationalbibliothek
+    de-ch: Nationalbibliothek
+    el: εθνική βιβλιοθήκη
+    en: national library
+    en-ca: National library
+    en-gb: national library
+    eo: nacia biblioteko
+    es: biblioteca nacional
+    et: rahvusraamatukogu
+    eu: liburutegi nazional
+    fa: کتابخانه ملی
+    fi: kansalliskirjasto
+    fit: kansaliskirjasto
+    fr: bibliothèque nationale
+    ga: leabharlann náisiúnta
+    gl: biblioteca nacional
+    he: ספרייה לאומית
+    hr: nacionalna knjižnica
+    hsb: narodna biblioteka
+    hu: nemzeti könyvtár
+    hy: ազգային գրադարան
+    id: Perpustakaan nasional
+    ig: Óbá akwukwo goomenti etiti na-adi
+    io: Nacionala biblioteko
+    is: Þjóðbókasafn
+    it: biblioteca nazionale
+    ja: 国立図書館
+    ka: ეროვნული ბიბლიოთეკა
+    kk: Ұлттық Кітапхана
+    ko: 국립도서관
+    ku: pirtûkxaneya neteweyî
+    ku-latn: pirtûkxaneya neteweyî
+    la: Bibliotheca nationalis
+    lb: Nationalbibliothéik
+    lmo: biblioteca nazzional
+    lt: nacionalinė biblioteka
+    lv: nacionālā bibliotēka
+    mi: whare pukapuka matua
+    mk: национална библиотека
+    ms: perpustakaan negara
+    ms-arab: ڤرڤوستاکاءن نݢارا
+    nan: Kok-li̍p tô͘-su-koán
+    nb: nasjonalbibliotek
+    nds: Natschonalbibliotek
+    nl: nationale bibliotheek
+    nn: nasjonalbibliotek
+    oc: Bibliotèca nacionala
+    os: национ библиотекæ
+    pa: ਰਾਸ਼ਟਰੀ ਲਾਇਬ੍ਰੇਰੀ
+    pl: biblioteka narodowa
+    pnb: قومی کتب خانہ
+    ps: ملي کتابتون
+    pt: biblioteca nacional
+    pt-br: biblioteca nacional
+    ro: biblioteca națională
+    ru: национальная библиотека
+    scn: bibbliuteca nazziunali
+    sco: naitional librar
+    se: riikkagirjerádju
+    sh: nacionalna biblioteka
+    si: ජාතික පුස්තකාලය
+    sl: nacionalna knjižnica
+    sma: nasjonaale gærjagåetie
+    smj: rijkalasjgirjjevuorkká
+    smn: aalmuglâškirjerááju
+    sms: meersažǩeʹrjjpõrtt
+    sq: Biblioteka kombëtare
+    sr: национална библиотека
+    sr-ec: национална библиотека
+    sr-el: nacionalna biblioteka
+    sv: nationalbibliotek
+    ta: தேசிய நூலகம்
+    tr: millî kütüphane
+    tt: милли китапханә
+    tt-cyrl: милли китапханә
+    uk: національна бібліотека
+    ur: قومی کتب خانہ
+    uz: Milliy kutubxona
+    vi: thư viện quốc gia
+    yue: 國家圖書館
+    zh: 國家圖書館
+    zh-cn: 国家图书馆
+    zh-hans: 国家图书馆
+    zh-hant: 國家圖書館
+    zh-hk: 國家圖書館
+    zh-mo: 國家圖書館
+    zh-my: 国家图书馆
+    zh-sg: 国家图书馆
+    zh-tw: 國家圖書館
 ---
-
 # [[National_Library]] 
 
 #is_/same_as :: [[WD~National_library,22806]] 

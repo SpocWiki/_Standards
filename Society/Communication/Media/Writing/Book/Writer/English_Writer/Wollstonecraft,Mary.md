@@ -1,8 +1,183 @@
 ---
 aliases:
-  - Mary Wollstonecraft
-  - Wollstonecraft,Mary
+- Maria Wollstonecraft
+- Mary Wollstonecraft
+- Mary Wollstonecraftová
+- Meri Uolstonkraft
+- Meri Vulstonkraft
+- Mérï Wolstonkraft
+- Mērija Volstonkrafta
+- Wollstonecraft,Mary
+- Μαίρη Γουόλστονκραφτ
+- Мері Волстонкрафт
+- Мери Волстонкрафт
+- Мери Вулстонкрафт
+- Мери Уолстънкрафт
+- Мэри Уолстонкрафт
+- Мэри Уолстоункрафт
+- Мэры Ўолстанкрафт
+- Мэры Уолстанкрафт
+- Մերի Ուոլսթոնքրաֆթ
+- מרי וולסטונקראפט
+- مارى وولستونكرافت
+- ماري وولستونكرافت
+- ماری وۆللستۆنەجرافت
+- ماری ویلستۆنکرافت
+- مری ولستون کرافت
+- مری ولستونکرافت
+- میری وولسٹن کرافٹ
+- میری وولسٹونکرافٹ
+- مېري ولسټونکرافټ
+- مەرىي ۋولستونكرافت
+- मेरी वुलस्टोनक्राफ़्ट
+- मेरी वुलस्टोनक्राफ्ट
+- मेरी वोल्स्टनक्राफ्ट
+- मैरी वूल्स्टनक्राफ्ट
+- मैरी वोल्स्टोन्क्राफ्ट शेली
+- म्यारी वुलस्टोनक्राफ्ट
+- ম্যারি ওলস্টোনক্র্যাফ্ট
+- ਮੇਰੀ ਵੁਲਸਟਨਕਰਾਫ਼ਟ
+- ମେରୀ ଓଲସ୍ଟୋନକ୍ରାଫ୍ଟ
+- மேரி உல்சுடன்கிராஃப்ட்
+- ಗಾಡ್ವಿನ್, ಮೇರಿ
+- മേരി വോൾസ്റ്റൊൺക്രാഫ്റ്റ്
+- แมรี โวลสโตนคราฟต์
+- მერი უოლსტონკრაფტი
+- მერი უოლსტოუნკრაფტი
+- メアリ・ウルストンクラフト
+- 玛丽·沃斯通克拉夫特
+- 瑪莉·吳爾史東克拉芙特
+- 瑪莉·禾絲東妮卡芙特
+- 瑪麗胡史東克夫特
+- 메리 울스턴크래프트
 has_id_wikidata: Q101638
+dv_has_:
+  name_:
+    af: Mary Wollstonecraft
+    anp: मेरी वुलस्टोनक्राफ़्ट
+    ar: ماري وولستونكرافت
+    arz: مارى وولستونكرافت
+    ast: Mary Wollstonecraft
+    avk: Mary Wollstonecraft
+    awa: म्यारी वुलस्टोनक्राफ्ट
+    az: Meri Uolstonkraft
+    azb: مری ولستونکرافت
+    bcl: Mary Wollstonecraft
+    be: Мэры Уолстанкрафт
+    be-tarask: Мэры Ўолстанкрафт
+    bg: Мери Уолстънкрафт
+    bho: मैरी वूल्स्टनक्राफ्ट
+    bn: ম্যারি ওলস্টোনক্র্যাফ্ট
+    br: Mary Wollstonecraft
+    bs: Mary Wollstonecraft
+    ca: Mary Wollstonecraft
+    ckb: ماری ویلستۆنکرافت
+    cs: Mary Wollstonecraftová
+    cy: Mary Wollstonecraft
+    da: Mary Wollstonecraft
+    de: Mary Wollstonecraft
+    de-ch: Mary Wollstonecraft
+    el: Μαίρη Γουόλστονκραφτ
+    en: Mary Wollstonecraft
+    en-ca: Mary Wollstonecraft
+    en-gb: Mary Wollstonecraft
+    eo: Mary Wollstonecraft
+    es: Mary Wollstonecraft
+    et: Mary Wollstonecraft
+    eu: Mary Wollstonecraft
+    ext: Mary Wollstonecraft
+    fa: مری ولستونکرافت
+    fi: Mary Wollstonecraft
+    fo: Mary Wollstonecraft
+    fr: Mary Wollstonecraft
+    ga: Mary Wollstonecraft
+    gl: Mary Wollstonecraft
+    he: מרי וולסטונקראפט
+    hi: मेरी वुलस्टोनक्राफ़्ट
+    hr: Mary Wollstonecraft
+    hu: Mary Wollstonecraft
+    hy: Մերի Ուոլսթոնքրաֆթ
+    ia: Mary Wollstonecraft
+    id: Mary Wollstonecraft
+    ie: Mary Wollstonecraft
+    ig: Mary Wollstonecraft
+    io: Mary Wollstonecraft
+    is: Mary Wollstonecraft
+    it: Mary Wollstonecraft
+    ja: メアリ・ウルストンクラフト
+    jv: Mary Wollstonecraft
+    ka: მერი უოლსტონკრაფტი
+    kk: Мэри Уолстонкрафт
+    kk-arab: مەرىي ۋولستونكرافت
+    kk-cn: مەرىي ۋولستونكرافت
+    kk-cyrl: Мэри Уолстонкрафт
+    kk-kz: Мэри Уолстонкрафт
+    kk-latn: Mérï Wolstonkraft
+    kk-tr: Mérï Wolstonkraft
+    kn: ಗಾಡ್ವಿನ್, ಮೇರಿ
+    ko: 메리 울스턴크래프트
+    ku: Mary Wollstonecraft
+    ku-arab: ماری وۆللستۆنەجرافت
+    ku-latn: Mary Wollstonecraft
+    la: Maria Wollstonecraft
+    lt: Mary Wollstonecraft
+    lv: Mērija Volstonkrafta
+    mai: म्यारी वुलस्टोनक्राफ्ट
+    mg: Mary Wollstonecraft
+    mk: Мери Волстонкрафт
+    ml: മേരി വോൾസ്റ്റൊൺക്രാഫ്റ്റ്
+    mn: Мэри Уолстоункрафт
+    mr: मेरी वोल्स्टनक्राफ्ट
+    ms: Mary Wollstonecraft
+    mul: Mary Wollstonecraft
+    mzn: مری ولستون کرافت
+    nan: Mary Wollstonecraft
+    nb: Mary Wollstonecraft
+    nds: Mary Wollstonecraft
+    new: मेरी वुलस्टोनक्राफ्ट
+    nl: Mary Wollstonecraft
+    nn: Mary Wollstonecraft
+    oc: Mary Wollstonecraft
+    or: ମେରୀ ଓଲସ୍ଟୋନକ୍ରାଫ୍ଟ
+    pa: ਮੇਰੀ ਵੁਲਸਟਨਕਰਾਫ਼ਟ
+    pl: Mary Wollstonecraft
+    pnb: میری وولسٹونکرافٹ
+    ps: مېري ولسټونکرافټ
+    pt: Mary Wollstonecraft
+    pt-br: Mary Wollstonecraft
+    ro: Mary Wollstonecraft
+    ru: Мэри Уолстонкрафт
+    sa: मैरी वोल्स्टोन्क्राफ्ट शेली
+    scn: Mary Wollstonecraft
+    sco: Mary Wollstonecraft
+    sh: Mary Wollstonecraft
+    sk: Mary Wollstonecraftová
+    skr: میری وولسٹن کرافٹ
+    sl: Mary Wollstonecraft
+    sq: Mary Wollstonecraft
+    sr: Мери Вулстонкрафт
+    sr-ec: Мери Вулстонкрафт
+    sr-el: Meri Vulstonkraft
+    sv: Mary Wollstonecraft
+    ta: மேரி உல்சுடன்கிராஃப்ட்
+    th: แมรี โวลสโตนคราฟต์
+    tl: Mary Wollstonecraft
+    tr: Mary Wollstonecraft
+    uk: Мері Волстонкрафт
+    ur: میری وولسٹن کرافٹ
+    uz: Meri Uolstonkraft
+    vi: Mary Wollstonecraft
+    war: Mary Wollstonecraft
+    wuu: 玛丽·沃斯通克拉夫特
+    xmf: მერი უოლსტოუნკრაფტი
+    yue: 瑪麗胡史東克夫特
+    zh: 玛丽·沃斯通克拉夫特
+    zh-cn: 玛丽·沃斯通克拉夫特
+    zh-hans: 玛丽·沃斯通克拉夫特
+    zh-hant: 瑪莉·吳爾史東克拉芙特
+    zh-hk: 瑪莉·禾絲東妮卡芙特
+    zh-sg: 玛丽·沃斯通克拉夫特
+    zh-tw: 瑪莉·吳爾史東克拉芙特
 ---
 # [[Wollstonecraft,Mary]] 
 

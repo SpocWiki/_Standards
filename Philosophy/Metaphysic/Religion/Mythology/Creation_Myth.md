@@ -1,32 +1,169 @@
 ---
 aliases:
-  - Schöpfungsmythos
-  - Creation_Myth
-  - Creation Myth
+- Akụkọ ifo e kere eke
+- Alamat ng paglikha
+- chwedlau am y creu
+- Creacion
+- Creació
+- Creatio
+- Creation Myth
+- Creation_Myth
+- creazione
+- Creaziun
+- Eb mi imin memak ean imim
+- Famoronana (finoana sy fedrà)
+- frumsceaftspel
+- kosmogoninis mitas
+- kozmogonik mit
+- Kreala mito
+- Krijimi
+- Loomismüüdid
+- luomiskertomukset
+- mit o stvarjenju
+- Mito da creación
+- mito de criação
+- mito de la creación
+- Mito han Paghimo
+- mito pri kreado
+- Mitos penciptaan
+- Mitovi o stvaranju
+- Mitu de la creación
+- mitul creației
+- Munduaren sorrera (mitoa)
+- mythe de création de l'univers
+- schepping
+- Schöpfungsmythos
+- skabelsesmyte
+- skapelseberättelse
+- skapelsesmyte
+- Skapingsmyte
+- Skeppingsmite
+- stvoření světa
+- Stworzenie świata
+- teremtéstörténet
+- thần thoại sáng thế
+- Uumbaji
+- Yayguçı
+- Μύθος της δημιουργίας
+- мит за настанок
+- мит о стварању
+- сотворение мира
+- стварэньне Сусьвету
+- Створення
+- Сътворение на света
+- Устураи офариниш
+- Әлемнің пайда болуы
+- աշխարհի արարում
+- בריאת העולם
+- أسطورة الخلق
+- اسطورههای آفرینش
+- सृजन मिथक
+- সৃষ্টিপুরাণ
+- ਸ੍ਰਿਸ਼ਟੀ ਰਚਨਾ ਮਿਥਿਹਾਸ
+- படைப்புத் தொன்மம்
+- მითები სამყაროს შექმნის შესახებ
+- 创世神话
+- 創世神話
+- 創造神話
+- 창조 신화
 has_id_wikidata: Q215304
 facet_of:
-  - '[[_Standards/WikiData/WD~cosmogony,170835]]'
-  - '[[_Standards/WikiData/WD~creation,3352472]]'
-  - '[[_Standards/WikiData/WD~Abiogenesis,9050360]]'
+- '[[_Standards/WikiData/WD~cosmogony,170835]]'
+- '[[_Standards/WikiData/WD~creation,3352472]]'
+- '[[_Standards/WikiData/WD~Abiogenesis,9050360]]'
 subclass_of: '[[_Standards/WikiData/WD~myth_of_origins,390248]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~origin_of_language,501032]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_list: '[[_Standards/WikiData/WD~list_of_creation_myths,6614537]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~cosmogonical_myth,23044081]]'
-  - '[[_Standards/WikiData/WD~Q31081156,31081156]]'
+- '[[_Standards/WikiData/WD~cosmogonical_myth,23044081]]'
+- '[[_Standards/WikiData/WD~Q31081156,31081156]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
 Dewey_Decimal_Classification: 213
 Iconclass_notation: 91
 Library_of_Congress_Classification: BL325.C7
 Commons_category: Creation
 Provenio_UUID: d7a6f1bb-08aa-472d-890e-c604ed8f3f81
+dv_has_:
+  name_:
+    af: Skeppingsmite
+    ang: frumsceaftspel
+    ar: أسطورة الخلق
+    ast: Mitu de la creación
+    az: Yayguçı
+    be-tarask: стварэньне Сусьвету
+    bg: Сътворение на света
+    bn: সৃষ্টিপুরাণ
+    ca: Creació
+    cs: stvoření světa
+    cy: chwedlau am y creu
+    da: skabelsesmyte
+    de: Schöpfungsmythos
+    el: Μύθος της δημιουργίας
+    en: creation myth
+    eo: mito pri kreado
+    es: mito de la creación
+    et: Loomismüüdid
+    eu: Munduaren sorrera (mitoa)
+    fa: اسطورههای آفرینش
+    fi: luomiskertomukset
+    fr: mythe de création de l'univers
+    gl: Mito da creación
+    he: בריאת העולם
+    hi: सृजन मिथक
+    hr: Mitovi o stvaranju
+    hu: teremtéstörténet
+    hy: աշխարհի արարում
+    id: Mitos penciptaan
+    ig: Akụkọ ifo e kere eke
+    io: Kreala mito
+    it: creazione
+    ja: 創造神話
+    ka: მითები სამყაროს შექმნის შესახებ
+    kk: Әлемнің пайда болуы
+    ko: 창조 신화
+    la: Creatio
+    lt: kosmogoninis mitas
+    mg: Famoronana (finoana sy fedrà)
+    mk: мит за настанок
+    ms: Mitos penciptaan
+    na: Eb mi imin memak ean imim
+    nb: skapelsesmyte
+    nl: schepping
+    nn: Skapingsmyte
+    oc: Creacion
+    pa: ਸ੍ਰਿਸ਼ਟੀ ਰਚਨਾ ਮਿਥਿਹਾਸ
+    pl: Stworzenie świata
+    pt: mito de criação
+    rm: Creaziun
+    ro: mitul creației
+    ru: сотворение мира
+    sh: Mitovi o stvaranju
+    sl: mit o stvarjenju
+    sq: Krijimi
+    sr: мит о стварању
+    sv: skapelseberättelse
+    sw: Uumbaji
+    ta: படைப்புத் தொன்மம்
+    tg: Устураи офариниш
+    tl: Alamat ng paglikha
+    tr: kozmogonik mit
+    uk: Створення
+    vi: thần thoại sáng thế
+    war: Mito han Paghimo
+    yue: 創世神話
+    zh: 創世神話
+    zh-cn: 创世神话
+    zh-hans: 创世神话
+    zh-hant: 創世神話
+    zh-hk: 創世神話
+    zh-sg: 创世神话
+    zh-tw: 創世神話
 ---
-
 # [[Creation_Myth]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Creation_myth,215304|WD~Creation_myth,215304]] 

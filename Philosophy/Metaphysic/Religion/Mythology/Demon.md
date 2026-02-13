@@ -1,56 +1,215 @@
 ---
 aliases:
+- Amajaajjii
+- arc'houere
+- awihawic
+- daemon
+- Deabruak
+- deamhan
+- Deemon
+- Demo
+- demon
+- demonas
+- demone
+- demoni
+- demonio
+- Demoniu
+- demono
+- Demony
+- Demonyo
+- Demòni
+- demónio
+- demônio
+- dimoni
+- Dimoniu
+- Dimunyu
+- Djöfull
+- Dymůn
+- Dämon
+- dæmon
+- démon
+- dēmons
+- fúlnà
+- iblis
+- Kpilikpariga
+- quỷ
+- Tzitzimītl
+- δαίμονας
+- Дев
+- демон
+- дэман
+- Жын
+- йилбаз
+- դև
+- שד
+- دمون
+- ديمون
+- دیمن
+- ڈیمن
+- ډیمون (شیطان)
+- ڊيمن
+- दानव
+- ഭൂതം
+- පිසාචයෝ
+- ปิศาจ
+- დემონი
+- ጋኔን
+- អារក្ស
+- 悪霊
+- 邪灵
+- 邪靈
+- 악령
 has_id_wikidata: Q177413
 facet_of:
-  - "[[_Standards/WikiData/WD~supernatural,80837]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-  - "[[_Standards/WikiData/WD~mythology,9134]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~folklore,36192]]"
-part_of: "[[_Standards/WikiData/WD~occultism,178934]]"
+- '[[_Standards/WikiData/WD~supernatural,80837]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~mythology,9134]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~folklore,36192]]'
+part_of: '[[_Standards/WikiData/WD~occultism,178934]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~spirit,193291]]"
-  - "[[_Standards/WikiData/WD~fallen_angel,581450]]"
-  - "[[_Standards/WikiData/WD~mythical_creature,2239243]]"
-  - "[[_Standards/WikiData/WD~mythical_character,4271324]]"
-  - "[[_Standards/WikiData/WD~supernatural_being,28855038]]"
-opposite_of: "[[_Standards/WikiData/WD~angel,235113]]"
-studied_by: "[[_Standards/WikiData/WD~demonology,323996]]"
+- '[[_Standards/WikiData/WD~spirit,193291]]'
+- '[[_Standards/WikiData/WD~fallen_angel,581450]]'
+- '[[_Standards/WikiData/WD~mythical_creature,2239243]]'
+- '[[_Standards/WikiData/WD~mythical_character,4271324]]'
+- '[[_Standards/WikiData/WD~supernatural_being,28855038]]'
+opposite_of: '[[_Standards/WikiData/WD~angel,235113]]'
+studied_by: '[[_Standards/WikiData/WD~demonology,323996]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~genius,654361]]"
-  - "[[_Standards/WikiData/WD~mazoku,838412]]"
-  - "[[_Standards/WikiData/WD~div_(mythology),1157107]]"
-  - "[[_Standards/WikiData/WD~bies,2509384]]"
-  - "[[_Standards/WikiData/WD~akuma,2829166]]"
-  - "[[_Standards/WikiData/WD~supernatural_beings_in_Slavic_folklore,4318321]]"
-  - "[[_Standards/WikiData/WD~sprite,20828805]]"
-  - "[[_Standards/WikiData/WD~jinn,3465]]"
-  - "[[_Standards/WikiData/WD~devil,6674]]"
+- '[[_Standards/WikiData/WD~genius,654361]]'
+- '[[_Standards/WikiData/WD~mazoku,838412]]'
+- '[[_Standards/WikiData/WD~div_(mythology),1157107]]'
+- '[[_Standards/WikiData/WD~bies,2509384]]'
+- '[[_Standards/WikiData/WD~akuma,2829166]]'
+- '[[_Standards/WikiData/WD~supernatural_beings_in_Slavic_folklore,4318321]]'
+- '[[_Standards/WikiData/WD~sprite,20828805]]'
+- '[[_Standards/WikiData/WD~jinn,3465]]'
+- '[[_Standards/WikiData/WD~devil,6674]]'
 different_from:
-  - "[[_Standards/WikiData/WD~daemon,1157625]]"
-  - "[[_Standards/WikiData/WD~Demon,3022207]]"
-  - "[[_Standards/WikiData/WD~fictional_demon,34315358]]"
-has_effect: "[[_Standards/WikiData/WD~spirit_possession,1782082]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~supernatural_beings_in_Slavic_folklore,4318321]]"
-instance_of: "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
-has_characteristic: "[[_Standards/WikiData/WD~evil,15292]]"
+- '[[_Standards/WikiData/WD~daemon,1157625]]'
+- '[[_Standards/WikiData/WD~Demon,3022207]]'
+- '[[_Standards/WikiData/WD~fictional_demon,34315358]]'
+has_effect: '[[_Standards/WikiData/WD~spirit_possession,1782082]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~supernatural_beings_in_Slavic_folklore,4318321]]'
+instance_of: '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+has_characteristic: '[[_Standards/WikiData/WD~evil,15292]]'
 IMDb_keyword: demon
 Commons_category: Demons
-OmegaWiki_Defined_Meaning: "915102"
+OmegaWiki_Defined_Meaning: 915102
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schongauer%20Anthony.jpg
 Provenio_UUID: 6cbd8be3-3284-4cbb-ae0b-c5f83d4691aa
+dv_has_:
+  name_:
+    am: ጋኔን
+    ar: ديمون
+    ast: Demoniu
+    atj: awihawic
+    az: Demon
+    bcl: Demonyo
+    be: дэман
+    be-tarask: дэман
+    bg: Демон
+    br: arc'houere
+    bs: Demon
+    ca: dimoni
+    ce: йилбаз
+    ckb: دیمن
+    cs: démon
+    da: dæmon
+    dag: Kpilikpariga
+    de: Dämon
+    el: δαίμονας
+    en: demon
+    eo: demono
+    es: demonio
+    et: Deemon
+    eu: Deabruak
+    fa: دمون
+    fi: demoni
+    fr: démon
+    fy: Demon
+    ga: deamhan
+    gl: Demo
+    he: שד
+    hr: Demon
+    ht: demon
+    hu: démon
+    hy: դև
+    id: iblis
+    io: Demono
+    is: Djöfull
+    it: demone
+    ja: 悪霊
+    jv: Démon
+    ka: დემონი
+    kk: Жын
+    km: អារក្ស
+    ko: 악령
+    ky: Демон
+    la: daemon
+    lt: demonas
+    lv: dēmons
+    mcn: fúlnà
+    mdf: Демон
+    mg: Demony
+    mk: демон
+    ml: ഭൂതം
+    mr: दानव
+    ms: Demon
+    nah: Tzitzimītl
+    nb: demon
+    nl: demon
+    nn: demon
+    oc: Demòni
+    om: Amajaajjii
+    pl: demon
+    ps: ډیمون (شیطان)
+    pt: demónio
+    pt-br: demônio
+    ro: Demon
+    ru: демон
+    scn: Dimoniu
+    sd: ڊيمن
+    sh: demon
+    si: පිසාචයෝ
+    sk: Démon
+    sl: demon
+    sq: Demoni
+    sr: демон
+    sr-ec: демон
+    sr-el: demon
+    sv: demon
+    szl: Dymůn
+    tg: Дев
+    th: ปิศาจ
+    tl: demonyo
+    tr: demon
+    uk: демон
+    ur: ڈیمن
+    uz: Demon
+    vi: quỷ
+    war: Dimunyu
+    wuu: 邪灵
+    xmf: დემონი
+    yue: 邪靈
+    zh: 邪靈
+    zh-cn: 邪灵
+    zh-hans: 邪灵
+    zh-hant: 邪靈
+    zh-hk: 邪靈
+    zh-sg: 邪灵
+    zh-tw: 邪靈
 ---
-
 # [[Demon]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Demon,177413|WD~Demon,177413]] 

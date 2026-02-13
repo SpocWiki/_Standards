@@ -1,9 +1,55 @@
 ---
 aliases:
-  - Ones Who walk away from Omelas
-  - Ones_who_walk_away_from_Omelas
-  - Ones who walk away from Omelas
+- Akik elhagyják Omelast
+- Cei care pleacă din Omelas
+- Ceux qui partent d'Omelas
+- Ci, którzy odchodzą z Omelas
+- Die Omelas den Rücken kehren
+- Los que se alejan de Omelas
+- Omelas'ı Bırakıp Gidenler
+- Ones Who walk away from Omelas
+- Ones_who_walk_away_from_Omelas
+- Oni što napuštaju Omelas
+- Oni što odlaze iz Omelasa
+- Quelli che si allontanano da Omelas
+- The Ones Who Walk Away from Omelas
+- Tiuj, kiuj foriras de Omelas
+- Ті, хто покидають Омелас
+- Уходящие из Омеласа
+- Օմելասից հեռացողները
+- ההופכים את עורפם לאומלאס
+- السائرون بعيدا عن أوميلاس
+- کسانی که از خیر املاس گذشتند
+- オメラスから歩み去る人々
+- 離開奧美拉城的人
+- 오멜라스를 떠나는 사람들
 has_id_wikidata: Q7755107
+dv_has_:
+  name_:
+    ar: السائرون بعيدا عن أوميلاس
+    ast: The Ones Who Walk Away from Omelas
+    de: Die Omelas den Rücken kehren
+    en: The Ones Who Walk Away from Omelas
+    eo: Tiuj, kiuj foriras de Omelas
+    es: Los que se alejan de Omelas
+    fa: کسانی که از خیر املاس گذشتند
+    fr: Ceux qui partent d'Omelas
+    ga: The Ones Who Walk Away from Omelas
+    he: ההופכים את עורפם לאומלאס
+    hr: Oni što napuštaju Omelas
+    hu: Akik elhagyják Omelast
+    hy: Օմելասից հեռացողները
+    it: Quelli che si allontanano da Omelas
+    ja: オメラスから歩み去る人々
+    ko: 오멜라스를 떠나는 사람들
+    pl: Ci, którzy odchodzą z Omelas
+    pt: The Ones Who Walk Away from Omelas
+    ro: Cei care pleacă din Omelas
+    ru: Уходящие из Омеласа
+    sr-el: Oni što odlaze iz Omelasa
+    tr: Omelas'ı Bırakıp Gidenler
+    uk: Ті, хто покидають Омелас
+    zh: 離開奧美拉城的人
 ---
 #has_/creator :: [[Le_Guin,Ursula_K.]] 
 

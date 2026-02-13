@@ -1,60 +1,91 @@
 ---
 aliases:
-  - Michel_Platini
-  - Michel François Platini
-  - Michel Platini
-  - Platini
-  - Platini,Michel
+- Michael Platini
+- Michel François Platini
+- Michel Platini
+- Michel_Platini
+- Mişel Platini
+- Mišel Platini
+- Mišels Platinī
+- Platini
+- Platini,Michel
+- Μισέλ Πλατινί
+- Мішель Платіні
+- Мішэль Плаціні
+- Мішэль Плятыні
+- Мишел Платини
+- Мишель Платини
+- Միշել Պլատինի
+- מישל פלאטיני
+- ميشيل بلاتينى
+- ميشيل بلاتيني
+- میشل پلاتینی
+- میشێل پلاتینی
+- މިޝޭލް ޕްލެޓިނީ
+- मिचेल प्लाटिनी
+- मिशेल प्लाटिनी
+- মিশেল প্লাতিনি
+- ਮਿਸ਼ੇਲ ਪਲੈਟਿਨੀ
+- மிச்செல் பிளாட்டினி
+- മിഷേൽ പ്ലാറ്റിനി
+- มีแชล ปลาตีนี
+- မိရှဲ ပလတ်တီးနီ
+- მიშელ პლატინი
+- ミシェル・プラティニ
+- 柏天尼
+- 米歇尔·普拉蒂尼
+- 米高·柏天尼
+- 미셸 플라티니
 has_id_wikidata: Q4261
 Munzinger_Sport_number: 01000000343
 Europeana_entity: agent/base/173954
 birth_name: Michel François Platini
 name_in_native_language: Michel Platini
 award_received:
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~Shohrat_Order,2032408]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Badge_of_Honour,2085270]]'
-  - '[[_Standards/WikiData/WD~Premio_internazionale_Giacinto_Facchetti,3910530]]'
-  - '[[_Standards/WikiData/WD~Order_of_Honour,4335950]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_National_Order_of_Merit,13422140]]'
-  - '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Shohrat_Order,2032408]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Badge_of_Honour,2085270]]'
+- '[[_Standards/WikiData/WD~Premio_internazionale_Giacinto_Facchetti,3910530]]'
+- '[[_Standards/WikiData/WD~Order_of_Honour,4335950]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_National_Order_of_Merit,13422140]]'
+- '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,_1st_class,29017353]]'
 position_played_on_team_speciality: '[[_Standards/WikiData/WD~midfielder,193592]]'
 place_of_birth: '[[_Standards/WikiData/WD~Jœuf,453411]]'
 different_from: '[[_Standards/WikiData/WD~Michel_Platini_Mesquita,495800]]'
 occupation:
-  - '[[_Standards/WikiData/WD~association_football_manager,628099]]'
-  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
-  - '[[_Standards/WikiData/WD~sports_official,15986539]]'
+- '[[_Standards/WikiData/WD~association_football_manager,628099]]'
+- '[[_Standards/WikiData/WD~association_football_player,937857]]'
+- '[[_Standards/WikiData/WD~sports_official,15986539]]'
 position_held: '[[_Standards/WikiData/WD~president,1255921]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]'
-  - '[[_Standards/WikiData/WD~France_national_amateur_football_team,3590023]]'
-  - '[[_Standards/WikiData/WD~France_Olympic_football_team,3590215]]'
-  - '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
-  - '[[_Standards/WikiData/WD~A.S._Nancy_Lorraine,19523]]'
-  - '[[_Standards/WikiData/WD~AS_Saint_Étienne,19521]]'
-  - "[[_Standards/WikiData/WD~France_men's_national_association_football_team,47774]]"
+- '[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]'
+- '[[_Standards/WikiData/WD~France_national_amateur_football_team,3590023]]'
+- '[[_Standards/WikiData/WD~France_Olympic_football_team,3590215]]'
+- '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
+- '[[_Standards/WikiData/WD~A.S._Nancy_Lorraine,19523]]'
+- '[[_Standards/WikiData/WD~AS_Saint_Étienne,19521]]'
+- "[[_Standards/WikiData/WD~France_men's_national_association_football_team,47774]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Michel,14626626]]'
 described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
 significant_event: '[[_Standards/WikiData/WD~Panama_Papers,23702848]]'
 father: '[[_Standards/WikiData/WD~Aldo_Platini,45557295]]'
 child:
-  - '[[_Standards/WikiData/WD~Laurent_Platini,55332442]]'
-  - '[[_Standards/WikiData/WD~Marine_Platini,55332457]]'
+- '[[_Standards/WikiData/WD~Laurent_Platini,55332442]]'
+- '[[_Standards/WikiData/WD~Marine_Platini,55332457]]'
 family_name: '[[_Standards/WikiData/WD~Platini,61380300]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career:
-  - 0
-  - 1
+- 0
+- 1
 country_for_sport: '[[_Standards/WikiData/WD~France,142]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 native_language: '[[_Standards/WikiData/WD~French,150]]'
@@ -69,8 +100,117 @@ date_of_birth: 1955-06-21T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Platini%202010%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20de%20Michel%20Platini%20-%20Archives%20nationales%20%28France%29.png
 ISNI: 0000000110300013
+dv_has_:
+  name_:
+    an: Michel Platini
+    ar: ميشيل بلاتيني
+    arz: ميشيل بلاتينى
+    ast: Michel Platini
+    ay: Michel Platini
+    az: Mişel Platini
+    azb: میشل پلاتینی
+    ba: Мишель Платини
+    ban: Michel Platini
+    be: Мішэль Плаціні
+    be-tarask: Мішэль Плятыні
+    bg: Мишел Платини
+    bn: মিশেল প্লাতিনি
+    br: Michel Platini
+    bs: Michel Platini
+    ca: Michel François Platini
+    ckb: میشێل پلاتینی
+    cs: Michel Platini
+    cy: Michel Platini
+    da: Michel Platini
+    dag: Michel Platini
+    de: Michel Platini
+    de-ch: Michel Platini
+    dv: މިޝޭލް ޕްލެޓިނީ
+    el: Μισέλ Πλατινί
+    en: Michel Platini
+    en-ca: Michel Platini
+    en-gb: Michel Platini
+    eo: Michel Platini
+    es: Michel Platini
+    et: Michel Platini
+    eu: Michel Platini
+    ext: Michel Platini
+    fa: میشل پلاتینی
+    fi: Michel Platini
+    fo: Michel Platini
+    fr: Michel Platini
+    ga: Michel Platini
+    gl: Michel Platini
+    ha: Michel Platini
+    he: מישל פלאטיני
+    hr: Michel Platini
+    ht: Michael Platini
+    hu: Michel Platini
+    hy: Միշել Պլատինի
+    id: Michel Platini
+    io: Michel Platini
+    is: Michel Platini
+    it: Michel Platini
+    ja: ミシェル・プラティニ
+    jv: Michel Platini
+    ka: მიშელ პლატინი
+    kab: Michel Platini
+    kk: Мишел Платини
+    ko: 미셸 플라티니
+    la: Michael Platini
+    lb: Michel Platini
+    lez: Мишель Платини
+    lt: Michel Platini
+    lv: Mišels Platinī
+    mg: Michel Platini
+    mk: Мишел Платини
+    ml: മിഷേൽ പ്ലാറ്റിനി
+    mn: Мишель Платини
+    mos: Michel Platini
+    mr: मिशेल प्लाटिनी
+    ms: Michel Platini
+    mul: Michel Platini
+    my: မိရှဲ ပလတ်တီးနီ
+    nb: Michel Platini
+    ne: मिचेल प्लाटिनी
+    nl: Michel Platini
+    nn: Michel Platini
+    oc: Michel Platini
+    pa: ਮਿਸ਼ੇਲ ਪਲੈਟਿਨੀ
+    pap: Michel Platini
+    pl: Michel Platini
+    pt: Michel Platini
+    pt-br: Michel Platini
+    qu: Michel Platini
+    ro: Michel Platini
+    ru: Мишель Платини
+    sc: Michel Platini
+    sco: Michel Platini
+    sh: Michel Platini
+    sk: Michel Platini
+    sl: Michel Platini
+    sq: Michel Platini
+    sr: Мишел Платини
+    sv: Michel Platini
+    sw: Michel Platini
+    ta: மிச்செல் பிளாட்டினி
+    th: มีแชล ปลาตีนี
+    tly: Mišel Platini
+    tr: Michel Platini
+    uk: Мішель Платіні
+    uz: Michel Platini
+    vec: Michel Platini
+    vi: Michel Platini
+    vls: Michel Platini
+    wuu: 米歇尔·普拉蒂尼
+    yo: Michel Platini
+    yue: 柏天尼
+    zh: 米歇尔·普拉蒂尼
+    zh-cn: 米歇尔·普拉蒂尼
+    zh-hans: 米歇尔·普拉蒂尼
+    zh-hant: 米歇尔·普拉蒂尼
+    zh-hk: 米高·柏天尼
 ---
-
 # [[Platini,Michel]] 
 
 #is_/same_as :: [[WD~Michel_Platini,4261]] 

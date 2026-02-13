@@ -1,60 +1,347 @@
 ---
 aliases:
-  - Violine
-  - Violin
+- avyiulii
+- biol
+- biola
+- biolin
+- biula
+- biyolin
+- biyulin
+- chhiú-khîm
+- ffidil
+- fidla
+- fijool
+- fijuvla
+- Fioele
+- fiol
+- Fiolene
+- fiolijne
+- fiolijnna
+- fiolin
+- fioul
+- fiyoolɔɣ
+- fiðla
+- Fjoeal
+- Fjoole
+- fìdheallan
+- Gei
+- goge
+- Gyyge
+- hegedű
+- housle
+- husle
+- keman
+- kemane
+- lokanga
+- piul
+- piyul
+- ravel
+- skripk
+- skripka
+- skripītis
+- skrzypce
+- skrzëpice
+- smuikas
+- séu-thì-khìm
+- veidhlín
+- Vigelien
+- viiol
+- viiul
+- vijole
+- vioară
+- Viole
+- Violin
+- violina
+- Violine
+- violino
+- violon
+- violono
+- violí
+- violín
+- viool
+- viołin
+- viulin
+- viulu
+- vivlu
+- vjolin
+- vriolín
+- vĩ cầm
+- wiyulin
+- βιολί
+- виолина
+- гуслї
+- сĕрме купăс
+- скрипка
+- скрипке
+- скрыпка
+- скърипкæ
+- хийл
+- цигулка
+- ջութակ
+- כינור
+- פידל
+- ئىسكىرىپكا
+- بیلا
+- كمان
+- كمانجة
+- كمنجه
+- وائلن
+- ویالون
+- ویولن
+- ویولون
+- ڤایۆلین
+- बेला
+- वायलिन
+- व्हायोलिन
+- বেহালা
+- বেহেলা
+- ਵਾਇਲਿਨ
+- ଭାଓଲିନ
+- வயலின்
+- వయొలిన్
+- ಪಿಟೀಲು
+- വയലിൻ
+- වයලීනය
+- ไวโอลิน
+- ཨོག་ལེན།
+- တယော
+- တြေႃး
+- ვიოლინო
+- ቫዮሊን
+- ᎠᏟᏰᏗ
+- វីយោឡុង
+- ヴァイオリン
+- 小提琴
+- 梵婀玲
+- 바이올린
 has_id_wikidata: Q8355
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl
 Amazon_com_browse_node: 11971521
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Whiskey-youre-the-devil-violin.ogg
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
 Baidu_Tieba_name: 小提琴
 Colon_Classification: NR;32
 Commons_category: Violins
 Commons_gallery: Violin
-connects_with: "[[_Standards/WikiData/WD~violin_bow,123982138]]"
+connects_with: '[[_Standards/WikiData/WD~violin_bow,123982138]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~viola,80284]]"
-  - "[[_Standards/WikiData/WD~Q13014533,13014533]]"
+- '[[_Standards/WikiData/WD~viola,80284]]'
+- '[[_Standards/WikiData/WD~Q13014533,13014533]]'
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04536866-n
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pegbox,254155]]"
-  - "[[_Standards/WikiData/WD~sound_box,660436]]"
-  - "[[_Standards/WikiData/WD~fretboard,745887]]"
-  - "[[_Standards/WikiData/WD~bridge,830869]]"
-  - "[[_Standards/WikiData/WD~tailpiece,896967]]"
-  - "[[_Standards/WikiData/WD~neck,944038]]"
-  - "[[_Standards/WikiData/WD~scroll,1116074]]"
-  - "[[_Standards/WikiData/WD~sound_board,1189953]]"
-  - "[[_Standards/WikiData/WD~fine_tuner,1402002]]"
-  - "[[_Standards/WikiData/WD~chinrest,1742233]]"
-  - "[[_Standards/WikiData/WD~f-hole,11200647]]"
+- '[[_Standards/WikiData/WD~pegbox,254155]]'
+- '[[_Standards/WikiData/WD~sound_box,660436]]'
+- '[[_Standards/WikiData/WD~fretboard,745887]]'
+- '[[_Standards/WikiData/WD~bridge,830869]]'
+- '[[_Standards/WikiData/WD~tailpiece,896967]]'
+- '[[_Standards/WikiData/WD~neck,944038]]'
+- '[[_Standards/WikiData/WD~scroll,1116074]]'
+- '[[_Standards/WikiData/WD~sound_board,1189953]]'
+- '[[_Standards/WikiData/WD~fine_tuner,1402002]]'
+- '[[_Standards/WikiData/WD~chinrest,1742233]]'
+- '[[_Standards/WikiData/WD~f-hole,11200647]]'
 Hornbostel_Sachs_classification: 321.322-71
 Iconclass_notation: 48C7311
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Violin%20VL100.png
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/SKRIPKA.html
-lowest_note: "[[_Standards/WikiData/WD~G3,96251665]]"
+lowest_note: '[[_Standards/WikiData/WD~G3,96251665]]'
 Nomenclature_for_Museum_Cataloging: 10790
 OmegaWiki_Defined_Meaning: 348995
-part_of: "[[_Standards/WikiData/WD~violin_family,1365097]]"
+part_of: '[[_Standards/WikiData/WD~violin_family,1365097]]'
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20violin.png
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~fiddle,510487]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~fiddle,510487]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Viool-article.ogg
-subclass_of: "[[_Standards/WikiData/WD~bowed_string_instrument,192096]]"
-Unicode_character: 🎻
-used_by: "[[_Standards/WikiData/WD~violinist,1259917]]"
+subclass_of: '[[_Standards/WikiData/WD~bowed_string_instrument,192096]]'
+Unicode_character: "\U0001F3BB"
+used_by: '[[_Standards/WikiData/WD~violinist,1259917]]'
 U_S_National_Archives_Identifier: 10645208
+dv_has_:
+  name_:
+    af: viool
+    am: ቫዮሊን
+    an: vriolín
+    ang: Fiolene
+    ann: violin
+    ar: كمان
+    ary: كمانجة
+    arz: كمنجه
+    as: বেহেলা
+    ast: violín
+    az: skripka
+    azb: ویولون
+    ba: скрипка
+    bdr: biula
+    be: скрыпка
+    be-tarask: скрыпка
+    bew: piul
+    bg: цигулка
+    bn: বেহালা
+    bo: ཨོག་ལེན།
+    br: biolin
+    bs: violina
+    ca: violí
+    ceb: biyolin
+    chr: ᎠᏟᏰᏗ
+    ckb: ڤایۆلین
+    crh: kemane
+    cs: housle
+    csb: skrzëpice
+    cv: сĕрме купăс
+    cy: ffidil
+    da: violin
+    de: Violine
+    de-ch: Violine
+    el: βιολί
+    en: violin
+    en-ca: violin
+    en-gb: violin
+    en-us: violin
+    eo: violono
+    es: violín
+    et: viiul
+    eu: biolin
+    fa: ویولن
+    fi: viulu
+    fo: violin
+    fr: violon
+    frr: fijool
+    fur: violin
+    fy: Fioele
+    ga: veidhlín
+    gd: fìdheallan
+    gl: violín
+    gn: ravel
+    gsw: Gyyge
+    gv: biol
+    ha: goge
+    hak: séu-thì-khìm
+    he: כינור
+    hi: वायलिन
+    hif: violin
+    hr: violina
+    hsb: husle
+    hu: hegedű
+    hy: ջութակ
+    hyw: ջութակ
+    ia: violino
+    id: biola
+    io: violino
+    is: fiðla
+    it: violino
+    ja: ヴァイオリン
+    jv: piyul
+    ka: ვიოლინო
+    kbp: fiyoolɔɣ
+    kk: скрипка
+    km: វីយោឡុង
+    kn: ಪಿಟೀಲು
+    ko: 바이올린
+    ku: keman
+    ky: скрипка
+    la: violina
+    lb: Gei
+    li: Fjoeal
+    lij: violin
+    lmo: viulin
+    lrc: ویولون
+    lt: smuikas
+    lv: vijole
+    lzh: 梵婀玲
+    mad: Biola
+    mg: lokanga
+    mhr: скрипке
+    mk: виолина
+    ml: വയലിൻ
+    mn: хийл
+    mr: व्हायोलिन
+    ms: biola
+    mt: vjolin
+    my: တယော
+    mzn: ویالون
+    nah: violin
+    nan: chhiú-khîm
+    nb: fiolin
+    nds: Vigelien
+    nds-nl: fioul
+    new: बेला
+    nl: viool
+    nn: fiolin
+    oc: violon
+    or: ଭାଓଲିନ
+    os: скърипкæ
+    pa: ਵਾਇਲਿਨ
+    pam: biyolin
+    pl: skrzypce
+    pms: Violin
+    pnb: وائلن
+    pt: violino
+    pt-br: violino
+    qu: wiyulin
+    rm: violina
+    ro: vioară
+    ru: скрипка
+    rue: гуслї
+    rup: avyiulii
+    se: fijuvla
+    sgs: skripītis
+    sh: violina
+    shn: တြေႃး
+    si: වයලීනය
+    sjd: скрипка
+    sk: husle
+    sl: violina
+    sma: fiolijne
+    smj: fiolijnna
+    smn: vivlu
+    sms: viulu
+    sq: violina
+    sr: виолина
+    sr-ec: виолина
+    sr-el: violina
+    stq: Fjoole
+    su: biola
+    sv: fiol
+    sw: fidla
+    ta: வயலின்
+    te: వయొలిన్
+    tg: скрипка
+    th: ไวโอลิน
+    tl: biyulin
+    tr: keman
+    tt: скрипка
+    tyv: скрипка
+    udm: скрипка
+    ug: ئىسكىرىپكا
+    uk: скрипка
+    ur: بیلا
+    uz: skripka
+    vec: viołin
+    vep: skripk
+    vi: vĩ cầm
+    vls: Viole
+    vro: viiol
+    wa: violon
+    war: biyolin
+    wuu: 小提琴
+    xmf: ვიოლინო
+    yi: פידל
+    yue: 小提琴
+    zh: 小提琴
+    zh-cn: 小提琴
+    zh-hans: 小提琴
+    zh-hant: 小提琴
+    zh-tw: 小提琴
 ---
-
 # [[Violin]] 🎻 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Violin,8355|WD~Violin,8355]] 

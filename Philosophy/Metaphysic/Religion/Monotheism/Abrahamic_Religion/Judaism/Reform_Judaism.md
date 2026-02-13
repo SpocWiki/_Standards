@@ -1,17 +1,130 @@
 ---
-has_time_started: 1900-01-01 
+has_time_started: 1900-01-01
 aliases:
+- Djudaismo reformista
+- Do Thái giáo Cải cách
+- ebraismo riformato
+- Giúdachas Leasaitheach
+- Iddewiaeth ddiwygiedig
+- Islohotchi (reformist) yahudiylik
+- Iudaism reformat
+- Jodaisma nohavaozina
+- judaisme reformista
+- judaismo erreformista
+- Judaizm reformowany
+- Judaísmo reformado
+- Judaísmo reformista
+- Judaïsme reformat
+- judaïsme réformé
+- Liberales Judentum
+- Reform Judaism
+- Reformijuutalaisuus
+- reformirano judovstvo
+- reformisma judismo
+- Reformist Yahudilik
+- Reformistinis judaizmas
+- Reformjodendom
+- Reformjudendom
+- Reformjudentum
+- Reformjødedom
+- reformní judaismus
+- Reformski judaizam
+- reformzsidóság
+- S liberale Juudedum
+- Xudaísmo reformista
+- Xudaísmu reformista
+- Yahudi Reformasi
+- Yuzevegezh adreizhet
+- Μεταρρυθμιστικός Ιουδαϊσμός
+- Реформістський юдаїзм
+- Реформистки юдаизъм
+- Реформистский иудаизм
+- рэфармісцкі юдаізм
+- ռեֆորմիստական հրեականություն
+- יהדות רפורמית
+- רעפארם יידנטום
+- اصلاح پاله یهودیت
+- اصلاحی یہودیت
+- يهودية إصلاحية
+- يهوديه اصلاحيه
+- یهودیت اصلاحگرا
+- சீர்திருத்த யூதம்
+- 改革派
+- 犹太教改革派
+- 猶太教改革派
+- 개혁파 유대교
 has_id_wikidata: Q1133485
-motto: "[[_Standards/WikiData/WD~Tikkun_olam,164290]]"
-subclass_of: "[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]"
-instance_of: "[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]"
+motto: '[[_Standards/WikiData/WD~Tikkun_olam,164290]]'
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
 inception: 1900-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Congregation%20Emanu-El%20of%20the%20City%20New%20York.jpg
 Commons_category: Reform Judaism
 native_label: יהדות רפורמית
+dv_has_:
+  name_:
+    ar: يهودية إصلاحية
+    arz: يهوديه اصلاحيه
+    ast: Xudaísmu reformista
+    be-tarask: рэфармісцкі юдаізм
+    bg: Реформистки юдаизъм
+    br: Yuzevegezh adreizhet
+    ca: judaisme reformista
+    cs: reformní judaismus
+    cy: Iddewiaeth ddiwygiedig
+    da: Reformjødedom
+    de: Liberales Judentum
+    de-ch: Reformjudentum
+    el: Μεταρρυθμιστικός Ιουδαϊσμός
+    en: Reform Judaism
+    en-ca: Reform Judaism
+    en-gb: Reform Judaism
+    eo: reformisma judismo
+    es: Judaísmo reformado
+    eu: judaismo erreformista
+    fa: یهودیت اصلاحگرا
+    fi: Reformijuutalaisuus
+    fr: judaïsme réformé
+    ga: Giúdachas Leasaitheach
+    gl: Xudaísmo reformista
+    gsw: S liberale Juudedum
+    he: יהדות רפורמית
+    hr: Reformski judaizam
+    hu: reformzsidóság
+    hy: ռեֆորմիստական հրեականություն
+    id: Yahudi Reformasi
+    it: ebraismo riformato
+    ja: 改革派
+    ko: 개혁파 유대교
+    lad: Djudaismo reformista
+    lt: Reformistinis judaizmas
+    mg: Jodaisma nohavaozina
+    nb: reformjødedom
+    nl: Reformjodendom
+    nn: reformjødedom
+    oc: Judaïsme reformat
+    pl: Judaizm reformowany
+    ps: اصلاح پاله یهودیت
+    pt: Judaísmo reformista
+    pt-br: Judaísmo reformista
+    ro: Iudaism reformat
+    ru: Реформистский иудаизм
+    sl: reformirano judovstvo
+    sr: Reformski judaizam
+    sv: Reformjudendom
+    ta: சீர்திருத்த யூதம்
+    tr: Reformist Yahudilik
+    uk: Реформістський юдаїзм
+    ur: اصلاحی یہودیت
+    uz: Islohotchi (reformist) yahudiylik
+    vi: Do Thái giáo Cải cách
+    yi: רעפארם יידנטום
+    zh: 猶太教改革派
+    zh-hans: 犹太教改革派
+    zh-hant: 猶太教改革派
+    zh-hk: 猶太教改革派
 ---
-
 # [[Reform_Judaism]] 
 
 #is_/same_as :: [[WD~Reform_Judaism,1133485]] 

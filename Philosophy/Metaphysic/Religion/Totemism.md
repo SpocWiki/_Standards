@@ -1,24 +1,118 @@
 ---
 aliases:
-  - Totemismus
-  - Totemism
+- Toatemisme
+- Totemism
+- totemisma
+- totemisme
+- totemismi
+- totemismm
+- totemismo
+- totemismu
+- Totemismus
+- Totemizam
+- totemizem
+- Totemizm
+- 'Totemizm:'
+- Totemizmi
+- totemizmus
+- totémisme
+- Tô-tem giáo
+- Tôtemisma
+- Татэмізм
+- Тотем шүтлэг
+- тотемізм
+- Тотемизам
+- тотемизм
+- Тотемшілдік
+- տոտենիզմ
+- توتمپرستی
+- توتمیسم
+- تۆتێمیزم
+- طوطمية
+- टोटम प्रथा
+- টোটেমবাদ
+- ജന്തുപൂജ
+- ტოტემიზმი
+- 圖騰主義
+- 토테미즘
 has_id_wikidata: Q947965
 instance_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
 uses: '[[_Standards/WikiData/WD~totem,263443]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q31958663,31958663]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Raven.BringerOfLight.P1044250.jpg
 Dewey_Decimal_Classification: 202.11
 Commons_category: Totems
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TOTEMIZM.html
+dv_has_:
+  name_:
+    ar: طوطمية
+    ast: totemismu
+    az: Totemizm
+    azb: توتمیسم
+    ba: Тотемизм
+    be: Татэмізм
+    be-tarask: Татэмізм
+    bn: টোটেমবাদ
+    ca: totemisme
+    ckb: تۆتێمیزم
+    cs: Totemismus
+    de: Totemismus
+    de-ch: Totemismus
+    en: totemism
+    en-ca: Totemism
+    en-gb: Totemism
+    eo: Totemismo
+    es: totemismo
+    et: totemism
+    eu: Totemismo
+    fa: توتمپرستی
+    fi: totemismi
+    fr: totémisme
+    fy: Toatemisme
+    gl: Totemismo
+    hi: टोटम प्रथा
+    hr: Totemizam
+    hu: totemizmus
+    hy: տոտենիզմ
+    id: Totemisme
+    it: totemismo
+    jv: Totemisme
+    ka: ტოტემიზმი
+    kk: Тотемшілдік
+    ko: 토테미즘
+    ky: Тотемизм
+    mg: Tôtemisma
+    mhr: тотемизм
+    mk: Тотемизам
+    ml: ജന്തുപൂജ
+    mn: Тотем шүтлэг
+    nl: totemisme
+    ru: тотемизм
+    se: totemisma
+    sh: Totemizam
+    sk: Totemizmus
+    sl: totemizem
+    smn: totemism
+    sms: totemismm
+    sq: Totemizmi
+    sr: Тотемизам
+    sv: totemism
+    tk: 'Totemizm:'
+    tr: totemizm
+    tt: Тотемизм
+    uk: тотемізм
+    uz: Totemizm
+    vi: Tô-tem giáo
+    yue: 圖騰主義
+    zh: 圖騰主義
 ---
-
 # [[Totemism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Totemism,947965|WD~Totemism,947965]]  

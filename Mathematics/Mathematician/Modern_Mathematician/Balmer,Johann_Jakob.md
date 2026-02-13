@@ -1,20 +1,44 @@
 ---
 aliases:
-  - Johann_Jakob_Balmer
-  - Johann Jakob Balmer
-  - Balmer
-  - Balmer,Johann_Jakob
-  - Balmer,Johann Jakob
+- Balmer
+- Balmer,Johann Jakob
+- Balmer,Johann_Jakob
+- Johan Jakob Balmer
+- Johann Balmer
+- Johann Jakob Balmer
+- Johann_Jakob_Balmer
+- Ýoxan Balʹmer
+- Γιόχαν Γιάκομπ Μπάλμερ
+- Ёган Якаб Бальмэр
+- Јохан Јакоб Балмер
+- Иоганн Якоб Бальмер
+- Йоганн Якоб Бальмер
+- Йохан Бальмер
+- Յոհան Յակոբ Բալմեր
+- יוהאן יאקוב בלמר
+- يوحان بالمەر
+- يوهان بالمر
+- یوهان بالمر
+- জোহান জ্যাকব বামার
+- જેકબ બામર
+- ಯೋಹನ್ ಜೇಕಬ್ ಬಾಮರ್
+- യോഹാൻ യാക്കോപ് ബാമർ
+- โยฮัน ยาค็อพ บัลเมอร์
+- იოჰან იაკობ ბალმერი
+- ヨハン・ヤコブ・バルマー
+- 約翰·雅各布·巴耳末
+- 约翰·雅各布·巴耳末
+- 요한 야코프 발머
 has_id_wikidata: Q122986
 place_of_birth: '[[_Standards/WikiData/WD~Lausen,66733]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~Karlsruhe_Institute_of_Technology,309988]]'
-  - '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Karlsruhe_Institute_of_Technology,309988]]'
+- '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 employer: '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
 place_of_burial: '[[_Standards/WikiData/WD~Wolfgottesacker,1499910]]'
 relative: '[[_Standards/WikiData/WD~Luc_Balmer,4077092]]'
@@ -23,12 +47,12 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 given_name: '[[_Standards/WikiData/WD~Johann_Jakob,19838163]]'
 family_name: '[[_Standards/WikiData/WD~Balmer,21507247]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 date_of_death: 1898-03-12T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Switzerland,39]]'
 place_of_death: '[[_Standards/WikiData/WD~Basel,78]]'
@@ -39,8 +63,82 @@ date_of_birth: 1825-05-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Balmer.jpeg
 ISNI: 0000000055422682
 name_in_native_language: Johann Jakob Balmer
+dv_has_:
+  name_:
+    ar: يوهان بالمر
+    arz: يوهان بالمر
+    ast: Johann Jakob Balmer
+    azb: یوهان بالمر
+    be-tarask: Ёган Якаб Бальмэр
+    bn: জোহান জ্যাকব বামার
+    ca: Johann Balmer
+    cs: Johann Jakob Balmer
+    da: Johann Balmer
+    de: Johann Jakob Balmer
+    el: Γιόχαν Γιάκομπ Μπάλμερ
+    en: Johann Jakob Balmer
+    es: Johann Jakob Balmer
+    eu: Johann Jakob Balmer
+    fa: یوهان بالمر
+    fi: Johann Balmer
+    fr: Johann Jakob Balmer
+    ga: Johann Jakob Balmer
+    gl: Johann Jakob Balmer
+    gu: જેકબ બામર
+    gv: Johann Jakob Balmer
+    he: יוהאן יאקוב בלמר
+    hr: Johann Jakob Balmer
+    ht: Johann Jakob Balmer
+    hu: Johann Jakob Balmer
+    hy: Յոհան Յակոբ Բալմեր
+    id: Johann Jakob Balmer
+    it: Johann Jakob Balmer
+    ja: ヨハン・ヤコブ・バルマー
+    jv: Johann Jakob Balmer
+    ka: იოჰან იაკობ ბალმერი
+    kk: Йохан Бальмер
+    kk-arab: يوحان بالمەر
+    kk-cn: يوحان بالمەر
+    kk-cyrl: Йохан Бальмер
+    kk-kz: Йохан Бальмер
+    kk-latn: Ýoxan Balʹmer
+    kk-tr: Ýoxan Balʹmer
+    kn: ಯೋಹನ್ ಜೇಕಬ್ ಬಾಮರ್
+    ko: 요한 야코프 발머
+    mg: Johann Jakob Balmer
+    mk: Јохан Јакоб Балмер
+    ml: യോഹാൻ യാക്കോപ് ബാമർ
+    mul: Johann Jakob Balmer
+    nb: Johann Balmer
+    nl: Johann Jakob Balmer
+    nn: Johann Jakob Balmer
+    oc: Johann Jakob Balmer
+    pl: Johann Jakob Balmer
+    pms: Johann Balmer
+    pt: Johann Jakob Balmer
+    pt-br: Johann Jakob Balmer
+    rm: Johann Jakob Balmer
+    ru: Иоганн Якоб Бальмер
+    sk: Johann Jakob Balmer
+    sl: Johann Jakob Balmer
+    sq: Johann Jakob Balmer
+    sr: Johan Jakob Balmer
+    sv: Johann Jakob Balmer
+    th: โยฮัน ยาค็อพ บัลเมอร์
+    tl: Johann Jakob Balmer
+    tr: Johann Jakob Balmer
+    uk: Йоганн Якоб Бальмер
+    vi: Johann Jakob Balmer
+    war: Johann Jakob Balmer
+    yue: 約翰·雅各布·巴耳末
+    zh: 约翰·雅各布·巴耳末
+    zh-cn: 约翰·雅各布·巴耳末
+    zh-hans: 约翰·雅各布·巴耳末
+    zh-hant: 約翰·雅各布·巴耳末
+    zh-hk: 約翰·雅各布·巴耳末
+    zh-sg: 约翰·雅各布·巴耳末
+    zh-tw: 約翰·雅各布·巴耳末
 ---
-
 # [[Balmer,Johann_Jakob]] 
 
 #is_/same_as :: [[WD~Johann_Jakob_Balmer,122986]] 

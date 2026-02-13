@@ -1,13 +1,129 @@
 ---
 aliases:
-  - accused
-  - Angeklagter
-  - Angeklagte
-  - respondent
-  - defender
+- accused
+- accusé
+- acusat
+- akusatu
+- alperes
+- Angeklagte
+- Angeklagter
+- atsakovas
+- Beklagter
+- bị cáo
+- convenuto
+- cosantóir
+- davalı
+- defendan
+- defendant
+- defender
+- gedaagde
+- inculpat
+- Isinasakdal
+- juĝoto
+- Kostja
+- Müttəhim
+- Optuženik
+- pozwany
+- reo
+- respondent
+- réu
+- svarande
+- Tamall
+- terdakwa
+- tiltalt
+- tožena stranka
+- vastaaja
+- žalovaný
+- κατηγορούμενος
+- адказчык
+- відповідач
+- обвинет
+- оптужени
+- ответчик
+- Ամբաստանյալ
+- נאשם
+- خوانده
+- ديفيندن
+- متهم
+- ملزم
+- ڏوهاري
+- अभियुक्त
+- ପ୍ରତିବାଦୀ
+- నిందితుడు
+- പ്രതി
+- တရားခံ
+- ၽူႈၶၢမ်ႇၼႄး
+- ᡥᠠᠪᡧᠠᠪᡠᡥᠠ ᠨᡳᠶᠠᠯᠮᠠ
+- 被告
+- 피고
 has_id_wikidata: Q159394
+dv_has_:
+  name_:
+    ar: متهم
+    az: Müttəhim
+    be: адказчык
+    be-tarask: адказчык
+    br: Tamall
+    ca: acusat
+    cs: žalovaný
+    de: Beklagter
+    el: κατηγορούμενος
+    en: defendant
+    eo: juĝoto
+    es: reo
+    et: Kostja
+    eu: akusatu
+    fa: خوانده
+    fi: vastaaja
+    fr: accusé
+    ga: cosantóir
+    he: נאשם
+    hi: अभियुक्त
+    hr: Optuženik
+    hu: alperes
+    hy: Ամբաստանյալ
+    id: terdakwa
+    it: convenuto
+    ja: 被告
+    ko: 피고
+    lt: atsakovas
+    mk: обвинет
+    ml: പ്രതി
+    mnc: ᡥᠠᠪᡧᠠᠪᡠᡥᠠ ᠨᡳᠶᠠᠯᠮᠠ
+    ms: defendan
+    ms-arab: ديفيندن
+    my: တရားခံ
+    nb: tiltalt
+    nl: gedaagde
+    or: ପ୍ରତିବାଦୀ
+    pl: pozwany
+    pt: réu
+    ro: inculpat
+    ru: ответчик
+    sco: Defender
+    sd: ڏوهاري
+    shn: ၽူႈၶၢမ်ႇၼႄး
+    sk: žalovaný
+    sl: tožena stranka
+    sr: оптужени
+    sv: svarande
+    te: నిందితుడు
+    tl: Isinasakdal
+    tr: davalı
+    uk: відповідач
+    ur: ملزم
+    vi: bị cáo
+    yue: 被告
+    zh: 被告
+    zh-cn: 被告
+    zh-hans: 被告
+    zh-hant: 被告
+    zh-hk: 被告
+    zh-mo: 被告
+    zh-my: 被告
+    zh-sg: 被告
+    zh-tw: 被告
 ---
-
 # [[Defendant]] 
 
 #has_/complement :: [[Claimant]] 

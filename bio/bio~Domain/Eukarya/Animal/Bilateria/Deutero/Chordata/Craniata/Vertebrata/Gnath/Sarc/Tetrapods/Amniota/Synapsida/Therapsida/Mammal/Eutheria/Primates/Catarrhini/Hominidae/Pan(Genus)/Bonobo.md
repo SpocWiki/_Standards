@@ -1,43 +1,181 @@
 ---
 aliases:
-  - Pan_paniscus
-  - Bonobo
-  - Pan paniscus
+- Bonobo
+- bonobó
+- bónóbósimpansi
+- Bônobô
+- dvergsjimpanse
+- eta ĉimpanzo
+- kääbusšimpans
+- Mažoji šimpanzė
+- mionsimpeansaí
+- Pan paniscus
+- Pan_paniscus
+- pritlikavi šimpanz
+- szympans karłowaty
+- Séndje bonobo
+- Tinh tinh lùn
+- Uchuy chimpansi
+- Zegol (Pan paniscus)
+- šimpanz bonobo
+- Μπονόμπο
+- Баноба
+- бонобо
+- карликовый шимпанзе
+- Чинтолг-шимпанзе
+- Шимпанзе карликовий
+- Գաճաճ շիմպանզե
+- באנאבא
+- שימפנזה ננסי
+- بونوبو
+- बोनोबो
+- ਬੋਨੋਬੋ
+- பொனொபோ
+- โบโนโบ
+- བོ་ནོ་བོ།
+- ჯუჯა შიმპანზე
+- ボノボ
+- 倭黑猩猩
+- 矮黑猩猩
+- 보노보
 has_id_wikidata: Q19537
-parent_taxon: "[[_Standards/WikiData/WD~Pan,80174]]"
-different_from: "[[_Standards/WikiData/WD~Bonobo,707967]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bonobos,8304864]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
+parent_taxon: '[[_Standards/WikiData/WD~Pan,80174]]'
+different_from: '[[_Standards/WikiData/WD~Bonobo,707967]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bonobos,8304864]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'
 start_time: -1500000-01-01T00:00:00Z
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 gestation_period: 8
 mass:
-  - 33
-  - 43
+- 33
+- 43
 taxon_common_name: Bonobo
-OmegaWiki_Defined_Meaning: "802948"
-ITIS_TSN: "573081"
-Dewey_Decimal_Classification: "599.885"
+OmegaWiki_Defined_Meaning: 802948
+ITIS_TSN: 573081
+Dewey_Decimal_Classification: 599.885
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonobo%20distribution.svg
 sequenced_genome_URL: http://www.ensembl.org/Pan_paniscus
 MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.600
 UMLS_CUI: C0324855
 GenBank_assembly_accession_number:
-  - GCA_000258655.2
-  - GCA_028858825.1
-  - GCA_029289425.1
-  - GCA_030221875.1
-  - GCA_030221885.1
+- GCA_000258655.2
+- GCA_028858825.1
+- GCA_029289425.1
+- GCA_030221875.1
+- GCA_030221885.1
 Commons_gallery: Pan paniscus
 Commons_category: Pan paniscus
 taxon_name: Pan paniscus
 EPPO_Code: PANZPA
 short_name: P. paniscus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonobo%20at%20Nsele%20Valley%20Park%2C%20Kinshasa%2C%20DR%20Congo.jpg
+dv_has_:
+  name_:
+    af: Bonobo
+    an: Pan paniscus
+    ar: بونوبو
+    arz: بونوبو
+    ast: Pan paniscus
+    avk: Zegol (Pan paniscus)
+    az: Bonobo
+    azb: بونوبو
+    ban: Bonobo
+    bcl: Bonobo
+    be: Баноба
+    bg: бонобо
+    bo: བོ་ནོ་བོ།
+    br: Bonobo
+    bs: Bonobo
+    ca: bonobo
+    ceb: Pan paniscus
+    cs: šimpanz bonobo
+    da: bonobo
+    de: Bonobo
+    diq: Bonobo
+    el: Μπονόμπο
+    en: Bonobo
+    eo: eta ĉimpanzo
+    es: Pan paniscus
+    et: kääbusšimpans
+    eu: Pan paniscus
+    fa: بونوبو
+    fi: bonobo
+    fr: Bonobo
+    ga: mionsimpeansaí
+    gl: Pan paniscus
+    he: שימפנזה ננסי
+    hi: बोनोबो
+    hr: Bonobo
+    hu: bonobó
+    hy: Գաճաճ շիմպանզե
+    ia: bonobo
+    id: bonobo
+    inh: Чинтолг-шимпанзе
+    is: bónóbósimpansi
+    it: Pan paniscus
+    ja: ボノボ
+    jv: Bonobo
+    ka: ჯუჯა შიმპანზე
+    ko: 보노보
+    ku: Bonobo
+    la: Pan paniscus
+    lb: Bonobo
+    lbe: Бонобо
+    lez: Бонобо
+    li: Bonobo
+    ln: Bonobo
+    lt: Mažoji šimpanzė
+    lv: Bonobo
+    mg: Bônobô
+    mhr: Бонобо
+    mk: Бонобо
+    mrj: Бонобо
+    mul: Pan paniscus
+    nan: Bonobo
+    nb: dvergsjimpanse
+    nl: bonobo
+    nn: dvergsjimpanse
+    oc: Bonobo
+    os: Бонобо
+    pa: ਬੋਨੋਬੋ
+    pl: szympans karłowaty
+    pnb: بونوبو
+    ps: بونوبو
+    pt: Bonobo
+    qu: Uchuy chimpansi
+    ro: Bonobo
+    ru: карликовый шимпанзе
+    scn: Pan paniscus
+    sco: bonobo
+    sh: Bonobo
+    sk: Šimpanz bonobo
+    sl: pritlikavi šimpanz
+    sq: Pan paniscus
+    sr: бонобо
+    stq: Bonobo
+    su: Bonobo
+    sv: bonobo
+    sw: bonobo
+    ta: பொனொபோ
+    th: โบโนโบ
+    tl: Bonobo
+    tr: Bonobo
+    udm: Бонобо
+    uk: Шимпанзе карликовий
+    vi: Tinh tinh lùn
+    wa: Séndje bonobo
+    war: Pan paniscus
+    wuu: 倭黑猩猩
+    yi: באנאבא
+    yue: 矮黑猩猩
+    zh: 倭黑猩猩
+    zh-cn: 倭黑猩猩
+    zh-hans: 倭黑猩猩
+    zh-hant: 倭黑猩猩
+    zh-tw: 倭黑猩猩
 ---
-
 # [[Bonobo]] 
 
 #is_/same_as :: [[WD~bonobo,19537]]

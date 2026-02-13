@@ -1,25 +1,126 @@
 ---
 aliases:
-  - Ageing
-  - Altern
-  - Aging
+- Ageing
+- Aging
+- aldringsbrems
+- Altern
+- bizitza-luzera
+- Dirga yusa
+- dlouhověkost
+- dolgoživost
+- dugovečnost
+- dugovječnost
+- długowieczność
+- Ilgaamžiškumas
+- jetëgjatësia
+- Langlebigkeit
+- langlevendheid
+- llonxevidá
+- longevidad
+- longevidade
+- longevitat
+- longevitate
+- longevity
+- longevità
+- longviveco
+- longévité
+- lonxevidade
+- lång livslängd
+- pikaealisus
+- pitkäikäisyys
+- tuổi thọ
+- umur panjang
+- uzun ömür
+- uzunömürlü
+- yosh
+- Æviskeið
+- μακροζωία
+- даўгалецьце
+- Дарозумрӣ
+- довголіття
+- долголетие
+- Երկարակեցություն
+- אריכות ימים
+- درازعمری
+- طول العمر
+- दीर्घायु
+- ช่วงชีวิต
+- 壽命
+- 寿命
+- 長命
+- 長寿
+- 장수
 has_id_wikidata: Q1066907
 Commons_category: Longevity
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 facet_of: '[[_Standards/WikiData/WD~life_expectancy,188419]]'
 Iconclass_notation: 31D91
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%C3%A7arelhos46.jpg
 instance_of: '[[_Standards/WikiData/WD~quality_of_life,13100823]]'
 Library_of_Congress_Classification: QH528.5
 MeSH_tree_code:
-  - G07.345.124.519
-  - G07.540
+- G07.345.124.519
+- G07.540
 opposite_of: '[[_Standards/WikiData/WD~short_life,115663206]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579]]'
+dv_has_:
+  name_:
+    ar: طول العمر
+    ast: llonxevidá
+    az: uzunömürlü
+    ban: Dirga yusa
+    be-tarask: даўгалецьце
+    bs: dugovječnost
+    ca: longevitat
+    cs: dlouhověkost
+    da: longevity
+    de: Langlebigkeit
+    el: μακροζωία
+    en: longevity
+    en-ca: longevity
+    en-gb: longevity
+    eo: longviveco
+    es: longevidad
+    et: pikaealisus
+    eu: bizitza-luzera
+    fa: درازعمری
+    fi: pitkäikäisyys
+    fr: longévité
+    gl: lonxevidade
+    he: אריכות ימים
+    hi: दीर्घायु
+    hy: Երկարակեցություն
+    id: umur panjang
+    is: Æviskeið
+    it: longevità
+    ja: 長寿
+    ko: 장수
+    lt: Ilgaamžiškumas
+    nb: aldringsbrems
+    nl: langlevendheid
+    pl: długowieczność
+    pt: longevidade
+    ro: longevitate
+    ru: долголетие
+    sh: dugovječnost
+    sl: dolgoživost
+    sq: jetëgjatësia
+    sr: dugovečnost
+    sv: lång livslängd
+    tg: Дарозумрӣ
+    th: ช่วงชีวิต
+    tr: uzun ömür
+    uk: довголіття
+    uz: yosh
+    vi: tuổi thọ
+    yue: 長命
+    zh: 壽命
+    zh-hans: 寿命
+    zh-hant: 壽命
+    zh-hk: 壽命
 ---
-
 # [[Aging]] 
 
 

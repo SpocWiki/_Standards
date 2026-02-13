@@ -1,41 +1,159 @@
 ---
 aliases:
-  - ḥwt-ḥr
-  - House of Horus
-  - Ἁθώρ
-  - Hathōr
-  - ϩⲁⲑⲱⲣ
-  - 𐦠𐦴𐦫𐦢‎
-  - Hathor
+- Athor
+- Dewi Hathor
+- Hathor
+- Hathōr
+- Hator
+- Hatora
+- Hatoro
+- Határ
+- Haþor
+- Hot Her
+- House of Horus
+- Άθωρ
+- ϩⲁⲑⲱⲣ
+- Гатор
+- Хатор
+- Хатхор
+- Հաթոր
+- חתחור
+- حاتحور
+- حتحور
+- هاثور
+- हथोर
+- হাথোর
+- ஆத்தோர்
+- ഹാത്തോർ
+- แฮธอร์
+- ཧ་ཐུའོ་ཨེར།
+- ჰატჰორი
+- ḥwt-ḥr
+- Ἁθώρ
+- ハトホル
+- 哈化
+- 哈索尔
+- 哈索爾
+- ꯍꯊꯣꯔ
+- 하토르
+- "\U000109A0\U000109B4\U000109AB\U000109A2‎"
 has_id_wikidata: Q133343
 spouse:
-  - "[[_Standards/WikiData/WD~Horus,84122]]"
-  - "[[_Standards/WikiData/WD~Ra,1252904]]"
-child: "[[_Standards/WikiData/WD~Bastet,129106]]"
+- '[[_Standards/WikiData/WD~Horus,84122]]'
+- '[[_Standards/WikiData/WD~Ra,1252904]]'
+child: '[[_Standards/WikiData/WD~Bastet,129106]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]"
-  - "[[_Standards/WikiData/WD~goddess,205985]]"
-  - "[[_Standards/WikiData/WD~fertility_deity,1470705]]"
-  - "[[_Standards/WikiData/WD~horned_deity,5904253]]"
-part_of: "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
-worshipped_by: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
-different_from: "[[_Standards/WikiData/WD~Hat_Hor,577451]]"
+- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]'
+- '[[_Standards/WikiData/WD~goddess,205985]]'
+- '[[_Standards/WikiData/WD~fertility_deity,1470705]]'
+- '[[_Standards/WikiData/WD~horned_deity,5904253]]'
+part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740]]'
+worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
+different_from: '[[_Standards/WikiData/WD~Hat_Hor,577451]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-father: "[[_Standards/WikiData/WD~Ra,1252904]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ba_alat_Gebal,2223705]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+father: '[[_Standards/WikiData/WD~Ra,1252904]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ba_alat_Gebal,2223705]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 Commons_category: Hathor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hathor.svg
 ISNI: 467615130
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/HATHOR.html
+dv_has_:
+  name_:
+    af: Hathor
+    an: Hathor
+    ar: حتحور
+    arz: حاتحور
+    ast: Hathor
+    az: Hathor
+    be: Хатхор
+    be-tarask: Гатор
+    bg: Хатор
+    bn: হাথোর
+    bo: ཧ་ཐུའོ་ཨེར།
+    bs: Hathor
+    ca: Athor
+    cdo: Hathor
+    cs: Hathor
+    cy: Hathor
+    da: Hathor
+    de: Hathor
+    el: Άθωρ
+    en: Hathor
+    en-gb: Hathor
+    eo: Hatoro
+    es: Hathor
+    et: Hathor
+    eu: Hathor
+    fa: هاثور
+    fi: Hathor
+    fr: Hathor
+    ga: Határ
+    gl: Hathor
+    he: חתחור
+    hi: हथोर
+    hr: Hathor
+    hu: Hathor
+    hy: Հաթոր
+    id: Hathor
+    is: Haþor
+    it: Hathor
+    ja: ハトホル
+    ka: ჰატჰორი
+    ko: 하토르
+    ks: حتحور
+    la: Hathor
+    lmo: Hathor
+    lt: Hator
+    lv: Hatora
+    mk: Хатор
+    ml: ഹാത്തോർ
+    mni: ꯍꯊꯣꯔ
+    ms: Dewi Hathor
+    nb: Hathor
+    nl: Hathor
+    oc: Hot Her
+    pl: Hathor
+    pt: Hator
+    pt-br: Hator
+    ro: Hathor
+    ru: Хатхор
+    scn: Hathor
+    sco: Hathor
+    sd: حتحور
+    sh: Hator
+    sk: Hathor
+    sl: Hator
+    sr: Хатор
+    sr-ec: Хатор
+    sr-el: Hator
+    sv: Hathor
+    sw: Hathor
+    ta: ஆத்தோர்
+    th: แฮธอร์
+    tl: Hathor
+    tr: Hathor
+    uk: Хатхор
+    ur: حتحور
+    vi: Hathor
+    war: Hathor
+    wuu: 哈索尔
+    xmf: ჰატჰორი
+    yue: 哈化
+    zh: 哈索尔
+    zh-cn: 哈索尔
+    zh-hans: 哈索尔
+    zh-hant: 哈索爾
+    zh-hk: 哈索爾
+    zh-sg: 哈索尔
+    zh-tw: 哈索爾
 ---
-
 # [[Hathor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Hathor,133343|WD~Hathor,133343]] 

@@ -1,10 +1,56 @@
 ---
 aliases:
-  - Phyllocarida
-  - Sea flea
-  - Sea fleas
+- Filocáridos
+- Fil·locàride
+- Középrendű rákok
+- Liścioraki
+- Phyllocarida
+- Sea flea
+- Sea fleas
+- Филлокариды
+- филокариди
+- میگوهای ورقهای
+- コノハエビ亜綱
+- 叶虾亚纲
+- 葉蝦亞綱
+- 엽하아강
 title: Leptostraca
 has_id_wikidata: Q578752
+dv_has_:
+  name_:
+    ast: Phyllocarida
+    bg: филокариди
+    ca: Fil·locàride
+    ceb: Phyllocarida
+    de: Phyllocarida
+    en: Phyllocarida
+    es: Phyllocarida
+    fa: میگوهای ورقهای
+    fi: Phyllocarida
+    fr: Phyllocarida
+    ga: Phyllocarida
+    gl: Filocáridos
+    hu: Középrendű rákok
+    it: Phyllocarida
+    ja: コノハエビ亜綱
+    ko: 엽하아강
+    la: Phyllocarida
+    mul: Phyllocarida
+    nb: Phyllocarida
+    nl: Phyllocarida
+    pl: Liścioraki
+    pt: Phyllocarida
+    ro: Phyllocarida
+    ru: Филлокариды
+    sq: Phyllocarida
+    tr: Phyllocarida
+    uk: Phyllocarida
+    vi: Phyllocarida
+    war: Phyllocarida
+    zh: 叶虾亚纲
+    zh-cn: 叶虾亚纲
+    zh-hans: 叶虾亚纲
+    zh-tw: 葉蝦亞綱
 ---
 ## [[Phyllocarida]] 
 

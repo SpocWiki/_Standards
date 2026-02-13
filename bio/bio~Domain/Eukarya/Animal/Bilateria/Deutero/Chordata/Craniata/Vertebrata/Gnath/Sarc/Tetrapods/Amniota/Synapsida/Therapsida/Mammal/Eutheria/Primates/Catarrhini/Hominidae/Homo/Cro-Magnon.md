@@ -1,15 +1,76 @@
 ---
 aliases:
-  - Cro-Magnon
-  - Cro-Magnons
-  - European early modern human
+- Cro-Magnon
+- Cro-Magnon Lâng
+- Cro-Magnon Man
+- Cro-Magnon-mennesket
+- Cro-Magnon-mens
+- Cro-Magnon-Mensch
+- cro-magnoni ember
+- Cro-Magnonin ihminen
+- Cro-Magnonmennesket
+- cro-magnonmens
+- Cro-Magnons
+- Cromagnonmänniskan
+- Den Cro-Magnon
+- European early modern human
+- hombre de Cro-Magnon
+- Home de Cromanyó
+- Home de Cromañón
+- homme de Cro-Magnon
+- Homo de Kro Magnon
+- Homo di Cro-Magnon
+- Homo sapiens fossilis
+- Kro-Magnonminsk
+- Kroman'jonan ristit
+- Kromanjonac
+- Kromanjonci
+- Kromanjoniečiai
+- Kromanonlar
+- Kromanyon
+- Kromanʹondıqtar
+- Kromaņonietis
+- kromaňonci
+- Kromaňonec
+- Kwo-magnon
+- Manusia Cro-Magnon
+- Người Cro-Magnon
+- Njeriu i Kro-manjonit
+- Omul de Cro-Magnon
+- Taong Cro-Magnon
+- Tawo han Cro-Magnon
+- Òme de Cròsmanhon
+- Κρο-Μανιόν
+- краманьёнец
+- Кромањонци
+- кроманьйонці
+- Кроманьон çынни
+- Кроманьон кешесе
+- Кроманьондуктар
+- Кроманьондықтар
+- кроманьонец
+- Кроманьонски човек
+- Կրոմանյոնյան մարդ
+- קרו-מניון
+- الكرومانيون
+- انسان کرومانیون
+- كرومانوندىقتار
+- کرمیگنان آدمی
+- क्रो-म्याग्नन
+- क्रोमैग्नान मानव
+- குரோ-மாகுநன்
+- კრომანიონელი
+- クロマニョン人
+- 克罗马侬人
+- 克羅馬儂人
+- 크로마뇽인
 has_id_wikidata: Q179234
 named_after: '[[_Standards/WikiData/WD~Cro_Magnon_site,331409]]'
 locations: '[[_Standards/WikiData/WD~Les_Eyzies_de_Tayac_Sireuil,426834]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Lartet,946158]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~European_early_modern_humans,24300417]]'
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 time_of_discovery_or_invention: 1868-01-01T00:00:00Z
@@ -18,8 +79,96 @@ country: '[[_Standards/WikiData/WD~France,142]]'
 Commons_gallery: Cro-Magnon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cro-Magnon.jpg
 Commons_category: Cro-Magnons
+dv_has_:
+  name_:
+    af: Cro-Magnon-mens
+    ar: الكرومانيون
+    ast: Home de Cromañón
+    az: Kromanyon
+    be: краманьёнец
+    be-tarask: краманьёнец
+    bg: Кроманьонски човек
+    br: Den Cro-Magnon
+    bs: Kromanjonac
+    ca: Home de Cromanyó
+    cs: kromaňonci
+    cv: Кроманьон çынни
+    cy: Cro-Magnon
+    da: Cro-Magnonmennesket
+    de: Cro-Magnon-Mensch
+    el: Κρο-Μανιόν
+    en: Cro-Magnon Man
+    en-ca: Cro-Magnon
+    en-gb: Cro-Magnon
+    eo: Homo de Kro Magnon
+    es: hombre de Cro-Magnon
+    eu: Cro-Magnon
+    fa: انسان کرومانیون
+    fi: Cro-Magnonin ihminen
+    fr: homme de Cro-Magnon
+    fy: Kro-Magnonminsk
+    ga: Cro-Magnon
+    gl: Home de Cromañón
+    he: קרו-מניון
+    hi: क्रोमैग्नान मानव
+    hr: Kromanjonac
+    ht: Kwo-magnon
+    hu: cro-magnoni ember
+    hy: Կրոմանյոնյան մարդ
+    id: Manusia Cro-Magnon
+    io: Homo di Cro-Magnon
+    it: Cro-Magnon
+    ja: クロマニョン人
+    ka: კრომანიონელი
+    kk: Кроманьондықтар
+    kk-arab: كرومانوندىقتار
+    kk-cn: كرومانوندىقتار
+    kk-cyrl: Кроманьондықтар
+    kk-kz: Кроманьондықтар
+    kk-latn: Kromanʹondıqtar
+    kk-tr: Kromanʹondıqtar
+    ko: 크로마뇽인
+    ky: Кроманьондуктар
+    lt: Kromanjoniečiai
+    lv: Kromaņonietis
+    nan: Cro-Magnon Lâng
+    nb: Cro-Magnon-mennesket
+    new: क्रो-म्याग्नन
+    nl: cro-magnonmens
+    oc: Òme de Cròsmanhon
+    pl: Homo sapiens fossilis
+    pnb: کرمیگنان آدمی
+    pt: Cro-Magnon
+    pt-br: Cro-Magnon
+    ro: Omul de Cro-Magnon
+    ru: кроманьонец
+    sh: Kromanjonci
+    sk: Kromaňonec
+    sq: Njeriu i Kro-manjonit
+    sr: Кромањонци
+    sr-ec: Кромањонци
+    sr-el: Kromanjonci
+    sv: Cromagnonmänniskan
+    ta: குரோ-மாகுநன்
+    tl: Taong Cro-Magnon
+    tr: Cro-Magnon
+    tt: Кроманьон кешесе
+    uk: кроманьйонці
+    ur: کرمیگنان آدمی
+    uz: Kromanonlar
+    vep: Kroman'jonan ristit
+    vi: Người Cro-Magnon
+    war: Tawo han Cro-Magnon
+    wuu: 克罗马侬人
+    yue: 克羅馬儂人
+    zh: 克羅馬儂人
+    zh-cn: 克罗马侬人
+    zh-hans: 克罗马侬人
+    zh-hant: 克羅馬儂人
+    zh-hk: 克羅馬儂人
+    zh-sg: 克罗马侬人
+    zh-tw: 克羅馬儂人
 ---
-
 # [[Cro-Magnon]] 
 
 #has_/time_/started :: -54800 

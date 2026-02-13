@@ -1,8 +1,76 @@
 ---
 has_id_wikidata: Q24091434
+dv_has_:
+  name_:
+    ar: حرية الشعوب
+    az: Hürriyyət
+    bn: মুক্তি
+    ckb: ئازادی
+    cs: svoboda
+    en: freedom
+    eo: libereco
+    es: libertad
+    fa: مفهوم آزادی
+    guw: Mẹdekannujẹ
+    ha: Yanci
+    he: חופש
+    hi: स्वतंत्रता
+    hy: անձնական ազատություն
+    id: kebebasan
+    ja: 自由
+    ka: თავისუფლება
+    ml: സ്വാതന്ത്ര്യം
+    mn: эрх чөлөө
+    mr: स्वातंत्र्य
+    nl: vrijheid
+    pt: liberdade
+    ru: свобода
+    sah: Көҥүл
+    sl: svoboda
+    sq: Liria
+    ta: சுதந்திரம்
+    tl: Kalayaan
+    tr: Serbestlik
+    ur: احساس آزادی
+    uz: Ozodlik
+    vi: tự do
+    yue: 自主
+    zh: 自由报
+aliases:
+- freedom
+- Hürriyyət
+- Kalayaan
+- kebebasan
+- liberdade
+- libereco
+- libertad
+- Liria
+- Mẹdekannujẹ
+- Ozodlik
+- Serbestlik
+- svoboda
+- tự do
+- vrijheid
+- Yanci
+- Көҥүл
+- свобода
+- эрх чөлөө
+- անձնական ազատություն
+- חופש
+- ئازادی
+- احساس آزادی
+- حرية الشعوب
+- مفهوم آزادی
+- स्वतंत्रता
+- स्वातंत्र्य
+- মুক্তি
+- சுதந்திரம்
+- സ്വാതന്ത്ര്യം
+- თავისუფლება
+- 自主
+- 自由
+- 自由报
 ---
-
-
 # [[Freedom]] 
 
 #is_/similar_to :: [[Liberty]] 

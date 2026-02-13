@@ -1,18 +1,97 @@
 ---
 aliases:
+- aikamatkustus
+- Ajaränd
+- amthaisteal
+- Cestovanie v čase
+- cestování v čase
+- ceļošana laikā
+- călătorie în timp
+- Denbora bidaia
+- Du hành thời gian
+- időutazás
+- Iter transtemporale
+- Kelionė laiku
+- Lalampahan waktu
+- Paglalakbay sa panahon
+- Pagpanaw sa panahon
+- perentasan masa
+- perjalanan waktu
+- podróżowanie w czasie
+- potovanje v času
+- Putovanje kroz vreme
+- Putovanje kroz vrijeme
+- Safarka Wakhtiga
+- tempovojaĝado
+- tidsreise
+- Tidsrejse
+- tidsresa
+- Tiidreizgjen
+- tijdreizen
+- time machine
+- time travel
+- udhëtimi në kohë
+- vaqt sayohati
+- Viage temporal
+- viagem no tempo
+- viaggio nel tempo
+- viaje a través del tiempo
+- viajo traerso el tenpo
+- viatge en el temps
+- viaxe al traviés del tiempu
+- viaxe no tempo
+- voyage dans le temps
+- Voyajo en tempo
+- zaman yolculuğu
+- Zamanda səyahət
+- Zeitreise
+- Zäitrees
+- Ταξίδι στο χρόνο
+- Вăхăт талккăшĕпе çӳресси
+- вандроўка ў часе
+- падарожжы ў часе
+- Патување низ времето
+- подорожі у часі
+- путешествие во времени
+- путовање кроз време
+- Пътешествие във времето
+- Сафар дар замон
+- ճանապարհորդություն ժամանակով
+- מסע בזמן
+- السفر عبر الزمن
+- سفر الوقت
+- سفر در زمان
+- سفرالوقت
+- وقت جو سفر
+- گەشت بەناو کاتدا
+- समय यात्रा
+- সময় ভ্রমণ
+- ਸਮਾਂ ਸਫ਼ਰ
+- காலப் பயணம்
+- సమయం ప్రయాణ
+- സമയ യാത്ര
+- කාල තරණය
+- การเดินทางข้ามเวลา
+- დროში მოგზაურობა
+- タイムトラベル
+- 时间旅行
+- 時間旅行
+- 辰光旅行
+- 시간 려행
+- 시간 여행
 has_id_wikidata: Q182154
 subclass_of:
-  - "[[_Standards/WikiData/WD~motion,79782]]"
-  - "[[_Standards/WikiData/WD~imaginary_voyage,2753521]]"
-  - "[[_Standards/WikiData/WD~fictional_occurrence,14136353]]"
+- '[[_Standards/WikiData/WD~motion,79782]]'
+- '[[_Standards/WikiData/WD~imaginary_voyage,2753521]]'
+- '[[_Standards/WikiData/WD~fictional_occurrence,14136353]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~superpower,1047698]]"
-  - "[[_Standards/WikiData/WD~science_fiction_theme,3526250]]"
-  - "[[_Standards/WikiData/WD~hypothesis,41719]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Time_travel,12176840]]"
-practiced_by: "[[_Standards/WikiData/WD~time_traveller,60661987]]"
-facet_of: "[[_Standards/WikiData/WD~time,11471]]"
-has_effect: "[[_Standards/WikiData/WD~temporal_paradox,33447]]"
+- '[[_Standards/WikiData/WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~science_fiction_theme,3526250]]'
+- '[[_Standards/WikiData/WD~hypothesis,41719]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Time_travel,12176840]]'
+practiced_by: '[[_Standards/WikiData/WD~time_traveller,60661987]]'
+facet_of: '[[_Standards/WikiData/WD~time,11471]]'
+has_effect: '[[_Standards/WikiData/WD~temporal_paradox,33447]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%20%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TeamTimeCar.com-BTTF%20DeLorean%20Time%20Machine-OtoGodfrey.com-JMortonPhoto.com-04.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/time_travel
@@ -22,8 +101,96 @@ IMDb_keyword: time-travel
 PhilPapers_topic: time-travel
 subreddit: timetravel
 Baidu_Tieba_name: 穿越
+dv_has_:
+  name_:
+    ar: السفر عبر الزمن
+    ast: viaxe al traviés del tiempu
+    az: Zamanda səyahət
+    be: падарожжы ў часе
+    be-tarask: вандроўка ў часе
+    bg: Пътешествие във времето
+    bn: সময় ভ্রমণ
+    ca: viatge en el temps
+    ceb: Pagpanaw sa panahon
+    ckb: گەشت بەناو کاتدا
+    cs: cestování v čase
+    cv: Вăхăт талккăшĕпе çӳресси
+    da: Tidsrejse
+    de: Zeitreise
+    el: Ταξίδι στο χρόνο
+    en: time travel
+    eo: tempovojaĝado
+    es: viaje a través del tiempo
+    et: Ajaränd
+    eu: Denbora bidaia
+    fa: سفر در زمان
+    fi: aikamatkustus
+    fr: voyage dans le temps
+    fy: Tiidreizgjen
+    ga: amthaisteal
+    gl: viaxe no tempo
+    gu: time machine
+    he: מסע בזמן
+    hi: समय यात्रा
+    hr: Putovanje kroz vrijeme
+    hu: időutazás
+    hy: ճանապարհորդություն ժամանակով
+    ia: Viage temporal
+    id: perjalanan waktu
+    io: Voyajo en tempo
+    it: viaggio nel tempo
+    ja: タイムトラベル
+    ka: დროში მოგზაურობა
+    ko: 시간 여행
+    ko-kp: 시간 려행
+    la: Iter transtemporale
+    lb: Zäitrees
+    lt: Kelionė laiku
+    lv: ceļošana laikā
+    mk: Патување низ времето
+    ml: സമയ യാത്ര
+    ms: perentasan masa
+    nb: tidsreise
+    nl: tijdreizen
+    pa: ਸਮਾਂ ਸਫ਼ਰ
+    pl: podróżowanie w czasie
+    pnb: سفر الوقت
+    pt: viagem no tempo
+    ro: călătorie în timp
+    ru: путешествие во времени
+    sco: time travel
+    sd: وقت جو سفر
+    si: කාල තරණය
+    sk: Cestovanie v čase
+    sl: potovanje v času
+    so: Safarka Wakhtiga
+    sq: udhëtimi në kohë
+    sr: путовање кроз време
+    sr-ec: Путовање кроз време
+    sr-el: Putovanje kroz vreme
+    su: Lalampahan waktu
+    sv: tidsresa
+    ta: காலப் பயணம்
+    te: సమయం ప్రయాణ
+    tg: Сафар дар замон
+    th: การเดินทางข้ามเวลา
+    tl: Paglalakbay sa panahon
+    tr: zaman yolculuğu
+    uk: подорожі у часі
+    ur: سفرالوقت
+    uz: vaqt sayohati
+    vec: viajo traerso el tenpo
+    vi: Du hành thời gian
+    wuu: 辰光旅行
+    yue: 時間旅行
+    zh: 时间旅行
+    zh-cn: 时间旅行
+    zh-hans: 时间旅行
+    zh-hant: 時間旅行
+    zh-hk: 時間旅行
+    zh-sg: 时间旅行
+    zh-tw: 時間旅行
 ---
-
 # [[Time_Travel]] 
 
 #is_/same_as :: [[WD~Time_travel,182154]] 

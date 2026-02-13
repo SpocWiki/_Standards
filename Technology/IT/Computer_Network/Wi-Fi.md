@@ -1,27 +1,54 @@
 ---
-has_time_started: 1997-09-21 
+has_time_started: 1997-09-21
 aliases:
-  - WiFi
-  - WLAN
-  - Wi-Fi
+- vayfay
+- Wai-Pai
+- wayfay
+- Wi-Fi
+- Wi-fi tehnologiýasy
+- WiFi
+- WLAN
+- Вај-фај
+- وائی-فائی
+- واى فاى
+- واي فاي
+- وای-فای
+- وي-في
+- वाइ-फाइ
+- वाइ-फाई
+- वाई-फ़ाई
+- वाय-फाय
+- ওয়াই-ফাই
+- ৱাই-ফাই
+- ਵਾਈ-ਫ਼ਾਈ
+- ୱାଇ-ଫାଇ
+- ஒய்-ஃபை
+- వై-ఫై
+- ವೈ-ಫೈ
+- വൈ -ഫൈ
+- වයි-ෆයි
+- ไวไฟ
+- ວາຍຟາຍ
+- སྐུད་མེད་དྲ་བ།
+- 와이파이
 has_id_wikidata: Q29643
 different_from: '[[_Standards/WikiData/WD~Ethernet,79984]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~communication_protocol,132364]]'
-  - '[[_Standards/WikiData/WD~technical_standard,317623]]'
-  - '[[_Standards/WikiData/WD~certification_mark,908620]]'
+- '[[_Standards/WikiData/WD~communication_protocol,132364]]'
+- '[[_Standards/WikiData/WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~certification_mark,908620]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~wireless_LAN,212607]]'
 developer: '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]'
 named_after:
-  - '[[_Standards/WikiData/WD~fidelity,2119376]]'
-  - '[[_Standards/WikiData/WD~wireless_communication,249]]'
+- '[[_Standards/WikiData/WD~fidelity,2119376]]'
+- '[[_Standards/WikiData/WD~wireless_communication,249]]'
 opposite_of: '[[_Standards/WikiData/WD~No_Wi_Fi,98076043]]'
 has_part_s_: '[[_Standards/WikiData/WD~Wi_Fi_jamming,124527554]]'
 main_Wikidata_property: Wi-Fi access
 has_use: '[[_Standards/WikiData/WD~wireless_network,11375]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~wireless_network,11375]]'
-  - '[[_Standards/WikiData/WD~computer_interface,23808]]'
+- '[[_Standards/WikiData/WD~wireless_network,11375]]'
+- '[[_Standards/WikiData/WD~computer_interface,23808]]'
 Commons_category: Wi-Fi
 GitHub_topic: wifi
 Uniform_Resource_Identifier_Scheme: wifi
@@ -33,8 +60,46 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wi-Fi.svg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/WIFI%20icon.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WLAN%20PCI%20Card%20cleaned.png
 Stack_Exchange_tag: https://stackoverflow.com/tags/wifi
+dv_has_:
+  name_:
+    ar: واي فاي
+    arq: وي-في
+    arz: واى فاى
+    as: ৱাই-ফাই
+    ast: Wifi
+    bn: ওয়াই-ফাই
+    bo: སྐུད་མེད་དྲ་བ།
+    ceb: wayfay
+    ckb: وای-فای
+    en: Wi-Fi
+    et: Wi-Fi
+    fa: وای-فای
+    guc: Wai-Pai
+    hi: वाई-फ़ाई
+    kn: ವೈ-ಫೈ
+    ko: 와이파이
+    lo: ວາຍຟາຍ
+    ml: വൈ -ഫൈ
+    mn: Wi-fi
+    mr: वाय-फाय
+    mul: Wi-Fi
+    ne: वाइ-फाई
+    new: वाइ-फाइ
+    or: ୱାଇ-ଫାଇ
+    pa: ਵਾਈ-ਫ਼ਾਈ
+    pl: wi-fi
+    pnb: وائی-فائی
+    si: වයි-ෆයි
+    sr: Вај-фај
+    ta: ஒய்-ஃபை
+    te: వై-ఫై
+    tet: Wifi
+    th: ไวไฟ
+    tk: Wi-fi tehnologiýasy
+    tr: vayfay
+    ur: وائی-فائی
+    war: Wi-fi
 ---
-
 # [[Wi-Fi]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wi-Fi,29643|WD~Wi-Fi,29643]]  

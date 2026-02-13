@@ -1,9 +1,108 @@
 ---
 aliases:
-  - Umami
-  - herzhaft
-  - Savoriness
+- gurih
+- herzhaft
+- sabor umami
+- Savoriness
+- Umami
+- Umamo
+- Çêja umamî
+- ουμάμι
+- умамі
+- Умами
+- Умами вкус
+- Ումամի
+- أومامي
+- اومامى
+- اومامی
+- उमामी
+- উমামি
+- உமாமி
+- ഉമാമി
+- อุมะมิ
+- うま味
+- 鮮
+- 鮮味
+- 鲜味
+- 鲜味道
+- 감칠맛
 has_id_wikidata: Q202637
+dv_has_:
+  name_:
+    acm: أومامي
+    af: umami
+    apc: أومامي
+    ar: أومامي
+    arz: اومامى
+    ast: umami
+    bar: Umami
+    bcl: Umami
+    be-tarask: умамі
+    bg: Умами
+    bn: উমামি
+    ca: umami
+    cs: Umami
+    da: umami
+    de: Umami
+    de-ch: Umami
+    el: ουμάμι
+    en: umami
+    en-ca: Umami
+    en-gb: umami
+    eo: Umamo
+    es: sabor umami
+    eu: umami
+    fa: اومامی
+    fi: Umami
+    fr: umami
+    ga: umami
+    gl: Sabor umami
+    hi: उमामी
+    hu: umami
+    hy: Ումամի
+    id: gurih
+    is: Umami
+    it: umami
+    ja: うま味
+    jv: Gurih
+    ko: 감칠맛
+    ku: Çêja umamî
+    li: Umami
+    lt: Umami
+    lv: umami
+    mk: Умами вкус
+    ml: ഉമാമി
+    ms: gurih
+    nb: umami
+    nl: umami
+    oc: Umami
+    pl: umami
+    pt: umami
+    pt-br: umami
+    ro: Umami
+    ru: Умами
+    sh: Umami
+    sk: Umami
+    sl: umami
+    sr: Umami
+    sr-ec: Умами
+    sr-el: Umami
+    sv: umami
+    ta: உமாமி
+    th: อุมะมิ
+    tr: Umami
+    uk: Умамі
+    vi: Umami
+    war: Umami
+    wuu: 鲜味道
+    yue: 鮮
+    zh: 鮮味
+    zh-cn: 鲜味
+    zh-hans: 鲜味
+    zh-hant: 鮮味
+    zh-hk: 鮮味
+    zh-sg: 鲜味
+    zh-tw: 鮮味
 ---
 ## #has_/text_of_/abstract 
 

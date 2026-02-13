@@ -1,8 +1,119 @@
 ---
 has_id_wikidata: Q274520
+dv_has_:
+  name_:
+    ar: قبر اليراعات
+    az: Atəşböcəklərinin məzarı
+    bcl: Lubungan kan mga aninipot
+    be: Магіла светлячкоў
+    bg: Гробът на светулките
+    bn: গ্রেভ অফ দ্য ফায়ারফ্লাইস
+    ca: La Tomba de les Lluernes
+    ckb: گۆڕی مێرووە درەوشاوەکان
+    cs: Hrob světlušek
+    cy: Hotaru no Haka
+    da: Grave of the Fireflies
+    de: Die letzten Glühwürmchen
+    en: Grave of the Fireflies
+    en-ca: Grave of the Fireflies
+    en-gb: Grave of the Fireflies
+    eo: Hotaru no haka
+    es: La tumba de las luciérnagas
+    eu: Hotaru no Haka
+    fa: مزار کرمهای شبتاب
+    fi: Tulikärpästen hauta
+    fr: Le Tombeau des lucioles
+    gl: Hotaru no haka
+    he: קבר הגחליליות
+    hr: Groblje krijesnica
+    hu: Szentjánosbogarak sírja
+    hy: Լուսատտիկների գերեզման
+    id: Grave of the Fireflies
+    it: Una tomba per le lucciole
+    ja: 火垂るの墓
+    ka: ციცინათელების საფლავი
+    km: ផ្នូរអំពិលអំពែក
+    ko: 반딧불의 묘
+    ky: Жаркырак коңуздардын бейити
+    lt: Jonvabalių kapas
+    mk: Гробот на светулките
+    ml: ഗ്രേവ് ഓഫ് ദി ഫയർഫ്ലൈയ്സ്
+    ms: Filem Grave of the Fireflies
+    nan: Hóe-kim-ko͘ ê Thióng-á-po͘
+    nb: Grave of the Fireflies
+    nl: Grave of the Fireflies
+    pl: Grobowiec świetlików
+    pt: Hotaru no Haka
+    pt-br: Hotaru no Haka
+    ro: Mormântul licuricilor
+    ru: Могила светлячков
+    sc: Hotaru no Haka
+    sh: Grave of the Fireflies
+    sr: Гробље свитаца
+    sr-ec: Гробље свитаца
+    sr-el: Groblje svitaca
+    sv: Eldflugornas grav
+    th: สุสานหิ่งห้อย
+    tr: Ateşböceklerinin Mezarı
+    uk: Могила світлячків
+    uz: Grave of the Fireflies
+    vi: Mộ đom đóm
+    yue: 再見螢火蟲
+    zh: 螢火蟲之墓
+    zh-cn: 萤火虫之墓
+    zh-hans: 萤火虫之墓
+    zh-hant: 螢火蟲之墓
+    zh-hk: 再見螢火蟲
+    zh-mo: 再見螢火蟲
+    zh-my: 萤火虫之墓
+    zh-sg: 萤火虫之墓
+    zh-tw: 螢火蟲之墓
+aliases:
+- Ateşböceklerinin Mezarı
+- Atəşböcəklərinin məzarı
+- Die letzten Glühwürmchen
+- Eldflugornas grav
+- Filem Grave of the Fireflies
+- Grave of the Fireflies
+- Groblje krijesnica
+- Groblje svitaca
+- Grobowiec świetlików
+- Hotaru no Haka
+- Hrob světlušek
+- Hóe-kim-ko͘ ê Thióng-á-po͘
+- Jonvabalių kapas
+- La Tomba de les Lluernes
+- La tumba de las luciérnagas
+- Le Tombeau des lucioles
+- Lubungan kan mga aninipot
+- Mormântul licuricilor
+- Mộ đom đóm
+- Szentjánosbogarak sírja
+- Tulikärpästen hauta
+- Una tomba per le lucciole
+- Гробље свитаца
+- Гробот на светулките
+- Гробът на светулките
+- Жаркырак коңуздардын бейити
+- Магіла светлячкоў
+- Могила світлячків
+- Могила светлячков
+- Լուսատտիկների գերեզման
+- קבר הגחליליות
+- قبر اليراعات
+- مزار کرمهای شبتاب
+- گۆڕی مێرووە درەوشاوەکان
+- গ্রেভ অফ দ্য ফায়ারফ্লাইস
+- ഗ്രേവ് ഓഫ് ദി ഫയർഫ്ലൈയ്സ്
+- สุสานหิ่งห้อย
+- ციცინათელების საფლავი
+- ផ្នូរអំពិលអំពែក
+- 再見螢火蟲
+- 火垂るの墓
+- 萤火虫之墓
+- 螢火蟲之墓
+- 반딧불의 묘
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Grave of the Fireflies (Japanese: 火垂るの墓, Hepburn: Hotaru no Haka) 

@@ -1,10 +1,445 @@
 ---
 aliases:
-  - Ovis
+- aita
+- alẽ
+- amɛ̈lbaai
+- anneerü
+- ardi
+- arọọn̄
+- atụrụ
+- avis
+- avės
+- bakro
+- bedots
+- bherra
+- biescia
+- Biri-biri
+- bric
+- bubiri
+- bédo
+- canhona
+- caora
+- crastu
+- cừu
+- dafad
+- dañvad
+- dele
+- dhumbhâ
+- dibé
+- dimeme
+- domaća ovca
+- domba
+- domjaca wowca
+- domôcô òwca
+- dìmi᷆
+- får
+- fèja
+- Hausschaf
+- heu
+- hipi
+- hoolaa
+- hwayi
+- ichcatl
+- ido
+- imvu
+- iwija
+- Jip
+- juh
+- karnero
+- kavır
+- keyrrey
+- kondoo-kaya
+- kosa
+- lambaz
+- lammas
+- lɛngbɔ
+- mamoe
+- martcenic
+- mbelele
+- melle
+- mih
+- mit
+- mièn-yòng
+- mouton
+- mukoku
+- mutono
+- mémé
+- mî-iûⁿ
+- nagħġa
+- namulol
+- oai
+- oaie domestică
+- odwan
+- ondry
+- ovca
+- ovca domáca
+- ovce domácí
+- ove
+- ovea
+- ovecha
+- oveja
+- ovelha
+- ovella
+- oveya
+- Ovis
+- Ovis aries
+- Ovis orientalis aries
+- owca domowa
+- pecora
+- pecura
+- peego/
+- peosgo
+- piègora
+- piɛɣu
+- pɛ'og
+- qoy
+- qoyun
+- qoʻy
+- rago
+- saga
+- sau
+- sauðfé
+- sauʒʒ
+- savzâ
+- Schaap
+- Schoap
+- Schof
+- scēap
+- seyður
+- sheep
+- Shof
+- sizi
+- Sjaop
+- Sjip
+- skaap
+- skoap
+- sávza
+- sïrve
+- tamfår
+- tamsau
+- tupa
+- ufisa
+- uwiha
+- walitaba
+- wedhus gembel
+- yegusha
+- zonseap
+- àgùtàn
+- ústaģ
+- ŝafo
+- πρόβατο
+- авечка
+- авечка свойская
+- баля
+- вівця
+- гӯсфанд
+- кой
+- овца
+- реве
+- сарык
+- сурăх
+- тта
+- уча
+- фыс
+- хеб
+- хой
+- хонин
+- хонь
+- хөн
+- чахъу
+- ыж
+- қой
+- һарыҡ
+- ոչխար
+- כבש הבית
+- שאף
+- بھیڈ
+- بھیڑ
+- بھیݙ
+- خروف
+- رڍ
+- سلاله خرفان
+- كبش
+- مەڕ
+- کَٹھ
+- گسفن
+- گوسفند
+- گۊسۊند
+- ߛߊ߱
+- फइ
+- भेड़
+- भेडा
+- मेंढी
+- ভেড়া
+- ਭੇਡ
+- ମେଣ୍ଢା
+- செம்மறியாடு
+- గొర్రె
+- ಕುರಿ
+- ചെമ്മരിയാട്
+- බැටළුවා
+- แกะ
+- ལུག
+- မေႈ
+- သိုး
+- შინაური ცხვარი
+- በግ
+- ᡥᠣᠨᡳᠨ
+- ᥛᥥᥲ
+- ᱵᱷᱤᱰᱤ
+- ⵉⵀⵔⴰⵢ
+- ヒツジ
+- 绵羊
+- 羊
+- 양
+- "\U0001033B\U00010330\U0001033C\U00010331"
 has_id_wikidata: Q7368
 title: Ovis
+dv_has_:
+  name_:
+    ace: bubiri
+    af: skaap
+    am: በግ
+    an: Ovis orientalis aries
+    ang: scēap
+    ann: arọọn̄
+    anp: भेड़
+    ar: خروف
+    arn: ufisa
+    ary: كبش
+    arz: سلاله خرفان
+    as: ভেড়া
+    ast: oveya
+    atj: martcenic
+    av: чахъу
+    avk: namulol
+    awa: भेडा
+    ay: iwija
+    az: qoyun
+    ba: һарыҡ
+    ban: domba
+    bar: Schof
+    be: авечка свойская
+    be-tarask: авечка
+    bg: овца
+    bm: saga
+    bn: ভেড়া
+    bo: ལུག
+    br: dañvad
+    brh: melle
+    bs: ovca
+    bxr: хонин
+    ca: ovella
+    ce: ústaģ
+    ceb: Ovis aries
+    chy: kosa
+    ckb: مەڕ
+    co: pecura
+    crh: qoy
+    cs: ovce domácí
+    csb: domôcô òwca
+    cv: сурăх
+    cy: dafad
+    da: får
+    dag: piɛɣu
+    de: Hausschaf
+    de-ch: Hausschaf
+    din: amɛ̈lbaai
+    diq: kavır
+    ee: alẽ
+    el: πρόβατο
+    eml: bric
+    en: sheep
+    en-ca: sheep
+    en-gb: sheep
+    en-us: sheep
+    eo: ŝafo
+    es: oveja
+    et: lammas
+    eu: ardi
+    ext: Ovis orientalis aries
+    fa: گوسفند
+    fi: lammas
+    fo: seyður
+    fon: lɛngbɔ
+    fr: mouton
+    frr: Sjip
+    ga: caora
+    gan: 羊
+    gd: caora
+    gl: ovella
+    glk: گۊسۊند
+    gn: ovecha
+    got: "\U0001033B\U00010330\U0001033C\U00010331"
+    gsw: Hausschaf
+    guc: anneerü
+    gur: peego/
+    gv: keyrrey
+    ha: rago
+    hak: mièn-yòng
+    he: כבש הבית
+    hi: भेड़
+    hif: bherra
+    hr: domaća ovca
+    hsb: domjaca wowca
+    ht: mouton
+    hu: juh
+    hy: ոչխար
+    hyw: ոչխար
+    ia: ove
+    id: domba
+    ig: atụrụ
+    ilo: karnero
+    io: mutono
+    is: sauðfé
+    it: pecora
+    ja: ヒツジ
+    jv: wedhus gembel
+    ka: შინაური ცხვარი
+    kbp: heu
+    kcg: zonseap
+    kg: dimeme
+    kge: Biri-biri
+    kk: қой
+    kn: ಕುರಿ
+    ko: 양
+    koi: баля
+    ks: کَٹھ
+    ksh: Shof
+    ku: mih
+    kus: pɛ'og
+    ky: кой
+    la: ovis
+    lad: oveja
+    lb: Schof
+    lbe: тта
+    lez: хеб
+    lfn: ovea
+    li: Sjaop
+    lij: Ovis Aries
+    lld: biescia
+    lmo: Ovis orientalis aries
+    ln: mémé
+    lt: avis
+    lua: mukoku
+    lv: aita
+    lzh: 羊
+    mad: dhumbhâ
+    mcn: dìmi᷆
+    mdf: уча
+    mg: ondry
+    mi: hipi
+    min: domba
+    mk: овца
+    ml: ചെമ്മരിയാട്
+    mn: хонь
+    mnc: ᡥᠣᠨᡳᠨ
+    mos: peosgo
+    mr: मेंढी
+    ms: biri-biri
+    mt: nagħġa
+    mul: Ovis aries
+    mwl: canhona
+    my: သိုး
+    myv: реве
+    mzn: گسفن
+    nah: ichcatl
+    nan: mî-iûⁿ
+    nb: tamsau
+    nds: Schaap
+    nds-nl: skoap
+    ne: भेडा
+    new: फइ
+    nl: schaap
+    nn: sau
+    nqo: ߛߊ߱
+    nrm: mouton
+    nv: dibé
+    oc: Ovis aries
+    om: hoolaa
+    or: ମେଣ୍ଢା
+    os: фыс
+    pa: ਭੇਡ
+    pam: tupa
+    pcd: bédo
+    pdc: sheep
+    pl: owca domowa
+    pms: fèja
+    pnb: بھیڈ
+    pt: ovelha
+    pt-br: ovelha
+    qu: uwiha
+    rmf: bakro
+    ro: oaie domestică
+    ru: овца
+    rup: oai
+    sah: хой
+    sat: ᱵᱷᱤᱰᱤ
+    sc: Ovis aries
+    scn: crastu
+    sco: sheep
+    sd: رڍ
+    se: sávza
+    sg: walitaba
+    sgs: avės
+    sh: ovca
+    shn: မေႈ
+    si: බැටළුවා
+    sk: ovca domáca
+    skr: بھیݙ
+    sl: ovca
+    sm: mamoe
+    sma: sïrve
+    smn: savzâ
+    sms: sauʒʒ
+    sn: hwayi
+    so: ido
+    sq: dele
+    sr: овца
+    sr-ec: овца
+    su: domba
+    sv: tamfår
+    sw: kondoo-kaya
+    szy: sizi
+    ta: செம்மறியாடு
+    tay: mit
+    tcy: ಕುರಿ
+    tdd: ᥛᥥᥲ
+    te: గొర్రె
+    tg: гӯсфанд
+    th: แกะ
+    tl: tupa
+    tr: Ovis aries
+    tt: сарык
+    tum: mbelele
+    tw: odwan
+    tyv: хой
+    udm: ыж
+    uk: вівця
+    ur: بھیڑ
+    uz: qoʻy
+    vec: piègora
+    vep: lambaz
+    vi: cừu
+    vls: Schoap
+    vo: Jip
+    vro: lammas
+    wa: bedots
+    war: karnero
+    wuu: 绵羊
+    xal: хөн
+    xh: yegusha
+    yi: שאף
+    yo: àgùtàn
+    yue: 羊
+    zgh: ⵉⵀⵔⴰⵢ
+    zh: 羊
+    zh-cn: 羊
+    zh-hans: 羊
+    zh-hant: 羊
+    zh-hk: 羊
+    zu: imvu
 ---
-
 # *Ovis* 
 
 [[Ovis/Ovis_canadensis.jpg]]

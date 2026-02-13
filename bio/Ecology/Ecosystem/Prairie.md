@@ -1,23 +1,151 @@
 ---
 aliases:
+- büyük çayırlık
+- Larredi
+- Parang
+- pradaria
+- Praderas de Norteamérica
+- praderia
+- Praderíes de Norteamérica
+- Prairi
+- prairie
+- Prataria
+- Prateria
+- Prateria nordamericana
+- Prato
+- Preeria
+- Preri
+- preria
+- Prerie
+- Prerija
+- prerio
+- Prärie
+- Prærie
+- Prærien
+- préri
+- préria
+- prérie
+- Prêrie
+- Prêrje
+- Prērija
+- đồng cỏ
+- Λειμώνας
+- Прерія
+- Прери
+- Прерија
+- прерия
+- прэрыя
+- պրերիաներ
+- פרריה
+- سهوب البراري
+- مرغزار
+- प्रेरी
+- প্রেইরি
+- பிரெய்ரி புல்வெளிகள்
+- ಪ್ರೇರಿ
+- പ്രയറി
+- แพรรี
+- ပရေရီမြက်ခင်းပြင်
+- プレーリー
+- 大草原
+- 프레리
 has_id_wikidata: Q194281
-subclass_of: "[[_Standards/WikiData/WD~temperate_grasslands,_savannas,_and_shrublands,150071]]"
+subclass_of: '[[_Standards/WikiData/WD~temperate_grasslands,_savannas,_and_shrublands,150071]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Prairie,339732]]"
-  - "[[_Standards/WikiData/WD~meadow,7777019]]"
+- '[[_Standards/WikiData/WD~Prairie,339732]]'
+- '[[_Standards/WikiData/WD~meadow,7777019]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 Commons_category: Prairie
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Knotbomenrij%20als%20voormalige%20perceelsrandbegroeiing%20-%20228985%20-%20onroerenderfgoed.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000260
+dv_has_:
+  name_:
+    af: Prêrie
+    ar: سهوب البراري
+    ast: Praderíes de Norteamérica
+    az: Preri
+    be: прэрыя
+    be-tarask: прэрыя
+    bg: Прерия
+    bn: প্রেইরি
+    bs: Prerija
+    ca: praderia
+    cs: prérie
+    da: Prærie
+    de: Prärie
+    el: Λειμώνας
+    en: prairie
+    en-ca: Prairie
+    en-gb: Prairie
+    eo: prerio
+    es: Praderas de Norteamérica
+    et: Preeria
+    eu: Larredi
+    fa: مرغزار
+    fi: preeria
+    fr: prairie
+    fy: Prêrje
+    he: פרריה
+    hi: प्रेरी
+    hr: Prerija
+    ht: Preri
+    hu: préri
+    hy: պրերիաներ
+    ia: Prateria
+    id: Prairi
+    inh: Прери
+    io: Prato
+    it: Prateria nordamericana
+    ja: プレーリー
+    kk: Прерия
+    kn: ಪ್ರೇರಿ
+    ko: 프레리
+    ky: Прерия
+    la: Prataria
+    lt: Prerija
+    lv: Prērija
+    mk: Прерија
+    ml: പ്രയറി
+    ms: prairie
+    my: ပရေရီမြက်ခင်းပြင်
+    nb: Prærien
+    nl: prairie
+    nn: Prærie
+    pl: preria
+    pt: pradaria
+    pt-br: pradaria
+    ro: Prerie
+    ru: прерия
+    sh: Prerija
+    sk: préria
+    sl: prerija
+    sr: Прерија
+    sr-ec: Прерија
+    sr-el: Prerija
+    sv: Prärie
+    ta: பிரெய்ரி புல்வெளிகள்
+    th: แพรรี
+    tl: Parang
+    tr: büyük çayırlık
+    uk: Прерія
+    vi: đồng cỏ
+    wuu: 大草原
+    yue: 大草原
+    zh: 大草原
+    zh-cn: 大草原
+    zh-hans: 大草原
+    zh-hant: 大草原
+    zh-hk: 大草原
+    zh-sg: 大草原
+    zh-tw: 大草原
 ---
-
 # [[Prairie]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Prairie,194281|WD~Prairie,194281]]  

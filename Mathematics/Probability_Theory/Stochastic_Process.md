@@ -1,36 +1,140 @@
 ---
 aliases:
-  - stochastic or random process
-  - Stochastic_Process
-  - Stochastic Process
+- Juhuslik protsess
+- náhodný proces
+- Proces stochastyczny
+- proces stohastic
+- Proceset stokastike
+- proceso estocástico
+- processo estocástico
+- processo stocastico
+- processus stochastique
+- procesu estocásticu
+- procés estocàstic
+- Proses stokastik
+- Prosés stokastik
+- Prozesu estokastiko
+- próiseas randamach
+- Quá trình ngẫu nhiên
+- stochastic or random process
+- Stochastic Process
+- Stochastický proces
+- Stochastic_Process
+- stochastinis procesas
+- stochastisch proces
+- stochastischer Prozess
+- Stogastiese proses
+- stohastični proces
+- stokasta procezo
+- Stokastik süreç
+- stokastinen prosessi
+- stokastisk process
+- stokastisk prosess
+- sztochasztikus folyamat
+- tilfældig proces
+- στοχαστική διαδικασία
+- випадковий процес
+- выпадковы працэс
+- Кездейсоқ процесс
+- Случаен процес
+- случайный процесс
+- стохастички процес
+- Պատահական պրոցես
+- תהליך סטוכסטי
+- عملية تصادفية
+- فرایند تصادفی
+- प्रसम्भाव्य प्रक्रम
+- দৈব প্রক্রিয়া
+- ക്രമമില്ലാപ്രക്രിയ
+- กระบวนการเฟ้นสุ่ม
+- 確率過程
+- 随机过程
+- 隨機過程
+- 확률 과정
 has_id_wikidata: Q176737
 has_characteristic: '[[_Standards/WikiData/WD~randomness,176640]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~mathematical_object,246672]]'
-  - '[[_Standards/WikiData/WD~indexed_family,856215]]'
+- '[[_Standards/WikiData/WD~mathematical_object,246672]]'
+- '[[_Standards/WikiData/WD~indexed_family,856215]]'
 part_of: '[[_Standards/WikiData/WD~stochastic,1071239]]'
 facet_of: '[[_Standards/WikiData/WD~probability_theory,5862903]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Stochastic_processes,15634422]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-  - '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 ACM_Classification_Code_2012_: 10003700
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BMonSphere.jpg
 Stack_Exchange_tag: https://mathoverflow.net/tags/stochastic-processes
 UMLS_CUI: C0038347
 MeSH_tree_code:
-  - E05.318.740.996
-  - G17.830
-  - N05.715.360.750.770
-  - N06.850.520.830.996
+- E05.318.740.996
+- G17.830
+- N05.715.360.750.770
+- N06.850.520.830.996
 Wolfram_Language_entity_code: Entity["Concept", "StochasticProcess::c4479"]
 Commons_category: Stochastic processes
 Dewey_Decimal_Classification: 519.23
+dv_has_:
+  name_:
+    af: Stogastiese proses
+    ar: عملية تصادفية
+    ast: procesu estocásticu
+    be: выпадковы працэс
+    be-tarask: выпадковы працэс
+    bg: Случаен процес
+    bn: দৈব প্রক্রিয়া
+    ca: procés estocàstic
+    cs: náhodný proces
+    da: tilfældig proces
+    de: stochastischer Prozess
+    el: στοχαστική διαδικασία
+    en: stochastic process
+    eo: stokasta procezo
+    es: proceso estocástico
+    et: Juhuslik protsess
+    eu: Prozesu estokastiko
+    fa: فرایند تصادفی
+    fi: stokastinen prosessi
+    fr: processus stochastique
+    ga: próiseas randamach
+    gl: Proceso estocástico
+    he: תהליך סטוכסטי
+    hi: प्रसम्भाव्य प्रक्रम
+    hu: sztochasztikus folyamat
+    hy: Պատահական պրոցես
+    id: Proses stokastik
+    it: processo stocastico
+    ja: 確率過程
+    kk: Кездейсоқ процесс
+    ko: 확률 과정
+    lt: stochastinis procesas
+    mk: случаен процес
+    ml: ക്രമമില്ലാപ്രക്രിയ
+    ms: Proses stokastik
+    nb: stokastisk prosess
+    nl: stochastisch proces
+    nn: stokastisk prosess
+    pl: Proces stochastyczny
+    pt: processo estocástico
+    pt-br: processo estocástico
+    ro: proces stohastic
+    ru: случайный процесс
+    sk: Stochastický proces
+    sl: stohastični proces
+    sq: Proceset stokastike
+    sr: стохастички процес
+    su: Prosés stokastik
+    sv: stokastisk process
+    th: กระบวนการเฟ้นสุ่ม
+    tr: Stokastik süreç
+    uk: випадковий процес
+    vi: Quá trình ngẫu nhiên
+    yue: 隨機過程
+    zh: 随机过程
 ---
-
 # [[Stochastic_Process]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stochastic_process,176737|WD~Stochastic_process,176737]]  

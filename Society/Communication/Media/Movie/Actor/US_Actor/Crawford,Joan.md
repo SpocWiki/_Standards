@@ -1,36 +1,68 @@
 ---
 aliases:
-  - Joan_Crawford
-  - Joan Crawford
-  - Crawford
-  - Lucille Fay LeSueur
-  - Crawford,Joan
+- Coan Krauford
+- Crawford
+- Crawford,Joan
+- Džoana Kroforda
+- Ioanna Crawford
+- Joan Crawford
+- Joan Crawfordová
+- Joan_Crawford
+- Lucille Fay LeSueur
+- Τζόαν Κρόφορντ
+- Џоан Крафорд
+- Џоун Крафорд
+- Джаан Кроўфард
+- Джоан Кроуфорд
+- Джоан Крофорд
+- Ҷоан Крауфорд
+- Ջոան Քրոուֆորդ
+- ג'ואן קרופורד
+- جوآن کرافورڈ
+- جوآن کراوفورد
+- جوان كراوفورد
+- جوان کراوفۆرد
+- जॉन क्रॉफोर्ड
+- জোন ক্রফোর্ড
+- ਜੋਆਨ ਕਰਾਫ਼ੋਰਡ
+- જોન ક્રોફોર્ડ
+- ஜோன் கிராபர்ட்
+- జోన్ క్రాఫోర్డ్
+- ജോവാൻ ക്രാഫോർഡ്
+- โจน ครอว์ฟอร์ด
+- ჯოან კროუფორდი
+- ジョーン・クロフォード
+- 琼·克劳馥
+- 瓊·克勞馥
+- 鍾歌羅馥
+- 钟·歌罗馥
+- 조앤 크로퍼드
 has_id_wikidata: Q40475
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 employer:
-  - '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
-  - '[[_Standards/WikiData/WD~Metro_Goldwyn_Mayer,179200]]'
+- '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
+- '[[_Standards/WikiData/WD~Metro_Goldwyn_Mayer,179200]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
-  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Franchot_Tone,457229]]'
-  - '[[_Standards/WikiData/WD~Douglas_Fairbanks_Jr.,528428]]'
-  - '[[_Standards/WikiData/WD~Phillip_Terry,1846029]]'
-  - '[[_Standards/WikiData/WD~Alfred_Steele,4357728]]'
+- '[[_Standards/WikiData/WD~Franchot_Tone,457229]]'
+- '[[_Standards/WikiData/WD~Douglas_Fairbanks_Jr.,528428]]'
+- '[[_Standards/WikiData/WD~Phillip_Terry,1846029]]'
+- '[[_Standards/WikiData/WD~Alfred_Steele,4357728]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christian_Science,624477]]'
 place_of_burial: '[[_Standards/WikiData/WD~Ferncliff_Cemetery,1771319]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 occupation:
-  - '[[_Standards/WikiData/WD~model,4610556]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~model,4610556]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 student_of: '[[_Standards/WikiData/WD~Estelle_Liebling,5400941]]'
 sibling: '[[_Standards/WikiData/WD~Hal_LeSueur,5640835]]'
 filmography: '[[_Standards/WikiData/WD~Joan_Crawford_filmography,6204975]]'
@@ -42,8 +74,8 @@ genre: '[[_Standards/WikiData/WD~Western,21590660]]'
 father: '[[_Standards/WikiData/WD~Thomas_Le_Sueur,75758630]]'
 mother: '[[_Standards/WikiData/WD~Anna_Johnson,75758633]]'
 relative:
-  - '[[_Standards/WikiData/WD~Cathy_Crawford,75758653]]'
-  - '[[_Standards/WikiData/WD~Cindy_Crawford,75758662]]'
+- '[[_Standards/WikiData/WD~Cathy_Crawford,75758653]]'
+- '[[_Standards/WikiData/WD~Cindy_Crawford,75758662]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 place_of_birth: '[[_Standards/WikiData/WD~San_Antonio,975]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -64,14 +96,155 @@ Plex_person_key: 5d776830f59e58002189825f
 birth_name: Lucille Fay LeSueur
 work_period_start_: 1925-01-01T00:00:00Z
 date_of_birth:
-  - 1906-03-23T00:00:00Z
-  - 1905-03-23T00:00:00Z
+- 1906-03-23T00:00:00Z
+- 1905-03-23T00:00:00Z
 Wolfram_Language_entity_code: Entity["Person", "JoanCrawford::6g8gf"]
 subreddit: JoanCrawford
 Libris_URI: wt7996nf2sp80sz
 name_in_native_language: Joan Crawford
+dv_has_:
+  name_:
+    af: Joan Crawford
+    an: Joan Crawford
+    ar: جوان كراوفورد
+    arz: جوان كراوفورد
+    ast: Joan Crawford
+    ay: Joan Crawford
+    az: Coan Krauford
+    azb: جوآن کراوفورد
+    ba: Джоан Кроуфорд
+    be: Джаан Кроўфард
+    be-tarask: Джаан Кроўфард
+    bg: Джоан Крофорд
+    bi: Joan Crawford
+    bm: Joan Crawford
+    bn: জোন ক্রফোর্ড
+    br: Joan Crawford
+    bs: Joan Crawford
+    ca: Joan Crawford
+    ckb: جوان کراوفۆرد
+    co: Joan Crawford
+    cs: Joan Crawfordová
+    cy: Joan Crawford
+    da: Joan Crawford
+    de: Joan Crawford
+    de-at: Joan Crawford
+    de-ch: Joan Crawford
+    diq: Joan Crawford
+    el: Τζόαν Κρόφορντ
+    en: Joan Crawford
+    en-ca: Joan Crawford
+    en-gb: Joan Crawford
+    en-us: Joan Crawford
+    eo: Joan Crawford
+    es: Joan Crawford
+    et: Joan Crawford
+    eu: Joan Crawford
+    fa: جوآن کراوفورد
+    fi: Joan Crawford
+    fo: Joan Crawford
+    fr: Joan Crawford
+    frc: Joan Crawford
+    frp: Joan Crawford
+    fur: Joan Crawford
+    ga: Joan Crawford
+    gd: Joan Crawford
+    gl: Joan Crawford
+    gsw: Joan Crawford
+    gu: જોન ક્રોફોર્ડ
+    guw: Joan Crawford
+    he: ג'ואן קרופורד
+    hi: जॉन क्रॉफोर्ड
+    hif: Joan Crawford
+    hr: Joan Crawford
+    hu: Joan Crawford
+    hy: Ջոան Քրոուֆորդ
+    ia: Joan Crawford
+    id: Joan Crawford
+    ie: Joan Crawford
+    ig: Joan Crawford
+    ilo: Joan Crawford
+    io: Joan Crawford
+    is: Joan Crawford
+    it: Joan Crawford
+    ja: ジョーン・クロフォード
+    jam: Joan Crawford
+    ka: ჯოან კროუფორდი
+    kab: Joan Crawford
+    kg: Joan Crawford
+    ko: 조앤 크로퍼드
+    la: Ioanna Crawford
+    lb: Joan Crawford
+    li: Joan Crawford
+    lij: Joan Crawford
+    lt: Joan Crawford
+    lv: Džoana Kroforda
+    mg: Joan Crawford
+    min: Joan Crawford
+    mk: Џоан Крафорд
+    ml: ജോവാൻ ക്രാഫോർഡ്
+    ms: Joan Crawford
+    mul: Joan Crawford
+    nan: Joan Crawford
+    nap: Joan Crawford
+    nb: Joan Crawford
+    nds: Joan Crawford
+    nds-nl: Joan Crawford
+    nl: Joan Crawford
+    nn: Joan Crawford
+    nrm: Joan Crawford
+    oc: Joan Crawford
+    pa: ਜੋਆਨ ਕਰਾਫ਼ੋਰਡ
+    pap: Joan Crawford
+    pcd: Joan Crawford
+    pl: Joan Crawford
+    pms: Joan Crawford
+    prg: Joan Crawford
+    pt: Joan Crawford
+    pt-br: Joan Crawford
+    qu: Joan Crawford
+    rgn: Joan Crawford
+    rm: Joan Crawford
+    ro: Joan Crawford
+    ru: Джоан Кроуфорд
+    sc: Joan Crawford
+    scn: Joan Crawford
+    sco: Joan Crawford
+    sh: Joan Crawford
+    sk: Joan Crawford
+    skr: جوآن کرافورڈ
+    sl: Joan Crawford
+    sq: Joan Crawford
+    sr: Џоун Крафорд
+    sr-el: Joan Crawford
+    sv: Joan Crawford
+    sw: Joan Crawford
+    ta: ஜோன் கிராபர்ட்
+    te: జోన్ క్రాఫోర్డ్
+    tg: Ҷоан Крауфорд
+    th: โจน ครอว์ฟอร์ด
+    tl: Joan Crawford
+    tr: Joan Crawford
+    tt: Джоан Кроуфорд
+    uk: Джоан Крофорд
+    ur: جوآن کرافورڈ
+    uz: Joan Crawford
+    vec: Joan Crawford
+    vi: Joan Crawford
+    vls: Joan Crawford
+    vmf: Joan Crawford
+    vo: Joan Crawford
+    wa: Joan Crawford
+    war: Joan Crawford
+    wo: Joan Crawford
+    wuu: 琼·克劳馥
+    xmf: ჯოან კროუფორდი
+    yo: Joan Crawford
+    yue: 鍾歌羅馥
+    zh: 瓊·克勞馥
+    zh-sg: 钟·歌罗馥
+    zu: Joan Crawford
 ---
-
 # [[Crawford,Joan]] 
 
 #is_/same_as :: [[WD~Joan_Crawford,40475]] 

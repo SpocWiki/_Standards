@@ -1,28 +1,97 @@
 ---
 aliases:
-  - Unpaarhufer
-  - Perissodactyla
-  - odd-toed ungulate
-  - Odd-toed_Ungulate
-  - perisodáctilos
-  - hovdyr
-  - lihoprsti kopitarji
+- Barlubekdunol (Perissodactyla)
+- Buron makuku gasal
+- bộ Guốc lẻ
+- Ch'ulla ruk'anayuq
+- Hewan berkuku ganjil
+- houvako kriatuuri
+- hovdyr
+- kabjalised
+- kavioeläimet
+- Kopitari
+- Kéwan kuku ganjil
+- lichokopytníci
+- lihoprsti kopitarji
+- Neparhufuloj
+- Neparnoprstaši
+- Neporakanopiai
+- Nepárnokopytníky
+- Nepārnadži
+- nieparzystokopytne
+- odd-taed ungulate
+- odd-toed ungulate
+- Odd-toed_Ungulate
+- Oeneevnhoevign
+- onevenhoevigen
+- Oonevehovege
+- Perisodaktiled
+- Perisodaktilo
+- Perisodatilo
+- perisodáctilos
+- Perissodactyla
+- perissodactylos
+- perissodàctils
+- perissodáctilos
+- Pysã namomokõiva
+- páratlanujjú patások
+- Tek toynaklılar
+- Tisuffenza
+- Toq tuyoqlilar
+- Təkdırnaqlılar
+- uddatåiga hovdjur
+- Unpaarhufer
+- Uparrettåede hovdyr
+- Æнæкъайсæфтæгджынтæ
+- Ünpaartuanet Kloksdiarten
+- Περισσοδάκτυλα
+- Бүтэй туйахтаахтар
+- Вожтöмгыжаэз
+- конеподібні
+- копитари
+- Мăшăрсăр чĕрнеллисем
+- Непарнокопитни
+- непарнокопытные
+- непарнопрсти копитари
+- нечифтокопитни
+- няпарнакапытныя
+- тактояклылар
+- Тақтұяқтылар
+- Шалабергаш йоцурш
+- Միասմբակավորներ
+- מפריטי פרסה
+- انپدھرے کھر
+- بیٚسُم پاڑُر
+- تکدیرناقلیلار
+- فردسمان
+- مفردات الأصابع
+- مفردات الاصابع
+- अयुग्मखुरी
+- विषम-ऊँगली खुरदार
+- অযুগ্ম ক্ষুরযুক্ত চতুষ্পদ
+- ஒற்றைப்படைக் குளம்பி
+- สัตว์กีบคี่
+- ခွာမစုံသော တိရစ္ဆာန်များ
+- კენტჩლიქოსნები
+- ცანდჩორქოამეფი
+- 奇蹄目
+- 말목
 has_id_wikidata: Q25374
 title: Perissodactyla
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Perissodactyla,6418784]]'
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Perissodactyla,13218341]]'
+- '[[_Standards/WikiData/WD~Template_Perissodactyla,6418784]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Perissodactyla,13218341]]'
 parent_taxon: '[[_Standards/WikiData/WD~Perissodactylamorpha,125762739]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 180687
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/00296%20zebra.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zebra%20chapman%20za%202003.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/00296%20zebra.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Zebra%20chapman%20za%202003.jpg
 EPPO_Code: 1PERIO
 MeSH_tree_code: B01.050.150.900.649.313.984
 UMLS_CUI: C0031132
@@ -30,12 +99,131 @@ NBN_System_Key: NHMSYS0000377074
 Commons_category: Perissodactyla
 taxon_name: Perissodactyla
 taxon_common_name:
-  - perisodáctilos
-  - hovdyr
-  - lihoprsti kopitarji
+- perisodáctilos
+- hovdyr
+- lihoprsti kopitarji
 start_time: -56000000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Perissodactyla
+    an: Perissodactyla
+    ar: مفردات الأصابع
+    arz: مفردات الاصابع
+    ast: Perissodactyla
+    avk: Barlubekdunol (Perissodactyla)
+    az: Təkdırnaqlılar
+    azb: تکدیرناقلیلار
+    ban: Buron makuku gasal
+    be: няпарнакапытныя
+    be-tarask: Няпарнакапытныя
+    bg: нечифтокопитни
+    bn: অযুগ্ম ক্ষুরযুক্ত চতুষ্পদ
+    br: Perisodaktiled
+    bs: Kopitari
+    ca: perissodàctils
+    ce: Шалабергаш йоцурш
+    ceb: Perissodactyla
+    cs: lichokopytníci
+    cv: Мăшăрсăр чĕрнеллисем
+    cy: Perissodactyla
+    da: Uparrettåede hovdyr
+    de: Unpaarhufer
+    el: Περισσοδάκτυλα
+    en: odd-toed ungulate
+    en-ca: Odd-toed ungulate
+    en-gb: odd-toed ungulate
+    eo: Neparhufuloj
+    es: Perissodactyla
+    et: kabjalised
+    eu: Perisodaktilo
+    ext: Perissodactyla
+    fa: فردسمان
+    fi: kavioeläimet
+    fr: Perissodactyla
+    frr: Ünpaartuanet Kloksdiarten
+    ga: Perissodactyla
+    gl: Perisodáctilos
+    gn: Pysã namomokõiva
+    gsw: Unpaarhufer
+    he: מפריטי פרסה
+    hi: विषम-ऊँगली खुरदार
+    hr: Neparnoprstaši
+    hu: páratlanujjú patások
+    hy: Միասմբակավորներ
+    ia: perissodactylos
+    id: Hewan berkuku ganjil
+    is: Perissodactyla
+    it: Perissodactyla
+    ja: 奇蹄目
+    jv: Kéwan kuku ganjil
+    ka: კენტჩლიქოსნები
+    kab: Tisuffenza
+    kk: Тақтұяқтылар
+    ko: 말목
+    koi: Вожтöмгыжаэз
+    ks: بیٚسُم پاڑُر
+    la: Perissodactyla
+    lb: Perissodactyla
+    lfn: Perisodatilo
+    li: Oonevehovege
+    lij: Perissodactyla
+    lmo: Perissodactyla
+    lt: Neporakanopiai
+    lv: Nepārnadži
+    mk: Непарнокопитни
+    mr: अयुग्मखुरी
+    ms: Perissodactyla
+    mul: odd-toed ungulate
+    my: ခွာမစုံသော တိရစ္ဆာန်များ
+    nb: hovdyr
+    nds: Perissodactyla
+    nds-nl: Perissodactyla
+    nl: onevenhoevigen
+    nn: hovdyr
+    nov: Perissodactyla
+    oc: Perissodactyla
+    os: Æнæкъайсæфтæгджынтæ
+    pl: nieparzystokopytne
+    pms: Perissodactyla
+    pnb: انپدھرے کھر
+    pt: perissodáctilos
+    pt-br: Perissodáctilos
+    qu: Ch'ulla ruk'anayuq
+    rmf: houvako kriatuuri
+    ro: Perissodactyla
+    ru: непарнокопытные
+    sah: Бүтэй туйахтаахтар
+    scn: Perissodactyla
+    sco: odd-taed ungulate
+    sh: Neparnoprstaši
+    sk: Nepárnokopytníky
+    sl: lihoprsti kopitarji
+    sq: Perissodactyla
+    sr: копитари
+    sr-ec: непарнопрсти копитари
+    sv: uddatåiga hovdjur
+    ta: ஒற்றைப்படைக் குளம்பி
+    th: สัตว์กีบคี่
+    tl: Perissodactyla
+    tr: Tek toynaklılar
+    tt: тактояклылар
+    tt-cyrl: тактояклылар
+    uk: конеподібні
+    uz: Toq tuyoqlilar
+    vec: Perissodactyla
+    vi: bộ Guốc lẻ
+    vls: Oeneevnhoevign
+    wa: Perissodactyla
+    war: Perissodactyla
+    wuu: 奇蹄目
+    xmf: ცანდჩორქოამეფი
+    yue: 奇蹄目
+    zh: 奇蹄目
+    zh-cn: 奇蹄目
+    zh-hans: 奇蹄目
+    zh-hant: 奇蹄目
+    zh-tw: 奇蹄目
 ---
-
 # [[Perissodactyla]]
 
 ## Odd-toed ungulates 

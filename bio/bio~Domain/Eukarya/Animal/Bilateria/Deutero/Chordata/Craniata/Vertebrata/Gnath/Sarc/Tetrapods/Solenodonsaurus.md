@@ -1,8 +1,38 @@
 ---
 aliases:
-  - Solenodonsaurus
+- Solenodonsaurus
+- Соленодонзавр
+- соленодонзаври
+- 独齿蜥属
 title: Solenodonsaurus janenschi
 has_id_wikidata: Q589089
+dv_has_:
+  name_:
+    ast: Solenodonsaurus
+    bg: соленодонзаври
+    ca: Solenodonsaurus
+    ceb: Solenodonsaurus
+    cs: Solenodonsaurus
+    de: Solenodonsaurus
+    en: Solenodonsaurus
+    es: Solenodonsaurus
+    fi: Solenodonsaurus
+    fr: Solenodonsaurus
+    ga: Solenodonsaurus
+    ia: Solenodonsaurus
+    it: Solenodonsaurus
+    la: Solenodonsaurus
+    mul: Solenodonsaurus
+    nl: Solenodonsaurus
+    pl: Solenodonsaurus
+    pt: Solenodonsaurus
+    ro: Solenodonsaurus
+    ru: Соленодонзавр
+    sq: Solenodonsaurus
+    uk: Solenodonsaurus
+    vi: Solenodonsaurus
+    war: Solenodonsaurus
+    zh: 独齿蜥属
 ---
 ## [[Solenodonsaurus]]
 

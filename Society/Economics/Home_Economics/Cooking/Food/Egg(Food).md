@@ -1,46 +1,199 @@
 ---
 aliases:
-  - Egg
-  - Ei
-  - Eier
-  - Eggs
-  - Egg_as_Food
-  - Egg as Food
+- aai
+- aki kúb
+- Amaqanda
+- arrautza
+- bumngab
+- bunay
+- diki rí kúp
+- Dizé (aliman)
+- Egg
+- Egg as Food
+- Eggs
+- Egg_as_Food
+- eghum
+- Ei
+- Eier
+- ejíì ŋ́kɔk
+- Endhog minangka panganan
+- Gele/zele
+- Gelle
+- güevu
+- Hak
+- Hatolui (Kani'an)
+- huevo
+- Hêk (xwarin)
+- igaá
+- Igi
+- itlog
+- iwum
+- jajce
+- jajco
+- Jaje
+- jaje (hrana)
+- jajko
+- jejo
+- Jäiččy
+- jôjkò
+- kaȟjako jaaro
+- kiaušinis
+- kiŋgom
+- koklozi
+- kosua
+- kui-kora
+- Kwai
+- kí
+- kәccәki
+- lepo ŋ́gáp
+- lepum
+- li tj√®
+- lâung
+- Lón
+- Mae bjalo ka dijo
+- mane
+- monni
+- muna
+- muna (ruoka)
+- munnie
+- mweny
+- mââʹnn
+- månne
+- nikɛɛ́
+- Nn̄g
+- nsen unen
+- Nɛbom
+- oeuv
+- Oi
+- ola
+- Ooh
+- ou
+- ovo
+- Ovo (alimento)
+- ovo como alimento
+- Oû
+- pàpala
+- pãare
+- pəm
+- pǒmngāp
+- Ryguasu rupi'a
+- sike mama moku
+- Sugok bilang kakanon
+- Syɛfan
+- Taglayt
+- tam pum
+- tamellalt
+- Telor (makanan)
+- telur
+- ti'kuk
+- tojás
+- trứng
+- tōtoltetl
+- ubh
+- Ukun
+- uovo
+- uòu
+- uòvu
+- vajce
+- vejce
+- vezë
+- Vi
+- vuuŋ
+- yumurta
+- yɔnɔ́
+- yɔɔ́nɔ́
+- zìnà
+- ägg
+- æg
+- Çăмарта (апат-çимĕç)
+- ècìí é kú
+- íghûm
+- œuf
+- ūla
+- ŵy fel bwyd
+- ɛgɛɛ́
+- αυγό (τρόφιμο)
+- οβόν
+- Јаје
+- јајце
+- Ал
+- Жумуртка
+- Йомортҡа
+- йомырка
+- маннҍ
+- Мыны
+- яйка
+- яйце
+- яйцо
+- ձու
+- ביצה
+- انڈا
+- بيض
+- تخممرغ
+- تلور
+- عضمة
+- مرغانه
+- ٹھوٗل
+- چرګې هګۍ
+- ھێلکە
+- یومورتا
+- ܒܝܥܬܐ
+- ߞߊ߬ ߞߟߌ ߞߍ߫ ߓߊߟߏ ߘߌ߫
+- अंडी
+- अण्डा
+- फुल
+- ডিম
+- ਆਂਡਾ
+- ଅଣ୍ଡା
+- முட்டை ஓா் உணவு
+- గుడ్డు
+- മുട്ട
+- බිත්තරය
+- ไข่
+- ၶႆႇတၢင်းၵိၼ်
+- კვერცხი
+- მარქვალი
+- እንቁላል
+- ᡠᠮᡥᠠᠨ
+- ”dǝk"
+- 卵
+- 蛋
+- 알
 has_id_wikidata: Q93189
 has_part_s_:
-  - "[[_Standards/WikiData/WD~egg_yolk,181409]]"
-  - "[[_Standards/WikiData/WD~egg_white,796758]]"
+- '[[_Standards/WikiData/WD~egg_yolk,181409]]'
+- '[[_Standards/WikiData/WD~egg_white,796758]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~shape,207961]]"
-  - "[[_Standards/WikiData/WD~animal_based_food,4764984]]"
-  - "[[_Standards/WikiData/WD~ingredient,10675206]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- '[[_Standards/WikiData/WD~shape,207961]]'
+- '[[_Standards/WikiData/WD~animal_based_food,4764984]]'
+- '[[_Standards/WikiData/WD~ingredient,10675206]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
 part_of:
-  - "[[_Standards/WikiData/WD~gado_gado,209304]]"
-  - "[[_Standards/WikiData/WD~fried_egg,274151]]"
-  - "[[_Standards/WikiData/WD~shakshuka,2474644]]"
-  - "[[_Standards/WikiData/WD~Quindim,3107885]]"
-  - "[[_Standards/WikiData/WD~omelette,20129]]"
-has_effect: "[[_Standards/WikiData/WD~egg_allergy,576179]]"
+- '[[_Standards/WikiData/WD~gado_gado,209304]]'
+- '[[_Standards/WikiData/WD~fried_egg,274151]]'
+- '[[_Standards/WikiData/WD~shakshuka,2474644]]'
+- '[[_Standards/WikiData/WD~Quindim,3107885]]'
+- '[[_Standards/WikiData/WD~omelette,20129]]'
+has_effect: '[[_Standards/WikiData/WD~egg_allergy,576179]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~chicken_egg,15260613]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-has_use: "[[_Standards/WikiData/WD~food,2095]]"
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
+has_use: '[[_Standards/WikiData/WD~food,2095]]'
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~bird,5113]]"
-  - "[[_Standards/WikiData/WD~invertebrate,43806]]"
-made_from_material: "[[_Standards/WikiData/WD~egg,17147]]"
-color: "[[_Standards/WikiData/WD~white,23444]]"
+- '[[_Standards/WikiData/WD~bird,5113]]'
+- '[[_Standards/WikiData/WD~invertebrate,43806]]'
+made_from_material: '[[_Standards/WikiData/WD~egg,17147]]'
+color: '[[_Standards/WikiData/WD~white,23444]]'
 food_energy: 70
 CosIng_number: 92396
 USDA_NDB_number: 1123
 OmegaWiki_Defined_Meaning: 340828
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eierdoos.jpg
-Unicode_character: 🥚
+Unicode_character: "\U0001F95A"
 Iconclass_notation: 41C642
 Commons_category: Poultry eggs
 UNII: 291P45F896
@@ -51,10 +204,195 @@ booru_tag: egg_(food)
 Danbooru_tag: egg_(food)
 Wolfram_Language_entity_code: Entity["Food", "EggChickenWholeRaw::r7t8c"]
 MeSH_tree_code:
-  - G07.203.300.470
-  - J02.500.470
+- G07.203.300.470
+- J02.500.470
+dv_has_:
+  name_:
+    aeb-arab: عضمة
+    af: eier
+    agq: eghum
+    am: እንቁላል
+    ar: بيض
+    arc: ܒܝܥܬܐ
+    arq: بيض
+    ast: güevu
+    az: yumurta
+    azb: یومورتا
+    ba: Йомортҡа
+    bag: igaá
+    bas: li tj√®
+    bax: tam pum
+    bbj: pəm
+    bcl: Sugok bilang kakanon
+    be: яйка
+    be-tarask: яйка
+    bew: Telor (makanan)
+    bg: Яйце
+    bkc: pàpala
+    bkh: diki rí kúp
+    bkm: iwum
+    bm: Syɛfan
+    bn: ডিম
+    br: Vi
+    bs: jaje
+    byv: bumngab
+    ca: ou
+    cdo: lâung
+    ckb: ھێلکە
+    cs: vejce
+    csb: jôjkò
+    cv: Çăмарта (апат-çимĕç)
+    cy: ŵy fel bwyd
+    da: æg
+    de: Ei
+    diq: Hak
+    dua: mweny
+    ee: koklozi
+    el: αυγό (τρόφιμο)
+    en: egg as food
+    en-ca: egg
+    en-gb: egg
+    eo: ovo
+    es: huevo
+    et: muna
+    eto: ècìí é kú
+    etu: ejíì ŋ́kɔk
+    eu: arrautza
+    ewo: aki kúb
+    fa: تخممرغ
+    fi: muna (ruoka)
+    fmp: pǒmngāp
+    fr: œuf
+    ga: ubh
+    gcr: Dizé (aliman)
+    gl: ovo
+    gn: Ryguasu rupi'a
+    gur: Gele/zele
+    gv: Ooh
+    gya: kui-kora
+    ha: Kwai
+    hak: Lón
+    he: ביצה
+    hi: अण्डा
+    hr: jaje (hrana)
+    hsb: jejo
+    hu: tojás
+    hy: ձու
+    ia: Ovo (alimento)
+    ibb: nsen unen
+    id: telur
+    io: ovo
+    is: egg
+    isu: íghûm
+    it: uovo
+    ja: 卵
+    jv: Endhog minangka panganan
+    ka: კვერცხი
+    kab: tamellalt
+    ker: kәccәki
+    kge: Hatolui (Kani'an)
+    ko: 알
+    ks: ٹھوٗل
+    ku: Hêk (xwarin)
+    ky: Жумуртка
+    lem: yɔɔ́nɔ́
+    li: Ei
+    lmo: oeuv
+    lns: kiŋgom
+    lt: kiaušinis
+    ltg: ūla
+    lv: ola
+    mcn: zìnà
+    mcp: ”dǝk"
+    mdf: Ал
+    mk: јајце
+    ml: മുട്ട
+    mnc: ᡠᠮᡥᠠᠨ
+    mos: Gelle
+    mr: अंडी
+    mrj: Мыны
+    ms: telur
+    ms-arab: تلور
+    mua: pãare
+    myv: ал
+    mzn: مرغانه
+    nah: tōtoltetl
+    nan: Nn̄g
+    nb: egg
+    nds-nl: aai
+    ne: फुल
+    nl: ei
+    nmg: kí
+    nn: egg
+    nnh: lepum
+    nqo: ߞߊ߬ ߞߟߌ ߞߍ߫ ߓߊߟߏ ߘߌ߫
+    nso: Mae bjalo ka dijo
+    oc: uòu
+    olo: Jäiččy
+    or: ଅଣ୍ଡା
+    pa: ਆਂਡਾ
+    pdc: Oi
+    pl: jajko
+    pnt: οβόν
+    ps: چرګې هګۍ
+    pt: ovo como alimento
+    rmf: kaȟjako jaaro
+    ro: ou
+    ru: яйцо
+    rw: Igi
+    scn: uòvu
+    se: monni
+    sh: Jaje
+    shi: Taglayt
+    shn: ၶႆႇတၢင်းၵိၼ်
+    si: බිත්තරය
+    sjd: маннҍ
+    sk: vajce
+    sl: jajce
+    sma: munnie
+    smj: månne
+    smn: mane
+    sms: mââʹnn
+    so: Ukun
+    sq: vezë
+    sr: Јаје
+    sv: ägg
+    szl: jajco
+    szy: ti'kuk
+    ta: முட்டை ஓா் உணவு
+    te: గుడ్డు
+    th: ไข่
+    tl: itlog
+    tok: sike mama moku
+    tr: yumurta
+    tt: йомырка
+    tt-cyrl: йомырка
+    tvu: yɔnɔ́
+    tw: kosua
+    uk: яйце
+    ur: انڈا
+    vec: ovo
+    vi: trứng
+    vut: vuuŋ
+    wa: Oû
+    war: bunay
+    wes: egg
+    wuu: 蛋
+    xmf: მარქვალი
+    yas: ɛgɛɛ́
+    yat: Nɛbom
+    yav: nikɛɛ́
+    ybb: lepo ŋ́gáp
+    yue: 蛋
+    zh: 蛋
+    zh-cn: 蛋
+    zh-hans: 蛋
+    zh-hant: 蛋
+    zh-hk: 蛋
+    zh-sg: 蛋
+    zh-tw: 蛋
+    zu: Amaqanda
 ---
-
 # [[Egg(Food)]]  🍳 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Egg_as_food,93189|WD~Egg_as_food,93189]] 

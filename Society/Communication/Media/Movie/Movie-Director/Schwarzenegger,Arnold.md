@@ -1,8 +1,207 @@
 ---
 aliases:
-  - Arnold Schwarzenegger
-  - Schwarzenegger,Arnold
+- Arnold Schwarzenegger
+- Arnold Şvartsenegger
+- Arnold Şvartseneqqer
+- Arnold Švarceneger
+- arnold. cyvartseneger
+- Arnolds Švarcenegers
+- Arnoldus Schwarzenegger
+- Earnweald Blæceċġere
+- Schwarzenegger,Arnold
+- Άρνολντ Σβαρτσενέγκερ
+- Арнолд Швартсенеггер
+- Арнолд Шварценеггер
+- Арнолд Шварценегер
+- Арнольд Шварценеггер
+- Арнольд Шварцнеггер
+- Арнольд Шварцэнэгер
+- Шварценеггер, Арнольд
+- Шварцнеггер, Арнольд
+- Առնոլդ Շվարցենեգեր
+- Առնոլտ Շուարցնէյկըր
+- ארנאלד שווארצענעגער
+- ארנולד שוורצנגר
+- آرنلڈ شوارتزنگر
+- آرنولد
+- آرنولد شوارتزنگر
+- آرنولد شوارزنيجر
+- آرنولد شوارزنگر
+- آرنولد شوارڅنېګر
+- آرنٛلڈ شٕوارزیٚنیگر
+- أرنولد شوارزنيجر
+- ئارنۆڵد شوارزنێگەر
+- अर्नोल्ड श्वार्ज़नेगर
+- अर्नोल्ड स्वार्जनेगर
+- आर्नोल्ड श्वार्झनेगर
+- আর্নল্ড শোয়ার্জনেগার
+- ਆਰਨੋਲਡ ਸ਼ੋਰਜ਼ਨੇਗਰ
+- આર્નોલ્ડ શ્વાર્ઝેનેગર
+- ஆர்னோல்டு சுவார்செனேகர்
+- ఆర్నాల్డ్ స్క్వార్జెనెగర్
+- ಅರ್ನಾಲ್ಡ್ ಶ್ವಾರ್ಜಿನೆಗ್ಗರ್
+- അർണോൾഡ് സ്വാറ്റ്സെനെഗർ
+- อาร์โนลด์ ชวาร์เซเน็กเกอร์
+- ອາໂນນ ຊວາເຊເນກເກີ
+- არნოლდ შვარცენეგერი
+- አርኖልድ ሽዋርጸኔገር
+- アーノルド・シュワルツェネッガー
+- 舒华辛力加
+- 阿諾·史瓦辛格
+- 阿諾·舒華辛力加
+- 阿諾舒華辛力加
+- 阿诺·施瓦辛格
+- 阿诺德·施瓦辛格
+- 아널드 슈워제네거
 has_id_wikidata: Q2685
+dv_has_:
+  name_:
+    af: Arnold Schwarzenegger
+    am: አርኖልድ ሽዋርጸኔገር
+    an: Arnold Schwarzenegger
+    ang: Earnweald Blæceċġere
+    ar: أرنولد شوارزنيجر
+    arz: آرنولد شوارزنيجر
+    ast: Arnold Schwarzenegger
+    az: Arnold Şvartsenegger
+    azb: آرنولد شوارزنگر
+    ba: Арнольд Шварценеггер
+    bar: Arnold Schwarzenegger
+    bcl: Arnold Schwarzenegger
+    be: Арнольд Шварцэнэгер
+    be-tarask: Арнольд Шварцэнэгер
+    bg: Арнолд Шварценегер
+    bn: আর্নল্ড শোয়ার্জনেগার
+    br: Arnold Schwarzenegger
+    bs: Arnold Schwarzenegger
+    ca: Arnold Schwarzenegger
+    ce: Шварценеггер, Арнольд
+    ckb: ئارنۆڵد شوارزنێگەر
+    co: Arnold Schwarzenegger
+    cs: Arnold Schwarzenegger
+    cv: Арнольд Шварценеггер
+    cy: Arnold Schwarzenegger
+    da: Arnold Schwarzenegger
+    de: Arnold Schwarzenegger
+    de-at: Arnold Schwarzenegger
+    de-ch: Arnold Schwarzenegger
+    diq: Arnold Schwarzenegger
+    dty: अर्नोल्ड स्वार्जनेगर
+    ee: Arnold Schwarzenegger
+    el: Άρνολντ Σβαρτσενέγκερ
+    en: Arnold Schwarzenegger
+    en-ca: Arnold Schwarzenegger
+    en-gb: Arnold Schwarzenegger
+    eo: Arnold Schwarzenegger
+    es: Arnold Schwarzenegger
+    et: Arnold Schwarzenegger
+    eu: Arnold Schwarzenegger
+    ext: Arnold Schwarzenegger
+    fa: آرنولد شوارتزنگر
+    fi: Arnold Schwarzenegger
+    fo: Arnold Schwarzenegger
+    fr: Arnold Schwarzenegger
+    frr: Arnold Schwarzenegger
+    fy: Arnold Schwarzenegger
+    ga: Arnold Schwarzenegger
+    gd: Arnold Schwarzenegger
+    gl: Arnold Schwarzenegger
+    gu: આર્નોલ્ડ શ્વાર્ઝેનેગર
+    ha: Arnold Schwarzenegger
+    hak: Arnold Schwarzenegger
+    he: ארנולד שוורצנגר
+    hi: अर्नोल्ड श्वार्ज़नेगर
+    hr: Arnold Schwarzenegger
+    hsb: Arnold Schwarzenegger
+    hu: Arnold Schwarzenegger
+    hy: Առնոլդ Շվարցենեգեր
+    hyw: Առնոլտ Շուարցնէյկըր
+    id: Arnold Schwarzenegger
+    ig: Arnold Schwarzenegger
+    io: Arnold Schwarzenegger
+    is: Arnold Schwarzenegger
+    it: Arnold Schwarzenegger
+    ja: アーノルド・シュワルツェネッガー
+    jbo: arnold. cyvartseneger
+    jv: Arnold Schwarzenegger
+    ka: არნოლდ შვარცენეგერი
+    kaa: Arnold Schwarzenegger
+    kk: Арнольд Шварценеггер
+    kl: Arnold Schwarzenegger
+    kn: ಅರ್ನಾಲ್ಡ್ ಶ್ವಾರ್ಜಿನೆಗ್ಗರ್
+    ko: 아널드 슈워제네거
+    ks: آرنٛلڈ شٕوارزیٚنیگر
+    ku: Arnold Schwarzenegger
+    ky: Арнолд Шварценеггер
+    la: Arnoldus Schwarzenegger
+    lb: Arnold Schwarzenegger
+    lo: ອາໂນນ ຊວາເຊເນກເກີ
+    lt: Arnold Schwarzenegger
+    lv: Arnolds Švarcenegers
+    mai: अर्नोल्ड स्वार्जनेगर
+    mg: Arnold Schwarzenegger
+    mk: Арнолд Шварценегер
+    ml: അർണോൾഡ് സ്വാറ്റ്സെനെഗർ
+    mn: Арнольд Шварценеггер
+    mr: आर्नोल्ड श्वार्झनेगर
+    ms: Arnold Schwarzenegger
+    mul: Arnold Schwarzenegger
+    myv: Шварцнеггер, Арнольд
+    mzn: آرنولد
+    nan: Arnold Schwarzenegger
+    nb: Arnold Schwarzenegger
+    nds: Arnold Schwarzenegger
+    ne: अर्नोल्ड स्वार्जनेगर
+    nl: Arnold Schwarzenegger
+    nn: Arnold Schwarzenegger
+    oc: Arnold Schwarzenegger
+    pa: ਆਰਨੋਲਡ ਸ਼ੋਰਜ਼ਨੇਗਰ
+    pap: Arnold Schwarzenegger
+    pl: Arnold Schwarzenegger
+    ps: آرنولد شوارڅنېګر
+    pt: Arnold Schwarzenegger
+    pt-br: Arnold Schwarzenegger
+    ro: Arnold Schwarzenegger
+    ru: Арнольд Шварцнеггер
+    sco: Arnold Schwarzenegger
+    sh: Arnold Švarceneger
+    sk: Arnold Schwarzenegger
+    sl: Arnold Schwarzenegger
+    sq: Arnold Schwarzenegger
+    sr: Арнолд Шварценегер
+    sr-ec: Арнолд Шварценегер
+    srn: Arnold Schwarzenegger
+    ss: Arnold Schwarzenegger
+    sv: Arnold Schwarzenegger
+    sw: Arnold Schwarzenegger
+    szl: Arnold Schwarzenegger
+    ta: ஆர்னோல்டு சுவார்செனேகர்
+    te: ఆర్నాల్డ్ స్క్వార్జెనెగర్
+    tg: Арнолд Швартсенеггер
+    th: อาร์โนลด์ ชวาร์เซเน็กเกอร์
+    tl: Arnold Schwarzenegger
+    tly: Arnold Şvartseneqqer
+    tr: Arnold Schwarzenegger
+    tt: Арнольд Шварценеггер
+    uk: Арнольд Шварценеггер
+    ur: آرنلڈ شوارتزنگر
+    uz: Arnold Schwarzenegger
+    vec: Arnold Schwarzenegger
+    vi: Arnold Schwarzenegger
+    war: Arnold Schwarzenegger
+    wuu: 阿诺德·施瓦辛格
+    xmf: არნოლდ შვარცენეგერი
+    yi: ארנאלד שווארצענעגער
+    yo: Arnold Schwarzenegger
+    yue: 阿諾舒華辛力加
+    zh: 阿诺·施瓦辛格
+    zh-cn: 阿诺德·施瓦辛格
+    zh-hans: 阿诺·施瓦辛格
+    zh-hant: 阿諾·史瓦辛格
+    zh-hk: 阿諾·舒華辛力加
+    zh-my: 舒华辛力加
+    zh-sg: 舒华辛力加
+    zh-tw: 阿諾·史瓦辛格
 ---
 #has_/time_/started :: 1947-07-30 
 #has_/time_/stopped  :: 

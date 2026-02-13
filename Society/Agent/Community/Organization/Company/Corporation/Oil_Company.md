@@ -1,14 +1,61 @@
 ---
 aliases:
+- compagnia petrolifera
+- compagnie pétrolière
+- empresa petroleira
+- empresa petrolera
+- empresa petroliera
+- naftna družba
+- naftno preduzeće
+- naftofirmao
+- oil company
+- olajvállalat
+- oliemaatschappij
+- oljeselskap
+- ropná firma
+- öljy-yhtiö
+- Ölkonzern
+- нафтно предузеће
+- нафтова компанія
+- нефтяная компания
+- شركة نفطية
+- บริษัทน้ำมัน
+- 石油企業
+- 石油公司
 has_id_wikidata: Q14941854
 subclass_of:
-  - "[[_Standards/WikiData/WD~company,783794]]"
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-industry: "[[_Standards/WikiData/WD~petroleum_industry,862571]]"
-part_of: "[[_Standards/WikiData/WD~petroleum_industry,862571]]"
+- '[[_Standards/WikiData/WD~company,783794]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
+industry: '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
+part_of: '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
 Commons_category: Petroleum companies
+dv_has_:
+  name_:
+    ar: شركة نفطية
+    ca: empresa petroliera
+    cs: ropná firma
+    de: Ölkonzern
+    en: oil company
+    eo: naftofirmao
+    es: empresa petrolera
+    fi: öljy-yhtiö
+    fr: compagnie pétrolière
+    gl: empresa petroleira
+    hu: olajvállalat
+    it: compagnia petrolifera
+    ja: 石油企業
+    nb: oljeselskap
+    nl: oliemaatschappij
+    ru: нефтяная компания
+    sl: naftna družba
+    sr: нафтно предузеће
+    sr-ec: нафтно предузеће
+    sr-el: naftno preduzeće
+    th: บริษัทน้ำมัน
+    uk: нафтова компанія
+    zh-hans: 石油公司
+    zh-hant: 石油公司
 ---
-
 # [[Oil_Company]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~oil_company,14941854]] 

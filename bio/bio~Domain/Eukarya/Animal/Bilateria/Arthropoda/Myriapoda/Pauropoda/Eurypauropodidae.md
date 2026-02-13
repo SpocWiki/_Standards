@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Eurypauropodidae
+- Eurypauropodidae
+- 广少足科
 title: Eurypauropodidae
 has_id_wikidata: Q1378520
+dv_has_:
+  name_:
+    an: Eurypauropodidae
+    ast: Eurypauropodidae
+    bg: Eurypauropodidae
+    ca: Eurypauropodidae
+    ceb: Eurypauropodidae
+    de: Eurypauropodidae
+    en: Eurypauropodidae
+    eo: Eurypauropodidae
+    es: Eurypauropodidae
+    eu: Eurypauropodidae
+    ext: Eurypauropodidae
+    fi: Eurypauropodidae
+    fr: Eurypauropodidae
+    ga: Eurypauropodidae
+    gl: Eurypauropodidae
+    ia: Eurypauropodidae
+    ie: Eurypauropodidae
+    io: Eurypauropodidae
+    it: Eurypauropodidae
+    la: Eurypauropodidae
+    mul: Eurypauropodidae
+    nl: Eurypauropodidae
+    oc: Eurypauropodidae
+    pl: Eurypauropodidae
+    pt: Eurypauropodidae
+    pt-br: Eurypauropodidae
+    ro: Eurypauropodidae
+    ru: Eurypauropodidae
+    sq: Eurypauropodidae
+    sv: Eurypauropodidae
+    tr: Eurypauropodidae
+    uk: Eurypauropodidae
+    vi: Eurypauropodidae
+    vo: Eurypauropodidae
+    war: Eurypauropodidae
+    zh: 广少足科
+    zh-cn: 广少足科
+    zh-hans: 广少足科
+    zh-tw: 广少足科
 ---
 # [[Eurypauropodidae]] 
 

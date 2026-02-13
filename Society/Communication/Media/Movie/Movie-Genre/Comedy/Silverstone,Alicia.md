@@ -1,8 +1,114 @@
 ---
 aliases:
-  - Alicia Silverstone
-  - Silverstone,Alicia
+- Alicia Silverstone
+- Alicia Silverstoneová
+- Alicia Silverstonová
+- Ališa Silverston
+- Ališija Silverstone
+- Silverstone,Alicia
+- Αλίσια Σιλβερστόουν
+- Алісія Сільверстоун
+- Алісія Сылвэрстоўн
+- Алисия Сильверстоун
+- Алиша Силверстон
+- Алиша Силвърстоун
+- Ալիսիա Սիլուերսթոն
+- Ալիսիա Սիլվերսթոուն
+- אלישה סילברסטון
+- آلیسیا سیلورستون
+- آلیشیا سیلورستون
+- أليسيا سيلفرستون
+- اليسيا سيلفرستون
+- ایلیسیا سلورسٹون
+- അലിഷ്യ സിൽവർസ്റ്റോൺ
+- อลิเซีย ซิลเวอร์สโตน
+- ალისია სილვერსტოუნი
+- アリシア・シルヴァーストーン
+- 艾丽西亚·希尔维斯通
+- 艾莉西亚·席维史东
+- 艾莉西亞·席薇史東
+- 雅麗茜雅·絲華史東
+- 얼리시아 실버스톤
 has_id_wikidata: Q199945
+dv_has_:
+  name_:
+    af: Alicia Silverstone
+    ar: أليسيا سيلفرستون
+    arz: اليسيا سيلفرستون
+    ast: Alicia Silverstone
+    azb: آلیسیا سیلورستون
+    bar: Alicia Silverstone
+    be-tarask: Алісія Сылвэрстоўн
+    bg: Алиша Силвърстоун
+    ca: Alicia Silverstone
+    cs: Alicia Silverstoneová
+    cy: Alicia Silverstone
+    da: Alicia Silverstone
+    de: Alicia Silverstone
+    el: Αλίσια Σιλβερστόουν
+    en: Alicia Silverstone
+    eo: Alicia Silverstone
+    es: Alicia Silverstone
+    et: Alicia Silverstone
+    eu: Alicia Silverstone
+    fa: آلیشیا سیلورستون
+    fi: Alicia Silverstone
+    fr: Alicia Silverstone
+    ga: Alicia Silverstone
+    gl: Alicia Silverstone
+    he: אלישה סילברסטון
+    hr: Alicia Silverstone
+    hu: Alicia Silverstone
+    hy: Ալիսիա Սիլվերսթոուն
+    hyw: Ալիսիա Սիլուերսթոն
+    id: Alicia Silverstone
+    ig: Alicia Silverstone
+    io: Alicia Silverstone
+    it: Alicia Silverstone
+    ja: アリシア・シルヴァーストーン
+    ka: ალისია სილვერსტოუნი
+    ko: 얼리시아 실버스톤
+    lb: Alicia Silverstone
+    lt: Alicia Silverstone
+    lv: Ališija Silverstone
+    ml: അലിഷ്യ സിൽവർസ്റ്റോൺ
+    ms: Alicia Silverstone
+    mul: Alicia Silverstone
+    nb: Alicia Silverstone
+    nl: Alicia Silverstone
+    nn: Alicia Silverstone
+    pam: Alicia Silverstone
+    pl: Alicia Silverstone
+    pt: Alicia Silverstone
+    pt-br: Alicia Silverstone
+    ro: Alicia Silverstone
+    ru: Алисия Сильверстоун
+    sco: Alicia Silverstone
+    sh: Alicia Silverstone
+    sk: Alicia Silverstonová
+    skr: ایلیسیا سلورسٹون
+    sl: Alicia Silverstone
+    so: Alicia Silverstone
+    sq: Alicia Silverstone
+    sr: Алиша Силверстон
+    sr-ec: Алиша Силверстон
+    sr-el: Ališa Silverston
+    sv: Alicia Silverstone
+    th: อลิเซีย ซิลเวอร์สโตน
+    tl: Alicia Silverstone
+    tr: Alicia Silverstone
+    uk: Алісія Сільверстоун
+    ur: ایلیسیا سلورسٹون
+    uz: Alicia Silverstone
+    vi: Alicia Silverstone
+    xmf: ალისია სილვერსტოუნი
+    zh: 艾莉西亞·席薇史東
+    zh-cn: 艾丽西亚·希尔维斯通
+    zh-hans: 艾丽西亚·希尔维斯通
+    zh-hant: 艾莉西亞·席薇史東
+    zh-hk: 雅麗茜雅·絲華史東
+    zh-sg: 艾莉西亚·席维史东
+    zh-tw: 艾莉西亞·席薇史東
 ---
 #has_/time_/started :: 1976-10-04 
 

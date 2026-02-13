@@ -1,8 +1,264 @@
 ---
 aliases:
-  - Akbar
-  - Abu'l-Fath Jalal-ud-din Muhammad Akbar
+- Abu'l-Fath Jalal-ud-din Muhammad Akbar
+- Acbarus
+- Ahkezbah Daihdaeq
+- Akbar
+- Akbar Agung
+- Akbar ang Bantogan
+- Akbar ang Dakila
+- Akbar Daho Lọ
+- Akbar de Groete
+- Akbar de Grote
+- Akbar de Grutte
+- Akbar den store
+- Akbar die Grote
+- Akbar el Grand
+- Akbar el Grande
+- Akbar Jaloliddin Muhammad
+- Akbar la Grande
+- Akbar lu Granni
+- Akbar Mawr
+- Akbar Mikli
+- Akbar na Godang
+- Akbar nan Aguang
+- Akbar Suur
+- Akbar the Great
+- Akbar Veliki
+- Akbar Veliký
+- Akbar Veľký
+- Akbar yang Agung
+- Akbar Đại đế
+- Akbaras Didysis
+- Akbars Dėdlīsės
+- Akbars Lielais
+- Böyük Əkbər
+- Celaleddin Muhammed Ekber
+- Ekber Şah
+- Ekberê Mezin
+- Jalaluddin Muhammad Akbar
+- Nagy Akbar mogul sah
+- Ulı Ekber
+- Ĝalaluddin Muhammad Akbar
+- Ακμπάρ ο Μέγας
+- Акбар
+- Акбар I Великий
+- Акбар Велики
+- Акбар Вялікі
+- Акбар Джелал-ад-дін
+- Акбар ЧӀехи
+- Акбар шах, Биринчи
+- Акбари I Бузург
+- Акбарышхуэ
+- Ахбар Велики
+- Бөйөк Әкбәр
+- Джелаль-ад-дін Акбар
+- Сийлахь воккху Акбар I
+- Стыр Акбар
+- Улуу Акбар
+- Աքբար Մեծ
+- אכבר
+- אקבאר
+- ئەکبەری مەزن
+- اكبر الاعظم
+- اَکبَر
+- اکبر
+- اکبر شاه
+- اکبر کبیر
+- جلال الدين أكبر
+- جلال الدين اڪبر
+- جلال الدين محمد اکبر
+- جلال الدین محمد اکبر
+- अकबर
+- अकवर
+- अक्बरः
+- আকবর
+- আকবৰ
+- সম্রাট আকবর
+- ਅਕਬਰ
+- અકબર
+- ଆକବର
+- பேரரசர் அக்பர்
+- అక్బర్
+- ಅಕ್ಬರ್
+- അക്ബർ
+- จักรพรรดิอักบัร
+- အက္ကဘာမင်း
+- აქბარი
+- አክባር
+- ᱟᱠᱵᱚᱨ
+- アクバル
+- 阿克巴
+- 阿克巴大帝
+- ꠀꠇ꠆ꠛꠞ
+- ꯑꯛꯕꯔ
+- 악바르
 has_id_wikidata: Q8597
+dv_has_:
+  name_:
+    af: Akbar die Grote
+    am: አክባር
+    an: Akbar
+    anp: अकबर
+    ar: جلال الدين أكبر
+    ary: جلال الدين أكبر
+    arz: اكبر الاعظم
+    as: আকবৰ
+    ast: Akbar
+    awa: अकबर
+    az: Böyük Əkbər
+    azb: اکبر شاه
+    ba: Бөйөк Әкбәр
+    be: Акбар Вялікі
+    be-tarask: Акбар Вялікі
+    bew: Akbar
+    bg: Акбар Велики
+    bho: अकबर
+    bn: আকবর
+    bpy: সম্রাট আকবর
+    br: Jalaluddin Muhammad Akbar
+    bs: Akbar Veliki
+    btm: Akbar na Godang
+    ca: Akbar
+    ce: Сийлахь воккху Акбар I
+    ceb: Akbar ang Bantogan
+    ckb: ئەکبەری مەزن
+    crh: Ulı Ekber
+    cs: Akbar Veliký
+    cy: Akbar Mawr
+    da: Akbar den Store
+    de: Akbar
+    diq: Celaleddin Muhammed Ekber
+    dty: अकवर
+    el: Ακμπάρ ο Μέγας
+    en: Akbar
+    en-ca: Akbar
+    en-gb: Akbar
+    en-us: Akbar
+    eo: Ĝalaluddin Muhammad Akbar
+    es: Akbar
+    et: Akbar
+    eu: Akbar
+    fa: اکبر کبیر
+    fi: Akbar
+    fo: Akbar Mikli
+    fr: Akbar
+    fy: Akbar de Grutte
+    ga: Akbar
+    gl: Akbar
+    gn: Akbar
+    gom: अकबर
+    gom-deva: अकबर
+    gom-latn: Akbar
+    gsw: Akbar
+    gu: અકબર
+    guw: Akbar Daho Lọ
+    ha: Akbar
+    he: אכבר
+    hi: अकबर
+    hif: Akbar
+    hr: Akbar Veliki
+    ht: Akbar
+    hu: Nagy Akbar mogul sah
+    hy: Աքբար Մեծ
+    id: Akbar yang Agung
+    ig: Akbar
+    ilo: Akbar
+    io: Akbar
+    is: Akbar mikli
+    it: Akbar
+    ja: アクバル
+    jv: Akbar Agung
+    ka: აქბარი
+    kbd: Акбарышхуэ
+    kbp: Akbar
+    kk: Акбар
+    kn: ಅಕ್ಬರ್
+    ko: 악바르
+    ks: اَکبَر
+    ku: Ekberê Mezin
+    kw: Akbar
+    ky: Акбар шах, Биринчи
+    la: Acbarus
+    lad: Akbar el Grande
+    lez: Акбар ЧӀехи
+    lfn: Akbar la Grande
+    li: Akbar de Groete
+    lmo: Akbar el Grand
+    lt: Akbaras Didysis
+    lv: Akbars Lielais
+    lzh: 阿克巴大帝
+    mad: Akbar yang Agung
+    mag: अकबर
+    mai: अकबर
+    mg: Akbar
+    min: Akbar nan Aguang
+    mk: Акбар Велики
+    ml: അക്ബർ
+    mn: Акбар
+    mni: ꯑꯛꯕꯔ
+    mr: अकबर
+    ms: Akbar Agung
+    mwl: Akbar
+    my: အက္ကဘာမင်း
+    nan: Akbar
+    nb: Akbar den store
+    nds: Akbar
+    ne: अकबर
+    new: अकबर
+    nl: Akbar de Grote
+    nn: Akbar den store
+    oc: Akbar
+    or: ଆକବର
+    os: Стыр Акбар
+    pa: ਅਕਬਰ
+    pag: Akbar
+    pap: Akbar
+    pcm: Akbar
+    pl: Akbar
+    pms: Akbar
+    pnb: اکبر
+    ps: جلال الدين محمد اکبر
+    pt: Akbar
+    pt-br: Akbar
+    ro: Jalaluddin Muhammad Akbar
+    ru: Акбар I Великий
+    rue: Акбар Джелал-ад-дін
+    sa: अक्बरः
+    sah: Улуу Акбар
+    sat: ᱟᱠᱵᱚᱨ
+    scn: Akbar lu Granni
+    sco: Akbar the Great
+    sd: جلال الدين اڪبر
+    sgs: Akbars Dėdlīsės
+    sh: Akbar Veliki
+    sk: Akbar Veľký
+    skr: جلال الدین محمد اکبر
+    sl: Akbar
+    sq: Akbar
+    sr: Ахбар Велики
+    sv: Akbar den store
+    sw: Akbar
+    syl: ꠀꠇ꠆ꠛꠞ
+    ta: பேரரசர் அக்பர்
+    te: అక్బర్
+    tg: Акбари I Бузург
+    th: จักรพรรดิอักบัร
+    tl: Akbar ang Dakila
+    tr: Ekber Şah
+    tt: Akbar
+    uk: Джелаль-ад-дін Акбар
+    ur: اکبر
+    uz: Akbar Jaloliddin Muhammad
+    vi: Akbar Đại đế
+    vro: Akbar Suur
+    war: Akbar
+    wuu: 阿克巴
+    xmf: აქბარი
+    yi: אקבאר
+    yue: 阿克巴
+    za: Ahkezbah Daihdaeq
+    zh: 阿克巴
 ---
 ## #has_/text_of_/abstract 
 

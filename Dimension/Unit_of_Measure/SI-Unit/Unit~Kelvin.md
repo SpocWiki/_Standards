@@ -1,38 +1,88 @@
 ---
 aliases:
-  - Kelvin
-  - Unit~Kelvin
+- Akilvin
+- ceilvin
+- Gradu Kelvin
+- Kelven
+- Kelvin
+- kelvinas
+- Kelvini
+- Kelvinka
+- kelvino
+- kelvins
+- Kelvinstigin
+- kelvo
+- Kelvėns
+- Kelwin
+- mute suli seli
+- Nabwoki
+- Unit~Kelvin
+- Κλίμακα Κέλβιν
+- Кєлвинъ
+- Келвин
+- кельвін
+- кельвин
+- Կելվին
+- קלווין
+- كلفن
+- كيلفين
+- كيلڤين
+- کلوین
+- کيلۏين
+- کیلون
+- کێلڤن
+- केल्भिन
+- केल्व्हिन
+- कैल्विन
+- কেলভিন
+- ਕੈਲਵਿਨ
+- કેલ્વિન
+- கெல்வின்
+- కెల్విన్
+- ಕೆಲ್ವಿನ್
+- കെൽവിൻ
+- කෙල්වින්
+- เคลวิน
+- ཁེལ།
+- ကယ်လ်ဗင်
+- კელვინი
+- ケルビン
+- 克耳文
+- 开尔文
+- 開氏
+- 開爾文
+- 켈빈
 has_id_wikidata: Q11579
 named_after: '[[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]]'
 measured_physical_quantity:
-  - '[[_Standards/WikiData/WD~dew_point,178828]]'
-  - '[[_Standards/WikiData/WD~Curie_temperature,191073]]'
-  - '[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]'
-  - '[[_Standards/WikiData/WD~color_temperature,327408]]'
-  - '[[_Standards/WikiData/WD~Néel_temperature,830311]]'
-  - '[[_Standards/WikiData/WD~Debye_temperature,3517821]]'
-  - '[[_Standards/WikiData/WD~Fermi_temperature,105942324]]'
-  - '[[_Standards/WikiData/WD~superconduction_transition_temperature,106103037]]'
+- '[[_Standards/WikiData/WD~dew_point,178828]]'
+- '[[_Standards/WikiData/WD~Curie_temperature,191073]]'
+- '[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]'
+- '[[_Standards/WikiData/WD~color_temperature,327408]]'
+- '[[_Standards/WikiData/WD~Néel_temperature,830311]]'
+- '[[_Standards/WikiData/WD~Debye_temperature,3517821]]'
+- '[[_Standards/WikiData/WD~Fermi_temperature,105942324]]'
+- '[[_Standards/WikiData/WD~superconduction_transition_temperature,106103037]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-  - '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
-  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
 uses: '[[_Standards/WikiData/WD~zero_based_numbering,4355278]]'
 described_by_source: '[[_Standards/WikiData/WD~SI_Brochure_(8th_edition),19606873]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Q58538806,58538806]]'
-  - '[[_Standards/WikiData/WD~kelvin_difference,69363953]]'
+- '[[_Standards/WikiData/WD~Q58538806,58538806]]'
+- '[[_Standards/WikiData/WD~kelvin_difference,69363953]]'
 conversion_to_SI_unit: 1
 UCUM_code: K
 Unicode_character: K
 unit_symbol:
-  - K
-  - К
-  - K
-  - K
-  - K
-  - K
+- K
+- К
+- K
+- K
+- K
+- K
 UN_CEFACT_Common_Code: KEL
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CelsiusKelvinThermometer.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A8.wav
@@ -40,8 +90,153 @@ Wolfram_Language_unit_code: '"Kelvins"'
 IEV_number: 112-02-08
 Commons_category: Kelvin temperature
 Wikidata_SPARQL_query_equivalent: wd:Q11579 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    af: kelvin
+    an: Kelvin
+    ar: كلفن
+    ary: كيلڤين
+    arz: كيلفين
+    ast: kelvin
+    az: kelvin
+    azb: کلوین
+    ba: Кельвин
+    ban: Kelvin
+    bcl: Kelvin
+    be: Кельвін
+    be-tarask: Кельвін
+    bg: Келвин
+    bn: কেলভিন
+    bo: ཁེལ།
+    br: Kelvin
+    bs: Kelvin
+    ca: kelvin
+    ce: Кельвин
+    ckb: کێلڤن
+    cs: kelvin
+    cu: Кєлвинъ
+    cv: Кельвин
+    cy: Kelvin
+    da: kelvin
+    de: Kelvin
+    el: Κλίμακα Κέλβιν
+    en: kelvin
+    en-ca: Kelvin
+    en-gb: kelvin
+    eo: kelvino
+    es: kelvin
+    et: kelvin
+    eu: kelvin
+    fa: کلوین
+    fi: kelvin
+    fo: Kelvinstigin
+    fr: kelvin
+    frr: Kelvin
+    fur: Kelvin
+    fy: Kelvin
+    ga: ceilvin
+    gl: kelvin
+    gsw: Kelvin
+    gu: કેલ્વિન
+    ha: Kelvin
+    he: קלווין
+    hi: कैल्विन
+    hif: Kelvin
+    hr: Kelvin
+    ht: Kelven
+    hu: kelvin
+    hy: Կելվին
+    ia: Kelvin
+    id: Kelvin
+    io: kelvin
+    is: Kelvin
+    it: kelvin
+    ja: ケルビン
+    jbo: kelvo
+    ka: კელვინი
+    kab: Kelven
+    kk: Кельвин
+    kn: ಕೆಲ್ವಿನ್
+    ko: 켈빈
+    krc: Кельвин
+    ku: Kelvin
+    kw: Kelvin
+    ky: Кельвин
+    la: Kelvin
+    lb: Kelvin
+    lg: Nabwoki
+    li: Kelvin
+    lmo: kelvin
+    ln: Kelvin
+    lt: kelvinas
+    lv: kelvins
+    lzh: 開爾文
+    mk: келвин
+    ml: കെൽവിൻ
+    mn: Кельвин
+    mr: केल्व्हिन
+    ms: kelvin
+    ms-arab: کيلۏين
+    mt: kelvin
+    mwl: kelvin
+    my: ကယ်လ်ဗင်
+    nan: Kelvin
+    nb: kelvin
+    nds: Kelvin
+    ne: केल्भिन
+    nl: kelvin
+    nn: kelvin
+    oc: Kelvin
+    os: кельвин
+    pa: ਕੈਲਵਿਨ
+    pl: kelwin
+    pms: Kelvin
+    pnb: کیلون
+    pt: Kelvin
+    pt-br: Kelvin
+    ro: kelvin
+    ru: кельвин
+    rue: Келвин
+    sc: Kelvin
+    scn: Gradu Kelvin
+    sco: kelvin
+    sgs: Kelvėns
+    sh: Kelvin
+    shi: Akilvin
+    si: කෙල්වින්
+    sk: kelvin
+    sl: kelvin
+    so: Kelvinka
+    sq: kelvin
+    sr: келвин
+    sv: kelvin
+    sw: Kelvini
+    szl: Kelwin
+    ta: கெல்வின்
+    te: కెల్విన్
+    th: เคลวิน
+    tk: Kelwin
+    tok: mute suli seli
+    tr: kelvin
+    uk: кельвін
+    ur: کیلون
+    uz: Kelvin
+    vec: Kelvin
+    vi: Kelvin
+    vls: Kelvin
+    war: Kelvin
+    wuu: 开尔文
+    yue: 開氏
+    zh: 开尔文
+    zh-cn: 开尔文
+    zh-hans: 开尔文
+    zh-hant: 克耳文
+    zh-hk: 開爾文
+    zh-mo: 開爾文
+    zh-my: 开尔文
+    zh-sg: 开尔文
+    zh-tw: 克耳文
 ---
-
 # [[Unit~Kelvin]] 
 
 #is_a :: [[../SI-Unit]] 

@@ -1,18 +1,85 @@
 ---
 aliases:
-  - Elephantidae
+- Chhiūⁿ
+- Drambliai
+- Elefant
+- Elefantanvuiččed
+- Elefante
+- Elefanten
+- Elefanter
+- Elefantfamilien
+- Elefanti
+- Elefanto
+- Elefànt
+- elefàntids
+- elefántfélék
+- Elepante
+- Elephantidae
+- Elevant
+- Elpend
+- Fil
+- Fillar
+- Fillər
+- fornite
+- fuzoleem
+- Fíll
+- Gaja
+- Hiliphanti
+- norsut
+- Oaljefanten
+- Olifante
+- olifanten
+- Slon
+- sloni
+- Slonovi
+- Slonovité
+- slonovití
+- słoniowate
+- Tu
+- Voi
+- wɔɔ
+- ziloņu dzimta
+- Ελεφαντίδες
+- Пил
+- Пил йышшисем
+- Пилдер
+- пыл
+- слановыя
+- Слон
+- слонові
+- слонове
+- слоновые
+- Фил
+- փիղ
+- פיליים
+- فيليات
+- فیلان
+- فیلخن
+- एलिफैन्टिडी
+- হস্তী গোত্র
+- எலிபன்டிடே
+- ఎలిఫాంటిడే
+- วงศ์เอลิฟานติดี
+- მუნჭყვიშობურეფი
+- სპილოსებრნი
+- ዝሆን
+- ᎧᎹᎹ ᎤᏔᎾ
+- ゾウ科
+- 象
+- 象科
+- 코끼리과
 has_id_wikidata: Q2372824
 Commons_category: Elephantidae
 Commons_gallery: Elephantidae
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 EPPO_Code: 1ELEPF
 heart_rate: 30
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elefante%20africano%20de%20sabana%20%28Loxodonta%20africana%29%2C%20parque%20nacional%20Kruger%2C%20Sud%C3%A1frica%2C%202018-07-25%2C%20DD%2006.jpg
@@ -27,12 +94,125 @@ taxonomic_type: '[[_Standards/WikiData/WD~Elephas,310746]]'
 taxon_name: Elephantidae
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~elephant_meat,17444380]]'
-  - '[[_Standards/WikiData/WD~elephant_ivory,29838213]]'
+- '[[_Standards/WikiData/WD~elephant_meat,17444380]]'
+- '[[_Standards/WikiData/WD~elephant_ivory,29838213]]'
 title: Elephantidae
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,54449952]]'
+dv_has_:
+  name_:
+    ady: пыл
+    am: ዝሆን
+    an: Elephantidae
+    ang: Elpend
+    ar: فيليات
+    arn: fornite
+    arz: فيليات
+    ast: Elephantidae
+    av: Пил
+    avk: fuzoleem
+    az: Fillər
+    ba: Фил
+    bbc: Gaja
+    be: слановыя
+    be-tarask: слановыя
+    bg: слонове
+    bn: হস্তী গোত্র
+    br: Elephantidae
+    bs: Slon
+    ca: elefàntids
+    ce: Слон
+    ceb: Elephantidae
+    chr: ᎧᎹᎹ ᎤᏔᎾ
+    crh: fil
+    cs: slonovití
+    cv: Пил йышшисем
+    da: Elefant
+    de: Elefanten
+    de-ch: Elephantidae
+    dga: wɔɔ
+    el: Ελεφαντίδες
+    eml: Elefànt
+    en: Elephantidae
+    en-ca: Elephantidae
+    en-gb: Elephantidae
+    eo: Elefanto
+    es: Elephantidae
+    et: Elevant
+    eu: Elephantidae
+    ext: Elephantidae
+    fa: فیلان
+    fi: norsut
+    fr: Elephantidae
+    frr: Elefanten
+    fy: Oaljefanten
+    ga: Elephantidae
+    gl: Elephantidae
+    gsw: Elephantidae
+    he: פיליים
+    hi: एलिफैन्टिडी
+    hr: Slonovi
+    hu: elefántfélék
+    hy: փիղ
+    hyw: Փիղ
+    ia: Elephantidae
+    id: Elephantidae
+    ie: Elephantidae
+    io: Elephantidae
+    is: Fíll
+    it: Elephantidae
+    ja: ゾウ科
+    ka: სპილოსებრნი
+    kbp: Tu
+    ko: 코끼리과
+    ky: Пилдер
+    la: Elephantidae
+    lb: Elephantidae
+    li: Olifante
+    lt: Drambliai
+    lv: ziloņu dzimta
+    mk: Слон
+    mul: Elephantidae
+    nan: Chhiūⁿ
+    nb: Elefantfamilien
+    nl: olifanten
+    nn: Elefantfamilien
+    oc: Elephantidae
+    os: Пыл
+    pl: słoniowate
+    pms: Elefant
+    pt: Elefante
+    pt-br: Elefante
+    qu: Hiliphanti
+    ro: Elephantidae
+    ru: слоновые
+    sh: Slonovi
+    sk: Slonovité
+    sl: sloni
+    sq: Elefanti
+    sr: Слон
+    sv: Elefanter
+    ta: எலிபன்டிடே
+    te: ఎలిఫాంటిడే
+    tg: Фил
+    th: วงศ์เอลิฟานติดี
+    tl: Elepante
+    tr: Fil
+    tt: Фил
+    uk: слонові
+    ur: فیلخن
+    uz: Fillar
+    vep: Elefantanvuiččed
+    vi: Voi
+    vo: Elephantidae
+    war: Elephantidae
+    wuu: 象科
+    xmf: მუნჭყვიშობურეფი
+    yue: 象
+    zh: 象科
+    zh-cn: 象科
+    zh-hans: 象科
+    zh-tw: 象科
 ---
-
 # [[Elephantidae]] 
 
 ## Elephants and mammoths 

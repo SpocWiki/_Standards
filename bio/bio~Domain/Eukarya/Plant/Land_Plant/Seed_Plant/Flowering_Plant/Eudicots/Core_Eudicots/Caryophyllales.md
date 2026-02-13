@@ -1,8 +1,164 @@
 ---
 aliases:
-  - Caryophyllales
+- Bộ Cẩm chướng
+- Cariofil·lals
+- Caryophyllales
+- goździkowce
+- Gvazdikiečiai
+- hvozdíkotvaré
+- Kariofilaloj
+- klinčekotvaré
+- Klinčićolike
+- klinčkovci
+- Koma mêxikan
+- Nelgilaadsed
+- Nelkenartige
+- nellike-ordenen
+- Nellikordenen
+- neļķu rinda
+- Qərənfilçiçəklilər
+- szegfűvirágúak
+- Tinɣerflin
+- Καρυοφυλλώδη
+- Гваздзікакветныя
+- гвазьдзікакветныя
+- гвоздикоцвіті
+- гвоздичноцветные
+- карамфилоцветни
+- каранфиловидни
+- Тупалак чечеклисем
+- մեխակածաղկավորներ
+- ציפורנאים
+- قرنفليات
+- میخکسانان
+- कैरियोफ़िलालीस
+- கரியோபிலாலெசு
+- കാരിയോഫില്ലേലെസ്
+- อันดับคาร์เนชัน
+- ナデシコ目
+- 石竹目
+- 석죽목
 title: Caryophyllales
 has_id_wikidata: Q21808
+dv_has_:
+  name_:
+    af: Caryophyllales
+    an: Caryophyllales
+    ar: قرنفليات
+    arz: قرنفليات
+    ast: Caryophyllales
+    az: Qərənfilçiçəklilər
+    bar: Caryophyllales
+    be: Гваздзікакветныя
+    be-tarask: гвазьдзікакветныя
+    bg: карамфилоцветни
+    br: Caryophyllales
+    bs: Caryophyllales
+    ca: Cariofil·lals
+    ceb: Caryophyllales
+    co: Caryophyllales
+    cs: hvozdíkotvaré
+    cv: Тупалак чечеклисем
+    cy: Caryophyllales
+    da: nellike-ordenen
+    de: Nelkenartige
+    de-ch: Caryophyllales
+    el: Καρυοφυλλώδη
+    en: Caryophyllales
+    en-ca: Caryophyllales
+    en-gb: Caryophyllales
+    eo: Kariofilaloj
+    es: Caryophyllales
+    et: Nelgilaadsed
+    eu: Caryophyllales
+    ext: Caryophyllales
+    fa: میخکسانان
+    fi: Caryophyllales
+    fr: Caryophyllales
+    frp: Caryophyllales
+    frr: Caryophyllales
+    fur: Caryophyllales
+    ga: Caryophyllales
+    gd: Caryophyllales
+    gl: Caryophyllales
+    gsw: Caryophyllales
+    he: ציפורנאים
+    hi: कैरियोफ़िलालीस
+    hr: Klinčićolike
+    hu: szegfűvirágúak
+    hy: մեխակածաղկավորներ
+    ia: Caryophyllales
+    id: Caryophyllales
+    ie: Caryophyllales
+    io: Caryophyllales
+    is: Caryophyllales
+    it: Caryophyllales
+    ja: ナデシコ目
+    jv: Caryophyllales
+    kab: Tinɣerflin
+    kg: Caryophyllales
+    ko: 석죽목
+    ku: Koma mêxikan
+    la: Caryophyllales
+    lb: Caryophyllales
+    li: Caryophyllales
+    lij: Caryophyllales
+    lt: Gvazdikiečiai
+    lv: neļķu rinda
+    mg: Caryophyllales
+    min: Caryophyllales
+    mk: каранфиловидни
+    ml: കാരിയോഫില്ലേലെസ്
+    ms: Caryophyllales
+    mt: Caryophyllales
+    mul: Caryophyllales
+    nap: Caryophyllales
+    nb: Nellikordenen
+    nds: Caryophyllales
+    nds-nl: Caryophyllales
+    nl: Caryophyllales
+    nn: nellikordenen
+    nrm: Caryophyllales
+    nys: Caryophyllales
+    oc: Caryophyllales
+    pcd: Caryophyllales
+    pl: goździkowce
+    pms: Caryophyllales
+    pt: Caryophyllales
+    pt-br: Caryophyllales
+    rm: Caryophyllales
+    ro: Caryophyllales
+    ru: гвоздичноцветные
+    sc: Caryophyllales
+    scn: Caryophyllales
+    sco: Caryophyllales
+    sh: Caryophyllales
+    sk: klinčekotvaré
+    sl: klinčkovci
+    sq: Caryophyllales
+    sr: Caryophyllales
+    sv: Caryophyllales
+    sw: Caryophyllales
+    ta: கரியோபிலாலெசு
+    th: อันดับคาร์เนชัน
+    tl: Caryophyllales
+    tr: Caryophyllales
+    uk: гвоздикоцвіті
+    vec: Caryophyllales
+    vi: Bộ Cẩm chướng
+    vls: Caryophyllales
+    vo: Caryophyllales
+    wa: Caryophyllales
+    war: Caryophyllales
+    wo: Caryophyllales
+    wuu: 石竹目
+    yue: 石竹目
+    zh: 石竹目
+    zh-cn: 石竹目
+    zh-hans: 石竹目
+    zh-hant: 石竹目
+    zh-tw: 石竹目
+    zu: Caryophyllales
 ---
 # [[Caryophyllales]]
 

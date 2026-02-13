@@ -1,50 +1,85 @@
 ---
 aliases:
-  - Margaret_Mitchell
-  - Margaret Munnerlyn Mitchell
-  - Margaret Mitchell
-  - Mitchell
-  - Mitchell,Margaret
+- Margaret Mitchell
+- Margaret Mitchellová
+- Margaret Mitĉell
+- Margaret Mičel
+- Margaret Munnerlyn Mitchell
+- Margaret_Mitchell
+- Margarita Mitchell
+- Marqaret Mitçell
+- Mitchell
+- Mitchell,Margaret
+- Mārgarita Mičela
+- Μάργκαρετ Μίτσελ
+- Маргарет Мітчелл
+- Маргарет Митчелл
+- Маргарет Мичел
+- Маргарет Мичъл
+- Маргарэт Мітчэл
+- Митчелл, Маргарет
+- Մարգարետ Միտչել
+- מרגרט מיטשל
+- مارجريت ميتشل
+- مارغريت ميتشل
+- مارقارت میچل
+- مارګريت ميتچېل
+- مارگارت میچل
+- مارگریٹ مچل
+- मार्गारेट मिचेल
+- মার্গারেট মিচেল
+- ਮਾਰਗਰੇਟ ਮਿਚਲ
+- మార్గరెట్ మిచెల్
+- മാർഗ്ഗരറ്റ് മിച്ചൽ
+- มาร์กาเร็ต มิตเชลล์
+- မာဂရက် မစ်ချယ်
+- მარგარეტ მიტჩელი
+- ማርጋሬት ሚሸል
+- マーガレット・ミッチェル
+- 玛格丽特·米切尔
+- 瑪嘉烈·米契爾
+- 瑪格麗特·米切爾
+- 마거릿 미첼
 has_id_wikidata: Q173540
 family_name: '[[_Standards/WikiData/WD~Mitchell,179205]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Book_Award,572316]]'
-  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_the_Novel,1155483]]'
-  - '[[_Standards/WikiData/WD~Georgia_Women_of_Achievement,5547856]]'
+- '[[_Standards/WikiData/WD~National_Book_Award,572316]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_the_Novel,1155483]]'
+- '[[_Standards/WikiData/WD~Georgia_Women_of_Achievement,5547856]]'
 genre: '[[_Standards/WikiData/WD~romance,738473]]'
 occupation:
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_burial: '[[_Standards/WikiData/WD~Oakland_Cemetery,2008469]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
-  - '[[_Standards/WikiData/WD~American_Women_Writers,_1900_1945_A_Bio_Bibliographical_Critical_Sourcebook,120697360]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
+- '[[_Standards/WikiData/WD~American_Women_Writers,_1900_1945_A_Bio_Bibliographical_Critical_Sourcebook,120697360]]'
 given_name: '[[_Standards/WikiData/WD~Margaret,4963612]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Lost_Laysen,6684134]]'
-  - '[[_Standards/WikiData/WD~Gone_with_the_Wind,2870]]'
+- '[[_Standards/WikiData/WD~Lost_Laysen,6684134]]'
+- '[[_Standards/WikiData/WD~Gone_with_the_Wind,2870]]'
 residence: '[[_Standards/WikiData/WD~Margaret_Mitchell_House_&_Museum,6759733]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~The_Westminster_Schools,7774336]]'
-  - '[[_Standards/WikiData/WD~Smith_College,49204]]'
+- '[[_Standards/WikiData/WD~The_Westminster_Schools,7774336]]'
+- '[[_Standards/WikiData/WD~Smith_College,49204]]'
 cause_of_death: '[[_Standards/WikiData/WD~struck_by_vehicle,9637047]]'
 relative:
-  - '[[_Standards/WikiData/WD~Joseph_Mitchell,16197672]]'
-  - '[[_Standards/WikiData/WD~Mary_Melanie_Holliday,110862750]]'
+- '[[_Standards/WikiData/WD~Joseph_Mitchell,16197672]]'
+- '[[_Standards/WikiData/WD~Mary_Melanie_Holliday,110862750]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 date_of_birth: 1900-11-08T00:00:00Z
 archives_at: '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
 mother: '[[_Standards/WikiData/WD~Maybelle_Stephens_Mitchell,107054887]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Berrien_Kinnard_Upshaw,108664435]]'
-  - '[[_Standards/WikiData/WD~John_Robert_Marsh,108664437]]'
+- '[[_Standards/WikiData/WD~Berrien_Kinnard_Upshaw,108664435]]'
+- '[[_Standards/WikiData/WD~John_Robert_Marsh,108664437]]'
 father: '[[_Standards/WikiData/WD~Eugene_Mitchell,110831687]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -65,8 +100,107 @@ Europeana_entity: agent/base/60172
 Libris_URI: xv8b69dg1m32h5n
 name_in_native_language: Margaret Munnerlyn Mitchell
 work_period_start_: 1936-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Margaret Mitchell
+    am: ማርጋሬት ሚሸል
+    ar: مارغريت ميتشل
+    arz: مارجريت ميتشل
+    ast: Margaret Mitchell
+    avk: Margaret Mitchell
+    az: Marqaret Mitçell
+    azb: مارقارت میچل
+    ba: Маргарет Митчелл
+    be: Маргарэт Мітчэл
+    be-tarask: Маргарэт Мітчэл
+    bg: Маргарет Мичъл
+    bn: মার্গারেট মিচেল
+    br: Margaret Mitchell
+    ca: Margaret Mitchell
+    ce: Митчелл, Маргарет
+    cs: Margaret Mitchell
+    cy: Margaret Mitchell
+    da: Margaret Mitchell
+    de: Margaret Mitchell
+    de-ch: Margaret Mitchell
+    el: Μάργκαρετ Μίτσελ
+    en: Margaret Mitchell
+    en-ca: Margaret Mitchell
+    en-gb: Margaret Mitchell
+    en-us: Margaret Mitchell
+    eo: Margaret Mitĉell
+    es: Margaret Mitchell
+    et: Margaret Mitchell
+    eu: Margaret Mitchell
+    fa: مارگارت میچل
+    fi: Margaret Mitchell
+    fr: Margaret Mitchell
+    ga: Margaret Mitchell
+    gl: Margaret Mitchell
+    he: מרגרט מיטשל
+    hr: Margaret Mitchell
+    hu: Margaret Mitchell
+    hy: Մարգարետ Միտչել
+    id: Margaret Mitchell
+    io: Margaret Mitchell
+    it: Margaret Mitchell
+    ja: マーガレット・ミッチェル
+    ka: მარგარეტ მიტჩელი
+    ko: 마거릿 미첼
+    ky: Маргарет Митчелл
+    la: Margarita Mitchell
+    lt: Margaret Mitchell
+    lv: Mārgarita Mičela
+    mg: Margaret Mitchell
+    mk: Маргарет Мичел
+    ml: മാർഗ്ഗരറ്റ് മിച്ചൽ
+    mr: मार्गारेट मिचेल
+    ms: Margaret Mitchell
+    my: မာဂရက် မစ်ချယ်
+    nb: Margaret Mitchell
+    nl: Margaret Mitchell
+    nn: Margaret Mitchell
+    oc: Margaret Mitchell
+    olo: Margaret Mitchell
+    pa: ਮਾਰਗਰੇਟ ਮਿਚਲ
+    pap: Margaret Mitchell
+    pl: Margaret Mitchell
+    ps: مارګريت ميتچېل
+    pt: Margaret Mitchell
+    pt-br: Margaret Mitchell
+    qu: Margaret Mitchell
+    ro: Margaret Mitchell
+    ru: Маргарет Митчелл
+    rue: Маргарет Митчелл
+    sh: Margaret Mitchell
+    sk: Margaret Mitchellová
+    sl: Margaret Mitchell
+    sq: Margaret Mitchell
+    sr: Маргарет Мичел
+    sr-ec: Маргарет Мичел
+    sr-el: Margaret Mičel
+    sv: Margaret Mitchell
+    sw: Margaret Mitchell
+    te: మార్గరెట్ మిచెల్
+    th: มาร์กาเร็ต มิตเชลล์
+    tr: Margaret Mitchell
+    tt: Маргарет Митчелл
+    uk: Маргарет Мітчелл
+    ur: مارگریٹ مچل
+    uz: Margaret Mitchell
+    vi: Margaret Mitchell
+    war: Margaret Mitchell
+    wuu: 玛格丽特·米切尔
+    xmf: მარგარეტ მიტჩელი
+    yue: 瑪嘉烈·米契爾
+    zh: 玛格丽特·米切尔
+    zh-cn: 玛格丽特·米切尔
+    zh-hans: 玛格丽特·米切尔
+    zh-hant: 瑪格麗特·米切爾
+    zh-hk: 瑪格麗特·米切爾
+    zh-sg: 玛格丽特·米切尔
+    zh-tw: 瑪格麗特·米切爾
 ---
-
 # [[Mitchell,Margaret]] 
 
 #is_/same_as :: [[WD~Margaret_Mitchell,173540]] 

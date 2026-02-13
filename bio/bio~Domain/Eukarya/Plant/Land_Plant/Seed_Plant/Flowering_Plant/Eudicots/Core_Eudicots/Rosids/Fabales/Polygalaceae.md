@@ -1,9 +1,129 @@
 ---
 aliases:
-  - milkwort
-  - Polygalaceae
+- Blåfjærfamilien
+- horčinkovité
+- Họ Viễn chí
+- Jungfrulinsväxter
+- Krestuščevke
+- Kreuzblumengewächse
+- krzyżownicowate
+- Krüsbluumplaanten
+- Křižničkowe rostliny
+- linnunruohokasvit
+- milkwort
+- Mælkeurt-familien
+- pacsirtafűfélék
+- Poligalacoj
+- poligalàcies
+- Polygalaceae
+- Polygalales
+- Putokšliniai
+- Südotukimilər
+- Vahulillelised
+- vleugeltjesbloemfamilie
+- vítodovité
+- Ziepenīšu dzimta
+- Πολυγαλοειδή
+- Истодовые
+- Китяткові
+- Крапінцовыя
+- Млечни треви
+- Полигала тұқымдасы
+- телчаркови
+- կաթնախոտազգիներ
+- משפחת המרבה-חלב
+- سود اوْتوچیچکلیلر
+- شیرآوریان
+- مغزرية
+- مغزريه
+- പോളിഗാലേസീ
+- วงศ์ต่างไก่ป่า
+- წიწინაურისებრნი
+- ヒメハギ科
+- 远志科
+- 遠志科
+- 원지과
 title: Polygalaceae
 has_id_wikidata: Q156360
+dv_has_:
+  name_:
+    af: Polygalaceae
+    an: Polygalaceae
+    ar: مغزرية
+    arz: مغزريه
+    ast: Polygalaceae
+    az: Südotukimilər
+    azb: سود اوْتوچیچکلیلر
+    be: Крапінцовыя
+    be-tarask: крапінцовыя
+    bg: телчаркови
+    bs: Polygalaceae
+    ca: poligalàcies
+    ceb: Polygalaceae
+    cs: vítodovité
+    da: Mælkeurt-familien
+    de: Kreuzblumengewächse
+    el: Πολυγαλοειδή
+    en: Polygalaceae
+    eo: Poligalacoj
+    es: Polygalaceae
+    et: Vahulillelised
+    eu: Polygalaceae
+    ext: Polygalaceae
+    fa: شیرآوریان
+    fi: linnunruohokasvit
+    fr: Polygalaceae
+    frr: Krüsbluumplaanten
+    ga: Polygalaceae
+    gl: Polygalaceae
+    he: משפחת המרבה-חלב
+    hr: Krestuščevke
+    hsb: Křižničkowe rostliny
+    hu: pacsirtafűfélék
+    hy: կաթնախոտազգիներ
+    ia: Polygalaceae
+    id: Polygalales
+    ie: Polygalaceae
+    io: Polygalaceae
+    it: Polygalaceae
+    ja: ヒメハギ科
+    ka: წიწინაურისებრნი
+    kk: Полигала тұқымдасы
+    ko: 원지과
+    la: Polygalaceae
+    lmo: Polygalaceae
+    lt: Putokšliniai
+    lv: Ziepenīšu dzimta
+    mk: Млечни треви
+    ml: പോളിഗാലേസീ
+    mul: Polygalaceae
+    nb: Blåfjærfamilien
+    nl: vleugeltjesbloemfamilie
+    oc: Polygalaceae
+    pl: krzyżownicowate
+    pt: Polygalaceae
+    pt-br: Polygalaceae
+    ro: Polygalaceae
+    ru: Истодовые
+    sk: horčinkovité
+    sq: Polygalaceae
+    sr: Polygalaceae
+    sr-ec: Polygalaceae
+    sr-el: Polygalaceae
+    sv: Jungfrulinsväxter
+    th: วงศ์ต่างไก่ป่า
+    tr: Polygalaceae
+    uk: Китяткові
+    vi: Họ Viễn chí
+    vo: Polygalaceae
+    war: Polygalaceae
+    zh: 远志科
+    zh-cn: 远志科
+    zh-hans: 远志科
+    zh-hant: 遠志科
+    zh-hk: 遠志科
+    zh-sg: 远志科
+    zh-tw: 遠志科
 ---
 # [[Polygalaceae]] 
 

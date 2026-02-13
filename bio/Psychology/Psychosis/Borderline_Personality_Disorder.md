@@ -1,8 +1,167 @@
 ---
 has_id_wikidata: Q208166
+dv_has_:
+  name_:
+    af: Grenslyn-persoonlikheidsversteuring
+    an: Trestuque mugant d'a personalidat
+    ar: اضطراب الشخصية الحدي
+    ast: Trestornu llende de la personalidá
+    az: Sərhəd şəxsiyyət pozuntusu
+    azb: مرزی کیشیلیک پوزولماسی
+    be: памежны разлад асобы
+    be-tarask: памежны разлад асобы
+    bg: гранично личностно разстройство
+    bn: বর্ডারলাইন পারসনালিটি ডিজর্ডার
+    ca: trastorn límit de la personalitat
+    cs: hraniční porucha osobnosti
+    da: Borderline-personlighedsforstyrrelse
+    de: emotional instabile Persönlichkeitsstörung
+    de-ch: Borderline-Persönlichkeitsstörung
+    el: Οριακή (μεταιχμιακή) διαταραχή προσωπικότητας
+    en: borderline personality disorder
+    en-ca: Borderline personality disorder
+    en-gb: borderline personality disorder
+    eo: emocie malstabila personeca perturbo
+    es: trastorno límite de la personalidad
+    et: Piirialane isiksushäire
+    eu: Mugako nortasunaren nahasmendu
+    fa: اختلال شخصیت مرزی
+    fi: Epävakaa persoonallisuus
+    fr: trouble de la personnalité borderline
+    ga: neamhord pearsantachta imeallach
+    gd: Galar iomallach na pearsantachd
+    gl: trastorno límite da personalidade
+    gpe: borderline personality disorder
+    he: הפרעת אישיות גבולית
+    hr: granični poremećaj osobnosti
+    hu: borderline személyiségzavar
+    hy: Սահմանային անձնային խանգարում
+    id: Gangguan Kepribadian Borderline
+    io: Perturbo dil emoco-stabileso
+    is: Hambrigði
+    it: disturbo borderline di personalità
+    ja: 境界性パーソナリティ障害
+    ka: მოსაზღვრე პიროვნების აშლილობა
+    kn: ಆಂತರಿಕ ವ್ಯಕ್ತಿತ್ವ ಅಸ್ವಸ್ಥತೆ
+    ko: 경계성 인격장애
+    lt: Ribinis asmenybės sutrikimas
+    lv: robežstāvokļa personības traucējums
+    mk: гранично растројство на личноста
+    ml: അതിർരേഖാ വ്യക്തിത്വവൈകല്യം
+    ms: Kecelaruan personaliti pinggiran
+    mzn: اختلال مرزی شخصیت
+    nb: borderline personlighetsforstyrrelse
+    ne: व्यक्तित्व विकार
+    nl: borderline-persoonlijkheidsstoornis
+    or: ବର୍ଡର ଲାଇନ ପର୍ସନାଲିଟି ଡିଜଅର୍ଡ଼ର
+    pam: Inestabilidad emosional
+    pap: Trastorno di personalidad borderline
+    pl: osobowość chwiejna emocjonalnie typu borderline
+    pt: perturbação borderline da personalidade
+    pt-br: Transtorno de personalidade limítrofe
+    ro: tulburare de personalitate borderline
+    ru: пограничное расстройство личности
+    sh: granični poremećaj ličnosti
+    si: Boderline Personality Disorder
+    sl: mejna osebnostna motnja
+    so: Xanuunka shaqsiyeedka xasilooni-darro
+    sr: гранични поремећај личности
+    sr-ec: Гранични поремећај личности
+    sr-el: Granični poremećaj ličnosti
+    sv: borderline personlighetsstörning
+    sw: Ugonjwa wa kutotulia kihisia
+    th: ความผิดปกติทางบุคลิกภาพแบบก้ำกึ่ง
+    tl: Diperensiya ng alanganing pagkatao
+    tr: borderline
+    uk: Прикордонний розлад особистості
+    ur: حد فاضل کا شخصیتی اختلال
+    uz: Ruhiy muvozanatsizlik holati
+    vec: disturbo borderline de ła personałità
+    vi: Rối loạn nhân cách ranh giới
+    yi: בארדערליין פערזענלעכקייט-שטערונג
+    yue: 邊緣型人格障礙
+    zh: 边缘型人格障碍
+    zh-cn: 边缘型人格障碍
+    zh-hans: 边缘型人格障碍
+    zh-hant: 邊緣型人格障礙
+    zh-hk: 邊緣性人格障礙
+    zh-sg: 边缘型人格障碍
+aliases:
+- Boderline Personality Disorder
+- borderline
+- borderline personality disorder
+- borderline personlighetsforstyrrelse
+- borderline personlighetsstörning
+- borderline személyiségzavar
+- Borderline-personlighedsforstyrrelse
+- borderline-persoonlijkheidsstoornis
+- Borderline-Persönlichkeitsstörung
+- Diperensiya ng alanganing pagkatao
+- disturbo borderline de ła personałità
+- disturbo borderline di personalità
+- emocie malstabila personeca perturbo
+- emotional instabile Persönlichkeitsstörung
+- Epävakaa persoonallisuus
+- Galar iomallach na pearsantachd
+- Gangguan Kepribadian Borderline
+- granični poremećaj ličnosti
+- granični poremećaj osobnosti
+- Grenslyn-persoonlikheidsversteuring
+- Hambrigði
+- hraniční porucha osobnosti
+- Inestabilidad emosional
+- Kecelaruan personaliti pinggiran
+- mejna osebnostna motnja
+- Mugako nortasunaren nahasmendu
+- neamhord pearsantachta imeallach
+- osobowość chwiejna emocjonalnie typu borderline
+- perturbação borderline da personalidade
+- Perturbo dil emoco-stabileso
+- Piirialane isiksushäire
+- Ribinis asmenybės sutrikimas
+- robežstāvokļa personības traucējums
+- Ruhiy muvozanatsizlik holati
+- Rối loạn nhân cách ranh giới
+- Sərhəd şəxsiyyət pozuntusu
+- Transtorno de personalidade limítrofe
+- trastorn límit de la personalitat
+- Trastorno di personalidad borderline
+- trastorno límite da personalidade
+- trastorno límite de la personalidad
+- Trestornu llende de la personalidá
+- Trestuque mugant d'a personalidat
+- trouble de la personnalité borderline
+- tulburare de personalitate borderline
+- Ugonjwa wa kutotulia kihisia
+- Xanuunka shaqsiyeedka xasilooni-darro
+- Οριακή (μεταιχμιακή) διαταραχή προσωπικότητας
+- гранични поремећај личности
+- гранично личностно разстройство
+- гранично растројство на личноста
+- памежны разлад асобы
+- пограничное расстройство личности
+- Прикордонний розлад особистості
+- Սահմանային անձնային խանգարում
+- בארדערליין פערזענלעכקייט-שטערונג
+- הפרעת אישיות גבולית
+- اختلال شخصیت مرزی
+- اختلال مرزی شخصیت
+- اضطراب الشخصية الحدي
+- حد فاضل کا شخصیتی اختلال
+- مرزی کیشیلیک پوزولماسی
+- व्यक्तित्व विकार
+- বর্ডারলাইন পারসনালিটি ডিজর্ডার
+- ବର୍ଡର ଲାଇନ ପର୍ସନାଲିଟି ଡିଜଅର୍ଡ଼ର
+- ಆಂತರಿಕ ವ್ಯಕ್ತಿತ್ವ ಅಸ್ವಸ್ಥತೆ
+- അതിർരേഖാ വ്യക്തിത്വവൈകല്യം
+- ความผิดปกติทางบุคลิกภาพแบบก้ำกึ่ง
+- მოსაზღვრე პიროვნების აშლილობა
+- 境界性パーソナリティ障害
+- 边缘型人格障碍
+- 邊緣型人格障礙
+- 邊緣性人格障礙
+- 경계성 인격장애
 ---
-
-
 # [[Borderline_Personality_Disorder]] 
 
 #is_/better_than :: [[../Psychosis|Psychosis]] 

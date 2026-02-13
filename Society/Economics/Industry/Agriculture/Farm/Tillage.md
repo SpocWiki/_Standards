@@ -1,37 +1,185 @@
 ---
 aliases:
+- aparšana
+- Aratio
+- arimas
+- bodembewerking
+- Bodenbearbeitung
+- Bou
+- brananje
+- canh tác
+- cot
+- földművelés
+- grondbewerking
+- grundprilaborado
+- jordbearbeiding
+- jordbearbetning
+- kyntö
+- labour-douar
+- labranza
+- labrar
+- laorasion de ła tera
+- laurada
+- lavorazione del terreno
+- lavoura
+- lavërtaria
+- llaurar
+- lur-lantze
+- lê-chhân
+- mullaharimine
+- orba
+- orka
+- pengolahan tanah
+- Puɔ̈ɔ̈r
+- ratarstvo
+- saothrú
+- tcherwaedje
+- tillage
+- toprak işleme
+- travail du sol
+- yapuy
+- yerni ishlash
+- zəmini emol karde
+- όργωμα
+- айдоо
+- аранне
+- ворыва
+- жер жырту
+- обработка земли
+- орање
+- оран
+- оранка
+- ратарство
+- Һөрөү
+- վար
+- אקערן
+- חרישה
+- حراثة
+- خاکورزی
+- واہی
+- खनजोत
+- जुताई
+- আবাদ
+- ਵਾਹੀ
+- உழவு
+- കിള
+- Ịkpụcha
+- 林地的场地准备
+- 林地的場地準備
+- 耕
+- 耕作
+- 耕起
+- 경작
 has_id_wikidata: Q878333
 uses:
-  - "[[_Standards/WikiData/WD~hoe,131154]]"
-  - "[[_Standards/WikiData/WD~rake,200822]]"
-  - "[[_Standards/WikiData/WD~pickaxe,232254]]"
-  - "[[_Standards/WikiData/WD~cultivator,1273840]]"
-  - "[[_Standards/WikiData/WD~shovel,7220961]]"
-  - "[[_Standards/WikiData/WD~mattock,8193873]]"
-  - "[[_Standards/WikiData/WD~tillage_machine,15306431]]"
-  - "[[_Standards/WikiData/WD~plough,11464]]"
+- '[[_Standards/WikiData/WD~hoe,131154]]'
+- '[[_Standards/WikiData/WD~rake,200822]]'
+- '[[_Standards/WikiData/WD~pickaxe,232254]]'
+- '[[_Standards/WikiData/WD~cultivator,1273840]]'
+- '[[_Standards/WikiData/WD~shovel,7220961]]'
+- '[[_Standards/WikiData/WD~mattock,8193873]]'
+- '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+- '[[_Standards/WikiData/WD~plough,11464]]'
 different_from:
-  - "[[_Standards/WikiData/WD~crop,235352]]"
-  - "[[_Standards/WikiData/WD~Uprawa,9366920]]"
+- '[[_Standards/WikiData/WD~crop,235352]]'
+- '[[_Standards/WikiData/WD~Uprawa,9366920]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Q3003218,3003218]]"
-  - "[[_Standards/WikiData/WD~soil,36133]]"
+- '[[_Standards/WikiData/WD~Q3003218,3003218]]'
+- '[[_Standards/WikiData/WD~soil,36133]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~arable_farming,3198719]]"
-  - "[[_Standards/WikiData/WD~process,10843872]]"
-  - "[[_Standards/WikiData/WD~farming_practice,117048972]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~ploughing,11218006]]"
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~soil,36133]]"
+- '[[_Standards/WikiData/WD~arable_farming,3198719]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~farming_practice,117048972]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~ploughing,11218006]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~soil,36133]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/04-09-12-Schaupfl%C3%BCgen-Fahrenwalde-RalfR-IMG%201232.jpg
 Commons_category: Tillage
-Basisklassifikation: "48.36"
+Basisklassifikation: 48.36
+dv_has_:
+  name_:
+    af: grondbewerking
+    ar: حراثة
+    ba: Һөрөү
+    be: аранне
+    be-tarask: ворыва
+    bg: оран
+    bn: আবাদ
+    br: labour-douar
+    bs: ratarstvo
+    ca: llaurar
+    cs: orba
+    de: Bodenbearbeitung
+    din: Puɔ̈ɔ̈r
+    el: όργωμα
+    en: tillage
+    eo: grundprilaborado
+    es: labranza
+    et: mullaharimine
+    eu: lur-lantze
+    fa: خاکورزی
+    fi: kyntö
+    fr: travail du sol
+    fy: Bou
+    ga: saothrú
+    gl: labrar
+    he: חרישה
+    hi: जुताई
+    hr: ratarstvo
+    hu: földművelés
+    hy: վար
+    id: pengolahan tanah
+    ig: Ịkpụcha
+    it: lavorazione del terreno
+    ja: 耕起
+    kk: жер жырту
+    ko: 경작
+    ku: cot
+    ky: айдоо
+    la: Aratio
+    lt: arimas
+    lv: aparšana
+    mk: орање
+    ml: കിള
+    nan: lê-chhân
+    nb: jordbearbeiding
+    ne: खनजोत
+    nl: bodembewerking
+    oc: laurada
+    pa: ਵਾਹੀ
+    pl: orka
+    pnb: واہی
+    pt: lavoura
+    pt-br: lavoura
+    qu: yapuy
+    ru: обработка земли
+    sh: ratarstvo
+    sk: orba
+    sl: brananje
+    sq: lavërtaria
+    sr: ратарство
+    sr-ec: ратарство
+    sr-el: ratarstvo
+    sv: jordbearbetning
+    ta: உழவு
+    te: tillage
+    tly: zəmini emol karde
+    tr: toprak işleme
+    uk: оранка
+    uz: yerni ishlash
+    vec: laorasion de ła tera
+    vi: canh tác
+    wa: tcherwaedje
+    yi: אקערן
+    yue: 耕
+    zh: 耕作
+    zh-hans: 林地的场地准备
+    zh-hant: 林地的場地準備
 ---
-
 # [[Tillage]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tillage,878333|WD~Tillage,878333]]  

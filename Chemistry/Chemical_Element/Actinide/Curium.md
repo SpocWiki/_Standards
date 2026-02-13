@@ -1,19 +1,92 @@
 ---
 aliases:
-  - Curium
+- ciúiriam
+- curi
+- Curio
+- curiu
+- Curium
+- curiumi
+- Curiwm
+- Curyo
+- Cùriu
+- cúrio
+- IChumumbi
+- jinmrkuri
+- kirij
+- kirijs
+- Kirijum
+- kiur
+- kiuris
+- kurin
+- kurio
+- Kuriom
+- kurium
+- kuriumo
+- kurju
+- Kuryo
+- Kuryu
+- kuurium
+- Kyurium
+- Kyuriy
+- Kùríọ̀m
+- Kúrín
+- Kürii
+- Kürium
+- küriyum
+- kűrium
+- Kʊrɩyɔm
+- K’urii
+- κιούριο
+- киријум
+- кириум
+- Кюр
+- кюрій
+- Кюри
+- кюрий
+- Кюрый
+- Күриум
+- Күриүм
+- Кӱрий
+- կյուրիում
+- קוריום
+- كوريوم
+- كىيۇرىي
+- کوریم
+- کوریۆم
+- کيوريوم
+- کیوریئم
+- کیوریم
+- क्युरियम
+- क्यूरियम
+- কুরিয়াম
+- ક્યુરીયમ
+- କ୍ୟୁରିଅମ
+- கியூரியம்
+- క్యూరియం
+- ಕ್ಯೂರಿಯಮ್
+- ക്യൂറിയം
+- คูเรียม
+- ကျူရီယမ်
+- კიურიუმი
+- ኩሪየም
+- キュリウム
+- 鋦
+- 锔
+- ꯀ꯭ꯌꯨꯔꯤꯌꯝ
+- 퀴륨
 has_id_wikidata: Q1876
 atomic_number: 96
-canonical_SMILES: "[Cm]"
+canonical_SMILES: '[Cm]'
 CAS_Registry_Number: 7440-51-9
 chemical_formula: Cm
 Commons_category: Curium
 Commons_gallery: Curium
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification: 546.442
-different_from: "[[_Standards/WikiData/WD~Kiur,11739561]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+different_from: '[[_Standards/WikiData/WD~Kiur,11739561]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID80147881
 electronegativity: 1.28
 element_symbol: Cm
@@ -21,42 +94,193 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png
 InChI: InChI=1S/Cm
 InChIKey: NIWWFAAXEMMFMS-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.85
-  - 0.95
-  - 0.97
+- 0.85
+- 0.95
+- 0.97
 mass: 247.07
 MeSH_tree_code:
-  - D01.268.271.100.175
-  - D01.268.556.200
-  - D01.496.749.305.100.175
-  - D01.552.020.272
-  - D01.552.544.200
+- D01.268.271.100.175
+- D01.268.556.200
+- D01.496.749.305.100.175
+- D01.552.020.272
+- D01.552.544.200
 named_after:
-  - "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
-  - "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
+- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
 OmegaWiki_Defined_Meaning: 157032
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65411312,65411312]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411312,65411312]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg
 PubChem_CID: 23979
 SpocWebEntityId: 21991
 time_of_discovery_or_invention: 1944
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_curium,8085313]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_curium,8085313]]'
 type: Element
 UMLS_CUI: C0010473
 Unicode_character: 鋦
 UNII: M5LL84MZ2W
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Curium
-    de: Curium
     abbreviated: Cm
+    af: Curium
+    am: ኩሪየም
+    anp: क्यूरियम
+    ar: كوريوم
+    ary: كوريوم
+    arz: كوريوم
+    ast: curio
+    az: Kürium
+    ba: Кюрий
+    ban: Curium
+    be: Кюрый
+    be-tarask: Кюр
+    bg: кюрий
+    bho: क्युरियम
+    bn: কুরিয়াম
+    br: Kuriom
+    bs: kirij
+    ca: curi
+    cdo: Curium
+    ceb: Kuryo
+    ckb: کوریۆم
+    co: Curiu
+    cs: curium
+    cv: Кюри
+    cy: Curiwm
+    da: curium
+    de: Curium
+    el: κιούριο
+    en: curium
+    en-gb: curium
+    eo: kuriumo
+    es: curio
+    et: kuurium
+    eu: kurio
+    fa: کوریم
+    fi: curium
+    fo: Curium
+    fr: curium
+    frr: Kuurium
+    fur: Curi
+    ga: ciúiriam
+    gd: Curium
+    gl: curio
+    group: Actinide-Group
+    gu: ક્યુરીયમ
+    gv: curium
+    hak: curium
+    he: קוריום
+    hi: क्यूरियम
+    hif: Curium
+    hr: kirij
+    hu: kűrium
+    hy: կյուրիում
+    ia: curium
+    id: kurium
+    io: kuriumo
+    is: Kúrín
+    it: curio
+    ja: キュリウム
+    jbo: jinmrkuri
+    jv: Kurium
+    ka: კიურიუმი
+    kbp: Kʊrɩyɔm
+    kk: Кюрий
+    kn: ಕ್ಯೂರಿಯಮ್
+    ko: 퀴륨
+    kv: Кюрий
+    kw: Kuriom
+    ky: Кюрий
+    la: curium
+    lb: Curium
+    lfn: curio
+    li: Curium
+    lij: Curio
+    lt: kiuris
+    lv: kirijs
+    lzh: 鋦
+    mk: кириум
+    ml: ക്യൂറിയം
+    mn: кюри
+    mni: ꯀ꯭ꯌꯨꯔꯤꯌꯝ
+    mr: क्युरियम
+    mrj: Кӱрий
+    ms: Kurium
+    mt: kurju
+    my: ကျူရီယမ်
+    nan: Curium
+    nb: curium
+    ne: क्युरियम
+    new: क्युरियम
+    nl: curium
+    nn: curium
+    nov: Kyurium
+    oc: curium
+    olo: K’urii
+    or: କ୍ୟୁରିଅମ
+    os: кюрий
+    pi: क्युरियम
+    pl: kiur
+    pms: Curio
+    pnb: کیوریم
+    ps: کيوريوم
+    pt: cúrio
+    pt-br: cúrio
+    qu: Kuryu
+    ro: curiu
+    ru: кюрий
+    rup: Curiu
+    sa: क्युरियम
+    sah: Күриум
+    sc: Cùriu
+    scn: curiu
+    sh: Kirijum
+    sk: curium
+    sl: kirij
+    sq: curiumi
+    sr: киријум
+    sr-ec: Киријум
+    stq: Curium
+    sv: curium
+    sw: curi
+    ta: கியூரியம்
+    te: క్యూరియం
+    tg: Кюрий
+    th: คูเรียม
+    tl: Kuryo
+    tr: küriyum
+    tt: Кюрий
+    ug: كىيۇرىي
+    uk: кюрій
+    ur: کیوریئم
+    uz: Kyuriy
+    vep: Kürii
+    vi: curium
+    vo: kurin
+    war: Curyo
+    wuu: 锔
+    xal: Күриүм
+    yo: Kùríọ̀m
+    yue: 鋦
+    zh: 锔
+    zh-cn: 锔
+    zh-hans: 锔
+    zh-hant: 鋦
+    zh-hk: 鋦
+    zh-mo: 鋦
+    zh-my: 锔
+    zh-sg: 锔
+    zh-tw: 鋦
+    zu: IChumumbi
+  number_of_:
+    period: 7
+    group: 30
+    electrons: 96
   value_for_:
     weight_:
       u: 247
@@ -84,23 +308,19 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 30
-    electrons: 96
 dv_is_:
-  part_of: "[[../Actinide]]"
+  part_of: '[[../Actinide]]'
   same_as:
-    - "[[../../../WikiData/WD~Curium,1876]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect|Curium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]"
+  - '[[../../../WikiData/WD~Curium,1876]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect|Curium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]"
+dv_is_part_of: '[[../Actinide]]'
 dv_has_name_en: Curium
 dv_has_name_de: Curium
 dv_has_name_abbreviated: Cm
@@ -121,16 +341,15 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 30
 dv_has_number_of_electrons: 96
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Curium,1876]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect|Curium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]"
+- '[[../../../WikiData/WD~Curium,1876]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Curium.protect|Curium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]'
 ---
-
 # [[Curium]] 
 
 #chemic/Element 

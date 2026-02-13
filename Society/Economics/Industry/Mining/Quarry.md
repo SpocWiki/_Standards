@@ -1,17 +1,83 @@
 ---
 aliases:
+- barriera
+- cairéal
+- canteira
+- cantera
+- carieră
+- carrière
+- cava
+- chwarel
+- cårire
+- dagbrot
+- dagbrott
+- dagbrud
+- dagbrudd
+- gairbheal
+- galian
+- groeve
+- Grube
+- Gurorja
+- harrobi
+- kamieniołom
+- kamnolom
+- karjeras
+- karjers
+- karjäär
+- Karyer
+- kuari
+- kőbánya
+- lom
+- louhos
+- mỏ đá
+- orycheum
+- pedreira
+- pedrera
+- peirièra
+- pirrera
+- Površinski kop
+- quarry
+- Schdaanbruch
+- skała
+- Steebroch
+- taş ocağı
+- Ŝtonmino
+- ορυχείο
+- каменолом
+- кар'єр
+- кариера
+- карьер
+- кар’ер
+- умбодовкс
+- מחצבה
+- معدن سنگ
+- مقلع
+- پدریرا
+- کان (کان کنی)
+- खादान
+- পেড্রেইরা
+- క్వారీ
+- ಅರೆ ಅಥವಾ ಕಲ್ಲುಗಣಿ
+- ക്വാറി
+- კარიერი
+- 採石場
+- 沙石场
+- 沙石場
+- 石塘
+- 石宕
+- 채석장
 has_id_wikidata: Q188040
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Cantera,5033607]]"
-  - "[[_Standards/WikiData/WD~Cava,41124]]"
+- '[[_Standards/WikiData/WD~Cantera,5033607]]'
+- '[[_Standards/WikiData/WD~Cava,41124]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~human_made_landform,12529452]]"
-  - "[[_Standards/WikiData/WD~surface_mine,113594123]]"
-Nomenclature_for_Museum_Cataloging: "837"
+- '[[_Standards/WikiData/WD~human_made_landform,12529452]]'
+- '[[_Standards/WikiData/WD~surface_mine,113594123]]'
+Nomenclature_for_Museum_Cataloging: 837
 IMDb_keyword: quarry
 Commons_gallery: Quarry
 image: http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%BChnerberg.jpg
@@ -21,8 +87,87 @@ described_at_URL: https://akp.nba.fi/wiki;louhos
 Commons_category: Quarries
 GeoNames_feature_code: S.MNQR
 OpenStreetMap_tag: landuse=quarry
+dv_has_:
+  name_:
+    an: pedrera
+    ar: مقلع
+    ast: cantera
+    be: кар’ер
+    be-tarask: кар’ер
+    bg: кариера
+    bpy: পেড্রেইরা
+    ca: pedrera
+    cs: lom
+    cy: chwarel
+    da: dagbrud
+    de: Grube
+    el: ορυχείο
+    en: quarry
+    eo: Ŝtonmino
+    es: cantera
+    et: karjäär
+    eu: harrobi
+    fa: معدن سنگ
+    fi: louhos
+    fr: carrière
+    ga: cairéal
+    gd: gairbheal
+    gl: canteira
+    he: מחצבה
+    hi: खादान
+    hsb: skała
+    hu: kőbánya
+    id: galian
+    it: cava
+    ja: 採石場
+    ka: კარიერი
+    kk: Карьер
+    kn: ಅರೆ ಅಥವಾ ಕಲ್ಲುಗಣಿ
+    ko: 채석장
+    ky: Карьер
+    la: orycheum
+    lb: Steebroch
+    lt: karjeras
+    lv: karjers
+    mk: каменолом
+    ml: ക്വാറി
+    ms: kuari
+    mt: barriera
+    myv: умбодовкс
+    mzn: پدریرا
+    nb: dagbrudd
+    nl: groeve
+    nn: dagbrot
+    oc: peirièra
+    pfl: Schdaanbruch
+    pl: kamieniołom
+    pt: pedreira
+    pt-br: pedreira
+    ro: carieră
+    ru: карьер
+    scn: pirrera
+    sk: lom
+    sl: kamnolom
+    sq: Gurorja
+    sr: Površinski kop
+    sv: dagbrott
+    te: క్వారీ
+    tr: taş ocağı
+    uk: кар'єр
+    ur: کان (کان کنی)
+    uz: Karyer
+    vi: mỏ đá
+    wa: cårire
+    wuu: 石宕
+    yue: 石塘
+    zh: 沙石场
+    zh-cn: 沙石场
+    zh-hans: 沙石场
+    zh-hant: 沙石場
+    zh-hk: 沙石場
+    zh-sg: 沙石场
+    zh-tw: 沙石場
 ---
-
 # [[Quarry]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Quarry,188040|WD~Quarry,188040]]  

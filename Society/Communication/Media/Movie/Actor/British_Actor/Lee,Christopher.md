@@ -1,9 +1,191 @@
 ---
 aliases:
-  - Christopher Lee
-  - Sir Christopher Frank Carandini Lee
-  - Lee,Christopher
+- Christopher Lee
+- Christophorus Lee
+- Kristofer Li
+- Kristofers Lī
+- Lee,Christopher
+- Sir Christopher Frank Carandini Lee
+- Κρίστοφερ Λι
+- Крістафер Лі
+- Крістофер Лі
+- Кристофер Ли
+- Кристофър Лий
+- Крыстафэр Лі
+- Քրիստոֆեր Լի
+- כריסטופר לי
+- كرستوفر لى
+- كرستوفر لي
+- کرسٹوفر لی
+- کریستوفر لی
+- کریستۆفەر لی
+- کریسټوفر لي
+- ক্রিস্টোফার লী
+- ക്രിസ്റ്റഫർ ലീ
+- คริสโตเฟอร์ ลี
+- კრისტოფერ ლი
+- クリストファー・リー
+- 克里斯多福·李
+- 克里斯托弗·李
+- 古列斯托化·李
+- 基斯杜化·李
+- 크리스토퍼 리
+- "\U0001033A\U00010342\U00010339\U00010343\U00010344\U00010349\U00010346\U00010334\U00010342 \U0001033B\U00010334\U00010334"
 has_id_wikidata: Q180338
+dv_has_:
+  name_:
+    ace: Christopher Lee
+    af: Christopher Lee
+    ak: Christopher Lee
+    an: Christopher Lee
+    ar: كرستوفر لي
+    arz: كرستوفر لى
+    ast: Christopher Lee
+    ay: Christopher Lee
+    az: Kristofer Li
+    azb: کریستوفر لی
+    bar: Christopher Lee
+    bcl: Christopher Lee
+    be: Крістафер Лі
+    be-tarask: Крыстафэр Лі
+    bg: Кристофър Лий
+    bjn: Christopher Lee
+    bn: ক্রিস্টোফার লী
+    br: Christopher Lee
+    ca: Christopher Lee
+    cbk-zam: Christopher Lee
+    ckb: کریستۆفەر لی
+    co: Christopher Lee
+    cs: Christopher Lee
+    cy: Christopher Lee
+    da: Christopher Lee
+    dag: Christopher Lee
+    de: Christopher Lee
+    de-at: Christopher Lee
+    de-ch: Christopher Lee
+    diq: Christopher Lee
+    dsb: Christopher Lee
+    el: Κρίστοφερ Λι
+    en: Christopher Lee
+    en-ca: Christopher Lee
+    en-gb: Christopher Lee
+    eo: Christopher Lee
+    es: Christopher Lee
+    et: Christopher Lee
+    eu: Christopher Lee
+    ext: Christopher Lee
+    fa: کریستوفر لی
+    fi: Christopher Lee
+    fo: Christopher Lee
+    fr: Christopher Lee
+    frp: Christopher Lee
+    fur: Christopher Lee
+    fy: Christopher Lee
+    ga: Christopher Lee
+    gd: Christopher Lee
+    gl: Christopher Lee
+    got: "\U0001033A\U00010342\U00010339\U00010343\U00010344\U00010349\U00010346\U00010334\U00010342 \U0001033B\U00010334\U00010334"
+    gsw: Christopher Lee
+    gv: Christopher Lee
+    haw: Christopher Lee
+    he: כריסטופר לי
+    hr: Christopher Lee
+    hsb: Christopher Lee
+    hu: Christopher Lee
+    hy: Քրիստոֆեր Լի
+    ia: Christopher Lee
+    id: Christopher Lee
+    ie: Christopher Lee
+    ig: Christopher Lee
+    io: Christopher Lee
+    is: Christopher Lee
+    it: Christopher Lee
+    ja: クリストファー・リー
+    jv: Christopher Lee
+    ka: კრისტოფერ ლი
+    kg: Christopher Lee
+    kk: Кристофер Ли
+    ko: 크리스토퍼 리
+    kw: Christopher Lee
+    ky: Кристофер Ли
+    la: Christophorus Lee
+    lb: Christopher Lee
+    li: Christopher Lee
+    lij: Christopher Lee
+    lt: Christopher Lee
+    lv: Kristofers Lī
+    mg: Christopher Lee
+    min: Christopher Lee
+    ml: ക്രിസ്റ്റഫർ ലീ
+    ms: Christopher Lee
+    mul: Christopher Lee
+    na: Christopher Lee
+    nah: Christopher Lee
+    nan: Christopher Lee
+    nap: Christopher Lee
+    nb: Christopher Lee
+    nds: Christopher Lee
+    nds-nl: Christopher Lee
+    nl: Christopher Lee
+    nn: Christopher Lee
+    nov: Christopher Lee
+    nrm: Christopher Lee
+    oc: Christopher Lee
+    pag: Christopher Lee
+    pam: Christopher Lee
+    pcd: Christopher Lee
+    pdc: Christopher Lee
+    pl: Christopher Lee
+    pms: Christopher Lee
+    ps: کریسټوفر لي
+    pt: Christopher Lee
+    pt-br: Christopher Lee
+    qu: Christopher Lee
+    rm: Christopher Lee
+    ro: Christopher Lee
+    ru: Кристофер Ли
+    sc: Christopher Lee
+    scn: Christopher Lee
+    sco: Christopher Lee
+    sgs: Christopher Lee
+    sh: Christopher Lee
+    sk: Christopher Lee
+    sl: Christopher Lee
+    sq: Christopher Lee
+    sr: Кристофер Ли
+    sr-ec: Кристофер Ли
+    sr-el: Kristofer Li
+    su: Christopher Lee
+    sv: Christopher Lee
+    sw: Christopher Lee
+    th: คริสโตเฟอร์ ลี
+    tl: Christopher Lee
+    tpi: Christopher Lee
+    tr: Christopher Lee
+    tt: Кристофер Ли
+    tt-cyrl: Кристофер Ли
+    uk: Крістофер Лі
+    ur: کرسٹوفر لی
+    uz: Christopher Lee
+    vec: Christopher Lee
+    vi: Christopher Lee
+    vls: Christopher Lee
+    vo: Christopher Lee
+    wa: Christopher Lee
+    war: Christopher Lee
+    wo: Christopher Lee
+    wuu: 克里斯托弗·李
+    xmf: კრისტოფერ ლი
+    yo: Christopher Lee
+    yue: 古列斯托化·李
+    zh: 克里斯多福·李
+    zh-cn: 克里斯托弗·李
+    zh-hans: 克里斯托弗·李
+    zh-hant: 克里斯多福·李
+    zh-hk: 基斯杜化·李
+    zh-my: 克里斯多福·李
+    zh-tw: 克里斯多福·李
+    zu: Christopher Lee
 ---
 # [[Lee,Christopher]] 
 

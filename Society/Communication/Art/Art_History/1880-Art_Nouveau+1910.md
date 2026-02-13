@@ -1,12 +1,59 @@
 ---
-has_time_started: 1890-01-01 
-has_time_stopped: 1910-01-01 
+has_time_started: 1890-01-01
+has_time_stopped: 1910-01-01
 aliases:
-  - Jugendstil
-  - Sezessionstil
-  - Art Nouveau
-  - 1880-Art_Nouveau+1910
-  - 1880-Art Nouveau+1910
+- 1880-Art Nouveau+1910
+- 1880-Art_Nouveau+1910
+- Art Nouveau
+- Art nouvieu
+- Art Nouvé
+- Arte Nova
+- Arz Nevez
+- Genus florale
+- jugend
+- Jugendstil
+- Juugend
+- Juugendstil
+- jūgendstils
+- Liberty
+- Modern
+- modernisme
+- modernismo
+- Moderno architektūra
+- modernîzm
+- secese
+- Secesia
+- Secesija
+- Secesio
+- secesja
+- Seni Nouveau
+- Sezessionstil
+- szecesszió
+- Αρ Νουβό
+- Југендстил
+- Ар нуво
+- Арт Нуво
+- мадэрн
+- модерн
+- сецесија
+- ҳунари нав
+- մոդեռն
+- אר נובו
+- آرٹ نوو
+- آرٽ نوئوو
+- ارت نوفو
+- الفن الجديد
+- نوی هنر
+- هنر نو
+- આર્ટ નૂવો
+- ஆர்ட் நூவோ
+- ആർട് നൂവോ
+- นวศิลป์
+- არტ-ნუვო
+- アール・ヌーヴォー
+- 新艺术运动
+- 新藝術運動
+- 아르누보
 has_id_wikidata: Q34636
 inception: 1890-01-01T00:00:00Z
 start_time: 1880-01-01T00:00:00Z
@@ -14,26 +61,26 @@ end_time: 1910-01-01T00:00:00Z
 followed_by: '[[_Standards/WikiData/WD~Art_Deco,173782]]'
 subclass_of: '[[_Standards/WikiData/WD~decorative_art,631931]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Jugendstil,1294605]]'
-  - '[[_Standards/WikiData/WD~Nieuwe_Kunst,3341324]]'
-  - '[[_Standards/WikiData/WD~Stile_Liberty,20645040]]'
-  - '[[_Standards/WikiData/WD~Sezessionstil,119351555]]'
+- '[[_Standards/WikiData/WD~Jugendstil,1294605]]'
+- '[[_Standards/WikiData/WD~Nieuwe_Kunst,3341324]]'
+- '[[_Standards/WikiData/WD~Stile_Liberty,20645040]]'
+- '[[_Standards/WikiData/WD~Sezessionstil,119351555]]'
 performer: '[[_Standards/WikiData/WD~Giuseppe_Amisani,1877235]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_du_patrimoine_rennais,29551022]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q21387416,21387416]]'
 related_category: '[[_Standards/WikiData/WD~Q27070130,27070130]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Modernisme,59960983]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 Stadtwiki_Dresden_article: Jugendstil
 subject_named_as:
-  - Jugendstil
-  - Art Nouveau
+- Jugendstil
+- Art Nouveau
 OpenStreetMap_tag: Tag:building:architecture=art_nouveau
 title: Art nouveau
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Fruit2.jpg
@@ -42,8 +89,108 @@ Commons_category: Art Nouveau
 subreddit: ArtNouveau
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/AR_NUVO.html
 Gujarati_Vishwakosh_entry: આર્ટ-નૂવો
+dv_has_:
+  name_:
+    acm: ارت نوفو
+    af: Jugendstil
+    ar: الفن الجديد
+    arz: ارت نوفو
+    az: modern
+    bar: Jugendstil
+    be: мадэрн
+    be-tarask: мадэрн
+    bg: Ар нуво
+    br: Arz Nevez
+    bs: Art Nouveau
+    ca: modernisme
+    cs: secese
+    cv: Модерн
+    cy: Art Nouveau
+    da: jugendstil
+    de: Jugendstil
+    de-ch: Jugendstil
+    el: Αρ Νουβό
+    en: Art Nouveau
+    en-ca: Art Nouveau
+    en-gb: Art Nouveau
+    eo: Secesio
+    es: modernismo
+    et: Juugend
+    eu: Art Nouveau
+    fa: هنر نو
+    fi: jugend
+    fr: Art nouveau
+    fy: Jugendstil
+    ga: Art Nouveau
+    gl: Art Nouveau
+    gsw: Jugendstil
+    gu: આર્ટ નૂવો
+    he: אר נובו
+    hr: Secesija
+    hu: szecesszió
+    hy: մոդեռն
+    ia: Art Nouveau
+    id: Art Nouveau
+    io: Art Nouveau
+    it: Art Nouveau
+    ja: アール・ヌーヴォー
+    jv: Art Nouveau
+    ka: არტ-ნუვო
+    kk: Модерн
+    ko: 아르누보
+    ku: modernîzm
+    ku-latn: modernîzm
+    ky: Модерн
+    la: Genus florale
+    lb: Jugendstil
+    lfn: Arte nova
+    li: Art nouveau
+    lt: Moderno architektūra
+    lv: jūgendstils
+    mk: Југендстил
+    ml: ആർട് നൂവോ
+    ms: Seni Nouveau
+    nan: Art nouveau
+    nap: Liberty
+    nb: Art nouveau
+    nl: art nouveau
+    nn: art nouveau
+    nrm: Art Nouvé
+    pcd: Art nouvieu
+    pl: secesja
+    pnb: آرٹ نوو
+    ps: نوی هنر
+    pt: Arte Nova
+    pt-br: Art nouveau
+    ro: Art Nouveau
+    ru: модерн
+    sc: Art Nouveau
+    sco: Art Nouveau
+    sd: آرٽ نوئوو
+    sh: Art nouveau
+    sk: Secesia
+    sl: art nouveau
+    sr: Арт Нуво
+    sr-ec: сецесија
+    sr-el: secesija
+    stq: Juugendstil
+    sv: jugend
+    ta: ஆர்ட் நூவோ
+    tg: ҳунари нав
+    th: นวศิลป์
+    tl: Art Nouveau
+    tr: Art Nouveau
+    tt: модерн
+    uk: модерн
+    uz: Modern
+    vi: Art Nouveau
+    vls: Art Nouveau
+    wuu: 新艺术运动
+    yue: 新藝術運動
+    zh: 新艺术运动
+    zh-hant: 新藝術運動
+    zh-tw: 新藝術運動
 ---
-
 # [[1880-Art_Nouveau+1910]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Art_Nouveau,34636|WD~Art_Nouveau,34636]] 

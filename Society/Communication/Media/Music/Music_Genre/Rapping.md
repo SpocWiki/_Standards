@@ -1,52 +1,219 @@
 ---
-has_time_started: 1970-01-01 
+has_time_started: 1970-01-01
 aliases:
-  - rhyming
-  - flowing
-  - spitting
-  - emceeing
-  - MCing
-  - Rap
-  - Rapping
+- emceeing
+- flowing
+- kletsrym
+- Kurap
+- MCing
+- Musica rap
+- parimbu
+- puoro rapi
+- Rap
+- rapear
+- rapejar
+- rapio
+- Rapmusik
+- Rapp
+- Rappigne
+- Rapping
+- rapáil
+- rep
+- repas
+- repo
+- reps
+- rhyming
+- ráp
+- ráppa
+- räpp
+- räppäys
+- räʹpp
+- spitting
+- Ραπ μουσική
+- рап
+- реп
+- реповање
+- рэп
+- Ռափ
+- ռեփ
+- ראפ מוזיק
+- ראפינג
+- راب
+- راپ
+- رپ
+- ریپ
+- ریپ موسیٖقی
+- رەپ
+- ڕاپ
+- रैप
+- र्याप
+- র্যাপ
+- ৰেপ
+- ਰੈਪ ਗਾਇਕੀ
+- சொல்லிசை
+- แร็ป
+- ラップ
+- 说唱
+- 饒舌
+- 饶舌
+- 랩
 has_id_wikidata: Q6010
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~singing_style,112613966]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~singing_style,112613966]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~spoken_language,1322198]]'
-  - '[[_Standards/WikiData/WD~chant,1553339]]'
+- '[[_Standards/WikiData/WD~spoken_language,1322198]]'
+- '[[_Standards/WikiData/WD~chant,1553339]]'
 opposite_of: '[[_Standards/WikiData/WD~patter_song,2058312]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~rapper,2252262]]'
-  - '[[_Standards/WikiData/WD~MC,73399344]]'
+- '[[_Standards/WikiData/WD~rapper,2252262]]'
+- '[[_Standards/WikiData/WD~MC,73399344]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~musical_performance,6942562]]'
-  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
+- '[[_Standards/WikiData/WD~musical_performance,6942562]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401]]'
 part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
 different_from:
-  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
-  - '[[_Standards/WikiData/WD~tail,60960]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401]]'
+- '[[_Standards/WikiData/WD~tail,60960]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1970-01-01T00:00:00Z
 subreddit: rap
 social_media_followers: 941323
 Commons_category: Rap
 related_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/KRS-One%20by%20Wade%20Grayson.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Run%20DMC%20%28cropped%29.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eminem%20live%20at%20D.C.%202014%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/50%20cent%20in%20concert.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20Bambaataa%202009%20IMG%208349.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rakim%20at%20Paid%20Dues%202.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Snoop%20Dogg%202%2C%202011.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/KRS-One%20by%20Wade%20Grayson.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Run%20DMC%20%28cropped%29.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eminem%20live%20at%20D.C.%202014%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/50%20cent%20in%20concert.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20Bambaataa%202009%20IMG%208349.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rakim%20at%20Paid%20Dues%202.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Snoop%20Dogg%202%2C%202011.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/HIP-HOP_REP.html
 OmegaWiki_Defined_Meaning: 1638397
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Razrfish%20-%20Mocassins.opus
 Dewey_Decimal_Classification: 781.649
 Library_of_Congress_Classification: ML3918.R37
+dv_has_:
+  name_:
+    af: kletsrym
+    ar: راب
+    ary: راپ
+    arz: راب
+    as: ৰেপ
+    ast: rap
+    az: rep
+    azb: رپ
+    be: рэп
+    be-tarask: рэп
+    bg: рап
+    bn: র্যাপ
+    br: Rap
+    bs: rep
+    ca: rapejar
+    ckb: ڕاپ
+    cs: rap
+    cy: rapio
+    da: rap
+    dag: parimbu
+    de: Rap
+    de-ch: Rap
+    diq: Rap
+    el: Ραπ μουσική
+    en: rapping
+    en-ca: rap
+    en-gb: rap
+    en-us: rapping
+    eo: repo
+    es: rapear
+    et: räpp
+    eu: rap
+    fa: رپ
+    fi: räppäys
+    fo: Rapping
+    fr: rap
+    fy: Rap
+    ga: rapáil
+    gd: Rap
+    gl: rap
+    gsw: Rap
+    he: ראפינג
+    hi: रैप
+    hr: Rap
+    ht: Rap
+    hu: rap
+    hy: ռեփ
+    hyw: Ռափ
+    id: Rap
+    is: Rapp
+    it: rap
+    ja: ラップ
+    kbp: Rap
+    kk: Рэп
+    ko: 랩
+    ks: ریپ موسیٖقی
+    ku: Rap
+    la: Rap
+    lb: Rap
+    ln: Rap
+    lt: repas
+    lv: reps
+    mi: puoro rapi
+    mk: Рап
+    ms: Rap
+    mt: rap
+    mwl: Rap
+    mzn: رپ
+    nan: Rap
+    nb: rapping
+    nds: Rap
+    ne: र्याप
+    nl: rap
+    nn: rapping
+    oc: rap
+    pa: ਰੈਪ ਗਾਇਕੀ
+    pap: rap
+    pl: rap
+    pt: rap
+    pt-br: rap
+    ro: rap
+    ru: рэп
+    sc: Musica rap
+    scn: Rap
+    se: ráppa
+    sk: rep
+    sl: rap
+    smn: ráp
+    sms: räʹpp
+    sq: Rap
+    sr: реповање
+    stq: Rapmusik
+    sv: rap
+    sw: Kurap
+    ta: சொல்லிசை
+    tg: рэп
+    th: แร็ป
+    tr: rap
+    tt: рэп
+    ug: رەپ
+    uk: реп
+    ur: ریپ
+    uz: Rap
+    vec: rap
+    vi: rap
+    wa: Rappigne
+    wo: Rap
+    wuu: 说唱
+    yi: ראפ מוזיק
+    yue: Rap
+    zh: 饒舌
+    zh-cn: 说唱
+    zh-hans: 说唱
+    zh-hant: 饒舌
+    zh-my: 饶舌
+    zh-sg: 饶舌
+    zh-tw: 饒舌
 ---
-
 # [[Rapping]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rapping,6010|WD~Rapping,6010]]  

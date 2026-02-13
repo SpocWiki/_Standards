@@ -1,51 +1,196 @@
 ---
 aliases:
-  - Allotropy
+- allatrópacht
+- allotroopia
+- Allotrop
+- allotropi
+- allotropia
+- allotropie
+- allotropiija
+- allotropiya
+- Allotropy
+- allotrópia
+- Alootroppii
+- Alotrop
+- alotropaeth
+- alotropeco
+- Alotropi
+- alotropia
+- alotropie
+- alotropija
+- alotropska modifikacija
+- alotropske modifikacije
+- alotropía
+- alotwopi
+- al·lotropia
+- fjölgervi
+- Thù hình
+- αλλότροπα
+- алатропія
+- аллотропи
+- аллотропия
+- алотропія
+- алотропија
+- алотропия
+- алотропска модификација
+- алятрапія
+- ալոտրոպություն
+- אלוטרופיה
+- آلوٹروپ
+- ئالۆترۆپی
+- تآصل
+- دگرشکلی
+- अपरूपता
+- অ্যালোট্রপি
+- ਭਿੰਨਰੂਪਤਾ
+- தனிமப் புறவேற்றுரு
+- భిన్నరూపత
+- ಭಿನ್ನವರ್ತನೆ
+- രൂപാന്തരങ്ങൾ
+- බහුරූපී ආකාරවල පැවැත්ම
+- อัญรูป
+- ალოტროპია
+- 同素异形现象
+- 同素性
+- 同素異形現象
+- 同素異構體
+- 동소성
 has_id_wikidata: Q81915
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_property,764285]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_property,764285]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~crystal_polymorphism,907364]]"
-  - "[[_Standards/WikiData/WD~isomerism,41088690]]"
+- '[[_Standards/WikiData/WD~crystal_polymorphism,907364]]'
+- '[[_Standards/WikiData/WD~isomerism,41088690]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~property,937228]]"
-  - "[[_Standards/WikiData/WD~polymorphism,114023761]]"
-characteristic_of: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-part_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~polymorphism,114023761]]'
+characteristic_of: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
 OmegaWiki_Defined_Meaning: 826348
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PhosphComby.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diamond%20and%20graphite.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/PhosphComby.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Diamond%20and%20graphite.jpg
 P8189: 987007294079505200
 Commons_category: Allotropy
 Krugosvet_article: nauka_i_tehnika/himiya/ALLOTROPIYA.html
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Allotropy,81915]]"
-    - "[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]"
-    - "[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]"
-    - "[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]"
-    - "[[/_protect/Chemistry/Material/Allotropy.protect|Allotropy.protect]]"
-    - "[[/_private/Chemistry/Material/Allotropy.private|Allotropy.private]]"
-    - "[[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]]"
-    - "[[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]]"
+  - '[[../../WikiData/WD~Allotropy,81915]]'
+  - '[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]'
+  - '[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]'
+  - '[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]'
+  - '[[/_protect/Chemistry/Material/Allotropy.protect|Allotropy.protect]]'
+  - '[[/_private/Chemistry/Material/Allotropy.private|Allotropy.private]]'
+  - '[[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]]'
+  - '[[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Allotropy,81915]]"
-  - "[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]"
-  - "[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]"
-  - "[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]"
-  - "[[/_protect/Chemistry/Material/Allotropy.protect|Allotropy.protect]]"
-  - "[[/_private/Chemistry/Material/Allotropy.private|Allotropy.private]]"
-  - "[[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]]"
-  - "[[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]]"
+- '[[../../WikiData/WD~Allotropy,81915]]'
+- '[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]'
+- '[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]'
+- '[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]'
+- '[[/_protect/Chemistry/Material/Allotropy.protect|Allotropy.protect]]'
+- '[[/_private/Chemistry/Material/Allotropy.private|Allotropy.private]]'
+- '[[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]]'
+- '[[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]]'
+dv_has_:
+  name_:
+    af: allotropie
+    ar: تآصل
+    ast: Alotropía
+    az: allotropiya
+    be: алатропія
+    be-tarask: алятрапія
+    bg: алотропия
+    bn: অ্যালোট্রপি
+    bs: alotropske modifikacije
+    ca: al·lotropia
+    ckb: ئالۆترۆپی
+    cs: alotropie
+    cy: alotropaeth
+    da: allotropi
+    de: Allotropie
+    el: αλλότροπα
+    en: allotropy
+    en-us: allotropy
+    eo: alotropeco
+    es: alotropía
+    et: allotroopia
+    eu: alotropia
+    fa: دگرشکلی
+    fi: allotropia
+    fr: allotropie
+    ga: allatrópacht
+    gl: alotropía
+    he: אלוטרופיה
+    hi: अपरूपता
+    hr: alotropija
+    ht: alotwopi
+    hu: allotrópia
+    hy: ալոտրոպություն
+    id: Alotropi
+    is: fjölgervi
+    it: allotropia
+    ja: 同素性
+    ka: ალოტროპია
+    kk: аллотропия
+    kn: ಭಿನ್ನವರ್ತನೆ
+    ko: 동소성
+    ku: Alotrop
+    ky: Аллотропия
+    lb: Allotropie
+    li: Allotropie
+    lt: alotropija
+    lv: alotropija
+    lzh: 同素異構體
+    mk: алотропија
+    ml: രൂപാന്തരങ്ങൾ
+    mn: аллотропи
+    ms: Alotrop
+    nb: allotropi
+    nl: allotropie
+    nn: allotropi
+    oc: allotropia
+    om: Alootroppii
+    pa: ਭਿੰਨਰੂਪਤਾ
+    pl: alotropia
+    pt: alotropia
+    pt-br: alotropia
+    ro: alotropie
+    ru: аллотропия
+    sco: allotropy
+    se: allotropiija
+    sh: alotropska modifikacija
+    si: බහුරූපී ආකාරවල පැවැත්ම
+    sk: alotropia
+    sl: alotropija
+    smn: allotropia
+    sms: allotropia
+    sr: алотропска модификација
+    sr-ec: алотропска модификација
+    sr-el: alotropska modifikacija
+    sv: allotropi
+    ta: தனிமப் புறவேற்றுரு
+    te: భిన్నరూపత
+    tg: Аллотропия
+    th: อัญรูป
+    tr: Allotrop
+    udm: аллотропия
+    uk: алотропія
+    ur: آلوٹروپ
+    uz: allotropiya
+    vi: Thù hình
+    wuu: 同素异形现象
+    yue: 同素異形現象
+    zh: 同素異形現象
+    zh-hans: 同素异形现象
+    zh-hant: 同素異形現象
 ---
-
 # [[Allotropy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Allotropy,81915]] 

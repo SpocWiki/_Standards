@@ -1,31 +1,374 @@
 ---
 aliases:
-  - hospital
-  - hospital
-  - Hospital
-  - is_a_hospital
+- asganfu
+- ashibiti
+- asibiti
+- ayaresabea
+- ayarsabea
+- baláy-tambalan
+- bolnica
+- bolnišnica
+- buohcceviessu
+- bòlëca
+- bệnh viện
+- chipatara
+- chorownja
+- Chrankehuus
+- chórownja
+- dotowhé
+- dotoxwe
+- dukadengo huusa
+- falema'i
+- griya sakit
+- haigla
+- hastane
+- hespital
+- hopitaly
+- hospitaal
+- hospital
+- hospitale
+- hospitali
+- hospitalo
+- hôpital
+- ilé ìwòsàn
+- isbitaal
+- isibhedlele
+- is_a_hospital
+- kasalxona
+- keselxana
+- klinieke
+- Krankenhaus
+- Krankenhuus
+- kórház
+- lamin pongusapan
+- Lazaryt
+- ligoninė
+- lopital
+- Lǣċehūs
+- malsanulejo
+- naa'émâhéó'o
+- naslingro'kher
+- ndáko ya bokɔnɔ
+- nemocnica
+- nemocnice
+- nexweşxane
+- ospeałe
+- ospedaa
+- ospedale
+- ospidéal
+- ospital
+- ospitale
+- ospitå
+- paisingan
+- phiang-yèn
+- pspuhan
+- puõccipõrtt
+- pyecceiviäsu
+- pēnn-īnn
+- pēⁿ-īⁿ
+- rumah sakik
+- rumah sakit
+- sairaala
+- sepatela
+- sepital
+- sibiti
+- sikehûs
+- sjukehus
+- sjukhus
+- sjúkrahús
+- skihppijviesso
+- skïemtjegåetie
+- slimnīca
+- Spidol
+- spital
+- spitali
+- spitalu
+- sptar
+- ssbiṭar
+- sykehus
+- szpital
+- tasyo
+- unquna wasi
+- uwu-ugwun̄
+- valetudinarium
+- xəstəxana
+- ysbyty
+- ziekenhuis
+- νοσοκομείο
+- аурухана
+- бальніца
+- бемористон
+- болница
+- больница
+- дауахана
+- лікарня
+- лазартни
+- лякарня
+- оорукана
+- ормакудо
+- пульница
+- рынчындон
+- хастаханә
+- эмер
+- эмнэлгэ
+- эмъяськонни
+- հիվանդանոց
+- בית חולים
+- שפיטאל
+- اسپتال
+- المستشفى
+- بیمارستان
+- روغتون
+- سبيطار
+- صبيطار
+- مریضخانا
+- مستشفى
+- ناخشخنه
+- نەخۆشخانە
+- هوسڤيتل
+- ہسپتال
+- ہسپتاݪ
+- ہَسپَتال
+- ܒܝܬ ܟܪܝܗܐ
+- अस्पताल
+- चिकित्सालय
+- हॉस्पिटल
+- হাসপাতাল
+- ਹਸਪਤਾਲ
+- હોસ્પિટલ
+- மருத்துவமனை
+- వైద్యశాల
+- ಆಸ್ಪತ್ರೆ
+- ആശുപത്രി
+- ආරෝග්යශාලා හෙවත් රෝහල්
+- โรงพยาบาล
+- ໂຮງໜໍ
+- སྨན་ཁང་
+- ဆေးရုံ
+- ႁူင်းယႃ
+- ჰოსპიტალი
+- እስብዳልየት
+- ᐋᓐᓂᐊᕐᕕᒃ
+- ụlọ ọgwụ
+- 医院
+- 病院
+- 醫院
+- 병원
 has_id_wikidata: Q16917
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - hospital
+- hospital
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hospital Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_hospital Class
 type: Type
+dv_has_:
+  name_:
+    aeb-arab: سبيطار
+    af: hospitaal
+    ami: paisingan
+    an: hespital
+    ang: Lǣċehūs
+    ann: uwu-ugwun̄
+    ar: مستشفى
+    arc: ܒܝܬ ܟܪܝܗܐ
+    arq: سبيطار
+    ary: صبيطار
+    arz: المستشفى
+    ast: hospital
+    az: xəstəxana
+    azb: مریضخانا
+    ba: дауахана
+    ban: rumah sakit
+    bcl: ospital
+    be: бальніца
+    be-tarask: лякарня
+    bg: болница
+    bho: अस्पताल
+    bn: হাসপাতাল
+    bo: སྨན་ཁང་
+    br: ospital
+    bs: bolnica
+    bxr: эмнэлгэ
+    ca: hospital
+    ce: лазартни
+    ceb: ospital
+    chy: naa'émâhéó'o
+    ckb: نەخۆشخانە
+    cs: nemocnice
+    csb: bòlëca
+    cv: пульница
+    cy: ysbyty
+    da: hospital
+    dag: ashibiti
+    de: Krankenhaus
+    de-ch: Spital
+    dga: asibiti
+    dsb: chórownja
+    dtp: lamin pongusapan
+    el: νοσοκομείο
+    en: hospital
+    en-ca: hospital
+    en-gb: hospital
+    en-us: Hospital
+    eo: malsanulejo
+    es: hospital
+    et: haigla
+    eu: ospitale
+    fa: بیمارستان
+    fat: ayarsabea
+    fi: sairaala
+    fon: dotoxwe
+    fr: hôpital
+    fy: sikehûs
+    ga: ospidéal
+    gan: 病院
+    gl: hospital
+    gn: tasyo
+    gsw: Chrankehuus
+    gu: હોસ્પિટલ
+    guw: dotowhé
+    ha: asibiti
+    hak: phiang-yèn
+    he: בית חולים
+    hi: चिकित्सालय
+    hr: bolnica
+    hsb: chorownja
+    ht: lopital
+    hu: kórház
+    hy: հիվանդանոց
+    ia: hospital
+    iba: sepital
+    id: rumah sakit
+    ie: hospitale
+    ig: ụlọ ọgwụ
+    io: hospitalo
+    is: sjúkrahús
+    it: ospedale
+    iu: ᐋᓐᓂᐊᕐᕕᒃ
+    ja: 病院
+    jv: griya sakit
+    ka: ჰოსპიტალი
+    kaa: keselxana
+    kab: ssbiṭar
+    kk: аурухана
+    kn: ಆಸ್ಪತ್ರೆ
+    ko: 병원
+    ks: ہَسپَتال
+    ku: nexweşxane
+    kus: sibiti
+    ky: оорукана
+    la: valetudinarium
+    lad: ospital
+    lb: Spidol
+    lmo: ospedaa
+    ln: ndáko ya bokɔnɔ
+    lo: ໂຮງໜໍ
+    lt: ligoninė
+    lv: slimnīca
+    lzh: 醫院
+    mg: hopitaly
+    mhr: эмер
+    min: rumah sakik
+    mk: болница
+    ml: ആശുപത്രി
+    mr: हॉस्पिटल
+    ms: hospital
+    ms-arab: هوسڤيتل
+    mt: sptar
+    mul: Hospital
+    my: ဆေးရုံ
+    myv: ормакудо
+    mzn: ناخشخنه
+    nan: pēⁿ-īⁿ
+    nan-hani: 病院
+    nan-hant: 病院
+    nan-latn-pehoeji: pēⁿ-īⁿ
+    nan-latn-tailo: pēnn-īnn
+    nb: sykehus
+    nds: Krankenhuus
+    ne: अस्पताल
+    nl: ziekenhuis
+    nn: sjukehus
+    oc: hospital
+    os: рынчындон
+    pa: ਹਸਪਤਾਲ
+    pl: szpital
+    pnb: ہسپتاݪ
+    ps: روغتون
+    pt: hospital
+    pt-br: hospital
+    qu: unquna wasi
+    rmf: dukadengo huusa
+    rmy: naslingro'kher
+    ro: spital
+    ru: больница
+    rup: spitalu
+    scn: spitali
+    sco: hospital
+    sd: اسپتال
+    se: buohcceviessu
+    sh: bolnica
+    shi: asganfu
+    shn: ႁူင်းယႃ
+    si: ආරෝග්යශාලා හෙවත් රෝහල්
+    sk: nemocnica
+    sl: bolnišnica
+    sm: falema'i
+    sma: skïemtjegåetie
+    smj: skihppijviesso
+    smn: pyecceiviäsu
+    sms: puõccipõrtt
+    sn: chipatara
+    so: isbitaal
+    sq: spital
+    sr: болница
+    sr-el: bolnica
+    sv: sjukhus
+    sw: hospitali
+    szl: Lazaryt
+    ta: மருத்துவமனை
+    te: వైద్యశాల
+    tg: бемористон
+    th: โรงพยาบาล
+    tig: እስብዳልየት
+    tl: ospital
+    tn: sepatela
+    tr: hastane
+    trv: pspuhan
+    tt: хастаханә
+    tw: ayaresabea
+    udm: эмъяськонни
+    uk: лікарня
+    ur: ہسپتال
+    uz: kasalxona
+    vec: ospeałe
+    vi: bệnh viện
+    vls: klinieke
+    wa: ospitå
+    war: baláy-tambalan
+    wuu: 医院
+    xh: isibhedlele
+    yi: שפיטאל
+    yo: ilé ìwòsàn
+    yue: 醫院
+    zh: 醫院
+    zh-hans: 医院
+    zh-hant: 醫院
+    zh-tw: 醫院
 ---
-
 # [[Hospital]] 
 
 Class of all hospitals.

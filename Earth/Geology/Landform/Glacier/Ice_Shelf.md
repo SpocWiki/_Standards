@@ -1,47 +1,144 @@
 ---
 aliases:
-  - ice shelf
-  - Ice_Shelf
-  - Ice Shelf
+- barrière de glace
+- buz sahanlığı
+- glaciplatformo
+- ice shelf
+- Ice_Shelf
+- ijsplateau
+- isbrem
+- Isshelf
+- izotz plataforma
+- jäähylly
+- ledena polica
+- lodowiec szelfowy
+- Paparan es
+- Pentas ais
+- Piattaforma di ghiaccio
+- plataforma de gel
+- plataforma de gelo
+- Plataforma de glaç
+- plataforma de hielo
+- Plataforma de xelu
+- plataforma de xeo
+- Platea d' glaece
+- Pluteus glaciei
+- Schelfeis
+- selfjég
+- shelfis
+- Thềm băng
+- Şelf buzlağı
+- šelfa ledājs
+- Šelfiliustik
+- Šelfinis ledynas
+- šelfový ledovec
+- Τράπεζα Πάγου
+- ледена плоча
+- Шелфов ледник
+- шельфові льодовики
+- шельфовый ледник
+- Шэльфавы ледавік
+- Эйланго
+- מדף קרח
+- جرف جليدي
+- یختاق
+- हिमचट्टान
+- பனியடுக்கு
+- შელფური მყინვარი
+- 冰架
+- 棚氷
+- 빙붕
 has_id_wikidata: Q46966
 different_from:
-  - "[[_Standards/WikiData/WD~ice_floe,368930]]"
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~drift_ice,1378564]]"
-  - "[[_Standards/WikiData/WD~shelf_ice,7493595]]"
-  - "[[_Standards/WikiData/WD~ice_sheet,12599]]"
-  - "[[_Standards/WikiData/WD~iceberg,47568]]"
-described_by_source: "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-subclass_of: "[[_Standards/WikiData/WD~glacier,35666]]"
-studied_by: "[[_Standards/WikiData/WD~glaciology,52120]]"
+- '[[_Standards/WikiData/WD~ice_floe,368930]]'
+- '[[_Standards/WikiData/WD~ice_cap,878077]]'
+- '[[_Standards/WikiData/WD~drift_ice,1378564]]'
+- '[[_Standards/WikiData/WD~shelf_ice,7493595]]'
+- '[[_Standards/WikiData/WD~ice_sheet,12599]]'
+- '[[_Standards/WikiData/WD~iceberg,47568]]'
+described_by_source: '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+subclass_of: '[[_Standards/WikiData/WD~glacier,35666]]'
+studied_by: '[[_Standards/WikiData/WD~glaciology,52120]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/.00%201128%20Schelfeiskannte%20in%20der%20Antarktis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Corp2401%20-%20Flickr%20-%20NOAA%20Photo%20Library.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/.00%201128%20Schelfeiskannte%20in%20der%20Antarktis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Corp2401%20-%20Flickr%20-%20NOAA%20Photo%20Library.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20schmilzt%20das%20Schelfeis%3F.webm
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000380
 Commons_gallery: Ice shelf
 Commons_category: Ice shelves
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Ice_shelf,46966]]"
-    - "[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf|Ice_Shelf]]"
-    - "[[/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public|Ice_Shelf.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal|Ice_Shelf.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect|Ice_Shelf.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private|Ice_Shelf.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal|Ice_Shelf.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret|Ice_Shelf.secret]]"
+  - '[[../../../../WikiData/WD~Ice_shelf,46966]]'
+  - '[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf|Ice_Shelf]]'
+  - '[[/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public|Ice_Shelf.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal|Ice_Shelf.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect|Ice_Shelf.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private|Ice_Shelf.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal|Ice_Shelf.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret|Ice_Shelf.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Ice_shelf,46966]]"
-  - "[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf|Ice_Shelf]]"
-  - "[[/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public|Ice_Shelf.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal|Ice_Shelf.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect|Ice_Shelf.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private|Ice_Shelf.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal|Ice_Shelf.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret|Ice_Shelf.secret]]"
+- '[[../../../../WikiData/WD~Ice_shelf,46966]]'
+- '[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf|Ice_Shelf]]'
+- '[[/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public|Ice_Shelf.public]]'
+- '[[/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal|Ice_Shelf.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect|Ice_Shelf.protect]]'
+- '[[/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private|Ice_Shelf.private]]'
+- '[[/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal|Ice_Shelf.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret|Ice_Shelf.secret]]'
+dv_has_:
+  name_:
+    ar: جرف جليدي
+    ast: Plataforma de xelu
+    az: Şelf buzlağı
+    be: Шэльфавы ледавік
+    be-tarask: Шэльфавы ледавік
+    bg: Шелфов ледник
+    ca: plataforma de gel
+    cs: šelfový ledovec
+    da: Isshelf
+    de: Schelfeis
+    el: Τράπεζα Πάγου
+    en: ice shelf
+    eo: glaciplatformo
+    es: plataforma de hielo
+    et: Šelfiliustik
+    eu: izotz plataforma
+    fa: یختاق
+    fi: jäähylly
+    fr: barrière de glace
+    gl: plataforma de xeo
+    he: מדף קרח
+    hi: हिमचट्टान
+    hu: selfjég
+    id: Paparan es
+    it: Piattaforma di ghiaccio
+    ja: 棚氷
+    ka: შელფური მყინვარი
+    ko: 빙붕
+    la: Pluteus glaciei
+    lt: Šelfinis ledynas
+    lv: šelfa ledājs
+    mk: ледена плоча
+    ms: Pentas ais
+    myv: Эйланго
+    nb: isbrem
+    nl: ijsplateau
+    nn: Isbrem
+    oc: Plataforma de glaç
+    pl: lodowiec szelfowy
+    pt: plataforma de gelo
+    ru: шельфовый ледник
+    sl: ledena polica
+    sr: Ledena polica
+    sv: shelfis
+    ta: பனியடுக்கு
+    tr: buz sahanlığı
+    uk: шельфові льодовики
+    vi: Thềm băng
+    wa: Platea d' glaece
+    yue: 冰架
+    zh: 冰架
 ---
-
 # [[Ice_Shelf]] 
 
 #is_/same_as :: [[WD~Ice_shelf,46966]] 

@@ -1,25 +1,142 @@
 ---
-has_time_started: 1400-01-01 
+has_time_started: 1400-01-01
 aliases:
-  - Renaissance_music
-  - Renaissance music
-  - 1450-Renaissance_Music+1550
-  - 1450-Renaissance Music+1550
+- 1450-Renaissance Music+1550
+- 1450-Renaissance_Music+1550
+- cerddoriaeth y Dadeni
+- ilow an Dastinythians
+- Musica Renascentiae
+- musica rinascimentale
+- Musik Renaisans
+- Musikang Renasimiyento
+- musikk i renessansen
+- musique de la Renaissance
+- Muzik era pembaharuan
+- Muzika e Rilindjes Evropiane
+- Muzyka renesansu
+- mużika tar-Rinaxximent
+- música del Renacimiento
+- Música del Renacimientu
+- música del Renaixement
+- música renacentista
+- Música renascentista
+- Pizkundeko musika
+- Renaissance music
+- Renaissancemeziek
+- Renaissancemusik
+- Renaissancemuziek
+- Renaissance_music
+- renesanca muziko
+- Renesansna muzika
+- Renesanso muzika
+- renesančna glasba
+- renesančná hudba
+- renesanční hudba
+- renessansemusikk
+- renessanssin musiikki
+- Renessanssmuusika
+- reneszánsz zene
+- Renässansens musik
+- renæssancemusik
+- Rönesans müziği
+- Rönessansmuusig
+- âm nhạc phục hưng
+- Αναγεννησιακή μουσική
+- Музика епохи Відродження
+- музыка эпохі Адраджэння
+- музыка эпохі Адраджэньня
+- музыка эпохи Возрождения
+- Ренесансова музика
+- Վերածննդի երաժշտություն
+- מוזיקת רנסאנס
+- د رنسانس دورې موسيقي
+- موسيقى عصر النهضة
+- موسيقى عصر النهضه
+- موسیقی رنسانس
+- पुनर्जागरण संगीत
+- ดนตรีสมัยฟื้นฟูศิลปวิทยา
+- ルネサンス音楽
+- 文艺复兴音乐
+- 文藝復興音樂
+- 르네상스 음악
 has_id_wikidata: Q201405
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-  - "[[_Standards/WikiData/WD~music_by_period_of_time,106834231]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+- '[[_Standards/WikiData/WD~music_by_period_of_time,106834231]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Renaissance_art,1133779]]"
-  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-followed_by: "[[_Standards/WikiData/WD~Baroque_music,8361]]"
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Renaissance_art,1133779]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+followed_by: '[[_Standards/WikiData/WD~Baroque_music,8361]]'
+location: '[[_Standards/WikiData/WD~Europe,46]]'
 inception: 1400-01-01T00:00:00Z
 Commons_category: Renaissance music
+dv_has_:
+  name_:
+    ar: موسيقى عصر النهضة
+    arz: موسيقى عصر النهضه
+    ast: Música del Renacimientu
+    be: музыка эпохі Адраджэння
+    be-tarask: музыка эпохі Адраджэньня
+    bg: Ренесансова музика
+    ca: música del Renaixement
+    cs: renesanční hudba
+    cy: cerddoriaeth y Dadeni
+    da: renæssancemusik
+    de: Renaissancemusik
+    el: Αναγεννησιακή μουσική
+    en: Renaissance music
+    eo: renesanca muziko
+    es: música del Renacimiento
+    et: Renessanssmuusika
+    eu: Pizkundeko musika
+    fa: موسیقی رنسانس
+    fi: renessanssin musiikki
+    fr: musique de la Renaissance
+    gl: música renacentista
+    gsw: Rönessansmuusig
+    he: מוזיקת רנסאנס
+    hu: reneszánsz zene
+    hy: Վերածննդի երաժշտություն
+    id: Musik Renaisans
+    it: musica rinascimentale
+    ja: ルネサンス音楽
+    ko: 르네상스 음악
+    kw: ilow an Dastinythians
+    la: Musica Renascentiae
+    li: Renaissancemeziek
+    lt: Renesanso muzika
+    ms: Muzik era pembaharuan
+    mt: mużika tar-Rinaxximent
+    nb: musikk i renessansen
+    new: पुनर्जागरण संगीत
+    nl: Renaissancemuziek
+    nn: renessansemusikk
+    pl: Muzyka renesansu
+    ps: د رنسانس دورې موسيقي
+    pt: Música renascentista
+    ru: музыка эпохи Возрождения
+    sh: Renesansna muzika
+    sk: renesančná hudba
+    sl: renesančna glasba
+    sq: Muzika e Rilindjes Evropiane
+    sr: Renesansna muzika
+    sv: Renässansens musik
+    th: ดนตรีสมัยฟื้นฟูศิลปวิทยา
+    tl: Musikang Renasimiyento
+    tr: Rönesans müziği
+    uk: Музика епохи Відродження
+    vi: âm nhạc phục hưng
+    yue: 文藝復興音樂
+    zh: 文艺复兴音乐
+    zh-cn: 文艺复兴音乐
+    zh-hans: 文艺复兴音乐
+    zh-hant: 文藝復興音樂
+    zh-hk: 文藝復興音樂
+    zh-sg: 文艺复兴音乐
+    zh-tw: 文藝復興音樂
 ---
-
 # [[1450-Renaissance_Music+1550]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Renaissance_music,201405|WD~Renaissance_music,201405]] 

@@ -1,66 +1,367 @@
 ---
 aliases:
-  - Logic
+- cɔlɩyɛ
+- i-logic
+- kuaarape
+- kūpili
+- lajik
+- lochica
+- lodjike
+- logega
+- Logic
+- logica
+- logică
+- logihkka
+- logiik
+- logiikka
+- logik
+- logika
+- logike
+- logikk
+- logiko
+- logique
+- logji
+- logjikë
+- lohika
+- loighic
+- lojica
+- lojik
+- lojyk
+- loogiga
+- Loogik
+- loogika
+- loģika
+- luogėka
+- luận lý học
+- lòggica
+- lògica
+- lòzega
+- lógica
+- lógika
+- lóxica
+- lô-chek
+- lôjika
+- maangal
+- mantiki
+- mantiq
+- Mantèk
+- Mantéq
+- mantık
+- mantıq
+- mentiq
+- məntiq
+- Mәntığ
+- Poelloniezh
+- rhesymeg
+- rökfræði
+- sona pi alasa lon
+- tameẓla
+- tamẓla
+- umachasqa kutichina
+- vakasama
+- xin-sababa
+- ómárí
+- λογική
+- билиглел
+- лёгіка
+- логіка
+- логик
+- логикæ
+- логика
+- лоґіка
+- мантикь
+- мантиқ
+- мантыйк
+- ушар ухаан
+- տրամաբանութիւն
+- տրամաբանություն
+- לאגיק
+- לוגיקה
+- سولپوهنه
+- لوݢيک
+- لۆژیک
+- منطق
+- منطیق
+- तर्क
+- तर्कशास्त्र
+- যুক্তি
+- যুক্তিসূত্ৰ
+- ਤਰਕ ਸ਼ਾਸਤਰ
+- ஏரணம்
+- తర్కం
+- തർക്കശാസ്ത്രം
+- ตรรกศาสตร์
+- ယုတ္တိဗေဒ
+- ლოგიკა
+- ስነ አምክንዮ
+- តក្កវិទ្យា
+- ᱡᱩᱠᱛᱤ
+- ọgbọ́n
+- ⵜⴰⵎⵥⵍⴰ
+- 理則
+- 理則學
+- 論理学
+- 逻辑学
+- 邏輯
+- 邏輯學
+- 논리학
+- 론리학
 has_id_wikidata: Q8078
 All_Science_Journal_Classification_Codes: 2609
 Colon_Classification: R1
 Commons_category: Logic
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 Dewey_Decimal_Classification: 160
 hashtag: logic
 has_effect: '[[_Standards/WikiData/WD~logical_consequence,374182]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~causality,179289]]'
-  - '[[_Standards/WikiData/WD~propositional_calculus,200694]]'
-  - '[[_Standards/WikiData/WD~modal_logic,210841]]'
-  - '[[_Standards/WikiData/WD~fuzzy_logic,224821]]'
-  - '[[_Standards/WikiData/WD~classical_logic,236975]]'
-  - '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
-  - '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
-  - '[[_Standards/WikiData/WD~quantum_logic,1206311]]'
-  - '[[_Standards/WikiData/WD~predicate_logic,35148]]'
+- '[[_Standards/WikiData/WD~causality,179289]]'
+- '[[_Standards/WikiData/WD~propositional_calculus,200694]]'
+- '[[_Standards/WikiData/WD~modal_logic,210841]]'
+- '[[_Standards/WikiData/WD~fuzzy_logic,224821]]'
+- '[[_Standards/WikiData/WD~classical_logic,236975]]'
+- '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
+- '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
+- '[[_Standards/WikiData/WD~quantum_logic,1206311]]'
+- '[[_Standards/WikiData/WD~predicate_logic,35148]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q8078%20noun%2063409%20ccSimonChild%20logical.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Discourse-into-the-night.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~formal_science,816264]]'
-  - '[[_Standards/WikiData/WD~class_used_in_Universal_Decimal_Classification,15831325]]'
-  - '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~formal_science,816264]]'
+- '[[_Standards/WikiData/WD~class_used_in_Universal_Decimal_Classification,15831325]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~condition,813912]]'
-  - '[[_Standards/WikiData/WD~validity,1047000]]'
-  - '[[_Standards/WikiData/WD~logical_system,17488292]]'
-  - '[[_Standards/WikiData/WD~conclusion,20665666]]'
+- '[[_Standards/WikiData/WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~validity,1047000]]'
+- '[[_Standards/WikiData/WD~logical_system,17488292]]'
+- '[[_Standards/WikiData/WD~conclusion,20665666]]'
 Krugosvet_article: gumanitarnye_nauki/filosofiya/LOGIKA.html
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 MeSH_tree_code: K01.752.448
 part_of:
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q113143870,113143870]]'
 PhilPapers_topic: logics
 practiced_by: '[[_Standards/WikiData/WD~logician,14565331]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav
 Provenio_UUID:
-  - 120a80b1-cec8-497b-8e0d-34fce2e62d4c
-  - b264533f-c325-4ba2-9a90-70c7ea29e6f1
+- 120a80b1-cec8-497b-8e0d-34fce2e62d4c
+- b264533f-c325-4ba2-9a90-70c7ea29e6f1
 subreddit: logic
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Logic,6469110]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Logic,14614975]]'
 UMLS_CUI: C0023963
 Universal_Decimal_Classification: 16
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_logic,7112678]]'
+dv_has_:
+  name_:
+    ace: Mantéq
+    af: logika
+    am: ስነ አምክንዮ
+    an: lochica
+    anp: तर्कशास्त्र
+    ar: منطق
+    arz: منطق
+    as: যুক্তিসূত্ৰ
+    ast: lóxica
+    az: məntiq
+    azb: منطیق
+    ba: логика
+    bar: Logik
+    bcl: lohika
+    be: логіка
+    be-tarask: лёгіка
+    bew: Mantèk
+    bg: логика
+    bn: যুক্তি
+    br: Poelloniezh
+    bs: logika
+    btm: Logika
+    bxr: ушар ухаан
+    ca: lògica
+    cbk-zam: logica
+    ce: логика
+    ckb: لۆژیک
+    co: logica
+    crh: mantıq
+    cs: logika
+    cv: логика
+    cy: rhesymeg
+    da: logik
+    de: Logik
+    el: λογική
+    en: logic
+    en-ca: logic
+    en-gb: logic
+    eo: logiko
+    es: lógica
+    et: loogika
+    eu: logika
+    ext: lógica
+    fa: منطق
+    fi: logiikka
+    fj: vakasama
+    fr: logique
+    frr: Loogik
+    fy: logika
+    ga: loighic
+    gan: 邏輯學
+    gcr: lojik
+    gl: lóxica
+    gn: kuaarape
+    gsw: Logik
+    haw: kūpili
+    he: לוגיקה
+    hi: तर्कशास्त्र
+    hif: logic
+    hr: logika
+    hu: logika
+    hy: տրամաբանություն
+    hyw: տրամաբանութիւն
+    ia: logica
+    iba: logik
+    id: logika
+    ie: logica
+    ig: ómárí
+    ilo: lohika
+    io: logiko
+    is: rökfræði
+    it: logica
+    ja: 論理学
+    jam: lajik
+    jbo: logji
+    jv: logika
+    ka: ლოგიკა
+    kab: tameẓla
+    kbp: cɔlɩyɛ
+    ki: logic
+    kk: логика
+    km: តក្កវិទ្យា
+    knc: Logic
+    ko: 논리학
+    ko-kp: 론리학
+    ks: منطق
+    ku: mentiq
+    kw: lojyk
+    ky: логика
+    la: logica
+    lb: Logik
+    lbe: мантикь
+    lfn: lojica
+    lld: logica
+    lmo: logega
+    lt: logika
+    lv: loģika
+    lzh: 理則
+    mad: Mantèk
+    mag: तर्कशास्त्र
+    mg: lôjika
+    min: logika
+    mk: логика
+    ml: തർക്കശാസ്ത്രം
+    mn: логик
+    mr: तर्कशास्त्र
+    ms: logik
+    ms-arab: لوݢيک
+    mwl: lógica
+    my: ယုတ္တိဗေဒ
+    mzn: منطق
+    nan: lô-chek
+    nb: logikk
+    nds: Logik
+    new: तर्क
+    nl: logica
+    nn: logikk
+    nov: logike
+    oc: logica
+    om: xin-sababa
+    os: логикæ
+    pa: ਤਰਕ ਸ਼ਾਸਤਰ
+    pap: lógika
+    pih: lojik
+    pl: logika
+    pms: lògica
+    pnb: منطق
+    ps: سولپوهنه
+    pt: lógica
+    pt-br: lógica
+    qu: umachasqa kutichina
+    ro: logică
+    ru: логика
+    rue: лоґіка
+    sah: логика
+    sat: ᱡᱩᱠᱛᱤ
+    sc: lògica
+    scn: lòggica
+    sco: logic
+    sd: منطق
+    se: logihkka
+    sgs: luogėka
+    sh: logika
+    shi: tamẓla
+    sk: logika
+    sl: logika
+    smn: logiik
+    sms: logikk
+    so: maangal
+    sq: logjikë
+    sr: логика
+    sr-ec: логика
+    sr-el: logika
+    su: logika
+    sv: logik
+    sw: mantiki
+    ta: ஏரணம்
+    te: తర్కం
+    tg: мантиқ
+    th: ตรรกศาสตร์
+    tk: logika
+    tl: lohika
+    tly: Mәntığ
+    tok: sona pi alasa lon
+    tpi: lajik
+    tr: mantık
+    tt: мантыйк
+    tt-cyrl: мантыйк
+    tyv: билиглел
+    udm: логика
+    uk: логіка
+    ur: منطق
+    uz: mantiq
+    vec: lòzega
+    vep: logik
+    vi: luận lý học
+    vro: loogiga
+    wa: lodjike
+    war: lohika
+    wuu: 邏輯
+    xh: i-logic
+    xmf: ლოგიკა
+    yi: לאגיק
+    yo: ọgbọ́n
+    yue: 邏輯學
+    zgh: ⵜⴰⵎⵥⵍⴰ
+    zh: 邏輯學
+    zh-cn: 逻辑学
+    zh-hans: 逻辑学
+    zh-hant: 理則學
+    zh-hk: 邏輯學
+    zh-mo: 邏輯學
+    zh-my: 逻辑学
+    zh-sg: 逻辑学
+    zh-tw: 理則學
 ---
-
 # [[Logic]] 
 
 #is_/same_as :: [[../WikiData/WD~Logic,8078|WD~Logic,8078]] 

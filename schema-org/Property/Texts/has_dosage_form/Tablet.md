@@ -1,49 +1,160 @@
 ---
 aliases:
-  - Tablette
-  - pill
-  - Tablet
+- compressa
+- comprimat
+- comprimido
+- comprimit
+- comprimé
+- comprimíu
+- Io̍h-phìⁿ
+- pill
+- pilolo
+- Pilula
+- piollaire
+- Pínnëla
+- Tablet
+- Tablet (ubat)
+- tableta
+- Tableta (farmaci)
+- tabletka
+- tablett
+- tabletta
+- Tablette
+- Tabletti
+- tabletė
+- Thuốc viên
+- tswa kan
+- Таблета
+- таблетка
+- Հաբեր
+- גלולה
+- טאבלעט
+- حب
+- قرص
+- مضغوط
+- گولی (دوا)
+- टैबलेट
+- ট্যাবলেট (ঔষধ)
+- மாத்திரை
+- మాత్ర
+- ಮಾತ್ರೆ
+- 片剂
+- 片劑
+- 藥丸
+- 錠剤
+- 알약
 has_id_wikidata: Q206077
 has_use:
-  - "[[_Standards/WikiData/WD~oral_administration,285166]]"
-  - "[[_Standards/WikiData/WD~rectal_administration,419892]]"
-  - "[[_Standards/WikiData/WD~sublingual_administration,784720]]"
-  - "[[_Standards/WikiData/WD~intravaginal_administration,6058566]]"
-  - "[[_Standards/WikiData/WD~buccal_administration,16963239]]"
-different_from: "[[_Standards/WikiData/WD~capsule,519410]]"
+- '[[_Standards/WikiData/WD~oral_administration,285166]]'
+- '[[_Standards/WikiData/WD~rectal_administration,419892]]'
+- '[[_Standards/WikiData/WD~sublingual_administration,784720]]'
+- '[[_Standards/WikiData/WD~intravaginal_administration,6058566]]'
+- '[[_Standards/WikiData/WD~buccal_administration,16963239]]'
+different_from: '[[_Standards/WikiData/WD~capsule,519410]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~dosage_form,718608]]"
-subclass_of: "[[_Standards/WikiData/WD~product,2424752]]"
-has_characteristic: "[[_Standards/WikiData/WD~drug_liberation,5974727]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~dosage_form,718608]]'
+subclass_of: '[[_Standards/WikiData/WD~product,2424752]]'
+has_characteristic: '[[_Standards/WikiData/WD~drug_liberation,5974727]]'
 Commons_category: Pills
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicines%203.jpg
 UMLS_CUI: C0039225
 MeSH_tree_code: D26.255.830
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]"
-    - "[[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]]"
-    - "[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]"
-    - "[[Tablet]]"
+  - '[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]'
+  - '[[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]]'
+  - '[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]'
+  - '[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]'
+  - '[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]'
+  - '[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]'
+  - '[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]'
+  - '[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]'
+  - '[[Tablet]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]"
-  - "[[Tablet]]"
-  - "[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]"
+- '[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]'
+- '[[Tablet]]'
+- '[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]'
+- '[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]'
+- '[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]'
+- '[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]'
+- '[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]'
+- '[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]'
+dv_has_:
+  name_:
+    af: Tablet
+    ar: مضغوط
+    ast: comprimíu
+    be: таблетка
+    be-tarask: таблетка
+    bn: ট্যাবলেট (ঔষধ)
+    ca: comprimit
+    cs: tableta
+    da: tablet
+    de: Tablette
+    en: tablet
+    en-gb: tablet
+    eo: pilolo
+    es: comprimido
+    et: Tablett
+    eu: Pilula
+    fa: قرص
+    fi: Tabletti
+    fr: comprimé
+    ga: piollaire
+    he: גלולה
+    hi: टैबलेट
+    hr: Tableta
+    hu: tabletta
+    hy: Հաբեր
+    id: Tablet
+    it: compressa
+    ja: 錠剤
+    kcg: tswa kan
+    kk: Таблетка
+    kn: ಮಾತ್ರೆ
+    ko: 알약
+    ky: Таблетка
+    lt: tabletė
+    mk: Таблета
+    ms: Tablet (ubat)
+    nan: Io̍h-phìⁿ
+    nap: Pínnëla
+    nb: tablett
+    nia: Tablet
+    nl: tablet
+    nn: tablett
+    pl: tabletka
+    pt: comprimido
+    ro: comprimat
+    ru: таблетка
+    sd: حب
+    sh: Tableta
+    sk: Tableta
+    sl: tableta
+    sq: Tableta (farmaci)
+    sr: Tableta
+    sr-ec: Таблета
+    sr-el: Tableta
+    sv: tablett
+    ta: மாத்திரை
+    te: మాత్ర
+    tr: Tablet
+    uk: таблетка
+    ur: گولی (دوا)
+    vi: Thuốc viên
+    yi: טאבלעט
+    yue: 藥丸
+    zh: 片剂
+    zh-cn: 片剂
+    zh-hans: 片剂
+    zh-hant: 片劑
+    zh-hk: 片劑
+    zh-sg: 片剂
+    zh-tw: 片劑
 ---
-
 # [[Tablet]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]  

@@ -1,9 +1,195 @@
 ---
 aliases:
-  - Giraffa
-  - Giraffe
+- Amdeɣ
+- a̱lakumi a̱yit
+- Camelēopard
+- Chhòng-kiáng-lu̍k
+- Chi Hươu cao cổ
+- Dòng-gêng-lĕ̤k
+- Giarraffa
+- giraf
+- girafa
+- Giraffa
+- Giraffe
+- Giraffen
+- Giraffer
+- girafă
+- Hirapa
+- Jerapah
+- Jiraf
+- Jirafa
+- Jiráff
+- kameelperd
+- kapi
+- Kustrol (Giraffa)
+- Lă
+- mwannalagh
+- sioraf
+- sjiraffer
+- Sɔveda
+- Thutlwa
+- Tn̂g-ām-lo̍k
+- tsinlátah ayáanii
+- Twiga
+- Xirafa
+- Zirafa
+- Zirafah
+- zürafa
+- Zürafə
+- ĝirafo
+- ŋàrí
+- żyrafa
+- žirafa
+- žirafes
+- Ʉʉ́r
+- καμηλοπάρδαλη
+- Анааш
+- жираф
+- Жираф (кăк)
+- Жирафа
+- жирафи
+- жирафы
+- ג'ירף
+- جِراف
+- زرافة
+- زرافه
+- زرافہ
+- زەڕافە
+- ܙܪܢܦܐ
+- चित्रोष्ट्रः
+- जिराफ
+- जिराफ़
+- জিরাফ
+- ਜਿਰਾਫ਼
+- જિરાફ
+- జిరాఫీ
+- ജിറാഫ്
+- ยีราฟ
+- သစ်ကုလားအုတ်
+- キリン
+- 長頸鹿
+- 長頸鹿屬
+- 长颈鹿
+- 长颈鹿属
+- 기린
 title: Giraffa
 has_id_wikidata: Q862089
+dv_has_:
+  name_:
+    ady: жираф
+    af: kameelperd
+    an: Giraffa
+    ang: Camelēopard
+    ar: زرافة
+    arc: ܙܪܢܦܐ
+    arz: زرافه
+    ast: Giraffa
+    avk: Kustrol (Giraffa)
+    az: Zürafə
+    ban: Jerapah
+    bcl: Hirapa
+    bg: жирафи
+    bn: জিরাফ
+    ca: girafa
+    cdo: Dòng-gêng-lĕ̤k
+    ceb: Giraffa
+    ckb: زەڕافە
+    cs: žirafa
+    cv: Жираф (кăк)
+    cy: Jiráff
+    da: giraf
+    de: Giraffen
+    din: Ʉʉ́r
+    ee: Sɔveda
+    el: καμηλοπάρδαλη
+    en: Giraffa
+    en-ca: Giraffe
+    en-gb: giraffe
+    en-us: giraffe
+    eo: ĝirafo
+    es: giraffa
+    eu: Jirafa
+    ext: Giraffa
+    fa: زرافه
+    fi: Giraffa
+    fon: Lă
+    fr: Giraffa
+    frr: Giraf
+    ga: Giraffa
+    gan: 長頸鹿
+    gd: sioraf
+    gl: Xirafa
+    gu: જિરાફ
+    gv: mwannalagh
+    hak: Chhòng-kiáng-lu̍k
+    he: ג'ירף
+    hi: जिराफ़
+    hu: Giraffa
+    ia: Giraffa
+    id: Jerapah
+    ie: Giraffa
+    io: Giraffa
+    it: Giraffa
+    ja: キリン
+    jv: Jerapah
+    kab: Amdeɣ
+    kcg: a̱lakumi a̱yit
+    ko: 기린
+    ks: جِراف
+    ku: Zirafa
+    kw: Jiraf
+    ky: Жираф
+    la: Giraffa
+    lfn: Jirafa
+    lv: žirafes
+    mcn: ŋàrí
+    mg: Jirafa
+    mi: kapi
+    mk: Жирафа
+    ml: ജിറാഫ്
+    mn: Анааш
+    mr: जिराफ
+    ms: Zirafah
+    mul: Giraffa
+    my: သစ်ကုလားအုတ်
+    nan: Tn̂g-ām-lo̍k
+    nb: sjiraffer
+    ne: जिराफ
+    nl: Giraffa
+    nso: Thutlwa
+    nv: tsinlátah ayáanii
+    oc: Giraffa
+    pa: ਜਿਰਾਫ਼
+    pl: żyrafa
+    pt: girafa
+    pt-br: girafa
+    ro: girafă
+    ru: жирафы
+    sa: चित्रोष्ट्रः
+    scn: Giarraffa
+    sd: زرافہ
+    sh: Žirafa
+    sk: Žirafa
+    sl: žirafa
+    sq: Giraffa
+    sr: жирафа
+    sr-ec: Жирафа
+    sv: Giraffer
+    sw: Twiga
+    te: జిరాఫీ
+    th: ยีราฟ
+    tr: zürafa
+    uk: жирафа
+    uz: Jirafa
+    vi: Chi Hươu cao cổ
+    vls: Giraffe
+    vo: Giraffa
+    war: Giraffa
+    wuu: 长颈鹿
+    yue: 長頸鹿屬
+    zh: 长颈鹿属
+    zh-cn: 长颈鹿属
+    zh-tw: 長頸鹿屬
 ---
 # Giraffa
 

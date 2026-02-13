@@ -1,24 +1,143 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Jewish_history,961603]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]"
+  - '[[../../../../WikiData/WD~Jewish_history,961603]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Jewish_history,961603]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]"
+- '[[../../../../WikiData/WD~Jewish_history,961603]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]'
 has_id_wikidata: Q961603
+dv_has_:
+  name_:
+    am: የዕብራውያን ታሪክ
+    ar: تاريخ يهودي
+    ast: Historia del pueblu xudíu
+    az: yəhudi xalqının tarixi
+    be: гісторыя яўрэйскага народа
+    be-tarask: жыдоўская гісторыя
+    bn: ইহুদি ইতিহাস
+    ca: història dels jueus
+    cs: židovské dějiny
+    da: Jødernes historie
+    de: Geschichte der Juden
+    en: Jewish history
+    eo: historio de Judoj
+    es: Historia de los judíos
+    eu: juduen historia
+    fa: تاریخ یهود
+    fi: juutalaisten historia
+    fr: histoire du peuple juif
+    ga: stair na nGiúdach
+    gl: historia dos xudeus
+    gsw: Geschichte der Juden
+    he: היסטוריה של עם ישראל
+    hi: यहूदी इतिहास
+    hr: Povijest Židova
+    hu: a zsidóság történelme
+    hy: Հրեաների պատմություն
+    id: Sejarah Yahudi
+    io: Historio di Judaismo
+    it: storia degli Ebrei
+    ja: ユダヤ人の歴史
+    kcg: Nkhang A̱yahuda na
+    ko: 유대인의 역사
+    lv: ebreju vēsture
+    mg: Tantaran'ny vahoaka jiosy
+    mk: историја на евреите
+    ml: യഹൂദ ചരിത്രം
+    ms: Sejarah Yahudi
+    nb: jødisk historie
+    nl: Joodse geschiedenis
+    pdc: Yiddische Gschicht
+    pl: historia Żydów
+    pnb: یہودی تریخ
+    ps: د يهوديت تاريخ
+    pt: História judaica
+    ro: istoria evreilor
+    ru: история еврейского народа
+    sl: judovska zgodovina
+    sq: Historia hebreje
+    sr: Jevrejska istorija
+    sv: judendomens historia
+    ta: யூதர்களின் வரலாறு
+    tr: Yahudi tarihi
+    uk: історія єврейського народу
+    ur: یہودی تاریخ
+    vi: Lịch sử Do Thái
+    yi: יידישע היסטאריע
+    zh: 犹太人历史
+    zh-hans: 犹太人历史
+    zh-hant: 猶太人歷史
+    zh-hk: 猶太人歷史
+aliases:
+- a zsidóság történelme
+- ebreju vēsture
+- Geschichte der Juden
+- histoire du peuple juif
+- Historia de los judíos
+- Historia del pueblu xudíu
+- historia dos xudeus
+- Historia hebreje
+- historia Żydów
+- historio de Judoj
+- Historio di Judaismo
+- història dels jueus
+- História judaica
+- istoria evreilor
+- Jevrejska istorija
+- Jewish history
+- Joodse geschiedenis
+- judendomens historia
+- judovska zgodovina
+- juduen historia
+- juutalaisten historia
+- Jødernes historie
+- jødisk historie
+- Lịch sử Do Thái
+- Nkhang A̱yahuda na
+- Povijest Židova
+- Sejarah Yahudi
+- stair na nGiúdach
+- storia degli Ebrei
+- Tantaran'ny vahoaka jiosy
+- Yahudi tarihi
+- Yiddische Gschicht
+- yəhudi xalqının tarixi
+- židovské dějiny
+- історія єврейського народу
+- гісторыя яўрэйскага народа
+- жыдоўская гісторыя
+- историја на евреите
+- история еврейского народа
+- Հրեաների պատմություն
+- היסטוריה של עם ישראל
+- יידישע היסטאריע
+- تاريخ يهودي
+- تاریخ یهود
+- د يهوديت تاريخ
+- یہودی تاریخ
+- یہودی تریخ
+- यहूदी इतिहास
+- ইহুদি ইতিহাস
+- யூதர்களின் வரலாறு
+- യഹൂദ ചരിത്രം
+- የዕብራውያን ታሪክ
+- ユダヤ人の歴史
+- 犹太人历史
+- 猶太人歷史
+- 유대인의 역사
 ---
 # [[Jewish_History]] 
 

@@ -1,7 +1,59 @@
 ---
 has_id_wikidata: Q852174
+dv_has_:
+  name_:
+    ar: موس تكنولوجي
+    ca: MOS Technology
+    cs: MOS Technology
+    de: MOS Technology
+    de-ch: MOS Technology
+    el: MOS Technology
+    en: MOS Technology
+    en-ca: MOS Technology
+    en-gb: MOS Technology
+    es: MOS Technology
+    fa: موس تکنالوجی
+    fi: MOS Technology
+    fr: MOS Technology
+    he: טכנולוגית MOS
+    hr: MOS Technology
+    hu: MOS Technology
+    it: MOS Technology
+    ja: モステクノロジー
+    ka: MOS Technology
+    ko: 모스 테크놀로지
+    la: MOS Technology
+    nl: MOS Technology
+    nn: MOS Technology Inc
+    pl: MOS Technology
+    pt: MOS Technology
+    pt-br: MOS Technology
+    ru: MOS Technology
+    sh: MOS Technology
+    sl: MOS Technology
+    sr: МОС текнолоџи
+    sr-ec: МОС текнолоџи
+    sr-el: MOS teknolodži
+    sv: MOS Technology
+    uk: MOS Technology
+    vec: MOS Technology
+    zh: 金屬氧化物半導體
+    zh-hans: MOS科技公司
+    zh-hant: MOS科技公司
+    zh-hk: MOS科技公司
+aliases:
+- MOS Technology
+- MOS Technology Inc
+- MOS teknolodži
+- MOS科技公司
+- МОС текнолоџи
+- טכנולוגית MOS
+- موس تكنولوجي
+- موس تکنالوجی
+- モステクノロジー
+- 金屬氧化物半導體
+- 모스 테크놀로지
 ---
-
 # [[MOS_Technology]] 
 
 > MOS Technology, Inc. ("MOS" being short for Metal Oxide Semiconductor), 

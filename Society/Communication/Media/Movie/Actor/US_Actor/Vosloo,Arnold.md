@@ -1,8 +1,89 @@
 ---
 aliases:
-  - Arnold Vosloo
-  - Vosloo,Arnold
+- Arnold Vosloo
+- U-Arnold Vosloo
+- Vosloo,Arnold
+- Άρνολντ Βόσλου
+- Арнолд Вослу
+- Арнольд Вослу
+- Առնոլդ Վոսլու
+- ארנולד ווסלו
+- آرنولد وسلو
+- آرنولڈ ووسلوٗ
+- أرنولد فوسلو
+- ئارنۆڵد ڤۆسلۆ
+- आर्नोल्ड भास्लो
+- আর্নল্ড
+- അർണോൾഡ്
+- อาร์โนลด์ วอสลู
+- არნოლდ ვოსლუ
+- アーノルド・ヴォスルー
+- 阿諾德·沃斯洛
+- 阿诺德·沃斯洛
+- 아널드 보슬루
 has_id_wikidata: Q297739
+dv_has_:
+  name_:
+    af: Arnold Vosloo
+    ar: أرنولد فوسلو
+    ast: Arnold Vosloo
+    azb: آرنولد وسلو
+    bn: আর্নল্ড
+    ca: Arnold Vosloo
+    ckb: ئارنۆڵد ڤۆسلۆ
+    cs: Arnold Vosloo
+    cy: Arnold Vosloo
+    da: Arnold Vosloo
+    dag: Arnold Vosloo
+    de: Arnold Vosloo
+    diq: Arnold Vosloo
+    dty: आर्नोल्ड भास्लो
+    el: Άρνολντ Βόσλου
+    en: Arnold Vosloo
+    eo: Arnold Vosloo
+    es: Arnold Vosloo
+    et: Arnold Vosloo
+    eu: Arnold Vosloo
+    fa: آرنولد وسلو
+    fi: Arnold Vosloo
+    fr: Arnold Vosloo
+    ga: Arnold Vosloo
+    gl: Arnold Vosloo
+    he: ארנולד ווסלו
+    hr: Arnold Vosloo
+    hu: Arnold Vosloo
+    hy: Առնոլդ Վոսլու
+    ig: Arnold Vosloo
+    it: Arnold Vosloo
+    ja: アーノルド・ヴォスルー
+    kl: Arnold Vosloo
+    ko: 아널드 보슬루
+    ks: آرنولڈ ووسلوٗ
+    mai: आर्नोल्ड भास्लो
+    ml: അർണോൾഡ്
+    mul: Arnold Vosloo
+    nb: Arnold Vosloo
+    ne: आर्नोल्ड भास्लो
+    nl: Arnold Vosloo
+    nn: Arnold Vosloo
+    pl: Arnold Vosloo
+    pt: Arnold Vosloo
+    pt-br: Arnold Vosloo
+    ro: Arnold Vosloo
+    ru: Арнольд Вослу
+    sh: Arnold Vosloo
+    sl: Arnold Vosloo
+    sq: Arnold Vosloo
+    sr: Арнолд Вослу
+    sv: Arnold Vosloo
+    th: อาร์โนลด์ วอสลู
+    tr: Arnold Vosloo
+    uk: Арнольд Вослу
+    vi: Arnold Vosloo
+    xmf: არნოლდ ვოსლუ
+    zh: 阿诺德·沃斯洛
+    zh-hant: 阿諾德·沃斯洛
+    zu: U-Arnold Vosloo
 ---
 #has_/time_/started :: 1962-06-16 
 

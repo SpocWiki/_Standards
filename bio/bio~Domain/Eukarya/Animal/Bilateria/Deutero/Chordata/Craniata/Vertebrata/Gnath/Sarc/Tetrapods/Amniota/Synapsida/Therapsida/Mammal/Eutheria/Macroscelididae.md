@@ -1,40 +1,157 @@
 ---
 title: Macroscelididae
 aliases:
-  - Macroscelidea
-  - Macroscelididae
+- bércounovití
+- Celurut gajah
+- Chuột chù voi
+- Chį́į́hnézí nahatʼeʼígíí
+- Elephant shrew
+- Fam. Macroscelididae
+- Fil sivri fareleri
+- Fílabroddmýs
+- hyppypäästäiset
+- Klaasneuse
+- Luteoviridae
+- Macroscelidea
+- Macroscelideos
+- Macroscelididae
+- Macroselideo
+- Makrosceliduloj
+- Musaranyes elefant
+- rilčasti skakači
+- Ryjkonosowate
+- Rüsselspringer
+- Sengi
+- Springnäbbmöss
+- Springspissmus
+- Surlaste rovčice
+- Torukoonlased
+- ukanoleem
+- ziloņciršļu dzimta
+- прыгунчиковые
+- Секіргіштер
+- Скакунчыкі
+- Скакунчыкавыя
+- Слонові землерийки
+- слонски земеровки
+- сурлести ровчици
+- ցատկամկներ
+- חדפי פיל
+- حشرهخوار جهنده
+- زبابات الفيل
+- ماکروسلیدیده
+- யானை மூஞ்சூறு
+- อันดับหนูผีช้าง
+- ხტუნიასებრნი
+- ハネジネズミ目
+- 象鼩
+- 象鼩科
+- 코끼리땃쥐
 has_id_wikidata: Q9324400
-parent_taxon: "[[_Standards/WikiData/WD~Macroscelidea,129513]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q22841138,22841138]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "584894"
+parent_taxon: '[[_Standards/WikiData/WD~Macroscelidea,129513]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22841138,22841138]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 584894
 taxon_common_name:
-  - прыгунчики
-  - Rüsselspringer
-  - bércouni
-  - Springspidsmus
-  - ハネジネズミ科
-  - Springspissmus
-  - Musaranho-elefante
-  - слоновые землеройки
-  - Springnäbbmöss
-  - เซงกิ
-  - เซงกิส
-  - หนูผีช้าง
-  - murgañu elefante
-  - Elephant Shrews
-  - Springspitsmuizen
-  - Ryjoskoczki
-  - прыгунчиковые
+- прыгунчики
+- Rüsselspringer
+- bércouni
+- Springspidsmus
+- ハネジネズミ科
+- Springspissmus
+- Musaranho-elefante
+- слоновые землеройки
+- Springnäbbmöss
+- เซงกิ
+- เซงกิส
+- หนูผีช้าง
+- murgañu elefante
+- Elephant Shrews
+- Springspitsmuizen
+- Ryjoskoczki
+- прыгунчиковые
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Macroscelides.%20proboscideus.6869.jpg
 Commons_gallery: Macroscelididae
 Commons_category: Macroscelididae
 taxon_name: Macroscelididae
 UMLS_CUI: C0324735
+dv_has_:
+  name_:
+    af: Klaasneuse
+    an: Macroscelididae
+    ar: زبابات الفيل
+    ast: Fam. Macroscelididae
+    avk: ukanoleem
+    azb: ماکروسلیدیده
+    be: Скакунчыкавыя
+    be-tarask: Скакунчыкі
+    bg: слонски земеровки
+    ca: Musaranyes elefant
+    ceb: Macroscelididae
+    cs: bércounovití
+    de: Rüsselspringer
+    en: Macroscelididae
+    en-ca: Elephant shrew
+    en-gb: Elephant shrew
+    eo: Makrosceliduloj
+    es: Macroscelididae
+    et: Torukoonlased
+    eu: Macroscelididae
+    ext: Macroscelididae
+    fa: حشرهخوار جهنده
+    fi: hyppypäästäiset
+    fr: Macroscelididae
+    frr: Macroscelididae
+    ga: Macroscelididae
+    gl: Macroscelideos
+    he: חדפי פיל
+    hu: Luteoviridae
+    hy: ցատկամկներ
+    ia: Macroscelididae
+    id: Celurut gajah
+    ie: Macroscelididae
+    io: Macroscelididae
+    is: Fílabroddmýs
+    it: Macroscelididae
+    ja: ハネジネズミ目
+    ka: ხტუნიასებრნი
+    kk: Секіргіштер
+    ko: 코끼리땃쥐
+    la: Macroscelididae
+    lfn: Macroselideo
+    lv: ziloņciršļu dzimta
+    mk: сурлести ровчици
+    mt: Macroscelididae
+    mul: Macroscelididae
+    nb: Springspissmus
+    nl: Macroscelididae
+    nv: Chį́į́hnézí nahatʼeʼígíí
+    oc: Macroscelididae
+    pl: Ryjkonosowate
+    pt: Macroscelididae
+    pt-br: Macroscelididae
+    ro: Macroscelididae
+    ru: прыгунчиковые
+    sco: Elephant shrew
+    sl: rilčasti skakači
+    sq: Macroscelidea
+    sr: Surlaste rovčice
+    sv: Springnäbbmöss
+    sw: Sengi
+    ta: யானை மூஞ்சூறு
+    th: อันดับหนูผีช้าง
+    tr: Fil sivri fareleri
+    uk: Слонові землерийки
+    vi: Chuột chù voi
+    vo: Macroscelididae
+    war: Macroscelididae
+    yue: 象鼩
+    zh: 象鼩科
+    zh-cn: 象鼩科
+    zh-hans: 象鼩科
 ---
-
 # [[Macroscelididae]]
 
 ## Macroscelidea 

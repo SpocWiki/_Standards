@@ -1,62 +1,107 @@
 ---
 aliases:
+- Côr y Cewri
+- Dons an Gewri
+- Ki-sa̍k-chhṳn
+- Stonehenge
+- Stonhendža
+- Stounhendž
+- Stounhendžas
+- Stounhenç
+- Stānhencg
+- Στόουνχεντζ
+- Стоўнгэндж
+- Стоўнхендж
+- Стоунгендж
+- Стоунхенџ
+- Стоунхендж
+- Стоунхенж
+- Стоунһенҗ
+- Սթոունհենջ
+- סטונהנג'
+- استون هنج
+- استونهنج
+- ستونهنج
+- ستۆنھێنج
+- سٹون ہینج
+- سٹونہنج
+- سټونهېنج
+- ސްޓޯންހެންޖް
+- स्टोनहॅन्ज
+- स्टोनहेंज
+- स्टोनहेज
+- ষ্ট'নহেঞ্জ
+- স্টোনহেঞ্জ
+- ਸਟੋਨਹੈਂਜ
+- ஸ்டோன் ஹெஞ்ச்
+- స్టోన్హెంజ్
+- ಸ್ಟೋನ್ ಹೆಂಜ್
+- സ്റ്റോൺഹെഞ്ച്
+- สโตนเฮนจ์
+- စတုန်းဟင်းချ်
+- სტოუნჰენჯი
+- ᏅᏯ ᏙᏗᎦᏙᎬ
+- ストーンヘンジ
+- 巨石阵
+- 巨石陣
+- 스톤헨지
 has_id_wikidata: Q39671
-P8189: "987007536419005171"
+P8189: 987007536419005171
 X_Twitter_username: EH_Stonehenge
 Krugosvet_article: istoriya/STONHENDZH.html
 heritage_designation:
-  - "[[_Standards/WikiData/WD~scheduled_monument,219538]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-owned_by: "[[_Standards/WikiData/WD~National_Trust,333515]]"
-architectural_style: "[[_Standards/WikiData/WD~prehistoric_Britain,435405]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Amesbury,470299]]"
+- '[[_Standards/WikiData/WD~scheduled_monument,219538]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+owned_by: '[[_Standards/WikiData/WD~National_Trust,333515]]'
+architectural_style: '[[_Standards/WikiData/WD~prehistoric_Britain,435405]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Amesbury,470299]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~cromlech,935773]]"
-  - "[[_Standards/WikiData/WD~henge,1035294]]"
-  - "[[_Standards/WikiData/WD~monument,4989906]]"
-  - "[[_Standards/WikiData/WD~history_museum,16735822]]"
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~cromlech,935773]]'
+- '[[_Standards/WikiData/WD~henge,1035294]]'
+- '[[_Standards/WikiData/WD~monument,4989906]]'
+- '[[_Standards/WikiData/WD~history_museum,16735822]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q97948727,97948727]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
-operator: "[[_Standards/WikiData/WD~English_Heritage,936287]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q97948727,97948727]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+operator: '[[_Standards/WikiData/WD~English_Heritage,936287]]'
 has_facility:
-  - "[[_Standards/WikiData/WD~accessible_toilet,2775009]]"
-  - "[[_Standards/WikiData/WD~Changing_Places_toilet,115144693]]"
+- '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
+- '[[_Standards/WikiData/WD~Changing_Places_toilet,115144693]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~sarsen,2920343]]"
-  - "[[_Standards/WikiData/WD~bluestone,56490299]]"
+- '[[_Standards/WikiData/WD~sarsen,2920343]]'
+- '[[_Standards/WikiData/WD~bluestone,56490299]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-depicted_by: "[[_Standards/WikiData/WD~Stonehenge_with_Sheep,52155456]]"
-historic_county: "[[_Standards/WikiData/WD~Wiltshire,67575300]]"
+- '[[_Standards/WikiData/WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(iii),23038977]]'
+depicted_by: '[[_Standards/WikiData/WD~Stonehenge_with_Sheep,52155456]]'
+historic_county: '[[_Standards/WikiData/WD~Wiltshire,67575300]]'
 inception:
-  - -3000-06
-  - -1848-01-01T00:00:00Z
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stonehenge,99540863]]"
-has_part_s_: "[[_Standards/WikiData/WD~Stonehenge_stone_150,110065002]]"
+- -3000-06
+- -1848-01-01T00:00:00Z
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stonehenge,99540863]]'
+has_part_s_: '[[_Standards/WikiData/WD~Stonehenge_stone_150,110065002]]'
 coordinate_location: Point(-1.826111111 51.178888888)
 dissolved_abolished_or_demolished_date: -1399-01-01T00:00:00Z
-located_in_time_zone: "[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+located_in_time_zone: '[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 diameter:
-  - 30
-  - 104
-significant_event: "[[_Standards/WikiData/WD~Guinness_World_Records,41675]]"
+- 30
+- 104
+significant_event: '[[_Standards/WikiData/WD~Guinness_World_Records,41675]]'
 social_media_followers: 48311
-National_Heritage_List_for_England_number: "1010140"
+National_Heritage_List_for_England_number: 1010140
 described_at_URL:
-  - https://arstechnica.com/science/2020/07/archaeologists-find-the-source-of-stonehenge-sarsen-stones/
-  - https://www.wired.com/story/archaeologists-have-found-the-source-of-stonehenges-boulders/
+- https://arstechnica.com/science/2020/07/archaeologists-find-the-source-of-stonehenge-sarsen-stones/
+- https://www.wired.com/story/archaeologists-have-found-the-source-of-stonehenges-boulders/
 image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/Stone%20Plan%20Coloured.jpg
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge%20Inside%20Facing%20NE%20April%202005.jpg
 Commons_category: Stonehenge
@@ -65,33 +110,159 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Magical%20Sto
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge%20Total.jpg
 ground_level_360_degree_view_URL:
-  - https://goo.gl/maps/1u6gXGoG147hJh4o8
-  - https://kartaview.org/details/3760957/643
-  - https://www.mapillary.com/app/?pKey=3207759826117672
+- https://goo.gl/maps/1u6gXGoG147hJh4o8
+- https://kartaview.org/details/3760957/643
+- https://www.mapillary.com/app/?pKey=3207759826117672
 official_website: https://www.english-heritage.org.uk/stonehenge
 IPA_transcription: ˌstəʊnˈhendʒ
-Dewey_Decimal_Classification: "936.231"
+Dewey_Decimal_Classification: 936.231
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]"
-    - "[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]"
-    - "[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]"
-    - "[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]"
-    - "[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]"
-    - "[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]"
+  - '[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]'
+  - '[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]'
+  - '[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]'
+  - '[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]'
+  - '[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]'
+  - '[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]"
-  - "[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]"
-  - "[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]"
-  - "[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]"
-  - "[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]"
-  - "[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]"
+- '[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]'
+- '[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]'
+- '[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]'
+- '[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]'
+- '[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]'
+- '[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]'
+- '[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]'
+- '[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]'
+dv_has_:
+  name_:
+    af: Stonehenge
+    ang: Stānhencg
+    ar: ستونهنج
+    arz: ستونهنج
+    as: ষ্ট'নহেঞ্জ
+    ast: Stonehenge
+    az: Stounhenç
+    azb: استون هنج
+    ba: Стоунхендж
+    ban: Stonehenge
+    bar: Stonehenge
+    bcl: Stonehenge
+    be: Стоўнхендж
+    be-tarask: Стоўнгэндж
+    bg: Стоунхендж
+    bho: स्टोनहेंज
+    bn: স্টোনহেঞ্জ
+    br: Stonehenge
+    bs: Stonehenge
+    ca: Stonehenge
+    cbk-zam: Stonehenge
+    ceb: Stonehenge
+    chr: ᏅᏯ ᏙᏗᎦᏙᎬ
+    ckb: ستۆنھێنج
+    cs: Stonehenge
+    cv: Стоунхендж
+    cy: Côr y Cewri
+    da: Stonehenge
+    de: Stonehenge
+    de-ch: Stonehenge
+    dv: ސްޓޯންހެންޖް
+    el: Στόουνχεντζ
+    en: Stonehenge
+    en-ca: Stonehenge
+    en-gb: Stonehenge
+    eo: Stonehenge
+    es: Stonehenge
+    et: Stonehenge
+    eu: Stonehenge
+    fa: استونهنج
+    fi: Stonehenge
+    fo: Stonehenge
+    fr: Stonehenge
+    frr: Stonehenge
+    fy: Stonehenge
+    ga: Stonehenge
+    gcr: Stonehenge
+    gl: Stonehenge
+    hak: Ki-sa̍k-chhṳn
+    he: סטונהנג'
+    hi: स्टोनहॅन्ज
+    hr: Stonehenge
+    hu: Stonehenge
+    hy: Սթոունհենջ
+    ia: Stonehenge
+    id: Stonehenge
+    io: Stonehenge
+    is: Stonehenge
+    it: Stonehenge
+    ja: ストーンヘンジ
+    jv: Stonehenge
+    ka: სტოუნჰენჯი
+    kbp: Stonehenge
+    kk: Стоунхендж
+    kn: ಸ್ಟೋನ್ ಹೆಂಜ್
+    ko: 스톤헨지
+    ku: Stonehenge
+    kw: Dons an Gewri
+    la: Stonehenge
+    lb: Stonehenge
+    lfn: Stonehenge
+    lt: Stounhendžas
+    lv: Stonhendža
+    mg: Stonehenge
+    mk: Стоунхенџ
+    ml: സ്റ്റോൺഹെഞ്ച്
+    mn: Стоунхенж
+    mr: स्टोनहेंज
+    ms: Stonehenge
+    mt: Stonehenge
+    my: စတုန်းဟင်းချ်
+    nan: Stonehenge
+    nb: Stonehenge
+    nds-nl: Stonehenge
+    ne: स्टोनहेज
+    nl: Stonehenge
+    nn: Stonehenge
+    nov: Stonehenge
+    nrm: Stonehenge
+    oc: Stonehenge
+    pa: ਸਟੋਨਹੈਂਜ
+    pl: Stonehenge
+    pnb: سٹونہنج
+    ps: سټونهېنج
+    pt: Stonehenge
+    pt-br: Stonehenge
+    ro: Stonehenge
+    ru: Стоунхендж
+    scn: Stonehenge
+    sco: Stonehenge
+    sh: Stonehenge
+    sk: Stonehenge
+    sl: Stonehenge
+    smn: Stonehenge
+    sq: Stonehenge
+    sr: Стоунхенџ
+    sr-ec: Стоунхенџ
+    sr-el: Stounhendž
+    sv: Stonehenge
+    ta: ஸ்டோன் ஹெஞ்ச்
+    te: స్టోన్హెంజ్
+    th: สโตนเฮนจ์
+    tl: Stonehenge
+    tr: Stonehenge
+    tt: Стоунһенҗ
+    uk: Стоунгендж
+    ur: سٹون ہینج
+    uz: Stonehenge
+    vep: Stounhendž
+    vi: Stonehenge
+    war: Stonehenge
+    wuu: 巨石阵
+    yue: 巨石陣
+    zh: 巨石阵
+    zh-hans: 巨石阵
 ---
-
 # [[Stonehenge]] 
 
 ![[../../../assets/Stonehenge.png]] 

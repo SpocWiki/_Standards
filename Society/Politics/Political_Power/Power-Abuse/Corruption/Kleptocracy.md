@@ -1,19 +1,144 @@
 ---
 aliases:
-  - thievocracy
-  - Kleptocracy
+- Chế độ đạo tặc
+- cleptocracia
+- cleptocrasia
+- cleptocrazia
+- Cleptocrație
+- cleptocràcia
+- Kleptocracy
+- kleptocratie
+- kleptokraatia
+- Kleptokracia
+- kleptokracie
+- Kleptokracija
+- kleptokracja
+- Kleptokrasi
+- Kleptokrasia
+- Kleptokrasie
+- Kleptokrasya
+- Kleptokrati
+- kleptokratia
+- Kleptokratie
+- kleptokratiija
+- Kleptokratija
+- kleptokratije
+- Kleptokratio
+- Kleptokratiya
+- Kleptokrazia
+- kleptokrácia
+- thievocracy
+- Þjófræði
+- Κλεπτοκρατία
+- Клептакратыя
+- Клептократія
+- Клептократија
+- клептократия
+- Клептокрация
+- Ավազակապետություն
+- קלפטוקרטיה
+- دزدسالاری
+- سارقیت
+- كليبتوقراطية
+- چەتەسالاری
+- चोर-तंत्र
+- चोरतन्त्र
+- চৌর্যতন্ত্র
+- โจราธิปไตย
+- კლეპტოკრატია
+- 泥棒政治
+- 窃盗统治
+- 竊盜統治
+- 도둑정치
 has_id_wikidata: Q191244
 subclass_of:
-  - '[[_Standards/WikiData/WD~oligarchy,79751]]'
-  - '[[_Standards/WikiData/WD~state_system,20076236]]'
+- '[[_Standards/WikiData/WD~oligarchy,79751]]'
+- '[[_Standards/WikiData/WD~state_system,20076236]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~form_of_state,183039]]'
-  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 OmegaWiki_Defined_Meaning: 1493200
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Vedder-Highsmith-detail-1.jpeg
+dv_has_:
+  name_:
+    af: Kleptokrasie
+    ar: كليبتوقراطية
+    ast: Cleptocracia
+    az: Kleptokratiya
+    be: Клептакратыя
+    be-tarask: клептакратыя
+    bg: Клептокрация
+    bn: চৌর্যতন্ত্র
+    ca: cleptocràcia
+    ckb: چەتەسالاری
+    cps: Kleptokrasya
+    cs: kleptokracie
+    da: Kleptokrati
+    de: Kleptokratie
+    el: Κλεπτοκρατία
+    en: kleptocracy
+    eo: Kleptokratio
+    es: cleptocracia
+    et: kleptokraatia
+    eu: Kleptokrazia
+    fa: دزدسالاری
+    fi: kleptokratia
+    fr: kleptocratie
+    gl: Cleptocracia
+    he: קלפטוקרטיה
+    hi: चोर-तंत्र
+    hil: Kleptokrasya
+    hr: Kleptokracija
+    hu: kleptokrácia
+    hy: Ավազակապետություն
+    id: Kleptokrasi
+    is: Þjófræði
+    it: cleptocrazia
+    ja: 泥棒政治
+    kk: Клептократия
+    ko: 도둑정치
+    krj: Kleptokrasya
+    lb: Kleptokratie
+    lt: Kleptokratija
+    mk: Клептократија
+    ms: Kleptokrasi
+    nb: kleptokrati
+    ne: चोरतन्त्र
+    nl: kleptocratie
+    nn: kleptokrati
+    pam: Kleptokrasia
+    pl: kleptokracja
+    pt: cleptocracia
+    ro: Cleptocrație
+    ru: клептократия
+    se: kleptokratiija
+    sh: Kleptokracija
+    sk: Kleptokracia
+    sl: kleptokracija
+    sma: kleptokratije
+    smj: kleptokratija
+    smn: kleptokratia
+    sms: kleptokratia
+    sr: Клептократија
+    sr-ec: Клептократија
+    sr-el: Kleptokratija
+    sv: kleptokrati
+    th: โจราธิปไตย
+    tr: Kleptokrasi
+    uk: Клептократія
+    ur: سارقیت
+    vec: cleptocrasia
+    vi: Chế độ đạo tặc
+    xmf: კლეპტოკრატია
+    zh: 竊盜統治
+    zh-cn: 窃盗统治
+    zh-hans: 窃盗统治
+    zh-hant: 竊盜統治
+    zh-hk: 竊盜統治
+    zh-sg: 窃盗统治
+    zh-tw: 竊盜統治
 ---
-
 # [[Kleptocracy]] 
 
 #is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244]] 

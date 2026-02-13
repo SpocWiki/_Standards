@@ -1,8 +1,88 @@
 ---
 aliases:
-  - Hyperoliidae
+- Gräsgrodor
+- Hiperoliedoj
+- Hiperòlid
+- Hyperoliidae
+- mászóbékafélék
+- Riedfrösche
+- rietkikkers
+- ruokosammakot
+- rákosničkovití
+- Sitówkowate
+- Tłʼoh dichʼíizhtah chʼał
+- Umgqagqa
+- Šokliavarlinės
+- Жаби-стрибунці
+- Прыгуньи
+- היפרוליים
+- ضفادع الأدغال
+- ضفادع الادغال
+- قورباغههای جگن
+- クサガエル科
+- 非洲树蛙科
+- 非洲樹蛙科
+- 풀개구리과
 title: Hyperoliidae
 has_id_wikidata: Q55476
+dv_has_:
+  name_:
+    an: Hyperoliidae
+    ar: ضفادع الأدغال
+    arz: ضفادع الادغال
+    ast: Hyperoliidae
+    bg: Hyperoliidae
+    ca: Hiperòlid
+    ceb: Hyperoliidae
+    cs: rákosničkovití
+    de: Riedfrösche
+    de-ch: Riedfrösche
+    en: Hyperoliidae
+    en-ca: Hyperoliidae
+    en-gb: Hyperoliidae
+    eo: Hiperoliedoj
+    es: Hyperoliidae
+    eu: Hyperoliidae
+    ext: Hyperoliidae
+    fa: قورباغههای جگن
+    fi: ruokosammakot
+    fr: Hyperoliidae
+    ga: Hyperoliidae
+    gl: Hyperoliidae
+    he: היפרוליים
+    hu: mászóbékafélék
+    ia: Hyperoliidae
+    ie: Hyperoliidae
+    io: Hyperoliidae
+    it: Hyperoliidae
+    ja: クサガエル科
+    ko: 풀개구리과
+    la: Hyperoliidae
+    lt: Šokliavarlinės
+    mul: Hyperoliidae
+    nb: Hyperoliidae
+    nl: rietkikkers
+    nn: Hyperoliidae
+    nv: Tłʼoh dichʼíizhtah chʼał
+    oc: Hyperoliidae
+    pl: Sitówkowate
+    pt: Hyperoliidae
+    pt-br: Hyperoliidae
+    ro: Hyperoliidae
+    ru: Прыгуньи
+    sl: Hyperoliidae
+    sq: Hyperoliidae
+    sr: Hyperoliidae
+    sv: Gräsgrodor
+    tr: Hyperoliidae
+    uk: Жаби-стрибунці
+    vi: Hyperoliidae
+    vo: Hyperoliidae
+    war: Hyperoliidae
+    zh: 非洲树蛙科
+    zh-cn: 非洲树蛙科
+    zh-tw: 非洲樹蛙科
+    zu: Umgqagqa
 ---
 # [[Hyperoliidae]]
 

@@ -1,48 +1,230 @@
 ---
 aliases:
-  - Grafschaft
-  - comté
-  - comitatus
-  - County
+- Bajaristan
+- biiregoddi
+- Ceàrn
+- comitat
+- comitatus
+- comtat
+- comté
+- condado
+- condáu
+- contae
+- contea
+- Coontae
+- coonty
+- County
+- cuntea
+- fylke
+- graafskap
+- Grafschaft
+- Grafschoft
+- Grafystė
+- Graofsjap
+- grofovija
+- grāfiste
+- Gâing
+- hrabství
+- hrabstwo
+- huyện
+- Kaunti
+- Komtio
+- Kondado
+- Konderenda
+- konderri
+- Kontado
+- kontas
+- kontelezh
+- Kontluk
+- kruuggkåʹdd
+- maakond
+- Maakund
+- megye
+- okrožje
+- piirikunta
+- pirrâdâhkodde
+- qraflıq
+- Scīr
+- sir
+- Sýsla
+- Taripayt'aqa
+- Županija
+- κομητεία
+- графад
+- Графлык
+- графства
+- графство
+- Графтық
+- грофовија
+- жупанија
+- Шаҳристон
+- կոմսություն
+- נפה
+- بولگه
+- شأرستان
+- شارستان
+- شهرستان
+- محافظة
+- مقاطعه
+- کاؤنٹی
+- ڪائونٽي
+- काउण्टी
+- কাউন্টি
+- কোন্ডাডো
+- เทศมณฑล
+- ကောင်တီ
+- საგრაფო
+- カウンティ
+- 县/郡/伯国/伯爵领
+- 縣
+- 縣/郡/伯國/伯爵領
+- 카운티
 has_id_wikidata: Q28575
 subclass_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-different_from: "[[_Standards/WikiData/WD~County,855080]]"
+- '[[_Standards/WikiData/WD~region,82794]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+different_from: '[[_Standards/WikiData/WD~County,855080]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
 OmegaWiki_Defined_Meaning: 971834
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#county
 UMLS_CUI: C0079170
 Commons_category: Counties
 OpenStreetMap_tag_or_key:
-  - Tag:border_type=county
-  - Tag:place=county
+- Tag:border_type=county
+- Tag:place=county
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~County,28575|WD~County,28575]]"
-    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]"
-    - "[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]"
-    - "[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]"
-    - "[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]"
-    - "[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]"
+  - '[[../../../../WikiData/WD~County,28575|WD~County,28575]]'
+  - '[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]'
+  - '[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]'
+  - '[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]'
+  - '[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]'
+  - '[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~County,28575|WD~County,28575]]"
-  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]"
-  - "[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]"
-  - "[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]"
-  - "[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]"
-  - "[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]"
+- '[[../../../../WikiData/WD~County,28575|WD~County,28575]]'
+- '[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]'
+- '[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]'
+- '[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]'
+- '[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]'
+- '[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]'
+- '[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]'
+- '[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]'
+dv_has_:
+  name_:
+    af: graafskap
+    ang: Scīr
+    ar: محافظة
+    arz: مقاطعه
+    ast: condáu
+    az: qraflıq
+    azb: بولگه
+    bar: Grafschoft
+    be: графства
+    be-tarask: графства
+    bg: Графство
+    bn: কাউন্টি
+    bpy: কোন্ডাডো
+    br: kontelezh
+    bs: Županija
+    ca: comtat
+    cdo: Gâing
+    ce: Графство
+    ceb: Kontado
+    ckb: شارستان
+    co: cuntea
+    cs: hrabství
+    cy: sir
+    da: County
+    de: County
+    de-ch: County
+    el: κομητεία
+    en: county
+    en-ca: county
+    en-gb: county
+    eo: county
+    es: condado
+    et: maakond
+    eu: konderri
+    fa: شهرستان
+    fi: piirikunta
+    fr: comté
+    frr: County
+    ga: contae
+    gd: Ceàrn
+    gl: condado
+    glk: شأرستان
+    gn: Konderenda
+    gv: Coontae
+    he: נפה
+    hi: काउण्टी
+    hr: grofovija
+    hu: megye
+    hy: կոմսություն
+    id: kontas
+    io: Komtio
+    is: Sýsla
+    it: contea
+    ja: カウンティ
+    ka: საგრაფო
+    kk: Графтық
+    ko: 카운티
+    ku: Bajaristan
+    la: Comitatus
+    li: Graofsjap
+    lt: Grafystė
+    lv: grāfiste
+    lzh: 縣
+    mk: грофовија
+    ms: Kaunti
+    my: ကောင်တီ
+    nb: fylke
+    nds: County
+    nl: county
+    nn: fylke
+    oc: comtat
+    os: графад
+    pl: hrabstwo
+    pnb: کاؤنٹی
+    pt: condado
+    pt-br: condado
+    qu: Taripayt'aqa
+    ro: comitat
+    ru: графство
+    sco: coonty
+    sd: ڪائونٽي
+    se: biiregoddi
+    sh: County
+    sk: County
+    sl: okrožje
+    smn: pirrâdâhkodde
+    sms: kruuggkåʹdd
+    sr: жупанија
+    sv: county
+    tg: Шаҳристон
+    th: เทศมณฑล
+    tl: Kondado
+    tpi: Kaunti
+    tr: Kontluk
+    tt: Графлык
+    uk: графство
+    ur: کاؤنٹی
+    vec: Contea
+    vi: huyện
+    vro: Maakund
+    wuu: 县/郡/伯国/伯爵领
+    yue: 縣/郡/伯國/伯爵領
+    zh: 县/郡/伯国/伯爵领
+    zh-cn: 县/郡/伯国/伯爵领
+    zh-hant: 縣/郡/伯國/伯爵領
+    zh-tw: 縣/郡/伯國/伯爵領
 ---
-
 # [[County]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~County,28575|WD~County,28575]] 

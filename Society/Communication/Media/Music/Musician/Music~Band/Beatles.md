@@ -1,9 +1,54 @@
 ---
-has_time_stopped: 1970-04-10 
+has_time_stopped: 1970-04-10
 aliases:
-  - The_Beatles
-  - '{ newTitle: }': ''
-  - Beatles
+- Ama-Beatles
+- Beatles
+- Bitlsi
+- Bítlarnir
+- kulupu Pito
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- The Beatles
+- The_Beatles
+- Weakunas (pānanalamai)
+- Бийтълс
+- Битлз
+- Битлси
+- Битлꙁъ
+- Պիթլս
+- די ביטעלס
+- הביטלס
+- البيتلز
+- بيتيلز
+- بیتلز
+- بیتڵز
+- بیٹلز
+- دي بيٽلس
+- لبيتلز
+- द बिटल्स
+- द बीटल्स
+- बीटल्स
+- দ্য বিটল্চ
+- দ্য বিটল্স
+- ਬੀਟਲਸ
+- ધ બિટલ્સ
+- பீட்டில்ஸ்
+- ద బీటిల్స్
+- ದಿ ಬೀಟಲ್ಸ್
+- ദി ബീറ്റിൽസ്
+- เดอะบีเทิลส์
+- ဘီးတဲလ်အဖွဲ့
+- ბითლზი
+- ዘ ቢተልስ
+- ᨉᨅᨗᨈᨛᨒᨙ
+- ᱫᱚ ᱵᱤᱴᱞᱮᱥ
+- ビートルズ
+- 披头四
+- 披头士乐队
+- 披頭四
+- 披頭四樂隊
+- 披頭士
+- 皮頭士樂隊
+- 비틀즈
 has_id_wikidata: Q1299
 Archive_of_Our_Own_tag: The Beatles (Band)
 Commons_gallery: The Beatles
@@ -16,28 +61,28 @@ ISNI: 0000000121707484
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BITLZ.html
 Libris_URI: b8nqnr4v0cckkp1
 RIA_Novosti_reference:
-  - 159395809
-  - 204029020
-  - 283091645
-  - 320669713
-  - 765342254
-  - 918051404
+- 159395809
+- 204029020
+- 283091645
+- 320669713
+- 765342254
+- 918051404
 TikTok_username: thebeatles
 Wolfram_Language_entity_code: Entity["MusicAct", "TheBeatles::r844v"]
 X_Twitter_username: thebeatles
 award_received:
-  - '[[_Standards/WikiData/WD~Hollywood_Walk_of_Fame,71719]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
-  - '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Hollywood_Walk_of_Fame,71719]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Vocal_Album,1027891]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
+- '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 archives_at: '[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]'
 copyright_representative:
-  - '[[_Standards/WikiData/WD~Q2831,2831]]'
-  - '[[_Standards/WikiData/WD~Sony,41187]]'
+- '[[_Standards/WikiData/WD~Q2831,2831]]'
+- '[[_Standards/WikiData/WD~Sony,41187]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 director_manager: '[[_Standards/WikiData/WD~Brian_Epstein,203690]]'
 discography: '[[_Standards/WikiData/WD~The_Beatles_discography,829965]]'
@@ -47,88 +92,88 @@ dissolved_abolished_or_demolished_date: 1970-04-10T00:00:00Z
 facial_hair: '[[_Standards/WikiData/WD~human_facial_hair,1847641]]'
 filmography: '[[_Standards/WikiData/WD~The_Beatles_filmography,7716137]]'
 genre:
-  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
-  - '[[_Standards/WikiData/WD~folk_rock,186472]]'
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
-  - '[[_Standards/WikiData/WD~traditional_folk_music,235858]]'
-  - '[[_Standards/WikiData/WD~beat_music,546264]]'
-  - '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
-  - '[[_Standards/WikiData/WD~classic_rock,56351111]]'
-  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+- '[[_Standards/WikiData/WD~traditional_folk_music,235858]]'
+- '[[_Standards/WikiData/WD~beat_music,546264]]'
+- '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
+- '[[_Standards/WikiData/WD~classic_rock,56351111]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 history_of_topic:
-  - '[[_Standards/WikiData/WD~The_Beatles_in_India,379208]]'
-  - '[[_Standards/WikiData/WD~The_Beatles_in_Hamburg,7716135]]'
-  - '[[_Standards/WikiData/WD~The_Beatles_at_The_Cavern_Club,7716133]]'
-  - '[[_Standards/WikiData/WD~The_Beatles_in_Bangor,47508585]]'
+- '[[_Standards/WikiData/WD~The_Beatles_in_India,379208]]'
+- '[[_Standards/WikiData/WD~The_Beatles_in_Hamburg,7716135]]'
+- '[[_Standards/WikiData/WD~The_Beatles_at_The_Cavern_Club,7716133]]'
+- '[[_Standards/WikiData/WD~The_Beatles_in_Bangor,47508585]]'
 hairstyle_hairlength:
-  - '[[_Standards/WikiData/WD~bowl_cut,3041932]]'
-  - '[[_Standards/WikiData/WD~waist_length_hair,14130]]'
+- '[[_Standards/WikiData/WD~bowl_cut,3041932]]'
+- '[[_Standards/WikiData/WD~waist_length_hair,14130]]'
 has_characteristic: '[[_Standards/WikiData/WD~rock_band,5741069]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~John_Lennon,1203]]'
-  - '[[_Standards/WikiData/WD~Paul_McCartney,2599]]'
-  - '[[_Standards/WikiData/WD~Ringo_Starr,2632]]'
-  - '[[_Standards/WikiData/WD~George_Harrison,2643]]'
+- '[[_Standards/WikiData/WD~John_Lennon,1203]]'
+- '[[_Standards/WikiData/WD~Paul_McCartney,2599]]'
+- '[[_Standards/WikiData/WD~Ringo_Starr,2632]]'
+- '[[_Standards/WikiData/WD~George_Harrison,2643]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Little_Richard,82222]]'
-  - '[[_Standards/WikiData/WD~Ravi_Shankar,103774]]'
-  - '[[_Standards/WikiData/WD~Timothy_Leary,211731]]'
-  - '[[_Standards/WikiData/WD~Elvis_Presley,303]]'
-  - '[[_Standards/WikiData/WD~Q392,392]]'
-  - '[[_Standards/WikiData/WD~Johann_Sebastian_Bach,1339]]'
-  - '[[_Standards/WikiData/WD~Chuck_Berry,5921]]'
-  - '[[_Standards/WikiData/WD~Buddy_Holly,5977]]'
-  - '[[_Standards/WikiData/WD~Ludwig_van_Beethoven,255]]'
+- '[[_Standards/WikiData/WD~Little_Richard,82222]]'
+- '[[_Standards/WikiData/WD~Ravi_Shankar,103774]]'
+- '[[_Standards/WikiData/WD~Timothy_Leary,211731]]'
+- '[[_Standards/WikiData/WD~Elvis_Presley,303]]'
+- '[[_Standards/WikiData/WD~Q392,392]]'
+- '[[_Standards/WikiData/WD~Johann_Sebastian_Bach,1339]]'
+- '[[_Standards/WikiData/WD~Chuck_Berry,5921]]'
+- '[[_Standards/WikiData/WD~Buddy_Holly,5977]]'
+- '[[_Standards/WikiData/WD~Ludwig_van_Beethoven,255]]'
 instance_of: '[[_Standards/WikiData/WD~musical_group,215380]]'
 inception: 1960-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20ad%201965%20just%20the%20beatles%20crop.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20Trenter%201963.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20ad%201965%20just%20the%20beatles%20crop.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20Trenter%201963.jpg
 location_of_formation: '[[_Standards/WikiData/WD~Liverpool,24826]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20logo.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beatles%20members%20at%20New%20York%20City%20in%201964.jpg
 notable_work:
-  - "[[_Standards/WikiData/WD~Sgt._Pepper's_Lonely_Hearts_Club_Band,169226]]"
-  - '[[_Standards/WikiData/WD~Abbey_Road,173643]]'
-  - '[[_Standards/WikiData/WD~Let_It_Be,184259]]'
-  - '[[_Standards/WikiData/WD~Revolver,185121]]'
-  - '[[_Standards/WikiData/WD~Yesterday,202698]]'
-  - '[[_Standards/WikiData/WD~Come_Together,210482]]'
-  - '[[_Standards/WikiData/WD~Strawberry_Fields_Forever,213718]]'
-  - '[[_Standards/WikiData/WD~Yellow_Submarine,832799]]'
-  - '[[_Standards/WikiData/WD~Paperback_Writer,929637]]'
-  - '[[_Standards/WikiData/WD~Ob_La_Di,_Ob_La_Da,1135588]]'
-  - '[[_Standards/WikiData/WD~Get_Back,1426279]]'
-  - '[[_Standards/WikiData/WD~Here_Comes_the_Sun,60715369]]'
+- "[[_Standards/WikiData/WD~Sgt._Pepper's_Lonely_Hearts_Club_Band,169226]]"
+- '[[_Standards/WikiData/WD~Abbey_Road,173643]]'
+- '[[_Standards/WikiData/WD~Let_It_Be,184259]]'
+- '[[_Standards/WikiData/WD~Revolver,185121]]'
+- '[[_Standards/WikiData/WD~Yesterday,202698]]'
+- '[[_Standards/WikiData/WD~Come_Together,210482]]'
+- '[[_Standards/WikiData/WD~Strawberry_Fields_Forever,213718]]'
+- '[[_Standards/WikiData/WD~Yellow_Submarine,832799]]'
+- '[[_Standards/WikiData/WD~Paperback_Writer,929637]]'
+- '[[_Standards/WikiData/WD~Ob_La_Di,_Ob_La_Da,1135588]]'
+- '[[_Standards/WikiData/WD~Get_Back,1426279]]'
+- '[[_Standards/WikiData/WD~Here_Comes_the_Sun,60715369]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals,747902]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Performance_by_a_Vocal_Group,5593854]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals,747902]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Performance_by_a_Vocal_Group,5593854]]'
 name: The Beatles
 nickname:
-  - The Fab Four
-  - The Lads from Liverpool
+- The Fab Four
+- The Lads from Liverpool
 official_website: https://thebeatles.com
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20Wikivoyage%20Banner.png
 record_label:
-  - '[[_Standards/WikiData/WD~Polydor,155152]]'
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~Parlophone,208909]]'
-  - '[[_Standards/WikiData/WD~Apple_Records,213710]]'
-  - '[[_Standards/WikiData/WD~Vee_Jay_Records,679007]]'
-  - '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
-  - '[[_Standards/WikiData/WD~I_Dischi_dello_Zodiaco,3790169]]'
-  - '[[_Standards/WikiData/WD~Parlophon,3896178]]'
+- '[[_Standards/WikiData/WD~Polydor,155152]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Parlophone,208909]]'
+- '[[_Standards/WikiData/WD~Apple_Records,213710]]'
+- '[[_Standards/WikiData/WD~Vee_Jay_Records,679007]]'
+- '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
+- '[[_Standards/WikiData/WD~I_Dischi_dello_Zodiaco,3790169]]'
+- '[[_Standards/WikiData/WD~Parlophon,3896178]]'
 represented_by: '[[_Standards/WikiData/WD~Brian_Epstein,203690]]'
 social_media_followers:
-  - 8720000
-  - 3882367
+- 8720000
+- 3882367
 subreddit:
-  - beatles
-  - beatlescirclejerk
+- beatles
+- beatlescirclejerk
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-The%20beatles%20%28intro%29.oga
 topic_has_template: '[[_Standards/WikiData/WD~Template_The_Beatles,10514031]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_The_Beatles,13377721]]'
@@ -137,8 +182,8 @@ work_period_end_: 1970-04-10T00:00:00Z
 work_period_start_: 1960-01-01T00:00:00Z
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -159,13 +204,84 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - '{ newTitle: }': ''
-  - excalidraw
+- '{ newTitle: }': ''
+- excalidraw
 title:
   '{ newTitle: }': ''
 type: private_note
+dv_has_:
+  name_:
+    am: ዘ ቢተልስ
+    ami: The Beatles
+    anp: द बीटल्स
+    ar: البيتلز
+    ary: لبيتلز
+    arz: بيتيلز
+    as: দ্য বিটল্চ
+    azb: بیتلز
+    bg: Бийтълс
+    bho: बीटल्स
+    bn: দ্য বিটল্স
+    bug: ᨉᨅᨗᨈᨛᨒᨙ
+    cdo: The Beatles
+    chr: Beatles
+    ckb: بیتڵز
+    cu: Битлꙁъ
+    en: The Beatles
+    fa: بیتلز
+    fr: The Beatles
+    frr: The Beatles
+    gan: 披頭士
+    gu: ધ બિટલ્સ
+    hak: The Beatles
+    haw: Weakunas (pānanalamai)
+    he: הביטלס
+    hi: द बीटल्स
+    hyw: Պիթլս
+    is: Bítlarnir
+    ja: ビートルズ
+    kn: ದಿ ಬೀಟಲ್ಸ್
+    ko: 비틀즈
+    ky: Beatles
+    mai: बीटल्स
+    mk: Битлси
+    ml: ദി ബീറ്റിൽസ്
+    mr: बीटल्स
+    mul: The Beatles
+    my: ဘီးတဲလ်အဖွဲ့
+    mzn: بیتلز
+    nan: The Beatles
+    ne: बीटल्स
+    new: द बिटल्स
+    os: Битлз
+    pa: ਬੀਟਲਸ
+    pnb: بیٹلز
+    sat: ᱫᱚ ᱵᱤᱴᱞᱮᱥ
+    sd: دي بيٽلس
+    sr: Bitlsi
+    sr-ec: Битлси
+    sr-el: Bitlsi
+    ta: பீட்டில்ஸ்
+    te: ద బీటిల్స్
+    th: เดอะบีเทิลส์
+    tly: Beatles
+    tok: kulupu Pito
+    ur: بیٹلز
+    wuu: 皮頭士樂隊
+    xmf: ბითლზი
+    yi: די ביטעלס
+    yue: 披頭四
+    zh: 披頭四樂隊
+    zh-cn: 披头士乐队
+    zh-hans: 披头士乐队
+    zh-hant: 披頭四樂隊
+    zh-hk: 披頭四樂隊
+    zh-mo: 披頭四樂隊
+    zh-my: 披头四
+    zh-sg: 披头四
+    zh-tw: 披頭四樂隊
+    zu: Ama-Beatles
 ---
-
 # [[Beatles]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~The_Beatles,1299|WD~The_Beatles,1299]] 

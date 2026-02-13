@@ -1,9 +1,111 @@
 ---
 aliases:
-  - Placental Mammals
-  - Eutheria
+- euteris
+- Eutheria
+- Placental Mammals
+- ευθήρια
+- виши цицачи
+- вищі звірі
+- еутерии
+- жоғарғы сатыдағы аңдар
+- эутерии
+- יונקים בעלי שליה
+- وتریا
+- وحشيات حقيقية
+- یوثریا
+- மெய்ப்பாலூட்டிகள்
+- 有胎盤類
+- 真兽类
+- 真獣下綱
+- 真獸亞綱
+- 真獸類
+- 진수하강
 title: Eutheria
 has_id_wikidata: Q17092469
+dv_has_:
+  name_:
+    af: Eutheria
+    an: Eutheria
+    ar: وحشيات حقيقية
+    ast: Eutheria
+    az: Eutheria
+    azb: وتریا
+    be-tarask: Eutheria
+    bg: еутерии
+    br: Eutheria
+    bs: Eutheria
+    ca: euteris
+    ceb: Eutheria
+    cs: Eutheria
+    da: Eutheria
+    de: Eutheria
+    el: ευθήρια
+    en: Eutheria
+    en-ca: Eutheria
+    en-gb: Eutheria
+    eo: Eutheria
+    es: Eutheria
+    eu: Eutheria
+    ext: Eutheria
+    fa: یوثریا
+    fi: Eutheria
+    fo: Eutheria
+    fr: Eutheria
+    frr: Eutheria
+    ga: Eutheria
+    gl: Eutheria
+    he: יונקים בעלי שליה
+    hu: Eutheria
+    ia: Eutheria
+    id: Eutheria
+    ie: Eutheria
+    io: Eutheria
+    is: Eutheria
+    it: Eutheria
+    ja: 真獣下綱
+    jv: Eutheria
+    kk: жоғарғы сатыдағы аңдар
+    kl: Eutheria
+    ko: 진수하강
+    la: Eutheria
+    li: Eutheria
+    mk: виши цицачи
+    ms: Eutheria
+    mt: Eutheria
+    mul: Eutheria
+    nan: Eutheria
+    nb: Eutheria
+    nl: Eutheria
+    nn: Eutheria
+    oc: Eutheria
+    pl: Eutheria
+    pt: Eutheria
+    pt-br: Eutheria
+    ro: Eutheria
+    ru: эутерии
+    rue: Eutheria
+    sah: Eutheria
+    sco: Eutheria
+    sh: Eutheria
+    sk: Eutheria
+    sl: Eutheria
+    sq: Eutheria
+    sr: Eutheria
+    stq: Eutheria
+    sv: Eutheria
+    ta: மெய்ப்பாலூட்டிகள்
+    tl: Eutheria
+    tr: Eutheria
+    uk: вищі звірі
+    vi: Eutheria
+    vo: Eutheria
+    war: Eutheria
+    yue: 真獸亞綱
+    zh: 真兽类
+    zh-cn: 真兽类
+    zh-hans: 真兽类
+    zh-hant: 有胎盤類
+    zh-tw: 真獸類
 ---
 # [[Eutheria]]
 

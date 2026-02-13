@@ -1,106 +1,306 @@
 ---
 aliases:
-  - Joseph
-  - Yosef
-  - יוֹסֵף
-  - Joseph
-  - Josef
+- Djôzef, fi da Djåcob
+- Eòsaph
+- Giuse
+- Giuseppe
+- Iosephus
+- Iosif
+- Iósaef
+- Joazef
+- Joosef
+- Joosep
+- Jose (Bibliya)
+- Josef
+- Josef (patriarcha)
+- Joseff
+- Josep
+- Joseph
+- Josip
+- José
+- José personagem bíblico
+- Jozeb, mab Jakob
+- Jozef
+- Jožef Očak
+- Juozapas
+- Jusufi
+- Jósef
+- Józef
+- József
+- Jüsip
+- Jāzeps
+- Nabi Yusuf
+- Nabi Yusuf a.s.
+- Nabi Yuusuf
+- Prorok Josif
+- Usıv
+- Xosé
+- Yosef
+- Yosefu
+- Yozefu
+- Yusif
+- Yusuf
+- Yusuf bin Yakub
+- Yuusuf
+- Yûsif
+- Ýusup
+- Ġużeppi
+- Ιωσήφ του Ιακώβ
+- Іосіф, сын Якава
+- Јосиф
+- Дьуоһуп
+- Жүсіп
+- Иосиф
+- Иосиф Прекрасный
+- Йосип
+- Йосиф
+- Йософ (Библия персонажы)
+- Йосыф пәйгамбәр
+- Пророк Јосиф
+- Юсуп ибн Якъуб
+- Юсуп идавс
+- Язэп
+- Հովսեփ
+- יוֹסֵף
+- יוסף
+- حضرت یوٗسُف
+- يوسف
+- يوسف عليہ السلام
+- يُوسُف
+- يۇسۇڧ ئەلەيھىسسالام
+- ٴجۇسىپ
+- یوسف
+- یوسف گوندریلمیش
+- یووسف
+- ޔޫސުފުގެފާނު
+- जोसेफ
+- यूनुस
+- যোষেফ
+- ਯੂਸਫ਼
+- யோசேப்பு
+- ജോസഫ്
+- โยเซฟ
+- ໂຢເຊັບ
+- იოსები
+- ヨセフ
+- 約瑟
+- 约瑟
+- 约瑟 (旧约圣经)
+- 若瑟 (創世紀)
+- 요셉
 has_id_wikidata: Q145746
 residence:
-  - "[[_Standards/WikiData/WD~Judea,104028]]"
-  - "[[_Standards/WikiData/WD~Hebron_valley,96898814]]"
-  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+- '[[_Standards/WikiData/WD~Judea,104028]]'
+- '[[_Standards/WikiData/WD~Hebron_valley,96898814]]'
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Dinah,122035]]"
-  - "[[_Standards/WikiData/WD~Levi,215512]]"
-  - "[[_Standards/WikiData/WD~Judah,282220]]"
-  - "[[_Standards/WikiData/WD~Benjamin,460763]]"
-  - "[[_Standards/WikiData/WD~Dan,550869]]"
-  - "[[_Standards/WikiData/WD~Zebulun,614575]]"
-  - "[[_Standards/WikiData/WD~Reuben,625661]]"
-  - "[[_Standards/WikiData/WD~Issachar,651256]]"
-  - "[[_Standards/WikiData/WD~Gad,851749]]"
-  - "[[_Standards/WikiData/WD~Naphtali,1771963]]"
-  - "[[_Standards/WikiData/WD~Simeon,1773005]]"
-  - "[[_Standards/WikiData/WD~Asher,1775026]]"
-different_from: "[[_Standards/WikiData/WD~Joseph,128267]]"
+- '[[_Standards/WikiData/WD~Dinah,122035]]'
+- '[[_Standards/WikiData/WD~Levi,215512]]'
+- '[[_Standards/WikiData/WD~Judah,282220]]'
+- '[[_Standards/WikiData/WD~Benjamin,460763]]'
+- '[[_Standards/WikiData/WD~Dan,550869]]'
+- '[[_Standards/WikiData/WD~Zebulun,614575]]'
+- '[[_Standards/WikiData/WD~Reuben,625661]]'
+- '[[_Standards/WikiData/WD~Issachar,651256]]'
+- '[[_Standards/WikiData/WD~Gad,851749]]'
+- '[[_Standards/WikiData/WD~Naphtali,1771963]]'
+- '[[_Standards/WikiData/WD~Simeon,1773005]]'
+- '[[_Standards/WikiData/WD~Asher,1775026]]'
+different_from: '[[_Standards/WikiData/WD~Joseph,128267]]'
 child:
-  - "[[_Standards/WikiData/WD~Ephraim,203251]]"
-  - "[[_Standards/WikiData/WD~Manasseh,1056931]]"
+- '[[_Standards/WikiData/WD~Ephraim,203251]]'
+- '[[_Standards/WikiData/WD~Manasseh,1056931]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Cavern_of_the_Patriarchs,204200]]"
-  - "[[_Standards/WikiData/WD~Joseph's_Tomb,1297538]]"
-mother: "[[_Standards/WikiData/WD~Rachel,207389]]"
+- '[[_Standards/WikiData/WD~Cavern_of_the_Patriarchs,204200]]'
+- "[[_Standards/WikiData/WD~Joseph's_Tomb,1297538]]"
+mother: '[[_Standards/WikiData/WD~Rachel,207389]]'
 occupation:
-  - "[[_Standards/WikiData/WD~civil_servant,212238]]"
-  - "[[_Standards/WikiData/WD~dream_interpreter,109920757]]"
-father: "[[_Standards/WikiData/WD~Jacob,289957]]"
-given_name: "[[_Standards/WikiData/WD~Joseph,471788]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Joseph_in_Islam,563644]]"
+- '[[_Standards/WikiData/WD~civil_servant,212238]]'
+- '[[_Standards/WikiData/WD~dream_interpreter,109920757]]'
+father: '[[_Standards/WikiData/WD~Jacob,289957]]'
+given_name: '[[_Standards/WikiData/WD~Joseph,471788]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Joseph_in_Islam,563644]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q19525554,19525554]]"
-spouse: "[[_Standards/WikiData/WD~Asenath,723681]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Canaanite,747547]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q19525554,19525554]]'
+spouse: '[[_Standards/WikiData/WD~Asenath,723681]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Canaanite,747547]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Vizier,932438]]"
-  - "[[_Standards/WikiData/WD~prophet,42857]]"
-not_found_in: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-place_of_birth: "[[_Standards/WikiData/WD~Haran,3660711]]"
+- '[[_Standards/WikiData/WD~Vizier,932438]]'
+- '[[_Standards/WikiData/WD~prophet,42857]]'
+not_found_in: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+place_of_birth: '[[_Standards/WikiData/WD~Haran,3660711]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Joseph_presents_his_father_and_brothers_to_the_Pharaoh,3771679]]"
-  - "[[_Standards/WikiData/WD~Sala_delle_Storie_di_Giuseppe,131813337]]"
-  - "[[_Standards/WikiData/WD~Joseph_led_to_prison,131937036]]"
-owner_of: "[[_Standards/WikiData/WD~coat_of_many_colors,5138592]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Joseph_presents_his_father_and_brothers_to_the_Pharaoh,3771679]]'
+- '[[_Standards/WikiData/WD~Sala_delle_Storie_di_Giuseppe,131813337]]'
+- '[[_Standards/WikiData/WD~Joseph_led_to_prison,131937036]]'
+owner_of: '[[_Standards/WikiData/WD~coat_of_many_colors,5138592]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Genesis_37,12490443]]"
-  - "[[_Standards/WikiData/WD~Genesis_40,12490447]]"
-  - "[[_Standards/WikiData/WD~Genesis_39,12490444]]"
-  - "[[_Standards/WikiData/WD~Genesis_46,12490450]]"
-  - "[[_Standards/WikiData/WD~Genesis_48,12490451]]"
-  - "[[_Standards/WikiData/WD~Genesis_42,12490448]]"
-  - "[[_Standards/WikiData/WD~Genesis_44,12490449]]"
-  - "[[_Standards/WikiData/WD~Genesis_47,12490452]]"
-  - "[[_Standards/WikiData/WD~Genesis_30,14566202]]"
-  - "[[_Standards/WikiData/WD~Genesis_35,14566207]]"
-  - "[[_Standards/WikiData/WD~Genesis_33,14566205]]"
-  - "[[_Standards/WikiData/WD~Genesis_41,14566208]]"
-  - "[[_Standards/WikiData/WD~Genesis_43,14566245]]"
-  - "[[_Standards/WikiData/WD~Genesis_45,14566280]]"
-  - "[[_Standards/WikiData/WD~Qur_an,428]]"
-social_classification: "[[_Standards/WikiData/WD~slave,12773225]]"
-instance_of: "[[_Standards/WikiData/WD~human_biblical_figure,20643955]]"
+- '[[_Standards/WikiData/WD~Genesis_37,12490443]]'
+- '[[_Standards/WikiData/WD~Genesis_40,12490447]]'
+- '[[_Standards/WikiData/WD~Genesis_39,12490444]]'
+- '[[_Standards/WikiData/WD~Genesis_46,12490450]]'
+- '[[_Standards/WikiData/WD~Genesis_48,12490451]]'
+- '[[_Standards/WikiData/WD~Genesis_42,12490448]]'
+- '[[_Standards/WikiData/WD~Genesis_44,12490449]]'
+- '[[_Standards/WikiData/WD~Genesis_47,12490452]]'
+- '[[_Standards/WikiData/WD~Genesis_30,14566202]]'
+- '[[_Standards/WikiData/WD~Genesis_35,14566207]]'
+- '[[_Standards/WikiData/WD~Genesis_33,14566205]]'
+- '[[_Standards/WikiData/WD~Genesis_41,14566208]]'
+- '[[_Standards/WikiData/WD~Genesis_43,14566245]]'
+- '[[_Standards/WikiData/WD~Genesis_45,14566280]]'
+- '[[_Standards/WikiData/WD~Qur_an,428]]'
+social_classification: '[[_Standards/WikiData/WD~slave,12773225]]'
+instance_of: '[[_Standards/WikiData/WD~human_biblical_figure,20643955]]'
 date_of_birth: -1561-01-01T00:00:00Z
-feast_day: "[[_Standards/WikiData/WD~September_4,2855]]"
+feast_day: '[[_Standards/WikiData/WD~September_4,2855]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-  - "[[_Standards/WikiData/WD~Palestine,23792]]"
-place_of_death: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-subject_has_role: "[[_Standards/WikiData/WD~prophet,42857]]"
-ethnic_group: "[[_Standards/WikiData/WD~Israelites,51669]]"
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+- '[[_Standards/WikiData/WD~Palestine,23792]]'
+place_of_death: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+subject_has_role: '[[_Standards/WikiData/WD~prophet,42857]]'
+ethnic_group: '[[_Standards/WikiData/WD~Israelites,51669]]'
 name_in_native_language: יוסף
 date_of_death: -1451-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JosephandhisBrothers.jpg
 Stack_Exchange_tag:
-  - https://christianity.stackexchange.com/tags/joseph
-  - https://hermeneutics.stackexchange.com/tags/joseph
-  - https://judaism.stackexchange.com/tags/yosef
+- https://christianity.stackexchange.com/tags/joseph
+- https://hermeneutics.stackexchange.com/tags/joseph
+- https://judaism.stackexchange.com/tags/yosef
 Commons_category: Joseph (son of Jacob)
 Royal_Academy_new_identifier: joseph-son-of-jacob
 Libris_URI:
-  - khw056q31bvbnfw
-  - zw9cf6rh4c6x093
+- khw056q31bvbnfw
+- zw9cf6rh4c6x093
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOSIF.html
+dv_has_:
+  name_:
+    ace: Nabi Yusuf
+    ar: يُوسُف
+    arz: يوسف
+    az: Yusif
+    azb: یوسف گوندریلمیش
+    ba: Йософ (Библия персонажы)
+    be: Іосіф, сын Якава
+    be-tarask: Язэп
+    bg: Йосиф
+    bn: যোষেফ
+    br: Jozeb, mab Jakob
+    ca: Josep
+    ce: Юсуп ибн Якъуб
+    ceb: José
+    ckb: یووسف
+    cs: Josef (patriarcha)
+    cy: Joseff
+    da: Josef
+    de: Josef
+    diq: Usıv
+    dv: ޔޫސުފުގެފާނު
+    el: Ιωσήφ του Ιακώβ
+    en: Joseph
+    eo: Jozef
+    es: José
+    et: Joosep
+    eu: Josef
+    fa: یوسف
+    fi: Joosef
+    fr: Joseph
+    fy: Joazef
+    ga: Iósaef
+    gd: Eòsaph
+    gl: Xosé
+    he: יוסף
+    hi: यूनुस
+    hr: Josip
+    hsb: Józef
+    hu: József
+    hy: Հովսեփ
+    id: Yusuf bin Yakub
+    is: Jósef
+    it: Giuseppe
+    ja: ヨセフ
+    jv: Yusuf
+    ka: იოსები
+    kbd: Иосиф
+    kk: Жүсіп
+    kk-arab: ٴجۇسىپ
+    kk-cn: ٴجۇسىپ
+    kk-cyrl: Жүсіп
+    kk-kz: Жүсіп
+    kk-latn: Jüsip
+    kk-tr: Jüsip
+    ko: 요셉
+    ks: حضرت یوٗسُف
+    ku: Yûsif
+    ku-arab: یووسف
+    ku-latn: Yûsif
+    la: Iosephus
+    lbe: Юсуп идавс
+    lo: ໂຢເຊັບ
+    lt: Juozapas
+    lua: Yozefu
+    lv: Jāzeps
+    mg: Joseph
+    mk: Јосиф
+    ml: ജോസഫ്
+    ms: Nabi Yusuf a.s.
+    mt: Ġużeppi
+    mzn: یوسف
+    nb: Josef
+    ne: जोसेफ
+    nl: Jozef
+    pa: ਯੂਸਫ਼
+    pl: Józef
+    pnb: یوسف
+    ps: يوسف
+    pt: José personagem bíblico
+    rm: Josef
+    ro: Iosif
+    ru: Иосиф Прекрасный
+    sah: Дьуоһуп
+    sd: يوسف عليہ السلام
+    sh: Prorok Josif
+    sl: Jožef Očak
+    so: Nabi Yuusuf
+    sq: Jusufi
+    sr: Пророк Јосиф
+    sr-ec: Пророк Јосиф
+    sr-el: Prorok Josif
+    sv: Josef
+    sw: Yosefu
+    ta: யோசேப்பு
+    th: โยเซฟ
+    tk: Ýusup
+    tr: Yusuf
+    tt: Йосыф пәйгамбәр
+    ug: يۇسۇڧ ئەلەيھىسسالام
+    uk: Йосип
+    ur: یوسف
+    uz: Iosif
+    vi: Giuse
+    wa: Djôzef, fi da Djåcob
+    war: Jose (Bibliya)
+    wo: Yuusuf
+    wuu: 约瑟 (旧约圣经)
+    yi: יוסף
+    yue: 若瑟 (創世紀)
+    zh: 約瑟
+    zh-cn: 约瑟
+    zh-hans: 约瑟
+    zh-hant: 約瑟
+    zh-hk: 約瑟
+    zh-sg: 约瑟
+    zh-tw: 約瑟
 ---
-
 # [[Joseph]] 
 
 #is_/same_as :: [[WD~Joseph,145746]] 

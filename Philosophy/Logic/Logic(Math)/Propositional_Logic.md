@@ -1,21 +1,70 @@
 ---
 aliases:
-  - Propositional_calculus
-  - Propositional logic
-  - statement logic
-  - sentential calculus
-  - propositional calculus
-  - sentential logic
-  - zeroth-order logic
-  - Aussagenlogik
-  - first-order propositional logic
-  - Propositional_Logic
-  - Propositional Logic
+- Aussagenlogik
+- calcul des propositions
+- first-order propositional logic
+- Iskazni račun
+- Kalkulus proposisional
+- Lauseloogika
+- logica propositionalis
+- logica proposizionale
+- logică propozițională
+- Logika proposizional
+- lògica proposicional
+- lógica proposicional
+- Lóxica proposicional
+- Mệnh đề toán học
+- Proposisionele logika
+- propositielogica
+- propositiologiikka
+- propositional calculus
+- Propositional logic
+- Propositional_calculus
+- Propositional_Logic
+- propozicia kalkulo
+- propozicijski račun
+- Propozicionala logiko
+- rachunek zdań
+- Rhesymeg osodiadol
+- satslogik
+- sentential calculus
+- sentential logic
+- setningslogikk
+- statement logic
+- Teiginių logika
+- utsegnslogikk
+- výroková logika
+- zeroth-order logic
+- ítéletlogika
+- Önermeler mantığı
+- Ütjsaagenloogik
+- Προτασιακός λογισμός
+- зьлічэньне выказваньняў
+- исказна логика
+- Исказни рачун
+- исчисление высказываний
+- Каланăлăхсен шутлавĕ
+- Логіка выказванняў
+- Логикалык сүйлөө
+- Пропозиционна логика
+- Пропозицын логик
+- числення висловлень
+- ասույթների տրամաբանություն
+- תחשיב הפסוקים
+- حساب القضايا
+- حساب گزارهای
+- قضیوي حساب (منطق)
+- प्रतिज्ञप्तिक कलन
+- แคลคูลัสเชิงประพจน์
+- 命題論理
+- 命題邏輯
+- 命题逻辑
+- 명제 논리
 has_id_wikidata: Q200694
 has_characteristic: '[[_Standards/WikiData/WD~validity,1047000]]'
 part_of:
-  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-  - '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
 is_the_study_of: '[[_Standards/WikiData/WD~propositional_formula,1372900]]'
 different_from: '[[_Standards/WikiData/WD~zeroth_order_logic,8069651]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -29,8 +78,75 @@ Commons_category: Propositional logic
 GitHub_topic: propositional-logic
 PhilPapers_topic: propositional-logic
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false" accent="false">&#x2192;</mo><mi>Q</mi><mo>,</mo><mi>P</mi><mo stretchy="false">&#x22A2;</mo><mi>Q</mi></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: Proposisionele logika
+    ar: حساب القضايا
+    ast: Lóxica proposicional
+    be: Логіка выказванняў
+    be-tarask: зьлічэньне выказваньняў
+    bg: Пропозиционна логика
+    ca: lògica proposicional
+    cs: výroková logika
+    cv: Каланăлăхсен шутлавĕ
+    cy: Rhesymeg osodiadol
+    de: Aussagenlogik
+    de-ch: Aussagenlogik
+    el: Προτασιακός λογισμός
+    en: propositional calculus
+    en-ca: Propositional calculus
+    en-gb: Propositional calculus
+    eo: propozicia kalkulo
+    es: lógica proposicional
+    et: Lauseloogika
+    eu: Logika proposizional
+    fa: حساب گزارهای
+    fi: propositiologiikka
+    fr: calcul des propositions
+    frr: Ütjsaagenloogik
+    gl: lóxica proposicional
+    he: תחשיב הפסוקים
+    hi: प्रतिज्ञप्तिक कलन
+    hu: ítéletlogika
+    hy: ասույթների տրամաբանություն
+    id: Kalkulus proposisional
+    io: Propozicionala logiko
+    it: logica proposizionale
+    ja: 命題論理
+    ko: 명제 논리
+    ky: Логикалык сүйлөө
+    la: logica propositionalis
+    lt: Teiginių logika
+    mk: исказна логика
+    mn: Пропозицын логик
+    nb: setningslogikk
+    nl: propositielogica
+    nn: utsegnslogikk
+    pl: rachunek zdań
+    ps: قضیوي حساب (منطق)
+    pt: lógica proposicional
+    pt-br: lógica proposicional
+    ro: logică propozițională
+    ru: исчисление высказываний
+    sk: výroková logika
+    sl: propozicijski račun
+    sr: Исказни рачун
+    sr-ec: Исказни рачун
+    sr-el: Iskazni račun
+    sv: satslogik
+    th: แคลคูลัสเชิงประพจน์
+    tr: Önermeler mantığı
+    uk: числення висловлень
+    vi: Mệnh đề toán học
+    yue: 命題邏輯
+    zh: 命题逻辑
+    zh-cn: 命题逻辑
+    zh-hans: 命题逻辑
+    zh-hant: 命題邏輯
+    zh-hk: 命題邏輯
+    zh-sg: 命题逻辑
+    zh-tw: 命題邏輯
 ---
-
 # [[Propositional_Logic]] 
 
 #is_/same_as :: [[WD~Propositional_calculus,200694]] 

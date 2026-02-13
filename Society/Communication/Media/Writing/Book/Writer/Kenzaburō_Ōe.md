@@ -1,51 +1,83 @@
 ---
 aliases:
-  - Kenzaburō_Ōe
-  - 大江 健三郎
-  - Ōe Kenzaburō
-  - Kenzaburō Ōe
+- Kendzaburo Oe
+- Kenzaburo Oe
+- Kenzaburo Oë
+- Kenzaburo Ōe
+- Kenzaburó Óe
+- Kenzaburō Ōe
+- Kenzaburō_Ōe
+- Oe Kenzaburo
+- Óe Kenzaburó
+- Ôe Kenzaburô
+- Ōe Kenzaburo
+- Ōe Kenzaburō
+- Κενζαμπούρο Όε
+- Кендзабуро Ое
+- Кензабуро Ое
+- Кэндзабура Оэ
+- Кэндзабуро Оэ
+- Ое Кендзабуро
+- Կենձաբուրո Օէ
+- קנזאבורו אואה
+- كنزابورو أوي
+- كنزابورو اوى
+- کنزابرو اوی
+- کنزابورو اوئه
+- کینزابیورو اوئی
+- केंझाबुरो ओए
+- केन्ज़ाबुरो ओए
+- কেঞ্জাবুৰো অয়ে
+- কেন্জাবুরো ওহয়ে
+- ਕੇਂਜ਼ਾਬੂਰੋ ਓਏ
+- കെൻസാബുറോ ഒയി
+- เค็นซาบูโร โอเอะ
+- ოე კენძაბურო
+- 大江 健三郎
+- 大江健三郎
+- 오에 겐자부로
 has_id_wikidata: Q80095
 employer:
-  - '[[_Standards/WikiData/WD~Freie_Universität_Berlin,153006]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Freie_Universität_Berlin,153006]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Akutagawa_Prize,424160]]'
-  - '[[_Standards/WikiData/WD~Grinzane_Cavour_Prize,430541]]'
-  - '[[_Standards/WikiData/WD~Order_of_Culture,530124]]'
-  - '[[_Standards/WikiData/WD~Noma_Literary_Prize,681787]]'
-  - '[[_Standards/WikiData/WD~Asahi_Prize,720434]]'
-  - '[[_Standards/WikiData/WD~Yomiuri_Prize,957043]]'
-  - '[[_Standards/WikiData/WD~Sei_Itō_Award,1143424]]'
-  - '[[_Standards/WikiData/WD~Kawabata_award,1576163]]'
-  - '[[_Standards/WikiData/WD~Tanizaki_Prize,1648933]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~Shinchosha_literature_award,11503628]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Akutagawa_Prize,424160]]'
+- '[[_Standards/WikiData/WD~Grinzane_Cavour_Prize,430541]]'
+- '[[_Standards/WikiData/WD~Order_of_Culture,530124]]'
+- '[[_Standards/WikiData/WD~Noma_Literary_Prize,681787]]'
+- '[[_Standards/WikiData/WD~Asahi_Prize,720434]]'
+- '[[_Standards/WikiData/WD~Yomiuri_Prize,957043]]'
+- '[[_Standards/WikiData/WD~Sei_Itō_Award,1143424]]'
+- '[[_Standards/WikiData/WD~Kawabata_award,1576163]]'
+- '[[_Standards/WikiData/WD~Tanizaki_Prize,1648933]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Shinchosha_literature_award,11503628]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 relative:
-  - '[[_Standards/WikiData/WD~Mansaku_Itami,973907]]'
-  - '[[_Standards/WikiData/WD~Jūzō_Itami,1325171]]'
-  - '[[_Standards/WikiData/WD~Mansaku_Ikeuchi,11551520]]'
+- '[[_Standards/WikiData/WD~Mansaku_Itami,973907]]'
+- '[[_Standards/WikiData/WD~Jūzō_Itami,1325171]]'
+- '[[_Standards/WikiData/WD~Mansaku_Ikeuchi,11551520]]'
 occupation:
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Silent_Cry,1968701]]'
-  - '[[_Standards/WikiData/WD~A_Personal_Matter,2378189]]'
+- '[[_Standards/WikiData/WD~The_Silent_Cry,1968701]]'
+- '[[_Standards/WikiData/WD~A_Personal_Matter,2378189]]'
 nominated_for: '[[_Standards/WikiData/WD~International_Booker_Prize,2052291]]'
 child: '[[_Standards/WikiData/WD~Hikari_Ōe,2628541]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ōse,8081696]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Kenzaburō_Ōe,14447306]]'
@@ -75,8 +107,110 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/OE_KENDZABURO.html
 name_in_kana: おおえ けんざぶろう
 name_in_native_language: 大江 健三郎
 date_of_death: 2023-03-03T00:00:00Z
+dv_has_:
+  name_:
+    af: Kenzaburō Ōe
+    an: Kenzaburō Ōe
+    ar: كنزابورو أوي
+    arz: كنزابورو اوى
+    as: কেঞ্জাবুৰো অয়ে
+    ast: Kenzaburō Ōe
+    avk: Kenzaburo Oe
+    az: Kendzaburo Oe
+    azb: کنزابورو اوئه
+    bcl: Kenzaburō Ōe
+    be: Кэндзабура Оэ
+    be-tarask: Кэндзабура Оэ
+    bg: Кендзабуро Ое
+    bn: কেন্জাবুরো ওহয়ে
+    br: Kenzaburō Ōe
+    ca: Kenzaburō Ōe
+    cdo: Ōe Kenzaburō
+    cs: Kenzaburó Óe
+    da: Kenzaburo Oe
+    de: Kenzaburō Ōe
+    diq: Kenzaburo Oe
+    el: Κενζαμπούρο Όε
+    en: Kenzaburō Ōe
+    eo: Oe Kenzaburo
+    es: Kenzaburō Ōe
+    et: Kenzaburō Ōe
+    eu: Kenzaburō Ōe
+    fa: کنزابورو اوئه
+    fi: Kenzaburō Ōe
+    fr: Kenzaburō Ōe
+    ga: Kenzaburo Ōe
+    gd: Kenzaburo Oe
+    gl: Kenzaburō Ōe
+    hak: Ōe Kenzaburō
+    he: קנזאבורו אואה
+    hi: केन्ज़ाबुरो ओए
+    hr: Kenzaburo Oe
+    hu: Óe Kenzaburó
+    hy: Կենձաբուրո Օէ
+    id: Kenzaburō Ōe
+    ilo: Kenzaburō Ōe
+    io: Kenzaburo Oe
+    is: Kenzaburo Oe
+    it: Kenzaburō Ōe
+    ja: 大江健三郎
+    ka: ოე კენძაბურო
+    kk: Кэндзабуро Оэ
+    ko: 오에 겐자부로
+    ku: Kenzaburo Oe
+    kw: Kenzaburō Ōe
+    la: Kenzaburo Oe
+    lb: Kenzaburō Ōe
+    lfn: Kenzaburo Oe
+    lt: Kenzaburo Oe
+    lv: Kendzaburo Oe
+    mg: Kenzaburō Ōe
+    mk: Кензабуро Ое
+    ml: കെൻസാബുറോ ഒയി
+    mr: केंझाबुरो ओए
+    ms: Kenzaburō Ōe
+    mul: Kenzaburō Ōe
+    mwl: Kenzaburo Oe
+    mzn: کنزابورو اوئه
+    nan: Ôe Kenzaburô
+    nb: Kenzaburo Oe
+    nds: Kenzaburō Ōe
+    nl: Kenzaburo Oë
+    nn: Kenzaburō Ōe
+    oc: Kenzaburo Oe
+    pa: ਕੇਂਜ਼ਾਬੂਰੋ ਓਏ
+    pam: Kenzaburō Ōe
+    pap: Kenzaburo Oe
+    pl: Kenzaburō Ōe
+    pnb: کینزابیورو اوئی
+    pt: Kenzaburo Oe
+    pt-br: Kenzaburo Oe
+    ro: Kenzaburō Ōe
+    ru: Кэндзабуро Оэ
+    scn: Kenzaburō Ōe
+    sco: Kenzaburō Ōe
+    sh: Kenzaburo Oe
+    sk: Kenzaburó Óe
+    sl: Kenzaburo Oë
+    sq: Kenzaburō Ōe
+    sr: Кензабуро Ое
+    sv: Kenzaburo Oe
+    sw: Kenzaburo Oe
+    th: เค็นซาบูโร โอเอะ
+    tl: Kenzaburō Ōe
+    tr: Kenzaburō Ōe
+    tt: Кендзабуро Ое
+    uk: Ое Кендзабуро
+    ur: کنزابرو اوی
+    uz: Kenzaburō Ōe
+    vi: Ōe Kenzaburo
+    wuu: 大江健三郎
+    yo: Kenzaburō Ōe
+    yue: 大江健三郎
+    zh: 大江健三郎
+    zh-cn: 大江健三郎
+    zh-hans: 大江健三郎
 ---
-
 # [[Kenzaburō_Ōe]] 
 
 #is_/same_as :: [[WD~Kenzaburō_Ōe,80095]] 

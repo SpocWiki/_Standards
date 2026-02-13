@@ -1,45 +1,128 @@
 ---
 aliases:
-  - Sindhi language
-  - Sindhi
-  - Lang-snd
+- an tSindis
+- Bahasa Sindh
+- bahasa Sindhi
+- Fiteny sindy
+- Idioma sindhi
+- isi-Sindhi
+- Kisindhi
+- Lang-snd
+- Lenga sindhi
+- Limba sindhi
+- Lingua sindhi
+- lingua sindhuica
+- língua sindi
+- sinda lingvo
+- sindeg
+- Sindh
+- Sindhi
+- Sindhi bhasa
+- Sindhi dili
+- sindhi jezik
+- sindhi keel
+- Sindhi language
+- Sindhi leid
+- Sindhi zyvon
+- Sindhiki
+- Sindhu valoda
+- sindhčina
+- sindhština
+- Sindi jezik
+- Sindi simi
+- sindí
+- sindščina
+- sindų kalba
+- szindhi
+- Sìn-tī-gí
+- tiếng Sindh
+- toki Sinsi
+- Vahsaenqdaek
+- Èdè Sindhi
+- Γλώσσα Σίντι
+- сіндхі
+- синди језик
+- синдски јазик
+- синдхі
+- синдхи
+- Синдхи (æвзаг)
+- синдһи теле
+- сындгі
+- սինդհի
+- סינדית
+- السندي
+- السندية
+- زبان سندی
+- زمانی سیندی
+- سندھی
+- سندھی زبان
+- سندی
+- سنڌي
+- سىندى تىلى
+- سيندي ژبه
+- سِندھی زَبان
+- سیندی دیلی
+- لغه سندى
+- सिंधी भाषा
+- सिन्धी
+- सिन्धी भाषा
+- सिन्धीभाषा
+- সিন্ধি ভাষা
+- সিন্ধী ভাষা
+- ਸਿੰਧੀ
+- સિંધી ભાષા
+- ସିନ୍ଧି ଭାଷା
+- சிந்தி மொழி
+- సింధీ భాష
+- ಸಿಂಧಿ ಬಾಸೆ
+- ಸಿಂಧಿ ಭಾಷೆ
+- സിന്ധി ഭാഷ
+- ภาษาสินธ์
+- სინდჰი
+- სინდჰური ენა
+- ᱥᱤᱱᱫᱷᱤ ᱯᱟᱹᱨᱥᱤ
+- シンド語
+- 信德文
+- 信德語
+- 信德语
+- 신디어
 has_id_wikidata: Q33997
 indigenous_to:
-  - '[[_Standards/WikiData/WD~Balochistan,163239]]'
-  - '[[_Standards/WikiData/WD~Gujarat,1061]]'
-  - '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
-  - '[[_Standards/WikiData/WD~Bihar,1165]]'
-  - '[[_Standards/WikiData/WD~Maharashtra,1191]]'
-  - '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
-  - '[[_Standards/WikiData/WD~Delhi,1353]]'
-  - '[[_Standards/WikiData/WD~Rajasthan,1437]]'
-  - '[[_Standards/WikiData/WD~Tamil_Nadu,1445]]'
-  - '[[_Standards/WikiData/WD~Uttar_Pradesh,1498]]'
-  - '[[_Standards/WikiData/WD~Odisha,22048]]'
-  - '[[_Standards/WikiData/WD~Sindh,37211]]'
+- '[[_Standards/WikiData/WD~Balochistan,163239]]'
+- '[[_Standards/WikiData/WD~Gujarat,1061]]'
+- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
+- '[[_Standards/WikiData/WD~Bihar,1165]]'
+- '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+- '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
+- '[[_Standards/WikiData/WD~Delhi,1353]]'
+- '[[_Standards/WikiData/WD~Rajasthan,1437]]'
+- '[[_Standards/WikiData/WD~Tamil_Nadu,1445]]'
+- '[[_Standards/WikiData/WD~Uttar_Pradesh,1498]]'
+- '[[_Standards/WikiData/WD~Odisha,22048]]'
+- '[[_Standards/WikiData/WD~Sindh,37211]]'
 language_regulatory_body: '[[_Standards/WikiData/WD~Sindhi_Language_Authority,286970]]'
 linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Gujarati,733944]]'
-  - '[[_Standards/WikiData/WD~Khojki,1740656]]'
-  - '[[_Standards/WikiData/WD~Khudabadi,6402810]]'
-  - '[[_Standards/WikiData/WD~Sindhi_Perso_Arabic_script,25550226]]'
-  - '[[_Standards/WikiData/WD~Devanagari_Sindhi,116688933]]'
+- '[[_Standards/WikiData/WD~Gujarati,733944]]'
+- '[[_Standards/WikiData/WD~Khojki,1740656]]'
+- '[[_Standards/WikiData/WD~Khudabadi,6402810]]'
+- '[[_Standards/WikiData/WD~Sindhi_Perso_Arabic_script,25550226]]'
+- '[[_Standards/WikiData/WD~Devanagari_Sindhi,116688933]]'
 different_from: '[[_Standards/WikiData/WD~Sindhis,1258074]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 subclass_of: '[[_Standards/WikiData/WD~Sindhi_languages,7522212]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 part_of: '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
 has_characteristic: '[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Sindhi,136719633]]'
 country:
-  - '[[_Standards/WikiData/WD~India,668]]'
-  - '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
 number_of_speakers_writers_or_signers: 24600000
 IAB_code: 1170
 OmegaWiki_Defined_Meaning: 6694
@@ -55,8 +138,8 @@ ISO_639_1_code: sd
 WALS_lect_code: sdh
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%9A%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi%20language.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi%20language.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi%20Literature%20%28cropped%29.JPG
 exact_match: http://publications.europa.eu/resource/authority/language/SND
 Dewey_Decimal_Classification: 491.41
@@ -66,12 +149,137 @@ Glottolog_code: sind1272
 Commons_category: Sindhi language
 GOST_7_75_97_code: снд 600
 native_label:
-  - سِنڌِي
-  - सिंधी
-  - સિંધી
+- سِنڌِي
+- सिंधी
+- સિંધી
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi-speakers%20by%20Pakistani%20District%20-%202017%20Census.svg
+dv_has_:
+  name_:
+    aeb-arab: السندي
+    af: sindhi
+    anp: सिंधी भाषा
+    ar: السندية
+    arz: لغه سندى
+    as: সিন্ধী ভাষা
+    ast: Idioma sindhi
+    awa: सिन्धी भाषा
+    az: Sindhi dili
+    azb: سیندی دیلی
+    be: сіндхі
+    be-tarask: сындгі
+    bg: Синдхи
+    bho: सिंधी भाषा
+    bn: সিন্ধি ভাষা
+    br: sindeg
+    ca: sindhi
+    ckb: زمانی سیندی
+    cs: sindhština
+    cy: Sindhi
+    da: sindhi
+    de: Sindhi
+    diq: Sindhiki
+    el: Γλώσσα Σίντι
+    en: Sindhi
+    en-ca: Sindhi
+    en-gb: Sindhi
+    eo: sinda lingvo
+    es: sindhi
+    et: sindhi keel
+    eu: sindhi
+    fa: زبان سندی
+    fi: sindhi
+    fr: sindhi
+    frr: Sindhi
+    ga: an tSindis
+    gl: Lingua sindhi
+    gu: સિંધી ભાષા
+    ha: Sindhi
+    he: סינדית
+    hi: सिन्धी
+    hif: Sindhi bhasa
+    hr: sindhi jezik
+    hu: szindhi
+    hy: սինդհի
+    id: bahasa Sindhi
+    ilo: Sindhi
+    is: sindí
+    it: sindhi
+    ja: シンド語
+    ka: სინდჰური ენა
+    kge: Bahasa Sindhi
+    kn: ಸಿಂಧಿ ಭಾಷೆ
+    ko: 신디어
+    ks: سِندھی زَبان
+    kv: Синдхи
+    la: lingua sindhuica
+    lt: sindų kalba
+    lv: Sindhu valoda
+    mai: सिन्धी भाषा
+    mg: Fiteny sindy
+    mk: синдски јазик
+    ml: സിന്ധി ഭാഷ
+    mr: सिंधी भाषा
+    ms: Bahasa Sindh
+    mzn: سندی
+    nan: Sìn-tī-gí
+    nb: sindhi
+    ne: सिन्धी भाषा
+    new: सिन्धी भाषा
+    nl: Sindhi
+    nn: sindhi
+    oc: sindhi
+    or: ସିନ୍ଧି ଭାଷା
+    os: Синдхи (æвзаг)
+    pa: ਸਿੰਧੀ
+    pl: sindhi
+    pms: Lenga sindhi
+    pnb: سندھی
+    ps: سيندي ژبه
+    pt: língua sindi
+    pt-br: Língua sindi
+    qu: Sindi simi
+    ro: Limba sindhi
+    ru: синдхи
+    sa: सिन्धीभाषा
+    sat: ᱥᱤᱱᱫᱷᱤ ᱯᱟᱹᱨᱥᱤ
+    scn: sindhi
+    sco: Sindhi leid
+    sd: سنڌي
+    sh: Sindi jezik
+    sk: sindhčina
+    skr: سندھی زبان
+    sl: sindščina
+    sr: синди језик
+    sr-ec: синди језик
+    sr-el: sindi jezik
+    sv: sindhi
+    sw: Kisindhi
+    ta: சிந்தி மொழி
+    tcy: ಸಿಂಧಿ ಬಾಸೆ
+    te: సింధీ భాష
+    th: ภาษาสินธ์
+    tly: Sindhi zyvon
+    tok: toki Sinsi
+    tr: Sindhi
+    tt: синдһи теле
+    ug: سىندى تىلى
+    uk: синдхі
+    ur: سندھی
+    uz: Sindh
+    vec: sindhi
+    vi: tiếng Sindh
+    wuu: 信德语
+    xmf: სინდჰი
+    yo: Èdè Sindhi
+    yue: 信德文
+    za: Vahsaenqdaek
+    zh: 信德语
+    zh-cn: 信德语
+    zh-hans: 信德语
+    zh-hant: 信德語
+    zh-tw: 信德語
+    zu: isi-Sindhi
 ---
-
 # [[Lang-snd]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sindhi,33997|WD~Sindhi,33997]]  

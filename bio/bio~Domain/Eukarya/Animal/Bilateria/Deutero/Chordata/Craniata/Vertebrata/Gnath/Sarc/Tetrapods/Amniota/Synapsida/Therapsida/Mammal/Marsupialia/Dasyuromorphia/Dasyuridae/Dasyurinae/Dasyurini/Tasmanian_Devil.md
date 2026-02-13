@@ -1,59 +1,134 @@
 ---
 aliases:
+- Beutelteufel
+- Devoly Tasmaniana
+- Diabeł tasmański
+- diabhal Tasmánach
+- Diable de Tasmania
+- diable de Tasmanie
+- diable de Tasmània
+- Diablo tasmanian
+- Diabo-da-tasmânia
+- Diabol tasmánsky
+- Diafol Tasmanaidd
+- Diaoul Tasmania
+- Diavol tasmanian
+- Diaño de Tasmania
+- Diàvul dla Taśmàgna
+- erszényes ördög
+- Iblis Tasmania
+- Kukkurkurat
+- Mdierekezi wa ku Tasmanian
+- Mąʼii bizaʼazis hólóní
+- pussiahma
+- Quỷ Tasmania
+- Sarcophilus
+- Sarcophilus harrisii
+- Setan Tasmania
+- Shetani wa Tasmania
+- Sterblinis velnias
+- Sétan Tasmania
+- Tasmaanse duivel
+- Tasmana diablo
+- Tasmaniako deabru
+- Tasmanian devil
+- Tasmanie deil
+- Tasmaniese duiwel
+- Tasmanijski đavo
+- Tasmaniya iblisi
+- Tasmansk djevel
+- Tasmansk djävul
+- Tasmansk djævel
+- Tasmanski vrag
+- Tasmaníuskolli
+- Tasmański djoboł
+- Tasmānijas velns
+- Tazmanya canavarı
+- Tiapolo Tasimania
+- Xaltali iblis
+- Xusumol (Sarcophilus harrisii)
+- ďábel medvědovitý
+- Διάβολος της Τασμανίας
+- Баштыкчан шайтан
+- зьверажэр торбачны
+- Сумчаты д'ябал
+- Тасманійський диявол
+- тасманијски ђаво
+- тасманийски дявол
+- Тасманийский дьявол
+- Тасманса куль
+- Тасмански ѓавол
+- Қалталы албасты
+- Թասմանյան հրեշ
+- שד טסמני
+- تسمانیائی ڈیول
+- سارکوفیلوس هارریسیی
+- شيطان تسمانيا
+- شیطان تاسمانی
+- وەحشی تاسمانی
+- ټاسماني شيطان
+- तस्मानियाई डैविल
+- தாசுமேனியன் டெவில்
+- ടാസ്മേനിയൻ ഡെവിൾ
+- แทสเมเนียนเดวิล
+- ᏔᏍᎺᏂᎠ ᏩᏯᎭ
+- タスマニアデビル
+- 袋獾
+- 태즈메이니아데빌
 has_id_wikidata: Q134964
 taxon_common_name:
-  - tasmanski vrag
-  - Tasmansk djävul
-  - แทสมาเนียนเดวิล
-  - ปีศาจแทสเมเนียน
-  - Tazmanya şeytanı
-  - 袋獾
-  - Beutelteufel
-  - diañu de Tasmania
-  - Diable de Tasmània
-  - ďábel medvědovitý
-  - Tasmansk djævel
-  - Tasmanischer Beutelteufel
-  - Tasmanischer Teufel
-  - Διάβολος της Τασμανίας
-  - Tasmanian Devil
-  - demonio de Tasmania
-  - شیطان تاسمانی
-  - Pussiahma
-  - diable de Tasmanie
-  - Diable De Tasmanie
-  - Setan Tasmania
-  - Tasmaníuskolli
-  - Diavolo di Tasmania
-  - タスマニアデビル
-  - 태즈메이니아 데빌
-  - Tasmānijas velns
-  - Tasmansk djevel
-  - Tasmansk djevel
-  - Diabo da Tasmânia
-  - Diavolul tasmanian
-  - Diabol tasmánsky
+- tasmanski vrag
+- Tasmansk djävul
+- แทสมาเนียนเดวิล
+- ปีศาจแทสเมเนียน
+- Tazmanya şeytanı
+- 袋獾
+- Beutelteufel
+- diañu de Tasmania
+- Diable de Tasmània
+- ďábel medvědovitý
+- Tasmansk djævel
+- Tasmanischer Beutelteufel
+- Tasmanischer Teufel
+- Διάβολος της Τασμανίας
+- Tasmanian Devil
+- demonio de Tasmania
+- شیطان تاسمانی
+- Pussiahma
+- diable de Tasmanie
+- Diable De Tasmanie
+- Setan Tasmania
+- Tasmaníuskolli
+- Diavolo di Tasmania
+- タスマニアデビル
+- 태즈메이니아 데빌
+- Tasmānijas velns
+- Tasmansk djevel
+- Tasmansk djevel
+- Diabo da Tasmânia
+- Diavolul tasmanian
+- Diabol tasmánsky
 has_characteristic:
-  - "[[_Standards/WikiData/WD~viviparity,120446]]"
-  - "[[_Standards/WikiData/WD~biofluorescence,101248333]]"
+- '[[_Standards/WikiData/WD~viviparity,120446]]'
+- '[[_Standards/WikiData/WD~biofluorescence,101248333]]'
 parent_taxon:
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821]]"
-  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]"
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Sarcophilus_harrisii,135207768]]"
-endemic_to: "[[_Standards/WikiData/WD~Australia,408]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Sarcophilus_harrisii,135207768]]'
+endemic_to: '[[_Standards/WikiData/WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 longest_observed_lifespan: 13
 gestation_period: 21
 litter_size: 25
 period_of_lactation: 5.5
 time_in_the_pouch: 105
 bite_force_quotient: 181
-ITIS_TSN: "709400"
-OmegaWiki_Defined_Meaning: "813328"
+ITIS_TSN: 709400
+OmegaWiki_Defined_Meaning: 813328
 short_name: S. harrisii
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcophilus%20harrisii%20extent.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcophilus%20harrisii%20taranna.jpg
@@ -62,18 +137,121 @@ sequenced_genome_URL: http://www.ensembl.org/Sarcophilus_harrisii
 taxon_author_citation: (Boitard, 1841)
 UMLS_CUI: C0324682
 GenBank_assembly_accession_number:
-  - GCA_000189315.1
-  - GCA_007988765.1
-  - GCA_902635505.1
-  - GCA_902648505.1
-  - GCA_904813355.1
+- GCA_000189315.1
+- GCA_007988765.1
+- GCA_902635505.1
+- GCA_902648505.1
+- GCA_904813355.1
 Commons_gallery: Sarcophilus harrisii
 Commons_category: Sarcophilus harrisii
 taxon_name: Sarcophilus harrisii
 EPPO_Code: SRCPHA
 nickname: T-devil
+dv_has_:
+  name_:
+    af: Tasmaniese duiwel
+    ar: شيطان تسمانيا
+    arz: شيطان تسمانيا
+    ast: Sarcophilus harrisii
+    avk: Xusumol (Sarcophilus harrisii)
+    az: Tasmaniya iblisi
+    azb: سارکوفیلوس هارریسیی
+    ban: Iblis Tasmania
+    be: Сумчаты д'ябал
+    be-tarask: зьверажэр торбачны
+    bg: тасманийски дявол
+    br: Diaoul Tasmania
+    bs: Tasmanski vrag
+    ca: diable de Tasmània
+    ceb: Sarcophilus harrisii
+    chr: ᏔᏍᎺᏂᎠ ᏩᏯᎭ
+    ckb: وەحشی تاسمانی
+    cs: ďábel medvědovitý
+    cy: Diafol Tasmanaidd
+    da: Tasmansk djævel
+    de: Beutelteufel
+    el: Διάβολος της Τασμανίας
+    eml: Diàvul dla Taśmàgna
+    en: Tasmanian devil
+    en-ca: Tasmanian devil
+    en-gb: Tasmanian devil
+    eo: Tasmana diablo
+    es: Sarcophilus harrisii
+    et: Kukkurkurat
+    eu: Tasmaniako deabru
+    fa: شیطان تاسمانی
+    fi: pussiahma
+    fr: diable de Tasmanie
+    ga: diabhal Tasmánach
+    gl: Diaño de Tasmania
+    he: שד טסמני
+    hi: तस्मानियाई डैविल
+    hr: Tasmanski vrag
+    hu: erszényes ördög
+    hy: Թասմանյան հրեշ
+    ia: Sarcophilus harrisii
+    id: Setan Tasmania
+    is: Tasmaníuskolli
+    it: Sarcophilus harrisii
+    ja: タスマニアデビル
+    jv: Sétan Tasmania
+    kk: Қалталы албасты
+    ko: 태즈메이니아데빌
+    kv: Тасманса куль
+    ky: Баштыкчан шайтан
+    la: Sarcophilus harrisii
+    lfn: Diablo tasmanian
+    lt: Sterblinis velnias
+    lv: Tasmānijas velns
+    mg: Devoly Tasmaniana
+    mk: Тасмански ѓавол
+    ml: ടാസ്മേനിയൻ ഡെവിൾ
+    ms: Tasmanian Devil
+    mul: Sarcophilus harrisii
+    nb: Tasmansk djevel
+    nl: Tasmaanse duivel
+    nn: Tasmansk djevel
+    nv: Mąʼii bizaʼazis hólóní
+    ny: Mdierekezi wa ku Tasmanian
+    oc: Diable de Tasmania
+    pl: Diabeł tasmański
+    pnb: تسمانیائی ڈیول
+    ps: ټاسماني شيطان
+    pt: Diabo-da-tasmânia
+    pt-br: Diabo-da-tasmânia
+    ro: Diavol tasmanian
+    ru: Тасманийский дьявол
+    sco: Tasmanie deil
+    sh: Tasmanski vrag
+    sk: Diabol tasmánsky
+    sl: tasmanski vrag
+    sm: Tiapolo Tasimania
+    sq: Sarcophilus harrisii
+    sr: тасманијски ђаво
+    sr-ec: Тасманијски ђаво
+    sr-el: Tasmanijski đavo
+    sv: Tasmansk djävul
+    sw: Shetani wa Tasmania
+    szl: Tasmański djoboł
+    ta: தாசுமேனியன் டெவில்
+    th: แทสเมเนียนเดวิล
+    tl: Sarcophilus harrisii
+    tr: Tazmanya canavarı
+    uk: Тасманійський диявол
+    ur: تسمانیائی ڈیول
+    uz: Xaltali iblis
+    vi: Quỷ Tasmania
+    war: Sarcophilus
+    wuu: 袋獾
+    yue: 袋獾
+    zh: 袋獾
+    zh-cn: 袋獾
+    zh-hans: 袋獾
+    zh-hant: 袋獾
+    zh-hk: 袋獾
+    zh-sg: 袋獾
+    zh-tw: 袋獾
 ---
-
 # [[Tasmanian_Devil]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tasmanian_devil,134964|WD~Tasmanian_devil,134964]]  

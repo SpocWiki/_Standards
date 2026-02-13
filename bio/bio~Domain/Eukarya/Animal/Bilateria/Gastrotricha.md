@@ -1,8 +1,133 @@
 ---
 aliases:
-  - Gastrotricha
+- Bauchhärlinge
+- Boekhäörige
+- Brušnobrvky
+- Brzuchorzęski
+- Buikharigen
+- bukhårsdjur
+- bukhårsdyr
+- Buteldiarten
+- břichobrvky
+- Chʼosh doo yitʼíinii bighą́ą́ʼ diʼilígíí
+- csillóshasúak
+- Gastrotrich
+- Gastrotricha
+- Gastrotrichia
+- Gastrotricos
+- Gastrotrihe
+- Gastròtric
+- Karnı kıllı solucanlar
+- Kirpikliqarın qurdlar
+- Qursaqkirpikşeli qurttar
+- Ripskõhtsed
+- sukaspintaiset
+- Trbodlaci
+- trebuhodlačniki
+- Vēderskropstaiņi
+- Брухараснічныя чэрві
+- брюхоресничные черви
+- кореморесничести
+- Мешестотрепчести црви
+- Черевовійчасті черви
+- Құрсақкірпікшелі құрттар
+- שעירי הבטן
+- شعريات البطن
+- شکمتاران
+- قۇرساقكىرپىكشەلى قۇرتتار
+- ಗ್ಯಾಸ್ಟ್ರೋಟ್ರೈಕ
+- แกสโทรทริชา
+- გასტროტრიქები
+- 腹毛动物门
+- 腹毛動物
+- 腹毛動物門
+- 복모동물
 title: Gastrotricha
 has_id_wikidata: Q190115
+dv_has_:
+  name_:
+    an: Gastrotricha
+    ar: شعريات البطن
+    arz: شعريات البطن
+    ast: Gastrotricha
+    az: Kirpikliqarın qurdlar
+    be: Брухараснічныя чэрві
+    bg: кореморесничести
+    bs: Gastrotricha
+    ca: Gastròtric
+    ceb: Gastrotricha
+    cs: břichobrvky
+    de: Bauchhärlinge
+    en: Gastrotricha
+    eo: Gastrotricha
+    es: Gastrotrichia
+    et: Ripskõhtsed
+    eu: Gastrotricha
+    ext: Gastrotricha
+    fa: شکمتاران
+    fi: sukaspintaiset
+    fr: Gastrotricha
+    frr: Buteldiarten
+    ga: Gastrotricha
+    gl: Gastrotricos
+    he: שעירי הבטן
+    hr: Trbodlaci
+    hu: csillóshasúak
+    ia: Gastrotricha
+    id: Gastrotricha
+    ie: Gastrotricha
+    io: Gastrotricha
+    it: Gastrotricha
+    ja: 腹毛動物
+    ka: გასტროტრიქები
+    kk: Құрсақкірпікшелі құрттар
+    kk-arab: قۇرساقكىرپىكشەلى قۇرتتار
+    kk-cn: قۇرساقكىرپىكشەلى قۇرتتار
+    kk-cyrl: Құрсақкірпікшелі құрттар
+    kk-kz: Құрсақкірпікшелі құрттар
+    kk-latn: Qursaqkirpikşeli qurttar
+    kk-tr: Qursaqkirpikşeli qurttar
+    kn: ಗ್ಯಾಸ್ಟ್ರೋಟ್ರೈಕ
+    ko: 복모동물
+    la: Gastrotrichia
+    li: Boekhäörige
+    lv: Vēderskropstaiņi
+    mk: Мешестотрепчести црви
+    ms: Gastrotricha
+    mul: Gastrotricha
+    nb: bukhårsdyr
+    nl: Buikharigen
+    nn: bukhårsdyr
+    nv: Chʼosh doo yitʼíinii bighą́ą́ʼ diʼilígíí
+    oc: Gastrotricha
+    pl: Brzuchorzęski
+    pt: Gastrotricha
+    pt-br: Gastrotricha
+    ro: Gastrotrihe
+    ru: брюхоресничные черви
+    sco: Gastrotrich
+    sk: Brušnobrvky
+    sl: trebuhodlačniki
+    sq: Gastrotricha
+    sr: Gastrotricha
+    sr-ec: Gastrotricha
+    sr-el: Gastrotricha
+    sv: bukhårsdjur
+    th: แกสโทรทริชา
+    tl: Gastrotricha
+    tr: Karnı kıllı solucanlar
+    uk: Черевовійчасті черви
+    vi: Gastrotricha
+    vo: Gastrotricha
+    war: Gastrotricha
+    wuu: 腹毛动物门
+    zh: 腹毛动物门
+    zh-cn: 腹毛动物门
+    zh-hans: 腹毛动物门
+    zh-hant: 腹毛動物門
+    zh-hk: 腹毛動物門
+    zh-sg: 腹毛动物门
+    zh-tw: 腹毛動物門
 ---
 # [[Gastrotricha]] 
 

@@ -1,8 +1,34 @@
 ---
 has_id_wikidata: Q1748985
+dv_has_:
+  name_:
+    ca: pseudoescalar
+    de: Pseudoskalar
+    en: pseudoscalar
+    es: pseudoescalar
+    fi: Pseudoskalaari
+    fr: pseudoscalaire
+    it: Pseudoscalare
+    ja: 擬スカラー
+    pa: ਸੂਡੋਸਕੇਲਰ
+    pl: Pseudoskalar
+    ru: Псевдоскаляр
+    sl: Psevdoskalar
+    uk: Псевдоскаляр
+    zh: 贗純量
+aliases:
+- pseudoescalar
+- pseudoscalaire
+- pseudoscalar
+- Pseudoscalare
+- Pseudoskalaari
+- Pseudoskalar
+- Psevdoskalar
+- Псевдоскаляр
+- ਸੂਡੋਸਕੇਲਰ
+- 擬スカラー
+- 贗純量
 ---
-
-
 # [[Pseudo-Scalar]] 
 
 In n-dimensional [[Geometric_Algebra]], 

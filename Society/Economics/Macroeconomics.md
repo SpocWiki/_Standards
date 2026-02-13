@@ -1,19 +1,93 @@
 ---
 aliases:
-  - Macro Economics
-  - Macroeconomics
+- Chóng-thé-keng-chè-ha̍k
+- Chúng-thí Kîn-chi-ho̍k
+- ekonomi makro
+- kinh tế học vĩ mô
+- Macro Economics
+- macro-economie
+- Macro-oeconomia
+- macroeconomia
+- Macroeconomics
+- macroeconomie
+- macroeconomía
+- macroéconomie
+- Maikroekonomiks
+- Makro İqtısad
+- Makro-ekonomie
+- makroekonomi
+- makroekonomia
+- makroekonomie
+- makroekonomija
+- makroekonomika
+- makroekonomiko
+- Makroekonomiks
+- Makroekonomiya
+- makroekonómia
+- makroiqtisadiyyat
+- Makroiqtisodiyot
+- makrotaloustiede
+- Makroökonomie
+- Makroökonoomika
+- makroökonómia
+- makroøkonomi
+- Ékonomi makro
+- Þjóðhagfræði
+- Μακροοικονομία
+- иқтисоди калон
+- макраэканоміка
+- Макро эдийн засаг
+- макроекономіка
+- Макроекономија
+- Макроикономика
+- макроикътисад
+- Макроиҡтисад
+- Макроэкономикæ
+- макроэкономика
+- Մակրոէկոնոմիկա
+- מקרו-כלכלה
+- ئابوورناسیی زل
+- اقتصاد كلي
+- اقتصاد کلان
+- الاقتصاد الكلى
+- لویه وټه
+- ماکروایکونومی
+- کلیاتی معاشیات
+- मैक्रो इकोनॉमिक्स
+- म्याक्रोइकोनोमिक्स
+- समष्टि अर्थशास्त्र
+- स्थूल अर्थशास्त्र
+- সমষ্টিবাদী অৰ্থনীতি
+- সামষ্টিক অর্থনীতি
+- ਮੈਕਰੋ ਅਰਥਸ਼ਾਸਤਰ
+- பருப்பொருளியல்
+- స్థూల ఆర్థిక శాస్త్రము
+- ಬೃಹದರ್ಥಶಾಸ್ತ್ರ
+- സ്ഥൂലസാമ്പത്തികശാസ്ത്രം
+- සාර්ව ආර්ථික විද්යාව
+- เศรษฐศาสตร์มหภาค
+- ເສດຖະສາດມະຫາພາກ
+- ཆེ་མཐོང་དཔལ་འབྱོར།
+- မေခရိုဘောဂဗေဒ
+- მაკროეკონომიკა
+- ម៉ាក្រូសេដ្ឋកិច្ច
+- マクロ経済学
+- 宏觀經濟學
+- 宏观经济学
+- 總體經濟學
+- 거시경제학
 has_id_wikidata: Q39680
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~business_cycle,192311]]'
-  - '[[_Standards/WikiData/WD~gross_domestic_product,12638]]'
-  - '[[_Standards/WikiData/WD~inflation,35865]]'
+- '[[_Standards/WikiData/WD~business_cycle,192311]]'
+- '[[_Standards/WikiData/WD~gross_domestic_product,12638]]'
+- '[[_Standards/WikiData/WD~inflation,35865]]'
 facet_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
 part_of: '[[_Standards/WikiData/WD~general_economics,10660901]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960865,12960865]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Macroeconomics,14398169]]'
-  - '[[_Standards/WikiData/WD~Template_Macroeconomics_sidebar,77750036]]'
-  - '[[_Standards/WikiData/WD~Q106410391,106410391]]'
+- '[[_Standards/WikiData/WD~Template_Macroeconomics,14398169]]'
+- '[[_Standards/WikiData/WD~Template_Macroeconomics_sidebar,77750036]]'
+- '[[_Standards/WikiData/WD~Q106410391,106410391]]'
 subclass_of: '[[_Standards/WikiData/WD~economics,8134]]'
 instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
 opposite_of: '[[_Standards/WikiData/WD~microeconomics,39072]]'
@@ -28,8 +102,112 @@ GitHub_topic: macroeconomics
 PhilPapers_topic: macroeconomics
 Commons_category: Macroeconomics
 IPTC_NewsCode: mediatopic/20000346
+dv_has_:
+  name_:
+    af: Makro-ekonomie
+    ar: اقتصاد كلي
+    arz: الاقتصاد الكلى
+    as: সমষ্টিবাদী অৰ্থনীতি
+    ast: Macroeconomía
+    az: makroiqtisadiyyat
+    azb: ماکروایکونومی
+    ba: Макроиҡтисад
+    be: макраэканоміка
+    be-tarask: макраэканоміка
+    bg: Макроикономика
+    bho: मैक्रो इकोनॉमिक्स
+    bn: সামষ্টিক অর্থনীতি
+    bo: ཆེ་མཐོང་དཔལ་འབྱོར།
+    bs: makroekonomija
+    ca: macroeconomia
+    ceb: Makroekonomiks
+    ckb: ئابوورناسیی زل
+    cs: makroekonomie
+    cv: Макроэкономика
+    da: makroøkonomi
+    de: Makroökonomie
+    diq: Makro İqtısad
+    el: Μακροοικονομία
+    en: macroeconomics
+    eo: makroekonomiko
+    es: macroeconomía
+    et: Makroökonoomika
+    eu: makroekonomia
+    fa: اقتصاد کلان
+    fi: makrotaloustiede
+    fr: macroéconomie
+    gl: macroeconomía
+    hak: Chúng-thí Kîn-chi-ho̍k
+    he: מקרו-כלכלה
+    hi: समष्टि अर्थशास्त्र
+    hr: makroekonomija
+    hu: makroökonómia
+    hy: Մակրոէկոնոմիկա
+    id: ekonomi makro
+    io: Makroekonomiko
+    is: Þjóðhagfræði
+    it: macroeconomia
+    ja: マクロ経済学
+    ka: მაკროეკონომიკა
+    kk: Макроэкономика
+    km: ម៉ាក្រូសេដ្ឋកិច្ច
+    kn: ಬೃಹದರ್ಥಶಾಸ್ತ್ರ
+    ko: 거시경제학
+    ky: Макроэкономика
+    la: Macro-oeconomia
+    lo: ເສດຖະສາດມະຫາພາກ
+    lt: makroekonomika
+    lv: makroekonomika
+    mk: Макроекономија
+    ml: സ്ഥൂലസാമ്പത്തികശാസ്ത്രം
+    mn: Макро эдийн засаг
+    ms: Makroekonomi
+    my: မေခရိုဘောဂဗေဒ
+    nan: Chóng-thé-keng-chè-ha̍k
+    nb: makroøkonomi
+    new: म्याक्रोइकोनोमिक्स
+    nl: macro-economie
+    nn: makroøkonomi
+    oc: Macroeconomia
+    os: Макроэкономикæ
+    pa: ਮੈਕਰੋ ਅਰਥਸ਼ਾਸਤਰ
+    pl: makroekonomia
+    ps: لویه وټه
+    pt: macroeconomia
+    ro: macroeconomie
+    ru: макроэкономика
+    sa: स्थूल अर्थशास्त्र
+    sah: Макроэкономика
+    sh: Makroekonomija
+    si: සාර්ව ආර්ථික විද්යාව
+    sk: makroekonómia
+    sl: makroekonomija
+    sq: Makroekonomia
+    sr: макроекономија
+    sr-ec: Макроекономија
+    su: Ékonomi makro
+    sv: makroekonomi
+    ta: பருப்பொருளியல்
+    te: స్థూల ఆర్థిక శాస్త్రము
+    tg: иқтисоди калон
+    th: เศรษฐศาสตร์มหภาค
+    tl: Makroekonomiya
+    tpi: Maikroekonomiks
+    tr: makroekonomi
+    tt: макроикътисад
+    tyv: Макроэкономика
+    uk: макроекономіка
+    ur: کلیاتی معاشیات
+    uz: Makroiqtisodiyot
+    vi: kinh tế học vĩ mô
+    war: Makroekonomiks
+    wuu: 宏观经济学
+    yue: 宏觀經濟學
+    zh: 宏觀經濟學
+    zh-hans: 宏观经济学
+    zh-hant: 總體經濟學
+    zh-tw: 總體經濟學
 ---
-
 # [[Macroeconomics]] 
 
 #is_/same_as :: [[WD~Macroeconomics,39680]] 

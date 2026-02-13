@@ -1,93 +1,124 @@
 ---
 aliases:
-  - Edmund Gustav Albrecht Husserl
-  - Edmund Husserl
-  - Husserl
-  - Edmund_Husserl
-  - Husserl,Edmund
+- Edmund Gustav Albrecht Husserl
+- Edmund Husserl
+- Edmundas Huserlis
+- Edmunds Huserls
+- Edmundus Husserl
+- Edmund_Husserl
+- Gusserl Edmund
+- Husserl
+- Husserl,Edmund
+- Έντμουντ Χούσερλ
+- Едмунд Гуссерль
+- Едмунд Хусерл
+- Эдмунд Гусерль
+- Эдмунд Гуссерль
+- Эдмунд Густав Альбрехт Гуссерль
+- Эдмунд Гусэрль
+- Эдмунд Ҳуссерл
+- Էդմունդ Հուսերլ
+- אדמונד הוסרל
+- إدموند هوسرل
+- ئێتمونت ھووسرڵ
+- ادموند هوسرل
+- اډمنډ هسل
+- एडमंड हुसर्ल
+- एडमन्ड गुस्ताभ अल्ब्रेक्ट हुसर्त
+- ਐਡਮੰਡ ਹਸਰਲ
+- เอ็ทมุนท์ ฮุสเซิร์ล
+- ედმუნდ ჰუსერლი
+- ኤድመንድ ሁሠርል
+- エトムント・フッサール
+- 埃德蒙·胡塞尔
+- 埃德蒙德·胡塞尔
+- 埃德蒙德·胡塞爾
+- 愛德蒙·胡塞爾
+- 愛德蒙·胡沙勞
+- 에드문트 후설
 has_id_wikidata: Q58586
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Leo_Königsberger,68531]]'
-  - '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
+- '[[_Standards/WikiData/WD~Leo_Königsberger,68531]]'
+- '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-  - '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
-  - '[[_Standards/WikiData/WD~Leopold_Kronecker,76410]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Paulsen,27913]]'
-  - '[[_Standards/WikiData/WD~Karl_Weierstraß,57103]]'
-  - '[[_Standards/WikiData/WD~Franz_Brentano,57196]]'
-  - '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
+- '[[_Standards/WikiData/WD~Leopold_Kronecker,76410]]'
+- '[[_Standards/WikiData/WD~Friedrich_Paulsen,27913]]'
+- '[[_Standards/WikiData/WD~Karl_Weierstraß,57103]]'
+- '[[_Standards/WikiData/WD~Franz_Brentano,57196]]'
+- '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
 student:
-  - '[[_Standards/WikiData/WD~Edith_Stein,76749]]'
-  - '[[_Standards/WikiData/WD~Carlos_Astrada,2939300]]'
-  - '[[_Standards/WikiData/WD~Martin_Heidegger,48301]]'
-  - '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
-  - '[[_Standards/WikiData/WD~Eugen_Fink,61628]]'
+- '[[_Standards/WikiData/WD~Edith_Stein,76749]]'
+- '[[_Standards/WikiData/WD~Carlos_Astrada,2939300]]'
+- '[[_Standards/WikiData/WD~Martin_Heidegger,48301]]'
+- '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
+- '[[_Standards/WikiData/WD~Eugen_Fink,61628]]'
 significant_person: '[[_Standards/WikiData/WD~Tomáš_Garrigue_Masaryk,78492]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Olomouc,81137]]'
-  - '[[_Standards/WikiData/WD~Freiburg_im_Breisgau,2833]]'
-  - '[[_Standards/WikiData/WD~Göttingen,3033]]'
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Olomouc,81137]]'
+- '[[_Standards/WikiData/WD~Freiburg_im_Breisgau,2833]]'
+- '[[_Standards/WikiData/WD~Göttingen,3033]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Ludwig_Ferdinand_Clauss,88095]]'
-  - '[[_Standards/WikiData/WD~Jacob_Klein,215991]]'
-  - '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
+- '[[_Standards/WikiData/WD~Ludwig_Ferdinand_Clauss,88095]]'
+- '[[_Standards/WikiData/WD~Jacob_Klein,215991]]'
+- '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
 academic_degree:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~Privatdozent,1402736]]'
-  - '[[_Standards/WikiData/WD~Doctor,4618975]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~Privatdozent,1402736]]'
+- '[[_Standards/WikiData/WD~Doctor,4618975]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-  - '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-  - '[[_Standards/WikiData/WD~University_of_Freiburg,153987]]'
-  - '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~University_of_Freiburg,153987]]'
+- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~phenomenologist,28045801]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~phenomenologist,28045801]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~phenomenology,179235]]'
-  - '[[_Standards/WikiData/WD~transcendental_philosophy,1931281]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~idealism,33442]]'
+- '[[_Standards/WikiData/WD~phenomenology,179235]]'
+- '[[_Standards/WikiData/WD~transcendental_philosophy,1931281]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~idealism,33442]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Bernard_Bolzano,184735]]'
-  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
-  - '[[_Standards/WikiData/WD~Franz_Brentano,57196]]'
-  - '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
-  - '[[_Standards/WikiData/WD~Gottlob_Frege,60028]]'
-  - '[[_Standards/WikiData/WD~Theodor_Lipps,61970]]'
+- '[[_Standards/WikiData/WD~Bernard_Bolzano,184735]]'
+- '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+- '[[_Standards/WikiData/WD~Franz_Brentano,57196]]'
+- '[[_Standards/WikiData/WD~Carl_Stumpf,57497]]'
+- '[[_Standards/WikiData/WD~Gottlob_Frege,60028]]'
+- '[[_Standards/WikiData/WD~Theodor_Lipps,61970]]'
 given_name: '[[_Standards/WikiData/WD~Q401836,401836]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Heidelberg_Academy_for_Sciences_and_Humanities,833738]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Heidelberg_Academy_for_Sciences_and_Humanities,833738]]'
 place_of_birth: '[[_Standards/WikiData/WD~Prostějov,470445]]'
 movement: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
 time_period: '[[_Standards/WikiData/WD~20th_century_philosophy,1262192]]'
 archives_at: '[[_Standards/WikiData/WD~Higher_Institute_of_Philosophy,2278047]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Logical_Investigations,3421975]]'
-  - '[[_Standards/WikiData/WD~legitimacy,13429922]]'
+- '[[_Standards/WikiData/WD~Logical_Investigations,3421975]]'
+- '[[_Standards/WikiData/WD~legitimacy,13429922]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-  - '[[_Standards/WikiData/WD~REGO,125023568]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~REGO,125023568]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 sibling: '[[_Standards/WikiData/WD~Heinrich_Husserl,42015103]]'
@@ -101,8 +132,8 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Europeana_entity: agent/base/194
 Regensburg_Classification:
-  - BF 6010
-  - CI 3000
+- BF 6010
+- CI 3000
 Krugosvet_article: gumanitarnye_nauki/filosofiya/GUSSERL_EDMUND.html
 Libris_URI: nl023v6645n6ljb
 name_in_native_language: Edmund Gustav Albrecht Husserl
@@ -113,15 +144,104 @@ BHCL_UUID: 15f32a3b-012e-43ed-8601-928b759f6d8b
 PhilPapers_topic: edmund-husserl
 date_of_death: 1938-04-27T00:00:00Z
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Husserl.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Edmund%20Husserl-Universit%C3%A4t%20Freiburg.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Husserl.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Edmund%20Husserl-Universit%C3%A4t%20Freiburg.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Husserl%201910s.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grabmal%20Edmund%20Husserl%20Freiburg%20G%C3%BCnterstal.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Husserl%20signature.svg
 ISNI: 0000000121302460
 NLC_authorities: 000154718
+dv_has_:
+  name_:
+    af: Edmund Husserl
+    am: ኤድመንድ ሁሠርል
+    ar: إدموند هوسرل
+    arz: ادموند هوسرل
+    ast: Edmund Husserl
+    az: Edmund Husserl
+    be: Эдмунд Гусерль
+    be-tarask: Эдмунд Гусэрль
+    bg: Едмунд Хусерл
+    br: Edmund Husserl
+    bs: Edmund Husserl
+    ca: Edmund Husserl
+    ckb: ئێتمونت ھووسرڵ
+    cs: Edmund Husserl
+    cy: Edmund Husserl
+    da: Edmund Husserl
+    de: Edmund Husserl
+    el: Έντμουντ Χούσερλ
+    en: Edmund Husserl
+    eo: Edmund Husserl
+    es: Edmund Husserl
+    et: Edmund Husserl
+    eu: Edmund Husserl
+    fa: ادموند هوسرل
+    fi: Edmund Husserl
+    fr: Edmund Husserl
+    ga: Edmund Husserl
+    gl: Edmund Husserl
+    he: אדמונד הוסרל
+    hi: एडमंड हुसर्ल
+    hr: Edmund Husserl
+    hu: Edmund Husserl
+    hy: Էդմունդ Հուսերլ
+    id: Edmund Husserl
+    io: Edmund Husserl
+    is: Edmund Husserl
+    it: Edmund Husserl
+    ja: エトムント・フッサール
+    jv: Edmund Husserl
+    ka: ედმუნდ ჰუსერლი
+    kk: Эдмунд Гуссерль
+    ko: 에드문트 후설
+    ky: Эдмунд Гуссерль
+    la: Edmundus Husserl
+    lt: Edmundas Huserlis
+    lv: Edmunds Huserls
+    lzh: 埃德蒙德·胡塞爾
+    mg: Edmund Husserl
+    mk: Едмунд Хусерл
+    ms: Edmund Husserl
+    nb: Edmund Husserl
+    nds: Edmund Husserl
+    new: एडमन्ड गुस्ताभ अल्ब्रेक्ट हुसर्त
+    nl: Edmund Husserl
+    nn: Edmund Husserl
+    oc: Edmund Husserl
+    pa: ਐਡਮੰਡ ਹਸਰਲ
+    pap: Edmund Husserl
+    pl: Edmund Husserl
+    ps: اډمنډ هسل
+    pt: Edmund Husserl
+    pt-br: Edmund Husserl
+    ro: Edmund Husserl
+    ru: Эдмунд Густав Альбрехт Гуссерль
+    sco: Edmund Husserl
+    sh: Edmund Husserl
+    sk: Edmund Husserl
+    sl: Edmund Husserl
+    sq: Edmund Husserl
+    sr: Едмунд Хусерл
+    stq: Edmund Husserl
+    sv: Edmund Husserl
+    tg: Эдмунд Ҳуссерл
+    th: เอ็ทมุนท์ ฮุสเซิร์ล
+    tr: Edmund Husserl
+    tt: Эдмунд Густав Альбрехт Гуссерль
+    uk: Едмунд Гуссерль
+    uz: Gusserl Edmund
+    vi: Edmund Husserl
+    war: Edmund Husserl
+    wuu: 埃德蒙德·胡塞尔
+    xmf: ედმუნდ ჰუსერლი
+    yo: Edmund Husserl
+    yue: 愛德蒙·胡沙勞
+    zh: 埃德蒙德·胡塞爾
+    zh-cn: 埃德蒙德·胡塞尔
+    zh-hans: 埃德蒙·胡塞尔
+    zh-hk: 愛德蒙·胡塞爾
 ---
-
 # [[Husserl,Edmund]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Edmund_Husserl,58586|WD~Edmund_Husserl,58586]] 

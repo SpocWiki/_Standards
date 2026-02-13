@@ -1,73 +1,103 @@
 ---
 aliases:
-  - Henry_Fonda
-  - Henry Jaynes Fonda
-  - Henry Fonda
-  - Fonda
-  - Fonda,Henry
+- Fonda
+- Fonda,Henry
+- Henri Fonda
+- Henricus Fonda
+- Henrijs Fonda
+- Henry Fonda
+- Henry Jaynes Fonda
+- Henry_Fonda
+- Χένρι Φόντα
+- Генрі Фонда
+- Генри Фонда
+- Генры Фонда
+- Гэнры Фонда
+- Хенри Фонда
+- Հենրի Ֆոնդա
+- הנרי פונדה
+- هنرى فوندا
+- هنري فوندا
+- هنری فوندا
+- ھێنری فۆندا
+- ہنری فونڈا
+- हेनरी फोंडा
+- हेन्री जेन्स फोंडा
+- হেনরি ফন্ডা
+- ਹੈਨਰੀ ਫੋਂਡਾ
+- ஹென்றி ஃபோன்டா
+- హెన్రీ ఫోండా
+- හෙන්රි ෆොන්ඩා
+- เฮนรี ฟอนดา
+- ჰენრი ფონდა
+- ヘンリー・フォンダ
+- 亨利·方达
+- 亨利·方達
+- 亨利方達
+- 헨리 폰다
 has_id_wikidata: Q19155
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
-  - '[[_Standards/WikiData/WD~Eagle_Scout,3046356]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]'
-  - '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Foreign_Actor,114267430]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
+- '[[_Standards/WikiData/WD~Eagle_Scout,3046356]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Foreign_Actor,114267430]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~fantasy_film,157394]]'
-  - '[[_Standards/WikiData/WD~comedy_film,157443]]'
-  - '[[_Standards/WikiData/WD~Western_film,172980]]'
-  - '[[_Standards/WikiData/WD~film_noir,185867]]'
-  - '[[_Standards/WikiData/WD~action_film,188473]]'
-  - '[[_Standards/WikiData/WD~Spaghetti_Western,212781]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~war_film,369747]]'
-  - '[[_Standards/WikiData/WD~crime_film,959790]]'
-  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
-  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~fantasy_film,157394]]'
+- '[[_Standards/WikiData/WD~comedy_film,157443]]'
+- '[[_Standards/WikiData/WD~Western_film,172980]]'
+- '[[_Standards/WikiData/WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~Spaghetti_Western,212781]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~crime_film,959790]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
 occupation:
-  - '[[_Standards/WikiData/WD~military_officer,189290]]'
-  - '[[_Standards/WikiData/WD~television_producer,578109]]'
-  - '[[_Standards/WikiData/WD~beekeeper,852389]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~beekeeper,852389]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_disease,190805]]'
 child:
-  - '[[_Standards/WikiData/WD~Peter_Fonda,210148]]'
-  - '[[_Standards/WikiData/WD~Jane_Fonda,41142]]'
+- '[[_Standards/WikiData/WD~Peter_Fonda,210148]]'
+- '[[_Standards/WikiData/WD~Jane_Fonda,41142]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~acting,222749]]'
-  - '[[_Standards/WikiData/WD~filmmaking,932586]]'
-  - '[[_Standards/WikiData/WD~television,289]]'
-  - '[[_Standards/WikiData/WD~film,11424]]'
-  - '[[_Standards/WikiData/WD~theatre_art,11635]]'
+- '[[_Standards/WikiData/WD~acting,222749]]'
+- '[[_Standards/WikiData/WD~filmmaking,932586]]'
+- '[[_Standards/WikiData/WD~television,289]]'
+- '[[_Standards/WikiData/WD~film,11424]]'
+- '[[_Standards/WikiData/WD~theatre_art,11635]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Margaret_Sullavan,238036]]'
-  - '[[_Standards/WikiData/WD~Afdera_Franchetti,4688829]]'
-  - '[[_Standards/WikiData/WD~Susan_Blanchard,7302441]]'
-  - '[[_Standards/WikiData/WD~Frances_Ford_Seymour,10961701]]'
-  - '[[_Standards/WikiData/WD~Shirley_Maye_Adams,75619327]]'
+- '[[_Standards/WikiData/WD~Margaret_Sullavan,238036]]'
+- '[[_Standards/WikiData/WD~Afdera_Franchetti,4688829]]'
+- '[[_Standards/WikiData/WD~Susan_Blanchard,7302441]]'
+- '[[_Standards/WikiData/WD~Frances_Ford_Seymour,10961701]]'
+- '[[_Standards/WikiData/WD~Shirley_Maye_Adams,75619327]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
-  - '[[_Standards/WikiData/WD~Omaha_Central_High_School,7089410]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~Omaha_Central_High_School,7089410]]'
 place_of_birth: '[[_Standards/WikiData/WD~Grand_Island,461826]]'
 given_name: '[[_Standards/WikiData/WD~Henry,1158477]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~lieutenant_(junior_grade),1824398]]'
@@ -101,8 +131,111 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Fonda%20in%20W
 ISNI: 0000000120968690
 U_S_National_Archives_Identifier: 10568571
 Plex_person_key: 5d776826103a2d001f563f4e
+dv_has_:
+  name_:
+    af: Henry Fonda
+    an: Henry Fonda
+    ar: هنري فوندا
+    arz: هنرى فوندا
+    ast: Henry Fonda
+    az: Henri Fonda
+    azb: هنری فوندا
+    ba: Генри Фонда
+    be: Генры Фонда
+    be-tarask: Гэнры Фонда
+    bg: Хенри Фонда
+    bi: Henry Fonda
+    bn: হেনরি ফন্ডা
+    br: Henry Fonda
+    bs: Henry Fonda
+    ca: Henry Fonda
+    ckb: ھێنری فۆندا
+    cs: Henry Fonda
+    cy: Henry Fonda
+    da: Henry Fonda
+    de: Henry Fonda
+    ee: Henry Fonda
+    el: Χένρι Φόντα
+    en: Henry Fonda
+    en-ca: Henry Fonda
+    en-gb: Henry Fonda
+    eo: Henry Fonda
+    es: Henry Fonda
+    et: Henry Fonda
+    eu: Henry Fonda
+    ext: Henry Fonda
+    fa: هنری فوندا
+    fi: Henry Fonda
+    fr: Henry Fonda
+    fy: Henry Fonda
+    ga: Henry Fonda
+    gl: Henry Fonda
+    ha: Henry Fonda
+    he: הנרי פונדה
+    hi: हेनरी फोंडा
+    hif: Henry Fonda
+    hr: Henry Fonda
+    hu: Henry Fonda
+    hy: Հենրի Ֆոնդա
+    id: Henry Fonda
+    ig: Henry Fonda
+    ilo: Henry Fonda
+    io: Henry Fonda
+    it: Henry Fonda
+    ja: ヘンリー・フォンダ
+    jv: Henry Fonda
+    ka: ჰენრი ფონდა
+    ko: 헨리 폰다
+    ku: Henry Fonda
+    la: Henricus Fonda
+    lb: Henry Fonda
+    lfn: Henry Fonda
+    lv: Henrijs Fonda
+    mg: Henry Fonda
+    mk: Хенри Фонда
+    mr: हेन्री जेन्स फोंडा
+    mul: Henry Fonda
+    nan: Henry Fonda
+    nb: Henry Fonda
+    nl: Henry Fonda
+    nn: Henry Fonda
+    oc: Henry Fonda
+    pa: ਹੈਨਰੀ ਫੋਂਡਾ
+    pl: Henry Fonda
+    pms: Henry Fonda
+    pt: Henry Fonda
+    pt-br: Henry Fonda
+    qu: Henry Fonda
+    ro: Henry Fonda
+    ru: Генри Фонда
+    sco: Henry Fonda
+    sh: Henry Fonda
+    si: හෙන්රි ෆොන්ඩා
+    sk: Henry Fonda
+    sl: Henry Fonda
+    sq: Henry Fonda
+    sr: Хенри Фонда
+    sv: Henry Fonda
+    sw: Henry Fonda
+    ta: ஹென்றி ஃபோன்டா
+    te: హెన్రీ ఫోండా
+    th: เฮนรี ฟอนดา
+    tl: Henry Fonda
+    tr: Henry Fonda
+    uk: Генрі Фонда
+    ur: ہنری فونڈا
+    uz: Henry Fonda
+    vi: Henry Fonda
+    vo: Henry Fonda
+    war: Henry Fonda
+    wuu: 亨利·方达
+    xmf: ჰენრი ფონდა
+    yo: Henry Fonda
+    yue: 亨利方達
+    zh: 亨利·方达
+    zh-hans: 亨利·方达
+    zh-hant: 亨利·方達
 ---
-
 # [[Fonda,Henry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Henry_Fonda,19155|WD~Henry_Fonda,19155]] 

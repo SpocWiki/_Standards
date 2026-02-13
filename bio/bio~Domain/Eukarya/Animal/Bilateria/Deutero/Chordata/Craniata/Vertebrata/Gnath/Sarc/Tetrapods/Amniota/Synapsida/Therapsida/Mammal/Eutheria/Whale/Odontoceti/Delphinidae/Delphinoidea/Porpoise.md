@@ -1,12 +1,68 @@
 ---
 aliases:
-  - Phocoenidae
-  - Porpoise
-  - Porpoises
-  - Pyöriäiset
-  - nisefamilien
-  - rjave pliskavke
-  - พอร์พอยส์
+- Aferrun
+- bruinvissen
+- cūkdelfīnu dzimta
+- disznódelfinfélék
+- Dunter
+- Dəniz donuzları
+- Focenedoj
+- Focénidos
+- Fosena
+- gepenoleem
+- Họ Cá heo chuột
+- Jūrų kiaulės
+- Llamhidydd
+- marsopa
+- marsouin
+- Marsuini
+- Marsuino
+- Marsvin-familien
+- Morhoc'h
+- Morhogh
+- morświnowate
+- muc mhara
+- Mumua
+- Musurgiller
+- nisefamilien
+- niser
+- Peileag
+- Phocoenidae
+- Pliskavice
+- pliskavka
+- porpois
+- Porpoise
+- Porpoises
+- Pringellased
+- Pyöriäiset
+- rjave pliskavke
+- Schweinswale
+- sviňuchovití
+- Swinswaalen
+- Tumlare
+- Tééh hóyáanii
+- Марскія свінні
+- Марскія сьвіньні
+- морски свињи
+- морски свине
+- морские свиньи
+- Тинӗс сыснисем
+- Фоценові
+- Ծովային խոզեր
+- פוקניים
+- الحلوف المائي
+- خنازير بحرية
+- خنازير بحريه
+- گرازماهی
+- शिंशुक
+- शिशुमार
+- கடற்பன்றி
+- പോർപോയിസ്
+- พอร์พอยส์
+- ເດິນຟິນໜູ
+- ネズミイルカ科
+- 鼠海豚科
+- 쇠돌고래과
 has_id_wikidata: Q10867
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681647,25681647]]'
@@ -18,20 +74,105 @@ OmegaWiki_Defined_Meaning: 1210547
 Commons_category: Phocoenidae
 taxon_name: Phocoenidae
 taxon_common_name:
-  - Porpoises
-  - Pyöriäiset
-  - nisefamilien
-  - rjave pliskavke
-  - พอร์พอยส์
+- Porpoises
+- Pyöriäiset
+- nisefamilien
+- rjave pliskavke
+- พอร์พอยส์
 ITIS_TSN: 552307
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Harbor.Porpoise.4.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Porpoise%20042.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Harbor.Porpoise.4.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Porpoise%20042.jpg
 MeSH_tree_code: B01.050.150.900.649.313.875.566
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/MORSKIE_SVINI.html
 NBN_System_Key: NHMSYS0000376175
+dv_has_:
+  name_:
+    ar: خنازير بحرية
+    arq: الحلوف المائي
+    arz: خنازير بحريه
+    ast: Phocoenidae
+    avk: gepenoleem
+    az: Dəniz donuzları
+    ban: Porpoise
+    bcl: Porpoise
+    be: Марскія свінні
+    be-tarask: Марскія сьвіньні
+    bg: морски свине
+    br: Morhoc'h
+    ca: marsopa
+    ceb: Phocoenidae
+    cs: sviňuchovití
+    cv: Тинӗс сыснисем
+    cy: Llamhidydd
+    da: Marsvin-familien
+    de: Schweinswale
+    en: porpoise
+    eo: Focenedoj
+    es: Phocoenidae
+    et: Pringellased
+    eu: Phocoenidae
+    fa: گرازماهی
+    fi: pyöriäiset
+    fr: marsouin
+    frr: Swinswaalen
+    ga: muc mhara
+    gd: Peileag
+    gl: Focénidos
+    he: פוקניים
+    hi: शिशुमार
+    hr: Pliskavice
+    hu: disznódelfinfélék
+    hy: Ծովային խոզեր
+    ia: Phocoenidae
+    id: Phocoenidae
+    io: Marsuino
+    it: Phocoenidae
+    ja: ネズミイルカ科
+    kab: Aferrun
+    ko: 쇠돌고래과
+    kw: Morhogh
+    la: Phocoenidae
+    lfn: Fosena
+    lo: ເດິນຟິນໜູ
+    lt: Jūrų kiaulės
+    lv: cūkdelfīnu dzimta
+    mk: морски свињи
+    ml: പോർപോയിസ്
+    mr: शिंशुक
+    ms: porpois
+    mul: Phocoenidae
+    nb: niser
+    ne: शिंशुक
+    nl: bruinvissen
+    nn: nisefamilien
+    nv: Tééh hóyáanii
+    pl: morświnowate
+    pt: porpoise
+    ro: Phocoenidae
+    ru: морские свиньи
+    sco: Dunter
+    sh: Pliskavice
+    sk: Phocoenidae
+    sl: pliskavka
+    sm: Mumua
+    sq: Marsuini
+    sr: Pliskavice
+    sv: Tumlare
+    ta: கடற்பன்றி
+    th: พอร์พอยส์
+    tl: Phocoenidae
+    tr: Musurgiller
+    uk: Фоценові
+    vi: Họ Cá heo chuột
+    war: Phocoenidae
+    wuu: 鼠海豚科
+    yue: 鼠海豚科
+    zh: 鼠海豚科
+    zh-cn: 鼠海豚科
+    zh-hans: 鼠海豚科
+    zh-tw: 鼠海豚科
 ---
-
 # [[Porpoise]] 
 
 #is_/same_as :: [[WD~Porpoise,10867]] 

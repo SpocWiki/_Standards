@@ -1,16 +1,87 @@
 ---
 aliases:
+- Delfiinoortagen
+- Delfinartige
+- Delfinoideos
+- delfinoïdeus
+- Delfīnu virsdzimta
+- Delphinoidea
+- делфини
+- דולפינים
+- دلافين
+- دلفينيات وأشباهها
+- دلفینواران
+- マイルカ上科
+- 海豚总科
+- 海豚總科
+- 참돌고래상과
 has_id_wikidata: Q1139670
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-parent_taxon: "[[_Standards/WikiData/WD~Delphinida,21219068]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Delphinoidea,107310791]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "204920"
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
+parent_taxon: '[[_Standards/WikiData/WD~Delphinida,21219068]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Delphinoidea,107310791]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 204920
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20delphis%20with%20calf.jpg
 taxon_name: Delphinoidea
 start_time: -28000000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Delphinoidea
+    ar: دلفينيات وأشباهها
+    arz: دلافين
+    ast: Delphinoidea
+    be-tarask: Delphinoidea
+    bg: Delphinoidea
+    ca: delfinoïdeus
+    ceb: Delphinoidea
+    cs: Delphinoidea
+    de: Delfinartige
+    el: Delphinoidea
+    en: Delphinoidea
+    eo: Delphinoidea
+    es: Delphinoidea
+    eu: Delphinoidea
+    ext: Delphinoidea
+    fa: دلفینواران
+    fi: Delphinoidea
+    fr: Delphinoidea
+    frr: Delfiinoortagen
+    ga: Delphinoidea
+    gl: Delfinoideos
+    he: דולפינים
+    hu: Delphinoidea
+    ia: Delphinoidea
+    id: Delphinoidea
+    ie: Delphinoidea
+    io: Delphinoidea
+    it: Delphinoidea
+    ja: マイルカ上科
+    ko: 참돌고래상과
+    la: Delphinoidea
+    lv: Delfīnu virsdzimta
+    mk: делфини
+    mul: Delphinoidea
+    nl: Delphinoidea
+    oc: Delphinoidea
+    pl: Delphinoidea
+    pt: Delphinoidea
+    pt-br: Delphinoidea
+    ro: Delphinoidea
+    ru: Delphinoidea
+    sco: Delphinoidea
+    sl: Delphinoidea
+    sq: Delphinoidea
+    sv: Delphinoidea
+    tr: Delphinoidea
+    uk: Delphinoidea
+    vi: Delphinoidea
+    vo: Delphinoidea
+    war: Delphinoidea
+    zh: 海豚总科
+    zh-cn: 海豚总科
+    zh-hans: 海豚总科
+    zh-tw: 海豚總科
 ---
-
 # [[Delphinoidea]] 
 
 #is_/same_as :: [[WD~Delphinoidea,1139670]]

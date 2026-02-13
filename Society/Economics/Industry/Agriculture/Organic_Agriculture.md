@@ -1,24 +1,196 @@
 ---
 aliases:
+- agricoltura biologica
+- Agricoûteure biyolodjike
+- agricultura ecològica
+- agricultura ecológica
+- Agricultura ecolóxica
+- Agricultura organica
+- agricultura orgânica
+- agriculture biologique
+- Agriculture biologjiche
+- Agricultură organică
+- ahuwhenua māori
+- Bio büürerei
+- biogazdálkodás
+- biologische landbouw
+- Biologyske lânbou
+- bioloģiskā lauksaimniecība
+- ekologia agrikulturo
+- Ekologické poľnohospodárstvo
+- ekologické zemědělství
+- Ekologinė žemdirbystė
+- ekologiskt jordbruk
+- Ekološka poljoprivreda
+- ekološko kmetijstvo
+- feirmeoireacht orgánach
+- Iú-ki lông-gia̍p
+- labour-douar organek
+- lejʉ̄ʼ ŋ́gɔ̄ŋ pɔ́ afho zi afhɔ anɛ elʉʉ kūp etsō
+- luomuviljely
+- lìsal ŋwɔ̌m
+- mahepõllumajandus
+- Nekazaritza ekologiko
+- new farming methods
+- Noman Asali
+- Nông nghiệp hữu cơ
+- organic agriculture
+- Organiese landbou
+- Organik dehqonchilik
+- Organik tarım
+- Organska poljoprivreda
+- Pertanian organik
+- Prodhimet organike
+- Rolnictwo ekologiczne
+- Çandiniya organîk
+- ökologische Landwirtschaft
+- økologisk landbrug
+- Økologisk landbruk
+- Βιολογική καλλιέργεια
+- арганічнае земляробства
+- арганічная сельская гаспадарка
+- Биоземеделие
+- органічне виробництво
+- Органик хөдөө аж ахуй
+- Органикалык айыл чарба
+- Органическое сельское хозяйство
+- органска пољопривреда
+- Органско земјоделство
+- Օրգանական գյուղատնտեսություն
+- חקלאות אורגנית
+- زراعة عضوية
+- عضوي کرنه (د ژوندۍ مادې اړونده کرنه)
+- كشتوكالى ئةندامى
+- ڤرتانين اورݢانيک
+- کشاورزی آلی
+- जैविक खेती
+- सेंद्रिय शेती
+- জৈব খামার ব্যবস্থা
+- জৈৱিক কৃষি
+- ਜੈਵਿਕ ਖੇਤੀ
+- இயற்கை வேளாண்மை
+- ಸಾವಯವ ಬೇಸಾಯ
+- ജൈവകൃഷി
+- කාබනික ගොවිතැන්කරණය
+- เกษตรอินทรีย์
+- အော်ဂဲနစ်
+- ბიოწარმოება
+- Ọrụ ugbo na-emepụta ihe
+- 有机农业
+- 有機耕作
+- 有機農業
+- 유기농
 has_id_wikidata: Q165647
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~method,1799072]]"
-uses: "[[_Standards/WikiData/WD~organic_fertilizer,539815]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~method,1799072]]'
+uses: '[[_Standards/WikiData/WD~organic_fertilizer,539815]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sustainable_agriculture,2751054]]"
-  - "[[_Standards/WikiData/WD~ecological_farming,17074184]]"
+- '[[_Standards/WikiData/WD~sustainable_agriculture,2751054]]'
+- '[[_Standards/WikiData/WD~ecological_farming,17074184]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-OmegaWiki_Defined_Meaning: "2663"
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+OmegaWiki_Defined_Meaning: 2663
 Library_of_Congress_Classification: S605.5
 Commons_gallery: Organic farming
 Commons_category: Organic farming
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Organic-vegetable-cultivation.jpeg
 MeSH_tree_code: J01.040.895
+dv_has_:
+  name_:
+    af: Organiese landbou
+    ar: زراعة عضوية
+    as: জৈৱিক কৃষি
+    ast: Agricultura ecolóxica
+    bas: lìsal ŋwɔ̌m
+    be: арганічная сельская гаспадарка
+    be-tarask: арганічнае земляробства
+    bg: Биоземеделие
+    bn: জৈব খামার ব্যবস্থা
+    br: labour-douar organek
+    ca: agricultura ecològica
+    ckb: كشتوكالى ئةندامى
+    cs: ekologické zemědělství
+    da: økologisk landbrug
+    de: ökologische Landwirtschaft
+    el: Βιολογική καλλιέργεια
+    en: organic agriculture
+    eo: ekologia agrikulturo
+    es: agricultura ecológica
+    et: mahepõllumajandus
+    eu: Nekazaritza ekologiko
+    fa: کشاورزی آلی
+    fi: luomuviljely
+    fr: agriculture biologique
+    frr: Bio büürerei
+    fur: Agriculture biologjiche
+    fy: Biologyske lânbou
+    ga: feirmeoireacht orgánach
+    gl: Agricultura ecolóxica
+    ha: Noman Asali
+    he: חקלאות אורגנית
+    hi: जैविक खेती
+    hr: Ekološka poljoprivreda
+    hu: biogazdálkodás
+    hy: Օրգանական գյուղատնտեսություն
+    id: Pertanian organik
+    ig: Ọrụ ugbo na-emepụta ihe
+    it: agricoltura biologica
+    ja: 有機農業
+    ka: ბიოწარმოება
+    kn: ಸಾವಯವ ಬೇಸಾಯ
+    ko: 유기농
+    ku: Çandiniya organîk
+    ky: Органикалык айыл чарба
+    la: Agricultura organica
+    lt: Ekologinė žemdirbystė
+    lv: bioloģiskā lauksaimniecība
+    mi: ahuwhenua māori
+    mk: Органско земјоделство
+    ml: ജൈവകൃഷി
+    mn: Органик хөдөө аж ахуй
+    mr: सेंद्रिय शेती
+    ms: pertanian organik
+    ms-arab: ڤرتانين اورݢانيک
+    my: အော်ဂဲနစ်
+    nan: Iú-ki lông-gia̍p
+    nb: Økologisk landbruk
+    ne: जैविक खेती
+    nl: biologische landbouw
+    pa: ਜੈਵਿਕ ਖੇਤੀ
+    pl: Rolnictwo ekologiczne
+    ps: عضوي کرنه (د ژوندۍ مادې اړونده کرنه)
+    pt: agricultura orgânica
+    rki: အော်ဂဲနစ်
+    ro: Agricultură organică
+    ru: Органическое сельское хозяйство
+    sh: Organska poljoprivreda
+    si: කාබනික ගොවිතැන්කරණය
+    sk: Ekologické poľnohospodárstvo
+    sl: ekološko kmetijstvo
+    sq: Prodhimet organike
+    sr: органска пољопривреда
+    sv: ekologiskt jordbruk
+    ta: இயற்கை வேளாண்மை
+    te: new farming methods
+    th: เกษตรอินทรีย์
+    tr: Organik tarım
+    uk: органічне виробництво
+    uz: Organik dehqonchilik
+    vi: Nông nghiệp hữu cơ
+    wa: Agricoûteure biyolodjike
+    wuu: 有機農業
+    ybb: lejʉ̄ʼ ŋ́gɔ̄ŋ pɔ́ afho zi afhɔ anɛ elʉʉ kūp etsō
+    yue: 有機耕作
+    zh: 有機農業
+    zh-cn: 有机农业
+    zh-hans: 有机农业
+    zh-hant: 有機農業
+    zh-hk: 有機農業
+    zh-sg: 有机农业
+    zh-tw: 有機農業
 ---
-
 # [[Organic_Agriculture]] 
 
 #is_/same_as :: [[WD~Organic_agriculture,165647]] 

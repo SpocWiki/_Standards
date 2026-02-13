@@ -1,32 +1,251 @@
 ---
 aliases:
+- arbeidsledighet
+- arbeidsløyse
+- Arbeitslosigkeit
+- arbejdsløshed
+- arbetslöshet
+- atur
+- ature
+- atvinnuleysi
+- bargguhisvuohta
+- bargodisvuohta
+- bezdarbs
+- bezrobocie
+- brezposelnost
+- caumatge
+- Chomaj
+- chomeso
+- chômage
+- cion-cosnaidh
+- Desemplegu
+- desempleo
+- desemprego
+- dilabour
+- disoccupazione
+- disuccupazzioni
+- diweithdra
+- dífhostaíocht
+- enweghị ọrụ
+- inopia operarum
+- ishsizlik
+- kawalang trabaho
+- langabezia
+- mee-staartaght
+- munkanélküliség
+- nedarbas
+- nenvob
+- nezamestnanosť
+- nezaměstnanost
+- nezaposlenost
+- Nganggur
+- Pangangguran
+- papunësia
+- pargottesvuotâ
+- Pengangguran
+- reâuǥteʹmesvuõtt
+- senlaboreco
+- Shaqo la'aan
+- Sit-gia̍p
+- Tchômaedje
+- Thất nghiệp
+- työttömyys
+- tööpuudus
+- Ukutlhogeka kwemisebenzi
+- unemployment
+- Weirklôoseid
+- werkloosheid
+- Ĕçсĕрлĕх
+- İşsizlik
+- șomaj
+- ανεργία
+- Ажилгүйдэл
+- безработица
+- Безробітность
+- безробіття
+- Бекорӣ
+- Белхазалла
+- беспрацоўе
+- Жумушсуздук
+- Жұмыссыздық
+- невработеност
+- незапосленост
+- Эшсезлек
+- Эшһеҙлек
+- Үлэтэ суох буолуу
+- Գործազրկություն
+- אבטלה
+- ארבעטסלאזיקײט
+- اثار البطالة
+- ایشسیزلیک
+- بطالة
+- بیروزگاری
+- بیکاری
+- بێکاری
+- شوماج
+- बेकारी
+- बेरोजगारी
+- বেকারত্ব
+- ਬੇਰੁਜ਼ਗਾਰੀ
+- வேலைவாய்ப்பின்மை
+- నిరుద్యోగం
+- ನಿರುದ್ಯೋಗ
+- തൊഴിലില്ലായ്മ
+- การว่างงาน
+- အလုပ်လက်မဲ့ဖြစ်ခြင်း
+- უმუშევრობა
+- ភាសាខែ្មរ
+- 失业
+- 失業
+- 실업
 has_id_wikidata: Q41171
 Commons_category: Unemployment
-Dewey_Decimal_Classification: "331.137"
+Dewey_Decimal_Classification: 331.137
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_characteristic: "[[_Standards/WikiData/WD~unemployment_rate,1787954]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_characteristic: '[[_Standards/WikiData/WD~unemployment_rate,1787954]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~state,3505845]]"
-opposite_of: "[[_Standards/WikiData/WD~employment_opportunities,2266417]]"
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~state,3505845]]'
+opposite_of: '[[_Standards/WikiData/WD~employment_opportunities,2266417]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~psychological_stress,3500368]]"
-  - "[[_Standards/WikiData/WD~poverty,10294]]"
-instance_of: "[[_Standards/WikiData/WD~status,11424100]]"
-practiced_by: "[[_Standards/WikiData/WD~unemployed,28790169]]"
-U_S_National_Archives_Identifier: "10643349"
+- '[[_Standards/WikiData/WD~psychological_stress,3500368]]'
+- '[[_Standards/WikiData/WD~poverty,10294]]'
+instance_of: '[[_Standards/WikiData/WD~status,11424100]]'
+practiced_by: '[[_Standards/WikiData/WD~unemployed,28790169]]'
+U_S_National_Archives_Identifier: 10643349
 described_at_URL: https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0083
 Iconclass_notation: 46A179
 Wolfram_Language_entity_code: Entity["Concept", "Unemployment::5g82w"]
 IPTC_NewsCode: mediatopic/20000533
 MeSH_tree_code: N01.824.245.850
 IMDb_keyword: unemployment
+dv_has_:
+  name_:
+    af: werkloosheid
+    an: ature
+    ar: بطالة
+    ary: شوماج
+    ast: Desemplegu
+    az: İşsizlik
+    azb: ایشسیزلیک
+    ba: Эшһеҙлек
+    ban: Nganggur
+    be: беспрацоўе
+    be-tarask: беспрацоўе
+    bg: Безработица
+    bho: बेरोजगारी
+    bn: বেকারত্ব
+    br: dilabour
+    bs: nezaposlenost
+    ca: atur
+    ce: Белхазалла
+    ckb: بێکاری
+    cs: nezaměstnanost
+    cv: Ĕçсĕрлĕх
+    cy: diweithdra
+    da: arbejdsløshed
+    de: Arbeitslosigkeit
+    el: ανεργία
+    en: unemployment
+    en-ca: unemployment
+    en-gb: unemployment
+    eo: senlaboreco
+    es: desempleo
+    et: tööpuudus
+    eu: langabezia
+    fa: بیکاری
+    fi: työttömyys
+    fr: chômage
+    ga: dífhostaíocht
+    gd: cion-cosnaidh
+    gl: desemprego
+    gv: mee-staartaght
+    he: אבטלה
+    hi: बेकारी
+    hr: nezaposlenost
+    ht: Chomaj
+    hu: munkanélküliség
+    hy: Գործազրկություն
+    ia: desempleo
+    id: Pengangguran
+    ig: enweghị ọrụ
+    io: chomeso
+    is: atvinnuleysi
+    it: disoccupazione
+    ja: 失業
+    ka: უმუშევრობა
+    kab: اثار البطالة
+    kk: Жұмыссыздық
+    km: ភាសាខែ្មរ
+    kn: ನಿರುದ್ಯೋಗ
+    ko: 실업
+    ky: Жумушсуздук
+    la: inopia operarum
+    lt: nedarbas
+    lv: bezdarbs
+    min: Pangangguran
+    mk: невработеност
+    ml: തൊഴിലില്ലായ്മ
+    mn: Ажилгүйдэл
+    mr: बेरोजगारी
+    ms: pengangguran
+    my: အလုပ်လက်မဲ့ဖြစ်ခြင်း
+    nan: Sit-gia̍p
+    nb: arbeidsledighet
+    ne: बेरोजगारी
+    nl: werkloosheid
+    nn: arbeidsløyse
+    nr: Ukutlhogeka kwemisebenzi
+    oc: caumatge
+    pa: ਬੇਰੁਜ਼ਗਾਰੀ
+    pl: bezrobocie
+    pnb: بیروزگاری
+    ps: بیکاری
+    pt: desemprego
+    ro: șomaj
+    ru: безработица
+    rue: Безробітность
+    sah: Үлэтэ суох буолуу
+    scn: disuccupazzioni
+    se: bargguhisvuohta
+    sh: nezaposlenost
+    sje: bargodisvuohta
+    sk: nezamestnanosť
+    sl: brezposelnost
+    smn: pargottesvuotâ
+    sms: reâuǥteʹmesvuõtt
+    so: Shaqo la'aan
+    sq: papunësia
+    sr: незапосленост
+    sr-ec: незапосленост
+    sr-el: nezaposlenost
+    sv: arbetslöshet
+    ta: வேலைவாய்ப்பின்மை
+    te: నిరుద్యోగం
+    tg: Бекорӣ
+    th: การว่างงาน
+    tl: kawalang trabaho
+    tr: İşsizlik
+    tt: Эшсезлек
+    uk: безробіття
+    ur: بیروزگاری
+    uz: ishsizlik
+    vi: Thất nghiệp
+    vls: Weirklôoseid
+    vo: nenvob
+    wa: Tchômaedje
+    wuu: 失业
+    yi: ארבעטסלאזיקײט
+    yue: 失業
+    zh: 失業
+    zh-hans: 失业
+    zh-hant: 失業
+    zh-tw: 失業
 ---
-
 # [[Unemployment]] 
 
 #has_/complement :: [[../Agent/Community/Organization/Company/Employment|Employment]]

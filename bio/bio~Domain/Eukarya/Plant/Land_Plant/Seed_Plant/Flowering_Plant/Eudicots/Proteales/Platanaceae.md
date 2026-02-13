@@ -1,8 +1,110 @@
 ---
 has_id_wikidata: Q171425
+dv_has_:
+  name_:
+    an: Platanaceae
+    ar: دلبية
+    arz: دلبيه
+    ast: Platanaceae
+    az: Çinarkimilər
+    bg: чинарови
+    ca: Platanaceae
+    ceb: Platanaceae
+    cs: platanovité
+    da: Platan-familien
+    de: Platanaceae
+    el: Πλατανοειδή
+    en: Platanaceae
+    eo: Platanacoj
+    es: Platanaceae
+    eu: platanazeo
+    ext: Platanaceae
+    fa: چناریان
+    fi: Plataanikasvit
+    fr: Platanaceae
+    ga: Platanaceae
+    gl: Platanaceae
+    he: משפחת הדלביים
+    hsb: Platanowe rostliny
+    hu: platánfélék
+    hy: սոսազգիներ
+    ia: Platanaceae
+    id: Platanaceae
+    ie: Platanaceae
+    io: Platanaceae
+    it: Platanaceae
+    ja: スズカケノキ科
+    ko: 버즘나무과
+    koi: Платан котыр
+    ku: Famîleya çinaran
+    ku-arab: فامیلەیا چناران
+    ku-latn: Famîleya çinaran
+    la: Platanaceae
+    lt: Plataniniai
+    mk: чинари
+    ml: പ്ലന്റേസി
+    mul: Platanaceae
+    nb: Platan
+    nl: Platanaceae
+    oc: Platanaceae
+    pl: Platanowate
+    pt: Platanaceae
+    pt-br: Platanaceae
+    ro: Platanaceae
+    ru: платановые
+    sk: platanovité
+    sl: platanovke
+    sq: Platanaceae
+    sr: Platanaceae
+    sr-ec: Platanaceae
+    sr-el: Platanaceae
+    tr: Çınargiller
+    uk: Platanaceae
+    vi: Họ Tiêu huyền
+    vo: Platanaceae
+    war: Platanaceae
+    yue: 懸鈴木科
+    zh: 悬铃木科
+    zh-cn: 悬铃木科
+    zh-hans: 悬铃木科
+    zh-hant: 懸鈴木科
+    zh-hk: 懸鈴木科
+    zh-sg: 悬铃木科
+    zh-tw: 懸鈴木科
+aliases:
+- Famîleya çinaran
+- Họ Tiêu huyền
+- Plataanikasvit
+- Platan
+- Platan-familien
+- Platanaceae
+- Platanacoj
+- platanazeo
+- Plataniniai
+- platanovité
+- platanovke
+- Platanowate
+- Platanowe rostliny
+- platánfélék
+- Çinarkimilər
+- Çınargiller
+- Πλατανοειδή
+- Платан котыр
+- платановые
+- чинари
+- чинарови
+- սոսազգիներ
+- משפחת הדלביים
+- دلبية
+- دلبيه
+- فامیلەیا چناران
+- چناریان
+- പ്ലന്റേസി
+- スズカケノキ科
+- 悬铃木科
+- 懸鈴木科
+- 버즘나무과
 ---
-
-
 # [[Platanaceae]] 
 
 #is_/same_as :: 

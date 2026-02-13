@@ -1,8 +1,192 @@
 ---
 has_id_wikidata: Q131138
+dv_has_:
+  name_:
+    ar: مزحة
+    arz: نكته
+    as: কৌতুক
+    ast: Chiste
+    ay: Larusiña yatiyäwi
+    az: Lətifə
+    bar: Witz
+    bcl: Suba
+    be: жарт
+    be-tarask: жарт
+    bg: Виц
+    bn: রসিকতা
+    bo: བསྟན་བཤིག
+    bs: Vic
+    ca: acudit
+    cs: vtip
+    cv: Месек
+    da: vittighed
+    de: Witz
+    de-ch: Witz
+    el: αστείο
+    en: joke
+    en-ca: Joke
+    en-gb: joke
+    eo: ŝerco
+    es: chiste
+    et: Nali
+    eu: izkirimiri
+    fa: لطیفه
+    fi: vitsi
+    fr: blague
+    fy: Grap
+    ha: Wargi
+    he: בדיחה
+    hi: चुटकुला
+    hr: šala
+    hsb: žort
+    hu: vicc
+    hy: կատակ
+    id: Lelucon
+    is: Brandari
+    it: barzelletta
+    ja: ジョーク
+    kk: Әзіл-оспақ
+    ko: 농담
+    la: iocus
+    lt: Anekdotas
+    lv: joks
+    mk: шега
+    mn: Онигоо
+    mr: चुटकुले
+    ms: lawak
+    mt: ċajta
+    nan: Chhiò-khoe
+    nb: vits
+    ne: चुटकिला
+    nl: grap
+    nn: vits
+    pa: ਮਜ਼ਾਕ
+    pl: dowcip
+    pnb: لطیفہ
+    pt: piada
+    pt-br: Piada
+    qu: Asina
+    ro: banc
+    ru: шутка
+    rue: Фіґель
+    sd: لطيفو
+    sgs: Joukā
+    sh: Šala
+    sk: Vtip
+    sl: šala
+    sn: Jeye
+    so: Kaftan
+    sq: Libra e Barcoletave
+    sr: шала
+    sr-ec: Шала
+    sr-el: Šala
+    sv: skämt
+    sw: Utani
+    te: ఛలోక్తి
+    tg: Латифа
+    th: มุกตลก
+    tk: Degişme
+    tl: Biro
+    tr: fıkra
+    uk: Жарт
+    ur: لطیفہ
+    uz: Hazil
+    vi: truyện cười
+    vls: Klucht
+    wa: Couyonåde
+    war: Ti'aw
+    wuu: 笑话
+    yi: וויץ
+    yue: 笑話
+    zh: joke
+    zh-cn: 笑话
+    zh-hans: 笑话
+    zh-hant: joke
+    zh-hk: 笑話
+    zh-sg: 笑话
+    zh-tw: 笑話
+aliases:
+- acudit
+- Anekdotas
+- Asina
+- banc
+- barzelletta
+- Biro
+- blague
+- Brandari
+- Chhiò-khoe
+- chiste
+- Couyonåde
+- Degişme
+- dowcip
+- fıkra
+- grap
+- Hazil
+- iocus
+- izkirimiri
+- Jeye
+- joke
+- joks
+- Joukā
+- Kaftan
+- Klucht
+- Larusiña yatiyäwi
+- lawak
+- Lelucon
+- Libra e Barcoletave
+- Lətifə
+- Nali
+- piada
+- skämt
+- Suba
+- Ti'aw
+- truyện cười
+- Utani
+- Vic
+- vicc
+- vits
+- vitsi
+- vittighed
+- vtip
+- Wargi
+- Witz
+- ċajta
+- ŝerco
+- šala
+- žort
+- αστείο
+- Виц
+- жарт
+- Латифа
+- Месек
+- Онигоо
+- Фіґель
+- шала
+- шега
+- шутка
+- Әзіл-оспақ
+- կատակ
+- בדיחה
+- וויץ
+- لطيفو
+- لطیفه
+- لطیفہ
+- مزحة
+- نكته
+- चुटकिला
+- चुटकुला
+- चुटकुले
+- কৌতুক
+- রসিকতা
+- ਮਜ਼ਾਕ
+- ఛలోక్తి
+- มุกตลก
+- བསྟན་བཤིག
+- ジョーク
+- 笑話
+- 笑话
+- 농담
 ---
-
-
 # [[Joke]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Joke,131138|WD~Joke,131138]] 

@@ -1,17 +1,63 @@
 ---
 aliases:
-  - triton
-  - hydrogen-3
-  - Tritium
+- hydrogen-3
+- hydrogeno-3
+- tricij
+- Tricijum
+- Tricio
+- triitium
+- triti
+- tritiam
+- tritij
+- tritijs
+- tritio
+- Tritiom
+- Tritis
+- Tritiu
+- Tritium
+- Tritiumi
+- tritiwm
+- triton
+- trityum
+- trizio
+- tryt
+- trícium
+- trítio
+- τρίτιο
+- тритій
+- тритий
+- трицијум
+- трициум
+- трыт
+- трыцій
+- Տրիտիում
+- טריטיום
+- تريتيوم
+- تريسيوم
+- تریتیوم
+- ٹرائیٹیئم
+- ٹریٹیم
+- ट्राइटियम
+- ट्रिटियम
+- ট্রিটিয়াম
+- ট্ৰিটিয়াম
+- டிரிட்டியம்
+- ട്രീറ്റിയം
+- ට්රිටියම්
+- ทริเทียม
+- ტრიტიუმი
+- 三重水素
+- 氚
+- 삼중수소
 has_id_wikidata: Q54389
-follows: "[[_Standards/WikiData/WD~deuterium,102296]]"
-instance_of: "[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]"
-decays_to: "[[_Standards/WikiData/WD~helium_3,533498]]"
-followed_by: "[[_Standards/WikiData/WD~hydrogen_4,1064956]]"
+follows: '[[_Standards/WikiData/WD~deuterium,102296]]'
+instance_of: '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
+decays_to: '[[_Standards/WikiData/WD~helium_3,533498]]'
+followed_by: '[[_Standards/WikiData/WD~hydrogen_4,1064956]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 mass_excess: 14949.80993
 mass: 3.01604928199
 parity_quantum_number: 1
@@ -24,44 +70,131 @@ half_life: 12.32
 chemical_formula: H
 Commons_category: Tritium
 binding_energy:
-  - 8481.795
-  - 8481821
+- 8481.795
+- 8481821
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200528%20Hydrogen-3%20Tritium.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%203.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200528%20Hydrogen-3%20Tritium.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%203.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaseous%20tritium%20light%20source.jpg
-canonical_SMILES: "[3H]"
+canonical_SMILES: '[3H]'
 CAS_Registry_Number: 15086-10-9
 Dewey_Decimal_Classification: 546.213
 P8189: 987007551114805100
 UMLS_CUI: C0041119
 MeSH_tree_code:
-  - D01.268.406.875
-  - D01.362.340.875
-  - D01.496.749.925
+- D01.268.406.875
+- D01.362.340.875
+- D01.496.749.925
 Wolfram_Language_entity_code: Entity["Isotope", "Hydrogen3"]
 Krugosvet_article: nauka_i_tehnika/himiya/TRITI.html
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium|Tritium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public|Tritium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal|Tritium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect|Tritium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private|Tritium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal|Tritium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret|Tritium.secret]]"
+  - '[[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium|Tritium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public|Tritium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal|Tritium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect|Tritium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private|Tritium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal|Tritium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret|Tritium.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium|Tritium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public|Tritium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal|Tritium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect|Tritium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private|Tritium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal|Tritium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret|Tritium.secret]]"
+- '[[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium|Tritium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public|Tritium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal|Tritium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect|Tritium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private|Tritium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal|Tritium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret|Tritium.secret]]'
+dv_has_:
+  name_:
+    af: Tritium
+    ar: تريتيوم
+    ary: تريسيوم
+    as: ট্ৰিটিয়াম
+    ast: Tritiu
+    az: Tritium
+    ban: Tritium
+    be: трыцій
+    be-tarask: трыт
+    bg: Тритий
+    bn: ট্রিটিয়াম
+    br: Tritiom
+    bs: Tricijum
+    ca: triti
+    cs: tritium
+    cv: Тритий
+    cy: tritiwm
+    da: tritium
+    de: Tritium
+    de-ch: Tritium
+    el: τρίτιο
+    en: tritium
+    en-ca: Tritium
+    en-gb: tritium
+    eo: tricio
+    es: tritio
+    et: triitium
+    eu: tritio
+    fa: تریتیوم
+    fi: tritium
+    fr: tritium
+    ga: tritiam
+    gan: 氚
+    gl: Tricio
+    he: טריטיום
+    hi: ट्राइटियम
+    hr: tricij
+    hsb: Tritium
+    hu: trícium
+    hy: Տրիտիում
+    ia: hydrogeno-3
+    id: tritium
+    it: trizio
+    ja: 三重水素
+    ka: ტრიტიუმი
+    kk: Тритий
+    ko: 삼중수소
+    lb: Tritium
+    lt: Tritis
+    lv: tritijs
+    mg: Tritium
+    mk: трициум
+    ml: ട്രീറ്റിയം
+    mr: ट्रिटियम
+    ms: Tritium
+    nb: tritium
+    nds: Tritium
+    nl: tritium
+    nn: tritium
+    oc: tritium
+    pl: tryt
+    pnb: ٹریٹیم
+    pt: trítio
+    pt-br: trítio
+    ro: tritiu
+    ru: тритий
+    sh: Tricijum
+    si: ට්රිටියම්
+    sk: trícium
+    sl: tritij
+    sq: Tritiumi
+    sr: трицијум
+    sv: tritium
+    sw: Triti
+    ta: டிரிட்டியம்
+    th: ทริเทียม
+    tr: trityum
+    uk: тритій
+    ur: ٹرائیٹیئم
+    vi: Triti
+    wuu: 氚
+    yue: 氚
+    zh: 氚
+    zh-cn: 氚
+    zh-hans: 氚
+    zh-hant: 氚
 ---
-
 # [[Tritium]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]] 

@@ -1,16 +1,87 @@
 ---
 aliases:
-  - discrete uniform distribution
-  - Discrete_uniform_Distribution
-  - Discrete uniform Distribution
+- Banaketa uniforme diskretu
+- discrete uniform distribution
+- Discrete_uniform_Distribution
+- diskreetti tasainen jakauma
+- diskreta unuforma distribuo
+- Diskrete Gleichverteilung
+- Diskretna enakomerna porazdelitev
+- Diskretna uniformna distribucija
+- distribució uniforme discreta
+- Distribución uniforme discreta
+- distribuzione discreta uniforme
+- distribuție uniformă discretă
+- Diszkrét egyenletes eloszlás
+- Loi uniforme discrète
+- Rovnoměrné rozdělení
+- Rozkład jednostajny dyskretny
+- Shpërndarja uniforme diskrete
+- Tekdüze dağılım
+- Uniform distribution
+- Uniform fordeling
+- Uniforme verdeling
+- Ομοιόμορφη κατανομή
+- Дискретний рівномірний розподіл
+- Дискретное равномерное распределение
+- дыскрэтнае раўнамернае разьмеркаваньне
+- прекината рамномерна распределба
+- Раўнамернае дыскрэтнае размеркаванне
+- התפלגות אחידה בדידה
+- توزيع منتظم متقطع
+- توزیع یکنواخت گسسته
+- การแจกแจงยูนิฟอร์มของตัวแปรสุ่มไม่ต่อเนื่อง
+- 離散一様分布
+- 離散均勻分佈
+- 離散型均勻分佈
+- 이산균등분포
 has_id_wikidata: Q3574718
 subclass_of:
-  - "[[_Standards/WikiData/WD~beta_binomial_distribution,307557]]"
-  - "[[_Standards/WikiData/WD~location_scale_family,6664772]]"
-  - "[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~beta_binomial_distribution,307557]]'
+- '[[_Standards/WikiData/WD~location_scale_family,6664772]]'
+- '[[_Standards/WikiData/WD~symmetric_probability_distribution,16000505]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+dv_has_:
+  name_:
+    ar: توزيع منتظم متقطع
+    ast: Distribución uniforme discreta
+    be: Раўнамернае дыскрэтнае размеркаванне
+    be-tarask: дыскрэтнае раўнамернае разьмеркаваньне
+    ca: distribució uniforme discreta
+    cs: Rovnoměrné rozdělení
+    de: Diskrete Gleichverteilung
+    de-ch: Diskrete Gleichverteilung
+    el: Ομοιόμορφη κατανομή
+    en: discrete uniform distribution
+    en-ca: Uniform distribution
+    en-gb: Uniform distribution
+    eo: diskreta unuforma distribuo
+    es: distribución uniforme discreta
+    eu: Banaketa uniforme diskretu
+    fa: توزیع یکنواخت گسسته
+    fi: diskreetti tasainen jakauma
+    fr: Loi uniforme discrète
+    gl: Distribución uniforme discreta
+    he: התפלגות אחידה בדידה
+    hu: Diszkrét egyenletes eloszlás
+    it: distribuzione discreta uniforme
+    ja: 離散一様分布
+    ko: 이산균등분포
+    mk: прекината рамномерна распределба
+    nb: Uniform fordeling
+    nl: Uniforme verdeling
+    pl: Rozkład jednostajny dyskretny
+    ro: distribuție uniformă discretă
+    ru: Дискретное равномерное распределение
+    sl: Diskretna enakomerna porazdelitev
+    sq: Shpërndarja uniforme diskrete
+    sr: Diskretna uniformna distribucija
+    th: การแจกแจงยูนิฟอร์มของตัวแปรสุ่มไม่ต่อเนื่อง
+    tr: Tekdüze dağılım
+    uk: Дискретний рівномірний розподіл
+    yue: 離散均勻分佈
+    zh: 離散型均勻分佈
 ---
-
 # [[Discrete_uniform_Distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Discrete_uniform_distribution,3574718|WD~Discrete_uniform_distribution,3574718]] 

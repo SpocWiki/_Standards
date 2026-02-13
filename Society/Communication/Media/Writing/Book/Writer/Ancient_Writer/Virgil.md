@@ -1,8 +1,87 @@
 ---
 aliases:
-  - Publius Vergilius Maro
-  - Vergil
-  - Virgil
+- Bergílio
+- Fyrsil
+- Publije Vergilije Maron
+- Publio Virgilio Maron
+- Publio Virgilio Marone
+- Publiu Virgiliu Marone
+- Publius Vergilius Maro
+- Vajit
+- Veirgil
+- Vergil
+- Vergili
+- Vergilii
+- Vergilije
+- Vergilijs
+- Vergilijus
+- Vergilio
+- Vergilius
+- Vergiliy
+- Vergíliu
+- Vergílius
+- Vergėlėjos
+- Virchilio
+- Virdjile
+- Virgil
+- Virgile
+- Virgili
+- Virgilio
+- Virgilio Marone
+- Virgiliu
+- Virgill
+- Virgjili
+- Virgílio
+- Virjil
+- Virxilio
+- Virxiliu
+- Virġilju
+- Vì-kit-ngì
+- Wergiliusz
+- Βιργίλιος
+- Вергілій
+- Вергалий Марон Публий
+- Верги́лий
+- Вергили
+- Вергилиј
+- Вергилије
+- Вергилий
+- Вергилиус
+- Вержил
+- Верґілій
+- Виргилий
+- Вэргіліюс
+- Публій Вергілій Марон
+- Վերգիլիոս
+- ווערגיל
+- ורגיליוס
+- ؤرجِل
+- فيرجيل
+- ورجل
+- ویرژیل
+- ڤيرجيل
+- ڤێرجیل
+- भर्जिल
+- वर्जिल
+- व्हर्जिल
+- পাব্লিউস ভার্জিলিউস মারো
+- ভাৰ্জিল
+- ਵਰਜਿਲ
+- வேர்ஜில்
+- വിർജിൽ
+- เวอร์จิล
+- བིར་སྒྲེལ།
+- ဗာဂျီ
+- ვირგილიუსი
+- პუბლიუს ვერგილიუს მარონი
+- ፑብሊዩስ ዌርጊሊዩስ ማሮ
+- វឺជីល
+- ᱵᱷᱤᱨᱜᱤᱞ
+- ウェルギリウス
+- 維吉爾
+- 维吉尔
+- 衛吉
+- 베르길리우스
 has_id_wikidata: Q1398
 BHCL_UUID: 6f375949-fa05-41a1-9245-7e70402b52d1
 cognomen: '[[_Standards/WikiData/WD~Maro,121491641]]'
@@ -12,38 +91,38 @@ copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_hav
 date_of_birth: -0069-10-13
 date_of_death: -0018-09-19
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-  - '[[_Standards/WikiData/WD~Q131401229,131401229]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Q131401229,131401229]]'
 different_from: '[[_Standards/WikiData/WD~Pseudo_Virgil,104665899]]'
 Europeana_entity: agent/base/60298
 genre:
-  - '[[_Standards/WikiData/WD~pastoral_poetry,543673]]'
-  - '[[_Standards/WikiData/WD~epic_poem,37484]]'
+- '[[_Standards/WikiData/WD~pastoral_poetry,543673]]'
+- '[[_Standards/WikiData/WD~epic_poem,37484]]'
 gens: '[[_Standards/WikiData/WD~Vergilia_gens,53858348]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Vatican_Library,213678]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Vatican_Library,213678]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 Iconclass_notation: 82A(VIRGIL)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parco%20della%20Grotta%20di%20Posillipo5%20%28crop%29.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Theocritus,219484]]'
-  - '[[_Standards/WikiData/WD~Aulus_Furius_Antias,718196]]'
-  - '[[_Standards/WikiData/WD~Homer,6691]]'
+- '[[_Standards/WikiData/WD~Theocritus,219484]]'
+- '[[_Standards/WikiData/WD~Aulus_Furius_Antias,718196]]'
+- '[[_Standards/WikiData/WD~Homer,6691]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 430695667
 Krugosvet_article: kultura_i_obrazovanie/literatura/VERGILI_PUBLI_VERGILI_MARON.html
@@ -55,20 +134,20 @@ name_in_native_language: Publius Vergilius Maro
 native_language: '[[_Standards/WikiData/WD~Latin,397]]'
 nomen_gentilicium: '[[_Standards/WikiData/WD~Vergilius,53858352]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Eclogues,546203]]'
-  - '[[_Standards/WikiData/WD~Georgics,674439]]'
-  - '[[_Standards/WikiData/WD~Aeneid,60220]]'
+- '[[_Standards/WikiData/WD~Eclogues,546203]]'
+- '[[_Standards/WikiData/WD~Georgics,674439]]'
+- '[[_Standards/WikiData/WD~Aeneid,60220]]'
 occupation:
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_birth: '[[_Standards/WikiData/WD~Andes,491753]]'
 place_of_burial: '[[_Standards/WikiData/WD~Parco_Virgiliano,3895452]]'
 place_of_death: '[[_Standards/WikiData/WD~Brindisi,13496]]'
 praenomen: '[[_Standards/WikiData/WD~Publius,21485186]]'
 present_in_work: '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 Provenio_UUID:
-  - 46fb2264-11a2-42f0-a598-ed85a84cbd36
-  - 47ad369f-5f95-4c49-96c8-9ed893753ee6
+- 46fb2264-11a2-42f0-a598-ed85a84cbd36
+- 47ad369f-5f95-4c49-96c8-9ed893753ee6
 relative: '[[_Standards/WikiData/WD~Vergilia_Vera,121491073]]'
 sexual_orientation: '[[_Standards/WikiData/WD~non_heterosexuality,339014]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -76,8 +155,193 @@ student: '[[_Standards/WikiData/WD~Cebes,61474568]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/62759
 Wolfram_Language_entity_code: Entity["Concept", "PubliusVergiliusMaro::4377r"]
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
+dv_has_:
+  name_:
+    ab: Вергили
+    ady: Вергилий
+    af: Vergilius
+    am: Virgil
+    an: Virchilio
+    anp: वर्जिल
+    ar: فيرجيل
+    ary: ڤيرجيل
+    arz: فيرجيل
+    as: ভাৰ্জিল
+    ast: Virxiliu
+    av: Вергилий
+    awa: वर्जिल
+    az: Vergili
+    azb: ویرژیل
+    ba: Вергилий
+    bar: Vergil
+    be: Публій Вергілій Марон
+    be-tarask: Вэргіліюс
+    bg: Вергилий
+    bho: वर्जिल
+    bi: Virgil
+    bn: পাব্লিউস ভার্জিলিউস মারো
+    bo: བིར་སྒྲེལ།
+    br: Publius Vergilius Maro
+    bs: Vergilije
+    btm: Virgil
+    bxr: Верги́лий
+    ca: Virgili
+    ce: Вергилий
+    ckb: ڤێرجیل
+    co: Publiu Virgiliu Marone
+    crh: Vergiliy
+    cs: Publius Vergilius Maro
+    cv: Вергилий
+    cy: Fyrsil
+    da: Publius Vergilius Maro
+    de: Vergil
+    de-ch: Vergil
+    diq: Vergilius
+    el: Βιργίλιος
+    eml: Virgilio
+    en: Virgil
+    en-ca: Virgil
+    en-gb: Virgil
+    eo: Vergilio
+    es: Virgilio
+    et: Vergilius
+    eu: Virgilio
+    ext: Vergíliu
+    fa: ویرژیل
+    fi: Vergilius
+    fr: Virgile
+    frr: Vergil
+    fur: Virgjili
+    fy: Vergilius
+    ga: Veirgil
+    gan: 衛吉
+    gcr: Virjil
+    gd: Virgil
+    gl: Virxilio
+    gn: Virgílio
+    gsw: Vergil
+    ha: Virgil
+    hak: Vì-kit-ngì
+    he: ורגיליוס
+    hi: वर्जिल
+    hif: Virgil
+    hr: Publije Vergilije Maron
+    hu: Publius Vergilius Maro
+    hy: Վերգիլիոս
+    ia: Vergilio
+    id: Publius Vergilius Maro
+    ie: Virgil
+    ilo: Virgilio
+    io: Publius Vergilius Maro
+    is: Virgill
+    it: Publio Virgilio Marone
+    ja: ウェルギリウス
+    jam: Virgil
+    jv: Virgil
+    ka: პუბლიუს ვერგილიუს მარონი
+    kaa: Vergilius
+    kbd: Вергилий
+    kbp: Virgile
+    kcg: Vajit
+    kk: Виргилий
+    km: វឺជីល
+    knc: Virgil
+    ko: 베르길리우스
+    ks: ؤرجِل
+    ksh: Vergil
+    ku: Vergilius
+    kw: Virgil
+    ky: Вергалий Марон Публий
+    la: Publius Vergilius Maro
+    lb: Publius Vergilius Maro
+    lez: Вергилий
+    lfn: Vergilio
+    li: Vergilius
+    lij: Publio Virgilio Maron
+    lld: Virgil
+    lmo: Virgili
+    lt: Vergilijus
+    lv: Vergilijs
+    mai: वर्जिल
+    mg: Virgil
+    mk: Вергилиј
+    ml: വിർജിൽ
+    mn: Вергилий
+    mr: व्हर्जिल
+    ms: Virgil
+    mt: Virġilju
+    mwl: Bergílio
+    my: ဗာဂျီ
+    myv: Вергилий
+    mzn: ویرژیل
+    nan: Vergili
+    nap: Virgilio Marone
+    nb: Vergil
+    nds: Vergil
+    new: भर्जिल
+    nl: Vergilius
+    nn: Vergil
+    nrm: Virgile
+    oc: Virgili
+    olo: Vergilius
+    os: Вергилий
+    pa: ਵਰਜਿਲ
+    pag: Virgil
+    pap: Virgil
+    pcd: Virgile
+    pl: Wergiliusz
+    pms: Virgili
+    pnb: ورجل
+    pt: Virgílio
+    pt-br: Virgílio
+    ro: Publius Vergilius Maro
+    roa-tara: Publio Virgilio Marone
+    ru: Вергилий
+    rue: Верґілій
+    sah: Вергилиус
+    sat: ᱵᱷᱤᱨᱜᱤᱞ
+    sc: Virgiliu
+    scn: Virgiliu
+    sco: Virgil
+    sgs: Vergėlėjos
+    sh: Vergilije
+    sk: Vergílius
+    sl: Vergil
+    sm: Virgil
+    sq: Vergili
+    sr: Вергилије
+    stq: Publius Vergilius Maro
+    sv: Vergilius
+    sw: Vergilio
+    ta: வேர்ஜில்
+    tg: Вержил
+    th: เวอร์จิล
+    ti: ፑብሊዩስ ዌርጊሊዩስ ማሮ
+    tl: Vergilius
+    tly: Vergilius
+    tr: Virgil
+    tt: Вергилий
+    tum: Publius Vergilius Maro
+    tyv: Вергилий
+    udm: Вергилий
+    uk: Вергілій
+    ur: ورجل
+    uz: Vergiliy
+    vec: Virgilio
+    vep: Vergilii
+    vi: Virgil
+    vo: Publius Vergilius Maro
+    vro: Vergilius
+    wa: Virdjile
+    war: Virgilio
+    wuu: 维吉尔
+    xmf: ვირგილიუსი
+    yi: ווערגיל
+    yo: Virgil
+    yue: 維吉爾
+    zea: Virgil
+    zh: 维吉尔
 ---
-
 # [[Virgil]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Virgil,1398|WD~Virgil,1398]]  

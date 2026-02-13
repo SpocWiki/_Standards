@@ -1,51 +1,160 @@
 ---
 aliases:
-  - Gender
+- censiät
+- chibare
+- cinsiyet
+- cınsiyeto sosyal
+- družbeni spol
+- dzimte
+- emoto
+- Gender
+- genere
+- genero
+- genre
+- genro
+- genus
+- geslacht
+- giới tính
+- gjinia
+- gèner
+- gènere
+- gèniri
+- género
+- gênero
+- inscne
+- jan
+- janr
+- jantina
+- jenda
+- jender
+- jener
+- jenero
+- jinsi
+- kasarian
+- keintys bea-oaylleeagh
+- keka
+- kinatawhan
+- kinatawo
+- kule jan
+- kynferði
+- lingeni
+- lytis
+- lītės
+- nuu loo yoo
+- okike
+- pol
+- rhywedd
+- rimbewu
+- rod
+- sarì
+- sex
+- sexo
+- singqbied
+- socialt køn
+- sosiaalinen sukupuoli
+- sosiaallâš suhâpeeli
+- sosiaalʼlaž sooǥǥbieʹll
+- sosialt kjønn
+- sosiálalaš sohkabealli
+- sugupool
+- sèng-pia̍t
+- sìng-pia̍t
+- tagane
+- társadalmi nem
+- Ubulili
+- xénero
+- xéneru
+- zayend
+- zènaro
+- ġeneru
+- φύλο
+- гендар
+- гендер
+- джендър
+- енсиәт
+- пол
+- род
+- стаць
+- җенсият
+- ҷинсият
+- գենդեր
+- מגדר
+- מין
+- جندر
+- جنس
+- جنسیت
+- جِنٕس
+- جێندەر
+- نوع اجتماعي
+- ߛߎ
+- लिंग
+- लिङ्ग
+- লিংগ
+- সামাজিক লিঙ্গ
+- ਜੈਂਡਰ
+- பாலினம்
+- లింగం
+- ലിംഗഭേദം
+- ස්ත්රී පුරුෂ භාවය
+- เพศภาวะ
+- လိင်
+- გენდერი
+- ፆታ
+- ᨻᩮᩆᨽᩣᩅᩡ
+- ᱡᱟᱱᱟᱝ
+- ジェンダー
+- 性 (社會學)
+- 性別
+- 性别
+- 社会性别
+- 社會性別
+- ꯅꯨꯄꯥ/ꯅꯨꯄꯤ
+- 젠더
 has_id_wikidata: Q48277
 Krugosvet_article: nauka_i_tehnika/biologiya/POL_I_GENDER.html
 different_from:
-  - '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
-  - '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
-  - '[[_Standards/WikiData/WD~connector_gender,5531000]]'
-  - '[[_Standards/WikiData/WD~gender_ideology,64481821]]'
-  - '[[_Standards/WikiData/WD~sex,290]]'
-  - '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
+- '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
+- '[[_Standards/WikiData/WD~connector_gender,5531000]]'
+- '[[_Standards/WikiData/WD~gender_ideology,64481821]]'
+- '[[_Standards/WikiData/WD~sex,290]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~social_norm,205665]]'
-  - '[[_Standards/WikiData/WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~social_norm,205665]]'
+- '[[_Standards/WikiData/WD~identity,844569]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~femininity,866081]]'
-  - '[[_Standards/WikiData/WD~masculinity,1076509]]'
-  - '[[_Standards/WikiData/WD~gender_role,2672163]]'
-  - '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
-  - '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
-  - '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
-  - '[[_Standards/WikiData/WD~gender_expression,15404978]]'
-  - '[[_Standards/WikiData/WD~gender_norm,110930308]]'
-  - '[[_Standards/WikiData/WD~gender_identity,48264]]'
+- '[[_Standards/WikiData/WD~femininity,866081]]'
+- '[[_Standards/WikiData/WD~masculinity,1076509]]'
+- '[[_Standards/WikiData/WD~gender_role,2672163]]'
+- '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
+- '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
+- '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
+- '[[_Standards/WikiData/WD~gender_expression,15404978]]'
+- '[[_Standards/WikiData/WD~gender_norm,110930308]]'
+- '[[_Standards/WikiData/WD~gender_identity,48264]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~gender_studies,1662673]]'
-  - '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
-  - '[[_Standards/WikiData/WD~gender_psychology,11830699]]'
-  - "[[_Standards/WikiData/WD~men's_studies,12908504]]"
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~sociology,21201]]'
-  - "[[_Standards/WikiData/WD~women's_studies,35069]]"
+- '[[_Standards/WikiData/WD~gender_studies,1662673]]'
+- '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
+- '[[_Standards/WikiData/WD~gender_psychology,11830699]]'
+- "[[_Standards/WikiData/WD~men's_studies,12908504]]"
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~sociology,21201]]'
+- "[[_Standards/WikiData/WD~women's_studies,35069]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~gender_role,2672163]]'
-  - '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
-  - '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
-  - '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
-  - '[[_Standards/WikiData/WD~gender_expression,15404978]]'
-  - '[[_Standards/WikiData/WD~gender_norm,110930308]]'
-  - '[[_Standards/WikiData/WD~gender_identity,48264]]'
+- '[[_Standards/WikiData/WD~gender_role,2672163]]'
+- '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
+- '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
+- '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
+- '[[_Standards/WikiData/WD~gender_expression,15404978]]'
+- '[[_Standards/WikiData/WD~gender_norm,110930308]]'
+- '[[_Standards/WikiData/WD~gender_identity,48264]]'
 part_of:
-  - '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
-  - '[[_Standards/WikiData/WD~sexual_diversity,5110203]]'
-  - '[[_Standards/WikiData/WD~sex_or_gender,18382802]]'
+- '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
+- '[[_Standards/WikiData/WD~sexual_diversity,5110203]]'
+- '[[_Standards/WikiData/WD~sex_or_gender,18382802]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~gendered,99485732]]'
 opposite_of: '[[_Standards/WikiData/WD~gender_critical,124606716]]'
 instance_of: '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
@@ -56,20 +165,173 @@ Wolfram_Language_entity_type: Gender
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20unterscheiden%20sich%20Geschlecht%20und%20Gender%3F%20kurzerkl%C3%A4rt%20von%20Tagesschau.webm
 hashtag: gender
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8785%20%28hye%29-Emptyfear-%D5%A3%D5%A5%D5%B6%D5%A4%D5%A5%D6%80.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95%20%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8785%20%28hye%29-Emptyfear-%D5%A3%D5%A5%D5%B6%D5%A4%D5%A5%D6%80.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95%20%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97.wav
 WordLift_URL: http://data.thenextweb.com/tnw/entity/gender
 equivalent_class:
-  - http://pcp-on-web.de/ontology#Gender
-  - http://www.w3.org/2006/vcard/ns#Gender
-  - https://d-nb.info/standards/elementset/gnd#gender
+- http://pcp-on-web.de/ontology#Gender
+- http://www.w3.org/2006/vcard/ns#Gender
+- https://d-nb.info/standards/elementset/gnd#gender
 DOI: 10.1163/1875-3922_Q3_EQSIM_00167
 P8189: 987009348886305171
 IPTC_NewsCode:
-  - asportfacet/gender
-  - mediatopic/20000793
+- asportfacet/gender
+- mediatopic/20000793
+dv_has_:
+  name_:
+    af: gender
+    am: ፆታ
+    ar: نوع اجتماعي
+    as: লিংগ
+    ast: xéneru
+    az: gender
+    ba: енсиәт
+    be: гендар
+    be-tarask: стаць
+    bg: джендър
+    bn: সামাজিক লিঙ্গ
+    br: jener
+    bs: rod
+    ca: gènere
+    ce: гендер
+    ceb: kinatawhan
+    ckb: جێندەر
+    co: genere
+    cs: gender
+    cy: rhywedd
+    da: socialt køn
+    de: Gender
+    diq: cınsiyeto sosyal
+    el: φύλο
+    en: gender
+    en-ca: gender
+    en-gb: gender
+    eo: genro
+    es: género
+    et: sugupool
+    eu: genero
+    fa: جنسیت
+    fi: sosiaalinen sukupuoli
+    fj: tagane
+    fr: genre
+    frc: genre
+    fy: geslacht
+    ga: inscne
+    gaa: nuu loo yoo
+    gan: 性別
+    gcr: janr
+    gl: xénero
+    gv: keintys bea-oaylleeagh
+    ha: jinsi
+    haw: keka
+    he: מגדר
+    hi: लिंग
+    hr: rod
+    ht: jan
+    hu: társadalmi nem
+    hy: գենդեր
+    ia: genere
+    id: gender
+    ig: okike
+    io: genro
+    is: kynferði
+    it: genere
+    ja: ジェンダー
+    jam: jenda
+    jbo: lingeni
+    ka: გენდერი
+    kk: гендер
+    ko: 젠더
+    krj: sarì
+    ks: جِنٕس
+    ku-latn: zayend
+    ky: гендер
+    la: genus
+    lb: Gender
+    lfn: jenero
+    lmo: gèner
+    ln: emoto
+    lt: lytis
+    lv: dzimte
+    min: jender
+    mk: род
+    ml: ലിംഗഭേദം
+    mni: ꯅꯨꯄꯥ/ꯅꯨꯄꯤ
+    mr: लिंग
+    ms: jantina
+    mt: ġeneru
+    my: လိင်
+    myv: гендер
+    nan: sèng-pia̍t
+    nan-hani: 性別
+    nan-hant: 性別
+    nan-latn-pehoeji: sèng-pia̍t
+    nan-latn-tailo: sìng-pia̍t
+    nb: sosialt kjønn
+    ne: लिङ्ग
+    new: लिंग
+    nl: gender
+    nn: sosialt kjønn
+    nod: ᨻᩮᩆᨽᩣᩅᩡ
+    nqo: ߛߎ
+    oc: genre
+    os: гендер
+    pa: ਜੈਂਡਰ
+    pap: género
+    pap-aw: sexo
+    pl: gender
+    ps: جندر
+    pt: género
+    pt-br: gênero
+    ro: sex
+    ru: гендер
+    sat: ᱡᱟᱱᱟᱝ
+    sc: gènere
+    scn: gèniri
+    sco: gender
+    se: sosiálalaš sohkabealli
+    sgs: lītės
+    sh: rod
+    si: ස්ත්රී පුරුෂ භාවය
+    sk: gender
+    sl: družbeni spol
+    smn: sosiaallâš suhâpeeli
+    sms: sosiaalʼlaž sooǥǥbieʹll
+    sn: chibare
+    sq: gjinia
+    sr: род
+    sr-ec: пол
+    sr-el: pol
+    sv: genus
+    ta: பாலினம்
+    te: లింగం
+    tg: ҷинсият
+    th: เพศภาวะ
+    tl: kasarian
+    tok: kule jan
+    tr: cinsiyet
+    ts: rimbewu
+    tt: җенсият
+    tt-cyrl: җенсият
+    tt-latn: censiät
+    uk: гендер
+    ur: جنس
+    uz: gender
+    vec: zènaro
+    vi: giới tính
+    war: kinatawo
+    wuu: 社会性别
+    yi: מין
+    yue: 性 (社會學)
+    za: singqbied
+    zh: 社會性別
+    zh-cn: 性別
+    zh-hans: 性别
+    zh-hant: 性別
+    zh-hk: 性別
+    zh-tw: 性別
+    zu: Ubulili
 ---
-
 # [[Gender]] 
 
 #is_/different_from :: [[Sex/Biological_Sex]] 

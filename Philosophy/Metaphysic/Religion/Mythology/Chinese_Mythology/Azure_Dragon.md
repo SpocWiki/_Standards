@@ -1,35 +1,103 @@
 ---
 aliases:
-  - Azure Dragon
-  - 青龍
-  - Qīnglóng
-  - Blue-green Dragon
-  - Green Dragon
-  - Blue Dragon
-  - 蒼龍
-  - Cānglóng
-  - Azure_Dragon
+- Azure Dragon
+- Azure_Dragon
+- Azurni zmaj
+- Blauer Drache
+- Blua Drako de Oriento
+- Blue Dragon
+- Blue-green Dragon
+- Chheng-liông
+- Chhiâng-liùng
+- Chăng-lṳ̀ng
+- Cānglóng
+- Den blå drage
+- Drago Azzurro
+- Dragon azur
+- Dragão azul
+- Green Dragon
+- Herensuge Turkesa
+- Mavi Ejder
+- Mėlynasis drakonas
+- Naga Nilakandi
+- Qing Long
+- Qīnglóng
+- Seiryu
+- Seiryū
+- Sinivihreä lohikäärme
+- Thanh Long
+- Лазурный дракон
+- Цін-лун
+- цын-лун
+- اژدهای لاجوردی
+- تنين أزوري
+- উজ্জ্বল নীল ড্রাগন
+- ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᠮᡠᡩᡠᡵᡳ
+- 蒼龍
+- 青竜
+- 青龍
+- 青龙
+- 청룡
 has_id_wikidata: Q515882
-follows: "[[_Standards/WikiData/WD~Black_Tortoise,125696]]"
-subclass_of: "[[_Standards/WikiData/WD~Loong,215605]]"
-followed_by: "[[_Standards/WikiData/WD~Zhuque,1059392]]"
-part_of: "[[_Standards/WikiData/WD~Four_Symbols,1073260]]"
+follows: '[[_Standards/WikiData/WD~Black_Tortoise,125696]]'
+subclass_of: '[[_Standards/WikiData/WD~Loong,215605]]'
+followed_by: '[[_Standards/WikiData/WD~Zhuque,1059392]]'
+part_of: '[[_Standards/WikiData/WD~Four_Symbols,1073260]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Chinese_constellation,1074076]]"
-  - "[[_Standards/WikiData/WD~water_deity,1916821]]"
-  - "[[_Standards/WikiData/WD~mythical_animal,24334299]]"
-color: "[[_Standards/WikiData/WD~blue,1088]]"
+- '[[_Standards/WikiData/WD~Chinese_constellation,1074076]]'
+- '[[_Standards/WikiData/WD~water_deity,1916821]]'
+- '[[_Standards/WikiData/WD~mythical_animal,24334299]]'
+color: '[[_Standards/WikiData/WD~blue,1088]]'
 Commons_category: Azure Dragon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg
 native_label:
-  - Thanh Long
-  - 青竜
-  - 青龙
-  - 青龍
-  - 청룡
-Unicode_character: 🐉
+- Thanh Long
+- 青竜
+- 青龙
+- 青龍
+- 청룡
+Unicode_character: "\U0001F409"
+dv_has_:
+  name_:
+    ar: تنين أزوري
+    be-tarask: цын-лун
+    bn: উজ্জ্বল নীল ড্রাগন
+    ca: Seiryu
+    cdo: Chăng-lṳ̀ng
+    de: Blauer Drache
+    en: Azure Dragon
+    eo: Blua Drako de Oriento
+    es: Seiryū
+    eu: Herensuge Turkesa
+    fa: اژدهای لاجوردی
+    fi: Sinivihreä lohikäärme
+    fr: Dragon azur
+    hak: Chhiâng-liùng
+    id: Naga Nilakandi
+    it: Drago Azzurro
+    ja: 青竜
+    ko: 청룡
+    lt: Mėlynasis drakonas
+    lzh: 蒼龍
+    mnc: ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ ᠮᡠᡩᡠᡵᡳ
+    ms: Qing Long
+    nan: Chheng-liông
+    nb: Den blå drage
+    pl: Qing Long
+    pt: Dragão azul
+    ru: Лазурный дракон
+    sco: Azure Dragon
+    sl: Azurni zmaj
+    sr: Azurni zmaj
+    tr: Mavi Ejder
+    uk: Цін-лун
+    vi: Thanh Long
+    wuu: 青龙
+    yue: 青龍
+    zh: 青龍
+    zh-hans: 青龙
+    zh-hant: 青龍
 ---
-
 # [[Azure_Dragon]] 🐉 
 
 #is_/same_as :: [[WD~Azure_Dragon,515882]] 

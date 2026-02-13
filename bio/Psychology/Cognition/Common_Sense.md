@@ -1,30 +1,163 @@
 ---
 aliases:
-  - Gesunder Menschenverstand
-  - Common sense
-  - sensus communis
-  - bon sens
-  - κοινὴ αἴσθησις
-  - Common_Sense
-  - Common Sense
+- akal budi
+- Akal sehat
+- almenn skynsemi
+- arkijärki
+- bon sens
+- bun simț
+- Common sense
+- Common_Sense
+- Gemeinsinn
+- Gesunder Menschenverstand
+- gezond verstand
+- Gezondj verstandj
+- józan ész
+- Lẽ thường
+- Mendimi praktik
+- ortakgörü felsefesi
+- Poell
+- prudento
+- rozsądek
+- Sağlam düşüncə
+- Sennu
+- sens commun
+- Sens comun
+- senso comum
+- senso comune
+- Senso común
+- sensus communis
+- sentido común
+- sentit comú
+- Sentíu común
+- sund fornuft
+- sunn fornuft
+- sunt förnuft
+- sveikas protas
+- synnwyr cyffredin
+- Terve mõistus
+- Usta
+- Zdrav razum
+- zdravi razum
+- zdravý rozum
+- zentzu komun
+- Κοινή λογική
+- κοινὴ αἴσθησις
+- айыҡ аҡыл
+- здаровы глузд
+- здоровий глузд
+- здрав разум
+- Здрав смисъл
+- здравый смысл
+- Саф акыл
+- Сиплĕ курăм
+- Ողջամտություն
+- שכל ישר
+- ئەقڵی سەلیم
+- الفطرة السليمة
+- تخمام لمشاع
+- عقل سلیم
+- সাধারণ কাণ্ডজ্ঞান
+- സാമാന്യ ബോധം
+- สามัญสำนึก
+- 常理
+- 常識
+- 常识
+- 상식
 has_id_wikidata: Q332880
-facet_of: "[[_Standards/WikiData/WD~collective_intelligence,432197]]"
+facet_of: '[[_Standards/WikiData/WD~collective_intelligence,432197]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Common_sense,528032]]"
-  - "[[_Standards/WikiData/WD~common_knowledge,1116133]]"
-instance_of: "[[_Standards/WikiData/WD~aptitude,1347367]]"
+- '[[_Standards/WikiData/WD~Common_sense,528032]]'
+- '[[_Standards/WikiData/WD~common_knowledge,1116133]]'
+instance_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~taste_in_Islam,5269467]]"
-  - "[[_Standards/WikiData/WD~sensibleness,105488413]]"
-subclass_of: "[[_Standards/WikiData/WD~belief_system,5390013]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~common_sense,11588333]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+- '[[_Standards/WikiData/WD~taste_in_Islam,5269467]]'
+- '[[_Standards/WikiData/WD~sensibleness,105488413]]'
+subclass_of: '[[_Standards/WikiData/WD~belief_system,5390013]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~common_sense,11588333]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Dewey_Decimal_Classification:
-  - "170"
-  - "121.3"
+- 170
+- 121.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle%20Altemps%20Inv8575.jpg
+dv_has_:
+  name_:
+    ar: الفطرة السليمة
+    ary: تخمام لمشاع
+    ast: Sentíu común
+    az: Sağlam düşüncə
+    ba: айыҡ аҡыл
+    be-tarask: здаровы глузд
+    bg: Здрав смисъл
+    bn: সাধারণ কাণ্ডজ্ঞান
+    br: Poell
+    ca: sentit comú
+    ckb: ئەقڵی سەلیم
+    cs: zdravý rozum
+    cv: Сиплĕ курăм
+    cy: synnwyr cyffredin
+    da: sund fornuft
+    de: gesunder Menschenverstand
+    de-ch: Gemeinsinn
+    el: Κοινή λογική
+    eml: Usta
+    en: common sense
+    en-ca: Common sense
+    en-gb: Common sense
+    eo: prudento
+    es: sentido común
+    et: Terve mõistus
+    eu: zentzu komun
+    fa: عقل سلیم
+    fi: arkijärki
+    fr: sens commun
+    gl: Senso común
+    he: שכל ישר
+    hr: Zdrav razum
+    hu: józan ész
+    hy: Ողջամտություն
+    id: Akal sehat
+    ig: common sense
+    is: almenn skynsemi
+    it: senso comune
+    ja: 常識
+    ko: 상식
+    la: sensus communis
+    li: Gezondj verstandj
+    lt: sveikas protas
+    mk: здрав разум
+    ml: സാമാന്യ ബോധം
+    ms: akal budi
+    nb: sunn fornuft
+    nl: gezond verstand
+    nn: sunn fornuft
+    pl: rozsądek
+    pms: Sens comun
+    pt: senso comum
+    pt-br: senso comum
+    ro: bun simț
+    ru: здравый смысл
+    scn: Sennu
+    sh: Zdrav razum
+    sk: Common sense
+    sl: zdravi razum
+    sq: Mendimi praktik
+    sr: Здрав разум
+    sv: sunt förnuft
+    th: สามัญสำนึก
+    tr: ortakgörü felsefesi
+    tt: Саф акыл
+    uk: здоровий глузд
+    ur: عقل سلیم
+    vi: Lẽ thường
+    wuu: 常理
+    yue: 常識
+    zh: 常理
+    zh-cn: 常识
+    zh-hans: 常识
+    zh-hk: 常識
+    zh-sg: 常识
 ---
-
 # [[Common_Sense]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Common_sense,332880|WD~Common_sense,332880]] 

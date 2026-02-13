@@ -1,36 +1,133 @@
 ---
 aliases:
-  - Shintoism
-  - Shintoismus
-  - Shinto
+- Kisinto
+- nasin sewi Sinto
+- Saenzdaugyau
+- Schintoismus
+- Scintoiximo
+- Shinto
+- Shintoegezh
+- Shintoism
+- shintoisme
+- shintoismo
+- Shintoismu
+- Shintoismus
+- Shintoizmo
+- Shintoyism
+- Shintoïsme
+- Shintuismu
+- shintō
+- Sinteochas
+- Sinto
+- Sintoisim
+- Sintoism
+- sintoismo
+- sintoisms
+- Sintoismus
+- Sintoizm
+- sintoísmo
+- sintoísmu
+- Sintoïsme
+- sintó
+- Sintôisma
+- Sjintoïsme
+- sjintóismi
+- Syinto
+- Sîn-tō
+- Sïntoïzm
+- Thần đạo
+- Ushintho
+- Xinto
+- xintoisme
+- Xintoísmo
+- Xintù
+- ŝintoo
+- Şinto
+- şintoizm
+- šintoismus
+- Šintoizam
+- šintoizem
+- Šintoizmas
+- Šintoizmus
+- šintolaisuus
+- Šintolaižus
+- Šintoėzmos
+- șintoism
+- Σιντοϊσμός
+- сінтаізм
+- Сінтоїзм
+- Синто
+- синтоизм
+- сынтаізм
+- Шинто
+- шинтоизам
+- Шинтоизъм
+- Щинто
+- Շինտոյիզմ
+- սինտոիզմ
+- שינטא
+- שינטו
+- سىينتوىيزم
+- شنتو
+- شنٽو
+- شينتو
+- شينطو
+- شِنتو
+- شینتو
+- شینتوئیسم
+- شینتۆ
+- शिंतो धर्म
+- शिन्तो धर्म
+- শিন্তৌ ধর্ম
+- শ্বিণ্ট'
+- ਸ਼ਿੰਤੋ ਧਰਮ
+- શિન્તો
+- କାମିନୋ ମିଚି
+- சின்த்தோ
+- షింటో మతం
+- ಶಿಂಟೋ ಧರ್ಮ
+- ഷിന്റൊ
+- ชินโต
+- ཧྲིན་ཐོ།
+- ဆိဉ်တိုဘာႏသာႏ
+- ရှင်တိုဘာသာ
+- სინტოიზმი
+- შინტოიზმი
+- ស៊ិនតូ
+- ⵜⴰⵛⵉⵏⵟⵓⵜ
+- 神道
+- 神道教
+- ꯁꯤꯟꯇꯣ ꯂꯥꯢꯅꯤꯡ
+- 신토
+- "\U00010343\U00010339\U0001033D\U00010344\U00010349"
 has_id_wikidata: Q812767
 has_characteristic:
-  - '[[_Standards/WikiData/WD~state_religion,188213]]'
-  - '[[_Standards/WikiData/WD~polytheism,9163]]'
+- '[[_Standards/WikiData/WD~state_religion,188213]]'
+- '[[_Standards/WikiData/WD~polytheism,9163]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Dictionary_of_Ism_s,120495625]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Dictionary_of_Ism_s,120495625]]'
 subclass_of: '[[_Standards/WikiData/WD~folk_religion,1068640]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~ethnic_religion,1189816]]'
-  - '[[_Standards/WikiData/WD~polytheistic_religion,108704490]]'
-  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~ethnic_religion,1189816]]'
+- '[[_Standards/WikiData/WD~polytheistic_religion,108704490]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~koshintō,3096508]]'
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
-  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
-  - '[[_Standards/WikiData/WD~Confucianism,9581]]'
-  - '[[_Standards/WikiData/WD~Taoism,9598]]'
-  - '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+- '[[_Standards/WikiData/WD~koshintō,3096508]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Confucianism,9581]]'
+- '[[_Standards/WikiData/WD~Taoism,9598]]'
+- '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Shinto,11027445]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Shinto,14399019]]'
-  - '[[_Standards/WikiData/WD~Template_Shinto2,92754822]]'
+- '[[_Standards/WikiData/WD~Template_Shinto,14399019]]'
+- '[[_Standards/WikiData/WD~Template_Shinto2,92754822]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Shinto,15884900]]'
 studied_by: '[[_Standards/WikiData/WD~Shinto_studies,114567052]]'
 location_of_formation: '[[_Standards/WikiData/WD~Japan,17]]'
@@ -49,8 +146,171 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SINTOIZM.html
 IPTC_NewsCode: mediatopic/20000683
 inception: http://www.wikidata.org/.well-known/genid/efe3c46ace29108876d209eb3d223160
 OpenStreetMap_tag: religion=shinto
+dv_has_:
+  name_:
+    af: Sjintoïsme
+    an: Xintoísmo
+    anp: शिन्तो धर्म
+    ar: شنتو
+    ary: شينطو
+    arz: شنتو
+    as: শ্বিণ্ট'
+    ast: sintoísmu
+    az: şintoizm
+    azb: شینتوئیسم
+    ba: Синтоизм
+    bcl: Shinto
+    be: сінтаізм
+    be-tarask: сынтаізм
+    bg: Шинтоизъм
+    blk: ဆိဉ်တိုဘာႏသာႏ
+    bn: শিন্তৌ ধর্ম
+    bo: ཧྲིན་ཐོ།
+    br: Shintoegezh
+    bs: Šintoizam
+    bxr: Синто
+    ca: xintoisme
+    ckb: شینتۆ
+    cs: šintoismus
+    cy: Shintō
+    da: Shinto
+    de: Shintō
+    diq: Şinto
+    el: Σιντοϊσμός
+    en: Shinto
+    en-ca: Shinto
+    en-gb: Shinto
+    eo: ŝintoo
+    es: sintoísmo
+    et: Sintoism
+    eu: sintoismo
+    ext: Sintoísmu
+    fa: شینتو
+    fi: šintolaisuus
+    fr: shintoïsme
+    fur: Sintoisim
+    fy: Sjintoïsme
+    ga: Sinteochas
+    gcr: Shintoyism
+    gd: Shinto
+    gl: xintoísmo
+    gn: sinto
+    got: "\U00010343\U00010339\U0001033D\U00010344\U00010349"
+    gu: શિન્તો
+    ha: Shinto
+    he: שינטו
+    hi: शिन्तो धर्म
+    hif: Shinto
+    hr: Šintoizam
+    hu: sintó
+    hy: սինտոիզմ
+    hyw: Շինտոյիզմ
+    ia: Shinto
+    id: Shinto
+    io: Shinto
+    is: sjintóismi
+    it: shintoismo
+    ja: 神道
+    jam: Shinto
+    jv: Shinto
+    ka: შინტოიზმი
+    kbp: Sinto
+    kg: Kisinto
+    kk: Синтоизм
+    kk-arab: سىينتوىيزم
+    kk-cyrl: Синтоизм
+    kk-latn: Sïntoïzm
+    km: ស៊ិនតូ
+    kn: ಶಿಂಟೋ ಧರ್ಮ
+    ko: 신토
+    ks: شِنتو
+    ky: Синтоизм
+    la: Sintoismus
+    lad: Shintoizmo
+    lb: Shintō
+    lfn: Xinto
+    lij: Scintoiximo
+    lt: Šintoizmas
+    lv: sintoisms
+    map-bms: Shinto
+    mg: Sintôisma
+    min: Shinto
+    mk: Шинтоизам
+    ml: ഷിന്റൊ
+    mn: Шинто
+    mni: ꯁꯤꯟꯇꯣ ꯂꯥꯢꯅꯤꯡ
+    mr: शिंतो धर्म
+    ms: Syinto
+    ms-arab: شينتو
+    mt: Xintù
+    mwl: Xintoísmo
+    my: ရှင်တိုဘာသာ
+    nah: Shintō
+    nan: Sîn-tō
+    nb: shintoisme
+    nds: Schintoismus
+    new: शिन्तो धर्म
+    nl: Shintoïsme
+    nn: Shinto
+    oc: Sintoïsme
+    olo: Šintolaižus
+    or: କାମିନୋ ମିଚି
+    os: синтоизм
+    pa: ਸ਼ਿੰਤੋ ਧਰਮ
+    pl: shintō
+    pms: Shintoism
+    pnb: شنتو
+    ps: شينتو
+    pt: Xintoísmo
+    pt-br: Xintoísmo
+    ro: șintoism
+    ru: синтоизм
+    rue: Сінтоїзм
+    sc: Shintoismu
+    scn: Shintuismu
+    sco: Shinto
+    sd: شنٽو
+    sgs: Šintoėzmos
+    sh: Šintoizam
+    sk: Šintoizmus
+    sl: šintoizem
+    sn: Ushintho
+    so: Shinto
+    sq: Shinto
+    sr: шинтоизам
+    sr-ec: Шинтоизам
+    sr-el: Šintoizam
+    sv: Shinto
+    sw: Shinto
+    ta: சின்த்தோ
+    te: షింటో మతం
+    tg: Шинто
+    th: ชินโต
+    tl: Shinto
+    tly: Sintoizm
+    tok: nasin sewi Sinto
+    tr: Şinto
+    tt: Щинто
+    tyv: Синтоизм
+    uk: Синто
+    ur: شنتو
+    uz: Sintoizm
+    vi: Thần đạo
+    vro: Sinto
+    war: Shinto
+    wuu: 神道
+    xmf: სინტოიზმი
+    yi: שינטא
+    yo: Shinto
+    yue: 神道
+    za: Saenzdaugyau
+    zgh: ⵜⴰⵛⵉⵏⵟⵓⵜ
+    zh: 神道教
+    zh-cn: 神道教
+    zh-hans: 神道教
+    zh-hant: 神道教
+    zh-hk: 神道
 ---
-
 # [[Shinto]] 
 
 #is_/same_as :: [[WD~Shinto,812767]] 

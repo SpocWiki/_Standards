@@ -1,16 +1,66 @@
 ---
 aliases:
+- Myrteae
+- Mərsinkimilər
+- آسياوية
+- 桃金娘族
 has_id_wikidata: Q13420292
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Acca%20sellowiana%20RJB.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2433
 UMLS_CUI: C4096990
 Commons_category: Myrteae
 taxon_name: Myrteae
+dv_has_:
+  name_:
+    an: Myrteae
+    ar: آسياوية
+    ast: Myrteae
+    az: Mərsinkimilər
+    bg: Myrteae
+    ca: Myrteae
+    ceb: Myrteae
+    da: Myrteae
+    de: Myrteae
+    en: Myrteae
+    eo: Myrteae
+    es: Myrteae
+    eu: Myrteae
+    ext: Myrteae
+    fi: Myrteae
+    fr: Myrteae
+    ga: Myrteae
+    gl: Myrteae
+    hr: Myrteae
+    ia: Myrteae
+    ie: Myrteae
+    ilo: Myrteae
+    io: Myrteae
+    it: Myrteae
+    la: Myrteae
+    mul: Myrteae
+    nb: Myrteae
+    nl: Myrteae
+    nn: Myrteae
+    oc: Myrteae
+    pl: Myrteae
+    pt: Myrteae
+    pt-br: Myrteae
+    ro: Myrteae
+    ru: Myrteae
+    sl: Myrteae
+    sq: Myrteae
+    sv: Myrteae
+    uk: Myrteae
+    vi: Myrteae
+    vo: Myrteae
+    war: Myrteae
+    zh: 桃金娘族
+    zh-cn: 桃金娘族
+    zh-hans: 桃金娘族
 ---
-
 # [[Myrteae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Myrteae,13420292]] 

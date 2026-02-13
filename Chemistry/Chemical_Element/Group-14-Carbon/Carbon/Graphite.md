@@ -1,33 +1,82 @@
 ---
 aliases:
-  - Graphit
-  - Graphite
+- Chio̍h-ba̍k
+- Grafati
+- graffit
+- grafiet
+- grafiit
+- grafiitti
+- grafit
+- grafitas
+- grafite
+- grafiti
+- grafito
+- grafitt
+- grafitu
+- grafít
+- grafīts
+- graifít
+- Graphit
+- Graphite
+- Irsaasoo
+- Jɔɔrɔ
+- kiwen sitelen
+- Manjarano
+- pistabno
+- plumbago
+- qrafit
+- than chì
+- γραφίτης
+- Бал чулуу
+- графіт
+- графит
+- Գրաֆիտ
+- גרפיט
+- غرافيت
+- قرافیت
+- گرافیت
+- گریفائیٹ
+- ग्रेफाईट
+- গ্রাফাইট
+- ਗਰੇਫ਼ਾਈਟ
+- ગ્રેફાઇટ
+- கடுங்கரி
+- గ్రాఫైట్
+- ಗ್ರ್ಯಾಫೈಟ್
+- ഗ്രാഫൈറ്റ്
+- මිනිරන්
+- แกรไฟต์
+- ဂရက်ဖိုက်
+- გრაფიტი
+- グラファイト
+- 石墨
+- 흑연
 has_id_wikidata: Q5309
 RTECS_number:
-  - MD9659600
-  - FF5250100
+- MD9659600
+- FF5250100
 subclass_of:
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]"
-  - "[[_Standards/WikiData/WD~native_element_mineral,723127]]"
-  - "[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]"
-  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]'
+- '[[_Standards/WikiData/WD~native_element_mineral,723127]]'
+- '[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30226881,30226881]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
-space_group: "[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]"
-associated_hazard: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
-has_effect: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
-named_after: "[[_Standards/WikiData/WD~writing,86647781]]"
-has_part_s_: "[[_Standards/WikiData/WD~carbon,623]]"
-streak_color: "[[_Standards/WikiData/WD~black,23445]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30226881,30226881]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
+IMA_status_and_or_rank: '[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]'
+space_group: '[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]'
+associated_hazard: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
+has_effect: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
+named_after: '[[_Standards/WikiData/WD~writing,86647781]]'
+has_part_s_: '[[_Standards/WikiData/WD~carbon,623]]'
+streak_color: '[[_Standards/WikiData/WD~black,23445]]'
 vapor_pressure: 0
 mass: 12
 Mohs_hardness: 1.5
@@ -49,38 +98,151 @@ IMA_Mineral_Symbol: Gr
 Commons_category: Graphite
 Commons_gallery: Graphite
 UNSPSC_Code:
-  - 11101507
-  - 11101702
+- 11101507
+- 11101702
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GraphiteUSGOV.jpg
 EC_number: 231-955-3
 UNII: 4QQN74LH4O
 CAS_Registry_Number: 7782-42-5
 UMLS_CUI: C0302933
 MeSH_tree_code:
-  - D01.268.150.300
-  - D01.578.300
+- D01.268.150.300
+- D01.578.300
 Wolfram_Language_entity_code: Entity["Mineral", "Graphite"]
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Graphite,5309]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]"
+  - '[[../../../../WikiData/WD~Graphite,5309]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Graphite,5309]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]"
+- '[[../../../../WikiData/WD~Graphite,5309]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]'
+dv_has_:
+  name_:
+    af: grafiet
+    ar: غرافيت
+    ast: grafitu
+    az: qrafit
+    azb: قرافیت
+    ba: Графит
+    be: графіт
+    be-tarask: графіт
+    bg: графит
+    bn: গ্রাফাইট
+    bs: grafit
+    ca: grafit
+    ckb: گرافیت
+    cs: grafit
+    cv: графит
+    cy: graffit
+    da: grafit
+    de: Graphit
+    de-ch: Graphit
+    din: Jɔɔrɔ
+    el: γραφίτης
+    en: graphite
+    en-ca: graphite
+    en-gb: graphite
+    eo: grafito
+    es: grafito
+    et: grafiit
+    eu: grafito
+    fa: گرافیت
+    fi: grafiitti
+    fr: graphite
+    ga: graifít
+    gl: grafito
+    gu: ગ્રેફાઇટ
+    he: גרפיט
+    hi: ग्रेफाईट
+    hr: grafit
+    hsb: grafit
+    hu: grafit
+    hy: Գրաֆիտ
+    id: grafit
+    ig: graphite
+    io: grafito
+    is: grafít
+    it: grafite
+    ja: グラファイト
+    jbo: pistabno
+    ka: გრაფიტი
+    kk: графит
+    kn: ಗ್ರ್ಯಾಫೈಟ್
+    ko: 흑연
+    ky: графит
+    la: plumbago
+    lb: graphit
+    li: Grafiet
+    lmo: grafiit
+    lt: grafitas
+    lv: grafīts
+    mg: Manjarano
+    mk: графит
+    ml: ഗ്രാഫൈറ്റ്
+    mn: Бал чулуу
+    ms: grafit
+    my: ဂရက်ဖိုက်
+    nan: Chio̍h-ba̍k
+    nb: grafitt
+    nds: Grafit
+    ne: ग्रेफाईट
+    nl: grafiet
+    nn: grafitt
+    oc: graphite
+    om: Irsaasoo
+    os: графит
+    pa: ਗਰੇਫ਼ਾਈਟ
+    pl: grafit
+    pnb: گریفائیٹ
+    pt: grafite
+    pt-br: grafite
+    ro: grafit
+    ru: графит
+    sco: graphite
+    sh: grafit
+    si: මිනිරන්
+    sk: grafit
+    sl: grafit
+    sq: grafiti
+    sr: графит
+    sv: grafit
+    sw: Grafati
+    ta: கடுங்கரி
+    te: గ్రాఫైట్
+    tg: Графит
+    th: แกรไฟต์
+    tok: kiwen sitelen
+    tr: grafit
+    tt: графит
+    tyv: графит
+    uk: графіт
+    ur: گریفائیٹ
+    uz: grafit
+    vi: than chì
+    wuu: 石墨
+    yue: 石墨
+    zh: 石墨
+    zh-cn: 石墨
+    zh-hans: 石墨
+    zh-hant: 石墨
+    zh-hk: 石墨
+    zh-mo: 石墨
+    zh-my: 石墨
+    zh-sg: 石墨
+    zh-tw: 石墨
 ---
-
 # [[Graphite]] 
 
 #is_/same_as :: [[WD~Graphite,5309]] 

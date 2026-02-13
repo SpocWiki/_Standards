@@ -1,21 +1,71 @@
 ---
 aliases:
-  - unary Function
-  - unäre Funktion
-  - Function~unary
+- fonction unaire
+- funció unària
+- función unaria
+- functie van één variabele
+- Function~unary
+- fungsi sesatu
+- funksjon med éin variabel
+- funsion unària
+- funzione unaria
+- função unária
+- unarna funkcija
+- unary Function
+- unuloka funkcio
+- unární funkce
+- unäre Funktion
+- unêre funksie
+- унарна функція
+- унарная функция
+- унарная функцыя
+- פונקציה אונארית
+- دالة وحيدة العمدة
+- 一元函式
+- 一元函数
+- 一変数函数
 has_id_wikidata: Q7882311
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~binary_relation,130901]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~binary_relation,130901]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~arity,1315869]]"
-  - "[[_Standards/WikiData/WD~univariate,1681619]]"
+- '[[_Standards/WikiData/WD~arity,1315869]]'
+- '[[_Standards/WikiData/WD~univariate,1681619]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_operation,3884033]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
-opposite_of: "[[_Standards/WikiData/WD~multivariate_function,78081419]]"
+- '[[_Standards/WikiData/WD~mathematical_operation,3884033]]'
+- '[[_Standards/WikiData/WD~function,11348]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+opposite_of: '[[_Standards/WikiData/WD~multivariate_function,78081419]]'
+dv_has_:
+  name_:
+    af: unêre funksie
+    ar: دالة وحيدة العمدة
+    be-tarask: унарная функцыя
+    bs: unarna funkcija
+    ca: funció unària
+    cs: unární funkce
+    de: unäre Funktion
+    en: unary function
+    eo: unuloka funkcio
+    es: función unaria
+    fr: fonction unaire
+    gl: función unaria
+    he: פונקציה אונארית
+    it: funzione unaria
+    ja: 一変数函数
+    ms: fungsi sesatu
+    nl: functie van één variabele
+    nn: funksjon med éin variabel
+    pt: função unária
+    pt-br: função unária
+    ru: унарная функция
+    sl: unarna funkcija
+    uk: унарна функція
+    vec: funsion unària
+    zh: 一元函数
+    zh-cn: 一元函数
+    zh-hans: 一元函数
+    zh-hant: 一元函式
 ---
-
 # [[Function~unary]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~unary_function,7882311]] 

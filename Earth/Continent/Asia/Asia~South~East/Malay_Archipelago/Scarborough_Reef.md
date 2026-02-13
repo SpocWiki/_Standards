@@ -1,48 +1,142 @@
 ---
 aliases:
-  - Scarborough_Reef
-  - Scarborough Reef
+- Bajo de Masinloc
+- Beting Scarborough
+- Bãi cạn Scarborough
+- Escull Scarborough
+- Gosong Scarborough
+- Huangyan Dao
+- Kulumpol ng Panatag
+- Panatagrevene
+- Recife de Masinloc
+- Rifo de Scarborough
+- récif de Scarborough
+- Scarborough Reef
+- Scarborough Shoal
+- Scarborough-rif
+- Scarborough-Riff
+- Scarborough-zátony
+- Scarboroughin matalikko
+- Scarboroughrevet
+- Scarborough_Reef
+- Scarboroughška plitvina
+- Skarboro sekluma
+- Skārboro sēklis
+- Ύφαλος Σκάρμπορο
+- Мілина Скарборо
+- Скарборо-Шол
+- Скарборски Гребен
+- סקרבורו שואל
+- سد ساحلی اسکاربرو
+- سكاربورو شول
+- سکیربورو شوال
+- स्कारबरो शोल
+- स्कार्बरो शोल
+- স্কারবোরো সোয়াল
+- સ્કારબોરો શોલ
+- ஸ்கேர்போரூக்ஹ் ஷால்
+- స్కార్బొరో షోల్
+- ಸ್ಕಾರ್ಬರೊ ಶೋಲ್
+- ස්කාර්බෝරෝ ශඔල්
+- สันทรายสคาร์โบโร่
+- スカボロー礁
+- 民主礁
+- 黃巖島
+- 黄岩岛
+- 스카버러 암초
 confidential: public
 cssclasses:
-  - geo-Region
+- geo-Region
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - de
-layout: ""
+- de
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - 15.153
-  - 117.754
+- 15.153
+- 117.754
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 title: Scarborough_Reef
 type: geo-Region
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef|Scarborough_Reef]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public|Scarborough_Reef.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal|Scarborough_Reef.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect|Scarborough_Reef.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]]"
+  - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef|Scarborough_Reef]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public|Scarborough_Reef.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal|Scarborough_Reef.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect|Scarborough_Reef.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef|Scarborough_Reef]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public|Scarborough_Reef.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal|Scarborough_Reef.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect|Scarborough_Reef.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]]"
+- '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef|Scarborough_Reef]]'
+- '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public|Scarborough_Reef.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal|Scarborough_Reef.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect|Scarborough_Reef.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]]'
 has_id_wikidata: Q628716
+dv_has_:
+  name_:
+    ace: Bajo de Masinloc
+    ar: سكاربورو شول
+    bn: স্কারবোরো সোয়াল
+    ca: Escull Scarborough
+    cs: Scarborough Shoal
+    da: Scarborough Shoal
+    de: Scarborough-Riff
+    el: Ύφαλος Σκάρμπορο
+    en: Scarborough Shoal
+    eo: Rifo de Scarborough
+    es: Bajo de Masinloc
+    fa: سد ساحلی اسکاربرو
+    fi: Scarboroughin matalikko
+    fr: récif de Scarborough
+    gu: સ્કારબોરો શોલ
+    he: סקרבורו שואל
+    hi: स्कारबरो शोल
+    hu: Scarborough-zátony
+    id: Gosong Scarborough
+    it: Scarborough Shoal
+    ja: スカボロー礁
+    kn: ಸ್ಕಾರ್ಬರೊ ಶೋಲ್
+    ko: 스카버러 암초
+    lt: Skarboro sekluma
+    lv: Skārboro sēklis
+    mk: Скарборски Гребен
+    mr: स्कार्बरो शोल
+    ms: Beting Scarborough
+    nb: Panatagrevene
+    nl: Scarborough-rif
+    pl: Huangyan Dao
+    pt: Recife de Masinloc
+    ru: Скарборо-Шол
+    si: ස්කාර්බෝරෝ ශඔල්
+    sl: Scarboroughška plitvina
+    sv: Scarboroughrevet
+    ta: ஸ்கேர்போரூக்ஹ் ஷால்
+    te: స్కార్బొరో షోల్
+    th: สันทรายสคาร์โบโร่
+    tl: Kulumpol ng Panatag
+    tr: Scarborough Shoal
+    uk: Мілина Скарборо
+    ur: سکیربورو شوال
+    vi: Bãi cạn Scarborough
+    yue: 黃巖島
+    zh: 黄岩岛
+    zh-cn: 黄岩岛
+    zh-hans: 黄岩岛
+    zh-hant: 黃巖島
+    zh-tw: 民主礁
 ---
 # [[Scarborough_Reef]] 
 

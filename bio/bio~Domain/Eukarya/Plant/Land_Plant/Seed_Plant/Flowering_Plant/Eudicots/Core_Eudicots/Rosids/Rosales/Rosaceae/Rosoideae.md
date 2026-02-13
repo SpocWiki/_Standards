@@ -1,28 +1,110 @@
 ---
 aliases:
+- phân họ Hoa hồng
+- Qızılgülkimilər
+- Rosoideae
+- Rosòidia
+- Rožu apakšdzimta
+- vlastní růžovité
+- розалар
+- розанні
+- розановые
+- рози
+- Руже
+- վարդայիններ
+- رزوئیده
+- ورداوات
+- バラ亜科
+- 蔷薇亚科
+- 薔薇亞科
+- 장미아과
 has_id_wikidata: Q134655
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-described_by_source: "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+described_by_source: '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20eglanteria%20img%203218.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=3044
 UMLS_CUI: C1080675
 Commons_category: Rosoideae
 taxon_name: Rosoideae
 taxon_common_name:
-  - ورداوات
-  - Rosòidia
-  - رزوئیده
-  - バラ亜科
-  - 장미아과
-  - Рози
-  - Розановые
-  - Розанні
-  - hoa hồng
-  - 薔薇亞科
+- ورداوات
+- Rosòidia
+- رزوئیده
+- バラ亜科
+- 장미아과
+- Рози
+- Розановые
+- Розанні
+- hoa hồng
+- 薔薇亞科
+dv_has_:
+  name_:
+    an: Rosoideae
+    ar: ورداوات
+    arz: ورداوات
+    ast: Rosoideae
+    az: Qızılgülkimilər
+    be: Rosoideae
+    bg: Rosoideae
+    ca: Rosòidia
+    ceb: Rosoideae
+    cs: vlastní růžovité
+    de: Rosoideae
+    en: Rosoideae
+    eo: Rosoideae
+    es: Rosoideae
+    eu: Rosoideae
+    ext: Rosoideae
+    fa: رزوئیده
+    fi: Rosoideae
+    fr: Rosoideae
+    ga: Rosoideae
+    gl: Rosoideae
+    he: Rosoideae
+    hr: Rosoideae
+    hy: վարդայիններ
+    ia: Rosoideae
+    id: Rosoideae
+    ie: Rosoideae
+    io: Rosoideae
+    it: Rosoideae
+    ja: バラ亜科
+    ko: 장미아과
+    la: Rosoideae
+    lt: Rosoideae
+    lv: Rožu apakšdzimta
+    mk: рози
+    ms: Rosoideae
+    mul: Rosoideae
+    nb: Rosoideae
+    nl: Rosoideae
+    nn: Rosoideae
+    oc: Rosoideae
+    pl: Rosoideae
+    pt: Rosoideae
+    pt-br: Rosoideae
+    ro: Rosoideae
+    ru: розановые
+    sl: Rosoideae
+    sq: Rosoideae
+    sr: Руже
+    sv: Rosoideae
+    tr: Rosoideae
+    tt: розалар
+    uk: розанні
+    vi: phân họ Hoa hồng
+    vo: Rosoideae
+    war: Rosoideae
+    zh: 薔薇亞科
+    zh-cn: 蔷薇亚科
+    zh-hans: 蔷薇亚科
+    zh-hant: 薔薇亞科
+    zh-hk: 薔薇亞科
+    zh-sg: 蔷薇亚科
+    zh-tw: 薔薇亞科
 ---
-
 # [[Rosoideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]] 

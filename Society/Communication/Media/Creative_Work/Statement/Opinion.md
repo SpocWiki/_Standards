@@ -1,30 +1,177 @@
 ---
 aliases:
-  - Meinung
-  - Opinion
+- Ali (soñj)
+- arvamus
+- Barn
+- barúil
+- fehma
+- görüş
+- holdning
+- Iritzi
+- meining
+- Meinung
+- mening
+- mielipide
+- mišljenje
+- mnenje
+- nuomonė
+- názor
+- Opini
+- opinia
+- opinie
+- opinio
+- Opinion
+- opinione
+- opinioni
+- Opiniono
+- opinião
+- opinió
+- opinión
+- Opinyon
+- pendapat
+- Rəy
+- sud
+- Sud (logika)
+- Upinioni
+- Uvo
+- viedoklis
+- vélemény
+- åsikt
+- èrò
+- ý kiến
+- γνώμη
+- Ақида
+- думка
+- меркаванне
+- меркаваньне
+- мислење
+- мишљење
+- мнение
+- կարծիք
+- דעה
+- מיינונג
+- رأي
+- راء
+- رائے
+- عقیده
+- ڕا
+- ڤنداڤت
+- মতামত
+- கருத்து
+- అభిప్రాయం
+- ಅಭಿಪ್ರಾಯ
+- တၢင်းႁၼ်ထိုင်
+- ပြည်သူ့သဘောထား
+- მოსაზრება
+- 意見
+- 意见
+- 의견
 has_id_wikidata: Q3962655
 different_from:
-  - '[[_Standards/WikiData/WD~doctrine,117850]]'
-  - '[[_Standards/WikiData/WD~Opinion,7098166]]'
+- '[[_Standards/WikiData/WD~doctrine,117850]]'
+- '[[_Standards/WikiData/WD~Opinion,7098166]]'
 opposite_of: '[[_Standards/WikiData/WD~fact,188572]]'
 part_of: '[[_Standards/WikiData/WD~declarative_sentence,474328]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
-  - '[[_Standards/WikiData/WD~point_of_view,12558574]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~point_of_view,12558574]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~point_of_view,12558574]]'
-  - '[[_Standards/WikiData/WD~view,109361341]]'
+- '[[_Standards/WikiData/WD~point_of_view,12558574]]'
+- '[[_Standards/WikiData/WD~view,109361341]]'
 instance_of: '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
 Wikidata_property:
-  - statement disputed by
-  - statement supported by
+- statement disputed by
+- statement supported by
 facet_of: '[[_Standards/WikiData/WD~epistemology,9471]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~belief,34394]]'
 Iconclass_notation: 52C11
 Commons_category: Opinion
 Colon_Classification: S:47
+dv_has_:
+  name_:
+    ar: رأي
+    az: Rəy
+    be: меркаванне
+    be-tarask: меркаваньне
+    bg: Мнение
+    bn: মতামত
+    br: Ali (soñj)
+    bs: mišljenje
+    ca: opinió
+    ckb: ڕا
+    cs: názor
+    cy: Barn
+    da: holdning
+    de: Meinung
+    el: γνώμη
+    en: opinion
+    en-ca: opinion
+    en-gb: opinion
+    eo: opinio
+    es: opinión
+    et: arvamus
+    eu: Iritzi
+    fa: عقیده
+    fi: mielipide
+    fr: opinion
+    ga: barúil
+    gl: opinión
+    he: דעה
+    hr: sud
+    ht: Opinyon
+    hu: vélemény
+    hy: կարծիք
+    id: Opini
+    io: Opiniono
+    it: opinione
+    ja: 意見
+    ka: მოსაზრება
+    kn: ಅಭಿಪ್ರಾಯ
+    ko: 의견
+    la: opinio
+    lt: nuomonė
+    lv: viedoklis
+    mk: мислење
+    ms: pendapat
+    ms-arab: ڤنداڤت
+    mt: fehma
+    my: ပြည်သူ့သဘောထား
+    nb: mening
+    nl: mening
+    nn: meining
+    pl: opinia
+    pms: Opinion
+    pt: opinião
+    pt-br: opinião
+    ro: opinie
+    ru: мнение
+    scn: Upinioni
+    sd: راء
+    sh: Sud (logika)
+    shn: တၢင်းႁၼ်ထိုင်
+    sk: názor
+    sl: mnenje
+    sq: opinioni
+    sr: мишљење
+    sr-ec: opinion
+    sv: åsikt
+    ta: கருத்து
+    te: అభిప్రాయం
+    tg: Ақида
+    tr: görüş
+    uk: думка
+    ur: رائے
+    vec: Opinion
+    vi: ý kiến
+    wuu: 意见
+    yi: מיינונג
+    yo: èrò
+    yue: 意見
+    zh: 意見
+    zh-hant: 意見
+    zh-tw: 意見
+    zu: Uvo
 ---
-
 # [[Opinion]] 
 
 #is_/similar_to :: [[Claim]] 

@@ -1,52 +1,212 @@
 ---
 aliases:
-  - Psychotherapy
+- counselling
+- Maandabiib
+- Maɣzɩm kɔɔ labɩtʊ tʊmɩyɛ
+- psichoterapija
+- psicoterapia
+- psicoteràpia
+- psigoterapie
+- psihoterapie
+- psihoterapija
+- Psikoterapi
+- psikoterapia
+- psikoterapio
+- Psikoterapya
+- Psixoterapiya
+- psychoterapia
+- psychoterapie
+- psychotherapia
+- Psychotherapie
+- Psychotherapy
+- psychothérapie
+- psykoterapi
+- psykoterapia
+- psykoterapiija
+- pszichoterápia
+- Psîkoterapî
+- psühhoteraapia
+- seicotherapi
+- sicoterapia
+- sikoterapia
+- Sikoterapiya
+- Sálfræðimeðferð
+- síciteiripe
+- tâm lý trị liệu
+- Uchidzandanga
+- Ψυχοθεραπεία
+- псіхатэрапія
+- психотерапія
+- психотерапија
+- психотерапия
+- псыхатэрапія
+- հոգեթերապիա
+- Մտաբուժութիւն
+- פסיכותרפיה
+- رواندرمانی
+- علاج نفسى
+- علاج نفسي
+- نفسیاتی علاج
+- پسیکۆتەراپی
+- چارەسەری دەروونی
+- ڤسيکوتيراڤي
+- मनोचिकित्सा
+- মনোচিকিৎসা
+- ਸਾਈਕੋਥੈਰੇਪੀ
+- మానసిక చికిత్స
+- จิตบำบัด
+- སེམས་ཁམས་བཅོས་ཐབས་
+- ფსიქოთერაპია
+- 心理治疗
+- 心理治療
+- 心理療法
+- 심리치료
 has_id_wikidata: Q183257
 Commons_category: Psychotherapy
 Dewey_Decimal_Classification: 616.8914
 GitHub_topic: psychotherapy
 has_list: '[[_Standards/WikiData/WD~list_of_psychotherapies,2750270]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~existential_therapy,556014]]'
-  - '[[_Standards/WikiData/WD~gestalt_therapy,828879]]'
-  - '[[_Standards/WikiData/WD~group_psychotherapy,837393]]'
-  - '[[_Standards/WikiData/WD~family_therapy,870449]]'
-  - '[[_Standards/WikiData/WD~art_therapy,928865]]'
-  - '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
-  - '[[_Standards/WikiData/WD~feminist_therapy,1404521]]'
-  - '[[_Standards/WikiData/WD~body_psychotherapy,1416259]]'
-  - '[[_Standards/WikiData/WD~psychodynamic_psychotherapy,2279219]]'
-  - '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
+- '[[_Standards/WikiData/WD~existential_therapy,556014]]'
+- '[[_Standards/WikiData/WD~gestalt_therapy,828879]]'
+- '[[_Standards/WikiData/WD~group_psychotherapy,837393]]'
+- '[[_Standards/WikiData/WD~family_therapy,870449]]'
+- '[[_Standards/WikiData/WD~art_therapy,928865]]'
+- '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
+- '[[_Standards/WikiData/WD~feminist_therapy,1404521]]'
+- '[[_Standards/WikiData/WD~body_psychotherapy,1416259]]'
+- '[[_Standards/WikiData/WD~psychodynamic_psychotherapy,2279219]]'
+- '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_psychotherapy,1516933]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~health_specialty,44597158]]'
-  - '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~health_specialty,44597158]]'
+- '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]'
 Krugosvet_article: medicina/PSIHOTERAPIYA.html
 Library_of_Congress_Classification: RC475-RC489.2
 medical_condition_treated: '[[_Standards/WikiData/WD~mental_disorder,12135]]'
 MeSH_tree_code: F04.754
 part_of:
-  - '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
 PhilPapers_topic: psychotherapy
 practiced_by:
-  - '[[_Standards/WikiData/WD~psychiatrist,211346]]'
-  - '[[_Standards/WikiData/WD~psychologist,212980]]'
-  - '[[_Standards/WikiData/WD~medical_psychotherapist,256705]]'
-  - '[[_Standards/WikiData/WD~clinical_psychologist,1113899]]'
-  - '[[_Standards/WikiData/WD~psychotherapist,1900167]]'
+- '[[_Standards/WikiData/WD~psychiatrist,211346]]'
+- '[[_Standards/WikiData/WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~medical_psychotherapist,256705]]'
+- '[[_Standards/WikiData/WD~clinical_psychologist,1113899]]'
+- '[[_Standards/WikiData/WD~psychotherapist,1900167]]'
 regulated_by:
-  - '[[_Standards/WikiData/WD~European_Association_for_Psychotherapy,876554]]'
-  - '[[_Standards/WikiData/WD~World_Council_for_Psychotherapy,1110733]]'
+- '[[_Standards/WikiData/WD~European_Association_for_Psychotherapy,876554]]'
+- '[[_Standards/WikiData/WD~World_Council_for_Psychotherapy,1110733]]'
 subclass_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
 subreddit: psychotherapy
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Psychotherapy,14884790]]'
 UMLS_CUI: C0033968
 U_S_National_Archives_Identifier: 10643288
 Wolfram_Language_entity_code: Entity["Concept", "Psychotherapy::r62n5"]
+dv_has_:
+  name_:
+    af: psigoterapie
+    ar: علاج نفسي
+    arz: علاج نفسى
+    as: মনোচিকিৎসা
+    ast: sicoterapia
+    az: Psixoterapiya
+    be: псіхатэрапія
+    be-tarask: псыхатэрапія
+    bg: Психотерапия
+    bo: སེམས་ཁམས་བཅོས་ཐབས་
+    bs: psihoterapija
+    ca: psicoteràpia
+    ckb: چارەسەری دەروونی
+    cs: psychoterapie
+    cy: seicotherapi
+    da: psykoterapi
+    de: Psychotherapie
+    el: Ψυχοθεραπεία
+    en: psychotherapy
+    en-ca: psychotherapy
+    en-gb: psychotherapy
+    eo: psikoterapio
+    es: psicoterapia
+    et: psühhoteraapia
+    eu: psikoterapia
+    fa: رواندرمانی
+    fi: psykoterapia
+    fr: psychothérapie
+    ga: síciteiripe
+    gl: psicoterapia
+    he: פסיכותרפיה
+    hi: मनोचिकित्सा
+    hr: psihoterapija
+    hu: pszichoterápia
+    hy: հոգեթերապիա
+    hyw: Մտաբուժութիւն
+    id: Psikoterapi
+    is: Sálfræðimeðferð
+    it: psicoterapia
+    ja: 心理療法
+    ka: ფსიქოთერაპია
+    kbp: Maɣzɩm kɔɔ labɩtʊ tʊmɩyɛ
+    kk: Психотерапия
+    ko: 심리치료
+    ku: Psîkoterapî
+    ku-arab: پسیکۆتەراپی
+    ku-latn: Psîkoterapî
+    ky: Психотерапия
+    la: psychotherapia
+    lb: Psychotherapie
+    lt: psichoterapija
+    lv: psihoterapija
+    mk: психотерапија
+    ms: psikoterapi
+    ms-arab: ڤسيکوتيراڤي
+    nb: psykoterapi
+    nl: psychotherapie
+    nn: psykoterapi
+    pa: ਸਾਈਕੋਥੈਰੇਪੀ
+    pam: sikoterapia
+    pl: psychoterapia
+    pt: psicoterapia
+    ro: psihoterapie
+    ru: психотерапия
+    se: psykoterapiija
+    sh: Psihoterapija
+    sk: psychoterapia
+    sl: psihoterapija
+    smn: psykoterapia
+    sms: psykoterapia
+    sn: Uchidzandanga
+    so: Maandabiib
+    sq: psikoterapia
+    sr: психотерапија
+    sr-ec: Психотерапија
+    sr-el: Psihoterapija
+    su: Psikoterapi
+    sv: psykoterapi
+    ta: counselling
+    te: మానసిక చికిత్స
+    th: จิตบำบัด
+    tl: Sikoterapiya
+    tr: Psikoterapi
+    tt: психотерапия
+    uk: психотерапія
+    ur: نفسیاتی علاج
+    uz: Psixoterapiya
+    vec: psicoterapia
+    vi: tâm lý trị liệu
+    war: Psikoterapya
+    wuu: 心理治疗
+    yue: 心理治療
+    zh: 心理治療
+    zh-cn: 心理治疗
+    zh-hans: 心理治疗
+    zh-hant: 心理治療
+    zh-hk: 心理治療
+    zh-sg: 心理治疗
+    zh-tw: 心理治療
 ---
-
 # [[Psychotherapy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Psychotherapy,183257]] 

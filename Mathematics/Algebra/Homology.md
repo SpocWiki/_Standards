@@ -1,16 +1,93 @@
 ---
 aliases:
+- Gomologiya (matematika)
+- homologi
+- Homologi (matematika)
+- homologia
+- Homologia (matematika)
+- Homologie
+- homologiija
+- homologija
+- homologije
+- homologio
+- homology
+- homología
+- Homoloji (matematik)
+- homoloogia
+- homoloxía
+- homológia-elmélet
+- omologia
+- omologie
+- Μαθηματική ομολογία
+- гамалёгія
+- гомологія
+- гомологии
+- хомологија
+- הומולוגיה
+- شباه
+- همولوژی (ریاضیات)
+- ჰომოლოგიური ჯგუფი
+- ホモロジー
+- 同調
+- 同调
+- 호몰로지
 has_id_wikidata: Q1144780
-subclass_of: "[[_Standards/WikiData/WD~invariant,188211]]"
+subclass_of: '[[_Standards/WikiData/WD~invariant,188211]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~category_theory,217413]]"
-  - "[[_Standards/WikiData/WD~homological_algebra,579978]]"
-uses: "[[_Standards/WikiData/WD~chain_complex,1143328]]"
-opposite_of: "[[_Standards/WikiData/WD~cohomology,1198376]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~homological_algebra,579978]]'
+uses: '[[_Standards/WikiData/WD~chain_complex,1143328]]'
+opposite_of: '[[_Standards/WikiData/WD~cohomology,1198376]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 Commons_category: Homology
+dv_has_:
+  name_:
+    ar: شباه
+    be-tarask: гамалёгія
+    ca: homologia
+    cs: homologie
+    de: Homologie
+    el: Μαθηματική ομολογία
+    en: homology
+    eo: homologio
+    es: homología
+    et: homoloogia
+    eu: Homologia (matematika)
+    fa: همولوژی (ریاضیات)
+    fi: homologia
+    fr: homologie
+    gl: homoloxía
+    he: הומולוגיה
+    hu: homológia-elmélet
+    id: Homologi (matematika)
+    it: omologia
+    ja: ホモロジー
+    ka: ჰომოლოგიური ჯგუფი
+    ko: 호몰로지
+    nb: homologi
+    nl: homologie
+    nn: homologi
+    pt: homologia
+    ro: omologie
+    ru: гомологии
+    se: homologiija
+    sl: homologija
+    sma: homologije
+    smj: homologija
+    smn: homologia
+    sms: homologia
+    sr: хомологија
+    sv: homologi
+    tr: Homoloji (matematik)
+    uk: гомологія
+    uz: Gomologiya (matematika)
+    wuu: 同调
+    yue: 同調
+    zh: 同调
+    zh-hans: 同调
+    zh-hant: 同調
+    zh-hk: 同調
 ---
-
 # [[Homology]] 
 
 #is_/same_as :: [[WD~Homology,1144780]] 

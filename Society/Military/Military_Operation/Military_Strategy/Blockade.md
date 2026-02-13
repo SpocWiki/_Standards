@@ -1,20 +1,137 @@
 ---
 aliases:
+- Abluka
+- Bllokada
+- Blocadă
+- blocco
+- blockad
+- blockade
+- bloco
+- blocus
+- Blocâd
+- Blokaad
+- blokada
+- blokade
+- blokado
+- Blokeo
+- blokkade
+- Blokkade (militêre strategy)
+- blokád
+- blokáda
+- blokāde
+- bloqueig
+- bloqueio
+- bloqueo
+- Hərbi blokada
+- imshuí
+- karinė blokada
+- obsidio
+- Phong tỏa
+- saarto
+- Sekatan
+- Αποκλεισμός
+- блокадæ
+- Блокада
+- ваенная блакада
+- вайсковая блякада
+- воєнна блокада
+- военная блокада
+- Хориглолт
+- շրջափակում
+- הסגר
+- دچکلسن
+- محاصرة
+- محاصره
+- گەمارۆ
+- नाकाबन्दी
+- அடைப்பு
+- การปิดล้อม
+- სამხედრო ბლოკადა
+- 封鎖
+- 봉쇄
 has_id_wikidata: Q273976
 different_from:
-  - "[[_Standards/WikiData/WD~lockout,159377]]"
-  - "[[_Standards/WikiData/WD~siege,188055]]"
+- '[[_Standards/WikiData/WD~lockout,159377]]'
+- '[[_Standards/WikiData/WD~siege,188055]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~military_operation,645883]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~military_operation,645883]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blockade%20of%20Toulon%2C%201810-1814.jpg
+dv_has_:
+  name_:
+    ar: محاصرة
+    az: Hərbi blokada
+    be: ваенная блакада
+    be-tarask: вайсковая блякада
+    bg: Блокада
+    bs: blokada
+    ca: bloqueig
+    ckb: گەمارۆ
+    cs: blokáda
+    cy: Blocâd
+    da: blokade
+    de: Blockade
+    el: Αποκλεισμός
+    en: blockade
+    en-ca: Blockade
+    eo: blokado
+    es: bloqueo
+    et: Blokaad
+    eu: Blokeo
+    fa: محاصره
+    fi: saarto
+    fr: blocus
+    fy: Blokkade (militêre strategy)
+    ga: imshuí
+    he: הסגר
+    hi: नाकाबन्दी
+    hr: Blokada
+    hu: blokád
+    hy: շրջափակում
+    id: Blokade
+    it: blocco
+    ja: 封鎖
+    ka: სამხედრო ბლოკადა
+    ko: 봉쇄
+    la: obsidio
+    lb: Blockade
+    lt: karinė blokada
+    lv: blokāde
+    mk: блокада
+    mn: Хориглолт
+    ms: Sekatan
+    mzn: دچکلسن
+    nb: blokade
+    nl: blokkade
+    oc: Blocus
+    os: блокадæ
+    pl: blokada
+    pt: bloqueio
+    pt-br: bloqueio
+    ro: Blocadă
+    ru: военная блокада
+    sh: Blokada
+    sl: blokada
+    sq: Bllokada
+    sr: блокада
+    sr-ec: блокада
+    sr-el: blokada
+    sv: blockad
+    ta: அடைப்பு
+    th: การปิดล้อม
+    tr: Abluka
+    uk: воєнна блокада
+    uz: Blokada
+    vec: bloco
+    vi: Phong tỏa
+    yue: 封鎖
+    zh: 封鎖
 ---
-
 # [[Blockade]] 
 
 #is_/similar_to :: [[Embargo]] 

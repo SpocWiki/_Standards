@@ -1,35 +1,74 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]"
-    - "[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]"
-    - "[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]"
-    - "[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]"
-    - "[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]"
-    - "[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]"
+  - '[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]'
+  - '[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]'
+  - '[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]'
+  - '[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]'
+  - '[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]'
+  - '[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]"
-  - "[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]"
-  - "[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]"
-  - "[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]"
-  - "[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]"
-  - "[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]"
-
-location: [ 16.79833333, 96.14944444 ] 
+- '[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]'
+- '[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]'
+- '[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]'
+- '[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]'
+- '[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]'
+- '[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]'
+- '[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]'
+- '[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]'
+location:
+- 16.79833333
+- 96.14944444
 aliases:
-  - Shwedagon Pagoda
-  - ရွှေတိဂုံဘုရား
-  - ကျာ်ဒဂုၚ်
-  - Shwedagon Zedi Daw
-  - ရွှေတိဂုံစေတီတော်
-  - Golden Dagon Pagoda
-  - Great Dagon Pagoda
-  - Golden Pagoda
-  - Shwedagon_Pagoda
+- Chùa Shwedagon
+- Golden Dagon Pagoda
+- Golden Pagoda
+- Great Dagon Pagoda
+- Pagoda Shwe Dagon
+- Pagoda Shwedagon
+- Pagodang Shwedagon
+- pagode Shwedagon
+- Pagòda de Shwedagon
+- Qızıl Daqon Paqodası
+- Schwedagonpagode
+- Shwedagon
+- Shwedagon Pagoda
+- Shwedagon Zedi Daw
+- Shwedagonin pagodi
+- Shwedagon_Pagoda
+- Svedagon pagoda
+- Švedagon
+- Švedagonas pagoda
+- Šweitigoumská pagoda
+- Дагон
+- Пагада Шведагон
+- Пагода Швідагон
+- Пагода Шведагон
+- Шведагон
+- Шведагон пагодаһы
+- Шведагон суварга
+- Швэдагон
+- Շվեդագոն պագոդա
+- שוודאגון פאגודה
+- شویڈاگون پگوڈا
+- معبد شويداغون
+- श्वेडागोन पगोडा
+- শ্বেতাগোঁন মহাচৈত্য
+- சவேடகன் அடுக்குத் தூபி
+- ശ്വെദഗൊൺ പഗോഡ
+- พระมหาธาตุเจดีย์ชเวดากอง
+- ကျာ်ဒဂုၚ်
+- ဒဂုၚ်၊ကျာ်
+- ရွှေတိဂုံစေတီတော်
+- ရွှေတိဂုံဘုရား
+- ၵွင်းမူးသူၺ်ႇတၵူင်ႇ
+- វត្ត ស្វេដាហ្គុន
+- シュエダゴン・パゴダ
+- 仰光大金寺
+- 大金寺
+- 쉐다곤 파고다
 has_id_wikidata: Q464535
 architect: '[[_Standards/WikiData/WD~Hsinbyushin,1395046]]'
 heritage_designation: '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
@@ -37,11 +76,11 @@ different_from: '[[_Standards/WikiData/WD~Shwezigon_Pagoda,2747222]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dagon_Township,4153965]]'
 instance_of: '[[_Standards/WikiData/WD~Buddhist_temple,5393308]]'
 World_Heritage_criteria:
-  - '[[_Standards/WikiData/WD~(i),23038972]]'
-  - '[[_Standards/WikiData/WD~(iv),23038978]]'
-  - '[[_Standards/WikiData/WD~(ii),23038976]]'
-  - '[[_Standards/WikiData/WD~(iii),23038977]]'
-  - '[[_Standards/WikiData/WD~(vi),23038980]]'
+- '[[_Standards/WikiData/WD~(i),23038972]]'
+- '[[_Standards/WikiData/WD~(iv),23038978]]'
+- '[[_Standards/WikiData/WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(iii),23038977]]'
+- '[[_Standards/WikiData/WD~(vi),23038980]]'
 founded_by: '[[_Standards/WikiData/WD~Myanmar,836]]'
 country: '[[_Standards/WikiData/WD~Myanmar,836]]'
 height: 112
@@ -50,8 +89,70 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Yangon%20-%20Shwedagon
 official_website: http://www.shwedagonpagoda.com.mm/
 Commons_category: Shwedagon pagoda
 coordinate_location: Point(96.14944444 16.79833333)
+dv_has_:
+  name_:
+    ar: معبد شويداغون
+    ast: Shwedagon
+    az: Qızıl Daqon Paqodası
+    ba: Шведагон пагодаһы
+    be: Пагада Шведагон
+    be-tarask: Швэдагон
+    bg: Шведагон
+    bn: শ্বেতাগোঁন মহাচৈত্য
+    ca: Shwedagon Pagoda
+    cs: Šweitigoumská pagoda
+    de: Shwedagon
+    en: Shwedagon Pagoda
+    es: Shwedagon
+    eu: Shwedagon pagoda
+    fi: Shwedagonin pagodi
+    fr: pagode Shwedagon
+    he: שוודאגון פאגודה
+    hi: श्वेडागोन पगोडा
+    hu: Svedagon pagoda
+    hy: Շվեդագոն պագոդա
+    id: Shwedagon
+    it: Pagoda Shwedagon
+    ja: シュエダゴン・パゴダ
+    kk: Дагон
+    km: វត្ត ស្វេដាហ្គុន
+    ko: 쉐다곤 파고다
+    lv: Švedagonas pagoda
+    ml: ശ്വെദഗൊൺ പഗോഡ
+    mn: Шведагон суварга
+    mnw: ဒဂုၚ်၊ကျာ်
+    my: ရွှေတိဂုံစေတီတော်
+    nl: Schwedagonpagode
+    oc: Pagòda de Shwedagon
+    pl: Pagoda Shwe Dagon
+    pnb: شویڈاگون پگوڈا
+    pt: Pagode Shwedagon
+    ro: Pagoda Shwe Dagon
+    ru: Пагода Шведагон
+    sh: Shwedagon
+    shn: ၵွင်းမူးသူၺ်ႇတၵူင်ႇ
+    sl: Pagoda Shwedagon
+    sr: Шведагон
+    sr-ec: Шведагон
+    sr-el: Švedagon
+    sv: Shwedagon
+    ta: சவேடகன் அடுக்குத் தூபி
+    th: พระมหาธาตุเจดีย์ชเวดากอง
+    tl: Pagodang Shwedagon
+    tr: Shwedagon Pagoda
+    uk: Пагода Швідагон
+    vi: Chùa Shwedagon
+    war: Pagoda Shwedagon
+    wuu: 仰光大金寺
+    yue: 大金寺
+    zh: 仰光大金寺
+    zh-cn: 仰光大金寺
+    zh-hans: 仰光大金寺
+    zh-hant: 仰光大金寺
+    zh-hk: 仰光大金寺
+    zh-sg: 仰光大金寺
+    zh-tw: 仰光大金寺
 ---
-
 # [[Shwedagon_Pagoda]] 
 
 ![[../../../assets/Shwedagon_Pagoda.png]] 

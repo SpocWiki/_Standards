@@ -1,7 +1,64 @@
 ---
 has_id_wikidata: Q185961
+dv_has_:
+  name_:
+    ar: إدراك الزمن
+    be-tarask: успрыманьне часу
+    ca: percepció del temps
+    cs: vnímání času
+    de: Zeitwahrnehmung
+    en: time perception
+    es: percepción del tiempo
+    et: Ajataju
+    fa: ادراک زمان
+    fr: perception du temps
+    he: תפיסת זמן
+    hu: időérzékelés
+    hy: ժամանակի ընկալում
+    it: percezione del tempo
+    ja: 時間知覚
+    ko: 시간 지각
+    mk: временско воспримање
+    nb: tidspersepsjon
+    nl: tijdsperceptie
+    pl: Percepcja czasu
+    pt: percepção de tempo
+    ro: Percepția timpului
+    ru: Восприятие времени
+    sl: zaznavanje časa
+    tr: Zaman algısı
+    uk: сприйняття часу
+    yue: 時間知覺
+    zh: 時間知覺
+aliases:
+- Ajataju
+- időérzékelés
+- percepció del temps
+- percepción del tiempo
+- Percepcja czasu
+- perception du temps
+- percepção de tempo
+- Percepția timpului
+- percezione del tempo
+- tidspersepsjon
+- tijdsperceptie
+- time perception
+- vnímání času
+- Zaman algısı
+- zaznavanje časa
+- Zeitwahrnehmung
+- Восприятие времени
+- временско воспримање
+- сприйняття часу
+- успрыманьне часу
+- ժամանակի ընկալում
+- תפיסת זמן
+- إدراك الزمن
+- ادراک زمان
+- 時間知覚
+- 時間知覺
+- 시간 지각
 ---
-
 ## #has_/text_of_/abstract 
 
 > In psychology and neuroscience, time perception or **Chronoception** is the subjective experience, or sense, of time, which is measured by someone's own perception of the duration of the indefinite and unfolding of events. The perceived time interval between two successive events is referred to as perceived duration. Though directly experiencing or understanding another person's perception of time is not possible, perception can be objectively studied and inferred through a number of scientific experiments. Some temporal illusions help to expose the underlying neural mechanisms of time perception.

@@ -1,23 +1,74 @@
 ---
 aliases:
-  - Hydraulic engineering
-  - Hydraulic_Engineering
-  - Hydraulic Engineering
+- akva inĝenierio
+- budownictwo wodne
+- engenharia hidráulica
+- enginyeria hidràulica
+- Gidrotexnika
+- génie hydraulique
+- Gïdrotexnïka
+- hidraulika
+- Hidrogradnja
+- hidrolik mühendisliği
+- Hidrotechnika
+- Hidrotehnică
+- hidrotehnika
+- hidrotexnika
+- Hydraulic engineering
+- hydraulické inženýrství
+- Hydraulic_Engineering
+- hydrotekniikka
+- hydroteknik
+- ingegneria idraulica
+- Ingeniaritza hidrauliko
+- ingeniería hidráulica
+- innealtóireacht hiodrálach
+- inzegnaria idràulega
+- jeshaghtys ushtey-obbragh
+- kejuruteraan hidraulik
+- pūhanga waipēhi
+- Teknik hidrolika
+- Vesiehitus
+- Vodogradnja
+- Wasserbau
+- waterbouwkunde
+- υδραυλική μηχανική
+- водоградња
+- гідратэхніка
+- гідротехніка
+- гидротехника
+- Усны инженерийн байгууламж
+- хидротехника
+- һидротехник
+- Հիդրոտեխնիկա
+- הידראַוליק אינזשעניריע
+- הנדסת מים
+- ئەندازیاریی ئاو
+- مهندسی هیدرولیک
+- هندسة هيدروليكية
+- کجوروتراءن هيدراوليک
+- گىيدروتەحنىيكا
+- उदकगति अभियांत्रिकी
+- তরল প্রবাহ প্রকৌশল
+- நீர்ம பொறியியல்
+- วิศวกรรมชลศาสตร์
+- 水利工程
+- 水工学
 has_id_wikidata: Q1130265
 subclass_of: '[[_Standards/WikiData/WD~civil_engineering,77590]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-  - '[[_Standards/WikiData/WD~course_of_study,114948502]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~course_of_study,114948502]]'
 has_characteristic: '[[_Standards/WikiData/WD~Q1267237,1267237]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~hydraulic_engineer,1651055]]'
-  - '[[_Standards/WikiData/WD~hydrology_technician,10385897]]'
+- '[[_Standards/WikiData/WD~hydraulic_engineer,1651055]]'
+- '[[_Standards/WikiData/WD~hydrology_technician,10385897]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from: '[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]'
 Dewey_Decimal_Classification: 627
 OmegaWiki_Defined_Meaning: 1816
@@ -26,8 +77,74 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Aluza%20na%20M%C5
 U_S_National_Archives_Identifier: 10639494
 Wolfram_Language_entity_code: Entity["Concept", "HydraulicEngineering::64nrb"]
 Commons_category: Hydraulic engineering
+dv_has_:
+  name_:
+    ar: هندسة هيدروليكية
+    az: hidrotexnika
+    be: гідратэхніка
+    bn: তরল প্রবাহ প্রকৌশল
+    ca: enginyeria hidràulica
+    ckb: ئەندازیاریی ئاو
+    cs: hydraulické inženýrství
+    da: hydroteknik
+    de: Wasserbau
+    el: υδραυλική μηχανική
+    en: hydraulic engineering
+    eo: akva inĝenierio
+    es: ingeniería hidráulica
+    et: Vesiehitus
+    eu: Ingeniaritza hidrauliko
+    fa: مهندسی هیدرولیک
+    fi: hydrotekniikka
+    fr: génie hydraulique
+    ga: innealtóireacht hiodrálach
+    gv: jeshaghtys ushtey-obbragh
+    he: הנדסת מים
+    hi: उदकगति अभियांत्रिकी
+    hr: Vodogradnja
+    hu: hidraulika
+    hy: Հիդրոտեխնիկա
+    id: Teknik hidrolika
+    it: ingegneria idraulica
+    ja: 水工学
+    kk: гидротехника
+    kk-arab: گىيدروتەحنىيكا
+    kk-cyrl: Гидротехника
+    kk-latn: Gïdrotexnïka
+    ky: гидротехника
+    lt: Hidrotechnika
+    lv: hidrotehnika
+    mi: pūhanga waipēhi
+    mk: хидротехника
+    mn: Усны инженерийн байгууламж
+    ms: kejuruteraan hidraulik
+    ms-arab: کجوروتراءن هيدراوليک
+    nl: waterbouwkunde
+    pl: budownictwo wodne
+    pt: engenharia hidráulica
+    ro: Hidrotehnică
+    ru: гидротехника
+    sh: Hidrogradnja
+    sl: hidrotehnika
+    sr: водоградња
+    sv: hydroteknik
+    ta: நீர்ம பொறியியல்
+    th: วิศวกรรมชลศาสตร์
+    tr: hidrolik mühendisliği
+    tt: гидротехника
+    tt-cyrl: һидротехник
+    uk: гідротехніка
+    uz: Gidrotexnika
+    vec: inzegnaria idràulega
+    yi: הידראַוליק אינזשעניריע
+    yue: 水利工程
+    zh: 水利工程
+    zh-cn: 水利工程
+    zh-hans: 水利工程
+    zh-hant: 水利工程
+    zh-hk: 水利工程
+    zh-tw: 水利工程
 ---
-
 # [[Hydraulic_Engineering]] 
 
 #is_/same_as :: [[WD~Hydraulic_engineering,1130265]]

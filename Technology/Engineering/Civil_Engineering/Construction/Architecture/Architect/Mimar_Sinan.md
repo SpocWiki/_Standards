@@ -1,9 +1,49 @@
 ---
 aliases:
-  - Koca Mi'mâr Sinân Âğâ
-  - معمار سينان
-  - Mimar_Sinan
-  - Mimar Sinan
+- Koca Mi'mâr Sinân Âğâ
+- Memar Sinan
+- Mimar Sinan
+- Mimar Sinani
+- Mimaras Sinanas
+- Mimar_Sinan
+- Sinan
+- Sinan Architectus
+- Sinans
+- Sinān
+- Szinán
+- Sînanê Avahîsaz
+- Xoʻja sinon
+- Μιμάρ Σινάν
+- МигӀмар Синан
+- Мимар Синан
+- Сінан
+- Синан
+- Синон
+- Сынан
+- Միմար Սինան
+- Սինան Միմար
+- סינאן
+- معمار سنان
+- معمار سنان پاشا
+- معمار سينان
+- معمار سینان
+- میعمار سینان
+- मिमार सिनान
+- মিমার সিনান
+- মিমাৰ চিনান
+- ਮਿਮਾਰ ਸਿਨਾਨ
+- சினான்
+- സീനാൻ
+- มีมาร์ ซินัน
+- მიმარ სინანი
+- სინანი
+- ሚማር ሲናን
+- ᱥᱤᱱᱟᱱ,ᱢᱤᱢᱟᱨ
+- ミマール・スィナン
+- 希南
+- 科查·米马尔·希南
+- 米馬爾·希南
+- 미마르 시난
 has_id_wikidata: Q5600
 Commons_category: Mimar Sinan
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
@@ -19,16 +59,16 @@ ISNI: 80016993
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SINAN.html
 Libris_URI: dwxsvwcnbptk6rsl
 name_in_native_language:
-  - قوجه معمار سنان آغا
-  - Mimar Sinan
+- قوجه معمار سنان آغا
+- Mimar Sinan
 notable_work:
-  - '[[_Standards/WikiData/WD~Süleymaniye_Mosque,178643]]'
-  - '[[_Standards/WikiData/WD~Selimiye_Mosqueq,184534]]'
-  - '[[_Standards/WikiData/WD~Stari_Most,188528]]'
-  - '[[_Standards/WikiData/WD~Mehmed_Paša_Sokolović_Bridge,210055]]'
-  - '[[_Standards/WikiData/WD~Şehzade_Mosque,644677]]'
-  - '[[_Standards/WikiData/WD~Banya_Bashi_Mosque,790052]]'
-  - '[[_Standards/WikiData/WD~Ferhat_Pasha_Mosque,1267134]]'
+- '[[_Standards/WikiData/WD~Süleymaniye_Mosque,178643]]'
+- '[[_Standards/WikiData/WD~Selimiye_Mosqueq,184534]]'
+- '[[_Standards/WikiData/WD~Stari_Most,188528]]'
+- '[[_Standards/WikiData/WD~Mehmed_Paša_Sokolović_Bridge,210055]]'
+- '[[_Standards/WikiData/WD~Şehzade_Mosque,644677]]'
+- '[[_Standards/WikiData/WD~Banya_Bashi_Mosque,790052]]'
+- '[[_Standards/WikiData/WD~Ferhat_Pasha_Mosque,1267134]]'
 occupation: '[[_Standards/WikiData/WD~architect,42973]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ağırnas,1892504]]'
 place_of_burial: '[[_Standards/WikiData/WD~Constantinople,16869]]'
@@ -39,13 +79,151 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Mimar%20Sinan%20si
 significant_event: '[[_Standards/WikiData/WD~devşirme,815841]]'
 spouse: '[[_Standards/WikiData/WD~Fatma_Nur,24956078]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Višegrad,239266]]'
-  - '[[_Standards/WikiData/WD~Istanbul,406]]'
-  - '[[_Standards/WikiData/WD~Cairo,85]]'
-  - '[[_Standards/WikiData/WD~Aleppo,41183]]'
-  - '[[_Standards/WikiData/WD~Edirne,43387]]'
+- '[[_Standards/WikiData/WD~Višegrad,239266]]'
+- '[[_Standards/WikiData/WD~Istanbul,406]]'
+- '[[_Standards/WikiData/WD~Cairo,85]]'
+- '[[_Standards/WikiData/WD~Aleppo,41183]]'
+- '[[_Standards/WikiData/WD~Edirne,43387]]'
+dv_has_:
+  name_:
+    af: Mimar Sinan
+    alt: Синан
+    am: ሚማር ሲናን
+    an: Sinan
+    ar: معمار سنان
+    arz: معمار سنان
+    as: মিমাৰ চিনান
+    ast: Mimar Sinan
+    av: МигӀмар Синан
+    az: Memar Sinan
+    azb: معمار سینان
+    ba: Синан
+    bar: Mimar Sinan
+    be: Сінан
+    be-tarask: Сынан
+    bg: Синан
+    bi: Mimar Sinan
+    bn: মিমার সিনান
+    br: Mimar Sinan
+    bs: Mimar Sinan
+    btm: Mimar Sinan
+    bxr: Синан
+    ca: Sinan
+    ce: Синан
+    ckb: میعمار سینان
+    co: Sinan
+    crh: Mimar Sinan
+    cs: Mimar Sinan
+    cy: Sinan
+    da: Sinan
+    de: Sinan
+    diq: Mimar Sinan
+    el: Μιμάρ Σινάν
+    en: Mimar Sinan
+    en-ca: Mimar Sinan
+    en-gb: Mimar Sinan
+    eo: Sinan
+    es: Sinan
+    et: Mimar Sinan
+    eu: Mimar Sinan
+    ext: Sinan
+    fa: معمار سنان
+    fi: Sinan
+    fr: Sinan
+    frr: Sinan
+    ga: Mimar Sinan
+    gl: Sinan
+    gn: Sinan
+    gsw: Sinan
+    he: סינאן
+    hif: Sinan
+    hr: Mimar Sinan
+    ht: Sinan
+    hu: Szinán
+    hy: Միմար Սինան
+    hyw: Սինան Միմար
+    ia: Mimar Sinan
+    id: Mimar Sinan
+    ilo: Mimar Sinan
+    io: Mimar Sinan
+    is: Mimar Sinan
+    it: Sinān
+    ja: ミマール・スィナン
+    ka: სინანი
+    kaa: Mimar Sinan
+    kbd: Синан
+    kbp: Sinan
+    kk: Мимар Синан
+    knc: Mimar Sinan
+    ko: 미마르 시난
+    krc: Синан
+    ku: Sînanê Avahîsaz
+    kw: Mimar Sinan
+    la: Sinan Architectus
+    lb: Mimar Sinan
+    li: Mimar Sinan
+    lmo: Sinan
+    ln: Mimar Sinan
+    lt: Mimaras Sinanas
+    lv: Sinans
+    mad: Mimar Sinan
+    mg: Sinan
+    mhr: Мимар Синан
+    mk: Мимар Синан
+    ml: സീനാൻ
+    ms: Mimar Sinan
+    nan: Mimar Sinan
+    nb: Mimar Sinan
+    nds: Sinan
+    ne: मिमार सिनान
+    nl: Sinan
+    nn: Mimar Sinan
+    oc: Mimar Sinan
+    om: Mimar Sinan
+    os: Синан
+    pa: ਮਿਮਾਰ ਸਿਨਾਨ
+    pam: Mimar Sinan
+    pap: Mimar Sinan
+    pl: Sinan
+    pms: Mimar Sinan
+    pnb: معمار سنان پاشا
+    pt: Sinan
+    pt-br: Sinan
+    ro: Mimar Sinan
+    roa-tara: Sinān
+    ru: Синан
+    rue: Сінан
+    sat: ᱥᱤᱱᱟᱱ,ᱢᱤᱢᱟᱨ
+    sc: Sinan
+    sco: Mimar Sinan
+    sgs: Sinans
+    sh: Mimar Sinan
+    sl: Mimar Sinan
+    sq: Mimar Sinani
+    sr: Мимар Синан
+    sv: Mimar Sinan
+    sw: Mimar Sinan
+    ta: சினான்
+    tg: Синон
+    th: มีมาร์ ซินัน
+    tl: Mimar Sinan
+    tly: Sinan
+    tr: Mimar Sinan
+    tt: Sinan
+    tyv: Синан
+    uk: Сінан
+    ur: معمار سنان پاشا
+    uz: Xoʻja sinon
+    vep: Sinan
+    vi: Sinan
+    vo: Mimar Sinan
+    war: Mimar Sinan
+    wuu: 科查·米马尔·希南
+    xmf: მიმარ სინანი
+    yi: סינאן
+    yue: 希南
+    zh: 米馬爾·希南
 ---
-
 # [[Mimar_Sinan]] 
 
 #has_/time_/started :: 1489-06

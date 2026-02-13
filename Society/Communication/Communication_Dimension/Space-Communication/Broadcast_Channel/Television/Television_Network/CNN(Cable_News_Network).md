@@ -1,5 +1,47 @@
 ---
-has_time_started: 1980-06-01 
+has_time_started: 1980-06-01
+aliases:
+- Cable News Network
+- CNN
+- CNN(Cable News Network)
+- CNN(Cable_News_Network)
+- I-CNN
+- Сі-Ен-Ен
+- Си Ен Ен
+- Си Эн Эн
+- Си-Ен-Ен
+- سى ان ان
+- سىملىق خەۋەر تورى (س س ئېن)
+- سي إن إن
+- سي اين اين
+- سی ئێن ئێن
+- سی ان ان
+- سی این این
+- سیانان
+- सिएनएन
+- सीएनएन
+- সিএনএন
+- சிஎன்என்
+- సిఎన్ఎన్
+- සීඑන්එන්
+- ซีเอ็นเอ็น
+- ຊີເອັນເອັນ
+- စီအန်အန်
+- ሲ ኤን ኤን
+- ស៊ីអេនអេន
+- 有線電視新聞網
+- 有线电视新闻网
+has_id_wikidata: Q48340
+Telegram_username: CnnBrk
+X_Twitter_username:
+- CNNOriginals
+- CNNPolitics
+- CNNPR
+- cnnweather
+- CNN
+- cnni
+- cnnbrk
+shortened_URL_formatter: https://cnn.it/has_time_started: 1980-06-01 
 aliases:
   - Cable News Network
   - CNN
@@ -75,8 +117,106 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/CNN%20Internation
 official_website: https://cnn.com
 official_shop_URL: https://cnn.mybrightsites.com/
 P8189: 987007259337005171
+motto_text:
+- Go There
+- More People Get Their News from CNN From Any Other Source
+founded_by:
+- '[[_Standards/WikiData/WD~Ted_Turner,193368]]'
+- '[[_Standards/WikiData/WD~Reese_Schonfeld,7307004]]'
+award_received:
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award,284381]]'
+- '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Communications_and_Humanities,3323451]]'
+- '[[_Standards/WikiData/WD~News_and_Documentary_Emmy_Awards,11247971]]'
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_of_Speech,20204984]]'
+- '[[_Standards/WikiData/WD~Golden_Nymph_for_Best_24_Hour_News_Program,23011201]]'
+- '[[_Standards/WikiData/WD~Walter_Cronkite_Award_for_Excellence_in_Journalism,28405617]]'
+instance_of:
+- '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+- '[[_Standards/WikiData/WD~film_production_company,1762059]]'
+- '[[_Standards/WikiData/WD~United_States_cable_news,7892363]]'
+- '[[_Standards/WikiData/WD~news_website,17232649]]'
+headquarters_location:
+- '[[_Standards/WikiData/WD~CNN_Center,2798738]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_CNN,5775476]]'
+has_list:
+- '[[_Standards/WikiData/WD~list_of_CNN_anchors,6565424]]'
+- '[[_Standards/WikiData/WD~list_of_programs_broadcast_by_CNN,19863410]]'
+operator: '[[_Standards/WikiData/WD~Turner_Broadcasting_System,7855903]]'
+owner_of: '[[_Standards/WikiData/WD~CNN.com,12217473]]'
+child_organization_unit: '[[_Standards/WikiData/WD~CNN_Films,15994987]]'
+parent_organization: '[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]'
+owned_by: '[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]'
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
+Wikidata_property: CNN contributor ID
+industry: '[[_Standards/WikiData/WD~journalism,11030]]'
+operating_area: '[[_Standards/WikiData/WD~Canada,16]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+social_media_followers: 17700000
+product_or_material_produced: '[[_Standards/WikiData/WD~news,38926]]'
+YouTube_handle: CNN
+Commons_category: CNN
+ISNI:
+- 0000000404112974
+- 0000000406321120
+IMDb_keyword: cnn
+Threads_username: cnn
+TikTok_username: cnn
+Reddit_username: cnn
+Giphy_username: cnn
+subreddit: cnn
+Facebook_username: cnn
+Instagram_username: cnn
+Bluesky_handle: cnn.com
+OmegaWiki_Defined_Meaning: 1655816
+inception: 1980-06-01T00:00:00Z
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/CNN%20International%20logo.svg
+official_website: https://cnn.com
+official_shop_URL: https://cnn.mybrightsites.com/
+P8189: 987007259337005171
+dv_has_:
+  name_:
+    am: ሲ ኤን ኤን
+    ar: سي إن إن
+    arz: سى ان ان
+    azb: سی ان ان
+    bg: Си Ен Ен
+    bho: सीएनएन
+    bn: সিএনএন
+    ckb: سی ئێن ئێن
+    en: CNN
+    fa: سیانان
+    hi: सीएनएन
+    km: ស៊ីអេនអេន
+    ks: سی این این
+    lo: ຊີເອັນເອັນ
+    mai: सिएनएन
+    mn: Си Эн Эн
+    mr: सीएनएन
+    mul: CNN
+    my: စီအန်အန်
+    ne: सिएनएन
+    pnb: سی این این
+    sd: سي اين اين
+    si: සීඑන්එන්
+    sr: Си-Ен-Ен
+    ta: சிஎன்என்
+    te: సిఎన్ఎన్
+    th: ซีเอ็นเอ็น
+    ug: سىملىق خەۋەر تورى (س س ئېن)
+    uk: Сі-Ен-Ен
+    ur: سی این این
+    wuu: 有线电视新闻网
+    xh: I-CNN
+    yue: 有線電視新聞網
+    zh: 有线电视新闻网
+    zh-cn: 有线电视新闻网
+    zh-hans: 有线电视新闻网
+    zh-hant: 有線電視新聞網
+    zh-tw: 有線電視新聞網
 ---
-
 # [[CNN(Cable_News_Network)]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~CNN,48340|WD~CNN,48340]] 

@@ -1,78 +1,193 @@
 ---
 aliases:
-  - vicuña
-  - Vikunja
-  - ''
-  - Vicugna
-  - Vigogne
-  - Vicuña
-  - Vicuna
-  - فكونة
-  - Вікунья
-  - Vicunya
-  - vikuňa
-  - Βικούνια
-  - Vicugna vicugna
-  - Bikuina
-  - شترچه
-  - ビクーニャ
-  - 비쿠냐
-  - 小羊駝
+- Bawazol (Vicugna vicugna)
+- Bikuina
+- Lama vikuňa
+- Lạc đà thảo nguyên nhỏ
+- Shádiʼááhdę́ę́ʼ tłʼízí dziłghą́ʼígíí
+- viciúine
+- Vicugna
+- Vicugna vicugna
+- Vicuna
+- Vicunha
+- Vicunya
+- vicuña
+- Vigogn
+- Vigogne
+- Vikuna
+- Vikunija
+- Vikunja
+- Vikuno
+- Vikunya
+- vikuňa
+- Wigòniô
+- Wik'uña
+- wikunia andyjska
+- Βικούνια
+- вікуньня звычайная
+- Вікунья
+- Викуња
+- викунья
+- викуня
+- ויקוניה מצויה
+- شترچه
+- فكونة
+- فكونه
+- ویکونیا
+- விக்குன்யா
+- വികുന
+- บิกุญญา
+- ვიკუნია
+- ビクーニャ
+- 小羊駝
+- 小羊驼
+- 비쿠냐
 has_id_wikidata: Q167797
 title: Vicugna vicugna
 has_characteristic: '[[_Standards/WikiData/WD~viviparity,120446]]'
 different_from: '[[_Standards/WikiData/WD~Vicuña,201007]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 parent_taxon: '[[_Standards/WikiData/WD~Vicugna,2703941]]'
 CITES_Appendix:
-  - '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-  - '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+- '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+- '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~vicuña_wool,21064966]]'
 original_combination: '[[_Standards/WikiData/WD~Camelus_vicugna,27064374]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_range:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 gestation_period: 340
 longest_observed_lifespan: 31.6
 ITIS_TSN: 625031
 taxon_common_name:
-  - Vigogne
-  - Vicuña
-  - Vicuna
-  - فكونة
-  - Вікунья
-  - Vicunya
-  - vikuňa
-  - Vikunja
-  - Vikunja
-  - Βικούνια
-  - Vicugna
-  - Vicugna vicugna
-  - Vikunja
-  - Bikuina
-  - شترچه
-  - ビクーニャ
-  - 비쿠냐
-  - 小羊駝
+- Vigogne
+- Vicuña
+- Vicuna
+- فكونة
+- Вікунья
+- Vicunya
+- vikuňa
+- Vikunja
+- Vikunja
+- Βικούνια
+- Vicugna
+- Vicugna vicugna
+- Vikunja
+- Bikuina
+- شترچه
+- ビクーニャ
+- 비쿠냐
+- 小羊駝
 taxon_range_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vicugna%20vicugna%20range.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vicugna%20vicugna%20range%20map.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vicugna%20vicugna%20range.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vicugna%20vicugna%20range%20map.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vicunacrop.jpg
 NBN_System_Key: NHMSYS0000377321
 Commons_gallery: Vicugna vicugna
 Commons_category: Vicugna vicugna
 taxon_name: Vicugna vicugna
 short_name: V. vicugna
+dv_has_:
+  name_:
+    an: Vicugna vicugna
+    ar: فكونة
+    arz: فكونه
+    ast: Vicuña
+    avk: Bawazol (Vicugna vicugna)
+    az: Vikunya
+    azb: ویکونیا
+    be: Вікунья
+    be-tarask: вікуньня звычайная
+    bg: викуня
+    br: Vigogn
+    ca: vicunya
+    ceb: Vicugna vicugna
+    cs: vikuňa
+    csb: Wigòniô
+    da: Vikunja
+    de: Vikunja
+    el: Βικούνια
+    en: vicuña
+    en-us: vicuña
+    eo: vikuno
+    es: Vicugna vicugna
+    et: Vikunja
+    eu: Bikuina
+    ext: Vicugna vicugna
+    fa: ویکونیا
+    fi: vikunja
+    fr: vigogne
+    frr: Vikunja
+    ga: viciúine
+    gl: Vicuña
+    he: ויקוניה מצויה
+    hu: vikunya
+    ia: Vicugna vicugna
+    id: Vikunya
+    ie: Vicugna vicugna
+    io: Vikuno
+    it: Vicugna vicugna
+    ja: ビクーニャ
+    ka: ვიკუნია
+    kab: Vikunya
+    kk: Викунья
+    ko: 비쿠냐
+    la: Vicugna vicugna
+    lb: Vikunja
+    lt: Vikunija
+    lv: vikunja
+    mhr: Викунья
+    mk: Викуња
+    ml: വികുന
+    ms: Vikuna
+    mul: Vicugna vicugna
+    nb: Vikunja
+    nl: vicuña
+    nn: Vikunja
+    nv: Shádiʼááhdę́ę́ʼ tłʼízí dziłghą́ʼígíí
+    oc: Vicugna vicugna
+    os: викунья
+    pl: wikunia andyjska
+    pt: Vicunha
+    pt-br: Vicugna vicugna
+    qu: Wik'uña
+    ro: Vicuña
+    ru: викунья
+    sco: vicuña
+    sh: Vikunja
+    sk: Lama vikuňa
+    sl: vikunja
+    sq: Vicugna vicugna
+    sr: викуња
+    sr-ec: викуња
+    sr-el: vikunja
+    sv: vikunja
+    ta: விக்குன்யா
+    th: บิกุญญา
+    tr: Vikunya
+    udm: Викунья
+    uk: вікунья
+    vi: Lạc đà thảo nguyên nhỏ
+    vo: Vicugna vicugna
+    war: Vicugna vicugna
+    wuu: 小羊驼
+    yue: 小羊駝
+    zh: 小羊駝
+    zh-cn: 小羊驼
+    zh-hans: 小羊驼
+    zh-hant: 小羊駝
+    zh-hk: 小羊駝
+    zh-sg: 小羊驼
+    zh-tw: 小羊駝
 ---
-
 # [[Vicugna]] vicugna 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Vicuña,167797|WD~Vicuña,167797]] 

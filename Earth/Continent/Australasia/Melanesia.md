@@ -1,22 +1,220 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]"
-    - "[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]"
+  - '[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]'
+  - '[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]"
-  - "[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]"
+- '[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]'
+- '[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]'
 has_id_wikidata: Q37394
+dv_has_:
+  name_:
+    ace: Melanesia
+    af: Melanesië
+    am: መላኔዥያ
+    ar: ميلانيزيا
+    ast: Melanesia
+    avk: Melanesia
+    az: Melaneziya
+    ban: Mélanésia
+    bar: Melanesien
+    bcl: Melanesya
+    be: Меланезія
+    be-tarask: Мэланэзія
+    bg: Меланезия
+    bn: মেলানেশিয়া
+    br: Melanezia
+    bs: Melanezija
+    ca: Melanèsia
+    ce: Меланези
+    ceb: Melanesia
+    cs: Melanésie
+    cv: Меланези
+    cy: Melanesia
+    da: Melanesien
+    de: Melanesien
+    el: Μελανησία
+    en: Melanesia
+    en-ca: Melanesia
+    en-gb: Melanesia
+    eo: Melanezio
+    es: Melanesia
+    et: Melaneesia
+    eu: Melanesia
+    fa: ملانزی
+    fi: Melanesia
+    fj: Melanesia
+    fo: Melanesia
+    fr: Mélanésie
+    frp: Mèlanèsie
+    frr: Melaneesien
+    fy: Melaneezje
+    ga: An Mheilinéis
+    gcr: Mélanézi
+    gd: Melanìsia
+    gl: Melanesia
+    gsw: Melanesie
+    he: מלנזיה
+    hi: मॅलानिशिया
+    hif: Melanesia
+    hr: Melanezija
+    hu: Melanézia
+    hy: Մելանեզիա
+    id: Melanesia
+    ie: Melanesia
+    ilo: Melanesia
+    io: Melanezia
+    is: Melanesía
+    it: Melanesia
+    ja: メラネシア
+    jv: Mèlanésia
+    ka: მელანეზია
+    kk: Меланезия
+    ko: 멜라네시아
+    krj: Melanesya
+    ku: Melanezya
+    ky: Меланезия
+    la: Melanesia
+    lb: Melanesien
+    lfn: Melanesia
+    li: Melanesië
+    lo: ເມລາເນຊີ
+    lt: Melanezija
+    lv: Melanēzija
+    mg: Melanezia
+    mk: Меланезија
+    mr: मेलनेशिया
+    mrj: Меланези
+    ms: Melanesia
+    mt: Melanesja
+    my: မီလန်နီးရှား
+    nan: Melanesia
+    nb: Melanesia
+    ne: मेलानेसिया
+    nl: Melanesië
+    nn: Melanesia
+    oc: Melanesia
+    os: Меланези
+    pam: Melanesia
+    pap: Melanesia
+    pl: Melanezja
+    pnb: میلانیشیا
+    pt: Melanésia
+    pt-br: Melanésia
+    qu: Milanisya
+    ro: Melanezia
+    ru: Меланезия
+    sc: Melanèsia
+    sco: Melanesie
+    sd: ميلئنيزيا
+    sgs: Melanezėjė
+    sh: Melanezija
+    sk: Melanézia
+    sl: Melanezija
+    sm: Melanisia
+    sq: Melanesia
+    sr: Меланезија
+    sv: Melanesien
+    sw: Melanesia
+    szl: Melanezyjŏ
+    ta: மெலனீசியா
+    te: మెలనేషియా
+    th: เมลานีเชีย
+    tk: Melaneziýa
+    tl: Melanesya
+    tpi: Melanesia
+    tr: Melanezya
+    tt: Меланезия
+    ug: مېلانېزىيە
+    uk: Меланезія
+    ur: میلانیشیا
+    uz: Melaneziya
+    vec: Mełanèzia
+    vi: Melanesia
+    vls: Melanesië
+    war: Melanesia
+    wo: Melaneesi
+    wuu: 美拉尼西亚
+    xmf: მელანეზია
+    yo: Melanésíà
+    yue: 美拉尼西亞
+    zh: 美拉尼西亞
+    zh-tw: 美拉尼西亞
+aliases:
+- An Mheilinéis
+- Melaneesi
+- Melaneesia
+- Melaneesien
+- Melaneezje
+- Melanesia
+- Melanesie
+- Melanesien
+- Melanesië
+- Melanesja
+- Melanesya
+- Melanesía
+- Melanezia
+- Melanezija
+- Melanezio
+- Melaneziya
+- Melaneziýa
+- Melanezja
+- Melanezya
+- Melanezyjŏ
+- Melanezėjė
+- Melanisia
+- Melanèsia
+- Melanésia
+- Melanésie
+- Melanésíà
+- Melanézia
+- Melanìsia
+- Melanēzija
+- Mełanèzia
+- Milanisya
+- Mèlanèsie
+- Mèlanésia
+- Mélanésia
+- Mélanésie
+- Mélanézi
+- Μελανησία
+- Меланезія
+- Меланези
+- Меланезија
+- Меланезия
+- Мэланэзія
+- Մելանեզիա
+- מלנזיה
+- ملانزی
+- ميلئنيزيا
+- ميلانيزيا
+- میلانیشیا
+- مېلانېزىيە
+- मॅलानिशिया
+- मेलनेशिया
+- मेलानेसिया
+- মেলানেশিয়া
+- மெலனீசியா
+- మెలనేషియా
+- เมลานีเชีย
+- ເມລາເນຊີ
+- မီလန်နီးရှား
+- მელანეზია
+- መላኔዥያ
+- メラネシア
+- 美拉尼西亚
+- 美拉尼西亞
+- 멜라네시아
 ---
 # [[Melanesia]] 
 

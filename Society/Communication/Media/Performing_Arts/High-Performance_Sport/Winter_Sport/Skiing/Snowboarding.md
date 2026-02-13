@@ -1,30 +1,167 @@
 ---
 aliases:
+- clársciáil
+- deskanje na snegu
+- eirafyrddio
+- huapalcepayahuiliztli
+- hódeszka
+- khunu thuqhuraña
+- lumelauasõit
+- lumilautailu
+- meluncur papan salji
+- muotâluávdástem
+- neĝtabulado
+- rit'i suchuykachay
+- seluncur papan salju
+- snawbuirdin
+- sneeuplankry
+- snieglenčių sportas
+- snjóbretti
+- snobordinq
+- Snouboaden
+- snoubord
+- snoubording
+- snoubordingu
+- snovbords
+- snow-board
+- snowboard
+- Snowboarden
+- snowboarding
+- snowbordsiwarî
+- snøbrettkjøring
+- snøbrettkøyring
+- Snāƿbordfarunȝ
+- surf de neu
+- surf de nèu
+- trượt ván trên tuyết
+- χιονοσανίδα
+- скијање на даска
+- снаўбордынг
+- сноўбордынг
+- сноуборд
+- сноубординг
+- ձնասահք
+- גלישת שלג
+- ألواح الثلج
+- اسنوبرد سواری
+- स्नोबोर्डिंग
+- স্নোবোর্ডিং
+- スノーボード
+- 单板滑雪
+- 單板滑雪
+- 스노보드
 has_id_wikidata: Q178131
 subclass_of:
-  - "[[_Standards/WikiData/WD~winter_sport,204686]]"
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~boardsport,911069]]"
-authority: "[[_Standards/WikiData/WD~International_Ski_and_Snowboard_Federation,212928]]"
-uses: "[[_Standards/WikiData/WD~snowboard,2000617]]"
-practiced_by: "[[_Standards/WikiData/WD~snowboarder,15709642]]"
+- '[[_Standards/WikiData/WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~boardsport,911069]]'
+authority: '[[_Standards/WikiData/WD~International_Ski_and_Snowboard_Federation,212928]]'
+uses: '[[_Standards/WikiData/WD~snowboard,2000617]]'
+practiced_by: '[[_Standards/WikiData/WD~snowboarder,15709642]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-IAB_code: "504"
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+IAB_code: 504
 Commons_category: Snowboarding
-OmegaWiki_Defined_Meaning: "805785"
+OmegaWiki_Defined_Meaning: 805785
 social_media_followers: 1518887
 IMDb_keyword: snowboarding
 subreddit: snowboarding
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Snowboarding%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BoarderX.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Snowboarding.jpg
-Unicode_character: 🏂
+Unicode_character: "\U0001F3C2"
 IPTC_NewsCode: mediatopic/20001064
 Krugosvet_article_archived_: sport/SNOUBORDING.html
+dv_has_:
+  name_:
+    af: sneeuplankry
+    an: snowboard
+    ang: Snāƿbordfarunȝ
+    ar: ألواح الثلج
+    ast: snowboarding
+    ay: khunu thuqhuraña
+    az: snobordinq
+    ba: сноуборд
+    bar: Snouboaden
+    be: снаўбордынг
+    be-tarask: сноўбордынг
+    bg: сноубординг
+    bn: স্নোবোর্ডিং
+    br: snowboard
+    ca: surf de neu
+    cs: snowboarding
+    cy: eirafyrddio
+    da: snowboarding
+    de: Snowboarden
+    el: χιονοσανίδα
+    en: snowboarding
+    en-gb: snowboarding
+    eo: neĝtabulado
+    es: snowboarding
+    et: lumelauasõit
+    eu: snowboard
+    fa: اسنوبرد سواری
+    fi: lumilautailu
+    fr: snowboard
+    fy: Snowboarden
+    ga: clársciáil
+    gl: snowboarding
+    he: גלישת שלג
+    hi: स्नोबोर्डिंग
+    hr: snowboard
+    hu: hódeszka
+    hy: ձնասահք
+    ia: snowboard
+    id: seluncur papan salju
+    is: snjóbretti
+    it: snowboard
+    ja: スノーボード
+    kk: сноубординг
+    ko: 스노보드
+    ku: snowbordsiwarî
+    lt: snieglenčių sportas
+    lv: snovbords
+    mk: скијање на даска
+    ms: meluncur papan salji
+    mul: snowboard
+    nah: huapalcepayahuiliztli
+    nb: snøbrettkjøring
+    nl: snowboarden
+    nn: snøbrettkøyring
+    oc: surf de nèu
+    os: сноуборд
+    pl: snowboarding
+    pt: snowboard
+    qu: rit'i suchuykachay
+    ro: snow-board
+    ru: сноуборд
+    sco: snawbuirdin
+    sh: snoubording
+    sk: snoubording
+    sl: deskanje na snegu
+    smn: muotâluávdástem
+    sq: snoubordingu
+    sr: сноубординг
+    sr-ec: сноубординг
+    sr-el: snoubording
+    sv: snowboard
+    tly: snoubording
+    tr: snowboarding
+    tt: сноуборд
+    uk: сноубординг
+    uz: snoubord
+    vec: snowboard
+    vi: trượt ván trên tuyết
+    yue: 單板滑雪
+    zh: 單板滑雪
+    zh-cn: 单板滑雪
+    zh-hans: 单板滑雪
+    zh-hant: 單板滑雪
+    zh-hk: 單板滑雪
+    zh-sg: 单板滑雪
+    zh-tw: 單板滑雪
 ---
-
 # [[Snowboarding]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snowboarding,178131|WD~Snowboarding,178131]]  

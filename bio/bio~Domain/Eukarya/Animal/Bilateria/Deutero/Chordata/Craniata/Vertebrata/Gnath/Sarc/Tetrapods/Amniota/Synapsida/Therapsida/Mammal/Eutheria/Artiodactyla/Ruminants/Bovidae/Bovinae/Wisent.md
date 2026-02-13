@@ -1,11 +1,176 @@
 ---
 aliases:
-  - European bison
-  - European wood bison
-  - zubr
-  - European buffalo
-  - Wisent
+- Avrupa bizonu
+- Bison bonasus
+- Bison d'Europe
+- Bison eoropeana
+- Bison Eropa
+- Bison Eropah
+- Bisont european
+- Bisonte europee
+- Bisonte europeo
+- Bisonte-europeu
+- bisó europeu
+- Bizon Europa
+- Bizonê Ewropa
+- Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání
+- bíosún Eorpach
+- Bò bizon châu Âu
+- euroopa piison
+- Europako bisonte
+- European bison
+- European buffalo
+- European wood bison
+- Europeong bison
+- Europski bizon
+- Europæisk bison
+- európai bölény
+- Evropski bizon
+- Eŭropa bizono
+- gartukoleem
+- Stombros
+- Stumbras
+- Sumbrs
+- viiseent
+- visent
+- visentti
+- Visundur
+- Wiisent
+- Wisent
+- Zimbru
+- zober
+- zubor lesný
+- zubr
+- zubr evropský
+- żubr europejski
+- ευρωπαϊκός βίσονας
+- Акха сту
+- домбай
+- Домбей
+- европски бизон
+- Зубp
+- зубар
+- Зубр
+- Зубр еўрапейскі
+- зубър
+- զուբր
+- ביזון אירופי
+- بيسون أوروبي
+- بيسون اوروبى
+- ویسنت
+- یورپی بائسن
+- ஐரோப்பிய காட்டெருமை
+- დომბა
+- ヨーロッパバイソン
+- 欧洲野牛
+- 歐洲野牛
+- 유럽들소
 has_id_wikidata: Q81091
+dv_has_:
+  name_:
+    af: Wisent
+    an: Bison bonasus
+    ar: بيسون أوروبي
+    arz: بيسون اوروبى
+    ast: Bison bonasus
+    avk: gartukoleem
+    az: Zubr
+    ba: Зубр
+    ban: Bison Eropa
+    bar: Wisent
+    be: Зубр еўрапейскі
+    be-tarask: зубар
+    bg: зубър
+    br: Bizon Europa
+    bs: Evropski bizon
+    ca: bisó europeu
+    ce: Акха сту
+    ceb: Bison bonasus
+    cs: zubr evropský
+    da: Europæisk bison
+    de: Wisent
+    diq: Bizonê Ewropa
+    el: ευρωπαϊκός βίσονας
+    en: Bison bonasus
+    en-ca: Bison bonasus
+    en-gb: Bison bonasus
+    eo: Eŭropa bizono
+    es: Bison bonasus
+    et: euroopa piison
+    eu: Europako bisonte
+    ext: Bison bonasus
+    fa: ویسنت
+    fi: visentti
+    fo: Visundur
+    fr: Bison d'Europe
+    frr: Wiisent
+    fur: Bisont european
+    ga: bíosún Eorpach
+    gl: Bisonte europeo
+    he: ביזון אירופי
+    hr: Europski bizon
+    hsb: zubr
+    hu: európai bölény
+    hy: զուբր
+    ia: Bisonte europee
+    id: Bison Eropa
+    ie: Bison bonasus
+    io: Bison bonasus
+    it: Bison bonasus
+    ja: ヨーロッパバイソン
+    jv: Wisent
+    ka: დომბა
+    kbd: Домбей
+    kk: Зубр
+    ko: 유럽들소
+    ky: Зубр
+    la: Bison bonasus
+    lt: Stumbras
+    lv: Sumbrs
+    mg: Bison eoropeana
+    mk: европски бизон
+    ms: Bison Eropah
+    mul: Bison bonasus
+    nb: visent
+    nds-nl: wisent
+    nl: wisent
+    nn: visent
+    nv: Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání
+    oc: Bison bonasus
+    os: домбай
+    pl: żubr europejski
+    pnb: یورپی بائسن
+    pt: Bisonte-europeu
+    pt-br: Bisonte-europeu
+    ro: Zimbru
+    ru: Зубp
+    sco: Bison bonasus
+    sgs: Stombros
+    sh: Europski bizon
+    sk: zubor lesný
+    sl: zober
+    smn: viiseent
+    sq: Bison bonasus
+    sr: европски бизон
+    sr-ec: Европски бизон
+    sv: visent
+    ta: ஐரோப்பிய காட்டெருமை
+    tg: Зубр
+    tl: Europeong bison
+    tr: Avrupa bizonu
+    udm: Зубр
+    uk: зубр
+    uz: Zubr
+    vep: Zubr
+    vi: Bò bizon châu Âu
+    vls: Wisent
+    vo: Bison bonasus
+    war: Bison bonasus
+    wuu: 欧洲野牛
+    yue: 歐洲野牛
+    zh: 欧洲野牛
+    zh-cn: 欧洲野牛
+    zh-tw: 歐洲野牛
 ---
 # [[Wisent]] 
 

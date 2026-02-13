@@ -1,45 +1,261 @@
 ---
 aliases:
+- Element 115
+- maskavijs
+- Mc
+- moscovi
+- Moscovin
+- moscovio
+- moscoviu
+- moscovium
+- moscòvio
+- Moscòviu
+- moscóiviam
+- moscóvio
+- moskoovium
+- Moskovi
+- moskovij
+- moskovio
+- Moskoviom
+- moskovis
+- Moskovium
+- moskoviumi
+- moskovyum
+- moskow
+- moskóvium
+- moskóvín
+- moszkóvium
+- Mɔsɩkɔvɩyɔm
+- UMcombi
+- Ununbentiyaam
+- ununpenti
+- Ununpentii
+- ununpentij
+- Ununpentijum
+- Ununpentio
+- Ununpentiu
+- Ununpentium
+- Ununpentiwm
+- Ununpentiy
+- ununpentju
+- Ununpentyo
+- Ununpentyu
+- μοσκόβιο
+- Маскоў
+- масковій
+- московій
+- москови
+- московијум
+- московий
+- московиум
+- Унунпенти
+- Унунпентий
+- Унунпентиум
+- Մոսկովիում
+- מוסקוביום
+- آنانپنتیوم
+- ئۇنۇنپېنتىي
+- ماسکوویم
+- مسکوويم
+- موسكوفيوم
+- مۆسکۆڤیۆم
+- अनुनपेन्टियम
+- उनुन्पेन्टियम
+- मॉस्कोवियम
+- मोस्कोवियम
+- মস্কোভিয়াম
+- மாசுக்கோவியம்
+- ఉనున్పెంటియం
+- ಅನನ್ಪೆಂಟಿಯಮ್
+- മോസ്കൊവിയം
+- มอสโกเวียม
+- မော်စကိုဗီယမ်
+- უნუნპენტიუმი
+- ሞስኮቪየም
+- モスコビウム
+- 鏌
+- 镆
+- 모스코븀
 has_id_wikidata: Q1303
 part_of:
-  - "[[_Standards/WikiData/WD~group_15,106675]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]"
+- '[[_Standards/WikiData/WD~group_15,106675]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-named_after: "[[_Standards/WikiData/WD~Moscow_Oblast,1697]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Moscow_Oblast,1697]]'
 atomic_number: 115
 Commons_gallery: Moscovium
 Commons_category: Moscovium
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20115%20Moscovium%20-%20no%20label.svg
-OmegaWiki_Defined_Meaning: "708220"
+OmegaWiki_Defined_Meaning: 708220
 element_symbol: Mc
 Unicode_character: 鏌
 CAS_Registry_Number: 54085-64-2
 time_of_discovery_or_invention: 2003-08-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Moscovium,1303]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]"
+  - '[[../../../WikiData/WD~Moscovium,1303]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Moscovium,1303]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]"
+- '[[../../../WikiData/WD~Moscovium,1303]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]'
+dv_has_:
+  name_:
+    af: Moskovium
+    am: ሞስኮቪየም
+    an: Ununpentio
+    anp: मॉस्कोवियम
+    ar: موسكوفيوم
+    arz: موسكوفيوم
+    ast: moscoviu
+    az: Ununpentium
+    ba: Московий
+    ban: Moskovium
+    be: масковій
+    be-tarask: Маскоў
+    bg: московий
+    bho: मॉस्कोवियम
+    bn: মস্কোভিয়াম
+    br: Moskoviom
+    bs: moskovij
+    ca: moscovi
+    cdo: Moscovium
+    ceb: Ununpentium
+    ckb: مۆسکۆڤیۆم
+    co: Ununpentiu
+    cs: moscovium
+    cv: Унунпенти
+    cy: Ununpentiwm
+    da: ununpentium
+    de: Moscovium
+    el: μοσκόβιο
+    en: moscovium
+    en-ca: Ununpentium
+    en-gb: moscovium
+    eo: moskovio
+    es: moscovio
+    et: moskoovium
+    eu: moskovio
+    fa: آنانپنتیوم
+    fi: moskovium
+    fo: Ununpentium
+    fr: moscovium
+    frr: Moskoovium
+    fur: Ununpentium
+    ga: moscóiviam
+    gd: Ununpentium
+    gl: moscovio
+    gv: moscovium
+    hak: Moscovium
+    he: מוסקוביום
+    hi: मोस्कोवियम
+    hif: Ununpentium
+    hr: ununpentij
+    hu: moszkóvium
+    hy: Մոսկովիում
+    ia: moscovium
+    id: moskovium
+    io: Moskovio
+    is: moskóvín
+    it: moscovio
+    ja: モスコビウム
+    jv: Moskovium
+    ka: უნუნპენტიუმი
+    kbp: Mɔsɩkɔvɩyɔm
+    kk: Унунпентий
+    kn: ಅನನ್ಪೆಂಟಿಯಮ್
+    ko: 모스코븀
+    ku: Element 115
+    kv: Унунпентий
+    kw: Moskoviom
+    la: moscovium
+    lb: Moscovium
+    lfn: moscovio
+    li: Moscovium
+    lij: moscòvio
+    lt: moskovis
+    lv: maskavijs
+    lzh: 鏌
+    mk: московиум
+    ml: മോസ്കൊവിയം
+    mn: москови
+    mr: अनुनपेन्टियम
+    mrj: Унунпентий
+    ms: Ununpentium
+    mt: ununpentju
+    mul: Mc
+    my: မော်စကိုဗီယမ်
+    myv: Унунпентий
+    nan: Moscovium
+    nb: moscovium
+    nds: Moscovium
+    ne: उनुन्पेन्टियम
+    nl: moscovium
+    nn: moscovium
+    nov: Moskovium
+    oc: ununpenti
+    os: московий
+    pl: moskow
+    ps: مسکوويم
+    pt: moscóvio
+    pt-br: moscóvio
+    qu: Ununpentyu
+    ro: moscoviu
+    ru: московий
+    rup: Ununpentiu
+    sc: Moscòviu
+    scn: ununpentiu
+    sh: Ununpentijum
+    sk: moskóvium
+    sl: moskovij
+    so: Ununbentiyaam
+    sq: moskoviumi
+    sr: московијум
+    sr-ec: Московијум
+    sv: moskovium
+    sw: Moskovi
+    ta: மாசுக்கோவியம்
+    te: ఉనున్పెంటియం
+    tg: Московий
+    th: มอสโกเวียม
+    tl: Moscovium
+    tr: moskovyum
+    tt: московий
+    ug: ئۇنۇنپېنتىي
+    uk: московій
+    ur: ماسکوویم
+    uz: Ununpentiy
+    vep: Ununpentii
+    vi: moscovi
+    vo: Moscovin
+    war: Ununpentyo
+    wuu: 镆
+    xal: Унунпентиум
+    yo: Ununpentium
+    yue: 鏌
+    zh: 鏌
+    zh-cn: 镆
+    zh-hans: 镆
+    zh-hant: 鏌
+    zh-hk: 鏌
+    zh-tw: 鏌
+    zu: UMcombi
 ---
-
 # [[Moscovium]] 
 
 #is_/same_as :: [[WD~Moscovium,1303]] 

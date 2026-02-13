@@ -1,40 +1,56 @@
 ---
 aliases:
-  - Nancy Wilson
-  - Nancy_Wilson
+- Nancy Lamoureux Wilson
+- Nancy Wilson
+- Nancy_Wilson
+- Нанси Уилсън
+- Ненсі Вілсон
+- Нэнсі Ўілсан
+- Нэнси Уилсон
+- ננסי וילסון
+- نانسى ويلسون (ملحن)
+- نانسي ويلسون
+- نانسی ویلسون (موزیسین)
+- نانسی ویلسون (نوازنده گیتار)
+- نینسی ولسن (راک موسیقار)
+- ন্যান্সি উইলসন
+- ნენსი ვილსონი
+- ナンシー・ウィルソン
+- 萳西·威爾森 (搖滾歌手)
+- 낸시 윌슨
 has_id_wikidata: Q263772
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
-  - "[[_Standards/WikiData/WD~album-oriented_rock,428656]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~album-oriented_rock,428656]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~singer-songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-voice_type: "[[_Standards/WikiData/WD~mezzo-soprano,186506]]"
-sibling: "[[_Standards/WikiData/WD~Ann_Wilson,258053]]"
-spouse: "[[_Standards/WikiData/WD~Cameron_Crowe,318287]]"
-member_of: "[[_Standards/WikiData/WD~Heart,941662]]"
-family_name: "[[_Standards/WikiData/WD~Wilson,1645480]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~singer-songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+voice_type: '[[_Standards/WikiData/WD~mezzo-soprano,186506]]'
+sibling: '[[_Standards/WikiData/WD~Ann_Wilson,258053]]'
+spouse: '[[_Standards/WikiData/WD~Cameron_Crowe,318287]]'
+member_of: '[[_Standards/WikiData/WD~Heart,941662]]'
+family_name: '[[_Standards/WikiData/WD~Wilson,1645480]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Portland_State_University,1771717]]"
-  - "[[_Standards/WikiData/WD~Pacific_University,5929270]]"
-  - "[[_Standards/WikiData/WD~Interlake_High_School,14713703]]"
-given_name: "[[_Standards/WikiData/WD~Nancy,2102316]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~Portland_State_University,1771717]]'
+- '[[_Standards/WikiData/WD~Pacific_University,5929270]]'
+- '[[_Standards/WikiData/WD~Interlake_High_School,14713703]]'
+given_name: '[[_Standards/WikiData/WD~Nancy,2102316]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 instrument:
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
-award_received: "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~John_Bushrod_Wilson,123716378]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Francisco,62]]"
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+award_received: '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~John_Bushrod_Wilson,123716378]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Francisco,62]]'
 social_media_followers: 74895
 work_period_start_: 1974-01-01T00:00:00Z
 name_in_native_language: Nancy Wilson
@@ -42,13 +58,59 @@ date_of_birth: 1954-03-16T00:00:00Z
 X_Twitter_username: NancyWilson
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NancyWilsonHWOFSept2012%20%28crop%29.jpg
 official_website: http://www.heart-music.com/
-ISNI: "0000000109535536"
-IPI_name_number: "00087060962"
+ISNI: 0000000109535536
+IPI_name_number: 00087060962
 Plex_person_key: 5d77686f594b2b001e68c106
 Commons_category: Nancy Wilson (guitarist)
 birth_name: Nancy Lamoureaux Wilson
+dv_has_:
+  name_:
+    ar: نانسي ويلسون
+    arz: نانسى ويلسون (ملحن)
+    ast: Nancy Wilson
+    azb: نانسی ویلسون (موزیسین)
+    be-tarask: Нэнсі Ўілсан
+    bg: Нанси Уилсън
+    bn: ন্যান্সি উইলসন
+    ca: Nancy Wilson
+    cs: Nancy Wilson
+    cy: Nancy Wilson
+    da: Nancy Wilson
+    de: Nancy Wilson
+    en: Nancy Wilson
+    en-ca: Nancy Wilson
+    en-gb: Nancy Wilson
+    es: Nancy Lamoureux Wilson
+    eu: Nancy Wilson
+    fa: نانسی ویلسون (نوازنده گیتار)
+    fi: Nancy Wilson
+    fr: Nancy Wilson
+    ga: Nancy Wilson
+    he: ננסי וילסון
+    hu: Nancy Wilson
+    it: Nancy Wilson
+    ja: ナンシー・ウィルソン
+    ka: ნენსი ვილსონი
+    ko: 낸시 윌슨
+    mul: Nancy Wilson
+    nb: Nancy Wilson
+    nds: Nancy Wilson
+    nl: Nancy Wilson
+    nn: Nancy Wilson
+    pap: Nancy Lamoureux Wilson
+    pl: Nancy Wilson
+    pt: Nancy Wilson
+    pt-br: Nancy Wilson
+    ru: Нэнси Уилсон
+    sl: Nancy Wilson
+    sq: Nancy Wilson
+    sv: Nancy Wilson
+    tr: Nancy Wilson
+    uk: Ненсі Вілсон
+    ur: نینسی ولسن (راک موسیقار)
+    vmf: Nancy Wilson
+    zh: 萳西·威爾森 (搖滾歌手)
 ---
-
 #is_/same_as :: [[WD~Nancy_Wilson,263772]] 
 
 ## #has_/text_of_/abstract 

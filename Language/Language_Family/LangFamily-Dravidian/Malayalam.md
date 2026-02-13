@@ -1,38 +1,133 @@
 ---
 aliases:
+- an Mhailéalaimis
+- Bahasa Malayalam
+- Fiteny malayalam
+- Gjuha malajalame
+- Idioma malabar
+- isi-Malayalam
+- język malajalam
+- Kimalayalam
+- Lenga Malayalam
+- limba malayalam
+- lingua Malabarica
+- lingua malaiala
+- Lingua malayalam
+- língua malaiala
+- Malabar
+- malabarera
+- malaialam
+- Malaialeg
+- malaiàlam
+- malajala lingvo
+- malajalaamǩiõll
+- malajalam
+- Malajalam jezik
+- Malajalami keel
+- Malajalamskŏ gŏdka
+- malajalamščina
+- malajalių kalba
+- malajálam
+- malajálamčina
+- malajálamština
+- malajālama
+- Malayala linguo
+- malayalam
+- Malayalam bhasa
+- Malayalam simi
+- Malayalam-gí
+- Malayalam-ngṳ̄
+- malayalameg
+- Malayalamish
+- malayâlam
+- Maláyálam
+- Minalabar
+- Mâ-là-â-mê-ngî
+- tiếng Malayalam
+- Tok Malailam
+- toki Malajalan
+- Μαλαγιαλάμ
+- Малајалам
+- малајалски јазик
+- малаялам
+- малаялам теле
+- малаяльская мова
+- մալայլամ
+- מאַלאַיאַלאַם
+- מלאיאלאם
+- المليالية
+- بهاس مالايالم
+- زبان مالایالم
+- مالايالامچە
+- مالایالم
+- مالایالم دیلی
+- ماليالام
+- مالەیالم
+- ملايالم
+- مليالم
+- ملیالم
+- مٔلیٲلؠ زَبان
+- މަލަޔާޅަމް
+- मलयालम
+- मलयालम भाषा
+- मलयाळम
+- मलयाळम्
+- মালয়ালম ভাষা
+- ਮਲਿਆਲਮ
+- મલયાલમ ભાષા
+- ମଲୟାଲମ
+- மலையாளம்
+- మలయాళ భాష
+- ಮಲಯಾಳಂ
+- ಮಲಯಾಳಂ ಭಾಷೆ
+- മലയാളം
+- මලයාලම්
+- ภาษามลยาฬัม
+- ພາສາມາລາຢາລຳ
+- მალაიალამური ენა
+- მალაიალამური ნინა
+- ማላያላም
+- ᱢᱟᱞᱟᱭᱟᱞᱟᱢ
+- マラヤーラム語
+- 馬拉也林文
+- 馬拉雅拉姆語
+- 马拉雅南语
+- 马拉雅拉姆语
+- ꯃꯂꯥꯌꯥꯂꯝ ꯂꯣꯟ
+- 말라얄람어
 has_id_wikidata: Q36236
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Puducherry,66743]]"
-  - "[[_Standards/WikiData/WD~Kerala,1186]]"
-  - "[[_Standards/WikiData/WD~Karnataka,1185]]"
-  - "[[_Standards/WikiData/WD~Tamil_Nadu,1445]]"
-  - "[[_Standards/WikiData/WD~Lakshadweep,26927]]"
+- '[[_Standards/WikiData/WD~Puducherry,66743]]'
+- '[[_Standards/WikiData/WD~Kerala,1186]]'
+- '[[_Standards/WikiData/WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Tamil_Nadu,1445]]'
+- '[[_Standards/WikiData/WD~Lakshadweep,26927]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Malayalam_script,1164129]]"
-  - "[[_Standards/WikiData/WD~Arabi_Malayalam_script,1522134]]"
+- '[[_Standards/WikiData/WD~Malayalam_script,1164129]]'
+- '[[_Standards/WikiData/WD~Arabi_Malayalam_script,1522134]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Malayalam,6741581]]"
-  - "[[_Standards/WikiData/WD~Dravidian,33311]]"
-Ethnologue_language_status: "[[_Standards/WikiData/WD~2_Provincial,29051547]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q36491149,36491149]]"
+- '[[_Standards/WikiData/WD~Malayalam,6741581]]'
+- '[[_Standards/WikiData/WD~Dravidian,33311]]'
+Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q36491149,36491149]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]"
-  - "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
-country: "[[_Standards/WikiData/WD~India,668]]"
-different_from: "[[_Standards/WikiData/WD~Malay,9237]]"
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+country: '[[_Standards/WikiData/WD~India,668]]'
+different_from: '[[_Standards/WikiData/WD~Malay,9237]]'
 number_of_speakers_writers_or_signers: 37100000
-IAB_code: "1135"
-ABS_ASCL_2011_code: "5102"
+IAB_code: 1135
+ABS_ASCL_2011_code: 5102
 POSIX_locale_identifier: ml
 Wikimedia_language_code: ml
 IETF_language_tag: ml
@@ -42,8 +137,8 @@ ISO_639_3_code: mal
 ISO_639_2_code: mal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Word%20Malayalam.svg
 native_label:
-  - മലയാളം
-  - مَلَیٰاۻَمْ
+- മലയാളം
+- مَلَیٰاۻَمْ
 GitHub_topic: malayalam
 WALS_lect_code: mym
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Kerala%20Thiruvegappura%20temple.jpg
@@ -54,8 +149,152 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/MALAYALAM.html
 Glottolog_code: mala1464
 Commons_category: Malayalam language
 GOST_7_75_97_code: мал 425
+dv_has_:
+  name_:
+    af: Malayalam
+    am: ማላያላም
+    anp: मलयालम भाषा
+    ar: المليالية
+    arz: ماليالام
+    as: মালয়ালম ভাষা
+    ast: Idioma malabar
+    az: Malayalam
+    azb: مالایالم دیلی
+    be: малаяльская мова
+    be-tarask: малаяльская мова
+    bg: Малаялам
+    bho: मलयालम
+    bjn: Bahasa Malayalam
+    bn: মালয়ালম ভাষা
+    br: malayalameg
+    brh: Maláyálam
+    ca: malaiàlam
+    cdo: Malayalam-ngṳ̄
+    ceb: Minalabar
+    ckb: مالەیالم
+    cs: malajálamština
+    cv: Малаялам
+    cy: Malaialeg
+    da: Malayalam
+    de: Malayalam
+    dv: މަލަޔާޅަމް
+    el: Μαλαγιαλάμ
+    en: Malayalam
+    en-ca: Malayalam
+    en-gb: Malayalam
+    eo: malajala lingvo
+    es: malabar
+    et: Malajalami keel
+    eu: malabarera
+    fa: زبان مالایالم
+    fi: malajalam
+    fr: malayâlam
+    frr: Malayalam
+    ga: an Mhailéalaimis
+    gl: lingua malaiala
+    gu: મલયાલમ ભાષા
+    gv: Malayalamish
+    ha: Malayalam
+    hak: Mâ-là-â-mê-ngî
+    he: מלאיאלאם
+    hi: मलयालम भाषा
+    hif: Malayalam bhasa
+    hr: malajalam jezik
+    hu: malajálam
+    hy: մալայլամ
+    ia: Lingua malayalam
+    id: bahasa Malayalam
+    ig: Malayalam
+    io: Malayala linguo
+    it: malayalam
+    ja: マラヤーラム語
+    ka: მალაიალამური ენა
+    kge: Bahasa Malayalam
+    kn: ಮಲಯಾಳಂ
+    ko: 말라얄람어
+    krj: Minalabar
+    ks: مٔلیٲلؠ زَبان
+    kv: Малаялам
+    la: lingua Malabarica
+    lfn: malaialam
+    ln: Malayalam
+    lo: ພາສາມາລາຢາລຳ
+    lt: malajalių kalba
+    lv: malajālama
+    mai: मलयालम
+    mg: Fiteny malayalam
+    mk: малајалски јазик
+    ml: മലയാളം
+    mni: ꯃꯂꯥꯌꯥꯂꯝ ꯂꯣꯟ
+    mr: मलयाळम
+    ms: Bahasa Malayalam
+    ms-arab: بهاس مالايالم
+    mzn: مالایالم
+    nan: Malayalam-gí
+    nb: malayalam
+    nds: Malayalam
+    nds-nl: Malayalam
+    ne: मलयालम
+    new: मलयालम भाषा
+    nl: Malayalam
+    nn: malayalam
+    oc: Malayalam
+    or: ମଲୟାଲମ
+    os: малаялам
+    pa: ਮਲਿਆਲਮ
+    pam: Malabar
+    pap: Malayalam
+    pcd: Malayalam
+    pl: język malajalam
+    pms: Lenga Malayalam
+    pnb: ملیالم
+    ps: مليالم
+    pt: língua malaiala
+    pt-br: língua malaiala
+    qu: Malayalam simi
+    ro: limba malayalam
+    ru: малаялам
+    sa: मलयाळम्
+    sat: ᱢᱟᱞᱟᱭᱟᱞᱟᱢ
+    scn: malayalam
+    sco: Malayalam
+    sd: ملايالم
+    sh: Malajalam jezik
+    si: මලයාලම්
+    sk: malajálamčina
+    sl: malajalamščina
+    sms: malajalaamǩiõll
+    sq: Gjuha malajalame
+    sr: Малајалам
+    sr-ec: Малајалам
+    sv: malayalam
+    sw: Kimalayalam
+    szl: Malajalamskŏ gŏdka
+    ta: மலையாளம்
+    tcy: ಮಲಯಾಳಂ ಭಾಷೆ
+    te: మలయాళ భాష
+    th: ภาษามลยาฬัม
+    tl: Malabar
+    tok: toki Malajalan
+    tpi: Tok Malailam
+    tr: Malayalam
+    tt: малаялам теле
+    ug: مالايالامچە
+    uk: малаялам
+    ur: ملیالم
+    uz: Malayalam
+    vec: malayalam
+    vi: tiếng Malayalam
+    war: Minalabar
+    wuu: 马拉雅南语
+    xmf: მალაიალამური ნინა
+    yi: מאַלאַיאַלאַם
+    yue: 馬拉也林文
+    zh: 马拉雅拉姆语
+    zh-cn: 马拉雅拉姆语
+    zh-hant: 馬拉雅拉姆語
+    zu: isi-Malayalam
 ---
-
 # [[Malayalam]] 
 
 #is_/same_as :: [[WD~Malayalam,36236]] 

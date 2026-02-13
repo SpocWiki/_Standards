@@ -1,13 +1,91 @@
 ---
 aliases:
+- chủ nghĩa biểu hiện mới
+- Neo-Ekspresyonizm
+- neo-expressionism
+- neo-expressionisme
+- neo-expressionismo
+- Neoekspresionizam
+- Neoekspresionizmas
+- Neoekspresjonizm
+- Neoekspressionisme
+- Neoespresionismo
+- neoespresionismu
+- neoespressionismo
+- Neoexpresionism
+- neoexpresionismo
+- Neoexpresionismus
+- neoexpressionism
+- neoexpressionisme
+- Neoexpressionismus
+- novekspresionismo
+- nyekspresjonisme
+- néo-expressionnisme
+- Uusekspressionismi
+- νεοεξπρεσιονισμός
+- неаэкспрэсіянізм
+- неоекспресіонізм
+- Неоекспресионизам
+- Неоекспресионизъм
+- неоэкспрессионизм
+- нэаэкспрэсіянізм
+- Նեոէքսպրեսիոնիզմ
+- נאו-אקספרסיוניזם
+- التعبيريه الجديده
+- تعبيرية جديدة
+- نوهیجاننمایی
+- ნეოექსპრესიონიზმი
+- 新表現主義
+- 신표현주의
 has_id_wikidata: Q589655
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
 Commons_category: Neo-expressionism
+dv_has_:
+  name_:
+    ar: تعبيرية جديدة
+    arz: التعبيريه الجديده
+    ast: neoespresionismu
+    be: неаэкспрэсіянізм
+    be-tarask: нэаэкспрэсіянізм
+    bg: Неоекспресионизъм
+    ca: neoexpressionisme
+    cs: Neoexpresionismus
+    da: Neoekspressionisme
+    de: Neoexpressionismus
+    el: νεοεξπρεσιονισμός
+    en: neo-expressionism
+    eo: novekspresionismo
+    es: neoexpresionismo
+    eu: Neoespresionismo
+    fa: نوهیجاننمایی
+    fi: Uusekspressionismi
+    fr: néo-expressionnisme
+    he: נאו-אקספרסיוניזם
+    hy: Նեոէքսպրեսիոնիզմ
+    it: neoespressionismo
+    ja: 新表現主義
+    ka: ნეოექსპრესიონიზმი
+    ko: 신표현주의
+    la: Neoexpressionismus
+    lt: Neoekspresionizmas
+    nb: nyekspresjonisme
+    nl: neo-expressionisme
+    oc: Neoexpressionisme
+    pl: Neoekspresjonizm
+    pt-br: neo-expressionismo
+    ro: Neoexpresionism
+    ru: неоэкспрессионизм
+    sh: Neoekspresionizam
+    sr: Неоекспресионизам
+    sv: neoexpressionism
+    tr: Neo-Ekspresyonizm
+    uk: неоекспресіонізм
+    vi: chủ nghĩa biểu hiện mới
+    zh: 新表現主義
 ---
-
 # [[Neo-Expressionism]] 
 
 #is_/same_as :: [[WD~Neo-expressionism,589655]] 

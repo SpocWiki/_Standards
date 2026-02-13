@@ -1,91 +1,120 @@
 ---
 aliases:
-  - Mick_Jagger
-  - Sir Michael Philip Jagger
-  - Michael Jagger
-  - Mick Jagger
-  - Jagger
-  - Jagger,Mick
+- Jagger
+- Jagger,Mick
+- Michael Jagger
+- Mick Jagger
+- Mick_Jagger
+- Mik Caqqer
+- Mik Džeger
+- Mikas Džegeris
+- Miks Džegers
+- Sir Michael Philip Jagger
+- Μικ Τζάγκερ
+- Мік Джагер
+- Мік Джаґґер
+- Мик Џегер
+- Мик Джаггер
+- Мик Джагър
+- Мик Жаггер
+- Միք Ջագգեր
+- מיק ג'אגר
+- ميك جاغر
+- ميك چاججر
+- مک جیگر
+- میک جقر
+- میک جگر
+- ਮਿਕ ਜੈਗਰ
+- മൈക്ക് ജാഗറിനെ
+- มิก แจ็กเกอร์
+- მიკ ჯაგერი
+- მიქ ჯეგერი
+- ミック・ジャガー
+- 米·積加
+- 米克·傑格
+- 米克·贾格尔
+- 米積加
+- 믹 재거
 has_id_wikidata: Q128121
 educated_at:
-  - '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
-  - '[[_Standards/WikiData/WD~Dartford_Grammar_School,5225614]]'
-  - '[[_Standards/WikiData/WD~Wentworth_Primary_School,60764621]]'
+- '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
+- '[[_Standards/WikiData/WD~Dartford_Grammar_School,5225614]]'
+- '[[_Standards/WikiData/WD~Wentworth_Primary_School,60764621]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~manufacturer,13235160]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~manufacturer,13235160]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Keith_Richards,189599]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Virgin_Records,203059]]'
-  - '[[_Standards/WikiData/WD~Rolling_Stones_Records,594126]]'
-  - '[[_Standards/WikiData/WD~ABKCO_Records,2819021]]'
-  - '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
+- '[[_Standards/WikiData/WD~Virgin_Records,203059]]'
+- '[[_Standards/WikiData/WD~Rolling_Stones_Records,594126]]'
+- '[[_Standards/WikiData/WD~ABKCO_Records,2819021]]'
+- '[[_Standards/WikiData/WD~Universal_Music_Group,38903]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
-  - '[[_Standards/WikiData/WD~Marsha_Hunt,511948]]'
-  - '[[_Standards/WikiData/WD~Chrissie_Shrimpton,5108605]]'
-  - '[[_Standards/WikiData/WD~Cleo_Sylvestre,5131647]]'
-  - "[[_Standards/WikiData/WD~L'Wren_Scott,13561666]]"
-  - '[[_Standards/WikiData/WD~Melanie_Hamrick,27978420]]'
-  - '[[_Standards/WikiData/WD~Q48280,48280]]'
+- '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
+- '[[_Standards/WikiData/WD~Marsha_Hunt,511948]]'
+- '[[_Standards/WikiData/WD~Chrissie_Shrimpton,5108605]]'
+- '[[_Standards/WikiData/WD~Cleo_Sylvestre,5131647]]'
+- "[[_Standards/WikiData/WD~L'Wren_Scott,13561666]]"
+- '[[_Standards/WikiData/WD~Melanie_Hamrick,27978420]]'
+- '[[_Standards/WikiData/WD~Q48280,48280]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
-  - '[[_Standards/WikiData/WD~Bianca_Jagger,285549]]'
+- '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
+- '[[_Standards/WikiData/WD~Bianca_Jagger,285549]]'
 child:
-  - '[[_Standards/WikiData/WD~Elizabeth_Jagger,273434]]'
-  - '[[_Standards/WikiData/WD~Jade_Jagger,531585]]'
-  - '[[_Standards/WikiData/WD~Georgia_May_Jagger,2459143]]'
-  - '[[_Standards/WikiData/WD~Gabriel_Jagger,23005491]]'
-  - '[[_Standards/WikiData/WD~James_Jagger,23005489]]'
-  - '[[_Standards/WikiData/WD~Lucas_Jagger,60404335]]'
-  - '[[_Standards/WikiData/WD~Karis_Jagger,95860967]]'
-  - '[[_Standards/WikiData/WD~Corrina_Jagger,123857717]]'
-  - '[[_Standards/WikiData/WD~Dev_Jagger,123915010]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Jagger,273434]]'
+- '[[_Standards/WikiData/WD~Jade_Jagger,531585]]'
+- '[[_Standards/WikiData/WD~Georgia_May_Jagger,2459143]]'
+- '[[_Standards/WikiData/WD~Gabriel_Jagger,23005491]]'
+- '[[_Standards/WikiData/WD~James_Jagger,23005489]]'
+- '[[_Standards/WikiData/WD~Lucas_Jagger,60404335]]'
+- '[[_Standards/WikiData/WD~Karis_Jagger,95860967]]'
+- '[[_Standards/WikiData/WD~Corrina_Jagger,123857717]]'
+- '[[_Standards/WikiData/WD~Dev_Jagger,123915010]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Song,282636]]'
-  - '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Original_Song,919999]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Rock_Vocal_Performance,953746]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Original_Score,2357620]]'
-  - '[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]'
-  - '[[_Standards/WikiData/WD~World_Soundtrack_Award_for_Best_Original_Song_Written_Directly_for_a_Film,8036239]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Song,282636]]'
+- '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Original_Song,919999]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Rock_Vocal_Performance,953746]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Original_Score,2357620]]'
+- '[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]'
+- '[[_Standards/WikiData/WD~World_Soundtrack_Award_for_Best_Original_Song_Written_Directly_for_a_Film,8036239]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Philip,827311]]'
-  - '[[_Standards/WikiData/WD~Michael,4927524]]'
+- '[[_Standards/WikiData/WD~Philip,827311]]'
+- '[[_Standards/WikiData/WD~Michael,4927524]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
-  - '[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]'
-  - '[[_Standards/WikiData/WD~World_Soundtrack_Award_for_Best_Original_Song_Written_Directly_for_a_Film,8036239]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+- '[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]'
+- '[[_Standards/WikiData/WD~World_Soundtrack_Award_for_Best_Original_Song_Written_Directly_for_a_Film,8036239]]'
 noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 place_of_birth: '[[_Standards/WikiData/WD~Dartford,858775]]'
 member_of:
-  - '[[_Standards/WikiData/WD~SuperHeavy,970140]]'
-  - '[[_Standards/WikiData/WD~Little_Boy_Blue_&_The_Blue_Boys,124327439]]'
-  - '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
+- '[[_Standards/WikiData/WD~SuperHeavy,970140]]'
+- '[[_Standards/WikiData/WD~Little_Boy_Blue_&_The_Blue_Boys,124327439]]'
+- '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 part_of: '[[_Standards/WikiData/WD~Jagger_Richards,1818638]]'
 sibling: '[[_Standards/WikiData/WD~Chris_Jagger,2964747]]'
 instrument:
-  - '[[_Standards/WikiData/WD~upright_piano,3382191]]'
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~harmonica,51290]]'
+- '[[_Standards/WikiData/WD~upright_piano,3382191]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~harmonica,51290]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Mick_Jagger,14447957]]'
@@ -97,25 +126,25 @@ mother: '[[_Standards/WikiData/WD~Eva_Jagger,108841531]]'
 discography: '[[_Standards/WikiData/WD~Mick_Jagger_discography,113549412]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 genre:
-  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children:
-  - 8
-  - 9
+- 8
+- 9
 social_media_followers:
-  - 152000
-  - 2463357
+- 152000
+- 2463357
 Plex_person_key: 5d776826e6d55c002040afd0
 Europeana_entity: agent/base/60560
 Wolfram_Language_entity_code: Entity["MusicAct", "MickJagger::q5c7h"]
 Facebook_username:
-  - mick-jagger-417281645155
-  - mickjaggerofficial
+- mick-jagger-417281645155
+- mickjaggerofficial
 Instagram_username: mickjagger
 X_Twitter_username: MickJagger
 birth_name: Michael Philip Jagger
@@ -125,8 +154,8 @@ Libris_URI: 64jln6kq2bq1fg6
 Commons_gallery: Mick Jagger
 Commons_category: Mick Jagger
 nickname:
-  - Mick
-  - Mike
+- Mick
+- Mike
 work_period_start_: 1960-01-01T00:00:00Z
 short_name: Mick Jagger
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Mick%20Jagger%20BBC%20Radio4%20Front%20Row%2026%20Dec%202012%20b01pg54v.flac
@@ -134,11 +163,113 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RStonesHydePark030722%
 official_website: http://www.mickjagger.com
 ISNI: 0000000121305506
 IPI_name_number:
-  - 00015036818
-  - 00015036916
-  - 00015037031
+- 00015036818
+- 00015036916
+- 00015037031
+dv_has_:
+  name_:
+    an: Mick Jagger
+    ang: Mick Jagger
+    ar: ميك جاغر
+    arz: ميك چاججر
+    ast: Mick Jagger
+    az: Mik Caqqer
+    azb: میک جقر
+    ba: Мик Джаггер
+    be: Мік Джагер
+    be-tarask: Мік Джагер
+    bg: Мик Джагър
+    br: Mick Jagger
+    bs: Mick Jagger
+    ca: Mick Jagger
+    cs: Mick Jagger
+    da: Mick Jagger
+    dag: Mick Jagger
+    de: Mick Jagger
+    de-ch: Mick Jagger
+    dsb: Mick Jagger
+    ee: Mick Jagger
+    el: Μικ Τζάγκερ
+    en: Mick Jagger
+    en-ca: Mick Jagger
+    en-gb: Mick Jagger
+    eo: Mick Jagger
+    es: Mick Jagger
+    et: Mick Jagger
+    eu: Mick Jagger
+    fa: میک جگر
+    fi: Mick Jagger
+    fr: Mick Jagger
+    fy: Mick Jagger
+    ga: Mick Jagger
+    gd: Mick Jagger
+    gl: Mick Jagger
+    he: מיק ג'אגר
+    hr: Mick Jagger
+    hu: Mick Jagger
+    hy: Միք Ջագգեր
+    id: Mick Jagger
+    ie: Mick Jagger
+    io: Mick Jagger
+    is: Mick Jagger
+    it: Mick Jagger
+    ja: ミック・ジャガー
+    jv: Mick Jagger
+    ka: მიკ ჯაგერი
+    ko: 믹 재거
+    ky: Мик Жаггер
+    la: Michael Jagger
+    lb: Mick Jagger
+    lt: Mikas Džegeris
+    lv: Miks Džegers
+    mg: Mick Jagger
+    mk: Мик Џегер
+    ml: മൈക്ക് ജാഗറിനെ
+    mn: Мик Жаггер
+    ms: Mick Jagger
+    mul: Mick Jagger
+    nb: Mick Jagger
+    nds-nl: Mick Jagger
+    nl: Mick Jagger
+    nn: Mick Jagger
+    oc: Mick Jagger
+    pa: ਮਿਕ ਜੈਗਰ
+    pl: Mick Jagger
+    pt: Mick Jagger
+    pt-br: Mick Jagger
+    qu: Mick Jagger
+    ro: Mick Jagger
+    ru: Мик Джаггер
+    sco: Mick Jagger
+    sh: Mick Jagger
+    sk: Mick Jagger
+    sl: Mick Jagger
+    sq: Mick Jagger
+    sr: Мик Џегер
+    sr-ec: Мик Џегер
+    sr-el: Mik Džeger
+    su: Mick Jagger
+    sv: Mick Jagger
+    sw: Mick Jagger
+    szl: Mick Jagger
+    th: มิก แจ็กเกอร์
+    tpi: Mick Jagger
+    tr: Mick Jagger
+    uk: Мік Джаґґер
+    ur: مک جیگر
+    vi: Mick Jagger
+    war: Mick Jagger
+    wuu: 米克·贾格尔
+    xmf: მიქ ჯეგერი
+    yue: 米積加
+    zh: 米克·贾格尔
+    zh-cn: 米克·贾格尔
+    zh-hans: 米克·贾格尔
+    zh-hant: 米克·傑格
+    zh-hk: 米·積加
+    zh-sg: 米克·贾格尔
+    zh-tw: 米克·傑格
 ---
-
 # [[Jagger,Mick]] 
 
 #is_/same_as :: [[WD~Mick_Jagger,128121]] 

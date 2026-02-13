@@ -1,7 +1,130 @@
 ---
 aliases:
-  - Elizabeth I of England
-  - Elizabeth_I_of_England
+- 1 ኤልሳበጥ
+- Alžbeta I.
+- Alžběta I.
+- Ban-rìgh Ealasaid I
+- Ealisaid I Hostyn
+- Eilís I Shasana
+- Elesbed Iañ
+- Elisabet I
+- Elisabet I av England
+- Elisabet I d'Anglaterra
+- Elisabet I.a Ingalaterrakoa
+- Elisabeta I
+- Elisabeta I a Angliei
+- Elisabeta I d'Anghiltèra
+- Elisabeta I d'Anglatèrra
+- Elisabeth I
+- Elisabeth I a Bow Sows
+- Elisabeth I de Anglaterra
+- Elisabeth I.
+- Elisabeti Kìnní Ilẹ̀gẹ̀ẹ́sì
+- Elisabetta I d'Inghilterra
+- Elisabeþ I Engla Cwēn
+- Elizabeta I, kraljica Engleske
+- Elizabeta I.
+- Elizabeta I. Angleška
+- elizabeta tudor
+- Elizabete I
+- Elizabeth 1
+- Elizabeth 1-sè
+- Elizabeth 1. af England
+- Elizabeth 1ma di Anglia
+- Elizabeth I
+- Elizabeth I an'i Angletera
+- Elizabeth I của Anh
+- Elizabeth I dari England
+- Elizabeth I dari Inggirih
+- Elizabeth I dari Inggris
+- Elizabeth I fan Ingelân
+- Elizabeth I han Inglatera
+- Elizabeth I ng Inglatera
+- Elizabeth I o Ingland
+- Elizabeth I of England
+- Elizabeth I sa Ingglatera
+- Elizabeth I saking Britania Raya
+- Elizabeth I sian Inggris
+- Elizabeth I van Engeland
+- Elizabeth I van Ingelandj
+- Elizabeth I wa Uingereza
+- Elizabeth I. vun England
+- Elizabetha I
+- Elizabeth_I_of_England
+- Elizabeto la 1-a
+- Elizabetta I d'Inghiltæra
+- Elizavet I
+- Elizaveta I
+- Elísabet 1.
+- Elżbieta I Tudor
+- Elžbieta I
+- Hilžbjeta I.
+- I Yelizaveta
+- I Елизавета
+- I Элизабет
+- I. Elizabeth
+- I. Erzsébet
+- Isabel I d'Anglaterra
+- Isabel I de Inglaterra
+- Isabel I Ingyatérra pegua
+- Isabel I iti Inglatera
+- jan Elisape nanpa wan pi ma Inli
+- Lisabbetta I di Ngriterra
+- Lisabetta I d'Inghilterra
+- Sabela I d'Inglaterra
+- Yelizaveta I patşabikä
+- Yi-li-sa-pay yise
+- Élisabeth Ir di Anglétèr
+- Élisabeth Ire
+- Élisabèt I deri Inggris
+- Ελισάβετ Α΄ της Αγγλίας
+- Єлизавета I
+- Алжбета I Анґліцька
+- Англиин I Елизавета
+- Елизабет I
+- Елизабета I
+- Елизабета I Тјудор
+- Елизавета I
+- Лізавета I
+- Харалыаба Элизабет I
+- Եղիսաբեթ I
+- אליזבת הראשונה, מלכת אנגליה
+- עליזאבעט די ערשטע
+- إليزابيث الأولى ملكة إنجلترا
+- إليزابيط اللولة د النڭليز
+- ئێلیزابێتی یەکەمی ئینگلتەرا
+- الزبتھ I
+- الزبتھ أکِم
+- اليزابيث الاولانيه
+- الیزابت یکم
+- ایلزبتھ اول
+- بیرینجی الیزابت
+- لومړۍ الیزابېت
+- एलिज़ाबेथ प्रथम
+- एलिजाबेथ
+- एलिजाबेथ प्रथम
+- पहिली एलिझाबेथ, इंग्लंड
+- बेलायतयाम्ह एलिजाबेथ प्रथम
+- এলিজাবেথ প্ৰথম
+- প্রথম এলিজাবেথ
+- ਅਲੀਜ਼ਾਬੈਥ ਪਹਿਲੀ
+- ઇંગ્લેન્ડના એલિઝાબેથ પ્રથમ
+- இங்கிலாந்தின் முதலாம் எலிசபெத்
+- ఇంగ్లాండుకు చెందిన ఎలిజబెత్ I
+- ಮೊದಲನೆಯ ಎಲಿಜಬೆಥ್
+- എലിസബത്ത് I
+- පළමුවන එළිසබෙත් රැජින
+- สมเด็จพระราชินีนาถเอลิซาเบธที่ 1 แห่งอังกฤษ
+- အယ်လစ်ဇဗက်ဘုရင်မ၊ ပဌမ
+- ელიზაბეთ I
+- ელისაბედ I
+- សម្តេចព្រះរាជនីនាថអេលីហ្សាប៊ែតទី១ នៃចក្រភពអង់គ្លេស
+- エリザベス1世
+- 伊丽莎白一世
+- 伊利沙伯一世
+- 伊莉莎白一世
+- 伊麗莎白一世
+- 엘리자베스 1세
 has_id_wikidata: Q7207
 BHCL_UUID: b49dc647-009b-4838-87b0-e63c25accff3
 cause_of_death: '[[_Standards/WikiData/WD~sepsis,183134]]'
@@ -12,23 +135,23 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 date_of_birth: 1533-09-17
 date_of_death: 1603-04-03
 depicted_by:
-  - '[[_Standards/WikiData/WD~Elizabeth_I_(1533-1603),28027524]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I,28042820]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52152113]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52255074]]'
+- '[[_Standards/WikiData/WD~Elizabeth_I_(1533-1603),28027524]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_I,28042820]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52152113]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52255074]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Men_of_Kent_and_Kentishmen,101589898]]'
-  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]'
-  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Men_of_Kent_and_Kentishmen,101589898]]'
+- '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 eye_color: '[[_Standards/WikiData/WD~brown,17122705]]'
 family: '[[_Standards/WikiData/WD~House_of_Tudor,101978]]'
 family_name: '[[_Standards/WikiData/WD~Tudor,7851265]]'
@@ -41,10 +164,10 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121446237
 Krugosvet_article: istoriya/ELIZAVETA_I.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 Libris_URI: dbqssqqx3d0qkl9
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 medical_condition: '[[_Standards/WikiData/WD~smallpox,12214]]'
@@ -53,43 +176,206 @@ mother: '[[_Standards/WikiData/WD~Anne_Boleyn,80823]]'
 name_in_native_language: Elizabeth I
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 nickname:
-  - Good Queen Bess
-  - Gloriana
+- Good Queen Bess
+- Gloriana
 noble_title: '[[_Standards/WikiData/WD~queen_regnant,19643]]'
 occupation:
-  - '[[_Standards/WikiData/WD~queen,16511993]]'
-  - '[[_Standards/WikiData/WD~monarch,116]]'
+- '[[_Standards/WikiData/WD~queen,16511993]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
 place_of_birth: '[[_Standards/WikiData/WD~Palace_of_Placentia,1424839]]'
 place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
 place_of_death: '[[_Standards/WikiData/WD~Richmond_Palace,1059945]]'
 place_of_detention: '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
 position_held:
-  - '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
-  - '[[_Standards/WikiData/WD~King_of_Ireland,18810066]]'
+- '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
+- '[[_Standards/WikiData/WD~King_of_Ireland,18810066]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 Royal_Academy_new_identifier: elizabeth-i
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Mary_I_of_England,82674]]'
-  - '[[_Standards/WikiData/WD~Edward_VI_of_England,83229]]'
-  - '[[_Standards/WikiData/WD~Henry_FitzRoy,_1st_Duke_of_Richmond_and_Somerset,358863]]'
-  - '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,928719]]'
-  - '[[_Standards/WikiData/WD~miscarried_son_Tudor,75381747]]'
-  - '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,75384812]]'
+- '[[_Standards/WikiData/WD~Mary_I_of_England,82674]]'
+- '[[_Standards/WikiData/WD~Edward_VI_of_England,83229]]'
+- '[[_Standards/WikiData/WD~Henry_FitzRoy,_1st_Duke_of_Richmond_and_Somerset,358863]]'
+- '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,928719]]'
+- '[[_Standards/WikiData/WD~miscarried_son_Tudor,75381747]]'
+- '[[_Standards/WikiData/WD~Henry,_Duke_of_Cornwall,75384812]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Autograph%20of%20Elizabeth%20I%20of%20England.svg
 significant_event: '[[_Standards/WikiData/WD~Speech_to_the_Troops_at_Tilbury,478956]]'
 significant_person: '[[_Standards/WikiData/WD~Philipp_Melanchthon,76325]]'
 social_classification: '[[_Standards/WikiData/WD~royalty,11573099]]'
 stepparent:
-  - '[[_Standards/WikiData/WD~Jane_Seymour,182637]]'
-  - '[[_Standards/WikiData/WD~Catherine_Howard,188926]]'
-  - '[[_Standards/WikiData/WD~Catherine_Parr,192943]]'
-  - '[[_Standards/WikiData/WD~Anne_of_Cleves,57126]]'
+- '[[_Standards/WikiData/WD~Jane_Seymour,182637]]'
+- '[[_Standards/WikiData/WD~Catherine_Howard,188926]]'
+- '[[_Standards/WikiData/WD~Catherine_Parr,192943]]'
+- '[[_Standards/WikiData/WD~Anne_of_Cleves,57126]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/61360
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "ElizabethIAccedes1558"]
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: Elizabeth I van Engeland
+    am: 1 ኤልሳበጥ
+    an: Isabel I d'Anglaterra
+    ang: Elisabeþ I Engla Cwēn
+    ar: إليزابيث الأولى ملكة إنجلترا
+    ary: إليزابيط اللولة د النڭليز
+    arz: اليزابيث الاولانيه
+    as: এলিজাবেথ প্ৰথম
+    ast: Sabela I d'Inglaterra
+    az: I Yelizaveta
+    azb: بیرینجی الیزابت
+    ba: Елизавета I
+    be: Лізавета I
+    be-tarask: Лізавета I
+    bew: Élisabèt I deri Inggris
+    bg: Елизабет I
+    bn: প্রথম এলিজাবেথ
+    br: Elesbed Iañ
+    bs: Elizabeta I, kraljica Engleske
+    btm: Elizabeth I sian Inggris
+    bxr: Англиин I Елизавета
+    ca: Elisabet I d'Anglaterra
+    ce: Елизавета I
+    ceb: Elizabeth I sa Ingglatera
+    ckb: ئێلیزابێتی یەکەمی ئینگلتەرا
+    crh: Elizaveta I
+    cs: Alžběta I.
+    cv: Елизавета I
+    cy: Elisabeth I
+    da: Elizabeth 1. af England
+    dag: Elizabeth I of England
+    de: Elisabeth I.
+    diq: Elizabeth I
+    el: Ελισάβετ Α΄ της Αγγλίας
+    en: Elizabeth I of England
+    eo: Elizabeto la 1-a
+    es: Isabel I de Inglaterra
+    et: Elizabeth I
+    eu: Elisabet I.a Ingalaterrakoa
+    fa: الیزابت یکم
+    fi: Elisabet I
+    fr: Élisabeth Ire
+    frr: Elisabeth I.
+    fy: Elizabeth I fan Ingelân
+    ga: Eilís I Shasana
+    gan: 伊麗莎白一世
+    gcr: Élisabeth Ir di Anglétèr
+    gd: Ban-rìgh Ealasaid I
+    gl: Isabel I de Inglaterra
+    gn: Isabel I Ingyatérra pegua
+    gsw: Elisabeth I.
+    gu: ઇંગ્લેન્ડના એલિઝાબેથ પ્રથમ
+    guw: Elizabeth I
+    gv: Ealisaid I Hostyn
+    ha: Elizabeth I
+    he: אליזבת הראשונה, מלכת אנגליה
+    hi: एलिज़ाबेथ प्रथम
+    hif: Elizabeth I of England
+    hr: Elizabeta I.
+    hsb: Hilžbjeta I.
+    ht: Elizabeth I
+    hu: I. Erzsébet
+    hy: Եղիսաբեթ I
+    ia: Elisabeth I de Anglaterra
+    id: Elizabeth I dari Inggris
+    ig: Elizabeth I of England
+    ilo: Isabel I iti Inglatera
+    io: Elizabeth 1ma di Anglia
+    is: Elísabet 1.
+    it: Elisabetta I d'Inghilterra
+    ja: エリザベス1世
+    jam: Elizabeth I of England
+    jv: Elizabeth I saking Britania Raya
+    ka: ელისაბედ I
+    kk: Елизавета I
+    km: សម្តេចព្រះរាជនីនាថអេលីហ្សាប៊ែតទី១ នៃចក្រភពអង់គ្លេស
+    kn: ಮೊದಲನೆಯ ಎಲಿಜಬೆಥ್
+    knc: Elizabeth I of England
+    ko: 엘리자베스 1세
+    ks: الزبتھ أکِم
+    kw: Elisabeth I a Bow Sows
+    la: Elizabetha I
+    lb: Elizabeth I. vun England
+    lez: I Елизавета
+    lfn: Elizabeth 1
+    li: Elizabeth I van Ingelandj
+    lij: Elizabetta I d'Inghiltæra
+    lld: Elisabeta I
+    lmo: Lisabetta I d'Inghilterra
+    lt: Elžbieta I
+    lv: Elizabete I
+    lzh: 伊莉莎白一世
+    mad: Elizabeth I dari Inggris
+    mai: एलिजाबेथ प्रथम
+    mg: Elizabeth I an'i Angletera
+    min: Elizabeth I dari Inggirih
+    mk: Елизабета I
+    ml: എലിസബത്ത് I
+    mn: I Элизабет
+    mr: पहिली एलिझाबेथ, इंग्लंड
+    ms: Elizabeth I dari England
+    mul: Elizabeth I
+    my: အယ်လစ်ဇဗက်ဘုရင်မ၊ ပဌမ
+    myv: I Елизавета
+    nan: Elizabeth 1-sè
+    nb: Elisabeth I
+    nds: Elisabeth I.
+    ne: एलिजाबेथ प्रथम
+    new: बेलायतयाम्ह एलिजाबेथ प्रथम
+    nl: Elizabeth I van Engeland
+    nn: Elisabet I av England
+    oc: Elisabeta I d'Anglatèrra
+    olo: Elisabeth I
+    pa: ਅਲੀਜ਼ਾਬੈਥ ਪਹਿਲੀ
+    pap: Elizabeth I of England
+    pcm: Elizabeth I of England
+    pl: Elżbieta I Tudor
+    pms: Elisabeta I d'Anghiltèra
+    pnb: الزبتھ I
+    ps: لومړۍ الیزابېت
+    pt: Isabel I de Inglaterra
+    pt-br: Isabel I de Inglaterra
+    qu: Elisabeth I
+    ro: Elisabeta I a Angliei
+    ru: Елизавета I
+    rue: Алжбета I Анґліцька
+    sa: एलिजाबेथ
+    sah: Харалыаба Элизабет I
+    scn: Lisabbetta I di Ngriterra
+    sco: Elizabeth I o Ingland
+    sgs: Elžbieta I
+    sh: Elizabeta I.
+    si: පළමුවන එළිසබෙත් රැජින
+    sk: Alžbeta I.
+    sl: Elizabeta I. Angleška
+    sq: elizabeta tudor
+    sr: Елизабета I Тјудор
+    sv: Elisabet I av England
+    sw: Elizabeth I wa Uingereza
+    szy: Yi-li-sa-pay yise
+    ta: இங்கிலாந்தின் முதலாம் எலிசபெத்
+    te: ఇంగ్లాండుకు చెందిన ఎలిజబెత్ I
+    th: สมเด็จพระราชินีนาถเอลิซาเบธที่ 1 แห่งอังกฤษ
+    tl: Elizabeth I ng Inglatera
+    tok: jan Elisape nanpa wan pi ma Inli
+    tr: I. Elizabeth
+    tt: Yelizaveta I patşabikä
+    uk: Єлизавета I
+    ur: ایلزبتھ اول
+    uz: Elizabeth I
+    vep: Elizavet I
+    vi: Elizabeth I của Anh
+    vro: Elizabeth I
+    war: Elizabeth I han Inglatera
+    wuu: 伊丽莎白一世
+    xmf: ელიზაბეთ I
+    yi: עליזאבעט די ערשטע
+    yo: Elisabeti Kìnní Ilẹ̀gẹ̀ẹ́sì
+    yue: 伊利沙伯一世
+    za: Elizabeth I
+    zh: 伊丽莎白一世
+    zh-cn: 伊丽莎白一世
 ---
-
 #has_/time_/started ::  1533-09-07 
 #has_/time_/stopped ::  1603-03-24  
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

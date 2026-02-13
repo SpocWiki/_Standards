@@ -1,21 +1,80 @@
 ---
 aliases:
-  - Pumpe
-  - Pump
+- Antlia
+- Avkêşk
+- bomba
+- Bomba hidráulica
+- caidéal
+- klumpa
+- Kompa
+- Kumpa
+- máy bơm
+- Nasos
+- Pam
+- Pampu
+- Phòng-phù
+- Pombi
+- Pomp
+- pompa
+- pompe
+- pompë
+- pompă
+- Ponpa
+- Poso
+- Pump
+- Pumpa
+- Pumpe
+- pumpilo
+- pumpp
+- Pumppu
+- pwmp
+- sisaljka
+- siurblys
+- Sorğı
+- szivattyú
+- sūknis
+- čerpadlo
+- črpalka
+- Αντλία
+- насос
+- насосны
+- Нассус
+- помпа
+- пумпа
+- Сорғы
+- суыргы
+- Ферба
+- Պոմպ
+- משאבה
+- ئاڤکێشک
+- ترومپا
+- سورعى
+- مضخة
+- پمپ
+- پومپ
+- पंप
+- पम्प
+- விசையியக்கக் குழாய்
+- పంపు
+- ปั๊มน้ำ
+- ポンプ
+- 泵
+- 뽐프
+- 펌프
 has_id_wikidata: Q134574
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
 different_from: '[[_Standards/WikiData/WD~Pompa,3907833]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~fluid_accelerator,65115262]]'
 has_use: '[[_Standards/WikiData/WD~transport,7590]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
-  - '[[_Standards/WikiData/WD~turbomachinery,63973]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~turbomachinery,63973]]'
 OmegaWiki_Defined_Meaning: 3055
 Nomenclature_for_Museum_Cataloging: 9208
 Commons_category: Pumps
@@ -27,8 +86,112 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pump%2C%20liquid%20type
 GS1_GPC_code: 10004055
 Iconclass_notation: 41A3912
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NASOSI.html
+dv_has_:
+  name_:
+    af: Pomp
+    ar: مضخة
+    ast: Bomba hidráulica
+    az: Nasos
+    azb: پومپ
+    be: помпа
+    be-tarask: помпа
+    bg: Помпа
+    bjn: Kumpa
+    bs: Pumpa
+    ca: bomba
+    ckb: ترومپا
+    cs: čerpadlo
+    cv: Нассус
+    cy: pwmp
+    da: pumpe
+    de: Pumpe
+    el: Αντλία
+    en: pump
+    eo: pumpilo
+    es: bomba hidráulica
+    et: pump
+    eu: Ponpa
+    fa: پمپ
+    fi: Pumppu
+    fr: pompe
+    ga: caidéal
+    gl: bomba hidráulica
+    he: משאבה
+    hi: पम्प
+    hr: sisaljka
+    hsb: klumpa
+    hu: szivattyú
+    hy: Պոմպ
+    ia: Pumpa
+    id: Pompa
+    inh: Ферба
+    io: Pumpilo
+    it: pompa
+    ja: ポンプ
+    kk: Сорғы
+    kk-arab: سورعى
+    kk-cn: سورعى
+    kk-cyrl: Сорғы
+    kk-kz: Сорғы
+    kk-latn: Sorğı
+    kk-tr: Sorğı
+    ko: 펌프
+    ko-kp: 뽐프
+    ksh: Pomp
+    ku: Avkêşk
+    ku-arab: ئاڤکێشک
+    ku-latn: Avkêşk
+    ky: Насос
+    la: Antlia
+    lt: siurblys
+    lv: sūknis
+    min: Pompa
+    mk: пумпа
+    mn: насосны
+    mr: पंप
+    ms: Pam
+    nan: Phòng-phù
+    nb: pumpe
+    ne: पम्प
+    nl: pomp
+    nn: pumpe
+    pl: pompa
+    pt: bomba hidráulica
+    pt-br: bomba hidráulica
+    ro: pompă
+    ru: насос
+    sh: Pumpa
+    sk: čerpadlo
+    sl: črpalka
+    sms: pumpp
+    sn: Pombi
+    sq: pompë
+    sr: пумпа
+    sr-ec: пумпа
+    sr-el: pumpa
+    su: Kompa
+    sv: pump
+    sw: Pampu
+    ta: விசையியக்கக் குழாய்
+    te: పంపు
+    th: ปั๊มน้ำ
+    tl: Poso
+    tr: Pompa
+    tt: суыргы
+    udm: насос
+    uk: помпа
+    uz: Nasos
+    vi: máy bơm
+    wuu: 泵
+    yue: 泵
+    zh: 泵
+    zh-cn: 泵
+    zh-hans: 泵
+    zh-hant: 泵
+    zh-hk: 泵
+    zh-sg: 泵
+    zh-tw: 泵
 ---
-
 # [[Pump]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Pump,134574|WD~Pump,134574]] 

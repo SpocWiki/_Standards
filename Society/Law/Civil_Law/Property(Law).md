@@ -1,29 +1,125 @@
 ---
 aliases:
-  - Property
-  - Property(Law)
+- Agyapadeɛ
+- ari-arian
+- cooid-seihllt
+- dominium
+- egendom
+- eiddo
+- eiendom
+- eigedom
+- eigendom
+- Eigentum
+- Eignarréttur
+- ejendom
+- Hantida
+- harta
+- Iimpawu
+- Impahla
+- jabetza
+- lastnina
+- majetek
+- Mali (uchumi)
+- maoin
+- mileq
+- Mulk
+- mülk
+- Mülkiyyət
+- nuosavybė
+- Nutindo
+- omaisuus
+- omand
+- Pagrogaring
+- Perc'henniezh
+- posedo
+- Pravo svojine
+- pravo vlasništva
+- pronë
+- properti
+- Property
+- Property(Law)
+- propiedad
+- propiedade
+- Propiedá
+- propietat
+- propietà
+- propriedade
+- Proprietajo
+- Proprietat
+- proprietate
+- proprietà
+- Proprietéit
+- propriété
+- Propryété
+- Pussidenti
+- Pwopriyete
+- tulajdon
+- tài sản
+- własność
+- ìní
+- Ñɩm
+- īpašums
+- Ǣht
+- περιουσία
+- Атрибут, объектінің қасиеті
+- имущество
+- Кедьсэаштиця
+- маёмасць
+- маёмасьць
+- майно
+- милек
+- Мүлк
+- Мөлкәт (милек объекты)
+- право својине
+- Пурлăх
+- Собственост
+- сопственост
+- тааллуқ
+- Өмч
+- սեփականություն
+- אייגנטום
+- רכוש
+- جائیداد
+- مالکیت
+- ملكية
+- مڵک
+- هرتا
+- सम्पत्ति
+- সম্পত্তি
+- ਸੰਪੱਤੀ
+- சொத்து
+- ఆస్తి
+- ಆಸ್ತಿ
+- ทรัพย์สิน
+- ქონება
+- 屬性
+- 財產
+- 財産
+- 财产
+- ꯃꯔꯜ
+- 재산
 has_id_wikidata: Q1400881
 has_part_s_:
-  - '[[_Standards/WikiData/WD~intellectual_property,131257]]'
-  - '[[_Standards/WikiData/WD~personal_property,499094]]'
-  - '[[_Standards/WikiData/WD~private_property,555911]]'
-  - '[[_Standards/WikiData/WD~public_property,702627]]'
-  - '[[_Standards/WikiData/WD~collective_ownership,4227971]]'
-  - '[[_Standards/WikiData/WD~title,5393493]]'
-  - '[[_Standards/WikiData/WD~real_property,10494269]]'
+- '[[_Standards/WikiData/WD~intellectual_property,131257]]'
+- '[[_Standards/WikiData/WD~personal_property,499094]]'
+- '[[_Standards/WikiData/WD~private_property,555911]]'
+- '[[_Standards/WikiData/WD~public_property,702627]]'
+- '[[_Standards/WikiData/WD~collective_ownership,4227971]]'
+- '[[_Standards/WikiData/WD~title,5393493]]'
+- '[[_Standards/WikiData/WD~real_property,10494269]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 has_cause:
-  - '[[_Standards/WikiData/WD~convention,367293]]'
-  - '[[_Standards/WikiData/WD~natural_law,29524]]'
-  - '[[_Standards/WikiData/WD~morality,48324]]'
+- '[[_Standards/WikiData/WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~natural_law,29524]]'
+- '[[_Standards/WikiData/WD~morality,48324]]'
 different_from:
-  - '[[_Standards/WikiData/WD~possession,829909]]'
-  - '[[_Standards/WikiData/WD~property,937228]]'
-  - '[[_Standards/WikiData/WD~estate,2186896]]'
-  - '[[_Standards/WikiData/WD~ownership,6498684]]'
+- '[[_Standards/WikiData/WD~possession,829909]]'
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~estate,2186896]]'
+- '[[_Standards/WikiData/WD~ownership,6498684]]'
 instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
 has_characteristic: '[[_Standards/WikiData/WD~ownership,6498684]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
@@ -31,21 +127,138 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Property_navbox,17517461]
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32536402,32536402]]'
 Wikidata_property:
-  - owner of
-  - owned by
+- owner of
+- owned by
 facet_of: '[[_Standards/WikiData/WD~capitalism,6206]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~law,7748]]'
-  - '[[_Standards/WikiData/WD~economics,8134]]'
-  - '[[_Standards/WikiData/WD~sociology,21201]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
-  - '[[_Standards/WikiData/WD~political_economy,47555]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~political_economy,47555]]'
 subclass_of: '[[_Standards/WikiData/WD~goods,28877]]'
 OmegaWiki_Defined_Meaning: 435478
 PhilPapers_topic: property
 U_S_National_Archives_Identifier: 10642012
+dv_has_:
+  name_:
+    af: Eiendom
+    ak: Agyapadeɛ
+    ang: Ǣht
+    ar: ملكية
+    ast: Propiedá
+    az: Mülkiyyət
+    ba: Мөлкәт (милек объекты)
+    bcl: Pagrogaring
+    be: маёмасць
+    be-tarask: маёмасьць
+    bg: Собственост
+    bn: সম্পত্তি
+    br: Perc'henniezh
+    ca: propietat
+    ckb: مڵک
+    cs: majetek
+    cv: Пурлăх
+    cy: eiddo
+    da: ejendom
+    de: Eigentum
+    de-ch: Eigentum
+    el: περιουσία
+    en: property
+    en-ca: Property
+    en-gb: property
+    eo: posedo
+    es: propiedad
+    et: omand
+    eu: jabetza
+    fa: مالکیت
+    fi: omaisuus
+    fr: propriété
+    fy: eigendom
+    ga: maoin
+    gcr: Propryété
+    gl: propiedade
+    guw: Nutindo
+    gv: cooid-seihllt
+    he: רכוש
+    hi: सम्पत्ति
+    hr: pravo vlasništva
+    ht: Pwopriyete
+    hu: tulajdon
+    hy: սեփականություն
+    ia: proprietate
+    id: properti
+    io: Proprietajo
+    is: Eignarréttur
+    it: proprietà
+    ja: 財産
+    ka: ქონება
+    kbp: Ñɩm
+    kk: Атрибут, объектінің қасиеті
+    kn: ಆಸ್ತಿ
+    ko: 재산
+    ky: Мүлк
+    la: dominium
+    lb: Proprietéit
+    lt: nuosavybė
+    lv: īpašums
+    mk: сопственост
+    mn: Өмч
+    mni: ꯃꯔꯜ
+    ms: harta
+    ms-arab: هرتا
+    myv: Кедьсэаштиця
+    nb: eiendom
+    new: सम्पत्ति
+    nl: eigendom
+    nn: eigedom
+    oc: Proprietat
+    pa: ਸੰਪੱਤੀ
+    pl: własność
+    pt: propriedade
+    pt-br: Propriedade
+    ro: proprietate
+    ru: имущество
+    scn: Pussidenti
+    sh: Pravo svojine
+    sl: lastnina
+    so: Hantida
+    sq: pronë
+    sr: право својине
+    sr-ec: право својине
+    sr-el: pravo svojine
+    sv: egendom
+    sw: Mali (uchumi)
+    ta: சொத்து
+    te: ఆస్తి
+    tg: тааллуқ
+    th: ทรัพย์สิน
+    tl: ari-arian
+    tr: mülk
+    tt: милек
+    tt-cyrl: милек
+    tt-latn: mileq
+    uk: майно
+    ur: جائیداد
+    uz: Mulk
+    vec: propietà
+    vi: tài sản
+    wuu: 财产
+    xh: Iimpawu
+    yi: אייגנטום
+    yo: ìní
+    yue: 財產
+    zh: 财产
+    zh-cn: 财产
+    zh-hans: 财产
+    zh-hant: 屬性
+    zh-hk: 財產
+    zh-mo: 財產
+    zh-my: 财产
+    zh-sg: 财产
+    zh-tw: 屬性
+    zu: Impahla
 ---
-
 # [[Property(Law)]] 
 
 #is_/alternative_to :: [[Steward-Ownership]]  

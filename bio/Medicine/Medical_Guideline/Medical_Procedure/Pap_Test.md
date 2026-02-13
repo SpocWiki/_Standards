@@ -1,36 +1,136 @@
 ---
 aliases:
-  - Papanicolaou test
-  - Pap test
-  - Pap smear
-  - cervical smear
-  - cervical screening
-  - smear test
-  - Pap_Test
-  - Pap Test
+- Badanie cytologiczne
+- cervical screening
+- cervical smear
+- cervika ŝmiro
+- Citoloxía vaxinal
+- Frotis de Papanicolau
+- gynekologiskt cellprov
+- irtosolunäyte
+- Pap smear
+- Pap test
+- Pap-Test
+- Pap-teszt
+- Papa test
+- Papanicolaou test
+- Papanicolaouren frotis
+- Papanicolau test
+- Papanikolau test
+- Pap_Test
+- Phết tế bào cổ tử cung
+- Probo di Papanikolaou
+- Prueba de Papanicolaou
+- pååđsellčuäjtõs
+- smear test
+- Test di Papanicolaou
+- test PAP
+- Teste de Papanicolau
+- tástáil smearaidh
+- uitstrijkje
+- Ujian lumuran Pap
+- Τεστ Παπ
+- змазак Папанікаляў
+- Мазок Папаниколау
+- ПАП тест
+- Папаниколау тест
+- Тест Папаніколау
+- Պապ թեստ
+- בדיקת משטח צוואר הרחם
+- آزمایش پاپ اسمیر
+- لطاخة بابانيكولاو
+- पॅप स्मिअर
+- पेप स्मियर
+- பாப் சோதனை
+- പാപ്പ് സ്മിയർ പരിശോധന
+- การทดสอบแพป
+- パップテスト
+- 子宫颈抹片检查
+- 子宮頸抹片檢查
+- 巴氏涂片检查
+- 柏氏抹片
+- 팹 테스트
 has_id_wikidata: Q942976
 named_after: '[[_Standards/WikiData/WD~Georgios_Papanikolaou,319321]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~swab_sample,333482]]'
-  - '[[_Standards/WikiData/WD~cervical_screening,5065348]]'
+- '[[_Standards/WikiData/WD~swab_sample,333482]]'
+- '[[_Standards/WikiData/WD~cervical_screening,5065348]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~gynaecology,1221899]]'
-  - '[[_Standards/WikiData/WD~cytopathology,1881849]]'
+- '[[_Standards/WikiData/WD~gynaecology,1221899]]'
+- '[[_Standards/WikiData/WD~cytopathology,1881849]]'
 instance_of: '[[_Standards/WikiData/WD~periodic_health_examination,1762591]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pap%20test%20normal.jpg
 UMLS_CUI: C3541459
 MeSH_tree_code:
-  - E01.370.225.500.384.100.422
-  - E01.370.225.998.054.422
-  - E04.074.422
-  - E05.200.500.384.100.422
-  - E05.200.998.054.422
-  - E05.242.384.100.422
+- E01.370.225.500.384.100.422
+- E01.370.225.998.054.422
+- E04.074.422
+- E05.200.500.384.100.422
+- E05.200.998.054.422
+- E05.242.384.100.422
 Commons_category: Pap test cytology
+dv_has_:
+  name_:
+    ar: لطاخة بابانيكولاو
+    ast: Prueba de Papanicolaou
+    be-tarask: змазак Папанікаляў
+    bg: ПАП тест
+    ca: Frotis de Papanicolau
+    de: Pap-Test
+    de-ch: Pap-Test
+    el: Τεστ Παπ
+    en: Pap test
+    en-ca: Pap test
+    en-gb: smear test
+    eo: cervika ŝmiro
+    es: Prueba de Papanicolaou
+    et: Papanicolau test
+    eu: Papanicolaouren frotis
+    fa: آزمایش پاپ اسمیر
+    fi: irtosolunäyte
+    fr: test PAP
+    ga: tástáil smearaidh
+    gl: Citoloxía vaxinal
+    he: בדיקת משטח צוואר הרחם
+    hi: पेप स्मियर
+    hr: Papa test
+    hu: Pap-teszt
+    hy: Պապ թեստ
+    id: Pap smear
+    io: Probo di Papanikolaou
+    it: Test di Papanicolaou
+    ja: パップテスト
+    ko: 팹 테스트
+    ml: പാപ്പ് സ്മിയർ പരിശോധന
+    mr: पॅप स्मिअर
+    ms: Ujian lumuran Pap
+    nl: uitstrijkje
+    pl: Badanie cytologiczne
+    pt: Teste de Papanicolau
+    pt-br: Teste de Papanicolau
+    ro: test PAP
+    ru: Мазок Папаниколау
+    sh: Papanikolau test
+    sl: test PAP
+    sms: pååđsellčuäjtõs
+    sq: pap test
+    sr: Papanikolau test
+    sr-ec: Папаниколау тест
+    sr-el: Papanikolau test
+    sv: gynekologiskt cellprov
+    ta: பாப் சோதனை
+    th: การทดสอบแพป
+    tr: Pap smear
+    uk: Тест Папаніколау
+    vi: Phết tế bào cổ tử cung
+    yue: 柏氏抹片
+    zh: 巴氏涂片检查
+    zh-cn: 子宫颈抹片检查
+    zh-hans: 子宫颈抹片检查
+    zh-hant: 子宮頸抹片檢查
 ---
-
 # [[Pap_Test]] 
 
 #is_/same_as :: [[WD~Pap_test,942976]] 

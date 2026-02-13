@@ -1,11 +1,22 @@
 ---
 aliases:
-  - Energy-Technology
+- energiateknologia
+- energiijateknologiija
+- energiteknik
+- energy technology
+- Energy-Technology
+- tecnología energética
 has_id_wikidata: Q6140120
 OmegaWiki_Defined_Meaning: 1195
 subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
+dv_has_:
+  name_:
+    en: energy technology
+    es: tecnología energética
+    se: energiijateknologiija
+    sms: energiateknologia
+    sv: energiteknik
 ---
-
 ## #has_/text_of_/abstract 
 
 > Energy development is the field of activities focused on obtaining sources of energy from natural resources. These activities include the production of renewable, nuclear, and fossil fuel derived sources of energy, and for the recovery and reuse of energy that would otherwise be wasted. Energy conservation and efficiency measures reduce the demand for energy development, and can have benefits to society with improvements to environmental issues.

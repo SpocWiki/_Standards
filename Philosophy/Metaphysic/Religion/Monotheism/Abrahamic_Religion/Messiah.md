@@ -1,35 +1,195 @@
 ---
 aliases:
-  - Messias
-  - Messiah
+- Al-Masih
+- Almasi bi
+- Masiya
+- Ma̱siya
+- Meisias
+- Meseia
+- Mesi
+- Mesia
+- Mesias
+- Mesiaz
+- Mesih
+- Mesija
+- Mesijas
+- Mesio
+- Mesiyas
+- Mesiáš
+- messia
+- Messiah
+- Messias
+- Messie
+- messies
+- Messija
+- Messiya
+- Messiás
+- Messías
+- Mesías
+- Mesíes
+- Mesíyas
+- Muishe
+- Mésias
+- Məsih
+- Pomazaniec
+- Μεσσίας
+- масийхь
+- Месія
+- Месија
+- Месия
+- мессия
+- мэсія
+- Մեսիա
+- משיח
+- משיח (דתות)
+- المسيح فى الاديان الابراهيميه
+- مسیح
+- مشيح
+- ܡܫܝܚܐ
+- मसिहा
+- मसीहा
+- মশীহ
+- মেসসইয়াস
+- ਮਸੀਹਾ
+- மெசியா
+- മിശിഹ
+- เมสสิยาห์
+- ເມຊີອາ
+- ክርስቶስ
+- メシア
+- 弥赛亚
+- 彌賽亞
+- 默西亞
+- 메시아
 has_id_wikidata: Q51626
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-facet_of: "[[_Standards/WikiData/WD~messianism,630281]]"
-has_list: "[[_Standards/WikiData/WD~list_of_messiah_claimants,1289748]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+facet_of: '[[_Standards/WikiData/WD~messianism,630281]]'
+has_list: '[[_Standards/WikiData/WD~list_of_messiah_claimants,1289748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_belief,2728698]]"
-  - "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Masih,12471347]]"
+- '[[_Standards/WikiData/WD~religious_belief,2728698]]'
+- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Masih,12471347]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~believer,17573152]]"
-  - "[[_Standards/WikiData/WD~religious_character,18563354]]"
-  - "[[_Standards/WikiData/WD~fictional_religious_occupation,47472256]]"
-  - "[[_Standards/WikiData/WD~eschatological_figure,131743524]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32004294,32004294]]"
+- '[[_Standards/WikiData/WD~believer,17573152]]'
+- '[[_Standards/WikiData/WD~religious_character,18563354]]'
+- '[[_Standards/WikiData/WD~fictional_religious_occupation,47472256]]'
+- '[[_Standards/WikiData/WD~eschatological_figure,131743524]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32004294,32004294]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20Aurea%20Solar.jpg
 Stack_Exchange_tag:
-  - https://christianity.stackexchange.com/tags/messiah
-  - https://hermeneutics.stackexchange.com/tags/messiah
+- https://christianity.stackexchange.com/tags/messiah
+- https://hermeneutics.stackexchange.com/tags/messiah
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MESSIYA.html
+dv_has_:
+  name_:
+    af: Messias
+    am: ክርስቶስ
+    ar: مشيح
+    arc: ܡܫܝܚܐ
+    arz: المسيح فى الاديان الابراهيميه
+    ast: Mesíes
+    az: Məsih
+    be: Месія
+    be-tarask: мэсія
+    bg: Месия
+    bn: মশীহ
+    bpy: মেসসইয়াস
+    br: Mesiaz
+    ca: messies
+    ce: масийхь
+    cs: Mesiáš
+    cy: Meseia
+    da: Messias
+    de: Messias
+    de-ch: Messias
+    diq: Mesih
+    el: Μεσσίας
+    en: Messiah
+    en-ca: Messiah
+    en-gb: Messiah
+    eo: Mesio
+    es: Mesías
+    et: Messias
+    eu: Mesias
+    fa: مسیح
+    fi: messias
+    fr: Messie
+    ga: Meisias
+    gl: mesías
+    gsw: Messias
+    ha: Messiah
+    he: משיח (דתות)
+    hi: मसीहा
+    hr: Mesija
+    ht: Mesi
+    hu: Messiás
+    hy: Մեսիա
+    ia: Messia
+    id: Mesias
+    is: Messías
+    it: messia
+    ja: メシア
+    jv: Mésias
+    kcg: Ma̱siya
+    kk: Мессия
+    ko: 메시아
+    ky: Мессия
+    la: Messias
+    lo: ເມຊີອາ
+    lt: Mesijas
+    lv: Mesija
+    mg: Mesia
+    mk: Месија
+    ml: മിശിഹ
+    ms: Al-Masih
+    mt: Messija
+    mwl: Messias
+    mzn: مسیح
+    nb: Messias
+    nds: Messias
+    ne: मसिहा
+    nl: messias
+    nn: Messias
+    oc: Messias
+    pa: ਮਸੀਹਾ
+    pl: Pomazaniec
+    pt: Messias
+    pt-br: Messias
+    ro: Mesia
+    ru: мессия
+    sh: Mesija
+    sk: Mesiáš
+    sl: mesija
+    sn: Muishe
+    sq: Mesia
+    sr: Месија
+    sv: Messias
+    sw: Masiya
+    ta: மெசியா
+    th: เมสสิยาห์
+    tl: Mesiyas
+    tr: mesih
+    uk: Месія
+    ur: مسیح
+    uz: Messiya
+    vec: Mesia
+    vi: Messiah
+    war: Mesíyas
+    wo: Almasi bi
+    wuu: 弥赛亚
+    yi: משיח
+    yue: 默西亞
+    zh: 彌賽亞
+    zh-cn: 弥赛亚
+    zh-hans: 弥赛亚
 ---
-
 # [[Messiah]] 
 
 #is_/same_as :: [[WD~Messiah,51626]] 

@@ -1,63 +1,243 @@
 ---
 aliases:
-  - Korean
-  - Korean Language
-  - Lang-ko
-  - Lang-kor
+- Amanung Koreanu
+- an Chóiréis
+- bahasa Korea
+- Bahaso Korea
+- Bakoriye
+- Basa Koréa
+- Chikoriya
+- Corean
+- Coreane
+- coreano
+- coreanu
+- Coreatlahtōlli
+- coreà
+- coréen
+- Corêyin
+- Corëeg
+- curianu
+- Dorerin Korea
+- Fa'aKolea
+- Fiteny koreanina
+- Gjuha koreane
+- hangugo
+- Hàng-guók-ngṳ̄
+- Idioma corián
+- isi-Korean
+- Jaku Korea
+- język koreański
+- Kari Han-guk
+- Kikorea
+- Kinoreano nga pinulongan
+- Kooreyɛ kʊnʊŋ
+- Kore dili
+- Kore tili
+- korea
+- korea keel
+- Korea kiil
+- korea lingvo
+- Koreaans
+- Koreaansche Spraak
+- Koreaansk
+- koreagiella
+- koreai
+- koreakielâ
+- Koreamiusut
+- Korean
+- Korean bhasa
+- Korean Language
+- Koreana linguo
+- koreaneg
+- Koreanesch
+- Koreanisch
+- Koreano
+- koreansk
+- koreanska
+- Koreanskt mál
+- Koreañe'ẽ
+- koreańskŏ gŏdka
+- koreaǩiõll
+- Korece
+- Koreeish
+- Koreek
+- koreera
+- Korejan kel'
+- korejańšćina
+- korejiešu valoda
+- korejski jezik
+- korejština
+- korejšćina
+- korejščina
+- Korejə zyvon
+- Koreya dili
+- koreys tili
+- Koreyänapük
+- Koreý dili
+- koreğe
+- Koryaki
+- korêyî
+- korėjiečių kalba
+- Kuoriejėitiu kalba
+- Kuryu simi
+- Kworiya
+- Kòrejańsczi jãzëk
+- kórejčina
+- Kóreska
+- Lang kore
+- Lang-ko
+- Lang-kor
+- Lenga corean
+- Lengua coreana
+- Limba coreana
+- limba coreeană
+- Lingua corean
+- lingua coreana
+- Luenga coreana
+- Pinulongang Koreano
+- Reo Kōrea
+- Takurit
+- Tiâu-sián-gí
+- tiếng Hàn
+- Tok Koria
+- toki Anku
+- Tsêu-siên-ngî
+- ʻōlelo Kōlea
+- Κορεατική γλώσσα
+- Акореи бызшәа
+- забони куриёӣ
+- карэйская мова
+- корејски
+- корејски јазик
+- корей йылме
+- корей кыл
+- корей тілі
+- Корей теле
+- Корей тил
+- Корей тили
+- Корей чӀал
+- Корей чӗлхи
+- корейаг æвзаг
+- корейски език
+- корейский язык
+- корейська мова
+- Корейськый язык
+- Корейхойн мотт
+- Корея кыв
+- корея теле
+- Кореянь кель
+- Кэриэй тыла
+- Көрей дыл
+- Солонгос хэл
+- Солонгос хэлэн
+- կորեերեն
+- קארעיש
+- קוריאנית
+- الكوري
+- الكورية
+- بهاس کوريا
+- زبان کرهای
+- زمانی کۆری
+- كورىيەچە
+- كورية
+- لغه كورى
+- لكورية
+- کوره دیلی
+- کوريايي ژبه
+- کوریائی
+- کوریائی زبان
+- کوریٲیی زبان
+- کُرهای
+- ކޮރެޔާ ބަސް
+- कोरियन भाषा
+- कोरियाई भाषा
+- कोरियालि भाषा
+- कोरियाली भाषा
+- কোরীয় ভাষা
+- কোৰীয় ভাষা
+- ਕੋਰੀਆਈ
+- કોરિયન
+- கொரிய மொழி
+- కొరియన్ భాష
+- ಕೊರಿಯಾದ ಭಾಷೆ
+- കൊറിയൻ ഭാഷ
+- කොරියානු භාෂාව
+- ภาษาเกาหลี
+- ພາສາເກົາຫຼີ
+- ကိုရီးယားဘာသာစကား
+- კორეული ენა
+- კორეული ნინა
+- ኮሪይኛ
+- ᎪᎵᎥ
+- ᑯᕆᐊᑎᑐᑦ
+- ភាសាកូរ៉េ
+- ᠰᠣᠯᡥᠣ ᡤᡳᠰᡠᠨ
+- ᱠᱳᱨᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ
+- ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴽⵓⵔⵉⵜ
+- 朝鮮話
+- 朝鮮語
+- 朝鲜语
+- 韓文
+- 韓語
+- 韩语
+- ꠇꠥꠞꠤꠀꠘ ꠝꠣꠔ
+- ꯀꯣꯔꯤꯌꯥꯟ ꯂꯣꯟ
+- 조선말
+- 한국어
 has_id_wikidata: Q9176
 tags:
-  - Lang/ko
+- Lang/ko
 type: Lang
 has_grammatical_case:
-  - '[[_Standards/WikiData/WD~nominative_case,131105]]'
-  - '[[_Standards/WikiData/WD~dative_case,145599]]'
-  - '[[_Standards/WikiData/WD~accusative_case,146078]]'
-  - '[[_Standards/WikiData/WD~genitive_case,146233]]'
-  - '[[_Standards/WikiData/WD~vocative_case,185077]]'
-  - '[[_Standards/WikiData/WD~instrumental_case,192997]]'
+- '[[_Standards/WikiData/WD~nominative_case,131105]]'
+- '[[_Standards/WikiData/WD~dative_case,145599]]'
+- '[[_Standards/WikiData/WD~accusative_case,146078]]'
+- '[[_Standards/WikiData/WD~genitive_case,146233]]'
+- '[[_Standards/WikiData/WD~vocative_case,185077]]'
+- '[[_Standards/WikiData/WD~instrumental_case,192997]]'
 linguistic_typology:
-  - '[[_Standards/WikiData/WD~vowel_harmony,147137]]'
-  - '[[_Standards/WikiData/WD~postposition,161873]]'
-  - '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
-  - '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-  - '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
-  - '[[_Standards/WikiData/WD~pitch_accent,1441804]]'
-  - '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
-  - '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
-  - '[[_Standards/WikiData/WD~synthetic_language,48612]]'
+- '[[_Standards/WikiData/WD~vowel_harmony,147137]]'
+- '[[_Standards/WikiData/WD~postposition,161873]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~pro_drop_language,661936]]'
+- '[[_Standards/WikiData/WD~pitch_accent,1441804]]'
+- '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+- '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - '[[_Standards/WikiData/WD~present_tense,192613]]'
-  - '[[_Standards/WikiData/WD~future_tense,501405]]'
-  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
+- '[[_Standards/WikiData/WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Korean,467883]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Hanja,485619]]'
-  - '[[_Standards/WikiData/WD~Hangul,8222]]'
+- '[[_Standards/WikiData/WD~Hanja,485619]]'
+- '[[_Standards/WikiData/WD~Hangul,8222]]'
 language_regulatory_body: '[[_Standards/WikiData/WD~National_Institute_of_Korean_Language,495374]]'
 studied_by: '[[_Standards/WikiData/WD~Korean_studies,714838]]'
 follows: '[[_Standards/WikiData/WD~Middle_Korean,715339]]'
 replaces: '[[_Standards/WikiData/WD~Early_Modern_Korean,756014]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 subclass_of: '[[_Standards/WikiData/WD~Koreanic,11263525]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Korean_dialects,14447354]]'
 UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 country:
-  - '[[_Standards/WikiData/WD~North_Korea,423]]'
-  - '[[_Standards/WikiData/WD~Malaysia,833]]'
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
 indigenous_to:
-  - '[[_Standards/WikiData/WD~North_Korea,423]]'
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
 IAB_code: 1115
 number_of_speakers_writers_or_signers: 77300000
 OmegaWiki_Defined_Meaning: 6222
@@ -72,9 +252,9 @@ IETF_language_tag: ko
 ISO_639_1_code: ko
 POSIX_locale_identifier: ko
 native_label:
-  - 한국어
-  - 한국말
-  - 조선말
+- 한국어
+- 한국말
+- 조선말
 Commons_category: Korean language
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hangugeo-Chosonmal.svg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20ko.svg
@@ -86,26 +266,249 @@ exact_match: http://publications.europa.eu/resource/authority/language/KOR
 Stack_Exchange_site_URL: https://korean.stackexchange.com
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/korean
 Linguasphere_code:
-  - 45-A
-  - 45-AAA-a
+- 45-A
+- 45-AAA-a
 Libris_URI: 53hkj8jp08fg828
 Universal_Decimal_Classification: 811.531
 Wolfram_Language_entity_code:
-  - Entity["Language", "Korean::yz98n"]
-  - Entity["Language", "Korean"]
+- Entity["Language", "Korean::yz98n"]
+- Entity["Language", "Korean"]
 Glottolog_code: kore1280
 GitHub_topic: korean
 GOST_7_75_97_code: коо 330
 entry_in_abbreviations_table: кор.
 Baidu_Tieba_name: 韩国语
 short_name:
-  - карэйская
-  - корейаг
-  - корейский
-  - куриёӣ
-  - корейська
+- карэйская
+- корейаг
+- корейский
+- куриёӣ
+- корейська
+dv_has_:
+  name_:
+    ab: Акореи бызшәа
+    acm: كورية
+    aeb-arab: الكوري
+    af: Koreaans
+    am: ኮሪይኛ
+    an: Idioma corián
+    anp: कोरियाई भाषा
+    ar: الكورية
+    arq: الكورية
+    ary: لكورية
+    arz: لغه كورى
+    as: কোৰীয় ভাষা
+    ast: coreanu
+    awa: कोरियाई भाषा
+    az: Koreya dili
+    azb: کوره دیلی
+    ba: Корей теле
+    ban: Basa Koréa
+    bcl: Koreano
+    be: карэйская мова
+    be-tarask: карэйская мова
+    bg: корейски език
+    bn: কোরীয় ভাষা
+    br: koreaneg
+    bs: korejski jezik
+    bxr: Солонгос хэлэн
+    ca: coreà
+    cdo: Hàng-guók-ngṳ̄
+    ce: Корейхойн мотт
+    ceb: Pinulongang Koreano
+    chr: ᎪᎵᎥ
+    ckb: زمانی کۆری
+    co: coreanu
+    crh: Kore tili
+    crh-ro: koreğe
+    cs: korejština
+    csb: Kòrejańsczi jãzëk
+    cv: Корей чӗлхи
+    cy: Corëeg
+    da: koreansk
+    de: Koreanisch
+    de-ch: Koreanisch
+    diq: Koryaki
+    dsb: korejańšćina
+    dv: ކޮރެޔާ ބަސް
+    el: Κορεατική γλώσσα
+    en: Korean
+    en-ca: Korean
+    en-gb: Korean
+    eo: korea lingvo
+    es: coreano
+    et: korea keel
+    eu: koreera
+    ext: Luenga coreana
+    fa: زبان کرهای
+    fi: korea
+    fo: Koreanskt mál
+    fr: coréen
+    frr: Koreaans
+    fy: Koreaansk
+    ga: an Chóiréis
+    gag: Kore dili
+    gan: 朝鮮話
+    gl: lingua coreana
+    gn: Koreañe'ẽ
+    gu: કોરિયન
+    gv: Koreeish
+    ha: Bakoriye
+    hak: Tsêu-siên-ngî
+    haw: ʻōlelo Kōlea
+    he: קוריאנית
+    hi: कोरियाई भाषा
+    hif: Korean bhasa
+    hr: korejski jezik
+    hsb: korejšćina
+    ht: Lang kore
+    hu: koreai
+    hy: կորեերեն
+    ia: Lingua corean
+    iba: Jaku Korea
+    id: bahasa Korea
+    ig: Korean
+    ilo: Koreano
+    io: Koreana linguo
+    is: Kóreska
+    it: coreano
+    iu: ᑯᕆᐊᑎᑐᑦ
+    ja: 朝鮮語
+    jv: Basa Koréa
+    ka: კორეული ენა
+    kaa: koreys tili
+    kab: Takurit
+    kbp: Kooreyɛ kʊnʊŋ
+    kcg: Kworiya
+    kge: Bahasa Korea
+    kk: корей тілі
+    kl: Koreamiusut
+    km: ភាសាកូរ៉េ
+    kn: ಕೊರಿಯಾದ ಭಾಷೆ
+    ko: 한국어
+    ko-kp: 조선말
+    krc: Корей тил
+    ks: کوریٲیی زبان
+    ku: korêyî
+    kv: Корея кыв
+    kw: Koreek
+    ky: Корей тили
+    la: Coreane
+    lb: Koreanesch
+    lez: Корей чӀал
+    lfn: hangugo
+    li: Koreaans
+    lo: ພາສາເກົາຫຼີ
+    lt: korėjiečių kalba
+    lv: korejiešu valoda
+    lzh: 韓語
+    mg: Fiteny koreanina
+    mhr: корей йылме
+    mi: Reo Kōrea
+    min: Bahaso Korea
+    mk: корејски јазик
+    ml: കൊറിയൻ ഭാഷ
+    mn: Солонгос хэл
+    mnc: ᠰᠣᠯᡥᠣ ᡤᡳᠰᡠᠨ
+    mni: ꯀꯣꯔꯤꯌꯥꯟ ꯂꯣꯟ
+    mr: कोरियन भाषा
+    ms: bahasa Korea
+    ms-arab: بهاس کوريا
+    mt: Korean
+    my: ကိုရီးယားဘာသာစကား
+    myv: Кореянь кель
+    mzn: کُرهای
+    na: Dorerin Korea
+    nah: Coreatlahtōlli
+    nan: Tiâu-sián-gí
+    nap: Lengua coreana
+    nb: koreansk
+    nds: Koreaansche Spraak
+    ne: कोरियाली भाषा
+    new: कोरियन भाषा
+    nl: Koreaans
+    nn: koreansk
+    oc: Corean
+    os: корейаг æвзаг
+    pa: ਕੋਰੀਆਈ
+    pam: Amanung Koreanu
+    pl: język koreański
+    pms: Lenga corean
+    pnb: کوریائی
+    ps: کوريايي ژبه
+    pt: coreano
+    pt-br: coreano
+    qu: Kuryu simi
+    ro: limba coreeană
+    ru: корейский язык
+    rue: Корейськый язык
+    sa: कोरियालि भाषा
+    sah: Кэриэй тыла
+    sat: ᱠᱳᱨᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ
+    sc: Limba coreana
+    scn: curianu
+    sco: Korean
+    se: koreagiella
+    sgs: Kuoriejėitiu kalba
+    sh: Korejski jezik
+    si: කොරියානු භාෂාව
+    sje: koreagiella
+    sk: kórejčina
+    sl: korejščina
+    sm: Fa'aKolea
+    smn: koreakielâ
+    sms: koreaǩiõll
+    sn: Chikoriya
+    sq: Gjuha koreane
+    sr: корејски
+    sr-ec: корејски
+    su: Basa Koréa
+    sv: koreanska
+    sw: Kikorea
+    syl: ꠇꠥꠞꠤꠀꠘ ꠝꠣꠔ
+    szl: koreańskŏ gŏdka
+    ta: கொரிய மொழி
+    te: కొరియన్ భాష
+    tg: забони куриёӣ
+    th: ภาษาเกาหลี
+    tk: Koreý dili
+    tl: Koreano
+    tly: Korejə zyvon
+    tok: toki Anku
+    tpi: Tok Koria
+    tr: Korece
+    trv: Kari Han-guk
+    tt: корея теле
+    tt-cyrl: корей теле
+    tyv: Көрей дыл
+    udm: корей кыл
+    ug: كورىيەچە
+    uk: корейська мова
+    ur: کوریائی زبان
+    uz: Koreys tili
+    vec: corean
+    vep: Korejan kel'
+    vi: tiếng Hàn
+    vo: Koreyänapük
+    vro: Korea kiil
+    wa: Corêyin
+    war: Kinoreano nga pinulongan
+    wuu: 韩语
+    xmf: კორეული ნინა
+    yi: קארעיש
+    yue: 韓文
+    zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴽⵓⵔⵉⵜ
+    zh: 朝鮮語
+    zh-cn: 朝鲜语
+    zh-hans: 朝鲜语
+    zh-hant: 韓語
+    zh-hk: 韓語
+    zh-mo: 韓語
+    zh-my: 韩语
+    zh-sg: 韩语
+    zh-tw: 韓語
+    zu: isi-Korean
 ---
-
 # [[Lang-kor]]
 
 [SpocWebEntityId:: 459 ]

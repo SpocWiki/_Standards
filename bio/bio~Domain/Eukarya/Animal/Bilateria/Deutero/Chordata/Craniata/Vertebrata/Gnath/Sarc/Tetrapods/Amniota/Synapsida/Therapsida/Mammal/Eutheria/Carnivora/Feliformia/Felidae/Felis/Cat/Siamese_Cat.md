@@ -1,39 +1,168 @@
 ---
 aliases:
-  - Siamese cat
-  - Siamkatze
-  - ''
-  - Siamese_Cat
-  - Siamese Cat
+- cat Siamach
+- gat siamès
+- Gato siamexe
+- Gato siamés
+- Gato siamês
+- Gatu siamés
+- Katu siamdar
+- Kot syjamski
+- Kucing Siam
+- Mèo Xiêm
+- Pisică siameză
+- Pusang Thai
+- Siam mushugi
+- Siam pişiyi
+- Siama kato
+- Siamees
+- siames
+- Siamesar
+- Siamese
+- Siamese cat
+- Siamese kat
+- Siameser
+- Siamese_Cat
+- siamilainen
+- Siamkatze
+- Siamo katė
+- Siamois
+- Siamska mačka
+- Siamská kočka
+- Siamská mačka
+- Siamês
+- Siiami kass
+- Sijamska mačka
+- Siyam kedisi
+- Siām-lô niau
+- Siāmas kaķis
+- Sziámi macska
+- Síamsköttur
+- Γάτα του Σιάμ
+- Сіамська кішка
+- сіямская котка
+- Сијамска мачка
+- Сиам кушакĕ
+- Сиамска котка
+- Сиамская кошка
+- Սիամական կատու
+- חתול סיאמי
+- سیامی
+- سیامی بلی
+- قط سيامى
+- قط سيامي
+- گربه سیامی
+- সাইমিজ বিড়াল
+- แมวบินได้
+- แมวไทย
+- ယိုးဒယားကြောင်
+- სიამის კატა
+- ឆ្មាសៀម
+- シャム
+- 暹罗猫
+- 暹羅貓
+- 샴
 has_id_wikidata: Q42604
 country_of_origin:
-  - '[[_Standards/WikiData/WD~Siam,1081620]]'
-  - '[[_Standards/WikiData/WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Siam,1081620]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
 produced_sound: '[[_Standards/WikiData/WD~meow,3307942]]'
 eye_color: '[[_Standards/WikiData/WD~blue_eyed_cat,133816602]]'
 height:
-  - 10
-  - 8
+- 10
+- 8
 mass: 5
 price:
-  - 600
-  - 1200
+- 600
+- 1200
 life_expectancy: 15
 follows: '[[_Standards/WikiData/WD~Thai,42732]]'
 instance_of: '[[_Standards/WikiData/WD~cat_breed,43577]]'
 social_media_followers: 53706
 Commons_category: Siamese cats
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20eating%20peas.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kattenshow-507952.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20eating%20peas.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Kattenshow-507952.ogv
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Meow%20of%20a%20Siamese%20cat%20-%20freemaster2.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siamese%20cat%20Vaillante.JPG
 hashtag: siamese
 subreddit: Siamesecats
 Baidu_Tieba_name: 暹罗猫
 nickname: Meezer
+dv_has_:
+  name_:
+    af: Siamese kat
+    ar: قط سيامي
+    arz: قط سيامى
+    ast: Gatu siamés
+    az: Siam pişiyi
+    be-tarask: сіямская котка
+    bg: Сиамска котка
+    bn: সাইমিজ বিড়াল
+    ca: gat siamès
+    cs: Siamská kočka
+    cv: Сиам кушакĕ
+    da: Siameser
+    de: Siamkatze
+    de-ch: Siamkatze
+    el: Γάτα του Σιάμ
+    en: Siamese
+    en-ca: Siamese cat
+    en-gb: Siamese cat
+    eo: Siama kato
+    es: Gato siamés
+    et: Siiami kass
+    eu: Katu siamdar
+    fa: گربه سیامی
+    fi: siamilainen
+    fr: Siamois
+    ga: cat Siamach
+    gl: gato siamés
+    he: חתול סיאמי
+    hr: Sijamska mačka
+    hu: Sziámi macska
+    hy: Սիամական կատու
+    id: Kucing Siam
+    is: Síamsköttur
+    it: Siamese
+    ja: シャム
+    ka: სიამის კატა
+    km: ឆ្មាសៀម
+    ko: 샴
+    lt: Siamo katė
+    lv: Siāmas kaķis
+    mk: Сијамска мачка
+    my: ယိုးဒယားကြောင်
+    nan: Siām-lô niau
+    nb: Siameser
+    nl: Siamees
+    nn: Siamesar
+    nod: แมวบินได้
+    pl: Kot syjamski
+    pnb: سیامی
+    pt: Gato siamês
+    pt-br: Siamês
+    ro: Pisică siameză
+    ru: Сиамская кошка
+    sh: Sijamska mačka
+    sk: Siamská mačka
+    sl: Siamska mačka
+    sr: Сијамска мачка
+    sv: siames
+    th: แมวไทย
+    tl: Pusang Thai
+    tr: Siyam kedisi
+    uk: Сіамська кішка
+    ur: سیامی بلی
+    uz: Siam mushugi
+    vec: Gato siamexe
+    vi: Mèo Xiêm
+    wuu: 暹罗猫
+    yue: 暹羅貓
+    zh: 暹罗猫
+    zh-cn: 暹罗猫
+    zh-hans: 暹罗猫
 ---
-
 # [[Siamese_Cat]] 
 
 #is_/same_as :: [[WD~Siamese,42604]] 

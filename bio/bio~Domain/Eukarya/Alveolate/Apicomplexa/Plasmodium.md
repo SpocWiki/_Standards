@@ -1,25 +1,141 @@
 ---
 aliases:
+- Ký sinh trùng sốt rét
+- malarialoisiot
+- Malyariya paraziti
+- Plasmodi
+- Plasmodio
+- Plasmodium
+- Plasmoodium
+- plasmóidiam
+- Plasmôdiôma
+- Plazmodis
+- zarodziec
+- Πλασμώδιο
+- Плазмодій
+- плазмодии
+- Плазмодий
+- Плазмодийлер
+- плазмодиум
+- плазмодыі
+- متصورة
+- متصوره
+- پلاسمودیوم
+- प्लास्मोडियम
+- প্লাজমোডিয়াম
+- பிளாஸ்மோடியம்
+- พลาสโมเดียม
+- პლაზმოდიუმი
+- プラスモジウム属
+- 疟原虫
+- 疟原虫属
+- 瘧原蟲
+- 瘧原蟲屬
+- 말라리아원충
 has_id_wikidata: Q130948
-taxonomic_type: "[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]"
-parent_taxon: "[[_Standards/WikiData/WD~Plasmodiidae,1929486]]"
-has_natural_reservoir: "[[_Standards/WikiData/WD~Anopheles_cruzii,13853984]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Haemamoeba,109547871]]"
-has_effect: "[[_Standards/WikiData/WD~malaria,12156]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxonomic_type: '[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]'
+parent_taxon: '[[_Standards/WikiData/WD~Plasmodiidae,1929486]]'
+has_natural_reservoir: '[[_Standards/WikiData/WD~Anopheles_cruzii,13853984]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Haemamoeba,109547871]]'
+has_effect: '[[_Standards/WikiData/WD~malaria,12156]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 Commons_category: Plasmodium
 taxon_name: Plasmodium
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Malaria.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/P%20vivax%20trophozoite4.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Plasmodium%20knowlesi%20smears%20IDC.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Malaria.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/P%20vivax%20trophozoite4.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Plasmodium%20knowlesi%20smears%20IDC.png
 EPPO_Code: 1PLMDG
 MeSH_tree_code: B01.043.075.380.611
 UMLS_CUI: C0032148
 taxon_common_name: マラリア原虫
+dv_has_:
+  name_:
+    af: Plasmodium
+    an: Plasmodium
+    ar: متصورة
+    arz: متصوره
+    ast: Plasmodium
+    az: Malyariya paraziti
+    be: плазмодыі
+    bg: плазмодии
+    bn: প্লাজমোডিয়াম
+    ca: Plasmodi
+    ceb: Plasmodium
+    cs: Plasmodium
+    da: Plasmodium
+    de: Plasmodium
+    el: Πλασμώδιο
+    en-ca: Plasmodium
+    en-gb: Plasmodium
+    eo: Plasmodio
+    es: Plasmodium
+    es-419: Plasmodium
+    et: Plasmoodium
+    eu: Plasmodium
+    ext: Plasmodium
+    fa: پلاسمودیوم
+    fi: malarialoisiot
+    fo: Plasmodium
+    fr: Plasmodium
+    frr: Plasmodium
+    ga: plasmóidiam
+    gl: Plasmodium
+    he: Plasmodium
+    hi: प्लास्मोडियम
+    hr: Plasmodium
+    hu: Plasmodium
+    ia: Plasmodium
+    id: Plasmodium
+    ie: Plasmodium
+    io: Plasmodium
+    is: Plasmodium
+    it: Plasmodium
+    ja: プラスモジウム属
+    jv: Plasmodium
+    ka: პლაზმოდიუმი
+    kk: Плазмодий
+    kl: Plasmodium
+    ko: 말라리아원충
+    ky: Плазмодийлер
+    la: Plasmodium
+    lt: Plazmodis
+    mg: Plasmôdiôma
+    mk: плазмодиум
+    ms: Plasmodium
+    mul: Plasmodium
+    nb: Plasmodium
+    nl: Plasmodium
+    nn: Plasmodium
+    oc: Plasmodium
+    pl: zarodziec
+    pt: Plasmodium
+    pt-br: Plasmodium
+    ro: Plasmodium
+    ru: Плазмодии
+    sco: Plasmodium
+    sl: Plasmodium
+    sq: Plasmodium
+    sr: Plasmodium
+    sr-ec: Plasmodium
+    sr-el: Plasmodium
+    sv: Plasmodium
+    ta: பிளாஸ்மோடியம்
+    th: พลาสโมเดียม
+    uk: Плазмодій
+    vi: Ký sinh trùng sốt rét
+    vo: Plasmodium
+    war: Plasmodium
+    yue: 瘧原蟲
+    zh: 瘧原蟲屬
+    zh-cn: 疟原虫属
+    zh-hans: 疟原虫属
+    zh-hant: 瘧原蟲
+    zh-hk: 瘧原蟲
+    zh-sg: 疟原虫
+    zh-tw: 瘧原蟲屬
 ---
-
 # [[Plasmodium]] 
 
 #is_/same_as :: [[WD~Plasmodium,130948]]

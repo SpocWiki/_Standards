@@ -1,36 +1,70 @@
 ---
 aliases:
-  - Gloria_Swanson
-  - Gloria Mae Josephine Swanson
-  - Gloria Swanson
-  - Swanson
+- Gloria Mae Josephine Swanson
+- Gloria Swanson
+- Gloria Swansonová
+- Gloria_Swanson
+- Glorija Svanson
+- Glorija Svansone
+- Swanson
+- Γκλόρια Σουάνσον
+- Глорија Свансон
+- Глориа Свансон
+- Глория Свенсон
+- Глория Суонсън
+- Глорыя Сўонсан
+- Глорыя Свенсан
+- Ґлорія Свонсон
+- Գլորիա Սվանսոն
+- גלוריה סוונסון
+- جلوريا سوانسون
+- غلوريا سوانسون
+- قلوریا سوانسون
+- گلوریا سوانسن
+- گلوریا سوانسون
+- گلۆریا سوانسن
+- ग्लोरिया स्वान्सन
+- গ্লোরিয়া সোয়ানসন
+- ਗਲੋਰੀਆ ਮੇ ਜੋਸੇਫਾਈਨ ਸਵੈਨਸਨ
+- நடிகர்,
+- గ్లోరియా స్వాన్సన్
+- ഗ്ലോറിയ സ്വാൻസൺ
+- გლორია სვენსონი
+- グロリア・スワンソン
+- 哥罗利亚·史璜生
+- 格洛丽亚·斯旺森
+- 格洛麗亞·斯旺森
+- 歌利亞·史允臣
+- 歌利亞史允臣
+- 葛洛莉亞·史璜生
+- 글로리아 스완슨
 has_id_wikidata: Q229232
 religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Wallace_Beery,322179]]'
-  - '[[_Standards/WikiData/WD~Henry_de_La_Falaise,3133197]]'
-  - '[[_Standards/WikiData/WD~William_Dufty,3568574]]'
-  - '[[_Standards/WikiData/WD~Herbert_K._Somborn,43948126]]'
-  - '[[_Standards/WikiData/WD~William_N._Davey,75713602]]'
-  - '[[_Standards/WikiData/WD~Michael_Farmer,75713608]]'
+- '[[_Standards/WikiData/WD~Wallace_Beery,322179]]'
+- '[[_Standards/WikiData/WD~Henry_de_La_Falaise,3133197]]'
+- '[[_Standards/WikiData/WD~William_Dufty,3568574]]'
+- '[[_Standards/WikiData/WD~Herbert_K._Somborn,43948126]]'
+- '[[_Standards/WikiData/WD~William_N._Davey,75713602]]'
+- '[[_Standards/WikiData/WD~Michael_Farmer,75713608]]'
 cause_of_death: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
-  - '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+- '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 given_name: '[[_Standards/WikiData/WD~Gloria,734575]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Lelord_Kordel,3830099]]'
-  - '[[_Standards/WikiData/WD~Henry_G._Bieler,5721690]]'
+- '[[_Standards/WikiData/WD~Lelord_Kordel,3830099]]'
+- '[[_Standards/WikiData/WD~Henry_G._Bieler,5721690]]'
 archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
 educated_at: '[[_Standards/WikiData/WD~Lake_View_High_School,6478293]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
@@ -39,8 +73,8 @@ family_name: '[[_Standards/WikiData/WD~Swanson,12192639]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child:
-  - '[[_Standards/WikiData/WD~Gloria_Somborn,75713562]]'
-  - '[[_Standards/WikiData/WD~Michelle_Bridget_Farmer,75713616]]'
+- '[[_Standards/WikiData/WD~Gloria_Somborn,75713562]]'
+- '[[_Standards/WikiData/WD~Michelle_Bridget_Farmer,75713616]]'
 father: '[[_Standards/WikiData/WD~Joseph_T._Swanson,75713592]]'
 mother: '[[_Standards/WikiData/WD~Adelaide_Klanowski,75713600]]'
 date_of_birth: 1899-03-27T00:00:00Z
@@ -67,8 +101,110 @@ ISNI: 0000000121326630
 Libris_URI: tr58ds7c4w56f4q
 birth_name: Gloria May Josephine Swanson
 work_period_start_: 1914-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Gloria Swanson
+    ar: غلوريا سوانسون
+    arz: جلوريا سوانسون
+    ast: Gloria Swanson
+    azb: قلوریا سوانسون
+    ba: Глория Свенсон
+    be: Глорыя Свенсан
+    be-tarask: Глорыя Сўонсан
+    bg: Глория Суонсън
+    bi: Gloria Swanson
+    bn: গ্লোরিয়া সোয়ানসন
+    ca: Gloria Swanson
+    ckb: گلۆریا سوانسن
+    cs: Gloria Swansonová
+    cy: Gloria Swanson
+    da: Gloria Swanson
+    de: Gloria Swanson
+    de-ch: Gloria Swanson
+    el: Γκλόρια Σουάνσον
+    en: Gloria Swanson
+    en-ca: Gloria Swanson
+    en-gb: Gloria Swanson
+    eo: Gloria Swanson
+    es: Gloria Swanson
+    eu: Gloria Swanson
+    fa: گلوریا سوانسون
+    fi: Gloria Swanson
+    fr: Gloria Swanson
+    fy: Gloria Swanson
+    ga: Gloria Swanson
+    gl: Gloria Swanson
+    gpe: Gloria Swanson
+    ha: Gloria Swanson
+    he: גלוריה סוונסון
+    hif: Gloria Swanson
+    hr: Gloria Swanson
+    hu: Gloria Swanson
+    hy: Գլորիա Սվանսոն
+    id: Gloria Swanson
+    ig: Gloria Swanson
+    ilo: Gloria Swanson
+    io: Gloria Swanson
+    it: Gloria Swanson
+    ja: グロリア・スワンソン
+    ka: გლორია სვენსონი
+    kk: Глория Свенсон
+    ko: 글로리아 스완슨
+    la: Gloria Swanson
+    lb: Gloria Swanson
+    lv: Glorija Svansone
+    mg: Gloria Swanson
+    ml: ഗ്ലോറിയ സ്വാൻസൺ
+    mn: Глориа Свансон
+    mr: ग्लोरिया स्वान्सन
+    ms: Gloria Swanson
+    mul: Gloria Swanson
+    nan: Gloria Swanson
+    nb: Gloria Swanson
+    nl: Gloria Swanson
+    nn: Gloria Swanson
+    oc: Gloria Swanson
+    pa: ਗਲੋਰੀਆ ਮੇ ਜੋਸੇਫਾਈਨ ਸਵੈਨਸਨ
+    pam: Gloria Swanson
+    pap: Gloria Swanson
+    pl: Gloria Swanson
+    pt: Gloria Swanson
+    pt-br: Gloria Swanson
+    qu: Gloria Swanson
+    ro: Gloria Swanson
+    ru: Глория Свенсон
+    sco: Gloria Swanson
+    sh: Gloria Swanson
+    sk: Gloria Swansonová
+    skr: گلوریا سوانسن
+    sl: Gloria Swanson
+    sq: Gloria Swanson
+    sr: Глорија Свансон
+    sr-ec: Глорија Свансон
+    sr-el: Glorija Svanson
+    sv: Gloria Swanson
+    sw: Gloria Swanson
+    ta: நடிகர்,
+    te: గ్లోరియా స్వాన్సన్
+    tl: Gloria Swanson
+    tr: Gloria Swanson
+    tt: Глория Свенсон
+    uk: Ґлорія Свонсон
+    ur: گلوریا سوانسن
+    vi: Gloria Swanson
+    war: Gloria Swanson
+    wuu: 格洛丽亚·斯旺森
+    yo: Gloria Swanson
+    yue: 歌利亞史允臣
+    zh: 格洛麗亞·斯旺森
+    zh-cn: 格洛丽亚·斯旺森
+    zh-hans: 格洛丽亚·斯旺森
+    zh-hant: 葛洛莉亞·史璜生
+    zh-hk: 歌利亞·史允臣
+    zh-my: 哥罗利亚·史璜生
+    zh-sg: 哥罗利亚·史璜生
+    zh-tw: 葛洛莉亞·史璜生
 ---
-
 # [[Gloria_Swanson]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gloria_Swanson,229232|WD~Gloria_Swanson,229232]] 

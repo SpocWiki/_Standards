@@ -1,83 +1,116 @@
 ---
 aliases:
-  - Eric_Clapton
-  - Eric Patrick Clapton
-  - Eric Clapton
-  - Clapton
-  - Clapton,Eric
+- Clapton
+- Clapton,Eric
+- Eric Clapton
+- Eric Patrick Clapton
+- Ericus Clapton
+- Eric_Clapton
+- Erik Klapton
+- Erik Klepton
+- Ēriks Kleptons
+- Έρικ Κλάπτον
+- Ерік Клептон
+- Ерик Клептон
+- Ерик Клептън
+- Эрик Клэптон
+- Эрык Клэптан
+- Էրիկ Կլեպտոն
+- אריק קלפטון
+- إريك كلابتون
+- ئێریک کلاپتۆن
+- اريك كلابتون
+- اریک کلپتون
+- ایرک کلیپٹن
+- एरिक क्लॅप्टन
+- एरिक क्लैप्टन
+- एरिक क्ल्यप्तोन
+- এরিক ক্ল্যাপটন
+- ੲੇਰਿਕ ਕਲੈਪਟਨ
+- எரிக் கிளாப்டன்
+- എറിക് ക്ലാപ്ടൺ
+- เอริก แคลปตัน
+- အဲရစ် ကလဲ့ပ်တန်
+- ერიკ კლეპტონი
+- エリック・クラプトン
+- 埃里克·克莱普顿
+- 艾力·克萊普頓
+- 艾力·卡立頓
+- 艾力卡納頓
+- 에릭 클랩튼
 has_id_wikidata: Q48187
 genre:
-  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
-  - '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Lory_Del_Santo,119593]]'
-  - '[[_Standards/WikiData/WD~Yvonne_Kelly,39604104]]'
+- '[[_Standards/WikiData/WD~Lory_Del_Santo,119593]]'
+- '[[_Standards/WikiData/WD~Yvonne_Kelly,39604104]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Polydor,155152]]'
-  - '[[_Standards/WikiData/WD~Atco_Records,585643]]'
-  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Polydor,155152]]'
+- '[[_Standards/WikiData/WD~Atco_Records,585643]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
 member_of:
-  - '[[_Standards/WikiData/WD~The_Yardbirds,192725]]'
-  - '[[_Standards/WikiData/WD~Cream,203736]]'
-  - '[[_Standards/WikiData/WD~Blind_Faith,548656]]'
-  - '[[_Standards/WikiData/WD~Derek_and_the_Dominos,724406]]'
-  - '[[_Standards/WikiData/WD~John_Mayall_&_the_Bluesbreakers,886072]]'
-  - '[[_Standards/WikiData/WD~The_Dirty_Mac,913897]]'
-  - '[[_Standards/WikiData/WD~All_Stars,4728323]]'
+- '[[_Standards/WikiData/WD~The_Yardbirds,192725]]'
+- '[[_Standards/WikiData/WD~Cream,203736]]'
+- '[[_Standards/WikiData/WD~Blind_Faith,548656]]'
+- '[[_Standards/WikiData/WD~Derek_and_the_Dominos,724406]]'
+- '[[_Standards/WikiData/WD~John_Mayall_&_the_Bluesbreakers,886072]]'
+- '[[_Standards/WikiData/WD~The_Dirty_Mac,913897]]'
+- '[[_Standards/WikiData/WD~All_Stars,4728323]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Pattie_Boyd,234074]]'
-  - '[[_Standards/WikiData/WD~Melia_McEnery,26821182]]'
+- '[[_Standards/WikiData/WD~Pattie_Boyd,234074]]'
+- '[[_Standards/WikiData/WD~Melia_McEnery,26821182]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Blackie,253240]]'
-  - '[[_Standards/WikiData/WD~Brownie,720614]]'
-  - '[[_Standards/WikiData/WD~The_Fool,7734699]]'
-  - '[[_Standards/WikiData/WD~Lucy,8084979]]'
+- '[[_Standards/WikiData/WD~Blackie,253240]]'
+- '[[_Standards/WikiData/WD~Brownie,720614]]'
+- '[[_Standards/WikiData/WD~The_Fool,7734699]]'
+- '[[_Standards/WikiData/WD~Lucy,8084979]]'
 discography: '[[_Standards/WikiData/WD~Eric_Clapton_discography,377959]]'
 medical_condition: '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ripley,2337139]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Kingston_University,2503809]]'
-  - '[[_Standards/WikiData/WD~The_Hollyfield_School_and_Sixth_Form_Centre,12858487]]'
+- '[[_Standards/WikiData/WD~Kingston_University,2503809]]'
+- '[[_Standards/WikiData/WD~The_Hollyfield_School_and_Sixth_Form_Centre,12858487]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Eric_Clapton,10524429]]'
 child: '[[_Standards/WikiData/WD~Conor_Clapton,11855489]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Eric,12788459]]'
-  - '[[_Standards/WikiData/WD~Patrick,18002623]]'
+- '[[_Standards/WikiData/WD~Eric,12788459]]'
+- '[[_Standards/WikiData/WD~Patrick,18002623]]'
 family_name: '[[_Standards/WikiData/WD~Clapton,16865613]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 honorific_suffix: '[[_Standards/WikiData/WD~CBE,134953873]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers:
-  - 1600000
-  - 158557
+- 1600000
+- 158557
 Europeana_entity: agent/base/59968
 Wolfram_Language_entity_code: Entity["MusicAct", "EricClapton::22s93"]
 Facebook_username: ericclapton
@@ -96,16 +129,123 @@ date_of_birth: 1945-03-30T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Clapton%20-%20Royal%20Albert%20Hall%20-%20Wednesday%2024th%20May%202017%20EricClaptonRAH240517-30%20%2834987232355%29%20%28cropped%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Clapton%20sig.svg
 official_website:
-  - http://www.ericclapton.com/
-  - https://ericclapton.com
+- http://www.ericclapton.com/
+- https://ericclapton.com
 ISNI:
-  - 0000000108964267
-  - 0000000368552322
+- 0000000108964267
+- 0000000368552322
 IPI_name_number: 00041122734
 NLC_authorities: 001391579
 Plex_person_key: 5d7768377e9a3c0020c6d3a5
+dv_has_:
+  name_:
+    af: Eric Clapton
+    an: Eric Clapton
+    ar: إريك كلابتون
+    arz: اريك كلابتون
+    ast: Eric Clapton
+    az: Erik Klapton
+    azb: اریک کلپتون
+    be: Эрык Клэптан
+    be-tarask: Эрык Клэптан
+    bg: Ерик Клептън
+    bho: एरिक क्ल्यप्तोन
+    bn: এরিক ক্ল্যাপটন
+    br: Eric Clapton
+    bs: Eric Clapton
+    ca: Eric Clapton
+    ckb: ئێریک کلاپتۆن
+    co: Eric Clapton
+    cs: Eric Clapton
+    cy: Eric Clapton
+    da: Eric Clapton
+    dag: Eric Clapton
+    de: Eric Clapton
+    de-ch: Eric Clapton
+    din: Eric Clapton
+    ee: Eric Clapton
+    el: Έρικ Κλάπτον
+    en: Eric Clapton
+    en-ca: Eric Clapton
+    en-gb: Eric Clapton
+    en-us: Eric Clapton
+    eo: Eric Clapton
+    es: Eric Clapton
+    et: Eric Clapton
+    eu: Eric Clapton
+    fa: اریک کلپتون
+    fi: Eric Clapton
+    fr: Eric Clapton
+    fy: Eric Clapton
+    ga: Eric Clapton
+    gl: Eric Clapton
+    he: אריק קלפטון
+    hi: एरिक क्लैप्टन
+    hr: Eric Clapton
+    hu: Eric Clapton
+    hy: Էրիկ Կլեպտոն
+    id: Eric Clapton
+    io: Eric Clapton
+    is: Eric Clapton
+    it: Eric Clapton
+    ja: エリック・クラプトン
+    jv: Eric Clapton
+    ka: ერიკ კლეპტონი
+    ko: 에릭 클랩튼
+    ky: Эрик Клэптон
+    la: Ericus Clapton
+    lb: Eric Clapton
+    lt: Eric Clapton
+    lv: Ēriks Kleptons
+    mai: एरिक क्ल्यप्तोन
+    mg: Eric Clapton
+    mk: Ерик Клептон
+    ml: എറിക് ക്ലാപ്ടൺ
+    mn: Эрик Клэптон
+    mr: एरिक क्लॅप्टन
+    ms: Eric Clapton
+    mul: Eric Clapton
+    my: အဲရစ် ကလဲ့ပ်တန်
+    nb: Eric Clapton
+    nds: Eric Clapton
+    ne: एरिक क्ल्यप्तोन
+    nl: Eric Clapton
+    nn: Eric Clapton
+    oc: Eric Clapton
+    pa: ੲੇਰਿਕ ਕਲੈਪਟਨ
+    pap: Eric Clapton
+    pl: Eric Clapton
+    pt: Eric Clapton
+    pt-br: Eric Clapton
+    qu: Eric Clapton
+    ro: Eric Clapton
+    ru: Эрик Клэптон
+    sco: Eric Clapton
+    se: Eric Clapton
+    sh: Eric Clapton
+    sk: Eric Clapton
+    sl: Eric Clapton
+    sq: Eric Clapton
+    sr: Erik Klepton
+    sv: Eric Clapton
+    ta: எரிக் கிளாப்டன்
+    th: เอริก แคลปตัน
+    tl: Eric Clapton
+    tr: Eric Clapton
+    ty: Eric Clapton
+    uk: Ерік Клептон
+    ur: ایرک کلیپٹن
+    uz: Eric Clapton
+    vec: Eric Clapton
+    vi: Eric Clapton
+    war: Eric Clapton
+    wuu: 埃里克·克莱普顿
+    yue: 艾力卡納頓
+    zh: 埃里克·克莱普顿
+    zh-hant: 艾力·克萊普頓
+    zh-hk: 艾力·卡立頓
+    zh-tw: 艾力·克萊普頓
 ---
-
 # [[Clapton,Eric]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Eric_Clapton,48187|WD~Eric_Clapton,48187]] 

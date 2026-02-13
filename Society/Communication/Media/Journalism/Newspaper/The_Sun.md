@@ -1,8 +1,603 @@
 ---
 aliases:
-  - The Sun
-  - The_Sun
+- Adlaw
+- Agew
+- Akɔ̈l
+- Aldo
+- an Ghrian
+- Araw
+- Are
+- Atdao
+- Aurinko
+- Awalt
+- Beaivváš
+- Biiftuu
+- Cidal
+- cilal
+- Daengngoenz
+- Diell
+- Dzuwa
+- Eguzkia
+- Ekwan
+- Enjuba
+- Ewia
+- Grian
+- Gün
+- Güneş
+- Günəş
+- Haul
+- Heol
+- Hido
+- Howl
+- Hwe
+- Həši
+- Ilanga
+- Init
+- Inti
+- Izuba
+- Iṭij
+- Jant
+- Ji̍t-thâu
+- Jua
+- Jóhonaaʼéí
+- Ka'i
+- Kham
+- Kuarahy
+- Küneş
+- Kǝngal
+- La
+- la solri
+- Luo
+- Lâ
+- Lā
+- Mam
+- Masoandro
+- Mata panas
+- Mata uroe
+- Mataari
+- Mataharani
+- Matahari
+- Mataniari
+- Matanisiga
+- Matoari
+- Munya
+- Mói
+- Mặt Trời
+- Naange
+- Nap
+- Ngit-tèu
+- Ntangu
+- Nĭk-tàu
+- Owhè
+- Panonpoé
+- peiʹvv
+- Pisimw
+- Piäiváš
+- Päike
+- Päiv
+- Päiväine
+- qadaw
+- Qorax
+- Quyash
+- Quyosh
+- rana
+- Riũa
+- Roc
+- Roj
+- Saldang
+- San
+- Saule
+- Saulė
+- Sinne
+- Siqiñiq
+- Slnko
+- Slunce
+- Soare
+- Soari
+- Sol
+- sola
+- Sole
+- Solea
+- Soleil
+- Solel
+- Solelh
+- Solely
+- solen
+- Soli
+- Solo
+- Solèy
+- Solé
+- Son
+- Sonce
+- Sonn
+- Sonne
+- Soreli
+- Sołe
+- Srengenge
+- Srengéngé
+- Sulegl
+- Suli
+- Sun
+- Sunce
+- Sune
+- Sunn
+- Sunne
+- Suno
+- Suraj
+- Surya
+- Surëdl
+- Såul
+- Sólin
+- Sô
+- Sünn
+- Słońce
+- Słuńce
+- Słyńco
+- słónco
+- Słōńce
+- Tadau
+- Tafukt
+- Te Rā
+- The Sun
+- The_Sun
+- Tile
+- Tōnatiuh
+- UKat
+- Ura
+- wagi
+- Willka
+- Wuntaŋa
+- Wɩsɩ
+- Xemx
+- y Ghrian
+- zon
+- zunne
+- Zuva
+- Zuwa
+- Éše'he
+- Òrùn
+- Ŋmenaa
+- Ɣe
+- Ήλιος
+- Ήλος
+- Амра
+- Бакъ
+- Баргъ
+- Кече
+- Кечӹ (астрономи)
+- Кояш
+- Кюн
+- Күн
+- Малх
+- Нар
+- Наран
+- Нарн
+- Офтоб
+- Пе̄ййв
+- Рагъ
+- Слунко
+- Слънце
+- Слъньцє
+- Солнце
+- Сонца
+- Сонце
+- Сунце
+- Тыгъэ
+- Хĕвел
+- Хур
+- Хүн
+- Чи
+- Шись
+- Шонді
+- Шунды
+- Ҡояш
+- Արեգակ
+- השמש
+- זון
+- الشمس
+- اَکھتاب
+- خورشید
+- خۆر
+- خۊر
+- سج
+- سورج
+- شمس
+- شمش
+- قۇياش
+- لمر
+- ماتاهاري
+- گونش
+- ܫܡܫܐ
+- އިރު
+- ߕߋ߬ߟߋ
+- सूरज
+- सूरुज
+- सूर्द्य
+- सूर्य
+- सूर्यः
+- সূর্য
+- সূৰ্য
+- ਸੂਰਜ
+- સૂર્ય
+- ସୂର୍ଯ୍ୟ
+- ஞாயிறு (சூரியன்)
+- సూర్యుడు
+- ಸೂರ್ಯ
+- സൂര്യൻ
+- සූර්යයා
+- ดวงอาทิตย์
+- ຕາເວັນ
+- ཉི་མ
+- ཉི་མ།
+- တ္ၚဲ
+- နေ
+- မွူး
+- ဝၼ်း
+- ბჟა
+- მზე
+- ጸሓይ
+- ፀሐይ
+- ᏅᏓ
+- ᒌᔑᑳᐅᐲᓯᒻ
+- ᓯᕿᓂᖅ
+- ព្រះអាទិត្យ
+- ᡧᡠᠨ
+- ᥘᥦᥖᥱ
+- ᨆᨈᨕᨛᨔᨚ
+- ᱥᱤᱧ ᱪᱟᱸᱫᱚ
+- Ἥλιος
+- ⵜⴰⴼⵓⴽⵜ
+- 太阳
+- 太陽
+- 日
+- ꠡꠥꠞꠥꠎ
+- ꯅꯨꯃꯤꯠ
+- 태양
+- "\U00010343\U00010330\U0001033F\U00010339\U0001033B"
 has_id_wikidata: Q525
+dv_has_:
+  name_:
+    ab: Амра
+    ace: Mata uroe
+    acm: شمس
+    ady: Тыгъэ
+    aeb-arab: الشمس
+    af: Son
+    am: ፀሐይ
+    ami: Cidal
+    an: Sol
+    ang: Sunne
+    ann: Ura
+    anp: सूर्य
+    ar: الشمس
+    arc: ܫܡܫܐ
+    ary: شمش
+    arz: شمس
+    as: সূৰ্য
+    ast: Sol
+    atj: Pisimw
+    av: Бакъ
+    avk: Awalt
+    awa: सूर्य
+    ay: Willka
+    az: Günəş
+    azb: گونش
+    ba: Ҡояш
+    ban: Surya
+    bar: Sun
+    bcl: Saldang
+    be: Сонца
+    be-tarask: Сонца
+    bew: Mataari
+    bg: Слънце
+    bho: सूर्य
+    bi: San
+    bjn: Matahari
+    blk: မွူး
+    bm: Tile
+    bn: সূর্য
+    bo: ཉི་མ།
+    br: Heol
+    bs: Sunce
+    btm: Mataniari
+    bug: ᨆᨈᨕᨛᨔᨚ
+    bxr: Наран
+    ca: Sol
+    cbk-zam: Sol
+    cdo: Nĭk-tàu
+    ce: Малх
+    ceb: Adlaw
+    ch: Atdao
+    chr: ᏅᏓ
+    chy: Éše'he
+    ckb: خۆر
+    co: Soli
+    cr: ᒌᔑᑳᐅᐲᓯᒻ
+    crh: Küneş
+    crh-latn: Küneş
+    cs: Slunce
+    csb: Słuńce
+    cu: Слъньцє
+    cv: Хĕвел
+    cy: Haul
+    da: Solen
+    dag: Wuntaŋa
+    de: Sonne
+    de-ch: Sonne
+    dga: Ŋmenaa
+    din: Akɔ̈l
+    diq: Roc
+    dsb: Słyńco
+    dtp: Tadau
+    dty: सूर्य
+    dv: އިރު
+    dz: ཉི་མ
+    ee: Ɣe
+    el: Ήλιος
+    eml: Såul
+    en: Sun
+    en-ca: Sun
+    en-gb: Sun
+    en-us: Sun
+    eo: Suno
+    es: Sol
+    et: Päike
+    eu: Eguzkia
+    ext: Sol
+    fa: خورشید
+    fat: Ewia
+    ff: Naange
+    fi: Aurinko
+    fj: Matanisiga
+    fo: Sólin
+    fon: Hwe
+    fr: Soleil
+    frp: Solely
+    frr: San
+    fur: Soreli
+    fy: Sinne
+    ga: an Ghrian
+    gan: 太陽
+    gcr: Solèy
+    gd: Grian
+    gl: Sol
+    glk: خۊر
+    gn: Kuarahy
+    gom: सूर्य
+    got: "\U00010343\U00010330\U0001033F\U00010339\U0001033B"
+    gpe: Sun
+    grc: Ἥλιος
+    gsw: Sunne
+    gu: સૂર્ય
+    guc: Ka'i
+    guw: Owhè
+    gv: y Ghrian
+    ha: rana
+    hak: Ngit-tèu
+    haw: Lā
+    he: השמש
+    hi: सूरज
+    hif: Suraj
+    hr: Sunce
+    hsb: słónco
+    ht: Solèy
+    hu: Nap
+    hy: Արեգակ
+    ia: Sol
+    iba: Mata panas
+    id: matahari
+    ie: Sole
+    ik: Siqiñiq
+    ilo: Init
+    inh: Малх
+    io: Suno
+    is: Sólin
+    it: Sole
+    iu: ᓯᕿᓂᖅ
+    ja: 太陽
+    jam: Son
+    jbo: la solri
+    jv: Srengéngé
+    ka: მზე
+    kaa: Quyash
+    kab: Iṭij
+    kbp: Wɩsɩ
+    kcg: Mam
+    kg: Ntangu
+    kge: Mataharani
+    ki: Riũa
+    kk: Күн
+    km: ព្រះអាទិត្យ
+    kn: ಸೂರ್ಯ
+    knc: Kǝngal
+    ko: 태양
+    koi: Шонді
+    krc: Кюн
+    ks: اَکھتاب
+    ksh: Sunn
+    ku: Roj
+    kv: Шонді
+    kw: Howl
+    ky: Күн
+    la: Sol
+    lad: Sol
+    lb: Sonn
+    lbe: Баргъ
+    lez: Рагъ
+    lfn: Sol
+    lg: Enjuba
+    li: Zon
+    lij: Sô
+    lld: Surëdl
+    lmo: Sol
+    ln: Mói
+    lo: ຕາເວັນ
+    lt: Saulė
+    ltg: Saule
+    lua: Munya
+    lv: Saule
+    lzh: 日
+    mad: Are
+    mag: सूरुज
+    mai: सूर्य
+    map-bms: Srengenge
+    mdf: Шись
+    mg: Masoandro
+    mhr: Кече
+    mi: Te Rā
+    min: Matoari
+    mk: Сонце
+    ml: സൂര്യൻ
+    mn: Нар
+    mnc: ᡧᡠᠨ
+    mni: ꯅꯨꯃꯤꯠ
+    mnw: တ္ၚဲ
+    mr: सूर्य
+    mrj: Кечӹ (астрономи)
+    ms: Matahari
+    ms-arab: ماتاهاري
+    mt: Xemx
+    mwl: Sol
+    my: နေ
+    myv: Чи
+    mzn: خورشید
+    na: Ekwan
+    nah: Tōnatiuh
+    nan: Ji̍t-thâu
+    nap: Sole
+    nb: solen
+    nds: Sünn
+    nds-nl: zunne
+    ne: सूर्य
+    new: सूर्द्य
+    nia: Luo
+    nl: zon
+    nn: sola
+    nov: Sune
+    nqo: ߕߋ߬ߟߋ
+    nrm: Solé
+    nv: Jóhonaaʼéí
+    ny: Dzuwa
+    oc: Solelh
+    olo: Päiväine
+    om: Biiftuu
+    or: ସୂର୍ଯ୍ୟ
+    os: Хур
+    pa: ਸੂਰਜ
+    pag: Agew
+    pam: Aldo
+    pap: Solo
+    pcd: Solel
+    pcm: Sun
+    pdc: Sunn
+    pfl: Sunn
+    pih: San
+    pl: Słońce
+    pms: Sol
+    pnb: سورج
+    pnt: Ήλος
+    ps: لمر
+    pt: Sol
+    pt-br: Sol
+    pwn: qadaw
+    qu: Inti
+    rm: Sulegl
+    rmy: Kham
+    ro: Soare
+    rsk: Слунко
+    ru: Солнце
+    rue: Сонце
+    rup: Soari
+    rw: Izuba
+    sa: सूर्यः
+    sah: Күн
+    sat: ᱥᱤᱧ ᱪᱟᱸᱫᱚ
+    sc: Sole
+    scn: Suli
+    sco: Sun
+    sd: سج
+    se: Beaivváš
+    sg: Lâ
+    sgs: Saulė
+    sh: Sunce
+    shi: Tafukt
+    shn: ဝၼ်း
+    si: සූර්යයා
+    sjd: Пе̄ййв
+    sk: Slnko
+    skr: سورج
+    sl: Sonce
+    sm: La
+    smn: Piäiváš
+    sms: peiʹvv
+    sn: Zuva
+    so: Qorax
+    sq: Diell
+    sr: Сунце
+    sr-ec: Сунце
+    sr-el: Sunce
+    srn: Son
+    stq: Sunne
+    su: Panonpoé
+    sv: solen
+    sw: Jua
+    syl: ꠡꠥꠞꠥꠎ
+    szl: Słōńce
+    szy: cilal
+    ta: ஞாயிறு (சூரியன்)
+    tay: wagi
+    tcy: ಸೂರ್ಯ
+    tdd: ᥘᥦᥖᥱ
+    te: సూర్యుడు
+    tg: Офтоб
+    th: ดวงอาทิตย์
+    ti: ጸሓይ
+    tk: Gün
+    tl: Araw
+    tly: Həši
+    tok: suno
+    tpi: San
+    tr: Güneş
+    trv: Hido
+    tt: Кояш
+    tt-cyrl: Кояш
+    tum: Zuwa
+    tw: Ewia
+    tyv: Хүн
+    udm: Шунды
+    ug: قۇياش
+    uk: Сонце
+    ur: سورج
+    uz: Quyosh
+    vec: Sołe
+    vep: Päiväine
+    vi: Mặt Trời
+    vls: zunne
+    vo: Sol
+    vro: Päiv
+    wa: Solea
+    war: Adlaw
+    wo: Jant
+    wuu: 太陽
+    xal: Нарн
+    xh: UKat
+    xmf: ბჟა
+    yi: זון
+    yo: Òrùn
+    yue: 太陽
+    za: Daengngoenz
+    zea: Zunne
+    zgh: ⵜⴰⴼⵓⴽⵜ
+    zh: 太阳
+    zh-cn: 太阳
+    zh-hans: 太阳
+    zh-hant: 太阳
+    zh-hk: 太陽
+    zh-mo: 太陽
+    zh-my: 太阳
+    zh-sg: 太阳
+    zh-tw: 太陽
+    zu: Ilanga
 ---
 ## #has_/text_of_/abstract 
 

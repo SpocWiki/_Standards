@@ -1,8 +1,89 @@
 ---
 aliases:
-  - Amphiumidae
+- Aalmolche
+- Amfiumy
+- Amfiúmid
+- Amphiuma
+- Amphiumidae
+- Tsxilgháánézí
+- Ålepadder
+- Ålsalamandrar
+- úhořík
+- αμφιούμη
+- Амфіума
+- Амфіумы
+- Амфіюмы
+- Амфиумдар
+- амфиуми
+- Амфиумовые
+- אמפימויים
+- امفيوما
+- سمندرهای ماری
+- แอมฟิอูมา
+- ამფიუმისებრნი
+- アンフューマ科
+- 两栖鲵属
+- 两棲鯢屬
+- 암피우마도롱뇽속
 title: Amphiumidae
 has_id_wikidata: Q300923
+dv_has_:
+  name_:
+    an: Amphiuma
+    arz: امفيوما
+    ast: Amphiuma
+    be: Амфіумы
+    be-tarask: Амфіюмы
+    bg: амфиуми
+    br: Amphiumidae
+    ca: Amfiúmid
+    ceb: Amphiumidae
+    cs: úhořík
+    da: Amphiuma
+    de: Aalmolche
+    el: αμφιούμη
+    en: Amphiuma
+    eo: Amphiuma
+    es: Amphiuma
+    eu: Amphiuma
+    ext: Amphiuma
+    fa: سمندرهای ماری
+    fi: Amphiuma
+    fr: Amphiuma
+    ga: Amphiuma
+    gl: Amphiuma
+    he: אמפימויים
+    hu: Amphiuma
+    ia: Amphiuma
+    ie: Amphiuma
+    io: Amphiuma
+    it: Amphiuma
+    ja: アンフューマ科
+    ka: ამფიუმისებრნი
+    kk: Амфиумдар
+    ko: 암피우마도롱뇽속
+    la: Amphiuma
+    mul: Amphiuma
+    nb: Ålepadder
+    nl: Amphiuma
+    nv: Tsxilgháánézí
+    oc: Amphiuma
+    pl: Amfiumy
+    pt: Amphiuma
+    pt-br: Amphiuma
+    ro: Amphiuma
+    ru: Амфиумовые
+    sq: Amphiuma
+    sv: Ålsalamandrar
+    th: แอมฟิอูมา
+    uk: Амфіума
+    vi: Amphiuma
+    vo: Amphiuma
+    war: Amphiuma
+    zh: 两栖鲵属
+    zh-cn: 两栖鲵属
+    zh-hans: 两栖鲵属
+    zh-tw: 两棲鯢屬
 ---
 # [[Amphiumidae]]
 

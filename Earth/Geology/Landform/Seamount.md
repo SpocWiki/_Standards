@@ -1,24 +1,129 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]"
-    - "[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]"
-    - "[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]"
+  - '[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]'
+  - '[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]'
+  - '[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]"
-  - "[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]"
-  - "[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]"
+- '[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]'
+- '[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]'
+- '[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]'
+- '[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]'
+- '[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]'
+- '[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]'
 has_id_wikidata: Q503269
+dv_has_:
+  name_:
+    af: Ondersese berg
+    ang: Sǣbeorg
+    ar: جبل بحري
+    ast: Monte submarín
+    be-tarask: падводная гара
+    bs: Podmorska planina
+    ca: mont submarí
+    ckb: چیای دەریایی
+    cs: podmořská hora
+    de: Tiefseeberg
+    en: seamount
+    eo: submara monto
+    es: monte submarino
+    et: Ookeaniline mägi
+    eu: Itsaspeko mendi
+    fa: دریاکوه
+    fi: merenalainen vuori
+    fr: mont sous-marin
+    ga: sliabh aigéanach
+    gl: Monte submarino
+    haw: Mauna kai
+    he: הר מצולה
+    hi: समुद्री टीला
+    hu: fenékhegy
+    id: Gunung bawah laut
+    is: Sæfjall
+    it: montagna sottomarina
+    ja: 海山
+    ka: წყალქვეშა მთა
+    kk: Су асты таулары
+    ko: 해산
+    la: Mons marinus
+    mk: подводна планина
+    nb: undervannsfjell
+    nl: onderzeese berg
+    nn: undervassfjell
+    oc: Mont sosmarin
+    pl: góra podwodna
+    pt: monte submarino
+    ru: подводная гора
+    sl: podmorska gora
+    sr: Podmorska planina
+    sv: djuphavsberg
+    ta: கடல் மலை
+    th: ภูเขาใต้ทะเล
+    tr: Deniz dağı
+    tt: Су асты тавы
+    uk: Підводні гори
+    vi: Núi ngầm
+    wuu: 海底山
+    yue: 海底山
+    zh: 海底山
+    zh-hans: 海底山
+    zh-hant: 海底山
+    zh-hk: 海底山
+aliases:
+- Deniz dağı
+- djuphavsberg
+- fenékhegy
+- Gunung bawah laut
+- góra podwodna
+- Itsaspeko mendi
+- Mauna kai
+- merenalainen vuori
+- Mons marinus
+- Mont sosmarin
+- mont sous-marin
+- mont submarí
+- montagna sottomarina
+- monte submarino
+- Monte submarín
+- Núi ngầm
+- Ondersese berg
+- onderzeese berg
+- Ookeaniline mägi
+- podmorska gora
+- Podmorska planina
+- podmořská hora
+- seamount
+- sliabh aigéanach
+- submara monto
+- Sæfjall
+- Sǣbeorg
+- Tiefseeberg
+- undervannsfjell
+- undervassfjell
+- Підводні гори
+- падводная гара
+- подводна планина
+- подводная гора
+- Су асты тавы
+- Су асты таулары
+- הר מצולה
+- جبل بحري
+- دریاکوه
+- چیای دەریایی
+- समुद्री टीला
+- கடல் மலை
+- ภูเขาใต้ทะเล
+- წყალქვეშა მთა
+- 海山
+- 海底山
+- 해산
 ---
 # [[Seamount]] 
 

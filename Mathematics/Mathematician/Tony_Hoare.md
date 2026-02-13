@@ -1,8 +1,90 @@
 ---
 has_id_wikidata: Q92602
+dv_has_:
+  name_:
+    ar: توني هور
+    arz: تونى هور
+    az: Çarlz Entoni
+    azb: تونی هور
+    bg: Тони Хор
+    bn: টোনি হোর
+    bs: C. A. R. Hoare
+    ca: C. A. R. Hoare
+    cs: C. A. R. Hoare
+    da: Charles Antony Richard Hoare
+    de: Tony Hoare
+    ee: C. A. R. Hoare
+    el: Τόνι Χορ
+    en: Tony Hoare
+    eo: Tony Hoare
+    es: C. A. R. Hoare
+    eu: Tony Hoare
+    fa: تونی هور
+    fi: C. A. R. Hoare
+    fr: Charles Antony Richard Hoare
+    ga: Tony Hoare
+    he: טוני הואר
+    hr: C. A. R. Hoare
+    hu: Charles Antony Richard Hoare
+    hy: Չարլզ Անտոնի Ռիչարդ Հոար
+    id: C.A.R. Hoare
+    it: Tony Hoare
+    ja: アントニー・ホーア
+    kk: Сұрыптаудың хоор әдісі
+    ko: 찰스 앤터니 리처드 호어
+    mg: Charles Antony Richard Hoare
+    nb: Charles Antony Richard Hoare
+    nl: Tony Hoare
+    nn: Charles Antony Richard Hoare
+    oc: Charles Antony Richard Hoare
+    pa: ਟੋਨੀ ਹੋਏਰ
+    pl: Charles Antony Richard Hoare
+    pt: Charles Antony Richard Hoare
+    pt-br: Charles Antony Richard Hoare
+    ro: C. A. R. Hoare
+    ru: Чарлз Энтони Ричард Хоар
+    sh: Tony Hoare
+    sk: Charles Antony Richard Hoare
+    sl: Charles Antony Richard Hoare
+    sq: Tony Hoare
+    sr: Тони Хор
+    sr-ec: Тони Хор
+    sr-el: Toni Hor
+    sv: Charles Antony Richard Hoare
+    tr: Tony Hoare
+    uk: Тоні Гоар
+    vi: Charles Antony Richard Hoare
+    zh: 東尼·霍爾
+    zh-cn: 东尼·霍尔
+    zh-hans: 东尼·霍尔
+    zh-hant: 東尼·霍爾
+    zh-hk: 東尼·霍爾
+    zh-sg: 东尼·霍尔
+    zh-tw: 東尼·霍爾
+aliases:
+- C. A. R. Hoare
+- C.A.R. Hoare
+- Charles Antony Richard Hoare
+- Toni Hor
+- Tony Hoare
+- Çarlz Entoni
+- Τόνι Χορ
+- Сұрыптаудың хоор әдісі
+- Тоні Гоар
+- Тони Хор
+- Чарлз Энтони Ричард Хоар
+- Չարլզ Անտոնի Ռիչարդ Հոար
+- טוני הואר
+- تونى هور
+- توني هور
+- تونی هور
+- টোনি হোর
+- ਟੋਨੀ ਹੋਏਰ
+- アントニー・ホーア
+- 东尼·霍尔
+- 東尼·霍爾
+- 찰스 앤터니 리처드 호어
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Sir Charles Antony Richard Hoare , also known as Tony Hoare or by his initials C. A. R. Hoare 

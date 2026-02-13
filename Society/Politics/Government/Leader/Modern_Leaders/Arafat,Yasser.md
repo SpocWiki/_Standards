@@ -1,38 +1,93 @@
 ---
 aliases:
-  - Yasser Arafat
-  - Abu Ammar
-  - Yasser_Arafat
-  - Arafat,Yasser
+- Abu Ammar
+- Arafat,Yasser
+- Iasar Arafat
+- Iasir Arafat
+- Iasser Arafat
+- Iàssir Arafat
+- Jaser Arafat
+- Jasser Arafat
+- Jassir Arafat
+- Jasszer Arafat
+- Jesiras Arafatas
+- Jesīrs Arafats
+- Jásir Arafat
+- Jásir Arafát
+- Jāsirs Arafāts
+- Yaasir Carafaat
+- Yaser Arafat
+- Yaser Erefat
+- Yasir Arafat
+- Yasir Ərəfat
+- Yasser Arafat
+- Yasser_Arafat
+- Yassir Arafat
+- Yosir Arafot
+- Yāsir ‘Arafāt
+- Γιάσερ Αραφάτ
+- Ёсир Арафот
+- Јасер Арафат
+- Ясір Арафат
+- Ясер Арафат
+- Ясир Арафат
+- Յասեր Արաֆաթ
+- יאסיר אראפאט
+- יאסר ערפאת
+- ياسر عرفات
+- ياسىر ئەرەفات
+- یاسئر عأرأفات
+- یاسر عرفات
+- یاسر عەرەفات
+- यासर अराफात
+- यासिर अराफ़ात
+- यासेर अराफात
+- ইয়াসির আরাফাত
+- ਯਾਸੀਰ ਅਰਾਫ਼ਾਤ
+- யாசிர் அரஃபாத்
+- యాసర్ అరాఫత్
+- ಯಾಸಿರ್ ಅರಾಫತ್
+- യാസർ അറഫാത്ത്
+- ยัสเซอร์ อาราฟัต
+- ယာဆာ အာရဖတ်
+- იასირ არაფატი
+- ያሥር አረፋት
+- ヤーセル・アラファート
+- 亚西尔·阿拉法特
+- 亞西爾·阿拉法特
+- 耶色·阿拉法特
+- 阿拉法特
+- 야세르 아라파트
+- 야씨르 아라파트
 has_id_wikidata: Q34211
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
-  - '[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
-  - '[[_Standards/WikiData/WD~Order_13_Centuries_of_Bulgaria_,1858870]]'
-  - '[[_Standards/WikiData/WD~Order_of_Good_Hope,2037015]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]'
-  - '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
-  - '[[_Standards/WikiData/WD~Jawaharlal_Nehru_Award_for_International_Understanding,3295156]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
-  - '[[_Standards/WikiData/WD~Order_of_Playa_Girón,4315048]]'
-  - '[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
-  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]'
-  - '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
-  - '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cordon_with_Collar_of_the_Order_of_Palestine,48335867]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Patras,64873932]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Grand_Conqueror,84771122]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Great_September_Revolution_1969,97277529]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
+- '[[_Standards/WikiData/WD~Order_of_Ouissam_Alaouite,369412]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
+- '[[_Standards/WikiData/WD~Order_13_Centuries_of_Bulgaria_,1858870]]'
+- '[[_Standards/WikiData/WD~Order_of_Good_Hope,2037015]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Republic,2304559]]'
+- '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
+- '[[_Standards/WikiData/WD~Jawaharlal_Nehru_Award_for_International_Understanding,3295156]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_International_Cooperation,3321940]]'
+- '[[_Standards/WikiData/WD~Order_of_Playa_Girón,4315048]]'
+- '[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
+- '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Good_Hope,15279677]]'
+- '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
+- '[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cordon_with_Collar_of_the_Order_of_Palestine,48335867]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Patras,64873932]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Grand_Conqueror,84771122]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Great_September_Revolution_1969,97277529]]'
+- '[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]'
 political_ideology:
-  - '[[_Standards/WikiData/WD~Arab_nationalism,114213]]'
-  - '[[_Standards/WikiData/WD~Arab_socialism,624284]]'
+- '[[_Standards/WikiData/WD~Arab_nationalism,114213]]'
+- '[[_Standards/WikiData/WD~Arab_socialism,624284]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Fatah,178888]]'
 educated_at: '[[_Standards/WikiData/WD~Cairo_University,194445]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Palestine,219060]]'
@@ -40,28 +95,28 @@ spouse: '[[_Standards/WikiData/WD~Suha_Arafat,253667]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~autoimmune_thrombocytopenic_purpura,638729]]'
-  - '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
+- '[[_Standards/WikiData/WD~autoimmune_thrombocytopenic_purpura,638729]]'
+- '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
 residence: '[[_Standards/WikiData/WD~Al_Maghariba_Quarter,928641]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Fathi_Arafat,981221]]'
-  - '[[_Standards/WikiData/WD~Khadija_Arafat,56560600]]'
-  - '[[_Standards/WikiData/WD~Jamal_Arafat,125894995]]'
+- '[[_Standards/WikiData/WD~Fathi_Arafat,981221]]'
+- '[[_Standards/WikiData/WD~Khadija_Arafat,56560600]]'
+- '[[_Standards/WikiData/WD~Jamal_Arafat,125894995]]'
 place_of_death: "[[_Standards/WikiData/WD~Hôpital_d'instruction_des_armées_Percy,1779588]]"
 place_of_burial: '[[_Standards/WikiData/WD~Mukataa_Ramallah,1953449]]'
 position_held:
-  - '[[_Standards/WikiData/WD~President_of_the_Palestinian_National_Authority,2336111]]'
-  - '[[_Standards/WikiData/WD~president_of_the_State_of_Palestine,3911022]]'
-  - '[[_Standards/WikiData/WD~Minister_of_Education_of_the_Palestinian_National_Authority,117225148]]'
-  - '[[_Standards/WikiData/WD~Chairman_of_the_Executive_Committee_of_the_Palestine_Liberation_Organization,130325162]]'
+- '[[_Standards/WikiData/WD~President_of_the_Palestinian_National_Authority,2336111]]'
+- '[[_Standards/WikiData/WD~president_of_the_State_of_Palestine,3911022]]'
+- '[[_Standards/WikiData/WD~Minister_of_Education_of_the_Palestinian_National_Authority,117225148]]'
+- '[[_Standards/WikiData/WD~Chairman_of_the_Executive_Committee_of_the_Palestine_Liberation_Organization,130325162]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Interactive_Encyclopedia_of_the_Palestine_Question,123344860]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Interactive_Encyclopedia_of_the_Palestine_Question,123344860]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Yasser,3571938]]'
-  - '[[_Standards/WikiData/WD~Mohamed,19729888]]'
+- '[[_Standards/WikiData/WD~Yasser,3571938]]'
+- '[[_Standards/WikiData/WD~Mohamed,19729888]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Arafat,36884824]]'
@@ -69,8 +124,8 @@ kunya: '[[_Standards/WikiData/WD~Abu_Ammar,105099717]]'
 father: '[[_Standards/WikiData/WD~Abdel_Raouf_al_Qudwa_al_Husseini,126544608]]'
 mother: '[[_Standards/WikiData/WD~Zahwa_Abul_Saud,126544742]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -90,14 +145,150 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Yasser%20Arafat%20
 ISNI: 0000000121481294
 U_S_National_Archives_Identifier: 10570196
 RIA_Novosti_reference:
-  - 39758118
-  - 42047381
+- 39758118
+- 42047381
 Plex_person_key: 5d7768751999bc0020dc56c3
 P1015: 90219652
 Krugosvet_article_archived_: istoriya/ARAFAT_YASIR.html
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2271404
+dv_has_:
+  name_:
+    af: Jasser Arafat
+    am: ያሥር አረፋት
+    an: Yasser Arafat
+    ang: Yasser Arafat
+    ar: ياسر عرفات
+    ary: ياسر عرفات
+    arz: ياسر عرفات
+    ast: Yasser Arafat
+    az: Yasir Ərəfat
+    azb: یاسر عرفات
+    ba: Ясир Арафат
+    ban: Yasser Arafat
+    bcl: Yasser Arafat
+    be: Ясір Арафат
+    be-tarask: Ясір Арафат
+    bg: Ясер Арафат
+    bn: ইয়াসির আরাফাত
+    br: Yasser Arafat
+    bs: Yasser Arafat
+    ca: Iàssir Arafat
+    cdo: Yasser Arafat
+    ceb: Yasser Arafat
+    ckb: یاسر عەرەفات
+    cs: Jásir Arafat
+    cv: Ясир Арафат
+    cy: Yasser Arafat
+    da: Yasser Arafat
+    de: Jassir Arafat
+    diq: Yaser Arafat
+    el: Γιάσερ Αραφάτ
+    en: Yasser Arafat
+    en-us: Yasser Arafat
+    eo: Jaser Arafat
+    es: Yasir Arafat
+    et: Yāsir ‘Arafāt
+    eu: Jassir Arafat
+    fa: یاسر عرفات
+    fi: Jasser Arafat
+    fr: Yasser Arafat
+    fy: Yasser Arafat
+    ga: Iasar Arafat
+    gl: Iasir Arafat
+    gn: Yasir Arafat
+    gor: Yasser Arafat
+    ha: Yasser Arafat
+    he: יאסר ערפאת
+    hi: यासिर अराफ़ात
+    hr: Jaser Arafat
+    hu: Jasszer Arafat
+    hy: Յասեր Արաֆաթ
+    iba: Yasser Arafat
+    id: Yasser Arafat
+    io: Yaser Arafat
+    is: Yasser Arafat
+    it: Yasser Arafat
+    ja: ヤーセル・アラファート
+    jv: Yasser Arafat
+    ka: იასირ არაფატი
+    kk: Ясир Арафат
+    kn: ಯಾಸಿರ್ ಅರಾಫತ್
+    ko: 야세르 아라파트
+    ko-kp: 야씨르 아라파트
+    ku: Yaser Erefat
+    ky: Ясир Арафат
+    la: Iasser Arafat
+    lb: Jassir Arafat
+    lfn: Yasser Arafat
+    lmo: Yasser Arafat
+    lrc: یاسئر عأرأفات
+    lt: Jesiras Arafatas
+    lv: Jāsirs Arafāts
+    mg: Yasser Arafat
+    mk: Јасер Арафат
+    ml: യാസർ അറഫാത്ത്
+    mn: Ясир Арафат
+    mr: यासर अराफात
+    ms: Yasser Arafat
+    my: ယာဆာ အာရဖတ်
+    nan: Yasser Arafat
+    nb: Yasir Arafat
+    nds: Jassir Arafat
+    ne: यासेर अराफात
+    nl: Yasser Arafat
+    nn: Yasir Arafat
+    oc: Yasser Arafat
+    pa: ਯਾਸੀਰ ਅਰਾਫ਼ਾਤ
+    pdc: Yasser Arafat
+    pl: Jaser Arafat
+    pnb: یاسر عرفات
+    pt: Yasser Arafat
+    pt-br: Yasser Arafat
+    qu: Yasser Arafat
+    ro: Yasser Arafat
+    ru: Ясир Арафат
+    scn: Yasser Arafat
+    sco: Yasser Arafat
+    sd: ياسر عرفات
+    sgs: Jesīrs Arafats
+    sh: Yasser Arafat
+    sk: Jásir Arafát
+    sl: Jaser Arafat
+    so: Yaasir Carafaat
+    sq: Jaser Arafat
+    sr: Јасер Арафат
+    sr-ec: Јасер Арафат
+    sr-el: Jaser Arafat
+    su: Yasser Arafat
+    sv: Yassir Arafat
+    ta: யாசிர் அரஃபாத்
+    te: యాసర్ అరాఫత్
+    tg: Ёсир Арафот
+    th: ยัสเซอร์ อาราฟัต
+    tl: Yasser Arafat
+    tr: Yaser Arafat
+    ug: ياسىر ئەرەفات
+    uk: Ясір Арафат
+    ur: یاسر عرفات
+    uz: Yosir Arafot
+    vi: Yasser Arafat
+    war: Yasser Arafat
+    wuu: 耶色·阿拉法特
+    xmf: იასირ არაფატი
+    yi: יאסיר אראפאט
+    yo: Yasser Arafat
+    yue: 阿拉法特
+    zea: Yasser Arafat
+    zh: 亚西尔·阿拉法特
+    zh-cn: 亚西尔·阿拉法特
+    zh-hans: 亚西尔·阿拉法特
+    zh-hant: 亞西爾·阿拉法特
+    zh-hk: 亞西爾·阿拉法特
+    zh-mo: 亞西爾·阿拉法特
+    zh-my: 亚西尔·阿拉法特
+    zh-sg: 亚西尔·阿拉法特
+    zh-tw: 亞西爾·阿拉法特
 ---
-
 # [[Arafat,Yasser]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Yasser_Arafat,34211|WD~Yasser_Arafat,34211]]   

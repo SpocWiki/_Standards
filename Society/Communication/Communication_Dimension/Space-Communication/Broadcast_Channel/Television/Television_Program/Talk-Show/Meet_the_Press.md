@@ -1,43 +1,53 @@
 ---
-has_time_started: 1947-11-06 
+has_time_started: 1947-11-06
 aliases:
+- Meet the Press
+- NBC Meet the Press
+- פגוש את העיתונות
+- قابل الصحافة
+- ملاقات با مطبوعات
+- मीट द प्रेस
+- ミート・ザ・プレス
+- 与媒体见面
+- 與媒體見面
+- 미트 더 프레스
 has_id_wikidata: Q1543066
 creator:
-  - "[[_Standards/WikiData/WD~Lawrence_Spivak,74110]]"
-  - "[[_Standards/WikiData/WD~Martha_Rountree,74594]]"
-composer: "[[_Standards/WikiData/WD~John_Williams,131285]]"
+- '[[_Standards/WikiData/WD~Lawrence_Spivak,74110]]'
+- '[[_Standards/WikiData/WD~Martha_Rountree,74594]]'
+composer: '[[_Standards/WikiData/WD~John_Williams,131285]]'
 narrator:
-  - "[[_Standards/WikiData/WD~Dennis_Haysbert,350208]]"
-  - "[[_Standards/WikiData/WD~Fred_Facey,5495104]]"
+- '[[_Standards/WikiData/WD~Dennis_Haysbert,350208]]'
+- '[[_Standards/WikiData/WD~Fred_Facey,5495104]]'
 genre:
-  - "[[_Standards/WikiData/WD~talk_show,622812]]"
-  - "[[_Standards/WikiData/WD~news_program,1358344]]"
-  - "[[_Standards/WikiData/WD~Sunday_morning_talk_show,6645282]]"
-  - "[[_Standards/WikiData/WD~public_affairs_program,7257679]]"
-  - "[[_Standards/WikiData/WD~political_podcast,28135032]]"
-  - "[[_Standards/WikiData/WD~news_commentary_podcast,106704934]]"
+- '[[_Standards/WikiData/WD~talk_show,622812]]'
+- '[[_Standards/WikiData/WD~news_program,1358344]]'
+- '[[_Standards/WikiData/WD~Sunday_morning_talk_show,6645282]]'
+- '[[_Standards/WikiData/WD~public_affairs_program,7257679]]'
+- '[[_Standards/WikiData/WD~political_podcast,28135032]]'
+- '[[_Standards/WikiData/WD~news_commentary_podcast,106704934]]'
 distribution_format:
-  - "[[_Standards/WikiData/WD~video_on_demand,723685]]"
-  - "[[_Standards/WikiData/WD~audio_podcast,24633474]]"
-camera_setup: "[[_Standards/WikiData/WD~multiple_camera_setup,738160]]"
+- '[[_Standards/WikiData/WD~video_on_demand,723685]]'
+- '[[_Standards/WikiData/WD~audio_podcast,24633474]]'
+camera_setup: '[[_Standards/WikiData/WD~multiple_camera_setup,738160]]'
 color:
-  - "[[_Standards/WikiData/WD~black_and_white,838368]]"
-  - "[[_Standards/WikiData/WD~color_television,849194]]"
+- '[[_Standards/WikiData/WD~black_and_white,838368]]'
+- '[[_Standards/WikiData/WD~color_television,849194]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~news_program,1358344]]"
-  - "[[_Standards/WikiData/WD~television_series,5398426]]"
-distributed_by: "[[_Standards/WikiData/WD~Hulu,1630304]]"
-location_of_creation: "[[_Standards/WikiData/WD~Capitol_Hill,2305815]]"
-production_company: "[[_Standards/WikiData/WD~NBC_News,2877626]]"
-theme_music: "[[_Standards/WikiData/WD~The_Mission,7751754]]"
-presenter: "[[_Standards/WikiData/WD~Kristen_Welker,16204167]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-original_broadcaster: "[[_Standards/WikiData/WD~NBC,13974]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+- '[[_Standards/WikiData/WD~news_program,1358344]]'
+- '[[_Standards/WikiData/WD~television_series,5398426]]'
+distributed_by: '[[_Standards/WikiData/WD~Hulu,1630304]]'
+location_of_creation: '[[_Standards/WikiData/WD~Capitol_Hill,2305815]]'
+production_company: '[[_Standards/WikiData/WD~NBC_News,2877626]]'
+theme_music: '[[_Standards/WikiData/WD~The_Mission,7751754]]'
+presenter: '[[_Standards/WikiData/WD~Kristen_Welker,16204167]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+original_broadcaster: '[[_Standards/WikiData/WD~NBC,13974]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+filming_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 duration:
-  - 30
-  - 60
+- 30
+- 60
 number_of_episodes: 600
 number_of_seasons: 70
 Commons_category: Meet the Press
@@ -53,8 +63,44 @@ X_Twitter_username: meetthepress
 Facebook_username: MeetThePress
 official_name: Meet the Press with Kristen Welker
 start_time: 1947-11-06T00:00:00Z
+dv_has_:
+  name_:
+    ar: قابل الصحافة
+    ast: Meet the Press
+    be-tarask: Meet the Press
+    ca: Meet the Press
+    cs: Meet the Press
+    da: Meet the Press
+    de: Meet the Press
+    en: Meet the Press
+    es: Meet the Press
+    eu: Meet the Press
+    fa: ملاقات با مطبوعات
+    fi: Meet the Press
+    fr: Meet the Press
+    ga: Meet the Press
+    gl: Meet the Press
+    he: פגוש את העיתונות
+    hi: मीट द प्रेस
+    id: Meet the Press
+    ja: ミート・ザ・プレス
+    ko: 미트 더 프레스
+    la: Meet the Press
+    mul: NBC Meet the Press
+    nb: Meet the Press
+    nl: Meet the Press
+    pt: Meet the Press
+    ru: Meet the Press
+    sh: Meet the Press
+    sr: Meet the Press
+    sv: Meet the Press
+    tr: Meet the Press
+    uk: Meet the Press
+    zh: 與媒體見面
+    zh-hans: 与媒体见面
+    zh-hant: 與媒體見面
+    zh-hk: 與媒體見面
 ---
-
 # [[Meet_the_Press]] 
 
 #is_/same_as :: [[WD~Meet_the_Press,1543066]] 

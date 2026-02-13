@@ -1,16 +1,174 @@
 ---
 aliases:
-  - Slovakia
-  - Eslovaquia
-  - Slovaquie
-  - سلوفاكيا
-  - 斯洛伐克
-  - Словакия
-  - the Slovak Republic
-  - la República Eslovaca
+- An t-Slòbhac
+- an tSlóvaic
+- Dziłkʼi Tsinʼałnáoszidnii Bikéyah
+- Elovakia
+- Eslobakia
+- Eslobakya
+- Eslovakia
+- Eslovakya
+- Eslovaquia
+- Eslovàquia
+- Eslovákia
+- Eslováquia
+- Eslowaaki
+- Horowākia
+- Islofaakiya
+- Islovaakiyaa
+- ISlovaki
+- Islovàchia
+- Isluwakya
+- Isluwaqiya
+- la República Eslovaca
+- ma Lowenki
+- Silaovakia
+- Siloovaakii
+- Silovakhi
+- Silovakiya
+- Silovākia
+- Sllovakia
+- Slobakiya
+- Slobakya
+- Slobáquia
+- Slofacia
+- Slofacland
+- Slofakiya
+- Slofákíà
+- Slovaakia
+- Slovacchia
+- Slovacchie
+- Slovachia
+- Slovachie
+- Slovacia
+- Slovaiko
+- Slovakeja
+- Slovakeye
+- Slovaki
+- Slovakia
+- Slovakie
+- Slovakien
+- Slovakiet
+- Slovakii
+- Slovakija
+- Slovakikondre
+- Slovakio
+- Slovakiya
+- Slovakiyə
+- Slovakkia
+- Slovakkja
+- Slovakya
+- Slovakän
+- Slovaquie
+- Slovačiko
+- Slovačka
+- Slovaška
+- Slovensco
+- slovensk
+- Slovenska
+- Slovensko
+- Slovàchia
+- Slováhka
+- Slovākij
+- Slovākija
+- Slowaaki
+- Slowaaknlaand
+- Slowak
+- Slowakai
+- Slowakei
+- Slowaki
+- Slowakia
+- Slowakieë
+- Slowakije
+- Slowakiýa
+- Slowakya
+- Slowakye
+- Slowakäi
+- Slowarkya
+- Sluovakėjė
+- Sluvacchia
+- Sluvakya
+- Slóvakía
+- Solovakia
+- Solowakia
+- Sulowakiya
+- Szlovákia
+- Słowacja
+- Słowackô
+- Słowacyjo
+- Słowakska
+- the Slovak Republic
+- y Clovack
+- Σλοβακία
+- Славакія
+- Славаччына
+- Словак
+- Словаки
+- Словакиа
+- Словакие
+- Словакий
+- Словакия
+- Словакия Мастор
+- Словакудин Орн
+- Словачия
+- Словачка
+- Словаччина
+- Словенско
+- Словеньско
+- Словѣньско
+- Слоуакэ
+- Սլովակիա
+- Սլովաքիա
+- סלאוואקיי
+- סלובקיה
+- اسلؤواکي
+- اسلواکی
+- ایسلوواکی
+- سلواکیا
+- سلوفاكيا
+- سلوواکيا
+- سلوواکیا
+- سلوواکیہ
+- سلوواڪيا
+- سلوڥاكيا
+- سلوۋاكىيە
+- سلۆڤاکیا
+- صلوڤاكيا
+- ܣܠܘܒܩܝܐ
+- ސުލޮވާކިއާ
+- स्लोभाकिया
+- स्लोवाकिया
+- स्लोव्हाकिया
+- স্লোভাকিয়া
+- ਸਲੋਵਾਕੀਆ
+- સ્લોવાકિયા
+- ସ୍ଲୋଭାକିଆ
+- சிலோவாக்கியா
+- స్లొవాకియా
+- ಸ್ಲೊವಾಕಿಯ
+- സ്ലോവാക്യ
+- ස්ලෝවැකියාව
+- ประเทศสโลวาเกีย
+- ປະເທດສະໂລວາກີ
+- སི་ལོ་པ་ཀེ་
+- སི་ལོ་ཕ་ཁེ།
+- ဆလိုဗားကီးယားနိုင်ငံ
+- မိူင်းသလူဝ်ႇဝႃးၵီးယႃး
+- სლოვაკეთი
+- ስሎቫኪያ
+- ᏍᎶᏩᎩᎠ
+- ᱥᱞᱳᱵᱷᱟᱠᱤᱭᱟ
+- Ṣluvakiya
+- ⵚⵍⵓⴼⴰⴽⵢⴰ
+- スロバキア
+- 斯洛伐克
+- ꯁ꯭ꯂꯣꯚꯥꯀꯤꯌꯥ
+- 슬로바키아
+- 슬로벤스꼬
+- "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U0001033A\U0001033E\U00010330"
 has_id_wikidata: Q214
-Unicode_character: 🇸🇰
-icon: 🇸🇰
+Unicode_character: "\U0001F1F8\U0001F1F0"
+icon: "\U0001F1F8\U0001F1F0"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -39,9 +197,9 @@ dv_UNTERM_Chinese_Formal: 斯洛伐克共和国
 dv_UNTERM_French_Formal: la République slovaque
 dv_UNTERM_Russian: Словакия
 dv_UNTERM_Russian_Formal: Словацкая Республика
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Slovakia]]"
-dv_Sub-region_Name: "[[Eastern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Slovakia]]'
+dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
 dv_Sub-region: 151
 dv_Geoname-ID: 3057568
@@ -64,320 +222,629 @@ dv_ISO2: SK
 dv_ISO3: SVK
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
-    - "[[Slovakia]]"
+  - '[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]'
+  - '[[Slovakia]]'
 dv_has_:
   name_:
+    ab: Словакиа
+    ace: Slowakia
+    ady: Словакие
+    aeb-arab: سلوڥاكيا
+    af: Slowakye
+    am: ስሎቫኪያ
+    ami: Slovakia
+    an: Eslovaquia
+    ang: Slofacland
+    anp: स्लोवाकिया
+    ar: سلوفاكيا
+    arc: ܣܠܘܒܩܝܐ
+    ary: صلوڤاكيا
+    arz: سلوفاكيا
+    ast: Eslovaquia
+    av: Словакия
+    avk: Slovenska
+    awa: स्लोवाकिया
+    ay: Isluwaqiya
+    az: Slovakiya
+    azb: ایسلوواکی
+    ba: Словакия
+    ban: Slovakia
+    bar: Slowakai
+    bcl: Slobakya
+    be: Славакія
+    be-tarask: Славаччына
+    bew: Slowaki
+    bg: Словакия
+    bgn: سلواکیا
+    bho: स्लोवाकिया
+    bi: Slovakia
+    bn: স্লোভাকিয়া
+    bo: སི་ལོ་ཕ་ཁེ།
+    bpy: স্লোভাকিয়া
+    br: Slovakia
+    bs: Slovačka
+    bxr: Словак
+    ca: Eslovàquia
+    cbk-zam: Eslovaquia
+    cdo: Slovakia
+    ce: Словаки
+    ceb: Eslobakya
+    ch: Eslobakia
+    chr: ᏍᎶᏩᎩᎠ
+    chy: Slovakia
+    ckb: سلۆڤاکیا
+    co: Sluvacchia
+    crh: Slovakiya
+    crh-latn: Slovakiya
+    cs: Slovensko
+    csb: Słowackô
+    cu: Словѣньско
+    cv: Словаки
+    cy: Slofacia
+    da: Slovakiet
+    dag: Slovakia
+    de: Slowakei
+    de-at: Slowakei
+    de-ch: Slowakei
+    diq: Slowakya
+    dsb: Słowakska
+    dty: स्लोभाकिया
+    dv: ސުލޮވާކިއާ
+    dz: སི་ལོ་པ་ཀེ་
+    ee: Slovakia
+    el: Σλοβακία
     en: Slovakia
+    en-ca: Slovakia
+    en-gb: Slovakia
+    en-us: Slovakia
+    eo: Slovakio
+    es: Eslovaquia
+    et: Slovakkia
+    eu: Eslovakia
+    ext: Eslováquia
+    fa: اسلواکی
+    ff: Sulowakiya
+    fi: Slovakia
+    fo: Slovakia
+    fr: Slovaquie
+    frp: Slovaquie
+    frr: Slowakäi
+    fur: Slovachie
+    fy: Slowakije
+    ga: an tSlóvaic
+    gag: Slovakiya
+    gcr: Slovaki
+    gd: An t-Slòbhac
+    gl: Eslovaquia
+    glk: اسلؤواکي
+    gn: Elovakia
+    gom: स्लोवाकिया
+    gom-deva: स्लोवाकिया
+    gom-latn: Slovakia
+    got: "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U0001033A\U0001033E\U00010330"
+    gpe: Slovakia
+    gsw: Slowakei
+    gu: સ્લોવાકિયા
+    gv: y Clovack
+    ha: Slofakiya
+    hak: Slovakia
+    haw: Solowakia
+    he: סלובקיה
+    hi: स्लोवाकिया
+    hif: Slovakia
+    hr: Slovačka
+    hsb: Słowakska
+    ht: Slovaki
+    hu: Szlovákia
+    hy: Սլովակիա
+    hyw: Սլովաքիա
+    ia: Slovachia
+    id: Slowakia
+    ie: Slovacia
+    ig: Slovakia
+    ilo: Eslobakia
+    io: Slovakia
+    is: Slóvakía
+    it: Slovacchia
+    ja: スロバキア
+    jam: Slovakia
+    jbo: slovensk
+    jv: Slowak
+    ka: სლოვაკეთი
+    kaa: Slovakiya
+    kab: Sluvakya
+    kbd: Слоуакэ
+    kbp: Siloovaakii
+    kg: Slovakia
+    kk: Словакия
+    kl: Slovakia
+    kn: ಸ್ಲೊವಾಕಿಯ
+    ko: 슬로바키아
+    ko-kp: 슬로벤스꼬
+    koi: Словенско
+    krc: Словакия
+    ku: Slovakya
+    kv: Словакия
+    kw: Slovaki
+    ky: Словакия
+    la: Slovacia
+    lad: Eslovakia
+    lb: Slowakei
+    lbe: Словакиа
+    lez: Словакия
+    lfn: Slovensco
+    lg: Slovakia
+    li: Slowakieë
+    lij: Slovàchia
+    liv: Slovākij
+    lld: Slovachia
+    lmo: Slovachia
+    ln: Slovakia
+    lo: ປະເທດສະໂລວາກີ
+    lt: Slovakija
+    ltg: Slovakeja
+    lv: Slovākija
+    lzh: 斯洛伐克
+    mad: Slovakia
+    mai: स्लोवाकिया
+    map-bms: Slowakia
+    mdf: Словакия
+    mg: Silaovakia
+    mhr: Словакий
+    mi: Horowākia
+    min: Slowakia
+    mk: Словачка
+    ml: സ്ലോവാക്യ
+    mn: Словак
+    mni: ꯁ꯭ꯂꯣꯚꯥꯀꯤꯌꯥ
+    mo: Словачия
+    mr: स्लोव्हाकिया
+    ms: Slovakia
+    mt: Slovakkja
+    mwl: Slobáquia
+    my: ဆလိုဗားကီးယားနိုင်ငံ
+    myv: Словакия Мастор
+    mzn: اسلواکی
+    na: Slowakia
+    nah: Eslovaquia
+    nan: Slovakia
+    nap: Slovachia
+    nb: Slovakia
+    nds: Slowakei
+    nds-nl: Slowaaknlaand
+    ne: स्लोभाकिया
+    new: स्लोभाकिया
+    nl: Slowakije
+    nn: Slovakia
+    nov: Slovakia
+    nrm: Slovaquie
+    nv: Dziłkʼi Tsinʼałnáoszidnii Bikéyah
+    oc: Eslovaquia
+    olo: Slovakii
+    om: Islovaakiyaa
+    or: ସ୍ଲୋଭାକିଆ
+    os: Словаки
+    pa: ਸਲੋਵਾਕੀਆ
+    pag: Slobakiya
+    pam: Eslobakya
+    pap: Slovakia
+    pcd: Slovakie
+    pdc: Slowaaki
+    pi: स्लोवाकिया
+    pih: Slowarkya
+    pl: Słowacja
+    pms: Slovachia
+    pnb: سلوواکیا
+    pnt: Σλοβακία
+    ps: سلوواکيا
+    pt: Eslováquia
+    pt-br: Eslováquia
+    qu: Isluwakya
+    rm: Slovachia
+    rmc: Slovačiko
+    rmy: Slovaiko
+    ro: Slovacia
+    roa-tara: Slovacchie
+    ru: Словакия
+    rue: Словеньско
+    rup: Slovachia
+    rw: Silovakiya
+    sa: स्लोवाकिया
+    sah: Словакия
+    sat: ᱥᱞᱳᱵᱷᱟᱠᱤᱭᱟ
+    sc: Islovàchia
+    scn: Slovacchia
+    sco: Slovakie
+    sd: سلوواڪيا
+    se: Slovakia
+    sgs: Sluovakėjė
+    sh: Slovačka
+    shi: Ṣluvakiya
+    shn: မိူင်းသလူဝ်ႇဝႃးၵီးယႃး
+    si: ස්ලෝවැකියාව
+    sk: Slovensko
+    sl: Slovaška
+    sm: Solovakia
+    sma: Slovaakia
+    smj: Slováhka
+    smn: Slovakia
+    sms: Slovakia
+    sn: Slovakia
+    so: Islofaakiya
+    sq: Sllovakia
+    sr: Словачка
+    sr-ec: Словачка
+    sr-el: Slovačka
+    srn: Slovakikondre
+    ss: Silovakhi
+    st: Slovakia
+    stq: Slowakäi
+    su: Slovakia
+    sv: Slovakien
+    sw: Slovakia
+    szl: Słowacyjo
+    szy: Slovakia
+    ta: சிலோவாக்கியா
+    tay: Slovakia
+    te: స్లొవాకియా
+    tet: Eslovákia
+    tg: Словакия
+    th: ประเทศสโลวาเกีย
+    tk: Slowakiýa
+    tl: Slovakia
+    tly: Slovakiyə
+    to: Silovākia
+    tok: ma Lowenki
+    tpi: Slovakia
+    tr: Slovakya
+    trv: Slovakia
+    ts: Slovakia
+    tt: Словакия
+    tum: Slovakia
+    tw: Slovakia
+    udm: Словакия
+    ug: سلوۋاكىيە
+    uk: Словаччина
+    ur: سلوواکیہ
+    uz: Slovakiya
+    vec: Slovàchia
+    vep: Slovakii
+    vi: Slovakia
+    vls: Slovakeye
+    vo: Slovakän
+    vro: Slovakkia
+    wa: Slovakeye
+    war: Eslovakya
+    wo: Eslowaaki
+    wuu: 斯洛伐克
+    xal: Словакудин Орн
+    xh: Slovakiya
+    xmf: სლოვაკეთი
+    yi: סלאוואקיי
+    yo: Slofákíà
+    yue: 斯洛伐克
+    za: Slovakia
+    zea: Slowakije
+    zgh: ⵚⵍⵓⴼⴰⴽⵢⴰ
+    zh: 斯洛伐克
+    zh-cn: 斯洛伐克
+    zh-hans: 斯洛伐克
+    zh-hant: 斯洛伐克
+    zh-hk: 斯洛伐克
+    zh-mo: 斯洛伐克
+    zh-my: 斯洛伐克
+    zh-sg: 斯洛伐克
+    zh-tw: 斯洛伐克
+    zu: ISlovaki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Slovakia
 dv_has_name_de: Slowakei
 dv_Area-Total: 49036
 dv_Area-Land: 48080
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: SK
-dv_Capital: "[[Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava]]"
+dv_Capital: '[[Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava]]'
 dv_Alcohol-l: 13.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[Slovakia]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
+- '[[Slovakia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Slovakia
-highest_point: "[[_Standards/WikiData/WD~Gerlachovský_štít,81213]]"
+highest_point: '[[_Standards/WikiData/WD~Gerlachovský_štít,81213]]'
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Visegrád_Group,244323]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Visegrád_Group,244323]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~Christmas_Eve,106010]]"
-  - "[[_Standards/WikiData/WD~Epiphany,132001]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Saints_Cyril_and_Methodius_Day,2379466]]"
-  - "[[_Standards/WikiData/WD~Saint_Stephen's_Day_in_Hungary,2465259]]"
-  - "[[_Standards/WikiData/WD~Struggle_for_Freedom_and_Democracy_Day,15054219]]"
-  - "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~Christmas_Eve,106010]]'
+- '[[_Standards/WikiData/WD~Epiphany,132001]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
+- '[[_Standards/WikiData/WD~Saints_Cyril_and_Methodius_Day,2379466]]'
+- "[[_Standards/WikiData/WD~Saint_Stephen's_Day_in_Hungary,2465259]]"
+- '[[_Standards/WikiData/WD~Struggle_for_Freedom_and_Democracy_Day,15054219]]'
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587]]"
+- '[[_Standards/WikiData/WD~Christmas,19809]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~successor_state,127693126]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~successor_state,127693126]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Tisza,134350]]"
-  - "[[_Standards/WikiData/WD~Morava,179251]]"
-  - "[[_Standards/WikiData/WD~Váh,202598]]"
-  - "[[_Standards/WikiData/WD~Orava,737728]]"
-  - "[[_Standards/WikiData/WD~Ipoly,748872]]"
-  - "[[_Standards/WikiData/WD~Poprad,756302]]"
-  - "[[_Standards/WikiData/WD~Dunajec,840694]]"
-  - "[[_Standards/WikiData/WD~Białka,4176549]]"
-  - "[[_Standards/WikiData/WD~Danube,1653]]"
+- '[[_Standards/WikiData/WD~Tisza,134350]]'
+- '[[_Standards/WikiData/WD~Morava,179251]]'
+- '[[_Standards/WikiData/WD~Váh,202598]]'
+- '[[_Standards/WikiData/WD~Orava,737728]]'
+- '[[_Standards/WikiData/WD~Ipoly,748872]]'
+- '[[_Standards/WikiData/WD~Poprad,756302]]'
+- '[[_Standards/WikiData/WD~Dunajec,840694]]'
+- '[[_Standards/WikiData/WD~Białka,4176549]]'
+- '[[_Standards/WikiData/WD~Danube,1653]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Malta,233]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Slovakia,160861]]"
-anthem: "[[_Standards/WikiData/WD~Nad_Tatrou_sa_blýska,166944]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Liechtenstein,347]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Slovakia,160861]]'
+anthem: '[[_Standards/WikiData/WD~Nad_Tatrou_sa_blýska,166944]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Trnava_Region,181342]]"
-  - "[[_Standards/WikiData/WD~Trenčín_Region,183139]]"
-  - "[[_Standards/WikiData/WD~Bratislava_Region,183498]]"
-  - "[[_Standards/WikiData/WD~Banská_Bystrica_Region,183640]]"
-  - "[[_Standards/WikiData/WD~Žilina_region,184228]]"
-  - "[[_Standards/WikiData/WD~Nitra_Region,184548]]"
-  - "[[_Standards/WikiData/WD~Košice_Region,186295]]"
-  - "[[_Standards/WikiData/WD~Prešov_Region,189001]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Slovakia,189590]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Slovakia,324951]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Slovakia,340068]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Slovakia,682227]]"
-lowest_point: "[[_Standards/WikiData/WD~Bodrog,828570]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Slovakia,850631]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Council_of_the_Slovak_Republic,1139204]]"
+- '[[_Standards/WikiData/WD~Trnava_Region,181342]]'
+- '[[_Standards/WikiData/WD~Trenčín_Region,183139]]'
+- '[[_Standards/WikiData/WD~Bratislava_Region,183498]]'
+- '[[_Standards/WikiData/WD~Banská_Bystrica_Region,183640]]'
+- '[[_Standards/WikiData/WD~Žilina_region,184228]]'
+- '[[_Standards/WikiData/WD~Nitra_Region,184548]]'
+- '[[_Standards/WikiData/WD~Košice_Region,186295]]'
+- '[[_Standards/WikiData/WD~Prešov_Region,189001]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Slovakia,189590]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Slovakia,324951]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Slovakia,340068]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Slovakia,682227]]'
+lowest_point: '[[_Standards/WikiData/WD~Bodrog,828570]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Slovakia,850631]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Council_of_the_Slovak_Republic,1139204]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
-central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Slovakia,1481791]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+central_bank: '[[_Standards/WikiData/WD~National_Bank_of_Slovakia,1481791]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]"
-  - "[[_Standards/WikiData/WD~Slovak_Republic,3496420]]"
+- '[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]'
+- '[[_Standards/WikiData/WD~Slovak_Republic,3496420]]'
 follows:
-  - "[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]"
-  - "[[_Standards/WikiData/WD~Slovak_Republic,3496420]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Slovakia,3007305]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Slovakia,3495267]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Slovakia,6468838]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Slovakia,7112453]]"
+- '[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]'
+- '[[_Standards/WikiData/WD~Slovak_Republic,3496420]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Slovakia,3007305]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Slovakia,3495267]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Slovakia,6468838]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Slovakia,7112453]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Slovak_Sign_Language,7541557]]"
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-  - "[[_Standards/WikiData/WD~Slovak,9058]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Rusyn,26245]]"
-coextensive_with: "[[_Standards/WikiData/WD~Slovakia,7541598]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Slovakia,7992563]]"
+- '[[_Standards/WikiData/WD~Slovak_Sign_Language,7541557]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+- '[[_Standards/WikiData/WD~Slovak,9058]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~Rusyn,26245]]'
+coextensive_with: '[[_Standards/WikiData/WD~Slovakia,7541598]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Slovakia,7992563]]'
 railway_traffic_side:
-  - "[[_Standards/WikiData/WD~left,13196750]]"
-  - "[[_Standards/WikiData/WD~right,14565199]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-head_of_state: "[[_Standards/WikiData/WD~Peter_Pellegrini,17330556]]"
+- '[[_Standards/WikiData/WD~left,13196750]]'
+- '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+head_of_state: '[[_Standards/WikiData/WD~Peter_Pellegrini,17330556]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q23653974,23653974]]"
-  - "[[_Standards/WikiData/WD~Q56168871,56168871]]"
+- '[[_Standards/WikiData/WD~Q23653974,23653974]]'
+- '[[_Standards/WikiData/WD~Q56168871,56168871]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~150,25648839]]"
-  - "[[_Standards/WikiData/WD~155,25648862]]"
-  - "[[_Standards/WikiData/WD~158,25648863]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~warm-summer_humid_continental_climate,58033922]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Slovakia,97142424]]"
+- '[[_Standards/WikiData/WD~150,25648839]]'
+- '[[_Standards/WikiData/WD~155,25648862]]'
+- '[[_Standards/WikiData/WD~158,25648863]]'
+Köppen_climate_classification: '[[_Standards/WikiData/WD~warm-summer_humid_continental_climate,58033922]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portal_Slovakia,97142424]]'
 coordinate_location: Point(20.0 49.0)
 BHCL_UUID:
-  - 39d148b6-c945-4b3c-ab27-bec316e78082
-  - 43460914-9ec4-4eb3-8cb0-f67e34a0c0b0
-  - ab3549a2-7ff8-4674-9c2a-3168bc50ee26
+- 39d148b6-c945-4b3c-ab27-bec316e78082
+- 43460914-9ec4-4eb3-8cb0-f67e34a0c0b0
+- ab3549a2-7ff8-4674-9c2a-3168bc50ee26
 UMLS_CUI: C0206579
 coordinates_of_southernmost_point: Point(18.2882452 47.7337818)
 demonym:
-  - صلوڤاكي
-  - صلوڤاكية
-  - صلوڤاكيين
-  - صلوڤاكيات
-  - Slóvacach
-  - سلوفاكي
-  - سلوفاكية
-  - سلوفاكيون
-  - eslovaca
-  - eslovaco
-  - eslovacu
-  - славак
-  - славакі
-  - славачка
-  - স্লোভাক
-  - Slowake
-  - slowakisch
-  - slovako
-  - Slovaque
-  - סלובקי
-  - סלובקית
-  - szlovák
-  - Slovakiano
-  - slovacca
-  - slovacche
-  - slovacchi
-  - slovacco
-  - slovensce
-  - Slowaak
-  - Słowaczka
-  - slovac
-  - slovacă
-  - slovaci
-  - словак
-  - словаки
-  - словачка
-  - словак
-  - словаки
-  - словачка
-  - slovaca
-  - slovache
-  - slovachi
-  - slovaco
-  - Slovakiyänan
-  - Słowak
-  - Slovak
+- صلوڤاكي
+- صلوڤاكية
+- صلوڤاكيين
+- صلوڤاكيات
+- Slóvacach
+- سلوفاكي
+- سلوفاكية
+- سلوفاكيون
+- eslovaca
+- eslovaco
+- eslovacu
+- славак
+- славакі
+- славачка
+- স্লোভাক
+- Slowake
+- slowakisch
+- slovako
+- Slovaque
+- סלובקי
+- סלובקית
+- szlovák
+- Slovakiano
+- slovacca
+- slovacche
+- slovacchi
+- slovacco
+- slovensce
+- Slowaak
+- Słowaczka
+- slovac
+- slovacă
+- slovaci
+- словак
+- словаки
+- словачка
+- словак
+- словаки
+- словачка
+- slovaca
+- slovache
+- slovachi
+- slovaco
+- Slovakiyänan
+- Słowak
+- Slovak
 coordinates_of_easternmost_point: Point(22.55891472 49.0874603)
 ISNI: 123644624
 motto_text:
-  - Teithiwch Slofacia - Syniad gwych!
-  - Travel in Slovakia - Good idea
+- Teithiwch Slofacia - Syniad gwych!
+- Travel in Slovakia - Good idea
 MeSH_tree_code: Z01.542.248.797
 coordinates_of_northernmost_point: Point(19.47 49.62)
 coordinates_of_westernmost_point: Point(16.83365107 48.38066809)
 part_of:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-capital: "[[_Standards/WikiData/WD~Bratislava,1780]]"
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+capital: '[[_Standards/WikiData/WD~Bratislava,1780]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-official_language: "[[_Standards/WikiData/WD~Slovak,9058]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+official_language: '[[_Standards/WikiData/WD~Slovak,9058]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Europe,27509]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~Slovakia,214]]"
-different_from: "[[_Standards/WikiData/WD~Slovenia,215]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~Slovakia,214]]'
+different_from: '[[_Standards/WikiData/WD~Slovenia,215]]'
 VAT_rate:
-  - 5
-  - 19
-  - 23
+- 5
+- 19
+- 23
 death_rate:
-  - 11
-  - 9.8
-  - 10.8
-  - 13.5
+- 11
+- 9.8
+- 10.8
+- 13.5
 total_fertility_rate: 1.6
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 BTI_Governance_Index:
-  - 6.7
-  - 6.8
-  - 7.2
-  - 6.36
-  - 6.53
-  - 6.96
-  - 7.03
-  - 7.09
-  - 7.38
+- 6.7
+- 6.8
+- 7.2
+- 6.36
+- 6.53
+- 6.96
+- 7.03
+- 7.09
+- 7.38
 life_expectancy: 77
 suicide_rate: 9.3
 birth_rate:
-  - 9.7
-  - 10.4
-  - 10.5
+- 9.7
+- 10.4
+- 10.5
 Gini_coefficient: 23.2
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.sk,41529]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Slovakia,45369]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sk,41529]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Slovakia,45369]]'
 Happy_Planet_Index_score: 46.6
 trunk_prefix: 0
 Democracy_Index: 6.97
-head_of_government: "[[_Standards/WikiData/WD~Robert_Fico,57606]]"
+head_of_government: '[[_Standards/WikiData/WD~Robert_Fico,57606]]'
 Inequality_adjusted_Human_Development_Index: 0.803
 Human_Development_Index: 0.848
 BTI_Status_Index:
-  - 8.59
-  - 8.72
-  - 8.75
-  - 8.77
-  - 8.79
-  - 8.88
-  - 9.06
-  - 9.14
+- 8.59
+- 8.72
+- 8.75
+- 8.77
+- 8.79
+- 8.88
+- 9.06
+- 9.14
 UIC_numerical_country_code: 56
 maritime_identification_digits: 267
 unemployment_rate:
-  - 5.761
-  - 6.143
-  - 6.719
-  - 6.894
+- 5.761
+- 6.143
+- 6.719
+- 6.894
 IAB_code: 1405
 mobile_country_code: 231
 ISO_3166_1_numeric_code: 703
@@ -390,8 +857,8 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/HighTatras.JPG
 licence_plate_code: SK
 ISO_3166_1_alpha_2_code: SK
 NUTS_code:
-  - SK
-  - SK0
+- SK
+- SK0
 WIPO_ST_3: SK
 UIC_alphabetical_country_code: SK
 OmegaWiki_Defined_Meaning: 8531
@@ -409,31 +876,31 @@ Krugosvet_article: strany_mira/SLOVAKIYA.html
 native_label: Slovenská republika
 official_name: Slovenská republika
 nominal_GDP:
-  - 115468803972
-  - 118656591909
+- 115468803972
+- 118656591909
 subreddit: Slovakia
 Commons_gallery: Slovensko
 geoshape: http://commons.wikimedia.org/data/main/Data:Slovakia.map
 rural_population:
-  - 2503549
-  - 2515539
-  - 2523688
-  - 2524162
+- 2503549
+- 2515539
+- 2523688
+- 2524162
 male_population:
-  - 2654098
-  - 2659702
-  - 2663171
-  - 2665719
+- 2654098
+- 2659702
+- 2663171
+- 2665719
 female_population:
-  - 2777654
-  - 2787545
-  - 2790976
-  - 2793108
+- 2777654
+- 2787545
+- 2790976
+- 2793108
 urban_population:
-  - 2928203
-  - 2930459
-  - 2931708
-  - 2934665
+- 2928203
+- 2930459
+- 2931708
+- 2934665
 U_S_National_Archives_Identifier: 10045654
 PM20_geo_code: A40f
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovakia.svg
@@ -443,8 +910,8 @@ has_time_started: 1993-06
 short_name: Slovensko
 image: http://commons.wikimedia.org/wiki/Special:FilePath/000%20Sllovakia%20harta.PNG
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Slowakei.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Slovacia.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Slowakei.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Slovacia.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spis%20Castle%20banner.jpg
 official_website: https://www.slovakia.com/
 country_calling_code: 421
@@ -452,11 +919,11 @@ Dewey_Decimal_Classification: 2--4373
 Colon_Classification: SG--59252
 GitHub_topic: slovakia
 location:
-  - 48.13
-  - 17.1
+- 48.13
+- 17.1
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27018
 isDeleted: false
 confidential: public
@@ -464,20 +931,19 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Slovakia
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - sk
-  - hu
+- sk
+- hu
 ---
-
 # [[Slovakia]] 
 
 ## [[Slovakia]] has Properties...

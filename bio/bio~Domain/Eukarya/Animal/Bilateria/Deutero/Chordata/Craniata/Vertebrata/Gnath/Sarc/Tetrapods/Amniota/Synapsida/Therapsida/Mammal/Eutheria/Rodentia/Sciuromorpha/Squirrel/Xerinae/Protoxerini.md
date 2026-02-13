@@ -1,8 +1,55 @@
 ---
 aliases:
-  - Protoxerini
+- Olejówki
+- Protoxerini
+- Āfrikas vāveres
+- סנאי קרקע ענקים
+- البروتوكسيرينى
+- سنجاب درختی آفریقایی
+- 아프리카큰다람쥐족
 title: Protoxerini
 has_id_wikidata: Q150569
+dv_has_:
+  name_:
+    an: Protoxerini
+    arz: البروتوكسيرينى
+    ast: Protoxerini
+    bg: Protoxerini
+    ca: Protoxerini
+    ceb: Protoxerini
+    de: Protoxerini
+    en: Protoxerini
+    eo: Protoxerini
+    es: Protoxerini
+    eu: Protoxerini
+    ext: Protoxerini
+    fa: سنجاب درختی آفریقایی
+    fi: Protoxerini
+    fr: Protoxerini
+    ga: Protoxerini
+    gl: Protoxerini
+    he: סנאי קרקע ענקים
+    hu: Protoxerini
+    ia: Protoxerini
+    ie: Protoxerini
+    io: Protoxerini
+    it: Protoxerini
+    ko: 아프리카큰다람쥐족
+    la: Protoxerini
+    lv: Āfrikas vāveres
+    mul: Protoxerini
+    nl: Protoxerini
+    oc: Protoxerini
+    pl: Olejówki
+    pt: Protoxerini
+    pt-br: Protoxerini
+    ro: Protoxerini
+    ru: Protoxerini
+    sq: Protoxerini
+    uk: Protoxerini
+    vi: Protoxerini
+    vo: Protoxerini
+    war: Protoxerini
 ---
 # [[Protoxerini]]
 

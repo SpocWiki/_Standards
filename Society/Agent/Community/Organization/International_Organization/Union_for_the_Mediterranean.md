@@ -1,19 +1,73 @@
 ---
-has_time_started: 2008-07-13 
+has_time_started: 2008-07-13
 aliases:
-  - Union for the Mediterranean
-  - Union pour la Méditerranée
-  - الاتحاد من أجل المتوسط
-  - Al-Ittiḥād min ajl al-Mutawasseṭ
-  - Union_for_the_Mediterranean
+- Akdeniz için Birlik
+- Akdeniz İçin Birlik
+- Al-Ittiḥād min ajl al-Mutawasseṭ
+- Aralıq dənizi İttifaqı
+- Bashkimi për Mesdheun
+- Kesatuan Mediterranean
+- Liên minh Địa Trung Hải
+- Medelhavsunionen
+- Mediteranska unija
+- Mediterraneoko Batasuna
+- Mediterrán Unió
+- Sredozemna unija
+- UFM
+- Uni untuk Mediterania
+- Unia na rzecz Regionu Morza Śródziemnego
+- Unie pro Středomoří
+- Unie voor het Middellandse Zeegebied
+- Unija za Mediteran
+- Unija za Sredozemlje
+- Unio por la Mediteraneo
+- Union for the Mediterranean
+- Union für das Mittelmeer
+- Union par el Mediteràneo
+- Union pour la Méditerranée
+- Union pro le Mediterraneo
+- Unione per il Mediterraneo
+- Unionen for Middelhavet
+- Unionka Mediterraneanka
+- Union_for_the_Mediterranean
+- Uniunea Mediteraneeană
+- União para o Mediterrâneo
+- Unió per la Mediterrània
+- Unión para el Mediterráneo
+- Unión para o Mediterráneo
+- Vahemere Liit
+- Välimeren unioni
+- Xunión pol Mediterraneu
+- Únia pre Stredomorie
+- Ένωση για τη Μεσόγειο
+- Ак диңгез өчен берлек
+- Лаьттайуккъера хӀордан барт
+- Міжземнаморскі зьвяз
+- Саюз для Міжземнамор'я
+- Середземноморський союз
+- Союз для Средиземноморья
+- Средиземноморски съюз
+- Унија за Медитеран
+- Урта диңгеҙ буйы өсөн союз
+- Միջերկրածովյան միություն
+- איחוד מדינות הים התיכון
+- פארבאנד פאר די מיטלענדישע לענדער
+- اتحادیه کشورهای دریای مدیترانه
+- الاتحاد للمتوسط
+- الاتحاد من أجل المتوسط
+- ხმელთაშუა ზღვის კავშირი
+- 地中海联盟
+- 地中海聯盟
+- 地中海連合
+- 지중해 연합
 has_id_wikidata: Q192177
 operating_area: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
 instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
 award_received: "[[_Standards/WikiData/WD~Saint_George's_Cross,1139785]]"
 has_part_s_: '[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Union_for_the_Mediterranean,1375081]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Palau_Reial_de_Pedralbes,1815135]]'
-  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Palau_Reial_de_Pedralbes,1815135]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492]]'
 location_of_formation: '[[_Standards/WikiData/WD~Paris,90]]'
 official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 social_media_followers: 111318
@@ -24,8 +78,73 @@ Commons_category: Union for the Mediterranean
 Commons_gallery: Union pour la Méditerranée
 short_name: UfM
 inception: 2008-07-13T00:00:00Z
+dv_has_:
+  name_:
+    ar: الاتحاد من أجل المتوسط
+    arz: الاتحاد للمتوسط
+    ast: Xunión pol Mediterraneu
+    az: Aralıq dənizi İttifaqı
+    ba: Урта диңгеҙ буйы өсөн союз
+    be: Саюз для Міжземнамор'я
+    be-tarask: Міжземнаморскі зьвяз
+    bg: Средиземноморски съюз
+    bs: Mediteranska unija
+    ca: Unió per la Mediterrània
+    ce: Лаьттайуккъера хӀордан барт
+    cs: Unie pro Středomoří
+    de: Union für das Mittelmeer
+    el: Ένωση για τη Μεσόγειο
+    en: Union for the Mediterranean
+    eo: Unio por la Mediteraneo
+    es: Unión para el Mediterráneo
+    et: Vahemere Liit
+    eu: Mediterraneoko Batasuna
+    fa: اتحادیه کشورهای دریای مدیترانه
+    fi: Välimeren unioni
+    fr: Union pour la Méditerranée
+    gag: Akdeniz İçin Birlik
+    gl: Unión para o Mediterráneo
+    he: איחוד מדינות הים התיכון
+    hr: Sredozemna unija
+    hu: Mediterrán Unió
+    hy: Միջերկրածովյան միություն
+    ia: Union pro le Mediterraneo
+    id: Uni untuk Mediterania
+    it: Unione per il Mediterraneo
+    ja: 地中海連合
+    ka: ხმელთაშუა ზღვის კავშირი
+    ko: 지중해 연합
+    ms: Kesatuan Mediterranean
+    nb: Unionen for Middelhavet
+    nl: Unie voor het Middellandse Zeegebied
+    pl: Unia na rzecz Regionu Morza Śródziemnego
+    pt: União para o Mediterrâneo
+    ro: Uniunea Mediteraneeană
+    ru: Союз для Средиземноморья
+    sh: Unija za Mediteran
+    sk: Únia pre Stredomorie
+    sl: Unija za Sredozemlje
+    so: Unionka Mediterraneanka
+    sq: Bashkimi për Mesdheun
+    sr: Унија за Медитеран
+    sr-ec: Унија за Медитеран
+    sr-el: Unija za Mediteran
+    sv: Medelhavsunionen
+    sw: UFM
+    tr: Akdeniz için Birlik
+    tt: Ак диңгез өчен берлек
+    uk: Середземноморський союз
+    vec: Union par el Mediteràneo
+    vi: Liên minh Địa Trung Hải
+    yi: פארבאנד פאר די מיטלענדישע לענדער
+    zh: 地中海聯盟
+    zh-cn: 地中海联盟
+    zh-hans: 地中海联盟
+    zh-hant: 地中海聯盟
+    zh-hk: 地中海聯盟
+    zh-sg: 地中海联盟
+    zh-tw: 地中海聯盟
 ---
-
 # [[Union_for_the_Mediterranean]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Union_for_the_Mediterranean,192177|WD~Union_for_the_Mediterranean,192177]]   

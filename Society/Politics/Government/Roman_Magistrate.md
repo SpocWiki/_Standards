@@ -1,9 +1,85 @@
 ---
 aliases:
-  - Roman magistrate
-  - Roman_Magistrate
-  - Roman Magistrate
+- Erromako magistratu
+- giúistís Rómhánach
+- magistrado romano
+- Magistrat
+- magistrat romain
+- magistrat romà
+- magistratas
+- Magistratlar
+- magistrato romano
+- Magistratus
+- maxistrado romano
+- mazistrato roman
+- Rimski magistrati
+- Roman magistrate
+- Roman_Magistrate
+- Romersk magistrat
+- Romia magistrato
+- Rzymska Magistratura
+- Rímsky magistrát
+- Ρωμαίος άρχοντας
+- древнеримский магистрат
+- Магистрат
+- Маґистрат
+- Римски магистрат
+- старажытнарымскі магістрат
+- מגיסטראט
+- حاكم روماني
+- د روم د قضايه يا اجرائيه قوې مشر
+- کلانتر (روم)
+- მაგისტრატები
+- 政務官
+- 政務官 (ローマ)
+- 마지스트라투스
 has_id_wikidata: Q20778343
+dv_has_:
+  name_:
+    ar: حاكم روماني
+    be-tarask: старажытнарымскі магістрат
+    ca: magistrat romà
+    cs: Magistratus
+    da: Romersk magistrat
+    de: Magistrat
+    el: Ρωμαίος άρχοντας
+    en: Roman magistrate
+    eo: Romia magistrato
+    es: magistrado romano
+    eu: Erromako magistratu
+    fa: کلانتر (روم)
+    fr: magistrat romain
+    ga: giúistís Rómhánach
+    gl: maxistrado romano
+    he: מגיסטראט
+    hr: Rimski magistrati
+    hu: magistratus
+    id: Magistratus
+    it: magistrato romano
+    ja: 政務官 (ローマ)
+    ka: მაგისტრატები
+    ko: 마지스트라투스
+    la: Magistratus
+    lt: magistratas
+    mk: Римски магистрат
+    ms: Magistratus
+    nb: magistrat
+    nl: magistratus
+    pl: Rzymska Magistratura
+    ps: د روم د قضايه يا اجرائيه قوې مشر
+    pt: magistrado romano
+    ro: Magistratus
+    rsk: Маґистрат
+    ru: древнеримский магистрат
+    sh: Rimski magistrati
+    sk: Rímsky magistrát
+    sl: magistrat
+    sr: Магистрат
+    sv: romersk magistrat
+    tr: Magistratus
+    uz: Magistratlar
+    vec: mazistrato roman
+    zh: 政務官
 ---
 # [[Roman_Magistrate]] 
 

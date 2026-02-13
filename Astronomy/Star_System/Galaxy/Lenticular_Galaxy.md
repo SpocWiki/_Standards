@@ -1,34 +1,157 @@
 ---
 aliases:
-  - lenticular galaxy
-  - Lenticular_Galaxy
-  - Lenticular Galaxy
+- co-rollageys daa-ghronnagh
+- Galaeth lensaidd
+- Galaksi lentikular
+- Galaksiyo mercekın
+- Galaktyka soczewkowata
+- galassia lenticolare
+- Galaxa lenticular
+- galaxia lenticular
+- Galaxia lenticulara
+- Galaxia lentikular
+- galaxie lenticulaire
+- galaxie lenticulară
+- galàxia lenticular
+- galáxia lenticular
+- Hàm-kiàⁿ-chōng gîn-hô
+- lensosimila galaksio
+- lensvormig sterrenstelsel
+- lensvormige sterrestelsel
+- lenticular galaxy
+- Lenticular_Galaxy
+- Lentikularna galaksija
+- lentikuláris galaxis
+- lećasta galaksija
+- lećasta galaktika
+- lečasta galaksija
+- linseforma galakse
+- linseformet galakse
+- linsenförmige Galaxie
+- linsformad galax
+- linssimäinen galaksi
+- Lënsefërmeg Galaxie
+- Lęšinė galaktika
+- Merceksi galaksi
+- réaltra lionsach
+- thiên hà hình hạt đậu
+- Umthalakazi ogungubele
+- čočková galaxie
+- šošovková galaxia
+- φακοειδής γαλαξίας
+- Лінзападобная галактыка
+- лінзападобная галяктыка
+- лінзоподібна галактика
+- леќеста галаксија
+- лентикуларна галаксија
+- Лещовидна галактика
+- линзасыман галактика
+- линзовидная галактика
+- ոսպնյակաձև գալակտիկա
+- גלקסיית עדשה
+- مجرة محدبة
+- کهکشان عدسی
+- मसूराकार दीर्घिका
+- लेंसनुमा गैलेक्सी
+- ดาราจักรชนิดลูกสะบ้า
+- レンズ状銀河
+- 透鏡狀星系
+- 透镜状星系
+- 렌즈형 은하
 has_id_wikidata: Q192078
-followed_by: "[[_Standards/WikiData/WD~elliptical_galaxy,184348]]"
-subclass_of: "[[_Standards/WikiData/WD~disc_galaxy,1371025]]"
-follows: "[[_Standards/WikiData/WD~spiral_galaxy,2488]]"
+followed_by: '[[_Standards/WikiData/WD~elliptical_galaxy,184348]]'
+subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025]]'
+follows: '[[_Standards/WikiData/WD~spiral_galaxy,2488]]'
 Commons_category: Lenticular galaxies
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Lenticular_galaxy,192078]]"
-    - "[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]"
-    - "[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]"
-    - "[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]"
-    - "[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]"
-    - "[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]"
+  - '[[../../../WikiData/WD~Lenticular_galaxy,192078]]'
+  - '[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]'
+  - '[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]'
+  - '[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]'
+  - '[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]'
+  - '[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Lenticular_galaxy,192078]]"
-  - "[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]"
-  - "[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]"
-  - "[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]"
-  - "[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]"
-  - "[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]"
+- '[[../../../WikiData/WD~Lenticular_galaxy,192078]]'
+- '[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]'
+- '[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]'
+- '[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]'
+- '[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]'
+- '[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]'
+- '[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]'
+- '[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]'
+dv_has_:
+  name_:
+    af: lensvormige sterrestelsel
+    ar: مجرة محدبة
+    ast: Galaxa lenticular
+    be: Лінзападобная галактыка
+    be-tarask: лінзападобная галяктыка
+    bg: Лещовидна галактика
+    bs: lećasta galaksija
+    ca: galàxia lenticular
+    cs: čočková galaxie
+    cy: Galaeth lensaidd
+    de: linsenförmige Galaxie
+    diq: Galaksiyo mercekın
+    el: φακοειδής γαλαξίας
+    en: lenticular galaxy
+    eo: lensosimila galaksio
+    es: galaxia lenticular
+    eu: Galaxia lentikular
+    fa: کهکشان عدسی
+    fi: linssimäinen galaksi
+    fr: galaxie lenticulaire
+    ga: réaltra lionsach
+    gl: galaxia lenticular
+    gv: co-rollageys daa-ghronnagh
+    he: גלקסיית עדשה
+    hi: लेंसनुमा गैलेक्सी
+    hr: lećasta galaktika
+    hu: lentikuláris galaxis
+    hy: ոսպնյակաձև գալակտիկա
+    id: Galaksi lentikular
+    it: galassia lenticolare
+    ja: レンズ状銀河
+    ko: 렌즈형 은하
+    lb: Lënsefërmeg Galaxie
+    lt: Lęšinė galaktika
+    mk: леќеста галаксија
+    mr: मसूराकार दीर्घिका
+    nan: Hàm-kiàⁿ-chōng gîn-hô
+    nb: linseformet galakse
+    nl: lensvormig sterrenstelsel
+    nn: linseforma galakse
+    oc: Galaxia lenticulara
+    pl: Galaktyka soczewkowata
+    pt: galáxia lenticular
+    ro: galaxie lenticulară
+    ru: линзовидная галактика
+    sh: Lentikularna galaksija
+    sk: šošovková galaxia
+    sl: lečasta galaksija
+    sr: лентикуларна галаксија
+    sr-ec: Лентикуларна галаксија
+    sr-el: Lentikularna galaksija
+    sv: linsformad galax
+    th: ดาราจักรชนิดลูกสะบ้า
+    tr: Merceksi galaksi
+    tt: линзасыман галактика
+    uk: лінзоподібна галактика
+    vi: thiên hà hình hạt đậu
+    wuu: 透镜状星系
+    yue: 透鏡狀星系
+    zh: 透鏡狀星系
+    zh-cn: 透镜状星系
+    zh-hans: 透镜状星系
+    zh-hant: 透鏡狀星系
+    zh-hk: 透鏡狀星系
+    zh-sg: 透镜状星系
+    zh-tw: 透鏡狀星系
+    zu: Umthalakazi ogungubele
 ---
-
 # [[Lenticular_Galaxy]] 
 
 #is_/same_as :: [[WD~Lenticular_galaxy,192078]] 

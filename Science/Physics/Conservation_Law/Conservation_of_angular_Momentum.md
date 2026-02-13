@@ -1,9 +1,172 @@
 ---
 has_id_wikidata: Q161254
+dv_has_:
+  name_:
+    af: hoekmomentum
+    ar: زخم زاوي
+    ast: momentu angular
+    az: impuls momenti
+    be: момант імпульсу
+    be-tarask: момант імпульсу
+    bg: момент на импулса
+    bn: কৌণিক ভরবেগ
+    bs: ugaona količina kretanja
+    ca: moment angular
+    ckb: گۆشە تەوژم
+    cs: moment hybnosti
+    cv: Импульс саманчĕ
+    da: impulsmoment
+    de: Drehimpuls
+    el: Στροφορμή
+    en: angular momentum
+    eo: angula movokvanto
+    es: momento angular
+    et: impulsimoment
+    eu: momentu angeluar
+    fa: تکانه زاویهای
+    fi: pyörimismäärä
+    fr: moment cinétique
+    frr: Dreiimpuls
+    ga: móiminteam uilleach
+    gl: Momento angular
+    gu: કોણીય વેગમાન
+    he: תנע זוויתי
+    hi: कोणीय संवेग
+    hr: kutna količina gibanja
+    hu: perdület
+    hy: Իմպուլսի մոմենտ
+    id: momentum sudut
+    is: hverfiþungi
+    it: momento angolare
+    ja: 角運動量
+    ka: იმპულსის მომენტი
+    kab: Imir uɣmir
+    kk: Қозғалыс мөлшері моменті
+    kk-arab: قوزعالىس مولشەرى مومەنتى
+    kk-cn: قوزعالىس مولشەرى مومەنتى
+    kk-cyrl: Қозғалыс мөлшері моменті
+    kk-kz: Қозғалыс мөлшері моменті
+    kk-latn: Qozğalıs mölşeri momenti
+    kk-tr: Qozğalıs mölşeri momenti
+    ko: 각운동량
+    lt: judesio kiekio momentas
+    lv: impulsa moments
+    lzh: 角動量
+    mag: कोणीय संवेग
+    mk: Момент на импулсот
+    mr: कोनीय संवेग
+    ms: momentum sudut
+    my: ထောင့်ပြောင်းအဟုန်
+    nb: drivmoment
+    nl: impulsmoment
+    nn: vinkelmoment
+    oc: moment cinetic
+    pa: ਐਂਗੁਲਰ ਮੋਮੈਂਟਮ
+    pl: moment pędu
+    pms: moment angolar
+    pt: momento angular
+    ro: Moment cinetic
+    ru: момент импульса
+    sco: angular momentum
+    sh: Moment impulsa
+    si: කෝණික ගම්යතාවය
+    sk: Moment hybnosti
+    sl: vrtilna količina
+    sq: Impulsi këndor
+    sr: момент импулса
+    sr-ec: момент импулса
+    sr-el: Moment impulsa
+    su: Moméntum sudut
+    sv: rörelsemängdsmoment
+    ta: வளைவுந்தம்
+    te: కోణీయ ద్రవ్యవేగం
+    th: โมเมนตัมเชิงมุม
+    tr: Açısal momentum
+    tt: İmpuls momentı
+    uk: момент імпульсу
+    ur: زاویائی معیار حرکت
+    vi: Mô men động lượng
+    wuu: 角动量
+    yue: 角動量
+    zh: 角动量
+    zh-cn: 角动量
+    zh-hans: 角动量
+    zh-hant: 角動量
+    zh-hk: 角動量
+    zh-sg: 角动量
+    zh-tw: 角動量
+aliases:
+- angula movokvanto
+- angular momentum
+- Açısal momentum
+- Drehimpuls
+- Dreiimpuls
+- drivmoment
+- hoekmomentum
+- hverfiþungi
+- Imir uɣmir
+- impuls momenti
+- impulsa moments
+- Impulsi këndor
+- impulsimoment
+- impulsmoment
+- judesio kiekio momentas
+- kutna količina gibanja
+- moment angolar
+- moment angular
+- Moment cinetic
+- moment cinétique
+- moment hybnosti
+- Moment impulsa
+- moment pędu
+- momento angolare
+- momento angular
+- momentu angeluar
+- momentu angular
+- momentum sudut
+- Moméntum sudut
+- móiminteam uilleach
+- Mô men động lượng
+- perdület
+- pyörimismäärä
+- Qozğalıs mölşeri momenti
+- rörelsemängdsmoment
+- ugaona količina kretanja
+- vinkelmoment
+- vrtilna količina
+- İmpuls momentı
+- Στροφορμή
+- Импульс саманчĕ
+- момант імпульсу
+- момент імпульсу
+- момент импулса
+- момент импульса
+- момент на импулса
+- Момент на импулсот
+- Қозғалыс мөлшері моменті
+- Իմպուլսի մոմենտ
+- תנע זוויתי
+- تکانه زاویهای
+- زاویائی معیار حرکت
+- زخم زاوي
+- قوزعالىس مولشەرى مومەنتى
+- گۆشە تەوژم
+- कोणीय संवेग
+- कोनीय संवेग
+- কৌণিক ভরবেগ
+- ਐਂਗੁਲਰ ਮੋਮੈਂਟਮ
+- કોણીય વેગમાન
+- வளைவுந்தம்
+- కోణీయ ద్రవ్యవేగం
+- කෝණික ගම්යතාවය
+- โมเมนตัมเชิงมุม
+- ထောင့်ပြောင်းအဟုန်
+- იმპულსის მომენტი
+- 角动量
+- 角動量
+- 角運動量
+- 각운동량
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > Angular momentum (sometimes called moment of momentum or rotational momentum) 

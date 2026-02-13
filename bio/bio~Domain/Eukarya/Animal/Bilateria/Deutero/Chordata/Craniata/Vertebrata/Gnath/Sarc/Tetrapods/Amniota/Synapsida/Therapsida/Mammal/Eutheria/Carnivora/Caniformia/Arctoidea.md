@@ -1,8 +1,78 @@
 ---
 has_id_wikidata: Q3235669
+dv_has_:
+  name_:
+    an: Arctoidea
+    ar: دبيات الشكل
+    ast: Arctoidea
+    bg: Arctoidea
+    ca: Arctoïdeus
+    ceb: Arctoidea
+    cs: Arctoidea
+    de: Arctoidea
+    el: Arctoidea
+    en: Arctoidea
+    eo: Arctoidea
+    es: Arctoidea
+    eu: Arctoidea
+    ext: Arctoidea
+    fa: خرسواران
+    fi: Arctoidea
+    fr: Arctoidea
+    fy: Poalrôfdieren
+    ga: Arctoidea
+    gl: Arctoidea
+    he: ארקטואידה
+    ia: Arctoidea
+    ie: Arctoidea
+    io: Arctoidea
+    it: Arctoidea
+    ja: クマ下目
+    la: Arctoidea
+    mrj: Мӧскӓ ганьывлӓ
+    mul: Arctoidea
+    nan: Arctoidea
+    nb: Bjørnelignende rovpattedyr
+    nl: Arctoidea
+    oc: Arctoidea
+    pl: Arctoidea
+    pt: Arctoidea
+    pt-br: Arctoidea
+    ro: Arctoidea
+    ru: Arctoidea
+    sco: Arctoidea
+    sl: Arctoidea
+    sq: Arctoidea
+    sr: медведолике звери
+    sv: Arctoidea
+    ta: ஆர்க்டோயிடே
+    tr: Arctoidea
+    uk: ведмедюваті
+    vi: Arctoidea
+    vo: Arctoidea
+    war: Arctoidea
+    zh: 熊型下目
+    zh-cn: 熊型下目
+    zh-hans: 熊型下目
+    zh-hant: 熊型總科
+    zh-hk: 熊型總科
+    zh-tw: 熊型下目
+aliases:
+- Arctoidea
+- Arctoïdeus
+- Bjørnelignende rovpattedyr
+- Poalrôfdieren
+- ведмедюваті
+- медведолике звери
+- Мӧскӓ ганьывлӓ
+- ארקטואידה
+- خرسواران
+- دبيات الشكل
+- ஆர்க்டோயிடே
+- クマ下目
+- 熊型下目
+- 熊型總科
 ---
-
-
 # [[Arctoidea]] 
 
 #is_/same_as :: [[Arctoidea]]

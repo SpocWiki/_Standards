@@ -1,9 +1,57 @@
 ---
 has_id_wikidata: Q729271
+dv_has_:
+  name_:
+    bs: Kontekstno nezavisni jezik
+    ca: Llenguatge lliure de context
+    cs: bezkontextový jazyk
+    de: Kontextfreie Sprache
+    en: context-free language
+    eo: senkunteksta lingvo
+    es: lenguaje libre de contexto
+    fa: زبان مستقل از متن
+    fi: Yhteydetön kieli
+    fr: langage algébrique
+    he: שפה חופשית הקשר
+    hr: Kontekstno neovisni jezik
+    it: linguaggio libero dal contesto
+    ja: 文脈自由言語
+    ko: 문맥 자유 언어
+    nb: kontekstfritt språk
+    nl: contextvrije taal
+    nn: Kontekstfritt språk
+    pl: Język bezkontekstowy
+    pt: linguagem livre de contexto
+    ro: Limbaje independente de context
+    sh: Kontekstno nezavisni jezik
+    sl: kontekstno neodvisni jezik
+    sr: Контекст-слободни језик
+    zh: 上下文无关语言
+aliases:
+- bezkontextový jazyk
+- context-free language
+- contextvrije taal
+- Język bezkontekstowy
+- kontekstfritt språk
+- kontekstno neodvisni jezik
+- Kontekstno neovisni jezik
+- Kontekstno nezavisni jezik
+- Kontextfreie Sprache
+- langage algébrique
+- lenguaje libre de contexto
+- Limbaje independente de context
+- linguagem livre de contexto
+- linguaggio libero dal contesto
+- Llenguatge lliure de context
+- senkunteksta lingvo
+- Yhteydetön kieli
+- Контекст-слободни језик
+- שפה חופשית הקשר
+- زبان مستقل از متن
+- 上下文无关语言
+- 文脈自由言語
+- 문맥 자유 언어
 ---
-
-
-
 > In formal language theory, a  context-free language (CFL) is a language 
 > generated/described by a context-free grammar (CFG).
 >

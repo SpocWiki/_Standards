@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Json-LD
-  - ''
+- Json-LD
+- யேசண்-எல்டி
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 expiryDate: ''
 has_time_started: 2023-10-26
@@ -13,7 +13,7 @@ isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-  - Json-LD
+- Json-LD
 lang: en
 layout: ''
 license: (c)copyrighted
@@ -22,11 +22,25 @@ Predicate: '[[Object]]'
 publish: false
 publishDate: ''
 tags:
-  - Json-LD
-  - rather use
+- Json-LD
+- rather use
 title: Json-LD
 type: private note
 has_id_wikidata: Q6108942
+dv_has_:
+  name_:
+    cs: JSON-LD
+    en: JSON-LD
+    fi: JSON-LD
+    fr: JSON-LD
+    id: JSON-LD
+    it: JSON-LD
+    ko: JSON-LD
+    mul: JSON-LD
+    nl: JSON-LD
+    sv: JSON-LD
+    ta: யேசண்-எல்டி
+    uk: JSON-LD
 ---
 # [[Json-LD]]
 

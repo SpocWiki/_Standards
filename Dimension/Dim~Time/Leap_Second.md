@@ -1,33 +1,155 @@
 ---
-has_time_started: 1972-06-30 
-has_time_stopped: 2035-01-01 
+has_time_started: 1972-06-30
+has_time_stopped: 2035-01-01
 aliases:
-  - Scheltsekunde
-  - Leap_Second
-  - Leap Second
+- artık saniye
+- detik kabisat
+- eiliad naid
+- Giây nhuận
+- karkaussekunti
+- Leap Second
+- Leap_Second
+- liekā sekunde
+- liigsekund
+- prestopna sekunda
+- prestupna sekunda
+- priestupná sekunda
+- prijestupna sekunda
+- přestupná sekunda
+- saat lompat
+- Schaltsekunde
+- Scheltsekunde
+- schrikkelseconde
+- seconde intercalaire
+- secondo ajuntada
+- secondo intercalare
+- secundum intercalarium
+- secundă intercalată
+- segon intercalar
+- Segonda intercalara
+- segundo bissexto
+- segundo gehigarri
+- segundo intercalar
+- sekunda przestępna
+- skotsekund
+- skottsekund
+- skrikkelsekonde
+- skuddsekund
+- skudsekund
+- soicind bisigh
+- supersekundo
+- szökőmásodperc
+- εμβόλιμο δευτερόλεπτο
+- високосна секунда
+- высакосная сэкунда
+- секунда каардынацыі
+- секунда координации
+- կոորդինացիոն վայրկյան
+- דקה מעוברת
+- ثانية كبيسة
+- ثانیه کبیسه
+- لیپ سیکنڈ
+- লিপ সেকেন্ড
+- ଅଧିସେକେଣ୍ଡ
+- லீப் நொடி
+- ലീപ് സെക്കന്റ്
+- อธิกวินาที
+- ⵜⴰⵙⵉⵏⵜ ⵜⴰⵎⴰⵏⴰⵥⵜ
+- 閏秒
+- 闰秒
+- 윤초
 has_id_wikidata: Q194230
 instance_of: '[[_Standards/WikiData/WD~intercalation,1225911]]'
 part_of:
-  - '[[_Standards/WikiData/WD~23_59,55812369]]'
-  - '[[_Standards/WikiData/WD~Coordinated_Universal_Time,1536]]'
+- '[[_Standards/WikiData/WD~23_59,55812369]]'
+- '[[_Standards/WikiData/WD~Coordinated_Universal_Time,1536]]'
 followed_by: '[[_Standards/WikiData/WD~00_00_00,95002169]]'
 follows: '[[_Standards/WikiData/WD~23_59_59,95144206]]'
 subclass_of: '[[_Standards/WikiData/WD~second,11574]]'
 start_time: 1972-06-30T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Apanhei%20o%202012.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Leap%20Second%20-%20June%2030%2C%202012.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Apanhei%20o%202012.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Leap%20Second%20-%20June%2030%2C%202012.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Leapsecond.ut1-utc.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Skudsekund2.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/leap-second
 described_at_URL:
-  - https://www.nytimes.com/2022/11/14/science/time-leap-second.html
-  - https://www.nytimes.com/2023/11/03/science/time-leap-second.html
+- https://www.nytimes.com/2022/11/14/science/time-leap-second.html
+- https://www.nytimes.com/2023/11/03/science/time-leap-second.html
 Commons_category: Leap second
 hashtag: LeapSecond
 dissolved_abolished_or_demolished_date: 2035-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: skrikkelsekonde
+    ar: ثانية كبيسة
+    be: секунда каардынацыі
+    be-tarask: высакосная сэкунда
+    bg: високосна секунда
+    bn: লিপ সেকেন্ড
+    ca: segon intercalar
+    cs: přestupná sekunda
+    cy: eiliad naid
+    da: skudsekund
+    de: Schaltsekunde
+    de-ch: Schaltsekunde
+    el: εμβόλιμο δευτερόλεπτο
+    en: leap second
+    eo: supersekundo
+    es: segundo intercalar
+    et: liigsekund
+    eu: segundo gehigarri
+    fa: ثانیه کبیسه
+    fi: karkaussekunti
+    fr: seconde intercalaire
+    fy: skrikkelsekonde
+    ga: soicind bisigh
+    he: דקה מעוברת
+    hr: prijestupna sekunda
+    hu: szökőmásodperc
+    hy: կոորդինացիոն վայրկյան
+    id: detik kabisat
+    io: secondo ajuntada
+    it: secondo intercalare
+    ja: 閏秒
+    ko: 윤초
+    la: secundum intercalarium
+    lfn: secondo ajuntada
+    lv: liekā sekunde
+    ml: ലീപ് സെക്കന്റ്
+    ms: saat lompat
+    nb: skuddsekund
+    nl: schrikkelseconde
+    nn: skotsekund
+    oc: Segonda intercalara
+    or: ଅଧିସେକେଣ୍ଡ
+    pl: sekunda przestępna
+    pt: segundo bissexto
+    pt-br: segundo bissexto
+    ro: secundă intercalată
+    ru: секунда координации
+    sh: prijestupna sekunda
+    sk: priestupná sekunda
+    sl: prestopna sekunda
+    sr: prestupna sekunda
+    sv: skottsekund
+    ta: லீப் நொடி
+    th: อธิกวินาที
+    tr: artık saniye
+    uk: високосна секунда
+    ur: لیپ سیکنڈ
+    vi: Giây nhuận
+    wuu: 闰秒
+    yue: 閏秒
+    zgh: ⵜⴰⵙⵉⵏⵜ ⵜⴰⵎⴰⵏⴰⵥⵜ
+    zh: 闰秒
+    zh-cn: 闰秒
+    zh-hans: 闰秒
+    zh-hant: 閏秒
+    zh-hk: 閏秒
+    zh-sg: 闰秒
+    zh-tw: 閏秒
 ---
-
 # [[Leap_Second]] 
 
 #is_/same_as :: [[../../WikiData/WD~Leap_second,194230|WD~Leap_second,194230]] 

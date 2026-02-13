@@ -1,9 +1,43 @@
 ---
 aliases:
-  - Mohammad Jaber Abdul Rahman Assaf
-  - Mohammad Assaf
-  - Assaf,Mohammed
+- Assaf,Mohammed
+- Mohamed Aszáf
+- Mohammad Assaf
+- Mohammad Jaber Abdul Rahman Assaf
+- Mohammed Assaf
+- Мохаммед Ассаф
+- מוחמד עסאף
+- محمد عساف
+- ムハンマド・アッサーフ
+- 穆罕默德·艾薩夫
+- 穆罕默德·阿薩夫
 has_id_wikidata: Q12240786
+dv_has_:
+  name_:
+    ar: محمد عساف
+    arz: محمد عساف
+    ca: Mohammed Assaf
+    de: Mohammed Assaf
+    en: Mohammed Assaf
+    en-ca: Mohammed Assaf
+    en-gb: Mohammed Assaf
+    es: Mohammed Assaf
+    fa: محمد عساف
+    fr: Mohammed Assaf
+    gl: Mohammed Assaf
+    he: מוחמד עסאף
+    hu: Mohamed Aszáf
+    ja: ムハンマド・アッサーフ
+    mzn: محمد عساف
+    nb: Mohammed Assaf
+    nl: Mohammed Assaf
+    pl: Mohammad Assaf
+    ro: Mohammed Assaf
+    ru: Мохаммед Ассаф
+    sq: Mohammed Assaf
+    sv: Mohammed Assaf
+    zh: 穆罕默德·阿薩夫
+    zh-hant: 穆罕默德·艾薩夫
 ---
 #has_/time_/started :: 1990-09-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

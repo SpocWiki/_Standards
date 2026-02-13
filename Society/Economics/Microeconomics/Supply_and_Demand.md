@@ -1,12 +1,96 @@
 ---
 aliases:
-  - Angebot und Nachfrage
-  - Supply_and_Demand
-  - Supply and Demand
+- Angebot und Nachfrage
+- arz ve talep
+- cerere și ofertă
+- domanda e offerta
+- Eskaintza eta eskaria
+- Fraach en oanbod
+- Framboð og eftirspurn
+- kereslet és kínálat
+- Kiong-kip kap su-kiû
+- Kysyntä ja tarjonta
+- Kërkesa dhe oferta
+- lei da oferta e da procura
+- Leje de ła domanda
+- Lex oblati et quaesiti
+- mendado kaj ofertado
+- nabídka a poptávka
+- nguyên lý cung–cầu
+- oferta e demanda
+- Oferta i demanda
+- oferta y demanda
+- offre et demande
+- Ofèrta e demanda
+- Pagpupuno at pangangailangan
+- Pakkumine ja nõudlus
+- paklausa ir pasiūla
+- Penawaran dan permintaan
+- Permintaan dan penawaran
+- piedāvājums un pieprasījums
+- ponuda i potražnja
+- ponudba in povpraševanje
+- Potražnja
+- soláthar agus éileamh
+- Soplai ah dimaan
+- supply an demand
+- Supply and Demand
+- Supply_and_Demand
+- Talab va taklif
+- tilbod og etterspurnad
+- tilbud og etterspørsel
+- Tolotra sy tinady
+- Tələb və təklif
+- udbud og efterspørgsel
+- Ufierta y demanda
+- utbud och efterfrågan
+- vraag en aanbod
+- Vıraştış u waştış
+- zakon ponude i potražnje
+- Νόμος της προσφοράς και της ζήτησης
+- Арза ва тақозо
+- Атыы уонна наадыйыы
+- Домæн æмæ æнхъарæн
+- закон попыту і прапановы
+- закон спроса и предложения
+- Ихтыяж һәм тәҡдим законы
+- Понуда и побарувачка
+- понуда и потражња
+- попит та пропозиція
+- попыт і прапанова
+- Потражња
+- Сұраныс және ұсыныс заңы
+- таләп һәм тәкъдим
+- Търсене и предлагане
+- Эрэлт
+- առաջարկի և պահանջարկի օրենք
+- היצע וביקוש
+- פארזארג און נאכפרעג
+- طلب و رسد
+- عرض وطلب
+- عرضه و تقاضا
+- وړانديز
+- आपूर्ति व माग
+- माँग और आपूर्ति
+- मागणी व पुरवठा
+- যোগান ও চাহিদা
+- கேள்வியும் நிரம்பலும்
+- సరఫరా మరియు గిరాకీ
+- ಮನಿ ಮಾರುಕಟ್ಟೆ
+- ඉල්ලුම සහ සැපයුම
+- อุปสงค์และอุปทาน
+- ການສະໜອງ ແລະ ຄວາມຕ້ອງການ
+- 供應同需求
+- 供應和需求
+- 供給和需求
+- 供给和需求
+- 供给搭需求
+- 需要と供給
+- 수요와 공급
 has_id_wikidata: Q166656
 has_part_s_:
-  - '[[_Standards/WikiData/WD~supply,542869]]'
-  - '[[_Standards/WikiData/WD~demand,4402708]]'
+- '[[_Standards/WikiData/WD~supply,542869]]'
+- '[[_Standards/WikiData/WD~demand,4402708]]'
 instance_of: '[[_Standards/WikiData/WD~economic_theory,1401304]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 facet_of: '[[_Standards/WikiData/WD~microeconomics,39072]]'
@@ -14,8 +98,104 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Supply-demand-equi
 U_S_National_Archives_Identifier: 10642576
 Commons_category: Supply and demand curves
 Dewey_Decimal_Classification: 338.521
+dv_has_:
+  name_:
+    af: vraag en aanbod
+    ar: عرض وطلب
+    ast: Ufierta y demanda
+    az: Tələb və təklif
+    ba: Ихтыяж һәм тәҡдим законы
+    be: закон попыту і прапановы
+    be-tarask: попыт і прапанова
+    bg: Търсене и предлагане
+    bn: যোগান ও চাহিদা
+    bs: ponuda i potražnja
+    ca: Oferta i demanda
+    cs: nabídka a poptávka
+    da: udbud og efterspørgsel
+    de: Angebot und Nachfrage
+    diq: Vıraştış u waştış
+    el: Νόμος της προσφοράς και της ζήτησης
+    en: supply and demand
+    en-ca: Supply and demand
+    en-gb: supply and demand
+    eo: mendado kaj ofertado
+    es: oferta y demanda
+    et: Pakkumine ja nõudlus
+    eu: Eskaintza eta eskaria
+    fa: عرضه و تقاضا
+    fi: Kysyntä ja tarjonta
+    fr: offre et demande
+    fy: Fraach en oanbod
+    ga: soláthar agus éileamh
+    gl: oferta e demanda
+    he: היצע וביקוש
+    hi: माँग और आपूर्ति
+    hr: zakon ponude i potražnje
+    hu: kereslet és kínálat
+    hy: առաջարկի և պահանջարկի օրենք
+    id: Penawaran dan permintaan
+    is: Framboð og eftirspurn
+    it: domanda e offerta
+    ja: 需要と供給
+    jam: Soplai ah dimaan
+    kk: Сұраныс және ұсыныс заңы
+    kn: ಮನಿ ಮಾರುಕಟ್ಟೆ
+    ko: 수요와 공급
+    la: Lex oblati et quaesiti
+    lo: ການສະໜອງ ແລະ ຄວາມຕ້ອງການ
+    lt: paklausa ir pasiūla
+    lv: piedāvājums un pieprasījums
+    mg: Tolotra sy tinady
+    mk: Понуда и побарувачка
+    mn: Эрэлт
+    mr: मागणी व पुरवठा
+    ms: Permintaan dan penawaran
+    nan: Kiong-kip kap su-kiû
+    nb: tilbud og etterspørsel
+    new: आपूर्ति व माग
+    nl: vraag en aanbod
+    nn: tilbod og etterspurnad
+    oc: Ofèrta e demanda
+    os: Домæн æмæ æнхъарæн
+    ps: وړانديز
+    pt: lei da oferta e da procura
+    pt-br: Lei da oferta e da procura
+    ro: cerere și ofertă
+    ru: закон спроса и предложения
+    sah: Атыы уонна наадыйыы
+    sco: supply an demand
+    sh: Ponuda i potražnja
+    si: ඉල්ලුම සහ සැපයුම
+    sl: ponudba in povpraševanje
+    sq: Kërkesa dhe oferta
+    sr: понуда и потражња
+    sr-ec: Потражња
+    sr-el: Potražnja
+    sv: utbud och efterfrågan
+    ta: கேள்வியும் நிரம்பலும்
+    te: సరఫరా మరియు గిరాకీ
+    tg: Арза ва тақозо
+    th: อุปสงค์และอุปทาน
+    tl: Pagpupuno at pangangailangan
+    tr: arz ve talep
+    tt: таләп һәм тәкъдим
+    uk: попит та пропозиція
+    ur: طلب و رسد
+    uz: Talab va taklif
+    vec: Leje de ła domanda
+    vi: nguyên lý cung–cầu
+    wuu: 供给搭需求
+    yi: פארזארג און נאכפרעג
+    yue: 供應同需求
+    zh: 供给和需求
+    zh-cn: 供给和需求
+    zh-hans: 供给和需求
+    zh-hant: 供給和需求
+    zh-hk: 供應和需求
+    zh-sg: 供给和需求
+    zh-tw: 供給和需求
 ---
-
 # [[Supply_and_Demand]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Supply_and_demand,166656|WD~Supply_and_demand,166656]] 

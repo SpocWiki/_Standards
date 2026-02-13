@@ -1,16 +1,62 @@
 ---
 aliases:
-  - Elektromagnet
-  - Electromagnet
+- electroimant
+- Electroimán
+- Electromagnet
+- Elektiroomaagneetii (Mandisloobilaa)
+- elektroiman
+- elektromagneet
+- Elektromagnes
+- Elektromagnet
+- elektromagnetas
+- elektromagneto
+- Elektromagnetët
+- Elektromagnit
+- Elektromagnéit
+- Elektromagnēts
+- Elektromaqnit
+- elektromágnes
+- Elektromıknatıs
+- Elektwo-eman
+- eletroímã
+- elettromagnete
+- Mbëjbijjaan
+- Nam châm điện
+- Sähkömagneetti
+- électroaimant
+- Ηλεκτρομαγνήτης
+- електромагніт
+- електромагнет
+- Електромагнит
+- электрамагніт
+- электромагнит
+- Էլեկտրամագնիս
+- אלקטרומגנט
+- آهنربای الکتریکی
+- مغناطيس كهربي
+- موگناتیسی کارەبایی
+- विद्युत चुंबक
+- विद्युत चुम्बक
+- বৈদ্যুতিক চুম্বক
+- மின்காந்தம்
+- విద్యుదయస్కాంతం
+- ವಿದ್ಯುತ್ಕಾಂತ
+- വൈദ്യുതകാന്തം
+- แม่เหล็กไฟฟ้า (ชนิดแม่เหล็ก)
+- 电磁铁
+- 電攝石
+- 電磁石
+- 電磁鐵
+- 전자석
 has_id_wikidata: Q178032
 discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Sturgeon,472515]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~magnetic_core,1088161]]'
-  - '[[_Standards/WikiData/WD~coil,2981904]]'
+- '[[_Standards/WikiData/WD~magnetic_core,1088161]]'
+- '[[_Standards/WikiData/WD~coil,2981904]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_magnets,50002046]]'
 subclass_of: '[[_Standards/WikiData/WD~magnet,11421]]'
 Commons_category: Electromagnets
@@ -19,8 +65,85 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20electromagnet
 IEV_number: 151-14-08
 Dewey_Decimal_Classification: 621.34
 Commons_gallery: Electromagnet
+dv_has_:
+  name_:
+    ar: مغناطيس كهربي
+    ast: Electroimán
+    az: Elektromaqnit
+    be: электрамагніт
+    be-tarask: электрамагніт
+    bg: Електромагнит
+    bn: বৈদ্যুতিক চুম্বক
+    ca: electroimant
+    ckb: موگناتیسی کارەبایی
+    cs: elektromagnet
+    cv: Электромагнит
+    da: elektromagnet
+    de: Elektromagnet
+    el: Ηλεκτρομαγνήτης
+    en: electromagnet
+    eo: elektromagneto
+    es: electroimán
+    et: Elektromagnet
+    eu: elektroiman
+    fa: آهنربای الکتریکی
+    fi: Sähkömagneetti
+    fr: électroaimant
+    gl: electroimán
+    he: אלקטרומגנט
+    hi: विद्युत चुम्बक
+    hr: Elektromagnet
+    ht: Elektwo-eman
+    hu: elektromágnes
+    hy: Էլեկտրամագնիս
+    id: elektromagnet
+    it: elettromagnete
+    ja: 電磁石
+    kn: ವಿದ್ಯುತ್ಕಾಂತ
+    ko: 전자석
+    lb: Elektromagnéit
+    lt: elektromagnetas
+    lv: Elektromagnēts
+    mk: електромагнет
+    ml: വൈദ്യുതകാന്തം
+    mr: विद्युत चुंबक
+    ms: Elektromagnet
+    nb: elektromagnet
+    nl: elektromagneet
+    nn: elektromagnet
+    om: Elektiroomaagneetii (Mandisloobilaa)
+    pl: Elektromagnes
+    pt: eletroímã
+    ro: electromagnet
+    ru: электромагнит
+    sco: electromagnet
+    sh: Elektromagnet
+    sk: Elektromagnet
+    sl: elektromagnet
+    sq: Elektromagnetët
+    sr: електромагнет
+    sr-ec: електромагнет
+    sr-el: elektromagnet
+    sv: elektromagnet
+    ta: மின்காந்தம்
+    te: విద్యుదయస్కాంతం
+    th: แม่เหล็กไฟฟ้า (ชนิดแม่เหล็ก)
+    tr: Elektromıknatıs
+    udm: электромагнит
+    uk: електромагніт
+    uz: Elektromagnit
+    vi: Nam châm điện
+    wo: Mbëjbijjaan
+    wuu: 电磁铁
+    yue: 電攝石
+    zh: 電磁鐵
+    zh-cn: 电磁铁
+    zh-hans: 电磁铁
+    zh-hant: 電磁鐵
+    zh-hk: 電磁鐵
+    zh-sg: 电磁铁
+    zh-tw: 電磁鐵
 ---
-
 # [[Electromagnet]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electromagnet,178032|WD~Electromagnet,178032]] 

@@ -1,24 +1,170 @@
 ---
 aliases:
+- cúlú eacnamaíochta
+- dirwasgiad
+- Discisa
+- Errezesio
+- Kemelesetan
+- lejupslīde
+- Majanduslangus
+- Rastrindance economike
+- recese
+- Recesia
+- Recesija
+- recesio
+- recesion
+- recesiune
+- recesión
+- recesja gospodarcza
+- recessie
+- recessio oeconomica
+- recession
+- recessione
+- recessió
+- recesszió
+- recessão
+- Resesi
+- resesjon
+- resessie
+- Resessiya
+- Resesyon
+- Rezession
+- Rezessioun
+- riċessjoni
+- récession
+- Seacadh
+- suy thoái kinh tế
+- taantuma
+- ύφεση
+- рецесія
+- Рецесија
+- Рецесия
+- рецессия
+- рэцэсія
+- դանդաղ անկում
+- מיתון
+- רעסעסיע
+- ركود
+- رکود اقتصادی
+- کساد بازاری
+- मंदी
+- অর্থনৈতিক মন্দা
+- பொருளியல் பின்னடைவு
+- తిరోగమనం
+- ภาวะเศรษฐกิจถดถอย
+- ເສດຖະກິດຕົກຕໍ່າ
+- 景気後退
+- 經濟衰退
+- 经济衰退
+- 경기후퇴
 has_id_wikidata: Q176494
 different_from:
-  - "[[_Standards/WikiData/WD~steady_state_economy,134775]]"
-  - "[[_Standards/WikiData/WD~economic_crisis,290178]]"
-  - "[[_Standards/WikiData/WD~degrowth,611217]]"
-  - "[[_Standards/WikiData/WD~economic_contraction,2995714]]"
-facet_of: "[[_Standards/WikiData/WD~economy,159810]]"
-opposite_of: "[[_Standards/WikiData/WD~economic_growth,189833]]"
-part_of: "[[_Standards/WikiData/WD~business_cycle,192311]]"
-subclass_of: "[[_Standards/WikiData/WD~social_issue,1920219]]"
-described_by_source: "[[_Standards/WikiData/WD~Investopedia,6060906]]"
-OmegaWiki_Defined_Meaning: "992666"
+- '[[_Standards/WikiData/WD~steady_state_economy,134775]]'
+- '[[_Standards/WikiData/WD~economic_crisis,290178]]'
+- '[[_Standards/WikiData/WD~degrowth,611217]]'
+- '[[_Standards/WikiData/WD~economic_contraction,2995714]]'
+facet_of: '[[_Standards/WikiData/WD~economy,159810]]'
+opposite_of: '[[_Standards/WikiData/WD~economic_growth,189833]]'
+part_of: '[[_Standards/WikiData/WD~business_cycle,192311]]'
+subclass_of: '[[_Standards/WikiData/WD~social_issue,1920219]]'
+described_by_source: '[[_Standards/WikiData/WD~Investopedia,6060906]]'
+OmegaWiki_Defined_Meaning: 992666
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Run%20on%20the%20Seamen%27s%20Savings%27%20Bank%20during%20the%20Panic%20of%201857.png
-U_S_National_Archives_Identifier: "10642538"
+U_S_National_Archives_Identifier: 10642538
 Iconclass_notation: 51LL41
 MeSH_tree_code: I01.261.425
 IPTC_NewsCode: mediatopic/20000383
+dv_has_:
+  name_:
+    af: resessie
+    ar: ركود
+    ast: Recesión
+    az: Resessiya
+    be: рэцэсія
+    be-tarask: рэцэсія
+    bg: Рецесия
+    bn: অর্থনৈতিক মন্দা
+    bs: Recesija
+    ca: recessió
+    cs: recese
+    cy: dirwasgiad
+    da: Recession
+    de: Rezession
+    diq: Resesyon
+    el: ύφεση
+    en: recession
+    en-ca: Recession
+    en-gb: recession
+    en-us: Recession
+    eo: recesio
+    es: recesión
+    et: Majanduslangus
+    eu: Errezesio
+    fa: رکود اقتصادی
+    fi: taantuma
+    fr: récession
+    ga: cúlú eacnamaíochta
+    gd: Seacadh
+    gl: recesión
+    he: מיתון
+    hi: मंदी
+    hr: recesija
+    hu: recesszió
+    hy: դանդաղ անկում
+    id: Resesi
+    it: recessione
+    ja: 景気後退
+    kk: Рецессия
+    ko: 경기후퇴
+    la: recessio oeconomica
+    lb: Rezessioun
+    lo: ເສດຖະກິດຕົກຕໍ່າ
+    lt: recesija
+    lv: lejupslīde
+    mk: Рецесија
+    mr: मंदी
+    ms: Kemelesetan
+    mt: riċessjoni
+    nb: resesjon
+    nl: recessie
+    nn: resesjon
+    pl: recesja gospodarcza
+    pnb: کساد بازاری
+    pt: recessão
+    pt-br: Recessão
+    ro: recesiune
+    ru: рецессия
+    sah: Рецессия
+    scn: Discisa
+    sh: Recesija
+    sk: Recesia
+    sl: recesija
+    sq: recesion
+    sr: рецесија
+    sr-ec: Рецесија
+    sr-el: Recesija
+    sv: recession
+    ta: பொருளியல் பின்னடைவு
+    te: తిరోగమనం
+    th: ภาวะเศรษฐกิจถดถอย
+    tl: Resesyon
+    tr: Resesyon
+    uk: рецесія
+    ur: کساد بازاری
+    vec: Recesion
+    vi: suy thoái kinh tế
+    wa: Rastrindance economike
+    wuu: 经济衰退
+    yi: רעסעסיע
+    yue: 經濟衰退
+    zh: 经济衰退
+    zh-cn: 经济衰退
+    zh-hans: 经济衰退
+    zh-hant: 經濟衰退
+    zh-hk: 經濟衰退
+    zh-sg: 经济衰退
+    zh-tw: 經濟衰退
 ---
-
 # [[Recession]] 
 
 #is_/same_as :: [[../../../WikiData/WD~recession,176494|WD~recession,176494]]  

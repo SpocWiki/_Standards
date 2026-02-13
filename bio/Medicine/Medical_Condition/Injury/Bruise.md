@@ -1,22 +1,78 @@
 ---
 aliases:
-  - Blauer Fleck
-  - contusion
-  - hematoma
-  - Hämatom
-  - Bruise
+- ballbhrú
+- Blau plak
+- Blauer Fleck
+- bloeding
+- blåmerke
+- blåmärke
+- Bruise
+- Bầm tím
+- contusion
+- contusione
+- contusió
+- contusión
+- contusão muscular
+- contuzie
+- hematoma
+- Hämatom
+- kontuzo
+- krókkà , ŋóròkkà
+- Lat yeyish
+- Lebam
+- Makatu
+- Mangana
+- Memar
+- Modrica
+- Muskelprellung
+- Mustelma
+- narblettur
+- podlitina
+- Prellung
+- Q'uyu
+- Rauni
+- sinikas
+- Soğıp alw
+- stłuczenie
+- udarnina
+- zúzódás
+- μώλωπας
+- Бәрелү
+- Забита рана
+- модрица
+- садно
+- Соғып алу
+- Ушиб
+- Կապտուկ
+- חבורה
+- رضة
+- سوعىپ الۋ
+- کبودی
+- کچلن
+- कुचलन
+- ਨੀਲ
+- சிராய்ப்பு
+- ಮೂಗೇಟು
+- ညိုမဲဒဏ်ရာ
+- လွၵ်ႈမၢၼ်ႉ
+- Ṉisoun
+- ọnya
+- 嚴重血腫
+- 打ち身
+- 瘀斑
+- 멍
 has_id_wikidata: Q574491
 subclass_of:
-  - '[[_Standards/WikiData/WD~blunt_trauma,770709]]'
-  - '[[_Standards/WikiData/WD~ecchymosis,1322382]]'
-  - '[[_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]'
+- '[[_Standards/WikiData/WD~blunt_trauma,770709]]'
+- '[[_Standards/WikiData/WD~ecchymosis,1322382]]'
+- '[[_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]'
 different_from:
-  - '[[_Standards/WikiData/WD~skin_abrasion,939378]]'
-  - '[[_Standards/WikiData/WD~laceration,4391416]]'
+- '[[_Standards/WikiData/WD~skin_abrasion,939378]]'
+- '[[_Standards/WikiData/WD~laceration,4391416]]'
 health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 DiseasesDB: 31998
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pferdekuss.jpg
@@ -24,8 +80,75 @@ exact_match: http://purl.obolibrary.org/obo/SYMP_0000406
 P8189: 987007566218705171
 UMLS_CUI: C0009938
 MeSH_tree_code: C26.974.250
+dv_has_:
+  name_:
+    ar: رضة
+    ast: Contusión
+    be-tarask: садно
+    ca: contusió
+    cs: podlitina
+    de: Prellung
+    el: μώλωπας
+    eml: Ṉisoun
+    en: bruise
+    eo: kontuzo
+    es: contusión
+    et: sinikas
+    eu: Makatu
+    fa: کبودی
+    fi: Mustelma
+    fr: contusion
+    fy: Blau plak
+    ga: ballbhrú
+    gl: contusión
+    gsw: Muskelprellung
+    ha: Rauni
+    he: חבורה
+    hi: कुचलन
+    hu: zúzódás
+    hy: Կապտուկ
+    id: Memar
+    ig: ọnya
+    is: narblettur
+    it: contusione
+    ja: 打ち身
+    kk: Соғып алу
+    kk-arab: سوعىپ الۋ
+    kk-cyrl: Соғып алу
+    kk-latn: Soğıp alw
+    kn: ಮೂಗೇಟು
+    ko: 멍
+    mcn: krókkà , ŋóròkkà
+    mg: Mangana
+    mk: модрица
+    ms: Lebam
+    my: ညိုမဲဒဏ်ရာ
+    nb: blåmerke
+    nl: bloeding
+    nn: blåmerke
+    pa: ਨੀਲ
+    pl: stłuczenie
+    pt: contusão muscular
+    qu: Q'uyu
+    ro: contuzie
+    ru: Ушиб
+    sco: bruise
+    shn: လွၵ်ႈမၢၼ်ႉ
+    sl: udarnina
+    sr: Modrica
+    sv: blåmärke
+    ta: சிராய்ப்பு
+    tt: Бәрелү
+    uk: Забита рана
+    ur: کچلن
+    uz: Lat yeyish
+    vi: Bầm tím
+    yue: 瘀斑
+    zh: 嚴重血腫
+    zh-hans: 瘀斑
+    zh-hant: 瘀斑
+    zh-hk: 瘀斑
 ---
-
 #is_/same_as :: [[../../../../WikiData/WD~Bruise,574491|WD~Bruise,574491]] 
 
 ## #has_/text_of_/abstract 

@@ -1,36 +1,160 @@
 ---
 aliases:
-  - Operations research
-  - operational research
-  - Operations_Research
-  - Operations Research
+- Aðgerðagreining
+- badania operacyjne
+- cercetare operațională
+- Ikerkuntza eragilea
+- investigació operativa
+- Investigación d'operaciones
+- Investigación de operaciones
+- Investigación operativa
+- investigação operacional
+- Kërkimet operacionale
+- operaatioanalyysi
+- operacia esploro
+- Operaciona istraživanja
+- Operasionele navorsing
+- operasjonsanalyse
+- operational research
+- operationeel onderzoek
+- Operations research
+- operationsanalys
+- operationsanalyse
+- Operations_Research
+- Operačná analýza
+- operační analýza
+- operációkutatás
+- Pamiling kasayoran ha operasyon
+- penyelidikan pengendalian
+- pesquisa operacional
+- raziskovanje operacij
+- recherche opérationnelle
+- ricerca operativa
+- riserca oparativa
+- Riset operasi
+- vận trù học
+- yöneylem araştırması
+- əməliyyat araşdırması
+- Επιχειρησιακή έρευνα
+- даследаванне аперацый
+- дасьледаваньне апэрацыяў
+- дослідження операцій
+- Изследване на операции
+- исследование операций
+- оперативно истражување
+- Операциона истраживања
+- Գործողությունների հետազոտում
+- חקר ביצועים
+- بحوث العمليات
+- تحقیق در عملیات
+- عملياتˇ تحقيق
+- لێکۆڵینەوەی ئۆپەراسیۆنەکان
+- ڤڽليديقن ڤڠندالين
+- संक्रिया विज्ञान
+- পরিক্রিয়াদি গবেষণাবিদ্যা
+- செய்பணி ஆய்வியல்
+- ഓപ്പറേഷൻസ് ഗവേഷണം
+- การวิจัยดำเนินการ
+- オペレーションズ・リサーチ
+- 运筹学
+- 運籌學
+- 운용과학
 has_id_wikidata: Q194292
 subclass_of:
-  - '[[_Standards/WikiData/WD~systems_science,2167061]]'
-  - '[[_Standards/WikiData/WD~management_science,2414942]]'
-  - '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]'
+- '[[_Standards/WikiData/WD~systems_science,2167061]]'
+- '[[_Standards/WikiData/WD~management_science,2414942]]'
+- '[[_Standards/WikiData/WD~industrial_engineering_and_operations_research,6027873]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~management_technique,118298890]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~management_technique,118298890]]'
 practiced_by: '[[_Standards/WikiData/WD~operations_researcher,112114257]]'
 Library_of_Congress_Classification: T57.6-T57.97
 Dewey_Decimal_Classification:
-  - 003
-  - 658.4034
+- 003
+- 658.4034
 Stack_Exchange_site_URL: https://or.stackexchange.com/
 OmegaWiki_Defined_Meaning: 535976
 U_S_National_Archives_Identifier: 10641204
 ACM_Classification_Code_2012_: 10010481
 UMLS_CUI: C0029066
 MeSH_tree_code:
-  - H01.770.644.333
-  - L01.906.394
+- H01.770.644.333
+- L01.906.394
 Commons_category: Operations research
 GitHub_topic: operations-research
 subreddit: OperationsResearch
+dv_has_:
+  name_:
+    af: Operasionele navorsing
+    ar: بحوث العمليات
+    ast: Investigación d'operaciones
+    az: əməliyyat araşdırması
+    be: даследаванне аперацый
+    be-tarask: дасьледаваньне апэрацыяў
+    bg: Изследване на операции
+    bn: পরিক্রিয়াদি গবেষণাবিদ্যা
+    ca: investigació operativa
+    ckb: لێکۆڵینەوەی ئۆپەراسیۆنەکان
+    cs: operační analýza
+    da: operationsanalyse
+    de: Operations Research
+    el: Επιχειρησιακή έρευνα
+    en: operations research
+    eo: operacia esploro
+    es: Investigación de operaciones
+    eu: Ikerkuntza eragilea
+    fa: تحقیق در عملیات
+    fi: operaatioanalyysi
+    fr: recherche opérationnelle
+    gl: Investigación operativa
+    glk: عملياتˇ تحقيق
+    he: חקר ביצועים
+    hi: संक्रिया विज्ञान
+    hu: operációkutatás
+    hy: Գործողությունների հետազոտում
+    id: Riset operasi
+    is: Aðgerðagreining
+    it: ricerca operativa
+    ja: オペレーションズ・リサーチ
+    ko: 운용과학
+    mk: оперативно истражување
+    ml: ഓപ്പറേഷൻസ് ഗവേഷണം
+    ms: penyelidikan pengendalian
+    ms-arab: ڤڽليديقن ڤڠندالين
+    nb: operasjonsanalyse
+    nl: operationeel onderzoek
+    nn: Operasjonsanalyse
+    pl: badania operacyjne
+    pt: investigação operacional
+    pt-br: pesquisa operacional
+    ro: cercetare operațională
+    ru: исследование операций
+    sh: Operaciona istraživanja
+    sk: Operačná analýza
+    sl: raziskovanje operacij
+    sq: Kërkimet operacionale
+    sr: Операциона истраживања
+    sr-ec: Операциона истраживања
+    sr-el: Operaciona istraživanja
+    sv: operationsanalys
+    ta: செய்பணி ஆய்வியல்
+    th: การวิจัยดำเนินการ
+    tr: yöneylem araştırması
+    uk: дослідження операцій
+    vec: riserca oparativa
+    vi: vận trù học
+    war: Pamiling kasayoran ha operasyon
+    wuu: 运筹学
+    yue: 運籌學
+    zh: 運籌學
+    zh-cn: 运筹学
+    zh-hans: 运筹学
+    zh-hant: 運籌學
+    zh-hk: 運籌學
+    zh-sg: 运筹学
+    zh-tw: 運籌學
 ---
-
 # [[Operations_Research]] 
 
 #is_/same_as :: [[WD~Operations_research,194292]] 

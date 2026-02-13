@@ -1,10 +1,42 @@
 ---
 aliases:
-  - Nadia_Comăneci
-  - Nadia Elena Comăneci Conner
-  - Nadia Elena Comăneci
-  - Nadia Comăneci
-  - Comăneci
+- Comăneci
+- Nadia Comaneci
+- Nadia Comaneciová
+- Nadia Comăneci
+- Nadia Comăneciová
+- Nadia Elena Comăneci
+- Nadia Elena Comăneci Conner
+- Nadia_Comăneci
+- Nadiya Komenech
+- Nadja Komeneči
+- Nadya Komaneci
+- Nadya Komaneçi
+- Νάντια Κομανέτσι
+- Нађа Команечи
+- Надја Команечи
+- Надзя Каманэчы
+- Надя Команечи
+- Надя Коменеч
+- Надя Комэнеч
+- Նադյա Կոմանեչի
+- נדיה קומנץ'
+- ناديا كومانتشى
+- ناديا كومانتشي
+- نادیا کومانچی
+- نادیہ کومانچی
+- नादिया कोमानेची
+- নাদিয়া কোমেনিচি
+- ਨਾਦੀਆ ਕੋਮਾਨੇਚੀ
+- நாடியா கொமனட்சி
+- నాదియా కామనేసి
+- നാദിയ കൊമനേച്ചി
+- นาดียา กอเมอเนช
+- ნადია კომენეჩი
+- ナディア・コマネチ
+- 歌曼妮芝
+- 纳迪娅·科马内奇
+- 나디아 코마네치
 has_id_wikidata: Q33228
 X_Twitter_username: nadiacomaneci10
 Facebook_username: NadiaComaneciOfficial
@@ -15,34 +47,34 @@ spouse: '[[_Standards/WikiData/WD~Bart_Conner,383942]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Bart_Conner,383942]]'
 place_of_birth: '[[_Standards/WikiData/WD~Onești,543436]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~International_Gymnastics_Hall_of_Fame,1666611]]'
-  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
-  - '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Star_of_Romania,20857555]]'
-  - '[[_Standards/WikiData/WD~Oklahoma_Sports_Hall_of_Fame,41655480]]'
-  - '[[_Standards/WikiData/WD~Hero_of_Socialist_Labour,57310697]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~International_Gymnastics_Hall_of_Fame,1666611]]'
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+- '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Star_of_Romania,20857555]]'
+- '[[_Standards/WikiData/WD~Oklahoma_Sports_Hall_of_Fame,41655480]]'
+- '[[_Standards/WikiData/WD~Hero_of_Socialist_Labour,57310697]]'
 trained_by: '[[_Standards/WikiData/WD~Béla_Károlyi,2290841]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Comăneci,5157880]]'
-  - '[[_Standards/WikiData/WD~Conne,65100084]]'
+- '[[_Standards/WikiData/WD~Comăneci,5157880]]'
+- '[[_Standards/WikiData/WD~Conne,65100084]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 given_name: '[[_Standards/WikiData/WD~Nadia,11464766]]'
 occupation: '[[_Standards/WikiData/WD~artistic_gymnast,13381572]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
 eye_color: '[[_Standards/WikiData/WD~light_brown,79399164]]'
 hair_color: '[[_Standards/WikiData/WD~light_brown_hair,79483632]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Romanian,7913]]'
 native_language: '[[_Standards/WikiData/WD~Romanian,7913]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
 mass: 60
 height: 163
 FIG_gymnast_licence_number: 669
@@ -58,8 +90,135 @@ ISNI: 0000000081174651
 Munzinger_Sport_number: 01000000183
 Plex_person_key: 5d776c36ad5437001f7b707e
 Instagram_username: comaneci10
+dv_has_:
+  name_:
+    af: Nadia Comăneci
+    an: Nadia Comăneci
+    ar: ناديا كومانتشي
+    arz: ناديا كومانتشى
+    ast: Nadia Comăneci
+    az: Nadya Komaneçi
+    bar: Nadia Comăneci
+    bcl: Nadia Comăneci
+    be: Надзя Каманэчы
+    be-tarask: Надзя Каманэчы
+    bg: Надя Команечи
+    bm: Nadia Comăneci
+    bn: নাদিয়া কোমেনিচি
+    br: Nadia Comăneci
+    ca: Nadia Comăneci
+    co: Nadia Comăneci
+    cs: Nadia Comaneciová
+    cy: Nadia Comăneci
+    da: Nadia Comăneci
+    de: Nadia Comăneci
+    de-at: Nadia Comăneci
+    de-ch: Nadia Comăneci
+    el: Νάντια Κομανέτσι
+    en: Nadia Comăneci
+    en-ca: Nadia Comăneci
+    en-gb: Nadia Comăneci
+    eo: Nadia Comăneci
+    es: Nadia Comăneci
+    et: Nadia Comăneci
+    eu: Nadia Comăneci
+    ext: Nadia Comăneci
+    fa: نادیا کومانچی
+    fi: Nadia Comăneci
+    fr: Nadia Comăneci
+    frc: Nadia Comăneci
+    frp: Nadia Comăneci
+    fur: Nadia Comăneci
+    fy: Nadia Comaneci
+    ga: Nadia Comaneci
+    gd: Nadia Comăneci
+    gl: Nadia Comăneci
+    gsw: Nadia Comăneci
+    he: נדיה קומנץ'
+    hr: Nadia Comăneci
+    hu: Nadia Comăneci
+    hy: Նադյա Կոմանեչի
+    ia: Nadia Comaneci
+    id: Nadia Comaneci
+    ie: Nadia Comăneci
+    io: Nadia Comăneci
+    it: Nadia Comăneci
+    ja: ナディア・コマネチ
+    jam: Nadia Comăneci
+    ka: ნადია კომენეჩი
+    kab: Nadia Comăneci
+    kcg: Nadya Komaneci
+    kg: Nadia Comăneci
+    kk: Надя Комэнеч
+    ko: 나디아 코마네치
+    kw: Nadia Comăneci
+    la: Nadia Comăneci
+    lb: Nadia Comăneci
+    li: Nadia Comăneci
+    lij: Nadia Comăneci
+    lt: Nadia Comăneci
+    lv: Nadja Komeneči
+    mg: Nadia Comăneci
+    mi: Nadia Comăneci
+    min: Nadia Comăneci
+    mk: Надја Команечи
+    ml: നാദിയ കൊമനേച്ചി
+    mr: नादिया कोमानेची
+    ms: Nadia Comaneci
+    mul: Nadia Comăneci
+    nap: Nadia Comaneci
+    nb: Nadia Comăneci
+    nds: Nadia Comăneci
+    nds-nl: Nadia Comăneci
+    nl: Nadia Comăneci
+    nn: Nadia Comăneci
+    nrm: Nadia Comăneci
+    oc: Nadia Comăneci
+    pa: ਨਾਦੀਆ ਕੋਮਾਨੇਚੀ
+    pap: Nadia Comăneci
+    pcd: Nadia Comăneci
+    pl: Nadia Comăneci
+    pms: Nadia Comăneci
+    prg: Nadia Comăneci
+    pt: Nadia Comăneci
+    pt-br: Nadia Comăneci
+    qu: Nadia Comăneci
+    rgn: Nadia Comăneci
+    rm: Nadia Comăneci
+    ro: Nadia Comăneci
+    ru: Надя Комэнеч
+    sc: Nadia Comăneci
+    scn: Nadia Comaneci
+    sco: Nadia Comăneci
+    sh: Nadia Comăneci
+    sk: Nadia Comăneciová
+    sl: Nadia Comăneci
+    sq: Nadia Comăneci
+    sr: Нађа Команечи
+    sr-el: Nadia Comăneci
+    sv: Nadia Comăneci
+    sw: Nadia Comăneci
+    ta: நாடியா கொமனட்சி
+    te: నాదియా కామనేసి
+    th: นาดียา กอเมอเนช
+    tl: Nadia Comăneci
+    tr: Nadia Comăneci
+    uk: Надя Коменеч
+    ur: نادیہ کومانچی
+    uz: Nadiya Komenech
+    vec: Nadia Comăneci
+    vi: Nadia Comăneci
+    vls: Nadia Comăneci
+    vmf: Nadia Comăneci
+    vo: Nadia Comăneci
+    wa: Nadia Comăneci
+    war: Nadia Comăneci
+    wo: Nadia Comăneci
+    wuu: 纳迪娅·科马内奇
+    yue: 歌曼妮芝
+    zh: 纳迪娅·科马内奇
+    zu: Nadia Comăneci
 ---
-
 # [[Nadia_Comăneci]] 
 
 #is_/same_as :: [[WD~Nadia_Comăneci,33228]] 

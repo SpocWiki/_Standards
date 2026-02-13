@@ -1,56 +1,146 @@
 ---
 aliases:
-  - Gepard
-  - Acinonyx jubatus
-  - Cheetah
-  - gepard grzywiasty
+- Acinonyx jubatus
+- Afrika jaguarete
+- Akátá
+- Amaaqeexa
+- Amayas
+- Blettatígur
+- báo săn
+- Cheetah
+- chytrak
+- citah
+- Cuskol (Acinonyx jubatus)
+- Dindingwe
+- Dottatiȝer
+- Duma
+- Gattupardu
+- geepaard
+- Gepard
+- gepard grzywiasty
+- gepard štíhlý
+- Geparda
+- gepardas
+- gepardd
+- Gepardi
+- Gepardo
+- gepards
+- Gepardur
+- gepárd
+- gepárda
+- Geçigaplaň
+- Ghepard
+- Ghepàrd
+- Glanlàn
+- Guepard
+- guepardo
+- Guepardu
+- guépard
+- Haramcad
+- Hepard
+- Jachluipeerd
+- Jachtloaihoars
+- jachtluipaard
+- Jagluiperd
+- Jattupardu
+- Kazh-ki
+- La̍h-pà
+- Lepogo
+- Lia̍p-pau
+- llewpart hela
+- Náshdóí dilwoʼí
+- Ocēlōmiztli
+- Sìotà
+- síota
+- Tene
+- Çita
+- Şîpa nêçirvan
+- Γατόπαρδος
+- Гєпардъ
+- гепард
+- Кара кулак шер
+- Қабылан
+- Үчимбэр
+- վագրակատու
+- ברדלס
+- تشيتا
+- فهد
+- هئپارد
+- چيتو
+- چیتا
+- چیتا پړانگ
+- یوزپلنگ
+- یۆز
+- चित्ता
+- चीता
+- চিতা
+- ਚੀਤਾ
+- ચિત્તો
+- ଚିତାବାଘ
+- சிவிங்கிப்புலி
+- చిరుతపులి
+- ಚಿರತೆ
+- ചീറ്റപ്പുലി
+- เสือชีตาห์
+- ཤ་གཟིག
+- သစ်ကျုတ်
+- ავაზა
+- გეპარდი
+- ቺታ
+- ኣቦ ሸማኔ
+- ᏢᏓᏥ ᎠᎦᏣᏄᎳ
+- ᱥᱚᱱᱟ ᱪᱤᱛᱟᱹ
+- チーター
+- 猎豹
+- 獵豹
+- 치타
 has_id_wikidata: Q23907
 main_food_source:
-  - '[[_Standards/WikiData/WD~impala,132576]]'
-  - '[[_Standards/WikiData/WD~Common_warthog,183255]]'
-  - '[[_Standards/WikiData/WD~Gazella,190858]]'
-  - '[[_Standards/WikiData/WD~carrion,202994]]'
-  - '[[_Standards/WikiData/WD~springbok,213084]]'
-  - '[[_Standards/WikiData/WD~Madoqua,216263]]'
-  - '[[_Standards/WikiData/WD~nyala,239032]]'
-  - '[[_Standards/WikiData/WD~Helmeted_Guineafowl,251842]]'
-  - '[[_Standards/WikiData/WD~Eudorcas_thomsonii,271705]]'
-  - '[[_Standards/WikiData/WD~Egyptian_Goose,274179]]'
-  - '[[_Standards/WikiData/WD~oribi,275615]]'
-  - '[[_Standards/WikiData/WD~Harnessed_bushbuck,328803]]'
-  - '[[_Standards/WikiData/WD~Sturnus,333842]]'
-  - '[[_Standards/WikiData/WD~Dorcas_gazelle,387240]]'
-  - '[[_Standards/WikiData/WD~Vulturine_Guineafowl,390270]]'
-  - '[[_Standards/WikiData/WD~chinkara,430619]]'
-  - '[[_Standards/WikiData/WD~Gazella_subgutturosa,460977]]'
-  - '[[_Standards/WikiData/WD~Tragelaphus_imberbis,622882]]'
-  - '[[_Standards/WikiData/WD~hartebeest,622880]]'
-  - '[[_Standards/WikiData/WD~Oryx,658179]]'
-  - '[[_Standards/WikiData/WD~dama_gazelle,725736]]'
-  - '[[_Standards/WikiData/WD~Pedetes_capensis,732890]]'
-  - '[[_Standards/WikiData/WD~Lepus_capensis,748185]]'
-  - '[[_Standards/WikiData/WD~Sylvicapra_grimmia,756208]]'
-  - '[[_Standards/WikiData/WD~Urial,839513]]'
-  - '[[_Standards/WikiData/WD~bezoar_ibex,897514]]'
-  - '[[_Standards/WikiData/WD~Neotragus,2365071]]'
-  - '[[_Standards/WikiData/WD~Southern_Red_billed_Hornbill,2933618]]'
-  - '[[_Standards/WikiData/WD~goat,2934]]'
-  - '[[_Standards/WikiData/WD~zebra,32789]]'
+- '[[_Standards/WikiData/WD~impala,132576]]'
+- '[[_Standards/WikiData/WD~Common_warthog,183255]]'
+- '[[_Standards/WikiData/WD~Gazella,190858]]'
+- '[[_Standards/WikiData/WD~carrion,202994]]'
+- '[[_Standards/WikiData/WD~springbok,213084]]'
+- '[[_Standards/WikiData/WD~Madoqua,216263]]'
+- '[[_Standards/WikiData/WD~nyala,239032]]'
+- '[[_Standards/WikiData/WD~Helmeted_Guineafowl,251842]]'
+- '[[_Standards/WikiData/WD~Eudorcas_thomsonii,271705]]'
+- '[[_Standards/WikiData/WD~Egyptian_Goose,274179]]'
+- '[[_Standards/WikiData/WD~oribi,275615]]'
+- '[[_Standards/WikiData/WD~Harnessed_bushbuck,328803]]'
+- '[[_Standards/WikiData/WD~Sturnus,333842]]'
+- '[[_Standards/WikiData/WD~Dorcas_gazelle,387240]]'
+- '[[_Standards/WikiData/WD~Vulturine_Guineafowl,390270]]'
+- '[[_Standards/WikiData/WD~chinkara,430619]]'
+- '[[_Standards/WikiData/WD~Gazella_subgutturosa,460977]]'
+- '[[_Standards/WikiData/WD~Tragelaphus_imberbis,622882]]'
+- '[[_Standards/WikiData/WD~hartebeest,622880]]'
+- '[[_Standards/WikiData/WD~Oryx,658179]]'
+- '[[_Standards/WikiData/WD~dama_gazelle,725736]]'
+- '[[_Standards/WikiData/WD~Pedetes_capensis,732890]]'
+- '[[_Standards/WikiData/WD~Lepus_capensis,748185]]'
+- '[[_Standards/WikiData/WD~Sylvicapra_grimmia,756208]]'
+- '[[_Standards/WikiData/WD~Urial,839513]]'
+- '[[_Standards/WikiData/WD~bezoar_ibex,897514]]'
+- '[[_Standards/WikiData/WD~Neotragus,2365071]]'
+- '[[_Standards/WikiData/WD~Southern_Red_billed_Hornbill,2933618]]'
+- '[[_Standards/WikiData/WD~goat,2934]]'
+- '[[_Standards/WikiData/WD~zebra,32789]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Cheetah,418655]]'
-  - '[[_Standards/WikiData/WD~Cita,1023759]]'
-  - '[[_Standards/WikiData/WD~Gepard,1175007]]'
-  - '[[_Standards/WikiData/WD~Guépard,3122441]]'
-  - '[[_Standards/WikiData/WD~Guepardo,9001126]]'
-  - '[[_Standards/WikiData/WD~च_त_,12426725]]'
+- '[[_Standards/WikiData/WD~Cheetah,418655]]'
+- '[[_Standards/WikiData/WD~Cita,1023759]]'
+- '[[_Standards/WikiData/WD~Gepard,1175007]]'
+- '[[_Standards/WikiData/WD~Guépard,3122441]]'
+- '[[_Standards/WikiData/WD~Guepardo,9001126]]'
+- '[[_Standards/WikiData/WD~च_त_,12426725]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
 subclass_of: '[[_Standards/WikiData/WD~big_cat,6667323]]'
@@ -61,16 +151,16 @@ original_combination: '[[_Standards/WikiData/WD~Felis_jubata,122360017]]'
 depicted_by: '[[_Standards/WikiData/WD~Sala_dei_ghepardi,131813421]]'
 start_time: -1900000-06
 color:
-  - '[[_Standards/WikiData/WD~yellow,943]]'
-  - '[[_Standards/WikiData/WD~black,23445]]'
+- '[[_Standards/WikiData/WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~black,23445]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 speed: 120
 litter_size: 2.1
 mass:
-  - 35
-  - 275
-  - 40.2
+- 35
+- 275
+- 40.2
 gestation_period: 92
 bite_force_quotient: 119
 longest_observed_lifespan: 20.5
@@ -92,8 +182,149 @@ EPPO_Code: AKNOJU
 subreddit: Cheetahs
 GenBank_assembly_accession_number: GCA_003709585.1
 taxon_common_name: gepard grzywiasty
+dv_has_:
+  name_:
+    af: Jagluiperd
+    am: ኣቦ ሸማኔ
+    ang: Dottatiȝer
+    ar: فهد
+    arz: تشيتا
+    ast: Guepardu
+    av: Гепард
+    avk: Cuskol (Acinonyx jubatus)
+    az: Hepard
+    azb: هئپارد
+    ban: Cheetah
+    bcl: Cheetah
+    be: гепард
+    be-tarask: гепард
+    bg: гепард
+    bho: चीता
+    bn: চিতা
+    bo: ཤ་གཟིག
+    br: Kazh-ki
+    bs: Gepard
+    ca: guepard
+    chr: ᏢᏓᏥ ᎠᎦᏣᏄᎳ
+    ckb: یۆز
+    co: Gattupardu
+    cs: gepard štíhlý
+    cu: Гєпардъ
+    cv: Гепард
+    cy: llewpart hela
+    da: gepard
+    de: Gepard
+    dsb: Gepard
+    el: Γατόπαρδος
+    eml: Ghepàrd
+    en: cheetah
+    en-us: cheetah
+    eo: Gepardo
+    es: guepardo
+    et: gepard
+    eu: Gepardo
+    fa: یوزپلنگ
+    fi: gepardi
+    fo: Gepardur
+    fon: Glanlàn
+    fr: guépard
+    frr: Gepard
+    fy: Jachtloaihoars
+    ga: síota
+    gd: Sìotà
+    gl: Guepardo
+    gn: Afrika jaguarete
+    gu: ચિત્તો
+    hak: Lia̍p-pau
+    he: ברדלס
+    hi: चीता
+    hr: Gepard
+    hsb: Gepard
+    hu: gepárd
+    hy: վագրակատու
+    ia: gepardo
+    id: citah
+    io: Gepardo
+    is: Blettatígur
+    ja: チーター
+    jv: Cheetah
+    ka: ავაზა
+    kab: Amayas
+    kk: Қабылан
+    kn: ಚಿರತೆ
+    ko: 치타
+    ku: Şîpa nêçirvan
+    kw: chytrak
+    ky: Кара кулак шер
+    lb: Gepard
+    li: Jachluipeerd
+    lt: gepardas
+    ltg: Gepards
+    lv: gepards
+    mg: Geparda
+    mhr: гепард
+    mk: Гепард
+    ml: ചീറ്റപ്പുലി
+    mn: Үчимбэр
+    mr: चित्ता
+    ms: Citah
+    mul: Acinonyx jubatus
+    my: သစ်ကျုတ်
+    mzn: یوزپلنگ
+    nah: Ocēlōmiztli
+    nan: La̍h-pà
+    nb: gepard
+    nl: jachtluipaard
+    nn: gepard
+    nso: Lepogo
+    nv: Náshdóí dilwoʼí
+    om: Amaaqeexa
+    or: ଚିତାବାଘ
+    os: Гепард
+    pa: ਚੀਤਾ
+    pl: gepard grzywiasty
+    pnb: چیتا
+    ps: چیتا پړانگ
+    ro: Ghepard
+    ru: гепард
+    sat: ᱥᱚᱱᱟ ᱪᱤᱛᱟᱹ
+    scn: Jattupardu
+    sco: cheetah
+    sd: چيتو
+    se: gepárda
+    sh: Gepard
+    sk: gepard
+    sl: gepard
+    smn: geepaard
+    sms: gepardd
+    sn: Dindingwe
+    so: Haramcad
+    sq: Gepardi
+    sr: гепард
+    sv: gepard
+    sw: Duma
+    ta: சிவிங்கிப்புலி
+    te: చిరుతపులి
+    th: เสือชีตาห์
+    ti: ቺታ
+    tk: Geçigaplaň
+    tr: Çita
+    tyv: Гепард
+    udm: Гепард
+    uk: гепард
+    ur: چیتا
+    uz: Gepard
+    vi: báo săn
+    wa: Guepard
+    wo: Tene
+    wuu: 猎豹
+    xmf: გეპარდი
+    yo: Akátá
+    yue: 獵豹
+    zh: 猎豹
+    zh-cn: 猎豹
+    zh-tw: 猎豹
 ---
-
 # [[Cheetah]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cheetah,23907|WD~Cheetah,23907]] 

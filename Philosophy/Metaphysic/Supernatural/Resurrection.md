@@ -1,33 +1,178 @@
 ---
 aliases:
+- Aiseirigh
+- aiséirí
+- Auferweckung
+- Augšāmcelšanās
+- Dasorc'hidigezh
+- feltámadás
+- Fitsanganan-ko velona
+- Kabangkikán
+- Kebangkitan
+- Koh-oa̍h
+- mahşer
+- Muling pagkabuhay
+- neei
+- Operstéiung
+- oppstandelse
+- opstandelse
+- opstanding
+- Opstanning
+- Phục sinh
+- Piztuera
+- prisikėlimas
+- ressurreição
+- resurekcija
+- Resurreccion
+- resurrecció
+- resurrección
+- Resurrectio
+- resurrection
+- resurrezione
+- reviviĝo
+- Ringjallja
+- résurrection
+- Ufersteeig
+- Ufufuko
+- uppståndelse
+- uskrsnuće
+- Vaskrsenje
+- vzkriesenie
+- vzkříšení
+- Ylösnousemus
+- Zmartwychwstanie
+- zmortwychstaće
+- æriste
+- Ülestõusmine
+- ανάσταση
+- Васкрсење
+- воскресіння
+- Воскресїня
+- Воскресение
+- воскресение из мёртвых
+- Възкресение
+- уваскрасеньне
+- уваскрэсенне з мёртвых
+- վերակենդանացում
+- תחיית המתים
+- البعث بعد الموت
+- رستاخیز
+- رستخیز
+- पुनरुज्जीवन
+- पुनरुत्थान
+- পুনরুত্থান
+- ಪುನರುತ್ಥಾನ
+- ἀνάστασις
+- 复活
+- 復活
+- 부활
 has_id_wikidata: Q188681
 different_from:
-  - "[[_Standards/WikiData/WD~reincarnation,128593]]"
-  - "[[_Standards/WikiData/WD~resuscitation,5491454]]"
-  - "[[_Standards/WikiData/WD~Zmartwychwstanie,87481747]]"
+- '[[_Standards/WikiData/WD~reincarnation,128593]]'
+- '[[_Standards/WikiData/WD~resuscitation,5491454]]'
+- '[[_Standards/WikiData/WD~Zmartwychwstanie,87481747]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Divine_Principle,12609286]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-facet_of: "[[_Standards/WikiData/WD~afterlife,623282]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Divine_Principle,12609286]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+facet_of: '[[_Standards/WikiData/WD~afterlife,623282]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~superpower,1047698]]"
-  - "[[_Standards/WikiData/WD~narrative_motif,1697305]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Resurrection_of_the_dead,2997437]]"
+- '[[_Standards/WikiData/WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~narrative_motif,1697305]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Resurrection_of_the_dead,2997437]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~faith,5410500]]"
-  - "[[_Standards/WikiData/WD~vivification,115399440]]"
-has_part_s_: "[[_Standards/WikiData/WD~al_baʻth_baʻd_al_mawt,12184524]]"
+- '[[_Standards/WikiData/WD~faith,5410500]]'
+- '[[_Standards/WikiData/WD~vivification,115399440]]'
+has_part_s_: '[[_Standards/WikiData/WD~al_baʻth_baʻd_al_mawt,12184524]]'
 PhilPapers_topic: resurrection
 Commons_category: Resurrection
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-Fabelwesen.jpg
+dv_has_:
+  name_:
+    ang: æriste
+    ar: البعث بعد الموت
+    ast: Resurrección
+    be: уваскрэсенне з мёртвых
+    be-tarask: уваскрасеньне
+    bg: Възкресение
+    bn: পুনরুত্থান
+    br: Dasorc'hidigezh
+    ca: resurrecció
+    cs: vzkříšení
+    da: opstandelse
+    dag: neei
+    de: Auferweckung
+    el: ανάσταση
+    en: resurrection
+    eo: reviviĝo
+    es: resurrección
+    et: Ülestõusmine
+    eu: Piztuera
+    fa: رستاخیز
+    fi: Ylösnousemus
+    fr: résurrection
+    fy: Opstanning
+    ga: aiséirí
+    gd: Aiseirigh
+    gl: Resurrección
+    grc: ἀνάστασις
+    gsw: Ufersteeig
+    he: תחיית המתים
+    hi: पुनरुज्जीवन
+    hr: uskrsnuće
+    hsb: zmortwychstaće
+    hu: feltámadás
+    hy: վերակենդանացում
+    id: Kebangkitan
+    it: resurrezione
+    ja: 復活
+    kn: ಪುನರುತ್ಥಾನ
+    ko: 부활
+    la: Resurrectio
+    lb: Operstéiung
+    lt: prisikėlimas
+    lv: Augšāmcelšanās
+    mg: Fitsanganan-ko velona
+    min: Kabangkikán
+    mk: Воскресение
+    mr: पुनरुत्थान
+    ms: Kebangkitan
+    nan: Koh-oa̍h
+    nb: oppstandelse
+    nl: opstanding
+    oc: Resurreccion
+    pl: Zmartwychwstanie
+    pt: ressurreição
+    ru: воскресение из мёртвых
+    rue: Воскресїня
+    sh: Vaskrsenje
+    sk: vzkriesenie
+    sl: resurekcija
+    sq: Ringjallja
+    sr: Васкрсење
+    sr-ec: Васкрсење
+    sr-el: Vaskrsenje
+    sv: uppståndelse
+    sw: Ufufuko
+    tl: Muling pagkabuhay
+    tr: mahşer
+    uk: воскресіння
+    ur: رستخیز
+    vi: Phục sinh
+    yue: 復活
+    zh: 復活
+    zh-cn: 复活
+    zh-hans: 复活
+    zh-hant: 復活
+    zh-hk: 復活
+    zh-sg: 复活
+    zh-tw: 復活
 ---
-
 # [[Resurrection]] 
 
 #is_/same_as :: [[WD~Resurrection,188681]] 

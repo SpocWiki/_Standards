@@ -1,13 +1,126 @@
 ---
 aliases:
-  - Equation
+- aequatio
+- baraabari
+- cothromóid
+- denklem
+- Deňleme
+- ecuación
+- ecuație
+- egali
+- egyenlet
+- ekuacioni
+- ekuazio
+- ekvacio
+- ekvation
+- Ekwasyon
+- enačba
+- equacionbndryr
+- equaciono
+- equació
+- equación
+- equassion
+- Equation
+- equazione
+- equaziån
+- equazziun
+- equação
+- Gleichung
+- Glieken
+- Gläichung
+- hafaliad
+- hong-têng-sek
+- I-Equation
+- ikwiejan
+- Iquazzioni
+- ivakaraitaki
+- jafna
+- jednadžba
+- jednačina
+- kevatalenn
+- kɩmaŋ wɛʊʊ
+- ligning
+- liknang
+- likning
+- lygtis
+- líkning
+- mlinganyo
+- musaviyleme
+- ovttamahtodat
+- ovtâldâh
+- paqtachani
+- persamaan
+- phương trình
+- qixxaatoo
+- rovnica
+- rovnice
+- równanie
+- tagdazalt
+- Tenglama
+- toki pi sama nanpa
+- tsazaniso
+- tumbasan
+- tənlik
+- vergelyking
+- Vergelykinge
+- vienādojums
+- Võrrand
+- wekhevî
+- wiskundige vergelijking
+- yhtälö
+- ékwasyon
+- équation
+- Ìṣedọ́gba
+- õõutlõk
+- εξίσωση
+- једначина
+- Муодила
+- рівняння
+- раўнаньне
+- равенка
+- танлăх
+- теңдеме
+- теңдеу
+- Тигезләмә
+- тигеҙләмә
+- Тэгшитгэл
+- тэгшэдхэл
+- Тэҥнэбил
+- ураўненне
+- уравнение
+- Հավասարում
+- גלייכונג
+- משוואה
+- ترکڑی
+- مساوات
+- معادلة
+- معادلة رياضية
+- معادله
+- ڤرساماءن
+- ھاوکێشە
+- समीकरण
+- সমীকরণ
+- সমীকৰণ
+- ਸਮੀਕਰਨ
+- સમીકરણ
+- சமன்பாடு
+- ಸಮೀಕರಣ
+- സമവാക്യം
+- สมการ
+- ສົມຜົນ
+- განტოლება
+- ᎢᏗᎦᏲᏍᏗ
+- សមីការ
+- 方程
+- 方程式
+- 방정식
 has_id_wikidata: Q11345
 Colon_Classification: B23
 Commons_category: Equations
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~chemical_equation,182527]]'
 has_list: '[[_Standards/WikiData/WD~list_of_equations,3243244]]'
 has_part_s_: '[[_Standards/WikiData/WD~equals_sign,214796]]'
@@ -22,8 +135,151 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 properties_for_this_type: defining formula
 studied_in: '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
 subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
+dv_has_:
+  name_:
+    af: vergelyking
+    an: equación
+    anp: समीकरण
+    ar: معادلة رياضية
+    ary: معادلة
+    arz: معادلة رياضية
+    as: সমীকৰণ
+    ast: ecuación
+    az: tənlik
+    ba: тигеҙләмә
+    be: ураўненне
+    be-tarask: раўнаньне
+    bg: уравнение
+    bn: সমীকরণ
+    br: kevatalenn
+    bs: jednačina
+    bxr: тэгшэдхэл
+    ca: equació
+    chr: ᎢᏗᎦᏲᏍᏗ
+    ckb: ھاوکێشە
+    crh: musaviyleme
+    cs: rovnice
+    cv: танлăх
+    cy: hafaliad
+    da: ligning
+    de: Gleichung
+    el: εξίσωση
+    eml: equaziån
+    en: equation
+    eo: ekvacio
+    es: ecuación
+    et: võrrand
+    eu: ekuazio
+    ext: ecuación
+    fa: معادله
+    fi: yhtälö
+    fj: ivakaraitaki
+    fo: líkning
+    fr: équation
+    frr: liknang
+    ga: cothromóid
+    gan: 方程
+    gcr: ékwasyon
+    gl: ecuación
+    gsw: Gleichung
+    gu: સમીકરણ
+    he: משוואה
+    hi: समीकरण
+    hif: baraabari
+    hr: jednadžba
+    ht: Ekwasyon
+    hu: egyenlet
+    hy: Հավասարում
+    ia: equation
+    id: persamaan
+    io: equaciono
+    is: jafna
+    it: equazione
+    ja: 方程式
+    jam: ikwiejan
+    ka: განტოლება
+    kbp: kɩmaŋ wɛʊʊ
+    kk: теңдеу
+    km: សមីការ
+    kn: ಸಮೀಕರಣ
+    ko: 방정식
+    ku: wekhevî
+    ky: теңдеме
+    la: aequatio
+    lb: Gläichung
+    lfn: egali
+    lmo: equazziun
+    lo: ສົມຜົນ
+    lt: lygtis
+    lv: vienādojums
+    lzh: 方程
+    mag: समीकरण
+    mk: равенка
+    ml: സമവാക്യം
+    mn: Тэгшитгэл
+    mr: समीकरण
+    ms: persamaan
+    ms-arab: ڤرساماءن
+    nan: hong-têng-sek
+    nap: equazione
+    nb: ligning
+    nds: Glieken
+    new: समीकरण
+    nl: wiskundige vergelijking
+    nn: likning
+    oc: equacionbndryr
+    om: qixxaatoo
+    pa: ਸਮੀਕਰਨ
+    pl: równanie
+    pms: equassion
+    pnb: ترکڑی
+    pt: equação
+    pt-br: equação
+    qu: paqtachani
+    ro: ecuație
+    ru: уравнение
+    sah: Тэҥнэбил
+    scn: Iquazzioni
+    sco: equation
+    se: ovttamahtodat
+    sh: jednačina
+    shi: tagdazalt
+    sk: rovnica
+    sl: enačba
+    smn: ovtâldâh
+    sms: õõutlõk
+    sn: tsazaniso
+    sq: ekuacioni
+    sr: једначина
+    sr-ec: једначина
+    sr-el: jednačina
+    sv: ekvation
+    sw: mlinganyo
+    ta: சமன்பாடு
+    tg: Муодила
+    th: สมการ
+    tk: Deňleme
+    tl: tumbasan
+    tok: toki pi sama nanpa
+    tr: denklem
+    tt: Тигезләмә
+    udm: уравнение
+    uk: рівняння
+    ur: مساوات
+    uz: Tenglama
+    vi: phương trình
+    vls: Vergelykinge
+    vro: Võrrand
+    war: Ekwasyon
+    wuu: 方程
+    xh: I-Equation
+    yi: גלייכונג
+    yo: Ìṣedọ́gba
+    yue: 方程式
+    zh: 方程
+    zh-hans: 方程
+    zh-hant: 方程
 ---
-
 ## #has_/text_of_/abstract 
 
 > In mathematics, an **Equation** is a mathematical formula that expresses the equality of two expressions, by connecting them with the equals sign =. The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English, any well-formed formula consisting of two expressions related with an equals sign is an equation.

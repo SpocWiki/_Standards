@@ -1,30 +1,88 @@
 ---
 aliases:
-  - Makake
+- Beruk
+- Iddew
+- Kaku
+- lilkoleem
+- Macac
+- Macaca
+- Macaco
+- Macaque
+- Makaak
+- makak
+- Makaka
+- Makakaber
+- makakar
+- Makake
+- Makaken
+- makaker
+- Makaki
+- Makakiji
+- makakit
+- Makako
+- Makakos
+- Makaktar
+- Makáko
+- makákó
+- meacaic
+- Mì-hèu
+- Mî-kâu
+- Tó wónaanídę́ę́ʼ magí íiyisígíí
+- Şebek
+- Μακάκος
+- макак
+- Макакі
+- Макака
+- Макакалар
+- Макаки
+- макакији
+- Макаксем
+- Макактар
+- макаци
+- Մակակներ
+- מקוק
+- قرد المكاك
+- ماكاكتار
+- ماکاک
+- مكاك
+- مکاک
+- مڪاڪ ڀولڙو
+- मैकाक बंदर
+- सिंहपुच्छ वानर
+- ಮಕಾಕ್ ಕೋತಿ
+- മകാക്
+- ลิงมาคาก
+- მაკაკი
+- マカク属
+- 猕猴
+- 猕猴属
+- 獼猴
+- 獼猴屬
+- 마카크
 has_id_wikidata: Q177601
-parent_taxon: "[[_Standards/WikiData/WD~Cercopithecinae,220848]]"
+parent_taxon: '[[_Standards/WikiData/WD~Cercopithecinae,220848]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Inuus,41154602]]"
-  - "[[_Standards/WikiData/WD~Macacus,41155179]]"
-main_food_source: "[[_Standards/WikiData/WD~omnivorism,46413310]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Inuus,41154602]]'
+- '[[_Standards/WikiData/WD~Macacus,41155179]]'
+main_food_source: '[[_Standards/WikiData/WD~omnivorism,46413310]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 period_of_lactation: 1
 litter_size: 1
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 gestation_period: 165
-ITIS_TSN: "180097"
+ITIS_TSN: 180097
 taxon_common_name:
-  - макаки
-  - macaques
-  - makak
-  - المكَّاك
-  - makakit
+- макаки
+- macaques
+- makak
+- المكَّاك
+- makakit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonnet%20macaque%20%28Macaca%20radiata%29%20Photograph%20By%20Shantanu%20Kuveskar.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9partition%20mondiale%20des%20macaques.jpg
 EPPO_Code: 1MCCAG
@@ -32,8 +90,119 @@ MeSH_tree_code: B01.050.150.900.649.313.988.400.112.199.120.510
 Commons_gallery: Macaca
 Commons_category: Macaca
 taxon_name: Macaca
+dv_has_:
+  name_:
+    an: Macaca
+    ar: مكاك
+    arz: قرد المكاك
+    ast: Macaca
+    avk: lilkoleem
+    be: Макакі
+    be-tarask: макак
+    bg: макаци
+    br: Makak
+    ca: Macaco
+    cdo: Mì-hèu
+    ceb: Macaca
+    cs: makak
+    cv: Макаксем
+    da: Makakaber
+    de: Makaken
+    el: Μακάκος
+    en: Macaca
+    en-us: Macaca
+    eo: Makako
+    es: Macaca
+    et: Makaak
+    eu: Macaca
+    ext: Macaca
+    fa: ماکاک
+    fi: makakit
+    fr: Macaque
+    frr: Makaken
+    ga: meacaic
+    gag: Şebek
+    gl: Macaco
+    he: מקוק
+    hi: मैकाक बंदर
+    hr: Makaki
+    hu: makákó
+    hy: Մակակներ
+    ia: Macaca
+    id: Makaka
+    ie: Macaca
+    inh: Макак
+    io: Makako
+    it: Macaca
+    ja: マカク属
+    ka: მაკაკი
+    kab: Iddew
+    kk: Макактар
+    kk-arab: ماكاكتار
+    kk-cn: ماكاكتار
+    kk-cyrl: Макактар
+    kk-kz: Макактар
+    kk-latn: Makaktar
+    kk-tr: Makaktar
+    kn: ಮಕಾಕ್ ಕೋತಿ
+    ko: 마카크
+    ky: Макакалар
+    la: Macaca
+    lbe: Макак
+    lez: Макака
+    ln: Makáko
+    lt: Makakos
+    lv: makaki
+    mhr: Макак
+    mk: макаки
+    ml: മകാക്
+    mr: सिंहपुच्छ वानर
+    mrj: Макак
+    ms: Macaca
+    mul: Macaca
+    nan: Mî-kâu
+    nb: makaker
+    nl: makaken
+    nn: makakar
+    nv: Tó wónaanídę́ę́ʼ magí íiyisígíí
+    oc: Macaca
+    pl: makak
+    pnb: مکاک
+    pt: Macaca
+    pt-br: Macaca
+    qu: Makaka
+    ro: Macac
+    ru: Макаки
+    sco: macaque
+    sd: مڪاڪ ڀولڙو
+    sh: Makakiji
+    sk: Makak
+    sl: makak
+    sq: Macaca
+    sr: макакији
+    sr-ec: Макакији
+    sr-el: Makakiji
+    su: Beruk
+    sv: Makaker
+    sw: Kaku
+    th: ลิงมาคาก
+    tl: Makak
+    tr: Şebek
+    udm: Макак
+    uk: Макака
+    vi: Macaca
+    vo: Macaca
+    war: Macaca
+    wuu: 猕猴
+    yue: 獼猴
+    zh: 猕猴属
+    zh-cn: 猕猴属
+    zh-hans: 猕猴属
+    zh-hant: 獼猴
+    zh-hk: 獼猴
+    zh-sg: 猕猴
+    zh-tw: 獼猴屬
 ---
-
 # [[Macaca]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Macaca,177601|WD~Macaca,177601]]  

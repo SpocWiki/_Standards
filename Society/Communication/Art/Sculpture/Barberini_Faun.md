@@ -1,10 +1,43 @@
 ---
 aliases:
-  - Drunken Satyr
-  - Barberini Faun
-  - Fauno Barberini
-  - Barberini_Faun
+- Barberini Faun
+- Barberini favnı
+- Barberinijev Favn
+- Barberinischer Faun
+- Barberini_Faun
+- Barberinske faunen
+- Drunken Satyr
+- Faun Barberini
+- Faune Barberini
+- Fauno Barberini
+- Фаўн Барберыні
+- Фавн Барберини
+- فان باربرینی
+- ბარბერინის ფავნი
+- バベーリーニ牧神
+- 巴貝里尼法翁
 has_id_wikidata: Q681431
+dv_has_:
+  name_:
+    az: Barberini favnı
+    be: Фаўн Барберыні
+    ca: Faune Barberini
+    de: Barberinischer Faun
+    en: Barberini Faun
+    es: Fauno Barberini
+    fa: فان باربرینی
+    fr: Faune Barberini
+    hu: Barberini Faun
+    it: Fauno Barberini
+    ja: バベーリーニ牧神
+    ka: ბარბერინის ფავნი
+    nl: Barberini Faun
+    pl: Faun Barberini
+    pt: Fauno Barberini
+    ru: Фавн Барберини
+    sl: Barberinijev Favn
+    sv: Barberinske faunen
+    zh: 巴貝里尼法翁
 ---
 # [[Barberini_Faun]] 
 

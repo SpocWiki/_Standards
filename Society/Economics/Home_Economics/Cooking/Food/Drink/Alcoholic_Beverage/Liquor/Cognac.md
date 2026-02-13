@@ -1,8 +1,144 @@
 ---
 has_id_wikidata: Q284
+dv_has_:
+  name_:
+    af: konjak
+    ar: كونياك
+    ast: coñá
+    az: konyak
+    be: каньяк
+    be-tarask: каньяк
+    bg: коняк
+    br: kognag
+    ca: conyac
+    ce: Коньяк
+    ckb: کۆنیاک
+    cs: koňak
+    cv: коньяк
+    cy: Cognac
+    da: cognac
+    de: Cognac
+    de-ch: Cognac
+    el: κονιάκ
+    en: cognac
+    en-ca: Cognac
+    en-gb: Cognac
+    eo: konjako
+    es: coñac
+    et: konjak
+    eu: cognac
+    fa: کنیاک
+    fi: konjakki
+    fo: konjak
+    fr: cognac
+    gl: coñac
+    gv: coinnagh
+    he: קוניאק
+    hu: cognac
+    hy: Կոնյակ
+    hyw: Քոնեակ
+    id: konyak
+    io: konyako
+    it: cognac
+    ja: コニャック
+    ka: კონიაკი
+    kbp: koñakɩ
+    kk: коньяк
+    ko: 코냑
+    ky: коньяк
+    la: spiritus vini cognacensis
+    lt: konjakas
+    lv: konjaks
+    mk: коњак
+    mn: коньяк
+    my: ကော့ညက်
+    nb: konjakk
+    ne: कोग्नाक
+    nl: cognac
+    nn: konjakk
+    oc: conhac
+    os: коньяк
+    pl: Koniak
+    pt: cognac
+    pt-br: conhaque
+    ro: coniac
+    ru: коньяк
+    se: konjáhkka
+    sgs: konjaks
+    sje: konjáhkka
+    sk: koňak
+    sl: konjak
+    smj: konjáhkka
+    sms: konjakk
+    sq: konjak
+    sr: коњак
+    sv: konjak
+    sw: konyagi
+    ta: கோக்னாக்
+    tg: коняк
+    th: กอญัก
+    tr: konyak
+    uk: коньяк
+    uz: konyak
+    vep: kon'jak
+    vi: cô nhắc
+    wuu: 干邑白兰地
+    xmf: კონიაკი
+    yi: קאניאק
+    yue: 干邑
+    zh: 干邑
+    zh-cn: 干邑白蘭地
+    zh-hans: 干邑白兰地
+    zh-hant: 干邑白蘭地
+aliases:
+- cognac
+- coinnagh
+- conhac
+- conhaque
+- coniac
+- conyac
+- coñac
+- coñá
+- cô nhắc
+- kognag
+- kon'jak
+- Koniak
+- konjak
+- konjakas
+- konjakk
+- konjakki
+- konjako
+- konjaks
+- konjáhkka
+- konyagi
+- konyak
+- konyako
+- koñakɩ
+- koňak
+- spiritus vini cognacensis
+- κονιάκ
+- каньяк
+- коњак
+- коньяк
+- коняк
+- Կոնյակ
+- Քոնեակ
+- קאניאק
+- קוניאק
+- كونياك
+- کنیاک
+- کۆنیاک
+- कोग्नाक
+- கோக்னாக்
+- กอญัก
+- ကော့ညက်
+- კონიაკი
+- コニャック
+- 干邑
+- 干邑白兰地
+- 干邑白蘭地
+- 코냑
 ---
-
-
 # [[Cognac]] 
 
 #is_/same_as :: 

@@ -1,19 +1,56 @@
 ---
 aliases:
-  - Gin
+- Chinebra
+- Cin
+- džin
+- Džinas
+- Džinn
+- džins
+- Gim
+- Gin
+- ginebra
+- gini
+- Ginn
+- Iuniperatum
+- jeneeve
+- jin
+- Jino
+- tīni
+- Xenebra
+- xinebra
+- ĝino
+- Τζιν
+- Џин
+- джин
+- джын
+- Ջին
+- ג'ין
+- דזשין
+- جن
+- جین
+- জিন (পানীয়)
+- ஜின்
+- ยิน
+- ဂျင်
+- ჯინი
+- ジン
+- 氈酒
+- 琴酒
+- 金酒
+- 진
 has_id_wikidata: Q959362
 subclass_of: '[[_Standards/WikiData/WD~jenever,80680]]'
 named_after: '[[_Standards/WikiData/WD~jenever,80680]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Gin_people,3059102]]'
-  - '[[_Standards/WikiData/WD~Jin,13168350]]'
+- '[[_Standards/WikiData/WD~Gin_people,3059102]]'
+- '[[_Standards/WikiData/WD~Jin,13168350]]'
 alcohol_by_volume: 37.5
 instance_of: '[[_Standards/WikiData/WD~liquor,56139]]'
 social_media_followers: 43709
@@ -25,9 +62,91 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20gin%20bottl
 Amazon_com_browse_node: 15158352011
 FoodEx2_code: A03PG
 Wolfram_Language_entity_code: Entity["FoodType", "Gin"]
+dv_has_:
+  name_:
+    an: Chinebra
+    ar: جن
+    arz: جن
+    ast: xinebra
+    be: Джын
+    be-tarask: джын
+    bg: Джин
+    bn: জিন (পানীয়)
+    ca: ginebra
+    cs: džin
+    cv: Джин
+    cy: jin
+    da: gin
+    de: Gin
+    de-ch: Gin
+    el: Τζιν
+    en: gin
+    en-ca: Gin
+    en-gb: gin
+    eo: ĝino
+    es: ginebra
+    et: Džinn
+    eu: gin
+    fa: جین
+    fi: gini
+    fo: Ginn
+    fr: gin
+    gl: Xenebra
+    gv: jeneeve
+    he: ג'ין
+    hr: Džin
+    hu: gin
+    hy: Ջին
+    id: Gin
+    io: Jino
+    is: Gin
+    it: gin
+    ja: ジン
+    jv: Gin
+    ka: ჯინი
+    kk: Джин
+    ko: 진
+    ksh: Gin
+    la: Iuniperatum
+    lt: Džinas
+    lv: džins
+    mi: tīni
+    mk: Џин
+    ms: Gin
+    my: ဂျင်
+    nb: gin
+    nl: gin
+    nn: gin
+    oc: Gin
+    pl: Gin
+    pt: gim
+    pt-br: Gim
+    ro: gin
+    ru: джин
+    sco: gin
+    sh: Džin
+    si: Gin
+    sk: Gin
+    sl: gin
+    sq: Gin
+    sr: Џин
+    sv: Gin
+    ta: ஜின்
+    th: ยิน
+    tr: Cin
+    uk: Джин
+    vi: Gin
+    wuu: 金酒
+    xmf: ჯინი
+    yi: דזשין
+    yue: 氈酒
+    zh: 琴酒
+    zh-cn: 金酒
+    zh-hk: 氈酒
+    zh-my: 琴酒
+    zh-sg: 琴酒
+    zh-tw: 琴酒
 ---
-
-
 # [[Gin]]
 
 #is_/same_as :: [[wd Gin]]

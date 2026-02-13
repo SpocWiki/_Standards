@@ -1,10 +1,66 @@
 ---
 aliases:
-  - Letter of marque
-  - privateering
-  - Letter_of_Marque
-  - Letter of Marque
+- carta de corso
+- gusarska listina
+- kaparbrev
+- kaperbreef
+- kaperbrief
+- Kaperei
+- kaperisto
+- kapersbrief
+- korsanlık beratı
+- Letter of marque
+- lettera di corsa
+- Letter_of_Marque
+- lettre de marque
+- list kaperski
+- patent de cors
+- patente de corso
+- patente de corsu
+- privateering
+- каперское свидетельство
+- Каперське свідоцтво
+- овлашћење за одмазду
+- מכתב מארק
+- تفويض رد اعتداء
+- سرکاری ڈاکو
+- 私掠免許
+- 私掠許可證
+- 私掠许可证
+- 사략면장
 has_id_wikidata: Q1414906
+dv_has_:
+  name_:
+    af: kapersbrief
+    ar: تفويض رد اعتداء
+    ast: patente de corsu
+    ca: patent de cors
+    de: Kaperei
+    en: letter of marque
+    eo: kaperisto
+    es: patente de corso
+    fr: lettre de marque
+    gl: patente de corso
+    he: מכתב מארק
+    it: lettera di corsa
+    ja: 私掠免許
+    ko: 사략면장
+    nds-nl: kaperbreef
+    nl: kaperbrief
+    pl: list kaperski
+    pnb: سرکاری ڈاکو
+    pt: carta de corso
+    ru: каперское свидетельство
+    sl: gusarska listina
+    sr: овлашћење за одмазду
+    sv: kaparbrev
+    tr: korsanlık beratı
+    uk: Каперське свідоцтво
+    ur: سرکاری ڈاکو
+    zh: 私掠許可證
+    zh-hans: 私掠许可证
+    zh-hant: 私掠許可證
+    zh-hk: 私掠許可證
 ---
 # [[Letter_of_Marque]] 
 

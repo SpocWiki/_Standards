@@ -1,28 +1,55 @@
 ---
-has_time_started: 1953-10-01 
+has_time_started: 1953-10-01
 aliases:
+- Playboy
+- Playboy Magazine
+- Playboy雜誌
+- Plejboj
+- Плејбој
+- Плейбой
+- Փլեյբոյ
+- Փլէյպոյ
+- פלייבוי
+- بلاى بوى
+- بلاي بوي
+- بلي بوي
+- پلئیبوی
+- پلیبوی
+- پلے بوائے
+- प्लेबॉय
+- প্লেবয়
+- பிளேபோய்
+- ప్లేబోయ్
+- പ്ലേ ബോയ്
+- เพลย์บอย
+- ပလေးဘွိုင်း
+- პლეიბოი
+- ფლეიბოი
+- プレイボーイ
+- 花花公子
+- 플레이보이
 has_id_wikidata: Q150820
-product_or_material_produced: "[[_Standards/WikiData/WD~pornographic_film,185529]]"
-creator: "[[_Standards/WikiData/WD~Hugh_Hefner,194280]]"
-editor: "[[_Standards/WikiData/WD~Hugh_Hefner,194280]]"
-different_from: "[[_Standards/WikiData/WD~Playboy,240704]]"
-named_after: "[[_Standards/WikiData/WD~playboy,2099032]]"
-publisher: "[[_Standards/WikiData/WD~Play_boy_Enterprises,3107204]]"
-industry: "[[_Standards/WikiData/WD~pornography_industry,4373046]]"
+product_or_material_produced: '[[_Standards/WikiData/WD~pornographic_film,185529]]'
+creator: '[[_Standards/WikiData/WD~Hugh_Hefner,194280]]'
+editor: '[[_Standards/WikiData/WD~Hugh_Hefner,194280]]'
+different_from: '[[_Standards/WikiData/WD~Playboy,240704]]'
+named_after: '[[_Standards/WikiData/WD~playboy,2099032]]'
+publisher: '[[_Standards/WikiData/WD~Play_boy_Enterprises,3107204]]'
+industry: '[[_Standards/WikiData/WD~pornography_industry,4373046]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Playboy,10350469]]"
-  - "[[_Standards/WikiData/WD~Playboy,16349412]]"
-  - "[[_Standards/WikiData/WD~Playboy,16469775]]"
-  - "[[_Standards/WikiData/WD~Playboy,20530574]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Playmate,11172328]]"
+- '[[_Standards/WikiData/WD~Playboy,10350469]]'
+- '[[_Standards/WikiData/WD~Playboy,16349412]]'
+- '[[_Standards/WikiData/WD~Playboy,16469775]]'
+- '[[_Standards/WikiData/WD~Playboy,20530574]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Playmate,11172328]]'
 main_subject: "[[_Standards/WikiData/WD~men's_magazine,21886169]]"
 instance_of: "[[_Standards/WikiData/WD~men's_magazine,21886169]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 related_property: Playboy Plus ID
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 1500000
-  - 1577753
+- 1500000
+- 1577753
 number_of_pages: 150
 subreddit: Playboy
 X_Twitter_username: Playboy
@@ -38,8 +65,97 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Playboy%20logo.sv
 official_shop_URL: https://shop.playboy.com
 official_website: https://www.playboy.com/
 Commons_category: Playboy magazine
+dv_has_:
+  name_:
+    acm: بلي بوي
+    af: Playboy
+    ar: بلاي بوي
+    arz: بلاى بوى
+    ast: Playboy
+    az: Playboy
+    azb: پلئیبوی
+    be: Playboy
+    be-tarask: Playboy
+    bg: Плейбой
+    bn: প্লেবয়
+    br: Playboy
+    ca: Playboy
+    cs: Playboy
+    cy: Playboy
+    da: Playboy
+    de: Playboy
+    el: Playboy
+    en: Playboy
+    eo: Playboy
+    es: Playboy
+    et: Playboy
+    eu: Playboy
+    fa: پلیبوی
+    fi: Playboy
+    fr: Playboy
+    fy: Playboy Magazine
+    ga: Playboy
+    gl: Playboy
+    he: פלייבוי
+    hi: प्लेबॉय
+    hr: Playboy
+    hu: Playboy
+    hy: Փլեյբոյ
+    hyw: Փլէյպոյ
+    id: Playboy
+    is: Playboy
+    it: Playboy
+    ja: プレイボーイ
+    ka: პლეიბოი
+    ko: 플레이보이
+    ku: Playboy
+    la: Playboy
+    lb: Playboy
+    lt: Playboy
+    lv: Playboy
+    min: Playboy
+    ml: പ്ലേ ബോയ്
+    mr: प्लेबॉय
+    ms: Playboy
+    mul: Playboy
+    my: ပလေးဘွိုင်း
+    mzn: پلیبوی
+    nan: Playboy
+    nb: Playboy
+    nl: Playboy
+    pl: Playboy
+    pt: Playboy
+    pt-br: Playboy
+    ro: Playboy
+    ru: Playboy
+    sh: Playboy
+    sk: Playboy
+    sl: Playboy
+    so: Playboy
+    sr: Плејбој
+    sr-ec: Плејбој
+    sr-el: Plejboj
+    sv: Playboy
+    sw: Playboy
+    ta: பிளேபோய்
+    te: ప్లేబోయ్
+    tg: Playboy
+    th: เพลย์บอย
+    tr: Playboy
+    uk: Playboy
+    ur: پلے بوائے
+    vi: Playboy
+    wuu: 花花公子
+    xmf: ფლეიბოი
+    yue: Playboy雜誌
+    zh: 花花公子
+    zh-cn: 花花公子
+    zh-hans: 花花公子
+    zh-hant: 花花公子
+    zh-hk: 花花公子
+    zh-sg: 花花公子
+    zh-tw: 花花公子
 ---
-
 # [[Playboy(Magazine)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Playboy,150820|WD~Playboy,150820]]  

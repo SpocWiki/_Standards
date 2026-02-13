@@ -1,51 +1,209 @@
 ---
 aliases:
+- automaatio
+- automasi
+- automasion
+- automasjon
+- Automatigado
+- Automatio
+- automation
+- Automatiseerimine
+- automatisering
+- Automatisierung
+- automatització
+- automatizace
+- automatizacija
+- automatización
+- Automatización industrial
+- Automatizare
+- Automatizazio
+- Automatizimi
+- Automatizácia
+- automatizálás
+- automatizēšana
+- automatyzacja
+- automazione
+- automação
+- Avtomatika
+- avtomatizacija
+- Avtomatlaşdırma
+- Avtomattandırw
+- awtomatizacija
+- awtomatizzazzjoni
+- aŭtomatigo
+- Chū-tōng
+- Inhleleleko
+- Otomasyon
+- Teknik otomasi
+- tự động hóa
+- uathoibriú
+- Αυτοματισμός
+- аўтаматызацыя
+- Автоматжуулалт
+- Автоматизація
+- автоматизация
+- Автоматика
+- Автоматон
+- Автоматтандыру
+- аутоматизација
+- Худкорсозӣ
+- Ավտոմատացում
+- אוטומציה
+- اۆتوماتتاندىرۋ
+- تشغيل ذاتي
+- تطميت
+- خودکارسازی
+- स्वचालन
+- স্বয়ংক্রিয়তা
+- தன்னியக்கம்
+- ഓട്ടോമേഷൻ
+- සියැයුම
+- ระบบอัตโนมัติ
+- အော်တိုမေးရှင်း
+- オートメーション
+- 自动化
+- 自动化技术
+- 自動化
+- 自動化技術
+- 자동화
 has_id_wikidata: Q184199
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~technology,11016]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~technology,11016]]'
 different_from:
-  - "[[_Standards/WikiData/WD~autonomic_computing,788172]]"
-  - "[[_Standards/WikiData/WD~automated_machine,16039868]]"
-  - "[[_Standards/WikiData/WD~automatization,24410992]]"
+- '[[_Standards/WikiData/WD~autonomic_computing,788172]]'
+- '[[_Standards/WikiData/WD~automated_machine,16039868]]'
+- '[[_Standards/WikiData/WD~automatization,24410992]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]"
-  - "[[_Standards/WikiData/WD~process,10843872]]"
-described_by_source: "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-studied_by: "[[_Standards/WikiData/WD~automation_engineering,3952330]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Automation,6705401]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_automation,7112562]]"
-has_effect: "[[_Standards/WikiData/WD~technological_unemployment,7692538]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9421745,9421745]]"
-is_the_study_of: "[[_Standards/WikiData/WD~process,10843872]]"
-opposite_of: "[[_Standards/WikiData/WD~manual_operation,11496925]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~automation,12526674]]"
-OmegaWiki_Defined_Meaning: "534595"
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+studied_by: '[[_Standards/WikiData/WD~automation_engineering,3952330]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Automation,6705401]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_automation,7112562]]'
+has_effect: '[[_Standards/WikiData/WD~technological_unemployment,7692538]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9421745,9421745]]'
+is_the_study_of: '[[_Standards/WikiData/WD~process,10843872]]'
+opposite_of: '[[_Standards/WikiData/WD~manual_operation,11496925]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~automation,12526674]]'
+OmegaWiki_Defined_Meaning: 534595
 GitHub_topic: automation
 Commons_gallery: Automation
 Commons_category: Automation
 Dewey_Decimal_Classification:
-  - "629.8"
-  - "303.4834"
-  - "338.064"
-  - "338.454"
-  - "338.456"
-  - "658.514"
-  - "670.427"
+- 629.8
+- 303.4834
+- 338.064
+- 338.454
+- 338.456
+- 658.514
+- 670.427
 Iconclass_notation: 47D69
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GammaGIF.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tech%20Talk%20-%20Automated%20citations%20in%20Wikipedia%20-%20Citoid%20and%20the%20technology%20behind%20it.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Smarte%20Automatische%20Pflanzen%20Bew%C3%A4sserung%20%28f%C3%BCr%20den%20Urlaub%3B%20Blumat%20Classic%29.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/GammaGIF.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tech%20Talk%20-%20Automated%20citations%20in%20Wikipedia%20-%20Citoid%20and%20the%20technology%20behind%20it.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Smarte%20Automatische%20Pflanzen%20Bew%C3%A4sserung%20%28f%C3%BCr%20den%20Urlaub%3B%20Blumat%20Classic%29.webm
 subreddit: Automate
 UMLS_CUI: C0004376
 MeSH_tree_code: J01.897.104
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/AVTOMATIZATSIYA.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RobotMintCanb.jpg
+dv_has_:
+  name_:
+    ar: تشغيل ذاتي
+    ary: تطميت
+    ast: Automatización industrial
+    az: Avtomatlaşdırma
+    be: аўтаматызацыя
+    be-tarask: аўтаматызацыя
+    bg: Автоматизация
+    bn: স্বয়ংক্রিয়তা
+    bs: automatizacija
+    ca: automatització
+    cs: automatizace
+    da: automation
+    de: Automatisierung
+    el: Αυτοματισμός
+    en: automation
+    eo: aŭtomatigo
+    es: automatización
+    et: Automatiseerimine
+    eu: Automatizazio
+    fa: خودکارسازی
+    fi: automaatio
+    fr: automation
+    ga: uathoibriú
+    gl: automatización
+    he: אוטומציה
+    hi: स्वचालन
+    hr: automatizacija
+    hsb: awtomatizacija
+    hu: automatizálás
+    hy: Ավտոմատացում
+    id: Teknik otomasi
+    io: Automatigado
+    it: automazione
+    ja: オートメーション
+    kk: Автоматтандыру
+    kk-arab: اۆتوماتتاندىرۋ
+    kk-cn: اۆتوماتتاندىرۋ
+    kk-cyrl: Автоматтандыру
+    kk-kz: Автоматтандыру
+    kk-latn: Avtomattandırw
+    kk-tr: Avtomattandırw
+    ko: 자동화
+    ky: Автоматон
+    la: Automatio
+    lt: Automatizacija
+    lv: automatizēšana
+    mk: Автоматика
+    ml: ഓട്ടോമേഷൻ
+    mn: Автоматжуулалт
+    ms: automasi
+    mt: awtomatizzazzjoni
+    my: အော်တိုမေးရှင်း
+    nan: Chū-tōng
+    nb: automasjon
+    nl: automatisering
+    nn: automasjon
+    pl: automatyzacja
+    pt: automação
+    pt-br: automação
+    ro: Automatizare
+    ru: автоматизация
+    rue: Автоматизація
+    sh: Automatizacija
+    si: සියැයුම
+    sk: Automatizácia
+    sl: avtomatizacija
+    sq: Automatizimi
+    sr: аутоматизација
+    sr-ec: Аутоматизација
+    sr-el: Automatizacija
+    sv: automation
+    sw: Automation
+    ta: தன்னியக்கம்
+    tg: Худкорсозӣ
+    th: ระบบอัตโนมัติ
+    tr: Otomasyon
+    uk: автоматизація
+    ur: خودکارسازی
+    uz: Avtomatika
+    vec: automasion
+    vi: tự động hóa
+    wuu: 自动化技术
+    yue: 自動化技術
+    zh: 自动化
+    zh-cn: 自动化技术
+    zh-hans: 自动化
+    zh-hant: 自動化
+    zh-hk: 自動化技術
+    zh-sg: 自动化技术
+    zh-tw: 自動化技術
+    zu: Inhleleleko
 ---
-
 # [[Automation]] 
 
 #has_/previous_/state  :: [[Mechanization]] 

@@ -1,9 +1,27 @@
 ---
 has_id_wikidata: Q882107
+dv_has_:
+  name_:
+    de: Ionos
+    en: Ionos
+    es: 1&1 Ionos
+    eu: 1&1 Ionos
+    fa: یونوس
+    fr: Ionos
+    it: 1&1 Ionos
+    mul: Ionos
+    nl: 1&1 Ionos
+    pl: 1&1 Ionos
+    pt: 1&1 Ionos
+    ro: Ionos
+    ru: 1 & 1 Ionos
+    sv: 1&1 Ionos
+aliases:
+- 1 & 1 Ionos
+- 1&1 Ionos
+- Ionos
+- یونوس
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **Ionos** SE ([iː'ɔnɔs]; proper spelling IONOS) is a German Internet service provider 

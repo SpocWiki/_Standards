@@ -1,17 +1,84 @@
 ---
 aliases:
-  - Authoritarismus
-  - Authoritarianism
+- aotrouniegezh
+- auktoritarianism
+- Authoritarianism
+- Authoritarismus
+- autoritarism
+- autoritarisma
+- autoritarisme
+- autoritarismi
+- autoritarismm
+- autoritarismo
+- Autoritarismu
+- autoritarismus
+- Autoritarizam
+- autoritarizmas
+- Autoritarizmi
+- Autoritarizmus
+- Autoritaryanismo
+- Autoritatemeso
+- autoritær
+- Autoritārisms
+- autorytaryzm
+- avtoritarizem
+- avtoritarizm
+- Awdurdodaeth (gwleidyddiaeth)
+- aŭtoritatismo
+- Chủ nghĩa chuyên chế
+- Dominatio immoderata
+- keadikaraan
+- Mustacmarnimo
+- otoritarianisme
+- otoriteryanizm
+- otorîteryanîzm
+- Outoritarisme
+- Taayitummaa
+- tekintélyuralmi rendszer
+- Ui-khoân-chú-gī
+- údarásaíochas
+- αυταρχισμός
+- аўтарытарызм
+- Авторітарізм
+- авторитаризам
+- авторитаризм
+- Авторитаризма
+- Авторитаризмась
+- Авторитаризъм
+- ауторитаризм
+- иқтидоргароӣ
+- Ավտորիտարիզմ
+- משטר סמכותני
+- اقتدارگرایی
+- الاستبداد
+- دەسەڵاتخوازی
+- سلطوية
+- ټولواکي
+- ऑथॉरिटेरियनिज़्म
+- सत्तावाद
+- কর্তৃত্ববাদ
+- ਸੱਤਾਵਾਦ
+- આપખુદશાહી
+- ลัทธิอำนาจนิยม
+- ລັກທິອຳນາດນິຍົມ
+- ავტორიტარიზმი
+- ሥልጣናዊነት
+- 威权主义
+- 威權主義
+- 权威主义
+- 権威主義
+- 集權主義
+- 권위주의
 has_id_wikidata: Q6229
 subclass_of: '[[_Standards/WikiData/WD~autocracy,173424]]'
 opposite_of: '[[_Standards/WikiData/WD~anti_authoritarianism,1030234]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-  - '[[_Standards/WikiData/WD~political_system,28108]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_system,28108]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from: '[[_Standards/WikiData/WD~Autorytaryzm,9162703]]'
 OmegaWiki_Defined_Meaning: 352930
 Dewey_Decimal_Classification: 321.9
@@ -21,8 +88,115 @@ Commons_category: Authoritarianism
 UMLS_CUI: C0004350
 MeSH_tree_code: F01.752.098
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/AVTORITARIZM.html
+dv_has_:
+  name_:
+    af: Outoritarisme
+    am: ሥልጣናዊነት
+    ar: سلطوية
+    arz: الاستبداد
+    ast: Autoritarismu
+    az: avtoritarizm
+    be: аўтарытарызм
+    be-tarask: аўтарытарызм
+    bg: Авторитаризъм
+    bho: ऑथॉरिटेरियनिज़्म
+    bn: কর্তৃত্ববাদ
+    br: aotrouniegezh
+    bs: Autoritarizam
+    bxr: Авторитаризм
+    ca: autoritarisme
+    ckb: دەسەڵاتخوازی
+    cs: autoritarismus
+    cv: Авторитаризм
+    cy: Awdurdodaeth (gwleidyddiaeth)
+    da: autoritarisme
+    de: Autoritarismus
+    el: αυταρχισμός
+    en: authoritarianism
+    en-ca: authoritarianism
+    en-gb: authoritarianism
+    eo: aŭtoritatismo
+    es: autoritarismo
+    et: autoritarism
+    eu: autoritarismo
+    fa: اقتدارگرایی
+    fi: autoritarismi
+    fr: autoritarisme
+    fy: Autoritarisme
+    ga: údarásaíochas
+    gl: autoritarismo
+    gsw: Autoritarismus
+    gu: આપખુદશાહી
+    he: משטר סמכותני
+    hi: सत्तावाद
+    hr: autoritarizam
+    hu: tekintélyuralmi rendszer
+    hy: Ավտորիտարիզմ
+    id: otoritarianisme
+    io: Autoritatemeso
+    it: autoritarismo
+    ja: 権威主義
+    ka: ავტორიტარიზმი
+    kk: Авторитаризм
+    ko: 권위주의
+    ku: otorîteryanîzm
+    ku-latn: otorîteryanîzm
+    ky: Авторитаризм
+    la: Dominatio immoderata
+    lb: Autoritarismus
+    lfn: autoritarisme
+    lmo: Autoritarism
+    lo: ລັກທິອຳນາດນິຍົມ
+    lt: autoritarizmas
+    lv: Autoritārisms
+    mdf: Авторитаризмась
+    mk: авторитаризам
+    ms: keadikaraan
+    myv: Авторитаризма
+    nan: Ui-khoân-chú-gī
+    nb: autoritær
+    nl: autoritarisme
+    nn: autoritær
+    oc: Autoritarisme
+    om: Taayitummaa
+    pa: ਸੱਤਾਵਾਦ
+    pl: autorytaryzm
+    ps: ټولواکي
+    pt: autoritarismo
+    pt-br: autoritarismo
+    ro: autoritarism
+    ru: авторитаризм
+    rue: Авторітарізм
+    sco: authoritarianism
+    se: autoritarisma
+    sh: Autoritarizam
+    sk: Autoritarizmus
+    sl: avtoritarizem
+    smn: autoritarism
+    sms: autoritarismm
+    so: Mustacmarnimo
+    sq: Autoritarizmi
+    sr: ауторитаризм
+    sv: auktoritarianism
+    tg: иқтидоргароӣ
+    th: ลัทธิอำนาจนิยม
+    tl: Autoritaryanismo
+    tly: avtoritarizm
+    tr: otoriteryanizm
+    tt: авторитаризм
+    uk: авторитаризм
+    uz: Avtoritarizm
+    vec: autoritarismo
+    vi: Chủ nghĩa chuyên chế
+    wuu: 威权主义
+    xmf: ავტორიტარიზმი
+    yue: 集權主義
+    zh: 威權主義
+    zh-cn: 权威主义
+    zh-hans: 权威主义
+    zh-hant: 威權主義
+    zh-tw: 威權主義
 ---
-
 # [[Authoritarianism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Authoritarianism,6229|WD~Authoritarianism,6229]]  

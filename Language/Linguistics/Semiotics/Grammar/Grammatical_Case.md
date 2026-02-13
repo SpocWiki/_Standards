@@ -1,16 +1,97 @@
 ---
 aliases:
-  - Fall
-  - Grammatical_Case
-  - Grammatical Case
+- cas gramatical
+- cas grammatical
+- case
+- caso
+- caso gramatical
+- casu
+- casu gramatical
+- casus gramaticalis
+- casus grammaticus
+- caz
+- cazo gramategałe
+- cyflwr gramadegol
+- cách
+- dilbilgisel durum
+- endrika araka anjara asa
+- eset
+- Fall
+- Grammatical Case
+- Grammatical_Case
+- ismin hallanması
+- kaso
+- kaso gramatikal
+- kasu gramatikal
+- kasus
+- kays gramasek
+- kazo
+- Każ (lingwistika)
+- kelishik
+- kásus
+- kääne
+- käänüs
+- linksnis
+- locījums
+- mluvnický pád
+- naamval
+- nammefal
+- naomval
+- pad
+- padež
+- przipŏdek gramatyczny
+- przypadek
+- przëpôdk
+- pád
+- rasa gramatikore
+- sajehäämi
+- seplik
+- septik
+- Shari'a
+- sija
+- sklon
+- sââʹjjååʹbleǩ
+- troad
+- πτώση
+- πτῶσις
+- відмінок
+- дожар
+- килеш
+- пад
+- падеж
+- падежар
+- септік
+- склон
+- тийн ялгалын ай
+- түһүк
+- հոլով
+- יחסה
+- حالة نحوية
+- حالت
+- حالت دستوری
+- حالتون
+- سەپتىك
+- کاسوس
+- कारक
+- विभक्तिः
+- কারক
+- ਹਾਲਤ
+- வேற்றுமை
+- വിഭക്തി
+- การก
+- ကာရက
+- ბრუნვა
+- 格
+- 格 (语法)
+- 격
 has_id_wikidata: Q128234
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of: '[[_Standards/WikiData/WD~grammatical_category,980357]]'
 different_from: '[[_Standards/WikiData/WD~case_grammar,1735511]]'
 Wikidata_property: has grammatical case
@@ -21,8 +102,138 @@ Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/cases
 P8189: 987007535901605171
 Commons_category: Grammatical cases
 Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
+dv_has_:
+  name_:
+    af: naamval
+    ar: حالة نحوية
+    ast: casu gramatical
+    az: ismin hallanması
+    ba: килеш
+    bar: Kasus
+    be: склон
+    be-tarask: склон
+    bg: падеж
+    bn: কারক
+    br: troad
+    bs: padež
+    ca: cas gramatical
+    ce: дожар
+    cs: mluvnický pád
+    csb: przëpôdk
+    cv: падеж
+    cy: cyflwr gramadegol
+    da: kasus
+    de: Kasus
+    dsb: pad
+    el: πτώση
+    en: case
+    eo: kazo
+    es: caso gramatical
+    et: kääne
+    eu: kasu gramatikal
+    ext: casus gramaticalis
+    fa: حالت دستوری
+    fi: sija
+    fo: fall
+    fr: cas grammatical
+    fy: nammefal
+    gl: caso gramatical
+    grc: πτῶσις
+    gsw: Kasus
+    ha: Shari'a
+    he: יחסה
+    hi: कारक
+    hr: padež
+    hsb: pad
+    hu: eset
+    hy: հոլով
+    id: kasus
+    ig: case
+    inh: дожар
+    is: fall
+    it: caso
+    ja: 格
+    ka: ბრუნვა
+    kaa: seplik
+    kk: септік
+    kk-arab: سەپتىك
+    kk-cn: سەپتىك
+    kk-cyrl: септік
+    kk-kz: септік
+    kk-latn: septik
+    kk-tr: septik
+    kl: kasus
+    ko: 격
+    krj: kaso
+    kw: kays gramasek
+    la: casus grammaticus
+    lez: падежар
+    lfn: caso
+    li: naomval
+    lt: linksnis
+    lv: locījums
+    mg: endrika araka anjara asa
+    mk: падеж
+    ml: വിഭക്തി
+    mn: тийн ялгалын ай
+    ms: kasus
+    ms-arab: کاسوس
+    mt: Każ (lingwistika)
+    my: ကာရက
+    nb: kasus
+    nds: Kasus
+    ne: कारक
+    new: कारक
+    nl: naamval
+    nn: kasus
+    oc: cas gramatical
+    pa: ਹਾਲਤ
+    pap: kaso gramatikal
+    pap-aw: caso gramatical
+    pl: przypadek
+    pnb: حالت
+    pt: caso gramatical
+    pt-br: caso gramatical
+    ro: caz
+    ru: падеж
+    rue: пад
+    sa: विभक्तिः
+    sah: түһүк
+    scn: casu
+    sd: حالتون
+    se: kásus
+    sh: padež
+    sk: pád
+    sl: sklon
+    smn: sajehäämi
+    sms: sââʹjjååʹbleǩ
+    sq: rasa gramatikore
+    sr: падеж
+    sr-ec: падеж
+    sr-el: padež
+    sv: kasus
+    szl: przipŏdek gramatyczny
+    ta: வேற்றுமை
+    th: การก
+    tr: dilbilgisel durum
+    tt: килеш
+    tt-cyrl: килеш
+    tyv: падеж
+    uk: відмінок
+    uz: kelishik
+    vec: cazo gramategałe
+    vi: cách
+    vro: käänüs
+    wuu: 格 (语法)
+    yue: 格
+    zh: 格
+    zh-cn: 格
+    zh-hans: 格
+    zh-hant: 格
+    zh-hk: 格
+    zh-sg: 格
+    zh-tw: 格
 ---
-
 # [[Grammatical_Case]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Case,128234|WD~Case,128234]] 

@@ -1,30 +1,87 @@
 ---
 aliases:
-  - Contour line
-  - isoline
-  - isopleth
-  - isoquant
-  - isarithm
-  - Isoline
+- Contour line
+- entèval kontou
+- garis kontur
+- højdekurve
+- isarithm
+- isaritm
+- isilíne
+- isoligne
+- isoline
+- isolinea
+- isolinha
+- Isolinie
+- isoliña
+- isollinia
+- isolínea
+- isolínia
+- isopleet
+- isoplet
+- isopleth
+- isoplett
+- isoquant
+- isoviiva
+- izochiziqlar
+- izolineo
+- izolinia
+- izolinie
+- izolinija
+- izolinije
+- izolinio
+- izolínia
+- izolīnija
+- izovijat
+- izočrta
+- kontua
+- kontur
+- kontur çizgisi
+- samajoon
+- Đường đồng mức
+- İzoxətt
+- γραμμή περιγράμματος
+- ізалінія
+- ізолінія
+- бейнелеу сызықтары
+- изолинија
+- изолиния
+- изосызыктар
+- контурна линия
+- Իզոգծեր
+- קו רמה
+- خط الكنتور
+- خط تراز
+- समोच्च रेखा
+- समोच्चता रेषा
+- সমোন্নতি রেখা
+- சமவுயரக் கோட்டு வரைபு
+- සමෝච්ච රේඛාව
+- ကွန်တို
+- იზოხაზები
+- 等値線
+- 等值线
+- 等高線
+- 等高线
+- 등치선
 has_id_wikidata: Q6653802
 subclass_of:
-  - "[[_Standards/WikiData/WD~level_set,126955]]"
-  - "[[_Standards/WikiData/WD~curve,161973]]"
-  - "[[_Standards/WikiData/WD~line,1228250]]"
-  - "[[_Standards/WikiData/WD~plot,1474611]]"
+- '[[_Standards/WikiData/WD~level_set,126955]]'
+- '[[_Standards/WikiData/WD~curve,161973]]'
+- '[[_Standards/WikiData/WD~line,1228250]]'
+- '[[_Standards/WikiData/WD~plot,1474611]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~topography,134435]]"
-  - "[[_Standards/WikiData/WD~geology,1069]]"
-  - "[[_Standards/WikiData/WD~climatology,52139]]"
-different_from: "[[_Standards/WikiData/WD~contour_line,193311]]"
+- '[[_Standards/WikiData/WD~topography,134435]]'
+- '[[_Standards/WikiData/WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~climatology,52139]]'
+different_from: '[[_Standards/WikiData/WD~contour_line,193311]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 has_use:
-  - "[[_Standards/WikiData/WD~union,17853087]]"
-  - "[[_Standards/WikiData/WD~cartography,42515]]"
+- '[[_Standards/WikiData/WD~union,17853087]]'
+- '[[_Standards/WikiData/WD~cartography,42515]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Courbe%20niveau.svg
 described_at_URL: https://phrontistery.info/contour.html
 Stack_Exchange_tag: https://stackoverflow.com/tags/contour
@@ -32,25 +89,96 @@ Commons_category: Contour lines
 native_label: ἴσογράμμα
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Isoline,6653802]]"
-    - "[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]"
-    - "[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]"
-    - "[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]"
-    - "[[/_protect/Earth/Geography/Cartography/Isoline.protect|Isoline.protect]]"
-    - "[[/_private/Earth/Geography/Cartography/Isoline.private|Isoline.private]]"
-    - "[[/_personal/Earth/Geography/Cartography/Isoline.personal|Isoline.personal]]"
-    - "[[/_secret/Earth/Geography/Cartography/Isoline.secret|Isoline.secret]]"
+  - '[[../../../WikiData/WD~Isoline,6653802]]'
+  - '[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]'
+  - '[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]'
+  - '[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]'
+  - '[[/_protect/Earth/Geography/Cartography/Isoline.protect|Isoline.protect]]'
+  - '[[/_private/Earth/Geography/Cartography/Isoline.private|Isoline.private]]'
+  - '[[/_personal/Earth/Geography/Cartography/Isoline.personal|Isoline.personal]]'
+  - '[[/_secret/Earth/Geography/Cartography/Isoline.secret|Isoline.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Isoline,6653802]]"
-  - "[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]"
-  - "[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]"
-  - "[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]"
-  - "[[/_protect/Earth/Geography/Cartography/Isoline.protect|Isoline.protect]]"
-  - "[[/_private/Earth/Geography/Cartography/Isoline.private|Isoline.private]]"
-  - "[[/_personal/Earth/Geography/Cartography/Isoline.personal|Isoline.personal]]"
-  - "[[/_secret/Earth/Geography/Cartography/Isoline.secret|Isoline.secret]]"
+- '[[../../../WikiData/WD~Isoline,6653802]]'
+- '[[/_Standards/Earth/Geography/Cartography/Isoline|Isoline]]'
+- '[[/_public/Earth/Geography/Cartography/Isoline.public|Isoline.public]]'
+- '[[/_internal/Earth/Geography/Cartography/Isoline.internal|Isoline.internal]]'
+- '[[/_protect/Earth/Geography/Cartography/Isoline.protect|Isoline.protect]]'
+- '[[/_private/Earth/Geography/Cartography/Isoline.private|Isoline.private]]'
+- '[[/_personal/Earth/Geography/Cartography/Isoline.personal|Isoline.personal]]'
+- '[[/_secret/Earth/Geography/Cartography/Isoline.secret|Isoline.secret]]'
+dv_has_:
+  name_:
+    ar: خط الكنتور
+    ast: isollinia
+    az: İzoxətt
+    ba: изолиния
+    be: ізалінія
+    be-tarask: ізалінія
+    bg: контурна линия
+    bn: সমোন্নতি রেখা
+    ca: isolínia
+    cs: izolinie
+    da: højdekurve
+    de: Isolinie
+    de-ch: Isolinie
+    el: γραμμή περιγράμματος
+    en: contour line
+    en-ca: contour line
+    en-gb: contour line
+    eo: izolinio
+    es: isolínea
+    et: samajoon
+    eu: isolinea
+    fa: خط تراز
+    fi: isoviiva
+    fr: isoligne
+    ga: isilíne
+    gl: isoliña
+    he: קו רמה
+    hi: समोच्च रेखा
+    hr: izolinije
+    ht: entèval kontou
+    hy: Իզոգծեր
+    id: garis kontur
+    io: izolineo
+    ja: 等値線
+    ka: იზოხაზები
+    kk: бейнелеу сызықтары
+    ko: 등치선
+    ky: изосызыктар
+    lt: izolinija
+    lv: izolīnija
+    mk: изолинија
+    mr: समोच्चता रेषा
+    ms: kontur
+    my: ကွန်တို
+    nb: isoplett
+    nl: isopleet
+    nn: isoplet
+    oc: isolinha
+    pl: izolinia
+    pt: isolinha
+    ro: izolinie
+    ru: изолиния
+    si: සමෝච්ච රේඛාව
+    sk: izolínia
+    sl: izočrta
+    sq: izovijat
+    sr: изолинија
+    sv: isaritm
+    sw: kontua
+    ta: சமவுயரக் கோட்டு வரைபு
+    tr: kontur çizgisi
+    uk: ізолінія
+    uz: izochiziqlar
+    vi: Đường đồng mức
+    wuu: 等高线
+    yue: 等高線
+    zh: 等高線
+    zh-cn: 等值线
+    zh-hans: 等高线
+    zh-hant: 等高線
 ---
-
 # [[Isoline]] 
 
 #is_/same_as :: [[WD~Isoline,6653802]] 

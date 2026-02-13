@@ -1,38 +1,268 @@
 ---
 aliases:
-  - Arithmetic_Mean
-  - Arithmetic Mean
+- Arithmetic Mean
+- Arithmetic_Mean
+- aritmeetiline keskmine
+- aritmeetlâš koskâárvu
+- aritmeettinen keskiarvo
+- aritmeettlaž kõskkärvv
+- aritmehtalaš gaskaárvu
+- Aritmetický priemer
+- aritmetický průměr
+- aritmetik orta
+- aritmetika meznombro
+- Aritmetinis vidurkis
+- aritmetisk gjennomsnitt
+- aritmetisk middeltal
+- aritmetiskt medelvärde
+- Aritmetička sredina
+- aritmetična sredina
+- aritmētiskais vidējais
+- Batezbesteko aritmetiko sinple
+- Durchschnitt
+- media aritmetica
+- media aritmética
+- medie aritmetică
+- Mesi aritmetik
+- meán uimhríochtúil
+- Min aritmetik
+- mitjana aritmètica
+- moyenne arithmétique
+- média aritmética
+- Oʻrta arifmetik
+- rata-rata aritmetika
+- rekenkundig gemiddelde
+- számtani közép
+- Trung bình cộng
+- Valor medius arithmeticus
+- średnia arytmetyczna
+- Ədədi orta
+- αριθμητικό μέσο
+- Аритметичка средина
+- арифметикăлла вăтамми
+- Арифметикалык орто сан
+- Арифметикалық орта шама
+- середнє арифметичне
+- среднее арифметическое
+- средно аритметично
+- сярэдняе арытмэтычнае
+- сярэдняе арыфметычнае
+- Միջին թվաբանական
+- אַריטמעטישער דורכשניט
+- ממוצע חשבוני
+- حسابي سراسري
+- متوسط حسابي
+- میانگین حسابی
+- ناوەندی ژمێرەیی
+- نمونہ اوسط
+- समान्तर माध्य
+- සමාන්තර මධ්යන්යය
+- มัชฌิมเลขคณิต
+- មធ្យមនព្វន្ធ
+- 算术平均数
+- 算術平均
+- 算術平均值
+- 산술 평균
 has_id_wikidata: Q19033
 greater_than: '[[_Standards/WikiData/WD~geometric_mean,185049]]'
 less_than: '[[_Standards/WikiData/WD~root_mean_square,223323]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]'
-  - '[[_Standards/WikiData/WD~weighted_mean,729113]]'
-  - '[[_Standards/WikiData/WD~generalized_mean,855729]]'
-  - '[[_Standards/WikiData/WD~statistic,1949963]]'
-  - '[[_Standards/WikiData/WD~mean,2796622]]'
-  - '[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]'
+- '[[_Standards/WikiData/WD~quasi_arithmetic_mean,583095]]'
+- '[[_Standards/WikiData/WD~weighted_mean,729113]]'
+- '[[_Standards/WikiData/WD~generalized_mean,855729]]'
+- '[[_Standards/WikiData/WD~statistic,1949963]]'
+- '[[_Standards/WikiData/WD~mean,2796622]]'
+- '[[_Standards/WikiData/WD~Pythagorean_mean,3281360]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
 different_from: '[[_Standards/WikiData/WD~sample_mean,105675280]]'
 defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\overline {x}}={\\frac {1}{n}}\\sum _{i=1}^{n}x_{n}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mover>\n            <mi>x</mi>\n            <mo accent=\"false\">&#x00AF;<!-- ¯ --></mo>\n          </mover>\n        </mrow>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>n</mi>\n          </mfrac>\n        </mrow>\n        <munderover>\n          <mo>&#x2211;<!-- ∑ --></mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>i</mi>\n            <mo>=</mo>\n            <mn>1</mn>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>n</mi>\n          </mrow>\n        </munderover>\n        <msub>\n          <mi>x</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>n</mi>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\overline {x}}={\\frac {1}{n}}\\sum _{i=1}^{n}x_{n}}</annotation>\n  </semantics>\n</math>"
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mover><mi>x</mi><mo>&#x203E;</mo></mover></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\overline {x}}={\frac {1}{n}}\sum _{i=1}^{n}x_{n}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>x</mi>
+              <mo accent="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+          <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>n</mi>
+            </mfrac>
+          </mrow>
+          <munderover>
+            <mo>&#x2211;<!-- ∑ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </munderover>
+          <msub>
+            <mi>x</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\overline {x}}={\frac {1}{n}}\sum _{i=1}^{n}x_{n}}</annotation>
+    </semantics>
+  </math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mover><mi>x</mi><mo>&#x203E;</mo></mover></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
 in_defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\overline {x}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mover>\n            <mi>x</mi>\n            <mo accent=\"false\">&#x00AF;<!-- ¯ --></mo>\n          </mover>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\overline {x}}}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\frac {1}{n}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>n</mi>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\frac {1}{n}}}</annotation>\n  </semantics>\n</math>"
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\sum _{i=1}^{n}x_{n}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <munderover>\n          <mo>&#x2211;<!-- ∑ --></mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>i</mi>\n            <mo>=</mo>\n            <mn>1</mn>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>n</mi>\n          </mrow>\n        </munderover>\n        <msub>\n          <mi>x</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>n</mi>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\sum _{i=1}^{n}x_{n}}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\overline {x}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>x</mi>
+              <mo accent="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\overline {x}}}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\frac {1}{n}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>n</mi>
+            </mfrac>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{n}}}</annotation>
+    </semantics>
+  </math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub></mstyle></mrow></math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \sum _{i=1}^{n}x_{n}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <munderover>
+            <mo>&#x2211;<!-- ∑ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </munderover>
+          <msub>
+            <mi>x</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \sum _{i=1}^{n}x_{n}}</annotation>
+    </semantics>
+  </math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Seesaw%20with%20mean.svg
 IEV_number: 103-02-01
 Commons_category: Arithmetic mean
 UMLS_CUI: C0444504
+dv_has_:
+  name_:
+    ar: متوسط حسابي
+    ast: Media aritmética
+    az: Ədədi orta
+    be: сярэдняе арыфметычнае
+    be-tarask: сярэдняе арытмэтычнае
+    bg: средно аритметично
+    bs: Aritmetička sredina
+    ca: mitjana aritmètica
+    ckb: ناوەندی ژمێرەیی
+    cs: aritmetický průměr
+    cv: арифметикăлла вăтамми
+    de: Durchschnitt
+    el: αριθμητικό μέσο
+    en: arithmetic mean
+    eo: aritmetika meznombro
+    es: media aritmética
+    et: aritmeetiline keskmine
+    eu: Batezbesteko aritmetiko sinple
+    fa: میانگین حسابی
+    fi: aritmeettinen keskiarvo
+    fr: moyenne arithmétique
+    ga: meán uimhríochtúil
+    gl: Media aritmética
+    he: ממוצע חשבוני
+    hi: समान्तर माध्य
+    hr: Aritmetička sredina
+    hu: számtani közép
+    hy: Միջին թվաբանական
+    id: rata-rata aritmetika
+    it: media aritmetica
+    ja: 算術平均
+    kk: Арифметикалық орта шама
+    km: មធ្យមនព្វន្ធ
+    ko: 산술 평균
+    ky: Арифметикалык орто сан
+    la: Valor medius arithmeticus
+    lt: Aritmetinis vidurkis
+    lv: aritmētiskais vidējais
+    mag: समान्तर माध्य
+    mk: Аритметичка средина
+    ms: Min aritmetik
+    nb: aritmetisk gjennomsnitt
+    nl: rekenkundig gemiddelde
+    nn: aritmetisk middeltal
+    pl: średnia arytmetyczna
+    pms: media aritmética
+    pt: média aritmética
+    ro: medie aritmetică
+    ru: среднее арифметическое
+    sd: حسابي سراسري
+    se: aritmehtalaš gaskaárvu
+    sh: Aritmetička sredina
+    si: සමාන්තර මධ්යන්යය
+    sk: Aritmetický priemer
+    sl: aritmetična sredina
+    smn: aritmeetlâš koskâárvu
+    sms: aritmeettlaž kõskkärvv
+    sq: Mesi aritmetik
+    sr: аритметичка средина
+    sr-ec: аритметичка средина
+    sr-el: aritmetička sredina
+    su: Arithmetic mean
+    sv: aritmetiskt medelvärde
+    th: มัชฌิมเลขคณิต
+    tr: aritmetik orta
+    uk: середнє арифметичне
+    ur: نمونہ اوسط
+    uz: Oʻrta arifmetik
+    vi: Trung bình cộng
+    wuu: 算术平均数
+    yi: אַריטמעטישער דורכשניט
+    yue: 算術平均值
+    zh: 算术平均数
 ---
-
 # [[Arithmetic_Mean]] 
 
 #is_/same_as :: [[../../WikiData/WD~Arithmetic_mean,19033|WD~Arithmetic_mean,19033]] 

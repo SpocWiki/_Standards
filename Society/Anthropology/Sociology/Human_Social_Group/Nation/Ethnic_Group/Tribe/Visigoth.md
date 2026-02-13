@@ -1,31 +1,195 @@
 ---
 aliases:
-  - Visigothi
-  - Wisigothi
-  - Vesi
-  - Visi
-  - Wesi
-  - Wisi
-  - Visigoth
+- Besigodos
+- Bisigodo
+- Fisigoaten
+- Fisigothiaid
+- Länsigootit
+- Läänegoodid
+- Mga Visigodo
+- Na Viseagotaigh
+- pueblo visigodo
+- Vesi
+- Vestgotai
+- Vestgotarar
+- Vestgotere
+- Vestgoti
+- Vestgotlar
+- Vestqotlar
+- Visi
+- Visigodo
+- Visigodos
+- Visigot
+- Visigoten
+- Visigoter
+- Visigotes
+- Visigoth
+- Visigothi
+- Visigoths
+- Visigoti
+- Visigotoj
+- Visigotos
+- Visigots
+- Visigoty
+- Visigotët
+- Visigotì
+- Visigòts
+- Vixigöti
+- Vizigoti
+- Vizigotlar
+- Vizigoți
+- Vizigóti
+- vizigótok
+- Viżigoti
+- Wavisigoti
+- Wes-Gote
+- Wesi
+- Westgoten
+- Wisi
+- Wisigoten
+- Wisigothi
+- Wisigoths
+- Wizigoted
+- Wizygoci
+- Zahodni Goti
+- Zapadni Goti
+- Βησιγότθοι
+- Вестготи
+- Вестготлар
+- Вестготсем
+- вестготтæ
+- Вестготы
+- Визиготи
+- Визиготы
+- Вэстготы
+- Վեստգոթեր
+- ויזיגותים
+- خارختئیج گوتئون
+- فيسيجوث
+- قوط غربيون
+- ویزگاتھ
+- ویزی قوتلار
+- ویزیگوتها
+- ݣوط غربيين
+- വിസിഗോത്ത്
+- ชาววิซิกอท
+- ვესტგუთები
+- 西ゴート族
+- 西哥德人
+- 西哥特人
+- 서고트족
+- "\U00010345\U00010339\U00010343\U00010339\U00010332\U0001033F\U00010344\U00010330"
 has_id_wikidata: Q23693
 subclass_of:
-  - '[[_Standards/WikiData/WD~tribe,133311]]'
-  - '[[_Standards/WikiData/WD~Germanic_people,22633]]'
+- '[[_Standards/WikiData/WD~tribe,133311]]'
+- '[[_Standards/WikiData/WD~Germanic_people,22633]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tribe,133311]]'
-  - '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+- '[[_Standards/WikiData/WD~tribe,133311]]'
+- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Commons_category: Visigoths
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visigoths%20sack%20Rome.jpg
 Krugosvet_article_archived_: istoriya/VESTGOTI.html
+dv_has_:
+  name_:
+    af: Wes-Gote
+    an: Visigodos
+    ar: قوط غربيون
+    ary: ݣوط غربيين
+    arz: فيسيجوث
+    ast: visigodos
+    az: Vestqotlar
+    azb: ویزی قوتلار
+    be: Вестготы
+    be-tarask: Вэстготы
+    bg: Вестготи
+    br: Wizigoted
+    bs: Vizigoti
+    ca: Visigots
+    cs: Vizigóti
+    cv: Вестготсем
+    cy: Fisigothiaid
+    da: Visigoter
+    de: Westgoten
+    el: Βησιγότθοι
+    en: Visigoths
+    eo: Visigotoj
+    es: pueblo visigodo
+    et: Läänegoodid
+    eu: Bisigodo
+    fa: ویزیگوتها
+    fi: Länsigootit
+    fr: Wisigoths
+    fy: Fisigoaten
+    ga: Na Viseagotaigh
+    gl: visigodos
+    got: "\U00010345\U00010339\U00010343\U00010339\U00010332\U0001033F\U00010344\U00010330"
+    he: ויזיגותים
+    hr: Zapadni Goti
+    hu: vizigótok
+    hy: Վեստգոթեր
+    ia: Visigotes
+    id: Visigoth
+    it: Visigoti
+    ja: 西ゴート族
+    ka: ვესტგუთები
+    ko: 서고트족
+    la: Visigothi
+    lb: Wisigoten
+    lfn: Visigotos
+    lij: Vixigöti
+    lmo: Visigoti
+    lt: Vestgotai
+    lv: Vestgoti
+    mg: Visigoty
+    mk: Визиготи
+    ml: വിസിഗോത്ത്
+    ms: Visigoth
+    mt: Viżigoti
+    mwl: Besigodos
+    mzn: خارختئیج گوتئون
+    nap: Visigotì
+    nb: Vestgotere
+    nds: Westgoten
+    nds-nl: Visigoten
+    nl: Visigoten
+    nn: Vestgotarar
+    oc: Visigòts
+    os: вестготтæ
+    pap: Visigot
+    pl: Wizygoci
+    pt: Visigodos
+    ro: Vizigoți
+    ru: Вестготы
+    rue: Визиготы
+    scn: Visigoti
+    sh: Zapadni Goti
+    sk: Vizigóti
+    sl: Zahodni Goti
+    sq: Visigotët
+    sr: Визиготи
+    sv: Visigoter
+    sw: Wavisigoti
+    th: ชาววิซิกอท
+    tl: Mga Visigodo
+    tr: Vizigotlar
+    tt: Вестготлар
+    uk: вестготи
+    ur: ویزگاتھ
+    uz: Vestgotlar
+    vec: vizigoti
+    vi: Visigoth
+    war: Visigodo
+    wuu: 西哥特人
+    yue: 西哥德人
+    zh: 西哥特人
 ---
-
 # [[Visigoth]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Visigoths,23693|WD~Visigoths,23693]]  

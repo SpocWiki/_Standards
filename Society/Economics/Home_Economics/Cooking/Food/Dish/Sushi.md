@@ -1,23 +1,81 @@
 ---
 aliases:
+- Isushi
+- Maqpiġaaġmiŋa
+- soesie
+- soesji
+- soshí
+- Souchi
+- su-sí
+- suchîn
+- Suschi
+- sushi
+- Sushio
+- susi
+- susyi
+- suxi
+- suŝio
+- suşi
+- suši
+- sušis
+- szusi
+- sú-sih
+- súchi
+- súisí
+- σούσι
+- сусі
+- суші
+- суши
+- сушы
+- сүши
+- Սուշի
+- סושי
+- السوشي
+- سوشى
+- سوشي
+- سوشی
+- سۇشى
+- सुशी
+- सुशी (जापानी व्यंजन)
+- सुसी
+- सूशी
+- চুশ্বি
+- সুশি
+- ਸੂਸ਼ੀ
+- சுசி
+- సుషి
+- ಸೂಶಿ
+- സുഷി
+- ซูชิ
+- ຊູຊິ
+- ཧྲོའུ་སི།
+- ဆူရှီ
+- სუში
+- ᏑᏏ
+- ស៊ូស៊ី
+- ⵙⵓⵛⵉ
+- 壽司
+- 寿司
+- 鮨
+- 스시
 has_id_wikidata: Q46383
-cuisine: "[[_Standards/WikiData/WD~Japanese_cuisine,234138]]"
-serving_temperature: "[[_Standards/WikiData/WD~cold,270952]]"
+cuisine: '[[_Standards/WikiData/WD~Japanese_cuisine,234138]]'
+serving_temperature: '[[_Standards/WikiData/WD~cold,270952]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Japanese_rice_dish,1683302]]"
-  - "[[_Standards/WikiData/WD~seafood_dish,11559422]]"
-  - "[[_Standards/WikiData/WD~raw_fish_dish,44480854]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_sushi,6307500]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Sushi,8084738]]"
-has_part_s_: "[[_Standards/WikiData/WD~sumeshi,10861403]]"
+- '[[_Standards/WikiData/WD~Japanese_rice_dish,1683302]]'
+- '[[_Standards/WikiData/WD~seafood_dish,11559422]]'
+- '[[_Standards/WikiData/WD~raw_fish_dish,44480854]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sushi,6307500]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sushi,8084738]]'
+has_part_s_: '[[_Standards/WikiData/WD~sumeshi,10861403]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~sumeshi,10861403]]"
-  - "[[_Standards/WikiData/WD~raw_fish,44480852]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
-different_from: "[[_Standards/WikiData/WD~onigiri,13393]]"
-indigenous_to: "[[_Standards/WikiData/WD~Japan,17]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "7908"
+- '[[_Standards/WikiData/WD~sumeshi,10861403]]'
+- '[[_Standards/WikiData/WD~raw_fish,44480852]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+different_from: '[[_Standards/WikiData/WD~onigiri,13393]]'
+indigenous_to: '[[_Standards/WikiData/WD~Japan,17]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 7908
 Commons_gallery: Sushi
 Commons_category: Sushi
 booru_tag: sushi
@@ -25,19 +83,145 @@ Danbooru_tag: sushi
 IMDb_keyword: sushi
 subreddit: sushi
 hashtag:
-  - sushi
-  - 寿司
+- sushi
+- 寿司
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Various%20sushi%2C%20beautiful%20October%20night%20at%20midnight.jpg
 native_label:
-  - 寿司
-  - すし
-  - 鮨
-  - 鮓
-Unicode_character: 🍣
+- 寿司
+- すし
+- 鮨
+- 鮓
+Unicode_character: "\U0001F363"
 OpenStreetMap_tag: cuisine=sushi
-Dewey_Decimal_Classification: "641.82"
+Dewey_Decimal_Classification: 641.82
+dv_has_:
+  name_:
+    af: soesji
+    an: Sushi
+    ar: سوشي
+    ary: السوشي
+    arz: سوشى
+    as: চুশ্বি
+    ast: suxi
+    awa: सुशी (जापानी व्यंजन)
+    az: suşi
+    azb: سوشی
+    ba: Суши
+    bar: Suschi
+    bcl: Sushi
+    be: сушы
+    be-tarask: сусі
+    bg: суши
+    bn: সুশি
+    bo: ཧྲོའུ་སི།
+    br: sushi
+    ca: sushi
+    chr: ᏑᏏ
+    ckb: سوشی
+    cs: suši
+    cy: sushi
+    da: sushi
+    de: Sushi
+    el: σούσι
+    en: sushi
+    eo: suŝio
+    es: sushi
+    et: suši
+    eu: sushi
+    fa: سوشی
+    fi: sushi
+    fo: sushi
+    fr: sushi
+    ga: súisí
+    gan: 壽司
+    gl: suxi
+    gn: súchi
+    hak: su-sí
+    he: סושי
+    hi: सूशी
+    hr: suši
+    hu: szusi
+    hy: Սուշի
+    hyw: Սուշի
+    iba: Sushi
+    id: susyi
+    ik: Maqpiġaaġmiŋa
+    io: Sushio
+    is: sushi
+    it: sushi
+    ja: 寿司
+    jv: sushi
+    ka: სუში
+    km: ស៊ូស៊ី
+    kn: ಸೂಶಿ
+    ko: 스시
+    ky: суши
+    la: sushi
+    lmo: sushi
+    lo: ຊູຊິ
+    lt: sušis
+    lv: suši
+    lzh: 鮨
+    min: sushi
+    mk: суши
+    ml: സുഷി
+    mn: сүши
+    mr: सुशी
+    mrj: суши
+    ms: susyi
+    ms-arab: سوشي
+    my: ဆူရှီ
+    nan: sú-sih
+    nb: sushi
+    nds-nl: soesie
+    ne: सुसी
+    nl: sushi
+    nrm: suchîn
+    oc: soshí
+    pa: ਸੂਸ਼ੀ
+    pl: sushi
+    pms: Sushi
+    pnb: سوشی
+    pt: sushi
+    pwn: susi
+    ro: sushi
+    ru: суши
+    scn: sushi
+    sco: sushi
+    sh: suši
+    sk: suši
+    sl: suši
+    sq: Sushi
+    sr: суши
+    su: sushi
+    sv: sushi
+    ta: சுசி
+    te: సుషి
+    th: ซูชิ
+    tl: sushi
+    tr: suşi
+    tt: суши
+    ug: سۇشى
+    uk: суші
+    ur: سوشی
+    uz: Sushi
+    vi: sushi
+    wa: Souchi
+    war: Sushi
+    wuu: 寿司
+    yue: 壽司
+    zgh: ⵙⵓⵛⵉ
+    zh: 寿司
+    zh-cn: 寿司
+    zh-hans: 寿司
+    zh-hant: 壽司
+    zh-hk: 壽司
+    zh-mo: 壽司
+    zh-my: 寿司
+    zh-sg: 寿司
+    zh-tw: 壽司
+    zu: Isushi
 ---
-
 # [[Sushi]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sushi,46383|WD~Sushi,46383]]  

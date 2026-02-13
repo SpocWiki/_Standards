@@ -1,22 +1,89 @@
 ---
 aliases:
+- Brechungsindex
+- Breegtaal
+- Breektaal
+- brekingsindeks
+- brekingsindex
+- brydningsindeks
+- brytingsindeks
+- brytningsindeks
+- brytningsindex
+- chiết suất
+- co-effaght aascellagh
+- comhéifeacht athraonta
+- errefrakzio-indize
+- indeks bias
+- indeks biasan
+- Indeks prelamanja
+- index lomu
+- indice de refracție
+- indice de réfraction
+- indice di rifrazione
+- Indici de refraccion
+- işığın tam daxili qayıtması
+- kırılma indisi
+- laušanas koeficients
+- lomni količnik
+- lūžio rodiklis
+- murdumisnäitaja
+- mynegrif plygiant
+- refractive index
+- refrakta indico
+- taitekerroin
+- törésmutató
+- współczynnik załamania
+- índex de refracció
+- índice de refracción
+- índice refrativo
+- índiz de refraición
+- δείκτης διάθλασης
+- индекс преламања
+- паказальнік пераламленьня
+- паказчык праламлення
+- показател на прекршување
+- показател на пречупване
+- показатель преломления
+- показник заломлення
+- сыну көрсеткіші
+- фæсæттынады æвдисæг
+- хуçăлу кăтартăшĕ
+- хугалах илтгэгч
+- һыныусанлыҡ күрһәткесе
+- Բեկման ցուցիչ
+- מקדם שבירה
+- انعطاف نما
+- ضریب شکست
+- قرينة الانكسار
+- अपवर्तनांक
+- প্রতিসরাঙ্ক
+- প্ৰতিসৰণাংক
+- ਅਪਵਰਤਨਾਂਕ
+- ஒளிவிலகல் குறிப்பெண்
+- వక్రీభవన గుణకం
+- ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ
+- അപവർത്തനാങ്കം
+- ดรรชนีหักเห
+- 屈折率
+- 折射率
+- 굴절률
 has_id_wikidata: Q174102
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
-  - "[[_Standards/WikiData/WD~index_number,1738991]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~index_number,1738991]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_7_2008_Quantities_and_units_Part_7_Light,26711937]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]"
-different_from: "[[_Standards/WikiData/WD~complex_refractive_index,108073699]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_7_2008_Quantities_and_units_Part_7_Light,26711937]]'
+- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
+different_from: '[[_Standards/WikiData/WD~complex_refractive_index,108073699]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
 Wikidata_property: refractive index
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~1,199]]"
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199]]'
 quantity_symbol_string_: n
 Commons_category: Refraction
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
@@ -25,8 +92,92 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Negative%20refraction.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Snells%20law%20wavefronts.gif
 IEV_number: 845-24-109
+dv_has_:
+  name_:
+    af: brekingsindeks
+    ar: قرينة الانكسار
+    as: প্ৰতিসৰণাংক
+    ast: índiz de refraición
+    az: işığın tam daxili qayıtması
+    ba: һыныусанлыҡ күрһәткесе
+    be: паказчык праламлення
+    be-tarask: паказальнік пераламленьня
+    bg: показател на пречупване
+    bn: প্রতিসরাঙ্ক
+    bs: Indeks prelamanja
+    ca: índex de refracció
+    cs: index lomu
+    cv: хуçăлу кăтартăшĕ
+    cy: mynegrif plygiant
+    da: brydningsindeks
+    de: Brechungsindex
+    el: δείκτης διάθλασης
+    en: refractive index
+    eo: refrakta indico
+    es: índice de refracción
+    et: murdumisnäitaja
+    eu: errefrakzio-indize
+    fa: ضریب شکست
+    fi: taitekerroin
+    fr: indice de réfraction
+    frr: Breegtaal
+    ga: comhéifeacht athraonta
+    gl: índice de refracción
+    gv: co-effaght aascellagh
+    he: מקדם שבירה
+    hi: अपवर्तनांक
+    hr: Indeks prelamanja
+    hu: törésmutató
+    hy: Բեկման ցուցիչ
+    id: indeks bias
+    it: indice di rifrazione
+    ja: 屈折率
+    kk: сыну көрсеткіші
+    kn: ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ
+    ko: 굴절률
+    lt: lūžio rodiklis
+    lv: laušanas koeficients
+    mk: показател на прекршување
+    ml: അപവർത്തനാങ്കം
+    mn: хугалах илтгэгч
+    mr: अपवर्तनांक
+    ms: indeks biasan
+    nb: brytningsindeks
+    nl: brekingsindex
+    nn: brytingsindeks
+    oc: Indici de refraccion
+    os: фæсæттынады æвдисæг
+    pa: ਅਪਵਰਤਨਾਂਕ
+    pl: współczynnik załamania
+    pt: índice refrativo
+    ro: indice de refracție
+    ru: показатель преломления
+    sco: refractive index
+    sh: indeks prelamanja
+    sk: index lomu
+    sl: lomni količnik
+    sr: индекс преламања
+    sr-ec: индекс преламања
+    sr-el: indeks prelamanja
+    stq: Breektaal
+    sv: brytningsindex
+    ta: ஒளிவிலகல் குறிப்பெண்
+    te: వక్రీభవన గుణకం
+    th: ดรรชนีหักเห
+    tr: kırılma indisi
+    uk: показник заломлення
+    ur: انعطاف نما
+    vi: chiết suất
+    wuu: 折射率
+    yue: 折射率
+    zh: 折射率
+    zh-cn: 折射率
+    zh-hans: 折射率
+    zh-hant: 折射率
+    zh-hk: 折射率
+    zh-sg: 折射率
+    zh-tw: 折射率
 ---
-
 # [[Refractive_Index]] 
 
 #is_/same_as :: [[WD~Refractive_index,174102]] 

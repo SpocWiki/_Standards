@@ -1,17 +1,134 @@
 ---
 aliases:
+- Bisiro
+- Kuc
+- Kuda padi
+- Kuda poni
+- Merlyn
+- Midilli
+- Ngựa giống lùn
+- Ponei
+- poneo
+- poney
+- Poni
+- Poni otlari
+- Ponijs
+- ponni
+- ponny
+- pony
+- Ponï
+- Pownie
+- pónei
+- póniló
+- pônei
+- πόνι
+- поні
+- пони
+- Պոնիներ
+- פאני
+- פוני
+- فرس قزم
+- پونىي
+- پونی
+- छोटा घोड़ा
+- மட்டக்குதிரை
+- ತಟ್ಟು
+- პონი
+- ポニー
+- 果下馬
+- 果下马
+- 矮種馬
+- 矮馬
+- 矮马
+- 조랑말
 has_id_wikidata: Q188828
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-different_from: "[[_Standards/WikiData/WD~Kuc,87800199]]"
-subclass_of: "[[_Standards/WikiData/WD~horse,726]]"
-U_S_National_Archives_Identifier: "10646943"
-OmegaWiki_Defined_Meaning: "408219"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+different_from: '[[_Standards/WikiData/WD~Kuc,87800199]]'
+subclass_of: '[[_Standards/WikiData/WD~horse,726]]'
+U_S_National_Archives_Identifier: 10646943
+OmegaWiki_Defined_Meaning: 408219
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IcelandicHorseInWinter.jpg
 Commons_category: Ponies
+dv_has_:
+  name_:
+    ady: Пони
+    ar: فرس قزم
+    ast: poni
+    az: Poni
+    be-tarask: поні
+    bg: Пони
+    ca: poni
+    cs: pony
+    cy: Merlyn
+    da: Pony
+    de: Pony
+    diq: Midilli
+    el: πόνι
+    en: pony
+    eo: poneo
+    es: poni
+    et: Poni
+    eu: Poney
+    fa: پونی
+    fi: poni
+    fr: poney
+    gl: poni
+    he: פוני
+    hi: छोटा घोड़ा
+    hr: Poni
+    hu: póniló
+    hy: Պոնիներ
+    id: Kuda poni
+    io: Poneo
+    it: pony
+    ja: ポニー
+    ka: პონი
+    kk: Пони
+    kk-arab: پونىي
+    kk-cn: پونىي
+    kk-cyrl: Пони
+    kk-kz: Пони
+    kk-latn: Ponï
+    kk-tr: Ponï
+    kn: ತಟ್ಟು
+    ko: 조랑말
+    ky: Пони
+    li: Pony
+    lv: Ponijs
+    mk: пони
+    ms: Kuda padi
+    nb: ponni
+    nl: pony
+    nn: ponni
+    pl: Kuc
+    pt: pónei
+    pt-br: pônei
+    ro: Ponei
+    ru: пони
+    sco: Pownie
+    sl: poni
+    sq: poni
+    sr: пони
+    sv: ponny
+    ta: மட்டக்குதிரை
+    tl: Bisiro
+    tr: Midilli
+    uk: Поні
+    uz: Poni otlari
+    vi: Ngựa giống lùn
+    wuu: 矮马
+    yi: פאני
+    yue: 矮馬
+    zh: 矮種馬
+    zh-cn: 果下马
+    zh-hans: 果下马
+    zh-hant: 矮種馬
+    zh-hk: 果下馬
+    zh-sg: 果下马
+    zh-tw: 矮種馬
 ---
-
 # [[Pony]] 
 
 #is_/same_as :: [[WD~Pony,188828]] 

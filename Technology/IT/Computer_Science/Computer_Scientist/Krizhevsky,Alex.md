@@ -1,9 +1,46 @@
 ---
 aliases:
-  - Alex Krizhevsky
-  - Krizhevsky
-  - Krizhevsky,Alex
+- Alex Krizhevsky
+- Alexander Krizhevsky
+- Krizhevsky
+- Krizhevsky,Alex
+- Александр Крижевский
+- Олександр Крижевський
+- ألكس كريجفسكي
+- 亞歷克斯·克里澤夫斯基
+- 阿莱克斯·克里泽夫斯基
+- 알렉스 크리제프스키
 has_id_wikidata: Q28018607
+dv_has_:
+  name_:
+    af: Alex Krizhevsky
+    ar: ألكس كريجفسكي
+    ast: Alex Krizhevsky
+    da: Alexander Krizhevsky
+    de: Alexander Krizhevsky
+    en: Alex Krizhevsky
+    es: Alexander Krizhevsky
+    fo: Alex Krizhevsky
+    fr: Alexander Krizhevsky
+    hu: Alex Krizhevsky
+    is: Alex Krizhevsky
+    it: Alex Krizhevsky
+    kl: Alex Krizhevsky
+    ko: 알렉스 크리제프스키
+    la: Alex Krizhevsky
+    lt: Alex Krizhevsky
+    nb: Alex Krizhevsky
+    nl: Alex Krizhevsky
+    nn: Alex Krizhevsky
+    pl: Alex Krizhevsky
+    ru: Александр Крижевский
+    sl: Alex Krizhevsky
+    sv: Alex Krizhevsky
+    tr: Alex Krizhevsky
+    uk: Олександр Крижевський
+    zh: 阿莱克斯·克里泽夫斯基
+    zh-hant: 亞歷克斯·克里澤夫斯基
+    zh-tw: 亞歷克斯·克里澤夫斯基
 ---
 ## #has_/text_of_/abstract 
 

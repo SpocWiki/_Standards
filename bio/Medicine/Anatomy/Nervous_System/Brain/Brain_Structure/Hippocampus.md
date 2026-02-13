@@ -1,22 +1,22 @@
 ---
 has_id_wikidata: Q74363
 different_from:
-  - "[[_Standards/WikiData/WD~hippocamp,816795]]"
-  - "[[_Standards/WikiData/WD~seahorse,11709836]]"
-  - "[[_Standards/WikiData/WD~Seepferdchen,33053504]]"
+- '[[_Standards/WikiData/WD~hippocamp,816795]]'
+- '[[_Standards/WikiData/WD~seahorse,11709836]]'
+- '[[_Standards/WikiData/WD~Seepferdchen,33053504]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-parent_taxon: "[[_Standards/WikiData/WD~Hippocampinae,3135825]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+parent_taxon: '[[_Standards/WikiData/WD~Hippocampinae,3135825]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 Commons_gallery: Seahorse
-ITIS_TSN: "166487"
-OmegaWiki_Defined_Meaning: "1450404"
+ITIS_TSN: 166487
+OmegaWiki_Defined_Meaning: 1450404
 Commons_category: Hippocampus
 taxon_name: Hippocampus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20hippocampus%20%28on%20Ascophyllum%20nodosum%29.jpg
@@ -24,8 +24,210 @@ start_time: -23000000-01-01T00:00:00Z
 EPPO_Code: 1HPPCG
 NBN_System_Key: NHMSYS0021053453
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20%2810.3897-zookeys.883.39662%29%20Figure%204.jpg
+dv_has_:
+  name_:
+    af: Seeperd
+    an: Hippocampus
+    ar: فرس البحر
+    arz: فرس البحر
+    ast: Hippocampus
+    az: Dənizatı
+    azb: دنیزآتی
+    ban: Jaran segara
+    bcl: kabayong dagat
+    be: марскія конікі
+    be-tarask: канярыбка
+    bew: Tangkur
+    bg: морски кончета
+    bn: জলঘোড়া
+    bo: མཚོ་རྟེའུ།
+    br: Marc'h-mor
+    bs: Morski konjic
+    ca: Cavall marí
+    ceb: Hippocampus
+    co: Cavaddu di mari
+    cs: koníček
+    cv: Тинĕс лашашки
+    cy: morfarch
+    da: søhest
+    de: Seepferdchen
+    de-ch: Seepferdchen
+    el: Ιππόκαμπος
+    en: Hippocampus
+    en-ca: Seahorse
+    en-gb: seahorse
+    eo: Hipokampo
+    es: Hippocampus
+    et: Merihobuke
+    eu: Itsas zaldi
+    ext: Hippocampus
+    fa: اسب دریایی
+    fi: merihevoset
+    fr: hippocampe
+    frr: Siahingster
+    ga: capall mara
+    gl: Cabalo de mar
+    he: סוסון-ים
+    hi: अश्वमीन
+    hr: Morski konjic
+    hsb: Mórske koniki
+    hu: csikóhalak
+    ia: Hippocampus
+    id: Kuda laut
+    ie: Hippocampus
+    io: Hipokampo
+    is: Sæhestar
+    it: Hippocampus
+    ja: タツノオトシゴ
+    jv: Jaran segara
+    ka: ზღვის ცხენთევზა
+    kk: Ат-балық
+    kn: ಕಡಲ ಕುದುರೆ
+    ko: 해마
+    ks: سَمَندرؠ گُر
+    ky: Деңизтайлар
+    la: Hippocampus
+    lfn: Cavalo de mar
+    lv: jūraszirdziņi
+    lzh: 海馬
+    mg: soavalin-dranomasina
+    mk: Морско коњче
+    ml: കടൽക്കുതിര
+    mni: ꯏꯁꯤꯡ ꯁꯀꯣꯜ
+    ms: kuda laut
+    ms-arab: کودا لاءوت
+    mul: Hippocampus
+    my: ရေနဂါး
+    nan: Hái-bé
+    nb: sjøhester
+    ne: समुन्द्री घोडा
+    nl: zeepaardjes
+    nv: Táłtłʼááh łį́į́ʼ
+    oc: Ipocamp
+    om: Farda galaanaa
+    os: Денджызы бæхтæ
+    pa: ਸਮੁੰਦਰੀ ਘੋੜਾ
+    pl: pławikoniki
+    pnb: سمندری گھوڑا
+    pt: Cavalo-marinho
+    pt-br: Cavalo-marinho
+    qu: Challwatayka
+    ro: Hippocampus
+    ru: морские коньки
+    sh: Morski konjić
+    si: මුහුදු අශ්වයා
+    sl: morski konjiček
+    sq: Kali i detit
+    sr: морски коњић
+    su: Kuda laut
+    sv: Hippocampus
+    ta: கடற்குதிரை
+    te: సముద్ర గుర్రం
+    tg: Аспакмоҳӣ
+    th: ม้าน้ำ
+    tl: Kabayo-kabayohan
+    tr: Denizatı
+    uk: морський коник
+    ur: سمندری گھوڑا
+    uz: dengiz otlari
+    vi: Cá ngựa
+    vo: Hippocampus
+    war: Hippocampus
+    wuu: 水马
+    yue: 海馬
+    zh: 海马属
+    zh-cn: 海马属
+    zh-hans: 海马属
+    zh-hant: 海馬
+    zh-tw: 海馬屬
+aliases:
+- Cabalo de mar
+- capall mara
+- Cavaddu di mari
+- Cavall marí
+- Cavalo de mar
+- Cavalo-marinho
+- Challwatayka
+- csikóhalak
+- Cá ngựa
+- dengiz otlari
+- Denizatı
+- Dənizatı
+- Farda galaanaa
+- Hipokampo
+- hippocampe
+- Hippocampus
+- Hái-bé
+- Ipocamp
+- Itsas zaldi
+- Jaran segara
+- jūraszirdziņi
+- Kabayo-kabayohan
+- kabayong dagat
+- Kali i detit
+- koníček
+- Kuda laut
+- Marc'h-mor
+- merihevoset
+- Merihobuke
+- morfarch
+- Morski konjic
+- Morski konjić
+- morski konjiček
+- Mórske koniki
+- pławikoniki
+- Seahorse
+- Seeperd
+- Seepferdchen
+- Siahingster
+- sjøhester
+- soavalin-dranomasina
+- Sæhestar
+- søhest
+- Tangkur
+- Táłtłʼááh łį́į́ʼ
+- zeepaardjes
+- Ιππόκαμπος
+- Аспакмоҳӣ
+- Ат-балық
+- Денджызы бæхтæ
+- Деңизтайлар
+- канярыбка
+- марскія конікі
+- морски коњић
+- морски кончета
+- морские коньки
+- Морско коњче
+- морський коник
+- Тинĕс лашашки
+- סוסון-ים
+- اسب دریایی
+- دنیزآتی
+- سمندری گھوڑا
+- سَمَندرؠ گُر
+- فرس البحر
+- کودا لاءوت
+- अश्वमीन
+- समुन्द्री घोडा
+- জলঘোড়া
+- ਸਮੁੰਦਰੀ ਘੋੜਾ
+- கடற்குதிரை
+- సముద్ర గుర్రం
+- ಕಡಲ ಕುದುರೆ
+- കടൽക്കുതിര
+- මුහුදු අශ්වයා
+- ม้าน้ำ
+- མཚོ་རྟེའུ།
+- ရေနဂါး
+- ზღვის ცხენთევზა
+- タツノオトシゴ
+- 水马
+- 海馬
+- 海馬屬
+- 海马属
+- ꯏꯁꯤꯡ ꯁꯀꯣꯜ
+- 해마
 ---
-
 # [[Hippocampus]] 
 
 #is_/same_as :: [[WikiData/WD~Hippocampus,74363|WD~Hippocampus,74363]] 

@@ -1,8 +1,95 @@
 ---
 has_id_wikidata: Q221441
+dv_has_:
+  name_:
+    af: pellagra
+    ar: بلاغرا
+    arz: بلاجرا
+    az: Pellaqra
+    bn: পেলাগ্রা
+    ca: pel·lagra
+    cs: pellagra
+    cy: pelagra
+    da: Pellagra
+    de: Pellagra
+    el: πελλάγρα
+    en: pellagra
+    eo: Pelagro
+    es: Pelagra
+    eu: Pelagra
+    fa: پلاگر
+    fi: Pellagra
+    fr: pellagre
+    fur: Mâl de spelaie
+    ga: peallagra
+    he: פלגרה
+    hu: pellagra
+    hy: Պելագրա
+    id: Pelagra
+    io: Pelagro
+    it: pellagra
+    ja: ペラグラ
+    kk: Пеллагра
+    ko: 펠라그라
+    lmo: Pellagra
+    lv: Pelagra
+    ms: Pelagra
+    nb: Pellagra
+    nl: Pellagra
+    nn: pellagra
+    oc: Pellagra
+    or: ପେଲାଗ୍ରା
+    pl: pelagra
+    pt: pelagra
+    ro: Pelagră
+    ru: Пеллагра
+    sh: Pelagra
+    sl: pelagra
+    sv: pellagra
+    ta: பெல்லாக்ரா
+    te: పెల్లాగ్రా
+    th: เพลแลกรา
+    tr: Pellegra
+    tt: пеллагра
+    uk: Пелагра
+    uz: Pellagra
+    vec: Pelagra
+    vi: Pellagra
+    zh: 糙皮病
+    zh-cn: 糙皮病
+    zh-hans: 糙皮病
+    zh-hant: 糙皮病
+    zh-hk: 糙皮病
+    zh-sg: 糙皮病
+    zh-tw: 糙皮病
+aliases:
+- Mâl de spelaie
+- peallagra
+- pelagra
+- Pelagro
+- Pelagră
+- pellagra
+- pellagre
+- Pellaqra
+- Pellegra
+- pel·lagra
+- πελλάγρα
+- Пелагра
+- Пеллагра
+- Պելագրա
+- פלגרה
+- بلاجرا
+- بلاغرا
+- پلاگر
+- পেলাগ্রা
+- ପେଲାଗ୍ରା
+- பெல்லாக்ரா
+- పెల్లాగ్రా
+- เพลแลกรา
+- ペラグラ
+- 糙皮病
+- 펠라그라
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Pellagra**  is a disease caused by a lack of the vitamin niacin (vitamin B3). Symptoms include inflamed skin, diarrhea, dementia, and sores in the mouth. Areas of the skin exposed to friction and radiation are typically affected first. Over time affected skin may become darker, stiffen, peel, or bleed.

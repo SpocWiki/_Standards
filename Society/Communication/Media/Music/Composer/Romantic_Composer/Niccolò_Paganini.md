@@ -1,53 +1,85 @@
 ---
 aliases:
-  - Niccolò_Paganini
-  - Niccolò Paganini
-  - Nicolò Paganini
-  - Paganini
+- Niccolo Paganini
+- Niccolò Paganini
+- Niccolò Paganìn
+- Niccolò_Paganini
+- Nicolaus Paganini
+- Nicolò Paganini
+- Nikkolo Paqanini
+- Nikolo Paganīni
+- Paganini
+- Paganini Nik kolo
+- Νικολό Παγκανίνι
+- Нікалё Паганіні
+- Нікола Паганіні
+- Ніколо Паганіні
+- Никколо Паганини
+- Николло Паганини
+- Николо Паганини
+- Паганини
+- Паганини Никколо
+- Նիկոլո Պագանինի
+- Նիքոլօ Փականինի
+- ניקולו פאגאניני
+- نيكولو باجانينى
+- نيكولو باغانيني
+- نیکلو پاگانینی
+- نیکولو پاگانینی
+- نیکۆڵۆ پاگەنینی
+- নিকোলো পাগানিনি
+- நிக்கோலோ பாகானீனி
+- นิกโกเลาะ ปากานีนี
+- နစ်ကိုလို ပန်ဂန်နီနီ
+- ნიკოლო პაგანინი
+- ニコロ・パガニーニ
+- 尼可罗·帕格尼尼
+- 帕格尼尼
+- 니콜로 파가니니
 has_id_wikidata: Q66075
 instrument:
-  - '[[_Standards/WikiData/WD~viola,80284]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~violin,8355]]'
+- '[[_Standards/WikiData/WD~viola,80284]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~violin,8355]]'
 award_received: '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Genoa,174306]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Rodolphe_Kreutzer,336692]]'
-  - '[[_Standards/WikiData/WD~Ferdinando_Paer,533022]]'
-  - '[[_Standards/WikiData/WD~Alessandro_Rolla,2143613]]'
-  - '[[_Standards/WikiData/WD~Gasparo_Ghiretti,48971287]]'
+- '[[_Standards/WikiData/WD~Rodolphe_Kreutzer,336692]]'
+- '[[_Standards/WikiData/WD~Ferdinando_Paer,533022]]'
+- '[[_Standards/WikiData/WD~Alessandro_Rolla,2143613]]'
+- '[[_Standards/WikiData/WD~Gasparo_Ghiretti,48971287]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Musik_und_Musiker_am_Mittelrhein_2,106585494]]'
-  - '[[_Standards/WikiData/WD~Berühmte_Geiger_der_Vergangenheit_und_Gegenwart,118906046]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Musik_und_Musiker_am_Mittelrhein_2,106585494]]'
+- '[[_Standards/WikiData/WD~Berühmte_Geiger_der_Vergangenheit_und_Gegenwart,118906046]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 occupation:
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~violist,899758]]'
-  - '[[_Standards/WikiData/WD~violinist,1259917]]'
-  - '[[_Standards/WikiData/WD~classical_composer,21680663]]'
-  - '[[_Standards/WikiData/WD~violin_virtuos,124800918]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~violist,899758]]'
+- '[[_Standards/WikiData/WD~violinist,1259917]]'
+- '[[_Standards/WikiData/WD~classical_composer,21680663]]'
+- '[[_Standards/WikiData/WD~violin_virtuos,124800918]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 student: '[[_Standards/WikiData/WD~Camillo_Sivori,1029423]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~24_Caprices_for_Solo_Violin,1209178]]'
-  - '[[_Standards/WikiData/WD~Violin_Concerto_No._1,2991903]]'
-  - '[[_Standards/WikiData/WD~Violin_Concerto_n_2_of_Niccolò_Paganini,2991911]]'
-  - '[[_Standards/WikiData/WD~Violin_Concerto_No._5,3788626]]'
-  - '[[_Standards/WikiData/WD~Violin_Concerto_No._3,3788854]]'
-  - '[[_Standards/WikiData/WD~Violin_Concerto_No._4,7933360]]'
+- '[[_Standards/WikiData/WD~24_Caprices_for_Solo_Violin,1209178]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto_No._1,2991903]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto_n_2_of_Niccolò_Paganini,2991911]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto_No._5,3788626]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto_No._3,3788854]]'
+- '[[_Standards/WikiData/WD~Violin_Concerto_No._4,7933360]]'
 list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Niccolò_Paganini,1227779]]'
 genre: '[[_Standards/WikiData/WD~art_music,1583807]]'
 given_name: '[[_Standards/WikiData/WD~Niccolò,1984713]]'
@@ -79,8 +111,102 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Paganini-signature
 ISNI: 0000000122830695
 Libris_URI: 20dgh7cl59j0m4n
 Europeana_entity: agent/base/53157
+dv_has_:
+  name_:
+    af: Niccolò Paganini
+    ar: نيكولو باغانيني
+    arz: نيكولو باجانينى
+    ast: Niccolò Paganini
+    az: Nikkolo Paqanini
+    ba: Никколо Паганини
+    be: Нікола Паганіні
+    be-tarask: Нікалё Паганіні
+    bg: Николо Паганини
+    bn: নিকোলো পাগানিনি
+    bs: Niccolò Paganini
+    ca: Niccolò Paganini
+    cdo: Niccolò Paganini
+    ckb: نیکۆڵۆ پاگەنینی
+    cs: Niccolò Paganini
+    cv: Никколо Паганини
+    cy: Niccolò Paganini
+    da: Niccolò Paganini
+    de: Niccolò Paganini
+    el: Νικολό Παγκανίνι
+    en: Niccolò Paganini
+    en-us: Niccolò Paganini
+    eo: Niccolò Paganini
+    es: Niccolò Paganini
+    et: Niccolò Paganini
+    eu: Niccolò Paganini
+    fa: نیکولو پاگانینی
+    fi: Niccolò Paganini
+    fr: Niccolò Paganini
+    frp: Niccolò Paganini
+    ga: Niccolò Paganini
+    gd: Niccolò Paganini
+    gl: Niccolò Paganini
+    hak: Niccolò Paganini
+    he: ניקולו פאגאניני
+    hr: Niccolò Paganini
+    hu: Niccolò Paganini
+    hy: Նիկոլո Պագանինի
+    hyw: Նիքոլօ Փականինի
+    id: Niccolò Paganini
+    io: Niccolò Paganini
+    is: Niccolò Paganini
+    it: Niccolò Paganini
+    ja: ニコロ・パガニーニ
+    ka: ნიკოლო პაგანინი
+    kk: Паганини
+    ko: 니콜로 파가니니
+    ky: Паганини Никколо
+    la: Nicolaus Paganini
+    lij: Niccolò Paganìn
+    lt: Niccolò Paganini
+    lv: Nikolo Paganīni
+    mg: Niccolò Paganini
+    mk: Николо Паганини
+    mn: Николло Паганини
+    mul: Niccolò Paganini
+    my: နစ်ကိုလို ပန်ဂန်နီနီ
+    nan: Niccolò Paganini
+    nb: Niccolò Paganini
+    nl: Niccolò Paganini
+    nn: Niccolò Paganini
+    oc: Niccolò Paganini
+    pl: Niccolò Paganini
+    pms: Niccolò Paganini
+    pt: Niccolò Paganini
+    pt-br: Niccolò Paganini
+    qu: Niccolò Paganini
+    ro: Niccolò Paganini
+    ru: Никколо Паганини
+    scn: Niccolò Paganini
+    sco: Niccolò Paganini
+    sh: Niccolò Paganini
+    sk: Niccolò Paganini
+    sl: Niccolò Paganini
+    sq: Niccolò Paganini
+    sr: Николо Паганини
+    sr-ec: Николо Паганини
+    su: Niccolo Paganini
+    sv: Niccolò Paganini
+    ta: நிக்கோலோ பாகானீனி
+    tg: Никколо Паганини
+    th: นิกโกเลาะ ปากานีนี
+    tr: Niccolò Paganini
+    tt: Никколо Паганини
+    uk: Ніколо Паганіні
+    ur: نیکلو پاگانینی
+    uz: Paganini Nik kolo
+    vi: Niccolò Paganini
+    war: Niccolò Paganini
+    wuu: 尼可罗·帕格尼尼
+    xmf: ნიკოლო პაგანინი
+    yue: 帕格尼尼
+    zh: 尼可罗·帕格尼尼
 ---
-
 # [[Niccolò_Paganini]] 
 
 #is_/same_as :: [[WD~Niccolò_Paganini,66075]] 

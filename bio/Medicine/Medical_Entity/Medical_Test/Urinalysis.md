@@ -1,20 +1,110 @@
 ---
 aliases:
+- analiza urina
+- analiză de urină
+- analyse d'urine
+- Analysis urinae
+- Analís d'orina
+- anàlisi d'orina
+- análise da urina
+- análisis de orina
+- badanie moczu
+- esame delle urine
+- Gernu-analisi
+- ujian air kencing
+- uranálise
+- urinalysis
+- urinanalizo
+- urine-onderzoek
+- urinprov
+- urinprøve
+- Urinuntersuchung
+- urīna analīze
+- virtsakoe
+- Xét nghiệm nước tiểu
+- İdrar analizi
+- Γενική εξέταση ούρων
+- клінічний аналіз сечі
+- Клинический анализ мочи
+- урынааналіз
+- Шăк анализĕ
+- Шээсний шинжилгээ
+- կլինիկական մեզի թեստ
+- בדיקת שתן
+- آزمایش ادرار
+- تجزیۂ بول
+- تحليل البول
+- मूत्र-परीक्षा
+- சிறுநீர் சோதனை
+- การตรวจปัสสาวะ
+- 尿検査
+- 尿液分析
+- 驗尿
+- 소변 검사
 has_id_wikidata: Q842424
-health_specialty: "[[_Standards/WikiData/WD~clinical_pathology,499500]]"
+health_specialty: '[[_Standards/WikiData/WD~clinical_pathology,499500]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~periodic_health_examination,1762591]]"
-  - "[[_Standards/WikiData/WD~medical_test_type,55215251]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Urine_tests,14403153]]"
+- '[[_Standards/WikiData/WD~periodic_health_examination,1762591]]'
+- '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Urine_tests,14403153]]'
 UMLS_CUI: C0042014
 MeSH_tree_code:
-  - E01.370.225.124.810
-  - E01.370.390.810
-  - E05.200.124.810
+- E01.370.225.124.810
+- E01.370.390.810
+- E05.200.124.810
 Commons_category: Urinalysis
 ATC_code: V04B
+dv_has_:
+  name_:
+    ar: تحليل البول
+    ast: Analís d'orina
+    be-tarask: урынааналіз
+    ca: anàlisi d'orina
+    cv: Шăк анализĕ
+    da: urinprøve
+    de: Urinuntersuchung
+    el: Γενική εξέταση ούρων
+    en: urinalysis
+    eo: urinanalizo
+    es: análisis de orina
+    eu: Gernu-analisi
+    fa: آزمایش ادرار
+    fi: virtsakoe
+    fr: analyse d'urine
+    gl: análise da urina
+    he: בדיקת שתן
+    hi: मूत्र-परीक्षा
+    hr: analiza urina
+    hy: կլինիկական մեզի թեստ
+    it: esame delle urine
+    ja: 尿検査
+    ko: 소변 검사
+    la: Analysis urinae
+    lv: urīna analīze
+    mn: Шээсний шинжилгээ
+    ms: ujian air kencing
+    nb: urinprøve
+    nl: urine-onderzoek
+    nn: urinprøve
+    pl: badanie moczu
+    pt: uranálise
+    ro: analiză de urină
+    ru: Клинический анализ мочи
+    sl: analiza urina
+    sr: Analiza urina
+    sv: urinprov
+    ta: சிறுநீர் சோதனை
+    th: การตรวจปัสสาวะ
+    tr: İdrar analizi
+    uk: клінічний аналіз сечі
+    ur: تجزیۂ بول
+    vi: Xét nghiệm nước tiểu
+    yue: 驗尿
+    zh: 尿液分析
+    zh-hans: 尿液分析
+    zh-hant: 尿液分析
+    zh-hk: 尿液分析
 ---
-
 # [[Urinalysis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Urinalysis,842424|WD~Urinalysis,842424]]  

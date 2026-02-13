@@ -1,15 +1,66 @@
 ---
-has_time_started: 1908-05-15 
+has_time_started: 1908-05-15
 aliases:
-  - International Ice Hockey Federation
-  - IIHF
-  - Fédération internationale de hockey sur glace
-  - Internationale Eishockey-Föderation
-  - International_Ice_Hockey_Federation
+- Aalmugijkoskâšâš jieŋâskiärrulitto
+- Det internasjonale ishockeyforbundet
+- Federació Internacional d'Hoquei sobre Gel
+- Federación Internacional de Hockey sobre Hielo
+- Federación Internacional de Hóckey sobre Xeo
+- Federación Internacional de Ḥoquei sobre Xelu
+- Federasi Hoki Es Internasional
+- Federação Internacional de Hóquei no Gelo
+- Federația Internațională de Hochei pe Gheață
+- Fédération internationale de hockey sur glace
+- IIHF
+- Internacia Glacihokea Federacio
+- International Ice Hockey Federation
+- Internationale Eishockey-Föderation
+- Internationale IJshockeyfederatie
+- International_Ice_Hockey_Federation
+- Kansainvälinen Jääkiekkoliitto
+- Liên đoàn Khúc côn cầu trên băng Quốc tế
+- Mednarodna hokejska zveza
+- Medzinárodná hokejová federácia
+- Meeraikõskksaž jiõŋŋhokkilett
+- Mezinárodní federace ledního hokeje
+- Međunarodna hokejaška federacija
+- Nazioarteko Izotz Hockey Federazioa
+- Nemzetközi Jégkorongszövetség
+- Persekutuan Hoki Ais Antarabangsa
+- Rahvusvaheline Jäähokiföderatsioon
+- Riikkaidgaskasaš jiekŋaskearrolihttu
+- Starptautiskā hokeja federācija
+- Tarptautinė ledo ritulio federacija
+- Uluslararası Buz Hokeyi Federasyonu
+- Xalqaro Xokkey Federatsiyasi
+- Xalıqaralıq şaýbalı xokkeý federacïyası
+- Διεθνής Ομοσπονδία Χόκεϊ επί Πάγου
+- Калык-влак кокласе Ий хоккей федераций
+- Міжнародна федерація хокею із шайбою
+- Міжнародная федэрацыя хакея на лёдзе
+- Міжнародная фэдэрацыя хакею на лёдзе
+- Међународна хокејашка федерација
+- Международна федерация по хокей на лед
+- Международная федерация хоккея на льду
+- Халықаралық шайбалы хоккей федерациясы
+- Халыҡ-ара хоккей федерацияһы
+- Տափօղակով հոկեյի միջազգային ֆեդերացիա
+- פדרציית ההוקי קרח הבינלאומית
+- الاتحاد الدولي لهوكي الجليد
+- حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
+- فدراسیون بینالمللی هاکی روی یخ
+- আন্তর্জাতিক আইস হকি ফেডারেশন
+- பன்னாட்டு பனி ஆக்கி கூட்டமைப்பு
+- สหพันธ์ฮอกกี้น้ำแข็งนานาชาติ
+- ყინულის ჰოკეის საერთაშორისო ფედერაცია
+- 国际冰球联合会
+- 国際アイスホッケー連盟
+- 國際冰球總會
+- 국제 아이스하키 연맹
 has_id_wikidata: Q190173
 sport:
-  - '[[_Standards/WikiData/WD~inline_hockey,946171]]'
-  - '[[_Standards/WikiData/WD~ice_hockey,41466]]'
+- '[[_Standards/WikiData/WD~inline_hockey,946171]]'
+- '[[_Standards/WikiData/WD~ice_hockey,41466]]'
 member_of: '[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847]]'
 instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
@@ -28,11 +79,85 @@ X_Twitter_username: IIHFHockey
 Commons_category: International Ice Hockey Federation
 Libris_URI: vs69hvxd178hqhr
 short_name:
-  - IIHF
-  - FIHG
+- IIHF
+- FIHG
 inception: 1908-05-15T00:00:00Z
+dv_has_:
+  name_:
+    ar: الاتحاد الدولي لهوكي الجليد
+    ast: Federación Internacional de Ḥoquei sobre Xelu
+    ba: Халыҡ-ара хоккей федерацияһы
+    be: Міжнародная федэрацыя хакея на лёдзе
+    be-tarask: Міжнародная фэдэрацыя хакею на лёдзе
+    bg: Международна федерация по хокей на лед
+    bn: আন্তর্জাতিক আইস হকি ফেডারেশন
+    ca: Federació Internacional d'Hoquei sobre Gel
+    cs: Mezinárodní federace ledního hokeje
+    da: International Ice Hockey Federation
+    de: Internationale Eishockey-Föderation
+    de-ch: Internationale Eishockey-Föderation
+    el: Διεθνής Ομοσπονδία Χόκεϊ επί Πάγου
+    en: International Ice Hockey Federation
+    en-ca: International Ice Hockey Federation
+    en-gb: International Ice Hockey Federation
+    eo: Internacia Glacihokea Federacio
+    es: Federación Internacional de Hockey sobre Hielo
+    et: Rahvusvaheline Jäähokiföderatsioon
+    eu: Nazioarteko Izotz Hockey Federazioa
+    fa: فدراسیون بینالمللی هاکی روی یخ
+    fi: Kansainvälinen Jääkiekkoliitto
+    fr: Fédération internationale de hockey sur glace
+    gl: Federación Internacional de Hóckey sobre Xeo
+    he: פדרציית ההוקי קרח הבינלאומית
+    hr: IIHF
+    hu: Nemzetközi Jégkorongszövetség
+    hy: Տափօղակով հոկեյի միջազգային ֆեդերացիա
+    id: Federasi Hoki Es Internasional
+    it: International Ice Hockey Federation
+    ja: 国際アイスホッケー連盟
+    ka: ყინულის ჰოკეის საერთაშორისო ფედერაცია
+    kk: Халықаралық шайбалы хоккей федерациясы
+    kk-arab: حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
+    kk-cn: حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
+    kk-cyrl: Халықаралық шайбалы хоккей федерациясы
+    kk-kz: Халықаралық шайбалы хоккей федерациясы
+    kk-latn: Xalıqaralıq şaýbalı xokkeý federacïyası
+    kk-tr: Xalıqaralıq şaýbalı xokkeý federacïyası
+    ko: 국제 아이스하키 연맹
+    lt: Tarptautinė ledo ritulio federacija
+    lv: Starptautiskā hokeja federācija
+    mhr: Калык-влак кокласе Ий хоккей федераций
+    ms: Persekutuan Hoki Ais Antarabangsa
+    nb: Det internasjonale ishockeyforbundet
+    nl: Internationale IJshockeyfederatie
+    pl: IIHF
+    pt: Federação Internacional de Hóquei no Gelo
+    pt-br: Federação Internacional de Hóquei no Gelo
+    ro: Federația Internațională de Hochei pe Gheață
+    ru: Международная федерация хоккея на льду
+    se: Riikkaidgaskasaš jiekŋaskearrolihttu
+    sk: Medzinárodná hokejová federácia
+    sl: Mednarodna hokejska zveza
+    smn: Aalmugijkoskâšâš jieŋâskiärrulitto
+    sms: Meeraikõskksaž jiõŋŋhokkilett
+    sr: Међународна хокејашка федерација
+    sr-ec: Међународна хокејашка федерација
+    sr-el: Međunarodna hokejaška federacija
+    sv: International Ice Hockey Federation
+    ta: பன்னாட்டு பனி ஆக்கி கூட்டமைப்பு
+    th: สหพันธ์ฮอกกี้น้ำแข็งนานาชาติ
+    tr: Uluslararası Buz Hokeyi Federasyonu
+    uk: Міжнародна федерація хокею із шайбою
+    uz: Xalqaro Xokkey Federatsiyasi
+    vi: Liên đoàn Khúc côn cầu trên băng Quốc tế
+    zh: 国际冰球联合会
+    zh-cn: 国际冰球联合会
+    zh-hans: 国际冰球联合会
+    zh-hant: 國際冰球總會
+    zh-hk: 國際冰球總會
+    zh-sg: 国际冰球联合会
+    zh-tw: 國際冰球總會
 ---
-
 # [[International_Ice_Hockey_Federation]] 
 
 #is_/same_as :: [[WD~International_Ice_Hockey_Federation,190173]] 

@@ -1,31 +1,130 @@
 ---
 aliases:
-  - vacuum flask
-  - Dewar flask
-  - Dewar bottle
-  - thermos
-  - Thermosflasche
-  - Vacuum_Flask
-  - Vacuum Flask
+- bouteille isotherme
+- Dewar bottle
+- Dewar flask
+- Dewarova nádoba
+- Fa^soay a tananoman
+- fleascán dewar
+- garrafa térmica
+- Isolierkanne
+- Lagoena caldaria
+- Mô͘-hoat-pân
+- Phích nước
+- termo
+- termokande
+- termos
+- Termosas
+- termosflaske
+- termoska
+- termospullo
+- termovka
+- Termu
+- thermos
+- Thermosflasche
+- thermosfles
+- vacuum flask
+- Vacuum_Flask
+- Vakuumska boca
+- varmbotelo
+- Θερμός
+- термос
+- тирмыс
+- Тэрмас
+- Халуун сав
+- Թերմոս
+- תרמוס
+- تھرماس
+- فلاسک
+- كظيمة
+- तापरख
+- থার্মোফ্লাস্ক
+- வெப்பக்குடுவை
+- රික්ත ප්ලාස්කුව
+- 保温瓶
+- 真空保溫杯
+- 真空瓶
+- 魔法瓶
+- 보온병
 has_id_wikidata: Q23664
 subclass_of:
-  - '[[_Standards/WikiData/WD~laboratory_flask,335201]]'
-  - '[[_Standards/WikiData/WD~Dewar_flask,912050]]'
-  - '[[_Standards/WikiData/WD~drinking_vessel,2453629]]'
-  - '[[_Standards/WikiData/WD~food_storage_container,60739826]]'
+- '[[_Standards/WikiData/WD~laboratory_flask,335201]]'
+- '[[_Standards/WikiData/WD~Dewar_flask,912050]]'
+- '[[_Standards/WikiData/WD~drinking_vessel,2453629]]'
+- '[[_Standards/WikiData/WD~food_storage_container,60739826]]'
 uses: '[[_Standards/WikiData/WD~thermal_insulation,918306]]'
 has_use: '[[_Standards/WikiData/WD~thermal_insulation,918306]]'
 has_characteristic: '[[_Standards/WikiData/WD~durable_good,2184715]]'
 different_from: '[[_Standards/WikiData/WD~Q9166181,9166181]]'
 physically_interacts_with:
-  - '[[_Standards/WikiData/WD~food,2095]]'
-  - '[[_Standards/WikiData/WD~tea,6097]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~tea,6097]]'
 Nomenclature_for_Museum_Cataloging: 4958
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81%20%281%29.jpg
 Commons_category: Vacuum flasks
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Thermosfles-article.ogg
+dv_has_:
+  name_:
+    ami: Fa^soay a tananoman
+    ar: كظيمة
+    ast: Termu
+    az: Termos
+    be: Тэрмас
+    be-tarask: тэрмас
+    bg: Термос
+    bn: থার্মোফ্লাস্ক
+    bs: Vakuumska boca
+    ca: termos
+    cs: termoska
+    cv: Термос
+    da: termokande
+    de: Isolierkanne
+    el: Θερμός
+    en: vacuum flask
+    eo: varmbotelo
+    es: termo
+    eu: termo
+    fa: فلاسک
+    fi: termospullo
+    fr: bouteille isotherme
+    ga: fleascán dewar
+    gl: Termo
+    he: תרמוס
+    hi: तापरख
+    hy: Թերմոս
+    id: Termos
+    it: termos
+    ja: 魔法瓶
+    kk: Термос
+    ko: 보온병
+    la: Lagoena caldaria
+    lt: Termosas
+    mk: Термос
+    mn: Халуун сав
+    nan: Mô͘-hoat-pân
+    nb: termosflaske
+    nl: thermosfles
+    nn: termosflaske
+    pl: Termos
+    pt: garrafa térmica
+    ro: termos
+    ru: термос
+    si: රික්ත ප්ලාස්කුව
+    sk: Dewarova nádoba
+    sl: termovka
+    sr: Termos
+    sv: termos
+    ta: வெப்பக்குடுவை
+    tr: Termos
+    tt: тирмыс
+    uk: Термос
+    ur: تھرماس
+    vi: Phích nước
+    war: Termos
+    wuu: 保温瓶
+    yue: 真空保溫杯
+    zh: 真空瓶
 ---
-
 # [[Vacuum_Flask]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Vacuum_flask,23664|WD~Vacuum_flask,23664]]  

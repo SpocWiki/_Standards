@@ -1,8 +1,106 @@
 ---
 has_id_wikidata: Q183048
+dv_has_:
+  name_:
+    af: The Beach Boys
+    ang: The Beach Boys
+    ar: ذا بيتش بويز
+    arz: ذا بيتش بويز
+    ast: The Beach Boys
+    az: The Beach Boys
+    azb: بیچ بویز
+    be: The Beach Boys
+    be-tarask: The Beach Boys
+    bg: Бийч Бойс
+    br: The Beach Boys
+    bs: The Beach Boys
+    ca: The Beach Boys
+    cs: The Beach Boys
+    cy: The Beach Boys
+    da: The Beach Boys
+    de: The Beach Boys
+    el: The Beach Boys
+    en: The Beach Boys
+    eo: The Beach Boys
+    es: The Beach Boys
+    et: The Beach Boys
+    eu: The Beach Boys
+    fa: بیچ بویز
+    fi: The Beach Boys
+    fo: The Beach Boys
+    fr: The Beach Boys
+    ga: The Beach Boys
+    gl: The Beach Boys
+    gsw: The Beach Boys
+    gv: The Beach Boys
+    he: הביץ' בויז
+    hr: The Beach Boys
+    hu: The Beach Boys
+    hy: The Beach Boys
+    ia: The Beach Boys
+    id: The Beach Boys
+    io: The Beach Boys
+    is: The Beach Boys
+    it: The Beach Boys
+    ja: ザ・ビーチ・ボーイズ
+    ka: ბიჩ ბოიზი
+    kaa: The Beach Boys
+    ko: 비치 보이스
+    ky: The Beach Boys
+    lt: The Beach Boys
+    lv: The Beach Boys
+    mk: The Beach Boys
+    mn: the beach boys
+    ms: The Beach Boys
+    mul: The Beach Boys
+    nb: The Beach Boys
+    nds: The Beach Boys
+    nl: The Beach Boys
+    nn: The Beach Boys
+    oc: The Beach Boys
+    pl: The Beach Boys
+    pt: The Beach Boys
+    qu: The Beach Boys
+    ro: The Beach Boys
+    ru: The Beach Boys
+    scn: The Beach Boys
+    sh: The Beach Boys
+    sk: Beach Boys
+    sl: The Beach Boys
+    sq: The Beach Boys
+    sr: Бич бојс
+    stq: The Beach Boys
+    sv: The Beach Boys
+    tg: The Beach Boys
+    th: เดอะบีชบอยส์
+    tr: The Beach Boys
+    uk: The Beach Boys
+    uz: The Beach Boys
+    vi: The Beach Boys
+    vls: The Beach Boys
+    wuu: 海滩男孩
+    zh: 海灘男孩
+    zh-cn: 海滩男孩
+    zh-hans: 海滩男孩
+    zh-hant: 海灘男孩
+    zh-hk: 海灘男孩
+    zh-sg: 海滩男孩
+    zh-tw: 海灘男孩
+aliases:
+- Beach Boys
+- The Beach Boys
+- Бийч Бойс
+- Бич бојс
+- הביץ' בויז
+- بیچ بویز
+- ذا بيتش بويز
+- เดอะบีชบอยส์
+- ბიჩ ბოიზი
+- ザ・ビーチ・ボーイズ
+- 海滩男孩
+- 海灘男孩
+- 비치 보이스
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The group's original lineup consisted of brothers Brian, Dennis, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine. Distinguished by their vocal harmonies, adolescent-oriented lyrics, and musical ingenuity, they are one of the most influential acts of the rock era. The group drew on the music of older pop vocal groups, 1950s rock and roll, and black R&B to create their unique sound. Under Brian's direction, they often incorporated classical or jazz elements and pioneered unconventional recording techniques in innovative ways.

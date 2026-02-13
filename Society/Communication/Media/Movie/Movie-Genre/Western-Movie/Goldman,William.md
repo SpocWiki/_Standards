@@ -1,8 +1,128 @@
 ---
 aliases:
-  - William Goldman
-  - Goldman,William
+- Goldman,William
+- William Goldman
+- Γουίλιαμ Γκόλντμαν
+- Ўільям Голдман
+- Вільям Ґолдман
+- Уильям Голдман
+- Уилям Голдман
+- Ուիլյամ Գոլդման
+- ויליאם גולדמן
+- وليام جولدمان
+- وليام غولدمان
+- ویلیام قلدمن
+- ویلیام گولدمن
+- ਵਿਲੀਅਮ ਗੋਲਡਮੈਨ
+- უილიამ გოლდმენი
+- ウィリアム・ゴールドマン
+- 威廉·戈德曼
+- 윌리엄 골드먼
 has_id_wikidata: Q506885
+dv_has_:
+  name_:
+    af: William Goldman
+    an: William Goldman
+    ar: وليام غولدمان
+    arz: وليام جولدمان
+    ast: William Goldman
+    azb: ویلیام قلدمن
+    bar: William Goldman
+    be-tarask: Ўільям Голдман
+    bg: Уилям Голдман
+    bm: William Goldman
+    br: William Goldman
+    ca: William Goldman
+    co: William Goldman
+    cs: William Goldman
+    cy: William Goldman
+    da: William Goldman
+    de: William Goldman
+    de-at: William Goldman
+    de-ch: William Goldman
+    el: Γουίλιαμ Γκόλντμαν
+    en: William Goldman
+    en-ca: William Goldman
+    en-gb: William Goldman
+    eo: William Goldman
+    es: William Goldman
+    et: William Goldman
+    eu: William Goldman
+    fa: ویلیام گولدمن
+    fi: William Goldman
+    fr: William Goldman
+    frc: William Goldman
+    frp: William Goldman
+    fur: William Goldman
+    ga: William Goldman
+    gd: William Goldman
+    gl: William Goldman
+    gsw: William Goldman
+    he: ויליאם גולדמן
+    hr: William Goldman
+    hu: William Goldman
+    hy: Ուիլյամ Գոլդման
+    ia: William Goldman
+    id: William Goldman
+    ie: William Goldman
+    io: William Goldman
+    it: William Goldman
+    ja: ウィリアム・ゴールドマン
+    jam: William Goldman
+    ka: უილიამ გოლდმენი
+    kab: William Goldman
+    kg: William Goldman
+    ko: 윌리엄 골드먼
+    ky: Уильям Голдман
+    lb: William Goldman
+    li: William Goldman
+    lij: William Goldman
+    lt: William Goldman
+    lv: William Goldman
+    mg: William Goldman
+    min: William Goldman
+    ms: William Goldman
+    mul: William Goldman
+    nap: William Goldman
+    nb: William Goldman
+    nds: William Goldman
+    nds-nl: William Goldman
+    nl: William Goldman
+    nn: William Goldman
+    nrm: William Goldman
+    oc: William Goldman
+    pa: ਵਿਲੀਅਮ ਗੋਲਡਮੈਨ
+    pap: William Goldman
+    pcd: William Goldman
+    pl: William Goldman
+    pms: William Goldman
+    prg: William Goldman
+    pt: William Goldman
+    pt-br: William Goldman
+    rgn: William Goldman
+    rm: William Goldman
+    ro: William Goldman
+    ru: Уильям Голдман
+    sc: William Goldman
+    scn: William Goldman
+    sco: William Goldman
+    sh: William Goldman
+    sk: William Goldman
+    sl: William Goldman
+    sq: William Goldman
+    sv: William Goldman
+    sw: William Goldman
+    tr: William Goldman
+    uk: Вільям Ґолдман
+    vec: William Goldman
+    vi: William Goldman
+    vls: William Goldman
+    vmf: William Goldman
+    vo: William Goldman
+    wa: William Goldman
+    wo: William Goldman
+    zh: 威廉·戈德曼
+    zu: William Goldman
 ---
 #has_/time_/started ::  1931-08-12 
 #has_/time_/started ::  16, 2018-11-16 

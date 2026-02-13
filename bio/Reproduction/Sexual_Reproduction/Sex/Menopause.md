@@ -1,43 +1,208 @@
 ---
 aliases:
-  - climacteric
-  - Klimakterium
-  - Menopause
+- climacteric
+- gucura k’umugore
+- jorggáldatjagit
+- Klimakterium
+- klimax
+- Kukoma hedhi
+- layag
+- menopaus
+- menopausa
+- Menopause
+- menopausia
+- menopauza
+- menopauze
+- menopauzo
+- menopauzė
+- menopavza
+- menopawza
+- menopaŭzo
+- menopos
+- menopouse
+- menopoz
+- menopàuza
+- mãn kinh
+- ménopause
+- przekwitanie
+- sorilim naaibu
+- sos míostraithe
+- vaihdevuodet
+- εμμηνόπαυση
+- авать сирелгодомац
+- вир сузятон вис
+- менопауза
+- мэнапаўза
+- դաշտանադադար
+- גיל המעבר אצל נשים
+- ایاس
+- سن اليأس
+- لەزگوەستان
+- مینیوپز
+- مەنوپاۋزا
+- یائسگی
+- އިއްދައިން ކެނޑުން
+- रजोनिवृत्ति
+- रजोनिवृत्ती
+- রজোনিবৃত্তি
+- ৰজোনিবৃত্তি
+- ਮਹਾਵਾਰੀ ਰੁਕਣਾ
+- ଋତୁବନ୍ଦ
+- மாதவிடாய் நிறுத்தம்
+- ఋతువిరతి
+- ತಿಂಗೊಲ್ದ ಕುದಿ ಉಂತುನಿ
+- ಮುಟ್ಟು ನಿಲ್ಲುವಿಕೆ
+- ആർത്തവവിരാമം
+- วัยหมดประจำเดือน
+- მენოპაუზა
+- 更年期
+- 更年期障害
+- 폐경기
 has_id_wikidata: Q177708
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~climacteric,603557]]'
-  - '[[_Standards/WikiData/WD~menstrual_cycle_phase,14908045]]'
-  - '[[_Standards/WikiData/WD~reproductive_senescence,22299008]]'
+- '[[_Standards/WikiData/WD~climacteric,603557]]'
+- '[[_Standards/WikiData/WD~menstrual_cycle_phase,14908045]]'
+- '[[_Standards/WikiData/WD~reproductive_senescence,22299008]]'
 start_period: '[[_Standards/WikiData/WD~50,712519]]'
 health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~women's_disease,1451794]]"
-  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- "[[_Standards/WikiData/WD~women's_disease,1451794]]"
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
 part_of: '[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~human_reproduction,3427336]]'
-  - "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~human_reproduction,3427336]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191]]"
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 IAB_code: 292
 DiseasesDB: 8034
 Commons_category: Menopause
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vaginal%20Canal%20Normal%20vs.%20Menopause.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Perimenopause.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Symptoms%20of%20menopause%20%28vector%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vaginal%20Canal%20Normal%20vs.%20Menopause.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Perimenopause.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Symptoms%20of%20menopause%20%28vector%29.svg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Menopause%20symbol.svg
 exact_match: http://purl.obolibrary.org/obo/GO_0042697
 UMLS_CUI: C0025320
 Terminologia_Embryologica: E1.0.2.3.0.0.14
 MeSH_tree_code:
-  - G08.686.157.500
-  - G08.686.841.249.500
+- G08.686.157.500
+- G08.686.841.249.500
+dv_has_:
+  name_:
+    af: menopouse
+    ar: سن اليأس
+    as: ৰজোনিবৃত্তি
+    ast: menopausia
+    az: menopauza
+    be-tarask: мэнапаўза
+    bg: менопауза
+    bn: রজোনিবৃত্তি
+    bs: menopauza
+    ca: menopausa
+    ckb: لەزگوەستان
+    cs: menopauza
+    cy: menopos
+    da: menopause
+    dag: sorilim naaibu
+    de: Menopause
+    de-ch: Menopause
+    dv: އިއްދައިން ކެނޑުން
+    el: εμμηνόπαυση
+    en: menopause
+    en-ca: menopause
+    en-gb: menopause
+    eo: menopaŭzo
+    es: menopausia
+    et: menopaus
+    eu: menopausia
+    fa: یائسگی
+    fi: vaihdevuodet
+    fr: ménopause
+    ga: sos míostraithe
+    gl: menopausa
+    gsw: Menopause
+    he: גיל המעבר אצל נשים
+    hi: रजोनिवृत्ति
+    hr: menopauza
+    hu: klimax
+    hy: դաշտանադադար
+    ia: menopausa
+    id: menopause
+    ie: Menopause
+    io: menopauzo
+    it: menopausa
+    ja: 更年期障害
+    jv: menopause
+    ka: მენოპაუზა
+    kk: менопауза
+    kk-arab: مەنوپاۋزا
+    kk-cn: مەنوپاۋزا
+    kk-cyrl: менопауза
+    kk-kz: менопауза
+    kk-latn: menopawza
+    kk-tr: menopawza
+    kn: ಮುಟ್ಟು ನಿಲ್ಲುವಿಕೆ
+    ko: 폐경기
+    la: menopausa
+    lt: menopauzė
+    lv: menopauze
+    mai: रजोनिवृत्ति
+    mdf: авать сирелгодомац
+    mk: менопауза
+    ml: ആർത്തവവിരാമം
+    mr: रजोनिवृत्ती
+    ms: menopaus
+    nb: menopause
+    ne: रजोनिवृत्ति
+    new: रजोनिवृत्ति
+    nl: menopauze
+    nn: menopause
+    or: ଋତୁବନ୍ଦ
+    pa: ਮਹਾਵਾਰੀ ਰੁਕਣਾ
+    pl: przekwitanie
+    ps: مینیوپز
+    pt: menopausa
+    pt-br: menopausa
+    ro: menopause
+    ru: менопауза
+    rw: gucura k’umugore
+    sah: менопауза
+    se: jorggáldatjagit
+    sh: menopauza
+    sk: Menopauza
+    sl: menopavza
+    sq: menopauza
+    sr: menopauza
+    su: ménopause
+    sv: menopaus
+    sw: Kukoma hedhi
+    ta: மாதவிடாய் நிறுத்தம்
+    tcy: ತಿಂಗೊಲ್ದ ಕುದಿ ಉಂತುನಿ
+    te: ఋతువిరతి
+    th: วัยหมดประจำเดือน
+    tl: layag
+    tr: menopoz
+    udm: вир сузятон вис
+    uk: менопауза
+    ur: ایاس
+    uz: menopauza
+    vec: menopàuza
+    vi: mãn kinh
+    war: menopos
+    wuu: 更年期
+    yue: 更年期
+    zh: 更年期
+    zh-cn: 更年期
+    zh-hans: 更年期
+    zh-hant: 更年期
+    zh-hk: 更年期
+    zh-sg: 更年期
+    zh-tw: 更年期
 ---
-
 # [[Menopause]] 
 
 #is_/same_as :: [[WD~Menopause,177708]] 

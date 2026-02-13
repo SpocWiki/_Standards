@@ -1,16 +1,111 @@
 ---
 aliases:
-  - Fleischfresser
-  - Carnivora
-  - գիշատիչներ
-  - rovpattedyr
+- Aycha uquq ñuñuq
+- Bidił Daazdoígíí dóó Daʼalghałígíí
+- boraspiret
+- bộ Ăn thịt
+- Carnivora
+- Carnivore
+- carnivores
+- carnivori
+- carnivoros
+- Carnivòrs
+- Carnìvuri
+- carnívoros
+- carnívors
+- Chia̍h-bah-ba̍k
+- Cottoradunol (Carnivora)
+- drapieżne
+- etçiller
+- Fleischfresser
+- Flǣscetende dēor
+- Goştweri
+- goştxur
+- Jırtqıshlar
+- Karniboro
+- Karnomanĝuloj
+- Kigdebrer
+- kiskjalised
+- Mishngrënësit
+- Mäsožravce
+- petoeläimet
+- piätuelleeh
+- plēsēji
+- Plėšrieji žinduoliai
+- ragadozók
+- Raubdéieren
+- Raubtiere
+- Roofbêestn
+- Roofdeerter
+- Roofdier'n
+- Roofdiere
+- roofdieren
+- Roowdierte
+- Roufdiere
+- rovdjur
+- rovpattedyr
+- Rubjažne zwěrjeta
+- Rubježne zwěrjata
+- Ruuwdiarten
+- Rándýr
+- Ránsdjór
+- Rôfdieren
+- Timseksumin
+- Walanyama
+- Yirtqichlar
+- Ysglyfaethwr
+- Yırtıcılar
+- zveri
+- Zvijeri
+- Çăткăнсем
+- šelmy
+- Σαρκοφάγα
+- ѕверови
+- ВахӀшияб хӀайванал
+- драпежныя
+- дулхах дажа
+- Ерткычлар
+- Жырткычтар
+- Жыртқыштар
+- Лёквиррез
+- Псэущхьэшххэр
+- Сиэмэх кыыллар аймахтара
+- хижі
+- хищници
+- хищные
+- Шылгочшо
+- Шӹл качшывлӓ
+- գիշատիչներ
+- טורפים
+- غوښه خوړونکي
+- كارنيڤورات
+- لواحم
+- ماز خور جانوَر
+- ماس کھانے
+- گوشت خور جانور
+- گوشتخوارسانان
+- ییٛرتیجیلار
+- मांसाहारी गण
+- মাহুখাকুরা
+- শ্বাপদ বর্গ
+- கார்னிவோரா
+- మాంసాహారులు
+- കാർണിവോറ
+- สัตว์กินเนื้อ
+- ສັດກິນຊີ້ນ
+- მახვამილაფარეფი
+- მტაცებლები
+- ስጋበል
+- ネコ目
+- 食肉目
+- 식육목
 has_id_wikidata: Q25306
 Commons_category: Carnivora
 Commons_gallery: Carnivora
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 EPPO_Code: 1CARNO
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carnivora.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -19,23 +114,163 @@ Krugosvet_article: nauka_i_tehnika/biologiya/HISHCHNIE.html
 MeSH_tree_code: B01.050.150.900.649.313.750
 NBN_System_Key: NHMSYS0000376165
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Carnivoraformes,106488638]]'
-  - '[[_Standards/WikiData/WD~Laurasiatheria,27379]]'
+- '[[_Standards/WikiData/WD~Carnivoraformes,106488638]]'
+- '[[_Standards/WikiData/WD~Laurasiatheria,27379]]'
 start_time: -42000000-01-01
 subclass_of: '[[_Standards/WikiData/WD~carnivore,81875]]'
 taxon_common_name:
-  - գիշատիչներ
-  - rovpattedyr
+- գիշատիչներ
+- rovpattedyr
 taxon_name: Carnivora
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~carnivoran_meat,124815693]]'
 title: Carnivora
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Carnivora,6290878]]'
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Carnivora,13217770]]'
+- '[[_Standards/WikiData/WD~Template_Carnivora,6290878]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Carnivora,13217770]]'
 UMLS_CUI: C0562690
+dv_has_:
+  name_:
+    af: Roofdiere
+    am: ስጋበል
+    an: Carnivora
+    ang: Flǣscetende dēor
+    ar: لواحم
+    ary: كارنيڤورات
+    arz: لواحم
+    ast: Carnivora
+    av: ВахӀшияб хӀайванал
+    avk: Cottoradunol (Carnivora)
+    az: Yırtıcılar
+    azb: ییٛرتیجیلار
+    be: драпежныя
+    be-tarask: драпежныя
+    bg: хищници
+    bn: শ্বাপদ বর্গ
+    bpy: মাহুখাকুরা
+    br: Kigdebrer
+    bs: Zvijeri
+    ca: carnívors
+    ceb: Carnivora
+    cs: šelmy
+    cv: Çăткăнсем
+    cy: Ysglyfaethwr
+    da: rovpattedyr
+    de: Raubtiere
+    de-ch: Raubtiere
+    diq: Goştweri
+    dsb: Rubjažne zwěrjeta
+    dz: گوشتخوارسانان
+    el: Σαρκοφάγα
+    en: Carnivora
+    en-ca: Carnivora
+    en-gb: carnivora
+    eo: Karnomanĝuloj
+    es: carnívoros
+    et: kiskjalised
+    eu: Karniboro
+    ext: Carnivora
+    fa: گوشتخوارسانان
+    fi: petoeläimet
+    fo: Ránsdjór
+    fr: carnivores
+    frr: Ruuwdiarten
+    fy: Rôfdieren
+    ga: Carnivora
+    gl: Carnívoros
+    gv: Carnivora
+    he: טורפים
+    hi: मांसाहारी गण
+    hr: Carnivora
+    hsb: Rubježne zwěrjata
+    hu: ragadozók
+    hy: գիշատիչներ
+    ia: carnivoros
+    id: Carnivora
+    ie: Carnivora
+    inh: дулхах дажа
+    io: Carnivora
+    is: Rándýr
+    it: carnivori
+    ja: ネコ目
+    ka: მტაცებლები
+    kaa: Jırtqıshlar
+    kab: Timseksumin
+    kbd: Псэущхьэшххэр
+    kk: Жыртқыштар
+    ko: 식육목
+    koi: Лёквиррез
+    ks: ماز خور جانوَر
+    ku: goştxur
+    kw: Kigdebrer
+    ky: Жырткычтар
+    la: Carnivora
+    lb: Raubdéieren
+    li: Roufdiere
+    lij: Carnivora
+    lo: ສັດກິນຊີ້ນ
+    lt: Plėšrieji žinduoliai
+    lv: plēsēji
+    mhr: Шылгочшо
+    mk: ѕверови
+    ml: കാർണിവോറ
+    mrj: Шӹл качшывлӓ
+    ms: Carnivora
+    mul: Carnivora
+    nan: Chia̍h-bah-ba̍k
+    nb: rovpattedyr
+    nds: Roofdeerter
+    nl: roofdieren
+    nn: rovpattedyr
+    nov: Carnivora
+    nrm: Carnivora
+    nv: Bidił Daazdoígíí dóó Daʼalghałígíí
+    oc: Carnivòrs
+    pl: drapieżne
+    pnb: ماس کھانے
+    ps: غوښه خوړونکي
+    pt: carnívoros
+    pt-br: carnívoros
+    qu: Aycha uquq ñuñuq
+    ro: Carnivore
+    ru: хищные
+    sah: Сиэмэх кыыллар аймахтара
+    scn: Carnìvuri
+    sco: Carnivora
+    se: boraspiret
+    sh: Zvijeri
+    sk: Mäsožravce
+    sl: zveri
+    smn: piätuelleeh
+    sq: Mishngrënësit
+    sr: Carnivora
+    stq: Roowdierte
+    su: Carnivora
+    sv: rovdjur
+    sw: Walanyama
+    ta: கார்னிவோரா
+    te: మాంసాహారులు
+    th: สัตว์กินเนื้อ
+    tl: Carnivora
+    tr: etçiller
+    tt: Ерткычлар
+    uk: хижі
+    ur: گوشت خور جانور
+    uz: Yirtqichlar
+    vi: bộ Ăn thịt
+    vls: Roofbêestn
+    vo: Carnivora
+    war: Carnivora
+    wuu: 食肉目
+    xmf: მახვამილაფარეფი
+    yue: 食肉目
+    zea: Roofdier'n
+    zh: 食肉目
+    zh-cn: 食肉目
+    zh-hans: 食肉目
+    zh-hant: 食肉目
+    zh-tw: 食肉目
 ---
-
 # [[Carnivora]]
 
 ## Dogs, cats, bears, raccoons, weasels, mongooses, hyenas, seals, walruses, etc. 

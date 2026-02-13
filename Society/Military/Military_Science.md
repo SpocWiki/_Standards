@@ -1,32 +1,186 @@
 ---
 aliases:
-  - Military_science
-  - Military_Science
-  - Military Science
+- aga ilmu militer
+- Agham na pangmilitar
+- Askeri bilim
+- Ciencia militar
+- ciència militar
+- ciência militar
+- eolaíocht mhíleata
+- Gwyddor filwrol
+- hadtudomány
+- Harbiy fan
+- Hərbi elm
+- ilmu militer
+- Kareiba
+- karyba
+- khoa học quân sự
+- krigsvetenskap
+- krijgswetenschap
+- Krygskunde
+- Kun-sū
+- Military Science
+- Military_science
+- militistiko
+- Militärwissenschaft
+- Militärwëssenschaft
+- militærvidenskab
+- militærvitenskap
+- militārā zinātne
+- nauki wojskowe
+- saidheans airm
+- Sains ketenteraan
+- science militaire
+- scienza militare
+- sciéncia militara
+- shkencë ushtarake
+- Siencis militârs
+- siensa miłitare
+- sotatieteet
+- Syensya panmilitar
+- sõjateadus
+- vojaške vede
+- vojenská věda
+- Vojna nauka
+- Vojna znanost
+- zientzia militar
+- Äskerï ğılım
+- στρατιωτική επιστήμη
+- військова наука
+- ваенная навука
+- вайсковая навука
+- војна наука
+- воена наука
+- Военна наука
+- военная наука
+- хәрби фән
+- Цэргийн урлаг
+- Әскери ғылым
+- ռազմական գիտություն
+- מדעי הצבא
+- اسكەرىي عىلىم
+- زانستی سەربازی
+- علوم عسكرية
+- علوم نظامی
+- सैन्य विज्ञान
+- সামরিক বিজ্ঞান
+- හමුදා විද්යාව
+- 军事学
+- 軍事学
+- 軍事學
+- 군사학
 has_id_wikidata: Q192386
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 is_the_study_of: '[[_Standards/WikiData/WD~military_affairs,1791716]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~military_theorist,12806039]]'
-  - '[[_Standards/WikiData/WD~military_scientist,104176943]]'
+- '[[_Standards/WikiData/WD~military_theorist,12806039]]'
+- '[[_Standards/WikiData/WD~military_scientist,104176943]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~Process_science,117455498]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
-  - '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~Process_science,117455498]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
 subclass_of: '[[_Standards/WikiData/WD~science,336]]'
 Dewey_Decimal_Classification: 350
 Commons_category: Military science
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20v.%20Clausewitz%2C%20Vom%20Kriege%2C%20Berlin%201957%2C%20Umschlagtitel.jpg
 MeSH_tree_code: J01.675
 Colon_Classification: MV41
+dv_has_:
+  name_:
+    af: Krygskunde
+    ar: علوم عسكرية
+    ast: Ciencia militar
+    az: Hərbi elm
+    ban: aga ilmu militer
+    be: ваенная навука
+    be-tarask: вайсковая навука
+    bg: Военна наука
+    bn: সামরিক বিজ্ঞান
+    ca: ciència militar
+    ckb: زانستی سەربازی
+    cs: vojenská věda
+    cy: Gwyddor filwrol
+    da: militærvidenskab
+    de: Militärwissenschaft
+    de-ch: Militärwissenschaft
+    el: στρατιωτική επιστήμη
+    en: military science
+    en-ca: military science
+    en-gb: military science
+    eo: militistiko
+    es: ciencia militar
+    et: sõjateadus
+    eu: zientzia militar
+    fa: علوم نظامی
+    fi: sotatieteet
+    fr: science militaire
+    fur: Siencis militârs
+    ga: eolaíocht mhíleata
+    gd: saidheans airm
+    gl: ciencia militar
+    he: מדעי הצבא
+    hi: सैन्य विज्ञान
+    hr: Vojna znanost
+    hu: hadtudomány
+    hy: ռազմական գիտություն
+    id: ilmu militer
+    it: scienza militare
+    ja: 軍事学
+    kk: Әскери ғылым
+    kk-arab: اسكەرىي عىلىم
+    kk-cn: اسكەرىي عىلىم
+    kk-cyrl: Әскери ғылым
+    kk-kz: Әскери ғылым
+    kk-latn: Äskerï ğılım
+    kk-tr: Äskerï ğılım
+    ko: 군사학
+    lb: Militärwëssenschaft
+    lt: karyba
+    ltg: Kareiba
+    lv: militārā zinātne
+    mk: воена наука
+    mn: Цэргийн урлаг
+    ms: Sains ketenteraan
+    nan: Kun-sū
+    nb: militærvitenskap
+    ne: सैन्य विज्ञान
+    nl: krijgswetenschap
+    oc: sciéncia militara
+    pl: nauki wojskowe
+    pt: ciência militar
+    pt-br: Ciência militar
+    ru: военная наука
+    sh: Vojna nauka
+    si: හමුදා විද්යාව
+    sl: vojaške vede
+    sq: shkencë ushtarake
+    sr: војна наука
+    sr-ec: војна наука
+    sv: krigsvetenskap
+    tl: Agham na pangmilitar
+    tr: Askeri bilim
+    tt: хәрби фән
+    tt-cyrl: хәрби фән
+    uk: військова наука
+    uz: Harbiy fan
+    vec: siensa miłitare
+    vi: khoa học quân sự
+    war: Syensya panmilitar
+    yue: 軍事學
+    zh: 军事学
+    zh-cn: 军事学
+    zh-hans: 军事学
+    zh-hant: 軍事學
+    zh-hk: 軍事學
+    zh-sg: 军事学
+    zh-tw: 軍事學
 ---
-
 # [[Military_Science]] 
 
 #is_/same_as :: [[WD~Military_science,192386]] 

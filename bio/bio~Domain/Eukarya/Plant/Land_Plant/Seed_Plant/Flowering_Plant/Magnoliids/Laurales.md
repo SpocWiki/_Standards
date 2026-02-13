@@ -1,8 +1,121 @@
 ---
 aliases:
-  - Laurales
+- babérvirágúak
+- bộ Nguyệt quế
+- Dəfnəçiçəklilər
+- Koma qaran
+- Laurales
+- Laurals
+- Lauramediečiai
+- Laurbær-ordenen
+- lauru rinda
+- Laŭraloj
+- Loorbeeroortagen
+- Loorberipuulaadsed
+- Lorbeerartige
+- Lovorolike
+- Tanom nga lawrel
+- Tireslin
+- vavřínotvaré
+- wawrzynowce
+- Δαφνώδη
+- Лаўракветныя
+- Лавроцвіті
+- лавроцветни
+- лавроцветные
+- ловоровидни
+- դափնածաղկավորներ
+- עראים
+- برگبوسانان
+- غاريات
+- लौरालेस
+- ലോറേൽസ്
+- อันดับอบเชย
+- クスノキ目
+- 樟目
+- 녹나무목
 title: Laurales
 has_id_wikidata: Q21801
+dv_has_:
+  name_:
+    an: Laurales
+    ar: غاريات
+    arz: غاريات
+    ast: Laurales
+    az: Dəfnəçiçəklilər
+    bcl: Laurales
+    be: Лаўракветныя
+    be-tarask: Лаўракветныя
+    bg: лавроцветни
+    bs: Laurales
+    ca: Laurals
+    ceb: Tanom nga lawrel
+    co: Laurales
+    cs: vavřínotvaré
+    da: Laurbær-ordenen
+    de: Lorbeerartige
+    de-ch: Lorbeerartige
+    el: Δαφνώδη
+    en: Laurales
+    en-ca: Laurales
+    en-gb: Laurales
+    eo: Laŭraloj
+    es: Laurales
+    et: Loorberipuulaadsed
+    eu: Laurales
+    ext: Laurales
+    fa: برگبوسانان
+    fi: Laurales
+    fr: Laurales
+    frr: Loorbeeroortagen
+    ga: Laurales
+    gl: Laurales
+    he: עראים
+    hi: लौरालेस
+    hr: Lovorolike
+    hu: babérvirágúak
+    hy: դափնածաղկավորներ
+    ia: Laurales
+    id: Laurales
+    ie: Laurales
+    io: Laurales
+    it: Laurales
+    ja: クスノキ目
+    jv: Laurales
+    kab: Tireslin
+    ko: 녹나무목
+    ku: Koma qaran
+    la: Laurales
+    lt: Lauramediečiai
+    lv: lauru rinda
+    mk: ловоровидни
+    ml: ലോറേൽസ്
+    ms: Laurales
+    mul: Laurales
+    nb: Laurales
+    nl: Laurales
+    oc: Laurales
+    pl: wawrzynowce
+    pt: Laurales
+    pt-br: Laurales
+    ro: Laurales
+    ru: лавроцветные
+    sco: Laurales
+    sq: Laurales
+    sr: Laurales
+    sv: Laurales
+    th: อันดับอบเชย
+    tr: Laurales
+    uk: Лавроцвіті
+    vi: bộ Nguyệt quế
+    vls: Laurales
+    vo: Laurales
+    war: Laurales
+    yue: 樟目
+    zh: 樟目
+    zh-cn: 樟目
+    zh-hans: 樟目
+    zh-hant: 樟目
 ---
 ## Phylogeny 
 

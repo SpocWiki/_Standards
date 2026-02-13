@@ -1,10 +1,82 @@
 ---
 aliases:
-  - Yann LeCun
-  - Yann André LeCun
-  - LeCun
-  - LeCun,Yann
+- Jan Lekan
+- LeCun
+- LeCun,Yann
+- Yan Lekun
+- Yann André LeCun
+- Yann Le Cun
+- Yann LeCun
+- Лекун Ян
+- Ян Ле Кун
+- Ян ЛеКун
+- Յան Լեկուն
+- יאן לקון
+- يان ليكون
+- یان لی کان
+- यांन लेकून
+- อียาน เลอเกิง
+- ⵢⴰⵏ ⵍⴻⴽⴰⵏ
+- ヤン・ルカン
+- 扬·勒丘恩
+- 扬•勒丘恩
+- 燕樂存
+- 얀 르쾽
 has_id_wikidata: Q3571662
+dv_has_:
+  name_:
+    af: Yann LeCun
+    ar: يان ليكون
+    az: Yan Lekun
+    be-tarask: Ян Ле Кун
+    br: Yann Le Cun
+    ca: Yann Le Cun
+    cs: Yann Le Cun
+    da: Yann LeCun
+    de: Yann LeCun
+    en: Yann Le Cun
+    en-ca: Yann LeCun
+    en-gb: Yann LeCun
+    en-us: Yann LeCun
+    et: Yann LeCun
+    eu: Yann LeCun
+    fa: یان لی کان
+    fi: Yann Le Cun
+    fo: Yann LeCun
+    fr: Yann Le Cun
+    ga: Yann LeCun
+    gl: Yann LeCun
+    he: יאן לקון
+    hi: यांन लेकून
+    hu: Yann Le Cun
+    hy: Յան Լեկուն
+    is: Yann LeCun
+    it: Yann LeCun
+    ja: ヤン・ルカン
+    kl: Yann LeCun
+    ko: 얀 르쾽
+    ky: Лекун Ян
+    mg: Yann LeCun
+    mul: Yann LeCun
+    nb: Yann LeCun
+    nl: Yann LeCun
+    nn: Yann LeCun
+    pl: Yann LeCun
+    pt: Yann Le Cun
+    pt-br: Yann Le Cun
+    ru: Ян ЛеКун
+    sl: Yann Le Cun
+    sq: Yann LeCun
+    sr: Jan Lekan
+    sv: Yann LeCun
+    th: อียาน เลอเกิง
+    tr: Yann LeCun
+    uk: Ян ЛеКун
+    zgh: ⵢⴰⵏ ⵍⴻⴽⴰⵏ
+    zh: 扬·勒丘恩
+    zh-cn: 扬•勒丘恩
+    zh-hans: 扬·勒丘恩
+    zh-hant: 燕樂存
 ---
 ## #has_/text_of_/abstract 
 

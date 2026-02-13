@@ -1,22 +1,298 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]"
-    - "[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]"
-    - "[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]"
-    - "[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]"
-    - "[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]"
-    - "[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]"
-    - "[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]"
+  - '[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]'
+  - '[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]'
+  - '[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]'
+  - '[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]'
+  - '[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]'
+  - '[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]'
+  - '[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]"
-  - "[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]"
-  - "[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]"
-  - "[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]"
-  - "[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]"
-  - "[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]"
-  - "[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]"
+- '[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]'
+- '[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]'
+- '[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]'
+- '[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]'
+- '[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]'
+- '[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]'
+- '[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]'
 has_id_wikidata: Q7350
+dv_has_:
+  name_:
+    af: Panamakanaal
+    am: ፓናማ ቦይ
+    an: Canal de Panamá
+    ar: قناة بنما
+    ary: قناة پاناما
+    arz: قناة باناما
+    as: পানামা খাল
+    ast: Canal de Panamá
+    awa: पनामा नहर
+    az: Panama kanalı
+    azb: پاناما کانالی
+    ba: Панама каналы
+    ban: Terusan Panama
+    bar: Panamakanal
+    bcl: Kanal nin Panama
+    be: Панамскі канал
+    be-tarask: Панамскі канал
+    bg: Панамски канал
+    bho: पनामा नहर
+    bn: পানামা খাল
+    br: Kanol Panamá
+    brh: Pánámá Kaenál
+    bs: Panamski kanal
+    bxr: Панамын һубаг
+    ca: canal de Panamà
+    cdo: Panama Ông-ò̤
+    ce: Панамера татол
+    ceb: Panama Canal (kanal nga nabigasyon)
+    ckb: نۆکەندی پەنەما
+    co: Canali di Panama
+    crh: Panama Kanalı
+    cs: Panamský průplav
+    cv: Панама каналĕ
+    cy: Camlas Panama
+    da: Panamakanalen
+    de: Panamakanal
+    dv: ޕެނަމާ ކެނަލް
+    el: Διώρυγα Παναμά
+    en: Panama Canal
+    en-ca: Panama Canal
+    en-gb: Panama Canal
+    eo: Panama kanalo
+    es: Canal de Panamá
+    et: Panama kanal
+    eu: Panamako kanala
+    fa: آبراه پاناما
+    fi: Panaman kanava
+    fo: Panamaveitin
+    fr: canal de Panama
+    frr: Panamakanaal
+    fy: Panamakanaal
+    ga: Canáil Phanama
+    gan: 巴拿馬運河
+    gl: Canle de Panamá
+    gn: Yrape Panama
+    gsw: Panama-Kanaal
+    hak: Pâ-nâ-mâ Yun-hò
+    he: תעלת פנמה
+    hi: पनामा नहर
+    hif: Panama Canal
+    hr: Panamski kanal
+    ht: Kanal Panama
+    hu: Panama-csatorna
+    hy: Պանամայի ջրանցք
+    ia: Canal de Panama
+    id: Terusan Panama
+    ilo: Kanal Panama
+    io: Panama-kanalo
+    is: Panamaskurðurinn
+    it: canale di Panama
+    ja: パナマ運河
+    jam: Panamaa Kianal
+    jv: Terusan Panama
+    ka: პანამის არხი
+    kaa: Panama kanalı
+    kab: Targa n Panama
+    kbp: Panama Hɛŋa
+    kk: Панама каналы
+    km: ព្រែកជីកប៉ាណាម៉ា
+    kn: ಪನಾಮ ಕಾಲುವೆ
+    ko: 파나마 운하
+    krc: Панама илипин
+    ks: پَنَما کۄل
+    ku: Kanala Panamayê
+    kw: Goeth Panama
+    ky: Панама каналы
+    la: Canalis Panamensis
+    lb: Panamakanal
+    li: Panamaknaal
+    lij: Canâle do Panamá
+    lmo: Canal de Panama
+    lt: Panamos kanalas
+    lv: Panamas kanāls
+    lzh: 巴拿馬運河
+    mg: Lakandranon'i Panama
+    mhr: Панаме канал
+    min: Tarusan Panama
+    mk: Панамски канал
+    ml: പനാമ കനാൽ
+    mn: Панамын суваг
+    mr: पनामा कालवा
+    ms: Terusan Panama
+    my: ပနားမား တူးမြောင်း
+    myv: Панамань венчсуза
+    nan: Panama Ūn-hô
+    nb: Panamakanalen
+    nds: Panamakanal
+    ne: पानामा नहर
+    new: पनामा नहर
+    nl: Panamakanaal
+    nn: Panamakanalen
+    oc: Canal de Panamà
+    pa: ਪਨਾਮਾ ਨਹਿਰ
+    pl: Kanał Panamski
+    pms: Canal ëd Panamà
+    pnb: نہر پانامہ
+    ps: د پاناما کانال
+    pt: Canal do Panamá
+    pt-br: Canal do Panamá
+    ro: Canalul Panama
+    roa-tara: Canale de Panama
+    ru: Панамский канал
+    rue: Панамскый канал
+    sah: Панаама ханаала
+    scn: Canali di Panamá
+    sgs: Panamas kanals
+    sh: Panamski kanal
+    si: panama ala
+    sk: Panamský prieplav
+    sl: Panamski prekop
+    so: Kanaalka Banama
+    sq: Kanali i Panamasë
+    sr: Панамски канал
+    stq: Panamakanoal
+    sv: Panamakanalen
+    sw: Mfereji wa Panama
+    ta: பனாமா கால்வாய்
+    te: పనామా కాలువ
+    th: คลองปานามา
+    tk: Panama kanaly
+    tl: Kanal Panama
+    tr: Panama Kanalı
+    tt: Panama kanalı
+    uk: Панамський канал
+    ur: نہر پاناما
+    uz: Panama kanali
+    vec: Canal de Pànama
+    vep: Panaman kanal
+    vi: Kênh đào Panama
+    war: Kanal han Panama
+    wuu: 巴拿马运河
+    yi: פאנאמא קאנאל
+    yo: Ìladò Panamá
+    yue: 巴拿馬運河
+    zea: Panamakanaol
+    zh: 巴拿馬運河
+    zh-hans: 巴拿马运河
+    zh-hant: 巴拿馬運河
+aliases:
+- Camlas Panama
+- canal de Panama
+- Canal de Panamà
+- Canal de Panamá
+- Canal de Pànama
+- Canal do Panamá
+- Canal ëd Panamà
+- Canale de Panama
+- canale di Panama
+- Canali di Panama
+- Canali di Panamá
+- Canalis Panamensis
+- Canalul Panama
+- Canle de Panamá
+- Canáil Phanama
+- Canâle do Panamá
+- Goeth Panama
+- Kanaalka Banama
+- Kanal han Panama
+- Kanal nin Panama
+- Kanal Panama
+- Kanala Panamayê
+- Kanali i Panamasë
+- Kanał Panamski
+- Kanol Panamá
+- Kênh đào Panama
+- Lakandranon'i Panama
+- Mfereji wa Panama
+- panama ala
+- Panama Canal
+- Panama Canal (kanal nga nabigasyon)
+- Panama Hɛŋa
+- Panama kanal
+- Panama kanali
+- Panama kanalo
+- Panama kanaly
+- Panama Kanalı
+- Panama Ông-ò̤
+- Panama Ūn-hô
+- Panama-csatorna
+- Panama-Kanaal
+- Panama-kanalo
+- Panamaa Kianal
+- Panamakanaal
+- Panamakanal
+- Panamakanalen
+- Panamakanaol
+- Panamakanoal
+- Panamaknaal
+- Panamako kanala
+- Panaman kanal
+- Panaman kanava
+- Panamas kanals
+- Panamas kanāls
+- Panamaskurðurinn
+- Panamaveitin
+- Panamos kanalas
+- Panamski kanal
+- Panamski prekop
+- Panamský prieplav
+- Panamský průplav
+- Pánámá Kaenál
+- Pâ-nâ-mâ Yun-hò
+- Targa n Panama
+- Tarusan Panama
+- Terusan Panama
+- Yrape Panama
+- Ìladò Panamá
+- Διώρυγα Παναμά
+- Панаама ханаала
+- Панама илипин
+- Панама каналĕ
+- Панама каналы
+- Панамань венчсуза
+- Панаме канал
+- Панамера татол
+- Панамскі канал
+- Панамски канал
+- Панамский канал
+- Панамскый канал
+- Панамський канал
+- Панамын суваг
+- Панамын һубаг
+- Պանամայի ջրանցք
+- פאנאמא קאנאל
+- תעלת פנמה
+- آبراه پاناما
+- د پاناما کانال
+- قناة باناما
+- قناة بنما
+- قناة پاناما
+- نہر پاناما
+- نہر پانامہ
+- نۆکەندی پەنەما
+- پاناما کانالی
+- پَنَما کۄل
+- ޕެނަމާ ކެނަލް
+- पनामा कालवा
+- पनामा नहर
+- पानामा नहर
+- পানামা খাল
+- ਪਨਾਮਾ ਨਹਿਰ
+- பனாமா கால்வாய்
+- పనామా కాలువ
+- ಪನಾಮ ಕಾಲುವೆ
+- പനാമ കനാൽ
+- คลองปานามา
+- ပနားမား တူးမြောင်း
+- პანამის არხი
+- ፓናማ ቦይ
+- ព្រែកជីកប៉ាណាម៉ា
+- パナマ運河
+- 巴拿馬運河
+- 巴拿马运河
+- 파나마 운하
 ---
 # [[Panama-Canal]] 
 

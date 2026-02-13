@@ -1,37 +1,51 @@
 ---
-has_time_started: 1969-08-19 
+has_time_started: 1969-08-19
 aliases:
-  - Embraer S.A.
-  - Embraer
+- Embraer
+- Embraer S.A.
+- Ембраер
+- Эмбраэр
+- אמבראר
+- إمبراير
+- امبرائر
+- امبراير
+- এমব্রায়ার
+- எம்பிராயெர்
+- എമ്പ്രേയർ
+- エンブラエル
+- 巴西航空工业公司
+- 巴西航空工業
+- 巴西航空工業公司
+- 엠브라에르
 has_id_wikidata: Q105557
 headquarters_locations: '[[_Standards/WikiData/WD~São_José_dos_Campos,191642]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~airliner,210932]]'
-  - '[[_Standards/WikiData/WD~military_aircraft,216916]]'
-  - '[[_Standards/WikiData/WD~agricultural_aircraft,396067]]'
-  - '[[_Standards/WikiData/WD~airplane,197]]'
+- '[[_Standards/WikiData/WD~airliner,210932]]'
+- '[[_Standards/WikiData/WD~military_aircraft,216916]]'
+- '[[_Standards/WikiData/WD~agricultural_aircraft,396067]]'
+- '[[_Standards/WikiData/WD~airplane,197]]'
 industry:
-  - '[[_Standards/WikiData/WD~arms_industry,392933]]'
-  - '[[_Standards/WikiData/WD~aircraft_construction,1434048]]'
-  - '[[_Standards/WikiData/WD~aerospace_industry,3477363]]'
+- '[[_Standards/WikiData/WD~arms_industry,392933]]'
+- '[[_Standards/WikiData/WD~aircraft_construction,1434048]]'
+- '[[_Standards/WikiData/WD~aerospace_industry,3477363]]'
 stock_exchange:
-  - '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
-  - '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+- '[[_Standards/WikiData/WD~São_Paulo_Stock_Exchange,796297]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~aerospace_manufacturer,936518]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~aerospace_manufacturer,936518]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Neiva,1662169]]'
-  - '[[_Standards/WikiData/WD~Eleb,10271273]]'
-  - '[[_Standards/WikiData/WD~Atech,16495039]]'
-  - '[[_Standards/WikiData/WD~Embraer_Defense_&_Security,18473964]]'
+- '[[_Standards/WikiData/WD~Neiva,1662169]]'
+- '[[_Standards/WikiData/WD~Eleb,10271273]]'
+- '[[_Standards/WikiData/WD~Atech,16495039]]'
+- '[[_Standards/WikiData/WD~Embraer_Defense_&_Security,18473964]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~Neiva,1662169]]'
-  - '[[_Standards/WikiData/WD~OGMA_Indústria_Aeronáutica_de_Portugal,66814509]]'
-  - '[[_Standards/WikiData/WD~Eve_Air_Mobility,110723009]]'
+- '[[_Standards/WikiData/WD~Neiva,1662169]]'
+- '[[_Standards/WikiData/WD~OGMA_Indústria_Aeronáutica_de_Portugal,66814509]]'
+- '[[_Standards/WikiData/WD~Eve_Air_Mobility,110723009]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Ozires_Silva,1797281]]'
-  - '[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]'
+- '[[_Standards/WikiData/WD~Ozires_Silva,1797281]]'
+- '[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]'
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
 legal_form: '[[_Standards/WikiData/WD~sociedade_anônima,50173563]]'
 country: '[[_Standards/WikiData/WD~Brazil,155]]'
@@ -49,15 +63,81 @@ ISNI: 0000000121051358
 PermID: 4295859844
 Legal_Entity_Identifier: 549300EM51WYXFHUY333
 ISIN:
-  - BREMBRACNOR4
-  - US29082A1079
+- BREMBRACNOR4
+- US29082A1079
 Commons_gallery: Embraer
 Commons_category: Embraer
 name_in_native_language: Carlos Alberto Peña
 official_name: Empresa Brasileira de Aeronáutica S.A.
 native_label: Embraer
+dv_has_:
+  name_:
+    af: Embraer
+    ar: إمبراير
+    arz: امبراير
+    ast: Embraer
+    az: Embraer
+    be: Эмбраэр
+    be-tarask: Эмбраэр
+    bg: Ембраер
+    bn: এমব্রায়ার
+    ca: Embraer
+    cs: Embraer
+    da: Embraer
+    de: Embraer
+    en: Embraer
+    eo: Embraer
+    es: Embraer
+    et: Embraer
+    eu: Embraer
+    fa: امبرائر
+    fi: Embraer
+    fr: Embraer
+    ga: Embraer
+    gl: Embraer
+    he: אמבראר
+    hr: Embraer
+    hu: Embraer
+    hy: Embraer
+    id: Embraer
+    it: Embraer
+    ja: エンブラエル
+    ko: 엠브라에르
+    li: Embraer
+    lt: Embraer
+    mg: Embraer
+    mk: Embraer
+    ml: എമ്പ്രേയർ
+    ms: Embraer
+    nb: Embraer
+    nds: Embraer
+    nl: Embraer
+    nn: Embraer
+    oc: Embraer
+    pl: Embraer
+    pt: Embraer
+    ro: Embraer
+    ru: Эмбраэр
+    sk: Embraer
+    sl: Embraer
+    sq: Embraer
+    sr: Ембраер
+    sr-ec: Ембраер
+    sr-el: Embraer
+    sv: Embraer
+    ta: எம்பிராயெர்
+    tr: Embraer
+    uk: Embraer
+    vi: Embraer
+    yue: 巴西航空工業
+    zh: 巴西航空工业公司
+    zh-cn: 巴西航空工业公司
+    zh-hans: 巴西航空工业公司
+    zh-hant: 巴西航空工業公司
+    zh-hk: 巴西航空工業公司
+    zh-sg: 巴西航空工业公司
+    zh-tw: 巴西航空工業公司
 ---
-
 # [[Embraer]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Embraer,105557|WD~Embraer,105557]] 

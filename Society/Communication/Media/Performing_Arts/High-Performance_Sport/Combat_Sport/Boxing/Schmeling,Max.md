@@ -1,10 +1,101 @@
 ---
 aliases:
-  - Max Schmeling
-  - Schmeling
-  - Maximilian Adolph Otto Siegfried Schmeling
-  - Schmeling,Max
+- Maks Şmelinq
+- Maksis Šmēlings
+- Max Schmeling
+- Maximilian Adolph Otto Siegfried Schmeling
+- Schmeling
+- Schmeling,Max
+- Макс Шмелінг
+- Макс Шмелинг
+- Մաքս Շմելինգ
+- מקס שמלינג
+- ماكس شميلينج
+- ماکس شمێلینگ
+- مکس اشملینگ
+- मैक्स सचमेलिंग
+- મેક્સ સચમેલીંગ
+- マックス・シュメリング
+- 馬克斯·施梅林
+- 马克斯·施梅林
+- 막스 슈멜링
 has_id_wikidata: Q77102
+dv_has_:
+  name_:
+    af: Max Schmeling
+    an: Max Schmeling
+    ar: ماكس شميلينج
+    arz: ماكس شميلينج
+    ast: Max Schmeling
+    az: Maks Şmelinq
+    bar: Max Schmeling
+    be: Макс Шмелінг
+    bg: Макс Шмелинг
+    br: Max Schmeling
+    ca: Max Schmeling
+    ckb: ماکس شمێلینگ
+    cs: Max Schmeling
+    cy: Max Schmeling
+    da: Max Schmeling
+    de: Max Schmeling
+    de-ch: Max Schmeling
+    dsb: Max Schmeling
+    en: Max Schmeling
+    en-ca: Max Schmeling
+    en-gb: Max Schmeling
+    eo: Max Schmeling
+    es: Max Schmeling
+    et: Max Schmeling
+    eu: Max Schmeling
+    fa: مکس اشملینگ
+    fi: Max Schmeling
+    fr: Max Schmeling
+    frr: Max Schmeling
+    ga: Max Schmeling
+    gl: Max Schmeling
+    gsw: Max Schmeling
+    gu: મેક્સ સચમેલીંગ
+    he: מקס שמלינג
+    hi: मैक्स सचमेलिंग
+    hr: Max Schmeling
+    hu: Max Schmeling
+    hy: Մաքս Շմելինգ
+    id: Max Schmeling
+    io: Max Schmeling
+    is: Max Schmeling
+    it: Max Schmeling
+    ja: マックス・シュメリング
+    ko: 막스 슈멜링
+    lb: Max Schmeling
+    lmo: Max Schmeling
+    lt: Max Schmeling
+    lv: Maksis Šmēlings
+    mul: Max Schmeling
+    nb: Max Schmeling
+    nds: Max Schmeling
+    nds-nl: Max Schmeling
+    nl: Max Schmeling
+    nn: Max Schmeling
+    oc: Max Schmeling
+    pap: Max Schmeling
+    pl: Max Schmeling
+    pms: Max Schmeling
+    pt: Max Schmeling
+    pt-br: Max Schmeling
+    ro: Max Schmeling
+    ru: Макс Шмелинг
+    sk: Max Schmeling
+    sl: Max Schmeling
+    sq: Max Schmeling
+    sv: Max Schmeling
+    tr: Max Schmeling
+    uk: Макс Шмелінг
+    wa: Max Schmeling
+    yo: Max Schmeling
+    zh: 马克斯·施梅林
+    zh-cn: 马克斯·施梅林
+    zh-hans: 马克斯·施梅林
+    zh-hant: 馬克斯·施梅林
 ---
 # [[Schmeling,Max]] 
 

@@ -1,63 +1,92 @@
 ---
 aliases:
-  - Jane_Fonda
-  - Jane Seymour Fonda
-  - Jane Fonda
-  - Fonda
+- Džeina Fonda
+- Fonda
+- Ioanna Fonda
+- Jane Fonda
+- Jane Fondová
+- Jane Seymour Fonda
+- Jane_Fonda
+- Τζέιν Φόντα
+- Џејн Фонда
+- Джейн Фонда
+- Джэйн Фонда
+- Жэйн Фонда
+- Ҷейн Фонда
+- Ջեյն Ֆոնդա
+- ג'יין פונדה
+- جين فوندا
+- جین فوندا
+- جین فونڈا
+- جەین فۆندا
+- जेन फोंडा
+- জেন ফন্ডা
+- ਜੇਨ ਫੋਂਡਾ
+- ஜேன் ஃபோண்டா
+- జేన్ ఫోండా
+- ജെയ്ൻ ഫോണ്ട
+- เจน ฟอนดา
+- ჯეინ ფონდა
+- ジェーン・フォンダ
+- 珍·芳达
+- 珍·芳達
+- 珍芳達
+- 简·方达
+- 제인 폰다
 has_id_wikidata: Q41142
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Featured_Actress_in_a_Play,627778]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actress,602866]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Featured_Actress_in_a_Play,627778]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
-  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
-  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
-  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+- '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+- '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~breast_cancer,128581]]'
-  - '[[_Standards/WikiData/WD~osteoporosis,165328]]'
-  - '[[_Standards/WikiData/WD~non_Hodgkin_lymphoma,1138590]]'
+- '[[_Standards/WikiData/WD~breast_cancer,128581]]'
+- '[[_Standards/WikiData/WD~osteoporosis,165328]]'
+- '[[_Standards/WikiData/WD~non_Hodgkin_lymphoma,1138590]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Jane_Seymour,182637]]'
-  - '[[_Standards/WikiData/WD~Henry_Fonda,19155]]'
+- '[[_Standards/WikiData/WD~Jane_Seymour,182637]]'
+- '[[_Standards/WikiData/WD~Henry_Fonda,19155]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Ted_Turner,193368]]'
-  - '[[_Standards/WikiData/WD~Tom_Hayden,352953]]'
-  - '[[_Standards/WikiData/WD~Roger_Vadim,383420]]'
+- '[[_Standards/WikiData/WD~Ted_Turner,193368]]'
+- '[[_Standards/WikiData/WD~Tom_Hayden,352953]]'
+- '[[_Standards/WikiData/WD~Roger_Vadim,383420]]'
 sibling: '[[_Standards/WikiData/WD~Peter_Fonda,210148]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Actors_Studio,216458]]'
-  - '[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]'
-  - '[[_Standards/WikiData/WD~Vassar_College,2093794]]'
-  - '[[_Standards/WikiData/WD~Emma_Willard_School,5372997]]'
-  - '[[_Standards/WikiData/WD~Greenwich_Academy,5604827]]'
-  - '[[_Standards/WikiData/WD~John_Thomas_Dye_School,6260553]]'
+- '[[_Standards/WikiData/WD~Actors_Studio,216458]]'
+- '[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]'
+- '[[_Standards/WikiData/WD~Vassar_College,2093794]]'
+- '[[_Standards/WikiData/WD~Emma_Willard_School,5372997]]'
+- '[[_Standards/WikiData/WD~Greenwich_Academy,5604827]]'
+- '[[_Standards/WikiData/WD~John_Thomas_Dye_School,6260553]]'
 member_of: '[[_Standards/WikiData/WD~Academy_of_Arts,_Berlin,414110]]'
 child:
-  - '[[_Standards/WikiData/WD~Troy_Garity,918866]]'
-  - '[[_Standards/WikiData/WD~Vanessa_Vadim,5119501]]'
-  - '[[_Standards/WikiData/WD~Mary_Williams,19867085]]'
+- '[[_Standards/WikiData/WD~Troy_Garity,918866]]'
+- '[[_Standards/WikiData/WD~Vanessa_Vadim,5119501]]'
+- '[[_Standards/WikiData/WD~Mary_Williams,19867085]]'
 given_name: '[[_Standards/WikiData/WD~Jane,1682564]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~model,4610556]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~model,4610556]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Richard_Perry,7328376]]'
 mother: '[[_Standards/WikiData/WD~Frances_Ford_Seymour,10961701]]'
@@ -90,8 +119,8 @@ Facebook_username: JaneFonda
 Bluesky_handle: janefonda.com
 Libris_URI: zw9cfrbh30jfw38
 birth_name:
-  - Jane Seymour Fonda
-  - Jayne Seymour Fonda
+- Jane Seymour Fonda
+- Jayne Seymour Fonda
 name_in_native_language: Jane Fonda
 work_period_start_: 1959-01-01T00:00:00Z
 date_of_birth: 1937-12-21T00:00:00Z
@@ -101,8 +130,154 @@ ISNI: 000000012278393X
 RIA_Novosti_reference: 1511268908
 Plex_person_key: 5d776826880197001ec90685
 U_S_National_Archives_Identifier: 75444106
+dv_has_:
+  name_:
+    af: Jane Fonda
+    an: Jane Fonda
+    ar: جين فوندا
+    arz: جين فوندا
+    ast: Jane Fonda
+    azb: جین فوندا
+    ba: Джейн Фонда
+    bar: Jane Fonda
+    bcl: Jane Fonda
+    be: Джэйн Фонда
+    be-tarask: Джэйн Фонда
+    bg: Джейн Фонда
+    bi: Jane Fonda
+    bm: Jane Fonda
+    bn: জেন ফন্ডা
+    br: Jane Fonda
+    bs: Jane Fonda
+    ca: Jane Fonda
+    ckb: جەین فۆندا
+    co: Jane Fonda
+    cs: Jane Fondová
+    cy: Jane Fonda
+    da: Jane Fonda
+    de: Jane Fonda
+    de-at: Jane Fonda
+    de-ch: Jane Fonda
+    el: Τζέιν Φόντα
+    en: Jane Fonda
+    en-ca: Jane Fonda
+    en-gb: Jane Fonda
+    eo: Jane Fonda
+    es: Jane Fonda
+    et: Jane Fonda
+    eu: Jane Fonda
+    fa: جین فوندا
+    fi: Jane Fonda
+    fr: Jane Fonda
+    frc: Jane Fonda
+    frp: Jane Fonda
+    fur: Jane Fonda
+    fy: Jane Fonda
+    ga: Jane Fonda
+    gd: Jane Fonda
+    gl: Jane Fonda
+    gpe: Jane Fonda
+    gsw: Jane Fonda
+    ha: Jane Fonda
+    he: ג'יין פונדה
+    hif: Jane Fonda
+    hr: Jane Fonda
+    hu: Jane Fonda
+    hy: Ջեյն Ֆոնդա
+    ia: Jane Fonda
+    id: Jane Fonda
+    ie: Jane Fonda
+    ig: Jane Fonda
+    ilo: Jane Fonda
+    io: Jane Fonda
+    is: Jane Fonda
+    it: Jane Fonda
+    ja: ジェーン・フォンダ
+    jam: Jane Fonda
+    ka: ჯეინ ფონდა
+    kab: Jane Fonda
+    kg: Jane Fonda
+    ko: 제인 폰다
+    la: Ioanna Fonda
+    lb: Jane Fonda
+    li: Jane Fonda
+    lij: Jane Fonda
+    lt: Jane Fonda
+    lv: Džeina Fonda
+    mg: Jane Fonda
+    min: Jane Fonda
+    mk: Џејн Фонда
+    ml: ജെയ്ൻ ഫോണ്ട
+    mn: Жэйн Фонда
+    mr: जेन फोंडा
+    ms: Jane Fonda
+    mul: Jane Fonda
+    nan: Jane Fonda
+    nap: Jane Fonda
+    nb: Jane Fonda
+    nds: Jane Fonda
+    nds-nl: Jane Fonda
+    nl: Jane Fonda
+    nn: Jane Fonda
+    nrm: Jane Fonda
+    oc: Jane Fonda
+    pa: ਜੇਨ ਫੋਂਡਾ
+    pap: Jane Fonda
+    pcd: Jane Fonda
+    pl: Jane Fonda
+    pms: Jane Fonda
+    pnb: جین فونڈا
+    prg: Jane Fonda
+    pt: Jane Fonda
+    pt-br: Jane Fonda
+    qu: Jane Fonda
+    rgn: Jane Fonda
+    rm: Jane Fonda
+    ro: Jane Fonda
+    ru: Джейн Фонда
+    sc: Jane Fonda
+    scn: Jane Fonda
+    sco: Jane Fonda
+    sh: Jane Fonda
+    sk: Jane Fondová
+    skr: جین فونڈا
+    sl: Jane Fonda
+    sq: Jane Fonda
+    sr: Џејн Фонда
+    sr-ec: Џејн Фонда
+    sr-el: Jane Fonda
+    sv: Jane Fonda
+    sw: Jane Fonda
+    ta: ஜேன் ஃபோண்டா
+    te: జేన్ ఫోండా
+    tg: Ҷейн Фонда
+    th: เจน ฟอนดา
+    tl: Jane Fonda
+    tr: Jane Fonda
+    tt: Джейн Фонда
+    uk: Джейн Фонда
+    ur: جین فونڈا
+    uz: Jane Fonda
+    vec: Jane Fonda
+    vi: Jane Fonda
+    vls: Jane Fonda
+    vmf: Jane Fonda
+    vo: Jane Fonda
+    wa: Jane Fonda
+    war: Jane Fonda
+    wo: Jane Fonda
+    wuu: 简·方达
+    xmf: ჯეინ ფონდა
+    yo: Jane Fonda
+    yue: 珍芳達
+    zh: 珍·芳達
+    zh-cn: 简·方达
+    zh-hans: 简·方达
+    zh-hant: 珍·芳達
+    zh-my: 珍·芳达
+    zh-sg: 珍·芳达
+    zu: Jane Fonda
 ---
-
 # [[Jane_Fonda]] 
 
 #is_/same_as :: [[WD~Jane_Fonda,41142]] 

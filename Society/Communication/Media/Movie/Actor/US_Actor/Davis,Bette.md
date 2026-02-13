@@ -1,35 +1,68 @@
 ---
 aliases:
-  - Ruth Elizabeth "Bette" Davis
-  - '"Bette" Davis'
-  - Bette Davis
-  - Ruth Elizabeth Davis
-  - Davis,Bette
+- '"Bette" Davis'
+- Beta Deivisa
+- Bett Deyvis
+- Bette Davis
+- Bette Davisová
+- Davis,Bette
+- Elisabetha Davis
+- Ruth Elizabeth "Bette" Davis
+- Ruth Elizabeth Davis
+- Μπέτι Ντέιβις
+- Бет Дэвіс
+- Бети Дејвис
+- Бети Дейвис
+- Бетт Дейвис
+- Бетт Дэвис
+- Бетті Девіс
+- Бетте Давис
+- Бэт Дэвіс
+- Բեթ Դեյվիս
+- בטי דייוויס
+- بت دیویس
+- بيت ديفيس
+- بيٽي ڊيوس
+- بیٹی ڈیوس
+- بێتی دەیڤز
+- बेटी डेव्हिस
+- বেটি ডেভিস
+- ਬੈਟੀ ਡੇਵਿਸ
+- బెట్టీ డేవిస్
+- ബെറ്റി ഡേവിസ്
+- เบตตี เดวิส
+- ბეტი დევისი
+- ბეტი დეივისი
+- ベティ・デイヴィス
+- 比提戴維斯
+- 貝蒂·戴維斯
+- 贝蒂·戴维斯
+- 베티 데이비스
 has_id_wikidata: Q71206
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle,226003]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
-  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]'
-  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle,226003]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+- '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actress,1257399]]'
+- '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actress,2089918]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
 employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 cause_of_death: '[[_Standards/WikiData/WD~breast_cancer,128581]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Gary_Merrill,562339]]'
-  - '[[_Standards/WikiData/WD~William_Grant_Sherry,8010112]]'
+- '[[_Standards/WikiData/WD~Gary_Merrill,562339]]'
+- '[[_Standards/WikiData/WD~William_Grant_Sherry,8010112]]'
 occupation:
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]'
 record_label: '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -40,8 +73,8 @@ family_name: '[[_Standards/WikiData/WD~Davis,12652678]]'
 child: '[[_Standards/WikiData/WD~B._D._Hyman,14943088]]'
 given_name: '[[_Standards/WikiData/WD~Bette,16275033]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 Plex_person_key: 5d776825f54112001f5bbed2
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 represented_by: '[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]'
@@ -71,18 +104,122 @@ work_period_end_: 1989-01-01T00:00:00Z
 date_of_death: 1989-10-06T00:00:00Z
 work_period_start_: 1929-01-01T00:00:00Z
 image_of_grave:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20grave.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20Tomb.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20grave.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20Tomb.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20signature%2C%20April%2022nd%2C%201949.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BetteDavis1935.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Grauman%27s%20Chinese%20Theatre%2C%20bette%20davis.JPG
 official_website: http://www.bettedavis.com
 ISNI:
-  - 0000000121394262
-  - 000000036864426X
+- 0000000121394262
+- 000000036864426X
 U_S_National_Archives_Identifier: 16703221
+dv_has_:
+  name_:
+    af: Bette Davis
+    an: Bette Davis
+    ar: بيت ديفيس
+    arz: بيت ديفيس
+    ast: Bette Davis
+    ay: Bette Davis
+    az: Bett Deyvis
+    azb: بت دیویس
+    ba: Бетт Дейвис
+    be: Бет Дэвіс
+    be-tarask: Бэт Дэвіс
+    bg: Бети Дейвис
+    bi: Bette Davis
+    bn: বেটি ডেভিস
+    bs: Bette Davis
+    ca: Bette Davis
+    ckb: بێتی دەیڤز
+    cs: Bette Davisová
+    cy: Bette Davis
+    da: Bette Davis
+    dag: Bette Davis
+    de: Bette Davis
+    diq: Bette Davis
+    el: Μπέτι Ντέιβις
+    eml: Bette Davis
+    en: Bette Davis
+    en-us: Bette Davis
+    eo: Bette Davis
+    es: Bette Davis
+    et: Bette Davis
+    eu: Bette Davis
+    fa: بت دیویس
+    fi: Bette Davis
+    fr: Bette Davis
+    fy: Bette Davis
+    ga: Bette Davis
+    gl: Bette Davis
+    he: בטי דייוויס
+    hif: Bette Davis
+    hr: Bette Davis
+    hu: Bette Davis
+    hy: Բեթ Դեյվիս
+    id: Bette Davis
+    ig: Bette Davis
+    ilo: Bette Davis
+    io: Bette Davis
+    is: Bette Davis
+    it: Bette Davis
+    ja: ベティ・デイヴィス
+    ka: ბეტი დევისი
+    ko: 베티 데이비스
+    la: Elisabetha Davis
+    lb: Bette Davis
+    lt: Bette Davis
+    lv: Beta Deivisa
+    mg: Bette Davis
+    mk: Бети Дејвис
+    ml: ബെറ്റി ഡേവിസ്
+    mr: बेटी डेव्हिस
+    ms: Bette Davis
+    mul: Bette Davis
+    nan: Bette Davis
+    nb: Bette Davis
+    nl: Bette Davis
+    nn: Bette Davis
+    nrm: Bette Davis
+    oc: Bette Davis
+    pa: ਬੈਟੀ ਡੇਵਿਸ
+    pap: Bette Davis
+    pl: Bette Davis
+    pt: Bette Davis
+    pt-br: Bette Davis
+    qu: Bette Davis
+    ro: Bette Davis
+    ru: Бетт Дэвис
+    sco: Bette Davis
+    sd: بيٽي ڊيوس
+    sh: Bette Davis
+    sk: Bette Davisová
+    sl: Bette Davis
+    smn: Bette Davis
+    sq: Bette Davis
+    sr: Бети Дејвис
+    sr-ec: Бети Дејвис
+    sv: Bette Davis
+    te: బెట్టీ డేవిస్
+    tg: Бетте Давис
+    th: เบตตี เดวิส
+    tl: Bette Davis
+    tr: Bette Davis
+    tt: Бетт Дейвис
+    uk: Бетті Девіс
+    ur: بیٹی ڈیوس
+    uz: Bette Davis
+    vi: Bette Davis
+    war: Bette Davis
+    wuu: 贝蒂·戴维斯
+    xmf: ბეტი დეივისი
+    yo: Bette Davis
+    yue: 比提戴維斯
+    zh: 贝蒂·戴维斯
+    zh-hans: 贝蒂·戴维斯
+    zh-hant: 貝蒂·戴維斯
 ---
-
 # [[Davis,Bette]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bette_Davis,71206|WD~Bette_Davis,71206]] 

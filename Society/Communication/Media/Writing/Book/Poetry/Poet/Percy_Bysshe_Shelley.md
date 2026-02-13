@@ -1,93 +1,132 @@
 ---
 aliases:
+- A. Percy Bysshe Shelley
+- Percy B. Shelley
+- Percy Bysshe Shelley
+- Percy Shelley
+- Persi Biş Şelli
+- Persijs Bišs Šellijs
+- Shelli Persi Bish
+- shelly poetry
+- Πέρσι Σέλλεϋ
+- Персі Біш Шэлі
+- Персі Біші Шеллі
+- Перси Биш Шели
+- Перси Биш Шелли
+- Пърси Биш Шели
+- Пэрсі Біш Шэлі
+- Պերսի Բիշի Շելլի
+- פרסי ביש שלי
+- بيرسى بيش شيلى
+- بيرسي بيش شيلي
+- شیلی
+- پرسی بیش شلی
+- پێرسی بیشێ شیللی
+- पर्सी बिश शेली
+- पर्सी शेली
+- পার্সি বিশি শেলি
+- পি. বি. শ্বেলী
+- ਪਰਸੀ ਬਿਸ਼ ਸ਼ੈਲੇ
+- પર્સી બૅશી શેલી
+- பெர்சி பைச்சு செல்லி
+- ಪರ್ಸಿ ಬೈಷೆ ಶೆಲ್ಲಿ
+- പെഴ്സി ബിഷ് ഷെല്ലി
+- ရှဲလီ၊ ပါဆီ
+- პერსი ბიში შელი
+- パーシー・ビッシュ・シェリー
+- 珀西·比希·雪莱
+- 珀西·比希·雪萊
+- 雪利
+- 雪萊
+- 퍼시 비시 셸리
 has_id_wikidata: Q93343
 influenced_by:
-  - "[[_Standards/WikiData/WD~John_Milton,79759]]"
-  - "[[_Standards/WikiData/WD~Robert_Burns,81960]]"
-  - "[[_Standards/WikiData/WD~Adam_Weishaupt,159481]]"
-  - "[[_Standards/WikiData/WD~Pedro_Calderón_de_la_Barca,170800]]"
-  - "[[_Standards/WikiData/WD~William_Godwin,188569]]"
-  - "[[_Standards/WikiData/WD~Lord_Byron,5679]]"
-  - "[[_Standards/WikiData/WD~Ovid,7198]]"
-  - "[[_Standards/WikiData/WD~Francis_Bacon,37388]]"
+- '[[_Standards/WikiData/WD~John_Milton,79759]]'
+- '[[_Standards/WikiData/WD~Robert_Burns,81960]]'
+- '[[_Standards/WikiData/WD~Adam_Weishaupt,159481]]'
+- '[[_Standards/WikiData/WD~Pedro_Calderón_de_la_Barca,170800]]'
+- '[[_Standards/WikiData/WD~William_Godwin,188569]]'
+- '[[_Standards/WikiData/WD~Lord_Byron,5679]]'
+- '[[_Standards/WikiData/WD~Ovid,7198]]'
+- '[[_Standards/WikiData/WD~Francis_Bacon,37388]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_College,_Oxford,81087]]"
-  - "[[_Standards/WikiData/WD~Eton_College,192088]]"
-lifestyle: "[[_Standards/WikiData/WD~vegetarianism,83364]]"
+- '[[_Standards/WikiData/WD~University_College,_Oxford,81087]]'
+- '[[_Standards/WikiData/WD~Eton_College,192088]]'
+lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,223936]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-place_of_birth: "[[_Standards/WikiData/WD~Horsham,177544]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,223936]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+place_of_birth: '[[_Standards/WikiData/WD~Horsham,177544]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~novelist,6625963]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~linguist,14467526]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-different_from: "[[_Standards/WikiData/WD~Shelley,232895]]"
-cause_of_death: "[[_Standards/WikiData/WD~drowning,506616]]"
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~linguist,14467526]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+different_from: '[[_Standards/WikiData/WD~Shelley,232895]]'
+cause_of_death: '[[_Standards/WikiData/WD~drowning,506616]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Prometheus_Unbound,508181]]"
-  - "[[_Standards/WikiData/WD~Ozymandias,662166]]"
-  - "[[_Standards/WikiData/WD~Love's_Philosophy,3310615]]"
-  - "[[_Standards/WikiData/WD~The_Cloud,7723491]]"
+- '[[_Standards/WikiData/WD~Prometheus_Unbound,508181]]'
+- '[[_Standards/WikiData/WD~Ozymandias,662166]]'
+- "[[_Standards/WikiData/WD~Love's_Philosophy,3310615]]"
+- '[[_Standards/WikiData/WD~The_Cloud,7723491]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Q19036877,19036877]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Bodláčí_z_Parnassu,19523733]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-manner_of_death: "[[_Standards/WikiData/WD~shipwrecking,906512]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
-place_of_burial: "[[_Standards/WikiData/WD~Protestant_Cemetery,_Rome,1187723]]"
-place_of_death: "[[_Standards/WikiData/WD~Gulf_of_La_Spezia,1223267]]"
-residence: "[[_Standards/WikiData/WD~Elan_Valley,1324865]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Q19036877,19036877]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Bodláčí_z_Parnassu,19523733]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+manner_of_death: '[[_Standards/WikiData/WD~shipwrecking,906512]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+place_of_burial: '[[_Standards/WikiData/WD~Protestant_Cemetery,_Rome,1187723]]'
+place_of_death: '[[_Standards/WikiData/WD~Gulf_of_La_Spezia,1223267]]'
+residence: '[[_Standards/WikiData/WD~Elan_Valley,1324865]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Percy,1329662]]"
-  - "[[_Standards/WikiData/WD~Bysshe,21079731]]"
-genre: "[[_Standards/WikiData/WD~romantic_poetry,2735649]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
-archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Percy,1329662]]'
+- '[[_Standards/WikiData/WD~Bysshe,21079731]]'
+genre: '[[_Standards/WikiData/WD~romantic_poetry,2735649]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - "[[_Standards/WikiData/WD~Percy_Florence_Shelley,7167346]]"
-  - "[[_Standards/WikiData/WD~Charles_Bysshe_Shelley,75448347]]"
-  - "[[_Standards/WikiData/WD~Ianthe_Eliza_Shelley,75448349]]"
-  - "[[_Standards/WikiData/WD~William_Shelley,75827597]]"
-  - "[[_Standards/WikiData/WD~Clara_Shelley,96075683]]"
-  - "[[_Standards/WikiData/WD~Clara_Everina_Shelley,96075685]]"
-father: "[[_Standards/WikiData/WD~Timothy_Shelley,7807514]]"
-family_name: "[[_Standards/WikiData/WD~Shelley,21448105]]"
+- '[[_Standards/WikiData/WD~Percy_Florence_Shelley,7167346]]'
+- '[[_Standards/WikiData/WD~Charles_Bysshe_Shelley,75448347]]'
+- '[[_Standards/WikiData/WD~Ianthe_Eliza_Shelley,75448349]]'
+- '[[_Standards/WikiData/WD~William_Shelley,75827597]]'
+- '[[_Standards/WikiData/WD~Clara_Shelley,96075683]]'
+- '[[_Standards/WikiData/WD~Clara_Everina_Shelley,96075685]]'
+father: '[[_Standards/WikiData/WD~Timothy_Shelley,7807514]]'
+family_name: '[[_Standards/WikiData/WD~Shelley,21448105]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Portrait_of_Percy_Bysshe_Shelley,23008420]]"
-  - "[[_Standards/WikiData/WD~Percy_Bysshe_Shelley,28048817]]"
+- '[[_Standards/WikiData/WD~Portrait_of_Percy_Bysshe_Shelley,23008420]]'
+- '[[_Standards/WikiData/WD~Percy_Bysshe_Shelley,28048817]]'
 owner_of: "[[_Standards/WikiData/WD~Shelley's_guitar,43380245]]"
 spouse:
-  - "[[_Standards/WikiData/WD~Harriet_Westbrook,51883506]]"
-  - "[[_Standards/WikiData/WD~Mary_Shelley,47152]]"
+- '[[_Standards/WikiData/WD~Harriet_Westbrook,51883506]]'
+- '[[_Standards/WikiData/WD~Mary_Shelley,47152]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Helen_Shelley,55841256]]"
-  - "[[_Standards/WikiData/WD~Margaret_Shelley,56604095]]"
-  - "[[_Standards/WikiData/WD~John_Shelley,75283424]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_Shelley,75827588]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-mother: "[[_Standards/WikiData/WD~Elizabeth_Pilford,75286228]]"
+- '[[_Standards/WikiData/WD~Helen_Shelley,55841256]]'
+- '[[_Standards/WikiData/WD~Margaret_Shelley,56604095]]'
+- '[[_Standards/WikiData/WD~John_Shelley,75283424]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Shelley,75827588]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+mother: '[[_Standards/WikiData/WD~Elizabeth_Pilford,75286228]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_Creator_page: Percy Bysshe Shelley
 Commons_gallery: Percy Bysshe Shelley
 Commons_category: Percy Bysshe Shelley
@@ -101,14 +140,118 @@ date_of_birth: 1792-08-04T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Percy%20Bysshe%20Shelley%20SVG%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Percy%20Shelley%20gravestone%20with%20clear%20text.png
 described_at_URL: https://www.gutenberg.org/files/41407/41407-h/41407-h.htm
-ISNI: "0000000121031840"
-NLC_authorities: "000272268"
+ISNI: 0000000121031840
+NLC_authorities: 000272268
 CYT_CCS: AC000013705
 Europeana_entity: agent/base/111788
 Wolfram_Language_entity_code: Entity["Person", "PercyByssheShelley::2585s"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHELLI_PERSI_BISH.html
+dv_has_:
+  name_:
+    af: Percy Bysshe Shelley
+    an: Percy Bysshe Shelley
+    ar: بيرسي بيش شيلي
+    arz: بيرسى بيش شيلى
+    as: পি. বি. শ্বেলী
+    ast: Percy Bysshe Shelley
+    az: Persi Biş Şelli
+    azb: پرسی بیش شلی
+    be: Персі Біш Шэлі
+    be-tarask: Пэрсі Біш Шэлі
+    bg: Пърси Биш Шели
+    bho: पर्सी बिश शेली
+    bn: পার্সি বিশি শেলি
+    br: Percy B. Shelley
+    ca: Percy Bysshe Shelley
+    ckb: پێرسی بیشێ شیللی
+    cs: Percy Bysshe Shelley
+    cy: Percy Bysshe Shelley
+    da: Percy Bysshe Shelley
+    de: Percy Bysshe Shelley
+    de-ch: Percy Bysshe Shelley
+    el: Πέρσι Σέλλεϋ
+    en: Percy Bysshe Shelley
+    en-ca: Percy Bysshe Shelley
+    en-gb: Percy Bysshe Shelley
+    eo: Percy Bysshe Shelley
+    es: Percy Bysshe Shelley
+    et: Percy Shelley
+    eu: Percy Bysshe Shelley
+    fa: پرسی بیش شلی
+    fi: Percy Bysshe Shelley
+    fo: Percy Bysshe Shelley
+    fr: Percy Bysshe Shelley
+    fy: Percy Bysshe Shelley
+    ga: Percy Bysshe Shelley
+    gan: 雪利
+    gan-hans: 雪利
+    gan-hant: 雪利
+    gl: Percy Bysshe Shelley
+    gu: પર્સી બૅશી શેલી
+    he: פרסי ביש שלי
+    hi: पर्सी बिश शेली
+    hr: Percy Bysshe Shelley
+    hu: Percy Bysshe Shelley
+    hy: Պերսի Բիշի Շելլի
+    ia: Percy Bysshe Shelley
+    id: Percy Bysshe Shelley
+    ig: Percy Bysshe Shelley
+    io: Percy Bysshe Shelley
+    it: Percy Bysshe Shelley
+    ja: パーシー・ビッシュ・シェリー
+    ka: პერსი ბიში შელი
+    kn: ಪರ್ಸಿ ಬೈಷೆ ಶೆಲ್ಲಿ
+    ko: 퍼시 비시 셸리
+    kw: Percy Bysshe Shelley
+    la: Percy Bysshe Shelley
+    lt: Percy Bysshe Shelley
+    lv: Persijs Bišs Šellijs
+    mg: Percy Bysshe Shelley
+    mk: Перси Биш Шели
+    ml: പെഴ്സി ബിഷ് ഷെല്ലി
+    mr: पर्सी शेली
+    ms: Percy Bysshe Shelley
+    mul: Percy Bysshe Shelley
+    my: ရှဲလီ၊ ပါဆီ
+    nb: Percy Bysshe Shelley
+    nl: Percy Bysshe Shelley
+    nn: Percy Bysshe Shelley
+    oc: Percy Bysshe Shelley
+    pa: ਪਰਸੀ ਬਿਸ਼ ਸ਼ੈਲੇ
+    pl: Percy Bysshe Shelley
+    pms: Percy Bysshe Shelley
+    pnb: شیلی
+    pt: Percy Bysshe Shelley
+    pt-br: Percy Bysshe Shelley
+    ro: Percy Bysshe Shelley
+    ru: Перси Биш Шелли
+    sa: पर्सी बिश शेली
+    sh: Percy Bysshe Shelley
+    sk: Percy Bysshe Shelley
+    sl: Percy Bysshe Shelley
+    sq: A. Percy Bysshe Shelley
+    sr: Перси Биш Шели
+    sr-ec: Перси Биш Шели
+    sv: Percy Bysshe Shelley
+    ta: பெர்சி பைச்சு செல்லி
+    tl: Percy Bysshe Shelley
+    tr: Percy Bysshe Shelley
+    uk: Персі Біші Шеллі
+    ur: shelly poetry
+    uz: Shelli Persi Bish
+    vi: Percy Bysshe Shelley
+    war: Percy Bysshe Shelley
+    wuu: 珀西·比希·雪莱
+    xmf: პერსი ბიში შელი
+    yue: 雪萊
+    zh: 珀西·比希·雪莱
+    zh-cn: 珀西·比希·雪莱
+    zh-hans: 珀西·比希·雪莱
+    zh-hant: 珀西·比希·雪萊
+    zh-hk: 珀西·比希·雪萊
+    zh-sg: 珀西·比希·雪莱
+    zh-tw: 珀西·比希·雪萊
 ---
-
 # [[Percy_Bysshe_Shelley]] 
 
 #has_/spouse :: [[../../Writer/English_Writer/Shelley,Mary|Shelley,Mary]] 

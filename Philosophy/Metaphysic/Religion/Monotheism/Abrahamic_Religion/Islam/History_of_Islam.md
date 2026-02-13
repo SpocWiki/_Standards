@@ -1,19 +1,173 @@
 ---
 aliases:
+- az iszlám története
+- Dejiny islamu
+- Dîroka Îslamê
+- Dějiny islámu
+- Geschichte des Islam
+- geschiedenis van de islam
+- histoire de l'islam
+- Historia del Islam
+- historia do islam
+- Historia e fesë islame
+- historia Islamu
+- Historija islama
+- historio de islamo
+- Historio di Islamo
+- history of Islam
+- història de la civilització islàmica
+- história do Islão
+- islam tarixi
+- islam tarixı
+- Islamaren historia
+- islamin historia
+- Islams historia
+- Islams historie
+- Islom tarixi
+- islāma vēsture
+- istor an islam
+- istoria islamului
+- Istoria temprana de la muslimes
+- Istòria del mond islamic
+- Lịch sử Hồi giáo
+- Povijest islama
+- saga íslams
+- sejarah Islam
+- Sijarah Islam
+- Stair an Ioslam
+- storia dei popoli islamici
+- Tarixê İslami
+- zgodovina islama
+- İslam tarihi
+- історія ісламу
+- гісторыя ісламу
+- Ислам тарихы
+- Ислам тарыхы
+- Историја ислама
+- историја на исламот
+- история ислама
+- таърихи ислом
+- իսլամի պատմություն
+- היסטוריה של האסלאם
+- اسلام جي تاريخ
+- اسلام دی تریخ
+- اسلامي تاريخ
+- التاريخ الإسلامي
+- تاريخ اسلامى
+- تاریخ اسلام
+- مێژووی ئیسلام
+- އިސްލާމީ ތާރީޚު
+- ߖߘߍ߬ߞߟߏ߬ߦߊ ߘߐ߬ߝߐ
+- इस्लाम का इतिहास
+- इस्लाममतम्
+- ইসলামের ইতিহাস
+- ਇਸਲਾਮ ਦਾ ਇਤਿਹਾਸ
+- இசுலாமிய வரலாறு
+- ประวัติศาสนาอิสลาม
+- အစ္စလာမ် သမိုင်း
+- ისლამიშ ისტორია
+- イスラム教の歴史
+- 伊斯兰教历史
+- 伊斯蘭敎史
+- 伊斯蘭教歷史
+- 이슬람의 역사
 has_id_wikidata: Q642379
 subclass_of:
-  - "[[_Standards/WikiData/WD~Islamic_studies,843909]]"
-  - "[[_Standards/WikiData/WD~history_of_religions,846742]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Islam,6326604]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~Islam,432]]"
+- '[[_Standards/WikiData/WD~Islamic_studies,843909]]'
+- '[[_Standards/WikiData/WD~history_of_religions,846742]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Islam,6326604]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Islam,432]]'
 Stack_Exchange_tag:
-  - https://history.stackexchange.com/tags/islam
-  - https://islam.stackexchange.com/tags/history
+- https://history.stackexchange.com/tags/islam
+- https://islam.stackexchange.com/tags/history
 Commons_category: History of Islam
+dv_has_:
+  name_:
+    ar: التاريخ الإسلامي
+    arz: تاريخ اسلامى
+    ast: Historia del Islam
+    az: islam tarixi
+    ba: Ислам тарихы
+    be-tarask: гісторыя ісламу
+    bn: ইসলামের ইতিহাস
+    br: istor an islam
+    bs: Historija islama
+    ca: història de la civilització islàmica
+    ckb: مێژووی ئیسلام
+    cs: Dějiny islámu
+    da: Islams historie
+    de: Geschichte des Islam
+    diq: Tarixê İslami
+    dv: އިސްލާމީ ތާރީޚު
+    en: history of Islam
+    eo: historio de islamo
+    es: historia del islam
+    eu: Islamaren historia
+    fa: تاریخ اسلام
+    fi: islamin historia
+    fr: histoire de l'islam
+    ga: Stair an Ioslam
+    gl: historia do islam
+    he: היסטוריה של האסלאם
+    hi: इस्लाम का इतिहास
+    hr: Povijest islama
+    hu: az iszlám története
+    hy: իսլամի պատմություն
+    id: sejarah Islam
+    io: Historio di Islamo
+    is: saga íslams
+    it: storia dei popoli islamici
+    ja: イスラム教の歴史
+    kk: Ислам тарихы
+    ko: 이슬람의 역사
+    ku: Dîroka Îslamê
+    ky: Ислам тарыхы
+    lfn: Istoria temprana de la muslimes
+    lv: islāma vēsture
+    min: Sijarah Islam
+    mk: историја на исламот
+    ms: Sejarah Islam
+    my: အစ္စလာမ် သမိုင်း
+    nb: Islams historie
+    nl: geschiedenis van de islam
+    nqo: ߖߘߍ߬ߞߟߏ߬ߦߊ ߘߐ߬ߝߐ
+    oc: Istòria del mond islamic
+    pa: ਇਸਲਾਮ ਦਾ ਇਤਿਹਾਸ
+    pl: historia Islamu
+    pnb: اسلام دی تریخ
+    ps: اسلامي تاريخ
+    pt: história do Islão
+    ro: istoria islamului
+    ru: история ислама
+    sa: इस्लाममतम्
+    sd: اسلام جي تاريخ
+    sh: historija islama
+    sk: Dejiny islamu
+    sl: zgodovina islama
+    sq: Historia e fesë islame
+    sr: Историја ислама
+    sv: Islams historia
+    ta: இசுலாமிய வரலாறு
+    tg: таърихи ислом
+    th: ประวัติศาสนาอิสลาม
+    tr: İslam tarihi
+    tt: ислам тарихы
+    tt-cyrl: ислам тарихы
+    tt-latn: islam tarixı
+    uk: історія ісламу
+    ur: تاریخ اسلام
+    uz: Islom tarixi
+    vi: Lịch sử Hồi giáo
+    wuu: 伊斯兰教历史
+    xmf: ისლამიშ ისტორია
+    yue: 伊斯蘭敎史
+    zh: 伊斯兰教历史
+    zh-hans: 伊斯兰教历史
+    zh-hant: 伊斯蘭教歷史
+    zh-hk: 伊斯蘭教歷史
 ---
-
 # [[History_of_Islam]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~History_of_Islam,642379|WD~History_of_Islam,642379]] 

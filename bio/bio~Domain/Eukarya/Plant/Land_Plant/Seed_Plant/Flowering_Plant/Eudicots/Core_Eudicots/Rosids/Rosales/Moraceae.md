@@ -1,29 +1,67 @@
 ---
 aliases:
-  - mulberry family
-  - fig family
-  - Moraceae
-  - Црници
-  - Mulberry or Fig Family
-  - Mooruselised
-  - Mulperikasvit
-  - Թթազգիներ
-  - Zīdkoku dzimta
-  - Moerbeifamilie
-  - Moerbezieachtigen
-  - Amoreiras e figueiras
-  - Тутовые
-  - murvovke
-  - วงศ์มะเดื่อ
-  - Dutgiller
-  - Тутові
-  - 桑科
+- Amoreiras e figueiras
+- dudovke
+- Dutgiller
+- eperfafélék
+- fig family
+- Họ Dâu tằm
+- marušnjowe rostliny
+- Maulbeergewächse
+- Moerbeifamilie
+- Moerbezieachtigen
+- Mooruselised
+- mooruspuulised
+- Moraceae
+- morbær-familien
+- morbærfamilien
+- morusacoj
+- morušovníkovité
+- Morwowate
+- moràcies
+- moráceas
+- mulberry family
+- Mulberry or Fig Family
+- mullbärsväxter
+- Mulperikasvit
+- murvovke
+- muurbeiplaanten
+- paparawa yura rikch'aq ayllu
+- Tutdoshlar
+- Tutkimilər
+- Zīdkoku dzimta
+- šilkmediniai
+- Дитткомара
+- Тут котыр
+- Тутавыя
+- Тутові
+- Тутовые
+- Тұт тұқымдасы
+- Црници
+- черничеви
+- Шовковицеві
+- Թթազգիներ
+- תותיים
+- توت کیمیلر
+- توتية
+- توتيه
+- موراسه
+- پھگواڑی
+- लकुचम्
+- মোরাসি
+- మోరేసి
+- മൊറേസി
+- วงศ์มะเดื่อ
+- თუთისებრნი
+- クワ科
+- 桑科
+- 뽕나무과
 has_id_wikidata: Q156579
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]'
 start_time: -80000000-01-01T00:00:00Z
 has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -34,29 +72,121 @@ ITIS_TSN: 19063
 Commons_category: Moraceae
 taxon_name: Moraceae
 taxon_common_name:
-  - Црници
-  - Mulberry or Fig Family
-  - Mooruselised
-  - Mulperikasvit
-  - Թթազգիներ
-  - Zīdkoku dzimta
-  - Moerbeifamilie
-  - Moerbezieachtigen
-  - Amoreiras e figueiras
-  - Тутовые
-  - murvovke
-  - วงศ์มะเดื่อ
-  - Dutgiller
-  - Тутові
-  - 桑科
-  - 桑科
+- Црници
+- Mulberry or Fig Family
+- Mooruselised
+- Mulperikasvit
+- Թթազգիներ
+- Zīdkoku dzimta
+- Moerbeifamilie
+- Moerbezieachtigen
+- Amoreiras e figueiras
+- Тутовые
+- murvovke
+- วงศ์มะเดื่อ
+- Dutgiller
+- Тутові
+- 桑科
+- 桑科
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Castilla%20elastica%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-174.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=735
 EPPO_Code: 1MORF
 MeSH_tree_code: B01.875.800.575.912.250.859.937.406
 NBN_System_Key: NBNSYS0000160459
+dv_has_:
+  name_:
+    af: Moraceae
+    an: Moraceae
+    ar: توتية
+    arz: توتيه
+    ast: Moraceae
+    az: Tutkimilər
+    azb: توت کیمیلر
+    bcl: Moraceae
+    be: Тутавыя
+    be-tarask: тутавыя
+    bg: черничеви
+    bn: মোরাসি
+    bs: Moraceae
+    ca: moràcies
+    ceb: Moraceae
+    cs: morušovníkovité
+    da: morbær-familien
+    de: Maulbeergewächse
+    en: Moraceae
+    eo: morusacoj
+    es: Moraceae
+    et: mooruspuulised
+    eu: Moraceae
+    ext: Moraceae
+    fa: موراسه
+    fi: mulperikasvit
+    fr: Moraceae
+    frr: muurbeiplaanten
+    ga: Moraceae
+    gl: moráceas
+    he: תותיים
+    hr: dudovke
+    hsb: marušnjowe rostliny
+    hu: eperfafélék
+    hy: թթազգիներ
+    ia: Moraceae
+    id: Moraceae
+    ie: Moraceae
+    inh: Дитткомара
+    io: Moraceae
+    it: Moraceae
+    ja: クワ科
+    jv: Moraceae
+    ka: თუთისებრნი
+    kk: Тұт тұқымдасы
+    ko: 뽕나무과
+    koi: Тут котыр
+    kv: Тут котыр
+    la: Moraceae
+    lt: šilkmediniai
+    lv: zīdkoku dzimta
+    mad: Moraceae
+    mk: Црници
+    ml: മൊറേസി
+    ms: Moraceae
+    mul: Moraceae
+    nb: morbærfamilien
+    nl: moerbeifamilie
+    nn: morbærfamilien
+    oc: Moraceae
+    pl: Morwowate
+    pnb: پھگواڑی
+    pt: Moraceae
+    pt-br: Moraceae
+    qu: paparawa yura rikch'aq ayllu
+    ro: Moraceae
+    ru: тутовые
+    sa: लकुचम्
+    sco: Moraceae
+    sl: murvovke
+    sq: Moraceae
+    sr: dudovke
+    sv: mullbärsväxter
+    te: మోరేసి
+    th: วงศ์มะเดื่อ
+    tl: Moraceae
+    tr: Moraceae
+    uk: Шовковицеві
+    uz: Tutdoshlar
+    vi: Họ Dâu tằm
+    vo: Moraceae
+    war: Moraceae
+    wuu: 桑科
+    yue: 桑科
+    zh: 桑科
+    zh-cn: 桑科
+    zh-hans: 桑科
+    zh-hant: 桑科
+    zh-hk: 桑科
+    zh-sg: 桑科
+    zh-tw: 桑科
 ---
-
 # [[Moraceae]] 
 
 #is_/same_as :: [[WD~Moraceae,156579]] 

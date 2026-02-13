@@ -1,8 +1,67 @@
 ---
 aliases:
-  - Hypochilidae
+- Dziłtah naʼashjéʼii
+- Hipoquílid
+- Hypochilidae
+- Lampshade spider
+- абажуровые пауки
+- عنکبوت چراغباف
+- هيبوشيليداى
+- エボシグモ科
+- 古筛器蛛科
+- 古篩噐蛛科
 title: Hypochilidae
 has_id_wikidata: Q10573
+dv_has_:
+  name_:
+    an: Hypochilidae
+    arz: هيبوشيليداى
+    ast: Hypochilidae
+    be: Hypochilidae
+    bg: Hypochilidae
+    ca: Hipoquílid
+    ceb: Hypochilidae
+    de: Hypochilidae
+    de-ch: Hypochilidae
+    en: Hypochilidae
+    en-ca: Lampshade spider
+    en-gb: Lampshade spider
+    eo: Hypochilidae
+    es: Hypochilidae
+    eu: Hypochilidae
+    ext: Hypochilidae
+    fa: عنکبوت چراغباف
+    fi: Hypochilidae
+    fr: hypochilidae
+    ga: Hypochilidae
+    gl: Hypochilidae
+    ia: Hypochilidae
+    ie: Hypochilidae
+    io: Hypochilidae
+    it: Hypochilidae
+    ja: エボシグモ科
+    la: Hypochilidae
+    mul: Hypochilidae
+    nb: Hypochilidae
+    nl: Hypochilidae
+    nv: Dziłtah naʼashjéʼii
+    oc: Hypochilidae
+    pl: Hypochilidae
+    pt: Hypochilidae
+    pt-br: Hypochilidae
+    ro: Hypochilidae
+    ru: абажуровые пауки
+    sq: Hypochilidae
+    sv: Hypochilidae
+    tr: Hypochilidae
+    uk: Hypochilidae
+    vi: Hypochilidae
+    vo: Hypochilidae
+    war: Hypochilidae
+    zh: 古筛器蛛科
+    zh-cn: 古筛器蛛科
+    zh-hans: 古筛器蛛科
+    zh-tw: 古篩噐蛛科
 ---
 # [[Hypochilidae]]  
 ![ ](Hypochilidae/hypochilus_pococki.jpg) 

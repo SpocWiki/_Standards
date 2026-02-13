@@ -1,28 +1,129 @@
 ---
 aliases:
-  - Brautwerbung
-  - Courtship
+- Balz
+- bercinta
+- Brautwerbung
+- cort
+- corteggiamento
+- cortejo
+- cortejo sexual
+- cortesamento
+- cortexo
+- cortexu
+- Courtship
+- curtare
+- dvorjenje
+- festeig
+- frieri
+- gorteatze
+- hofmakkerij
+- kunyenga
+- kur yapma
+- ligaw
+- mapendo ya kiuchumba
+- námluvy
+- pacaran
+- pag-ilusyonan
+- parade nuptiale
+- pariĝada memmontrado
+- shukaansi
+- si̱sak
+- suirí
+- svadbeni ples
+- udvaranje
+- udvarlás
+- залицяння
+- заляцанне
+- заляцаньне
+- ухажване
+- ухаживание
+- սիրահետում
+- חיזור אנושי
+- جوړه يي ملګرتيا
+- دوران عاشقی
+- مغازلة
+- प्रेमालाप
+- 求偶
+- 求愛
+- 구애
 has_id_wikidata: Q376596
 followed_by: '[[_Standards/WikiData/WD~engagement,157512]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~ritual,189819]]'
-  - '[[_Standards/WikiData/WD~social_behavior,921513]]'
-  - '[[_Standards/WikiData/WD~ceremony,2627975]]'
+- '[[_Standards/WikiData/WD~ritual,189819]]'
+- '[[_Standards/WikiData/WD~social_behavior,921513]]'
+- '[[_Standards/WikiData/WD~ceremony,2627975]]'
 follows:
-  - '[[_Standards/WikiData/WD~flirting,208704]]'
-  - '[[_Standards/WikiData/WD~dating,654810]]'
+- '[[_Standards/WikiData/WD~flirting,208704]]'
+- '[[_Standards/WikiData/WD~dating,654810]]'
 facet_of: '[[_Standards/WikiData/WD~role,214339]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-  - '[[_Standards/WikiData/WD~deadband,2445904]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+- '[[_Standards/WikiData/WD~deadband,2445904]]'
 Commons_category: Courtship
 Iconclass_notation: 33C21
 IMDb_keyword: courtship
 UMLS_CUI: C0010226
 MeSH_tree_code: F01.145.802.279
 IPTC_NewsCode: mediatopic/20000782
+dv_has_:
+  name_:
+    ar: مغازلة
+    ast: cortexu
+    bcl: pag-ilusyonan
+    be: заляцанне
+    be-tarask: заляцаньне
+    bg: ухажване
+    ca: festeig
+    cs: námluvy
+    de: Brautwerbung
+    de-ch: Balz
+    en: courtship
+    en-ca: courtship
+    en-gb: courtship
+    eo: pariĝada memmontrado
+    es: cortejo
+    eu: gorteatze
+    fa: دوران عاشقی
+    fr: parade nuptiale
+    fy: hofmakkerij
+    ga: suirí
+    gl: cortexo
+    he: חיזור אנושי
+    hi: प्रेमालाप
+    hr: udvaranje
+    hu: udvarlás
+    hy: սիրահետում
+    ia: cortesamento
+    id: pacaran
+    it: corteggiamento
+    ja: 求愛
+    jv: pacaran
+    kcg: si̱sak
+    ko: 구애
+    lmo: cort
+    ms: bercinta
+    nb: frieri
+    ps: جوړه يي ملګرتيا
+    pt: cortejo sexual
+    pt-br: cortejo sexual
+    ro: curtare
+    ru: ухаживание
+    sh: svadbeni ples
+    sl: dvorjenje
+    sn: kunyenga
+    so: shukaansi
+    sr: udvaranje
+    sv: frieri
+    sw: mapendo ya kiuchumba
+    tl: ligaw
+    tr: kur yapma
+    uk: залицяння
+    yue: 求偶
+    zh: 求偶
+    zh-hans: 求偶
+    zh-hant: 求偶
+    zh-hk: 求偶
 ---
-
 # [[Courtship]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Courtship,376596|WD~Courtship,376596]] 

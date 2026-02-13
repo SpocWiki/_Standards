@@ -1,21 +1,134 @@
 ---
 aliases:
-  - Armored_Warfare
-  - Armored Warfare
+- Armored Warfare
+- Armored_Warfare
+- armoured warfare
+- brezel hobregonet
+- Chiến tranh cơ giới
+- cogadh armailteach
+- gemechaniseerde oorlogvoering
+- Gerra korazatu
+- Guerra acoirazada
+- Guerra acorazada
+- guerra corazzata
+- guerra mecanitzada
+- guerra mecanizada
+- guerre blindée
+- Guèrra blindada
+- Lufta e blinduar
+- Mehanizirani rat
+- oklepno vojskovanje
+- oklopni rat
+- oклопни рат
+- Pansartrupper
+- Pansertropper
+- panssarisodankäynti
+- Panzertruppe
+- Peperangan berperisai
+- Sawıttı tank äskerleri
+- Soomusvägi
+- tank qoşunları
+- Tank qoʻshinlari
+- Tank savaşı
+- tankové vojsko
+- wojska pancerne
+- τεθωρακισμένα
+- оклопно војување
+- Сауытты танк әскерлері
+- танк аскерлери
+- танк ғәскәрҙәре
+- танкавае войска
+- танкавыя войскі
+- танкові війська
+- Танкови войски
+- танковые войска
+- танкты æфсæдтæ
+- տանկային զորքեր
+- לוחמת שריון
+- حرب مدرعة
+- ساۋىتتى تانك اسكەرلەرى
+- شەڕی زرێپۆش
+- نبرد موتوریزه
+- बख्तरबंद युद्ध
+- 坦克战
+- 坦克戰
+- 機甲戦
+- 裝甲戰
+- 기갑전
 has_id_wikidata: Q568312
 uses: '[[_Standards/WikiData/WD~armored_fighting_vehicle,130368]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~branch_of_service,690109]]'
-  - '[[_Standards/WikiData/WD~warfare,12786121]]'
+- '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+- '[[_Standards/WikiData/WD~warfare,12786121]]'
 U_S_National_Archives_Identifier: 10641288
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Type%2069%20Operation%20Desert%20Storm.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MGM-51%20Shillelagh2.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Type%2069%20Operation%20Desert%20Storm.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/MGM-51%20Shillelagh2.jpg
 P8189: 987007556785505171
 Commons_category: Armoured warfare
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOSKA_BRONETANKOVIE.html
+dv_has_:
+  name_:
+    ar: حرب مدرعة
+    ast: Guerra acorazada
+    az: tank qoşunları
+    ba: танк ғәскәрҙәре
+    be: танкавыя войскі
+    be-tarask: танкавае войска
+    bg: Танкови войски
+    br: brezel hobregonet
+    ca: guerra mecanitzada
+    ckb: شەڕی زرێپۆش
+    cs: tankové vojsko
+    da: Pansertropper
+    de: Panzertruppe
+    el: τεθωρακισμένα
+    en: armored warfare
+    en-gb: armoured warfare
+    es: guerra acorazada
+    et: Soomusvägi
+    eu: Gerra korazatu
+    fa: نبرد موتوریزه
+    fi: panssarisodankäynti
+    fr: guerre blindée
+    gd: cogadh armailteach
+    gl: Guerra acoirazada
+    he: לוחמת שריון
+    hi: बख्तरबंद युद्ध
+    hy: տանկային զորքեր
+    it: guerra corazzata
+    ja: 機甲戦
+    kk: Сауытты танк әскерлері
+    kk-arab: ساۋىتتى تانك اسكەرلەرى
+    kk-cyrl: Сауытты танк әскерлері
+    kk-latn: Sawıttı tank äskerleri
+    ko: 기갑전
+    ky: танк аскерлери
+    mk: оклопно војување
+    ms: Peperangan berperisai
+    nb: pansertropper
+    nl: gemechaniseerde oorlogvoering
+    oc: Guèrra blindada
+    os: танкты æфсæдтæ
+    pl: wojska pancerne
+    pt: guerra mecanizada
+    ru: танковые войска
+    sco: armoured warfare
+    sh: Mehanizirani rat
+    sl: oklepno vojskovanje
+    sq: Lufta e blinduar
+    sr: oклопни рат
+    sr-ec: oклопни рат
+    sr-el: oklopni rat
+    sv: Pansartrupper
+    tr: Tank savaşı
+    uk: танкові війська
+    uz: Tank qoʻshinlari
+    vi: Chiến tranh cơ giới
+    zh: 裝甲戰
+    zh-hans: 坦克战
+    zh-hant: 坦克戰
 ---
-
 # [[Armored_Warfare]] 
 
 #is_/same_as :: [[../../WikiData/WD~Armored_warfare,568312|WD~Armored_warfare,568312]] 

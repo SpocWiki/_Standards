@@ -1,62 +1,100 @@
 ---
 aliases:
-  - Marshall Bruce Mathers III
-  - Marshall Mathers
-  - Eminem
+- Eminem
+- Marshall Bruce Mathers III
+- Marshall Mathers
+- Емiнем
+- Емінем
+- Еминем
+- Эмінэм
+- Эминем
+- Эминэм
+- Էմինեմ
+- Էմինէմ
+- אמינם
+- עמינעם
+- إمينيم
+- إيمينيم
+- ئێمینێم
+- امينئم
+- امینم
+- ایمنیم
+- ایٚمینم
+- اېمينېم
+- इमिनेम
+- एमिनेम
+- ऐमिनैम
+- এমিনেম
+- ਐਮੀਨੈਮ
+- எமினெம்
+- ఎమినెమ్
+- ಎಮಿನೆಮ್
+- എമിനെം
+- එමිනෙම්
+- เอ็มมิเน็ม
+- အမ်မီနမ်
+- ემინემი
+- ኤምኔም
+- អេមីនីម
+- エミネム
+- 伊米能
+- 埃米纳姆
+- 阿姆
+- 에미넴
 has_id_wikidata: Q5608
 ethnic_group:
-  - '[[_Standards/WikiData/WD~Cherokee,105405]]'
-  - '[[_Standards/WikiData/WD~German_Americans,141817]]'
-  - '[[_Standards/WikiData/WD~Swiss_Americans,637979]]'
-  - '[[_Standards/WikiData/WD~Polish_Americans,1189552]]'
-  - '[[_Standards/WikiData/WD~English_Americans,1344183]]'
-  - '[[_Standards/WikiData/WD~Welsh_Americans,3094841]]'
-  - '[[_Standards/WikiData/WD~Scottish_Americans,3476361]]'
-  - '[[_Standards/WikiData/WD~Luxembourgish_Americans,4272184]]'
+- '[[_Standards/WikiData/WD~Cherokee,105405]]'
+- '[[_Standards/WikiData/WD~German_Americans,141817]]'
+- '[[_Standards/WikiData/WD~Swiss_Americans,637979]]'
+- '[[_Standards/WikiData/WD~Polish_Americans,1189552]]'
+- '[[_Standards/WikiData/WD~English_Americans,1344183]]'
+- '[[_Standards/WikiData/WD~Welsh_Americans,3094841]]'
+- '[[_Standards/WikiData/WD~Scottish_Americans,3476361]]'
+- '[[_Standards/WikiData/WD~Luxembourgish_Americans,4272184]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rap_Album,1367988]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Melodic_Rap_Performance,1542172]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rap_Album,1367988]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Melodic_Rap_Performance,1542172]]'
 member_of:
-  - '[[_Standards/WikiData/WD~D12,154543]]'
-  - '[[_Standards/WikiData/WD~Bad_Meets_Evil,741532]]'
+- '[[_Standards/WikiData/WD~D12,154543]]'
+- '[[_Standards/WikiData/WD~Bad_Meets_Evil,741532]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Polydor,155152]]'
-  - '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
-  - '[[_Standards/WikiData/WD~Aftermath_Entertainment,389284]]'
-  - '[[_Standards/WikiData/WD~Shady_Records,568246]]'
-  - '[[_Standards/WikiData/WD~WEB_Entertainment,2708269]]'
+- '[[_Standards/WikiData/WD~Polydor,155152]]'
+- '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
+- '[[_Standards/WikiData/WD~Aftermath_Entertainment,389284]]'
+- '[[_Standards/WikiData/WD~Shady_Records,568246]]'
+- '[[_Standards/WikiData/WD~WEB_Entertainment,2708269]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~rapper,2252262]]'
-  - '[[_Standards/WikiData/WD~music_executive,3089940]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~rapper,2252262]]'
+- '[[_Standards/WikiData/WD~music_executive,3089940]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 partner_in_business_or_sport: "[[_Standards/WikiData/WD~Royce_da_5'9_,314909]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Bruce,579371]]'
-  - '[[_Standards/WikiData/WD~Marshall,19819759]]'
+- '[[_Standards/WikiData/WD~Bruce,579371]]'
+- '[[_Standards/WikiData/WD~Marshall,19819759]]'
 genre:
-  - '[[_Standards/WikiData/WD~comedy_hip_hop,602646]]'
-  - '[[_Standards/WikiData/WD~rap_rock,877693]]'
-  - '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
-  - '[[_Standards/WikiData/WD~horrorcore,1139136]]'
-  - '[[_Standards/WikiData/WD~Midwest_hip_hop,2517263]]'
-  - '[[_Standards/WikiData/WD~dirty_rap,3709211]]'
-  - '[[_Standards/WikiData/WD~hip_hop,11401]]'
+- '[[_Standards/WikiData/WD~comedy_hip_hop,602646]]'
+- '[[_Standards/WikiData/WD~rap_rock,877693]]'
+- '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
+- '[[_Standards/WikiData/WD~horrorcore,1139136]]'
+- '[[_Standards/WikiData/WD~Midwest_hip_hop,2517263]]'
+- '[[_Standards/WikiData/WD~dirty_rap,3709211]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401]]'
 place_of_birth: '[[_Standards/WikiData/WD~St._Joseph,745120]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 discography:
-  - '[[_Standards/WikiData/WD~Eminem_production_discography,1337716]]'
-  - '[[_Standards/WikiData/WD~Eminem_discography,1337755]]'
-  - '[[_Standards/WikiData/WD~Eminem_singles_discography,55610820]]'
+- '[[_Standards/WikiData/WD~Eminem_production_discography,1337716]]'
+- '[[_Standards/WikiData/WD~Eminem_discography,1337755]]'
+- '[[_Standards/WikiData/WD~Eminem_singles_discography,55610820]]'
 residence: '[[_Standards/WikiData/WD~Clinton_Township,2550281]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Lincoln_High_School,4993370]]'
-  - '[[_Standards/WikiData/WD~Oak_Park_High_School,7073670]]'
+- '[[_Standards/WikiData/WD~Lincoln_High_School,4993370]]'
+- '[[_Standards/WikiData/WD~Oak_Park_High_School,7073670]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Eminem,6449647]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 uses: '[[_Standards/WikiData/WD~Slim_Shady,10372380]]'
@@ -69,11 +107,11 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 child: '[[_Standards/WikiData/WD~Hailie_Jade_Mathers,95983217]]'
 relative:
-  - '[[_Standards/WikiData/WD~Todd_K._Nelson,107023583]]'
-  - '[[_Standards/WikiData/WD~Ronnie_Polkingharn,114880010]]'
+- '[[_Standards/WikiData/WD~Todd_K._Nelson,107023583]]'
+- '[[_Standards/WikiData/WD~Ronnie_Polkingharn,114880010]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
@@ -82,20 +120,20 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
 height: 173
 hashtag_:
-  - Eminem
-  - eminem
-  - E-minemMusic
+- Eminem
+- eminem
+- E-minemMusic
 X_Twitter_username: Eminem
 Commons_Creator_page: Eminem
 pseudonym: Eminem
 Commons_category: Eminem
 subreddit: Eminem
 social_media_followers:
-  - 292911
-  - 22716982
+- 292911
+- 22716982
 booru_tag:
-  - eminem
-  - eminem_(cosplay)
+- eminem
+- eminem_(cosplay)
 YouTube_handle: eminem
 Baidu_Tieba_name: eminem
 Tumblr_username: eminem
@@ -104,12 +142,12 @@ Instagram_username: eminem
 TikTok_username: eminem
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eminem%202021%20Color%20Corrected.jpg
 nickname:
-  - Em
-  - Slim Shady
-  - M&M
-  - Double M
-  - EMINEM
-  - Rap God
+- Em
+- Slim Shady
+- M&M
+- Double M
+- EMINEM
+- Rap God
 generational_suffix: L615860-F1
 date_of_birth: 1972-10-17T00:00:00Z
 name_in_native_language: Marshall Bruce Mathers III
@@ -120,20 +158,190 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Eminem%27s%20signa
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Eminem%20%28spoken%20by%20AI%20voice%29.mp3
 official_website: https://eminem.com
 ISNI:
-  - 0000000117699370
-  - 0000000368611900
-  - 0000000368611919
+- 0000000117699370
+- 0000000368611900
+- 0000000368611919
 ORCID_iD: 0009-0003-5793-2300
 IPI_name_number:
-  - 00354929235
-  - 00354929431
+- 00354929235
+- 00354929431
 Libris_URI: 1zcfgf8k0j5cmff
 Plex_person_key: 5d776826e6d55c002040af8f
 Europeana_entity: agent/base/83374
 Archive_of_Our_Own_tag: Eminem (Musician)
 Wolfram_Language_entity_code: Entity["MusicAct", "Eminem::3wkhm"]
+dv_has_:
+  name_:
+    ace: Eminem
+    af: Eminem
+    am: ኤምኔም
+    an: Eminem
+    ang: Eminem
+    ar: إمينيم
+    arz: إيمينيم
+    as: এমিনেম
+    ast: Eminem
+    az: Eminem
+    azb: امینم
+    ba: Эминем
+    ban: Eminem
+    bar: Eminem
+    bcl: Eminem
+    be: Eminem
+    be-tarask: Эмінэм
+    bg: Еминем
+    bi: Eminem
+    bjn: Eminem
+    bn: এমিনেম
+    br: Eminem
+    bs: Eminem
+    bxr: Эминем
+    ca: Eminem
+    cbk-zam: Eminem
+    ce: Эминем
+    ceb: Eminem
+    ckb: ئێمینێم
+    co: Eminem
+    crh: Eminem
+    cv: Эминем
+    cy: Eminem
+    de: Eminem
+    din: Eminem
+    diq: Eminem
+    dty: इमिनेम
+    el: Eminem
+    eml: Eminem
+    en-ca: Eminem
+    en-gb: Eminem
+    eo: Eminem
+    es: Eminem
+    et: Eminem
+    eu: Eminem
+    ext: Eminem
+    fa: امینم
+    fi: Eminem
+    fo: Eminem
+    fr: Eminem
+    frp: Eminem
+    fy: Eminem
+    ga: Eminem
+    gd: Eminem
+    gl: Eminem
+    glk: امينئم
+    gsw: Eminem
+    ha: Eminem
+    he: אמינם
+    hi: ऐमिनैम
+    hr: Eminem
+    hu: Eminem
+    hy: Էմինեմ
+    hyw: Էմինէմ
+    ia: Eminem
+    id: Eminem
+    ie: Eminem
+    ig: Eminem
+    io: Eminem
+    is: Eminem
+    it: Eminem
+    ja: エミネム
+    jbo: Eminem
+    jv: Eminem
+    ka: ემინემი
+    kaa: Eminem
+    kab: Eminem
+    kk: Эминем
+    km: អេមីនីម
+    kn: ಎಮಿನೆಮ್
+    ko: 에미넴
+    ks: ایٚمینم
+    ky: Эминем
+    la: Eminem
+    lad: Eminem
+    lb: Eminem
+    lbe: Эминем
+    lfn: Eminem
+    lmo: Eminem
+    lt: Eminem
+    lv: Eminem
+    mai: इमिनेम
+    mg: Eminem
+    mi: Eminem
+    mk: Еминем
+    ml: എമിനെം
+    mn: Эминэм
+    mr: एमिनेम
+    ms: Eminem
+    mt: Eminem
+    mul: Eminem
+    my: အမ်မီနမ်
+    mzn: امینم
+    nah: Eminem
+    nap: Eminem
+    nb: Eminem
+    nds: Eminem
+    ne: इमिनेम
+    nl: Eminem
+    nn: Eminem
+    ny: Eminem
+    oc: Eminem
+    olo: Eminem
+    pa: ਐਮੀਨੈਮ
+    pam: Eminem
+    pap: Eminem
+    pdc: Eminem
+    ps: اېمينېم
+    pt: Eminem
+    pt-br: Eminem
+    ro: Eminem
+    ru: Эминем
+    rue: Емiнем
+    sah: Эминем
+    sc: Eminem
+    scn: Eminem
+    sco: Eminem
+    sgs: Eminem
+    sh: Eminem
+    si: එමිනෙම්
+    sl: Eminem
+    sm: Eminem
+    so: Eminem
+    sq: Eminem
+    sr: Eminem
+    stq: Eminem
+    sv: Eminem
+    sw: Eminem
+    szl: Eminem
+    ta: எமினெம்
+    te: ఎమినెమ్
+    tg: Эминем
+    th: เอ็มมิเน็ม
+    tk: Eminem
+    tl: Eminem
+    tly: Eminem
+    tr: Eminem
+    tt: Эминем
+    udm: Eminem
+    uk: Емінем
+    ur: ایمنیم
+    uz: Eminem
+    vec: Eminem
+    vi: Eminem
+    vo: Eminem
+    wa: Eminem
+    war: Eminem
+    wuu: 埃米纳姆
+    xal: Эминем
+    xh: Eminem
+    xmf: ემინემი
+    yi: עמינעם
+    yo: Eminem
+    yue: 阿姆
+    zh: 阿姆
+    zh-hant: 阿姆
+    zh-my: 伊米能
+    zh-sg: 阿姆
+    zu: Eminem
 ---
-
 # [[Eminem]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Eminem,5608|WD~Eminem,5608]] 

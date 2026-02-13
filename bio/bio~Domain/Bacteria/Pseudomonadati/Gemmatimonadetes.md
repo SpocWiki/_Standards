@@ -1,8 +1,49 @@
 ---
 aliases:
-  - Gemmatimonadetes
+- Gemmatimonadetes
+- Gemmatimonadota
+- ゲンマティモナス門
 title: Gemmatimonas aurantiaca
 has_id_wikidata: Q49408504
+dv_has_:
+  name_:
+    an: Gemmatimonadota
+    ast: Gemmatimonadota
+    bg: Gemmatimonadota
+    ca: Gemmatimonadota
+    ceb: Gemmatimonadota
+    cs: Gemmatimonadota
+    de: Gemmatimonadota
+    en: Gemmatimonadota
+    en-ca: Gemmatimonadota
+    en-gb: Gemmatimonadota
+    eo: Gemmatimonadota
+    es: Gemmatimonadota
+    eu: Gemmatimonadota
+    ext: Gemmatimonadota
+    fi: Gemmatimonadota
+    fr: Gemmatimonadota
+    ga: Gemmatimonadota
+    gl: Gemmatimonadota
+    ia: Gemmatimonadota
+    ie: Gemmatimonadota
+    io: Gemmatimonadota
+    it: Gemmatimonadota
+    ja: ゲンマティモナス門
+    la: Gemmatimonadota
+    mul: Gemmatimonadota
+    nl: Gemmatimonadota
+    oc: Gemmatimonadota
+    pl: Gemmatimonadota
+    pt: Gemmatimonadota
+    pt-br: Gemmatimonadota
+    ro: Gemmatimonadota
+    ru: Gemmatimonadota
+    sq: Gemmatimonadota
+    uk: Gemmatimonadota
+    vi: Gemmatimonadota
+    vo: Gemmatimonadota
+    war: Gemmatimonadota
 ---
 ## [[Gemmatimonadetes]] 
 

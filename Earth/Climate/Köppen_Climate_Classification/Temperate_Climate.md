@@ -1,31 +1,218 @@
 ---
 aliases:
+- Anezwu amnummes
+- Clima temperado
+- clima temperat
+- clima temperato
+- clima templado
+- Clima templáu
+- clima tenperà
+- climat tempéré
+- gematigd klimaat
+- Gemässigte Zone
+- gemäßigte Zone
+- Hinsawdd dymherus
+- iklim sedang
+- Iklim sederhana
+- Ilıman kuşak iklimleri
+- kalalainganna a klima
+- Klima epel
+- Klimat umiarkowany
+- Ku kufumela
+- lauhkea ilmasto
+- miatag kliima
+- Midwearme geardas
+- Mierne pásmo
+- Mitan froed payis
+- modera klimato
+- moʻʼtadil iqlim
+- mérsékelt öv
+- mírný podnebný pás
+- mērenā josla
+- Orta iklim quşağı
+- parasvööde
+- podnebje zmernega pasu
+- Qoñırjaý beldew
+- temperate climate
+- Temperateness
+- tempererat klimat
+- tempererejuvvon dálkkádatguovlu
+- Tempereret klima
+- temperert klima
+- Temperéiert Klima
+- Temprað belti
+- Toetany antonony
+- Umjerena klima
+- Umjereni pojas
+- Un-tài
+- vidutinių platumų klimatas
+- Vûn-tai
+- Zona temperata
+- Zona temperată
+- Zòn tanpere
+- Ôn đới
+- Εύκρατη ζώνη
+- Бараме климат
+- Мелүүн климат
+- помірний кліматичний пояс
+- умераны клімат
+- Умерен пояс
+- Умерена клима
+- умеренный климат
+- Юккъера Ӏалама лоаттам
+- Қоңыржай белдеу
+- Չափավոր կլիմա
+- אקלים ממוזג
+- قوڭىرجاي بەلدەۋ
+- معتدل آب و ہوا
+- مناخ معتدل
+- مناطق معتدل
+- ٽيمپريٽ
+- शीतोष्ण कटिबंध
+- शीतोष्ण कटिबन्ध
+- समशीतोष्ण जलवायु
+- নাতিশীতোষ্ণ জলবায়ু
+- மிதவெப்பமண்டலம்
+- ภูมิอากาศแบบอบอุ่น
+- သမပိုင်းဇုန်
+- ზომიერი სარტყლები
+- ზჷმიერი კლიმატი
+- Ọnọdụ ihu igwe dị jụụ
+- 温带
+- 温帯
+- 溫帶
+- 溫帶氣候
+- 온대 기후
 has_id_wikidata: Q167466
-subclass_of: "[[_Standards/WikiData/WD~climate_zone,1639168]]"
+subclass_of: '[[_Standards/WikiData/WD~climate_zone,1639168]]'
 Iconclass_notation: 25H1
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Paraskliima.svg
 Commons_category: Temperate climate
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]"
-    - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]"
-    - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]"
-    - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]"
-    - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]"
-    - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]"
-    - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]"
-    - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]"
+  - '[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]'
+  - '[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]'
+  - '[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]'
+  - '[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]'
+  - '[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]'
+  - '[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]'
+  - '[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]'
+  - '[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]"
-  - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]"
-  - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]"
-  - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]"
-  - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]"
-  - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]"
-  - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]"
-  - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]"
+- '[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]'
+- '[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]'
+- '[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]'
+- '[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]'
+- '[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]'
+- '[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]'
+- '[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]'
+- '[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]'
+dv_has_:
+  name_:
+    ang: Midwearme geardas
+    ar: مناخ معتدل
+    ast: Clima templáu
+    be: умераны клімат
+    be-tarask: умераны клімат
+    bg: Умерен пояс
+    bn: নাতিশীতোষ্ণ জলবায়ু
+    bs: Umjereni pojas
+    ca: clima temperat
+    ce: Бараме климат
+    crh: Orta iklim quşağı
+    cs: mírný podnebný pás
+    cy: Hinsawdd dymherus
+    da: Tempereret klima
+    de: gemäßigte Zone
+    de-ch: Gemässigte Zone
+    el: Εύκρατη ζώνη
+    en: temperate climate
+    en-ca: Temperateness
+    en-gb: temperate climate
+    eo: modera klimato
+    es: clima templado
+    et: parasvööde
+    eu: Klima epel
+    fa: مناطق معتدل
+    fi: lauhkea ilmasto
+    fr: climat tempéré
+    frr: miatag kliima
+    gl: Clima temperado
+    hak: Vûn-tai
+    he: אקלים ממוזג
+    hi: शीतोष्ण कटिबन्ध
+    hr: Umjereni pojas
+    ht: Zòn tanpere
+    hu: mérsékelt öv
+    hy: Չափավոր կլիմա
+    id: iklim sedang
+    ig: Ọnọdụ ihu igwe dị jụụ
+    ilo: kalalainganna a klima
+    inh: Юккъера Ӏалама лоаттам
+    is: Temprað belti
+    it: clima temperato
+    ja: 温帯
+    ka: ზომიერი სარტყლები
+    kab: Anezwu amnummes
+    kk: Қоңыржай белдеу
+    kk-arab: قوڭىرجاي بەلدەۋ
+    kk-cn: قوڭىرجاي بەلدەۋ
+    kk-cyrl: Қоңыржай белдеу
+    kk-kz: Қоңыржай белдеу
+    kk-latn: Qoñırjaý beldew
+    kk-tr: Qoñırjaý beldew
+    ko: 온대 기후
+    ky: Мелүүн климат
+    la: Zona temperata
+    lb: Temperéiert Klima
+    lt: vidutinių platumų klimatas
+    lv: mērenā josla
+    lzh: 溫帶
+    mg: Toetany antonony
+    mk: Умерена клима
+    mr: शीतोष्ण कटिबंध
+    ms: Iklim sederhana
+    my: သမပိုင်းဇုန်
+    nan: Un-tài
+    nb: temperert klima
+    ne: समशीतोष्ण जलवायु
+    nl: gematigd klimaat
+    nn: temperert klima
+    oc: Clima temperat
+    pl: Klimat umiarkowany
+    pt: clima temperado
+    pt-br: Clima temperado
+    ro: Zona temperată
+    ru: умеренный климат
+    sco: temperate climate
+    sd: ٽيمپريٽ
+    se: tempererejuvvon dálkkádatguovlu
+    sh: Umjerena klima
+    sk: Mierne pásmo
+    sl: podnebje zmernega pasu
+    sr: Умерена клима
+    sv: tempererat klimat
+    ta: மிதவெப்பமண்டலம்
+    th: ภูมิอากาศแบบอบอุ่น
+    tr: Ilıman kuşak iklimleri
+    ts: Ku kufumela
+    uk: помірний кліматичний пояс
+    ur: معتدل آب و ہوا
+    uz: moʻʼtadil iqlim
+    vec: clima tenperà
+    vi: Ôn đới
+    wa: Mitan froed payis
+    wuu: 温带
+    xmf: ზჷმიერი კლიმატი
+    yue: 溫帶氣候
+    zh: 温带
+    zh-cn: 温带
+    zh-hans: 温带
+    zh-hant: 溫帶
+    zh-hk: 溫帶
+    zh-sg: 温带
+    zh-tw: 溫帶
 ---
-
 # [[Temperate_Climate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]  

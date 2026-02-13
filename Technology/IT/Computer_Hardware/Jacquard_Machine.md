@@ -1,15 +1,24 @@
 ---
 aliases:
-  - Jacquard Machine
-  - Jacquard loom
-  - Jacquard_Machine
+- Jacquard loom
+- Jacquard Machine
+- Jacquard mechanism
+- Jacquardmechanisme
+- jacquardmekanisme
+- Jacquard_Machine
+- žakarski mehanizem
 has_id_wikidata: Q2488528
 has_use: '[[_Standards/WikiData/WD~Jacquard_weaving,589613]]'
 industry: '[[_Standards/WikiData/WD~textile_industry,607081]]'
 part_of: '[[_Standards/WikiData/WD~Jacquard_loom,1369967]]'
 subclass_of: '[[_Standards/WikiData/WD~textile_arts_tool,19394283]]'
+dv_has_:
+  name_:
+    da: jacquardmekanisme
+    en: Jacquard mechanism
+    nl: Jacquardmechanisme
+    sl: žakarski mehanizem
 ---
-
 # [[Jacquard_Machine]] 
 
 #has_/creator :: [[Jacquard,Joseph_Marie]] 

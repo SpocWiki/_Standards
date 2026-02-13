@@ -1,36 +1,211 @@
 ---
-has_time_started: 1140-01-01 
-has_time_stopped: 1530-01-01 
+has_time_started: 1140-01-01
+has_time_stopped: 1530-01-01
 aliases:
-  - Gothic art
-  - Gothic_Art
-  - Gothic Art
+- Ars Gothica
+- art Gothek
+- art gothique
+- Art gotike
+- art gòtic
+- arta gotică
+- Arte gotico
+- Arte gotikoa
+- arte gótica
+- arte gótico
+- Arte góticu
+- arti gothik ne franc
+- Arti góticu
+- arz gotek
+- celf Gothig
+- ealaín Ghotach
+- Estilo gótico
+- Gatik aat
+- Gooti stiil
+- Gootik
+- Gothic airt
+- Gothic art
+- Gothic_Art
+- gotico
+- gotiek
+- Gotiese kuns
+- gotiikan taide
+- Gotik
+- Gotik sanat
+- gotika
+- gotika arto
+- Gotiku
+- gotisk kunst
+- gotyk
+- Gotíkí
+- Gòtich
+- gótika
+- Jotik
+- Lar gotik
+- nghệ thuật Gothic
+- qotik
+- seni Goth
+- Γοτθική τέχνη
+- готикæ
+- готика
+- Готска уметност
+- готыка
+- Գոթիկա
+- אמנות גותית
+- فن قوطى
+- فن قوطي
+- فن ڭوطي
+- هنر گوتیک
+- ګوتيک هنر
+- گوتھک آرٹ
+- ھونەری گۆتیکی
+- गथिक कला
+- गोथिक कला
+- গথিক শিল্প
+- ਗੋਥਿਕ ਕਲਾ
+- கோதிக் கலை
+- ಗಾತಿಕ್ ಕಲೆ
+- ศิลปะกอทิก
+- გოთიკა
+- ゴシック
+- 哥德式
+- 哥德式藝術
+- 哥特式
+- 哥特式艺术
+- 고딕 미술
 has_id_wikidata: Q46825
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Gothic_architecture,176483]]'
-  - '[[_Standards/WikiData/WD~International_Gothic,867769]]'
-  - '[[_Standards/WikiData/WD~Gothic_painting,947129]]'
-  - '[[_Standards/WikiData/WD~Gothic_sculpture,1277524]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture,176483]]'
+- '[[_Standards/WikiData/WD~International_Gothic,867769]]'
+- '[[_Standards/WikiData/WD~Gothic_painting,947129]]'
+- '[[_Standards/WikiData/WD~Gothic_sculpture,1277524]]'
 has_effect: '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
 different_from: '[[_Standards/WikiData/WD~gothic_rock,485395]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
 instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
 subclass_of: '[[_Standards/WikiData/WD~medieval_art,3624153]]'
 country:
-  - '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 Commons_gallery: Gothic art
 Commons_category: Gothic art
 start_time: 1140-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reims%20Kathedrale.jpg
 end_time: 1530-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Gotiese kuns
+    an: Arte gotico
+    ar: فن قوطي
+    ary: فن ڭوطي
+    arz: فن قوطى
+    ast: Arte góticu
+    az: qotik
+    bar: Gotik
+    be: готыка
+    be-tarask: готыка
+    bg: Готика
+    bho: गोथिक कला
+    bn: গথিক শিল্প
+    br: arz gotek
+    bs: gotika
+    ca: art gòtic
+    ckb: ھونەری گۆتیکی
+    cs: gotika
+    cy: celf Gothig
+    da: Gotik
+    de: Gotik
+    el: Γοτθική τέχνη
+    en: Gothic art
+    en-ca: Gothic art
+    en-gb: Gothic art
+    eo: gotika arto
+    es: arte gótico
+    et: Gooti stiil
+    eu: Arte gotikoa
+    ext: Arti góticu
+    fa: هنر گوتیک
+    fi: gotiikan taide
+    fr: art gothique
+    frr: Gootik
+    ga: ealaín Ghotach
+    gan: 哥特式
+    gcr: Lar gotik
+    gl: arte gótica
+    gsw: Gotik
+    he: אמנות גותית
+    hi: गोथिक कला
+    hr: gotika
+    hsb: Gotika
+    hu: gótika
+    hy: Գոթիկա
+    id: Gotik
+    it: gotico
+    ja: ゴシック
+    jam: Gatik aat
+    ka: გოთიკა
+    kk: Готика
+    kn: ಗಾತಿಕ್ ಕಲೆ
+    ko: 고딕 미술
+    ksh: Jotik
+    kw: art Gothek
+    ky: Готика
+    la: Ars Gothica
+    ln: Gotíkí
+    lt: gotika
+    lv: gotika
+    mk: Готска уметност
+    ms: seni Goth
+    mt: Gotiku
+    nb: gotisk kunst
+    nds: Gotik
+    nds-nl: gotiek
+    new: गथिक कला
+    nl: gotiek
+    nn: Gotisk kunst
+    os: готикæ
+    pa: ਗੋਥਿਕ ਕਲਾ
+    pcd: Art gotike
+    pl: gotyk
+    pms: Gòtich
+    pnb: گوتھک آرٹ
+    ps: ګوتيک هنر
+    pt: Estilo gótico
+    pt-br: Estilo gótico
+    ro: arta gotică
+    ru: готика
+    sco: Gothic airt
+    sh: gotika
+    sk: gotika
+    sl: gotika
+    sq: arti gothik ne franc
+    sr: Готика
+    stq: Gotik
+    sv: gotik
+    ta: கோதிக் கலை
+    tg: Готика
+    th: ศิลปะกอทิก
+    tr: Gotik sanat
+    tt-cyrl: готика
+    uk: готика
+    uz: Gotika
+    vi: nghệ thuật Gothic
+    wuu: 哥特式艺术
+    yue: 哥德式
+    zh: 哥特式艺术
+    zh-cn: 哥特式艺术
+    zh-hans: 哥特式艺术
+    zh-hant: 哥特式艺术
+    zh-hk: 哥特式艺术
+    zh-mo: 哥特式艺术
+    zh-my: 哥特式艺术
+    zh-sg: 哥特式艺术
+    zh-tw: 哥德式藝術
 ---
-
 # [[Gothic_Art]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gothic_art,46825|WD~Gothic_art,46825]] 

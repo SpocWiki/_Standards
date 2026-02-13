@@ -1,39 +1,256 @@
 ---
-aliases: 
+aliases:
+- aalmuglâšservi
+- Almenn félagasamtök
+- aozadur e-maez-gouarnamant
+- civil szervezet
+- civilsamhällelig organisation
+- eagraíocht neamhrialtasach
+- gobernuz kanpoko erakunde
+- Hui-chèng-hú cho͘-chit
+- ikke-statlig organisasjon
+- ikkje-statleg organisasjon
+- kansalaisjärjestö
+- kowethyans anwovernansek
+- lembaga swadaya masyarakat
+- Mana kamachiy tantanakuy
+- mimovládna organizácia
+- Ne-guvernerial organizuro
+- ne-registara organizaĵo
+- nestátní nezisková organizace
+- Netregierungsorganisatioun
+- nevalstiska organizācija
+- nevladina organizacija
+- nevladna organizacija
+- nevyriausybinė organizacija
+- NGO
+- Nichtregierungsorganisation
+- nie-regeringsorganisasie
+- niet-gouvernementele organisatie
+- Nodavlat notijorat tashkilot
+- non-governmental organisation
+- Non-governmental organization
+- non-govrenmental organisation
+- Organisasyong di-pampamahalaan
+- organisation non gouvernementale
+- organització no governamental
+- organizacion non governamentala
+- organización no gubernamental
+- organización non gobernamental
+- organización non gubernamental
+- organizacja pozarządowa
+- Organizasion no goernativa
+- Organizatio re publica vacans
+- organizatë joqeveritare
+- organizazione non guvernativa
+- organização não governamental
+- organizație nonguvernamentală
+- organizzazione non governativa
+- organizzazzjoni mhux governattiva
+- pertubuhan bukan kerajaan
+- qeyri-hökumət təşkilatı
+- rêxistina nehikumî
+- sefydliad anllywodraethol
+- Shirika Lisilo la Kiserikali
+- siviilaorganisašuvdna
+- sivil toplum kuruluşu
+- Soce nén loyeye a on govienmint
+- tổ chức phi chính phủ
+- valitsusväline organisatsioon
+- Ñembohysýi ndaha'éiva porokuáirehegua
+- Òganizasyon non-gouvènmantal
+- Ʒie n gama zuɣu laɣingu
+- μη κυβερνητική οργάνωση
+- Ангилал:Төрийн бус байгууллагууд
+- грамадзкая арганізацыя
+- грамадская арганізацыя
+- иҗтимагый оешма
+- йәмәғәт ойошмаһы
+- невладина организација
+- недержавна організація
+- неправителствена организация
+- общественная организация
+- Пĕрлĕх организацийĕ
+- созмони мардумниҳод
+- Үкіметтік емес ұйымдар
+- հասարակական կազմակերպություն
+- ոչ-հասութաբեր կազմակերպութիւն
+- ארגון חוץ-ממשלתי
+- خیریه ټولنه
+- سازمان مردمنهاد
+- غیر سرکاری تنظیم
+- منظمة غير حكومية
+- ڕێکخراوەی ناحکوومی
+- ڤرتوبوهن بوکن کراجاءن
+- ߛߌ߲߬ߝߏ߲߬ߧߊ߬ߟߌ߬ ߘߍ߲ߓߊߟߌ߫ ߞߎ߲߬ߠߊ߬ߛߌ߰ߟߊ ߛߘߞ
+- अशासकीय संस्था
+- गैर सरकारी संगठन
+- गैरसरकारी संस्था
+- বেসরকারি সংস্থা
+- ਗ਼ੈਰ-ਸਰਕਾਰੀ ਜੱਥੇਬੰਦੀ
+- அரச சார்பற்ற அமைப்பு
+- ಸರ್ಕಾರೇತರ ಸಂಸ್ಥೆ
+- സർക്കാരിതര സംഘടന
+- රාජ්ය නොවන සංවිධාන
+- องค์การนอกภาครัฐ
+- ອົງການຈັດຕັ້ງທີ່ບໍ່ຂຶ້ນກັບລັດຖະບານ
+- အစိုးရ မဟုတ်သော အဖွဲ့အစည်း
+- არასამთავრობო ორგანიზაცია
+- 非政府組織
+- 非政府组织
+- 비정부 기구
 has_id_wikidata: Q79913
 OpenStreetMap_tag_or_key: Tag:operator:type=ngo
 short_name:
-  - NVO
-  - НДА
-  - NGO
-subclass_of: "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-different_from: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
-opposite_of: "[[_Standards/WikiData/WD~government_organization,2659904]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~community_organization,3269648]]"
-instance_of: "[[_Standards/WikiData/WD~legal_form,10541491]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~social_organization,11799101]]"
+- NVO
+- НДА
+- NGO
+subclass_of: '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+different_from: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+opposite_of: '[[_Standards/WikiData/WD~government_organization,2659904]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~community_organization,3269648]]'
+instance_of: '[[_Standards/WikiData/WD~legal_form,10541491]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_organization,11799101]]'
 described_at_URL: https://wikispooks.com/wiki/Non-governmental_organizations
-topic_has_template: "[[_Standards/WikiData/WD~Q18881752,18881752]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q18881752,18881752]]'
 properties_for_this_type:
-  - inception
-  - official website
-  - EU Transparency Register ID
-  - country
-  - field of work
-  - logo image
-  - headquarters location
-OmegaWiki_Defined_Meaning: "2548"
+- inception
+- official website
+- EU Transparency Register ID
+- country
+- field of work
+- logo image
+- headquarters location
+OmegaWiki_Defined_Meaning: 2548
 EU_Corporate_body_code: NGO
 equivalent_class: https://schema.org/NGO
-P8189: "987007529878705171"
+P8189: 987007529878705171
 Library_of_Congress_Classification: JZ4841-JZ4848
 IPTC_NewsCode: mediatopic/20000646
 Commons_category: Non-governmental organizations
 DPLA_subject_term:
-  - Non-governmental organizations
-  - Organisations non gouvernementales
+- Non-governmental organizations
+- Organisations non gouvernementales
+dv_has_:
+  name_:
+    af: nie-regeringsorganisasie
+    am: Non-governmental organization
+    ar: منظمة غير حكومية
+    ast: organización non gubernamental
+    az: qeyri-hökumət təşkilatı
+    ba: йәмәғәт ойошмаһы
+    be: грамадская арганізацыя
+    be-tarask: грамадзкая арганізацыя
+    bg: неправителствена организация
+    bho: गैर सरकारी संगठन
+    bn: বেসরকারি সংস্থা
+    br: aozadur e-maez-gouarnamant
+    bs: nevladina organizacija
+    ca: organització no governamental
+    ckb: ڕێکخراوەی ناحکوومی
+    co: organizazione non guvernativa
+    cs: nestátní nezisková organizace
+    cv: Пĕрлĕх организацийĕ
+    cy: sefydliad anllywodraethol
+    da: NGO
+    dag: Ʒie n gama zuɣu laɣingu
+    de: Nichtregierungsorganisation
+    el: μη κυβερνητική οργάνωση
+    en: non-governmental organization
+    en-gb: non-governmental organisation
+    en-us: non-governmental organization
+    eo: ne-registara organizaĵo
+    es: organización no gubernamental
+    et: valitsusväline organisatsioon
+    eu: gobernuz kanpoko erakunde
+    fa: سازمان مردمنهاد
+    fi: kansalaisjärjestö
+    fr: organisation non gouvernementale
+    ga: eagraíocht neamhrialtasach
+    gl: organización non gobernamental
+    gn: Ñembohysýi ndaha'éiva porokuáirehegua
+    gu: NGO
+    he: ארגון חוץ-ממשלתי
+    hi: अशासकीय संस्था
+    hr: nevladina organizacija
+    ht: Òganizasyon non-gouvènmantal
+    hu: civil szervezet
+    hy: հասարակական կազմակերպություն
+    hyw: ոչ-հասութաբեր կազմակերպութիւն
+    id: lembaga swadaya masyarakat
+    io: Ne-guvernerial organizuro
+    is: Almenn félagasamtök
+    it: organizzazione non governativa
+    ja: 非政府組織
+    ka: არასამთავრობო ორგანიზაცია
+    kk: Үкіметтік емес ұйымдар
+    kn: ಸರ್ಕಾರೇತರ ಸಂಸ್ಥೆ
+    ko: 비정부 기구
+    ku: rêxistina nehikumî
+    ku-latn: rêxistina nehikumî
+    kw: kowethyans anwovernansek
+    la: Organizatio re publica vacans
+    lb: Netregierungsorganisatioun
+    lo: ອົງການຈັດຕັ້ງທີ່ບໍ່ຂຶ້ນກັບລັດຖະບານ
+    lt: nevyriausybinė organizacija
+    lv: nevalstiska organizācija
+    mk: невладина организација
+    ml: സർക്കാരിതര സംഘടന
+    mn: Ангилал:Төрийн бус байгууллагууд
+    mr: अशासकीय संस्था
+    ms: pertubuhan bukan kerajaan
+    ms-arab: ڤرتوبوهن بوکن کراجاءن
+    mt: organizzazzjoni mhux governattiva
+    my: အစိုးရ မဟုတ်သော အဖွဲ့အစည်း
+    nan: Hui-chèng-hú cho͘-chit
+    nb: ikke-statlig organisasjon
+    ne: गैरसरकारी संस्था
+    nl: niet-gouvernementele organisatie
+    nn: ikkje-statleg organisasjon
+    nqo: ߛߌ߲߬ߝߏ߲߬ߧߊ߬ߟߌ߬ ߘߍ߲ߓߊߟߌ߫ ߞߎ߲߬ߠߊ߬ߛߌ߰ߟߊ ߛߘߞ
+    oc: organizacion non governamentala
+    pa: ਗ਼ੈਰ-ਸਰਕਾਰੀ ਜੱਥੇਬੰਦੀ
+    pl: organizacja pozarządowa
+    ps: خیریه ټولنه
+    pt: organização não governamental
+    pt-br: organização não governamental
+    qu: Mana kamachiy tantanakuy
+    ro: organizație nonguvernamentală
+    ru: общественная организация
+    sco: non-govrenmental organisation
+    se: siviilaorganisašuvdna
+    sh: nevladina organizacija
+    si: රාජ්ය නොවන සංවිධාන
+    sk: mimovládna organizácia
+    sl: nevladna organizacija
+    smn: aalmuglâšservi
+    sq: organizatë joqeveritare
+    sr: невладина организација
+    sr-ec: невладина организација
+    sv: civilsamhällelig organisation
+    sw: Shirika Lisilo la Kiserikali
+    ta: அரச சார்பற்ற அமைப்பு
+    te: Non-governmental organization
+    tg: созмони мардумниҳод
+    th: องค์การนอกภาครัฐ
+    tl: Organisasyong di-pampamahalaan
+    tr: sivil toplum kuruluşu
+    tt: иҗтимагый оешма
+    uk: недержавна організація
+    ur: غیر سرکاری تنظیم
+    uz: Nodavlat notijorat tashkilot
+    vec: Organizasion no goernativa
+    vi: tổ chức phi chính phủ
+    wa: Soce nén loyeye a on govienmint
+    wuu: 非政府组织
+    yue: 非政府組織
+    zh: 非政府组织
+    zh-cn: 非政府组织
+    zh-hans: 非政府组织
+    zh-hant: 非政府組織
+    zh-hk: 非政府組織
+    zh-tw: 非政府組織
 ---
-
 # [[NGO(non-governmental_organization)]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~non_governmental_organization,79913]] 

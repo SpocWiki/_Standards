@@ -1,10 +1,282 @@
 ---
 aliases:
-  - Jürgen Klopp
-  - Jürgen Norbert Klopp
-  - Klopp
-  - Klopp,Jürgen
+- Georgius Klopp
+- Jirgens Klops
+- Jurgen Klopp
+- Jürgen Klopp
+- Jürgen Norbert Klopp
+- Klopp
+- Klopp,Jürgen
+- Yurqen Klopp
+- Γιούργκεν Κλοπ
+- Јирген Клоп
+- Юрген Клёп
+- Юрген Клоп
+- Юрген Клопп
+- Յուրգեն Կլոպ
+- יורגן קלופ
+- يورجن كلوب
+- يورغن كلوب
+- یورقن کلوپ
+- یورگن کلوپ
+- जर्जेन क्लोप
+- ইয়ুর্গেন ক্লপ
+- യർഗ്ഗൻ ക്ലോപ്പ്
+- เยือร์เกิน คล็อพ
+- იურგენ კლოპი
+- ユルゲン・クロップ
+- 尤尔根·克洛普
+- 尤爾根·克洛普
+- 祖根·高普
+- 위르겐 클로프
 has_id_wikidata: Q83106
+dv_has_:
+  name_:
+    aa: Jürgen Klopp
+    ace: Jürgen Klopp
+    aeb-latn: Jürgen Klopp
+    af: Jürgen Klopp
+    an: Jürgen Klopp
+    ang: Jürgen Klopp
+    ar: يورغن كلوب
+    arz: يورجن كلوب
+    ast: Jürgen Klopp
+    ay: Jürgen Klopp
+    az: Yurqen Klopp
+    azb: یورقن کلوپ
+    bar: Jürgen Klopp
+    bbc-latn: Jürgen Klopp
+    bcl: Jürgen Klopp
+    be: Юрген Клоп
+    be-tarask: Юрген Клёп
+    bg: Юрген Клоп
+    bi: Jürgen Klopp
+    bjn: Jürgen Klopp
+    bm: Jürgen Klopp
+    bn: ইয়ুর্গেন ক্লপ
+    br: Jürgen Klopp
+    bs: Jürgen Klopp
+    bug: Jürgen Klopp
+    ca: Jürgen Klopp
+    cbk-zam: Jürgen Klopp
+    cdo: Jürgen Klopp
+    ceb: Jürgen Klopp
+    ch: Jürgen Klopp
+    cho: Jürgen Klopp
+    chy: Jürgen Klopp
+    co: Jürgen Klopp
+    cr: Jürgen Klopp
+    crh-latn: Jürgen Klopp
+    cs: Jürgen Klopp
+    csb: Jürgen Klopp
+    cy: Jurgen Klopp
+    da: Jürgen Klopp
+    de: Jürgen Klopp
+    de-at: Jürgen Klopp
+    de-ch: Jürgen Klopp
+    diq: Jürgen Klopp
+    dsb: Jürgen Klopp
+    el: Γιούργκεν Κλοπ
+    eml: Jürgen Klopp
+    en: Jürgen Klopp
+    en-ca: Jürgen Klopp
+    en-gb: Jürgen Klopp
+    eo: Jürgen Klopp
+    es: Jürgen Klopp
+    et: Jürgen Klopp
+    eu: Jürgen Klopp
+    ext: Jürgen Klopp
+    fa: یورگن کلوپ
+    ff: Jürgen Klopp
+    fi: Jürgen Klopp
+    fj: Jürgen Klopp
+    fo: Jürgen Klopp
+    fr: Jürgen Klopp
+    frp: Jürgen Klopp
+    frr: Jürgen Klopp
+    fur: Jürgen Klopp
+    fy: Jürgen Klopp
+    ga: Jürgen Klopp
+    gag: Jürgen Klopp
+    gd: Jürgen Klopp
+    gl: Jürgen Klopp
+    gn: Jürgen Klopp
+    gom-latn: Jürgen Klopp
+    gor: Jürgen Klopp
+    gsw: Jürgen Klopp
+    gv: Jürgen Klopp
+    ha: Jürgen Klopp
+    haw: Jürgen Klopp
+    he: יורגן קלופ
+    hif: Jürgen Klopp
+    hif-latn: Jürgen Klopp
+    ho: Jürgen Klopp
+    hr: Jürgen Klopp
+    hrx: Jürgen Klopp
+    hsb: Jürgen Klopp
+    ht: Jürgen Klopp
+    hu: Jürgen Klopp
+    hy: Յուրգեն Կլոպ
+    hz: Jürgen Klopp
+    ia: Jürgen Klopp
+    id: Jürgen Klopp
+    ie: Jürgen Klopp
+    ig: Jürgen Klopp
+    ik: Jürgen Klopp
+    ike-latn: Jürgen Klopp
+    ilo: Jürgen Klopp
+    io: Jürgen Klopp
+    is: Jürgen Klopp
+    it: Jürgen Klopp
+    ja: ユルゲン・クロップ
+    jam: Jürgen Klopp
+    jbo: Jürgen Klopp
+    jv: Jürgen Klopp
+    ka: იურგენ კლოპი
+    kaa: Jürgen Klopp
+    kab: Jürgen Klopp
+    kg: Jürgen Klopp
+    ki: Jürgen Klopp
+    kj: Jürgen Klopp
+    kk: Юрген Клопп
+    kk-latn: Jürgen Klopp
+    kl: Jürgen Klopp
+    ko: 위르겐 클로프
+    kr: Jürgen Klopp
+    ksh: Jürgen Klopp
+    ku-latn: Jürgen Klopp
+    kw: Jürgen Klopp
+    la: Georgius Klopp
+    lad: Jürgen Klopp
+    lb: Jürgen Klopp
+    lfn: Jürgen Klopp
+    lg: Jürgen Klopp
+    li: Jürgen Klopp
+    lij: Jürgen Klopp
+    liv: Jürgen Klopp
+    lmo: Jürgen Klopp
+    ln: Jürgen Klopp
+    lt: Jürgen Klopp
+    ltg: Jürgen Klopp
+    lv: Jirgens Klops
+    map-bms: Jürgen Klopp
+    mg: Jürgen Klopp
+    mh: Jürgen Klopp
+    mi: Jürgen Klopp
+    min: Jürgen Klopp
+    mk: Јирген Клоп
+    ml: യർഗ്ഗൻ ക്ലോപ്പ്
+    ms: Jürgen Klopp
+    mt: Jürgen Klopp
+    mul: Jürgen Klopp
+    mus: Jürgen Klopp
+    mwl: Jürgen Klopp
+    myv: Jürgen Klopp
+    na: Jürgen Klopp
+    nah: Jürgen Klopp
+    nap: Jürgen Klopp
+    nb: Jürgen Klopp
+    nds: Jürgen Klopp
+    nds-nl: Jürgen Klopp
+    ne: जर्जेन क्लोप
+    ng: Jürgen Klopp
+    nl: Jürgen Klopp
+    nn: Jürgen Klopp
+    nov: Jürgen Klopp
+    nrm: Jürgen Klopp
+    nso: Jürgen Klopp
+    nv: Jürgen Klopp
+    ny: Jürgen Klopp
+    oc: Jürgen Klopp
+    olo: Jürgen Klopp
+    om: Jürgen Klopp
+    pag: Jürgen Klopp
+    pam: Jürgen Klopp
+    pap: Jürgen Klopp
+    pcd: Jürgen Klopp
+    pdc: Jürgen Klopp
+    pfl: Jürgen Klopp
+    pi: Jürgen Klopp
+    pih: Jürgen Klopp
+    pl: Jürgen Klopp
+    pms: Jürgen Klopp
+    prg: Jürgen Klopp
+    pt: Jürgen Klopp
+    pt-br: Jürgen Klopp
+    qu: Jürgen Klopp
+    rgn: Jürgen Klopp
+    rm: Jürgen Klopp
+    rmy: Jürgen Klopp
+    rn: Jürgen Klopp
+    ro: Jürgen Klopp
+    roa-tara: Jürgen Klopp
+    ru: Юрген Клопп
+    ruq-latn: Jürgen Klopp
+    rw: Jürgen Klopp
+    sc: Jürgen Klopp
+    scn: Jürgen Klopp
+    sco: Jürgen Klopp
+    se: Jürgen Klopp
+    sg: Jürgen Klopp
+    sh: Jürgen Klopp
+    shi-latn: Jürgen Klopp
+    sk: Jürgen Klopp
+    sl: Jürgen Klopp
+    sm: Jürgen Klopp
+    sma: Jürgen Klopp
+    smj: Jürgen Klopp
+    sn: Jürgen Klopp
+    so: Jürgen Klopp
+    sq: Jürgen Klopp
+    sr: Јирген Клоп
+    sr-el: Jürgen Klopp
+    srn: Jürgen Klopp
+    ss: Jürgen Klopp
+    st: Jürgen Klopp
+    stq: Jürgen Klopp
+    su: Jürgen Klopp
+    sv: Jürgen Klopp
+    sw: Jürgen Klopp
+    szl: Jürgen Klopp
+    tet: Jürgen Klopp
+    tg-latn: Jürgen Klopp
+    th: เยือร์เกิน คล็อพ
+    tl: Jürgen Klopp
+    tn: Jürgen Klopp
+    to: Jürgen Klopp
+    tpi: Jürgen Klopp
+    tr: Jürgen Klopp
+    ts: Jürgen Klopp
+    tt-latn: Jürgen Klopp
+    tum: Jürgen Klopp
+    tw: Jürgen Klopp
+    ty: Jürgen Klopp
+    ug-latn: Jürgen Klopp
+    uk: Юрген Клопп
+    uz: Jürgen Klopp
+    ve: Jürgen Klopp
+    vec: Jürgen Klopp
+    vep: Jürgen Klopp
+    vi: Jürgen Klopp
+    vls: Jürgen Klopp
+    vmf: Jürgen Klopp
+    vo: Jürgen Klopp
+    vot: Jürgen Klopp
+    vro: Jürgen Klopp
+    wa: Jürgen Klopp
+    war: Jürgen Klopp
+    wo: Jürgen Klopp
+    wuu: 尤尔根·克洛普
+    xh: Jürgen Klopp
+    yo: Jürgen Klopp
+    yue: 祖根·高普
+    za: Jürgen Klopp
+    zea: Jürgen Klopp
+    zh: 尤尔根·克洛普
+    zh-hant: 尤爾根·克洛普
+    zh-hk: 祖根·高普
+    zh-tw: 尤爾根·克洛普
+    zu: Jürgen Klopp
 ---
 # [[Klopp,Jürgen]] 
 

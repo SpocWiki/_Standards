@@ -1,11 +1,102 @@
 ---
 aliases:
-  - Irving,John
-  - John Winslow Irving
-  - John Irving
-  - John Wallace Blunt
-  - Irving
+- Džons Ērvings
+- Irving
+- Irving,John
+- John Irving
+- John Wallace Blunt
+- John Winslow Irving
+- Τζον Έρβινγκ
+- Джон Ірвінг
+- Джон Уинслоу Ирвинг
+- Джон Ървинг
+- Жон Ирвинг
+- Жон Ирвиң
+- Ջոն Իրվինգ
+- ג'ון אירווינג
+- جان اروینق
+- جان ایروینگ
+- جون إيرفنج
+- جون ايرفنج
+- जॉन इरविंग
+- ਜੌਨ ਇਰਵਿੰਗ
+- ジョン・アーヴィング
+- 約翰·艾文
+- 约翰·艾文
+- 존 어빙
 has_id_wikidata: Q310379
+dv_has_:
+  name_:
+    af: John Irving
+    an: John Irving
+    ar: جون إيرفنج
+    arz: جون ايرفنج
+    ast: John Irving
+    azb: جان اروینق
+    bg: Джон Ървинг
+    ca: John Irving
+    cs: John Irving
+    cy: John Irving
+    da: John Irving
+    de: John Irving
+    de-at: John Irving
+    de-ch: John Irving
+    el: Τζον Έρβινγκ
+    en: John Irving
+    en-ca: John Irving
+    en-gb: John Irving
+    eo: John Irving
+    es: John Irving
+    et: John Irving
+    eu: John Irving
+    fa: جان ایروینگ
+    fi: John Irving
+    fr: John Irving
+    ga: John Irving
+    gl: John Irving
+    he: ג'ון אירווינג
+    hi: जॉन इरविंग
+    hr: John Irving
+    hu: John Irving
+    hy: Ջոն Իրվինգ
+    io: John Irving
+    it: John Irving
+    ja: ジョン・アーヴィング
+    jut: John Irving
+    ko: 존 어빙
+    ky: Жон Ирвиң
+    lt: John Irving
+    lv: Džons Ērvings
+    mn: Жон Ирвинг
+    mul: John Irving
+    nb: John Irving
+    nl: John Irving
+    nn: John Irving
+    pa: ਜੌਨ ਇਰਵਿੰਗ
+    pam: John Irving
+    pap: John Irving
+    pl: John Irving
+    pms: John Irving
+    pt: John Irving
+    pt-br: John Irving
+    ro: John Irving
+    ru: Джон Уинслоу Ирвинг
+    sc: John Irving
+    sco: John Irving
+    sh: John Irving
+    sje: John Irving
+    sk: John Irving
+    sl: John Irving
+    sq: John Irving
+    sv: John Irving
+    uk: Джон Ірвінг
+    zh: 約翰·艾文
+    zh-cn: 约翰·艾文
+    zh-hans: 约翰·艾文
+    zh-hant: 約翰·艾文
+    zh-hk: 約翰·艾文
+    zh-sg: 约翰·艾文
+    zh-tw: 約翰·艾文
 ---
 # [[Irving,John]]
 

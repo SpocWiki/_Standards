@@ -1,21 +1,166 @@
 ---
 aliases:
+- bilimsel kuram
+- Ciencala teorio
+- damcaniaeth wyddonol
+- dieđalaš teoriija
+- Elmi nəzəriyyə
+- Kenning
+- lý thuyết khoa học
+- Nadharia ya kisayansi
+- scienca teorio
+- scientific theory
+- teaduslik teooria
+- teoiric eolaíochta
+- teori ilmiah
+- teori saintifik
+- teori shkencore
+- teoria científica
+- teoria naukowa
+- teoria scientifica
+- Teoria zientifiko
+- Teorie științifică
+- teorija xjentifika
+- Teoriyang makaagham
+- teoría científica
+- teyori syantifik
+- theoria scientific
+- théorie scientifique
+- tieteellinen teoria
+- tieđâlâš teoria
+- tiõđlaž teoria
+- tudományos elmélet
+- Umchaciso wenzululwazi
+- Vedecká teória
+- vetenskaplig teori
+- videnskabelig teori
+- vitenskapelig teori
+- vitskapleg teori
+- vědecká teorie
+- wetenschappelijke theorie
+- wissenschaftliche Theorie
+- Wëssenschaftlech Theorie
+- zinātniska teorija
+- znanstvena teorija
+- επιστημονική θεωρία
+- зонадон теори
+- навуковая тэорыя
+- наукова теорія
+- научна теорија
+- научная теория
+- фәнни назария
+- գիտական տեսություն
+- תאוריה מדעית
+- بیردۆزی زانستی
+- تئوری علمی
+- تجربيت پسنديءَ جو نظريو
+- ساینسي تیوري
+- نظرية علمية
+- ߟߐ߲ߞߏ ߦߟߌߦߊ
+- वैज्ञानिक सिद्धान्त
+- বৈজ্ঞানিক তত্ত্ব
+- அறிவியல் கோட்பாடு
+- ശാസ്ത്രസിദ്ധാന്തം
+- විද්යාත්මක සිද්ධාන්තය
+- სამეცნიერო თეორია
+- ⵜⵉⵥⵕⵉ ⵜⵓⵙⵙⵏⴰⵏⵜ
+- 科学理論
+- 科学理论
+- 科學理論
+- 과학 이론
 has_id_wikidata: Q3239681
 has_characteristic:
-  - "[[_Standards/WikiData/WD~falsifiability,220888]]"
-  - "[[_Standards/WikiData/WD~explanatory_power,2557224]]"
-replaces: "[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]"
+- '[[_Standards/WikiData/WD~falsifiability,220888]]'
+- '[[_Standards/WikiData/WD~explanatory_power,2557224]]'
+replaces: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~scientific_knowledge,6045936]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
-uses: "[[_Standards/WikiData/WD~scientific_object,30060700]]"
-studied_by: "[[_Standards/WikiData/WD~science,336]]"
-used_by: "[[_Standards/WikiData/WD~scientific_method,46857]]"
+- '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
+- '[[_Standards/WikiData/WD~theory,17737]]'
+uses: '[[_Standards/WikiData/WD~scientific_object,30060700]]'
+studied_by: '[[_Standards/WikiData/WD~science,336]]'
+used_by: '[[_Standards/WikiData/WD~scientific_method,46857]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMB%20Timeline300%20no%20WMAP.jpg
-OmegaWiki_Defined_Meaning: "1592009"
+OmegaWiki_Defined_Meaning: 1592009
 Commons_category: Scientific theories
+dv_has_:
+  name_:
+    ar: نظرية علمية
+    ast: Teoría científica
+    az: Elmi nəzəriyyə
+    be-tarask: навуковая тэорыя
+    bn: বৈজ্ঞানিক তত্ত্ব
+    ca: teoria científica
+    ckb: بیردۆزی زانستی
+    cs: vědecká teorie
+    cy: damcaniaeth wyddonol
+    da: videnskabelig teori
+    de: wissenschaftliche Theorie
+    el: επιστημονική θεωρία
+    en: scientific theory
+    eo: scienca teorio
+    es: teoría científica
+    et: teaduslik teooria
+    eu: Teoria zientifiko
+    fa: تئوری علمی
+    fi: tieteellinen teoria
+    fr: théorie scientifique
+    ga: teoiric eolaíochta
+    gl: teoría científica
+    he: תאוריה מדעית
+    hi: वैज्ञानिक सिद्धान्त
+    ht: teyori syantifik
+    hu: tudományos elmélet
+    hy: գիտական տեսություն
+    ia: theoria scientific
+    id: teori ilmiah
+    io: Ciencala teorio
+    is: Kenning
+    it: teoria scientifica
+    ja: 科学理論
+    ka: სამეცნიერო თეორია
+    ko: 과학 이론
+    lb: Wëssenschaftlech Theorie
+    lv: zinātniska teorija
+    mk: научна теорија
+    ml: ശാസ്ത്രസിദ്ധാന്തം
+    ms: teori saintifik
+    mt: teorija xjentifika
+    nb: vitenskapelig teori
+    nl: wetenschappelijke theorie
+    nn: vitskapleg teori
+    nqo: ߟߐ߲ߞߏ ߦߟߌߦߊ
+    oc: teoria scientifica
+    os: зонадон теори
+    pl: teoria naukowa
+    ps: ساینسي تیوري
+    pt: teoria científica
+    ro: Teorie științifică
+    ru: научная теория
+    sd: تجربيت پسنديءَ جو نظريو
+    se: dieđalaš teoriija
+    si: විද්යාත්මක සිද්ධාන්තය
+    sk: Vedecká teória
+    sl: znanstvena teorija
+    smn: tieđâlâš teoria
+    sms: tiõđlaž teoria
+    sq: teori shkencore
+    sr: научна теорија
+    sv: vetenskaplig teori
+    sw: Nadharia ya kisayansi
+    ta: அறிவியல் கோட்பாடு
+    tl: Teoriyang makaagham
+    tr: bilimsel kuram
+    tt: фәнни назария
+    uk: наукова теорія
+    vi: lý thuyết khoa học
+    yue: 科學理論
+    zgh: ⵜⵉⵥⵕⵉ ⵜⵓⵙⵙⵏⴰⵏⵜ
+    zh: 科學理論
+    zh-cn: 科学理论
+    zh-hans: 科学理论
+    zh-hant: 科學理論
+    zu: Umchaciso wenzululwazi
 ---
-
 # [[Scientific_Theory]] 
 
 #is_/same_as :: [[WD~Scientific_theory,3239681]] 

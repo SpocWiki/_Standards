@@ -1,50 +1,283 @@
 ---
 aliases:
+- assi
+- assiu
+- asyòm
+- haisiam
+- has
+- hasij
+- hasijs
+- hasijum
+- hasin
+- hasio
+- hasiom
+- hasis
+- Hasium
+- hasiumo
+- hasiwm
+- hasiyaam
+- hasiyûm
+- Hassi
+- hassii
+- hassio
+- Hassiom
+- Hassiomu
+- hassiu
+- Hassium
+- hassiumi
+- hassiyum
+- hassju
+- hassyo
+- hasszium
+- hassín
+- hasyo
+- hasyu
+- hasɩyɔm
+- Hàssiu
+- hássio
+- jinmrxasi
+- UmHasambi
+- χάσιο
+- Гас
+- гасій
+- хassiy
+- хасій
+- хасијум
+- хасий
+- хасиум
+- Хасси
+- Хассий
+- хассиум
+- Ҳассий
+- һассий
+- հասիում
+- האסיום
+- هئسيئم
+- هاسيوم
+- هاسیم
+- ھاسسىي
+- ھاسیۆم
+- ہاسیئم
+- ہاسیم
+- हस्सियम
+- हासियम
+- हैसियम
+- ह्यासियम
+- হ্যাসিয়াম
+- હેસીયમ
+- ହାସିଅମ
+- ஆசியம்
+- హాసియం
+- ಹಾಸ್ಸಿಯಮ್
+- ഹാസ്സിയം
+- ฮัสเซียม
+- ཧ་སིམ།
+- ဟက်စ်စီယမ်
+- ჰასიუმი
+- ሀሲየም
+- ハッシウム
+- 하슘
+- "\U00028B46"
+- "\U0002CB76"
 has_id_wikidata: Q1252
 part_of:
-  - "[[_Standards/WikiData/WD~group_8,202224]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]"
+- '[[_Standards/WikiData/WD~group_8,202224]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-different_from: "[[_Standards/WikiData/WD~Wojciech_Jerzy_Has,1095790]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-named_after: "[[_Standards/WikiData/WD~Hesse,1199]]"
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+different_from: '[[_Standards/WikiData/WD~Wojciech_Jerzy_Has,1095790]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_after: '[[_Standards/WikiData/WD~Hesse,1199]]'
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 atomic_number: 108
-OmegaWiki_Defined_Meaning: "160082"
+OmegaWiki_Defined_Meaning: 160082
 element_symbol: Hs
 Commons_gallery: Hassium
 Commons_category: Hassium
-Unicode_character: 𨭆
+Unicode_character: "\U00028B46"
 time_of_discovery_or_invention: 1984-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20108%20Hassium.svg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hassium.ogg
-electron_configuration: "[Rn] 5f¹⁴ 6d⁶ 7s²"
+electron_configuration: '[Rn] 5f¹⁴ 6d⁶ 7s²'
 CAS_Registry_Number: 54037-57-9
 DSSTOX_compound_identifier: DTXCID601323015
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Hassium,1252]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]"
+  - '[[../../../WikiData/WD~Hassium,1252]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Hassium,1252]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]"
+- '[[../../../WikiData/WD~Hassium,1252]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]'
+dv_has_:
+  name_:
+    af: hassium
+    am: ሀሲየም
+    an: hassio
+    anp: हैसियम
+    ar: هاسيوم
+    ary: هاسيوم
+    arz: هاسيوم
+    ast: hassiu
+    az: hassium
+    ban: Hassium
+    bcl: Hasyo
+    be: хасій
+    be-tarask: Гас
+    bg: хасий
+    bho: हस्सियम
+    bn: হ্যাসিয়াম
+    bo: ཧ་སིམ།
+    br: hasiom
+    bs: hasij
+    ca: hassi
+    cdo: hassium
+    ceb: hassyo
+    ckb: ھاسیۆم
+    co: hassiu
+    cs: hassium
+    cv: Хасси
+    cy: hasiwm
+    da: hassium
+    de: Hassium
+    el: χάσιο
+    en: hassium
+    en-gb: hassium
+    eo: hasiumo
+    es: hasio
+    et: hassium
+    eu: hassio
+    fa: هاسیم
+    fi: hassium
+    fo: hassium
+    fr: hassium
+    frr: hassium
+    fur: hassi
+    ga: haisiam
+    gd: hassium
+    gl: hassio
+    gu: હેસીયમ
+    gv: hassium
+    hak: hassium
+    he: האסיום
+    hi: हैसियम
+    hif: hassium
+    hr: hasij
+    ht: asyòm
+    hu: hasszium
+    hy: հասիում
+    ia: hassium
+    id: hasium
+    io: hasio
+    is: hassín
+    it: hassio
+    ja: ハッシウム
+    jbo: jinmrxasi
+    jv: hassium
+    ka: ჰასიუმი
+    kbp: hasɩyɔm
+    kk: хассий
+    kn: ಹಾಸ್ಸಿಯಮ್
+    ko: 하슘
+    ku: hasiyûm
+    kv: хассий
+    kw: Hassiom
+    ky: хассий
+    la: hassium
+    lb: Hassium
+    lfn: hasio
+    li: hassium
+    lij: hassio
+    lt: hasis
+    lv: hasijs
+    lzh: "\U00028B46"
+    mk: хасиум
+    ml: ഹാസ്സിയം
+    mn: хасси
+    mr: हासियम
+    mrj: хассий
+    ms: hasium
+    mt: hassju
+    my: ဟက်စ်စီယမ်
+    myv: Хассий
+    nan: Hassium
+    nb: hassium
+    nds: Hassium
+    ne: ह्यासियम
+    new: ह्यासियम
+    nl: hassium
+    nn: hassium
+    nov: Hasium
+    oc: assi
+    or: ହାସିଅମ
+    os: хассий
+    pi: ह्यासियम
+    pl: has
+    pnb: ہاسیم
+    ps: هاسيوم
+    pt: hássio
+    pt-br: hássio
+    qu: hasyu
+    ro: hassiu
+    ru: хассий
+    rup: Hassiu
+    sa: ह्यासियम
+    sc: Hàssiu
+    scn: assiu
+    sd: هئسيئم
+    sh: hasijum
+    sk: hassium
+    sl: hasij
+    so: hasiyaam
+    sq: hassiumi
+    sr: хасијум
+    sr-ec: хасијум
+    stq: hassium
+    sv: hassium
+    sw: Hassi
+    ta: ஆசியம்
+    te: హాసియం
+    tg: Ҳассий
+    th: ฮัสเซียม
+    tl: hasyo
+    tr: hassiyum
+    tt: һассий
+    ug: ھاسسىي
+    uk: гасій
+    ur: ہاسیئم
+    uz: хassiy
+    vep: hassii
+    vi: hassi
+    vo: hasin
+    war: hassyo
+    wuu: "\U0002CB76"
+    xal: хассиум
+    yo: Hassiomu
+    yue: "\U00028B46"
+    zh: "\U00028B46"
+    zh-cn: "\U0002CB76"
+    zh-hans: "\U0002CB76"
+    zh-hant: "\U00028B46"
+    zh-hk: "\U00028B46"
+    zh-mo: "\U00028B46"
+    zh-my: "\U0002CB76"
+    zh-sg: "\U0002CB76"
+    zh-tw: "\U00028B46"
+    zu: UmHasambi
 ---
-
 # [[Hassium]] 
 
 #is_/same_as :: [[WD~Hassium,1252]] 

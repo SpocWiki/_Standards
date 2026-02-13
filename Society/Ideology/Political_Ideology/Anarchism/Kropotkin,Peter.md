@@ -1,68 +1,111 @@
 ---
 aliases:
-  - Peter_Kropotkin
-  - Pyotr Alexeyevich Kropotkin
-  - Pyotr Kropotkin
-  - Kropotkin
-  - Kropotkin,Peter
+- Kropotkin
+- Kropotkin,Peter
+- Petar Kropotkin
+- Peter Aleksejevič Kropotkin
+- Peter Kropotkin
+- Peter_Kropotkin
+- Petro Kropotkin
+- Petrus Kropotkin
+- Pierre Kropotkine
+- Piotr Alexejevič Kropotkin
+- Piotr Kropotkin
+- Piotras Kropotkinas
+- Pjotr Alekszejevics Kropotkin
+- Pjotr Alexejevič Kropotkin
+- Pjotr Alexejewitsch Kropotkin
+- Pjotr Kropotkin
+- pjotr.kropotkin
+- Pjotrs Kropotkins
+- Pyotr Alexeyevich Kropotkin
+- Pyotr Kropotkin
+- Pëtr Alekseevič Kropotkin
+- Pёtr Alekseevič Kropotkin
+- Πιοτρ Κροπότκιν
+- Кропоткін Петро Олексійович
+- Кропоткин Пётр Алексеевич
+- Кропоткин Пётр Алекссевич
+- Кропоткин Петр Алексеевич
+- Пётар Крапоткін
+- Пётр Алексеевич Кропоткин
+- Пётр Аляксеевіч Крапоткін
+- Петар Кропоткин
+- Пьотър Кропоткин
+- Պյոտր Կրոպոտկին
+- פיוטר קרופוטקין
+- بيوتر كروبوتكين
+- پطر کروپوتکین
+- پیتەر کرۆپۆتکین
+- پیټر کروپوتکین
+- पीटर क्रोपोत्किन
+- प्योत्र क्रोपोत्किन
+- পিয়োতর ক্রাপোতকিন
+- ਪੀਟਰ ਕਰੋਪੋਤਕਿਨ
+- პეტრე კროპოტკინი
+- ピョートル・クロポトキン
+- 克魯泡特金
+- 彼得·阿列克谢耶维奇·克鲁泡特金
+- 彼得·阿歷克塞維奇·克魯泡特金
+- 표트르 크로폿킨
 has_id_wikidata: Q5752
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~zoologist,350979]]'
-  - '[[_Standards/WikiData/WD~geographer,901402]]'
-  - '[[_Standards/WikiData/WD~propagandist,1685363]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~explorer,11900058]]'
-  - '[[_Standards/WikiData/WD~anarchist,12359071]]'
-  - '[[_Standards/WikiData/WD~activist,15253558]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~zoologist,350979]]'
+- '[[_Standards/WikiData/WD~geographer,901402]]'
+- '[[_Standards/WikiData/WD~propagandist,1685363]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~anarchist,12359071]]'
+- '[[_Standards/WikiData/WD~activist,15253558]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_death: '[[_Standards/WikiData/WD~Dmitrov,102334]]'
 member_of: "[[_Standards/WikiData/WD~International_Workingmen's_Association,183725]]"
 political_ideology: '[[_Standards/WikiData/WD~anarcho_communism,188670]]'
 place_of_burial: '[[_Standards/WikiData/WD~Novodevichy_Cemetery,208175]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Narodniks,216741]]'
-  - '[[_Standards/WikiData/WD~Pierre_Joseph_Proudhon,5749]]'
-  - '[[_Standards/WikiData/WD~Mikhail_Bakunin,27645]]'
+- '[[_Standards/WikiData/WD~Narodniks,216741]]'
+- '[[_Standards/WikiData/WD~Pierre_Joseph_Proudhon,5749]]'
+- '[[_Standards/WikiData/WD~Mikhail_Bakunin,27645]]'
 noble_title: '[[_Standards/WikiData/WD~knyaz,273613]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
-  - '[[_Standards/WikiData/WD~Lexikon_der_Anarchie,1822290]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Q117077226,117077226]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- '[[_Standards/WikiData/WD~Lexikon_der_Anarchie,1822290]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Q117077226,117077226]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 contributed_to_creative_work:
-  - '[[_Standards/WikiData/WD~Popular_Science,773087]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Popular_Science,773087]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 given_name: '[[_Standards/WikiData/WD~Pyotr,1225705]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Mutual_Aid_A_Factor_of_Evolution,1498315]]'
-  - '[[_Standards/WikiData/WD~Fields,_Factories,_and_Workshops,2955918]]'
-  - '[[_Standards/WikiData/WD~The_Conquest_of_Bread,3141640]]'
-  - '[[_Standards/WikiData/WD~The_Great_French_Revolution_1789_1793,3209557]]'
-  - '[[_Standards/WikiData/WD~Memoirs_of_a_Revolutionist,21524357]]'
-  - '[[_Standards/WikiData/WD~Ethics_Origin_and_Development,51225220]]'
-  - '[[_Standards/WikiData/WD~Russian_Literature,_Ideals_and_Realities,106512295]]'
+- '[[_Standards/WikiData/WD~Mutual_Aid_A_Factor_of_Evolution,1498315]]'
+- '[[_Standards/WikiData/WD~Fields,_Factories,_and_Workshops,2955918]]'
+- '[[_Standards/WikiData/WD~The_Conquest_of_Bread,3141640]]'
+- '[[_Standards/WikiData/WD~The_Great_French_Revolution_1789_1793,3209557]]'
+- '[[_Standards/WikiData/WD~Memoirs_of_a_Revolutionist,21524357]]'
+- '[[_Standards/WikiData/WD~Ethics_Origin_and_Development,51225220]]'
+- '[[_Standards/WikiData/WD~Russian_Literature,_Ideals_and_Realities,106512295]]'
 different_from: '[[_Standards/WikiData/WD~Kropotkin,1775787]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Page_Corps,2624043]]'
-  - '[[_Standards/WikiData/WD~First_Moscow_gymnasium,4028031]]'
-  - '[[_Standards/WikiData/WD~Faculty_of_Physics_and_Mathematics_of_the_Saint_Petersburg_University,4483558]]'
+- '[[_Standards/WikiData/WD~Page_Corps,2624043]]'
+- '[[_Standards/WikiData/WD~First_Moscow_gymnasium,4028031]]'
+- '[[_Standards/WikiData/WD~Faculty_of_Physics_and_Mathematics_of_the_Saint_Petersburg_University,4483558]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 family: '[[_Standards/WikiData/WD~Kropotkin_family,4241708]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -75,15 +118,15 @@ spouse: '[[_Standards/WikiData/WD~Sophie_Kropotkin,126195500]]'
 date_of_birth: 1842-12-09T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 movement: '[[_Standards/WikiData/WD~anarchism,6199]]'
 native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
@@ -106,8 +149,97 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kropotkin1.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Novodevicij%20Cemetery%20Peter%20Kropotkin.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Kropotkin%20signature.svg
 ISNI: 000000012281103X
+dv_has_:
+  name_:
+    ace: Peter Kropotkin
+    af: Pjotr Kropotkin
+    an: Piotr Kropotkin
+    ar: بيوتر كروبوتكين
+    arz: بيوتر كروبوتكين
+    ast: Piotr Kropotkin
+    az: Pyotr Kropotkin
+    ba: Кропоткин Пётр Алексеевич
+    be: Пётр Аляксеевіч Крапоткін
+    be-tarask: Пётар Крапоткін
+    bg: Пьотър Кропоткин
+    bn: পিয়োতর ক্রাপোতকিন
+    br: Pyotr Kropotkin
+    ca: Piotr Kropotkin
+    ckb: پیتەر کرۆپۆتکین
+    cs: Pjotr Alexejevič Kropotkin
+    cv: Кропоткин Пётр Алекссевич
+    cy: Pyotr Kropotkin
+    da: Peter Kropotkin
+    de: Pjotr Alexejewitsch Kropotkin
+    el: Πιοτρ Κροπότκιν
+    en: Peter Kropotkin
+    eo: Petro Kropotkin
+    es: Piotr Kropotkin
+    et: Pjotr Kropotkin
+    eu: Piotr Kropotkin
+    fa: پطر کروپوتکین
+    fi: Pjotr Kropotkin
+    fr: Pierre Kropotkine
+    fy: Peter Kropotkin
+    ga: Pyotr Kropotkin
+    gl: Piotr Kropotkin
+    gsw: Pjotr Alexejewitsch Kropotkin
+    he: פיוטר קרופוטקין
+    hi: पीटर क्रोपोत्किन
+    hr: Pjotr Kropotkin
+    hu: Pjotr Alekszejevics Kropotkin
+    hy: Պյոտր Կրոպոտկին
+    ia: Petro Kropotkin
+    id: Peter Kropotkin
+    is: Pjotr Kropotkin
+    it: Pëtr Alekseevič Kropotkin
+    ja: ピョートル・クロポトキン
+    jbo: pjotr.kropotkin
+    ka: პეტრე კროპოტკინი
+    kk: Кропоткин Петр Алексеевич
+    ko: 표트르 크로폿킨
+    la: Petrus Kropotkin
+    li: Peter Kropotkin
+    lt: Piotras Kropotkinas
+    lv: Pjotrs Kropotkins
+    mg: Pierre Kropotkine
+    mk: Петар Кропоткин
+    mul: Peter Kropotkin
+    nan: Pёtr Alekseevič Kropotkin
+    nb: Pjotr Kropotkin
+    nds-nl: Peter Kropotkin
+    ne: प्योत्र क्रोपोत्किन
+    nl: Peter Kropotkin
+    nn: Pjotr Kropotkin
+    oc: Piotr Kropotkin
+    pa: ਪੀਟਰ ਕਰੋਪੋਤਕਿਨ
+    pl: Piotr Kropotkin
+    ps: پیټر کروپوتکین
+    pt: Piotr Kropotkin
+    pt-br: Piotr Kropotkin
+    ro: Piotr Kropotkin
+    ru: Пётр Алексеевич Кропоткин
+    sco: Peter Kropotkin
+    sh: Pjotr Kropotkin
+    sk: Piotr Alexejevič Kropotkin
+    sl: Peter Aleksejevič Kropotkin
+    sq: Peter Kropotkin
+    sr: Петар Кропоткин
+    sr-ec: Петар Кропоткин
+    sr-el: Petar Kropotkin
+    sv: Pjotr Kropotkin
+    tl: Pyotr Kropotkin
+    tr: Peter Kropotkin
+    uk: Кропоткін Петро Олексійович
+    vi: Pyotr Kropotkin
+    war: Peter Kropotkin
+    wuu: 彼得·阿列克谢耶维奇·克鲁泡特金
+    yo: Peter Kropotkin
+    yue: 克魯泡特金
+    zh: 彼得·阿列克谢耶维奇·克鲁泡特金
+    zh-cn: 彼得·阿列克谢耶维奇·克鲁泡特金
+    zh-hant: 彼得·阿歷克塞維奇·克魯泡特金
 ---
-
 # [[Kropotkin,Peter]] 
 
 #is_/same_as :: [[WD~Peter_Kropotkin,5752]] 

@@ -1,39 +1,141 @@
 ---
 aliases:
-  - Λεβιάθαν
-  - לִוְיָתָן
-  - Līvyāṯān
-  - Leviathan
+- Lefiathan
+- Leviafan
+- Leviatan
+- Leviatanas
+- Leviatano
+- Leviathan
+- Leviatàna
+- Leviatán
+- Leviatã
+- Levijatan
+- Levjatano
+- Lewiatan
+- Livjatan
+- Livyatan
+- Léviathan
+- Līvyāṯān
+- Tengeri kígyó
+- Λεβιάθαν
+- Λεβιάθαν (Παλαιά Διαθήκη)
+- Левіафан
+- Левіяфан
+- Левијатан
+- Левиатан
+- Левиафан
+- լևիաթան
+- לִוְיָתָן
+- לווייתן
+- لوياثان
+- لویاتان
+- लेविथान
+- লিবিয়াথন
+- லெவியாதன்
+- ලෙවියාතන්
+- เลวีอาธาน
+- レヴィアタン
+- 利維坦
+- 利维坦
+- 海怪 (聖經)
+- 레비아탄
 has_id_wikidata: Q192677
 present_in_work:
-  - "[[_Standards/WikiData/WD~Isaiah,131458]]"
-  - "[[_Standards/WikiData/WD~Book_of_Job,4577]]"
-  - "[[_Standards/WikiData/WD~Psalms,41064]]"
+- '[[_Standards/WikiData/WD~Isaiah,131458]]'
+- '[[_Standards/WikiData/WD~Book_of_Job,4577]]'
+- '[[_Standards/WikiData/WD~Psalms,41064]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 worshipped_by:
-  - "[[_Standards/WikiData/WD~Christian_mythology,1084084]]"
-  - "[[_Standards/WikiData/WD~Jewish_mythology,1716022]]"
+- '[[_Standards/WikiData/WD~Christian_mythology,1084084]]'
+- '[[_Standards/WikiData/WD~Jewish_mythology,1716022]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biblical_character,12405827]]"
-  - "[[_Standards/WikiData/WD~mythological_serpent,16326794]]"
-different_from: "[[_Standards/WikiData/WD~Leviathan,115089724]]"
-manifestation_of: "[[_Standards/WikiData/WD~Leviathan,115089724]]"
+- '[[_Standards/WikiData/WD~biblical_character,12405827]]'
+- '[[_Standards/WikiData/WD~mythological_serpent,16326794]]'
+different_from: '[[_Standards/WikiData/WD~Leviathan,115089724]]'
+manifestation_of: '[[_Standards/WikiData/WD~Leviathan,115089724]]'
 Commons_gallery: Leviathan
 Commons_category: Leviathan
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Destruction%20of%20Leviathan.png
 Stack_Exchange_tag:
-  - https://hermeneutics.stackexchange.com/tags/leviathan
-  - https://judaism.stackexchange.com/tags/leviathan
+- https://hermeneutics.stackexchange.com/tags/leviathan
+- https://judaism.stackexchange.com/tags/leviathan
 Iconclass_notation: 11K(LEVIATHAN)
 name_in_native_language: לִװײָתָן
+dv_has_:
+  name_:
+    af: Leviatan
+    ar: لوياثان
+    az: Leviafan
+    bcl: Leviathan
+    be: Левіяфан
+    bg: Левиатан
+    bn: লিবিয়াথন
+    bs: Levijatan
+    ca: Leviatan
+    cs: Leviatan
+    cy: Lefiathan
+    da: Livjatan
+    de: Leviathan
+    el: Λεβιάθαν (Παλαιά Διαθήκη)
+    en: Leviathan
+    eo: Levjatano
+    es: Leviatán
+    et: Leviathan
+    eu: Leviatan
+    fa: لویاتان
+    fi: Leviatan
+    fr: Léviathan
+    he: לווייתן
+    hi: लेविथान
+    hr: Levijatan
+    hu: Tengeri kígyó
+    hy: լևիաթան
+    id: Lewiatan
+    io: Leviatano
+    it: Leviatano
+    ja: レヴィアタン
+    ko: 레비아탄
+    la: Leviathan
+    lt: Leviatanas
+    mg: Leviatàna
+    mk: Левијатан
+    ms: Livyatan
+    nb: Leviatan
+    nl: Leviathan
+    pl: Lewiatan
+    pt: Leviatã
+    ro: Leviatan
+    ru: Левиафан
+    si: ලෙවියාතන්
+    sk: Leviatan
+    sl: Leviatan
+    sq: Leviatan
+    sr: Левијатан
+    sr-ec: Левијатан
+    sr-el: Levijatan
+    sv: Leviatan
+    ta: லெவியாதன்
+    th: เลวีอาธาน
+    tl: Leviatan
+    tr: Livyatan
+    uk: Левіафан
+    vi: Leviathan
+    war: Leviatan
+    yue: 海怪 (聖經)
+    zh: 利维坦
+    zh-cn: 利维坦
+    zh-hans: 利维坦
+    zh-hant: 利維坦
+    zh-hk: 利維坦
+    zh-sg: 利维坦
+    zh-tw: 利維坦
 ---
-
 # [[Leviathan]] 
 
 

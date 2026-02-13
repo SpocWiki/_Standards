@@ -1,8 +1,270 @@
 ---
 has_id_wikidata: Q5070208
+dv_has_:
+  name_:
+    af: Kangaroe
+    am: ካንጋሮ
+    anp: कंगारू
+    ar: كنغر
+    arn: salta
+    as: কেঙ্গেৰু
+    ast: Canguru
+    az: kenquru
+    azb: کانگرو
+    ba: Көнгөрә
+    ban: Siung welang
+    bcl: Kanggaru
+    be: кенгуру
+    be-tarask: кенгуру
+    bg: кенгуру
+    bi: Kangaru
+    bn: ক্যাংগারু
+    bo: ཁུག་བྱི།
+    br: Kangourou
+    bs: Kengur
+    ca: cangur
+    cdo: Dâi-chṳ̄
+    chr: ᎤᏜᏩᏓ
+    chy: hóhkeehe koká'a'xema'haa'eotse
+    ckb: کەنگەر
+    cs: klokan
+    cv: Кенгуру
+    cy: Cangarŵ
+    da: Kænguru
+    de: Echte Kängurus
+    el: Καγκουρό
+    en: kangaroo
+    eo: kanguruo
+    es: canguro
+    et: känguru
+    eu: kanguru
+    fa: کانگورو
+    fi: kenguru
+    fj: Kaqaru
+    fr: kangourou
+    ga: cangarú
+    gl: Canguro
+    gn: Mykũpopo
+    gsw: Känguru
+    gu: કાંગારુ
+    hak: Thoi-chhú
+    haw: Kanakulū
+    he: קנגרו
+    hi: कंगारू
+    hif: Kangeroo
+    hr: Klokani
+    hsb: kenguru
+    ht: Kangourou
+    hu: kengurufélék
+    hy: ագեվազ
+    id: Kanguru
+    ig: Kangaroo
+    ilo: kanggaru
+    io: kanguruo
+    is: Kengúra
+    it: canguro
+    ja: カンガルー
+    jbo: kanguru
+    jv: Kanguru
+    ka: კენგურუსებრნი
+    kn: ಕಾಂಗರೂ
+    ko: 캥거루
+    ku: Kangrû
+    kw: Kangarou
+    la: Macropus
+    lad: Kanguro
+    lb: Känguruen
+    lbe: Кенгуру
+    lfn: Cangaru
+    lo: ໜູຖົງ
+    lt: Kengūra
+    lv: ķenguri
+    lzh: 袋鼠
+    mg: kangoroa
+    mi: kangarū
+    mk: Кенгур
+    ml: കാംഗരൂ
+    mn: Имж
+    mni: ꯀꯪꯒꯥꯔꯨ
+    ms: Kanggaru
+    my: သားပိုက်ကောင်
+    mzn: کانگرو
+    nan: Tāi-chhí
+    nb: kenguru
+    ne: कंगारु
+    nl: kangoeroes
+    nn: kenguruar
+    nv: Nahatʼeʼiitsoh
+    oc: Cangoró
+    or: କଙ୍ଗାରୁ
+    os: кенгуру
+    pa: ਕੰਗਾਰੂ
+    pl: Kangurowate
+    pnb: کینگرو
+    pt: canguru
+    qu: kanqaru
+    ro: cangur
+    ru: кенгуру
+    sa: कंगारू
+    sat: ᱠᱮᱝᱜᱟᱨᱩ
+    scn: Canguru
+    sco: kangaroo
+    se: keŋguru
+    sh: Klokani
+    shn: ၸိင်း
+    si: කැංගරුවෝ
+    sk: kengurovité
+    sl: kenguru
+    sm: Kāgalū
+    smj: kenguru
+    smn: keŋŋuru
+    sms: keŋŋuru
+    so: Kangaroo
+    sq: Kanguri
+    sr: кенгур
+    sr-ec: кенгур
+    srn: kanguru
+    su: Kangguru
+    sv: känguru
+    sw: Kangaruu
+    syl: ꠇꠦꠋꠉꠣꠞꠥ
+    ta: கங்காரு
+    te: కంగారూ
+    tg: Кенгуру
+    th: จิงโจ้
+    tl: kanggaro
+    to: Kangakalo
+    tok: soweli poki
+    tpi: Bikpela magani
+    tr: Kangurugiller
+    tt: көнгерә
+    ty: Kanguru
+    udm: Кенгуру
+    ug: خالتىلىق چاشقان
+    uk: кенгуру
+    uz: Kenguru
+    vi: Kangaroo
+    vls: Kangoeroe
+    vo: Kangur
+    war: kangaroo
+    wuu: 袋鼠
+    xal: Кенгуру
+    xmf: კენგურუ
+    yi: קענגורו
+    yo: Kangaru
+    yue: 袋鼠
+    za: Daesuj
+    zh: 袋鼠
+    zh-hant: 袋鼠
+    zu: IKhangaru
+aliases:
+- Bikpela magani
+- Cangaru
+- cangarú
+- Cangarŵ
+- Cangoró
+- cangur
+- canguro
+- canguru
+- Daesuj
+- Dâi-chṳ̄
+- Echte Kängurus
+- hóhkeehe koká'a'xema'haa'eotse
+- IKhangaru
+- Kanakulū
+- Kangakalo
+- Kangaroe
+- kangaroo
+- Kangarou
+- Kangaru
+- Kangaruu
+- kangarū
+- Kangeroo
+- kanggaro
+- Kanggaru
+- Kangguru
+- Kangoeroe
+- kangoeroes
+- kangoroa
+- kangourou
+- Kangrû
+- Kangur
+- Kanguri
+- Kanguro
+- Kangurowate
+- kanguru
+- Kangurugiller
+- kanguruo
+- kanqaru
+- Kaqaru
+- Kengur
+- kengurovité
+- kenguru
+- kenguruar
+- kengurufélék
+- Kengúra
+- Kengūra
+- kenquru
+- keŋguru
+- keŋŋuru
+- klokan
+- Klokani
+- känguru
+- Känguruen
+- Kænguru
+- Kāgalū
+- Macropus
+- Mykũpopo
+- Nahatʼeʼiitsoh
+- salta
+- Siung welang
+- soweli poki
+- Thoi-chhú
+- Tāi-chhí
+- ķenguri
+- Καγκουρό
+- Имж
+- кенгур
+- кенгуру
+- көнгерә
+- Көнгөрә
+- ագեվազ
+- קנגרו
+- קענגורו
+- خالتىلىق چاشقان
+- كنغر
+- کانگرو
+- کانگورو
+- کینگرو
+- کەنگەر
+- कंगारु
+- कंगारू
+- কেঙ্গেৰু
+- ক্যাংগারু
+- ਕੰਗਾਰੂ
+- કાંગારુ
+- କଙ୍ଗାରୁ
+- கங்காரு
+- కంగారూ
+- ಕಾಂಗರೂ
+- കാംഗരൂ
+- කැංගරුවෝ
+- จิงโจ้
+- ໜູຖົງ
+- ཁུག་བྱི།
+- သားပိုက်ကောင်
+- ၸိင်း
+- კენგურუ
+- კენგურუსებრნი
+- ካንጋሮ
+- ᎤᏜᏩᏓ
+- ᱠᱮᱝᱜᱟᱨᱩ
+- カンガルー
+- 袋鼠
+- ꠇꠦꠋꠉꠣꠞꠥ
+- ꯀꯪꯒꯥꯔꯨ
+- 캥거루
 ---
-
-
 # [[Kangaroo]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Kangaroo,5070208|WD~Kangaroo,5070208]] 

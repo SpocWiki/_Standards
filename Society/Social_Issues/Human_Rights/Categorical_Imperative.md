@@ -1,8 +1,102 @@
 ---
 has_id_wikidata: Q209681
+dv_has_:
+  name_:
+    bg: категоричен императив
+    bn: শর্তহীন বিধান
+    bs: Kategorički imperativ
+    ca: Imperatiu categòric
+    cs: kategorický imperativ
+    da: det kategoriske imperativ
+    de: kategorischer Imperativ
+    en: categorical imperative
+    eo: kategoria imperativo
+    es: imperativo categórico
+    et: kategooriline imperatiiv
+    eu: Inperatibo kategoriko
+    fa: امر مطلق
+    fi: kategorinen imperatiivi
+    fr: impératif catégorique
+    he: הצו הקטגורי
+    hi: निरपेक्ष आदेश
+    hr: kategorički imperativ
+    hy: կատեգորիկ իմպերատիվ
+    id: imperatif kategoris
+    is: skilyrðislausa skylduboðið
+    it: imperativo categorico
+    ja: 定言命法
+    ko: 정언 명령
+    ky: категориялык императив
+    lt: kategorinis imperatyvas
+    lv: kategoriskais imperatīvs
+    nb: det kategoriske imperativ
+    nl: categorische imperatief
+    oc: imperatiu categoric
+    pl: imperatyw kategoryczny
+    pt: imperativo categórico
+    ro: imperativ categoric
+    ru: категорический императив
+    scn: impirativu catigoricu
+    sh: kategorički imperativ
+    sk: kategorický imperatív
+    sr: kategorički imperativ
+    sr-ec: категорички императив
+    sr-el: kategorički imperativ
+    sv: kategoriska imperativet
+    tl: Imperatibong kategorikal
+    tr: kategorik buyruk
+    tt: категорик императив
+    uk: категоричний імператив
+    zh: 定言令式
+    zh-cn: 定言令式
+    zh-hans: 定言令式
+    zh-hant: 定言令式
+    zh-hk: 絕對律令
+    zh-sg: 定言令式
+    zh-tw: 絕對律令
+aliases:
+- categorical imperative
+- categorische imperatief
+- det kategoriske imperativ
+- Imperatibong kategorikal
+- imperatif kategoris
+- imperatiu categoric
+- Imperatiu categòric
+- imperativ categoric
+- imperativo categorico
+- imperativo categórico
+- imperatyw kategoryczny
+- impirativu catigoricu
+- impératif catégorique
+- Inperatibo kategoriko
+- kategooriline imperatiiv
+- kategoria imperativo
+- kategorický imperativ
+- kategorický imperatív
+- kategorik buyruk
+- kategorinen imperatiivi
+- kategorinis imperatyvas
+- kategorischer Imperativ
+- kategoriska imperativet
+- kategoriskais imperatīvs
+- Kategorički imperativ
+- skilyrðislausa skylduboðið
+- категорик императив
+- категоричен императив
+- категорический императив
+- категорички императив
+- категоричний імператив
+- категориялык императив
+- կատեգորիկ իմպերատիվ
+- הצו הקטגורי
+- امر مطلق
+- निरपेक्ष आदेश
+- শর্তহীন বিধান
+- 定言令式
+- 定言命法
+- 絕對律令
+- 정언 명령
 ---
-
-
 # [[Categorical_Imperative]] 
 
 ## #has_/text_of_/abstract 

@@ -1,27 +1,147 @@
 ---
 aliases:
-  - Freestyle_wrestling
-  - Freestyle_Wrestling
-  - Freestyle Wrestling
+- borroka libre
+- brīvā cīņa
+- Erkin kurash
+- Freestyle Wrestling
+- Freestyle_wrestling
+- Freistilringen
+- fristil
+- fristil-bryting
+- fristilsbrydning
+- gulat gaya bebas
+- hrvanje slobodnim stilom
+- laisvosios imtynės
+- liberstila luktado
+- llucha llibre olímpica
+- lluita lliure
+- lotta libera
+- lucha libre olímpica
+- lupte libere
+- luta livre olímpica
+- lutte libre
+- rokoborba prostega sloga
+- rvanje slobodnim stilom
+- serbest güreş
+- szabadfogású birkózás
+- sərbəst güləş
+- vabamaadlus
+- vapaapaini
+- vrijestijlworstelen
+- zapasy w stylu wolnym
+- zápas ve volném stylu
+- zápasenie voľným štýlom
+- ελεύθερη πάλη
+- вільна боротьба
+- вольная барацьба
+- вольная борьба
+- еркін күрес
+- ирекле көрәш
+- күрөш
+- көҥүл тустуу
+- свободна борба
+- сүлөөтэ барилдаан
+- уæгъдибар хъæбысхæст
+- чөлөөт бөх
+- Ազատ ոճի ըմբշամարտ
+- היאבקות חופשית
+- آزاد کشتی
+- آزاد گولش
+- المصارعة الحرة
+- کشتی آزاد
+- फ्रीस्टाइल कुश्ती
+- ফ্রিস্টাইল কুস্তি
+- ਫ੍ਰੀਸਟਾਇਲ ਕੁਸ਼ਤੀ
+- თავისუფალი ჭიდაობა
+- フリースタイルレスリング
+- 自由式摔角
+- 自由式摔跤
+- 프리스타일 레슬링
 has_id_wikidata: Q327223
 subclass_of: '[[_Standards/WikiData/WD~amateur_wrestling,838089]]'
 sport:
-  - '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-  - '[[_Standards/WikiData/WD~wrestling,42486]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~wrestling,42486]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
-  - '[[_Standards/WikiData/WD~freestyle_wrestler,135412793]]'
+- '[[_Standards/WikiData/WD~amateur_wrestler,12369333]]'
+- '[[_Standards/WikiData/WD~freestyle_wrestler,135412793]]'
 instance_of: '[[_Standards/WikiData/WD~wrestling_style,134396192]]'
 Wikidata_property:
-  - JWF Wrestlers Database person ID
-  - National Wrestling Hall of Fame wrestler ID
+- JWF Wrestlers Database person ID
+- National Wrestling Hall of Fame wrestler ID
 founded_by: '[[_Standards/WikiData/WD~British_Empire,8680]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FreestyleWrestling2.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wrestling%20Freestyle%20pictogram.svg
 Commons_category: Freestyle wrestling
 IPTC_NewsCode: mediatopic/20001099
+dv_has_:
+  name_:
+    ar: المصارعة الحرة
+    ast: llucha llibre olímpica
+    az: sərbəst güləş
+    azb: آزاد گولش
+    ba: ирекле көрәш
+    be: вольная барацьба
+    be-tarask: вольная барацьба
+    bg: свободна борба
+    bn: ফ্রিস্টাইল কুস্তি
+    bxr: сүлөөтэ барилдаан
+    ca: lluita lliure
+    cs: zápas ve volném stylu
+    da: fristilsbrydning
+    de: Freistilringen
+    el: ελεύθερη πάλη
+    en: freestyle wrestling
+    eo: liberstila luktado
+    es: lucha libre olímpica
+    et: vabamaadlus
+    eu: borroka libre
+    fa: کشتی آزاد
+    fi: vapaapaini
+    fr: lutte libre
+    he: היאבקות חופשית
+    hi: फ्रीस्टाइल कुश्ती
+    hr: hrvanje slobodnim stilom
+    hu: szabadfogású birkózás
+    hy: Ազատ ոճի ըմբշամարտ
+    id: gulat gaya bebas
+    it: lotta libera
+    ja: フリースタイルレスリング
+    ka: თავისუფალი ჭიდაობა
+    kk: еркін күрес
+    kk-cyrl: еркін күрес
+    ko: 프리스타일 레슬링
+    ky: күрөш
+    lt: laisvosios imtynės
+    lv: brīvā cīņa
+    mn: чөлөөт бөх
+    mzn: آزاد کشتی
+    nb: fristil-bryting
+    nl: vrijestijlworstelen
+    os: уæгъдибар хъæбысхæст
+    pa: ਫ੍ਰੀਸਟਾਇਲ ਕੁਸ਼ਤੀ
+    pl: zapasy w stylu wolnym
+    pt: luta livre olímpica
+    ro: lupte libere
+    ru: вольная борьба
+    sah: көҥүл тустуу
+    sk: zápasenie voľným štýlom
+    sl: rokoborba prostega sloga
+    sr: rvanje slobodnim stilom
+    sv: fristil
+    tr: serbest güreş
+    tt: ирекле көрәш
+    uk: вільна боротьба
+    uz: Erkin kurash
+    yue: 自由式摔角
+    zh: 自由式摔跤
+    zh-cn: 自由式摔跤
+    zh-hans: 自由式摔跤
+    zh-hant: 自由式摔角
+    zh-hk: 自由式摔角
+    zh-sg: 自由式摔角
+    zh-tw: 自由式摔角
 ---
-
 # [[Freestyle_Wrestling]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Freestyle_wrestling,327223|WD~Freestyle_wrestling,327223]] 

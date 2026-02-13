@@ -1,79 +1,105 @@
 ---
 aliases:
-  - Andrew_Lloyd_Webber
-  - Andrew Lloyd Webber
-  - Baron Lloyd-Webber
-  - Lloyd_Webber,Andrew
-  - Lloyd Webber,Andrew
+- Andreas Lloyd Webber
+- Andrew Lloyd Webber
+- Andrew_Lloyd_Webber
+- Baron Lloyd-Webber
+- Endru Lojd Veber
+- Endryu Lloyd Vebber
+- Endrū Loids Vebers
+- Lloyd Webber,Andrew
+- Lloyd_Webber,Andrew
+- Άντριου Λόιντ Βέμπερ
+- Андрю Лойд Уебър
+- Ендру Лојд Вебер
+- Ендрю Ллойд Веббер
+- Эндру Лойд Ўэбэр
+- Эндру Лойд Уэбер
+- Эндрю Ллойд Уэббер
+- Էնդրյու Լլոյդ Ուեբեր
+- אנדרו לויד ובר
+- ענדרו לויד וועבער
+- أندرو لويد ويبر
+- اندرو لويد ويبر
+- اندرو لوید وبر
+- ആൻഡ്രൂ ലോയ്ഡ് വെബ്ബർ
+- แอนดรูว์ ลอยด์ เวบเบอร์
+- ენდრიუ ლოიდ უებერი
+- アンドルー・ロイド・ウェバー
+- 安德魯·洛伊·韋伯
+- 安德鲁·劳埃德·韦伯
+- 安祖·萊特·韋巴
+- 安祖萊特韋伯
+- 앤드루 로이드 웨버
 has_id_wikidata: Q180975
 educated_at:
-  - '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
-  - '[[_Standards/WikiData/WD~Royal_College_of_Music,304985]]'
-  - '[[_Standards/WikiData/WD~Westminster_School,1341516]]'
-  - '[[_Standards/WikiData/WD~Westminster_Under_School,7989236]]'
-  - '[[_Standards/WikiData/WD~Amberfield_School,15179682]]'
+- '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
+- '[[_Standards/WikiData/WD~Royal_College_of_Music,304985]]'
+- '[[_Standards/WikiData/WD~Westminster_School,1341516]]'
+- '[[_Standards/WikiData/WD~Westminster_Under_School,7989236]]'
+- '[[_Standards/WikiData/WD~Amberfield_School,15179682]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~impresario,943995]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~impresario,943995]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Book_of_a_Musical,1784838]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Book_of_a_Musical,1784838]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
-  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Musical_Theater_Album,3113385]]'
-  - '[[_Standards/WikiData/WD~Society_of_London_Theatre_Special_Award,7552552]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Special_Class_Program,28445711]]'
-  - '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Royal_College_of_Music,99025668]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Musical_Theater_Album,3113385]]'
+- '[[_Standards/WikiData/WD~Society_of_London_Theatre_Special_Award,7552552]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Special_Class_Program,28445711]]'
+- '[[_Standards/WikiData/WD~Sitges_Grand_Honorary_Award,48781665]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Royal_College_of_Music,99025668]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Sarah_Brightman,151814]]'
-  - '[[_Standards/WikiData/WD~Madeleine_Gurdon,16194568]]'
-  - '[[_Standards/WikiData/WD~Sarah_Hugill,76251803]]'
+- '[[_Standards/WikiData/WD~Sarah_Brightman,151814]]'
+- '[[_Standards/WikiData/WD~Madeleine_Gurdon,16194568]]'
+- '[[_Standards/WikiData/WD~Sarah_Hugill,76251803]]'
 noble_title: '[[_Standards/WikiData/WD~baron,165503]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Jesus_Cristo_Superstar,242667]]'
-  - '[[_Standards/WikiData/WD~Starlight_Express,287281]]'
-  - '[[_Standards/WikiData/WD~Cats,337097]]'
-  - '[[_Standards/WikiData/WD~The_Phantom_of_the_Opera,382353]]'
+- '[[_Standards/WikiData/WD~Jesus_Cristo_Superstar,242667]]'
+- '[[_Standards/WikiData/WD~Starlight_Express,287281]]'
+- '[[_Standards/WikiData/WD~Cats,337097]]'
+- '[[_Standards/WikiData/WD~The_Phantom_of_the_Opera,382353]]'
 genre: '[[_Standards/WikiData/WD~rock_opera,253137]]'
 place_of_birth: '[[_Standards/WikiData/WD~Kensington,288781]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~agnosticism,288928]]'
+- '[[_Standards/WikiData/WD~agnosticism,288928]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Julian_Lloyd_Webber,319434]]'
+- '[[_Standards/WikiData/WD~Julian_Lloyd_Webber,319434]]'
 father: '[[_Standards/WikiData/WD~William_Lloyd_Webber,687061]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~The_Proscribed_Royalist,_1651,786513]]'
-  - "[[_Standards/WikiData/WD~London_the_Old_Horse_Guards_from_St_James's_Park,19660689]]"
+- '[[_Standards/WikiData/WD~The_Proscribed_Royalist,_1651,786513]]'
+- "[[_Standards/WikiData/WD~London_the_Old_Horse_Guards_from_St_James's_Park,19660689]]"
 discography: '[[_Standards/WikiData/WD~Andrew_Lloyd_Webber_discography,4757783]]'
 child:
-  - '[[_Standards/WikiData/WD~Imogen_Lloyd_Webber,6005671]]'
-  - '[[_Standards/WikiData/WD~Nick_Lloyd_Webber,47472191]]'
-  - '[[_Standards/WikiData/WD~Isabella_Lloyd_Webber,76251811]]'
-  - '[[_Standards/WikiData/WD~William_Lloyd_Webber,76251809]]'
+- '[[_Standards/WikiData/WD~Imogen_Lloyd_Webber,6005671]]'
+- '[[_Standards/WikiData/WD~Nick_Lloyd_Webber,47472191]]'
+- '[[_Standards/WikiData/WD~Isabella_Lloyd_Webber,76251811]]'
+- '[[_Standards/WikiData/WD~William_Lloyd_Webber,76251809]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 record_label: '[[_Standards/WikiData/WD~Sony_Classical,7562453]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Andrew,18042461]]'
+- '[[_Standards/WikiData/WD~Andrew,18042461]]'
 position_held:
-  - '[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]'
+- '[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Andrew%20Lloyd%20Webber%2C%20Baron%20Lloyd-Webber%2C%20KG.png
 Plex_person_key: 5d776835eb5d26001f1e0af2
 family_name: '[[_Standards/WikiData/WD~Lloyd_Webber,47472199]]'
@@ -85,17 +111,17 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 native_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Conservative_Party,9626]]'
+- '[[_Standards/WikiData/WD~Conservative_Party,9626]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_location:
-  - '[[_Standards/WikiData/WD~London,84]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 5
 social_media_followers:
-  - 237000
-  - 215363
-  - 286654
+- 237000
+- 215363
+- 286654
 P8189: 987007264638905171
 Europeana_entity: agent/base/147059
 Instagram_username: andrewlloydwebber
@@ -103,7 +129,7 @@ Facebook_username: AndrewLloydWebber
 Wolfram_Language_entity_code: Entity["MusicAct", "AndrewLloydWebber::f27r2"]
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/LLOD_UEBBER_ENDRYU.html
 TikTok_username:
-  - officialalw
+- officialalw
 X_Twitter_username: OfficialALW
 Libris_URI: rp356zl92fhkdfx
 name_in_native_language: Andrew Lloyd Webber
@@ -115,10 +141,90 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Angeles%2
 official_website: http://www.andrewlloydwebber.com/
 ISNI: 0000000120266779
 IPI_name_number:
-  - 00035392878
-  - 00135186578
+- 00035392878
+- 00135186578
+dv_has_:
+  name_:
+    an: Andrew Lloyd Webber
+    ar: أندرو لويد ويبر
+    arz: اندرو لويد ويبر
+    ast: Andrew Lloyd Webber
+    az: Endryu Lloyd Vebber
+    be: Эндру Лойд Уэбер
+    be-tarask: Эндру Лойд Ўэбэр
+    bg: Андрю Лойд Уебър
+    bs: Andrew Lloyd Webber
+    ca: Andrew Lloyd Webber
+    cs: Andrew Lloyd Webber
+    cy: Andrew Lloyd Webber
+    da: Andrew Lloyd Webber
+    de: Andrew Lloyd Webber
+    el: Άντριου Λόιντ Βέμπερ
+    en: Andrew Lloyd Webber
+    en-ca: Andrew Lloyd Webber
+    en-gb: Andrew Lloyd Webber
+    eo: Andrew Lloyd Webber
+    es: Andrew Lloyd Webber
+    et: Andrew Lloyd Webber
+    eu: Andrew Lloyd Webber
+    fa: اندرو لوید وبر
+    fi: Andrew Lloyd Webber
+    fr: Andrew Lloyd Webber
+    ga: Andrew Lloyd Webber
+    gl: Andrew Lloyd Webber
+    he: אנדרו לויד ובר
+    hr: Andrew Lloyd Webber
+    hu: Andrew Lloyd Webber
+    hy: Էնդրյու Լլոյդ Ուեբեր
+    id: Andrew Lloyd Webber
+    io: Andrew Lloyd Webber
+    is: Andrew Lloyd Webber
+    it: Andrew Lloyd Webber
+    ja: アンドルー・ロイド・ウェバー
+    ka: ენდრიუ ლოიდ უებერი
+    ko: 앤드루 로이드 웨버
+    la: Andreas Lloyd Webber
+    lt: Andrew Lloyd Webber
+    lv: Endrū Loids Vebers
+    mg: Andrew Lloyd Webber
+    ml: ആൻഡ്രൂ ലോയ്ഡ് വെബ്ബർ
+    ms: Andrew Lloyd Webber
+    mul: Andrew Lloyd Webber
+    nb: Andrew Lloyd Webber
+    nl: Andrew Lloyd Webber
+    nn: Andrew Lloyd Webber
+    oc: Andrew Lloyd Webber
+    pam: Andrew Lloyd Webber
+    pl: Andrew Lloyd Webber
+    pt: Andrew Lloyd Webber
+    pt-br: Andrew Lloyd Webber
+    ro: Andrew Lloyd Webber
+    ru: Эндрю Ллойд Уэббер
+    se: Andrew Lloyd Webber
+    sh: Andrew Lloyd Webber
+    sk: Andrew Lloyd Webber
+    sl: Andrew Lloyd Webber
+    sq: Andrew Lloyd Webber
+    sr: Ендру Лојд Вебер
+    sr-ec: Ендру Лојд Вебер
+    sr-el: Endru Lojd Veber
+    sv: Andrew Lloyd Webber
+    th: แอนดรูว์ ลอยด์ เวบเบอร์
+    tr: Andrew Lloyd Webber
+    uk: Ендрю Ллойд Веббер
+    vi: Andrew Lloyd Webber
+    war: Andrew Lloyd Webber
+    wuu: 安德鲁·劳埃德·韦伯
+    yi: ענדרו לויד וועבער
+    yue: 安祖萊特韋伯
+    zh: 安德鲁·劳埃德·韦伯
+    zh-cn: 安德鲁·劳埃德·韦伯
+    zh-hans: 安德鲁·劳埃德·韦伯
+    zh-hant: 安德魯·洛伊·韋伯
+    zh-hk: 安祖·萊特·韋巴
+    zh-sg: 安德鲁·劳埃德·韦伯
+    zh-tw: 安德魯·洛伊·韋伯
 ---
-
 # [[Lloyd_Webber,Andrew]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Andrew_Lloyd_Webber,180975|WD~Andrew_Lloyd_Webber,180975]] 

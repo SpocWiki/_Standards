@@ -1,35 +1,137 @@
 ---
-has_time_stopped: 1521-01-01 
+has_time_stopped: 1521-01-01
 aliases:
-  - Maya civilization
-  - Maya_Civilization
-  - Maya Civilization
+- Ceblizaçon maia
+- civilisation maya
+- civilització maia
+- Civilizacion maia
+- Civilización maia
+- civilizația maiașă
+- Civilizimi i Majëve
+- Cultura maya
+- Cultura Mayana
+- cywilizacja Majów
+- Gschicht vo de Maya
+- Gwareiddiad y Maya
+- Kabihasnang Maya
+- Kaum Maya
+- Maia
+- Maia zibilizazioa
+- Maiade tsivilisatsioon
+- Maias
+- Maiju civilizācija
+- Maja
+- maja civilizáció
+- Majaa civilizo
+- Majai
+- Maje
+- Maji
+- Majē
+- maya
+- Maya bûn-bêng
+- Maya ceevilization
+- Maya civilisation
+- Maya civilization
+- Maya hawaykawsay
+- Maya Indijanci
+- Maya sabhyata
+- Maya sivilizatsiyasi
+- Maya tsivilizatsiyası
+- Maya uygarlığı
+- Maya ùng-mìng
+- Maya-kuéra
+- Mayaa
+- Mayacultuur
+- mayakulturen
+- mayar
+- mayaríkið
+- Mayas
+- Maya_Civilization
+- mayojen korkeakulttuuri
+- Mayská civilizace
+- Mayská civilizácia
+- Mayya sivilizasiyası
+- Na Máighigh
+- olde majabeskaving
+- Peradaban Maya
+- Sevenadurezh maya
+- Sibilisasyon Maya
+- Sivilizasiôna maia
+- Siviltà Maya
+- Sìobhaltas nam Maya
+- Tziviltade Maya
+- Văn minh Maya
+- Μάγια
+- Мајанска цивилизација
+- Майя
+- Майя (цивилизаци)
+- Майя соёл
+- Майя цивилизациясе
+- Майя өркениеті
+- Мая
+- Цивилизација Маја
+- Цывілізацыя майя
+- Մայաների քաղաքակրթություն
+- Մայաներու քաղաքակրթութիւնը
+- מאיא ציוויליזאציע
+- מאיה
+- تمدن مایا
+- شارستانیەتیی مایا
+- مايا
+- مايا تمدؤن
+- مايا تمدن
+- مايا تهذيب
+- مایا
+- مایا تہذیب
+- مایا رہتل
+- ماییا مدنیتی
+- माया लहना
+- माया संस्कृती
+- माया सभ्यता
+- মায়া সভ্যতা
+- ਮਾਇਆ ਸੱਭਿਅਤਾ
+- ମାୟା ସଭ୍ୟତା
+- மாயா நாகரிகம்
+- మయ నాగరికత
+- ಮಾಯಾ ನಾಗರಿಕತೆ
+- മായൻ സംസ്കാരം
+- මායා ශිෂ්ටාචාරය
+- อารยธรรมมายา
+- གནའ་རབས་མ་ཡ།
+- မာယာ ယဉ်ကျေးမှု လူ့အဖွဲ့အစည်း
+- მაიას ცივილიზაცია
+- მაიაშ ცივილიზაცია
+- マヤ文明
+- 玛雅文明
+- 瑪雅文明
+- 馬雅
+- 마야 문명
 has_id_wikidata: Q28567
 location_of_formation: '[[_Standards/WikiData/WD~Yucatan_Peninsula,130978]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~city_state,133442]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Musée_du_quai_Branly,167863]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - "[[_Standards/WikiData/WD~Musée_de_l'Homme,670268]]"
+- '[[_Standards/WikiData/WD~Musée_du_quai_Branly,167863]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- "[[_Standards/WikiData/WD~Musée_de_l'Homme,670268]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Guatemala,15884842]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Mexico,16917942]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Mesoamerica,21830366]]'
+- '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
+- '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
+- '[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]'
+- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
+- '[[_Standards/WikiData/WD~WikiProject_Guatemala,15884842]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mexico,16917942]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mesoamerica,21830366]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Maya,9457439]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Maya_civilization,11881874]]'
 studied_by: '[[_Standards/WikiData/WD~Maya_studies,12771257]]'
 economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Maya_civilization,16242103]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~group,16887380]]'
-  - '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-  - '[[_Standards/WikiData/WD~civilization,8432]]'
+- '[[_Standards/WikiData/WD~group,16887380]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
+- '[[_Standards/WikiData/WD~civilization,8432]]'
 replaced_by: '[[_Standards/WikiData/WD~Kingdom_of_New_Spain,20978063]]'
 culture: '[[_Standards/WikiData/WD~Maya_culture,25590327]]'
 continent: '[[_Standards/WikiData/WD~Central_America,27611]]'
@@ -42,8 +144,143 @@ Commons_category: Maya civilization
 Krugosvet_article_archived_: narody-i-yazyki/maiya
 dissolved_abolished_or_demolished_date: 1521-01-01T00:00:00Z
 OpenStreetMap_tag: historic:civilization=mayan
+dv_has_:
+  name_:
+    af: Maya
+    an: Cultura maya
+    ar: مايا
+    ary: مايا
+    as: মায়া সভ্যতা
+    ast: Cultura maya
+    az: Mayya sivilizasiyası
+    azb: ماییا مدنیتی
+    ba: Майя
+    bar: Gschicht vo de Maya
+    be: Цывілізацыя майя
+    be-tarask: Мая
+    bg: Мая
+    bn: মায়া সভ্যতা
+    bo: གནའ་རབས་མ་ཡ།
+    br: Sevenadurezh maya
+    bs: Maje
+    bxr: Майя соёл
+    ca: civilització maia
+    cdo: Maya ùng-mìng
+    ce: Майя (цивилизаци)
+    ckb: شارستانیەتیی مایا
+    crh: Maya tsivilizatsiyası
+    cs: Mayská civilizace
+    cy: Gwareiddiad y Maya
+    da: maya
+    de: Maya
+    de-ch: Maya
+    el: Μάγια
+    en: Maya civilization
+    en-ca: Maya civilization
+    en-gb: Maya civilisation
+    eo: Majaa civilizo
+    es: cultura maya
+    et: Maiade tsivilisatsioon
+    eu: Maia zibilizazioa
+    fa: تمدن مایا
+    fi: mayojen korkeakulttuuri
+    fo: mayaríkið
+    fr: civilisation maya
+    frr: Maya
+    ga: Na Máighigh
+    gd: Sìobhaltas nam Maya
+    gl: Civilización maia
+    glk: مايا تمدؤن
+    gn: Maya-kuéra
+    gsw: Maya
+    he: מאיה
+    hi: माया सभ्यता
+    hif: Maya sabhyata
+    hr: Maya Indijanci
+    hu: maja civilizáció
+    hy: Մայաների քաղաքակրթություն
+    hyw: Մայաներու քաղաքակրթութիւնը
+    ia: Cultura Maya
+    id: Peradaban Maya
+    io: Maya
+    is: mayar
+    it: maya
+    ja: マヤ文明
+    ka: მაიას ცივილიზაცია
+    kbp: Mayaa
+    kk: Майя өркениеті
+    kn: ಮಾಯಾ ನಾಗರಿಕತೆ
+    ko: 마야 문명
+    la: Cultura Mayana
+    lad: Mayas
+    lb: Maya
+    lfn: Maia
+    lld: Maya
+    lt: Majai
+    lv: Maiju civilizācija
+    lzh: 馬雅
+    mg: Sivilizasiôna maia
+    mk: Мајанска цивилизација
+    ml: മായൻ സംസ്കാരം
+    mn: Майя
+    mr: माया संस्कृती
+    ms: Kaum Maya
+    mt: Maja
+    mwl: Ceblizaçon maia
+    my: မာယာ ယဉ်ကျေးမှု လူ့အဖွဲ့အစည်း
+    mzn: مایا
+    nan: Maya bûn-bêng
+    nb: mayakulturen
+    nds: Maya
+    nds-nl: olde majabeskaving
+    new: माया लहना
+    nl: Mayacultuur
+    nn: mayakulturen
+    oc: Civilizacion maia
+    or: ମାୟା ସଭ୍ୟତା
+    pa: ਮਾਇਆ ਸੱਭਿਅਤਾ
+    pl: cywilizacja Majów
+    pms: Siviltà Maya
+    pnb: مایا رہتل
+    ps: مايا تمدن
+    pt: Maias
+    pt-br: Maias
+    qu: Maya hawaykawsay
+    ro: civilizația maiașă
+    ru: Майя
+    sc: Tziviltade Maya
+    sco: Maya ceevilization
+    sd: مايا تهذيب
+    sgs: Majē
+    sh: Maya
+    si: මායා ශිෂ්ටාචාරය
+    sk: Mayská civilizácia
+    sl: Maji
+    sq: Civilizimi i Majëve
+    sr: Цивилизација Маја
+    stq: Maya
+    su: Peradaban Maya
+    sv: mayakulturen
+    sw: Maya
+    ta: மாயா நாகரிகம்
+    te: మయ నాగరికత
+    th: อารยธรรมมายา
+    tl: Kabihasnang Maya
+    tr: Maya uygarlığı
+    tt: Майя цивилизациясе
+    uk: Мая
+    ur: مایا تہذیب
+    uz: Maya sivilizatsiyasi
+    vec: Maya
+    vi: Văn minh Maya
+    wa: Maya
+    war: Sibilisasyon Maya
+    wuu: 玛雅文明
+    xmf: მაიაშ ცივილიზაცია
+    yi: מאיא ציוויליזאציע
+    yue: 瑪雅文明
+    zh: 瑪雅文明
 ---
-
 # [[Maya_Civilization]] 
 
 #is_/same_as :: [[WD~Maya_civilization,28567]] 

@@ -1,26 +1,139 @@
 ---
 aliases:
+- angkerap
+- Chikuwo
+- dominanta
+- Mod
+- moda
+- Modd
+- mode
+- Modi
+- Modi (Takwimu)
+- Modu
+- Modus
+- Modus (statistika)
+- Mood
+- moodi
+- módusz
+- plejoftanto
+- tau tānui
+- Typetal
+- typetall
+- typvärde
+- Tíðasta gildi
+- επικρατούσα τιμή
+- Мод
+- мода
+- мода, статыстыка
+- Модус
+- մոդա
+- שכיח
+- باو
+- مد
+- منوال
+- बहुलक
+- প্রচুরক
+- முகடு
+- මාතය (සංඛ්යාතය)
+- ฐานนิยม
+- 众数
+- 众数 (数学)
+- 最頻値
+- 眾數
+- 최빈값
 has_id_wikidata: Q188224
 different_from:
-  - "[[_Standards/WikiData/WD~Dominanta,226289]]"
-  - "[[_Standards/WikiData/WD~mode_of_probability_mass_function,112567924]]"
-  - "[[_Standards/WikiData/WD~mode_of_probability_density_function,112577838]]"
+- '[[_Standards/WikiData/WD~Dominanta,226289]]'
+- '[[_Standards/WikiData/WD~mode_of_probability_mass_function,112567924]]'
+- '[[_Standards/WikiData/WD~mode_of_probability_density_function,112577838]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~central_tendency,734219]]"
-  - "[[_Standards/WikiData/WD~Q65169764,65169764]]"
-  - "[[_Standards/WikiData/WD~local_mode,85900945]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~type,21146257]]"
+- '[[_Standards/WikiData/WD~central_tendency,734219]]'
+- '[[_Standards/WikiData/WD~Q65169764,65169764]]'
+- '[[_Standards/WikiData/WD~local_mode,85900945]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
 Wikidata_property: mode of a probability distribution
-facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bar%20chart%20mode%2001.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Moda.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Moda.ogg
 UMLS_CUI: C1705738
 Commons_category: Mode (statistics)
+dv_has_:
+  name_:
+    an: Moda
+    ar: منوال
+    be: мода, статыстыка
+    be-tarask: мода
+    bg: Мода
+    bn: প্রচুরক
+    bs: Modus
+    ca: moda
+    ckb: باو
+    cs: modus
+    cy: Modd
+    da: Typetal
+    de: Modus
+    el: επικρατούσα τιμή
+    en: mode
+    eo: plejoftanto
+    es: moda
+    et: Mood
+    eu: Moda
+    fa: مد
+    fi: moodi
+    fr: mode
+    gl: Moda
+    he: שכיח
+    hi: बहुलक
+    hu: módusz
+    hy: մոդա
+    id: Modus (statistika)
+    is: Tíðasta gildi
+    it: moda
+    ja: 最頻値
+    ko: 최빈값
+    lt: moda
+    lv: Moda
+    mi: tau tānui
+    mk: Модус
+    ms: angkerap
+    nb: typetall
+    nl: modus
+    nn: typetal
+    pl: dominanta
+    pt: moda
+    ru: мода
+    scn: Modu
+    sh: Modus
+    si: මාතය (සංඛ්යාතය)
+    sk: Modus
+    sl: Modus
+    sn: Chikuwo
+    sq: Modi
+    sr: Modus
+    sr-ec: Модус
+    sr-el: Modus
+    sv: typvärde
+    sw: Modi (Takwimu)
+    ta: முகடு
+    tg: Мод
+    th: ฐานนิยม
+    tr: Mod
+    udm: мода
+    uk: мода
+    vi: Mode
+    wuu: 众数 (数学)
+    yue: 眾數
+    zh: 眾數
+    zh-cn: 众数
+    zh-hans: 众数
+    zh-hant: 眾數
+    zh-hk: 眾數
+    zh-sg: 众数
+    zh-tw: 眾數
 ---
-
 # [[Mode]] 
 
 #is_/similar_to :: [[Probability/Mean|Mean]] 

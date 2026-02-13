@@ -1,11 +1,49 @@
 ---
 aliases:
-  - Improvisational theatre
-  - improvisation
-  - improv
-  - impro
-  - Improvisational_Theatre
-  - Improvisational Theatre
+- divadelní improvizace
+- doğaçlama tiyatro
+- impro
+- improteater
+- improv
+- improvisaatioteatteri
+- improvisació teatral
+- Improvisasieteater
+- improvisasjonsteater
+- improvisatietheater
+- improvisation
+- improvisation théâtrale
+- Improvisational theatre
+- Improvisational_Theatre
+- Improvisationsteater
+- Improvisationstheater
+- Improvizacijsko gledališče
+- Improvizaciono pozorište
+- Improvizita teatro
+- Improvizācijas teātris
+- improvvisazione teatrale
+- Inprobisazio-antzerki
+- Kịch ứng khẩu
+- rögtönző színház
+- Teatr improwizowany
+- teatro de improvisação
+- teatro improvisacional
+- Teatro spontan
+- teatru de improvizație
+- theatr byrfyfyr
+- αυτοσχεδιαστικό θέατρο
+- театр імпровізації
+- театр импровизации
+- тэатар імправізацыі
+- Իմպրովիզացիայի թատրոն
+- תיאטרון אילתורים
+- تئاتر بداهه
+- مسرح ارتجالي
+- 即兴剧场
+- 即兴喜剧
+- 即興劇
+- 即興劇場
+- 即興喜劇
+- 즉흥극
 has_id_wikidata: Q1140700
 instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
 subclass_of: '[[_Standards/WikiData/WD~theatre_art,11635]]'
@@ -13,8 +51,52 @@ OmegaWiki_Defined_Meaning: 975856
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-improvisation%20th%C3%A9%C3%A2trale.wav
 Commons_category: Improvisational theatre
 Library_of_Congress_Classification: PN2071.I5
+dv_has_:
+  name_:
+    af: Improvisasieteater
+    ar: مسرح ارتجالي
+    be-tarask: тэатар імправізацыі
+    ca: improvisació teatral
+    cs: divadelní improvizace
+    cy: theatr byrfyfyr
+    da: Improvisationsteater
+    de: Improvisationstheater
+    el: αυτοσχεδιαστικό θέατρο
+    en: improvisational theatre
+    eo: Improvizita teatro
+    es: teatro improvisacional
+    et: improteater
+    eu: Inprobisazio-antzerki
+    fa: تئاتر بداهه
+    fi: improvisaatioteatteri
+    fr: improvisation théâtrale
+    he: תיאטרון אילתורים
+    hu: rögtönző színház
+    hy: Իմպրովիզացիայի թատրոն
+    it: improvvisazione teatrale
+    ja: 即興劇
+    ko: 즉흥극
+    lfn: Teatro spontan
+    lv: Improvizācijas teātris
+    nb: improvisasjonsteater
+    nl: improvisatietheater
+    pl: Teatr improwizowany
+    pt: teatro de improvisação
+    ro: teatru de improvizație
+    ru: театр импровизации
+    sl: Improvizacijsko gledališče
+    sr: Improvizaciono pozorište
+    sv: Improvisationsteater
+    tr: doğaçlama tiyatro
+    uk: театр імпровізації
+    vi: Kịch ứng khẩu
+    wuu: 即兴剧场
+    yue: 即興劇
+    zh: 即興劇場
+    zh-cn: 即兴喜剧
+    zh-hans: 即兴喜剧
+    zh-hant: 即興喜劇
 ---
-
 # [[Improvisational_Theatre]] 
 
 #is_/same_as :: [[WD~Improvisational_theatre,1140700]] 

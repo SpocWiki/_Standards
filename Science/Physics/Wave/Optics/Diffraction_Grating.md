@@ -1,17 +1,121 @@
 ---
 aliases:
+- diffraction grating
+- diffraktionsgitter
+- Diffraktivt gitter
+- difrakcinė gardelė
+- Difraksion panjara
+- difrakta krado
+- Difraktsioonivõre
+- Difrakzio sare
+- difrakční mřížka
+- Dïfrakcïyalıq tor
+- elhajlási rács
+- Gitter i optikk
+- Hila
+- Kırınım ağı
+- Lưới nhiễu xạ
+- optická mriežka
+- optisches Gitter
+- Optička rešetka
+- parutan belauan
+- red de difracción
+- rede de difraición
+- Reticolo di diffrazione
+- rețea de difracție
+- réseau de diffraction optique
+- siatka dyfrakcyjna
+- tralie
+- uklonska mrežica
+- Xarxa de difracció
+- дифракційна ґратка
+- дифракциона решетка
+- Дифракционна решетка
+- дифракционная решётка
+- Дифракциялық тор
+- дыфракцыйная рашотка
+- Դիֆրակցիոն ցանց
+- סריג עקיפה
+- توری پراش
+- درزەکی لادان
+- دىيفراكتسىييالىق تور
+- محزز الحيود
+- डिफ्रेक्शन ग्रेटिंग
+- व्याभङ्गकटकटापयति
+- விளிம்பு விளைவு கீற்றணி
+- డైఫ్రాక్షన్ గ్రేటింగ్
+- ವಿವರ್ತನೆ ದರ್ಜೆ
+- 回折格子
+- 繞射光柵
+- 衍射光栅
+- 회절격자
 has_id_wikidata: Q653294
 subclass_of:
-  - "[[_Standards/WikiData/WD~optical_system,2920313]]"
-  - "[[_Standards/WikiData/WD~optical_component,65037298]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~grating,56304412]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[_Standards/WikiData/WD~optical_system,2920313]]'
+- '[[_Standards/WikiData/WD~optical_component,65037298]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~grating,56304412]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mi>sin</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><msub><mi>&#x03B1;</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mi>n</mi><mi>&#x03BB;</mi></mstyle></mrow></math>
-Dewey_Decimal_Classification_works_and_editions_: "535.420284"
+Dewey_Decimal_Classification_works_and_editions_: 535.420284
 Commons_category: Diffraction gratings
+dv_has_:
+  name_:
+    ar: محزز الحيود
+    ast: rede de difraición
+    be: дыфракцыйная рашотка
+    be-tarask: дыфракцыйная рашотка
+    bg: Дифракционна решетка
+    ca: Xarxa de difracció
+    ckb: درزەکی لادان
+    cs: difrakční mřížka
+    da: Diffraktivt gitter
+    de: optisches Gitter
+    en: diffraction grating
+    eo: difrakta krado
+    es: red de difracción
+    et: Difraktsioonivõre
+    eu: Difrakzio sare
+    fa: توری پراش
+    fi: Hila
+    fr: réseau de diffraction optique
+    he: סריג עקיפה
+    hi: डिफ्रेक्शन ग्रेटिंग
+    hr: Optička rešetka
+    hu: elhajlási rács
+    hy: Դիֆրակցիոն ցանց
+    it: Reticolo di diffrazione
+    ja: 回折格子
+    kk: Дифракциялық тор
+    kk-arab: دىيفراكتسىييالىق تور
+    kk-cyrl: Дифракциялық тор
+    kk-latn: Dïfrakcïyalıq tor
+    kn: ವಿವರ್ತನೆ ದರ್ಜೆ
+    ko: 회절격자
+    lt: difrakcinė gardelė
+    ms: parutan belauan
+    nl: tralie
+    nn: Gitter i optikk
+    pl: siatka dyfrakcyjna
+    ro: rețea de difracție
+    ru: дифракционная решётка
+    sa: व्याभङ्गकटकटापयति
+    sk: optická mriežka
+    sl: uklonska mrežica
+    sr: дифракциона решетка
+    sv: diffraktionsgitter
+    ta: விளிம்பு விளைவு கீற்றணி
+    te: డైఫ్రాక్షన్ గ్రేటింగ్
+    tr: Kırınım ağı
+    uk: дифракційна ґратка
+    uz: Difraksion panjara
+    vi: Lưới nhiễu xạ
+    yue: 繞射光柵
+    zh: 衍射光栅
+    zh-hans: 衍射光栅
+    zh-hant: 繞射光柵
+    zh-hk: 繞射光柵
 ---
-
 # [[Diffraction_Grating]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Diffraction_grating,653294|WD~Diffraction_grating,653294]] 

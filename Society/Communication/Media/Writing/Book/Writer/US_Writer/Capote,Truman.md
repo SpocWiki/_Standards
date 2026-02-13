@@ -1,44 +1,72 @@
 ---
 aliases:
-  - Truman Garcia Capote
-  - Truman Streckfus Persons
-  - Capote,Truman
+- Capote,Truman
+- Truman Capote
+- Truman Garcia Capote
+- Truman Kapote
+- Truman Streckfus Persons
+- Trumen Kapote
+- Trūmens Kapote
+- Τρούμαν Καπότε
+- Труман Капоте
+- Труман Капоти
+- Труман Капоці
+- Трумен Капоте
+- Трумэн Капотэ
+- Թրումեն Կապոտե
+- טרומן קפוטה
+- ترومان كابوتى
+- ترومان كابوتي
+- ترومان کاپۆت
+- ترومن کاپوتی
+- ट्रूमैन कैपोट
+- ট্রুম্যান ক্যাপোটি
+- ট্ৰুমেন কেপোট
+- ਟਰੂਮੈਨ ਕਪੋਟੀ
+- ทรูแมน คาโพตี
+- ကာပို့တီ ထရူးမင်း
+- ტრუმენ კაპოტე
+- トルーマン・カポーティ
+- 杜鲁门·卡波特
+- 楚門·卡波提
+- 楚門·柯波帝
+- 트루먼 커포티
 has_id_wikidata: Q134180
 subject_has_role: '[[_Standards/WikiData/WD~eponym,204335]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 genre: '[[_Standards/WikiData/WD~Southern_Gothic,276709]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Breakfast_at_Tiffany's,849930]]"
-  - '[[_Standards/WikiData/WD~In_Cold_Blood,1142887]]'
+- "[[_Standards/WikiData/WD~Breakfast_at_Tiffany's,849930]]"
+- '[[_Standards/WikiData/WD~In_Cold_Blood,1142887]]'
 cause_of_death: '[[_Standards/WikiData/WD~liver_failure,970208]]'
 place_of_burial: '[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Dwight_School,5318230]]'
-  - '[[_Standards/WikiData/WD~Greenwich_High_School,5604850]]'
+- '[[_Standards/WikiData/WD~Dwight_School,5318230]]'
+- '[[_Standards/WikiData/WD~Greenwich_High_School,5604850]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
 family_name: '[[_Standards/WikiData/WD~Capote,36876743]]'
 given_name: '[[_Standards/WikiData/WD~Truman,55560131]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
-  - '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
-  - '[[_Standards/WikiData/WD~film_acting,115160932]]'
-  - '[[_Standards/WikiData/WD~journalism,11030]]'
+- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
+- '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
+- '[[_Standards/WikiData/WD~film_acting,115160932]]'
+- '[[_Standards/WikiData/WD~journalism,11030]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -64,12 +92,110 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capo
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capote%20Historical%20Marker%20in%20Monroeville%2C%20Alabama.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Truman%20Capote%20signature.svg
 ISNI:
-  - 0000000121326091
-  - 0000000368641755
+- 0000000121326091
+- 0000000368641755
 IPI_name_number: 00005108336
 P1015: 90053007
+dv_has_:
+  name_:
+    af: Truman Capote
+    an: Truman Capote
+    ar: ترومان كابوتي
+    arz: ترومان كابوتى
+    as: ট্ৰুমেন কেপোট
+    ast: Truman Capote
+    ay: Truman Capote
+    az: Trumen Kapote
+    azb: ترومن کاپوتی
+    be: Трумэн Капотэ
+    be-tarask: Труман Капоці
+    bg: Труман Капоти
+    bn: ট্রুম্যান ক্যাপোটি
+    bs: Truman Capote
+    ca: Truman Capote
+    ckb: ترومان کاپۆت
+    cs: Truman Capote
+    cy: Truman Capote
+    da: Truman Capote
+    de: Truman Capote
+    el: Τρούμαν Καπότε
+    en: Truman Capote
+    en-ca: Truman Capote
+    en-gb: Truman Capote
+    eo: Truman Capote
+    es: Truman Capote
+    et: Truman Capote
+    eu: Truman Capote
+    fa: ترومن کاپوتی
+    fi: Truman Capote
+    fo: Truman Capote
+    fr: Truman Capote
+    fy: Truman Capote
+    ga: Truman Capote
+    gl: Truman Capote
+    he: טרומן קפוטה
+    hi: ट्रूमैन कैपोट
+    hr: Truman Capote
+    hu: Truman Capote
+    hy: Թրումեն Կապոտե
+    id: Truman Capote
+    io: Truman Capote
+    is: Truman Capote
+    it: Truman Capote
+    ja: トルーマン・カポーティ
+    ka: ტრუმენ კაპოტე
+    ko: 트루먼 커포티
+    ku: Truman Capote
+    ky: Труман Капоте
+    la: Truman Capote
+    li: Truman Capote
+    lt: Truman Capote
+    lv: Trūmens Kapote
+    mg: Truman Capote
+    mk: Труман Капоти
+    mul: Truman Capote
+    my: ကာပို့တီ ထရူးမင်း
+    nan: Truman Capote
+    nb: Truman Capote
+    nl: Truman Capote
+    nn: Truman Capote
+    oc: Truman Capote
+    pa: ਟਰੂਮੈਨ ਕਪੋਟੀ
+    pam: Truman Capote
+    pap: Truman Capote
+    pl: Truman Capote
+    pt: Truman Capote
+    pt-br: Truman Capote
+    qu: Truman Capote
+    ro: Truman Capote
+    ru: Трумен Капоте
+    sco: Truman Capote
+    se: Truman Capote
+    sh: Truman Capote
+    sk: Truman Capote
+    sl: Truman Capote
+    sq: Truman Capote
+    sr: Труман Капоте
+    sr-ec: Труман Капоте
+    sr-el: Truman Kapote
+    sv: Truman Capote
+    th: ทรูแมน คาโพตี
+    tr: Truman Capote
+    uk: Трумен Капоте
+    vi: Truman Capote
+    war: Truman Capote
+    wuu: 杜鲁门·卡波特
+    xmf: ტრუმენ კაპოტე
+    yo: Truman Capote
+    yue: 楚門·卡波提
+    zh: 杜鲁门·卡波特
+    zh-cn: 杜鲁门·卡波特
+    zh-hans: 杜鲁门·卡波特
+    zh-hant: 楚門·柯波帝
+    zh-hk: 楚門·卡波提
+    zh-sg: 杜鲁门·卡波特
+    zh-tw: 楚門·卡波提
 ---
-
 # [[Capote,Truman]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Truman_Capote,134180|WD~Truman_Capote,134180]]  

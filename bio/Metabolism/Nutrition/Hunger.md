@@ -1,30 +1,222 @@
 ---
 aliases:
+- 3k)m
+- Aclıq
+- alkis
+- Awtja
+- Açlık
+- badošanās
+- Bads
+- Baŵa lofo
+- d)
+- faim
+- Fam
+- fame
+- fames
+- Fami
+- Faṁ
+- foame
+- fome
+- Fwin
+- Gaajo
+- gana
+- Glad
+- Gose
+- Grangou
+- Gutom
+- głód
+- H
+- hambre
+- hlad
+- honger
+- hunger
+- Hungro
+- Hungur
+- kelaparan
+- kokatew
+- Kom
+- lakota
+- malsato
+- Nzara
+- nälg
+- nälkä
+- ocras
+- sult
+- svolt
+- Uria
+- Yarqay
+- Yunwa
+- Zong
+- éhezés
+- Ñɔɔsɩ
+- đói
+- πείνα
+- ач булу
+- Ачка болуу
+- Аччыктааһын
+- глад
+- голад
+- голод
+- голодание
+- Гуруснагӣ
+- רעב
+- آجلیق
+- برسێتی
+- بک
+- بھوک
+- جوع
+- ويشتايي
+- گرسنگی
+- भूक
+- भूख
+- ক্ষুধা
+- ਭੁੱਖ
+- ఆకలి
+- ಹಸಿವು
+- വിശപ്പ്
+- කුසගින්න
+- ᠣᠮᡳᡥᠣᠨ
+- ụnwụ
+- 肚餓
+- 飢え
+- 飢餓
+- 饥饿
+- 배고픔
 has_id_wikidata: Q165947
-has_effect: "[[_Standards/WikiData/WD~eating,213449]]"
+has_effect: '[[_Standards/WikiData/WD~eating,213449]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_fitness,309252]]"
-  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-  - "[[_Standards/WikiData/WD~sensation,3955369]]"
+- '[[_Standards/WikiData/WD~physical_fitness,309252]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~sensation,3955369]]'
 different_from:
-  - "[[_Standards/WikiData/WD~starvation,853930]]"
-  - "[[_Standards/WikiData/WD~hunger,3535686]]"
-  - "[[_Standards/WikiData/WD~The_Hunger,7740990]]"
-  - "[[_Standards/WikiData/WD~Glad,10505172]]"
+- '[[_Standards/WikiData/WD~starvation,853930]]'
+- '[[_Standards/WikiData/WD~hunger,3535686]]'
+- '[[_Standards/WikiData/WD~The_Hunger,7740990]]'
+- '[[_Standards/WikiData/WD~Glad,10505172]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-measurement_scale: "[[_Standards/WikiData/WD~Global_Hunger_Index,1421372]]"
-opposite_of: "[[_Standards/WikiData/WD~satiety,1562684]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Sustainable_Development_Goal_2,50215926]]"
-OmegaWiki_Defined_Meaning: "8037"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+measurement_scale: '[[_Standards/WikiData/WD~Global_Hunger_Index,1421372]]'
+opposite_of: '[[_Standards/WikiData/WD~satiety,1562684]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Sustainable_Development_Goal_2,50215926]]'
+OmegaWiki_Defined_Meaning: 8037
 subreddit: Hunger
 Commons_category: Hunger
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Hunger2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starvation%20image%20from%20F%C3%A4derneslandet%201867.jpg
 Iconclass_notation: 41C119
+dv_has_:
+  name_:
+    af: Honger
+    ak: 3k)m
+    ar: جوع
+    arz: جوع
+    ast: fame
+    atj: kokatew
+    ay: Awtja
+    az: Aclıq
+    azb: آجلیق
+    bcl: Gutom
+    be: голад
+    be-tarask: голад
+    bg: глад
+    bn: ক্ষুধা
+    bs: Glad
+    ca: gana
+    ckb: برسێتی
+    cs: hlad
+    da: sult
+    de: Hunger
+    ee: d)
+    el: πείνα
+    eml: Faṁ
+    en: hunger
+    en-ca: hunger
+    en-gb: hunger
+    en-us: hunger
+    eo: malsato
+    es: hambre
+    et: nälg
+    eu: Gose
+    fa: گرسنگی
+    fi: nälkä
+    fr: faim
+    ga: ocras
+    gl: fame
+    glk: ويشتايي
+    ha: Yunwa
+    he: רעב
+    hi: भूख
+    hr: glad
+    ht: Grangou
+    hu: éhezés
+    id: kelaparan
+    ig: ụnwụ
+    io: Hungro
+    is: Hungur
+    it: fame
+    ja: 飢え
+    kbp: Ñɔɔsɩ
+    kcg: Zong
+    kn: ಹಸಿವು
+    ko: 배고픔
+    ky: Ачка болуу
+    la: fames
+    lt: alkis
+    lv: badošanās
+    mk: глад
+    ml: വിശപ്പ്
+    mnc: ᠣᠮᡳᡥᠣᠨ
+    mos: Kom
+    mr: भूक
+    mwl: Fame
+    nb: sult
+    nia: Baŵa lofo
+    nl: honger
+    nn: svolt
+    oc: Fam
+    pa: ਭੁੱਖ
+    pcm: H
+    pl: głód
+    pt: fome
+    qu: Yarqay
+    ro: foame
+    ru: голодание
+    sah: Аччыктааһын
+    scn: Fami
+    sco: hunger
+    sd: بک
+    sgs: Bads
+    sh: Glad
+    si: කුසගින්න
+    sk: Hlad
+    sl: lakota
+    sn: Nzara
+    so: Gaajo
+    sq: Uria
+    sr: глад
+    sr-ec: глад
+    sr-el: glad
+    sv: hunger
+    te: ఆకలి
+    tg: Гуруснагӣ
+    tl: Gutom
+    tr: Açlık
+    tt: ач булу
+    uk: голод
+    ur: بھوک
+    vi: đói
+    wa: Fwin
+    wuu: 饥饿
+    yue: 肚餓
+    zh: 饥饿
+    zh-cn: 饥饿
+    zh-hans: 饥饿
+    zh-hant: 飢餓
+    zh-hk: 飢餓
+    zh-sg: 饥饿
+    zh-tw: 飢餓
 ---
-
 # [[Hunger]] 
 
 #is_/same_as :: [[WD~Hunger,165947]] 

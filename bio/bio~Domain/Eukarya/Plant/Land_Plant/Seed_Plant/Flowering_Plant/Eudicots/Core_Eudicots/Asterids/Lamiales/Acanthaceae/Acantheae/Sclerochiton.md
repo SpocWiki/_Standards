@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Sclerochiton
+- Sclerochiton
+- Viuhkahuulet
+- 蓝唇花属
 title: Sclerochiton
 has_id_wikidata: Q1328868
+dv_has_:
+  name_:
+    an: Sclerochiton
+    ast: Sclerochiton
+    bg: Sclerochiton
+    ca: Sclerochiton
+    ceb: Sclerochiton
+    de: Sclerochiton
+    en: Sclerochiton
+    eo: Sclerochiton
+    es: Sclerochiton
+    eu: Sclerochiton
+    ext: Sclerochiton
+    fi: Viuhkahuulet
+    fr: Sclerochiton
+    ga: Sclerochiton
+    gl: Sclerochiton
+    hr: Sclerochiton
+    ia: Sclerochiton
+    ie: Sclerochiton
+    io: Sclerochiton
+    it: Sclerochiton
+    la: Sclerochiton
+    mul: Sclerochiton
+    nl: Sclerochiton
+    oc: Sclerochiton
+    pl: Sclerochiton
+    pt: Sclerochiton
+    pt-br: Sclerochiton
+    ro: Sclerochiton
+    ru: Sclerochiton
+    sq: Sclerochiton
+    sv: Sclerochiton
+    uk: Sclerochiton
+    vi: Sclerochiton
+    vo: Sclerochiton
+    war: Sclerochiton
+    zh: 蓝唇花属
+    zh-cn: 蓝唇花属
+    zh-hans: 蓝唇花属
 ---
 # [[Sclerochiton]] 
 

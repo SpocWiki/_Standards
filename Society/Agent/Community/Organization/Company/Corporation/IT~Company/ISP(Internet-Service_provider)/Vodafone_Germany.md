@@ -1,9 +1,31 @@
 ---
 aliases:
-  - Vodafone GmbH
-  - Vodafone Germany
-  - Vodafone_Germany
+- Vodafone
+- Vodafone Almanya
+- Vodafone Deutschland
+- Vodafone Germany
+- Vodafone GmbH
+- Vodafone Tyskland
+- Vodafone_Germany
+- וודאפון גרמניה
+- فودافون ألمانيا
 has_id_wikidata: Q2529830
+dv_has_:
+  name_:
+    ar: فودافون ألمانيا
+    be-tarask: Vodafone Germany
+    de: Vodafone Deutschland
+    en: Vodafone Germany
+    es: Vodafone Germany
+    fr: Vodafone Germany
+    he: וודאפון גרמניה
+    hy: Vodafone Germany
+    it: Vodafone Germany
+    nl: Vodafone
+    pl: Vodafone
+    ru: Vodafone Germany
+    sv: Vodafone Tyskland
+    tr: Vodafone Almanya
 ---
 # [[Vodafone_Germany]] 
 

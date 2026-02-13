@@ -1,21 +1,110 @@
 ---
 aliases:
-  - Vitamin_B3
-  - Vitamin B3
-  - nicotinamide
-  - niacinamide
-  - niacin
+- B3 bitamina
+- B3-vitamiin
+- niacin
+- Niacina
+- niacinamide
+- Niacinas
+- Niacină
+- Niacín
+- Niasiini
+- Niasin
+- nicotinamide
+- Nikotin kislotasi
+- Nikotīnskābe
+- Vitamin B3
+- Vitamina B3
+- Vitamine B3
+- Vitamini B3
+- Vitamin_B3
+- vitimín B3
+- Witamina B3
+- Νιασίνη
+- Витамин B3
+- Витамин PP
+- Витамин В3
+- Нікотинова кислота
+- Ниацин
+- Никотин кычкылы
+- Никотин қышқылы
+- Վիտամին B3
+- ויטמין B3
+- فيتامين بي 3
+- ویتامین ب۳
+- ۋىتامىنPP
+- ވިޓަމިން ބީ3
+- भिटामिन बी-३
+- ナイアシン
+- 烟酸
+- 維他命B3
+- 维生素B3
+- 비타민 B3
 has_id_wikidata: Q30715691
-subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-subject_has_role: "[[_Standards/WikiData/WD~vitamin_B,183206]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~pellagra,221441]]"
-part_of: "[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323]]"
-instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+subject_has_role: '[[_Standards/WikiData/WD~vitamin_B,183206]]'
+medical_condition_treated: '[[_Standards/WikiData/WD~pellagra,221441]]'
+part_of: '[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
 Commons_category: Niacin
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Niacin.png
 UMLS_CUI: C0027996
+dv_has_:
+  name_:
+    ar: فيتامين بي 3
+    ast: Vitamina B3
+    azb: ویتامین ب۳
+    bg: Витамин PP
+    bs: Vitamin B3
+    ca: Niacina
+    cs: Niacin
+    cy: niacin
+    da: Niacin
+    dv: ވިޓަމިން ބީ3
+    el: Νιασίνη
+    en: vitamin B3
+    es: Vitamina B3
+    et: B3-vitamiin
+    eu: B3 bitamina
+    fa: ویتامین ب۳
+    fi: Niasiini
+    fo: Niacin
+    fr: Vitamine B3
+    ga: vitimín B3
+    gl: Vitamina B3
+    he: ויטמין B3
+    hr: Vitamin B3
+    hy: Վիտամին B3
+    id: Niasin
+    it: Niacina
+    ja: ナイアシン
+    kk: Никотин қышқылы
+    ko: 비타민 B3
+    ky: Никотин кычкылы
+    lb: Niacin
+    lt: Niacinas
+    lv: Nikotīnskābe
+    nb: Niacin
+    ne: भिटामिन बी-३
+    oc: Vitamina B3
+    pl: Witamina B3
+    pt: Niacina
+    ro: Niacină
+    ru: Витамин B3
+    rw: Vitamini B3
+    sh: Vitamin B3
+    sk: Niacín
+    sl: vitamin B3
+    sr: Ниацин
+    tyv: Витамин В3
+    ug: ۋىتامىنPP
+    uk: Нікотинова кислота
+    uz: Nikotin kislotasi
+    vi: Niacin
+    wuu: 烟酸
+    yue: 維他命B3
+    zh: 维生素B3
 ---
-
 # [[Vitamin_B3]] 
 
 #is_/same_as :: [[WD~Vitamin_B3,30715691]]

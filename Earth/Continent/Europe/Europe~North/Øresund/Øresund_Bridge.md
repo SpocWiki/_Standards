@@ -2,71 +2,135 @@
 dv_"Bridge", "OresundBridge: v9grb"
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Øresund_Bridge,297871]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]"
+  - '[[../../../../../WikiData/WD~Øresund_Bridge,297871]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]'
 dv_bridge-oresundbridge: v9grb"
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Øresund_Bridge,297871]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]"
-
-has_time_started: 1999-01-01 
+- '[[../../../../../WikiData/WD~Øresund_Bridge,297871]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]'
+has_time_started: 1999-01-01
 aliases:
+- Cầu Øresund
+- Eresundo tiltas
+- Eresundski most
+- Eyrarsundsbrúin
+- Jembatan Oresund
+- Juutinrauman silta
+- Most nad Sundem
+- most přes Öresund
+- Oresundes brycg
+- Oresundski most
+- podul Øresund
+- Pons Oresundianus
+- Pont de l'Øresund
+- Pont Øresund
+- ponte d'Øresund
+- Ponte de Oresund
+- ponte di Øresund
+- Ponte do Øresund
+- Ponto di Øresund
+- puente de Oresund
+- Sontbrug
+- Sontbrêge
+- Sundi sild
+- Sundoponto
+- Ura Oresund
+- Öresund Köprüsü
+- Öresund körpüsü
+- Öresundbrücke
+- Öresundsbron
+- Øresund Bridge
+- Øresund bru
+- Øresund híd
+- Øresund zubia
+- Øresundbroen
+- Øresundbrua
+- Øresundsbroen
+- Øresundski most
+- Ēresunda tilts
+- Γέφυρα Έρεσουντ
+- Ересундски мост
+- Ересуннський міст
+- Йоресунд
+- Эресуннский мост
+- Эрэсундзкі мост
+- Эрэсунскі мост
+- Өресунд көпүрөсү
+- Өрэсүндийн гүүр
+- Էրեսունդի կամուրջ
+- גשר ארסונד
+- اوریسنڈ پل
+- جسر أوريسند
+- كوبرى اوريسند
+- پل اورسوند
+- ओरेसंड सेतु
+- ओरेसुंड पूल
+- สะพานเออเรซุนด์
+- ერესუნის ხიდი
+- ერესუნიშ ხინჯი
+- オーレスン・リンク
+- 厄勒海峡大桥
+- 厄勒海峽大橋
+- 松德海峽大橋
+- 외레순 다리
 has_id_wikidata: Q297871
-location: [ 55.576444444, 12.821638888]
+location:
+- 55.576444444
+- 12.821638888
 coordinate_location: Point(12.821638888 55.576444444)
-locations: "[[_Standards/WikiData/WD~Øresund,104662]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Øresund,104662]]"
-crosses: "[[_Standards/WikiData/WD~Øresund,104662]]"
-named_after: "[[_Standards/WikiData/WD~Øresund,104662]]"
+locations: '[[_Standards/WikiData/WD~Øresund,104662]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Øresund,104662]]'
+crosses: '[[_Standards/WikiData/WD~Øresund,104662]]'
+named_after: '[[_Standards/WikiData/WD~Øresund,104662]]'
 main_building_contractor:
-  - "[[_Standards/WikiData/WD~Hochtief,136542]]"
-  - "[[_Standards/WikiData/WD~Skanska,1537811]]"
-  - "[[_Standards/WikiData/WD~MT_Højgaard,12325556]]"
+- '[[_Standards/WikiData/WD~Hochtief,136542]]'
+- '[[_Standards/WikiData/WD~Skanska,1537811]]'
+- '[[_Standards/WikiData/WD~MT_Højgaard,12325556]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]"
-  - "[[_Standards/WikiData/WD~multi_level_bridge,1243306]]"
-  - "[[_Standards/WikiData/WD~road_rail_bridge,6636777]]"
-  - "[[_Standards/WikiData/WD~international_bridge,25297630]]"
-  - "[[_Standards/WikiData/WD~double_decker_bridge,110848334]]"
+- '[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]'
+- '[[_Standards/WikiData/WD~multi_level_bridge,1243306]]'
+- '[[_Standards/WikiData/WD~road_rail_bridge,6636777]]'
+- '[[_Standards/WikiData/WD~international_bridge,25297630]]'
+- '[[_Standards/WikiData/WD~double_decker_bridge,110848334]]'
 terminus:
-  - "[[_Standards/WikiData/WD~Peberholm,163518]]"
-  - "[[_Standards/WikiData/WD~Lernacken,3428392]]"
+- '[[_Standards/WikiData/WD~Peberholm,163518]]'
+- '[[_Standards/WikiData/WD~Lernacken,3428392]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Tårnby_Municipality,282496]]"
-  - "[[_Standards/WikiData/WD~Malmö_Municipality,503361]]"
+- '[[_Standards/WikiData/WD~Tårnby_Municipality,282496]]'
+- '[[_Standards/WikiData/WD~Malmö_Municipality,503361]]'
 structural_engineer:
-  - "[[_Standards/WikiData/WD~Arup,716737]]"
-  - "[[_Standards/WikiData/WD~Société_d'études_techniques_et_économiques,3480651]]"
-  - "[[_Standards/WikiData/WD~ISC_A_S,20033287]]"
+- '[[_Standards/WikiData/WD~Arup,716737]]'
+- "[[_Standards/WikiData/WD~Société_d'études_techniques_et_économiques,3480651]]"
+- '[[_Standards/WikiData/WD~ISC_A_S,20033287]]'
 carries:
-  - "[[_Standards/WikiData/WD~Oresund_Line,802562]]"
-  - "[[_Standards/WikiData/WD~European_route_E20_in_Sweden,1376038]]"
-  - "[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]"
+- '[[_Standards/WikiData/WD~Oresund_Line,802562]]'
+- '[[_Standards/WikiData/WD~European_route_E20_in_Sweden,1376038]]'
+- '[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]'
 architect:
-  - "[[_Standards/WikiData/WD~Dissing+Weitling,1229307]]"
-  - "[[_Standards/WikiData/WD~Georg_Rotne,136447947]]"
+- '[[_Standards/WikiData/WD~Dissing+Weitling,1229307]]'
+- '[[_Standards/WikiData/WD~Georg_Rotne,136447947]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Oresund_Connection,20191120]]"
-  - "[[_Standards/WikiData/WD~Denmark_Sweden_border,21685994]]"
-significant_event: "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
+- '[[_Standards/WikiData/WD~Oresund_Connection,20191120]]'
+- '[[_Standards/WikiData/WD~Denmark_Sweden_border,21685994]]'
+significant_event: '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
 country:
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
 capital_cost: 2600000000
 longest_span: 490
 clearance: 57
@@ -83,8 +147,83 @@ official_website: https://www.oresundsbron.com
 Wolfram_Language_entity_code: Entity"Bridge", "OresundBridge = `=this.dv_"Bridge", "OresundBridge`
 Libris_URI: ljx028t43gqd5cx
 Commons_gallery: Øresund bridge
+dv_has_:
+  name_:
+    ang: Oresundes brycg
+    ar: جسر أوريسند
+    arz: كوبرى اوريسند
+    ast: ponte d'Øresund
+    az: Öresund körpüsü
+    be: Эрэсунскі мост
+    be-tarask: Эрэсундзкі мост
+    bg: Йоресунд
+    bs: Eresundski most
+    ca: Pont de l'Øresund
+    cs: most přes Öresund
+    cy: Pont Øresund
+    da: Øresundsbroen
+    de: Öresundbrücke
+    de-ch: Öresundbrücke
+    el: Γέφυρα Έρεσουντ
+    en: Øresund Bridge
+    en-ca: Øresund Bridge
+    en-gb: Øresund Bridge
+    eo: Sundoponto
+    es: puente de Oresund
+    et: Sundi sild
+    eu: Øresund zubia
+    fa: پل اورسوند
+    fi: Juutinrauman silta
+    fr: pont de l'Øresund
+    frr: Øresund bru
+    fy: Sontbrêge
+    gl: Ponte de Oresund
+    he: גשר ארסונד
+    hi: ओरेसंड सेतु
+    hr: Oresundski most
+    hu: Øresund híd
+    hy: Էրեսունդի կամուրջ
+    id: Jembatan Oresund
+    io: Ponto di Øresund
+    is: Eyrarsundsbrúin
+    it: ponte di Øresund
+    ja: オーレスン・リンク
+    ka: ერესუნის ხიდი
+    ko: 외레순 다리
+    ky: Өресунд көпүрөсү
+    la: Pons Oresundianus
+    lt: Eresundo tiltas
+    lv: Ēresunda tilts
+    mk: Ересундски мост
+    mn: Өрэсүндийн гүүр
+    mr: ओरेसुंड पूल
+    nb: Øresundbroen
+    nl: Sontbrug
+    nn: Øresundbrua
+    pl: Most nad Sundem
+    pt: Ponte do Øresund
+    pt-br: Ponte do Øresund
+    ro: podul Øresund
+    ru: Эресуннский мост
+    sh: Eresundski most
+    sk: Øresundsbroen
+    sl: Øresundski most
+    sq: Ura Oresund
+    sr: Ересундски мост
+    sv: Öresundsbron
+    th: สะพานเออเรซุนด์
+    tr: Öresund Köprüsü
+    uk: Ересуннський міст
+    ur: اوریسنڈ پل
+    vi: Cầu Øresund
+    wuu: 厄勒海峡大桥
+    xmf: ერესუნიშ ხინჯი
+    yue: 松德海峽大橋
+    zh: 厄勒海峽大橋
+    zh-cn: 厄勒海峡大桥
+    zh-hans: 厄勒海峡大桥
+    zh-hant: 厄勒海峽大橋
 ---
-
 # [[Øresund_Bridge]] 
 
 #is_/same_as :: [[WD~Øresund_Bridge,297871]] 

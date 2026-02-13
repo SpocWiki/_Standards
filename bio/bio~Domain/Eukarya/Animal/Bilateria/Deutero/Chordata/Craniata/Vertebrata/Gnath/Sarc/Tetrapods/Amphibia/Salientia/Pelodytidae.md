@@ -1,8 +1,43 @@
 ---
 aliases:
-  - Pelodytidae
+- Blatničkovití
+- Iszaptúróbéka-félék
+- Nurzańcowate
+- Pelodytidae
+- Крестовки
+- Мулові жаби
+- 合附蟾科
 title: Pelodytidae
 has_id_wikidata: Q3374519
+dv_has_:
+  name_:
+    ast: Pelodytidae
+    bg: Pelodytidae
+    ceb: Pelodytidae
+    cs: Blatničkovití
+    de: Pelodytidae
+    en: Pelodytidae
+    es: Pelodytidae
+    fi: Pelodytidae
+    fr: Pelodytidae
+    ga: Pelodytidae
+    hu: Iszaptúróbéka-félék
+    it: Pelodytidae
+    la: Pelodytidae
+    mul: Pelodytidae
+    nl: Pelodytidae
+    pl: Nurzańcowate
+    pt: Pelodytidae
+    ro: Pelodytidae
+    ru: Крестовки
+    sq: Pelodytidae
+    tr: Pelodytidae
+    uk: Мулові жаби
+    vi: Pelodytidae
+    war: Pelodytidae
+    zh: 合附蟾科
+    zh-cn: 合附蟾科
+    zh-hans: 合附蟾科
 ---
 # [[Pelodytidae]]
 

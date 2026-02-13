@@ -1,92 +1,119 @@
 ---
 aliases:
-  - Miles_Davis
-  - Miles Dewey Davis III
-  - Miles Davis
-  - Davis
-  - Davis,Miles
+- Davis
+- Davis,Miles
+- Mailss Deiviss
+- Majls Dejvis
+- Mayls Devis
+- Miles Davis
+- Miles Dewey Davis III
+- Miles_Davis
+- Μάιλς Ντέιβις
+- Мајлс Дејвис
+- Майлз Девіс
+- Майлз Дэвис
+- Майлз Дэйвіс
+- Майлс Дейвис
+- Майлс Дэйвіс
+- Մայլս Դևիս
+- מיילס דייוויס
+- مائلز ڈیوس
+- مايلز ديفيس
+- مایلز دیویس
+- مایڵز دەیڤس
+- माइल्स डेव्हिस
+- মাইলস ডেভিস
+- ਮਾਇਲਸ ਡੇਵਿਸ
+- మిలెస్ దవిస్
+- ไมล์ส เดวิส
+- მაილს დევისი
+- マイルス・デイヴィス
+- 迈尔士·戴维斯
+- 迈尔斯·戴维斯
+- 邁爾士·戴維斯
+- 마일스 데이비스
 has_id_wikidata: Q93341
 genre:
-  - '[[_Standards/WikiData/WD~bebop,105513]]'
-  - '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
-  - '[[_Standards/WikiData/WD~hard_bop,181010]]'
-  - '[[_Standards/WikiData/WD~cool_jazz,327547]]'
-  - '[[_Standards/WikiData/WD~modal_jazz,1127530]]'
-  - '[[_Standards/WikiData/WD~jazz,8341]]'
+- '[[_Standards/WikiData/WD~bebop,105513]]'
+- '[[_Standards/WikiData/WD~jazz_fusion,105527]]'
+- '[[_Standards/WikiData/WD~hard_bop,181010]]'
+- '[[_Standards/WikiData/WD~cool_jazz,327547]]'
+- '[[_Standards/WikiData/WD~modal_jazz,1127530]]'
+- '[[_Standards/WikiData/WD~jazz,8341]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~bandleader,806349]]'
-  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~trumpeter,12377274]]'
-  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~orchestra_leader,135107015]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~bandleader,806349]]'
+- '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~trumpeter,12377274]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~orchestra_leader,135107015]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 instrument:
-  - '[[_Standards/WikiData/WD~synthesizer,163829]]'
-  - '[[_Standards/WikiData/WD~flugelhorn,382616]]'
-  - '[[_Standards/WikiData/WD~organ,1444]]'
-  - '[[_Standards/WikiData/WD~trumpet,8338]]'
+- '[[_Standards/WikiData/WD~synthesizer,163829]]'
+- '[[_Standards/WikiData/WD~flugelhorn,382616]]'
+- '[[_Standards/WikiData/WD~organ,1444]]'
+- '[[_Standards/WikiData/WD~trumpet,8338]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~American_Book_Awards,463606]]'
-  - '[[_Standards/WikiData/WD~NEA_Jazz_Masters,488296]]'
-  - '[[_Standards/WikiData/WD~Paul_Acket_Award,865039]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~MOJO_Awards,3319330]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~American_Book_Awards,463606]]'
+- '[[_Standards/WikiData/WD~NEA_Jazz_Masters,488296]]'
+- '[[_Standards/WikiData/WD~Paul_Acket_Award,865039]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~MOJO_Awards,3319330]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~ACT_Music,288810]]'
-  - '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
-  - '[[_Standards/WikiData/WD~Prestige,1811175]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~ACT_Music,288810]]'
+- '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~Prestige,1811175]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Cicely_Tyson,238081]]'
-  - '[[_Standards/WikiData/WD~Betty_Davis,292355]]'
-  - '[[_Standards/WikiData/WD~Frances_Taylor_Davis,78580570]]'
+- '[[_Standards/WikiData/WD~Cicely_Tyson,238081]]'
+- '[[_Standards/WikiData/WD~Betty_Davis,292355]]'
+- '[[_Standards/WikiData/WD~Frances_Taylor_Davis,78580570]]'
 place_of_birth: '[[_Standards/WikiData/WD~Alton,443852]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
-  - '[[_Standards/WikiData/WD~East_St._Louis_Lincoln_High_School,23091861]]'
+- '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+- '[[_Standards/WikiData/WD~East_St._Louis_Lincoln_High_School,23091861]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 discography: '[[_Standards/WikiData/WD~Miles_Davis_discography,941305]]'
 place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,2000666]]'
 student_of:
-  - '[[_Standards/WikiData/WD~William_Vacchiano,2580837]]'
-  - '[[_Standards/WikiData/WD~Elwood_Buchanan,5368321]]'
+- '[[_Standards/WikiData/WD~William_Vacchiano,2580837]]'
+- '[[_Standards/WikiData/WD~Elwood_Buchanan,5368321]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Miles,6851298]]'
-  - '[[_Standards/WikiData/WD~Dewey,16275509]]'
+- '[[_Standards/WikiData/WD~Miles,6851298]]'
+- '[[_Standards/WikiData/WD~Dewey,16275509]]'
 is_member_of:
-  - '[[_Standards/WikiData/WD~Miles_Davis_Quintet,6851373]]'
-  - '[[_Standards/WikiData/WD~The_Miles_Davis_Sextet,98609608]]'
-  - '[[_Standards/WikiData/WD~The_Miles_Davis_Quartet,111569483]]'
-  - '[[_Standards/WikiData/WD~Miles_Davis_All_Stars,111569671]]'
+- '[[_Standards/WikiData/WD~Miles_Davis_Quintet,6851373]]'
+- '[[_Standards/WikiData/WD~The_Miles_Davis_Sextet,98609608]]'
+- '[[_Standards/WikiData/WD~The_Miles_Davis_Quartet,111569483]]'
+- '[[_Standards/WikiData/WD~Miles_Davis_All_Stars,111569671]]'
 father: '[[_Standards/WikiData/WD~Miles_Henry_Davis,6851410]]'
 family_name: '[[_Standards/WikiData/WD~Davis,12652678]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Miles_Davis,14336602]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~George_and_Joyce_Wein_Collection,75059699]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
-  - '[[_Standards/WikiData/WD~stroke,12202]]'
+- '[[_Standards/WikiData/WD~pneumonia,12192]]'
+- '[[_Standards/WikiData/WD~stroke,12202]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_death: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
@@ -112,8 +139,118 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/DEVIS_MALZ.html
 Instagram_username: milesdavis
 X_Twitter_username: milesdavis
 Facebook_username: MilesDavis
+dv_has_:
+  name_:
+    af: Miles Davis
+    an: Miles Davis
+    ar: مايلز ديفيس
+    arz: مايلز ديفيس
+    ast: Miles Davis
+    az: Mayls Devis
+    azb: مایلز دیویس
+    bar: Miles Davis
+    be: Майлс Дэйвіс
+    be-tarask: Майлз Дэйвіс
+    bg: Майлс Дейвис
+    bn: মাইলস ডেভিস
+    bs: Miles Davis
+    ca: Miles Davis
+    ckb: مایڵز دەیڤس
+    cs: Miles Davis
+    cy: Miles Davis
+    da: Miles Davis
+    dag: Miles Davis
+    de: Miles Davis
+    de-ch: Miles Davis
+    ee: Miles Davis
+    el: Μάιλς Ντέιβις
+    en: Miles Davis
+    en-ca: Miles Davis
+    en-gb: Miles Davis
+    en-us: Miles Davis
+    eo: Miles Davis
+    es: Miles Davis
+    et: Miles Davis
+    eu: Miles Davis
+    fa: مایلز دیویس
+    fi: Miles Davis
+    fo: Miles Davis
+    fr: Miles Davis
+    frr: Miles Davis
+    ga: Miles Davis
+    gl: Miles Davis
+    gsw: Miles Davis
+    ha: Miles Davis
+    he: מיילס דייוויס
+    hr: Miles Davis
+    ht: Miles Davis
+    hu: Miles Davis
+    hy: Մայլս Դևիս
+    ia: Miles Davis
+    id: Miles Davis
+    ig: Miles Davis
+    io: Miles Davis
+    is: Miles Davis
+    it: Miles Davis
+    ja: マイルス・デイヴィス
+    ka: მაილს დევისი
+    ko: 마일스 데이비스
+    la: Miles Davis
+    lb: Miles Davis
+    li: Miles Davis
+    lt: Miles Davis
+    lv: Mailss Deiviss
+    mg: Miles Davis
+    mk: Мајлс Дејвис
+    mr: माइल्स डेव्हिस
+    mul: Miles Davis
+    nb: Miles Davis
+    nds: Miles Davis
+    nl: Miles Davis
+    nn: Miles Davis
+    oc: Miles Davis
+    pa: ਮਾਇਲਸ ਡੇਵਿਸ
+    pam: Miles Davis
+    pap: Miles Davis
+    pcm: Miles Davis
+    pl: Miles Davis
+    pms: Miles Davis
+    pt: Miles Davis
+    pt-br: Miles Davis
+    qu: Miles Davis
+    ro: Miles Davis
+    ru: Майлз Дэвис
+    sc: Miles Davis
+    scn: Miles Davis
+    sco: Miles Davis
+    sh: Miles Davis
+    sk: Miles Davis
+    sl: Miles Davis
+    sq: Miles Davis
+    sr: Мајлс Дејвис
+    sr-ec: Мајлс Дејвис
+    sr-el: Majls Dejvis
+    sv: Miles Davis
+    sw: Miles Davis
+    te: మిలెస్ దవిస్
+    th: ไมล์ส เดวิส
+    tr: Miles Davis
+    uk: Майлз Девіс
+    ur: مائلز ڈیوس
+    vi: Miles Davis
+    war: Miles Davis
+    wuu: 迈尔士·戴维斯
+    xmf: მაილს დევისი
+    yo: Miles Davis
+    yue: Miles Davis
+    zh: 邁爾士·戴維斯
+    zh-cn: 迈尔斯·戴维斯
+    zh-hans: 迈尔斯·戴维斯
+    zh-hant: 邁爾士·戴維斯
+    zh-hk: 邁爾士·戴維斯
+    zh-sg: 迈尔士·戴维斯
+    zh-tw: 邁爾士·戴維斯
 ---
-
 # [[Davis,Miles]] 
 
 #is_/same_as :: [[WD~Miles_Davis,93341]] 

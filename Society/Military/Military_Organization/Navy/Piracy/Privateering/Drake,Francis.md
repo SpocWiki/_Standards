@@ -1,31 +1,66 @@
 ---
 aliases:
-  - Sir Francis Drake
-  - Francis Drake
-  - Francis_Drake
-  - Drake,Francis
+- Drake'i Francis
+- Drake,Francis
+- Dreyk Frensis
+- Francis Drake
+- Franciscus Drakus
+- Francis_Drake
+- Frensis Dreyk
+- Frānsiss Dreiks
+- Sir Francis Drake
+- Φράνσις Ντρέικ
+- Дрейк
+- Дрейк Фрэнсис
+- Франсис Дрейк
+- Френсіс Дрейк
+- Френсис Дрејк
+- Френсис дрейк
+- Фрэнсіс Дрэйк
+- Фрэнсис Дрейк
+- Ֆրենսիս Դրեյք
+- פרנסיס דרייק
+- فرانسس ڈریک
+- فرانسیس دریک
+- فرنسيس دريك
+- फ़्रांसिस ड्रेक
+- फ्रान्सिस ड्रेक
+- फ्रान्सिस् ड्रेक
+- ফ্রান্সিস ড্রেক
+- பிரான்சிஸ் டிரேக்
+- ഫ്രാൻസീസ് ഡ്രേക്ക്
+- ෆ්රැන්සිස් ඩ්රේක්
+- ฟรานซิส เดรก
+- ဒရိတ် ဆာဖရန်းစစ်
+- ფრენსის დრეიკი
+- ፍራንሲስ ድረይክ
+- フランシス・ドレーク
+- 弗朗西斯·德雷克
+- 法蘭西斯·德瑞克
+- 法蘭西斯戴基
+- 프랜시스 드레이크
 has_id_wikidata: Q36517
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~vice_admiral,4902790]]'
-  - '[[_Standards/WikiData/WD~explorer,11900058]]'
-  - '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~vice_admiral,4902790]]'
+- '[[_Standards/WikiData/WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~sailor,45199]]'
 cause_of_death: '[[_Standards/WikiData/WD~dysentery,129279]]'
 military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 place_of_birth: '[[_Standards/WikiData/WD~Tavistock,668262]]'
 place_of_death: '[[_Standards/WikiData/WD~Portobelo,797147]]'
 award_received: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
@@ -35,16 +70,16 @@ manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~vice_admiral,4902790]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Mary_Newman,22097511]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_I_of_England,7207]]'
+- '[[_Standards/WikiData/WD~Mary_Newman,22097511]]'
+- '[[_Standards/WikiData/WD~Elizabeth_I_of_England,7207]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Sir_Francis_Drake_(1540_1596),52149951]]'
-  - '[[_Standards/WikiData/WD~Sir_Francis_Drake_(1540_1596)_(after_Marcus_Geeraerts,_the_younger),52223342]]'
-  - '[[_Standards/WikiData/WD~Sir_Francis_Drake,107268447]]'
+- '[[_Standards/WikiData/WD~Sir_Francis_Drake_(1540_1596),52149951]]'
+- '[[_Standards/WikiData/WD~Sir_Francis_Drake_(1540_1596)_(after_Marcus_Geeraerts,_the_younger),52223342]]'
+- '[[_Standards/WikiData/WD~Sir_Francis_Drake,107268447]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Member_of_the_1572_83_Parliament,60586066]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1584_85_Parliament,60586104]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1593_Parliament,60586150]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1572_83_Parliament,60586066]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1584_85_Parliament,60586104]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1593_Parliament,60586150]]'
 father: '[[_Standards/WikiData/WD~Edmund_Drake,76148126]]'
 mother: '[[_Standards/WikiData/WD~Mary_Mylwaye,130320445]]'
 date_of_death: 1596-01-28T00:00:00Z
@@ -62,8 +97,123 @@ ISNI: 0000000121452514
 Libris_URI: hftwwth14c5s8r0
 Krugosvet_article: istoriya/DREK_FRENSIS.html
 booru_tag: francis_drake
+dv_has_:
+  name_:
+    af: Francis Drake
+    am: ፍራንሲስ ድረይክ
+    an: Francis Drake
+    anp: फ़्रांसिस ड्रेक
+    ar: فرنسيس دريك
+    arz: فرنسيس دريك
+    ast: Francis Drake
+    avk: Francis Drake
+    awa: फ्रान्सिस ड्रेक
+    az: Frensis Dreyk
+    ba: Фрэнсис Дрейк
+    be: Фрэнсіс Дрэйк
+    be-tarask: Фрэнсіс Дрэйк
+    bg: Франсис Дрейк
+    bn: ফ্রান্সিস ড্রেক
+    br: Francis Drake
+    bs: Francis Drake
+    ca: Francis Drake
+    cs: Francis Drake
+    cv: Фрэнсис Дрейк
+    cy: Francis Drake
+    da: Francis Drake
+    de: Francis Drake
+    de-ch: Francis Drake
+    el: Φράνσις Ντρέικ
+    en: Francis Drake
+    en-ca: Francis Drake
+    en-gb: Francis Drake
+    eo: Francis Drake
+    es: Francis Drake
+    et: Francis Drake
+    eu: Francis Drake
+    fa: فرانسیس دریک
+    fi: Francis Drake
+    fr: Francis Drake
+    fy: Francis Drake
+    ga: Francis Drake
+    gd: Francis Drake
+    gl: Francis Drake
+    he: פרנסיס דרייק
+    hi: फ़्रांसिस ड्रेक
+    hr: Francis Drake
+    hu: Francis Drake
+    hy: Ֆրենսիս Դրեյք
+    ia: Francis Drake
+    id: Francis Drake
+    io: Francis Drake
+    is: Francis Drake
+    it: Francis Drake
+    ja: フランシス・ドレーク
+    jv: Francis Drake
+    ka: ფრენსის დრეიკი
+    kbp: Francis Drake
+    kk: Френсис дрейк
+    ko: 프랜시스 드레이크
+    ku: Sir Francis Drake
+    ky: Дрейк Фрэнсис
+    la: Franciscus Drakus
+    lad: Francis Drake
+    lb: Francis Drake
+    lfn: Francis Drake
+    lij: Francis Drake
+    lt: Francis Drake
+    lv: Frānsiss Dreiks
+    mai: फ्रान्सिस ड्रेक
+    mg: Francis Drake
+    mk: Френсис Дрејк
+    ml: ഫ്രാൻസീസ് ഡ്രേക്ക്
+    ms: Francis Drake
+    mul: Francis Drake
+    mwl: Francis Drake
+    my: ဒရိတ် ဆာဖရန်းစစ်
+    nan: Francis Drake
+    nb: Francis Drake
+    ne: फ्रान्सिस ड्रेक
+    new: फ्रान्सिस् ड्रेक
+    nl: Francis Drake
+    nn: Francis Drake
+    oc: Francis Drake
+    os: Фрэнсис Дрейк
+    pag: Francis Drake
+    pam: Francis Drake
+    pl: Francis Drake
+    pt: Francis Drake
+    pt-br: Francis Drake
+    qu: Francis Drake
+    ro: Francis Drake
+    ru: Фрэнсис Дрейк
+    scn: Francis Drake
+    sco: Francis Drake
+    sgs: Francis Drake
+    sh: Francis Drake
+    si: ෆ්රැන්සිස් ඩ්රේක්
+    sk: Francis Drake
+    sl: Francis Drake
+    sq: Francis Drake
+    sr: Френсис Дрејк
+    su: Francis Drake
+    sv: Francis Drake
+    ta: பிரான்சிஸ் டிரேக்
+    th: ฟรานซิส เดรก
+    tl: Francis Drake
+    tr: Francis Drake
+    uk: Френсіс Дрейк
+    ur: فرانسس ڈریک
+    uz: Dreyk Frensis
+    vi: Francis Drake
+    vro: Drake'i Francis
+    war: Francis Drake
+    wuu: 弗朗西斯·德雷克
+    xal: Дрейк
+    yue: 法蘭西斯戴基
+    zea: Francis Drake
+    zh: 法蘭西斯·德瑞克
 ---
-
 # [[Drake,Francis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Francis_Drake,36517|WD~Francis_Drake,36517]] 

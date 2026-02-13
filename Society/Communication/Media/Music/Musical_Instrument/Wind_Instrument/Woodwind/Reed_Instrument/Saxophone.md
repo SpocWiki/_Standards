@@ -1,44 +1,229 @@
 ---
-has_time_started: 1840-01-01 
+has_time_started: 1840-01-01
 aliases:
-  - Saxophon
-  - Saxophone
+- sacsafone
+- sacsafòn
+- sacsafón
+- sacsoffon
+- saksafon
+- saksafoni
+- saksofoan
+- saksofon
+- saksofonas
+- saksofoni
+- saksofono
+- saksofons
+- saksofoon
+- saksofovdna
+- saksuphun
+- saksôfônina
+- sakɩsofonɩ
+- sassofono
+- sassofonu
+- sassofón
+- sassòfunu
+- sasòfono
+- saxofoi
+- saxofon
+- saxofone
+- saxofong
+- saxofono
+- Saxofoon
+- saxofòn
+- saxofón
+- Saxophon
+- Saxophone
+- saxophono
+- saxophonum
+- saxòfon
+- saxófónn
+- szaxofon
+- σαξόφωνο
+- саксафон
+- саксофон
+- սաքսոֆոն
+- סקסופון
+- ساكسفون
+- ساکسفۆن
+- ساکسوفون
+- ساکسیفون
+- سکسوفون
+- सैक्सोफोन
+- சாக்சபோன்
+- ಸ್ಯಾಕ್ಸೋಫೋನ್
+- സാക്സഫോൺ
+- แซกโซโฟน
+- ဆက်ဆိုဟွန်း
+- ပီႇသဵင်ၸေး
+- საქსოფონი
+- ሳክሶፎን
+- ᎠᏤᎷᎯᏍᏗ
+- サクソフォーン
+- 色士風
+- 萨克斯
+- 萨克斯管
+- 萨克斯风
+- 薩克斯風
+- 薩氏管
+- 색소폰
 has_id_wikidata: Q9798
 subclass_of:
-  - "[[_Standards/WikiData/WD~woodwind_instrument,181247]]"
-  - "[[_Standards/WikiData/WD~single_reed_instrument,185626]]"
-  - "[[_Standards/WikiData/WD~single_clarinets_with_conical_bore,55738874]]"
-named_after: "[[_Standards/WikiData/WD~Adolphe_Sax,181995]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Adolphe_Sax,181995]]"
+- '[[_Standards/WikiData/WD~woodwind_instrument,181247]]'
+- '[[_Standards/WikiData/WD~single_reed_instrument,185626]]'
+- '[[_Standards/WikiData/WD~single_clarinets_with_conical_bore,55738874]]'
+named_after: '[[_Standards/WikiData/WD~Adolphe_Sax,181995]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Sax,181995]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-has_part_s_: "[[_Standards/WikiData/WD~Saxophone_tone_hole,7428870]]"
-used_by: "[[_Standards/WikiData/WD~saxophonist,12800682]]"
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+has_part_s_: '[[_Standards/WikiData/WD~Saxophone_tone_hole,7428870]]'
+used_by: '[[_Standards/WikiData/WD~saxophonist,12800682]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 inception: 1840-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~Belgium,31]]"
+country_of_origin: '[[_Standards/WikiData/WD~Belgium,31]]'
 Nomenclature_for_Museum_Cataloging: 10855
 OmegaWiki_Defined_Meaning: 344788
 Amazon_com_browse_node:
-  - 11969771
-  - 11969901
-  - 11972111
+- 11969771
+- 11969901
+- 11972111
 Hornbostel_Sachs_classification: 422.212-71
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sax%20range.svg
 Commons_gallery: Saxophone
 Iconclass_notation: 48C73521
 Commons_category: Saxophones
-Unicode_character: 🎷
+Unicode_character: "\U0001F3B7"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Saxophone.jpg
 UNSPSC_Code: 60131104
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SAKSOFON.html
 Baidu_Tieba_name: 萨克斯
+dv_has_:
+  name_:
+    af: Saxofoon
+    am: ሳክሶፎን
+    ar: ساكسفون
+    arz: ساكسفون
+    ast: saxofón
+    az: saksofon
+    azb: ساکسیفون
+    be: саксафон
+    be-tarask: саксафон
+    bg: саксофон
+    br: saksofon
+    bs: saksofon
+    ca: saxòfon
+    chr: ᎠᏤᎷᎯᏍᏗ
+    ckb: ساکسفۆن
+    cs: saxofon
+    cv: саксофон
+    cy: sacsoffon
+    da: saxofon
+    de: Saxophon
+    diq: saksafon
+    el: σαξόφωνο
+    en: saxophone
+    en-ca: saxophone
+    en-gb: saxophone
+    en-us: saxophone
+    eo: saksofono
+    es: saxofón
+    et: saksofon
+    eu: saxofoi
+    ext: sassofón
+    fa: ساکسوفون
+    fi: saksofoni
+    fr: saxophone
+    frr: saksofoon
+    fy: saksofoan
+    ga: sacsafón
+    gd: sacsafòn
+    gl: saxofón
+    gsw: Saxophon
+    gv: sacsafone
+    he: סקסופון
+    hi: सैक्सोफोन
+    hr: saksofon
+    hu: szaxofon
+    hy: սաքսոֆոն
+    ia: saxophono
+    id: saksofon
+    io: saxofono
+    is: saxófónn
+    it: sassofono
+    ja: サクソフォーン
+    jv: saksofon
+    ka: საქსოფონი
+    kbp: sakɩsofonɩ
+    kk: саксофон
+    kn: ಸ್ಯಾಕ್ಸೋಫೋನ್
+    ko: 색소폰
+    ku: saksafon
+    ky: саксофон
+    la: saxophonum
+    lb: Saxophon
+    lt: saksofonas
+    lv: saksofons
+    mg: saksôfônina
+    mk: саксофон
+    ml: സാക്സഫോൺ
+    mn: Саксофон
+    ms: saksofon
+    mt: sassofonu
+    my: ဆက်ဆိုဟွန်း
+    mzn: ساکسیفون
+    nan: saxophone
+    nb: saksofon
+    nds-nl: saxofoon
+    nl: saxofoon
+    nn: saksofon
+    oc: saxofòn
+    pcd: saxofone
+    pl: saksofon
+    pt: saxofone
+    pt-br: saxofone
+    qu: saksuphun
+    rm: saxofon
+    ro: saxofon
+    ru: саксофон
+    scn: sassòfunu
+    se: saksofovdna
+    sh: saksofon
+    shn: ပီႇသဵင်ၸေး
+    sk: saxofón
+    sl: saksofon
+    smn: saksofon
+    sms: saksofoon
+    sq: saksafoni
+    sr: саксофон
+    sr-ec: саксофон
+    sr-el: saksofon
+    sv: saxofon
+    ta: சாக்சபோன்
+    tg: саксофон
+    th: แซกโซโฟน
+    tl: saxophone
+    tr: saksofon
+    uk: саксофон
+    ur: سکسوفون
+    uz: saksofon
+    vec: sasòfono
+    vi: saxophone
+    vls: saxofong
+    war: saxophone
+    wuu: 萨克斯
+    yue: 色士風
+    zh: 薩克斯風
+    zh-cn: 萨克斯管
+    zh-hant: 薩氏管
+    zh-hk: 色士風
+    zh-mo: 色士風
+    zh-my: 萨克斯风
+    zh-sg: 萨克斯风
+    zh-tw: 薩氏管
 ---
-
 # [[Saxophone]] 🎷 
 
 #is_/same_as :: [[WD~Saxophone,9798]] 

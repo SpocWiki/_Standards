@@ -1,39 +1,205 @@
 ---
 aliases:
-  - nation state
-  - nation-state
-  - Nation_State
-  - Nation State
+- Bîn-cho̍k pang-kok
+- Cenedl-wladwriaeth
+- Estado nación
+- estado pungsod
+- estado-nação
+- estadong bansâ
+- estadong nasod
+- Estat nacion
+- estat nació
+- Estatu-nazio
+- estádung bangsâ
+- estáu nación
+- Fanjakana-firenena
+- kansallisvaltio
+- Marka kamachiyniyuq llaqta
+- Naasjesteat
+- nacio-ŝtato
+- nacionalinė valstybė
+- nacionalna država
+- nacionāla valsts
+- naition state
+- nasjonalstat
+- natiestaat
+- Natiestaot
+- nation state
+- nation-state
+- Nationalstaat
+- nationalstat
+- Nation_State
+- negara bangsa
+- nemzetállam
+- netewe-welat
+- náisiúnstát
+- národní stát
+- Národný štát
+- państwo narodowe
+- quốc gia dân tộc
+- Rahvusriik
+- Shteti kombëtar
+- Stat Naziun
+- stat național
+- Stato-nazione
+- Ulttıq memleket
+- ulus devlet
+- Ulus dövlət
+- État-nation
+- Þjóðríki
+- έθνος-κράτος
+- милли дәүләт
+- Національна держава
+- национална држава
+- Национална държава
+- национальное государство
+- нацыянальная дзяржава
+- ұлттық мемлекет
+- מדינת לאום
+- دولة قومية
+- دولت-ملت
+- دەوڵەتی نەتەوەیی
+- قومي رياست
+- قومی ریاست
+- میلی دؤولت
+- نەتەوە-وەلات
+- ۇلتتىق مەملەكەت
+- राष्ट्र-राज्य
+- জাতিরাষ্ট্র
+- ਰਾਸ਼ਟਰ ਰਾਜ
+- යුරෝපයේ ජාතික රාජ්ය
+- รัฐชาติ
+- 国民国家
+- 民族国家
+- 民族國家
+- 국민 국가
 has_id_wikidata: Q179671
-instance_of: "[[_Standards/WikiData/WD~state_model,2325086]]"
-subclass_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-described_by_source: "[[_Standards/WikiData/WD~Q131705451,131705451]]"
+instance_of: '[[_Standards/WikiData/WD~state_model,2325086]]'
+subclass_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+described_by_source: '[[_Standards/WikiData/WD~Q131705451,131705451]]'
 union_of:
-  - "[[_Standards/WikiData/WD~nation,6266]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+- '[[_Standards/WikiData/WD~nation,6266]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Image%20Germania%20%28painting%29.jpg
 described_at_URL: https://wikispooks.com/wiki/Nation_state
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Nation_state,179671]]"
-    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]"
-    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]"
-    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]"
-    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]"
-    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]"
+  - '[[../../../../../WikiData/WD~Nation_state,179671]]'
+  - '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]'
+  - '[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]'
+  - '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]'
+  - '[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]'
+  - '[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Nation_state,179671]]"
-  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]"
-  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]"
-  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]"
-  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]"
-  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]"
+- '[[../../../../../WikiData/WD~Nation_state,179671]]'
+- '[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]'
+- '[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]'
+- '[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]'
+- '[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]'
+- '[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]'
+- '[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]'
+- '[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]'
+dv_has_:
+  name_:
+    ar: دولة قومية
+    ast: estáu nación
+    az: Ulus dövlət
+    azb: میلی دؤولت
+    be: нацыянальная дзяржава
+    be-tarask: нацыянальная дзяржава
+    bg: Национална държава
+    bn: জাতিরাষ্ট্র
+    bs: nacionalna država
+    ca: estat nació
+    ceb: estadong nasod
+    ckb: دەوڵەتی نەتەوەیی
+    cs: národní stát
+    cy: Cenedl-wladwriaeth
+    da: nationalstat
+    de: Nationalstaat
+    el: έθνος-κράτος
+    en: nation state
+    eo: nacio-ŝtato
+    es: Estado nación
+    et: Rahvusriik
+    eu: Estatu-nazio
+    fa: دولت-ملت
+    fi: kansallisvaltio
+    fr: État-nation
+    fy: Naasjesteat
+    ga: náisiúnstát
+    gl: estado nación
+    he: מדינת לאום
+    hi: राष्ट्र-राज्य
+    hil: estado pungsod
+    hr: Nacionalna država
+    hu: nemzetállam
+    id: negara bangsa
+    is: Þjóðríki
+    it: Stato-nazione
+    ja: 国民国家
+    kk: ұлттық мемлекет
+    kk-arab: ۇلتتىق مەملەكەت
+    kk-cn: ۇلتتىق مەملەكەت
+    kk-cyrl: Ұлттық мемлекет
+    kk-kz: Ұлттық мемлекет
+    kk-latn: Ulttıq memleket
+    kk-tr: Ulttıq memleket
+    ko: 국민 국가
+    krj: estado pungsod
+    ku: netewe-welat
+    ku-arab: نەتەوە-وەلات
+    ku-latn: netewe-welat
+    li: Natiestaot
+    lmo: Stat Naziun
+    lt: nacionalinė valstybė
+    lv: nacionāla valsts
+    mg: Fanjakana-firenena
+    mk: национална држава
+    ms: Negara bangsa
+    mzn: دولت-ملت
+    nan: Bîn-cho̍k pang-kok
+    nb: nasjonalstat
+    nl: natiestaat
+    nn: Nasjonalstat
+    oc: Estat nacion
+    pa: ਰਾਸ਼ਟਰ ਰਾਜ
+    pam: estádung bangsâ
+    pl: państwo narodowe
+    pt: estado-nação
+    qu: Marka kamachiyniyuq llaqta
+    ro: stat național
+    ru: национальное государство
+    sco: naition state
+    sd: قومي رياست
+    sh: Nacionalna država
+    si: යුරෝපයේ ජාතික රාජ්ය
+    sk: Národný štát
+    sl: nacionalna država
+    sq: Shteti kombëtar
+    sr: национална држава
+    sr-ec: национална држава
+    sr-el: nacionalna država
+    sv: nationalstat
+    th: รัฐชาติ
+    tl: estadong bansâ
+    tr: ulus devlet
+    tt: милли дәүләт
+    tt-cyrl: милли дәүләт
+    uk: Національна держава
+    ur: قومی ریاست
+    vi: quốc gia dân tộc
+    yue: 民族國家
+    zh: 民族國家
+    zh-cn: 民族国家
+    zh-hans: 民族国家
+    zh-hant: 民族國家
+    zh-hk: 民族國家
+    zh-sg: 民族国家
+    zh-tw: 民族國家
 ---
-
 # [[Nation_State]] 
 
 #is_/same_as :: [[WD~Nation_state,179671]] 

@@ -1,33 +1,175 @@
 ---
 aliases:
+- alkam agejdan
+- Anakol
+- ciąg główny
+- Deret utama
+- Dãy chính
+- Fősorozat
+- Galvenās secības zvaigzne
+- glavna veja
+- Glavni niz
+- Haaptrei
+- Hauptreihe
+- Hlavná postupnosť
+- Hlavní posloupnost
+- hoofdreeks
+- Hoofreeks
+- hovedserien
+- hovudserien
+- huvudserien
+- Hööftreeg
+- Jujukan utama
+- main sequence
+- pagrindinė seka
+- Peajada
+- prif ddilyniant
+- príomhsheicheamh
+- pääsarja
+- secuencia principal
+- secuensa prinsipałe
+- secvența principală de stele
+- Sekuentzia nagusia
+- sequenza principale
+- Sequéncia principala
+- sequência principal
+- seqüència principal
+- Series principalis
+- siguenza principali
+- séquence principale
+- Usoro isi
+- ĉefa sekvenco
+- Κύρια Ακολουθία
+- Баш эзлеклелек
+- галоўная паслядоўнасць
+- галоўная пасьлядоўнасьць
+- главна низа
+- Главна последователност
+- главная последовательность
+- главни низ
+- головна послідовність
+- Негізгі тізбек жұлдызы
+- сæйраг фæдфæдылдзинад
+- Тĕп умлăн-хыçлăнлăх
+- הסדרה הראשית
+- النسق الأساسي
+- رشته اصلی
+- मुख्य अनुक्रम
+- মেইন-সিকোয়েন্স
+- మెయిన్ సీక్వెన్స్ నక్షత్రాలు
+- แถบลำดับหลัก
+- ပင်မ အစီအစဉ် အတွင်းရှိကြယ်
+- მთავარი მიმდევრობა
+- 主序星
+- 主系列星
+- 주계열
 has_id_wikidata: Q3450
-part_of: "[[_Standards/WikiData/WD~Hertzsprung_Russell_diagram,3270143]]"
-followed_by: "[[_Standards/WikiData/WD~subgiant,6227]]"
-subclass_of: "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
-instance_of: "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
+part_of: '[[_Standards/WikiData/WD~Hertzsprung_Russell_diagram,3270143]]'
+followed_by: '[[_Standards/WikiData/WD~subgiant,6227]]'
+subclass_of: '[[_Standards/WikiData/WD~stellar_evolution,6472]]'
+instance_of: '[[_Standards/WikiData/WD~stellar_evolution,6472]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HRDiagram.png
 Commons_category: Main-sequence stars
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Main_sequence,3450]]"
-    - "[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]"
-    - "[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]"
-    - "[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]"
-    - "[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]"
-    - "[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]"
-    - "[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]"
-    - "[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]"
+  - '[[../../WikiData/WD~Main_sequence,3450]]'
+  - '[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]'
+  - '[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]'
+  - '[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]'
+  - '[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]'
+  - '[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]'
+  - '[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]'
+  - '[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Main_sequence,3450]]"
-  - "[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]"
-  - "[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]"
-  - "[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]"
-  - "[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]"
-  - "[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]"
-  - "[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]"
-  - "[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]"
+- '[[../../WikiData/WD~Main_sequence,3450]]'
+- '[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]'
+- '[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]'
+- '[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]'
+- '[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]'
+- '[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]'
+- '[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]'
+- '[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]'
+dv_has_:
+  name_:
+    af: Hoofreeks
+    ar: النسق الأساسي
+    ast: secuencia principal
+    be: галоўная паслядоўнасць
+    be-tarask: галоўная пасьлядоўнасьць
+    bg: Главна последователност
+    bn: মেইন-সিকোয়েন্স
+    bs: Glavni niz
+    ca: seqüència principal
+    cs: Hlavní posloupnost
+    cv: Тĕп умлăн-хыçлăнлăх
+    cy: prif ddilyniant
+    de: Hauptreihe
+    el: Κύρια Ακολουθία
+    en: main sequence
+    en-ca: Main sequence
+    en-gb: main sequence
+    eo: ĉefa sekvenco
+    es: secuencia principal
+    et: Peajada
+    eu: Sekuentzia nagusia
+    fa: رشته اصلی
+    fi: pääsarja
+    fr: séquence principale
+    ga: príomhsheicheamh
+    gl: secuencia principal
+    he: הסדרה הראשית
+    hi: मुख्य अनुक्रम
+    hr: Glavni niz
+    hu: Fősorozat
+    id: Deret utama
+    ig: Usoro isi
+    it: sequenza principale
+    ja: 主系列星
+    ka: მთავარი მიმდევრობა
+    kab: alkam agejdan
+    kk: Негізгі тізбек жұлдызы
+    ko: 주계열
+    la: Series principalis
+    lb: Haaptrei
+    lt: pagrindinė seka
+    lv: Galvenās secības zvaigzne
+    mk: главна низа
+    ml: Main sequence
+    ms: Jujukan utama
+    my: ပင်မ အစီအစဉ် အတွင်းရှိကြယ်
+    nb: hovedserien
+    nds: Hööftreeg
+    ne: मुख्य अनुक्रम
+    nl: hoofdreeks
+    nn: hovudserien
+    oc: Sequéncia principala
+    os: сæйраг фæдфæдылдзинад
+    pl: ciąg główny
+    pt: sequência principal
+    ro: secvența principală de stele
+    ru: главная последовательность
+    scn: siguenza principali
+    sh: Glavni niz
+    sk: Hlavná postupnosť
+    sl: glavna veja
+    sr: главни низ
+    sr-ec: главни низ
+    sr-el: glavni niz
+    sv: huvudserien
+    te: మెయిన్ సీక్వెన్స్ నక్షత్రాలు
+    th: แถบลำดับหลัก
+    tr: Anakol
+    tt: Баш эзлеклелек
+    uk: головна послідовність
+    vec: secuensa prinsipałe
+    vi: Dãy chính
+    wuu: 主序星
+    yue: 主序星
+    zh: 主序星
+    zh-cn: 主序星
+    zh-hans: 主序星
+    zh-hant: 主序星
 ---
-
 # [[Main_Sequence]] 
 
 #is_/same_as :: [[WD~Main_sequence,3450]] 

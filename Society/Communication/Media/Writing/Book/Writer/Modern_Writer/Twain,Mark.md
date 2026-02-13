@@ -1,29 +1,68 @@
 ---
 aliases:
-  - Mark Twain
-  - Samuel Langhorne Clemens
-  - Twain
-  - Mark_Twain
-  - Twain,Mark
+- Maark Tiweeyn
+- Mark Tven
+- Mark Twain
+- mark.tuein
+- Markas Tvenas
+- Marks Tvens
+- Mark_Twain
+- Mars Tvens
+- Samuel Langhorne Clemens
+- Twain
+- Twain,Mark
+- Μαρκ Τουαίην
+- Марк Твейн
+- Марк Твен
+- Марк Твэн
+- Твен Марк
+- Մարկ Տվեն
+- מארק טוויין
+- مارك توين
+- مارك تويين
+- مارک تواین
+- مارک توین
+- مارک ٹوین
+- مارک ټوېن
+- मार्क ट्वेन
+- मार्क ट्वैन
+- মার্ক টোয়েইন
+- মাৰ্ক টোৱেইন
+- ਮਾਰਕ ਟਵੇਨ
+- માર્ક ટ્વેઇન
+- ମାର୍କ ଟ୍ୱାଇନ
+- மார்க் டுவெய்ன்
+- మార్క్ ట్వెయిన్
+- ಮಾರ್ಕ್ ಟ್ವೇನ್
+- മാർക് ട്വയിൻ
+- มาร์ก ทเวน
+- မာ့က်ခ်တွိန်း
+- მარკ ტვენი
+- ማርክ ትዌይን
+- ᱛᱣᱮᱭᱤᱱ, ᱢᱟᱨᱠ
+- マーク・トウェイン
+- 馬克吐溫
+- 马克·吐温
+- 마크 트웨인
 has_id_wikidata: Q7245
 archives_at:
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]'
 ArhivX_LOD: 17431
 award_received:
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yale_University,63072513]]'
-  - '[[_Standards/WikiData/WD~member_of_the_Nevada_Newspaper_Hall_of_Fame,106401240]]'
-  - '[[_Standards/WikiData/WD~member_of_the_Nevada_Writers_Hall_of_Fame,106910608]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yale_University,63072513]]'
+- '[[_Standards/WikiData/WD~member_of_the_Nevada_Newspaper_Hall_of_Fame,106401240]]'
+- '[[_Standards/WikiData/WD~member_of_the_Nevada_Writers_Hall_of_Fame,106910608]]'
 BHCL_UUID:
-  - 21588604-940b-429b-b46b-7fb0887f3319
-  - a84f8e03-b331-4761-a023-7d44f1903b30
+- 21588604-940b-429b-b46b-7fb0887f3319
+- a84f8e03-b331-4761-a023-7d44f1903b30
 birth_name: Samuel Langhorne Clemens
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 child:
-  - '[[_Standards/WikiData/WD~Clara_Clemens,5125968]]'
-  - '[[_Standards/WikiData/WD~Jean_Clemens,6170445]]'
-  - '[[_Standards/WikiData/WD~Susy_Clemens,7649832]]'
+- '[[_Standards/WikiData/WD~Clara_Clemens,5125968]]'
+- '[[_Standards/WikiData/WD~Jean_Clemens,6170445]]'
+- '[[_Standards/WikiData/WD~Susy_Clemens,7649832]]'
 Commons_category: Mark Twain
 Commons_Creator_page: Mark Twain
 Commons_gallery: Mark Twain
@@ -33,53 +72,53 @@ date_of_birth: 1835-11-30
 date_of_death: 1910-04-21
 described_at_URL: http://www.digiporta.net/index.php?id=116582238
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 different_from: '[[_Standards/WikiData/WD~MARC,6714458]]'
 educated_at: '[[_Standards/WikiData/WD~Cascadilla_School,5048217]]'
 Europeana_entity: agent/base/61287
 facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Twain,12675473]]'
-  - '[[_Standards/WikiData/WD~Clemens,27133250]]'
-  - '[[_Standards/WikiData/WD~Langhorne,29407143]]'
+- '[[_Standards/WikiData/WD~Twain,12675473]]'
+- '[[_Standards/WikiData/WD~Clemens,27133250]]'
+- '[[_Standards/WikiData/WD~Langhorne,29407143]]'
 father: '[[_Standards/WikiData/WD~John_Marshall_Clemens,6246874]]'
 genre: '[[_Standards/WikiData/WD~historical_fiction,1196408]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Samuel,629347]]'
-  - '[[_Standards/WikiData/WD~Mark,13610143]]'
+- '[[_Standards/WikiData/WD~Samuel,629347]]'
+- '[[_Standards/WikiData/WD~Mark,13610143]]'
 Google_Doodle: mark-twains-176th-birthday
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MarkTwain.LOC.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Twain%20Grave.JPG
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI:
-  - 368641704
-  - 77209145
-  - 108003124
-  - 121324854
+- 368641704
+- 77209145
+- 108003124
+- 121324854
 Krugosvet_article: kultura_i_obrazovanie/literatura/TVEN_MARK.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: 1zcfb5hk1bq7d78
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -88,37 +127,37 @@ mother: '[[_Standards/WikiData/WD~Jane_Lampton_Clemens,96322060]]'
 name_in_native_language: Mark Twain
 NLC_authorities: 205309
 notable_work:
-  - '[[_Standards/WikiData/WD~Adventures_of_Huckleberry_Finn,215410]]'
-  - '[[_Standards/WikiData/WD~The_Adventures_of_Tom_Sawyer,326914]]'
+- '[[_Standards/WikiData/WD~Adventures_of_Huckleberry_Finn,215410]]'
+- '[[_Standards/WikiData/WD~The_Adventures_of_Tom_Sawyer,326914]]'
 occupation:
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~travel_writer,3579035]]'
-  - '[[_Standards/WikiData/WD~aphorist,3606216]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~humorist,12406482]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~travel_writer,3579035]]'
+- '[[_Standards/WikiData/WD~aphorist,3606216]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~humorist,12406482]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]'
 place_of_birth: '[[_Standards/WikiData/WD~Florida,537803]]'
 place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033007]]'
 place_of_death: '[[_Standards/WikiData/WD~Redding,2018185]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~The_Autobiography_of_Jean-Luc_Picard,73402184]]'
-  - '[[_Standards/WikiData/WD~Assimilation_,_Issue_1,83879450]]'
+- '[[_Standards/WikiData/WD~The_Autobiography_of_Jean-Luc_Picard,73402184]]'
+- '[[_Standards/WikiData/WD~Assimilation_,_Issue_1,83879450]]'
 Provenio_UUID: 56f025ca-8f6b-4961-bc1a-dfa56cee0e13
 pseudonym:
-  - Sieur Louis de Conte
-  - Thomas Jefferson Snodgrass
-  - Mark Twain
+- Sieur Louis de Conte
+- Thomas Jefferson Snodgrass
+- Mark Twain
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 residence:
-  - '[[_Standards/WikiData/WD~Mark_Twain_House,4165331]]'
-  - '[[_Standards/WikiData/WD~Mark_Twain_Birthplace_State_Historic_Site,6770077]]'
+- '[[_Standards/WikiData/WD~Mark_Twain_House,4165331]]'
+- '[[_Standards/WikiData/WD~Mark_Twain_Birthplace_State_Historic_Site,6770077]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Orion_Clemens,7102773]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Twain%20Signatures-2.svg
@@ -128,16 +167,96 @@ subreddit: MarkTwain
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/30192
 Swedish_Royal_Theater_Archive: Person/5752
 U_S_National_Archives_Identifier:
-  - 10574508
-  - 10581697
+- 10574508
+- 10581697
 Wolfram_Language_entity_code: Entity["Concept", "Clemens::4375p"]
 work_period_end_: 1910
 work_period_start_: 1864
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+dv_has_:
+  name_:
+    alt: Марк Твен
+    am: ማርክ ትዌይን
+    ar: مارك توين
+    ary: مارك تويين
+    arz: مارك توين
+    as: মাৰ্ক টোৱেইন
+    az: Mark Tven
+    azb: مارک تواین
+    ba: Марк Твен
+    be: Марк Твэн
+    be-tarask: Марк Твэн
+    bg: Марк Твен
+    bn: মার্ক টোয়েইন
+    bxr: Марк Твен
+    ce: Марк Твен
+    ckb: مارک توین
+    crh: Mark Tven
+    cv: Марк Твен
+    de: Mark Twain
+    el: Μαρκ Τουαίην
+    fa: مارک تواین
+    fr: Mark Twain
+    frr: Mark Twain
+    gu: માર્ક ટ્વેઇન
+    he: מארק טוויין
+    hi: मार्क ट्वैन
+    hy: Մարկ Տվեն
+    ja: マーク・トウェイン
+    jbo: mark.tuein
+    ka: მარკ ტვენი
+    kbd: Марк Твен
+    kk: Марк Твен
+    kn: ಮಾರ್ಕ್ ಟ್ವೇನ್
+    ko: 마크 트웨인
+    ky: Твен Марк
+    lez: Марк Твен
+    lt: Markas Tvenas
+    lv: Marks Tvens
+    mhr: Марк Твен
+    mk: Марк Твен
+    ml: മാർക് ട്വയിൻ
+    mn: Марк Твен
+    mr: मार्क ट्वेन
+    mrj: Марк Твен
+    mul: Mark Twain
+    my: မာ့က်ခ်တွိန်း
+    myv: Марк Твен
+    ne: मार्क ट्वेन
+    new: मार्क ट्वेन
+    om: Maark Tiweeyn
+    or: ମାର୍କ ଟ୍ୱାଇନ
+    pa: ਮਾਰਕ ਟਵੇਨ
+    pnb: مارک ٹوین
+    ps: مارک ټوېن
+    ru: Марк Твен
+    rue: Марк Твейн
+    sah: Марк Твен
+    sat: ᱛᱣᱮᱭᱤᱱ, ᱢᱟᱨᱠ
+    sgs: Mars Tvens
+    sr: Марк Твен
+    stq: Samuel Langhorne Clemens
+    ta: மார்க் டுவெய்ன்
+    te: మార్క్ ట్వెయిన్
+    tg: Марк Твейн
+    th: มาร์ก ทเวน
+    tt: Марк Твен
+    tyv: Марк Твен
+    udm: Марк Твен
+    uk: Марк Твен
+    ur: مارک ٹوین
+    vep: Mark Tven
+    wuu: 马克·吐温
+    xmf: მარკ ტვენი
+    yi: מארק טוויין
+    yue: 馬克吐溫
+    zh: 马克·吐温
+    zh-cn: 马克·吐温
+    zh-hans: 马克·吐温
+    zh-hant: 马克·吐温
 ---
-
 # [[Twain,Mark]] 
 
 #has_/time_/started ::  1835-11-30

@@ -1,8 +1,139 @@
 ---
 aliases:
-  - Lemuridae
+- bancudoleem
+- Gewöhnliche Makis
+- Họ Vượn cáo
+- Leemurlased
+- Lemur
+- Lemuredoj
+- Lemuren
+- Lemurer
+- Lemuri
+- Lemuriano
+- Lemuridae
+- lemurji
+- Lemurlar
+- Lemurovité
+- lemurovití denní
+- Lemurowate
+- Lemwrlar
+- Lemúrid
+- Lemūriniai
+- Magíshtłizhí
+- Maki
+- maki's
+- maki- og lemurfamilien
+- makifélék
+- Makigiller
+- makit
+- Лемур йышшисем
+- Лемуравыя
+- лемури
+- Лемуринбур
+- Лемурлар
+- лемурові
+- лемурови
+- лемуровые
+- լեմուրազգիներ
+- למוריים
+- عام لیمر
+- لموریان
+- ليموريات
+- لەمۋرلار
+- ლემურისებრნი
+- キツネザル科
+- 狐猴
+- 狐猴科
+- 여우원숭이과
 title: Lemuridae
 has_id_wikidata: Q186462
+dv_has_:
+  name_:
+    an: Lemuridae
+    ar: ليموريات
+    arz: ليموريات
+    ast: Lemuridae
+    avk: bancudoleem
+    az: Lemurlar
+    be: Лемуравыя
+    be-tarask: Лемуравыя
+    bg: лемурови
+    br: Lemuridae
+    bs: Lemuridae
+    ca: Lemúrid
+    ceb: Lemuridae
+    cs: lemurovití denní
+    cv: Лемур йышшисем
+    da: Maki
+    de: Gewöhnliche Makis
+    en: Lemuridae
+    eo: Lemuredoj
+    es: Lemuridae
+    et: Leemurlased
+    eu: Lemuridae
+    ext: Lemuridae
+    fa: لموریان
+    fi: makit
+    fr: Lemuridae
+    frr: Lemuridae
+    ga: Lemuridae
+    gl: Lemuridae
+    he: למוריים
+    hr: Lemuri
+    hu: makifélék
+    hy: լեմուրազգիներ
+    ia: Lemuridae
+    ie: Lemuridae
+    io: Lemuriano
+    it: Lemuridae
+    ja: キツネザル科
+    ka: ლემურისებრნი
+    kk: Лемурлар
+    kk-arab: لەمۋرلار
+    kk-cn: لەمۋرلار
+    kk-cyrl: Лемурлар
+    kk-kz: Лемурлар
+    kk-latn: Lemwrlar
+    kk-tr: Lemwrlar
+    ko: 여우원숭이과
+    ky: Лемурлар
+    la: Lemuridae
+    lb: Lemuren
+    lez: Лемуринбур
+    lij: Lemuridae
+    lt: Lemūriniai
+    mk: лемури
+    mul: Lemuridae
+    nb: maki- og lemurfamilien
+    nl: maki's
+    nv: Magíshtłizhí
+    oc: Lemuridae
+    pl: Lemurowate
+    pnb: عام لیمر
+    pt: Lemuridae
+    pt-br: Lemuridae
+    ro: Lemuridae
+    ru: лемуровые
+    scn: Lemuridae
+    sco: Lemuridae
+    sh: Lemuri
+    sk: Lemurovité
+    sl: lemurji
+    sq: Lemur
+    sv: Lemurer
+    tl: Lemuridae
+    tr: Makigiller
+    uk: лемурові
+    vi: Họ Vượn cáo
+    vo: Lemuridae
+    war: Lemuridae
+    zh: 狐猴科
+    zh-cn: 狐猴科
+    zh-hans: 狐猴科
+    zh-hant: 狐猴
+    zh-hk: 狐猴
+    zh-sg: 狐猴
+    zh-tw: 狐猴科
 ---
 # [[Lemuridae]] 
 

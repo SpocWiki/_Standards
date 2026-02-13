@@ -1,19 +1,100 @@
 ---
 aliases:
-  - Germanic paganism
-  - Germanic_Paganism
-  - Germanic Paganism
+- Cermen paganizmi
+- Germaaninen uskonto
+- Germaanse godsdiens
+- Germaanse godsdienst
+- Germaanske mytology
+- Germanic paganism
+- Germanic_Paganism
+- Germanische Religion
+- Germansk religion
+- Germanski paganizam
+- germansko staroverstvo
+- germán ősvallás
+- Germánské náboženství
+- paganesimo germanico
+- Paganiezh c'herman
+- paganisme germanique
+- paganisme germànic
+- Paganisme Jermanik
+- paganismo germaniar
+- paganismo xermánico
+- Paganizmi gjerman
+- Religia Germanów
+- Religio Germanica
+- religión germánica
+- Þēodisc Hǣðenscipe
+- ĝermana religio
+- Ģermāņu pagānisms
+- Γερμανικός παγανισμός
+- германскае паганства
+- германскае язычніцтва
+- Германско паганство
+- германское язычество
+- Дохристиянські вірування германців
+- פגאניזם גרמאני
+- آیین ژرمنی
+- وثنية جرمانية
+- وثنيه جرمانيه
+- ゲルマン・ペイガニズム
+- 日耳曼异教
+- 日耳曼異教
 has_id_wikidata: Q1122452
-part_of: "[[_Standards/WikiData/WD~Germanic_mythology,1009917]]"
+part_of: '[[_Standards/WikiData/WD~Germanic_mythology,1009917]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Germanic_religion,5551929]]"
-  - "[[_Standards/WikiData/WD~paganism,29536]]"
-instance_of: "[[_Standards/WikiData/WD~religion,9174]]"
-practiced_by: "[[_Standards/WikiData/WD~Germanic_people,22633]]"
-Dewey_Decimal_Classification: "293"
+- '[[_Standards/WikiData/WD~Germanic_religion,5551929]]'
+- '[[_Standards/WikiData/WD~paganism,29536]]'
+instance_of: '[[_Standards/WikiData/WD~religion,9174]]'
+practiced_by: '[[_Standards/WikiData/WD~Germanic_people,22633]]'
+Dewey_Decimal_Classification: 293
 Commons_category: Germanic mythology
+dv_has_:
+  name_:
+    af: Germaanse godsdiens
+    ang: Þēodisc Hǣðenscipe
+    ar: وثنية جرمانية
+    arz: وثنيه جرمانيه
+    be: германскае язычніцтва
+    be-tarask: германскае паганства
+    br: Paganiezh c'herman
+    ca: paganisme germànic
+    cs: Germánské náboženství
+    da: Germansk religion
+    de: Germanische Religion
+    el: Γερμανικός παγανισμός
+    en: Germanic paganism
+    eo: ĝermana religio
+    es: religión germánica
+    eu: paganismo germaniar
+    fa: آیین ژرمنی
+    fi: Germaaninen uskonto
+    fr: paganisme germanique
+    fy: Germaanske mytology
+    gl: paganismo xermánico
+    he: פגאניזם גרמאני
+    hu: germán ősvallás
+    id: Paganisme Jermanik
+    it: paganesimo germanico
+    ja: ゲルマン・ペイガニズム
+    la: Religio Germanica
+    lv: Ģermāņu pagānisms
+    mk: Германско паганство
+    nb: Germansk religion
+    nl: Germaanse godsdienst
+    nn: germansk religion
+    pl: Religia Germanów
+    ru: германское язычество
+    sl: germansko staroverstvo
+    sq: Paganizmi gjerman
+    sr: Germanski paganizam
+    sv: Germansk religion
+    tr: Cermen paganizmi
+    uk: Дохристиянські вірування германців
+    zh: 日耳曼異教
+    zh-cn: 日耳曼异教
+    zh-hans: 日耳曼异教
 ---
-
 # [[Germanic_Paganism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Germanic_paganism,1122452|WD~Germanic_paganism,1122452]] 

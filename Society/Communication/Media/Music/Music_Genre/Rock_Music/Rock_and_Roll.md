@@ -1,12 +1,54 @@
 ---
-has_time_started: 1949-01-01 
+has_time_started: 1949-01-01
 aliases:
-  - rock and roll
-  - rock & roll
-  - rock-n-roll
-  - rock 'n' roll
-  - Rock_and_Roll
-  - Rock and Roll
+- Iô-kún-ga̍k
+- muzică rock and roll
+- puoro rakapioi
+- rac is roll
+- rak in rul
+- roc a rôl
+- rock & roll
+- rock 'n Roll
+- rock 'n' roll
+- rock and roll
+- rock'n'roll
+- rock-'n-roll
+- rock-and-roll
+- rock-n-roll
+- Rock_and_Roll
+- rok-n-roll
+- rokenrol
+- rokenrolas
+- rokenrolo
+- rokenrols
+- rokk og ról
+- Vatu kei iwiliwili
+- zginroknro
+- ροκ εντ ρολ
+- рок-н-рол
+- рок-н-ролл
+- рокендрол
+- рокенрол
+- ռոք էնտ ռոլ
+- ռոքնռոլ
+- ראק און ראל
+- רוק אנד רול
+- راک اند رول
+- راک اینڈ رول
+- راک-اند-رول
+- روك أند رول
+- ڕۆک ئێند ڕۆڵ
+- रक एन्ड रोल
+- रॉक ऐन्ड रोल
+- রক অ্যান্ড রোল
+- ராக் அண்டு ரோல்
+- റോക്ക് ആൻഡ് റോൾ
+- ร็อกแอนด์โรล
+- როკ-ენ-როლი
+- ロックンロール
+- 搖滾
+- 摇滚
+- 로큰롤
 has_id_wikidata: Q7749
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 different_from: "[[_Standards/WikiData/WD~Rock_and_roll_Rock_'n'_roll,294088]]"
@@ -15,8 +57,8 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rock_and_Roll,19
 subclass_of: '[[_Standards/WikiData/WD~rock_music,11399]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 exact_match:
-  - http://cv.iptc.org/newscodes/subjectcode/01011006
-  - http://id.loc.gov/authorities/subjects/sh85114675
+- http://cv.iptc.org/newscodes/subjectcode/01011006
+- http://id.loc.gov/authorities/subjects/sh85114675
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20promoting%20Jailhouse%20Rock.jpg
 IPTC_NewsCode: mediatopic/20000027
 IMDb_keyword: rock-and-roll
@@ -24,8 +66,112 @@ native_label: Rock and roll
 Commons_category: Rock and roll
 inception: 1949-01-01T00:00:00Z
 hashtag_: RockAndRoll
+dv_has_:
+  name_:
+    ar: روك أند رول
+    arz: روك أند رول
+    ast: rock and roll
+    az: rok-n-roll
+    bar: Rock and Roll
+    be: рок-н-рол
+    be-tarask: рок-н-рол
+    bg: рокендрол
+    bn: রক অ্যান্ড রোল
+    br: rock 'n' roll
+    bs: rokenrol
+    ca: rock and roll
+    ckb: ڕۆک ئێند ڕۆڵ
+    cs: rock and roll
+    cy: roc a rôl
+    da: rock and roll
+    de: Rock 'n' Roll
+    el: ροκ εντ ρολ
+    en: rock and roll
+    eo: rokenrolo
+    es: rock and roll
+    et: rock'n'roll
+    eu: rock-and-roll
+    fa: راک اند رول
+    fi: rock and roll
+    fj: Vatu kei iwiliwili
+    fr: rock 'n' roll
+    fy: rock and roll
+    ga: rac is roll
+    gl: rock and roll
+    gsw: rock 'n' Roll
+    gv: rock 'n' roll
+    he: רוק אנד רול
+    hi: रॉक ऐन्ड रोल
+    hif: rock and roll
+    hu: rock and roll
+    hy: ռոքնռոլ
+    hyw: ռոք էնտ ռոլ
+    ia: Rock and roll
+    id: rock and roll
+    is: rokk og ról
+    it: rock and roll
+    ja: ロックンロール
+    jbo: zginroknro
+    ka: როკ-ენ-როლი
+    kk: Рок-н-ролл
+    ko: 로큰롤
+    ky: Рок-н-ролл
+    lb: Rock 'n' Roll
+    li: rock-'n-roll
+    lmo: rock 'n Roll
+    lt: rokenrolas
+    lv: rokenrols
+    mhr: Рок-н-ролл
+    mi: puoro rakapioi
+    mk: Рокенрол
+    ml: റോക്ക് ആൻഡ് റോൾ
+    mn: Рок-н-ролл
+    ms: Rock and roll
+    mt: rock 'n roll
+    my: Rock and roll
+    mzn: راک-اند-رول
+    nan: Iô-kún-ga̍k
+    nb: rock and roll
+    new: रक एन्ड रोल
+    nl: rock-'n-roll
+    nn: rock and roll
+    oc: Rock'n'roll
+    pap: rock & roll
+    pcd: Rock'n'roll
+    pl: rock and roll
+    pt: rock and roll
+    pt-br: rock and roll
+    pwn: rak in rul
+    ro: muzică rock and roll
+    ru: рок-н-ролл
+    sc: rock and roll
+    scn: rock and roll
+    sco: rock and roll
+    sh: rokenrol
+    sk: rokenrol
+    sl: rock and roll
+    sq: Rock 'n' Roll
+    sr: рокенрол
+    sv: rock'n'roll
+    sw: Rock and roll
+    ta: ராக் அண்டு ரோல்
+    th: ร็อกแอนด์โรล
+    tl: rock and roll
+    tr: rock and roll
+    uk: рок-н-рол
+    ur: راک اینڈ رول
+    uz: rok-n-roll
+    vec: rock & roll
+    vi: rock and roll
+    war: rock and roll
+    wuu: 摇滚
+    xmf: როკ-ენ-როლი
+    yi: ראק און ראל
+    yo: rock and roll
+    yue: Rock and roll
+    zh: 搖滾
+    zh-hant: 搖滾
 ---
-
 # [[Rock_and_Roll]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Rock_and_roll,7749|WD~Rock_and_roll,7749]] 

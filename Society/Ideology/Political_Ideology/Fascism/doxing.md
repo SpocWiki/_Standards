@@ -1,8 +1,89 @@
 ---
 aliases:
-  - doxxing
-  - doxing
+- divulgation de données personnelles
+- Divulgo di privata datumi
+- docsáil
+- doksanje
+- doksaus
+- doksimine
+- Doksing
+- Doksing ili targetiranje
+- doksinq
+- doxeo
+- doxing
+- doxxing
+- dòxing
+- fimalkaŝo
+- ifşa
+- pelondehan
+- đánh cắp thông tin
+- Доксінг
+- доксинг
+- доксирање
+- Դոքսինգ
+- אאוטינג
+- استقاء معلومات شخصية
+- داکسینگ
+- دۆکسینگ
+- ڈاکسنگ
+- ډاکسينګ
+- डॉक्सिंग
+- ডোক্সিং
+- ഡോക്സിംഗ്
+- 人肉搜尋
+- 人肉搜索
+- 晒し
+- 신상 털기
 has_id_wikidata: Q15901411
+dv_has_:
+  name_:
+    ar: استقاء معلومات شخصية
+    az: doksinq
+    be: Доксінг
+    bn: ডোক্সিং
+    ca: dòxing
+    ckb: دۆکسینگ
+    cs: doxing
+    da: doxing
+    de: Doxxing
+    el: Doxing
+    en: doxing
+    eo: fimalkaŝo
+    es: doxeo
+    et: doksimine
+    fa: داکسینگ
+    fi: doksaus
+    fr: divulgation de données personnelles
+    ga: docsáil
+    gl: Doxing
+    he: אאוטינג
+    hi: डॉक्सिंग
+    hr: Doxing
+    hu: Doxxing
+    hy: Դոքսինգ
+    id: Doksing
+    io: Divulgo di privata datumi
+    it: doxing
+    ja: 晒し
+    ko: 신상 털기
+    mk: доксирање
+    ml: ഡോക്സിംഗ്
+    ms: pelondehan
+    nb: doxing
+    nl: doxing
+    pl: doxing
+    ps: ډاکسينګ
+    pt: doxing
+    ru: доксинг
+    sl: doksanje
+    sr: Doksing ili targetiranje
+    sv: doxing
+    tr: ifşa
+    uk: доксинг
+    ur: ڈاکسنگ
+    vi: đánh cắp thông tin
+    zh: 人肉搜索
+    zh-hant: 人肉搜尋
 ---
 ## #has_/text_of_/abstract 
 

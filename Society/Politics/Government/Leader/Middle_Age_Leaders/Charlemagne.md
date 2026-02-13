@@ -1,35 +1,152 @@
 ---
 aliases:
-  - Charlemagne
-  - Karl der Große
+- Buyuk Karl
+- Böyük Karl
+- Büyük Karl
+- Ca-li-man
+- Carl il Grond
+- Carl le Gran
+- Carl Magn
+- Carl Magno
+- Carl sē Micel Francena Cyning
+- Carlemany
+- Carlesmanhe
+- Carli Magn
+- Carlo la grande
+- Carlo Magn
+- Carlo Magno
+- Carlomagno
+- Carlos Magno
+- Carlu Magnu
+- Carlus el Grandi
+- Carlémangne
+- Carol cel Mare
+- Carolo Magne
+- Carolus Magnus
+- Carulu Magnu
+- Caṛlman
+- Charlemagne
+- Charlemangne
+- Charles I (gazik ke Franca)
+- Chârlomagno
+- I. (Nagy) Károly római császár és frank király
+- jan Kalu suli
+- Kaarle Suuri
+- Karel de Groete
+- Karel de Grote
+- Karel de Groussen
+- Karel de Grutte
+- Karel den Grôotn
+- Karel die Grote
+- Karel I. Veliký
+- Karel Veliki
+- Karl de Grote
+- Karl den Store
+- Karl der Grosse
+- Karl der Große
+- Karl di Grat
+- Karl dr Gross
+- Karl la Granda
+- Karl Sur'
+- Karl Suur
+- Karl Suuri
+- Karl Veur
+- Karlamagnus
+- Karlamagnús
+- Karli i Madh
+- Karlo Veliki
+- Karlomagno
+- Karol Veľký
+- Karol Wielki
+- Karolis Didysis
+- Karolo la Granda
+- Karolo Mkuu
+- Karolus Agung
+- Karolus Magnus
+- Karuolės Dėdlīsės
+- Karèl Agung
+- Kārlis Lielais
+- Siarlymaen
+- Séarlas Mór
+- Tchårlumagne
+- Teàrlach Mòr
+- Çhalse Mooar
+- Şarlman
+- Καρλομάγνος
+- Аслă Карл
+- Бөек Карл
+- Бөйөк Карл
+- Ехэ Карл
+- Их Карл
+- Карл I Великий
+- Карл I Улуу
+- Карл I. Великый
+- Карл Велики
+- Карл Великий
+- Карл Вялікі
+- Карл Өндүр-Улуг
+- Карло Велики
+- Сийлахь-воккха Карл
+- Стыр Карл
+- Улуу Карл
+- Ұлы Карл
+- Կառլոս Մեծ
+- קארל דער גרויסער
+- קרל הגדול
+- شارلمان
+- شارلمانی
+- شارلمین
+- شارلومان
+- چارليماګني
+- چارلیمان
+- चार्लेम्याग्न
+- शारलेमेन
+- शार्लमेन
+- शार्लेमन्य
+- শার্লমাইন
+- শাৰ্লেমেন
+- ਸ਼ਾਰਲਮੇਨ
+- சார்லமேன்
+- കാറൽമാൻ
+- ชาร์เลอมาญ
+- ရှာလမိန်း
+- კარლოს დიდი
+- ካሮሉስ ማግኑስ
+- カール大帝
+- 查理大帝
+- 查理曼
+- 查理曼大帝
+- 沙利門大帝
+- 카롤루스 대제
+- "\U0001033A\U00010330\U00010342\U0001033B \U00010343\U00010330 \U0001033C\U00010339\U0001033A\U00010339\U0001033B\U00010330"
 has_id_wikidata: Q3044
 appointed_by: '[[_Standards/WikiData/WD~Leo_III,132086]]'
 BHCL_UUID:
-  - 26296244-fd07-4d08-ab24-cff15ec2613d
-  - 482f1403-a923-4f8a-be98-1116237423ed
+- 26296244-fd07-4d08-ab24-cff15ec2613d
+- 482f1403-a923-4f8a-be98-1116237423ed
 birth_name: Karlus
 canonization_status: '[[_Standards/WikiData/WD~blessed,2369287]]'
 cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
 child:
-  - '[[_Standards/WikiData/WD~Rotrude,269691]]'
-  - '[[_Standards/WikiData/WD~Charles_the_Younger,283107]]'
-  - '[[_Standards/WikiData/WD~Pepin_of_Italy,299645]]'
-  - '[[_Standards/WikiData/WD~Pepin_the_Hunchback,302212]]'
-  - '[[_Standards/WikiData/WD~Theodrada,452984]]'
-  - '[[_Standards/WikiData/WD~Drogo,723791]]'
-  - '[[_Standards/WikiData/WD~Bertha,827676]]'
-  - '[[_Standards/WikiData/WD~Hugh,920516]]'
-  - '[[_Standards/WikiData/WD~Gisela,946829]]'
-  - '[[_Standards/WikiData/WD~Ruodhaid,3442976]]'
-  - '[[_Standards/WikiData/WD~Alpais,23930949]]'
-  - '[[_Standards/WikiData/WD~Adelaide,23930953]]'
-  - '[[_Standards/WikiData/WD~Lothair,23930957]]'
-  - '[[_Standards/WikiData/WD~Chrotais,23930962]]'
-  - '[[_Standards/WikiData/WD~Hildegard,23930960]]'
-  - '[[_Standards/WikiData/WD~Hiltrude,23930966]]'
-  - '[[_Standards/WikiData/WD~Adaltrude,23930974]]'
-  - '[[_Standards/WikiData/WD~Theodoric,23930981]]'
-  - '[[_Standards/WikiData/WD~Louis_the_Pious,43974]]'
+- '[[_Standards/WikiData/WD~Rotrude,269691]]'
+- '[[_Standards/WikiData/WD~Charles_the_Younger,283107]]'
+- '[[_Standards/WikiData/WD~Pepin_of_Italy,299645]]'
+- '[[_Standards/WikiData/WD~Pepin_the_Hunchback,302212]]'
+- '[[_Standards/WikiData/WD~Theodrada,452984]]'
+- '[[_Standards/WikiData/WD~Drogo,723791]]'
+- '[[_Standards/WikiData/WD~Bertha,827676]]'
+- '[[_Standards/WikiData/WD~Hugh,920516]]'
+- '[[_Standards/WikiData/WD~Gisela,946829]]'
+- '[[_Standards/WikiData/WD~Ruodhaid,3442976]]'
+- '[[_Standards/WikiData/WD~Alpais,23930949]]'
+- '[[_Standards/WikiData/WD~Adelaide,23930953]]'
+- '[[_Standards/WikiData/WD~Lothair,23930957]]'
+- '[[_Standards/WikiData/WD~Chrotais,23930962]]'
+- '[[_Standards/WikiData/WD~Hildegard,23930960]]'
+- '[[_Standards/WikiData/WD~Hiltrude,23930966]]'
+- '[[_Standards/WikiData/WD~Adaltrude,23930974]]'
+- '[[_Standards/WikiData/WD~Theodoric,23930981]]'
+- '[[_Standards/WikiData/WD~Louis_the_Pious,43974]]'
 Commons_category: Carolus Magnus
 Commons_gallery: Carolus Magnus
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
@@ -37,22 +154,22 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Francia,146246]]'
 date_of_birth: 740
 date_of_death: 0814-02-01
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
-  - '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-  - '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
+- '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
 family: '[[_Standards/WikiData/WD~Carolingian_dynasty,133602]]'
 father: '[[_Standards/WikiData/WD~Pepin_the_Short,81212]]'
 feast_day: '[[_Standards/WikiData/WD~January_18,2265]]'
@@ -61,63 +178,242 @@ Iconclass_notation: 11H(CHARLEMAGNE)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Karlsschrein%20front%20side%20left.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121430569
 Krugosvet_article: istoriya/karl-0742-0814-velikiy
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Frankish,10860505]]'
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Greek,9129]]'
+- '[[_Standards/WikiData/WD~Frankish,10860505]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Greek,9129]]'
 Library_of_Congress_Classification: DD133-DD133.2
 Libris_URI: dbqst1qx38cnxc6
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20autograph.svg
 mother: '[[_Standards/WikiData/WD~Bertrada_of_Laon,266751]]'
 name: Charles Ier
 noble_title:
-  - '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
-  - '[[_Standards/WikiData/WD~king_of_Franks,22923081]]'
-  - '[[_Standards/WikiData/WD~King_of_Lombards,22997793]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
+- '[[_Standards/WikiData/WD~king_of_Franks,22923081]]'
+- '[[_Standards/WikiData/WD~King_of_Lombards,22997793]]'
 occupation:
-  - '[[_Standards/WikiData/WD~sovereign,2304859]]'
-  - '[[_Standards/WikiData/WD~monarch,116]]'
+- '[[_Standards/WikiData/WD~sovereign,2304859]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
 place_of_birth: '[[_Standards/WikiData/WD~Francia,146246]]'
 place_of_burial: '[[_Standards/WikiData/WD~Palatine_Chapel,2458522]]'
 place_of_death: '[[_Standards/WikiData/WD~Aachen,1017]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
-  - '[[_Standards/WikiData/WD~king_of_Franks,22923081]]'
-  - '[[_Standards/WikiData/WD~King_of_Lombards,22997793]]'
-  - '[[_Standards/WikiData/WD~duke_of_Bavaria,23011565]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
+- '[[_Standards/WikiData/WD~king_of_Franks,22923081]]'
+- '[[_Standards/WikiData/WD~King_of_Lombards,22997793]]'
+- '[[_Standards/WikiData/WD~duke_of_Bavaria,23011565]]'
 present_in_work: '[[_Standards/WikiData/WD~Orlando_Furioso,48922]]'
 Provenio_UUID:
-  - 7d85cbaa-54fe-457a-8ecc-9df9f55043a8
-  - b949f5f9-8277-4672-9e04-3c96558cfa22
+- 7d85cbaa-54fe-457a-8ecc-9df9f55043a8
+- b949f5f9-8277-4672-9e04-3c96558cfa22
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
-  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 Royal_Academy_new_identifier: charlemagne
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Carloman_I,191003]]'
-  - '[[_Standards/WikiData/WD~Gisela,_Abbess_of_Chelles,1010767]]'
-  - '[[_Standards/WikiData/WD~Pepin,23930942]]'
-  - '[[_Standards/WikiData/WD~Adelais,23930947]]'
-  - '[[_Standards/WikiData/WD~Chrothais,23930970]]'
+- '[[_Standards/WikiData/WD~Carloman_I,191003]]'
+- '[[_Standards/WikiData/WD~Gisela,_Abbess_of_Chelles,1010767]]'
+- '[[_Standards/WikiData/WD~Pepin,23930942]]'
+- '[[_Standards/WikiData/WD~Adelais,23930947]]'
+- '[[_Standards/WikiData/WD~Chrothais,23930970]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Karldergrossesignatur.jpg
 spouse:
-  - '[[_Standards/WikiData/WD~Hildegard_of_Vinzgouw,234410]]'
-  - '[[_Standards/WikiData/WD~Fastrada,241165]]'
-  - '[[_Standards/WikiData/WD~Luitgard,261866]]'
-  - '[[_Standards/WikiData/WD~Desiderata_of_the_Lombards,263474]]'
-  - '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
+- '[[_Standards/WikiData/WD~Hildegard_of_Vinzgouw,234410]]'
+- '[[_Standards/WikiData/WD~Fastrada,241165]]'
+- '[[_Standards/WikiData/WD~Luitgard,261866]]'
+- '[[_Standards/WikiData/WD~Desiderata_of_the_Lombards,263474]]'
+- '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
-  - '[[_Standards/WikiData/WD~Gersuinda,1515128]]'
-  - '[[_Standards/WikiData/WD~Madelgard,3275781]]'
-  - '[[_Standards/WikiData/WD~Regina,4995102]]'
-  - '[[_Standards/WikiData/WD~Ethelind,23930978]]'
+- '[[_Standards/WikiData/WD~Himiltrude,1036526]]'
+- '[[_Standards/WikiData/WD~Gersuinda,1515128]]'
+- '[[_Standards/WikiData/WD~Madelgard,3275781]]'
+- '[[_Standards/WikiData/WD~Regina,4995102]]'
+- '[[_Standards/WikiData/WD~Ethelind,23930978]]'
+dv_has_:
+  name_:
+    af: Karel die Grote
+    am: ካሮሉስ ማግኑስ
+    an: Carlos Magno
+    ang: Carl sē Micel Francena Cyning
+    anp: शार्लेमन्य
+    ar: شارلمان
+    ary: شارلومان
+    arz: شارلمان
+    as: শাৰ্লেমেন
+    ast: Carlomagno
+    avk: Charles I (gazik ke Franca)
+    awa: शार्लेमन्य
+    az: Böyük Karl
+    azb: شارلمانی
+    ba: Бөйөк Карл
+    bcl: Charlemagne
+    be: Карл Вялікі
+    be-tarask: Карл Вялікі
+    bew: Karèl Agung
+    bg: Карл Велики
+    bn: শার্লমাইন
+    br: Karl Veur
+    bs: Karlo Veliki
+    btm: Charlemagne
+    bxr: Ехэ Карл
+    ca: Carlemany
+    ce: Сийлахь-воккха Карл
+    ceb: Carlomagno
+    ckb: شارلمان
+    co: Carulu Magnu
+    crh: Büyük Karl
+    cs: Karel I. Veliký
+    cv: Аслă Карл
+    cy: Siarlymaen
+    da: Karl den Store
+    de: Karl der Große
+    de-ch: Karl der Grosse
+    diq: Charlemagne
+    el: Καρλομάγνος
+    en: Charlemagne
+    en-ca: Charlemagne
+    en-gb: Charlemagne
+    en-us: Charlemagne
+    eo: Karolo la Granda
+    es: Carlomagno
+    et: Karl Suur
+    eu: Karlomagno
+    ext: Carlus el Grandi
+    fa: شارلمانی
+    fi: Kaarle Suuri
+    fo: Karlamagnus
+    fr: Charlemagne
+    frp: Chârlomagno
+    frr: Karl di Grat
+    fur: Carli Magn
+    fy: Karel de Grutte
+    ga: Séarlas Mór
+    gan: 沙利門大帝
+    gcr: Charlemagne
+    gd: Teàrlach Mòr
+    gl: Carlomagno
+    gn: Carlomagno
+    got: "\U0001033A\U00010330\U00010342\U0001033B \U00010343\U00010330 \U0001033C\U00010339\U0001033A\U00010339\U0001033B\U00010330"
+    gsw: Karl dr Gross
+    gv: Çhalse Mooar
+    ha: Charlemagne
+    he: קרל הגדול
+    hi: शारलेमेन
+    hif: Charlemagne
+    hr: Karlo Veliki
+    ht: Charlemagne
+    hu: I. (Nagy) Károly római császár és frank király
+    hy: Կառլոս Մեծ
+    ia: Carolo Magne
+    id: Karolus Agung
+    ie: Carl Magno
+    ilo: Karlomagno
+    io: Karl la Granda
+    is: Karlamagnús
+    it: Carlo Magno
+    ja: カール大帝
+    jam: Charlemagne
+    jv: Charlemagne
+    ka: კარლოს დიდი
+    kaa: Karolus Magnus
+    kbp: Charlemagne
+    kk: Ұлы Карл
+    ko: 카롤루스 대제
+    ku: Charlemagne
+    kw: Karl Veur
+    ky: Карл I Улуу
+    la: Carolus Magnus
+    lb: Karel de Groussen
+    lfn: Carlo la grande
+    li: Karel de Groete
+    lij: Carlomagno
+    lld: Carl le Gran
+    lmo: Carlo Magn
+    lt: Karolis Didysis
+    lv: Kārlis Lielais
+    lzh: 查理曼
+    mad: Karolus Agung
+    mg: Charlemagne
+    mk: Карло Велики
+    ml: കാറൽമാൻ
+    mn: Их Карл
+    mr: शार्लमेन
+    ms: Charlemagne
+    mwl: Carlos Magno
+    my: ရှာလမိန်း
+    nah: Carolus Magnus
+    nan: Charlemagne
+    nb: Karl den store
+    nds: Karl de Grote
+    nds-nl: Karel de Grote
+    new: चार्लेम्याग्न
+    nl: Karel de Grote
+    nn: Karl den store
+    nrm: Charlemangne
+    oc: Carlesmanhe
+    olo: Karl Suuri
+    os: Стыр Карл
+    pa: ਸ਼ਾਰਲਮੇਨ
+    pam: Carlomagno
+    pap: Charlemagne
+    pcd: Carlémangne
+    pcm: Charlemagne
+    pl: Karol Wielki
+    pms: Carl Magn
+    pnb: شارلمین
+    ps: چارليماګني
+    pt: Carlos Magno
+    pt-br: Carlos Magno
+    qu: Carolus Magnus
+    rm: Carl il Grond
+    ro: Carol cel Mare
+    ru: Карл Великий
+    rue: Карл I. Великый
+    sa: शार्लेमन्य
+    sah: Улуу Карл
+    scn: Carlu Magnu
+    sco: Charlemagne
+    sgs: Karuolės Dėdlīsės
+    sh: Karlo Veliki
+    shi: Caṛlman
+    sk: Karol Veľký
+    sl: Karel Veliki
+    sq: Karli i Madh
+    sr: Карло Велики
+    sv: Karl den store
+    sw: Karolo Mkuu
+    szy: Ca-li-man
+    ta: சார்லமேன்
+    th: ชาร์เลอมาญ
+    tl: Carlomagno
+    tok: jan Kalu suli
+    tr: Şarlman
+    tt: Бөек Карл
+    tyv: Карл Өндүр-Улуг
+    uk: Карл I Великий
+    ur: چارلیمان
+    uz: Buyuk Karl
+    vec: Carlo Magno
+    vep: Karl Sur'
+    vi: Charlemagne
+    vls: Karel den Grôotn
+    vro: Karl Suur
+    wa: Tchårlumagne
+    war: Carlomagno
+    wuu: 查理曼大帝
+    xmf: კარლოს დიდი
+    yi: קארל דער גרויסער
+    yo: Charlemagne
+    yue: 查理曼大帝
+    zh: 查理大帝
+    zh-hans: 查理大帝
+    zh-hant: 查理曼
+    zh-tw: 查理曼
 ---
-
 # [[Charlemagne]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Charlemagne,3044|WD~Charlemagne,3044]] 

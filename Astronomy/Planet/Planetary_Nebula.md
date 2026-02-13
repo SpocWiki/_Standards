@@ -1,36 +1,181 @@
 ---
 aliases:
+- Gezegenimsi bulutsu
+- mgławica planetarna
+- Nebula planet
+- nebula planetaria
+- Nebula planeter
+- Nebulay geyrenıkane
+- nebuloasă planetară
+- nebulosa planetaria
+- Nebulosa planetario
+- nebulosa planetària
+- nebulosa planetária
+- Nebulòsa planetària
+- nibbulusa planitaria
+- nifwl planedol
+- néal pláinéadach
+- nébuleuse planétaire
+- planeduma nebulozo
+- planetaarinen sumu
+- Planetaarudu
+- planetaire nevel
+- planetar dumanlıq
+- Planetar tumanliklar
+- Planetareschen Niwwel
+- planetarischer Nebel
+- planetarisk nebulosa
+- planetarisk tåge
+- planetarisk tåke
+- Planetarna maglica
+- Planetarna maglina
+- planetarna meglica
+- planetary nebula
+- Planetiškasis ūkas
+- planetna maglica
+- planetáris köd
+- Planetárna hmlovina
+- planetární mlhovina
+- planetêre newel
+- Planetārais miglājs
+- tinh vân hành tinh
+- Πλανητικό νεφέλωμα
+- Планетăлла тĕтрелĕх
+- Планеталык тумандуулук
+- планетар томанлык
+- Планетарна маглина
+- Планетарна мъглявина
+- планетарна туманність
+- планетарная туманнасць
+- планетарная туманность
+- плянэтарная туманнасьць
+- Ғаламшарлық тұмандықтар
+- մոլորակային միգամածություն
+- ערפילית פלנטרית
+- سحابی سیارهنما
+- سديم كوكبي
+- نيبولا كوكبيه
+- ग्रहीय नीहारिका
+- গ্রহ নীহারিকা
+- ప్లానెటరీ నెబ్యులా
+- ഗ്രഹ നീഹാരിക
+- ග්රහ නිහාරිකා
+- เนบิวลาดาวเคราะห์
+- პლანეტური ნისლეული
+- 惑星状星雲
+- 行星状星云
+- 行星狀星雲
+- 행성상 성운
 has_id_wikidata: Q13632
-subclass_of: "[[_Standards/WikiData/WD~emission_nebula,202265]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_planetary_nebula,6291699]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_nebula,6291699]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/M57%20The%20Ring%20Nebula.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/NGC%207009%20Hubble.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/M57%20The%20Ring%20Nebula.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/NGC%207009%20Hubble.jpg
 Wolfram_Language_entity_code: Entity["Concept", "PlanetaryNebula::b7748"]
 Commons_category: Planetary nebulae
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Planetary_nebula,13632]]"
-    - "[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]"
-    - "[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]"
-    - "[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]"
-    - "[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]"
-    - "[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]"
-    - "[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]"
-    - "[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]"
+  - '[[../../WikiData/WD~Planetary_nebula,13632]]'
+  - '[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]'
+  - '[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]'
+  - '[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]'
+  - '[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]'
+  - '[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]'
+  - '[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]'
+  - '[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Planetary_nebula,13632]]"
-  - "[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]"
-  - "[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]"
-  - "[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]"
-  - "[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]"
-  - "[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]"
-  - "[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]"
-  - "[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]"
+- '[[../../WikiData/WD~Planetary_nebula,13632]]'
+- '[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]'
+- '[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]'
+- '[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]'
+- '[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]'
+- '[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]'
+- '[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]'
+- '[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]'
+dv_has_:
+  name_:
+    af: planetêre newel
+    an: Nebulosa planetaria
+    ar: سديم كوكبي
+    arz: نيبولا كوكبيه
+    ast: Nebulosa planetaria
+    az: planetar dumanlıq
+    be: планетарная туманнасць
+    be-tarask: плянэтарная туманнасьць
+    bg: Планетарна мъглявина
+    bn: গ্রহ নীহারিকা
+    bs: Planetarna maglina
+    ca: nebulosa planetària
+    cs: planetární mlhovina
+    cv: Планетăлла тĕтрелĕх
+    cy: nifwl planedol
+    da: planetarisk tåge
+    de: planetarischer Nebel
+    diq: Nebulay geyrenıkane
+    el: Πλανητικό νεφέλωμα
+    en: planetary nebula
+    en-ca: Planetary nebula
+    en-gb: planetary nebula
+    eo: planeduma nebulozo
+    es: nebulosa planetaria
+    et: Planetaarudu
+    eu: Nebulosa planetario
+    fa: سحابی سیارهنما
+    fi: planetaarinen sumu
+    fr: nébuleuse planétaire
+    ga: néal pláinéadach
+    gl: nebulosa planetaria
+    he: ערפילית פלנטרית
+    hi: ग्रहीय नीहारिका
+    hr: planetna maglica
+    hu: planetáris köd
+    hy: մոլորակային միգամածություն
+    id: Nebula planeter
+    it: nebulosa planetaria
+    ja: 惑星状星雲
+    ka: პლანეტური ნისლეული
+    kk: Ғаламшарлық тұмандықтар
+    ko: 행성상 성운
+    ky: Планеталык тумандуулук
+    la: nebula planetaria
+    lb: Planetareschen Niwwel
+    lt: Planetiškasis ūkas
+    lv: Planetārais miglājs
+    mk: Планетарна маглина
+    ml: ഗ്രഹ നീഹാരിക
+    ms: Nebula planet
+    nb: planetarisk tåke
+    nl: planetaire nevel
+    nn: planetarisk tåke
+    oc: Nebulòsa planetària
+    pl: mgławica planetarna
+    pt: nebulosa planetária
+    pt-br: nebulosa planetária
+    ro: nebuloasă planetară
+    ru: планетарная туманность
+    scn: nibbulusa planitaria
+    sh: Planetarna maglica
+    si: ග්රහ නිහාරිකා
+    sk: Planetárna hmlovina
+    sl: planetarna meglica
+    sr: планетарна маглина
+    sr-ec: планетарна маглина
+    sr-el: planetarna maglina
+    sv: planetarisk nebulosa
+    te: ప్లానెటరీ నెబ్యులా
+    th: เนบิวลาดาวเคราะห์
+    tr: Gezegenimsi bulutsu
+    tt: планетар томанлык
+    uk: планетарна туманність
+    uz: Planetar tumanliklar
+    vi: tinh vân hành tinh
+    wuu: 行星状星云
+    yue: 行星狀星雲
+    zh: 行星状星云
 ---
-
 # [[Planetary_Nebula]] 
 
 #is_/same_as :: [[WD~Planetary_nebula,13632]] 

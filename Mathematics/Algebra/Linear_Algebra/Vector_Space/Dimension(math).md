@@ -1,8 +1,185 @@
 ---
 has_id_wikidata: Q4440864
+dv_has_:
+  name_:
+    am: ቅጥ
+    ar: بعد
+    ast: dimensión
+    az: Ölçü
+    ba: Арауыҡ үлсәнеше
+    be: размернасць прасторы
+    be-tarask: разьмернасьць
+    bew: Pedelokan
+    bg: Размерност
+    bn: মাত্রা
+    ca: dimensió
+    ckb: ڕەھەند
+    cs: dimenze
+    cv: Уçлăх хапи
+    cy: Dimensiwn
+    da: dimension
+    de: Dimension
+    el: Διάσταση
+    en: dimension
+    eo: dimensio
+    es: dimensión
+    et: mõõde
+    eu: Dimentsio
+    fa: فضای ان بعدی
+    fi: ulottuvuus
+    fr: dimension
+    ga: toise
+    gan: 維度
+    gl: dimensión
+    he: ממד
+    hi: विमा
+    hr: dimenzija
+    hu: dimenzió
+    hy: Չափականություն
+    id: dimensi
+    io: Dimensiono
+    is: Vídd
+    it: dimensione
+    ja: 次元
+    jam: Dimenshan
+    ka: სივრცის განზომილება
+    kab: Aseggiw
+    kk: Көп өлшемді кеңістік
+    kn: ವಿಮಿತಿ
+    ko: 차원
+    lb: Dimensioun
+    lt: dimensija
+    lv: dimensija
+    lzh: 維
+    mag: विमा
+    min: Dimensi
+    mk: димензија
+    ml: മാനം
+    mr: मिती
+    ms: dimensi
+    ms-arab: ديمينسي
+    nan: Chhù-goân
+    nb: dimensjon
+    nl: dimensie
+    nn: dimensjon
+    om: Akkammii
+    pa: ਪਸਾਰ
+    pl: wymiar
+    pnb: ڈائیمنشن
+    pt: dimensão
+    pt-br: dimensão
+    ro: dimensiune
+    ru: размерность
+    scn: Diminsioni
+    sco: dimension
+    se: dimenšuvdna
+    sh: dimenzija
+    si: මානය
+    sl: razsežnost
+    smn: olleem
+    sn: Nzenda
+    sq: përmasa
+    sr: Димензија
+    sr-ec: димензија
+    su: Dimensi
+    sv: dimension
+    sw: Pandeolwa
+    tg: Буъд
+    th: มิติ
+    tl: Dimensyon
+    tr: boyut
+    tt: үлчәнеш
+    tt-cyrl: үлчәнеш
+    uk: розмірность
+    ur: بُعد
+    vec: dimension
+    vi: chiều
+    wuu: 维度
+    xh: I-dimension
+    yi: דימענסיע
+    yue: 維度
+    zh: 維度
+    zh-hant: 維度
+    zu: Umngako
+aliases:
+- Akkammii
+- Aseggiw
+- boyut
+- Chhù-goân
+- chiều
+- Dimenshan
+- dimensi
+- dimensie
+- dimensija
+- dimensio
+- dimension
+- dimensione
+- Dimensiono
+- Dimensioun
+- dimensiune
+- Dimensiwn
+- dimensió
+- dimensión
+- dimensjon
+- Dimensyon
+- dimensão
+- Dimentsio
+- dimenze
+- dimenzija
+- dimenzió
+- dimenšuvdna
+- Diminsioni
+- I-dimension
+- mõõde
+- Nzenda
+- olleem
+- Pandeolwa
+- Pedelokan
+- përmasa
+- razsežnost
+- toise
+- ulottuvuus
+- Umngako
+- Vídd
+- wymiar
+- Ölçü
+- Διάσταση
+- Арауыҡ үлсәнеше
+- Буъд
+- димензија
+- Көп өлшемді кеңістік
+- размернасць прасторы
+- Размерност
+- размерность
+- разьмернасьць
+- розмірность
+- Уçлăх хапи
+- үлчәнеш
+- Չափականություն
+- דימענסיע
+- ממד
+- بعد
+- بُعد
+- ديمينسي
+- فضای ان بعدی
+- ڈائیمنشن
+- ڕەھەند
+- मिती
+- विमा
+- মাত্রা
+- ਪਸਾਰ
+- ವಿಮಿತಿ
+- മാനം
+- මානය
+- มิติ
+- სივრცის განზომილება
+- ቅጥ
+- 次元
+- 維
+- 維度
+- 维度
+- 차원
 ---
-
-
 # [[Dimension(math)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dimension,4440864|WD~Dimension,4440864]] 

@@ -1,9 +1,65 @@
 ---
 aliases:
-  - land mine
-  - landmine
-  - Land_Mine
-  - Land Mine
+- bomba subterranea
+- Bomu ardhini
+- Borang darat
+- Jarðsprengja
+- kopenska mina
+- Kopnena mina
+- land mine
+- landmijn
+- landmina
+- landmine
+- Landmyn
+- Land_Mine
+- Lurreko mina
+- Maamiin
+- maamiina
+- mayın
+- Min-a terestr
+- Mina
+- mina lądowa
+- Mina terrestre
+- Mina terrèstra
+- mine terrestre
+- Mină
+- Mìn
+- Mína
+- mīna
+- Nagazne mine
+- periuk api
+- pozemní mina
+- Ranjau
+- ranjau darat
+- Sausumos mina
+- szárazföldi akna
+- Tepînk
+- Ter-explozilo
+- tera mino
+- Νάρκη
+- мина
+- нагазна мина
+- наземна міна
+- наземная міна
+- наземная мина
+- Сухопътна мина
+- ական
+- מוקש
+- تەپینک
+- لغم
+- لغم أرضي
+- مین
+- भूसुरुंग
+- लैंड माइन
+- ল্যান্ড মাইন
+- ਲੈਂਡ ਮਾੲੀਨ
+- மிதிவெடி
+- మందు పాతర
+- ทุ่นระเบิด
+- မိုင်း
+- ნაღმი
+- 地雷
+- 지뢰
 has_id_wikidata: Q178795
 subclass_of: '[[_Standards/WikiData/WD~mine,1481202]]'
 part_of: '[[_Standards/WikiData/WD~minefield,1936555]]'
@@ -18,8 +74,94 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Type%2059%20anti-tank%
 MIL_STD_2525_Symbol_Identification_Code: 10011500002101000000
 U_S_National_Archives_Identifier: 10639516
 Commons_gallery: Land mine
+dv_has_:
+  name_:
+    af: Landmyn
+    ar: لغم أرضي
+    arz: لغم
+    ast: Mina terrestre
+    az: mina
+    be: наземная міна
+    be-tarask: наземная міна
+    bew: Borang darat
+    bg: Сухопътна мина
+    bn: ল্যান্ড মাইন
+    bs: Kopnena mina
+    ca: mina terrestre
+    ckb: مین
+    cs: pozemní mina
+    da: landmine
+    de: Landmine
+    el: Νάρκη
+    en: land mine
+    eo: tera mino
+    es: mina terrestre
+    et: Maamiin
+    eu: Lurreko mina
+    fa: مین
+    fi: maamiina
+    fr: mine terrestre
+    gl: Mina terrestre
+    he: מוקש
+    hi: लैंड माइन
+    hr: Nagazne mine
+    hu: szárazföldi akna
+    hy: ական
+    id: ranjau darat
+    io: Ter-explozilo
+    is: Jarðsprengja
+    it: mina terrestre
+    ja: 地雷
+    jv: Ranjau
+    ka: ნაღმი
+    kk: Мина
+    ko: 지뢰
+    ku: Tepînk
+    ku-arab: تەپینک
+    ku-latn: Tepînk
+    la: bomba subterranea
+    lt: Sausumos mina
+    lv: mīna
+    lzh: 地雷
+    mk: мина
+    mr: भूसुरुंग
+    ms: periuk api
+    my: မိုင်း
+    nb: landmine
+    nl: landmijn
+    nn: Landmine
+    oc: Mina terrèstra
+    pa: ਲੈਂਡ ਮਾੲੀਨ
+    pl: mina lądowa
+    pms: Min-a terestr
+    pt: mina terrestre
+    ro: Mină
+    ru: наземная мина
+    sh: Kopnena mina
+    sk: Mína
+    sl: kopenska mina
+    sq: Mina
+    sr: нагазна мина
+    sr-ec: Мина
+    sr-el: Mina
+    sv: landmina
+    sw: Bomu ardhini
+    ta: மிதிவெடி
+    te: మందు పాతర
+    th: ทุ่นระเบิด
+    tr: mayın
+    uk: наземна міна
+    vi: Mìn
+    wuu: 地雷
+    yue: 地雷
+    zh: 地雷
+    zh-cn: 地雷
+    zh-hans: 地雷
+    zh-hant: 地雷
+    zh-hk: 地雷
+    zh-sg: 地雷
+    zh-tw: 地雷
 ---
-
 # [[Land_Mine]] 
 
 #is_/same_as :: [[WD~Land_mine,178795]] 

@@ -1,9 +1,156 @@
 ---
 aliases:
-  - Kanye West
-  - Kanye Omari West
-  - West,Kanye
+- Kanje Vests
+- Kanye Omari West
+- Kanye Vest
+- Kanye West
+- Kanyé West
+- West,Kanye
+- Κάνιε Γουέστ
+- Кање Вест
+- Канје Вест
+- Кание Уест
+- Канйе Уэст
+- Каньє Вест
+- Канье Ўэст
+- Канье Уэст
+- Քանյե Ուեսթ
+- Քանյէ Ուեսթ
+- קניה וסט
+- كانييه ويست
+- کانیه وست
+- کانیہ ویسٹ
+- کانیێ وێست
+- کانیے وَیسٹ
+- कान्ये वेस्ट
+- क्यानी वेस्ट
+- কানইয়ে ওয়েস্ট
+- ਕਾਨਯੇ ਵੈਸਟ
+- કાન્યે વેસ્ટ
+- கான்யே வெஸ்ட்
+- കൻയി വെസ്റ്റ
+- คานเย เวสต์
+- კანიე უესტი
+- ᱠᱟᱱᱭᱮ ᱣᱮᱥᱴ
+- カニエ・ウェスト
+- 勤耶韋斯特
+- 坎耶·韦斯特
+- 簡耶·韋士
+- 肯伊·威斯特
+- 카니예 웨스트
 has_id_wikidata: Q15935
+dv_has_:
+  name_:
+    an: Kanye West
+    ar: كانييه ويست
+    arz: كانييه ويست
+    ast: Kanye West
+    az: Kanye Vest
+    azb: کانیه وست
+    be: Канье Уэст
+    be-tarask: Канье Ўэст
+    bg: Кание Уест
+    bjn: Kanye West
+    bn: কানইয়ে ওয়েস্ট
+    ca: Kanye West
+    ckb: کانیێ وێست
+    cs: Kanye West
+    cy: Kanye West
+    da: Kanye West
+    dag: Kanye West
+    de: Kanye West
+    de-ch: Kanye West
+    din: Kanye West
+    el: Κάνιε Γουέστ
+    eml: Kanye West
+    en: Kanye West
+    en-ca: Kanye West
+    en-gb: Kanye West
+    en-us: Kanye West
+    eo: Kanye West
+    es: Kanye West
+    et: Kanye West
+    eu: Kanye West
+    ext: Kanye West
+    fa: کانیه وست
+    fi: Kanye West
+    fr: Kanye West
+    fy: Kanye West
+    ga: Kanye West
+    gl: Kanye West
+    gu: કાન્યે વેસ્ટ
+    ha: Kanye West
+    he: קניה וסט
+    hi: कान्ये वेस्ट
+    hil: Kanye West
+    hr: Kanye West
+    hu: Kanye West
+    hy: Քանյե Ուեսթ
+    hyw: Քանյէ Ուեսթ
+    id: Kanye West
+    ig: Kanyé West
+    is: Kanye West
+    it: Kanye West
+    ja: カニエ・ウェスト
+    ka: კანიე უესტი
+    kk: Канье Уэст
+    kl: Kanye West
+    ko: 카니예 웨스트
+    ku: Kanye West
+    la: Kanye West
+    li: Kanye West
+    lt: Kanye West
+    lv: Kanje Vests
+    mg: Kanye West
+    mk: Кање Вест
+    ml: കൻയി വെസ്റ്റ
+    mn: Канье Уэст
+    ms: Kanye West
+    mul: Kanye West
+    nan: Kanye West
+    nb: Kanye West
+    ne: क्यानी वेस्ट
+    nl: Kanye West
+    nn: Kanye West
+    oc: Kanye West
+    pa: ਕਾਨਯੇ ਵੈਸਟ
+    pam: Kanye West
+    pap: Kanye West
+    pl: Kanye West
+    pnb: کانیے وَیسٹ
+    pt: Kanye West
+    pt-br: Kanye West
+    rmy: Kanye West
+    ro: Kanye West
+    ru: Канье Уэст
+    sat: ᱠᱟᱱᱭᱮ ᱣᱮᱥᱴ
+    sco: Kanye West
+    sh: Kanye West
+    sk: Kanye West
+    sl: Kanye West
+    so: Kanye West
+    sq: Kanye West
+    sr: Канје Вест
+    su: Kanye West
+    sv: Kanye West
+    sw: Kanye West
+    ta: கான்யே வெஸ்ட்
+    tg: Канйе Уэст
+    th: คานเย เวสต์
+    tl: Kanye West
+    tr: Kanye West
+    tum: Kanye West
+    uk: Каньє Вест
+    ur: کانیہ ویسٹ
+    uz: Kanye West
+    vi: Kanye West
+    wuu: 坎耶·韦斯特
+    xmf: კანიე უესტი
+    yo: Kanye West
+    yue: 勤耶韋斯特
+    zh: 肯伊·威斯特
+    zh-hans: 肯伊·威斯特
+    zh-hk: 簡耶·韋士
 ---
 # [[West,Kanye]] 
 

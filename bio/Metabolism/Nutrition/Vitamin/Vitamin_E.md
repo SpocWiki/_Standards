@@ -1,36 +1,167 @@
 ---
 aliases:
-  - Vitamin E
+- E bitamina
+- E vitamini
+- E vitamīns
+- E-vitamiin
+- E-vitamiini
+- E-vitamin
+- E-vítamín
+- vitamien E
+- Vitamin E
+- Vitamin E ( Alfa tokoferol)
+- Vitamin É
+- vitamina E
+- vitaminas E
+- vitamine E
+- vitamino E
+- vitamín E
+- witamina E
+- βιταμίνη Ε
+- вітамін E
+- витамин E
+- витамин Е
+- Е дәрумені
+- վիտամին E
+- ויטמין E
+- فيتامين إي
+- ویتامین ای
+- ڤیتامین ئی
+- ۋىتامىنE
+- ވިޓަމިން އީ
+- इ-जीवनसत्त्व
+- भिटामिन ई
+- विटामिन ई
+- ভিটামিন ই
+- ਵਿਟਾਮਿਨ ਈ
+- உயிர்ச்சத்து ஈ
+- విటమిన్ ఇ
+- ജീവകം ഇ
+- විටමින් E
+- วิตามินอี
+- ວິຕາມິນອີ
+- ვიტამინი E
+- ビタミンE
+- 維生素E
+- 维生素E
+- 비타민 E
 has_id_wikidata: Q141180
 subject_has_role:
-  - "[[_Standards/WikiData/WD~antioxidant,133948]]"
-  - "[[_Standards/WikiData/WD~vitamin,34956]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Vitamin_E,7370326]]"
+- '[[_Standards/WikiData/WD~antioxidant,133948]]'
+- '[[_Standards/WikiData/WD~vitamin,34956]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_E,7370326]]'
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_vitamin_E,14819254]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_vitamin_E,21095693]]"
-  - "[[_Standards/WikiData/WD~vitamin_E_metabolic_process,21109917]]"
-  - "[[_Standards/WikiData/WD~vitamin_E_binding,21110614]]"
-  - "[[_Standards/WikiData/WD~vitamin_E_biosynthetic_process,21159195]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
-LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]"
+- '[[_Standards/WikiData/WD~response_to_vitamin_E,14819254]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_E,21095693]]'
+- '[[_Standards/WikiData/WD~vitamin_E_metabolic_process,21109917]]'
+- '[[_Standards/WikiData/WD~vitamin_E_binding,21110614]]'
+- '[[_Standards/WikiData/WD~vitamin_E_biosynthetic_process,21159195]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-subclass_of: "[[_Standards/WikiData/WD~vitamin,34956]]"
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+subclass_of: '[[_Standards/WikiData/WD~vitamin,34956]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VitE.png
 CAS_Registry_Number: 1406-18-4
 EC_number: 606-803-8
 ATC_code: A11HA03
 UMLS_CUI: C0042874
 MeSH_tree_code:
-  - D03.383.663.283.909
-  - D03.633.100.150.909
+- D03.383.663.283.909
+- D03.633.100.150.909
 Krugosvet_article_archived_: meditsina/vitamin-e
 Commons_category: Vitamin E
+dv_has_:
+  name_:
+    af: vitamien E
+    ar: فيتامين إي
+    ast: vitamina E
+    az: E vitamini
+    azb: ویتامین ای
+    ban: Vitamin É
+    bg: витамин Е
+    bn: ভিটামিন ই
+    ca: vitamina E
+    ckb: ڤیتامین ئی
+    cs: vitamín E
+    da: E-vitamin
+    de: Vitamin E
+    dv: ވިޓަމިން އީ
+    el: βιταμίνη Ε
+    en: vitamin E
+    eo: vitamino E
+    es: vitamina E
+    et: E-vitamiin
+    eu: E bitamina
+    fa: ویتامین ای
+    fi: E-vitamiini
+    fr: vitamine E
+    gl: vitamina E
+    he: ויטמין E
+    hi: विटामिन ई
+    hr: vitamin E
+    hu: E-vitamin
+    hy: վիտամին E
+    ia: vitamina E
+    id: vitamin E
+    ie: vitamine E
+    io: vitamino E
+    is: E-vítamín
+    it: vitamina E
+    ja: ビタミンE
+    jv: vitamin E
+    ka: ვიტამინი E
+    kk: Е дәрумені
+    ko: 비타민 E
+    ky: витамин Е
+    lfn: vitamina E
+    lo: ວິຕາມິນອີ
+    lt: vitaminas E
+    lv: E vitamīns
+    mk: vitamin e
+    ml: ജീവകം ഇ
+    mr: इ-जीवनसत्त्व
+    ms: vitamin E
+    nb: E-vitamin
+    ne: भिटामिन ई
+    nl: vitamine E
+    nn: E-vitamin
+    nov: vitamine E
+    oc: vitamina E
+    pa: ਵਿਟਾਮਿਨ ਈ
+    pl: witamina E
+    pt: vitamina E
+    pt-br: vitamina E
+    ro: Vitamina E
+    ru: витамин E
+    sh: vitamin E
+    si: විටමින් E
+    sk: vitamín E
+    sl: vitamin E
+    sr: витамин Е
+    sr-ec: витамин Е
+    sr-el: vitamin E
+    sv: vitamin E
+    ta: உயிர்ச்சத்து ஈ
+    te: విటమిన్ ఇ
+    th: วิตามินอี
+    tr: E vitamini
+    tyv: витамин Е
+    ug: ۋىتامىنE
+    uk: вітамін E
+    uz: Vitamin E ( Alfa tokoferol)
+    vi: vitamin E
+    wuu: 维生素E
+    zh: 维生素E
+    zh-cn: 维生素E
+    zh-hans: 维生素E
+    zh-hant: 維生素E
+    zh-hk: 維生素E
+    zh-sg: 维生素E
+    zh-tw: 維生素E
 ---
-
 # [[Vitamin_E]] 
 
 #is_/same_as :: [[WD~Vitamin_E,141180]]

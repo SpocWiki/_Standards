@@ -1,41 +1,172 @@
 ---
 aliases:
+- estegosaure
+- Estegosauro
+- Estegossauro
+- Kambeðla
+- Setegasauru
+- Stegosaor
+- Stegosaurus
+- Stegosaŭro
+- Stegozaur
+- Stegozauras
+- Stegozaurs
+- Stegozawr
+- Steigeasár
+- Steqozavrlar
+- Στεγόσαυρος
+- Стегозавр
+- Стегозаврал
+- стегозаври
+- Стегозаврлар
+- Стегозавры
+- стегосаур
+- Стегосаурус
+- стэгазаўр
+- Стэгазаўры
+- Ստեգոզավր
+- סטגוזאורוס
+- استگوسورس
+- دایناسۆری ستیگۆسۆر
+- ستيغوصور
+- ستګوسور
+- स्टेगोसोरस
+- স্টেগোসরাস
+- ਸਟੈਗੋਸੌਰਸ
+- സ്റ്റെഗോസോറസ്
+- สเตโกซอรัส
+- სტეგოზავრები
+- ᎠᏖᎵᏗᏎ
+- ステゴサウルス
+- 剑龙属
+- 劍龍
+- 劍龍屬
+- 스테고사우루스
 has_id_wikidata: Q14388
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Morrison_Formation,1195552]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-parent_taxon: "[[_Standards/WikiData/WD~Stegosaurinae,5480471]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+parent_taxon: '[[_Standards/WikiData/WD~Stegosaurinae,5480471]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 height: 3
 mass: 7
 length: 9
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
 Commons_gallery: Stegosaurus
 Commons_category: Stegosaurus
 taxon_name: Stegosaurus
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Journal.pone.0138352.g001A.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20stenops%20Life%20Reconstruction.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus%20colored%20final.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Journal.pone.0138352.g001A.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20stenops%20Life%20Reconstruction.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus%20colored%20final.png
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20size%20comparison.svg
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Stegosaurus"]
 taxon_common_name:
-  - Στεγόσαυρος
-  - Stégosaure
-  - סטגוזאור
-  - स्टेगोसौरस
-  - ステゴサウルス
-  - Stegozauras
-  - Stegozaur
-  - Estegossauro
-  - Стегозавр
-  - 劍龍屬
+- Στεγόσαυρος
+- Stégosaure
+- סטגוזאור
+- स्टेगोसौरस
+- ステゴサウルス
+- Stegozauras
+- Stegozaur
+- Estegossauro
+- Стегозавр
+- 劍龍屬
 end_time: -150000000-01-01T00:00:00Z
 start_time: -155000000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Stegosaurus
+    an: Stegosaurus
+    ar: ستيغوصور
+    ast: Stegosaurus
+    az: Steqozavrlar
+    ban: Stegosaurus
+    be: Стэгазаўры
+    be-tarask: стэгазаўр
+    bg: стегозаври
+    bn: স্টেগোসরাস
+    br: Stegosaor
+    ca: estegosaure
+    ceb: Stegosaurus
+    chr: ᎠᏖᎵᏗᏎ
+    ckb: دایناسۆری ستیگۆسۆر
+    cs: Stegosaurus
+    cy: Stegosaurus
+    da: Stegosaurus
+    de: Stegosaurus
+    el: Στεγόσαυρος
+    en: Stegosaurus
+    en-ca: Stegosaurus
+    en-gb: Stegosaurus
+    en-us: Stegosaurus
+    eo: Stegosaŭro
+    es: Stegosaurus
+    et: Stegosaurus
+    eu: Stegosaurus
+    fa: استگوسورس
+    fi: Stegosaurus
+    fr: Stegosaurus
+    ga: Steigeasár
+    gl: Estegosauro
+    haw: Setegasauru
+    he: סטגוזאורוס
+    hi: स्टेगोसोरस
+    hr: Stegosaurus
+    hu: Stegosaurus
+    hy: Ստեգոզավր
+    ia: Stegosaurus
+    id: Stegosaurus
+    is: Kambeðla
+    it: Stegosaurus
+    ja: ステゴサウルス
+    jv: Stegosaurus
+    ka: სტეგოზავრები
+    kk: Стегозаврал
+    ko: 스테고사우루스
+    la: Stegosaurus
+    lt: Stegozauras
+    lv: Stegozaurs
+    mk: Стегосаурус
+    ml: സ്റ്റെഗോസോറസ്
+    ms: Stegosaurus
+    mul: Stegosaurus
+    nb: Stegosaurus
+    nl: Stegosaurus
+    nn: Stegosaurus
+    oc: Stegosaurus
+    or: Stegosaurus
+    pa: ਸਟੈਗੋਸੌਰਸ
+    pl: Stegozaur
+    ps: ستګوسور
+    pt: Estegossauro
+    pt-br: Estegossauro
+    ro: Stegosaurus
+    ru: Стегозавры
+    sco: Stegosaurus
+    sh: Stegosaurus
+    sk: Stegosaurus
+    sq: Stegosaurus
+    sr: стегосаур
+    su: Stegosaurus
+    sv: Stegosaurus
+    th: สเตโกซอรัส
+    tk: Stegozawr
+    tl: Stegosaurus
+    tr: Stegosaurus
+    tt: Стегозаврлар
+    uk: Стегозавр
+    vi: Stegosaurus
+    war: Stegosaurus
+    wuu: 剑龙属
+    yue: 劍龍
+    zh: 剑龙属
+    zh-cn: 剑龙属
+    zh-hans: 剑龙属
+    zh-tw: 劍龍屬
 ---
-
 # [[Stegosaurus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Stegosaurus,14388|WD~Stegosaurus,14388]]  

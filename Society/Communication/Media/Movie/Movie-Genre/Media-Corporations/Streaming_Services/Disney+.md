@@ -1,8 +1,104 @@
 ---
 has_id_wikidata: Q54958752
+dv_has_:
+  name_:
+    acm: ديزني+
+    an: Disney+
+    ar: ديزني+
+    ast: Disney+
+    az: Disney+
+    be-tarask: Дыснэй+
+    bg: Дисни+
+    bn: ডিজনি+
+    ca: Disney+
+    ceb: Disney+
+    ckb: دیزنی+
+    cs: Disney+
+    da: Disney+
+    de: Disney+
+    el: Disney+
+    en: Disney+
+    en-ca: Disney+
+    en-gb: Disney+
+    eo: Disney+
+    es: Disney+
+    et: Disney+
+    eu: Disney+
+    fa: دیزنی+
+    fi: Disney+
+    fr: Disney+
+    fy: Disney+
+    ga: Disney+
+    gd: Disney+
+    gl: Disney+
+    gn: Disney+
+    gv: Disney+
+    he: דיסני+
+    hr: Disney+
+    hu: Disney+
+    hy: Դիսնեյ+
+    id: Disney+
+    is: Disney+
+    it: Disney+
+    ja: Disney+
+    ka: Disney+
+    kn: Disney+
+    ko: 디즈니+
+    ku-latn: Disney+
+    lb: Disney+
+    ln: Disney Plus
+    lo: ດິສນີ+
+    lv: Disney+
+    mk: Disney+
+    ms: Disney+
+    mul: Disney+
+    nb: Disney+
+    nl: Disney+
+    pa: ਡਿਜ਼ਨੀ+
+    pl: Disney+
+    pt: Disney+
+    pt-br: Disney+
+    ro: Disney+
+    ru: Disney+
+    sah: Disney+
+    sk: Disney+
+    sl: Disney+
+    sm: Disney Plus
+    sr: Дизни+
+    sv: Disney+
+    ta: டிஸ்னி+
+    th: ดิสนีย์+
+    tl: Disney+
+    tr: Disney+
+    uk: Disney+
+    ur: ڈزنی+
+    uz: Disney+
+    vec: Disney+
+    vi: Disney+
+    yue: Disney+
+    zh: 迪士尼+
+    zh-hans: 迪士尼+
+    zh-hant: 迪士尼+
+    zh-tw: 迪士尼+
+aliases:
+- Disney Plus
+- Disney+
+- Дизни+
+- Дисни+
+- Дыснэй+
+- Դիսնեյ+
+- דיסני+
+- ديزني+
+- دیزنی+
+- ڈزنی+
+- ডিজনি+
+- ਡਿਜ਼ਨੀ+
+- டிஸ்னி+
+- ดิสนีย์+
+- ດິສນີ+
+- 迪士尼+
+- 디즈니+
 ---
-
-
 #has_/number_of_/subscribers:: 
 
 ## #has_/text_of_/abstract 

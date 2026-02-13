@@ -1,14 +1,121 @@
 ---
 aliases:
-  - Nobel Economics Prize
-  - Nobel Memorial Prize in Economic Sciences
-  - Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel
-  - Sveriges Riksbank Prize in Economic Sciences
-  - Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne
-  - Sveriges riksbanks pris i ekonomisk vetenskap
-  - Economy_Nobel_Prize
-  - Economy Nobel Prize
+- Anexo:Ganadores del Premio Nobel Conmemorativo de Economía
+- Appendice:Lista de laureatos del Premio Nobel de Economia
+- Daftar penerima Nobel Ekonomi
+- Danh sách người đoạt giải Nobel Kinh tế
+- Dreger vum Bryys vu dr schwedische Ryychsbank fir Wirtschaftswisseschafte im Gedänke an dr Alfred Nobel
+- Economy Nobel Prize
+- Economy_Nobel_Prize
+- Ekonomiako nobel saria irabazi dutenen zerrenda
+- Iqtisodiyot boʻyicha Nobel xotirasi mukofoti laureatlari roʻyxati
+- Lies vaan Nobelprieswinners (economie)
+- list of laureates of Prize in Economic Sciences in Memory of Alfred Nobel
+- lista dos laureados co Prémio de Ciências Económicas em Memória de Alfred Nobel
+- Liste der Träger des von der schwedischen Reichsbank in Erinnerung an Alfred Nobel gestifteten Preises für Wirtschaftswissenschaften
+- liste des lauréats du prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel
+- liste over modtagere af Sveriges Riksbanks pris i økonomi
+- liste over mottakere av Sveriges Riksbanks pris i økonomisk vitenskap til minne om Alfred Nobel
+- listo di Nobel-laureati pri ekonomiko
+- llista de guardonats amb el Premi Nobel d'Economia
+- luettelo Nobelin taloustieteen palkinnon saaneista
+- Lëscht vun de Laureate vum Präis vun der Schweedescher Räichsbank fir Economie
+- mottagare av Sveriges Riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne
+- Nobel Economics Prize
+- Nobel Ekonomi Ödülü sahipleri listesi
+- Nobel Memorial Prize in Economic Sciences
+- Nobela prēmijas laureāti ekonomikā
+- Senarai penerima Hadiah Peringatan Nobel dalam Sains Ekonomi
+- Spisak dobitnika Nobelove nagrade za ekonomiju
+- Sveriges Riksbank Prize in Economic Sciences
+- Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel
+- Sveriges riksbanks pris i ekonomisk vetenskap
+- Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne
+- Sąrašas:Nobelio ekonomikos premijos laureatai
+- vincitori del premio Nobel per l'economia
+- Vincitura dû Nobel pi l'ecunumìa
+- İqtisadiyyat üzrə Nobel mükafatı laureatlarının siyahısı
+- Спіс лаўрэатаў прэміі па эканоміцы імя Альфрэда Нобеля
+- Списак добитника Нобелове награде за економију
+- список лауреатів Нобелівської премії з економіки
+- список лауреатов Нобелевской премии по экономике
+- сьпіс ляўрэатаў Нобэлеўскай прэміі ў галіне эканомікі
+- Экономика саласында Нобель сыйлығы лауреаттарының тізімі
+- Նոբելյան մրցանակի դափնեկիր տնտեսագետների ցանկ
+- فهرست برندگان جایزه نوبل اقتصاد
+- قائمة الحاصلين على جائزة نوبل في العلوم الاقتصادية
+- معیشت میں نوبل انعام حاصل کرنے والوں کی فہرست
+- نوبل انعام برائے معاشیات وصول کنندگان دی لسٹ
+- अर्थशास्त्र में नोबेल पुरस्कार विजेताओं की सूची
+- অর্থনীতিতে নোবেল স্মারক পুরস্কার বিজয়ীদের তালিকা
+- ন'বেল বঁটা বিজয়ী
+- ఆర్థిక శాస్త్రం విభాగంలో నోబెల్ బహుమతి గ్రహీతల జాబితా
+- സാമ്പത്തികശാസ്ത്രത്തിനുള്ള നോബൽ സമ്മാനം
+- ආර්ථික විද්යාව පිලිබඳ නොබෙල් සමරු ත්යාගලාභී ලැයිස්තුව
+- စီးပွားရေးသိပ္ပံပညာဆိုင်ရာ နိုဘယ်အထိမ်းအမှတ်ဆုရ ပညာရှင်များဇယား
+- ნობელის პრემიის ლაურეატები ეკონომიკაში
+- ნობელიშ პრემიაშ ლაურეატეფი ეკონომიკას
+- ノーベル経済学賞受賞者の一覧
+- 諾貝爾經濟學獎得主列表
+- 诺贝尔经济学奖得主列表
+- 노벨 경제학상 수상자 목록
 has_id_wikidata: Q1143729
+dv_has_:
+  name_:
+    ar: قائمة الحاصلين على جائزة نوبل في العلوم الاقتصادية
+    as: ন'বেল বঁটা বিজয়ী
+    az: İqtisadiyyat üzrə Nobel mükafatı laureatlarının siyahısı
+    be: Спіс лаўрэатаў прэміі па эканоміцы імя Альфрэда Нобеля
+    be-tarask: сьпіс ляўрэатаў Нобэлеўскай прэміі ў галіне эканомікі
+    bn: অর্থনীতিতে নোবেল স্মারক পুরস্কার বিজয়ীদের তালিকা
+    bs: Spisak dobitnika Nobelove nagrade za ekonomiju
+    ca: llista de guardonats amb el Premi Nobel d'Economia
+    da: liste over modtagere af Sveriges Riksbanks pris i økonomi
+    de: Liste der Träger des von der schwedischen Reichsbank in Erinnerung an Alfred Nobel gestifteten Preises für Wirtschaftswissenschaften
+    en: list of laureates of Prize in Economic Sciences in Memory of Alfred Nobel
+    es: Anexo:Ganadores del Premio Nobel Conmemorativo de Economía
+    eu: Ekonomiako nobel saria irabazi dutenen zerrenda
+    fa: فهرست برندگان جایزه نوبل اقتصاد
+    fi: luettelo Nobelin taloustieteen palkinnon saaneista
+    fr: liste des lauréats du prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel
+    gsw: Dreger vum Bryys vu dr schwedische Ryychsbank fir Wirtschaftswisseschafte im Gedänke an dr Alfred Nobel
+    hi: अर्थशास्त्र में नोबेल पुरस्कार विजेताओं की सूची
+    hy: Նոբելյան մրցանակի դափնեկիր տնտեսագետների ցանկ
+    ia: Appendice:Lista de laureatos del Premio Nobel de Economia
+    id: Daftar penerima Nobel Ekonomi
+    io: listo di Nobel-laureati pri ekonomiko
+    it: vincitori del premio Nobel per l'economia
+    ja: ノーベル経済学賞受賞者の一覧
+    ka: ნობელის პრემიის ლაურეატები ეკონომიკაში
+    kk: Экономика саласында Нобель сыйлығы лауреаттарының тізімі
+    ko: 노벨 경제학상 수상자 목록
+    lb: Lëscht vun de Laureate vum Präis vun der Schweedescher Räichsbank fir Economie
+    li: Lies vaan Nobelprieswinners (economie)
+    lt: Sąrašas:Nobelio ekonomikos premijos laureatai
+    lv: Nobela prēmijas laureāti ekonomikā
+    ml: സാമ്പത്തികശാസ്ത്രത്തിനുള്ള നോബൽ സമ്മാനം
+    ms: Senarai penerima Hadiah Peringatan Nobel dalam Sains Ekonomi
+    my: စီးပွားရေးသိပ္ပံပညာဆိုင်ရာ နိုဘယ်အထိမ်းအမှတ်ဆုရ ပညာရှင်များဇယား
+    nb: liste over mottakere av Sveriges Riksbanks pris i økonomisk vitenskap til minne om Alfred Nobel
+    pnb: نوبل انعام برائے معاشیات وصول کنندگان دی لسٹ
+    pt: lista dos laureados co Prémio de Ciências Económicas em Memória de Alfred Nobel
+    ru: список лауреатов Нобелевской премии по экономике
+    scn: Vincitura dû Nobel pi l'ecunumìa
+    sh: Spisak dobitnika Nobelove nagrade za ekonomiju
+    si: ආර්ථික විද්යාව පිලිබඳ නොබෙල් සමරු ත්යාගලාභී ලැයිස්තුව
+    sr: Списак добитника Нобелове награде за економију
+    sv: mottagare av Sveriges Riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne
+    te: ఆర్థిక శాస్త్రం విభాగంలో నోబెల్ బహుమతి గ్రహీతల జాబితా
+    tr: Nobel Ekonomi Ödülü sahipleri listesi
+    uk: список лауреатів Нобелівської премії з економіки
+    ur: معیشت میں نوبل انعام حاصل کرنے والوں کی فہرست
+    uz: Iqtisodiyot boʻyicha Nobel xotirasi mukofoti laureatlari roʻyxati
+    vi: Danh sách người đoạt giải Nobel Kinh tế
+    xmf: ნობელიშ პრემიაშ ლაურეატეფი ეკონომიკას
+    zh: 諾貝爾經濟學獎得主列表
+    zh-hans: 诺贝尔经济学奖得主列表
+    zh-hant: 諾貝爾經濟學獎得主列表
+    zh-hk: 諾貝爾經濟學獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

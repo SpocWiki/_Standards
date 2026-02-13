@@ -1,8 +1,75 @@
 ---
 aliases:
-  - Raphicerus
+- Antilopikės
+- Bįįh yił ahidaałtʼéhígíí
+- Dondoo
+- punagasellit
+- Raficer
+- Raphicerus
+- surboleem ke Raphicerus oxi
+- őszantilopok
+- דוקרן
+- سوزنیشاخها
+- شدان
+- სტენბოკები
+- 小岩羚属
+- 石羚属
+- 石羚屬
+- 라피케루스속
 title: Raphicerus
 has_id_wikidata: Q2345033
+dv_has_:
+  name_:
+    an: Raphicerus
+    ar: شدان
+    ast: Raphicerus
+    avk: surboleem ke Raphicerus oxi
+    bg: Raphicerus
+    br: Raphicerus
+    ca: Raficer
+    ceb: Raphicerus
+    cs: Raphicerus
+    de: Raphicerus
+    en: Raphicerus
+    eo: Raphicerus
+    es: Raphicerus
+    eu: Raphicerus
+    ext: Raphicerus
+    fa: سوزنیشاخها
+    fi: punagasellit
+    fr: Raphicerus
+    frr: Raphicerus
+    ga: Raphicerus
+    gl: Raphicerus
+    he: דוקרן
+    hu: őszantilopok
+    ia: Raphicerus
+    ie: Raphicerus
+    io: Raphicerus
+    it: Raphicerus
+    ka: სტენბოკები
+    ko: 라피케루스속
+    la: Raphicerus
+    lt: Antilopikės
+    mul: Raphicerus
+    nl: Raphicerus
+    nv: Bįįh yił ahidaałtʼéhígíí
+    oc: Raphicerus
+    pl: Raphicerus
+    pt: Raphicerus
+    pt-br: Raphicerus
+    ro: Raphicerus
+    ru: Raphicerus
+    sq: Raphicerus
+    sv: Raphicerus
+    sw: Dondoo
+    uk: Raphicerus
+    vi: Raphicerus
+    vo: Raphicerus
+    war: Raphicerus
+    zh: 小岩羚属
+    zh-cn: 石羚属
+    zh-tw: 石羚屬
 ---
 # [[Raphicerus]] 
 

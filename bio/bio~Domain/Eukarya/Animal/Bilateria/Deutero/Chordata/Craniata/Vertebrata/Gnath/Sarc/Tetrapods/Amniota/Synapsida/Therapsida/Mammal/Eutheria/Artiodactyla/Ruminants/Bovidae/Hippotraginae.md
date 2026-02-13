@@ -1,9 +1,94 @@
 ---
 aliases:
-  - Hippotraginae
-  - Hippotragini
+- Antylopowce
+- Arklinės antilopės
+- grivaste antilope
+- Gräsätande antiloper
+- hipotragins
+- Hipotraguinos
+- Hippotraginae
+- Hippotragini
+- Hobuantilooplased
+- isoantiloopit
+- lóantilopformák
+- Paardantilopen
+- Perdagtige wildsbokke
+- Pferdeböcke
+- přímorožci
+- Qılıncbuynuz antiloplar
+- Ιπποτραγίναι
+- коњски антилопи
+- Конски антилопи
+- Саблерогие антилопы
+- Шаблерогові
+- ראמים
+- اوریکس
+- ظباء شبيهة الخيل
+- แอนทิโลปปศุสัตว์
+- ცხენისებრი ანტილოპები
+- ブルーバック亜科
+- 馬羚亞科
+- 马羚亚科
+- 힙포트라구스족
 title: Hippotraginae
 has_id_wikidata: Q725271
+dv_has_:
+  name_:
+    af: Perdagtige wildsbokke
+    ar: ظباء شبيهة الخيل
+    arz: ظباء شبيهة الخيل
+    ast: Hippotraginae
+    az: Qılıncbuynuz antiloplar
+    bg: Конски антилопи
+    br: Hippotraginae
+    ca: hipotragins
+    ceb: Hippotraginae
+    cs: přímorožci
+    da: Hippotraginae
+    de: Pferdeböcke
+    el: Ιπποτραγίναι
+    en: Hippotraginae
+    es: Hippotraginae
+    et: Hobuantilooplased
+    eu: Hippotraginae
+    fa: اوریکس
+    fi: isoantiloopit
+    fr: Hippotraginae
+    frr: Hippotraginae
+    ga: Hippotraginae
+    gl: Hipotraguinos
+    he: ראמים
+    hu: lóantilopformák
+    ia: Hippotraginae
+    id: Hippotraginae
+    it: Hippotraginae
+    ja: ブルーバック亜科
+    ka: ცხენისებრი ანტილოპები
+    ko: 힙포트라구스족
+    la: Hippotraginae
+    lt: Arklinės antilopės
+    mk: коњски антилопи
+    mul: Hippotraginae
+    nl: Paardantilopen
+    pl: Antylopowce
+    pt: Hippotraginae
+    pt-br: Hippotraginae
+    ro: Hippotraginae
+    ru: Саблерогие антилопы
+    sl: grivaste antilope
+    sq: Hippotraginae
+    sv: Gräsätande antiloper
+    sw: Hippotraginae
+    th: แอนทิโลปปศุสัตว์
+    uk: Шаблерогові
+    vi: Hippotraginae
+    war: Hippotraginae
+    zh: 马羚亚科
+    zh-cn: 马羚亚科
+    zh-hans: 马羚亚科
+    zh-hant: 馬羚亞科
+    zh-hk: 馬羚亞科
+    zh-tw: 馬羚亞科
 ---
 # [[Hippotraginae]] 
 

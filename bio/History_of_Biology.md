@@ -1,21 +1,123 @@
 ---
 aliases:
+- biologian historia
+- Biologiaren historia
+- biologiens historie
+- biologins historia
+- bioloģijas vēsture
+- biológiatörténet
+- biyoloji tarihi
+- Dejiny biológie
+- dějiny biologie
+- Geschichte der Biologie
+- geschiedenis van de biologie
+- histoire de la biologie
+- Historia biologiae
+- Historia biologii
+- historia da bioloxía
+- historia de la biología
+- Historia de la bioloxía
+- Historia del biologia
+- Historia ya biolojia
+- historio de biologio
+- history of biology
+- història de la biologia
+- história da biologia
+- istoria biologiei
+- Istorija biologije
+- lịch sử sinh học
+- Sejarah biologi
+- storia della biologia
+- zgodovina biologije
+- Ιστορία της βιολογίας
+- історія біології
+- биология тарихы
+- гісторыя біялёгіі
+- гісторыя біялогіі
+- история биологии
+- היסטוריה של הביולוגיה
+- تاريخ علم الأحياء
+- تاریخ زیستشناسی
+- د بیولوژۍ تاریخچه
+- जीव बिज्ञान क इतिहास
+- जीवविज्ञान का इतिहास
+- জীববিজ্ঞানের ইতিহাস
+- உயிரியல் வரலாறு
+- సుక్క్ష్మ జీవులు
+- ბიოლოგიის ისტორია
+- 生物学史
+- 生物學史
+- 생물학의 역사
 has_id_wikidata: Q746656
 facet_of:
-  - "[[_Standards/WikiData/WD~life_sciences,864928]]"
-  - "[[_Standards/WikiData/WD~biology,420]]"
+- '[[_Standards/WikiData/WD~life_sciences,864928]]'
+- '[[_Standards/WikiData/WD~biology,420]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_biology,14403493]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_natural_science,56296765]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_biology,63650936]]"
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_biology,14403493]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_biology,63650936]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erasmus%20Darwin%20Temple%20of%20Nature.jpg
-Basisklassifikation: "42.01"
+Basisklassifikation: 42.01
 Commons_category: History of biology
 PhilPapers_topic: history-of-biology
+dv_has_:
+  name_:
+    ar: تاريخ علم الأحياء
+    ast: Historia de la bioloxía
+    be: гісторыя біялогіі
+    be-tarask: гісторыя біялёгіі
+    bho: जीव बिज्ञान क इतिहास
+    bn: জীববিজ্ঞানের ইতিহাস
+    ca: història de la biologia
+    cs: dějiny biologie
+    da: biologiens historie
+    de: Geschichte der Biologie
+    el: Ιστορία της βιολογίας
+    en: history of biology
+    eo: historio de biologio
+    es: historia de la biología
+    eu: Biologiaren historia
+    fa: تاریخ زیستشناسی
+    fi: biologian historia
+    fr: histoire de la biologie
+    gl: historia da bioloxía
+    he: היסטוריה של הביולוגיה
+    hi: जीवविज्ञान का इतिहास
+    hu: biológiatörténet
+    ia: Historia del biologia
+    id: Sejarah biologi
+    it: storia della biologia
+    ja: 生物学史
+    ka: ბიოლოგიის ისტორია
+    ko: 생물학의 역사
+    la: Historia biologiae
+    lv: bioloģijas vēsture
+    ms: sejarah biologi
+    nl: geschiedenis van de biologie
+    pl: Historia biologii
+    ps: د بیولوژۍ تاریخچه
+    pt: história da biologia
+    ro: istoria biologiei
+    ru: история биологии
+    sk: Dejiny biológie
+    sl: zgodovina biologije
+    sr: Istorija biologije
+    sv: biologins historia
+    sw: Historia ya biolojia
+    ta: உயிரியல் வரலாறு
+    te: సుక్క్ష్మ జీవులు
+    tr: biyoloji tarihi
+    tt: биология тарихы
+    uk: історія біології
+    vi: lịch sử sinh học
+    yue: 生物學史
+    zh: 生物学史
+    zh-hans: 生物学史
+    zh-hant: 生物學史
+    zh-hk: 生物學史
 ---
-
 # [[History_of_Biology]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_biology,746656|WD~History_of_biology,746656]] 

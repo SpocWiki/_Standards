@@ -1,27 +1,78 @@
 ---
 aliases:
-  - Hydrogen Embrittlement
-  - hydrogen-assisted cracking
-  - hydrogen-induced cracking
-  - Hydrogen_Embrittlement
+- fragilisation par l'hydrogène
+- fragilització per hidrogen
+- fragilizare prin hidrogen
+- Fragilização por hidrogénio
+- Fragilização por hidrogênio
+- fragiliĝo per hidrogeno
+- Hydrogen Embrittlement
+- hydrogen-assisted cracking
+- hydrogen-induced cracking
+- Hydrogensprøhet
+- Hydrogen_Embrittlement
+- Infragilimento da idrogeno
+- Kruchość wodorowa
+- Vodíková křehkost
+- Väteförsprödning
+- Wasserstoffversprödung
+- waterstofbrosheid
+- Воднева крихкість
+- водородна кршливост
+- Водородное охрупчивание
+- Устөрөгчийн хэврэгшилт
+- تردی هیدروژنی
+- تقصف هيدروجيني
+- 氢脆
+- 氫脆
+- 水素脆化
+- 수소취성화
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]'
 has_id_wikidata: Q605529
+dv_has_:
+  name_:
+    ar: تقصف هيدروجيني
+    ca: fragilització per hidrogen
+    cs: Vodíková křehkost
+    de: Wasserstoffversprödung
+    en: hydrogen embrittlement
+    eo: fragiliĝo per hidrogeno
+    fa: تردی هیدروژنی
+    fr: fragilisation par l'hydrogène
+    it: Infragilimento da idrogeno
+    ja: 水素脆化
+    ko: 수소취성화
+    mk: водородна кршливост
+    mn: Устөрөгчийн хэврэгшилт
+    nb: Hydrogensprøhet
+    nl: waterstofbrosheid
+    pl: Kruchość wodorowa
+    pt: Fragilização por hidrogénio
+    pt-br: Fragilização por hidrogênio
+    ro: fragilizare prin hidrogen
+    ru: Водородное охрупчивание
+    sv: Väteförsprödning
+    uk: Воднева крихкість
+    zh: 氢脆
+    zh-hans: 氢脆
+    zh-hant: 氫脆
+    zh-hk: 氫脆
 ---
 ## #has_/text_of_/abstract 
 

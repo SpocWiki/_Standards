@@ -1,17 +1,99 @@
 ---
 aliases:
-  - Antiretroviral_therapy_for_HIV_AIDS
-  - Antiretroviral therapy for HIV AIDS
+- Antierretrobiral
+- Antiretroviirusravi
+- Antiretroviraalit
+- antiretroviral
+- Antiretroviral therapy for HIV AIDS
+- antiretroviral therapy for HIV/AIDS
+- Antiretrovirala läkemedel
+- Antiretrovirale medisiner
+- Antiretrovirale Therapie
+- Antiretroviralni lek
+- Antiretroviralni lijek
+- Antiretroviral_therapy_for_HIV_AIDS
+- antirretroviral
+- antirétroviral du VIH
+- HAART
+- HAART療法
+- hiv-remmer
+- HIV/AIDS의 관리
+- Kiểm soát HIV/AIDS
+- kontraŭretrovirusa terapio por HIV/aidoso
+- Kontre-retrovirusivo
+- management of HIV/AIDS
+- penanganan HIV/AIDS
+- protiretrovirusno zdravilo
+- Teenretrovirale middel
+- terapi antiretrovirus untuk HIV/AIDS
+- trattamento dell'infezione da HIV
+- високоактивна антиретровірусна терапія
+- высокаактыўная антырэтравірусная тэрапія
+- Высокоактивная антиретровирусная терапия
+- تدابير علاج الإيدز
+- تل کی چكي کی ایچ آئی وی کے علاج میں اہمیت
+- درمان اچآیوی/ایدز
+- এইচআইভি/এইডস ব্যবস্থাপনা
+- മാനേജ്മെന്റ് ഓഫ് എച്ച്.ഐ.വി./എയ്ഡ്സ്
+- ยาต้านรีโทรไวรัส
+- ፀረ-ኤችአይቪ መዳኒቶች
+- 愛滋病管理
+- 抗反轉錄病毒藥物
+- 抗逆转录病毒药物
 has_id_wikidata: Q583050
 subclass_of:
-  - '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
-  - '[[_Standards/WikiData/WD~antiretroviral_therapy,114595933]]'
+- '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
+- '[[_Standards/WikiData/WD~antiretroviral_therapy,114595933]]'
 has_part_s_: '[[_Standards/WikiData/WD~highly_active_antiretroviral_therapy,3536652]]'
 OmegaWiki_Defined_Meaning: 491557
 RIA_Novosti_reference: 56288135
 Commons_category: Antiretroviral drugs
+dv_has_:
+  name_:
+    af: Teenretrovirale middel
+    am: ፀረ-ኤችአይቪ መዳኒቶች
+    ar: تدابير علاج الإيدز
+    ast: Antirretroviral
+    be-tarask: высокаактыўная антырэтравірусная тэрапія
+    bn: এইচআইভি/এইডস ব্যবস্থাপনা
+    ca: antiretroviral
+    de: Antiretrovirale Therapie
+    en: antiretroviral therapy for HIV/AIDS
+    en-gb: management of HIV/AIDS
+    eo: kontraŭretrovirusa terapio por HIV/aidoso
+    es: antirretroviral
+    et: Antiretroviirusravi
+    eu: Antierretrobiral
+    fa: درمان اچآیوی/ایدز
+    fi: Antiretroviraalit
+    fr: antirétroviral du VIH
+    gl: Antirretroviral
+    hr: Antiretroviralni lijek
+    id: penanganan HIV/AIDS
+    io: Kontre-retrovirusivo
+    it: trattamento dell'infezione da HIV
+    ja: HAART療法
+    ko: HIV/AIDS의 관리
+    ml: മാനേജ്മെന്റ് ഓഫ് എച്ച്.ഐ.വി./എയ്ഡ്സ്
+    ms: terapi antiretrovirus untuk HIV/AIDS
+    nb: Antiretrovirale medisiner
+    nl: hiv-remmer
+    pl: HAART
+    pt: Antirretroviral
+    ru: Высокоактивная антиретровирусная терапия
+    sl: protiretrovirusno zdravilo
+    sr: Antiretroviralni lek
+    sv: Antiretrovirala läkemedel
+    th: ยาต้านรีโทรไวรัส
+    uk: високоактивна антиретровірусна терапія
+    ur: تل کی چكي کی ایچ آئی وی کے علاج میں اہمیت
+    vi: Kiểm soát HIV/AIDS
+    yue: 愛滋病管理
+    zh: 抗反轉錄病毒藥物
+    zh-hans: 抗逆转录病毒药物
+    zh-hant: 抗反轉錄病毒藥物
+    zh-hk: 抗反轉錄病毒藥物
 ---
-
 # [[Antiretroviral_therapy_for_HIV_AIDS]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Antiretroviral_therapy_for_HIV_AIDS,583050|WD~Antiretroviral_therapy_for_HIV_AIDS,583050]]

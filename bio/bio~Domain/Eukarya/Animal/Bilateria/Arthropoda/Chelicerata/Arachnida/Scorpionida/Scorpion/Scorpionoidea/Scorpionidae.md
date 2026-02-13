@@ -1,8 +1,113 @@
 ---
 aliases:
-  - Scorpionidae
+- Scorpionidae
+- Varsinaiset skorpionit
+- veleštírovití
+- скорпионови
+- עבידיים
+- شبدعيات
+- کژدمان
+- コガネサソリ科
+- 蝎科
+- 蠍科
+- 이형전갈과
 title: Scorpionidae
 has_id_wikidata: Q133410
+dv_has_:
+  name_:
+    af: Scorpionidae
+    an: Scorpionidae
+    ar: شبدعيات
+    arz: شبدعيات
+    ast: Scorpionidae
+    bar: Scorpionidae
+    bg: скорпионови
+    br: Scorpionidae
+    ca: Scorpionidae
+    ceb: Scorpionidae
+    co: Scorpionidae
+    cs: veleštírovití
+    cy: Scorpionidae
+    da: Scorpionidae
+    de: Scorpionidae
+    de-at: Scorpionidae
+    de-ch: Scorpionidae
+    en: Scorpionidae
+    en-ca: Scorpionidae
+    en-gb: Scorpionidae
+    eo: Scorpionidae
+    es: Scorpionidae
+    et: Scorpionidae
+    eu: Scorpionidae
+    ext: Scorpionidae
+    fa: کژدمان
+    fi: Varsinaiset skorpionit
+    fr: Scorpionidae
+    frp: Scorpionidae
+    fur: Scorpionidae
+    ga: Scorpionidae
+    gd: Scorpionidae
+    gl: Scorpionidae
+    gsw: Scorpionidae
+    he: עבידיים
+    hr: Scorpionidae
+    hu: Scorpionidae
+    ia: Scorpionidae
+    id: Scorpionidae
+    ie: Scorpionidae
+    io: Scorpionidae
+    is: Scorpionidae
+    it: Scorpionidae
+    ja: コガネサソリ科
+    kg: Scorpionidae
+    ko: 이형전갈과
+    la: Scorpionidae
+    lb: Scorpionidae
+    li: Scorpionidae
+    lij: Scorpionidae
+    mg: Scorpionidae
+    min: Scorpionidae
+    ms: Scorpionidae
+    mul: Scorpionidae
+    nap: Scorpionidae
+    nb: Scorpionidae
+    nds: Scorpionidae
+    nds-nl: Scorpionidae
+    nl: Scorpionidae
+    nn: Scorpionidae
+    nrm: Scorpionidae
+    nys: Scorpionidae
+    oc: Scorpionidae
+    pcd: Scorpionidae
+    pl: Scorpionidae
+    pms: Scorpionidae
+    pt: Scorpionidae
+    pt-br: Scorpionidae
+    rm: Scorpionidae
+    ro: Scorpionidae
+    ru: Scorpionidae
+    sc: Scorpionidae
+    scn: Scorpionidae
+    sco: Scorpionidae
+    sk: Scorpionidae
+    sl: Scorpionidae
+    sq: Scorpionidae
+    sv: Scorpionidae
+    sw: Scorpionidae
+    tr: Scorpionidae
+    uk: Scorpionidae
+    vec: Scorpionidae
+    vi: Scorpionidae
+    vls: Scorpionidae
+    vo: Scorpionidae
+    wa: Scorpionidae
+    war: Scorpionidae
+    wo: Scorpionidae
+    zh: 蝎科
+    zh-cn: 蝎科
+    zh-hans: 蝎科
+    zh-tw: 蠍科
+    zu: Scorpionidae
 ---
 # Scorpionidae 
 

@@ -1,13 +1,209 @@
 ---
 aliases:
-  - Pinales
-  - Conifer
-  - Coniferophyta
-  - Coniferae
-  - Pinophyta
-  - Conifers
+- Akwayuq
+- barrväxter
+- bartre
+- bartrær
+- Bearkanagh
+- Berfrævingar
+- borovicorasty
+- cikopi
+- Conifer
+- Coniferae
+- Coniferophyta
+- Conifers
+- Conìfera
+- Conífera
+- Cunifer
+- cónaiféar
+- goahccemuorat
+- havupuut
+- jehličnany
+- Konifearen
+- Konifeern
+- konifer
+- kuácceemuorah
+- kuäʹccevmuõr
+- Kônifera
+- naaldboom
+- nagonasienne właściwe
+- Naoldbeum
+- ngành Thông
+- nåletræ
+- Nõglapuuq
+- okaspuud
+- Pinales
+- Pinidae
+- Pinofito
+- Pinofitoj
+- Pinophyta
+- Pinopsida
+- Pinòpsida
+- pušūnai
+- Qılqan japıraqtılar
+- skujkoku klase
+- Spīglėnē augalā
+- Tanom nga pino
+- Tetanduran runjung
+- Tizumbiyin
+- toboztermők
+- tumbuhan berdaun jarum
+- Četinari
+- četinjače
+- İynəyarpaqlılar (şöbə)
+- Κωνοφόρα
+- Иглолистни
+- Иман кушкыл
+- Махрутиён
+- ттарлил мурхь
+- хвойні
+- хвойные
+- хвойныя
+- хихджын зайæгойтæ
+- четинари
+- Шилмүүст мод
+- Ылыслылар
+- Қылқан жапырақтылар
+- մերկասերմեր
+- מחטנאים
+- المخروطيات
+- قىلقان جاپىراقتىلار
+- مخروطيات
+- مخروطیان
+- کھنگرے
+- ڪونيفر
+- कोणधारी
+- શંકુધારી વૃક્ષ
+- കോണിഫർ
+- พิโนฟิตา
+- წიწვოვნები
+- 松柏門
+- 松柏门
+- 球果植物
+- 구과식물
 title: Conifers
 has_id_wikidata: Q132825
+dv_has_:
+  name_:
+    af: naaldboom
+    an: Pinophyta
+    ar: مخروطيات
+    arz: المخروطيات
+    ast: Pinidae
+    atj: cikopi
+    az: İynəyarpaqlılar (şöbə)
+    ban: Pinophyta
+    be: хвойныя
+    be-tarask: хвойныя
+    bg: Иглолистни
+    bs: Četinari
+    ca: Pinòpsida
+    ceb: Tanom nga pino
+    cs: jehličnany
+    da: nåletræ
+    de: Pinophyta
+    el: Κωνοφόρα
+    en: conifer
+    en-ca: Pinophyta
+    en-gb: Pinophyta
+    eo: Pinofitoj
+    es: Pinidae
+    et: okaspuud
+    eu: Pinofito
+    ext: Pinophyta
+    fa: مخروطیان
+    fi: havupuut
+    fr: Pinophyta
+    fy: Konifearen
+    ga: cónaiféar
+    gl: Conífera
+    gu: શંકુધારી વૃક્ષ
+    gv: Bearkanagh
+    he: מחטנאים
+    hi: कोणधारी
+    hr: četinjače
+    hu: toboztermők
+    hy: մերկասերմեր
+    ia: Pinophyta
+    id: tumbuhan berdaun jarum
+    ie: Pinophyta
+    io: Pinophyta
+    is: Berfrævingar
+    it: Pinophyta
+    ja: 球果植物
+    jv: Tetanduran runjung
+    ka: წიწვოვნები
+    kab: Tizumbiyin
+    kk: Қылқан жапырақтылар
+    kk-arab: قىلقان جاپىراقتىلار
+    kk-cn: قىلقان جاپىراقتىلار
+    kk-cyrl: Қылқан жапырақтылар
+    kk-kz: Қылқан жапырақтылар
+    kk-latn: Qılqan japıraqtılar
+    kk-tr: Qılqan japıraqtılar
+    ko: 구과식물
+    la: Pinophyta
+    lbe: ттарлил мурхь
+    lfn: Conifer
+    li: Naoldbeum
+    lmo: Cunifer
+    lt: pušūnai
+    lv: skujkoku klase
+    mg: Kônifera
+    mhr: Иман кушкыл
+    mk: четинари
+    ml: കോണിഫർ
+    mn: Шилмүүст мод
+    ms: konifer
+    mul: Pinophyta
+    nb: bartrær
+    ne: कोणधारी
+    nl: Pinophyta
+    nn: bartre
+    oc: Pinophyta
+    os: хихджын зайæгойтæ
+    pl: nagonasienne właściwe
+    pms: Conìfera
+    pnb: کھنگرے
+    pt: Conífera
+    pt-br: Pinophyta
+    qu: Akwayuq
+    ro: Pinophyta
+    ru: хвойные
+    sco: Pinophyta
+    sd: ڪونيفر
+    se: goahccemuorat
+    sgs: Spīglėnē augalā
+    sh: Četinari
+    sk: borovicorasty
+    sl: Pinophyta
+    smn: kuácceemuorah
+    sms: kuäʹccevmuõr
+    sq: Pinophyta
+    sr: четинари
+    sr-ec: Четинари
+    sr-el: Četinari
+    sv: barrväxter
+    tg: Махрутиён
+    th: พิโนฟิตา
+    tl: Pinophyta
+    tr: Pinopsida
+    tt: Ылыслылар
+    uk: хвойні
+    vi: ngành Thông
+    vls: Konifeern
+    vo: Pinophyta
+    vro: Nõglapuuq
+    war: Pinales
+    wuu: 松柏门
+    yue: 松柏門
+    zh: 松柏門
+    zh-cn: 松柏门
+    zh-hans: 松柏门
+    zh-hant: 松柏門
+    zh-hk: 松柏門
+    zh-sg: 松柏门
+    zh-tw: 松柏門
 ---
 # [[Conifers]] 
 

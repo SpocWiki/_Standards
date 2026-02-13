@@ -1,30 +1,230 @@
 ---
 aliases:
-  - sex organ
-  - reproductive organ
-  - Sex_Organ
-  - Sex Organ
+- Alat kelamin
+- Ardivink-genel
+- ball giniúna
+- Ball-gineamhainn
+- cinsel organ
+- Cinsiyyət üzvləri
+- cơ quan sinh dục
+- dauginimosi organai
+- dzimumorgāns
+- endamê zaûzê
+- Endamên zayendî
+- Gasawh
+- genitalia
+- Geschlechtsorgan
+- Geslachtsorgaan
+- Geslagsorgaan
+- Geslechtsorgan
+- Gschlächtsorgan
+- Jeschlechtsorjan
+- Jinsiy aʼzolar
+- kap wam
+- Kasangkapang pangkasarian
+- kjønnsorgan
+- Kynfæri
+- könsorgan
+- kønsorgan
+- nemi szervek
+- Nhengo dzesikarudzi
+- Organ pembiakan
+- organ seksual
+- organ sexual
+- Organau rhyw
+- organe sexuel
+- organo sesal
+- organo sessuale
+- Organong sekswal
+- Organum sexuale
+- pohlavní orgán
+- pohlavný orgán
+- polni organ
+- reproductive organ
+- saxaax
+- seksorgano
+- sex organ
+- sexu-organo
+- Sex_Organ
+- Seⁿ-si̍t-khì
+- sohkabealleealán
+- splažny organ
+- spolni organ
+- Spolni organi
+- suguelundid
+- suhâpeliorgaan
+- sukupuolielin
+- taihemahema
+- òrgan sexual
+- òrgano sesuałe
+- órgano sexual
+- órgão sexual
+- šõkknemneävv
+- γεννητικά όργανα
+- енес ағзалары
+- Жыныс органы
+- йылон люкетъёс
+- плоцевыя органы
+- полни орган
+- полов орган
+- половые органы
+- репродуктивні органи
+- рэпрадуктыўная сістэма чалавека
+- Մարդու վերարտադրողական համակարգ
+- איבר מין
+- געשלעכט גליד
+- ئەندامی زاوزێ
+- اندام جنسی
+- جنسی عضو
+- عضو جنسي
+- ߖߊ߲߭ ߛߌ߲߬ߝߏ߲
+- गुप्तांग
+- यौन अंग
+- यौनाङ्ग
+- জননাংগ
+- মানব যৌন অঙ্গ
+- பாலுறுப்பு
+- ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗ
+- പ്രത്യുൽപ്പാദനാവയവം
+- ලිංගික අවයව
+- อวัยวะเพศ
+- ອະໄວຍະວະເພດ
+- სასქესე ორგანო
+- სასქესო ორგანო
+- መሳርዕ ግብረ-ስጋ
+- 性器
+- 生殖器
+- 성기
 has_id_wikidata: Q4620674
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 has_characteristic: '[[_Standards/WikiData/WD~primary_sex_characteristic,2047721]]'
 different_from: '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~genitalia_development,14905488]]'
 part_of: '[[_Standards/WikiData/WD~human_reproductive_system,20645683]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~reproductive_organ,21087275]]'
-  - '[[_Standards/WikiData/WD~gendered_anatomical_structure,43022214]]'
+- '[[_Standards/WikiData/WD~reproductive_organ,21087275]]'
+- '[[_Standards/WikiData/WD~gendered_anatomical_structure,43022214]]'
 instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Male%20and%20Female%20external%20genitalia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CharaV3.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Male%20and%20Female%20external%20genitalia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CharaV3.jpg
 OmegaWiki_Defined_Meaning: 530716
 MeSH_tree_code: A05.360
 IMDb_keyword: close-up-of-genitals
 Commons_category: Genitalia
+dv_has_:
+  name_:
+    af: Geslagsorgaan
+    ar: عضو جنسي
+    as: জননাংগ
+    az: Cinsiyyət üzvləri
+    ba: енес ағзалары
+    bcl: Organong sekswal
+    be: рэпрадуктыўная сістэма чалавека
+    be-tarask: плоцевыя органы
+    bg: полов орган
+    bn: মানব যৌন অঙ্গ
+    br: Ardivink-genel
+    bs: spolni organ
+    ca: òrgan sexual
+    ckb: ئەندامی زاوزێ
+    cs: pohlavní orgán
+    cy: Organau rhyw
+    da: kønsorgan
+    de: Geschlechtsorgan
+    el: γεννητικά όργανα
+    en: sex organ
+    eo: seksorgano
+    es: órgano sexual
+    et: suguelundid
+    eu: sexu-organo
+    fa: اندام جنسی
+    fi: sukupuolielin
+    fr: organe sexuel
+    fy: Geslachtsorgaan
+    ga: ball giniúna
+    gd: Ball-gineamhainn
+    gl: órgano sexual
+    gsw: Gschlächtsorgan
+    he: איבר מין
+    hi: यौन अंग
+    hr: Spolni organi
+    hsb: splažny organ
+    hu: nemi szervek
+    hy: Մարդու վերարտադրողական համակարգ
+    id: Alat kelamin
+    is: Kynfæri
+    it: organo sessuale
+    ja: 性器
+    jv: Alat kelamin
+    ka: სასქესო ორგანო
+    kcg: kap wam
+    kn: ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗ
+    ko: 성기
+    ksh: Jeschlechtsorjan
+    ku: Endamên zayendî
+    ku-latn: endamê zaûzê
+    ky: Жыныс органы
+    la: Organum sexuale
+    lb: Geschlechtsorgan
+    lfn: organo sesal
+    lo: ອະໄວຍະວະເພດ
+    lt: dauginimosi organai
+    lv: dzimumorgāns
+    mi: taihemahema
+    mk: полов орган
+    ml: പ്രത്യുൽപ്പാദനാവയവം
+    mr: गुप्तांग
+    ms: Organ pembiakan
+    nan: Seⁿ-si̍t-khì
+    nb: kjønnsorgan
+    nds: Geslechtsorgan
+    ne: यौनाङ्ग
+    nl: geslachtsorgaan
+    nn: kjønnsorgan
+    nqo: ߖߊ߲߭ ߛߌ߲߬ߝߏ߲
+    pl: genitalia
+    pt: órgão sexual
+    ro: organ sexual
+    ru: половые органы
+    sco: sex organ
+    se: sohkabealleealán
+    sh: Spolni organi
+    si: ලිංගික අවයව
+    sk: pohlavný orgán
+    sl: spolni organ
+    smn: suhâpeliorgaan
+    sms: šõkknemneävv
+    sn: Nhengo dzesikarudzi
+    so: saxaax
+    sq: organ seksual
+    sr: полни орган
+    sr-ec: полни орган
+    sr-el: polni organ
+    sv: könsorgan
+    ta: பாலுறுப்பு
+    th: อวัยวะเพศ
+    ti: መሳርዕ ግብረ-ስጋ
+    tl: Kasangkapang pangkasarian
+    tr: cinsel organ
+    udm: йылон люкетъёс
+    uk: репродуктивні органи
+    ur: جنسی عضو
+    uz: Jinsiy aʼzolar
+    vec: òrgano sesuałe
+    vi: cơ quan sinh dục
+    wuu: 生殖器
+    xmf: სასქესე ორგანო
+    yi: געשלעכט גליד
+    yue: 生殖器
+    za: Gasawh
+    zh: 生殖器
+    zh-hans: 生殖器
+    zh-hant: 生殖器
+    zh-tw: 生殖器
 ---
-
 # [[Sex_Organ]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sex_organ,4620674|WD~Sex_organ,4620674]]  

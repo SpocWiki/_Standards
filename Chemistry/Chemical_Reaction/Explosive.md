@@ -1,39 +1,127 @@
 ---
 aliases:
-  - Explosive chemical
-  - explosive material
-  - Explosive
+- Bahan letupan
+- Bahan peledak
+- Bumuruto
+- Danvez-tarzh
+- devnydh tardhans
+- eksplodaĵo
+- eksplosibo
+- Eksplosyf
+- eksploziv
+- Eksplozivi
+- esplosivo
+- esplosivu
+- Esplusivu
+- explosief
+- explosif
+- explosiu
+- Explosive
+- Explosive chemical
+- explosive chemicals
+- explosive material
+- explosivo
+- exploziv
+- Expluosiv matiirial
+- Ffrwydryn
+- Fȳrsprinȝend
+- jarılğış zattar
+- Kilipukaji
+- Lahkja ollus
+- lehergai
+- Lõhkeaine
+- Materia displosiva
+- Material esplosiv
+- materiał wybuchowy
+- Pampasabog
+- partlayıcı maddələr
+- patlayıcı madde
+- portlovchi moddalar
+- Po̍k-chà-bu̍t
+- razstrelivo
+- robbanószer
+- räjähde
+- Sprengiefni
+- Sprengstoff
+- springstof
+- sprogstamosios medžiagos
+- sprängämne
+- sprængstof
+- sprāgstvielas
+- substaint phléascach
+- T'uqyaylla
+- thuốc nổ
+- výbušnina
+- εκρηκτική ύλη
+- Взривно вещество
+- взрывчатое вещество
+- вибухова речовина
+- выбуховае рэчыва
+- експлозив
+- жарылуучу зат
+- жарылғыш заттар
+- Лелха хӀуманаш
+- пуштӥсь тырметъёс
+- сязевомать веществать
+- Шартлаусы матдәләр
+- шартлаучан матдә
+- Պայթուցիկ նյութեր
+- חומר נפץ
+- פליסיגע אויפרייס
+- تماکے والا مواد
+- تەقەمەنی
+- دھماکا خیز مواد
+- مادة د التفرڭيع
+- ماده متفجره
+- متفجرات
+- مواد منفجره
+- پارتلاییجی مادهلر
+- چاوديدونکي توکي
+- विष्फोटक पदार्थ
+- विस्फोटक
+- विस्फोटक सामग्री
+- বিস্ফোরক
+- বিস্ফোৰক সামগ্ৰী
+- ਵਿਸਫੋਟਕ ਸਮੱਗਰੀ
+- வெடிபொருள்
+- സ്ഫോടകവസ്തുക്കൾ
+- วัตถุระเบิด
+- ფეთქებადი ნივთიერება
+- 炸藥
+- 爆炸物
+- 爆発物
+- 폭발물
 has_id_wikidata: Q12870
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-  - "[[_Standards/WikiData/WD~hazardous_substances,757138]]"
-  - "[[_Standards/WikiData/WD~energetic_material,5376832]]"
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~hazardous_substances,757138]]'
+- '[[_Standards/WikiData/WD~energetic_material,5376832]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~explosion,179057]]"
-  - "[[_Standards/WikiData/WD~detonation,786054]]"
+- '[[_Standards/WikiData/WD~explosion,179057]]'
+- '[[_Standards/WikiData/WD~detonation,786054]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has_use: "[[_Standards/WikiData/WD~detonation,786054]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_use: '[[_Standards/WikiData/WD~detonation,786054]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~brisance,899092]]"
-  - "[[_Standards/WikiData/WD~chemical_stability,903517]]"
-  - "[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]"
-  - "[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]"
+- '[[_Standards/WikiData/WD~brisance,899092]]'
+- '[[_Standards/WikiData/WD~chemical_stability,903517]]'
+- '[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]'
+- '[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]'
 different_from:
-  - "[[_Standards/WikiData/WD~explosive,911807]]"
-  - "[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]"
-has_part_s_: "[[_Standards/WikiData/WD~explosophore,5421455]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
+- '[[_Standards/WikiData/WD~explosive,911807]]'
+- '[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]'
+has_part_s_: '[[_Standards/WikiData/WD~explosophore,5421455]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
 Dewey_Decimal_Classification:
-  - 662
-  - 662.2
+- 662
+- 662.2
 OmegaWiki_Defined_Meaning: 1386
 Common_Procurement_Vocabulary_code: 24600000
 U_S_National_Archives_Identifier: 10637807
@@ -47,25 +135,138 @@ Krugosvet_article: nauka_i_tehnika/himiya/VZRIVCHATIE_VESHCHESTVA.html
 OpenStreetMap_tag_or_key: Key:hazmat:explosive
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]"
-    - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]"
-    - "[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]"
-    - "[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]"
-    - "[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]"
-    - "[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]"
+  - '[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]'
+  - '[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]'
+  - '[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]'
+  - '[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]'
+  - '[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]'
+  - '[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]"
-  - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]"
-  - "[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]"
-  - "[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]"
-  - "[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]"
-  - "[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]"
+- '[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]'
+- '[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]'
+- '[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]'
+- '[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]'
+- '[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]'
+- '[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]'
+- '[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]'
+- '[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]'
+dv_has_:
+  name_:
+    af: springstof
+    an: Explosivo
+    ang: Fȳrsprinȝend
+    anp: विस्फोटक
+    ar: متفجرات
+    ary: مادة د التفرڭيع
+    arz: ماده متفجره
+    as: বিস্ফোৰক সামগ্ৰী
+    ast: esplosivu
+    az: partlayıcı maddələr
+    azb: پارتلاییجی مادهلر
+    ba: Шартлаусы матдәләр
+    be: выбуховае рэчыва
+    be-tarask: выбуховае рэчыва
+    bg: Взривно вещество
+    bn: বিস্ফোরক
+    br: Danvez-tarzh
+    bs: eksploziv
+    ca: explosiu
+    ce: Лелха хӀуманаш
+    ckb: تەقەمەنی
+    crh: Patlayıcı madde
+    cs: výbušnina
+    cy: Ffrwydryn
+    da: sprængstof
+    de: Sprengstoff
+    el: εκρηκτική ύλη
+    en: explosive chemicals
+    eo: eksplodaĵo
+    es: explosivo
+    et: Lõhkeaine
+    eu: lehergai
+    fa: مواد منفجره
+    fi: räjähde
+    fr: explosif
+    fy: Eksplosyf
+    ga: substaint phléascach
+    gan: 炸藥
+    gl: explosivo
+    gsw: Sprengstoff
+    he: חומר נפץ
+    hi: विस्फोटक
+    hif: explosive chemical
+    hr: eksploziv
+    hu: robbanószer
+    hy: Պայթուցիկ նյութեր
+    ia: Explosivo
+    id: Bahan peledak
+    ilo: eksplosibo
+    is: Sprengiefni
+    it: esplosivo
+    ja: 爆発物
+    jam: Expluosiv matiirial
+    ka: ფეთქებადი ნივთიერება
+    kk: жарылғыш заттар
+    kk-latn: jarılğış zattar
+    ko: 폭발물
+    kw: devnydh tardhans
+    ky: жарылуучу зат
+    la: Materia displosiva
+    lt: sprogstamosios medžiagos
+    lv: sprāgstvielas
+    mdf: сязевомать веществать
+    mk: експлозив
+    ml: സ്ഫോടകവസ്തുക്കൾ
+    mr: विस्फोटक सामग्री
+    ms: Bahan letupan
+    nan: Po̍k-chà-bu̍t
+    nb: sprengstoff
+    nds: Sprengstoff
+    ne: विस्फोटक
+    new: विष्फोटक पदार्थ
+    nl: explosief
+    nn: sprengstoff
+    oc: Explosiu
+    pa: ਵਿਸਫੋਟਕ ਸਮੱਗਰੀ
+    pl: materiał wybuchowy
+    pms: Material esplosiv
+    pnb: تماکے والا مواد
+    ps: چاوديدونکي توکي
+    pt: explosivo
+    qu: T'uqyaylla
+    ro: exploziv
+    ru: взрывчатое вещество
+    scn: Esplusivu
+    sco: explosive material
+    sh: Eksploziv
+    sk: výbušnina
+    sl: razstrelivo
+    sq: Eksplozivi
+    sr: експлозив
+    sr-ec: експлозив
+    sr-el: eksploziv
+    sv: sprängämne
+    sw: Kilipukaji
+    ta: வெடிபொருள்
+    th: วัตถุระเบิด
+    tl: Pampasabog
+    tr: patlayıcı madde
+    tt: шартлаучан матдә
+    tt-cyrl: шартлаучан матдә
+    udm: пуштӥсь тырметъёс
+    uk: вибухова речовина
+    ur: دھماکا خیز مواد
+    uz: portlovchi moddalar
+    vi: thuốc nổ
+    vro: Lahkja ollus
+    war: Bumuruto
+    wuu: 爆炸物
+    yi: פליסיגע אויפרייס
+    yue: 炸藥
+    zh: 爆炸物
 ---
-
 # [[Explosive]] 
 
 #is_/same_as :: [[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]] 

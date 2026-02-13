@@ -1,18 +1,73 @@
 ---
 aliases:
-  - Group decision-making
-  - collaborative decision-making
-  - collective decision-making
-  - Group_Decision_Making
-  - Group Decision Making
+- beslutningstagning i grupper
+- collaborative decision-making
+- collective decision-making
+- csoportos döntéshozatal
+- Entscheidigsverfahre
+- Entscheidungsverfahren
+- Group Decision Making
+- Group decision-making
+- Group_Decision_Making
+- grupa decidado
+- grupas lēmumu pieņemšana
+- kolektywne podejmowanie decyzji
+- kollektivt beslutsfattande
+- pengambilan keputusan kelompok
+- presa de decisió en grup
+- prise de décision collective
+- processo decisionale collettivo
+- skupinsko odločanje
+- toma de decisiones colaborativa
+- toma de decisións colaborativa
+- Бүлгийн шийдвэр гаргах
+- групно одлучивање
+- групове ухвалення рішень
+- калектыўнае ўхваленьне рашэньняў
+- קבלת החלטות קבוצתית
+- تصمیمگیری گروهی
+- 集体决策
+- 集団決定
+- 集體決策
+- 집단 의사결정
 has_id_wikidata: Q388791
 subclass_of:
-  - '[[../../../../../WikiData/WD~decision_making,1331926]]'
-  - '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
+- '[[../../../../../WikiData/WD~decision_making,1331926]]'
+- '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~social_choice_theory,1971461]]'
 Library_of_Congress_Classification: HM746-HM751
+dv_has_:
+  name_:
+    be-tarask: калектыўнае ўхваленьне рашэньняў
+    ca: presa de decisió en grup
+    da: beslutningstagning i grupper
+    de: Entscheidungsverfahren
+    en: group decision-making
+    eo: grupa decidado
+    es: toma de decisiones colaborativa
+    fa: تصمیمگیری گروهی
+    fr: prise de décision collective
+    gl: toma de decisións colaborativa
+    gsw: Entscheidigsverfahre
+    he: קבלת החלטות קבוצתית
+    hu: csoportos döntéshozatal
+    id: pengambilan keputusan kelompok
+    it: processo decisionale collettivo
+    ja: 集団決定
+    ko: 집단 의사결정
+    lv: grupas lēmumu pieņemšana
+    mn: Бүлгийн шийдвэр гаргах
+    pl: kolektywne podejmowanie decyzji
+    sl: skupinsko odločanje
+    sr: групно одлучивање
+    sv: kollektivt beslutsfattande
+    uk: групове ухвалення рішень
+    yue: 集體決策
+    zh: 集体决策
+    zh-cn: 集体决策
+    zh-hans: 集体决策
+    zh-hant: 集體決策
 ---
-
 # [[Group_Decision_Making]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~group_decision_making,388791|WD~group_decision_making,388791]] 

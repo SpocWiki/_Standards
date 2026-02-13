@@ -1,27 +1,89 @@
 ---
-has_time_started: 1823-01-01 
+has_time_started: 1823-01-01
 aliases:
+- bóng bầu dục liên hiệp
+- hamabosteko errugbi
+- Harpastum XV
+- Hrōcburhȝesamnunȝe pleȝa
+- Ibhola yombhoxo
+- kesatuan ragbi
+- La-gú-bih liân-ha̍p
+- Ngonya
+- ragbi 15
+- ragbi birliği
+- Ragby
+- Regbıy
+- reqbi ittifaqı
+- Rugbaidh
+- rugbaí aontais
+- rugbeo 15
+- Rugbi
+- rugbi a 15
+- Rugbi de XV
+- Rugbi union
+- rugby
+- rugby a 15
+- rugby union
+- rugby unys
+- rugby à XV
+- Rugby în XV
+- rygbi'r undeb
+- râguebi de quinze
+- Umbhoxo
+- uni rugbi
+- uniós rögbi
+- unyrugby
+- whutupōro
+- Yekîtiya Ragbî
+- ράγκμπι γιούνιον
+- рагби
+- Рагби јунион
+- регбі-15
+- Регби
+- регби-15
+- рэгбі-15
+- рэгбійны зьвяз
+- ռեգբի 15
+- רוגבי יוניון
+- اتحاد الرجبى
+- اتحاد الرغبي
+- راگبی بیرلیگی
+- راگبی ۱۵ نفره
+- رگبی یونین
+- रग्बी युनियन
+- रग्बी यूनियन
+- রাগবি ইউনিয়ন
+- ਰਗਬੀ ਯੂਨੀਅਨ
+- రగ్బీ యూనియన్
+- รักบี้ยูเนียน
+- რაგბი
+- ラグビーユニオン
+- 橄榄球
+- 联合式橄榄球
+- 聯合式橄欖球
+- 聯合式欖球
+- 럭비 유니언
 has_id_wikidata: Q5849
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-instance_of: "[[_Standards/WikiData/WD~team_sport,216048]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+instance_of: '[[_Standards/WikiData/WD~team_sport,216048]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Rugby,227861]]"
-  - "[[_Standards/WikiData/WD~football,1081491]]"
-  - "[[_Standards/WikiData/WD~rugby_league,10962]]"
-authority: "[[_Standards/WikiData/WD~World_Rugby,369225]]"
+- '[[_Standards/WikiData/WD~Rugby,227861]]'
+- '[[_Standards/WikiData/WD~football,1081491]]'
+- '[[_Standards/WikiData/WD~rugby_league,10962]]'
+authority: '[[_Standards/WikiData/WD~World_Rugby,369225]]'
 uses:
-  - "[[_Standards/WikiData/WD~rugby_union_ball,909196]]"
-  - "[[_Standards/WikiData/WD~rugby_union_field,13054561]]"
+- '[[_Standards/WikiData/WD~rugby_union_ball,909196]]'
+- '[[_Standards/WikiData/WD~rugby_union_field,13054561]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~rugby_union_player,14089670]]"
-  - "[[_Standards/WikiData/WD~rugby_union_coach,15041977]]"
-  - "[[_Standards/WikiData/WD~rugby_union_executive,56117770]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rugby_union,17644530]]"
-subclass_of: "[[_Standards/WikiData/WD~rugby,5378]]"
-IAB_code: "529"
+- '[[_Standards/WikiData/WD~rugby_union_player,14089670]]'
+- '[[_Standards/WikiData/WD~rugby_union_coach,15041977]]'
+- '[[_Standards/WikiData/WD~rugby_union_executive,56117770]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby_union,17644530]]'
+subclass_of: '[[_Standards/WikiData/WD~rugby,5378]]'
+IAB_code: 529
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20union%20pictogram.svg
 time_of_discovery_or_invention: 1823-01-01T00:00:00Z
 inception: 1823-01-01T00:00:00Z
@@ -35,10 +97,105 @@ Archive_of_Our_Own_tag: Rugby Union RPF
 subreddit: rugbyunion
 Krugosvet_article_archived_: sport/REGBI.html
 OpenStreetMap_tag:
-  - sport=rugby
-  - sport=rugby_union
+- sport=rugby
+- sport=rugby_union
+dv_has_:
+  name_:
+    af: rugby
+    ang: Hrōcburhȝesamnunȝe pleȝa
+    ar: اتحاد الرغبي
+    arz: اتحاد الرجبى
+    ast: rugbi a 15
+    az: reqbi ittifaqı
+    azb: راگبی بیرلیگی
+    be: рэгбі-15
+    be-tarask: рэгбійны зьвяз
+    bn: রাগবি ইউনিয়ন
+    ca: rugbi a 15
+    ceb: Rugby union
+    cs: rugby union
+    cy: rygbi'r undeb
+    da: rugby union
+    de: Rugby Union
+    el: ράγκμπι γιούνιον
+    en: rugby union
+    en-ca: rugby union
+    en-gb: rugby union
+    eo: rugbeo 15
+    es: rugby a 15
+    eu: hamabosteko errugbi
+    fa: راگبی ۱۵ نفره
+    fi: rugby union
+    fr: rugby à XV
+    fy: unyrugby
+    ga: rugbaí aontais
+    gd: Rugbaidh
+    gl: rugby a 15
+    he: רוגבי יוניון
+    hi: रग्बी यूनियन
+    hif: Rugby union
+    hr: rugby union
+    hu: uniós rögbi
+    hy: ռեգբի 15
+    ia: Rugby a 15
+    id: uni rugbi
+    it: rugby a 15
+    ja: ラグビーユニオン
+    ka: რაგბი
+    kaa: Regbıy
+    ki: Ngonya
+    ko: 럭비 유니언
+    ku: Yekîtiya Ragbî
+    kw: rugby unys
+    la: Harpastum XV
+    lb: Rugby Union
+    li: Rugby union
+    mi: whutupōro
+    mk: рагби
+    mr: रग्बी युनियन
+    ms: kesatuan ragbi
+    nan: La-gú-bih liân-ha̍p
+    nb: rugby union
+    nl: rugby union
+    oc: Rugbi de XV
+    os: регби-15
+    pa: ਰਗਬੀ ਯੂਨੀਅਨ
+    pcd: Rugbi
+    pl: rugby union
+    pnb: رگبی یونین
+    pt: râguebi de quinze
+    pt-br: rugby union
+    ro: Rugby în XV
+    ru: регби-15
+    sco: Rugby union
+    sh: Rugby union
+    sk: Ragby
+    sl: ragbi 15
+    sr: Рагби јунион
+    su: Rugbi union
+    sv: rugby union
+    te: రగ్బీ యూనియన్
+    tg: Регби
+    th: รักบี้ยูเนียน
+    tr: ragbi birliği
+    uk: регбі-15
+    ur: رگبی یونین
+    vec: Rugby a 15
+    vi: bóng bầu dục liên hiệp
+    wuu: 橄榄球
+    xh: Ibhola yombhoxo
+    yue: 聯合式欖球
+    zh: 聯合式橄欖球
+    zh-cn: 联合式橄榄球
+    zh-hans: 联合式橄榄球
+    zh-hant: 聯合式橄欖球
+    zh-hk: 聯合式欖球
+    zh-mo: 聯合式欖球
+    zh-my: 联合式橄榄球
+    zh-sg: 联合式橄榄球
+    zh-tw: 聯合式橄欖球
+    zu: Umbhoxo
 ---
-
 # [[Rugby_Union]] 
 
 #is_/same_as :: [[WD~Rugby_union,5849]] 

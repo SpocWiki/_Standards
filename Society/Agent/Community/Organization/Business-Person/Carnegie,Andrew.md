@@ -1,41 +1,77 @@
 ---
 aliases:
-  - Carnegie,Andrew
-  - Andrew_Carnegie
-  - Andrew Carnegie
+- Andreas Carnegie
+- Andrew Carnegie
+- Andrew_Carnegie
+- Carnegie,Andrew
+- Endryu Karnegi
+- Endrū Karnegi
+- Άντριου Καρνέγκι
+- Андрю Карнеги
+- Ендру Карнеги
+- Ендрю Карнеґі
+- Карнеги Эндрю
+- Эндру Карнегі
+- Эндру Карнэгі
+- Эндрю Карнеги
+- Эндрю Карнегӣ
+- Էնդրյու Կարնեգի
+- אנדרו קרנגי
+- أندرو كارنيغي
+- اندرو كارنيجى
+- اندرو کارنگی
+- انڈریو کارنیگی
+- اینڈریو کارنیگی
+- अँड्रु कार्नेगी
+- ऐंड्रू कार्नेगी
+- এন্ড্রু কানের্গি
+- ਐਂਡ੍ਰਿਊ ਕਾਰਨੇਗੀ
+- એન્ડ્રુ કાર્નેગી
+- ஆண்ட்ரூ கார்னேகி
+- ఆండ్రూ కార్నెగీ
+- ಆಂಡ್ಯ್ರೂ ಕಾರ್ನೆಗೀ
+- แอนดรูว์ คาร์เนกี
+- အင်ဒရူး ကာနက်ဂီ
+- အင်ဒရူး ကာနက်ဂျီ
+- アンドリュー・カーネギー
+- 安多留卡內基
+- 安德魯·卡內基
+- 安德鲁·卡内基
+- 安祖卡利之
+- 앤드루 카네기
 has_id_wikidata: Q484265
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~merchant,215536]]'
-  - '[[_Standards/WikiData/WD~business_magnate,911554]]'
-  - '[[_Standards/WikiData/WD~industrialist,6606110]]'
-  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
-  - '[[_Standards/WikiData/WD~fabricator,42855995]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~merchant,215536]]'
+- '[[_Standards/WikiData/WD~business_magnate,911554]]'
+- '[[_Standards/WikiData/WD~industrialist,6606110]]'
+- '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+- '[[_Standards/WikiData/WD~fabricator,42855995]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
 movement:
-  - '[[_Standards/WikiData/WD~philanthropy,185733]]'
-  - '[[_Standards/WikiData/WD~noninterventionism,1203128]]'
-  - '[[_Standards/WikiData/WD~patriotism,6241]]'
+- '[[_Standards/WikiData/WD~philanthropy,185733]]'
+- '[[_Standards/WikiData/WD~noninterventionism,1203128]]'
+- '[[_Standards/WikiData/WD~patriotism,6241]]'
 place_of_birth: '[[_Standards/WikiData/WD~Dunfermline,211950]]'
 position_held: '[[_Standards/WikiData/WD~rector,212071]]'
 place_of_burial: '[[_Standards/WikiData/WD~Sleepy_Hollow_Cemetery,360779]]'
 member_of: '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Q18843010,18843010]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]'
-  - '[[_Standards/WikiData/WD~Q56286171,56286171]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_third_supplement,116234546]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Q18843010,18843010]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]'
+- '[[_Standards/WikiData/WD~Q56286171,56286171]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_third_supplement,116234546]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 cause_of_death: '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
@@ -47,13 +83,13 @@ child: '[[_Standards/WikiData/WD~Margaret_Carnegie_Miller,6759245]]'
 sibling: '[[_Standards/WikiData/WD~Thomas_M._Carnegie,7792033]]'
 given_name: '[[_Standards/WikiData/WD~Andrew,18042461]]'
 relative:
-  - '[[_Standards/WikiData/WD~George_Lauder,18343976]]'
-  - '[[_Standards/WikiData/WD~George_Lauder,61582442]]'
+- '[[_Standards/WikiData/WD~George_Lauder,18343976]]'
+- '[[_Standards/WikiData/WD~George_Lauder,61582442]]'
 family_name: '[[_Standards/WikiData/WD~Carnegie,31892236]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Bessemer_Gold_Medal,43900491]]'
-  - '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
-  - '[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]'
+- '[[_Standards/WikiData/WD~Bessemer_Gold_Medal,43900491]]'
+- '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
+- '[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 mother: '[[_Standards/WikiData/WD~Margaret_Morrison_Carnegie,105292400]]'
@@ -76,8 +112,104 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Carnegie%2C%2
 ISNI: 0000000122831065
 Libris_URI: 75kmmjsr1frtcbj
 P8189: 987007259572305171
+dv_has_:
+  name_:
+    af: Andrew Carnegie
+    ar: أندرو كارنيغي
+    arz: اندرو كارنيجى
+    ast: Andrew Carnegie
+    az: Endryu Karnegi
+    ba: Карнеги Эндрю
+    be: Эндру Карнегі
+    be-tarask: Эндру Карнэгі
+    bg: Андрю Карнеги
+    bn: এন্ড্রু কানের্গি
+    bs: Andrew Carnegie
+    ca: Andrew Carnegie
+    cs: Andrew Carnegie
+    cy: Andrew Carnegie
+    da: Andrew Carnegie
+    de: Andrew Carnegie
+    de-ch: Andrew Carnegie
+    el: Άντριου Καρνέγκι
+    en: Andrew Carnegie
+    en-ca: Andrew Carnegie
+    en-gb: Andrew Carnegie
+    en-us: Andrew Carnegie
+    eo: Andrew Carnegie
+    es: Andrew Carnegie
+    et: Andrew Carnegie
+    eu: Andrew Carnegie
+    fa: اندرو کارنگی
+    fi: Andrew Carnegie
+    fr: Andrew Carnegie
+    fy: Andrew Carnegie
+    ga: Andrew Carnegie
+    gd: Andrew Carnegie
+    gl: Andrew Carnegie
+    gu: એન્ડ્રુ કાર્નેગી
+    he: אנדרו קרנגי
+    hi: ऐंड्रू कार्नेगी
+    hr: Andrew Carnegie
+    hu: Andrew Carnegie
+    hy: Էնդրյու Կարնեգի
+    id: Andrew Carnegie
+    is: Andrew Carnegie
+    it: Andrew Carnegie
+    ja: アンドリュー・カーネギー
+    kk: Эндрю Карнеги
+    kn: ಆಂಡ್ಯ್ರೂ ಕಾರ್ನೆಗೀ
+    ko: 앤드루 카네기
+    la: Andreas Carnegie
+    lt: Andrew Carnegie
+    lv: Endrū Karnegi
+    lzh: 安多留卡內基
+    mg: Andrew Carnegie
+    mk: Ендру Карнеги
+    mn: Эндрю Карнеги
+    mr: अँड्रु कार्नेगी
+    ms: Andrew Carnegie
+    mul: Andrew Carnegie
+    my: အင်ဒရူး ကာနက်ဂျီ
+    nan: Andrew Carnegie
+    nb: Andrew Carnegie
+    nl: Andrew Carnegie
+    nn: Andrew Carnegie
+    oc: Andrew Carnegie
+    os: Эндрю Карнеги
+    pa: ਐਂਡ੍ਰਿਊ ਕਾਰਨੇਗੀ
+    pl: Andrew Carnegie
+    pms: Andrew Carnegie
+    pnb: انڈریو کارنیگی
+    pt: Andrew Carnegie
+    pt-br: Andrew Carnegie
+    rki: အင်ဒရူး ကာနက်ဂီ
+    ro: Andrew Carnegie
+    ru: Эндрю Карнеги
+    sco: Andrew Carnegie
+    sh: Andrew Carnegie
+    sl: Andrew Carnegie
+    sq: Andrew Carnegie
+    sr: Ендру Карнеги
+    sr-ec: Ендру Карнеги
+    sv: Andrew Carnegie
+    ta: ஆண்ட்ரூ கார்னேகி
+    te: ఆండ్రూ కార్నెగీ
+    tg: Эндрю Карнегӣ
+    th: แอนดรูว์ คาร์เนกี
+    tr: Andrew Carnegie
+    uk: Ендрю Карнеґі
+    ur: اینڈریو کارنیگی
+    uz: Andrew Carnegie
+    vi: Andrew Carnegie
+    war: Andrew Carnegie
+    wuu: 安德鲁·卡内基
+    yue: 安祖卡利之
+    zh: 安德鲁·卡内基
+    zh-hans: 安德鲁·卡内基
+    zh-hant: 安德魯·卡內基
+    zh-hk: 安德魯·卡內基
 ---
-
 # [[Carnegie,Andrew]] 
 
 #is_/different_from :: [[../../../../Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale]] 

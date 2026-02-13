@@ -1,25 +1,91 @@
 ---
 aliases:
-  - Fichte
-  - spruce
-  - Picea
-  - Spruce
-  - Spar
-  - smreka
-  - kuuset
-  - 云杉属
+- Chi Vân sam
+- Chʼó
+- egles
+- eglė
+- Eglės
+- Epiceya
+- Feichtn
+- Fichte
+- Fichten
+- Fiichten
+- gran-slægten
+- granslekta
+- Gransläktet
+- Greni
+- Guossa
+- Kjuusdanne
+- kuuset
+- Kuusk
+- Kuz'
+- Ladin
+- lucfenyő
+- Picea
+- Piceo
+- Pisea
+- Qoraqaragʻay
+- Sbriwsen
+- smrek
+- smreka
+- smrk
+- Smrča
+- Spar
+- Sparre
+- spruce
+- Spruis
+- Tuwmert
+- Świerk
+- Škrjok
+- Šmrěk
+- Πικέα
+- База
+- Гацуур
+- елка
+- ель
+- Кож
+- Коз
+- Куз
+- Кыз
+- Кӧз
+- Наз
+- Псей
+- смрча
+- смърч
+- Харыйа
+- Чăрăш
+- чыршы
+- Шырша
+- Шыршы
+- яліна
+- ялина
+- Եղեւին
+- եղևնի
+- אשוחית
+- تنوب
+- راتينجية
+- صنوبر
+- کوکنار
+- सरल
+- สปรูซ
+- ნაძვი
+- ნოჯი
+- トウヒ属
+- 云杉属
+- 雲杉屬
+- 가문비나무속
 has_id_wikidata: Q26782
 taxonomic_type: '[[_Standards/WikiData/WD~Picea_abies,145992]]'
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~spruce,2046308]]'
 parent_taxon: '[[_Standards/WikiData/WD~Piceoideae,14920716]]'
 different_from: '[[_Standards/WikiData/WD~Q21850859,21850859]]'
@@ -32,12 +98,12 @@ ITIS_TSN: 18033
 OmegaWiki_Defined_Meaning: 1581689
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Picea%20abies.jpg
 taxon_common_name:
-  - spruce
-  - Spar
-  - smreka
-  - kuuset
-  - 云杉属
-  - 云杉属
+- spruce
+- Spar
+- smreka
+- kuuset
+- 云杉属
+- 云杉属
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9366
 U_S_National_Archives_Identifier: 10663415
 EPPO_Code: 1PIEG
@@ -47,8 +113,120 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/EL.html
 NBN_System_Key: NHMSYS0000461246
 Commons_category: Picea
 taxon_name: Picea
+dv_has_:
+  name_:
+    an: Picea
+    ar: راتينجية
+    arz: تنوب
+    ast: Picea
+    az: Picea
+    azb: کوکنار
+    ba: Шыршы
+    bar: Feichtn
+    be: елка
+    be-tarask: яліна
+    bg: смърч
+    bs: Smrča
+    ca: Picea
+    ceb: Picea
+    cs: smrk
+    cv: Чăрăш
+    cy: Sbriwsen
+    da: gran-slægten
+    de: Fichten
+    dsb: Škrjok
+    el: Πικέα
+    en: Picea
+    en-us: Picea
+    eo: Piceo
+    es: Picea
+    et: Kuusk
+    eu: Picea
+    ext: Picea
+    fa: صنوبر
+    fi: kuuset
+    fr: Picea
+    frr: Fichten
+    ga: Picea
+    gd: Spruis
+    gl: Picea
+    gsw: Fichte
+    he: אשוחית
+    hi: सरल
+    hr: Smreka
+    hsb: Šmrěk
+    hu: lucfenyő
+    hy: եղևնի
+    hyw: Եղեւին
+    ia: Picea
+    id: Picea
+    ie: Picea
+    inh: База
+    io: Piceo
+    is: Greni
+    it: Picea
+    ja: トウヒ属
+    ka: ნაძვი
+    kab: Tuwmert
+    kbd: Псей
+    kk: Шырша
+    ko: 가문비나무속
+    koi: Кӧз
+    kv: Коз
+    la: Picea
+    lb: Fiichten
+    lfn: Pisea
+    lt: eglė
+    lv: egles
+    mdf: Куз
+    mhr: Кож
+    mk: смрча
+    mn: Гацуур
+    ms: Picea
+    mul: Picea
+    myv: Куз
+    nb: granslekta
+    nl: spar
+    nn: granslekta
+    nv: Chʼó
+    oc: Picea
+    os: Наз
+    pl: Świerk
+    pt: Picea
+    pt-br: Picea
+    ro: Picea
+    ru: ель
+    sah: Харыйа
+    se: Guossa
+    sgs: Eglės
+    sh: Smreka
+    sk: smrek
+    sl: smreka
+    sq: Picea
+    sr: смрча
+    sr-ec: смрча
+    stq: Kjuusdanne
+    sv: Gransläktet
+    th: สปรูซ
+    tr: Ladin
+    tt: чыршы
+    udm: Кыз
+    uk: ялина
+    uz: Qoraqaragʻay
+    vep: Kuz'
+    vi: Chi Vân sam
+    vls: Sparre
+    vo: Picea
+    wa: Epiceya
+    war: Picea
+    wuu: 云杉属
+    xmf: ნოჯი
+    yue: 雲杉屬
+    zh: 云杉属
+    zh-cn: 云杉属
+    zh-hans: 云杉属
+    zh-tw: 雲杉屬
 ---
-
 # [[Spruce]] 
 
 #is_/same_as :: [[WD~Picea,26782]] 

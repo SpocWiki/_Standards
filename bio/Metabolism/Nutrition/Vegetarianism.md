@@ -1,27 +1,112 @@
 ---
 aliases:
+- an feoilséanadh
+- barazkizaletasun
+- Begetarianismo
+- Behetaryanismo
+- Cin ganyayyaki kawai
+- Că̤-chái
+- Fegetarisme
+- Flǣsclēas Ǣt
+- Glasraicheachd
+- Grænmetishyggja
+- kasvissyönti
+- Kasvosüümine
+- Kazvossyöndy
+- llysieuaeth
+- losowegeth
+- nalre'ucti
+- Sò͘-si̍t
+- taimetoitlus
+- Ulaji mboga
+- Vegetarian
+- vegetarianism
+- vegetarianisme
+- Vegetarianismo
+- vegetarianismus
+- vegetarianizm
+- vegetarianizmus
+- Vegetarianlik
+- vegetarijanska prehrana
+- vegetarijanstvo
+- vegetarisme
+- vegetarismo
+- Vegetarismus
+- Vegetarissem
+- vegetarizmas
+- Vegetariánstvo
+- vegetariánství
+- Vegjetarianizmi
+- Vejetaryanîtî
+- Vejetaryen
+- Vejetaryenlik
+- vexetarianismo
+- vexetarianismu
+- veġetarjaniżmu
+- veģetārisms
+- végétarisme
+- wegetarianizm
+- wegetarizm
+- ăn chay
+- Χορτοφαγία
+- вегетаріанство
+- вегетаријанство
+- вегетарианлык
+- вегетарианлыҡ
+- вегетарианство
+- Вегетарианшылық
+- вегетарыянства
+- вэгетарыянства
+- гиёҳхорӣ
+- բուսակերություն
+- וועגעטאריאניזם
+- צמחונות
+- النباتية
+- سابه خوړونکي
+- سبزی خوری
+- سَبزی خوری
+- كۆكتاتۋازلىق
+- ڕووەكخۆریی
+- گیاهخواری
+- शाकाहार
+- शाकाहारी
+- নিরামিষ ভোজন
+- ਸ਼ਾਕਾਹਾਰ
+- શાકાહારી
+- ଶାକାହାର
+- தாவர உணவு முறை
+- శాకాహార ఉద్యమం
+- ಸಸ್ಯಾಹಾರ
+- സസ്യഭോജനസമ്പ്രദായം
+- วิถีมังสวิรัติ
+- ვეგეტარიანელობა
+- 素食
+- 素食主义
+- 素食主義
+- 菜食主義
+- 채식주의
 has_id_wikidata: Q83364
 different_from:
-  - "[[_Standards/WikiData/WD~veganism,181138]]"
-  - "[[_Standards/WikiData/WD~semi_vegetarianism,2464040]]"
-  - "[[_Standards/WikiData/WD~vegan_nutrition,7918284]]"
-  - "[[_Standards/WikiData/WD~vegetalismo,7918350]]"
+- '[[_Standards/WikiData/WD~veganism,181138]]'
+- '[[_Standards/WikiData/WD~semi_vegetarianism,2464040]]'
+- '[[_Standards/WikiData/WD~vegan_nutrition,7918284]]'
+- '[[_Standards/WikiData/WD~vegetalismo,7918350]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~diet,474191]]"
-  - "[[_Standards/WikiData/WD~dietary_restriction,118612017]]"
+- '[[_Standards/WikiData/WD~diet,474191]]'
+- '[[_Standards/WikiData/WD~dietary_restriction,118612017]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-cuisine: "[[_Standards/WikiData/WD~Q638022,638022]]"
-practiced_by: "[[_Standards/WikiData/WD~vegetarian,18338317]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Vegetarianism,19679809]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+cuisine: '[[_Standards/WikiData/WD~Q638022,638022]]'
+practiced_by: '[[_Standards/WikiData/WD~vegetarian,18338317]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vegetarianism,19679809]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
-IAB_code: "213"
-Dewey_Decimal_Classification: "179.3"
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
+IAB_code: 213
+Dewey_Decimal_Classification: 179.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soy-whey-protein-diet.jpg
 subreddit: vegetarian
 Commons_category: Vegetarianism
@@ -32,8 +117,124 @@ Wolfram_Language_entity_code: Entity["Concept", "Vegetarianism::b4gp2"]
 Krugosvet_article_archived_: medicina/VEGETARIANSTVO.html
 PhilPapers_topic: vegetarianism
 Library_of_Congress_Classification: TX392-TX392.8
+dv_has_:
+  name_:
+    af: Vegetarisme
+    ang: Flǣsclēas Ǣt
+    ar: النباتية
+    ast: vexetarianismu
+    az: vegetarianizm
+    ba: вегетарианлыҡ
+    be: вегетарыянства
+    be-tarask: вэгетарыянства
+    bg: Вегетарианство
+    bn: নিরামিষ ভোজন
+    bs: vegetarijanstvo
+    ca: vegetarianisme
+    cdo: Că̤-chái
+    ckb: ڕووەكخۆریی
+    cs: vegetariánství
+    cy: llysieuaeth
+    da: Vegetarisme
+    de: Vegetarismus
+    diq: Vejetaryen
+    el: Χορτοφαγία
+    en: vegetarianism
+    en-ca: Vegetarianism
+    en-gb: vegetarianism
+    eo: vegetarismo
+    es: vegetarianismo
+    et: taimetoitlus
+    eu: barazkizaletasun
+    fa: گیاهخواری
+    fi: kasvissyönti
+    fr: végétarisme
+    frr: vegetarismus
+    fy: Fegetarisme
+    ga: an feoilséanadh
+    gd: Glasraicheachd
+    gl: vexetarianismo
+    gu: શાકાહારી
+    ha: Cin ganyayyaki kawai
+    he: צמחונות
+    hi: शाकाहार
+    hr: vegetarijanska prehrana
+    hsb: wegetarizm
+    hu: vegetarianizmus
+    hy: բուսակերություն
+    id: Vegetarianisme
+    is: Grænmetishyggja
+    it: vegetarianismo
+    ja: 菜食主義
+    jbo: nalre'ucti
+    jv: Vegetarian
+    ka: ვეგეტარიანელობა
+    kk: Вегетарианшылық
+    kn: ಸಸ್ಯಾಹಾರ
+    ko: 채식주의
+    ks: سَبزی خوری
+    ku: Vejetaryanîtî
+    kw: losowegeth
+    la: vegetarianismus
+    lb: Vegetarissem
+    lt: vegetarizmas
+    lv: veģetārisms
+    lzh: 素食主義
+    mai: शाकाहार
+    mk: вегетаријанство
+    ml: സസ്യഭോജനസമ്പ്രദായം
+    mr: शाकाहारी
+    ms: vegetarianisme
+    mt: veġetarjaniżmu
+    mwl: Begetarianismo
+    nan: Sò͘-si̍t
+    nb: vegetarianisme
+    nds-nl: vegetarisme
+    ne: शाकाहार
+    new: शाकाहार
+    nl: vegetarisme
+    nn: vegetarianisme
+    oc: Vegetarisme
+    olo: Kazvossyöndy
+    or: ଶାକାହାର
+    pa: ਸ਼ਾਕਾਹਾਰ
+    pl: wegetarianizm
+    pnb: سبزی خوری
+    ps: سابه خوړونکي
+    pt: vegetarianismo
+    pt-br: vegetarianismo
+    ro: vegetarianism
+    ru: вегетарианство
+    sco: vegetarianism
+    sh: Vegetarijanstvo
+    sk: Vegetariánstvo
+    sl: vegetarijanstvo
+    sq: Vegjetarianizmi
+    sr: вегетаријанство
+    sv: vegetarianism
+    sw: Ulaji mboga
+    ta: தாவர உணவு முறை
+    tcy: ಸಸ್ಯಾಹಾರ
+    te: శాకాహార ఉద్యమం
+    tg: гиёҳхорӣ
+    th: วิถีมังสวิรัติ
+    tl: Behetaryanismo
+    tr: Vejetaryenlik
+    tt: вегетарианлык
+    tt-cyrl: вегетарианлык
+    ug: كۆكتاتۋازلىق
+    uk: вегетаріанство
+    ur: سبزی خوری
+    uz: Vegetarianlik
+    vi: ăn chay
+    vro: Kasvosüümine
+    war: Vegetarianismo
+    wuu: 素食主义
+    yi: וועגעטאריאניזם
+    yue: 素食
+    zh: 素食主義
+    zh-hant: 素食主義
 ---
-
 # [[Vegetarianism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vegetarianism,83364|WD~Vegetarianism,83364]]  

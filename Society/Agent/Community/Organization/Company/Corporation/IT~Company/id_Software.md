@@ -1,9 +1,79 @@
 ---
 aliases:
-  - id Software LLC
-  - id Software
-  - id_Software
+- id Software
+- id Software LLC
+- id_Software
+- İd Software
+- إد سوفتوير
+- ئید سۆفتوێر
+- اد یازیلیم
+- اید سافتویر
+- 이드 소프트웨어
 has_id_wikidata: Q204474
+dv_has_:
+  name_:
+    af: Id Software
+    ar: إد سوفتوير
+    az: İd Software
+    azb: اد یازیلیم
+    be: id Software
+    bg: Id Software
+    br: Id Software
+    bs: Id Software
+    ca: id Software
+    ckb: ئید سۆفتوێر
+    cs: id Software
+    da: id Software
+    de: id Software
+    de-ch: Id Software
+    el: id Software
+    en: id Software
+    en-ca: Id Software
+    en-gb: id Software
+    eo: id Software
+    es: id Software
+    fa: اید سافتویر
+    fi: id Software
+    fr: id Software
+    he: Id Software
+    hr: Id Software
+    hu: id Software
+    hy: id Software
+    id: Id Software
+    is: Id Software
+    it: id Software
+    ja: id Software
+    ka: Id Software
+    ko: 이드 소프트웨어
+    lld: id Software
+    lt: id Software
+    lv: Id Software
+    mk: id Software
+    mul: id Software
+    nb: id Software
+    nl: id Software
+    pl: id Software
+    pt: id Software
+    pt-br: Id Software
+    ro: Id Software
+    ru: id Software
+    sk: id Software
+    sl: id Software
+    sr: Id Software
+    sr-ec: id Software
+    sr-el: id Software
+    sv: Id Software
+    tr: id Software
+    uk: id Software
+    vi: Id Software
+    wuu: Id Software
+    zh: Id Software
+    zh-cn: id Software
+    zh-hans: id Software
+    zh-hant: id Software
+    zh-hk: id Software
+    zh-sg: id Software
+    zh-tw: id Software
 ---
 ## #has_/text_of_/abstract 
 

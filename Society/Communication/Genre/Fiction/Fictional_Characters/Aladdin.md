@@ -1,30 +1,45 @@
 ---
 aliases:
-  - علاء الدين
-  - Aladin
-  - ''
-  - Aladdin
+- Aladdin
+- Aladim
+- Aladin
+- Aladino
+- Aladyn
+- Aladí
+- Ələddin
+- Αλαντίν
+- Аладдін
+- Аладдин
+- Аладдин (персонаж)
+- Аладин
+- Алядын
+- Әләддин
+- Ալադին
+- אלאדין
+- علاء الدين
+- আলাদিন
+- 阿拉丁
 has_id_wikidata: Q15605357
 present_in_work:
-  - '[[_Standards/WikiData/WD~Aladdin_and_the_Wonderful_Lamp,209515]]'
-  - '[[_Standards/WikiData/WD~Carolina_in_the_Morning,5044922]]'
-  - '[[_Standards/WikiData/WD~Aladdin_and_the_Wonderful_Lamp,21850102]]'
-  - '[[_Standards/WikiData/WD~One_Thousand_and_One_Nights,8258]]'
+- '[[_Standards/WikiData/WD~Aladdin_and_the_Wonderful_Lamp,209515]]'
+- '[[_Standards/WikiData/WD~Carolina_in_the_Morning,5044922]]'
+- '[[_Standards/WikiData/WD~Aladdin_and_the_Wonderful_Lamp,21850102]]'
+- '[[_Standards/WikiData/WD~One_Thousand_and_One_Nights,8258]]'
 narrative_role: '[[_Standards/WikiData/WD~protagonist,215972]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Aladin,558974]]'
-  - '[[_Standards/WikiData/WD~Aladdin,27628670]]'
+- '[[_Standards/WikiData/WD~Aladin,558974]]'
+- '[[_Standards/WikiData/WD~Aladdin,27628670]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~comics_character,1114461]]'
-  - '[[_Standards/WikiData/WD~theatrical_character,3375722]]'
-  - '[[_Standards/WikiData/WD~literary_character,3658341]]'
-  - '[[_Standards/WikiData/WD~advertising_character,4686758]]'
-  - '[[_Standards/WikiData/WD~fictional_human,15632617]]'
-  - '[[_Standards/WikiData/WD~film_character,15773347]]'
+- '[[_Standards/WikiData/WD~comics_character,1114461]]'
+- '[[_Standards/WikiData/WD~theatrical_character,3375722]]'
+- '[[_Standards/WikiData/WD~literary_character,3658341]]'
+- '[[_Standards/WikiData/WD~advertising_character,4686758]]'
+- '[[_Standards/WikiData/WD~fictional_human,15632617]]'
+- '[[_Standards/WikiData/WD~film_character,15773347]]'
 spouse: '[[_Standards/WikiData/WD~Badroulbadour,1812955]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 owner_of: '[[_Standards/WikiData/WD~magic_ring,3500666]]'
 occupation: '[[_Standards/WikiData/WD~thief,3562775]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -34,8 +49,44 @@ Commons_category: Aladdin
 name_in_native_language: علاء الدين
 title: علاء الدين
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aladdin%20in%20the%20Magic%20Garden%20-%20Project%20Gutenberg%20eText%2014221.jpg
+dv_has_:
+  name_:
+    af: Aladdin
+    ar: علاء الدين
+    az: Ələddin
+    ba: Әләддин
+    be-tarask: Алядын
+    bn: আলাদিন
+    ca: Aladí
+    cs: Aladin
+    da: Aladdin
+    de: Aladin
+    el: Αλαντίν
+    en: Aladdin
+    eo: Aladino
+    es: Aladino
+    eu: Aladino
+    fr: Aladin
+    gl: Aladino
+    he: אלאדין
+    hy: Ալադին
+    it: Aladino
+    kk: Аладдин
+    nb: Aladdin
+    nl: Aladdin
+    nn: Aladdin
+    pl: Aladyn
+    pt: Aladim
+    pt-br: Aladim
+    ro: Aladin
+    ru: Аладдин (персонаж)
+    sl: Aladin
+    sr: Аладин
+    uk: Аладдін
+    vi: Aladdin
+    yue: 阿拉丁
+    zh: 阿拉丁
 ---
-
 # [[Aladdin]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Aladdin,15605357]] 

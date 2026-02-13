@@ -1,43 +1,180 @@
 ---
 aliases:
+- An tÚinitéireachas
+- Anhrinaidaght
+- Aonachdalachd
+- It-ūi-lūn
+- Nhất vị luận
+- Onitarisma (teolojia)
+- Undodiaeth
+- Unitarianism
+- Unitarianisme
+- unitarianismo
+- Unitarianismus
+- Unitarianizm
+- unitarianizmus
+- Unitariismo
+- Unitarijanizam
+- unitarism
+- unitarisma
+- unitarisme
+- unitarismi
+- unitarismm
+- unitarismo
+- Unitarismu
+- Unitarismus
+- Unitarizam
+- unitarizem
+- unitarizmas
+- Unitarizmi
+- unitářství
+- Unitārisms
+- Únítarismi
+- Ûniteryenî
+- Ünitarismu
+- Üniteryenizm
+- Ουνιταριανισμός
+- Унітаріанство
+- Унітарыянская царква
+- унітарыянства
+- унитаријанизам
+- унитаријанство
+- унитарианизм
+- унитарианство
+- Юнитариан
+- Երրորդութեան վարդապետութեան մերժում
+- ունիտարիստություն
+- אוניטריאניזם
+- توحيدية
+- توحید پرستی
+- يونيتاريانيه
+- یونیتارین
+- یەکتاپەرستی
+- ईश्वरैक्यवाद
+- ಏಕೇಶವಾದ
+- უნიტარიანიზმი
+- ユニテリアン主義
+- 一位論派
+- 一位论派
+- 유니테리언
 has_id_wikidata: Q106687
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~liberal_Christianity,859557]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+part_of: '[[_Standards/WikiData/WD~liberal_Christianity,859557]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-practiced_by: "[[_Standards/WikiData/WD~Unitarian_pastor,97486349]]"
-subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
-opposite_of: "[[_Standards/WikiData/WD~Holy_Trinity,37090]]"
+- '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+practiced_by: '[[_Standards/WikiData/WD~Unitarian_pastor,97486349]]'
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+opposite_of: '[[_Standards/WikiData/WD~Holy_Trinity,37090]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6r%C3%B6sf%C5%91i-Kriesch%20Alad%C3%A1r%20Tordai%20orsz%C3%A1ggy%C5%B1l%C3%A9s.jpg
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/unitarianism
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/UNITARII.html
 Commons_category: Unitarianism
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]"
-    - "[[Unitarianism]]"
-    - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]"
-    - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]"
-    - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]"
-    - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]"
-    - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]"
-    - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]"
+  - '[[../../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]'
+  - '[[Unitarianism]]'
+  - '[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]'
+  - '[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]'
+  - '[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]'
+  - '[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]'
+  - '[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]'
+  - '[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]"
-  - "[[Unitarianism]]"
-  - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]"
-  - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]"
-  - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]"
-  - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]"
-  - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]"
-  - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]"
+- '[[../../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]'
+- '[[Unitarianism]]'
+- '[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]'
+- '[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]'
+- '[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]'
+- '[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]'
+- '[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]'
+- '[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]'
+dv_has_:
+  name_:
+    af: Unitarisme
+    ar: توحيدية
+    arz: يونيتاريانيه
+    ast: Unitarismu
+    be: Унітарыянская царква
+    be-tarask: унітарыянства
+    bg: унитарианство
+    bs: Unitarijanizam
+    ca: unitarisme
+    ckb: یەکتاپەرستی
+    cs: unitářství
+    cy: Undodiaeth
+    da: unitarisme
+    de: Unitarismus
+    el: Ουνιταριανισμός
+    en: Unitarianism
+    eo: Unitariismo
+    es: unitarismo
+    et: unitarism
+    eu: unitarismo
+    fa: یونیتارین
+    fi: unitarismi
+    fr: unitarisme
+    ga: An tÚinitéireachas
+    gd: Aonachdalachd
+    gl: Unitarismo
+    gv: Anhrinaidaght
+    he: אוניטריאניזם
+    hi: ईश्वरैक्यवाद
+    hr: Unitarizam
+    hu: unitarianizmus
+    hy: ունիտարիստություն
+    hyw: Երրորդութեան վարդապետութեան մերժում
+    ia: Unitarianismo
+    id: Unitarianisme
+    is: Únítarismi
+    it: unitarianismo
+    ja: ユニテリアン主義
+    ka: უნიტარიანიზმი
+    kn: ಏಕೇಶವಾದ
+    ko: 유니테리언
+    ku: Ûniteryenî
+    la: Unitarianismus
+    lmo: Ünitarismu
+    lt: unitarizmas
+    lv: Unitārisms
+    mg: Onitarisma (teolojia)
+    mk: унитаријанство
+    nan: It-ūi-lūn
+    nb: unitarisme
+    nds: Unitarismus
+    nl: unitarisme
+    nn: unitarisme
+    oc: Unitarisme
+    os: унитарианизм
+    pl: Unitarianizm
+    pt: unitarismo
+    ro: unitarianism
+    ru: Унитарианство
+    se: unitarisma
+    sh: Unitarijanizam
+    sl: unitarizem
+    smn: unitarism
+    sms: unitarismm
+    sq: Unitarizmi
+    sr: унитаријанизам
+    sv: unitarism
+    tg: Юнитариан
+    tr: Üniteryenizm
+    uk: Унітаріанство
+    ur: توحید پرستی
+    vi: Nhất vị luận
+    zh: 一位论派
+    zh-cn: 一位论派
+    zh-hans: 一位论派
+    zh-hant: 一位論派
+    zh-hk: 一位論派
+    zh-sg: 一位论派
+    zh-tw: 一位論派
 ---
-
 # [[Unitarianism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]  

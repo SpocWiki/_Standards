@@ -1,8 +1,161 @@
 ---
 aliases:
-  - Hayao Miyazaki
-  - Miyazaki,Hayao
+- Gṳ̆ng Kĭ-cóng
+- Hajao Mijadzaki
+- Hajao Mijazaki
+- Hayao Mijazaki
+- Hayao Miyazaki
+- Hayao Miyazakî
+- Mijadzaki Hajao
+- Mijazaki Hajao
+- Miyazaki Hayao
+- Miyazaki,Hayao
+- Χαγιάο Μιγιαζάκι
+- Гаяо Міядзакі
+- Миядзакинь Хаяо
+- Хајао Мијазаки
+- Хая́о Миядза́ки
+- Хаяо Міядзакі
+- Хаяо Миядзаки
+- Хаяо Миязаки
+- Հայաո Միյաձակի
+- הייאו מיאזאקי
+- مىيازاكى ھايائو
+- هاياو ميازاكى
+- هاياو ميازاكي
+- هاياو مييازاكي
+- هایائو میازاکی
+- ھایاوۆ میازاکی
+- हायाओ मियाजाकी
+- হায়াও মিয়াজাকি
+- హయావో మియాజాకి
+- ഹയാഒ മിയാസാക്കി
+- ฮะยะโอะ มิยะซะกิ
+- მიაძაკი ჰაიაო
+- ᨖᨐᨕᨚ ᨆᨗᨐᨍᨀᨗ
+- ⵀⴰⵢⴰⵡ ⵎⵢⴰⵣⴰⴽⵉ
+- 宫崎骏
+- 宮崎駿
+- 미야자키 하야오
 has_id_wikidata: Q55400
+dv_has_:
+  name_:
+    af: Hayao Miyazaki
+    an: Hayao Miyazaki
+    ar: هاياو ميازاكي
+    ary: هاياو مييازاكي
+    arz: هاياو ميازاكى
+    ast: Hayao Miyazaki
+    az: Hayao Miyazaki
+    bcl: Hayao Miyazaki
+    be: Хаяо Міядзакі
+    be-tarask: Гаяо Міядзакі
+    bg: Хаяо Миядзаки
+    bn: হায়াও মিয়াজাকি
+    br: Hayao Miyazaki
+    bug: ᨖᨐᨕᨚ ᨆᨗᨐᨍᨀᨗ
+    ca: Hayao Miyazaki
+    cdo: Gṳ̆ng Kĭ-cóng
+    ceb: Hayao Miyazaki
+    ckb: ھایاوۆ میازاکی
+    cs: Hajao Mijazaki
+    cy: Hayao Miyazaki
+    da: Hayao Miyazaki
+    de: Hayao Miyazaki
+    de-ch: Hayao Miyazaki
+    el: Χαγιάο Μιγιαζάκι
+    en: Hayao Miyazaki
+    en-ca: Hayao Miyazaki
+    en-gb: Hayao Miyazaki
+    eo: Mijazaki Hajao
+    es: Hayao Miyazaki
+    et: Hayao Miyazaki
+    eu: Hayao Miyazaki
+    fa: هایائو میازاکی
+    fi: Hayao Miyazaki
+    fr: Hayao Miyazaki
+    ga: Hayao Miyazaki
+    gl: Hayao Miyazaki
+    haw: Hayao Miyazaki
+    he: הייאו מיאזאקי
+    hi: हायाओ मियाजाकी
+    hr: Hayao Mijazaki
+    hu: Mijazaki Hajao
+    hy: Հայաո Միյաձակի
+    ia: Hayao Miyazaki
+    id: Hayao Miyazaki
+    ig: Hayao Miyazaki
+    ilo: Hayao Miyazaki
+    is: Hayao Miyazaki
+    it: Hayao Miyazaki
+    ja: 宮崎駿
+    ka: მიაძაკი ჰაიაო
+    kk: Хаяо Миядзаки
+    kk-cyrl: Хаяо Миядзаки
+    ko: 미야자키 하야오
+    ku: Hayao Miyazakî
+    kw: Hayao Miyazaki
+    ky: Хаяо Миядзаки
+    la: Miyazaki Hayao
+    lb: Hayao Miyazaki
+    lij: Hayao Miyazaki
+    lt: Hayao Miyazaki
+    lv: Hajao Mijadzaki
+    mg: Hayao Miyazaki
+    min: Hayao Miyazaki
+    mk: Хајао Мијазаки
+    ml: ഹയാഒ മിയാസാക്കി
+    mn: Хаяо Миязаки
+    ms: Hayao Miyazaki
+    myv: Миядзакинь Хаяо
+    nah: Hayao Miyazaki
+    nan: Miyazaki Hayao
+    nb: Hayao Miyazaki
+    nds: Miyazaki Hayao
+    nl: Hayao Miyazaki
+    nn: Hayao Miyazaki
+    oc: Hayao Miyazaki
+    pap: Hayao Miyazaki
+    pcd: Hayao Miyazaki
+    pl: Hayao Miyazaki
+    pt: Hayao Miyazaki
+    pt-br: Hayao Miyazaki
+    ro: Hayao Miyazaki
+    ru: Хаяо Миядзаки
+    sah: Хаяо Миядзаки
+    sc: Hayao Miyazaki
+    sco: Hayao Miyazaki
+    sh: Hajao Mijazaki
+    sk: Hajao Mijazaki
+    sl: Hajao Mijazaki
+    sq: Hayao Miyazaki
+    sr: Хајао Мијазаки
+    sv: Hayao Miyazaki
+    sw: Hayao Miyazaki
+    te: హయావో మియాజాకి
+    tg: Хаяо Миязаки
+    th: ฮะยะโอะ มิยะซะกิ
+    tl: Hayao Miyazaki
+    tr: Hayao Miyazaki
+    tt: Хаяо Миядзаки
+    tyv: Хая́о Миядза́ки
+    ug: مىيازاكى ھايائو
+    ug-arab: مىيازاكى ھايائو
+    uk: Хаяо Міядзакі
+    uz: Hayao Miyazaki
+    vep: Mijadzaki Hajao
+    vi: Miyazaki Hayao
+    wa: Hayao Miyazaki
+    war: Hayao Miyazaki
+    wuu: 宫崎骏
+    yue: 宮崎駿
+    zgh: ⵀⴰⵢⴰⵡ ⵎⵢⴰⵣⴰⴽⵉ
+    zh: 宮崎駿
+    zh-cn: 宫崎骏
+    zh-hans: 宫崎骏
+    zh-hant: 宮崎駿
+    zh-hk: 宮崎駿
+    zh-tw: 宮崎駿
 ---
 #has_/time_/started :: 1941-01-05
 

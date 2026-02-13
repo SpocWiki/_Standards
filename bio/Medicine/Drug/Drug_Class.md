@@ -1,41 +1,101 @@
 ---
 aliases:
-  - drug-class
-  - drug_class
-  - DrugClass
-  - is_a_drug_class
-  - Drug_Class
-  - Drug Class
-has_id_wikidata: 2585617
+- aicme drugaí
+- clase farmacológica
+- clase farmacolóxica
+- classe pharmacologique
+- clasă farmacologică
+- dosbarth o gyffuriau meddygol
+- Drug Class
+- drug-class
+- DrugClass
+- drug_class
+- grup farmacològic
+- gyógyszercsoport
+- ilaç sınıfı
+- is_a_drug_class
+- Kelas obat-obatan
+- Kelas ubat
+- klasa środków farmakologicznie czynnych
+- klaso de medikamentoj
+- legemiddelklasse
+- lääkeaineryhmä
+- razred učinkovin
+- třída léčiv
+- Wirkstoffklasse
+- клас лікарських речовин
+- класа лекова
+- фармакалягічная група
+- фармакологическая группа
+- Դեղերի տեսակներ
+- מחלקת תרופות
+- صنف دوائي
+- کلاس دارویی
+- 药物类别
+- 薬物の種類
+- 약물 종류
+has_id_wikidata: Q2585617
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - drug_class
+- drug_class
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_drug_class Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - excalidraw
+- class/Class
+- schema-org/Class
+- excalidraw
 title: is_a_drug_class Class
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - '[[Extract~Note~Template]]'
+- '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
-has_id_wikidata: Q2585617
+dv_has_:
+  name_:
+    ar: صنف دوائي
+    be-tarask: фармакалягічная група
+    ca: grup farmacològic
+    cs: třída léčiv
+    cy: dosbarth o gyffuriau meddygol
+    de: Wirkstoffklasse
+    en: drug class
+    eo: klaso de medikamentoj
+    es: clase farmacológica
+    fa: کلاس دارویی
+    fi: lääkeaineryhmä
+    fr: classe pharmacologique
+    ga: aicme drugaí
+    gl: clase farmacolóxica
+    he: מחלקת תרופות
+    hu: gyógyszercsoport
+    hy: Դեղերի տեսակներ
+    id: Kelas obat-obatan
+    ja: 薬物の種類
+    ko: 약물 종류
+    ms: Kelas ubat
+    nb: legemiddelklasse
+    nn: legemiddelklasse
+    pl: klasa środków farmakologicznie czynnych
+    ro: clasă farmacologică
+    ru: фармакологическая группа
+    sl: razred učinkovin
+    sr: класа лекова
+    tr: ilaç sınıfı
+    uk: клас лікарських речовин
+    zh: 药物类别
 ---
 # [[Drug_Class]] 
 

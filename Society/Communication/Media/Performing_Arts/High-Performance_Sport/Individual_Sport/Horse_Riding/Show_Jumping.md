@@ -1,17 +1,115 @@
 ---
 aliases:
+- banhoppning
+- Concors de saut d'obstacles
+- díjugratás
+- Engel atlama
+- esteratsastus
+- Hindernissprangen
+- jauzi
+- konkūrinis jodinėjimas
+- konkūrs
+- Palang rintang
+- parkurové skákání
+- Parkúrové jazdectvo
+- Preponsko jahanje
+- preskakovanje ovir
+- ridebanespringning
+- salt a cavall
+- salto ecuestre
+- salto ostacoli
+- saltos
+- Saltu ecuestre
+- saut d'obstacles
+- show jumping
+- Skoki przez przeszkody
+- Sprangriding
+- sprangridning
+- springen
+- Springreiten
+- Sărituri peste obstacole
+- Takistussõit
+- ĉevalsaltado
+- ιππικοί αγώνες με εμπόδια
+- канкур
+- конкур
+- קפיצות ראווה
+- قفز الحواجز
+- پرش با اسب
+- 场地障碍赛
+- 場地障礙賽
+- 障害飛越競技
+- 障礙超越
+- 장애물 경주
 has_id_wikidata: Q211773
-subclass_of: "[[_Standards/WikiData/WD~equestrian_sport,902378]]"
-has_part_s_: "[[_Standards/WikiData/WD~jumping,1151752]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-practiced_by: "[[_Standards/WikiData/WD~show_jumper,24797688]]"
-uses: "[[_Standards/WikiData/WD~show_jumping_horse,60199356]]"
+subclass_of: '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
+has_part_s_: '[[_Standards/WikiData/WD~jumping,1151752]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~show_jumper,24797688]]'
+uses: '[[_Standards/WikiData/WD~show_jumping_horse,60199356]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20Jumping%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kamal%20Bahamdan%20%26%20Noblesse%20Des%20Tess%20-%202013%20Longines%20Global%20Champions%20Tour.jpg
 Commons_gallery: Show jumping
 Commons_category: Show jumping
+dv_has_:
+  name_:
+    ar: قفز الحواجز
+    ast: Saltu ecuestre
+    ba: Конкур
+    be-tarask: канкур
+    ca: salt a cavall
+    cs: parkurové skákání
+    da: ridebanespringning
+    de: Springreiten
+    de-ch: Springreiten
+    el: ιππικοί αγώνες με εμπόδια
+    en: show jumping
+    en-ca: Show jumping
+    en-gb: show jumping
+    eo: ĉevalsaltado
+    es: salto ecuestre
+    et: Takistussõit
+    eu: jauzi
+    fa: پرش با اسب
+    fi: esteratsastus
+    fr: saut d'obstacles
+    he: קפיצות ראווה
+    hr: Preponsko jahanje
+    hu: díjugratás
+    id: Palang rintang
+    it: salto ostacoli
+    ja: 障害飛越競技
+    kk: Конкур
+    ko: 장애물 경주
+    lb: Hindernissprangen
+    lt: konkūrinis jodinėjimas
+    lv: konkūrs
+    ms: Show jumping
+    nb: sprangridning
+    nl: springen
+    nn: Sprangriding
+    oc: Concors de saut d'obstacles
+    pl: Skoki przez przeszkody
+    pt: saltos
+    pt-br: Saltos
+    ro: Sărituri peste obstacole
+    ru: конкур
+    sk: Parkúrové jazdectvo
+    sl: preskakovanje ovir
+    sr: Preponsko jahanje
+    sv: banhoppning
+    tr: Engel atlama
+    uk: конкур
+    yue: 障礙超越
+    zea: Springen
+    zh: 場地障礙賽
+    zh-cn: 场地障碍赛
+    zh-hans: 场地障碍赛
+    zh-hant: 場地障礙賽
+    zh-hk: 場地障礙賽
+    zh-sg: 场地障碍赛
+    zh-tw: 場地障礙賽
 ---
-
 # [[Show_Jumping]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Show_jumping,211773|WD~Show_jumping,211773]]  

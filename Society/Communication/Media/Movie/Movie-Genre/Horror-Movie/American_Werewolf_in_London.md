@@ -1,10 +1,89 @@
 ---
 aliases:
-  - An American Werewolf in London
-  - American Werewolf
-  - American_Werewolf_in_London
-  - American Werewolf in London
+- American Werewolf
+- American Werewolf in London
+- American_Werewolf_in_London
+- Americký vlkodlak v Londýně
+- Amerikāņu vilkacis Londonā
+- Američki vukodlak u Londonu
+- Amerykański wilkołak w Londynie
+- An American Werewolf in London
+- Egy amerikai farkasember Londonban
+- En amerikansk varulv i London
+- Ihmissusi Lontoossa
+- Kurt Adam Londra'da
+- Le Loup-garou de Londres
+- Um Lobisomem Americano em Londres
+- Un home llop americà a Londres
+- Un lupo mannaro americano a Londra
+- Un vârcolac american la Londra
+- Ένας Αμερικανός Λυκάνθρωπος στο Λονδίνο
+- Американски върколак в Лондон
+- Американский оборотень в Лондоне
+- Американський перевертень у Лондоні
+- Амерички вукодлак у Лондону
+- Ամերիկյան մարդագայլը Լոնդոնում
+- זאב אמריקאי בלונדון
+- مستذئب أمريكي في لندن
+- مستذئب امريكى فى لندن
+- گرگنمای آمریکایی در لندن
+- گورگینی ئەمریکی لە لەندەن
+- 乌龙狼人
+- 狼男アメリカン
+- 美国狼人在伦敦
+- 美國狼人在巴黎
+- 런던의 늑대 인간
 has_id_wikidata: Q467290
+dv_has_:
+  name_:
+    ar: مستذئب أمريكي في لندن
+    arz: مستذئب امريكى فى لندن
+    ast: An American Werewolf in London
+    bg: Американски върколак в Лондон
+    ca: Un home llop americà a Londres
+    ckb: گورگینی ئەمریکی لە لەندەن
+    cs: Americký vlkodlak v Londýně
+    cy: An American Werewolf in London
+    da: En amerikansk varulv i London
+    de: American Werewolf
+    de-ch: American Werewolf
+    el: Ένας Αμερικανός Λυκάνθρωπος στο Λονδίνο
+    eml: Un lupo mannaro americano a Londra
+    en: An American Werewolf in London
+    en-ca: An American Werewolf in London
+    en-gb: An American Werewolf in London
+    es: An American Werewolf in London
+    eu: An American Werewolf in London
+    fa: گرگنمای آمریکایی در لندن
+    fi: Ihmissusi Lontoossa
+    fr: Le Loup-garou de Londres
+    he: זאב אמריקאי בלונדון
+    hu: Egy amerikai farkasember Londonban
+    hy: Ամերիկյան մարդագայլը Լոնդոնում
+    id: An American Werewolf in London
+    it: Un lupo mannaro americano a Londra
+    ja: 狼男アメリカン
+    ko: 런던의 늑대 인간
+    lv: Amerikāņu vilkacis Londonā
+    nb: En amerikansk varulv i London
+    nds: An American Werewolf in London
+    nl: An American Werewolf in London
+    pl: Amerykański wilkołak w Londynie
+    pt: Um Lobisomem Americano em Londres
+    pt-br: Um Lobisomem Americano em Londres
+    ro: Un vârcolac american la Londra
+    ru: Американский оборотень в Лондоне
+    sh: Američki vukodlak u Londonu
+    sr: Амерички вукодлак у Лондону
+    sv: En amerikansk varulv i London
+    tr: Kurt Adam Londra'da
+    uk: Американський перевертень у Лондоні
+    zh: 美國狼人在巴黎
+    zh-cn: 美国狼人在伦敦
+    zh-hans: 美国狼人在伦敦
+    zh-hant: 美國狼人在巴黎
+    zh-sg: 乌龙狼人
+    zh-tw: 美國狼人在巴黎
 ---
 ## #has_/text_of_/abstract 
 

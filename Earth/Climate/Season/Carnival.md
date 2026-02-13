@@ -1,27 +1,89 @@
 ---
 aliases:
-  - Karneval
-  - Carnival
+- Anata
+- antroxu
+- Antrueju
+- Antruido
+- Bolludagur
+- carnabhal
+- carnaluvari
+- Carnava
+- carnaval
+- carnavałe
+- Carnelevarium
+- carnescià
+- Carneval
+- carnevale
+- Carnevâl
+- carnifal
+- Carnival
+- Carnoval
+- entroido
+- Fasching
+- Fasnacht
+- Fastelovend
+- Fuesent
+- inauteri
+- Kanaval
+- Kannaval
+- Karnabal
+- Karnaval
+- karnavalas
+- Karnavalet
+- karnavalo
+- karnawal
+- karnawał
+- karnevaal
+- karnevaali
+- Karneval
+- karnevál
+- karnevāls
+- karnival
+- Mascaråde
+- poklade
+- pust
+- Vastelaovend
+- zôpùstë
+- Απόκριες
+- карнавал
+- Карневал
+- Դիմակահանդէս
+- Կառնավալ
+- קרנבל
+- كرنفال
+- کارناوال
+- کارنیول تہوار
+- कार्निवल
+- कार्नीवाल
+- কার্নিভাল
+- ਕਾਰਨੀਵਲ
+- കാർണിവൽ
+- 嘉年华油轮公司
+- 嘉年華
+- 狂欢节
+- 狂歡節
+- 謝肉祭
+- 사육제
 has_id_wikidata: Q4618
 subclass_of:
-  - "[[_Standards/WikiData/WD~festival,132241]]"
-  - "[[_Standards/WikiData/WD~season,10688145]]"
-  - "[[_Standards/WikiData/WD~annual_event,11483816]]"
-  - "[[_Standards/WikiData/WD~Reversal_ritual,115755288]]"
+- '[[_Standards/WikiData/WD~festival,132241]]'
+- '[[_Standards/WikiData/WD~season,10688145]]'
+- '[[_Standards/WikiData/WD~annual_event,11483816]]'
+- '[[_Standards/WikiData/WD~Reversal_ritual,115755288]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q14616585,14616585]]"
-different_from: "[[_Standards/WikiData/WD~Faslam,48315612]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_festival,108680062]]"
-depicted_by: "[[_Standards/WikiData/WD~Procession_of_the_Prince_Giovanni_Battista_Borghese_for_the_1664_Carnival_of_Rome,132397679]]"
-time_period: "[[_Standards/WikiData/WD~winter,1311]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q14616585,14616585]]'
+different_from: '[[_Standards/WikiData/WD~Faslam,48315612]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_festival,108680062]]'
+depicted_by: '[[_Standards/WikiData/WD~Procession_of_the_Prince_Giovanni_Battista_Borghese_for_the_1664_Carnival_of_Rome,132397679]]'
+time_period: '[[_Standards/WikiData/WD~winter,1311]]'
 event_interval: 1
 OmegaWiki_Defined_Meaning: 1189958
 Commons_category: Carnivals
@@ -33,25 +95,136 @@ P8189: 987007284886305200
 Krugosvet_article: teatr-i-kino/karnaval
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Carnival,4618|WD~Carnival,4618]]"
-    - "[[/_Standards/Earth/Climate/Season/Carnival|Carnival]]"
-    - "[[/_public/Earth/Climate/Season/Carnival.public|Carnival.public]]"
-    - "[[/_internal/Earth/Climate/Season/Carnival.internal|Carnival.internal]]"
-    - "[[/_protect/Earth/Climate/Season/Carnival.protect|Carnival.protect]]"
-    - "[[/_private/Earth/Climate/Season/Carnival.private|Carnival.private]]"
-    - "[[/_personal/Earth/Climate/Season/Carnival.personal|Carnival.personal]]"
-    - "[[/_secret/Earth/Climate/Season/Carnival.secret|Carnival.secret]]"
+  - '[[../../../WikiData/WD~Carnival,4618|WD~Carnival,4618]]'
+  - '[[/_Standards/Earth/Climate/Season/Carnival|Carnival]]'
+  - '[[/_public/Earth/Climate/Season/Carnival.public|Carnival.public]]'
+  - '[[/_internal/Earth/Climate/Season/Carnival.internal|Carnival.internal]]'
+  - '[[/_protect/Earth/Climate/Season/Carnival.protect|Carnival.protect]]'
+  - '[[/_private/Earth/Climate/Season/Carnival.private|Carnival.private]]'
+  - '[[/_personal/Earth/Climate/Season/Carnival.personal|Carnival.personal]]'
+  - '[[/_secret/Earth/Climate/Season/Carnival.secret|Carnival.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Carnival,4618|WD~Carnival,4618]]"
-  - "[[/_Standards/Earth/Climate/Season/Carnival|Carnival]]"
-  - "[[/_public/Earth/Climate/Season/Carnival.public|Carnival.public]]"
-  - "[[/_internal/Earth/Climate/Season/Carnival.internal|Carnival.internal]]"
-  - "[[/_protect/Earth/Climate/Season/Carnival.protect|Carnival.protect]]"
-  - "[[/_private/Earth/Climate/Season/Carnival.private|Carnival.private]]"
-  - "[[/_personal/Earth/Climate/Season/Carnival.personal|Carnival.personal]]"
-  - "[[/_secret/Earth/Climate/Season/Carnival.secret|Carnival.secret]]"
+- '[[../../../WikiData/WD~Carnival,4618|WD~Carnival,4618]]'
+- '[[/_Standards/Earth/Climate/Season/Carnival|Carnival]]'
+- '[[/_public/Earth/Climate/Season/Carnival.public|Carnival.public]]'
+- '[[/_internal/Earth/Climate/Season/Carnival.internal|Carnival.internal]]'
+- '[[/_protect/Earth/Climate/Season/Carnival.protect|Carnival.protect]]'
+- '[[/_private/Earth/Climate/Season/Carnival.private|Carnival.private]]'
+- '[[/_personal/Earth/Climate/Season/Carnival.personal|Carnival.personal]]'
+- '[[/_secret/Earth/Climate/Season/Carnival.secret|Carnival.secret]]'
+dv_has_:
+  name_:
+    an: carnaval
+    ar: كرنفال
+    ast: antroxu
+    ay: Anata
+    ba: карнавал
+    bar: Fasching
+    bcl: Karnabal
+    be: Карнавал
+    be-tarask: карнавал
+    bg: Карнавал
+    bn: কার্নিভাল
+    bs: karneval
+    ca: carnaval
+    cs: karneval
+    csb: zôpùstë
+    cv: Карнавал
+    cy: carnifal
+    da: karneval
+    de: Karneval
+    de-ch: Karneval
+    el: Απόκριες
+    en: Carnival
+    en-ca: carnival
+    en-gb: carnival
+    eo: karnavalo
+    es: carnaval
+    et: Karneval
+    eu: inauteri
+    ext: Antrueju
+    fa: کارناوال
+    fi: karnevaali
+    fr: carnaval
+    fur: Carnevâl
+    fy: Karnaval
+    ga: carnabhal
+    gcr: Kannaval
+    gl: entroido
+    gom: कार्नीवाल
+    gsw: Fasnacht
+    he: קרנבל
+    hi: कार्निवल
+    hr: poklade
+    ht: Kanaval
+    hu: karnevál
+    hy: Կառնավալ
+    hyw: Դիմակահանդէս
+    ia: Carneval
+    id: karnaval
+    ie: carnevale
+    ig: Carnival
+    io: Karnavalo
+    is: Bolludagur
+    it: carnevale
+    ja: 謝肉祭
+    jv: Karnaval
+    kk: Карнавал
+    ko: 사육제
+    ksh: Fastelovend
+    ky: Карнавал
+    la: Carnelevarium
+    lb: Fuesent
+    li: Vastelaovend
+    lld: carnescià
+    lmo: Carnoval
+    lt: karnavalas
+    lv: karnevāls
+    mk: Карневал
+    ml: കാർണിവൽ
+    mt: karnival
+    mwl: Antruido
+    nb: karneval
+    nds-nl: karnevaal
+    nl: carnaval
+    nn: karneval
+    nrm: Carnava
+    oc: carnaval
+    pa: ਕਾਰਨੀਵਲ
+    pap: Carnaval
+    pfl: Fasnacht
+    pl: karnawał
+    pt: carnaval
+    pt-br: carnaval
+    qu: karnawal
+    ro: carnaval
+    ru: карнавал
+    scn: carnaluvari
+    sh: karneval
+    sk: karneval
+    sl: pust
+    sq: Karnavalet
+    sr: карневал
+    sr-ec: карневал
+    sr-el: karneval
+    sv: karneval
+    tl: Karnabal
+    tr: Karnaval
+    tt: карнавал
+    uk: карнавал
+    ur: کارنیول تہوار
+    uz: Karnaval
+    vec: carnavałe
+    vi: Carnival
+    wa: Mascaråde
+    war: Karnabal
+    wuu: 狂欢节
+    yue: 嘉年華
+    zh: 狂歡節
+    zh-cn: 嘉年华油轮公司
+    zh-hant: 嘉年華
+    zh-tw: 狂歡節
 ---
-
 # [[Carnival]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Carnival,4618|WD~Carnival,4618]] 

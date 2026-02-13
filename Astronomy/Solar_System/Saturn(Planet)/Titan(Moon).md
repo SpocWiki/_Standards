@@ -1,24 +1,71 @@
 ---
 aliases:
+- Titan
+- Titan (astronomia)
+- Titana
+- Titanas
+- Titani
+- Titano
+- Titanu
+- Tità
+- Titàṅ
+- Titán
+- Titã
+- Titāns
+- Tytan
+- Tíotán
+- Títan
+- Tîtan (heyv)
+- Tėtans
+- Τιτάνας
+- Титан
+- Тытан
+- Տիտան
+- טיטאן
+- تایتان
+- تيتان
+- تیتان
+- ٹائٹن (چاند)
+- ٹائیٹان
+- ٽائيٽن
+- ߛߊ߬ߝߌߝߌ
+- टाइटन
+- टायटन
+- টাইটান
+- ਟਾਈਟਨ
+- ટાઇટન
+- டைட்டன்
+- టైటన్
+- ടൈറ്റൻ
+- ටයිටන්
+- ไททัน
+- တိုက်တန်
+- ტიტანი
+- ᏔᎢᏖᏂ
+- タイタン
+- 土卫六
+- 土衛六
+- 土衞六
+- 타이탄
 has_id_wikidata: Q2565
 different_from:
-  - "[[_Standards/WikiData/WD~Titan,102282]]"
-  - "[[_Standards/WikiData/WD~Titania,3322]]"
-highest_point: "[[_Standards/WikiData/WD~Mithrim_Montes,390833]]"
+- '[[_Standards/WikiData/WD~Titan,102282]]'
+- '[[_Standards/WikiData/WD~Titania,3322]]'
+highest_point: '[[_Standards/WikiData/WD~Mithrim_Montes,390833]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~regular_moon,1086783]]"
-  - "[[_Standards/WikiData/WD~life_on_Titan,2591050]]"
+- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~life_on_Titan,2591050]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~atmosphere_of_Titan,1143812]]"
-  - "[[_Standards/WikiData/WD~lake_of_Titan,1925406]]"
-has_use: "[[_Standards/WikiData/WD~colonization_of_Titan,2571508]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-instance_of: "[[_Standards/WikiData/WD~moon_of_Saturn,1972]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Saturn,193]]"
+- '[[_Standards/WikiData/WD~atmosphere_of_Titan,1143812]]'
+- '[[_Standards/WikiData/WD~lake_of_Titan,1925406]]'
+has_use: '[[_Standards/WikiData/WD~colonization_of_Titan,2571508]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+instance_of: '[[_Standards/WikiData/WD~moon_of_Saturn,1972]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193]]'
 albedo: 0.22
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]'
 orbital_eccentricity: 0.0288
-named_after: "[[_Standards/WikiData/WD~titan,45713]]"
+named_after: '[[_Standards/WikiData/WD~titan,45713]]'
 temperature: 93.7
 surface_gravity: 1.354
 radius: 2574
@@ -35,33 +82,157 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Titan%20in%20true%20co
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Titan%20T%20symbol%20%28fixed%20width%29.svg
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Titan%2C%20Earth%20%26%20Moon%20size%20comparison.jpg
 Dewey_Decimal_Classification:
-  - 2--9926
-  - "523.986"
+- 2--9926
+- 523.986
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Titan"]
 Commons_gallery: Titan (moon)
 Commons_category: Titan (moon)
 time_of_discovery_or_invention: 1655-03-25T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]"
-    - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]"
+  - '[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]'
+  - '[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]"
-  - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]"
+- '[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]'
+- '[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Titan
+    an: Titán
+    ar: تيتان
+    ast: Titán
+    az: Titan
+    azb: تایتان
+    ba: Титан
+    be: Тытан
+    be-tarask: Тытан
+    bg: Титан
+    bho: टाइटन
+    bn: টাইটান
+    br: Titan
+    bs: Titan
+    ca: Tità
+    cdo: Titan
+    chr: ᏔᎢᏖᏂ
+    ckb: تیتان
+    co: Titanu
+    cs: Titan
+    cy: Titan
+    da: Titan
+    de: Titan
+    de-at: Titan
+    de-ch: Titan
+    el: Τιτάνας
+    eml: Titàṅ
+    en: Titan
+    en-ca: Titan
+    en-gb: Titan
+    eo: Titano
+    es: Titán
+    et: Titan
+    eu: Titan
+    fa: تیتان
+    fi: Titan
+    fr: Titan
+    frp: Titan
+    ga: Tíotán
+    gl: Titán
+    gsw: Titan
+    gu: ટાઇટન
+    gv: Titan
+    he: טיטאן
+    hi: टाइटन
+    hif: Titan
+    hr: Titan
+    hu: Titan
+    hy: Տիտան
+    id: Titan
+    io: Titano
+    is: Títan
+    it: Titano
+    ja: タイタン
+    jv: Titan
+    ka: ტიტანი
+    kk: Титан
+    ko: 타이탄
+    ku: Tîtan (heyv)
+    kv: Титан
+    la: Titan
+    lb: Titan
+    lmo: Titano
+    lt: Titanas
+    lv: Titāns
+    lzh: 土衛六
+    min: Titan
+    mk: Титан
+    ml: ടൈറ്റൻ
+    mn: Титан
+    mr: टायटन
+    ms: Titan
+    mwl: Titana
+    my: တိုက်တန်
+    nan: Titan
+    nb: Titan
+    ne: टाइटन
+    nl: Titan
+    nn: Titan
+    nqo: ߛߊ߬ߝߌߝߌ
+    oc: Titan
+    os: Титан
+    pa: ਟਾਈਟਨ
+    pl: Tytan
+    pnb: ٹائیٹان
+    pt: Titã
+    pt-br: Titã
+    ro: Titan
+    ru: Титан
+    rue: Титан
+    sc: Titanu
+    scn: Titanu
+    sd: ٽائيٽن
+    sgs: Tėtans
+    sh: Titan
+    si: ටයිටන්
+    sk: Titan
+    sl: Titan
+    sq: Titani
+    sr: Титан
+    sr-ec: Титан
+    sv: Titan
+    sw: Titan
+    ta: டைட்டன்
+    te: టైటన్
+    tg: Титан
+    th: ไททัน
+    tk: Titan
+    tl: Titan
+    tr: Titan
+    tt: Титан
+    uk: Титан
+    ur: ٹائٹن (چاند)
+    uz: Titan
+    vec: Titan (astronomia)
+    vi: Titan
+    war: Titan
+    wuu: 土卫六
+    yue: 土衞六
+    zh: 土卫六
+    zh-cn: 土卫六
+    zh-hans: 土卫六
+    zh-hant: 土衛六
 ---
-
 # [[Titan(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Titan,2565|WD~Titan,2565]] 

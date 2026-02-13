@@ -1,36 +1,84 @@
 ---
 aliases:
-  - Magnesium sulfate
-  - magnesium sulphate
-  - Magnesium_Sulfate
-  - Magnesium Sulfate
+- acı duz
+- magie sulphat
+- magneesiumsulfaat
+- magnesio sulfato
+- magnesium sulfat
+- Magnesium sulfate
+- magnesium sulphate
+- Magnesiumsulfaat
+- magnesiumsulfaatti
+- magnesiumsulfat
+- Magnesium_Sulfate
+- magnezia sulfato
+- magnezijev sulfat
+- magnezijum sulfat
+- magnezyum sülfat
+- magnija sulfāts
+- magnio sulfatas
+- magnézium-szulfát
+- siarczan magnezu
+- solfato di magnesio
+- sulfat de magnesi
+- sulfat de magneziu
+- sulfat tal-manjesju
+- sulfate de magnésium
+- sulfato de magnesio
+- sulfato de magnésio
+- sulfatu de magnesiu
+- síran horečnatý
+- síran hořečnatý
+- θειικό μαγνήσιο
+- магнезијум сулфат
+- магнезиев сулфат
+- магнезиум сулфат
+- магний сульфаты
+- сульфат магнію
+- сульфат магна
+- сульфат магния
+- մագնեզիումի սուլֆատ
+- מגנזיום גופרתי
+- كبريتات المغنيسيوم
+- منیزیم سولفات
+- منیزیوم سولفات
+- میگنیشیم سلفیٹ
+- मैग्निसियम सल्फेट
+- ম্যাগনেসিয়াম সালফেট
+- மக்னீசியம் சல்பேட்டு
+- മഗ്നീഷ്യം സൾഫേറ്റ്
+- แมกนีเซียมซัลเฟต
+- 硫酸マグネシウム
+- 硫酸鎂
+- 硫酸镁
+- 황산 마그네슘
 has_id_wikidata: Q288266
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sulfate_ion,172290]]"
-  - "[[_Standards/WikiData/WD~magnesium(2+),26987404]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-  - "[[_Standards/WikiData/WD~magnesium,660]]"
-  - "[[_Standards/WikiData/WD~sulfur,682]]"
+- '[[_Standards/WikiData/WD~sulfate_ion,172290]]'
+- '[[_Standards/WikiData/WD~magnesium(2+),26987404]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~magnesium,660]]'
+- '[[_Standards/WikiData/WD~sulfur,682]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~analgesic,173235]]"
-  - "[[_Standards/WikiData/WD~antiarrhythmic_agent,241549]]"
-  - "[[_Standards/WikiData/WD~calcium_channel_blocker,421700]]"
-  - "[[_Standards/WikiData/WD~tocolytic_uterine_relaxants,545234]]"
-  - "[[_Standards/WikiData/WD~anticonvulsant_agent,576618]]"
-  - "[[_Standards/WikiData/WD~anesthetic,4990531]]"
-manufacturer: "[[_Standards/WikiData/WD~Pfizer,206921]]"
+- '[[_Standards/WikiData/WD~analgesic,173235]]'
+- '[[_Standards/WikiData/WD~antiarrhythmic_agent,241549]]'
+- '[[_Standards/WikiData/WD~calcium_channel_blocker,421700]]'
+- '[[_Standards/WikiData/WD~tocolytic_uterine_relaxants,545234]]'
+- '[[_Standards/WikiData/WD~anticonvulsant_agent,576618]]'
+- '[[_Standards/WikiData/WD~anesthetic,4990531]]'
+manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-has_characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
-different_from: "[[_Standards/WikiData/WD~magnesium_sulfate_heptahydrate,15628528]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+different_from: '[[_Standards/WikiData/WD~magnesium_sulfate_heptahydrate,15628528]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -1288.8
-subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
-has_use: "[[_Standards/WikiData/WD~medication,12140]]"
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+has_use: '[[_Standards/WikiData/WD~medication,12140]]'
 defined_daily_dose: 7
 density: 2.66
 melting_point: 1137
@@ -38,55 +86,118 @@ CosIng_number: 35121
 ZVG_number: 2330
 mass: 119.937
 PubChem_CID:
-  - 24083
-  - 522565
+- 24083
+- 522565
 NSC_number: 146179
 InChI: InChI=1S/Mg.H2O4S/c;1-5(2,3)4/h;(H2,1,2,3,4)/q+2;/p-2
 InChIKey: CSNNHWWHGAXBCP-UHFFFAOYSA-L
 UNII:
-  - ML30MJ2U7I
-  - DE08037SAB
+- ML30MJ2U7I
+- DE08037SAB
 RxNorm_CUI: 1311625
 Reaxys_registry_number: 4208125
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Magnesium%20sulfate%20anhydrous.jpg
-canonical_SMILES: "[O-]S(=O)(=O)[O-].[Mg+2]"
+canonical_SMILES: '[O-]S(=O)(=O)[O-].[Mg+2]'
 EC_number: 231-298-2
 CAS_Registry_Number: 7487-88-9
 ATC_code:
-  - A06AD04
-  - A12CC02
-  - B05XA05
-  - D11AX05
-  - V04CC02
+- A06AD04
+- A12CC02
+- B05XA05
+- D11AX05
+- V04CC02
 UMLS_CUI: C1572489
 MeSH_tree_code:
-  - D01.524.550
-  - D01.875.800.800.850.500
+- D01.524.550
+- D01.875.800.800.850.500
 DSSTOX_compound_identifier: DTXCID4022105
 Commons_category: Magnesium sulfate
 chemical_formula: MgSO₄
 RTECS_number: OM4500000
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Magnesium_sulfate,288266]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate|Magnesium_Sulfate]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.public|Magnesium_Sulfate.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.internal|Magnesium_Sulfate.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.protect|Magnesium_Sulfate.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.private|Magnesium_Sulfate.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.personal|Magnesium_Sulfate.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.secret|Magnesium_Sulfate.secret]]"
+  - '[[../../../../WikiData/WD~Magnesium_sulfate,288266]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate|Magnesium_Sulfate]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.public|Magnesium_Sulfate.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.internal|Magnesium_Sulfate.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.protect|Magnesium_Sulfate.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.private|Magnesium_Sulfate.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.personal|Magnesium_Sulfate.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.secret|Magnesium_Sulfate.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Magnesium_sulfate,288266]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate|Magnesium_Sulfate]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.public|Magnesium_Sulfate.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.internal|Magnesium_Sulfate.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.protect|Magnesium_Sulfate.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.private|Magnesium_Sulfate.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.personal|Magnesium_Sulfate.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.secret|Magnesium_Sulfate.secret]]"
+- '[[../../../../WikiData/WD~Magnesium_sulfate,288266]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate|Magnesium_Sulfate]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.public|Magnesium_Sulfate.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.internal|Magnesium_Sulfate.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.protect|Magnesium_Sulfate.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.private|Magnesium_Sulfate.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.personal|Magnesium_Sulfate.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.secret|Magnesium_Sulfate.secret]]'
+dv_has_:
+  name_:
+    af: Magnesiumsulfaat
+    ar: كبريتات المغنيسيوم
+    ast: sulfatu de magnesiu
+    az: acı duz
+    azb: منیزیوم سولفات
+    be-tarask: сульфат магна
+    bg: магнезиев сулфат
+    bn: ম্যাগনেসিয়াম সালফেট
+    ca: sulfat de magnesi
+    cs: síran hořečnatý
+    de: Magnesiumsulfat
+    el: θειικό μαγνήσιο
+    en: magnesium sulfate
+    en-ca: magnesium sulfate
+    en-gb: magnesium sulphate
+    eo: magnezia sulfato
+    es: sulfato de magnesio
+    et: magneesiumsulfaat
+    eu: magnesio sulfato
+    fa: منیزیم سولفات
+    fi: magnesiumsulfaatti
+    fr: sulfate de magnésium
+    he: מגנזיום גופרתי
+    hi: मैग्निसियम सल्फेट
+    hu: magnézium-szulfát
+    hy: մագնեզիումի սուլֆատ
+    id: magnesium sulfat
+    it: solfato di magnesio
+    ja: 硫酸マグネシウム
+    jv: magnesium sulfat
+    ko: 황산 마그네슘
+    ky: магний сульфаты
+    lt: magnio sulfatas
+    lv: magnija sulfāts
+    mk: магнезиум сулфат
+    ml: മഗ്നീഷ്യം സൾഫേറ്റ്
+    ms: magnesium sulfat
+    mt: sulfat tal-manjesju
+    nb: magnesiumsulfat
+    nl: magnesiumsulfaat
+    nn: magnesiumsulfat
+    pl: siarczan magnezu
+    pt: sulfato de magnésio
+    ro: sulfat de magneziu
+    ru: сульфат магния
+    sh: magnezijum sulfat
+    sk: síran horečnatý
+    sl: magnezijev sulfat
+    sr: магнезијум сулфат
+    sr-ec: магнезијум сулфат
+    sv: magnesiumsulfat
+    ta: மக்னீசியம் சல்பேட்டு
+    th: แมกนีเซียมซัลเฟต
+    tr: magnezyum sülfat
+    uk: сульфат магнію
+    ur: میگنیشیم سلفیٹ
+    vi: magie sulphat
+    war: magnesium sulfate
+    wuu: 硫酸镁
+    yue: 硫酸鎂
+    zh: 硫酸镁
+    zh-hans: 硫酸镁
 ---
-
 # [[Magnesium_Sulfate]] 
 
 #is_/same_as :: [[WD~Magnesium_sulfate,288266]]

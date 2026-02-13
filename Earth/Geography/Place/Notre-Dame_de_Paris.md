@@ -2,82 +2,167 @@
 dv_"Building", "NotreDameCathedral: 95fcw"
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]"
-    - "[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]"
-    - "[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]"
-    - "[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]"
-    - "[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]"
-    - "[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]"
+  - '[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]'
+  - '[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]'
+  - '[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]'
+  - '[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]'
+  - '[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]'
+  - '[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]'
 dv_building-notredamecathedral: 95fcw"
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]"
-  - "[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]"
-  - "[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]"
-  - "[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]"
-  - "[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]"
-  - "[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]"
-
-has_time_started: 1163-01-01 
-location: [ 48.853, 2.3498 ] 
+- '[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]'
+- '[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]'
+- '[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]'
+- '[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]'
+- '[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]'
+- '[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]'
+- '[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]'
+- '[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]'
+has_time_started: 1163-01-01
+location:
+- 48.853
+- 2.3498
 aliases:
-  - Notre-Dame de Paris
-  - Notre-Dame
-  - Notre Dame
-  - Notre-Dame_de_Paris
+- Ardeaglais Notre Dame
+- Catedral de Notre-Dame de Paris
+- Catedral de Notre-Dame de París
+- Catedral ëd Notre-Dame
+- Catedrale Notre-Dame de Paris
+- Catedrau de Nosta Dauna de París
+- Catedråle Notru-Dame di Paris
+- Cathedral Notre-Dame de Paris
+- cathédrale Notre-Dame de Paris
+- Cathédrale Noutre-Dame dé Paris
+- Cattiddrali di Notre-Dame
+- Catédrale No-Danme ed Paris
+- Dêra Notre Dame ya Parîsê
+- Ecclesia Cathedralis Nostrae Dominae Parisiensis
+- Iliz-veur Notre-Dame
+- Katedra Notre-Dame w Paryżu
+- Katedral Notre-Dame
+- Katedrala Notre-Dame u Parizu
+- Katedralo Nia Sinjorino de Parizo
+- Katedralo Notre-Dame di Paris
+- Katedrála Notre-Dame
+- Kathedral Notre-Dame vu Paräis
+- Kathedrale Notre-Dame de Paris
+- Nhà thờ Đức Bà Paris
+- Notre Dame
+- Notre Dame de Paris
+- Notre Dame fan Parys
+- Notre Dame Katedrali
+- Notre Dame Sobori
+- Notre Dame-katedraal
+- Notre-Dame
+- Notre-Dame de Pariggi
+- Notre-Dame de Paris
+- Notre-Dame de París
+- Notre-Dame di Parighji
+- Notre-Dame di Parigi
+- Notre-Dame van Paries
+- Notre-Dame van Parijs
+- Notre-Dame_de_Paris
+- pa-li sen-mu-yun
+- Pa-lí Notre-Dame Tāi-sèng-tông
+- Parijdağı İzge Ana cämiğe
+- Paris Notr-Dam kilsəsi
+- Parisko Notre-Dame katedrala
+- Paryžiaus Dievo Motinos katedra
+- Parīzes Dievmātes katedrāle
+- Seu de Notre-Dame de París
+- stolnica Notre-Dame v Parizu
+- Καθεδρικός Ναός της Παναγίας των Παρισίων
+- Богородична црква
+- Катэдра Парыскай Божай Маці
+- Нотр Дам
+- Нотр-Дам-де-Пари
+- Парижан Делан Ненан килс
+- Париждағы Нотр-Дам соборы
+- Парисын Дарь эхийн сүм
+- Сабор Парыжскай Божай Маці
+- Света Богородица
+- Собор Парижской Богоматери
+- Собор Паризької Богоматері
+- Таҥара ийэтин Париижтааҕы собуора
+- Փարիզի Աստուածամօր Տաճար
+- Փարիզի Աստվածամոր տաճար
+- נאטרעדאם דע פאריז
+- נוטרדאם
+- كاتدرائية نوتردام دو باري
+- كاتدرائية نوتردام دى بارى
+- نوٹر ڈیم ڈے پیرس
+- نوٹرڈیم ڈی پیرس
+- پاریس نوتردام کلیساسی
+- کلیسای نوتردام پاریس
+- नोत्र देम दे पॅरिस
+- नोत्र देम दे पेरिस
+- नोत्रे दामे दे पारिस
+- নটৰ-ডেমৰ কেথেড্ৰেল
+- নোত্র্ দাম দ্য পারি
+- ନୋଟ୍ରେ ଡାମ୍
+- நோட்ரே டேம் டி பாரிஸ்
+- നോത്ര ദാം ദേവാലയം
+- อาสนวิหารน็อทร์-ดามแห่งปารีส
+- ມະຫາວິຫານນົດ-ດາມ
+- პარიზის ღვთისმშობლის ტაძარი
+- პარიზიშ დიაღორონთიშ ოხიდა
+- ᱱᱚᱛᱨᱮ ᱫᱟᱢᱮ ᱫᱮ ᱯᱮᱨᱤᱥ
+- ノートルダム大聖堂
+- 巴黎圣母院
+- 巴黎聖母院
+- 노트르담 대성당
 has_id_wikidata: Q2981
 instance_of:
-  - '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]'
 made_from_material: '[[_Standards/WikiData/WD~dimension_stone,121649]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~consecration,125375]]'
-  - '[[_Standards/WikiData/WD~restoration,217102]]'
-  - '[[_Standards/WikiData/WD~construction,385378]]'
-  - '[[_Standards/WikiData/WD~dedication,1762010]]'
-  - '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
+- '[[_Standards/WikiData/WD~consecration,125375]]'
+- '[[_Standards/WikiData/WD~restoration,217102]]'
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~dedication,1762010]]'
+- '[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~île_de_la_Cité,190063]]'
 locations: '[[_Standards/WikiData/WD~île_de_la_Cité,190063]]'
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127]]'
-  - '[[_Standards/WikiData/WD~Quartier_Notre_Dame,3413095]]'
+- '[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127]]'
+- '[[_Standards/WikiData/WD~Quartier_Notre_Dame,3413095]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~buttress,331900]]'
 architect:
-  - '[[_Standards/WikiData/WD~Jean_de_Chelles,374131]]'
-  - '[[_Standards/WikiData/WD~Pierre_de_Montreuil,1314747]]'
-  - '[[_Standards/WikiData/WD~Raymond_du_Temple,2134288]]'
-  - '[[_Standards/WikiData/WD~Pierre_de_Chelles,3387499]]'
-  - '[[_Standards/WikiData/WD~Jean_Ravy,16645563]]'
+- '[[_Standards/WikiData/WD~Jean_de_Chelles,374131]]'
+- '[[_Standards/WikiData/WD~Pierre_de_Montreuil,1314747]]'
+- '[[_Standards/WikiData/WD~Raymond_du_Temple,2134288]]'
+- '[[_Standards/WikiData/WD~Pierre_de_Chelles,3387499]]'
+- '[[_Standards/WikiData/WD~Jean_Ravy,16645563]]'
 different_from: '[[_Standards/WikiData/WD~Notre_Dame,568558]]'
 founded_by: '[[_Standards/WikiData/WD~Maurice_de_Sully,727818]]'
 Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
 diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Paris,1242250]]'
 architectural_style:
-  - '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
-  - '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
-  - '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
-  - '[[_Standards/WikiData/WD~classic_gothic,72553961]]'
+- '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
+- '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
+- '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
+- '[[_Standards/WikiData/WD~classic_gothic,72553961]]'
 located_on_street: '[[_Standards/WikiData/WD~parvis_Notre_Dame_place_Jean_Paul_II,2720522]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
 owned_by: '[[_Standards/WikiData/WD~French_State,3591845]]'
 heritage_designation: '[[_Standards/WikiData/WD~classified_historical_monument,10387684]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~South_rose_window_of_Notre_Dame_de_Paris,63168906]]'
-  - '[[_Standards/WikiData/WD~gargoyles_of_Notre_Dame_de_Paris,63169252]]'
-  - '[[_Standards/WikiData/WD~spire_of_Notre_Dame_de_Paris,63170328]]'
-  - '[[_Standards/WikiData/WD~frame_of_Notre_Dame_de_Paris,63182951]]'
-  - '[[_Standards/WikiData/WD~Portail_du_Jugement_Dernier_of_Notre_Dame_de_Paris,63339908]]'
-  - '[[_Standards/WikiData/WD~Baroque_chancel_of_Notre_Dame_de_Paris,104713892]]'
-  - '[[_Standards/WikiData/WD~Portail_de_la_Vierge_of_Notre_Dame_de_Paris,109228827]]'
-  - '[[_Standards/WikiData/WD~Portail_Sainte_Anne_of_Notre_Dame_de_Paris,109228846]]'
-  - '[[_Standards/WikiData/WD~west_facade_of_Notre_Dame_de_Paris,131340491]]'
+- '[[_Standards/WikiData/WD~South_rose_window_of_Notre_Dame_de_Paris,63168906]]'
+- '[[_Standards/WikiData/WD~gargoyles_of_Notre_Dame_de_Paris,63169252]]'
+- '[[_Standards/WikiData/WD~spire_of_Notre_Dame_de_Paris,63170328]]'
+- '[[_Standards/WikiData/WD~frame_of_Notre_Dame_de_Paris,63182951]]'
+- '[[_Standards/WikiData/WD~Portail_du_Jugement_Dernier_of_Notre_Dame_de_Paris,63339908]]'
+- '[[_Standards/WikiData/WD~Baroque_chancel_of_Notre_Dame_de_Paris,104713892]]'
+- '[[_Standards/WikiData/WD~Portail_de_la_Vierge_of_Notre_Dame_de_Paris,109228827]]'
+- '[[_Standards/WikiData/WD~Portail_Sainte_Anne_of_Notre_Dame_de_Paris,109228846]]'
+- '[[_Standards/WikiData/WD~west_facade_of_Notre_Dame_de_Paris,131340491]]'
 located_in_the_religious_territorial_entity: '[[_Standards/WikiData/WD~Q125621429,125621429]]'
 coordinate_location: Point(2.3498 48.853)
 inception: 1163-01-01T00:00:00Z
@@ -88,8 +173,8 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 country: '[[_Standards/WikiData/WD~France,142]]'
 maximum_capacity: 9000
 height:
-  - 90
-  - 69
+- 90
+- 69
 visitors_per_year: 12000000
 width: 48
 area: 5500
@@ -124,10 +209,135 @@ X_Twitter_username: notredameparis
 street_address: 6 Place du Parvis de Notre-Dame, 75004 Paris
 date_of_official_opening: 2024-12-07T00:00:00Z
 official_website:
-  - https://www.notredamedeparis.fr/
-  - https://www.notredamedeparis.fr/en/
+- https://www.notredamedeparis.fr/
+- https://www.notredamedeparis.fr/en/
+dv_has_:
+  name_:
+    af: Notre Dame-katedraal
+    an: Seu de Notre-Dame de París
+    ar: كاتدرائية نوتردام دو باري
+    arz: كاتدرائية نوتردام دى بارى
+    as: নটৰ-ডেমৰ কেথেড্ৰেল
+    ast: Catedral de Notre-Dame de París
+    az: Paris Notr-Dam kilsəsi
+    azb: پاریس نوتردام کلیساسی
+    ba: Париждағы Нотр-Дам соборы
+    ban: Notre Dame de Paris
+    be: Сабор Парыжскай Божай Маці
+    be-tarask: Катэдра Парыскай Божай Маці
+    bg: Света Богородица
+    bn: নোত্র্ দাম দ্য পারি
+    br: Iliz-veur Notre-Dame
+    bs: Notre-Dame de Paris
+    bxr: Нотр-Дам-де-Пари
+    ca: Notre-Dame de París
+    ce: Парижан Делан Ненан килс
+    co: Notre-Dame di Parighji
+    cs: Katedrála Notre-Dame
+    cy: Notre-Dame de Paris
+    da: Notre Dame
+    de: Notre-Dame de Paris
+    de-ch: Kathedrale Notre-Dame de Paris
+    el: Καθεδρικός Ναός της Παναγίας των Παρισίων
+    en: Notre-Dame de Paris
+    en-ca: Notre-Dame de Paris
+    en-gb: Notre-Dame de Paris
+    eo: Katedralo Nia Sinjorino de Parizo
+    es: Notre-Dame de París
+    et: Notre-Dame
+    eu: Parisko Notre-Dame katedrala
+    fa: کلیسای نوتردام پاریس
+    fi: Notre Dame
+    fr: cathédrale Notre-Dame de Paris
+    frc: cathédrale Notre-Dame de Paris
+    fy: Notre Dame fan Parys
+    ga: Ardeaglais Notre Dame
+    gd: Notre Dame de Paris
+    gl: Catedral de Notre-Dame de París
+    ha: Notre-Dame de Paris
+    he: נוטרדאם
+    hi: नोत्र देम दे पेरिस
+    hr: Katedrala Notre-Dame u Parizu
+    hu: Notre-Dame
+    hy: Փարիզի Աստվածամոր տաճար
+    hyw: Փարիզի Աստուածամօր Տաճար
+    ia: Cathedral Notre-Dame de Paris
+    id: Notre Dame de Paris
+    ie: Catedrale Notre-Dame de Paris
+    inh: Нотр-Дам-де-Пари
+    io: Katedralo Notre-Dame di Paris
+    is: Notre Dame
+    it: Notre-Dame di Parigi
+    ja: ノートルダム大聖堂
+    jv: Notre Dame de Paris
+    ka: პარიზის ღვთისმშობლის ტაძარი
+    ko: 노트르담 대성당
+    ku: Dêra Notre Dame ya Parîsê
+    la: Ecclesia Cathedralis Nostrae Dominae Parisiensis
+    lb: Kathedral Notre-Dame vu Paräis
+    lfn: Notre Dame de Paris
+    lij: Notre-Dame de Pariggi
+    lo: ມະຫາວິຫານນົດ-ດາມ
+    lt: Paryžiaus Dievo Motinos katedra
+    lv: Parīzes Dievmātes katedrāle
+    min: Notre-Dame de Paris
+    mk: Богородична црква
+    ml: നോത്ര ദാം ദേവാലയം
+    mn: Парисын Дарь эхийн сүм
+    mr: नोत्र देम दे पॅरिस
+    ms: Katedral Notre-Dame
+    mt: Notre-Dame de Paris
+    nan: Pa-lí Notre-Dame Tāi-sèng-tông
+    nb: Notre-Dame de Paris
+    nds-nl: Notre-Dame van Paries
+    ne: नोत्रे दामे दे पारिस
+    nl: Notre-Dame van Parijs
+    nn: Notre-Dame de Paris
+    nrm: Cathédrale Noutre-Dame dé Paris
+    oc: Catedrau de Nosta Dauna de París
+    or: ନୋଟ୍ରେ ଡାମ୍
+    pcd: Catédrale No-Danme ed Paris
+    pl: Katedra Notre-Dame w Paryżu
+    pms: Catedral ëd Notre-Dame
+    pnb: نوٹرڈیم ڈی پیرس
+    pt: Notre-Dame de Paris
+    pt-br: Catedral de Notre-Dame de Paris
+    ro: Notre-Dame de Paris
+    ru: Собор Парижской Богоматери
+    sah: Таҥара ийэтин Париижтааҕы собуора
+    sat: ᱱᱚᱛᱨᱮ ᱫᱟᱢᱮ ᱫᱮ ᱯᱮᱨᱤᱥ
+    scn: Cattiddrali di Notre-Dame
+    sco: Notre Dame de Paris
+    se: Notre-Dame de Paris
+    sh: Notre Dame de Paris
+    sk: Katedrála Notre-Dame
+    sl: stolnica Notre-Dame v Parizu
+    sq: Notre-Dame de Paris
+    sr: Нотр Дам
+    sv: Notre-Dame de Paris
+    szy: pa-li sen-mu-yun
+    ta: நோட்ரே டேம் டி பாரிஸ்
+    th: อาสนวิหารน็อทร์-ดามแห่งปารีส
+    tl: Notre-Dame
+    tr: Notre Dame Katedrali
+    tt: Parijdağı İzge Ana cämiğe
+    uk: Собор Паризької Богоматері
+    ur: نوٹر ڈیم ڈے پیرس
+    uz: Notre Dame Sobori
+    vi: Nhà thờ Đức Bà Paris
+    wa: Catedråle Notru-Dame di Paris
+    war: Notre Dame de Paris
+    wuu: 巴黎圣母院
+    xmf: პარიზიშ დიაღორონთიშ ოხიდა
+    yi: נאטרעדאם דע פאריז
+    yue: 巴黎聖母院
+    zea: Notre Dame
+    zh: 巴黎聖母院
+    zh-cn: 巴黎聖母院
+    zh-hans: 巴黎圣母院
+    zh-hant: 巴黎聖母院
+    zh-tw: 巴黎聖母院
 ---
-
 # [[Notre-Dame_de_Paris]] 
 
 ![[../../../assets/Notre-Dame_de_Paris.png]] 

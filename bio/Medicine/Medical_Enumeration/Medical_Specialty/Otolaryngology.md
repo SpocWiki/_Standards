@@ -1,24 +1,82 @@
 ---
 aliases:
-  - Otolaryngology
-  - head and neck surgery
-  - ORL–H&N
-  - OHNS
-  - HNO
-  - ear, nose, and throat
-  - Hals-Nasen-Ohren-Heilkunde
+- ear, nose, and throat
+- fül-orr-gégészet
+- Hals-Nasen-Ohren-Heilkunde
+- head and neck surgery
+- HNO
+- Khoa tai mũi họng
+- Korva-, nenä- ja kurkkutautioppi
+- Lys van oor-, neus en keeltoestande
+- OHNS
+- ORL–H&N
+- ota-laraingeolaíocht
+- oto-rhino-laryngologi
+- otolaringologi
+- otolaringologija
+- Otolaringolohiya
+- otolarinjolojia
+- Otolaryngology
+- otorhinolaryngoleg
+- otorhinolaryngologie
+- otorinolarengoloji
+- otorinolaringoiatria
+- Otorinolaringologi
+- otorinolaringologia
+- otorinolaringologie
+- otorinolaringologija
+- otorinolaringologio
+- Otorinolaringologjia
+- otorinolaringoloģija
+- otorinolarinqologiya
+- otorinolaryngologie
+- otorinolaryngológia
+- Otorinoloringologiya
+- otorinołaringołoxia
+- Otorrinolaringologia
+- otorrinolaringología
+- Otorrinolaringoloxía
+- otorynolaryngologia
+- ÖNH
+- øre-nese-hals
+- øyre-nase-hals-medisin
+- ωτορινολαρυγγολογία
+- отарыналарынгалогія
+- отарыналярынгалёгія
+- оториноларингологія
+- оториноларингологија
+- оториноларингология
+- пизишкии гӯшу ҳалқу бинӣ
+- ականջաքթակոկորդաբանություն
+- האלדז, נאז און אויערן היילן
+- רפואת אף אוזן גרון
+- انفاذن حنجریات
+- طب الأنف والأذن والحنجرة
+- قولاق بورون بوغاز دوکتورلوگو
+- پزشکی گوش و حلق و بینی
+- پزیشکی گوێ و لوت و قوڕگ
+- अटोराइनोल्यारिङ्गोलोजी
+- ओटोल्यारिंजियोलोजी
+- ഓട്ടോറൈനോലാറിംഗോളജി
+- โสตศอนาสิกวิทยา
+- ოტორინოლარინგოლოგია
+- 耳鼻咽喉科学
+- 耳鼻喉科
+- 耳鼻喉科学
+- 耳鼻喉科學
+- 이비인후과
 has_id_wikidata: Q189553
 has_part_s_:
-  - '[[_Standards/WikiData/WD~sleep_medicine,744029]]'
-  - '[[_Standards/WikiData/WD~neurotology,1406609]]'
-  - '[[_Standards/WikiData/WD~otology,1640326]]'
-  - '[[_Standards/WikiData/WD~laryngology,1806412]]'
-  - '[[_Standards/WikiData/WD~rhinology,7320661]]'
-  - '[[_Standards/WikiData/WD~pediatric_otolaryngology,113884270]]'
-  - '[[_Standards/WikiData/WD~rhinolaryngology,130326142]]'
+- '[[_Standards/WikiData/WD~sleep_medicine,744029]]'
+- '[[_Standards/WikiData/WD~neurotology,1406609]]'
+- '[[_Standards/WikiData/WD~otology,1640326]]'
+- '[[_Standards/WikiData/WD~laryngology,1806412]]'
+- '[[_Standards/WikiData/WD~rhinology,7320661]]'
+- '[[_Standards/WikiData/WD~pediatric_otolaryngology,113884270]]'
+- '[[_Standards/WikiData/WD~rhinolaryngology,130326142]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~otolaryngologist,2854916]]'
 subclass_of: '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
 All_Science_Journal_Classification_Codes: 2733
@@ -28,8 +86,90 @@ Basisklassifikation: 44.94
 MeSH_tree_code: H02.403.810.526
 Commons_category: Otorhinolaryngology
 OpenStreetMap_tag: healthcare:speciality=otolaryngology
+dv_has_:
+  name_:
+    af: Lys van oor-, neus en keeltoestande
+    ar: طب الأنف والأذن والحنجرة
+    ast: Otorrinolaringoloxía
+    az: otorinolarinqologiya
+    azb: قولاق بورون بوغاز دوکتورلوگو
+    be: отарыналарынгалогія
+    be-tarask: отарыналярынгалёгія
+    bg: Оториноларингология
+    bs: Otorinolaringologija
+    ca: otorinolaringologia
+    ckb: پزیشکی گوێ و لوت و قوڕگ
+    cs: otorinolaryngologie
+    cy: otorhinolaryngoleg
+    da: oto-rhino-laryngologi
+    de: Hals-Nasen-Ohren-Heilkunde
+    el: ωτορινολαρυγγολογία
+    en: otolaryngology
+    en-us: otolaryngology
+    eo: otorinolaringologio
+    es: otorrinolaringología
+    eu: Otorrinolaringologia
+    fa: پزشکی گوش و حلق و بینی
+    fi: Korva-, nenä- ja kurkkutautioppi
+    fr: otorhinolaryngologie
+    ga: ota-laraingeolaíocht
+    gl: otorrinolaringoloxía
+    he: רפואת אף אוזן גרון
+    hi: ओटोल्यारिंजियोलोजी
+    hr: otorinolaringologija
+    hu: fül-orr-gégészet
+    hy: ականջաքթակոկորդաբանություն
+    id: otolaringologi
+    it: otorinolaringoiatria
+    ja: 耳鼻咽喉科学
+    jv: Otolaringologi
+    ka: ოტორინოლარინგოლოგია
+    kk: Оториноларингология
+    ko: 이비인후과
+    ky: Оториноларингология
+    lfn: otolarinjolojia
+    lt: otolaringologija
+    lv: otorinolaringoloģija
+    mk: оториноларингологија
+    ml: ഓട്ടോറൈനോലാറിംഗോളജി
+    ms: Otorinolaringologi
+    nb: øre-nese-hals
+    ne: ओटोल्यारिंजियोलोजी
+    new: अटोराइनोल्यारिङ्गोलोजी
+    nl: otorinolaryngologie
+    nn: øyre-nase-hals-medisin
+    pi: ओटोल्यारिंजियोलोजी
+    pl: otorynolaryngologia
+    pt: otorrinolaringologia
+    ro: otorinolaringologie
+    ru: оториноларингология
+    sa: ओटोल्यारिंजियोलोजी
+    sh: otorinolaringologija
+    sk: otorinolaryngológia
+    sl: otorinolaringologija
+    sq: Otorinolaringologjia
+    sr: оториноларингологија
+    sv: ÖNH
+    tg: пизишкии гӯшу ҳалқу бинӣ
+    th: โสตศอนาสิกวิทยา
+    tl: otolaryngology
+    tr: otorinolarengoloji
+    uk: оториноларингологія
+    ur: انفاذن حنجریات
+    uz: Otorinoloringologiya
+    vec: otorinołaringołoxia
+    vi: Khoa tai mũi họng
+    war: Otolaringolohiya
+    yi: האלדז, נאז און אויערן היילן
+    yue: 耳鼻喉科
+    zh: 耳鼻喉科學
+    zh-cn: 耳鼻喉科学
+    zh-hans: 耳鼻喉科学
+    zh-hant: 耳鼻喉科學
+    zh-hk: 耳鼻喉科學
+    zh-sg: 耳鼻喉科学
+    zh-tw: 耳鼻喉科學
 ---
-
 # [[Otolaryngology]]
 
 #is_/same_as :: [[WD~Otolaryngology,189553]] 

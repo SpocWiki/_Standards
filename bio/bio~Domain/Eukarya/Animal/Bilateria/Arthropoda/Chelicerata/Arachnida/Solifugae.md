@@ -1,32 +1,153 @@
 ---
 aliases:
-  - Windscorpion
-  - Windscorpions
-  - Solifugae
-  - valseedderkopper
+- arolukit
+- Baardskeerder-spinnekop
+- Buingamia
+- Böğ
+- Günəşdənqaçanlar
+- Hämmalised
+- Kamelaraneo
+- Laba-laba unta
+- Lažni pauci
+- Mračnice (red paučnjaka)
+- Pezpezok
+- Rolkoonkern
+- rolspinnen
+- rovarpókok
+- skorpionspindlar
+- Solfugi
+- Solifugae
+- solifugy
+- Solifúgy
+- Solpugas
+- Solpūgos
+- Solífugos
+- solífugs
+- Temačniki
+- valseedderkopper
+- Walzenspinnen
+- Windscorpion
+- Windscorpions
+- Zahalchíʼii
+- каллаи гӯсола
+- сальпугі
+- солпуги
+- сольпуги
+- մորմ
+- עכשובאים
+- اوښ ډوله غڼه
+- بؤولر
+- سالیفوجید
+- معتزلات
+- وندر
+- ଓଟ ମାଙ୍କଡ଼ସା
+- სოლფუგები
+- ヒヨケムシ
+- 避日目
+- 避日蛛目
+- 낙타거미
 has_id_wikidata: Q19126
 title: Solifugae
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 parent_taxon: '[[../../../../../../../../WikiData/WD~Dromopoda,5308296]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 690742
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Solifugae%20collage.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sunspider.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Solifugae%20collage.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sunspider.jpg
 UMLS_CUI: C0323815
 Commons_gallery: Solifugae
 Commons_category: Solifugae
 taxon_name: Solifugae
 taxon_common_name:
-  - Windscorpions
-  - valseedderkopper
+- Windscorpions
+- valseedderkopper
+dv_has_:
+  name_:
+    af: Baardskeerder-spinnekop
+    an: Solifugae
+    ar: معتزلات
+    arz: معتزلات
+    ast: Solifugae
+    az: Günəşdənqaçanlar
+    azb: بؤولر
+    be: сальпугі
+    be-tarask: сальпугі
+    bg: солпуги
+    bs: Lažni pauci
+    ca: solífugs
+    ceb: Solifugae
+    cs: solifugy
+    de: Walzenspinnen
+    en: Solifugae
+    eo: Kamelaraneo
+    es: Solifugae
+    et: Hämmalised
+    eu: Solifugae
+    ext: Solifugae
+    fa: سالیفوجید
+    fi: arolukit
+    fr: Solifugae
+    frr: Rolkoonkern
+    ga: Solifugae
+    gl: Solífugos
+    he: עכשובאים
+    hr: Mračnice (red paučnjaka)
+    hu: rovarpókok
+    hy: մորմ
+    ia: Solifugae
+    id: Laba-laba unta
+    ie: Solifugae
+    io: Solifugae
+    it: Solifugae
+    ja: ヒヨケムシ
+    ka: სოლფუგები
+    ko: 낙타거미
+    ku: Pezpezok
+    la: Solifugae
+    lt: Solpūgos
+    lv: Solpugas
+    ms: Solifugae
+    mul: Solifugae
+    mzn: وندر
+    nb: valseedderkopper
+    nl: rolspinnen
+    nv: Zahalchíʼii
+    oc: Solifugae
+    or: ଓଟ ମାଙ୍କଡ଼ସା
+    pl: Solfugi
+    ps: اوښ ډوله غڼه
+    pt: Solifugae
+    pt-br: Solifugae
+    ro: Solifugae
+    ru: сольпуги
+    sco: Solifugae
+    sk: Solifúgy
+    sl: Temačniki
+    sq: Solifugae
+    sr: Lažni pauci
+    sv: skorpionspindlar
+    sw: Buingamia
+    tg: каллаи гӯсола
+    tl: Solifugae
+    tr: Böğ
+    uk: Сольпуги
+    vec: Solifugae
+    vi: Solifugae
+    vo: Solifugae
+    war: Solifugae
+    wuu: 避日目
+    yue: 避日目
+    zh: 避日蛛目
+    zh-cn: 避日蛛目
+    zh-hans: 避日蛛目
+    zh-tw: 避日目
 ---
-
 # [[Solifugae]] 
 
 ![ ](Solifugae/Eremochelisbilobatus2.jpg) 

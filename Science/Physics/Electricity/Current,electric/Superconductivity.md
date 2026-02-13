@@ -1,21 +1,98 @@
 ---
 aliases:
-  - Supraleitfähigkeit
-  - Superconductivity
+- Asqın ötkizgiştik
+- dzor-condutività
+- forsheoltacht
+- ifratkeçiricilik
+- kesuperkonduksian
+- nadprzewodnictwo
+- siprakondiktè
+- siêu dẫn
+- Supercon
+- superconductividad
+- superconductivitas
+- superconductivitat
+- Superconductivity
+- supercondutividade
+- supercondutività
+- superconduttività
+- supereroankortasun
+- supergeleiding
+- superkonduktiveco
+- superkonduktivitas
+- superlaidumas
+- superledning
+- superleiing
+- superprevodnost
+- superprovodljivost
+- superprovodnost
+- superpërcjellshmëria
+- supraconductibilitate
+- supraconductivité
+- suprajohde
+- supraledare
+- Supraleitfähigkeit
+- Supraleitung
+- supraprovodnost
+- supravadītspēja
+- supravodivost
+- supravodivosť
+- supravodljivost
+- szupravezetés
+- süperiletken
+- ülijuhtivus
+- υπεραγωγιμότητα
+- абаррасонандагӣ
+- асқын өткізгіштік
+- звышправоднасць
+- звышправоднасьць
+- надпровідність
+- сверхпроводимость
+- свръхпроводимост
+- суперпроводност
+- суперспроводливост
+- хэт дамжуулагч
+- үтә үткәрүчәнлек
+- գերհաղորդականություն
+- מוליכות-על
+- ابررسانا
+- ابررسانایی
+- اسقىن وتكىزگىشتىك
+- د برېښنا فوق العاده لېږد
+- سوپردوّاز
+- سپر پسرائيندڙ
+- فوق ایصالیت
+- موصلية فائقة
+- گەیەنەری ڕەھا
+- अतिचालकता
+- अतिसंवाहकता
+- অতি পৰিবাহিতা
+- অতিপরিবাহিতা
+- மீக்கடத்துத்திறன்
+- అతివాహకత్వము
+- അതിചാലകത
+- සුපිරි සන්නායකතාව
+- สภาพนำยวดยิ่ง
+- စူပါကွန်ဒပ်တီဗီတီ
+- ზეგამტარობა
+- 超伝導
+- 超导现象
+- 超導現象
+- 초전도 현상
 has_id_wikidata: Q124131
 studied_by:
-  - '[[_Standards/WikiData/WD~materials_science,228736]]'
-  - '[[_Standards/WikiData/WD~BCS_theory,722131]]'
-  - '[[_Standards/WikiData/WD~cryophysics,908692]]'
+- '[[_Standards/WikiData/WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~BCS_theory,722131]]'
+- '[[_Standards/WikiData/WD~cryophysics,908692]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_state,230855]]'
-  - '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
+- '[[_Standards/WikiData/WD~physical_state,230855]]'
+- '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
 different_from:
-  - '[[_Standards/WikiData/WD~color_superconductivity,1396451]]'
-  - '[[_Standards/WikiData/WD~superconductor,16331841]]'
+- '[[_Standards/WikiData/WD~color_superconductivity,1396451]]'
+- '[[_Standards/WikiData/WD~superconductor,16331841]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
-  - '[[_Standards/WikiData/WD~type_of_property,96253971]]'
+- '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
+- '[[_Standards/WikiData/WD~type_of_property,96253971]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Superconductivity,123383284]]'
 U_S_National_Archives_Identifier: 10675917
 OmegaWiki_Defined_Meaning: 426523
@@ -29,8 +106,107 @@ MeSH_tree_code: G01.358.500.875
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/SVERHPROVODIMOST.html
 Commons_category: Superconductivity
 Dewey_Decimal_Classification: 537.623
+dv_has_:
+  name_:
+    ar: موصلية فائقة
+    ary: سوپردوّاز
+    as: অতি পৰিবাহিতা
+    ast: superconductividad
+    az: ifratkeçiricilik
+    be: звышправоднасць
+    be-tarask: звышправоднасьць
+    bg: свръхпроводимост
+    bn: অতিপরিবাহিতা
+    bs: superprovodljivost
+    ca: superconductivitat
+    ckb: گەیەنەری ڕەھا
+    cs: supravodivost
+    cy: Supercon
+    da: superledning
+    de: Supraleitung
+    el: υπεραγωγιμότητα
+    en: superconductivity
+    en-ca: superconductivity
+    en-gb: superconductivity
+    eo: superkonduktiveco
+    es: superconductividad
+    et: ülijuhtivus
+    eu: supereroankortasun
+    fa: ابررسانایی
+    fi: suprajohde
+    fr: supraconductivité
+    ga: forsheoltacht
+    gl: supercondutividade
+    he: מוליכות-על
+    hi: अतिचालकता
+    hr: supravodljivost
+    ht: siprakondiktè
+    hu: szupravezetés
+    hy: գերհաղորդականություն
+    id: superkonduktivitas
+    it: superconduttività
+    ja: 超伝導
+    ka: ზეგამტარობა
+    kk: асқын өткізгіштік
+    kk-arab: اسقىن وتكىزگىشتىك
+    kk-cn: اسقىن وتكىزگىشتىك
+    kk-cyrl: асқын өткізгіштік
+    kk-kz: асқын өткізгіштік
+    kk-latn: asqın ötkizgiştik
+    kk-tr: Asqın ötkizgiştik
+    ko: 초전도 현상
+    la: superconductivitas
+    lt: superlaidumas
+    lv: supravadītspēja
+    mk: суперспроводливост
+    ml: അതിചാലകത
+    mn: хэт дамжуулагч
+    mr: अतिसंवाहकता
+    ms: kesuperkonduksian
+    my: စူပါကွန်ဒပ်တီဗီတီ
+    mzn: ابررسانا
+    nb: superledning
+    nl: supergeleiding
+    nn: superleiing
+    pl: nadprzewodnictwo
+    pms: dzor-condutività
+    ps: د برېښنا فوق العاده لېږد
+    pt: supercondutividade
+    pt-br: supercondutividade
+    ro: supraconductibilitate
+    ru: сверхпроводимость
+    sco: superconductivity
+    sd: سپر پسرائيندڙ
+    sh: supraprovodnost
+    si: සුපිරි සන්නායකතාව
+    sk: supravodivosť
+    sl: superprevodnost
+    sq: superpërcjellshmëria
+    sr: суперпроводност
+    sr-ec: суперпроводност
+    sr-el: superprovodnost
+    sv: supraledare
+    ta: மீக்கடத்துத்திறன்
+    te: అతివాహకత్వము
+    tg: абаррасонандагӣ
+    th: สภาพนำยวดยิ่ง
+    tr: süperiletken
+    tt: үтә үткәрүчәнлек
+    uk: надпровідність
+    ur: فوق ایصالیت
+    vec: supercondutività
+    vi: siêu dẫn
+    war: superconductividad
+    wuu: 超导现象
+    yue: 超導現象
+    zh: 超导现象
+    zh-cn: 超导现象
+    zh-hans: 超导现象
+    zh-hant: 超導現象
+    zh-hk: 超導現象
+    zh-sg: 超导现象
+    zh-tw: 超導現象
 ---
-
 # [[Superconductivity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Superconductivity,124131|WD~Superconductivity,124131]]  

@@ -1,9 +1,34 @@
 ---
 aliases:
-  - Notobatrachus_degiustoi
-  - Notobatrachus degiustoi
+- Notobatrachus
+- Notobatrachus degiustoi
+- Notobatrachus_degiustoi
 title: Notobatrachus degiustoi
 has_id_wikidata: Q7063124
+dv_has_:
+  name_:
+    ast: Notobatrachus
+    bg: Notobatrachus
+    ceb: Notobatrachus
+    de: Notobatrachus
+    en: Notobatrachus
+    es: Notobatrachus
+    fi: Notobatrachus
+    fr: Notobatrachus
+    ga: Notobatrachus
+    it: Notobatrachus
+    la: Notobatrachus
+    mul: Notobatrachus
+    nl: Notobatrachus
+    pl: Notobatrachus
+    pt: Notobatrachus degiustoi
+    ro: Notobatrachus
+    ru: Notobatrachus
+    sq: Notobatrachus
+    uk: Notobatrachus
+    vec: Notobatrachus
+    vi: Notobatrachus
+    war: Notobatrachus
 ---
 # Notobatrachus degiustoi 
 

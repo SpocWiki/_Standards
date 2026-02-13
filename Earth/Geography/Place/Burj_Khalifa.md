@@ -1,58 +1,130 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]"
-    - "[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]"
-    - "[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]"
-    - "[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]"
-    - "[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]"
-    - "[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]"
+  - '[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]'
+  - '[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]'
+  - '[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]'
+  - '[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]'
+  - '[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]'
+  - '[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]"
-  - "[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]"
-  - "[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]"
-  - "[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]"
-  - "[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]"
-  - "[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]"
-
-has_time_started: 2010-01-01 
-location: [ 25.197222222, 55.274166666 ] 
+- '[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]'
+- '[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]'
+- '[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]'
+- '[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]'
+- '[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]'
+- '[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]'
+- '[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]'
+- '[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]'
+has_time_started: 2010-01-01
+location:
+- 25.197222222
+- 55.274166666
 aliases:
-  - Burj Khalifa
-  - Burj_Khalifa
+- Berǧ Xalifa
+- Birca Xalîfe
+- Birca Xelîfe
+- Burc Xälifä
+- Burch Khalifa
+- Burdzs Kalifa
+- Burdż Chalifa
+- Burdž Chalifa
+- Burdž Chalífa
+- Burdž Kalifa
+- Burdž Kalėfa
+- Burj Dubai
+- Burj Dubay
+- Burj Kalifa
+- Burj Khalifa
+- Burj Khalīfah
+- Burj_Khalifa
+- Burç Halife
+- Burĝ Ĥalifa
+- Bürc Xəlifə
+- Halīfa tornis
+- Khalīfa Thap
+- Menara Khalifa
+- tomo Pa Kulipa
+- Turris Khalifa
+- Μπουρτζ Χαλίφα
+- Боурджь Халифа
+- Бурџ Халифа
+- Бурдж Халіфа
+- Бурдж Халифа
+- Бурдж-Халіфа
+- Бурдж-Халифа
+- Бурдж-Хәлифә
+- Бурдь Халифа
+- Бурж Халифа
+- Бурҷи Халифа
+- Халифлул Бурж
+- Բուրջ Խալիֆա
+- בורג' ח'ליפה
+- בורדזש כאליפא
+- برج خليفة
+- برج خليفه
+- برج خليفہ
+- برج خلیفه
+- برج خلیفہ
+- بورج خلیفه
+- بورجی خەلیفە
+- بُرٛج خلیفہ
+- بۇرج دۇبەي
+- बुर्ज खलिफा
+- बुर्ज खलीफा
+- बुर्ज ख़लीफ़ा
+- বুর্জ খ়লিফ়া
+- বুৰ্জ খালিফা
+- ਬੁਰਜ ਖ਼ਲੀਫ਼ਾ
+- બુર્જ દુબઈ
+- ବୁର୍ଜ ଖଲିଫା, ଦୁବାଇ
+- புர்ஜ் கலிஃபா
+- బుర్జ్ దుబాయ్
+- ಬುರ್ಜ್ ದುಬೈ
+- ബുർജ് ഖലീഫ
+- බර්ජ් ඛලීෆා
+- บุรจญ์เคาะลีฟะฮ์
+- ခါလီဖာ မိုးမျှော်တိုက်
+- ბურჯ-ხალიფა
+- ቡርጅ ኻሊፋ
+- ប៊ឺជ ខាលីហ្វា
+- ᱵᱩᱨᱡᱽ ᱠᱷᱚᱞᱤᱯᱷᱟ
+- ブルジュ・ハリーファ
+- 哈利法塔
+- 哈里發塔
+- ꠛꠥꠞ꠆ꠎ ꠈꠟꠤꠚꠣ
+- 부르즈 할리파
 has_id_wikidata: Q12495
 made_from_material:
-  - '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-  - '[[_Standards/WikiData/WD~aluminium,663]]'
-  - '[[_Standards/WikiData/WD~steel,11427]]'
-  - '[[_Standards/WikiData/WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+- '[[_Standards/WikiData/WD~aluminium,663]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
 architect:
-  - '[[_Standards/WikiData/WD~Adrian_Smith,374276]]'
-  - '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
-  - '[[_Standards/WikiData/WD~William_F._Baker,834854]]'
-  - '[[_Standards/WikiData/WD~George_J._Efstathiou,5540994]]'
-  - '[[_Standards/WikiData/WD~Marshall_Strabala,13647155]]'
+- '[[_Standards/WikiData/WD~Adrian_Smith,374276]]'
+- '[[_Standards/WikiData/WD~Skidmore,_Owings_&_Merrill,459464]]'
+- '[[_Standards/WikiData/WD~William_F._Baker,834854]]'
+- '[[_Standards/WikiData/WD~George_J._Efstathiou,5540994]]'
+- '[[_Standards/WikiData/WD~Marshall_Strabala,13647155]]'
 significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 main_building_contractor:
-  - '[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194]]'
-  - '[[_Standards/WikiData/WD~Besix,2749540]]'
-  - '[[_Standards/WikiData/WD~Arabtec,4783497]]'
+- '[[_Standards/WikiData/WD~Samsung_C&T_Corporation,499194]]'
+- '[[_Standards/WikiData/WD~Besix,2749540]]'
+- '[[_Standards/WikiData/WD~Arabtec,4783497]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
-  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303]]'
 inspired_by: '[[_Standards/WikiData/WD~Great_Mosque_of_Samarra,593115]]'
 structural_engineer: '[[_Standards/WikiData/WD~William_F._Baker,834854]]'
 architectural_style:
-  - '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
-  - '[[_Standards/WikiData/WD~neo_futurism,17012219]]'
+- '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
+- '[[_Standards/WikiData/WD~neo_futurism,17012219]]'
 has_use:
-  - '[[_Standards/WikiData/WD~office_building,1021645]]'
-  - '[[_Standards/WikiData/WD~hotel,27686]]'
+- '[[_Standards/WikiData/WD~office_building,1021645]]'
+- '[[_Standards/WikiData/WD~hotel,27686]]'
 named_after: '[[_Standards/WikiData/WD~Khalifa_bin_Zayed_Al_Nahyan,1059948]]'
 developer: '[[_Standards/WikiData/WD~Emaar_Properties,1153463]]'
 owned_by: '[[_Standards/WikiData/WD~Emaar_Properties,1153463]]'
@@ -81,14 +153,191 @@ Instagram_username: burjkhalifa
 Facebook_username: BurjKhalifa
 X_Twitter_username: BurjKhalifa
 street_address:
-  - 1 بوليفارد الشيخ محمد بن راشد
-  - 1 Sheikh Mohammed bin Rashid Boulevard
+- 1 بوليفارد الشيخ محمد بن راشد
+- 1 Sheikh Mohammed bin Rashid Boulevard
 native_label: برج خليفة
 inception: 2010-01-01T00:00:00Z
 date_of_official_opening: 2010-01-04T00:00:00Z
 coordinate_location: Point(55.274166666 25.197222222)
+dv_has_:
+  name_:
+    af: Burj Khalifa
+    am: ቡርጅ ኻሊፋ
+    an: Burch Khalifa
+    ar: برج خليفة
+    arz: برج خليفه
+    as: বুৰ্জ খালিফা
+    ast: Burj Khalifa
+    az: Bürc Xəlifə
+    azb: بورج خلیفه
+    ba: Бурдж-Хәлифә
+    ban: Burj Khalifa
+    bar: Burj Khalifa
+    bcl: Burj Khalifa
+    be: Бурдж-Халіфа
+    be-tarask: Бурдж Халіфа
+    bg: Бурдж Халифа
+    bho: बुर्ज खलीफा
+    bn: বুর্জ খ়লিফ়া
+    br: Burj Khalifa
+    bs: Burj Khalifa
+    ca: Burj Khalifa
+    ckb: بورجی خەلیفە
+    co: Burj Khalifa
+    cs: Burdž Chalífa
+    cu: Боурджь Халифа
+    cy: Burj Khalifa
+    da: Burj Khalifa
+    de: Burj Khalifa
+    de-at: Burj Khalifa
+    de-ch: Burj Khalifa
+    el: Μπουρτζ Χαλίφα
+    en: Burj Khalifa
+    en-ca: Burj Khalifa
+    en-gb: Burj Khalifa
+    eo: Burĝ Ĥalifa
+    es: Burj Khalifa
+    et: Burj Khalīfah
+    eu: Burj Khalifa
+    fa: برج خلیفه
+    fi: Burj Khalifa
+    fo: Burj Khalifa
+    fr: Burj Khalifa
+    frp: Burj Khalifa
+    fur: Burj Khalifa
+    fy: Burj Khalifa
+    ga: Burj Khalifa
+    gd: Burj Khalifa
+    gl: Burj Khalifa
+    gn: Burj Khalifa
+    gsw: Burj Khalifa
+    gu: બુર્જ દુબઈ
+    gv: Burj Khalifa
+    ha: Burj Khalifa
+    hak: Khalīfa Thap
+    he: בורג' ח'ליפה
+    hi: बुर्ज ख़लीफ़ा
+    hif: Burj Dubai
+    hr: Burj Khalifa
+    hu: Burdzs Kalifa
+    hy: Բուրջ Խալիֆա
+    ia: Burj Khalifa
+    iba: Burj Khalifa
+    id: Menara Khalifa
+    ie: Burj Khalifa
+    io: Burj Khalifa
+    is: Burj Khalifa
+    it: Burj Khalifa
+    ja: ブルジュ・ハリーファ
+    jv: Burj Khalifa
+    ka: ბურჯ-ხალიფა
+    kab: Berǧ Xalifa
+    kbp: Burj Khalifa
+    kg: Burj Khalifa
+    kge: Burj Khalifa
+    kk: Бурж Халифа
+    km: ប៊ឺជ ខាលីហ្វា
+    kn: ಬುರ್ಜ್ ದುಬೈ
+    ko: 부르즈 할리파
+    ks: بُرٛج خلیفہ
+    ku: Birca Xelîfe
+    ku-latn: Birca Xalîfe
+    kw: Burj Khalifa
+    ky: Бурж Халифа
+    la: Turris Khalifa
+    lb: Burj Khalifa
+    lbe: Халифлул Бурж
+    li: Burj Khalifa
+    lij: Burj Khalifa
+    lmo: Burj Khalifa
+    lt: Burdž Chalifa
+    lv: Halīfa tornis
+    lzh: 哈里發塔
+    mad: Burj Khalifa
+    mai: बुर्ज खलिफा
+    mg: Burj Khalifa
+    min: Burj Khalifa
+    mk: Бурџ Халифа
+    ml: ബുർജ് ഖലീഫ
+    mn: Бурж Халифа
+    mr: बुर्ज खलिफा
+    ms: Burj Khalifa
+    mt: Burj Khalifa
+    my: ခါလီဖာ မိုးမျှော်တိုက်
+    nan: Burj Khalifa
+    nap: Burj Khalifa
+    nb: Burj Khalifa
+    nds: Burj Khalifa
+    nds-nl: Burj Khalifa
+    ne: बुर्ज खलिफा
+    nl: Burj Khalifa
+    nn: Burj Khalifa
+    nov: Burj Kalifa
+    nrm: Burj Khalifa
+    oc: Burj Khalifa
+    or: ବୁର୍ଜ ଖଲିଫା, ଦୁବାଇ
+    pa: ਬੁਰਜ ਖ਼ਲੀਫ਼ਾ
+    pcd: Burj Khalifa
+    pl: Burdż Chalifa
+    pms: Burj Khalifa
+    pnb: برج خلیفہ
+    ps: برج خلیفه
+    pt: Burj Khalifa
+    pt-br: Burj Khalifa
+    rm: Burj Khalifa
+    ro: Burj Khalifa
+    roa-tara: Burj Khalifa
+    ru: Бурдж-Халифа
+    sah: Бурдь Халифа
+    sat: ᱵᱩᱨᱡᱽ ᱠᱷᱚᱞᱤᱯᱷᱟ
+    sc: Burj Khalifa
+    scn: Burj Khalifa
+    sco: Burj Khalifa
+    sd: برج خليفہ
+    sgs: Burdž Kalėfa
+    sh: Burj Khalifa
+    si: බර්ජ් ඛලීෆා
+    sk: Burdž Chalífa
+    sl: Burj Kalifa
+    so: Burj Khalifa
+    sq: Burj Khalifa
+    sr: Burdž Kalifa
+    sr-el: Burj Khalifa
+    sv: Burj Khalifa
+    sw: Burj Khalifa
+    syl: ꠛꠥꠞ꠆ꠎ ꠈꠟꠤꠚꠣ
+    szl: Burj Khalifa
+    ta: புர்ஜ் கலிஃபா
+    te: బుర్జ్ దుబాయ్
+    tg: Бурҷи Халифа
+    th: บุรจญ์เคาะลีฟะฮ์
+    tl: Burj Khalifa
+    tok: tomo Pa Kulipa
+    tr: Burç Halife
+    tt: Burc Xälifä
+    ug: بۇرج دۇبەي
+    uk: Бурдж Халіфа
+    ur: برج خلیفہ
+    uz: Burj Dubay
+    vec: Burj Khalifa
+    vi: Burj Khalifa
+    vls: Burj Khalifa
+    vo: Burj Khalifa
+    vro: Burj Khalifa
+    wa: Burj Khalifa
+    war: Burj Khalifa
+    wo: Burj Khalifa
+    wuu: 哈利法塔
+    yi: בורדזש כאליפא
+    yue: 哈利法塔
+    zh: 哈利法塔
+    zh-cn: 哈利法塔
+    zh-hans: 哈利法塔
+    zh-hant: 哈里發塔
+    zh-hk: 哈里發塔
+    zh-tw: 哈里發塔
+    zu: Burj Khalifa
 ---
-
 # [[Burj_Khalifa]] 
 
 ![[../../../assets/Burj_Khalifa.png]] 

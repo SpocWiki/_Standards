@@ -1,14 +1,56 @@
 ---
 aliases:
-  - Giovanni_Boccaccio
-  - Giovanni Boccaccio
-  - Boccaccio
-  - Boccaccio,Giovanni
+- Boccaccio
+- Boccaccio,Giovanni
+- Boccacciu
+- Boccace
+- Boccachio
+- Boccaço
+- Bokkachcho Jovanni
+- Covanni Bokkacco
+- Cyaw-wan-ni.pow-cya-ciw
+- Džiovanis Bokačas
+- Džovanni Bokačo
+- Giovanni Boccaccio
+- Giovanni_Boccaccio
+- Giuvanni Boccacciu
+- Iohannes Boccacius
+- Βοκάκιος
+- Ђовани Бокачо
+- Џовани Бокачо
+- Боккаччо Жованни
+- Боккаччо, Джованни
+- Джавані Бакача
+- Джаваньні Бакачча
+- Джовани Бокачо
+- Джованні Боккаччо
+- Джованни Бокаччо
+- Джованни Боккаччо
+- Живони Бокачо
+- Ҷованни Боккаччо
+- Ջովաննի Բոկաչչո
+- ג'ובאני בוקאצ'ו
+- بوکاچیو
+- جووانی بوکاچیو
+- جيوفانى بوكاتشيو
+- جيوفاني بوكاتشيو
+- جیۆڤانی بۆکاچیۆ
+- জোভান্নি বোক্কাচ্চো
+- ਜਿਓਵਾਨੀ ਬੋਕਾਸੀਓ
+- ജിയോവനി ബൊക്കാച്ചിയോ
+- โจวันนี บอกกัชโช
+- པོ་ཅ་ཆུའུ།
+- ჯოვანი ბოკაჩო
+- ジョヴァンニ・ボッカッチョ
+- 乔万尼·薄伽丘
+- 喬凡尼·薄伽丘
+- 薄伽丘
+- 조반니 보카치오
 has_id_wikidata: Q1402
 Provenio_UUID:
-  - dc6b0a1f-13df-46d8-b2c1-b1cfb0e42738
-  - 25bcc681-1b91-4704-91cc-62f84252a776
-  - 6cfa3d85-a9b5-45f9-a6e6-e65291bfa43c
+- dc6b0a1f-13df-46d8-b2c1-b1cfb0e42738
+- 25bcc681-1b91-4704-91cc-62f84252a776
+- 6cfa3d85-a9b5-45f9-a6e6-e65291bfa43c
 Wolfram_Language_entity_code: Entity["Concept", "Boccaccio::v6889"]
 Regensburg_Classification: FZ 18130
 Libris_URI: khwz0s83571h5w8
@@ -16,85 +58,204 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/BOKKACHCHO_DZHOVAN
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/46741
 Colon_Classification: O121,1H13
 name:
-  - messire Jean Boccace
-  - Boccace
+- messire Jean Boccace
+- Boccace
 date_of_death: 1375-12-29T00:00:00Z
 work_period_end_: 1373-01-01T00:00:00Z
 name_in_native_language: Giovanni Boccaccio
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boccaccio%20by%20Morghen.jpg
-ISNI: "0000000121018590"
-NLC_authorities: "000122747"
-P1015: "90060061"
+ISNI: 0000000121018590
+NLC_authorities: 000122747
+P1015: 90060061
 CYT_CCS:
-  - AC000077108
-  - AC000163848
+- AC000077108
+- AC000163848
 Europeana_entity: agent/base/60014
-place_of_death: "[[_Standards/WikiData/WD~Certaldo,82646]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-cause_of_death: "[[_Standards/WikiData/WD~edema,152234]]"
+place_of_death: '[[_Standards/WikiData/WD~Certaldo,82646]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+cause_of_death: '[[_Standards/WikiData/WD~edema,152234]]'
 occupation:
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~translator,333634]]"
-  - "[[_Standards/WikiData/WD~biographer,864380]]"
-  - "[[_Standards/WikiData/WD~short_story_writer,15949613]]"
-  - "[[_Standards/WikiData/WD~mythographer,24387326]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~biographer,864380]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~mythographer,24387326]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
-  - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Q131401229,131401229]]"
-student_of: "[[_Standards/WikiData/WD~Cino_da_Pistoia,736348]]"
-student: "[[_Standards/WikiData/WD~Benvenuto_Rambaldi_da_Imola,773623]]"
-given_name: "[[_Standards/WikiData/WD~Giovanni,1158906]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Q131401229,131401229]]'
+student_of: '[[_Standards/WikiData/WD~Cino_da_Pistoia,736348]]'
+student: '[[_Standards/WikiData/WD~Benvenuto_Rambaldi_da_Imola,773623]]'
+given_name: '[[_Standards/WikiData/WD~Giovanni,1158906]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~De_mulieribus_claris,1169267]]"
-  - "[[_Standards/WikiData/WD~Il_Filostrato,1402912]]"
-  - "[[_Standards/WikiData/WD~Amorosa_visione,3614628]]"
-  - "[[_Standards/WikiData/WD~Elegia_di_Madonna_Fiammetta,3721314]]"
-  - "[[_Standards/WikiData/WD~Genealogia_deorum_gentilium,3759459]]"
-  - "[[_Standards/WikiData/WD~Corbaccio,3792638]]"
-  - "[[_Standards/WikiData/WD~Teseida,3984953]]"
-  - "[[_Standards/WikiData/WD~De_casibus_virorum_illustrium,5244311]]"
-  - "[[_Standards/WikiData/WD~Trattatello_in_laude_di_Dante,16681040]]"
-  - "[[_Standards/WikiData/WD~La_caccia_di_Diana,19133975]]"
-  - "[[_Standards/WikiData/WD~De_montibus,20630337]]"
-  - "[[_Standards/WikiData/WD~Buccolicum_carmen,24036748]]"
-  - "[[_Standards/WikiData/WD~The_Decameron,16438]]"
-place_of_burial: "[[_Standards/WikiData/WD~Santi_Jacopo_e_Filippo,3668236]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Giovanni_Boccaccio,20316889]]"
-family_name: "[[_Standards/WikiData/WD~Boccaccio,37556862]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~De_mulieribus_claris,1169267]]'
+- '[[_Standards/WikiData/WD~Il_Filostrato,1402912]]'
+- '[[_Standards/WikiData/WD~Amorosa_visione,3614628]]'
+- '[[_Standards/WikiData/WD~Elegia_di_Madonna_Fiammetta,3721314]]'
+- '[[_Standards/WikiData/WD~Genealogia_deorum_gentilium,3759459]]'
+- '[[_Standards/WikiData/WD~Corbaccio,3792638]]'
+- '[[_Standards/WikiData/WD~Teseida,3984953]]'
+- '[[_Standards/WikiData/WD~De_casibus_virorum_illustrium,5244311]]'
+- '[[_Standards/WikiData/WD~Trattatello_in_laude_di_Dante,16681040]]'
+- '[[_Standards/WikiData/WD~La_caccia_di_Diana,19133975]]'
+- '[[_Standards/WikiData/WD~De_montibus,20630337]]'
+- '[[_Standards/WikiData/WD~Buccolicum_carmen,24036748]]'
+- '[[_Standards/WikiData/WD~The_Decameron,16438]]'
+place_of_burial: '[[_Standards/WikiData/WD~Santi_Jacopo_e_Filippo,3668236]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Giovanni_Boccaccio,20316889]]'
+family_name: '[[_Standards/WikiData/WD~Boccaccio,37556862]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 attested_in:
-  - "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
-  - "[[_Standards/WikiData/WD~Mare_Magnum._Etruria_(vol._95),118466009]]"
-depicted_by: "[[_Standards/WikiData/WD~Statue_of_Giovanni_Boccaccio,126182535]]"
+- '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
+- '[[_Standards/WikiData/WD~Mare_Magnum._Etruria_(vol._95),118466009]]'
+depicted_by: '[[_Standards/WikiData/WD~Statue_of_Giovanni_Boccaccio,126182535]]'
 work_period_start_: 1323-01-01T00:00:00Z
 date_of_birth: 1313-01-01T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~Italian,652]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
-native_language: "[[_Standards/WikiData/WD~Italian,652]]"
-significant_person: "[[_Standards/WikiData/WD~Petrarch,1401]]"
-place_of_birth: "[[_Standards/WikiData/WD~Florence,2044]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Italian,652]]'
+native_language: '[[_Standards/WikiData/WD~Italian,652]]'
+significant_person: '[[_Standards/WikiData/WD~Petrarch,1401]]'
+place_of_birth: '[[_Standards/WikiData/WD~Florence,2044]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_Creator_page: Giovanni Boccaccio
 Commons_gallery: Giovanni Boccaccio
 Commons_category: Giovanni Boccaccio
 BHCL_UUID: 100b27b4-af09-40f9-9a35-efe5a2d486ff
+dv_has_:
+  name_:
+    af: Giovanni Boccaccio
+    an: Giovanni Boccaccio
+    ar: جيوفاني بوكاتشيو
+    arz: جيوفانى بوكاتشيو
+    ast: Giovanni Boccaccio
+    az: Covanni Bokkacco
+    azb: جووانی بوکاچیو
+    ba: Джованни Боккаччо
+    be: Джавані Бакача
+    be-tarask: Джаваньні Бакачча
+    bg: Джовани Бокачо
+    bjn: Giovanni Boccaccio
+    bn: জোভান্নি বোক্কাচ্চো
+    bo: པོ་ཅ་ཆུའུ།
+    br: Giovanni Boccaccio
+    bs: Giovanni Boccaccio
+    bxr: Джованни Боккаччо
+    ca: Giovanni Boccaccio
+    cdo: Giovanni Boccaccio
+    ckb: جیۆڤانی بۆکاچیۆ
+    co: Boccacciu
+    cs: Giovanni Boccaccio
+    cv: Джованни Бокаччо
+    cy: Giovanni Boccaccio
+    da: Giovanni Boccaccio
+    de: Giovanni Boccaccio
+    de-ch: Giovanni Boccaccio
+    diq: Giovanni Boccaccio
+    el: Βοκάκιος
+    en: Giovanni Boccaccio
+    en-ca: Giovanni Boccaccio
+    en-gb: Giovanni Boccaccio
+    eo: Giovanni Boccaccio
+    es: Giovanni Boccaccio
+    et: Giovanni Boccaccio
+    eu: Giovanni Boccaccio
+    ext: Giovanni Boccaccio
+    fa: جووانی بوکاچیو
+    fi: Giovanni Boccaccio
+    fo: Giovanni Boccaccio
+    fr: Boccace
+    frp: Boccaço
+    ga: Giovanni Boccaccio
+    gl: Giovanni Boccaccio
+    gsw: Giovanni Boccaccio
+    ha: Giovanni Boccaccio
+    he: ג'ובאני בוקאצ'ו
+    hr: Giovanni Boccaccio
+    ht: Boccace
+    hu: Giovanni Boccaccio
+    hy: Ջովաննի Բոկաչչո
+    id: Giovanni Boccaccio
+    ie: Giovanni Boccaccio
+    io: Giovanni Boccaccio
+    is: Giovanni Boccaccio
+    it: Giovanni Boccaccio
+    ja: ジョヴァンニ・ボッカッチョ
+    jv: Giovanni Boccaccio
+    ka: ჯოვანი ბოკაჩო
+    kk: Джованни Боккаччо
+    ko: 조반니 보카치오
+    ku: Giovanni Boccaccio
+    ky: Боккаччо Жованни
+    la: Iohannes Boccacius
+    lij: Giovanni Boccaccio
+    lmo: Giovanni Boccaccio
+    lt: Džiovanis Bokačas
+    lv: Džovanni Bokačo
+    mg: Giovanni Boccaccio
+    mk: Џовани Бокачо
+    ml: ജിയോവനി ബൊക്കാച്ചിയോ
+    mn: Живони Бокачо
+    mrj: Боккаччо, Джованни
+    mt: Giovanni Boccaccio
+    mul: Giovanni Boccaccio
+    nan: Giovanni Boccaccio
+    nb: Giovanni Boccaccio
+    nds: Giovanni Boccaccio
+    nl: Giovanni Boccaccio
+    nn: Giovanni Boccaccio
+    oc: Giovanni Boccaccio
+    os: Боккаччо, Джованни
+    pa: ਜਿਓਵਾਨੀ ਬੋਕਾਸੀਓ
+    pam: Giovanni Boccaccio
+    pcd: Boccachio
+    pl: Giovanni Boccaccio
+    pms: Giovanni Boccaccio
+    pt: Giovanni Boccaccio
+    pt-br: Giovanni Boccaccio
+    qu: Giovanni Boccaccio
+    ro: Giovanni Boccaccio
+    ru: Джованни Боккаччо
+    scn: Giuvanni Boccacciu
+    sco: Giovanni Boccaccio
+    sh: Giovanni Boccaccio
+    sk: Giovanni Boccaccio
+    sl: Giovanni Boccaccio
+    sq: Giovanni Boccaccio
+    sr: Ђовани Бокачо
+    sv: Giovanni Boccaccio
+    szy: Cyaw-wan-ni.pow-cya-ciw
+    tg: Ҷованни Боккаччо
+    th: โจวันนี บอกกัชโช
+    tl: Giovanni Boccaccio
+    tr: Giovanni Boccaccio
+    uk: Джованні Боккаччо
+    ur: بوکاچیو
+    uz: Bokkachcho Jovanni
+    vec: Giovanni Boccaccio
+    vi: Giovanni Boccaccio
+    vls: Giovanni Boccaccio
+    war: Giovanni Boccaccio
+    wuu: 乔万尼·薄伽丘
+    xmf: ჯოვანი ბოკაჩო
+    yue: 薄伽丘
+    zh: 乔万尼·薄伽丘
+    zh-hant: 喬凡尼·薄伽丘
+    zh-tw: 喬凡尼·薄伽丘
 ---
-
 # [[Boccaccio,Giovanni]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Giovanni_Boccaccio,1402|WD~Giovanni_Boccaccio,1402]] 

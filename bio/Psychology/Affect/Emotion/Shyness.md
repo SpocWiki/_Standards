@@ -1,12 +1,65 @@
 ---
 aliases:
-  - Schüchternheit
-  - diffidence
-  - Shyness
+- Bleuens
+- blyghet
+- bojácnost
+- Cobardura
+- cúthaileacht
+- diffidence
+- Drovumas
+- félénkség
+- generthed
+- Herabetasun
+- Häbelikkus
+- Malu
+- Nhút nhát
+- Nieśmiałość
+- Pì-sù
+- Schüchternheit
+- Shyness
+- sinĝeno
+- sramežljivost
+- timeso
+- timidesa
+- timidez
+- timidezza
+- Timiditas
+- Timiditate
+- Timidite
+- timidité
+- Turpësia
+- ujous
+- Utancaqlıq
+- verlegenheid
+- Çekingenlik
+- Ντροπαλότητα
+- Вăтану
+- Застенчивость
+- Притеснителност
+- сарамлівасьць
+- сором'язливість
+- стидљивост
+- ամաչկոտություն
+- ביישנות
+- خجالت
+- خجل
+- شرمیلاپن
+- شەرمنی
+- लज्जा
+- লাজুকতা
+- ਸੰਗ
+- வெட்கம்
+- సిగ్గు
+- ನಾಚಿಕೆ
+- 人見知り
+- 害羞
+- 怕醜
+- 著羞
+- 수줍음
 has_id_wikidata: Q913668
 instance_of:
-  - '[[_Standards/WikiData/WD~disposition,1149305]]'
-  - '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[_Standards/WikiData/WD~disposition,1149305]]'
+- '[[_Standards/WikiData/WD~emotion,9415]]'
 has_characteristic: '[[_Standards/WikiData/WD~nervousness,1978097]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
@@ -18,11 +71,72 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Kaulbach%20D
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Shyness.ogg
 exact_match: http://purl.obolibrary.org/obo/HP_0100962
 UMLS_CUI:
-  - C0037020
-  - C0087092
+- C0037020
+- C0087092
 MeSH_tree_code: F01.145.813.617
+dv_has_:
+  name_:
+    ar: خجل
+    ast: Cobardura
+    az: Utancaqlıq
+    be-tarask: сарамлівасьць
+    bg: Притеснителност
+    bn: লাজুকতা
+    ca: timidesa
+    ckb: شەرمنی
+    cs: bojácnost
+    cv: Вăтану
+    da: generthed
+    de: Schüchternheit
+    el: Ντροπαλότητα
+    en: shyness
+    eo: sinĝeno
+    es: timidez
+    et: Häbelikkus
+    eu: Herabetasun
+    fa: خجالت
+    fi: ujous
+    fr: timidité
+    fy: Bleuens
+    ga: cúthaileacht
+    gan: 著羞
+    gl: Timidez
+    he: ביישנות
+    hi: लज्जा
+    hr: Sramežljivost
+    ht: Timidite
+    hu: félénkség
+    hy: ամաչկոտություն
+    io: timeso
+    it: timidezza
+    ja: 人見知り
+    kn: ನಾಚಿಕೆ
+    ko: 수줍음
+    la: Timiditas
+    lt: Drovumas
+    ms: Malu
+    nan: Pì-sù
+    nb: blyghet
+    nl: verlegenheid
+    pa: ਸੰਗ
+    pl: Nieśmiałość
+    pt: timidez
+    ro: Timiditate
+    ru: Застенчивость
+    sl: sramežljivost
+    sq: Turpësia
+    sr: стидљивост
+    sr-ec: стидљивост
+    sv: blyghet
+    ta: வெட்கம்
+    te: సిగ్గు
+    tr: Çekingenlik
+    uk: сором'язливість
+    ur: شرمیلاپن
+    vi: Nhút nhát
+    yue: 怕醜
+    zh: 害羞
 ---
-
 # [[Shyness]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Shyness,913668|WD~Shyness,913668]]    

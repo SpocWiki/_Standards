@@ -1,16 +1,61 @@
 ---
 aliases:
-  - Ленинизм
-  - Leninizm
-  - Leninismus
-  - Leninism
+- chủ nghĩa Lenin
+- Lenin-chú-gī
+- Leniniaeth
+- Leninism
+- leninisma
+- leninisme
+- leninismi
+- leninismm
+- Leninismo
+- leninismu
+- Leninismus
+- leninizem
+- Leninizm
+- leninizmas
+- leninizmus
+- lenjinizam
+- lenïnïzm
+- léninisme
+- ļeņinisms
+- Λενινισμός
+- лењинизам
+- ленінізм
+- Ленинизам
+- Ленинизм
+- ленинизъм
+- լենինիզմ
+- לניניזם
+- لنینیسم
+- لينينية
+- لينينيسمى
+- لينينيه
+- لیننزم
+- لینیت
+- لینینیزم
+- لێنینیزم
+- لەنىينىيزم
+- लेनिनवाद
+- লেনিনবাদ
+- ਲੈਨਿਨਵਾਦ
+- லெனினிசம்
+- ലെനിനിസം
+- ලෙනින්වාදය
+- ลัทธิเลนิน
+- ລັດທິ ເລນິນ
+- ლენინიზმი
+- レーニン主義
+- 列宁主义
+- 列寧主義
+- 레닌주의
 has_id_wikidata: Q155059
 instance_of:
-  - '[[_Standards/WikiData/WD~cult_of_personality,192914]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~cult_of_personality,192914]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
-  - '[[_Standards/WikiData/WD~Marxism_Leninism_Maoism,18127879]]'
+- '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
+- '[[_Standards/WikiData/WD~Marxism_Leninism_Maoism,18127879]]'
 opposite_of: '[[_Standards/WikiData/WD~anti_Leninism,4774228]]'
 practiced_by: '[[_Standards/WikiData/WD~leninist,96142223]]'
 has_cause: '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
@@ -19,8 +64,115 @@ founded_by: '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
 subclass_of: '[[_Standards/WikiData/WD~Marxism,7264]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pioneers%20pin%20rs.svg
 official_website: https://leninism.su
+dv_has_:
+  name_:
+    af: leninisme
+    an: leninismo
+    ar: لينينية
+    arz: لينينيه
+    ast: leninismu
+    az: leninizm
+    ba: ленинизм
+    be: ленінізм
+    be-tarask: ленінізм
+    bg: ленинизъм
+    bho: लेनिनवाद
+    bn: লেনিনবাদ
+    ca: leninisme
+    ceb: Leninismo
+    ckb: لێنینیزم
+    co: leninismu
+    cs: leninismus
+    cv: ленинизм
+    cy: Leniniaeth
+    da: leninisme
+    de: Leninismus
+    el: Λενινισμός
+    en: Leninism
+    eo: leninismo
+    es: leninismo
+    et: leninism
+    eu: leninismo
+    fa: لنینیسم
+    fi: leninismi
+    fr: léninisme
+    fy: leninisme
+    gl: leninismo
+    he: לניניזם
+    hi: लेनिनवाद
+    hr: lenjinizam
+    hu: leninizmus
+    hy: լենինիզմ
+    id: leninisme
+    io: Leninismo
+    it: leninismo
+    ja: レーニン主義
+    ka: ლენინიზმი
+    kk: Ленинизм
+    kk-arab: لەنىينىيزم
+    kk-cn: لەنىينىيزم
+    kk-cyrl: Ленинизм
+    kk-kz: Ленинизм
+    kk-latn: lenïnïzm
+    kk-tr: lenïnïzm
+    ko: 레닌주의
+    la: Leninismus
+    lmo: leninism
+    lo: ລັດທິ ເລນິນ
+    lt: leninizmas
+    lv: ļeņinisms
+    lzh: 列寧主義
+    mk: Ленинизам
+    ml: ലെനിനിസം
+    ms: Leninisme
+    ms-arab: لينينيسمى
+    nan: Lenin-chú-gī
+    nb: leninisme
+    ne: लेनिनवाद
+    nl: leninisme
+    nn: leninisme
+    oc: Leninisme
+    os: ленинизм
+    pa: ਲੈਨਿਨਵਾਦ
+    pl: leninizm
+    pnb: لیننزم
+    ps: لینینیزم
+    pt: leninismo
+    ro: leninism
+    ru: ленинизм
+    sco: leninism
+    se: leninisma
+    si: ලෙනින්වාදය
+    sk: leninizmus
+    sl: leninizem
+    smn: leninism
+    sms: leninismm
+    sr: лењинизам
+    sr-ec: Лењинизам
+    sr-el: lenjinizam
+    sv: leninism
+    ta: லெனினிசம்
+    th: ลัทธิเลนิน
+    tl: leninismo
+    tr: leninizm
+    tt: ленинизм
+    tt-cyrl: ленинизм
+    uk: ленінізм
+    ur: لینیت
+    vec: leninismo
+    vi: chủ nghĩa Lenin
+    war: Leninismo
+    wuu: 列寧主義
+    xmf: ლენინიზმი
+    yue: 列寧主義
+    zh: 列寧主義
+    zh-cn: 列宁主义
+    zh-hans: 列宁主义
+    zh-hant: 列寧主義
+    zh-hk: 列寧主義
+    zh-sg: 列宁主义
+    zh-tw: 列寧主義
 ---
-
 # [[Leninism]] 
 
 #is_/same_as :: [[WD~Leninism,155059]] 

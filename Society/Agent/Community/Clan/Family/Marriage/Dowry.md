@@ -1,28 +1,198 @@
 ---
 aliases:
-  - Mitgift
-  - Dowry
+- Argouroù
+- Bogadi
+- Breidsskat
+- bruidsschat
+- Cehiz
+- của hồi môn
+- da᷆rdà
+- dos
+- dot
+- dota
+- dote
+- doto
+- Dowry
+- Ezkonsari
+- Harta sesan
+- Heimanmundur
+- Hemgift
+- Kaasavara
+- kelengye
+- kraitis
+- kè-chng
+- Lacagta Meherka
+- līgavas pūrs
+- Mahari
+- medgift
+- Miraz
+- Mitgift
+- Myötäjäiset
+- Onyinye isi
+- posag
+- Sep
+- tirinsa
+- Tochradh
+- Ubad
+- Utstüür
+- veno
+- věno
+- zestre
+- çeyiz
+- δόσα
+- προίκα
+- Бирнә
+- Жасау
+- Зестра
+- Мираз
+- пасаг
+- придане
+- приданое
+- Энньэ
+- Օժիտ
+- נדוניה
+- الدهاز
+- المهر
+- جهیزیه
+- جہیز
+- جیازی
+- داج
+- चीतऩम्
+- दहेज
+- दहेज प्रथा
+- दाईजो
+- हुंडा
+- যৌতুক
+- દહેજ
+- ସ୍ତ୍ରୀଧନ
+- வரதட்சணை
+- వరకట్నం
+- സ്ത്രീധനം
+- สินสอด
+- ခန်းဝင်ပစ္စည်း
+- სათავნო
+- 嫁妆
+- 嫁妝
+- 嫁荷
+- 지참금
 has_id_wikidata: Q45803
 different_from:
-  - '[[_Standards/WikiData/WD~dower,351406]]'
-  - '[[_Standards/WikiData/WD~bride_price,765157]]'
+- '[[_Standards/WikiData/WD~dower,351406]]'
+- '[[_Standards/WikiData/WD~bride_price,765157]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~money,1368]]'
-  - '[[_Standards/WikiData/WD~goods,28877]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~goods,28877]]'
 facet_of: '[[_Standards/WikiData/WD~marriage,8445]]'
 OmegaWiki_Defined_Meaning: 5681
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wassilij%20Wladimirowitsch%20Pukirew%20001.jpg
 Iconclass_notation: 42D172
 Commons_category: Dowry
+dv_has_:
+  name_:
+    ak: tirinsa
+    anp: दहेज प्रथा
+    ar: المهر
+    ary: الدهاز
+    as: যৌতুক
+    az: Cehiz
+    ba: Бирнә
+    be: пасаг
+    be-tarask: пасаг
+    bg: Зестра
+    bn: যৌতুক
+    br: Argouroù
+    bs: Miraz
+    ca: dot
+    ckb: جیازی
+    cs: věno
+    da: Medgift
+    de: Mitgift
+    el: προίκα
+    en: dowry
+    en-us: dowry
+    eo: doto
+    es: dote
+    et: Kaasavara
+    eu: Ezkonsari
+    fa: جهیزیه
+    fi: Myötäjäiset
+    fr: dot
+    fy: Breidsskat
+    gd: Tochradh
+    gl: Dote
+    gu: દહેજ
+    he: נדוניה
+    hi: दहेज
+    hr: Miraz
+    hu: kelengye
+    hy: Օժիտ
+    id: Harta sesan
+    ig: Onyinye isi
+    is: Heimanmundur
+    it: dote
+    ja: 嫁荷
+    ka: სათავნო
+    kk: Жасау
+    kn: dowry
+    ko: 지참금
+    ks: داج
+    la: dos
+    lt: kraitis
+    lv: līgavas pūrs
+    mai: दहेज प्रथा
+    mcn: da᷆rdà
+    mk: Мираз
+    ml: സ്ത്രീധനം
+    mr: हुंडा
+    my: ခန်းဝင်ပစ္စည်း
+    nan: kè-chng
+    nb: medgift
+    nds: Utstüür
+    ne: दाईजो
+    new: चीतऩम्
+    nl: bruidsschat
+    nn: medgift
+    oc: Dot
+    or: ସ୍ତ୍ରୀଧନ
+    pa: Dowry
+    pl: posag
+    pnb: جہیز
+    pnt: δόσα
+    pt: dote
+    ro: zestre
+    ru: приданое
+    sa: Dowry
+    sah: Энньэ
+    sh: Miraz
+    sk: veno
+    sl: dota
+    so: Lacagta Meherka
+    sr: Мираз
+    sr-ec: мираз
+    sr-el: miraz
+    sv: Hemgift
+    sw: Mahari
+    ta: வரதட்சணை
+    te: వరకట్నం
+    th: สินสอด
+    tl: Ubad
+    tn: Bogadi
+    tr: çeyiz
+    uk: придане
+    ur: جہیز
+    uz: Sep
+    vi: của hồi môn
+    wuu: 嫁妆
+    yue: 嫁妝
+    zh: 嫁妆
 ---
-
 # [[Dowry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dowry,45803|WD~Dowry,45803]] 

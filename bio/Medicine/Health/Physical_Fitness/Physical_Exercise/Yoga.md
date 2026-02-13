@@ -1,51 +1,98 @@
 ---
 aliases:
-  - योग
-  - Joga
-  - Yoga
+- Ioga
+- Iòga
+- ióga
+- Joga
+- jogo
+- Jooga
+- jugum
+- jóga
+- nasin Joka
+- Yoga
+- Yogaa
+- yogë
+- Yoqa
+- Yuoga
+- γιόγκα
+- Ёга
+- Јога
+- Йог
+- Йога
+- Йоґа
+- Налжор
+- Եոկա
+- Յոգա
+- יאגא
+- יוגה
+- يوجا
+- يوڳا
+- یوقا
+- یوگا
+- یۆگا
+- योग
+- योगः
+- যোগ
+- ਯੋਗਾਸਣ
+- યોગ
+- ଯୋଗ
+- யோகாசனம்
+- యోగా
+- ಯೋಗ
+- യോഗ
+- යෝග
+- โยคะ
+- ཡོ་ག
+- ယောဂကျင့်စဉ်
+- იოგა
+- ᱭᱚᱜᱟ
+- ヨーガ
+- 瑜伽
+- 요가
+- "\U0001102C\U00011044\U00011015"
 has_id_wikidata: Q9350
 has_part_s_:
-  - '[[_Standards/WikiData/WD~meditation,108458]]'
-  - '[[_Standards/WikiData/WD~asana,466797]]'
-  - '[[_Standards/WikiData/WD~Pranayama,839496]]'
+- '[[_Standards/WikiData/WD~meditation,108458]]'
+- '[[_Standards/WikiData/WD~asana,466797]]'
+- '[[_Standards/WikiData/WD~Pranayama,839496]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_exercise,219067]]'
-  - '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
-  - '[[_Standards/WikiData/WD~mind_body_interventions,3527307]]'
+- '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+- '[[_Standards/WikiData/WD~spiritual_practice,2270606]]'
+- '[[_Standards/WikiData/WD~mind_body_interventions,3527307]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~yoga_instructor,2600526]]'
-  - '[[_Standards/WikiData/WD~yogi,2901587]]'
-  - '[[_Standards/WikiData/WD~yogini,3632935]]'
+- '[[_Standards/WikiData/WD~yoga_instructor,2600526]]'
+- '[[_Standards/WikiData/WD~yogi,2901587]]'
+- '[[_Standards/WikiData/WD~yogini,3632935]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Yoga,4022807]]'
-  - '[[_Standards/WikiData/WD~Ioga,4202614]]'
+- '[[_Standards/WikiData/WD~Yoga,4022807]]'
+- '[[_Standards/WikiData/WD~Ioga,4202614]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Spirituality,9078457]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Alternative_medicine,10464433]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Hinduism,10858467]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]'
-  - '[[_Standards/WikiData/WD~WikiProject_India,11037573]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Skepticism,11343063]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Health_and_fitness,15305001]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Nepal,15884983]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Hindu_philosophy,21830121]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Eastern_philosophy,21830610]]'
-  - '[[_Standards/WikiData/WD~Wikiproject_New_religious_movements,21830697]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Yoga,21831130]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_Spirituality,9078457]]'
+- '[[_Standards/WikiData/WD~WikiProject_Alternative_medicine,10464433]]'
+- '[[_Standards/WikiData/WD~WikiProject_Hinduism,10858467]]'
+- '[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]'
+- '[[_Standards/WikiData/WD~WikiProject_India,11037573]]'
+- '[[_Standards/WikiData/WD~WikiProject_Skepticism,11343063]]'
+- '[[_Standards/WikiData/WD~WikiProject_Health_and_fitness,15305001]]'
+- '[[_Standards/WikiData/WD~WikiProject_Nepal,15884983]]'
+- '[[_Standards/WikiData/WD~WikiProject_Hindu_philosophy,21830121]]'
+- '[[_Standards/WikiData/WD~WikiProject_Eastern_philosophy,21830610]]'
+- '[[_Standards/WikiData/WD~Wikiproject_New_religious_movements,21830697]]'
+- '[[_Standards/WikiData/WD~WikiProject_Yoga,21831130]]'
+- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_yoga,10297413]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Yoga,10815179]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Yoga,11098651]]'
 intangible_cultural_heritage_status:
-  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
-  - '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~National_List_for_Intangible_Cultural_Heritage_(ICH),113105924]]'
 country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
 part_of: '[[_Standards/WikiData/WD~intangible_cultural_heritage,59544]]'
 booru_tag: yoga
@@ -54,15 +101,15 @@ APA_Dictionary_of_Psychology_entry: yoga
 subreddit: yoga
 OmegaWiki_Defined_Meaning: 903451
 WordLift_URL:
-  - https://mahiyoga.com/mahi-yoga-blog/
-  - https://gyanyogbreath.com/
-  - https://www.hariomyogavidyaschool.com
-  - https://rishikeshyogkendra.com/
+- https://mahiyoga.com/mahi-yoga-blog/
+- https://gyanyogbreath.com/
+- https://www.hariomyogavidyaschool.com
+- https://rishikeshyogkendra.com/
 social_media_followers: 1499491
 Commons_category: Yoga
 Colon_Classification:
-  - R635
-  - Δ2
+- R635
+- Δ2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bharadwaja.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Yoga-160276.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Yoga%20banner%20Group%20yoga.jpg
@@ -70,18 +117,169 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Yoga%20p
 Stack_Exchange_tag: https://fitness.stackexchange.com/tags/yoga
 UMLS_CUI: C1883583
 MeSH_tree_code:
-  - E02.190.525.937
-  - E02.190.901.984
-  - E02.779.474.937
-  - K01.844.799.867
+- E02.190.525.937
+- E02.190.901.984
+- E02.779.474.937
+- K01.844.799.867
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/OGA.html
 Libris_URI: tr5769tc3d0d6rz
 PhilPapers_topic: www.mahiyoga.com
 Baidu_Tieba_name: 瑜伽
 OpenStreetMap_tag: sport=yoga
 Dewey_Decimal_Classification: 181.45
+dv_has_:
+  name_:
+    af: Joga
+    an: Yoga
+    ar: يوجا
+    arz: يوجا
+    as: যোগ
+    ast: Yoga
+    awa: योग
+    az: Yoqa
+    azb: یوقا
+    ba: Йога
+    ban: Yoga
+    bcl: Yoga
+    be: Ёга
+    be-tarask: ёга
+    bg: Йога
+    bho: योग
+    bm: Yoga
+    bn: যোগ
+    bo: ཡོ་ག
+    br: Yoga
+    bs: Joga
+    btm: Yoga
+    bxr: Налжор
+    ca: ioga
+    ce: Йога
+    ceb: yogë
+    ckb: یۆگا
+    crh: yoga
+    cs: jóga
+    cy: ioga
+    da: yoga
+    de: Yoga
+    ee: Yoga
+    el: γιόγκα
+    en: yoga
+    en-ca: Yoga
+    en-gb: yoga
+    eo: jogo
+    es: yoga
+    et: Jooga
+    eu: Yoga
+    fa: یوگا
+    fi: jooga
+    fr: yoga
+    ga: ióga
+    gl: ioga
+    gom: योग
+    gsw: Yoga
+    gu: યોગ
+    he: יוגה
+    hi: योग
+    hif: yoga
+    hr: Joga
+    ht: yoga
+    hu: jóga
+    hy: Յոգա
+    hyw: Եոկա
+    ia: Yoga
+    id: Yoga
+    ilo: Yoga
+    is: jóga
+    it: yoga
+    ja: ヨーガ
+    jam: Yuoga
+    jv: Yoga
+    ka: იოგა
+    kaa: Yoga
+    kbp: Yogaa
+    kea: ioga
+    kk: Йога
+    kn: ಯೋಗ
+    knc: Yoga
+    ko: 요가
+    krj: yogë
+    ks: یوگا
+    ky: Йога
+    la: jugum
+    lb: Yoga
+    lmo: Yoga
+    lt: joga
+    lv: joga
+    mai: योग
+    mk: Јога
+    ml: യോഗ
+    mn: Йог
+    mr: योग
+    ms: Yoga
+    mul: yoga
+    mwl: Ioga
+    my: ယောဂကျင့်စဉ်
+    nan: Yoga
+    nb: yoga
+    nds: Yoga
+    nds-nl: yoga
+    ne: योग
+    new: योग
+    nl: yoga
+    nn: yoga
+    oc: Iòga
+    or: ଯୋଗ
+    pa: ਯੋਗਾਸਣ
+    pap: yoga
+    pi: "\U0001102C\U00011044\U00011015"
+    pl: joga
+    pms: Yoga
+    pnb: یوگا
+    pt: ioga
+    qu: Yoga
+    rn: Yoga
+    ro: yoga
+    ru: йога
+    rue: Йоґа
+    rw: Yoga
+    sa: योगः
+    sah: Йога
+    sat: ᱭᱚᱜᱟ
+    sco: Yoga
+    sd: يوڳا
+    sgs: Joga
+    sh: Joga
+    si: යෝග
+    sk: joga
+    sl: joga
+    sq: Joga
+    sr: јога
+    sr-ec: јога
+    sr-el: joga
+    sv: yoga
+    sw: Yoga
+    ta: யோகாசனம்
+    tcy: ಯೋಗ
+    te: యోగా
+    tg: Йога
+    th: โยคะ
+    tl: Yoga
+    tok: nasin Joka
+    tr: yoga
+    tt: йога
+    udm: йога
+    uk: йоґа
+    ur: یوگا
+    uz: Yoga
+    vi: yoga
+    vro: Jooga
+    war: Yoga
+    wuu: 瑜伽
+    yi: יאגא
+    yue: 瑜伽
+    zh: 瑜伽
+    zh-cn: 瑜伽
 ---
-
 # [[Yoga]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Yoga,9350|WD~Yoga,9350]]  

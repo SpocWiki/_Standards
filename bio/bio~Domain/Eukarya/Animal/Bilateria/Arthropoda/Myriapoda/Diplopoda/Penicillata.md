@@ -1,8 +1,51 @@
 ---
 aliases:
-  - Penicillata
+- Jáálánii diʼilígíí
+- Penicillata
+- Penseldubbelfotingar
+- Polyxenida
+- Кистевики
+- مخصلة
+- フサヤスデ亜綱
+- 多毛马陆目
+- 毛馬陸目
+- 털보노래기목
 title: Polyxenida
 has_id_wikidata: Q6449719
+dv_has_:
+  name_:
+    ar: مخصلة
+    ast: Polyxenida
+    bg: Polyxenida
+    ca: Polyxenida
+    ceb: Polyxenida
+    de: Polyxenida
+    en: Polyxenida
+    es: Polyxenida
+    fi: Polyxenida
+    fr: Polyxenida
+    ga: Polyxenida
+    it: Polyxenida
+    ja: フサヤスデ亜綱
+    ko: 털보노래기목
+    la: Polyxenida
+    mul: Polyxenida
+    nl: Polyxenida
+    nv: Jáálánii diʼilígíí
+    pl: Polyxenida
+    pt: Polyxenida
+    ro: Polyxenida
+    ru: Кистевики
+    sq: Polyxenida
+    sv: Penseldubbelfotingar
+    tr: Polyxenida
+    uk: Polyxenida
+    vi: Polyxenida
+    war: Polyxenida
+    zh: 多毛马陆目
+    zh-cn: 多毛马陆目
+    zh-hans: 多毛马陆目
+    zh-tw: 毛馬陸目
 ---
 ## [[Penicillata]] 
 

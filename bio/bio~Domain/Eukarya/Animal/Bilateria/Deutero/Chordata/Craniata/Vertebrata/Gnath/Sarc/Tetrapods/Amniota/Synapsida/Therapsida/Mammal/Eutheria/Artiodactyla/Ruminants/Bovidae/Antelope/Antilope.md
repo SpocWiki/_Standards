@@ -1,8 +1,66 @@
 ---
 aliases:
-  - Antilope
+- Antilope
+- Antylopa
+- dùggà
+- putcoleem ke Antilope oxi
+- Антилопа
+- انتيلوب
+- شاخپیچها
+- ظبي
+- ஆண்டிலோப்
+- გარნა (გვარი)
+- 黑羚属
+- 黑羚屬
 title: Antilope cervicapra
 has_id_wikidata: Q1416078
+dv_has_:
+  name_:
+    an: Antilope
+    ar: ظبي
+    arz: انتيلوب
+    ast: Antilope
+    avk: putcoleem ke Antilope oxi
+    bg: Antilope
+    ca: Antilope
+    ceb: Antilope
+    da: antilope
+    de: Antilope
+    en: Antilope
+    eo: Antilope
+    es: Antilope
+    eu: Antilope
+    ext: Antilope
+    fa: شاخپیچها
+    fi: Antilope
+    fr: antilope
+    ga: Antilope
+    gl: Antilope
+    hu: Antilope
+    ia: Antilope
+    ie: Antilope
+    io: Antilope
+    it: Antilope
+    ka: გარნა (გვარი)
+    la: Antilope
+    mcn: dùggà
+    mul: Antilope
+    nl: Antilope
+    oc: Antilope
+    pl: Antylopa
+    pt: Antilope
+    pt-br: Antilope
+    ro: Antilope
+    ru: Antilope
+    sq: Antilope
+    ta: ஆண்டிலோப்
+    uk: Антилопа
+    vi: Antilope
+    vo: Antilope
+    war: Antilope
+    zh: 黑羚属
+    zh-cn: 黑羚属
+    zh-tw: 黑羚屬
 ---
 # [[Antilope]]
 ![[Antilope/antilope.jpg]]] 

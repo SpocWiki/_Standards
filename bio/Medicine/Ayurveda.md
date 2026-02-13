@@ -1,12 +1,57 @@
 ---
 aliases:
-  - Ayurveda
+- aiurveda
+- Ajurveda
+- Ajurvedo
+- Ajurveeda
+- Ajurvēda
+- Ajurweda
+- ayubbeda
+- ayubbedë
+- Ayurveda
+- Ayurweda
+- Ayurwéda
+- nasin misikeke Ajuweta
+- ájurvéda
+- Āyurveda
+- Αγιούρ Βέντα
+- Ајурведа
+- аюрведа
+- аюрвэда
+- Аюурвэд
+- איור ודה
+- آيرويد
+- آیور ویدک
+- آیورودا
+- آیوروید
+- آیورویدا
+- أيورفيدا
+- आयुर्वेद
+- आयुर्वेदः
+- আয়ুর্বেদ
+- আয়ুৰ্বেদ
+- ਆਯੁਰਵੇਦ
+- આયુર્વેદ
+- ଆୟୁର୍ବେଦ
+- ஆயுள்வேதம்
+- ఆయుర్వేదం
+- ಆಯುರ್ವೇದ
+- ആയുർവേദം
+- ආයුර්වේදය
+- อายุรเวท
+- ཚེ་ཡི་རིག་བྱེད།
+- အာယုဗ္ဗေဒ
+- აიურვედა
+- アーユルヴェーダ
+- 阿育吠陀
+- 아유르베다
+- "\U00011006\U0001102C\U0001103C\U00011029\U00011046\U00011029\U00011042\U00011024"
 has_id_wikidata: Q132325
 subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~crenotherapy,1727131]]'
-  - '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
-  - '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~crenotherapy,1727131]]'
+- '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
 part_of: '[[_Standards/WikiData/WD~traditional_Asian_medicine,3439913]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ayurveda,25976856]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Ayurveda,27115626]]'
@@ -18,12 +63,117 @@ Colon_Classification: LB
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ayurveda.jpg
 P8189: 987007560491105171
 MeSH_tree_code:
-  - E02.190.488.515
-  - I01.076.201.450.654.515
+- E02.190.488.515
+- I01.076.201.450.654.515
 Krugosvet_article: kultura_i_obrazovanie/religiya/AYURVEDA.html
 OpenStreetMap_tag_or_key: Tag:healthcare:speciality=ayurveda
+dv_has_:
+  name_:
+    af: Ayurveda
+    ar: أيورفيدا
+    as: আয়ুৰ্বেদ
+    ast: Ayurveda
+    awa: आयुर्वेद
+    az: Ayurveda
+    ba: Аюрведа
+    ban: Ayurwéda
+    bcl: Ayurveda
+    be-tarask: аюрвэда
+    bg: Аюрведа
+    bho: आयुर्वेद
+    bn: আয়ুর্বেদ
+    bo: ཚེ་ཡི་རིག་བྱེད།
+    ca: aiurveda
+    ceb: ayubbeda
+    cs: ájurvéda
+    da: Ayurveda
+    de: Ayurveda
+    dty: आयुर्वेद
+    el: Αγιούρ Βέντα
+    en: Ayurveda
+    en-gb: Ayurveda
+    eo: Ajurvedo
+    es: ayurveda
+    et: Ajurveeda
+    eu: ayurveda
+    fa: آیورودا
+    fi: ayurveda
+    fr: ayurveda
+    gl: Āyurveda
+    gom: Ayurveda
+    gom-deva: आयुर्वेद
+    gom-latn: Ayurveda
+    gu: આયુર્વેદ
+    he: איור ודה
+    hi: आयुर्वेद
+    hif: Ayurveda
+    hr: Ajurveda
+    hu: ájurvéda
+    id: Ayurweda
+    is: Ayurveda
+    it: ayurveda
+    ja: アーユルヴェーダ
+    ka: აიურვედა
+    kn: ಆಯುರ್ವೇದ
+    ko: 아유르베다
+    lt: Ajurveda
+    lv: Ajurvēda
+    mag: आयुर्वेद
+    mai: आयुर्वेद
+    mk: Ајурведа
+    ml: ആയുർവേദം
+    mn: Аюурвэд
+    mr: आयुर्वेद
+    ms: Ayurveda
+    mul: āyurveda
+    my: အာယုဗ္ဗေဒ
+    nb: ayurveda
+    ne: आयुर्वेद
+    new: आयुर्वेद
+    nl: ayurveda
+    oc: Ayurveda
+    or: ଆୟୁର୍ବେଦ
+    pa: ਆਯੁਰਵੇਦ
+    pi: "\U00011006\U0001102C\U0001103C\U00011029\U00011046\U00011029\U00011042\U00011024"
+    pl: Ajurweda
+    pnb: آیوروید
+    ps: آیورویدا
+    pt: ayurveda
+    ro: Ayurveda
+    ru: аюрведа
+    sa: आयुर्वेदः
+    scn: Ayurveda
+    sd: آيرويد
+    sh: Ајурведа
+    si: ආයුර්වේදය
+    sl: Ajurveda
+    sq: Ajurveda
+    sr: Ајурведа
+    sr-ec: Ајурведа
+    sr-el: Ajurveda
+    sv: Ayurveda
+    ta: ஆயுள்வேதம்
+    te: ఆయుర్వేదం
+    th: อายุรเวท
+    tl: ayubbedë
+    tok: nasin misikeke Ajuweta
+    tr: Ayurveda
+    tt: Аюрведа
+    uk: Аюрведа
+    ur: آیور ویدک
+    uz: Ayurveda
+    vi: Ayurveda
+    wuu: 阿育吠陀
+    xmf: აიურვედა
+    yue: 阿育吠陀
+    zh: 阿育吠陀
+    zh-cn: 阿育吠陀
+    zh-hans: 阿育吠陀
+    zh-hant: 阿育吠陀
+    zh-hk: 阿育吠陀
+    zh-sg: 阿育吠陀
+    zh-tw: 阿育吠陀
 ---
-
 # [[Ayurveda]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ayurveda,132325|WD~Ayurveda,132325]] 

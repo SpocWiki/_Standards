@@ -1,16 +1,41 @@
 ---
-has_time_started: 1997-10-10 
-location: [ 30.5217 , 50.4515 ] 
+has_time_started: 1997-10-10
+location:
+- 30.5217
+- 50.4515
 aliases:
-  - GUAM Organization for Democracy and Economic Development
-  - GUAM_Organization_for_Democracy_and_Economic_Development
+- Demokraziarako eta Garapen Ekonomikorako GUAM erakundea
+- GUAM
+- GUAM - Organização para a Democracia e o Desenvolvimento Econômico
+- GUAM Demokrasi ve Ekonomik Kalkınma Örgütü
+- GUAM Demokratiya va Iqtisodiy Rivojlanish Tashkiloti
+- GUAM Organisasi keur Démokrasi jeung Pamekaran Ékonomi
+- GUAM Organisasi untuk Demokrasi dan Pembangunan Ekonomi
+- GUAM Organization for Democracy and Economic Development
+- GUAM Organizzazione per la Democrazia e lo Sviluppo Economico
+- GUAM_Organization_for_Democracy_and_Economic_Development
+- Organizacija za demokracijo in gospodarski razvoj GUAM
+- Organizacija za demokraciju i ekonomski razvoj
+- Organizasion par ła Democrasia e el Desviłupamento Econòmego
+- Tổ chức GUAM vì Dân chủ và Phát triển Kinh tế
+- ГУАМ
+- ГУАМ (арганізацыя)
+- ՎՈւԱՄ
+- سازمان توسعه اقتصادی و دموکراسی گوآم
+- منظمة غوام للتطوير الديمقراطي والاقتصادي
+- სუამი
+- 古阿姆民主和經濟發展組織
+- 古阿姆民主和经济发展组织
+- 古阿姆集團
+- 古阿鱼组织
+- 민주주의와 경제 발전을 위한 구암 기구
 has_id_wikidata: Q326816
 instance_of:
-  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-  - '[[_Standards/WikiData/WD~military_alliance,1127126]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~military_alliance,1127126]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]'
-  - '[[_Standards/WikiData/WD~Guam,16635]]'
+- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]'
+- '[[_Standards/WikiData/WD~Guam,16635]]'
 general_secretary: '[[_Standards/WikiData/WD~Altay_Efendiyev,20556579]]'
 coordinate_location: Point(30.5217 50.4515)
 headquarters_locations: '[[_Standards/WikiData/WD~Kyiv,1899]]'
@@ -24,13 +49,68 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/GUAM%20logo.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/GUAM%20member%20states.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Guam%2C%20Kyiv.JPG
 official_website:
-  - https://guam-organization.org/
-  - https://guam-organization.org/en/
+- https://guam-organization.org/
+- https://guam-organization.org/en/
 ISNI: 0000000088107881
 X_Twitter_username: GUAMSecretariat
 Facebook_username: odedguam
+dv_has_:
+  name_:
+    ar: منظمة غوام للتطوير الديمقراطي والاقتصادي
+    ast: GUAM
+    az: GUAM
+    ba: ГУАМ
+    be: ГУАМ (арганізацыя)
+    be-tarask: ГУАМ
+    bg: ГУАМ
+    ca: GUAM
+    cs: GUAM
+    de: GUAM
+    en: GUAM Organization for Democracy and Economic Development
+    en-us: GUAM Organization for Democracy and Economic Development
+    eo: GUAM
+    es: GUAM
+    et: GUAM
+    eu: Demokraziarako eta Garapen Ekonomikorako GUAM erakundea
+    fa: سازمان توسعه اقتصادی و دموکراسی گوآم
+    fi: GUAM
+    fr: GUAM
+    gag: GUAM
+    hr: Organizacija za demokraciju i ekonomski razvoj
+    hu: GUAM
+    hy: ՎՈւԱՄ
+    id: GUAM Organisasi untuk Demokrasi dan Pembangunan Ekonomi
+    it: GUAM Organizzazione per la Democrazia e lo Sviluppo Economico
+    ja: GUAM
+    ka: სუამი
+    ko: 민주주의와 경제 발전을 위한 구암 기구
+    la: GUAM
+    lv: GUAM
+    nb: GUAM
+    nl: GUAM
+    nn: GUAM
+    os: ГУАМ
+    pl: GUAM
+    pt: GUAM - Organização para a Democracia e o Desenvolvimento Econômico
+    ro: GUAM
+    ru: ГУАМ
+    sk: GUAM
+    sl: Organizacija za demokracijo in gospodarski razvoj GUAM
+    sr: ГУАМ
+    su: GUAM Organisasi keur Démokrasi jeung Pamekaran Ékonomi
+    sv: GUAM
+    tr: GUAM Demokrasi ve Ekonomik Kalkınma Örgütü
+    uk: ГУАМ
+    uz: GUAM Demokratiya va Iqtisodiy Rivojlanish Tashkiloti
+    vec: Organizasion par ła Democrasia e el Desviłupamento Econòmego
+    vi: Tổ chức GUAM vì Dân chủ và Phát triển Kinh tế
+    wuu: 古阿鱼组织
+    yue: 古阿姆集團
+    zh: 古阿姆民主和经济发展组织
+    zh-hans: 古阿姆民主和经济发展组织
+    zh-hant: 古阿姆民主和經濟發展組織
+    zh-hk: 古阿姆民主和經濟發展組織
 ---
-
 # [[GUAM_Organization_for_Democracy_and_Economic_Development]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816|WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]] 

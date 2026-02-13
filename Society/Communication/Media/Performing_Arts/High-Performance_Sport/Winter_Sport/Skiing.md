@@ -1,27 +1,107 @@
 ---
 aliases:
+- Cepayauhmelahuaztli
+- Changʻi sporti
+- Chhu-seh
+- eski
+- esqui
+- esquí
+- hiihto
+- Ir cun skis
+- Iskî
+- Jì cun i schi
+- kayak
+- Khunu llust’aña
+- Lyngə fyrsənə vərzyš
+- lyžovanie
+- lyžování
+- narciarstwo
+- Nartatio
+- Rit'i chaki lluchk'aykachay
+- Schi
+- Schifoan
+- Schiifahre
+- sci
+- sciáil
+- Scīdfarung
+- sgïo
+- ski
+- skiado
+- skidsport
+- Skifahren
+- skiidrett
+- Skiin
+- skiing
+- skijanje
+- Skijimi
+- skisport
+- skiën
+- skíðaíþróttir
+- slidžių sportas
+- slēpošana
+- smučanje
+- sněhakowanje
+- Sukset
+- suusasport
+- síelés
+- trượt tuyết
+- Xizəksürmə
+- čuoigan
+- čuoigâm
+- čuõiggmõš
+- Ğızag
+- Σκι
+- Йĕлтĕр
+- Лижаронӣ
+- лижний спорт
+- Лыжа спорту
+- лыжны спорт
+- лыжный спорт
+- саңғы спорты
+- ски спорт
+- скијање
+- Соксспорт
+- Хайыһардааһын
+- чаңгы спорты
+- Шаңғы спорты
+- դահուկային սպորտ
+- סקי
+- اسکی
+- التزحلف
+- स्कीइंग
+- स्कीबाज़ी
+- हिमसंसर्पणक्रीडा
+- স্কিইং
+- பனிச்சறுக்கு
+- స్కీయింగ్
+- การเล่นสกี
+- གངས་ཤུད་
+- စကီးစီးခြင်း
+- スキー
+- 滑雪
+- 스키
 has_id_wikidata: Q130949
 uses:
-  - "[[_Standards/WikiData/WD~ski,172226]]"
-  - "[[_Standards/WikiData/WD~ski_pole,2292640]]"
-  - "[[_Standards/WikiData/WD~sliding,3108904]]"
+- '[[_Standards/WikiData/WD~ski,172226]]'
+- '[[_Standards/WikiData/WD~ski_pole,2292640]]'
+- '[[_Standards/WikiData/WD~sliding,3108904]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~winter_sport,204686]]"
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~recreational_sport,484937]]"
-  - "[[_Standards/WikiData/WD~skiing,12375604]]"
-practiced_by: "[[_Standards/WikiData/WD~skier,4270517]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Skiing,19754799]]"
+- '[[_Standards/WikiData/WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~recreational_sport,484937]]'
+- '[[_Standards/WikiData/WD~skiing,12375604]]'
+practiced_by: '[[_Standards/WikiData/WD~skier,4270517]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Skiing,19754799]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117749094,117749094]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117749094,117749094]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-IAB_code: "531"
-OmegaWiki_Defined_Meaning: "3429"
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+IAB_code: 531
+OmegaWiki_Defined_Meaning: 3429
 OpenStreetMap_key: ski
 social_media_followers: 1434448
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20skiing%20pictogram.svg
@@ -36,8 +116,121 @@ subreddit: skiing
 Commons_gallery: Skiing
 Commons_category: Skiing
 OpenStreetMap_tag: sport=skiing
+dv_has_:
+  name_:
+    af: Ski
+    an: Esquí
+    ang: Scīdfarung
+    ar: التزحلف
+    ast: Esquí
+    ay: Khunu llust’aña
+    az: Xizəksürmə
+    ba: саңғы спорты
+    bar: Schifoan
+    be: лыжны спорт
+    be-tarask: лыжны спорт
+    bg: ски спорт
+    bn: স্কিইং
+    bo: གངས་ཤུད་
+    br: Ski
+    bs: skijanje
+    ca: esquí
+    cs: lyžování
+    cv: Йĕлтĕр
+    cy: sgïo
+    da: skisport
+    de: Skifahren
+    de-ch: Skifahren
+    diq: Ğızag
+    el: Σκι
+    en: skiing
+    en-ca: Skiing
+    en-gb: skiing
+    eo: skiado
+    es: esquí
+    et: suusasport
+    eu: eski
+    fa: اسکی
+    fi: hiihto
+    fr: ski
+    fur: Schi
+    ga: sciáil
+    gl: esquí
+    gsw: Schiifahre
+    he: סקי
+    hi: स्कीबाज़ी
+    hr: skijanje
+    hsb: sněhakowanje
+    hu: síelés
+    hy: դահուկային սպորտ
+    id: ski
+    is: skíðaíþróttir
+    it: sci
+    ja: スキー
+    kbp: Ski
+    kk: Шаңғы спорты
+    ko: 스키
+    ku: Iskî
+    ky: Лыжа спорту
+    la: Nartatio
+    lld: Jì cun i schi
+    lt: slidžių sportas
+    lv: slēpošana
+    mk: скијање
+    mr: स्कीइंग
+    ms: Ski
+    my: စကီးစီးခြင်း
+    myv: Соксспорт
+    nah: Cepayauhmelahuaztli
+    nan: Chhu-seh
+    nb: skiidrett
+    nl: skiën
+    oc: Esquí
+    olo: Sukset
+    pl: narciarstwo
+    pt: esqui
+    pt-br: esqui
+    qu: Rit'i chaki lluchk'aykachay
+    rm: Ir cun skis
+    ro: schi
+    ru: лыжный спорт
+    sa: हिमसंसर्पणक्रीडा
+    sah: Хайыһардааһын
+    scn: Sci
+    sco: Skiin
+    se: čuoigan
+    sh: skijanje
+    sk: lyžovanie
+    sl: smučanje
+    smn: čuoigâm
+    sms: čuõiggmõš
+    sq: Skijimi
+    sr: скијање
+    sr-ec: скијање
+    sr-el: skijanje
+    sv: skidsport
+    ta: பனிச்சறுக்கு
+    te: స్కీయింగ్
+    tg: Лижаронӣ
+    th: การเล่นสกี
+    tly: Lyngə fyrsənə vərzyš
+    tr: kayak
+    tt: чаңгы спорты
+    tt-cyrl: чаңгы спорты
+    uk: лижний спорт
+    uz: Changʻi sporti
+    vec: sci
+    vi: trượt tuyết
+    wuu: 滑雪
+    yue: 滑雪
+    zh: 滑雪
+    zh-cn: 滑雪
+    zh-hans: 滑雪
+    zh-hant: 滑雪
+    zh-hk: 滑雪
+    zh-sg: 滑雪
+    zh-tw: 滑雪
 ---
-
 # [[Skiing]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Skiing,130949|WD~Skiing,130949]]  

@@ -1,33 +1,125 @@
 ---
 aliases:
-  - Bergbau
-  - Mining
+- Balweyth
+- baníctvo
+- Bergbau
+- Biergbau
+- bányászat
+- Bärgbau
+- estrazione mineraria
+- exploitation minière
+- gruvdrift
+- gruvedrift
+- górnictwo
+- górnistwo
+- Hakar ma'adinai
+- igwu ala
+- IMayini
+- kaevandamine
+- kaivannaistoiminta
+- kalnakasyba
+- kalnrūpniecība
+- khai thác mỏ
+- Khòng-gia̍p
+- kon sanoati
+- kuáivuttâhtoimâ
+- kuåivâstuåimmjummuš
+- madencilik
+- Mainin
+- Meatzaritza
+- Menería
+- Mengleuz
+- Metalleutice
+- mianadóireacht
+- Mienboew
+- mijnbouw
+- Min (jizman)
+- minado
+- minaría
+- Mine
+- minedrift
+- mineração
+- mineria
+- minerit
+- minería
+- Miniera
+- minin
+- Mining
+- Mugodhi
+- mwyngloddio
+- Mynbou
+- mədən
+- Námavinnsla
+- Pagmimina
+- partambangan
+- Perlombongan
+- pertambangan
+- Qhuya
+- Rudarstvo
+- ruvkedoaibma
+- Tiŋgbani gbibu
+- těžba
+- Uchimbaji madini
+- Μεταλλευτική
+- гірнича справа
+- горная справа
+- горное дело
+- Добивна промишленост
+- рударство
+- тау эше
+- тоо-кен өнөр жайы
+- шахта
+- Հանքային գործ
+- כרייה
+- تامنجميت
+- تعدين
+- د کانونو استخراج
+- معدنکاری
+- کان کنی
+- उत्खनन
+- खनिकर्म
+- खानीज्या
+- খনন
+- ਖਾਣਕਾਰੀ
+- சுரங்கத் தொழில்
+- త్రవ్వకాలు(గనుల)
+- ಗಣಿಗಾರಿಕೆ
+- ഖനനം
+- การทำเหมืองแร่
+- သတ္တုတွင်းလုပ်ငန်း
+- მაღარო
+- ᎦᏙ ᎦᎴᏍᏗ
+- 採礦業
+- 採鉱
+- 礦業
+- 采矿业
+- 광업
 has_id_wikidata: Q44497
 has_part_s_:
-  - '[[_Standards/WikiData/WD~mineral_extraction,306093]]'
-  - '[[_Standards/WikiData/WD~mineral_processing,1995444]]'
+- '[[_Standards/WikiData/WD~mineral_extraction,306093]]'
+- '[[_Standards/WikiData/WD~mineral_processing,1995444]]'
 subclass_of: '[[_Standards/WikiData/WD~exploitation_of_natural_resources,548599]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~miner,820037]]'
-  - '[[_Standards/WikiData/WD~mining_engineer,18524075]]'
-  - '[[_Standards/WikiData/WD~mine_entrepreneur,26805550]]'
+- '[[_Standards/WikiData/WD~miner,820037]]'
+- '[[_Standards/WikiData/WD~mining_engineer,18524075]]'
+- '[[_Standards/WikiData/WD~mine_entrepreneur,26805550]]'
 uses:
-  - '[[_Standards/WikiData/WD~mining_engineering,1370637]]'
-  - '[[_Standards/WikiData/WD~mining_technology,15905645]]'
+- '[[_Standards/WikiData/WD~mining_engineering,1370637]]'
+- '[[_Standards/WikiData/WD~mining_technology,15905645]]'
 different_from: '[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]'
 is_part_of: '[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_mining,7112686]]'
 instance_of:
-  - '[[../../../WikiData/WD~economic_activity,8187769]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[../../../WikiData/WD~economic_activity,8187769]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_mining,12075242]]'
 by_product: '[[_Standards/WikiData/WD~mining_wastes,12093044]]'
 Basisklassifikation: 57
@@ -43,8 +135,120 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mining%20tourism
 MeSH_tree_code: J01.576.655.875.500
 IPTC_NewsCode: mediatopic/20000320
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GORNOE_DELO.html
+dv_has_:
+  name_:
+    af: mynbou
+    an: Menería
+    ar: تعدين
+    ary: تامنجميت
+    arz: تعدين
+    as: খনন
+    ast: minería
+    ay: Qhuya
+    az: mədən
+    ba: тау эше
+    be: Шахта
+    be-tarask: горная справа
+    bg: Добивна промишленост
+    bn: খনন
+    br: Mengleuz
+    bs: Rudarstvo
+    ca: mineria
+    chr: ᎦᏙ ᎦᎴᏍᏗ
+    cs: těžba
+    cy: mwyngloddio
+    da: minedrift
+    dag: Tiŋgbani gbibu
+    de: Bergbau
+    dsb: górnistwo
+    el: Μεταλλευτική
+    en: mining
+    eo: minado
+    es: minería
+    et: kaevandamine
+    eu: Meatzaritza
+    fa: معدنکاری
+    fi: kaivannaistoiminta
+    fr: exploitation minière
+    fy: Mynbou
+    ga: mianadóireacht
+    gcr: Min (jizman)
+    gl: minaría
+    gsw: Bärgbau
+    ha: Hakar ma'adinai
+    he: כרייה
+    hi: खनिकर्म
+    hr: Rudarstvo
+    hu: bányászat
+    hy: Հանքային գործ
+    id: pertambangan
+    ig: igwu ala
+    is: Námavinnsla
+    it: estrazione mineraria
+    ja: 採鉱
+    jam: Mainin
+    ka: მაღარო
+    kk: шахта
+    kn: ಗಣಿಗಾರಿಕೆ
+    ko: 광업
+    kw: Balweyth
+    ky: тоо-кен өнөр жайы
+    la: Metalleutice
+    lb: Biergbau
+    li: Mienboew
+    lt: kalnakasyba
+    lv: kalnrūpniecība
+    min: partambangan
+    mk: рударство
+    ml: ഖനനം
+    ms: Perlombongan
+    my: သတ္တုတွင်းလုပ်ငန်း
+    nan: Khòng-gia̍p
+    nb: gruvedrift
+    ne: उत्खनन
+    new: खानीज्या
+    nl: mijnbouw
+    nn: gruvedrift
+    pa: ਖਾਣਕਾਰੀ
+    pcd: Mine
+    pl: górnictwo
+    ps: د کانونو استخراج
+    pt: mineração
+    pt-br: mineração
+    qu: Qhuya
+    ro: minerit
+    ru: горное дело
+    sco: minin
+    se: ruvkedoaibma
+    sh: rudarstvo
+    sk: baníctvo
+    sl: rudarstvo
+    smn: kuáivuttâhtoimâ
+    sms: kuåivâstuåimmjummuš
+    sn: Mugodhi
+    sq: Miniera
+    sr: рударство
+    su: Pertambangan
+    sv: gruvdrift
+    sw: Uchimbaji madini
+    ta: சுரங்கத் தொழில்
+    te: త్రవ్వకాలు(గనుల)
+    th: การทำเหมืองแร่
+    tl: Pagmimina
+    tr: madencilik
+    tt: тау эше
+    uk: гірнича справа
+    ur: کان کنی
+    uz: kon sanoati
+    vi: khai thác mỏ
+    war: Pagmimina
+    wuu: 采矿业
+    xh: IMayini
+    yue: 礦業
+    zh: 采矿业
+    zh-hant: 採礦業
+    zh-tw: 採礦業
 ---
-
 # [[Mining]]  
 
 #is_/same_as :: [[WD~Mining,44497]] 

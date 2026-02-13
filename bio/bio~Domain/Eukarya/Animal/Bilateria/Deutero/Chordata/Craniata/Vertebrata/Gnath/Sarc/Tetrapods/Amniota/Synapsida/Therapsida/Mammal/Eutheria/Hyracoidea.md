@@ -1,8 +1,161 @@
 ---
 aliases:
-  - Hyracoidea
+- Daman
+- Damani
+- Damaniniai
+- Damanlar
+- damans
+- damany
+- Dassie
+- góralkowce
+- hioracsach
+- Hiracoidee
+- Hiracoideo
+- Hiracoideos
+- Hiraks
+- Hnubbar
+- Hyracoidea
+- Hyrax
+- Hyraxar
+- Imbila
+- klipdasachtigen
+- Klipdasse
+- Klippdassen
+- Klippegrevlinger
+- Klippegrævlinger
+- küüniskabjalised
+- Nokoldunol (Hyracoidea)
+- Nsibisi
+- Pečinarji
+- Pimbi
+- Procaviidae
+- prokaviuloj
+- Schliefer
+- Shą́ą́ʼnahalghałí
+- szirtiborz-alakúak
+- tamaanit
+- ύραξ
+- даман
+- даманвлӓ
+- Дамандар
+- дамани
+- даманнэз
+- даманоподібні
+- даманы
+- Майбасарлар
+- пештерници
+- Դամաններ
+- שפנאים
+- خرگوش کوهی
+- وبريات
+- پروكاۋىيە توشقىنى
+- ܚܓܣܐ
+- อันดับไฮแรกซ์
+- დამანები
+- イワダヌキ目
+- 蹄兔目
+- 바위너구리목
 title: Hyracoidea
 has_id_wikidata: Q53099
+dv_has_:
+  name_:
+    af: Dassie
+    an: Hyracoidea
+    ar: وبريات
+    arc: ܚܓܣܐ
+    arz: وبريات
+    ast: Procaviidae
+    avk: Nokoldunol (Hyracoidea)
+    az: Damanlar
+    ban: Hiraks
+    be: даманы
+    be-tarask: даман
+    bg: дамани
+    br: Daman
+    ca: damans
+    ceb: Hyracoidea
+    cs: damani
+    da: Klippegrævlinger
+    de: Schliefer
+    de-ch: Schliefer
+    el: ύραξ
+    en: Hyracoidea
+    en-ca: Hyrax
+    en-gb: hyrax
+    eo: prokaviuloj
+    es: Hyracoidea
+    et: küüniskabjalised
+    eu: Hyracoidea
+    ext: Hyracoidea
+    fa: خرگوش کوهی
+    fi: tamaanit
+    fr: Hyracoidea
+    frr: Procaviidae
+    ga: hioracsach
+    gl: Hiracoideos
+    he: שפנאים
+    hu: szirtiborz-alakúak
+    hy: Դամաններ
+    ia: Hyracoidea
+    id: imbila
+    ie: Hyracoidea
+    io: Hyracoidea
+    is: Hnubbar
+    it: Hyracoidea
+    ja: イワダヌキ目
+    ka: დამანები
+    kg: Nsibisi
+    kk: Майбасарлар
+    ko: 바위너구리목
+    koi: даманнэз
+    ky: Дамандар
+    la: Hyracoidea
+    lfn: Hiracoideo
+    li: Klipdasse
+    lij: Hyracoidea
+    lt: Damaniniai
+    lv: damani
+    mk: пештерници
+    mrj: даманвлӓ
+    ms: Hiraks
+    mt: Hyracoidea
+    mul: Hyracoidea
+    nb: Klippegrevlinger
+    nds: Klippdassen
+    nl: klipdasachtigen
+    nov: Hyracoidea
+    nv: Shą́ą́ʼnahalghałí
+    oc: Hyracoidea
+    pl: góralkowce
+    pt: hyracoidea
+    pt-br: Hyracoidea
+    ro: Hiracoidee
+    ru: даманы
+    sco: Hyrax
+    sh: Damani
+    sk: damany
+    sl: Pečinarji
+    sq: Hyracoidea
+    sr: Дамани
+    sv: Hyraxar
+    sw: Pimbi
+    th: อันดับไฮแรกซ์
+    tl: Hyracoidea
+    tr: Daman
+    ug: پروكاۋىيە توشقىنى
+    uk: даманоподібні
+    uz: Damanlar
+    vec: hyrax
+    vi: Hyracoidea
+    vo: Hyracoidea
+    war: Hyracoidea
+    wuu: 蹄兔目
+    xh: Imbila
+    yue: 蹄兔目
+    zh: 蹄兔目
+    zh-cn: 蹄兔目
+    zh-hans: 蹄兔目
+    zh-tw: 蹄兔目
 ---
 # Hyracoidea
 

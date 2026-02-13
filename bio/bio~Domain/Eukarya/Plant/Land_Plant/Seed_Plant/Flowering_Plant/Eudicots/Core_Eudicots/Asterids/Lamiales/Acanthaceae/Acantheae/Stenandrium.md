@@ -1,8 +1,52 @@
 ---
 aliases:
-  - Stenandrium
+- Stenandrium
+- стенандриум
+- ذات الخصلة الهلبية
+- ذات الخصلة الهلبيه
 title: Stenandrium Clade
 has_id_wikidata: Q629836
+dv_has_:
+  name_:
+    an: Stenandrium
+    ar: ذات الخصلة الهلبية
+    arz: ذات الخصلة الهلبيه
+    ast: Stenandrium
+    be: Stenandrium
+    bg: стенандриум
+    ca: Stenandrium
+    ceb: Stenandrium
+    de: Stenandrium
+    en: Stenandrium
+    eo: Stenandrium
+    es: Stenandrium
+    eu: Stenandrium
+    ext: Stenandrium
+    fi: Stenandrium
+    fr: Stenandrium
+    ga: Stenandrium
+    gl: Stenandrium
+    hr: Stenandrium
+    ia: Stenandrium
+    ie: Stenandrium
+    io: Stenandrium
+    it: Stenandrium
+    la: Stenandrium
+    mul: Stenandrium
+    nl: Stenandrium
+    oc: Stenandrium
+    pl: Stenandrium
+    pt: Stenandrium
+    pt-br: Stenandrium
+    ro: Stenandrium
+    ru: Стенандриум
+    sq: Stenandrium
+    sv: Stenandrium
+    tr: Stenandrium
+    uk: Stenandrium
+    vi: Stenandrium
+    vo: Stenandrium
+    war: Stenandrium
 ---
 ## Phylogeny 
 

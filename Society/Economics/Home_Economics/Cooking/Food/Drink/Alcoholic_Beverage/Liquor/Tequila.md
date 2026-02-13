@@ -1,7 +1,42 @@
 ---
-has_time_started: 1600-01-01 
+has_time_started: 1600-01-01
 aliases:
-  - Tequila
+- Tecila
+- Tekil
+- Tekila
+- tekilo
+- Tekíla
+- Tekïla
+- Tequila
+- Tequillān mexcalli
+- Τεκίλα
+- текіла
+- текила
+- Тэкіла
+- Թեքիլա
+- Տեկիլա
+- טקילה
+- تيكيلا
+- تکیلا
+- تێکیلا
+- تېكىلا
+- تەكىيلا
+- टकीला
+- टेकिला
+- তেকিলা
+- ਟਕੀਲਾ
+- டெக்கீலா
+- ಟಕಿಲಾ
+- ടെക്കീല
+- ටෙකීලා
+- เตกิลา
+- ტეკილა
+- តេគីឡា
+- テキーラ
+- 特基拿
+- 龍舌蘭酒
+- 龙舌兰酒
+- 테킬라
 has_id_wikidata: Q122195
 made_from_material: '[[_Standards/WikiData/WD~Agave_tequilana,311065]]'
 based_on: '[[_Standards/WikiData/WD~Mezcal,726413]]'
@@ -19,8 +54,108 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tequilas.JPG
 native_label: Tequila
 Amazon_com_browse_node: 15158372011
 OmegaWiki_Defined_Meaning: 490269
+dv_has_:
+  name_:
+    an: Tequila
+    ar: تيكيلا
+    arz: تيكيلا
+    ast: tequila
+    az: Tekila
+    be: Тэкіла
+    be-tarask: Тэкіла
+    bg: Текила
+    bn: তেকিলা
+    bs: Tekila
+    ca: tequila
+    ckb: تێکیلا
+    cs: tequila
+    cv: Текила
+    cy: Tecila
+    da: tequila
+    de: Tequila
+    diq: Tekila
+    el: Τεκίλα
+    en: tequila
+    en-ca: tequila
+    en-gb: tequila
+    eo: tekilo
+    es: tequila
+    et: tequila
+    eu: Tekila
+    fa: تکیلا
+    fi: tequila
+    fo: Tequila
+    fr: tequila
+    gl: Tequila
+    he: טקילה
+    hi: टकीला
+    hr: Tequila
+    hu: tequila
+    hy: Տեկիլա
+    hyw: Թեքիլա
+    id: Tequila
+    is: Tekíla
+    it: tequila
+    ja: テキーラ
+    jv: Tequila
+    ka: ტეკილა
+    kk: Текила
+    kk-arab: تەكىيلا
+    kk-cn: تەكىيلا
+    kk-cyrl: Текила
+    kk-kz: Текила
+    kk-latn: Tekïla
+    kk-tr: Tekïla
+    km: តេគីឡា
+    kn: ಟಕಿಲಾ
+    ko: 테킬라
+    lb: Tequila
+    lt: Tekila
+    lv: Tekila
+    mk: Текила
+    ml: ടെക്കീല
+    nah: Tequillān mexcalli
+    nb: tequila
+    ne: टेकिला
+    nl: tequila
+    nn: Tequila
+    oc: Tequila
+    pa: ਟਕੀਲਾ
+    pl: Tequila
+    pt: tequila
+    pt-br: Tequila
+    ro: Tequila
+    ru: текила
+    sco: tequila
+    se: tequila
+    sh: Tekila
+    si: ටෙකීලා
+    sl: Tequila
+    smn: tequila
+    sms: tequila
+    sq: Tekila
+    sr: Текила
+    sr-ec: Текила
+    sr-el: Tekila
+    sv: tequila
+    ta: டெக்கீலா
+    th: เตกิลา
+    tr: tekila
+    ug: تېكىلا
+    uk: текіла
+    vep: Tekil
+    vi: Tequila
+    wuu: 龙舌兰酒
+    xmf: ტეკილა
+    yue: 特基拿
+    zh: 龍舌蘭酒
+    zh-cn: 龙舌兰酒
+    zh-hans: 龙舌兰酒
+    zh-hant: 龍舌蘭酒
+    zh-hk: 龍舌蘭酒
+    zh-sg: 龙舌兰酒
+    zh-tw: 龍舌蘭酒
 ---
-
 # [[Tequila]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Tequila,122195|WD~Tequila,122195]]  

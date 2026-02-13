@@ -1,33 +1,164 @@
 ---
 aliases:
-  - Liberal arts education
-  - Liberal_Arts_Education
-  - Liberal Arts Education
+- arte libarałi
+- Arte liberale
+- Arte liberalen hezkuntza
+- Artes liberais
+- artes liberales
+- Artes lliberales
+- arti liberali
+- Arts liberalas
+- arts liberals
+- arts libéraux
+- Arz liberals
+- de fria konsterna
+- de frie kunstene
+- de frie kunster
+- Giáo dục khai phóng
+- hét szabad művészet
+- Liberal arts education
+- Liberal sənət təhsili
+- Liberal_Arts_Education
+- Mũthũngũcĩ
+- Sastera liberal
+- Sedam slobodnih umijeća
+- Sedam slobodnih veština
+- Sedem slobodných umení
+- sedem svobodnih ved
+- sedm svobodných umění
+- seni liberal
+- Sep arti libera
+- sep liberaj artoj
+- Septyni laisvieji menai
+- Shtatë artet e lira
+- Sieben freie Künste
+- Siedem sztuk wyzwolonych
+- Slobodne vještine
+- Vabad kunstid
+- Vapaat taidot
+- y celfyddydau breiniol
+- Yedi özgür sanat
+- Yetti erkin sanʼat
+- zeven vrije kunsten
+- ελευθέριες τέχνες
+- Вільні мистецтва
+- Ирĕклĕ çичĕ ӳнер
+- ирекле ете сәнғәт
+- Седам слободних вештина
+- Сем вольных мастацтваў
+- Семь свободных искусств
+- Слободны умѣня
+- Өнердің ерікті жеті саласы
+- Ազատ արվեստներ
+- שבע האמנויות החופשיות
+- علوم مقدماتی
+- فنون متحررة
+- ศิลปศาสตร์
+- შვიდი თავისუფალი ხელოვნება
+- リベラル・アーツ
+- 博雅
+- 博雅教育
+- 通识教育
+- 자유과
 has_id_wikidata: Q189329
 has_part_s_:
-  - '[[_Standards/WikiData/WD~trivium,205186]]'
-  - '[[_Standards/WikiData/WD~quadrivium,273822]]'
+- '[[_Standards/WikiData/WD~trivium,205186]]'
+- '[[_Standards/WikiData/WD~quadrivium,273822]]'
 subclass_of: '[[_Standards/WikiData/WD~curriculum,207137]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 depicted_by: '[[_Standards/WikiData/WD~Frieze_of_the_Liberal_and_Mechanical_Arts,3752977]]'
 different_from: '[[_Standards/WikiData/WD~Liberal_Arts,4137975]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~heptad,29441572]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~heptad,29441572]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~liberal_arts,13539073]]'
 Library_of_Congress_Classification: LC1001-LC1024
 Commons_gallery: Liberal arts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hortus%20Deliciarum%2C%20Die%20Philosophie%20mit%20den%20sieben%20freien%20K%C3%BCnsten.JPG
 Commons_category: Seven liberal arts
+dv_has_:
+  name_:
+    an: Arz liberals
+    ar: فنون متحررة
+    ast: Artes lliberales
+    az: Liberal sənət təhsili
+    ba: ирекле ете сәнғәт
+    be: Сем вольных мастацтваў
+    be-tarask: сем вольных мастацтваў
+    ca: arts liberals
+    cs: sedm svobodných umění
+    cv: Ирĕклĕ çичĕ ӳнер
+    cy: y celfyddydau breiniol
+    da: de frie kunster
+    de: Sieben freie Künste
+    el: ελευθέριες τέχνες
+    en: liberal arts education
+    en-gb: liberal arts education
+    eo: sep liberaj artoj
+    es: artes liberales
+    et: Vabad kunstid
+    eu: Arte liberalen hezkuntza
+    fa: علوم مقدماتی
+    fi: Vapaat taidot
+    fr: arts libéraux
+    fur: Artes liberales
+    gl: Artes liberais
+    he: שבע האמנויות החופשיות
+    hr: Sedam slobodnih umijeća
+    hu: hét szabad művészet
+    hy: Ազատ արվեստներ
+    id: seni liberal
+    io: Sep arti libera
+    it: arti liberali
+    ja: リベラル・アーツ
+    ka: შვიდი თავისუფალი ხელოვნება
+    ki: Mũthũngũcĩ
+    kk: Өнердің ерікті жеті саласы
+    ko: 자유과
+    la: Artes liberales
+    lt: Septyni laisvieji menai
+    lzh: 博雅
+    ms: Sastera liberal
+    nb: de frie kunstene
+    nl: zeven vrije kunsten
+    nn: Artes Liberales
+    oc: Arts liberalas
+    pl: Siedem sztuk wyzwolonych
+    pt: artes liberais
+    ro: Arte liberale
+    ru: Семь свободных искусств
+    rue: Слободны умѣня
+    sh: Slobodne vještine
+    sk: Sedem slobodných umení
+    sl: sedem svobodnih ved
+    sq: Shtatë artet e lira
+    sr: Седам слободних вештина
+    sr-ec: Седам слободних вештина
+    sr-el: Sedam slobodnih veština
+    sv: de fria konsterna
+    th: ศิลปศาสตร์
+    tr: Yedi özgür sanat
+    uk: Вільні мистецтва
+    uz: Yetti erkin sanʼat
+    vec: arte libarałi
+    vi: Giáo dục khai phóng
+    wuu: 通识教育
+    yue: 博雅教育
+    zh: 博雅教育
+    zh-cn: 博雅教育
+    zh-hans: 博雅教育
+    zh-hant: 博雅教育
+    zh-hk: 博雅教育
+    zh-sg: 博雅教育
+    zh-tw: 博雅教育
 ---
-
 # [[Liberal_Arts_Education]] 
 
 #is_/same_as :: [[WD~Liberal_arts_education,189329]] 

@@ -1,61 +1,95 @@
 ---
 aliases:
-  - 'Ravi Shankar (Bengali pronunciation: [ˈrobi ˈʃɔŋkor]; born Robindro Shaunkor Chowdhury, sometimes spelled as Rabindra Shankar Chowdhury'
-  - Ravi_Shankar
-  - Ravi Shankar
+- Ravi Shankar
+- 'Ravi Shankar (Bengali pronunciation: [ˈrobi ˈʃɔŋkor]; born Robindro Shaunkor Chowdhury, sometimes spelled as Rabindra Shankar Chowdhury'
+- Ravi Şankar
+- Ravi Šankar
+- Ravi Šankars
+- Ravi_Shankar
+- Ραβί Σανκάρ
+- Раві Шанкар
+- Рави Шанкар
+- Ռավի Շանկար
+- ראווי שנקר
+- رافى شانكار
+- رافي شانكار
+- راوی شانکار
+- روي شنکر
+- روی شنکر
+- पंडित रविशंकर
+- पण्डितः रविशङ्करः
+- रवि शंकर
+- रविशंकर
+- রবিশঙ্কর
+- ৰবি শংকৰ
+- ਰਵੀ ਸ਼ੰਕਰ
+- રવિ શંકર
+- ରବି ଶଙ୍କର
+- ரவி சங்கர்
+- రవి శంకర్
+- ಪಂಡಿತ್ ರವಿಶಂಕರ್
+- പണ്ഡിറ്റ് രവിശങ്കർ
+- රවි ශංකර්
+- รวี แชงการ์
+- რავი შანკარი
+- ラヴィ・シャンカル
+- 拉維·香卡
+- 拉維香卡
+- 拉维·香卡
+- 라비 샹카르
 has_id_wikidata: Q103774
 place_of_birth: '[[_Standards/WikiData/WD~Varanasi,79980]]'
 residence:
-  - '[[_Standards/WikiData/WD~Varanasi,79980]]'
-  - '[[_Standards/WikiData/WD~Encinitas,532711]]'
+- '[[_Standards/WikiData/WD~Varanasi,79980]]'
+- '[[_Standards/WikiData/WD~Encinitas,532711]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~sitarist,51679083]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~sitarist,51679083]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~British_Raj,129286]]'
-  - '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~British_Raj,129286]]'
+- '[[_Standards/WikiData/WD~India,668]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]'
-  - '[[_Standards/WikiData/WD~Apple_Records,213710]]'
-  - '[[_Standards/WikiData/WD~Pacific_Jazz_Records,1516254]]'
-  - '[[_Standards/WikiData/WD~Dark_Horse_Records,2663658]]'
-  - '[[_Standards/WikiData/WD~Manticore_Records,3844913]]'
-  - '[[_Standards/WikiData/WD~Private_Music,6318209]]'
-  - "[[_Standards/WikiData/WD~His_Master's_Voice,56762278]]"
+- '[[_Standards/WikiData/WD~Deutsche_Grammophon,168407]]'
+- '[[_Standards/WikiData/WD~Apple_Records,213710]]'
+- '[[_Standards/WikiData/WD~Pacific_Jazz_Records,1516254]]'
+- '[[_Standards/WikiData/WD~Dark_Horse_Records,2663658]]'
+- '[[_Standards/WikiData/WD~Manticore_Records,3844913]]'
+- '[[_Standards/WikiData/WD~Private_Music,6318209]]'
+- "[[_Standards/WikiData/WD~His_Master's_Voice,56762278]]"
 cause_of_death:
-  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
-  - '[[_Standards/WikiData/WD~respiratory_failure,767485]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~respiratory_failure,767485]]'
 instrument: '[[_Standards/WikiData/WD~sitar,229205]]'
 child:
-  - '[[_Standards/WikiData/WD~Anoushka_Shankar,259379]]'
-  - '[[_Standards/WikiData/WD~Norah_Jones,549981]]'
-  - '[[_Standards/WikiData/WD~Shubbo_Shankar,3482622]]'
+- '[[_Standards/WikiData/WD~Anoushka_Shankar,259379]]'
+- '[[_Standards/WikiData/WD~Norah_Jones,549981]]'
+- '[[_Standards/WikiData/WD~Shubbo_Shankar,3482622]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~Bharat_Ratna,322132]]'
-  - '[[_Standards/WikiData/WD~Padma_Vibhushan,672392]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Padma_Bhushan,932650]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284]]'
-  - '[[_Standards/WikiData/WD~Banga_Bibhushan,4854994]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Chamber_Music_Performance,5593757]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Global_Music_Album,5593905]]'
-  - '[[_Standards/WikiData/WD~Tagore_Award,7675309]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Sangeet_Natak_Akademi,64557822]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Bharat_Ratna,322132]]'
+- '[[_Standards/WikiData/WD~Padma_Vibhushan,672392]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Padma_Bhushan,932650]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Fukuoka_Asian_Culture_Prize,1323284]]'
+- '[[_Standards/WikiData/WD~Banga_Bibhushan,4854994]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Chamber_Music_Performance,5593757]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Global_Music_Album,5593905]]'
+- '[[_Standards/WikiData/WD~Tagore_Award,7675309]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Sangeet_Natak_Akademi,64557822]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Calcutta,96233293]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
 different_from: '[[_Standards/WikiData/WD~Gurudev_Sri_Sri_Ravi_Shankar,468374]]'
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
 genre:
-  - '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
-  - '[[_Standards/WikiData/WD~Hindustani_classical_music,1770695]]'
+- '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
+- '[[_Standards/WikiData/WD~Hindustani_classical_music,1770695]]'
 given_name: '[[_Standards/WikiData/WD~Ravi,2133692]]'
 discography: '[[_Standards/WikiData/WD~Ravi_Shankar_discography,2133702]]'
 spouse: '[[_Standards/WikiData/WD~Annapurna_Devi,2440940]]'
@@ -85,8 +119,111 @@ IPI_name_number: 00028482866
 Plex_person_key: 5d776856eb5d26001f1e6e16
 Europeana_entity: agent/base/60978
 Google_Doodle: pandit-ravi-shankars-96th-birthday
+dv_has_:
+  name_:
+    an: Ravi Shankar
+    ar: رافي شانكار
+    arz: رافى شانكار
+    as: ৰবি শংকৰ
+    ast: Ravi Shankar
+    az: Ravi Şankar
+    azb: راوی شانکار
+    ba: Рави Шанкар
+    be: Раві Шанкар
+    be-tarask: Раві Шанкар
+    bg: Рави Шанкар
+    bho: रविशंकर
+    bn: রবিশঙ্কর
+    ca: Ravi Shankar
+    cs: Ravi Šankar
+    cy: Ravi Shankar
+    da: Ravi Shankar
+    de: Ravi Shankar
+    dty: रवि शंकर
+    el: Ραβί Σανκάρ
+    en: Ravi Shankar
+    en-ca: Ravi Shankar
+    en-gb: Ravi Shankar
+    eo: Ravi Shankar
+    es: Ravi Shankar
+    et: Ravi Shankar
+    eu: Ravi Shankar
+    fa: راوی شانکار
+    fi: Ravi Shankar
+    fr: Ravi Shankar
+    fy: Ravi Shankar
+    ga: Ravi Shankar
+    gl: Ravi Shankar
+    gsw: Ravi Shankar
+    gu: રવિ શંકર
+    he: ראווי שנקר
+    hi: रवि शंकर
+    hif: Ravi Shankar
+    hr: Ravi Shankar
+    hu: Ravi Shankar
+    hy: Ռավի Շանկար
+    id: Ravi Shankar
+    ig: Ravi Shankar
+    io: Ravi Shankar
+    is: Ravi Shankar
+    it: Ravi Shankar
+    ja: ラヴィ・シャンカル
+    ka: რავი შანკარი
+    kk: Рави Шанкар
+    kn: ಪಂಡಿತ್ ರವಿಶಂಕರ್
+    ko: 라비 샹카르
+    lb: Ravi Shankar
+    lt: Ravi Shankar
+    lv: Ravi Šankars
+    mai: रवि शंकर
+    mg: Ravi Shankar
+    ml: പണ്ഡിറ്റ് രവിശങ്കർ
+    mr: पंडित रविशंकर
+    ms: Ravi Shankar
+    nb: Ravi Shankar
+    nds: Ravi Shankar
+    ne: रवि शंकर
+    nl: Ravi Shankar
+    nn: Ravi Shankar
+    oc: Ravi Shankar
+    olo: Ravi Shankar
+    or: ରବି ଶଙ୍କର
+    pa: ਰਵੀ ਸ਼ੰਕਰ
+    pam: Ravi Shankar
+    pl: Ravi Shankar
+    pnb: روی شنکر
+    ps: روي شنکر
+    pt: Ravi Shankar
+    pt-br: Ravi Shankar
+    ro: Ravi Shankar
+    ru: Рави Шанкар
+    sa: पण्डितः रविशङ्करः
+    sc: Ravi Shankar
+    sh: Ravi Shankar
+    si: රවි ශංකර්
+    sl: Ravi Shankar
+    sq: Ravi Shankar
+    sr: Ravi Šankar
+    sv: Ravi Shankar
+    ta: ரவி சங்கர்
+    te: రవి శంకర్
+    th: รวี แชงการ์
+    tr: Ravi Shankar
+    uk: Раві Шанкар
+    ur: روی شنکر
+    vi: Ravi Shankar
+    war: Ravi Shankar
+    wuu: 拉维·香卡
+    yo: Ravi Shankar
+    yue: 拉維香卡
+    zh: 拉维·香卡
+    zh-cn: 拉维·香卡
+    zh-hans: 拉维·香卡
+    zh-hant: 拉維·香卡
+    zh-hk: 拉維·香卡
+    zh-sg: 拉维·香卡
+    zh-tw: 拉維·香卡
 ---
-
 # [[Ravi_Shankar]] 
 
 #is_/same_as :: [[WD~Ravi_Shankar,103774]] 

@@ -1,20 +1,147 @@
 ---
 aliases:
+- dzimumdziņa
+- excitare sexuală
+- Ham muốn tình dục
+- Hamada saxaaxda
+- libido
+- libidó
+- libiido
+- lîbîdo
+- Lïbïdo
+- Thang'atũ
+- wile unpa
+- λίμπιντο
+- Лібіда
+- лібідо
+- Либидо
+- լիբիդո
+- ליבידא
+- ליבידו
+- جنسی رغبت
+- دافع جنسي
+- لىيبىيدو
+- ليبيدو
+- لیبیدو
+- لیبیدۆ
+- कामवासना
+- कामेच्छा
+- लिबिडो
+- লিবিডো
+- ਲਿਬਿਡੋ
+- ലൈംഗികാവേശം
+- ლიბიდო
+- リビドー
+- 性冲动
+- 性衝動
+- 리비도
 has_id_wikidata: Q178066
-subclass_of: "[[_Standards/WikiData/WD~wish,241625]]"
+subclass_of: '[[_Standards/WikiData/WD~wish,241625]]'
 different_from:
-  - "[[_Standards/WikiData/WD~play_drive,1301206]]"
-  - "[[_Standards/WikiData/WD~Prey_drive,7242468]]"
-facet_of: "[[_Standards/WikiData/WD~drive_theory,11009445]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+- '[[_Standards/WikiData/WD~play_drive,1301206]]'
+- '[[_Standards/WikiData/WD~Prey_drive,7242468]]'
+facet_of: '[[_Standards/WikiData/WD~drive_theory,11009445]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 Commons_category: Libido
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tods%C3%BCnden%20%28Goltzius%29%20G%200334%20III%20Libido.jpg
 UMLS_CUI:
-  - C0011124
-  - C0023618
+- C0011124
+- C0023618
 MeSH_tree_code: F02.739.794.511
+dv_has_:
+  name_:
+    ar: دافع جنسي
+    arz: ليبيدو
+    ast: Libido
+    az: Libido
+    bcl: Libido
+    be: Лібіда
+    be-tarask: лібіда
+    bg: Либидо
+    bn: লিবিডো
+    bs: Libido
+    ca: libido
+    cs: libido
+    da: libido
+    de: Libido
+    el: λίμπιντο
+    en: libido
+    eo: libido
+    es: libido
+    et: libiido
+    eu: libido
+    fa: لیبیدو
+    fi: libido
+    fr: libido
+    gl: libido
+    gsw: Libido
+    he: ליבידו
+    hi: कामवासना
+    hr: libido
+    hu: libidó
+    hy: լիբիդո
+    id: libido
+    it: libido
+    ja: リビドー
+    ka: ლიბიდო
+    ki: Thang'atũ
+    kk: Либидо
+    kk-arab: لىيبىيدو
+    kk-cn: لىيبىيدو
+    kk-cyrl: Либидо
+    kk-kz: Либидо
+    kk-latn: Lïbïdo
+    kk-tr: Lïbïdo
+    ko: 리비도
+    ku: lîbîdo
+    ku-arab: لیبیدۆ
+    ku-latn: lîbîdo
+    ky: Либидо
+    la: libido
+    lb: libido
+    lt: libido
+    lv: dzimumdziņa
+    ml: ലൈംഗികാവേശം
+    mr: कामेच्छा
+    ms: libido
+    nb: libido
+    ne: लिबिडो
+    nl: libido
+    nn: libido
+    pa: ਲਿਬਿਡੋ
+    pl: libido
+    pt: libido
+    ro: excitare sexuală
+    ru: Либидо
+    sah: Либидо
+    sc: libido
+    sh: libido
+    sk: libido
+    sl: libido
+    so: Hamada saxaaxda
+    sr: либидо
+    sr-ec: либидо
+    sr-el: Libido
+    sv: libido
+    sw: libido
+    tl: libido
+    tok: wile unpa
+    tr: libido
+    uk: лібідо
+    ur: جنسی رغبت
+    uz: libido
+    vi: Ham muốn tình dục
+    wuu: 性冲动
+    yi: ליבידא
+    yue: 性衝動
+    zh: 性冲动
+    zh-cn: 性冲动
+    zh-hans: 性冲动
+    zh-hant: 性衝動
+    zh-hk: 性衝動
+    zh-sg: 性冲动
+    zh-tw: 性衝動
 ---
-
 # [[Libido]] 
 
 #is_/same_as :: [[WD~Libido,178066]] 

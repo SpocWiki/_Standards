@@ -1,87 +1,126 @@
 ---
 aliases:
-  - Serena Jameka Williams
-  - Serena Williams
-  - Williams
-  - Serena_Williams
-  - Williams,Serena
+- Serena Jameka Williams
+- Serena Uilyams
+- Serena Viljamsa
+- Serena Williams
+- Serena Williamsová
+- Serena_Williams
+- Williams
+- Williams,Serena
+- Σερένα Ουίλιαμς
+- Серена Вільямс
+- Серена Вилијамс
+- Серена Виллиамс
+- Серена Вилямс
+- Серена Уильямс
+- Серина Уилямс
+- Серэна Уільямс
+- Сэрэна Ўільямз
+- Սերենա Ուիլյամս
+- סרינה ויליאמס
+- سرنا ویلیامز
+- سرينہ وليمز
+- سرینا ولیمز
+- سيرينا ويليامز
+- سیرینا ویلیامز
+- ߛߙߋߣߊ߫ ߥߟߌߦߊߡ
+- सेरेना विलियम्स
+- सेरेना विल्यम्स
+- ছেৰেনা উইলিয়ামছ
+- সেরেনা উইলিয়ামস
+- ਸੇਰੇਨਾ ਵਿਲੀਅਮਸ
+- ସେରେନା ଉଇଲିଅମସ
+- செரீனா வில்லியம்ஸ்
+- సెరెనా విలియమ్స్
+- ಸೆರೆನಾ ವಿಲಿಯಮ್ಸ್
+- സെറീന വില്യംസ്
+- සෙරීනා විලියම්ස්
+- เซเรนา วิลเลียมส์
+- სერენა უილიამსი
+- ᱥᱮᱨᱮᱱᱟ ᱣᱤᱞᱤᱭᱟᱢᱥ
+- セリーナ・ウィリアムズ
+- 塞雷娜·威廉姆斯
+- 塞雷納·威廉絲
+- 沙蓮娜威廉絲
+- 세리나 윌리엄스
 has_id_wikidata: Q11459
 educated_at:
-  - '[[_Standards/WikiData/WD~homeschooling,83602]]'
-  - '[[_Standards/WikiData/WD~The_Art_Institute_of_Fort_Lauderdale,7714375]]'
-  - '[[_Standards/WikiData/WD~Isenberg_School_of_Management,14715617]]'
+- '[[_Standards/WikiData/WD~homeschooling,83602]]'
+- '[[_Standards/WikiData/WD~The_Art_Institute_of_Fort_Lauderdale,7714375]]'
+- '[[_Standards/WikiData/WD~Isenberg_School_of_Management,14715617]]'
 residence:
-  - '[[_Standards/WikiData/WD~Compton,487119]]'
-  - '[[_Standards/WikiData/WD~Palm_Beach_Gardens,994159]]'
+- '[[_Standards/WikiData/WD~Compton,487119]]'
+- '[[_Standards/WikiData/WD~Palm_Beach_Gardens,994159]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportswoman_of_the_Year,1648927]]'
-  - '[[_Standards/WikiData/WD~Best_Breakthrough_Athlete_ESPY_Award,4896598]]'
-  - '[[_Standards/WikiData/WD~Best_Championship_Performance_ESPY_Award,4896605]]'
-  - '[[_Standards/WikiData/WD~Best_Female_Athlete_ESPY_Award,4896642]]'
-  - '[[_Standards/WikiData/WD~Best_Moment_ESPY_Award,4896742]]'
-  - '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportswoman_of_the_Year,1648927]]'
+- '[[_Standards/WikiData/WD~Best_Breakthrough_Athlete_ESPY_Award,4896598]]'
+- '[[_Standards/WikiData/WD~Best_Championship_Performance_ESPY_Award,4896605]]'
+- '[[_Standards/WikiData/WD~Best_Female_Athlete_ESPY_Award,4896642]]'
+- '[[_Standards/WikiData/WD~Best_Moment_ESPY_Award,4896742]]'
+- '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
 employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportswoman_of_the_Year,1648927]]'
-  - '[[_Standards/WikiData/WD~Best_Female_Athlete_ESPY_Award,4896642]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
-  - "[[_Standards/WikiData/WD~NAACP_Image_Award_President's_Award,6952077]]"
-  - '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportswoman_of_the_Year,1648927]]'
+- '[[_Standards/WikiData/WD~Best_Female_Athlete_ESPY_Award,4896642]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
+- "[[_Standards/WikiData/WD~NAACP_Image_Award_President's_Award,6952077]]"
+- '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Serena,854464]]'
-  - '[[_Standards/WikiData/WD~Jameka,105946041]]'
+- '[[_Standards/WikiData/WD~Serena,854464]]'
+- '[[_Standards/WikiData/WD~Jameka,105946041]]'
 part_of: '[[_Standards/WikiData/WD~Williams_sisters,1180052]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]'
-  - '[[_Standards/WikiData/WD~Washington_Kastles,4105531]]'
+- '[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]'
+- '[[_Standards/WikiData/WD~Washington_Kastles,4105531]]'
 family_name: '[[_Standards/WikiData/WD~Williams,1688722]]'
 hair_color: '[[_Standards/WikiData/WD~black_hair,1922956]]'
 father: '[[_Standards/WikiData/WD~Richard_A_Williams_Jr,1959913]]'
 head_coach:
-  - '[[_Standards/WikiData/WD~Richard_A_Williams_Jr,1959913]]'
-  - '[[_Standards/WikiData/WD~Oracene_Price,7099217]]'
-  - '[[_Standards/WikiData/WD~Patrick_Mouratoglou,7147264]]'
+- '[[_Standards/WikiData/WD~Richard_A_Williams_Jr,1959913]]'
+- '[[_Standards/WikiData/WD~Oracene_Price,7099217]]'
+- '[[_Standards/WikiData/WD~Patrick_Mouratoglou,7147264]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
-  - '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
+- '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 spouse: '[[_Standards/WikiData/WD~Alexis_Ohanian,4721504]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Alexis_Ohanian,4721504]]'
-  - '[[_Standards/WikiData/WD~Drake,33240]]'
+- '[[_Standards/WikiData/WD~Alexis_Ohanian,4721504]]'
+- '[[_Standards/WikiData/WD~Drake,33240]]'
 occupation:
-  - '[[_Standards/WikiData/WD~designer,5322166]]'
-  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~designer,5322166]]'
+- '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 mother: '[[_Standards/WikiData/WD~Oracene_Price,7099217]]'
 eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Serena_Williams,20364702]]'
 child: '[[_Standards/WikiData/WD~Alexis_Olympia_Ohanian,_Jr.,60664634]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
 family: '[[_Standards/WikiData/WD~Williams_family,106490169]]'
 place_of_birth: '[[_Standards/WikiData/WD~Saginaw,719]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 sibling: '[[_Standards/WikiData/WD~Venus_Williams,11578]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Venus_Williams,11578]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -91,13 +130,13 @@ ranking: 1
 mass: 72
 religion_or_worldview: "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
 height:
-  - 175
-  - 178
+- 175
+- 178
 competition_won: '[[_Standards/WikiData/WD~French_Open,43605]]'
 ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 social_media_followers:
-  - 72100
-  - 10675910
+- 72100
+- 10675910
 Commons_category: Serena Williams
 birth_name: Serena Jameka Williams
 work_period_start_: 1995-10-01T00:00:00Z
@@ -118,8 +157,150 @@ X_Twitter_username: serenawilliams
 Reddit_username: serenawilliams
 Facebook_username: SerenaWilliams
 YouTube_handle: SerenaWilliams
+dv_has_:
+  name_:
+    af: Serena Williams
+    an: Serena Williams
+    ar: سيرينا ويليامز
+    arz: سيرينا ويليامز
+    as: ছেৰেনা উইলিয়ামছ
+    ast: Serena Williams
+    az: Serena Uilyams
+    bar: Serena Williams
+    bcl: Serena Williams
+    be: Серэна Уільямс
+    be-tarask: Сэрэна Ўільямз
+    bg: Серина Уилямс
+    bho: सेरेना विलियम्स
+    bn: সেরেনা উইলিয়ামস
+    bs: Serena Williams
+    ca: Serena Williams
+    ceb: Serena Williams
+    ckb: سیرینا ویلیامز
+    co: Serena Williams
+    cs: Serena Williamsová
+    cy: Serena Williams
+    da: Serena Williams
+    dag: Serena Williams
+    de: Serena Williams
+    de-at: Serena Williams
+    de-ch: Serena Williams
+    diq: Serena Williams
+    dsb: Serena Williams
+    el: Σερένα Ουίλιαμς
+    eml: Serena Williams
+    en: Serena Williams
+    en-ca: Serena Williams
+    en-gb: Serena Williams
+    eo: Serena Williams
+    es: Serena Williams
+    et: Serena Williams
+    eu: Serena Williams
+    ext: Serena Williams
+    fa: سرنا ویلیامز
+    fi: Serena Williams
+    fo: Serena Williams
+    fr: Serena Williams
+    frr: Serena Williams
+    fy: Serena Williams
+    ga: Serena Williams
+    gaa: Serena Williams
+    gl: Serena Williams
+    gpe: Serena Williams
+    gsw: Serena Williams
+    ha: Serena Williams
+    he: סרינה ויליאמס
+    hi: सेरेना विलियम्स
+    hr: Serena Williams
+    hsb: Serena Williams
+    hu: Serena Williams
+    hy: Սերենա Ուիլյամս
+    ia: Serena Williams
+    id: Serena Williams
+    ig: Serena Williams
+    io: Serena Williams
+    is: Serena Williams
+    it: Serena Williams
+    ja: セリーナ・ウィリアムズ
+    jam: Serena Williams
+    jv: Serena Williams
+    ka: სერენა უილიამსი
+    kaa: Serena Uilyams
+    kk: Серена Уильямс
+    kl: Serena Williams
+    kn: ಸೆರೆನಾ ವಿಲಿಯಮ್ಸ್
+    ko: 세리나 윌리엄스
+    ku: Serena Williams
+    kw: Serena Williams
+    la: Serena Williams
+    lb: Serena Williams
+    lt: Serena Williams
+    lv: Serena Viljamsa
+    mai: सेरेना विलियम्स
+    min: Serena Williams
+    mk: Серена Вилијамс
+    ml: സെറീന വില്യംസ്
+    mn: Серена Виллиамс
+    mr: सेरेना विल्यम्स
+    ms: Serena Williams
+    mt: Serena Williams
+    mul: Serena Williams
+    nan: Serena Williams
+    nb: Serena Williams
+    nds: Serena Williams
+    ne: सेरेना विलियम्स
+    nl: Serena Williams
+    nn: Serena Williams
+    nqo: ߛߙߋߣߊ߫ ߥߟߌߦߊߡ
+    oc: Serena Williams
+    or: ସେରେନା ଉଇଲିଅମସ
+    pa: ਸੇਰੇਨਾ ਵਿਲੀਅਮਸ
+    pam: Serena Williams
+    pap: Serena Williams
+    pl: Serena Williams
+    pt: Serena Williams
+    pt-br: Serena Williams
+    rm: Serena Williams
+    ro: Serena Williams
+    ru: Серена Уильямс
+    sat: ᱥᱮᱨᱮᱱᱟ ᱣᱤᱞᱤᱭᱟᱢᱥ
+    sc: Serena Williams
+    scn: Serena Williams
+    sco: Serena Williams
+    sd: سرينہ وليمز
+    sh: Serena Williams
+    si: සෙරීනා විලියම්ස්
+    sk: Serena Williamsová
+    sl: Serena Williams
+    so: Serena Williams
+    sq: Serena Williams
+    sr: Серена Вилијамс
+    sv: Serena Williams
+    sw: Serena Williams
+    ta: செரீனா வில்லியம்ஸ்
+    te: సెరెనా విలియమ్స్
+    tg: Серена Вилямс
+    th: เซเรนา วิลเลียมส์
+    tl: Serena Williams
+    tn: Serena Williams
+    tr: Serena Williams
+    tw: Serena Williams
+    uk: Серена Вільямс
+    ur: سرینا ولیمز
+    uz: Serena Williams
+    vi: Serena Williams
+    vls: Serena Williams
+    vmf: Serena Williams
+    wa: Serena Williams
+    wuu: 塞雷娜·威廉姆斯
+    yo: Serena Williams
+    yue: 沙蓮娜威廉絲
+    zh: 塞雷娜·威廉姆斯
+    zh-cn: 塞雷娜·威廉姆斯
+    zh-hans: 塞雷娜·威廉姆斯
+    zh-hant: 塞雷納·威廉絲
+    zh-tw: 塞雷納·威廉絲
 ---
-
 # [[Williams,Serena]] 
 
 #is_/same_as :: [[WD~Serena_Williams,11459]] 

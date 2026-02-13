@@ -1,8 +1,66 @@
 ---
 aliases:
-  - Rhinophrynidae
+- Mexicaanse gravende padden
+- Nagyorrúbéka-félék
+- nosate krastače
+- Rhinophrynidae
+- Rinofrinedoj
+- Носаті жаби
+- Носатые жабы
+- רינופריניים
+- علاجيم أنفية
+- علاجيم انفيه
+- وزغهای کاوشگر
+- 异舌蟾科
+- 異舌蟾科
 title: Rhinophrynidae
 has_id_wikidata: Q3429460
+dv_has_:
+  name_:
+    an: Rhinophrynidae
+    ar: علاجيم أنفية
+    arz: علاجيم انفيه
+    ast: Rhinophrynidae
+    bg: Rhinophrynidae
+    ca: Rhinophrynidae
+    ceb: Rhinophrynidae
+    de: Rhinophrynidae
+    en: Rhinophrynidae
+    eo: Rinofrinedoj
+    es: Rhinophrynidae
+    eu: Rhinophrynidae
+    ext: Rhinophrynidae
+    fa: وزغهای کاوشگر
+    fi: Rhinophrynidae
+    fr: Rhinophrynidae
+    ga: Rhinophrynidae
+    gl: Rhinophrynidae
+    he: רינופריניים
+    hu: Nagyorrúbéka-félék
+    ia: Rhinophrynidae
+    ie: Rhinophrynidae
+    io: Rhinophrynidae
+    it: Rhinophrynidae
+    la: Rhinophrynidae
+    mul: Rhinophrynidae
+    nl: Mexicaanse gravende padden
+    oc: Rhinophrynidae
+    pl: Rhinophrynidae
+    pt: Rhinophrynidae
+    pt-br: Rhinophrynidae
+    ro: Rhinophrynidae
+    ru: Носатые жабы
+    sl: nosate krastače
+    sq: Rhinophrynidae
+    tr: Rhinophrynidae
+    uk: Носаті жаби
+    vi: Rhinophrynidae
+    vo: Rhinophrynidae
+    war: Rhinophrynidae
+    zh: 异舌蟾科
+    zh-cn: 异舌蟾科
+    zh-hans: 异舌蟾科
+    zh-tw: 異舌蟾科
 ---
 # [[Rhinophrynidae]] 
 

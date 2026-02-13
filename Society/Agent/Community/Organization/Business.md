@@ -1,11 +1,153 @@
 ---
 aliases:
-  - Business: ''
-  - Business
+- afacere
+- antroupriz
+- azienda
+- azụmahịa
+- a̱bwuang
+- bedrift
+- bedrijf
+- Bedriuw
+- besigheid
+- bhizimusi
+- biashara
+- Bisnis
+- bizinasii
+- biznes
+- biznis
+- bizniz
+- buisiness
+- Business
+- busnes
+- cayê kari
+- cumpagnìa
+- dagang
+- dellal
+- empresa
+- entrepreno
+- finnodat
+- finnodâh
+- firm
+- firme
+- fyrirtæki
+- företag
+- føretak
+- ganacsi
+- Geschäftsbetrib
+- Gewerbebetrieb
+- ginin daji
+- giyez
+- gnothachas
+- gnó
+- Gschäftsbetriib
+- handilsvirksemi
+- impresa
+- işletme
+- kanŋuuruat
+- karwerî
+- Khì-gia̍p
+- Khî-ngia̍p
+- kinh doanh
+- konmès
+- mabindzu
+- mosebetsi
+- müəssisə
+- negoci
+- negocio
+- negociu
+- negoshi
+- negosyo
+- negosyó
+- negotio
+- negotium
+- negozio
+- negozju
+- negys
+- negòci
+- negócio
+- oníṣẹ́ òwò
+- perniagaan
+- perusahaan bisnis
+- Pisinisi
+- podnik
+- poslovanje
+- poslovna družba
+- preduzeće
+- põõrǥâs
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- tamssntit
+- telekeçilik
+- umhwebo
+- uzņēmējdarbība
+- Varotra
+- verslas
+- virksomhed
+- wakina
+- yritys
+- äriettevõte
+- ñemuhã
+- Ünnernehmen
+- üzleti vállalkozás
+- ʻoihana
+- επιχείρηση
+- бізніс
+- бізнес
+- бізнэс
+- бизнес
+- бизнис
+- кәсіпорын
+- предузеће
+- претпријатие
+- ташкилоти тиҷоратӣ
+- ужбергатон
+- ширкати тиҷорӣ
+- առեւտրական ձեռնարկութիւն
+- բիզնես ձեռնարկություն
+- ביזנעס
+- עסק
+- ایش
+- بيزنيس
+- بيزينس
+- سوداگري
+- عمل تجاري
+- ڤرنياݢاءن
+- کاروبار
+- کاروباری ادارہ
+- کاسبی
+- کسبوکار
+- ڪاروبار
+- ܦܘܠܚܢܐ
+- ߖߎ߬ߟߊ߬ߦߊ
+- बनेज्या
+- व्यवसाय
+- व्यापार
+- ব্যবসা
+- ব্যৱসায়
+- ਕਾਰੋਬਾਰ
+- ବ୍ୟବସାୟ ଅନୁଷ୍ଠାନ
+- வணிக நிறுவனம்
+- వాణిజ్యశాస్త్రం
+- ವ್ಯಾಪಾರ
+- വ്യാപാരം
+- ව්යාපාර
+- องค์กรธุรกิจ
+- ທຸລະກິດ
+- ཚོང་ལས།
+- စီးပွားရေး
+- ၵၢၼ်ၵႃႉၶၢႆ
+- ბიზნესი
+- ᏗᎦᎸᏫᏍᏓᏁᏗ
+- ᱵᱮᱯᱟᱨ
+- 企业
+- 企業
+- 商業
+- 商號
+- ꯂꯂꯣꯟ ꯏꯇꯤꯛ
+- 사업
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -26,12 +168,187 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - Business: ''
-  - excalidraw
+- Business: ''
+- excalidraw
 title:
   Business: ''
 type: private_note
 has_id_wikidata: Q4830453
+dv_has_:
+  name_:
+    ady: Бизнес
+    af: besigheid
+    ar: عمل تجاري
+    arc: ܦܘܠܚܢܐ
+    ary: بيزنيس
+    arz: بيزينس
+    as: ব্যৱসায়
+    ast: negociu
+    az: müəssisə
+    azb: ایش
+    ba: бизнес
+    bcl: Negosyo
+    be: бізнес
+    be-tarask: бізнэс
+    bg: бизнес
+    bho: व्यापार
+    bn: ব্যবসা
+    bo: ཚོང་ལས།
+    br: firm
+    bs: preduzeće
+    ca: negoci
+    chr: ᏗᎦᎸᏫᏍᏓᏁᏗ
+    ckb: کاسبی
+    cs: podnik
+    cy: busnes
+    da: virksomhed
+    de: Gewerbebetrieb
+    diq: cayê kari
+    el: επιχείρηση
+    en: business
+    en-ca: business
+    en-gb: business
+    en-us: business
+    eo: entrepreno
+    es: negocio
+    et: äriettevõte
+    eu: negozio
+    fa: کسبوکار
+    fi: yritys
+    fo: handilsvirksemi
+    fr: firme
+    fy: Bedriuw
+    ga: gnó
+    gcr: antroupriz
+    gd: gnothachas
+    gl: negocio
+    gn: ñemuhã
+    gsw: Gschäftsbetriib
+    gv: dellal
+    ha: ginin daji
+    hak: Khî-ngia̍p
+    haw: ʻoihana
+    he: עסק
+    hi: व्यवसाय
+    hr: poslovanje
+    ht: konmès
+    hu: üzleti vállalkozás
+    hy: բիզնես ձեռնարկություն
+    hyw: առեւտրական ձեռնարկութիւն
+    ia: negotio
+    iba: dagang
+    id: perusahaan bisnis
+    ig: azụmahịa
+    ik: kanŋuuruat
+    is: fyrirtæki
+    it: impresa
+    ja: 企業
+    jam: bizniz
+    jv: bisnis
+    ka: ბიზნესი
+    kcg: a̱bwuang
+    kk: кәсіпорын
+    kn: ವ್ಯಾಪಾರ
+    ko: 사업
+    ku: karwerî
+    kw: negys
+    ky: бизнес
+    la: negotium
+    lb: Geschäftsbetrib
+    lo: ທຸລະກິດ
+    lt: verslas
+    lv: uzņēmējdarbība
+    lzh: 企業
+    mg: Varotra
+    mk: претпријатие
+    ml: വ്യാപാരം
+    mn: бизнес
+    mni: ꯂꯂꯣꯟ ꯏꯇꯤꯛ
+    mr: व्यवसाय
+    ms: perniagaan
+    ms-arab: ڤرنياݢاءن
+    mt: negozju
+    mwl: negócio
+    my: စီးပွားရေး
+    nan: Khì-gia̍p
+    nb: bedrift
+    nds: Ünnernehmen
+    ne: व्यापार
+    new: बनेज्या
+    nl: bedrijf
+    nn: føretak
+    nqo: ߖߎ߬ߟߊ߬ߦߊ
+    oc: negòci
+    om: bizinasii
+    or: ବ୍ୟବସାୟ ଅନୁଷ୍ଠାନ
+    os: бизнес
+    pa: ਕਾਰੋਬਾਰ
+    pap: negoshi
+    pl: biznes
+    pnb: کاروبار
+    ps: سوداگري
+    pt: empresa
+    pt-br: negócio
+    qu: wakina
+    ro: afacere
+    ru: бизнес
+    rue: бізніс
+    sa: व्यवसाय
+    sat: ᱵᱮᱯᱟᱨ
+    scn: cumpagnìa
+    sco: buisiness
+    sd: ڪاروبار
+    se: finnodat
+    sh: biznis
+    shi: tamssntit
+    shn: ၵၢၼ်ၵႃႉၶၢႆ
+    si: ව්යාපාර
+    sk: podnik
+    sl: poslovna družba
+    sm: Pisinisi
+    smn: finnodâh
+    sms: põõrǥâs
+    sn: bhizimusi
+    so: ganacsi
+    sq: biznes
+    sr: бизнис
+    sr-ec: предузеће
+    sr-el: preduzeće
+    st: mosebetsi
+    su: Bisnis
+    sv: företag
+    sw: biashara
+    ta: வணிக நிறுவனம்
+    te: వాణిజ్యశాస్త్రం
+    tg: ширкати тиҷорӣ
+    tg-cyrl: ташкилоти тиҷоратӣ
+    th: องค์กรธุรกิจ
+    tk: telekeçilik
+    tl: negosyo
+    tly: biznes
+    tr: işletme
+    ts: mabindzu
+    tt: бизнес
+    tt-cyrl: бизнес
+    udm: ужбергатон
+    uk: бізнес
+    ur: کاروباری ادارہ
+    uz: biznes
+    vec: azienda
+    vi: kinh doanh
+    war: negosyó
+    wuu: 企业
+    yi: ביזנעס
+    yo: oníṣẹ́ òwò
+    yue: 商業
+    za: giyez
+    zh: 企業
+    zh-cn: 企业
+    zh-hans: 企业
+    zh-hant: 企業
+    zh-hk: 企業
+    zh-tw: 商號
+    zu: umhwebo
 ---
 # [[Business]] 
 

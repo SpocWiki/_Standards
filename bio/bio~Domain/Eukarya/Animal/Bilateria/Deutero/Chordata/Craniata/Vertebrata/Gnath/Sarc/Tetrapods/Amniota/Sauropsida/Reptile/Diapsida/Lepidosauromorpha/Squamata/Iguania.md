@@ -1,8 +1,100 @@
 ---
 aliases:
-  - Iguania
+- Azyagur
+- Iguania
+- Iguanios
+- Iguanis
+- Iguānveidīgie
+- Leeguanoortagen
+- Leguaanachtigen
+- leguaanimaiset
+- Leguanartige
+- leguánalakúak
+- Leguány
+- Phân bộ Kỳ nhông
+- İquanalar
+- ігуаноподібні
+- Игуанæхуызтæ
+- Игуана ганьывлӓ
+- Игуанообразни
+- игуанообразные
+- իգուանաներ
+- דמויי איגואנה
+- إغوانيات
+- اغوانيات
+- ایگوآناسانان
+- ایگوانیا
+- इगुआनोमोर्फा
+- イグアナ下目
+- 端生齿鬣蜥亚目
+- 鬣蜥亞目
+- 이구아나류
 title: Iguania
 has_id_wikidata: Q661136
+dv_has_:
+  name_:
+    an: Iguania
+    ar: إغوانيات
+    arz: اغوانيات
+    ast: Iguania
+    az: İquanalar
+    bg: Игуанообразни
+    ca: Iguanis
+    ceb: Iguania
+    cs: Iguania
+    de: Leguanartige
+    el: Iguania
+    en: Iguania
+    eo: Iguania
+    es: Iguania
+    eu: Iguania
+    ext: Iguania
+    fa: ایگوآناسانان
+    fi: leguaanimaiset
+    fr: Iguania
+    frr: Leeguanoortagen
+    ga: Iguania
+    gl: Iguanios
+    he: דמויי איגואנה
+    hi: इगुआनोमोर्फा
+    hu: leguánalakúak
+    hy: իգուանաներ
+    ia: Iguania
+    id: Iguania
+    ie: Iguania
+    io: Iguania
+    it: Iguania
+    ja: イグアナ下目
+    kab: Azyagur
+    ko: 이구아나류
+    la: Iguania
+    lv: Iguānveidīgie
+    mrj: Игуана ганьывлӓ
+    mul: Iguania
+    nb: Iguania
+    nl: Leguaanachtigen
+    oc: Iguania
+    os: Игуанæхуызтæ
+    pl: Iguania
+    pnb: ایگوانیا
+    pt: Iguania
+    pt-br: Iguania
+    ro: Iguania
+    ru: игуанообразные
+    sk: Leguány
+    sl: Iguania
+    sq: Iguania
+    sr: Iguania
+    sv: Iguania
+    tr: Iguania
+    uk: ігуаноподібні
+    vi: Phân bộ Kỳ nhông
+    vo: Iguania
+    war: Iguania
+    zh: 端生齿鬣蜥亚目
+    zh-cn: 端生齿鬣蜥亚目
+    zh-hans: 端生齿鬣蜥亚目
+    zh-tw: 鬣蜥亞目
 ---
 # [[Iguania]] 
 

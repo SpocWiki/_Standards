@@ -1,30 +1,61 @@
 ---
 aliases:
-  - Vadim Nikolayevich Krasikov
-  - Wadim Nikolajewitsch Krassikow
-  - Tiergartenmörder
-  - Krasikov,Vadim
+- Krasikov,Vadim
+- Tiergartenmörder
+- Vadim Krasikov
+- Vadim Kràssikov
+- Vadim Nikolajevič Krasikov
+- Vadim Nikolayevich Krasikov
+- Wadim Krasikow
+- Wadim Nikolajewitsch Krassikow
+- Βαντίμ Κράσικοφ
+- Вадим Николаевич Красиков
+- Красіков Вадим Миколайович
+- Красиков, Вадим Николаевич
+- ヴァディム・クラシコフ
+- 瓦迪姆·柯拉希可夫
 dv_has_:
+  name_:
+    ca: Vadim Kràssikov
+    cs: Vadim Nikolajevič Krasikov
+    de: Wadim Nikolajewitsch Krassikow
+    el: Βαντίμ Κράσικοφ
+    en: Vadim Krasikov
+    eo: Vadim Krasikov
+    fr: Vadim Krasikov
+    ja: ヴァディム・クラシコフ
+    kk: Вадим Николаевич Красиков
+    nb: Vadim Krasikov
+    nl: Vadim Krasikov
+    pl: Wadim Krasikow
+    pt: Vadim Krasikov
+    pt-br: Vadim Krasikov
+    ru: Красиков, Вадим Николаевич
+    sk: Vadim Nikolajevič Krasikov
+    uk: Красіков Вадим Миколайович
+    zh: 瓦迪姆·柯拉希可夫
+    zh-hant: 瓦迪姆·柯拉希可夫
+    zh-tw: 瓦迪姆·柯拉希可夫
   time_:
     started: 1965-08-10T00:00:00.000+01:00
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]"
-    - "[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.public|Krasikov,Vadim.public]]"
-    - "[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.internal|Krasikov,Vadim.internal]]"
-    - "[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.protect|Krasikov,Vadim.protect]]"
-    - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private|Krasikov,Vadim.private]]"
-    - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal|Krasikov,Vadim.personal]]"
-    - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret|Krasikov,Vadim.secret]]"
+  - '[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]'
+  - '[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.public|Krasikov,Vadim.public]]'
+  - '[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.internal|Krasikov,Vadim.internal]]'
+  - '[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.protect|Krasikov,Vadim.protect]]'
+  - '[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private|Krasikov,Vadim.private]]'
+  - '[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal|Krasikov,Vadim.personal]]'
+  - '[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret|Krasikov,Vadim.secret]]'
 dv_has_time_started: 1965-08-10
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]"
-  - "[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.public|Krasikov,Vadim.public]]"
-  - "[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.internal|Krasikov,Vadim.internal]]"
-  - "[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.protect|Krasikov,Vadim.protect]]"
-  - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private|Krasikov,Vadim.private]]"
-  - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal|Krasikov,Vadim.personal]]"
-  - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret|Krasikov,Vadim.secret]]"
+- '[[/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]'
+- '[[/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.public|Krasikov,Vadim.public]]'
+- '[[/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.internal|Krasikov,Vadim.internal]]'
+- '[[/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.protect|Krasikov,Vadim.protect]]'
+- '[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private|Krasikov,Vadim.private]]'
+- '[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal|Krasikov,Vadim.personal]]'
+- '[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret|Krasikov,Vadim.secret]]'
 has_id_wikidata: Q109316727
 ---
 has_time_started = `=this.dv_has_time_started`

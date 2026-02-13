@@ -1,8 +1,55 @@
 ---
 has_id_wikidata: Q419501
+dv_has_:
+  name_:
+    ace: Akiyuki Nosaka
+    arz: اكيوكى نوساكا
+    ast: Akiyuki Nosaka
+    ca: Akiyuki Nosaka
+    cs: Akiyuki Nosaka
+    de: Akiyuki Nosaka
+    el: Ακιγιούκι Νοσάκα
+    en: Akiyuki Nosaka
+    es: Akiyuki Nosaka
+    fa: آکیوکی نوساکا
+    fi: Akiyuki Nosaka
+    fr: Akiyuki Nosaka
+    ga: Akiyuki Nosaka
+    gl: Akiyuki Nosaka
+    hu: Noszaka Akijuki
+    id: Akiyuki Nosaka
+    it: Akiyuki Nosaka
+    ja: 野坂昭如
+    jv: Akiyuki Nosaka
+    ka: აკიუკი ნოსაკა
+    ko: 노사카 아키유키
+    nl: Akiyuki Nosaka
+    pap: Akiyuki Nosaka
+    pl: Akiyuki Nosaka
+    pt: Akiyuki Nosaka
+    pt-br: Akiyuki Nosaka
+    ro: Akiyuki Nosaka
+    ru: Акиюки Носака
+    sq: AAkiyuki Nosaka
+    su: Akiyuki Nosaka
+    sv: Akiyuki Nosaka
+    th: อากิยูกิ โนซากะ
+    tr: Akiyuki Nosaka
+    yo: Akiyuki Nosaka
+    zh: 野坂昭如
+aliases:
+- AAkiyuki Nosaka
+- Akiyuki Nosaka
+- Noszaka Akijuki
+- Ακιγιούκι Νοσάκα
+- Акиюки Носака
+- آکیوکی نوساکا
+- اكيوكى نوساكا
+- อากิยูกิ โนซากะ
+- აკიუკი ნოსაკა
+- 野坂昭如
+- 노사카 아키유키
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Akiyuki Nosaka** (野坂 昭如, Nosaka Akiyuki, October 10, 1930 – December 9, 2015) 

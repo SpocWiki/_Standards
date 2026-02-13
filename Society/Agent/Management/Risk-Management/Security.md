@@ -1,33 +1,206 @@
 ---
 aliases:
+- an ninh
+- Befeiliging
+- beveiliging
+- bezpečnost
+- bezpečnosť
+- bezpieczeństwo
+- biztonság
+- Ewlekarî
+- güvenlik
+- julgeolek
+- Kaamanan
+- Keamanan
+- keselamatan
+- Pó-choân
+- saugumas
+- securitas
+- securitate (personală sau națională)
+- security
+- segurança
+- seguresa
+- seguretat
+- seguridad
+- seguridade
+- Seguridá
+- segurtasun
+- sekureco
+- Sicherheit
+- sicurezza
+- Siguria
+- sigurnost
+- sihkarvuohta
+- sikkerhed
+- sikkerheit
+- sikkerhet
+- slándáil
+- staanvuõtt
+- Surentez
+- säkerhet
+- sûreté
+- torvolâšvuotâ
+- tsaro
+- turvallisuus
+- təhlükəsizlik
+- Usalama
+- varnost
+- Veitaqomaki
+- wěstota
+- ètò àbò
+- ασφάλεια
+- абароненасьць
+- Амният
+- безбедност
+- безопасность
+- безпека
+- бяспека
+- именлек
+- куркынычсызлык
+- лӱдыкшыдымылык
+- Сигурност
+- אבטחה
+- זיכערהייט
+- أمن
+- ئاسایش
+- امنیت
+- سیکیوریٹی
+- सुरक्षा
+- सेफ्टी
+- নিরাপত্তা
+- ਸੁਰੱਖਿਆ
+- સુરક્ષા
+- ಭದ್ರತೆ
+- ความมั่นคง
+- უშიშროება
+- ᎤᎾᎦᏎᏍᏗᏕᎦ
+- 保安
+- 보안
 has_id_wikidata: Q2526135
 different_from:
-  - "[[_Standards/WikiData/WD~security,169489]]"
-  - "[[_Standards/WikiData/WD~safety,10566551]]"
+- '[[_Standards/WikiData/WD~security,169489]]'
+- '[[_Standards/WikiData/WD~safety,10566551]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~homeland_security,181467]]"
-  - "[[_Standards/WikiData/WD~information_security,189900]]"
-  - "[[_Standards/WikiData/WD~public_security,294240]]"
-  - "[[_Standards/WikiData/WD~economic_security,2497445]]"
-  - "[[_Standards/WikiData/WD~event_security,2780922]]"
-  - "[[_Standards/WikiData/WD~political_security,7225111]]"
+- '[[_Standards/WikiData/WD~homeland_security,181467]]'
+- '[[_Standards/WikiData/WD~information_security,189900]]'
+- '[[_Standards/WikiData/WD~public_security,294240]]'
+- '[[_Standards/WikiData/WD~economic_security,2497445]]'
+- '[[_Standards/WikiData/WD~event_security,2780922]]'
+- '[[_Standards/WikiData/WD~political_security,7225111]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~context,196626]]"
-  - "[[_Standards/WikiData/WD~protection,2251595]]"
-  - "[[_Standards/WikiData/WD~type_of_security,96264607]]"
-studied_by: "[[_Standards/WikiData/WD~security_engineering,365674]]"
-subclass_of: "[[_Standards/WikiData/WD~condition,813912]]"
-opposite_of: "[[_Standards/WikiData/WD~hazard,1132455]]"
-has_goal: "[[_Standards/WikiData/WD~safety,10566551]]"
-described_by_source: "[[_Standards/WikiData/WD~FILIT,11985944]]"
-practiced_by: "[[_Standards/WikiData/WD~security_consultant,28344461]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_property,96253971]]"
-OmegaWiki_Defined_Meaning: "3284"
+- '[[_Standards/WikiData/WD~context,196626]]'
+- '[[_Standards/WikiData/WD~protection,2251595]]'
+- '[[_Standards/WikiData/WD~type_of_security,96264607]]'
+studied_by: '[[_Standards/WikiData/WD~security_engineering,365674]]'
+subclass_of: '[[_Standards/WikiData/WD~condition,813912]]'
+opposite_of: '[[_Standards/WikiData/WD~hazard,1132455]]'
+has_goal: '[[_Standards/WikiData/WD~safety,10566551]]'
+described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944]]'
+practiced_by: '[[_Standards/WikiData/WD~security_consultant,28344461]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971]]'
+OmegaWiki_Defined_Meaning: 3284
 GitHub_topic: security
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flughafenkontrolle.jpg
 Stack_Exchange_tag: https://stackoverflow.com/tags/security
+dv_has_:
+  name_:
+    ar: أمن
+    ast: Seguridá
+    az: təhlükəsizlik
+    ba: именлек
+    be: бяспека
+    be-tarask: абароненасьць
+    bg: Сигурност
+    bn: নিরাপত্তা
+    br: Surentez
+    bs: Sigurnost
+    ca: seguretat
+    chr: ᎤᎾᎦᏎᏍᏗᏕᎦ
+    ckb: ئاسایش
+    cs: bezpečnost
+    da: sikkerhed
+    de: Sicherheit
+    de-ch: Sicherheit
+    el: ασφάλεια
+    en: security
+    en-ca: Security
+    en-gb: security
+    eo: sekureco
+    es: seguridad
+    et: julgeolek
+    eu: segurtasun
+    fa: امنیت
+    fi: turvallisuus
+    fj: Veitaqomaki
+    fr: sûreté
+    fy: Befeiliging
+    ga: slándáil
+    gl: seguridade
+    gu: સુરક્ષા
+    ha: tsaro
+    he: אבטחה
+    hi: सुरक्षा
+    hr: sigurnost
+    hsb: wěstota
+    hu: biztonság
+    id: Keamanan
+    it: sicurezza
+    ja: 保安
+    ka: უშიშროება
+    kn: ಭದ್ರತೆ
+    ko: 보안
+    ku: Ewlekarî
+    la: securitas
+    lt: saugumas
+    mhr: лӱдыкшыдымылык
+    mk: безбедност
+    mr: सेफ्टी
+    ms: keselamatan
+    nan: Pó-choân
+    nb: sikkerhet
+    nl: beveiliging
+    nn: sikkerheit
+    pa: ਸੁਰੱਖਿਆ
+    pl: bezpieczeństwo
+    pt: segurança
+    pt-br: segurança
+    ro: securitate (personală sau națională)
+    ru: безопасность
+    se: sihkarvuohta
+    sh: Sigurnost
+    sk: bezpečnosť
+    sl: varnost
+    smn: torvolâšvuotâ
+    sms: staanvuõtt
+    sq: Siguria
+    sr: безбедност
+    su: Kaamanan
+    sv: säkerhet
+    sw: Usalama
+    tg: Амният
+    th: ความมั่นคง
+    tl: Seguridad
+    tr: güvenlik
+    tt: куркынычсызлык
+    tt-cyrl: куркынычсызлык
+    uk: безпека
+    ur: سیکیوریٹی
+    vec: seguresa
+    vi: an ninh
+    wuu: 保安
+    yi: זיכערהייט
+    yo: ètò àbò
+    yue: 保安
+    zh: 保安
+    zh-cn: 保安
+    zh-hans: 保安
+    zh-hant: 保安
+    zh-hk: 保安
+    zh-mo: 保安
+    zh-my: 保安
+    zh-sg: 保安
+    zh-tw: 保安
 ---
-
 # [[Security]] 
 
 #is_/similar_to :: [[Safety]] 

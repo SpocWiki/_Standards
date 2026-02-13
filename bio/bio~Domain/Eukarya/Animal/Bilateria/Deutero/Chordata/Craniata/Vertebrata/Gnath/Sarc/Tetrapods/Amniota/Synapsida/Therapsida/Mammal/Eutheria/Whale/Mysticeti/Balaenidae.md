@@ -1,8 +1,119 @@
 ---
 aliases:
-  - Balaenidae
+- Balaenidae
+- Balea vasca
+- Baleia-franca
+- Balena franca
+- Balenedoj
+- balènids
+- Baléna
+- Echte walvissen
+- Gerçek balinagiller
+- gladki kiti
+- Glatki kitovi
+- Glattwale
+- Glotnieji banginiai
+- megoleem ke Balaenidae yasa
+- polāro vaļu dzimta
+- Rethvaler
+- Retthvaler
+- rettkvalfamilien
+- Rätvalar
+- Silevaallased
+- silovalaat
+- simabálnafélék
+- velrybovití
+- Veľrybovité
+- walowate
+- Əsl balinalar
+- Гладки китове
+- Гладкие киты
+- Кітовыя
+- Китові
+- мазни китови
+- Тегіс киттер
+- հարթ կետեր
+- בלניים
+- بالينات
+- نهنگ شکار
+- სადა ვეშაპისებრნი
+- セミクジラ科
+- 露脊鲸科
+- 참고래과
 title: Balaenidae
 has_id_wikidata: Q782603
+dv_has_:
+  name_:
+    an: Balaenidae
+    ar: بالينات
+    arz: بالينات
+    ast: Balaenidae
+    avk: megoleem ke Balaenidae yasa
+    az: Əsl balinalar
+    ban: Balaenidae
+    be-tarask: Кітовыя
+    bg: Гладки китове
+    br: Balaenidae
+    ca: balènids
+    ceb: Balaenidae
+    cs: velrybovití
+    da: Rethvaler
+    de: Glattwale
+    eml: Baléna
+    en: Balaenidae
+    eo: Balenedoj
+    es: Balaenidae
+    et: Silevaallased
+    eu: Balaenidae
+    ext: Balaenidae
+    fa: نهنگ شکار
+    fi: silovalaat
+    fr: Balaenidae
+    ga: Balaenidae
+    gl: Balea vasca
+    he: בלניים
+    hr: Glatki kitovi
+    hu: simabálnafélék
+    hy: հարթ կետեր
+    ia: Balaenidae
+    id: Balaenidae
+    ie: Balaenidae
+    io: Balaenidae
+    it: Balaenidae
+    ja: セミクジラ科
+    ka: სადა ვეშაპისებრნი
+    kk: Тегіс киттер
+    ko: 참고래과
+    la: Balaenidae
+    lfn: Balena franca
+    lt: Glotnieji banginiai
+    lv: polāro vaļu dzimta
+    mk: мазни китови
+    ms: Balaenidae
+    mul: Balaenidae
+    nb: Retthvaler
+    nl: Echte walvissen
+    nn: rettkvalfamilien
+    oc: Balaenidae
+    pl: walowate
+    pt: Baleia-franca
+    pt-br: Balaenidae
+    ro: Balaenidae
+    ru: Гладкие киты
+    sh: Glatki kitovi
+    sk: Veľrybovité
+    sl: gladki kiti
+    sq: Balaenidae
+    sv: Rätvalar
+    tr: Gerçek balinagiller
+    uk: Китові
+    vi: Balaenidae
+    vo: Balaenidae
+    war: Balaenidae
+    zh: 露脊鲸科
+    zh-cn: 露脊鲸科
+    zh-hans: 露脊鲸科
+    zh-tw: 露脊鲸科
 ---
 # [[Balaenidae]]
 

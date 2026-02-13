@@ -1,13 +1,97 @@
 ---
 aliases:
+- Caunveidīgie
+- Elkoortagen
+- kijetesantakalu
+- Marderverwandte
+- Marterdieren
+- Musteloidai
+- Musteloidea
+- Musteloideoj
+- musteloïdeus
+- Mårlignende rovpattedyr
+- siêu họ Chồn
+- łasicokształtne
+- Лый ганьывлӓ
+- Мустелуваті
+- пороподобни
+- Сусар тәрізділер
+- מוסטלואידה
+- راسوواران
+- عرسيات وأشباهها
+- عرسيات واشباهها
+- மசுடெலோய்டியா
+- イタチ上科
+- 鼬总科
+- 鼬總科
+- 족제비상과
 has_id_wikidata: Q2670845
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mustela%20frenata.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Musteloidea.jpg
 taxon_name: Musteloidea
+dv_has_:
+  name_:
+    an: Musteloidea
+    ar: عرسيات وأشباهها
+    arz: عرسيات واشباهها
+    ast: Musteloidea
+    bg: пороподобни
+    ca: musteloïdeus
+    ceb: Musteloidea
+    cs: Musteloidea
+    de: Marderverwandte
+    el: Musteloidea
+    en: Musteloidea
+    eo: Musteloideoj
+    es: Musteloidea
+    eu: Musteloidea
+    ext: Musteloidea
+    fa: راسوواران
+    fi: Musteloidea
+    fr: Musteloidea
+    frr: Elkoortagen
+    fy: Marterdieren
+    ga: Musteloidea
+    gl: Musteloidea
+    he: מוסטלואידה
+    ia: Musteloidea
+    ie: Musteloidea
+    io: Musteloidea
+    it: Musteloidea
+    ja: イタチ上科
+    kk: Сусар тәрізділер
+    ko: 족제비상과
+    la: Musteloidea
+    lt: Musteloidai
+    lv: Caunveidīgie
+    mrj: Лый ганьывлӓ
+    mul: Musteloidea
+    nb: Mårlignende rovpattedyr
+    nl: Musteloidea
+    oc: Musteloidea
+    pl: łasicokształtne
+    pt: Musteloidea
+    pt-br: Musteloidea
+    ro: Musteloidea
+    ru: Musteloidea
+    sl: Musteloidea
+    sq: Musteloidea
+    sr: Musteloidea
+    sv: Musteloidea
+    ta: மசுடெலோய்டியா
+    tok: kijetesantakalu
+    tr: Musteloidea
+    uk: Мустелуваті
+    vi: siêu họ Chồn
+    vo: Musteloidea
+    war: Musteloidea
+    zh: 鼬总科
+    zh-cn: 鼬总科
+    zh-hans: 鼬总科
+    zh-hant: 鼬總科
 ---
-
 # [[Musteloidea]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845]] 

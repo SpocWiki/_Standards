@@ -1,8 +1,109 @@
 ---
 has_id_wikidata: Q175943
+dv_has_:
+  name_:
+    af: Fotodiode
+    ar: ثنائي ضوئي
+    ast: fotodiodu
+    az: Fotodiod
+    be: фотадыёд
+    be-tarask: фотадыёд
+    bg: Фотодиод
+    ca: fotodíode
+    cs: fotodioda
+    da: fotodiode
+    de: Photodiode
+    el: Φωτοδίοδος
+    en: photodiode
+    en-ca: Photodiode
+    en-gb: photodiode
+    eo: fotodiodo
+    es: fotodiodo
+    et: Fotodiood
+    eu: Fotodiodo
+    fa: فوتودیود
+    fi: Fotodiodi
+    fr: Photodiode
+    gl: Fotodíodo
+    he: פוטודיודה
+    hi: फोटोडायोड
+    hr: Fotodioda
+    hu: fotodióda
+    hy: Ֆոտոդիոդ
+    id: Fotodiode
+    it: fotodiodo
+    ja: フォトダイオード
+    kk: Фотодиод
+    ko: 광다이오드
+    ky: Фотодиод
+    lt: fotodiodas
+    mk: фотодиода
+    ml: ഫോട്ടോഡയോഡ്
+    mn: Фото диод
+    nb: fotodiode
+    nl: fotodiode
+    oc: Fotodiòde
+    pl: fotodioda półprzewodnikowa
+    pt: fotodíodo
+    pt-br: fotodiodo
+    ro: fotodiodă
+    ru: фотодиод
+    sh: Fotodioda
+    sk: Fotodióda
+    sl: fotodioda
+    sq: Fotodioda
+    sr: фотодиода
+    sr-ec: фотодиода
+    sr-el: fotodioda
+    sv: Fotodiod
+    ta: ஒளியுணர் இருமுனையம்
+    tg: Фотодиод
+    tr: Fotodiyot
+    uk: фотодіод
+    ur: ضیا دوبرقیرہ
+    uz: Fotodiod
+    vi: Diode quang
+    wuu: 光电二极管
+    yue: 光電二極管
+    zh: 光电二极管
+    zh-cn: 光电二极管
+aliases:
+- Diode quang
+- Fotodiod
+- fotodioda
+- fotodioda półprzewodnikowa
+- fotodiodas
+- Fotodiode
+- Fotodiodi
+- fotodiodo
+- fotodiodu
+- fotodiodă
+- Fotodiood
+- Fotodiyot
+- Fotodiòde
+- fotodióda
+- fotodíode
+- Fotodíodo
+- photodiode
+- Φωτοδίοδος
+- фотадыёд
+- Фото диод
+- фотодіод
+- фотодиод
+- фотодиода
+- Ֆոտոդիոդ
+- פוטודיודה
+- ثنائي ضوئي
+- ضیا دوبرقیرہ
+- فوتودیود
+- फोटोडायोड
+- ஒளியுணர் இருமுனையம்
+- ഫോട്ടോഡയോഡ്
+- フォトダイオード
+- 光电二极管
+- 光電二極管
+- 광다이오드
 ---
-
-
 # [[Photodiode]] 
 
 #is_/same_as :: [[WD~Photodiode,175943]] 

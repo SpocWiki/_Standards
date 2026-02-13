@@ -1,8 +1,96 @@
 ---
 aliases:
-  - Alcelaphinae
+- Alcelafenoj
+- Alcelafinos
+- Alcelafí
+- Alcelaphinae
+- Buballar
+- Buvolci
+- Galvijinės antilopės
+- Ko-, lyr- och gnuantiloper
+- koeantilopen
+- Kuhantilopen
+- lehmäantiloopit
+- Phân họ Quyến linh
+- tehénantilop-formák
+- Vēršantilopju apakšdzimta
+- Бубаллар
+- Бубалові
+- Бубалы
+- краволики антилопи
+- Кравоподобни антилопи
+- בובאלים
+- ثيتلاوات
+- گاوگوزنیان
+- ہرن گانواں
+- วงศ์ย่อยวิลเดอบีสต์
+- ძროხისებრი ანტილოპები
+- ハーテビースト亜科
+- 狷羚亚科
+- 하테비스트족
 title: Alcelaphinae
 has_id_wikidata: Q615263
+dv_has_:
+  name_:
+    af: Alcelaphinae
+    an: Alcelaphinae
+    ar: ثيتلاوات
+    arz: ثيتلاوات
+    ast: Alcelaphinae
+    az: Buballar
+    bg: Кравоподобни антилопи
+    br: Alcelaphinae
+    ca: Alcelafí
+    ceb: Alcelaphinae
+    cs: Buvolci
+    da: Alcelaphinae
+    de: Kuhantilopen
+    en: Alcelaphinae
+    eo: Alcelafenoj
+    es: Alcelaphinae
+    eu: Alcelaphinae
+    ext: Alcelaphinae
+    fa: گاوگوزنیان
+    fi: lehmäantiloopit
+    fr: Alcelaphinae
+    ga: Alcelaphinae
+    gl: Alcelafinos
+    he: בובאלים
+    hu: tehénantilop-formák
+    ia: Alcelaphinae
+    id: Alcelaphinae
+    ie: Alcelaphinae
+    io: Alcelaphinae
+    it: Alcelaphinae
+    ja: ハーテビースト亜科
+    ka: ძროხისებრი ანტილოპები
+    ko: 하테비스트족
+    la: Alcelaphinae
+    lt: Galvijinės antilopės
+    lv: Vēršantilopju apakšdzimta
+    mk: краволики антилопи
+    mul: Alcelaphinae
+    nl: koeantilopen
+    oc: Alcelaphinae
+    pl: Alcelaphinae
+    pnb: ہرن گانواں
+    pt: Alcelaphinae
+    pt-br: alcelaphinae
+    ro: Alcelaphinae
+    ru: Бубалы
+    sq: Alcelaphinae
+    sv: Ko-, lyr- och gnuantiloper
+    sw: Alcelaphinae
+    th: วงศ์ย่อยวิลเดอบีสต์
+    tt: Бубаллар
+    uk: Бубалові
+    vi: Phân họ Quyến linh
+    vo: Alcelaphinae
+    war: Alcelaphinae
+    zh: 狷羚亚科
+    zh-cn: 狷羚亚科
+    zh-hans: 狷羚亚科
+    zh-tw: 狷羚亚科
 ---
 # [[Alcelaphinae]]
 

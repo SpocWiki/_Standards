@@ -1,9 +1,135 @@
 ---
 aliases:
-  - Conservation law
-  - Conservation_Law
-  - Conservation Law
+- behoudswet
+- bevarelseslov
+- bevaringslov
+- Conservation law
+- Conservation_Law
+- deddf cadwraeth
+- dlíthe imchoimeádta
+- Erhaltungssatz
+- hukum Keabadian
+- hukum kekekalan
+- jäävusseadus
+- konservada leĝo
+- konserveringslag
+- kontserbazio-lege
+- korunum yasası
+- lege de conservare
+- legge di conservazione
+- lei de conservación
+- lei de conservação
+- ley de conservación
+- llei de conservació
+- loi de conservation
+- megmaradási tétel
+- ohranitveni zakon
+- prawo zachowania
+- quantitas conservata
+- saglabāšanās likums
+- säilymislaki
+- tvermės dėsnis
+- zakon održanja
+- zakon očuvanja
+- zákon zachování
+- zákony zachovania
+- định luật bảo toàn
+- νόμος διατήρησης
+- закон за запазување
+- закон захаваньня
+- закони збереження
+- законы захавання
+- законы сохранения
+- сақталу заңдары
+- сыхланнăлăх саккунĕсем
+- Պահպանման օրենքներ
+- חוק שימור
+- بقائی قانون
+- قانون الحفظ
+- قانون پایستگی
+- یاسای بمێنی
+- संरक्षण नियम
+- সংরক্ষণ সূত্র
+- ਸੁਰੱਖਿਅਤਾ ਨਿਯਮ
+- காப்பு விதி
+- സംരക്ഷണനിയമം
+- සංස්ථිති නියම
+- กฎการอนุรักษ์
+- შენახვის კანონი
+- 保存則
+- 守恆定律
+- 守恒定律
+- 보존 법칙
 has_id_wikidata: Q205805
+dv_has_:
+  name_:
+    af: behoudswet
+    ar: قانون الحفظ
+    be: законы захавання
+    be-tarask: закон захаваньня
+    bn: সংরক্ষণ সূত্র
+    bs: zakon održanja
+    ca: llei de conservació
+    ckb: یاسای بمێنی
+    cs: zákon zachování
+    cv: сыхланнăлăх саккунĕсем
+    cy: deddf cadwraeth
+    da: bevarelseslov
+    de: Erhaltungssatz
+    el: νόμος διατήρησης
+    en: conservation law
+    eo: konservada leĝo
+    es: ley de conservación
+    et: jäävusseadus
+    eu: kontserbazio-lege
+    fa: قانون پایستگی
+    fi: säilymislaki
+    fr: loi de conservation
+    ga: dlíthe imchoimeádta
+    gl: lei de conservación
+    he: חוק שימור
+    hi: संरक्षण नियम
+    hu: megmaradási tétel
+    hy: Պահպանման օրենքներ
+    id: hukum kekekalan
+    it: legge di conservazione
+    ja: 保存則
+    ka: შენახვის კანონი
+    kk: сақталу заңдары
+    ko: 보존 법칙
+    la: quantitas conservata
+    lt: tvermės dėsnis
+    lv: saglabāšanās likums
+    mk: закон за запазување
+    ml: സംരക്ഷണനിയമം
+    ms: hukum Keabadian
+    nb: bevaringslov
+    nl: behoudswet
+    nn: bevaringslov
+    pa: ਸੁਰੱਖਿਅਤਾ ਨਿਯਮ
+    pl: prawo zachowania
+    pt: lei de conservação
+    ro: lege de conservare
+    ru: законы сохранения
+    sco: conservation law
+    sh: zakon očuvanja
+    si: සංස්ථිති නියම
+    sk: zákony zachovania
+    sl: ohranitveni zakon
+    sv: konserveringslag
+    ta: காப்பு விதி
+    th: กฎการอนุรักษ์
+    tr: korunum yasası
+    uk: закони збереження
+    ur: بقائی قانون
+    vi: định luật bảo toàn
+    zh: 守恒定律
+    zh-cn: 守恒定律
+    zh-hans: 守恒定律
+    zh-hant: 守恆定律
+    zh-hk: 守恆定律
+    zh-sg: 守恒定律
+    zh-tw: 守恆定律
 ---
 ## #has_/text_of_/abstract 
 

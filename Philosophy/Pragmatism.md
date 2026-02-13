@@ -1,11 +1,64 @@
 ---
 aliases:
-  - Pragmatism
+- chủ nghĩa thực dụng
+- gagnhyggja
+- pragmatiaeth
+- pragmatik
+- Pragmatism
+- pragmatisma
+- Pragmatisme
+- pragmatismi
+- pragmatismm
+- pragmatismo
+- pragmatisms
+- pragmatismu
+- Pragmatismus
+- pragmatissma
+- pragmatizam
+- pragmatizem
+- pragmatizm
+- pragmatizmas
+- pragmatizmi
+- pragmatizmus
+- pragmatyzm
+- pragmatïzm
+- praqmatizm
+- si̍t-ēng-chú-gī
+- yararcılık
+- πραγματισμός
+- прагматизам
+- прагматизм
+- прагматизъм
+- прагматызм
+- Պրագմատիզմ
+- פרגמטיזם
+- براجماتيه
+- براغماتية
+- نتائجیت
+- پراقماتیزم
+- پراګماتيزم
+- پراگماتىيزم
+- پراگماتیزم
+- پراگماتیسم
+- प्रयोजनवाद
+- व्यवहारवाद
+- व्यावहारिकतावाद
+- দরকারবাদ
+- ਪ੍ਰੈਗਮੈਟਿਜ਼ਮ
+- நடைமுறைவாதம்
+- వ్యావహారికసత్తావాదం
+- ವಾಸ್ತವಿಕವಾದ
+- ปฏิบัตินิยม
+- პრაგმატიზმი
+- プラグマティズム
+- 实用主义
+- 實用主義
+- 실용주의
 has_id_wikidata: Q126692
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -23,30 +76,138 @@ linkTitle: Pragmatism
 publish: false
 publishDate: ''
 tags:
-  - Pragmatism
-  - excalidraw
+- Pragmatism
+- excalidraw
 title: Pragmatism
 type: private_note
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Pragmatism,4133192]]'
-  - '[[_Standards/WikiData/WD~Pragmatisme,7237646]]'
+- '[[_Standards/WikiData/WD~Pragmatism,4133192]]'
+- '[[_Standards/WikiData/WD~Pragmatisme,7237646]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
-  - '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
+- '[[_Standards/WikiData/WD~ideology,7257]]'
 practiced_by: '[[_Standards/WikiData/WD~pragmatist,16263353]]'
 inspired_by: '[[_Standards/WikiData/WD~Q47471464,47471464]]'
 subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Dewey_Decimal_Classification:
-  - 144.3
-  - 370.12
+- 144.3
+- 370.12
 PhilPapers_topic: pragmatism
 Commons_category: Pragmatism
+dv_has_:
+  name_:
+    af: pragmatisme
+    ar: براغماتية
+    arz: براجماتيه
+    ast: pragmatismu
+    az: praqmatizm
+    azb: پراقماتیزم
+    be: прагматызм
+    be-tarask: прагматызм
+    bg: прагматизъм
+    bn: দরকারবাদ
+    bs: pragmatizam
+    ca: pragmatisme
+    ckb: پراگماتیزم
+    cs: pragmatismus
+    cy: pragmatiaeth
+    da: pragmatisme
+    de: Pragmatismus
+    el: πραγματισμός
+    en: pragmatism
+    eo: pragmatismo
+    es: pragmatismo
+    et: pragmatism
+    eu: pragmatismo
+    fa: پراگماتیسم
+    fi: pragmatismi
+    fr: pragmatisme
+    gcr: pragmatism
+    gl: pragmatismo
+    ha: Pragmatism
+    he: פרגמטיזם
+    hi: व्यावहारिकतावाद
+    hr: pragmatizam
+    hu: pragmatizmus
+    hy: Պրագմատիզմ
+    ia: pragmatismo
+    id: pragmatisme
+    io: pragmatismo
+    is: gagnhyggja
+    it: pragmatismo
+    ja: プラグマティズム
+    jv: pragmatik
+    ka: პრაგმატიზმი
+    kk: прагматизм
+    kk-arab: پراگماتىيزم
+    kk-cn: پراگماتىيزم
+    kk-cyrl: прагматизм
+    kk-kz: прагматизм
+    kk-latn: pragmatïzm
+    kk-tr: pragmatïzm
+    kn: ವಾಸ್ತವಿಕವಾದ
+    ko: 실용주의
+    ku: pragmatizm
+    ky: прагматизм
+    la: pragmatismus
+    lt: pragmatizmas
+    lv: pragmatisms
+    mad: Pragmatisme
+    mk: прагматизам
+    ms: pragmatisme
+    nan: si̍t-ēng-chú-gī
+    nb: pragmatisme
+    ne: प्रयोजनवाद
+    new: व्यवहारवाद
+    nl: pragmatisme
+    nn: pragmatisme
+    pa: ਪ੍ਰੈਗਮੈਟਿਜ਼ਮ
+    pl: pragmatyzm
+    pms: pragmatism
+    ps: پراګماتيزم
+    pt: pragmatismo
+    ro: pragmatism
+    ru: прагматизм
+    sco: pragmatism
+    se: pragmatisma
+    sh: pragmatizam
+    sk: pragmatizmus
+    sl: pragmatizem
+    sma: pragmatisme
+    smj: pragmatissma
+    smn: pragmatism
+    sms: pragmatismm
+    sq: pragmatizmi
+    sr: прагматизам
+    sr-ec: прагматизам
+    sr-el: pragmatizam
+    sv: pragmatism
+    ta: நடைமுறைவாதம்
+    te: వ్యావహారికసత్తావాదం
+    th: ปฏิบัตินิยม
+    tl: pragmatismo
+    tr: yararcılık
+    tt: прагматизм
+    uk: прагматизм
+    ur: نتائجیت
+    uz: pragmatizm
+    vi: chủ nghĩa thực dụng
+    war: Pragmatismo
+    wuu: 实用主义
+    xmf: პრაგმატიზმი
+    yue: 實用主義
+    zh: 实用主义
+    zh-cn: 实用主义
+    zh-hans: 实用主义
+    zh-hant: 實用主義
+    zh-hk: 實用主義
+    zh-sg: 实用主义
+    zh-tw: 實用主義
 ---
-
 # [[Pragmatism]] 
 
 #is_/part_of :: [[Pragmatism]] 

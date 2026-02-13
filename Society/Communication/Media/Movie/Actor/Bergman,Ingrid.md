@@ -1,49 +1,77 @@
 ---
 aliases:
-  - Ingrid Bergman
-  - Ingrid_Bergman
-  - Bergman,Ingrid
+- Bergman,Ingrid
+- Ingrid Bergman
+- Ingrid Bergmann
+- Ingrid Bergmanová
+- Ingrid_Bergman
+- Ingrīda Bergmane
+- İnqrid Berqman
+- Ίνγκριντ Μπέργκμαν
+- Інгрід Бергман
+- Інгрыд Бергман
+- Інгрыд Бэргман
+- Ингрид Бергман
+- Ինգրիդ Բերգման
+- אינגריד ברגמן
+- إنغريد برغمان
+- ئنگرید بێرگمان
+- انجريد بيرجمان
+- انگرڈ برگمین
+- اینقرید برقمن
+- اینگرید برگمن
+- इन्ग्रिड बर्गमन
+- इन्ग्रिद बर्गम्यान
+- ইংরিদ বারিমান
+- ഇൻഗ്രിഡ് ബെർഗ്മാൻ
+- อิงกริด เบิร์กแมน
+- ინგრიდ ბერგმანი
+- イングリッド・バーグマン
+- 英格丽·褒曼
+- 英格烈·褒曼
+- 英格烈褒曼
+- 잉그리드 버그먼
 has_id_wikidata: Q43247
 religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
-  - '[[_Standards/WikiData/WD~Honorary_César,727282]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
-  - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actress,3870555]]"
-  - '[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Play,185299]]'
+- '[[_Standards/WikiData/WD~Honorary_César,727282]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+- "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actress,3870555]]"
+- '[[_Standards/WikiData/WD~Donaldson_Awards,5295360]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
 residence: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 cause_of_death: '[[_Standards/WikiData/WD~breast_cancer,128581]]'
 child:
-  - '[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]'
-  - '[[_Standards/WikiData/WD~Pia_Lindström,508325]]'
-  - '[[_Standards/WikiData/WD~Isotta_Ingrid_Rossellini,511483]]'
+- '[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]'
+- '[[_Standards/WikiData/WD~Pia_Lindström,508325]]'
+- '[[_Standards/WikiData/WD~Isotta_Ingrid_Rossellini,511483]]'
 field_of_work: '[[_Standards/WikiData/WD~acting,222749]]'
 place_of_burial: '[[_Standards/WikiData/WD~Norra_begravningsplatsen,252312]]'
 notable_role:
-  - '[[_Standards/WikiData/WD~Anna_Anderson,285563]]'
-  - '[[_Standards/WikiData/WD~Golda_Meir,42992]]'
+- '[[_Standards/WikiData/WD~Anna_Anderson,285563]]'
+- '[[_Standards/WikiData/WD~Golda_Meir,42992]]'
 given_name: '[[_Standards/WikiData/WD~Ingrid,903741]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]'
-  - '[[_Standards/WikiData/WD~Palmgrenska_samskolan,10615472]]'
+- '[[_Standards/WikiData/WD~Dramatens_elevskola,1255661]]'
+- '[[_Standards/WikiData/WD~Palmgrenska_samskolan,10615472]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Gustaf_Molander,1365463]]'
-  - '[[_Standards/WikiData/WD~Karin_Swanström,4981607]]'
+- '[[_Standards/WikiData/WD~Gustaf_Molander,1365463]]'
+- '[[_Standards/WikiData/WD~Karin_Swanström,4981607]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Ingrid_von_Rosen,4975453]]'
-  - '[[_Standards/WikiData/WD~Ingmar_Bergman,7546]]'
+- '[[_Standards/WikiData/WD~Ingrid_von_Rosen,4975453]]'
+- '[[_Standards/WikiData/WD~Ingmar_Bergman,7546]]'
 unmarried_partner: '[[_Standards/WikiData/WD~John_Van_Eyssen,6261758]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hedvig_Eleonora_parish,10519255]]'
@@ -51,18 +79,18 @@ father: '[[_Standards/WikiData/WD~Justus_Bergman,21031757]]'
 family_name: '[[_Standards/WikiData/WD~Bergman,21489110]]'
 position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Lars_Schmidt,48889254]]'
-  - '[[_Standards/WikiData/WD~Roberto_Rossellini,53003]]'
+- '[[_Standards/WikiData/WD~Lars_Schmidt,48889254]]'
+- '[[_Standards/WikiData/WD~Roberto_Rossellini,53003]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~kulturgravar.se,75311703]]'
+- '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~kulturgravar.se,75311703]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
 mother: '[[_Standards/WikiData/WD~Friedel_Adler,136337872]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Swedish,9027]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swedish,9027]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_locations: '[[_Standards/WikiData/WD~Sweden,34]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Sweden,34]]'
@@ -76,23 +104,131 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BERGMAN_INGRID.h
 Libris_URI: sq466wwb20pqspz
 date_of_birth: 1915-08-29T00:00:00Z
 described_at_URL:
-  - https://forum.genealogi.se/index.php?board=7870.0
-  - https://stockholmskallan.stockholm.se/sok/?q=Ingrid+bergman
+- https://forum.genealogi.se/index.php?board=7870.0
+- https://stockholmskallan.stockholm.se/sok/?q=Ingrid+bergman
 work_period_end_: 1982-01-01T00:00:00Z
 date_of_death: 1982-08-29T00:00:00Z
 date_of_burial_or_cremation: 1983-06-10T00:00:00Z
 work_period_start_: 1934-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20Harcourt%201957.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20studio%20portrait%20photo.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20The%20Constant%20Wife%201975%20%28cropped%29.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20Harcourt%201957.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20studio%20portrait%20photo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20The%20Constant%20Wife%201975%20%28cropped%29.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Norra%2C%20Ingrid.JPG
 official_website: http://www.ingridbergman.com
 ISNI: 0000000110287904
 U_S_National_Archives_Identifier: 10583107
+dv_has_:
+  name_:
+    af: Ingrid Bergman
+    an: Ingrid Bergman
+    ar: إنغريد برغمان
+    arz: انجريد بيرجمان
+    ast: Ingrid Bergman
+    ay: Ingrid Bergman
+    az: İnqrid Berqman
+    azb: اینقرید برقمن
+    ba: Ингрид Бергман
+    be: Інгрыд Бергман
+    be-tarask: Інгрыд Бэргман
+    bg: Ингрид Бергман
+    bn: ইংরিদ বারিমান
+    br: Ingrid Bergman
+    bs: Ingrid Bergman
+    ca: Ingrid Bergman
+    ckb: ئنگرید بێرگمان
+    cs: Ingrid Bergmanová
+    cv: Ингрид Бергман
+    cy: Ingrid Bergman
+    da: Ingrid Bergman
+    de: Ingrid Bergman
+    diq: Ingrid Bergman
+    el: Ίνγκριντ Μπέργκμαν
+    eml: Ingrid Bergman
+    en: Ingrid Bergman
+    en-gb: Ingrid Bergman
+    eo: Ingrid Bergman
+    es: Ingrid Bergman
+    et: Ingrid Bergman
+    eu: Ingrid Bergman
+    fa: اینگرید برگمن
+    fi: Ingrid Bergman
+    fo: Ingrid Bergman
+    fr: Ingrid Bergman
+    fy: Ingrid Bergman
+    ga: Ingrid Bergman
+    gd: Ingrid Bergman
+    gl: Ingrid Bergman
+    gom: Ingrid Bergman
+    he: אינגריד ברגמן
+    hif: Ingrid Bergman
+    hr: Ingrid Bergman
+    hu: Ingrid Bergman
+    hy: Ինգրիդ Բերգման
+    id: Ingrid Bergman
+    ig: Ingrid Bergman
+    ilo: Ingrid Bergman
+    io: Ingrid Bergman
+    is: Ingrid Bergman
+    it: Ingrid Bergman
+    ja: イングリッド・バーグマン
+    ka: ინგრიდ ბერგმანი
+    kk: Ингрид Бергман
+    ko: 잉그리드 버그먼
+    la: Ingrid Bergman
+    lb: Ingrid Bergman
+    lt: Ingrid Bergman
+    lv: Ingrīda Bergmane
+    mg: Ingrid Bergman
+    mk: Ингрид Бергман
+    ml: ഇൻഗ്രിഡ് ബെർഗ്മാൻ
+    mr: इन्ग्रिड बर्गमन
+    ms: Ingrid Bergman
+    mul: Ingrid Bergman
+    nan: Ingrid Bergman
+    nb: Ingrid Bergman
+    nds: Ingrid Bergmann
+    new: इन्ग्रिद बर्गम्यान
+    nl: Ingrid Bergman
+    nn: Ingrid Bergman
+    oc: Ingrid Bergman
+    pap: Ingrid Bergman
+    pl: Ingrid Bergman
+    pms: Ingrid Bergman
+    pnb: انگرڈ برگمین
+    pt: Ingrid Bergman
+    pt-br: Ingrid Bergman
+    qu: Ingrid Bergman
+    ro: Ingrid Bergman
+    ru: Ингрид Бергман
+    scn: Ingrid Bergman
+    sco: Ingrid Bergman
+    sh: Ingrid Bergman
+    sk: Ingrid Bergmanová
+    skr: انگرڈ برگمین
+    sl: Ingrid Bergman
+    sq: Ingrid Bergman
+    sr: Ингрид Бергман
+    sv: Ingrid Bergman
+    tg: Ингрид Бергман
+    th: อิงกริด เบิร์กแมน
+    tl: Ingrid Bergman
+    tr: Ingrid Bergman
+    tt: Ингрид Бергман
+    uk: Інгрід Бергман
+    ur: انگرڈ برگمین
+    uz: Ingrid Bergman
+    vi: Ingrid Bergman
+    war: Ingrid Bergman
+    wuu: 英格丽·褒曼
+    xmf: ინგრიდ ბერგმანი
+    yo: Ingrid Bergman
+    yue: 英格烈褒曼
+    zh: 英格丽·褒曼
+    zh-hk: 英格烈·褒曼
+    zh-sg: 英格丽·褒曼
 ---
-
 # [[Bergman,Ingrid]] 
 
 #is_/same_as :: [[WikiData/WD~Ingrid_Bergman,43247|WD~Ingrid_Bergman,43247]] 

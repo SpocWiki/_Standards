@@ -1,10 +1,65 @@
 ---
-has_time_started: 1992-06-04 
+has_time_started: 1992-06-04
 aliases:
-  - Organization of the Black Sea Economic Cooperation
-  - BSEC
-  - BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)
-  - BSEC(Organization of the Black Sea Economic Cooperation)
+- Black Sea Economic Cooperation
+- BSEC
+- BSEC(Organization of the Black Sea Economic Cooperation)
+- BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)
+- Cooparasion Econòmega del Mar Nero
+- Cooperació Econòmica del Mar Negre
+- Cooperación Económica del Mar Negro
+- Cooperación Económica del Mar Negru
+- Cooperación Económica do Mar Negro
+- Crnomorska ekonomska saradnja
+- Fekete-tengeri Gazdasági Együttműködés
+- Itsaso Beltzeko Kooperazio Ekonomikorako Erakundea
+- Juodosios jūros ekonominio bendradarbiavimo organizacija
+- Karadeniz Ekonomik İşbirliği
+- Karadeniz Ekonomika İşbirlii
+- Mustanmeren talousjärjestö
+- Organisasi Sabilulungan Ékonomi Laut Hideung
+- Organisasi untuk Kerjasama Laut Hitam
+- Organisasjonen for økonomisk samarbeid i svartehavsregionen
+- Organisatie voor Economische Samenwerking in het Zwarte Zeegebied
+- Organisation de coopération économique de la mer Noire
+- Organizace černomořských ekonomických společenství
+- Organizacija crnomorske ekonomske suradnje
+- Organizacija za črnomorsko gospodarsko sodelovanje
+- Organizacion de Cooperation Economica de la Mar Negra
+- Organizacja Współpracy Gospodarczej Państw Morza Czarnego
+- Organizatio Cooperationis Oeconomicae Ponti Euxini
+- Organization o the Black Sea Economic Cooperation
+- Organization of the Black Sea Economic Cooperation
+- Organização de Cooperação Econômica do Mar Negro
+- Organizaĵo por Ekonomia Kunlaboro ĉe la Nigra Maro
+- Organizația de Cooperare Economică la Marea Neagră
+- Organizzazione della Cooperazione Economica del Mar Nero
+- Qara Dəniz İqtisadi Əməkdaşlıq Təşkilatı
+- Qora dengiz iqtisodiy hamkorligi
+- Schwarzmeer-Wirtschaftskooperation
+- Tổ chức Hợp tác Kinh tế Biển Đen
+- Ururka Iskaashiga Dhaqaalaha Badda Madow
+- Οργανισμός Οικονομικής Συνεργασίας Ευξείνου Πόντου
+- Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
+- Кара деңиз экономикалык кызматташтык уюму
+- Кара диңгез икътисади хезмәттәшлек оешмасы
+- Організація чорноморського економічного співробітництва
+- Организација за црноморска економска соработка
+- Организација за црноморску економску сарадњу
+- Организация за черноморско икономическо сътрудничество
+- Организация черноморского экономического сотрудничества
+- Црноморска економска сарадња
+- Ҡара диңгеҙ иҡтисади хеҙмәттәшлеге ойошмаһы
+- ӀаьржахӀордан экономикин цхьаьнагӀуллакхдаран кхоллам
+- Սևծովյան տնտեսական համագործակցություն
+- ארגון הים השחור לשיתוף פעולה כלכלי
+- سازمان همکاری اقتصادی دریای سیاه
+- منظمة التعاون الاقتصادي للبحر الأسود
+- काला सागर आर्थिक सहयोग
+- შავი ზღვის ეკონომიკური თანამშრომლობის ორგანიზაცია
+- 黑海经济合作组织
+- 黒海経済協力機構
+- 흑해 경제 협력 기구
 has_id_wikidata: Q380340
 instance_of: '[[_Standards/WikiData/WD~international_organization,484652]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Organization_of_the_Black_Sea_Economic_Cooperation,8845082]]'
@@ -24,8 +79,72 @@ Facebook_username: BSECPERMIS
 YouTube_handle: bsecpermis1813
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/ORGANIZATSIYA_CHERNOMORSKOGO_EKONOMICHESKOGO_SOTRUDNICHESTVA_CHES.html
 EU_VAT_number: TR5090025968
+dv_has_:
+  name_:
+    ar: منظمة التعاون الاقتصادي للبحر الأسود
+    ast: Cooperación Económica del Mar Negru
+    az: Qara Dəniz İqtisadi Əməkdaşlıq Təşkilatı
+    ba: Ҡара диңгеҙ иҡтисади хеҙмәттәшлеге ойошмаһы
+    be: Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
+    be-tarask: Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
+    bg: Организация за черноморско икономическо сътрудничество
+    ca: Cooperació Econòmica del Mar Negre
+    ce: ӀаьржахӀордан экономикин цхьаьнагӀуллакхдаран кхоллам
+    cs: Organizace černomořských ekonomických společenství
+    de: Schwarzmeer-Wirtschaftskooperation
+    de-ch: Schwarzmeer-Wirtschaftskooperation
+    el: Οργανισμός Οικονομικής Συνεργασίας Ευξείνου Πόντου
+    en: Organization of the Black Sea Economic Cooperation
+    en-ca: Organization of the Black Sea Economic Cooperation
+    en-gb: Organization of the Black Sea Economic Cooperation
+    en-us: Organization of the Black Sea Economic Cooperation
+    eo: Organizaĵo por Ekonomia Kunlaboro ĉe la Nigra Maro
+    es: Cooperación Económica del Mar Negro
+    eu: Itsaso Beltzeko Kooperazio Ekonomikorako Erakundea
+    fa: سازمان همکاری اقتصادی دریای سیاه
+    fi: Mustanmeren talousjärjestö
+    fr: Organisation de coopération économique de la mer Noire
+    gag: Karadeniz Ekonomika İşbirlii
+    gl: Cooperación Económica do Mar Negro
+    he: ארגון הים השחור לשיתוף פעולה כלכלי
+    hi: काला सागर आर्थिक सहयोग
+    hr: Organizacija crnomorske ekonomske suradnje
+    hu: Fekete-tengeri Gazdasági Együttműködés
+    hy: Սևծովյան տնտեսական համագործակցություն
+    id: Organisasi untuk Kerjasama Laut Hitam
+    it: Organizzazione della Cooperazione Economica del Mar Nero
+    ja: 黒海経済協力機構
+    ka: შავი ზღვის ეკონომიკური თანამშრომლობის ორგანიზაცია
+    ko: 흑해 경제 협력 기구
+    ky: Кара деңиз экономикалык кызматташтык уюму
+    la: Organizatio Cooperationis Oeconomicae Ponti Euxini
+    lt: Juodosios jūros ekonominio bendradarbiavimo organizacija
+    mk: Организација за црноморска економска соработка
+    nb: Organisasjonen for økonomisk samarbeid i svartehavsregionen
+    nl: Organisatie voor Economische Samenwerking in het Zwarte Zeegebied
+    oc: Organizacion de Cooperation Economica de la Mar Negra
+    pl: Organizacja Współpracy Gospodarczej Państw Morza Czarnego
+    pt: Organização de Cooperação Econômica do Mar Negro
+    pt-br: Organização de Cooperação Econômica do Mar Negro
+    ro: Organizația de Cooperare Economică la Marea Neagră
+    ru: Организация черноморского экономического сотрудничества
+    sco: Organization o the Black Sea Economic Cooperation
+    sl: Organizacija za črnomorsko gospodarsko sodelovanje
+    so: Ururka Iskaashiga Dhaqaalaha Badda Madow
+    sq: BSEC
+    sr: Црноморска економска сарадња
+    sr-ec: Организација за црноморску економску сарадњу
+    sr-el: Crnomorska ekonomska saradnja
+    su: Organisasi Sabilulungan Ékonomi Laut Hideung
+    sv: Black Sea Economic Cooperation
+    tr: Karadeniz Ekonomik İşbirliği
+    tt: Кара диңгез икътисади хезмәттәшлек оешмасы
+    uk: Організація чорноморського економічного співробітництва
+    uz: Qora dengiz iqtisodiy hamkorligi
+    vec: Cooparasion Econòmega del Mar Nero
+    vi: Tổ chức Hợp tác Kinh tế Biển Đen
+    zh: 黑海经济合作组织
 ---
-
 # [[BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)]] 
 
 #is_/same_as :: [[WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]] 

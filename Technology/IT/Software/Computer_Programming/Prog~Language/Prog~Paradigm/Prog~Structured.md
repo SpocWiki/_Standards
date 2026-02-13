@@ -1,22 +1,147 @@
 ---
 aliases:
-  - structured programming
-  - structured_programming
-  - Prog~Structured
+- gestructureerd programmeren
+- Gestruktureerde programmering
+- lập trình cấu trúc
+- Pemrograman terstruktur
+- Pengaturcaraan berstruktur
+- programació estructurada
+- programación estructurada
+- programación estruturada
+- Programare structurată
+- programasion struturada
+- Programassion struturà
+- programazio egituratu
+- programação estruturada
+- programmation structurée
+- Programmatura ordinata
+- programmazione strutturata
+- programowanie strukturalne
+- Prog~Structured
+- rhaglennu strwythurol
+- ríomhchlárú struchtúrtha
+- structured programming
+- structured_programming
+- Strukturala programifo
+- strukturalıq programmalastırıw
+- Struktureeritud programmeerimine
+- strukturerad programmering
+- struktureret programmering
+- strukturert programmering
+- strukturierte Programmierung
+- Strukturirano programiranje
+- strukturita programado
+- Strukturlu proqramlaşdırma
+- strukturoitu ohjelmointi
+- strukturované programování
+- strukturált programozás
+- strukturētā programmēšana
+- Struktūrinis programavimas
+- Uprogramishaji unde
+- yapısal programlama
+- структурирано програмирање
+- структурнае праграмаваньне
+- структурне програмування
+- структурно програмирање
+- Структурно програмиране
+- структурное программирование
+- штруктуроване проґрамованя
+- կառուցվածքային ծրագրավորում
+- תכנות מובנה
+- برمجة مهيكلة
+- برنامهنویسی ساختیافته
+- ஒழுங்குசார் நிரலாக்கம்
+- സ്ട്രക്ചേർഡ് പ്രോഗ്രാമിങ്
+- 構造化プログラミング
+- 結構化編程
+- 结构化编程
+- 구조적 프로그래밍
 has_id_wikidata: Q223335
 subclass_of: '[[_Standards/WikiData/WD~computer_programming,80006]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
-  - '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
+- '[[_Standards/WikiData/WD~programming_paradigm,188267]]'
+- '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
 opposite_of: '[[_Standards/WikiData/WD~non_structured_programming,905156]]'
 uses: '[[_Standards/WikiData/WD~control_structure,27067613]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns%20he.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Structured%20program%20patterns%20he.png
 Commons_category: Structured programming
 short_name: Strukturert
+dv_has_:
+  name_:
+    af: Gestruktureerde programmering
+    ar: برمجة مهيكلة
+    ast: programación estructurada
+    az: Strukturlu proqramlaşdırma
+    be-tarask: структурнае праграмаваньне
+    bg: Структурно програмиране
+    bs: Strukturirano programiranje
+    ca: programació estructurada
+    cs: strukturované programování
+    cy: rhaglennu strwythurol
+    da: struktureret programmering
+    de: strukturierte Programmierung
+    de-ch: strukturierte Programmierung
+    en: structured programming
+    en-ca: structured programming
+    en-gb: structured programming
+    eo: strukturita programado
+    es: programación estructurada
+    et: Struktureeritud programmeerimine
+    eu: programazio egituratu
+    fa: برنامهنویسی ساختیافته
+    fi: strukturoitu ohjelmointi
+    fr: programmation structurée
+    ga: ríomhchlárú struchtúrtha
+    gl: programación estruturada
+    he: תכנות מובנה
+    hr: strukturirano programiranje
+    hu: strukturált programozás
+    hy: կառուցվածքային ծրագրավորում
+    id: Pemrograman terstruktur
+    io: Strukturala programifo
+    it: programmazione strutturata
+    ja: 構造化プログラミング
+    kaa: strukturalıq programmalastırıw
+    ko: 구조적 프로그래밍
+    la: Programmatura ordinata
+    lt: Struktūrinis programavimas
+    lv: strukturētā programmēšana
+    mk: структурно програмирање
+    ml: സ്ട്രക്ചേർഡ് പ്രോഗ്രാമിങ്
+    ms: Pengaturcaraan berstruktur
+    nb: strukturert programmering
+    nl: gestructureerd programmeren
+    nn: strukturert programmering
+    pl: programowanie strukturalne
+    pms: Programassion struturà
+    pt: programação estruturada
+    pt-br: programação estruturada
+    ro: Programare structurată
+    ru: структурное программирование
+    rue: штруктуроване проґрамованя
+    sh: Strukturirano programiranje
+    sl: strukturirano programiranje
+    sr: структурно програмирање
+    sr-ec: структурирано програмирање
+    sr-el: Strukturirano programiranje
+    sv: strukturerad programmering
+    sw: Uprogramishaji unde
+    ta: ஒழுங்குசார் நிரலாக்கம்
+    tr: yapısal programlama
+    uk: структурне програмування
+    vec: programasion struturada
+    vi: lập trình cấu trúc
+    yue: 結構化編程
+    zh: 结构化编程
+    zh-cn: 结构化编程
+    zh-hans: 结构化编程
+    zh-hant: 結構化編程
+    zh-hk: 結構化編程
+    zh-sg: 结构化编程
+    zh-tw: 結構化編程
 ---
-
 # [[Prog~Structured]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Structured_programming,223335|WD~Structured_programming,223335]] 

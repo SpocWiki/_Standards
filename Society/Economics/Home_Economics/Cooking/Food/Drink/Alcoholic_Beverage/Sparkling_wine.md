@@ -1,19 +1,136 @@
 ---
 aliases:
-  - Sparkling wine
-  - Sparkling_wine
+- Anggur berbuih
+- Ardo apardun
+- Biser vino
+- Brúsandi vín
+- bulljarasviidni
+- Chlepfmoscht
+- dzirkstošais vīns
+- fíon súilíneach
+- gwin pefriog
+- kuohuviini
+- Köpüklü şarap
+- Mousserande vin
+- Mousserende vin
+- mousserende wijn
+- musserende vin
+- peneče se vino
+- Penušavo vino
+- pezsgő
+- Putojantis vynas
+- Schaumwein
+- sekt
+- Sparkling wine
+- Sparkling_wine
+- Vahuvein
+- Vang sủi
+- vi escumós
+- Vin efervescent
+- vin mousseux
+- vin spumant
+- vinho espumante
+- vino espumoso
+- vino spumante
+- vinu esplumoso
+- viño escumoso
+- Vonkelwyn
+- Vändai vin
+- wino musujące
+- ŝaŭmvino
+- αφρώδης οίνος
+- ігристі вина
+- Вылянчăк эрех
+- игристое вино
+- пеністае віно
+- Пенливо вино
+- Шумящо вино
+- փրփրուն գինի
+- יין נתזים
+- شراب گازدار
+- نبيت فوار
+- نبيذ فوار
+- ცქრიალა ღვინოები
+- 气泡酒
+- 氣泡酒
+- 汽酒
+- 発泡性ワイン
+- 발포성 포도주
 has_id_wikidata: Q321263
-has_part_s_: "[[_Standards/WikiData/WD~champagne,134862]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~effervescent_wine,51909896]]"
-Unicode_character: 🍾
+has_part_s_: '[[_Standards/WikiData/WD~champagne,134862]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~effervescent_wine,51909896]]'
+Unicode_character: "\U0001F37E"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rose%20champagne%20infinite%20bubbles.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Mousserende%20wijn-article.ogg
 Common_Procurement_Vocabulary_code: 15931100
 FoodEx2_code: A03MZ
 Commons_category: Sparkling wine
+dv_has_:
+  name_:
+    af: Vonkelwyn
+    ar: نبيذ فوار
+    arz: نبيت فوار
+    ast: vinu esplumoso
+    be: пеністае віно
+    be-tarask: пеністае віно
+    bg: Шумящо вино
+    ca: vi escumós
+    cs: sekt
+    cv: Вылянчăк эрех
+    cy: gwin pefriog
+    da: Mousserende vin
+    de: Schaumwein
+    el: αφρώδης οίνος
+    en: sparkling wine
+    eo: ŝaŭmvino
+    es: vino espumoso
+    et: Vahuvein
+    eu: Ardo apardun
+    fa: شراب گازدار
+    fi: kuohuviini
+    fo: Brúsandi vín
+    fr: vin mousseux
+    ga: fíon súilíneach
+    gl: viño escumoso
+    gsw: Chlepfmoscht
+    he: יין נתזים
+    hr: Biser vino
+    hu: pezsgő
+    hy: փրփրուն գինի
+    id: Anggur berbuih
+    it: vino spumante
+    ja: 発泡性ワイン
+    ka: ცქრიალა ღვინოები
+    ko: 발포성 포도주
+    lt: Putojantis vynas
+    lv: dzirkstošais vīns
+    mk: Пенливо вино
+    nb: musserende vin
+    nl: mousserende wijn
+    oc: Vin efervescent
+    pl: wino musujące
+    pt: vinho espumante
+    ro: vin spumant
+    ru: игристое вино
+    se: bulljarasviidni
+    sk: sekt
+    sl: peneče se vino
+    sr: Penušavo vino
+    sv: Mousserande vin
+    tr: Köpüklü şarap
+    uk: ігристі вина
+    vep: Vändai vin
+    vi: Vang sủi
+    yue: 汽酒
+    zh: 汽酒
+    zh-cn: 汽酒
+    zh-hans: 汽酒
+    zh-hant: 汽酒
+    zh-hk: 氣泡酒
+    zh-sg: 气泡酒
+    zh-tw: 氣泡酒
 ---
-
 # [[Sparkling_wine]] 🍾 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sparkling_wine,321263|WD~Sparkling_wine,321263]] 

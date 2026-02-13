@@ -1,15 +1,132 @@
 ---
 aliases:
+- aliran laminar
+- Chân-liû
+- curgere laminară
+- dòng chảy tầng
+- düzgün akış
+- düzgün axış
+- flujo laminar
+- flux laminar
+- fluxo laminar
+- lamena fluo
+- lamina
+- laminaarinen virtaus
+- laminaarne voolamine
+- laminaire stroming
+- laminar flow
+- laminar oqim
+- laminare Strömung
+- laminarni tok
+- laminarno strujanje
+- lamináris áramlás
+- laminárne prúdenie
+- laminární proudění
+- laminär strömning
+- laminær rørsle
+- laminær strømning
+- lamināra plūsma
+- lamïnarlı ağın
+- przepływ laminarny
+- regime laminare
+- regimm laminà
+- rezime lamenar
+- écoulement laminaire
+- ламінарна течія
+- ламінарнае цячэнне
+- ламинар урсгал
+- ламинардык агым
+- ламинарен поток
+- Ламинарлă юхăм
+- ламинарлы ағын
+- ламинарное течение
+- լամինար հոսանք
+- זרימה שכבתית
+- جريان صفيحي
+- جریان آرام
+- لامىينارلى اعىن
+- पटलीय प्रवाह
+- লেমিনার প্রবাহ
+- வரிச்சீர் ஓட்டம்
+- ლამინარული დინება
+- 层流
+- 層流
+- 층류
 has_id_wikidata: Q189452
-instance_of: "[[_Standards/WikiData/WD~flow_type,11556633]]"
-subclass_of: "[[_Standards/WikiData/WD~fluid_flow,12142910]]"
+instance_of: '[[_Standards/WikiData/WD~flow_type,11556633]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-opposite_of: "[[_Standards/WikiData/WD~turbulent_flow,25516230]]"
-Commons_category: Laminar flow 
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+opposite_of: '[[_Standards/WikiData/WD~turbulent_flow,25516230]]'
+Commons_category: Laminar flow
+dv_has_:
+  name_:
+    ar: جريان صفيحي
+    az: düzgün axış
+    be: ламінарнае цячэнне
+    bg: ламинарен поток
+    bn: লেমিনার প্রবাহ
+    bs: laminarno strujanje
+    ca: flux laminar
+    cs: laminární proudění
+    cv: Ламинарлă юхăм
+    de: laminare Strömung
+    en: laminar flow
+    eo: lamena fluo
+    es: flujo laminar
+    et: laminaarne voolamine
+    fa: جریان آرام
+    fi: laminaarinen virtaus
+    fr: écoulement laminaire
+    he: זרימה שכבתית
+    hi: पटलीय प्रवाह
+    hr: laminarno strujanje
+    hu: lamináris áramlás
+    hy: լամինար հոսանք
+    id: aliran laminar
+    it: regime laminare
+    ja: 層流
+    ka: ლამინარული დინება
+    kk: ламинарлы ағын
+    kk-arab: لامىينارلى اعىن
+    kk-cn: لامىينارلى اعىن
+    kk-cyrl: ламинарлы ағын
+    kk-kz: ламинарлы ағын
+    kk-latn: lamïnarlı ağın
+    kk-tr: lamïnarlı ağın
+    ko: 층류
+    ky: ламинардык агым
+    lmo: regimm laminà
+    lv: lamināra plūsma
+    mn: ламинар урсгал
+    ms: lamina
+    nan: Chân-liû
+    nb: laminær strømning
+    nl: laminaire stroming
+    nn: laminær rørsle
+    pl: przepływ laminarny
+    pt: fluxo laminar
+    ro: curgere laminară
+    ru: ламинарное течение
+    sh: laminarno strujanje
+    sk: laminárne prúdenie
+    sl: laminarni tok
+    sv: laminär strömning
+    ta: வரிச்சீர் ஓட்டம்
+    tr: düzgün akış
+    uk: ламінарна течія
+    uz: laminar oqim
+    vec: rezime lamenar
+    vi: dòng chảy tầng
+    zh: 层流
+    zh-cn: 层流
+    zh-hans: 层流
+    zh-hant: 層流
+    zh-hk: 層流
+    zh-sg: 层流
+    zh-tw: 層流
 ---
-
 # [[Laminar_Flow]] 
 
 #has_/complement :: [[Turbulence|Turbulence]] 

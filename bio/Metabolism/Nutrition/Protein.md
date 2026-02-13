@@ -1,55 +1,169 @@
 ---
 aliases:
-  - protein
-  - protein
-  - Protein
-  - is_a_protein
-  - Eiweiß
+- baltymai
+- baltīms
+- belok
+- Beloklar
+- białko
+- bielkovina
+- bjelančevina
+- borotiin
+- bílkovina
+- Eiweiß
+- eiwit
+- fehérje
+- isakhamzimba
+- is_a_protein
+- lâung-băh-cék
+- nn̄g-pe̍h-chit
+- oaiwiete
+- olbaltumvielas
+- parotéin
+- pirootiinii
+- proteen
+- proteiidna
+- proteiin
+- proteiini
+- proteijdna
+- proteijnna
+- protein
+- Protein-a
+- proteina
+- proteine
+- proteinlar
+- proteino
+- proteinum
+- proteinë
+- proteină
+- protena
+- proteyene
+- proteyin
+- proteína
+- proteîn
+- proteïen
+- proteïna
+- Proteïne
+- protin
+- protina
+- protini
+- Protèin
+- protéin
+- protéine
+- pruteina
+- prutina
+- prutiìna
+- pròtain
+- próitéin
+- prótín
+- prôteinina
+- pūmua
+- thàn-pha̍k-chṳt
+- valk
+- vauktuš
+- zülallar
+- πρωτεΐνη
+- аксым
+- ашовт
+- ақуыз
+- аҡһымдар
+- білок
+- белковина
+- белок
+- белокаш
+- бялок
+- ладзар
+- протеін
+- протеин
+- сафедаҳо
+- уураг
+- уург
+- шуррисем
+- սպիտակուց
+- חלבון
+- פראטעין
+- بروتين
+- لحمیات
+- لپروتينات
+- پروتئین
+- پروتین
+- پروٹین
+- پروټين
+- پروٽين
+- پرٛوٹیٖن
+- پرۆتین
+- ڤروتين
+- ޕްރޮޓީން
+- प्रथिने
+- प्रोटिन
+- प्रोटीन
+- প্রোটিন
+- প্ৰ'টিন
+- ਪ੍ਰੋਟੀਨ
+- પ્રોટિન
+- ପୁଷ୍ଟିସାର
+- புரதம்
+- మాంసకృత్తులు
+- ಪ್ರೋಟೀನ್
+- മാംസ്യം
+- ප් රෝටීන්
+- โปรตีน
+- ປະໂລເຕອິນ
+- ပရိုတိန်း
+- ပရိုတေင်း
+- ცილები
+- ცილეფი
+- ፕሮቲን
+- ᎠᏓᎵᏥᏍᏗᏍᎩ
+- タンパク質
+- 朊
+- 蛋白質
+- 蛋白质
+- 단백질
 has_id_wikidata: Q8054
 Commons_category: Proteins
 confidential: public
 cssclasses:
-  - Type
+- Type
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Protein,7251423]]'
-  - '[[_Standards/WikiData/WD~Proteīni,123615447]]'
+- '[[_Standards/WikiData/WD~Protein,7251423]]'
+- '[[_Standards/WikiData/WD~Proteīni,123615447]]'
 draft: false
 encoded_by: '[[_Standards/WikiData/WD~protein-coding_gene,20747295]]'
 EntitySchema_for_this_class: E167
 equivalent_class:
-  - https://schema.org/Protein
-  - http://bioschemas.org/Protein
-  - http://dbpedia.org/ontology/Protein
-  - http://purl.obolibrary.org/obo/CHEBI_36080
-  - http://purl.obolibrary.org/obo/PR_000000001
+- https://schema.org/Protein
+- http://bioschemas.org/Protein
+- http://dbpedia.org/ontology/Protein
+- http://purl.obolibrary.org/obo/CHEBI_36080
+- http://purl.obolibrary.org/obo/PR_000000001
 exact_match:
-  - http://gbol.life/0.1/Protein
-  - http://semanticscience.org/resource/SIO_010043
+- http://gbol.life/0.1/Protein
+- http://semanticscience.org/resource/SIO_010043
 expiryDate: ''
 has_cause: '[[_Standards/WikiData/WD~genome_to_protein_translation,38594761]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~protein_structure,735188]]'
-  - '[[_Standards/WikiData/WD~protein_tertiary_structure,898483]]'
-  - '[[_Standards/WikiData/WD~protein_quaternary_structure,898529]]'
-  - '[[_Standards/WikiData/WD~protein_primary_structure,899763]]'
-  - '[[_Standards/WikiData/WD~protein_secondary_structure,904984]]'
-  - '[[_Standards/WikiData/WD~protein_dynamics,17156992]]'
+- '[[_Standards/WikiData/WD~protein_structure,735188]]'
+- '[[_Standards/WikiData/WD~protein_tertiary_structure,898483]]'
+- '[[_Standards/WikiData/WD~protein_quaternary_structure,898529]]'
+- '[[_Standards/WikiData/WD~protein_primary_structure,899763]]'
+- '[[_Standards/WikiData/WD~protein_secondary_structure,904984]]'
+- '[[_Standards/WikiData/WD~protein_dynamics,17156992]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~amino_acid,8066]]'
-  - '[[_Standards/WikiData/WD~peptide_bond,33293]]'
+- '[[_Standards/WikiData/WD~amino_acid,8066]]'
+- '[[_Standards/WikiData/WD~peptide_bond,33293]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Protein%20mosaic.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~second-order_class,24017414]]'
-  - '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~second-order_class,24017414]]'
+- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 isDeleted: false
 isReadOnly: false
 keywords:
-  - protein
+- protein
 Krugosvet_article: khimiya/belki
 layout: ''
 license: CC BY-SA 4.0
@@ -57,61 +171,253 @@ linkTitle: is_a_protein Class
 MeSH_tree_code: D12.776
 model_item: '[[_Standards/WikiData/WD~protein,21296145]]'
 part_of:
-  - '[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]'
-  - '[[_Standards/WikiData/WD~establishment_of_protein_localization,14912137]]'
-  - '[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]'
-  - '[[_Standards/WikiData/WD~regulation_of_protein_catabolic_process_at_synapse,_modulating_synaptic_transmission,22252481]]'
-  - '[[_Standards/WikiData/WD~protein_catabolic_process,_modulating_synaptic_transmission,22282565]]'
-  - '[[_Standards/WikiData/WD~protein_localization_to_spindle_pole_body,22289142]]'
-  - '[[_Standards/WikiData/WD~establishment_of_protein_localization_to_spindle_pole_body,22289146]]'
-  - '[[_Standards/WikiData/WD~protein_transmembrane_transport,22290846]]'
-  - '[[_Standards/WikiData/WD~protein_localization_to_mitotic_spindle_pole_body,22290921]]'
-  - '[[_Standards/WikiData/WD~protein_localization_to_meiotic_spindle_pole_body,22290970]]'
-  - '[[_Standards/WikiData/WD~protein_localization_to_cell_cortex_of_cell_tip,22291013]]'
-  - '[[_Standards/WikiData/WD~membrane_insertase_activity,22324804]]'
-  - '[[_Standards/WikiData/WD~protein_localization_to_cell_wall,24480048]]'
-  - '[[_Standards/WikiData/WD~protein_transport_along_microtubule_to_mitotic_spindle_pole_body,26252194]]'
-  - '[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport,27948963]]'
-  - '[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport_to_cell_tip_cortex,27948964]]'
-  - '[[_Standards/WikiData/WD~protein_catabolic_process_at_postsynapse,56058202]]'
-  - '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_synapse,56058203]]'
-  - '[[_Standards/WikiData/WD~protein_catabolic_process_at_synapse,56058200]]'
-  - '[[_Standards/WikiData/WD~protein_catabolic_process_at_presynapse,56058201]]'
-  - '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_presynapse,56058204]]'
-  - '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_postsynapse,56058205]]'
+- '[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]'
+- '[[_Standards/WikiData/WD~establishment_of_protein_localization,14912137]]'
+- '[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]'
+- '[[_Standards/WikiData/WD~regulation_of_protein_catabolic_process_at_synapse,_modulating_synaptic_transmission,22252481]]'
+- '[[_Standards/WikiData/WD~protein_catabolic_process,_modulating_synaptic_transmission,22282565]]'
+- '[[_Standards/WikiData/WD~protein_localization_to_spindle_pole_body,22289142]]'
+- '[[_Standards/WikiData/WD~establishment_of_protein_localization_to_spindle_pole_body,22289146]]'
+- '[[_Standards/WikiData/WD~protein_transmembrane_transport,22290846]]'
+- '[[_Standards/WikiData/WD~protein_localization_to_mitotic_spindle_pole_body,22290921]]'
+- '[[_Standards/WikiData/WD~protein_localization_to_meiotic_spindle_pole_body,22290970]]'
+- '[[_Standards/WikiData/WD~protein_localization_to_cell_cortex_of_cell_tip,22291013]]'
+- '[[_Standards/WikiData/WD~membrane_insertase_activity,22324804]]'
+- '[[_Standards/WikiData/WD~protein_localization_to_cell_wall,24480048]]'
+- '[[_Standards/WikiData/WD~protein_transport_along_microtubule_to_mitotic_spindle_pole_body,26252194]]'
+- '[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport,27948963]]'
+- '[[_Standards/WikiData/WD~microtubule_polymerization_based_protein_transport_to_cell_tip_cortex,27948964]]'
+- '[[_Standards/WikiData/WD~protein_catabolic_process_at_postsynapse,56058202]]'
+- '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_synapse,56058203]]'
+- '[[_Standards/WikiData/WD~protein_catabolic_process_at_synapse,56058200]]'
+- '[[_Standards/WikiData/WD~protein_catabolic_process_at_presynapse,56058201]]'
+- '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_presynapse,56058204]]'
+- '[[_Standards/WikiData/WD~regulation_protein_catabolic_process_at_postsynapse,56058205]]'
 properties_for_this_type:
-  - UniProt protein ID
-  - RefSeq protein ID
-  - cell component
-  - molecular function
-  - biological process
-  - Ensembl protein ID
-  - regulates (molecular biology)
+- UniProt protein ID
+- RefSeq protein ID
+- cell component
+- molecular function
+- biological process
+- Ensembl protein ID
+- regulates (molecular biology)
 publish: true
 publishDate: ''
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%BD%D5%BA%D5%AB%D5%BF%D5%A1%D5%AF%D5%B8%D6%82%D6%81%D5%B6%D5%A5%D6%80%20%28Protein%29.ogg
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/proteins
 studied_in:
-  - '[[_Standards/WikiData/WD~protein_science,50490180]]'
-  - '[[_Standards/WikiData/WD~protein_chemistry,105252429]]'
+- '[[_Standards/WikiData/WD~protein_science,50490180]]'
+- '[[_Standards/WikiData/WD~protein_chemistry,105252429]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~biopolymer,422649]]'
-  - '[[_Standards/WikiData/WD~gene_product,424689]]'
-  - '[[_Standards/WikiData/WD~polypeptide,3084232]]'
-  - '[[_Standards/WikiData/WD~biological_macromolecule,66560214]]'
+- '[[_Standards/WikiData/WD~biopolymer,422649]]'
+- '[[_Standards/WikiData/WD~gene_product,424689]]'
+- '[[_Standards/WikiData/WD~polypeptide,3084232]]'
+- '[[_Standards/WikiData/WD~biological_macromolecule,66560214]]'
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_protein Class
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Protein_topics,6269469]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_protein,52493]]'
+- '[[_Standards/WikiData/WD~Template_Protein_topics,6269469]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_protein,52493]]'
 type: Type
 Universal_Decimal_Classification: 547.96
 UNSPSC_Code: 12352202
 Wolfram_Language_entity_type: Protein
+dv_has_:
+  name_:
+    af: proteïen
+    am: ፕሮቲን
+    an: proteína
+    ar: بروتين
+    ary: لپروتينات
+    arz: بروتين
+    as: প্ৰ'টিন
+    ast: proteína
+    az: zülallar
+    azb: پروتئین
+    ba: аҡһымдар
+    ban: protéin
+    bcl: protina
+    be: бялок
+    be-tarask: бялок
+    bg: протеин
+    bho: प्रोटीन
+    bjn: parotéin
+    blk: ပရိုတေင်း
+    bn: প্রোটিন
+    br: protein
+    bs: protein
+    btm: Protein
+    bxr: уураг
+    ca: proteïna
+    cdo: lâung-băh-cék
+    ce: белокаш
+    ceb: protina
+    chr: ᎠᏓᎵᏥᏍᏗᏍᎩ
+    ckb: پرۆتین
+    crh: protein
+    cs: bílkovina
+    cv: шуррисем
+    cy: protein
+    da: protein
+    de: Protein
+    dty: प्रोटिन
+    dv: ޕްރޮޓީން
+    el: πρωτεΐνη
+    en: protein
+    eo: proteino
+    es: proteína
+    et: valk
+    eu: proteina
+    ext: proteína
+    fa: پروتئین
+    fi: proteiini
+    fj: Protein
+    fo: protein
+    fr: protéine
+    frr: Protein
+    fur: Proteine
+    fy: proteïne
+    ga: próitéin
+    gd: pròtain
+    gl: proteína
+    gn: proteína
+    gsw: Protein
+    gu: પ્રોટિન
+    gv: proteen
+    hak: thàn-pha̍k-chṳt
+    he: חלבון
+    hi: प्रोटीन
+    hif: protein
+    hr: bjelančevina
+    ht: proteyin
+    hu: fehérje
+    hy: սպիտակուց
+    ia: proteina
+    iba: Protein
+    id: protein
+    ilo: protina
+    inh: белокаш
+    io: proteino
+    is: prótín
+    it: proteina
+    ja: タンパク質
+    jv: protein
+    ka: ცილები
+    kaa: Beloklar
+    kk: ақуыз
+    kn: ಪ್ರೋಟೀನ್
+    knc: Protein
+    ko: 단백질
+    ks: پرٛوٹیٖن
+    ku: proteîn
+    kw: protin
+    ky: белок
+    la: proteinum
+    lb: Protein
+    lez: ладзар
+    lfn: protena
+    li: Proteïne
+    lmo: pruteina
+    lo: ປະໂລເຕອິນ
+    lt: baltymai
+    lv: olbaltumvielas
+    lzh: 朊
+    mad: Protèin
+    mg: prôteinina
+    mi: pūmua
+    mk: белковина
+    ml: മാംസ്യം
+    mn: уураг
+    mr: प्रथिने
+    ms: protein
+    ms-arab: ڤروتين
+    mt: proteina
+    my: ပရိုတိန်း
+    myv: ашовт
+    mzn: پروتین
+    nan: nn̄g-pe̍h-chit
+    nb: protein
+    nds: Protein
+    ne: प्रोटिन
+    new: प्रोटिन
+    nl: eiwit
+    nn: protein
+    nov: proteine
+    oc: proteïna
+    om: pirootiinii
+    or: ପୁଷ୍ଟିସାର
+    pa: ਪ੍ਰੋਟੀਨ
+    pam: protina
+    pl: białko
+    pms: Protein-a
+    pnb: پروٹین
+    ps: پروټين
+    pt: proteína
+    pt-br: proteína
+    qu: prutina
+    rki: ပရိုတိန်း
+    ro: proteină
+    ru: белок
+    rue: протеін
+    sah: протеин
+    scn: prutiìna
+    sco: protein
+    sd: پروٽين
+    se: proteiidna
+    sgs: baltīms
+    sh: protein
+    si: ප් රෝටීන්
+    sje: proteijdna
+    sk: bielkovina
+    skr: پروٹین
+    sl: protein
+    smj: proteijnna
+    smn: proteiin
+    sms: proteiin
+    so: borotiin
+    sq: proteinë
+    sr: протеин
+    sr-ec: протеин
+    sr-el: protein
+    stq: oaiwiete
+    su: protéin
+    sv: protein
+    sw: protini
+    ta: புரதம்
+    te: మాంసకృత్తులు
+    tg: сафедаҳо
+    th: โปรตีน
+    tk: belok
+    tl: protina
+    tr: protein
+    tt: аксым
+    tt-cyrl: аксым
+    tyv: белок
+    udm: белок
+    uk: білок
+    ur: لحمیات
+    uz: proteinlar
+    vec: proteina
+    vep: vauktuš
+    vi: protein
+    vls: proteïne
+    wa: proteyene
+    war: protina
+    wuu: 蛋白质
+    xal: уург
+    xmf: ცილეფი
+    yi: פראטעין
+    yue: 蛋白質
+    zh: 蛋白质
+    zh-cn: 蛋白质
+    zh-hans: 蛋白质
+    zh-hant: 蛋白質
+    zh-hk: 蛋白質
+    zh-tw: 蛋白質
+    zu: isakhamzimba
 ---
-
 # [[Protein]] 
 
 Class of all proteins.

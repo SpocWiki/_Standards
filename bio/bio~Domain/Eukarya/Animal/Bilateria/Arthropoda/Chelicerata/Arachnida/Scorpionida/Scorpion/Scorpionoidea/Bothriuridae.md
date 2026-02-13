@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Bothriuridae
+- Bothriuridae
+- بوثريوريدا
+- 腺尾蝎科
+- 腺尾蠍科
 title: Bothriuridae
 has_id_wikidata: Q134892
+dv_has_:
+  name_:
+    an: Bothriuridae
+    arz: بوثريوريدا
+    ast: Bothriuridae
+    bg: Bothriuridae
+    ca: Bothriuridae
+    ceb: Bothriuridae
+    cs: Bothriuridae
+    de: Bothriuridae
+    en: Bothriuridae
+    eo: Bothriuridae
+    es: Bothriuridae
+    eu: Bothriuridae
+    ext: Bothriuridae
+    fi: Bothriuridae
+    fr: Bothriuridae
+    ga: Bothriuridae
+    gl: Bothriuridae
+    ia: Bothriuridae
+    ie: Bothriuridae
+    io: Bothriuridae
+    it: Bothriuridae
+    la: Bothriuridae
+    mul: Bothriuridae
+    nb: Bothriuridae
+    nl: Bothriuridae
+    oc: Bothriuridae
+    pl: Bothriuridae
+    pt: Bothriuridae
+    pt-br: Bothriuridae
+    ro: Bothriuridae
+    ru: Bothriuridae
+    sq: Bothriuridae
+    sr: Bothriuridae
+    sv: Bothriuridae
+    tr: Bothriuridae
+    uk: Bothriuridae
+    vi: Bothriuridae
+    vo: Bothriuridae
+    war: Bothriuridae
+    zh: 腺尾蝎科
+    zh-cn: 腺尾蝎科
+    zh-hans: 腺尾蝎科
+    zh-tw: 腺尾蠍科
 ---
 # [[Bothriuridae]] 
 

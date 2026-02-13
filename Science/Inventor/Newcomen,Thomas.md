@@ -1,20 +1,35 @@
 ---
 aliases:
-  - Thomas_Newcomen
-  - Thomas Newcomen
-  - Newcomen
-  - Newcomen,Thomas
+- Newcomen
+- Newcomen,Thomas
+- Thomas Newcomen
+- Thomas_Newcomen
+- Tomas Njukomen
+- Tomas Nyukomen
+- Томас Ньюкамэн
+- Томас Ньюкомен
+- Томас Нюкомен
+- תומאס ניוקומן
+- توماس نيوكمان
+- توماس نیو کامن
+- ਥੌਮਸ ਨਿਊਕੋਮੈਨ
+- තෝමස් නිව්කොමන්
+- ტომას ნიუკომენი
+- トーマス・ニューコメン
+- 汤玛斯·纽科门
+- 湯瑪斯·紐科門
+- 토머스 뉴커먼
 has_id_wikidata: Q193042
 religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~mechanic,327029]]'
-  - '[[_Standards/WikiData/WD~ironmonger,21531924]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~mechanic,327029]]'
+- '[[_Standards/WikiData/WD~ironmonger,21531924]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bunhill_Fields_Burial_Ground,782140]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
 place_of_birth: '[[_Standards/WikiData/WD~Dartmouth,1007083]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~The_Henry_Ford,3521242]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -29,8 +44,73 @@ Commons_category: Thomas Newcomen
 ISNI: 0000000043208769
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Maquina%20vapor%20Watt%20ETSIIM.jpg
 date_of_birth: 1664-02-28T00:00:00Z
+dv_has_:
+  name_:
+    ar: توماس نيوكمان
+    arz: توماس نيوكمان
+    ast: Thomas Newcomen
+    az: Tomas Nyukomen
+    azb: توماس نیو کامن
+    be-tarask: Томас Ньюкамэн
+    bg: Томас Нюкомен
+    ca: Thomas Newcomen
+    cs: Thomas Newcomen
+    cy: Thomas Newcomen
+    da: Thomas Newcomen
+    de: Thomas Newcomen
+    en: Thomas Newcomen
+    eo: Thomas Newcomen
+    es: Thomas Newcomen
+    et: Thomas Newcomen
+    eu: Thomas Newcomen
+    fa: توماس نیو کامن
+    fi: Thomas Newcomen
+    fr: Thomas Newcomen
+    ga: Thomas Newcomen
+    gl: Thomas Newcomen
+    gsw: Thomas Newcomen
+    he: תומאס ניוקומן
+    hr: Thomas Newcomen
+    hu: Thomas Newcomen
+    id: Thomas Newcomen
+    io: Thomas Newcomen
+    is: Thomas Newcomen
+    it: Thomas Newcomen
+    ja: トーマス・ニューコメン
+    ka: ტომას ნიუკომენი
+    ko: 토머스 뉴커먼
+    la: Thomas Newcomen
+    lfn: Thomas Newcomen
+    mg: Thomas Newcomen
+    nb: Thomas Newcomen
+    nl: Thomas Newcomen
+    nn: Thomas Newcomen
+    oc: Thomas Newcomen
+    pa: ਥੌਮਸ ਨਿਊਕੋਮੈਨ
+    pl: Thomas Newcomen
+    pt: Thomas Newcomen
+    pt-br: Thomas Newcomen
+    ro: Thomas Newcomen
+    ru: Томас Ньюкомен
+    si: තෝමස් නිව්කොමන්
+    sk: Thomas Newcomen
+    sl: Thomas Newcomen
+    sq: Thomas Newcomen
+    sr: Tomas Njukomen
+    sv: Thomas Newcomen
+    tr: Thomas Newcomen
+    uk: Томас Ньюкомен
+    vi: Thomas Newcomen
+    war: Thomas Newcomen
+    yue: 湯瑪斯·紐科門
+    zh: 湯瑪斯·紐科門
+    zh-cn: 汤玛斯·纽科门
+    zh-hans: 汤玛斯·纽科门
+    zh-hant: 湯瑪斯·紐科門
+    zh-hk: 湯瑪斯·紐科門
+    zh-sg: 汤玛斯·纽科门
+    zh-tw: 湯瑪斯·紐科門
 ---
-
 # [[Newcomen,Thomas]] 
 
 #is_/same_as :: [[WD~Thomas_Newcomen,193042]] 

@@ -1,8 +1,61 @@
 ---
 has_id_wikidata: Q14650718
+dv_has_:
+  name_:
+    ar: خبز أسمر
+    arz: عيش اسمر
+    az: Tam buğda çörəyi
+    be-tarask: цэльназерневы хлеб
+    cv: Тулă пĕремĕкĕ
+    de: Vollkornbrot
+    el: ψωμί ολικής άλεσης
+    en: whole wheat bread
+    eo: integra tritika pano
+    fa: نان گندم کامل
+    fi: täysjyvävehnäleipä
+    fr: pain complet
+    he: לחם חיטה מלאה
+    id: Roti gandum utuh
+    ja: 全粒粉パン
+    ko: 통밀빵
+    nl: volkorenbrood
+    pl: Chleb razowy
+    pt: pão de trigo
+    sv: fullkornsbröd
+    uk: Цільнозерновий хліб
+    vi: Bánh mì ngũ cốc
+    yue: 麥包
+    zh: 全麥麵包
+    zh-hans: 全穀面包
+    zh-hant: 全穀麵包
+aliases:
+- Bánh mì ngũ cốc
+- Chleb razowy
+- fullkornsbröd
+- integra tritika pano
+- pain complet
+- pão de trigo
+- Roti gandum utuh
+- Tam buğda çörəyi
+- täysjyvävehnäleipä
+- volkorenbrood
+- Vollkornbrot
+- whole wheat bread
+- ψωμί ολικής άλεσης
+- Тулă пĕремĕкĕ
+- Цільнозерновий хліб
+- цэльназерневы хлеб
+- לחם חיטה מלאה
+- خبز أسمر
+- عيش اسمر
+- نان گندم کامل
+- 全穀面包
+- 全穀麵包
+- 全粒粉パン
+- 全麥麵包
+- 麥包
+- 통밀빵
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Whole wheat bread or wholemeal bread is a type of bread made 

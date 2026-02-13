@@ -1,12 +1,147 @@
 ---
 aliases:
-  - Antidorcas marsupialis
-  - springbok
-  - Springbock
-  - springbuck
-  - Springbok
+- Amabhokobhoko
+- Antidorcas
+- Antidorcas marsupialis
+- antilopa skákavá
+- Boortee xulubaa
+- Cabra-de-leque
+- Dienvidāfrikas gazele
+- gasela saltadora del Cap
+- hyppygaselli
+- Hüpikgasell
+- ibhadi
+- Jádí nahachaʼígíí
+- Keseli Ceylan
+- Linh dương nhảy
+- Putcumol (Antidorcas marsupialis)
+- Skocznik antylopi
+- skokonoga gazela
+- Springbock
+- springbok
+- Springbok antilopa
+- springbuck
+- Springbuk
+- springbukk
+- Springbôka
+- Springböcke
+- spriongboc
+- Stökkhafur
+- Swala Mrukaji
+- tembu lompat
+- vándorantilop
+- Šoklioji gazelė
+- газела-скокач
+- планински скакач
+- Спрингбок
+- Спрингбок антилопа
+- Спрынгбок
+- Սփրինգբոկ
+- דלגן
+- سپرنگبوک
+- غزال جهنده
+- قوفز
+- قوقز
+- ਸਪਰਨਗਬੋਕ
+- துள்ளல் மான்
+- ಜಿಗಿಜಿಂಕೆ
+- สปริงบ็อก
+- စပရင်းဗုတ်တောဆိတ်
+- სპრინგბოკი
+- スプリングボック
+- 跳羚
+- 스프링복
 title: Antidorcas marsupialis
 has_id_wikidata: Q213084
+dv_has_:
+  name_:
+    af: Springbok
+    ar: قوفز
+    arz: قوقز
+    ast: Antidorcas marsupialis
+    av: Спрингбок
+    avk: Putcumol (Antidorcas marsupialis)
+    ban: Springbok
+    be: Спрынгбок
+    be-tarask: спрынгбок
+    bg: планински скакач
+    br: Springbok
+    ca: gasela saltadora del Cap
+    ceb: Antidorcas marsupialis
+    cs: antilopa skákavá
+    da: Springbuk
+    de: Springböcke
+    en: springbok
+    es: Antidorcas marsupialis
+    et: Hüpikgasell
+    eu: Springbok
+    fa: غزال جهنده
+    fi: hyppygaselli
+    fr: springbok
+    frr: Antidorcas
+    ga: spriongboc
+    gd: Antidorcas marsupialis
+    gl: Antidorcas marsupialis
+    he: דלגן
+    hr: Springbok
+    hu: vándorantilop
+    hy: Սփրինգբոկ
+    ia: Antidorcas marsupialis
+    id: Springbok
+    is: Stökkhafur
+    it: Antidorcas marsupialis
+    ja: スプリングボック
+    ka: სპრინგბოკი
+    kk: Спрингбок
+    kn: ಜಿಗಿಜಿಂಕೆ
+    ko: 스프링복
+    la: Antidorcas marsupialis
+    lez: Спрингбок
+    lt: Šoklioji gazelė
+    lv: Dienvidāfrikas gazele
+    mg: Springbôka
+    mk: газела-скокач
+    ms: tembu lompat
+    mul: Antidorcas marsupialis
+    my: စပရင်းဗုတ်တောဆိတ်
+    nb: springbukk
+    nl: springbok
+    nv: Jádí nahachaʼígíí
+    om: Boortee xulubaa
+    pa: ਸਪਰਨਗਬੋਕ
+    pl: Skocznik antylopi
+    pnb: سپرنگبوک
+    pt: Cabra-de-leque
+    ro: Antidorcas marsupialis
+    ru: Спрингбок
+    sh: Springbok antilopa
+    sk: Antilopa skákavá
+    sl: skokonoga gazela
+    sq: Antidorcas marsupialis
+    sr: Спрингбок антилопа
+    sr-ec: Спрингбок антилопа
+    sr-el: Springbok antilopa
+    sv: Springbock
+    sw: Swala Mrukaji
+    ta: துள்ளல் மான்
+    th: สปริงบ็อก
+    tr: Keseli Ceylan
+    udm: Спрингбок
+    uk: Спрингбок
+    vi: Linh dương nhảy
+    war: Antidorcas marsupialis
+    wuu: 跳羚
+    xh: ibhadi
+    yo: Springbok
+    yue: 跳羚
+    zh: 跳羚
+    zh-cn: 跳羚
+    zh-hans: 跳羚
+    zh-hant: 跳羚
+    zh-hk: 跳羚
+    zh-sg: 跳羚
+    zh-tw: 跳羚
+    zu: Amabhokobhoko
 ---
 [Temporary Page](tree/home.pages/pagestatus.html)
 

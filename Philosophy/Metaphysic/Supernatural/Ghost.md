@@ -1,34 +1,238 @@
 ---
 aliases:
+- Arvoh
+- Bhut
+- Dhemit
+- draugur
+- duch
+- duh
+- fantasma
+- fantauma
+- fantazmë
+- fantomo
+- fantàsima
+- fantôme
+- Gespenst
+- ghaist
+- ghost
+- Gūi
+- hantu
+- hayalet
+- jurig
+- kabus
+- kummitus
+- kuí
+- kísértet
+- larva
+- Lati
+- lentegh
+- ma
+- mamu
+- Matoatoa
+- multo
+- näguz
+- pantasima
+- Pantasma
+- přízrak
+- Spoeak
+- spoek
+- spoks
+- spook
+- spöke
+- spøgelse
+- spøkelse
+- spûk
+- stafie
+- stihio
+- taibhse
+- tasmant
+- tlācanēxquimilli
+- vaiduoklis
+- ysbryd
+- ñazɩñazʊʊ
+- öräk
+- ĕмĕлке
+- šerjenje
+- Φάντασμα
+- Арвоҳ
+- дух
+- елес
+- здань
+- көстүбэт киһи
+- привид
+- привидение
+- сүнс
+- Өрәк
+- Ուրվական
+- רוח רפאים
+- بھوت
+- تارمایی
+- شبح
+- भूत
+- ভূত
+- ਭੂਤ
+- ଭୂତ
+- ஆவி
+- దెయ్యం
+- ಪಿಶಾಚಿ
+- പ്രേതം
+- ผี
+- ຜີ
+- འདྲེ་
+- သရဲ
+- ၽဵတ်ႇ
+- მოჩვენება
+- ᎠᏂᏣᏍᎩᎵ
+- ᡥᡠᡨᡠ
+- 亡霊
+- 鬼
+- 유령
 has_id_wikidata: Q45529
 subclass_of:
-  - "[[_Standards/WikiData/WD~spirit,193291]]"
-  - "[[_Standards/WikiData/WD~undead,239872]]"
-  - "[[_Standards/WikiData/WD~supernatural_being,28855038]]"
+- '[[_Standards/WikiData/WD~spirit,193291]]'
+- '[[_Standards/WikiData/WD~undead,239872]]'
+- '[[_Standards/WikiData/WD~supernatural_being,28855038]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Ghost,296005]]"
-  - "[[_Standards/WikiData/WD~Fantôme,3066652]]"
-  - "[[_Standards/WikiData/WD~ghost_in_a_work_of_fiction,30061299]]"
+- '[[_Standards/WikiData/WD~Ghost,296005]]'
+- '[[_Standards/WikiData/WD~Fantôme,3066652]]'
+- '[[_Standards/WikiData/WD~ghost_in_a_work_of_fiction,30061299]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-has_list: "[[_Standards/WikiData/WD~list_of_ghosts,6585901]]"
-studied_by: "[[_Standards/WikiData/WD~ghostology,113957702]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+has_list: '[[_Standards/WikiData/WD~list_of_ghosts,6585901]]'
+studied_by: '[[_Standards/WikiData/WD~ghostology,113957702]]'
 Commons_category: Ghosts
 Commons_gallery: Ghost
 IMDb_keyword: ghost
 hashtag_:
-  - ghost
-  - spiritual-beings
-OmegaWiki_Defined_Meaning: "525317"
+- ghost
+- spiritual-beings
+OmegaWiki_Defined_Meaning: 525317
 Iconclass_notation: 13A1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athenodorus%20-%20The%20Greek%20Stoic%20Philosopher%20Athenodorus%20Rents%20a%20Haunted%20House.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/A%20STATUE%20OF%20A%20SITTING%20GHOST.stl
-Unicode_character: 👻
+Unicode_character: "\U0001F47B"
 Wikidata_usage_instructions: for ghosts from a work of fiction see Q30061299
+dv_has_:
+  name_:
+    af: spook
+    an: pantasma
+    ar: شبح
+    ast: pantasma
+    az: kabus
+    ba: Өрәк
+    bcl: multo
+    be-tarask: здань
+    bg: дух
+    bho: भूत
+    bn: ভূত
+    bo: འདྲེ་
+    br: tasmant
+    ca: fantasma
+    cdo: Gūi
+    chr: ᎠᏂᏣᏍᎩᎵ
+    ckb: تارمایی
+    cs: přízrak
+    cv: ĕмĕлке
+    cy: ysbryd
+    da: spøgelse
+    de: Gespenst
+    el: Φάντασμα
+    en: ghost
+    eo: fantomo
+    es: fantasma
+    et: kummitus
+    eu: mamu
+    fa: شبح
+    fi: kummitus
+    fr: fantôme
+    fy: spûk
+    ga: taibhse
+    gd: taibhse
+    gl: pantasma
+    gom: Bhut
+    gor: Lati
+    he: רוח רפאים
+    hi: भूत
+    hr: duh
+    hsb: šerjenje
+    hu: kísértet
+    hy: Ուրվական
+    ia: fantasma
+    id: hantu
+    io: fantomo
+    is: draugur
+    it: fantasma
+    ja: 亡霊
+    jv: Dhemit
+    ka: მოჩვენება
+    kbp: ñazɩñazʊʊ
+    kk: елес
+    ko: 유령
+    la: larva
+    lb: Gespenst
+    lfn: Fantasma
+    li: Spoeak
+    lmo: lentegh
+    lo: ຜີ
+    lt: vaiduoklis
+    lv: spoks
+    mg: Matoatoa
+    mk: дух
+    ml: പ്രേതം
+    mn: сүнс
+    mnc: ᡥᡠᡨᡠ
+    mr: भूत
+    ms: hantu
+    my: သရဲ
+    nah: tlācanēxquimilli
+    nan: kuí
+    nb: spøkelse
+    nds-nl: spoek
+    ne: भूत
+    nl: spook
+    nn: spøkelse
+    oc: fantauma
+    or: ଭୂତ
+    pa: ਭੂਤ
+    pl: duch
+    pt: fantasma
+    ro: stafie
+    ru: привидение
+    rup: stihio
+    sah: көстүбэт киһи
+    sc: pantasima
+    scn: fantàsima
+    sco: ghaist
+    sh: duh
+    shn: ၽဵတ်ႇ
+    sk: duch
+    sl: duh
+    sq: fantazmë
+    sr: дух
+    su: jurig
+    sv: spöke
+    ta: ஆவி
+    tcy: ಪಿಶಾಚಿ
+    te: దెయ్యం
+    tg: Арвоҳ
+    th: ผี
+    tl: multo
+    tr: hayalet
+    tt: öräk
+    uk: привид
+    ur: بھوت
+    uz: Arvoh
+    vep: näguz
+    vi: ma
+    war: Pantasma
+    wuu: 鬼
+    yue: 鬼
+    zh: 鬼
+    zh-hans: 鬼
+    zh-hant: 鬼
 ---
-
 # [[Ghost]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ghost,45529|WD~Ghost,45529]] 

@@ -1,8 +1,98 @@
 ---
 aliases:
-  - Hyacinthaceae
+- csillagvirágformák
+- Hiacintiniai
+- hiacyntowate
+- Hyacint-familien
+- Hyacinthaceae
+- hyacintovité
+- Hyacintowe rostliny
+- Hyacintväxter
+- Hyasintfamilien
+- Hüatsindilised
+- Họ Lan dạ hương
+- Jacintàcia
+- Scilloideae
+- Zümrüdçiçəyikimilər
+- пролесковые
+- синчеци
+- մկնասոխայիններ
+- יקינתוניים
+- إشقيلاوات
+- اشقيلاوات
+- سنبلیان
+- ツルボ亜科
+- 風信子科
+- 风信子科
+- 무릇아과
 title: Hyacinthaceae
 has_id_wikidata: Q133292
+dv_has_:
+  name_:
+    an: Scilloideae
+    ar: إشقيلاوات
+    arz: اشقيلاوات
+    ast: Scilloideae
+    az: Zümrüdçiçəyikimilər
+    be: Scilloideae
+    bg: Scilloideae
+    ca: Jacintàcia
+    ceb: Scilloideae
+    cs: hyacintovité
+    da: Hyacint-familien
+    de: Scilloideae
+    en: Scilloideae
+    eo: Scilloideae
+    es: Scilloideae
+    et: Hüatsindilised
+    eu: Scilloideae
+    ext: Scilloideae
+    fa: سنبلیان
+    fi: Scilloideae
+    fr: Scilloideae
+    ga: Scilloideae
+    gl: Scilloideae
+    he: יקינתוניים
+    hr: Scilloideae
+    hsb: Hyacintowe rostliny
+    hu: csillagvirágformák
+    hy: մկնասոխայիններ
+    ia: Scilloideae
+    ie: Scilloideae
+    io: Scilloideae
+    it: Scilloideae
+    ja: ツルボ亜科
+    ko: 무릇아과
+    la: Scilloideae
+    lt: Hiacintiniai
+    mk: синчеци
+    mul: Scilloideae
+    nb: Hyasintfamilien
+    nl: Scilloideae
+    oc: Scilloideae
+    pl: hiacyntowate
+    pt: Hyacinthaceae
+    pt-br: scilloideae
+    ro: Scilloideae
+    ru: пролесковые
+    sl: Scilloideae
+    sq: Scilloideae
+    sr: Hyacinthaceae
+    sr-ec: Hyacinthaceae
+    sr-el: Hyacinthaceae
+    sv: Hyacintväxter
+    tr: Scilloideae
+    uk: Scilloideae
+    vi: Họ Lan dạ hương
+    vo: Scilloideae
+    war: Scilloideae
+    zh: 风信子科
+    zh-cn: 风信子科
+    zh-hans: 风信子科
+    zh-hant: 風信子科
+    zh-hk: 風信子科
+    zh-sg: 风信子科
+    zh-tw: 風信子科
 ---
 ## Phylogeny 
 

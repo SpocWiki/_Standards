@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Quillajaceae
+- Kvilajacoj
+- mydlokorovité
+- Mydłokrzewowate
+- Quillajaceae
+- ക്വില്ലജേസീ
+- キラヤ科
+- 皂皮树科
 title: Quillaja
 has_id_wikidata: Q13634380
+dv_has_:
+  name_:
+    an: Quillajaceae
+    ast: Quillajaceae
+    bg: Quillajaceae
+    bs: Quillajaceae
+    ca: Quillajaceae
+    ceb: Quillajaceae
+    cs: mydlokorovité
+    de: Quillajaceae
+    en: Quillajaceae
+    eo: Kvilajacoj
+    es: Quillajaceae
+    eu: Quillajaceae
+    ext: Quillajaceae
+    fi: Quillajaceae
+    fr: Quillajaceae
+    ga: Quillajaceae
+    gl: Quillajaceae
+    hr: Quillajaceae
+    ia: Quillajaceae
+    id: Quillajaceae
+    ie: Quillajaceae
+    io: Quillajaceae
+    it: Quillajaceae
+    ja: キラヤ科
+    la: Quillajaceae
+    ml: ക്വില്ലജേസീ
+    mul: Quillajaceae
+    nb: Quillajaceae
+    nl: Quillajaceae
+    oc: Quillajaceae
+    pl: Mydłokrzewowate
+    pt: Quillajaceae
+    pt-br: Quillajaceae
+    ro: Quillajaceae
+    ru: Quillajaceae
+    sq: Quillajaceae
+    sr: Quillajaceae
+    tr: Quillajaceae
+    uk: Quillajaceae
+    vi: Quillajaceae
+    vo: Quillajaceae
+    war: Quillajaceae
+    zh: 皂皮树科
 ---
 ## Phylogeny 
 

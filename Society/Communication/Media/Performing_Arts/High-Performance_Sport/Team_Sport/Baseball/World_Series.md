@@ -1,8 +1,79 @@
 ---
 has_id_wikidata: Q265538
+dv_has_:
+  name_:
+    af: World Series (bofbal)
+    ar: سلسلة العالم
+    ast: Serie Mundial
+    be-tarask: Сусьветная сэрыя
+    ca: Sèries Mundials de beisbol
+    cs: Světová série
+    da: Baseball playoffs
+    de: World Series
+    el: Αμερικανικό πρωτάθλημα Μπέιζμπολ
+    en: World Series
+    eo: Monda Serio
+    es: Serie Mundial
+    et: World Series
+    eu: Munduko Beisbol Sailak
+    fi: World Series
+    fr: Série mondiale
+    fy: World Series
+    gl: World Series
+    he: וורלד סיריס
+    hr: World Series
+    hu: World Series
+    hy: Համաշխարհային սերիա
+    id: World Series
+    it: World Series
+    ja: ワールドシリーズ
+    ko: 월드 시리즈
+    la: Series Mundana
+    lv: Pasaules sērija
+    mk: Светска серија
+    ms: Siri Dunia
+    nb: World Series
+    nl: World Series
+    pl: World Series
+    pt: World Series
+    ru: Мировая серия
+    sco: World Series
+    sh: World Series
+    sk: Svetová séria
+    sr: Svetska serija (bejzbol)
+    sv: World Series
+    tr: World Series
+    uk: Світова серія
+    vi: World Series
+    yue: 世界大賽
+    zh: 世界大賽
+aliases:
+- Baseball playoffs
+- Monda Serio
+- Munduko Beisbol Sailak
+- Pasaules sērija
+- Serie Mundial
+- Series Mundana
+- Siri Dunia
+- Svetová séria
+- Svetska serija (bejzbol)
+- Světová série
+- Sèries Mundials de beisbol
+- Série mondiale
+- World Series
+- World Series (bofbal)
+- Αμερικανικό πρωτάθλημα Μπέιζμπολ
+- Мировая серия
+- Світова серія
+- Светска серија
+- Сусьветная сэрыя
+- Համաշխարհային սերիա
+- וורלד סיריס
+- سلسلة العالم
+- ワールドシリーズ
+- 世界大賽
+- 월드 시리즈
 ---
-
-
 # [[World_Series]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~World_Series,265538|WD~World_Series,265538]]  

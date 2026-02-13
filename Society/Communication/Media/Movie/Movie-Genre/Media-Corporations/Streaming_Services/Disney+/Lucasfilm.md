@@ -1,8 +1,98 @@
 ---
 has_id_wikidata: Q242446
+dv_has_:
+  name_:
+    ar: لوكاس فلم
+    ast: Lucasfilm
+    az: Lucasfilm
+    azb: لوکاس فیلم
+    be: Lucasfilm
+    be-tarask: Lucasfilm
+    bg: Лукасфилм
+    bn: লুকাসফিল্ম
+    br: Lucasfilm
+    bs: LucasFilm Ltd.
+    ca: Lucasfilm
+    cs: Lucasfilm
+    da: Lucasfilm
+    de: Lucasfilm
+    el: Lucasfilm
+    en: Lucasfilm
+    es: Lucasfilm
+    et: Lucasfilm
+    eu: Lucasfilm
+    fa: لوکاس فیلم
+    fi: Lucasfilm
+    fr: Lucasfilm
+    fy: Lucasfilm
+    ga: Lucasfilm
+    gl: Lucasfilm
+    he: לוקאס פילם
+    hi: लुकासफ़िल्म
+    hr: LucasFilm Ltd.
+    hu: Lucasfilm
+    hy: Lucasfilm
+    id: Lucasfilm
+    is: Lucasfilm
+    it: LucasFilm
+    ja: ルーカスフィルム
+    ka: Lucasfilm
+    kk: Lucasfilm
+    ko: 루커스필름
+    lb: Lucasfilm
+    lt: Lucasfilm
+    lv: Lucasfilm
+    mk: Lucasfilm
+    mr: लुकासफिल्म
+    ms: Lucasfilm
+    mul: Lucasfilm
+    nb: Lucasfilm
+    nl: Lucasfilm
+    pl: Lucasfilm
+    pt: Lucasfilm
+    pt-br: Lucasfilm
+    ro: Lucasfilm
+    ru: Lucasfilm
+    sah: Lucasfilm
+    scn: Lucasfilm
+    sco: Lucasfilm
+    sl: Lucasfilm
+    sr: Lucasfilm
+    sv: Lucasfilm
+    ta: லூகாஸ்பிலிம்
+    th: ลูคัสฟิล์ม
+    tr: Lucasfilm
+    tt: Lucasfilm
+    tt-cyrl: Lucasfilm
+    uk: Lucasfilm
+    vi: Lucasfilm
+    wuu: 卢卡斯影业
+    xmf: Lucasfilm
+    yue: 盧卡斯影業
+    zh: 卢卡斯影业
+    zh-cn: 卢卡斯影业
+    zh-hans: 卢卡斯影业
+    zh-hant: 盧卡斯影業
+    zh-hk: 盧卡斯影業
+    zh-sg: 卢卡斯影业
+    zh-tw: 盧卡斯影業
+aliases:
+- Lucasfilm
+- LucasFilm Ltd.
+- Лукасфилм
+- לוקאס פילם
+- لوكاس فلم
+- لوکاس فیلم
+- लुकासफ़िल्म
+- लुकासफिल्म
+- লুকাসফিল্ম
+- லூகாஸ்பிலிம்
+- ลูคัสฟิล์ม
+- ルーカスフィルム
+- 卢卡斯影业
+- 盧卡斯影業
+- 루커스필름
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Lucasfilm** Ltd. LLC is an American film and television production company 

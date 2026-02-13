@@ -1,20 +1,74 @@
 ---
 aliases:
-  - Ökumene
-  - interdenominationalism
-  - ecumenicalism
-  - Ecumenism
+- cristianisme nonramal
+- eciwmeniaeth
+- ecumenicalism
+- Ecumenism
+- ecumenisme
+- ecumenismo
+- ecumenismu
+- Ekiomenisma
+- ekumeni
+- ekumenia
+- ekumeniija
+- ekumenik
+- Ekumenisme
+- ekumenismo
+- ekumenismus
+- ekumenizam
+- ekumenizm
+- ekumenizmas
+- ekumenizmi
+- ekumenizmus
+- ekumensko gibanje
+- ekumēnisms
+- ekümeniklik
+- Eukumeniezh
+- interdenominationalism
+- Kesarwabangsaan
+- oecumene
+- oecumenismus
+- oikumeenia
+- Phong trào Đại Kết
+- ékwmenïzm
+- Ökumene
+- Ökumenismus
+- ökumenizmus
+- økumeni
+- økumenikk
+- œcuménisme
+- οικουμενισμός
+- екуменізм
+- екуменизам
+- Икуменизъм
+- экуменизм
+- экумэнізм
+- Էկումենյան շարժում
+- אקומניזם
+- تحریک اتحاد
+- مسكونية
+- مسكونيه مسيحيه
+- نهضت وحدت کلیساها
+- ەكۋمەنىيزم
+- கிறித்தவ ஒன்றிப்பு
+- സഭൈക്യപ്രസ്ഥാനം
+- ეკუმენიზმი
+- エキュメニズム
+- 合一運動
+- 普世教会合一运动
+- 普世教會合一運動
+- 교회 일치주의
 has_id_wikidata: Q156112
 significant_person:
-  - '[[_Standards/WikiData/WD~Nathan_Söderblom,159723]]'
-  - '[[_Standards/WikiData/WD~John_Mott,159726]]'
-  - '[[_Standards/WikiData/WD~Yves_Congar,363970]]'
-  - "[[_Standards/WikiData/WD~Willem_Visser_'t_Hooft,574414]]"
-  - '[[_Standards/WikiData/WD~Patriarch_Germanus_V_of_Constantinople,2374911]]'
+- '[[_Standards/WikiData/WD~Nathan_Söderblom,159723]]'
+- '[[_Standards/WikiData/WD~John_Mott,159726]]'
+- '[[_Standards/WikiData/WD~Yves_Congar,363970]]'
+- "[[_Standards/WikiData/WD~Willem_Visser_'t_Hooft,574414]]"
+- '[[_Standards/WikiData/WD~Patriarch_Germanus_V_of_Constantinople,2374911]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~cooperation,380962]]'
-  - '[[_Standards/WikiData/WD~interconfessionalism,12021731]]'
-  - '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
+- '[[_Standards/WikiData/WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~interconfessionalism,12021731]]'
+- '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from: '[[_Standards/WikiData/WD~ecumenical_movement,5404068]]'
 facet_of: '[[_Standards/WikiData/WD~ecumenical_movement,5404068]]'
@@ -25,8 +79,95 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecumenism%20symbo
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/ecumenism
 Commons_category: Ecumenism
 IPTC_NewsCode: mediatopic/20000660
+dv_has_:
+  name_:
+    af: Ekumenisme
+    ar: مسكونية
+    arz: مسكونيه مسيحيه
+    ast: ecumenismu
+    be-tarask: экумэнізм
+    bg: Икуменизъм
+    br: Eukumeniezh
+    bs: ekumenizam
+    ca: ecumenisme
+    cs: ekumenismus
+    cy: eciwmeniaeth
+    da: økumeni
+    de: Ökumenismus
+    el: οικουμενισμός
+    en: ecumenism
+    en-ca: Ecumenism
+    en-gb: Ecumenism
+    eo: ekumenismo
+    es: ecumenismo
+    et: oikumeenia
+    eu: ekumenismo
+    fa: نهضت وحدت کلیساها
+    fi: ekumenia
+    fr: œcuménisme
+    gl: ecumenismo
+    gsw: Ökumenismus
+    he: אקומניזם
+    hr: ekumenizam
+    hu: ökumenizmus
+    hy: Էկումենյան շարժում
+    ia: ecumenismo
+    id: ekumenisme
+    it: ecumenismo
+    ja: エキュメニズム
+    ka: ეკუმენიზმი
+    kk: экуменизм
+    kk-arab: ەكۋمەنىيزم
+    kk-cn: ەكۋمەنىيزم
+    kk-cyrl: экуменизм
+    kk-kz: экуменизм
+    kk-latn: ékwmenïzm
+    kk-tr: ékwmenïzm
+    ko: 교회 일치주의
+    ky: Экуменизм
+    la: oecumenismus
+    lfn: cristianisme nonramal
+    lt: ekumenizmas
+    lv: ekumēnisms
+    mg: Ekiomenisma
+    mk: екуменизам
+    ml: സഭൈക്യപ്രസ്ഥാനം
+    ms: Kesarwabangsaan
+    nb: økumenikk
+    nl: oecumene
+    nn: økumenikk
+    pl: ekumenizm
+    pms: ecumenism
+    pt: ecumenismo
+    pt-br: Ecumenismo
+    ro: ecumenism
+    ru: экуменизм
+    se: ekumeniija
+    sh: ekumenizam
+    sk: ekumenizmus
+    sl: ekumensko gibanje
+    sms: ekumenia
+    sq: ekumenizmi
+    sr: екуменизам
+    sr-ec: екуменизам
+    sr-el: ekumenizam
+    sv: ekumenik
+    sw: ekumeni
+    ta: கிறித்தவ ஒன்றிப்பு
+    tl: Ekumenismo
+    tr: ekümeniklik
+    uk: екуменізм
+    ur: تحریک اتحاد
+    vi: Phong trào Đại Kết
+    yue: 合一運動
+    zh: 普世教會合一運動
+    zh-cn: 普世教会合一运动
+    zh-hans: 普世教会合一运动
+    zh-hant: 普世教會合一運動
+    zh-hk: 普世教會合一運動
+    zh-sg: 普世教会合一运动
+    zh-tw: 普世教會合一運動
 ---
-
 # [[Ecumenism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Ecumenism,156112|WD~Ecumenism,156112]] 

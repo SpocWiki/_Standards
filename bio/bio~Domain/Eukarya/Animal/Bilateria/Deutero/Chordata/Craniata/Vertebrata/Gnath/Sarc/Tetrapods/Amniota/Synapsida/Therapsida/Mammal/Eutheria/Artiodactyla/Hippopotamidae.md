@@ -1,8 +1,152 @@
 ---
 aliases:
-  - Hippopotamidae
+- Abanɣu
+- Apitzotl
+- Flodhestar
+- Flodheste
+- flodhester
+- Flodhästar
+- Flusspferde
+- Hipopotamido
+- Hipopotaminiai
+- hipopotamowate
+- hipopotàmid
+- Hipos
+- Hippopotamidae
+- Hrochovité
+- hrochovití
+- Hô-bé-kho
+- Jõehobulased
+- Lalomena
+- Mayu khuchi
+- Nguvu
+- Nijlpaarden
+- Nylpeirdn
+- Nīlzirgu dzimta
+- Popòtamu
+- povodni konji
+- Sakandu'y
+- Seekoeie
+- Su aygırıgiller
+- Suv aygʻirlari
+- troskoleem
+- Tééhoołtsódii
+- virtahevot
+- Vodenkonji
+- vízilófélék
+- Баҳмут
+- Бегемот йышшисем
+- Бегемот сымалдуулар
+- бегемотавыя
+- Бегемотові
+- Бегемотовые
+- Бегемотхуызтæ
+- Бэгемотавыя
+- Нилски коњи
+- хипопотамови
+- գետաձիեր
+- היפופוטמיים
+- اسبآبیان
+- برنيقيات
+- ბეჰემოთისებრნი
+- カバ科
+- 河馬科
+- 河马科
+- 하마과
 title: Hippopotamidae
 has_id_wikidata: Q213336
+dv_has_:
+  name_:
+    af: Seekoeie
+    an: Hippopotamidae
+    ar: برنيقيات
+    arz: برنيقيات
+    ast: Hippopotamidae
+    avk: troskoleem
+    be: бегемотавыя
+    be-tarask: Бэгемотавыя
+    bg: хипопотамови
+    br: Hippopotamidae
+    ca: hipopotàmid
+    ceb: Hippopotamidae
+    cs: hrochovití
+    cv: Бегемот йышшисем
+    da: Flodheste
+    de: Flusspferde
+    el: Hippopotamidae
+    en: Hippopotamidae
+    eo: Hippopotamidae
+    es: Hippopotamidae
+    et: Jõehobulased
+    eu: Hipopotamido
+    ext: Hippopotamidae
+    fa: اسبآبیان
+    fi: virtahevot
+    fr: Hippopotamidae
+    frr: Hipos
+    ga: Hippopotamidae
+    gl: Hippopotamidae
+    gn: Sakandu'y
+    he: היפופוטמיים
+    hr: Vodenkonji
+    hu: vízilófélék
+    hy: գետաձիեր
+    ia: Hippopotamidae
+    id: Hippopotamidae
+    ie: Hippopotamidae
+    io: Hippopotamidae
+    it: Hippopotamidae
+    ja: カバ科
+    ka: ბეჰემოთისებრნი
+    kab: Abanɣu
+    kg: Nguvu
+    ko: 하마과
+    ky: Бегемот сымалдуулар
+    la: Hippopotamidae
+    lt: Hipopotaminiai
+    lv: Nīlzirgu dzimta
+    mg: Lalomena
+    mk: Нилски коњи
+    mul: Hippopotamidae
+    nah: Apitzotl
+    nan: Hô-bé-kho
+    nb: flodhester
+    nl: Nijlpaarden
+    nn: Flodhestar
+    nv: Tééhoołtsódii
+    oc: Hippopotamidae
+    os: Бегемотхуызтæ
+    pl: hipopotamowate
+    pt: Hippopotamidae
+    pt-br: Hippopotamidae
+    qu: Mayu khuchi
+    ro: Hippopotamidae
+    ru: Бегемотовые
+    scn: Popòtamu
+    sco: Hippopotamidae
+    sh: Vodenkonji
+    sk: Hrochovité
+    sl: povodni konji
+    sq: Hippopotamidae
+    sv: Flodhästar
+    tg: Баҳмут
+    tl: Hippopotamidae
+    tr: Su aygırıgiller
+    uk: Бегемотові
+    uz: Suv aygʻirlari
+    vi: Hippopotamidae
+    vls: Nylpeirdn
+    vo: Hippopotamidae
+    war: Hippopotamidae
+    wuu: 河马科
+    yue: 河馬科
+    zh: 河马科
+    zh-cn: 河马科
+    zh-hans: 河马科
+    zh-hant: 河馬科
+    zh-hk: 河馬科
+    zh-sg: 河马科
+    zh-tw: 河馬科
 ---
 # [[Hippopotamidae]] 
 

@@ -1,42 +1,239 @@
 ---
 aliases:
-  - Kathedrale
-  - Cathedral
+- ardeaglais
+- babban coci
+- Catedral
+- catedrala
+- catedrală
+- Catedråle
+- cathair-eaglais
+- Cathedral
+- cathédrale
+- cattedrale
+- cattridali
+- Catèdrâla
+- Catédrale
+- domkirke
+- domkyrkje
+- duobmogirrko
+- duopmogirku
+- duõmmceerkav
+- Dómkirkja
+- dömmako khangari
+- Ecclesia cathedralis
+- eglwys gadeiriol
+- heafodcirice
+- iliz-veur
+- kafedral
+- Kanisa kuu
+- katedra
+- katedraal
+- Katedral
+- katedrala
+- Katedralja
+- katedralo
+- katedrála
+- katedrāle
+- kathedraal
+- Kathedral
+- Kathedrale
+- Kathedroale
+- Kathidral
+- katidral
+- kitci aiamihe mikiwam
+- nhà thờ chính tòa
+- oajvvegirkko
+- seu
+- shirkew
+- stolnica
+- székesegyház
+- tuomiokirkko
+- tuámukirkko
+- καθεδρικός ναός
+- Катедрала
+- катэдра
+- Кафедра
+- кафедральный собор
+- сабор
+- саборна црква
+- собор
+- соборна црква
+- җәмигъ
+- տաճար
+- קאטעדראלע
+- קתדרלה
+- كاتدرائية
+- كاتدرائيه
+- کلیسای جامع
+- کیتھیڈرل
+- कैथेड्रल
+- प्रमुख चर्च
+- ক্যাথেড্রাল
+- கத்தீட்ரல்
+- കത്തീഡ്രൽ
+- ආසන දෙව්මැදුරු
+- อาสนวิหาร
+- ကသီဒရယ် ဘုရားရှိခိုးကျောင်း
+- საკათედრო ტაძარი
+- 主教座堂
+- 大聖堂
+- 주교좌 성당
 has_id_wikidata: Q2977
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
 locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
 headquarters_locations: '[[_Standards/WikiData/WD~episcopal_see,866196]]'
 contains: '[[_Standards/WikiData/WD~cathedra,1138500]]'
 named_after: '[[_Standards/WikiData/WD~cathedra,1138500]]'
 occupant:
-  - '[[_Standards/WikiData/WD~high_priest,1399157]]'
-  - '[[_Standards/WikiData/WD~bishop,29182]]'
+- '[[_Standards/WikiData/WD~high_priest,1399157]]'
+- '[[_Standards/WikiData/WD~bishop,29182]]'
 different_from:
-  - '[[_Standards/WikiData/WD~former_cathedral,97588309]]'
-  - '[[_Standards/WikiData/WD~Katedra,105415360]]'
+- '[[_Standards/WikiData/WD~former_cathedral,97588309]]'
+- '[[_Standards/WikiData/WD~Katedra,105415360]]'
 depicted_by: '[[_Standards/WikiData/WD~Cathedral,131576649]]'
 Wikidata_property: cathedral
 subclass_of: '[[_Standards/WikiData/WD~church_building,16970]]'
 Nomenclature_for_Museum_Cataloging: 588
 U_S_National_Archives_Identifier: 10674952
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Dom2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kathedrale.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Dom2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Kathedrale.ogg
 Commons_gallery: Cathedrals
 Commons_category: Cathedrals
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Canterbury%20Cathedral%20-%20Portal%20Nave%20Cross-spire.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CathedraleNotre-DameDeParis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Canterbury%20Cathedral%20-%20Portal%20Nave%20Cross-spire.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CathedraleNotre-DameDeParis.jpg
 P8189: 987007284850805171
 OpenStreetMap_tag_or_key: Tag:building=cathedral
+dv_has_:
+  name_:
+    af: Katedraal
+    an: seu
+    ang: heafodcirice
+    ar: كاتدرائية
+    arz: كاتدرائيه
+    ast: catedral
+    atj: kitci aiamihe mikiwam
+    az: kafedral
+    bcl: Katedral
+    be: сабор
+    be-tarask: катэдра
+    bg: Катедрала
+    bho: कैथेड्रल
+    bn: ক্যাথেড্রাল
+    br: iliz-veur
+    bs: Katedrala
+    ca: catedral
+    cs: katedrála
+    cy: eglwys gadeiriol
+    da: domkirke
+    de: Kathedrale
+    diq: Katedral
+    el: καθεδρικός ναός
+    en: cathedral
+    en-ca: cathedral
+    en-gb: cathedral
+    eo: katedralo
+    es: catedral
+    et: katedraal
+    eu: Katedral
+    fa: کلیسای جامع
+    fi: tuomiokirkko
+    fr: cathédrale
+    frp: Catèdrâla
+    fy: katedraal
+    ga: ardeaglais
+    gag: Katedral
+    gd: cathair-eaglais
+    gl: catedral
+    ha: babban coci
+    he: קתדרלה
+    hr: katedrala
+    hsb: katedrala
+    ht: Katedral
+    hu: székesegyház
+    hy: տաճար
+    ia: Cathedral
+    iba: Katedral
+    id: Katedral
+    ig: Katidral
+    io: Katedralo
+    is: Dómkirkja
+    it: cattedrale
+    ja: 大聖堂
+    ka: საკათედრო ტაძარი
+    kaa: shirkew
+    ko: 주교좌 성당
+    ky: Кафедра
+    la: Ecclesia cathedralis
+    lb: Kathedral
+    li: Kathedraal
+    lmo: Catedral
+    lt: katedra
+    lv: katedrāle
+    min: Katedral
+    mk: соборна црква
+    ml: കത്തീഡ്രൽ
+    mr: प्रमुख चर्च
+    ms: Katedral
+    mt: katidral
+    mwl: Catedral
+    my: ကသီဒရယ် ဘုရားရှိခိုးကျောင်း
+    nb: domkirke
+    nl: kathedraal
+    nn: domkyrkje
+    nrm: Cathédrale
+    oc: catedrala
+    pcd: Catédrale
+    pl: katedra
+    pt: catedral
+    pt-br: catedral
+    qu: Kathidral
+    rmf: dömmako khangari
+    ro: catedrală
+    ru: кафедральный собор
+    rue: Катедрала
+    scn: cattridali
+    sco: cathedral
+    se: duopmogirku
+    sgs: Katedra
+    sh: katedrala
+    si: ආසන දෙව්මැදුරු
+    sje: duobmogirrko
+    sk: katedrála
+    sl: stolnica
+    smj: oajvvegirkko
+    smn: tuámukirkko
+    sms: duõmmceerkav
+    sq: Katedralja
+    sr: саборна црква
+    sr-ec: саборна црква
+    sv: katedral
+    sw: Kanisa kuu
+    ta: கத்தீட்ரல்
+    th: อาสนวิหาร
+    tl: Katedral
+    tr: katedral
+    tt: җәмигъ
+    uk: собор
+    ur: کیتھیڈرل
+    vi: nhà thờ chính tòa
+    vls: Kathedroale
+    wa: Catedråle
+    war: Catedral
+    wuu: 主教座堂
+    yi: קאטעדראלע
+    yue: 主教座堂
+    zh: 主教座堂
+    zh-hans: 主教座堂
+    zh-hant: 主教座堂
 ---
-
 # [[Cathedral]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cathedral,2977|WD~Cathedral,2977]] 

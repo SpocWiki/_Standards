@@ -1,65 +1,150 @@
 ---
-has_time_started: 1989-12-17 
+has_time_started: 1989-12-17
 aliases:
-  - The_Simpsons
-  - The Simpsons
-  - Simpsons
+- A Simpson család
+- AmaSimpson
+- Chés Simpson
+- D Simpsons
+- Die Simpsons
+- Els Simpson
+- Familia Simpson
+- I Simpson
+- Il-Simpsons
+- La Simpsonoj
+- Les Simpson
+- Li Simpson
+- Los Simpson
+- Nos Simpsons
+- Os Simpson
+- Os Simpsons
+- Simpson
+- Simpsonai
+- Simpsoneh
+- Simpsonfjölskyldan
+- Simpsoni
+- Simpsonid
+- Simpsonit
+- Simpsonlar
+- Simpsonovci
+- Simpsonovi
+- Simpsonowie
+- Simpsons
+- T' Simpsons
+- The Simpsons
+- The_Simpsons
+- Thoi-chok Simpsons
+- Οι Σίμσονς
+- Σιμπσωνς
+- Сімпсаны
+- Сімпсони
+- Семейство Симпсън
+- Симпсонаш
+- Симпсондар
+- Симпсондор
+- Симпсоннар
+- Симпсонови
+- Симпсонтнэ
+- Симпсонхэр
+- Симпсонъёс
+- Симпсоны
+- Симпсонҳо
+- Сымпсаны
+- Սիմփսոններ
+- די סימפסאנס
+- משפחת סימפסון
+- دا سمپسنز
+- دا سِمٛپسَنٕز
+- دی سمپسنز
+- ذا سيمبسونز
+- ذا سيمپسونز
+- سمپسنز
+- سىمپسون ئائىلىسى
+- سیمپسونلار
+- سیمپسونها
+- سیمپسۆنەکان
+- द सिम्पसन्स
+- द सिम्प्सनस्
+- द सिम्प्सन् स्
+- द सिम्प्सन्स
+- द सिम्प्सन्स्
+- सिम्पसन्स
+- দ্য সিম্পসন্স
+- ਦ ਸਿੰਪਸਨਜ਼
+- த சிம்ப்சன்ஸ்
+- ദ സിംസൺസ്
+- ද සිම්ප්සන්ස්
+- เดอะซิมป์สันส์
+- ເດີຊິມສັນ
+- སིམ་བུ་སན།
+- სიმპსონები
+- სიმფსონეფი
+- ዘ ሲምፕሶንስ
+- ᐊᓯᒪᐲᓲᓃᑦ
+- ដឺ ស៊ីមសុន
+- ⴷⴰ ⵙⵉⵎⴱⵙⵓⵏⵣ
+- ザ・シンプソンズ
+- 辛普森一家
+- 辛普森家
+- 辛普森家庭
+- 阿森一族
+- ꠍꠤꠝꠍꠘ
+- 심슨 가족
 has_id_wikidata: Q886
 voice_actor:
-  - '[[_Standards/WikiData/WD~Jackie_Mason,75021]]'
-  - '[[_Standards/WikiData/WD~Hank_Azaria,202056]]'
-  - '[[_Standards/WikiData/WD~Yeardley_Smith,228891]]'
-  - '[[_Standards/WikiData/WD~Julie_Kavner,228893]]'
-  - '[[_Standards/WikiData/WD~Nancy_Cartwright,229211]]'
-  - '[[_Standards/WikiData/WD~Tress_MacNeille,237530]]'
-  - '[[_Standards/WikiData/WD~Russi_Taylor,264418]]'
-  - '[[_Standards/WikiData/WD~Marcia_Wallace,264603]]'
-  - '[[_Standards/WikiData/WD~Pamela_Hayden,271667]]'
-  - '[[_Standards/WikiData/WD~Maggie_Roswell,272195]]'
-  - '[[_Standards/WikiData/WD~Joe_Mantegna,276269]]'
-  - '[[_Standards/WikiData/WD~Harry_Shearer,345325]]'
-  - '[[_Standards/WikiData/WD~Phil_Hartman,366834]]'
-  - '[[_Standards/WikiData/WD~Karl_Wiedergott,1378202]]'
-  - '[[_Standards/WikiData/WD~Chris_Edgerly,3543788]]'
-  - '[[_Standards/WikiData/WD~Dan_Castellaneta,44442]]'
+- '[[_Standards/WikiData/WD~Jackie_Mason,75021]]'
+- '[[_Standards/WikiData/WD~Hank_Azaria,202056]]'
+- '[[_Standards/WikiData/WD~Yeardley_Smith,228891]]'
+- '[[_Standards/WikiData/WD~Julie_Kavner,228893]]'
+- '[[_Standards/WikiData/WD~Nancy_Cartwright,229211]]'
+- '[[_Standards/WikiData/WD~Tress_MacNeille,237530]]'
+- '[[_Standards/WikiData/WD~Russi_Taylor,264418]]'
+- '[[_Standards/WikiData/WD~Marcia_Wallace,264603]]'
+- '[[_Standards/WikiData/WD~Pamela_Hayden,271667]]'
+- '[[_Standards/WikiData/WD~Maggie_Roswell,272195]]'
+- '[[_Standards/WikiData/WD~Joe_Mantegna,276269]]'
+- '[[_Standards/WikiData/WD~Harry_Shearer,345325]]'
+- '[[_Standards/WikiData/WD~Phil_Hartman,366834]]'
+- '[[_Standards/WikiData/WD~Karl_Wiedergott,1378202]]'
+- '[[_Standards/WikiData/WD~Chris_Edgerly,3543788]]'
+- '[[_Standards/WikiData/WD~Dan_Castellaneta,44442]]'
 executive_producer:
-  - '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
-  - '[[_Standards/WikiData/WD~Sam_Simon,365090]]'
-  - '[[_Standards/WikiData/WD~Mike_Scully,655207]]'
-  - '[[_Standards/WikiData/WD~Matt_Selman,2400678]]'
-  - '[[_Standards/WikiData/WD~Mike_Reiss,2446929]]'
-  - '[[_Standards/WikiData/WD~David_Mirkin,2665938]]'
-  - '[[_Standards/WikiData/WD~John_Frink,2741850]]'
-  - '[[_Standards/WikiData/WD~Al_Jean,2829373]]'
-  - '[[_Standards/WikiData/WD~Ian_Maxtone_Graham,3106628]]'
-  - '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
+- '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
+- '[[_Standards/WikiData/WD~Sam_Simon,365090]]'
+- '[[_Standards/WikiData/WD~Mike_Scully,655207]]'
+- '[[_Standards/WikiData/WD~Matt_Selman,2400678]]'
+- '[[_Standards/WikiData/WD~Mike_Reiss,2446929]]'
+- '[[_Standards/WikiData/WD~David_Mirkin,2665938]]'
+- '[[_Standards/WikiData/WD~John_Frink,2741850]]'
+- '[[_Standards/WikiData/WD~Al_Jean,2829373]]'
+- '[[_Standards/WikiData/WD~Ian_Maxtone_Graham,3106628]]'
+- '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
 producer:
-  - '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
-  - '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
+- '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
+- '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
 production_company:
-  - '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
-  - '[[_Standards/WikiData/WD~Sam_Simon,365090]]'
-  - '[[_Standards/WikiData/WD~20th_Century_Studios,434841]]'
-  - '[[_Standards/WikiData/WD~Gracie_Films,1506909]]'
-  - '[[_Standards/WikiData/WD~20th_Television,2814799]]'
-  - '[[_Standards/WikiData/WD~20th_Television_Animation,65090044]]'
-  - '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
+- '[[_Standards/WikiData/WD~James_L._Brooks,95125]]'
+- '[[_Standards/WikiData/WD~Sam_Simon,365090]]'
+- '[[_Standards/WikiData/WD~20th_Century_Studios,434841]]'
+- '[[_Standards/WikiData/WD~Gracie_Films,1506909]]'
+- '[[_Standards/WikiData/WD~20th_Television,2814799]]'
+- '[[_Standards/WikiData/WD~20th_Television_Animation,65090044]]'
+- '[[_Standards/WikiData/WD~Matt_Groening,43994]]'
 genre:
-  - '[[_Standards/WikiData/WD~satire,128758]]'
-  - '[[_Standards/WikiData/WD~animated_sitcom,4765080]]'
-  - '[[_Standards/WikiData/WD~black_comedy,53094]]'
+- '[[_Standards/WikiData/WD~satire,128758]]'
+- '[[_Standards/WikiData/WD~animated_sitcom,4765080]]'
+- '[[_Standards/WikiData/WD~black_comedy,53094]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Genesis_Award,135498]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Animated_Program,337926]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Voice_Over_Performance,3131545]]'
-  - "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_Cartoon,6363475]]"
-  - "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_TV_Show,6363478]]"
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Music_and_Lyrics,7243509]]'
-  - '[[_Standards/WikiData/WD~TCA_Heritage_Award,7669628]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Animation,8038463]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Character_Voice_Over_Performance,17010296]]'
-  - '[[_Standards/WikiData/WD~Teen_Choice_Award_for_Choice_Animated_Show,17011073]]'
-  - '[[_Standards/WikiData/WD~TCA_Award_for_Outstanding_Achievement_in_Comedy,55664167]]'
+- '[[_Standards/WikiData/WD~Genesis_Award,135498]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Animated_Program,337926]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Voice_Over_Performance,3131545]]'
+- "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_Cartoon,6363475]]"
+- "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_TV_Show,6363478]]"
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Music_and_Lyrics,7243509]]'
+- '[[_Standards/WikiData/WD~TCA_Heritage_Award,7669628]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Animation,8038463]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Character_Voice_Over_Performance,17010296]]'
+- '[[_Standards/WikiData/WD~Teen_Choice_Award_for_Choice_Animated_Show,17011073]]'
+- '[[_Standards/WikiData/WD~TCA_Award_for_Outstanding_Achievement_in_Comedy,55664167]]'
 narrative_location: '[[_Standards/WikiData/WD~Springfield,151076]]'
 original_broadcaster: '[[_Standards/WikiData/WD~Fox_Broadcasting_Company,166419]]'
 distribution_format: '[[_Standards/WikiData/WD~terrestrial_television,175122]]'
@@ -67,139 +152,139 @@ derivative_work: '[[_Standards/WikiData/WD~The_Simpsons_Movie,182254]]'
 fabrication_method: '[[_Standards/WikiData/WD~traditional_animation,184781]]'
 list_of_characters: '[[_Standards/WikiData/WD~list_of_The_Simpsons_characters,267149]]'
 has_list:
-  - '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_The_Simpsons,286731]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_comics,2217478]]'
-  - '[[_Standards/WikiData/WD~list_of_recurring_The_Simpsons_characters,2237599]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_cast_members,2356888]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_video_games,2458013]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_guest_stars,2466824]]'
-  - '[[_Standards/WikiData/WD~list_of_one_time_The_Simpsons_characters,2587713]]'
-  - '[[_Standards/WikiData/WD~list_of_animals_in_the_Simpsons,2590511]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_running_gags,2742007]]'
-  - "[[_Standards/WikiData/WD~list_of_Homer_Simpson's_jobs,2751406]]"
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_writers,2837902]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_Treehouse_of_Horror_episodes,2982595]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_couch_gags,3249786]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_chalkboard_gags,3253155]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_cultural_references,3254233]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_locations,3526785]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_home_video_releases,3621232]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_books,5237384]]'
-  - '[[_Standards/WikiData/WD~list_of_directors_of_The_Simpsons,6616786]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_shops,10563529]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_buildings,10563533]]'
-  - '[[_Standards/WikiData/WD~list_of_Springfield_Elementary_School_students,10729656]]'
-  - '[[_Standards/WikiData/WD~list_of_Springfield_locations,12118351]]'
-  - '[[_Standards/WikiData/WD~fictional_inventions_and_machines_on_The_Simpsons,12927798]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_DVD_boxsets,12927803]]'
-  - '[[_Standards/WikiData/WD~products_produced_from_The_Simpsons,13439130]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_albums_published_by_Editions_Jungle,16023979]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_crank_calls,16537097]]'
-  - '[[_Standards/WikiData/WD~list_of_celebrities_in_The_Simpsons,17429331]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_companies,18451639]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_restaurants,18451845]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_schools,18451862]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_(seasons_1_20),22906506]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_by_Czech_broadcast,23015226]]'
-  - '[[_Standards/WikiData/WD~list_of_songs_featured_on_The_Simpsons,31366379]]'
-  - '[[_Standards/WikiData/WD~list_of_neologisms_on_The_Simpsons,31366391]]'
-  - '[[_Standards/WikiData/WD~list_of_vehicles_in_The_Simpsons,31366393]]'
-  - "[[_Standards/WikiData/WD~list_of_Homer_Simpson's_lifelong_dreams,31366799]]"
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_guest_stars_(seasons_1_20),55617463]]'
-  - '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_(season_21_present),108325927]]'
+- '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_The_Simpsons,286731]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_comics,2217478]]'
+- '[[_Standards/WikiData/WD~list_of_recurring_The_Simpsons_characters,2237599]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_cast_members,2356888]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_video_games,2458013]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_guest_stars,2466824]]'
+- '[[_Standards/WikiData/WD~list_of_one_time_The_Simpsons_characters,2587713]]'
+- '[[_Standards/WikiData/WD~list_of_animals_in_the_Simpsons,2590511]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_running_gags,2742007]]'
+- "[[_Standards/WikiData/WD~list_of_Homer_Simpson's_jobs,2751406]]"
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_writers,2837902]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_Treehouse_of_Horror_episodes,2982595]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_couch_gags,3249786]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_chalkboard_gags,3253155]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_cultural_references,3254233]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_locations,3526785]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_home_video_releases,3621232]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_books,5237384]]'
+- '[[_Standards/WikiData/WD~list_of_directors_of_The_Simpsons,6616786]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_shops,10563529]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_buildings,10563533]]'
+- '[[_Standards/WikiData/WD~list_of_Springfield_Elementary_School_students,10729656]]'
+- '[[_Standards/WikiData/WD~list_of_Springfield_locations,12118351]]'
+- '[[_Standards/WikiData/WD~fictional_inventions_and_machines_on_The_Simpsons,12927798]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_DVD_boxsets,12927803]]'
+- '[[_Standards/WikiData/WD~products_produced_from_The_Simpsons,13439130]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_albums_published_by_Editions_Jungle,16023979]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_crank_calls,16537097]]'
+- '[[_Standards/WikiData/WD~list_of_celebrities_in_The_Simpsons,17429331]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_companies,18451639]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_restaurants,18451845]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_schools,18451862]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_(seasons_1_20),22906506]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_by_Czech_broadcast,23015226]]'
+- '[[_Standards/WikiData/WD~list_of_songs_featured_on_The_Simpsons,31366379]]'
+- '[[_Standards/WikiData/WD~list_of_neologisms_on_The_Simpsons,31366391]]'
+- '[[_Standards/WikiData/WD~list_of_vehicles_in_The_Simpsons,31366393]]'
+- "[[_Standards/WikiData/WD~list_of_Homer_Simpson's_lifelong_dreams,31366799]]"
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_guest_stars_(seasons_1_20),55617463]]'
+- '[[_Standards/WikiData/WD~list_of_The_Simpsons_episodes_(season_21_present),108325927]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_The_Simpsons,292537]]'
 characters:
-  - '[[_Standards/WikiData/WD~Groundskeeper_Willie,324430]]'
-  - '[[_Standards/WikiData/WD~Reverend_Lovejoy,524177]]'
-  - '[[_Standards/WikiData/WD~Moe_Szyslak,646166]]'
-  - '[[_Standards/WikiData/WD~Mr._Burns,716636]]'
-  - '[[_Standards/WikiData/WD~Krusty_the_Clown,727156]]'
-  - '[[_Standards/WikiData/WD~Mayor_Quimby,745472]]'
-  - '[[_Standards/WikiData/WD~Grampa_Simpson,842104]]'
-  - '[[_Standards/WikiData/WD~Kent_Brockman,969535]]'
-  - '[[_Standards/WikiData/WD~Ned_Flanders,1158157]]'
-  - '[[_Standards/WikiData/WD~Apu_Nahasapeemapetilon,1408697]]'
-  - '[[_Standards/WikiData/WD~Sideshow_Bob,1411101]]'
-  - "[[_Standards/WikiData/WD~Santa's_Little_Helper,1425114]]"
-  - '[[_Standards/WikiData/WD~Professor_Frink,1458159]]'
-  - '[[_Standards/WikiData/WD~Ralph_Wiggum,1458168]]'
-  - '[[_Standards/WikiData/WD~Barney_Gumble,1470014]]'
-  - '[[_Standards/WikiData/WD~Hans_Moleman,1503301]]'
-  - '[[_Standards/WikiData/WD~Chief_Wiggum,1503352]]'
-  - '[[_Standards/WikiData/WD~Principal_Skinner,1503373]]'
-  - '[[_Standards/WikiData/WD~Mr._Smithers,1504443]]'
-  - '[[_Standards/WikiData/WD~Fat_Tony,1504498]]'
-  - '[[_Standards/WikiData/WD~Comic_Book_Guy,1504526]]'
-  - '[[_Standards/WikiData/WD~Troy_McClure,1504550]]'
-  - '[[_Standards/WikiData/WD~Dr._Hibbert,1504586]]'
-  - '[[_Standards/WikiData/WD~Lionel_Hutz,1504628]]'
-  - '[[_Standards/WikiData/WD~Carl_Carlson,1509213]]'
-  - '[[_Standards/WikiData/WD~Cletus_Spuckler,1511072]]'
-  - '[[_Standards/WikiData/WD~Nelson_Muntz,1511163]]'
-  - '[[_Standards/WikiData/WD~Edna_Krabappel,1511184]]'
-  - '[[_Standards/WikiData/WD~Milhouse_Van_Houten,1514450]]'
-  - '[[_Standards/WikiData/WD~Sideshow_Mel,1589536]]'
-  - '[[_Standards/WikiData/WD~Otto_Mann,1634927]]'
-  - '[[_Standards/WikiData/WD~Mona_Simpson,1641818]]'
-  - '[[_Standards/WikiData/WD~Lenny_Leonard,1644810]]'
-  - '[[_Standards/WikiData/WD~Kang_and_Kodos,1751486]]'
-  - '[[_Standards/WikiData/WD~Dr._Nick,1751497]]'
-  - '[[_Standards/WikiData/WD~Maude_Flanders,1766178]]'
-  - '[[_Standards/WikiData/WD~Snowball,1771804]]'
-  - '[[_Standards/WikiData/WD~Martin_Prince,1983092]]'
-  - '[[_Standards/WikiData/WD~Snake,2039948]]'
-  - '[[_Standards/WikiData/WD~Agnes_Skinner,2264318]]'
-  - '[[_Standards/WikiData/WD~Disco_Stu,2294047]]'
-  - '[[_Standards/WikiData/WD~Jimbo_Jones,2315146]]'
-  - '[[_Standards/WikiData/WD~Herbert_Powell,2340973]]'
-  - '[[_Standards/WikiData/WD~Superintendent_Chalmers,2409096]]'
-  - '[[_Standards/WikiData/WD~Bleeding_Gums_Murphy,2479670]]'
-  - '[[_Standards/WikiData/WD~Kearney_Zzyzwicz,2480288]]'
-  - '[[_Standards/WikiData/WD~Jebediah_Springfield,2704414]]'
-  - '[[_Standards/WikiData/WD~Kirk_Van_Houten,2992629]]'
-  - '[[_Standards/WikiData/WD~Selma_Bouvier,3307708]]'
-  - '[[_Standards/WikiData/WD~Marvin_Monroe,3355753]]'
-  - '[[_Standards/WikiData/WD~Dolph,3965831]]'
-  - '[[_Standards/WikiData/WD~Patty_Bouvier,10406147]]'
-  - '[[_Standards/WikiData/WD~Gino_Terwilliger,12018245]]'
-  - '[[_Standards/WikiData/WD~Brandine_Spuckler,12084771]]'
-  - '[[_Standards/WikiData/WD~Captain_Horatio_McCallister,15027304]]'
-  - '[[_Standards/WikiData/WD~Luann_Van_Houten,15238532]]'
-  - '[[_Standards/WikiData/WD~Rod_Flanders,17255299]]'
-  - '[[_Standards/WikiData/WD~Todd_Flanders,17255307]]'
-  - '[[_Standards/WikiData/WD~Bart_Simpson,5480]]'
-  - '[[_Standards/WikiData/WD~Lisa_Simpson,5846]]'
-  - '[[_Standards/WikiData/WD~Homer_Simpson,7810]]'
-  - '[[_Standards/WikiData/WD~Marge_Simpson,7828]]'
-  - '[[_Standards/WikiData/WD~Maggie_Simpson,7834]]'
+- '[[_Standards/WikiData/WD~Groundskeeper_Willie,324430]]'
+- '[[_Standards/WikiData/WD~Reverend_Lovejoy,524177]]'
+- '[[_Standards/WikiData/WD~Moe_Szyslak,646166]]'
+- '[[_Standards/WikiData/WD~Mr._Burns,716636]]'
+- '[[_Standards/WikiData/WD~Krusty_the_Clown,727156]]'
+- '[[_Standards/WikiData/WD~Mayor_Quimby,745472]]'
+- '[[_Standards/WikiData/WD~Grampa_Simpson,842104]]'
+- '[[_Standards/WikiData/WD~Kent_Brockman,969535]]'
+- '[[_Standards/WikiData/WD~Ned_Flanders,1158157]]'
+- '[[_Standards/WikiData/WD~Apu_Nahasapeemapetilon,1408697]]'
+- '[[_Standards/WikiData/WD~Sideshow_Bob,1411101]]'
+- "[[_Standards/WikiData/WD~Santa's_Little_Helper,1425114]]"
+- '[[_Standards/WikiData/WD~Professor_Frink,1458159]]'
+- '[[_Standards/WikiData/WD~Ralph_Wiggum,1458168]]'
+- '[[_Standards/WikiData/WD~Barney_Gumble,1470014]]'
+- '[[_Standards/WikiData/WD~Hans_Moleman,1503301]]'
+- '[[_Standards/WikiData/WD~Chief_Wiggum,1503352]]'
+- '[[_Standards/WikiData/WD~Principal_Skinner,1503373]]'
+- '[[_Standards/WikiData/WD~Mr._Smithers,1504443]]'
+- '[[_Standards/WikiData/WD~Fat_Tony,1504498]]'
+- '[[_Standards/WikiData/WD~Comic_Book_Guy,1504526]]'
+- '[[_Standards/WikiData/WD~Troy_McClure,1504550]]'
+- '[[_Standards/WikiData/WD~Dr._Hibbert,1504586]]'
+- '[[_Standards/WikiData/WD~Lionel_Hutz,1504628]]'
+- '[[_Standards/WikiData/WD~Carl_Carlson,1509213]]'
+- '[[_Standards/WikiData/WD~Cletus_Spuckler,1511072]]'
+- '[[_Standards/WikiData/WD~Nelson_Muntz,1511163]]'
+- '[[_Standards/WikiData/WD~Edna_Krabappel,1511184]]'
+- '[[_Standards/WikiData/WD~Milhouse_Van_Houten,1514450]]'
+- '[[_Standards/WikiData/WD~Sideshow_Mel,1589536]]'
+- '[[_Standards/WikiData/WD~Otto_Mann,1634927]]'
+- '[[_Standards/WikiData/WD~Mona_Simpson,1641818]]'
+- '[[_Standards/WikiData/WD~Lenny_Leonard,1644810]]'
+- '[[_Standards/WikiData/WD~Kang_and_Kodos,1751486]]'
+- '[[_Standards/WikiData/WD~Dr._Nick,1751497]]'
+- '[[_Standards/WikiData/WD~Maude_Flanders,1766178]]'
+- '[[_Standards/WikiData/WD~Snowball,1771804]]'
+- '[[_Standards/WikiData/WD~Martin_Prince,1983092]]'
+- '[[_Standards/WikiData/WD~Snake,2039948]]'
+- '[[_Standards/WikiData/WD~Agnes_Skinner,2264318]]'
+- '[[_Standards/WikiData/WD~Disco_Stu,2294047]]'
+- '[[_Standards/WikiData/WD~Jimbo_Jones,2315146]]'
+- '[[_Standards/WikiData/WD~Herbert_Powell,2340973]]'
+- '[[_Standards/WikiData/WD~Superintendent_Chalmers,2409096]]'
+- '[[_Standards/WikiData/WD~Bleeding_Gums_Murphy,2479670]]'
+- '[[_Standards/WikiData/WD~Kearney_Zzyzwicz,2480288]]'
+- '[[_Standards/WikiData/WD~Jebediah_Springfield,2704414]]'
+- '[[_Standards/WikiData/WD~Kirk_Van_Houten,2992629]]'
+- '[[_Standards/WikiData/WD~Selma_Bouvier,3307708]]'
+- '[[_Standards/WikiData/WD~Marvin_Monroe,3355753]]'
+- '[[_Standards/WikiData/WD~Dolph,3965831]]'
+- '[[_Standards/WikiData/WD~Patty_Bouvier,10406147]]'
+- '[[_Standards/WikiData/WD~Gino_Terwilliger,12018245]]'
+- '[[_Standards/WikiData/WD~Brandine_Spuckler,12084771]]'
+- '[[_Standards/WikiData/WD~Captain_Horatio_McCallister,15027304]]'
+- '[[_Standards/WikiData/WD~Luann_Van_Houten,15238532]]'
+- '[[_Standards/WikiData/WD~Rod_Flanders,17255299]]'
+- '[[_Standards/WikiData/WD~Todd_Flanders,17255307]]'
+- '[[_Standards/WikiData/WD~Bart_Simpson,5480]]'
+- '[[_Standards/WikiData/WD~Lisa_Simpson,5846]]'
+- '[[_Standards/WikiData/WD~Homer_Simpson,7810]]'
+- '[[_Standards/WikiData/WD~Marge_Simpson,7828]]'
+- '[[_Standards/WikiData/WD~Maggie_Simpson,7834]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Animated_Program,337926]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Television_Series_Musical_or_Comedy,596294]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Voice_Over_Performance,3131545]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
-  - "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_Cartoon,6363475]]"
-  - "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_TV_Show,6363478]]"
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Main_Title_Theme_Music,7243507]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Music_Composition_for_a_Series_(Original_Dramatic_Score),7243508]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Music_and_Lyrics,7243509]]'
-  - '[[_Standards/WikiData/WD~TCA_Award_for_Individual_Achievement_in_Comedy,7669610]]'
-  - '[[_Standards/WikiData/WD~TCA_Award_for_Program_of_the_Year,7669624]]'
-  - '[[_Standards/WikiData/WD~TCA_Heritage_Award,7669628]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Animation,8038463]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Comedy_Series,8038464]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Character_Voice_Over_Performance,17010296]]'
-  - '[[_Standards/WikiData/WD~Teen_Choice_Award_for_Choice_Animated_Show,17011073]]'
-  - '[[_Standards/WikiData/WD~TCA_Award_for_Outstanding_Achievement_in_Comedy,55664167]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Animated_Program,337926]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Television_Series_Musical_or_Comedy,596294]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Voice_Over_Performance,3131545]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
+- "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_Cartoon,6363475]]"
+- "[[_Standards/WikiData/WD~Kids'_Choice_Award_for_Favorite_TV_Show,6363478]]"
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Main_Title_Theme_Music,7243507]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Music_Composition_for_a_Series_(Original_Dramatic_Score),7243508]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Original_Music_and_Lyrics,7243509]]'
+- '[[_Standards/WikiData/WD~TCA_Award_for_Individual_Achievement_in_Comedy,7669610]]'
+- '[[_Standards/WikiData/WD~TCA_Award_for_Program_of_the_Year,7669624]]'
+- '[[_Standards/WikiData/WD~TCA_Heritage_Award,7669628]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Animation,8038463]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Television_Comedy_Series,8038464]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Character_Voice_Over_Performance,17010296]]'
+- '[[_Standards/WikiData/WD~Teen_Choice_Award_for_Choice_Animated_Show,17011073]]'
+- '[[_Standards/WikiData/WD~TCA_Award_for_Outstanding_Achievement_in_Comedy,55664167]]'
 soundtrack_release:
-  - '[[_Standards/WikiData/WD~Songs_in_the_Key_of_Springfield,671608]]'
-  - '[[_Standards/WikiData/WD~Go_Simpsonic_with_The_Simpsons,2126070]]'
-  - '[[_Standards/WikiData/WD~The_Simpsons_Testify,2574005]]'
+- '[[_Standards/WikiData/WD~Songs_in_the_Key_of_Springfield,671608]]'
+- '[[_Standards/WikiData/WD~Go_Simpsonic_with_The_Simpsons,2126070]]'
+- '[[_Standards/WikiData/WD~The_Simpsons_Testify,2574005]]'
 main_subject: '[[_Standards/WikiData/WD~dysfunctional_family,906343]]'
 composer: '[[_Standards/WikiData/WD~Alf_Clausen,925968]]'
 has_spin_off: '[[_Standards/WikiData/WD~The_Simpsons_Game,1139044]]'
 distributed_by:
-  - '[[_Standards/WikiData/WD~Hulu,1630304]]'
-  - '[[_Standards/WikiData/WD~20th_Television,2814799]]'
+- '[[_Standards/WikiData/WD~Hulu,1630304]]'
+- '[[_Standards/WikiData/WD~20th_Television,2814799]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_The_Simpsons,5640779]]'
 media_franchise: '[[_Standards/WikiData/WD~The_Simpsons,7764350]]'
 different_from: '[[_Standards/WikiData/WD~The_Simpsons,7764350]]'
@@ -228,16 +313,216 @@ date_of_first_performance: 1989-12-17T00:00:00Z
 Commons_category: The Simpsons
 Archive_of_Our_Own_tag: The Simpsons
 hashtag:
-  - Simpsons
-  - TheSimpsons
+- Simpsons
+- TheSimpsons
 Facebook_username: TheSimpsons
 X_Twitter_username: TheSimpsons
 subreddit: TheSimpsons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simpsons%20Statues%20%28cropped%29.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Simpsons%20Spoken.ogg
 official_website: https://www.fox.com/the-simpsons/
+dv_has_:
+  name_:
+    ace: The Simpsons
+    af: The Simpsons
+    am: ዘ ሲምፕሶንስ
+    an: Os Simpson
+    ang: The Simpsons
+    ar: ذا سيمبسونز
+    ary: ذا سيمپسونز
+    arz: ذا سيمبسونز
+    ast: The Simpsons
+    az: Simpsonlar
+    azb: سیمپسونلار
+    ban: The Simpsons
+    bar: Die Simpsons
+    bcl: The Simpsons
+    be: Сімпсаны
+    be-tarask: Сымпсаны
+    bew: The Simpsons
+    bg: Семейство Симпсън
+    bho: द सिम्पसन्स
+    bn: দ্য সিম্পসন্স
+    bo: སིམ་བུ་སན།
+    br: The Simpsons
+    bs: Simpsoni
+    ca: Els Simpson
+    ce: Симпсонаш
+    ceb: The Simpsons
+    ckb: سیمپسۆنەکان
+    co: The Simpsons
+    cs: Simpsonovi
+    cy: The Simpsons
+    da: The Simpsons
+    dag: The Simpsons
+    de: Die Simpsons
+    de-ch: Die Simpsons
+    diq: The Simpsons
+    el: Οι Σίμσονς
+    eml: The Simpsons
+    en: The Simpsons
+    en-ca: The Simpsons
+    en-gb: The Simpsons
+    en-us: The Simpsons
+    eo: La Simpsonoj
+    es: Los Simpson
+    es-419: Los Simpson
+    et: Simpsonid
+    eu: The Simpsons
+    ext: Los Simpson
+    fa: سیمپسونها
+    fi: Simpsonit
+    fj: The Simpsons
+    fo: The Simpsons
+    fr: Les Simpson
+    fy: The Simpsons
+    ga: The Simpsons
+    gd: The Simpsons
+    gl: The Simpsons
+    gn: The Simpsons
+    gor: The Simpsons
+    gsw: D Simpsons
+    gv: The Simpsons
+    ha: The Simpsons
+    hak: Thoi-chok Simpsons
+    haw: The Simpsons
+    he: משפחת סימפסון
+    hi: द सिम्पसन्स
+    hif: The Simpsons
+    hr: Simpsoni
+    ht: Les Simpson
+    hu: A Simpson család
+    hy: Սիմփսոններ
+    ia: The Simpsons
+    id: The Simpsons
+    ie: The Simpsons
+    ilo: The Simpsons
+    io: The Simpsons
+    is: Simpsonfjölskyldan
+    it: I Simpson
+    iu: ᐊᓯᒪᐲᓲᓃᑦ
+    ja: ザ・シンプソンズ
+    jv: The Simpsons
+    ka: სიმპსონები
+    kaa: The Simpsons
+    kab: Simpson
+    kbd: Симпсонхэр
+    kk: Симпсондар
+    kl: The Simpsons
+    km: ដឺ ស៊ីមសុន
+    ko: 심슨 가족
+    ko-kp: 심슨 가족
+    ks: دا سِمٛپسَنٕز
+    ksh: D Simpsons
+    ku: The Simpsons
+    kw: The Simpsons
+    ky: Симпсондор
+    la: The Simpsons
+    lb: The Simpsons
+    li: The Simpsons
+    lij: The Simpsons
+    lld: The Simpsons
+    lmo: The Simpsons
+    lo: ເດີຊິມສັນ
+    lt: Simpsonai
+    lv: Simpsoni
+    lzh: 辛普森家
+    mad: The Simpsons
+    mg: The Simpsons
+    mi: The Simpsons
+    mk: Симпсонови
+    ml: ദ സിംസൺസ്
+    mr: सिम्पसन्स
+    mrj: Симпсоны
+    ms: The Simpsons
+    mt: Il-Simpsons
+    mul: The Simpsons
+    mwl: The Simpsons
+    my: The Simpsons
+    myv: Симпсонтнэ
+    na: The Simpsons
+    nah: The Simpsons
+    nan: The Simpsons
+    nb: Simpsons
+    nds-nl: The Simpsons
+    ne: द सिम्प्सन्स
+    new: द सिम्प्सन् स्
+    nl: The Simpsons
+    nn: Simpsons
+    oc: Los Simpson
+    pa: ਦ ਸਿੰਪਸਨਜ਼
+    pam: The Simpsons
+    pcd: Chés Simpson
+    pcm: The Simpsons
+    pi: द सिम्प्सनस्
+    pih: T' Simpsons
+    pl: Simpsonowie
+    pnb: دی سمپسنز
+    pnt: Σιμπσωνς
+    ps: سمپسنز
+    pt: Os Simpsons
+    pt-br: Os Simpsons
+    qu: Nos Simpsons
+    rmc: The Simpsons
+    ro: Familia Simpson
+    ru: Симпсоны
+    rup: The Simpsons
+    sa: द सिम्प्सन्स्
+    sah: Симпсоннар
+    sc: The Simpsons
+    scn: Li Simpson
+    sco: The Simpsons
+    sd: The Simpsons
+    sh: The Simpsons
+    si: ද සිම්ප්සන්ස්
+    sk: Simpsonovci
+    sl: Simpsonovi
+    smn: Simpsoneh
+    so: The Simpsons
+    sq: Simpsons
+    sr: Симпсонови
+    st: The Simpsons
+    su: The Simpsons
+    sv: Simpsons
+    sw: The Simpsons
+    syl: ꠍꠤꠝꠍꠘ
+    ta: த சிம்ப்சன்ஸ்
+    tg: Симпсонҳо
+    th: เดอะซิมป์สันส์
+    tl: The Simpsons
+    tr: Simpsonlar
+    tt: Симпсоннар
+    tt-cyrl: Симпсоннар
+    udm: Симпсонъёс
+    ug: سىمپسون ئائىلىسى
+    uk: Сімпсони
+    ur: دا سمپسنز
+    uz: The Simpsons
+    vec: The Simpsons
+    vep: Die Simpsons
+    vi: The Simpsons
+    vls: The Simpsons
+    vo: The Simpsons
+    wa: The Simpsons
+    war: The Simpsons
+    wuu: 辛普森一家
+    xmf: სიმფსონეფი
+    yi: די סימפסאנס
+    yo: The Simpsons
+    yue: 阿森一族
+    za: The Simpsons
+    zgh: ⴷⴰ ⵙⵉⵎⴱⵙⵓⵏⵣ
+    zh: 辛普森一家
+    zh-cn: 辛普森一家
+    zh-hans: 辛普森一家
+    zh-hant: 辛普森家庭
+    zh-hk: 阿森一族
+    zh-mo: 阿森一族
+    zh-my: 辛普森家庭
+    zh-sg: 阿森一族
+    zh-tw: 辛普森家庭
+    zu: AmaSimpson
 ---
-
 # [[Simpsons]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~The_Simpsons,886|WD~The_Simpsons,886]] 

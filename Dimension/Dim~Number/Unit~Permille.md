@@ -1,13 +1,49 @@
 ---
 aliases:
-  - promille
-  - per mil
-  - per mill
-  - per mille
-  - permil
-  - permill
-  - permille
-  - Unit~Permille
+- elmilo
+- ezrelék
+- milako
+- milran
+- odtisoček
+- per mil
+- per mill
+- per mille
+- Peribu
+- permil
+- Permile
+- permill
+- permille
+- por mil
+- pour mille
+- promil
+- promile
+- Promill
+- promille
+- Promilă
+- Promilė
+- Promïlle
+- Prómill
+- Unit~Permille
+- праміле
+- проміле
+- промил
+- Промиле
+- Промиллĕ
+- промилле
+- պրոմիլ
+- פרומיל
+- در هزار
+- فی ہزار
+- نسبة ألفية
+- پرومىيللە
+- ਪ੍ਰਤੀ ਹਜ਼ਾਰ
+- ထောင်ခိုင်နှုန်း
+- პრომილე
+- ‰
+- パーミル
+- 千分比
+- 千分率
+- 천분율
 has_id_wikidata: Q181011
 measured_physical_quantity: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~basis_point,750178]]'
@@ -15,21 +51,21 @@ followed_by: '[[_Standards/WikiData/WD~basis_point,750178]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 notation: '[[_Standards/WikiData/WD~per_mille_sign,10639864]]'
 different_from:
-  - '[[_Standards/WikiData/WD~thousandth,42531880]]'
-  - '[[_Standards/WikiData/WD~parts_per_thousand,99487704]]'
+- '[[_Standards/WikiData/WD~thousandth,42531880]]'
+- '[[_Standards/WikiData/WD~parts_per_thousand,99487704]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~thousandth,42531880]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-  - '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
 follows: '[[_Standards/WikiData/WD~percent,11229]]'
 conversion_to_standard_unit:
-  - 1000000000000
-  - 1000000000
-  - 1000000
-  - 1000
-  - 100
-  - 10
-  - 0.1
+- 1000000000000
+- 1000000000
+- 1000000
+- 1000
+- 100
+- 10
+- 0.1
 conversion_to_SI_unit: 0.001
 numeric_value: 0.001
 Unicode_character: ‰
@@ -37,8 +73,90 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Visualisation%20parts%
 Wolfram_Language_unit_code: '"PerMil"'
 Commons_category: Per mille
 unit_symbol: ‰
+dv_has_:
+  name_:
+    ar: نسبة ألفية
+    az: promil
+    be: праміле
+    be-tarask: праміле
+    bg: ‰
+    bs: promil
+    ca: per mil
+    cs: promile
+    cv: Промиллĕ
+    cy: milran
+    da: promille
+    de: Promille
+    el: ‰
+    en: per mille
+    en-gb: per mille
+    eo: elmilo
+    es: por mil
+    et: Promill
+    eu: milako
+    fa: در هزار
+    fi: promille
+    fr: pour mille
+    frr: Promil
+    he: פרומיל
+    hr: Promil
+    hu: ezrelék
+    hy: պրոմիլ
+    is: Prómill
+    it: per mille
+    ja: パーミル
+    ka: პრომილე
+    kk: Промилле
+    kk-arab: پرومىيللە
+    kk-cn: پرومىيللە
+    kk-cyrl: Промилле
+    kk-kz: Промилле
+    kk-latn: Promïlle
+    kk-tr: Promïlle
+    ko: 천분율
+    lb: ‰
+    lld: Permile
+    lt: Promilė
+    lv: promile
+    lzh: 千分比
+    mhr: Промилле
+    mk: промил
+    ms: Peribu
+    my: ထောင်ခိုင်နှုန်း
+    nb: promille
+    nl: promille
+    nn: promille
+    pa: ਪ੍ਰਤੀ ਹਜ਼ਾਰ
+    pl: promil
+    pt: por mil
+    pt-br: por mil
+    ro: Promilă
+    ru: промилле
+    rue: Промиле
+    sah: Промилле
+    sh: Promil
+    sk: promile
+    sl: odtisoček
+    sr: Промил
+    sr-ec: Промил
+    sr-el: Promil
+    sv: promille
+    tr: ‰
+    uk: проміле
+    ur: فی ہزار
+    uz: Promille
+    wuu: 千分比
+    xal: Промиле
+    xmf: პრომილე
+    yue: 千分率
+    zh: 千分比
+    zh-cn: 千分比
+    zh-hans: 千分比
+    zh-hant: 千分比
+    zh-hk: 千分比
+    zh-sg: 千分比
+    zh-tw: 千分比
 ---
-
 # [[Unit~Permille]] 
 
 #is_/same_as :: [[WD~per_mille,181011]] 

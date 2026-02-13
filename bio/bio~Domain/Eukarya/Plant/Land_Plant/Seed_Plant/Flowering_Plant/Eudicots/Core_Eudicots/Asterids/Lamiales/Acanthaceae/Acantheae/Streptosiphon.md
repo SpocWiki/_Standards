@@ -1,8 +1,34 @@
 ---
 aliases:
-  - Streptosiphon
+- Streptosiphon
 title: Streptosiphon hirsutus
 has_id_wikidata: Q9080095
+dv_has_:
+  name_:
+    ast: Streptosiphon
+    bg: Streptosiphon
+    ceb: Streptosiphon
+    de: Streptosiphon
+    en: Streptosiphon
+    es: Streptosiphon
+    fi: Streptosiphon
+    fr: Streptosiphon
+    ga: Streptosiphon
+    hr: Streptosiphon
+    it: Streptosiphon
+    la: Streptosiphon
+    mul: Streptosiphon
+    nl: Streptosiphon
+    pl: Streptosiphon
+    pt: Streptosiphon
+    ro: Streptosiphon
+    ru: Streptosiphon
+    sq: Streptosiphon
+    th: Streptosiphon
+    uk: Streptosiphon
+    vec: Streptosiphon
+    vi: Streptosiphon
+    war: Streptosiphon
 ---
 ## [[Streptosiphon]] 
 

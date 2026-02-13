@@ -1,36 +1,53 @@
 ---
-has_time_started: 1974-01-01 
+has_time_started: 1974-01-01
 aliases:
+- SQL
+- SQL լեզու
+- Structured Query Language
+- Struktuurpäringukeel
+- Teanga Struchtúrtha Iarratas
+- Truy vấn có cấu trúc
+- إس كيو إل
+- اسکیوال
+- ایس کیو ایل
+- ऍसक्यूऍल
+- এসকিউএল
+- ਐੱਸ.ਕਿਊ.ਐੱਲ
+- வினவல் அமைப்பு மொழி
+- എസ്.ക്യു.എൽ.
+- ภาษาสอบถามเชิงโครงสร้าง
+- 结构化查询语句
+- ꠄꠍꠇꠤꠃꠄꠟ
 has_id_wikidata: Q47607
 designed_by:
-  - "[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]"
-  - "[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]"
+- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]'
+- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]'
 developer:
-  - "[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]"
-  - "[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
-used_by: "[[_Standards/WikiData/WD~relational_database,192588]]"
-programming_paradigm: "[[_Standards/WikiData/WD~declarative_programming,531152]]"
+- '[[_Standards/WikiData/WD~Raymond_F._Boyce,93007]]'
+- '[[_Standards/WikiData/WD~Donald_D._Chamberlin,93071]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+used_by: '[[_Standards/WikiData/WD~relational_database,192588]]'
+programming_paradigm: '[[_Standards/WikiData/WD~declarative_programming,531152]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~domain_specific_language,691358]]"
-  - "[[_Standards/WikiData/WD~query_language,845739]]"
-  - "[[_Standards/WikiData/WD~declarative_programming_language,1144882]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-manifestation_of: "[[_Standards/WikiData/WD~relational_algebra,840540]]"
-subclass_of: "[[_Standards/WikiData/WD~query_language,845739]]"
+- '[[_Standards/WikiData/WD~domain_specific_language,691358]]'
+- '[[_Standards/WikiData/WD~query_language,845739]]'
+- '[[_Standards/WikiData/WD~declarative_programming_language,1144882]]'
+- '[[_Standards/WikiData/WD~programming_language,9143]]'
+manifestation_of: '[[_Standards/WikiData/WD~relational_algebra,840540]]'
+subclass_of: '[[_Standards/WikiData/WD~query_language,845739]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~strong_typing,991202]]"
-  - "[[_Standards/WikiData/WD~static_typing,1940914]]"
+- '[[_Standards/WikiData/WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Datalog,1172264]]"
-  - "[[_Standards/WikiData/WD~first_order_logic,4055684]]"
-has_use: "[[_Standards/WikiData/WD~relational_database_management_system,3932296]]"
-based_on: "[[_Standards/WikiData/WD~first_order_logic,4055684]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_9075,5974436]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_SQL,10724710]]"
-follows: "[[_Standards/WikiData/WD~SEQUEL,12775712]]"
-different_from: "[[_Standards/WikiData/WD~Structured_Query_Language_script,62625630]]"
-OmegaWiki_Defined_Meaning: "662510"
+- '[[_Standards/WikiData/WD~Datalog,1172264]]'
+- '[[_Standards/WikiData/WD~first_order_logic,4055684]]'
+has_use: '[[_Standards/WikiData/WD~relational_database_management_system,3932296]]'
+based_on: '[[_Standards/WikiData/WD~first_order_logic,4055684]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9075,5974436]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_SQL,10724710]]'
+follows: '[[_Standards/WikiData/WD~SEQUEL,12775712]]'
+different_from: '[[_Standards/WikiData/WD~Structured_Query_Language_script,62625630]]'
+OmegaWiki_Defined_Meaning: 662510
 inception: 1974-01-01T00:00:00Z
 GitHub_topic: sql
 file_extension: sql
@@ -41,16 +58,44 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sql%20data%20base
 Stack_Exchange_tag: https://stackoverflow.com/tags/sql
 official_website: https://www.iso.org/standard/76583.html
 IPA_transcription:
-  - ˈɛs kjuː ˈɛl
-  - ˈsiːkwəl
+- ˈɛs kjuː ˈɛl
+- ˈsiːkwəl
 media_type:
-  - application/sql
-  - application/x-sql
+- application/sql
+- application/x-sql
 software_version_identifier: SQL:2023
 Commons_category: Structured Query Language
 JIS_standard: X3005
 short_name: SQL
 official_name: SQL
+dv_has_:
+  name_:
+    ar: إس كيو إل
+    bn: এসকিউএল
+    ca: Structured Query Language
+    da: Structured Query Language
+    et: Struktuurpäringukeel
+    fa: اسکیوال
+    fr: Structured Query Language
+    ga: Teanga Struchtúrtha Iarratas
+    hi: ऍसक्यूऍल
+    hy: SQL լեզու
+    kab: Structured Query Language
+    ko: SQL
+    lmo: Structured Query Language
+    ml: എസ്.ക്യു.എൽ.
+    mul: SQL
+    nb: Structured Query Language
+    oc: Structured Query Language
+    pa: ਐੱਸ.ਕਿਊ.ਐੱਲ
+    pnb: ایس کیو ایل
+    sk: Structured Query Language
+    syl: ꠄꠍꠇꠤꠃꠄꠟ
+    ta: வினவல் அமைப்பு மொழி
+    th: ภาษาสอบถามเชิงโครงสร้าง
+    ur: ایس کیو ایل
+    vi: Truy vấn có cấu trúc
+    zh: 结构化查询语句
 ---
 # [[Prog~SQL]] 
 

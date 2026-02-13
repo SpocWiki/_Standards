@@ -1,62 +1,85 @@
 ---
 aliases:
-  - Walter_Benjamin
-  - Walter Bendix Schönflies Benjamin
-  - Walter Benjamin
-  - Benjamin
-  - Benjamin,Walter
+- Benjamin
+- Benjamin,Walter
+- Gualterius Benjamin
+- Valter Benyamin
+- Valters Benjamins
+- Walter Bendix Schönflies Benjamin
+- Walter Benjamin
+- Walter_Benjamin
+- Βάλτερ Μπένγιαμιν
+- Валтер Бенјамин
+- Валтер Бенямин
+- Вальтер Беньямін
+- Вальтер Беньямин
+- Вальтэр Бэньямін
+- Բենիամին Վալտեր
+- ולטר בנימין
+- والتر بنيامين
+- والتر بنیامین
+- والټر بنیامین
+- वाल्टर बेंजामिन
+- ভাল্টার বেনিয়ামিন
+- ਵਾਲਟਰ ਬੈਂਜਾਮਿਨ
+- வால்டர் பெஞ்சமின்
+- വാൾട്ടർ ബെഞ്ചമിൻ
+- ヴァルター・ベンヤミン
+- 瓦尔特·本雅明
+- 華特班雅明
+- 발터 벤야민
 has_id_wikidata: Q61078
 relative:
-  - '[[_Standards/WikiData/WD~Gertrud_Kolmar,68204]]'
-  - '[[_Standards/WikiData/WD~Leon_Kellner,1507434]]'
-  - '[[_Standards/WikiData/WD~William_Stern,57347]]'
-  - '[[_Standards/WikiData/WD~Hannah_Arendt,60025]]'
-  - '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
+- '[[_Standards/WikiData/WD~Gertrud_Kolmar,68204]]'
+- '[[_Standards/WikiData/WD~Leon_Kellner,1507434]]'
+- '[[_Standards/WikiData/WD~William_Stern,57347]]'
+- '[[_Standards/WikiData/WD~Hannah_Arendt,60025]]'
+- '[[_Standards/WikiData/WD~Günther_Anders,60884]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Gershom_Scholem,138850]]'
-  - '[[_Standards/WikiData/WD~Georg_Lukács,151523]]'
-  - '[[_Standards/WikiData/WD~Charles_Baudelaire,501]]'
-  - '[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]'
-  - '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
-  - '[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]'
-  - '[[_Standards/WikiData/WD~Ernst_Bloch,57240]]'
+- '[[_Standards/WikiData/WD~Gershom_Scholem,138850]]'
+- '[[_Standards/WikiData/WD~Georg_Lukács,151523]]'
+- '[[_Standards/WikiData/WD~Charles_Baudelaire,501]]'
+- '[[_Standards/WikiData/WD~Johann_Wolfgang_von_Goethe,5879]]'
+- '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
+- '[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]'
+- '[[_Standards/WikiData/WD~Ernst_Bloch,57240]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~University_of_Freiburg,153987]]'
-  - '[[_Standards/WikiData/WD~University_of_Bern,659080]]'
-  - '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~University_of_Freiburg,153987]]'
+- '[[_Standards/WikiData/WD~University_of_Bern,659080]]'
+- '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~National_Library_of_Israel,188915]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~National_Library_of_Israel,188915]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Theses_on_the_Philosophy_of_History,330979]]'
-  - '[[_Standards/WikiData/WD~The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction,1169425]]'
-  - '[[_Standards/WikiData/WD~The_arcades_project,4785097]]'
-  - '[[_Standards/WikiData/WD~The_Origin_of_German_Tragic_Drama,7755349]]'
-  - '[[_Standards/WikiData/WD~One_Way_Street,112788507]]'
+- '[[_Standards/WikiData/WD~Theses_on_the_Philosophy_of_History,330979]]'
+- '[[_Standards/WikiData/WD~The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction,1169425]]'
+- '[[_Standards/WikiData/WD~The_arcades_project,4785097]]'
+- '[[_Standards/WikiData/WD~The_Origin_of_German_Tragic_Drama,7755349]]'
+- '[[_Standards/WikiData/WD~One_Way_Street,112788507]]'
 occupation:
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
-  - '[[_Standards/WikiData/WD~art_critic,4164507]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~art_critic,4164507]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 given_name: '[[_Standards/WikiData/WD~Walter,499249]]'
 family_name: '[[_Standards/WikiData/WD~Benjamin,817365]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Georg_Benjamin,1503672]]'
-  - '[[_Standards/WikiData/WD~Dora_Benjamin,18620538]]'
+- '[[_Standards/WikiData/WD~Georg_Benjamin,1503672]]'
+- '[[_Standards/WikiData/WD~Dora_Benjamin,18620538]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Richard_Herbertz,2149770]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 owner_of: "[[_Standards/WikiData/WD~Walter_Benjamin's_library,35091786]]"
@@ -68,10 +91,10 @@ spouse: '[[_Standards/WikiData/WD~Dora_Sophie_Kellner,87647365]]'
 father: '[[_Standards/WikiData/WD~Emil_Benjamin,94822911]]'
 date_of_birth: 1892-07-15T00:00:00Z
 work_location:
-  - '[[_Standards/WikiData/WD~Frankfurt,1794]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Bern,70]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Frankfurt,1794]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Bern,70]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 place_of_death: '[[_Standards/WikiData/WD~Portbou,7165]]'
 movement: '[[_Standards/WikiData/WD~Marxism,7264]]'
@@ -85,8 +108,8 @@ Commons_category: Walter Benjamin
 P1015: 90064623
 Europeana_entity: agent/base/145510
 pseudonym:
-  - Benedix Schönflies
-  - Detlev Holz
+- Benedix Schönflies
+- Detlev Holz
 Wolfram_Language_entity_code: Entity["Person", "WalterBenjamin::v7td7"]
 PhilPapers_topic: walter-benjamin
 hashtag: WalterBenjamin
@@ -95,18 +118,99 @@ BHCL_UUID: 5a82bdc6-011b-4779-b335-dbe9575ce95e
 Libris_URI: 20dgg5nl0wmlpnt
 date_of_death: 1940-09-26T00:00:00Z
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Berliner%20Gedenktafel%20Walter%20Benjamin%20Prinzregentenstra%C3%9Fe%2066%20Berlin-Wilmersdorf.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Benjamin%20-%20Plaque%20comm%C3%A9morative%2010%20rue%20Dombasle%2C%2075015%20Paris%2C%20France.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Berliner%20Gedenktafel%20Walter%20Benjamin%20Prinzregentenstra%C3%9Fe%2066%20Berlin-Wilmersdorf.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Benjamin%20-%20Plaque%20comm%C3%A9morative%2010%20rue%20Dombasle%2C%2075015%20Paris%2C%20France.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Walter%20Benjamin.ogg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Walter%20Benjamin.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Benjamin%20vers%201928.jpg
 IPA_transcription: ˌvaltɐ ˈbɛnjamiːn
 ISNI:
-  - 0000000121010732
-  - 0000000368635320
+- 0000000121010732
+- 0000000368635320
 NLC_authorities: 038174713
+dv_has_:
+  name_:
+    af: Walter Benjamin
+    ar: والتر بنيامين
+    arz: والتر بنيامين
+    ast: Walter Benjamin
+    az: Valter Benyamin
+    be-tarask: Вальтэр Бэньямін
+    bg: Валтер Бенямин
+    bn: ভাল্টার বেনিয়ামিন
+    bs: Walter Benjamin
+    ca: Walter Benjamin
+    cs: Walter Benjamin
+    cy: Walter Benjamin
+    da: Walter Benjamin
+    de: Walter Benjamin
+    ee: Walter Benjamin
+    el: Βάλτερ Μπένγιαμιν
+    en: Walter Benjamin
+    eo: Walter Benjamin
+    es: Walter Benjamin
+    et: Walter Benjamin
+    eu: Walter Benjamin
+    fa: والتر بنیامین
+    fi: Walter Benjamin
+    fr: Walter Benjamin
+    fy: Walter Benjamin
+    ga: Walter Benjamin
+    gl: Walter Benjamin
+    gsw: Walter Benjamin
+    guw: Walter Benjamin
+    he: ולטר בנימין
+    hi: वाल्टर बेंजामिन
+    hr: Walter Benjamin
+    hu: Walter Benjamin
+    hy: Բենիամին Վալտեր
+    id: Walter Benjamin
+    io: Walter Benjamin
+    is: Walter Benjamin
+    it: Walter Benjamin
+    ja: ヴァルター・ベンヤミン
+    kk: Вальтер Беньямин
+    ko: 발터 벤야민
+    la: Gualterius Benjamin
+    lt: Walter Benjamin
+    lv: Valters Benjamins
+    mg: Walter Benjamin
+    mk: Валтер Бенјамин
+    ml: വാൾട്ടർ ബെഞ്ചമിൻ
+    mul: Walter Benjamin
+    nan: Walter Benjamin
+    nb: Walter Benjamin
+    nds: Walter Benjamin
+    nl: Walter Benjamin
+    nn: Walter Benjamin
+    oc: Walter Benjamin
+    pa: ਵਾਲਟਰ ਬੈਂਜਾਮਿਨ
+    pl: Walter Benjamin
+    pms: Walter Benjamin
+    ps: والټر بنیامین
+    pt: Walter Benjamin
+    pt-br: Walter Benjamin
+    ro: Walter Benjamin
+    ru: Вальтер Беньямин
+    sc: Walter Benjamin
+    sco: Walter Benjamin
+    sh: Walter Benjamin
+    sk: Walter Benjamin
+    sl: Walter Benjamin
+    sq: Walter Benjamin
+    sr: Валтер Бенјамин
+    sv: Walter Benjamin
+    ta: வால்டர் பெஞ்சமின்
+    tr: Walter Benjamin
+    uk: Вальтер Беньямін
+    ur: والتر بنیامین
+    vi: Walter Benjamin
+    war: Walter Benjamin
+    wuu: 瓦尔特·本雅明
+    yo: Walter Benjamin
+    yue: 華特班雅明
+    zh: 瓦尔特·本雅明
 ---
-
 # [[Benjamin,Walter]] 
 
 #is_/same_as :: [[WD~Walter_Benjamin,61078]] 

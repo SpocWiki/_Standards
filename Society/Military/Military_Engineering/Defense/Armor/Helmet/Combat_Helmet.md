@@ -1,23 +1,114 @@
 ---
 aliases:
-  - Combat_helmet
-  - ""
-  - Combat_Helmet
-  - Combat Helmet
+- bojna čelada
+- borbeni šlem
+- borroka-kasko
+- Capacete de combate
+- Casco de combat
+- casco de combate
+- casque de combat
+- Combat Helmet
+- Combat_helmet
+- elm
+- Elmet da combatiment
+- elmetto
+- Helm tempur
+- Helmet tempur
+- helmetë luftarake
+- Helmo
+- hełm
+- legerhelm
+- militista kasko
+- militärhjälm
+- Militärische Kopfbedeckung
+- militærhjelm
+- Miğfer
+- taistelukypärä
+- vojenská prilba
+- vojenská přilba
+- Yelmu
+- Zirehli dəbilqə
+- šalmas
+- Бойна каска
+- борбен шлем
+- борбени шлем
+- шалом
+- шлем
+- Шолом
+- קסדת קרב
+- جنگی ہیلمیٹ
+- خوذة المعركة
+- کلاهخود
+- সামরিক হেলমেট
+- போர்க்களத் தலைக்கவசம்
+- หมวกต่อสู้
+- 戦闘用ヘルメット
+- 戰術頭盔
+- 軍用頭盔
+- 방탄 헬멧
 has_id_wikidata: Q3579211
 subclass_of:
-  - "[[_Standards/WikiData/WD~helmet,173603]]"
-  - "[[_Standards/WikiData/WD~military_personal_equipment,11798718]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~Q9291893,9291893]]"
+- '[[_Standards/WikiData/WD~helmet,173603]]'
+- '[[_Standards/WikiData/WD~military_personal_equipment,11798718]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~Q9291893,9291893]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mk6helmet.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Helmet%20%28AM%20607044-2%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kolumbien%20Quimbaya%20Helm%201%20EthnM.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mk6helmet.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Helmet%20%28AM%20607044-2%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Kolumbien%20Quimbaya%20Helm%201%20EthnM.jpg
 Commons_category: Military helmets
-Unicode_character: 🪖
+Unicode_character: "\U0001FA96"
+dv_has_:
+  name_:
+    ar: خوذة المعركة
+    ast: Yelmu
+    az: Zirehli dəbilqə
+    be: шлем
+    be-tarask: шалом
+    bg: Бойна каска
+    bn: সামরিক হেলমেট
+    ca: elm
+    cs: vojenská přilba
+    da: militærhjelm
+    de: Militärische Kopfbedeckung
+    en: combat helmet
+    eo: militista kasko
+    es: casco de combate
+    eu: borroka-kasko
+    fa: کلاهخود
+    fi: taistelukypärä
+    fr: casque de combat
+    gl: Helmo
+    he: קסדת קרב
+    id: Helm tempur
+    it: elmetto
+    ja: 戦闘用ヘルメット
+    ko: 방탄 헬멧
+    lt: šalmas
+    mk: борбен шлем
+    ms: Helmet tempur
+    nl: legerhelm
+    oc: Casco de combat
+    pl: hełm
+    pms: Elmet da combatiment
+    pt: Capacete de combate
+    pt-br: Capacete de combate
+    ru: шлем
+    sk: vojenská prilba
+    sl: bojna čelada
+    sq: helmetë luftarake
+    sr: борбени шлем
+    sr-ec: борбени шлем
+    sr-el: borbeni šlem
+    sv: militärhjälm
+    ta: போர்க்களத் தலைக்கவசம்
+    th: หมวกต่อสู้
+    tr: Miğfer
+    uk: Шолом
+    ur: جنگی ہیلمیٹ
+    yue: 軍用頭盔
+    zh: 戰術頭盔
 ---
-
 # [[Combat_Helmet]] 🪖 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Combat_helmet,3579211|WD~Combat_helmet,3579211]] 

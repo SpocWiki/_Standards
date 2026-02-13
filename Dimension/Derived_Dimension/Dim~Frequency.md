@@ -1,47 +1,395 @@
 ---
 aliases:
-  - Dim~Frequency
+- amledd
+- baraay
+- chastota
+- częstotliwość
+- dalasan
+- dažnis
+- Dim~Frequency
+- frecuencia
+- frecuensa
+- frecvență
+- frekans
+- frekuencë
+- frekuensi
+- frekvenca
+- frekvence
+- frekvencia
+- frekvencija
+- frekvenco
+- frekvens
+- Frekwens
+- frekwensie
+- frekwensiya
+- frekwenza
+- Frekwinsje
+- frequenco
+- frequency
+- frequensa
+- frequentia
+- frequentie
+- Frequenz
+- frequenza
+- frequéncia
+- frequência
+- freqüencia
+- freqüència
+- Frékuénsi
+- fréquence
+- gĩthumba
+- hatetika
+- hwiriro
+- kapila
+- kekerapan
+- maiztasun
+- marudio
+- maywiy kutinchiq
+- menowghedh
+- minicíocht
+- pirìudu
+- pîn-lu̍t
+- sagedus
+- sıqlıq
+- taajuus
+- tezlik
+- tizlik
+- tonkėnis
+- távjudâh
+- tíðni
+- tần số
+- umjingo
+- wasoma
+- συχνότητα
+- басомад
+- давтамж
+- ешлык
+- жиілік
+- жыштык
+- йышлыҡ
+- лестам
+- Сидешись
+- тăтăшлăх
+- учесталост
+- фреквенція
+- частасьць
+- частата
+- частота
+- честота
+- ӵемлык
+- հաճախություն
+- פרעקווענץ
+- תדירות
+- بسامد
+- تردد
+- تعاويدة
+- تعدد
+- فريکوئنسي
+- فريکونسي
+- فريڪوئنسي
+- فرکانس
+- فریکوئینسی
+- لەرەلەر
+- چاستوتا
+- आवर्तनम्
+- आवृत्ति
+- कंप्रता
+- तरङ्ग
+- फ्रिक्वेन्सी
+- কম্পনাংক
+- কম্পাঙ্ক
+- ਵਾਰਵਾਰਤਾ
+- આવૃત્તિ
+- அதிர்வெண்
+- పౌనః పున్యము
+- ആവൃത്തി
+- සංඛ්යාතය
+- ความถี่
+- ကြိမ်နှုန်း
+- სიხშირე
+- ᎠᏍᏓᏩᏛᏍᏙᏗ
+- 周波数
+- 頻率
+- 频率
+- 진동수
 has_id_wikidata: Q11652
 Commons_category: Frequency
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f={\\frac {1}{T}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>T</mi>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f={\\frac {1}{T}}}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f={\frac {1}{T}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>f</mi>
+          <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>T</mi>
+            </mfrac>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle f={\frac {1}{T}}}</annotation>
+    </semantics>
+  </math>
 described_by_source:
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
 different_from:
-  - '[[_Standards/WikiData/WD~letter_frequency,520562]]'
-  - '[[_Standards/WikiData/WD~frequency,762856]]'
-  - '[[_Standards/WikiData/WD~rotational_frequency,30338278]]'
+- '[[_Standards/WikiData/WD~letter_frequency,520562]]'
+- '[[_Standards/WikiData/WD~frequency,762856]]'
+- '[[_Standards/WikiData/WD~rotational_frequency,30338278]]'
 equivalent_class: http://purl.org/dc/terms/Frequency
 facet_of: '[[_Standards/WikiData/WD~repetition,18699055]]'
 Gujarati_Vishwakosh_entry: આવૃત્તિ
 IEV_number: 103-06-02
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimation.gif
 in_defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle T}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>T</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle T}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f}</annotation>\n  </semantics>\n</math>"
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {T}}^{-1}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {T}}^{-1}}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle T}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>T</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>f</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+    </semantics>
+  </math>
+ISQ_dimension: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {T}}^{-1}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <msup>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">T</mi>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </msup>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {T}}^{-1}}</annotation>
+    </semantics>
+  </math>
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 7836
 OpenStreetMap_tag_or_key: Key:frequency
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95.wav
 quantity_symbol_LaTeX_:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\nu }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03BD;<!-- ν --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\nu }</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle F}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>F</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle F}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle f}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>f</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \nu }">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>&#x03BD;<!-- ν --></mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle F}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>F</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
+    </semantics>
+  </math>
 quantity_symbol_string_:
-  - f
-  - ν
+- f
+- ν
 recommended_unit_of_measurement:
-  - '[[_Standards/WikiData/WD~reciprocal_second,6137407]]'
-  - '[[_Standards/WikiData/WD~hertz,39369]]'
+- '[[_Standards/WikiData/WD~reciprocal_second,6137407]]'
+- '[[_Standards/WikiData/WD~hertz,39369]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-  - '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-  - '[[_Standards/WikiData/WD~reciprocal_duration,98690850]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~reciprocal_duration,98690850]]'
 Wikidata_property: frequency
+dv_has_:
+  name_:
+    af: frekwensie
+    an: freqüencia
+    ar: تردد
+    ary: تعاويدة
+    as: কম্পনাংক
+    ast: frecuencia
+    az: tezlik
+    azb: فرکانس
+    ba: йышлыҡ
+    bar: Frequenz
+    be: частата
+    be-tarask: частасьць
+    bg: честота
+    bn: কম্পাঙ্ক
+    bs: frekvencija
+    ca: freqüència
+    ce: лестам
+    ceb: kapila
+    chr: ᎠᏍᏓᏩᏛᏍᏙᏗ
+    ckb: لەرەلەر
+    crh: sıqlıq
+    cs: frekvence
+    cv: тăтăшлăх
+    cy: amledd
+    da: frekvens
+    de: Frequenz
+    el: συχνότητα
+    en: frequency
+    en-ca: frequency
+    en-gb: frequency
+    eo: frekvenco
+    es: frecuencia
+    et: sagedus
+    eu: maiztasun
+    fa: بسامد
+    fi: taajuus
+    fj: wasoma
+    fr: fréquence
+    frr: Frekwens
+    fy: Frekwinsje
+    ga: minicíocht
+    gl: frecuencia
+    gsw: Frequenz
+    gu: આવૃત્તિ
+    he: תדירות
+    hi: आवृत्ति
+    hif: frequency
+    hr: frekvencija
+    ht: frekans
+    hu: frekvencia
+    hy: հաճախություն
+    ia: frequentia
+    id: frekuensi
+    io: frequenco
+    is: tíðni
+    it: frequenza
+    ja: 周波数
+    ka: სიხშირე
+    ki: gĩthumba
+    kk: жиілік
+    ko: 진동수
+    ku: frekans
+    ku-latn: frekans
+    kw: menowghedh
+    ky: жыштык
+    la: frequentia
+    lmo: frequenza
+    lt: dažnis
+    lv: frekvence
+    mag: आवृत्ति
+    mdf: Сидешись
+    mg: hatetika
+    mk: честота
+    ml: ആവൃത്തി
+    mn: давтамж
+    mr: कंप्रता
+    ms: kekerapan
+    ms-arab: فريکوئنسي
+    mt: frekwenza
+    my: ကြိမ်နှုန်း
+    nan: pîn-lu̍t
+    nb: frekvens
+    nds: Frequenz
+    ne: तरङ्ग
+    new: फ्रिक्वेन्सी
+    nl: frequentie
+    nn: frekvens
+    oc: frequéncia
+    om: frequency
+    pa: ਵਾਰਵਾਰਤਾ
+    pl: częstotliwość
+    pms: frequensa
+    pnb: فریکوئینسی
+    ps: فريکونسي
+    pt: frequência
+    pt-br: frequência
+    qu: maywiy kutinchiq
+    rki: ကြိမ်နှုန်း
+    ro: frecvență
+    ru: частота
+    rue: фреквенція
+    sa: आवर्तनम्
+    scn: pirìudu
+    sco: frequency
+    sd: فريڪوئنسي
+    sgs: tonkėnis
+    sh: frekvencija
+    si: සංඛ්යාතය
+    sk: frekvencia
+    sl: frekvenca
+    smn: távjudâh
+    sn: hwiriro
+    sq: frekuencë
+    sr: учесталост
+    sr-ec: учесталост
+    su: Frékuénsi
+    sv: frekvens
+    sw: marudio
+    ta: அதிர்வெண்
+    te: పౌనః పున్యము
+    tg: басомад
+    th: ความถี่
+    tk: tizlik
+    tl: dalasan
+    tr: frekans
+    tt: ешлык
+    tt-cyrl: ешлык
+    udm: ӵемлык
+    ug: چاستوتا
+    uk: частота
+    ur: تعدد
+    uz: chastota
+    vec: frecuensa
+    vi: tần số
+    war: frekwensiya
+    wo: baraay
+    wuu: 频率
+    yi: פרעקווענץ
+    yue: 頻率
+    zh: 頻率
+    zh-cn: 频率
+    zh-hans: 频率
+    zh-hant: 頻率
+    zh-hk: 頻率
+    zh-mo: 頻率
+    zh-my: 频率
+    zh-sg: 频率
+    zh-tw: 頻率
+    zu: umjingo
 ---
-
 # [[Dim~Frequency]] 
 
 

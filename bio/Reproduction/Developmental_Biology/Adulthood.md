@@ -1,13 +1,95 @@
 ---
 aliases:
-  - Adult
-  - Adulthood
+- adolt
+- Adult
+- adulte
+- Adulthood
+- Adulto
+- adultu
+- aikuinen
+- baligi
+- bouxgaenqhung
+- dewasa
+- dorosćeny
+- dorosły
+- dospelosť
+- dospělec
+- eresek
+- Erwachsener
+- Erwachsne
+- felnőtt
+- Folwoeksene
+- fullorðinn einstaklingur
+- gran-moun
+- grande djin
+- granni
+- heldu
+- inbheach
+- Kamolot
+- Kelih
+- maturitate
+- munhu lonkulu
+- nasa edad na
+- neach fásta
+- người lớn
+- odrasel
+- odrasli
+- oedolyn
+- pieaugušais
+- plenkreskeco
+- qaangaadh
+- rritur
+- sawawa
+- sayaq runa
+- suaugystė
+- sín nígày
+- täiskasvanu
+- Tōa-lâng
+- vaksen
+- voksen
+- volwassene
+- vuxen
+- watu wazima
+- yetişkin
+- yetkinlik
+- zelam
+- àgbà
+- ενήλικας
+- вăйпитти
+- взрослый
+- възрастен индивид
+- дарослы
+- дорослий
+- ересек адам
+- Калонсол
+- одрасли
+- өлкән
+- չափահաս
+- מבוגר
+- ערוואקסענער
+- بالغ
+- بزرگسال
+- بلوغ
+- گەورەبوو
+- یئتکینلیک
+- तरुण
+- तारुण्य
+- वयस्क
+- প্রাপ্তবয়স্ক
+- முதிர் அகவையர்
+- മുതിർന്നവർ
+- ผู้ใหญ่
+- ན་སོ་ལོན་པ།
+- មនុស្សពេញវ័យ
+- 大人
+- 成年人
+- 성인
 has_id_wikidata: Q80994
 instance_of:
-  - '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
-  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
-  - '[[_Standards/WikiData/WD~population_group,851990]]'
-  - '[[_Standards/WikiData/WD~demographic_profile,5932254]]'
+- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~population_group,851990]]'
+- '[[_Standards/WikiData/WD~demographic_profile,5932254]]'
 has_characteristic: '[[_Standards/WikiData/WD~adulthood,378915]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~adulthood,378915]]'
 opposite_of: '[[_Standards/WikiData/WD~juvenile,1516282]]'
@@ -20,8 +102,122 @@ Commons_category: Adults
 UMLS_CUI: C0001675
 MeSH_tree_code: M01.060.116
 female_form_of_label: доросла
+dv_has_:
+  name_:
+    af: volwassene
+    ar: بالغ
+    ast: adultu
+    az: yetkinlik
+    azb: یئتکینلیک
+    ba: өлкән
+    ban: Kelih
+    bcl: nasa edad na
+    be: дарослы
+    be-tarask: дарослы
+    bg: възрастен индивид
+    bn: প্রাপ্তবয়স্ক
+    bo: ན་སོ་ལོན་པ།
+    bs: odrasli
+    ca: adult
+    ckb: گەورەبوو
+    cs: dospělec
+    cv: вăйпитти
+    cy: oedolyn
+    da: voksen
+    de: Erwachsener
+    el: ενήλικας
+    en: adult
+    eo: plenkreskeco
+    es: adulto
+    et: täiskasvanu
+    eu: heldu
+    fa: بزرگسال
+    fi: aikuinen
+    fr: adulte
+    frp: adulto
+    fy: Folwoeksene
+    ga: neach fásta
+    gan: 大人
+    gd: inbheach
+    gl: adulto
+    gsw: Erwachsne
+    ha: baligi
+    he: מבוגר
+    hi: वयस्क
+    hr: odrasli
+    hsb: dorosćeny
+    ht: gran-moun
+    hu: felnőtt
+    hy: չափահաս
+    ia: adulto
+    id: dewasa
+    io: Adulto
+    is: fullorðinn einstaklingur
+    it: adulto
+    ja: 大人
+    jam: adolt
+    kaa: eresek
+    kk: ересек адам
+    km: មនុស្សពេញវ័យ
+    ko: 성인
+    ku: zelam
+    lfn: adulte
+    lt: suaugystė
+    lv: pieaugušais
+    mcn: sín nígày
+    ml: മുതിർന്നവർ
+    mr: तारुण्य
+    ms: dewasa
+    mwl: adulto
+    nan: Tōa-lâng
+    nb: voksen
+    nds: Adult
+    ne: वयस्क
+    new: तरुण
+    nl: volwassene
+    nn: vaksen
+    oc: adult
+    pl: dorosły
+    pt: adulto
+    pt-br: adulto
+    qu: sayaq runa
+    ro: maturitate
+    ru: взрослый
+    scn: granni
+    sh: odrasli
+    sk: dospelosť
+    sl: odrasel
+    so: qaangaadh
+    sq: rritur
+    sr: одрасли
+    sr-ec: одрасли
+    sr-el: odrasli
+    su: sawawa
+    sv: vuxen
+    sw: watu wazima
+    ta: முதிர் அகவையர்
+    tg: Калонсол
+    th: ผู้ใหญ่
+    tl: adulto
+    tr: yetişkin
+    ts: munhu lonkulu
+    uk: дорослий
+    ur: بلوغ
+    uz: Kamolot
+    vec: adulto
+    vi: người lớn
+    wa: grande djin
+    war: Adulto
+    wuu: 成年人
+    yi: ערוואקסענער
+    yo: àgbà
+    yue: 大人
+    za: bouxgaenqhung
+    zh: 成年人
+    zh-hant: 成年人
+    zh-hk: 成年人
+    zh-tw: 成年人
 ---
-
 # [[Adulthood]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~adulthood,378915]] 

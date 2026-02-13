@@ -1,8 +1,73 @@
 ---
 aliases:
-  - Lacistemataceae
+- Lacistemaceae
+- Lacistemacoj
+- Lacistemataceae
+- lacistematàcies
+- Лацистемовые
+- لاسيستماتاسيا
+- ラキステマ科
+- 裂药花科
+- 裂藥花科
+- 라키스테마과
 title: Lacistemataceae
 has_id_wikidata: Q132951
+dv_has_:
+  name_:
+    an: Lacistemataceae
+    arz: لاسيستماتاسيا
+    ast: Lacistemataceae
+    bg: Lacistemataceae
+    bs: Lacistemataceae
+    ca: lacistematàcies
+    ceb: Lacistemataceae
+    cs: Lacistemataceae
+    de: Lacistemataceae
+    en: Lacistemataceae
+    eo: Lacistemacoj
+    es: Lacistemaceae
+    eu: Lacistemataceae
+    ext: Lacistemataceae
+    fi: Lacistemataceae
+    fr: Lacistemataceae
+    ga: Lacistemataceae
+    gl: Lacistemataceae
+    hr: Lacistemataceae
+    ia: Lacistemataceae
+    id: Lacistemataceae
+    ie: Lacistemataceae
+    io: Lacistemataceae
+    it: Lacistemataceae
+    ja: ラキステマ科
+    ko: 라키스테마과
+    la: Lacistemataceae
+    mul: Lacistemataceae
+    nb: Lacistemataceae
+    nl: Lacistemataceae
+    oc: Lacistemataceae
+    pl: Lacistemataceae
+    pt: Lacistemaceae
+    pt-br: Lacistemataceae
+    ro: Lacistemataceae
+    ru: Лацистемовые
+    sh: Lacistemataceae
+    sq: Lacistemataceae
+    sr: Lacistemataceae
+    sr-ec: Lacistemataceae
+    sr-el: Lacistemataceae
+    sv: Lacistemataceae
+    tr: Lacistemataceae
+    uk: Lacistemataceae
+    vi: Lacistemataceae
+    vo: Lacistemataceae
+    war: Lacistemataceae
+    zh: 裂药花科
+    zh-cn: 裂药花科
+    zh-hans: 裂药花科
+    zh-hant: 裂藥花科
+    zh-hk: 裂藥花科
+    zh-sg: 裂药花科
+    zh-tw: 裂藥花科
 ---
 # [[Lacistemataceae]] 
 

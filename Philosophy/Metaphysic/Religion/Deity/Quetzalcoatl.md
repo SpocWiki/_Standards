@@ -1,30 +1,134 @@
 ---
 aliases:
+- Kecalkoatl
+- Kecalkoatlis
+- Kecalkoatlo
+- Ketzalkóatl
+- Quetzalcoatl
+- Quetzalcòatl
+- Quetzalcóatl
+- Quetzalcōātl
+- Sulkakäärme
+- Κετζαλκόατλ
+- Кетцалкоатъл
+- Кетцалькоатль
+- Кецалкоатл
+- Кецалькаатль
+- Кецалькоатль
+- Կետցալկոաթլ
+- קצלקואטל
+- كيتزالكواتل
+- کوئتزالکواتل
+- கிட்சால்குவாடலி
+- เก็ตซัลโกอาตล์
+- კეცალკოატლი
+- ケツァルコアトル
+- 克察尔科亚特尔
+- 魁札尔科亚特尔
+- 魁札爾科亞特爾
+- 魁札科亞托
+- ꯀ꯭ꯋꯦꯠꯖꯥꯜꯀꯣꯇꯜ
+- 켓살코아틀
 has_id_wikidata: Q179818
 sibling:
-  - "[[_Standards/WikiData/WD~Huitzilopochtli,219412]]"
-  - "[[_Standards/WikiData/WD~Xolotl,279639]]"
-  - "[[_Standards/WikiData/WD~Xipe_Totec,558970]]"
-  - "[[_Standards/WikiData/WD~Tezcatlipoca,756797]]"
-worshipped_by: "[[_Standards/WikiData/WD~Aztec_mythology,391184]]"
+- '[[_Standards/WikiData/WD~Huitzilopochtli,219412]]'
+- '[[_Standards/WikiData/WD~Xolotl,279639]]'
+- '[[_Standards/WikiData/WD~Xipe_Totec,558970]]'
+- '[[_Standards/WikiData/WD~Tezcatlipoca,756797]]'
+worshipped_by: '[[_Standards/WikiData/WD~Aztec_mythology,391184]]'
 appears_in_the_form_of:
-  - "[[_Standards/WikiData/WD~resplendent_quetzal,459267]]"
-  - "[[_Standards/WikiData/WD~Feathered_Serpent,2736568]]"
-location: "[[_Standards/WikiData/WD~Templo_Mayor,774021]]"
-father: "[[_Standards/WikiData/WD~Mixcoatl,1326558]]"
-mother: "[[_Standards/WikiData/WD~Chimalma,1621750]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~resplendent_quetzal,459267]]'
+- '[[_Standards/WikiData/WD~Feathered_Serpent,2736568]]'
+location: '[[_Standards/WikiData/WD~Templo_Mayor,774021]]'
+father: '[[_Standards/WikiData/WD~Mixcoatl,1326558]]'
+mother: '[[_Standards/WikiData/WD~Chimalma,1621750]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source: "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~mythological_serpent,16326794]]"
-  - "[[_Standards/WikiData/WD~Aztec_deity,32066628]]"
+- '[[_Standards/WikiData/WD~mythological_serpent,16326794]]'
+- '[[_Standards/WikiData/WD~Aztec_deity,32066628]]'
 Commons_gallery: Quetzalcoatl
 Commons_category: Quetzalcoatl
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nci-Quetzalcoatl.oga
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quetzalcoatl.svg
 Iconclass_notation: 12R13(QUETZALCOATL)12
+dv_has_:
+  name_:
+    ar: كيتزالكواتل
+    ast: Quetzalcóatl
+    be: Кецалькаатль
+    be-tarask: Кецалькоатль
+    bg: Кетцалкоатъл
+    br: Quetzalcoatl
+    bs: Quetzalcoatl
+    ca: Quetzalcòatl
+    cs: Quetzalcoatl
+    da: Quetzalcoatl
+    de: Quetzalcoatl
+    el: Κετζαλκόατλ
+    en: Quetzalcoatl
+    en-ca: Quetzalcōātl
+    en-gb: Quetzalcōātl
+    eo: Kecalkoatlo
+    es: Quetzalcóatl
+    et: Quetzalcoatl
+    eu: Quetzalcoatl
+    fa: کوئتزالکواتل
+    fi: Sulkakäärme
+    fr: Quetzalcoatl
+    gl: Quetzalcóatl
+    he: קצלקואטל
+    hr: Quetzalcoatl
+    hu: Ketzalkóatl
+    hy: Կետցալկոաթլ
+    id: Quetzalcoatl
+    io: Quetzalcoatl
+    it: Quetzalcoatl
+    ja: ケツァルコアトル
+    ka: კეცალკოატლი
+    ko: 켓살코아틀
+    la: Quetzalcoatl
+    lt: Kecalkoatlis
+    mg: Quetzalcóatl
+    mk: Кецалкоатл
+    mn: Кецалькоатль
+    mni: ꯀ꯭ꯋꯦꯠꯖꯥꯜꯀꯣꯇꯜ
+    ms: Quetzalcoatl
+    nah: Quetzalcōātl
+    nap: Quetzalcoatl
+    nb: Quetzalcoatl
+    nl: Quetzalcoatl
+    oc: Quetzalcoatl
+    pl: Quetzalcoatl
+    pt: Quetzalcóatl
+    pt-br: Quetzalcóatl
+    ro: Quetzalcoatl
+    ru: Кетцалькоатль
+    scn: Quetzalcoatl
+    sco: Quetzalcoatl
+    sh: Quetzalcoatl
+    sl: Kecalkoatl
+    sr: Кецалкоатл
+    sr-ec: Кецалкоатл
+    sr-el: Kecalkoatl
+    sv: Quetzalcóatl
+    ta: கிட்சால்குவாடலி
+    th: เก็ตซัลโกอาตล์
+    tl: Quetzalcoatl
+    tt: Кетцалькоатль
+    uk: Кетцалькоатль
+    vi: Quetzalcoatl
+    war: Quetzalcoatl
+    wuu: 克察尔科亚特尔
+    yue: 魁札科亞托
+    zh: 魁札爾科亞特爾
+    zh-cn: 魁札尔科亚特尔
+    zh-hans: 魁札尔科亚特尔
+    zh-hant: 魁札爾科亞特爾
+    zh-hk: 魁札爾科亞特爾
+    zh-sg: 魁札尔科亚特尔
+    zh-tw: 魁札爾科亞特爾
 ---
-
 # [[Quetzalcoatl]] 
 
 #is_/same_as :: [[WD~Quetzalcoatl,179818]] 

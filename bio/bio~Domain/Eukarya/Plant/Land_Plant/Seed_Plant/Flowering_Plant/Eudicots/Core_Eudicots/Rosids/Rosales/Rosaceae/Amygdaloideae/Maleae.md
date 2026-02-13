@@ -1,23 +1,88 @@
 ---
 aliases:
+- Almakimilər
+- Maleae
+- Maleoj
+- Pyreae
+- јаболкови
+- алмагаччалар
+- Улмуççи йышшисем
+- яблоневые
+- Яблыневыя
+- ябълкови
+- تفاحاوية
+- تفاحاويه
+- リンゴ連
+- 苹果族
+- 蘋果族
+- 사과나무족
 has_id_wikidata: Q2119847
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Malus%20sikkimensis0.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lindleya%20mespiloides%20Kunth.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Malus%20sikkimensis0.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lindleya%20mespiloides%20Kunth.jpg
 Commons_category: Maleae
 taxon_name: Maleae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=2377
 UMLS_CUI: C2818722
+dv_has_:
+  name_:
+    an: Maleae
+    ar: تفاحاوية
+    arz: تفاحاويه
+    ast: Maleae
+    az: Almakimilər
+    be: Яблыневыя
+    bg: ябълкови
+    ca: Maleae
+    ceb: Maleae
+    cv: Улмуççи йышшисем
+    de: Maleae
+    en: Maleae
+    eo: Maleoj
+    es: Maleae
+    eu: Maleae
+    ext: Maleae
+    fi: Maleae
+    fr: Maleae
+    ga: Maleae
+    gl: Maleae
+    hr: Maleae
+    ia: Maleae
+    ie: Maleae
+    io: Maleae
+    it: Pyreae
+    ja: リンゴ連
+    ko: 사과나무족
+    la: Pyreae
+    mk: јаболкови
+    mul: Maleae
+    nl: Maleae
+    oc: Maleae
+    pl: Maleae
+    pt: Maleae
+    pt-br: Maleae
+    ro: Maleae
+    ru: яблоневые
+    sl: Maleae
+    sq: Maleae
+    tt: алмагаччалар
+    tt-cyrl: алмагаччалар
+    uk: Maleae
+    vi: Maleae
+    vo: Maleae
+    war: Maleae
+    zh: 苹果族
+    zh-cn: 苹果族
+    zh-tw: 蘋果族
 ---
-
 # [[Maleae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Maleae,2119847]] 

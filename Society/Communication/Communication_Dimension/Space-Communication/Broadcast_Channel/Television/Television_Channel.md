@@ -1,33 +1,183 @@
 ---
 aliases:
-  - television-channel
-  - television_channel
-  - TelevisionChannel
-  - is_a_television_channel
-  - Television_Channel
-  - Television Channel
+- bealach teilifíse
+- canal de televisió
+- canal de televisión
+- canal de televisão
+- canal de televiziune
+- canal televisiu
+- canale televisivo
+- canałe de tełevizion
+- canle de televisión
+- chaîne de télévision
+- Fernsehkanal
+- fjernsynskanal
+- hongere
+- is_a_television_channel
+- kanala televîzyonê
+- kanalê têlevizyoni
+- kanał telewizyjny
+- kênh truyền hình
+- saluran televisi
+- Saluran televisyen
+- sianel deledu
+- telebista-kanal
+- telefyzjekanaal
+- telekanal
+- televidkanalo
+- televisiekanaal
+- televisiokanava
+- Television Channel
+- television-channel
+- TelevisionChannel
+- television_channel
+- televisioonikanal
+- Televisiounssender (Organisatioun)
+- televizijos kanalas
+- televizijski kanal
+- televiziono-kanalo
+- televizní kanál
+- televizyon kanalı
+- televíziócsatorna
+- televízny kanál
+- televīzijas kanāls
+- telly channel
+- Trames televisionis
+- TV-kanaal
+- tv-kanal
+- TV-kanava
+- TV-kanála
+- τηλεοπτικό κανάλι
+- телевизијски канал
+- телевизионен канал
+- телеканал
+- Тэлевізійны канал
+- тэлеканал
+- шабакаи телевизионӣ
+- հեռուստաալիք
+- ערוץ טלוויזיה
+- قناة تلفزيونية
+- قناه تلفزيونيه
+- ٹیلی ویژن چینل
+- کانال تلویزیونی
+- टीवी चैनल
+- दूरदर्शन वाहिनी
+- টেলিভিশন চ্যানেল
+- ช่องโทรทัศน์
+- ស្ថានីយទូរទស្សន៍
+- チャンネル
+- 电视频道
+- 電視頻道
+- 텔레비전 채널
 has_id_wikidata: Q2001305
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - television_channel
+- television_channel
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_television_channel Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_television_channel Class
 type: Type
+dv_has_:
+  name_:
+    ar: قناة تلفزيونية
+    ary: قناة تلفزيونية
+    arz: قناه تلفزيونيه
+    ast: canal de televisión
+    az: telekanal
+    be: Тэлевізійны канал
+    be-tarask: тэлеканал
+    bg: телевизионен канал
+    bn: টেলিভিশন চ্যানেল
+    bs: televizijski kanal
+    ca: canal de televisió
+    cs: televizní kanál
+    cy: sianel deledu
+    da: tv-kanal
+    de: Fernsehkanal
+    diq: kanalê têlevizyoni
+    el: τηλεοπτικό κανάλι
+    en: television channel
+    eo: televidkanalo
+    es: canal de televisión
+    et: televisioonikanal
+    eu: telebista-kanal
+    fa: کانال تلویزیونی
+    fi: televisiokanava
+    fr: chaîne de télévision
+    fy: telefyzjekanaal
+    ga: bealach teilifíse
+    gl: canle de televisión
+    he: ערוץ טלוויזיה
+    hi: टीवी चैनल
+    hr: televizijski kanal
+    hu: televíziócsatorna
+    hy: հեռուստաալիք
+    id: saluran televisi
+    io: televiziono-kanalo
+    it: canale televisivo
+    ja: チャンネル
+    km: ស្ថានីយទូរទស្សន៍
+    ko: 텔레비전 채널
+    ku: kanala televîzyonê
+    ku-latn: kanala televîzyonê
+    la: Trames televisionis
+    lb: Televisiounssender (Organisatioun)
+    lt: televizijos kanalas
+    lv: televīzijas kanāls
+    mi: hongere
+    mr: दूरदर्शन वाहिनी
+    ms: Saluran televisyen
+    nb: TV-kanal
+    nl: televisiekanaal
+    nn: fjernsynskanal
+    oc: canal televisiu
+    pl: kanał telewizyjny
+    pt: canal de televisão
+    pt-br: canal de televisão
+    ro: canal de televiziune
+    ru: телеканал
+    sco: telly channel
+    se: TV-kanála
+    sk: televízny kanál
+    sl: televizijski kanal
+    smn: TV-kanava
+    sms: TV-kanaal
+    sr: телевизијски канал
+    sr-ec: телевизијски канал
+    sr-el: televizijski kanal
+    sv: TV-kanal
+    tg: шабакаи телевизионӣ
+    th: ช่องโทรทัศน์
+    tr: televizyon kanalı
+    tt: телеканал
+    tt-cyrl: телеканал
+    uk: телеканал
+    ur: ٹیلی ویژن چینل
+    uz: telekanal
+    vec: canałe de tełevizion
+    vi: kênh truyền hình
+    zh: 电视频道
+    zh-cn: 电视频道
+    zh-hans: 电视频道
+    zh-hant: 電視頻道
+    zh-hk: 電視頻道
+    zh-mo: 電視頻道
+    zh-my: 电视频道
+    zh-sg: 电视频道
+    zh-tw: 電視頻道
 ---
-
 # [[Television_Channel]] 
 
 Class of all television_channels.

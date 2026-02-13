@@ -1,18 +1,93 @@
 ---
 aliases:
-  - Salad
-  - Salat
+- "'nzalate"
+- Acetaria
+- amanida
+- apanyizo
+- cалата
+- Ensalada
+- Entsalada
+- insalata
+- isaladi
+- Kachumbari
+- mangamata
+- nzalata
+- salaat
+- salaatti
+- Salad
+- salada
+- salade
+- saladenn
+- Saladh
+- Salado
+- Salat
+- salata
+- salati
+- salato
+- salatrett
+- salată
+- sallad
+- sallatë
+- Salod
+- salotos
+- Saluotės
+- salát
+- saláta
+- salāti
+- sałatka
+- Selete
+- sjlaat
+- slaad
+- slaai
+- solata
+- Sâlatâ (mâcari)
+- xa lát
+- Yuyupa
+- Zalot
+- Šalát
+- σαλάτα
+- Авторитарлық
+- салат
+- салата
+- աղցան
+- סאלאט
+- סלט
+- زەلاتە
+- سالات
+- سالاد
+- سالد
+- سلاد
+- سلطة
+- سلطه
+- ܙܠܛܐ
+- सलाद
+- সালাদ
+- ਸਲਾਦ
+- ସାଲାଡ଼
+- சாலட்
+- సలాడు
+- ಸ್ಯಾಲಡ್
+- സാലഡ്
+- สลัด
+- ສະຫຼັດ
+- სალათი
+- ሰላጣ
+- សាលាដ
+- サラダ
+- 沙律
+- 沙拉
+- 샐러드
 has_id_wikidata: Q9266
 different_from: '[[_Standards/WikiData/WD~Lactuca_sativa,83193]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
-  - '[[_Standards/WikiData/WD~fruit,3314483]]'
-  - '[[_Standards/WikiData/WD~meat,10990]]'
-  - '[[_Standards/WikiData/WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217]]'
+- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~vegetable,11004]]'
 fabrication_method: '[[_Standards/WikiData/WD~mixing,379697]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of: '[[_Standards/WikiData/WD~dish,746549]]'
 country_of_origin: '[[_Standards/WikiData/WD~internationality,1072012]]'
 country: '[[_Standards/WikiData/WD~internationality,1072012]]'
@@ -22,9 +97,9 @@ instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
 model_item: '[[_Standards/WikiData/WD~warm_black_bean_salad_with_kale_and_tomatoes,59862818]]'
 made_from_material: '[[_Standards/WikiData/WD~vegetable,11004]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Salat2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B3%D9%84%D8%B7%D8%A9.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-salati.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Salat2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B3%D9%84%D8%B7%D8%A9.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ka-salati.ogg
 UNSPSC_Code: 50193201
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salad%20platter.jpg
 Commons_gallery: Salad
@@ -36,11 +111,143 @@ Common_Procurement_Vocabulary_code: 03221320-5
 UMLS_CUI: C0453740
 Wolfram_Language_entity_code: Entity["FoodType", "Salad"]
 MeSH_tree_code:
-  - G07.203.300.756
-  - J02.500.756
+- G07.203.300.756
+- J02.500.756
+dv_has_:
+  name_:
+    af: slaai
+    am: ሰላጣ
+    an: apanyizo
+    ar: سلطة
+    arc: ܙܠܛܐ
+    arz: سلطه
+    ast: ensalada
+    az: Salat
+    azb: سالاد
+    bar: Salod
+    be: cалата
+    be-tarask: салата
+    bg: салата
+    bho: सलाद
+    bm: salati
+    bn: সালাদ
+    br: saladenn
+    ca: amanida
+    ceb: Ensalada
+    ckb: زەلاتە
+    co: insalata
+    cs: salát
+    cy: salad
+    da: salat
+    de: Salat
+    el: σαλάτα
+    en: salad
+    en-ca: Salad
+    en-gb: salad
+    eo: salato
+    es: ensalada
+    et: salat
+    eu: Entsalada
+    fa: سالاد
+    fi: salaatti
+    fo: salat
+    fr: salade
+    fy: slaad
+    gl: ensalada
+    glk: سالاد
+    he: סלט
+    hi: सलाद
+    hr: Salata
+    ht: salad
+    hu: saláta
+    hy: աղցան
+    hyw: Աղցան
+    id: salad
+    io: Salado
+    is: salat
+    it: insalata
+    ja: サラダ
+    jv: Salad
+    ka: სალათი
+    kk: Авторитарлық
+    km: សាលាដ
+    kn: ಸ್ಯಾಲಡ್
+    ko: 샐러드
+    ku: Selete
+    ku-latn: selete
+    la: Acetaria
+    lad: ensalada
+    lb: Zalot
+    li: sjlaat
+    lo: ສະຫຼັດ
+    lt: salotos
+    lv: salāti
+    mi: mangamata
+    mk: салата
+    ml: സാലഡ്
+    mrj: Салат
+    ms: salad
+    ms-arab: سالد
+    mt: insalata
+    mzn: سالات
+    nb: salat
+    ne: सलाद
+    nl: salade
+    nn: salatrett
+    oc: salada
+    or: ସାଲାଡ଼
+    pa: ਸਲਾਦ
+    pap: salada
+    pcd: salade
+    pl: sałatka
+    pms: salada
+    pnb: سلاد
+    pt: salada
+    pt-br: Salada
+    qu: Yuyupa
+    ro: salată
+    roa-tara: "'nzalate"
+    ru: салат
+    rup: Sâlatâ (mâcari)
+    scn: nzalata
+    sd: سلاد
+    sgs: Saluotės
+    sh: Salata
+    sk: Šalát
+    sl: solata
+    so: Saladh
+    sq: sallatë
+    sr: салата
+    sr-ec: салата
+    sr-el: salata
+    sv: sallad
+    sw: Kachumbari
+    ta: சாலட்
+    te: సలాడు
+    th: สลัด
+    tl: Ensalada
+    tr: Salata
+    ug: سالات
+    uk: салат
+    ur: سلاد
+    uz: Salat
+    vi: xa lát
+    war: Salad
+    wo: salaat
+    wuu: 沙拉
+    yi: סאלאט
+    yue: 沙律
+    zh: 沙拉
+    zh-cn: 沙拉
+    zh-hans: 沙拉
+    zh-hant: 沙拉
+    zh-hk: 沙律
+    zh-mo: 沙律
+    zh-my: 沙拉
+    zh-sg: 沙拉
+    zh-tw: 沙拉
+    zu: isaladi
 ---
-
-
 # [[Salad]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Salad,9266|WD~Salad,9266]]

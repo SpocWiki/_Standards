@@ -1,21 +1,174 @@
 ---
 aliases:
-  - truce
-  - Ceasefire
+- Agirbest
+- alt au fuòc
+- alto el foc
+- alto el fuego
+- alto o fogo
+- Altu'l fueu
+- ateşkes
+- Atəşkəs
+- batalhalto
+- Cadoediad
+- Ceasefire
+- Cesar el fogo
+- cessar-fogo
+- cessate il fuoco
+- cessate u focu
+- Cessee 'l foeugh
+- cessez-le-feu
+- cissati lu focu
+- fegyverszünet
+- Gencatan pakarang
+- Gencatan senjata
+- Harz-tennañ
+- Indutiae
+- klid zbraní
+- Kusitisha mapigano
+- Ngừng bắn
+- Prekid neprijateljstava
+- Prekid vatre
+- premirje
+- Pushim zjarri (luftë)
+- Randekan gegaman
+- Relvarahu
+- siiz-faya
+- Sjitferbod
+- staakt-het-vuren
+- su-eten
+- truce
+- Tulitauko
+- tzessade-su-fogu
+- vapenvila
+- våbenhvile
+- våpenkvile
+- Waffenruhe
+- Woffnstuistand
+- wójnski wótpócynk
+- zawieszenie broni
+- Εκεχειρία
+- Гал зогсоох
+- прекид ватре
+- прекин на оган
+- прекращение огня
+- припинення вогню
+- спыненьне агню
+- Հրադադար
+- הפסקת אש
+- וואפן שטילשטאנד
+- آتشبس
+- آتشکس
+- ئاگربەست
+- اوربند
+- حبيس د لقرطاس
+- وقف إطلاق نار
+- अस्थायी युद्धविराम
+- युद्धविराम
+- ਜੰਗਬੰਦੀ
+- ಕದನ ವಿರಾಮ
+- การพักรบ
+- 停戦
+- 停火
+- 정전
 has_id_wikidata: Q208383
 different_from:
-  - '[[_Standards/WikiData/WD~armistice,107706]]'
-  - '[[_Standards/WikiData/WD~peace_treaty,625298]]'
-  - '[[_Standards/WikiData/WD~debellatio,971076]]'
+- '[[_Standards/WikiData/WD~armistice,107706]]'
+- '[[_Standards/WikiData/WD~peace_treaty,625298]]'
+- '[[_Standards/WikiData/WD~debellatio,971076]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~agreement,2006324]]'
-  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
-  - '[[_Standards/WikiData/WD~pause,17562059]]'
+- '[[_Standards/WikiData/WD~agreement,2006324]]'
+- '[[_Standards/WikiData/WD~historical_event,13418847]]'
+- '[[_Standards/WikiData/WD~pause,17562059]]'
 facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880]]'
 studied_by: '[[_Standards/WikiData/WD~war_termination,7968744]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+dv_has_:
+  name_:
+    ar: وقف إطلاق نار
+    ary: حبيس د لقرطاس
+    ast: Altu'l fueu
+    az: Atəşkəs
+    azb: آتشکس
+    bar: Woffnstuistand
+    be-tarask: спыненьне агню
+    bew: Randekan gegaman
+    br: Harz-tennañ
+    ca: alto el foc
+    ckb: ئاگربەست
+    co: cessate u focu
+    cs: klid zbraní
+    cy: Cadoediad
+    da: våbenhvile
+    de: Waffenruhe
+    de-ch: Waffenruhe
+    dsb: wójnski wótpócynk
+    el: Εκεχειρία
+    en: ceasefire
+    en-ca: ceasefire
+    en-gb: ceasefire
+    eo: batalhalto
+    es: alto el fuego
+    et: Relvarahu
+    eu: su-eten
+    fa: آتشبس
+    fi: Tulitauko
+    fr: cessez-le-feu
+    fy: Sjitferbod
+    gl: alto o fogo
+    he: הפסקת אש
+    hi: युद्धविराम
+    hr: Prekid vatre
+    hu: fegyverszünet
+    hy: Հրադադար
+    id: Gencatan senjata
+    it: cessate il fuoco
+    ja: 停戦
+    jam: siiz-faya
+    kn: ಕದನ ವಿರಾಮ
+    ko: 정전
+    ku: Agirbest
+    ku-arab: ئاگربەست
+    ku-latn: Agirbest
+    la: Indutiae
+    lmo: Cessee 'l foeugh
+    mk: прекин на оган
+    mn: Гал зогсоох
+    ms: Gencatan senjata
+    ne: अस्थायी युद्धविराम
+    nl: staakt-het-vuren
+    nn: våpenkvile
+    oc: alt au fuòc
+    pa: ਜੰਗਬੰਦੀ
+    pl: zawieszenie broni
+    ps: اوربند
+    pt: cessar-fogo
+    pt-br: Cessar-fogo
+    ru: прекращение огня
+    sc: tzessade-su-fogu
+    scn: cissati lu focu
+    sco: ceasefire
+    sh: Prekid neprijateljstava
+    sl: premirje
+    sq: Pushim zjarri (luftë)
+    sr: прекид ватре
+    su: Gencatan pakarang
+    sv: vapenvila
+    sw: Kusitisha mapigano
+    th: การพักรบ
+    tr: ateşkes
+    uk: припинення вогню
+    vec: Cesar el fogo
+    vi: Ngừng bắn
+    yi: וואפן שטילשטאנד
+    yue: 停火
+    zh: 停火
+    zh-cn: 停火
+    zh-hans: 停火
+    zh-hant: 停火
+    zh-hk: 停火
+    zh-sg: 停火
+    zh-tw: 停火
 ---
-
 # [[Ceasefire]] 
 
 

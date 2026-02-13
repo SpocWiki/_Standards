@@ -1,17 +1,130 @@
 ---
 aliases:
-  - infrared light
-  - Infrared Radiation
-  - Infrared
-  - Infrared_Radiation
+- Aduzwiɣ
+- Imitha ye-infrared
+- Infra abang
+- Infrabeureum
+- Infracrveno zračenje
+- Infragaduud
+- infragorri
+- Inframerah
+- infrapunakiirgus
+- infrapunasäteily
+- Infraqizil nurlanish
+- infraqızıl şavle saçuvı
+- infraraud stråling
+- infraraudonieji spinduliai
+- Infrarauduonė̄jė spėndolē
+- infrardeče sevanje
+- Infrared
+- infrared light
+- Infrared Radiation
+- Infraredi
+- Infrared_Radiation
+- infrareid
+- Infraroead
+- Infraroge
+- infraroig
+- infrarood
+- Infraroodstralen
+- Infrarooi
+- Infraross
+- Infrarotstrahlung
+- infrarouge
+- Infraroutstralung
+- infraroșu
+- Infrarroyo
+- Infraruad
+- Infrarubie
+- infraruopsissuonjârdem
+- Infrarusked sädegoičend
+- infraruĝa radiado
+- infraröd strålning
+- Infrarød stråling
+- Infrasarkanais starojums
+- infravörös sugárzás
+- infračervené záření
+- infračervené žiarenie
+- Infrereda
+- Innrautt ljós
+- Insibomvu
+- is-goch
+- Kızılötesi
+- Onn enfrawouj
+- podczerwień
+- radaíocht infridhearg
+- radiación infrarroja
+- radiación infrarroxo
+- Radiación infravermella
+- Radiasi infrabarak
+- Radiatio infrarubra
+- Radiatzione infraruja
+- radiazione infrarossa
+- radiação infravermelha
+- Rrezet infra të kuqe
+- sinar inframerah
+- suno pi weka loje
+- tia hồng ngoại
+- Ynfraread
+- Âng-goā-soàⁿ
+- İnfraqırmızı şüalanma
+- υπέρυθρη ακτινοβολία
+- Інфрачервене жарїня
+- інфрачервоне випромінювання
+- інфрачырвонае выпраменьванне
+- інфрачырвонае выпраменьваньне
+- Инфра-кыһыл сардаҥа
+- инфрагорд тылси вӧлдон
+- инфракрасное излучение
+- Инфракызыл нур
+- инфракызыл нурланыш
+- Инфракызыл херелдениишкин
+- инфрацрвена светлост
+- инфрацрвено зрачење
+- Инфрачервено излъчване
+- Инфрақызыл сәуле
+- Инфраҡыҙыл нурланыш
+- Уландорнь толярлһн
+- Хэт улаан туяа
+- ինֆրակարմիր ճառագայթներ
+- אינפרארויט
+- תת-אדום
+- ئىنفرا قىزىل نۇر
+- الأشعة تحت الحمراء
+- انفرا ريڊ
+- انفراريد
+- تھلویں لال
+- زیرسرخ
+- فروسرخ
+- قیزیل آلتی ایشیقی
+- ژێرسوور
+- अवरक्त
+- अवरक्त किरण
+- इन्फ्रारेड
+- অবলোহিত বিকিরণ
+- অৱলোহিত ৰশ্মি
+- ਅਧੋਰਕਤ ਵਿਕਿਰਣ
+- அகச்சிவப்புக் கதிர்
+- పరారుణ వికిరణాలు
+- ಇನ್ ಫ್ರಾ ರೆಡ್
+- ഇൻഫ്രാറെഡ് തരംഗം
+- අධෝරක්ත
+- รังสีอินฟราเรด
+- အနီအောက်ရောင်ခြည် ဖြာထွက်ခြင်း
+- ინფრაწითელი გამოსხივება
+- ინფრაჭითა გოსინთაფა
+- 紅外光
+- 红外线
+- 赤外線
+- 적외선
 has_id_wikidata: Q11388
 follows: '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
 part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
 instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 facet_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
-  - '[[_Standards/WikiData/WD~radiation,18335]]'
+- '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+- '[[_Standards/WikiData/WD~radiation,18335]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'
 followed_by: '[[_Standards/WikiData/WD~radio_wave,4262]]'
@@ -21,21 +134,149 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_21001214
 Stack_Exchange_tag:
-  - https://electronics.stackexchange.com/tags/infrared
-  - https://physics.stackexchange.com/tags/infrared-radiation
+- https://electronics.stackexchange.com/tags/infrared
+- https://physics.stackexchange.com/tags/infrared-radiation
 IEV_number: 845-21-004
 UMLS_CUI: C0021431
 MeSH_tree_code:
-  - G01.358.500.505.650.552
-  - G01.590.540.552
-  - G01.750.250.650.552
-  - G01.750.770.578.552
-  - G16.500.275.063.725.525.400
-  - G16.500.750.775.525.400
-  - N06.230.300.100.725.525.400
+- G01.358.500.505.650.552
+- G01.590.540.552
+- G01.750.250.650.552
+- G01.750.770.578.552
+- G16.500.275.063.725.525.400
+- G16.500.750.775.525.400
+- N06.230.300.100.725.525.400
 Commons_category: Infrared
+dv_has_:
+  name_:
+    af: Infrarooi
+    an: Infrarroyo
+    ar: الأشعة تحت الحمراء
+    arz: انفراريد
+    as: অৱলোহিত ৰশ্মি
+    ast: radiación infrarroxo
+    az: İnfraqırmızı şüalanma
+    azb: قیزیل آلتی ایشیقی
+    ba: Инфраҡыҙыл нурланыш
+    ban: Radiasi infrabarak
+    be: інфрачырвонае выпраменьванне
+    be-tarask: інфрачырвонае выпраменьваньне
+    bg: Инфрачервено излъчване
+    bn: অবলোহিত বিকিরণ
+    bs: Infracrveno zračenje
+    ca: infraroig
+    ckb: ژێرسوور
+    crh: infraqızıl şavle saçuvı
+    cs: infračervené záření
+    cy: is-goch
+    da: Infrarød stråling
+    de: Infrarotstrahlung
+    el: υπέρυθρη ακτινοβολία
+    en: infrared radiation
+    eo: infraruĝa radiado
+    es: radiación infrarroja
+    et: infrapunakiirgus
+    eu: infragorri
+    fa: فروسرخ
+    fi: infrapunasäteily
+    fr: infrarouge
+    frr: Infraruad
+    fy: Ynfraread
+    ga: radaíocht infridhearg
+    gl: Radiación infravermella
+    gsw: Infrarotstrahlung
+    he: תת-אדום
+    hi: अवरक्त
+    hif: Infrared
+    hr: Infracrveno zračenje
+    ht: Onn enfrawouj
+    hu: infravörös sugárzás
+    hy: ինֆրակարմիր ճառագայթներ
+    ia: Infrarubie
+    id: Inframerah
+    ie: Infrarubie
+    ig: Infrared radiation
+    io: Infrereda
+    is: Innrautt ljós
+    it: radiazione infrarossa
+    ja: 赤外線
+    jv: Infra abang
+    ka: ინფრაწითელი გამოსხივება
+    kk: Инфрақызыл сәуле
+    kn: ಇನ್ ಫ್ರಾ ರೆಡ್
+    ko: 적외선
+    ky: Инфракызыл нур
+    la: Radiatio infrarubra
+    lb: Infraroutstralung
+    li: Infraroead
+    lmo: Infraross
+    lt: infraraudonieji spinduliai
+    lv: Infrasarkanais starojums
+    lzh: 紅外光
+    mk: инфрацрвено зрачење
+    ml: ഇൻഫ്രാറെഡ് തരംഗം
+    mn: Хэт улаан туяа
+    mr: अवरक्त किरण
+    ms: sinar inframerah
+    my: အနီအောက်ရောင်ခြည် ဖြာထွက်ခြင်း
+    nan: Âng-goā-soàⁿ
+    nb: infrarød stråling
+    nds: Infraroodstralen
+    new: इन्फ्रारेड
+    nl: infrarood
+    nn: infraraud stråling
+    oc: Infraroge
+    pa: ਅਧੋਰਕਤ ਵਿਕਿਰਣ
+    pl: podczerwień
+    pms: Infraross
+    pnb: تھلویں لال
+    pt: radiação infravermelha
+    ro: infraroșu
+    ru: инфракрасное излучение
+    rue: Інфрачервене жарїня
+    sah: Инфра-кыһыл сардаҥа
+    sc: Radiatzione infraruja
+    sco: infrareid
+    sd: انفرا ريڊ
+    sgs: Infrarauduonė̄jė spėndolē
+    sh: Infracrveno zračenje
+    shi: Aduzwiɣ
+    si: අධෝරක්ත
+    sk: infračervené žiarenie
+    sl: infrardeče sevanje
+    smn: infraruopsissuonjârdem
+    so: Infragaduud
+    sq: Rrezet infra të kuqe
+    sr: инфрацрвена светлост
+    su: Infrabeureum
+    sv: infraröd strålning
+    sw: Infraredi
+    ta: அகச்சிவப்புக் கதிர்
+    te: పరారుణ వికిరణాలు
+    th: รังสีอินฟราเรด
+    tl: infrared
+    tok: suno pi weka loje
+    tr: Kızılötesi
+    tt: инфракызыл нурланыш
+    tt-cyrl: инфракызыл нурланыш
+    tyv: Инфракызыл херелдениишкин
+    udm: инфрагорд тылси вӧлдон
+    ug: ئىنفرا قىزىل نۇر
+    uk: інфрачервоне випромінювання
+    ur: زیرسرخ
+    uz: Infraqizil nurlanish
+    vep: Infrarusked sädegoičend
+    vi: tia hồng ngoại
+    war: Infrared
+    wuu: 红外线
+    xal: Уландорнь толярлһн
+    xh: Imitha ye-infrared
+    xmf: ინფრაჭითა გოსინთაფა
+    yi: אינפרארויט
+    yue: 紅外光
+    zh: 红外线
+    zu: Insibomvu
 ---
-
 # [[Infrared_Radiation]] 
 
 #is_/same_as :: [[WikiData/WD~Infrared_radiation,11388|WD~Infrared_radiation,11388]] 

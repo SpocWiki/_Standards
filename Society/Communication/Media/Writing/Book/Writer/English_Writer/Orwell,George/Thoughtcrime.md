@@ -1,8 +1,57 @@
 ---
 has_id_wikidata: Q1266971
+dv_has_:
+  name_:
+    da: Tankeforbrydelse
+    de: Gedankenverbrechen
+    en: thoughtcrime
+    eo: penskrimo
+    es: crimen de pensamiento
+    fa: بزه فکری
+    fi: ajatusrikos
+    fr: crime de pensée
+    hr: zlomisao
+    hu: gondolatbűn
+    is: Hugsanaglæpur
+    it: Psicoreato
+    ka: ფიქრდანაშაული
+    mk: зломисла
+    pl: myślozbrodnia
+    pt: Crime de pensamento
+    ru: Мыслепреступление
+    sh: Zlomisao
+    sl: miselno kaznivo dejanje
+    tr: düşünce suçu
+    uk: Думкозлочин
+    ur: جرم سوچ
+    zh: 犯罪思想
+    zh-hans: 犯罪思想
+    zh-hant: 犯罪思想
+    zh-hk: 犯罪思想
+aliases:
+- ajatusrikos
+- Crime de pensamento
+- crime de pensée
+- crimen de pensamiento
+- düşünce suçu
+- Gedankenverbrechen
+- gondolatbűn
+- Hugsanaglæpur
+- miselno kaznivo dejanje
+- myślozbrodnia
+- penskrimo
+- Psicoreato
+- Tankeforbrydelse
+- thoughtcrime
+- zlomisao
+- Думкозлочин
+- зломисла
+- Мыслепреступление
+- بزه فکری
+- جرم سوچ
+- ფიქრდანაშაული
+- 犯罪思想
 ---
-
-
 > In the dystopian novel Nineteen Eighty-Four, **thoughtcrime** 
 > is the offense of thinking in ways not approved by the ruling Ingsoc party. 
 > 

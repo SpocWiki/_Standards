@@ -1,58 +1,246 @@
 ---
 aliases:
-  - Down syndrome
-  - Down's syndrome
-  - trisomy 21
-  - Down Syndrom
-  - Trisomie 21
-  - Down_Syndrome
-  - Down Syndrome
+- Aisan Down
+- Daun kasalligi
+- Daun sindromu
+- Dauna sindroms
+- Dauno sindromas
+- Down sendromu
+- Down Syndrom
+- Down syndroma
+- Down syndrome
+- Down's syndrome
+- Down-sindromo
+- Down-Syndrom
+- Down-syndroom
+- Down-szindróma
+- Downen sindrome
+- Downi sündroom
+- Downin oireyhtymä
+- Downov sindrom
+- Downov syndróm
+- Downs syndrom
+- Downs-heilkenni
+- Down_Syndrome
+- Downův syndrom
+- Hội chứng Down
+- Sendroma Down
+- Sendromê Down
+- Sindrom Down
+- Sindrom nga Down
+- Sindroma Down
+- sindrome de Down
+- sindrome di Down
+- Siondróm Down
+- Syndrom Down
+- syndroma Down
+- syndrome de Down
+- Syndrome e downs syndrome
+- syndroom van Down
+- sìndrome de Down
+- síndrome de Down
+- Toruol Sindrom Down
+- Trisomie 21
+- trisomy 21
+- Zespół Downa
+- Σύνδρομο Down
+- Даун авыруы
+- Даун ауруы
+- Даун синдрому
+- Даунов синдром
+- Дауны синдром
+- Сіндро Даўна
+- синдром Дауна
+- Синдром на Даун
+- сындром Даўна
+- Դաունի համախտանիշ
+- תסמונת דאון
+- داون سندرومو
+- متلازمة داون
+- نشانگان داون
+- ڈاؤن سنڈروم
+- کۆنیشانی داون
+- ޑައުން ސިންޑްރޯމް
+- डाउन सिंड्रोम
+- डाउन सिन्ड्रम
+- डाउन सिन्ड्रोम
+- ডাউন চিন্দ্ৰম
+- ডাউন সিনড্রোম
+- ਡਾਊਨ ਸਿੰਡਰੋਮ
+- ડાઉન સિન્ડ્રોમ
+- ଡାଉନ ସିଣ୍ଡ୍ରୋମ
+- டெளன் நோய்க்கூட்டறிகுறி
+- డౌన్ సిండ్రోమ్
+- ಡೌನ್ ಸಿಂಡ್ರೋಮ್
+- ഡൗൺ സിൻഡ്രോം
+- ඩවුන්ස් සහලක්ෂණය
+- กลุ่มอาการดาวน์
+- ဒေါင်းဆင်ဒရုန်း
+- დაუნის სინდრომი
+- ዳውን ሲንድሮም
+- ដោនសុីនដ្រូម
+- ダウン症候群
+- 唐氏症候群
+- 唐氏綜合症
+- 唐氏综合征
+- 唐氏综合症
+- 다운 증후군
 has_id_wikidata: Q47715
 health_specialty:
-  - '[[_Standards/WikiData/WD~neurology,83042]]'
-  - '[[_Standards/WikiData/WD~medical_genetics,1071953]]'
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~medical_genetics,1071953]]'
 named_after: '[[_Standards/WikiData/WD~John_Langdon_Down,315940]]'
 genetic_association: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
 chromosome: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
 has_cause: '[[_Standards/WikiData/WD~trisomy,844903]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~trisomy,844903]]'
-  - '[[_Standards/WikiData/WD~chromosomal_disease,4501577]]'
-  - '[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~trisomy,844903]]'
+- '[[_Standards/WikiData/WD~chromosomal_disease,4501577]]'
+- '[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mongolian_idiocy,21469259]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-  - '[[_Standards/WikiData/WD~disability,12131]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~disability,12131]]'
 prevalence: 0.001
 chromosome_count: 47
 DiseasesDB: 3898
 ICD_10_CM:
-  - Q90
-  - Q90.9
+- Q90
+- Q90.9
 OmegaWiki_Defined_Meaning: 742641
 ICD_9_CM: 758.0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20with%20Down%20Syndrome.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%A1%E0%AC%BE%E0%AC%89%E0%AC%A8%20%E0%AC%B8%E0%AC%BF%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%AE.wav
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/down_syndrome
 exact_match:
-  - http://identifiers.org/doid/DOID:14250
-  - http://purl.obolibrary.org/obo/DOID_14250
+- http://identifiers.org/doid/DOID:14250
+- http://purl.obolibrary.org/obo/DOID_14250
 Dewey_Decimal_Classification:
-  - 616.858842
-  - 618.92858842
+- 616.858842
+- 618.92858842
 UMLS_CUI: C0013080
 MeSH_tree_code:
-  - C10.597.606.360.220
-  - C16.131.077.327
-  - C16.131.260.260
-  - C16.320.180.260
+- C10.597.606.360.220
+- C16.131.077.327
+- C16.131.260.260
+- C16.320.180.260
 Commons_category: Down syndrome
 subreddit: downsyndrome
 Krugosvet_article: medicina/DAUNA_SINDROM.html
+dv_has_:
+  name_:
+    am: ዳውን ሲንድሮም
+    an: sindrome de Down
+    ar: متلازمة داون
+    as: ডাউন চিন্দ্ৰম
+    ast: Síndrome de Down
+    az: Daun sindromu
+    azb: داون سندرومو
+    be: Сіндро Даўна
+    be-tarask: сындром Даўна
+    bg: Синдром на Даун
+    bn: ডাউন সিনড্রোম
+    bs: Downov sindrom
+    ca: síndrome de Down
+    ckb: کۆنیشانی داون
+    cs: Downův syndrom
+    cy: Syndrom Down
+    da: Downs syndrom
+    de: Down-Syndrom
+    de-ch: Down-Syndrom
+    diq: Sendromê Down
+    dtp: Toruol Sindrom Down
+    dv: ޑައުން ސިންޑްރޯމް
+    el: Σύνδρομο Down
+    en: Down syndrome
+    en-ca: Down syndrome
+    en-gb: Down syndrome
+    eo: Down-sindromo
+    es: síndrome de Down
+    et: Downi sündroom
+    eu: Downen sindrome
+    fa: نشانگان داون
+    ff: Syndrome e downs syndrome
+    fi: Downin oireyhtymä
+    fr: syndrome de Down
+    ga: Siondróm Down
+    gl: Síndrome de Down
+    gpe: Down syndrome
+    gsw: Down-Syndrom
+    gu: ડાઉન સિન્ડ્રોમ
+    he: תסמונת דאון
+    hi: डाउन सिंड्रोम
+    hr: Downov sindrom
+    hu: Down-szindróma
+    hy: Դաունի համախտանիշ
+    ia: Syndrome de Down
+    id: Sindrom Down
+    is: Downs-heilkenni
+    it: sindrome di Down
+    ja: ダウン症候群
+    jv: Sindrom Down
+    ka: დაუნის სინდრომი
+    kk: Даун ауруы
+    km: ដោនសុីនដ្រូម
+    kn: ಡೌನ್ ಸಿಂಡ್ರೋಮ್
+    ko: 다운 증후군
+    ku: Sendroma Down
+    ku-latn: sendroma Down
+    ky: Даун синдрому
+    la: syndroma Down
+    lt: Dauno sindromas
+    lv: Dauna sindroms
+    mk: Даунов синдром
+    ml: ഡൗൺ സിൻഡ്രോം
+    mn: Дауны синдром
+    ms: Sindrom Down
+    my: ဒေါင်းဆင်ဒရုန်း
+    nb: Downs syndrom
+    ne: डाउन सिन्ड्रोम
+    new: डाउन सिन्ड्रम
+    nl: syndroom van Down
+    nn: Downs syndrom
+    or: ଡାଉନ ସିଣ୍ଡ୍ରୋମ
+    pa: ਡਾਊਨ ਸਿੰਡਰੋਮ
+    pl: Zespół Downa
+    pt: síndrome de Down
+    pt-br: Síndrome de Down
+    ro: Sindrom Down
+    ru: синдром Дауна
+    sco: Down's syndrome
+    se: Down syndroma
+    sh: Downov sindrom
+    si: ඩවුන්ස් සහලක්ෂණය
+    sk: Downov syndróm
+    sl: Downov sindrom
+    smn: Down-syndrom
+    sms: Down-syndroom
+    sq: Sindroma Down
+    sr: Даунов синдром
+    sv: Downs syndrom
+    ta: டெளன் நோய்க்கூட்டறிகுறி
+    te: డౌన్ సిండ్రోమ్
+    th: กลุ่มอาการดาวน์
+    tl: Down syndrome
+    tr: Down sendromu
+    tt: Даун авыруы
+    uk: Синдром Дауна
+    ur: ڈاؤن سنڈروم
+    uz: Daun kasalligi
+    vec: sìndrome de Down
+    vi: Hội chứng Down
+    war: Sindrom nga Down
+    wuu: 唐氏综合征
+    yo: Aisan Down
+    yue: 唐氏綜合症
+    zh: 唐氏综合症
+    zh-cn: 唐氏综合征
+    zh-hans: 唐氏综合征
+    zh-hant: 唐氏症候群
+    zh-tw: 唐氏症候群
 ---
-
 # [[Down_Syndrome]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Down_syndrome,47715|WD~Down_syndrome,47715]] 

@@ -1,34 +1,164 @@
 ---
 aliases:
-  - Leihmutterschaft
-  - Surrogacy
+- béranyaság
+- draagmoederschap
+- Ducaniya cîgir
+- gestació per substitució
+- gestation pour autrui
+- gestazion per alter
+- gestazione per altri
+- Graviditas surrogata
+- Haurduntza subrogatu
+- Ibu tumpang
+- Leihmutterschaft
+- lupatrino
+- mamă surogat
+- Mang thai hộ
+- maternidad subrograda
+- maternidade de substituição
+- matka zastępcza
+- máthairionadaíocht
+- nadomestno materinstvo
+- náhradné materstvo
+- náhradní mateřství
+- Nëna surrogate
+- rugemorskab
+- sadjásašriegádahttin
+- sijaissynnytys
+- Surogasi
+- Surogat majčinstvo
+- surogatinė motinystė
+- surogatno majčinstvo
+- surogātisms
+- surrogaatemadus
+- surrogaatmoederskap
+- Surrogacy
+- surrogati
+- surrogatmödraskap
+- Surroqat analıq
+- Taşıyıcı annelik
+- xestación por substitución
+- Παρένθετη μητρότητα
+- Модари ҷойгузин
+- сурагатнае мацярынства
+- сурогатне материнство
+- сурогатно мајчинство
+- Сурогатно майчинство
+- суррогатное материнство
+- Սուրոգատ մայրություն
+- פונדקאות
+- تأجير الرحم
+- رحم اجارهای
+- सरोगेसी
+- स्थानापन्न मात्रत्व
+- ছাৰোগেছি
+- সারোগেসি
+- ਸਰੋਗੇਸੀ
+- பதிலித்தாய்
+- സറഗസി
+- การตั้งครรภ์แทน
+- 代孕
+- 代理母出産
+- 대리모출산
 has_id_wikidata: Q334645
 has_effect:
-  - "[[_Standards/WikiData/WD~human_trafficking,181784]]"
-  - "[[_Standards/WikiData/WD~psychological_trauma,654426]]"
-  - "[[_Standards/WikiData/WD~maternal_death,1339474]]"
-  - "[[_Standards/WikiData/WD~orphanhood,12152973]]"
-  - "[[_Standards/WikiData/WD~child_mortality,61559]]"
+- '[[_Standards/WikiData/WD~human_trafficking,181784]]'
+- '[[_Standards/WikiData/WD~psychological_trauma,654426]]'
+- '[[_Standards/WikiData/WD~maternal_death,1339474]]'
+- '[[_Standards/WikiData/WD~orphanhood,12152973]]'
+- '[[_Standards/WikiData/WD~child_mortality,61559]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~human_trafficking,181784]]"
-  - "[[_Standards/WikiData/WD~trafficking_of_children,1741825]]"
-  - "[[_Standards/WikiData/WD~violence_against_women,1800556]]"
-  - "[[_Standards/WikiData/WD~unavailability_of_the_human_body,4936611]]"
-  - "[[_Standards/WikiData/WD~women's_health,8031191]]"
-  - "[[_Standards/WikiData/WD~availability_of_the_human_body,110360786]]"
-subclass_of: "[[_Standards/WikiData/WD~third_party_reproduction,7784739]]"
+- '[[_Standards/WikiData/WD~human_trafficking,181784]]'
+- '[[_Standards/WikiData/WD~trafficking_of_children,1741825]]'
+- '[[_Standards/WikiData/WD~violence_against_women,1800556]]'
+- '[[_Standards/WikiData/WD~unavailability_of_the_human_body,4936611]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~availability_of_the_human_body,110360786]]'
+subclass_of: '[[_Standards/WikiData/WD~third_party_reproduction,7784739]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~surrogate_mother,16547118]]"
-  - "[[_Standards/WikiData/WD~assisted_reproductive_technology,25862]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-OmegaWiki_Defined_Meaning: "1237302"
+- '[[_Standards/WikiData/WD~surrogate_mother,16547118]]'
+- '[[_Standards/WikiData/WD~assisted_reproductive_technology,25862]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+OmegaWiki_Defined_Meaning: 1237302
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surrogate%20parents%20attending%20birth.jpg
 Commons_category: Surrogacy
 PhilPapers_topic: surrogate-motherhood
-Dewey_Decimal_Classification: "306.8743"
+Dewey_Decimal_Classification: 306.8743
+dv_has_:
+  name_:
+    af: surrogaatmoederskap
+    ar: تأجير الرحم
+    as: ছাৰোগেছি
+    az: Surroqat analıq
+    be-tarask: сурагатнае мацярынства
+    bg: Сурогатно майчинство
+    bn: সারোগেসি
+    ca: gestació per substitució
+    cs: náhradní mateřství
+    da: rugemorskab
+    de: Leihmutterschaft
+    el: Παρένθετη μητρότητα
+    en: surrogacy
+    en-ca: surrogacy
+    en-gb: surrogacy
+    eo: lupatrino
+    es: maternidad subrograda
+    et: surrogaatemadus
+    eu: Haurduntza subrogatu
+    fa: رحم اجارهای
+    fi: sijaissynnytys
+    fr: gestation pour autrui
+    ga: máthairionadaíocht
+    gl: xestación por substitución
+    he: פונדקאות
+    hi: स्थानापन्न मात्रत्व
+    hr: surogatno majčinstvo
+    hu: béranyaság
+    hy: Սուրոգատ մայրություն
+    id: Surogasi
+    it: gestazione per altri
+    ja: 代理母出産
+    ko: 대리모출산
+    ku: Ducaniya cîgir
+    la: Graviditas surrogata
+    lmo: gestazion per alter
+    lt: surogatinė motinystė
+    lv: surogātisms
+    mk: сурогатно мајчинство
+    ml: സറഗസി
+    ms: Ibu tumpang
+    nb: surrogati
+    ne: सरोगेसी
+    nl: draagmoederschap
+    pa: ਸਰੋਗੇਸੀ
+    pl: matka zastępcza
+    pt: maternidade de substituição
+    pt-br: Maternidade de substituição
+    ro: mamă surogat
+    ru: суррогатное материнство
+    se: sadjásašriegádahttin
+    sk: náhradné materstvo
+    sl: nadomestno materinstvo
+    sq: Nëna surrogate
+    sr: Surogat majčinstvo
+    sv: surrogatmödraskap
+    ta: பதிலித்தாய்
+    te: surrogacy
+    tg: Модари ҷойгузин
+    th: การตั้งครรภ์แทน
+    tr: Taşıyıcı annelik
+    uk: сурогатне материнство
+    vi: Mang thai hộ
+    yue: 代孕
+    zh: 代孕
+    zh-cn: 代孕
+    zh-hans: 代孕
+    zh-hant: 代孕
+    zh-hk: 代孕
+    zh-sg: 代孕
+    zh-tw: 代孕
 ---
-
 # [[Surrogacy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Surrogacy,334645|WD~Surrogacy,334645]]  

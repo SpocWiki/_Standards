@@ -1,50 +1,396 @@
 ---
 aliases:
+- alkotmány
+- anayasa
+- batakan-balaud
+- batay-linteg
+- bonreizh
+- botnosko laaga
+- bun-reachd
+- bunreacht
+- constitucion
+- constitució
+- constitución
+- constituição
+- constitutio
+- constitution
+- constituție
+- costitusion
+- costitussion
+- costituzion
+- costituzione
+- custituiçon
+- custituzzioni
+- cyfansoddiad
+- destuur
+- destûra bingehîn
+- esas qanun
+- fapguek
+- forfatning
+- groendwet
+- grondwet
+- grundlag
+- grunnlov
+- gróndwet
+- grûnwet
+- hatun kamachi
+- hiàn-hoat
+- hiēng-huák
+- hiến pháp
+- kanstityuushan
+- katiba
+- konstitisyon
+- konstitucii
+- konstitucija
+- konstitucio
+- konstituciya
+- konstitucjô
+- konstituco
+- konstituisaun
+- konstitushon
+- konstitusi
+- konstitusijə
+- konstitusiya
+- konstitutsiya
+- konstituzio
+- konstitūcija
+- konstytucja
+- korf lagha
+- kostituzzjoni
+- kpa cam a̱byin
+- kundin tsarin mulki
+- kuonstėtocėjė
+- kushtetuta
+- lalampanorenana
+- léi guasu
+- maadthlaake
+- malamulo olamulira dziko
+- mmra
+- mobéko likonzi
+- mwaisse lwè
+- perlembagaan
+- perustuslaki
+- põhiseadus
+- sakamoecel a likec
+- saligang batas
+- stjórnarskrá
+- sɛndodó
+- umthetho sisekelo
+- undang limbago
+- ustav
+- ustava
+- Verfassig
+- Verfassung
+- Verfaten
+- vidhaan
+- vuodoláhka
+- vuođđoláhka
+- vuáđulaahâ
+- vuâđđlääʹǩǩ
+- womthethosisekelo
+- wustawa
+- wèt dasar
+- wɛ̈tmääc
+- zalikpana
+- ústava
+- ɛjaɖɛ paɣtʊ takayaɣ
+- σύνταγμα
+- канстытуцыя
+- конституція
+- конституци
+- конституция
+- конституциясь
+- конштітуція
+- кункат
+- оланподув
+- тӱҥ закон
+- ундсэн хууль
+- устав
+- қонуни асосии давлат
+- үндэһэн хуули
+- սահմանադրութիւն
+- սահմանադրություն
+- חוקה
+- קאנסטיטוציע
+- آئين
+- آئین
+- آنایاسا
+- اساسي قانون
+- دستور
+- دەستوور
+- قانون اساسی
+- ٲییٖن
+- ڤرلمباݢاءن
+- ގާނޫނު އަސާސީ
+- ߛߌ߰ߞߊ߲
+- संबिधान
+- संविधान
+- সংবিধান
+- ਸੰਵਿਧਾਨ
+- அரசமைப்புச் சட்டம்
+- రాజ్యాంగం
+- ಸಂವಿಧಾನ
+- ഭരണഘടന
+- ආණ්ඩුක්රම ව්යවස්ථාව
+- รัฐธรรมนูญ
+- ລັດຖະທຳມະນູນ
+- ဖွဲ့စည်းအုပ်ချုပ်ပုံအခြေခံဥပဒေ
+- လၵ်းမိူင်း
+- კონსტიტუცია
+- ሕገ መንግሥት
+- ᎦᎫᏍᏛᏗ
+- ᱥᱚᱢᱵᱤᱫᱷᱟᱱ
+- ⴰⴷⵓⵙⵜⵓⵔ
+- コンスティチューション
+- 宪法
+- 憲法
+- ꯑꯁꯨꯞꯄ ꯆꯠꯅ-ꯀꯥꯡꯂꯣꯟ
+- 헌법
 has_id_wikidata: Q7755
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Verfassung2.ogg
 Dewey_Decimal_Classification:
-  - "342.02"
-  - "342.023"
+- 342.02
+- 342.023
 different_from:
-  - "[[_Standards/WikiData/WD~Konstitution,256836]]"
-  - "[[_Standards/WikiData/WD~Q11743044,11743044]]"
+- '[[_Standards/WikiData/WD~Konstitution,256836]]'
+- '[[_Standards/WikiData/WD~Q11743044,11743044]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~constitutional_document,680655]]"
-  - "[[_Standards/WikiData/WD~statute,820655]]"
-  - "[[_Standards/WikiData/WD~sources_of_law,846882]]"
-  - "[[_Standards/WikiData/WD~structure,6671777]]"
-  - "[[_Standards/WikiData/WD~authorizing_legislation,106706188]]"
-studied_by: "[[_Standards/WikiData/WD~constitutional_history,2515460]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~article_of_constitution,19917774]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_law,63718619]]"
+- '[[_Standards/WikiData/WD~constitutional_document,680655]]'
+- '[[_Standards/WikiData/WD~statute,820655]]'
+- '[[_Standards/WikiData/WD~sources_of_law,846882]]'
+- '[[_Standards/WikiData/WD~structure,6671777]]'
+- '[[_Standards/WikiData/WD~authorizing_legislation,106706188]]'
+studied_by: '[[_Standards/WikiData/WD~constitutional_history,2515460]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~article_of_constitution,19917774]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_law,63718619]]'
 properties_for_this_type:
-  - inception
-  - country
+- inception
+- country
 main_Wikidata_property: main regulatory text
-Nomenclature_for_Museum_Cataloging: "13271"
-U_S_National_Archives_Identifier: "10639950"
-OmegaWiki_Defined_Meaning: "379531"
+Nomenclature_for_Museum_Cataloging: 13271
+U_S_National_Archives_Identifier: 10639950
+OmegaWiki_Defined_Meaning: 379531
 Library_of_Congress_Classification: K3154-K3370
 IMDb_keyword: constitution
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Konstytucja%203%20Maja.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Constitution%201836.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Carta%20Constitucional%20e%20a%20fam%C3%ADlia%20real.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kanun-i%20Esasi.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Konstytucja%203%20Maja.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Progla%C5%A1enje%20Vidovdanskog%20ustava%201921.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Constitution%201836.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/A%20Carta%20Constitucional%20e%20a%20fam%C3%ADlia%20real.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Kanun-i%20Esasi.jpg
 Commons_category: Constitutions
 Krugosvet_article_archived_:
-  - ekonomika-i-pravo/konstitutsiya
-  - ekonomika-i-pravo/konstitutsiya-0
+- ekonomika-i-pravo/konstitutsiya
+- ekonomika-i-pravo/konstitutsiya-0
 IPTC_NewsCode: mediatopic/20000597
+dv_has_:
+  name_:
+    af: grondwet
+    ak: mmra
+    am: ሕገ መንግሥት
+    ami: sakamoecel a likec
+    an: constitución
+    ar: دستور
+    arz: دستور
+    as: সংবিধান
+    ast: constitución
+    az: konstitusiya
+    azb: آنایاسا
+    ba: конституция
+    be: канстытуцыя
+    be-tarask: канстытуцыя
+    bew: wèt dasar
+    bg: конституция
+    bho: संबिधान
+    bn: সংবিধান
+    br: bonreizh
+    bs: ustav
+    btm: konstitusi
+    bxr: үндэһэн хуули
+    ca: constitució
+    cdo: hiēng-huák
+    ce: конституци
+    chr: ᎦᎫᏍᏛᏗ
+    ckb: دەستوور
+    crh: esas qanun
+    cs: ústava
+    csb: konstitucjô
+    cv: конституци
+    cy: cyfansoddiad
+    da: forfatning
+    dag: zalikpana
+    de: Verfassung
+    de-ch: Verfassung
+    din: wɛ̈tmääc
+    dv: ގާނޫނު އަސާސީ
+    el: σύνταγμα
+    en: constitution
+    en-ca: constitution
+    en-gb: constitution
+    eo: konstitucio
+    es: constitución
+    et: põhiseadus
+    eu: konstituzio
+    fa: قانون اساسی
+    fi: perustuslaki
+    fon: sɛndodó
+    fr: constitution
+    fy: grûnwet
+    ga: bunreacht
+    gcr: konstitisyon
+    gd: bun-reachd
+    gl: constitución
+    gn: léi guasu
+    gsw: Verfassig
+    ha: kundin tsarin mulki
+    he: חוקה
+    hi: संविधान
+    hif: vidhaan
+    hr: ustav
+    hsb: wustawa
+    ht: konstitisyon
+    hu: alkotmány
+    hy: սահմանադրություն
+    hyw: սահմանադրութիւն
+    ia: constitution
+    id: konstitusi
+    ilo: batay-linteg
+    io: konstituco
+    is: stjórnarskrá
+    it: costituzione
+    ja: コンスティチューション
+    jam: kanstityuushan
+    jv: konstitusi
+    ka: კონსტიტუცია
+    kaa: konstituciya
+    kbp: ɛjaɖɛ paɣtʊ takayaɣ
+    kcg: kpa cam a̱byin
+    kk: конституция
+    kn: ಸಂವಿಧಾನ
+    knc: constitution
+    ko: 헌법
+    krc: конституция
+    ks: ٲییٖن
+    ku: destûra bingehîn
+    kv: оланподув
+    kw: korf lagha
+    ky: конституция
+    la: constitutio
+    lez: конституция
+    li: gróndwet
+    lld: costituzion
+    lmo: costituzion
+    ln: mobéko likonzi
+    lo: ລັດຖະທຳມະນູນ
+    lt: konstitucija
+    lv: konstitūcija
+    lzh: 憲法
+    mag: संविधान
+    mdf: конституциясь
+    mg: lalampanorenana
+    mhr: тӱҥ закон
+    min: undang limbago
+    mk: устав
+    ml: ഭരണഘടന
+    mn: ундсэн хууль
+    mni: ꯑꯁꯨꯞꯄ ꯆꯠꯅ-ꯀꯥꯡꯂꯣꯟ
+    mr: संविधान
+    ms: perlembagaan
+    ms-arab: ڤرلمباݢاءن
+    mt: kostituzzjoni
+    mwl: custituiçon
+    my: ဖွဲ့စည်းအုပ်ချုပ်ပုံအခြေခံဥပဒေ
+    nan: hiàn-hoat
+    nb: grunnlov
+    nds: Verfaten
+    nds-nl: groendwet
+    ne: संविधान
+    new: संविधान
+    nl: grondwet
+    nn: grunnlov
+    nqo: ߛߌ߰ߞߊ߲
+    nr: umthetho sisekelo
+    nrm: constitution
+    ny: malamulo olamulira dziko
+    oc: constitucion
+    os: конституци
+    pa: ਸੰਵਿਧਾਨ
+    pap: konstitushon
+    pl: konstytucja
+    pms: costitussion
+    pnb: آئین
+    ps: اساسي قانون
+    pt: constituição
+    pt-br: constituição
+    qu: hatun kamachi
+    rmf: botnosko laaga
+    ro: constituție
+    ru: конституция
+    rue: конштітуція
+    sah: конституция
+    sat: ᱥᱚᱢᱵᱤᱫᱷᱟᱱ
+    scn: custituzzioni
+    sco: constitution
+    sd: آئين
+    se: vuođđoláhka
+    sgs: kuonstėtocėjė
+    sh: ustav
+    shn: လၵ်းမိူင်း
+    si: ආණ්ඩුක්රම ව්යවස්ථාව
+    sje: vuođđoláhka
+    sk: ústava
+    sl: ustava
+    sma: maadthlaake
+    smj: vuodoláhka
+    smn: vuáđulaahâ
+    sms: vuâđđlääʹǩǩ
+    so: destuur
+    sq: kushtetuta
+    sr: устав
+    sv: grundlag
+    sw: katiba
+    ta: அரசமைப்புச் சட்டம்
+    te: రాజ్యాంగం
+    tet: konstituisaun
+    tg: қонуни асосии давлат
+    th: รัฐธรรมนูญ
+    tl: saligang batas
+    tly: konstitusijə
+    tr: anayasa
+    tt: конституция
+    tyv: конституция
+    udm: кункат
+    uk: конституція
+    ur: آئین
+    uz: konstitutsiya
+    vec: costitusion
+    vep: konstitucii
+    vi: hiến pháp
+    wa: mwaisse lwè
+    war: batakan-balaud
+    wuu: 宪法
+    xmf: კონსტიტუცია
+    yi: קאנסטיטוציע
+    yue: 憲法
+    za: fapguek
+    zgh: ⴰⴷⵓⵙⵜⵓⵔ
+    zh: 宪法
+    zh-cn: 宪法
+    zh-hans: 宪法
+    zh-hant: 憲法
+    zh-hk: 憲法
+    zh-mo: 憲法
+    zh-my: 宪法
+    zh-sg: 宪法
+    zh-tw: 憲法
+    zu: womthethosisekelo
 ---
-
 # [[Constitution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Constitution,7755|WD~Constitution,7755]] 

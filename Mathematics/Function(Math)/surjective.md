@@ -1,8 +1,128 @@
 ---
 aliases:
-  - surjection
-  - surjective
+- Fonzion suriettiva
+- funció exhaustiva
+- función sobrexectiva
+- función sobreyectiva
+- Functio suriectiva
+- Funcție surjectivă
+- fungsi surjektif
+- Funtzio supraiektibo
+- funzione suriettiva
+- função sobrejectiva
+- mapáil bharrtheilgeach
+- siurjekcija
+- Subrejeccion
+- suriekcja
+- surjectie
+- surjection
+- surjective
+- surjective function
+- Surjekcyjo
+- surjeksjon
+- surjektio
+- Surjektiv
+- surjektiv funksjon
+- surjektiv funktion
+- surjektive Funktion
+- Surjektivna funkcija
+- surjektivna preslikava
+- Surjektivno preslikavanje
+- surjektívne zobrazenie
+- Surĵeto
+- szürjekció
+- Toàn ánh
+- zobrazení na
+- Átæk vörpun
+- Örten fonksiyon
+- Επί
+- Сурјективна функција
+- Сурјективно пресликавање
+- сюр'єкція
+- сюр'екцыя
+- Сюрекция
+- Сюръектив функц
+- сюръекция
+- сюр’екцыйная функцыя
+- פונקציה על
+- تابع پوشا
+- دالة غامرة
+- فانکشنی گشتگر
+- সার্বিক ফাংশন
+- முழுக்கோப்பு
+- ฟังก์ชันทั่วถึง
+- 全射
+- 满射
+- 滿射
+- 滿射函數
+- 전사 함수
 has_id_wikidata: Q229102
+dv_has_:
+  name_:
+    ar: دالة غامرة
+    be: сюр'екцыя
+    be-tarask: сюр’екцыйная функцыя
+    bg: Сюрекция
+    bn: সার্বিক ফাংশন
+    bs: Surjektivna funkcija
+    ca: funció exhaustiva
+    ckb: فانکشنی گشتگر
+    cs: zobrazení na
+    da: Surjektiv
+    de: surjektive Funktion
+    el: Επί
+    en: surjective function
+    eo: Surĵeto
+    es: función sobreyectiva
+    eu: Funtzio supraiektibo
+    fa: تابع پوشا
+    fi: surjektio
+    fr: surjection
+    ga: mapáil bharrtheilgeach
+    gl: función sobrexectiva
+    he: פונקציה על
+    hr: Surjektivna funkcija
+    hu: szürjekció
+    ia: Surjection
+    id: fungsi surjektif
+    io: Surjektio
+    is: Átæk vörpun
+    it: funzione suriettiva
+    ja: 全射
+    ko: 전사 함수
+    la: Functio suriectiva
+    lmo: Fonzion suriettiva
+    lt: siurjekcija
+    mk: Сурјективна функција
+    mn: Сюръектив функц
+    nb: surjektiv funksjon
+    nl: surjectie
+    nn: surjeksjon
+    oc: Subrejeccion
+    pl: suriekcja
+    pt: função sobrejectiva
+    ro: Funcție surjectivă
+    ru: сюръекция
+    sk: surjektívne zobrazenie
+    sl: surjektivna preslikava
+    sr: Сурјективно пресликавање
+    sr-ec: Сурјективно пресликавање
+    sr-el: Surjektivno preslikavanje
+    sv: surjektiv funktion
+    szl: Surjekcyjo
+    ta: முழுக்கோப்பு
+    th: ฟังก์ชันทั่วถึง
+    tr: Örten fonksiyon
+    uk: сюр'єкція
+    vi: Toàn ánh
+    yue: 滿射函數
+    zh: 满射
+    zh-cn: 满射
+    zh-hans: 满射
+    zh-hant: 滿射
+    zh-hk: 滿射
+    zh-sg: 满射
+    zh-tw: 滿射
 ---
 #is_/same_as :: [[Epimorphism]]
 

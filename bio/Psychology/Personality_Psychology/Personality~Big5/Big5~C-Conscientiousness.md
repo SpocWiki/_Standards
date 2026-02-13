@@ -1,12 +1,38 @@
 ---
 aliases:
-  - Gewissenhaftigkeit
-  - conscientiousness
-  - Big5~Conscientiousness
+- Big5~Conscientiousness
+- Conscienciosidade
+- conscienciosité
+- conscientiousness
+- coscienziosità
+- escrupulosidad
+- Gewissenhaftigkeit
+- kohusetundlikkus
+- konscienceco
+- lelkiismeretesség
+- Samvetsgrannhet
+- scrupołozità
+- Sự tận tâm
+- Tunnollisuus
+- vestnost
+- Добросовестность
+- Савесност
+- Сумлінність
+- מצפוניות
+- ضمير حي
+- وظیفهشناسی
+- कर्तव्यनिष्ठा
+- ಅಂತಃಕರಣ
+- ความพิถีพิถัน
+- 尽责性
+- 盡責度
+- 盡責性
+- 誠実性
+- 성실성
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -24,11 +50,42 @@ linkTitle: Gewissenhaftigkeit
 publish: false
 publishDate: ''
 tags:
-  - Gewissenhaftigkeit
-  - excalidraw
+- Gewissenhaftigkeit
+- excalidraw
 title: Gewissenhaftigkeit
 type: private_note
 has_id_wikidata: Q1307067
+dv_has_:
+  name_:
+    ar: ضمير حي
+    de: Gewissenhaftigkeit
+    en: conscientiousness
+    eo: konscienceco
+    es: escrupulosidad
+    et: kohusetundlikkus
+    fa: وظیفهشناسی
+    fi: Tunnollisuus
+    fr: conscienciosité
+    he: מצפוניות
+    hi: कर्तव्यनिष्ठा
+    hu: lelkiismeretesség
+    it: coscienziosità
+    ja: 誠実性
+    kn: ಅಂತಃಕರಣ
+    ko: 성실성
+    pt: Conscienciosidade
+    ru: Добросовестность
+    sl: vestnost
+    sr: Савесност
+    sv: Samvetsgrannhet
+    th: ความพิถีพิถัน
+    uk: Сумлінність
+    vec: scrupołozità
+    vi: Sự tận tâm
+    yue: 盡責度
+    zh: 尽责性
+    zh-hant: 盡責性
+    zh-tw: 盡責性
 ---
 # [[Big5~C-Conscientiousness]] 
 

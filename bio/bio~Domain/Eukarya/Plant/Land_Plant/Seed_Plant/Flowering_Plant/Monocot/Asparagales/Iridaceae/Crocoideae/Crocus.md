@@ -1,103 +1,118 @@
 ---
 aliases:
-  - Krokus
-  - Crocus
-  - Krookje
-  - Crócas
-  - Barbička
-  - sáfrány
-  - Քրքում
-  - Krókus
-  - ზაფრანა
-  - Запырангүл
-  - Pîvok
-  - Krokussen
-  - Krokas
-  - Krokusslekta
-  - Уæдæрттæг
-  - šafran
-  - žafran
-  - Krokussläktet
-  - Бойчечак
-  - Шафран (рід)
-  - 番紅花屬
-  - 番红花属
-  - زعفران
-  - crocus
-  - כרכום
-  - Krokusse
-  - Шафран
-  - クロッカス
-  - Crocco
-  - Szafran
-  - Croco
-  - Çiğdem
-  - Минзухар
-  - Качунка
-  - Zəfəran
-  - šafrán
-  - Κρόκος
-  - Krokuso
-  - krookukset
-  - Sahramit
-  - Krokusen
+- Barbička
+- Bojcecak
+- Brândușă
+- Crocco
+- Croco
+- Crocus
+- croh
+- Crócas
+- cróch
+- Henek
+- Krokas
+- Krokus
+- Krokusen
+- Krokuso
+- krokuss
+- Krokusse
+- Krokussen
+- Krokusslekta
+- Krokussläktet
+- Krookje
+- krookukset
+- Krookus
+- Krókus
+- Milandores
+- Pîvok
+- Sahramit
+- Szafran
+- sáfrány
+- Zəfəran
+- Çiğdem
+- šafran
+- šafrán
+- Šiepruons
+- žafran
+- Κρόκος
+- Алатоо крокусу
+- Бойчечак
+- Запырангүл
+- Качунка
+- качунки
+- Минзухар
+- Уæдæрттæг
+- Шафран
+- Шафран (рід)
+- Քրքում
+- כרכום
+- زعفران
+- پیڤۆک
+- ക്രോകസ്
+- ზაფრანა
+- クロッカス
+- クロッカス属
+- 番紅花屬
+- 番红花属
+- 藏紅花屬
+- 크로커스
 has_id_wikidata: Q157806
 taxon_common_name:
-  - Krookje
-  - Crócas
-  - Barbička
-  - sáfrány
-  - Քրքում
-  - Krókus
-  - ზაფრანა
-  - Запырангүл
-  - Pîvok
-  - Krokussen
-  - Krokas
-  - Krokusslekta
-  - Krokus
-  - Krokus
-  - Уæдæрттæг
-  - šafran
-  - žafran
-  - Krokussläktet
-  - Бойчечак
-  - Шафран (рід)
-  - 番紅花屬
-  - 番红花属
-  - 番红花属
-  - زعفران
-  - crocus
-  - כרכום
-  - Krokusse
-  - زعفران
-  - Шафран
-  - クロッカス
-  - Crocco
-  - Szafran
-  - Croco
-  - Çiğdem
-  - زعفران
-  - Минзухар
-  - Качунка
-  - Zəfəran
-  - šafrán
-  - Krokus
-  - Κρόκος
-  - Krokuso
-  - krookukset
-  - Sahramit
-  - Krokusen
+- Krookje
+- Crócas
+- Barbička
+- sáfrány
+- Քրքում
+- Krókus
+- ზაფრანა
+- Запырангүл
+- Pîvok
+- Krokussen
+- Krokas
+- Krokusslekta
+- Krokus
+- Krokus
+- Уæдæрттæг
+- šafran
+- žafran
+- Krokussläktet
+- Бойчечак
+- Шафран (рід)
+- 番紅花屬
+- 番红花属
+- 番红花属
+- زعفران
+- crocus
+- כרכום
+- Krokusse
+- زعفران
+- Шафран
+- クロッカス
+- Crocco
+- Szafran
+- Croco
+- Çiğdem
+- زعفران
+- Минзухар
+- Качунка
+- Zəfəran
+- šafrán
+- Krokus
+- Κρόκος
+- Krokuso
+- krookukset
+- Sahramit
+- Krokusen
 has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
 uses: '[[_Standards/WikiData/WD~corm,858568]]'
 parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Crocoideae,5187415]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Crocus_sativus,15041677]]'
@@ -113,8 +128,100 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=3087
 EPPO_Code: 1CVOG
 MeSH_tree_code: B01.875.800.575.912.250.618.100.400.500
 NBN_System_Key: NHMSYS0000457717
+dv_has_:
+  name_:
+    af: Krokus
+    an: Crocus
+    ang: croh
+    ar: زعفران
+    arz: زعفران
+    ast: Crocus
+    az: Zəfəran
+    azb: زعفران
+    bg: минзухар
+    br: Crocus
+    ca: Crocus
+    ceb: Crocus
+    cs: šafrán
+    cv: Шафран
+    da: krokus
+    de: Krokusse
+    diq: Henek
+    el: Κρόκος
+    en: Crocus
+    eo: Krokuso
+    es: Crocus
+    et: Krookus
+    eu: Crocus
+    ext: Crocus
+    fa: زعفران
+    fi: sahramit
+    fr: crocus
+    frr: Krokusen
+    fy: Krookje
+    ga: cróch
+    gl: Crocus
+    he: כרכום
+    hr: Šafran
+    hsb: Barbička
+    hu: sáfrány
+    hy: քրքում
+    ia: Crocus
+    id: Crocus
+    ie: Crocus
+    io: Crocus
+    is: Krókus
+    it: Crocus
+    ja: クロッカス属
+    ka: ზაფრანა
+    kk: Запырангүл
+    ko: 크로커스
+    ku: Pîvok
+    ku-arab: پیڤۆک
+    ku-latn: Pîvok
+    ky: Алатоо крокусу
+    la: Crocus
+    lb: Krokussen
+    lfn: Croco
+    lld: Milandores
+    lt: Krokas
+    lv: krokuss
+    mk: качунки
+    ml: ക്രോകസ്
+    mul: Crocus
+    nb: krokusslekta
+    nl: krokus
+    nn: krokusslekta
+    oc: Crocus
+    os: Уæдæрттæг
+    pl: Szafran
+    pnb: زعفران
+    pt: crocus
+    pt-br: Crocus
+    ro: Brândușă
+    ru: шафран
+    sgs: Šiepruons
+    sk: šafran
+    sl: žafran
+    sq: Crocus
+    sv: krokussläktet
+    tg: бойчечак
+    tg-latn: Bojcecak
+    tr: Çiğdem
+    uk: Шафран
+    vi: Crocus
+    vo: Crocus
+    war: Crocus
+    wuu: 番红花属
+    yue: 藏紅花屬
+    zh: 番红花属
+    zh-cn: 番红花属
+    zh-hans: 番红花属
+    zh-hant: 番紅花屬
+    zh-hk: 番紅花屬
+    zh-sg: 番红花属
+    zh-tw: 番紅花屬
 ---
-
 # [[Crocus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Crocus,157806]] 

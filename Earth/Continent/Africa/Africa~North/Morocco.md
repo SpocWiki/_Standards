@@ -1,317 +1,435 @@
 ---
 aliases:
-  - Morocco
-  - Marruecos
-  - Maroc
-  - المغرب
-  - 摩洛哥
-  - Марокко
-  - the Kingdom of Morocco
-  - el Reino de Marruecos
+- el Reino de Marruecos
+- Eʼeʼaahjí Ghą́ą́ʼaskʼidii Biłikahii Bikéyah
+- Fas
+- IMorokho
+- Kamarokuan
+- Kamarokuhan
+- Lmerruk
+- Lmɣrib
+- ma Malipe
+- Maghribi
+- Magrib
+- Magriba
+- Maracó
+- Marako
+- Maroc
+- Marocco
+- Maroccu
+- Maroch
+- Marocko
+- Maroco
+- Marocu
+- Marocum
+- Marok
+- Maroka
+- Marokas
+- Marokash
+- Maroke
+- Marokk
+- Marokko
+- Marokkó
+- Maroko
+- Maroku
+- Marokän
+- Marokò
+- Marooko
+- Marroc
+- Marrocos
+- Marroko
+- Marruecos
+- Marruecus
+- Marruéko
+- Marròc
+- Marueko
+- Maruku
+- Maruoks
+- Maròcco
+- Maròch
+- Maròk
+- Marôka
+- Marôko
+- Marɔko
+- Marɔkɛ
+- Marɔkɩ
+- Mawòk
+- Mağrip
+- Moloko
+- morgu'e
+- Morocco
+- Morocco (cidi)
+- Moroco
+- Morokho
+- Morokko
+- Moroko
+- Morookoo
+- Morooku
+- Mòrókò
+- Mərakeş
+- Mərakeš
+- the Kingdom of Morocco
+- Yn Varoc
+- Μαρόκο
+- Марока
+- Марокаш
+- Марокко
+- Мароко
+- Мағрибия
+- Морокин Нутг
+- Մարոկկո
+- Մարոք
+- מאראקא
+- מרוקו
+- المغرب
+- الموغريب
+- لمغريب
+- مأراکئش
+- ماراكەش
+- مراکش
+- مراڪش
+- مغربي
+- مەغریب
+- ܡܓܪܒ
+- މައުރިބު
+- ߡߊ߬ߙߐߞߎ߬
+- मोरक्को
+- मोराको
+- मोरोक्को
+- মরক্কো
+- মৰোক্কো
+- ਮੋਰਾਕੋ
+- મોરોક્કો
+- ମୋରୋକୋ
+- மொரோக்கோ
+- మొరాకో
+- ಮೊರಾಕೊ
+- മൊറോക്കൊ
+- මොරොක්කෝව
+- ประเทศโมร็อกโก
+- ປະເທດມາຣົອກ
+- མོ་རོ་ཀོ།
+- མོ་རོ་ཁོ།
+- မိူင်းမေႃႇရူဝ်ႇၵူဝ်ႇ
+- မော်ရိုကိုနိုင်ငံ
+- მაროკო
+- ሞሮኮ
+- ᎼᎶᎪ
+- ម៉ារ៉ុក
+- ᱢᱳᱨᱳᱠᱠᱳ
+- ⴰⵎⵓⵔ ⵏ ⵡⴰⴽⵓⵛ
+- ⵍⵎⵖⵔⵉⴱ
+- モロッコ
+- 摩洛哥
+- ꠝꠞꠇ꠆ꠇ
+- ꯃꯣꯔꯣꯛꯀꯣ
+- 마로끄
+- 모로코
+- "\U0001102B\U00011016\U00011046\U0001102D\U00011029"
 has_id_wikidata: Q1028
 named_after:
-  - "[[_Standards/WikiData/WD~Marrakesh,101625]]"
-  - "[[_Standards/WikiData/WD~Mauri_people,6792792]]"
-  - "[[_Standards/WikiData/WD~west,679]]"
+- '[[_Standards/WikiData/WD~Marrakesh,101625]]'
+- '[[_Standards/WikiData/WD~Mauri_people,6792792]]'
+- '[[_Standards/WikiData/WD~west,679]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Maghreb,28227]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Morocco,159865]]"
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Maghreb,28227]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Morocco,159865]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~Mawlid,193027]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
-  - "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
-  - "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
-  - "[[_Standards/WikiData/WD~Islamic_New_Year,922388]]"
-  - "[[_Standards/WikiData/WD~Youth_Day,946446]]"
-  - "[[_Standards/WikiData/WD~Yennayer,3572171]]"
-  - "[[_Standards/WikiData/WD~Revolution_of_the_King_and_the_People,6755512]]"
-  - "[[_Standards/WikiData/WD~Throne_Day,20393998]]"
-  - "[[_Standards/WikiData/WD~Proclamation_of_Independence_of_Morocco,60845731]]"
-  - "[[_Standards/WikiData/WD~New_Year,34812]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-  - "[[_Standards/WikiData/WD~August_14,2775]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Morocco,211232]]"
-anthem: "[[_Standards/WikiData/WD~Cherifian_Anthem,238826]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Morocco,286806]]"
+- '[[_Standards/WikiData/WD~Mawlid,193027]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
+- '[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]'
+- '[[_Standards/WikiData/WD~Eid_al-Adha,514400]]'
+- '[[_Standards/WikiData/WD~Islamic_New_Year,922388]]'
+- '[[_Standards/WikiData/WD~Youth_Day,946446]]'
+- '[[_Standards/WikiData/WD~Yennayer,3572171]]'
+- '[[_Standards/WikiData/WD~Revolution_of_the_King_and_the_People,6755512]]'
+- '[[_Standards/WikiData/WD~Throne_Day,20393998]]'
+- '[[_Standards/WikiData/WD~Proclamation_of_Independence_of_Morocco,60845731]]'
+- '[[_Standards/WikiData/WD~New_Year,34812]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~August_14,2775]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Morocco,211232]]'
+anthem: '[[_Standards/WikiData/WD~Cherifian_Anthem,238826]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Morocco,286806]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-central_bank: "[[_Standards/WikiData/WD~Bank_Al-Maghrib,328198]]"
-replaces: "[[_Standards/WikiData/WD~Spanish_protectorate_in_Morocco,457242]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Morocco,472658]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_Al-Maghrib,328198]]'
+replaces: '[[_Standards/WikiData/WD~Spanish_protectorate_in_Morocco,457242]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Morocco,472658]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Morocco,488261]]"
-  - "[[_Standards/WikiData/WD~Marokko,2302614]]"
-highest_point: "[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Morocco,615580]]"
+- '[[_Standards/WikiData/WD~Morocco,488261]]'
+- '[[_Standards/WikiData/WD~Marokko,2302614]]'
+highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Morocco,615580]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
-head_of_government: "[[_Standards/WikiData/WD~Aziz_Akhannouch,1638114]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Morocco,1977556]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Morocco,2593833]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Morocco,3001004]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Morocco,3004884]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+head_of_government: '[[_Standards/WikiData/WD~Aziz_Akhannouch,1638114]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Morocco,1977556]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Morocco,2593833]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Morocco,3001004]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Morocco,3004884]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Sud_Oranais-Gourara,3063974]]"
-  - "[[_Standards/WikiData/WD~Moroccan_Sign_Language,6913107]]"
-  - "[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Tachelhit,34152]]"
-  - "[[_Standards/WikiData/WD~Tarifit,34174]]"
-  - "[[_Standards/WikiData/WD~Ghomara,35315]]"
-  - "[[_Standards/WikiData/WD~Central_Atlas_Tamazight,49741]]"
-  - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
-  - "[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Sanhaja_de_Srair,56744]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Malay,9237]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-visitor_center: "[[_Standards/WikiData/WD~Moroccan_National_Tourism_Office,3349668]]"
-lowest_point: "[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]"
+- '[[_Standards/WikiData/WD~Sud_Oranais-Gourara,3063974]]'
+- '[[_Standards/WikiData/WD~Moroccan_Sign_Language,6913107]]'
+- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Tachelhit,34152]]'
+- '[[_Standards/WikiData/WD~Tarifit,34174]]'
+- '[[_Standards/WikiData/WD~Ghomara,35315]]'
+- '[[_Standards/WikiData/WD~Central_Atlas_Tamazight,49741]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Sanhaja_de_Srair,56744]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Malay,9237]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+visitor_center: '[[_Standards/WikiData/WD~Moroccan_National_Tourism_Office,3349668]]'
+lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Morocco,4540130]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Morocco,4540130]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Casablanca,4689485]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-ethnic_group: "[[_Standards/WikiData/WD~Arab-Berber,4783129]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Morocco,7112370]]"
+- '[[_Standards/WikiData/WD~Africa_Casablanca,4689485]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+ethnic_group: '[[_Standards/WikiData/WD~Arab-Berber,4783129]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Morocco,7112370]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
+- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
 coordinates_of_westernmost_point: Point(-17.050381 20.769991)
-executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Morocco,12208534]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_Morocco,14566719]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Morocco,19842743]]"
+executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Morocco,12208534]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Morocco,14566719]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Morocco,19842743]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Casablanca-Settat,19843788]]"
-  - "[[_Standards/WikiData/WD~Drâa-Tafilalet,19950954]]"
-  - "[[_Standards/WikiData/WD~Fès-Meknès,19951027]]"
-  - "[[_Standards/WikiData/WD~Guelmim-Oued_Noun,19951051]]"
-  - "[[_Standards/WikiData/WD~Laâyoune-Sakia_El_Hamra,19951088]]"
-  - "[[_Standards/WikiData/WD~Marrakesh-Safi,19951125]]"
-  - "[[_Standards/WikiData/WD~Rabat-Salé-Kénitra,19951239]]"
-  - "[[_Standards/WikiData/WD~Tangier-Tetouan-Al_Hoceima,19951300]]"
-  - "[[_Standards/WikiData/WD~Béni_Mellal-Khénifra,19953016]]"
-  - "[[_Standards/WikiData/WD~Souss-Massa,20652586]]"
-  - "[[_Standards/WikiData/WD~Dakhla-Oued_Ed-Dahab,21235104]]"
-  - "[[_Standards/WikiData/WD~Oriental,23048167]]"
+- '[[_Standards/WikiData/WD~Casablanca-Settat,19843788]]'
+- '[[_Standards/WikiData/WD~Drâa-Tafilalet,19950954]]'
+- '[[_Standards/WikiData/WD~Fès-Meknès,19951027]]'
+- '[[_Standards/WikiData/WD~Guelmim-Oued_Noun,19951051]]'
+- '[[_Standards/WikiData/WD~Laâyoune-Sakia_El_Hamra,19951088]]'
+- '[[_Standards/WikiData/WD~Marrakesh-Safi,19951125]]'
+- '[[_Standards/WikiData/WD~Rabat-Salé-Kénitra,19951239]]'
+- '[[_Standards/WikiData/WD~Tangier-Tetouan-Al_Hoceima,19951300]]'
+- '[[_Standards/WikiData/WD~Béni_Mellal-Khénifra,19953016]]'
+- '[[_Standards/WikiData/WD~Souss-Massa,20652586]]'
+- '[[_Standards/WikiData/WD~Dakhla-Oued_Ed-Dahab,21235104]]'
+- '[[_Standards/WikiData/WD~Oriental,23048167]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~19,25648864]]"
-  - "[[_Standards/WikiData/WD~15,25648869]]"
-  - "[[_Standards/WikiData/WD~177,25743529]]"
+- '[[_Standards/WikiData/WD~19,25648864]]'
+- '[[_Standards/WikiData/WD~15,25648869]]'
+- '[[_Standards/WikiData/WD~177,25743529]]'
 demonym:
-  - marroquí
-  - مغاربا
-  - مغربيات
-  - مغريبي
-  - مغريبية
-  - marroquí
-  - marroquín
-  - মরক্কী
-  - Marokkanerin
-  - Marokano
-  - Marocaine
-  - marokkói
-  - Marokano
-  - marocchina
-  - marocchine
-  - marocchini
-  - magribi
-  - marocan
-  - marocan
-  - marocană
-  - marocani
-  - марокканец
-  - марокканка
-  - марокканцы
-  - marochin
-  - marochina
-  - marochine
-  - marochini
-  - Marokänan
-  - Maročan
-  - Maročanka
-  - ⴰⵎⵓⵔⵉ
-  - ⵜⴰⵎⵓⵔⵉⵜ
-  - ⵜⵉⵎⵓⵔⵉⵢⵏ
-  - orang Maghribi
-  - Maracach
-  - مغربية
-  - مغاربة
-  - Marokkaner
-  - מרוקאי
-  - Marocain
-  - Moroccan
-  - מרוקאית
-  - marocchino
-  - مغربي
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+- marroquí
+- مغاربا
+- مغربيات
+- مغريبي
+- مغريبية
+- marroquí
+- marroquín
+- মরক্কী
+- Marokkanerin
+- Marokano
+- Marocaine
+- marokkói
+- Marokano
+- marocchina
+- marocchine
+- marocchini
+- magribi
+- marocan
+- marocan
+- marocană
+- marocani
+- марокканец
+- марокканка
+- марокканцы
+- marochin
+- marochina
+- marochine
+- marochini
+- Marokänan
+- Maročan
+- Maročanka
+- ⴰⵎⵓⵔⵉ
+- ⵜⴰⵎⵓⵔⵉⵜ
+- ⵜⵉⵎⵓⵔⵉⵢⵏ
+- orang Maghribi
+- Maracach
+- مغربية
+- مغاربة
+- Marokkaner
+- מרוקאי
+- Marocain
+- Moroccan
+- מרוקאית
+- marocchino
+- مغربي
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
 official_name:
-  - Maghribi
-  - Kongeriget Marokko
-  - Kingdom of Morocco
-  - Reino de Marruecos
-  - Royaume du Maroc
-  - Marocké kráľovstvo
-  - ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵓⵎⵓⵔ ⵏ ⵡⴰⴽⵓⵛ
-  - Kerajaan Maghribi
-  - لمملكة لمغريبية
-  - Regno del Maroco
-  - Morocco
-  - المغرب
-  - المملكة المغربية
-open_data_portal: "[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662]]"
+- Maghribi
+- Kongeriget Marokko
+- Kingdom of Morocco
+- Reino de Marruecos
+- Royaume du Maroc
+- Marocké kráľovstvo
+- ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵓⵎⵓⵔ ⵏ ⵡⴰⴽⵓⵛ
+- Kerajaan Maghribi
+- لمملكة لمغريبية
+- Regno del Maroco
+- Morocco
+- المغرب
+- المملكة المغربية
+open_data_portal: '[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Morocco.map
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Marokko.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20WS-excluded%20%28orthographic%20projection%29.svg
 official_website:
-  - http://www.maroc.ma/en
-  - https://www.maroc.ma/amz
-  - https://www.maroc.ma/ar
-  - https://www.maroc.ma/es
-  - https://www.maroc.ma/fr
+- http://www.maroc.ma/en
+- https://www.maroc.ma/amz
+- https://www.maroc.ma/ar
+- https://www.maroc.ma/es
+- https://www.maroc.ma/fr
 Dewey_Decimal_Classification: 2--64
 Provenio_UUID: b34b5d6c-651c-47da-a724-9419045a3990
 Libris_URI: khwzxrn30k0tv0g
-Unicode_character: 🇲🇦
+Unicode_character: "\U0001F1F2\U0001F1E6"
 Krugosvet_article: strany_mira/MAROKKO.html
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-  - "[[_Standards/WikiData/WD~Strait_of_Gibraltar,36124]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Strait_of_Gibraltar,36124]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 unemployment_rate: 10
 VAT_rate: 20
 BTI_Governance_Index:
-  - 4
-  - 4.2
-  - 4.4
-  - 4.6
-  - 4.28
-  - 4.37
-  - 4.52
-  - 4.75
-  - 4.84
+- 4
+- 4.2
+- 4.4
+- 4.6
+- 4.28
+- 4.37
+- 4.52
+- 4.75
+- 4.84
 compulsory_education_minimum_age_: 6
 vehicles_per_thousand_people:
-  - 80
-  - 53
+- 80
+- 53
 compulsory_education_maximum_age_: 15
 marriageable_age: 18
 mains_voltage:
-  - 220
-  - 127
+- 220
+- 127
 BTI_Status_Index:
-  - 4.5
-  - 4.6
-  - 4.7
-  - 4.47
-  - 4.52
-  - 4.61
-  - 4.62
-  - 4.65
-  - 4.77
+- 4.5
+- 4.6
+- 4.7
+- 4.47
+- 4.52
+- 4.61
+- 4.62
+- 4.65
+- 4.77
 retirement_age: 65
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.ma,41439]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439]]'
 social_media_followers: 28200
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
 Gini_coefficient: 39.5
 trunk_prefix: 0
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 Democracy_Index: 5.04
 Inequality_adjusted_Human_Development_Index: 0.504
 Happy_Planet_Index_score: 50.9
 aircraft_registration_prefix: CN
 death_rate:
-  - 6.17
-  - 5.658
-  - 5.766
-  - 6.073
+- 6.17
+- 5.658
+- 5.766
+- 6.073
 Human_Development_Index: 0.683
-head_of_state: "[[_Standards/WikiData/WD~Mohammed_VI_of_Morocco,57553]]"
+head_of_state: '[[_Standards/WikiData/WD~Mohammed_VI_of_Morocco,57553]]'
 total_fertility_rate: 2.515
 UIC_numerical_country_code: 93
 WIPO_ST_3: MA
@@ -319,43 +437,43 @@ UIC_alphabetical_country_code: MA
 licence_plate_code: MA
 ISO_3166_1_alpha_2_code: MA
 birth_rate:
-  - 17.161
-  - 17.545
-  - 17.889
-  - 18.337
+- 17.161
+- 17.545
+- 17.889
+- 18.337
 maritime_identification_digits: 242
 ISO_3166_1_numeric_code: 504
 M49_code: 504
 GS1_country_code: 611
 mobile_country_code: 604
 native_label:
-  - ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
-  - ⵍⵎⵖⵔⵉⴱ
-  - المغرب
-  - المملكة المغربية
-short_name: 🇲🇦
+- ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
+- ⵍⵎⵖⵔⵉⴱ
+- المغرب
+- المملكة المغربية
+short_name: "\U0001F1F2\U0001F1E6"
 inception: 789
 has_time_started: 0789-06
 UMLS_CUI: C0020822
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20relief%20location%20map.jpg
 ISNI: 121703280
 motto_text:
-  - Gwlad, Mamwlad, y Brenin
-  - الله، الوطن، الملك
+- Gwlad, Mamwlad, y Brenin
+- الله، الوطن، الملك
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Volubilis%20Longshot%20II.jpg
 MeSH_tree_code: Z01.058.266.629
 nominal_GDP:
-  - 134181587770
-  - 142866583125
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Morocco,1028]]"
-capital: "[[_Standards/WikiData/WD~Rabat,3551]]"
+- 134181587770
+- 142866583125
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+country: '[[_Standards/WikiData/WD~Morocco,1028]]'
+capital: '[[_Standards/WikiData/WD~Rabat,3551]]'
 minimum_temperature_record: -23.9
-part_of: "[[_Standards/WikiData/WD~North_Africa,27381]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+part_of: '[[_Standards/WikiData/WD~North_Africa,27381]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 population:
-  - 37076584
-  - 36828330
+- 37076584
+- 36828330
 coordinates_of_easternmost_point: Point(-0.99842 32.51311)
 coordinates_of_southernmost_point: Point(-13.000833 21.334026)
 Commons_gallery: المغرب / ⵍⵎⵖⵔⵉⴱ / Maroc
@@ -371,10 +489,10 @@ ISO_3166_1_alpha_3_code: MAR
 IOC_country_code: MAR
 number_of_out_of_school_children: 1137547
 rural_population:
-  - 13261620
-  - 13323470
-  - 13379661
-  - 13434809
+- 13261620
+- 13323470
+- 13379661
+- 13434809
 U_S_National_Archives_Identifier: 10035766
 PM20_geo_code: C24
 coordinates_of_northernmost_point: Point(-5.40141 35.92243)
@@ -389,27 +507,27 @@ subreddit: Morocco
 Commons_category: Morocco
 hashtag: Morocco
 female_population:
-  - 18022621
-  - 18213816
-  - 18410922
-  - 18605603
+- 18022621
+- 18213816
+- 18410922
+- 18605603
 male_population:
-  - 18281786
-  - 18474956
-  - 18665663
-  - 18852368
+- 18281786
+- 18474956
+- 18665663
+- 18852368
 urban_population:
-  - 22869599
-  - 23309111
-  - 23753114
-  - 24196351
+- 22869599
+- 23309111
+- 23753114
+- 24196351
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%AFt%20Arbi%20%28Maroc%29%20banner%20Vall%C3%A9e%20des%20Gorges%20du%20Dad%C3%A8s.jpg
 location:
-  - 33.0225
-  - -7.6125
+- 33.0225
+- -7.6125
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26956
 isDeleted: false
 confidential: public
@@ -417,19 +535,19 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Morocco
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ar-MA
-  - ber
-  - fr
+- ar-MA
+- ber
+- fr
 dv_ISO4217-currency_alphabetic: MAD
 dv_ISO4217-currency_name: Moroccan Dirham
 dv_ISO4217-currency_numeric: 504
@@ -458,9 +576,9 @@ dv_UNTERM_Chinese_Formal: 摩洛哥王国
 dv_UNTERM_French_Formal: le Royaume du Maroc
 dv_UNTERM_Russian: Марокко
 dv_UNTERM_Russian_Formal: Королевство Марокко
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Morocco]]"
-dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Morocco]]'
+dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
 dv_Sub-region: 15
 dv_Geoname-ID: 2542007
@@ -483,22 +601,327 @@ dv_ISO2: MA
 dv_ISO3: MAR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]"
+  - '[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]'
 dv_has_:
   name_:
+    ab: Марокко
+    ace: Maghribi
+    acm: المغرب
+    ady: Марокко
+    aeb-arab: المغرب
+    af: Marokko
+    am: ሞሮኮ
+    ami: Morocco
+    an: Marruecos
+    ang: Morocco
+    ann: Moroko
+    anp: मोरोक्को
+    ar: المغرب
+    arc: ܡܓܪܒ
+    arq: الموغريب
+    ary: لمغريب
+    arz: المغرب
+    as: মৰোক্কো
+    ast: Marruecos
+    avk: Magriba
+    ay: Maruku
+    az: Mərakeş
+    azb: مراکش
+    ba: Марокко
+    ban: Maroko
+    bar: Marokko
+    bcl: Moroko
+    be: Марока
+    be-tarask: Марока
+    bew: Magrib
+    bg: Мароко
+    bgn: مراکش
+    bho: मोरक्को
+    bi: Moroko
+    bjn: Maroko
+    bm: Maroko
+    bn: মরক্কো
+    bo: མོ་རོ་ཁོ།
+    bpy: মরক্কো
+    br: Maroko
+    bs: Maroko
+    bxr: Марокко
+    ca: Marroc
+    cbk-zam: Marruecos
+    cdo: Morocco
+    ce: Марокко
+    ceb: Kamarokuhan
+    chr: ᎼᎶᎪ
+    ckb: مەغریب
+    co: Maroccu
+    crh: Mağrip
+    crh-latn: Mağrip
+    cs: Maroko
+    csb: Marokò
+    cv: Марокко
+    cy: Moroco
+    da: Marokko
+    dag: Moroco
+    de: Marokko
+    de-at: Marokko
+    de-ch: Marokko
+    diq: Morokko
+    dsb: Marokko
+    dty: मोरोक्को
+    dv: މައުރިބު
+    dz: མོ་རོ་ཀོ།
+    ee: Marɔko
+    el: Μαρόκο
+    en: Morocco
+    en-ca: Morocco
+    en-gb: Morocco
+    en-us: Morocco
+    eo: Maroko
+    es: Marruecos
+    et: Maroko
+    eu: Maroko
+    ext: Marruecus
+    fa: مراکش
+    ff: Morooku
+    fi: Marokko
+    fo: Marokko
+    fr: Maroc
+    frp: Maroc
+    frr: Marokko
+    fy: Marokko
+    ga: Maracó
+    gaa: Moroko
+    gag: Marokko
+    gcr: Maròk
+    gd: Maroco
+    gl: Marrocos
+    glk: مراکش
+    gn: Marruéko
+    gom: मोरोक्को
+    gor: Maroko
+    gpe: Morocco
+    gsw: Marokko
+    gu: મોરોક્કો
+    gur: Morocco
+    gv: Yn Varoc
+    ha: Moroko
+    hak: Morocco
+    haw: Moloko
+    he: מרוקו
+    hi: मोरक्को
+    hif: Morocco
+    hil: Kamarokuhan
+    hr: Maroko
+    hsb: Marokko
+    ht: Mawòk
+    hu: Marokkó
+    hy: Մարոկկո
+    hyw: Մարոք
+    ia: Marocco
+    id: Maroko
+    ie: Morocco
+    ig: Morocco
+    ilo: Morocco
+    io: Maroko
+    is: Marokkó
+    it: Marocco
+    ja: モロッコ
+    jam: Marako
+    jbo: morgu'e
+    jv: Maroko
+    ka: მაროკო
+    kaa: Marokko
+    kab: Lmerruk
+    kbp: Marɔkɩ
+    kcg: Moroko
+    kg: Maroko
+    kge: Maroko
+    ki: Morocco
+    kk: Мағрибия
+    km: ម៉ារ៉ុក
+    kn: ಮೊರಾಕೊ
+    knc: Morocco (cidi)
+    ko: 모로코
+    ko-kp: 마로끄
+    krc: Марокко
+    krj: Kamarokuhan
+    ks: مراکش
+    ku: Maroko
+    kv: Марокко
+    kw: Marokk
+    ky: Марокко
+    la: Marocum
+    lad: Marroko
+    lb: Marokko
+    lez: Марокко
+    lfn: Magrib
+    lg: Morocco
+    li: Marokko
+    lij: Maròcco
+    lld: Maroch
+    lmo: Maroch
+    ln: Marɔkɛ
+    lo: ປະເທດມາຣົອກ
+    lrc: مأراکئش
+    lt: Marokas
+    lv: Maroka
+    lzh: 摩洛哥
+    mad: Maroko
+    mag: मोरोक्को
+    mdf: Марокко
+    mg: Marôka
+    mhr: Марокко
+    mi: Marako
+    min: Maroko
+    mk: Мароко
+    ml: മൊറോക്കൊ
+    mn: Марокко
+    mni: ꯃꯣꯔꯣꯛꯀꯣ
+    mos: Moroco
+    mr: मोरोक्को
+    mrj: Марокко
+    ms: Maghribi
+    ms-arab: مغربي
+    mt: Marokk
+    mwl: Marrocos
+    my: မော်ရိုကိုနိုင်ငံ
+    mzn: مراکش
+    na: Morocco
+    nah: Marruecos
+    nan: Morocco
+    nap: Marocco
+    nb: Marokko
+    nds: Marokko
+    nds-nl: Marokko
+    ne: मोरक्को
+    new: मोरक्को
+    nl: Marokko
+    nn: Marokko
+    nov: Moroko
+    nqo: ߡߊ߬ߙߐߞߎ߬
+    nr: Morocco
+    nrm: Maroc
+    nso: Morocco
+    nv: Eʼeʼaahjí Ghą́ą́ʼaskʼidii Biłikahii Bikéyah
+    oc: Marròc
+    olo: Marokko
+    om: Morookoo
+    or: ମୋରୋକୋ
+    os: Марокко
+    pa: ਮੋਰਾਕੋ
+    pam: Kamarokuan
+    pap: Maroko
+    pcd: Maroc
+    pcm: Moroko
+    pi: "\U0001102B\U00011016\U00011046\U0001102D\U00011029"
+    pih: Morocco
+    pl: Maroko
+    pms: Maròch
+    pnb: مراکش
+    ps: مراکش
+    pt: Marrocos
+    pt-br: Marrocos
+    qu: Maruku
+    rmy: Morocco
+    ro: Maroc
+    ru: Марокко
+    rue: Марокко
+    rw: Maroke
+    sa: मोराको
+    sah: Марокко
+    sat: ᱢᱳᱨᱳᱠᱠᱳ
+    sc: Marocu
+    scn: Maroccu
+    sco: Morocco
+    sd: مراڪش
+    se: Marokko
+    sg: Marôko
+    sgs: Maruoks
+    sh: Maroko
+    shi: Lmɣrib
+    shn: မိူင်းမေႃႇရူဝ်ႇၵူဝ်ႇ
+    si: මොරොක්කෝව
+    sk: Maroko
+    sl: Maroko
+    sm: Morocco
+    smn: Marokko
+    sms: Marokko
+    sn: Morocco
+    so: Marooko
+    sq: Maroku
+    sr: Мароко
+    sr-ec: Мароко
+    sr-el: Maroko
+    ss: IMorokho
+    st: Morocco
+    stq: Marokko
+    su: Maroko
+    sv: Marocko
+    sw: Moroko
+    syl: ꠝꠞꠇ꠆ꠇ
+    szl: Maroko
+    szy: Morocco
+    ta: மொரோக்கோ
+    tay: Morocco
+    te: మొరాకో
+    tg: Марокаш
+    th: ประเทศโมร็อกโก
+    ti: ሞሮኮ
+    tk: Marokko
+    tl: Marueko
+    tly: Mərakeš
+    tok: ma Malipe
+    tr: Fas
+    trv: Morocco
+    ts: Morocco
+    tt: Марокко
+    tum: Morocco
+    tw: Morocco
+    tzm: ⴰⵎⵓⵔ ⵏ ⵡⴰⴽⵓⵛ
+    udm: Марокко
+    ug: ماراكەش
+    uk: Марокко
+    ur: المغرب
+    uz: Marokash
+    vec: Maroco
+    vep: Marok
+    vi: Maroc
+    vls: Marokko
+    vo: Marokän
+    vro: Maroko
+    wa: Marok
+    war: Kamarokuhan
+    wo: Marok
+    wuu: 摩洛哥
+    xal: Морокин Нутг
+    xh: Morokho
+    xmf: მაროკო
+    yi: מאראקא
+    yo: Mòrókò
+    yue: 摩洛哥
+    za: Morocco
+    zea: Marokko
+    zgh: ⵍⵎⵖⵔⵉⴱ
+    zh: 摩洛哥
+    zh-cn: 摩洛哥
+    zh-hans: 摩洛哥
+    zh-hant: 摩洛哥
+    zh-hk: 摩洛哥
+    zh-tw: 摩洛哥
+    zu: IMorokho
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Morocco
 dv_has_name_de: Marokko
 dv_Area-Total: 458730
 dv_Area-Land: 446300
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: MA
 dv_Alcohol-l: 1.5
 dv_Language-Id: 472
@@ -506,17 +929,16 @@ dv_has_place_longitude: -7.6125
 dv_has_place_latitude: 33.0225
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]"
+- '[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]'
+- '[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Morocco
 ---
-
 # [[Morocco]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 

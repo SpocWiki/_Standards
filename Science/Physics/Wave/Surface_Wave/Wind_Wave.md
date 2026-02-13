@@ -1,23 +1,209 @@
 ---
 aliases:
-  - Wasserwelle
-  - Wind_Wave
-  - Wind Wave
+- aalto
+- Alda
+- balëd
+- cakeb
+- dalga
+- dalğa
+- falowanie
+- fola
+- havbølge
+- havbølger
+- havbølgje
+- Jūros banga
+- Lambak
+- Machapu
+- mavj
+- Mbóngé
+- morski talas
+- mořská vlna
+- ola
+- Olatu
+- ombak
+- ona marina
+- Onda
+- Onda marina
+- ondas oceânicas de superfície
+- Onja
+- Seegolf
+- sóng biển
+- Sùmaid
+- Tonn
+- Undâ
+- Unna marina
+- Uxi
+- Vag (non)
+- vague
+- Val
+- Valët e detit
+- vattenvåg
+- Veelained
+- venta ondo
+- vloeistofoppervlaktegolf
+- Vodeni talas
+- Vodeni val
+- vodni val
+- Vodná vlna
+- Wasserwelle
+- Wave
+- waves
+- wała
+- wela wodnŏ
+- Wind Wave
+- Wind_Wave
+- wódna kuźera
+- Èrsa
+- Éng
+- ūdens viļņi
+- Κυματισμός
+- ветравая хваля
+- ветровые волны
+- Вълнение
+- Далайн гадаргуу дахь долгион
+- деңиз толкундары
+- морски бран
+- морски талас
+- судагы дулкын
+- хвилі на поверхні води
+- քամուց առաջացող ալիքներ
+- גל ים
+- آبہٕ رَڑ
+- امواج سطح اقیانوس
+- اومبق
+- شەپۆلی با
+- موجة رياح
+- महासागरीय तरंगे
+- கடலலை
+- ಅಲೆ
+- തിര
+- რეღმეფი
+- ტალღები
+- ᠪᠣᠯᠵᠣᠨ
+- 波
+- 波涛
+- 浪
+- 海浪
+- 파도
 has_id_wikidata: Q165848
-subclass_of: "[[../../../../WikiData/WD~surface_wave,889796]]"
+subclass_of: '[[../../../../WikiData/WD~surface_wave,889796]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-produced_sound: "[[_Standards/WikiData/WD~Q110068397,110068397]]"
-location: "[[_Standards/WikiData/WD~body_of_water,15324]]"
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+produced_sound: '[[_Standards/WikiData/WD~Q110068397,110068397]]'
+location: '[[_Standards/WikiData/WD~body_of_water,15324]]'
 OmegaWiki_Defined_Meaning: 4133
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porto%20Covo%20July%202011-6.jpg
 Dewey_Decimal_Classification: 551.463
-Unicode_character: 🌊
+Unicode_character: "\U0001F30A"
 subreddit: HeavySeas
 Commons_category: Water waves
+dv_has_:
+  name_:
+    af: Seegolf
+    an: Onda marina
+    ar: موجة رياح
+    ast: fola
+    ay: Uxi
+    az: dalğa
+    be: ветравая хваля
+    be-tarask: ветравая хваля
+    bg: Вълнение
+    br: Tonn
+    ca: ona marina
+    ckb: شەپۆلی با
+    cs: mořská vlna
+    csb: wała
+    da: havbølge
+    de: Wasserwelle
+    de-ch: Wasserwelle
+    dsb: wódna kuźera
+    el: Κυματισμός
+    en: wind wave
+    en-ca: Wind wave
+    en-gb: wind wave
+    eo: venta ondo
+    es: ola
+    et: Veelained
+    eu: Olatu
+    fa: امواج سطح اقیانوس
+    fi: aalto
+    fr: vague
+    ga: tonn
+    gd: Sùmaid
+    gl: Onda
+    he: גל ים
+    hi: महासागरीय तरंगे
+    hr: Vodeni val
+    ht: Vag (non)
+    hy: քամուց առաջացող ալիքներ
+    id: ombak
+    is: Alda
+    it: onda marina
+    ja: 波
+    jv: Ombak
+    ka: ტალღები
+    kn: ಅಲೆ
+    ko: 파도
+    krj: balëd
+    ks: آبہٕ رَڑ
+    ky: деңиз толкундары
+    ln: Mbóngé
+    lt: Jūros banga
+    lv: ūdens viļņi
+    map-bms: Ombak
+    mg: Onja
+    mk: морски бран
+    ml: തിര
+    mn: Далайн гадаргуу дахь долгион
+    mnc: ᠪᠣᠯᠵᠣᠨ
+    ms: ombak
+    ms-arab: اومبق
+    nan: Éng
+    nb: havbølger
+    nl: vloeistofoppervlaktegolf
+    nn: havbølgje
+    oc: Èrsa
+    om: Wave
+    pl: falowanie
+    pt: ondas oceânicas de superfície
+    pt-br: Ondas oceânicas de superfície
+    qu: Machapu
+    ro: Val
+    ru: ветровые волны
+    rup: Undâ
+    scn: Unna marina
+    sh: Vodeni talas
+    si: Wind wave
+    sk: Vodná vlna
+    sl: vodni val
+    sq: Valët e detit
+    sr: морски талас
+    sr-ec: морски талас
+    sr-el: morski talas
+    su: Lambak
+    sv: vattenvåg
+    szl: wela wodnŏ
+    szy: cakeb
+    ta: கடலலை
+    te: waves
+    tr: dalga
+    tt: судагы дулкын
+    tt-cyrl: судагы дулкын
+    uk: хвилі на поверхні води
+    uz: mavj
+    vi: sóng biển
+    wuu: 波涛
+    xmf: რეღმეფი
+    yue: 浪
+    zh: 海浪
+    zh-cn: 海浪
+    zh-hans: 海浪
+    zh-hant: 海浪
+    zh-hk: 海浪
+    zh-sg: 海浪
+    zh-tw: 海浪
 ---
-
 # [[Wind_Wave]] 🌊 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wind_wave,165848|WD~Wind_wave,165848]]  

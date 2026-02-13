@@ -1,25 +1,122 @@
 ---
 aliases:
-  - Total Fertility Rate
-  - Fertility-Rate
+- angka kesuburan total
+- fekundindico
+- Fertilitetsrate
+- Fertility-Rate
+- kokonaishedelmällisyysluku
+- rata fertilității
+- samla fruktbarheitstal
+- Samlet fruktbarhetstall
+- Stopa plodnosti
+- Summaarne sündimuskordaja
+- summārais dzimstības koeficients
+- tasa de fertilidad
+- tasso di fecondità totale
+- taux de fécondité
+- taxa de fecundidade
+- taxa de fecunditat
+- Taxa de fertilidade
+- teljes termékenységi arányszám
+- Toplam doğurganlık hızı
+- total fertilitet
+- Total Fertility Rate
+- tổng tỷ suất sinh
+- ugalkortasun-tasa oso
+- vruchtbaarheidscijfer
+- współczynnik dzietności
+- Zusammengefasste Fruchtbarkeitsziffer
+- úhrnná plodnost
+- Συνολικό ποσοστό γονιμότητας
+- вкупна плодност
+- Коефициент на плодовитост
+- Сумарний коефіцієнт народжуваності
+- Сумарны каэфіцыент нараджальнасці
+- Суммарный коэффициент рождаемости
+- Туу коэффициенті
+- שיעור פריון כולל
+- معدل الخصوبة الكلي
+- میزان کلی باروری
+- پیدائشی شرح
+- कुल प्रजनन दर
+- সমুদয় প্রজনন ক্ষমতার হার
+- கருவள வீதம்
+- ອັດຕາການຈະເລີນພັນ
+- 合計特殊出生率
+- 总和生育率
+- 總和生育率
+- 합계출산율
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]"
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]"
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]'
 has_id_wikidata: Q285897
+dv_has_:
+  name_:
+    ar: معدل الخصوبة الكلي
+    be: Сумарны каэфіцыент нараджальнасці
+    bg: Коефициент на плодовитост
+    bn: সমুদয় প্রজনন ক্ষমতার হার
+    ca: taxa de fecunditat
+    cs: úhrnná plodnost
+    da: Fertilitetsrate
+    de: Zusammengefasste Fruchtbarkeitsziffer
+    el: Συνολικό ποσοστό γονιμότητας
+    en: total fertility rate
+    eo: fekundindico
+    es: tasa de fertilidad
+    et: Summaarne sündimuskordaja
+    eu: ugalkortasun-tasa oso
+    fa: میزان کلی باروری
+    fi: kokonaishedelmällisyysluku
+    fr: taux de fécondité
+    gl: Taxa de fertilidade
+    he: שיעור פריון כולל
+    hi: कुल प्रजनन दर
+    hr: Stopa plodnosti
+    hu: teljes termékenységi arányszám
+    id: angka kesuburan total
+    it: tasso di fecondità totale
+    ja: 合計特殊出生率
+    kk: Туу коэффициенті
+    ko: 합계출산율
+    lo: ອັດຕາການຈະເລີນພັນ
+    lv: summārais dzimstības koeficients
+    mk: вкупна плодност
+    nb: Samlet fruktbarhetstall
+    nl: vruchtbaarheidscijfer
+    nn: samla fruktbarheitstal
+    pl: współczynnik dzietności
+    pt: taxa de fecundidade
+    ro: rata fertilității
+    ru: Суммарный коэффициент рождаемости
+    sh: Stopa plodnosti
+    sv: total fertilitet
+    ta: கருவள வீதம்
+    tr: Toplam doğurganlık hızı
+    uk: Сумарний коефіцієнт народжуваності
+    ur: پیدائشی شرح
+    vi: tổng tỷ suất sinh
+    zh: 总和生育率
+    zh-cn: 总和生育率
+    zh-hans: 总和生育率
+    zh-hant: 總和生育率
+    zh-hk: 總和生育率
+    zh-sg: 总和生育率
+    zh-tw: 總和生育率
 ---
 # [[Fertility-Rate]] 
 

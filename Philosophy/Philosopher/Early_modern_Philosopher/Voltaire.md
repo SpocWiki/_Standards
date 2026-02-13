@@ -1,104 +1,158 @@
 ---
 aliases:
-  - François-Marie Arouet
-  - Voltaire
+- François-Marie Arouet
+- Fu-e-tay伏爾泰
+- jan Ote
+- Vol'ter
+- Voltaire
+- Voltarius
+- volter
+- Volteras
+- Volteri
+- Voltērs
+- Vuolters
+- Βολταίρος
+- Вальтэр
+- Волтер
+- Вольтер
+- Франсоа Волтер
+- Վոլթեր
+- Վոլտեր
+- וואלטער
+- וולטר
+- فولتير
+- والٹیئر
+- والٽئر
+- ولتر
+- ولټېر
+- ڤولتر
+- ڤولطير
+- ڤۆڵتێر
+- ۋولتىر
+- भोल्टेयर
+- भोल्टेर
+- वोल्टेयर
+- वोल्टेर
+- वोल्तेयर
+- व्हॉल्टेर
+- व्होल्तेर
+- ফ্রাঁসোয়া-মারি আরওয়ে
+- ভলতেয়ৰ
+- ਵਾਲਟੇਅਰ
+- வோல்ட்டயர்
+- వోల్టెయిర్
+- ವೊಲ್ಟೇರ್
+- വോൾട്ടയർ
+- වොල්ටෙයාර්
+- วอลแตร์
+- ဗော်လ်တဲယား
+- ვოლტერი
+- ᏬᎵᏖᎵ
+- វ៉ុលទែរ
+- ᱵᱷᱚᱞᱛᱮᱭᱟᱨ
+- ⴼⵓⵍⵟⵉⵔ
+- ヴォルテール
+- 伏厄太
+- 伏尔泰
+- 伏爾泰
+- 볼테르
 has_id_wikidata: Q9068
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Académie_Française,161806]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Accademia_della_Crusca,338489]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Letters,_History_and_Antiquities,1792159]]'
-  - '[[_Standards/WikiData/WD~freemasonry,41726]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Académie_Française,161806]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Accademia_della_Crusca,338489]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Letters,_History_and_Antiquities,1792159]]'
+- '[[_Standards/WikiData/WD~freemasonry,41726]]'
 lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Zadig_or_Destiny,140057]]'
-  - '[[_Standards/WikiData/WD~Candide,215894]]'
-  - '[[_Standards/WikiData/WD~Zaïre,377950]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_philosophique,656976]]'
-  - '[[_Standards/WikiData/WD~Mahomet,1431518]]'
-  - '[[_Standards/WikiData/WD~The_Huron;_or,_Pupil_of_Nature,1985932]]'
-  - '[[_Standards/WikiData/WD~Letters_on_the_English,2551373]]'
-  - '[[_Standards/WikiData/WD~Correspondence_of_Voltaire,19150121]]'
-  - '[[_Standards/WikiData/WD~Correspondance_avec_le_roi_de_Prusse_Frédéric_II,19150125]]'
+- '[[_Standards/WikiData/WD~Zadig_or_Destiny,140057]]'
+- '[[_Standards/WikiData/WD~Candide,215894]]'
+- '[[_Standards/WikiData/WD~Zaïre,377950]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_philosophique,656976]]'
+- '[[_Standards/WikiData/WD~Mahomet,1431518]]'
+- '[[_Standards/WikiData/WD~The_Huron;_or,_Pupil_of_Nature,1985932]]'
+- '[[_Standards/WikiData/WD~Letters_on_the_English,2551373]]'
+- '[[_Standards/WikiData/WD~Correspondence_of_Voltaire,19150121]]'
+- '[[_Standards/WikiData/WD~Correspondance_avec_le_roi_de_Prusse_Frédéric_II,19150125]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Lucian_of_Samosata,177847]]'
-  - '[[_Standards/WikiData/WD~Pierre_Bayle,214816]]'
-  - '[[_Standards/WikiData/WD~Ibn_Tufayl,251259]]'
-  - '[[_Standards/WikiData/WD~Nicolas_Malebranche,309818]]'
-  - '[[_Standards/WikiData/WD~Henry_St_John,_1st_Viscount_Bolingbroke,332470]]'
-  - '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
-  - '[[_Standards/WikiData/WD~Jean_Racine,742]]'
-  - '[[_Standards/WikiData/WD~Plato,859]]'
-  - '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-  - '[[_Standards/WikiData/WD~Blaise_Pascal,1290]]'
-  - '[[_Standards/WikiData/WD~Cicero,1541]]'
-  - '[[_Standards/WikiData/WD~Confucius,4604]]'
-  - '[[_Standards/WikiData/WD~Miguel_de_Cervantes,5682]]'
-  - '[[_Standards/WikiData/WD~John_Locke,9353]]'
-  - '[[_Standards/WikiData/WD~Zoroaster,35811]]'
+- '[[_Standards/WikiData/WD~Lucian_of_Samosata,177847]]'
+- '[[_Standards/WikiData/WD~Pierre_Bayle,214816]]'
+- '[[_Standards/WikiData/WD~Ibn_Tufayl,251259]]'
+- '[[_Standards/WikiData/WD~Nicolas_Malebranche,309818]]'
+- '[[_Standards/WikiData/WD~Henry_St_John,_1st_Viscount_Bolingbroke,332470]]'
+- '[[_Standards/WikiData/WD~William_Shakespeare,692]]'
+- '[[_Standards/WikiData/WD~Jean_Racine,742]]'
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
+- '[[_Standards/WikiData/WD~Blaise_Pascal,1290]]'
+- '[[_Standards/WikiData/WD~Cicero,1541]]'
+- '[[_Standards/WikiData/WD~Confucius,4604]]'
+- '[[_Standards/WikiData/WD~Miguel_de_Cervantes,5682]]'
+- '[[_Standards/WikiData/WD~John_Locke,9353]]'
+- '[[_Standards/WikiData/WD~Zoroaster,35811]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Panthéon,188856]]'
-  - '[[_Standards/WikiData/WD~Abbaye_de_Sellières,1259463]]'
+- '[[_Standards/WikiData/WD~Panthéon,188856]]'
+- '[[_Standards/WikiData/WD~Abbaye_de_Sellières,1259463]]'
 occupation:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~encyclopédistes,744738]]'
-  - '[[_Standards/WikiData/WD~poet_lawyer,1209498]]'
-  - '[[_Standards/WikiData/WD~political_scientist,1238570]]'
-  - '[[_Standards/WikiData/WD~correspondent,3589290]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~encyclopédistes,744738]]'
+- '[[_Standards/WikiData/WD~poet_lawyer,1209498]]'
+- '[[_Standards/WikiData/WD~political_scientist,1238570]]'
+- '[[_Standards/WikiData/WD~correspondent,3589290]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 movement:
-  - '[[_Standards/WikiData/WD~freethought,210115]]'
-  - '[[_Standards/WikiData/WD~deism,620629]]'
+- '[[_Standards/WikiData/WD~freethought,210115]]'
+- '[[_Standards/WikiData/WD~deism,620629]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~National_Library_of_Russia,267566]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~National_Library_of_Russia,267566]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 different_from: '[[_Standards/WikiData/WD~Voltaire,354676]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]'
-  - "[[_Standards/WikiData/WD~Temps,_espaces_et_histoires._Monuments_et_héritage_raciste_et_colonial_dans_l'espace_public_genevois_état_des_lieux_historique,122870672]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]'
+- "[[_Standards/WikiData/WD~Temps,_espaces_et_histoires._Monuments_et_héritage_raciste_et_colonial_dans_l'espace_public_genevois_état_des_lieux_historique,122870672]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 educated_at: '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
 owner_of: "[[_Standards/WikiData/WD~Voltaire's_château,2969210]]"
 given_name: '[[_Standards/WikiData/WD~François_Marie,5493110]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Voltaire,18175526]]'
 mother: "[[_Standards/WikiData/WD~Marguerite_d'Aumard,21177229]]"
 position_held:
-  - '[[_Standards/WikiData/WD~historiographer_of_France,38566130]]'
-  - '[[_Standards/WikiData/WD~seat_33_of_the_Académie_française,70495999]]'
+- '[[_Standards/WikiData/WD~historiographer_of_France,38566130]]'
+- '[[_Standards/WikiData/WD~seat_33_of_the_Académie_française,70495999]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 father: "[[_Standards/WikiData/WD~François_d'Arouet,64990775]]"
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
@@ -118,8 +172,8 @@ Commons_category: Voltaire
 Commons_Creator_page: Voltaire
 Commons_gallery: Voltaire
 pseudonym:
-  - Voltaire
-  - Bénédictin
+- Voltaire
+- Bénédictin
 BHCL_UUID: c2a5ef3b-0258-44d5-9070-a8d0333de350
 date_of_birth: 1694-11-21T00:00:00Z
 name_in_native_language: Voltaire
@@ -132,21 +186,211 @@ date_of_death: 1778-05-30T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%A1%D0%AD1.%20%D0%90%D0%B2%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84.%20%D0%90%D0%B2%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%8B.%205.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Largilli%C3%A8re%20-%20Portrait%20de%20Voltaire%20%281694-1778%29%20en%201718%20-%20P208%20-%20Mus%C3%A9e%20Carnavalet%20-%202.jpg
 image_of_grave:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Voltaire%27s%20tomb%20%2835573725421%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Voltaire%20au%20Panth%C3%A9on.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Voltaire%27s%20tomb%20%2835573725421%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tombe%20de%20Voltaire%20au%20Panth%C3%A9on.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20Voltaire%2C%20Lausanne.JPG
 described_at_URL: http://www.digiporta.net/index.php?id=712440815
 Academia_edu_profile_URL: https://www.academia.edu/People/Voltaire
 ISNI: 0000000121280652
 NLC_authorities: 000139932
 Provenio_UUID:
-  - 6cb0dd93-1b66-40f7-9a0b-54dd60d7a68a
-  - 8d2bcb0e-86aa-4b7b-99f7-0a08f21878bd
+- 6cb0dd93-1b66-40f7-9a0b-54dd60d7a68a
+- 8d2bcb0e-86aa-4b7b-99f7-0a08f21878bd
 P1015: 90672881
 Europeana_entity: agent/base/59833
 Regensburg_Classification: BF 4870
+dv_has_:
+  name_:
+    af: Voltaire
+    am: Voltaire
+    an: Voltaire
+    anp: वोल्टेर
+    ar: فولتير
+    ary: ڤولطير
+    arz: فولتير
+    as: ভলতেয়ৰ
+    ast: Voltaire
+    av: Волтер
+    awa: भोल्टेर
+    az: Volter
+    azb: ولتر
+    ba: Вольтер
+    bcl: Voltaire
+    be: Вальтэр
+    be-tarask: Вальтэр
+    bg: Волтер
+    bho: वोल्तेयर
+    bjn: Voltaire
+    bn: ফ্রাঁসোয়া-মারি আরওয়ে
+    br: Voltaire
+    bs: Voltaire
+    btm: Voltaire
+    bxr: Вольтер
+    ca: Voltaire
+    cbk-zam: Voltaire
+    cdo: Voltaire
+    ce: Вольтер
+    ceb: Voltaire
+    chr: ᏬᎵᏖᎵ
+    ckb: ڤۆڵتێر
+    crh: Volter
+    cs: Voltaire
+    cv: Вольтер
+    cy: Voltaire
+    da: Voltaire
+    de: Voltaire
+    de-ch: Voltaire
+    diq: Voltaire
+    el: Βολταίρος
+    eml: Voltaire
+    en: Voltaire
+    en-ca: Voltaire
+    en-gb: Voltaire
+    en-us: Voltaire
+    eo: Voltaire
+    es: Voltaire
+    et: Voltaire
+    eu: Voltaire
+    ext: Voltaire
+    fa: ولتر
+    fi: Voltaire
+    fr: Voltaire
+    frr: Voltaire
+    fy: Voltaire
+    ga: Voltaire
+    gd: Voltaire
+    gl: Voltaire
+    gn: Voltaire
+    gom: व्हॉल्टेर
+    gor: Voltaire
+    gsw: Voltaire
+    guw: Voltaire
+    ha: Voltaire
+    he: וולטר
+    hi: वोल्टेयर
+    hif: Voltaire
+    hr: Voltaire
+    ht: Voltaire
+    hu: Voltaire
+    hy: Վոլտեր
+    hyw: Վոլթեր
+    ia: Voltaire
+    id: Voltaire
+    ie: Voltaire
+    ilo: Voltaire
+    io: Voltaire
+    is: Voltaire
+    it: Voltaire
+    ja: ヴォルテール
+    jbo: volter
+    jv: Voltaire
+    ka: ვოლტერი
+    kab: Voltaire
+    kbp: Voltaire
+    kk: Вольтер
+    km: វ៉ុលទែរ
+    kn: ವೊಲ್ಟೇರ್
+    ko: 볼테르
+    ku: Voltaire
+    kw: Voltaire
+    ky: Вольтер
+    la: Voltarius
+    lb: Voltaire
+    lfn: Voltaire
+    li: Voltaire
+    lij: Voltaire
+    lld: Voltaire
+    lmo: Voltaire
+    lrc: ڤولتر
+    lt: Volteras
+    lv: Voltērs
+    lzh: 伏爾泰
+    mai: भोल्टेर
+    mg: Voltaire
+    mk: Франсоа Волтер
+    ml: വോൾട്ടയർ
+    mn: Вольтер
+    mr: व्होल्तेर
+    mrj: Вольтер
+    ms: Voltaire
+    mt: Voltaire
+    mul: Voltaire
+    mwl: Voltaire
+    my: ဗော်လ်တဲယား
+    myv: Вольтер
+    mzn: ولتر
+    nah: Voltaire
+    nan: Voltaire
+    nb: Voltaire
+    nds: Voltaire
+    ne: भोल्टेयर
+    nl: Voltaire
+    nn: Voltaire
+    oc: Voltaire
+    olo: Voltaire
+    pa: ਵਾਲਟੇਅਰ
+    pap: Voltaire
+    pcd: Voltaire
+    pcm: Voltaire
+    pl: Voltaire
+    pms: Voltaire
+    pnb: والٹیئر
+    ps: ولټېر
+    pt: Voltaire
+    pt-br: Voltaire
+    qu: Voltaire
+    rki: ဗော်လ်တဲယား
+    ro: Voltaire
+    roa-tara: Voltaire
+    ru: Вольтер
+    rue: Волтер
+    sah: Вольтер
+    sat: ᱵᱷᱚᱞᱛᱮᱭᱟᱨ
+    sc: Voltaire
+    scn: Voltaire
+    sco: Voltaire
+    sd: والٽئر
+    sgs: Vuolters
+    sh: Voltaire
+    shi: Voltaire
+    si: වොල්ටෙයාර්
+    sk: Voltaire
+    sl: Voltaire
+    sq: Volteri
+    sr: Волтер
+    sv: Voltaire
+    sw: Voltaire
+    szy: Fu-e-tay伏爾泰
+    ta: வோல்ட்டயர்
+    te: వోల్టెయిర్
+    tg: Волтер
+    th: วอลแตร์
+    tl: Voltaire
+    tok: jan Ote
+    tpi: Voltaire
+    tr: Voltaire
+    tt: Вольтер
+    udm: Вольтер
+    ug: ۋولتىر
+    uk: Вольтер
+    ur: والٹیئر
+    uz: Voltaire
+    vec: Voltaire
+    vep: Vol'ter
+    vi: Voltaire
+    vo: Voltaire
+    vro: Voltaire
+    war: Voltaire
+    wuu: 伏厄太
+    xmf: ვოლტერი
+    yi: וואלטער
+    yue: 伏爾泰
+    za: Voltaire
+    zgh: ⴼⵓⵍⵟⵉⵔ
+    zh: 伏爾泰
+    zh-hans: 伏尔泰
+    zh-tw: 伏爾泰
 ---
-
 # [[Voltaire]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Voltaire,9068|WD~Voltaire,9068]] 

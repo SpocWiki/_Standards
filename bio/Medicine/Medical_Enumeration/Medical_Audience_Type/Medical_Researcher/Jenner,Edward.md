@@ -1,62 +1,103 @@
 ---
 aliases:
-  - Edward_Jenner
-  - Edward Jenner
-  - Jenner
-  - Jenner,Edward
+- Ay-de-hua.Cen-na愛德華·詹納
+- Eduardus Iennerus
+- Edvard Cenner
+- Edvards Dženners
+- Edward Jenner
+- Edward_Jenner
+- Jenner
+- Jenner Eduard
+- Jenner,Edward
+- Έντουαρντ Τζέννερ
+- Дженнер Эдвард
+- Едвард Џенер
+- Едвард Дженнер
+- Едуард Дженер
+- Эдўард Джэнэр
+- Эдвард Дженнер
+- Эдуард Джэнер
+- Էդվարդ Ջեններ
+- אדוארד ג'נר
+- إدوارد جينر
+- ئێدوارد جێنەر
+- ادوارد جنر
+- ادوارد جينر
+- اډوارډ جېنر
+- ایڈورڈ جینر
+- एडवर्ड जेनर
+- एडवार्ड जेनर
+- एड्वर्ड् जेन्नर्
+- এডওয়ার্ড জেনার
+- এডৱাৰ্ড জেনাৰ
+- ਐਡਵਰਡ ਜੇਨਰ
+- எட்வர்ட் ஜென்னர்
+- ఎడ్వర్డ్ జెన్నర్
+- ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್
+- എഡ്വേർഡ് ജെന്നർ
+- එඩ්වඩ් ජෙනර්
+- เอดเวิร์ด เจนเนอร์
+- အက်ဒွပ် ဂျင်းနား
+- ედუარდ ჯენერი
+- エドワード・ジェンナー
+- 愛德華·詹納
+- 爱德华·琴纳
+- 爱德华·詹纳
+- 詹納
+- 에드워드 제너
 has_id_wikidata: Q40852
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~vaccination,192995]]'
-  - '[[_Standards/WikiData/WD~smallpox_vaccine,1037810]]'
+- '[[_Standards/WikiData/WD~vaccination,192995]]'
+- '[[_Standards/WikiData/WD~smallpox_vaccine,1037810]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_St_Andrews,216273]]'
-  - "[[_Standards/WikiData/WD~St_George's,_University_of_London,772421]]"
-  - '[[_Standards/WikiData/WD~Cirencester_Grammar_School,5121867]]'
-  - "[[_Standards/WikiData/WD~Katharine_Lady_Berkeley's_School,15234322]]"
+- '[[_Standards/WikiData/WD~University_of_St_Andrews,216273]]'
+- "[[_Standards/WikiData/WD~St_George's,_University_of_London,772421]]"
+- '[[_Standards/WikiData/WD~Cirencester_Grammar_School,5121867]]'
+- "[[_Standards/WikiData/WD~Katharine_Lady_Berkeley's_School,15234322]]"
 given_name: '[[_Standards/WikiData/WD~Edward,278835]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~John_Hunter,431881]]'
 student_of: '[[_Standards/WikiData/WD~John_Hunter,505981]]'
 place_of_death: '[[_Standards/WikiData/WD~Berkeley,584443]]'
 place_of_birth: '[[_Standards/WikiData/WD~Berkeley,584443]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 occupation:
-  - '[[_Standards/WikiData/WD~biologist,864503]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Linnean_Society_of_London,24591090]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_College_of_Physicians_of_Edinburgh,30348773]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Linnean_Society_of_London,24591090]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_College_of_Physicians_of_Edinburgh,30348773]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
 family_name: '[[_Standards/WikiData/WD~Jenner,21126483]]'
 father: '[[_Standards/WikiData/WD~Stephen_Jenner,21458066]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Edward_Jenner,28048583]]'
-  - '[[_Standards/WikiData/WD~Edward_Jenner_vaccinating_his_son,131675964]]'
+- '[[_Standards/WikiData/WD~Edward_Jenner,28048583]]'
+- '[[_Standards/WikiData/WD~Edward_Jenner_vaccinating_his_son,131675964]]'
 sibling: '[[_Standards/WikiData/WD~Henry_Jenner,47454952]]'
 spouse: '[[_Standards/WikiData/WD~Catherine_Kingscote,75567878]]'
 child:
-  - '[[_Standards/WikiData/WD~Edward_Robert_Jenner,75589402]]'
-  - '[[_Standards/WikiData/WD~Robert_Fitzhardinge_Jenner,75589409]]'
-  - '[[_Standards/WikiData/WD~Catherine_Fitzhardinge_Jenner,75589468]]'
+- '[[_Standards/WikiData/WD~Edward_Robert_Jenner,75589402]]'
+- '[[_Standards/WikiData/WD~Robert_Fitzhardinge_Jenner,75589409]]'
+- '[[_Standards/WikiData/WD~Catherine_Fitzhardinge_Jenner,75589468]]'
 mother: '[[_Standards/WikiData/WD~Sarah_Head,75933711]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1749-05-17T00:00:00Z
@@ -74,14 +115,119 @@ name_in_native_language: Edward Jenner
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Jenner%20by%20James%20Northcote.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20edward%20jenner.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=519392869
-  - http://www.digiporta.net/index.php?id=813351689
-  - http://www.digiporta.net/index.php?id=934778039
+- http://www.digiporta.net/index.php?id=519392869
+- http://www.digiporta.net/index.php?id=813351689
+- http://www.digiporta.net/index.php?id=934778039
 ISNI: 0000000081123475
 Krugosvet_article: medicina/DZHENNER_EDUARD.html
 Libris_URI: zw9cdkch2004bb5
+dv_has_:
+  name_:
+    af: Edward Jenner
+    an: Edward Jenner
+    ar: إدوارد جينر
+    arz: ادوارد جينر
+    as: এডৱাৰ্ড জেনাৰ
+    ast: Edward Jenner
+    az: Edvard Cenner
+    azb: ادوارد جنر
+    be: Эдуард Джэнер
+    be-tarask: Эдўард Джэнэр
+    bg: Едуард Дженер
+    bn: এডওয়ার্ড জেনার
+    bs: Edward Jenner
+    ca: Edward Jenner
+    ckb: ئێدوارد جێنەر
+    cs: Edward Jenner
+    cy: Edward Jenner
+    da: Edward Jenner
+    de: Edward Jenner
+    el: Έντουαρντ Τζέννερ
+    en: Edward Jenner
+    eo: Edward Jenner
+    es: Edward Jenner
+    et: Edward Jenner
+    eu: Edward Jenner
+    fa: ادوارد جنر
+    fi: Edward Jenner
+    fo: Edward Jenner
+    fr: Edward Jenner
+    frr: Edward Jenner
+    fy: Edward Jenner
+    ga: Edward Jenner
+    gl: Edward Jenner
+    he: אדוארד ג'נר
+    hi: एडवार्ड जेनर
+    hr: Edward Jenner
+    hu: Edward Jenner
+    hy: Էդվարդ Ջեններ
+    ia: Edward Jenner
+    id: Edward Jenner
+    io: Edward Jenner
+    is: Edward Jenner
+    it: Edward Jenner
+    ja: エドワード・ジェンナー
+    jv: Edward Jenner
+    ka: ედუარდ ჯენერი
+    kab: Edward Jenner
+    kn: ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್
+    ko: 에드워드 제너
+    ku: Edward Jenner
+    la: Eduardus Iennerus
+    lb: Edward Jenner
+    lt: Edward Jenner
+    lv: Edvards Dženners
+    mg: Edward Jenner
+    mk: Едвард Џенер
+    ml: എഡ്വേർഡ് ജെന്നർ
+    mr: एडवर्ड जेनर
+    ms: Edward Jenner
+    mul: Edward Jenner
+    my: အက်ဒွပ် ဂျင်းနား
+    nan: Edward Jenner
+    nb: Edward Jenner
+    new: एडवार्ड जेनर
+    nl: Edward Jenner
+    nn: Edward Jenner
+    oc: Edward Jenner
+    pa: ਐਡਵਰਡ ਜੇਨਰ
+    pam: Edward Jenner
+    pl: Edward Jenner
+    ps: اډوارډ جېنر
+    pt: Edward Jenner
+    pt-br: Edward Jenner
+    qu: Edward Jenner
+    ro: Edward Jenner
+    ru: Эдвард Дженнер
+    sa: एड्वर्ड् जेन्नर्
+    sah: Дженнер Эдвард
+    sco: Edward Jenner
+    sh: Edward Jenner
+    si: එඩ්වඩ් ජෙනර්
+    sk: Edward Jenner
+    sl: Edward Jenner
+    sq: Edward Jenner
+    sr: Едвард Џенер
+    sr-ec: Едвард Џенер
+    sv: Edward Jenner
+    szy: Ay-de-hua.Cen-na愛德華·詹納
+    ta: எட்வர்ட் ஜென்னர்
+    te: ఎడ్వర్డ్ జెన్నర్
+    th: เอดเวิร์ด เจนเนอร์
+    tl: Edward Jenner
+    tr: Edward Jenner
+    uk: Едвард Дженнер
+    ur: ایڈورڈ جینر
+    uz: Jenner Eduard
+    vi: Edward Jenner
+    wa: Edward Jenner
+    war: Edward Jenner
+    wuu: 爱德华·詹纳
+    xmf: ედუარდ ჯენერი
+    yue: 詹納
+    zh: 愛德華·詹納
+    zh-hans: 爱德华·琴纳
 ---
-
 # [[Jenner,Edward]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Edward_Jenner,40852|WD~Edward_Jenner,40852]] 

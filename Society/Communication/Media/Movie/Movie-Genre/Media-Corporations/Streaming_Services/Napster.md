@@ -1,8 +1,64 @@
 ---
 has_id_wikidata: Q275141
+dv_has_:
+  name_:
+    ar: نابستر
+    ast: Napster
+    az: Napster
+    ca: Napster
+    cs: Napster
+    da: Napster
+    de: Napster
+    el: Napster
+    en: Napster
+    es: Napster
+    et: Napster
+    eu: Napster
+    fa: نپستر
+    fi: Napster
+    fr: Napster
+    he: נאפסטר
+    hi: नैप्स्टर
+    hu: Napster
+    id: Napster
+    it: Napster
+    ja: Napster
+    kn: ನಾಪ್ಸ್ಟರ್
+    ko: 냅스터
+    lmo: Napster
+    lt: Napster
+    ms: Napster
+    nb: Napster
+    nl: Napster
+    nn: Napster
+    pl: Napster
+    pt: Napster
+    ro: Napster
+    ru: Napster
+    sk: Napster
+    sl: Napster
+    sv: Napster
+    ta: நாப்ஸ்டர்
+    tr: Napster
+    uk: Napster
+    vi: Napster
+    zh: Napster
+    zh-cn: Napster
+    zh-hans: Napster
+    zh-hant: Napster
+    zh-hk: Napster
+    zh-sg: Napster
+    zh-tw: Napster
+aliases:
+- Napster
+- נאפסטר
+- نابستر
+- نپستر
+- नैप्स्टर
+- நாப்ஸ்டர்
+- ನಾಪ್ಸ್ಟರ್
+- 냅스터
 ---
-
-
 #has_/time_/started :: 1999-06-01
 #has_/time_/stopped :: 2002-06-01
 

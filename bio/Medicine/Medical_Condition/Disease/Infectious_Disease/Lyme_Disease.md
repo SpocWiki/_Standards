@@ -1,59 +1,121 @@
 ---
 aliases:
-  - Lyme disease
-  - Lyme borreliosis
-  - Lyme_Disease
-  - Lyme Disease
+- boala Lyme
+- borelioza
+- boreliozo Lyme
+- borrelia
+- borrelioosi
+- borreliose
+- bệnh Lyme
+- Ciwon Lyme
+- clefyd Lyme
+- Doenza de Lyme
+- doença de Lyme
+- enfermedad de Lyme
+- Enfermedá de Lyme
+- Galar Lyme
+- Isifo se-Lyme
+- Laimas slimība
+- Laimo liga
+- Lajmska bolest
+- Lajmska borelioza
+- Laym xəstəliyi
+- Lyme borreliosis
+- Lyme disease
+- Lyme gaitz
+- Lyme hastalığı
+- Lyme kasalligi ( Shomil borreliozi)
+- Lyme'i tõbi
+- Lyme-Borrelios
+- Lyme-Borreliose
+- Lyme-kór
+- lymeská nemoc
+- Lyme_Disease
+- lymska borelioza
+- Lymská borelióza
+- maladie de Lyme
+- malaltia de Lyme
+- malattia di Lyme
+- Må d' Lyme
+- Penyakit Lyme
+- ziekte van Lyme
+- Βορρελίωση
+- барэліёз
+- болезнь Лайма
+- Боррелиоз
+- лајмска болест
+- Лайм ауруы
+- Лаймска болест
+- Лаймска хорота
+- хвороба Лайма
+- Լայմ Հիւանդութիւն
+- Լայմի հիվանդություն
+- ליים קרענק
+- מחלת ליים
+- بیماری لایم
+- داء لايم
+- لايم ناروغي
+- لایم مریضلیگی
+- লাইম রোগ
+- ଲାଇମ ରୋଗ
+- ലൈം രോഗം
+- ලයිම් රෝගය
+- โรคไลม์
+- ພະຍາດໄລມ
+- ライム病
+- 莱姆病
+- 萊姆病
+- 라임병
 has_id_wikidata: Q201989
 subreddit: Lyme
 Commons_gallery: Lyme disease
 health_specialty:
-  - '[[_Standards/WikiData/WD~neurology,83042]]'
-  - '[[_Standards/WikiData/WD~dermatology,171171]]'
-  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
-  - '[[_Standards/WikiData/WD~cardiology,10379]]'
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~dermatology,171171]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~cardiology,10379]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
-  - '[[_Standards/WikiData/WD~amoxicillin,201928]]'
-  - '[[_Standards/WikiData/WD~cefuroxime,413728]]'
-  - '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
-  - '[[_Standards/WikiData/WD~doxycycline,422442]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~amoxicillin,201928]]'
+- '[[_Standards/WikiData/WD~cefuroxime,413728]]'
+- '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~arthritis,170990]]'
-  - '[[_Standards/WikiData/WD~myocarditis,186235]]'
-  - '[[_Standards/WikiData/WD~heart_arrhythmia,189331]]'
-  - '[[_Standards/WikiData/WD~myalgia,474959]]'
-  - '[[_Standards/WikiData/WD~arthralgia,683498]]'
-  - '[[_Standards/WikiData/WD~paresthesia,769220]]'
-  - '[[_Standards/WikiData/WD~hypertrophic_cardiomyopathy,1364270]]'
-  - '[[_Standards/WikiData/WD~fasciculation,1397878]]'
-  - '[[_Standards/WikiData/WD~encephalomyelitis,1634879]]'
-  - '[[_Standards/WikiData/WD~neuritis,2307256]]'
-  - '[[_Standards/WikiData/WD~meningoencephalitis,2346415]]'
-  - '[[_Standards/WikiData/WD~erythema_chronicum_migrans,2558634]]'
-  - '[[_Standards/WikiData/WD~vertigo,10686316]]'
-  - '[[_Standards/WikiData/WD~chronic_neuropathic_pain,58490835]]'
-  - '[[_Standards/WikiData/WD~fatigue,9690]]'
-  - '[[_Standards/WikiData/WD~headache,86]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
-  - '[[_Standards/WikiData/WD~meningitis,48143]]'
+- '[[_Standards/WikiData/WD~arthritis,170990]]'
+- '[[_Standards/WikiData/WD~myocarditis,186235]]'
+- '[[_Standards/WikiData/WD~heart_arrhythmia,189331]]'
+- '[[_Standards/WikiData/WD~myalgia,474959]]'
+- '[[_Standards/WikiData/WD~arthralgia,683498]]'
+- '[[_Standards/WikiData/WD~paresthesia,769220]]'
+- '[[_Standards/WikiData/WD~hypertrophic_cardiomyopathy,1364270]]'
+- '[[_Standards/WikiData/WD~fasciculation,1397878]]'
+- '[[_Standards/WikiData/WD~encephalomyelitis,1634879]]'
+- '[[_Standards/WikiData/WD~neuritis,2307256]]'
+- '[[_Standards/WikiData/WD~meningoencephalitis,2346415]]'
+- '[[_Standards/WikiData/WD~erythema_chronicum_migrans,2558634]]'
+- '[[_Standards/WikiData/WD~vertigo,10686316]]'
+- '[[_Standards/WikiData/WD~chronic_neuropathic_pain,58490835]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~meningitis,48143]]'
 medical_examination:
-  - '[[_Standards/WikiData/WD~biopsy,179991]]'
-  - '[[_Standards/WikiData/WD~ELISA,332126]]'
-  - '[[_Standards/WikiData/WD~lumbar_puncture,719444]]'
-  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
-  - '[[_Standards/WikiData/WD~western_blot,48743]]'
+- '[[_Standards/WikiData/WD~biopsy,179991]]'
+- '[[_Standards/WikiData/WD~ELISA,332126]]'
+- '[[_Standards/WikiData/WD~lumbar_puncture,719444]]'
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~western_blot,48743]]'
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~Ixodes_scapularis,1497962]]'
-  - '[[_Standards/WikiData/WD~Ixodes_pacificus,2714455]]'
-  - '[[_Standards/WikiData/WD~tick_borne_transmission,15304524]]'
+- '[[_Standards/WikiData/WD~Ixodes_scapularis,1497962]]'
+- '[[_Standards/WikiData/WD~Ixodes_pacificus,2714455]]'
+- '[[_Standards/WikiData/WD~tick_borne_transmission,15304524]]'
 has_cause: '[[_Standards/WikiData/WD~Borrelia_burgdorferi,2723634]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 part_of: '[[_Standards/WikiData/WD~borreliosis,16006998]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~borreliosis,16006998]]'
-  - '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~borreliosis,16006998]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 different_from: '[[_Standards/WikiData/WD~Chronic_Lyme_disease,17103401]]'
 instance_of: '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
 minimal_incubation_period_in_humans: 9
@@ -63,23 +125,108 @@ OmegaWiki_Defined_Meaning: 717725
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erythema%20migrans%20-%20erythematous%20rash%20in%20Lyme%20disease%20-%20PHIL%209875.jpg
 Commons_category: Borreliosis
 exact_match:
-  - http://identifiers.org/doid/DOID:11729
-  - http://purl.obolibrary.org/obo/DOID_11729
-  - http://www.orpha.net/ORDO/Orphanet_91546
+- http://identifiers.org/doid/DOID:11729
+- http://purl.obolibrary.org/obo/DOID_11729
+- http://www.orpha.net/ORDO/Orphanet_91546
 ICD_9_CM: 088.81
 Dewey_Decimal_Classification: 616.924 6
 ICD_10_CM:
-  - A69.2
-  - A69.20
+- A69.2
+- A69.20
 UMLS_CUI:
-  - C0024198
-  - C0752235
+- C0024198
+- C0752235
 MeSH_tree_code:
-  - C01.150.252.400.536
-  - C01.150.252.400.794.352.250
-  - C01.920.930.513
+- C01.150.252.400.536
+- C01.150.252.400.794.352.250
+- C01.920.930.513
+dv_has_:
+  name_:
+    ar: داء لايم
+    ast: Enfermedá de Lyme
+    az: Laym xəstəliyi
+    azb: لایم مریضلیگی
+    be: барэліёз
+    be-tarask: барэліёз
+    bg: Лаймска болест
+    bn: লাইম রোগ
+    bs: Lajmska bolest
+    ca: malaltia de Lyme
+    cs: lymeská nemoc
+    cy: clefyd Lyme
+    da: borreliose
+    de: Lyme-Borreliose
+    de-ch: Lyme-Borreliose
+    el: Βορρελίωση
+    en: Lyme disease
+    en-ca: Lyme disease
+    en-gb: Lyme disease
+    eo: boreliozo Lyme
+    es: enfermedad de Lyme
+    et: Lyme'i tõbi
+    eu: Lyme gaitz
+    fa: بیماری لایم
+    fi: borrelioosi
+    fr: maladie de Lyme
+    ga: Galar Lyme
+    gl: Doenza de Lyme
+    gpe: Lyme disease
+    ha: Ciwon Lyme
+    he: מחלת ליים
+    hr: Lajmska borelioza
+    hu: Lyme-kór
+    hy: Լայմի հիվանդություն
+    hyw: Լայմ Հիւանդութիւն
+    id: Penyakit Lyme
+    it: malattia di Lyme
+    ja: ライム病
+    jv: Penyakit Lyme
+    kk: Лайм ауруы
+    ko: 라임병
+    lb: Lyme-Borrelios
+    lo: ພະຍາດໄລມ
+    lt: Laimo liga
+    lv: Laimas slimība
+    mk: лајмска болест
+    ml: ലൈം രോഗം
+    ms: Penyakit Lyme
+    nl: ziekte van Lyme
+    nr: Isifo se-Lyme
+    or: ଲାଇମ ରୋଗ
+    pl: borelioza
+    ps: لايم ناروغي
+    pt: doença de Lyme
+    pt-br: doença de Lyme
+    ro: boala Lyme
+    rsk: Лаймска хорота
+    ru: болезнь Лайма
+    sco: Lyme disease
+    sh: Lajmska bolest
+    si: ලයිම් රෝගය
+    sk: Lymská borelióza
+    sl: lymska borelioza
+    sr: Лајмска болест
+    sr-ec: Лајмска болест
+    sr-el: Lajmska bolest
+    sv: borrelia
+    th: โรคไลม์
+    tr: Lyme hastalığı
+    tt: Боррелиоз
+    uk: хвороба Лайма
+    uz: Lyme kasalligi ( Shomil borreliozi)
+    vi: bệnh Lyme
+    wa: Må d' Lyme
+    wuu: 莱姆病
+    yi: ליים קרענק
+    yue: 萊姆病
+    zh: 莱姆病
+    zh-cn: 莱姆病
+    zh-hans: 莱姆病
+    zh-hant: 萊姆病
+    zh-hk: 萊姆病
+    zh-sg: 莱姆病
+    zh-tw: 萊姆病
 ---
-
 # [[Lyme_Disease]] 
 
 #is_/same_as :: [[WD~Lyme_disease,201989]] 

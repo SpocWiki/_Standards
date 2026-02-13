@@ -1,63 +1,313 @@
 ---
 aliases:
-  - Firearm
+- arf tân
+- Arm ké difé
+- arm tine
+- arm-tan
+- Arma da feu
+- arma da fogo
+- arma da fuoco
+- arma de foc
+- Arma de foeugh
+- arma de fogo
+- Arma de fuego
+- Arma de fueu
+- arma de fuòc
+- arma di focu
+- Arma ignifera
+- arme à feu
+- armë zjarri
+- armă de foc
+- ateşli silah
+- banduuk
+- Bindiga
+- broń palna
+- brōń pŏlnŏ
+- Bugum dɔɔ
+- Bunduki
+- eldvapen
+- Etuo
+- Fayahaam
+- Feierwaff
+- Feuerwaffe
+- Firearm
+- Fjoerwapen
+- Füürwapen
+- Fȳrƿǣpen
+- Malfa
+- malifa
+- Malifʋ
+- Malɩfa
+- mboka
+- Nariye silâsı
+- odlu silah
+- ognjeno orožje
+- Oʻtochar qurol
+- pafarmilo
+- Palná zbraň
+- Pusil
+- Qori
+- Sandatang pumuputok
+- Sanjato api
+- senjata api
+- Skotvopn
+- Skotvápn
+- skydevåben
+- skytevåpen
+- stśělna broń
+- su-arma
+- súng cầm tay
+- T'uqyachina ayñi
+- tanampo
+- tuliase
+- Tulirelv
+- tűzfegyver
+- Vatreno oružje
+- vuurwapen
+- çek
+- Ìbon
+- šaujamierocis
+- šaunamasis ginklas
+- Šaunamasės gėnklos
+- πυροβόλο
+- агнястрэльная зброя
+- атылма курал
+- атыу ҡоралы
+- ватрено оружје
+- вогнепальна зброя
+- Вут-хĕмлĕ перӳ хĕçпăшалĕ
+- Галт зэвсэг
+- Галта зэбсэг
+- Долу герз
+- огнено оружје
+- Огнестрелно оръжие
+- огнестрельное оружие
+- оқатар қару
+- пальная зброя
+- Пистолет
+- тылын ыбылӥськон ожтӥрлык
+- утлы корал
+- Һалта Зевсг
+- Հրազեն
+- כלי ירייה
+- פייער-געווער
+- آتشی اسلحہ
+- آتشیں اسلحہ
+- اودلو سیلاح
+- جنگافزار گرم
+- سلاح نارى
+- سلاح ناري
+- سنجات اڤي
+- چەکی گەرم
+- अग्निशस्त्र
+- फायरआर्म
+- আগ্নেয়াস্ত্র
+- আগ্নেয়াস্ত্ৰ
+- ਆਤਸ਼ੀ ਅਸਲਾ
+- சுடுகலன்
+- తుపాకి
+- തോക്ക്
+- තුවක්කුව
+- อาวุธปืน
+- ცეცხლსასროლი იარაღი
+- ጠመንጃ
+- ᎦᎶᏇ
+- 火器
+- 화기
 has_id_wikidata: Q12796
 Commons_category: Guns
-connects_with: "[[_Standards/WikiData/WD~gun_mount,97384104]]"
+connects_with: '[[_Standards/WikiData/WD~gun_mount,97384104]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Dewey_Decimal_Classification:
-  - 623.442
-  - 683.4
+- 623.442
+- 683.4
 different_from:
-  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
-  - "[[_Standards/WikiData/WD~pneumatic_weapon,1260928]]"
-  - "[[_Standards/WikiData/WD~explosive_device,3054261]]"
-  - "[[_Standards/WikiData/WD~draft_weapon,30750835]]"
-  - "[[_Standards/WikiData/WD~gun,110155210]]"
+- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~pneumatic_weapon,1260928]]'
+- '[[_Standards/WikiData/WD~explosive_device,3054261]]'
+- '[[_Standards/WikiData/WD~draft_weapon,30750835]]'
+- '[[_Standards/WikiData/WD~gun,110155210]]'
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03467984-n
-  - http://wordnet-rdf.princeton.edu/wn31/103444276-n
-follows: "[[_Standards/WikiData/WD~early_thermal_weapons,2609860]]"
+- http://wordnet-rdf.princeton.edu/wn30/03467984-n
+- http://wordnet-rdf.princeton.edu/wn31/103444276-n
+follows: '[[_Standards/WikiData/WD~early_thermal_weapons,2609860]]'
 hashtag:
-  - firearms
-  - GunOfTheDay
-  - Guns
+- firearms
+- GunOfTheDay
+- Guns
 has_part_s_:
-  - "[[_Standards/WikiData/WD~gun_barrel,487192]]"
-  - "[[_Standards/WikiData/WD~sight,1134322]]"
-  - "[[_Standards/WikiData/WD~receiver,11741880]]"
-  - "[[_Standards/WikiData/WD~firearm_component,107184001]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
+- '[[_Standards/WikiData/WD~gun_barrel,487192]]'
+- '[[_Standards/WikiData/WD~sight,1134322]]'
+- '[[_Standards/WikiData/WD~receiver,11741880]]'
+- '[[_Standards/WikiData/WD~firearm_component,107184001]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213]]'
 Iconclass_notation: 45C16
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gun%20from%20upper%20west%20region.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Small%20arms%20compilation.jpg
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 MeSH_tree_code: J01.637.870.350
 properties_for_this_type:
-  - ammunition
-  - caliber
+- ammunition
+- caliber
 subclass_of:
-  - "[[_Standards/WikiData/WD~projectile_weapon,1194773]]"
-  - "[[_Standards/WikiData/WD~gun,110155210]]"
+- '[[_Standards/WikiData/WD~projectile_weapon,1194773]]'
+- '[[_Standards/WikiData/WD~gun,110155210]]'
 subreddit:
-  - Firearms
-  - guns
+- Firearms
+- guns
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]"
-  - "[[_Standards/WikiData/WD~Template_Firearms,117351333]]"
-Unicode_character: 🔫
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]'
+- '[[_Standards/WikiData/WD~Template_Firearms,117351333]]'
+Unicode_character: "\U0001F52B"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 uses:
-  - "[[_Standards/WikiData/WD~combustion,133235]]"
-  - "[[_Standards/WikiData/WD~projectile,49393]]"
+- '[[_Standards/WikiData/WD~combustion,133235]]'
+- '[[_Standards/WikiData/WD~projectile,49393]]'
+dv_has_:
+  name_:
+    af: Vuurwapen
+    ak: Etuo
+    am: ጠመንጃ
+    an: Arma de fuego
+    ang: Fȳrƿǣpen
+    ar: سلاح ناري
+    ary: سلاح ناري
+    arz: سلاح نارى
+    as: আগ্নেয়াস্ত্ৰ
+    ast: Arma de fueu
+    az: odlu silah
+    azb: اودلو سیلاح
+    ba: атыу ҡоралы
+    be: агнястрэльная зброя
+    be-tarask: пальная зброя
+    bg: Огнестрелно оръжие
+    bn: আগ্নেয়াস্ত্র
+    br: arm-tan
+    bs: Vatreno oružje
+    bxr: Галта зэбсэг
+    ca: arma de foc
+    ce: Долу герз
+    cho: tanampo
+    chr: ᎦᎶᏇ
+    ckb: چەکی گەرم
+    crh: Nariye silâsı
+    cs: palná zbraň
+    cv: Вут-хĕмлĕ перӳ хĕçпăшалĕ
+    cy: arf tân
+    da: skydevåben
+    dag: malifa
+    de: Feuerwaffe
+    de-ch: Feuerwaffe
+    dga: Malfa
+    dsb: stśělna broń
+    el: πυροβόλο
+    en: firearm
+    en-ca: Firearm
+    eo: pafarmilo
+    es: arma de fuego
+    et: Tulirelv
+    eu: su-arma
+    fa: جنگافزار گرم
+    fi: tuliase
+    fo: Skotvápn
+    fr: arme à feu
+    fy: Fjoerwapen
+    ga: arm tine
+    gcr: Arm ké difé
+    gl: arma de fogo
+    gn: mboka
+    gsw: Feuerwaffe
+    gur: Bugum dɔɔ
+    ha: Bindiga
+    he: כלי ירייה
+    hi: अग्निशस्त्र
+    hif: banduuk
+    hr: vatreno oružje
+    hu: tűzfegyver
+    hy: Հրազեն
+    id: senjata api
+    is: Skotvopn
+    it: arma da fuoco
+    ja: 火器
+    jam: Fayahaam
+    ka: ცეცხლსასროლი იარაღი
+    kbp: Malɩfa
+    kk: оқатар қару
+    ko: 화기
+    ku: çek
+    ku-latn: çek
+    kus: Malifʋ
+    ky: атылма курал
+    la: Arma ignifera
+    lb: Feierwaff
+    lmo: Arma de foeugh
+    lt: šaunamasis ginklas
+    lv: šaujamierocis
+    mdf: Пистолет
+    min: Sanjato api
+    mk: огнено оружје
+    ml: തോക്ക്
+    mn: Галт зэвсэг
+    ms: senjata api
+    ms-arab: سنجات اڤي
+    nb: skytevåpen
+    nds: Füürwapen
+    new: फायरआर्म
+    nl: vuurwapen
+    nn: skytevåpen
+    oc: arma de fuòc
+    pa: ਆਤਸ਼ੀ ਅਸਲਾ
+    pl: broń palna
+    pms: Arma da feu
+    pnb: آتشیں اسلحہ
+    pt: arma de fogo
+    pt-br: arma de fogo
+    qu: T'uqyachina ayñi
+    ro: armă de foc
+    ru: огнестрельное оружие
+    scn: arma di focu
+    sgs: Šaunamasės gėnklos
+    sh: Vatreno oružje
+    si: තුවක්කුව
+    sk: Palná zbraň
+    skr: آتشی اسلحہ
+    sl: ognjeno orožje
+    so: Qori
+    sq: armë zjarri
+    sr: ватрено оружје
+    sr-ec: ватрено оружје
+    sr-el: vatreno oružje
+    sv: eldvapen
+    sw: Bunduki
+    szl: brōń pŏlnŏ
+    ta: சுடுகலன்
+    te: తుపాకి
+    th: อาวุธปืน
+    tl: Sandatang pumuputok
+    tr: ateşli silah
+    tt: утлы корал
+    udm: тылын ыбылӥськон ожтӥрлык
+    uk: вогнепальна зброя
+    ur: آتشی اسلحہ
+    uz: Oʻtochar qurol
+    vec: arma da fogo
+    vi: súng cầm tay
+    war: Pusil
+    wuu: 火器
+    xal: Һалта Зевсг
+    yi: פייער-געווער
+    yo: Ìbon
+    yue: 火器
+    zh: 火器
+    zh-hans: 火器
+    zh-hant: 火器
 ---
-
 # [[Firearm]] 🔫 
 
 ## #has_/text_of_/abstract 

@@ -1,8 +1,148 @@
 ---
 aliases:
-  - Kale
-  - Salat
+- aza berde
+- Boerekuuel
+- boerenkool
+- Boerkool
+- Brassica oleracea convar. acephala var. sabellica
+- Brassica oleracea var. acephala
+- Brassica oleracea var. sabellica
+- Caayl jiarg
+- cavole rizze
+- cavolo riccio
+- Celys
+- chou frisé
+- Chou-crolèi
+- col rizada
+- col verda
+- couve-de-folhas
+- Cál
+- Cải xoăn
+- fodros kel
+- Greenkual
+- Grænkál
+- grönkål
+- Gröönkohl
+- grønkål
+- grønnkål
+- Grünkohl
+- Jarmuż
+- Kail
+- Kale
+- kapusta kadeřavá
+- kara lahana
+- kel
+- Kelj
+- Kodrasti ohrovt
+- Krispa brasiko
+- Kubis keriting
+- Kühl
+- lakër jeshile
+- lapu kāposts
+- lehtikaali
+- lehtkapsas
+- Mous
+- Salat
+- Sukumawiki
+- Zeleny kał
+- Λαχανίδα
+- бакча капустасы
+- Кале
+- кељ
+- Кейл
+- кудрявая капуста, капуста кале
+- כרוב עלים
+- كرنب أجعد
+- كرنب اجعد
+- وۄپَل ہاکھ
+- کلم کالی
+- کەیڵ
+- एक प्रकार का गोभी
+- পাতা কপি
+- ਕਾਲੀ
+- ଗୋଟେ ପ୍ରକାରର କୋବି
+- பரட்டைக்கீரை
+- ಕೇಲ್
+- കലെ
+- კალე
+- ケール
+- 羽衣甘藍
+- 케일
 has_id_wikidata: Q45989
+dv_has_:
+  name_:
+    af: Boerkool
+    ar: كرنب أجعد
+    arz: كرنب اجعد
+    ast: Brassica oleracea var. sabellica
+    be-tarask: Brassica oleracea var. acephala
+    bg: кейл
+    bn: পাতা কপি
+    ca: col verda
+    ckb: کەیڵ
+    cs: kapusta kadeřavá
+    cy: Celys
+    da: grønkål
+    de: Grünkohl
+    el: Λαχανίδα
+    en: kale
+    eo: Krispa brasiko
+    es: col rizada
+    et: lehtkapsas
+    eu: aza berde
+    fa: کلم کالی
+    fi: lehtikaali
+    fr: chou frisé
+    frr: Greenkual
+    ga: Cál
+    gv: Caayl jiarg
+    he: כרוב עלים
+    hi: एक प्रकार का गोभी
+    hr: Kelj
+    hsb: Zeleny kał
+    hu: fodros kel
+    id: Kubis keriting
+    ig: Kale
+    is: Grænkál
+    it: cavolo riccio
+    ja: ケール
+    ka: კალე
+    kk: Кале
+    kn: ಕೇಲ್
+    ko: 케일
+    ks: وۄپَل ہاکھ
+    ksh: Kühl
+    ky: бакча капустасы
+    la: Brassica oleracea convar. acephala var. sabellica
+    li: Boerekuuel
+    lv: lapu kāposts
+    mk: кељ
+    ml: കലെ
+    ms: kale
+    nb: grønnkål
+    nds: Gröönkohl
+    nds-nl: Mous
+    nl: boerenkool
+    or: ଗୋଟେ ପ୍ରକାରର କୋବି
+    pa: ਕਾਲੀ
+    pcd: Chou-crolèi
+    pl: Jarmuż
+    pt: couve-de-folhas
+    roa-tara: cavole rizze
+    ru: кудрявая капуста, капуста кале
+    sco: Kail
+    sh: kelj
+    sk: kel
+    sl: Kodrasti ohrovt
+    sq: lakër jeshile
+    sv: grönkål
+    sw: Sukumawiki
+    ta: பரட்டைக்கீரை
+    tr: kara lahana
+    uk: Кейл
+    vi: Cải xoăn
+    yue: 羽衣甘藍
+    zh: 羽衣甘藍
 ---
 # [[Kale]] 
 

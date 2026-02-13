@@ -1,31 +1,219 @@
 ---
 aliases:
-  - service
-  - service
-  - Service
-  - is_a_service
+- bálvalus
+- diens
+- dienst
+- Dienstleistung
+- dịch vụ
+- Fu̍k-vu
+- gwasanaeth
+- hizmet
+- holitiž
+- Ho̍k-bū
+- Inkonzo (kwezomnotho)
+- is_a_service
+- jasa
+- kääzzkõs
+- Leladi (ékonomi)
+- pakalpojums
+- palvelu
+- palvâlus
+- paslauga
+- perkhidmatan
+- posłužba
+- Saabis
+- seirbhís
+- serbisyo
+- Servado
+- servei
+- service
+- servici
+- servicio
+- serviciu
+- servij
+- Servis
+- Servis (ékonomi)
+- servizio
+- servizo
+- serviço
+- servo
+- servìsio
+- shërbim
+- Siinsten
+- služba
+- storitev
+- szolgáltatás
+- teenus
+- teneste
+- tjeneste
+- tjenesteydelse
+- tjänst
+- usluga
+- uslužne djelatnosti
+- usługi
+- xidmət
+- xızmet
+- zerbitzu
+- þjónusta
+- υπηρεσία
+- паслуга
+- послуга
+- услуга
+- хадамот
+- хезмәт
+- хеҙмәт
+- Өҥө
+- ծառայություն
+- שירות (כלכלה)
+- خدمات
+- خدمة
+- خدمت
+- ڕاژە
+- ڤرخدمتن
+- सेवा (अर्थशास्त्र)
+- পরিষেবা
+- ਸੇਵਾ (ਅਰਥ ਸ਼ਾਸਤਰ)
+- சேவை
+- സേവനം
+- การบริการ
+- ການບໍລິການ
+- ဝန်ဆောင်မှု
+- მომსახურება
+- សេវាកម្ម
+- サービス
+- 服务
+- 服務
+- 서비스
 has_id_wikidata: Q7406919
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - service
+- service
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_service Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_service Class
 type: Type
+dv_has_:
+  name_:
+    af: diens
+    ar: خدمة
+    az: xidmət
+    ba: хеҙмәт
+    be: паслуга
+    be-tarask: паслуга
+    bg: услуга
+    bn: পরিষেবা
+    br: servij
+    bs: usluga
+    ca: servei
+    ckb: ڕاژە
+    cs: služba
+    cy: gwasanaeth
+    da: tjenesteydelse
+    de: Dienstleistung
+    el: υπηρεσία
+    en: service
+    en-gb: service
+    en-us: service
+    eo: servo
+    es: servicio
+    et: teenus
+    eu: zerbitzu
+    fa: خدمات
+    fi: palvelu
+    fr: service
+    frr: Siinsten
+    ga: seirbhís
+    gcr: Servis (ékonomi)
+    gl: servizo
+    hak: Fu̍k-vu
+    he: שירות (כלכלה)
+    hi: सेवा (अर्थशास्त्र)
+    hr: uslužne djelatnosti
+    hsb: posłužba
+    hu: szolgáltatás
+    hy: ծառայություն
+    id: jasa
+    io: Servado
+    is: þjónusta
+    it: servizio
+    ja: サービス
+    jam: Saabis
+    jv: Leladi (ékonomi)
+    ka: მომსახურება
+    kaa: xızmet
+    kl: service
+    km: សេវាកម្ម
+    ko: 서비스
+    lb: Service
+    lo: ການບໍລິການ
+    lrc: خدمات
+    lt: paslauga
+    lv: pakalpojums
+    mk: услуга
+    ml: സേവനം
+    mr: सेवा (अर्थशास्त्र)
+    ms: perkhidmatan
+    ms-arab: ڤرخدمتن
+    my: ဝန်ဆောင်မှု
+    mzn: خدمات
+    nan: Ho̍k-bū
+    nb: tjeneste
+    new: सेवा (अर्थशास्त्र)
+    nl: dienst
+    nn: teneste
+    oc: servici
+    pa: ਸੇਵਾ (ਅਰਥ ਸ਼ਾਸਤਰ)
+    pl: usługi
+    pt: serviço
+    pt-br: serviço
+    ro: serviciu
+    ru: услуга
+    sah: Өҥө
+    se: bálvalus
+    sh: Usluga
+    sk: služba
+    sl: storitev
+    smn: palvâlus
+    sms: kääzzkõs
+    sq: shërbim
+    sr: услуга
+    sr-ec: услуга
+    sr-el: usluga
+    sv: tjänst
+    ta: சேவை
+    tg: хадамот
+    th: การบริการ
+    tl: serbisyo
+    tr: hizmet
+    tt: хезмәт
+    tt-cyrl: хезмәт
+    uk: послуга
+    ur: خدمت
+    uz: Servis
+    vec: servìsio
+    vep: holitiž
+    vi: dịch vụ
+    wuu: 服务
+    yue: 服務
+    zh: 服務
+    zh-hans: 服务
+    zh-hant: 服務
+    zh-hk: 服務
+    zh-tw: 服務
+    zu: Inkonzo (kwezomnotho)
 ---
-
 # [[Service]] 
 
 Class of all services.

@@ -1,44 +1,158 @@
 ---
 aliases:
+- Ampaian
+- Esekidura
+- fuaidreán
+- Huyền phù
+- Sispansyon
+- sospensione
+- suspensi
+- suspensie
+- Suspensija
+- suspensio
+- suspension
+- Suspensioon
+- suspensió
+- suspensión
+- suspensjon
+- Suspensjoon
+- suspensão
+- suspenze
+- Suspenzia
+- Suspenzija
+- Suspenziya
+- szuszpenzió
+- Süspansiyon
+- zawiesina
+- αιώρημα
+- Взвесттне
+- Суспензія
+- Суспензи
+- суспензија
+- суспензия
+- суспэнзія
+- Սուսպենզիաներ
+- תרחיף
+- سوسپانسیون
+- مستعلق
+- معطلات
+- گیرساوە
+- ਨਿਲੰਬਨ
+- தொங்கல்
+- สารแขวนลอย
+- სუსპენზია
+- 悬浊液
+- 懸浮液
+- 懸濁液
+- 현탁액
 has_id_wikidata: Q26100
-subclass_of: "[[_Standards/WikiData/WD~dispersion,178697]]"
+subclass_of: '[[_Standards/WikiData/WD~dispersion,178697]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Q97370817,97370817]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Q97370817,97370817]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~liquid,11435]]"
-  - "[[_Standards/WikiData/WD~solid,11438]]"
+- '[[_Standards/WikiData/WD~liquid,11435]]'
+- '[[_Standards/WikiData/WD~solid,11438]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/WaterAndFlourSuspensionLiquid.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Weizenbier-ukko.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/WaterAndFlourSuspensionLiquid.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Weizenbier-ukko.jpg
 Commons_category: Suspensions
-P8189: "987007551013305171"
+P8189: 987007551013305171
 UMLS_CUI: C0038960
 MeSH_tree_code:
-  - D20.280.810
-  - D26.255.165.810
+- D20.280.810
+- D26.255.165.810
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]"
-    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]"
+  - '[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]'
+  - '[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]'
+  - '[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]'
+  - '[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]'
+  - '[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]'
+  - '[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]'
+  - '[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]'
+  - '[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]"
-  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]"
+- '[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]'
+- '[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]'
+- '[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]'
+- '[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]'
+- '[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]'
+- '[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]'
+- '[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]'
+- '[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]'
+dv_has_:
+  name_:
+    af: Suspensie
+    ar: مستعلق
+    az: Suspenziya
+    be: Суспензія
+    be-tarask: суспэнзія
+    bg: Суспензия
+    bs: Suspenzija
+    ca: suspensió
+    ce: Суспензи
+    ckb: گیرساوە
+    cs: suspenze
+    cv: Суспензи
+    da: suspension
+    de: Suspension
+    el: αιώρημα
+    en: suspension
+    eo: suspensio
+    es: suspensión
+    et: Suspensioon
+    eu: Esekidura
+    fa: سوسپانسیون
+    fi: Suspensio
+    fr: suspension
+    frr: Suspensjoon
+    ga: fuaidreán
+    he: תרחיף
+    hr: Suspenzija
+    ht: Sispansyon
+    hu: szuszpenzió
+    hy: Սուսպենզիաներ
+    id: suspensi
+    it: sospensione
+    ja: 懸濁液
+    ka: სუსპენზია
+    kk: Суспензия
+    ko: 현탁액
+    lt: Suspensija
+    mdf: Взвесттне
+    mk: Суспензија
+    ms: Ampaian
+    nb: suspensjon
+    nds: Suspension
+    nl: suspensie
+    oc: Suspension
+    pa: ਨਿਲੰਬਨ
+    pl: zawiesina
+    pt: suspensão
+    ro: Suspensie
+    ru: суспензия
+    sh: Suspenzija
+    sk: Suspenzia
+    sl: suspenzija
+    sr: суспензија
+    sr-ec: суспензија
+    sr-el: suspenzija
+    sv: suspension
+    ta: தொங்கல்
+    tg: Суспензия
+    th: สารแขวนลอย
+    tr: Süspansiyon
+    udm: суспензи
+    uk: Суспензія
+    ur: معطلات
+    uz: Suspenziya
+    vi: Huyền phù
+    wuu: 悬浊液
+    yue: 懸浮液
+    zh: 悬浊液
 ---
-
 # [[Suspension(Chemistry)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]] 

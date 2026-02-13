@@ -1,41 +1,99 @@
 ---
 aliases:
-  - Sewerage
-  - Sewer_Network
-  - sewage system
-  - sewerage system
-  - sewer system
-  - Sewer Network
+- alcantarelláu
+- avlopp
+- carthffosiaeth
+- clavegueram
+- cloaca
+- csatornahálózat
+- cunnuttu
+- efluente
+- estolderia
+- fognatura
+- hệ thống thoát nước
+- Kanalisation
+- kanalisatsioon
+- kanalizace
+- kanalizacija
+- kanalizacijski sistem
+- kanalizacja
+- kanalizasiya
+- kanalizasyon
+- kanalizatsiya
+- kanalizimi
+- kanalizácia
+- kanalizācija
+- kloak
+- kloakkanlegg
+- kloako
+- Mũtaratara wa Kĩamaikũ
+- nuotakynas
+- pembetung sanitari
+- q'upa yaku kachaykuna
+- red de saneamiento
+- rede de sumidoiros
+- rețea de canalizare
+- riool
+- sewage system
+- Sewer Network
+- sewer system
+- Sewerage
+- sewerage system
+- Sewer_Network
+- sistem pengolahan limbah
+- sistema de esgoto
+- sw äketw
+- viemäröinti
+- égout
+- υπόνομος
+- каналізація
+- каналізацыя
+- канализација
+- канализация
+- су әкету
+- կոյուղի
+- ביוב
+- سۋ اكەتۋ
+- صرف صحى
+- فاضلابزدایی
+- مجاري الصرف الصحي
+- नाली व्यवस्था
+- ಚರಂಡಿ ವ್ಯವಸ್ಥೆ
+- การระบายน้ำทิ้ง
+- კანალიზაცია
+- 下水道
+- 污水渠
+- 하수도
 has_id_wikidata: Q156849
 subclass_of:
-  - '[[_Standards/WikiData/WD~infrastructure,121359]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~sociotechnical_system,1639361]]'
-  - '[[_Standards/WikiData/WD~engineered_physical_system,120926552]]'
+- '[[_Standards/WikiData/WD~infrastructure,121359]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~sociotechnical_system,1639361]]'
+- '[[_Standards/WikiData/WD~engineered_physical_system,120926552]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]'
-  - '[[_Standards/WikiData/WD~sewer_line,336169]]'
-  - '[[_Standards/WikiData/WD~outfall,2533913]]'
-  - '[[_Standards/WikiData/WD~wastewater_treatment_plant,15242449]]'
+- '[[_Standards/WikiData/WD~sewerage_pumping_station,336164]]'
+- '[[_Standards/WikiData/WD~sewer_line,336169]]'
+- '[[_Standards/WikiData/WD~outfall,2533913]]'
+- '[[_Standards/WikiData/WD~wastewater_treatment_plant,15242449]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~wastewater_technology,336170]]'
-  - '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
+- '[[_Standards/WikiData/WD~wastewater_technology,336170]]'
+- '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
 different_from:
-  - '[[_Standards/WikiData/WD~combined_sewer_network,361472]]'
-  - '[[_Standards/WikiData/WD~stormwater_network,1139766]]'
-  - '[[_Standards/WikiData/WD~inverted_siphon,1425971]]'
-  - '[[_Standards/WikiData/WD~sanitary_sewer_network,1805497]]'
-  - '[[_Standards/WikiData/WD~tail_race,122332853]]'
+- '[[_Standards/WikiData/WD~combined_sewer_network,361472]]'
+- '[[_Standards/WikiData/WD~stormwater_network,1139766]]'
+- '[[_Standards/WikiData/WD~inverted_siphon,1425971]]'
+- '[[_Standards/WikiData/WD~sanitary_sewer_network,1805497]]'
+- '[[_Standards/WikiData/WD~tail_race,122332853]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_use:
-  - '[[_Standards/WikiData/WD~sanitation,949149]]'
-  - '[[_Standards/WikiData/WD~sewerage,21040870]]'
-  - '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
+- '[[_Standards/WikiData/WD~sanitation,949149]]'
+- '[[_Standards/WikiData/WD~sewerage,21040870]]'
+- '[[_Standards/WikiData/WD~water_supply_and_sanitation,121135097]]'
 uses: '[[_Standards/WikiData/WD~water_treatment,1058719]]'
 contains: '[[_Standards/WikiData/WD~sewer_gas,2863977]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12548099,12548099]]'
@@ -45,8 +103,86 @@ Commons_category: Sewerage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bazellgette%20Sewer%20Network%20EN.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Riool-article.ogg
 Iconclass_notation: 25I171
+dv_has_:
+  name_:
+    ar: مجاري الصرف الصحي
+    arz: صرف صحى
+    ast: alcantarelláu
+    az: kanalizasiya
+    be: каналізацыя
+    be-tarask: каналізацыя
+    bg: канализация
+    ca: clavegueram
+    cs: kanalizace
+    cy: carthffosiaeth
+    da: kloak
+    de: Kanalisation
+    el: υπόνομος
+    en: sewer network
+    eo: kloako
+    es: red de saneamiento
+    et: kanalisatsioon
+    eu: estolderia
+    fa: فاضلابزدایی
+    fi: viemäröinti
+    fr: égout
+    gl: rede de sumidoiros
+    he: ביוב
+    hi: नाली व्यवस्था
+    hr: kanalizacija
+    hu: csatornahálózat
+    hy: կոյուղի
+    ia: cloaca
+    id: sistem pengolahan limbah
+    it: fognatura
+    ja: 下水道
+    ka: კანალიზაცია
+    ki: Mũtaratara wa Kĩamaikũ
+    kk: су әкету
+    kk-arab: سۋ اكەتۋ
+    kk-cn: سۋ اكەتۋ
+    kk-cyrl: су әкету
+    kk-kz: су әкету
+    kk-latn: sw äketw
+    kk-tr: sw äketw
+    kn: ಚರಂಡಿ ವ್ಯವಸ್ಥೆ
+    ko: 하수도
+    ky: канализация
+    la: cloaca
+    lt: nuotakynas
+    lv: kanalizācija
+    mk: канализација
+    ms: pembetung sanitari
+    nb: kloakkanlegg
+    nl: riool
+    pl: kanalizacja
+    pt: efluente
+    pt-br: sistema de esgoto
+    qu: q'upa yaku kachaykuna
+    ro: rețea de canalizare
+    ru: канализация
+    scn: cunnuttu
+    sh: kanalizacija
+    sk: kanalizácia
+    sl: kanalizacijski sistem
+    sq: kanalizimi
+    sr: канализација
+    sv: avlopp
+    th: การระบายน้ำทิ้ง
+    tr: kanalizasyon
+    udm: канализация
+    uk: каналізація
+    uz: kanalizatsiya
+    vi: hệ thống thoát nước
+    yue: 污水渠
+    zh: 下水道
+    zh-cn: 下水道
+    zh-hans: 下水道
+    zh-hant: 下水道
+    zh-hk: 下水道
+    zh-sg: 下水道
+    zh-tw: 下水道
 ---
-
 # [[Sewer_Network]] 
 
 #is_/same_as :: [[WD~Sewer_network,156849]] 

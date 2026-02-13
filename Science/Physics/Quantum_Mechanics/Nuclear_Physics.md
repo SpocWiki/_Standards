@@ -1,10 +1,103 @@
 ---
 aliases:
-  - Kernphysik
-  - Nuclear physics
-  - Nuklearphysik
-  - Nuclear_Physics
-  - Nuclear Physics
+- atomfizika
+- branduolinė fizika
+- ffiseg niwclear
+- fisic núicléach
+- fisica nucleal
+- fisica nucleara
+- fisica nucleare
+- fisika nuklear
+- fisika nuklir
+- fizică nucleară
+- fizik nuklear
+- fizik nukleel
+- Fizika bërthamore
+- Fizikia ya nyuklia
+- fizyka jądrowa
+- fìsica nucliari
+- física nuclear
+- jaderná fyzika
+- jadrová fyzika
+- jedrska fizika
+- Karnphysik
+- kernefysik
+- kernfisika
+- kernfysica
+- Kernphysik
+- kjarneðlisfræði
+- kjernefysikk
+- kärnfysik
+- Kärphysik
+- magfizika
+- mātai ahupūngao karihi
+- nuclear pheesics
+- Nuclear physics
+- Nuclear_Physics
+- nuklea fiziko
+- nuklearna fizika
+- Nuklearphysik
+- nüvə fizikası
+- physica nucleari
+- physica nuclearis
+- physique nucléaire
+- Pisika nga nukleyar
+- pisikang nuklear
+- Reyaksyon tèmonikleyè
+- Tafizikt taɣisant
+- tuumafüüsika
+- váimmusfysihkka
+- váimusfyysiik
+- vật lý hạt nhân
+- Yadro fizikasi
+- ydinfysiikka
+- Çekirdek fiziği
+- πυρηνική φυσική
+- јадрена физика
+- аппон физикæ
+- нуклеарна физика
+- Нуклонсар физики
+- том физике
+- төш физикасы
+- физики ҳастаӣ
+- Цөмийн физик
+- ядерна фізика
+- ядерная физика
+- ядзерная фізіка
+- ядзерная фізыка
+- ядрена физика
+- ядро физикаһы
+- ядрова фізіка
+- Ядролук физика
+- Ядролық физика
+- Միջուկային ֆիզիկա
+- פיזיקה גרעינית
+- קערנפיזיק
+- فيزيا نوويه
+- فيزياء نووية
+- فيزيک نوکليار
+- فیزیک هستهای
+- فیزیکی ناوکی
+- نویاتی طبیعیات
+- نيوڪليئر فزڪس
+- نیوکلئیر فزکس
+- هستوي فزيک
+- नाभिकीय भौतिकी
+- নিউক্লীয় পদার্থবিজ্ঞান
+- নিউক্লীয় পদাৰ্থবিজ্ঞান
+- ਨਿਊਕਲੀਅਰ ਭੌਤਿਕ ਵਿਗਿਆਨ
+- அணுக்கருவியல்
+- అణుకేంద్రక శాస్త్రం
+- ಬೈಜಿಕ ಭೌತಶಾಸ್ತ್ರ
+- അണുകേന്ദ്രഭൗതികം
+- න්යෂ්ටික භෞතික විද්යාව
+- ฟิสิกส์นิวเคลียร์
+- ကဏ္ဍ:နျူးကလီးယားရူပဗေဒ
+- နယူးကလိယား ရူပဗေဒ
+- ბირთვული ფიზიკა
+- 原子核物理学
+- 核子物理
+- 핵물리학
 has_id_wikidata: Q81197
 instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Nuclear_physics,6931796]]'
@@ -22,8 +115,119 @@ UMLS_CUI: C0028585
 Provenio_UUID: d963ddca-ee11-40e5-95c0-5bfe0b993c8d
 MeSH_tree_code: H01.671.579
 IPTC_NewsCode: mediatopic/20000733
+dv_has_:
+  name_:
+    af: kernfisika
+    ar: فيزياء نووية
+    arz: فيزيا نوويه
+    as: নিউক্লীয় পদাৰ্থবিজ্ঞান
+    ast: física nuclear
+    az: nüvə fizikası
+    ba: ядро физикаһы
+    ban: fisika nuklir
+    be: ядзерная фізіка
+    be-tarask: ядзерная фізыка
+    bg: ядрена физика
+    blk: ကဏ္ဍ:နျူးကလီးယားရူပဗေဒ
+    bn: নিউক্লীয় পদার্থবিজ্ঞান
+    br: fizik nukleel
+    bs: nuklearna fizika
+    ca: física nuclear
+    ckb: فیزیکی ناوکی
+    cs: jaderná fyzika
+    cv: Нуклонсар физики
+    cy: ffiseg niwclear
+    da: kernefysik
+    de: Kernphysik
+    el: πυρηνική φυσική
+    en: nuclear physics
+    en-ca: nuclear physics
+    en-gb: nuclear physics
+    eo: nuklea fiziko
+    es: física nuclear
+    et: tuumafüüsika
+    eu: fisika nuklear
+    fa: فیزیک هستهای
+    fi: ydinfysiikka
+    fr: physique nucléaire
+    ga: fisic núicléach
+    gl: física nuclear
+    he: פיזיקה גרעינית
+    hi: नाभिकीय भौतिकी
+    hr: nuklearna fizika
+    ht: Reyaksyon tèmonikleyè
+    hu: magfizika
+    hy: Միջուկային ֆիզիկա
+    ia: physica nucleari
+    id: Fisika nuklir
+    is: kjarneðlisfræði
+    it: fisica nucleare
+    ja: 原子核物理学
+    jv: Fisika nuklir
+    ka: ბირთვული ფიზიკა
+    kab: Tafizikt taɣisant
+    kk: Ядролық физика
+    kn: ಬೈಜಿಕ ಭೌತಶಾಸ್ತ್ರ
+    ko: 핵물리학
+    ky: Ядролук физика
+    la: physica nuclearis
+    lb: Kärphysik
+    lfn: fisica nucleal
+    lt: branduolinė fizika
+    lv: atomfizika
+    mhr: том физике
+    mi: mātai ahupūngao karihi
+    mk: јадрена физика
+    ml: അണുകേന്ദ്രഭൗതികം
+    mn: Цөмийн физик
+    ms: fizik nuklear
+    ms-arab: فيزيک نوکليار
+    my: နယူးကလိယား ရူပဗေဒ
+    nb: kjernefysikk
+    nds: Karnphysik
+    nl: kernfysica
+    nn: kjernefysikk
+    oc: fisica nucleara
+    os: аппон физикæ
+    pa: ਨਿਊਕਲੀਅਰ ਭੌਤਿਕ ਵਿਗਿਆਨ
+    pl: fizyka jądrowa
+    pnb: نیوکلئیر فزکس
+    ps: هستوي فزيک
+    pt: física nuclear
+    pt-br: física nuclear
+    ro: fizică nucleară
+    ru: ядерная физика
+    rue: ядрова фізіка
+    scn: fìsica nucliari
+    sco: nuclear pheesics
+    sd: نيوڪليئر فزڪس
+    se: váimmusfysihkka
+    sh: nuklearna fizika
+    si: න්යෂ්ටික භෞතික විද්යාව
+    sk: jadrová fyzika
+    sl: jedrska fizika
+    smn: váimusfyysiik
+    sq: Fizika bërthamore
+    sr: нуклеарна физика
+    sv: kärnfysik
+    sw: Fizikia ya nyuklia
+    ta: அணுக்கருவியல்
+    te: అణుకేంద్రక శాస్త్రం
+    tg: физики ҳастаӣ
+    th: ฟิสิกส์นิวเคลียร์
+    tl: pisikang nuklear
+    tr: Çekirdek fiziği
+    tt: төш физикасы
+    uk: ядерна фізика
+    ur: نویاتی طبیعیات
+    uz: Yadro fizikasi
+    vi: vật lý hạt nhân
+    war: Pisika nga nukleyar
+    wuu: 原子核物理学
+    yi: קערנפיזיק
+    yue: 核子物理
+    zh: 原子核物理学
 ---
-
 # [[Nuclear_Physics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Nuclear_physics,81197|WD~Nuclear_physics,81197]] 

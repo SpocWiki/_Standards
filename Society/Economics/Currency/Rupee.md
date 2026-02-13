@@ -1,17 +1,161 @@
 ---
 aliases:
-  - Rupie
-  - Rupee
+- errupia
+- roepie
+- roupie
+- Rupee
+- rupi
+- rupia
+- Rupie
+- rupija
+- rupio
+- rupiya
+- ruupia
+- rwpïya
+- rúipí
+- rúpia
+- rúpía
+- rūpija
+- ρουπία
+- рупія
+- рупи
+- рупија
+- рупия
+- ռուփի
+- רופי
+- روبية
+- روبيه
+- روپیا
+- روپیه
+- روپیہ
+- رۋپىييا
+- ڕووپیە
+- रुपया
+- रुपिया
+- रुपैयाँ
+- রুপি
+- ਰੁਪਿਆ
+- રૂપિયો
+- உரூபாய்
+- రూపీ
+- ರೂಪಾಯಿ
+- รูปี
+- ຣູປີ
+- ရူပီး
+- ルピー
+- 卢比
+- 盧比
+- 루피
 has_id_wikidata: Q178843
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 named_after: '[[_Standards/WikiData/WD~silver,1090]]'
 subclass_of: '[[_Standards/WikiData/WD~currency,8142]]'
 Commons_category: Rupees
+dv_has_:
+  name_:
+    ar: روبية
+    arz: روبيه
+    ast: rupia
+    azb: روپیه
+    ba: рупия
+    be: рупія
+    be-tarask: рупія
+    bg: рупия
+    bho: रुपिया
+    bn: রুপি
+    bs: rupi
+    ca: rupia
+    ckb: ڕووپیە
+    co: rupia
+    cs: rupie
+    cv: рупи
+    da: rupee
+    de: Rupie
+    diq: rupi
+    el: ρουπία
+    en: rupee
+    en-us: rupee
+    eo: rupio
+    es: rupia
+    et: ruupia
+    eu: errupia
+    fa: روپیه
+    fi: rupia
+    fr: roupie
+    ga: rúipí
+    gl: rupia
+    gu: રૂપિયો
+    he: רופי
+    hi: रुपया
+    hr: rupija
+    hu: rúpia
+    hy: ռուփի
+    id: rupee
+    is: rúpía
+    it: rupia
+    ja: ルピー
+    jv: rupee
+    kab: rupi
+    kk: рупия
+    kk-arab: رۋپىييا
+    kk-cn: رۋپىييا
+    kk-cyrl: рупия
+    kk-kz: рупия
+    kk-latn: rwpïya
+    kk-tr: rwpïya
+    kn: ರೂಪಾಯಿ
+    ko: 루피
+    lij: rupia
+    lo: ຣູປີ
+    lt: rupija
+    lv: rūpija
+    mai: रुपैयाँ
+    min: rupee
+    mr: रुपया
+    my: ရူပီး
+    nan: rupee
+    nb: rupi
+    ne: रुपैयाँ
+    nl: roepie
+    nn: rupi
+    os: рупи
+    pa: ਰੁਪਿਆ
+    pl: rupia
+    pnb: روپیا
+    pt: rupia
+    ro: rupie
+    ru: рупия
+    sah: рупия
+    sh: rupija
+    sk: rupia
+    sl: rupija
+    sr: рупи
+    sr-ec: рупија
+    sv: rupee
+    sw: rupia
+    ta: உரூபாய்
+    te: రూపీ
+    th: รูปี
+    tl: rupi
+    tr: rupi
+    uk: рупія
+    ur: روپیہ
+    uz: rupiya
+    vi: rupee
+    war: rupee
+    wuu: 卢比
+    yue: 盧比
+    zh: 盧比
+    zh-cn: 卢比
+    zh-hans: 卢比
+    zh-hant: 盧比
+    zh-hk: 盧比
+    zh-sg: 卢比
+    zh-tw: 盧比
 ---
-
 # [[Rupee]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Rupee,178843|WD~Rupee,178843]]  

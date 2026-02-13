@@ -1,29 +1,130 @@
 ---
-has_time_started: 1923-01-01 
+has_time_started: 1923-01-01
 aliases:
-  - dodecaphony
-  - twelve-tone serialism
-  - twelve-note composition
+- 12음주의
+- ceol dhá thon déag
+- dekdutonismo
+- dodecafonia
+- dodecafonie
+- dodecafonism
+- dodecafonisme
+- dodecafonismo
+- dodecafonismu
+- dodecafónico
+- dodecaphony
+- Dodekafonia
+- dodekafonická hudba
+- dodekafonie
+- Dodekafonija
+- dodekafoniko
+- dodekafoniya
+- dodekafoonia
+- dodekafónia
+- dodécaphonisme
+- kaksitoistasäveljärjestelmä
+- nhạc 12 tông
+- on ikili
+- ratio tonorum duodecim
+- techneg deuddeg-nodyn
+- tolvtone-teknik
+- tolvtonemusikk
+- tolvtonsmusik
+- twaalftoonmusiek
+- twelve-note composition
+- twelve-tone serialism
+- twelve-tone technique
+- Zwölftontechnik
+- Δωδεκαφθογγισμός
+- дадэкафонія
+- додекафонія
+- Додекафонија
+- додекафония
+- Դոդեկաֆոնիս
+- שיטת שנים-עשר הטונים
+- طريقة الاثنتي عشرة نغمة
+- موسیقی دوازدهنغمهای
+- 十二音列技法
+- 十二音技法
 has_id_wikidata: Q221686
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Arnold_Schoenberg,154770]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Arnold_Schoenberg,154770]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~compositional_technique,9356285]]"
-  - "[[_Standards/WikiData/WD~dodecad,93465857]]"
-uses: "[[_Standards/WikiData/WD~tone_row,245258]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~compositional_technique,9356285]]'
+- '[[_Standards/WikiData/WD~dodecad,93465857]]'
+uses: '[[_Standards/WikiData/WD~tone_row,245258]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~serialist_technique,4417620]]"
-  - "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
-different_from: "[[_Standards/WikiData/WD~Dodekafonia,9208462]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12339532,12339532]]"
+- '[[_Standards/WikiData/WD~serialist_technique,4417620]]'
+- '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
+different_from: '[[_Standards/WikiData/WD~Dodekafonia,9208462]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12339532,12339532]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/12tones-my%20example1.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Zw%C3%B6lftontechnik.ogg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Passion%20and%20Choice.ogg
 Commons_category: Twelve-tone technique
 inception: 1923-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: twaalftoonmusiek
+    ar: طريقة الاثنتي عشرة نغمة
+    ast: dodecafonismu
+    az: dodekafoniya
+    be-tarask: дадэкафонія
+    bg: додекафония
+    ca: dodecafonisme
+    cs: dodekafonie
+    cy: techneg deuddeg-nodyn
+    da: tolvtone-teknik
+    de: Zwölftontechnik
+    el: Δωδεκαφθογγισμός
+    en: twelve-tone technique
+    eo: dekdutonismo
+    es: dodecafónico
+    et: dodekafoonia
+    eu: dodekafoniko
+    fa: موسیقی دوازدهنغمهای
+    fi: kaksitoistasäveljärjestelmä
+    fr: dodécaphonisme
+    ga: ceol dhá thon déag
+    gl: dodecafonismo
+    gsw: Zwölftontechnik
+    he: שיטת שנים-עשר הטונים
+    hr: Dodekafonija
+    hu: dodekafónia
+    hy: Դոդեկաֆոնիս
+    it: dodecafonia
+    ja: 十二音技法
+    ko: 12음주의
+    ky: додекафония
+    la: ratio tonorum duodecim
+    lt: dodekafonija
+    mk: Додекафонија
+    nb: tolvtonemusikk
+    nl: dodecafonie
+    nn: Tolvtonemusikk
+    pl: Dodekafonia
+    pt: dodecafonismo
+    ro: dodecafonism
+    ru: додекафония
+    sk: dodekafonická hudba
+    sl: dodekafonija
+    sr: додекафонија
+    sr-ec: додекафонија
+    sr-el: dodekafonija
+    sv: tolvtonsmusik
+    tr: on ikili
+    uk: додекафонія
+    uz: dodekafoniya
+    vi: nhạc 12 tông
+    yue: 十二音列技法
+    zh: 十二音技法
+    zh-cn: 十二音技法
+    zh-hans: 十二音技法
+    zh-hant: 十二音技法
+    zh-hk: 十二音技法
+    zh-sg: 十二音技法
+    zh-tw: 十二音技法
 ---
-
 # [[Twelve-tone_Technique]] 
 
 #is_/same_as :: [[WD~Twelve-tone_technique,221686]] 

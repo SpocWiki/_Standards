@@ -1,8 +1,161 @@
 ---
 has_id_wikidata: Q164386
+dv_has_:
+  name_:
+    af: Hipotalamus
+    ar: تحت المهاد
+    as: হাইপ'থেলামাছ
+    ast: Hipotálamo
+    az: Hipotalamus
+    azb: هیپوتالاموس
+    be: Гіпаталамус
+    be-tarask: падзрочча
+    bg: Хипоталамус
+    bn: হাইপোথ্যালামাস
+    bs: Hipotalamus
+    ca: hipotàlem
+    ckb: ژێرلانک
+    cs: hypothalamus
+    cy: Hypothalmws
+    da: hypothalamus
+    de: Hypothalamus
+    dv: ހައިޕޯތަލަމަސް
+    el: υποθάλαμος
+    en: hypothalamus
+    eo: hipotalamo
+    es: hipotálamo
+    et: Hüpotalamus
+    eu: Hipotalamo
+    fa: زیرنهنج
+    fi: Hypotalamus
+    fr: hypothalamus
+    ga: hipeatalamas
+    gl: hipotálamo
+    he: היפותלמוס
+    hi: अधश्चेतक
+    hr: Hipotalamus
+    ht: Ipotalamis
+    hu: hipotalamusz
+    hy: Հիպոթալամուս
+    id: Hipotalamus
+    is: Undirstúka
+    it: ipotalamo
+    ja: 視床下部
+    jv: Hipotalamus
+    ka: ჰიპოთალამუსი
+    kk: Гипоталамус
+    kk-arab: گىيپوتالامۋس
+    kk-cn: گىيپوتالامۋس
+    kk-cyrl: Гипоталамус
+    kk-kz: Гипоталамус
+    kk-latn: Gïpotalamws
+    kk-tr: Gïpotalamws
+    ko: 시상하부
+    ks: ہایپوتھیلمس
+    ku: Hîpotalamus
+    ky: Гипоталамус
+    la: Hypothalamus
+    lt: Pagumburis
+    lv: hipotalāms
+    mk: хипоталамус
+    ms: Hipotalamus
+    nb: Hypothalamus
+    nds-nl: hypothalamus
+    nl: hypothalamus
+    nn: hypotalamus
+    oc: Ipotalam
+    pa: ਹਿਪੋਥੈਲੇਮਸ
+    pl: Podwzgórze
+    pt: hipotálamo
+    ro: hipotalamus
+    ru: гипоталамус
+    sah: Гипоталамус
+    sh: Hipotalamus
+    sk: Podlôžko
+    sl: hipotalamus
+    sq: Hipotalamusi
+    sr: Hipotalamus
+    sr-ec: Хипоталамус
+    sr-el: Hipotalamus
+    su: Hipotalamus
+    sv: hypotalamus
+    ta: ஐப்போத்தலாமசு
+    tg: Ҳипоталамус
+    th: ไฮโปทาลามัส
+    tl: Hypothalamus
+    tr: hipotalamus
+    tt: үрчә асты
+    ug: دۆڭچە مېڭىنىڭ ئاستى
+    uk: гіпоталамус
+    uz: Gipotalamus gipotalamik soha
+    vi: Vùng dưới đồi
+    war: Hypothalamus
+    wuu: 下丘脑
+    xmf: cesar
+    yue: 下丘腦
+    zh: 下丘脑
+    zh-cn: 下丘脑
+    zh-hans: 下丘脑
+    zh-hant: 下丘腦
+    zh-hk: 下視丘
+    zh-sg: 下丘脑
+    zh-tw: 下視丘
+aliases:
+- cesar
+- Gipotalamus gipotalamik soha
+- Gïpotalamws
+- hipeatalamas
+- hipotalamo
+- Hipotalamus
+- Hipotalamusi
+- hipotalamusz
+- hipotalāms
+- hipotàlem
+- hipotálamo
+- Hypotalamus
+- hypothalamus
+- Hypothalmws
+- Hîpotalamus
+- Hüpotalamus
+- Ipotalam
+- Ipotalamis
+- ipotalamo
+- Pagumburis
+- Podlôžko
+- Podwzgórze
+- Undirstúka
+- Vùng dưới đồi
+- υποθάλαμος
+- Гіпаталамус
+- гіпоталамус
+- гипоталамус
+- падзрочча
+- Хипоталамус
+- үрчә асты
+- Ҳипоталамус
+- Հիպոթալամուս
+- היפותלמוס
+- تحت المهاد
+- دۆڭچە مېڭىنىڭ ئاستى
+- زیرنهنج
+- هیپوتالاموس
+- ژێرلانک
+- گىيپوتالامۋس
+- ہایپوتھیلمس
+- ހައިޕޯތަލަމަސް
+- अधश्चेतक
+- হাইপ'থেলামাছ
+- হাইপোথ্যালামাস
+- ਹਿਪੋਥੈਲੇਮਸ
+- ஐப்போத்தலாமசு
+- ไฮโปทาลามัส
+- ჰიპოთალამუსი
+- 下丘脑
+- 下丘腦
+- 下視丘
+- 視床下部
+- 시상하부
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The **Hypothalamus** (pl.: hypothalami; from Ancient Greek  ὑπό (hupó) 'under' 

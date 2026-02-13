@@ -1,8 +1,183 @@
 ---
 has_id_wikidata: Q170963
+dv_has_:
+  name_:
+    af: skynprivaatnetwerk
+    ar: شبكة خاصة افتراضية
+    ast: rede privada virtual
+    az: virtual özəl şəbəkələr
+    be: VPN
+    be-tarask: віртуальная прыватная сетка
+    bg: Виртуална частна мрежа
+    bho: वर्चुअल प्राइवेट नेटवर्क
+    bn: ভার্চুয়াল প্রাইভেট নেটওয়ার্ক
+    br: rouedad prevez galloudel
+    bs: virtualna privatna mreža
+    ca: xarxa privada virtual
+    ckb: تۆڕی تایبەتیی خەیاڵی
+    co: rete privatu virtualu
+    cs: virtuální privátní síť
+    da: virtual private network
+    de: virtuelles privates Netzwerk
+    de-ch: Virtual Private Network
+    el: Εικονικό Ιδιωτικό Δίκτυο
+    en: virtual private network
+    en-ca: virtual private network
+    en-gb: virtual private network
+    eo: virtuala privata reto
+    es: red privada virtual
+    et: virtuaalne privaatvõrk
+    eu: sare pribatu birtual
+    fa: شبکه خصوصی مجازی
+    fi: virtuaalinen erillisverkko
+    fr: réseau privé virtuel
+    fy: firtuele priveenetwurk
+    ga: líonra príobháideach fíorúil
+    gl: rede privada virtual
+    he: VPN
+    hi: वीपीएन
+    hr: VPN
+    hu: virtuális magánhálózat
+    id: jaringan pribadi maya
+    is: sýndareinkanet
+    it: rete privata virtuale
+    ja: virtual private network
+    ka: VPN
+    kaa: Vpn
+    kk: Виртуальды жеке желі
+    kk-arab: ۆىيرتۋالدى جەكە جەلى
+    kk-cn: ۆىيرتۋالدى جەكە جەلى
+    kk-cyrl: Виртуальды жеке желі
+    kk-kz: Виртуальды жеке желі
+    kk-latn: vïrtwalʹdı jeke jeli
+    kk-tr: vïrtwalʹdı jeke jeli
+    ko: 가상사설망
+    lmo: Red privada virtoval
+    lo: ເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງ
+    lt: virtualus privatus tinklas
+    lv: virtuālais privātais tīkls
+    lzh: 虛擬專網
+    mk: Виртуелна приватна мрежа
+    ml: ലിപിമാറ്റം
+    mn: VPN
+    ms: rangkaian persendirian maya
+    my: အသွင်ယောင် ပုဂ္ဂလိက ကွန်ရက်
+    nb: virtuelt privat nettverk
+    nl: virtueel privénetwerk
+    oc: ret privat virtual
+    pa: Virtual private network
+    pl: wirtualna sieć prywatna
+    pms: VPN
+    ps: اختصاصي مجازي شبکه
+    pt: rede privada virtual
+    pt-br: rede privada virtual
+    ro: rețea privată virtuală
+    ru: виртуальная частная сеть
+    sah: VPN
+    sco: virtual preevat network
+    sd: ورچوئل پرائيويٽ نيٽورڪ
+    sh: virtuelna privatna mreža
+    sk: virtuálna privátna sieť
+    sl: navidezno zasebno omrežje
+    sq: VPN
+    sr: виртуелна приватна мрежа
+    sr-ec: Виртуелна приватна мрежа
+    sr-el: virtuelna privatna mreža
+    sv: virtuellt privat nätverk
+    sw: Mtandao pepe binafsi
+    ta: மெய்நிகர் தனியார் பிணையம்
+    te: వర్చ్యువల్ ప్రైవేట్ నెట్వర్క్
+    tg: тури шахсии виртуалӣ
+    th: เครือข่ายส่วนตัวเสมือน
+    tl: virtual private network
+    tr: sanal özel ağ
+    tum: Mkwawo wa mrangura wakutetezga wachisisi
+    uk: VPN
+    ur: ورچوئل پرائیویٹ نیٹ ورک
+    uz: VPN
+    vi: Mạng riêng ảo
+    wuu: 虚拟私人网络
+    yue: 虛擬私人網路
+    zh: 虛擬私人網路
+    zh-cn: 虚拟私人网络
+    zh-hans: 虚拟私人网路
+    zh-hant: 虛擬私人網路
+    zh-hk: 虛擬私人網絡
+    zh-sg: 虚拟私人网络
+    zh-tw: 虛擬私人網路
+aliases:
+- firtuele priveenetwurk
+- jaringan pribadi maya
+- líonra príobháideach fíorúil
+- Mkwawo wa mrangura wakutetezga wachisisi
+- Mtandao pepe binafsi
+- Mạng riêng ảo
+- navidezno zasebno omrežje
+- rangkaian persendirian maya
+- Red privada virtoval
+- red privada virtual
+- rede privada virtual
+- ret privat virtual
+- rete privata virtuale
+- rete privatu virtualu
+- rețea privată virtuală
+- rouedad prevez galloudel
+- réseau privé virtuel
+- sanal özel ağ
+- sare pribatu birtual
+- skynprivaatnetwerk
+- sýndareinkanet
+- virtuaalinen erillisverkko
+- virtuaalne privaatvõrk
+- virtual preevat network
+- virtual private network
+- virtual özəl şəbəkələr
+- virtuala privata reto
+- virtualna privatna mreža
+- virtualus privatus tinklas
+- virtueel privénetwerk
+- virtuelles privates Netzwerk
+- virtuellt privat nätverk
+- virtuelna privatna mreža
+- virtuelt privat nettverk
+- virtuális magánhálózat
+- virtuálna privátna sieť
+- virtuální privátní síť
+- virtuālais privātais tīkls
+- VPN
+- vïrtwalʹdı jeke jeli
+- wirtualna sieć prywatna
+- xarxa privada virtual
+- Εικονικό Ιδιωτικό Δίκτυο
+- віртуальная прыватная сетка
+- Виртуална частна мрежа
+- Виртуальды жеке желі
+- виртуальная частная сеть
+- Виртуелна приватна мрежа
+- тури шахсии виртуалӣ
+- اختصاصي مجازي شبکه
+- تۆڕی تایبەتیی خەیاڵی
+- شبكة خاصة افتراضية
+- شبکه خصوصی مجازی
+- ورچوئل پرائيويٽ نيٽورڪ
+- ورچوئل پرائیویٹ نیٹ ورک
+- ۆىيرتۋالدى جەكە جەلى
+- वर्चुअल प्राइवेट नेटवर्क
+- वीपीएन
+- ভার্চুয়াল প্রাইভেট নেটওয়ার্ক
+- மெய்நிகர் தனியார் பிணையம்
+- వర్చ్యువల్ ప్రైవేట్ నెట్వర్క్
+- ലിപിമാറ്റം
+- เครือข่ายส่วนตัวเสมือน
+- ເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງ
+- အသွင်ယောင် ပုဂ္ဂလိက ကွန်ရက်
+- 虚拟私人网络
+- 虚拟私人网路
+- 虛擬專網
+- 虛擬私人網絡
+- 虛擬私人網路
+- 가상사설망
 ---
-
-
 # [[VPN(Virtual_Private_Network)]] 
 
 #is_/similar_to :: [[Tor-Network]]  

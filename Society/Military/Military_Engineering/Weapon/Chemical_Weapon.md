@@ -1,8 +1,74 @@
 ---
 aliases:
-  - Chemical_weapon
-  - Chemical_Weapon
-  - Chemical Weapon
+- Arf gemegol
+- Arm kimiek
+- arma chemica
+- arma chimic
+- arma chimica
+- Arma chìmica
+- Arma kimike
+- arma kimiko
+- arma quimica
+- arma química
+- arme chimique
+- armi chìmichi
+- armă chimică
+- broń chemiczna
+- chemical wappen
+- Chemical Weapon
+- Chemical_weapon
+- chemická zbraň
+- chemiese wapen
+- cheminis ginklas
+- chemisch wapen
+- chemische Waffe
+- Efnavopn
+- gemyske wapens
+- Hòa-ha̍k bú-khì
+- keemiarelv
+- Kemial armo
+- kemiallinen ase
+- kemiallâš viärju
+- kemihkalaš vearju
+- kemijsko oružje
+- kemijsko ratovanje
+- kemiske våben
+- kemiskt vapen
+- kemično orožje
+- Kimyasal silah
+- Kimyoviy qurollar
+- Kimyəvi silah
+- kjemisk våpen
+- Senjata kimia
+- vegyi fegyver
+- Vũ khí hóa học
+- ĥemia armilo
+- ķīmiskais ierocis
+- Χημικά όπλα
+- хімічна зброя
+- хімічная зброя
+- хемијско оружје
+- хемиско оружје
+- Химийн зэвсэг
+- химик ҡорал
+- Химическо оръжие
+- химическое оружие
+- Химиялык курал
+- Քիմիական զենք
+- Քիմիական Զէնք
+- נשק כימי
+- جنگافزارهای شیمیایی
+- سلاح كيميائي
+- چەکی کیمیایی
+- کيمياوي وسلې
+- کیمیائی ہتھیار
+- रासायनिक शस्त्र
+- ਰਸਾਇਣਕ ਹਥਿਆਰ
+- வேதியியல் ஆயுதம்
+- 化学兵器
+- 化学武器
+- 化學武器
+- 화학무기
 has_id_wikidata: Q3639228
 has_use: '[[_Standards/WikiData/WD~chemical_warfare,483610]]'
 different_from: '[[_Standards/WikiData/WD~chemical_defense,5090452]]'
@@ -16,8 +82,90 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/HIMICHESKOE_I_BIOLOGICHESKOE
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20shell%20%28AWM%20028467%29.jpg
 P8189: 987007539225605171
 Commons_category: Chemical weapons
+dv_has_:
+  name_:
+    af: chemiese wapen
+    ar: سلاح كيميائي
+    ast: arma química
+    az: Kimyəvi silah
+    ba: химик ҡорал
+    be: Хімічная зброя
+    be-tarask: хімічная зброя
+    bg: Химическо оръжие
+    br: Arm kimiek
+    ca: arma química
+    ckb: چەکی کیمیایی
+    cs: chemická zbraň
+    cy: Arf gemegol
+    da: kemiske våben
+    de: chemische Waffe
+    el: Χημικά όπλα
+    en: chemical weapon
+    en-ca: Chemical weapon
+    eo: ĥemia armilo
+    es: arma química
+    et: keemiarelv
+    eu: arma kimiko
+    fa: جنگافزارهای شیمیایی
+    fi: kemiallinen ase
+    fr: arme chimique
+    fy: gemyske wapens
+    gl: arma química
+    he: נשק כימי
+    hi: रासायनिक शस्त्र
+    hr: kemijsko oružje
+    hu: vegyi fegyver
+    hy: Քիմիական զենք
+    hyw: Քիմիական Զէնք
+    ia: arma chimic
+    id: Senjata kimia
+    io: Kemial armo
+    is: Efnavopn
+    it: arma chimica
+    ja: 化学兵器
+    ko: 화학무기
+    ky: Химиялык курал
+    la: arma chemica
+    lmo: arma chimica
+    lt: cheminis ginklas
+    lv: ķīmiskais ierocis
+    mk: хемиско оружје
+    mn: Химийн зэвсэг
+    nan: Hòa-ha̍k bú-khì
+    nb: kjemisk våpen
+    nl: chemisch wapen
+    nn: kjemisk våpen
+    oc: arma quimica
+    pa: ਰਸਾਇਣਕ ਹਥਿਆਰ
+    pl: broń chemiczna
+    pms: Arma chìmica
+    pnb: کیمیائی ہتھیار
+    ps: کيمياوي وسلې
+    pt: arma química
+    ro: armă chimică
+    ru: химическое оружие
+    scn: armi chìmichi
+    sco: chemical wappen
+    se: kemihkalaš vearju
+    sh: kemijsko ratovanje
+    sk: chemická zbraň
+    sl: kemično orožje
+    smn: kemiallâš viärju
+    sq: Arma kimike
+    sr: хемијско оружје
+    sv: kemiskt vapen
+    ta: வேதியியல் ஆயுதம்
+    tr: Kimyasal silah
+    uk: хімічна зброя
+    ur: کیمیائی ہتھیار
+    uz: Kimyoviy qurollar
+    vi: Vũ khí hóa học
+    wuu: 化学武器
+    yue: 化學武器
+    zh: 化學武器
+    zh-hant: 化學武器
+    zh-hk: 化學武器
 ---
-
 # [[Chemical_Weapon]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chemical_weapon,3639228|WD~Chemical_weapon,3639228]] 

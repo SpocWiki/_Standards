@@ -1,18 +1,60 @@
 ---
 aliases:
-  - sheep meat
-  - sheepmeat
-  - Mutton
+- carne de carneiro
+- carne de oaie
+- carne di pecora
+- juhhús
+- koyun eti
+- monton
+- Mutton
+- naman rago
+- ovčetina
+- Schöpsernes
+- sheep meat
+- sheepmeat
+- skaapvleis
+- vervecina
+- viande de mouton adulte
+- vyann gwo mouton
+- баранина
+- لحم ضأن بالغ
+- मटण
+- သိုးသား
+- ၼိူဝ်ႉမေႉ
+- マトン肉
+- 羊肉
 has_id_wikidata: Q14566073
 subclass_of:
-  - '[[_Standards/WikiData/WD~sheep_meat,123122627]]'
-  - '[[_Standards/WikiData/WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~sheep_meat,123122627]]'
+- '[[_Standards/WikiData/WD~meat,10990]]'
 food_energy: 232
 Commons_category: Mutton
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schafh%C3%A4lfte.jpg
 UNII: XEN0DR371D
+dv_has_:
+  name_:
+    af: skaapvleis
+    ar: لحم ضأن بالغ
+    de: Schöpsernes
+    en: mutton
+    fr: viande de mouton adulte
+    gl: carne de carneiro
+    ha: naman rago
+    ht: vyann gwo mouton
+    hu: juhhús
+    it: carne di pecora
+    ja: マトン肉
+    la: vervecina
+    mr: मटण
+    my: သိုးသား
+    ro: carne de oaie
+    ru: баранина
+    shn: ၼိူဝ်ႉမေႉ
+    sl: ovčetina
+    tr: koyun eti
+    vec: monton
+    yue: 羊肉
 ---
-
 # [[Mutton]] 
 
 #is_/same_as :: [[WD~Mutton,14566073]] 

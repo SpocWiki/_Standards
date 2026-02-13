@@ -1,9 +1,29 @@
 ---
 aliases:
+- distributiv feilslutning
+- fallacy of distribution
+- misvatting van de distributie
+- zmota nedovoljenega prenosa
+- помилкове перенесення
+- כשלי הפצה
+- 分佈謬誤
+- 分布謬誤
+- 分布谬误
 has_id_wikidata: Q2911615
-subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
+subclass_of: '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
+dv_has_:
+  name_:
+    en: fallacy of distribution
+    he: כשלי הפצה
+    nb: distributiv feilslutning
+    nl: misvatting van de distributie
+    sl: zmota nedovoljenega prenosa
+    uk: помилкове перенесення
+    zh: 分布謬誤
+    zh-hans: 分布谬误
+    zh-hant: 分布謬誤
+    zh-hk: 分佈謬誤
 ---
-
 # [[Illicit_transference_Fallacy]] 
 
 #is_/same_as :: [[WD~Illicit_transference,2911615]] 

@@ -1,8 +1,25 @@
 ---
 has_id_wikidata: Q2123192
+dv_has_:
+  name_:
+    de: Quincunx-Kartenprojektion
+    en: Peirce quincuncial projection
+    es: proyección quincuncial de Peirce
+    fr: projection quincunciale de Charles Peirce
+    ja: パース・クインカンシャル図法
+    pt: Projeção quincuncial de Peirce
+    sl: Pierceova kvinkuncialna projekcija
+    zh: 皮尔斯梅花投影
+aliases:
+- Peirce quincuncial projection
+- Pierceova kvinkuncialna projekcija
+- projection quincunciale de Charles Peirce
+- Projeção quincuncial de Peirce
+- proyección quincuncial de Peirce
+- Quincunx-Kartenprojektion
+- パース・クインカンシャル図法
+- 皮尔斯梅花投影
 ---
-
-
 # [[Peirce_quincuncial_Projection]] 
 
 #is_/same_as :: [[Peirce_quincuncial_Projection]] 

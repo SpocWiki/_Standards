@@ -1,9 +1,134 @@
 ---
 aliases:
-  - Peter Shaffer
-  - Sir Peter Levin Shaffer
-  - Shaffer,Peter
+- Peter Levin Shaffer
+- Peter Shaffer
+- Pīters Šefers
+- Shaffer,Peter
+- Sir Peter Levin Shaffer
+- Πήτερ Σάφερ
+- Пітер Шеффер
+- Пітэр Шэфер
+- Питер Шафер
+- Питер Шеффер
+- Питър Шафър
+- Պիտեր Շաֆեր
+- פיטר שאפר
+- پيتير شافير
+- پیتر شافر
+- পিটার শেফার
+- ਪੀਟਰ ਸ਼ੈਫਰ
+- ピーター・シェーファー
+- 彼得·謝弗
+- 彼得·谢弗
+- 피터 섀퍼
 has_id_wikidata: Q318188
+dv_has_:
+  name_:
+    af: Peter Shaffer
+    an: Peter Shaffer
+    arz: پيتير شافير
+    ast: Peter Shaffer
+    bar: Peter Shaffer
+    be: Пітэр Шэфер
+    bg: Питър Шафър
+    bm: Peter Shaffer
+    bn: পিটার শেফার
+    br: Peter Shaffer
+    ca: Peter Shaffer
+    co: Peter Shaffer
+    cs: Peter Shaffer
+    cy: Peter Shaffer
+    da: Peter Shaffer
+    de: Peter Shaffer
+    de-at: Peter Shaffer
+    de-ch: Peter Shaffer
+    el: Πήτερ Σάφερ
+    en: Peter Shaffer
+    en-ca: Peter Shaffer
+    en-gb: Peter Shaffer
+    eo: Peter Shaffer
+    es: Peter Shaffer
+    et: Peter Shaffer
+    eu: Peter Levin Shaffer
+    fa: پیتر شافر
+    fi: Peter Shaffer
+    fr: Peter Shaffer
+    frc: Peter Shaffer
+    frp: Peter Shaffer
+    fur: Peter Shaffer
+    ga: Peter Shaffer
+    gd: Peter Shaffer
+    gl: Peter Shaffer
+    gsw: Peter Shaffer
+    he: פיטר שאפר
+    hr: Peter Shaffer
+    hu: Peter Shaffer
+    hy: Պիտեր Շաֆեր
+    ia: Peter Shaffer
+    id: Peter Shaffer
+    ie: Peter Shaffer
+    io: Peter Shaffer
+    it: Peter Shaffer
+    ja: ピーター・シェーファー
+    jam: Peter Shaffer
+    kab: Peter Shaffer
+    kg: Peter Shaffer
+    ko: 피터 섀퍼
+    lb: Peter Shaffer
+    li: Peter Shaffer
+    lij: Peter Shaffer
+    lt: Peter Shaffer
+    lv: Pīters Šefers
+    mg: Peter Shaffer
+    min: Peter Shaffer
+    ms: Peter Shaffer
+    nap: Peter Shaffer
+    nb: Peter Shaffer
+    nds: Peter Shaffer
+    nds-nl: Peter Shaffer
+    nl: Peter Shaffer
+    nn: Peter Shaffer
+    nrm: Peter Shaffer
+    oc: Peter Shaffer
+    pa: ਪੀਟਰ ਸ਼ੈਫਰ
+    pap: Peter Shaffer
+    pcd: Peter Shaffer
+    pl: Peter Shaffer
+    pms: Peter Shaffer
+    prg: Peter Shaffer
+    pt: Peter Shaffer
+    pt-br: Peter Shaffer
+    rgn: Peter Shaffer
+    rm: Peter Shaffer
+    ro: Peter Shaffer
+    ru: Питер Шеффер
+    sc: Peter Shaffer
+    scn: Peter Shaffer
+    sco: Peter Shaffer
+    sk: Peter Shaffer
+    sl: Peter Shaffer
+    sq: Peter Shaffer
+    sr: Питер Шафер
+    sr-el: Peter Shaffer
+    sv: Peter Shaffer
+    sw: Peter Shaffer
+    tr: Peter Shaffer
+    uk: Пітер Шеффер
+    vec: Peter Shaffer
+    vi: Peter Shaffer
+    vls: Peter Shaffer
+    vmf: Peter Shaffer
+    vo: Peter Shaffer
+    wa: Peter Shaffer
+    wo: Peter Shaffer
+    zh: 彼得·謝弗
+    zh-cn: 彼得·谢弗
+    zh-hans: 彼得·谢弗
+    zh-hant: 彼得·謝弗
+    zh-hk: 彼得·謝弗
+    zh-sg: 彼得·谢弗
+    zh-tw: 彼得·謝弗
+    zu: Peter Shaffer
 ---
 # [[Shaffer,Peter]] 
 

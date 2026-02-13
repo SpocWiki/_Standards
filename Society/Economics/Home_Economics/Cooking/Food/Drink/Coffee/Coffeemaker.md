@@ -1,32 +1,171 @@
 ---
 aliases:
-  - Kaffeemaschine
-  - coffee maker
-  - coffee machine
-  - espresso maker
-  - Coffeemaker
+- cafeteira
+- Cafetera
+- cafetieră
+- Cafittera
+- coffee machine
+- coffee maker
+- Coffeemaker
+- Cógoma
+- ekspres do kawy
+- espresso maker
+- gáfesilon
+- kafaparato
+- kafe-makina
+- Kaferyru
+- kaffebryggare
+- Kaffeemaschine
+- kaffemaskine
+- kaffetrakter
+- Kaffismaschinn
+- kaffitraktar
+- Kaffivél
+- kahve makinesi
+- kahvinkeitin
+- kavavirė
+- kavni aparat
+- Kofe qaynatgich
+- Kofemašin
+- Kofeqaýnatqış
+- Koffiemasjien
+- koffiemesine
+- koffiezetapparaat
+- kohvimasin
+- káffavuossjan
+- kávovar
+- kávéfőző
+- kähvivuošân
+- kååʹffmašina
+- macchina da caffè
+- machina cafearia
+- machina del cafè
+- machine à café
+- Màchina dël cafè
+- Máy pha cà phê
+- Pamanggang kopi
+- Panggawé kopi
+- Paragibo nin kape
+- Pod-kafe
+- апарат за кафу
+- кававарка
+- кававы апарат
+- кавоварка
+- Кафе машина
+- кафемат
+- кофеварка
+- Кофеқайнатқыш
+- מכונת קפה
+- آلة تحضير القهوة
+- قهوهساز
+- كوفەقايناتقىش
+- কফিমেকার
+- เครื่องชงกาแฟ
+- コーヒー・メーカー
+- 咖啡机
+- 咖啡機
+- 커피메이커
 has_id_wikidata: Q211841
-uses: "[[_Standards/WikiData/WD~coffee_bean,153697]]"
+uses: '[[_Standards/WikiData/WD~coffee_bean,153697]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~home_appliance,212920]]"
-  - "[[_Standards/WikiData/WD~coffeemaking_implement,117207980]]"
+- '[[_Standards/WikiData/WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~coffeemaking_implement,117207980]]'
 has_use:
-  - "[[_Standards/WikiData/WD~coffee_preparation,19903001]]"
-  - "[[_Standards/WikiData/WD~coffee,8486]]"
-Nomenclature_for_Museum_Cataloging: "4104"
+- '[[_Standards/WikiData/WD~coffee_preparation,19903001]]'
+- '[[_Standards/WikiData/WD~coffee,8486]]'
+Nomenclature_for_Museum_Cataloging: 4104
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Kaffeemaschine2.ogg
 MCN_code: 7013.42.10
 Dewey_Decimal_Classification:
-  - "643.3"
-  - "683.82"
+- 643.3
+- 683.82
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krups%20koffiezetapparaat%20van%20Van%20Nelle%2C%20zwart%2C%20objectnr%2090899-A-B.JPG
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Coffeemaker.ogg
 Commons_category: Coffee machines
 IMDb_keyword: coffee-machine
+dv_has_:
+  name_:
+    af: Koffiemasjien
+    an: Cafetera
+    ar: آلة تحضير القهوة
+    ast: Cafetera
+    bcl: Paragibo nin kape
+    be: кававарка
+    be-tarask: кававы апарат
+    bg: Кафе машина
+    bn: কফিমেকার
+    br: Pod-kafe
+    ca: cafetera
+    cs: kávovar
+    da: kaffemaskine
+    de: Kaffeemaschine
+    en: coffeemaker
+    eo: kafaparato
+    es: cafetera
+    et: kohvimasin
+    eu: kafe-makina
+    fa: قهوهساز
+    fi: kahvinkeitin
+    fr: machine à café
+    gl: Cafeteira
+    gn: Kaferyru
+    he: מכונת קפה
+    hu: kávéfőző
+    is: Kaffivél
+    it: macchina da caffè
+    ja: コーヒー・メーカー
+    jv: Panggawé kopi
+    kk: Кофеқайнатқыш
+    kk-arab: كوفەقايناتقىش
+    kk-cn: كوفەقايناتقىش
+    kk-cyrl: Кофеқайнатқыш
+    kk-kz: Кофеқайнатқыш
+    kk-latn: Kofeqaýnatqış
+    kk-tr: Kofeqaýnatqış
+    ko: 커피메이커
+    la: machina cafearia
+    lb: Kaffismaschinn
+    lmo: machina del cafè
+    lt: kavavirė
+    min: Pamanggang kopi
+    mk: кафемат
+    nb: kaffetrakter
+    nds-nl: koffiemesine
+    nl: koffiezetapparaat
+    nn: kaffitraktar
+    pl: ekspres do kawy
+    pms: Màchina dël cafè
+    pt: cafeteira
+    pt-br: cafeteira
+    ro: cafetieră
+    ru: кофеварка
+    scn: Cafittera
+    se: gáfesilon
+    sk: Kávovar
+    sl: kavni aparat
+    smj: káffavuossjan
+    smn: kähvivuošân
+    sms: kååʹffmašina
+    sr: апарат за кафу
+    sv: kaffebryggare
+    th: เครื่องชงกาแฟ
+    tr: kahve makinesi
+    uk: кавоварка
+    uz: Kofe qaynatgich
+    vec: Cógoma
+    vep: Kofemašin
+    vi: Máy pha cà phê
+    yue: 咖啡機
+    zh: 咖啡機
+    zh-cn: 咖啡机
+    zh-hans: 咖啡机
+    zh-hant: 咖啡機
+    zh-hk: 咖啡機
+    zh-sg: 咖啡机
+    zh-tw: 咖啡機
 ---
-
 # [[Coffeemaker]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Coffeemaker,211841|WD~Coffeemaker,211841]]

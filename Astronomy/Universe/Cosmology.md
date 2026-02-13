@@ -1,24 +1,236 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]"
-    - "[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]"
-    - "[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]"
-    - "[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]"
-    - "[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]"
-    - "[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]"
-    - "[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]"
-    - "[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]"
+  - '[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]'
+  - '[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]'
+  - '[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]'
+  - '[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]'
+  - '[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]'
+  - '[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]'
+  - '[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]'
+  - '[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]"
-  - "[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]"
-  - "[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]"
-  - "[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]"
-  - "[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]"
-  - "[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]"
-  - "[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]"
-  - "[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]"
+- '[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]'
+- '[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]'
+- '[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]'
+- '[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]'
+- '[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]'
+- '[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]'
+- '[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]'
+- '[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]'
 has_id_wikidata: Q338
+dv_has_:
+  name_:
+    af: kosmologie
+    anp: ब्रह्माण्डविद्या
+    ar: علم الكون
+    arz: علم الكون
+    ast: cosmoloxía
+    az: Kosmologiya
+    ba: космология
+    bar: Kosmologie
+    be: касмалогія
+    be-tarask: касмалёгія
+    bg: космология
+    bn: বিশ্বতত্ত্ব
+    br: Kosmologiezh
+    bs: Kosmologija
+    btm: Kosmologi
+    ca: cosmologia
+    ckb: کۆسمۆلۆجی
+    cs: kosmologie
+    cv: Космологи
+    cy: cosmoleg
+    da: kosmologi
+    de: Kosmologie
+    de-at: Kosmologie
+    de-ch: Kosmologie
+    diq: Kosmolociye
+    el: κοσμολογία
+    en: cosmology
+    en-ca: Cosmology
+    en-gb: cosmology
+    eo: kosmologio
+    es: cosmología
+    et: kosmoloogia
+    eu: kosmologia
+    fa: کیهانشناسی
+    fi: kosmologia
+    fr: cosmologie
+    fy: Kosmology
+    ga: cosmeolaíocht
+    gl: cosmoloxía
+    gn: arapykuaa
+    he: קוסמולוגיה
+    hi: ब्रह्माण्डविद्या
+    hr: kozmologija
+    hu: kozmológia
+    hy: տիեզերագիտություն
+    ia: cosmologia
+    id: kosmologi
+    io: kosmologio
+    is: heimsfræði
+    it: cosmologia
+    ja: 宇宙論
+    jbo: mu'eske
+    jv: Kosmologi
+    ka: კოსმოლოგია
+    ki: Thoome wa Gwĩthĩ
+    kk: Космология
+    ko: 우주론
+    ku: Keyhanzanist
+    ky: Космология
+    la: cosmologia
+    lb: Kosmologie
+    lfn: cosmolojia
+    lij: Cosmologia
+    lt: kosmologija
+    lv: kosmoloģija
+    mg: Kôsmôlôjia
+    mi: mātai tuarangi
+    mk: космологија
+    ml: പ്രപഞ്ചവിജ്ഞാനീയം
+    mn: Космологи
+    ms: kosmologi
+    ms-arab: کوسمولوݢي
+    mt: kożmoloġija
+    my: စကြာဝဠာဗေဒ
+    nb: kosmologi
+    ne: कस्मोलोजी
+    nl: kosmologie
+    nn: kosmologi
+    nov: kosmologia
+    oc: Cosmologia
+    olo: Kosmolougii
+    om: Koosmooloojii
+    or: ଖଗୋଳ
+    os: космологи
+    pa: ਬ੍ਰਹਿਮੰਡ ਵਿਗਿਆਨ
+    pl: kosmologia
+    ps: تشيال پېژندنه
+    pt: cosmologia
+    pt-br: cosmologia
+    ro: cosmologie
+    ru: космология
+    sa: खगोल शास्त्रम्
+    scn: Cosmoluggìa
+    sco: cosmology
+    sd: ڪائنات جو علم
+    se: kosmologiija
+    sh: Kosmologija
+    shi: Tasnamḍelt
+    si: විශ්වවේදය
+    sje: kosmologija
+    sk: kozmológia
+    sl: kozmologija
+    sma: kosmologije
+    smj: kosmologija
+    smn: kosmologia
+    sms: kosmologia
+    sq: Kozmologjia
+    sr: космологија
+    sr-ec: Космологија
+    sv: kosmologi
+    ta: அண்டவியல்
+    te: విశ్వనిర్మాణ శాస్త్రం
+    tg: кайҳоншиносӣ
+    th: จักรวาลวิทยา
+    tl: Kosmolohiya
+    tr: uzay bilimi
+    tt: космология
+    tt-cyrl: космология
+    uk: космологія
+    ur: کونیات
+    uz: Kosmologiya
+    vec: cosmołozia
+    vi: vũ trụ học
+    war: Kosmolohiya
+    wuu: 宇宙学
+    xmf: კოსმოლოგია
+    yi: קאסמאלאגיע
+    yue: 宇宙學
+    zgh: ⵜⴰⵙⵏⵎⵖⵔⴰⴷⵜ
+    zh: 宇宙学
+    zh-cn: 宇宙学
+    zh-hans: 宇宙学
+    zh-hant: 宇宙学
+aliases:
+- arapykuaa
+- cosmeolaíocht
+- cosmoleg
+- cosmologia
+- cosmologie
+- cosmology
+- cosmología
+- cosmolojia
+- cosmoloxía
+- Cosmoluggìa
+- cosmołozia
+- heimsfræði
+- Keyhanzanist
+- Koosmooloojii
+- Kosmolociye
+- kosmologi
+- kosmologia
+- Kosmologie
+- Kosmologiezh
+- kosmologiija
+- kosmologija
+- kosmologije
+- kosmologio
+- Kosmologiya
+- Kosmology
+- Kosmolohiya
+- kosmoloogia
+- Kosmolougii
+- kosmoloģija
+- kozmologija
+- Kozmologjia
+- kozmológia
+- kożmoloġija
+- Kôsmôlôjia
+- mu'eske
+- mātai tuarangi
+- Tasnamḍelt
+- Thoome wa Gwĩthĩ
+- uzay bilimi
+- vũ trụ học
+- κοσμολογία
+- кайҳоншиносӣ
+- касмалёгія
+- касмалогія
+- космологія
+- Космологи
+- космологија
+- космология
+- տիեզերագիտություն
+- קאסמאלאגיע
+- קוסמולוגיה
+- تشيال پېژندنه
+- علم الكون
+- کوسمولوݢي
+- کونیات
+- کۆسمۆلۆجی
+- کیهانشناسی
+- ڪائنات جو علم
+- कस्मोलोजी
+- खगोल शास्त्रम्
+- ब्रह्माण्डविद्या
+- বিশ্বতত্ত্ব
+- ਬ੍ਰਹਿਮੰਡ ਵਿਗਿਆਨ
+- ଖଗୋଳ
+- அண்டவியல்
+- విశ్వనిర్మాణ శాస్త్రం
+- പ്രപഞ്ചവിജ്ഞാനീയം
+- විශ්වවේදය
+- จักรวาลวิทยา
+- စကြာဝဠာဗေဒ
+- კოსმოლოგია
+- ⵜⴰⵙⵏⵎⵖⵔⴰⴷⵜ
+- 宇宙学
+- 宇宙學
+- 宇宙論
+- 우주론
 ---
 # [[Cosmology]] 
 

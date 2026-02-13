@@ -1,21 +1,116 @@
 ---
 aliases:
+- doğrusal olmayan optik
+- ikke-lineær optik
+- ikke-lineær optikk
+- mittelineaarne optika
+- nelineara optiko
+- nelinearna optika
+- nelineární optika
+- nelineārā optika
+- nemlineáris optika
+- netiesinė optika
+- nichtlineare Optik
+- niet-lineaire optica
+- nochiziqli optika
+- nonlinear optics
+- optaic neamh-líneach
+- optika ez-lineal
+- optique non linéaire
+- optyka nieliniowa
+- ottica non lineare
+- qeyri-xətti optika
+- quang học phi tuyến
+- òptica no lineal
+- óptica no lineal
+- óptica non linear
+- óptica non llinial
+- óptica não-linear
+- μη γραμμική οπτική
+- нелінійна оптика
+- нелінейная оптыка
+- нелинеарна оптика
+- нелинейна оптика
+- нелинейная оптика
+- сызықты емес оптика
+- шугаман биш оптик
+- ոչ գծային օպտիկա
+- אופטיקה לא לינארית
+- اپتیک غیرخطی
+- بصريات لاخطية
+- நேரிலி ஒளியியல்
+- არაწრფივი ოპტიკა
+- 非線形光学
+- 非線性光學
+- 非线性光学
+- 비선형 광학
+- 비선형광학
 has_id_wikidata: Q756033
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-subclass_of: "[[_Standards/WikiData/WD~optics,14620]]"
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~optics,14620]]'
 short_name:
-  - NLO
-  - ONL
-  - NLO
-  - NLO
-  - ONL
+- NLO
+- ONL
+- NLO
+- NLO
+- ONL
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Frequenzverdopplung.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scientist%20measures%20the%20optical%20limiting%20performance%20of%20a%20nonlinear%20material%20-%20ALC.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/non-linear-optics
 Commons_category: Nonlinear optics
+dv_has_:
+  name_:
+    ar: بصريات لاخطية
+    ast: óptica non llinial
+    az: qeyri-xətti optika
+    be: нелінейная оптыка
+    be-tarask: нелінейная оптыка
+    bg: нелинейна оптика
+    ca: òptica no lineal
+    cs: nelineární optika
+    da: ikke-lineær optik
+    de: nichtlineare Optik
+    el: μη γραμμική οπτική
+    en: nonlinear optics
+    eo: nelineara optiko
+    es: óptica no lineal
+    et: mittelineaarne optika
+    eu: optika ez-lineal
+    fa: اپتیک غیرخطی
+    fr: optique non linéaire
+    ga: optaic neamh-líneach
+    gl: óptica non linear
+    he: אופטיקה לא לינארית
+    hu: nemlineáris optika
+    hy: ոչ գծային օպտիկա
+    it: ottica non lineare
+    ja: 非線形光学
+    ka: არაწრფივი ოპტიკა
+    kk: сызықты емес оптика
+    ko: 비선형 광학
+    ko-kp: 비선형광학
+    lt: netiesinė optika
+    lv: nelineārā optika
+    mk: нелинеарна оптика
+    mn: шугаман биш оптик
+    nb: ikke-lineær optikk
+    nl: niet-lineaire optica
+    pl: optyka nieliniowa
+    pt: óptica não-linear
+    ru: нелинейная оптика
+    sl: nelinearna optika
+    sr: nelinearna optika
+    ta: நேரிலி ஒளியியல்
+    tr: doğrusal olmayan optik
+    uk: нелінійна оптика
+    uz: nochiziqli optika
+    vi: quang học phi tuyến
+    zh: 非线性光学
+    zh-hans: 非线性光学
+    zh-hant: 非線性光學
+    zh-hk: 非線性光學
 ---
-
 # [[Nonlinear_Optics]] 
 
 #is_/same_as :: [[WD~Nonlinear_optics,756033]] 

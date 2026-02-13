@@ -1,9 +1,113 @@
 ---
 has_id_wikidata: Q1078913
+dv_has_:
+  name_:
+    ar: فن اللدائن
+    ast: artes plástiques
+    be: пластычнае мастацтва
+    be-tarask: плястычнае мастацтва
+    bg: Пластично изкуство
+    bn: সুনম্য কলা
+    ca: arts plàstiques
+    cv: Пластикӑлла ӳнер
+    cy: celf pethau
+    da: formende kunst
+    de: Plastik
+    el: πλαστικές τέχνες
+    en: plastic arts
+    eo: plastiko
+    es: artes plásticas
+    et: Plastika
+    eu: Arte plastikoak
+    fa: هنرهای پلاستیکی
+    fr: arts plastiques
+    ga: na healaíona plaisteacha
+    gl: artes plásticas
+    he: אמנות פלסטית
+    hi: प्लास्तिक की कला
+    hu: szobrászat
+    io: Plastik-arto
+    it: arti plastiche
+    ja: 造形芸術
+    ka: პლასტიკური ხელოვნება
+    kn: ಪ್ಲಾಸ್ಟಿಕ್
+    ko: 조형 예술
+    ky: Пластика
+    mk: пластични уметности
+    nah: Tlatehcuihcuiloliztli
+    nb: formende kunst
+    nl: plastische kunst
+    oc: arts plasticas
+    pl: sztuki plastyczne
+    pt: artes plásticas
+    pt-br: artes plásticas
+    ro: Arte plastice
+    ru: пластические искусства
+    sa: प्लस्तिक् कल
+    sh: plastične umjetnosti
+    sl: plastična umetnost
+    sr: вајарске уметности
+    sr-ec: вајарске уметности
+    sr-el: vajarske umetnosti
+    stq: Plastik
+    sv: plastik
+    tr: plastik sanatlar
+    uk: пластичне мистецтво
+    vec: arte plàsteghe
+    yue: 造型藝術
+    zh: 造型艺术
+    zh-hans: 造型艺术
+    zh-hant: 造型藝術
+    zh-hk: 造型藝術
+aliases:
+- Arte plastice
+- Arte plastikoak
+- arte plàsteghe
+- artes plásticas
+- artes plástiques
+- arti plastiche
+- arts plasticas
+- arts plastiques
+- arts plàstiques
+- celf pethau
+- formende kunst
+- na healaíona plaisteacha
+- plastic arts
+- Plastik
+- plastik sanatlar
+- Plastik-arto
+- Plastika
+- plastiko
+- plastische kunst
+- plastična umetnost
+- plastične umjetnosti
+- szobrászat
+- sztuki plastyczne
+- Tlatehcuihcuiloliztli
+- vajarske umetnosti
+- πλαστικές τέχνες
+- вајарске уметности
+- Пластика
+- Пластикӑлла ӳнер
+- пластические искусства
+- пластичне мистецтво
+- пластични уметности
+- Пластично изкуство
+- пластычнае мастацтва
+- плястычнае мастацтва
+- אמנות פלסטית
+- فن اللدائن
+- هنرهای پلاستیکی
+- प्लस्तिक् कल
+- प्लास्तिक की कला
+- সুনম্য কলা
+- ಪ್ಲಾಸ್ಟಿಕ್
+- პლასტიკური ხელოვნება
+- 造型艺术
+- 造型藝術
+- 造形芸術
+- 조형 예술
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **Plastic arts** are art forms which involve physical manipulation of a plastic medium, 

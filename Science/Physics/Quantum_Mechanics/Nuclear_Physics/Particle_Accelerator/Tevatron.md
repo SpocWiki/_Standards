@@ -1,23 +1,81 @@
 ---
-has_time_stopped: 2011-09-30 
+has_time_stopped: 2011-09-30
 aliases:
+- Tevatroi
+- Tevatron
+- Tevatrono
+- Tevatró
+- Tevatrón
+- Теватрон
+- Тэватрон
+- تواترون
+- تيفاترون
+- テバトロン
+- 兆电子伏特加速器
+- 兆電子伏特加速器
+- 테바트론
 has_id_wikidata: Q944533
 instance_of:
-  - "[[_Standards/WikiData/WD~particle_accelerator,130825]]"
-  - "[[_Standards/WikiData/WD~hadron_collider,16964297]]"
-owned_by: "[[_Standards/WikiData/WD~Fermilab,337641]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Batavia,576876]]"
-state_of_use: "[[_Standards/WikiData/WD~out_of_service,56651571]]"
+- '[[_Standards/WikiData/WD~particle_accelerator,130825]]'
+- '[[_Standards/WikiData/WD~hadron_collider,16964297]]'
+owned_by: '[[_Standards/WikiData/WD~Fermilab,337641]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Batavia,576876]]'
+state_of_use: '[[_Standards/WikiData/WD~out_of_service,56651571]]'
 coordinate_location: Point(-88.251715 41.831904)
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 beam_energy: 980
 service_entry: 1983-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermilab.jpg
 end_time: 2011-09-30T00:00:00Z
 official_website: http://www.fnal.gov/pub/tevatron/
 Commons_category: Tevatron
+dv_has_:
+  name_:
+    af: Tevatron
+    ar: تيفاترون
+    ast: Tevatrón
+    be: Тэватрон
+    be-tarask: тэватрон
+    ca: Tevatró
+    cs: Tevatron
+    da: Tevatron
+    de: Tevatron
+    en: Tevatron
+    en-ca: Tevatron
+    en-gb: Tevatron
+    eo: Tevatrono
+    es: Tevatrón
+    et: Tevatron
+    eu: Tevatroi
+    fa: تواترون
+    fi: Tevatron
+    fr: Tevatron
+    gl: Tevatrón
+    hu: Tevatron
+    id: Tevatron
+    it: Tevatron
+    ja: テバトロン
+    ko: 테바트론
+    mk: Теватрон
+    mul: Tevatron
+    nb: Tevatron
+    nl: Tevatron
+    nn: Tevatron
+    pl: Tevatron
+    pt: Tevatron
+    pt-br: Tevatron
+    ru: Тэватрон
+    sr: Tevatron
+    sv: Tevatron
+    tr: Tevatron
+    uk: Теватрон
+    uz: Tevatron
+    yue: Tevatron
+    zh: 兆電子伏特加速器
+    zh-hans: 兆电子伏特加速器
+    zh-hant: 兆電子伏特加速器
+    zh-hk: 兆電子伏特加速器
 ---
-
 # [[Tevatron]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tevatron,944533|WD~Tevatron,944533]]  

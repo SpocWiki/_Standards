@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Archaeognatha
-  - Bristetail
+- Arceognato
+- Archaeognatha
+- Arqueògnat
+- Arqueógnatos
+- Bristetail
+- chvostnatky
+- Felsenjumpers
+- Felsenspringer
+- hoppborstsvansar
+- hoppebørstehaler
+- lēcējzvīņeņu kārta
+- Machilida
+- Microcoryphia
+- Pračeljustnice
+- Przerzutki
+- siimahäntäiset
+- Stianhopern
+- Taynaslamin
+- ugró ősrovarok
+- Zıplayan kılkuyruklar
+- Łeʼesoołii
+- Αρχαιόγναθα
+- археогнати
+- Древнечелюстные
+- קדומי-הלסת
+- صخرهپر
+- عتيقات الفك
+- イシノミ目
+- 古顎目
+- 單髁亞綱
+- 石蛃目
+- 돌좀목
 title: Archaeognatha
 has_id_wikidata: Q637179
+dv_has_:
+  name_:
+    an: Archaeognatha
+    ar: عتيقات الفك
+    arz: عتيقات الفك
+    ast: Archaeognatha
+    bg: археогнати
+    ca: Arqueògnat
+    ceb: Archaeognatha
+    cs: chvostnatky
+    de: Felsenspringer
+    el: Αρχαιόγναθα
+    en: Archaeognatha
+    eo: Archaeognatha
+    es: Archaeognatha
+    eu: Archaeognatha
+    ext: Archaeognatha
+    fa: صخرهپر
+    fi: siimahäntäiset
+    fr: Archaeognatha
+    frr: Stianhopern
+    ga: Archaeognatha
+    gl: Arqueógnatos
+    he: קדומי-הלסת
+    hu: ugró ősrovarok
+    ia: Archaeognatha
+    id: Archaeognatha
+    ie: Archaeognatha
+    io: Archaeognatha
+    it: Machilida
+    ja: イシノミ目
+    kab: Taynaslamin
+    ko: 돌좀목
+    la: Archaeognatha
+    lfn: Arceognato
+    lv: lēcējzvīņeņu kārta
+    mul: Archaeognatha
+    nb: hoppebørstehaler
+    nds: Felsenjumpers
+    nl: Microcoryphia
+    nv: Łeʼesoołii
+    oc: Archaeognatha
+    pl: Przerzutki
+    pt: Archaeognatha
+    pt-br: Archaeognatha
+    ro: Archaeognatha
+    ru: Древнечелюстные
+    sl: Pračeljustnice
+    sq: Archaeognatha
+    sr: Archaeognatha
+    sv: hoppborstsvansar
+    th: Archaeognatha
+    tr: Zıplayan kılkuyruklar
+    uk: Archaeognatha
+    vi: Archaeognatha
+    vo: Archaeognatha
+    war: Archaeognatha
+    yue: 古顎目
+    zh: 石蛃目
+    zh-cn: 石蛃目
+    zh-hans: 石蛃目
+    zh-hant: 單髁亞綱
+    zh-tw: 石蛃目
 ---
 # [[Archaeognatha]] 
 

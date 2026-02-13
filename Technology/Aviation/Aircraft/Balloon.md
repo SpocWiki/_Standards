@@ -1,18 +1,79 @@
 ---
 aliases:
-  - Balloon
+- aerostaat
+- aérostat
+- Ballon
+- ballong
+- Balloon
+- ballōn
+- baloi aerostatiko
+- balon
+- balon terbang
+- balono
+- balão
+- balón
+- balún
+- balŵn
+- belon udara panas
+- gaisa balons
+- globo aerostático
+- globu aerostáticu
+- globus aerostaticus
+- globus aerostàtic
+- havo shari
+- Hiteluchtballon
+- hőlégballon
+- ilmapallo
+- khí cầu
+- loftbelgur
+- luchtballon
+- oro balionas
+- pallone aerostatico
+- pelembungan terbang
+- puto
+- varmluftsballong
+- warmlugballon
+- αερόστατο
+- аэростат
+- балон
+- воздушный шар
+- въздушен балон
+- паветраны балён
+- паветраны шар
+- повітряна куля
+- Һава шары
+- օդապարիկ
+- באלאן
+- כדור פורח
+- اەروستات
+- بالون
+- باڵۆن
+- منطاد
+- गुब्बारा (वैमानिकी)
+- গৰম বতাহৰ বেলুন
+- বেলুন
+- ਗੁਬਾਰਾ
+- ബലൂൺ
+- บัลลูน
+- ႁိူဝ်းမိၼ်သၢင်းၽေႃး
+- მონგოლფიერი
+- 气球
+- 気球
+- 氣球
+- 航空气球
+- 기구
 has_id_wikidata: Q183951
 operator:
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Meteorological_Institute,516346]]'
-  - '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Meteorological_Institute,516346]]'
+- '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~gas_balloon,537420]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~gondola,1011817]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~aerostat,1299477]]'
-  - '[[_Standards/WikiData/WD~unpowered_aircraft,17145920]]'
+- '[[_Standards/WikiData/WD~aerostat,1299477]]'
+- '[[_Standards/WikiData/WD~unpowered_aircraft,17145920]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Ballon,2277458]]'
-  - '[[_Standards/WikiData/WD~balloon,9706]]'
+- '[[_Standards/WikiData/WD~Ballon,2277458]]'
+- '[[_Standards/WikiData/WD~balloon,9706]]'
 military_designation: B
 Nomenclature_for_Museum_Cataloging: 11696
 OmegaWiki_Defined_Meaning: 867095
@@ -20,14 +81,104 @@ GS1_GPC_code: 10001214
 Commons_gallery: Balloon
 Iconclass_notation: 46C34
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Meyer%20Fire%20-%20Weather%20balloon%2001.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/17.%20Th%C3%BCringer%20Montgolfiade%20-%2029.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Handful%20of%20Balloons%201919.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Meyer%20Fire%20-%20Weather%20balloon%2001.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/17.%20Th%C3%BCringer%20Montgolfiade%20-%2029.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Handful%20of%20Balloons%201919.png
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02782093-n
 Commons_category: Balloon aircraft
 Google_Doodle: first-hot-air-balloon-flight
+dv_has_:
+  name_:
+    af: warmlugballon
+    ang: ballōn
+    ar: منطاد
+    as: গৰম বতাহৰ বেলুন
+    ast: globu aerostáticu
+    be: паветраны шар
+    be-tarask: паветраны балён
+    bew: pelembungan terbang
+    bg: въздушен балон
+    bn: বেলুন
+    ca: globus aerostàtic
+    ckb: باڵۆن
+    cs: balon
+    cy: balŵn
+    da: ballon
+    de: Ballon
+    de-ch: Ballon
+    el: αερόστατο
+    en: balloon
+    en-ca: balloon
+    en-gb: balloon
+    eo: balono
+    es: globo aerostático
+    et: aerostaat
+    eu: baloi aerostatiko
+    fa: بالون
+    fi: ilmapallo
+    fr: ballon
+    fy: Hiteluchtballon
+    ga: balún
+    gl: globo aerostático
+    he: כדור פורח
+    hi: गुब्बारा (वैमानिकी)
+    hr: balon
+    hsb: balon
+    hu: hőlégballon
+    hy: օդապարիկ
+    id: balon terbang
+    is: loftbelgur
+    it: pallone aerostatico
+    ja: 気球
+    ka: მონგოლფიერი
+    kk: аэростат
+    kk-arab: اەروستات
+    kk-cn: اەروستات
+    kk-cyrl: аэростат
+    kk-kz: аэростат
+    kk-latn: aérostat
+    kk-tr: aérostat
+    ko: 기구
+    krc: аэростат
+    la: globus aerostaticus
+    lt: oro balionas
+    lv: gaisa balons
+    mk: балон
+    ml: ബലൂൺ
+    ms: belon udara panas
+    nb: ballong
+    nl: luchtballon
+    nn: varmluftsballong
+    pa: ਗੁਬਾਰਾ
+    pl: balon
+    pt: balão
+    pt-br: balão
+    ro: balon
+    ru: воздушный шар
+    sh: balon
+    shn: ႁိူဝ်းမိၼ်သၢင်းၽေႃး
+    sk: balón
+    sl: balon
+    sr: балон
+    sv: ballong
+    sw: puto
+    th: บัลลูน
+    tr: balon
+    tt: Һава шары
+    uk: повітряна куля
+    uz: havo shari
+    vi: khí cầu
+    wuu: 气球
+    yi: באלאן
+    yue: 氣球
+    zh: 航空气球
+    zh-cn: 气球
+    zh-hans: 气球
+    zh-hant: 氣球
+    zh-hk: 氣球
+    zh-sg: 气球
+    zh-tw: 氣球
 ---
-
 # [[Balloon]] 
 
 #is_/similar_to :: [[../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Ball|Ball]] 

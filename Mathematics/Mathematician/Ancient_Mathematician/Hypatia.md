@@ -1,5 +1,66 @@
 ---
 aliases:
+- Alexandriai Hüpatia
+- Gipatiya
+- Heipátie
+- Hipatia
+- Hipatia Alexandriakoa
+- Hipatia wa Aleksandria
+- Hipatija
+- Hipàcia
+- Hipátia
+- Hypatia
+- Hypatia af Alexandria
+- Hypatia Aleksandrialainen
+- Hypatia av Alexandria
+- Hypatia din Alexandria
+- Hypatia z Aleksandrii
+- Hypatia z Alexandrie
+- Hypatie
+- Hypatyjo ze Aleksandryje
+- Hîpatiya
+- Hýpatía
+- Ipassia ëd Lissandria
+- Ipazia
+- Ipazzia
+- Ipàtia d'Alexàndria
+- Ipàzzia
+- İskenderiyeli Hypatia
+- İskəndiriyəli Hipatiya
+- Υπατία
+- Александриялық Гипатия
+- Гіпатія
+- Гіпатыя Александрыйская
+- Гіпація Александрыйская
+- Гипати
+- Гипатия
+- Ипатия
+- Хипатија
+- Хипатия
+- Ҳипотиё
+- Հիպատիա
+- Հիփաթիա
+- היפאטיה
+- هيباتيا
+- هیپاتیا
+- ھیپاتیا
+- ہائپیشیا
+- ہائیپیشیا
+- अलेक्जेन्ड्रीयायाम्ह हेपाटिया
+- हाईपेशिया
+- হাইপেশিয়া
+- ਹਾਈਪੇਸ਼ਿਆ
+- கைப்பேசியா
+- ഹൈപ്പേഷിയ
+- හයිපේෂියා
+- ไฮพาเทีย
+- ჰიპატია
+- ヒュパティア
+- 希帕提亞
+- 希帕提娅
+- 希帕提婭
+- 希帕蒂娅
+- 히파티아
 has_id_wikidata: Q11903
 Europeana_entity: agent/base/145374
 Wolfram_Language_entity_code: Entity["Concept", "Hypatia::r2fxq"]
@@ -8,69 +69,174 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/GIPATIYA.html
 name_in_native_language: Ὑπᾰτία
 date_of_death: 0415-03-01T00:00:00Z
 influenced_by:
-  - "[[_Standards/WikiData/WD~Plotinus,134189]]"
-  - "[[_Standards/WikiData/WD~Diophantus_of_Alexandria,178217]]"
-  - "[[_Standards/WikiData/WD~Theon_of_Alexandria,354384]]"
-  - "[[_Standards/WikiData/WD~Plato,859]]"
-  - "[[_Standards/WikiData/WD~Aristotle,868]]"
-  - "[[_Standards/WikiData/WD~Ptolemy,34943]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+- '[[_Standards/WikiData/WD~Plotinus,134189]]'
+- '[[_Standards/WikiData/WD~Diophantus_of_Alexandria,178217]]'
+- '[[_Standards/WikiData/WD~Theon_of_Alexandria,354384]]'
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Aristotle,868]]'
+- '[[_Standards/WikiData/WD~Ptolemy,34943]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-student_of: "[[_Standards/WikiData/WD~Hierocles_of_Alexandria,248840]]"
-father: "[[_Standards/WikiData/WD~Theon_of_Alexandria,354384]]"
-student: "[[_Standards/WikiData/WD~Synesius_of_Cyrene,357027]]"
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+student_of: '[[_Standards/WikiData/WD~Hierocles_of_Alexandria,248840]]'
+father: '[[_Standards/WikiData/WD~Theon_of_Alexandria,354384]]'
+student: '[[_Standards/WikiData/WD~Synesius_of_Cyrene,357027]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Agora,395411]]"
-  - "[[_Standards/WikiData/WD~Patty,113111209]]"
+- '[[_Standards/WikiData/WD~Agora,395411]]'
+- '[[_Standards/WikiData/WD~Patty,113111209]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Q47484379,47484379]]"
-  - "[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Hypatia,77411527]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
-  - "[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]"
-  - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
-cause_of_death: "[[_Standards/WikiData/WD~flaying,1145315]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-killed_by: "[[_Standards/WikiData/WD~crowd,13430821]]"
-significant_event: "[[_Standards/WikiData/WD~martyrdom,46999986]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]"
-given_name: "[[_Standards/WikiData/WD~Hypatia,118386739]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- '[[_Standards/WikiData/WD~Q47484379,47484379]]'
+- '[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Hypatia,77411527]]'
+- '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+- '[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]'
+- '[[_Standards/WikiData/WD~Women_In_Science,113116304]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+cause_of_death: '[[_Standards/WikiData/WD~flaying,1145315]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+killed_by: '[[_Standards/WikiData/WD~crowd,13430821]]'
+significant_event: '[[_Standards/WikiData/WD~martyrdom,46999986]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
+given_name: '[[_Standards/WikiData/WD~Hypatia,118386739]]'
 date_of_birth: 0360-01-01T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Alexandria,87]]"
-place_of_birth: "[[_Standards/WikiData/WD~Alexandria,87]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Alexandria,87]]'
+place_of_birth: '[[_Standards/WikiData/WD~Alexandria,87]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 BHCL_UUID: b0d4be1b-4913-4ded-9443-bbaa356e092a
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hipatia67.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Hypatia-article.ogg
-ISNI: "0000000450923663"
+ISNI: 0000000450923663
+dv_has_:
+  name_:
+    ar: هيباتيا
+    arz: هيباتيا
+    ast: Hipatia
+    az: İskəndiriyəli Hipatiya
+    bcl: Hypatia
+    be: Гіпація Александрыйская
+    be-tarask: Гіпатыя Александрыйская
+    bg: Хипатия
+    bn: হাইপেশিয়া
+    br: Hipatia
+    ca: Hipàcia
+    ckb: ھیپاتیا
+    cs: Hypatia z Alexandrie
+    cv: Гипати
+    cy: Hypatia
+    da: Hypatia af Alexandria
+    de: Hypatia
+    diq: Hypatia
+    el: Υπατία
+    en: Hypatia
+    en-ca: Hypatia
+    en-gb: Hypatia
+    eo: Hipatia
+    es: Hipatia
+    et: Hypatia
+    eu: Hipatia Alexandriakoa
+    ext: Hipatia
+    fa: هیپاتیا
+    fi: Hypatia Aleksandrialainen
+    fr: Hypatie
+    fy: Hypatia
+    ga: Hypatia
+    gl: Hipatia
+    he: היפאטיה
+    hi: हाईपेशिया
+    hr: Hipatija
+    hu: Alexandriai Hüpatia
+    hy: Հիպատիա
+    hyw: Հիփաթիա
+    ia: Hypatia
+    id: Hipatia
+    ig: Hypatia
+    is: Hýpatía
+    it: Ipazia
+    ja: ヒュパティア
+    jv: Hipatia
+    ka: ჰიპატია
+    kk: Александриялық Гипатия
+    ko: 히파티아
+    ku: Hîpatiya
+    kw: Hypatia
+    ky: Ипатия
+    la: Hypatia
+    lmo: Ipazzia
+    lt: Hipatija
+    lv: Hipatija
+    mg: Hypatie
+    mk: Хипатија
+    ml: ഹൈപ്പേഷിയ
+    mos: Hypatia
+    mwl: Heipátie
+    nan: Hypatia
+    nb: Hypatia
+    new: अलेक्जेन्ड्रीयायाम्ह हेपाटिया
+    nl: Hypatia
+    nn: Hypatia av Alexandria
+    oc: Ipàtia d'Alexàndria
+    pa: ਹਾਈਪੇਸ਼ਿਆ
+    pl: Hypatia z Aleksandrii
+    pms: Ipassia ëd Lissandria
+    pnb: ہائیپیشیا
+    ps: هیپاتیا
+    pt: Hipátia
+    pt-br: Hipátia
+    ro: Hypatia din Alexandria
+    rsk: Гипатия
+    ru: Гипатия
+    scn: Ipàzzia
+    sco: Hypatia
+    sh: Hipatija
+    si: හයිපේෂියා
+    sk: Hypatia
+    sl: Hipatija
+    sq: Hypatia
+    sr: Хипатија
+    sv: Hypatia
+    sw: Hipatia wa Aleksandria
+    szl: Hypatyjo ze Aleksandryje
+    ta: கைப்பேசியா
+    te: hypatia
+    tg: Ҳипотиё
+    th: ไฮพาเทีย
+    tl: Hypatia
+    tr: İskenderiyeli Hypatia
+    uk: Гіпатія
+    ur: ہائپیشیا
+    uz: Gipatiya
+    vi: Hypatia
+    war: Hypatia
+    wuu: 希帕提娅
+    xmf: ჰიპატია
+    yue: 希帕提亞
+    zh: 希帕提婭
+    zh-cn: 希帕蒂娅
 ---
-
 # [[Hypatia]] 
 
 #is_/same_as :: [[WikiData/WD~Hypatia,11903|WD~Hypatia,11903]] 

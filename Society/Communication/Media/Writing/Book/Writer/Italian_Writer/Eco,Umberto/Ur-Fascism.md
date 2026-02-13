@@ -1,7 +1,34 @@
 ---
 has_id_wikidata: Q99620602
+dv_has_:
+  name_:
+    ca: Contra el feixisme
+    de: Der ewige Faschismus
+    en: Ur-Fascism
+    es: Ur-Fascismo
+    fr: Reconnaître le fascisme
+    ga: Il fascismo eterno
+    he: הפשיזם הנצחי
+    it: Il fascismo eterno
+    ru: Вечный фашизм
+    sq: Fashizmi i përjetshëm
+    tr: Faşizm Yazıları
+    tt: Мәңге фашизм
+    uk: Ур-фашизм
+aliases:
+- Contra el feixisme
+- Der ewige Faschismus
+- Fashizmi i përjetshëm
+- Faşizm Yazıları
+- Il fascismo eterno
+- Reconnaître le fascisme
+- Ur-Fascism
+- Ur-Fascismo
+- Вечный фашизм
+- Мәңге фашизм
+- Ур-фашизм
+- הפשיזם הנצחי
 ---
-
 ^
 ## #has_/text_of_/abstract 
 

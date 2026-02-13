@@ -1,21 +1,46 @@
 ---
-has_time_started: 2005-01-01 
+has_time_started: 2005-01-01
 aliases:
-  - Pastafarianism
-  - Flying Spaghetti Monster
-  - Pastafari
+- det flygande spaghettimonstret religion
+- Flying Spaghetti Monster
+- Kirkja hins fljúgandi spagettískrímslis
+- Lendava Makaronimonstrumi kirik
+- lentävän spagettihirviön uskonto
+- Pastafari
+- Pastafarianesim
+- pastafarianesimo
+- Pastafarianism
+- Pastafarianisme
+- pastafarianismo
+- Pastafarianismus
+- Pastafariegezh
+- pastafarijanstvo
+- pastafarisme
+- Pastafarismo
+- Pastafarismu
+- pastafariánství
+- Pastafaryanizm
+- Pastaparianismo
+- pasztafarianizmus
+- Пастафарианлык
+- Пастафарианство
+- пастафариянство
+- пастафарыянства
+- պաստաֆարիանիզմ
+- 空飛ぶスパゲッティ・モンスター教
+- 飞面神教
 has_id_wikidata: Q14397660
 different_from: '[[_Standards/WikiData/WD~Rastafari,101462]]'
 in_opposition_to: '[[_Standards/WikiData/WD~intelligent_design,172618]]'
 creator: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
 founded_by: '[[_Standards/WikiData/WD~Bobby_Henderson,379057]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~parody_religion,904201]]'
-  - '[[_Standards/WikiData/WD~religious_satire,7311396]]'
-  - '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~parody_religion,904201]]'
+- '[[_Standards/WikiData/WD~religious_satire,7311396]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
-  - '[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975]]'
+- '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
+- '[[_Standards/WikiData/WD~Open_Letter_To_Kansas_School_Board,67204975]]'
 foundational_text: '[[_Standards/WikiData/WD~The_Gospel_of_the_Flying_Spaghetti_Monster,3269406]]'
 subclass_of: '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
 has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
@@ -26,8 +51,49 @@ name_in_native_language: Flying Spaghetti Monster
 hashtag_: Pastafarianism
 Commons_category: Pastafarianism
 inception: 2005-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ast: Pastafarismu
+    az: Pastafaryanizm
+    be: пастафарыянства
+    be-tarask: пастафарыянства
+    bg: Пастафарианство
+    br: Pastafariegezh
+    ca: pastafarisme
+    ceb: Pastaparianismo
+    cs: pastafariánství
+    da: Pastafarianisme
+    de: Pastafarianismus
+    diq: Pastafaryanizm
+    en: Pastafarianism
+    en-ca: Pastafarianism
+    en-gb: Pastafarianism
+    eo: Pastafarismo
+    es: Pastafarismo
+    et: Lendava Makaronimonstrumi kirik
+    eu: Pastafarismo
+    fi: lentävän spagettihirviön uskonto
+    fr: pastafarisme
+    gl: Pastafarismo
+    hu: pasztafarianizmus
+    hy: պաստաֆարիանիզմ
+    id: Pastafarianisme
+    is: Kirkja hins fljúgandi spagettískrímslis
+    it: pastafarianesimo
+    ja: 空飛ぶスパゲッティ・モンスター教
+    lmo: Pastafarianesim
+    nl: Pastafarianism
+    oc: Pastafarisme
+    pt: pastafarianismo
+    pt-br: Pastafarianismo
+    ru: пастафарианство
+    sl: pastafarijanstvo
+    sv: det flygande spaghettimonstret religion
+    tr: Pastafaryanizm
+    tt: Пастафарианлык
+    uk: пастафариянство
+    zh: 飞面神教
 ---
-
 # [[Pastafari]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pastafarianism,14397660]] 

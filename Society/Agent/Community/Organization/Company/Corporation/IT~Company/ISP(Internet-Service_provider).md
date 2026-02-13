@@ -1,9 +1,161 @@
 ---
 has_id_wikidata: Q11371
+dv_has_:
+  name_:
+    ang: eormennett þegnung foresēond
+    ar: مزود خدمة الإنترنت
+    az: İnternet xidmət provayderi
+    be-tarask: інтэрнэт-правайдэр
+    bg: интернет доставчик
+    bn: ইন্টারনেট সেবা প্রদানকারী
+    bs: ISP
+    ca: proveïdor d'Internet
+    ckb: دابینکاری ڕاژەی ئینتەرنێت
+    cs: poskytovatel internetového připojení
+    da: internetudbyder
+    de: Internetdienstanbieter
+    de-ch: Internetdienstanbieter
+    el: πάροχος υπηρεσιών Διαδικτύου
+    en: internet service provider
+    eo: provizanto de retkonekto
+    es: proveedor de servicios de Internet
+    et: Internetiteenuste pakkuja
+    eu: ISP
+    fa: رساننده خدمات اینترنتی
+    fi: internet-palveluntarjoaja
+    fr: fournisseur d'accès à Internet
+    frr: ISP
+    ga: soláthraí seirbhísí Idirlín
+    gl: ISP
+    he: ספק שירותי אינטרנט
+    hi: अन्तर्जाल सेवा प्रदाता
+    hr: pružatelj internetskih usluga
+    hu: internetszolgáltató
+    hy: ինտերնետ մատակարար
+    id: penyedia jasa Internet
+    io: interret-provizerio
+    it: internet service provider
+    ja: インターネットサービスプロバイダ
+    kaa: provayder
+    kk: интернет провайдері
+    kn: ಅಂತರ್ಜಾಲ ಸೇವಾ ಸಂಸ್ಥೆಗಳು
+    ko: 인터넷 서비스 제공자
+    ku: weşangerê înternetê
+    ku-latn: weşangerê înternetê
+    ky: провайдер
+    lb: Internet service provider
+    li: Internet provider
+    lv: interneta pakalpojumu sniedzējs
+    mhr: провайдер
+    min: panyalanggaro jaso internet
+    mk: семрежен услужник
+    ms: pembekal khidmat Internet
+    ms-arab: ڤمبکل خدمت اينترنيت
+    my: အင်တာနက်ဝန်ဆောင်မှုပေးသူ
+    nb: internettleverandør
+    ne: इन्टरनेट सेवा प्रदायक
+    nl: internetprovider
+    nn: internettleverandør
+    pl: dostawca usług internetowych
+    pt: fornecedor de acesso à Internet
+    pt-br: fornecedor de acesso à Internet
+    rki: အင်တာနက်ဝန်ဆောင်မှုပီးသူ
+    ro: furnizor de servicii Internet
+    ru: интернет-провайдер
+    sah: интернет өҥөтүн тириэрдээччи
+    sh: internet provajder
+    sl: ponudnik spletnih storitev
+    sq: ofruesi i shërbimit të Internetit
+    sr: интернет провајдер
+    sr-ec: интернет провајдер
+    sr-el: internet provajder
+    sv: internetleverantör
+    sw: mtoa huduma za tovuti
+    ta: இணையச் சேவை வழங்கி
+    te: ఇంటర్నెట్ సర్వీస్ ప్రొవైడర్
+    th: ผู้ให้บริการอินเทอร์เน็ต
+    tr: İnternet servis sağlayıcısı
+    tt: интернет-провайдер
+    tt-cyrl: интернет-провайдер
+    uk: надавач послуг інтернету
+    ur: جالبینی خدمت مُنعِم
+    uz: provayder
+    vi: nhà cung cấp dịch vụ Internet
+    vro: internetipakja
+    wuu: 互联网服务供应商
+    yue: 互聯網服務供應商
+    zh: 互联网服务供应商
+    zh-hant: 網路服務提供者
+aliases:
+- dostawca usług internetowych
+- eormennett þegnung foresēond
+- fornecedor de acesso à Internet
+- fournisseur d'accès à Internet
+- furnizor de servicii Internet
+- internet provajder
+- Internet provider
+- internet service provider
+- internet-palveluntarjoaja
+- interneta pakalpojumu sniedzējs
+- Internetdienstanbieter
+- internetipakja
+- Internetiteenuste pakkuja
+- internetleverantör
+- internetprovider
+- internetszolgáltató
+- internettleverandør
+- internetudbyder
+- interret-provizerio
+- ISP
+- mtoa huduma za tovuti
+- nhà cung cấp dịch vụ Internet
+- ofruesi i shërbimit të Internetit
+- panyalanggaro jaso internet
+- pembekal khidmat Internet
+- penyedia jasa Internet
+- ponudnik spletnih storitev
+- poskytovatel internetového připojení
+- provayder
+- proveedor de servicios de Internet
+- proveïdor d'Internet
+- provizanto de retkonekto
+- pružatelj internetskih usluga
+- soláthraí seirbhísí Idirlín
+- weşangerê înternetê
+- İnternet servis sağlayıcısı
+- İnternet xidmət provayderi
+- πάροχος υπηρεσιών Διαδικτύου
+- інтэрнэт-правайдэр
+- интернет доставчик
+- интернет провајдер
+- интернет провайдері
+- интернет өҥөтүн тириэрдээччи
+- интернет-провайдер
+- надавач послуг інтернету
+- провайдер
+- семрежен услужник
+- ինտերնետ մատակարար
+- ספק שירותי אינטרנט
+- جالبینی خدمت مُنعِم
+- دابینکاری ڕاژەی ئینتەرنێت
+- رساننده خدمات اینترنتی
+- مزود خدمة الإنترنت
+- ڤمبکل خدمت اينترنيت
+- अन्तर्जाल सेवा प्रदाता
+- इन्टरनेट सेवा प्रदायक
+- ইন্টারনেট সেবা প্রদানকারী
+- இணையச் சேவை வழங்கி
+- ఇంటర్నెట్ సర్వీస్ ప్రొవైడర్
+- ಅಂತರ್ಜಾಲ ಸೇವಾ ಸಂಸ್ಥೆಗಳು
+- ผู้ให้บริการอินเทอร์เน็ต
+- အင်တာနက်ဝန်ဆောင်မှုပီးသူ
+- အင်တာနက်ဝန်ဆောင်မှုပေးသူ
+- インターネットサービスプロバイダ
+- 互联网服务供应商
+- 互聯網服務供應商
+- 網路服務提供者
+- 인터넷 서비스 제공자
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > An **Internet service provider** (ISP) is an organization that provides a myriad of 

@@ -1,17 +1,102 @@
 ---
 aliases:
-  - Sugar industry
-  - Sugar_industry
-  - Big Sugar
+- Big Sugar
+- cukoripar
+- cukraus pramonė
+- cukrovarnictví
+- cukrovarnícky priemysel
+- cukrownictwo
+- cukurrūpniecība
+- Industri gula
+- industri sheqeri
+- industria azucarera
+- industria saccarifera
+- industria zahărului
+- industrie sucrière
+- industrija sladkorja
+- industrija taz-zokkor
+- industrija šećera
+- indústria açucareira
+- indústria sucrera
+- Masana'antar sukari
+- Qand-shakar sanoati
+- sockerindustri
+- sokeriteollisuus
+- Sugar industry
+- Sugar_industry
+- suhkrutööstus
+- suikerindustrie
+- sukkerindustri
+- tionscal an tsiúcra
+- Zuckerindustrie
+- βιομηχανία ζάχαρης
+- захарна промишленост
+- индустрија за шеќер
+- индустрија шећера
+- сахарная промышленность
+- цукрова промисловість
+- цукровая прамысловасць
+- Շաքարի արդյունաբերություն
+- صناعة السكر
+- صنعت شکر
+- Ụlọ ọrụ shuga
+- 糖業
+- 製糖業
+- 설탕 산업
 has_id_wikidata: Q227870
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~ethanol_fuel,194361]]'
-  - '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~ethanol_fuel,194361]]'
+- '[[_Standards/WikiData/WD~sugar,11002]]'
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 has_part_s_: '[[_Standards/WikiData/WD~sugar_manufacturer,130706561]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zuckerfabrik01.jpg
+dv_has_:
+  name_:
+    ar: صناعة السكر
+    be: цукровая прамысловасць
+    bg: захарна промишленост
+    ca: indústria sucrera
+    cs: cukrovarnictví
+    da: sukkerindustri
+    de: Zuckerindustrie
+    el: βιομηχανία ζάχαρης
+    en: sugar industry
+    es: industria azucarera
+    et: suhkrutööstus
+    fa: صنعت شکر
+    fi: sokeriteollisuus
+    fr: industrie sucrière
+    ga: tionscal an tsiúcra
+    ha: Masana'antar sukari
+    hr: industrija šećera
+    hu: cukoripar
+    hy: Շաքարի արդյունաբերություն
+    ig: Ụlọ ọrụ shuga
+    it: industria saccarifera
+    ja: 製糖業
+    ko: 설탕 산업
+    lt: cukraus pramonė
+    lv: cukurrūpniecība
+    mk: индустрија за шеќер
+    ms: Industri gula
+    mt: industrija taz-zokkor
+    nl: suikerindustrie
+    pl: cukrownictwo
+    pt: indústria açucareira
+    ro: industria zahărului
+    ru: сахарная промышленность
+    sk: cukrovarnícky priemysel
+    sl: industrija sladkorja
+    sq: industri sheqeri
+    sr: индустрија шећера
+    sr-ec: индустрија шећера
+    sr-el: industrija šećera
+    sv: sockerindustri
+    te: sugar industry
+    uk: цукрова промисловість
+    uz: Qand-shakar sanoati
+    zh: 糖業
 ---
-
 # [[Big Sugar]] 
 
 #is_/same_as :: [[WD~Sugar_industry,227870]] 

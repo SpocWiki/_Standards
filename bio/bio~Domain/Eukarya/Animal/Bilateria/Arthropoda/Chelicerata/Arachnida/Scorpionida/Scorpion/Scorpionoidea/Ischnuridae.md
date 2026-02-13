@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Ischnuridae
+- Hemiscorpiidae
+- Ischnuridae
+- Tsékʼi séigoʼ
+- همیسکرپیدائه
+- 半蝎科
+- 半蠍科
 title: Ischnuridae
 has_id_wikidata: Q134711
+dv_has_:
+  name_:
+    an: Hemiscorpiidae
+    ast: Hemiscorpiidae
+    bg: Hemiscorpiidae
+    ca: Hemiscorpiidae
+    ceb: Hemiscorpiidae
+    cs: Hemiscorpiidae
+    de: Hemiscorpiidae
+    en: Hemiscorpiidae
+    eo: Hemiscorpiidae
+    es: Hemiscorpiidae
+    eu: Hemiscorpiidae
+    ext: Hemiscorpiidae
+    fa: همیسکرپیدائه
+    fi: Hemiscorpiidae
+    fr: Hemiscorpiidae
+    ga: Hemiscorpiidae
+    gl: Hemiscorpiidae
+    ia: Hemiscorpiidae
+    id: Hemiscorpiidae
+    ie: Hemiscorpiidae
+    io: Hemiscorpiidae
+    it: Hemiscorpiidae
+    la: Hemiscorpiidae
+    mul: Hemiscorpiidae
+    nb: Hemiscorpiidae
+    nl: Hemiscorpiidae
+    nv: Tsékʼi séigoʼ
+    oc: Hemiscorpiidae
+    pl: Hemiscorpiidae
+    pt: Hemiscorpiidae
+    pt-br: Hemiscorpiidae
+    ro: Hemiscorpiidae
+    ru: Hemiscorpiidae
+    sq: Hemiscorpiidae
+    uk: Hemiscorpiidae
+    vi: Hemiscorpiidae
+    vo: Hemiscorpiidae
+    war: Hemiscorpiidae
+    zh: 半蝎科
+    zh-cn: 半蝎科
+    zh-hans: 半蝎科
+    zh-tw: 半蠍科
 ---
 ## Phylogeny 
 

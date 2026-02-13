@@ -1,9 +1,97 @@
 ---
 aliases:
-  - Damaliscus pygargus
-  - Bontebok
+- bantaboc
+- Blesbok
+- Bläsbock
+- Bontebok
+- Bunta damalisko
+- Buntbock
+- buvolec pestrý
+- damalisc
+- Damaliscus pygargus
+- dorcasantilope
+- Jádítsoh naashchʼąąʼígíí
+- Keyol (Damaliscus pygargus)
+- Sasebi przylądkowy
+- tarka lantszarvúantilop
+- Trâu cỏ
+- valkopäätopi
+- Беломуцунест бубал
+- Бонтбок
+- Бубал біломордий
+- Лацученедин бубал
+- Тӧдьы ымныро бубал
+- דאמאליסק הצבי
+- بونٹبوک
+- ساسابى ابيض الردف
+- ظبي مؤزر
+- کل ابلق
+- போண்டிபக்
+- ബോണ്ടെബക്ക്
+- ボンテボック
+- 白紋牛羚
+- 白纹牛羚
+- 본테복
 title: Damaliscus pygargus
 has_id_wikidata: Q1009881
+dv_has_:
+  name_:
+    af: Bontebok
+    an: Damaliscus pygargus
+    ar: ظبي مؤزر
+    arz: ساسابى ابيض الردف
+    ast: Damaliscus pygargus
+    avk: Keyol (Damaliscus pygargus)
+    bg: Беломуцунест бубал
+    br: Bontebok
+    ca: damalisc
+    ceb: Damaliscus pygargus
+    cs: buvolec pestrý
+    de: Buntbock
+    en: Damaliscus pygargus
+    eo: Bunta damalisko
+    es: Damaliscus pygargus
+    eu: Damaliscus pygargus
+    ext: Damaliscus pygargus
+    fa: کل ابلق
+    fi: valkopäätopi
+    fr: Blesbok
+    ga: bantaboc
+    gl: Damaliscus pygargus
+    he: דאמאליסק הצבי
+    hu: tarka lantszarvúantilop
+    ia: Damaliscus pygargus
+    id: Bontebok
+    ie: Damaliscus pygargus
+    io: Damaliscus pygargus
+    it: Damaliscus pygargus
+    ja: ボンテボック
+    ko: 본테복
+    la: Damaliscus pygargus
+    lez: Лацученедин бубал
+    ml: ബോണ്ടെബക്ക്
+    mul: Damaliscus pygargus
+    nb: dorcasantilope
+    nl: Bontebok
+    nv: Jádítsoh naashchʼąąʼígíí
+    oc: Damaliscus pygargus
+    pl: Sasebi przylądkowy
+    pnb: بونٹبوک
+    pt: Damaliscus pygargus
+    pt-br: Damaliscus pygargus
+    ro: Damaliscus pygargus
+    ru: Бонтбок
+    sq: Damaliscus pygargus
+    sv: Bläsbock
+    ta: போண்டிபக்
+    udm: Тӧдьы ымныро бубал
+    uk: Бубал біломордий
+    vi: Trâu cỏ
+    vo: Damaliscus pygargus
+    war: Damaliscus pygargus
+    zh: 白纹牛羚
+    zh-cn: 白纹牛羚
+    zh-tw: 白紋牛羚
 ---
 # [[Bontebok]] 
 

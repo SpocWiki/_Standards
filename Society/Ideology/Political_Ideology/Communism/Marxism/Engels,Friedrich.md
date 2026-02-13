@@ -1,58 +1,109 @@
 ---
 aliases:
-  - Friedrich_Engels
-  - Friedrich Engels
-  - Engels
-  - Engels,Friedrich
+- Engels
+- Engels Fridrix
+- Engels,Friedrich
+- Engelsi Friedrich
+- Fredrich Engels
+- Fridericus Engels
+- Fridrix Engels
+- Friedrich Engels
+- Friedrich_Engels
+- Fryderyk Engels
+- Frédéric Engels
+- Frīdrihs Engelss
+- jan Pelike Enke
+- Φρίντριχ Ένγκελς
+- Фрідріх Енгельс
+- Фридрих Енгелс
+- Фридрих Энгелс
+- Фридрих Энгельс
+- Фрыдрых Энгельс
+- Энгельс
+- Энгельс Фридрих
+- Энгельс, Фридрих
+- Ֆրիդրիխ Էնգելս
+- פרידריך אנגלס
+- פרידריך ענגלס
+- ئېنگىلىس
+- فردریش انګلس
+- فردریش اینگلس
+- فريدريك إنجلز
+- فريدريك انجلز
+- فريڊرڪ اينگلس
+- فریدریش ئێنگڵس
+- فریدریش انگلس
+- فریڈرش اینگلز
+- فریڈرک اینگلز
+- फ्रीडरीश एंजेल्स
+- फ्रेडरिक एंगेल्स
+- ফ্রিডরিখ এঙ্গেলস
+- ফ্ৰিড্ৰিখ এংগেল্স
+- ਫਰੈਡਰਿਕ ਏਂਗਲਜ਼
+- பிரெட்ரிக் எங்கெல்சு
+- ఫ్రెడరిక్ ఎంగెల్స్
+- ಫ್ರೆಡ್ರಿಕ್ ಎಂಗೆಲ್ಸ್
+- ഫ്രെഡറിക് ഏംഗൽസ്
+- ฟรีดริช เอ็งเงิลส์
+- ຟຣິດຣິກ ອັງແກນ
+- ဖရစ်ဒရစ် အန်းဂဲ
+- အန်းဂဲ၊ အက်(ဖ)
+- ფრიდრიხ ენგელსი
+- ፍሬድሪክ ኤንግልስ
+- ហ្វ៊្រិឌ្រិច អង់ហ្គែល
+- フリードリヒ・エンゲルス
+- 弗里德里希·恩格斯
+- 恩格斯
+- 프리드리히 엥겔스
 has_id_wikidata: Q34787
 influenced_by:
-  - '[[_Standards/WikiData/WD~Ludwig_Feuerbach,76422]]'
-  - '[[_Standards/WikiData/WD~Max_Stirner,76725]]'
-  - '[[_Standards/WikiData/WD~David_Ricardo,160270]]'
-  - '[[_Standards/WikiData/WD~The_Essence_of_Christianity,1170769]]'
-  - '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
-  - '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
-  - '[[_Standards/WikiData/WD~Adam_Smith,9381]]'
-  - '[[_Standards/WikiData/WD~Heraclitus,41155]]'
+- '[[_Standards/WikiData/WD~Ludwig_Feuerbach,76422]]'
+- '[[_Standards/WikiData/WD~Max_Stirner,76725]]'
+- '[[_Standards/WikiData/WD~David_Ricardo,160270]]'
+- '[[_Standards/WikiData/WD~The_Essence_of_Christianity,1170769]]'
+- '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
+- '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
+- '[[_Standards/WikiData/WD~Adam_Smith,9381]]'
+- '[[_Standards/WikiData/WD~Heraclitus,41155]]'
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
-  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~social_scientist,15319501]]'
-  - '[[_Standards/WikiData/WD~political_theorist,15994177]]'
-  - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~social_scientist,15319501]]'
+- '[[_Standards/WikiData/WD~political_theorist,15994177]]'
+- "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Barmen,153974]]'
 member_of: "[[_Standards/WikiData/WD~International_Workingmen's_Association,183725]]"
 notable_work:
-  - '[[_Standards/WikiData/WD~The_German_Ideology,470600]]'
-  - '[[_Standards/WikiData/WD~Socialism_Utopian_and_Scientific,509858]]'
-  - '[[_Standards/WikiData/WD~The_Communist_Manifesto,40591]]'
+- '[[_Standards/WikiData/WD~The_German_Ideology,470600]]'
+- '[[_Standards/WikiData/WD~Socialism_Utopian_and_Scientific,509858]]'
+- '[[_Standards/WikiData/WD~The_Communist_Manifesto,40591]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Communist_League,642562]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Elberfeld,702259]]'
-  - '[[_Standards/WikiData/WD~Bremen,1209]]'
-  - '[[_Standards/WikiData/WD~Manchester,18125]]'
+- '[[_Standards/WikiData/WD~Elberfeld,702259]]'
+- '[[_Standards/WikiData/WD~Bremen,1209]]'
+- '[[_Standards/WikiData/WD~Manchester,18125]]'
 different_from: '[[_Standards/WikiData/WD~Friedrich_Engels,1458971]]'
 father: '[[_Standards/WikiData/WD~Friedrich_Engels,1458971]]'
 archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
@@ -70,15 +121,15 @@ sibling: '[[_Standards/WikiData/WD~Rudolf_Engels,94794516]]'
 mother: '[[_Standards/WikiData/WD~Elisabeth_Franziska_Mauritia_van_Haar,116468500]]'
 date_of_death: 1895-08-05T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Karl_Marx,9061]]'
 cause_of_death: '[[_Standards/WikiData/WD~cancer,12078]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
@@ -99,8 +150,150 @@ Libris_URI: 42gjj3dn447x6nq
 Europeana_entity: agent/base/145383
 Regensburg_Classification: CG 2700
 Wolfram_Language_entity_code: Entity["Person", "FriedrichEngels::w3tyn"]
+dv_has_:
+  name_:
+    af: Friedrich Engels
+    am: ፍሬድሪክ ኤንግልስ
+    an: Friedrich Engels
+    ar: فريدريك إنجلز
+    arz: فريدريك انجلز
+    as: ফ্ৰিড্ৰিখ এংগেল্স
+    ast: Friedrich Engels
+    az: Fridrix Engels
+    azb: فردریش اینگلس
+    ba: Фридрих Энгельс
+    be: Фрыдрых Энгельс
+    be-tarask: Фрыдрых Энгельс
+    bg: Фридрих Енгелс
+    bho: फ्रेडरिक एंगेल्स
+    bn: ফ্রিডরিখ এঙ্গেলস
+    br: Friedrich Engels
+    bs: Friedrich Engels
+    ca: Friedrich Engels
+    ce: Энгельс, Фридрих
+    ckb: فریدریش ئێنگڵس
+    cs: Friedrich Engels
+    cv: Энгельс Фридрих
+    cy: Friedrich Engels
+    da: Friedrich Engels
+    dag: Friedrich Engels
+    de: Friedrich Engels
+    diq: Friedrich Engels
+    el: Φρίντριχ Ένγκελς
+    en: Friedrich Engels
+    en-us: Friedrich Engels
+    eo: Friedrich Engels
+    es: Friedrich Engels
+    et: Friedrich Engels
+    eu: Friedrich Engels
+    ext: Friedrich Engels
+    fa: فریدریش انگلس
+    fi: Friedrich Engels
+    fo: Friedrich Engels
+    fr: Friedrich Engels
+    fur: Fredrich Engels
+    fy: Friedrich Engels
+    ga: Friedrich Engels
+    gd: Friedrich Engels
+    gl: Friedrich Engels
+    gn: Friedrich Engels
+    gv: Friedrich Engels
+    hak: Friedrich Engels
+    he: פרידריך אנגלס
+    hi: फ्रेडरिक एंगेल्स
+    hr: Friedrich Engels
+    hsb: Friedrich Engels
+    ht: Friedrich Engels
+    hu: Friedrich Engels
+    hy: Ֆրիդրիխ Էնգելս
+    id: Friedrich Engels
+    ig: Friedrich Engels
+    io: Friedrich Engels
+    is: Friedrich Engels
+    it: Friedrich Engels
+    ja: フリードリヒ・エンゲルス
+    jv: Friedrich Engels
+    ka: ფრიდრიხ ენგელსი
+    kk: Фридрих Енгелс
+    km: ហ្វ៊្រិឌ្រិច អង់ហ្គែល
+    kn: ಫ್ರೆಡ್ರಿಕ್ ಎಂಗೆಲ್ಸ್
+    ko: 프리드리히 엥겔스
+    ku: Friedrich Engels
+    ky: Энгельс
+    la: Fridericus Engels
+    lb: Friedrich Engels
+    lfn: Friedrich Engels
+    lo: ຟຣິດຣິກ ອັງແກນ
+    lt: Friedrich Engels
+    lv: Frīdrihs Engelss
+    mg: Friedrich Engels
+    mk: Фридрих Енгелс
+    ml: ഫ്രെഡറിക് ഏംഗൽസ്
+    mn: Фридрих Энгельс
+    mr: फ्रीडरीश एंजेल्स
+    ms: Friedrich Engels
+    mul: Friedrich Engels
+    my: အန်းဂဲ၊ အက်(ဖ)
+    mzn: فریدریش انگلس
+    nan: Friedrich Engels
+    nb: Friedrich Engels
+    nds: Friedrich Engels
+    ne: फ्रेडरिक एंगेल्स
+    nl: Friedrich Engels
+    nn: Friedrich Engels
+    oc: Friedrich Engels
+    os: Фридрих Энгельс
+    pa: ਫਰੈਡਰਿਕ ਏਂਗਲਜ਼
+    pl: Fryderyk Engels
+    pms: Friedrich Engels
+    pnb: فریڈرش اینگلز
+    ps: فردریش انګلس
+    pt: Friedrich Engels
+    pt-br: Friedrich Engels
+    qu: Friedrich Engels
+    rki: ဖရစ်ဒရစ် အန်းဂဲ
+    rm: Friedrich Engels
+    ro: Friedrich Engels
+    ru: Фридрих Энгельс
+    scn: Friedrich Engels
+    sco: Friedrich Engels
+    sd: فريڊرڪ اينگلس
+    sh: Friedrich Engels
+    sk: Friedrich Engels
+    sl: Friedrich Engels
+    sq: Friedrich Engels
+    sr: Фридрих Енгелс
+    sr-ec: Фридрих Енгелс
+    st: Friedrich Engels
+    sv: Friedrich Engels
+    ta: பிரெட்ரிக் எங்கெல்சு
+    te: ఫ్రెడరిక్ ఎంగెల్స్
+    tg: Фридрих Энгелс
+    th: ฟรีดริช เอ็งเงิลส์
+    tl: Friedrich Engels
+    tok: jan Pelike Enke
+    tr: Friedrich Engels
+    tt: Фридрих Энгельс
+    ug: ئېنگىلىس
+    uk: Фрідріх Енгельс
+    ur: فریڈرک اینگلز
+    uz: Engels Fridrix
+    vec: Friedrich Engels
+    vi: Friedrich Engels
+    vo: Friedrich Engels
+    vro: Engelsi Friedrich
+    wa: Frédéric Engels
+    war: Friedrich Engels
+    wuu: 弗里德里希·恩格斯
+    xmf: ფრიდრიხ ენგელსი
+    yi: פרידריך ענגלס
+    yo: Friedrich Engels
+    yue: 恩格斯
+    zh: 弗里德里希·恩格斯
+    zh-hans: 弗里德里希·恩格斯
+    zh-hant: 弗里德里希·恩格斯
+    zh-tw: 弗里德里希·恩格斯
 ---
-
 # [[Engels,Friedrich]] 
 
 #is_/same_as :: [[WD~Friedrich_Engels,34787]] 

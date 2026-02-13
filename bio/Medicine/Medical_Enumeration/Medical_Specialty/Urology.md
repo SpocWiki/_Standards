@@ -1,30 +1,194 @@
 ---
 aliases:
-  - urologic
-  - Urologic
-  - is_a_urologic
-  - Urology
+- is_a_urologic
+- Mizrohpizişkī
+- niệu học
+- pì-liō gōa-kho
+- troazhadouriezh
+- urologi
+- urologia
+- urologic
+- urologie
+- urologiija
+- urologija
+- urologije
+- Urologijə
+- urologio
+- urologiya
+- urologjia
+- Urology
+- urología
+- urolohiya
+- urolojia
+- uroloogia
+- uroloxía
+- uroloģija
+- urológia
+- urołozia
+- wroleg
+- wrologïya
+- yurinav
+- úireolaíocht
+- üroloji
+- Ουρολογία
+- Мизроҳпизишкӣ
+- уралёгія
+- уралогія
+- урологія
+- урологија
+- урология
+- ուրոլոգիա
+- אורולוגיה
+- اورولوژی
+- بولیات
+- طب الجهاز البولي
+- میزناسی
+- يورولاجي
+- ۋرولوگىييا
+- मूत्ररोग विज्ञान
+- युरोलोजी
+- বৃক্কশল্যবিদ্যা
+- சிறுநீரியல்
+- യൂറോളജി
+- මෞත්රික රෝග චිකිත්සාව
+- วิทยาทางเดินปัสสาวะ
+- უროლოგია
+- 泌尿器科学
+- 泌尿外科
+- 泌尿科
+- 비뇨기과
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicalSpecialty
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - urologic
+- urologic
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_urologic Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_urologic Class
 type: Type
 has_id_wikidata: Q105650
+dv_has_:
+  name_:
+    af: urologie
+    ar: طب الجهاز البولي
+    ast: uroloxía
+    az: urologiya
+    azb: اورولوژی
+    be: уралогія
+    be-tarask: уралёгія
+    bg: урология
+    bn: বৃক্কশল্যবিদ্যা
+    br: troazhadouriezh
+    bs: urologija
+    ca: urologia
+    ckb: میزناسی
+    cs: urologie
+    cy: wroleg
+    da: urologi
+    de: Urologie
+    el: Ουρολογία
+    en: urology
+    eo: urologio
+    es: urología
+    et: uroloogia
+    eu: urologia
+    fa: اورولوژی
+    fi: urologia
+    fr: urologie
+    ga: úireolaíocht
+    gl: uroloxía
+    he: אורולוגיה
+    hi: मूत्ररोग विज्ञान
+    hr: urologija
+    hu: urológia
+    hy: ուրոլոգիա
+    id: urologi
+    io: Urologio
+    it: urologia
+    ja: 泌尿器科学
+    jv: Urologi
+    ka: უროლოგია
+    kk: урология
+    kk-arab: ۋرولوگىييا
+    kk-cn: ۋرولوگىييا
+    kk-cyrl: урология
+    kk-kz: урология
+    kk-latn: wrologïya
+    kk-tr: wrologïya
+    ko: 비뇨기과
+    ky: урология
+    la: Urologia
+    lb: Urologie
+    lfn: urolojia
+    li: Urologie
+    lt: urologija
+    lv: uroloģija
+    mk: урологија
+    ml: യൂറോളജി
+    ms: Urologi
+    nan: pì-liō gōa-kho
+    nb: urologi
+    nds: Urologie
+    ne: युरोलोजी
+    new: युरोलोजी
+    nl: urologie
+    nn: urologi
+    pi: युरोलोजी
+    pl: urologia
+    pt: urologia
+    ro: urologie
+    ru: урология
+    sa: युरोलोजी
+    sco: urology
+    sd: يورولاجي
+    se: urologiija
+    sh: urologija
+    si: මෞත්රික රෝග චිකිත්සාව
+    sl: urologija
+    sma: urologije
+    smj: urologija
+    smn: urologia
+    sms: urologia
+    sq: urologjia
+    sr: урологија
+    sr-ec: урологија
+    sr-el: urologija
+    sv: urologi
+    ta: சிறுநீரியல்
+    tg: Мизроҳпизишкӣ
+    tg-latn: Mizrohpizişkī
+    th: วิทยาทางเดินปัสสาวะ
+    tly: Urologijə
+    tr: üroloji
+    tt: урология
+    uk: урологія
+    ur: بولیات
+    uz: urologiya
+    vec: urołozia
+    vi: niệu học
+    vo: yurinav
+    war: urolohiya
+    wuu: 泌尿外科
+    xmf: უროლოგია
+    yue: 泌尿科
+    zh: 泌尿外科
+    zh-cn: 泌尿外科
+    zh-hans: 泌尿外科
+    zh-hant: 泌尿外科
+    zh-hk: 泌尿外科
+    zh-sg: 泌尿外科
+    zh-tw: 泌尿外科
 ---
 # [[Urology]] 
 

@@ -1,8 +1,78 @@
 ---
 aliases:
-  - Neobatrachia
+- Jauno varžu apakškārta
+- Neobatrachia
+- Neobatraci
+- Novbatrakoj
+- Νεοβατράχια
+- ניאובטרכיה
+- ضفادع جديدة
+- ضفادع جديده
+- نوغوکان
+- 新蛙亚目
+- 新蛙亞目
+- 신와아목
 title: Neobatrachia
 has_id_wikidata: Q134759
+dv_has_:
+  name_:
+    an: Neobatrachia
+    ar: ضفادع جديدة
+    arz: ضفادع جديده
+    ast: Neobatrachia
+    be: Neobatrachia
+    bg: Neobatrachia
+    ca: Neobatraci
+    ceb: Neobatrachia
+    cs: Neobatrachia
+    da: Neobatrachia
+    de: Neobatrachia
+    el: Νεοβατράχια
+    en: Neobatrachia
+    eo: Novbatrakoj
+    es: Neobatrachia
+    eu: Neobatrachia
+    ext: Neobatrachia
+    fa: نوغوکان
+    fi: Neobatrachia
+    fr: Neobatrachia
+    ga: Neobatrachia
+    gl: Neobatrachia
+    he: ניאובטרכיה
+    hu: Neobatrachia
+    ia: Neobatrachia
+    ie: Neobatrachia
+    io: Neobatrachia
+    it: Neobatrachia
+    ko: 신와아목
+    la: Neobatrachia
+    lv: Jauno varžu apakškārta
+    mul: Neobatrachia
+    nb: Neobatrachia
+    nl: Neobatrachia
+    nn: Neobatrachia
+    oc: Neobatrachia
+    pl: Neobatrachia
+    pt: Neobatrachia
+    pt-br: Neobatrachia
+    ro: Neobatrachia
+    ru: Neobatrachia
+    sl: Neobatrachia
+    sq: Neobatrachia
+    sr: Neobatrachia
+    sv: Neobatrachia
+    uk: Neobatrachia
+    vi: Neobatrachia
+    vls: Neobatrachia
+    vo: Neobatrachia
+    war: Neobatrachia
+    zh: 新蛙亞目
+    zh-cn: 新蛙亚目
+    zh-hans: 新蛙亚目
+    zh-hant: 新蛙亞目
+    zh-hk: 新蛙亞目
+    zh-sg: 新蛙亚目
+    zh-tw: 新蛙亞目
 ---
 # [[Neobatrachia]]
 

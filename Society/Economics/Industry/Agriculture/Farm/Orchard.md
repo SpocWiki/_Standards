@@ -1,15 +1,80 @@
 ---
 aliases:
-  - Obstgarten
-  - Orchard
+- Agrošumarstvo
+- Arbustum
+- augļu dārzs
+- Baamgaarde
+- boengerd
+- Bongert
+- boomgaard
+- Bostan
+- Bóngerd
+- Dusun
+- froothlan
+- Frucht-Ounbau
+- frugthave
+- Fruitu-baratze
+- fruktdyrking
+- fruktodling
+- fruktoĝardeno
+- Fruter
+- fruttera
+- frutteto
+- gort
+- Güertu frutal
+- hedelmänviljely
+- Huerta
+- huerto frutal
+- Hôf
+- Kabun
+- Kebon
+- Kebun
+- Livadă
+- Mallki-mallki
+- meyve bahçesi
+- Obstgarten
+- Orchard
+- perllan
+- Pomar
+- sad
+- sadovnjak
+- Streuobstwiese
+- Ubhal-ghort
+- Ubi mkpụrụ osisi
+- verger
+- Voćnjak
+- Vườn cây ăn trái
+- οπωρώνας
+- воћњак
+- овоштарник
+- Овощна градина
+- пладовы сад
+- фруктовий сад
+- фруктовый сад
+- պտղատու այգի
+- פרדס
+- باغ میوه
+- بستان
+- پھݪدار باغ
+- फलौद्यान
+- பழத் தோட்டம்
+- ತೋಟ
+- ഫല വൃക്ഷത്തോപ്പ്
+- สวนผลไม้
+- စိုက်ပျိုးခြံ
+- သူၼ်မၢၵ်ႇဝၢၵ်ႈ
+- 果园
+- 果園
+- 果樹園
+- 과수원
 has_id_wikidata: Q236371
 subclass_of:
-  - '[[_Standards/WikiData/WD~market_garden,143970]]'
-  - '[[_Standards/WikiData/WD~plantation,188913]]'
+- '[[_Standards/WikiData/WD~market_garden,143970]]'
+- '[[_Standards/WikiData/WD~plantation,188913]]'
 award_received: '[[_Standards/WikiData/WD~biotope_of_the_year,864861]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~Bo_ston,2455238]]'
 Dewey_Decimal_Classification: 634
 OmegaWiki_Defined_Meaning: 504423
@@ -20,8 +85,85 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Streuobstwiesen%2C%20B
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000115
 GeoNames_feature_code: V.OCH
 OpenStreetMap_tag: landuse=orchard
+dv_has_:
+  name_:
+    an: Huerta
+    ar: بستان
+    ast: Güertu frutal
+    be: пладовы сад
+    be-tarask: пладовы сад
+    bg: Овощна градина
+    bjn: Kabun
+    bs: Agrošumarstvo
+    ca: verger
+    cs: sad
+    cy: perllan
+    da: frugthave
+    de: Streuobstwiese
+    de-ch: Streuobstwiese
+    diq: Bostan
+    el: οπωρώνας
+    en: orchard
+    en-ca: Orchard
+    en-gb: orchard
+    eo: fruktoĝardeno
+    es: huerto frutal
+    eu: Fruitu-baratze
+    fa: باغ میوه
+    fi: hedelmänviljely
+    fr: verger
+    fy: Hôf
+    ga: gort
+    gd: Ubhal-ghort
+    he: פרדס
+    hi: फलौद्यान
+    hr: Voćnjak
+    hy: պտղատու այգի
+    id: Kebun
+    ig: Ubi mkpụrụ osisi
+    it: frutteto
+    ja: 果樹園
+    jv: Kebon
+    ko: 과수원
+    kw: froothlan
+    la: Arbustum
+    lb: Bongert
+    li: Bóngerd
+    lv: augļu dārzs
+    mk: овоштарник
+    ml: ഫല വൃക്ഷത്തോപ്പ്
+    ms: Dusun
+    my: စိုက်ပျိုးခြံ
+    nds-nl: boengerd
+    nl: boomgaard
+    nn: fruktdyrking
+    pdc: Baamgaarde
+    pl: sad
+    pnb: پھݪدار باغ
+    pt: pomar
+    pt-br: Pomar
+    qu: Mallki-mallki
+    ro: Livadă
+    ru: фруктовый сад
+    scn: fruttera
+    sh: Voćnjak
+    shn: သူၼ်မၢၵ်ႇဝၢၵ်ႈ
+    sk: sad
+    sl: sadovnjak
+    sr: воћњак
+    stq: Frucht-Ounbau
+    sv: fruktodling
+    ta: பழத் தோட்டம்
+    tcy: ತೋಟ
+    th: สวนผลไม้
+    tr: meyve bahçesi
+    uk: фруктовий сад
+    vec: Fruter
+    vi: Vườn cây ăn trái
+    wuu: 果园
+    yue: 果園
+    zh: 果園
 ---
-
 # [[Orchard]]
 
 #is_/same_as :: [[WD~Orchard,236371]] 

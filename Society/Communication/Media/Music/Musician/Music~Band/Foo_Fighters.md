@@ -1,8 +1,104 @@
 ---
 aliases:
-  - Foo Fighters
-  - Foo_Fighters
+- Foo Fighters
+- Foo_Fighters
+- Фу фајтерс
+- Фу Файтърс
+- פו פייטרס
+- فو فايترز
+- فو فایترز
+- फू फाइटर्स
+- ฟูไฟเตอร์ส
+- フー・ファイターズ
+- 喷火战机乐队
+- 噴火戰機樂團
+- 噴火戰機樂隊
+- 幽浮一族樂團
+- 푸 파이터스
+- "\U00010346\U0001033F \U00010346\U00010330\U0001033E\U00010344\U00010330\U00010339\U00010342\U00010343"
 has_id_wikidata: Q483718
+dv_has_:
+  name_:
+    ar: فو فايترز
+    ast: Foo Fighters
+    azb: فو فایترز
+    be: Foo Fighters
+    be-tarask: Foo Fighters
+    bg: Фу Файтърс
+    bs: Foo Fighters
+    ca: Foo Fighters
+    cs: Foo Fighters
+    cy: Foo Fighters
+    da: Foo Fighters
+    de: Foo Fighters
+    de-ch: Foo Fighters
+    el: Foo Fighters
+    eml: Foo Fighters
+    en: Foo Fighters
+    en-ca: Foo Fighters
+    en-gb: Foo Fighters
+    eo: Foo Fighters
+    es: Foo Fighters
+    et: Foo Fighters
+    eu: Foo Fighters
+    fa: فو فایترز
+    fi: Foo Fighters
+    fr: Foo Fighters
+    fy: Foo Fighters
+    ga: Foo Fighters
+    gl: Foo Fighters
+    got: "\U00010346\U0001033F \U00010346\U00010330\U0001033E\U00010344\U00010330\U00010339\U00010342\U00010343"
+    he: פו פייטרס
+    hi: फू फाइटर्स
+    hr: Foo Fighters
+    hu: Foo Fighters
+    hy: Foo Fighters
+    id: Foo Fighters
+    io: Foo Fighters
+    is: Foo Fighters
+    it: Foo Fighters
+    ja: フー・ファイターズ
+    jv: Foo Fighters
+    ka: Foo Fighters
+    ko: 푸 파이터스
+    lb: Foo Fighters
+    lt: Foo Fighters
+    lv: Foo Fighters
+    mk: Foo Fighters
+    ms: Foo Fighters
+    mul: Foo Fighters
+    nb: Foo Fighters
+    nl: Foo Fighters
+    nn: Foo Fighters
+    oc: Foo Fighters
+    pl: Foo Fighters
+    pms: Foo Fighters
+    pt: Foo Fighters
+    pt-br: Foo Fighters
+    ro: Foo Fighters
+    ru: Foo Fighters
+    scn: Foo Fighters
+    sco: Foo Fighters
+    sh: Foo Fighters
+    sk: Foo Fighters
+    sl: Foo Fighters
+    sr: Фу фајтерс
+    sr-ec: Фу фајтерс
+    sr-el: Фу фајтерс
+    su: Foo Fighters
+    sv: Foo Fighters
+    th: ฟูไฟเตอร์ส
+    tr: Foo Fighters
+    uk: Foo Fighters
+    uz: Foo Fighters
+    vi: Foo Fighters
+    wuu: 喷火战机乐队
+    zh: 噴火戰機樂隊
+    zh-cn: 喷火战机乐队
+    zh-hans: 喷火战机乐队
+    zh-hant: 噴火戰機樂團
+    zh-hk: 噴火戰機樂團
+    zh-tw: 幽浮一族樂團
 ---
 ## #has_/text_of_/abstract 
 

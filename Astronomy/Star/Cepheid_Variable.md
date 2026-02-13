@@ -1,40 +1,154 @@
 ---
 aliases:
-  - Cepheid
-  - Cepheid_Variable
-  - Cepheid Variable
+- Cefeida
+- Cefeido
+- Cefeidă
+- Cefeidė
+- Cefeīda
+- Ceifid
+- Cepheid
+- Cepheid Variable
+- Cepheid-varianti
+- cepheide
+- Cepheiden
+- Cepheid_Variable
+- Cepheïde
+- Cepheïed
+- céphéide
+- Estrella variable Cefeida
+- Kefeide
+- Kefeidi
+- kefeidna spremenljivka
+- Sao biến quang Cepheid
+- Sefe değişeni
+- Sefeid
+- Stella variabilis Cepheis
+- Variabel Cepheid
+- variabile Cefeide
+- Zefeida izar aldakor
+- Κηφείδες
+- кефеида
+- цефеїда
+- цефеида
+- Цефеидтер
+- Цэфеіды
+- цэфэіда
+- Ցեֆեիդ
+- משתנה קפאידי
+- متغير قيفاوي
+- متغیر دلتا قیفاووسی
+- सॅफ़ॅई परिवर्ती तारा
+- শেফালী বিষমতারা
+- സെഫീഡ് ചരനക്ഷത്രം
+- ดาวแปรแสงชนิดเซเฟอิด
+- ცეფეიდეფი
+- ケフェイド変光星
+- 脈動變星
+- 造父变星
+- 造父變星
+- 세페이드 변광성
 has_id_wikidata: Q188593
 subclass_of:
-  - "[[_Standards/WikiData/WD~pulsating_variable_star,353834]]"
+- '[[_Standards/WikiData/WD~pulsating_variable_star,353834]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]"
+- '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-named_after: "[[_Standards/WikiData/WD~Delta_Cephei,13024]]"
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+named_after: '[[_Standards/WikiData/WD~Delta_Cephei,13024]]'
 catalog_code: CEP
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heic1323a%20-1243686232.jpg
 Commons_category: Cepheid variables
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]"
-    - "[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]"
-    - "[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]"
-    - "[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]"
-    - "[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]"
-    - "[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]"
-    - "[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]"
-    - "[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]"
+  - '[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]'
+  - '[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]'
+  - '[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]'
+  - '[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]'
+  - '[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]'
+  - '[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]'
+  - '[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]'
+  - '[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]"
-  - "[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]"
-  - "[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]"
-  - "[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]"
-  - "[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]"
-  - "[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]"
-  - "[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]"
-  - "[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]"
+- '[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]'
+- '[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]'
+- '[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]'
+- '[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]'
+- '[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]'
+- '[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]'
+- '[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]'
+- '[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]'
+dv_has_:
+  name_:
+    af: Cepheïed
+    ar: متغير قيفاوي
+    ast: Estrella variable Cefeida
+    az: Sefeid
+    be: Цэфеіды
+    be-tarask: цэфэіда
+    bg: Цефеида
+    bn: শেফালী বিষমতারা
+    bs: Cefeida
+    ca: cefeida
+    cs: cefeida
+    da: cepheide
+    de: Cepheiden
+    el: Κηφείδες
+    en: Cepheid variable
+    eo: Cefeido
+    es: Estrella variable Cefeida
+    eu: Zefeida izar aldakor
+    fa: متغیر دلتا قیفاووسی
+    fi: Kefeidi
+    fr: céphéide
+    ga: Ceifid
+    gl: Cefeida
+    he: משתנה קפאידי
+    hi: सॅफ़ॅई परिवर्ती तारा
+    hr: Cefeida
+    hu: cefeida
+    hy: Ցեֆեիդ
+    id: Variabel Cepheid
+    io: Cepheid-varianti
+    it: variabile Cefeide
+    ja: ケフェイド変光星
+    kk: Цефеидтер
+    ko: 세페이드 변광성
+    la: Stella variabilis Cepheis
+    lb: Cepheiden
+    lt: Cefeidė
+    lv: Cefeīda
+    mk: кефеида
+    ml: സെഫീഡ് ചരനക്ഷത്രം
+    nb: Kefeide
+    nl: Cepheïde
+    nn: Kefeide
+    oc: Cefeida
+    pl: Cefeida
+    pt: Cefeida
+    ro: Cefeidă
+    ru: цефеида
+    sco: Cepheid variable
+    sk: Cefeida
+    sl: kefeidna spremenljivka
+    sr: Цефеида
+    sr-ec: Цефеида
+    sr-el: Cefeida
+    sv: cepheid
+    th: ดาวแปรแสงชนิดเซเฟอิด
+    tr: Sefe değişeni
+    uk: цефеїда
+    vi: Sao biến quang Cepheid
+    wuu: 造父变星
+    xmf: ცეფეიდეფი
+    yue: 脈動變星
+    zh: 造父变星
+    zh-cn: 造父变星
+    zh-hans: 造父变星
+    zh-hant: 造父變星
+    zh-hk: 造父變星
+    zh-sg: 造父变星
+    zh-tw: 造父變星
 ---
-
 # [[Cepheid_Variable]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]] 

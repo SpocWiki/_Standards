@@ -1,112 +1,154 @@
 ---
 aliases:
-  - Asimov,Isaak
-  - Isaac Asimov
-  - Asimov,Isaac
+- Aizeks Azimovs
+- Asimov,Isaac
+- Asimov,Isaak
+- Ayzek Əzimov
+- Azimov Ayzek
+- Isaac Asimov
+- Isaak Ozimov
+- jan Isa Asimo
+- Ισαάκ Ασίμωφ
+- Ајзак Асимов
+- Азимов Айзек
+- Азимов, Айзек
+- Айзек Азімов
+- Айзек Азимов
+- Айзък Азимов
+- Айзэк Азімаў
+- Исак Асимов
+- Այզեկ Ազիմով
+- אייזיק אסימאוו
+- אייזק אסימוב
+- آئزک ایزیموف
+- آئزک ایسیموو
+- آیزاک آسیموف
+- آیزاک عظیموف
+- إسحق عظيموف
+- ئىسساك ئاسىموۋ
+- ئیسحاق ئاسیمۆڤ
+- اسحاق عاصموف
+- اسحق عظيموف
+- आईज़ैक असिमोव
+- आयझॅक आसिमॉव्ह
+- আইজাক আসিমভ
+- আইজাক এজিম’ভ
+- ਆਏਜ਼ੈਕ ਐਸੀਮੋਵ
+- ஐசாக் அசிமோவ்
+- ఐజాక్ అసిమోవ్
+- ಐಸಾಕ್ ಅಸಿಮೋವ್
+- ഐസക് അസിമൊവ്
+- ไอแซค อสิมอฟ
+- ໄອຊັກ ແອຊິມອບ
+- აიზეკ აზიმოვი
+- アイザック・アシモフ
+- 艾萨克·阿西莫夫
+- 阿西莫夫
+- 아이작 아시모프
 has_id_wikidata: Q34981
 list_of_works: '[[_Standards/WikiData/WD~Isaac_Asimov_bibliography,76977]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Hugo_Award,188914]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
-  - '[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]'
-  - '[[_Standards/WikiData/WD~Ditmar_Award,906455]]'
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novelette,936683]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Related_Work,1056237]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novelette,1056265]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
-  - '[[_Standards/WikiData/WD~Klumpke_Roberts_Award,3174253]]'
-  - '[[_Standards/WikiData/WD~Cosmos_2000_Award,3404499]]'
-  - '[[_Standards/WikiData/WD~James_T._Grady_James_H._Stack_Award_for_Interpreting_Chemistry,6143927]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novelette,17008964]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Story,17008985]]'
-  - '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
-  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Committee_for_Skeptical_Inquiry,61745062]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Short_Story,115289318]]'
-  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_All_Time_Series,129360438]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Reprint_Anthology_Collection,130619273]]'
+- '[[_Standards/WikiData/WD~Hugo_Award,188914]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
+- '[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]'
+- '[[_Standards/WikiData/WD~Ditmar_Award,906455]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novelette,936683]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Related_Work,1056237]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novelette,1056265]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
+- '[[_Standards/WikiData/WD~Klumpke_Roberts_Award,3174253]]'
+- '[[_Standards/WikiData/WD~Cosmos_2000_Award,3404499]]'
+- '[[_Standards/WikiData/WD~James_T._Grady_James_H._Stack_Award_for_Interpreting_Chemistry,6143927]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novelette,17008964]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Story,17008985]]'
+- '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Committee_for_Skeptical_Inquiry,61745062]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Short_Story,115289318]]'
+- '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_All_Time_Series,129360438]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Reprint_Anthology_Collection,130619273]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Short_Story,610903]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Short_Story,1056251]]'
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novelette,1056265]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novelette,17008964]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novella,17008972]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Story,17008985]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Anthology,78621336]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Reprint_Anthology_Collection,130619273]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Short_Story,610903]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Short_Story,1056251]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novelette,1056265]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novelette,17008964]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novella,17008972]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Short_Story,17008985]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Anthology,78621336]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Reprint_Anthology_Collection,130619273]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Gods_Themselves,389750]]'
-  - '[[_Standards/WikiData/WD~I,_Robot,393018]]'
-  - '[[_Standards/WikiData/WD~The_Bicentennial_Man,468132]]'
-  - '[[_Standards/WikiData/WD~Robot_series,913482]]'
-  - "[[_Standards/WikiData/WD~The_Intelligent_Man's_Guide_to_Science,943878]]"
-  - '[[_Standards/WikiData/WD~Nightfall,1138091]]'
-  - '[[_Standards/WikiData/WD~Foundation_series,1564644]]'
-  - '[[_Standards/WikiData/WD~Youth,2827384]]'
+- '[[_Standards/WikiData/WD~The_Gods_Themselves,389750]]'
+- '[[_Standards/WikiData/WD~I,_Robot,393018]]'
+- '[[_Standards/WikiData/WD~The_Bicentennial_Man,468132]]'
+- '[[_Standards/WikiData/WD~Robot_series,913482]]'
+- "[[_Standards/WikiData/WD~The_Intelligent_Man's_Guide_to_Science,943878]]"
+- '[[_Standards/WikiData/WD~Nightfall,1138091]]'
+- '[[_Standards/WikiData/WD~Foundation_series,1564644]]'
+- '[[_Standards/WikiData/WD~Youth,2827384]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Janet_Asimov,517435]]'
-  - '[[_Standards/WikiData/WD~Gertrude_Asimov,107693884]]'
+- '[[_Standards/WikiData/WD~Janet_Asimov,517435]]'
+- '[[_Standards/WikiData/WD~Gertrude_Asimov,107693884]]'
 residence:
-  - '[[_Standards/WikiData/WD~West_Philadelphia,767950]]'
-  - '[[_Standards/WikiData/WD~Petrovichi,1010621]]'
-  - '[[_Standards/WikiData/WD~Manhattan,11299]]'
-  - '[[_Standards/WikiData/WD~Brooklyn,18419]]'
-  - '[[_Standards/WikiData/WD~Boston,100]]'
+- '[[_Standards/WikiData/WD~West_Philadelphia,767950]]'
+- '[[_Standards/WikiData/WD~Petrovichi,1010621]]'
+- '[[_Standards/WikiData/WD~Manhattan,11299]]'
+- '[[_Standards/WikiData/WD~Brooklyn,18419]]'
+- '[[_Standards/WikiData/WD~Boston,100]]'
 place_of_birth: '[[_Standards/WikiData/WD~Petrovichi,1010621]]'
 occupation:
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~biochemist,2919046]]'
-  - '[[_Standards/WikiData/WD~science_writer,3745071]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~crime_fiction_writer,10297252]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~biochemist,2919046]]'
+- '[[_Standards/WikiData/WD~science_writer,3745071]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~crime_fiction_writer,10297252]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
-  - '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~positronic_brain,2488408]]'
-  - '[[_Standards/WikiData/WD~positronic_robot,3939311]]'
+- '[[_Standards/WikiData/WD~positronic_brain,2488408]]'
+- '[[_Standards/WikiData/WD~positronic_robot,3939311]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Boys_High_School,4952658]]'
-  - '[[_Standards/WikiData/WD~Boys_and_Girls_High_School,4952707]]'
-  - '[[_Standards/WikiData/WD~Fu_Foundation_School_of_Engineering_and_Applied_Science,5149833]]'
-  - '[[_Standards/WikiData/WD~Columbia_University_School_of_General_Studies,5149901]]'
-  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Boys_High_School,4952658]]'
+- '[[_Standards/WikiData/WD~Boys_and_Girls_High_School,4952707]]'
+- '[[_Standards/WikiData/WD~Fu_Foundation_School_of_Engineering_and_Applied_Science,5149833]]'
+- '[[_Standards/WikiData/WD~Columbia_University_School_of_General_Studies,5149901]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 given_name: '[[_Standards/WikiData/WD~Q5920537,5920537]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Isaac_Asimov_novels,10563910]]'
 family_name: '[[_Standards/WikiData/WD~Azimov,16479712]]'
 cause_of_death: '[[_Standards/WikiData/WD~AIDS_related_disease,28608836]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 sibling: '[[_Standards/WikiData/WD~Stanley_Asimov,104177309]]'
 child: '[[_Standards/WikiData/WD~Robyn_Asimov,107693918]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Yiddish,8641]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Yiddish,8641]]'
 field_of_work: '[[_Standards/WikiData/WD~biochemistry,7094]]'
 ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
 military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
@@ -139,8 +181,147 @@ Libris_URI: sq466txb40653h3
 birth_name: Исаáк Ази́мов
 work_period_start_: 1934-01-01T00:00:00Z
 date_of_birth: 1920-01-02T00:00:00Z
+dv_has_:
+  name_:
+    af: Isaac Asimov
+    alt: Азимов, Айзек
+    an: Isaac Asimov
+    ar: إسحق عظيموف
+    arz: اسحق عظيموف
+    as: আইজাক এজিম’ভ
+    ast: Isaac Asimov
+    ay: Isaac Asimov
+    az: Ayzek Əzimov
+    azb: آیزاک آسیموف
+    ba: Азимов Айзек
+    bcl: Isaac Asimov
+    be: Айзэк Азімаў
+    be-tarask: Айзэк Азімаў
+    bg: Айзък Азимов
+    bjn: Isaac Asimov
+    bn: আইজাক আসিমভ
+    br: Isaac Asimov
+    bs: Isaac Asimov
+    ca: Isaac Asimov
+    ckb: ئیسحاق ئاسیمۆڤ
+    co: Isaac Asimov
+    cs: Isaac Asimov
+    cy: Isaac Asimov
+    da: Isaac Asimov
+    dag: Isaac Asimov
+    de: Isaac Asimov
+    de-at: Isaac Asimov
+    de-ch: Isaac Asimov
+    el: Ισαάκ Ασίμωφ
+    en: Isaac Asimov
+    en-ca: Isaac Asimov
+    en-gb: Isaac Asimov
+    eo: Isaac Asimov
+    es: Isaac Asimov
+    et: Isaac Asimov
+    eu: Isaac Asimov
+    ext: Isaac Asimov
+    fa: آیزاک عظیموف
+    fi: Isaac Asimov
+    fo: Isaac Asimov
+    fr: Isaac Asimov
+    fy: Isaac Asimov
+    ga: Isaac Asimov
+    gl: Isaac Asimov
+    he: אייזק אסימוב
+    hi: आईज़ैक असिमोव
+    hr: Isaac Asimov
+    ht: Isaac Asimov
+    hu: Isaac Asimov
+    hy: Այզեկ Ազիմով
+    ia: Isaac Asimov
+    id: Isaac Asimov
+    ilo: Isaac Asimov
+    io: Isaac Asimov
+    is: Isaac Asimov
+    it: Isaac Asimov
+    ja: アイザック・アシモフ
+    jut: Isaac Asimov
+    jv: Isaac Asimov
+    ka: აიზეკ აზიმოვი
+    kk: Айзек Азимов
+    kl: Isaac Asimov
+    kn: ಐಸಾಕ್ ಅಸಿಮೋವ್
+    ko: 아이작 아시모프
+    ku: Isaac Asimov
+    kw: Isaac Asimov
+    ky: Азимов Айзек
+    la: Isaac Asimov
+    lad: Isaac Asimov
+    lfn: Isaac Asimov
+    li: Isaac Asimov
+    lo: ໄອຊັກ ແອຊິມອບ
+    lt: Isaac Asimov
+    lv: Aizeks Azimovs
+    map-bms: Isaac Asimov
+    mg: Isaac Asimov
+    mk: Исак Асимов
+    ml: ഐസക് അസിമൊവ്
+    mr: आयझॅक आसिमॉव्ह
+    ms: Isaac Asimov
+    mul: Isaac Asimov
+    mwl: Isaac Asimov
+    mzn: آیزاک آسیموف
+    nah: Isaac Asimov
+    nan: Isaac Asimov
+    nb: Isaac Asimov
+    nl: Isaac Asimov
+    nn: Isaac Asimov
+    oc: Isaac Asimov
+    pa: ਆਏਜ਼ੈਕ ਐਸੀਮੋਵ
+    pap: Isaac Asimov
+    pl: Isaac Asimov
+    pms: Isaac Asimov
+    pnb: آئزک ایزیموف
+    ps: اسحاق عاصموف
+    pt: Isaac Asimov
+    pt-br: Isaac Asimov
+    qu: Isaac Asimov
+    ro: Isaac Asimov
+    ru: Айзек Азимов
+    rue: Айзек Азимов
+    rup: Isaac Asimov
+    sc: Isaac Asimov
+    sco: Isaac Asimov
+    sh: Isaac Asimov
+    sje: Isaac Asimov
+    sk: Isaac Asimov
+    sl: Isaac Asimov
+    sq: Isaac Asimov
+    sr: Ајзак Асимов
+    sv: Isaac Asimov
+    sw: Isaac Asimov
+    szl: Isaac Asimov
+    ta: ஐசாக் அசிமோவ்
+    te: ఐజాక్ అసిమోవ్
+    tg: Айзек Азимов
+    tg-cyrl: Айзек Азимов
+    th: ไอแซค อสิมอฟ
+    tk: Isaak Ozimov
+    tl: Isaac Asimov
+    tok: jan Isa Asimo
+    tr: Isaac Asimov
+    tt: Айзек Азимов
+    tt-cyrl: Айзек Азимов
+    ug: ئىسساك ئاسىموۋ
+    uk: Айзек Азімов
+    ur: آئزک ایسیموو
+    uz: Azimov Ayzek
+    vec: Isaac Asimov
+    vi: Isaac Asimov
+    war: Isaac Asimov
+    wuu: 艾萨克·阿西莫夫
+    xmf: აიზეკ აზიმოვი
+    yi: אייזיק אסימאוו
+    yo: Isaac Asimov
+    yue: 阿西莫夫
+    zh: 艾萨克·阿西莫夫
 ---
-
 # [[Asimov,Isaac]] 
 
 #has_/time_/started :: 1920-01-02  

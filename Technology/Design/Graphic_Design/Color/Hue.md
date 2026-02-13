@@ -1,14 +1,111 @@
 ---
 aliases:
+- arlliw
+- barvitost
+- Farbton
+- färgton
+- hue
+- koloronuanco
+- kulør
+- Matiz
+- Nuanco (koloro)
+- nuanță
+- odcień
+- odstín
+- odtieň
+- Rona
+- Sek-siòng
+- sävy
+- teinte
+- tint
+- Tinta
+- Ton
+- tonalitat
+- tonalità
+- tono
+- tonu
+- Värvitoon
+- árnyalat
+- çalar
+- Απόχρωση
+- відтінок
+- нијансе боје
+- тон
+- төҫ
+- цветови тон
+- גוון
+- صبغة اللون
+- پرده رنگ
+- پردہ رنگ
+- สีสัน
+- 色相
+- 색상
 has_id_wikidata: Q372948
-instance_of: "[[_Standards/WikiData/WD~measure,192276]]"
-subclass_of: "[[_Standards/WikiData/WD~quality,1207505]]"
-characteristic_of: "[[_Standards/WikiData/WD~color,1075]]"
+instance_of: '[[_Standards/WikiData/WD~measure,192276]]'
+subclass_of: '[[_Standards/WikiData/WD~quality,1207505]]'
+characteristic_of: '[[_Standards/WikiData/WD~color,1075]]'
 Commons_category: Hue
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hue%20shift%20six%20photoshop.jpg
 IEV_number: 845-22-067
+dv_has_:
+  name_:
+    ar: صبغة اللون
+    az: çalar
+    ba: төҫ
+    be: тон
+    be-tarask: тон
+    bg: цветови тон
+    ca: tonalitat
+    cs: odstín
+    cy: arlliw
+    de: Farbton
+    el: Απόχρωση
+    en: hue
+    en-ca: Hue
+    en-gb: hue
+    eo: koloronuanco
+    es: tono
+    et: Värvitoon
+    eu: tonu
+    fa: پرده رنگ
+    fi: sävy
+    fr: teinte
+    fy: Tint
+    gl: Ton
+    he: גוון
+    hu: árnyalat
+    id: Rona
+    io: Nuanco (koloro)
+    it: tonalità
+    ja: 色相
+    ko: 색상
+    mk: Тон
+    nan: Sek-siòng
+    nb: kulør
+    nl: tint
+    oc: Tinta
+    pl: odcień
+    pt: matiz
+    pt-br: Matiz
+    ro: nuanță
+    ru: тон
+    sk: odtieň
+    sl: barvitost
+    sr: нијансе боје
+    sv: färgton
+    th: สีสัน
+    uk: відтінок
+    ur: پردہ رنگ
+    wuu: 色相
+    yue: 色相
+    zh: 色相
+    zh-cn: 色相
+    zh-hans: 色相
+    zh-hant: 色相
+    zh-hk: 色相
+    zh-sg: 色相
+    zh-tw: 色相
 ---
-
 # [[Hue]] 
 
 #is_/same_as :: [[WD~Hue,372948]] 

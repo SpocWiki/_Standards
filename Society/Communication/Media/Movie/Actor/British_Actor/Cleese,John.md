@@ -1,28 +1,50 @@
 ---
 aliases:
-  - John Cleese
-  - John Marwood Cleese
-  - Cleese,John
+- Cleese,John
+- Džons Klīzs
+- Ioannes Cleese
+- John Cleese
+- John Marwood Cleese
+- Τζον Κλιζ
+- Џон Клиз
+- Джон Кліз
+- Джон Клиз
+- Джон Клийз
+- Ջոն Քլիզ
+- ג'ון קליז
+- جان کلیز
+- جون كليز
+- چون كليس
+- ਜੌਨ ਕਲੀਜ਼
+- జాన్ క్లీస్
+- ജോൺ ക്ലീസെ
+- จอห์น คลีส
+- ჯონ კლიზი
+- ジョン・クリーズ
+- 尊·基利斯
+- 約翰·克里斯
+- 约翰·克里斯
+- 존 클리즈
 has_id_wikidata: Q25014
 award_received:
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Comedy_Series,530923]]'
-  - "[[_Standards/WikiData/WD~Rose_d'Or,684965]]"
-  - '[[_Standards/WikiData/WD~honorary_doctorate,11415564]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Comedy_Series,530923]]'
+- "[[_Standards/WikiData/WD~Rose_d'Or,684965]]"
+- '[[_Standards/WikiData/WD~honorary_doctorate,11415564]]'
 child: '[[_Standards/WikiData/WD~Cynthia_Cleese,448479]]'
 Commons_category: John Cleese
 Commons_gallery: John Cleese
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 date_of_birth: 1939-10-27
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Downing_College,181461]]'
-  - '[[_Standards/WikiData/WD~Clifton_College,5133190]]'
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Downing_College,181461]]'
+- '[[_Standards/WikiData/WD~Clifton_College,5133190]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 employer: '[[_Standards/WikiData/WD~Cornell_University,49115]]'
 family_name: '[[_Standards/WikiData/WD~Cleese,56538028]]'
 filmography: '[[_Standards/WikiData/WD~John_Cleese_on_screen_and_stage,106624280]]'
@@ -39,31 +61,31 @@ member_of_political_party: '[[_Standards/WikiData/WD~Liberal_Democrats,9624]]'
 name_in_native_language: John Cleese
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 notable_role:
-  - '[[_Standards/WikiData/WD~Nearly_Headless_Nick,3735046]]'
-  - '[[_Standards/WikiData/WD~King_Harold,15286762]]'
-  - '[[_Standards/WikiData/WD~Albert_the_Magic_Pudding,64410103]]'
+- '[[_Standards/WikiData/WD~Nearly_Headless_Nick,3735046]]'
+- '[[_Standards/WikiData/WD~King_Harold,15286762]]'
+- '[[_Standards/WikiData/WD~Albert_the_Magic_Pudding,64410103]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~George_of_the_Jungle,397778]]'
-  - '[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]'
-  - '[[_Standards/WikiData/WD~Winnie_the_Pooh,922193]]'
-  - '[[_Standards/WikiData/WD~An_American_Tail_Fievel_Goes_West,1402152]]'
-  - '[[_Standards/WikiData/WD~Planes,1657080]]'
-  - '[[_Standards/WikiData/WD~Spud,7581472]]'
-  - '[[_Standards/WikiData/WD~Trolls,7845294]]'
-  - '[[_Standards/WikiData/WD~The_Magic_Pudding,15650834]]'
-  - '[[_Standards/WikiData/WD~Clifford_the_Big_Red_Dog,65931068]]'
+- '[[_Standards/WikiData/WD~George_of_the_Jungle,397778]]'
+- '[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]'
+- '[[_Standards/WikiData/WD~Winnie_the_Pooh,922193]]'
+- '[[_Standards/WikiData/WD~An_American_Tail_Fievel_Goes_West,1402152]]'
+- '[[_Standards/WikiData/WD~Planes,1657080]]'
+- '[[_Standards/WikiData/WD~Spud,7581472]]'
+- '[[_Standards/WikiData/WD~Trolls,7845294]]'
+- '[[_Standards/WikiData/WD~The_Magic_Pudding,15650834]]'
+- '[[_Standards/WikiData/WD~Clifford_the_Big_Red_Dog,65931068]]'
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 official_website: https://www.johncleese.com
 P8189: 987007303649305171
 place_of_birth: '[[_Standards/WikiData/WD~Weston_super_Mare,845623]]'
@@ -73,16 +95,104 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Cleese%20Autograph.JPG
 social_media_followers: 5700197
 spouse:
-  - '[[_Standards/WikiData/WD~Connie_Booth,255335]]'
-  - '[[_Standards/WikiData/WD~Barbara_Trentham,2884038]]'
-  - '[[_Standards/WikiData/WD~Alyce_Cleese,4738632]]'
-  - '[[_Standards/WikiData/WD~Jennifer_Wade,123527559]]'
+- '[[_Standards/WikiData/WD~Connie_Booth,255335]]'
+- '[[_Standards/WikiData/WD~Barbara_Trentham,2884038]]'
+- '[[_Standards/WikiData/WD~Alyce_Cleese,4738632]]'
+- '[[_Standards/WikiData/WD~Jennifer_Wade,123527559]]'
 Substack_handle: johncleese
 work_location: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 work_period_start_: 1961-01-01
 X_Twitter_username: JohnCleese
+dv_has_:
+  name_:
+    af: John Cleese
+    an: John Cleese
+    ar: جون كليز
+    arn: John Cleese
+    arz: چون كليس
+    ast: John Cleese
+    azb: جان کلیز
+    be: Джон Кліз
+    be-tarask: Джон Кліз
+    bg: Джон Клийз
+    bs: John Cleese
+    ca: John Cleese
+    cs: John Cleese
+    cy: John Cleese
+    da: John Cleese
+    de: John Cleese
+    el: Τζον Κλιζ
+    en: John Cleese
+    eo: John Cleese
+    es: John Cleese
+    et: John Cleese
+    eu: John Cleese
+    fa: جان کلیز
+    fi: John Cleese
+    fr: John Cleese
+    fy: John Cleese
+    ga: John Cleese
+    gl: John Cleese
+    he: ג'ון קליז
+    hr: John Cleese
+    hu: John Cleese
+    hy: Ջոն Քլիզ
+    ia: John Cleese
+    id: John Cleese
+    io: John Cleese
+    is: John Cleese
+    it: John Cleese
+    ja: ジョン・クリーズ
+    kl: John Cleese
+    ko: 존 클리즈
+    la: Ioannes Cleese
+    lb: John Cleese
+    lfn: John Cleese
+    lt: John Cleese
+    lv: Džons Klīzs
+    mg: John Cleese
+    mk: Џон Клиз
+    ml: ജോൺ ക്ലീസെ
+    mul: John Cleese
+    nan: John Cleese
+    nb: John Cleese
+    nds: John Cleese
+    nl: John Cleese
+    nn: John Cleese
+    oc: John Cleese
+    pa: ਜੌਨ ਕਲੀਜ਼
+    pl: John Cleese
+    ps: جان کلیز
+    pt: John Cleese
+    pt-br: John Cleese
+    ro: John Cleese
+    ru: Джон Клиз
+    sco: John Cleese
+    sh: John Cleese
+    sk: John Cleese
+    sl: John Cleese
+    sq: John Cleese
+    sr: Џон Клиз
+    su: John Cleese
+    sv: John Cleese
+    te: జాన్ క్లీస్
+    th: จอห์น คลีส
+    tl: John Cleese
+    tr: John Cleese
+    trv: John Cleese
+    uk: Джон Кліз
+    ur: جان کلیز
+    vi: John Cleese
+    war: John Cleese
+    wuu: 约翰·克里斯
+    xmf: ჯონ კლიზი
+    yue: 尊·基利斯
+    zh: 约翰·克里斯
+    zh-cn: 约翰·克里斯
+    zh-hans: 约翰·克里斯
+    zh-hant: 約翰·克里斯
+    zh-hk: 尊·基利斯
 ---
-
 # [[Cleese,John]] 
 
 #is_/member_/of :: [[Monty_Python]] 

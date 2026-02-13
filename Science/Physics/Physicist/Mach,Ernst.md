@@ -1,65 +1,91 @@
 ---
 aliases:
-  - Ernst_Mach
-  - Ernst Waldfried Josef Wenzel Mach
-  - Ernst Mach
-  - Mach
-  - Mach,Ernst
+- Ernestus Mach
+- Ernst Mach
+- Ernst Mah
+- Ernst Max
+- Ernst Waldfried Josef Wenzel Mach
+- Ernsts Mahs
+- Ernst_Mach
+- Mach
+- Mach,Ernst
+- Max Ernst
+- Ερνστ Μαχ
+- Ернст Мах
+- Мах Эрнст
+- Эрнст
+- Эрнст Мах
+- Էռնստ Մախ
+- Էրնսթ Մախ
+- ארנסט מאך
+- إرنست ماخ
+- ارنست ماخ
+- अर्न्स्ट माक
+- ਅਰਨਸਟ ਮਾਖ਼
+- எர்ன்ஸ்ட் மாக்
+- ಅರ್ನ್ಸ್ಟ್ ಮ್ಯಾಕ್
+- ഏണസ്റ്റ് മാക്ക്
+- แอ็นสท์ มัค
+- ერნსტ მახი
+- エルンスト・マッハ
+- 恩斯特·馬赫
+- 恩斯特·马赫
+- 에른스트 마흐
 has_id_wikidata: Q93996
 influenced_by:
-  - '[[_Standards/WikiData/WD~Richard_Avenarius,76516]]'
-  - '[[_Standards/WikiData/WD~Andreas_von_Ettingshausen,86374]]'
-  - '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
-  - '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
+- '[[_Standards/WikiData/WD~Richard_Avenarius,76516]]'
+- '[[_Standards/WikiData/WD~Andreas_von_Ettingshausen,86374]]'
+- '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
+- '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~photographer,33231]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Heinrich_Gomperz,86073]]'
-  - '[[_Standards/WikiData/WD~Stanislaus_von_Prowazek,2982487]]'
-  - '[[_Standards/WikiData/WD~František_Koláček,5492544]]'
-  - '[[_Standards/WikiData/WD~Ottokar_Tumlirz,7109921]]'
+- '[[_Standards/WikiData/WD~Heinrich_Gomperz,86073]]'
+- '[[_Standards/WikiData/WD~Stanislaus_von_Prowazek,2982487]]'
+- '[[_Standards/WikiData/WD~František_Koláček,5492544]]'
+- '[[_Standards/WikiData/WD~Ottokar_Tumlirz,7109921]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Andreas_von_Ettingshausen,86374]]'
 academic_degree: '[[_Standards/WikiData/WD~professor,121594]]'
 work_locations: '[[_Standards/WikiData/WD~Kroměříž,158239]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-  - '[[_Standards/WikiData/WD~University_of_Graz,622683]]'
-  - '[[_Standards/WikiData/WD~Charles_University,31519]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~University_of_Graz,622683]]'
+- '[[_Standards/WikiData/WD~Charles_University,31519]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-  - '[[_Standards/WikiData/WD~convent_Gymnasium_in_Seitenstetten,1751240]]'
-  - '[[_Standards/WikiData/WD~Piaristické_gymnázium_v_Kroměříži,12045282]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~convent_Gymnasium_in_Seitenstetten,1751240]]'
+- '[[_Standards/WikiData/WD~Piaristické_gymnázium_v_Kroměříži,12045282]]'
 cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 given_name: '[[_Standards/WikiData/WD~Ernst,292691]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
 residence: '[[_Standards/WikiData/WD~Vaterstetten,542921]]'
 place_of_death: '[[_Standards/WikiData/WD~Vaterstetten,542921]]'
 award_received: '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Q115101618,115101618]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Q115101618,115101618]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 movement: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
 place_of_burial: '[[_Standards/WikiData/WD~Nordfriedhof,1030655]]'
 child: '[[_Standards/WikiData/WD~Ludwig_Mach,1458299]]'
@@ -68,19 +94,19 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 place_of_birth: '[[_Standards/WikiData/WD~Brno_Chrlice,11341603]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Rector_of_Charles_University,12049166]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_House_of_Lords_(Austria),67653663]]'
+- '[[_Standards/WikiData/WD~Rector_of_Charles_University,12049166]]'
+- '[[_Standards/WikiData/WD~Member_of_the_House_of_Lords_(Austria),67653663]]'
 family_name: '[[_Standards/WikiData/WD~Q16876190,16876190]]'
 archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 spouse: '[[_Standards/WikiData/WD~Ludovica_Aloisia_Carolina_Marussig,109242135]]'
 date_of_birth: 1838-02-18T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~natural_science,7991]]'
-  - '[[_Standards/WikiData/WD~education,8434]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
@@ -100,53 +126,143 @@ name_in_native_language: Ernst Mach
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Mach%20Signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Ernst%20Mach.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=115721992
-  - http://www.digiporta.net/index.php?id=131829657
-  - http://www.digiporta.net/index.php?id=174008948
-  - http://www.digiporta.net/index.php?id=188905162
-  - http://www.digiporta.net/index.php?id=210574988
-  - http://www.digiporta.net/index.php?id=226327024
-  - http://www.digiporta.net/index.php?id=228634237
-  - http://www.digiporta.net/index.php?id=243177125
-  - http://www.digiporta.net/index.php?id=254814305
-  - http://www.digiporta.net/index.php?id=255903160
-  - http://www.digiporta.net/index.php?id=273917145
-  - http://www.digiporta.net/index.php?id=282879982
-  - http://www.digiporta.net/index.php?id=289067941
-  - http://www.digiporta.net/index.php?id=294980161
-  - http://www.digiporta.net/index.php?id=330871963
-  - http://www.digiporta.net/index.php?id=345503918
-  - http://www.digiporta.net/index.php?id=361184007
-  - http://www.digiporta.net/index.php?id=361860233
-  - http://www.digiporta.net/index.php?id=379003984
-  - http://www.digiporta.net/index.php?id=391108758
-  - http://www.digiporta.net/index.php?id=410424979
-  - http://www.digiporta.net/index.php?id=432575461
-  - http://www.digiporta.net/index.php?id=445012395
-  - http://www.digiporta.net/index.php?id=479220660
-  - http://www.digiporta.net/index.php?id=491170689
-  - http://www.digiporta.net/index.php?id=492480350
-  - http://www.digiporta.net/index.php?id=493735759
-  - http://www.digiporta.net/index.php?id=502644778
-  - http://www.digiporta.net/index.php?id=526930851
-  - http://www.digiporta.net/index.php?id=623181369
-  - http://www.digiporta.net/index.php?id=679299863
-  - http://www.digiporta.net/index.php?id=780490449
-  - http://www.digiporta.net/index.php?id=780863151
-  - http://www.digiporta.net/index.php?id=845356396
-  - http://www.digiporta.net/index.php?id=886183986
-  - http://www.digiporta.net/index.php?id=886493865
-  - http://www.digiporta.net/index.php?id=902543165
-  - http://www.digiporta.net/index.php?id=903765033
-  - http://www.digiporta.net/index.php?id=916604357
-  - http://www.digiporta.net/index.php?id=953261405
-  - http://www.digiporta.net/index.php?id=962834982
-  - http://www.digiporta.net/index.php?id=986685097
-  - http://www.digiporta.net/index.php?id=998827685
-  - http://www.digiporta.net/index.php?id=998930569
+- http://www.digiporta.net/index.php?id=115721992
+- http://www.digiporta.net/index.php?id=131829657
+- http://www.digiporta.net/index.php?id=174008948
+- http://www.digiporta.net/index.php?id=188905162
+- http://www.digiporta.net/index.php?id=210574988
+- http://www.digiporta.net/index.php?id=226327024
+- http://www.digiporta.net/index.php?id=228634237
+- http://www.digiporta.net/index.php?id=243177125
+- http://www.digiporta.net/index.php?id=254814305
+- http://www.digiporta.net/index.php?id=255903160
+- http://www.digiporta.net/index.php?id=273917145
+- http://www.digiporta.net/index.php?id=282879982
+- http://www.digiporta.net/index.php?id=289067941
+- http://www.digiporta.net/index.php?id=294980161
+- http://www.digiporta.net/index.php?id=330871963
+- http://www.digiporta.net/index.php?id=345503918
+- http://www.digiporta.net/index.php?id=361184007
+- http://www.digiporta.net/index.php?id=361860233
+- http://www.digiporta.net/index.php?id=379003984
+- http://www.digiporta.net/index.php?id=391108758
+- http://www.digiporta.net/index.php?id=410424979
+- http://www.digiporta.net/index.php?id=432575461
+- http://www.digiporta.net/index.php?id=445012395
+- http://www.digiporta.net/index.php?id=479220660
+- http://www.digiporta.net/index.php?id=491170689
+- http://www.digiporta.net/index.php?id=492480350
+- http://www.digiporta.net/index.php?id=493735759
+- http://www.digiporta.net/index.php?id=502644778
+- http://www.digiporta.net/index.php?id=526930851
+- http://www.digiporta.net/index.php?id=623181369
+- http://www.digiporta.net/index.php?id=679299863
+- http://www.digiporta.net/index.php?id=780490449
+- http://www.digiporta.net/index.php?id=780863151
+- http://www.digiporta.net/index.php?id=845356396
+- http://www.digiporta.net/index.php?id=886183986
+- http://www.digiporta.net/index.php?id=886493865
+- http://www.digiporta.net/index.php?id=902543165
+- http://www.digiporta.net/index.php?id=903765033
+- http://www.digiporta.net/index.php?id=916604357
+- http://www.digiporta.net/index.php?id=953261405
+- http://www.digiporta.net/index.php?id=962834982
+- http://www.digiporta.net/index.php?id=986685097
+- http://www.digiporta.net/index.php?id=998827685
+- http://www.digiporta.net/index.php?id=998930569
 ISNI: 0000000110211758
+dv_has_:
+  name_:
+    af: Ernst Mach
+    an: Ernst Mach
+    ar: إرنست ماخ
+    arz: ارنست ماخ
+    ast: Ernst Mach
+    az: Ernst Max
+    azb: ارنست ماخ
+    ba: Мах Эрнст
+    be: Эрнст Мах
+    be-tarask: Эрнст Мах
+    bg: Ернст Мах
+    br: Ernst Mach
+    bs: Ernst Mach
+    ca: Ernst Mach
+    cs: Ernst Mach
+    da: Ernst Mach
+    de: Ernst Mach
+    el: Ερνστ Μαχ
+    en: Ernst Mach
+    eo: Ernst Mach
+    es: Ernst Mach
+    et: Ernst Mach
+    eu: Ernst Mach
+    fa: ارنست ماخ
+    fi: Ernst Mach
+    fr: Ernst Mach
+    ga: Ernst Mach
+    gl: Ernst Mach
+    he: ארנסט מאך
+    hi: अर्न्स्ट माक
+    hr: Ernst Mach
+    ht: Ernst Mach
+    hu: Ernst Mach
+    hy: Էռնստ Մախ
+    hyw: Էրնսթ Մախ
+    id: Ernst Mach
+    io: Ernst Mach
+    is: Ernst Mach
+    it: Ernst Mach
+    ja: エルンスト・マッハ
+    ka: ერნსტ მახი
+    kn: ಅರ್ನ್ಸ್ಟ್ ಮ್ಯಾಕ್
+    ko: 에른스트 마흐
+    ku: Ernst Mach
+    ky: Эрнст
+    la: Ernestus Mach
+    lb: Ernst Mach
+    lt: Ernst Mach
+    lv: Ernsts Mahs
+    mg: Ernst Mach
+    mk: Ернст Мах
+    ml: ഏണസ്റ്റ് മാക്ക്
+    mul: Ernst Mach
+    nb: Ernst Mach
+    nl: Ernst Mach
+    nn: Ernst Mach
+    oc: Ernst Mach
+    pa: ਅਰਨਸਟ ਮਾਖ਼
+    pl: Ernst Mach
+    pms: Ernst Mach
+    pt: Ernst Mach
+    pt-br: Ernst Mach
+    ro: Ernst Mach
+    ru: Эрнст Мах
+    sco: Ernst Mach
+    sk: Ernst Mach
+    sl: Ernst Mach
+    sq: Ernst Mach
+    sr: Ернст Мах
+    sr-ec: Ернст Мах
+    sr-el: Ernst Mah
+    su: Ernst Mach
+    sv: Ernst Mach
+    ta: எர்ன்ஸ்ட் மாக்
+    th: แอ็นสท์ มัค
+    tr: Ernst Mach
+    uk: Ернст Мах
+    uz: Max Ernst
+    vi: Ernst Mach
+    war: Ernst Mach
+    wuu: 恩斯特·马赫
+    yue: 恩斯特·馬赫
+    zh: 恩斯特·马赫
+    zh-cn: 恩斯特·马赫
+    zh-hans: 恩斯特·马赫
+    zh-hant: 恩斯特·馬赫
+    zh-hk: 恩斯特·馬赫
+    zh-sg: 恩斯特·马赫
+    zh-tw: 恩斯特·馬赫
 ---
-
 # [[Mach,Ernst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernst_Mach,93996|WD~Ernst_Mach,93996]] 

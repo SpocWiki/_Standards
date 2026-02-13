@@ -1,17 +1,65 @@
 ---
 aliases:
-  - Bayonet
+- bagnet
+- baioneta
+- baionetez
+- baionetta
+- baionetă
+- bajonet
+- bajoneta
+- bajoneto
+- bajonett
+- bajonetta
+- Bajonëtta
+- bajunet
+- Bajōnet
+- Bayonet
+- bayoneta
+- Bayoneto
+- bayonèt
+- baïonnette
+- beaignit
+- bidog
+- bèigneid
+- durklis
+- durtuvas
+- lưỡi lê
+- naýza
+- pistin
+- szurony
+- Süngü
+- Tääk
+- Ξιφολόγχη
+- бајонет
+- Багнет
+- найза
+- штык
+- щик
+- Ыстыык
+- Սվին
+- כידון רובה
+- حربة
+- سرنیزه
+- سنگین
+- نايزا
+- বায়োনেট
+- சுரிகை
+- ബയണറ്റ്
+- ดาบปลายปืน
+- 刺刀
+- 銃剣
+- 총검
 has_id_wikidata: Q173366
 instance_of:
-  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-  - '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of: '[[_Standards/WikiData/WD~pole_weapon,649107]]'
 time_of_discovery_or_invention: 1700-01-01T00:00:00Z
 Nomenclature_for_Museum_Cataloging: 8155
@@ -23,8 +71,92 @@ P8189: 987007282424505171
 IMDb_keyword: bayonet
 Commons_category: Bayonets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US-Bajonette%20verschiedener%20Epochen.jpg
+dv_has_:
+  name_:
+    af: bajonet
+    ar: حربة
+    ast: bayoneta
+    az: Süngü
+    ba: штык
+    be: Багнет
+    be-tarask: багнет
+    bg: щик
+    bn: বায়োনেট
+    br: baionetez
+    bs: bajonet
+    ca: baioneta
+    cs: bajonet
+    cy: bidog
+    da: bajonet
+    de: Bajonett
+    el: Ξιφολόγχη
+    en: bayonet
+    eo: bajoneto
+    es: bayoneta
+    et: Tääk
+    eu: Baioneta
+    fa: سرنیزه
+    fi: pistin
+    fr: baïonnette
+    ga: beaignit
+    gd: bèigneid
+    gl: baioneta
+    he: כידון רובה
+    hr: bajunet
+    hu: szurony
+    hy: Սվին
+    id: Bayonet
+    io: Bayoneto
+    it: baionetta
+    ja: 銃剣
+    jv: bayonèt
+    kk-arab: نايزا
+    kk-cn: نايزا
+    kk-cyrl: найза
+    kk-kz: найза
+    kk-latn: naýza
+    kk-tr: naýza
+    ko: 총검
+    lmo: bajonetta
+    lt: durtuvas
+    lv: durklis
+    mk: бајонет
+    ml: ബയണറ്റ്
+    ms: bayonet
+    nb: bajonett
+    nl: bajonet
+    nn: bajonett
+    oc: baioneta
+    pl: bagnet
+    pms: Bajonëtta
+    pt: baioneta
+    ro: baionetă
+    ru: штык
+    sah: Ыстыык
+    sh: bajonet
+    sl: bajonet
+    sq: bajoneta
+    sr: бајонет
+    sr-ec: бајонет
+    sr-el: bajonet
+    sv: bajonett
+    szl: Bajōnet
+    ta: சுரிகை
+    th: ดาบปลายปืน
+    tr: süngü
+    uk: багнет
+    ur: سنگین
+    vi: lưỡi lê
+    wuu: 刺刀
+    yue: 刺刀
+    zh: 刺刀
+    zh-cn: 刺刀
+    zh-hans: 刺刀
+    zh-hant: 刺刀
+    zh-hk: 刺刀
+    zh-sg: 刺刀
+    zh-tw: 刺刀
 ---
-
 # [[Bayonet]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bayonet,173366|WD~Bayonet,173366]] 

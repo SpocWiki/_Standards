@@ -1,14 +1,122 @@
 ---
 aliases:
-  - Douglas fir
-  - Douglas-fir
-  - Douglas tree
-  - Oregon pine
-  - Bigcone spruce
-  - Pseudo-tsuga
-  - Pseudotsuga
+- Avet Douglas
+- Bigcone spruce
+- daglezja
+- Doeglas
+- Douglaasien
+- Douglas fir
+- Douglas tree
+- Douglas-fir
+- Douglasdännen
+- douglasgran
+- Douglasgranslekten
+- Douglasgranssläktet
+- Douglasien
+- Douglasija
+- douglaska
+- douglaskuuset
+- Duglazija
+- Duglazije
+- duglászfenyő
+- Ebatsuuga
+- Oregon pine
+- Pocūgė
+- Pseudo-tsuga
+- Pseudotsuga
+- Pseŭdocugo
+- Yalançı tsuqa
+- Ψευδοτσούγκα
+- Дуглазја
+- Дуглазија
+- Дугласія
+- Дугласка ела
+- Псевдотсуга
+- կեղծաթսուգա
+- צוגנית
+- تنوب دوغلاس
+- سرخنرادها
+- ڈگلس فر
+- ცრუცუგა
+- トガサワラ属
+- 黃杉屬
+- 黄杉属
+- 미송속
 title: Pseudotsuga
 has_id_wikidata: Q158771
+dv_has_:
+  name_:
+    an: Pseudotsuga
+    ar: تنوب دوغلاس
+    arz: تنوب دوغلاس
+    ast: Pseudotsuga
+    az: Yalançı tsuqa
+    be: Дугласія
+    be-tarask: дугласія
+    bg: Дугласка ела
+    ca: Avet Douglas
+    ceb: Pseudotsuga
+    cs: douglaska
+    da: douglasgran
+    de: Douglasien
+    el: Ψευδοτσούγκα
+    en: Pseudotsuga
+    eo: Pseŭdocugo
+    es: Pseudotsuga
+    et: Ebatsuuga
+    eu: Pseudotsuga
+    ext: Pseudotsuga
+    fa: سرخنرادها
+    fi: douglaskuuset
+    fr: Pseudotsuga
+    frr: Douglaasien
+    ga: Pseudotsuga
+    gl: Pseudotsuga
+    he: צוגנית
+    hr: Duglazije
+    hsb: Douglasija
+    hu: duglászfenyő
+    hy: կեղծաթսուգա
+    ia: Pseudotsuga
+    ie: Pseudotsuga
+    io: Pseudotsuga
+    is: Pseudotsuga
+    it: Pseudotsuga
+    ja: トガサワラ属
+    ka: ცრუცუგა
+    ko: 미송속
+    la: Pseudotsuga
+    lb: Douglasdännen
+    lt: Pocūgė
+    mk: Дуглазја
+    mul: Pseudotsuga
+    nb: Douglasgranslekten
+    nl: Pseudotsuga
+    oc: Pseudotsuga
+    pl: daglezja
+    pnb: ڈگلس فر
+    pt: Pseudotsuga
+    pt-br: Pseudotsuga
+    ro: Pseudotsuga
+    ru: Псевдотсуга
+    sq: Pseudotsuga
+    sr: Дуглазија
+    sr-ec: Дуглазија
+    sr-el: Duglazija
+    sv: Douglasgranssläktet
+    tr: Pseudotsuga
+    uk: Псевдотсуга
+    vi: Pseudotsuga
+    vls: Doeglas
+    vo: Pseudotsuga
+    war: Pseudotsuga
+    zh: 黄杉属
+    zh-cn: 黄杉属
+    zh-hans: 黄杉属
+    zh-hant: 黃杉屬
+    zh-hk: 黃杉屬
+    zh-sg: 黄杉属
+    zh-tw: 黃杉屬
 ---
 # Pseudotsuga [Carrière 1867]
 

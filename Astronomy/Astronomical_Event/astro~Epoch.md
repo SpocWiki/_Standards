@@ -1,35 +1,142 @@
 ---
 aliases:
-  - Epoch
-  - astro~Epoch
+- aga
+- astronomisk epoke
+- astronoomisk tidjääler
+- astro~Epoch
+- Davr (astronomiya)
+- devir
+- Dómina
+- epoca
+- Epoch
+- epocha
+- Epoche
+- Epoche (Astronomie)
+- epocă
+- Epog
+- epoha
+- epok
+- epoka
+- Epoka (astrōnōmijŏ)
+- epoke
+- epoko
+- epookki
+- Epos
+- Garai
+- kỷ nguyên
+- època
+- época
+- époque
+- εποχή
+- епоха
+- эпоха
+- эпоха, астраномія
+- Էպոխա
+- תקופת ייחוס
+- حقبة
+- مبدأ
+- युग
+- ইপক (জ্যোতির্বিদ্যা)
+- இபோக்
+- ต้นยุคอ้างอิง
+- ეპოქა
+- 元期
+- 曆元
+- 역기점
 has_id_wikidata: Q2703
-subclass_of: "[[_Standards/WikiData/WD~epoch,507810]]"
+subclass_of: '[[_Standards/WikiData/WD~epoch,507810]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_concepts,22337463]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_concepts,22337463]]'
 main_Wikidata_property: epoch
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]"
-    - "[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]"
-    - "[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]"
-    - "[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]"
-    - "[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]"
-    - "[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]"
-    - "[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]"
-    - "[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]"
+  - '[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]'
+  - '[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]'
+  - '[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]'
+  - '[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]'
+  - '[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]'
+  - '[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]'
+  - '[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]'
+  - '[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]"
-  - "[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]"
-  - "[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]"
-  - "[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]"
-  - "[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]"
-  - "[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]"
-  - "[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]"
-  - "[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]"
+- '[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]'
+- '[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]'
+- '[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]'
+- '[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]'
+- '[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]'
+- '[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]'
+- '[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]'
+- '[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]'
+dv_has_:
+  name_:
+    af: Epog
+    ar: حقبة
+    ast: Dómina
+    be: эпоха, астраномія
+    be-tarask: эпоха
+    bg: Епоха
+    bn: ইপক (জ্যোতির্বিদ্যা)
+    bs: Epoha
+    ca: època
+    cs: epocha
+    de: Epoche
+    de-ch: Epoche (Astronomie)
+    el: εποχή
+    en: epoch
+    en-ca: Epoch
+    en-gb: epoch
+    eo: epoko
+    es: época
+    eu: Garai
+    fa: مبدأ
+    fi: epookki
+    fr: époque
+    frr: astronoomisk tidjääler
+    ga: aga
+    gl: Época
+    he: תקופת ייחוס
+    hi: युग
+    hr: Epoha
+    hu: epocha
+    hy: Էպոխա
+    id: Epos
+    it: epoca
+    ja: 元期
+    ka: ეპოქა
+    ko: 역기점
+    la: Epocha
+    lb: Epoch
+    lt: epocha
+    lv: epoha
+    mk: епоха
+    mr: युग
+    ms: Epok
+    nb: epoke
+    nl: epoche
+    nn: astronomisk epoke
+    pl: epoka
+    pt: época
+    pt-br: época
+    ro: epocă
+    ru: эпоха
+    sh: Epoha
+    sk: epocha
+    sl: epoha
+    sr: Епоха
+    sv: epok
+    szl: Epoka (astrōnōmijŏ)
+    ta: இபோக்
+    th: ต้นยุคอ้างอิง
+    tr: devir
+    uk: епоха
+    uz: Davr (astronomiya)
+    vec: època
+    vi: kỷ nguyên
+    yue: 曆元
+    zh: 曆元
 ---
-
 # [[astro~Epoch]] 
 
 #is_/same_as :: [[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]] 

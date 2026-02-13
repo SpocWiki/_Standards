@@ -1,8 +1,114 @@
 ---
 has_id_wikidata: Q692384
+dv_has_:
+  name_:
+    af: Cucujiformia
+    an: Cucujiformia
+    ar: سوسيات الشكل
+    arz: سوسيات الشكل
+    ast: Cucujiformia
+    bar: Cucujiformia
+    be: Cucujiformia
+    bg: Cucujiformia
+    br: Cucujiformia
+    ca: cucujiformes
+    ceb: Cucujiformia
+    co: Cucujiformia
+    cs: Cucujiformia
+    cy: Cucujiformia
+    da: Cucujiformia
+    de: Cucujiformia
+    de-at: Cucujiformia
+    de-ch: Cucujiformia
+    en: Cucujiformia
+    en-ca: Cucujiformia
+    en-gb: Cucujiformia
+    eo: Cucujiformia
+    es: Cucujiformia
+    et: Cucujiformia
+    eu: Cucujiformia
+    ext: Cucujiformia
+    fa: سوسکهای گیاهخوار
+    fi: Cucujiformia
+    fr: Cucujiformia
+    frp: Cucujiformia
+    fur: Cucujiformia
+    ga: Cucujiformia
+    gd: Cucujiformia
+    gl: Cucujiformia
+    gsw: Cucujiformia
+    hr: Cucujiformia
+    hu: Cucujiformia
+    ia: Cucujiformia
+    id: Cucujiformia
+    ie: Cucujiformia
+    io: Cucujiformia
+    is: Cucujiformia
+    it: Cucujiformia
+    ja: ヒラタムシ下目
+    kg: Cucujiformia
+    ko: 머리대장하목
+    la: Cucujiformia
+    lb: Cucujiformia
+    li: Cucujiformia
+    lij: Cucujiformia
+    mg: Cucujiformia
+    min: Cucujiformia
+    mk: плоскавовидни
+    ms: Cucujiformia
+    mul: Cucujiformia
+    nap: Cucujiformia
+    nb: Cucujiformia
+    nds: Cucujiformia
+    nds-nl: Cucujiformia
+    nl: Cucujiformia
+    nn: Cucujiformia
+    nrm: Cucujiformia
+    nys: Cucujiformia
+    oc: Cucujiformia
+    pcd: Cucujiformia
+    pl: Cucujiformia
+    pms: Cucujiformia
+    pt: Cucujiformia
+    pt-br: Cucujiformia
+    rm: Cucujiformia
+    ro: Cucujiformia
+    ru: кукуйиформные
+    sc: Cucujiformia
+    scn: Cucujiformia
+    sco: Cucujiformia
+    sk: Cucujiformia
+    sl: sorodstvo kukujev
+    sq: Cucujiformia
+    sr: Cucujiformia
+    sv: Cucujiformia
+    sw: Cucujiformia
+    uk: кукуїформні
+    vec: Cucujiformia
+    vi: Cucujiformia
+    vls: Cucujiformia
+    vo: Cucujiformia
+    wa: Cucujiformia
+    war: Cucujiformia
+    wo: Cucujiformia
+    zh: 扁甲下目
+    zh-cn: 扁甲下目
+    zh-hans: 扁甲下目
+    zh-tw: 扁甲下目
+    zu: Cucujiformia
+aliases:
+- cucujiformes
+- Cucujiformia
+- sorodstvo kukujev
+- кукуїформні
+- кукуйиформные
+- плоскавовидни
+- سوسيات الشكل
+- سوسکهای گیاهخوار
+- ヒラタムシ下目
+- 扁甲下目
+- 머리대장하목
 ---
-
-
 # [[Cucujiformia]] 
 
 ## #has_/text_of_/abstract 

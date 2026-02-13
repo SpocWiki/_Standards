@@ -1,30 +1,100 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]"
-    - "[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]"
+  - '[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]'
+  - '[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]"
-  - "[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]"
-
-has_time_started: 1908-07-26 
+- '[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]'
+- '[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]'
+has_time_started: 1908-07-26
 aliases:
-  - Federal Bureau of Investigation
-  - FBI
-  - FBI(Federal_Bureau_of_Investigation)
-  - FBI(Federal Bureau of Investigation)
+- Bandaríska alríkislögreglan
+- biro féderal ankèt
+- Biro Investigasi Federal
+- Biro Penyiasatan Persekutuan
+- Biroul Federal de Investigații
+- Biwro Ymchwilio Ffederal
+- Cục Điều tra Liên bang
+- Departamento Federal de Investigação dos Estados Unidos
+- FBI
+- FBI(Federal Bureau of Investigation)
+- FBI(Federal_Bureau_of_Investigation)
+- Federacia Buroo de Enketo
+- Federal Bureau o Investigation
+- Federal Bureau of Investigation
+- Federal Soruşturma Bürosu
+- Federal tekshirishlar byurosi
+- Federal tergew byurosı
+- Federal Təhqiqat Bürosu
+- Federala Kontoro di Exploro
+- Federalinis tyrimų biuras
+- Federalne Biuro Śledcze
+- Federalni istražni biro
+- Federální úřad pro vyšetřování
+- Federālais izmeklēšanas birojs
+- Föderaalne Juurdlusbüroo
+- Liân-pang Tiâu-cha Kio̍k
+- Shirika la Upelelezi la Marekani
+- Szövetségi Nyomozóiroda
+- Yhdysvaltain liittovaltion poliisi
+- Zvezni preiskovalni urad
+- Zyra Federative e Hetimit Amerikan
+- Ομοσπονδιακό Γραφείο Ερευνών
+- АНУ-ын Холбооны мөрдөх товчоо
+- Федералан талламийн бюро
+- Федералдык Чалгындоо Кызматы
+- Федералдық тергеу бюросы
+- Федераллӑ Тӗпчев Бюровӗ
+- Федерални истражни биро
+- Федерално бюро за разследване
+- Федерално истражно биро
+- Федераль эҙәрлекләүҙәр бюроһы
+- Федеральнай Хасыһыы Бүрота
+- Федеральне бюро розслідувань
+- Федеральное бюро расследований
+- Федэральнае бюро расследванняў
+- Фэдэральнае бюро расьсьледаваньняў
+- Հետաքննությունների ֆեդերալ բյուրո
+- הבולשת הפדרלית האמריקנית
+- افبیآی
+- ایف بی آئی
+- د پلټنو فدرالي اداره (اف بي آی)
+- دەزگای لێکۆڵینەوەی فیدراڵی
+- مكتب التحقيق الاتحادي
+- फेडरल ब्यूरो ऑफ इन्वेस्टिगेशन
+- फेडरल ब्यूरो ऑफ इन्व्हेस्टिगेशन
+- फेडेरल व्यूरो अफ इन्भेस्टिगेशन
+- ফেডারেল ব্যুরো অব ইনভেস্টিগেশন
+- ਫੈਡਰਲ ਬਿਊਰੋ ਆਫ ਇਨਵੈਸਟੀਗੇਸ਼ਨ
+- புலன் விசாரணை கூட்டாட்சிப் பணியகம்
+- ఫెడరల్ బ్యూరో ఆఫ్ ఇన్వెస్టిగేషన్
+- ಫ಼ೆಡರಲ್ ಬ್ಯೂರೊ ಆಫ಼್ ಇನ್ವೆಸ್ಟಿಗೇಶನ್
+- ഫെഡറൽ ബ്യൂറോ ഓഫ് ഇൻവെസ്റ്റിഗേഷൻ
+- ෆෙඩරල් විමර්ශන කාර්යාංශය
+- สำนักงานสอบสวนกลาง
+- အက်ဖ်ဘီအိုင်
+- ფედერალური ონაკვერალი ბიურო
+- ფედერალური საგამოძიებო ბიურო
+- ការិយាល័យសហព័ន្ធស៊ើបអង្កេត
+- 联邦勘察所
+- 联邦调查局
+- 聯邦調查局
+- 連邦捜査局
+- ꠄꠙ ꠛꠤ ꠀꠁ
+- 미련방수사국
+- 연방수사국
 has_id_wikidata: Q8333
 domain_name: fbi.gov
 DPLA_subject_term: United States. Federal Bureau of Investigation
@@ -35,39 +105,39 @@ motto_text: Fidelity, Bravery, Integrity
 name: ꠄꠙ ꠛꠤ ꠀꠁ
 inception: 1908-07-26T00:00:00Z
 headquarters_location:
-  - '[[_Standards/WikiData/WD~J._Edgar_Hoover_Building,167479]]'
-  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~J._Edgar_Hoover_Building,167479]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~J._Edgar_Hoover,210435]]'
-  - '[[_Standards/WikiData/WD~Charles_Joseph_Bonaparte,919015]]'
-  - '[[_Standards/WikiData/WD~Theodore_Roosevelt,33866]]'
+- '[[_Standards/WikiData/WD~J._Edgar_Hoover,210435]]'
+- '[[_Standards/WikiData/WD~Charles_Joseph_Bonaparte,919015]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt,33866]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Director_of_the_Federal_Bureau_of_Investigation,1057168]]'
 parent_organization: '[[_Standards/WikiData/WD~United_States_Department_of_Justice,1553390]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~FBI_Criminal_Justice_Information_Services_Division,5424573]]'
-  - '[[_Standards/WikiData/WD~FBI_National_Security_Branch,5424594]]'
+- '[[_Standards/WikiData/WD~FBI_Criminal_Justice_Information_Services_Division,5424573]]'
+- '[[_Standards/WikiData/WD~FBI_National_Security_Branch,5424594]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~United_States_federal_agency,20857065]]'
-  - '[[_Standards/WikiData/WD~federal_law_enforcement_agency_of_the_United_States,20858006]]'
-  - '[[_Standards/WikiData/WD~intelligence_agency,47913]]'
+- '[[_Standards/WikiData/WD~United_States_federal_agency,20857065]]'
+- '[[_Standards/WikiData/WD~federal_law_enforcement_agency_of_the_United_States,20858006]]'
+- '[[_Standards/WikiData/WD~intelligence_agency,47913]]'
 director_manager: '[[_Standards/WikiData/WD~Kash_Patel,104639732]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]'
-  - '[[_Standards/WikiData/WD~terrorism,7283]]'
+- '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]'
+- '[[_Standards/WikiData/WD~terrorism,7283]]'
 flag: '[[_Standards/WikiData/WD~flag_of_the_Federal_Bureau_of_Investigation,113518795]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 269000
-  - 3567121
+- 269000
+- 3567121
 employees: 35104
 budget: 8707700000
 Private_Enterprise_Number: 20807
 described_at_URL:
-  - https://www.federalregister.gov/agencies/federal-bureau-of-investigation
-  - https://wikispooks.com/wiki/FBI
+- https://www.federalregister.gov/agencies/federal-bureau-of-investigation
+- https://wikispooks.com/wiki/FBI
 BHCL_UUID: 00b41769-89a3-415a-9f77-67d54019422f
 IMDb_keyword: fbi
 short_name: FBI
@@ -83,8 +153,112 @@ official_website: https://www.fbi.gov
 contact_page_URL: https://www.fbi.gov/contact-us
 ISNI: 0000000404810043
 Libris_URI: 64jljnjq3dhvq37
+dv_has_:
+  name_:
+    af: Federal Bureau of Investigation
+    ar: مكتب التحقيق الاتحادي
+    az: Federal Təhqiqat Bürosu
+    ba: Федераль эҙәрлекләүҙәр бюроһы
+    be: Федэральнае бюро расследванняў
+    be-tarask: Фэдэральнае бюро расьсьледаваньняў
+    bg: Федерално бюро за разследване
+    bn: ফেডারেল ব্যুরো অব ইনভেস্টিগেশন
+    br: Federal Bureau of Investigation
+    ca: Federal Bureau of Investigation
+    ce: Федералан талламийн бюро
+    ckb: دەزگای لێکۆڵینەوەی فیدراڵی
+    cs: Federální úřad pro vyšetřování
+    cv: Федераллӑ Тӗпчев Бюровӗ
+    cy: Biwro Ymchwilio Ffederal
+    de: Federal Bureau of Investigation
+    el: Ομοσπονδιακό Γραφείο Ερευνών
+    en: Federal Bureau of Investigation
+    eo: Federacia Buroo de Enketo
+    es: Federal Bureau of Investigation
+    et: Föderaalne Juurdlusbüroo
+    eu: Federal Bureau of Investigation
+    fa: افبیآی
+    fi: Yhdysvaltain liittovaltion poliisi
+    fr: Federal Bureau of Investigation
+    ga: Federal Bureau of Investigation
+    gl: Federal Bureau of Investigation
+    ha: Fbi
+    he: הבולשת הפדרלית האמריקנית
+    hi: फेडरल ब्यूरो ऑफ इन्वेस्टिगेशन
+    hif: Federal Bureau of Investigation
+    ht: biro féderal ankèt
+    hu: Szövetségi Nyomozóiroda
+    hy: Հետաքննությունների ֆեդերալ բյուրո
+    id: Biro Investigasi Federal
+    io: Federala Kontoro di Exploro
+    is: Bandaríska alríkislögreglan
+    it: Federal Bureau of Investigation
+    ja: 連邦捜査局
+    ka: ფედერალური საგამოძიებო ბიურო
+    kaa: Federal tergew byurosı
+    kk: Федералдық тергеу бюросы
+    km: ការិយាល័យសហព័ន្ធស៊ើបអង្កេត
+    kn: ಫ಼ೆಡರಲ್ ಬ್ಯೂರೊ ಆಫ಼್ ಇನ್ವೆಸ್ಟಿಗೇಶನ್
+    ko: 연방수사국
+    ko-kp: 미련방수사국
+    ky: Федералдык Чалгындоо Кызматы
+    la: Federal Bureau of Investigation
+    lmo: Federal Bureau of Investigation
+    lt: Federalinis tyrimų biuras
+    lv: Federālais izmeklēšanas birojs
+    lzh: 聯邦調查局
+    mk: Федерално истражно биро
+    ml: ഫെഡറൽ ബ്യൂറോ ഓഫ് ഇൻവെസ്റ്റിഗേഷൻ
+    mn: АНУ-ын Холбооны мөрдөх товчоо
+    mr: फेडरल ब्यूरो ऑफ इन्व्हेस्टिगेशन
+    ms: Biro Penyiasatan Persekutuan
+    mul: FBI
+    my: အက်ဖ်ဘီအိုင်
+    nan: Liân-pang Tiâu-cha Kio̍k
+    nb: Federal Bureau of Investigation
+    ne: फेडेरल व्यूरो अफ इन्भेस्टिगेशन
+    nl: Federal Bureau of Investigation
+    oc: Federal Bureau of Investigation
+    pa: ਫੈਡਰਲ ਬਿਊਰੋ ਆਫ ਇਨਵੈਸਟੀਗੇਸ਼ਨ
+    pl: Federalne Biuro Śledcze
+    pnb: ایف بی آئی
+    ps: د پلټنو فدرالي اداره (اف بي آی)
+    pt: Departamento Federal de Investigação dos Estados Unidos
+    ro: Biroul Federal de Investigații
+    ru: Федеральное бюро расследований
+    sah: Федеральнай Хасыһыы Бүрота
+    sco: Federal Bureau o Investigation
+    si: ෆෙඩරල් විමර්ශන කාර්යාංශය
+    sk: Federal Bureau of Investigation
+    sl: Zvezni preiskovalni urad
+    sq: Zyra Federative e Hetimit Amerikan
+    sr: Федерални истражни биро
+    sr-ec: Федерални истражни биро
+    sr-el: Federalni istražni biro
+    sv: Federal Bureau of Investigation
+    sw: Shirika la Upelelezi la Marekani
+    syl: ꠄꠙ ꠛꠤ ꠀꠁ
+    ta: புலன் விசாரணை கூட்டாட்சிப் பணியகம்
+    te: ఫెడరల్ బ్యూరో ఆఫ్ ఇన్వెస్టిగేషన్
+    th: สำนักงานสอบสวนกลาง
+    tr: Federal Soruşturma Bürosu
+    uk: Федеральне бюро розслідувань
+    ur: ایف بی آئی
+    uz: Federal tekshirishlar byurosi
+    vi: Cục Điều tra Liên bang
+    wuu: 联邦勘察所
+    xmf: ფედერალური ონაკვერალი ბიურო
+    yue: 聯邦調查局
+    zh: 聯邦調查局
+    zh-cn: 联邦调查局
+    zh-hans: 联邦调查局
+    zh-hant: 聯邦調查局
+    zh-hk: 聯邦調查局
+    zh-mo: 聯邦調查局
+    zh-my: 联邦调查局
+    zh-sg: 联邦调查局
+    zh-tw: 聯邦調查局
 ---
-
 # [[FBI(Federal_Bureau_of_Investigation)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]] 

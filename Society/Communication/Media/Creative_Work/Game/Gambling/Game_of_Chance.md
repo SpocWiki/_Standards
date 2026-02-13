@@ -1,14 +1,129 @@
 ---
 aliases:
+- ausazko joko
+- azartinis lošimas
+- azartvänd
+- chuego d'azar
+- cluiche áidh
+- game of chance
+- gemme o chance
+- gioco di sorte
+- Glécksspill
+- Glücksspiel
+- gra losowa
+- gêm siawns
+- hasard
+- hasardspil
+- hasardspill
+- hasartmäng
+- hazardludo
+- hazardná hra
+- hazárdjáték
+- hra s prvkem náhody
+- igra na sreću
+- igra naključnosti
+- jeu de hasard
+- joc d'atzar
+- joc de noroc
+- jocu d'azzardu
+- jogo de azar
+- juego de azar
+- jòc d'azard
+- kansspel
+- laimes spēle
+- onnenpeli
+- permainan adu nasib
+- slumpmässiga spel
+- wega di suerte
+- xogo de azar
+- xuegu d'azar
+- õnnõmängoq
+- şans oyunu
+- гра випадку
+- гульня на ўдачу
+- игра на срећу
+- игра случая
+- игри во коцкарница
+- Հավանականության խաղ
+- משחק מזל
+- بازی شانسی
+- لعبة الحظ
+- یاری چانس
+- 博弈遊戲
+- 機率遊戲
+- 運が左右するゲーム
+- 확률 게임
 has_id_wikidata: Q3590573
-uses: "[[_Standards/WikiData/WD~randomness,176640]]"
-has_characteristic: "[[_Standards/WikiData/WD~randomness,176640]]"
-opposite_of: "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~game_combining_chance_and_skill,111054084]]"
-subclass_of: "[[_Standards/WikiData/WD~game,11410]]"
-different_from: "[[_Standards/WikiData/WD~gambling,11416]]"
+uses: '[[_Standards/WikiData/WD~randomness,176640]]'
+has_characteristic: '[[_Standards/WikiData/WD~randomness,176640]]'
+opposite_of: '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~game_combining_chance_and_skill,111054084]]'
+subclass_of: '[[_Standards/WikiData/WD~game,11410]]'
+different_from: '[[_Standards/WikiData/WD~gambling,11416]]'
+dv_has_:
+  name_:
+    an: chuego d'azar
+    ar: لعبة الحظ
+    ast: xuegu d'azar
+    be-tarask: гульня на ўдачу
+    ca: joc d'atzar
+    ckb: یاری چانس
+    cs: hra s prvkem náhody
+    cy: gêm siawns
+    da: hasardspil
+    de: Glücksspiel
+    de-ch: Glücksspiel
+    en: game of chance
+    en-ca: game of chance
+    en-gb: game of chance
+    eo: hazardludo
+    es: juego de azar
+    et: hasartmäng
+    eu: ausazko joko
+    fa: بازی شانسی
+    fi: onnenpeli
+    fr: jeu de hasard
+    ga: cluiche áidh
+    gl: xogo de azar
+    gsw: Glücksspiel
+    he: משחק מזל
+    hu: hazárdjáték
+    hy: Հավանականության խաղ
+    it: gioco di sorte
+    ja: 運が左右するゲーム
+    ko: 확률 게임
+    lb: Glécksspill
+    lt: azartinis lošimas
+    lv: laimes spēle
+    mk: игри во коцкарница
+    ms: permainan adu nasib
+    nb: hasardspill
+    nl: kansspel
+    nn: hasard
+    oc: jòc d'azard
+    pap: wega di suerte
+    pl: gra losowa
+    pt: jogo de azar
+    pt-br: jogo de azar
+    ro: joc de noroc
+    ru: игра случая
+    scn: jocu d'azzardu
+    sco: gemme o chance
+    sk: hazardná hra
+    sl: igra naključnosti
+    sr: игра на срећу
+    sr-ec: игра на срећу
+    sr-el: igra na sreću
+    sv: slumpmässiga spel
+    tr: şans oyunu
+    uk: гра випадку
+    vep: azartvänd
+    vro: õnnõmängoq
+    yue: 機率遊戲
+    zh: 博弈遊戲
+    zh-hant: 博弈遊戲
+    zh-tw: 博弈遊戲
 ---
-
 # [[Game_of_Chance]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~game_of_chance,3590573]]

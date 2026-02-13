@@ -1,23 +1,123 @@
 ---
 aliases:
-  - competition law
-  - Antitrust law
-  - antitrust
-  - anti-monopoly law
-  - trade practices law
-  - trust busting
-  - Competition_Law
-  - Competition Law
+- anti-monopoly law
+- antitrust
+- Antitrust law
+- Balaod pangkompetisyon
+- Balaud kompetisyon
+- competition law
+- Competition_Law
+- derecho de la competencia
+- Direito da concorrência
+- dreptul concurenței
+- dret de la competència
+- droit de la concurrence
+- kilpailuoikeus
+- konkurenca juro
+- konkurencijos teisė
+- Konkurentsiõigus
+- konkurenčno pravo
+- konkurrenceret
+- konkurrenslag
+- Luật cạnh tranh
+- mededingingsrecht
+- Monopolïyaga qarsı zañnama
+- norme giuridiche sulla concorrenza
+- pravo tržišnoga natjecanja
+- prawo konkurencji
+- právo hospodářské soutěže
+- rekabet hukuku
+- Rəqabət hüququ
+- trade practices law
+- trust busting
+- Undang-undang persaingan
+- versenyjog
+- Wettbeweabsrecht
+- Wettbewerbsrecht
+- Δίκαιο ανταγωνισμού
+- антимонопольне законодавство
+- конкурентное право
+- Монополияга қарсы заңнама
+- Өрсөлдөөний хууль
+- הגבלים עסקיים
+- قانون المنافسة
+- قانون رقابت
+- مسابقتی قانون
+- مونوپولىيياگا قارسى زاڭناما
+- മത്സര സിദ്ധാന്തം
+- තරගකාර නීතිය
+- 独占禁止法
+- 竞争法
+- 競爭法
+- 경쟁법
 has_id_wikidata: Q326498
 has_part_s_:
-  - '[[_Standards/WikiData/WD~antitrust_laws,1734555]]'
-  - '[[_Standards/WikiData/WD~Q1808662,1808662]]'
+- '[[_Standards/WikiData/WD~antitrust_laws,1734555]]'
+- '[[_Standards/WikiData/WD~Q1808662,1808662]]'
 instance_of: '[[_Standards/WikiData/WD~area_of_law,1756157]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Competition_law,7646075]]'
 subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
 Commons_category: Competition law
+dv_has_:
+  name_:
+    ar: قانون المنافسة
+    az: Rəqabət hüququ
+    bar: Wettbeweabsrecht
+    bs: Antitrust
+    ca: dret de la competència
+    ceb: Balaod pangkompetisyon
+    cs: právo hospodářské soutěže
+    da: konkurrenceret
+    de: Wettbewerbsrecht
+    el: Δίκαιο ανταγωνισμού
+    en: competition law
+    eo: konkurenca juro
+    es: derecho de la competencia
+    et: Konkurentsiõigus
+    fa: قانون رقابت
+    fi: kilpailuoikeus
+    fr: droit de la concurrence
+    he: הגבלים עסקיים
+    hr: pravo tržišnoga natjecanja
+    hu: versenyjog
+    id: antitrust
+    it: norme giuridiche sulla concorrenza
+    ja: 独占禁止法
+    kk: Монополияга қарсы заңнама
+    kk-arab: مونوپولىيياگا قارسى زاڭناما
+    kk-cn: مونوپولىيياگا قارسى زاڭناما
+    kk-cyrl: Монополияга қарсы заңнама
+    kk-kz: Монополияга қарсы заңнама
+    kk-latn: Monopolïyaga qarsı zañnama
+    kk-tr: Monopolïyaga qarsı zañnama
+    ko: 경쟁법
+    lt: konkurencijos teisė
+    ml: മത്സര സിദ്ധാന്തം
+    mn: Өрсөлдөөний хууль
+    ms: Undang-undang persaingan
+    nb: Antitrust
+    nl: mededingingsrecht
+    pl: prawo konkurencji
+    pt: Direito da concorrência
+    ro: dreptul concurenței
+    ru: конкурентное право
+    sh: Antitrust
+    si: තරගකාර නීතිය
+    sl: konkurenčno pravo
+    sv: konkurrenslag
+    tr: rekabet hukuku
+    uk: антимонопольне законодавство
+    ur: مسابقتی قانون
+    vi: Luật cạnh tranh
+    war: Balaud kompetisyon
+    zh: 競爭法
+    zh-cn: 竞争法
+    zh-hans: 竞争法
+    zh-hant: 競爭法
+    zh-hk: 競爭法
+    zh-sg: 竞争法
+    zh-tw: 競爭法
 ---
-
 # [[Competition_Law]] 
 
 #is_/same_as :: [[WD~Competition_Law,326498]] 

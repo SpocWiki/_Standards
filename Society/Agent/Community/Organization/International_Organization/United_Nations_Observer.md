@@ -1,8 +1,80 @@
 ---
 aliases:
-  - United Nations Observer
-  - United_Nations_Observer
+- Birleşmiş Milletler Genel Kurulu gözlemcileri
+- Estados observadores de la Asamblea General de las Naciones Unidas
+- Förenta nationernas observatörsstater
+- list of United Nations General Assembly observers
+- observador de l'Assemblea General de les Nacions Unides
+- Observadores da Assembleia Geral das Nações Unidas
+- Observateurs à l'Assemblée générale des Nations unies
+- Organisasjoner med observatørstatus i FN
+- osservatori dell'Assemblea generale delle Nazioni Unite
+- Pajanak Majalis Awam Pasarikatan Bangsa-Bangsa
+- Pemerhati Perhimpunan Agung PBB
+- Pengamat Majelis Umum Perserikatan Bangsa-Bangsa
+- Pengamat PBB
+- Posmatrači Generalne skupštine Organizacije ujedinjenih nacija
+- Promatrači Generalne skupštine Ujedinjenih naroda
+- Quan sát viên Đại Hội đồng Liên Hiệp Quốc
+- Seznam pozorovatelů Valného shromáždění OSN
+- United Nations Observer
+- United_Nations_Observer
+- Watazamaji wa kudumu
+- Наблюдатели Генеральной ассамблеи ООН
+- Посматрачи Генералне скупштине Организације уједињених нација
+- Спостерігач в Генеральній Асамблеї ООН
+- משקיפים בעצרת הכללית של האומות המאוחדות
+- مراقبو الجمعية العامة للأمم المتحدة
+- ناظر مجمع عمومی سازمان ملل متحد
+- گڏيل قومن جي اداري جون مبصر رياستون
+- জাতিসংঘ সাধারণ পরিষদের পর্যবেক্ষক
+- ஐக்கிய நாடுகள் பொதுச் சபை பார்வையாளர்கள்
+- 国際連合総会オブザーバー
+- 联合国大会观察员列表
+- 聯合國大會觀察員列表
+- 유엔 총회 옵서버
 has_id_wikidata: Q219082
+dv_has_:
+  name_:
+    ar: مراقبو الجمعية العامة للأمم المتحدة
+    bjn: Pajanak Majalis Awam Pasarikatan Bangsa-Bangsa
+    bn: জাতিসংঘ সাধারণ পরিষদের পর্যবেক্ষক
+    ca: observador de l'Assemblea General de les Nacions Unides
+    cs: Seznam pozorovatelů Valného shromáždění OSN
+    en: list of United Nations General Assembly observers
+    es: Estados observadores de la Asamblea General de las Naciones Unidas
+    fa: ناظر مجمع عمومی سازمان ملل متحد
+    fr: Observateurs à l'Assemblée générale des Nations unies
+    he: משקיפים בעצרת הכללית של האומות המאוחדות
+    id: Pengamat Majelis Umum Perserikatan Bangsa-Bangsa
+    it: osservatori dell'Assemblea generale delle Nazioni Unite
+    ja: 国際連合総会オブザーバー
+    jv: Pengamat PBB
+    ko: 유엔 총회 옵서버
+    ms: Pemerhati Perhimpunan Agung PBB
+    nb: Organisasjoner med observatørstatus i FN
+    pt: Observadores da Assembleia Geral das Nações Unidas
+    ru: Наблюдатели Генеральной ассамблеи ООН
+    sd: گڏيل قومن جي اداري جون مبصر رياستون
+    sh: Promatrači Generalne skupštine Ujedinjenih naroda
+    sr: Посматрачи Генералне скупштине Организације уједињених нација
+    sr-ec: Посматрачи Генералне скупштине Организације уједињених нација
+    sr-el: Posmatrači Generalne skupštine Organizacije ujedinjenih nacija
+    sv: Förenta nationernas observatörsstater
+    sw: Watazamaji wa kudumu
+    ta: ஐக்கிய நாடுகள் பொதுச் சபை பார்வையாளர்கள்
+    tr: Birleşmiş Milletler Genel Kurulu gözlemcileri
+    uk: Спостерігач в Генеральній Асамблеї ООН
+    vi: Quan sát viên Đại Hội đồng Liên Hiệp Quốc
+    zh: 聯合國大會觀察員列表
+    zh-cn: 联合国大会观察员列表
+    zh-hans: 联合国大会观察员列表
+    zh-hant: 聯合國大會觀察員列表
+    zh-hk: 聯合國大會觀察員列表
+    zh-mo: 聯合國大會觀察員列表
+    zh-my: 联合国大会观察员列表
+    zh-sg: 联合国大会观察员列表
+    zh-tw: 聯合國大會觀察員列表
 ---
 ## #has_/text_of_/abstract  
 

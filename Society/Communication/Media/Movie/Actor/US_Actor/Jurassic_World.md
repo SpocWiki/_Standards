@@ -1,8 +1,113 @@
 ---
 aliases:
-  - Jurassic World
-  - Jurassic_World
+- Juras laikmeta pasaule
+- Jurassic Park 4
+- Jurassic Park IV
+- Jurassic World
+- 'Jurassic World: O Mundo dos Dinossauros'
+- Jurassic_World
+- Juros periodo pasaulis
+- Jurski svet
+- Jurski svijet
+- Jurský svět
+- Yura davri dunyosi
+- Джурасик свят
+- Мір юрскага перыяду
+- Мир юрского периода
+- Світ Юрського періоду
+- Свет из доба јуре
+- Юра дүйнөсү
+- Юра кезеңінің әлемі
+- Юрийн Галавын ертөнц
+- Աշխարհը յուրայի դարաշրջանում
+- עולם היורה
+- العالم الجوراسى
+- العالم الجوراسي
+- جراسک ورلڈ
+- جهان ژوراسیک
+- جیھانی جوراسی
+- जुरासिक वर्ल्ड
+- ஜுராசிக் வேர்ல்ட்
+- ജുറാസ്സിക് വേൾഡ്
+- จูราสสิค เวิลด์
+- იურული სამყარო
+- ジュラシック・ワールド
+- 侏羅紀世界
+- 쥬라기 월드
 has_id_wikidata: Q3512046
+dv_has_:
+  name_:
+    ar: العالم الجوراسي
+    arz: العالم الجوراسى
+    ast: Jurassic World
+    be: Мір юрскага перыяду
+    bg: Джурасик свят
+    ca: Jurassic World
+    ceb: Jurassic World
+    ckb: جیھانی جوراسی
+    cs: Jurský svět
+    cy: Jurassic World
+    da: Jurassic World
+    de: Jurassic World
+    de-ch: Jurassic World
+    el: Jurassic World
+    en: Jurassic World
+    en-ca: Jurassic World
+    en-gb: Jurassic World
+    eo: Jurassic World
+    es: Jurassic World
+    eu: Jurassic World
+    fa: جهان ژوراسیک
+    fi: Jurassic World
+    fr: Jurassic World
+    fy: Jurassic World
+    ga: Jurassic World
+    gl: Jurassic World
+    he: עולם היורה
+    hi: जुरासिक वर्ल्ड
+    hr: Jurski svijet
+    ht: Jurassic World
+    hu: Jurassic World
+    hy: Աշխարհը յուրայի դարաշրջանում
+    id: Jurassic World
+    it: Jurassic World
+    ja: ジュラシック・ワールド
+    ka: იურული სამყარო
+    kk: Юра кезеңінің әлемі
+    ko: 쥬라기 월드
+    ky: Юра дүйнөсү
+    la: Jurassic World
+    lb: Jurassic World
+    lt: Juros periodo pasaulis
+    lv: Juras laikmeta pasaule
+    ml: ജുറാസ്സിക് വേൾഡ്
+    mn: Юрийн Галавын ертөнц
+    ms: Jurassic World
+    nb: Jurassic World
+    nl: Jurassic World
+    pl: Jurassic World
+    pt: Jurassic Park 4
+    pt-br: 'Jurassic World: O Mundo dos Dinossauros'
+    qu: Jurassic World
+    ro: Jurassic World
+    ru: Мир юрского периода
+    sco: Jurassic World
+    sh: Jurassic World
+    sl: Jurski svet
+    sr: Свет из доба јуре
+    sv: Jurassic Park IV
+    ta: ஜுராசிக் வேர்ல்ட்
+    th: จูราสสิค เวิลด์
+    tr: Jurassic World
+    uk: Світ Юрського періоду
+    ur: جراسک ورلڈ
+    uz: Yura davri dunyosi
+    vi: Jurassic World
+    yue: 侏羅紀世界
+    zh: 侏羅紀世界
+    zh-hant: 侏羅紀世界
+    zh-hk: 侏羅紀世界
+    zh-tw: 侏羅紀世界
 ---
 ## #has_/text_of_/abstract 
 

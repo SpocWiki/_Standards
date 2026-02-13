@@ -1,18 +1,107 @@
 ---
 aliases:
+- Endezyariya petrol û gaza xwezayî
+- engenharia de petróleo
+- enginyeria del petroli
+- Erdöl- und Erdgastechnik
+- génie pétrolier
+- ingegneria del petrolio
+- Ingeniaria petrolei
+- Ingenieria de petroleo
+- ingeniería del petróleo
+- inginerie petrolieră
+- Inhinyeriyang pampetrolyo
+- Injinia mmanụ ala
+- Inxeniería del petróleu
+- inzegnaria del petròlio
+- Kejuruteraan petroleum
+- Naftas inženers
+- Naftno inženjerstvo
+- Nebit we gaz inženerligi
+- Neft və qaz mühəndisliyi
+- olajmérnöki tudomány
+- Petrol ve doğalgaz mühendisliği
+- petroleum engineering
+- petroleumsteknologi
+- Petrolio-ingeniaritza
+- råolieteknologi
+- Teknik perminyakan
+- Tèknik perminyakan
+- Uhandisi wa mafuta
+- μηχανική πετρελαίου
+- Нафтапрамысловая справа
+- Нафтопромислова справа
+- Нефтепромысловое дело
+- Нефть промыселы эше
+- ئەندازیاریی نەوت
+- مهندسی نفت
+- هندسة النفط
+- پیٹرولیم انجینئرنگ
+- பாறைநெய்ப் பொறியியல்
+- วิศวกรรมปิโตรเลียม
+- 石油工学
+- 石油工程
+- 석유공학
 has_id_wikidata: Q1273174
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
-part_of: "[[_Standards/WikiData/WD~energy_engineering,3353193]]"
-practiced_by: "[[_Standards/WikiData/WD~petroleum_engineer,21002343]]"
-U_S_National_Archives_Identifier: "10646797"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+part_of: '[[_Standards/WikiData/WD~energy_engineering,3353193]]'
+practiced_by: '[[_Standards/WikiData/WD~petroleum_engineer,21002343]]'
+U_S_National_Archives_Identifier: 10646797
 image: http://commons.wikimedia.org/wiki/Special:FilePath/11-09-fotofluege-cux-allg-25a.jpg
 Commons_category: Petroleum engineering
+dv_has_:
+  name_:
+    ar: هندسة النفط
+    ast: Inxeniería del petróleu
+    az: Neft və qaz mühəndisliyi
+    be: Нафтапрамысловая справа
+    be-tarask: нафтапрамысловая справа
+    bs: Naftno inženjerstvo
+    ca: enginyeria del petroli
+    ckb: ئەندازیاریی نەوت
+    da: råolieteknologi
+    de: Erdöl- und Erdgastechnik
+    el: μηχανική πετρελαίου
+    en: petroleum engineering
+    es: ingeniería del petróleo
+    eu: Petrolio-ingeniaritza
+    fa: مهندسی نفت
+    fr: génie pétrolier
+    hu: olajmérnöki tudomány
+    ia: Ingenieria de petroleo
+    id: Teknik perminyakan
+    ig: Injinia mmanụ ala
+    it: ingegneria del petrolio
+    ja: 石油工学
+    jv: Tèknik perminyakan
+    ko: 석유공학
+    ku: Endezyariya petrol û gaza xwezayî
+    la: Ingeniaria petrolei
+    lv: Naftas inženers
+    ms: Kejuruteraan petroleum
+    nb: petroleumsteknologi
+    pt: engenharia de petróleo
+    ro: inginerie petrolieră
+    ru: Нефтепромысловое дело
+    sh: Naftno inženjerstvo
+    sr: Naftno inženjerstvo
+    sw: Uhandisi wa mafuta
+    ta: பாறைநெய்ப் பொறியியல்
+    th: วิศวกรรมปิโตรเลียม
+    tk: Nebit we gaz inženerligi
+    tl: Inhinyeriyang pampetrolyo
+    tr: Petrol ve doğalgaz mühendisliği
+    tt: Нефть промыселы эше
+    uk: Нафтопромислова справа
+    ur: پیٹرولیم انجینئرنگ
+    vec: inzegnaria del petròlio
+    yue: 石油工程
+    zh: 石油工程
 ---
-
 # [[Petroleum_Engineering]] 
 
 #is_/same_as :: [[WD~Petroleum_engineering,1273174]] 

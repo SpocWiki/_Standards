@@ -1,35 +1,141 @@
 ---
 aliases:
+- liumenas
+- lumen
+- lumeni
+- lumeno
+- luumen
+- lúman
+- lúmen
+- lūmens
+- λούμεν
+- лумен
+- люмен
+- люмэн
+- լյումեն
+- לומן
+- لومن
+- نوریہ
+- ल्यूमेन
+- লুমেন
+- லூமன்
+- ల్యూమెన్
+- ലൂമെൻ
+- ลูเมน
+- ལུ་མེན །
+- ლუმენი
+- ルーメン
+- 流明
+- 루멘
 has_id_wikidata: Q484092
 derived_from_base_unit:
-  - "[[_Standards/WikiData/WD~candela,83216]]"
-  - "[[_Standards/WikiData/WD~steradian,177612]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~luminous_flux,107780]]"
+- '[[_Standards/WikiData/WD~candela,83216]]'
+- '[[_Standards/WikiData/WD~steradian,177612]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~luminous_flux,107780]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_derived_unit,208469]]"
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-  - "[[_Standards/WikiData/WD~unit_of_luminous_flux,126870833]]"
-different_from: "[[_Standards/WikiData/WD~Lumen,225602]]"
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_luminous_flux,126870833]]'
+different_from: '[[_Standards/WikiData/WD~Lumen,225602]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 conversion_to_SI_unit: 1
-OmegaWiki_Defined_Meaning: "341641"
+OmegaWiki_Defined_Meaning: 341641
 UN_CEFACT_Common_Code: LUM
 UCUM_code: lm
 unit_symbol:
-  - lm
-  - lm
-  - lm
-  - lm
-  - лм
+- lm
+- lm
+- lm
+- lm
+- лм
 Wolfram_Language_unit_code: '"Lumens"'
 IEV_number: 845-21-084
 Wikidata_SPARQL_query_equivalent: wd:Q484092 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    ar: لومن
+    ast: lumen
+    be: люмен
+    be-tarask: люмэн
+    bg: лумен
+    bn: লুমেন
+    bo: ལུ་མེན །
+    bs: lumen
+    ca: lumen
+    cs: lumen
+    cv: люмен
+    cy: lumen
+    da: lumen
+    de: Lumen
+    el: λούμεν
+    en: lumen
+    eo: lumeno
+    es: lumen
+    et: luumen
+    eu: lumen
+    fa: لومن
+    fi: luumen
+    fr: lumen
+    frr: Lumen
+    ga: lúman
+    gl: lumen
+    he: לומן
+    hi: ल्यूमेन
+    hr: lumen
+    hu: lumen
+    hy: լյումեն
+    id: lumen
+    io: lumeno
+    is: lúmen
+    it: lumen
+    ja: ルーメン
+    ka: ლუმენი
+    kk: люмен
+    ko: 루멘
+    ky: люмен
+    lt: liumenas
+    lv: lūmens
+    mk: лумен
+    ml: ലൂമെൻ
+    ms: lumen
+    mt: lumen
+    nb: lumen
+    nl: lumen
+    nn: lumen
+    pl: lumen
+    pt: lúmen
+    ro: lumen
+    ru: люмен
+    scn: lumen
+    sh: lumen
+    sk: lúmen
+    sl: lumen
+    smn: luumen
+    sq: lumeni
+    sr: лумен
+    sr-ec: лумен
+    sr-el: lumen
+    sv: lumen
+    ta: லூமன்
+    te: ల్యూమెన్
+    th: ลูเมน
+    tr: lumen
+    uk: люмен
+    ur: نوریہ
+    uz: lumen
+    vi: lumen
+    wuu: 流明
+    xmf: ლუმენი
+    yue: 流明
+    zh: 流明
+    zh-hans: 流明
+    zh-hant: 流明
+    zh-hk: 流明
 ---
-
 # [[Unit~Lumen]]  
 
 Lumen is a derived from the SI- [[Unit_of_Measure/SI-Unit/Unit~Candela|Unit~Candela]].  

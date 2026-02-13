@@ -1,40 +1,117 @@
 ---
 aliases:
-  - Hadley cell
-  - Hadley circulation
-  - Hadley_Cell
-  - Hadley Cell
+- cella di Hadley
+- Cellule de Hadley
+- Circolazion teòrica de l'Hadley
+- cèl·lula de Hadley
+- Célula de Hadley
+- Hadley cell
+- Hadley circulation
+- Hadley hücresi
+- Hadley sûn-khoân
+- Hadley zelula
+- Hadley-cella
+- Hadley-Zelle
+- Hadleycel
+- Hadleycell
+- Hadleycelle
+- Hadleyjeva celica
+- Hadleyn solu
+- Hadleyova buňka
+- Hadley_Cell
+- Hadlijeva ćelija
+- Hoàn lưu Hadley
+- komórka Hadleya
+- sel Hadley
+- Üldine õhuringlus
+- Комірка Гадлі
+- Цыркуляцыя атмасферы
+- Ячейка Хадли
+- ячка Гадлі
+- Հեդլի բջիջ
+- תא הדלי
+- حجيرة هادلي
+- سلول هادلی
+- ہیڈلی سیل
+- हैडली सेल
+- বায়ুপ্রবাহ
+- ハドレー循環
+- 哈得萊環流圈
+- 哈德里環流圈
+- 해들리 세포
 has_id_wikidata: Q338589
 has_part_s_:
-  - "[[_Standards/WikiData/WD~trade_wind,160603]]"
-  - "[[_Standards/WikiData/WD~Q52731221,52731221]]"
-instance_of: "[[_Standards/WikiData/WD~cellular_circulation,187670]]"
-named_after: "[[_Standards/WikiData/WD~George_Hadley,968686]]"
-facet_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
-part_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
+- '[[_Standards/WikiData/WD~trade_wind,160603]]'
+- '[[_Standards/WikiData/WD~Q52731221,52731221]]'
+instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670]]'
+named_after: '[[_Standards/WikiData/WD~George_Hadley,968686]]'
+facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HadleyCross-sec.jpg
 Commons_category: Hadley cells
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Hadley_cell,338589]]"
-    - "[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]"
-    - "[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]"
-    - "[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]"
-    - "[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]"
-    - "[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]"
-    - "[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]"
-    - "[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]"
+  - '[[../../WikiData/WD~Hadley_cell,338589]]'
+  - '[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]'
+  - '[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]'
+  - '[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]'
+  - '[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]'
+  - '[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]'
+  - '[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]'
+  - '[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Hadley_cell,338589]]"
-  - "[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]"
-  - "[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]"
-  - "[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]"
-  - "[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]"
-  - "[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]"
-  - "[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]"
-  - "[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]"
+- '[[../../WikiData/WD~Hadley_cell,338589]]'
+- '[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]'
+- '[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]'
+- '[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]'
+- '[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]'
+- '[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]'
+- '[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]'
+- '[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]'
+dv_has_:
+  name_:
+    ar: حجيرة هادلي
+    ast: Célula de Hadley
+    be: Цыркуляцыя атмасферы
+    be-tarask: ячка Гадлі
+    bn: বায়ুপ্রবাহ
+    ca: cèl·lula de Hadley
+    cs: Hadleyova buňka
+    de: Hadley-Zelle
+    en: Hadley cell
+    es: Célula de Hadley
+    et: Üldine õhuringlus
+    eu: Hadley zelula
+    fa: سلول هادلی
+    fi: Hadleyn solu
+    fr: Cellule de Hadley
+    gl: Célula de Hadley
+    he: תא הדלי
+    hi: हैडली सेल
+    hu: Hadley-cella
+    hy: Հեդլի բջիջ
+    it: cella di Hadley
+    ja: ハドレー循環
+    ko: 해들리 세포
+    lmo: Circolazion teòrica de l'Hadley
+    ms: sel Hadley
+    nan: Hadley sûn-khoân
+    nb: Hadleycelle
+    nl: Hadleycel
+    nn: Hadleycelle
+    pl: komórka Hadleya
+    pt: Célula de Hadley
+    ru: Ячейка Хадли
+    sl: Hadleyjeva celica
+    sr: Hadlijeva ćelija
+    sv: Hadleycell
+    tr: Hadley hücresi
+    uk: Комірка Гадлі
+    ur: ہیڈلی سیل
+    vi: Hoàn lưu Hadley
+    yue: 哈得萊環流圈
+    zh: 哈德里環流圈
 ---
-
 # [[Hadley_Cell]] 
 
 #is_/same_as :: [[WD~Hadley_cell,338589]] 

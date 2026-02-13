@@ -1,12 +1,69 @@
 ---
 aliases:
-  - Rennen
-  - Racing
+- Balap
+- cala
+- carreira
+- carrera
+- corrida
+- corsa
+- course
+- cursa
+- dirkanje
+- gara di velocità
+- kappløp
+- kilpailu
+- Kēng-cháu
+- lasterketa
+- løb
+- Mujawo
+- perlumbaan
+- Race
+- Racing
+- rasio
+- Ratçhal
+- redadeg
+- Rennen
+- resek
+- rásaíocht
+- Rèis
+- sacensības uz laiku
+- Trka
+- Veddelaup
+- versenyzés
+- vetkuro
+- Võiduajamine
+- Wayrakachay
+- wyścig
+- Yarış
+- závodění
+- đua
+- αγώνας ταχύτητας
+- гонкі
+- гонка
+- перегони
+- трка
+- մրցարշավ
+- געיעג
+- מרוץ
+- رقابت ورزشی
+- ریس
+- سباق
+- दौड़
+- റേസിംഗ്
+- การแข่งความเร็ว
+- ပြိုင်
+- ၶႄႉၶဵင်ႇ
+- ịgba ọsọ
+- 竞速类
+- 競走
+- 競速
+- 鬥快
+- 경주
 has_id_wikidata: Q878123
 different_from:
-  - '[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883]]'
-  - '[[_Standards/WikiData/WD~The_Ride,29581183]]'
-  - '[[_Standards/WikiData/WD~Q54894541,54894541]]'
+- '[[_Standards/WikiData/WD~Spanish_style_bullfighting,2640883]]'
+- '[[_Standards/WikiData/WD~The_Ride,29581183]]'
+- '[[_Standards/WikiData/WD~Q54894541,54894541]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~race,22938576]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
@@ -16,8 +73,75 @@ Commons_category: Racing sports
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Course%20Nf%201%201%201%20-%20Elix.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GGF%20Race5.jpg
 U_S_National_Archives_Identifier: 10643549
+dv_has_:
+  name_:
+    ar: سباق
+    az: Yarış
+    be-tarask: гонкі
+    br: redadeg
+    ca: cursa
+    cs: závodění
+    cy: rasio
+    da: løb
+    de: Rennen
+    el: αγώνας ταχύτητας
+    en: racing
+    eo: vetkuro
+    es: carrera
+    et: Võiduajamine
+    eu: lasterketa
+    fa: رقابت ورزشی
+    fi: kilpailu
+    fr: course
+    fy: Race
+    ga: rásaíocht
+    gd: Rèis
+    gl: carreira
+    gv: Ratçhal
+    he: מרוץ
+    hi: दौड़
+    hu: versenyzés
+    hy: մրցարշավ
+    id: Balap
+    ig: ịgba ọsọ
+    it: gara di velocità
+    ja: 競走
+    ko: 경주
+    kw: resek
+    lb: Course
+    lv: sacensības uz laiku
+    mk: трка
+    ml: റേസിംഗ്
+    ms: perlumbaan
+    my: ပြိုင်
+    nan: Kēng-cháu
+    nb: kappløp
+    nl: racing
+    nn: Veddelaup
+    pl: wyścig
+    pt: corrida
+    qu: Wayrakachay
+    ru: гонка
+    sh: Trka
+    shi: cala
+    shn: ၶႄႉၶဵင်ႇ
+    sl: dirkanje
+    sn: Mujawo
+    sr: трка
+    sr-ec: трка
+    sr-el: trka
+    sv: racing
+    th: การแข่งความเร็ว
+    tr: Yarış
+    uk: перегони
+    ur: ریس
+    vec: corsa
+    vi: đua
+    yi: געיעג
+    yue: 鬥快
+    zh: 竞速类
+    zh-hant: 競速
 ---
-
 # [[Racing]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~racing,878123]] 

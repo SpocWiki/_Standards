@@ -1,8 +1,159 @@
 ---
 has_id_wikidata: Q20899
+dv_has_:
+  name_:
+    af: Podgooi
+    an: Podcast
+    ar: تدوين صوتي
+    ary: پودكاسط
+    arz: بودكاست
+    az: podkast
+    bar: Podcast
+    be: падкастынг
+    be-tarask: падкастынг
+    bew: Umrup-umrupan
+    bg: Подкаст
+    bho: पॉडकास्ट
+    bn: পডকাস্ট
+    ca: podcàsting
+    ckb: پۆدکاست
+    cs: podcast
+    cy: podlediad
+    da: podcasting
+    de: Podcast
+    de-ch: Podcasting
+    el: Podcasting
+    en: podcast
+    en-ca: podcast
+    en-gb: podcast
+    eo: podkasto
+    es: pódcast
+    et: taskuhääling
+    eu: Podcast
+    fa: پادکست
+    fi: podcasting
+    fr: podcast
+    frr: podcast
+    ga: podchraolachán
+    gl: Podcast
+    haw: Hoʻolele hualono
+    he: פודקאסט
+    hi: पॉडकास्ट
+    hr: Podcast
+    hu: podcast
+    hy: Փոդքասթ
+    id: siniar
+    io: Podkasto
+    is: Netvarp
+    it: "''podcasting''"
+    ja: ポッドキャスト
+    jv: Giyarswara
+    kaa: Podcast
+    kk: Подкастинг
+    ko: 팟캐스트
+    ky: Подкаст
+    la: Podcast
+    lb: Podcast
+    lt: tinklalaidė
+    lv: aplādēšana
+    mi: pakihere rokiroki
+    mk: поткаст
+    ml: പോഡ്കാസ്റ്റ്
+    ms: audio siar
+    mt: Poddata
+    nan: Podcasting
+    nb: podkasting
+    nds: Podcasting
+    nds-nl: podcast
+    nl: podcast
+    nn: podkasting
+    oc: podcasting
+    pam: Podcast
+    pl: podkast
+    pnb: پوڈکاسٹ
+    pt: podcasting
+    pt-br: Podcasting
+    ro: podcast
+    ru: подкастинг
+    scn: Podcasting
+    sd: Podcast
+    sh: Podcast
+    si: පොඩ්කාස්ට්
+    sk: podcast
+    sl: podkast
+    sq: Podcast
+    sr: поткаст
+    sv: poddradio
+    sw: Podikasiti
+    ta: வலையொலி
+    te: పాడ్కాస్ట్
+    th: พอดแคสต์
+    tr: podkest
+    tt: Подкаст
+    ug: پودكەست
+    uk: подкаст
+    ur: پوڈکاسٹ
+    uz: podcasting
+    vi: Podcast
+    wuu: 播客
+    yi: פאדקעסט
+    yue: Podcast
+    zh: 播客
+    zh-hant: Podcast
+    zh-tw: Podcast
+    zu: Isifayelo
+aliases:
+- "''podcasting''"
+- aplādēšana
+- audio siar
+- Giyarswara
+- Hoʻolele hualono
+- Isifayelo
+- Netvarp
+- pakihere rokiroki
+- Podcast
+- podcasting
+- podchraolachán
+- podcàsting
+- Poddata
+- poddradio
+- Podgooi
+- Podikasiti
+- podkast
+- podkasting
+- podkasto
+- podkest
+- podlediad
+- pódcast
+- siniar
+- taskuhääling
+- tinklalaidė
+- Umrup-umrupan
+- падкастынг
+- подкаст
+- подкастинг
+- поткаст
+- Փոդքասթ
+- פאדקעסט
+- פודקאסט
+- بودكاست
+- تدوين صوتي
+- پادکست
+- پودكاسط
+- پودكەست
+- پوڈکاسٹ
+- پۆدکاست
+- पॉडकास्ट
+- পডকাস্ট
+- வலையொலி
+- పాడ్కాస్ట్
+- പോഡ്കാസ്റ്റ്
+- පොඩ්කාස්ට්
+- พอดแคสต์
+- ポッドキャスト
+- 播客
+- 팟캐스트
 ---
-
-
 # [[Podcast]] 
 
 

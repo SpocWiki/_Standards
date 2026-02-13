@@ -1,21 +1,137 @@
 ---
 aliases:
-  - Arms_Race
-  - Arms Race
+- armadkonkuro
+- armamentu lehia
+- Arms Race
+- Arms_Race
+- carrera armamentista
+- Certamen armorum
+- chạy đua vũ trang
+- corrida armamentista
+- corsa agli armamenti
+- corsa ais armaments
+- course aux armements
+- cursa armamentista
+- cursa înarmării
+- ginklavimosi varžybos
+- hidegháborús fegyverkezési verseny
+- iomaíocht na n-arm
+- kapprustning
+- kilpavarustelu
+- oboroževalna tekma
+- perlombaan senjata
+- perlumbaan senjata
+- preteky v zbrojení
+- qarwlanw jarısı
+- qurollanish poygasi
+- ras arfau
+- silahlanma yarışı
+- våpenkappløp
+- vígbúnaðarkapphlaup
+- võidurelvastumine
+- Wapenwedloop
+- Wettrüsten
+- wyścig zbrojeń
+- závody ve zbrojení
+- ανταγωνισμός εξοπλισμών
+- гонка ўзбраенняў
+- гонка ўзбраеньняў
+- гонка вооружений
+- надпревара във въоръжаването
+- наоружавање
+- перегони озброєнь
+- трка во наоружување
+- қарулану жарысы
+- սպառազինության մրցավազք
+- מרוץ חימוש
+- سباق تسلح
+- قارۋلانۋ جارىسى
+- مسابقه تسلیحاتی
+- การแข่งขันในทางอาวุธ
+- 军备竞赛
+- 軍備拡張競争
+- 軍備競賽
+- 군비 경쟁
 has_id_wikidata: Q322348
 opposite_of: '[[_Standards/WikiData/WD~disarmament,331662]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~competition,476300]]'
-  - '[[_Standards/WikiData/WD~racing,878123]]'
-  - '[[_Standards/WikiData/WD~race,22938576]]'
+- '[[_Standards/WikiData/WD~competition,476300]]'
+- '[[_Standards/WikiData/WD~racing,878123]]'
+- '[[_Standards/WikiData/WD~race,22938576]]'
 different_from: '[[_Standards/WikiData/WD~evolutionary_arms_race,2702288]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q10176134,10176134]]'
 described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 U_S_National_Archives_Identifier: 10637140
 UNSPSC_Code: 92111904
 P8189: 987007294806605171
+dv_has_:
+  name_:
+    af: Wapenwedloop
+    ar: سباق تسلح
+    ast: carrera armamentista
+    az: silahlanma yarışı
+    be: гонка ўзбраенняў
+    be-tarask: гонка ўзбраеньняў
+    bg: надпревара във въоръжаването
+    ca: cursa armamentista
+    cs: závody ve zbrojení
+    cy: ras arfau
+    de: Wettrüsten
+    el: ανταγωνισμός εξοπλισμών
+    en: arms race
+    eo: armadkonkuro
+    es: carrera armamentista
+    et: võidurelvastumine
+    eu: armamentu lehia
+    fa: مسابقه تسلیحاتی
+    fi: kilpavarustelu
+    fr: course aux armements
+    ga: iomaíocht na n-arm
+    he: מרוץ חימוש
+    hu: hidegháborús fegyverkezési verseny
+    hy: սպառազինության մրցավազք
+    id: perlombaan senjata
+    is: vígbúnaðarkapphlaup
+    it: corsa agli armamenti
+    ja: 軍備拡張競争
+    kk: қарулану жарысы
+    kk-arab: قارۋلانۋ جارىسى
+    kk-cn: قارۋلانۋ جارىسى
+    kk-cyrl: қарулану жарысы
+    kk-kz: қарулану жарысы
+    kk-latn: qarwlanw jarısı
+    kk-tr: qarwlanw jarısı
+    ko: 군비 경쟁
+    la: Certamen armorum
+    lt: ginklavimosi varžybos
+    mk: трка во наоружување
+    ms: perlumbaan senjata
+    nb: våpenkappløp
+    nl: wapenwedloop
+    nn: våpenkappløp
+    oc: corsa ais armaments
+    pl: wyścig zbrojeń
+    pt: corrida armamentista
+    ro: cursa înarmării
+    ru: гонка вооружений
+    sk: preteky v zbrojení
+    sl: oboroževalna tekma
+    sr: наоружавање
+    sv: kapprustning
+    th: การแข่งขันในทางอาวุธ
+    tr: silahlanma yarışı
+    uk: перегони озброєнь
+    uz: qurollanish poygasi
+    vi: chạy đua vũ trang
+    yue: 軍備競賽
+    zh: 军备竞赛
+    zh-cn: 军备竞赛
+    zh-hans: 军备竞赛
+    zh-hant: 軍備競賽
+    zh-hk: 軍備競賽
+    zh-sg: 军备竞赛
+    zh-tw: 軍備競賽
 ---
-
 # [[Arms_Race]] 
 
 #is_/same_as :: [[../../WikiData/WD~Arms_race,322348|WD~Arms_race,322348]] 

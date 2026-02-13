@@ -1,8 +1,58 @@
 ---
 has_id_wikidata: Q1165219
+dv_has_:
+  name_:
+    ca: Forma de Backus i Naur Ampliada
+    cs: Rozvinutá Backusova-Naurova forma
+    da: Udvidet Backus-Naur form
+    de: Erweiterte Backus-Naur-Form
+    en: extended Backus–Naur form
+    eo: EBNF
+    es: BNF extendido
+    fa: فرم باکوس نائور توسعه یافته
+    fr: Extended Backus-Naur Form
+    hr: Prošireni Backus-Naurov oblik
+    hy: ԲՆԸՁ
+    it: Extended Backus-Naur form
+    ja: EBNF
+    ko: 확장된 배커스-나우르 표기법
+    nl: EBNF
+    pl: Notacja EBNF
+    pt: Formalismo de Backus-Naur Estendido
+    ru: Расширенная форма Бэкуса — Наура
+    sr: Проширена Бакус–Наурова форма
+    sr-ec: Проширена Бекус-Наурова форма
+    sr-el: Proširena Bekus-Naurova forma
+    tr: EBNF Genişletilmiş Backus-Naur formu
+    uk: Розширена нотація Бекуса-Наура
+    zh: 扩展巴科斯范式
+    zh-hans: 扩展巴科斯范式
+    zh-hant: 擴展巴科斯範式
+    zh-hk: 擴展巴科斯範式
+aliases:
+- BNF extendido
+- EBNF
+- EBNF Genişletilmiş Backus-Naur formu
+- Erweiterte Backus-Naur-Form
+- Extended Backus-Naur Form
+- extended Backus–Naur form
+- Forma de Backus i Naur Ampliada
+- Formalismo de Backus-Naur Estendido
+- Notacja EBNF
+- Proširena Bekus-Naurova forma
+- Prošireni Backus-Naurov oblik
+- Rozvinutá Backusova-Naurova forma
+- Udvidet Backus-Naur form
+- Проширена Бакус–Наурова форма
+- Проширена Бекус-Наурова форма
+- Расширенная форма Бэкуса — Наура
+- Розширена нотація Бекуса-Наура
+- ԲՆԸՁ
+- فرم باکوس نائور توسعه یافته
+- 扩展巴科斯范式
+- 擴展巴科斯範式
+- 확장된 배커스-나우르 표기법
 ---
-
-
 # EBNF(Extended_Backus-Naur_form) 
 
 > In computer science, extended Backus–Naur form (EBNF) 

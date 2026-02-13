@@ -1,23 +1,92 @@
 ---
 aliases:
+- calefacción
+- calefactio
+- chauffage
+- Chofe
+- Erwärmen
+- escalfament
+- gretje
+- heating
+- melegítés
+- ogrzewanie
+- ohrievanie
+- ohřívání
+- opvarmning
+- pemanasan
+- quecemento
+- riscaldamento
+- téamh
+- uppvärmning
+- varmigado
+- verwarmen
+- греење
+- загревање
+- йылытыу
+- награваньне
+- нагрев
+- нагрэў
+- підігрів
+- җылыну
+- חימום
+- تسخين
+- উষ্ণায়ন
+- 加热
+- 加熱
 has_id_wikidata: Q4311765
 subclass_of:
-  - "[[_Standards/WikiData/WD~heat_transfer,179635]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_process,213016]]"
-  - "[[_Standards/WikiData/WD~increase,9073584]]"
+- '[[_Standards/WikiData/WD~heat_transfer,179635]]'
+- '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
+- '[[_Standards/WikiData/WD~increase,9073584]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~thermal_energy,209233]]"
-  - "[[_Standards/WikiData/WD~heat,44432]]"
+- '[[_Standards/WikiData/WD~thermal_energy,209233]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~refrigeration,747713]]"
-  - "[[_Standards/WikiData/WD~cooling,3929317]]"
+- '[[_Standards/WikiData/WD~refrigeration,747713]]'
+- '[[_Standards/WikiData/WD~cooling,3929317]]'
 different_from:
-  - "[[_Standards/WikiData/WD~warming_up,760132]]"
-  - "[[_Standards/WikiData/WD~heating,_ventilation,_and_air_conditioning,1798773]]"
-  - "[[_Standards/WikiData/WD~heating_equipment,11880006]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+- '[[_Standards/WikiData/WD~warming_up,760132]]'
+- '[[_Standards/WikiData/WD~heating,_ventilation,_and_air_conditioning,1798773]]'
+- '[[_Standards/WikiData/WD~heating_equipment,11880006]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+dv_has_:
+  name_:
+    ar: تسخين
+    ba: йылытыу
+    be: нагрэў
+    be-tarask: награваньне
+    bn: উষ্ণায়ন
+    ca: escalfament
+    cs: ohřívání
+    da: opvarmning
+    de: Erwärmen
+    en: heating
+    eo: varmigado
+    es: calefacción
+    fr: chauffage
+    ga: téamh
+    gl: quecemento
+    he: חימום
+    ht: Chofe
+    hu: melegítés
+    it: riscaldamento
+    ja: 加熱
+    la: calefactio
+    mk: греење
+    ms: pemanasan
+    nl: verwarmen
+    pl: ogrzewanie
+    ru: нагрев
+    sk: ohrievanie
+    sl: gretje
+    sr: загревање
+    sv: uppvärmning
+    tt: җылыну
+    tt-cyrl: җылыну
+    uk: підігрів
+    zh: 加热
+    zh-hans: 加热
 ---
-
 # [[Heating]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~heating,4311765]] 

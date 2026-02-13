@@ -1,16 +1,63 @@
 ---
 aliases:
+- Crocoideae
+- Zəfərankimilər
+- шафранови
+- زعفراناوية
+- زنبقیان کروکویدئا
+- 크로커스아과
 has_id_wikidata: Q5187415
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crocus%20aleppicus%201.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2088
 UMLS_CUI: C5073865
 Commons_category: Crocoideae
 taxon_name: Crocoideae
+dv_has_:
+  name_:
+    an: Crocoideae
+    ar: زعفراناوية
+    ast: Crocoideae
+    az: Zəfərankimilər
+    bg: шафранови
+    ca: Crocoideae
+    ceb: Crocoideae
+    de: Crocoideae
+    en: Crocoideae
+    eo: Crocoideae
+    es: Crocoideae
+    eu: Crocoideae
+    ext: Crocoideae
+    fa: زنبقیان کروکویدئا
+    fi: Crocoideae
+    fr: Crocoideae
+    ga: Crocoideae
+    gl: Crocoideae
+    hr: Crocoideae
+    ia: Crocoideae
+    ie: Crocoideae
+    io: Crocoideae
+    it: Crocoideae
+    ko: 크로커스아과
+    la: Crocoideae
+    mul: Crocoideae
+    nl: Crocoideae
+    oc: Crocoideae
+    pl: Crocoideae
+    pt: Crocoideae
+    pt-br: Crocoideae
+    ro: Crocoideae
+    ru: Crocoideae
+    sl: Crocoideae
+    sq: Crocoideae
+    tr: Crocoideae
+    uk: Crocoideae
+    vi: Crocoideae
+    vo: Crocoideae
+    war: Crocoideae
 ---
-
 # [[Crocoideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Crocoideae,5187415|WD~Crocoideae,5187415]] 

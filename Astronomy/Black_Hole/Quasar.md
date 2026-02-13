@@ -1,42 +1,184 @@
 ---
 aliases:
+- cuasár
+- cuásar
+- Cwaseren
+- Dulstirni
+- Kaza
+- Kouazar
+- Kuasar
+- kvasaari
+- kvasar
+- Kvazar
+- Kvazaras
+- kvazaro
+- kvazár
+- Kvazārs
+- kwasar
+- kwazar
+- Nusuranyota
+- quasar
+- Quasaro
+- quàsar
+- quásar
+- Urjiileesoboo
+- Κβάζαρ
+- ахтарнамо
+- квазар
+- Квазарлар
+- Քվազար
+- קוואזר
+- اختروش
+- نجم زائف
+- کواسار
+- क्वासर
+- क्वेसार
+- আপাত-নক্ষত্র
+- துடிப்பண்டம்
+- ಕ್ವೇಸಾರ್
+- ക്വാസാർ
+- เควซาร์
+- ကွေဆာ
+- კვაზარი
+- クエーサー
+- 类星体
+- 類星體
+- 퀘이사
 has_id_wikidata: Q83373
-part_of: "[[_Standards/WikiData/WD~galaxy_cluster,204107]]"
-has_list: "[[_Standards/WikiData/WD~list_of_quasars,2984458]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_quasar,8446500]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65310968,65310968]]"
-subclass_of: "[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]"
+part_of: '[[_Standards/WikiData/WD~galaxy_cluster,204107]]'
+has_list: '[[_Standards/WikiData/WD~list_of_quasars,2984458]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_quasar,8446500]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65310968,65310968]]'
+subclass_of: '[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]'
 Commons_gallery: Quasar
-U_S_National_Archives_Identifier: "10648241"
+U_S_National_Archives_Identifier: 10648241
 Commons_category: Quasars
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20mysterious%20alignment%20of%20quasar%20rotation%20axes.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20quasar%203C%20279.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20mysterious%20alignment%20of%20quasar%20rotation%20axes.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20quasar%203C%20279.ogv
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Quasar%20symbol%20%28fixed%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/QuasarStarburst.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/KVAZARI.html
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Quasar,83373]]"
-    - "[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]"
-    - "[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]"
-    - "[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]"
-    - "[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]"
-    - "[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]"
-    - "[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]"
-    - "[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]"
+  - '[[../../WikiData/WD~Quasar,83373]]'
+  - '[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]'
+  - '[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]'
+  - '[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]'
+  - '[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]'
+  - '[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]'
+  - '[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]'
+  - '[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Quasar,83373]]"
-  - "[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]"
-  - "[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]"
-  - "[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]"
-  - "[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]"
-  - "[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]"
-  - "[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]"
-  - "[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]"
+- '[[../../WikiData/WD~Quasar,83373]]'
+- '[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]'
+- '[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]'
+- '[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]'
+- '[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]'
+- '[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]'
+- '[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]'
+- '[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]'
+dv_has_:
+  name_:
+    af: kwasar
+    ar: نجم زائف
+    ast: Cuásar
+    az: Kvazar
+    bar: Quasar
+    be: Квазар
+    be-tarask: квазар
+    bg: Квазар
+    bjn: Kuasar
+    bn: আপাত-নক্ষত্র
+    br: Kouazar
+    bs: Kvazar
+    ca: quàsar
+    co: quasar
+    cs: kvasar
+    cv: Квазар
+    cy: Cwaseren
+    da: kvasar
+    de: Quasar
+    el: Κβάζαρ
+    en: quasar
+    eo: kvazaro
+    es: cuásar
+    et: Kvasar
+    eu: Quasar
+    fa: اختروش
+    fi: kvasaari
+    fr: quasar
+    fy: kwasar
+    ga: cuasár
+    gl: quásar
+    gv: Quasar
+    he: קוואזר
+    hi: क्वासर
+    hr: kvazar
+    ht: Kaza
+    hu: kvazár
+    hy: Քվազար
+    id: Kuasar
+    ig: Quasar
+    io: Quasaro
+    is: Dulstirni
+    it: quasar
+    ja: クエーサー
+    ka: კვაზარი
+    kk: Квазарлар
+    kn: ಕ್ವೇಸಾರ್
+    ko: 퀘이사
+    ky: Квазар
+    la: Quasar
+    lb: Quasar
+    li: Quasar
+    lt: Kvazaras
+    lv: Kvazārs
+    lzh: 類星體
+    mk: квазар
+    ml: ക്വാസാർ
+    mr: क्वेसार
+    ms: Kuasar
+    my: ကွေဆာ
+    nb: kvasar
+    nl: quasar
+    nn: kvasar
+    oc: Quasar
+    om: Urjiileesoboo
+    pl: kwazar
+    pnb: کواسار
+    pt: quasar
+    pt-br: quasar
+    ro: quasar
+    ru: квазар
+    sc: quasar
+    scn: quasar
+    sco: quasar
+    sh: Kvazar
+    sk: Kvazar
+    sl: kvazar
+    sr: квазар
+    sr-ec: квазар
+    sr-el: kvazar
+    sv: kvasar
+    sw: Nusuranyota
+    ta: துடிப்பண்டம்
+    tg: ахтарнамо
+    th: เควซาร์
+    tl: Quasar
+    tr: Kuasar
+    tt: Квазар
+    uk: квазар
+    ur: کواسار
+    uz: Kvazar
+    vep: kvazar
+    vi: Quasar
+    war: Quasar
+    wuu: 类星体
+    yue: 類星體
+    zh: 类星体
 ---
-
 # [[Quasar]] 
 
 #is_/same_as :: [[WD~Quasar,83373]] 

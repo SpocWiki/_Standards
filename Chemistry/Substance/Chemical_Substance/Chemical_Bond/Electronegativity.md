@@ -1,38 +1,201 @@
 ---
 aliases:
-  - Electronegativität
-  - Electronegativity
+- Electronegatifedd
+- electronegatividad
+- electronegatividade
+- Electronegatividat
+- Electronegatividá
+- electronegativitat
+- electronegativitate
+- Electronegativity
+- Electronegativität
+- Elektrmanfiylik
+- Elektronegatibidad
+- Elektronegatibotasun
+- Elektronegatiflik
+- elektronegatiivisuus
+- elektronegatiivlâšvuotâ
+- elektronegatiivsus
+- elektronegatiivvalašvuohta
+- elektronegativeco
+- elektronegativita
+- elektronegativitas
+- elektronegativiteit
+- elektronegativitet
+- Elektronegativiteti
+- elektronegativitás
+- Elektronegativität
+- Elektronegativitéit
+- elektronegativitāte
+- elektronegativnost
+- Elektronegatiwita
+- Elektronegatiwiteit
+- Elektroneigiamumas
+- elektroujemność
+- Elektwonegativite
+- eletronegatividade
+- Eletronegativiá
+- eletrunegatività
+- elettronegatività
+- Keelektronegatifan
+- lectro-yiooldaght
+- leictridhiúltacht
+- électronégativité
+- độ âm điện
+- Ηλεκτραρνητικότητα
+- електронегативність
+- електронегативност
+- Електроотрицателност
+- Цахилгаан сөрөг чанар
+- Электр тиҫкәрелек
+- электраадмоўнасць
+- электраадмоўнасьць
+- Электронегативлăх
+- электроотрицательность
+- Электртерістілік
+- Էլեկտրաբացասականություն
+- אלקטרושליליות
+- الکترونگاتیوی
+- الیکٹرونیگیٹیوٹی
+- برقی منفیت
+- كهرسلبية
+- كهروسلبية
+- विद्युत्-ऋणात्मकता
+- তড়িৎ ঋণাত্মকতা
+- વિદ્યુતઋણતા
+- மின்னெதிர்த்தன்மை
+- ವಿದ್ಯುದೃಣತ್ವ
+- വിദ്യുത് ഋണത
+- อิเล็กโตรเนกาทิวิตี
+- အီလက်ထရောနစ် ဆွဲငင်အား
+- ელექტროუარყოფითობა
+- 电负性
+- 電気陰性度
+- 電負度
+- 鲍林标度
+- 전기 음성도
 has_id_wikidata: Q78974
-opposite_of: "[[_Standards/WikiData/WD~electropositivity,2388252]]"
-used_by: "[[_Standards/WikiData/WD~electronegative_atom,28912354]]"
-subclass_of: "[[_Standards/WikiData/WD~chemical_quantity,71550700]]"
+opposite_of: '[[_Standards/WikiData/WD~electropositivity,2388252]]'
+used_by: '[[_Standards/WikiData/WD~electronegative_atom,28912354]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_quantity,71550700]]'
 Wikidata_property: electronegativity
-facet_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+facet_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C7;</mi></mstyle></mrow></math>
 quantity_symbol_string_: χ
 Commons_category: Electronegativity
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]"
+  - '[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]"
+- '[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]'
+dv_has_:
+  name_:
+    af: Elektronegatiwiteit
+    an: Electronegatividat
+    ar: كهرسلبية
+    ary: كهروسلبية
+    ast: Electronegatividá
+    ba: Электр тиҫкәрелек
+    be: электраадмоўнасць
+    be-tarask: электраадмоўнасьць
+    bg: Електроотрицателност
+    bn: তড়িৎ ঋণাত্মকতা
+    bs: Elektronegativnost
+    ca: electronegativitat
+    cs: elektronegativita
+    cv: Электронегативлăх
+    cy: Electronegatifedd
+    da: elektronegativitet
+    de: Elektronegativität
+    dsb: Elektronegatiwita
+    el: Ηλεκτραρνητικότητα
+    en: electronegativity
+    en-ca: Electronegativity
+    en-gb: Electronegativity
+    eo: elektronegativeco
+    es: electronegatividad
+    et: elektronegatiivsus
+    eu: Elektronegatibotasun
+    ext: Eletronegativiá
+    fa: الکترونگاتیوی
+    fi: elektronegatiivisuus
+    fr: électronégativité
+    ga: leictridhiúltacht
+    gl: electronegatividade
+    gu: વિદ્યુતઋણતા
+    gv: lectro-yiooldaght
+    he: אלקטרושליליות
+    hi: विद्युत्-ऋणात्मकता
+    hr: Elektronegativnost
+    hsb: Elektronegatiwita
+    ht: Elektwonegativite
+    hu: elektronegativitás
+    hy: Էլեկտրաբացասականություն
+    ia: electronegativitate
+    id: elektronegativitas
+    ig: electronegativity
+    it: elettronegatività
+    ja: 電気陰性度
+    ka: ელექტროუარყოფითობა
+    kk: Электртерістілік
+    kn: ವಿದ್ಯುದೃಣತ್ವ
+    ko: 전기 음성도
+    lb: Elektronegativitéit
+    lmo: eletrunegatività
+    lt: Elektroneigiamumas
+    lv: elektronegativitāte
+    mk: електронегативност
+    ml: വിദ്യുത് ഋണത
+    mn: Цахилгаан сөрөг чанар
+    ms: Keelektronegatifan
+    my: အီလက်ထရောနစ် ဆွဲငင်အား
+    nb: elektronegativitet
+    nds: Elektronegativität
+    nl: elektronegativiteit
+    nn: elektronegativitet
+    oc: Electronegativitat
+    pl: elektroujemność
+    pnb: الیکٹرونیگیٹیوٹی
+    pt: eletronegatividade
+    pt-br: eletronegatividade
+    ro: electronegativitate
+    ru: электроотрицательность
+    se: elektronegatiivvalašvuohta
+    sh: Elektronegativnost
+    sk: Elektronegativita
+    sl: elektronegativnost
+    smn: elektronegatiivlâšvuotâ
+    sq: Elektronegativiteti
+    sr: електронегативност
+    sv: elektronegativitet
+    ta: மின்னெதிர்த்தன்மை
+    th: อิเล็กโตรเนกาทิวิตี
+    tr: Elektronegatiflik
+    udm: электроотрицательность
+    uk: електронегативність
+    ur: برقی منفیت
+    uz: Elektrmanfiylik
+    vi: độ âm điện
+    war: Elektronegatibidad
+    wuu: 鲍林标度
+    yue: 電負度
+    zh: 电负性
 ---
-
 # [[Electronegativity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]] 

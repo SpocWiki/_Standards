@@ -1,26 +1,104 @@
 ---
 aliases:
-  - Titanium
-  - Titan
+- Béésh doo Ńdiniichxíihii
+- Gerendel
+- ijo lili nanpa 22
+- IsinTsazayiya
+- jinmrtitani
+- titaan
+- titaani
+- titaaniyaam
+- Titan
+- titanas
+- titane
+- Titani
+- titania
+- Titanij
+- titanio
+- titaniom
+- Titaniomu
+- Titaniu
+- Titanium
+- titaniwm
+- titanju
+- titano
+- titanum
+- Titanyo
+- Titanyu
+- titanyum
+- Titàn
+- titàniu
+- titán
+- titânio
+- titāns
+- tytan
+- tíotáiniam
+- títan
+- Tîtan
+- Tɩtanɩyɔm
+- çhitaanium
+- τιτάνιο
+- Титан
+- титана
+- титанијум
+- тытан
+- Тытан, хімічны элемент
+- տիտան
+- טיטאניום
+- טיטניום
+- تىتان
+- تيتانيوم
+- تيطان
+- تیتانیم
+- تیتانیوم
+- تیتانیۆم
+- تېتانيوم
+- ٹائٹینیم
+- ٹائی ٹینیئم
+- ٽائيٽانيئم
+- टाइटानियम
+- टाइटेनियम
+- टायटॅनियम
+- টাইটানিয়াম
+- ਟਾਈਟੇਨੀਅਮ
+- ટાઇટેનિયમ
+- ଟିଟାନିଅମ
+- டைட்டேனியம்
+- టైటానియం
+- ಟೈಟೇನಿಯಮ್
+- ടൈറ്റാനിയം
+- ටයිටේනියම්
+- ไทเทเนียม
+- ཊའི་ཊི་ནིམ།
+- တိုင်တေနီယမ်
+- တုဲင်တေနီယမ်
+- ტიტანი
+- ቲታኒየም
+- ᏔᎢᏖᏂᎥᎻ
+- チタン
+- 鈦
+- 钛
+- 타이타늄
+- 티탄
 has_id_wikidata: Q716
 CAS_Registry_Number: 7440-32-6
 Commons_category: Titanium
 Commons_gallery: Titanium
 Common_Procurement_Vocabulary_code:
-  - 14724000
-  - 14724000-2
+- 14724000
+- 14724000-2
 Dewey_Decimal_Classification:
-  - 546.512
-  - 620.189322
-  - 661.0512
-  - 669.7322
+- 546.512
+- 620.189322
+- 661.0512
+- 669.7322
 DSSTOX_compound_identifier: DTXCID3027746
 EC_number: 231-142-3
 InChIKey: RTAQQCXQSZGOHL-UHFFFAOYSA-N
 MeSH_tree_code:
-  - D01.268.557.800
-  - D01.268.956.878
-  - D01.552.547.800
+- D01.268.557.800
+- D01.268.956.878
+- D01.552.547.800
 Mohs_hardness: 6
 OmegaWiki_Defined_Meaning: 3782
 OpenStreetMap_tag_or_key: Tag:material=titanium
@@ -36,90 +114,266 @@ ZVG_number: 8170
 atomic_number: 22
 boiling_point: 3286.85
 chemical_formula: Ti
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Titan,102282]]"
-  - "[[_Standards/WikiData/WD~Tytan,10382763]]"
+- '[[_Standards/WikiData/WD~Titan,102282]]'
+- '[[_Standards/WikiData/WD~Tytan,10382763]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Titanium,84688494]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Titanium,84688494]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
 electronegativity: 1.54
-electron_configuration: "[Ar] 3d² 4s²"
+electron_configuration: '[Ar] 3d² 4s²'
 element_symbol: Ti
 hardness:
-  - 2125
-  - 1493
+- 2125
+- 1493
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.42
-  - 0.61
-  - 0.67
-  - 0.74
-  - 0.86
+- 0.42
+- 0.61
+- 0.67
+- 0.74
+- 0.86
 made_from_material:
-  - "[[_Standards/WikiData/WD~ilmenite,190729]]"
-  - "[[_Standards/WikiData/WD~rutile,320603]]"
-  - "[[_Standards/WikiData/WD~titanite,377280]]"
-  - "[[_Standards/WikiData/WD~perovskite,409787]]"
-  - "[[_Standards/WikiData/WD~brookite,410609]]"
-  - "[[_Standards/WikiData/WD~anatase,413357]]"
-  - "[[_Standards/WikiData/WD~akaogiite,12713259]]"
+- '[[_Standards/WikiData/WD~ilmenite,190729]]'
+- '[[_Standards/WikiData/WD~rutile,320603]]'
+- '[[_Standards/WikiData/WD~titanite,377280]]'
+- '[[_Standards/WikiData/WD~perovskite,409787]]'
+- '[[_Standards/WikiData/WD~brookite,410609]]'
+- '[[_Standards/WikiData/WD~anatase,413357]]'
+- '[[_Standards/WikiData/WD~akaogiite,12713259]]'
 mass: 47.867
 melting_point:
-  - 1941
-  - 1670
+- 1941
+- 1670
 name:
-  - Ti
-  - Titanium
-named_after: "[[_Standards/WikiData/WD~titan,45713]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+- Ti
+- Titanium
+named_after: '[[_Standards/WikiData/WD~titan,45713]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 oxidation_state:
-  - -1
-  - 1
-  - 2
-  - 3
-  - 4
+- -1
+- 1
+- 2
+- 3
+- 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_4,189302]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 shear_modulus: 41.4
 specific_heat_capacity: 520
 speed_of_sound: 5090
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~light_metal,428766]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~light_metal,428766]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
 tensile_modulus_of_elasticity: 116
 thermal_conductivity: 21.9
 time_of_discovery_or_invention: 1791-01-01T00:00:00Z
 type: Element
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Titanium,716]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]"
-  part_of: "[[../Group-04-Titanium]]"
+  - '[[../../../WikiData/WD~Titanium,716]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]'
+  part_of: '[[../Group-04-Titanium]]'
 dv_has_:
   name_:
-    group: Group-04-Titanium
-    en: Titanium
-    de: Titan
     abbreviated: Ti
+    af: titaan
+    am: ቲታኒየም
+    an: Titanio
+    anp: टाइटेनियम
+    ar: تيتانيوم
+    ary: تيطان
+    arz: تيتانيوم
+    ast: titaniu
+    avk: Gerendel
+    awa: टाइटानियम
+    az: Titan
+    azb: تیتانیوم
+    ba: титан
+    ban: titanium
+    bcl: titanyo
+    be: Тытан, хімічны элемент
+    be-tarask: тытан
+    bg: титан
+    bho: टाइटानियम
+    blk: တုဲင်တေနီယမ်
+    bn: টাইটানিয়াম
+    bo: ཊའི་ཊི་ནིམ།
+    br: Titaniom
+    bs: titanij
+    ca: titani
+    cdo: Titanium
+    ceb: Titanyo
+    chr: ᏔᎢᏖᏂᎥᎻ
+    ckb: تیتانیۆم
+    co: Titaniu
+    cs: titan
+    cv: Титан
+    cy: titaniwm
+    da: titan
+    de: Titan
+    el: τιτάνιο
+    en: titanium
+    eo: titano
+    es: titanio
+    et: titaan
+    eu: titanio
+    fa: تیتانیم
+    fi: titaani
+    fj: titanium
+    fo: Titan
+    fr: titane
+    frr: Titan
+    fur: Titani
+    ga: tíotáiniam
+    gan: 鈦
+    gd: Titanium
+    gl: titanio
+    group: Group-04-Titanium
+    gu: ટાઇટેનિયમ
+    gv: çhitaanium
+    hak: Titanium
+    haw: Titanium
+    he: טיטניום
+    hi: टाइटेनियम
+    hif: Titanium
+    hr: titanij
+    ht: Titàn
+    hu: titán
+    hy: տիտան
+    ia: titanium
+    id: titanium
+    io: titanio
+    is: títan
+    it: titanio
+    ja: チタン
+    jbo: jinmrtitani
+    jv: Titanium
+    ka: ტიტანი
+    kbp: Tɩtanɩyɔm
+    ki: Titanium
+    kk: Титан
+    kn: ಟೈಟೇನಿಯಮ್
+    ko: 타이타늄
+    ko-kp: 티탄
+    ku: Tîtan
+    kv: Титан
+    kw: titaniom
+    ky: Титан
+    la: titanium
+    lb: Titan
+    lfn: titanio
+    li: Titanium
+    lij: Titanio
+    lmo: Titanio
+    lt: titanas
+    lv: titāns
+    lzh: 鈦
+    mdf: титана
+    mg: titania
+    min: titanium
+    mk: титан
+    ml: ടൈറ്റാനിയം
+    mn: титан
+    mr: टायटॅनियम
+    mrj: Титан
+    ms: titanium
+    ms-arab: تيتانيوم
+    mt: titanju
+    my: တိုင်တေနီယမ်
+    myv: Титан
+    nan: Titanium
+    nb: titan
+    nds: Titan
+    ne: टाइटानियम
+    new: टाइटानियम
+    nl: titaan
+    nn: titan
+    nov: titanum
+    nv: Béésh doo Ńdiniichxíihii
+    oc: Titani
+    olo: titanium
+    or: ଟିଟାନିଅମ
+    os: титан
+    pa: ਟਾਈਟੇਨੀਅਮ
+    pap: titanio
+    pap-aw: titanio
+    pi: टाइटानियम
+    pl: tytan
+    pms: Titani
+    pnb: ٹائٹینیم
+    ps: تېتانيوم
+    pt: titânio
+    pt-br: titânio
+    qu: Titanyu
+    ro: titan
+    ru: титан
+    rup: Titaniu
+    sa: टाइटानियम
+    sc: titàniu
+    scn: titaniu
+    sco: titanium
+    sd: ٽائيٽانيئم
+    sh: Titanij
+    si: ටයිටේනියම්
+    sk: titán
+    sl: titan
+    so: titaaniyaam
+    sq: Titani
+    sr: титанијум
+    stq: Titan
+    su: Titanium
+    sv: titan
+    sw: Titani
+    ta: டைட்டேனியம்
+    te: టైటానియం
+    tg: Титан
+    th: ไทเทเนียม
+    tl: Titanyo
+    tok: ijo lili nanpa 22
+    tr: titanyum
+    tt: Титан
+    ug: تىتان
+    uk: титан
+    ur: ٹائی ٹینیئم
+    uz: Titan
+    vep: Titan
+    vi: titan
+    war: Titanyo
+    wuu: 钛
+    xal: Титан
+    yi: טיטאניום
+    yo: Titaniomu
+    yue: 鈦
+    zh: 鈦
+    zh-cn: 钛
+    zh-hans: 钛
+    zh-hant: 鈦
+    zh-hk: 鈦
+    zh-tw: 鈦
+    zu: IsinTsazayiya
+  number_of_:
+    period: 4
+    group: 4
+    electrons: 22
   value_for_:
     weight_:
       u: 47.88
@@ -147,21 +401,17 @@ dv_has_:
       form_:
         kj_:
           mol: 421
-  number_of_:
-    period: 4
-    group: 4
-    electrons: 22
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Titanium,716]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]"
+- '[[../../../WikiData/WD~Titanium,716]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: "[[../Group-04-Titanium]]"
+dv_is_part_of: '[[../Group-04-Titanium]]'
 dv_has_name_en: Titanium
 dv_has_name_de: Titan
 dv_has_value_for_weight_u: 47.88
@@ -182,7 +432,6 @@ dv_has_number_of_group: 4
 dv_has_name_abbreviated: Ti
 dv_has_number_of_electrons: 22
 ---
-
 # [[Titanium]] 
 
 #chemic/Element 

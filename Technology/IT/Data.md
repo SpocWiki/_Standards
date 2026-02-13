@@ -1,21 +1,165 @@
 ---
 aliases:
-  - Daten
-  - Data
+- adat
+- Chu-liāu
+- dades
+- dados
+- dane
+- Data
+- Data (computatio)
+- Daten
+- dateno
+- dati
+- dato
+- datos
+- datu
+- datumi
+- daty
+- dată
+- Done
+- donnée
+- duomenys
+- dáta
+- Dáta (informatika)
+- dữ liệu
+- IMininingo (isayensi yesicikizi)
+- maǵlıwmat (informatika)
+- Podaci (računarstvo)
+- podatki
+- roadenn
+- sonraí
+- Të dhënat (shkenca kompjuterike)
+- veri
+- δεδομένα
+- бирелмәләр
+- дані
+- данные
+- даныя
+- додаҳо
+- зьвесткі
+- мәгълүматлар
+- податоци
+- подаци
+- Өгөгдөл
+- נתונים
+- اطلاعات
+- برقی مواد
+- بيانات
+- داتا
+- داده
+- ڈیٹا
+- डेटा
+- देता (कम्प्युतिङ्ग)
+- উপাত্ত (কম্পিউটিং)
+- ડેટા
+- ତଥ୍ୟ
+- ಡೇಟಾ
+- ഡാറ്റ (കമ്പ്യൂട്ടിങ്ങ്)
+- ข้อมูล
+- データ
+- 数据
+- 数据 (计算机)
+- 數據
+- 電腦數據
+- 데이터
 has_id_wikidata: Q494756
 subclass_of:
-  - "[[_Standards/WikiData/WD~manifestation,286583]]"
-  - "[[_Standards/WikiData/WD~source_of_information,3523102]]"
-  - "[[_Standards/WikiData/WD~data,42848]]"
-has_characteristic: "[[_Standards/WikiData/WD~data_format,494823]]"
-has_use: "[[_Standards/WikiData/WD~data_processing,6661985]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Data,42298143]]"
-facet_of: "[[_Standards/WikiData/WD~computer_science,21198]]"
-Dewey_Decimal_Classification: "005"
+- '[[_Standards/WikiData/WD~manifestation,286583]]'
+- '[[_Standards/WikiData/WD~source_of_information,3523102]]'
+- '[[_Standards/WikiData/WD~data,42848]]'
+has_characteristic: '[[_Standards/WikiData/WD~data_format,494823]]'
+has_use: '[[_Standards/WikiData/WD~data_processing,6661985]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Data,42298143]]'
+facet_of: '[[_Standards/WikiData/WD~computer_science,21198]]'
+Dewey_Decimal_Classification: 005
 WordLift_URL: http://data.thenextweb.com/tnw/entity/data_2
 Commons_category: Computer data
+dv_has_:
+  name_:
+    ar: بيانات
+    arz: بيانات
+    be: даныя
+    be-tarask: зьвесткі
+    bn: উপাত্ত (কম্পিউটিং)
+    br: roadenn
+    bs: Podaci (računarstvo)
+    ca: dades
+    co: datu
+    cs: data
+    cy: data
+    da: data
+    de: Daten
+    el: δεδομένα
+    en: data
+    eo: dateno
+    es: datos
+    eu: datu
+    fa: داده
+    fi: data
+    fo: dáta
+    fr: donnée
+    ga: sonraí
+    gl: datos
+    gu: ડેટા
+    he: נתונים
+    hi: डेटा
+    hsb: daty
+    ht: Done
+    hu: adat
+    id: data
+    io: datumi
+    it: dato
+    ja: データ
+    kaa: maǵlıwmat (informatika)
+    kn: ಡೇಟಾ
+    ko: 데이터
+    ku-latn: dane
+    la: Data (computatio)
+    lt: duomenys
+    lv: dati
+    min: data
+    mk: податоци
+    ml: ഡാറ്റ (കമ്പ്യൂട്ടിങ്ങ്)
+    mn: Өгөгдөл
+    ms: data
+    ms-arab: داتا
+    mzn: اطلاعات
+    nan: Chu-liāu
+    nb: data
+    new: देता (कम्प्युतिङ्ग)
+    nl: data
+    nn: data
+    or: ତଥ୍ୟ
+    pl: dane
+    pnb: ڈیٹا
+    pt: dados
+    pt-br: dados
+    ro: dată
+    ru: данные
+    sco: data
+    sk: Dáta (informatika)
+    sl: podatki
+    sq: Të dhënat (shkenca kompjuterike)
+    sr: подаци
+    sv: data
+    tg: додаҳо
+    th: ข้อมูล
+    tr: veri
+    tt: мәгълүматлар
+    tt-cyrl: бирелмәләр
+    uk: дані
+    ur: برقی مواد
+    vec: dati
+    vi: dữ liệu
+    wuu: 数据 (计算机)
+    yue: 電腦數據
+    zh: 数据
+    zh-cn: 数据
+    zh-hans: 数据
+    zh-hant: 數據
+    zh-hk: 數據
+    zu: IMininingo (isayensi yesicikizi)
 ---
-
 # [[Data]] 
 
 #is_/same_as :: [[../../WikiData/WD~Data,494756|WD~Data,494756]] 

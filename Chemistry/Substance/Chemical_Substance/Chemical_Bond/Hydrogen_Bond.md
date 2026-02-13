@@ -1,43 +1,188 @@
 ---
 aliases:
-  - hydrogen bond
-  - H-bond
-  - Wasserstoffbrückenbindung
-  - Hydrogen_Bond
-  - Hydrogen Bond
+- Bigkis na hidroheno
+- Bond hydrogen
+- Chúi-sò͘ kiat-ha̍p
+- enlace de hidrógeno
+- Enllaç d'hidrogen
+- fuercia per ponte d'hidróxenu
+- H-bond
+- Hidhoo haayidiroojiinii
+- Hidrogen rabitəsi
+- hidrogena ligo
+- hidrogeno zubi
+- hidrogénkötés
+- Hidrojen bağı
+- hydrogen bond
+- hydrogenbinding
+- Hydrogen_Bond
+- Ikatan hidrogen
+- legame a idrogeno
+- legătură de hidrogen
+- liaison hydrogène
+- Lidhja e Hidrogjenit
+- Ligam idrogèn
+- ligação de hidrogénio
+- ligação de hidrogênio
+- Liên kết hiđrô
+- Lyezon idwojèn
+- nasc hidrigine
+- Ponte de hidróxeno
+- Vesinikside
+- vetysidos
+- Vinclo d'hidrocheno
+- vodikova vez
+- Vodikova veza
+- Vodonična veza
+- vodíková vazba
+- Vodíková väzba
+- vätebindning
+- Wasserstoffbrückenbindung
+- Waterstofbinding
+- waterstofbrug
+- wiązanie wodorowe
+- Ūdeņraža saite
+- Δεσμός υδρογόνου
+- вадародная сувязь
+- водневий зв’язок
+- водонична веза
+- водород герӟос
+- Водородна врска
+- Водородна връзка
+- Водородная связь
+- Сутектік байланыс
+- Устөрөгчийн холбоо
+- Ջրածնային կապ
+- קשר מימן
+- رابطة هيدروجينية
+- پیوند هیدروژنی
+- हाइड्रोजन बंध
+- হাইড্রোজেন বন্ধন
+- ਹਾਈਡਰੋਜਨ ਜੋੜ
+- ஐதரசன் பிணைப்பு
+- ഹൈഡ്രജൻ ബന്ധനം
+- พันธะไฮโดรเจน
+- წყალბადური ბმა
+- 氢键
+- 氫鍵
+- 水素結合
+- 수소 결합
 has_id_wikidata: Q169324
 subclass_of:
-  - "[[_Standards/WikiData/WD~association,744719]]"
-  - "[[_Standards/WikiData/WD~dipole_dipole_interaction,906841]]"
-  - "[[_Standards/WikiData/WD~chemical_bond,44424]]"
+- '[[_Standards/WikiData/WD~association,744719]]'
+- '[[_Standards/WikiData/WD~dipole_dipole_interaction,906841]]'
+- '[[_Standards/WikiData/WD~chemical_bond,44424]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/H-Bruecke-delta.svg
 UMLS_CUI:
-  - C0020276
-  - C4759724
+- C0020276
+- C4759724
 MeSH_tree_code: G02.282
 Commons_category: Hydrogen bonding
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/VODORODNAYA_SVYAZ.html
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]"
+  - '[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]"
+- '[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]'
+dv_has_:
+  name_:
+    af: Waterstofbinding
+    an: Vinclo d'hidrocheno
+    ar: رابطة هيدروجينية
+    ast: fuercia per ponte d'hidróxenu
+    az: Hidrogen rabitəsi
+    be: вадародная сувязь
+    be-tarask: вадародная сувязь
+    bg: Водородна връзка
+    bn: হাইড্রোজেন বন্ধন
+    bs: Vodikova veza
+    ca: Enllaç d'hidrogen
+    cs: vodíková vazba
+    cy: Bond hydrogen
+    da: hydrogenbinding
+    de: Wasserstoffbrückenbindung
+    el: Δεσμός υδρογόνου
+    en: hydrogen bond
+    en-ca: Hydrogen bond
+    en-gb: Hydrogen bond
+    eo: hidrogena ligo
+    es: enlace de hidrógeno
+    et: Vesinikside
+    eu: hidrogeno zubi
+    fa: پیوند هیدروژنی
+    fi: vetysidos
+    fr: liaison hydrogène
+    ga: nasc hidrigine
+    gl: Ponte de hidróxeno
+    he: קשר מימן
+    hi: हाइड्रोजन बंध
+    hr: Vodikova veza
+    ht: Lyezon idwojèn
+    hu: hidrogénkötés
+    hy: Ջրածնային կապ
+    id: Ikatan hidrogen
+    it: legame a idrogeno
+    ja: 水素結合
+    ka: წყალბადური ბმა
+    kk: Сутектік байланыс
+    ko: 수소 결합
+    lv: Ūdeņraža saite
+    mk: Водородна врска
+    ml: ഹൈഡ്രജൻ ബന്ധനം
+    mn: Устөрөгчийн холбоо
+    ms: Ikatan hidrogen
+    nan: Chúi-sò͘ kiat-ha̍p
+    nb: hydrogenbinding
+    nl: waterstofbrug
+    nn: hydrogenbinding
+    oc: Ligam idrogèn
+    om: Hidhoo haayidiroojiinii
+    pa: ਹਾਈਡਰੋਜਨ ਜੋੜ
+    pl: wiązanie wodorowe
+    pt: ligação de hidrogénio
+    pt-br: ligação de hidrogênio
+    ro: legătură de hidrogen
+    ru: Водородная связь
+    ryu: 水素結合
+    sh: Vodonična veza
+    sk: Vodíková väzba
+    sl: vodikova vez
+    sq: Lidhja e Hidrogjenit
+    sr: водонична веза
+    sr-ec: водонична веза
+    sr-el: vodonična veza
+    sv: vätebindning
+    ta: ஐதரசன் பிணைப்பு
+    th: พันธะไฮโดรเจน
+    tl: Bigkis na hidroheno
+    tr: Hidrojen bağı
+    udm: водород герӟос
+    uk: водневий зв’язок
+    vi: Liên kết hiđrô
+    wuu: 氢键
+    yue: 氫鍵
+    zh: 氢键
+    zh-cn: 氢键
+    zh-hans: 氢键
+    zh-hant: 氫鍵
+    zh-hk: 氫鍵
+    zh-sg: 氢键
+    zh-tw: 氫鍵
 ---
-
 # [[Hydrogen_Bond]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]  

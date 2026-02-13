@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Atlantidae
+- Atlantidae
+- атлантиди
+- Атлантиды
+- أطلنطيات
+- اطلنطيات
+- 明螺科
+- 海蝶螺科
 title: Atlantidae
 has_id_wikidata: Q756491
+dv_has_:
+  name_:
+    an: Atlantidae
+    ar: أطلنطيات
+    arz: اطلنطيات
+    ast: Atlantidae
+    bg: атлантиди
+    ca: Atlantidae
+    ceb: Atlantidae
+    de: Atlantidae
+    en: Atlantidae
+    eo: Atlantidae
+    es: Atlantidae
+    eu: Atlantidae
+    ext: Atlantidae
+    fi: Atlantidae
+    fr: Atlantidae
+    ga: Atlantidae
+    gl: Atlantidae
+    ia: Atlantidae
+    ie: Atlantidae
+    io: Atlantidae
+    it: Atlantidae
+    la: Atlantidae
+    mul: Atlantidae
+    nl: Atlantidae
+    oc: Atlantidae
+    pl: Atlantidae
+    pt: Atlantidae
+    pt-br: Atlantidae
+    ro: Atlantidae
+    ru: Атлантиды
+    sq: Atlantidae
+    sv: Atlantidae
+    tr: Atlantidae
+    uk: Atlantidae
+    vi: Atlantidae
+    vo: Atlantidae
+    war: Atlantidae
+    zh: 海蝶螺科
+    zh-cn: 明螺科
+    zh-tw: 明螺科
 ---
 # [[Atlantidae]] 
 

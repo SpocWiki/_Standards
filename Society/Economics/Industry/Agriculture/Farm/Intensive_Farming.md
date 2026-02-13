@@ -1,20 +1,130 @@
 ---
 aliases:
-  - Intensive agriculture, also known as intensive farming
-  - Intensive_Farming
-  - Intensive Farming
+- agricoltura intensiva
+- agricultura intensiva
+- agriculture intensive
+- agricultură intensivă
+- Bujqësia intensive
+- dianfheirmeoireacht
+- Intensa agrikulturo
+- intensieve landbouw
+- Intensiivpõllundus
+- Intensive agriculture, also known as intensive farming
+- Intensive Farming
+- intensive Landwirtschaft
+- Intensive_Farming
+- Intensivt landbrug
+- Intenzivna poljoprivreda
+- intenzivno kmetijstvo
+- Intenzivní zemědělství
+- intenzív gazdálkodás
+- kilimo cha kina
+- Nekazaritza intentsibo
+- Pertanian intensif
+- Rolnictwo intensywne
+- tehomaatalous
+- Thâm canh
+- UBUHINZI BW'IMBITSE
+- Yoğun tarım
+- İntensiv kənd təsərrüfatı
+- Εντατική καλλιέργεια
+- Інтенсивне сільське господарство
+- Інтэнсіўная сельская гаспадарка
+- интенсивное сельское хозяйство
+- Кишоварзии фишурда
+- Эрчимжсэн фермийн аж ахуй
+- Գյուղատնտեսության ինտենսիվացում
+- חקלאות אינטנסיבית
+- زراعة مكثفة
+- کشاورزی متمرکز
+- کشتوکاڵی چڕ
+- सघन कृषि
+- নিবিড় কৃষি
+- ਉਦਯੋਗਿਕ ਖੇਤੀਬਾੜੀ
+- செறிநிலை வேளாண்மை
+- കടുംകൃഷി
+- ប្រពលវប្បកម្ម
+- Ọrụ ugbo siri ike
+- 精耕細作
+- 精耕细作
+- 集約式農業
+- 集約農業
+- 集约农业
+- 집약농업
 has_id_wikidata: Q1148482
 uses: '[[_Standards/WikiData/WD~pesticide,131656]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~deforestation,169940]]'
-  - '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
+- '[[_Standards/WikiData/WD~deforestation,169940]]'
+- '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 OmegaWiki_Defined_Meaning: 1976
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20fields%20at%20N%C3%B6bbel%C3%B6v%2C%20Lund%20-%20panoramio.jpg
 Commons_category: Industrial agriculture
+dv_has_:
+  name_:
+    ar: زراعة مكثفة
+    ast: agricultura intensiva
+    az: İntensiv kənd təsərrüfatı
+    be: Інтэнсіўная сельская гаспадарка
+    be-tarask: інтэнсіўная сельская гаспадарка
+    bn: নিবিড় কৃষি
+    ca: agricultura intensiva
+    ckb: کشتوکاڵی چڕ
+    cs: Intenzivní zemědělství
+    da: Intensivt landbrug
+    de: intensive Landwirtschaft
+    el: Εντατική καλλιέργεια
+    en: intensive farming
+    en-ca: Intensive farming
+    en-gb: intensive farming
+    eo: Intensa agrikulturo
+    es: agricultura intensiva
+    et: Intensiivpõllundus
+    eu: Nekazaritza intentsibo
+    fa: کشاورزی متمرکز
+    fi: tehomaatalous
+    fr: agriculture intensive
+    ga: dianfheirmeoireacht
+    he: חקלאות אינטנסיבית
+    hi: सघन कृषि
+    hu: intenzív gazdálkodás
+    hy: Գյուղատնտեսության ինտենսիվացում
+    id: Pertanian intensif
+    ig: Ọrụ ugbo siri ike
+    it: agricoltura intensiva
+    ja: 集約農業
+    km: ប្រពលវប្បកម្ម
+    ko: 집약농업
+    la: Agricultura intensiva
+    ml: കടുംകൃഷി
+    mn: Эрчимжсэн фермийн аж ахуй
+    ms: Pertanian intensif
+    nl: intensieve landbouw
+    pa: ਉਦਯੋਗਿਕ ਖੇਤੀਬਾੜੀ
+    pl: Rolnictwo intensywne
+    pt: agricultura intensiva
+    pt-br: Agricultura intensiva
+    ro: agricultură intensivă
+    ru: интенсивное сельское хозяйство
+    rw: UBUHINZI BW'IMBITSE
+    sl: intenzivno kmetijstvo
+    sq: Bujqësia intensive
+    sr: Intenzivna poljoprivreda
+    sw: kilimo cha kina
+    ta: செறிநிலை வேளாண்மை
+    tg: Кишоварзии фишурда
+    tr: Yoğun tarım
+    uk: Інтенсивне сільське господарство
+    vi: Thâm canh
+    wuu: 精耕细作
+    yue: 集約式農業
+    zh: 集约农业
+    zh-hans: 精耕细作
+    zh-hant: 精耕細作
+    zh-hk: 精耕細作
+    zh-tw: 集約農業
 ---
-
 # [[Intensive_Farming]] 
 
 #is_/same_as :: [[WD~Intensive_farming,1148482]] 

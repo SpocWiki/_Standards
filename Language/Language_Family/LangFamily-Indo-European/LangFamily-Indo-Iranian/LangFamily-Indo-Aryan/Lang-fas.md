@@ -1,65 +1,263 @@
 ---
 aliases:
-  - Persian
-  - Farsi
-  - Parsi
-  - Lang-fas
+- Af-Faarsi
+- an Pheirsis
+- ağemğe
+- bahasa Parsi
+- Bahasa Parsiya
+- bahasa Persia
+- Bangpers
+- Basa Pars
+- Basa Parsi
+- Bhâsa Pèrsi(h)
+- Dorerin Persian
+- Fa'aPeresia
+- Farisawa
+- fars dili
+- Fars tili
+- Farsi
+- Farsi bhasa
+- Farsi diller
+- farsikielâ
+- Farsimiutut
+- Farski
+- Farsça
+- Fiteny persana
+- Fors tili
+- Idioma persa
+- IsiPheresiya
+- język perski
+- Kiajemi
+- Kinyaperisi
+- Lang-fas
+- Lenga Farsi ossidental
+- Lengaz persian
+- Lengua farsi
+- Lengua persiana
+- limba persană
+- Limba persiana
+- Lingua farsi
+- lingua persa
+- Lingua persiana
+- lingua Persica
+- Lingwa Persjana
+- Luenga Persa
+- Lènga persiane
+- Parisi
+- Parsi
+- Parsı tili
+- Peirsis
+- persa
+- persa lingvo
+- Persan
+- Persanum
+- Persava
+- Persczi jãzëk
+- perseg
+- Persek
+- Persesch
+- Pershish
+- Persia
+- persiagiella
+- Persian
+- Persiana linguo
+- persiano
+- Persiatlahtōlli
+- persiaǩiõll
+- Persie leid
+- Persien
+- persiera
+- Persies
+- persiešu valoda
+- persijan kel'
+- Persisc sprǣc
+- Persisch
+- Persische Spraak
+- Persischi Sprooch
+- persisht
+- Persisk
+- persiska
+- Persiskt mál
+- Persitongo
+- Persiàṅ
+- Persišćina
+- Perskŏ gŏdka
+- Persneska
+- Persu kalba
+- persų kalba
+- perzijski jezik
+- perzijščina
+- Perzisch
+- perzsa
+- Perzysk
+- perzština
+- perština
+- Peysiañe'ẽ
+- Pharsi simi
+- Pho-su-gí
+- Pinersyano
+- Pinulongang Persiyano
+- Pirsa aru
+- pirsianu
+- pärsia keel
+- Pärsiä kiil
+- Pärsänapük
+- Pérsia
+- Pô-sṳ̂-ngî
+- Pŏ̤-sṳ̆-ngṳ̄
+- Pɛrɩsanɩ kʊnʊŋ
+- PᎡrᏏᎠn ᎧᏬᏂᎯᏍᏗ
+- Reo Farsi
+- Saro Persia
+- Sepersian
+- SíPersi
+- Tafursit
+- Tataramon na Persiano
+- tiếng Ba Tư
+- toki Pasi
+- Tokples Pesia
+- Vah Bohsih
+- Wikang Persa
+- zimanê farisî
+- Èdè Pẹ́rsíà
+- ʻōlelo Pelekia
+- περσικά
+- Аџьам бызшәа
+- ГӀажарийн мотт
+- забони форсӣ
+- Парс маз
+- Парс мацӀ
+- парсы тілі
+- Парсыбзэ
+- перс кыл
+- перс тыла
+- перс хэл
+- Перс хэлэн
+- перс чĕлхи
+- персідская мова
+- персайнаг æвзаг
+- Перси йӹлмӹ
+- персијски језик
+- персидский язык
+- Персиень кяль
+- персийски език
+- персиски јазик
+- Персиянь кель
+- Персыбзэ
+- перська мова
+- Персяний мотт
+- перьскый язык
+- Пирс кыв
+- Пирсин келн
+- пэрсыдзкая мова
+- Фарс тили
+- фарс чӀал
+- Фарси
+- фарси йылме
+- фарсы теле
+- պարսկերեն
+- Պարսկերէն
+- פערסיש
+- פרסית
+- الفارسية
+- زمانی فارسی
+- زڤوݩ فارسی
+- فارس دیلی
+- فارسى
+- فارسي
+- فارسي ٻولي
+- فارسية
+- فارسی
+- فارسی زَبان
+- پارس تىلى
+- پارسي ژبه
+- ܠܫܢܐ ܦܪܣܝܐ
+- ފާރިސީ
+- फ़ारसी
+- फ़ारसी भाषा
+- फारसी भाषा
+- फारसीभाषा
+- ফার্সি ভাষা
+- ফাৰ্চী ভাষা
+- ਫ਼ਾਰਸੀ
+- ફારસી
+- ପାରସୀ
+- பாரசீகம்
+- పర్షియన్ భాష
+- ಪಾರ್ಸಿ ಭಾಷೆ
+- പേർഷ്യൻ ഭാഷ
+- ภาษาเปอร์เซีย
+- ພາສາແປກ
+- ཏ་ཟིག་གི་སྐད།
+- ပါးရှန်းဘာသာစကား
+- სპარსული ენა
+- სპარსული ნინა
+- ፋርስኛ
+- ភាសាពែក
+- ᱯᱷᱟᱨᱥᱤ ᱯᱟᱹᱨᱥᱤ
+- ペルシア語
+- 波斯文
+- 波斯語
+- 波斯语
+- ꠚꠣꠞ꠆ꠍꠤ ꠝꠣꠔ
+- ꯄꯔꯁꯤꯌꯥꯟ ꯂꯣꯟ
+- 페르시아어
 has_id_wikidata: Q9168
 instance_of:
-  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-  - '[[_Standards/WikiData/WD~dialect_continuum,215844]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~dialect_group,1208380]]'
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~language_family,25295]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
-  - '[[_Standards/WikiData/WD~language,34770]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~dialect_continuum,215844]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~dialect_group,1208380]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
 has_tense:
-  - '[[_Standards/WikiData/WD~present_tense,192613]]'
-  - '[[_Standards/WikiData/WD~future_tense,501405]]'
-  - '[[_Standards/WikiData/WD~future_perfect,1234617]]'
-  - '[[_Standards/WikiData/WD~present_perfect,1240211]]'
-  - '[[_Standards/WikiData/WD~past_tense,1994301]]'
-  - '[[_Standards/WikiData/WD~past_perfect_simple,2056212]]'
-  - '[[_Standards/WikiData/WD~present_continuous,7240943]]'
+- '[[_Standards/WikiData/WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~future_perfect,1234617]]'
+- '[[_Standards/WikiData/WD~present_perfect,1240211]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301]]'
+- '[[_Standards/WikiData/WD~past_perfect_simple,2056212]]'
+- '[[_Standards/WikiData/WD~present_continuous,7240943]]'
 language_regulatory_body:
-  - '[[_Standards/WikiData/WD~Academy_of_Persian_Language_and_Literature,324478]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Afghanistan,1140984]]'
-  - '[[_Standards/WikiData/WD~Rudaki_Institute_of_Language_and_Literature,105303665]]'
+- '[[_Standards/WikiData/WD~Academy_of_Persian_Language_and_Literature,324478]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Afghanistan,1140984]]'
+- '[[_Standards/WikiData/WD~Rudaki_Institute_of_Language_and_Literature,105303665]]'
 has_grammatical_mood:
-  - '[[_Standards/WikiData/WD~subjunctive,473746]]'
-  - '[[_Standards/WikiData/WD~optative,527205]]'
-  - '[[_Standards/WikiData/WD~indicative,682111]]'
-  - '[[_Standards/WikiData/WD~imperative,22716]]'
+- '[[_Standards/WikiData/WD~subjunctive,473746]]'
+- '[[_Standards/WikiData/WD~optative,527205]]'
+- '[[_Standards/WikiData/WD~indicative,682111]]'
+- '[[_Standards/WikiData/WD~imperative,22716]]'
 linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Persian_alphabet,744068]]'
-  - '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
+- '[[_Standards/WikiData/WD~Persian_alphabet,744068]]'
+- '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
 part_of: '[[_Standards/WikiData/WD~languages_of_Iran,3242187]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Persian_language,5953521]]'
 studied_by: '[[_Standards/WikiData/WD~Persian_studies,7170261]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Persian_language,8084954]]'
-  - '[[_Standards/WikiData/WD~Q104212733,104212733]]'
+- '[[_Standards/WikiData/WD~Template_Persian_language,8084954]]'
+- '[[_Standards/WikiData/WD~Q104212733,104212733]]'
 UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
 country:
-  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-  - '[[_Standards/WikiData/WD~Bahrain,398]]'
-  - '[[_Standards/WikiData/WD~Iran,794]]'
-  - '[[_Standards/WikiData/WD~Iraq,796]]'
-  - '[[_Standards/WikiData/WD~Kuwait,817]]'
-  - '[[_Standards/WikiData/WD~Pakistan,843]]'
-  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-  - '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
-  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Bahrain,398]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
 indigenous_to: '[[_Standards/WikiData/WD~Greater_Iran,25763]]'
 follows: '[[_Standards/WikiData/WD~Middle_Persian,32063]]'
 number_of_speakers_writers_or_signers: 45000000
@@ -67,8 +265,8 @@ IAB_code: 1073
 OmegaWiki_Defined_Meaning: 6239
 ABS_ASCL_2011_code: 4106
 ISO_639_2_code:
-  - per
-  - fas
+- per
+- fas
 ISO_639_3_code: fas
 Ethnologue_com_language_code: fas
 Wikimedia_language_code: fa
@@ -76,17 +274,17 @@ IETF_language_tag: fa
 ISO_639_1_code: fa
 POSIX_locale_identifier: fa
 short_name:
-  - פרסית
-  - форсӣ
-  - перська
-  - farsca
-  - персідская
-  - persian
-  - парсыша
-  - персайнаг
-  - персидский
-  - порсӣ
-  - farsi
+- פרסית
+- форсӣ
+- перська
+- farsca
+- персідская
+- persian
+- парсыша
+- персайнаг
+- персидский
+- порсӣ
+- farsi
 native_label: فارسی
 GOST_7_75_97_code: пер 535
 Dewey_Decimal_Classification: 491.55
@@ -101,8 +299,260 @@ exact_match: https://afbo.info/languages/66
 Glottolog_code: fars1254
 GitHub_topic: farsi
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PERSIDSKI_YAZIK.html
+dv_has_:
+  name_:
+    ab: Аџьам бызшәа
+    ace: Parisi
+    ady: Персыбзэ
+    af: Persies
+    am: ፋርስኛ
+    an: Idioma persa
+    ang: Persisc sprǣc
+    anp: फारसी भाषा
+    ar: الفارسية
+    arc: ܠܫܢܐ ܦܪܣܝܐ
+    ary: فارسية
+    arz: فارسى
+    as: ফাৰ্চী ভাষা
+    ast: persa
+    av: Парс мацӀ
+    avk: Persava
+    ay: Pirsa aru
+    az: fars dili
+    azb: فارس دیلی
+    ba: фарсы теле
+    ban: Basa Pars
+    bar: Persisch
+    bcl: Tataramon na Persiano
+    be: персідская мова
+    be-tarask: пэрсыдзкая мова
+    bew: Basa Parsi
+    bg: персийски език
+    bho: फ़ारसी भाषा
+    bn: ফার্সি ভাষা
+    bo: ཏ་ཟིག་གི་སྐད།
+    br: perseg
+    bs: perzijski jezik
+    btm: Saro Persia
+    bxr: Перс хэлэн
+    ca: persa
+    cdo: Pŏ̤-sṳ̆-ngṳ̄
+    ce: ГӀажарийн мотт
+    ceb: Pinulongang Persiyano
+    chr: PᎡrᏏᎠn ᎧᏬᏂᎯᏍᏗ
+    ckb: زمانی فارسی
+    co: Lingua persiana
+    crh: Fars tili
+    crh-ro: ağemğe
+    cs: perština
+    csb: Persczi jãzëk
+    cv: перс чĕлхи
+    cy: Perseg
+    da: persisk
+    de: Persisch
+    diq: Farski
+    dsb: Persišćina
+    dv: ފާރިސީ
+    el: περσικά
+    eml: Persiàṅ
+    en: Persian
+    en-ca: Persian
+    en-gb: Farsi
+    en-us: Persian
+    eo: persa lingvo
+    es: persa
+    et: pärsia keel
+    eu: persiera
+    ext: Luenga Persa
+    fa: فارسی
+    fi: persia
+    fo: Persiskt mál
+    fr: persan
+    frr: Persisk
+    fy: Perzysk
+    ga: an Pheirsis
+    gag: Fars dili
+    gan: 波斯語
+    gd: Peirsis
+    gl: lingua persa
+    glk: فارسي
+    gn: Peysiañe'ẽ
+    gpe: Farsi
+    gsw: Persischi Sprooch
+    gu: ફારસી
+    gv: Pershish
+    ha: Farisawa
+    hak: Pô-sṳ̂-ngî
+    haw: ʻōlelo Pelekia
+    he: פרסית
+    hi: फ़ारसी भाषा
+    hif: Farsi bhasa
+    hno: فارسی
+    hr: perzijski jezik
+    hsb: persišćina
+    hu: perzsa
+    hy: պարսկերեն
+    hyw: Պարսկերէն
+    ia: Persa
+    id: bahasa Persia
+    ie: Persian
+    ig: Persian
+    ilo: Persiano
+    inh: Персяний мотт
+    io: Persiana linguo
+    is: Persneska
+    it: persiano
+    ja: ペルシア語
+    jbo: Bangpers
+    jv: Parsi
+    ka: სპარსული ენა
+    kaa: Parsı tili
+    kab: Tafursit
+    kbd: Парсыбзэ
+    kbp: Pɛrɩsanɩ kʊnʊŋ
+    kge: Bahasa Parsiya
+    kk: парсы тілі
+    kl: Farsimiutut
+    km: ភាសាពែក
+    kn: ಪಾರ್ಸಿ ಭಾಷೆ
+    ko: 페르시아어
+    koi: Пирс кыв
+    krc: Фарси
+    ks: فارسی زَبان
+    ku: zimanê farisî
+    ku-latn: zimanê farisî
+    kv: фарси
+    kw: Persek
+    ky: Фарс тили
+    la: lingua Persica
+    lad: Lingua farsi
+    lb: Persesch
+    lbe: Парс маз
+    lez: фарс чӀал
+    lfn: farsi
+    li: Perzisch
+    lij: Lengua farsi
+    lld: Lengaz persian
+    lmo: Lengua persiana
+    lo: ພາສາແປກ
+    lrc: زڤوݩ فارسی
+    lt: persų kalba
+    lv: persiešu valoda
+    lzh: 波斯語
+    mad: Bhâsa Pèrsi(h)
+    mag: फारसीभाषा
+    mai: फ़ारसी
+    mdf: Персиень кяль
+    mg: Fiteny persana
+    mhr: фарси йылме
+    mi: Reo Farsi
+    min: Persia
+    mk: персиски јазик
+    ml: പേർഷ്യൻ ഭാഷ
+    mn: перс хэл
+    mni: ꯄꯔꯁꯤꯌꯥꯟ ꯂꯣꯟ
+    mr: फारसी भाषा
+    mrj: Перси йӹлмӹ
+    ms: bahasa Parsi
+    mt: Lingwa Persjana
+    mul: Persian
+    my: ပါးရှန်းဘာသာစကား
+    myv: Персиянь кель
+    mzn: فارسی
+    na: Dorerin Persian
+    nah: Persiatlahtōlli
+    nan: Pho-su-gí
+    nb: persisk
+    nds: Persische Spraak
+    ne: फारसी भाषा
+    new: फारसी भाषा
+    nl: Perzisch
+    nn: persisk
+    nov: Persanum
+    nso: Sepersian
+    oc: Persan
+    olo: Persien
+    or: ପାରସୀ
+    os: персайнаг æвзаг
+    pa: ਫ਼ਾਰਸੀ
+    pcd: Persan
+    pl: język perski
+    pms: Lenga Farsi ossidental
+    pnb: فارسی
+    ps: پارسي ژبه
+    pt: persa
+    qu: Pharsi simi
+    rm: Lingua persiana
+    ro: limba persană
+    roa-tara: Lènga persiane
+    ru: персидский язык
+    rue: перьскый язык
+    rw: Kinyaperisi
+    sa: फारसीभाषा
+    sah: перс тыла
+    sat: ᱯᱷᱟᱨᱥᱤ ᱯᱟᱹᱨᱥᱤ
+    sc: Limba persiana
+    scn: pirsianu
+    sco: Persie leid
+    sd: فارسي ٻولي
+    se: persiagiella
+    sgs: Persu kalba
+    sh: perzijski jezik
+    sk: perzština
+    skr: فارسی
+    sl: perzijščina
+    sm: Fa'aPeresia
+    smn: farsikielâ
+    sms: persiaǩiõll
+    so: Af-Faarsi
+    sq: persisht
+    sr: персијски језик
+    srn: Persitongo
+    ss: SíPersi
+    stq: Persisk
+    su: Pérsia
+    sv: persiska
+    sw: Kiajemi
+    syl: ꠚꠣꠞ꠆ꠍꠤ ꠝꠣꠔ
+    szl: Perskŏ gŏdka
+    ta: பாரசீகம்
+    te: పర్షియన్ భాష
+    tg: забони форсӣ
+    th: ภาษาเปอร์เซีย
+    tk: Farsi diller
+    tl: Wikang Persa
+    tly: Farsi
+    tok: toki Pasi
+    tpi: Tokples Pesia
+    tr: Farsça
+    tt: фарсы теле
+    tt-cyrl: фарсы теле
+    udm: перс кыл
+    ug: پارس تىلى
+    uk: перська мова
+    ur: فارسی
+    uz: Fors tili
+    vec: persian
+    vep: persijan kel'
+    vi: tiếng Ba Tư
+    vo: Pärsänapük
+    vro: Pärsiä kiil
+    war: Pinersyano
+    wuu: 波斯语
+    xal: Пирсин келн
+    xmf: სპარსული ნინა
+    yi: פערסיש
+    yo: Èdè Pẹ́rsíà
+    yue: 波斯文
+    za: Vah Bohsih
+    zea: Perzisch
+    zh: 波斯語
+    zh-cn: 波斯语
+    zh-hant: 波斯語
+    zh-hk: 波斯語
+    zh-tw: 波斯語
+    zu: IsiPheresiya
 ---
-
 # [[Lang-fas]] 
 
 #is_/same_as :: [[WD~Persian,9168]] 

@@ -1,19 +1,82 @@
 ---
 aliases:
-  - Earth's magnetic field
-  - Das magnetische Feld der Erde
-  - Earth_magnetic_Field
-  - Earth magnetic Field
+- aardmagnetisch veld
+- Aardmagnetisme
+- Camp magnetic terrèstre
+- camp magnètic terrestre
+- campo geomagnetico
+- campo magnético terrestre
+- champ magnétique terrestre
+- chan mayetik tèrès
+- câmpul magnetic al Pământului
+- Das magnetische Feld der Erde
+- Dünya'nın manyetik alanı
+- Earth magnetic Field
+- Earth's magnetic field
+- Earths Magnetic Field
+- Earth_magnetic_Field
+- Erdmagnetfeld
+- Fusha magnetike e Tokës
+- földi mágneses mező
+- Jordens magnetfelt
+- Jordens magnetfält
+- jordmagnetisme
+- Lurraren eremu magnetikoa
+- Maa magnetväli
+- Maan magneettikenttä
+- magneta kampo de Tero
+- magnetické pole Zeme
+- magnetické pole Země
+- magnetsko polje Zemlje
+- Medan magnet Bumi
+- Medan magnetik bumi
+- Nahasdzáán bimagnetic field
+- réimse geomaighnéadach
+- Từ trường Trái Đất
+- Uga sumaku wa Dunia
+- Yer magnetizmi
+- Zemes magnētiskais lauks
+- Zemljino magnetno polje
+- ziemskie pole magnetyczne
+- Äerdmagnéitfeld
+- Γήινος μαγνητισμός
+- Жер магниттілігі
+- жердин магнит талаасы
+- Земјино магнетно поле
+- Земно магнитно поле
+- магнітнае поле Зямлі
+- магнітне поле Землі
+- магнетско поље Земље
+- магнитное поле Земли
+- Музъемлэн магнит бусыэз
+- Երկրի մագնիսական դաշտ
+- השדה המגנטי של כדור הארץ
+- مغناطيسية أرضية
+- میدان مغناطیسی زمین
+- पृथ्वी का चुम्बकीय क्षेत्र
+- पृथ्वीचे चुंबकीय क्षेत्र
+- ভূচৌম্বকত্ব
+- ਧਰਤੀ ਦਾ ਚੁੰਬਕੀ ਖੇਤਰ
+- ପୃଥିବୀର ଚୁମ୍ବକୀୟ କ୍ଷେତ୍ର
+- புவியின் காந்தப்புலம்
+- ഭൂകാന്തശക്തി
+- පෘථිවියේ චුම්බක ක්ෂේත්රය
+- สนามแม่เหล็กของโลก
+- დედამიწის მაგნიტური ველი
+- 地磁场
+- 地磁場
+- 地磁気
+- 지자기
 has_id_wikidata: Q6500960
-studied_by: "[[_Standards/WikiData/WD~geomagnetism,114591]]"
+studied_by: '[[_Standards/WikiData/WD~geomagnetism,114591]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-subclass_of: "[[_Standards/WikiData/WD~magnetism,3294789]]"
-instance_of: "[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]"
-part_of: "[[_Standards/WikiData/WD~Earth,2]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~magnetism,3294789]]'
+instance_of: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
+part_of: '[[_Standards/WikiData/WD~Earth,2]]'
 OmegaWiki_Defined_Meaning: 1459763
 Dewey_Decimal_Classification: 538.7
 Commons_gallery: Earth's magnetic field
@@ -23,26 +86,101 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Total%20Magnetic%20Fie
 Krugosvet_article: nauka_i_tehnika/fizika/MAGNITNOE_POLE_ZEMLI.html
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
-    - "[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]"
-    - "[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]"
-    - "[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]"
-    - "[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]"
-    - "[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]"
-    - "[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]"
-    - "[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]"
-dv_is_same_as:
   - "[[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
-  - "[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]"
-  - "[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]"
-  - "[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]"
-  - "[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]"
-  - "[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]"
-  - "[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]"
-  - "[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]"
+  - '[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]'
+  - '[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]'
+  - '[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]'
+  - '[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]'
+  - '[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]'
+  - '[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]'
+  - '[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]'
+dv_is_same_as:
+- "[[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
+- '[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]'
+- '[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]'
+- '[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]'
+- '[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]'
+- '[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]'
+- '[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]'
+- '[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]'
+dv_has_:
+  name_:
+    af: Aardmagnetisme
+    ar: مغناطيسية أرضية
+    be: магнітнае поле Зямлі
+    be-tarask: магнітнае поле Зямлі
+    bg: Земно магнитно поле
+    bn: ভূচৌম্বকত্ব
+    bs: Zemljino magnetno polje
+    ca: camp magnètic terrestre
+    cs: magnetické pole Země
+    da: Jordens magnetfelt
+    de: Erdmagnetfeld
+    de-ch: Erdmagnetfeld
+    el: Γήινος μαγνητισμός
+    en: Earth's magnetic field
+    en-ca: Earth's magnetic field
+    en-gb: Earth's magnetic field
+    eo: magneta kampo de Tero
+    es: campo magnético terrestre
+    et: Maa magnetväli
+    eu: Lurraren eremu magnetikoa
+    fa: میدان مغناطیسی زمین
+    fi: Maan magneettikenttä
+    fr: champ magnétique terrestre
+    ga: réimse geomaighnéadach
+    gl: campo magnético terrestre
+    he: השדה המגנטי של כדור הארץ
+    hi: पृथ्वी का चुम्बकीय क्षेत्र
+    hr: Zemljino magnetno polje
+    ht: chan mayetik tèrès
+    hu: földi mágneses mező
+    hy: Երկրի մագնիսական դաշտ
+    id: Medan magnetik bumi
+    it: campo geomagnetico
+    ja: 地磁気
+    ka: დედამიწის მაგნიტური ველი
+    ki: Earths Magnetic Field
+    kk: Жер магниттілігі
+    ko: 지자기
+    ky: жердин магнит талаасы
+    lb: Äerdmagnéitfeld
+    lv: Zemes magnētiskais lauks
+    mk: Земјино магнетно поле
+    ml: ഭൂകാന്തശക്തി
+    mr: पृथ्वीचे चुंबकीय क्षेत्र
+    ms: Medan magnet Bumi
+    nb: Jordens magnetfelt
+    nl: aardmagnetisch veld
+    nn: jordmagnetisme
+    nv: Nahasdzáán bimagnetic field
+    oc: Camp magnetic terrèstre
+    or: ପୃଥିବୀର ଚୁମ୍ବକୀୟ କ୍ଷେତ୍ର
+    pa: ਧਰਤੀ ਦਾ ਚੁੰਬਕੀ ਖੇਤਰ
+    pl: ziemskie pole magnetyczne
+    pt: campo magnético terrestre
+    pt-br: campo magnético terrestre
+    ro: câmpul magnetic al Pământului
+    ru: магнитное поле Земли
+    sh: magnetsko polje Zemlje
+    si: පෘථිවියේ චුම්බක ක්ෂේත්රය
+    sk: magnetické pole Zeme
+    sl: Zemljino magnetno polje
+    sq: Fusha magnetike e Tokës
+    sr: магнетско поље Земље
+    sv: Jordens magnetfält
+    sw: Uga sumaku wa Dunia
+    ta: புவியின் காந்தப்புலம்
+    th: สนามแม่เหล็กของโลก
+    tr: Dünya'nın manyetik alanı
+    udm: Музъемлэн магнит бусыэз
+    uk: магнітне поле Землі
+    uz: Yer magnetizmi
+    vi: Từ trường Trái Đất
+    wuu: 地磁场
+    yue: 地磁場
+    zh: 地磁场
 ---
-
-
 # [[Earth's_magnetic_field]]
 
 #is_/same_as :: [[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]

@@ -1,183 +1,580 @@
 ---
 aliases:
-  - Mars(Planet)
+- Aceni
+- Awqakuq
+- Behram
+- Chanya la Chivuvuzi
+- Chīchīlcītlalli
+- Corg
+- Farraare
+- Fetià ùra
+- Fó-sên
+- Huōi-sĭng
+- Hóe-chheⁿ
+- Hōkū‘ula
+- Imzwiɣ
+- Kayuqtuġlu Tiġiganniaġlu
+- la vonplini
+- Maarz
+- Maarɩsɩ
+- Maas
+- Maasi
+- Mangalgrah
+- Manjor
+- Mard
+- Marih
+- Marikh
+- Mars
+- Mars(Planet)
+- Marsas
+- Marso
+- Marsos
+- Marss
+- Mart
+- Marte
+- Marti
+- Mas
+- Mat
+- Matawhero
+- Maurs
+- Mawrth
+- Merih
+- Meurth
+- Meurzh
+- Mezweɣ
+- Mirihi
+- mun loje Masi
+- Murongazuva
+- Máaz
+- Márrsa
+- Mársi
+- Mársì
+- Márte
+- Mârs
+- Måss
+- Mèrt
+- Ndaundeiqfeiz
+- Sao Hỏa
+- Tīw
+- UMarzi
+- Umubumbe wa Mars
+- Άρης
+- Ангараг
+- Арисъ
+- малимет марс туралы
+- Марс
+- Мигмр һариг
+- Миррих
+- Мягмар
+- Մարս
+- Մարս (մոլորակ)
+- מאדים
+- المريخ
+- بوم
+- مارس
+- مريخ
+- مریخ
+- مەریخ
+- ߤߐߞߎ
+- मंगल
+- मंगल ग्रह
+- मंगलग्रह
+- मंगळ
+- मंगळ ग्रह
+- मङ्गल ग्रह
+- मङ्गलः
+- মঙ্গল গ্রহ
+- মঙ্গল গ্ৰহ
+- ਮੰਗਲ ਗ੍ਰਹਿ
+- મંગળ
+- ମଙ୍ଗଳ
+- செவ்வாய்
+- అంగారకుడు
+- ಅಂಗಾರಕ
+- ಮಂಗಳ
+- ചൊവ്വ
+- අඟහරු
+- ดาวอังคาร
+- ດາວອັງຄານ
+- མིག་དམར
+- མིག་དམར།
+- မာရ်သ်
+- အင်္ဂါဂြိုဟ်
+- ၵျူဝ်ႇဢင်ႇၵႃႇ
+- მარსი
+- მოროხი
+- ማርስ
+- ᎹᏏ
+- ᒥᐦᑲᐧᑖᕁ
+- ភពអង្គារ
+- ᡨᡠᠸᠠ ᡠᠰᡳᡥᠠ
+- ᱵᱚᱸᱜᱟ ᱮᱸᱜᱮᱞ
+- Ἄρης
+- ⵉⵎⵣⵡⵉⵖ
+- 火星
+- ꯂꯩꯄꯥꯛꯄꯣꯛꯄ ꯊꯄꯤ
+- 화성
 has_id_wikidata: Q111
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20elevation.stl
 albedo:
-  - 0.17
-  - 0.25
+- 0.17
+- 0.25
 angular_diameter:
-  - 3.5
-  - 25.1
+- 3.5
+- 25.1
 apoapsis: 249232432
 apparent_magnitude: -2.94
-applies_to_part: "[[_Standards/WikiData/WD~Earth,2]]"
+applies_to_part: '[[_Standards/WikiData/WD~Earth,2]]'
 area: 144798500
 argument_of_periapsis: 336.05637041
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20symbol%20%28fixed%20width%29.svg
 child_astronomical_body:
-  - "[[_Standards/WikiData/WD~Mars_Reconnaissance_Orbiter,183160]]"
-  - "[[_Standards/WikiData/WD~Mariner_9,203801]]"
-  - "[[_Standards/WikiData/WD~Mars_Express,205672]]"
-  - "[[_Standards/WikiData/WD~Mars_Global_Surveyor,206300]]"
-  - "[[_Standards/WikiData/WD~2001_Mars_Odyssey,207164]]"
-  - "[[_Standards/WikiData/WD~Viking_1,210199]]"
-  - "[[_Standards/WikiData/WD~Viking_2,212131]]"
-  - "[[_Standards/WikiData/WD~Mars_2,247305]]"
-  - "[[_Standards/WikiData/WD~MAVEN,327075]]"
-  - "[[_Standards/WikiData/WD~Mars_3,718908]]"
-  - "[[_Standards/WikiData/WD~Mars_5,1065662]]"
-  - "[[_Standards/WikiData/WD~ExoMars_Trace_Gas_Orbiter,2090722]]"
-  - "[[_Standards/WikiData/WD~Phobos_2,2147975]]"
-  - "[[_Standards/WikiData/WD~Mars_Orbiter_Mission,2156739]]"
-  - "[[_Standards/WikiData/WD~Phobos,7547]]"
-  - "[[_Standards/WikiData/WD~Deimos,7548]]"
+- '[[_Standards/WikiData/WD~Mars_Reconnaissance_Orbiter,183160]]'
+- '[[_Standards/WikiData/WD~Mariner_9,203801]]'
+- '[[_Standards/WikiData/WD~Mars_Express,205672]]'
+- '[[_Standards/WikiData/WD~Mars_Global_Surveyor,206300]]'
+- '[[_Standards/WikiData/WD~2001_Mars_Odyssey,207164]]'
+- '[[_Standards/WikiData/WD~Viking_1,210199]]'
+- '[[_Standards/WikiData/WD~Viking_2,212131]]'
+- '[[_Standards/WikiData/WD~Mars_2,247305]]'
+- '[[_Standards/WikiData/WD~MAVEN,327075]]'
+- '[[_Standards/WikiData/WD~Mars_3,718908]]'
+- '[[_Standards/WikiData/WD~Mars_5,1065662]]'
+- '[[_Standards/WikiData/WD~ExoMars_Trace_Gas_Orbiter,2090722]]'
+- '[[_Standards/WikiData/WD~Phobos_2,2147975]]'
+- '[[_Standards/WikiData/WD~Mars_Orbiter_Mission,2156739]]'
+- '[[_Standards/WikiData/WD~Phobos,7547]]'
+- '[[_Standards/WikiData/WD~Deimos,7548]]'
 Commons_category: Mars (planet)
 Commons_gallery: Mars
 declination: 52.8865
 demonym:
-  - Martian
-  - marciano
-  - Martien
-  - Marsjanin
-  - марсиане
-  - Marsman
-  - Marsovec
-  - Marsano
-  - مِرِّيخِيّ
-  - marcià
-  - Martienne
-  - mangal
-  - Marsbewoner
-  - Marspersoon
-  - Marsvrouw
-  - марсианин
-  - марсианка
-  - Marsovka
-  - марсіянін
-  - марсіянка
-  - марсіяне
-  - Marsovci
+- Martian
+- marciano
+- Martien
+- Marsjanin
+- марсиане
+- Marsman
+- Marsovec
+- Marsano
+- مِرِّيخِيّ
+- marcià
+- Martienne
+- mangal
+- Marsbewoner
+- Marspersoon
+- Marsvrouw
+- марсианин
+- марсианка
+- Marsovka
+- марсіянін
+- марсіянка
+- марсіяне
+- Marsovci
 density: 3933
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
-  - 523.44
-  - 133.535
-  - 2--9923
+- 523.44
+- 133.535
+- 2--9923
 diameter: 6791.432
-different_from: "[[_Standards/WikiData/WD~Mars,426315]]"
+different_from: '[[_Standards/WikiData/WD~Mars,426315]]'
 distance_from_Earth:
-  - 401000000
-  - 54600000
-flag: "[[_Standards/WikiData/WD~flag_of_Mars,950546]]"
+- 401000000
+- 54600000
+flag: '[[_Standards/WikiData/WD~flag_of_Mars,950546]]'
 flattening: 0.00589
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mars,128621]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mars,128621]]'
 ground_level_360_degree_view_URL: https://conze.pt/app/mars-map/index.html
 hashtag: Mars
 has_characteristic:
-  - "[[_Standards/WikiData/WD~life_on_Mars,601319]]"
-  - "[[_Standards/WikiData/WD~orbit_of_Mars,3895208]]"
+- '[[_Standards/WikiData/WD~life_on_Mars,601319]]'
+- '[[_Standards/WikiData/WD~orbit_of_Mars,3895208]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~atmosphere_of_Mars,218860]]"
-  - "[[_Standards/WikiData/WD~water_on_Mars,1985733]]"
-  - "[[_Standards/WikiData/WD~Martian_polar_ice_caps,3508956]]"
+- '[[_Standards/WikiData/WD~atmosphere_of_Mars,218860]]'
+- '[[_Standards/WikiData/WD~water_on_Mars,1985733]]'
+- '[[_Standards/WikiData/WD~Martian_polar_ice_caps,3508956]]'
 has_time_started: -4540000000
 has_use:
-  - "[[_Standards/WikiData/WD~colonization_of_Mars,838950]]"
-  - "[[_Standards/WikiData/WD~terraforming_of_Mars,3063232]]"
-highest_point: "[[_Standards/WikiData/WD~Olympus_Mons,520]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Mars_observation,4204270]]"
+- '[[_Standards/WikiData/WD~colonization_of_Mars,838950]]'
+- '[[_Standards/WikiData/WD~terraforming_of_Mars,3063232]]'
+highest_point: '[[_Standards/WikiData/WD~Olympus_Mons,520]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Mars_observation,4204270]]'
 Iconclass_notation: 24C13
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20-%20August%2030%202021%20-%20Flickr%20-%20Kevin%20M.%20Gill.png
 inception: -4540000000
 instance_of:
-  - "[[_Standards/WikiData/WD~superior_planet,844911]]"
-  - "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"
+- '[[_Standards/WikiData/WD~superior_planet,844911]]'
+- '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]'
 IPA_transcription: maʁs
 Krugosvet_article: nauka_i_tehnika/astronomiya/MARS.html
-location: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+location: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
 longitude_of_ascending_node: 49.55953892
-lowest_point: "[[_Standards/WikiData/WD~Valles_Marineris,621110]]"
+lowest_point: '[[_Standards/WikiData/WD~Valles_Marineris,621110]]'
 mass: 641.71
 mean_anomaly: 19.3564
 MeSH_tree_code: G01.060.075.730.700.625
-named_after: "[[_Standards/WikiData/WD~Mars,112]]"
+named_after: '[[_Standards/WikiData/WD~Mars,112]]'
 nickname:
-  - Red Planet
-  - Czerwona planeta
-notation: "[[_Standards/WikiData/WD~Mars_symbol,498282]]"
+- Red Planet
+- Czerwona planeta
+notation: '[[_Standards/WikiData/WD~Mars_symbol,498282]]'
 OmegaWiki_Defined_Meaning: 160405
 orbital_eccentricity: 0.0933941
 orbital_inclination:
-  - 1.84969142
-  - 1.67
-  - 5.65
+- 1.84969142
+- 1.67
+- 5.65
 orbital_period: 686.98
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Panorama%20banner.jpg
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-part_of: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
 periapsis: 206655215
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Mars.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Marte.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Mars.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Mars2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Mars.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/It-Marte.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Mars.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Mars2.ogg
 radius:
-  - 3396.19
-  - 3389.5
+- 3396.19
+- 3389.5
 rotation_period: 24.6229
 semi_major_axis_of_an_orbit:
-  - 1.523679
-  - 227936637
+- 1.523679
+- 227936637
 speed: 24.077
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/mars
 studied_in:
-  - "[[_Standards/WikiData/WD~exploration_of_Mars,716774]]"
-  - "[[_Standards/WikiData/WD~areology,126733835]]"
-  - "[[_Standards/WikiData/WD~geology_of_Mars,2466]]"
+- '[[_Standards/WikiData/WD~exploration_of_Mars,716774]]'
+- '[[_Standards/WikiData/WD~areology,126733835]]'
+- '[[_Standards/WikiData/WD~geology_of_Mars,2466]]'
 subreddit: Mars
 surface_gravity: 3.7
 synodic_period: 779.94
 temperature:
-  - -143
-  - -63
-  - 35
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mars,14615881]]"
+- -143
+- -63
+- 35
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mars,14615881]]'
 Unicode_character: ♂
 U_S_National_Archives_Identifier: 10046638
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Mars.ogv
 volume_as_quantity: 163180000000
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mars,30589069]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mars,30589069]]'
 Wolfram_Language_entity_code: Entity["Planet", "Mars"]
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Mars,111|WD~Mars,111]]"
-    - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]]"
-    - "[[/_public/Astronomy/Solar_System/Mars(Planet).public|Mars(Planet).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Mars(Planet).internal|Mars(Planet).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Mars(Planet).protect|Mars(Planet).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Mars(Planet).private|Mars(Planet).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Mars(Planet).personal|Mars(Planet).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Mars(Planet).secret|Mars(Planet).secret]]"
+  - '[[../../WikiData/WD~Mars,111|WD~Mars,111]]'
+  - '[[/_Standards/Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]]'
+  - '[[/_public/Astronomy/Solar_System/Mars(Planet).public|Mars(Planet).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Mars(Planet).internal|Mars(Planet).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Mars(Planet).protect|Mars(Planet).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Mars(Planet).private|Mars(Planet).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Mars(Planet).personal|Mars(Planet).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Mars(Planet).secret|Mars(Planet).secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Mars,111|WD~Mars,111]]"
-  - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]]"
-  - "[[/_public/Astronomy/Solar_System/Mars(Planet).public|Mars(Planet).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Mars(Planet).internal|Mars(Planet).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Mars(Planet).protect|Mars(Planet).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Mars(Planet).private|Mars(Planet).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Mars(Planet).personal|Mars(Planet).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Mars(Planet).secret|Mars(Planet).secret]]"
+- '[[../../WikiData/WD~Mars,111|WD~Mars,111]]'
+- '[[/_Standards/Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]]'
+- '[[/_public/Astronomy/Solar_System/Mars(Planet).public|Mars(Planet).public]]'
+- '[[/_internal/Astronomy/Solar_System/Mars(Planet).internal|Mars(Planet).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Mars(Planet).protect|Mars(Planet).protect]]'
+- '[[/_private/Astronomy/Solar_System/Mars(Planet).private|Mars(Planet).private]]'
+- '[[/_personal/Astronomy/Solar_System/Mars(Planet).personal|Mars(Planet).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Mars(Planet).secret|Mars(Planet).secret]]'
+dv_has_:
+  name_:
+    abr: Mars
+    af: Mars
+    am: ማርስ
+    an: Marte
+    ang: Tīw
+    ann: Maas
+    anp: मंगल
+    ar: المريخ
+    ary: مريخ
+    arz: مريخ
+    as: মঙ্গল গ্ৰহ
+    ast: Marte
+    av: Марс
+    awa: मंगल ग्रह
+    az: Mars
+    azb: مریخ
+    ba: Марс
+    ban: Mars
+    bar: Mars
+    bcl: Marte
+    be: Марс
+    be-tarask: Марс
+    bew: Marih
+    bg: Марс
+    bho: मंगल ग्रह
+    bjn: Mars
+    bn: মঙ্গল গ্রহ
+    bo: མིག་དམར།
+    br: Meurzh
+    bs: Mars
+    btm: Mars
+    bxr: Мягмар
+    ca: Mart
+    cdo: Huōi-sĭng
+    ce: Марс
+    ceb: Mars
+    chr: ᎹᏏ
+    ckb: مەریخ
+    co: Marte
+    cr: ᒥᐦᑲᐧᑖᕁ
+    crh: Merih
+    cs: Mars
+    csb: Mars
+    cu: Арисъ
+    cv: Марс
+    cy: Mawrth
+    da: Mars
+    dag: Mars
+    de: Mars
+    de-ch: Mars
+    dga: Mars
+    diq: Mars
+    dsb: Mars
+    dty: मंगलग्रह
+    dz: མིག་དམར
+    ee: Mars
+    el: Άρης
+    eml: Mèrt
+    en: Mars
+    en-ca: Mars
+    en-gb: Mars
+    eo: Marso
+    es: Marte
+    et: Marss
+    eu: Marte
+    ext: Marti
+    fa: مریخ
+    fat: Mars
+    fi: Mars
+    fj: Aceni
+    fo: Mars
+    fr: Mars
+    frp: Mârs
+    frr: Mars
+    fur: Mart
+    fy: Mars
+    ga: Mars
+    gan: 火星
+    gcr: Mars
+    gd: Corg
+    gl: Marte
+    glk: مريخ
+    gn: Márte
+    gom: मंगळ
+    gpe: Mars
+    grc: Ἄρης
+    gsw: Mars
+    gu: મંગળ
+    gv: Mart
+    ha: Mars
+    hak: Fó-sên
+    haw: Hōkū‘ula
+    he: מאדים
+    hi: मंगल ग्रह
+    hif: Mangalgrah
+    hr: Mars
+    hsb: Mars
+    ht: Mas
+    hu: Mars
+    hy: Մարս
+    hyw: Մարս (մոլորակ)
+    ia: Marte
+    id: Mars
+    ie: Mars
+    ig: Maas
+    ik: Kayuqtuġlu Tiġiganniaġlu
+    ilo: Marte
+    inh: Марс
+    io: Marso
+    is: Mars
+    it: Marte
+    ja: 火星
+    jam: Maarz
+    jbo: la vonplini
+    jv: Mars
+    ka: მარსი
+    kaa: Mars
+    kab: Mezweɣ
+    kbp: Maarɩsɩ
+    kcg: Mat
+    kg: Mars
+    ki: Maasi
+    kk: Марс
+    kk-cyrl: малимет марс туралы
+    km: ភពអង្គារ
+    kn: ಮಂಗಳ
+    ko: 화성
+    krc: Марс
+    ks: بوم
+    ksh: Mars
+    ku: Behram
+    kv: Марс
+    kw: Meurth
+    ky: Марс
+    la: Mars
+    lad: Marte
+    lb: Mars
+    lez: Марс
+    lfn: Marte
+    li: Mars
+    lij: Marte
+    lld: Mars
+    lmo: Marte
+    ln: Mársi
+    lo: ດາວອັງຄານ
+    lt: Marsas
+    lv: Marss
+    lzh: 火星
+    mag: मङ्गल ग्रह
+    mdf: Марс
+    mg: Mars
+    mi: Matawhero
+    min: Mars
+    mk: Марс
+    ml: ചൊവ്വ
+    mn: Ангараг
+    mnc: ᡨᡠᠸᠠ ᡠᠰᡳᡥᠠ
+    mni: ꯂꯩꯄꯥꯛꯄꯣꯛꯄ ꯊꯄꯤ
+    mnw: မာရ်သ်
+    mr: मंगळ ग्रह
+    ms: Marikh
+    ms-arab: مريخ
+    mt: Marte
+    mul: Mars
+    mwl: Marte
+    my: အင်္ဂါဂြိုဟ်
+    myv: Марс
+    mzn: مریخ
+    na: Mars
+    nah: Chīchīlcītlalli
+    nan: Hóe-chheⁿ
+    nap: Marte
+    nb: Mars
+    nds: Mars
+    nds-nl: Mars
+    ne: मंगलग्रह
+    new: मंगल ग्रह
+    nia: Mars
+    nl: Mars
+    nn: Mars
+    nov: Mars
+    nqo: ߤߐߞߎ
+    nrm: Mars
+    nv: Máaz
+    oc: Mart
+    olo: Mars
+    om: Mars
+    or: ମଙ୍ଗଳ
+    os: Марс
+    pa: ਮੰਗਲ ਗ੍ਰਹਿ
+    pam: Mars
+    pap: Mars
+    pcm: Mars
+    pl: Mars
+    pms: Mart
+    pnb: مریخ
+    ps: مريخ
+    pt: Marte
+    pt-br: Marte
+    qu: Awqakuq
+    rm: Mars
+    rmy: Manjor
+    ro: Marte
+    ru: Марс
+    rue: Марс
+    rup: Marti
+    rw: Umubumbe wa Mars
+    sa: मङ्गलः
+    sah: Марс
+    sat: ᱵᱚᱸᱜᱟ ᱮᱸᱜᱮᱞ
+    sc: Marte
+    scn: Marti
+    sco: Maurs
+    sd: مريخ
+    se: Mars
+    sgs: Marsos
+    sh: Mars
+    shi: Imzwiɣ
+    shn: ၵျူဝ်ႇဢင်ႇၵႃႇ
+    si: අඟහරු
+    simple: Mars
+    sje: Márrsa
+    sk: Mars
+    skr: مریخ
+    sl: Mars
+    smn: Mars
+    sn: Murongazuva
+    so: Farraare
+    sq: Mars
+    sr: Марс
+    stq: Mars
+    su: Mars
+    sv: Mars
+    sw: Mirihi
+    szl: Mars
+    ta: செவ்வாய்
+    tcy: ಅಂಗಾರಕ
+    te: అంగారకుడు
+    tg: Миррих
+    th: ดาวอังคาร
+    tk: Mars
+    tl: Marte
+    tly: Mars
+    tok: mun loje Masi
+    tr: Mars
+    tt: Марс
+    tt-cyrl: Марс
+    tum: Chanya la Chivuvuzi
+    ty: Fetià ùra
+    tyv: Марс
+    udm: Марс
+    ug: مارس
+    uk: Марс
+    ur: مریخ
+    uz: Mars
+    vec: Marte
+    vep: Mars
+    vi: Sao Hỏa
+    vls: Mars
+    vo: Mard
+    vro: Marss
+    wa: Måss
+    war: Marte
+    wo: Maas
+    wuu: 火星
+    xal: Мигмр һариг
+    xh: Mars
+    xmf: მოროხი
+    yi: מאדים
+    yo: Mársì
+    yue: 火星
+    za: Ndaundeiqfeiz
+    zea: Mars
+    zgh: ⵉⵎⵣⵡⵉⵖ
+    zh: 火星
+    zh-cn: 火星
+    zh-hans: 火星
+    zh-hant: 火星
+    zh-hk: 火星
+    zh-mo: 火星
+    zh-sg: 火星
+    zh-tw: 火星
+    zu: UMarzi
 ---
-
 # [[Mars(Planet)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mars,111|WD~Mars,111]] 

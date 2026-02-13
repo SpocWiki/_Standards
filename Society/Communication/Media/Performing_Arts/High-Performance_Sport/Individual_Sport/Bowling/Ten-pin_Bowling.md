@@ -1,27 +1,143 @@
 ---
 aliases:
+- 10-кегельный боулинг
+- 10瓶制保齡球
+- birlos
+- boliche de dez pinos
+- Bolin
+- boling
+- boling sepuluh pin
+- boulingas
+- boulings
+- Boulinq
+- bovling
+- Bovlingo
+- bowlen
+- bowling
+- bowling de deu
+- bowling na deset kegljev
+- Bowlio deg
+- djeu d' beyes
+- Keegel
+- keilailu
+- Kryngle
+- Kręgle
+- Kuglanje
+- kuglanje na deset čunjeva
+- ten-pin bowling
+- Μπόουλινγκ
+- боўлінг
+- боулінг
+- боулинг
+- куглање на десет чунови
+- Բոուլինգ
+- כדורת
+- بولينج بعشرة دبابيس
+- بولینگ
+- بۆڵینگ
+- பௌலிங்
+- โบว์ลิ่ง
+- ბოულინგი
+- ボウリング
+- 保齡球
+- 保龄球
+- 十樽保齡
+- 볼링
 has_id_wikidata: Q172809
 uses:
-  - "[[_Standards/WikiData/WD~bowling_ball,635982]]"
-  - "[[_Standards/WikiData/WD~bowling_pin,4951263]]"
-different_from: "[[../../../../../../../WikiData/WD~bowling,3177899]]"
-subclass_of: "[[../../../../../../../WikiData/WD~bowling,3177899]]"
-practiced_by: "[[_Standards/WikiData/WD~bowler,4951095]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~bowling_ball,635982]]'
+- '[[_Standards/WikiData/WD~bowling_pin,4951263]]'
+different_from: '[[../../../../../../../WikiData/WD~bowling,3177899]]'
+subclass_of: '[[../../../../../../../WikiData/WD~bowling,3177899]]'
+practiced_by: '[[_Standards/WikiData/WD~bowler,4951095]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Commons_gallery: Bowling
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Algemene%20sfeer%20op%20een%20bowlingbaan%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bowlerbowling.JPG
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bowling%20%28ten%20pins%29%20pictogram.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/EVD-bolos-209.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rendering%20Bowling%204500p60%2020230112.webm
-Unicode_character: 🎳
+Unicode_character: "\U0001F3B3"
 IPTC_NewsCode: mediatopic/20001086
 Commons_category: Ten-pin bowling
 OpenStreetMap_tag: sport=10pin
-Dewey_Decimal_Classification: "794.6"
+Dewey_Decimal_Classification: 794.6
+dv_has_:
+  name_:
+    ar: بولينج بعشرة دبابيس
+    ast: Bowling
+    az: Boulinq
+    be: боўлінг
+    be-tarask: боўлінг
+    bg: боулинг
+    ca: bowling de deu
+    ckb: بۆڵینگ
+    cs: Bowling
+    cy: Bowlio deg
+    da: bowling
+    de: Bowling
+    el: Μπόουλινγκ
+    en: ten-pin bowling
+    eo: Bovlingo
+    es: bowling
+    et: Keegel
+    eu: Bowling
+    fa: بولینگ
+    fi: keilailu
+    fo: bowling
+    fr: bowling
+    gl: birlos
+    he: כדורת
+    hr: Kuglanje
+    ht: Bolin
+    hu: bowling
+    hy: Բոուլինգ
+    id: boling
+    it: bowling
+    ja: ボウリング
+    jv: Boling
+    ka: ბოულინგი
+    kk: Боулинг
+    ko: 볼링
+    ky: Боулинг
+    lt: boulingas
+    lv: boulings
+    min: boling
+    mk: куглање на десет чунови
+    mn: Боулинг
+    ms: boling sepuluh pin
+    nb: Bowling
+    nl: bowlen
+    nn: bowling
+    oc: bowling
+    pl: Kręgle
+    pt: boliche de dez pinos
+    ro: bowling
+    ru: 10-кегельный боулинг
+    sh: kuglanje na deset čunjeva
+    sk: bowling
+    sl: bowling na deset kegljev
+    sr: Kuglanje na deset čunjeva
+    su: boling
+    sv: bowling
+    szl: Kryngle
+    ta: பௌலிங்
+    th: โบว์ลิ่ง
+    tr: bovling
+    uk: боулінг
+    vec: bowling
+    vi: bowling
+    wa: djeu d' beyes
+    yue: 十樽保齡
+    zh: 10瓶制保齡球
+    zh-cn: 保龄球
+    zh-hans: 保龄球
+    zh-hant: 10瓶制保齡球
+    zh-hk: 保齡球
+    zh-sg: 保龄球
+    zh-tw: 保齡球
 ---
-
 # [[Ten-pin_Bowling]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ten-pin_bowling,172809|WD~Ten-pin_bowling,172809]]  

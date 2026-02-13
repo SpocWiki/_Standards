@@ -1,81 +1,108 @@
 ---
 aliases:
-  - Martina_Navratilova
-  - Martina Navratilova
-  - Martina Navrátilová
-  - Martina Šubertová
-  - Navratilova,Martina
+- Martina Navratilova
+- Martina Navrátilová
+- Martina Navrātilova
+- Martina Šubertová
+- Martina_Navratilova
+- Navratilova,Martina
+- Μαρτίνα Ναβρατίλοβα
+- Мартіна Навратілова
+- Мартина Навратилова
+- Марціна Наўратылава
+- Марціна Наўрацілава
+- Մարտինա Նավրատիլովա
+- מרטינה נברטילובה
+- مارتينا نافراتيلوفا
+- مارتينا ناڤراتيلوڤا
+- مارتینا ناوراتیلووا
+- مارتینا نیوراتیلووا
+- मार्टिना नवरातिलोवा
+- मार्टिना नवरातिलोव्हा
+- मार्टिना नाभ्राटिलोभा
+- মার্টিনা নাভ্রাতিলোভা
+- ਮਾਰਟੀਨਾ ਨਵਰਾਤੀਲੋਵਾ
+- மார்ட்டினா நவரோத்திலோவா
+- మార్టినా నవ్రతిలోవా
+- മാർട്ടിന നവരത്ലൊവ
+- මාර්ටිනා නව්රටිලෝවා
+- มาร์ตินา นาฟราติโลวา
+- მარტინა ნავრატილოვა
+- マルチナ・ナブラチロワ
+- 娜華蒂露娃
+- 玛蒂娜·纳芙拉蒂洛娃
+- 마르티나 나브라틸로바
 has_id_wikidata: Q54545
 medical_condition:
-  - '[[_Standards/WikiData/WD~breast_cancer,128581]]'
-  - '[[_Standards/WikiData/WD~toxoplasmosis,154878]]'
-  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+- '[[_Standards/WikiData/WD~breast_cancer,128581]]'
+- '[[_Standards/WikiData/WD~toxoplasmosis,154878]]'
+- '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Rita_Mae_Brown,242956]]'
-  - '[[_Standards/WikiData/WD~Judy_Nelson,6304542]]'
+- '[[_Standards/WikiData/WD~Rita_Mae_Brown,242956]]'
+- '[[_Standards/WikiData/WD~Judy_Nelson,6304542]]'
 residence:
-  - '[[_Standards/WikiData/WD~Řevnice,386858]]'
-  - '[[_Standards/WikiData/WD~Sarasota,491540]]'
-  - '[[_Standards/WikiData/WD~Nokomis,2570535]]'
+- '[[_Standards/WikiData/WD~Řevnice,386858]]'
+- '[[_Standards/WikiData/WD~Sarasota,491540]]'
+- '[[_Standards/WikiData/WD~Nokomis,2570535]]'
 head_coach: '[[_Standards/WikiData/WD~Renée_Richards,455868]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-  - '[[_Standards/WikiData/WD~GLAAD_Stephen_F._Kolzak_Award,5513593]]'
-  - '[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]'
-  - '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
-  - '[[_Standards/WikiData/WD~Silver_Medal_of_the_President_of_the_Senate,26936132]]'
-  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
-  - '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~GLAAD_Stephen_F._Kolzak_Award,5513593]]'
+- '[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]'
+- '[[_Standards/WikiData/WD~BBC_100_Women,16153104]]'
+- '[[_Standards/WikiData/WD~Silver_Medal_of_the_President_of_the_Senate,26936132]]'
+- '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+- '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~left_handedness,789447]]'
-  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+- '[[_Standards/WikiData/WD~left_handedness,789447]]'
+- '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 position_held:
-  - '[[_Standards/WikiData/WD~president,1255921]]'
-  - '[[_Standards/WikiData/WD~president,30461]]'
+- '[[_Standards/WikiData/WD~president,1255921]]'
+- '[[_Standards/WikiData/WD~president,30461]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]'
-  - '[[_Standards/WikiData/WD~Czechoslovakia_Federation_Cup_team,3590424]]'
+- '[[_Standards/WikiData/WD~United_States_Billie_Jean_King_Cup_team,1619662]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia_Federation_Cup_team,3590424]]'
 spouse: '[[_Standards/WikiData/WD~Yulia_Lemigova,3189052]]'
 given_name: '[[_Standards/WikiData/WD~Q4963627,4963627]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Tennis,5530169]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 occupation:
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 family_name: '[[_Standards/WikiData/WD~Navrátilová,56041203]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
-  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
+- '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Martina_Navratilova,112861158]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 place_of_birth: '[[_Standards/WikiData/WD~Prague,1085]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Czech,9056]]'
 sexual_orientation: '[[_Standards/WikiData/WD~lesbianism,6649]]'
 native_language: '[[_Standards/WikiData/WD~Czech,9056]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Chris_Evert,14286]]'
-  - '[[_Standards/WikiData/WD~Pam_Shriver,54654]]'
+- '[[_Standards/WikiData/WD~Chris_Evert,14286]]'
+- '[[_Standards/WikiData/WD~Pam_Shriver,54654]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_for_sport:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
 ranking: 1
 mass: 65
 height: 173
@@ -98,8 +125,101 @@ Commons_gallery: Martina Navrátilová
 Commons_category: Martina Navrátilová
 Instagram_username: martinanavratilova
 birth_name: Martina Šubertová
+dv_has_:
+  name_:
+    af: Martina Navratilova
+    ar: مارتينا نافراتيلوفا
+    arz: مارتينا ناڤراتيلوڤا
+    ast: Martina Navratilova
+    azb: مارتینا ناوراتیلووا
+    ba: Мартина Навратилова
+    be: Марціна Наўрацілава
+    be-tarask: Марціна Наўратылава
+    bg: Мартина Навратилова
+    bn: মার্টিনা নাভ্রাতিলোভা
+    bs: Martina Navratilova
+    ca: Martina Navrátilová
+    cs: Martina Navrátilová
+    cy: Martina Navratilova
+    da: Martina Navratilova
+    de: Martina Navrátilová
+    de-ch: Martina Navrátilová
+    el: Μαρτίνα Ναβρατίλοβα
+    en: Martina Navratilova
+    en-ca: Martina Navratilova
+    en-gb: Martina Navratilova
+    eo: Martina Navrátilová
+    es: Martina Navratilova
+    et: Martina Navrátilová
+    eu: Martina Navrátilová
+    fa: مارتینا ناوراتیلووا
+    fi: Martina Navrátilová
+    fr: Martina Navrátilová
+    ga: Martina Navratilova
+    gl: Martina Navrátilová
+    ha: Martina Navratilova
+    he: מרטינה נברטילובה
+    hi: मार्टिना नवरातिलोवा
+    hr: Martina Navrátilová
+    hu: Martina Navratilova
+    hy: Մարտինա Նավրատիլովա
+    id: Martina Navrátilová
+    io: Martina Navratilova
+    it: Martina Navrátilová
+    ja: マルチナ・ナブラチロワ
+    ka: მარტინა ნავრატილოვა
+    ko: 마르티나 나브라틸로바
+    la: Martina Navratilova
+    lb: Martina Navrátilová
+    lv: Martina Navrātilova
+    mg: Martina Navratilova
+    mk: Мартина Навратилова
+    ml: മാർട്ടിന നവരത്ലൊവ
+    mn: Мартина Навратилова
+    mr: मार्टिना नवरातिलोव्हा
+    ms: Martina Navrátilová
+    nan: Martina Navratilova
+    nb: Martina Navrátilová
+    ne: मार्टिना नाभ्राटिलोभा
+    nl: Martina Navrátilová
+    nn: Martina Navrátilová
+    oc: Martina Navratilova
+    pa: ਮਾਰਟੀਨਾ ਨਵਰਾਤੀਲੋਵਾ
+    pap: Martina Navrátilová
+    pl: Martina Navrátilová
+    pnb: مارتینا نیوراتیلووا
+    pt: Martina Navrátilová
+    pt-br: Martina Navrátilová
+    qu: Martina Navratilova
+    ro: Martina Navratilova
+    ru: Мартина Навратилова
+    sco: Martina Navratilova
+    sh: Martina Navratilova
+    si: මාර්ටිනා නව්රටිලෝවා
+    sk: Martina Navrátilová
+    sl: Martina Navratilova
+    sq: Martina Navratilova
+    sr: Мартина Навратилова
+    sv: Martina Navratilova
+    sw: Martina Navratilova
+    ta: மார்ட்டினா நவரோத்திலோவா
+    te: మార్టినా నవ్రతిలోవా
+    th: มาร์ตินา นาฟราติโลวา
+    tr: Martina Navrátilová
+    tt: Мартина Навратилова
+    uk: Мартіна Навратілова
+    ur: مارتینا نیوراتیلووا
+    uz: Martina Navratilova
+    vi: Martina Navratilova
+    war: Martina Navratilova
+    wuu: 玛蒂娜·纳芙拉蒂洛娃
+    yo: Martina Navratilova
+    yue: 娜華蒂露娃
+    zh: 玛蒂娜·纳芙拉蒂洛娃
+    zh-cn: 玛蒂娜·纳芙拉蒂洛娃
+    zh-hans: 玛蒂娜·纳芙拉蒂洛娃
+    zh-hant: 玛蒂娜·纳芙拉蒂洛娃
 ---
-
 # [[Navratilova,Martina]] 
 
 #is_/same_as :: [[WD~Martina_Navratilova,54545]] 

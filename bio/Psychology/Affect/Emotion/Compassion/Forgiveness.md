@@ -1,26 +1,149 @@
 ---
 aliases:
+- Affetmek
+- Andestus
+- anteeksianto
+- Atleidimas
+- Barkamen
+- Bağışlanma
+- Dembidhaaf
+- Famelan-keloka
+- forgivenees
+- forgiveness
+- förlåtelse
+- Iertare
+- Kapatawaran
+- Kechirim
+- Mizerikordio
+- Msamaha
+- Odpustenie
+- Odpuštění
+- odpuščanje
+- Opraštanje
+- Oproštaj
+- pardon
+- pardono
+- Pengampunan
+- perdono
+- Perdão
+- perdó
+- perdón
+- Pirdunu
+- przebaczenie
+- przebôczenié
+- Tha thứ
+- tilgivelse
+- tilgiving
+- Vergebung
+- vergeving
+- Συγχώρεση
+- дараваньне
+- простување
+- Прошка
+- Прощение
+- Прощення
+- מחילה
+- بخشش
+- غفران
+- معافی
+- क्षमा
+- ক্ষমা
+- ક્ષમા
+- ಕ್ಷಮೆ
+- ခွင့်လွှတ်ခြင်း
+- 原諒
+- 寬恕
+- 許し
+- 용서
 has_id_wikidata: Q537963
-instance_of: "[[_Standards/WikiData/WD~activity,1914636]]"
+instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pardon,2052098]]"
-  - "[[_Standards/WikiData/WD~Forgiveness,3748080]]"
-  - "[[_Standards/WikiData/WD~Perdono,3899745]]"
-  - "[[_Standards/WikiData/WD~Vergeving,4652435]]"
-  - "[[_Standards/WikiData/WD~Kshama,6440771]]"
-  - "[[_Standards/WikiData/WD~Perdón,9058299]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-has_part_s_: "[[_Standards/WikiData/WD~forgiveness_of_sins_in_Islam,124882297]]"
+- '[[_Standards/WikiData/WD~Pardon,2052098]]'
+- '[[_Standards/WikiData/WD~Forgiveness,3748080]]'
+- '[[_Standards/WikiData/WD~Perdono,3899745]]'
+- '[[_Standards/WikiData/WD~Vergeving,4652435]]'
+- '[[_Standards/WikiData/WD~Kshama,6440771]]'
+- '[[_Standards/WikiData/WD~Perdón,9058299]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+has_part_s_: '[[_Standards/WikiData/WD~forgiveness_of_sins_in_Islam,124882297]]'
 Commons_category: Forgiveness
 PhilPapers_topic: forgiveness
 Iconclass_notation: 57A74
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Vergebung.wav
 UMLS_CUI: C0871753
 MeSH_tree_code:
-  - F01.470.383
-  - F01.829.401.166
+- F01.470.383
+- F01.829.401.166
+dv_has_:
+  name_:
+    ar: غفران
+    ast: Perdón
+    az: Bağışlanma
+    be-tarask: дараваньне
+    bg: Прошка
+    bn: ক্ষমা
+    br: Pardon
+    ca: perdó
+    cs: Odpuštění
+    csb: przebôczenié
+    da: tilgivelse
+    de: Vergebung
+    el: Συγχώρεση
+    en: forgiveness
+    en-ca: Forgiveness
+    en-gb: forgiveness
+    eo: pardono
+    es: perdón
+    et: Andestus
+    eu: Barkamen
+    fa: بخشش
+    fi: anteeksianto
+    fr: pardon
+    gl: Perdón
+    gu: ક્ષમા
+    he: מחילה
+    hi: क्षमा
+    hr: Opraštanje
+    io: Mizerikordio
+    it: perdono
+    ja: 許し
+    kn: ಕ್ಷಮೆ
+    ko: 용서
+    lt: Atleidimas
+    mg: Famelan-keloka
+    mk: простување
+    ms: Pengampunan
+    my: ခွင့်လွှတ်ခြင်း
+    nb: tilgivelse
+    ne: क्षमा
+    new: क्षमा
+    nl: vergeving
+    nn: tilgiving
+    pl: przebaczenie
+    pnb: معافی
+    pt: perdão
+    pt-br: Perdão
+    ro: Iertare
+    ru: Прощение
+    scn: Pirdunu
+    sk: Odpustenie
+    sl: odpuščanje
+    so: Dembidhaaf
+    sq: forgivenees
+    sr: Oproštaj
+    sv: förlåtelse
+    sw: Msamaha
+    tl: Kapatawaran
+    tr: Affetmek
+    uk: Прощення
+    ur: معافی
+    uz: Kechirim
+    vi: Tha thứ
+    yue: 原諒
+    zh: 寬恕
+    zh-hant: 寬恕
+    zh-tw: 寬恕
 ---
-
 # [[Forgiveness]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Forgiveness,537963|WD~Forgiveness,537963]] 

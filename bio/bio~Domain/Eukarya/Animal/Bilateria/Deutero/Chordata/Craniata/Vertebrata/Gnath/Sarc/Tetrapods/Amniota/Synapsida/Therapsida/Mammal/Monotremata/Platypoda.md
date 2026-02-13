@@ -1,16 +1,69 @@
 ---
 aliases:
-  - Platypoda
-  - Ornithorhynchidae
+- Ornithorhynchidae
+- Platypoda
+- Platípode
+- ptakopyskové
+- Pīļknābju apakškārta
+- vogelbekdierachtigen
+- پلاتیبودا
+- লিপ্তপদী
+- カモノハシ亜目
+- 扁足亚目
+- 扁足亞目
 has_id_wikidata: Q1976132
 taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Platypus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Platypus%20BrokenRiver%20QLD%20Australia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Platypus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Platypus%20BrokenRiver%20QLD%20Australia.jpg
 taxon_name: Platypoda
+dv_has_:
+  name_:
+    an: Platypoda
+    ast: Platypoda
+    bg: Platypoda
+    bn: লিপ্তপদী
+    ca: Platípode
+    ceb: Platypoda
+    cs: ptakopyskové
+    de: Platypoda
+    el: Platypoda
+    en: Platypoda
+    eo: Platypoda
+    es: Platypoda
+    eu: Platypoda
+    ext: Platypoda
+    fa: پلاتیبودا
+    fi: Platypoda
+    fr: Platypoda
+    ga: Platypoda
+    gl: Platypoda
+    ia: Platypoda
+    ie: Platypoda
+    io: Platypoda
+    it: Platypoda
+    ja: カモノハシ亜目
+    la: Platypoda
+    lv: Pīļknābju apakškārta
+    mul: Platypoda
+    nl: vogelbekdierachtigen
+    oc: Platypoda
+    pl: Platypoda
+    pt: Platypoda
+    pt-br: Platypoda
+    ro: Platypoda
+    ru: Platypoda
+    sl: Platypoda
+    sq: Platypoda
+    uk: Platypoda
+    vi: Platypoda
+    vo: Platypoda
+    war: Platypoda
+    zh: 扁足亚目
+    zh-cn: 扁足亚目
+    zh-tw: 扁足亞目
 ---
-
 # [[Platypoda]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Platypoda,1976132|WD~Platypoda,1976132]]  

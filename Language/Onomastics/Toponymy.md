@@ -1,7 +1,57 @@
 ---
 aliases:
-  - Toponymie
-  - Toponymy
+- Dê-mìng-hŏk
+- földrajzinév-tan
+- Lec'hanvadurezh
+- logainmníocht
+- loknomscienco
+- ortnamnsforskning
+- paikannimitutkimus
+- stadnamn
+- Toponim
+- Toponimeye
+- toponimi
+- toponimia
+- Toponimie
+- toponimika
+- Toponimy
+- toponomastica
+- Toponomastik
+- toponomastika
+- Toponym
+- toponymeg
+- toponymi
+- Toponymia
+- Toponymie
+- Toponymum
+- Toponymy
+- toponímia
+- Toponüüm
+- toponīmija
+- Örnefnafræði
+- địa danh học
+- τοπονυμία
+- тапаніміка
+- топоніміка
+- Топоним
+- топонимикæ
+- топонимика
+- Топонимия
+- տեղանվաբանություն
+- חקר שמות המקומות
+- توپونیمیکا
+- جاینام
+- علم أسماء الأماكن
+- टोपोनिमी
+- स्थान नामिकी
+- স্থান-নাম তত্ত্ব
+- இடப்பெயர் ஆய்வு
+- സ്ഥലനാമപഠനം
+- ภูมินามวิทยา
+- ტოპონიმიკა
+- 地名学
+- 地名學
+- 지명학
 has_id_wikidata: Q485762
 subclass_of: '[[_Standards/WikiData/WD~onomastics,175156]]'
 instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
@@ -15,8 +65,108 @@ U_S_National_Archives_Identifier: 10644097
 Library_of_Congress_Classification: G100.5
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/TOPONIMIKA.html
 Commons_category: Toponymy
+dv_has_:
+  name_:
+    af: Toponimie
+    an: Toponimia
+    ar: علم أسماء الأماكن
+    ast: Toponimia
+    az: toponimika
+    azb: توپونیمیکا
+    ba: топонимика
+    be: тапаніміка
+    be-tarask: тапаніміка
+    bg: Топонимия
+    bho: टोपोनिमी
+    bn: স্থান-নাম তত্ত্ব
+    br: Lec'hanvadurezh
+    bs: Toponim
+    ca: toponímia
+    cdo: Dê-mìng-hŏk
+    cs: toponomastika
+    cy: toponymeg
+    da: toponymi
+    de: Toponomastik
+    de-ch: Toponomastik
+    el: τοπονυμία
+    en: toponymy
+    en-ca: Toponymy
+    en-gb: toponymy
+    eo: loknomscienco
+    es: toponimia
+    et: Toponüüm
+    eu: toponimia
+    ext: Toponimia
+    fa: جاینام
+    fi: paikannimitutkimus
+    fr: toponymie
+    frp: Toponimia
+    fy: Toponimy
+    ga: logainmníocht
+    gl: toponimia
+    gn: toponimia
+    ha: toponimi
+    he: חקר שמות המקומות
+    hi: स्थान नामिकी
+    hr: toponomastika
+    hsb: toponomastika
+    hu: földrajzinév-tan
+    hy: տեղանվաբանություն
+    ia: Toponymia
+    id: toponimi
+    ig: toponymy
+    is: Örnefnafræði
+    it: toponomastica
+    ja: 地名学
+    ka: ტოპონიმიკა
+    kaa: Toponimika
+    kk: Топонимика
+    ko: 지명학
+    ky: Топоним
+    la: Toponomastica
+    lb: Toponymie
+    lez: Топонимика
+    li: Toponymie
+    lt: toponimika
+    lv: toponīmija
+    mk: топоним
+    ml: സ്ഥലനാമപഠനം
+    ms: toponimi
+    nb: toponymi
+    nds: Toponym
+    nl: toponymie
+    nn: stadnamn
+    oc: Toponimia
+    os: топонимикæ
+    pl: toponimia
+    pt: toponímia
+    pt-br: Toponímia
+    ro: toponimie
+    ru: топонимика
+    sh: Toponim
+    sk: Toponymum
+    sl: toponomastika
+    sq: Toponimia
+    sr: Топоним
+    sr-ec: Топоним
+    sr-el: Toponim
+    su: Toponimi
+    sv: ortnamnsforskning
+    ta: இடப்பெயர் ஆய்வு
+    tg: топонимика
+    th: ภูมินามวิทยา
+    tk: Toponimika
+    tr: toponimi
+    tt: топонимика
+    tyv: Топонимика
+    uk: топоніміка
+    uz: Toponimika
+    vi: địa danh học
+    wa: Toponimeye
+    wuu: 地名学
+    yue: 地名學
+    zh: 地名学
 ---
-
 # [[Toponymy]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~toponymy,485762]] 

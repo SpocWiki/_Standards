@@ -1,25 +1,44 @@
 ---
-has_time_started: 1991-03-11 
+has_time_started: 1991-03-11
 aliases:
-  - BBC_News
-  - BBC News
+- BBC News
+- BBC News (canal de notícias internacional)
+- BBC World News
+- BBC 월드 뉴스
+- BBC_News
+- BBCワールドニュース
+- Би-Би-Си World News
+- Навіны БВК
+- بي بي سي ورلد نيوز
+- بیبیسی ورلد نیوز
+- बिबिसी विश्व समाचार
+- बीबीसी वर्ल्ड न्यूज
+- बीबीसी वर्ल्ड न्यूझ
+- বিবিসি ওয়ার্ল্ড নিউজ
+- బిబిసి వరల్డ్ న్యూస్
+- බීබීසී වර්ල්ඩ් නිව්ස්
+- บีบีซี เวิลด์นิวส์
+- 英国广播公司世界新闻频道
+- 英国广播公司新闻频道（国际）
+- 英國廣播公司世界新聞頻道
+- 英國廣播公司新聞頻道 (國際)
 has_id_wikidata: Q208491
 instance_of:
-  - '[[_Standards/WikiData/WD~specialty_channel,561068]]'
-  - '[[_Standards/WikiData/WD~television_station,1616075]]'
+- '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+- '[[_Standards/WikiData/WD~television_station,1616075]]'
 replaces: '[[_Standards/WikiData/WD~BBC_World_Service_Television,639275]]'
 original_broadcaster: '[[_Standards/WikiData/WD~BBC_News,1160945]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Broadcasting_House,2914560]]'
 operating_area:
-  - '[[_Standards/WikiData/WD~Australia,408]]'
-  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
-  - '[[_Standards/WikiData/WD~Gabon,1000]]'
-  - '[[_Standards/WikiData/WD~Namibia,1030]]'
-  - '[[_Standards/WikiData/WD~Rwanda,1037]]'
-  - '[[_Standards/WikiData/WD~Belgium,31]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Ukraine,212]]'
-  - '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
 language_used: '[[_Standards/WikiData/WD~English,1860]]'
 parent_organization: '[[_Standards/WikiData/WD~BBC,9531]]'
 owned_by: '[[_Standards/WikiData/WD~BBC,9531]]'
@@ -34,8 +53,72 @@ Commons_category: BBC News (International TV channel)
 X_Twitter_username: BBCWorld
 motto_text: Putting News First
 official_name: BBC World
+dv_has_:
+  name_:
+    ar: بي بي سي ورلد نيوز
+    ast: BBC World News
+    be: BBC News
+    be-tarask: Навіны БВК
+    bn: বিবিসি ওয়ার্ল্ড নিউজ
+    ca: BBC News
+    cs: BBC World News
+    da: BBC World News
+    de: BBC World News
+    de-ch: BBC World News
+    diq: BBC World News
+    el: BBC World News
+    en: BBC News
+    en-gb: BBC News
+    eo: BBC World News
+    es: BBC News
+    et: BBC World News
+    eu: BBC World News
+    fa: بیبیسی ورلد نیوز
+    fi: BBC World News
+    fr: BBC World News
+    gl: BBC World News
+    hi: बीबीसी वर्ल्ड न्यूज
+    hu: BBC World News
+    hy: BBC World News
+    id: BBC World News
+    it: BBC World News
+    ja: BBCワールドニュース
+    ko: BBC 월드 뉴스
+    mn: BBC World News
+    mr: बीबीसी वर्ल्ड न्यूझ
+    ms: BBC News
+    nan: BBC World News
+    nb: BBC World News
+    ne: बिबिसी विश्व समाचार
+    nl: BBC World News
+    nn: BBC World News
+    pl: BBC World News
+    pt: BBC News
+    pt-br: BBC News (canal de notícias internacional)
+    ro: BBC World News
+    ru: BBC World News
+    si: බීබීසී වර්ල්ඩ් නිව්ස්
+    sl: BBC News
+    sr: Би-Би-Си World News
+    sv: BBC World News
+    te: బిబిసి వరల్డ్ న్యూస్
+    th: บีบีซี เวิลด์นิวส์
+    tl: BBC World News
+    tr: BBC World News
+    uk: BBC World News
+    uz: BBC World News
+    vec: BBC World News
+    vi: BBC World News
+    wuu: 英国广播公司新闻频道（国际）
+    yue: 英國廣播公司新聞頻道 (國際)
+    zh: 英國廣播公司世界新聞頻道
+    zh-cn: 英国广播公司世界新闻频道
+    zh-hans: 英国广播公司世界新闻频道
+    zh-hant: 英國廣播公司世界新聞頻道
+    zh-hk: 英國廣播公司世界新聞頻道
+    zh-sg: 英国广播公司世界新闻频道
+    zh-tw: 英國廣播公司世界新聞頻道
 ---
-
 # [[BBC_News]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~BBC_News,208491|WD~BBC_News,208491]] 

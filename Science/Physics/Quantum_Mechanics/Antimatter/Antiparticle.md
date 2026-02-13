@@ -1,6 +1,72 @@
 ---
 aliases:
-  - Antiparticle
+- aantidelec
+- andeind
+- antidalelė
+- antidaļiņa
+- antideeltje
+- antideeltjie
+- antihiukkanen
+- antiosake
+- antipairticle
+- antiparticedda
+- antiparticella
+- Antiparticle
+- antiparticula
+- antiparticule
+- antiparticulă
+- antipartikel
+- antipartikkel
+- antipartiklo
+- antipartikula
+- antipartikulo
+- antipartissela
+- antipartisèla
+- antipartícula
+- antiparçacık
+- antipatikil
+- antirészecske
+- Antiteilchen
+- antizarah
+- antizarralar
+- antizərrəcik
+- antičastica
+- antičestica
+- antičástice
+- antycząstka
+- farra suudoo
+- frithcháithníní
+- hoán-lia̍p-chú
+- huāng lĭk-cṳ̄
+- phản hạt
+- αντισωματίδιο
+- антибөлшектер
+- антибөлүкчө
+- античастинка
+- античастица
+- античастицы
+- античестица
+- античестичка
+- антычасціца
+- антычасьцінка
+- пнтикисәкчек
+- подзарраҳо
+- հակամասնիկներ
+- אנטי-חלקיק
+- جسيم مضاد
+- ضد ذرہ
+- كسيد عكاس
+- پادذره
+- प्रति-कण
+- প্রতিকণা
+- ਵਿਰੋਧੀ ਕਣ
+- எதிர்த் துகள்
+- പ്രതികണം
+- ปฏิยานุภาค
+- ဆန့်ကျင်ဘက်အမှုန်
+- ანტინაწილაკი
+- 反粒子
+- 반입자
 has_id_wikidata: Q182717
 instance_of: '[[_Standards/WikiData/WD~correspondence,1322856]]'
 subclass_of: '[[_Standards/WikiData/WD~particle,1621273]]'
@@ -13,11 +79,104 @@ OmegaWiki_Defined_Meaning: 367908
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Particles%20and%20antiparticles.svg
 URL: https://www.baike.com/wikiid/4979371137521450032
 IEV_number:
-  - 113-05-03
-  - 881-02-46
+- 113-05-03
+- 881-02-46
 Commons_category: Antiparticles
+dv_has_:
+  name_:
+    af: antideeltjie
+    ar: جسيم مضاد
+    ary: كسيد عكاس
+    ast: antipartícula
+    az: antizərrəcik
+    be: антычасціца
+    be-tarask: антычасьцінка
+    bg: античастица
+    bn: প্রতিকণা
+    ca: antipartícula
+    cdo: huāng lĭk-cṳ̄
+    cs: antičástice
+    da: antipartikel
+    de: Antiteilchen
+    el: αντισωματίδιο
+    en: antiparticle
+    eo: antipartiklo
+    es: antipartícula
+    et: antiosake
+    eu: antipartikula
+    fa: پادذره
+    fi: antihiukkanen
+    fr: antiparticule
+    ga: frithcháithníní
+    gl: antipartícula
+    gsw: Antiteilchen
+    he: אנטי-חלקיק
+    hi: प्रति-कण
+    ht: antipatikil
+    hu: antirészecske
+    hy: հակամասնիկներ
+    ia: antiparticula
+    id: antipartikel
+    io: antipartikulo
+    is: andeind
+    it: antiparticella
+    ja: 反粒子
+    ka: ანტინაწილაკი
+    kk: антибөлшектер
+    ko: 반입자
+    ky: антибөлүкчө
+    la: antiparticula
+    lfn: antiparticula
+    lmo: antipartisèla
+    lt: antidalelė
+    lv: antidaļiņa
+    mk: античестичка
+    ml: പ്രതികണം
+    ms: antizarah
+    my: ဆန့်ကျင်ဘက်အမှုန်
+    nan: hoán-lia̍p-chú
+    nb: antipartikkel
+    nl: antideeltje
+    nn: antipartikkel
+    oc: antiparticula
+    om: farra suudoo
+    pa: ਵਿਰੋਧੀ ਕਣ
+    pl: antycząstka
+    pms: antipartissela
+    pnb: ضد ذرہ
+    pt: antipartícula
+    ro: antiparticulă
+    ru: античастицы
+    scn: antiparticedda
+    sco: antipairticle
+    sh: antičestica
+    sk: antičastica
+    sl: aantidelec
+    sr: античестица
+    sr-ec: античестица
+    sr-el: antičestica
+    su: antipartikel
+    sv: antipartikel
+    ta: எதிர்த் துகள்
+    tg: подзарраҳо
+    th: ปฏิยานุภาค
+    tr: antiparçacık
+    tt: пнтикисәкчек
+    udm: античастица
+    uk: античастинка
+    ur: ضد ذرہ
+    uz: antizarralar
+    vi: phản hạt
+    wuu: 反粒子
+    yue: 反粒子
+    zh: 反粒子
+    zh-cn: 反粒子
+    zh-hans: 反粒子
+    zh-hant: 反粒子
+    zh-hk: 反粒子
+    zh-sg: 反粒子
+    zh-tw: 反粒子
 ---
-
 # [[Antiparticle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antiparticle,182717|WD~Antiparticle,182717]]

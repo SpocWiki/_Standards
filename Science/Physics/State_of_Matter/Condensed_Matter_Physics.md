@@ -1,28 +1,154 @@
 ---
 aliases:
-  - Condensed matter physics
-  - Condensed_Matter_Physics
-  - Condensed Matter Physics
+- Condensed matter physics
+- Condensed_Matter_Physics
+- Ffiseg mater cyddwysedig
+- fisic ábhair chomhdhlúite
+- Fisica de la matèria condensada
+- fisica della materia condensata
+- Fisika benda terkondensasi
+- Fizica materiei condensate
+- Fizik jirim termeluwap
+- Fizika e materies së kondensuar
+- fizika kondenzirane snovi
+- fizika kondenzirane tvari
+- fizika kondenzovane materije
+- fiziko de kondensita materio
+- Fiziko di kondensita materio
+- fizyka materii skondensowanej
+- fysica van de gecondenseerde materie
+- fyzika kondenzovaného stavu
+- Física da materia condensada
+- física da matéria condensada
+- física de la materia condensada
+- Física de la materia entestada
+- física de la matèria condensada
+- kondenserade materiens fysik
+- kondenseret materiens fysik
+- kondensert fase-fysikk
+- kondenserte fasers fysikk
+- Kondensierte Materie
+- Materia kondentsatuaren fisika
+- physique de la matière condensée
+- Pisika ng kondensadong materya
+- tihkaine füüsika
+- tiiviin aineen fysiikka
+- Vật lý vật chất ngưng tụ
+- Yoğun madde fiziği
+- Þétteðlisfræði
+- Φυσική συμπυκνωμένης ύλης
+- Конденсациленнĕ тăрăмсен физики
+- фізіка кандэнсаванага стану
+- фізика конденсованих середовищ
+- фізыка кандэнсаванага стану
+- физика конденсированного состояния
+- физика на кондензираната материја
+- Физика на кондензираната материя
+- խտացված նյութի ֆիզիկա
+- פיזיקה של חומר מעובה
+- فيزياء المواد المكثفة
+- فیزیک ماده چگال
+- فیزیکی ماددەی چڕ
+- کثیف مادہ طبیعیات
+- ڪنڊينسڊ مادي جي فزڪس
+- संघनित द्रव्य भौतिकी
+- ঘনপদার্থবিজ্ঞান
+- კონდენსირებული გარემოს ფიზიკა
+- 凝聚态物理学
+- 凝聚態物理學
+- 凝聚體物理學
+- 物性物理学
+- 응집물질물리학
 has_id_wikidata: Q214781
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Condensed_matter_physics,7646507]]'
-  - '[[_Standards/WikiData/WD~Template_Condensed_matter_physics_topics,21994769]]'
+- '[[_Standards/WikiData/WD~Template_Condensed_matter_physics,7646507]]'
+- '[[_Standards/WikiData/WD~Template_Condensed_matter_physics_topics,21994769]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~continuum_physics,21213340]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~continuum_physics,21213340]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
 is_the_study_of: '[[_Standards/WikiData/WD~condensed_matter,56315826]]'
 practiced_by: '[[_Standards/WikiData/WD~condensed_matter_physicist,122820181]]'
 All_Science_Journal_Classification_Codes: 3104
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%98%E0%A6%A8%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
 Commons_category: Condensed matter physics
 PhilPapers_topic: condensed-matter-physics
+dv_has_:
+  name_:
+    ar: فيزياء المواد المكثفة
+    ast: Física de la materia entestada
+    be: фізіка кандэнсаванага стану
+    be-tarask: фізыка кандэнсаванага стану
+    bg: Физика на кондензираната материя
+    bn: ঘনপদার্থবিজ্ঞান
+    bs: fizika kondenzovane materije
+    ca: física de la matèria condensada
+    ckb: فیزیکی ماددەی چڕ
+    cs: fyzika kondenzovaného stavu
+    cv: Конденсациленнĕ тăрăмсен физики
+    cy: Ffiseg mater cyddwysedig
+    da: kondenseret materiens fysik
+    de: Kondensierte Materie
+    el: Φυσική συμπυκνωμένης ύλης
+    en: condensed matter physics
+    en-ca: Condensed matter physics
+    en-gb: condensed matter physics
+    eo: fiziko de kondensita materio
+    es: física de la materia condensada
+    et: tihkaine füüsika
+    eu: Materia kondentsatuaren fisika
+    fa: فیزیک ماده چگال
+    fi: tiiviin aineen fysiikka
+    fr: physique de la matière condensée
+    ga: fisic ábhair chomhdhlúite
+    gl: Física da materia condensada
+    he: פיזיקה של חומר מעובה
+    hi: संघनित द्रव्य भौतिकी
+    hr: fizika kondenzirane tvari
+    hy: խտացված նյութի ֆիզիկա
+    id: Fisika benda terkondensasi
+    io: Fiziko di kondensita materio
+    is: Þétteðlisfræði
+    it: fisica della materia condensata
+    ja: 物性物理学
+    ka: კონდენსირებული გარემოს ფიზიკა
+    ko: 응집물질물리학
+    mk: физика на кондензираната материја
+    ms: Fizik jirim termeluwap
+    nb: kondenserte fasers fysikk
+    nl: fysica van de gecondenseerde materie
+    nn: kondensert fase-fysikk
+    oc: Fisica de la matèria condensada
+    pl: fizyka materii skondensowanej
+    pt: física da matéria condensada
+    pt-br: Física da matéria condensada
+    ro: Fizica materiei condensate
+    ru: физика конденсированного состояния
+    sd: ڪنڊينسڊ مادي جي فزڪس
+    sk: Fyzika kondenzovaného stavu
+    sl: fizika kondenzirane snovi
+    sq: Fizika e materies së kondensuar
+    sr: Fizika kondenzovane materije
+    sv: kondenserade materiens fysik
+    tl: Pisika ng kondensadong materya
+    tr: Yoğun madde fiziği
+    uk: фізика конденсованих середовищ
+    ur: کثیف مادہ طبیعیات
+    vi: Vật lý vật chất ngưng tụ
+    wuu: 凝聚态物理学
+    yue: 凝聚態物理學
+    zh: 凝聚态物理学
+    zh-cn: 凝聚态物理学
+    zh-hans: 凝聚态物理学
+    zh-hant: 凝聚態物理學
+    zh-hk: 凝聚態物理學
+    zh-sg: 凝聚态物理学
+    zh-tw: 凝聚體物理學
 ---
-
 # [[Condensed_Matter_Physics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Condensed_matter_physics,214781|WD~Condensed_matter_physics,214781]] 

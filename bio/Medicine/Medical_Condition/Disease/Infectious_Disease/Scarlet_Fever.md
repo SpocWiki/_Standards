@@ -1,77 +1,235 @@
 ---
 aliases:
-  - Scarlet fever
-  - scarlatina
-  - scarlatiniform rash
-  - Scharlach
-  - Scarlet_Fever
-  - Scarlet Fever
+- am fiabhras-dearg
+- binghhwnjdan
+- bệnh ban đỏ
+- clefyd coch
+- Demam marak
+- escarlatina
+- Eskarlatina
+- fiabhras dearg
+- kızıl
+- płonica
+- Qızamıq
+- roodvonk
+- Sarlakid
+- scarlatina
+- scarlatine
+- scarlatiniform rash
+- scarlatină
+- scarlattina
+- Scarlet fever
+- Scarlet_Fever
+- Scharlach
+- scharlakansfeber
+- skarlagensfeber
+- Skarlakenkoors
+- Skarlatina
+- skarlatino
+- Skarlatssótt
+- Skarlatīna
+- skarlát
+- soreta
+- spála
+- Szarlach
+- Sûreta
+- Terzhienn-ruz
+- tulirokko
+- Šarlach
+- Šarlah
+- Škrlatinka
+- οστρακιά
+- скарлатина
+- шарлах
+- Шкарлятына
+- ыскарлатина
+- Қызамық
+- Կարմրախտ-Շառագոյն Տենդ
+- Քութեշ
+- שנית
+- حمى قرمزية
+- حمى قرمزيه
+- سرخ بخار
+- سوورەتا
+- قىزامىق
+- قیزیل(مریضلیک)
+- مخملک
+- ސްކާރލެޓް ހުން
+- स्कार्लेट ज्वर
+- আরক্ত জ্বর
+- স্কাৰলেট জ্বৰ
+- ସ୍କାରଲେଟ ଜ୍ୱର
+- செங்காய்ச்சல்
+- స్కార్లెట్ జ్వరం
+- ಕೆಂಜ್ವರ
+- ไข้ดำแดง
+- ქუნთრუშა
+- ᎦᎫᏍᏛ
+- 猩紅熱
+- 猩红热
+- 성홍열
 has_id_wikidata: Q180266
 health_specialty:
-  - '[[_Standards/WikiData/WD~pediatrics,123028]]'
-  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~pediatrics,123028]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~vomiting,127076]]'
-  - '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
-  - '[[_Standards/WikiData/WD~tonsillitis,186470]]'
-  - '[[_Standards/WikiData/WD~tachycardia,209583]]'
-  - '[[_Standards/WikiData/WD~rash,653197]]'
-  - '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
-  - '[[_Standards/WikiData/WD~sore_throat,1292082]]'
-  - '[[_Standards/WikiData/WD~strawberry_tongue,4346317]]'
-  - "[[_Standards/WikiData/WD~Pastia's_lines,7143005]]"
-  - '[[_Standards/WikiData/WD~ring_of_paleness_around_the_mouth,56026208]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
+- '[[_Standards/WikiData/WD~tonsillitis,186470]]'
+- '[[_Standards/WikiData/WD~tachycardia,209583]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
+- '[[_Standards/WikiData/WD~sore_throat,1292082]]'
+- '[[_Standards/WikiData/WD~strawberry_tongue,4346317]]'
+- "[[_Standards/WikiData/WD~Pastia's_lines,7143005]]"
+- '[[_Standards/WikiData/WD~ring_of_paleness_around_the_mouth,56026208]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 has_cause: '[[_Standards/WikiData/WD~Streptococcus_pyogenes,131271]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~cephalosporin_antibiotic,271021]]'
-  - '[[_Standards/WikiData/WD~histamine_antagonist,324089]]'
-  - '[[_Standards/WikiData/WD~clindamycin,422273]]'
-  - '[[_Standards/WikiData/WD~macrolides,422687]]'
-  - '[[_Standards/WikiData/WD~vancomycin,424027]]'
-  - '[[_Standards/WikiData/WD~penicillin,12190]]'
+- '[[_Standards/WikiData/WD~cephalosporin_antibiotic,271021]]'
+- '[[_Standards/WikiData/WD~histamine_antagonist,324089]]'
+- '[[_Standards/WikiData/WD~clindamycin,422273]]'
+- '[[_Standards/WikiData/WD~macrolides,422687]]'
+- '[[_Standards/WikiData/WD~vancomycin,424027]]'
+- '[[_Standards/WikiData/WD~penicillin,12190]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 medical_examination: '[[_Standards/WikiData/WD~physical_examination,835153]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~streptococcal_infection,5849703]]'
-  - '[[_Standards/WikiData/WD~upper_respiratory_tract_disease,18558209]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~streptococcal_infection,5849703]]'
+- '[[_Standards/WikiData/WD~upper_respiratory_tract_disease,18558209]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 different_from: '[[_Standards/WikiData/WD~Q11832642,11832642]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 disease_transmission_process: '[[_Standards/WikiData/WD~droplet_transmission,97465878]]'
 minimal_incubation_period_in_humans: 2
 maximal_incubation_period_in_humans: 5
 DiseasesDB: 29032
 OmegaWiki_Defined_Meaning: 1117401
 ICD_10_CM:
-  - A38
-  - A38.9
+- A38
+- A38.9
 ICD_9_CM:
-  - 034
-  - 034.1
+- 034
+- 034.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scharlach.JPG
 Commons_gallery: Scarlet fever
 Commons_category: Scarlet fever
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scarlet_fever_2
 exact_match:
-  - http://identifiers.org/doid/DOID:8596
-  - http://purl.obolibrary.org/obo/DOID_8596
-  - http://www.orpha.net/ORDO/Orphanet_36235
+- http://identifiers.org/doid/DOID:8596
+- http://purl.obolibrary.org/obo/DOID_8596
+- http://www.orpha.net/ORDO/Orphanet_36235
 UMLS_CUI:
-  - C0036285
-  - C0343487
+- C0036285
+- C0343487
 MeSH_tree_code: C01.150.252.410.890.823
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine034.1"]
 Krugosvet_article_archived_: medicina/SKARLATINA.html
+dv_has_:
+  name_:
+    af: Skarlakenkoors
+    an: Escarlatina
+    ar: حمى قرمزية
+    arz: حمى قرمزيه
+    as: স্কাৰলেট জ্বৰ
+    ast: Escarlatina
+    az: Skarlatina
+    azb: قیزیل(مریضلیک)
+    be: Шкарлятына
+    be-tarask: Шкарлятына
+    bg: Скарлатина
+    bn: আরক্ত জ্বর
+    br: Terzhienn-ruz
+    ca: escarlatina
+    chr: ᎦᎫᏍᏛ
+    ckb: سوورەتا
+    cs: spála
+    csb: Szarlach
+    cy: clefyd coch
+    da: skarlagensfeber
+    de: Scharlach
+    dv: ސްކާރލެޓް ހުން
+    el: οστρακιά
+    en: scarlet fever
+    eo: skarlatino
+    es: escarlatina
+    et: Sarlakid
+    eu: Eskarlatina
+    fa: مخملک
+    fi: tulirokko
+    fr: scarlatine
+    ga: fiabhras dearg
+    gd: am fiabhras-dearg
+    gl: Escarlatina
+    gpe: scarlet fever
+    he: שנית
+    hi: स्कार्लेट ज्वर
+    hr: Šarlah
+    hu: skarlát
+    hy: Քութեշ
+    hyw: Կարմրախտ-Շառագոյն Տենդ
+    id: Skarlatina
+    io: Skarlatino
+    is: Skarlatssótt
+    it: scarlattina
+    ja: 猩紅熱
+    ka: ქუნთრუშა
+    kk: Қызамық
+    kk-arab: قىزامىق
+    kk-cn: قىزامىق
+    kk-cyrl: Қызамық
+    kk-kz: Қызамық
+    kk-latn: Qızamıq
+    kk-tr: Qızamıq
+    kn: ಕೆಂಜ್ವರ
+    ko: 성홍열
+    ku: soreta
+    ku-arab: سوورەتا
+    ku-latn: Sûreta
+    ky: Скарлатина
+    la: Scarlatina
+    lb: Scharlach
+    lt: Skarlatina
+    lv: Skarlatīna
+    mk: шарлах
+    ms: Demam marak
+    nb: skarlagensfeber
+    nl: roodvonk
+    oc: Escarlatina
+    or: ସ୍କାରଲେଟ ଜ୍ୱର
+    pl: płonica
+    pt: escarlatina
+    ro: scarlatină
+    ru: скарлатина
+    sh: Šarlah
+    sk: Šarlach
+    sl: Škrlatinka
+    sr: шарлах
+    sr-ec: шарлах
+    sr-el: Šarlah
+    sv: scharlakansfeber
+    ta: செங்காய்ச்சல்
+    te: స్కార్లెట్ జ్వరం
+    th: ไข้ดำแดง
+    tr: kızıl
+    tt: ыскарлатина
+    uk: скарлатина
+    ur: سرخ بخار
+    uz: Skarlatina
+    vi: bệnh ban đỏ
+    wuu: 猩红热
+    yue: 猩紅熱
+    za: binghhwnjdan
+    zh: 猩红热
+    zh-tw: 猩紅熱
 ---
-
 # [[Scarlet_Fever]] 
 
 #is_/same_as :: [[WD~Scarlet_fever,180266]] 

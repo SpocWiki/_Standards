@@ -1,43 +1,211 @@
 ---
 aliases:
-  - Brahma
-  - ब्रह्मा
+- Brahma
+- Brahmao
+- Brahmá
+- Brahmā
+- Brama
+- Braxma
+- Bṛahma
+- Déwa Brahma
+- God Brahma
+- Huáng-tiĕng
+- jan sewi Pama
+- Βράχμα
+- Брагма
+- Брахмæ
+- Брахма
+- Բրահմա
+- ברהמה
+- براهما
+- براھما
+- برهما
+- برٛہما
+- برہما
+- ब्रम्हा
+- ब्रह्मदेव
+- ब्रह्मा
+- वीरञ्च
+- ব্রহ্মা
+- ব্ৰহ্মা
+- ਬ੍ਰਹਮਾ
+- બ્રહ્મા
+- ବ୍ରହ୍ମା
+- பிரம்மா
+- బ్రహ్మ
+- ಬ್ರಹ್ಮ
+- ബ്രഹ്മാവ്
+- හින්දු බ්රහ්ම
+- พระพรหม
+- ພະພົມ
+- ཚངས་པ།
+- ဗြဟ္မာ
+- ბრაჰმა
+- ព្រះព្រហ្ម
+- ブラフマー
+- 梵天
+- ꯕ꯭ꯔꯝꯍꯥ
+- 브라흐마
 has_id_wikidata: Q11389
 child:
-  - "[[_Standards/WikiData/WD~Manu,178744]]"
-  - "[[_Standards/WikiData/WD~Vasishtha,241900]]"
-  - "[[_Standards/WikiData/WD~Marichi,241908]]"
-  - "[[_Standards/WikiData/WD~Atri,757727]]"
-  - "[[_Standards/WikiData/WD~Pulastya,770448]]"
-  - "[[_Standards/WikiData/WD~Narada,844066]]"
-  - "[[_Standards/WikiData/WD~Daksha,1157763]]"
-  - "[[_Standards/WikiData/WD~Four_Kumaras,2176828]]"
-  - "[[_Standards/WikiData/WD~Chitragupta,3535142]]"
-different_from: "[[_Standards/WikiData/WD~Brahma_chicken,848926]]"
+- '[[_Standards/WikiData/WD~Manu,178744]]'
+- '[[_Standards/WikiData/WD~Vasishtha,241900]]'
+- '[[_Standards/WikiData/WD~Marichi,241908]]'
+- '[[_Standards/WikiData/WD~Atri,757727]]'
+- '[[_Standards/WikiData/WD~Pulastya,770448]]'
+- '[[_Standards/WikiData/WD~Narada,844066]]'
+- '[[_Standards/WikiData/WD~Daksha,1157763]]'
+- '[[_Standards/WikiData/WD~Four_Kumaras,2176828]]'
+- '[[_Standards/WikiData/WD~Chitragupta,3535142]]'
+different_from: '[[_Standards/WikiData/WD~Brahma_chicken,848926]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~Hindu_deity,979507]]"
-affiliation: "[[_Standards/WikiData/WD~Para_Brahman,3363102]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~Hindu_deity,979507]]'
+affiliation: '[[_Standards/WikiData/WD~Para_Brahman,3363102]]'
 armament:
-  - "[[_Standards/WikiData/WD~Brahmastra,4096158]]"
-  - "[[_Standards/WikiData/WD~Brahmashirsha_astra,18378785]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-part_of: "[[_Standards/WikiData/WD~Trimurti,9595]]"
-mount: "[[_Standards/WikiData/WD~swan,34384]]"
-spouse: "[[_Standards/WikiData/WD~Saraswati,58838]]"
+- '[[_Standards/WikiData/WD~Brahmastra,4096158]]'
+- '[[_Standards/WikiData/WD~Brahmashirsha_astra,18378785]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+part_of: '[[_Standards/WikiData/WD~Trimurti,9595]]'
+mount: '[[_Standards/WikiData/WD~swan,34384]]'
+spouse: '[[_Standards/WikiData/WD~Saraswati,58838]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brahma%201820.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A6%E0%A5%87%E0%A4%B5.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A6%E0%A5%87%E0%A4%B5.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%BE.wav
 P8189: 987010474239605100
 Commons_category: Brahma
 Gujarati_Vishwakosh_entry: બ્રહ્મા
-native_label: 𑖤𑖿𑖨𑖮𑖿𑖦𑖯
+native_label: "\U000115A4\U000115BF\U000115A8\U000115AE\U000115BF\U000115A6\U000115AF"
+dv_has_:
+  name_:
+    af: Brahma
+    an: Brahmā
+    ar: براهما
+    arz: براهما
+    as: ব্ৰহ্মা
+    ast: Brahma
+    az: Brahma
+    ban: Déwa Brahma
+    bcl: Brahma
+    be: Брахма
+    be-tarask: Брагма
+    bg: Брахма
+    bho: ब्रह्मा
+    bn: ব্রহ্মা
+    bo: ཚངས་པ།
+    bs: Brahma
+    ca: Brama
+    cdo: Huáng-tiĕng
+    ckb: براھما
+    crh: Brahma
+    cs: Brahmá
+    cy: Brahma
+    da: Brahma
+    de: Brahma
+    el: Βράχμα
+    en: God Brahma
+    en-ca: Brahma
+    en-gb: Brahma
+    eo: Brahmao
+    es: Brahma
+    et: Brahma
+    eu: Brahma
+    fa: برهما
+    fi: Brahma
+    fr: Brahmā
+    gl: Brahma
+    gsw: Brahma
+    gu: બ્રહ્મા
+    he: ברהמה
+    hi: ब्रह्मा
+    hif: Brahma
+    hr: Brahma
+    hu: Brahma
+    hy: Բրահմա
+    ia: Brahma
+    id: Brahma
+    io: Brahma
+    is: Brama
+    it: Brahmā
+    ja: ブラフマー
+    jv: Brahma
+    ka: ბრაჰმა
+    kk: Брахма
+    km: ព្រះព្រហ្ម
+    kn: ಬ್ರಹ್ಮ
+    ko: 브라흐마
+    ks: برٛہما
+    ksh: Brahma
+    ku: Brahma
+    la: Brahma
+    lfn: Brahma
+    li: Brahma
+    lo: ພະພົມ
+    lt: Brahma
+    lv: Brahma
+    mag: ब्रम्हा
+    mg: Brahma
+    mk: Брахма
+    ml: ബ്രഹ്മാവ്
+    mni: ꯕ꯭ꯔꯝꯍꯥ
+    mr: ब्रह्मदेव
+    ms: Brahma
+    my: ဗြဟ္မာ
+    mzn: براهما
+    nb: Brahma
+    nds: Brahma
+    ne: ब्रह्मा
+    new: वीरञ्च
+    nl: Brahma
+    nn: Brahma
+    oc: Brama
+    or: ବ୍ରହ୍ମା
+    os: Брахмæ
+    pa: ਬ੍ਰਹਮਾ
+    pl: Brahma
+    pnb: برہما
+    ps: برهما
+    pt: Brama
+    pt-br: Brama
+    ro: Brahma
+    ru: Брахма
+    sa: ब्रह्मा
+    scn: Brahma
+    sco: Brahma
+    sh: Brahma
+    shi: Bṛahma
+    si: හින්දු බ්රහ්ම
+    sk: Brahma
+    sl: Brahma
+    sq: Brahma
+    sr: Брахма
+    sr-ec: Брахма
+    sv: Brahma
+    ta: பிரம்மா
+    tcy: ಬ್ರಹ್ಮ
+    te: బ్రహ్మ
+    th: พระพรหม
+    tl: Brahma
+    tok: jan sewi Pama
+    tr: Brahma
+    tt: Брахма
+    uk: Брагма
+    ur: برہما
+    uz: Braxma
+    vi: Brahma
+    vro: Brahma
+    war: Brahma
+    wuu: 梵天
+    xmf: ბრაჰმა
+    yue: 梵天
+    zh: 梵天
+    zh-hant: 梵天
+    zh-tw: 梵天
 ---
-
 # [[Brahma]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brahma,11389|WD~Brahma,11389]] 

@@ -1,33 +1,138 @@
 ---
 aliases:
+- chemical process
+- chemický dej
+- chemický proces
+- chemisch proces
+- chemischer Prozess
+- Hemijski proces
+- kemiaalʼlaž proseʹss
+- kemiallinen prosessi
+- kemiallâš proosees
+- kemihkalaš proseassa
+- kemijski proces
+- kemisk proces
+- kemisk process
+- kemični proces
+- Kimyasal proses
+- kjemisk prosess
+- kjemiske prosesse
+- kémiai folyamat
+- proces chimic
+- proceso chìmego
+- proceso químico
+- processo chimic
+- processo chimico
+- processo químico
+- processus chemicalis
+- procédé chimique
+- procés químic
+- proses gemegol
+- proses kimia
+- prozesu kimiko
+- próiseas ceimiceach
+- ĥemia procezo
+- ķīmiskais process
+- хімічний процес
+- хімічны працэс
+- хемијски процес
+- хемиски процес
+- химический процесс
+- תהליך כימי
+- عملية كيميائية
+- فرآیند شیمیایی
+- ڤروسيس کيميا
+- रासायनिक प्रक्रम
+- ৰাসায়নিক প্ৰক্ৰিয়া
+- வேதியியல் செயல்முறை
+- 化学过程
+- 化学過程
+- 化學過程
+- 화학적 과정
 has_id_wikidata: Q2281940
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9844556,9844556]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9844556,9844556]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_process,17320256]]"
-  - "[[_Standards/WikiData/WD~physicochemical_process,111752858]]"
-studied_by: "[[_Standards/WikiData/WD~chemistry,2329]]"
+- '[[_Standards/WikiData/WD~physical_process,17320256]]'
+- '[[_Standards/WikiData/WD~physicochemical_process,111752858]]'
+studied_by: '[[_Standards/WikiData/WD~chemistry,2329]]'
 Commons_category: Chemical processes
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~chemical_process,2281940]]"
-    - "[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]"
-    - "[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]"
-    - "[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]"
-    - "[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]"
-    - "[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]"
+  - '[[../../WikiData/WD~chemical_process,2281940]]'
+  - '[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]'
+  - '[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]'
+  - '[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]'
+  - '[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]'
+  - '[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~chemical_process,2281940]]"
-  - "[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]"
-  - "[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]"
-  - "[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]"
-  - "[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]"
-  - "[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]"
+- '[[../../WikiData/WD~chemical_process,2281940]]'
+- '[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]'
+- '[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]'
+- '[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]'
+- '[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]'
+- '[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]'
+- '[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]'
+- '[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]'
+dv_has_:
+  name_:
+    ar: عملية كيميائية
+    as: ৰাসায়নিক প্ৰক্ৰিয়া
+    be: хімічны працэс
+    be-tarask: хімічны працэс
+    bs: Hemijski proces
+    ca: procés químic
+    cs: chemický proces
+    cy: proses gemegol
+    da: kemisk proces
+    de: chemischer Prozess
+    en: chemical process
+    eo: ĥemia procezo
+    es: proceso químico
+    eu: prozesu kimiko
+    fa: فرآیند شیمیایی
+    fi: kemiallinen prosessi
+    fr: procédé chimique
+    ga: próiseas ceimiceach
+    gl: proceso químico
+    he: תהליך כימי
+    hi: रासायनिक प्रक्रम
+    hr: kemijski proces
+    hu: kémiai folyamat
+    ia: processo chimic
+    id: proses kimia
+    it: processo chimico
+    ja: 化学過程
+    ko: 화학적 과정
+    la: processus chemicalis
+    lv: ķīmiskais process
+    mk: хемиски процес
+    ms: proses kimia
+    ms-arab: ڤروسيس کيميا
+    nb: kjemisk prosess
+    nl: chemisch proces
+    nn: kjemisk prosess
+    pt: processo químico
+    ro: proces chimic
+    ru: химический процесс
+    se: kemihkalaš proseassa
+    sh: Hemijski proces
+    sk: chemický dej
+    sl: kemični proces
+    sma: kjemiske prosesse
+    smn: kemiallâš proosees
+    sms: kemiaalʼlaž proseʹss
+    sr: хемијски процес
+    sv: kemisk process
+    ta: வேதியியல் செயல்முறை
+    tr: Kimyasal proses
+    uk: хімічний процес
+    vec: proceso chìmego
+    zh: 化学过程
+    zh-hant: 化學過程
+    zh-tw: 化學過程
 ---
-
 # [[Chemical_Process]] 
 
 #is_/same_as :: [[../../WikiData/WD~chemical_process,2281940]] 

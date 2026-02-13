@@ -1,30 +1,151 @@
 ---
 aliases:
-  - Japanese rice wine
-  - Sake
+- Japanese rice wine
+- Ji̍t-pún-chiú
+- Sake
+- Sakeo
+- SakeSake
+- sakè
+- Saké
+- sakē
+- Sakė
+- saqué
+- szaké
+- Sáke
+- Vinum Iaponicum
+- Σάκε
+- Саке
+- Сакэ
+- Սակե
+- סאקה
+- ساكى
+- ساكي
+- ساکی
+- ساکے
+- साके
+- ছাকে
+- সাকে
+- സേക്
+- සකේ
+- สาเก
+- ဆာကေး
+- საკე
+- 日本清酒
+- 日本酒
+- 清酒
+- 사케
 has_id_wikidata: Q170219
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: "[[_Standards/WikiData/WD~rice_wine,1142986]]"
-made_from_material: "[[_Standards/WikiData/WD~sake_rice,2204436]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_sake,11509280]]"
-has_list: "[[_Standards/WikiData/WD~list_of_sake_brands,11509281]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Liquor_Tax_Act,11644367]]"
-different_from: "[[_Standards/WikiData/WD~Q22386583,22386583]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "876443"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+subclass_of: '[[_Standards/WikiData/WD~rice_wine,1142986]]'
+made_from_material: '[[_Standards/WikiData/WD~sake_rice,2204436]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_sake,11509280]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sake_brands,11509281]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Liquor_Tax_Act,11644367]]'
+different_from: '[[_Standards/WikiData/WD~Q22386583,22386583]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 876443
 subreddit: Sake
 Commons_category: Sake
 native_label: 酒
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sake%20set.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003912
-Unicode_character: 🍶
+Unicode_character: "\U0001F376"
 Wolfram_Language_entity_code: Entity["FoodType", "Sake"]
 Commons_gallery: 日本酒
+dv_has_:
+  name_:
+    an: Sake
+    ar: ساكي
+    arz: ساكى
+    as: ছাকে
+    ast: Sake
+    az: Sake
+    ban: Saké
+    bcl: Sake
+    be: Сакэ
+    be-tarask: Сакэ
+    bg: Саке
+    bn: সাকে
+    ca: sake
+    co: sakè
+    cs: sake
+    cv: Саке
+    da: Sake
+    de: Sake
+    el: Σάκε
+    en: sake
+    eo: Sakeo
+    es: sake
+    et: Sake
+    eu: Sake
+    fa: ساکی
+    fi: sake
+    fr: saké
+    gl: SakeSake
+    gn: Sáke
+    he: סאקה
+    hi: साके
+    hr: Sake
+    hu: szaké
+    hy: Սակե
+    iba: Sake
+    id: Sake
+    is: Sake
+    it: sakè
+    ja: 日本酒
+    jv: Sake
+    ka: საკე
+    kk: Сакэ
+    ko: 사케
+    la: Vinum Iaponicum
+    lt: Sakė
+    lv: sakē
+    min: Sake
+    mk: Саке
+    ml: സേക്
+    ms: Sake
+    my: ဆာကေး
+    nan: Ji̍t-pún-chiú
+    nb: sake
+    nds-nl: sake
+    nl: sake
+    nn: sake
+    oc: Saké
+    os: Саке
+    pl: Sake
+    pt: saqué
+    ro: Sake
+    ru: Саке
+    sgs: Sakė
+    sh: Sake
+    si: සකේ
+    sk: Saké
+    sl: sake
+    sq: Sake
+    sr: Sake
+    sr-ec: Саке
+    sr-el: Sake
+    sv: Sake
+    th: สาเก
+    tl: Sake
+    tr: Sake
+    uk: саке
+    ur: ساکے
+    vi: Sake
+    wuu: 日本酒
+    xmf: საკე
+    yue: 清酒
+    zh: 日本酒
+    zh-cn: 日本清酒
+    zh-hans: 日本清酒
+    zh-hant: 日本酒
+    zh-hk: 日本清酒
+    zh-sg: 日本清酒
+    zh-tw: 日本酒
 ---
-
 # [[Sake]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sake,170219|WD~Sake,170219]]  

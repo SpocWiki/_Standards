@@ -1,28 +1,174 @@
 ---
 aliases:
+- Chuỗi Taylor
+- Cyfres Taylor
+- Deret Taylor
+- Serie de Taylor
+- serie di Taylor
+- Serie Taylor
+- Serie ëd Taylor
+- serio de Taylor
+- Seritë e Tejlorit
+- Siri Taylor
+- szereg Taylora
+- Sèrie de Taylor
+- série de Taylor
+- Taylor serie
+- Taylor series
+- Taylor serisi
+- Taylor-sor
+- Taylori valem
+- Taylorin sarja
+- Taylorjeva vrsta
+- Taylorov rad
+- Taylorov red
+- Taylorova řada
+- Taylorpolynomium
+- Taylorreeks
+- Taylorreihe
+- Taylorrekke
+- Taylorrekkje
+- Taylorröð
+- Taylorserie
+- Teilora rinda
+- Teiloro eilutė
+- Tejlorov polinom
+- Teylor sırası
+- Teýlor qatarı
+- Σειρά Taylor
+- рад Тэйлара
+- Ред на Тейлър
+- ряд Тейлора
+- Тејлоров полином
+- Тејлорова формула
+- Тейлор речĕ
+- Тейлор рәте
+- Тейлор қатары
+- Тэйларавы шэраг
+- Қатори Тейлор
+- Թեյլորի շարք
+- טור טיילור
+- بسط تیلور
+- تەيلور قاتارى
+- زنجیرەی تایلۆر
+- متسلسلة تايلور
+- ٹیلر سلسلہ
+- टेलर श्रेणी
+- টেলর ধারা
+- டெய்லர் தொடர்
+- ටේලර් ශ්රේණිය
+- อนุกรมเทย์เลอร์
+- テイラー級数
+- 泰勒級數
+- 泰勒级数
+- 테일러 급수
 has_id_wikidata: Q131187
 subclass_of:
-  - "[[_Standards/WikiData/WD~power_series,206925]]"
-  - "[[_Standards/WikiData/WD~Laurent_series,425432]]"
-named_after: "[[_Standards/WikiData/WD~Brook_Taylor,212085]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Brook_Taylor,212085]]"
-facet_of: "[[_Standards/WikiData/WD~series_expansion,358733]]"
+- '[[_Standards/WikiData/WD~power_series,206925]]'
+- '[[_Standards/WikiData/WD~Laurent_series,425432]]'
+named_after: '[[_Standards/WikiData/WD~Brook_Taylor,212085]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Brook_Taylor,212085]]'
+facet_of: '[[_Standards/WikiData/WD~series_expansion,358733]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~term,1969448]]"
-  - "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~term,1969448]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2211;</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></mrow></msup></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-has_use: "[[_Standards/WikiData/WD~approximation,27058]]"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x2211;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></mrow></msup></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
+has_use: '[[_Standards/WikiData/WD~approximation,27058]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sintay.svg
 Commons_category: Taylor series
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">=</mo><mn>0</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mi>f</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></mrow></msup><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">!</mo></mrow></mrow></mfrac></mrow><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">&#x2212;</mo><mi>a</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msup></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: متسلسلة تايلور
+    ast: Serie de Taylor
+    az: Teylor sırası
+    ba: Тейлор рәте
+    bar: Taylorreihe
+    be: рад Тэйлара
+    be-tarask: Тэйларавы шэраг
+    bg: Ред на Тейлър
+    bn: টেলর ধারা
+    bs: Taylorov red
+    ca: Sèrie de Taylor
+    ckb: زنجیرەی تایلۆر
+    cs: Taylorova řada
+    cv: Тейлор речĕ
+    cy: Cyfres Taylor
+    da: Taylorpolynomium
+    de: Taylorreihe
+    el: Σειρά Taylor
+    en: Taylor series
+    eo: serio de Taylor
+    es: serie de Taylor
+    et: Taylori valem
+    eu: Taylor serie
+    fa: بسط تیلور
+    fi: Taylorin sarja
+    fr: série de Taylor
+    gl: Serie de Taylor
+    he: טור טיילור
+    hi: टेलर श्रेणी
+    hr: Taylorov red
+    hu: Taylor-sor
+    hy: Թեյլորի շարք
+    id: Deret Taylor
+    is: Taylorröð
+    it: serie di Taylor
+    ja: テイラー級数
+    kk: Тейлор қатары
+    kk-arab: تەيلور قاتارى
+    kk-cn: تەيلور قاتارى
+    kk-cyrl: Тейлор қатары
+    kk-kz: Тейлор қатары
+    kk-latn: Teýlor qatarı
+    kk-tr: Teýlor qatarı
+    ko: 테일러 급수
+    lt: Teiloro eilutė
+    lv: Teilora rinda
+    mk: Тејлорова формула
+    ms: Siri Taylor
+    nb: Taylorrekke
+    nl: Taylorreeks
+    nn: Taylorrekkje
+    pl: szereg Taylora
+    pms: Serie ëd Taylor
+    pt: série de Taylor
+    pt-br: série de Taylor
+    ro: Serie Taylor
+    ru: ряд Тейлора
+    sh: Tejlorov polinom
+    si: ටේලර් ශ්රේණිය
+    sk: Taylorov rad
+    sl: Taylorjeva vrsta
+    sn: taylor series
+    sq: Seritë e Tejlorit
+    sr: Тејлоров полином
+    sr-ec: Тејлоров полином
+    sv: Taylorserie
+    ta: டெய்லர் தொடர்
+    tg: Қатори Тейлор
+    th: อนุกรมเทย์เลอร์
+    tr: Taylor serisi
+    tt: Тейлор рәте
+    uk: ряд Тейлора
+    ur: ٹیلر سلسلہ
+    vi: Chuỗi Taylor
+    wuu: 泰勒级数
+    yue: 泰勒級數
+    zh: 泰勒级数
+    zh-cn: 泰勒级数
+    zh-hans: 泰勒级数
+    zh-hant: 泰勒級數
+    zh-hk: 泰勒級數
+    zh-sg: 泰勒级数
+    zh-tw: 泰勒級數
 ---
-
 # [[Taylor_Series]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Taylor_series,131187|WD~Taylor_series,131187]]  

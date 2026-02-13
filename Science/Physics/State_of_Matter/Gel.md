@@ -1,17 +1,116 @@
 ---
 aliases:
+- Dyel
+- Geel
+- Geeli
+- gel
+- Gelis
+- Gellar
+- Gelʹ
+- gél
+- gēls
+- Jel
+- Jèl
+- Xel
+- Ĝelo
+- Żel
+- Γέλη
+- Гел
+- гелі
+- Гели
+- гель
+- Գել
+- ג'ל
+- هلام
+- ژل
+- گەل
+- เจล
+- ᱜᱮᱨ
+- ゲル
+- 凝胶
+- 凝膠
+- 젤
 has_id_wikidata: Q185744
-subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-different_from: "[[_Standards/WikiData/WD~Gel,3759252]]"
-instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-UNSPSC_Code: "12161801"
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+different_from: '[[_Standards/WikiData/WD~Gel,3759252]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+UNSPSC_Code: 12161801
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001561
 UMLS_CUI: C0017243
 MeSH_tree_code:
-  - D20.280.320
-  - D26.255.165.320
+- D20.280.320
+- D26.255.165.320
 Commons_category: Gels
+dv_has_:
+  name_:
+    ar: هلام
+    ast: Xel
+    be: гель
+    be-tarask: гель
+    bg: Гел
+    bs: Gel
+    ca: gel
+    cs: gel
+    da: Gel
+    de: Gel
+    el: Γέλη
+    en: gel
+    eo: Ĝelo
+    es: gel
+    et: Geel
+    eu: gel
+    fa: ژل
+    fi: Geeli
+    fr: gel
+    gl: xel
+    he: ג'ל
+    hr: Gel
+    hu: gél
+    hy: Գել
+    id: Gel
+    it: Gel
+    ja: ゲル
+    jv: Jèl
+    kk: Гель
+    kk-arab: گەل
+    kk-cn: گەل
+    kk-cyrl: Гель
+    kk-kz: Гель
+    kk-latn: Gelʹ
+    kk-tr: Gelʹ
+    ko: 젤
+    la: Gel
+    lt: Gelis
+    lv: gēls
+    mk: гел
+    ms: Gel
+    nb: gel
+    nl: gel
+    nn: gel
+    pl: Żel
+    pt: gel
+    ro: Gel
+    ru: Гели
+    sat: ᱜᱮᱨ
+    sco: gel
+    sl: gel
+    sr: гел
+    sv: Gel
+    th: เจล
+    tl: Dyel
+    tr: Jel
+    uk: гелі
+    uz: Gellar
+    vi: Gel
+    yue: 凝膠
+    zh: 凝胶
+    zh-cn: 凝胶
+    zh-hans: 凝胶
+    zh-hant: 凝膠
+    zh-hk: 凝膠
+    zh-sg: 凝胶
+    zh-tw: 凝膠
 ---
 # [[Gel]] 
 

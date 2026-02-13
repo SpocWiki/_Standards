@@ -1,9 +1,47 @@
 ---
 aliases:
-  - Fibrobacteres
-  - Fibrobacterota
+- Fibrobacteres
+- Fibrobacterota
 title: Fibrobacteres
 has_id_wikidata: Q12063165
+dv_has_:
+  name_:
+    an: Fibrobacterota
+    ast: Fibrobacterota
+    bg: Fibrobacterota
+    ca: Fibrobacterota
+    ceb: Fibrobacterota
+    cs: Fibrobacterota
+    de: Fibrobacterota
+    en: Fibrobacterota
+    en-ca: Fibrobacterota
+    en-gb: Fibrobacterota
+    eo: Fibrobacterota
+    es: Fibrobacterota
+    eu: Fibrobacterota
+    ext: Fibrobacterota
+    fi: Fibrobacterota
+    fr: Fibrobacterota
+    ga: Fibrobacterota
+    gl: Fibrobacterota
+    ia: Fibrobacterota
+    ie: Fibrobacterota
+    io: Fibrobacterota
+    it: Fibrobacterota
+    la: Fibrobacterota
+    mul: Fibrobacterota
+    nl: Fibrobacterota
+    oc: Fibrobacterota
+    pl: Fibrobacterota
+    pt: Fibrobacterota
+    pt-br: Fibrobacterota
+    ro: Fibrobacterota
+    ru: Fibrobacterota
+    sq: Fibrobacterota
+    uk: Fibrobacterota
+    vi: Fibrobacterota
+    vo: Fibrobacterota
+    war: Fibrobacterota
 ---
 # [[Fibrobacteres]] 
 

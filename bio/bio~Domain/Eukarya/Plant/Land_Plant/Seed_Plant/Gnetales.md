@@ -1,10 +1,113 @@
 ---
 aliases:
-  - Gnetophyta
-  - Gnetales
-  - Gnetidae
+- Gnetales
+- Gnetatae
+- Gnethophyta
+- Gnetidae
+- Gnetofitoj
+- Gnetophyta
+- Gnetophytina
+- Gnetopsida
+- Gnetòfits
+- Gnetófitas
+- Gnetūnai
+- Gniotowce
+- leplesmagvúak
+- Lianovcorasty
+- Ngành Dây gắm
+- obalosemenné
+- Qnetumlar
+- ʻakau sukau
+- Γνητόφυτα
+- гнетавидныя
+- Гнетавыя (кляса)
+- гнетови
+- гнетовидные
+- гнетоподібні
+- Գնետայիններ
+- גנטאים
+- شعبة الجنتويات
+- نيٽوفائٽا
+- گنتومتباران
+- საფართესლოვანები
+- グネツム類
+- 买麻藤门
+- 買麻藤門
+- 마황문
 title: Gnetales
 has_id_wikidata: Q309147
+dv_has_:
+  name_:
+    an: Gnetophyta
+    ar: شعبة الجنتويات
+    arz: شعبة الجنتويات
+    ast: Gnetophyta
+    az: Qnetumlar
+    be: гнетавидныя
+    be-tarask: Гнетавыя (кляса)
+    bg: гнетови
+    bs: Gnethophyta
+    ca: Gnetòfits
+    ceb: Gnetopsida
+    cs: obalosemenné
+    da: Gnetophyta
+    de: Gnetophyta
+    el: Γνητόφυτα
+    en: Gnetophyta
+    eo: Gnetofitoj
+    es: Gnetidae
+    eu: Gnetophyta
+    ext: Gnetophyta
+    fa: گنتومتباران
+    fi: Gnetophytina
+    fr: Gnetophyta
+    ga: Gnetophyta
+    gl: Gnetophyta
+    he: גנטאים
+    hr: Gnetophyta
+    hu: leplesmagvúak
+    hy: Գնետայիններ
+    ia: Gnetophyta
+    id: Gnetophyta
+    ie: Gnetophyta
+    io: Gnetophyta
+    is: Gnetophyta
+    it: Gnetophyta
+    ja: グネツム類
+    ka: საფართესლოვანები
+    ko: 마황문
+    la: Gnetophyta
+    lt: Gnetūnai
+    mul: Gnetophyta
+    nb: Gnetophyta
+    nl: Gnetophyta
+    oc: Gnetophyta
+    pl: Gniotowce
+    pt: Gnetófitas
+    pt-br: Gnetophyta
+    ro: Gnetatae
+    ru: гнетовидные
+    sd: نيٽوفائٽا
+    sk: Lianovcorasty
+    sl: Gnetophyta
+    sq: Gnetophyta
+    sv: Gnetophyta
+    th: Gnetophyta
+    tl: Gnetophyta
+    to: ʻakau sukau
+    uk: гнетоподібні
+    vi: Ngành Dây gắm
+    vo: Gnetophyta
+    war: Gnetopsida
+    yue: 買麻藤門
+    zh: 買麻藤門
+    zh-cn: 买麻藤门
+    zh-hans: 买麻藤门
+    zh-hant: 買麻藤門
+    zh-hk: 買麻藤門
+    zh-my: 买麻藤门
+    zh-sg: 买麻藤门
+    zh-tw: 買麻藤門
 ---
 # Gnetales 
 

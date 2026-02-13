@@ -1,9 +1,132 @@
 ---
 aliases:
-  - Carnegie,Dale
-  - Dale Carnegie
-  - Dale Carnagey
+- Carnegie,Dale
+- Dale Carnagey
+- Dale carnegi
+- Dale Carnegie
+- Deilas Karnegis
+- Dejl Karnegi
+- Deyl Karnegi
+- Дейл Карнегі
+- Дейл Карнеги
+- Дейл Карнегӣ
+- Дэйл Карнэгі
+- Դեյլ Քարնեգի
+- דייל קרנגי
+- דעיל קארנעגי
+- ديل كارنيجى
+- ديل كارنيجي
+- دیل کارنقی
+- دیل کارنگی
+- دەیل کارنیگی
+- ڈیل کارنیگی
+- ډېل کارنېګي
+- डेल कार्नेगी
+- ডেল কার্নেগি
+- ডেল কাৰ্নেগী
+- ਡੇਲ ਕਾਰਨੇਗੀ
+- டேல் கார்னெகி
+- డేల్ కార్నెగీ
+- ഡെയിൽ കാർനിഗെ
+- เดล คาร์เนกี
+- დეილ კარნეგი
+- デール・カーネギー
+- 戴尔·卡耐基
+- 戴爾·卡內基
+- 데일 카네기
 has_id_wikidata: Q230762
+dv_has_:
+  name_:
+    af: Dale Carnegie
+    an: Dale Carnegie
+    ar: ديل كارنيجي
+    arz: ديل كارنيجى
+    as: ডেল কাৰ্নেগী
+    ast: Dale Carnegie
+    az: Deyl Karnegi
+    azb: دیل کارنقی
+    bcl: Dale Carnegie
+    be: Дэйл Карнэгі
+    bg: Дейл Карнеги
+    bn: ডেল কার্নেগি
+    bs: Dale Carnegie
+    ca: Dale Carnegie
+    ckb: دەیل کارنیگی
+    cs: Dale Carnegie
+    cy: Dale Carnegie
+    da: Dale Carnegie
+    dag: Dale Carnegie
+    de: Dale Carnegie
+    en: Dale Carnegie
+    en-ca: Dale Carnegie
+    eo: Dale Carnegie
+    es: Dale Carnegie
+    et: Dale Carnegie
+    fa: دیل کارنگی
+    fi: Dale Carnegie
+    fr: Dale Carnegie
+    ga: Dale Carnegie
+    gl: Dale Carnegie
+    he: דייל קרנגי
+    hi: डेल कार्नेगी
+    hr: Dale Carnegie
+    hu: Dale Carnegie
+    hy: Դեյլ Քարնեգի
+    id: Dale Carnegie
+    io: Dale Carnegie
+    it: Dale Carnegie
+    ja: デール・カーネギー
+    jut: Dale Carnegie
+    ka: დეილ კარნეგი
+    kk: Дейл Карнеги
+    ko: 데일 카네기
+    ku: Dale Carnegie
+    lt: Deilas Karnegis
+    mai: डेल कार्नेगी
+    ml: ഡെയിൽ കാർനിഗെ
+    mn: Dale carnegi
+    mr: डेल कार्नेगी
+    mul: Dale Carnegie
+    nb: Dale Carnegie
+    nl: Dale Carnegie
+    nn: Dale Carnegie
+    pa: ਡੇਲ ਕਾਰਨੇਗੀ
+    pam: Dale Carnegie
+    pap: Dale Carnegie
+    pl: Dale Carnegie
+    pms: Dale Carnegie
+    ps: ډېل کارنېګي
+    pt: Dale Carnegie
+    pt-br: Dale Carnegie
+    ro: Dale Carnegie
+    ru: Дейл Карнеги
+    sc: Dale Carnegie
+    sco: Dale Carnegie
+    sje: Dale Carnegie
+    sl: Dale Carnegie
+    sq: Dale Carnegie
+    sr: Dejl Karnegi
+    sv: Dale Carnegie
+    ta: டேல் கார்னெகி
+    te: డేల్ కార్నెగీ
+    tg: Дейл Карнегӣ
+    th: เดล คาร์เนกี
+    tr: Dale Carnegie
+    tt: Дейл Карнеги
+    uk: Дейл Карнегі
+    ur: ڈیل کارنیگی
+    uz: Dale Carnegie
+    vi: Dale Carnegie
+    war: Dale Carnegie
+    xmf: დეილ კარნეგი
+    yi: דעיל קארנעגי
+    zh: 戴尔·卡耐基
+    zh-cn: 戴尔·卡耐基
+    zh-hans: 戴尔·卡耐基
+    zh-hant: 戴爾·卡內基
+    zh-hk: 戴爾·卡內基
+    zh-sg: 戴尔·卡耐基
+    zh-tw: 戴爾·卡內基
 ---
 # [[Carnegie,Dale]] 
 

@@ -1,20 +1,148 @@
 ---
 aliases:
+- Cơ xương
+- Eninə zolaqlı əzələ
+- Köldeneñ jolaqtı jüreket ulpası
+- luurankolihas
+- Misk eskeletik
+- mięsień poprzecznie prążkowany
+- Mozgásrendszer
+- Muscle
+- Muscle esqueletic
+- muscle squelettique
+- muscolo striato scheletrico
+- Muskulu eskeletiko
+- múscul esquelètic
+- músculo esquelético
+- Músculu esqueléticu
+- Otot lurik
+- Otot rangka
+- peykeremasûlke
+- Poprečno-prugasti mišić
+- Priečne pruhovaná svalovina
+- příčně pruhovaná svalovina
+- skeleta muskolo
+- Skeleta šķērssvītrotā muskulatūra
+- skeletal muscle
+- Skeletilihased
+- skeletmuskulatur
+- skeletna prečnoprograsta mišica
+- Skeletni mišić
+- skeletspier
+- Skelettmuskel
+- skersaruožis raumeninis audinys
+- Skjelettmuskulatur
+- striated muscle
+- çizgili iskelet kası
+- σκελετικός μυς
+- Арҡыры һыҙатлы мускул туҡымаһы
+- Көлденең жолақты жүрекет ұлпасы
+- лысьӧм сӥльвир
+- поперечно-посмуговані м'язи
+- попречно-пругасти мишић
+- скелетен набразден мускул
+- скелетная мышечная ткань
+- шкілетная цяглічная тканка
+- סיבי שריר-מהיר
+- عضلة هيكلية
+- كولدەنەڭ جولاقتى جۇرەكەت ۇلپاسى
+- ماسوولکەی ئێسکبەندی
+- ماهیچه اسکلتی
+- ކަށި މަސް
+- स्केलेटल मसल
+- ঐচ্ছিক পেশী
+- எலும்புத்தசை
+- അസ്ഥിപേശി
+- กล้ามเนื้อโครงร่าง
+- 骨格筋
+- 骨骼肌
+- 골격근
 has_id_wikidata: Q1048687
-part_of: "[[_Standards/WikiData/WD~muscular_system,7060553]]"
+part_of: '[[_Standards/WikiData/WD~muscular_system,7060553]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~striated_muscle_tissue_development,14860179]]"
-  - "[[_Standards/WikiData/WD~muscle,7365]]"
+- '[[_Standards/WikiData/WD~striated_muscle_tissue_development,14860179]]'
+- '[[_Standards/WikiData/WD~muscle,7365]]'
 MeSH_tree_code:
-  - A02.633.567
-  - A10.690.552.500
+- A02.633.567
+- A10.690.552.500
 UMLS_CUI: C1522259
 Terminologia_Histologica: H2.00.05.2.00002
 Commons_category: Skeletal muscle
 native_label: muscularis striatus skeletalis
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200801%20SkeletalMuscle.png
+dv_has_:
+  name_:
+    ar: عضلة هيكلية
+    ast: Músculu esqueléticu
+    az: Eninə zolaqlı əzələ
+    ba: Арҡыры һыҙатлы мускул туҡымаһы
+    be-tarask: шкілетная цяглічная тканка
+    bg: скелетен набразден мускул
+    bn: ঐচ্ছিক পেশী
+    bs: Skeletni mišić
+    ca: múscul esquelètic
+    ckb: ماسوولکەی ئێسکبەندی
+    cs: příčně pruhovaná svalovina
+    da: skeletmuskulatur
+    de: Skelettmuskel
+    dv: ކަށި މަސް
+    el: σκελετικός μυς
+    en: skeletal muscle
+    eo: skeleta muskolo
+    es: músculo esquelético
+    et: Skeletilihased
+    eu: Muskulu eskeletiko
+    fa: ماهیچه اسکلتی
+    fi: luurankolihas
+    fr: muscle squelettique
+    gl: músculo esquelético
+    gu: striated muscle
+    he: סיבי שריר-מהיר
+    hi: स्केलेटल मसल
+    hr: Poprečno-prugasti mišić
+    ht: Misk eskeletik
+    hu: Mozgásrendszer
+    id: Otot lurik
+    ig: Muscle
+    it: muscolo striato scheletrico
+    ja: 骨格筋
+    kk: Көлденең жолақты жүрекет ұлпасы
+    kk-arab: كولدەنەڭ جولاقتى جۇرەكەت ۇلپاسى
+    kk-cyrl: Көлденең жолақты жүрекет ұлпасы
+    kk-latn: Köldeneñ jolaqtı jüreket ulpası
+    ko: 골격근
+    ku: peykeremasûlke
+    lb: Skelettmuskel
+    lt: skersaruožis raumeninis audinys
+    lv: Skeleta šķērssvītrotā muskulatūra
+    ml: അസ്ഥിപേശി
+    ms: Otot rangka
+    nb: Skjelettmuskulatur
+    nl: skeletspier
+    nn: skjelettmuskulatur
+    oc: Muscle esqueletic
+    pl: mięsień poprzecznie prążkowany
+    pt: músculo esquelético
+    ru: скелетная мышечная ткань
+    sh: Poprečno-prugasti mišić
+    sk: Priečne pruhovaná svalovina
+    sl: skeletna prečnoprograsta mišica
+    sr: попречно-пругасти мишић
+    sr-ec: Попречно-пругасти мишић
+    sr-el: Poprečno-prugasti mišić
+    sv: Skelettmuskel
+    ta: எலும்புத்தசை
+    th: กล้ามเนื้อโครงร่าง
+    tr: çizgili iskelet kası
+    udm: лысьӧм сӥльвир
+    uk: поперечно-посмуговані м'язи
+    vi: Cơ xương
+    yue: 骨骼肌
+    zh: 骨骼肌
+    zh-hans: 骨骼肌
+    zh-hant: 骨骼肌
+    zh-hk: 骨骼肌
 ---
-
 # [[Skeletal_striated_Muscle]] 
 
 #is_/same_as :: [[WD~Skeletal_striated_muscle,1048687]] 

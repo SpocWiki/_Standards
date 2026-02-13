@@ -1,21 +1,105 @@
 ---
 aliases:
-  - Vacuum
+- bakyum
+- baleiro
+- basyo
+- buit
+- caenhoengq
+- ch'usaq p'ulin
+- chin-khong
+- chân không
+- fakuüm
+- folús
+- Féex
+- gwactod
+- gwakter
+- hampa udara
+- hampagas
+- huts
+- I-Vacuum
+- ilem
+- kawaw
+- kuárusvuotâ
+- lala
+- leesag rüm
+- lofttæmi
+- mangabangabaka
+- Nix
+- ombwe
+- próżnia
+- prōżnia
+- rohangan hapa
+- tyhjiö
+- vaakum
+- vacanti
+- vacua
+- vacuo
+- Vacuum
+- vacuüm
+- vacío
+- vacíu
+- vakum
+- vakuma
+- vakuo
+- vakuum
+- vakuumas
+- vakuums
+- vid
+- vide
+- vueit
+- vueito
+- vuide
+- vuoto
+- vácuo
+- vákuum
+- zbrazëti
+- κενό
+- κενόν
+- вакуўм
+- вакуум
+- вакуум арматурасы
+- омыртэм инты
+- վակուում
+- וואקיום
+- ריק
+- الفضاء
+- خالی تھاں
+- خلأ
+- خوا
+- فراغ
+- ڤاکیووم
+- ۋاكۇئۇم
+- निर्वात
+- हवाबंद
+- ভেকুৱাম
+- শূন্যস্থান
+- ਖ਼ਲਾਅ
+- வெற்றிடம்
+- ನಿರ್ವಾತ
+- ശൂന്യത
+- สุญญากาศ
+- လေဟာနယ်
+- ვაკუუმი
+- ኦና
+- ᎦᏒᏂᎩᏍᎩ
+- សុញ្ញកាស
+- 真空
+- 진공
 has_id_wikidata: Q11475
 Colon_Classification: C28:76
 Commons_category: Vacuum
 density: 0
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - '[[_Standards/WikiData/WD~vacuum_cleaner,101674]]'
-  - '[[_Standards/WikiData/WD~vacuum_state,766202]]'
+- '[[_Standards/WikiData/WD~vacuum_cleaner,101674]]'
+- '[[_Standards/WikiData/WD~vacuum_state,766202]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe%20hg.jpg
 MeSH_tree_code:
-  - G01.374.715.902
-  - G16.500.750.274.902
-  - N06.230.300.100.185.902
+- G01.374.715.902
+- G16.500.750.274.902
+- N06.230.300.100.185.902
 OmegaWiki_Defined_Meaning: 8558
 partially_coincident_with: '[[_Standards/WikiData/WD~emptiness,67932942]]'
 part_of: '[[_Standards/WikiData/WD~physics,413]]'
@@ -25,8 +109,144 @@ relative_permittivity: 1
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13047289,13047289]]'
 subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
 UMLS_CUI: C0042221
+dv_has_:
+  name_:
+    af: vakuum
+    am: ኦና
+    an: vueito
+    anp: निर्वात
+    ar: فراغ
+    ary: خوا
+    arz: الفضاء
+    as: ভেকুৱাম
+    ast: vacíu
+    az: vakuum
+    ba: вакуум
+    bar: Vakuum
+    be: вакуум
+    be-tarask: вакуўм
+    bg: вакуум
+    bn: শূন্যস্থান
+    bs: vakuum
+    bxr: вакуум
+    ca: buit
+    chr: ᎦᏒᏂᎩᏍᎩ
+    ckb: ڤاکیووم
+    crh: vakuum
+    cs: vakuum
+    cv: вакуум
+    cy: gwactod
+    da: vakuum
+    de: Vakuum
+    diq: vakum
+    el: κενό
+    en: vacuum
+    eo: vakuo
+    es: vacío
+    et: vaakum
+    eu: huts
+    fa: خلأ
+    fi: tyhjiö
+    fj: lala
+    fr: vide
+    frr: leesag rüm
+    fy: fakuüm
+    ga: folús
+    gcr: vid
+    gl: baleiro
+    grc: κενόν
+    gsw: Vakuum
+    he: ריק
+    hi: निर्वात
+    hif: vacuum
+    hr: vakuum
+    hu: vákuum
+    hy: վակուում
+    ia: vacuo
+    id: hampa udara
+    ie: vacuo
+    ilo: kawaw
+    io: vakuo
+    is: lofttæmi
+    it: vuoto
+    ja: 真空
+    ka: ვაკუუმი
+    kab: ilem
+    kk: вакуум
+    km: សុញ្ញកាស
+    kn: ನಿರ್ವಾತ
+    ko: 진공
+    ksh: Nix
+    kw: gwakter
+    ky: вакуум арматурасы
+    la: vacuum
+    lfn: vacua
+    li: vacuüm
+    lt: vakuumas
+    lv: vakuums
+    mag: निर्वात
+    mg: mangabangabaka
+    mk: вакуум
+    ml: ശൂന്യത
+    mn: вакуум
+    mr: हवाबंद
+    ms: hampagas
+    my: လေဟာနယ်
+    nan: chin-khong
+    nb: vakuum
+    nds: Vakuum
+    nl: vacuüm
+    nn: vakuum
+    oc: vueit
+    om: vacuum
+    pa: ਖ਼ਲਾਅ
+    pcd: vuide
+    pl: próżnia
+    pnb: خالی تھاں
+    pt: vácuo
+    qu: ch'usaq p'ulin
+    ro: vid
+    ru: вакуум
+    rue: вакуум
+    scn: vacanti
+    sco: vacuum
+    se: vakuma
+    sgs: vakuums
+    sh: vakuum
+    sk: vákuum
+    sl: vakuum
+    smn: kuárusvuotâ
+    sq: zbrazëti
+    sr: вакуум
+    stq: Vakuum
+    su: rohangan hapa
+    sv: vakuum
+    sw: ombwe
+    szl: prōżnia
+    ta: வெற்றிடம்
+    tg: вакуум
+    th: สุญญากาศ
+    tl: basyo
+    tr: vakum
+    tt: вакуум
+    tt-cyrl: вакуум
+    tyv: вакуум
+    udm: омыртэм инты
+    ug: ۋاكۇئۇم
+    uk: вакуум
+    ur: فراغ
+    uz: vakuum
+    vep: vakuum
+    vi: chân không
+    war: bakyum
+    wo: Féex
+    wuu: 真空
+    xh: I-Vacuum
+    yi: וואקיום
+    yue: 真空
+    za: caenhoengq
+    zh: 真空
 ---
-
 # [[Vacuum]] 
 
 #is_/same_as :: [[../../WikiData/WD~Vacuum,11475|WD~Vacuum,11475]] 

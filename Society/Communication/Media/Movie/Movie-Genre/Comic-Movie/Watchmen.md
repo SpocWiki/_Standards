@@ -1,9 +1,93 @@
 ---
 has_id_wikidata: Q128444
+dv_has_:
+  name_:
+    ar: واتشمن
+    ast: Watchmen
+    bg: Пазителите
+    bn: ওয়াচমেন
+    br: Watchmen
+    ca: Watchmen
+    cs: Watchmen – Strážci
+    da: Vogterne
+    de: Watchmen
+    de-ch: Watchmen
+    el: Watchmen
+    en: Watchmen
+    en-ca: Watchmen
+    en-gb: Watchmen
+    en-us: Watchmen
+    eo: Watchmen
+    es: Watchmen
+    eu: Watchmen
+    fa: نگهبانان (کمیک)
+    fi: Vartijat
+    fr: Watchmen
+    ga: Watchmen
+    gl: Watchmen
+    he: השומרים
+    hi: वॉचमेन
+    hu: Watchmen
+    hy: Պահապաններ
+    id: Watchmen
+    is: Watchmen
+    it: Watchmen
+    ja: ウォッチメン
+    jv: Watchmen
+    ka: მცველები
+    ko: 왓치맨
+    la: Custodes
+    lb: Watchmen
+    lld: Watchmen
+    lv: Watchmen
+    mk: Чувари
+    nb: Watchmen
+    ne: वाचमेन
+    nl: Watchmen
+    nn: Watchmen
+    pl: Strażnicy
+    pt: Watchmen
+    pt-br: Watchmen
+    ru: Хранители
+    sh: Watchmen
+    sr: Надзирачи
+    sv: Watchmen
+    ta: வாட்ச்மென்
+    tr: Gözcüler
+    tt: Гөзҗүлер
+    uk: Хранителі
+    vi: Watchmen
+    zh: 守護者
+    zh-my: 守护者
+    zh-sg: 守护者
+aliases:
+- Custodes
+- Gözcüler
+- Strażnicy
+- Vartijat
+- Vogterne
+- Watchmen
+- Watchmen – Strážci
+- Гөзҗүлер
+- Надзирачи
+- Пазителите
+- Хранителі
+- Хранители
+- Чувари
+- Պահապաններ
+- השומרים
+- نگهبانان (کمیک)
+- واتشمن
+- वाचमेन
+- वॉचमेन
+- ওয়াচমেন
+- வாட்ச்மென்
+- მცველები
+- ウォッチメン
+- 守护者
+- 守護者
+- 왓치맨
 ---
-
-
-
 # [[Watchmen]] 
 
 

@@ -1,33 +1,204 @@
 ---
 aliases:
-  - Vorhang
-  - Curtain
+- aizkari
+- a̱teap
+- celing
+- Coltrina
+- cortina
+- cuirtín
+- Curtain
+- errezel
+- Fensterdekoration
+- függöny
+- gardin
+- gedien
+- Gluggatjöld
+- Gordene
+- gordijn
+- Gordén
+- Hordèng
+- Jadinnge
+- kardin
+- Kha-tián
+- kurteno
+- Kurtina
+- Labule
+- langsir
+- Liâm
+- Mapazia
+- Perde
+- Perdea
+- Pərdələr
+- Riddo
+- rideau
+- Rido
+- Ridé
+- Rèm
+- tenda
+- Tirai
+- užuolaidos
+- Velum fenestrae
+- verho
+- Vorhang
+- zasłona
+- zavesa
+- Zavjesa
+- závěs
+- κουρτίνα
+- Гардина
+- завеса
+- Парда
+- Перде
+- пәрҙә
+- фіранка
+- Чаршав
+- штора
+- штори
+- шторы
+- վարագույր
+- וילון
+- ستارة
+- پرده
+- پردہ
+- پەردە
+- पर्दा
+- ਪਰਦਾ
+- ପରଦା
+- పరదా
+- ಪರದೆ
+- ม่าน
+- ခန်းဆီး
+- ၽႃႈၵင်ႈ
+- カーテン
+- 帘
+- 窗簾
+- 簾
+- 커튼
 has_id_wikidata: Q49005
 subclass_of:
-  - '[[_Standards/WikiData/WD~linens,796635]]'
-  - '[[_Standards/WikiData/WD~hanging,64618487]]'
+- '[[_Standards/WikiData/WD~linens,796635]]'
+- '[[_Standards/WikiData/WD~hanging,64618487]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~front_curtain,2264369]]'
 has_contributing_factor: '[[_Standards/WikiData/WD~Sun,525]]'
 made_from_material: '[[_Standards/WikiData/WD~textile,28823]]'
 Nomenclature_for_Museum_Cataloging:
-  - 1900
-  - 1911
+- 1900
+- 1911
 OmegaWiki_Defined_Meaning: 1023825
 GS1_GPC_code: 10002214
 Commons_category: Curtains
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gordijnen%20aan%20venster.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Curtain.tif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gordijnen%20aan%20venster.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Curtain.tif
 IMDb_keyword: curtain
 Iconclass_notation: 41A421
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Cube%20Diorama%20%E2%80%93%20Curtains.stl
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q49005-ar.ogg
+dv_has_:
+  name_:
+    ar: ستارة
+    ast: Cortina
+    az: Pərdələr
+    ba: пәрҙә
+    bcl: Kurtina
+    be: шторы
+    be-tarask: фіранка
+    bew: Hordèng
+    bg: Перде
+    ca: cortina
+    ckb: پەردە
+    cs: závěs
+    cv: Чаршав
+    da: gardin
+    de: Vorhang
+    de-ch: Fensterdekoration
+    el: κουρτίνα
+    en: curtain
+    en-ca: Curtain
+    en-gb: curtain
+    eo: kurteno
+    es: cortina
+    et: kardin
+    eu: errezel
+    fa: پرده
+    fi: verho
+    fr: rideau
+    ga: cuirtín
+    gl: cortina
+    ha: Labule
+    hak: Liâm
+    he: וילון
+    hi: पर्दा
+    hr: Zavjesa
+    ht: Rido
+    hu: függöny
+    hy: վարագույր
+    iba: Tirai
+    id: Tirai
+    io: Kurteno
+    is: Gluggatjöld
+    it: tenda
+    ja: カーテン
+    jv: Gordén
+    kcg: a̱teap
+    kk: перде
+    kk-latn: perde
+    kn: ಪರದೆ
+    ko: 커튼
+    ksh: Jadinnge
+    ku: Perde
+    ky: Парда
+    la: Velum fenestrae
+    lb: Riddo
+    lt: užuolaidos
+    lv: aizkari
+    mk: завеса
+    ms: langsir
+    my: ခန်းဆီး
+    nan: Kha-tián
+    nb: gardin
+    nds-nl: gedien
+    ne: पर्दा
+    nl: gordijn
+    nn: gardin
+    nrm: Ridé
+    or: ପରଦା
+    pa: ਪਰਦਾ
+    pl: zasłona
+    pt: cortina
+    pt-br: Cortina
+    ro: Perdea
+    ru: штора
+    shn: ၽႃႈၵင်ႈ
+    sl: zavesa
+    sq: Perde
+    sr: завеса
+    sr-ec: завеса
+    sr-el: zavesa
+    sv: gardin
+    sw: Mapazia
+    szy: celing
+    te: పరదా
+    tg: Гардина
+    th: ม่าน
+    tl: Kurtina
+    tr: Perde
+    uk: штори
+    ur: پردہ
+    vec: Coltrina
+    vi: Rèm
+    wa: Gordene
+    wuu: 帘
+    yue: 窗簾
+    zh: 簾
+    zh-cn: 簾
+    zh-hans: 簾
+    zh-hant: 簾
 ---
-
 # [[Curtain]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Curtain,49005|WD~Curtain,49005]] 

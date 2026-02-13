@@ -1,16 +1,92 @@
 ---
 aliases:
+- alimentos do mar
+- bia mara
+- bwyd môr
+- Conchylium
+- Dijo
+- Dəniz məhsulları
+- fisk og skaldyr
+- frott tal-baħar
+- fructe de mare
+- fruto do mar
+- Haijfeih
+- Hazan-dranomasina
+- Hái-sán
+- Hói-siên
+- Hāi-chiĕng
+- hải sản
+- Ikan lauik
+- itsaski
+- jūras veltes
+- jūros gerybės
+- kaimoana
+- kala- tai äyriäisruoat
+- Lamang-Dagat
+- makanan laut
+- marfrukto
+- mariscu
+- mat från havet
+- Meeresfrüchte
+- Mereannid
+- morska hrana
+- morski plodovi
+- morské plody
+- mořské plody
+- owoce morza
+- Pagkaing-dagat
+- plodovi mora
+- prodotti ittici
+- producte del mar
+- producto del mar
+- produit de la mer
+- seafood
+- Seekos
+- Sjávarfang
+- sjømat
+- Su ürünleri
+- tenger gyümölcsei
+- Tetedhan Seganten
+- Teñiz önimderi
+- Ushqim deti
+- voedsel uit zee
+- Xoardinî derya
+- Θαλασσινά
+- морапрадукт
+- Морапрадукты
+- морепродукти
+- морепродукты
+- морски плодови
+- плодови мора
+- Теңіз өнімдері
+- ծովամթերք
+- מאכלי ים
+- تەڭىز ونىمدەرى
+- خواردنە دەریاییەکان
+- خوراک دریایی
+- خۆاردنی دەریا
+- مأكولات بحرية
+- समुद्री खाद्य
+- সামুদ্রিক খাবার
+- கடல் உணவு
+- อาหารทะเล
+- ზღვის პროდუქტები
+- 海産物
+- 海货
+- 海鮮
+- 海鲜
+- 해산물
 has_id_wikidata: Q192935
-history_of_topic: "[[_Standards/WikiData/WD~history_of_seafood,764434]]"
-has_effect: "[[_Standards/WikiData/WD~seafood_allergy,1275863]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_seafood,764434]]'
+has_effect: '[[_Standards/WikiData/WD~seafood_allergy,1275863]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cuisine,1778821]]"
-  - "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Seafood,15985397]]"
+- '[[_Standards/WikiData/WD~cuisine,1778821]]'
+- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Seafood,15985397]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~aquatic_product,107166476]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~aquatic_product,107166476]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plateau%20van%20zeevruchten.jpg
 Commons_gallery: Seafood
 Commons_category: Seafood
@@ -18,15 +94,108 @@ Iconclass_notation: 41C681
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fishmarket%20banner.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003073
 Amazon_com_browse_node:
-  - "15500522011"
-  - "371477011"
+- 15500522011
+- 371477011
 UMLS_CUI: C0206208
 MeSH_tree_code:
-  - G07.203.300.600.875
-  - J02.500.600.875
+- G07.203.300.600.875
+- J02.500.600.875
 OpenStreetMap_tag: cuisine=seafood
+dv_has_:
+  name_:
+    af: Seekos
+    ar: مأكولات بحرية
+    ast: mariscu
+    az: Dəniz məhsulları
+    be: Морапрадукты
+    be-tarask: морапрадукт
+    bn: সামুদ্রিক খাবার
+    ca: producte del mar
+    cdo: Hāi-chiĕng
+    ceb: Lamang-Dagat
+    ckb: خواردنە دەریاییەکان
+    cs: mořské plody
+    cy: bwyd môr
+    da: fisk og skaldyr
+    de: Meeresfrüchte
+    el: Θαλασσινά
+    en: seafood
+    eo: marfrukto
+    es: producto del mar
+    et: Mereannid
+    eu: itsaski
+    fa: خوراک دریایی
+    fi: kala- tai äyriäisruoat
+    fr: produit de la mer
+    ga: bia mara
+    gl: alimentos do mar
+    hak: Hói-siên
+    he: מאכלי ים
+    hi: समुद्री खाद्य
+    hr: morski plodovi
+    hu: tenger gyümölcsei
+    hy: ծովամթերք
+    id: makanan laut
+    is: Sjávarfang
+    it: prodotti ittici
+    ja: 海産物
+    jv: Tetedhan Seganten
+    ka: ზღვის პროდუქტები
+    kk: Теңіз өнімдері
+    kk-arab: تەڭىز ونىمدەرى
+    kk-cn: تەڭىز ونىمدەرى
+    kk-cyrl: Теңіз өнімдері
+    kk-kz: Теңіз өнімдері
+    kk-latn: Teñiz önimderi
+    kk-tr: Teñiz önimderi
+    ko: 해산물
+    ku: Xoardinî derya
+    ku-arab: خۆاردنی دەریا
+    ku-latn: Xoardinî derya
+    la: Conchylium
+    lt: jūros gerybės
+    lv: jūras veltes
+    mg: Hazan-dranomasina
+    mi: kaimoana
+    min: Ikan lauik
+    mk: морски плодови
+    ms: makanan laut
+    mt: frott tal-baħar
+    nan: Hái-sán
+    nb: sjømat
+    nl: voedsel uit zee
+    nn: sjømat
+    pl: owoce morza
+    pt: fruto do mar
+    ro: fructe de mare
+    ru: морепродукты
+    sk: morské plody
+    sl: morska hrana
+    sq: Ushqim deti
+    sr: морски плодови
+    sr-ec: плодови мора
+    sr-el: plodovi mora
+    st: Dijo
+    sv: mat från havet
+    ta: கடல் உணவு
+    th: อาหารทะเล
+    tl: Pagkaing-dagat
+    tr: Su ürünleri
+    uk: морепродукти
+    vi: hải sản
+    war: Lamang-Dagat
+    wuu: 海货
+    yue: 海鮮
+    za: Haijfeih
+    zh: 海鮮
+    zh-cn: 海鲜
+    zh-hans: 海鲜
+    zh-hant: 海鮮
+    zh-hk: 海鮮
+    zh-my: 海鲜
+    zh-sg: 海鲜
+    zh-tw: 海鮮
 ---
-
 # [[Seafood]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Seafood,192935|WD~Seafood,192935]] 

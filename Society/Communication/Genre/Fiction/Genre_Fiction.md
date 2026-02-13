@@ -1,18 +1,98 @@
 ---
 aliases:
-  - Genre fiction
-  - formula fiction
-  - commercial fiction
-  - Genre_Fiction
-  - Genre Fiction
+- commercial fiction
+- fictio generum
+- formula fiction
+- generoko literatura
+- Genre fiction
+- genre fiksi
+- genre sastra
+- genrefictie
+- genreliteratuur
+- genrelitteratur
+- Genre_Fiction
+- gênero de ficção
+- kurgusal tarz
+- literatura de género
+- Literatura popularna
+- littérature de genre
+- lliteratura de xéneru
+- narrativa di genere
+- novel·la de gènere
+- sjenrefiksje
+- văn học thông tục
+- zsánerfikció
+- žanrovska fikcija
+- žanrska književnost
+- žánrová literatura
+- жанр әҙәбиәте
+- жанравая літаратура
+- жанрова література
+- жанровая литература
+- жанровска фикција
+- ժանրային գրականություն
+- ליטערארישע זשאנער
+- ספרות ז'אנרית
+- ادبیات عامهپسند
+- خيال النوع
+- چەشنی خەیاڵ
+- ਵਿਧਾ ਗਲਪ
+- 大眾文學
+- 大衆小説
+- 暢銷小說
+- 장르 소설
 has_id_wikidata: Q1194480
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~popular_literature,2497655]]'
 opposite_of: '[[_Standards/WikiData/WD~high_literature,6647667]]'
 subclass_of: '[[_Standards/WikiData/WD~fiction_literature,38072107]]'
 instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
 studied_by: '[[_Standards/WikiData/WD~popular_and_genre_literature_studies,113128855]]'
+dv_has_:
+  name_:
+    ar: خيال النوع
+    ast: lliteratura de xéneru
+    ba: жанр әҙәбиәте
+    be-tarask: жанравая літаратура
+    ca: novel·la de gènere
+    ckb: چەشنی خەیاڵ
+    cs: žánrová literatura
+    en: genre fiction
+    en-ca: genre fiction
+    en-gb: genre fiction
+    es: literatura de género
+    eu: generoko literatura
+    fa: ادبیات عامهپسند
+    fr: littérature de genre
+    fy: sjenrefiksje
+    he: ספרות ז'אנרית
+    hu: zsánerfikció
+    hy: ժանրային գրականություն
+    id: genre fiksi
+    it: narrativa di genere
+    ja: 大衆小説
+    jv: genre sastra
+    ko: 장르 소설
+    la: fictio generum
+    li: genreliteratuur
+    nb: genrelitteratur
+    nl: genrefictie
+    pa: ਵਿਧਾ ਗਲਪ
+    pl: Literatura popularna
+    pt-br: gênero de ficção
+    ru: жанровая литература
+    sl: žanrska književnost
+    sr: жанровска фикција
+    sr-el: žanrovska fikcija
+    sv: genrelitteratur
+    tr: kurgusal tarz
+    uk: жанрова література
+    vi: văn học thông tục
+    yi: ליטערארישע זשאנער
+    yue: 大眾文學
+    zh: 暢銷小說
+    zh-hant: 大眾文學
+    zh-tw: 大眾文學
 ---
-
 # [[Genre_Fiction]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Genre_fiction,1194480|WD~Genre_fiction,1194480]] 

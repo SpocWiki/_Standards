@@ -1,10 +1,62 @@
 ---
 aliases:
-  - Juli Zeh
-  - Julia Barbara Finck
-  - Julia Barbara Zeh
-  - Zeh,Juli
+- Juli Zeh
+- Julia Barbara Finck
+- Julia Barbara Zeh
+- Zeh,Juli
+- Јули Це
+- Юлі Це
+- Юли Це
+- چولى زيه
+- იული ცე
+- ユーリ・ツェー
+- 尤麗‧策
+- 茱莉·澤
+- 율리 체
 has_id_wikidata: Q76324
+dv_has_:
+  name_:
+    arz: چولى زيه
+    ast: Juli Zeh
+    bg: Юли Це
+    ca: Juli Zeh
+    cs: Juli Zeh
+    cy: Juli Zeh
+    da: Juli Zeh
+    de: Juli Zeh
+    ee: Juli Zeh
+    en: Juli Zeh
+    eo: Juli Zeh
+    es: Juli Zeh
+    fi: Juli Zeh
+    fr: Juli Zeh
+    ga: Juli Zeh
+    gl: Juli Zeh
+    hr: Juli Zeh
+    hu: Juli Zeh
+    ie: Juli Zeh
+    it: Juli Zeh
+    ja: ユーリ・ツェー
+    ka: იული ცე
+    ko: 율리 체
+    mk: Јули Це
+    mt: Juli Zeh
+    mul: Juli Zeh
+    nb: Juli Zeh
+    nl: Juli Zeh
+    nn: Juli Zeh
+    oc: Juli Zeh
+    pl: Juli Zeh
+    pt: Juli Zeh
+    pt-br: Juli Zeh
+    sk: Juli Zeh
+    sl: Juli Zeh
+    sq: Juli Zeh
+    sr: Јули Це
+    sv: Juli Zeh
+    uk: Юлі Це
+    zh: 尤麗‧策
+    zh-hant: 茱莉·澤
 ---
 # [[Zeh,Juli]] 
 

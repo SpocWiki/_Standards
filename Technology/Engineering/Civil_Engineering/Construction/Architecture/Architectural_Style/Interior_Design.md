@@ -1,13 +1,78 @@
 ---
 aliases:
-  - Interior Design
-  - Innenarchitektur
-  - Interior_Design
+- architetura de interni
+- Barne-diseinua
+- binnendoararsjitektuer
+- Binneversiering
+- dearadh intí
+- deseño interior
+- design d'intérieur
+- design de interiores
+- design di interni
+- design interior
+- Disenyong panloob
+- diseño interior
+- disinn ta' ġewwa
+- disseny interior
+- Dizajn enterijera
+- Dizajn i brendshem
+- Dylunio mewnol
+- Innenarchitektur
+- inredning
+- Interieur design
+- interieurarchitectuur
+- Interior Design
+- Interior_Design
+- interiérový design
+- Interiérový dizajn
+- interiør
+- interiør design
+- Interjera dizains
+- interjero dizainas
+- interna dekoracio
+- Interyer dizayni
+- iç mimari
+- lakberendezés
+- notranje oblikovanje
+- nutřkowna architektura
+- Pagdesinyo pansakob
+- Rancangan dalam ruangan
+- reka bentuk dalaman
+- sisekujundus
+- siskiistemvuávám
+- sisustus
+- thiết kế nội thất
+- Usanifu wa ndani
+- Zane na ciki
+- внатрешно уредување
+- дизајн ентеријера
+- дизайн інтер'єру
+- дизайн интерьера
+- дызайн інтэр'еру
+- интериорен дизайн
+- Интерьер дизайн
+- Тарроҳии дохилӣ
+- Ինտերիերի դիզայն
+- עיצוב פנים
+- تصميم داخلي
+- داخلی طرحبندی
+- ريک بنتوق دالمن
+- طراحی داخلی
+- आंतरिक डिज़ाइन
+- गृहशोभन
+- உட்புற வடிவமைப்பு
+- ఇంటీరియర్ డిజైనింగ్
+- ഇന്റ്രിഒർ ദെസിഗ്നെർ
+- มัณฑนศิลป์
+- インテリア・デザイン
+- 室內設計
+- 室内设计
+- 인테리어 디자인
 has_id_wikidata: Q179232
 instance_of:
-  - '[[_Standards/WikiData/WD~creative_industries,969040]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~creative_industries,969040]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~interior_architecture,1329946]]'
 practiced_by: '[[_Standards/WikiData/WD~interior_designer,2133309]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~interior_decoration,5875045]]'
@@ -15,8 +80,8 @@ subclass_of: '[[_Standards/WikiData/WD~environmental_design,114436249]]'
 IAB_code: 283
 Dewey_Decimal_Classification: 747
 UMLS_CUI:
-  - C0021751
-  - C0079632
+- C0021751
+- C0079632
 IMDb_keyword: interior-design
 Commons_category: Interior design
 subreddit: InteriorDesign
@@ -24,8 +89,87 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kerk%20van%20het%20Red
 Basisklassifikation: 21.84
 MeSH_tree_code: J01.086.339.290
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DIZAN_INTEREROV.html
+dv_has_:
+  name_:
+    af: Binneversiering
+    ar: تصميم داخلي
+    be: дызайн інтэр'еру
+    bg: интериорен дизайн
+    ca: disseny interior
+    cs: interiérový design
+    cy: Dylunio mewnol
+    da: interiør design
+    de: Interieur design
+    en: interior design
+    en-ca: Interior design
+    en-gb: interior design
+    en-us: interior design
+    eo: interna dekoracio
+    es: diseño interior
+    et: sisekujundus
+    eu: Barne-diseinua
+    fa: طراحی داخلی
+    fi: sisustus
+    fr: design d'intérieur
+    fy: binnendoararsjitektuer
+    ga: dearadh intí
+    gl: deseño interior
+    ha: Zane na ciki
+    he: עיצוב פנים
+    hi: आंतरिक डिज़ाइन
+    hsb: nutřkowna architektura
+    hu: lakberendezés
+    hy: Ինտերիերի դիզայն
+    id: Rancangan dalam ruangan
+    it: design di interni
+    ja: インテリア・デザイン
+    ko: 인테리어 디자인
+    lt: interjero dizainas
+    lv: Interjera dizains
+    mk: внатрешно уредување
+    ml: ഇന്റ്രിഒർ ദെസിഗ്നെർ
+    mn: Интерьер дизайн
+    mr: गृहशोभन
+    ms: reka bentuk dalaman
+    ms-arab: ريک بنتوق دالمن
+    mt: disinn ta' ġewwa
+    nb: interiør
+    nl: interieurarchitectuur
+    pt: design de interiores
+    pt-br: Design de interiores
+    ro: design interior
+    ru: дизайн интерьера
+    sh: Dizajn enterijera
+    sk: Interiérový dizajn
+    sl: notranje oblikovanje
+    smn: siskiistemvuávám
+    sq: Dizajn i brendshem
+    sr: дизајн ентеријера
+    sr-ec: Дизајн ентеријера
+    sr-el: Dizajn enterijera
+    sv: inredning
+    sw: Usanifu wa ndani
+    ta: உட்புற வடிவமைப்பு
+    te: ఇంటీరియర్ డిజైనింగ్
+    tg: Тарроҳии дохилӣ
+    th: มัณฑนศิลป์
+    tl: Disenyong panloob
+    tr: iç mimari
+    uk: дизайн інтер'єру
+    ur: داخلی طرحبندی
+    uz: Interyer dizayni
+    vec: architetura de interni
+    vi: thiết kế nội thất
+    war: Pagdesinyo pansakob
+    yue: 室內設計
+    zh: 室内设计
+    zh-cn: 室内设计
+    zh-hans: 室内设计
+    zh-hant: 室內設計
+    zh-hk: 室內設計
+    zh-sg: 室内设计
+    zh-tw: 室內設計
 ---
-
 # [[Interior_Design]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~interior_design,179232]] 

@@ -1,17 +1,161 @@
 ---
 aliases:
+- asmenybės psichologija
+- Differentielle und Persönlichkeitspsychologie
+- Isiksusepsühholoogia
+- kişilik psikolojisi
+- ličnost
+- personality psychology
+- personeca psikologio
+- personlegdomspsykologi
+- personlighedspsykologi
+- personlighetspsykologi
+- personlighetsteori
+- persoonallisuuspsykologia
+- persoonlijkheidsleer
+- persónuleiki
+- pertsonalitatearen psikologia
+- psicologia da personalidade
+- psicologia de la personalitat
+- psicologia della personalità
+- psicología de la personalidad
+- psicoloxía da personalidade
+- psicoloxía de la personalidá
+- psihologia personalității
+- psihologija osebnosti
+- psikologi kepribadian
+- psikologji e personalitetit
+- psychologia osobowości
+- psychologia personalitatis
+- psychologie de la personnalité
+- psychologie osobnosti
+- psychológia osobnosti
+- seicoleg personoliaeth
+- sikolohiyang personalidad
+- személyiség-lélektan
+- Tâm lý học nhân cách
+- Şəxsiyyət psixologiyası
+- ψυχολογία της προσωπικότητας
+- псіхалогія асобы
+- психологія особистості
+- психологија личности
+- Психологија на личноста
+- психология личности
+- Психология на личността
+- псыхалёгія асобы
+- Тұлға психологиясы
+- Харкамлăх психологийĕ
+- шәхес психологиясе
+- шәхес психологияһы
+- անձի հոգեբանություն
+- אישיות
+- روانشناسی شخصیت
+- شخصيت
+- شخصيتي ارواپوهنه
+- شخصیت
+- علم نفس الشخصية
+- व्यक्तित्व मनोविज्ञान
+- ব্যক্তিত্ব মনোবিজ্ঞান
+- ਸ਼ਖਸੀਅਤ ਮਨੋਵਿਗਿਆਨ
+- ஆளுமை
+- വ്യക്തിത്വം
+- පෞරුෂත්ව මනෝවිද් යාව
+- จิตวิทยาบุคลิกภาพ
+- 人格心理学
+- 人格心理學
+- 性格心理學
+- 성격심리학
 has_id_wikidata: Q271716
 subclass_of:
-  - "[[_Standards/WikiData/WD~basic_science,4867047]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
+- '[[_Standards/WikiData/WD~basic_science,4867047]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
 part_of:
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-  - "[[_Standards/WikiData/WD~social_and_personality_psychology,113212938]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q125375774,125375774]]"
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~social_and_personality_psychology,113212938]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q125375774,125375774]]'
 Provenio_UUID: e95a9e09-42b9-4125-8f67-dfb9353c8054
+dv_has_:
+  name_:
+    ar: علم نفس الشخصية
+    as: ব্যক্তিত্ব মনোবিজ্ঞান
+    ast: psicoloxía de la personalidá
+    az: Şəxsiyyət psixologiyası
+    ba: шәхес психологияһы
+    be: псіхалогія асобы
+    be-tarask: псыхалёгія асобы
+    bg: Психология на личността
+    ca: psicologia de la personalitat
+    cs: psychologie osobnosti
+    cv: Харкамлăх психологийĕ
+    cy: seicoleg personoliaeth
+    da: personlighedspsykologi
+    de: Differentielle und Persönlichkeitspsychologie
+    de-ch: Differentielle und Persönlichkeitspsychologie
+    el: ψυχολογία της προσωπικότητας
+    en: personality psychology
+    en-ca: personality psychology
+    en-gb: personality psychology
+    eo: personeca psikologio
+    es: psicología de la personalidad
+    et: Isiksusepsühholoogia
+    eu: pertsonalitatearen psikologia
+    fa: روانشناسی شخصیت
+    fi: persoonallisuuspsykologia
+    fr: psychologie de la personnalité
+    gl: psicoloxía da personalidade
+    he: אישיות
+    hi: व्यक्तित्व मनोविज्ञान
+    hu: személyiség-lélektan
+    hy: անձի հոգեբանություն
+    id: psikologi kepribadian
+    is: persónuleiki
+    it: psicologia della personalità
+    ja: 人格心理学
+    kk: Тұлға психологиясы
+    ko: 성격심리학
+    la: psychologia personalitatis
+    lt: asmenybės psichologija
+    mk: Психологија на личноста
+    ml: വ്യക്തിത്വം
+    mzn: شخصیت
+    nb: personlighetspsykologi
+    nl: persoonlijkheidsleer
+    nn: personlegdomspsykologi
+    pa: ਸ਼ਖਸੀਅਤ ਮਨੋਵਿਗਿਆਨ
+    pl: psychologia osobowości
+    ps: شخصيتي ارواپوهنه
+    pt: psicologia da personalidade
+    pt-br: psicologia da personalidade
+    ro: psihologia personalității
+    ru: психология личности
+    sco: personality psychology
+    sd: شخصيت
+    si: පෞරුෂත්ව මනෝවිද් යාව
+    sk: psychológia osobnosti
+    sl: psihologija osebnosti
+    sq: psikologji e personalitetit
+    sr: психологија личности
+    sr-ec: психологија личности
+    sr-el: ličnost
+    su: psikologi kepribadian
+    sv: personlighetsteori
+    ta: ஆளுமை
+    th: จิตวิทยาบุคลิกภาพ
+    tl: sikolohiyang personalidad
+    tr: kişilik psikolojisi
+    tt: шәхес психологиясе
+    uk: психологія особистості
+    vi: Tâm lý học nhân cách
+    yue: 性格心理學
+    zh: 人格心理學
+    zh-cn: 人格心理学
+    zh-hans: 人格心理学
+    zh-hant: 人格心理學
+    zh-hk: 人格心理學
+    zh-sg: 人格心理学
+    zh-tw: 人格心理學
 ---
-
 # [[Personality_Psychology]] 
 
 #is_/same_as :: [[WD~Personality_psychology,271716]] 

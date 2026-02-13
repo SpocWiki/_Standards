@@ -1,30 +1,114 @@
 ---
-has_time_started: 1932-01-01 
+has_time_started: 1932-01-01
 aliases:
-  - electric guitar
-  - E-Guitar
-  - E-Gitarre
-  - Electric_Guitar
-  - Electric Guitar
+- chitara eletrica
+- chitarra alèttrica
+- chitarra elettrica
+- chitară electrică
+- cithara electrica
+- dikuryente nga sista
+- E-Gitarre
+- E-Gitarren
+- E-Guitar
+- el-gitárra
+- electric guitar
+- Electric_Guitar
+- elektra gitaro
+- elektresch Gittar
+- elektrická gitara
+- elektrická kytara
+- elektrikitarr
+- elektrinė gitara
+- elektrische gitaar
+- elektrisk gitar
+- elektrisk guitar
+- elektriskā ģitāra
+- električna gitara
+- električna kitara
+- elektro gitar
+- elektrogitara
+- Elektrogitarre
+- elektromos gitár
+- Elektryczno gitara
+- elgitarr
+- giotàr dealain
+- giotár leictreach
+- gitar elektrik
+- Gitar eletrical
+- gitar lectragh
+- gitar listrik
+- Gitar tredan
+- gitara elektryczna
+- Gitarang de-kuryente
+- gitarra elektriko
+- gitâr drydan
+- guitar điện
+- guitare électrique
+- guitarra electrica
+- guitarra elèctrica
+- guitarra eléctrica
+- guitarra elétrica
+- guitarra llétrica
+- gîtara elektrîk
+- kitarra elettrika
+- kitarë elektrike
+- kitā hiko
+- liâdggkitara
+- Qita livaliva
+- rafmagnsgítar
+- sähkökitara
+- šleđgâkiitaar
+- Ηλεκτρική κιθάρα
+- гитори барқӣ
+- електрическа китара
+- електрична гитара
+- електрогітара
+- Цахилгаан гитар
+- электр гитарасы
+- электрагітара
+- электрогитарæ
+- электрогитара
+- Ելեկտրակիթառ
+- Էլեկտրակիթառ
+- גיטרה חשמלית
+- الکتریک گیتارا
+- برقی گیتار
+- قيثارة كهربائية
+- ڭيطار ديال الضو
+- گیتار الکتریک
+- گیتاری کارەبایی
+- ইলেকট্রিক গিটার
+- மின் கிதார்
+- ഇലക്ട്രിക് ഗിറ്റാർ
+- กีตาร์ไฟฟ้า
+- གློག་དཀྲོལ་རྒྱུད་མང་།
+- တိင်ႇၾႆးၾ
+- လျှပ်စစ်ဂစ်တာ
+- ელექტრო გიტარა
+- エレクトリック・ギター
+- 电吉他
+- 電吉他
+- 電結他
+- 전기 기타
 has_id_wikidata: Q78987
 has_part_s_:
-  - '[[_Standards/WikiData/WD~potentiometer,187868]]'
-  - '[[_Standards/WikiData/WD~tuning_peg,303790]]'
-  - '[[_Standards/WikiData/WD~string,326426]]'
-  - '[[_Standards/WikiData/WD~pickup,572648]]'
-  - '[[_Standards/WikiData/WD~bridge,830869]]'
-  - '[[_Standards/WikiData/WD~neck,944038]]'
-  - '[[_Standards/WikiData/WD~nut,1186738]]'
-  - '[[_Standards/WikiData/WD~body,55185381]]'
-  - '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
+- '[[_Standards/WikiData/WD~potentiometer,187868]]'
+- '[[_Standards/WikiData/WD~tuning_peg,303790]]'
+- '[[_Standards/WikiData/WD~string,326426]]'
+- '[[_Standards/WikiData/WD~pickup,572648]]'
+- '[[_Standards/WikiData/WD~bridge,830869]]'
+- '[[_Standards/WikiData/WD~neck,944038]]'
+- '[[_Standards/WikiData/WD~nut,1186738]]'
+- '[[_Standards/WikiData/WD~body,55185381]]'
+- '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~George_Beauchamp,596713]]'
 different_from:
-  - '[[_Standards/WikiData/WD~keytar,1112687]]'
-  - '[[_Standards/WikiData/WD~acoustic_guitar,31561]]'
-  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
+- '[[_Standards/WikiData/WD~keytar,1112687]]'
+- '[[_Standards/WikiData/WD~acoustic_guitar,31561]]'
+- '[[_Standards/WikiData/WD~bass_guitar,46185]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~electro_acoustic_chordophones,55738960]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 connects_with: '[[_Standards/WikiData/WD~guitar_amplifier_loudspeaker,106316570]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 used_by: '[[_Standards/WikiData/WD~electric_guitarist,121754124]]'
@@ -37,14 +121,116 @@ inception: 1932-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yngwie%20Malmsteen%27s%20electric%20guitar.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Clean-gain%20demo%20melody.ogg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03272010-n
-  - http://wordnet-rdf.princeton.edu/wn31/103255686-n
+- http://wordnet-rdf.princeton.edu/wn30/03272010-n
+- http://wordnet-rdf.princeton.edu/wn31/103255686-n
 Amazon_com_browse_node: 11971381
 Commons_gallery: Electric guitar
 IMDb_keyword: electric-guitar
 Baidu_Tieba_name: 电吉他
+dv_has_:
+  name_:
+    an: guitarra electrica
+    ar: قيثارة كهربائية
+    ary: ڭيطار ديال الضو
+    ast: guitarra llétrica
+    az: elektrogitara
+    azb: الکتریک گیتارا
+    bar: E-Gitarren
+    bcl: Gitarang de-kuryente
+    be: электрагітара
+    be-tarask: электрагітара
+    bg: електрическа китара
+    bn: ইলেকট্রিক গিটার
+    bo: གློག་དཀྲོལ་རྒྱུད་མང་།
+    br: Gitar tredan
+    bs: električna gitara
+    ca: guitarra elèctrica
+    ckb: گیتاری کارەبایی
+    cs: elektrická kytara
+    cy: gitâr drydan
+    da: elektrisk guitar
+    de: Elektrogitarre
+    el: Ηλεκτρική κιθάρα
+    en: electric guitar
+    eo: elektra gitaro
+    es: guitarra eléctrica
+    et: elektrikitarr
+    eu: gitarra elektriko
+    fa: گیتار الکتریک
+    fi: sähkökitara
+    fj: Qita livaliva
+    fr: guitare électrique
+    ga: giotár leictreach
+    gd: giotàr dealain
+    gl: guitarra eléctrica
+    gsw: E-Gitarre
+    gv: gitar lectragh
+    he: גיטרה חשמלית
+    hr: električna gitara
+    hu: elektromos gitár
+    hy: Էլեկտրակիթառ
+    hyw: Ելեկտրակիթառ
+    id: gitar elektrik
+    is: rafmagnsgítar
+    it: chitarra elettrica
+    ja: エレクトリック・ギター
+    jv: gitar listrik
+    ka: ელექტრო გიტარა
+    ko: 전기 기타
+    ku: gîtara elektrîk
+    ku-latn: gîtara elektrîk
+    la: cithara electrica
+    lb: elektresch Gittar
+    lfn: Gitar eletrical
+    lt: elektrinė gitara
+    lv: elektriskā ģitāra
+    mi: kitā hiko
+    mk: електрична гитара
+    ml: ഇലക്ട്രിക് ഗിറ്റാർ
+    mn: Цахилгаан гитар
+    ms: gitar elektrik
+    mt: kitarra elettrika
+    my: လျှပ်စစ်ဂစ်တာ
+    mzn: برقی گیتار
+    nb: elektrisk gitar
+    nl: elektrische gitaar
+    nn: elektrisk gitar
+    os: электрогитарæ
+    pl: gitara elektryczna
+    pt: guitarra elétrica
+    ro: chitară electrică
+    ru: электрогитара
+    scn: chitarra alèttrica
+    sco: electric guitar
+    se: el-gitárra
+    sh: električna gitara
+    shn: တိင်ႇၾႆးၾ
+    sk: elektrická gitara
+    sl: električna kitara
+    smn: šleđgâkiitaar
+    sms: liâdggkitara
+    sq: kitarë elektrike
+    sr: електрична гитара
+    sv: elgitarr
+    szl: Elektryczno gitara
+    ta: மின் கிதார்
+    tg-cyrl: гитори барқӣ
+    th: กีตาร์ไฟฟ้า
+    tl: Gitarang de-kuryente
+    tr: elektro gitar
+    tt: электр гитарасы
+    uk: електрогітара
+    uz: elektrogitara
+    vec: chitara eletrica
+    vi: guitar điện
+    war: dikuryente nga sista
+    wuu: 电吉他
+    yue: 電結他
+    zh: 电吉他
+    zh-hant: 電吉他
+    zh-hk: 電結他
+    zh-tw: 電吉他
 ---
-
 # [[Electric_Guitar]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Electric_guitar,78987|WD~Electric_guitar,78987]] 

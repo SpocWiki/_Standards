@@ -1,8 +1,26 @@
 ---
 has_id_wikidata: Q21463167
+dv_has_:
+  name_:
+    ar: هاشي كورب
+    ca: HashiCorp
+    de: HashiCorp
+    en: HashiCorp
+    es: HashiCorp
+    eu: HashiCorp
+    fa: هاشیکورپ
+    fr: HashiCorp
+    it: HashiCorp
+    ja: HashiCorp
+    mul: HashiCorp
+    nl: HashiCorp
+    pl: HashiCorp
+    pt: HashiCorp
+aliases:
+- HashiCorp
+- هاشي كورب
+- هاشیکورپ
 ---
-
-
 #has_/created :: [[SW~Terraform]] , [[../../../../../../../../Work/APIs/HashiCorp_Vault|HashiCorp Vault]] 
 #has_/created :: Key-Store Software 
 #has_/time_/started :: 2012-06-01 

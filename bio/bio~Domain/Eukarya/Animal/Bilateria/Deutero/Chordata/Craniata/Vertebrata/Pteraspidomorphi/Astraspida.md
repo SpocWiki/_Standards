@@ -1,8 +1,37 @@
 ---
 aliases:
-  - Astraspida
+- Astraspida
+- Astraspidy
+- اخترسپران
+- 星甲魚亞綱
 title: Astraspida
 has_id_wikidata: Q14524396
+dv_has_:
+  name_:
+    ast: Astraspida
+    bg: Astraspida
+    ceb: Astraspida
+    de: Astraspida
+    en: Astraspida
+    es: Astraspida
+    fa: اخترسپران
+    fi: Astraspida
+    fr: Astraspida
+    ga: Astraspida
+    it: Astraspida
+    la: Astraspida
+    mul: Astraspida
+    nl: Astraspida
+    pl: Astraspidy
+    pt: Astraspida
+    ro: Astraspida
+    ru: Astraspida
+    sq: Astraspida
+    uk: Astraspida
+    vec: Astraspida
+    vi: Astraspida
+    war: Astraspida
+    zh: 星甲魚亞綱
 ---
 # [[Astraspida]]
 

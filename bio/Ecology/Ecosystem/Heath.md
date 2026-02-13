@@ -1,21 +1,134 @@
 ---
 aliases:
+- brezal
+- Brucal
+- charneca
+- erikejo
+- fenyér
+- fraochmhá
+- fundalık
+- Gorbizal
+- heath
+- hed
+- hede
+- heed
+- Heedelound
+- hei
+- Heid
+- Heide
+- Hias
+- Hoad
+- Hǣþ
+- kemmyndir
+- Lahan kosong
+- landa
+- lande
+- Landă
+- Lanneg
+- nummi
+- nõmm
+- pustolän
+- resavje
+- rhostir
+- Uceira
+- virsājs
+- Viržynas
+- vresovisko
+- Vriština
+- vřesoviště
+- wrzosowisko
+- Y Mynydd Bychan
+- Zakardi
+- χερσότοπος
+- вресиште
+- куштос
+- пустище
+- пустка
+- пустош
+- пустошь
+- Хит
+- أرض خلنج
+- خلنگزار
+- ヒース
+- 石楠荒原
+- 히스
 has_id_wikidata: Q27590
-different_from: "[[_Standards/WikiData/WD~abandoned_village,350895]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: '[[_Standards/WikiData/WD~abandoned_village,350895]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~shrubland,879641]]"
-  - "[[_Standards/WikiData/WD~landscape_type,1803829]]"
+- '[[_Standards/WikiData/WD~shrubland,879641]]'
+- '[[_Standards/WikiData/WD~landscape_type,1803829]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~landscape_type,1803829]]"
-  - "[[_Standards/WikiData/WD~syntaxon,2471463]]"
+- '[[_Standards/WikiData/WD~landscape_type,1803829]]'
+- '[[_Standards/WikiData/WD~syntaxon,2471463]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20back%20valley%20gnangarra.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000107
 Commons_category: Heathland
 GeoNames_feature_code: V.HTH
 OpenStreetMap_tag: natural=heath
+dv_has_:
+  name_:
+    an: Brucal
+    ang: Hǣþ
+    ar: أرض خلنج
+    ast: Gorbizal
+    bar: Hoad
+    be: пустка
+    be-tarask: пустка
+    bg: пустош
+    br: Lanneg
+    ca: landa
+    ce: Пустошь
+    cs: vřesoviště
+    cy: rhostir
+    da: hede
+    de: Heide
+    el: χερσότοπος
+    en: heath
+    eo: erikejo
+    es: brezal
+    et: nõmm
+    eu: Zakardi
+    fa: خلنگزار
+    fi: nummi
+    fr: lande
+    frr: Hias
+    fy: Heide
+    ga: fraochmhá
+    gd: Y Mynydd Bychan
+    gl: Uceira
+    hu: fenyér
+    id: Lahan kosong
+    it: landa
+    ja: ヒース
+    kk: Хит
+    ko: 히스
+    kw: kemmyndir
+    lt: Viržynas
+    lv: virsājs
+    mk: вресиште
+    nb: hede
+    nds: Heid
+    nds-nl: heed
+    nl: heide
+    nn: hei
+    pl: wrzosowisko
+    pt: charneca
+    ro: Landă
+    ru: пустошь
+    sh: Vriština
+    sk: vresovisko
+    sl: resavje
+    sr: Vriština
+    stq: Heedelound
+    sv: hed
+    tr: fundalık
+    udm: куштос
+    uk: пустище
+    vep: pustolän
+    yue: 石楠荒原
+    zh: 石楠荒原
 ---
-
 # [[Heath]] 
 
 #is_/same_as :: [[WD~Heath,27590]] 

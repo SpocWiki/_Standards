@@ -1,8 +1,208 @@
 ---
 aliases:
-  - Brad Pitt
-  - Pitt,Brad
+- Brad Pitt
+- Bred Pitt
+- Bredli Pitt
+- Breds Pits
+- Pitt,Brad
+- Μπραντ Πιτ
+- Брад Пит
+- Бред Пітт
+- Бред Пит
+- Бред Питт
+- Брэд Піт
+- Брэд Питт
+- Բրեդ Փիթ
+- בראד פיט
+- ברעד פיט
+- براد بيت
+- براد پيت
+- براد پیت
+- براډ پېت
+- برد پیت
+- بريڊ پٽ
+- برٛیڈ پِٹ
+- بریڈ پٹ
+- ब्राड पिट
+- ब्रॅड पिट
+- ब्रैड पिट
+- ব্র্যাড পিট
+- ਬਰਡੋ ਮੋਟ
+- ବ୍ରାଡ୍ ପିଟ୍
+- பிராட் பிட்
+- బ్రాడ్ పిట్
+- ಬ್ರ್ಯಾಡ್ ಪಿಟ್
+- ബ്രാഡ് പിറ്റ്
+- แบรด พิตต์
+- པ་རའི་པི་ཏ།
+- ဘရက်ပစ်
+- ბრედ პიტი
+- ប្រេដ ភីត
+- ᱵᱨᱮᱰ ᱯᱤᱴ
+- ブラッド・ピット
+- 孛拉特 皮此
+- 布拉德·皮特
+- 布莱德·毕特
+- 布萊德·彼特
+- 毕·彼特
+- 畢彼特
+- 브래드 피트
 has_id_wikidata: Q35332
+dv_has_:
+  name_:
+    ace: Brad Pitt
+    ady: Брэд Питт
+    af: Brad Pitt
+    an: Brad Pitt
+    ar: براد بيت
+    ary: براد پيت
+    arz: براد پيت
+    ast: Brad Pitt
+    az: Bred Pitt
+    azb: برد پیت
+    ban: Brad Pitt
+    bar: Brad Pitt
+    be: Брэд Піт
+    be-tarask: Брэд Піт
+    bg: Брад Пит
+    bn: ব্র্যাড পিট
+    bo: པ་རའི་པི་ཏ།
+    br: Brad Pitt
+    bs: Brad Pitt
+    ca: Brad Pitt
+    ckb: براد پیت
+    co: Brad Pitt
+    cs: Brad Pitt
+    cv: Брэд Питт
+    cy: Brad Pitt
+    da: Brad Pitt
+    de: Brad Pitt
+    de-ch: Brad Pitt
+    diq: Brad Pitt
+    dty: ब्राड पिट
+    ee: Brad Pitt
+    el: Μπραντ Πιτ
+    eml: Brad Pitt
+    en: Brad Pitt
+    en-ca: Brad Pitt
+    en-gb: Brad Pitt
+    en-us: Brad Pitt
+    eo: Brad Pitt
+    es: Brad Pitt
+    et: Brad Pitt
+    eu: Brad Pitt
+    ext: Brad Pitt
+    fa: برد پیت
+    fi: Brad Pitt
+    fr: Brad Pitt
+    frp: Brad Pitt
+    fy: Brad Pitt
+    ga: Brad Pitt
+    gd: Brad Pitt
+    gl: Brad Pitt
+    gsw: Brad Pitt
+    gv: Brad Pitt
+    ha: Brad Pitt
+    hak: Brad Pitt
+    he: בראד פיט
+    hi: ब्रैड पिट
+    hr: Brad Pitt
+    ht: Brad Pitt
+    hu: Brad Pitt
+    hy: Բրեդ Փիթ
+    ia: Brad Pitt
+    id: Brad Pitt
+    ig: Brad Pitt
+    ilo: Brad Pitt
+    io: Brad Pitt
+    is: Brad Pitt
+    it: Brad Pitt
+    ja: ブラッド・ピット
+    jut: Brad Pitt
+    jv: Brad Pitt
+    ka: ბრედ პიტი
+    kk: Брэд Питт
+    km: ប្រេដ ភីត
+    kn: ಬ್ರ್ಯಾಡ್ ಪಿಟ್
+    ko: 브래드 피트
+    ks: برٛیڈ پِٹ
+    ku: Brad Pitt
+    kw: Brad Pitt
+    ky: Бред Питт
+    la: Brad Pitt
+    lb: Brad Pitt
+    li: Brad Pitt
+    lt: Brad Pitt
+    lv: Breds Pits
+    mai: ब्राड पिट
+    mg: Brad Pitt
+    mk: Бред Пит
+    ml: ബ്രാഡ് പിറ്റ്
+    mn: Брэд Питт
+    mr: ब्रॅड पिट
+    ms: Brad Pitt
+    mul: Brad Pitt
+    my: ဘရက်ပစ်
+    mzn: برد پیت
+    nah: Brad Pitt
+    nan: Brad Pitt
+    nb: Brad Pitt
+    ne: ब्राड पिट
+    nl: Brad Pitt
+    nn: Brad Pitt
+    oc: Brad Pitt
+    or: ବ୍ରାଡ୍ ପିଟ୍
+    pa: ਬਰਡੋ ਮੋਟ
+    pag: Brad Pitt
+    pap: Brad Pitt
+    pih: Brad Pitt
+    pl: Brad Pitt
+    pms: Brad Pitt
+    ps: براډ پېت
+    pt: Brad Pitt
+    pt-br: Brad Pitt
+    qu: Brad Pitt
+    ro: Brad Pitt
+    ru: Брэд Питт
+    sat: ᱵᱨᱮᱰ ᱯᱤᱴ
+    sco: Brad Pitt
+    sd: بريڊ پٽ
+    sh: Brad Pitt
+    sk: Brad Pitt
+    sl: Brad Pitt
+    smn: Brad Pitt
+    sq: Brad Pitt
+    sr: Бред Пит
+    su: Brad Pitt
+    sv: Brad Pitt
+    ta: பிராட் பிட்
+    te: బ్రాడ్ పిట్
+    tg: Бред Пит
+    th: แบรด พิตต์
+    tk: Bredli Pitt
+    tl: Brad Pitt
+    tr: Brad Pitt
+    tt: Брэд Питт
+    tyv: Бред Питт
+    uk: Бред Пітт
+    ur: بریڈ پٹ
+    uz: Brad Pitt
+    vi: Brad Pitt
+    vo: Brad Pitt
+    war: Brad Pitt
+    wuu: 孛拉特 皮此
+    xmf: ბრედ პიტი
+    yi: ברעד פיט
+    yo: Brad Pitt
+    yue: 畢彼特
+    zh: 布拉德·皮特
+    zh-cn: 布拉德·皮特
+    zh-hans: 布拉德·皮特
+    zh-hant: 布拉德·皮特
+    zh-hk: 畢彼特
+    zh-my: 毕·彼特
+    zh-sg: 布莱德·毕特
+    zh-tw: 布萊德·彼特
 ---
 #has_/time_/started :: 1963-12-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

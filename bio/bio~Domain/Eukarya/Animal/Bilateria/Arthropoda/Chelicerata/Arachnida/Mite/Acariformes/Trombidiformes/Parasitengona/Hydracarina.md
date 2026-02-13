@@ -1,11 +1,79 @@
 ---
 aliases:
-  - Hydracarina
-  - Hydrachnidiae
-  - Hydrachnidia
-  - Hydrachnellae
+- Hydracarina
+- Hydrachnellae
+- Hydrachnidae
+- Hydrachnidia
+- Hydrachnidiae
+- Süßwassermilben
+- Vannmidder
+- Vattenkvalster
+- Vesilestad
+- vesipunkit
+- Vodule
+- Waassermilben
+- Wodopójki
+- ūdensērces
+- вадзяныя кляшчы
+- водни крлежи
+- Водяные клещи
+- Гидрахнеллалар
+- Су кенелері
+- ഹൈഡ്രാചിന്ത്യ
+- 水螨亚股
+- 水蟎亞股
 title: Hydracarina
 has_id_wikidata: Q631774
+dv_has_:
+  name_:
+    an: Hydrachnidiae
+    ast: Hydrachnidiae
+    be: вадзяныя кляшчы
+    bg: Hydrachnidiae
+    ca: Hydrachnidiae
+    ceb: Hydrachnidiae
+    cs: Vodule
+    de: Süßwassermilben
+    en: Hydrachnidiae
+    eo: Hydrachnidiae
+    es: Hydrachnidiae
+    et: Vesilestad
+    eu: Hydrachnidiae
+    ext: Hydrachnidiae
+    fi: vesipunkit
+    fr: Hydrachnidiae
+    ga: Hydrachnidiae
+    gl: Hydrachnidiae
+    ia: Hydrachnidiae
+    ie: Hydrachnidiae
+    io: Hydrachnidiae
+    it: Hydrachnidiae
+    kk: Су кенелері
+    ky: Гидрахнеллалар
+    la: Hydrachnidiae
+    lb: Waassermilben
+    lv: ūdensērces
+    mk: водни крлежи
+    ml: ഹൈഡ്രാചിന്ത്യ
+    mul: Hydrachnidiae
+    nb: Vannmidder
+    nl: Hydrachnidiae
+    oc: Hydrachnidiae
+    pl: Wodopójki
+    pt: Hydrachnidiae
+    pt-br: Hydrachnidiae
+    ro: Hydrachnidae
+    ru: Водяные клещи
+    sq: Hydrachnidiae
+    sv: Vattenkvalster
+    uk: Hydrachnidiae
+    vi: Hydrachnidiae
+    vo: Hydrachnidiae
+    war: Hydrachnidiae
+    zh: 水螨亚股
+    zh-cn: 水螨亚股
+    zh-hans: 水螨亚股
+    zh-tw: 水蟎亞股
 ---
 # [[Hydracarina]]
 

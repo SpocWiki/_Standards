@@ -1,8 +1,45 @@
 ---
 has_id_wikidata: Q1502889
+dv_has_:
+  name_:
+    bn: ভূ-বেড়া
+    ca: geo-tanca
+    de: Geofencing
+    en: geofencing
+    es: geovalla
+    fa: حصار جغرافیایی
+    fr: Gardiennage virtuel
+    he: גדר גאוגרפית
+    it: geo-fence
+    ja: ジオフェンス
+    ko: 지오펜스
+    ms: geobatas
+    nb: geogjerde
+    pa: ਭੂ-ਵਾੜ
+    ru: геозоны
+    sl: geoograjevanje
+    sv: geofencing
+    tr: coğrafi çit
+    zh: 地理围栏
+aliases:
+- coğrafi çit
+- Gardiennage virtuel
+- geo-fence
+- geo-tanca
+- geobatas
+- Geofencing
+- geogjerde
+- geoograjevanje
+- geovalla
+- геозоны
+- גדר גאוגרפית
+- حصار جغرافیایی
+- ভূ-বেড়া
+- ਭੂ-ਵਾੜ
+- ジオフェンス
+- 地理围栏
+- 지오펜스
 ---
-
-
 # [[Geofence]] 
 
 ## #has_/text_of_/abstract 

@@ -1,30 +1,88 @@
 ---
 aliases:
-  - Zodiac~Indus
+- an tIndiach
+- Gwiazdozbiór Indianina
+- Hindi
+- Hindu csillagkép
+- Indi
+- Indiaan
+- Indiaanlane
+- Indian
+- Indianaren
+- Indianen
+- Indianeren
+- Indiano
+- Indianul
+- Indien
+- Indijanac
+- Indijanec
+- Indián
+- Indiër
+- Indiānis
+- Indus
+- Indus (konstelazioa)
+- Indus (ranneves)
+- Indus (taxımestare)
+- Indus Chō
+- Indíáninn
+- Indėnas
+- Intiaani
+- Mhindi
+- Yin-thi-ôn-chho
+- yn Injinagh
+- Zodiac~Indus
+- Éng-dê-ăng-cô̤
+- Ινδός
+- Індіанець
+- Індзеец
+- Индеец
+- Индијанец
+- Индианец
+- Индиец
+- Индус
+- Һинд йолдызлыгы
+- Հնդիկ
+- אינדיאני
+- القوس (كوكبه)
+- الهندي
+- انڈس تارا جھرمٹ
+- هندی
+- ہندی (مجمع النجوم)
+- हिन्दी तारामंडल
+- সিন্ধু মণ্ডল
+- இந்திய விண்மீன் குழாம்
+- സിന്ധു
+- กลุ่มดาวอินเดียนแดง
+- အင်းဒတ် (ကြယ်စုတန်း)
+- ინდოელი
+- Ấn Đệ An
+- インディアン座
+- 印第安座
+- 인디언자리
 has_id_wikidata: Q10450
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729034,10729034]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Indus,14336010]]"
+- '[[_Standards/WikiData/WD~Q10729034,10729034]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Indus,14336010]]'
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Octans,10503]]"
-  - "[[_Standards/WikiData/WD~Pavo,10515]]"
-  - "[[_Standards/WikiData/WD~Telescopium,10546]]"
-  - "[[_Standards/WikiData/WD~Grus,10563]]"
-  - "[[_Standards/WikiData/WD~Tucana,10567]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
-named_after: "[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747]]"
+- '[[_Standards/WikiData/WD~Sagittarius,8866]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Octans,10503]]'
+- '[[_Standards/WikiData/WD~Pavo,10515]]'
+- '[[_Standards/WikiData/WD~Telescopium,10546]]'
+- '[[_Standards/WikiData/WD~Grus,10563]]'
+- '[[_Standards/WikiData/WD~Tucana,10567]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+named_after: '[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747]]'
 area: 294
 official_name: Indus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Indus.jpg
@@ -36,34 +94,113 @@ short_name: Ind
 dv_SpocWebEntityId: 28126
 dv_has_:
   name_:
+    af: Indiër
+    ar: الهندي
+    arz: القوس (كوكبه)
+    az: Hindi
+    ba: Индиец
+    be: Індзеец
+    be-tarask: Індзеец
+    bg: Индианец
+    bn: সিন্ধু মণ্ডল
+    br: Indian
+    bs: Indijanac
+    ca: Indi
+    cdo: Éng-dê-ăng-cô̤
+    co: Indus
+    cs: Indián
+    cy: Indus
+    da: Indianeren
+    de: Indus
+    diq: Indus (taxımestare)
+    el: Ινδός
+    en: Indus
+    eo: Indiano
+    es: Indus
+    et: Indiaanlane
+    eu: Indus (konstelazioa)
+    fa: هندی
+    fi: Intiaani
+    fr: Indien
+    ga: an tIndiach
+    gl: Indus
+    gv: yn Injinagh
+    hak: Yin-thi-ôn-chho
+    he: אינדיאני
+    hi: हिन्दी तारामंडल
+    hr: Indijanac
+    hu: Hindu csillagkép
+    hy: Հնդիկ
+    id: Indus
+    is: Indíáninn
+    it: Indiano
+    ja: インディアン座
+    jv: Indus
+    ka: ინდოელი
+    ko: 인디언자리
+    kw: Indus (ranneves)
     la: Indus
     la_:
       genitive: Indi
-    de: Inder
+    lb: Indus
+    lt: Indėnas
+    lv: Indiānis
+    mk: Индијанец
+    ml: സിന്ധു
+    ms: Indian
+    my: အင်းဒတ် (ကြယ်စုတန်း)
+    nan: Indus Chō
+    nb: Indianeren
+    nl: Indiaan
+    nn: Indianaren
+    pl: Gwiazdozbiór Indianina
+    pnb: انڈس تارا جھرمٹ
+    pt: Indus
+    ro: Indianul
+    ru: Индеец
+    sah: Индеец
+    sh: Indijanac
+    sk: Indián
+    sl: Indijanec
+    sr: Индус
+    sv: Indianen
+    sw: Mhindi
+    ta: இந்திய விண்மீன் குழாம்
+    th: กลุ่มดาวอินเดียนแดง
+    tr: Indus
+    tt: Һинд йолдызлыгы
+    udm: Индеец
+    uk: Індіанець
+    ur: ہندی (مجمع النجوم)
+    vec: Indian
+    vi: Ấn Đệ An
+    war: Indus
+    wuu: 印第安座
+    yue: 印第安座
+    zh: 印第安座
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Indus,10450]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Indus|Zodiac~Indus]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Indus.public|Zodiac~Indus.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal|Zodiac~Indus.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect|Zodiac~Indus.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Indus.private|Zodiac~Indus.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal|Zodiac~Indus.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret|Zodiac~Indus.secret]]"
+  - '[[_Standards/WikiData/WD~Indus,10450]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Indus|Zodiac~Indus]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Indus.public|Zodiac~Indus.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal|Zodiac~Indus.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect|Zodiac~Indus.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Indus.private|Zodiac~Indus.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal|Zodiac~Indus.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret|Zodiac~Indus.secret]]'
 dv_has_name_la: Indus
 dv_has_name_la_genitive: Indi
 dv_has_name_de: Inder
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Indus,10450]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Indus|Zodiac~Indus]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Indus.public|Zodiac~Indus.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal|Zodiac~Indus.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect|Zodiac~Indus.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Indus.private|Zodiac~Indus.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal|Zodiac~Indus.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret|Zodiac~Indus.secret]]"
+- '[[_Standards/WikiData/WD~Indus,10450]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Indus|Zodiac~Indus]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Indus.public|Zodiac~Indus.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal|Zodiac~Indus.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect|Zodiac~Indus.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Indus.private|Zodiac~Indus.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal|Zodiac~Indus.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret|Zodiac~Indus.secret]]'
 ---
-
 # [[Zodiac~Indus]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

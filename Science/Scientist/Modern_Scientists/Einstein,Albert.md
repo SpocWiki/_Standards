@@ -1,155 +1,241 @@
 ---
 aliases:
-  - Albert Einstein
-  - Einstein,Albert
+- Albert Anjshtajn
+- Albert Einstein
+- Albert Ejnštejn
+- Albert Eynşteyn
+- Albert Eýnşteýn
+- albert. ainctain
+- Albertas Einšteinas
+- Alberti Anistaayin
+- Alberto ainstain
+- Alberts Einšteins
+- Albertus Einstein
+- Albet Énstén
+- Albirt Ayncṭayn
+- Alboert Ainstain
+- Albérit Éynishtéyn
+- Alpute.ayinsedan
+- Alubbaati Ansitayini
+- Einstein,Albert
+- Einsteini Albert
+- Einštein Al'bert
+- Hastiin Albert Einstein
+- jan Ape Ansan
+- Άλμπερτ Αϊνστάιν
+- Алберт Ајнштајн
+- Алберт Айнштайн
+- Алберт Айнщайн
+- Алберт Еинштеин
+- Алберт Эйнштейн
+- Альберт Айнштайн
+- Альберт Эйнштейн
+- Альберт Эйнштэйн
+- Альбэрт Айнштайн
+- Эйнштейн Альберт
+- Эйнштейн, Алберт
+- Эйнштейн, Альберт
+- Ալբերտ Այնշտայն
+- Ալպերթ Այնշթայն
+- אלבערט איינשטיין
+- אלברט איינשטיין
+- آئن سٹائن
+- آلبرت انیشتین
+- آلبرت اینشتین
+- آلبرټ آينشټاين
+- آلورت انیشتین
+- ألبارت إنشتاين
+- ألبرت أينشتاين
+- ألبيرط أينشطاين
+- ئالبېرىت ئېينىشتېين
+- ئەلبەرت ئاینشتاین
+- البرت اينشتاين
+- البرٹ آئنسٹائن
+- البرٽ آئنسٽائن
+- اَلبرٹ آنِسٹایِن
+- ایلبرٹ آئینسٹائن
+- ߊߟߑߓߍߙ ߍ߲ߛߑߕߍ߲߫
+- अल्बर्ट आइंस्टीन
+- अल्बर्ट आइनस्टाइन
+- अल्बर्ट आइन्स्टाइन
+- अल्बर्ट ऐन्स्टायिन्
+- आइन्स्टाइन, आल्बर्ट
+- আলবার্ট আইনস্টাইন
+- এলবাৰ্ট আইনষ্টাইন
+- ਐਲਬਰਟ ਆਈਨਸਟਾਈਨ
+- આલ્બર્ટ આઈન્સ્ટાઈન
+- ଆଲବର୍ଟ ଆଇନଷ୍ଟାଇନ
+- ஆல்பர்ட் ஐன்ஸ்டைன்
+- ఆల్బర్ట్ ఐన్ స్టీన్
+- ಅಲ್ಬರ್ಟ್ ಐನ್ ಸ್ಟೈನ್
+- ಆಲ್ಬರ್ಟ್ ಐನ್ಸ್ಟೀನ್
+- ആൽബർട്ട് ഐൻസ്റ്റൈൻ
+- ඇල්බට් අයින්ස්ටයින්
+- อัลเบิร์ต ไอน์สไตน์
+- ແອລເບີຣີ ອີນສະໄຕນ໌
+- ཨལ་བྷར་ཀྲི་ཨ་ཡན་སི་ཊཎ།
+- အဲလ်ဘတ် အိုင်းစတိုင်း
+- ალბერტ აინშტაინი
+- አልበርት አይንስታይን
+- អាល់បឺត អែងស្តែង
+- ᱟᱞᱵᱚᱨᱴ ᱟᱭᱤᱱᱥᱴᱟᱭᱤᱱ
+- ⴰⵍⴱⵉⵔⵜ ⴰⵢⵏⵛⵟⴰⵢⵏ
+- アルベルト・アインシュタイン
+- 亞伯特·愛因斯坦
+- 愛因斯坦
+- 艾拔·愛因斯坦
+- 阿尔伯特·爱因斯坦
+- 阿爾伯特·愛因斯坦
+- ꯑꯜꯕꯔ꯭ꯠ ꯑꯥꯢꯟꯁ꯭ꯇꯥꯢꯟ
+- 알베르트 아인슈타인
 has_id_wikidata: Q937
 relative:
-  - '[[_Standards/WikiData/WD~Elsa_Einstein,68761]]'
-  - '[[_Standards/WikiData/WD~Lina_Einstein,55594631]]'
+- '[[_Standards/WikiData/WD~Elsa_Einstein,68761]]'
+- '[[_Standards/WikiData/WD~Lina_Einstein,55594631]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Elsa_Einstein,68761]]'
-  - '[[_Standards/WikiData/WD~Mileva_Marić,76346]]'
+- '[[_Standards/WikiData/WD~Elsa_Einstein,68761]]'
+- '[[_Standards/WikiData/WD~Mileva_Marić,76346]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~photoelectric_effect,83213]]'
-  - '[[_Standards/WikiData/WD~Planck_constant,122894]]'
-  - '[[_Standards/WikiData/WD~Einstein_field_equations,273711]]'
-  - '[[_Standards/WikiData/WD~stimulated_emission,853656]]'
-  - '[[_Standards/WikiData/WD~unified_field_theory,1080745]]'
-  - '[[_Standards/WikiData/WD~theory_of_Brownian_Motion,56100717]]'
-  - '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
-  - '[[_Standards/WikiData/WD~special_relativity,11455]]'
-  - '[[_Standards/WikiData/WD~general_relativity,11452]]'
-  - '[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]'
-  - '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
+- '[[_Standards/WikiData/WD~photoelectric_effect,83213]]'
+- '[[_Standards/WikiData/WD~Planck_constant,122894]]'
+- '[[_Standards/WikiData/WD~Einstein_field_equations,273711]]'
+- '[[_Standards/WikiData/WD~stimulated_emission,853656]]'
+- '[[_Standards/WikiData/WD~unified_field_theory,1080745]]'
+- '[[_Standards/WikiData/WD~theory_of_Brownian_Motion,56100717]]'
+- '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+- '[[_Standards/WikiData/WD~special_relativity,11455]]'
+- '[[_Standards/WikiData/WD~general_relativity,11452]]'
+- '[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]'
+- '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
 student: '[[_Standards/WikiData/WD~Ernst_G._Straus,87554]]'
 father: '[[_Standards/WikiData/WD~Hermann_Einstein,88665]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Ernst_Mach,93996]]'
-  - '[[_Standards/WikiData/WD~Paul_Valéry,200639]]'
-  - '[[_Standards/WikiData/WD~Karl_Pearson,310794]]'
-  - '[[../../../WikiData/WD~Henry_George,355245]]'
-  - '[[_Standards/WikiData/WD~Riazuddin,7322195]]'
-  - '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-  - '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]'
-  - '[[_Standards/WikiData/WD~Mahatma_Gandhi,1001]]'
-  - '[[_Standards/WikiData/WD~James_Clerk_Maxwell,9095]]'
-  - '[[_Standards/WikiData/WD~George_Bernard_Shaw,19185]]'
-  - '[[_Standards/WikiData/WD~Thomas_Young,25820]]'
-  - '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
-  - '[[_Standards/WikiData/WD~David_Hume,37160]]'
-  - '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]'
-  - '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688]]'
-  - '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
-  - '[[_Standards/WikiData/WD~Moritz_Schlick,57193]]'
-  - '[[_Standards/WikiData/WD~Hermann_Minkowski,57246]]'
+- '[[_Standards/WikiData/WD~Ernst_Mach,93996]]'
+- '[[_Standards/WikiData/WD~Paul_Valéry,200639]]'
+- '[[_Standards/WikiData/WD~Karl_Pearson,310794]]'
+- '[[../../../WikiData/WD~Henry_George,355245]]'
+- '[[_Standards/WikiData/WD~Riazuddin,7322195]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
+- '[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]'
+- '[[_Standards/WikiData/WD~Mahatma_Gandhi,1001]]'
+- '[[_Standards/WikiData/WD~James_Clerk_Maxwell,9095]]'
+- '[[_Standards/WikiData/WD~George_Bernard_Shaw,19185]]'
+- '[[_Standards/WikiData/WD~Thomas_Young,25820]]'
+- '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
+- '[[_Standards/WikiData/WD~David_Hume,37160]]'
+- '[[_Standards/WikiData/WD~Arthur_Schopenhauer,38193]]'
+- '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688]]'
+- '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
+- '[[_Standards/WikiData/WD~Moritz_Schlick,57193]]'
+- '[[_Standards/WikiData/WD~Hermann_Minkowski,57246]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Heinrich_Burkhardt,97154]]'
-  - '[[_Standards/WikiData/WD~Heinrich_Friedrich_Weber,116635]]'
-  - '[[_Standards/WikiData/WD~Alfred_Kleiner,4175282]]'
+- '[[_Standards/WikiData/WD~Heinrich_Burkhardt,97154]]'
+- '[[_Standards/WikiData/WD~Heinrich_Friedrich_Weber,116635]]'
+- '[[_Standards/WikiData/WD~Alfred_Kleiner,4175282]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Heinrich_Friedrich_Weber,116635]]'
-  - '[[_Standards/WikiData/WD~Hermann_Minkowski,57246]]'
+- '[[_Standards/WikiData/WD~Heinrich_Friedrich_Weber,116635]]'
+- '[[_Standards/WikiData/WD~Hermann_Minkowski,57246]]'
 child:
-  - '[[_Standards/WikiData/WD~Eduard_Einstein,118253]]'
-  - '[[_Standards/WikiData/WD~Hans_Albert_Einstein,123371]]'
-  - '[[_Standards/WikiData/WD~Lieserl_(Einstein),468357]]'
+- '[[_Standards/WikiData/WD~Eduard_Einstein,118253]]'
+- '[[_Standards/WikiData/WD~Hans_Albert_Einstein,123371]]'
+- '[[_Standards/WikiData/WD~Lieserl_(Einstein),468357]]'
 position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
-  - '[[_Standards/WikiData/WD~Brazilian_Academy_of_Sciences,2497232]]'
-  - '[[_Standards/WikiData/WD~Centre_international_de_synthèse,2945826]]'
-  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Brazilian_Academy_of_Sciences,2497232]]'
+- '[[_Standards/WikiData/WD~Centre_international_de_synthèse,2945826]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
 medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Princeton,138518]]'
-  - '[[_Standards/WikiData/WD~Caputh,464344]]'
-  - '[[_Standards/WikiData/WD~Prague,1085]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Bern,70]]'
-  - '[[_Standards/WikiData/WD~Zurich,72]]'
+- '[[_Standards/WikiData/WD~Princeton,138518]]'
+- '[[_Standards/WikiData/WD~Caputh,464344]]'
+- '[[_Standards/WikiData/WD~Prague,1085]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Bern,70]]'
+- '[[_Standards/WikiData/WD~Zurich,72]]'
 residence:
-  - '[[_Standards/WikiData/WD~Princeton,138518]]'
-  - '[[_Standards/WikiData/WD~Einsteinhaus,390003]]'
-  - '[[_Standards/WikiData/WD~Smíchov,942842]]'
-  - '[[_Standards/WikiData/WD~Einsteinhaus_Caputh,1309294]]'
-  - '[[_Standards/WikiData/WD~Munich,1726]]'
-  - '[[_Standards/WikiData/WD~Schaffhausen,9009]]'
+- '[[_Standards/WikiData/WD~Princeton,138518]]'
+- '[[_Standards/WikiData/WD~Einsteinhaus,390003]]'
+- '[[_Standards/WikiData/WD~Smíchov,942842]]'
+- '[[_Standards/WikiData/WD~Einsteinhaus_Caputh,1309294]]'
+- '[[_Standards/WikiData/WD~Munich,1726]]'
+- '[[_Standards/WikiData/WD~Schaffhausen,9009]]'
 place_of_death: '[[_Standards/WikiData/WD~Princeton,138518]]'
 employer:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
-  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
-  - '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Institute_for_Advanced_Study,635642]]'
-  - '[[_Standards/WikiData/WD~University_of_Bern,659080]]'
-  - '[[_Standards/WikiData/WD~Swiss_Federal_Institute_of_Intellectual_Property,685539]]'
-  - '[[_Standards/WikiData/WD~Kaiser_Wilhelm_Society,708038]]'
-  - '[[_Standards/WikiData/WD~Deutsche_Physikalische_Gesellschaft,819187]]'
-  - '[[_Standards/WikiData/WD~German_University_in_Prague,1729754]]'
-  - '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-  - '[[_Standards/WikiData/WD~Charles_University,31519]]'
-  - '[[_Standards/WikiData/WD~Bern,70]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+- '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Institute_for_Advanced_Study,635642]]'
+- '[[_Standards/WikiData/WD~University_of_Bern,659080]]'
+- '[[_Standards/WikiData/WD~Swiss_Federal_Institute_of_Intellectual_Property,685539]]'
+- '[[_Standards/WikiData/WD~Kaiser_Wilhelm_Society,708038]]'
+- '[[_Standards/WikiData/WD~Deutsche_Physikalische_Gesellschaft,819187]]'
+- '[[_Standards/WikiData/WD~German_University_in_Prague,1729754]]'
+- '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Charles_University,31519]]'
+- '[[_Standards/WikiData/WD~Bern,70]]'
 doctoral_student: '[[_Standards/WikiData/WD~Leó_Szilárd,153238]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
-  - '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
-  - '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
-  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
-  - '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctorate_from_the_University_of_Geneva,25287226]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hebrew_University_of_Jerusalem,28861731]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_National_Academy_of_Sciences_of_the_United_States,63315195]]'
-  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
-  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
+- '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
+- '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
+- '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Honorary_doctorate_from_the_University_of_Geneva,25287226]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hebrew_University_of_Jerusalem,28861731]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
+- '[[_Standards/WikiData/WD~Member_of_the_National_Academy_of_Sciences_of_the_United_States,63315195]]'
+- '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+- '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
-  - '[[_Standards/WikiData/WD~statelessness,223050]]'
-  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Switzerland,39]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
-  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+- '[[_Standards/WikiData/WD~statelessness,223050]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
 occupation: '[[_Standards/WikiData/WD~physicist,169470]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
-  - '[[_Standards/WikiData/WD~old_Kantonsschule_(Albert_Einstein_House),435651]]'
-  - '[[_Standards/WikiData/WD~Luitpold_Gymnasium,1876751]]'
-  - '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
+- '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+- '[[_Standards/WikiData/WD~old_Kantonsschule_(Albert_Einstein_House),435651]]'
+- '[[_Standards/WikiData/WD~Luitpold_Gymnasium,1876751]]'
+- '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
 sibling: '[[_Standards/WikiData/WD~Maja_Einstein,216738]]'
 member_of_political_party: '[[_Standards/WikiData/WD~German_Democratic_Party,328195]]'
 professorship:
-  - '[[_Standards/WikiData/WD~academician,414528]]'
-  - '[[_Standards/WikiData/WD~full_professor,25339110]]'
+- '[[_Standards/WikiData/WD~academician,414528]]'
+- '[[_Standards/WikiData/WD~full_professor,25339110]]'
 given_name: '[[_Standards/WikiData/WD~Q577011,577011]]'
 described_by_source: '[[_Standards/WikiData/WD~Historical_Dictionary_of_Switzerland,642074]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]'
-  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
-  - '[[_Standards/WikiData/WD~Albert_Einstein_Archives,22095877]]'
-  - '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
+- '[[_Standards/WikiData/WD~Swiss_Literary_Archives,675617]]'
+- '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+- '[[_Standards/WikiData/WD~Albert_Einstein_Archives,22095877]]'
+- '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~pantheism,728455]]'
 place_of_burial: '[[_Standards/WikiData/WD~National_Museum_of_Health_and_Medicine,902624]]'
 assessment: '[[_Standards/WikiData/WD~intelligence_test,1051792]]'
@@ -160,13 +246,13 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Einstein,8092556]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-  - '[[_Standards/WikiData/WD~Q134895452,134895452]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Q134895452,134895452]]'
 family_name: '[[_Standards/WikiData/WD~Einstein,16834800]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy_in_Physics,19693354]]'
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Albert_Einstein,21200226]]'
-  - '[[_Standards/WikiData/WD~Q25696257,25696257]]'
+- '[[_Standards/WikiData/WD~Albert_Einstein,21200226]]'
+- '[[_Standards/WikiData/WD~Q25696257,25696257]]'
 present_in_work: '[[_Standards/WikiData/WD~Marie_Curie_The_Courage_of_Knowledge,26963166]]'
 Plex_person_key: 5d77686e8718ba001e31befd
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Albert_Einstein,48835067]]'
@@ -175,8 +261,8 @@ copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_hav
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 significant_event: '[[_Standards/WikiData/WD~Nobel_Prize_winner,115784320]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Q124500735,124500735]]'
-  - '[[_Standards/WikiData/WD~Albert_Einstein,124606656]]'
+- '[[_Standards/WikiData/WD~Q124500735,124500735]]'
+- '[[_Standards/WikiData/WD~Albert_Einstein,124606656]]'
 date_of_birth: 1879-03-14T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Ulm,3012]]'
 ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
@@ -204,11 +290,11 @@ Gujarati_Vishwakosh_entry: આઇન્સ્ટાઇન-આલ્બર્ટ
 Baidu_Tieba_name: 爱因斯坦
 picture_of_this_person_doing_their_job: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20writing%20on%20a%20blackboard%20in%20Pasadena%20%281931%29.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=553550365
-  - http://www.digiporta.net/index.php?id=568612883
-  - http://www.digiporta.net/index.php?id=707892219
-  - https://www.ige.ch/de/ueber-uns/einstein.html
-  - http://www.einsteinsommerhaus.de/index.php?id=539&no_cache=1
+- http://www.digiporta.net/index.php?id=553550365
+- http://www.digiporta.net/index.php?id=568612883
+- http://www.digiporta.net/index.php?id=707892219
+- https://www.ige.ch/de/ueber-uns/einstein.html
+- http://www.einsteinsommerhaus.de/index.php?id=539&no_cache=1
 BHCL_UUID: a2e7439f-8156-46d8-b580-28659c42d6aa
 name_in_native_language: Albert Einstein
 date_of_death: 1955-04-18T00:00:00Z
@@ -217,27 +303,155 @@ U_S_National_Archives_Identifier: 10582637
 NLC_authorities: 000124193
 last_words: http://www.wikidata.org/.well-known/genid/6052b49a36663457adce52a1abf3b47a
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/05w%20Denkmal%20Albert%20Einstein.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/8839%20-%20Milano%20-%20Via%20Bigli%20-%20Palazzo%20Olivazzi%20-%20Lapide%20Albert%20Einstein%20-%20Foto%20Giovanni%20Dall%27Orto%20-%2014-Apr-2007.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20-%20Andr%C3%A4schule%20Salzburg.PNG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archenhold-Sternwarte%2C%20642-748.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Einstein-barrakka.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20deska.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20Plaque.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Home%20Albert%20Einstein%201895%20Memorial.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/05w%20Denkmal%20Albert%20Einstein.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/8839%20-%20Milano%20-%20Via%20Bigli%20-%20Palazzo%20Olivazzi%20-%20Lapide%20Albert%20Einstein%20-%20Foto%20Giovanni%20Dall%27Orto%20-%2014-Apr-2007.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20-%20Andr%C3%A4schule%20Salzburg.PNG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Archenhold-Sternwarte%2C%20642-748.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Einstein-barrakka.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20deska.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Einstein%20Plaque.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Home%20Albert%20Einstein%201895%20Memorial.jpg
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/03%20ALBERT%20EINSTEIN.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Albert%20Einstein-Pronuciation.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Albert%20Einstein.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Albert%20Einstein-Pronuciation.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Albert%20Einstein.wav
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Albert%20Einstein.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D5%A2%D5%A5%D6%80%D5%BF%20%D4%B1%D5%B5%D5%B6%D5%B7%D5%BF%D5%A1%D5%B5%D5%B6%20%28Albert%20Einstein%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Albert%20Einstein.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D5%A2%D5%A5%D6%80%D5%BF%20%D4%B1%D5%B5%D5%B6%D5%B7%D5%BF%D5%A1%D5%B5%D5%B6%20%28Albert%20Einstein%29.ogg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/albert_einstein
 ORCID_iD: 0000-0001-9183-9538
 ISNI: 000000012281955X
+dv_has_:
+  name_:
+    ab: Алберт Еинштеин
+    aeb-arab: ألبارت إنشتاين
+    af: Albert Einstein
+    am: አልበርት አይንስታይን
+    anp: अल्बर्ट आइंस्टीन
+    ar: ألبرت أينشتاين
+    arn: Alberto ainstain
+    ary: ألبيرط أينشطاين
+    arz: البرت اينشتاين
+    as: এলবাৰ্ট আইনষ্টাইন
+    awa: अल्बर्ट आइंस्टीन
+    az: Albert Eynşteyn
+    azb: آلبرت انیشتین
+    ba: Альберт Эйнштейн
+    be: Альберт Эйнштэйн
+    be-tarask: Альбэрт Айнштайн
+    bew: Albet Énstén
+    bg: Алберт Айнщайн
+    bho: अल्बर्ट आइंस्टीन
+    bn: আলবার্ট আইনস্টাইন
+    bo: ཨལ་བྷར་ཀྲི་ཨ་ཡན་སི་ཊཎ།
+    bpy: আলবার্ট আইনস্টাইন
+    bxr: Альберт Айнштайн
+    ce: Эйнштейн, Альберт
+    ckb: ئەلبەرت ئاینشتاین
+    crh: Albert Eynşteyn
+    cs: Albert Einstein
+    cv: Эйнштейн Альберт
+    de: Albert Einstein
+    dty: अल्बर्ट आइनस्टाइन
+    el: Άλμπερτ Αϊνστάιν
+    en: Albert Einstein
+    es: Albert Einstein
+    fa: آلبرت اینشتین
+    fr: Albert Einstein
+    gan: 愛因斯坦
+    gom-deva: आइन्स्टाइन, आल्बर्ट
+    gu: આલ્બર્ટ આઈન્સ્ટાઈન
+    he: אלברט איינשטיין
+    hi: अल्बर्ट आइंस्टीन
+    hy: Ալբերտ Այնշտայն
+    hyw: Ալպերթ Այնշթայն
+    it: Albert Einstein
+    ja: アルベルト・アインシュタイン
+    jam: Alboert Ainstain
+    jbo: albert. ainctain
+    ka: ალბერტ აინშტაინი
+    kk: Альберт Эйнштейн
+    kk-kz: Альберт Эйнштейн
+    km: អាល់បឺត អែងស្តែង
+    kn: ಅಲ್ಬರ್ಟ್ ಐನ್ ಸ್ಟೈನ್
+    ko: 알베르트 아인슈타인
+    ks: اَلبرٹ آنِسٹایِن
+    ky: Эйнштейн, Алберт
+    la: Albertus Einstein
+    lez: Альберт Эйнштейн
+    lg: Alubbaati Ansitayini
+    lo: ແອລເບີຣີ ອີນສະໄຕນ໌
+    lrc: آلورت انیشتین
+    lt: Albertas Einšteinas
+    lv: Alberts Einšteins
+    lzh: 愛因斯坦
+    mai: अल्बर्ट आइनस्टाइन
+    mk: Алберт Ајнштајн
+    ml: ആൽബർട്ട് ഐൻസ്റ്റൈൻ
+    mn: Альберт Эйнштейн
+    mni: ꯑꯜꯕꯔ꯭ꯠ ꯑꯥꯢꯟꯁ꯭ꯇꯥꯢꯟ
+    mr: अल्बर्ट आइनस्टाइन
+    mul: Albert Einstein
+    my: အဲလ်ဘတ် အိုင်းစတိုင်း
+    myv: Эйнштейн, Альберт
+    mzn: آلبرت اینشتین
+    ne: अल्बर्ट आइन्स्टाइन
+    new: अल्बर्ट आइन्स्टाइन
+    nqo: ߊߟߑߓߍߙ ߍ߲ߛߑߕߍ߲߫
+    nv: Hastiin Albert Einstein
+    om: Alberti Anistaayin
+    or: ଆଲବର୍ଟ ଆଇନଷ୍ଟାଇନ
+    os: Альберт Эйнштейн
+    pa: ਐਲਬਰਟ ਆਈਨਸਟਾਈਨ
+    pnb: ایلبرٹ آئینسٹائن
+    ps: آلبرټ آينشټاين
+    rki: အဲလ်ဘတ် အိုင်းစတိုင်း
+    ru: Альберт Эйнштейн
+    rue: Алберт Айнштайн
+    sa: अल्बर्ट ऐन्स्टायिन्
+    sah: Альберт Эйнштейн
+    sat: ᱟᱞᱵᱚᱨᱴ ᱟᱭᱤᱱᱥᱴᱟᱭᱤᱱ
+    sd: البرٽ آئنسٽائن
+    sgs: Alberts Einšteins
+    shi: Albirt Ayncṭayn
+    si: ඇල්බට් අයින්ස්ටයින්
+    skr: البرٹ آئنسٹائن
+    sq: Albert Anjshtajn
+    sr: Алберт Ајнштајн
+    sr-ec: Алберт Ајнштајн
+    sv: Albert Einstein
+    szy: Alpute.ayinsedan
+    ta: ஆல்பர்ட் ஐன்ஸ்டைன்
+    tcy: ಆಲ್ಬರ್ಟ್ ಐನ್ಸ್ಟೀನ್
+    te: ఆల్బర్ట్ ఐన్ స్టీన్
+    tg: Алберт Эйнштейн
+    th: อัลเบิร์ต ไอน์สไตน์
+    tk: Albert Eýnşteýn
+    tly: Albert Ejnštejn
+    tok: jan Ape Ansan
+    tt: Алберт Эйнштейн
+    tt-cyrl: Алберт Эйнштейн
+    tyv: Эйнштейн, Альберт
+    ug: ئالبېرىت ئېينىشتېين
+    ug-arab: ئالبېرىت ئېينىشتېين
+    ug-latn: Albérit Éynishtéyn
+    uk: Альберт Айнштайн
+    ur: آئن سٹائن
+    vep: Einštein Al'bert
+    vro: Einsteini Albert
+    wuu: 愛因斯坦
+    xmf: ალბერტ აინშტაინი
+    yi: אלבערט איינשטיין
+    yue: 愛因斯坦
+    zgh: ⴰⵍⴱⵉⵔⵜ ⴰⵢⵏⵛⵟⴰⵢⵏ
+    zh: 阿尔伯特·爱因斯坦
+    zh-cn: 阿尔伯特·爱因斯坦
+    zh-hans: 阿尔伯特·爱因斯坦
+    zh-hant: 阿爾伯特·愛因斯坦
+    zh-hk: 艾拔·愛因斯坦
+    zh-tw: 亞伯特·愛因斯坦
 ---
-
 # [[Einstein,Albert]] 
 
 #has_/time_/started :: 1879-03-14 

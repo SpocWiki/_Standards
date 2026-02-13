@@ -1,14 +1,119 @@
 ---
 aliases:
-  - Infinity
+- anant
+- Anfeidredd
+- awan inggana
+- begalybė
+- Begalībė
+- beskonačnost
+- bezgalība
+- bjezkónčnosć
+- Bêdawî
+- Bû-hān
+- Cheksizlik
+- ci'i
+- Didhiwedhter
+- Enfini
+- infini
+- Infinidad
+- infinit
+- infinitas
+- Infiniteso
+- Infiniti
+- infinito
+- Infinitu
+- Infinity
+- Infinì
+- iõpmatus
+- Kawalang hangganan
+- ketakterhinggaan
+- Kusingaperi
+- Lopmätomuz
+- Muyirayira
+- nekonečno
+- neskončnost
+- nieskończoność
+- oneindigheid
+- oändlighet
+- pafundësia
+- pini ala
+- robdâttemvuotâ
+- ruõbdteʹmesvuõtt
+- senfineco
+- sonsuz
+- Sonsuzluq
+- soñsuzlıq
+- Tak hingga
+- Tsiefa
+- uendeleg
+- uendelig
+- uendelighet
+- unendlich
+- Unendlichkeid
+- Unendlichkeit
+- végtelen
+- vô tận
+- ávgadasvuohta
+- äärettömyys
+- Éigríoch
+- óendanleiki
+- Ünentelkhaid
+- άπειρο
+- Безкрайност
+- Беинтиҳоӣ
+- бесконачност
+- Бесконечност
+- Бесконечность
+- Бясконцасць
+- бясконцасьць
+- Вĕçсĕрлĕх
+- нескінченність
+- пумтэмлык
+- Сикһеҙлек
+- Хязгааргүй
+- Чексиздик
+- чиксезлек
+- Шексіздік
+- անսահմանություն
+- אומענדלעכקייט
+- אינסוף
+- انانتی
+- بینهایت
+- بێکۆتایی
+- سونسوز
+- لامسالية
+- لانهاية
+- متناہی اور لامتناہی
+- ملهاش نهايه
+- अनंत
+- अनन्त
+- अनन्तः
+- अल्याख
+- অসীম
+- ਅਨੰਤ
+- અનંત
+- முடிவிலி
+- అనంతం
+- ಅನಂತ
+- അനന്തത
+- අනන්තය
+- อนันต์
+- အနန္တ
+- უსასრულობა
+- አዕላፍ
+- 冇窮盡
+- 无穷
+- 無窮
+- 無限
+- 무한
 has_id_wikidata: Q205
 Commons_category: Infinity
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 111.6
 different_from: '[[_Standards/WikiData/WD~infinity_symbol,6030066]]'
 facet_of: '[[_Standards/WikiData/WD~infinity,1405962]]'
@@ -18,16 +123,153 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 notation: '[[_Standards/WikiData/WD~infinity_symbol,6030066]]'
 OmegaWiki_Defined_Meaning: 968848
 opposite_of:
-  - '[[_Standards/WikiData/WD~infinitesimal,193885]]'
-  - '[[_Standards/WikiData/WD~zero,204]]'
+- '[[_Standards/WikiData/WD~infinitesimal,193885]]'
+- '[[_Standards/WikiData/WD~zero,204]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~division_by_zero,848539]]'
-  - '[[_Standards/WikiData/WD~infinity,1405962]]'
-  - '[[_Standards/WikiData/WD~semi-infinite,7449306]]'
+- '[[_Standards/WikiData/WD~division_by_zero,848539]]'
+- '[[_Standards/WikiData/WD~infinity,1405962]]'
+- '[[_Standards/WikiData/WD~semi-infinite,7449306]]'
 subclass_of: '[[_Standards/WikiData/WD~cardinality,4049983]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
+dv_has_:
+  name_:
+    af: oneindigheid
+    am: አዕላፍ
+    an: Infinito
+    ar: لانهاية
+    ary: لامسالية
+    arz: ملهاش نهايه
+    as: অসীম
+    ast: Infinitu
+    az: Sonsuzluq
+    azb: سونسوز
+    ba: Сикһеҙлек
+    be: Бясконцасць
+    be-tarask: бясконцасьць
+    bg: Безкрайност
+    bho: अनंत
+    bjn: Infinity
+    bn: অসীম
+    bs: Beskonačnost
+    ca: infinit
+    ckb: بێکۆتایی
+    co: Infinitu
+    crh: soñsuzlıq
+    cs: nekonečno
+    cv: Вĕçсĕрлĕх
+    cy: Anfeidredd
+    da: uendelig
+    de: unendlich
+    el: άπειρο
+    en: infinity
+    en-ca: Infinity
+    en-gb: infinity
+    eo: senfineco
+    es: infinito
+    et: iõpmatus
+    eu: infinitu
+    fa: بینهایت
+    fi: äärettömyys
+    fr: infini
+    frr: Ünentelkhaid
+    ga: Éigríoch
+    gan: 無限
+    gcr: Enfini
+    gl: infinito
+    gsw: Unendlichkeit
+    gu: અનંત
+    he: אינסוף
+    hi: अनन्त
+    hif: anant
+    hr: beskonačnost
+    hsb: bjezkónčnosć
+    hu: végtelen
+    hy: անսահմանություն
+    id: Tak hingga
+    ilo: awan inggana
+    io: Infiniteso
+    is: óendanleiki
+    it: infinito
+    ja: 無限
+    jam: Infiniti
+    jbo: ci'i
+    ka: უსასრულობა
+    kk: Шексіздік
+    kn: ಅನಂತ
+    ko: 무한
+    ku: Bêdawî
+    kw: Didhiwedhter
+    ky: Чексиздик
+    la: infinitas
+    lt: begalybė
+    lv: bezgalība
+    lzh: 無限
+    mag: अनन्त
+    mg: Tsiefa
+    min: Tak hingga
+    mk: Бесконечност
+    ml: അനന്തത
+    mn: Хязгааргүй
+    mr: अनंत
+    ms: ketakterhinggaan
+    my: အနန္တ
+    nan: Bû-hān
+    nb: uendelighet
+    nds: Unendlichkeid
+    ne: अनन्त
+    new: अल्याख
+    nl: oneindigheid
+    nn: uendeleg
+    oc: infinit
+    pa: ਅਨੰਤ
+    pl: nieskończoność
+    pms: Infinì
+    pnb: انانتی
+    pt: infinito
+    pt-br: infinito
+    ro: Infinit
+    ru: бесконечность
+    rue: Бесконечность
+    sa: अनन्तः
+    scn: Infinitu
+    sco: infinity
+    se: ávgadasvuohta
+    sgs: Begalībė
+    sh: Beskonačnost
+    si: අනන්තය
+    sk: nekonečno
+    sl: neskončnost
+    smn: robdâttemvuotâ
+    sms: ruõbdteʹmesvuõtt
+    sn: Kusingaperi
+    sq: pafundësia
+    sr: бесконачност
+    sv: oändlighet
+    ta: முடிவிலி
+    te: అనంతం
+    tg: Беинтиҳоӣ
+    tg-cyrl: беинтиҳоӣ
+    th: อนันต์
+    tl: Kawalang hangganan
+    tok: pini ala
+    tr: sonsuz
+    tt: чиксезлек
+    tum: Muyirayira
+    udm: пумтэмлык
+    uk: нескінченність
+    ur: متناہی اور لامتناہی
+    uz: Cheksizlik
+    vep: Lopmätomuz
+    vi: vô tận
+    war: Infinidad
+    wuu: 无穷
+    yi: אומענדלעכקייט
+    yue: 冇窮盡
+    zh: 無窮
+    zh-hans: 无穷
+    zh-hant: 無窮
+    zh-tw: 無窮
 ---
-
 # [[Infinity]] 
 
 

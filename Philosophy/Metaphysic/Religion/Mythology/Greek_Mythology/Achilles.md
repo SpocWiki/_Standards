@@ -1,8 +1,175 @@
 ---
 has_id_wikidata: Q41746
+dv_has_:
+  name_:
+    af: Achilles
+    an: Aquiles
+    ar: أخيل
+    arz: اكليس
+    as: একিলিছ
+    ast: Aquiles
+    az: Axill
+    azb: آشیل
+    ba: Ахилл
+    be: Ахіл
+    be-tarask: Ахілес
+    bg: Ахил
+    bn: আকিলিস
+    br: Ac'hilleüs
+    bs: Ahilej
+    ca: Aquil·les
+    ckb: ئاخیلێس
+    cs: Achilles
+    cv: Ахилл
+    cy: Achilles
+    da: Achilleus
+    de: Achilleus
+    el: Αχιλλέας
+    en: Achilles
+    eo: Aĥilo
+    es: Aquiles
+    et: Achilleus
+    eu: Akiles
+    fa: آشیل
+    fi: Akhilleus
+    fr: Achille
+    fy: Achilles
+    ga: Aichill
+    gl: Aquiles
+    he: אכילס
+    hi: अकिलीज़
+    hr: Ahilej
+    hu: Akhilleusz
+    hy: Աքիլլես
+    ia: Achilles
+    id: Akhilles
+    io: Akhilleus
+    is: Akkilles
+    it: Achille
+    ja: アキレウス
+    ka: აქილევსი
+    kk: Ахилл
+    kn: ಅಕಿಲೀಸ್
+    ko: 아킬레우스
+    ku: Axîlês
+    ky: Ахилл
+    la: Achilles
+    lb: Achilleus
+    lfn: Acile
+    lt: Achilas
+    lv: Ahillejs
+    mg: Achille
+    mk: Ахил
+    ml: അക്കിലിസ്
+    mr: अकिलिस
+    ms: Akhilleus
+    mt: Akille
+    my: အာခိလိ
+    nb: Akilles
+    ne: अकिलिस
+    nl: Achilles
+    nn: Akilles
+    nrm: Achille
+    oc: Aquilles
+    pa: ਐਕੇਲੀਜ
+    pl: Achilles
+    pnb: آخیل
+    ps: اکيلېز
+    pt: Aquiles
+    ro: Ahile
+    ru: Ахилл
+    rue: Ахил
+    scn: Achilli
+    sco: Achilles
+    sh: Ahilej
+    shi: Axilyus
+    sk: Achilles
+    skr: آخیل
+    sl: Ahil
+    sq: Akili
+    sr: Ахил
+    sr-ec: Ахил
+    sv: Akilles
+    sw: Akiles
+    ta: அக்கீலியஸ்
+    tg: Ахилл
+    th: อคิลลีส
+    tl: Achilles
+    tr: Akhilleus
+    uk: Ахіллес
+    ur: ایکلیز
+    uz: Axill
+    vec: Achìe
+    vep: Ahill
+    vi: Achilles
+    war: Achilles
+    wuu: 阿喀琉斯
+    yue: 阿基里斯
+    zh: 阿喀琉斯
+    zh-cn: 阿喀琉斯
+    zh-hans: 阿喀琉斯
+    zh-hant: 阿喀琉斯
+aliases:
+- Ac'hilleüs
+- Achilas
+- Achille
+- Achilles
+- Achilleus
+- Achilli
+- Achìe
+- Acile
+- Ahil
+- Ahile
+- Ahilej
+- Ahill
+- Ahillejs
+- Aichill
+- Akhilles
+- Akhilleus
+- Akhilleusz
+- Akiles
+- Akili
+- Akille
+- Akilles
+- Akkilles
+- Aquiles
+- Aquilles
+- Aquil·les
+- Axill
+- Axilyus
+- Axîlês
+- Aĥilo
+- Αχιλλέας
+- Ахіл
+- Ахілес
+- Ахіллес
+- Ахил
+- Ахилл
+- Աքիլլես
+- אכילס
+- آخیل
+- آشیل
+- أخيل
+- ئاخیلێس
+- اكليس
+- اکيلېز
+- ایکلیز
+- अकिलिस
+- अकिलीज़
+- আকিলিস
+- একিলিছ
+- ਐਕੇਲੀਜ
+- அக்கீலியஸ்
+- ಅಕಿಲೀಸ್
+- അക്കിലിസ്
+- อคิลลีส
+- အာခိလိ
+- აქილევსი
+- アキレウス
+- 阿喀琉斯
+- 阿基里斯
+- 아킬레우스
 ---
-
-
 # [[Achilles]] 
 
 

@@ -1,17 +1,74 @@
 ---
 aliases:
-  - Nihilismus
-  - Nihilism
+- chủ nghĩa hư vô
+- dalankac
+- hiççilik
+- hîçperestî
+- neniismo
+- Nichilism
+- nichilismo
+- nigilizm
+- nihileachas
+- nihiliaeth
+- Nihilism
+- nihilisma
+- nihilisme
+- nihilismi
+- nihilismm
+- nihilismo
+- nihilisms
+- nihilismu
+- Nihilismus
+- nihilizam
+- nihilizem
+- nihilizm
+- nihilizmas
+- nihilizmi
+- nihilizmus
+- niilisme
+- Niilismo
+- niyilizim
+- tómhyggja
+- μηδενισμός
+- нігілізм
+- нигилизм
+- нихилизам
+- нихилизъм
+- նիհիլիզմ
+- ניהיליזם
+- اعدامیت
+- عدمية
+- عدميه
+- ناڪاريت
+- نیهیلیزم
+- نیهیلیسم
+- پوچگرایی
+- ھیچخوازی
+- निषेधवाद
+- शुन्यवाद
+- শূন্যবাদ
+- ਨਹਿਲਵਾਦ
+- இல்லாமை தத்துவம்
+- ನಿರಾಕರಣವಾದ
+- നിഹിലിസം
+- สุญนิยม
+- ნიჰილიზმი
+- ምንምነታዊነት
+- ឧច្ឆេទទិដ្ឋិ
+- ニヒリズム
+- 虚无主义
+- 虛無主義
+- 허무주의
 has_id_wikidata: Q80968
 instance_of: '[[_Standards/WikiData/WD~doctrine,117850]]'
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Q133821564,133821564]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Q133821564,133821564]]'
 part_of: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
 subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 different_from: '[[_Standards/WikiData/WD~anarchism,6199]]'
@@ -20,8 +77,110 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Merwart-Nihilist.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Nihilisme%20%28filosofie%29-article.ogg
 IMDb_keyword: nihilism
 subreddit: nihilism
+dv_has_:
+  name_:
+    af: nihilisme
+    am: ምንምነታዊነት
+    ar: عدمية
+    arz: عدميه
+    ast: nihilismu
+    az: nihilizm
+    azb: نیهیلیسم
+    ba: нигилизм
+    be: нігілізм
+    be-tarask: нігілізм
+    bg: нихилизъм
+    bjn: nihilisme
+    bn: শূন্যবাদ
+    bs: nihilizam
+    ca: nihilisme
+    ceb: Niilismo
+    ckb: ھیچخوازی
+    cs: nihilismus
+    cy: nihiliaeth
+    da: nihilisme
+    de: Nihilismus
+    diq: nihilizm
+    dtp: nihilisme
+    el: μηδενισμός
+    en: nihilism
+    eo: neniismo
+    es: nihilismo
+    et: nihilism
+    eu: nihilismo
+    fa: پوچگرایی
+    fi: nihilismi
+    fr: nihilisme
+    ga: nihileachas
+    gan: 虛無主義
+    gl: nihilismo
+    ha: nihilism
+    he: ניהיליזם
+    hi: निषेधवाद
+    hr: nihilizam
+    hu: nihilizmus
+    hy: նիհիլիզմ
+    hyw: նիհիլիզմ
+    id: nihilisme
+    is: tómhyggja
+    it: nichilismo
+    ja: ニヒリズム
+    jam: niyilizim
+    ka: ნიჰილიზმი
+    kk: нигилизм
+    km: ឧច្ឆេទទិដ្ឋិ
+    kn: ನಿರಾಕರಣವಾದ
+    ko: 허무주의
+    ku: hîçperestî
+    ky: нигилизм
+    la: nihilismus
+    lt: nihilizmas
+    lv: nihilisms
+    mk: нихилизам
+    ml: നിഹിലിസം
+    ms: Nihilisme
+    nb: nihilisme
+    nds-nl: nihilisme
+    ne: शुन्यवाद
+    nl: nihilisme
+    nn: nihilisme
+    oc: niilisme
+    pa: ਨਹਿਲਵਾਦ
+    pl: nihilizm
+    pms: Nichilism
+    ps: نیهیلیزم
+    pt: niilismo
+    ro: nihilism
+    ru: нигилизм
+    rue: нігілізм
+    sco: nihilism
+    sd: ناڪاريت
+    se: nihilisma
+    sh: nihilizam
+    sk: nihilizmus
+    sl: nihilizem
+    smn: nihilism
+    sms: nihilismm
+    so: dalankac
+    sq: nihilizmi
+    sr: нихилизам
+    sr-ec: нихилизам
+    sr-el: nihilizam
+    sv: nihilism
+    ta: இல்லாமை தத்துவம்
+    th: สุญนิยม
+    tl: nihilismo
+    tr: hiççilik
+    tt: нигилизм
+    uk: нігілізм
+    ur: اعدامیت
+    uz: nigilizm
+    vi: chủ nghĩa hư vô
+    wuu: 虚无主义
+    xmf: ნიჰილიზმი
+    yue: 虛無主義
+    zh: 虚无主义
 ---
-
 # [[Nihilism]] 
 
 #is_/same_as :: [[WD~Nihilism,80968]] 

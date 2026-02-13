@@ -1,9 +1,66 @@
 ---
 aliases:
-  - Gap Inc
-  - The Gap, Inc
-  - Gap_Inc
+- Gap
+- Gap (kompaniya)
+- Gap Inc
+- Gap Inc.
+- Gap_Inc
+- The Gap, Inc
+- גאפ
+- جاب
+- قپ اینکورپوریتد
+- گپ
+- गॅप, इन्क.
+- ギャップ
+- 蓋璞
+- 갭
 has_id_wikidata: Q420822
+dv_has_:
+  name_:
+    af: Gap Inc.
+    ar: جاب
+    arz: جاب
+    azb: قپ اینکورپوریتد
+    ca: Gap
+    cs: Gap
+    da: Gap Inc.
+    de: Gap Inc.
+    el: GAP
+    en: Gap Inc.
+    eo: Gap
+    es: Gap Inc.
+    et: Gap Inc.
+    fa: گپ
+    fi: Gap
+    fr: Gap
+    ga: Gap Inc.
+    gl: Gap
+    he: גאפ
+    hu: Gap Inc.
+    hy: Gap
+    id: Gap Inc.
+    it: Gap
+    ja: ギャップ
+    ko: 갭
+    lt: Gap
+    mr: गॅप, इन्क.
+    ms: Gap Inc.
+    mul: Gap Inc.
+    nb: Gap
+    nl: Gap
+    nrm: Gap
+    pl: Gap Inc.
+    pt: Gap
+    ro: Gap Inc.
+    ru: Gap
+    sl: Gap Inc.
+    sv: Gap
+    tr: Gap Inc.
+    uk: Gap
+    uz: Gap (kompaniya)
+    vec: Gap Inc.
+    vi: Gap Inc.
+    zh: 蓋璞
 ---
 ## #has_/text_of_/abstract 
 

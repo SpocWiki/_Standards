@@ -1,19 +1,113 @@
 ---
 aliases:
+- bellum commerciale
+- Chiến tranh thương mại
+- Digmaan sa kalakalan
+- guerra comercial
+- guerra commerciale
+- guerre commerciale
+- Handelskrieg
+- handelskrig
+- handelsoorlog
+- Kaubandussõda
+- kauppasota
+- kereskedelmi háború
+- Komercala milito
+- komercmilito
+- Merkataritza gerra
+- obchodní válka
+- Perang dagang
+- ticaret savaşı
+- Ticarət müharibəsi
+- trade war
+- trgovinska vojna
+- wojna handlowa
+- εμπορικός πόλεμος
+- гандлёвая вайна
+- Сауда соғысы
+- торгова війна
+- торговая война
+- Трговински рат
+- трговска војна
+- търговска война
+- Ҷанги тиҷорӣ
+- առևտրային պատերազմ
+- מלחמת סחר
+- تجارتی جنگ
+- جنگ تجاری
+- حرب تجارية
+- व्यापार युद्ध
+- বাণিজ্য যুদ্ধ
+- สงครามการค้า
+- 貿易戦争
+- 貿易戰
+- 贸易战
+- 무역 전쟁
 has_id_wikidata: Q692412
-has_cause: "[[_Standards/WikiData/WD~protectionism,179073]]"
+has_cause: '[[_Standards/WikiData/WD~protectionism,179073]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~trade_barrier,377302]]"
-  - "[[_Standards/WikiData/WD~tariff,52389]]"
+- '[[_Standards/WikiData/WD~trade_barrier,377302]]'
+- '[[_Standards/WikiData/WD~tariff,52389]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~economic_warfare,2296073]]"
-  - "[[_Standards/WikiData/WD~trade_conflict,2912528]]"
-  - "[[_Standards/WikiData/WD~political_risk,7885121]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~economic_warfare,2296073]]'
+- '[[_Standards/WikiData/WD~trade_conflict,2912528]]'
+- '[[_Standards/WikiData/WD~political_risk,7885121]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Handelsoorlog-article.ogg
+dv_has_:
+  name_:
+    ar: حرب تجارية
+    ast: guerra comercial
+    az: Ticarət müharibəsi
+    be-tarask: гандлёвая вайна
+    bg: търговска война
+    bn: বাণিজ্য যুদ্ধ
+    ca: guerra comercial
+    cs: obchodní válka
+    da: handelskrig
+    de: Handelskrieg
+    el: εμπορικός πόλεμος
+    en: trade war
+    eo: komercmilito
+    es: guerra comercial
+    et: Kaubandussõda
+    eu: Merkataritza gerra
+    fa: جنگ تجاری
+    fi: kauppasota
+    fr: guerre commerciale
+    gl: guerra comercial
+    he: מלחמת סחר
+    hi: व्यापार युद्ध
+    hu: kereskedelmi háború
+    hy: առևտրային պատերազմ
+    id: Perang dagang
+    io: Komercala milito
+    it: guerra commerciale
+    ja: 貿易戦争
+    kk: Сауда соғысы
+    ko: 무역 전쟁
+    la: bellum commerciale
+    mk: трговска војна
+    ms: Perang dagang
+    nb: handelskrig
+    nl: handelsoorlog
+    pl: wojna handlowa
+    pt: Guerra comercial
+    ru: торговая война
+    sl: trgovinska vojna
+    sr: Трговински рат
+    sv: handelskrig
+    tg: Ҷанги тиҷорӣ
+    th: สงครามการค้า
+    tl: Digmaan sa kalakalan
+    tr: ticaret savaşı
+    uk: торгова війна
+    ur: تجارتی جنگ
+    vi: Chiến tranh thương mại
+    yue: 貿易戰
+    zh: 贸易战
 ---
-
 # [[Trade_War]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~trade_war,692412]] 

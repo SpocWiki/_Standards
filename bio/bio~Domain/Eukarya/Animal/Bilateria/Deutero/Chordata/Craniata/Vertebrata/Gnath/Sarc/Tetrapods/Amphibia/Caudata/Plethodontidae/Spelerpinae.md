@@ -1,8 +1,96 @@
 ---
 aliases:
-  - Spelerpinae
+- Bezpłucnikowate
+- Keuhkottomat salamanterit
+- longloze salamanders
+- lungeløse salamandere
+- lungeløse salamandre
+- Lungenlose Salamander
+- Lungless salamander
+- Lunglösa salamandrar
+- mločíci
+- Oʻpkasiz salamandralar
+- Plethodontidae
+- Pletodontedoj
+- Pletodòntid
+- Spelerpinae
+- Tsxilghááh íiyisígíí
+- tüdőtlenszalamandra-félék
+- безбелодробни саламандри
+- Безлёгочные саламандры
+- Безлегеневі саламандри
+- Бязлёгачныя саламандры
+- Өкпесіз саламандрлар
+- פלתודוניים
+- سمندر بیشش
+- سمندر عديم الرئة
+- سمندر عديمة الرئه
+- უფილტვო სალამანდრისებრნი
+- プレソドン科
+- 无肺螈科
+- 무폐도롱뇽류
 title: Spelerpinae
 has_id_wikidata: Q100340
+dv_has_:
+  name_:
+    an: Plethodontidae
+    ar: سمندر عديم الرئة
+    arz: سمندر عديمة الرئه
+    ast: Plethodontidae
+    be: Бязлёгачныя саламандры
+    bg: безбелодробни саламандри
+    br: Plethodontidae
+    ca: Pletodòntid
+    ceb: Plethodontidae
+    cs: mločíci
+    da: lungeløse salamandre
+    de: Lungenlose Salamander
+    de-ch: Lungenlose Salamander
+    en: Plethodontidae
+    en-ca: Lungless salamander
+    en-gb: Lungless salamander
+    eo: Pletodontedoj
+    es: Plethodontidae
+    eu: Plethodontidae
+    ext: Plethodontidae
+    fa: سمندر بیشش
+    fi: Keuhkottomat salamanterit
+    fr: Plethodontidae
+    ga: Plethodontidae
+    gl: Plethodontidae
+    he: פלתודוניים
+    hu: tüdőtlenszalamandra-félék
+    ia: Plethodontidae
+    ie: Plethodontidae
+    io: Plethodontidae
+    it: Plethodontidae
+    ja: プレソドン科
+    ka: უფილტვო სალამანდრისებრნი
+    kk: Өкпесіз саламандрлар
+    ko: 무폐도롱뇽류
+    la: Plethodontidae
+    ms: Plethodontidae
+    mul: Plethodontidae
+    nb: lungeløse salamandere
+    nl: longloze salamanders
+    nv: Tsxilghááh íiyisígíí
+    oc: Plethodontidae
+    pl: Bezpłucnikowate
+    pt: Plethodontidae
+    pt-br: Plethodontidae
+    ro: Plethodontidae
+    ru: Безлёгочные саламандры
+    sq: Plethodontidae
+    sv: Lunglösa salamandrar
+    tr: Plethodontidae
+    uk: Безлегеневі саламандри
+    uz: Oʻpkasiz salamandralar
+    vi: Plethodontidae
+    vo: Plethodontidae
+    war: Plethodontidae
+    zh: 无肺螈科
+    zh-cn: 无肺螈科
+    zh-hans: 无肺螈科
 ---
 # [[Spelerpinae]] 
 

@@ -1,25 +1,67 @@
 ---
 aliases:
+- Calisto
+- Calisto (satelite)
+- Callisto
+- Callisto (oē-chheⁿ)
+- Callistu
+- Cal·listo
+- Kalista
+- Kalisto
+- Kalisto (satelit)
+- Kallisto
+- Kallisto (Mshtarii)
+- Kallistó
+- mun Kaliso
+- Καλλιστώ
+- Каліста
+- Калиста
+- Калисто
+- Каллісто
+- Каллисто
+- Կալիստո
+- קליסטו
+- كاليستو
+- كاليسطو
+- کالستو (چاند)
+- کالسٹو
+- کالیستو
+- کالیستۆ
+- कलिस्टो
+- कॅलिस्टो
+- ক্যালিস্টো
+- காலிஸ்டோ
+- കാലിസ്റ്റോ
+- කැලිස්ටෝ
+- คัลลิสโต
+- ကလက်စတို
+- კალისტო
+- ᎧᎵᏍᏙ
+- カリスト
+- 木卫四
+- 木衛四
+- 木衞四
+- 칼리스토
 has_id_wikidata: Q3134
-named_by: "[[_Standards/WikiData/WD~Simon_Marius,76684]]"
-named_after: "[[_Standards/WikiData/WD~Callisto,203673]]"
+named_by: '[[_Standards/WikiData/WD~Simon_Marius,76684]]'
+named_after: '[[_Standards/WikiData/WD~Callisto,203673]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~regular_moon,1086783]]"
-  - "[[_Standards/WikiData/WD~moon_of_Jupiter,61702557]]"
-category_for_maps_or_plans: "[[_Standards/WikiData/WD~list_of_geological_features_on_Callisto,4886549]]"
+- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~moon_of_Jupiter,61702557]]'
+category_for_maps_or_plans: '[[_Standards/WikiData/WD~list_of_geological_features_on_Callisto,4886549]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/SSDCallisto.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20Rotation%20Movie.gif
-has_part_s_: "[[_Standards/WikiData/WD~Q16529658,16529658]]"
+has_part_s_: '[[_Standards/WikiData/WD~Q16529658,16529658]]'
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20Earth%20Moon%20Comparison.png
-has_use: "[[_Standards/WikiData/WD~colonization_of_Callisto,127532046]]"
+has_use: '[[_Standards/WikiData/WD~colonization_of_Callisto,127532046]]'
 time_of_discovery_or_invention: 1610-01-07T00:00:00Z
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Galileo_Galilei,307]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Jupiter,319]]"
-part_of: "[[_Standards/WikiData/WD~Galilean_moons,3203]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Galileo_Galilei,307]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Jupiter,319]]'
+part_of: '[[_Standards/WikiData/WD~Galilean_moons,3203]]'
 temperature:
-  - 80
-  - 134
-  - 165
+- 80
+- 134
+- 165
 albedo: 0.22
 volume_as_quantity: 59000000000
 area: 73000000
@@ -34,37 +76,141 @@ density: 1.8344
 semi_major_axis_of_an_orbit: 1882700
 radius: 2410.3
 mass: 107.566
-OmegaWiki_Defined_Meaning: "1144869"
+OmegaWiki_Defined_Meaning: 1144869
 Commons_gallery: Callisto
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20-%20July%208%201979%20%2838926064465%29.jpg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20symbol%20%28fixed%20width%29.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Calisto%20%28sat%C3%A9lite%29%20intro.ogg
-P8189: "987007549320905171"
+P8189: 987007549320905171
 Commons_category: Callisto (moon)
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Callisto"]
 name: Júpiter IV
-topic_has_template: "[[_Standards/WikiData/WD~Template_Callisto,21789613]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Callisto,21789613]]'
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]"
-    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]"
+  - '[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]'
+  - '[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]"
-  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]"
+- '[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]'
+- '[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Callisto
+    an: Calisto (satelite)
+    ar: كاليستو
+    ary: كاليسطو
+    az: Kallisto
+    azb: کالیستو
+    ba: Каллисто
+    be: Каліста
+    be-tarask: Каліста
+    bg: Калисто
+    bn: ক্যালিস্টো
+    br: Kallisto
+    bs: Kalisto
+    ca: Cal·listo
+    cdo: Callisto
+    chr: ᎧᎵᏍᏙ
+    ckb: کالیستۆ
+    co: Callistu
+    cs: Callisto
+    cv: Каллисто
+    cy: Callisto
+    da: Callisto
+    de: Kallisto
+    de-ch: Kallisto
+    el: Καλλιστώ
+    en: Callisto
+    en-ca: Callisto
+    en-gb: Callisto
+    eo: Kalisto
+    es: Calisto
+    et: Callisto
+    eu: Kalisto
+    fa: کالیستو
+    fi: Kallisto
+    fr: Callisto
+    frp: Calisto
+    ga: Callisto
+    gl: Calisto
+    gsw: Kallisto
+    gv: Callisto
+    he: קליסטו
+    hi: कलिस्टो
+    hif: Callisto
+    hr: Kalista
+    hu: Callisto
+    hy: Կալիստո
+    id: Callisto
+    io: Kalisto
+    is: Kallistó
+    it: Callisto
+    ja: カリスト
+    ka: კალისტო
+    ko: 칼리스토
+    kv: Каллисто
+    ky: Каллисто
+    la: Callisto
+    lb: Kallisto
+    lmo: Calisto
+    lt: Kalista
+    lv: Kallisto
+    lzh: 木衛四
+    min: Kalisto (satelit)
+    mk: Калиста
+    ml: കാലിസ്റ്റോ
+    mr: कॅलिस्टो
+    ms: Callisto
+    mwl: Calisto
+    my: ကလက်စတို
+    nan: Callisto (oē-chheⁿ)
+    nb: Callisto
+    nds: Kallisto
+    nl: Callisto
+    nn: Callisto
+    oc: Callisto
+    pl: Kallisto
+    pnb: کالسٹو
+    pt: Calisto
+    pt-br: Calisto
+    ro: Callisto
+    ru: Каллисто
+    scn: Callistu
+    sh: Kalista
+    si: කැලිස්ටෝ
+    sk: Kallisto
+    sl: Kalisto
+    sr: Калисто
+    sv: Callisto
+    sw: Kallisto (Mshtarii)
+    ta: காலிஸ்டோ
+    tg: Каллисто
+    th: คัลลิสโต
+    tl: Callisto
+    tok: mun Kaliso
+    tr: Callisto
+    tt: Каллисто
+    uk: Каллісто
+    ur: کالستو (چاند)
+    uz: Kallisto
+    vi: Callisto
+    war: Callisto
+    wuu: 木卫四
+    yue: 木衞四
+    zh: 木衛四
 ---
-
 # [[Callisto(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]] 

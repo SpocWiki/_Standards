@@ -1,108 +1,149 @@
 ---
 aliases:
-  - William_Herschel
-  - Frederick William Herschel
-  - Friedrich Wilhelm Herschel
-  - Herschel
-  - Herschel,William
+- A. William Herschel
+- Frederick William Herschel
+- Friedrich Wilhelm Herschel
+- Gulielmus Herschel
+- Herschel
+- Herschel,William
+- Uilyam Herşel
+- Viljams Heršels
+- Wilhelm Herschel
+- William Gerşel
+- William Herschel
+- William_Herschel
+- Ουίλιαμ Χέρσελ
+- Ўільям Гэршэль
+- Вилијам Хершел
+- Вилхелм Хершел
+- Гершель, Уильям
+- Уільям Гершэль
+- Уильям Гершель
+- Уилям Хершел
+- Фрідріх Вільгельм Гершель
+- Ուիլյամ Հերշել
+- וויליאם הערשל
+- ויליאם הרשל
+- ولیم ہرشل
+- ويليام هيرشل
+- ويليام هيرشيل
+- ویلیام هرشل
+- ویلیام ھێرشل
+- ߥߟߌߦߊߡ ߤߍߙߑߛ߭ߍߟ
+- विलियम हरशॅल
+- विल्यम हर्शेल
+- উইলিয়াম হার্শেল
+- ਵਿਲੀਅਮ ਹਰਸਚੇਲ
+- வில்லியம் ஹேர்ச்செல்
+- విలియం హెర్షెల్
+- ವಿಲಿಯಮ್ ಹರ್ಷಲ್
+- വില്യം ഹെർഷൽ
+- วิลเลียม เฮอร์เชล
+- ဝီလီယံ ဟာရှယ်
+- უილიამ ჰერშელი
+- ウィリアム・ハーシェル
+- 威廉·赫歇尔
+- 威廉·赫歇爾
+- 赫歇爾
+- 윌리엄 허셜
 has_id_wikidata: Q14277
-religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Caroline_Herschel,76948]]"
-  - "[[_Standards/WikiData/WD~Alexander_Herschel,20967523]]"
+- '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
+- '[[_Standards/WikiData/WD~Alexander_Herschel,20967523]]'
 student:
-  - "[[_Standards/WikiData/WD~Caroline_Herschel,76948]]"
-  - "[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]"
+- '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
+- '[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Science_for_Public_Utility,414379]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Academy_of_Science_for_Public_Utility,414379]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~oboist,16003954]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~oboist,16003954]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - "[[_Standards/WikiData/WD~honorary_degree,209896]]"
-  - "[[_Standards/WikiData/WD~Royal_Guelphic_Order,705153]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-place_of_death: "[[_Standards/WikiData/WD~Slough,211907]]"
+- '[[_Standards/WikiData/WD~honorary_degree,209896]]'
+- '[[_Standards/WikiData/WD~Royal_Guelphic_Order,705153]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+place_of_death: '[[_Standards/WikiData/WD~Slough,211907]]'
 instrument:
-  - "[[_Standards/WikiData/WD~pipe_organ,281460]]"
-  - "[[_Standards/WikiData/WD~violin,8355]]"
-  - "[[_Standards/WikiData/WD~oboe,8377]]"
+- '[[_Standards/WikiData/WD~pipe_organ,281460]]'
+- '[[_Standards/WikiData/WD~violin,8355]]'
+- '[[_Standards/WikiData/WD~oboe,8377]]'
 residence:
-  - "[[_Standards/WikiData/WD~Datchet,285778]]"
-  - "[[_Standards/WikiData/WD~Old_Windsor,2529554]]"
-  - "[[_Standards/WikiData/WD~Observatory_House,7075465]]"
-  - "[[_Standards/WikiData/WD~Bath,22889]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Nevil_Maskelyne,450757]]"
+- '[[_Standards/WikiData/WD~Datchet,285778]]'
+- '[[_Standards/WikiData/WD~Old_Windsor,2529554]]'
+- '[[_Standards/WikiData/WD~Observatory_House,7075465]]'
+- '[[_Standards/WikiData/WD~Bath,22889]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Nevil_Maskelyne,450757]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Herschel_wedge,600076]]"
-  - "[[_Standards/WikiData/WD~Q54030749,54030749]]"
-  - "[[_Standards/WikiData/WD~infrared_radiation,11388]]"
+- '[[_Standards/WikiData/WD~Herschel_wedge,600076]]'
+- '[[_Standards/WikiData/WD~Q54030749,54030749]]'
+- '[[_Standards/WikiData/WD~infrared_radiation,11388]]'
 employer:
-  - "[[_Standards/WikiData/WD~Charles_Avison,1063634]]"
-  - "[[_Standards/WikiData/WD~Bath_Philharmonia,4868935]]"
-  - "[[_Standards/WikiData/WD~Observatory_House,7075465]]"
-  - "[[_Standards/WikiData/WD~Octagon_Chapel,_Bath,15263396]]"
-  - "[[_Standards/WikiData/WD~Militia_and_Volunteers_of_County_Durham,21061862]]"
-  - "[[_Standards/WikiData/WD~Hanoverian_Foot_Guards,114566713]]"
-  - "[[_Standards/WikiData/WD~Leeds,39121]]"
-different_from: "[[_Standards/WikiData/WD~Sir_William_Herschel,_2nd_Baronet,1370601]]"
-place_of_burial: "[[_Standards/WikiData/WD~Church_of_St_Laurence,_Upton_cum_Chalvey,5117466]]"
-archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-given_name: "[[_Standards/WikiData/WD~William,12344159]]"
-father: "[[_Standards/WikiData/WD~Isaac_Herschel,20967498]]"
-mother: "[[_Standards/WikiData/WD~Anna_Ilse_Moritzen,20967508]]"
-spouse: "[[_Standards/WikiData/WD~Mary_Baldwin,20967560]]"
-family_name: "[[_Standards/WikiData/WD~Herschel,21506801]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Royal_Astronomical_Society,24357183]]"
+- '[[_Standards/WikiData/WD~Charles_Avison,1063634]]'
+- '[[_Standards/WikiData/WD~Bath_Philharmonia,4868935]]'
+- '[[_Standards/WikiData/WD~Observatory_House,7075465]]'
+- '[[_Standards/WikiData/WD~Octagon_Chapel,_Bath,15263396]]'
+- '[[_Standards/WikiData/WD~Militia_and_Volunteers_of_County_Durham,21061862]]'
+- '[[_Standards/WikiData/WD~Hanoverian_Foot_Guards,114566713]]'
+- '[[_Standards/WikiData/WD~Leeds,39121]]'
+different_from: '[[_Standards/WikiData/WD~Sir_William_Herschel,_2nd_Baronet,1370601]]'
+place_of_burial: '[[_Standards/WikiData/WD~Church_of_St_Laurence,_Upton_cum_Chalvey,5117466]]'
+archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+given_name: '[[_Standards/WikiData/WD~William,12344159]]'
+father: '[[_Standards/WikiData/WD~Isaac_Herschel,20967498]]'
+mother: '[[_Standards/WikiData/WD~Anna_Ilse_Moritzen,20967508]]'
+spouse: '[[_Standards/WikiData/WD~Mary_Baldwin,20967560]]'
+family_name: '[[_Standards/WikiData/WD~Herschel,21506801]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Royal_Astronomical_Society,24357183]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,28048274]]"
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,_1738_1822,50860891]]"
-  - "[[_Standards/WikiData/WD~Sir_William_Herschel,50907459]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+- '[[_Standards/WikiData/WD~Sir_William_Herschel,28048274]]'
+- '[[_Standards/WikiData/WD~Sir_William_Herschel,_1738_1822,50860891]]'
+- '[[_Standards/WikiData/WD~Sir_William_Herschel,50907459]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1738-11-15T00:00:00Z
-place_of_birth: "[[_Standards/WikiData/WD~Hanover,1715]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-child: "[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]"
-field_of_work: "[[_Standards/WikiData/WD~optics,14620]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-Wolfram_Language_entity_code: Entity"Concept", "SirFrederickWilliamHerschel = `=this.dv_"Concept", "SirFrederickWilliamHerschel` 
+place_of_birth: '[[_Standards/WikiData/WD~Hanover,1715]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+child: '[[_Standards/WikiData/WD~John_Frederick_William_Herschel,14278]]'
+field_of_work: '[[_Standards/WikiData/WD~optics,14620]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+Wolfram_Language_entity_code: Entity"Concept", "SirFrederickWilliamHerschel = `=this.dv_"Concept", "SirFrederickWilliamHerschel`
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/13810
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/GERSHEL_VILYAM.html
 name_in_native_language: Friedrich Wilhelm Herschel
@@ -115,48 +156,160 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Herschel%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Herschel01.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=258263313
-  - http://www.digiporta.net/index.php?id=525635594
-  - http://www.digiporta.net/index.php?id=563533287
-  - http://www.digiporta.net/index.php?id=625904160
-  - http://www.digiporta.net/index.php?id=701786267
-  - http://www.digiporta.net/index.php?id=710127078
-  - http://www.digiporta.net/index.php?id=802051816
-  - http://www.digiporta.net/index.php?id=829058387
-  - http://www.digiporta.net/index.php?id=835822903
-  - http://www.digiporta.net/index.php?id=842797054
-  - http://www.digiporta.net/index.php?id=877869340
-  - http://www.digiporta.net/index.php?id=947974095
-  - http://www.digiporta.net/index.php?id=948116428
-  - http://www.digiporta.net/index.php?id=973264420
-  - http://www.digiporta.net/index.php?id=988978687
-  - http://www.digiporta.net/index.php?id=990767025
+- http://www.digiporta.net/index.php?id=258263313
+- http://www.digiporta.net/index.php?id=525635594
+- http://www.digiporta.net/index.php?id=563533287
+- http://www.digiporta.net/index.php?id=625904160
+- http://www.digiporta.net/index.php?id=701786267
+- http://www.digiporta.net/index.php?id=710127078
+- http://www.digiporta.net/index.php?id=802051816
+- http://www.digiporta.net/index.php?id=829058387
+- http://www.digiporta.net/index.php?id=835822903
+- http://www.digiporta.net/index.php?id=842797054
+- http://www.digiporta.net/index.php?id=877869340
+- http://www.digiporta.net/index.php?id=947974095
+- http://www.digiporta.net/index.php?id=948116428
+- http://www.digiporta.net/index.php?id=973264420
+- http://www.digiporta.net/index.php?id=988978687
+- http://www.digiporta.net/index.php?id=990767025
 ISNI: 80992062
 P1015: 99019720
 Europeana_entity: agent/base/146954
 dv_"Concept", "SirFrederickWilliamHerschel: h2282"
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]"
-    - "[[/_Standards/Astronomy/Astronomer/Herschel,William|Herschel,William]]"
-    - "[[/_public/Astronomy/Astronomer/Herschel,William.public|Herschel,William.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Herschel,William.internal|Herschel,William.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Herschel,William.protect|Herschel,William.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Herschel,William.private|Herschel,William.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Herschel,William.personal|Herschel,William.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Herschel,William.secret|Herschel,William.secret]]"
+  - '[[../../WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]'
+  - '[[/_Standards/Astronomy/Astronomer/Herschel,William|Herschel,William]]'
+  - '[[/_public/Astronomy/Astronomer/Herschel,William.public|Herschel,William.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Herschel,William.internal|Herschel,William.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Herschel,William.protect|Herschel,William.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Herschel,William.private|Herschel,William.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Herschel,William.personal|Herschel,William.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Herschel,William.secret|Herschel,William.secret]]'
 dv_concept-sirfrederickwilliamherschel: h2282"
 dv_is_same_as:
-  - "[[../../WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]"
-  - "[[/_Standards/Astronomy/Astronomer/Herschel,William|Herschel,William]]"
-  - "[[/_public/Astronomy/Astronomer/Herschel,William.public|Herschel,William.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Herschel,William.internal|Herschel,William.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Herschel,William.protect|Herschel,William.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Herschel,William.private|Herschel,William.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Herschel,William.personal|Herschel,William.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Herschel,William.secret|Herschel,William.secret]]"
+- '[[../../WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]'
+- '[[/_Standards/Astronomy/Astronomer/Herschel,William|Herschel,William]]'
+- '[[/_public/Astronomy/Astronomer/Herschel,William.public|Herschel,William.public]]'
+- '[[/_internal/Astronomy/Astronomer/Herschel,William.internal|Herschel,William.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Herschel,William.protect|Herschel,William.protect]]'
+- '[[/_private/Astronomy/Astronomer/Herschel,William.private|Herschel,William.private]]'
+- '[[/_personal/Astronomy/Astronomer/Herschel,William.personal|Herschel,William.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Herschel,William.secret|Herschel,William.secret]]'
+dv_has_:
+  name_:
+    af: William Herschel
+    ar: ويليام هيرشل
+    arz: ويليام هيرشيل
+    ast: William Herschel
+    az: Uilyam Herşel
+    azb: ویلیام هرشل
+    bar: Wilhelm Herschel
+    be: Уільям Гершэль
+    be-tarask: Ўільям Гэршэль
+    bg: Уилям Хершел
+    bn: উইলিয়াম হার্শেল
+    br: William Herschel
+    bs: William Herschel
+    ca: William Herschel
+    ce: Гершель, Уильям
+    ckb: ویلیام ھێرشل
+    cs: William Herschel
+    cy: William Herschel
+    da: William Herschel
+    de: Wilhelm Herschel
+    de-at: Wilhelm Herschel
+    diq: Wilhelm Herschel
+    el: Ουίλιαμ Χέρσελ
+    en: William Herschel
+    en-gb: William Herschel
+    eo: William Herschel
+    es: William Herschel
+    et: William Herschel
+    eu: William Herschel
+    fa: ویلیام هرشل
+    fi: William Herschel
+    fr: William Herschel
+    frr: Wilhelm Herschel
+    ga: William Herschel
+    gl: William Herschel
+    gv: William Herschel
+    he: ויליאם הרשל
+    hi: विलियम हरशॅल
+    hr: William Herschel
+    hu: William Herschel
+    hy: Ուիլյամ Հերշել
+    ia: William Herschel
+    id: William Herschel
+    io: William Herschel
+    is: William Herschel
+    it: William Herschel
+    ja: ウィリアム・ハーシェル
+    jv: William Herschel
+    ka: უილიამ ჰერშელი
+    kab: William Herschel
+    kk: Уильям Гершель
+    kn: ವಿಲಿಯಮ್ ಹರ್ಷಲ್
+    ko: 윌리엄 허셜
+    kw: William Herschel
+    ky: Уильям Гершель
+    la: Gulielmus Herschel
+    lb: Wilhelm Herschel
+    lt: William Herschel
+    lv: Viljams Heršels
+    mg: Wilhelm Herschel
+    mk: Вилијам Хершел
+    ml: വില്യം ഹെർഷൽ
+    mr: विल्यम हर्शेल
+    ms: William Herschel
+    mul: William Herschel
+    mwl: William Herschel
+    my: ဝီလီယံ ဟာရှယ်
+    nan: William Herschel
+    nb: William Herschel
+    nds: Wilhelm Herschel
+    nl: William Herschel
+    nn: William Herschel
+    nqo: ߥߟߌߦߊߡ ߤߍߙߑߛ߭ߍߟ
+    oc: William Herschel
+    pa: ਵਿਲੀਅਮ ਹਰਸਚੇਲ
+    pam: William Herschel
+    pih: William Herschel
+    pl: William Herschel
+    pms: William Herschel
+    pnb: ولیم ہرشل
+    ps: ویلیام هرشل
+    pt: William Herschel
+    pt-br: William Herschel
+    ro: William Herschel
+    ru: Уильям Гершель
+    scn: William Herschel
+    sco: William Herschel
+    sh: William Herschel
+    sk: Frederick William Herschel
+    sl: William Herschel
+    sq: A. William Herschel
+    sr: Вилхелм Хершел
+    sr-ec: Вилхелм Хершел
+    sv: William Herschel
+    sw: William Herschel
+    ta: வில்லியம் ஹேர்ச்செல்
+    te: విలియం హెర్షెల్
+    th: วิลเลียม เฮอร์เชล
+    tk: William Gerşel
+    tl: William Herschel
+    tr: William Herschel
+    uk: Фрідріх Вільгельм Гершель
+    uz: William Herschel
+    vec: William Herschel
+    vi: William Herschel
+    war: William Herschel
+    wuu: 威廉·赫歇尔
+    xmf: უილიამ ჰერშელი
+    yi: וויליאם הערשל
+    yue: 赫歇爾
+    zh: 威廉·赫歇爾
 ---
-
 # [[Herschel,William]] 
 
 #is_/same_as :: [[../../WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]  

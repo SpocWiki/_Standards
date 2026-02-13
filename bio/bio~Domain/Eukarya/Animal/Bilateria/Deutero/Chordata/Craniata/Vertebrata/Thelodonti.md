@@ -1,8 +1,69 @@
 ---
 aliases:
-  - Thelodonti
+- Celolepida
+- Telodonty
+- Thelodonter
+- Thelodonti
+- Целолепида
+- תלודונטים
+- حلمية الأسنان
+- حلمية الاسنان
+- پستانکدندانان
+- 歯鱗上綱
+- 花鱗魚綱
+- 花鳞鱼纲
 title: Thelodonti
 has_id_wikidata: Q138088
+dv_has_:
+  name_:
+    an: Thelodonti
+    ar: حلمية الأسنان
+    arz: حلمية الاسنان
+    ast: Thelodonti
+    bg: Thelodonti
+    ca: Thelodonti
+    ceb: Thelodonti
+    de: Thelodonti
+    en: Thelodonti
+    eo: Thelodonti
+    es: Thelodonti
+    eu: Thelodonti
+    ext: Thelodonti
+    fa: پستانکدندانان
+    fi: Thelodonti
+    fr: Thelodonti
+    ga: Thelodonti
+    gl: Thelodonti
+    he: תלודונטים
+    ia: Thelodonti
+    ie: Thelodonti
+    io: Thelodonti
+    it: Thelodonti
+    ja: 歯鱗上綱
+    la: Thelodonti
+    mul: Thelodonti
+    nl: Thelodonti
+    oc: Thelodonti
+    pl: Telodonty
+    pt: Thelodonti
+    pt-br: Thelodonti
+    ro: Thelodonti
+    ru: Thelodonti
+    sk: Thelodonti
+    sq: Thelodonti
+    sr: Целолепида
+    sr-ec: Целолепида
+    sr-el: Celolepida
+    sv: Thelodonter
+    uk: Thelodonti
+    vi: Thelodonti
+    vo: Thelodonti
+    war: Thelodonti
+    zh: 花鳞鱼纲
+    zh-cn: 花鳞鱼纲
+    zh-hans: 花鳞鱼纲
+    zh-hant: 花鱗魚綱
+    zh-tw: 花鱗魚綱
 ---
 # [[Thelodonti]] 
 

@@ -1,39 +1,70 @@
 ---
 aliases:
-  - James_Cagney
-  - James Francis Cagney Jr.
-  - James Cagney
-  - Cagney
-  - Cagney,James
+- Cagney
+- Cagney,James
+- Ceyms Keqni
+- Džeimss Kegnijs
+- Iacobus Cagney
+- James Cagney
+- James Francis Cagney Jr.
+- James_Cagney
+- Τζέιμς Κάγκνεϊ
+- Џејмс Кегни
+- Джеймс Кагни
+- Джеймс Кегні
+- Джеймс Кэгни
+- Джэймз Кэгні
+- Джэймс Кэгні
+- Ջեյմս Կեգնի
+- ג'יימס קאגני
+- جيمس كاجنى
+- جيمس كاغني
+- جیمز کاقنی
+- جیمز کاگنی
+- جەیمز کاگنی
+- जेम्स कॅग्नी
+- জেমস ক্যাগনি
+- ਜੇਮਜ਼ ਕੈਗਨੀ
+- ஜேம்ஸ் காக்னி
+- జేమ్స్ కాగ్నీ
+- ജെയിംസ് കാഗ്നി
+- เจมส์ แคกนีย์
+- ჯეიმზ კეგნი
+- ジェームズ・キャグニー
+- 占士·格尼
+- 占士格尼
+- 詹姆斯·卡格尼
+- 詹姆斯·賈格納
+- 제임스 캐그니
 has_id_wikidata: Q94041
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 genre:
-  - '[[_Standards/WikiData/WD~Western_film,172980]]'
-  - '[[_Standards/WikiData/WD~crime_film,959790]]'
-  - '[[_Standards/WikiData/WD~gangster_film,7444356]]'
+- '[[_Standards/WikiData/WD~Western_film,172980]]'
+- '[[_Standards/WikiData/WD~crime_film,959790]]'
+- '[[_Standards/WikiData/WD~gangster_film,7444356]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
 dance_style: '[[_Standards/WikiData/WD~tap_dance,244475]]'
 given_name: '[[_Standards/WikiData/WD~James,677191]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]'
-  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 place_of_death: '[[_Standards/WikiData/WD~Stanford,3250385]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 place_of_burial: '[[_Standards/WikiData/WD~Gate_of_Heaven_Cemetery,4127009]]'
@@ -44,13 +75,13 @@ date_of_birth: 1899-07-17T00:00:00Z
 spouse: '[[_Standards/WikiData/WD~Frances_Cagney,104766659]]'
 position_held: '[[_Standards/WikiData/WD~President_of_SAG,120638159]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Yiddish,8641]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Yiddish,8641]]'
 place_of_birth: '[[_Standards/WikiData/WD~Manhattan,11299]]'
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
-  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 165
@@ -67,8 +98,104 @@ Libris_URI: 20dgk2vl1g9rnzp
 Plex_person_key: 5d776826961905001eb90e0b
 birth_name: James Francis Cagney
 name_in_native_language: James Francis Cagney, Jr.
+dv_has_:
+  name_:
+    ace: James Cagney
+    af: James Cagney
+    an: James Cagney
+    ar: جيمس كاغني
+    arz: جيمس كاجنى
+    ast: James Cagney
+    ay: James Cagney
+    az: Ceyms Keqni
+    azb: جیمز کاقنی
+    ba: Джеймс Кэгни
+    be: Джэймс Кэгні
+    be-tarask: Джэймз Кэгні
+    bg: Джеймс Кагни
+    bi: James Cagney
+    bn: জেমস ক্যাগনি
+    bs: James Cagney
+    ca: James Cagney
+    ckb: جەیمز کاگنی
+    cs: James Cagney
+    cy: James Cagney
+    da: James Cagney
+    de: James Cagney
+    el: Τζέιμς Κάγκνεϊ
+    eml: James Cagney
+    en: James Cagney
+    eo: James Cagney
+    es: James Cagney
+    et: James Cagney
+    eu: James Cagney
+    fa: جیمز کاگنی
+    fi: James Cagney
+    fr: James Cagney
+    ga: James Cagney
+    gd: James Cagney
+    gl: James Cagney
+    he: ג'יימס קאגני
+    hif: James Cagney
+    hr: James Cagney
+    hu: James Cagney
+    hy: Ջեյմս Կեգնի
+    id: James Cagney
+    ilo: James Cagney
+    io: James Cagney
+    it: James Cagney
+    ja: ジェームズ・キャグニー
+    ka: ჯეიმზ კეგნი
+    kk: Джеймс Кэгни
+    ko: 제임스 캐그니
+    la: Iacobus Cagney
+    lb: James Cagney
+    lfn: James Cagney
+    lt: James Cagney
+    lv: Džeimss Kegnijs
+    mg: James Cagney
+    mk: Џејмс Кегни
+    ml: ജെയിംസ് കാഗ്നി
+    mr: जेम्स कॅग्नी
+    nb: James Cagney
+    nl: James Cagney
+    nn: James Cagney
+    oc: James Cagney
+    pa: ਜੇਮਜ਼ ਕੈਗਨੀ
+    pam: James Cagney
+    pap: James Cagney
+    pl: James Cagney
+    pt: James Cagney
+    pt-br: James Cagney
+    qu: James Cagney
+    ro: James Cagney
+    ru: Джеймс Кэгни
+    sh: James Cagney
+    sk: James Cagney
+    sl: James Cagney
+    sq: James Cagney
+    sr: Џејмс Кегни
+    sv: James Cagney
+    sw: James Cagney
+    ta: ஜேம்ஸ் காக்னி
+    te: జేమ్స్ కాగ్నీ
+    th: เจมส์ แคกนีย์
+    tl: James Cagney
+    tr: James Cagney
+    uk: Джеймс Кегні
+    uz: James Cagney
+    vi: James Cagney
+    war: James Cagney
+    wuu: 詹姆斯·卡格尼
+    xmf: ჯეიმზ კეგნი
+    yo: James Cagney
+    yue: 占士格尼
+    zh: 詹姆斯·卡格尼
+    zh-hans: 詹姆斯·卡格尼
+    zh-hant: 詹姆斯·賈格納
+    zh-sg: 占士·格尼
+    zh-tw: 詹姆斯·賈格納
 ---
-
 # [[Cagney,James]] 
 
 #is_/same_as :: [[WD~James_Cagney,94041]] 

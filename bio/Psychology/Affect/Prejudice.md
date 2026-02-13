@@ -1,26 +1,183 @@
 ---
 aliases:
+- aizspriedums
+- ajọ mbunobi
+- Andisha
+- antaŭjuĝo
+- Aurreiritzi
+- claontuairim
+- eelarvamus
+- előítélet
+- ennakkoluulo
+- fordom
+- Fordómur
+- fördom
+- išankstinis nusistatymas
+- munekáddu
+- ouddkäddmõš
+- ovdagáddu
+- paragjykim
+- Praeiudicium
+- Prasangka
+- preconceito
+- predrasuda
+- Predrasude
+- predsodek
+- Preghjudiziu
+- Pregiudisio
+- pregiudizio
+- Pregiudiççi
+- Prehuwisyo
+- prejudecată
+- prejudice
+- prejudici
+- Prejudiko
+- prejuicio
+- Prexuiciu
+- prexuízo
+- préjugé
+- pêşdarazî
+- předsudek
+- Qərəz
+- rhagfarn
+- uprzedzenie
+- vooroordeel
+- Vorurteil
+- åvddågáddo
+- åvtelh-aarvoe
+- önyargı
+- định kiến
+- προκατάληψη
+- Көмүскө эс
+- прадузятасць
+- Предразсъдък
+- предрассудок
+- предрасуда
+- Предрасуде
+- прымхі
+- упередження
+- նախապաշարմունք
+- דעה קדומה
+- تحامل
+- تعصب
+- پیشداوری
+- पूर्वग्रह
+- પૂર્વગ્રહ
+- முன்முடிவு
+- ಪೂರ್ವಗ್ರಹ
+- മുൻവിധി
+- อคติ
+- 偏見
+- 偏见
+- 편견
 has_id_wikidata: Q179742
 instance_of:
-  - "[[../../../WikiData/WD~affect,159904]]"
-  - "[[_Standards/WikiData/WD~type_of_bias,100912473]]"
-subclass_of: "[[_Standards/WikiData/WD~bias,742736]]"
+- '[[../../../WikiData/WD~affect,159904]]'
+- '[[_Standards/WikiData/WD~type_of_bias,100912473]]'
+subclass_of: '[[_Standards/WikiData/WD~bias,742736]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-based_on: "[[_Standards/WikiData/WD~Classification,1744625]]"
-different_from: "[[_Standards/WikiData/WD~prejudice_(legal),109701697]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+based_on: '[[_Standards/WikiData/WD~Classification,1744625]]'
+different_from: '[[_Standards/WikiData/WD~prejudice_(legal),109701697]]'
 Commons_category: Prejudice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mr-prejudice-1943.jpg
 Universal_Decimal_Classification: 316.647.8
 UMLS_CUI: C0033023
 MeSH_tree_code:
-  - F01.145.813.550
-  - F01.829.595
+- F01.145.813.550
+- F01.829.595
 Gujarati_Vishwakosh_entry: પૂર્વગ્રહ-prejudice
+dv_has_:
+  name_:
+    ar: تحامل
+    ast: Prexuiciu
+    az: Qərəz
+    be: прадузятасць
+    be-tarask: прымхі
+    bg: Предразсъдък
+    bs: predrasuda
+    ca: prejudici
+    co: Preghjudiziu
+    cs: předsudek
+    cy: rhagfarn
+    da: fordom
+    de: Vorurteil
+    de-ch: Vorurteil
+    el: προκατάληψη
+    en: prejudice
+    en-ca: prejudice
+    en-gb: prejudice
+    eo: antaŭjuĝo
+    es: prejuicio
+    et: eelarvamus
+    eu: Aurreiritzi
+    fa: پیشداوری
+    fi: ennakkoluulo
+    fr: préjugé
+    ga: claontuairim
+    gl: prexuízo
+    gu: પૂર્વગ્રહ
+    he: דעה קדומה
+    hi: पूर्वग्रह
+    hr: predrasuda
+    hu: előítélet
+    hy: նախապաշարմունք
+    id: Prasangka
+    ig: ajọ mbunobi
+    io: Prejudiko
+    is: Fordómur
+    it: pregiudizio
+    ja: 偏見
+    kn: ಪೂರ್ವಗ್ರಹ
+    ko: 편견
+    ku: pêşdarazî
+    ky: Көмүскө эс
+    la: Praeiudicium
+    lij: Pregiudiççi
+    lt: išankstinis nusistatymas
+    lv: aizspriedums
+    mk: предрасуда
+    ml: മുൻവിധി
+    ms: Prasangka
+    nb: fordom
+    nl: vooroordeel
+    pl: uprzedzenie
+    ps: تعصب
+    pt: preconceito
+    pt-br: preconceito
+    ro: prejudecată
+    ru: предрассудок
+    se: ovdagáddu
+    sh: Predrasuda
+    sl: predsodek
+    sma: åvtelh-aarvoe
+    smj: åvddågáddo
+    smn: munekáddu
+    sms: ouddkäddmõš
+    sq: paragjykim
+    sr: предрасуда
+    sr-ec: Предрасуде
+    sr-el: Predrasude
+    sv: fördom
+    ta: முன்முடிவு
+    th: อคติ
+    tl: Prehuwisyo
+    tr: önyargı
+    uk: упередження
+    uz: Andisha
+    vec: Pregiudisio
+    vi: định kiến
+    yue: 偏見
+    zh: 偏見
+    zh-cn: 偏见
+    zh-hans: 偏见
+    zh-hant: 偏見
+    zh-hk: 偏見
+    zh-sg: 偏见
+    zh-tw: 偏見
 ---
-
 # [[Prejudice]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Prejudice,179742|WD~Prejudice,179742]]  

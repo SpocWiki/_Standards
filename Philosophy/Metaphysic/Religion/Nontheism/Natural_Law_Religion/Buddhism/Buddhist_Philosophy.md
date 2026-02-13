@@ -1,16 +1,119 @@
 ---
 aliases:
-  - Buddhist philosophy
-  - Buddhistische Philosophie
-  - Buddhist_Philosophy
-  - Buddhist Philosophy
+- ba
+- boeddhistische filosofie
+- Buddhalainen filosofia
+- Buddhist philosophy
+- buddhista filozófia
+- buddhistická filozofie
+- Buddhistische Philosophie
+- buddhistisk filosofi
+- Buddhist_Philosophy
+- budhisma filozofio
+- Budhistická filozofia
+- budisma filozofija
+- Budist felsefe
+- Budistička filozofija
+- Filosofia buddista
+- filosofia budista
+- Filosofía budista
+- filozofia buddyjska
+- filsafat Buddha
+- Philosophia Buddhistica
+- philosophie bouddhiste
+- Pilosopiyang Budista
+- Triết học Phật giáo
+- Буддійська філософія
+- буддийская философия
+- Буддын гүн ухаан
+- будистичка филозофија
+- будыйская філязофія
+- Բուդդայական փիլիսոփայություն
+- פילוסופיה בודהיסטית
+- بودايي فلسفه
+- فلسفة بوذية
+- فلسفه بودایی
+- बुद्ध धर्मया दर्शन
+- बौद्ध दर्शन
+- বৌদ্ধ দর্শন
+- বৌদ্ধ দৰ্শন
+- ਬੁੱਧ ਫ਼ਲਸਫ਼ਾ
+- பௌத்த மெய்யியல்
+- ബൗദ്ധദർശനം
+- බුදු දහම
+- ბუდისტური ფილოსოფია
+- 仏教哲学
+- 佛教哲学
+- 佛教哲學
+- 불교 철학
 has_id_wikidata: Q1001079
 subclass_of: '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Buddhist_Philosophy_sidebar,99340903]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
 P8189: 987007541111005171
+dv_has_:
+  name_:
+    ar: فلسفة بوذية
+    as: বৌদ্ধ দৰ্শন
+    ast: Filosofía budista
+    ba: ba
+    be-tarask: будыйская філязофія
+    bho: बौद्ध दर्शन
+    bn: বৌদ্ধ দর্শন
+    ca: filosofia budista
+    cs: buddhistická filozofie
+    de: buddhistische Philosophie
+    en: buddhist philosophy
+    eo: budhisma filozofio
+    es: filosofía budista
+    eu: Filosofia budista
+    fa: فلسفه بودایی
+    fi: Buddhalainen filosofia
+    fr: philosophie bouddhiste
+    gl: Filosofía budista
+    he: פילוסופיה בודהיסטית
+    hi: बौद्ध दर्शन
+    hu: buddhista filozófia
+    hy: Բուդդայական փիլիսոփայություն
+    id: filsafat Buddha
+    it: Filosofia buddista
+    ja: 仏教哲学
+    ka: ბუდისტური ფილოსოფია
+    ko: 불교 철학
+    la: Philosophia Buddhistica
+    lv: budisma filozofija
+    ml: ബൗദ്ധദർശനം
+    mn: Буддын гүн ухаан
+    nb: buddhistisk filosofi
+    new: बुद्ध धर्मया दर्शन
+    nl: boeddhistische filosofie
+    pa: ਬੁੱਧ ਫ਼ਲਸਫ਼ਾ
+    pl: filozofia buddyjska
+    ps: بودايي فلسفه
+    pt: Filosofia budista
+    ru: буддийская философия
+    sh: Budistička filozofija
+    si: බුදු දහම
+    sk: Budhistická filozofia
+    sr: будистичка филозофија
+    sv: buddhistisk filosofi
+    ta: பௌத்த மெய்யியல்
+    tl: Pilosopiyang Budista
+    tr: Budist felsefe
+    uk: Буддійська філософія
+    vi: Triết học Phật giáo
+    xmf: ბუდისტური ფილოსოფია
+    yue: 佛教哲學
+    zh: 佛教哲學
+    zh-cn: 佛教哲学
+    zh-hans: 佛教哲学
+    zh-hant: 佛教哲學
+    zh-hk: 佛教哲學
+    zh-mo: 佛教哲學
+    zh-my: 佛教哲学
+    zh-sg: 佛教哲学
+    zh-tw: 佛教哲學
 ---
-
 # [[Buddhist_Philosophy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Buddhist_philosophy,1001079|WD~Buddhist_philosophy,1001079]] 

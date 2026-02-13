@@ -1,11 +1,157 @@
 ---
 aliases:
-  - Susan_Sarandon
-  - Susan Sarandon
-  - Susan Abigail Sarandon
-  - Susan Abigail Tomalin
-  - Sarandon,Susan
+- Sarandon,Susan
+- Susan Abigail Sarandon
+- Susan Abigail Tomalin
+- Susan Sarandon
+- Susan Sarandonová
+- Susan_Sarandon
+- Suzan Sarandon
+- Sūzana Sarandona
+- Σούζαν Σαράντον
+- С'юзан Сарандан
+- Сузан Сарандон
+- Сусан Сарандон
+- Сьюзан Сарандон
+- Сьюзан Сарэндан
+- Сьюзан Серендон
+- Сюзън Сарандън
+- Սյուզան Սարանդոն
+- סוזן סרנדון
+- سوزان ساراندون
+- سوزان ساراندۆن
+- سوزان سارندون
+- سوزن سیرینڈن
+- सुसन सारान्डन
+- सुसान सॅरेंडॉन
+- সুজান সার্যান্ডন
+- ਸੂਜ਼ਨ ਸਾਰੈਂਡਨ
+- സൂസൻ സരാൻഡൻ
+- ซูเซิน ซาแรนดอน
+- სუზან სარანდონი
+- スーザン・サランドン
+- 苏珊·莎兰登
+- 苏珊·莎兰顿
+- 苏珊·萨兰登
+- 蘇珊·莎朗頓
+- 蘇珊·莎蘭登
+- 蘇珊莎朗頓
+- 수전 서랜던
 has_id_wikidata: Q133050
+dv_has_:
+  name_:
+    af: Susan Sarandon
+    an: Susan Sarandon
+    ar: سوزان سارندون
+    arz: سوزان سارندون
+    ast: Susan Sarandon
+    azb: سوزان ساراندون
+    be: С'юзан Сарандан
+    be-tarask: Сьюзан Сарэндан
+    bg: Сюзън Сарандън
+    bi: Susan Sarandon
+    bn: সুজান সার্যান্ডন
+    bs: Susan Sarandon
+    ca: Susan Sarandon
+    ceb: Susan Sarandon
+    ckb: سوزان ساراندۆن
+    co: Susan Sarandon
+    cs: Susan Sarandonová
+    cy: Susan Sarandon
+    da: Susan Sarandon
+    de: Susan Sarandon
+    de-ch: Susan Sarandon
+    el: Σούζαν Σαράντον
+    eml: Susan Sarandon
+    en: Susan Sarandon
+    en-ca: Susan Sarandon
+    en-gb: Susan Sarandon
+    eo: Susan Sarandon
+    es: Susan Sarandon
+    et: Susan Sarandon
+    eu: Susan Sarandon
+    fa: سوزان ساراندون
+    fi: Susan Sarandon
+    fr: Susan Sarandon
+    ga: Susan Sarandon
+    gl: Susan Sarandon
+    he: סוזן סרנדון
+    hr: Susan Sarandon
+    hu: Susan Sarandon
+    hy: Սյուզան Սարանդոն
+    ia: Susan Sarandon
+    id: Susan Sarandon
+    ie: Susan Sarandon
+    ig: Susan Sarandon
+    ilo: Susan Sarandon
+    io: Susan Sarandon
+    is: Susan Sarandon
+    it: Susan Sarandon
+    ja: スーザン・サランドン
+    ka: სუზან სარანდონი
+    kk: Сьюзан Сарандон
+    ko: 수전 서랜던
+    la: Susan Sarandon
+    lb: Susan Sarandon
+    lt: Susan Sarandon
+    lv: Sūzana Sarandona
+    mk: Сузан Сарандон
+    ml: സൂസൻ സരാൻഡൻ
+    mn: Сьюзан Сарандон
+    mr: सुसान सॅरेंडॉन
+    ms: Susan Sarandon
+    mul: Susan Sarandon
+    nb: Susan Sarandon
+    ne: सुसन सारान्डन
+    nl: Susan Sarandon
+    nn: Susan Sarandon
+    oc: Susan Sarandon
+    pa: ਸੂਜ਼ਨ ਸਾਰੈਂਡਨ
+    pam: Susan Sarandon
+    pap: Susan Sarandon
+    pl: Susan Sarandon
+    pms: Susan Sarandon
+    pnb: سوزن سیرینڈن
+    pt: Susan Sarandon
+    pt-br: Susan Sarandon
+    qu: Susan Sarandon
+    ro: Susan Sarandon
+    ru: Сьюзан Сарандон
+    sc: Susan Sarandon
+    scn: Susan Sarandon
+    sco: Susan Sarandon
+    sh: Susan Sarandon
+    sk: Susan Sarandonová
+    skr: سوزن سیرینڈن
+    sl: Susan Sarandon
+    sq: Susan Sarandon
+    sr: Сузан Сарандон
+    sr-ec: Сузан Сарандон
+    sr-el: Suzan Sarandon
+    su: Susan Sarandon
+    sv: Susan Sarandon
+    tg: Сусан Сарандон
+    tg-latn: Susan Sarandon
+    th: ซูเซิน ซาแรนดอน
+    tl: Susan Sarandon
+    tr: Susan Sarandon
+    uk: Сьюзан Серендон
+    ur: سوزن سیرینڈن
+    uz: Susan Sarandon
+    vi: Susan Sarandon
+    war: Susan Sarandon
+    wuu: 苏珊·萨兰登
+    xmf: სუზან სარანდონი
+    yo: Susan Sarandon
+    yue: 蘇珊莎朗頓
+    zh: 蘇珊·莎蘭登
+    zh-cn: 苏珊·莎兰登
+    zh-hans: 苏珊·莎兰登
+    zh-hant: 蘇珊·莎蘭登
+    zh-hk: 蘇珊·莎朗頓
+    zh-my: 苏珊·莎兰顿
+    zh-sg: 苏珊·萨兰登
+    zh-tw: 蘇珊·莎蘭登
 ---
 # [[Sarandon,Susan]] 
 

@@ -1,8 +1,83 @@
 ---
 has_id_wikidata: Q2051704
+dv_has_:
+  name_:
+    ar: ذاكرة كاذبة
+    az: Paramneziya
+    ca: fals record
+    da: falsk erindring
+    de: falsche Erinnerungen
+    el: παραμνησία
+    en: false memory
+    en-ca: False memory
+    en-gb: false memory
+    eo: falsa memoro
+    es: Falsos recuerdos
+    et: Valemälestus
+    eu: sasioroitzapen
+    fa: حافظه کاذب
+    fi: valemuisto
+    fr: faux souvenirs
+    he: זכרונות שגויים
+    hy: Պարամնեզիա
+    id: Ingatan palsu
+    is: fölsk minning
+    it: falso ricordo
+    ja: 虚偽記憶
+    ko: 오기억
+    ms: Memori palsu
+    nb: falskt minne
+    nl: herinneringsvervalsing
+    pt: Falsas memórias
+    ro: memorie falsă
+    ru: парамнезия
+    sl: napačni spomin
+    sr: Мандела ефекат
+    sv: falskt minne
+    tr: Sahte anı
+    uk: парамнезія
+    vi: Ký ức giả
+    yue: 虛假記憶
+    zh: 虛假記憶
+    zh-hans: 错误的图像和记忆
+    zh-hant: 錯誤的影象和記憶
+aliases:
+- fals record
+- falsa memoro
+- Falsas memórias
+- falsche Erinnerungen
+- false memory
+- falsk erindring
+- falskt minne
+- falso ricordo
+- Falsos recuerdos
+- faux souvenirs
+- fölsk minning
+- herinneringsvervalsing
+- Ingatan palsu
+- Ký ức giả
+- Memori palsu
+- memorie falsă
+- napačni spomin
+- Paramneziya
+- Sahte anı
+- sasioroitzapen
+- valemuisto
+- Valemälestus
+- παραμνησία
+- Мандела ефекат
+- парамнезія
+- парамнезия
+- Պարամնեզիա
+- זכרונות שגויים
+- حافظه کاذب
+- ذاكرة كاذبة
+- 虚偽記憶
+- 虛假記憶
+- 錯誤的影象和記憶
+- 错误的图像和记忆
+- 오기억
 ---
-
-
 # [[False_Memory]] 
 
 

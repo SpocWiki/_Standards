@@ -1,20 +1,56 @@
 ---
 aliases:
-  - Domino
-  - Dominoes
+- Batèe
+- domeno
+- Domino
+- Dominoes
+- Dominoja
+- dominos
+- Dominospill
+- Dominu
+- Dominòs
+- Dominó
+- Doomino
+- Dumnad
+- dòmino
+- Dómínóspil
+- Gaplè'
+- Gapléh
+- Pamainan Domino
+- Ντόμινο
+- Даалы ойнаары
+- даміно
+- доміно
+- Домине
+- домино
+- Домино (игра)
+- Нүх шахах
+- Դոմինո
+- דומינו
+- دومنة
+- دومينو
+- دومینو
+- โดมิโน
+- ໂດມິໂນ
+- ドミノ
+- 多米諾骨牌
+- 多米诺骨牌
+- 西洋骨牌
+- 骨牌
+- 도미노
 has_id_wikidata: Q32907
 different_from:
-  - '[[_Standards/WikiData/WD~Domino,227425]]'
-  - '[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]'
+- '[[_Standards/WikiData/WD~Domino,227425]]'
+- '[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of: '[[_Standards/WikiData/WD~tile_based_game,1272194]]'
 based_on: '[[_Standards/WikiData/WD~Pai_gow,1278119]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Toys,21830926]]'
+- '[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]'
+- '[[_Standards/WikiData/WD~WikiProject_Toys,21830926]]'
 has_part_s_: '[[_Standards/WikiData/WD~domino_tile,16629690]]'
 subclass_of: '[[_Standards/WikiData/WD~game_equipment,17638008]]'
 minimum_number_of_players: 2
@@ -28,8 +64,93 @@ Iconclass_notation: 43C54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dominospiel.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Domino-article.ogg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Zusammenstellung%20Domino%200-0%20bis%206-6%2020220614.stl
+dv_has_:
+  name_:
+    ace: Batèe
+    acm: دومنة
+    ar: دومينو
+    arz: دومينو
+    ast: Dominó
+    az: Domino
+    azb: دومینو
+    be: даміно
+    be-tarask: даміно
+    bew: Gaplè'
+    bg: Домино (игра)
+    br: Domino
+    ca: dòmino
+    cs: domino
+    cv: Домино
+    da: Domino
+    de: Domino
+    el: Ντόμινο
+    en: dominoes
+    en-ca: Dominoes
+    en-gb: dominoes
+    eo: domeno
+    es: Dominó
+    et: Doomino
+    eu: Domino
+    fa: دومینو
+    fi: Domino
+    fr: dominos
+    gl: Dominó
+    he: דומינו
+    hr: Domino
+    ht: Domino
+    hu: dominó
+    hy: Դոմինո
+    id: Domino
+    io: Domino
+    is: Dómínóspil
+    it: domino
+    ja: ドミノ
+    jv: Domino
+    kk: Домино
+    ko: 도미노
+    lb: Dominospill
+    lfn: Dominos
+    lo: ໂດມິໂນ
+    lt: Domino
+    lv: domino
+    min: Pamainan Domino
+    mk: Домино
+    mn: Нүх шахах
+    ms: Domino
+    nb: domino
+    nl: domino
+    nn: Domino
+    oc: Dominòs
+    pap: domino
+    pl: domino
+    pt: dominó
+    pt-br: Dominó
+    ro: domino
+    ru: домино
+    sah: Домино
+    scn: Dominu
+    sk: domino
+    so: Dumnad
+    sq: Dominoja
+    sr: Домине
+    sr-ec: Домине
+    su: Gapléh
+    sv: Domino
+    th: โดมิโน
+    tl: Domino
+    tr: Domino
+    tyv: Даалы ойнаары
+    uk: доміно
+    uz: Domino
+    vi: Domino
+    war: Domino
+    wuu: 西洋骨牌
+    yue: 骨牌
+    zh: 多米诺骨牌
+    zh-cn: 多米诺骨牌
+    zh-hans: 多米诺骨牌
+    zh-hant: 多米諾骨牌
 ---
-
 # [[Dominoes]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dominoes,32907|WD~Dominoes,32907]] 

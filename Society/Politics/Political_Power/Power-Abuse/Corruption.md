@@ -1,15 +1,97 @@
 ---
 aliases:
-  - Korruption
-  - Corruption
+- basilat
+- corrupcion
+- corrupció
+- corrupción
+- Corruptie
+- corruptio
+- Corruption
+- corrupção
+- corruzion
+- corruzione
+- corupție
+- corusion
+- gendelî
+- goubrenerezh
+- kolikoly
+- koripsyon
+- korrupciya
+- korrupsie
+- korrupsion
+- korrupsiya
+- Korrupsje
+- korrupsjon
+- korrupsjovne
+- korrupsjåvnnå
+- korruptio
+- Korruption
+- Korruptioun
+- korruptsioon
+- korrupšuvdna
+- korupce
+- korupcia
+- korupcija
+- korupcja
+- korupsi
+- korupsiyon
+- korupsyon
+- korupto
+- kɛtɛasehyɛ
+- llygredigaeth
+- megvesztegetés
+- musuqmaasaq
+- spilling
+- tham nhũng
+- ufisadi
+- ustelkeria
+- usulsüzlük
+- éillitheacht
+- ìwàìbàjẹ́
+- διαφθορά
+- акоррупциа
+- Бэрик
+- карупцыя
+- коррупция
+- корруци
+- корупція
+- корупција
+- корупция
+- сыбайлас жемқорлықпен күресуші парламентариялардың жаһандық ұйымы
+- фасод
+- կաշառակերություն
+- שחיתות
+- بدعنوانی
+- فساد
+- فساد سياسى
+- فساد سیاسی
+- ڪرپشن
+- گەندەڵی
+- भ्रष्टाचार
+- भ्रष्टाचारः
+- দুর্নীতি
+- ਭ੍ਰਿਸ਼ਟਾਚਾਰ
+- ભ્રષ્ટાચાર
+- அரசியல் ஊழல்
+- లంచం
+- ಬ್ರಷ್ಟಾಚಾರ
+- അഴിമതി
+- การทุจริต
+- ངན་ལྷད།
+- კორუფცია
+- 汚職
+- 腐败
+- 貪污
+- 贪污
+- 정치 부패
 has_id_wikidata: Q366
 different_from: '[[_Standards/WikiData/WD~bribery,187436]]'
 part_of: '[[_Standards/WikiData/WD~abuse,600571]]'
 subclass_of: '[[_Standards/WikiData/WD~wrongdoing,896677]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~police_corruption,1248389]]'
-  - '[[_Standards/WikiData/WD~political_corruption,10858400]]'
-  - '[[_Standards/WikiData/WD~judicial_corruption,77751990]]'
+- '[[_Standards/WikiData/WD~police_corruption,1248389]]'
+- '[[_Standards/WikiData/WD~political_corruption,10858400]]'
+- '[[_Standards/WikiData/WD~judicial_corruption,77751990]]'
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~governance,1553864]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~abuse_of_power,1975478]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Corruption,11013132]]'
@@ -18,8 +100,8 @@ relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiD
 opposite_of: '[[_Standards/WikiData/WD~anti_corruption,60741353]]'
 practiced_by: '[[_Standards/WikiData/WD~corrupt_official,122687476]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 has_characteristic: '[[_Standards/WikiData/WD~evil,15292]]'
 Library_of_Congress_Classification: K5261
 Commons_category: Corruption
@@ -29,8 +111,139 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Campaign%20Contributio
 Wikitribune_category: crime/corruption
 Krugosvet_article: ekonomika-i-pravo/korrupciya
 IPTC_NewsCode: mediatopic/20000093
+dv_has_:
+  name_:
+    ab: акоррупциа
+    aeb-arab: فساد
+    af: korrupsie
+    ar: فساد
+    arz: فساد سياسى
+    ast: corrupción
+    az: korrupsiya
+    azb: فساد
+    ban: Korupsi
+    be: карупцыя
+    be-tarask: карупцыя
+    bg: корупция
+    bn: দুর্নীতি
+    br: goubrenerezh
+    bs: korupcija
+    ca: corrupció
+    ckb: گەندەڵی
+    cs: korupce
+    cv: корруци
+    cy: llygredigaeth
+    da: korruption
+    de: Korruption
+    dz: ངན་ལྷད།
+    el: διαφθορά
+    en: corruption
+    en-ca: corruption
+    en-gb: corruption
+    eo: korupto
+    es: corrupción
+    et: korruptsioon
+    eu: ustelkeria
+    fa: فساد سیاسی
+    fi: korruptio
+    fr: corruption
+    fy: Korrupsje
+    ga: éillitheacht
+    gl: corrupción
+    gsw: Korruption
+    gu: ભ્રષ્ટાચાર
+    ha: corruption
+    he: שחיתות
+    hi: भ्रष्टाचार
+    hr: korupcija
+    ht: koripsyon
+    hu: megvesztegetés
+    hy: կաշառակերություն
+    ia: corruption
+    id: korupsi
+    is: spilling
+    it: corruzione
+    ja: 汚職
+    jv: korupsi
+    ka: კორუფცია
+    kaa: korrupciya
+    kk: сыбайлас жемқорлықпен күресуші парламентариялардың жаһандық ұйымы
+    kn: ಬ್ರಷ್ಟಾಚಾರ
+    ko: 정치 부패
+    ku: gendelî
+    ku-latn: gendelî
+    ky: коррупция
+    la: corruptio
+    lb: Korruptioun
+    li: Corruptie
+    lmo: corruzion
+    lt: korupcija
+    lv: korupcija
+    mg: kolikoly
+    mk: корупција
+    ml: അഴിമതി
+    mr: भ्रष्टाचार
+    ms: korupsi
+    mzn: فساد
+    nb: korrupsjon
+    ne: भ्रष्टाचार
+    nl: corruptie
+    nn: korrupsjon
+    oc: corrupcion
+    pa: ਭ੍ਰਿਸ਼ਟਾਚਾਰ
+    pl: korupcja
+    ps: فساد
+    pt: corrupção
+    pt-br: corrupção
+    ro: corupție
+    ru: коррупция
+    sa: भ्रष्टाचारः
+    sah: Бэрик
+    sco: corruption
+    sd: ڪرپشن
+    se: korrupšuvdna
+    sh: korupcija
+    sk: korupcia
+    sl: korupcija
+    sma: korrupsjovne
+    smj: korrupsjåvnnå
+    smn: korruptio
+    sms: korruptio
+    so: musuqmaasaq
+    sq: korrupsion
+    sr: корупција
+    sr-ec: корупција
+    su: basilat
+    sv: korruption
+    sw: ufisadi
+    ta: அரசியல் ஊழல்
+    te: లంచం
+    tg: фасод
+    th: การทุจริต
+    tl: korupsiyon
+    tr: usulsüzlük
+    tt: Коррупция
+    tw: kɛtɛasehyɛ
+    uk: корупція
+    ur: بدعنوانی
+    uz: korrupsiya
+    vec: corusion
+    vi: tham nhũng
+    war: korupsyon
+    wuu: 贪污
+    xmf: კორუფცია
+    yo: ìwàìbàjẹ́
+    yue: 貪污
+    zh: 貪污
+    zh-cn: 腐败
+    zh-hans: 贪污
+    zh-hant: 貪污
+    zh-hk: 貪污
+    zh-mo: 貪污
+    zh-my: 贪污
+    zh-sg: 贪污
+    zh-tw: 貪污
 ---
-
 # [[Corruption]] 
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Corruption,366|WD~Corruption,366]] 

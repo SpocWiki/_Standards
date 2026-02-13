@@ -1,8 +1,44 @@
 ---
 has_id_wikidata: Q705344
+dv_has_:
+  name_:
+    ar: مغامرات سندباد
+    ast: "Arabian Nights: Sinbad's Adventures"
+    ca: Simbad
+    ckb: سەرکێشییەکانی سیندیباد
+    de: Sindbad
+    en: "Arabian Nights: Sinbad's Adventures"
+    fa: ماجراهای سندباد
+    gl: Simbad
+    he: "Arabian Nights: Sinbad's Adventures"
+    it: Shirab, il ragazzo di Bagdad
+    ja: アラビアンナイト シンドバットの冒険
+    ko: 신밧드의 모험
+    nl: Sinbad de Zeeman
+    pl: Sindbad
+    pt: Sinbad
+    ru: 'Arabian Nights: Sindbad no Bouken'
+    tr: Sinbad
+    zh: 天方夜譚
+    zh-hans: 天方夜谭
+    zh-hant: 天方夜譚
+    zh-hk: 天方夜譚
+aliases:
+- "Arabian Nights: Sinbad's Adventures"
+- 'Arabian Nights: Sindbad no Bouken'
+- Shirab, il ragazzo di Bagdad
+- Simbad
+- Sinbad
+- Sinbad de Zeeman
+- Sindbad
+- سەرکێشییەکانی سیندیباد
+- ماجراهای سندباد
+- مغامرات سندباد
+- アラビアンナイト シンドバットの冒険
+- 天方夜譚
+- 天方夜谭
+- 신밧드의 모험
 ---
-
-
 > Arabian Nights: Sinbad's Adventures 
 > (アラビアンナイト シンドバットの冒険, Arabian Naito: Shindobatto no Bōken) 
 > is a 52-episode anime series directed by Fumio Kurokawa and produced by [[Nippon_Animation|Nippon Animation]] 

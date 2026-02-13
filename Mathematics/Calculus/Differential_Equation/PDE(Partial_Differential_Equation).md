@@ -1,17 +1,143 @@
 ---
 aliases:
+- aequatio differentialis partialis
+- cothromóid pháirtdifreálach
+- deribatu partzialetako ekuazio
+- ecuación en derivadas parciais
+- ecuación en derivadas parciales
+- ecuación en derivaes parciales
+- ecuație cu derivate parțiale
+- ekuacionet diferenciale të pjesshme
+- ekwasyong parsiyal diperensiyal
+- equació diferencial en derivades parcials
+- equazione differenziale alle derivate parziali
+- equação diferencial parcial
+- hafaliad gwahaniaethol rhannol
+- krive drugog reda
+- kısmi diferansiyel denklem
+- osatuletistega diferentsiaalvõrrand
+- osittaisdifferentiaaliyhtälö
+- pairtial differential equation
+- parcialna diferencialna enačba
+- parcijalna diferencijalna jednačina
+- parciális differenciálegyenlet
+- parciálna diferenciálna rovnica
+- parciální diferenciální rovnice
+- parciālais diferenciālvienādojums
+- parta diferenciala ekvacio
+- partial differential equation
+- partiel differentialligning
+- partiell differensialligning
+- partiell differentialekvation
+- partielle Differentialgleichung
+- partiële differentiaalvergelijking
+- persamaan diferensial parsial
+- persamaan pembezaan separa
+- phương trình vi phân riêng phần
+- qismən diferensial tənlik
+- równanie różniczkowe cząstkowe
+- xususiy hosilali differensial tenglama
+- équation aux dérivées partielles
+- μερική διαφορική εξίσωση
+- диференціальне рівняння з частинними похідними
+- дифференциальное уравнение в частных производных
+- дыферэнцыяльнае ўраўненне ў частковых вытворных
+- дыфэрэнцыйнае раўнаньне ў часных вытворных
+- парцијална диференцијална једначина
+- парцијални диференцијални равенки
+- харпăр тăхăмсемлĕ дифференциаллă танлăх
+- частно диференциално уравнение
+- մաթեմատիկական ֆիզիկայի հավասարումներ
+- משוואה דיפרנציאלית חלקית
+- معادلة تفاضلية جزئية
+- معادله دیفرانسیل با مشتقات پارهای
+- आंशिक अवकल समीकरण
+- আংশিক ব্যবকলনীয় সমীকরণ
+- สมการเชิงอนุพันธ์ย่อย
+- 偏微分方程
+- 偏微分方程式
+- 편미분 방정식
 has_id_wikidata: Q271977
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-subclass_of: "[[_Standards/WikiData/WD~differential_equation,11214]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~differential_equation,11214]]'
 Commons_category: Partial differential equations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heat.gif
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/pde
-  - https://stackoverflow.com/tags/pde
+- https://math.stackexchange.com/tags/pde
+- https://stackoverflow.com/tags/pde
 Wolfram_Language_entity_type: PartialDifferentialEquation
+dv_has_:
+  name_:
+    ar: معادلة تفاضلية جزئية
+    ary: معادلة تفاضلية جزئية
+    ast: ecuación en derivaes parciales
+    az: qismən diferensial tənlik
+    be: дыферэнцыяльнае ўраўненне ў частковых вытворных
+    be-tarask: дыфэрэнцыйнае раўнаньне ў часных вытворных
+    bg: частно диференциално уравнение
+    bn: আংশিক ব্যবকলনীয় সমীকরণ
+    bs: krive drugog reda
+    ca: equació diferencial en derivades parcials
+    cs: parciální diferenciální rovnice
+    cv: харпăр тăхăмсемлĕ дифференциаллă танлăх
+    cy: hafaliad gwahaniaethol rhannol
+    da: partiel differentialligning
+    de: partielle Differentialgleichung
+    el: μερική διαφορική εξίσωση
+    en: partial differential equation
+    eo: parta diferenciala ekvacio
+    es: ecuación en derivadas parciales
+    et: osatuletistega diferentsiaalvõrrand
+    eu: deribatu partzialetako ekuazio
+    fa: معادله دیفرانسیل با مشتقات پارهای
+    fi: osittaisdifferentiaaliyhtälö
+    fr: équation aux dérivées partielles
+    ga: cothromóid pháirtdifreálach
+    gl: ecuación en derivadas parciais
+    he: משוואה דיפרנציאלית חלקית
+    hi: आंशिक अवकल समीकरण
+    hu: parciális differenciálegyenlet
+    hy: մաթեմատիկական ֆիզիկայի հավասարումներ
+    id: persamaan diferensial parsial
+    it: equazione differenziale alle derivate parziali
+    ja: 偏微分方程式
+    ko: 편미분 방정식
+    la: aequatio differentialis partialis
+    lv: parciālais diferenciālvienādojums
+    mk: парцијални диференцијални равенки
+    ms: persamaan pembezaan separa
+    nb: partiell differensialligning
+    nl: partiële differentiaalvergelijking
+    pl: równanie różniczkowe cząstkowe
+    pt: equação diferencial parcial
+    pt-br: equação diferencial parcial
+    ro: ecuație cu derivate parțiale
+    ru: дифференциальное уравнение в частных производных
+    sco: pairtial differential equation
+    sh: parcijalna diferencijalna jednačina
+    sk: parciálna diferenciálna rovnica
+    sl: parcialna diferencialna enačba
+    sq: ekuacionet diferenciale të pjesshme
+    sr: парцијална диференцијална једначина
+    sr-ec: парцијална диференцијална једначина
+    sr-el: parcijalna diferencijalna jednačina
+    sv: partiell differentialekvation
+    th: สมการเชิงอนุพันธ์ย่อย
+    tl: ekwasyong parsiyal diperensiyal
+    tr: kısmi diferansiyel denklem
+    uk: диференціальне рівняння з частинними похідними
+    uz: xususiy hosilali differensial tenglama
+    vi: phương trình vi phân riêng phần
+    yue: 偏微分方程
+    zh: 偏微分方程
+    zh-cn: 偏微分方程
+    zh-hans: 偏微分方程
+    zh-hant: 偏微分方程
+    zh-hk: 偏微分方程
+    zh-sg: 偏微分方程
+    zh-tw: 偏微分方程
 ---
-
 # [[PDE(Partial_Differential_Equation)]] 
 
 #is_/same_as :: [[WD~Partial_differential_equation,271977]] 

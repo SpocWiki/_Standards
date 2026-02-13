@@ -1,22 +1,94 @@
 ---
 aliases:
+- A Guerra dos Mundos
+- Dünyaların müharibəsi
+- La guerra de los mundos
+- La guerra dei mondi
+- La Guerra dels Mons (ràdio)
+- La Guerre des mondes
+- La Milito inter la Mondoj
+- Maailmojen sota
+- Pasauļu karš
+- Rat svjetova (radio)
+- Războiul lumilor
+- The War of the Worlds
+- The War of the Worlds (1938 radyo draması)
+- The War of the Worlds (radio)
+- Világok harca
+- Vojna svetov
+- Válka světů
+- Ο Πόλεμος των Κόσμων
+- Війна світів
+- Вайна сусьветаў
+- Война миров
+- Рат светова
+- Աշխարհների պատերազմը
+- מלחמת העולמות
+- جنگ دنیاها
+- حرب العوالم
+- شەڕی جیھانەکان
+- 世界大战 (广播剧)
+- 世界大戰
+- 世界大戰 (廣播劇)
+- 宇宙戦争
+- 우주 전쟁
 has_id_wikidata: Q24958
 date_of_first_performance: 1938-10-30T00:00:00Z
-based_on: "[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019]]"
-set_during_recurring_event: "[[_Standards/WikiData/WD~Halloween,251868]]"
-distributed_by: "[[_Standards/WikiData/WD~CBS_Radio,1022995]]"
-instance_of: "[[_Standards/WikiData/WD~radio_drama,2635894]]"
-part_of_the_series: "[[_Standards/WikiData/WD~The_Mercury_Theatre_on_the_Air,2855378]]"
-genre: "[[_Standards/WikiData/WD~science_fiction_radio_play,4506063]]"
+based_on: '[[_Standards/WikiData/WD~The_War_of_the_Worlds,213019]]'
+set_during_recurring_event: '[[_Standards/WikiData/WD~Halloween,251868]]'
+distributed_by: '[[_Standards/WikiData/WD~CBS_Radio,1022995]]'
+instance_of: '[[_Standards/WikiData/WD~radio_drama,2635894]]'
+part_of_the_series: '[[_Standards/WikiData/WD~The_Mercury_Theatre_on_the_Air,2855378]]'
+genre: '[[_Standards/WikiData/WD~science_fiction_radio_play,4506063]]'
 narrative_location:
-  - "[[_Standards/WikiData/WD~New_York,1384]]"
-  - "[[_Standards/WikiData/WD~New_Jersey,1408]]"
+- '[[_Standards/WikiData/WD~New_York,1384]]'
+- '[[_Standards/WikiData/WD~New_Jersey,1408]]'
 native_label: The War of the Worlds
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Landingsite%20statue.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orson%20Welles%20War%20of%20the%20Worlds%201938.jpg
 Commons_category: The War of the Worlds (radio drama)
+dv_has_:
+  name_:
+    ar: حرب العوالم
+    az: Dünyaların müharibəsi
+    be-tarask: Вайна сусьветаў
+    ca: La Guerra dels Mons (ràdio)
+    ckb: شەڕی جیھانەکان
+    cs: Válka světů
+    de: The War of the Worlds
+    el: Ο Πόλεμος των Κόσμων
+    en: The War of the Worlds
+    en-gb: The War of the Worlds
+    eo: La Milito inter la Mondoj
+    es: La guerra de los mundos
+    eu: The War of the Worlds
+    fa: جنگ دنیاها
+    fi: Maailmojen sota
+    fr: La Guerre des mondes
+    gl: The War of the Worlds (radio)
+    he: מלחמת העולמות
+    hr: Rat svjetova (radio)
+    hu: Világok harca
+    hy: Աշխարհների պատերազմը
+    it: La guerra dei mondi
+    ja: 宇宙戦争
+    ko: 우주 전쟁
+    lv: Pasauļu karš
+    ms: The War of the Worlds
+    nb: The War of the Worlds
+    nl: The War of the Worlds
+    pl: The War of the Worlds
+    pt: A Guerra dos Mundos
+    ro: Războiul lumilor
+    ru: Война миров
+    sl: Vojna svetov
+    sr: Рат светова
+    tr: The War of the Worlds (1938 radyo draması)
+    uk: Війна світів
+    zh: 世界大戰
+    zh-cn: 世界大战 (广播剧)
+    zh-hant: 世界大戰 (廣播劇)
 ---
-
 # [[War_of_the_Worlds(Welles)]] 
 
 #has_/time_/started :: 1938-10-30T20:00 

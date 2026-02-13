@@ -1,8 +1,55 @@
 ---
 aliases:
-  - Nippon Animation
-  - Nippon_Animation
+- Nippon Animation
+- Nippon_Animation
+- ניפון אולפני אנימציה
+- نيبون أنيميشن
+- نيبون انميشين
+- نیپون انیمیشن
+- نیپۆن ئەنیمەیشن
+- 日本アニメーション
+- 日本アニメーション株式会社
+- 日本动画公司
+- 日本動畫公司
+- 닛폰 애니메이션
 has_id_wikidata: Q1051884
+dv_has_:
+  name_:
+    ar: نيبون أنيميشن
+    arz: نيبون انميشين
+    ca: Nippon Animation
+    ckb: نیپۆن ئەنیمەیشن
+    cs: Nippon Animation
+    da: Nippon Animation
+    de: Nippon Animation
+    en: Nippon Animation
+    es: Nippon Animation
+    fa: نیپون انیمیشن
+    fr: Nippon Animation
+    gl: Nippon Animation
+    he: ניפון אולפני אנימציה
+    it: Nippon Animation
+    ja: 日本アニメーション
+    ko: 닛폰 애니메이션
+    lt: Nippon Animation
+    mul: Nippon Animation
+    nb: Nippon Animation
+    nl: Nippon Animation
+    nn: Nippon Animation
+    pl: Nippon Animation
+    pt: Nippon Animation
+    ro: Nippon Animation
+    ru: Nippon Animation
+    sv: Nippon Animation
+    tl: Nippon Animation
+    tr: Nippon Animation
+    uk: Nippon Animation
+    vi: Nippon Animation
+    zh: 日本動畫公司
+    zh-cn: 日本アニメーション株式会社
+    zh-hans: 日本动画公司
+    zh-hant: 日本動畫公司
+    zh-hk: 日本動畫公司
 ---
 #has_/created :: [[Once_upon_a_Time(animations)]]
 

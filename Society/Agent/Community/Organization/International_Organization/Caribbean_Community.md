@@ -1,34 +1,84 @@
 ---
-has_time_started: 1973-06-04 
+has_time_started: 1973-06-04
 aliases:
-  - Caribbean Community
-  - CARICOM
-  - Caribbean_Community
+- Caribbean Community
+- Caribbean_Community
+- CARICOM
+- Communauté caribéenne
+- Communitas Caribaea
+- Comunidad del Caribe
+- Comunidade das Caraíbas
+- Comunidade do Caribe
+- Comunidá del Caribe
+- Comunitat del Carib
+- Comunitatea Caraibelor
+- Comunità del Caràibe
+- Cymuned y Caribi
+- Cộng đồng Caribe
+- Karaibska Wspólnota i Wspólny Rynek
+- Karayip Ortak Pazarı
+- Karib dengizi hamjamiyati
+- Karib Ölkələri Birliyi
+- Karib-tengeri Közösség
+- Karibeko Komunitatea
+- Karibesch Gemeinschaft
+- Karibia Komunumo
+- Karibische Gemeinschaft
+- Karibiska gemenskapen
+- Karibska skupnost
+- Karibské společenství
+- Karibų sandrauga
+- Karipska zajednica
+- Kiaribiyan Komiuniti
+- Komuneso di Karibeano
+- Komunitas Karibia
+- Komuniteti i Karaibeve
+- Komuniti Caribbean
+- Καραϊβική Κοινότητα
+- КАРІКОМ
+- Кариб берләшмәһе
+- Карибска общност
+- Карибское сообщество
+- Карипска Заедница
+- Карыбская супольнасць
+- Карыбская супольнасьць
+- הקהילייה הקריבית
+- الجماعة الكاريبية
+- جامعه و بازار مشترک کارائیب
+- کارابين ټولنه
+- کاراییب انجمن
+- کیربین کمیونٹی
+- ਕੈਰੇਬੀਅਨ ਕਮਿਊਨਿਟੀ
+- კარიბის გაერთიანება
+- カリブ共同体
+- 加勒比共同体
+- 加勒比共同體
+- 카리브 공동체
 has_id_wikidata: Q205995
 official_observer_status_in_organisation:
-  - '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
-  - '[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]'
-  - '[[_Standards/WikiData/WD~Caribbean_Regional_Fisheries_Mechanism,117198149]]'
-  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
+- '[[_Standards/WikiData/WD~International_Maritime_Organization,201054]]'
+- '[[_Standards/WikiData/WD~Caribbean_Regional_Fisheries_Mechanism,117198149]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 website_account_on: '[[_Standards/WikiData/WD~Outlook.com,219136]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-  - '[[_Standards/WikiData/WD~international_organization,484652]]'
-  - '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
 flag: '[[_Standards/WikiData/WD~flag_of_CARICOM,435723]]'
 legal_form: '[[_Standards/WikiData/WD~international_organization,484652]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~CARICOM_Regional_Organisation_for_Standards_and_Quality,5008817]]'
-  - '[[_Standards/WikiData/WD~CARICOM_Regional_Statistics,55587635]]'
+- '[[_Standards/WikiData/WD~CARICOM_Regional_Organisation_for_Standards_and_Quality,5008817]]'
+- '[[_Standards/WikiData/WD~CARICOM_Regional_Statistics,55587635]]'
 replaces: '[[_Standards/WikiData/WD~Caribbean_Free_Trade_Association,5039385]]'
 member_of: '[[_Standards/WikiData/WD~Committee_for_the_Coordination_of_Statistical_Activities,5152967]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Caribbean_Community_(CARICOM),6863626]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_Caribbean_Community,64349028]]'
 economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Caribbean_Community,106020293]]'
 official_language:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Georgetown,10717]]'
 member_count: 15
 social_media_followers: 27136
@@ -45,8 +95,85 @@ EU_Corporate_body_code: CARICOM
 Facebook_username: caricomorg
 X_Twitter_username: CARICOMorg
 short_name: CARICOM
+dv_has_:
+  name_:
+    ar: الجماعة الكاريبية
+    ast: Comunidá del Caribe
+    az: Karib Ölkələri Birliyi
+    ba: Кариб берләшмәһе
+    be: Карыбская супольнасць
+    be-tarask: Карыбская супольнасьць
+    bg: Карибска общност
+    ca: Comunitat del Carib
+    cs: Karibské společenství
+    cy: Cymuned y Caribi
+    da: CARICOM
+    de: Karibische Gemeinschaft
+    el: Καραϊβική Κοινότητα
+    en: Caribbean Community
+    en-ca: Caribbean Community
+    en-gb: Caribbean Community
+    en-us: Caribbean Community
+    eo: Karibia Komunumo
+    es: Comunidad del Caribe
+    eu: Karibeko Komunitatea
+    fa: جامعه و بازار مشترک کارائیب
+    fi: Caricom
+    fr: Communauté caribéenne
+    gl: Comunidade do Caribe
+    he: הקהילייה הקריבית
+    hif: Caribbean Community
+    hr: Karipska zajednica
+    ht: CARICOM
+    hu: Karib-tengeri Közösség
+    id: Komunitas Karibia
+    io: Komuneso di Karibeano
+    is: CARICOM
+    it: CARICOM
+    ja: カリブ共同体
+    jam: Kiaribiyan Komiuniti
+    ka: კარიბის გაერთიანება
+    ko: 카리브 공동체
+    la: Communitas Caribaea
+    lb: Karibesch Gemeinschaft
+    lt: Karibų sandrauga
+    lv: CARICOM
+    mk: Карипска Заедница
+    ms: Komuniti Caribbean
+    mzn: کاراییب انجمن
+    nb: CARICOM
+    nl: Caricom
+    nn: CARICOM
+    pa: ਕੈਰੇਬੀਅਨ ਕਮਿਊਨਿਟੀ
+    pap: Caricom
+    pl: Karaibska Wspólnota i Wspólny Rynek
+    pnb: کیربین کمیونٹی
+    ps: کارابين ټولنه
+    pt: Comunidade das Caraíbas
+    pt-br: Comunidade do Caribe
+    ro: Comunitatea Caraibelor
+    ru: Карибское сообщество
+    sl: Karibska skupnost
+    sq: Komuniteti i Karaibeve
+    sr: Karipska zajednica
+    sv: Karibiska gemenskapen
+    tr: Karayip Ortak Pazarı
+    uk: КАРІКОМ
+    ur: کیربین کمیونٹی
+    uz: Karib dengizi hamjamiyati
+    vec: Comunità del Caràibe
+    vi: Cộng đồng Caribe
+    yue: 加勒比共同體
+    zh: 加勒比共同體
+    zh-cn: 加勒比共同体
+    zh-hans: 加勒比共同体
+    zh-hant: 加勒比共同體
+    zh-hk: 加勒比共同體
+    zh-mo: 加勒比共同體
+    zh-my: 加勒比共同体
+    zh-sg: 加勒比共同体
+    zh-tw: 加勒比共同體
 ---
-
 # [[Caribbean_Community]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Caribbean_Community,205995|WD~Caribbean_Community,205995]] 

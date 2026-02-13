@@ -1,35 +1,107 @@
 ---
 aliases:
-  - Thermodynamik
-  - Thermodynamics
+- daayinaamiksii ho’aa
+- jia̍t-le̍k-ha̍k
+- kaji haba daya gerak
+- lämmäoppus
+- mwendojoto
+- nhiệt động lực học
+- soŋgaɣ nɛ ɖoŋ kpɛlɛkʋʋ tɛ
+- taẓɣlasmussut
+- teirmidinimic
+- termodinamica
+- termodinamică
+- termodinamik
+- termodinamika
+- termodinamiko
+- termodinàmega
+- termodinàmica
+- termodinámica
+- termodinâmica
+- termodynamihkka
+- termodynamiik
+- termodynamiikka
+- termodynamik
+- termodynamika
+- termodynamikk
+- termodînamîk
+- Termodünaamik
+- termodünaamika
+- termudinamica
+- termudinàmica
+- termuodinamėka
+- thermodynameg
+- thermodynamek
+- thermodynamica
+- Thermodynamics
+- Thermodynamik
+- thermodynamique
+- Toermodainamix
+- tèmodinamik
+- varmafræði
+- θερμοδυναμική
+- термодінаміка
+- термодинаміка
+- термодинамик
+- термодинамика
+- тэрмадынаміка
+- ջերմադինամիկա
+- טערמאדינאמיק
+- תרמודינמיקה
+- ترمودینامیک
+- تيرموديناميك
+- تھرموڈائینامکس
+- تێرمۆدینامیک
+- حرحرکیات
+- ديناميكا حرارية
+- ٿرموڊائنامڪس
+- उष्मागतिकी
+- उष्मागतिविज्ञान
+- ऊष्मगतिकी
+- তাপগতি বিজ্ঞান
+- তাপগতিবিজ্ঞান
+- ਤਾਪ ਗਤੀ ਵਿਗਿਆਨ
+- வெப்ப இயக்கவியல்
+- ఉష్ణగతిక శాస్త్రం
+- താപഗതികം
+- තාපගති විද්යාව
+- อุณหพลศาสตร์
+- သာမိုဒိုင်းနမစ်
+- თერმოდინამიკა
+- ⵜⴰⵣⵖⵍⵎⵓⵙⵙⵓⵜ
+- 热力学
+- 熱力学
+- 熱力學
+- 열력학
+- 열역학
 has_id_wikidata: Q11473
 Dewey_Decimal_Classification: 536.7
 significant_person:
-  - '[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]'
-  - '[[_Standards/WikiData/WD~James_Prescott_Joule,8962]]'
-  - '[[_Standards/WikiData/WD~Walther_Nernst,57125]]'
+- '[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]'
+- '[[_Standards/WikiData/WD~James_Prescott_Joule,8962]]'
+- '[[_Standards/WikiData/WD~Walther_Nernst,57125]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
-  - '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
-  - '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
-  - '[[_Standards/WikiData/WD~law_of_thermodynamics,849392]]'
-  - '[[_Standards/WikiData/WD~work,900231]]'
-  - '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916]]'
-  - '[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]'
-  - '[[_Standards/WikiData/WD~energy,11379]]'
-  - '[[_Standards/WikiData/WD~temperature,11466]]'
-  - '[[_Standards/WikiData/WD~pressure,39552]]'
-  - '[[_Standards/WikiData/WD~work,42213]]'
-  - '[[_Standards/WikiData/WD~heat,44432]]'
-  - '[[_Standards/WikiData/WD~entropy,45003]]'
-  - '[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363]]'
+- '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
+- '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
+- '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
+- '[[_Standards/WikiData/WD~law_of_thermodynamics,849392]]'
+- '[[_Standards/WikiData/WD~work,900231]]'
+- '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916]]'
+- '[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]'
+- '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~temperature,11466]]'
+- '[[_Standards/WikiData/WD~pressure,39552]]'
+- '[[_Standards/WikiData/WD~work,42213]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
+- '[[_Standards/WikiData/WD~entropy,45003]]'
+- '[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Thermodynamics_sidebar,6976414]]'
 practiced_by: '[[_Standards/WikiData/WD~thermodynamicist,7783170]]'
 subclass_of: '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
@@ -48,8 +120,152 @@ GitHub_topic: thermodynamics
 hashtag: Thermodynamics
 Commons_gallery: Thermodynamics
 Commons_category: Thermodynamics
+dv_has_:
+  name_:
+    af: termodinamika
+    an: termodinamica
+    anp: उष्मागतिकी
+    ar: ديناميكا حرارية
+    ary: تيرموديناميك
+    as: তাপগতি বিজ্ঞান
+    ast: termodinámica
+    az: termodinamika
+    azb: ترمودینامیک
+    ba: термодинамика
+    bar: Thermodynamik
+    bcl: termodinamika
+    be: тэрмадынаміка
+    be-tarask: тэрмадынаміка
+    bg: термодинамика
+    bn: তাপগতিবিজ্ঞান
+    bs: termodinamika
+    ca: termodinàmica
+    ckb: تێرمۆدینامیک
+    crh: termodinamika
+    cs: termodynamika
+    cv: термодинамика
+    cy: thermodynameg
+    da: termodynamik
+    de: Thermodynamik
+    el: θερμοδυναμική
+    en: thermodynamics
+    eo: termodinamiko
+    es: termodinámica
+    et: termodünaamika
+    eu: termodinamika
+    ext: termodinámica
+    fa: ترمودینامیک
+    fi: termodynamiikka
+    fr: thermodynamique
+    frr: Termodünaamik
+    fy: Termodynamika
+    ga: teirmidinimic
+    gcr: termodinamik
+    gl: termodinámica
+    gn: Termodinámica
+    gsw: Thermodynamik
+    he: תרמודינמיקה
+    hi: उष्मागतिकी
+    hif: thermodynamics
+    hr: termodinamika
+    ht: tèmodinamik
+    hu: termodinamika
+    hy: ջերմադինամիկա
+    ia: thermodynamica
+    id: termodinamika
+    ig: thermodynamics
+    ilo: termodinamika
+    io: termodinamiko
+    is: varmafræði
+    it: termodinamica
+    ja: 熱力学
+    jam: Toermodainamix
+    ka: თერმოდინამიკა
+    kbp: soŋgaɣ nɛ ɖoŋ kpɛlɛkʋʋ tɛ
+    kk: термодинамика
+    ko: 열역학
+    ko-kp: 열력학
+    ku: termodînamîk
+    ku-latn: termodînamîk
+    kw: thermodynamek
+    ky: термодинамика
+    la: thermodynamica
+    lb: Thermodynamik
+    lmo: termudinamica
+    lt: termodinamika
+    lv: termodinamika
+    lzh: 熱力學
+    mag: उष्मागतिविज्ञान
+    mk: термодинамика
+    ml: താപഗതികം
+    mn: термодинамик
+    mr: ऊष्मगतिकी
+    ms: kaji haba daya gerak
+    my: သာမိုဒိုင်းနမစ်
+    nan: jia̍t-le̍k-ha̍k
+    nb: termodynamikk
+    nds: Thermodynamik
+    ne: उष्मागतिकी
+    nl: thermodynamica
+    nn: termodynamikk
+    oc: termodinamica
+    om: daayinaamiksii ho’aa
+    pa: ਤਾਪ ਗਤੀ ਵਿਗਿਆਨ
+    pl: termodynamika
+    pms: termodinàmica
+    pnb: تھرموڈائینامکس
+    ps: ترمودینامیک
+    pt: termodinâmica
+    pt-br: termodinâmica
+    rki: သာမိုဒိုင်းနမစ်
+    ro: termodinamică
+    ru: термодинамика
+    rue: термодінаміка
+    sah: термодинамика
+    sc: termodinàmica
+    scn: termudinàmica
+    sco: thermodynamics
+    sd: ٿرموڊائنامڪس
+    se: termodynamihkka
+    sgs: termuodinamėka
+    sh: termodinamika
+    shi: taẓɣlasmussut
+    si: තාපගති විද්යාව
+    sk: termodynamika
+    sl: termodinamika
+    smn: termodynamiik
+    sms: termodynamikk
+    sq: termodinamika
+    sr: термодинамика
+    sr-ec: термодинамика
+    sv: termodynamik
+    sw: mwendojoto
+    ta: வெப்ப இயக்கவியல்
+    te: ఉష్ణగతిక శాస్త్రం
+    tg: термодинамика
+    th: อุณหพลศาสตร์
+    tl: termodinamika
+    tr: termodinamik
+    tt: термодинамика
+    udm: термодинамика
+    uk: термодинаміка
+    ur: حرحرکیات
+    uz: termodinamika
+    vec: termodinàmega
+    vep: termodinamik
+    vi: nhiệt động lực học
+    vro: lämmäoppus
+    war: termodinamika
+    wuu: 热力学
+    xmf: თერმოდინამიკა
+    yi: טערמאדינאמיק
+    yue: 熱力學
+    zgh: ⵜⴰⵣⵖⵍⵎⵓⵙⵙⵓⵜ
+    zh: 热力学
+    zh-cn: 热力学
+    zh-hans: 热力学
+    zh-hant: 熱力學
 ---
-
 # [[Thermodynamics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Thermodynamics,11473|WD~Thermodynamics,11473]] 

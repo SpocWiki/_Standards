@@ -1,9 +1,102 @@
 ---
 has_id_wikidata: Q14554941
+dv_has_:
+  name_:
+    af: Aalwynfamilie
+    an: Asphodelaceae
+    ar: بروقية
+    ast: Asphodelaceae
+    az: Asfodelinakimilər
+    be: Асфадэлавыя
+    be-tarask: Асфадэлявыя
+    bg: асфоделови
+    bs: Asphodelaceae
+    ca: Asphodelaceae
+    ceb: Asphodelaceae
+    cs: asfodelovité
+    da: Affodil-familien
+    de: Asphodelaceae
+    el: Ασφοδελοειδή
+    en: Asphodelaceae
+    eo: Asfodelacoj
+    es: Asphodelaceae
+    eu: Asphodelaceae
+    ext: Asphodelaceae
+    fa: سریشیان
+    fi: soihtukasvit
+    fr: Asphodelaceae
+    frr: Gäärsbuumplaanten
+    ga: Asphodelaceae
+    gl: Asphodelaceae
+    he: עיריתיים
+    hr: Asphodelaceae
+    hu: fűfafélék
+    ia: Asphodelaceae
+    id: Asphodelaceae
+    ie: Asphodelaceae
+    io: Asphodelaceae
+    it: Asphodelaceae
+    ja: ワスレグサ科
+    ko: 아스포델루스과
+    la: Asphodelaceae
+    lt: Plėnūniniai
+    mk: базери
+    mul: Asphodelaceae
+    nb: Aloëfamilien
+    nl: Affodilfamilie
+    nn: aloefamilien
+    oc: Asphodelaceae
+    pl: Asphodelaceae
+    pt: Asphodelaceae
+    pt-br: Asphodelaceae
+    ro: Asphodelaceae
+    ru: асфоделовые
+    sh: Asphodelaceae
+    sl: zlatokorenovke
+    sq: Asphodelaceae
+    sr: Asphodelaceae
+    sv: Afodillväxter
+    uk: Асфоделові
+    uz: Shirachdoshlar
+    vi: Họ Lan nhật quang
+    vo: Asphodelaceae
+    war: Asphodelaceae
+    zh: 阿福花科
+    zh-cn: 阿福花科
+    zh-hans: 阿福花科
+    zh-tw: 阿福花科
+aliases:
+- Aalwynfamilie
+- Affodil-familien
+- Affodilfamilie
+- Afodillväxter
+- aloefamilien
+- Aloëfamilien
+- Asfodelacoj
+- Asfodelinakimilər
+- asfodelovité
+- Asphodelaceae
+- fűfafélék
+- Gäärsbuumplaanten
+- Họ Lan nhật quang
+- Plėnūniniai
+- Shirachdoshlar
+- soihtukasvit
+- zlatokorenovke
+- Ασφοδελοειδή
+- Асфадэлавыя
+- Асфадэлявыя
+- Асфоделові
+- асфоделови
+- асфоделовые
+- базери
+- עיריתיים
+- بروقية
+- سریشیان
+- ワスレグサ科
+- 阿福花科
+- 아스포델루스과
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **Asphodelaceae** is a family of flowering plants in the order Asparagales. 

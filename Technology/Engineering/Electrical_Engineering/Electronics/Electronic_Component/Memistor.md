@@ -1,8 +1,27 @@
 ---
 has_id_wikidata: Q6034938
+dv_has_:
+  name_:
+    en: Memistor
+    eu: memistore
+    fa: ممیستور
+    ru: Мемистор
+    tr: Memistor
+    uk: Мемістор
+    vi: Memistor
+    zh: 存储电阻器
+    zh-cn: 存储电阻器
+    zh-hans: 存储电阻器
+    zh-hant: 儲存電阻器
+aliases:
+- Memistor
+- memistore
+- Мемістор
+- Мемистор
+- ممیستور
+- 儲存電阻器
+- 存储电阻器
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > A **Memistor** is a nanoelectric circuitry element used in parallel computing memory technology. 

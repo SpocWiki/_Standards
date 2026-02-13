@@ -1,8 +1,66 @@
 ---
 has_id_wikidata: Q176457
+dv_has_:
+  name_:
+    ar: سوبرترامب
+    ast: Supertramp
+    azb: سوپرترمپ
+    bg: Супертрамп
+    bs: Supertramp
+    ca: Supertramp
+    cs: Supertramp
+    da: Supertramp
+    de: Supertramp
+    el: Supertramp
+    en: Supertramp
+    eo: Supertramp
+    es: Supertramp
+    et: Supertramp
+    eu: Supertramp
+    fa: سوپرترمپ
+    fi: Supertramp
+    fr: Supertramp
+    ga: Supertramp
+    gl: Supertramp
+    he: סופרטרמפ
+    hr: Supertramp
+    hu: Supertramp
+    id: Supertramp
+    io: Supertramp
+    it: Supertramp
+    ja: スーパートランプ
+    ko: 슈퍼트램프
+    lt: Supertramp
+    lv: Supertramp
+    mk: Supertramp
+    mul: Supertramp
+    nb: Supertramp
+    nl: Supertramp
+    nn: Supertramp
+    oc: Supertramp
+    pl: Supertramp
+    pt: Supertramp
+    ro: Supertramp
+    ru: Supertramp
+    sv: Supertramp
+    tr: Supertramp
+    zh: 超級流浪漢合唱團
+    zh-cn: 哥伦布时代前的跨大洋接触年表
+    zh-hans: 超级流浪汉
+    zh-hant: 哥倫布時代前的跨大洋接觸年表
+aliases:
+- Supertramp
+- Супертрамп
+- סופרטרמפ
+- سوبرترامب
+- سوپرترمپ
+- スーパートランプ
+- 哥伦布时代前的跨大洋接触年表
+- 哥倫布時代前的跨大洋接觸年表
+- 超級流浪漢合唱團
+- 超级流浪汉
+- 슈퍼트램프
 ---
-
-
 > **Supertramp** were a British rock band that formed in London in 1970. 
 > They experienced their greatest global success in 1979 with their sixth album Breakfast in America. 
 > Marked by the individual songwriting of founders Roger Hodgson (vocals, keyboards and guitars) 

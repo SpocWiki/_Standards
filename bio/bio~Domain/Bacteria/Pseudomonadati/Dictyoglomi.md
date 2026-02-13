@@ -1,10 +1,51 @@
 ---
 aliases:
-  - Dictyoglomi
-  - Dictyoglomus
-  - Dictyoglomerota
+- Dictyoglomerota
+- Dictyoglomi
+- Dictyoglomus
+- شبكيات الكبب
 title: Dictyoglomi
 has_id_wikidata: Q12218368
+dv_has_:
+  name_:
+    an: Dictyoglomus
+    ar: شبكيات الكبب
+    ast: Dictyoglomus
+    bg: Dictyoglomus
+    ca: Dictyoglomus
+    ceb: Dictyoglomus
+    da: Dictyoglomus
+    de: Dictyoglomus
+    en: Dictyoglomus
+    eo: Dictyoglomus
+    es: Dictyoglomus
+    eu: Dictyoglomus
+    ext: Dictyoglomus
+    fi: Dictyoglomus
+    fr: Dictyoglomus
+    ga: Dictyoglomus
+    gl: Dictyoglomus
+    ia: Dictyoglomus
+    ie: Dictyoglomus
+    io: Dictyoglomus
+    it: Dictyoglomus
+    la: Dictyoglomus
+    mul: Dictyoglomus
+    nb: Dictyoglomus
+    nl: Dictyoglomus
+    nn: Dictyoglomus
+    oc: Dictyoglomus
+    pl: Dictyoglomus
+    pt: Dictyoglomus
+    pt-br: Dictyoglomus
+    ro: Dictyoglomus
+    ru: Dictyoglomus
+    sq: Dictyoglomus
+    sv: Dictyoglomus
+    uk: Dictyoglomus
+    vi: Dictyoglomus
+    vo: Dictyoglomus
+    war: Dictyoglomus
 ---
 # [[Dictyoglomi]] 
 

@@ -1,10 +1,57 @@
 ---
 aliases:
-  - KKR
-  - Kohlberg Kravis Roberts
-  - KKR(Kohlberg_Kravis_Roberts)
-  - KKR(Kohlberg Kravis Roberts)
+- KKR
+- KKR & Co.
+- KKR(Kohlberg Kravis Roberts)
+- KKR(Kohlberg_Kravis_Roberts)
+- Kohlberg Kravis Roberts
+- كولبرج كرافيس روبرتس
+- کوهلبرق کراویس رابرتس
+- کوهلبرگ کراویس رابرتس
+- コールバーグ・クラビス・ロバーツ
+- 科尔伯格－克拉维斯－罗伯茨
+- 科爾伯格－克拉維斯－羅伯茨
+- 콜버그 크래비스 로버츠
 has_id_wikidata: Q1570773
+dv_has_:
+  name_:
+    ar: كولبرج كرافيس روبرتس
+    azb: کوهلبرق کراویس رابرتس
+    ca: KKR
+    cs: Kohlberg Kravis Roberts
+    da: Kohlberg Kravis Roberts
+    de: Kohlberg Kravis Roberts
+    en: Kohlberg Kravis Roberts
+    es: Kohlberg Kravis Roberts
+    fa: کوهلبرگ کراویس رابرتس
+    fi: Kohlberg Kravis Roberts
+    fo: Kohlberg Kravis Roberts
+    fr: Kohlberg Kravis Roberts
+    ga: Kohlberg Kravis Roberts
+    id: Kohlberg Kravis Roberts
+    is: Kohlberg Kravis Roberts
+    it: Kohlberg Kravis Roberts
+    ja: コールバーグ・クラビス・ロバーツ
+    kl: Kohlberg Kravis Roberts
+    ko: 콜버그 크래비스 로버츠
+    lt: Kohlberg Kravis Roberts
+    ms: Kohlberg Kravis Roberts
+    nb: Kohlberg Kravis Roberts
+    nl: Kohlberg Kravis Roberts
+    nn: Kohlberg Kravis Roberts
+    pl: KKR & Co.
+    pt: Kohlberg Kravis Roberts
+    ro: Kohlberg Kravis Roberts
+    ru: Kohlberg Kravis Roberts
+    sl: Kohlberg Kravis Roberts
+    sr: Kohlberg Kravis Roberts
+    sv: Kohlberg Kravis Roberts
+    tr: Kohlberg Kravis Roberts
+    vec: Kohlberg Kravis Roberts
+    zh: 科尔伯格－克拉维斯－罗伯茨
+    zh-hans: 科尔伯格－克拉维斯－罗伯茨
+    zh-hant: 科爾伯格－克拉維斯－羅伯茨
+    zh-hk: 科爾伯格－克拉維斯－羅伯茨
 ---
 ## #has_/text_of_/abstract 
 

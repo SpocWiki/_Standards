@@ -1,26 +1,137 @@
 ---
 aliases:
-  - Human overpopulation
-  - Human_Overpopulation
-  - Human Overpopulation
+- aşırı insan nüfusu artışı
+- Gainpopulazio
+- gyventojų perteklius
+- Human overpopulation
+- Human_Overpopulation
+- Hyperplēthysmos
+- janasankhya vardhanavum prashnangalum
+- liikakansoitus
+- Mbipopullimi njerëzor
+- Nkarị ọnụ ọgụgụ mmadụ
+- Overbefolkning
+- overbevolking
+- overfolking
+- Overpopulasi
+- penduduk berlebihan
+- Prenaseljenost
+- Preľudnenie
+- przeludnienie
+- Pārapdzīvotība
+- přelidnění
+- Quá tải dân số
+- ródhaonra
+- sobrepoblación
+- sovrappopolazione
+- Superpoblació humana
+- Superpoblación
+- superpoboación humana
+- superpopulação
+- suprapopularea umană
+- surpopulation humaine
+- troloĝiĝo
+- túlnépesedés
+- vasti visfot
+- wingi wa watu
+- överbefolkning
+- Überbevölkerung
+- Ülerahvastus
+- υπερπληθυσμός
+- перанасяленасьць
+- перенаселение
+- перенаселення
+- Пренаселеност
+- пренаселување
+- התפוצצות אוכלוסין
+- ازدیاد جمعیت انسان
+- اكتظاظ سكاني بشري
+- मानव जनाधिक्य
+- অতিরিক্ত জনসংখ্যা
+- மிகுமக்கள்தொகை
+- ಜನ ಸಂಖ್ಯೆ ಸ್ಫೋಟ
+- დემოგრაფიული აფეთქება
+- 人口过多
+- 人口過剰
+- 人口過多
+- 인구 폭발
 has_id_wikidata: Q331439
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~human_population_control,130819]]'
 has_cause: '[[_Standards/WikiData/WD~human_population_explosion,851982]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~climate_catastrophe,1774397]]'
-  - '[[_Standards/WikiData/WD~urban_decay,2039238]]'
-  - '[[_Standards/WikiData/WD~food_crisis,2964234]]'
-  - '[[_Standards/WikiData/WD~conflict_escalation,5160184]]'
+- '[[_Standards/WikiData/WD~climate_catastrophe,1774397]]'
+- '[[_Standards/WikiData/WD~urban_decay,2039238]]'
+- '[[_Standards/WikiData/WD~food_crisis,2964234]]'
+- '[[_Standards/WikiData/WD~conflict_escalation,5160184]]'
 instance_of: '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Q6173448,6173448]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~Q6173448,6173448]]'
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 different_from: '[[_Standards/WikiData/WD~overpopulation,7113866]]'
 subclass_of: '[[_Standards/WikiData/WD~overpopulation,7113866]]'
 Commons_category: Human overpopulation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20population%20v3.svg
+dv_has_:
+  name_:
+    ar: اكتظاظ سكاني بشري
+    ast: Superpoblación
+    be-tarask: перанасяленасьць
+    bg: Пренаселеност
+    bn: অতিরিক্ত জনসংখ্যা
+    ca: Superpoblació humana
+    cs: přelidnění
+    da: Overbefolkning
+    de: Überbevölkerung
+    el: υπερπληθυσμός
+    en: human overpopulation
+    eo: troloĝiĝo
+    es: sobrepoblación
+    et: Ülerahvastus
+    eu: Gainpopulazio
+    fa: ازدیاد جمعیت انسان
+    fi: liikakansoitus
+    fr: surpopulation humaine
+    ga: ródhaonra
+    gl: superpoboación humana
+    gu: vasti visfot
+    he: התפוצצות אוכלוסין
+    hi: मानव जनाधिक्य
+    hu: túlnépesedés
+    id: Overpopulasi
+    ig: Nkarị ọnụ ọgụgụ mmadụ
+    it: sovrappopolazione
+    ja: 人口過剰
+    ka: დემოგრაფიული აფეთქება
+    kn: ಜನ ಸಂಖ್ಯೆ ಸ್ಫೋಟ
+    ko: 인구 폭발
+    la: Hyperplēthysmos
+    lt: gyventojų perteklius
+    lv: Pārapdzīvotība
+    mk: пренаселување
+    ml: janasankhya vardhanavum prashnangalum
+    ms: penduduk berlebihan
+    nb: overbefolkning
+    nl: overbevolking
+    nn: overfolking
+    pl: przeludnienie
+    pt: superpopulação
+    ro: suprapopularea umană
+    ru: перенаселение
+    sh: Prenaseljenost
+    sk: Preľudnenie
+    sl: prenaseljenost
+    sq: Mbipopullimi njerëzor
+    sr: Prenaseljenost
+    sv: överbefolkning
+    sw: wingi wa watu
+    ta: மிகுமக்கள்தொகை
+    tr: aşırı insan nüfusu artışı
+    uk: перенаселення
+    vi: Quá tải dân số
+    wuu: 人口过多
+    yue: 人口過多
+    zh: 人口過多
 ---
-
 # [[Human_Overpopulation]] 
 
 #is_/same_as :: [[WD~Human_overpopulation,331439]] 

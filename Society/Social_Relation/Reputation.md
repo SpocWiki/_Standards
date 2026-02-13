@@ -1,19 +1,114 @@
 ---
 aliases:
-  - Ansehen
-  - Reputation
+- Ansehen
+- dobré jméno
+- erreputazio
+- Frama
+- Maine
+- Obroʻ
+- omdømme
+- Renume
+- Reputaasje
+- Reputacija
+- reputacio
+- Reputacioni
+- reputació
+- reputación
+- reputasi
+- reputatie
+- Reputation
+- Reputatioun
+- reputatsioon
+- reputazione
+- reputação
+- Reputācija
+- Repwtacïya
+- réputation
+- tísə̀mpà
+- Ugled
+- Uy tín
+- wizerunek
+- репутація
+- Репутација
+- репутация
+- מוניטין
+- רעפוטאציע
+- آبرو
+- ئابڕوو
+- رەپۋتاتسىييا
+- سمعة
+- شہرت
+- यश
+- ชื่อเสียง
+- 信誉
+- 信譽
+- 名声
+- 명성
 has_id_wikidata: Q877546
 subclass_of: '[[_Standards/WikiData/WD~social_status,189970]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~credibility,1821569]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q89913710,89913710]]'
 OmegaWiki_Defined_Meaning: 964810
 IMDb_keyword: reputation
+dv_has_:
+  name_:
+    ar: سمعة
+    bg: Репутация
+    bs: Ugled
+    ca: reputació
+    ckb: ئابڕوو
+    cs: dobré jméno
+    da: omdømme
+    de: Reputation
+    en: reputation
+    eo: reputacio
+    es: reputación
+    et: reputatsioon
+    eu: erreputazio
+    fa: آبرو
+    fi: Maine
+    fr: réputation
+    fy: Reputaasje
+    he: מוניטין
+    hi: यश
+    hr: Ugled
+    id: reputasi
+    it: reputazione
+    ja: 名声
+    kk: Репутация
+    kk-arab: رەپۋتاتسىييا
+    kk-cyrl: Репутация
+    kk-latn: Repwtacïya
+    ko: 명성
+    lb: Reputatioun
+    lt: Reputacija
+    lv: Reputācija
+    mcn: tísə̀mpà
+    nb: omdømme
+    nl: reputatie
+    pl: wizerunek
+    pt: reputação
+    ro: Renume
+    ru: репутация
+    scn: Frama
+    sl: ugled
+    sq: Reputacioni
+    sr: Репутација
+    th: ชื่อเสียง
+    uk: репутація
+    ur: شہرت
+    uz: Obroʻ
+    vi: Uy tín
+    yi: רעפוטאציע
+    zh: 信譽
+    zh-hans: 信誉
+    zh-hant: 信譽
+    zh-hk: 信譽
 ---
-
 # [[Reputation]] 
 
 #is_/same_as :: [[WD~Reputation,877546]]

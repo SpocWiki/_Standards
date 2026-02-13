@@ -1,21 +1,84 @@
 ---
-has_time_started: 1958-01-01 
+has_time_started: 1958-01-01
 aliases:
+- Tvist
+- Tvist (ples)
+- Tvisto
+- tviszt
+- twist
+- Twist (dantza)
+- twist-dans
+- Y twist
+- тўіст
+- Твіст
+- твист
+- Թուիսթ (պար)
+- Թվիստ
+- טוויסט
+- تويست
+- رقص توییست
+- ツイスト
+- 扭腰舞
+- 特维斯特
 has_id_wikidata: Q387916
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-different_from: "[[_Standards/WikiData/WD~Twist,258460]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+different_from: '[[_Standards/WikiData/WD~Twist,258460]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~rock_and_roll,7749]]"
-  - "[[_Standards/WikiData/WD~dance,11639]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~dance,11639]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1958-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-C0517-0010-005%2C%20Berlin%2C%20Deutschlandtreffen%2C%20tanzende%20Jugendliche.jpg
 Commons_category: Twist (dance)
+dv_has_:
+  name_:
+    ar: تويست
+    be-tarask: тўіст
+    ca: twist
+    cs: Twist
+    cy: Y twist
+    da: twist
+    de: Twist
+    en: twist
+    eo: Tvisto
+    es: twist
+    et: Tvist
+    eu: Twist (dantza)
+    fa: رقص توییست
+    fi: Twist
+    fr: twist
+    fur: Twist
+    gl: Twist
+    he: טוויסט
+    hr: Twist
+    hu: tviszt
+    hy: Թվիստ
+    hyw: Թուիսթ (պար)
+    it: twist
+    ja: ツイスト
+    mwl: Twist
+    nb: twist
+    nl: twist
+    nn: twist-dans
+    oc: Twist
+    pl: Twist
+    pt: Twist
+    ro: twist
+    ru: твист
+    sh: Twist
+    sk: Twist
+    sl: twist
+    sr: Tvist (ples)
+    sv: twist
+    tr: twist
+    uk: Твіст
+    uz: Tvist
+    yue: 扭腰舞
+    zh: 特维斯特
 ---
-
 # [[Twist(Dance)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Twist,387916|WD~Twist,387916]]  

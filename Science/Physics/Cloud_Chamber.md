@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Nebelkammer
-  - Cloud_Chamber
-  - Cloud Chamber
+- Bulut odası
+- cambra de boira
+- camera a nebbia
+- Cameră cu ceață
+- chambre à brouillard
+- Chanm Wilsonn
+- Cloud Chamber
+- Cloud_Chamber
+- cámara de borrina
+- cámara de Wilson
+- câmara de wilson
+- Hmlová komora
+- kamar kabut
+- Kebuk awan
+- komora Wilsona
+- ködkamra
+- Laino ganbera
+- Maglena komora
+- Meglična celica
+- Nebelkammer
+- nebulkamero
+- nevelvat
+- néalsoitheach
+- Sumukammio
+- tågekammer
+- Tåkekammer
+- Vilson kamerasi
+- Vilsona kamera
+- Wilsoni kamber
+- Wilsonkammare
+- Wilsonova mlžná komora
+- θάλαμος νέφωσης
+- Вилсонова комора
+- Вильсон камерасы
+- Камера Вільсана
+- Камера Вільсона
+- камера Вильсона
+- Камера на Уилсън
+- камэра Ўілсана
+- Үүлэн камер
+- Վիլսոնի խցիկ
+- תא ערפל
+- اتاقک ابری
+- غرفة سحابية
+- बादल कक्ष
+- முகிலறை
+- ಮೇಘಮಂದಿರ
+- 云室
+- 雲室
+- 霧箱
+- 안개 상자
 has_id_wikidata: Q214634
 named_after: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
@@ -15,8 +63,70 @@ IEV_number: 881-13-56
 Commons_category: Cloud chambers
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "CloudChamber"]
 time_of_discovery_or_invention: 1911-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: غرفة سحابية
+    ast: cámara de borrina
+    be: Камера Вільсана
+    be-tarask: камэра Ўілсана
+    bg: Камера на Уилсън
+    ca: cambra de boira
+    cs: Wilsonova mlžná komora
+    da: tågekammer
+    de: Nebelkammer
+    el: θάλαμος νέφωσης
+    en: cloud chamber
+    en-ca: Cloud chamber
+    en-gb: Cloud chamber
+    eo: nebulkamero
+    es: cámara de Wilson
+    et: Wilsoni kamber
+    eu: Laino ganbera
+    fa: اتاقک ابری
+    fi: Sumukammio
+    fr: chambre à brouillard
+    ga: néalsoitheach
+    he: תא ערפל
+    hi: बादल कक्ष
+    hr: Maglena komora
+    ht: Chanm Wilsonn
+    hu: ködkamra
+    hy: Վիլսոնի խցիկ
+    id: kamar kabut
+    it: camera a nebbia
+    ja: 霧箱
+    kn: ಮೇಘಮಂದಿರ
+    ko: 안개 상자
+    ky: Вильсон камерасы
+    lv: Vilsona kamera
+    mk: Вилсонова комора
+    mn: Үүлэн камер
+    ms: Kebuk awan
+    nb: Tåkekammer
+    nl: nevelvat
+    pl: komora Wilsona
+    pt: câmara de wilson
+    pt-br: Câmara de Wilson
+    ro: Cameră cu ceață
+    ru: камера Вильсона
+    sh: Maglena komora
+    sk: Hmlová komora
+    sl: Meglična celica
+    sr: Maglena komora
+    sv: Wilsonkammare
+    ta: முகிலறை
+    tr: Bulut odası
+    uk: Камера Вільсона
+    uz: Vilson kamerasi
+    yue: 雲室
+    zh: 云室
+    zh-cn: 云室
+    zh-hans: 云室
+    zh-hant: 雲室
+    zh-hk: 雲室
+    zh-sg: 云室
+    zh-tw: 雲室
 ---
-
 # [[Cloud_Chamber]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cloud_chamber,214634|WD~Cloud_chamber,214634]] 

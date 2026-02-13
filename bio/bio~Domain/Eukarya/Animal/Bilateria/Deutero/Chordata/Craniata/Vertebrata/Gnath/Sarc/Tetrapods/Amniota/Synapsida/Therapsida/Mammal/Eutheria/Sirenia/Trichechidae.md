@@ -1,8 +1,80 @@
 ---
 aliases:
-  - Trichechidae
+- kapustňákovití
+- lamantini
+- Lamantininiai
+- Lamantyndieren
+- manater
+- manátuszfélék
+- pogdoleem
+- Rundschwanzseekühe
+- Trichechidae
+- triquèquids
+- Ламантиндер
+- ламантинови
+- תחשי הנהרות
+- خرفان البحر
+- دریاگاوان
+- திரிசெசிலிடே
+- วงศ์พะยูนแมนนาที
+- 海牛科
 title: Trichechidae
 has_id_wikidata: Q10827895
+dv_has_:
+  name_:
+    an: Trichechidae
+    ar: خرفان البحر
+    ast: Trichechidae
+    avk: pogdoleem
+    bg: ламантинови
+    ca: triquèquids
+    ceb: Trichechidae
+    cs: kapustňákovití
+    de: Rundschwanzseekühe
+    en: Trichechidae
+    eo: Trichechidae
+    es: Trichechidae
+    eu: Trichechidae
+    ext: Trichechidae
+    fa: دریاگاوان
+    fi: Trichechidae
+    fr: Trichechidae
+    fy: Lamantyndieren
+    ga: Trichechidae
+    gl: Trichechidae
+    he: תחשי הנהרות
+    hu: manátuszfélék
+    ia: Trichechidae
+    id: Trichechidae
+    ie: Trichechidae
+    io: Trichechidae
+    it: Trichechidae
+    ky: Ламантиндер
+    la: Trichechidae
+    lt: Lamantininiai
+    mt: Trichechidae
+    mul: Trichechidae
+    nb: manater
+    nl: Trichechidae
+    oc: Trichechidae
+    pl: Trichechidae
+    pt: Trichechidae
+    pt-br: Trichechidae
+    ro: Trichechidae
+    ru: Trichechidae
+    scn: Trichechidae
+    sl: lamantini
+    sq: Trichechidae
+    ta: திரிசெசிலிடே
+    th: วงศ์พะยูนแมนนาที
+    uk: Trichechidae
+    vi: Trichechidae
+    vo: Trichechidae
+    war: Trichechidae
+    zh: 海牛科
+    zh-cn: 海牛科
+    zh-hans: 海牛科
+    zh-tw: 海牛科
 ---
 # [[Trichechidae]]
 

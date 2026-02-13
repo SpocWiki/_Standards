@@ -1,48 +1,352 @@
 ---
 aliases:
-  - Cotton
+- Afasi
+- Alath
+- algodão
+- algodón
+- asaawa
+- Auduga
+- Baumwolle
+- Baumwollfaser
+- bavlna
+- bawełna
+- Baðmull
+- Bałmowc
+- bombaž
+- bomuld
+- bomull
+- Boomwull
+- Bovelnė
+- bulak
+- Bumbac
+- Bummull
+- buumoltriad
+- Cadee
+- cadás
+- Cotan
+- Coton
+- cotone
+- Cotton
+- cotwm
+- cotó
+- Couton
+- Cudbi
+- Cuttuni
+- Donje
+- Faiq
+- Gapas
+- Gossypium
+- gumdi
+- Kaopa
+- kapaas
+- Kapas
+- Kapeh
+- kasi len ko walo
+- katoen
+- Ketoen
+- kokvilna
+- kotoi
+- Koton
+- kotono
+- Kotoñs
+- Kotteng
+- kupa
+- Kọtin
+- Landihazo
+- Maawui
+- Mandyju
+- medvilnė
+- Mièng-huă
+- Mî-hoe
+- Ndikʼąʼ
+- Ntokíya
+- Pagta
+- Pamba
+- Pambuku
+- Pambıq
+- pamuk
+- Pamuq
+- pamut
+- Parok
+- Paxta
+- Pembû
+- Peme
+- Puuvill
+- puuvilla
+- puvill
+- Qhiya
+- Sợi bông
+- Tabduɣt
+- Utku
+- Vóhpeeva
+- Wëttéen
+- Xylinon
+- βαμβάκι
+- бавоўна
+- Бавовна
+- киҗе-мамык
+- Мамăк
+- Мамукъ
+- Мамыҡ
+- Мақта
+- Памук
+- Пахта
+- Хлопок
+- Хүбэн
+- Хөвөн
+- բամբակ
+- באוול
+- כותנה
+- قطن
+- كېۋەز
+- پامبیق
+- پنبه
+- کپاس
+- کپاہ
+- ڪپھ
+- ߞߐߙߐ߲ߘߌ
+- कपाय्
+- कपास
+- कापूस
+- কপাহ
+- তুলা
+- ਕਪਾਹ
+- કપાસ
+- କପା
+- பருத்தி
+- పత్తి
+- ಹತ್ತಿ
+- പരുത്തി
+- ฝ้าย
+- ဝါပင်
+- ၼုၼ်ႈ
+- ბამბა
+- ბამბე
+- ጥጥ
+- ᱠᱟᱥᱠᱚᱢ
+- 木綿
+- 棉花
+- 목화
 has_id_wikidata: Q11457
 Colon_Classification: J781
 Commons_category: Cotton
 Commons_gallery: Cotton
 Common_Procurement_Vocabulary_code: 03115110
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Textiles_and_clothing_along_the_Silk_Roads,114574317]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Textiles_and_clothing_along_the_Silk_Roads,114574317]]'
 has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 has_use:
-  - '[[_Standards/WikiData/WD~batting,810903]]'
-  - '[[_Standards/WikiData/WD~cotton_paper,3738205]]'
-  - '[[_Standards/WikiData/WD~cotton_fabric,8231603]]'
-  - '[[_Standards/WikiData/WD~cordage,14523736]]'
+- '[[_Standards/WikiData/WD~batting,810903]]'
+- '[[_Standards/WikiData/WD~cotton_paper,3738205]]'
+- '[[_Standards/WikiData/WD~cotton_fabric,8231603]]'
+- '[[_Standards/WikiData/WD~cordage,14523736]]'
 Iconclass_notation: 47H12
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cotton%20-%20%E0%B4%AA%E0%B4%B0%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%2003.JPG
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Coton%20Nm%201%201%201%20-%20Elix.webm
 MeSH_tree_code: J01.637.836.299
 natural_product_of_taxon:
-  - '[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]'
-  - '[[_Standards/WikiData/WD~Gossypium_barbadense,311515]]'
+- '[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]'
+- '[[_Standards/WikiData/WD~Gossypium_barbadense,311515]]'
 OmegaWiki_Defined_Meaning: 1300711
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Baumwolle.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-cotton.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q11457-ar.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-coton.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Baumwolle.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-us-cotton.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q11457-ar.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fr-coton.ogg
 recycling_code: 60
 subclass_of: '[[_Standards/WikiData/WD~plant_fiber,20026824]]'
 UMLS_CUI: C0304069
 UNII: 70LDW53ROO
 UNSPSC_Code: 11121802
 U_S_National_Archives_Identifier: 10639678
+dv_has_:
+  name_:
+    acm: قطن
+    af: katoen
+    ak: asaawa
+    am: ጥጥ
+    ami: Parok
+    an: Gossypium
+    ann: Kọtin
+    anp: कपास
+    apc: قطن
+    ar: قطن
+    arz: قطن
+    as: কপাহ
+    ast: algodón
+    awa: कपास
+    ay: Qhiya
+    az: Pambıq
+    azb: پامبیق
+    ba: Мамыҡ
+    bcl: Gapas
+    be: бавоўна
+    be-tarask: бавоўна
+    bg: Памук
+    bjn: Kapas
+    bn: তুলা
+    br: Kotoñs
+    bs: Pamuk
+    bxr: Хүбэн
+    ca: cotó
+    cdo: Mièng-huă
+    chy: Vóhpeeva
+    crh: Pamuq
+    cs: bavlna
+    cv: Мамăк
+    cy: cotwm
+    da: bomuld
+    dag: gumdi
+    de: Baumwollfaser
+    de-ch: Baumwollfaser
+    din: Alath
+    diq: Peme
+    dty: कपास
+    el: βαμβάκι
+    en: cotton
+    en-ca: Cotton
+    en-gb: cotton
+    eo: kotono
+    es: algodón
+    et: Puuvill
+    eu: kotoi
+    fa: پنبه
+    fi: puuvilla
+    fo: Bummull
+    fr: coton
+    frr: buumoltriad
+    fy: Katoen
+    ga: cadás
+    gd: Cotan
+    gl: Algodón
+    gn: Mandyju
+    gsw: Baumwolle
+    gu: કપાસ
+    guc: Maawui
+    gv: Cadee
+    ha: Auduga
+    haw: Kaopa
+    he: כותנה
+    hi: कपास
+    hif: kapaas
+    hr: Pamuk
+    hsb: Bałmowc
+    ht: Koton
+    hu: pamut
+    hy: բամբակ
+    ia: Coton
+    id: kapas
+    ilo: kapas
+    io: Kotono
+    is: Baðmull
+    it: cotone
+    ja: 木綿
+    jv: Kapas
+    ka: ბამბა
+    kaa: Paxta
+    kab: Tabduɣt
+    kk: Мақта
+    kn: ಹತ್ತಿ
+    ko: 목화
+    krc: Мамукъ
+    ku: Pembû
+    kw: Koton
+    la: Xylinon
+    lb: Kotteng
+    lfn: Coton
+    li: Ketoen
+    lmo: Coton
+    ln: Ntokíya
+    lt: medvilnė
+    lv: kokvilna
+    mai: कपास
+    mg: Landihazo
+    min: Kapeh
+    mk: Памук
+    ml: പരുത്തി
+    mn: Хөвөн
+    mr: कापूस
+    ms: Kapas
+    my: ဝါပင်
+    nan: Mî-hoe
+    nb: bomull
+    nds: Boomwull
+    ne: कपास
+    new: कपाय्
+    nia: Afasi
+    nl: katoen
+    nn: bomull
+    nqo: ߞߐߙߐ߲ߘߌ
+    nv: Ndikʼąʼ
+    oc: Coton
+    or: କପା
+    pa: ਕਪਾਹ
+    pcd: Couton
+    pl: bawełna
+    pms: Coton
+    pnb: کپاہ
+    ps: پنبه
+    pt: algodão
+    pt-br: algodão
+    qu: Utku
+    ro: Bumbac
+    ru: хлопок
+    rue: Бавовна
+    sah: Хлопок
+    sat: ᱠᱟᱥᱠᱚᱢ
+    scn: Cuttuni
+    sd: ڪپھ
+    sgs: Bovelnė
+    sh: pamuk
+    shn: ၼုၼ်ႈ
+    sk: bavlna
+    sl: bombaž
+    sn: Donje
+    so: Cudbi
+    sq: Pambuku
+    sr: памук
+    su: Kapas
+    sv: bomull
+    sw: Pamba
+    szy: kupa
+    ta: பருத்தி
+    te: పత్తి
+    tg: Пахта
+    th: ฝ้าย
+    tk: Pagta
+    tl: bulak
+    tok: kasi len ko walo
+    tr: pamuk
+    tt: киҗе-мамык
+    tt-cyrl: киҗе-мамык
+    udm: хлопок
+    ug: كېۋەز
+    uk: бавовна
+    ur: کپاس
+    uz: Paxta
+    vep: puvill
+    vi: Sợi bông
+    vro: Puuvill
+    war: Gapas
+    wo: Wëttéen
+    wuu: 棉花
+    xmf: ბამბე
+    yi: באוול
+    yue: 棉花
+    za: Faiq
+    zh: 棉花
+    zh-cn: 棉花
+    zh-hant: 棉花
+    zh-hk: 棉花
 ---
-
 # [[Cotton]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cotton,11457|WD~Cotton,11457]] 

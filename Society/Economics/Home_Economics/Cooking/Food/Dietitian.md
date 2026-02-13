@@ -1,38 +1,141 @@
 ---
 aliases:
+- ahli gizi
+- diaitéiteach
+- diategydd
+- dieetkundige
+- dietetik
+- dietetikus
+- dietetyk
+- dietist
+- dietista
+- dietista-nutrizionista
+- dietiste
+- dietitian
+- Dietizanto
+- dietolog
+- dietologi
+- dietololog
+- Diyetisyen
+- Diätassistent
+- diététicien ou diététicienne
+- diëtist
+- ernæringsfysiolog
+- klinisk diætist
+- klinisk ernæringsfysiolog
+- nipaakuti’ tu lami’ caay kahida ku nisimsim katanetek,營養師patutud tu kamu u kawpil ku sakapahay
+- nutradisto
+- pakar diet
+- ravitsemusterapeutti
+- Sitolohiya
+- διαιτολόγος
+- дієтолог
+- дијетичар
+- диетолог
+- дыетоляг
+- դիետոլոգ
+- תזונאי
+- أخصائيو التغذية
+- رژیمشناسی
+- आहारविद्
+- உணவு வல்லுநர்
+- ഡയറ്റീഷ്യൻ
+- นักกำหนดอาหาร
+- 栄養士
+- 營養師
+- 营养师
+- 영양사
 has_id_wikidata: Q842811
-field_of_this_occupation: "[[_Standards/WikiData/WD~dietetics,1231861]]"
+field_of_this_occupation: '[[_Standards/WikiData/WD~dietetics,1231861]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nutritionist,2576499]]"
-  - "[[_Standards/WikiData/WD~health_professional,11974939]]"
-instance_of: "[[_Standards/WikiData/WD~health_profession,3922583]]"
+- '[[_Standards/WikiData/WD~nutritionist,2576499]]'
+- '[[_Standards/WikiData/WD~health_professional,11974939]]'
+instance_of: '[[_Standards/WikiData/WD~health_profession,3922583]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q56787564,56787564]]"
-  - "[[_Standards/WikiData/WD~Q94778593,94778593]]"
-KldB_2010_occupation_code: "81762"
-ISCO_88_occupation_class: "3223"
-ISCO_08_occupation_class: "2265"
-ROME_Occupation_Code: "14169"
-OmegaWiki_Defined_Meaning: "1184040"
-U_S_National_Archives_Identifier: "10637500"
+- '[[_Standards/WikiData/WD~Q56787564,56787564]]'
+- '[[_Standards/WikiData/WD~Q94778593,94778593]]'
+KldB_2010_occupation_code: 81762
+ISCO_88_occupation_class: 3223
+ISCO_08_occupation_class: 2265
+ROME_Occupation_Code: 14169
+OmegaWiki_Defined_Meaning: 1184040
+U_S_National_Archives_Identifier: 10637500
 male_form_of_label:
-  - diététicien
-  - dietolog
-  - dietetyk
+- diététicien
+- dietolog
+- dietetyk
 female_form_of_label:
-  - Diätassistentin
-  - dietista
-  - dietetyczka
-  - أخصائية تغذية
-  - dietista
-  - dietoložka
-  - diététicienne
-  - דיאטנית קליני
-  - diëtiste
-  - дієтологиня
+- Diätassistentin
+- dietista
+- dietetyczka
+- أخصائية تغذية
+- dietista
+- dietoložka
+- diététicienne
+- דיאטנית קליני
+- diëtiste
+- дієтологиня
 Commons_category: Nutritionists
+dv_has_:
+  name_:
+    af: dieetkundige
+    ar: أخصائيو التغذية
+    ast: dietista
+    be-tarask: дыетоляг
+    ca: dietista
+    cs: dietolog
+    cy: diategydd
+    da: klinisk diætist
+    de: Diätassistent
+    diq: Diyetisyen
+    el: διαιτολόγος
+    en: dietitian
+    eo: nutradisto
+    es: dietista
+    eu: dietista-nutrizionista
+    fa: رژیمشناسی
+    fi: ravitsemusterapeutti
+    fr: diététicien ou diététicienne
+    ga: diaitéiteach
+    gl: Dietista
+    he: תזונאי
+    hi: आहारविद्
+    hu: dietetikus
+    hy: դիետոլոգ
+    id: ahli gizi
+    io: Dietizanto
+    it: dietista
+    ja: 栄養士
+    kk: Диетолог
+    ko: 영양사
+    lfn: dietiste
+    lv: dietologi
+    ml: ഡയറ്റീഷ്യൻ
+    ms: pakar diet
+    nb: klinisk ernæringsfysiolog
+    nl: diëtist
+    nn: ernæringsfysiolog
+    pl: dietetyk
+    pt: dietista
+    ru: диетолог
+    sl: dietetik
+    sq: dietololog
+    sr: дијетичар
+    sv: dietist
+    szy: nipaakuti’ tu lami’ caay kahida ku nisimsim katanetek,營養師patutud tu kamu u kawpil ku sakapahay
+    ta: உணவு வல்லுநர்
+    th: นักกำหนดอาหาร
+    tl: Sitolohiya
+    tr: Diyetisyen
+    tt: диетолог
+    uk: дієтолог
+    vec: dietista
+    yue: 營養師
+    zh: 營養師
+    zh-hans: 营养师
+    zh-hant: 營養師
+    zh-hk: 營養師
 ---
-
 # [[Dietitian]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dietitian,842811|WD~Dietitian,842811]] 

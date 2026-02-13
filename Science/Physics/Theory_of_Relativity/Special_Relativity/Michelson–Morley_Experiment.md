@@ -1,32 +1,162 @@
 ---
 aliases:
-  - Michelson–Morley experiment
-  - Michelson–Morley_Experiment
-  - Michelson–Morley Experiment
+- doświadczenie Michelsona-Morleya
+- eksperimento de Michelson-Morley
+- esperimento di Michelson-Morley
+- esperimentu de Michelson y Morley
+- experiment de Michelson-Morley
+- Experimento de Michelson y Morley
+- Experimento de Michelson-Morley
+- experimentul Michelson-Morley
+- Experiéncia de Michelson–Morley
+- experiência de Michelson-Morley
+- Expérience de Michelson-Morley
+- Maikelsono-Morlio eksperimentas
+- Majkelson-Morlijev eksperiment
+- Maýkelʹson täjirïbesi
+- Michelson-Morley deneyi
+- Michelson-Morley eksperimentet
+- Michelson-Morley esperimentua
+- Michelson-Morley-eksperimentet
+- Michelson-Morley-Experiment
+- Michelson-Morleyev pokus
+- Michelson-Morleyjev eksperiment
+- Michelsoni-Morley eksperiment
+- Michelsonin–Morleyn koe
+- Michelsonov-Morleyho pokus
+- Michelsonův–Morleyův experiment
+- Michelson–Morley experiment
+- Michelson–Morley-kísérlet
+- Michelson–Morleyev eksperiment
+- Michelson–Morleys experiment
+- Michelson–Morley_Experiment
+- percobaan Michelson-Morley
+- Thí nghiệm Michelson-Morley
+- Πείραμα των Μάικελσον και Μόρλεϋ
+- Вопыт Майкельсана
+- експеримент Майкельсона-Морлі
+- Мајкелсон-Морлијев експеримент
+- Мајкелсон-Морлиев обид
+- Майкельсон тәжірибесі
+- опит на Майкелсън-Морли
+- Опыты Майкельсона
+- экспэрымэнт Мікелсана
+- Մայքելսոնի փորձ
+- ניסוי מייקלסון-מורלי
+- آزمایش مایکلسون-مورلی
+- تجربة ميكلسون ومورلي
+- مايكەلسون تاجىرىيبەسى
+- माइकलसन मोर्ले प्रयोग
+- মাইকেলচন-ম'ৰ্লি পৰীক্ষা
+- মাইকেলসন - মোরলে পরীক্ষা
+- மைக்கல்சன்-மோர்லி பரிசோதனை
+- മൈക്കൽസൺ മോർലി പരീക്ഷണം
+- මයිකල්සන්–මෝර්ලි පරික්ෂණය
+- მაიკელსონი-მორლის ცდა
+- マイケルソン・モーリーの実験
+- 迈克耳孙-莫雷实验
+- 迈克耳孙－莫雷实验
+- 邁克生-莫雷實驗
+- 邁克生－莫立實驗
+- 邁克耳孫-莫雷實驗
+- 마이컬슨-몰리 실험
 has_id_wikidata: Q154844
 named_after:
-  - '[[_Standards/WikiData/WD~Albert_A._Michelson,127234]]'
-  - '[[_Standards/WikiData/WD~Edward_W._Morley,320889]]'
+- '[[_Standards/WikiData/WD~Albert_A._Michelson,127234]]'
+- '[[_Standards/WikiData/WD~Edward_W._Morley,320889]]'
 main_subject: '[[_Standards/WikiData/WD~luminiferous_aether,208702]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~experimentum_crucis,1384471]]'
-  - '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
+- '[[_Standards/WikiData/WD~experimentum_crucis,1384471]]'
+- '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 point_in_time: 1887-01-01T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Michelson-Morley%20Experiment%20Plaque.JPG
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%C3%84therwind.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Michelson-morley%20calculations.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Relative%20Motion%20of%20the%20Earth%20and%20the%20Luminiferous%20Ether%20-%20Fig%204.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/%C3%84therwind.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Michelson-morley%20calculations.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Relative%20Motion%20of%20the%20Earth%20and%20the%20Luminiferous%20Ether%20-%20Fig%204.png
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Michelson%20morley%20experiment%201887.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Relative%20Motion%20of%20the%20Earth%20and%20the%20Luminiferous%20Ether%20-%20Fig%203.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Michelson%20morley%20experiment%201887.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Relative%20Motion%20of%20the%20Earth%20and%20the%20Luminiferous%20Ether%20-%20Fig%203.png
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "MichelsonMorleyExperiment"]
 Commons_category: Michelson-Morley experiment
+dv_has_:
+  name_:
+    ar: تجربة ميكلسون ومورلي
+    as: মাইকেলচন-ম'ৰ্লি পৰীক্ষা
+    ast: esperimentu de Michelson y Morley
+    be: Вопыт Майкельсана
+    be-tarask: экспэрымэнт Мікелсана
+    bg: опит на Майкелсън-Морли
+    bn: মাইকেলসন - মোরলে পরীক্ষা
+    ca: experiment de Michelson-Morley
+    cs: Michelsonův–Morleyův experiment
+    da: Michelson-Morley eksperimentet
+    de: Michelson-Morley-Experiment
+    el: Πείραμα των Μάικελσον και Μόρλεϋ
+    en: Michelson–Morley experiment
+    en-ca: Michelson–Morley experiment
+    en-gb: Michelson–Morley experiment
+    eo: eksperimento de Michelson-Morley
+    es: Experimento de Michelson y Morley
+    et: Michelsoni-Morley eksperiment
+    eu: Michelson-Morley esperimentua
+    fa: آزمایش مایکلسون-مورلی
+    fi: Michelsonin–Morleyn koe
+    fr: Expérience de Michelson-Morley
+    gl: Experimento de Michelson-Morley
+    gsw: Michelson-Morley-Experiment
+    he: ניסוי מייקלסון-מורלי
+    hi: माइकलसन मोर्ले प्रयोग
+    hr: Michelson-Morleyev pokus
+    hu: Michelson–Morley-kísérlet
+    hy: Մայքելսոնի փորձ
+    id: percobaan Michelson-Morley
+    it: esperimento di Michelson-Morley
+    ja: マイケルソン・モーリーの実験
+    ka: მაიკელსონი-მორლის ცდა
+    kk: Майкельсон тәжірибесі
+    kk-arab: مايكەلسون تاجىرىيبەسى
+    kk-cn: مايكەلسون تاجىرىيبەسى
+    kk-cyrl: Майкельсон тәжірибесі
+    kk-kz: Майкельсон тәжірибесі
+    kk-latn: Maýkelʹson täjirïbesi
+    kk-tr: Maýkelʹson täjirïbesi
+    ko: 마이컬슨-몰리 실험
+    lt: Maikelsono-Morlio eksperimentas
+    mk: Мајкелсон-Морлиев обид
+    ml: മൈക്കൽസൺ മോർലി പരീക്ഷണം
+    nl: Michelson-Morley-experiment
+    nn: Michelson-Morley-eksperimentet
+    oc: Experiéncia de Michelson–Morley
+    pl: doświadczenie Michelsona-Morleya
+    pt: experiência de Michelson-Morley
+    pt-br: experiência de Michelson-Morley
+    ro: experimentul Michelson-Morley
+    ru: Опыты Майкельсона
+    sh: Michelson–Morleyev eksperiment
+    si: මයිකල්සන්–මෝර්ලි පරික්ෂණය
+    sk: Michelsonov-Morleyho pokus
+    sl: Michelson-Morleyjev eksperiment
+    sr: Majkelson-Morlijev eksperiment
+    sr-ec: Мајкелсон-Морлијев експеримент
+    sr-el: Majkelson-Morlijev eksperiment
+    sv: Michelson–Morleys experiment
+    ta: மைக்கல்சன்-மோர்லி பரிசோதனை
+    tr: Michelson-Morley deneyi
+    uk: експеримент Майкельсона-Морлі
+    vi: Thí nghiệm Michelson-Morley
+    yue: 邁克生-莫雷實驗
+    zh: 迈克耳孙-莫雷实验
+    zh-cn: 迈克耳孙－莫雷实验
+    zh-hans: 迈克耳孙-莫雷实验
+    zh-hant: 邁克耳孫-莫雷實驗
+    zh-hk: 邁克生－莫立實驗
+    zh-sg: 迈克耳孙－莫雷实验
+    zh-tw: 邁克生－莫立實驗
 ---
-
 # [[Michelson–Morley_Experiment]] 
 
 #is_/same_as :: [[WD~Michelson–Morley_experiment,154844]] 

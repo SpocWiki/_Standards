@@ -1,42 +1,184 @@
 ---
 aliases:
-  - Bubonic plague
-  - Beulenpest
-  - Bubonic_Plague
-  - Bubonic Plague
+- Beulenpest
+- Bosenn werblus
+- Bubon taunu
+- bubona pesto
+- Bubonic plague
+- Bubonic_Plague
+- Bubonik
+- buboninis maras
+- Bubonska kuga
+- Buboņu mēris
+- bubópestis
+- builenpest
+- Builepes in Suid-Afrika
+- byldepest
+- byllepest
+- böldpest
+- ciumă bubonică
+- Dlóóʼ binaalniih
+- dýmějový mor
+- dịch hạch
+- Hıyarcıklı Veba
+- Izurri pneumoniko
+- Kýlapest
+- Murtaja bubonike
+- paiserutto
+- Pes bubo
+- pesta bubònica
+- peste bubbonica
+- Peste bubonic
+- peste bubonique
+- peste bubònega
+- Peste bubónica
+- peste bubônica
+- peste negra
+- Pesti
+- Pestis bubonica
+- pla llinorog
+- plá bhúbónach
+- Βουβωνική πανώλη
+- бубонна чума
+- бубонная чума
+- Бубонска куга
+- бубонска чума
+- бубун тагуны
+- Буьччалгийн Iаьржа ун
+- Тарваган тахал
+- Բուբոնային ժանտախտ
+- דבר (מחלה)
+- بوبونیک طاعونو
+- طاعون خیارکی
+- طاعون دبلى
+- طاعون دملي
+- طاعونِ غدودی
+- ब्यूबोनिक प्लेग
+- বিউবনিক প্লেগ
+- ବୁବୋନିକ୍ ପ୍ଲେଗ୍
+- அரையாப்பு பிளேக்கு
+- ലസിക പ്ലേഗ്
+- กาฬโรคต่อมน้ำเหลือง
+- རིམས་ནག་
+- 淋巴腺鼠疫
+- 腺ペスト
+- 腺鼠疫
+- 선 페스트
 has_id_wikidata: Q217519
 different_from:
-  - '[[_Standards/WikiData/WD~plague,133780]]'
-  - '[[_Standards/WikiData/WD~Q15962797,15962797]]'
+- '[[_Standards/WikiData/WD~plague,133780]]'
+- '[[_Standards/WikiData/WD~Q15962797,15962797]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~plague,133780]]'
-  - '[[_Standards/WikiData/WD~lymph_node_disease,18558262]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~plague,133780]]'
+- '[[_Standards/WikiData/WD~lymph_node_disease,18558262]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 has_cause: '[[_Standards/WikiData/WD~Yersinia_pestis,153875]]'
 anatomical_locations: '[[_Standards/WikiData/WD~lymph_node,170758]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
-  - '[[_Standards/WikiData/WD~doxycycline,422442]]'
-  - '[[_Standards/WikiData/WD~gentamicin,422482]]'
-  - '[[_Standards/WikiData/WD~Xadani,20126637]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442]]'
+- '[[_Standards/WikiData/WD~gentamicin,422482]]'
+- '[[_Standards/WikiData/WD~Xadani,20126637]]'
 health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~chills,2260058]]'
-  - '[[_Standards/WikiData/WD~prostration,3407854]]'
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- '[[_Standards/WikiData/WD~prostration,3407854]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 OmegaWiki_Defined_Meaning: 1074391
 DiseasesDB: 14226
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yersinia%20pestis.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:10773
-  - http://purl.obolibrary.org/obo/DOID_10773
+- http://identifiers.org/doid/DOID:10773
+- http://purl.obolibrary.org/obo/DOID_10773
 ICD_9_CM: 020.0
 ICD_10_CM: A20.0
 Commons_category: Bubonic plague
 UMLS_CUI: C0282312
+dv_has_:
+  name_:
+    af: Builepes in Suid-Afrika
+    ar: طاعون دملي
+    arz: طاعون دبلى
+    as: বিউবনিক প্লেগ
+    ast: Peste bubónica
+    az: Bubon taunu
+    azb: بوبونیک طاعونو
+    be: бубонная чума
+    be-tarask: бубонная чума
+    bg: бубонна чума
+    bn: বিউবনিক প্লেগ
+    bo: རིམས་ནག་
+    br: Bosenn werblus
+    ca: pesta bubònica
+    ce: Буьччалгийн Iаьржа ун
+    cs: dýmějový mor
+    cy: pla llinorog
+    da: byldepest
+    de: Beulenpest
+    el: Βουβωνική πανώλη
+    en: bubonic plague
+    eo: bubona pesto
+    es: peste negra
+    es-419: Peste Negra
+    eu: Izurri pneumoniko
+    fa: طاعون خیارکی
+    fi: paiserutto
+    fr: peste bubonique
+    ga: plá bhúbónach
+    gl: peste bubónica
+    gpe: bubonic plague
+    he: דבר (מחלה)
+    hi: ब्यूबोनिक प्लेग
+    hr: Bubonska kuga
+    hu: bubópestis
+    hy: Բուբոնային ժանտախտ
+    ia: Peste bubonic
+    id: Pes bubo
+    is: Kýlapest
+    it: peste bubbonica
+    ja: 腺ペスト
+    jv: Pes bubo
+    ko: 선 페스트
+    la: Pestis bubonica
+    lt: buboninis maras
+    lv: Buboņu mēris
+    mk: бубонска чума
+    ml: ലസിക പ്ലേഗ്
+    mn: Тарваган тахал
+    nb: byllepest
+    nl: builenpest
+    nn: byllepest
+    nv: Dlóóʼ binaalniih
+    or: ବୁବୋନିକ୍ ପ୍ଲେଗ୍
+    pt: peste bubónica
+    pt-br: peste bubônica
+    ro: ciumă bubonică
+    ru: бубонная чума
+    scn: Pesti
+    sh: Bubonska kuga
+    sl: bubonska kuga
+    sq: Murtaja bubonike
+    sr: Бубонска куга
+    sv: böldpest
+    ta: அரையாப்பு பிளேக்கு
+    th: กาฬโรคต่อมน้ำเหลือง
+    tl: Bubonik
+    tr: Hıyarcıklı Veba
+    tt: бубун тагуны
+    uk: бубонна чума
+    ur: طاعونِ غدودی
+    vec: peste bubònega
+    vi: dịch hạch
+    yue: 淋巴腺鼠疫
+    zh: 腺鼠疫
+    zh-cn: 腺鼠疫
+    zh-hans: 腺鼠疫
+    zh-hant: 腺鼠疫
+    zh-hk: 腺鼠疫
+    zh-sg: 腺鼠疫
+    zh-tw: 腺鼠疫
 ---
-
 # [[Bubonic_Plague]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bubonic_plague,217519|WD~Bubonic_plague,217519]] 

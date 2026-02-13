@@ -1,14 +1,83 @@
 ---
 aliases:
-  - First Agricultural Revolution
-  - Neolithic Revolution
-  - Neolithic_Revolution
-  - First_Agricultural_Revolution
+- Agrokultivala revoluciono
+- commutatio neolithica
+- Cách mạng đồ đá mới
+- Den neolitiske revolution
+- Den neolittiske revolusjonen
+- First Agricultural Revolution
+- First_Agricultural_Revolution
+- Iraultza neolitiko
+- jordbruksrevolusjonen
+- Landbúnaðarbyltingin
+- maanviljelyn synty Lähi-idässä
+- Neoliitiline revolutsioon
+- Neoliitisk rewolutsion
+- Neolit inqilabı
+- Neolithic Revolution
+- Neolithic_Revolution
+- neolithische revolutie
+- neolithische Revolution
+- neolitická revoluce
+- Neolitická revolúcia
+- Neolitiese Omwenteling
+- Neolitik Devrim
+- neolitika revolucio
+- neolitikus forradalom
+- neolitiska revolutionen
+- neolito revoliucija
+- Neolitska revolucija
+- Neolityske revolúsje
+- Neolïttik revolyucïya
+- Neolīta revolūcija
+- Niolitik Revaluushan
+- Rebolusyon Neolitiko
+- Reveulzi neolitik
+- Revolucion Neolitica
+- revolució neolítica
+- Revolución neolítica
+- Revolui Neolitica
+- Revolusi Neolitik
+- Revolusi Neolitikum
+- Revolution neolithic
+- Revoluziun neolitica
+- revolução neolítica
+- Revoluția neolitică
+- Revołusion neołìtega
+- rewolucja neolityczna
+- Rivoluzione neolitica
+- Révolousyon néolitik
+- révolution néolithique
+- save
+- Νεολιθική επανάσταση
+- неалітычная рэвалюцыя
+- неолітична революція
+- неолитическая революция
+- Неолитна революция
+- Неолитска револуција
+- Неолиттік революция
+- Неолитын хувьсгал
+- нэалітычная рэвалюцыя
+- Шэнэ шулуун зэбсэгэй хубисхал
+- המהפכה הנאוליתית
+- انقلاب نوسنگی
+- ثورة العصر الحجري الحديث
+- د ډبرو د نوې دورې انقلاب
+- شۆڕشی نیۆلیتیک
+- نەولىيتتىك رەۆوليۋتسىييا
+- न्हूगु ल्वहं युगया हिउपाः
+- নব্যপ্রস্তর যুগীয় বিপ্লব
+- புதுக்கற்காலப் புரட்சி
+- നവീനശിലായുഗ വിപ്ലവം
+- การปฏิวัติยุคหินใหม่
+- ნეოლითური რევოლუცია
+- 新石器革命
+- 신석기 문화
 has_id_wikidata: Q180548
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
@@ -23,12 +92,113 @@ linkTitle: First Agricultural Revolution
 publish: false
 publishDate: ''
 tags:
-  - First Agricultural Revolution
-  - ''
+- First Agricultural Revolution
+- ''
 title: First Agricultural Revolution
 type: private_note
+dv_has_:
+  name_:
+    af: Neolitiese Omwenteling
+    ar: ثورة العصر الحجري الحديث
+    ast: Revolución neolítica
+    az: Neolit inqilabı
+    be: неалітычная рэвалюцыя
+    be-tarask: нэалітычная рэвалюцыя
+    bg: Неолитна революция
+    bn: নব্যপ্রস্তর যুগীয় বিপ্লব
+    br: Reveulzi neolitik
+    bs: Neolitska revolucija
+    bxr: Шэнэ шулуун зэбсэгэй хубисхал
+    ca: revolució neolítica
+    ckb: شۆڕشی نیۆلیتیک
+    cs: neolitická revoluce
+    da: Den neolitiske revolution
+    de: neolithische Revolution
+    de-ch: Neolithische Revolution
+    el: Νεολιθική επανάσταση
+    en: neolithic revolution
+    en-ca: Neolithic Revolution
+    en-gb: Neolithic Revolution
+    en-us: neolithic revolution
+    eo: neolitika revolucio
+    es: Revolución neolítica
+    et: Neoliitiline revolutsioon
+    eu: Iraultza neolitiko
+    fa: انقلاب نوسنگی
+    fi: maanviljelyn synty Lähi-idässä
+    fr: révolution néolithique
+    frr: Neoliitisk rewolutsion
+    fy: Neolityske revolúsje
+    gan: 新石器革命
+    gan-hans: 新石器革命
+    gan-hant: 新石器革命
+    gcr: Révolousyon néolitik
+    gl: Revolución neolítica
+    ha: Neolithic Revolution
+    he: המהפכה הנאוליתית
+    hi: save
+    hr: Neolitska revolucija
+    hu: neolitikus forradalom
+    ia: Revolution neolithic
+    id: Revolusi Neolitikum
+    io: Agrokultivala revoluciono
+    is: Landbúnaðarbyltingin
+    it: Rivoluzione neolitica
+    ja: 新石器革命
+    jam: Niolitik Revaluushan
+    ka: ნეოლითური რევოლუცია
+    kk: Неолиттік революция
+    kk-arab: نەولىيتتىك رەۆوليۋتسىييا
+    kk-cn: نەولىيتتىك رەۆوليۋتسىييا
+    kk-cyrl: Неолиттік революция
+    kk-kz: Неолиттік революция
+    kk-latn: Neolïttik revolyucïya
+    kk-tr: Neolïttik revolyucïya
+    ko: 신석기 문화
+    la: commutatio neolithica
+    lfn: Revolui Neolitica
+    lld: Revoluziun neolitica
+    lt: neolito revoliucija
+    lv: Neolīta revolūcija
+    mk: Неолитска револуција
+    ml: നവീനശിലായുഗ വിപ്ലവം
+    mn: Неолитын хувьсгал
+    ms: Revolusi Neolitik
+    nb: Den neolittiske revolusjonen
+    new: न्हूगु ल्वहं युगया हिउपाः
+    nl: neolithische revolutie
+    nn: jordbruksrevolusjonen
+    oc: Revolucion Neolitica
+    pl: rewolucja neolityczna
+    ps: د ډبرو د نوې دورې انقلاب
+    pt: revolução neolítica
+    pt-br: Revolução neolítica
+    ro: Revoluția neolitică
+    ru: неолитическая революция
+    sh: Neolitska revolucija
+    sk: Neolitická revolúcia
+    sl: neolitska revolucija
+    sr: Neolitska revolucija
+    sr-ec: Неолитска револуција
+    sr-el: Neolitska revolucija
+    sv: neolitiska revolutionen
+    ta: புதுக்கற்காலப் புரட்சி
+    th: การปฏิวัติยุคหินใหม่
+    tr: Neolitik Devrim
+    uk: неолітична революція
+    vec: Revołusion neołìtega
+    vi: Cách mạng đồ đá mới
+    war: Rebolusyon Neolitiko
+    wuu: 新石器革命
+    yue: 新石器革命
+    zh: 新石器革命
+    zh-cn: 新石器革命
+    zh-hans: 新石器革命
+    zh-hant: 新石器革命
+    zh-hk: 新石器革命
+    zh-sg: 新石器革命
+    zh-tw: 新石器革命
 ---
-
 # [[-9700-First_Agricultural_Revolution]] 
 
 #is_/part_of :: [[../Agricultural_Revolution]] 

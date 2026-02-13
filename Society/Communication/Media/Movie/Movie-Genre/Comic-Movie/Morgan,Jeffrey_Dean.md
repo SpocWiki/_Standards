@@ -1,9 +1,97 @@
 ---
 aliases:
-  - Jeffrey Dean Morgan
-  - Morgan,Jeffrey_Dean
-  - Morgan,Jeffrey Dean
+- Džefrijs Dīns Morgans
+- Jeffrey Dean Morgan
+- Morgan,Jeffrey Dean
+- Morgan,Jeffrey_Dean
+- Τζέφρι Ντιν Μόργκαν
+- Џефри Дин Морган
+- Джефри Дийн Морган
+- Джеффрі Дін Морґан
+- Джеффри Дин Морган
+- Җеффри Дин Морган
+- Ջեֆրի Դին Մորգան
+- ג'פרי דין מורגן
+- جفری دین مورقان
+- جفری دین مورگان
+- جيفرى دين مورجان
+- جيفري دين مورغان
+- جێفری دین مۆرگان
+- เจฟฟรีย์ ดีน มอร์แกน
+- ჯეფრი დეკანი მორგანი
+- ジェフリー・ディーン・モーガン
+- 傑佛瑞·狄恩·摩根
+- 杰弗里·迪恩·摩根
+- 謝菲·甸·摩根
+- 제프리 딘 모건
 has_id_wikidata: Q342665
+dv_has_:
+  name_:
+    af: Jeffrey Dean Morgan
+    ar: جيفري دين مورغان
+    arz: جيفرى دين مورجان
+    ast: Jeffrey Dean Morgan
+    azb: جفری دین مورقان
+    bar: Jeffrey Dean Morgan
+    bg: Джефри Дийн Морган
+    ca: Jeffrey Dean Morgan
+    ckb: جێفری دین مۆرگان
+    cs: Jeffrey Dean Morgan
+    cy: Jeffrey Dean Morgan
+    da: Jeffrey Dean Morgan
+    de: Jeffrey Dean Morgan
+    el: Τζέφρι Ντιν Μόργκαν
+    en: Jeffrey Dean Morgan
+    eo: Jeffrey Dean Morgan
+    es: Jeffrey Dean Morgan
+    et: Jeffrey Dean Morgan
+    eu: Jeffrey Dean Morgan
+    fa: جفری دین مورگان
+    fi: Jeffrey Dean Morgan
+    fr: Jeffrey Dean Morgan
+    ga: Jeffrey Dean Morgan
+    gl: Jeffrey Dean Morgan
+    he: ג'פרי דין מורגן
+    hu: Jeffrey Dean Morgan
+    hy: Ջեֆրի Դին Մորգան
+    id: Jeffrey Dean Morgan
+    io: Jeffrey Dean Morgan
+    is: Jeffrey Dean Morgan
+    it: Jeffrey Dean Morgan
+    ja: ジェフリー・ディーン・モーガン
+    ka: ჯეფრი დეკანი მორგანი
+    kk: Джеффри Дин Морган
+    kl: Jeffrey Dean Morgan
+    ko: 제프리 딘 모건
+    ku: Jeffrey Dean Morgan
+    lfn: Jeffrey Dean Morgan
+    lv: Džefrijs Dīns Morgans
+    ms: Jeffrey Dean Morgan
+    nb: Jeffrey Dean Morgan
+    nl: Jeffrey Dean Morgan
+    nn: Jeffrey Dean Morgan
+    pap: Jeffrey Dean Morgan
+    pl: Jeffrey Dean Morgan
+    pt: Jeffrey Dean Morgan
+    pt-br: Jeffrey Dean Morgan
+    ro: Jeffrey Dean Morgan
+    ru: Джеффри Дин Морган
+    sl: Jeffrey Dean Morgan
+    sq: Jeffrey Dean Morgan
+    sr: Џефри Дин Морган
+    sv: Jeffrey Dean Morgan
+    th: เจฟฟรีย์ ดีน มอร์แกน
+    tr: Jeffrey Dean Morgan
+    tt: Җеффри Дин Морган
+    tt-cyrl: Җеффри Дин Морган
+    uk: Джеффрі Дін Морґан
+    uz: Jeffrey Dean Morgan
+    vi: Jeffrey Dean Morgan
+    vo: Jeffrey Dean Morgan
+    yo: Jeffrey Dean Morgan
+    zh: 杰弗里·迪恩·摩根
+    zh-hant: 傑佛瑞·狄恩·摩根
+    zh-hk: 謝菲·甸·摩根
 ---
 # [[Morgan,Jeffrey_Dean]] 
 

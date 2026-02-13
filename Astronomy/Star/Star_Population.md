@@ -1,22 +1,104 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]"
-    - "[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]"
-    - "[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]"
-    - "[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]"
-    - "[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]"
-    - "[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]"
-    - "[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]"
+  - '[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]'
+  - '[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]'
+  - '[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]'
+  - '[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]'
+  - '[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]'
+  - '[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]'
+  - '[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]"
-  - "[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]"
-  - "[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]"
-  - "[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]"
-  - "[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]"
-  - "[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]"
-  - "[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]"
+- '[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]'
+- '[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]'
+- '[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]'
+- '[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]'
+- '[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]'
+- '[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]'
+- '[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]'
 has_id_wikidata: Q1436016
+dv_has_:
+  name_:
+    ar: جمهرة النجوم
+    be-tarask: зорнае насельніцтва
+    ca: població estel·lar
+    da: Stjernegenerationer
+    de: Population
+    el: αστρικοί πληθυσμοί
+    en: stellar population
+    eo: Stela loĝantaro
+    es: Población estelar
+    eu: izar-populazio
+    fa: جمعیت ستارهای
+    fi: tähtipopulaatio
+    fr: population stellaire
+    hr: Zvjezdana populacija
+    hu: csillagpopuláció
+    hy: աստղային բնակչություն
+    id: Populasi bintang
+    it: Popolazioni stellari
+    ja: 恒星の種族
+    ko: 항성의 종족
+    lb: Stärepopulatioun
+    mk: ѕвездено население
+    ms: Populasi bintang
+    nb: populasjon
+    nds: Populatschoon
+    nl: Populatie I, II en III
+    nn: populasjon
+    pl: populacje gwiazdowe
+    pt: População estelar
+    ro: Populație de stele
+    ru: звёздное население
+    sh: Populacija zvijezda
+    sk: hviezdna populácia
+    sl: zvezdna populacija
+    sv: population
+    tr: Yıldızlar öbeği
+    uk: зоряне населення
+    uz: Yulduzli aholi
+    vec: popołasion stełare
+    vi: Quần thể sao
+    zh: 星族
+aliases:
+- csillagpopuláció
+- hviezdna populácia
+- izar-populazio
+- població estel·lar
+- Población estelar
+- Popolazioni stellari
+- popołasion stełare
+- Populacija zvijezda
+- populacje gwiazdowe
+- Populasi bintang
+- populasjon
+- Populatie I, II en III
+- Population
+- population stellaire
+- Populatschoon
+- População estelar
+- Populație de stele
+- Quần thể sao
+- Stela loĝantaro
+- stellar population
+- Stjernegenerationer
+- Stärepopulatioun
+- tähtipopulaatio
+- Yulduzli aholi
+- Yıldızlar öbeği
+- zvezdna populacija
+- Zvjezdana populacija
+- αστρικοί πληθυσμοί
+- ѕвездено население
+- звёздное население
+- зорнае насельніцтва
+- зоряне населення
+- աստղային բնակչություն
+- جمعیت ستارهای
+- جمهرة النجوم
+- 恒星の種族
+- 星族
+- 항성의 종족
 ---
 # [[Star_Population]] 
 

@@ -1,8 +1,108 @@
 ---
 has_id_wikidata: Q16980
+dv_has_:
+  name_:
+    ar: بنية آرم
+    arz: بنية آرم
+    ast: ARM
+    az: ARM
+    be: ARM
+    be-tarask: ARM
+    bs: ARM procesorska arhitektura
+    ca: ARM
+    cs: architektura ARM
+    da: ARM
+    de: ARM-Architektur
+    el: Αρχιτεκτονική ARM
+    en: ARM architecture
+    eo: arkitekturo ARM
+    es: ARM
+    et: ARM
+    eu: ARM arkitektura
+    fa: معماری آرم
+    fi: ARM
+    fr: architecture ARM
+    ga: ailtireacht ARM
+    he: ARM
+    hi: ए आर एम वास्तुकला
+    hu: ARM-architektúra
+    hy: ARM
+    id: ARM
+    it: architettura ARM
+    ja: ARMアーキテクチャ
+    kab: tasegda ARM
+    kn: ಎ ಆರ್ ಎಮ್ ವಾಸ್ತುಶಿಲ್ಪ
+    ko: ARM 아키텍처
+    lv: ARM
+    ml: ആം ആർക്കിടെക്ചർ
+    ms: ARM
+    mul: ARM architecture
+    nb: ARM
+    nl: ARM-architectuur
+    pl: architektura ARM
+    pt: Arquitetura ARM
+    qu: ARM wasimusika
+    ro: arhitectură ARM
+    sa: ए आर् एम् वास्तुविद्या
+    sco: ARM airchitectur
+    sh: ARM
+    sk: ARM
+    sl: arhitektura ARM
+    sq: Arkitektura ARM
+    sr: ARM архитектура
+    sv: ARM
+    tr: ARM mimarlığı
+    tt: ARM
+    tt-cyrl: ARM
+    uk: ARM
+    vec: ARM
+    vi: cấu trúc ARM
+    wuu: ARM架构
+    yue: ARM架構
+    zh: ARM架構
+    zh-cn: ARM架构
+    zh-hans: ARM架构
+    zh-hant: ARM架構
+    zh-hk: ARM架構
+    zh-mo: ARM架構
+    zh-my: ARM架构
+    zh-sg: ARM架构
+    zh-tw: ARM架構
+aliases:
+- ailtireacht ARM
+- architecture ARM
+- architektura ARM
+- architettura ARM
+- arhitectură ARM
+- arhitektura ARM
+- Arkitektura ARM
+- arkitekturo ARM
+- ARM
+- ARM airchitectur
+- ARM architecture
+- ARM arkitektura
+- ARM mimarlığı
+- ARM procesorska arhitektura
+- ARM wasimusika
+- ARM архитектура
+- ARM 아키텍처
+- ARM-architectuur
+- ARM-Architektur
+- ARM-architektúra
+- ARMアーキテクチャ
+- ARM架构
+- ARM架構
+- Arquitetura ARM
+- cấu trúc ARM
+- tasegda ARM
+- Αρχιτεκτονική ARM
+- بنية آرم
+- معماری آرم
+- ए आर एम वास्तुकला
+- ए आर् एम् वास्तुविद्या
+- ಎ ಆರ್ ಎಮ್ ವಾಸ್ತುಶಿಲ್ಪ
+- ആം ആർക്കിടെക്ചർ
 ---
-
-
 # [[ARM(Acorn_RISC_Machine)]] 
 
 [[../Semiconductor-Industry]] 

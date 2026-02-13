@@ -1,9 +1,202 @@
 ---
 aliases:
-  - Sea cucumber
-  - Holothuroidea
+- Balat
+- Binghaij
+- Brizgači
+- Cazzu marinu
+- Cogombre de mar
+- Dengiz bodringlari
+- Deniz hıyarları
+- Dəniz xiyarları
+- Gamat
+- Golotwrïýler
+- Holothurie
+- Holothuroidea
+- Holoturia
+- Holoturijos
+- Holoturio
+- Holoturoideo
+- Holoturoideos
+- Holotúrie
+- humhum
+- Hái-sim
+- Hói-sêm
+- Hải sâm
+- Jongoo Bahari
+- Jūras gurķi
+- Markukumo
+- merimakkarat
+- meripurad
+- Morski krastavac
+- Morski krastavci
+- Oloturia
+- pepino-do-mar
+- pipi palisa telo
+- Sea cucumber
+- Seegurke
+- seekomkommer
+- Siagurken
+- sjögurkor
+- Sjøpølse
+- sjøpølser
+- strzykwy
+- sumýši
+- Sæbjúgu
+- Søpølser
+- súmaire cladaigh
+- tengeriuborkák
+- Teripang
+- Trpovi
+- Táłtłʼááh chʼoshtsoh chʼééh digháhii
+- Yaku kumar
+- Zanga
+- zeekomkommers
+- Zêekomkommers
+- Ολοθουροειδή
+- Галатурыі
+- галятурыі
+- Голотурії
+- Голотурии
+- Голотурийлер
+- Голотуриялар
+- Голотурияләр
+- морски краставац
+- Морски краставици
+- Հոլոթուրիաներ
+- מלפפון ים
+- خيار البحر
+- خیار دریایی
+- دنیز خیارلاری
+- عرناكو
+- گولوتۋرىييلەر
+- समुद्र कर्कटी
+- সামুদ্রিক শসা
+- கடலட்டை
+- ಕಡಲ ಸೌತೆ
+- കടൽ വെള്ളരി
+- ปลิงทะเล
+- ჰოლოთურიები
+- ナマコ
+- 海参
+- 海参纲
+- 海參
+- 海參綱
+- 해삼류
 title: Holothuroidea
 has_id_wikidata: Q127470
+dv_has_:
+  name_:
+    af: seekomkommer
+    an: Holothuroidea
+    ar: خيار البحر
+    ary: عرناكو
+    arz: خيار البحر
+    ast: Holothuroidea
+    az: Dəniz xiyarları
+    azb: دنیز خیارلاری
+    be: Галатурыі
+    be-tarask: галятурыі
+    bg: Морски краставици
+    bn: সামুদ্রিক শসা
+    bs: Morski krastavci
+    ca: Cogombre de mar
+    ceb: Balat
+    co: Cazzu marinu
+    cs: sumýši
+    da: Søpølser
+    de: Seegurke
+    el: Ολοθουροειδή
+    en: Holothuroidea
+    eo: Markukumo
+    es: Holothuroidea
+    et: meripurad
+    eu: Holoturia
+    ext: Holothuroidea
+    fa: خیار دریایی
+    fi: merimakkarat
+    fr: Holothurie
+    frr: Siagurken
+    ga: súmaire cladaigh
+    gl: Holoturoideos
+    hak: Hói-sêm
+    he: מלפפון ים
+    hi: समुद्र कर्कटी
+    hr: Trpovi
+    hu: tengeriuborkák
+    hy: Հոլոթուրիաներ
+    ia: Holothuroidea
+    id: Teripang
+    ie: Holothuroidea
+    io: Holoturio
+    is: Sæbjúgu
+    it: Holothuroidea
+    ja: ナマコ
+    jv: Teripang
+    ka: ჰოლოთურიები
+    kk: Голотурийлер
+    kk-arab: گولوتۋرىييلەر
+    kk-cn: گولوتۋرىييلەر
+    kk-cyrl: Голотурийлер
+    kk-kz: Голотурийлер
+    kk-latn: Golotwrïýler
+    kk-tr: Golotwrïýler
+    kn: ಕಡಲ ಸೌತೆ
+    ko: 해삼류
+    ky: Голотуриялар
+    la: Holothuroidea
+    lfn: Holoturoideo
+    lt: Holoturijos
+    lv: Jūras gurķi
+    mg: Zanga
+    mk: морски краставици
+    ml: കടൽ വെള്ളരി
+    ms: Gamat
+    mul: Holothuroidea
+    nan: Hái-sim
+    nb: sjøpølser
+    nl: zeekomkommers
+    nn: Sjøpølse
+    nv: Táłtłʼááh chʼoshtsoh chʼééh digháhii
+    oc: Oloturia
+    pl: strzykwy
+    pt: pepino-do-mar
+    pt-br: Holothuroidea
+    qu: Yaku kumar
+    ro: Holothuroidea
+    ru: Голотурии
+    sco: Holothuroidea
+    sh: Trpovi
+    sk: Holotúrie
+    sl: Brizgači
+    sq: Holothuroidea
+    sr: морски краставац
+    sr-ec: Морски краставац
+    sr-el: Morski krastavac
+    sv: sjögurkor
+    sw: Jongoo Bahari
+    szy: humhum
+    ta: கடலட்டை
+    th: ปลิงทะเล
+    tl: Holothuroidea
+    tok: pipi palisa telo
+    tr: Deniz hıyarları
+    tt: Голотурияләр
+    uk: Голотурії
+    uz: Dengiz bodringlari
+    vi: Hải sâm
+    vls: Zêekomkommers
+    vo: Holothuroidea
+    war: Holothuroidea
+    wuu: 海参
+    yue: 海參
+    za: Binghaij
+    zh: 海參綱
+    zh-cn: 海参纲
+    zh-hans: 海参纲
+    zh-hant: 海參
+    zh-hk: 海參
+    zh-sg: 海参
+    zh-tw: 海參
 ---
 # [[Holothuroidea]]
 

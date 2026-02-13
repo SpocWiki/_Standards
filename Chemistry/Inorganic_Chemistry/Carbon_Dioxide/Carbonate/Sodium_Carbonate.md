@@ -1,24 +1,180 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]"
+  - '[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]"
+- '[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]'
 has_id_wikidata: Q190227
+dv_has_:
+  name_:
+    af: Natriumkarbonaat
+    ar: كربونات الصوديوم
+    ast: carbonatu de sodiu
+    azb: سودیوم کربونات
+    ba: натрий карбонаты
+    be: карбанат натрыю
+    be-tarask: карбанат натру
+    bg: натриев карбонат
+    bn: সোডিয়াম কার্বনেট
+    bs: natrij-karbonat
+    ca: carbonat de sodi
+    cs: uhličitan sodný
+    cv: кальцийленнĕ сода
+    da: soda
+    de: Natriumcarbonat
+    el: ανθρακικό νάτριο
+    en: sodium carbonate
+    eo: natria karbonato
+    es: carbonato de sodio
+    et: naatriumkarbonaat
+    eu: sodio karbonato
+    fa: سدیم کربنات
+    fi: sooda
+    fr: carbonate de sodium
+    ga: carbónáit sóidiam
+    grc: νίτρον
+    gv: carbonaid hodjum
+    hak: thàn-sôn-na̍p
+    he: נתרן פחמתי
+    hi: क्षारातु प्रांगारीय
+    hr: natrijev karbonat
+    hu: nátrium-karbonát
+    hy: Նատրիումի կարբոնատ
+    id: natrium karbonat
+    it: carbonato di sodio
+    ja: 炭酸ナトリウム
+    kn: ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್
+    ko: 탄산 나트륨
+    lt: natrio karbonatas
+    lv: nātrija karbonāts
+    mi: konutai pākawa waro
+    min: natrium karbonat
+    mk: натриум карбонат
+    ml: സോഡിയം കാർബണേറ്റ്
+    ms: natrium karbonat
+    nan: thoàⁿ-sng natrium
+    nb: natriumkarbonat
+    nl: natriumcarbonaat
+    nn: natriumkarbonat
+    oc: carbonat de sòdi
+    pl: węglan sodu
+    pnb: دھوبی سوڈا
+    pt: carbonato de sódio
+    ro: Carbonat de sodiu
+    ru: карбонат натрия
+    sco: sodium carbonate
+    sd: سوڊيئم ڪاربونيٽ
+    sh: natrijum karbonat
+    sk: uhličitan sodný
+    skr: دھوٻی سوڈا
+    sl: natrijev karbonat
+    sq: karbonati i natriumit
+    sr: натријум карбонат
+    sr-ec: натријум карбонат
+    sr-el: natrijum karbonat
+    sv: natriumkarbonat
+    ta: சோடியம் காபனேற்று
+    te: సోడియమ్ కార్బొనేట్
+    th: โซเดียมคาร์บอเนต
+    tr: sodyum karbonat
+    tt: натрий карбонаты
+    uk: карбонат натрію
+    ur: صودا دردار
+    uz: Natriy karbonat
+    vi: natri carbonat
+    war: sodium carbonate
+    wuu: 碳酸钠
+    yue: 鹼粉
+    zh: 碳酸钠
+    zh-cn: 碳酸钠
+    zh-hans: 碳酸钠
+    zh-hant: 碳酸鈉
+    zh-hk: 碳酸鈉
+    zh-sg: 碳酸钠
+    zh-tw: 碳酸鈉
+aliases:
+- carbonaid hodjum
+- carbonat de sodi
+- Carbonat de sodiu
+- carbonat de sòdi
+- carbonate de sodium
+- carbonato de sodio
+- carbonato de sódio
+- carbonato di sodio
+- carbonatu de sodiu
+- carbónáit sóidiam
+- karbonati i natriumit
+- konutai pākawa waro
+- naatriumkarbonaat
+- natri carbonat
+- natria karbonato
+- natrij-karbonat
+- natrijev karbonat
+- natrijum karbonat
+- natrio karbonatas
+- natrium karbonat
+- natriumcarbonaat
+- Natriumcarbonat
+- Natriumkarbonaat
+- natriumkarbonat
+- Natriy karbonat
+- nátrium-karbonát
+- nātrija karbonāts
+- soda
+- sodio karbonato
+- sodium carbonate
+- sodyum karbonat
+- sooda
+- thoàⁿ-sng natrium
+- thàn-sôn-na̍p
+- uhličitan sodný
+- węglan sodu
+- ανθρακικό νάτριο
+- νίτρον
+- кальцийленнĕ сода
+- карбанат натру
+- карбанат натрыю
+- карбонат натрію
+- карбонат натрия
+- натријум карбонат
+- натриев карбонат
+- натрий карбонаты
+- натриум карбонат
+- Նատրիումի կարբոնատ
+- נתרן פחמתי
+- دھوبی سوڈا
+- دھوٻی سوڈا
+- سدیم کربنات
+- سودیوم کربونات
+- سوڊيئم ڪاربونيٽ
+- صودا دردار
+- كربونات الصوديوم
+- क्षारातु प्रांगारीय
+- সোডিয়াম কার্বনেট
+- சோடியம் காபனேற்று
+- సోడియమ్ కార్బొనేట్
+- ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್
+- സോഡിയം കാർബണേറ്റ്
+- โซเดียมคาร์บอเนต
+- 炭酸ナトリウム
+- 碳酸鈉
+- 碳酸钠
+- 鹼粉
+- 탄산 나트륨
 ---
 # [[Sodium_Carbonate]] 
 

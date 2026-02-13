@@ -1,359 +1,383 @@
 ---
-has_time_started: 1967-12-29 
+has_time_started: 1967-12-29
 aliases:
-  - Hyundai
-  - Hyundai_Motor_Company
-  - Hyundai Motor Company
+- Công ty Ô tô Hyundai
+- Hien-thoi Khì-chhâ
+- Hyundai
+- Hyundai Motor
+- Hyundai Motor Company
+- Hyundai Motor Group
+- Hyundai Motors
+- Hyundai_Motor_Company
+- Хјундаи
+- Хјундаи мотор
+- יונדאי
+- יונדאי מוטור
+- هيونداى موتور
+- هيونداي موتور
+- هیوندای موتور
+- ھیوندای مۆتۆر
+- ہُیٛنڈایی موٹر کمپنی
+- हुंडई मोटर कंपनी
+- ਹੁੰਡਈ ਮੋਟਰ ਕੰਪਨੀ
+- யுயேண்டே தானுந்து நிறுவனம்
+- ഹ്യൂണ്ടായ് മോട്ടോർ കമ്പനി
+- ဟန်ဒေး မော်တာကုမ္ပဏီ
+- 现代汽车
+- 现代汽车公司
+- 現代汽車
+- 現代自動車
+- 현대자동차
 has_id_wikidata: Q55931
 stock_exchange:
-  - '[[_Standards/WikiData/WD~Nasdaq,82059]]'
-  - '[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]'
-  - '[[_Standards/WikiData/WD~Korean_Stock_Exchange,495372]]'
+- '[[_Standards/WikiData/WD~Nasdaq,82059]]'
+- '[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]'
+- '[[_Standards/WikiData/WD~Korean_Stock_Exchange,495372]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Engineering_and_Construction,489809]]'
-  - '[[_Standards/WikiData/WD~Hyundai_WIA,493997]]'
-  - '[[_Standards/WikiData/WD~Beijing_Hyundai,4881139]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Glovis,5962598]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Steel,6502960]]'
-  - '[[_Standards/WikiData/WD~Hyundai_AutoEver,11286392]]'
-  - '[[_Standards/WikiData/WD~Rimac_Group,113550391]]'
-  - '[[_Standards/WikiData/WD~Hyundai,125054811]]'
-  - '[[_Standards/WikiData/WD~Kia,35349]]'
+- '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
+- '[[_Standards/WikiData/WD~Hyundai_Engineering_and_Construction,489809]]'
+- '[[_Standards/WikiData/WD~Hyundai_WIA,493997]]'
+- '[[_Standards/WikiData/WD~Beijing_Hyundai,4881139]]'
+- '[[_Standards/WikiData/WD~Hyundai_Glovis,5962598]]'
+- '[[_Standards/WikiData/WD~Hyundai_Steel,6502960]]'
+- '[[_Standards/WikiData/WD~Hyundai_AutoEver,11286392]]'
+- '[[_Standards/WikiData/WD~Rimac_Group,113550391]]'
+- '[[_Standards/WikiData/WD~Hyundai,125054811]]'
+- '[[_Standards/WikiData/WD~Kia,35349]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_India_Limited,1525445]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Czech,1564355]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Assan_Otomotiv,1641633]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Alabama,1641692]]'
-  - '[[_Standards/WikiData/WD~Boston_Dynamics,2298325]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Capital,5962562]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Card,5962566]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_Europe_GmbH,16966160]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_America,17062565]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Transys,19795115]]'
-  - '[[_Standards/WikiData/WD~Hyundai_N,96381543]]'
-  - '[[_Standards/WikiData/WD~Ioniq,98441159]]'
+- '[[_Standards/WikiData/WD~Hyundai_Rotem,152517]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_India_Limited,1525445]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Czech,1564355]]'
+- '[[_Standards/WikiData/WD~Hyundai_Assan_Otomotiv,1641633]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_Manufacturing_Alabama,1641692]]'
+- '[[_Standards/WikiData/WD~Boston_Dynamics,2298325]]'
+- '[[_Standards/WikiData/WD~Hyundai_Capital,5962562]]'
+- '[[_Standards/WikiData/WD~Hyundai_Card,5962566]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_Europe_GmbH,16966160]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_America,17062565]]'
+- '[[_Standards/WikiData/WD~Hyundai_Transys,19795115]]'
+- '[[_Standards/WikiData/WD~Hyundai_N,96381543]]'
+- '[[_Standards/WikiData/WD~Ioniq,98441159]]'
 industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
 founded_by: '[[_Standards/WikiData/WD~Jeong_Ju_yung,468467]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~Chung_Mong_koo,488446]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Mobis,497534]]'
-  - '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
-  - '[[_Standards/WikiData/WD~National_Pension_Service,6974864]]'
+- '[[_Standards/WikiData/WD~Chung_Mong_koo,488446]]'
+- '[[_Standards/WikiData/WD~Hyundai_Mobis,497534]]'
+- '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
+- '[[_Standards/WikiData/WD~National_Pension_Service,6974864]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~company,783794]]'
-  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~car_brand,10429667]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~company,783794]]'
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~car_brand,10429667]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
-  - '[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]'
+- '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
+- '[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]'
 chairperson: '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Chung_Eui_sun,5116286]]'
 partnership_with: '[[_Standards/WikiData/WD~IONNA,124528707]]'
 legal_form: '[[_Standards/WikiData/WD~jusik_hoesa,130278799]]'
 country:
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~car,1420]]'
-  - '[[_Standards/WikiData/WD~truck,43193]]'
+- '[[_Standards/WikiData/WD~car,1420]]'
+- '[[_Standards/WikiData/WD~truck,43193]]'
 location_of_formation: '[[_Standards/WikiData/WD~Seoul,8684]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Seoul,8684]]'
 different_from: '[[_Standards/WikiData/WD~Hyundai,29311]]'
 parent_organization:
-  - '[[_Standards/WikiData/WD~Hyundai,29311]]'
-  - '[[_Standards/WikiData/WD~Hyundai_Motor_Group,59243]]'
+- '[[_Standards/WikiData/WD~Hyundai,29311]]'
+- '[[_Standards/WikiData/WD~Hyundai_Motor_Group,59243]]'
 operating_income: 6.68
 social_media_followers:
-  - 752000
-  - 425511
+- 752000
+- 425511
 total_revenue: 117.61
 ISNI:
-  - 0000000404343940
-  - 0000000119549421
+- 0000000404343940
+- 0000000119549421
 inception: 1967-12-29T00:00:00Z
 Instagram_username:
-  - hyundaibr
-  - hyundai
-  - hyundaiindia
-  - hyundaialabama
-  - hyundaitr
-  - hyundai.europe
-  - hyundaiusa
-  - hyundai.bolivia
-  - hyundai.center.kyrgyzstan
-  - hyundai.gr
-  - hyundai.innovation.sg
-  - hyundai.is
-  - hyundai.libya
-  - hyundai.nc
-  - hyundai.ni
-  - hyundai.uz
-  - hyundaiarg
-  - hyundaiaus
-  - hyundaiaustria
-  - hyundaiazerbaijan
-  - hyundaibahrain
-  - hyundaibaltic
-  - hyundaibelux
-  - hyundaibh
-  - hyundaibrunei
-  - hyundaicanada
-  - hyundaicanarias
-  - hyundaichile
-  - hyundaicr
-  - hyundaicz
-  - hyundaiegypt
-  - hyundaiesp
-  - hyundaifinland
-  - hyundaifrance
-  - hyundaiguatemala
-  - hyundaihrvatska
-  - hyundaija
-  - hyundaijordan
-  - hyundaikuwait
-  - hyundaikz
-  - hyundailaos
-  - hyundailebanon
-  - hyundaimakedonija
-  - hyundaimea
-  - hyundaimoldova
-  - hyundaimotorindonesia
-  - hyundaimotorphilippines
-  - hyundaimotorqatar
-  - hyundaimotorsnigeria
-  - hyundainederland
-  - hyundainic
-  - hyundainorge
-  - hyundainz
-  - hyundaioman_official
-  - hyundaipr
-  - hyundaipt
-  - hyundaird
-  - hyundaisenegal_caetanoenergy
-  - hyundaiserbia
-  - hyundaislovenija
-  - hyundaislovensko
-  - hyundaisv
-  - hyundaisverige
-  - hyundaitrucks_rus
-  - hyundaitunisie
-  - hyundaiuae_
-  - hyundaiuk
-  - hyundaiuy
-  - hyundaivzla
-  - hyundaiworldgh
-  - hyundai_abans
-  - hyundai_bulgaria
-  - hyundai_by
-  - hyundai_col
-  - hyundai_de
-  - hyundai_hn
-  - hyundai_hun
-  - hyundai_iq
-  - hyundai_italia
-  - hyundai_ke
-  - hyundai_kor
-  - hyundai_malta
-  - hyundai_maroc
-  - hyundai_mauritius
-  - hyundai_motor_poland
-  - hyundai_peru
-  - hyundai_ro
-  - hyundai_sg
-  - hyundai_switzerland
-  - hyundai_tw
-  - hyundai_ukraine
-  - hyundai_worldwide
+- hyundaibr
+- hyundai
+- hyundaiindia
+- hyundaialabama
+- hyundaitr
+- hyundai.europe
+- hyundaiusa
+- hyundai.bolivia
+- hyundai.center.kyrgyzstan
+- hyundai.gr
+- hyundai.innovation.sg
+- hyundai.is
+- hyundai.libya
+- hyundai.nc
+- hyundai.ni
+- hyundai.uz
+- hyundaiarg
+- hyundaiaus
+- hyundaiaustria
+- hyundaiazerbaijan
+- hyundaibahrain
+- hyundaibaltic
+- hyundaibelux
+- hyundaibh
+- hyundaibrunei
+- hyundaicanada
+- hyundaicanarias
+- hyundaichile
+- hyundaicr
+- hyundaicz
+- hyundaiegypt
+- hyundaiesp
+- hyundaifinland
+- hyundaifrance
+- hyundaiguatemala
+- hyundaihrvatska
+- hyundaija
+- hyundaijordan
+- hyundaikuwait
+- hyundaikz
+- hyundailaos
+- hyundailebanon
+- hyundaimakedonija
+- hyundaimea
+- hyundaimoldova
+- hyundaimotorindonesia
+- hyundaimotorphilippines
+- hyundaimotorqatar
+- hyundaimotorsnigeria
+- hyundainederland
+- hyundainic
+- hyundainorge
+- hyundainz
+- hyundaioman_official
+- hyundaipr
+- hyundaipt
+- hyundaird
+- hyundaisenegal_caetanoenergy
+- hyundaiserbia
+- hyundaislovenija
+- hyundaislovensko
+- hyundaisv
+- hyundaisverige
+- hyundaitrucks_rus
+- hyundaitunisie
+- hyundaiuae_
+- hyundaiuk
+- hyundaiuy
+- hyundaivzla
+- hyundaiworldgh
+- hyundai_abans
+- hyundai_bulgaria
+- hyundai_by
+- hyundai_col
+- hyundai_de
+- hyundai_hn
+- hyundai_hun
+- hyundai_iq
+- hyundai_italia
+- hyundai_ke
+- hyundai_kor
+- hyundai_malta
+- hyundai_maroc
+- hyundai_mauritius
+- hyundai_motor_poland
+- hyundai_peru
+- hyundai_ro
+- hyundai_sg
+- hyundai_switzerland
+- hyundai_tw
+- hyundai_ukraine
+- hyundai_worldwide
 Facebook_username:
-  - hyundaibr
-  - HyundaiIndia
-  - HyundaiNosovice
-  - Hyundai-Motor-Manufacturing-Alabama-164921696852782
-  - HyundaiTurkiye
-  - Hyundai.Europe
-  - Hyundai
-  - hyundai.argentina
-  - hyundai.bn
-  - Hyundai.Bulgaria
-  - Hyundai.Carmax
-  - hyundai.center.kyrgyzstan
-  - hyundai.deutschland
-  - Hyundai.es
-  - hyundai.hungary
-  - hyundai.iq
-  - hyundai.is
-  - Hyundai.Italia
-  - hyundai.kor
-  - Hyundai.Libya.official
-  - hyundai.maroc
-  - Hyundai.Moldova
-  - hyundai.nouvellecaledonie
-  - hyundai.slovenija
-  - Hyundai.Srbija
-  - Hyundai.Truck.and.Bus.Rus
-  - hyundai.tw
-  - Hyundai.Uruguay
-  - HyundaiAbans
-  - HyundaiAustralia
-  - hyundaiAustria
-  - HyundaiAutoRomania
-  - HyundaiAzerbaijan
-  - Hyundaibahrain
-  - HyundaiBangladesh
-  - HyundaiBelarus
-  - HyundaiBelux
-  - HyundaiBH
-  - hyundaicanada
-  - HyundaiCanarias
-  - HyundaiChile
-  - HyundaiColombia
-  - HyundaiCR
-  - hyundaicyprus
-  - hyundaicz
-  - HyundaiEgypt
-  - HyundaiElSalvador
-  - HyundaiEstonia
-  - HyundaiFinland
-  - hyundaifrance
-  - HyundaiGreece
-  - Hyundaigt
-  - HyundaiHK
-  - HyundaiHn
-  - HyundaiHrv
-  - HyundaiInnovationSG
-  - HyundaiJamaica
-  - HyundaiJordan
-  - hyundaikuwait
-  - HyundaiKZ
-  - hyundailaos21
-  - HyundaiLatvia
-  - HyundaiLebanon
-  - HyundaiLithuania
-  - hyundaimakedonija
-  - hyundaimalaysia
-  - HyundaiMalta
-  - HyundaiMauritius
-  - HyundaiMEA
-  - HyundaiMotorIndonesia
-  - hyundaimotorphilippines
-  - hyundaimotorqatar
-  - hyundainederland
-  - hyundainic
-  - HyundaiNicaragua
-  - HyundaiNigeria
-  - HyundaiNorge
-  - HyundaiNZ
-  - hyundaiOmanLive
-  - hyundaiperu
-  - HyundaiPolska
-  - HyundaiPortugal
-  - hyundaipr
-  - HyundaiRD
-  - hyundaireunion
-  - HyundaiSenegalCaetano
-  - HyundaiSeychellesPmcAuto
-  - HyundaiSingapore
-  - HyundaiSlovensko
-  - HyundaiSverige
-  - hyundaiSwitzerland
-  - HyundaiTunisia
-  - Hyundaiua
-  - hyundaiuk
-  - HyundaiUzbekistan
-  - hyundaivzla
-  - HyundaiWorldGh
-  - Hyundaiworldwide
-  - www.hmm.mn
-  - 648101790684884
+- hyundaibr
+- HyundaiIndia
+- HyundaiNosovice
+- Hyundai-Motor-Manufacturing-Alabama-164921696852782
+- HyundaiTurkiye
+- Hyundai.Europe
+- Hyundai
+- hyundai.argentina
+- hyundai.bn
+- Hyundai.Bulgaria
+- Hyundai.Carmax
+- hyundai.center.kyrgyzstan
+- hyundai.deutschland
+- Hyundai.es
+- hyundai.hungary
+- hyundai.iq
+- hyundai.is
+- Hyundai.Italia
+- hyundai.kor
+- Hyundai.Libya.official
+- hyundai.maroc
+- Hyundai.Moldova
+- hyundai.nouvellecaledonie
+- hyundai.slovenija
+- Hyundai.Srbija
+- Hyundai.Truck.and.Bus.Rus
+- hyundai.tw
+- Hyundai.Uruguay
+- HyundaiAbans
+- HyundaiAustralia
+- hyundaiAustria
+- HyundaiAutoRomania
+- HyundaiAzerbaijan
+- Hyundaibahrain
+- HyundaiBangladesh
+- HyundaiBelarus
+- HyundaiBelux
+- HyundaiBH
+- hyundaicanada
+- HyundaiCanarias
+- HyundaiChile
+- HyundaiColombia
+- HyundaiCR
+- hyundaicyprus
+- hyundaicz
+- HyundaiEgypt
+- HyundaiElSalvador
+- HyundaiEstonia
+- HyundaiFinland
+- hyundaifrance
+- HyundaiGreece
+- Hyundaigt
+- HyundaiHK
+- HyundaiHn
+- HyundaiHrv
+- HyundaiInnovationSG
+- HyundaiJamaica
+- HyundaiJordan
+- hyundaikuwait
+- HyundaiKZ
+- hyundailaos21
+- HyundaiLatvia
+- HyundaiLebanon
+- HyundaiLithuania
+- hyundaimakedonija
+- hyundaimalaysia
+- HyundaiMalta
+- HyundaiMauritius
+- HyundaiMEA
+- HyundaiMotorIndonesia
+- hyundaimotorphilippines
+- hyundaimotorqatar
+- hyundainederland
+- hyundainic
+- HyundaiNicaragua
+- HyundaiNigeria
+- HyundaiNorge
+- HyundaiNZ
+- hyundaiOmanLive
+- hyundaiperu
+- HyundaiPolska
+- HyundaiPortugal
+- hyundaipr
+- HyundaiRD
+- hyundaireunion
+- HyundaiSenegalCaetano
+- HyundaiSeychellesPmcAuto
+- HyundaiSingapore
+- HyundaiSlovensko
+- HyundaiSverige
+- hyundaiSwitzerland
+- HyundaiTunisia
+- Hyundaiua
+- hyundaiuk
+- HyundaiUzbekistan
+- hyundaivzla
+- HyundaiWorldGh
+- Hyundaiworldwide
+- www.hmm.mn
+- 648101790684884
 TikTok_username:
-  - hyundaibr
-  - hyundaiusa
-  - hyundai.by
-  - hyundaicanada
-  - hyundaifrance
+- hyundaibr
+- hyundaiusa
+- hyundai.by
+- hyundaicanada
+- hyundaifrance
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20Motor%20Company%20logo.svg
 native_label: 현대자동차
 X_Twitter_username:
-  - hyundaiindia
-  - HyundaiAlabama
-  - hyundaiturkiye
-  - HyundaiEurope
-  - Hyundai
-  - hyundaiarg
-  - hyundaiaus
-  - HyundaiColombia
-  - hyundaicz
-  - HyundaiEcuador
-  - hyundaieg
-  - HyundaiEsp
-  - HyundaiFrance
-  - hyundaiGR
-  - hyundaikuwait
-  - HyundaiMaroc
-  - HyundaiMEA
-  - hyundaimotorid
-  - HyundaiMotorMex
-  - HyundaiMotorsM
-  - Hyundainic
-  - HyundaiNigeria
-  - hyundaipr
-  - HyundaiPresse
-  - HyundaiSK
-  - hyundaiuae
-  - Hyundaiuy
-  - HyundaiWorldGh
-  - JordanHyundai
-  - about_hyundai
-  - hyundai_az
-  - Hyundai_Bahrain
-  - Hyundai_DE
-  - Hyundai_FTL
-  - hyundai_global
-  - Hyundai_Italia
-  - hyundai_kor
-  - Hyundai_Peru
-  - hyundai_poland
-  - Hyundai_UK
-  - Hyundai_vzla
+- hyundaiindia
+- HyundaiAlabama
+- hyundaiturkiye
+- HyundaiEurope
+- Hyundai
+- hyundaiarg
+- hyundaiaus
+- HyundaiColombia
+- hyundaicz
+- HyundaiEcuador
+- hyundaieg
+- HyundaiEsp
+- HyundaiFrance
+- hyundaiGR
+- hyundaikuwait
+- HyundaiMaroc
+- HyundaiMEA
+- hyundaimotorid
+- HyundaiMotorMex
+- HyundaiMotorsM
+- Hyundainic
+- HyundaiNigeria
+- hyundaipr
+- HyundaiPresse
+- HyundaiSK
+- hyundaiuae
+- Hyundaiuy
+- HyundaiWorldGh
+- JordanHyundai
+- about_hyundai
+- hyundai_az
+- Hyundai_Bahrain
+- Hyundai_DE
+- Hyundai_FTL
+- hyundai_global
+- Hyundai_Italia
+- hyundai_kor
+- Hyundai_Peru
+- hyundai_poland
+- Hyundai_UK
+- Hyundai_vzla
 VK_username:
-  - HyundaiRussia
-  - hyundaibelarus
-  - hyundaitruckandbusrus
+- HyundaiRussia
+- hyundaibelarus
+- hyundaitruckandbusrus
 Commons_gallery: Hyundai
 Pinterest_username:
-  - hyundaiusa
-  - hyundaislovensko
+- hyundaiusa
+- hyundaislovensko
 Telegram_username:
-  - hyundaimoldova
-  - hyundaisg
-  - Hyundai_uzbekistan
+- hyundaimoldova
+- hyundaisg
+- Hyundai_uzbekistan
 ISIN: USY384721251
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20symbol.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hyundai.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HyundaiMotorsCompany%20KiaMotorsCompany.jpg
 location_information_URL:
-  - https://hyundai-uae.com/ar/build-a-car/find-a-dealer
-  - https://hyundai-uae.com/en/build-a-car/find-a-dealer
-  - https://hyundai.ke/dealer-caetano-hyundai/
-  - https://hyundaitrucks.com.au/locate-dealer
-  - https://www.hyundai.com.my/shopping/find-a-dealer/
-  - https://www.hyundai.com/au/en/find-a-dealer
-  - https://www.hyundai.com/bh/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/gd/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/id/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/in/en/buy-a-car/find-a-dealer-and-website
-  - https://www.hyundai.com/in/en/click-to-buy/find-a-dealer-and-website
-  - https://www.hyundai.com/kw/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/lb/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/ng/en/build-a-car/find-a-dealer
-  - https://www.hyundai.com/nl/nl/dealers.html
-  - https://www.hyundai.com/ph/en/build-a-car/find-a-dealer
-  - https://www.hyundaicanada.com/en/shopping-tools/find-a-dealer
-  - https://www.hyundaiusa.com/us/en/dealer-locator
+- https://hyundai-uae.com/ar/build-a-car/find-a-dealer
+- https://hyundai-uae.com/en/build-a-car/find-a-dealer
+- https://hyundai.ke/dealer-caetano-hyundai/
+- https://hyundaitrucks.com.au/locate-dealer
+- https://www.hyundai.com.my/shopping/find-a-dealer/
+- https://www.hyundai.com/au/en/find-a-dealer
+- https://www.hyundai.com/bh/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/gd/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/id/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/in/en/buy-a-car/find-a-dealer-and-website
+- https://www.hyundai.com/in/en/click-to-buy/find-a-dealer-and-website
+- https://www.hyundai.com/kw/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/lb/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/ng/en/build-a-car/find-a-dealer
+- https://www.hyundai.com/nl/nl/dealers.html
+- https://www.hyundai.com/ph/en/build-a-car/find-a-dealer
+- https://www.hyundaicanada.com/en/shopping-tools/find-a-dealer
+- https://www.hyundaiusa.com/us/en/dealer-locator
 official_website: https://www.hyundai.com/
 PermID: 4295881548
 REDnote_profile: 5c06a79100000000050036d9
@@ -362,8 +386,91 @@ Legal_Entity_Identifier: 9884004RQX8PRBXQ8S60
 Revised_Romanization: Hyeondae Jadongcha Jushikhoesa
 McCune_Reischauer_romanization: Hyŏndae Chatongch'a Chusikhoesa
 Commons_category: Hyundai vehicles
+dv_has_:
+  name_:
+    af: Hyundai
+    ar: هيونداي موتور
+    arz: هيونداى موتور
+    ast: Hyundai
+    az: Hyundai
+    azb: هیوندای موتور
+    be: Hyundai Motor Company
+    be-tarask: Hyundai Motor Company
+    bg: Hyundai Motor Company
+    bs: Hyundai Motor Company
+    ca: Hyundai Motor Company
+    ckb: ھیوندای مۆتۆر
+    cs: Hyundai Motor Company
+    da: Hyundai Motor
+    de: Hyundai
+    de-ch: Hyundai Motor Company
+    diq: Hyundai
+    el: Hyundai Motors
+    en: Hyundai Motor Company
+    en-ca: Hyundai Motor Company
+    en-gb: Hyundai Motor Company
+    eo: Hyundai
+    es: Hyundai Motor Company
+    et: Hyundai Motor Company
+    eu: Hyundai Motor Company
+    fa: هیوندای موتور
+    fi: Hyundai Motor Company
+    fr: Hyundai
+    ga: Hyundai Motor Company
+    gl: Hyundai Motor Company
+    hak: Hien-thoi Khì-chhâ
+    he: יונדאי מוטור
+    hi: हुंडई मोटर कंपनी
+    hr: Hyundai
+    hu: Hyundai Motor Company
+    hy: Hyundai Motor Company
+    id: Hyundai Motor Company
+    io: Hyundai Motor Company
+    it: Hyundai
+    ja: 現代自動車
+    kaa: Hyundai
+    kk: Hyundai
+    ko: 현대자동차
+    ks: ہُیٛنڈایی موٹر کمپنی
+    ku: Hyundai
+    lt: Hyundai Motor Company
+    lv: Hyundai Motor Group
+    mk: Хјундаи
+    ml: ഹ്യൂണ്ടായ് മോട്ടോർ കമ്പനി
+    ms: Hyundai Motor Company
+    mul: Hyundai Motor Company
+    my: ဟန်ဒေး မော်တာကုမ္ပဏီ
+    nb: Hyundai Motor Company
+    nl: Hyundai Motor Company
+    nn: Hyundai Motor Company
+    oc: Hyundai Motor Company
+    pa: ਹੁੰਡਈ ਮੋਟਰ ਕੰਪਨੀ
+    pl: Hyundai Motor Company
+    pms: Hyundai Motor Company
+    pt: Hyundai Motor Company
+    pt-br: Hyundai Motor Company
+    ro: Hyundai
+    ru: Hyundai Motor
+    sah: Hyundai
+    sco: Hyundai Motor Company
+    sl: Hyundai Motor Company
+    sq: Hyundai Motor Company
+    sr: Хјундаи мотор
+    sv: Hyundai Motor Company
+    ta: யுயேண்டே தானுந்து நிறுவனம்
+    tg: Hyundai Motor
+    tly: Hyundai
+    tr: Hyundai Motor Company
+    uk: Hyundai Motor Company
+    uz: Hyundai
+    vec: Hyundai Motor Company
+    vi: Công ty Ô tô Hyundai
+    wuu: 现代汽车
+    yi: יונדאי
+    yue: 現代汽車
+    zh: 現代汽車
+    zh-cn: 现代汽车公司
 ---
-
 # [[Hyundai_Motor_Company]] 
 
 #is_/same_as :: [[WikiData/WD~Hyundai_Motor_Company,55931|WD~Hyundai_Motor_Company,55931]] 

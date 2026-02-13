@@ -1,8 +1,196 @@
 ---
 has_id_wikidata: Q122653
+dv_has_:
+  name_:
+    ar: نظام عد
+    ast: sistema de numberación
+    az: Say sistemləri
+    be: сістэма злічэння
+    be-tarask: сыстэма зьлічэньня
+    bg: Бройна система
+    bn: সংখ্যাপদ্ধতি
+    bs: Brojevni sistem
+    ca: sistema de numeració
+    ckb: سیستمی ژماراڵ
+    cs: číselná soustava
+    cv: Шутлав йĕрки
+    da: talsystem
+    de: Zahlensystem
+    en: numeral system
+    eo: cifera sistemo
+    es: sistema de numeración
+    et: Arvusüsteem
+    eu: Zenbaki-sistema
+    fa: دستگاه شمارش
+    fi: lukujärjestelmä
+    fr: système de numération
+    gl: sistema de numeración
+    gsw: Zaalesüsteem
+    he: שיטת ספירה
+    hi: संख्या पद्धतियाँ
+    hr: Brojevni sustav
+    ht: Sistèm nimewotasyon
+    hu: számrendszer
+    hy: հաշվարկման համակարգեր
+    id: Sistem bilangan
+    io: Nombrosistemo
+    is: Talnakerfi
+    it: sistema di numerazione
+    ja: 記数法
+    jv: Sistem wilangan
+    ka: თვლის სისტემა
+    kaa: Sanaq sisteması
+    kk: Санау
+    kk-arab: ساناۋ
+    kk-cn: ساناۋ
+    kk-cyrl: Санау
+    kk-kz: Санау
+    kk-latn: Sanaw
+    kk-tr: Sanaw
+    ko: 기수법
+    ky: Эсептөө тутуму
+    la: Systema numerale
+    lv: skaitīšanas sistēma
+    lzh: 表數法
+    mag: सङ्ख्या पद्धति
+    mhr: Чотрадам системе
+    mk: броен систем
+    ml: സംഖ്യാസമ്പ്രദായങ്ങൾ
+    mni: ꯃꯁꯤꯡ
+    ms: sistem angka
+    mwl: Sistema de numeraçon
+    my: ဂဏန်းခြေ
+    nan: Sò͘-jī
+    nb: tallsystem
+    nl: talstelsel
+    nn: talsystem
+    nso: Lebadi
+    oc: Sistèma de numeracion
+    pa: ਸੰਖਿਆ ਪ੍ਰਣਾਲੀ
+    pl: system liczbowy
+    pnb: عددی نظام
+    pt: sistema de numeração
+    pt-br: sistema de numeração
+    ro: sistem de numerație
+    ru: cистема счисления
+    sh: Brojevni sistem
+    si: සංඛ්යාත පද්ධති
+    sk: Číselná sústava
+    sl: številski sistem
+    sn: Tsika yekurava nhamba
+    sq: sistem numerik
+    sr: бројевни систем
+    sv: talsystem
+    syl: ꠉꠘꠣꠞ ꠔꠞꠤꠇꠣ
+    ta: எண்ணுரு
+    th: ระบบเลข
+    tl: Numerasyon
+    tok: nasin nanpa
+    tr: sayı sistemi
+    uk: система числення
+    ur: نظام عدد
+    uz: Sanoq tizimi
+    vec: sistema de numarasion
+    vi: hệ đếm
+    war: Sistema pag-ihap
+    wuu: 记数系统
+    yi: נומערן סיסטעם
+    yue: 記數法
+    zh: 記數系統
+    zh-cn: 记数系统
+    zh-hans: 记数系统
+    zh-hant: 記數系統
+    zh-hk: 記數系統
+    zh-sg: 记数系统
+    zh-tw: 記數系統
+aliases:
+- Arvusüsteem
+- Brojevni sistem
+- Brojevni sustav
+- cifera sistemo
+- cистема счисления
+- hệ đếm
+- Lebadi
+- lukujärjestelmä
+- nasin nanpa
+- Nombrosistemo
+- numeral system
+- Numerasyon
+- Sanaq sisteması
+- Sanaw
+- Sanoq tizimi
+- Say sistemləri
+- sayı sistemi
+- sistem angka
+- Sistem bilangan
+- sistem de numerație
+- sistem numerik
+- Sistem wilangan
+- sistema de numarasion
+- sistema de numberación
+- sistema de numeració
+- sistema de numeración
+- Sistema de numeraçon
+- sistema de numeração
+- sistema di numerazione
+- Sistema pag-ihap
+- Sistèm nimewotasyon
+- Sistèma de numeracion
+- skaitīšanas sistēma
+- system liczbowy
+- Systema numerale
+- système de numération
+- számrendszer
+- Sò͘-jī
+- tallsystem
+- Talnakerfi
+- talstelsel
+- talsystem
+- Tsika yekurava nhamba
+- Zaalesüsteem
+- Zahlensystem
+- Zenbaki-sistema
+- číselná soustava
+- Číselná sústava
+- številski sistem
+- бројевни систем
+- броен систем
+- Бройна система
+- сістэма злічэння
+- Санау
+- система числення
+- сыстэма зьлічэньня
+- Чотрадам системе
+- Шутлав йĕрки
+- Эсептөө тутуму
+- հաշվարկման համակարգեր
+- נומערן סיסטעם
+- שיטת ספירה
+- دستگاه شمارش
+- ساناۋ
+- سیستمی ژماراڵ
+- عددی نظام
+- نظام عد
+- نظام عدد
+- संख्या पद्धतियाँ
+- सङ्ख्या पद्धति
+- সংখ্যাপদ্ধতি
+- ਸੰਖਿਆ ਪ੍ਰਣਾਲੀ
+- எண்ணுரு
+- സംഖ്യാസമ്പ്രദായങ്ങൾ
+- සංඛ්යාත පද්ධති
+- ระบบเลข
+- ဂဏန်းခြေ
+- თვლის სისტემა
+- 表數法
+- 記数法
+- 記數法
+- 記數系統
+- 记数系统
+- ꠉꠘꠣꠞ ꠔꠞꠤꠇꠣ
+- ꯃꯁꯤꯡ
+- 기수법
 ---
-
-
 # [[Numeral_System]] 
 
 

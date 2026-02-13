@@ -1,8 +1,107 @@
 ---
 aliases:
-  - Dioscoreales
+- Bljuštolike
+- bljuščevci
+- Bộ Củ nâu
+- Dioscoreales
+- Dioscoreals
+- Dioskorealoj
+- Dioskoreju rinda
+- dioskoreotvaré
+- Dioskoreyaçiçəklilər
+- jamszgyökérvirágúak
+- Moeg Maenzbya
+- Pochrzynowce
+- smldincotvaré
+- Tanom nga ubi
+- Yams-ordenen
+- yamsrotordenen
+- Yamswurzelartige
+- блуждовидни
+- диоскореецветни
+- диоскореецветные
+- טמוסאים
+- تمیسسانان
+- ديسقوريات
+- دۆسجۆرەالەس
+- ഡയസ്കൊറിയേൽസ്
+- อันดับกลอย
+- ヤマノイモ目
+- 薯蓣目
+- 薯蕷目
+- 마목
 title: Dioscoreales
 has_id_wikidata: Q747698
+dv_has_:
+  name_:
+    an: Dioscoreales
+    ar: ديسقوريات
+    arz: ديسقوريات
+    ast: Dioscoreales
+    az: Dioskoreyaçiçəklilər
+    be: Dioscoreales
+    bg: диоскореецветни
+    bs: Dioscoreales
+    ca: Dioscoreals
+    ceb: Tanom nga ubi
+    cs: smldincotvaré
+    da: Yams-ordenen
+    de: Yamswurzelartige
+    en: Dioscoreales
+    eo: Dioskorealoj
+    es: Dioscoreales
+    eu: Dioscoreales
+    ext: Dioscoreales
+    fa: تمیسسانان
+    fi: Dioscoreales
+    fr: Dioscoreales
+    frr: Dioscoreales
+    ga: Dioscoreales
+    gl: Dioscoreales
+    he: טמוסאים
+    hr: Bljuštolike
+    hu: jamszgyökérvirágúak
+    ia: Dioscoreales
+    id: Dioscoreales
+    ie: Dioscoreales
+    io: Dioscoreales
+    it: Dioscoreales
+    ja: ヤマノイモ目
+    ko: 마목
+    ku: Dioscoreales
+    ku-arab: دۆسجۆرەالەس
+    ku-latn: Dioscoreales
+    la: Dioscoreales
+    lv: Dioskoreju rinda
+    mk: блуждовидни
+    ml: ഡയസ്കൊറിയേൽസ്
+    mul: Dioscoreales
+    nb: Dioscoreales
+    nl: Dioscoreales
+    nn: yamsrotordenen
+    oc: Dioscoreales
+    pl: Pochrzynowce
+    pt: Dioscoreales
+    pt-br: Dioscoreales
+    ro: Dioscoreales
+    ru: диоскореецветные
+    sk: dioskoreotvaré
+    sl: bljuščevci
+    sq: Dioscoreales
+    sr: Dioscoreales
+    sv: Dioscoreales
+    th: อันดับกลอย
+    uk: Dioscoreales
+    vi: Bộ Củ nâu
+    vo: Dioscoreales
+    war: Dioscoreales
+    yue: 薯蕷目
+    za: Moeg Maenzbya
+    zh: 薯蓣目
+    zh-cn: 薯蓣目
+    zh-hans: 薯蓣目
+    zh-hant: 薯蕷目
+    zh-hk: 薯蕷目
 ---
 # [[Dioscoreales]] 
 

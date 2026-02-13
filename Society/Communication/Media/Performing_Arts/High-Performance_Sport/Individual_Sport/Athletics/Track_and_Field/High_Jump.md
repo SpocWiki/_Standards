@@ -1,13 +1,83 @@
 ---
 aliases:
-  - high jump
-  - High_Jump
-  - High Jump
+- allodatnjuiken
+- alodâhnjuškim
+- altosalto
+- augstlēkšana
+- balandlikka sakrash
+- brincu de artària
+- gorako jauzi
+- heechspringen
+- high jump
+- High_Jump
+- Hochsprung
+- hoogspring
+- hoogspringen
+- hástökk
+- Héichsprong
+- höjdhopp
+- Høgdehopp
+- højdespring
+- høydehopp
+- korkeushyppy
+- kõrgushüpe
+- lompat tinggi
+- lompek tinggi
+- luncat tinggi
+- léim ard
+- magasugrás
+- nhảy cao
+- salt d'alçada
+- salto de altura
+- salto em altura
+- salto in alto
+- saltu d'altor
+- saltus in altum
+- saut de naut
+- saut en hauteur
+- skok do výšky
+- skok u vis
+- skok uvis
+- skok v višino
+- skok wzwyż
+- so an wotè
+- săritura în înălțime
+- thiàu-ko
+- tūpeke
+- yüksek atlama
+- šuolis į aukštį
+- άλμα εις ύψος
+- бейеклеккә һикереү
+- висок скок
+- прыжок в высоту
+- скачкі ў вышыню
+- скок во височина
+- скок увис
+- скокі ў вышыню
+- стрибки у висоту
+- өндрийн харайлт
+- Բարձրացատկ
+- קפיצה לגובה
+- الوثب العالي
+- پرش ارتفاع
+- उन्नतकूर्दनम्
+- ऊंची कूद
+- উচ্চ লম্ফ
+- ਉੱਚੀਛਾਲ
+- உயரம் தாண்டுதல்
+- హై జంప్
+- ഹൈജമ്പ്
+- උස පැනීම
+- กระโดดสูง
+- སྦུབས་མཆོངས།
+- 走高跳
+- 跳高
+- 높이뛰기
 has_id_wikidata: Q165704
 instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 record_or_record_progression:
-  - "[[_Standards/WikiData/WD~Men's_high_jump_indoor_world_record_progression,6816145]]"
-  - "[[_Standards/WikiData/WD~Women's_high_jump_world_record_progression,59632]]"
+- "[[_Standards/WikiData/WD~Men's_high_jump_indoor_world_record_progression,6816145]]"
+- "[[_Standards/WikiData/WD~Women's_high_jump_world_record_progression,59632]]"
 uses: '[[_Standards/WikiData/WD~bar,10654706]]'
 practiced_by: '[[_Standards/WikiData/WD~high_jumper,13382122]]'
 subclass_of: '[[_Standards/WikiData/WD~vertical_jump,14596454]]'
@@ -23,8 +93,96 @@ Iconclass_notation: 43C31
 Commons_category: High jump
 IPTC_NewsCode: mediatopic/20000833
 OpenStreetMap_tag: athletics=high_jump
+dv_has_:
+  name_:
+    af: hoogspring
+    ar: الوثب العالي
+    ast: saltu d'altor
+    ba: бейеклеккә һикереү
+    be: скачкі ў вышыню
+    be-tarask: скокі ў вышыню
+    bg: висок скок
+    bn: উচ্চ লম্ফ
+    bo: སྦུབས་མཆོངས།
+    bs: skok u vis
+    ca: salt d'alçada
+    cs: skok do výšky
+    da: højdespring
+    de: Hochsprung
+    el: άλμα εις ύψος
+    en: high jump
+    eo: altosalto
+    es: salto de altura
+    et: kõrgushüpe
+    eu: gorako jauzi
+    fa: پرش ارتفاع
+    fi: korkeushyppy
+    fr: saut en hauteur
+    fy: heechspringen
+    ga: léim ard
+    gl: salto de altura
+    he: קפיצה לגובה
+    hi: ऊंची कूद
+    hr: skok u vis
+    ht: so an wotè
+    hu: magasugrás
+    hy: Բարձրացատկ
+    ia: salto in alto
+    id: lompat tinggi
+    is: hástökk
+    it: salto in alto
+    ja: 走高跳
+    ko: 높이뛰기
+    la: saltus in altum
+    lb: Héichsprong
+    lt: šuolis į aukštį
+    lv: augstlēkšana
+    mi: tūpeke
+    min: lompek tinggi
+    mk: скок во височина
+    ml: ഹൈജമ്പ്
+    mn: өндрийн харайлт
+    ms: lompat tinggi
+    nan: thiàu-ko
+    nb: høydehopp
+    nl: hoogspringen
+    nn: Høgdehopp
+    oc: saut de naut
+    pa: ਉੱਚੀਛਾਲ
+    pl: skok wzwyż
+    pt: salto em altura
+    ro: săritura în înălțime
+    ru: прыжок в высоту
+    sa: उन्नतकूर्दनम्
+    sc: brincu de artària
+    se: allodatnjuiken
+    sh: skok u vis
+    si: උස පැනීම
+    sk: skok do výšky
+    sl: skok v višino
+    smn: alodâhnjuškim
+    sr: скок увис
+    sr-ec: скок увис
+    sr-el: skok uvis
+    su: luncat tinggi
+    sv: höjdhopp
+    ta: உயரம் தாண்டுதல்
+    te: హై జంప్
+    th: กระโดดสูง
+    tr: yüksek atlama
+    uk: стрибки у висоту
+    uz: balandlikka sakrash
+    vi: nhảy cao
+    wuu: 跳高
+    yue: 跳高
+    zh: 跳高
+    zh-cn: 跳高
+    zh-hans: 跳高
+    zh-hant: 跳高
+    zh-hk: 跳高
+    zh-sg: 跳高
+    zh-tw: 跳高
 ---
-
 # [[High_Jump]] 
 
 #is_/same_as :: [[WD~High_jump,165704]] 

@@ -1,8 +1,61 @@
 ---
 has_id_wikidata: Q678410
+dv_has_:
+  name_:
+    ast: Marillion
+    azb: ماریلیون
+    bg: Мерилиън
+    ca: Marillion
+    cs: Marillion
+    cy: Marillion
+    da: Marillion
+    de: Marillion
+    de-ch: Marillion
+    el: Marillion
+    en: Marillion
+    en-ca: Marillion
+    en-gb: Marillion
+    eo: Marillion
+    es: Marillion
+    et: Marillion
+    fa: مریلیون
+    fi: Marillion
+    fr: Marillion
+    ga: Marillion
+    he: מריליון
+    hu: Marillion
+    id: Marillion
+    it: Marillion
+    ja: マリリオン
+    ka: მარილიონი
+    ko: 매릴리언
+    kw: Marillion
+    mul: Marillion
+    nb: Marillion
+    nl: Marillion
+    nn: Marillion
+    pl: Marillion
+    pms: Marillon
+    pt: Marillion
+    pt-br: Marillion
+    ru: Marillion
+    sq: Marillion
+    sv: Marillion
+    tr: Marillion
+    uk: Marillion
+    zh: 海獅合唱團
+aliases:
+- Marillion
+- Marillon
+- Мерилиън
+- מריליון
+- ماریلیون
+- مریلیون
+- მარილიონი
+- マリリオン
+- 海獅合唱團
+- 매릴리언
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Marillion**  are  a British neo prog band, formed in Aylesbury, Buckinghamshire, in 1979. 

@@ -1,10 +1,135 @@
 ---
 aliases:
-  - Polyplacophora
-  - Chiton
-  - Chitons
+- bokoživčniki
+- Bruņgliemeži
+- Chiton
+- Chitonai
+- Chitons
+- chitony
+- Chitóny
+- chroustnatky
+- ciotón
+- cserepeshéjúak
+- Hitoni
+- keverslakken
+- Kewerslak
+- Kitonlar
+- Kraabsneken
+- Käferschnecken
+- leddsnegler
+- leddsniglar
+- Ledsnäckor
+- Mnogoljušturaši
+- nivelkotilot
+- Nökkvar
+- Ord. Chitonida
+- Poliplacofore
+- Poliplacòfor
+- Poliplacóforo
+- Polyplacophora
+- Táłtłʼááh chʼoshtʼą́hí bikááʼtsʼinígíí
+- Zirehli molyusklar
+- Πολυπλακοφόρα
+- Панцерни мекотели
+- панцирні
+- панцирные моллюски
+- панцырныя малюскі
+- Сауытты жұмсақденелілер
+- Хитони
+- խիտոններ
+- רב-לוחיתאים
+- عديدة الأصداف
+- عديدة الاصداف
+- گهواره دریایی
+- ಉಭಯ ನರಹುರಿ ಪ್ರಾಣಿಗಳು
+- തേരട്ടക്കക്ക
+- ชั้นพอลิพลาโคฟอรา
+- ჯავშნიანები
+- 多板綱
+- 多板纲
+- 다판류
 title: Polyplacophora
 has_id_wikidata: Q188906
+dv_has_:
+  name_:
+    af: Kewerslak
+    an: Polyplacophora
+    ar: عديدة الأصداف
+    arz: عديدة الاصداف
+    ast: Ord. Chitonida
+    az: Zirehli molyusklar
+    be: панцырныя малюскі
+    be-tarask: панцырныя малюскі
+    bg: Панцерни мекотели
+    bs: Mnogoljušturaši
+    ca: Poliplacòfor
+    ceb: Polyplacophora
+    cs: chroustnatky
+    de: Käferschnecken
+    el: Πολυπλακοφόρα
+    en: Polyplacophora
+    eo: Polyplacophora
+    es: Polyplacophora
+    eu: Polyplacophora
+    ext: Polyplacophora
+    fa: گهواره دریایی
+    fi: nivelkotilot
+    fr: Polyplacophora
+    frr: Kraabsneken
+    ga: ciotón
+    gl: Poliplacóforo
+    he: רב-לוחיתאים
+    hr: Hitoni
+    hu: cserepeshéjúak
+    hy: խիտոններ
+    ia: Polyplacophora
+    id: Polyplacophora
+    ie: Polyplacophora
+    io: Polyplacophora
+    is: Nökkvar
+    it: Polyplacophora
+    ja: 多板綱
+    jv: Polyplacophora
+    ka: ჯავშნიანები
+    kk: Сауытты жұмсақденелілер
+    kn: ಉಭಯ ನರಹುರಿ ಪ್ರಾಣಿಗಳು
+    ko: 다판류
+    la: Polyplacophora
+    lt: Chitonai
+    lv: Bruņgliemeži
+    mk: Хитони
+    ml: തേരട്ടക്കക്ക
+    mul: Polyplacophora
+    nb: leddsnegler
+    nl: keverslakken
+    nn: leddsniglar
+    nv: Táłtłʼááh chʼoshtʼą́hí bikááʼtsʼinígíí
+    oc: Polyplacophora
+    pl: chitony
+    pt: Polyplacophora
+    pt-br: Polyplacophora
+    ro: Poliplacofore
+    ru: панцирные моллюски
+    sk: Chitóny
+    sl: bokoživčniki
+    sq: Polyplacophora
+    sr: Хитони
+    sr-ec: Хитони
+    sr-el: Hitoni
+    sv: Ledsnäckor
+    th: ชั้นพอลิพลาโคฟอรา
+    tr: Kitonlar
+    uk: панцирні
+    vi: Polyplacophora
+    vo: Polyplacophora
+    war: Polyplacophora
+    zh: 多板纲
+    zh-cn: 多板纲
+    zh-hans: 多板纲
+    zh-hant: 多板綱
+    zh-hk: 多板綱
+    zh-sg: 多板纲
+    zh-tw: 多板綱
 ---
 ## Phylogeny 
 -   « Ancestral Groups  

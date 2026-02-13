@@ -1,26 +1,111 @@
 ---
 aliases:
-  - Eukaryotes
-  - Eukaryota
-  - Eukaryote
-  - Eukarya
-  - eukaryote
-  - eukarionty
-  - jądrowce
-  - karionty
-  - karioty
-  - organizmy eukariotyczne
-  - organizmy jądrowe
-  - evkarionti
-  - 真核域
+- aitotumaiset
+- Chin-hu̍t seng-bu̍t
+- Chṳ̂n-fu̍t
+- Cĭng-hŏk sĕng-ŭk
+- eikariots
+- Ekaryòt
+- eocarót
+- eucariontes
+- eucariota
+- eucariote
+- eucariotes
+- Eucarioti
+- eucariòtas
+- eucaryote
+- eukarionty
+- eukarioot
+- Eukariot
+- Eukariota
+- Eukariote
+- Eukarioten
+- Eukarioti
+- eukariotinė ląstelė
+- Eukariotlar
+- eukarioto
+- Eukariyot
+- eukarióták
+- Eukarya
+- Eukaryootn
+- eukaryot organisme
+- Eukaryota
+- eukaryotar
+- Eukaryote
+- eukaryoten
+- eukaryoter
+- Eukaryotes
+- eukaryoty
+- Eukarüoodid
+- euqäriotlar
+- evkarionti
+- Ewcaryot
+- eŭkariotoj
+- Heilkjörnungar
+- jądrowce
+- karionty
+- karioty
+- Nüvəlilər
+- organizmy eukariotyczne
+- organizmy jądrowe
+- sellâvááimusliih
+- sinh vật nhân chuẩn
+- Timziɣwawin
+- Wirmaat-dhugee
+- Ékaryota
+- ökaryot
+- Ευκαρυωτικά κύτταρα
+- еукаріоти
+- еукариот
+- еукариоте
+- еукариоти
+- Еукариоты
+- эўкарыёты
+- Эукариот
+- Эукариоташ
+- эукариотлар
+- Эукариотсем
+- Эукариоттæ
+- Эукариоттар
+- Эукариоттор
+- эукариоты
+- էուկարիոտներ
+- אייקאריאטן
+- איקריוטים
+- حقيقيات النوى
+- حقیقی المرکزیہ
+- زیندەوەرە ناوک ڕاستەقینەکان
+- غشادارون
+- يوڪيريئوٽا
+- یوٗکیریوٹ
+- یوکاریوت
+- یوکیریوٹ
+- सकेंद्रक सजीव
+- सुकेन्द्रिक
+- সংকোষকেন্দ্ৰীয় জীৱ
+- সুকেন্দ্রিক জীব
+- ਸੁਕੇਂਦਰੀ ਜੀਵ
+- மெய்க்கருவுயிரி
+- యూకారియోటా
+- യൂക്കാരിയോട്ടുകൾ
+- ยูแคริโอต
+- ຢູກາຣີໂອດ
+- ယူကာယုတ်
+- ევკარიოტეფი
+- ეუკარიოტები
+- Ẹ̀ùkáríọ́tì
+- 真核域
+- 真核生物
+- ꯏꯌꯨꯀꯦꯔꯥꯢꯌꯣꯇꯤꯛ ꯁꯦꯜ
+- 진핵생물
 has_id_wikidata: Q19088
 AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=86701
 Commons_category: Eukaryota
 described_by_source: "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 equivalent_class:
-  - http://dbpedia.org/ontology/Eukaryote
-  - http://kbpedia.org/kko/rc/EukaryoticOrganism
+- http://dbpedia.org/ontology/Eukaryote
+- http://kbpedia.org/kko/rc/EukaryoticOrganism
 has_characteristic: '[[_Standards/WikiData/WD~eukaryality,115254102]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20diversity%202.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -31,25 +116,205 @@ parent_taxon: '[[_Standards/WikiData/WD~Cytota,3322575]]'
 start_time: -2700000000-01-01
 subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
 taxon_common_name:
-  - eukaryote
-  - eukarionty
-  - jądrowce
-  - karionty
-  - karioty
-  - organizmy eukariotyczne
-  - organizmy jądrowe
-  - evkarionti
-  - 真核域
+- eukaryote
+- eukarionty
+- jądrowce
+- karionty
+- karioty
+- organizmy eukariotyczne
+- organizmy jądrowe
+- evkarionti
+- 真核域
 taxon_name: Eukaryota
 taxon_rank:
-  - '[[_Standards/WikiData/WD~domain,146481]]'
-  - '[[_Standards/WikiData/WD~superkingdom,19858692]]'
+- '[[_Standards/WikiData/WD~domain,146481]]'
+- '[[_Standards/WikiData/WD~superkingdom,19858692]]'
 title: Eukaryotes
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Eukaryota,13421047]]'
 UMLS_CUI: C0684063
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-Intron-rich-Eukaryotic-Ancestors-Inferred-from-a-Global-Survey-of-100-pcbi.1002150.s003.ogv
+dv_has_:
+  name_:
+    af: eukarioot
+    an: Eukarya
+    ar: حقيقيات النوى
+    arz: حقيقيات النوى
+    as: সংকোষকেন্দ্ৰীয় জীৱ
+    ast: Eukaryota
+    az: Nüvəlilər
+    ba: Эукариоттар
+    ban: Eukaryota
+    bar: Eukaryota
+    be: эўкарыёты
+    be-tarask: эўкарыёты
+    bg: еукариоти
+    bn: সুকেন্দ্রিক জীব
+    br: eukariot
+    bs: Eukarioti
+    ca: eucariotes
+    cdo: Cĭng-hŏk sĕng-ŭk
+    ce: Эукариоташ
+    ceb: Eukaryota
+    ckb: زیندەوەرە ناوک ڕاستەقینەکان
+    co: Eukaryota
+    cs: Eukaryota
+    cv: Эукариотсем
+    cy: Ewcaryot
+    da: eukaryot organisme
+    de: Eukaryoten
+    de-at: Eukaryota
+    de-ch: Eukaryoten
+    dsb: Eukaryoty
+    el: Ευκαρυωτικά κύτταρα
+    en: eukaryote
+    en-ca: Eukaryote
+    en-gb: eukaryote
+    eo: eŭkariotoj
+    es: eucariontes
+    et: Eukarüoodid
+    eu: eukarioto
+    ext: Eukaryota
+    fa: یوکاریوت
+    fi: aitotumaiset
+    fr: Eukaryota
+    frp: Eukaryota
+    frr: Eukarioten
+    fur: Eukaryota
+    ga: eocarót
+    gcr: Ékaryota
+    gd: Eukaryota
+    gl: eucariota
+    gsw: Eukaryote
+    gv: Eukaryota
+    hak: Chṳ̂n-fu̍t
+    he: איקריוטים
+    hi: सुकेन्द्रिक
+    hr: eukarioti
+    hsb: Eukaryoty
+    ht: Ekaryòt
+    hu: eukarióták
+    hy: էուկարիոտներ
+    ia: eucaryote
+    iba: Eukariot
+    id: Eukariota
+    ie: Eukaryota
+    ilo: eukaryote
+    inh: Эукариоташ
+    io: Eukarioto
+    is: Heilkjörnungar
+    it: Eukaryota
+    ja: 真核生物
+    jv: Eukariota
+    ka: ეუკარიოტები
+    kab: Timziɣwawin
+    kg: Eukaryota
+    kk: Эукариоттар
+    ko: 진핵생물
+    ks: یوٗکیریوٹ
+    ku: Eukariyot
+    kw: Eukaryota
+    ky: Эукариоттор
+    la: Eukaryota
+    lad: Eukaryota
+    lb: Eukaryoten
+    lfn: Eucariota
+    li: Eukarya
+    lij: Eukarya
+    lld: Eucariota
+    lmo: Eukaryota
+    lo: ຢູກາຣີໂອດ
+    lt: eukariotinė ląstelė
+    lv: eikariots
+    mg: Eukaryota
+    min: Eukaryota
+    mk: еукариот
+    ml: യൂക്കാരിയോട്ടുകൾ
+    mn: Эукариот
+    mni: ꯏꯌꯨꯀꯦꯔꯥꯢꯌꯣꯇꯤꯛ ꯁꯦꯜ
+    mr: सकेंद्रक सजीव
+    ms: Eukariot
+    mt: eukaryote
+    mul: Eukaryota
+    my: ယူကာယုတ်
+    mzn: غشادارون
+    nan: Chin-hu̍t seng-bu̍t
+    nap: Eukaryota
+    nb: eukaryoter
+    nds: Eukaryota
+    nds-nl: Eukaryota
+    nia: Eukariota
+    nl: eukaryoten
+    nn: eukaryotar
+    nov: Eukaryota
+    nrm: Eukaryota
+    nys: Eukaryota
+    oc: eucariòtas
+    om: Wirmaat-dhugee
+    os: Эукариоттæ
+    pa: ਸੁਕੇਂਦਰੀ ਜੀਵ
+    pam: Eukaryote
+    pcd: Eukaryota
+    pl: eukarionty
+    pms: Eukaryota
+    pnb: یوکیریوٹ
+    ps: یوکاریوت
+    pt: eukaryota
+    pt-br: Eukaryota
+    rm: Eukaryota
+    ro: eucariote
+    ru: эукариоты
+    rue: Еукариоты
+    rup: Eukaryota
+    sah: Эукариот
+    sc: Eukaryota
+    scn: Eucarioti
+    sco: eukaryote
+    sd: يوڪيريئوٽا
+    sh: Eukariote
+    sk: eukaryoty
+    sl: evkarionti
+    smn: sellâvááimusliih
+    sq: Eukarioti
+    sr: еукариоте
+    sr-ec: Еукариоте
+    su: Eukariot
+    sv: eukaryoter
+    sw: Eukaryota
+    ta: மெய்க்கருவுயிரி
+    te: యూకారియోటా
+    tg: Эукариот
+    th: ยูแคริโอต
+    tl: Eukaryote
+    tr: ökaryot
+    tt: эукариотлар
+    tt-cyrl: эукариотлар
+    tt-latn: euqäriotlar
+    uk: еукаріоти
+    ur: حقیقی المرکزیہ
+    uz: Eukariotlar
+    vec: Eukaryota
+    vi: sinh vật nhân chuẩn
+    vls: Eukaryootn
+    vo: Eukaryota
+    wa: Eucariote
+    war: Eukaryote
+    wo: Eukaryota
+    wuu: 真核生物
+    xmf: ევკარიოტეფი
+    yi: אייקאריאטן
+    yo: Ẹ̀ùkáríọ́tì
+    yue: 真核生物
+    zh: 真核生物
+    zh-cn: 真核生物
+    zh-hans: 真核生物
+    zh-hant: 真核生物
+    zh-hk: 真核生物
+    zh-mo: 真核生物
+    zh-my: 真核生物
+    zh-sg: 真核生物
+    zh-tw: 真核生物
+    zu: Eukaryota
 ---
-
 # [[Eukarya]]
 
 #is_a/bio-Domain 

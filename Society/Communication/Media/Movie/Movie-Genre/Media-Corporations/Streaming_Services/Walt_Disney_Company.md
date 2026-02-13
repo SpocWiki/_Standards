@@ -1,8 +1,141 @@
 ---
 aliases:
-  - Walt Disney Company
-  - Walt_Disney_Company
+- Công ty Walt Disney
+- Disney
+- Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂
+- kulupu Sinsi
+- Syarikat Walt Disney
+- The Walt Disney Company
+- Uolt Disnei
+- Volts Disniejos
+- Walt Disney
+- Walt Disney Company
+- Walt Disney Kong-si
+- Walt Disney Societas
+- Walt Disney-fyrirtækið
+- Walt_Disney_Company
+- Дисней
+- Компанија Волт Дизни
+- Уолт Дисней Компани
+- Уолт Дисни Къмпани
+- Ուոլթ Դիսնեյ ընկերություն
+- Ուոլթ Տիզնի Ընկերութիւն
+- די וואלט דיזני פירמע
+- חברת וולט דיסני
+- دىسنېي شىركىتى
+- شركة والت ديزني
+- شركه والت ديزنى
+- شرکت والت دیزنی
+- شیرکت والت دیزنی
+- والٹ ڈزنی کمپنی
+- ډيسني
+- کۆمپانیای واڵت دیزنی
+- द वाल्ट डिस्नी कम्पनी
+- द वॉल्ट डिज़्नी कंपनी
+- द वॉल्ट डिझनी कंपनी
+- দ্য ওয়াল্ট ডিজনি কোম্পানি
+- ਦ ਵਾਲਟ ਡਿਜ਼ਨੀ ਕੰਪਨੀ
+- வால்ட் டிஸ்னி கம்பனி
+- వాల్ట్ డిస్నీ సంస్థ
+- ദ വാൾട്ട് ഡിസ്നി കമ്പനി
+- වෝල්ට් ඩිස්නි සමාගම
+- เดอะวอลต์ดิสนีย์
+- ເດິ ວໍລ ດິສນີ
+- ဝေါ့လ်ဒစ်စနီ ကုမ္ပဏီ
+- უოლტ დისნეის კომპანია
+- უოლტ დისნეიშ კომპანია
+- ዲዝኒ
+- ដឹ វ៉លត៍ ឌីសនីយ៍
+- ᱰᱤᱥᱱᱤ
+- ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵡⴰⵍⵜ ⴷⵉⵣⵏⵉ
+- ウォルト・ディズニー・カンパニー
+- 华特迪士尼公司
+- 華特迪士尼公司
+- 迪士尼
+- 월트 디즈니 컴퍼니
+- "\U00010333\U00010339\U00010343\U0001033D\U00010334\U00010339"
 has_id_wikidata: Q7414
+dv_has_:
+  name_:
+    af: Disney
+    am: ዲዝኒ
+    ar: شركة والت ديزني
+    ary: شركة والت ديزني
+    arz: شركه والت ديزنى
+    azb: شیرکت والت دیزنی
+    bg: Уолт Дисни Къмпани
+    bn: দ্য ওয়াল্ট ডিজনি কোম্পানি
+    ce: Дисней
+    ceb: Disney
+    ckb: کۆمپانیای واڵت دیزنی
+    dsb: Disney
+    en: The Walt Disney Company
+    eo: Walt Disney Company
+    et: Walt Disney Company
+    fa: شرکت والت دیزنی
+    gcr: Disney
+    got: "\U00010333\U00010339\U00010343\U0001033D\U00010334\U00010339"
+    hak: Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂
+    he: חברת וולט דיסני
+    hi: द वॉल्ट डिज़्नी कंपनी
+    hsb: Disney
+    ht: Disney
+    hy: Ուոլթ Դիսնեյ ընկերություն
+    hyw: Ուոլթ Տիզնի Ընկերութիւն
+    ia: Disney
+    is: Walt Disney-fyrirtækið
+    ja: ウォルト・ディズニー・カンパニー
+    ka: უოლტ დისნეის კომპანია
+    kbp: Disney
+    km: ដឹ វ៉លត៍ ឌីសនីយ៍
+    ko: 월트 디즈니 컴퍼니
+    la: Walt Disney Societas
+    lij: Disney
+    lo: ເດິ ວໍລ ດິສນີ
+    mg: Disney
+    mk: Компанија Волт Дизни
+    ml: ദ വാൾട്ട് ഡിസ്നി കമ്പനി
+    mn: Уолт Дисней Компани
+    mr: द वॉल्ट डिझनी कंपनी
+    ms: Syarikat Walt Disney
+    mul: The Walt Disney Company
+    my: ဝေါ့လ်ဒစ်စနီ ကုမ္ပဏီ
+    nan: Walt Disney Kong-si
+    ne: द वाल्ट डिस्नी कम्पनी
+    os: Дисней
+    pa: ਦ ਵਾਲਟ ਡਿਜ਼ਨੀ ਕੰਪਨੀ
+    ps: ډيسني
+    qu: Disney
+    sah: Walt Disney Company
+    sat: ᱰᱤᱥᱱᱤ
+    sgs: Volts Disniejos
+    si: වෝල්ට් ඩිස්නි සමාගම
+    sr: Компанија Волт Дизни
+    ta: வால்ட் டிஸ்னி கம்பனி
+    te: వాల్ట్ డిస్నీ సంస్థ
+    th: เดอะวอลต์ดิสนีย์
+    tk: Walt Disney
+    tok: kulupu Sinsi
+    tt: Дисней
+    ug: دىسنېي شىركىتى
+    ur: والٹ ڈزنی کمپنی
+    vep: Uolt Disnei
+    vi: Công ty Walt Disney
+    wuu: 华特迪士尼公司
+    xmf: უოლტ დისნეიშ კომპანია
+    yi: די וואלט דיזני פירמע
+    yue: 迪士尼
+    zea: Disney
+    zgh: ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵡⴰⵍⵜ ⴷⵉⵣⵏⵉ
+    zh: 华特迪士尼公司
+    zh-cn: 华特迪士尼公司
+    zh-hans: 华特迪士尼公司
+    zh-hant: 華特迪士尼公司
+    zh-hk: 華特迪士尼公司
+    zh-mo: 華特迪士尼公司
+    zh-my: 华特迪士尼公司
+    zh-sg: 华特迪士尼公司
+    zh-tw: 華特迪士尼公司
 ---
 ## #has_/text_of_/abstract 
 

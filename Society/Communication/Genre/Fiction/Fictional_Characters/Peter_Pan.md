@@ -1,46 +1,81 @@
 ---
 aliases:
-  - Peter_Pan
-  - Peter Pan
+- Biter Ban
+- Peeter Paan
+- Petar Pan
+- Peter Pan
+- Peter Pan (cymeriad ffuglennol)
+- Peter_Pan
+- Petr Pan
+- Piotruś Pan
+- Piter Pan
+- Piteris Penas
+- Pán Péter
+- Pétur Pan
+- Pīters Pens
+- Πίτερ Παν
+- Пітер Пен
+- Пітэр Пэн
+- Петар Пан
+- Питер Пэн
+- Питър Пан
+- Փիթեր Պեն
+- פיטר פן
+- بيتر بان
+- پیتر پن
+- پیتەر پان
+- پیٹر پین
+- पीटर पैन
+- পিটার প্যান
+- ਪੀਟਰ ਪੈਨ
+- ಪೀಟರ್ ಪ್ಯಾನ್
+- പീറ്റർ പാൻ
+- ปีเตอร์ แพน
+- პიტერ პენი
+- ピーター・パン
+- 小飛俠Peter Pan
+- 彼得·潘
+- 彼得潘
+- 피터 팬
 has_id_wikidata: Q107190
 creator: '[[_Standards/WikiData/WD~J._M._Barrie,81796]]'
 performer:
-  - '[[_Standards/WikiData/WD~Robin_Williams,83338]]'
-  - '[[_Standards/WikiData/WD~Mary_Martin,285483]]'
-  - '[[_Standards/WikiData/WD~Jeremy_Sumpter,316964]]'
-  - '[[_Standards/WikiData/WD~Maude_Adams,437509]]'
-  - '[[_Standards/WikiData/WD~Betty_Bronson,2528781]]'
-  - '[[_Standards/WikiData/WD~Robbie_Kay,4207040]]'
-  - '[[_Standards/WikiData/WD~Nina_Boucicault,7037880]]'
-  - '[[_Standards/WikiData/WD~Levi_Miller,18581761]]'
+- '[[_Standards/WikiData/WD~Robin_Williams,83338]]'
+- '[[_Standards/WikiData/WD~Mary_Martin,285483]]'
+- '[[_Standards/WikiData/WD~Jeremy_Sumpter,316964]]'
+- '[[_Standards/WikiData/WD~Maude_Adams,437509]]'
+- '[[_Standards/WikiData/WD~Betty_Bronson,2528781]]'
+- '[[_Standards/WikiData/WD~Robbie_Kay,4207040]]'
+- '[[_Standards/WikiData/WD~Nina_Boucicault,7037880]]'
+- '[[_Standards/WikiData/WD~Levi_Miller,18581761]]'
 genre: '[[_Standards/WikiData/WD~fantasy,132311]]'
 different_from: '[[_Standards/WikiData/WD~Pan,132582]]'
 narrative_role:
-  - '[[_Standards/WikiData/WD~protagonist,215972]]'
-  - '[[_Standards/WikiData/WD~title_character,3246821]]'
+- '[[_Standards/WikiData/WD~protagonist,215972]]'
+- '[[_Standards/WikiData/WD~title_character,3246821]]'
 first_appearance: '[[_Standards/WikiData/WD~The_Little_White_Bird,732360]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~The_Little_White_Bird,732360]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan_in_Scarlet,2975279]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan,3435337]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan_in_Kensington_Gardens,7176291]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan,_or_The_Boy_Who_Would_Not_Grow_Up,19032697]]'
+- '[[_Standards/WikiData/WD~The_Little_White_Bird,732360]]'
+- '[[_Standards/WikiData/WD~Peter_Pan_in_Scarlet,2975279]]'
+- '[[_Standards/WikiData/WD~Peter_Pan,3435337]]'
+- '[[_Standards/WikiData/WD~Peter_Pan_in_Kensington_Gardens,7176291]]'
+- '[[_Standards/WikiData/WD~Peter_Pan,_or_The_Boy_Who_Would_Not_Grow_Up,19032697]]'
 residence:
-  - '[[_Standards/WikiData/WD~Kensington_Gardens,822607]]'
-  - '[[_Standards/WikiData/WD~Neverland,1646867]]'
+- '[[_Standards/WikiData/WD~Kensington_Gardens,822607]]'
+- '[[_Standards/WikiData/WD~Neverland,1646867]]'
 enemy: '[[_Standards/WikiData/WD~Captain_Hook,1035128]]'
 given_name: '[[_Standards/WikiData/WD~Peter,2793400]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Peter_Pan,3376795]]'
-  - '[[_Standards/WikiData/WD~Pan,15713892]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan,19954870]]'
-  - '[[_Standards/WikiData/WD~Peter_Pan,21411069]]'
+- '[[_Standards/WikiData/WD~Peter_Pan,3376795]]'
+- '[[_Standards/WikiData/WD~Pan,15713892]]'
+- '[[_Standards/WikiData/WD~Peter_Pan,19954870]]'
+- '[[_Standards/WikiData/WD~Peter_Pan,21411069]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Peter_Pan,3376795]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~literary_character,3658341]]'
-  - '[[_Standards/WikiData/WD~fictional_human,15632617]]'
-  - '[[_Standards/WikiData/WD~television_character,15773317]]'
-  - '[[_Standards/WikiData/WD~film_character,15773347]]'
+- '[[_Standards/WikiData/WD~literary_character,3658341]]'
+- '[[_Standards/WikiData/WD~fictional_human,15632617]]'
+- '[[_Standards/WikiData/WD~television_character,15773317]]'
+- '[[_Standards/WikiData/WD~film_character,15773347]]'
 fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~Llewelyn_Davies_boys,4172035]]'
 character_type: '[[_Standards/WikiData/WD~swashbuckler,6194437]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -53,8 +88,88 @@ Libris_URI: c9psz48w3w78lbc
 Commons_category: Peter Pan (character)
 name: Питер Пэн
 publication_date: 1911-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: بيتر بان
+    ast: Peter Pan
+    azb: پیتر پن
+    bcl: Peter Pan
+    be-tarask: Пітэр Пэн
+    bg: Питър Пан
+    bn: পিটার প্যান
+    br: Peter Pan
+    ca: Peter Pan
+    ckb: پیتەر پان
+    cs: Petr Pan
+    cy: Peter Pan (cymeriad ffuglennol)
+    da: Peter Pan
+    de: Peter Pan
+    el: Πίτερ Παν
+    en: Peter Pan
+    en-gb: Peter Pan
+    eo: Peter Pan
+    es: Peter Pan
+    et: Peeter Paan
+    eu: Peter Pan
+    fa: پیتر پن
+    fi: Peter Pan
+    fr: Peter Pan
+    ga: Peter Pan
+    gl: Peter Pan
+    he: פיטר פן
+    hi: पीटर पैन
+    hr: Petar Pan
+    hu: Pán Péter
+    hy: Փիթեր Պեն
+    is: Pétur Pan
+    it: Peter Pan
+    ja: ピーター・パン
+    ka: პიტერ პენი
+    kab: Biter Ban
+    kk: Питер Пэн
+    kn: ಪೀಟರ್ ಪ್ಯಾನ್
+    ko: 피터 팬
+    ku: Peter Pan
+    la: Peter Pan
+    lt: Piteris Penas
+    lv: Pīters Pens
+    mg: Peter Pan
+    mk: Петар Пан
+    ml: പീറ്റർ പാൻ
+    ms: Peter Pan
+    mul: Peter Pan
+    nb: Peter Pan
+    nds: Peter Pan
+    nl: Peter Pan
+    nn: Peter Pan
+    oc: Peter Pan
+    pa: ਪੀਟਰ ਪੈਨ
+    pl: Piotruś Pan
+    pt: Peter Pan
+    ro: Peter Pan
+    ru: Питер Пэн
+    sh: Petar Pan
+    sl: Peter Pan
+    sq: Piter Pan
+    sr: Петар Пан
+    sv: Peter Pan
+    th: ปีเตอร์ แพน
+    tr: Peter Pan
+    uk: Пітер Пен
+    ur: پیٹر پین
+    uz: Peter Pan
+    vi: Peter Pan
+    war: Peter Pan
+    wuu: 彼得·潘
+    yue: 小飛俠Peter Pan
+    zh: 彼得潘
+    zh-cn: 彼得潘
+    zh-hans: 彼得潘
+    zh-hant: 彼得潘
+    zh-hk: 彼得潘
+    zh-sg: 彼得潘
+    zh-tw: 彼得潘
 ---
-
 # [[Peter_Pan]] 
 
 #is_/same_as :: [[WD~Peter_Pan,107190]] 

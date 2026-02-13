@@ -1,8 +1,110 @@
 ---
 aliases:
-  - Ad hominem
-  - argumentum ad hominem
+- Ad hominem
+- ad hominem-argument
+- alpersona argumento
+- Argument ad hominem
+- Argumentas prieš žmogų
+- argumento ad hominem
+- argumentum ad hominem
+- Persónuníð
+- Аргументум ад хоминем
+- אד הומינם
+- حمله شخصی
+- شخص ته رجوع
+- شخصنة
+- پەنا بۆ کەس بردن
+- व्यक्ति-केन्द्रित कुतर्क
+- व्यक्तिलक्ष्य तर्कदोष
+- অ্যাড হোমিনেম
+- ਏਡ ਔਮਿਨੇਮ
+- વૈયક્તિક હુમલો
+- വ്യക്തിപരമായ ആക്രമണം
+- 人身攻撃
+- 人身攻擊謬誤
+- 訴諸人身
+- 诉诸人身
+- 인신 공격의 오류
 has_id_wikidata: Q189183
+dv_has_:
+  name_:
+    af: Ad hominem
+    ar: شخصنة
+    az: Ad hominem
+    be: Ad hominem
+    bg: Ad hominem
+    bn: অ্যাড হোমিনেম
+    br: Ad hominem
+    bs: Ad hominem
+    ca: Ad hominem
+    ckb: پەنا بۆ کەس بردن
+    cs: Argumentum ad hominem
+    da: Ad hominem
+    de: Argumentum ad hominem
+    diq: Ad hominem
+    el: Ad hominem
+    en: ad hominem
+    eo: alpersona argumento
+    es: argumento ad hominem
+    et: Argumentum ad hominem
+    eu: Argumento ad hominem
+    fa: حمله شخصی
+    fi: Argumentum ad hominem
+    fr: argumentum ad hominem
+    ga: ad hominem
+    gl: Argumentum ad hominem
+    gu: વૈયક્તિક હુમલો
+    he: אד הומינם
+    hi: व्यक्ति-केन्द्रित कुतर्क
+    hr: Ad hominem
+    hu: argumentum ad hominem
+    id: ad hominem
+    is: Persónuníð
+    it: argumentum ad hominem
+    ja: 人身攻撃
+    ka: Ad hominem
+    ko: 인신 공격의 오류
+    ku: Ad hominem
+    la: argumentum ad hominem
+    lt: Argumentas prieš žmogų
+    mk: Ad hominem
+    ml: വ്യക്തിപരമായ ആക്രമണം
+    mr: व्यक्तिलक्ष्य तर्कदोष
+    ms: Ad hominem
+    mul: ad hominem
+    nb: ad hominem-argument
+    nl: argumentum ad hominem
+    nn: ad hominem-argument
+    oc: Argument ad hominem
+    pa: ਏਡ ਔਮਿਨੇਮ
+    pfl: Argumentum ad hominem
+    pl: Argumentum ad hominem
+    ps: شخص ته رجوع
+    pt: argumentum ad hominem
+    ro: Ad hominem
+    ru: Ad hominem
+    sh: Argumentum ad hominem
+    sk: Argumentum ad hominem
+    sl: ad hominem
+    sr: Argumentum ad hominem
+    sr-ec: Аргументум ад хоминем
+    sr-el: Argumentum ad hominem
+    sv: Ad hominem-argument
+    th: Ad hominem
+    tl: Ad hominem
+    tr: ad hominem
+    uk: Argumentum ad Hominem
+    uz: Ad hominem
+    vi: Argumentum ad hominem
+    wuu: 诉诸人身
+    yue: 人身攻擊謬誤
+    zh: 訴諸人身
+    zh-cn: 诉诸人身
+    zh-hans: 诉诸人身
+    zh-hant: 訴諸人身
+    zh-hk: 訴諸人身
+    zh-sg: 诉诸人身
+    zh-tw: 訴諸人身
 ---
 # [[Ad_Hominem]] 
 

@@ -1,23 +1,246 @@
 ---
 aliases:
+- badan eksekutif
+- botere betearazle
+- cabang eksekutif
+- ehekutibo
+- ehekutibong sangay
+- eksekutif
+- eksekutiif
+- eksekutiwa
+- Executieve mach
+- executive
+- executive branch
+- Exekutiv
+- Exekutive
+- fahefana mpanatanteraka
+- framkvæmdarvald
+- fulinta
+- galloud erounit
+- gweithrediaeth
+- hêng-chèng
+- icra hakimiyyəti
+- Ijro etuvchi hokimiyat
+- izpildvara
+- izvršilna oblast
+- izvršna vlast
+- plenuma povo
+- poder ehecutivo
+- poder ehekutivo
+- poder ejecutivo
+- poder esecutiv
+- poder executiu
+- poder executivo
+- poder executivu
+- podere ezecutivo
+- potere esecutivo
+- potestas exsecutiva
+- pouvoir exécutif
+- pouvwa egzekitif
+- putere executivă
+- quyền hành pháp
+- regering
+- ruraq atiy
+- skorr gweythresek
+- toimeenpanovalta
+- täidesaatev võim
+- udøvende magt
+- uitvoerende macht
+- utendaji
+- Utövend Macht
+- utøvande makt
+- utøvende makt
+- vykdomoji valdžia
+- végrehajtó hatalom
+- výkonná moc
+- władza wykonawcza
+- yürütme erki
+- zartarwa
+- útfierende macht
+- ĕç тăвакан влаç
+- εκτελεστική εξουσία
+- аткаруу бийлиги
+- атқарушы билік
+- башкарма хакимият
+- башҡарма власть
+- виконавча влада
+- выканаўчая ўлада
+- извршна власт
+- изпълнителна власт
+- исполнительная власть
+- толтуруучу власть
+- ҳокимияти иҷроия
+- գործադիր իշխանություն
+- רשות מבצעת
+- اجرايي قوه
+- انتظاميا
+- ایگزیکٹو شاخ
+- دەسەڵاتی جێبەجێکار
+- سلطة تنفيذية
+- سلطه تنفيذيه
+- قوه مجریه
+- موجریه گوجو
+- چابڠ ايکسيکوتيف
+- कार्यकारिणी
+- কাৰ্যপালিকা
+- নির্বাহী
+- ਕਾਰਜਪਾਲਿਕਾ
+- செயலாட்சியர்
+- కార్యనిర్వాహక వ్యవస్థ (ప్రభుత్వం
+- ಕಾರ್ಯಾಂಗ
+- കാര്യനിർവ്വഹണ വിഭാഗം
+- විධායකය
+- อำนาจบริหาร
+- აღმასრულებელი ხელისუფლება
+- ᱠᱟᱹᱢᱤᱭᱟᱹ ᱦᱟᱹᱴᱤᱧ
+- ẹ̀ka aláàṣẹ
+- ⵜⴰⴱⴰⴹⴰ ⵜⴰⵎⵣⵣⴳⴰⵔⵜ
+- 行政
+- 行政机关
+- 行政机构
+- 行政機構
+- 行政機関
+- 행정기관
 has_id_wikidata: Q35798
-facet_of: "[[_Standards/WikiData/WD~separation_of_powers,79896]]"
-described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+facet_of: '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
+described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organ_of_state,948571]]"
-  - "[[_Standards/WikiData/WD~state_power,2324993]]"
-  - "[[_Standards/WikiData/WD~political_organization,7210356]]"
+- '[[_Standards/WikiData/WD~organ_of_state,948571]]'
+- '[[_Standards/WikiData/WD~state_power,2324993]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~governance,1553864]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
+- '[[_Standards/WikiData/WD~governance,1553864]]'
+- '[[_Standards/WikiData/WD~public_administration,31728]]'
 part_of:
-  - "[[_Standards/WikiData/WD~political_power,2101636]]"
-  - "[[_Standards/WikiData/WD~government,7188]]"
-opposite_of: "[[_Standards/WikiData/WD~non_executive_branch,118127093]]"
+- '[[_Standards/WikiData/WD~political_power,2101636]]'
+- '[[_Standards/WikiData/WD~government,7188]]'
+opposite_of: '[[_Standards/WikiData/WD~non_executive_branch,118127093]]'
 Wikidata_property: executive body
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundeskanzleramt%2C%20Weihnachtsbaum%2C%20Blaue%20Stunde%2C%20Berlin%2C%20151223%2C%20ako.jpg
+dv_has_:
+  name_:
+    ar: سلطة تنفيذية
+    arz: سلطه تنفيذيه
+    as: কাৰ্যপালিকা
+    ast: poder executivu
+    az: icra hakimiyyəti
+    azb: موجریه گوجو
+    ba: башҡарма власть
+    bcl: ehekutibo
+    be: выканаўчая ўлада
+    be-tarask: выканаўчая ўлада
+    bg: изпълнителна власт
+    bn: নির্বাহী
+    br: galloud erounit
+    bs: izvršna vlast
+    ca: poder executiu
+    ckb: دەسەڵاتی جێبەجێکار
+    cs: výkonná moc
+    cv: ĕç тăвакан влаç
+    cy: gweithrediaeth
+    da: udøvende magt
+    de: Exekutive
+    el: εκτελεστική εξουσία
+    en: executive branch
+    en-gb: executive
+    eo: plenuma povo
+    es: poder ejecutivo
+    et: täidesaatev võim
+    eu: botere betearazle
+    fa: قوه مجریه
+    fi: toimeenpanovalta
+    fr: pouvoir exécutif
+    frr: eksekutiif
+    fy: útfierende macht
+    gl: poder executivo
+    gsw: Exekutive
+    ha: zartarwa
+    he: רשות מבצעת
+    hi: कार्यकारिणी
+    hr: izvršna vlast
+    hsb: eksekutiwa
+    ht: pouvwa egzekitif
+    hu: végrehajtó hatalom
+    hy: գործադիր իշխանություն
+    id: cabang eksekutif
+    is: framkvæmdarvald
+    it: potere esecutivo
+    ja: 行政機関
+    jv: eksekutif
+    ka: აღმასრულებელი ხელისუფლება
+    kk: атқарушы билік
+    kn: ಕಾರ್ಯಾಂಗ
+    ko: 행정기관
+    krc: толтуруучу власть
+    ks: ایگزیکٹو شاخ
+    kw: skorr gweythresek
+    ky: аткаруу бийлиги
+    la: potestas exsecutiva
+    lb: Exekutiv
+    li: Executieve mach
+    lmo: poder esecutiv
+    lt: vykdomoji valdžia
+    lv: izpildvara
+    mag: कार्यकारिणी
+    mai: कार्यकारिणी
+    mg: fahefana mpanatanteraka
+    mk: извршна власт
+    ml: കാര്യനിർവ്വഹണ വിഭാഗം
+    ms: badan eksekutif
+    ms-arab: چابڠ ايکسيکوتيف
+    nan: hêng-chèng
+    nb: utøvende makt
+    nds: Utövend Macht
+    ne: कार्यकारिणी
+    nl: uitvoerende macht
+    nn: utøvande makt
+    oc: poder executiu
+    pa: ਕਾਰਜਪਾਲਿਕਾ
+    pap: poder ehekutivo
+    pap-aw: poder ehecutivo
+    pl: władza wykonawcza
+    ps: اجرايي قوه
+    pt: poder executivo
+    pt-br: poder executivo
+    qu: ruraq atiy
+    ro: putere executivă
+    ru: исполнительная власть
+    sat: ᱠᱟᱹᱢᱤᱭᱟᱹ ᱦᱟᱹᱴᱤᱧ
+    sd: انتظاميا
+    sh: izvršna vlast
+    si: විධායකය
+    sk: výkonná moc
+    sl: izvršilna oblast
+    so: fulinta
+    sr: извршна власт
+    sv: regering
+    sw: utendaji
+    ta: செயலாட்சியர்
+    te: కార్యనిర్వాహక వ్యవస్థ (ప్రభుత్వం
+    tg: ҳокимияти иҷроия
+    th: อำนาจบริหาร
+    tl: ehekutibong sangay
+    tr: yürütme erki
+    tt: башкарма хакимият
+    tt-cyrl: башкарма хакимият
+    uk: виконавча влада
+    uz: Ijro etuvchi hokimiyat
+    vec: podere ezecutivo
+    vi: quyền hành pháp
+    wuu: 行政机关
+    yo: ẹ̀ka aláàṣẹ
+    yue: 行政
+    zgh: ⵜⴰⴱⴰⴹⴰ ⵜⴰⵎⵣⵣⴳⴰⵔⵜ
+    zh: 行政機構
+    zh-cn: 行政机构
+    zh-hans: 行政机构
+    zh-hant: 行政機構
+    zh-hk: 行政機構
+    zh-mo: 行政機構
+    zh-my: 行政机构
+    zh-sg: 行政机构
+    zh-tw: 行政機構
 ---
-
 # [[Executive_Branch]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Executive_branch,35798|WD~Executive_branch,35798]] 

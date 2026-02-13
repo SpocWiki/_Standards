@@ -1,14 +1,96 @@
 ---
 aliases:
-  - String Instrument
-  - chordophone
-  - chordophones
-  - String_Instrument
+- alat musik dawai
+- alat muzik bertali
+- amûrên jîdar
+- bộ dây
+- chordophone
+- chordophones
+- enstriman ak kòd
+- hari instrumentu
+- hiân-ga̍k-khì
+- instrument cu coarde
+- instrument de corda
+- Instrument de còrdas
+- instrument strunowy
+- instrument à cordes
+- instrumento de corda
+- instrumento de cordas
+- instrumento de corde
+- instrumento de cuerda
+- instrumento ti kuerdas
+- instrumentong may bagting
+- instrumentu de cuerda
+- Instrumint d' muzike ås coides
+- keelpillid
+- kielisoitin
+- kordinstrumento
+- offeryn tannau
+- Saiteinstrumänt
+- Saiteninstrument
+- simli musiqi aləti
+- snaarinstrument
+- Snereninstrument
+- sraŋgâčuojânâs
+- strengeinstrument
+- strengjahljóðfæri
+- String Instrument
+- String_Instrument
+- strumento a corda
+- strumentos de cordetas
+- strunný nástroj
+- strunový nástroj
+- strunsko glasbilo
+- stränginstrument
+- styginis instrumentas
+- stīgu instruments
+- suotnačuojanas
+- tiwlli waqachina
+- torli asbob
+- téaduirlis
+- vonós vagy más húros hangszer
+- yaylı çalgılar
+- zavamaneno misy tadiny
+- žičani instrument
+- žičani instrumenti
+- έγχορδο όργανο
+- ішектік музыкалық аспаптар
+- жичани инструмент
+- жичен инструмент
+- кыллы музыка коралы
+- созҳои торӣ
+- струнен инструмент
+- струнні музичні інструменти
+- струнны музычны інструмент
+- струнный музыкальный инструмент
+- струнныя музычныя інструмэнты
+- чавхдаст хөгжмийн зэмсэг
+- լարային երաժշտական գործիք
+- כלי מיתר
+- סטרונע אינסטרומענטן
+- آلة وترية
+- ئامێری ژێدار
+- زهی ساز
+- سازهای زهی
+- سوت ادات
+- तंतुवाद्य
+- तारवाद्य
+- ততযন্ত্র
+- நரம்புக் கருவி
+- స్ట్రింగ్ వాయిద్యం
+- ತಂತಿವಾದ್ಯ
+- තත් වාද්ය භාණ්ඩ
+- เครื่องสาย
+- სიმებიანი საკრავები
+- 弦乐器
+- 弦楽器
+- 弦樂器
+- 현악기
 has_id_wikidata: Q1798603
 has_part_s_: '[[_Standards/WikiData/WD~string,326426]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 subclass_of: '[[_Standards/WikiData/WD~chordophone,1051772]]'
 instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_String_musical_instruments,22868485]]'
@@ -19,8 +101,107 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/StringInstruMAPDF.JPG
 Common_Procurement_Vocabulary_code: 37313000
 Amazon_com_browse_node: 8882493011
 Commons_category: String instruments
+dv_has_:
+  name_:
+    af: snaarinstrument
+    ar: آلة وترية
+    ast: instrumentu de cuerda
+    az: simli musiqi aləti
+    bar: Saiteninstrument
+    be: струнны музычны інструмент
+    be-tarask: струнныя музычныя інструмэнты
+    bg: струнен инструмент
+    bn: ততযন্ত্র
+    ca: instrument de corda
+    ckb: ئامێری ژێدار
+    cs: strunný nástroj
+    cy: offeryn tannau
+    da: strengeinstrument
+    de: Saiteninstrument
+    de-ch: Saiteninstrument
+    el: έγχορδο όργανο
+    en: string instrument
+    en-ca: string instrument
+    en-gb: string instrument
+    eo: kordinstrumento
+    es: instrumento de cuerda
+    et: keelpillid
+    eu: hari instrumentu
+    fa: سازهای زهی
+    fi: kielisoitin
+    fr: instrument à cordes
+    ga: téaduirlis
+    gl: instrumento de corda
+    gsw: Saiteinstrumänt
+    he: כלי מיתר
+    hi: तंतुवाद्य
+    hr: žičani instrumenti
+    ht: enstriman ak kòd
+    hu: vonós vagy más húros hangszer
+    hy: լարային երաժշտական գործիք
+    id: alat musik dawai
+    ilo: instrumento ti kuerdas
+    is: strengjahljóðfæri
+    it: strumento a corda
+    ja: 弦楽器
+    ka: სიმებიანი საკრავები
+    kk: ішектік музыкалық аспаптар
+    kn: ತಂತಿವಾದ್ಯ
+    ko: 현악기
+    ku: amûrên jîdar
+    lfn: strumentos de cordetas
+    lt: styginis instrumentas
+    lv: stīgu instruments
+    mg: zavamaneno misy tadiny
+    mk: жичен инструмент
+    mn: чавхдаст хөгжмийн зэмсэг
+    mr: तंतुवाद्य
+    ms: alat muzik bertali
+    mzn: زهی ساز
+    nan: hiân-ga̍k-khì
+    nb: strengeinstrument
+    nds: Snereninstrument
+    ne: तारवाद्य
+    nl: snaarinstrument
+    nn: strengeinstrument
+    oc: Instrument de còrdas
+    pl: instrument strunowy
+    pt: instrumento de cordas
+    pt-br: Instrumento de cordas
+    qu: tiwlli waqachina
+    ro: instrument cu coarde
+    ru: струнный музыкальный инструмент
+    se: suotnačuojanas
+    sh: žičani instrumenti
+    si: තත් වාද්ය භාණ්ඩ
+    sk: strunový nástroj
+    sl: strunsko glasbilo
+    smn: sraŋgâčuojânâs
+    sr: жичани инструмент
+    sr-ec: жичани инструмент
+    sr-el: žičani instrument
+    sv: stränginstrument
+    ta: நரம்புக் கருவி
+    te: స్ట్రింగ్ వాయిద్యం
+    tg: созҳои торӣ
+    th: เครื่องสาย
+    tl: instrumentong may bagting
+    tr: yaylı çalgılar
+    tt: кыллы музыка коралы
+    uk: струнні музичні інструменти
+    ur: سوت ادات
+    uz: torli asbob
+    vec: instrumento de corde
+    vi: bộ dây
+    wa: Instrumint d' muzike ås coides
+    wuu: 弦乐器
+    yi: סטרונע אינסטרומענטן
+    yue: 弦樂器
+    zh: 弦樂器
+    zh-hans: 弦乐器
+    zh-hant: 弦樂器
+    zh-hk: 弦樂器
 ---
-
 # [[String_Instrument]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~String_instrument,1798603|WD~String_instrument,1798603]] 

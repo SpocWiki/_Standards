@@ -1,70 +1,121 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]"
+  - '[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]"
-
-has_time_started: 2000-07-07 
+- '[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]'
+has_time_started: 2000-07-07
 aliases:
-  - East African Community
-  - East_African_Community
+- Akutnhom Pabak Apirïka
+- Al'ummar Gabashin Afirka
+- Austrumāfrikas Savienība
+- Bulshada Bariga Afrika
+- communauté d'Afrique de l'Est
+- Comunidad Africana Oriental
+- Comunidade da África Oriental
+- Comunidade de África Oriental
+- Comunidá Africana Oriental
+- Comunitat de l'Àfrica Oriental
+- Comunità dell'Africa Orientale
+- Cộng đồng Đông Phi
+- Det østafrikanske fellesskap
+- Doğu Afrika Topluluğu
+- East African Community
+- East_African_Community
+- Ekialdeko Afrikako Erkidegoa
+- Ida-Aafrika Ühendus
+- Istočnoafrička zajednica
+- Itä-Afrikan yhteisö
+- Jumuiya ya Afrika ya Mashariki
+- Kelet-afrikai Közösség
+- Komunitas Afrika Timur
+- Masyarakat Afrika Timur
+- Njamaa ya Afrika ya Irathĩro
+- Oos-Afrikaanse Gemeenskap
+- Oost-Afrikaanse Gemeenschap
+- Orient-Afrika Komunumo
+- Ostafrikanische Gemeinschaft
+- Rytų Afrikos bendrija
+- Umuryango w’Ibihugu by’Iburasirazuba bw’Afurika
+- Východoafrické společenství
+- Wspólnota Wschodnioafrykańska
+- Àgbàjọ Ìlàorùn Áfríkà
+- Östafrikanska gemenskapen
+- Østafrikanske Fællesskab
+- Şərqi Afrika Cəmiyyəti
+- Κοινότητα Κρατών της Ανατολικής Αφρικής
+- Восточноафриканское сообщество
+- Източноафриканска общност
+- Східноафриканське співтовариство
+- Усходнеафрыканская супольнасьць
+- Արևելյան Աֆրիկայի համայնք
+- הקהילייה המזרח-אפריקנית
+- جامعه آفریقای شرقی
+- مجموعة شرق إفريقيا
+- کۆمەڵگای ڕۆژھەڵاتی ئەفریقا
+- ਪੂਰਬੀ ਅਫ਼ਰੀਕੀ ਕਮਿਊਨਿਟੀ
+- ประชาคมแอฟริกาตะวันออก
+- აღმოსავლეთ აფრიკის თანამეგობრობა
+- 东非共同体
+- 東アフリカ共同体
+- 東非共同體
+- 동아프리카 공동체
 has_id_wikidata: Q337456
 instance_of:
-  - '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
 official_observer_status_in_organization:
-  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
-  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
 member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
 flag: '[[_Standards/WikiData/WD~flag_of_the_East_African_Community,25230725]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Tanzania,924]]'
-  - '[[_Standards/WikiData/WD~South_Sudan,958]]'
-  - '[[_Standards/WikiData/WD~Burundi,967]]'
-  - '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-  - '[[_Standards/WikiData/WD~Uganda,1036]]'
-  - '[[_Standards/WikiData/WD~Rwanda,1037]]'
-  - '[[_Standards/WikiData/WD~Somalia,1045]]'
-  - '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~South_Sudan,958]]'
+- '[[_Standards/WikiData/WD~Burundi,967]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
 official_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Swahili,7838]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swahili,7838]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Arusha,4301]]'
 social_media_followers:
-  - 8270
-  - 155967
+- 8270
+- 155967
 short_name:
-  - CAO
-  - CAO
-  - CAO
-  - CAO
-  - CAO
-  - EAC
-  - CAE
-  - OAG
-  - ŞAC
-  - OAK
-  - CAO
-  - ВАС
-  - САС
-  - 东共体
-  - 東共體
+- CAO
+- CAO
+- CAO
+- CAO
+- CAO
+- EAC
+- CAE
+- OAG
+- ŞAC
+- OAK
+- CAO
+- ВАС
+- САС
+- 东共体
+- 東共體
 inception: 2000-07-07T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa-countries-EAC.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20East%20African%20Community%20%28no%20logo%29.svg
@@ -78,9 +129,71 @@ Commons_category: East African Community
 Google_Doodle: east-africa-common-market
 X_Twitter_username: jumuiya
 Facebook_username: proudlyeastafrican
+dv_has_:
+  name_:
+    af: Oos-Afrikaanse Gemeenskap
+    ar: مجموعة شرق إفريقيا
+    ast: Comunidá Africana Oriental
+    az: Şərqi Afrika Cəmiyyəti
+    be-tarask: Усходнеафрыканская супольнасьць
+    bg: Източноафриканска общност
+    bs: Istočnoafrička zajednica
+    ca: Comunitat de l'Àfrica Oriental
+    ckb: کۆمەڵگای ڕۆژھەڵاتی ئەفریقا
+    cs: Východoafrické společenství
+    da: Østafrikanske Fællesskab
+    de: Ostafrikanische Gemeinschaft
+    din: Akutnhom Pabak Apirïka
+    el: Κοινότητα Κρατών της Ανατολικής Αφρικής
+    en: East African Community
+    eo: Orient-Afrika Komunumo
+    es: Comunidad Africana Oriental
+    et: Ida-Aafrika Ühendus
+    eu: Ekialdeko Afrikako Erkidegoa
+    fa: جامعه آفریقای شرقی
+    fi: Itä-Afrikan yhteisö
+    fr: communauté d'Afrique de l'Est
+    gl: Comunidade de África Oriental
+    ha: Al'ummar Gabashin Afirka
+    he: הקהילייה המזרח-אפריקנית
+    hu: Kelet-afrikai Közösség
+    hy: Արևելյան Աֆրիկայի համայնք
+    id: Komunitas Afrika Timur
+    ig: East African Community
+    it: Comunità dell'Africa Orientale
+    ja: 東アフリカ共同体
+    ka: აღმოსავლეთ აფრიკის თანამეგობრობა
+    ki: Njamaa ya Afrika ya Irathĩro
+    ko: 동아프리카 공동체
+    lt: Rytų Afrikos bendrija
+    lv: Austrumāfrikas Savienība
+    ms: Masyarakat Afrika Timur
+    nb: Det østafrikanske fellesskap
+    nl: Oost-Afrikaanse Gemeenschap
+    pa: ਪੂਰਬੀ ਅਫ਼ਰੀਕੀ ਕਮਿਊਨਿਟੀ
+    pl: Wspólnota Wschodnioafrykańska
+    pt: Comunidade da África Oriental
+    ru: Восточноафриканское сообщество
+    rw: Umuryango w’Ibihugu by’Iburasirazuba bw’Afurika
+    so: Bulshada Bariga Afrika
+    sr: Istočnoafrička zajednica
+    sv: Östafrikanska gemenskapen
+    sw: Jumuiya ya Afrika ya Mashariki
+    th: ประชาคมแอฟริกาตะวันออก
+    tr: Doğu Afrika Topluluğu
+    uk: Східноафриканське співтовариство
+    vi: Cộng đồng Đông Phi
+    yo: Àgbàjọ Ìlàorùn Áfríkà
+    zh: 东非共同体
+    zh-cn: 东非共同体
+    zh-hans: 东非共同体
+    zh-hant: 東非共同體
+    zh-hk: 東非共同體
+    zh-mo: 東非共同體
+    zh-my: 东非共同体
+    zh-sg: 东非共同体
+    zh-tw: 東非共同體
 ---
-
-
 # [[East_African_Community]]
 
 #is_/same_as :: [[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]

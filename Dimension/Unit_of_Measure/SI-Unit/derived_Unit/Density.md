@@ -1,55 +1,413 @@
 ---
 aliases:
-  - mass density
-  - volumetric mass density
-  - specific mass
-  - Density
+- bi̍t-tō͘
+- blīvums
+- dansite
+- dendësia
+- denmi
+- densidad
+- densidade
+- densidat
+- densidá
+- densitas et Spissitudo
+- densitat
+- densitate
+- densitet
+- densiti
+- Density
+- densità
+- densitât
+- denso
+- dentsitate
+- denzetà
+- Dicht
+- Dichte
+- dichtheid
+- Dichtn
+- digtheid
+- dinzità
+- dluthad
+- dlús
+- doesedh
+- dwysedd
+- eðlismassi
+- glooid
+- gostota
+- gustina
+- gustoća
+- gynstość
+- gęstość
+- huduma
+- hustota
+- jirmiga
+- kasuok
+- kepadatan
+- ketumpatan
+- khối lượng riêng
+- kíkisí
+- Lanja isam-bentin-kadiry
+- mass density
+- massa jenis
+- massa volumica
+- masse volumique
+- massefylde
+- Penias
+- rukkina
+- saahâdvuotâ
+- Sachthaid
+- specific mass
+- specifika pezo
+- sıxlıq
+- sűrűség
+- taneẓẓi
+- tankis
+- tetthet
+- tettleik
+- Tichtheid
+- tihedus
+- tiheys
+- volumetric mass density
+- xestî
+- yoğunluk
+- πυκνότητα
+- густина
+- Густосц
+- йăвăлăх
+- нягт
+- плотность
+- плътност
+- тыгыздык
+- тыгызлык
+- тығыздық
+- тығыҙлыҡ
+- шчыльнасць
+- шчыльнасьць
+- խտություն
+- צפיפות החומר
+- الكثافه
+- سیخلیق
+- كتافة
+- كثافة
+- ټينګوالی
+- چڕی
+- چگالی
+- کتومڤتن
+- کثافت
+- گهاٽاڻ
+- घनता
+- घनत्व
+- घनत्वम्
+- ঘনত্ব
+- ভৰ ঘনত্ব
+- ਸੰਘਣਾਪਣ
+- அடர்த்தி
+- సాంద్రత
+- ಸಾಂದ್ರತೆ
+- സാന്ദ്രത
+- ඝනත්වය
+- ความหนาแน่น
+- သိပ်သည်းခြင်း
+- პისქვინი
+- სიმკვრივე
+- 密度
+- 밀도
 has_id_wikidata: Q29539
 Colon_Classification: C2:1
 Commons_category: Density
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>V</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho ={\frac {\mathrm {d} m}{\mathrm {d} V}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">d</mi>
+                </mrow>
+                <mi>m</mi>
+              </mrow>
+              <mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">d</mi>
+                </mrow>
+                <mi>V</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {\mathrm {d} m}{\mathrm {d} V}}}</annotation>
+    </semantics>
+  </math>
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]'
 different_from:
-  - '[[_Standards/WikiData/WD~density,483525]]'
-  - '[[_Standards/WikiData/WD~surface_density,1907514]]'
-  - '[[_Standards/WikiData/WD~volumetric_quantity,67598515]]'
-  - '[[_Standards/WikiData/WD~population_density,22856]]'
+- '[[_Standards/WikiData/WD~density,483525]]'
+- '[[_Standards/WikiData/WD~surface_density,1907514]]'
+- '[[_Standards/WikiData/WD~volumetric_quantity,67598515]]'
+- '[[_Standards/WikiData/WD~population_density,22856]]'
 IEV_number: 113-03-07
 instance_of:
-  - '[[_Standards/WikiData/WD~measurand,1924249]]'
-  - '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+- '[[_Standards/WikiData/WD~measurand,1924249]]'
+- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
 in_defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>m</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle V}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>V</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle V}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho }</annotation>\n  </semantics>\n</math>"
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{-3}{\\mathsf {M}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>3</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{-3}{\\mathsf {M}}}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>m</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle V}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>V</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho }">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>&#x03C1;<!-- ρ --></mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+    </semantics>
+  </math>
+ISQ_dimension: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{-3}{\mathsf {M}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <msup>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">L</mi>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>3</mn>
+            </mrow>
+          </msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="sans-serif">M</mi>
+            </mrow>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{-3}{\mathsf {M}}}</annotation>
+    </semantics>
+  </math>
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 4458
 opposite_of: '[[_Standards/WikiData/WD~specific_volume,683556]]'
 quantity_symbol_LaTeX_:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho _{m}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>&#x03C1;<!-- ρ --></mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>m</mi>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho _{m}}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho }</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho _{m}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <msub>
+            <mi>&#x03C1;<!-- ρ --></mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>m</mi>
+            </mrow>
+          </msub>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \rho _{m}}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho }">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>&#x03C1;<!-- ρ --></mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+    </semantics>
+  </math>
 quantity_symbol_string_: ρ
 recommended_unit_of_measurement:
-  - '[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211]]'
-  - '[[_Standards/WikiData/WD~kilogram_per_litre,104907192]]'
-  - '[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670]]'
+- '[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211]]'
+- '[[_Standards/WikiData/WD~kilogram_per_litre,104907192]]'
+- '[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-  - '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-  - '[[_Standards/WikiData/WD~quotient,41118]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~quotient,41118]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.webm
 Wikidata_property: density
+dv_has_:
+  name_:
+    af: digtheid
+    an: densidat
+    ar: كثافة
+    ary: كتافة
+    arz: الكثافه
+    as: ভৰ ঘনত্ব
+    ast: densidá
+    az: sıxlıq
+    azb: سیخلیق
+    ba: тығыҙлыҡ
+    bar: Dichtn
+    bcl: Densidad
+    be: шчыльнасць
+    be-tarask: шчыльнасьць
+    bg: плътност
+    bho: घनत्व
+    bn: ঘনত্ব
+    bs: gustoća
+    ca: densitat
+    ckb: چڕی
+    cs: hustota
+    cv: йăвăлăх
+    cy: dwysedd
+    da: massefylde
+    de: Dichte
+    de-ch: Dichte
+    el: πυκνότητα
+    en: mass density
+    en-ca: density
+    en-gb: density
+    eo: denso
+    es: densidad
+    et: tihedus
+    eu: dentsitate
+    fa: چگالی
+    fi: tiheys
+    fr: masse volumique
+    frr: Sachthaid
+    fur: densitât
+    fy: Tichtheid
+    ga: dlús
+    gd: dluthad
+    gl: densidade
+    gsw: dichte
+    gv: glooid
+    he: צפיפות החומר
+    hi: घनत्व
+    hr: gustoća
+    ht: dansite
+    hu: sűrűség
+    hy: խտություն
+    ia: densitate
+    iba: Penias
+    id: kepadatan
+    ig: density
+    io: specifika pezo
+    is: eðlismassi
+    it: densità
+    ja: 密度
+    jbo: denmi
+    jv: massa jenis
+    ka: სიმკვრივე
+    kab: taneẓẓi
+    kk: тығыздық
+    kn: ಸಾಂದ್ರತೆ
+    ko: 밀도
+    ku: xestî
+    kw: doesedh
+    ky: тыгыздык
+    la: densitas et Spissitudo
+    lb: Dicht
+    lmo: densità
+    lt: tankis
+    lv: blīvums
+    mag: घनत्व
+    mg: Lanja isam-bentin-kadiry
+    mk: густина
+    ml: സാന്ദ്രത
+    mn: нягт
+    mr: घनता
+    ms: ketumpatan
+    ms-arab: کتومڤتن
+    mt: densità
+    my: သိပ်သည်းခြင်း
+    nan: bi̍t-tō͘
+    nap: denzetà
+    nb: tetthet
+    nds: Dicht
+    ne: घनत्व
+    nl: dichtheid
+    nn: tettleik
+    oc: massa volumica
+    om: rukkina
+    pa: ਸੰਘਣਾਪਣ
+    pl: gęstość
+    ps: ټينګوالی
+    pt: densidade
+    pt-br: densidade
+    ro: densitate
+    rsk: Густосц
+    ru: плотность
+    sa: घनत्वम्
+    scn: dinzità
+    sco: density
+    sd: گهاٽاڻ
+    sh: gustina
+    si: ඝනත්වය
+    sk: hustota
+    sl: gostota
+    smn: saahâdvuotâ
+    sn: huduma
+    so: jirmiga
+    sq: dendësia
+    sr: густина
+    sr-ec: густина
+    sr-el: gustina
+    sv: densitet
+    sw: densiti
+    szl: gynstość
+    ta: அடர்த்தி
+    te: సాంద్రత
+    th: ความหนาแน่น
+    tr: yoğunluk
+    tt: тыгызлык
+    tt-cyrl: тыгызлык
+    uk: густина
+    ur: کثافت
+    vec: densità
+    vi: khối lượng riêng
+    war: kasuok
+    wuu: 密度
+    xmf: პისქვინი
+    yo: kíkisí
+    yue: 密度
+    zh: 密度
+    zh-cn: 密度
+    zh-hans: 密度
+    zh-hant: 密度
+    zh-hk: 密度
+    zh-mo: 密度
+    zh-my: 密度
+    zh-sg: 密度
+    zh-tw: 密度
 ---
-
 # [[Density]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Density,29539|WD~Density,29539]] 

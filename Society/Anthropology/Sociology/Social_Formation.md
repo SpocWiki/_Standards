@@ -1,15 +1,100 @@
 ---
 aliases:
+- družbena tvorba
+- formación económico social
+- formación social
+- formacja społeczna
+- formation social
+- formazione sociale
+- formação social
+- Gesellschaftsformation
+- Gizarte formazio
+- ictimai formasiya
+- ordre social
+- socia formiĝo
+- social formation
+- sociale formatie
+- socialformation
+- sociāls veidojums
+- sosial order
+- sosiale vorming
+- Sotsiaalne kord
+- společenská formace
+- Spoločensko-ekonomická formácia
+- trefniant cymdeithasol
+- trật tự xã hội
+- társadalmi-gazdasági alakulat
+- грамадзкае фармаваньне
+- Друштвени контекст
+- Ижтимағи-иҡтисади формация
+- Йукъараллин бахам
+- Коомдук экономикалык формация
+- Обществен строй
+- общественно-экономическая формация
+- општествен поредок
+- суспільно-економічна формація
+- Формациялық теория
+- Հասարակական-տնտեսական ֆորմացիա
+- تشكل اجتماعي
+- نظم اجتماعی
+- ਸਮਾਜਿਕ-ਆਰਥਿਕ ਗਠਨ
+- 社会構成体
+- 社会秩序
+- 社會秩序
+- 사회구성체
 has_id_wikidata: Q1641112
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~social_system,1639378]]"
-  - "[[_Standards/WikiData/WD~social_organization,4430243]]"
-different_from: "[[_Standards/WikiData/WD~socio_economic_structure,3920367]]"
-subclass_of: "[[_Standards/WikiData/WD~sociological_concept,33104129]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-facet_of: "[[_Standards/WikiData/WD~society,8425]]"
+- '[[_Standards/WikiData/WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~social_organization,4430243]]'
+different_from: '[[_Standards/WikiData/WD~socio_economic_structure,3920367]]'
+subclass_of: '[[_Standards/WikiData/WD~sociological_concept,33104129]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+facet_of: '[[_Standards/WikiData/WD~society,8425]]'
+dv_has_:
+  name_:
+    af: sosiale vorming
+    ar: تشكل اجتماعي
+    az: ictimai formasiya
+    ba: Ижтимағи-иҡтисади формация
+    be-tarask: грамадзкае фармаваньне
+    bg: Обществен строй
+    ca: ordre social
+    ce: Йукъараллин бахам
+    cs: společenská formace
+    cy: trefniant cymdeithasol
+    da: socialformation
+    de: Gesellschaftsformation
+    en: social formation
+    eo: socia formiĝo
+    es: formación social
+    et: Sotsiaalne kord
+    eu: Gizarte formazio
+    fa: نظم اجتماعی
+    fr: formation social
+    gl: formación económico social
+    hu: társadalmi-gazdasági alakulat
+    hy: Հասարակական-տնտեսական ֆորմացիա
+    id: sosial order
+    it: formazione sociale
+    ja: 社会構成体
+    kk: Формациялық теория
+    ko: 사회구성체
+    ky: Коомдук экономикалык формация
+    lv: sociāls veidojums
+    mk: општествен поредок
+    nl: sociale formatie
+    pa: ਸਮਾਜਿਕ-ਆਰਥਿਕ ਗਠਨ
+    pl: formacja społeczna
+    pt: formação social
+    ru: общественно-экономическая формация
+    sk: Spoločensko-ekonomická formácia
+    sl: družbena tvorba
+    sr: Друштвени контекст
+    uk: суспільно-економічна формація
+    vi: trật tự xã hội
+    wuu: 社会秩序
+    zh: 社會秩序
 ---
-
 # [[Social_Formation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_formation,1641112|WD~Social_formation,1641112]]  

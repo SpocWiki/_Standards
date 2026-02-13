@@ -1,27 +1,169 @@
 ---
 aliases:
+- an sinh xã hội
+- bantuan kebajikan
+- gizarte segurantza
+- Ijtimoiy himoya
+- jaminan sosial
+- mfuko wa jamii
+- mkpuchi ọha
+- nawdd cymdeithasol
+- pomoc społeczna
+- previdência social
+- securitas socialis
+- securitate socială
+- seguresa sociale
+- seguretat social
+- seguridad social
+- seguridad sosyal
+- Seguridade social
+- Seguridá social
+- sekerder socyal
+- sicurezza sociale
+- slándáil shóisialta
+- social insurance
+- social security
+- social trygghet
+- social ydelse
+- sociala sekureco
+- sociale zekerheid
+- socialinis draudimas
+- socialno varstvo
+- socijalna sigurnost
+- sociálne zabezpečenie
+- sociální zabezpečení
+- sociālais nodoklis
+- sosiaaliturva
+- sosiaalstaan
+- sosiaaltorvo
+- sosial müdafiə
+- sosiáladorvu
+- sosyal güvenlik
+- soziale Sicherheit
+- Sozialversicherung
+- sécurité sociale
+- trygd
+- társadalombiztosítás
+- κοινωνική ασφάλεια
+- обществено осигуряване
+- сацыяльная абарона
+- соціальне страхування
+- социјална заштита
+- социјална сигурност
+- Социал төрийн элеметүүд
+- социальная защита
+- әлеуметтік қамсыздандыру
+- սոցիալական ապահովություն
+- ביטוח לאומי
+- סאָציאַלפֿאַרזיכערונג
+- סיגוּרִידאד סוזִיאל
+- بیمه اجتماعی
+- سماجی تحفظ
+- ضمان اجتماعي
+- সামাজিক নিরাপত্তা
+- ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ
+- 社会保障
+- 社會保障
+- 養老
+- 사회 보장
 has_id_wikidata: Q2483208
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-  - "[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]"
-studied_by: "[[_Standards/WikiData/WD~social_protection,7551332]]"
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813]]'
+studied_by: '[[_Standards/WikiData/WD~social_protection,7551332]]'
 different_from:
-  - "[[_Standards/WikiData/WD~social_insurance,7653906]]"
-  - "[[_Standards/WikiData/WD~Old_Age,_Survivors,_and_Disability_Insurance,12184791]]"
-has_part_s_: "[[_Standards/WikiData/WD~social_security_law,11588246]]"
-part_of: "[[_Standards/WikiData/WD~welfare_spending,12002092]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-subclass_of: "[[_Standards/WikiData/WD~government_program,22222786]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_security,96264607]]"
+- '[[_Standards/WikiData/WD~social_insurance,7653906]]'
+- '[[_Standards/WikiData/WD~Old_Age,_Survivors,_and_Disability_Insurance,12184791]]'
+has_part_s_: '[[_Standards/WikiData/WD~social_security_law,11588246]]'
+part_of: '[[_Standards/WikiData/WD~welfare_spending,12002092]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+subclass_of: '[[_Standards/WikiData/WD~government_program,22222786]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_security,96264607]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Help-gc8b13fc53%201920.jpg
-U_S_National_Archives_Identifier: "10641016"
+U_S_National_Archives_Identifier: 10641016
 MeSH_tree_code:
-  - N03.219.521.346.506.849
-  - N03.219.521.576.823
+- N03.219.521.346.506.849
+- N03.219.521.576.823
 Commons_category: Social security
+dv_has_:
+  name_:
+    ar: ضمان اجتماعي
+    ast: Seguridá social
+    az: sosial müdafiə
+    be-tarask: сацыяльная абарона
+    bg: обществено осигуряване
+    bn: সামাজিক নিরাপত্তা
+    ca: seguretat social
+    cs: sociální zabezpečení
+    cy: nawdd cymdeithasol
+    da: social ydelse
+    de: soziale Sicherheit
+    de-ch: Sozialversicherung
+    el: κοινωνική ασφάλεια
+    en: social security
+    en-ca: social insurance
+    en-gb: social insurance
+    eo: sociala sekureco
+    es: seguridad social
+    eu: gizarte segurantza
+    fa: بیمه اجتماعی
+    fi: sosiaaliturva
+    fr: sécurité sociale
+    ga: slándáil shóisialta
+    gl: Seguridade social
+    he: ביטוח לאומי
+    hi: social security
+    hu: társadalombiztosítás
+    hy: սոցիալական ապահովություն
+    id: jaminan sosial
+    ig: mkpuchi ọha
+    it: sicurezza sociale
+    ja: 社会保障
+    kk: әлеуметтік қамсыздандыру
+    ko: 사회 보장
+    krj: seguridad sosyal
+    kw: sekerder socyal
+    la: securitas socialis
+    lad: סיגוּרִידאד סוזִיאל
+    lt: socialinis draudimas
+    lv: sociālais nodoklis
+    lzh: 養老
+    mk: социјална заштита
+    mn: Социал төрийн элеметүүд
+    ms: bantuan kebajikan
+    nb: trygd
+    nl: sociale zekerheid
+    pa: ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ
+    pl: pomoc społeczna
+    pt: seguridade social
+    pt-br: previdência social
+    ro: securitate socială
+    ru: социальная защита
+    se: sosiáladorvu
+    sh: socijalna sigurnost
+    sk: sociálne zabezpečenie
+    sl: socialno varstvo
+    smn: sosiaaltorvo
+    sms: sosiaalstaan
+    sr: социјална сигурност
+    sr-ec: социјална сигурност
+    sr-el: socijalna sigurnost
+    sv: social trygghet
+    sw: mfuko wa jamii
+    tr: sosyal güvenlik
+    uk: соціальне страхування
+    ur: سماجی تحفظ
+    uz: Ijtimoiy himoya
+    vec: seguresa sociale
+    vi: an sinh xã hội
+    yi: סאָציאַלפֿאַרזיכערונג
+    zh: 社会保障
+    zh-hans: 社会保障
+    zh-hant: 社會保障
+    zh-hk: 社會保障
+    zh-tw: 社會保障
 ---
-
 # [[Social_Security]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_security,2483208|WD~Social_security,2483208]]  

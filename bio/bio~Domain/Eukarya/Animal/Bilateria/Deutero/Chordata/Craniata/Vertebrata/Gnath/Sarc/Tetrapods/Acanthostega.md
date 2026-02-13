@@ -1,8 +1,71 @@
 ---
 aliases:
-  - Acanthostega
+- Acanthostega
+- Akantostega
+- акантостега
+- אקנתוסטגה
+- آکانتوستگا
+- أكانتوستيجة
+- აკანტოსტეგა
+- アカントステガ
+- 棘石螈属
+- 棘石螈屬
+- 棘被螈屬
+- 아칸토스테가
 title: Acanthostega gunnari
 has_id_wikidata: Q131763
+dv_has_:
+  name_:
+    ar: أكانتوستيجة
+    ast: Acanthostega
+    bg: акантостега
+    ca: Acanthostega
+    ceb: Acanthostega
+    cs: Acanthostega
+    da: Acanthostega
+    de: Acanthostega
+    en: Acanthostega
+    en-us: Acanthostega
+    es: Acanthostega
+    eu: Acanthostega
+    fa: آکانتوستگا
+    fi: Acanthostega
+    fr: Acanthostega
+    ga: Acanthostega
+    he: אקנתוסטגה
+    hu: Acanthostega
+    ia: Acanthostega
+    id: Acanthostega
+    it: Acanthostega
+    ja: アカントステガ
+    ka: აკანტოსტეგა
+    ko: 아칸토스테가
+    la: Acanthostega
+    ms: Acanthostega
+    mul: Acanthostega
+    nb: Acanthostega
+    nl: Acanthostega
+    pl: Akantostega
+    pt: Acanthostega
+    rm: Acanthostega
+    ro: Acanthostega
+    ru: Акантостега
+    sk: Acanthostega
+    sl: Acanthostega
+    sq: Acanthostega
+    sv: Acanthostega
+    tr: Acanthostega
+    uk: Акантостега
+    vec: Acanthostega
+    vi: Acanthostega
+    war: Acanthostega
+    zh: 棘被螈屬
+    zh-cn: 棘石螈属
+    zh-hans: 棘石螈属
+    zh-hant: 棘被螈屬
+    zh-hk: 棘石螈屬
+    zh-sg: 棘石螈属
+    zh-tw: 棘被螈屬
 ---
 ## [[Acanthostega]]
 

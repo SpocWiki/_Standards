@@ -1,8 +1,77 @@
 ---
 aliases:
-  - Phyllotini
+- bawełniaki
+- betűfogúformák
+- Echte mûzen en rotten fan de Nije Wrâld
+- křeček americký
+- Phyllotini
+- Shádiʼááhdę́ę́ʼ naʼastsʼǫosí dóó bikʼéí
+- Sigmodontinae
+- Sigmodontins
+- փափկահամստերներ
+- אוגרי העולם החדש
+- جرذاوات قطنية
+- جرذاوات قطنيه
+- سینیدندانیان
+- 棉鼠亚科
+- 棉鼠亞科
+- 목화쥐아과
 title: Phyllotini
 has_id_wikidata: Q133373
+dv_has_:
+  name_:
+    an: Sigmodontinae
+    ar: جرذاوات قطنية
+    arz: جرذاوات قطنيه
+    ast: Sigmodontinae
+    bg: Sigmodontinae
+    ca: Sigmodontins
+    ceb: Sigmodontinae
+    cs: křeček americký
+    de: Sigmodontinae
+    en: Sigmodontinae
+    eo: Sigmodontinae
+    es: Sigmodontinae
+    eu: Sigmodontinae
+    ext: Sigmodontinae
+    fa: سینیدندانیان
+    fi: Sigmodontinae
+    fr: Sigmodontinae
+    fy: Echte mûzen en rotten fan de Nije Wrâld
+    ga: Sigmodontinae
+    gl: Sigmodontinae
+    he: אוגרי העולם החדש
+    hr: Sigmodontinae
+    hu: betűfogúformák
+    hy: փափկահամստերներ
+    ia: Sigmodontinae
+    ie: Sigmodontinae
+    io: Sigmodontinae
+    it: Sigmodontinae
+    ko: 목화쥐아과
+    la: Sigmodontinae
+    mul: Sigmodontinae
+    nl: Sigmodontinae
+    nv: Shádiʼááhdę́ę́ʼ naʼastsʼǫosí dóó bikʼéí
+    oc: Sigmodontinae
+    pl: bawełniaki
+    pt: Sigmodontinae
+    pt-br: Sigmodontinae
+    ro: Sigmodontinae
+    ru: Sigmodontinae
+    sl: Sigmodontinae
+    sq: Sigmodontinae
+    sr: Sigmodontinae
+    sv: Sigmodontinae
+    tr: Sigmodontinae
+    uk: Sigmodontinae
+    vi: Sigmodontinae
+    vo: Sigmodontinae
+    war: Sigmodontinae
+    zh: 棉鼠亚科
+    zh-cn: 棉鼠亚科
+    zh-hans: 棉鼠亚科
+    zh-tw: 棉鼠亞科
 ---
 # [[Phyllotini]]
 

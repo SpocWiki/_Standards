@@ -1,34 +1,281 @@
 ---
 aliases:
-  - electromagnetic radiation
-  - Electromagnetic_Radiation
-  - Electromagnetic Radiation
+- astaíocht leictreamaighnéadach
+- bức xạ điện từ
+- electromagnetic radiation
+- Electromagnetic_Radiation
+- elektromagneetisk strualen
+- elektromagneetsche Stralen
+- elektromagnehtalaš suonjardeapmi
+- elektromagneta radiado
+- elektromagnetické záření
+- elektromagnetické žiarenie
+- elektromagnetiese straling
+- elektromagnetik radiashion
+- elektromagnetika radiaco
+- elektromagnetiline kiirgus
+- elektromagnetilinõ kirgämine
+- elektromagnetinė spinduliuotė
+- elektromagnetische Strahlung
+- elektromagnetische straling
+- elektromagnetische straoling
+- elektromagnetisk stråling
+- elektromagnetisk strålning
+- elektromagnetiske Stroalenge
+- elektromagnetno sevanje
+- elektromagnetno zračenje
+- elektromagnetsko zračenje
+- elektromagnit nurlanish
+- elektromagnitsädegoičend
+- elektromagnéisch Stralung
+- elektromagnētiskais starojums
+- elektromanyetik radyasyon
+- elektromaqnit radiasiya
+- elektromágneses sugárzás
+- erradiazio elektromagnetiko
+- ilekchomagnetik redieshan
+- IMiyonzi yeNzubawonga
+- madana elektrooloobilaa
+- mnururisho sumakuumeme
+- promieniowanie elektromagnetyczne
+- radhiasi èlèktromagnetik
+- radiacion electromagnetica
+- radiació electromagnètica
+- radiación electromagnetica
+- radiación electromagnética
+- radiación electromagnético
+- radiasi elektromagnetik
+- radiasi éléktromagnétik
+- radiassion eletromagnética
+- radiatio electromagnetica
+- radiation electromagnetic
+- radiazione elettromagnetica
+- radiaçon eiletromagnética
+- radiação eletromagnética
+- radiație electromagnetică
+- radyasyon elektwomayetik
+- radyasyong elektromagnetiko
+- rafsegulgeislun
+- rayonnement électromagnétique
+- rrezatimi elektromagnetik
+- réyonman élektromagnétik
+- sinaran elektromagnet
+- suno
+- sähkömagneettinen säteily
+- taratra elektrômanetika
+- tiān-chû hòng-siā
+- tîrojdana karomiqnatîsî
+- ymbelydredd electromagnetig
+- šleđgâmagneetlâš suonjârdem
+- ηλεκτρομαγνητική ακτινοβολία
+- електромагнітне випромінювання
+- електромагнетно зрачење
+- електромагнетско зрачење
+- електромагнитно излъчване
+- електромаґнетічне жарїня
+- цахилгаан соронзон цацрал
+- электрамагнітнае выпраменьванне
+- электрамагнітнае выпраменьваньне
+- электромагнит нурланыш
+- электромагнит нурланышы
+- электромагнит тылси вӧлдон
+- электромагнитла пайăркалав
+- электромагнитное излучение
+- электромагниттиг херелдениишкин
+- электромагниттик нурлануу
+- էլեկտրամագնիսական ճառագայթում
+- עלעקטראמאגנעטישע שטראלונג
+- קרינה אלקטרומגנטית
+- ئېلېكتر دولقۇنى
+- الکترومغناطیس دالغا
+- الیکٹرومیگنیٹک ریڈیئیشن
+- برقناطیسی اشعاع
+- برقي مقناطيسي تابڪاري
+- برېښنایي (الکترو) مقناطیسي وړانګې
+- تابش الکترومغناطیسی
+- تیشکدانی کارۆموگناتیسی
+- موجة كهرطيسية
+- इलेक्ट्रोमैग्नेटिक रेडिएशन
+- विद्युच्चुम्बकीय विकिरण
+- विद्युतचुंबकीय विकिरण
+- विद्युतचुम्बकिय विकिरण
+- विद्युतचुम्बकीय विकिरण
+- তড়িৎ-চৌম্বকীয় বিকিরণ
+- বিদ্যুৎ চুম্বকীয় বিকিৰণ
+- વિઘ્યુતચુંબકિય વિકીરણ
+- மின்காந்தக் கதிர்வீச்சு
+- ವಿದ್ಯುತ್ಕಾಂತ ತರಂಗ
+- വിദ്യുത്കാന്തിക പ്രസരണം
+- รังสีแม่เหล็กไฟฟ้า
+- လျှပ်စစ်သံလိုက်
+- လျှပ်စစ်သံလိုက် ရောင်စဉ်ပျံ့နှံ့ခြင်း
+- ელექტრომაგნიტური გამოსხივება
+- ኤሌክትሮመግነጢስ ጨረራ
+- 电磁波
+- 电磁辐射
+- 電磁放射
+- 電磁波
+- 電磁輻射
+- 전자기 복사
 has_id_wikidata: Q12969754
 Commons_category: Electromagnetic radiation
 IEV_number: 845-21-001
 Krugosvet_article: nauka_i_tehnika/fizika/ELEKTROMAGNITNOE_IZLUCHENIE.html
 MeSH_tree_code:
-  - G01.358.500.505
-  - G01.750.250
+- G01.358.500.505
+- G01.750.250
 UMLS_CUI: C0034519
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001026
 has_part_s_:
-  - '[[_Standards/WikiData/WD~photon,3198]]'
-  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+- '[[_Standards/WikiData/WD~photon,3198]]'
+- '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png
 part_of:
-  - '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
-  - '[[_Standards/WikiData/WD~electromagnetism,11406]]'
+- '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+- '[[_Standards/WikiData/WD~electromagnetism,11406]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
 time_of_discovery_or_invention: 1886-11-13
 topic_has_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif
+dv_has_:
+  name_:
+    af: elektromagnetiese straling
+    am: ኤሌክትሮመግነጢስ ጨረራ
+    an: radiación electromagnetica
+    ar: موجة كهرطيسية
+    as: বিদ্যুৎ চুম্বকীয় বিকিৰণ
+    ast: radiación electromagnético
+    az: elektromaqnit radiasiya
+    azb: الکترومغناطیس دالغا
+    ba: электромагнит нурланыш
+    ban: radiasi elektromagnetik
+    be: электрамагнітнае выпраменьванне
+    be-tarask: электрамагнітнае выпраменьваньне
+    bg: електромагнитно излъчване
+    bho: इलेक्ट्रोमैग्नेटिक रेडिएशन
+    bn: তড়িৎ-চৌম্বকীয় বিকিরণ
+    bs: elektromagnetno zračenje
+    ca: radiació electromagnètica
+    ckb: تیشکدانی کارۆموگناتیسی
+    cs: elektromagnetické záření
+    cv: электромагнитла пайăркалав
+    cy: ymbelydredd electromagnetig
+    da: elektromagnetisk stråling
+    de: elektromagnetische Strahlung
+    el: ηλεκτρομαγνητική ακτινοβολία
+    en: electromagnetic radiation
+    en-ca: electromagnetic radiation
+    en-gb: electromagnetic radiation
+    eo: elektromagneta radiado
+    es: radiación electromagnética
+    et: elektromagnetiline kiirgus
+    eu: erradiazio elektromagnetiko
+    fa: تابش الکترومغناطیسی
+    fi: sähkömagneettinen säteily
+    fr: rayonnement électromagnétique
+    frr: elektromagneetisk strualen
+    ga: astaíocht leictreamaighnéadach
+    gcr: réyonman élektromagnétik
+    gl: radiación electromagnética
+    gu: વિઘ્યુતચુંબકિય વિકીરણ
+    he: קרינה אלקטרומגנטית
+    hi: विद्युतचुंबकीय विकिरण
+    hif: electromagnetic radiation
+    hr: elektromagnetsko zračenje
+    ht: radyasyon elektwomayetik
+    hu: elektromágneses sugárzás
+    hy: էլեկտրամագնիսական ճառագայթում
+    ia: radiation electromagnetic
+    id: radiasi elektromagnetik
+    ie: radiation electromagnetic
+    ig: radiation electromagnetic
+    io: elektromagnetika radiaco
+    is: rafsegulgeislun
+    it: radiazione elettromagnetica
+    ja: 電磁放射
+    jam: ilekchomagnetik redieshan
+    jv: radhiasi èlèktromagnetik
+    ka: ელექტრომაგნიტური გამოსხივება
+    kn: ವಿದ್ಯುತ್ಕಾಂತ ತರಂಗ
+    ko: 전자기 복사
+    ku: tîrojdana karomiqnatîsî
+    ky: электромагниттик нурлануу
+    la: radiatio electromagnetica
+    lb: elektromagnéisch Stralung
+    li: elektromagnetische straoling
+    lt: elektromagnetinė spinduliuotė
+    lv: elektromagnētiskais starojums
+    mag: विद्युच्चुम्बकीय विकिरण
+    mg: taratra elektrômanetika
+    mk: електромагнетно зрачење
+    ml: വിദ്യുത്കാന്തിക പ്രസരണം
+    mn: цахилгаан соронзон цацрал
+    ms: sinaran elektromagnet
+    mwl: radiaçon eiletromagnética
+    my: လျှပ်စစ်သံလိုက် ရောင်စဉ်ပျံ့နှံ့ခြင်း
+    nan: tiān-chû hòng-siā
+    nb: elektromagnetisk stråling
+    nds: elektromagneetsche Stralen
+    ne: विद्युतचुम्बकीय विकिरण
+    new: विद्युतचुम्बकिय विकिरण
+    nl: elektromagnetische straling
+    nn: elektromagnetisk stråling
+    oc: radiacion electromagnetica
+    om: madana elektrooloobilaa
+    pa: تابش الکترومغناطیسی
+    pcm: elektromagnetik radiashion
+    pl: promieniowanie elektromagnetyczne
+    pms: radiassion eletromagnética
+    pnb: الیکٹرومیگنیٹک ریڈیئیشن
+    ps: برېښنایي (الکترو) مقناطیسي وړانګې
+    pt: radiação eletromagnética
+    pt-br: radiação eletromagnética
+    rki: လျှပ်စစ်သံလိုက်
+    ro: radiație electromagnetică
+    ru: электромагнитное излучение
+    rue: електромаґнетічне жарїня
+    sco: electromagnetic radiation
+    sd: برقي مقناطيسي تابڪاري
+    se: elektromagnehtalaš suonjardeapmi
+    sh: elektromagnetsko zračenje
+    sk: elektromagnetické žiarenie
+    sl: elektromagnetno sevanje
+    smn: šleđgâmagneetlâš suonjârdem
+    sq: rrezatimi elektromagnetik
+    sr: електромагнетско зрачење
+    stq: elektromagnetiske Stroalenge
+    su: radiasi éléktromagnétik
+    sv: elektromagnetisk strålning
+    sw: mnururisho sumakuumeme
+    ta: மின்காந்தக் கதிர்வீச்சு
+    th: รังสีแม่เหล็กไฟฟ้า
+    tl: radyasyong elektromagnetiko
+    tok: suno
+    tr: elektromanyetik radyasyon
+    tt: электромагнит нурланышы
+    tyv: электромагниттиг херелдениишкин
+    udm: электромагнит тылси вӧлдон
+    ug: ئېلېكتر دولقۇنى
+    uk: електромагнітне випромінювання
+    ur: برقناطیسی اشعاع
+    uz: elektromagnit nurlanish
+    vep: elektromagnitsädegoičend
+    vi: bức xạ điện từ
+    vro: elektromagnetilinõ kirgämine
+    war: electromagnetic radiation
+    wuu: 电磁辐射
+    yi: עלעקטראמאגנעטישע שטראלונג
+    yue: 電磁輻射
+    zh: 电磁辐射
+    zh-cn: 电磁波
+    zh-hant: 電磁波
+    zh-tw: 電磁波
+    zu: IMiyonzi yeNzubawonga
 ---
-
 # [[Electromagnetic_Radiation]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_radiation,12969754|WD~Electromagnetic_radiation,12969754]] 

@@ -1,33 +1,86 @@
 ---
 aliases:
-  - hydrogen-like atom
-  - hydrogenic atom
-  - Hydrogen-like_Atom
-  - Hydrogen-like Atom
+- Atom bakhidrogen
+- Atomo hidrogenoide
+- Atomo idrogenoide
+- hidrogenoida atomo
+- Hidrojen benzeri atom
+- hydrogen-like atom
+- Hydrogen-like_Atom
+- hydrogenic atom
+- Hydrogénoïde
+- Idrogenoïd
+- Vandeniliškasis atomas
+- Vodonično podrobni atom
+- Vodíku podobný atom
+- wasserstoffähnliche Atome
+- àtom semblant a l'hidrogen
+- átomo hidrogenoide
+- átomu hidroxenoide
+- вадародападобны атам
+- Водневоподібний атом
+- водородоподобный атом
+- Ջրածնանման ատոմներ
+- ذرة شبيهة بالهيدروجين
+- হাইড্রোজেন সদৃশ পরমাণু
+- 水素原子におけるシュレーディンガー方程式の解
+- 类氢原子
+- 類氫原子
+- 수소형 원자
 has_id_wikidata: Q2333783
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-subclass_of: "[[_Standards/WikiData/WD~atom,9121]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+subclass_of: '[[_Standards/WikiData/WD~atom,9121]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]"
-    - "[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]"
-    - "[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]"
-    - "[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]"
-    - "[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]"
-    - "[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]"
-    - "[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]"
-    - "[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]"
+  - '[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]'
+  - '[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]'
+  - '[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]'
+  - '[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]'
+  - '[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]'
+  - '[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]'
+  - '[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]'
+  - '[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]"
-  - "[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]"
-  - "[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]"
-  - "[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]"
-  - "[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]"
-  - "[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]"
-  - "[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]"
-  - "[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]"
+- '[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]'
+- '[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]'
+- '[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]'
+- '[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]'
+- '[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]'
+- '[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]'
+- '[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]'
+- '[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]'
+dv_has_:
+  name_:
+    ar: ذرة شبيهة بالهيدروجين
+    ast: átomu hidroxenoide
+    be-tarask: вадародападобны атам
+    bn: হাইড্রোজেন সদৃশ পরমাণু
+    ca: àtom semblant a l'hidrogen
+    cs: Vodíku podobný atom
+    de: wasserstoffähnliche Atome
+    en: hydrogen-like atom
+    eo: hidrogenoida atomo
+    es: átomo hidrogenoide
+    eu: Atomo hidrogenoide
+    fr: Hydrogénoïde
+    hy: Ջրածնանման ատոմներ
+    id: Atom bakhidrogen
+    it: Atomo idrogenoide
+    ja: 水素原子におけるシュレーディンガー方程式の解
+    ko: 수소형 원자
+    lt: Vandeniliškasis atomas
+    oc: Idrogenoïd
+    pt: Átomo hidrogenoide
+    ru: водородоподобный атом
+    sr: Vodonično podrobni atom
+    tr: Hidrojen benzeri atom
+    uk: Водневоподібний атом
+    yue: 類氫原子
+    zh: 類氫原子
+    zh-hans: 类氢原子
+    zh-hant: 類氫原子
+    zh-hk: 類氫原子
 ---
-
 # [[Hydrogen-like_Atom]] 
 
 #is_/same_as :: [[WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]] 

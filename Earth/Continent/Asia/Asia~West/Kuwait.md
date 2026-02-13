@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 科威特国
 dv_UNTERM_French_Formal: l'État du Koweït
 dv_UNTERM_Russian: Кувейт
 dv_UNTERM_Russian_Formal: Государство Кувейт
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Kuwait]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Kuwait]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 285570
@@ -52,56 +52,446 @@ dv_ISO2: KW
 dv_ISO3: KWT
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
+  - '[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]'
 dv_has_:
   name_:
+    ab: Кувеит
+    ace: Kuwait
+    ady: Кувейт
+    aeb-arab: الكويت
+    af: Koeweit
+    am: ኩዌት
+    ami: Kuwait
+    an: Kuwait
+    ang: Cyƿait
+    ann: Kùwêt
+    anp: कुवैत
+    ar: الكويت
+    arc: ܟܘܘܝܬ
+    ary: لكويت
+    arz: الكويت
+    as: কুৱেইট
+    ast: Kuwait
+    av: Кувайт
+    awa: कुवेत
+    az: Küveyt
+    azb: کووئیت
+    ba: Күвейт
+    ban: Kuwait
+    bar: Kuwait
+    bcl: Kuwait
+    be: Кувейт
+    be-tarask: Кувэйт
+    bew: Kuwét
+    bg: Кувейт
+    bgn: کویت
+    bho: कुवैत
+    bi: Kuwait
+    bn: কুয়েত
+    bo: ཁུ་ཝི་ཐི།
+    bpy: কুয়েত
+    br: Koweit
+    bs: Kuvajt
+    bug: ᨀᨘᨓᨕᨗ
+    bxr: Кувейт
+    ca: Kuwait
+    cbk-zam: Kuwait
+    cdo: Kuwait
+    ce: Кувейт
+    ceb: Kuwait
+    ckb: کووەیت
+    crh: Küveyt
+    crh-latn: Küveyt
+    cs: Kuvajt
+    csb: Kùwejt
+    cv: Кувейт
+    cy: Coweit
+    da: Kuwait
+    dag: Kuwait
+    de: Kuwait
+    de-at: Kuwait
+    de-ch: Kuwait
+    diq: Kuweyt
+    dsb: Kuwait
+    dtp: Kuwait
+    dty: कुवेत
+    dv: ކުވެއިތު
+    dz: ཀུ་ཝེཊ་
+    el: Κουβέιτ
+    en: Kuwait
+    en-ca: Kuwait
+    en-gb: Kuwait
+    eo: Kuvajto
+    es: Kuwait
+    et: Kuveit
+    eu: Kuwait
+    ext: Kuwait
+    fa: کویت
+    ff: Kuwayti
+    fi: Kuwait
+    fo: Kuveit
+    fr: Koweït
+    frp: Koveyit
+    frr: Kuwait
+    fy: Koeweit
+    ga: Cuáit
+    gag: Kuveyt
+    gcr: Kowèyt
+    gd: Cubhait
+    gl: Kuwait
+    glk: کؤویت
+    gn: Kuáite
+    gom: कुवेत
+    gom-deva: कुवेत
+    gom-latn: Kuwait
+    gpe: Kuwait
+    gsw: Kuwait
+    gu: કુવૈત
+    gv: y Choowait
+    ha: Kuwait
+    hak: Kuwait
+    haw: Kuete
+    he: כווית
+    hi: कुवैत
+    hif: Kuwait
+    hr: Kuvajt
+    hsb: Kuwait
+    ht: Kowet
+    hu: Kuvait
+    hy: Քուվեյթ
+    hyw: Քուէյթ
+    ia: Kuwait
+    iba: Kuwait
+    id: Kuwait
+    ie: Kuwait
+    ilo: Kuwait
+    io: Kuwait
+    is: Kúveit
+    it: Kuwait
+    ja: クウェート
+    jam: Kuwiet
+    jbo: ku,uait
+    jv: Kuwait
+    ka: ქუვეითი
+    kaa: Kuvayt
+    kab: Lekwit
+    kbd: Кувейт
+    kbp: Kowɛtɩ
+    kg: Kuwait
+    kge: Kuwait
+    ki: Kuwait
+    kk: Кувейт
+    kk-cyrl: Кувейт
+    kl: Kuwait
+    km: គុយវ៉ែត
+    kn: ಕುವೈತ್
+    knc: Kuwait
+    ko: 쿠웨이트
+    krc: Кувейт
+    ks: کُویت
+    ks-arab: کُویت
+    ku: Kuweyt
+    kv: Кувейт
+    kw: Koweyt
+    ky: Кувейт
+    la: Cuvaitum
+    lad: Kuwait
+    lb: Kuwait
+    lez: Кувейт
+    lfn: Cuait
+    li: Koeweit
+    lij: Kuwait
+    lld: Cueit
+    lmo: Kuwait
+    ln: Koweit
+    lo: ປະເທດຄູເວດ
+    lrc: ولات کویت
+    lt: Kuveitas
+    lv: Kuveita
+    lzh: 科威特
+    mad: Kuwait
+    mai: कुवैत
+    mdf: Кувэйт
+    mg: Koety
+    mhr: Кувейт
+    mi: Kūweiti
+    min: Kuwait
+    mk: Кувајт
+    ml: കുവൈറ്റ്
+    mn: Кувейт
+    mni: ꯀꯨꯋꯩꯠ
+    mr: कुवेत
+    ms: Kuwait
+    ms-arab: کويت
+    mt: Kuwajt
+    my: ကူဝိတ်နိုင်ငံ
+    mzn: کوویت
+    na: Kuwait
+    nah: Kowait
+    nan: Kuwait
+    nb: Kuwait
+    nds: Kuwait
+    ne: कुवेत
+    new: कुवेत
+    nl: Koeweit
+    nn: Kuwait
+    nov: Kuwayt
+    nv: Tábąąh Bineʼ Naʼadziʼii Hahoodzo
+    oc: Kowait
+    olo: Kuveit
+    om: Kuweet
+    or: କୁଏତ
+    os: Кувейт
+    pa: ਕੁਵੈਤ
+    pam: Kuwait
+    pap: Kuwait
+    pi: कुवैत
+    pih: Kyuuwait
+    pl: Kuwejt
+    pms: Kuwait
+    pnb: کویت
+    ps: کوېټ
+    pt: Kuwait
+    pt-br: Kuwait
+    qu: Kuwait
+    rki: ကူဝိတ်နိုင်ငံ
+    rmy: Kuwait
+    ro: Kuweit
+    ru: Кувейт
+    rue: Кувейт
+    rw: Koweti
+    sa: कुवैत
+    sah: Кувейт
+    sat: ᱠᱩᱭᱮᱛ
+    sc: Kuwait
+    scn: Kuwait
+    sco: Kuwait
+    sd: ڪويت
+    se: Kuwait
+    sgs: Kovėits
+    sh: Kuvajt
+    shn: မိူင်းၶူႇဝဵတ်ႈ
+    si: කුවේට් රාජ්යය
+    sk: Kuvajt
+    skr: کویت
+    sl: Kuvajt
+    smn: Kuwait
+    sms: Kuwaitt
+    sn: Kuwait
+    so: Kuwayt
+    sq: Kuvajti
+    sr: Кувајт
+    sr-ec: Кувајт
+    sr-el: Kuvajt
+    ss: IKhuwathi
+    su: Kuwait
+    sv: Kuwait
+    sw: Kuwait
+    syl: ꠇꠥꠄꠔ
+    szl: Kuwejt
+    szy: Kuwait
+    ta: குவைத்
+    tay: Kuwait
+    tcy: ಕುವೈತ್
+    te: కువైట్
+    tet: Kuwait
+    tg: Кувайт
+    tg-cyrl: Кувайт
+    th: ประเทศคูเวต
+    tk: Kuweýt
+    tl: Kuwait
+    tly: Kuveyt
+    to: Kueiti
+    tok: ma Kuwasi
+    tpi: Kuwait
+    tr: Kuveyt
+    trv: Kuwait
+    tt: Күвәйт
+    tum: Kuwait
+    udm: Кувейт
+    ug: كۇۋەيت
+    uk: Кувейт
+    ur: کویت
+    uz: Quvayt
+    vec: Kuwait
+    vep: Kuveit
+    vi: Kuwait
+    vo: Kovätän
+    vro: Kuveit
+    war: Kuwait
+    wo: Kowet
+    wuu: 科威特
+    xal: Кувейтин Нутг
+    xmf: ქუვეითი
+    yi: קואווייט
+    yo: Kuwaiti
+    yue: 科威特
+    za: Kuwait
+    zea: Koeweit
+    zh: 科威特
+    zh-cn: 科威特
+    zh-hans: 科威特
+    zh-hant: 科威特
+    zh-hk: 科威特
+    zh-my: 科威特
+    zh-tw: 科威特
+    zu: i-Kuwait
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kuwait
 dv_has_name_de: Kuwait
 dv_Area-Total: 17818
 dv_Area-Land: 17820
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: KWT
-dv_Capital: "[[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]"
+dv_Capital: '[[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]'
 dv_Alcohol-l: 0.1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 48
 dv_has_place_latitude: 29.33
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
+- '[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Kuwait
-
 aliases:
-  - Kuwait
-  - Koweït
-  - الكويت
-  - 科威特
-  - Кувейт
-  - the State of Kuwait
-  - el Estado de Kuwait
+- Coweit
+- Cuait
+- Cubhait
+- Cueit
+- Cuvaitum
+- Cuáit
+- Cyƿait
+- el Estado de Kuwait
+- i-Kuwait
+- IKhuwathi
+- Koety
+- Koeweit
+- Koveyit
+- Kovätän
+- Kovėits
+- Kowait
+- Koweit
+- Kowet
+- Koweti
+- Koweyt
+- Koweït
+- Kowèyt
+- Kowɛtɩ
+- ku,uait
+- Kueiti
+- Kuete
+- Kuvait
+- Kuvajt
+- Kuvajti
+- Kuvajto
+- Kuvayt
+- Kuveit
+- Kuveita
+- Kuveitas
+- Kuveyt
+- Kuwait
+- Kuwaiti
+- Kuwaitt
+- Kuwajt
+- Kuwayt
+- Kuwayti
+- Kuweet
+- Kuweit
+- Kuwejt
+- Kuweyt
+- Kuweýt
+- Kuwiet
+- Kuwét
+- Kuáite
+- Kyuuwait
+- Kùwejt
+- Kùwêt
+- Kúveit
+- Küveyt
+- Kūweiti
+- Lekwit
+- ma Kuwasi
+- Quvayt
+- the State of Kuwait
+- Tábąąh Bineʼ Naʼadziʼii Hahoodzo
+- y Choowait
+- Κουβέιτ
+- Кувајт
+- Кувайт
+- Кувеит
+- Кувейт
+- Кувейтин Нутг
+- Кувэйт
+- Күвейт
+- Күвәйт
+- Քուէյթ
+- Քուվեյթ
+- כווית
+- קואווייט
+- الكويت
+- كۇۋەيت
+- لكويت
+- ولات کویت
+- کؤویت
+- کووئیت
+- کوویت
+- کووەیت
+- کويت
+- کویت
+- کوېټ
+- کُویت
+- ڪويت
+- ܟܘܘܝܬ
+- ކުވެއިތު
+- कुवेत
+- कुवैत
+- কুয়েত
+- কুৱেইট
+- ਕੁਵੈਤ
+- કુવૈત
+- କୁଏତ
+- குவைத்
+- కువైట్
+- ಕುವೈತ್
+- കുവൈറ്റ്
+- කුවේට් රාජ්යය
+- ประเทศคูเวต
+- ປະເທດຄູເວດ
+- ཀུ་ཝེཊ་
+- ཁུ་ཝི་ཐི།
+- ကူဝိတ်နိုင်ငံ
+- မိူင်းၶူႇဝဵတ်ႈ
+- ქუვეითი
+- ኩዌት
+- គុយវ៉ែត
+- ᨀᨘᨓᨕᨗ
+- ᱠᱩᱭᱮᱛ
+- クウェート
+- 科威特
+- ꠇꠥꠄꠔ
+- ꯀꯨꯋꯩꯠ
+- 쿠웨이트
 has_id_wikidata: Q817
 location:
-  - 29.33
-  - 48
+- 29.33
+- 48
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26942
 isDeleted: false
 confidential: public
@@ -109,206 +499,206 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Kuwait
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ar-KW
-  - en
+- ar-KW
+- en
 icon: flag-kw
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Saudi_Kuwaiti_Neutral_Zone,74091]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+- '[[_Standards/WikiData/WD~Saudi_Kuwaiti_Neutral_Zone,74091]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
 member_of:
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Kuwait,165545]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Kuwait,242927]]"
-anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Kuwait,311367]]"
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Kuwait,165545]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Kuwait,242927]]'
+anthem: '[[_Standards/WikiData/WD~National_Anthem_of_Kuwait,311367]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Al_Jahra_Governorate,405701]]"
-  - "[[_Standards/WikiData/WD~Al_Ahmadi_Governorate,552354]]"
-  - "[[_Standards/WikiData/WD~Hawalli,747432]]"
-  - "[[_Standards/WikiData/WD~Mubarak_Al-Kabeer_Governorate,913370]]"
-  - "[[_Standards/WikiData/WD~Capital_Governorate,1046645]]"
-  - "[[_Standards/WikiData/WD~Farwaniya_Governorate,1072757]]"
-replaces: "[[_Standards/WikiData/WD~Republic_of_Kuwait,868942]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Kuwait,1139228]]"
+- '[[_Standards/WikiData/WD~Al_Jahra_Governorate,405701]]'
+- '[[_Standards/WikiData/WD~Al_Ahmadi_Governorate,552354]]'
+- '[[_Standards/WikiData/WD~Hawalli,747432]]'
+- '[[_Standards/WikiData/WD~Mubarak_Al-Kabeer_Governorate,913370]]'
+- '[[_Standards/WikiData/WD~Capital_Governorate,1046645]]'
+- '[[_Standards/WikiData/WD~Farwaniya_Governorate,1072757]]'
+replaces: '[[_Standards/WikiData/WD~Republic_of_Kuwait,868942]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Kuwait,1139228]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Kuwait,1516511]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Kuwait,2604863]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Kuwait,2944396]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Kuwait,3138087]]"
-different_from: "[[_Standards/WikiData/WD~Koweït,3199414]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-highest_point: "[[_Standards/WikiData/WD~Mutla_Ridge,4116111]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Kuwait,12217491]]"
-head_of_government: "[[_Standards/WikiData/WD~Sabah_Al-Khalid_Al-Sabah,12219691]]"
-head_of_state: "[[_Standards/WikiData/WD~Mishal_Al-Ahmad_Al-Jaber_Al-Sabah,12243161]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Kuwait,14615821]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kuwait,16153589]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103921,27103921]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Kuwait,30100649]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~emir_of_Kuwait,100877419]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Kuwait,1516511]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Kuwait,2604863]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Kuwait,2944396]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Kuwait,3138087]]'
+different_from: '[[_Standards/WikiData/WD~Koweït,3199414]]'
+instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+highest_point: '[[_Standards/WikiData/WD~Mutla_Ridge,4116111]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Kuwait,12217491]]'
+head_of_government: '[[_Standards/WikiData/WD~Sabah_Al-Khalid_Al-Sabah,12219691]]'
+head_of_state: '[[_Standards/WikiData/WD~Mishal_Al-Ahmad_Al-Jaber_Al-Sabah,12243161]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kuwait,14615821]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Kuwait,16153589]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103921,27103921]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Kuwait,30100649]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~emir_of_Kuwait,100877419]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Asia_Kuwait,109528856]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+- '[[_Standards/WikiData/WD~Asia_Kuwait,109528856]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
+- '[[_Standards/WikiData/WD~Gulf_States,109647832]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293]]'
 coordinates_of_easternmost_point: Point(48.784722222 28.822777777)
 coordinates_of_southernmost_point: Point(47.70489 28.52445)
 official_name:
-  - دَولَةُ الكُوَيت
-  - Koweït
+- دَولَةُ الكُوَيت
+- Koweït
 BHCL_UUID: 913f1295-57f3-4e8a-afd9-aac0e295969f
 demonym:
-  - كويتي
-  - كويتية
-  - كويتيين
-  - كويتيات
-  - Kuvajtčan
-  - Kuvajtčanka
-  - Cuátach
-  - كويتية
-  - كويتيون
-  - kuwaitiana
-  - kuwaitianu
-  - কুয়েতি
-  - Kuvajtano
-  - Koweïtien
-  - Koweïtienne
-  - כוויתי
-  - כוויתית
-  - kuvaiti
-  - Kuwaitano
-  - kuwaitiana
-  - kuwaitiane
-  - kuwaitiani
-  - kuwaitiano
-  - cuaiti
-  - Koeweiter
-  - Koeweiti
-  - kuwaitian
-  - kuwaitiana
-  - kuwaitiane
-  - kuwaitiani
-  - Kovätänan
-  - كويتي
-  - Kuwaiti
+- كويتي
+- كويتية
+- كويتيين
+- كويتيات
+- Kuvajtčan
+- Kuvajtčanka
+- Cuátach
+- كويتية
+- كويتيون
+- kuwaitiana
+- kuwaitianu
+- কুয়েতি
+- Kuvajtano
+- Koweïtien
+- Koweïtienne
+- כוויתי
+- כוויתית
+- kuvaiti
+- Kuwaitano
+- kuwaitiana
+- kuwaitiane
+- kuwaitiani
+- kuwaitiano
+- cuaiti
+- Koeweiter
+- Koeweiti
+- kuwaitian
+- kuwaitiana
+- kuwaitiane
+- kuwaitiani
+- Kovätänan
+- كويتي
+- Kuwaiti
 ISNI: 404023410
 MeSH_tree_code: Z01.252.245.500.425
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-country: "[[_Standards/WikiData/WD~Kuwait,817]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+country: '[[_Standards/WikiData/WD~Kuwait,817]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 rural_population: 0
 unemployment_rate: 3
 marriageable_age:
-  - 15
-  - 17
+- 15
+- 17
 mains_voltage: 240
 BTI_Governance_Index:
-  - 4.3
-  - 3.94
-  - 4.29
-  - 4.37
-  - 4.38
-  - 4.52
-  - 4.86
+- 4.3
+- 3.94
+- 4.29
+- 4.37
+- 4.38
+- 4.52
+- 4.86
 BTI_Status_Index:
-  - 5.2
-  - 5.61
-  - 5.79
-  - 5.85
-  - 5.91
-  - 5.94
-  - 5.96
-  - 6.05
-lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
-capital: "[[_Standards/WikiData/WD~Kuwait_City,35178]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.kw,42672]]"
+- 5.2
+- 5.61
+- 5.79
+- 5.85
+- 5.91
+- 5.94
+- 5.96
+- 6.05
+lowest_point: '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
+capital: '[[_Standards/WikiData/WD~Kuwait_City,35178]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.kw,42672]]'
 Happy_Planet_Index_score: 33.3
 Democracy_Index: 3.91
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 ISO_3166_1_numeric_code: 414
 M49_code: 414
 language_used:
-  - "[[_Standards/WikiData/WD~Gulf_Arabic,56385]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+- '[[_Standards/WikiData/WD~Gulf_Arabic,56385]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
 Human_Development_Index: 0.831
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kuwait,62251]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Kuwait,62438]]"
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Kuwait,62251]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Kuwait,62438]]'
 birth_rate:
-  - 10.41
-  - 9.727
-  - 11.797
-  - 12.437
+- 10.41
+- 9.727
+- 11.797
+- 12.437
 total_fertility_rate: 2.105
 death_rate:
-  - 2.194
-  - 2.606
-  - 2.906
-  - 3.254
+- 2.194
+- 2.606
+- 2.906
+- 3.254
 population: 4464000
 OmegaWiki_Defined_Meaning: 8377
 GS1_country_code: 627
@@ -318,35 +708,35 @@ mobile_country_code: 419
 maritime_identification_digits: 447
 median_income: 40854
 urban_population:
-  - 4441100
-  - 4250114
-  - 4268873
-  - 4360444
+- 4441100
+- 4250114
+- 4268873
+- 4360444
 number_of_out_of_school_children: 49553
 life_expectancy: 74.694
 GitHub_topic: kuwait
-Unicode_character: 🇰🇼
+Unicode_character: "\U0001F1F0\U0001F1FC"
 Libris_URI: nl021sm606xg5sg
 Krugosvet_article: strany-mira/kuveyt
 Commons_gallery: الكويت / Kuwait
-short_name: 🇰🇼
+short_name: "\U0001F1F0\U0001F1FC"
 coordinates_of_westernmost_point: Point(46.55325 29.1012)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Kuwait.svg
 FIPS_10_4_countries_and_regions_: KU
 INSEE_countries_and_foreign_territories_code: 99240
 male_population:
-  - 2671060
-  - 2590695
-  - 2595948
-  - 2738222
+- 2671060
+- 2590695
+- 2595948
+- 2738222
 PM20_geo_code: B29
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg
 IOC_country_code: KUW
 female_population:
-  - 1659419
-  - 1672926
-  - 1689384
-  - 1702878
+- 1659419
+- 1672926
+- 1689384
+- 1702878
 ISO_3166_1_alpha_2_code: KW
 WIPO_ST_3: KW
 licence_plate_code: KWT
@@ -355,8 +745,8 @@ ITU_letter_code: KWT
 native_label: الكويت
 U_S_National_Archives_Identifier: 10035716
 nominal_GDP:
-  - 184558274289
-  - 136797422274
+- 184558274289
+- 136797422274
 coordinate_location: Point(47.6 29.166667)
 inception: 1991-02-26
 has_time_started: 1991-02-26
@@ -365,8 +755,8 @@ subreddit: Kuwait
 hashtag: Kuwait
 coordinates_of_northernmost_point: Point(47.5 30.1)
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Kuweit.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kuwait.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Kuweit.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kuwait.ogg
 Dewey_Decimal_Classification: 2--5367
 geoshape: http://commons.wikimedia.org/data/main/Data:Kuwait.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kuwait%20sunset%20banner.jpg
@@ -375,7 +765,6 @@ official_website: https://www.e.gov.kw/
 country_calling_code: 965
 CIVICUS_Monitor_country_entry: kuwait
 ---
-
 # [[Kuwait]] 
 
 ## [[Kuwait]] has Properties 

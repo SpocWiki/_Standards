@@ -1,28 +1,122 @@
 ---
 aliases:
+- arta poetică
+- költészettan
+- poetica
+- poetics
+- poetiikka
+- poetik
+- poetika
+- poetikk
+- poetiko
+- poetyka
+- poètega
+- poètica
+- poética
+- poétique
+- poëtica
+- Poëtika
+- poētika
+- thi pháp
+- Паэтыка
+- Поетика
+- Поэтика
+- Պոետիկա
+- פואטיקה
+- سخنشناسی
+- شعریات
+- فن شاعري
+- نظرية شعرية
+- काव्यशास्त्र
+- संस्कृतसाहित्यशास्त्रम्
+- ਕਾਵਿ ਸ਼ਾਸਤਰ
+- ಕಾವ್ಯಮೀಮಾಂಸೆ
+- 詩学
+- 詩論
+- 시학
 has_id_wikidata: Q835023
-different_from: "[[_Standards/WikiData/WD~Poetics,264714]]"
-subclass_of: "[[_Standards/WikiData/WD~literary_theory,459381]]"
+different_from: '[[_Standards/WikiData/WD~Poetics,264714]]'
+subclass_of: '[[_Standards/WikiData/WD~literary_theory,459381]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~versification,1930620]]"
-  - "[[_Standards/WikiData/WD~metrics,12796440]]"
+- '[[_Standards/WikiData/WD~versification,1930620]]'
+- '[[_Standards/WikiData/WD~metrics,12796440]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~literary_term,19610271]]"
-has_part_s_: "[[_Standards/WikiData/WD~descriptive_poetics,11820960]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~literary_term,19610271]]'
+has_part_s_: '[[_Standards/WikiData/WD~descriptive_poetics,11820960]]'
 Commons_category: Poetics
 Dewey_Decimal_Classification:
-  - "801.93"
-  - "808.1"
+- 801.93
+- 808.1
 Provenio_UUID: 8514681b-affa-4ef7-9c88-a1c979215351
+dv_has_:
+  name_:
+    anp: काव्यशास्त्र
+    ar: نظرية شعرية
+    ast: Poética
+    az: poetika
+    be: Паэтыка
+    be-tarask: паэтыка
+    bg: Поетика
+    ca: poètica
+    cs: poetika
+    cv: Поэтика
+    da: poetik
+    de: Poetik
+    en: poetics
+    eo: poetiko
+    es: poética
+    eu: poetika
+    fa: سخنشناسی
+    fi: poetiikka
+    fr: poétique
+    fy: Poëtika
+    gl: poética
+    he: פואטיקה
+    hi: काव्यशास्त्र
+    hr: Poetika
+    ht: Poetik
+    hu: költészettan
+    hy: Պոետիկա
+    io: Poetiko
+    it: poetica
+    ja: 詩学
+    kk: Поэтика
+    kn: ಕಾವ್ಯಮೀಮಾಂಸೆ
+    ko: 시학
+    ky: Поэтика
+    la: Poetica
+    lv: poētika
+    mk: поетика
+    nb: poetikk
+    nl: poëtica
+    pa: ਕਾਵਿ ਸ਼ਾਸਤਰ
+    pl: poetyka
+    pt: poética
+    ro: arta poetică
+    ru: поэтика
+    rue: поетика
+    sa: संस्कृतसाहित्यशास्त्रम्
+    sd: فن شاعري
+    sk: Poetika
+    sl: poetika
+    sr: поетика
+    sr-ec: поетика
+    sr-el: poetika
+    sv: poetik
+    uk: поетика
+    ur: شعریات
+    vec: poètega
+    vi: thi pháp
+    yue: 詩論
+    zh: 詩論
 ---
-
 # [[Poetics]] 
 
 #is_/same_as :: [[WD~Poetics,835023]] 

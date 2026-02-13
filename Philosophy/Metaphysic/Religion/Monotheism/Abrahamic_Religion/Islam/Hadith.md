@@ -1,31 +1,216 @@
 ---
 aliases:
+- Hadih
+- hadis
+- Hadisai
+- Hadisi
+- Hadit
+- Hadita
+- Hadith
+- Hadithi
+- Hadithi za Mtume Muhammad
+- hadito
+- Hadits
+- Hadiz
+- hadís
+- hadísz
+- Hadíth
+- hadíða
+- hadîth
+- hadīts
+- Hedis
+- Hedîs
+- hádice
+- Hádis
+- Hädis
+- hədis
+- Sèng-hùn
+- Xadiis
+- Ħadit
+- Χαντίθ
+- гадыс
+- Хадзіс
+- Хадис
+- Хьадис
+- хәдис
+- Хәҙистәр
+- Ҳадис
+- Հադիս
+- חדית'
+- حديث
+- حديث نبوى
+- حديث نبوي
+- حدیث
+- حدیٖث
+- فەرموودە
+- ھەدىس
+- ޙަދީޘް
+- हदीस
+- हादिथ
+- হাদিছ
+- হাদিস
+- ਹਦੀਸ
+- હદીસ
+- ஹதீஸ்
+- హదీసులు
+- ഹദീഥ്
+- หะดีษ
+- တမန်တော်မိဟမ္မဒ်၏ဟဒီးဆ်တော်
+- ჰადისი
+- ሀዲስ
+- Ḥadiz
+- Ḥadīth
+- Ḩadīth
+- ハディース
+- 圣训
+- 聖訓
+- 하디스
 has_id_wikidata: Q234343
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-different_from: "[[_Standards/WikiData/WD~Hadith_Qudsi,1220535]]"
-studied_by: "[[_Standards/WikiData/WD~science_of_hadith,2737409]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_hadith,4119903]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+different_from: '[[_Standards/WikiData/WD~Hadith_Qudsi,1220535]]'
+studied_by: '[[_Standards/WikiData/WD~science_of_hadith,2737409]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_hadith,4119903]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~group_of_works,17489659]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hadith,27281402]]"
-subclass_of: "[[_Standards/WikiData/WD~written_work,47461344]]"
-maintained_by: "[[_Standards/WikiData/WD~WikiProject_Hadith,125450119]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-significant_person: "[[_Standards/WikiData/WD~Muhammad,9458]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~group_of_works,17489659]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hadith,27281402]]'
+subclass_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
+maintained_by: '[[_Standards/WikiData/WD~WikiProject_Hadith,125450119]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+significant_person: '[[_Standards/WikiData/WD~Muhammad,9458]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hadith1.png
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/hadith
 Wolfram_Language_entity_code: Entity["Word", "hadith"]
 IPA_transcription: ħa.diːθ
 Commons_category: Hadith
 Library_of_Congress_Classification: KBP450
+dv_has_:
+  name_:
+    ace: Hadih
+    af: Hadit
+    am: ሀዲስ
+    ar: حديث نبوي
+    arz: حديث نبوى
+    as: হাদিছ
+    ast: Ḥadiz
+    az: hədis
+    azb: حدیث
+    ba: Хәҙистәр
+    bcl: Hadith
+    be: Хадзіс
+    be-tarask: гадыс
+    bg: Хадис
+    bn: হাদিস
+    br: Hadith
+    bs: Hadis
+    ca: hadit
+    ce: Хьадис
+    ckb: فەرموودە
+    cs: hadís
+    cy: Hadith
+    da: Hadith
+    de: Hadith
+    diq: Hedis
+    dv: ޙަދީޘް
+    el: Χαντίθ
+    en: hadith
+    eo: hadito
+    es: hadiz
+    et: Ḩadīth
+    eu: Hadith
+    fa: حدیث
+    fi: Hadith
+    fr: hadîth
+    fy: Hadith
+    gaa: Hadith
+    gl: Hadith
+    gpe: Hadith
+    gsw: Hadith
+    gu: હદીસ
+    ha: Hadisi
+    he: חדית'
+    hi: हदीस
+    hr: Hadis
+    hu: hadísz
+    hy: Հադիս
+    id: Hadis
+    is: hadíða
+    it: Hadíth
+    ja: ハディース
+    jv: Hadis
+    ka: ჰადისი
+    kaa: Hádis
+    kge: Hadits
+    kk: Хадис
+    ko: 하디스
+    ks: حدیٖث
+    ku: Hedîs
+    ky: Хадис
+    la: Hadit
+    lfn: Hadith
+    lmo: Ḥadīth
+    lt: Hadisai
+    lv: hadīts
+    lzh: 聖訓
+    mad: Hadis
+    mg: Hadita
+    min: Hadis
+    mk: хадис
+    ml: ഹദീഥ്
+    mr: हादिथ
+    ms: Hadis
+    mt: Ħadit
+    my: တမန်တော်မိဟမ္မဒ်၏ဟဒီးဆ်တော်
+    nan: Sèng-hùn
+    nb: hadith
+    nds: Hadith
+    nl: hadith
+    nn: hadíth
+    oc: Hadit
+    os: хадис
+    pa: ਹਦੀਸ
+    pl: Hadis
+    pnb: حدیث
+    ps: حديث
+    pt: hadith
+    pt-br: hádice
+    rmy: Hadis
+    ro: hadith
+    ru: хадис
+    sco: hadith
+    sd: حدیث
+    sh: Hadis
+    sl: hadit
+    so: Xadiis
+    sq: Hadithi
+    sr: Хадис
+    su: Hadis
+    sv: Hadith
+    sw: Hadithi za Mtume Muhammad
+    ta: ஹதீஸ்
+    te: హదీసులు
+    tg: Ҳадис
+    th: หะดีษ
+    tk: Hädis
+    tl: Hadiz
+    tr: hadis
+    tt: хәдис
+    tw: Hadith
+    ug: ھەدىس
+    uk: Хадис
+    ur: حدیث
+    uz: Hadis
+    vi: Hadith
+    wuu: 圣训
+    yue: 聖訓
+    zh: 聖訓
+    zh-hant: 聖訓
 ---
-
 # [[Hadith]] 
 
 #is_/same_as :: [[WD~Hadith,234343]] 

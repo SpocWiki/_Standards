@@ -1,48 +1,60 @@
 ---
 aliases:
-  - Ann Wilson
-  - Ann_Wilson
+- Ann Wilson
+- Ann Wilsonová
+- Ann_Wilson
+- Енн Вілсон
+- Энн Уилсон
+- Էն Ուիլսոն
+- אן וילסון
+- آن ويلسن
+- آن ویلسون
+- ان ویلسون
+- অ্যান উইলসন
+- アン・ウィルソン
+- 安·威爾森
+- 앤 윌슨
 has_id_wikidata: Q258053
 genre:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
-  - "[[_Standards/WikiData/WD~album-oriented_rock,428656]]"
-  - "[[_Standards/WikiData/WD~rock_music,11399]]"
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~album-oriented_rock,428656]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~Epic_Records,216364]]"
-  - "[[_Standards/WikiData/WD~Mushroom_Records,2299832]]"
-  - "[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]"
-sibling: "[[_Standards/WikiData/WD~Nancy_Wilson,263772]]"
-given_name: "[[_Standards/WikiData/WD~Ann,558067]]"
-member_of: "[[_Standards/WikiData/WD~Heart,941662]]"
-family_name: "[[_Standards/WikiData/WD~Wilson,1645480]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-educated_at: "[[_Standards/WikiData/WD~Sammamish_High_School,7409640]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-award_received: "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-different_from: "[[_Standards/WikiData/WD~Ann_Wilson,26809208]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~John_Bushrod_Wilson,123716378]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~San_Diego,16552]]"
-voice_type: "[[_Standards/WikiData/WD~soprano,30903]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Epic_Records,216364]]'
+- '[[_Standards/WikiData/WD~Mushroom_Records,2299832]]'
+- '[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]'
+sibling: '[[_Standards/WikiData/WD~Nancy_Wilson,263772]]'
+given_name: '[[_Standards/WikiData/WD~Ann,558067]]'
+member_of: '[[_Standards/WikiData/WD~Heart,941662]]'
+family_name: '[[_Standards/WikiData/WD~Wilson,1645480]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+educated_at: '[[_Standards/WikiData/WD~Sammamish_High_School,7409640]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+award_received: '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+different_from: '[[_Standards/WikiData/WD~Ann_Wilson,26809208]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~John_Bushrod_Wilson,123716378]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Diego,16552]]'
+voice_type: '[[_Standards/WikiData/WD~soprano,30903]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 57600
-  - 87349
+- 57600
+- 87349
 Commons_category: Ann Wilson
 work_period_start_: 1967-01-01T00:00:00Z
 name_in_native_language: Ann Wilson
 date_of_birth: 1950-06-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Wilson%20-%20Wacken%20Open%20Air%202022%2003.jpg
 official_website: https://annwilson.com
-ISNI: "0000000078397109"
+ISNI: 0000000078397109
 Plex_person_key: 5d776886308bca002032c491
 Europeana_entity: agent/base/63340
 Instagram_username: annwilson
@@ -50,8 +62,48 @@ X_Twitter_username: AnnWilson
 Facebook_username: annwilsonheart
 Wolfram_Language_entity_code: Entity["MusicAct", "AnnWilson::p8hhj"]
 birth_name: Ann Dustin Wilson
+dv_has_:
+  name_:
+    ar: آن ويلسن
+    arz: آن ويلسن
+    ast: Ann Wilson
+    azb: ان ویلسون
+    bn: অ্যান উইলসন
+    ca: Ann Wilson
+    cs: Ann Wilsonová
+    cy: Ann Wilson
+    da: Ann Wilson
+    de: Ann Wilson
+    en: Ann Wilson
+    es: Ann Wilson
+    fa: آن ویلسون
+    fi: Ann Wilson
+    fr: Ann Wilson
+    ga: Ann Wilson
+    he: אן וילסון
+    hu: Ann Wilson
+    hy: Էն Ուիլսոն
+    id: Ann Wilson
+    it: Ann Wilson
+    ja: アン・ウィルソン
+    ko: 앤 윌슨
+    mul: Ann Wilson
+    nb: Ann Wilson
+    nl: Ann Wilson
+    nn: Ann Wilson
+    pap: Ann Wilson
+    pl: Ann Wilson
+    pt: Ann Wilson
+    pt-br: Ann Wilson
+    ru: Энн Уилсон
+    sk: Ann Wilson
+    sl: Ann Wilson
+    sq: Ann Wilson
+    sv: Ann Wilson
+    tr: Ann Wilson
+    uk: Енн Вілсон
+    zh: 安·威爾森
 ---
-
 # [[Wilson,Ann]] 
 
 #is_/same_as :: [[WD~Ann_Wilson,258053]]

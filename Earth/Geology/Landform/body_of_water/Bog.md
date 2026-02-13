@@ -1,55 +1,214 @@
 ---
 aliases:
-  - bogland
-  - Bog
+- bahno
+- barje
+- Bog
+- bogland
+- bãi lầy
+- cors
+- Fean
+- Foan
+- jeaggi
+- Liūns
+- láp
+- Mire
+- mlaștină
+- Moor
+- mose
+- Muur
+- myr
+- Mýri
+- Mōr
+- Palus turfacea
+- Paul
+- Paya gambut
+- Pelkė
+- pluevie
+- portach
+- purvs
+- Rawa gambut
+- Rašelinisko
+- rašeliniště
+- So
+- soo
+- suo
+- Suu
+- Taouarc'heg
+- torbera
+- torbiera
+- Torbièra
+- torfejo
+- torfowisko otwarte
+- tourbière
+- tresetište
+- troufreye
+- turbalık
+- Turbeira
+- turbera
+- Turbiera
+- veen
+- vene
+- Zohikaztegi
+- τυρφώνας
+- Намаг
+- Саз
+- тарфянік
+- торф сазлыгы
+- торфо нюрвыл
+- торфове болото
+- торфяное болото
+- тресава
+- Тресавище
+- тресетиште
+- шымтезек батпағы
+- Һаҙлыҡ
+- Տորֆային հողեր
+- ביצת כבול
+- خاک باتلاقی
+- دلدل
+- دلدل (زمین)
+- مخثة
+- พรุ
+- 泥炭地
+- 酸性泥炭沼泽
+- 酸性泥炭沼澤
+- 酸沼
+- 수렁
 has_id_wikidata: Q1681353
 different_from:
-  - "[[_Standards/WikiData/WD~swamp,166735]]"
-  - "[[_Standards/WikiData/WD~fen,514050]]"
-  - "[[_Standards/WikiData/WD~raised_bog,3240227]]"
-  - "[[_Standards/WikiData/WD~peatland,36449705]]"
-  - "[[_Standards/WikiData/WD~marsh,30198]]"
+- '[[_Standards/WikiData/WD~swamp,166735]]'
+- '[[_Standards/WikiData/WD~fen,514050]]'
+- '[[_Standards/WikiData/WD~raised_bog,3240227]]'
+- '[[_Standards/WikiData/WD~peatland,36449705]]'
+- '[[_Standards/WikiData/WD~marsh,30198]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~wetland,170321]]"
-  - "[[_Standards/WikiData/WD~syntaxon,2471463]]"
+- '[[_Standards/WikiData/WD~wetland,170321]]'
+- '[[_Standards/WikiData/WD~syntaxon,2471463]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q26097353,26097353]]"
-studied_by: "[[_Standards/WikiData/WD~bog_ecology,104373905]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q26097353,26097353]]'
+studied_by: '[[_Standards/WikiData/WD~bog_ecology,104373905]]'
 OmegaWiki_Defined_Meaning: 2409
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Swimmers%20in%20Ohepalu%20bog%20pool%2C%20July%202021.webm
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ujujad%20Ohepalu%20j%C3%A4rve%20k%C3%B5rval%20asuvas%20laukas%202021.%20aasta%20juulis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eestis%20on%20soode%20s%C3%A4%C3%A4stmiseks%20sageli%20ehitatud%20laudteed.%202016.%20aastal%20Endla%20soos..jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nordland-bog-cloudberries.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ujujad%20Ohepalu%20j%C3%A4rve%20k%C3%B5rval%20asuvas%20laukas%202021.%20aasta%20juulis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eestis%20on%20soode%20s%C3%A4%C3%A4stmiseks%20sageli%20ehitatud%20laudteed.%202016.%20aastal%20Endla%20soos..jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nordland-bog-cloudberries.jpg
 P8189: 987007282539605100
 Commons_gallery: Bog
 Commons_category: Bogs
 GeoNames_feature_code: H.BOG
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]]"
-    - "[[/_Standards/Earth/Geology/Landform/body_of_water/Bog|Bog]]"
-    - "[[/_public/Earth/Geology/Landform/body_of_water/Bog.public|Bog.public]]"
-    - "[[/_internal/Earth/Geology/Landform/body_of_water/Bog.internal|Bog.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/body_of_water/Bog.protect|Bog.protect]]"
-    - "[[/_private/Earth/Geology/Landform/body_of_water/Bog.private|Bog.private]]"
-    - "[[/_personal/Earth/Geology/Landform/body_of_water/Bog.personal|Bog.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/body_of_water/Bog.secret|Bog.secret]]"
+  - '[[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]]'
+  - '[[/_Standards/Earth/Geology/Landform/body_of_water/Bog|Bog]]'
+  - '[[/_public/Earth/Geology/Landform/body_of_water/Bog.public|Bog.public]]'
+  - '[[/_internal/Earth/Geology/Landform/body_of_water/Bog.internal|Bog.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/body_of_water/Bog.protect|Bog.protect]]'
+  - '[[/_private/Earth/Geology/Landform/body_of_water/Bog.private|Bog.private]]'
+  - '[[/_personal/Earth/Geology/Landform/body_of_water/Bog.personal|Bog.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/body_of_water/Bog.secret|Bog.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]]"
-  - "[[/_Standards/Earth/Geology/Landform/body_of_water/Bog|Bog]]"
-  - "[[/_public/Earth/Geology/Landform/body_of_water/Bog.public|Bog.public]]"
-  - "[[/_internal/Earth/Geology/Landform/body_of_water/Bog.internal|Bog.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/body_of_water/Bog.protect|Bog.protect]]"
-  - "[[/_private/Earth/Geology/Landform/body_of_water/Bog.private|Bog.private]]"
-  - "[[/_personal/Earth/Geology/Landform/body_of_water/Bog.personal|Bog.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/body_of_water/Bog.secret|Bog.secret]]"
+- '[[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]]'
+- '[[/_Standards/Earth/Geology/Landform/body_of_water/Bog|Bog]]'
+- '[[/_public/Earth/Geology/Landform/body_of_water/Bog.public|Bog.public]]'
+- '[[/_internal/Earth/Geology/Landform/body_of_water/Bog.internal|Bog.internal]]'
+- '[[/_protect/Earth/Geology/Landform/body_of_water/Bog.protect|Bog.protect]]'
+- '[[/_private/Earth/Geology/Landform/body_of_water/Bog.private|Bog.private]]'
+- '[[/_personal/Earth/Geology/Landform/body_of_water/Bog.personal|Bog.personal]]'
+- '[[/_secret/Earth/Geology/Landform/body_of_water/Bog.secret|Bog.secret]]'
+dv_has_:
+  name_:
+    an: Turbera
+    ang: Mōr
+    ar: مخثة
+    ast: Turbera
+    ba: Һаҙлыҡ
+    be: тарфянік
+    be-tarask: тарфянік
+    bg: Тресавище
+    br: Taouarc'heg
+    ca: torbera
+    cs: rašeliniště
+    cy: cors
+    da: mose
+    de: Moor
+    de-ch: Moor
+    el: τυρφώνας
+    en: bog
+    en-ca: Mire
+    en-gb: mire
+    eo: torfejo
+    es: turbera
+    et: soo
+    eu: Zohikaztegi
+    fa: خاک باتلاقی
+    fi: suo
+    fr: tourbière
+    frr: Muur
+    fy: Fean
+    ga: portach
+    gl: Turbeira
+    ha: Bog
+    he: ביצת כבול
+    hr: tresetište
+    hsb: bahno
+    hu: láp
+    hy: Տորֆային հողեր
+    ia: Turbiera
+    id: Rawa gambut
+    is: Mýri
+    it: torbiera
+    ja: 泥炭地
+    kk: шымтезек батпағы
+    ko: 수렁
+    ky: Саз
+    la: Palus turfacea
+    lt: Pelkė
+    lv: purvs
+    mk: тресетиште
+    mn: Намаг
+    ms: Paya gambut
+    nb: myr
+    nds: Moor
+    nds-nl: vene
+    nl: veen
+    nn: myr
+    oc: Torbièra
+    pl: torfowisko otwarte
+    pnb: دلدل
+    pt: paul
+    pt-br: Paul
+    ro: mlaștină
+    ru: торфяное болото
+    se: jeaggi
+    sgs: Liūns
+    sk: Rašelinisko
+    sl: barje
+    sma: pluevie
+    sr: тресава
+    stq: Foan
+    sv: myr
+    th: พรุ
+    tr: turbalık
+    tt: торф сазлыгы
+    udm: торфо нюрвыл
+    uk: торфове болото
+    ur: دلدل (زمین)
+    vec: torbiera
+    vep: So
+    vi: bãi lầy
+    vro: Suu
+    wa: troufreye
+    wuu: 酸性泥炭沼泽
+    yue: 酸沼
+    zh: 酸性泥炭沼泽
+    zh-hant: 酸性泥炭沼澤
+    zh-tw: 酸性泥炭沼澤
 ---
-
 # [[Bog]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]] 

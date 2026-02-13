@@ -1,36 +1,127 @@
 ---
 aliases:
-  - Odia
-  - ଓଡ଼ିଆ
-  - Oṛiā
-  - Oriya
-  - lang-ori
+- bahasa Odia
+- Fiteny ôdià
+- Gjuha Odia
+- Icyoriya
+- isi-Odia
+- język orija
+- Kioriya
+- lang-ori
+- Lenga oriya
+- limba oriya
+- lingua orissensis
+- Lingua oriya
+- O-lî-â-ngî
+- Odia
+- Odia (pinulongan)
+- odia lingvo
+- Oirísis
+- oria keel
+- orija
+- Orija zyvon
+- orijakielâ
+- orijaǩiõll
+- oriju valoda
+- orijščina
+- orijų kalba
+- Oriya
+- Oriya bhasa
+- oriya dili
+- oriya jezici
+- Oriya simi
+- oriya tili
+- oriyeg
+- Oriyki
+- oriá
+- Oríja
+- Oṛiā
+- Salitan Oriya
+- tiếng Oriya
+- Tok Odia
+- toki Olija
+- urijština
+- uríjčina
+- Wikang Oriya
+- Γλώσσα Όντια
+- арыя
+- одиски јазик
+- Одия
+- орія
+- Ори
+- орија језик
+- Ориа хэл
+- ория
+- ория теле
+- Ория тили
+- Ория чӀал
+- Орыя
+- օրիա
+- אורייה
+- ئورىياچە
+- اودیا دیلی
+- اوریه
+- اوډيا ژبه
+- اُڑیا
+- اڑیہ
+- اڙيا ٻولي
+- اۆرِیا زَبان
+- زبان اوریه
+- زمانی ئۆدیا
+- لغة الأوريا
+- لغه الاوريا
+- उड़िया भाषा
+- उडिया भाषा
+- ओड़िआ भाषा
+- ओड़िया भाषा
+- ओडिया
+- ओडिया भाषा
+- ओरिया भास
+- উড়িয়া ভাষা
+- ওড়িয়া ঠার
+- ওড়িয়া ভাষা
+- ਉੜੀਆ
+- ઓડિયા ભાષા
+- ଓଡ଼ିଆ
+- ஒடியா மொழி
+- ఒరియా భాష
+- ಒರಿಯಾ
+- ഒഡിയ
+- ภาษาโอริยา
+- ཨོ་རི་ཡའི་སྐད།
+- ორია
+- ᱳᱰᱤᱭᱟ ᱯᱟ.ᱨᱥᱤ
+- オリヤー語
+- 奥里亚语
+- 奧里亞語
+- 歐利亞文
+- 오리야어
 has_id_wikidata: Q33810
 linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~language,34770]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
 writing_system: '[[_Standards/WikiData/WD~Odia,1760127]]'
 indigenous_to:
-  - '[[_Standards/WikiData/WD~Odia_people,1983634]]'
-  - '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
-  - '[[_Standards/WikiData/WD~Assam,1164]]'
-  - '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
-  - '[[_Standards/WikiData/WD~Jharkhand,1184]]'
-  - '[[_Standards/WikiData/WD~West_Bengal,1356]]'
-  - '[[_Standards/WikiData/WD~Odisha,22048]]'
+- '[[_Standards/WikiData/WD~Odia_people,1983634]]'
+- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
+- '[[_Standards/WikiData/WD~Assam,1164]]'
+- '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
+- '[[_Standards/WikiData/WD~Jharkhand,1184]]'
+- '[[_Standards/WikiData/WD~West_Bengal,1356]]'
+- '[[_Standards/WikiData/WD~Odisha,22048]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~Oriya_languages,7102899]]'
-  - '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
+- '[[_Standards/WikiData/WD~Oriya_languages,7102899]]'
+- '[[_Standards/WikiData/WD~Indo_Aryan,33577]]'
 different_from: '[[_Standards/WikiData/WD~Orya,7105295]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q36491176,36491176]]'
-  - '[[_Standards/WikiData/WD~Q61684535,61684535]]'
+- '[[_Standards/WikiData/WD~Q36491176,36491176]]'
+- '[[_Standards/WikiData/WD~Q61684535,61684535]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-  - '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 number_of_speakers_writers_or_signers: 34500000
 ABS_ASCL_2011_code: 5216
@@ -43,8 +134,8 @@ IETF_language_tag: or
 ISO_639_1_code: or
 WALS_lect_code: oya
 native_label:
-  - ଓଡ଼ିଆ
-  - ଓଡ଼ିଆ ଭାଷା
+- ଓଡ଼ିଆ
+- ଓଡ଼ିଆ ଭାଷା
 ISO_639_2_code: ori
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Oriyaspeakers.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%20%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE.wav
@@ -59,8 +150,139 @@ Ethnologue_com_language_code: ory
 ISO_639_3_code: ory
 GOST_7_75_97_code: ори 520
 Gujarati_Vishwakosh_entry: ઊડિયા-ભાષા-અને-સાહિત્ય
+dv_has_:
+  name_:
+    af: oriya
+    anp: उड़िया भाषा
+    ar: لغة الأوريا
+    arz: لغه الاوريا
+    as: ওড়িয়া ভাষা
+    ast: oriya
+    awa: ओड़िया भाषा
+    az: Oriya dili
+    azb: اودیا دیلی
+    ba: Ория теле
+    bcl: Odia
+    be: Орыя
+    be-tarask: арыя
+    bg: Одия
+    bho: ओडिया
+    bn: উড়িয়া ভাষা
+    bpy: ওড়িয়া ঠার
+    br: oriyeg
+    ca: oriya
+    ceb: Odia (pinulongan)
+    ckb: زمانی ئۆدیا
+    cs: urijština
+    cv: Ори
+    da: odia
+    de: Oriya
+    diq: Oriyki
+    dz: ཨོ་རི་ཡའི་སྐད།
+    el: Γλώσσα Όντια
+    en: Odia
+    eo: odia lingvo
+    es: oriya
+    et: oria keel
+    eu: odia
+    fa: زبان اوریه
+    fi: orija
+    fr: oriya
+    frr: Oriya
+    ga: Oirísis
+    gl: Lingua oriya
+    gom: ओरिया भास
+    gu: ઓડિયા ભાષા
+    ha: Odia
+    hak: O-lî-â-ngî
+    he: אורייה
+    hi: ओड़िआ भाषा
+    hif: Oriya bhasa
+    hr: oriya jezici
+    hu: orija
+    hy: օրիա
+    id: bahasa Odia
+    is: Oríja
+    it: oriya
+    ja: オリヤー語
+    ka: ორია
+    kaa: oriya tili
+    kge: Bahasa Odia
+    kn: ಒರಿಯಾ
+    ko: 오리야어
+    ks: اۆرِیا زَبان
+    kv: Ория
+    ky: Ория тили
+    la: lingua orissensis
+    lez: Ория чӀал
+    lt: orijų kalba
+    lv: oriju valoda
+    mai: उडिया भाषा
+    mg: Fiteny ôdià
+    mk: одиски јазик
+    ml: ഒഡിയ
+    mn: Ориа хэл
+    mr: ओडिया भाषा
+    ms: Bahasa Odia
+    mzn: اوریه
+    nb: oriya
+    ne: उडिया भाषा
+    new: उडिया भाषा
+    nl: Odia
+    nn: oriya
+    oc: oriya
+    or: ଓଡ଼ିଆ
+    pa: ਉੜੀਆ
+    pag: Salitan Oriya
+    pap: Odia
+    pl: język orija
+    pms: Lenga oriya
+    pnb: اُڑیا
+    ps: اوډيا ژبه
+    pt: oriá
+    qu: Oriya simi
+    ro: limba oriya
+    ru: ория
+    rw: Icyoriya
+    sa: ओडिया
+    sat: ᱳᱰᱤᱭᱟ ᱯᱟ.ᱨᱥᱤ
+    scn: oriya
+    sco: Odia
+    sd: اڙيا ٻولي
+    sh: Oriya
+    sk: uríjčina
+    sl: orijščina
+    smn: orijakielâ
+    sms: orijaǩiõll
+    sq: Gjuha Odia
+    sr: орија језик
+    sv: oriya
+    sw: Kioriya
+    ta: ஒடியா மொழி
+    te: ఒరియా భాష
+    th: ภาษาโอริยา
+    tl: Wikang Oriya
+    tly: Orija zyvon
+    tok: toki Olija
+    tpi: Tok Odia
+    tr: oriya dili
+    tt: ория теле
+    ug: ئورىياچە
+    uk: орія
+    ur: اڑیہ
+    uz: Oriya
+    vec: oriya
+    vi: tiếng Oriya
+    wuu: 奥里亚语
+    xmf: ორია
+    yue: 歐利亞文
+    zh: 奥里亚语
+    zh-cn: 奥里亚语
+    zh-hans: 奥里亚语
+    zh-hant: 奧里亞語
+    zh-tw: 奧里亞語
+    zu: isi-Odia
 ---
-
 # [[lang-ori]] 
 
 #is_/same_as :: [[WD~Odia,33810]] 

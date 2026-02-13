@@ -1,8 +1,116 @@
 ---
 has_id_wikidata: Q126826
+dv_has_:
+  name_:
+    ar: أيروسميث
+    arz: ايروسميث
+    ast: Aerosmith
+    az: Aerosmith
+    azb: اروسمیث
+    be: Aerosmith
+    be-tarask: Aerosmith
+    bg: Аеросмит
+    bn: অ্যারোস্মিথ
+    bs: Aerosmith
+    ca: Aerosmith
+    ceb: Aerosmith
+    cs: Aerosmith
+    da: Aerosmith
+    de: Aerosmith
+    el: Aerosmith
+    eml: Aerosmith
+    en: Aerosmith
+    en-gb: Aerosmith
+    eo: Aerosmith
+    es: Aerosmith
+    et: Aerosmith
+    eu: Aerosmith
+    fa: اروسمیث
+    fi: Aerosmith
+    fr: Aerosmith
+    ga: Aerosmith
+    gl: Aerosmith
+    gu: ઍરોસ્મિથ
+    he: אירוסמית'
+    hi: एरोस्मिथ
+    hr: Aerosmith
+    hu: Aerosmith
+    hy: Աերոսմիթ
+    id: Aerosmith
+    it: Aerosmith
+    ja: エアロスミス
+    jv: Aerosmith
+    ka: Aerosmith
+    kk: Aerosmith
+    ko: 에어로스미스
+    ky: Aerosmith
+    la: Aerosmith
+    lt: Aerosmith
+    lv: Aerosmith
+    mk: Aerosmith
+    ms: Aerosmith
+    mul: Aerosmith
+    nb: Aerosmith
+    ne: एरोस्मिथ
+    new: एरोस्मिथ
+    nl: Aerosmith
+    nn: Aerosmith
+    oc: Aerosmith
+    pl: Aerosmith
+    pms: Aerosmith
+    pt: Aerosmith
+    pt-br: Aerosmith
+    ro: Aerosmith
+    ru: Aerosmith
+    sc: Aerosmith
+    scn: Aerosmith
+    sco: Aerosmith
+    sh: Aerosmith
+    sk: Aerosmith
+    sl: Aerosmith
+    sq: Aerosmith
+    sr: Аеросмит
+    sr-ec: Аеросмит
+    sr-el: Aerosmit
+    sv: Aerosmith
+    ta: ஏரோஸ்மித்
+    th: แอโรสมิธ
+    tl: Aerosmith
+    tr: Aerosmith
+    uk: Aerosmith
+    uz: Aerosmith
+    vec: Aerosmith
+    vi: Aerosmith
+    wuu: 空中铁匠
+    xmf: Aerosmith
+    zh: 空中铁匠
+    zh-cn: 空中铁匠
+    zh-hans: 空中铁匠
+    zh-hant: 史密斯飛船
+    zh-hk: 史密夫飛船
+    zh-sg: 史密斯飞船
+    zh-tw: 史密斯飛船
+aliases:
+- Aerosmit
+- Aerosmith
+- Аеросмит
+- Աերոսմիթ
+- אירוסמית'
+- أيروسميث
+- اروسمیث
+- ايروسميث
+- एरोस्मिथ
+- অ্যারোস্মিথ
+- ઍરોસ્મિથ
+- ஏரோஸ்மித்
+- แอโรสมิธ
+- エアロスミス
+- 史密夫飛船
+- 史密斯飛船
+- 史密斯飞船
+- 空中铁匠
+- 에어로스미스
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Aerosmith** is an American rock band formed in Boston in 1970. 

@@ -1,27 +1,38 @@
 ---
 aliases:
+- Pong
+- Pong (video oyun, 1972)
+- Понг
+- פונג
+- بونج
+- بونغ
+- پونگ
+- ป็อง
+- ポン
+- 乓
+- 퐁
 has_id_wikidata: Q216293
-uses: "[[_Standards/WikiData/WD~analog_electronics,174925]]"
-collection: "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-platform: "[[_Standards/WikiData/WD~arcade_video_game_machine,192851]]"
+uses: '[[_Standards/WikiData/WD~analog_electronics,174925]]'
+collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+platform: '[[_Standards/WikiData/WD~arcade_video_game_machine,192851]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~arcade_video_game_machine,192851]]"
-  - "[[_Standards/WikiData/WD~video_game,7889]]"
-followed_by: "[[_Standards/WikiData/WD~Atari_2600,206261]]"
-copyright_holder: "[[_Standards/WikiData/WD~Atari,_Inc.,527336]]"
-designed_by: "[[_Standards/WikiData/WD~Allan_Alcorn,537592]]"
-creator: "[[_Standards/WikiData/WD~Allan_Alcorn,537592]]"
-genre: "[[_Standards/WikiData/WD~sports_video_game,868217]]"
-developer: "[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]"
-publisher: "[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~no_linguistic_content,22282939]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-game_mode: "[[_Standards/WikiData/WD~shared_splitscreen_multiplayer,61005756]]"
-different_from: "[[_Standards/WikiData/WD~table_tennis_video_game,71468383]]"
-inspired_by: "[[_Standards/WikiData/WD~table_tennis,3930]]"
-sport: "[[_Standards/WikiData/WD~table_tennis,3930]]"
-CPU: "[[_Standards/WikiData/WD~electronic_component,11653]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~arcade_video_game_machine,192851]]'
+- '[[_Standards/WikiData/WD~video_game,7889]]'
+followed_by: '[[_Standards/WikiData/WD~Atari_2600,206261]]'
+copyright_holder: '[[_Standards/WikiData/WD~Atari,_Inc.,527336]]'
+designed_by: '[[_Standards/WikiData/WD~Allan_Alcorn,537592]]'
+creator: '[[_Standards/WikiData/WD~Allan_Alcorn,537592]]'
+genre: '[[_Standards/WikiData/WD~sports_video_game,868217]]'
+developer: '[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]'
+publisher: '[[_Standards/WikiData/WD~Atari,_Inc.,13409231]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~no_linguistic_content,22282939]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+game_mode: '[[_Standards/WikiData/WD~shared_splitscreen_multiplayer,61005756]]'
+different_from: '[[_Standards/WikiData/WD~table_tennis_video_game,71468383]]'
+inspired_by: '[[_Standards/WikiData/WD~table_tennis,3930]]'
+sport: '[[_Standards/WikiData/WD~table_tennis,3930]]'
+CPU: '[[_Standards/WikiData/WD~electronic_component,11653]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Pong
 IMDb_keyword: pong
 subreddit: pong
@@ -30,8 +41,74 @@ publication_date: 1972-11-29T00:00:00Z
 title: Pong
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Pong-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Signed%20Pong%20Cabinet.jpg
+dv_has_:
+  name_:
+    ar: بونغ
+    arz: بونج
+    ast: Pong
+    az: Pong (video oyun, 1972)
+    bar: Pong
+    be: Pong
+    be-tarask: Pong
+    bew: Pong
+    bjn: Pong
+    ca: PONG
+    cs: Pong
+    cy: Pong
+    da: PONG
+    de: Pong
+    el: Pong
+    en: Pong
+    eo: Pong
+    es: Pong
+    et: Pong
+    eu: Pong
+    fa: پونگ
+    fi: PONG
+    fr: Pong
+    fy: Pong
+    gl: Pong
+    he: פונג
+    hr: Pong
+    hu: Pong
+    id: Pong
+    ig: Pong
+    is: Pong
+    it: PONG
+    ja: ポン
+    ka: Pong
+    ko: 퐁
+    lld: Pong
+    mk: Понг
+    ms: Pong
+    nb: Pong
+    nl: Pong
+    oc: Pong
+    pl: Pong
+    pms: Pong
+    pt: Pong
+    ro: Pong
+    ru: Pong
+    sh: Pong
+    sk: Pong
+    sl: Pong
+    sr: Понг
+    stq: Pong
+    sv: Pong
+    th: ป็อง
+    tr: Pong
+    uk: Pong
+    vi: Pong
+    wuu: 乓
+    yue: 乓
+    zh: 乓
+    zh-cn: 乓
+    zh-hans: 乓
+    zh-hant: 乓
+    zh-hk: 乓
+    zh-sg: 乓
+    zh-tw: 乓
 ---
-
 # [[Pong]] 
 
 #is_/same_as :: [[WD~Pong,216293]] 

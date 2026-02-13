@@ -1,66 +1,362 @@
 ---
 aliases:
-  - Statistik
-  - Statistics
+- Addadan (tussna)
+- amar
+- amkrraa
+- Estadistica
+- estadistika
+- Estadistiká
+- estadística
+- estatistica
+- estatistik
+- estatistika
+- estatística
+- Estatístika
+- Estaística
+- Hagfrøði
+- isaiyat
+- Istaatistiksii
+- istatistik
+- Izibalomininingo
+- Khipukamay
+- Kumuhana
+- papyrekokuaa
+- perangkaan
+- Samaɣ ñʊʊ tɩlʊʊ
+- Sjtatistiek
+- Stadegouriezh
+- staidreamh
+- Staitistearachd
+- Stateestics
+- Statistega
+- statistica
+- Statistiche
+- Statistics
+- statistică
+- statistiek
+- Statistiga
+- statistihke
+- statistihkka
+- statistiik
+- statistijjka
+- Statistik
+- statistika
+- Statistikis
+- statistikk
+- statistiko
+- statistique
+- Statistix
+- Statistyk
+- statisztika
+- Statystek
+- statystyka
+- statìstega
+- Statìstica
+- Statística
+- Statėstėka
+- Staydraa
+- Stetistiks
+- Takwimu
+- tatauranga
+- Thóng-kè-ha̍k
+- thống kê
+- tilastotiede
+- tölfræði
+- ystadegaeth
+- Ìsirò Statistiki
+- İstatistik
+- štatistika
+- στατιστική
+- Омор
+- статистикæ
+- статистика
+- статистике
+- статыстыка
+- Штатістіка
+- վիճակագրութիւն
+- Վիճակագրություն
+- סטאטיסטיק
+- סטטיסטיקה
+- آمار
+- إحصاء
+- ئامار
+- احصاء
+- اِسٽيٽسٽڪس
+- سرشمیرنه
+- سٹیٹ
+- ڤراڠکاءن
+- ތަފާސް ހިސާބު
+- तथ्यांक
+- तथ्याङ्क
+- संख्याशास्त्र
+- सांख्यिकी
+- পরিসংখ্যান
+- পৰিসংখ্যা
+- ਅੰਕੜਾ ਵਿਗਿਆਨ
+- ପରିସଂଖ୍ୟାନ
+- புள்ளியியல்
+- సంఖ్యా శాస్త్రం
+- ಸಂಖ್ಯಾಶಾಸ್ತ್ರ
+- സ്ഥിതിവിവരക്കണക്കുകൾ
+- සංඛ්යානය
+- สถิติศาสตร์
+- ສະຖິຕິສາດ
+- စာရင်းအင်း ပညာ
+- სტატისტიკა
+- የዝርዝር ሂሳብ
+- ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ
+- ⵜⴰⵙⵏⵎⴽⵜⴰ
+- 統計学
+- 統計學
+- 统计学
+- 통계학
 has_id_wikidata: Q12483
 Classification_of_Instructional_Programs_code:
-  - 27.0501
-  - 27.05
+- 27.0501
+- 27.05
 Commons_category: Statistics
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 different_from: '[[_Standards/WikiData/WD~statistic,1949963]]'
 GitHub_topic: statistics
 hashtag: statistics
 has_part_s_:
-  - '[[_Standards/WikiData/WD~descriptive_statistics,380344]]'
-  - '[[_Standards/WikiData/WD~inferential_statistics,28873772]]'
+- '[[_Standards/WikiData/WD~descriptive_statistics,380344]]'
+- '[[_Standards/WikiData/WD~inferential_statistics,28873772]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_statistics,1444687]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Normal%20Distribution.png
 instance_of: '[[_Standards/WikiData/WD~academic_major,4671286]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~probability_distribution,200726]]'
-  - '[[_Standards/WikiData/WD~statistical_data,35308049]]'
+- '[[_Standards/WikiData/WD~probability_distribution,200726]]'
+- '[[_Standards/WikiData/WD~statistical_data,35308049]]'
 learning_outcome:
-  - '[[_Standards/WikiData/WD~probability_concepts,117607427]]'
-  - '[[_Standards/WikiData/WD~Descriptive_statistics_concepts,117607986]]'
+- '[[_Standards/WikiData/WD~probability_concepts,117607427]]'
+- '[[_Standards/WikiData/WD~Descriptive_statistics_concepts,117607986]]'
 Library_of_Congress_Classification: QA276-QA280
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 MeSH_tree_code:
-  - E05.318.740
-  - H01.548.832
-  - N05.715.360.750
-  - N06.850.520.830
+- E05.318.740
+- H01.548.832
+- N05.715.360.750
+- N06.850.520.830
 OmegaWiki_Defined_Meaning: 3618
 part_of:
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
 practiced_by: '[[_Standards/WikiData/WD~statistician,2732142]]'
 social_media_followers: 535016
 Stack_Exchange_tag: https://math.stackexchange.com/tags/statistics
 studied_in: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~formal_science,816264]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~formal_science,816264]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
 subreddit: statistics
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Statistics,7222968]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Statistics,11013087]]'
 UMLS_CUI: C0038215
 U_S_National_Archives_Identifier:
-  - 10643325
-  - 10659134
+- 10643325
+- 10659134
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_statistics,7112738]]'
+dv_has_:
+  name_:
+    af: statistiek
+    am: የዝርዝር ሂሳብ
+    an: Estatistica
+    ar: إحصاء
+    as: পৰিসংখ্যা
+    ast: estadística
+    az: statistika
+    azb: آمار
+    ba: статистика
+    bcl: Estadistika
+    be: статыстыка
+    be-tarask: статыстыка
+    bew: Statistik
+    bg: Статистика
+    bi: Statistikis
+    bn: পরিসংখ্যান
+    br: Stadegouriezh
+    bs: Statistika
+    ca: estadística
+    cbk-zam: Estadistica
+    ckb: ئامار
+    co: Statistica
+    crh: isaiyat
+    cs: statistika
+    cv: Статистика
+    cy: ystadegaeth
+    da: statistik
+    de: Statistik
+    diq: İstatistik
+    dv: ތަފާސް ހިސާބު
+    el: στατιστική
+    en: statistics
+    en-ca: Statistics
+    en-gb: statistics
+    eo: statistiko
+    es: estadística
+    et: statistika
+    eu: estatistika
+    ext: Estaística
+    fa: آمار
+    fi: tilastotiede
+    fo: Hagfrøði
+    fr: statistique
+    frr: statistik
+    fur: Statistiche
+    fy: Statistyk
+    ga: staidreamh
+    gan: 統計學
+    gcr: Statistik
+    gd: Staitistearachd
+    gl: estatística
+    gn: papyrekokuaa
+    gsw: Statistik
+    gv: Staydraa
+    haw: Kumuhana
+    he: סטטיסטיקה
+    hi: सांख्यिकी
+    hif: amkrraa
+    hr: statistika
+    hsb: statistika
+    ht: estatistik
+    hu: statisztika
+    hy: Վիճակագրություն
+    hyw: վիճակագրութիւն
+    ia: statistica
+    iba: Statistik
+    id: statistika
+    io: statistiko
+    is: tölfræði
+    it: statistica
+    iu: ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ
+    ja: 統計学
+    jam: Statistix
+    jv: Statistika
+    ka: სტატისტიკა
+    kaa: statistika
+    kab: Addadan (tussna)
+    kbp: Samaɣ ñʊʊ tɩlʊʊ
+    kk: Статистика
+    kn: ಸಂಖ್ಯಾಶಾಸ್ತ್ರ
+    ko: 통계학
+    ku: amar
+    kw: Statystek
+    ky: Статистика
+    la: statistica
+    lad: estadistika
+    lb: Statistik
+    lfn: Statistica
+    li: Sjtatistiek
+    lij: Statistega
+    lmo: Statistega
+    lo: ສະຖິຕິສາດ
+    lt: statistika
+    lv: statistika
+    mad: Statistika
+    mg: Statistika
+    mhr: статистике
+    mi: tatauranga
+    mk: статистика
+    ml: സ്ഥിതിവിവരക്കണക്കുകൾ
+    mr: संख्याशास्त्र
+    ms: perangkaan
+    ms-arab: ڤراڠکاءن
+    mwl: Statística
+    my: စာရင်းအင်း ပညာ
+    nan: Thóng-kè-ha̍k
+    nb: statistikk
+    nds: Statistik
+    ne: तथ्याङ्क
+    new: तथ्यांक
+    nl: statistiek
+    nn: statistikk
+    oc: estatistica
+    om: Istaatistiksii
+    or: ପରିସଂଖ୍ୟାନ
+    os: статистикæ
+    pa: ਅੰਕੜਾ ਵਿਗਿਆਨ
+    pih: Stetistiks
+    pl: statystyka
+    pms: Statìstica
+    pnb: سٹیٹ
+    ps: سرشمیرنه
+    pt: estatística
+    pt-br: estatística
+    qu: Khipukamay
+    rki: စာရင်းအင်း ပညာ
+    ro: statistică
+    ru: статистика
+    rue: Штатістіка
+    scn: Statìstica
+    sco: Stateestics
+    sd: اِسٽيٽسٽڪس
+    se: statistihkka
+    sgs: Statėstėka
+    sh: Statistika
+    si: සංඛ්යානය
+    sje: statistijjka
+    sk: štatistika
+    sl: statistika
+    sma: statistihke
+    smj: statistihkka
+    smn: statistiik
+    sms: statistikk
+    sq: statistika
+    sr: статистика
+    sr-ec: статистика
+    sr-el: statistika
+    stq: Statistik
+    su: Statistik
+    sv: statistik
+    sw: Takwimu
+    ta: புள்ளியியல்
+    tcy: ಸಂಖ್ಯಾಶಾಸ್ತ್ರ
+    te: సంఖ్యా శాస్త్రం
+    tet: Estatístika
+    tg: Омор
+    th: สถิติศาสตร์
+    tk: Statistika
+    tl: estadistika
+    tr: istatistik
+    tt: статистика
+    tt-cyrl: статистика
+    udm: статистика
+    uk: статистика
+    ur: احصاء
+    uz: Statistika
+    vec: statìstega
+    vep: Statistik
+    vi: thống kê
+    vro: Statistiga
+    war: Estadistiká
+    wuu: 统计学
+    xmf: სტატისტიკა
+    yi: סטאטיסטיק
+    yo: Ìsirò Statistiki
+    yue: 統計學
+    zgh: ⵜⴰⵙⵏⵎⴽⵜⴰ
+    zh: 統計學
+    zh-cn: 统计学
+    zh-hans: 统计学
+    zh-hant: 統計學
+    zh-hk: 統計學
+    zh-mo: 統計學
+    zh-my: 统计学
+    zh-sg: 统计学
+    zh-tw: 統計學
+    zu: Izibalomininingo
 ---
-
 # [[Statistics]] 
 
 #is_/same_as :: [[../WikiData/WD~Statistics,12483|WD~Statistics,12483]] 

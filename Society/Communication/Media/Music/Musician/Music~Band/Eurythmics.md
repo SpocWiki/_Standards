@@ -1,8 +1,74 @@
 ---
 has_id_wikidata: Q207706
+dv_has_:
+  name_:
+    ar: يورتميكس
+    azb: یوریتمیکس
+    bg: Юритмикс
+    bs: Eurythmics
+    ca: Eurythmics
+    cs: Eurythmics
+    cy: Eurythmics
+    da: Eurythmics
+    de: Eurythmics
+    en: Eurythmics
+    eo: Eurythmics
+    es: Eurythmics
+    eu: Eurythmics
+    fa: یوریتمیکس
+    fi: Eurythmics
+    fr: Eurythmics
+    fy: Eurythmics
+    ga: Eurythmics
+    gl: Eurythmics
+    he: יורית'מיקס
+    hr: Eurythmics
+    hu: Eurythmics
+    id: Eurythmics
+    io: Eurythmics
+    it: Eurythmics
+    ja: ユーリズミックス
+    ka: Eurythmics
+    ko: 유리스믹스
+    ky: Eurythmics
+    lv: Eurythmics
+    mk: Eurythmics
+    ms: Eurythmics
+    mul: Eurythmics
+    nb: Eurythmics
+    nl: Eurythmics
+    nn: Eurythmics
+    oc: Eurythmics
+    pl: Eurythmics
+    pms: Eurythmics
+    pt: Eurythmics
+    ro: Eurythmics
+    ru: Eurythmics
+    sh: Eurhytmics
+    sk: Eurythmics
+    sl: Eurythmics
+    sr: Eurythmics
+    sv: Eurythmics
+    th: ยูรีธมิกส์
+    tr: Eurythmics
+    uk: Eurythmics
+    yue: Eurythmics
+    zh: 舞韻樂團
+    zh-cn: 舞韵合唱团
+    zh-hans: 舞韵合唱团
+aliases:
+- Eurhytmics
+- Eurythmics
+- Юритмикс
+- יורית'מיקס
+- يورتميكس
+- یوریتمیکس
+- ยูรีธมิกส์
+- ユーリズミックス
+- 舞韵合唱团
+- 舞韻樂團
+- 유리스믹스
 ---
-
-
 #has_/parts :: [[Eurythmics/Lennox,Annie]] 
 #has_/parts :: [[Eurythmics/Stewart,Dave]] 
 

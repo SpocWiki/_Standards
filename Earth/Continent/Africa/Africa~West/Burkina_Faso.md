@@ -1,201 +1,301 @@
 ---
 aliases:
-  - Burkina Faso
-  - بوركينا فاسو
-  - 布基纳法索
-  - Буркина-Фасо
-  - Burkina_Faso
+- Birkina Faso
+- Boerkiina Faso
+- Borkina Faso
+- Borkėna Fasos
+- Boukinafaso
+- Bourkina Fasso
+- Brukina Faso
+- Buirciona Faso
+- Buircíne Fasó
+- Bukina Faso
+- Bukinato
+- Burakina Faso
+- Burchina Fasu
+- Burcina Faso
+- Burkiina Faaso
+- Burkijnna Fásso
+- Burkina
+- Burkina Fasas
+- Burkina Faso
+- Burkina Fasu
+- Burkina Fasô
+- Burkina Paso
+- Burkina Phasu
+- Burkina-Faso
+- Burkinaa Faaso
+- Burkinaa Faasoo
+- Burkinabato
+- Burkinafaso
+- Burkina_Faso
+- Burkino
+- Burkino Faso
+- Burkinän
+- Burkîna Faso
+- Burnkina Faso
+- Burquina Faso
+- Burquina Fasso
+- Burquina Fasu
+- Burukina Faso
+- Buṛkina Faṣu
+- Bwrcina Ffaso
+- Bòrkinn-a Fäso
+- Bùrkina Faso
+- Bùrkínà Fasò
+- Búrkína Fasó
+- Bûrkina Faso
+- IBhukhina-Faso
+- IBukhina Faso
+- ma Pukinapaso
+- Purkina Fasoo
+- Pūkina
+- Vukína Fáso
+- Μπουρκίνα Φάσο
+- Буркіна Фасо
+- Буркіна-Фасо
+- Буркина Фасо
+- Буркина-Фасо
+- Буркинапасин Орн
+- Буркино-Фасо
+- Բուրկինա Ֆասո
+- Պուրքինա Ֆասօ
+- בורקינה פאסו
+- בורקינע פאסא
+- برکینا فاسو
+- برڪينا فاسو
+- بوركينا فاسو
+- بوركينا فاصو
+- بورکينا فاسو
+- بورکینا فاسۆ
+- بورکینا پاسو
+- بورکینافاسو
+- بۇركىنا فاسو
+- بۊرکينافاسؤ
+- ބުރުކީނާ ފާސޯ
+- ߓߙߎߞߌߣߊ߫ ߝߊ߬ߛߏ߫
+- बर्किना फासो
+- बर्कीना फासो
+- बुर्किना फासो
+- बुर्कीना फासो
+- बुर्कीना-फासो
+- বুর্কিনা ফাসো
+- ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ
+- બુર્કિના ફાસો
+- ବୁରକିନା ଫାସୋ
+- புர்க்கினா பாசோ
+- బర్కీనా ఫాసో
+- ಬುರ್ಕೀನ ಫಾಸೊ
+- ബർക്കിനാ ഫാസോ
+- බර්කිනා ෆාසෝ
+- ประเทศบูร์กินาฟาโซ
+- ປະເທດບວກກິນາຟາໂຊ
+- བུར་ཀི་ན་ཕ་སོ།
+- ဘာကီးနားဖားဆိုနိုင်ငံ
+- မိူင်းပူႇၵီႇၼႃးၾႃးသူဝ်ႇ
+- ბურკინა-ფასო
+- ቡርኪና ፋሶ
+- ᏋᎩᎾ ᏩᏐ
+- ᱵᱩᱨᱠᱤᱱᱟ ᱯᱷᱟᱥᱳ
+- ⴱⵓⵔⴽⵉⵏⴰ ⴼⴰⵙⵓ
+- ブルキナファソ
+- 布吉納法索
+- 布基納法索
+- 布基纳法索
+- ꠛꠥꠞꠇꠤꠘꠣ ꠙꠣꠌꠅ
+- ꯕꯨꯔꯀꯤꯅꯥ ꯐꯥꯁꯣ
+- 부르키나파소
 has_id_wikidata: Q965
-highest_point: "[[_Standards/WikiData/WD~Mount_Tenakourou,116675]]"
+highest_point: '[[_Standards/WikiData/WD~Mount_Tenakourou,116675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Conseil_de_l'Entente,945574]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~OHADA,2029901]]"
-  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Burkina_Faso,134252]]"
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- "[[_Standards/WikiData/WD~Conseil_de_l'Entente,945574]]"
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Burkina_Faso,134252]]'
 replaces:
-  - "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Upper_Volta,797422]]"
-  - "[[_Standards/WikiData/WD~Emirate_of_Liptako,58053082]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Burkina_Faso,235906]]"
+- '[[_Standards/WikiData/WD~French_West_Africa,210682]]'
+- '[[_Standards/WikiData/WD~Republic_of_Upper_Volta,797422]]'
+- '[[_Standards/WikiData/WD~Emirate_of_Liptako,58053082]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Burkina_Faso,235906]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Sud-Ouest_Region,429149]]"
-  - "[[_Standards/WikiData/WD~Nord_Region,502320]]"
-  - "[[_Standards/WikiData/WD~Centre,515655]]"
-  - "[[_Standards/WikiData/WD~Boucle_du_Mouhoun_Region,527093]]"
-  - "[[_Standards/WikiData/WD~Centre-Est_Region,543006]]"
-  - "[[_Standards/WikiData/WD~Sahel_Region,665514]]"
-  - "[[_Standards/WikiData/WD~Hauts-Bassins_Region,845303]]"
-  - "[[_Standards/WikiData/WD~Cascades_Region,850043]]"
-  - "[[_Standards/WikiData/WD~Centre-Nord_Region,850064]]"
-  - "[[_Standards/WikiData/WD~Centre-Ouest_Region,850075]]"
-  - "[[_Standards/WikiData/WD~Est_Region,850088]]"
-  - "[[_Standards/WikiData/WD~Centre-Sud_Region,853405]]"
-  - "[[_Standards/WikiData/WD~Plateau-Central_Region,862606]]"
-anthem: "[[_Standards/WikiData/WD~Une_Seule_Nuit,464551]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Burkina_Faso,619238]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
+- '[[_Standards/WikiData/WD~Sud-Ouest_Region,429149]]'
+- '[[_Standards/WikiData/WD~Nord_Region,502320]]'
+- '[[_Standards/WikiData/WD~Centre,515655]]'
+- '[[_Standards/WikiData/WD~Boucle_du_Mouhoun_Region,527093]]'
+- '[[_Standards/WikiData/WD~Centre-Est_Region,543006]]'
+- '[[_Standards/WikiData/WD~Sahel_Region,665514]]'
+- '[[_Standards/WikiData/WD~Hauts-Bassins_Region,845303]]'
+- '[[_Standards/WikiData/WD~Cascades_Region,850043]]'
+- '[[_Standards/WikiData/WD~Centre-Nord_Region,850064]]'
+- '[[_Standards/WikiData/WD~Centre-Ouest_Region,850075]]'
+- '[[_Standards/WikiData/WD~Est_Region,850088]]'
+- '[[_Standards/WikiData/WD~Centre-Sud_Region,853405]]'
+- '[[_Standards/WikiData/WD~Plateau-Central_Region,862606]]'
+anthem: '[[_Standards/WikiData/WD~Une_Seule_Nuit,464551]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Burkina_Faso,619238]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Konan,820496]]"
-  - "[[_Standards/WikiData/WD~Bacău,10737004]]"
-  - "[[_Standards/WikiData/WD~Allier,3113]]"
-currency: "[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]"
-lowest_point: "[[_Standards/WikiData/WD~Black_Volta,1256528]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Burkina_Faso,1340756]]"
+- '[[_Standards/WikiData/WD~Konan,820496]]'
+- '[[_Standards/WikiData/WD~Bacău,10737004]]'
+- '[[_Standards/WikiData/WD~Allier,3113]]'
+currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]'
+lowest_point: '[[_Standards/WikiData/WD~Black_Volta,1256528]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Burkina_Faso,1340756]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
 office_held_by_head_of_state:
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
-  - "[[_Standards/WikiData/WD~President_of_Burkina_Faso,20995488]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Burkina_Faso,1483810]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Burkina_Faso,2477575]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Burkina_Faso,3007324]]"
+- '[[_Standards/WikiData/WD~military_leader,1402561]]'
+- '[[_Standards/WikiData/WD~President_of_Burkina_Faso,20995488]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Burkina_Faso,1483810]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Burkina_Faso,2477575]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Burkina_Faso,3007324]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Lyélé,3089032]]"
-  - "[[_Standards/WikiData/WD~Jamsai_Dogon,3913290]]"
-  - "[[_Standards/WikiData/WD~Bolon,3913301]]"
-  - "[[_Standards/WikiData/WD~Doghose,3913314]]"
-  - "[[_Standards/WikiData/WD~Winye,3913360]]"
-  - "[[_Standards/WikiData/WD~Khisa,3913955]]"
-  - "[[_Standards/WikiData/WD~Kalamsé,3914000]]"
-  - "[[_Standards/WikiData/WD~Khe,3914015]]"
-  - "[[_Standards/WikiData/WD~Samwe,3914052]]"
-  - "[[_Standards/WikiData/WD~Tyefo,3914874]]"
-  - "[[_Standards/WikiData/WD~Sininkere,3914896]]"
-  - "[[_Standards/WikiData/WD~Tamasheq,4670066]]"
-  - "[[_Standards/WikiData/WD~Kpee,6435722]]"
-  - "[[_Standards/WikiData/WD~Paleni,7127118]]"
-  - "[[_Standards/WikiData/WD~Pana,7129739]]"
-  - "[[_Standards/WikiData/WD~Kisamo-Maya,10950421]]"
-  - "[[_Standards/WikiData/WD~Dzùùngoo,10973260]]"
-  - "[[_Standards/WikiData/WD~Kisamo-Matya,10974879]]"
-  - "[[_Standards/WikiData/WD~Southern_Bobo_Madaré,11001714]]"
-  - "[[_Standards/WikiData/WD~Northern_Dagara,11004218]]"
-  - "[[_Standards/WikiData/WD~Jalkunan,11009787]]"
-  - "[[_Standards/WikiData/WD~Northern_Nuni,11016572]]"
-  - "[[_Standards/WikiData/WD~Laalaa_Bwamu,11017275]]"
-  - "[[_Standards/WikiData/WD~Sissala,11020264]]"
-  - "[[_Standards/WikiData/WD~Tomo_Kan_Dogon,11137719]]"
-  - "[[_Standards/WikiData/WD~Malba_Birifor,11150710]]"
-  - "[[_Standards/WikiData/WD~Cwi_Bwamu,11150714]]"
-  - "[[_Standards/WikiData/WD~Southern_Nuni,11152248]]"
-  - "[[_Standards/WikiData/WD~Dagaari_Dioula,11153465]]"
-  - "[[_Standards/WikiData/WD~Northern_Toussian,11155635]]"
-  - "[[_Standards/WikiData/WD~Southern_Toussian,11158982]]"
-  - "[[_Standards/WikiData/WD~Western_Niger_Fulfulde,12952430]]"
-  - "[[_Standards/WikiData/WD~Moba,19921578]]"
-  - "[[_Standards/WikiData/WD~Southern_Samo,33122730]]"
-  - "[[_Standards/WikiData/WD~Bissa,32934]]"
-  - "[[_Standards/WikiData/WD~Berba,34961]]"
-  - "[[_Standards/WikiData/WD~Bomu,35065]]"
-  - "[[_Standards/WikiData/WD~Cerma,35074]]"
-  - "[[_Standards/WikiData/WD~Bwamu,35157]]"
-  - "[[_Standards/WikiData/WD~Senara,35210]]"
-  - "[[_Standards/WikiData/WD~Gurene,35331]]"
-  - "[[_Standards/WikiData/WD~Dogoso,35343]]"
-  - "[[_Standards/WikiData/WD~Dyan,35340]]"
-  - "[[_Standards/WikiData/WD~Northern_Bobo_Madaré,35371]]"
-  - "[[_Standards/WikiData/WD~Gourmanchéma,35474]]"
-  - "[[_Standards/WikiData/WD~Humburi_Senni,35486]]"
-  - "[[_Standards/WikiData/WD~Kasem,35552]]"
-  - "[[_Standards/WikiData/WD~Koromfe,35701]]"
-  - "[[_Standards/WikiData/WD~Kusaal,35708]]"
-  - "[[_Standards/WikiData/WD~Kar,35716]]"
-  - "[[_Standards/WikiData/WD~Lobi,35807]]"
-  - "[[_Standards/WikiData/WD~Nanerigé,36002]]"
-  - "[[_Standards/WikiData/WD~Marka,36030]]"
-  - "[[_Standards/WikiData/WD~Mooré,36096]]"
-  - "[[_Standards/WikiData/WD~Natioro,36140]]"
-  - "[[_Standards/WikiData/WD~Siamou,36252]]"
-  - "[[_Standards/WikiData/WD~Sembla,36274]]"
-  - "[[_Standards/WikiData/WD~Puguli,36375]]"
-  - "[[_Standards/WikiData/WD~Lorhon,36467]]"
-  - "[[_Standards/WikiData/WD~Syer-Tenyer,36601]]"
-  - "[[_Standards/WikiData/WD~Turka,36643]]"
-  - "[[_Standards/WikiData/WD~Vyemo,36912]]"
-  - "[[_Standards/WikiData/WD~Zarma,36990]]"
-  - "[[_Standards/WikiData/WD~Sucite,56787]]"
-  - "[[_Standards/WikiData/WD~Kaansa,56802]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dioula,32706]]"
+- '[[_Standards/WikiData/WD~Lyélé,3089032]]'
+- '[[_Standards/WikiData/WD~Jamsai_Dogon,3913290]]'
+- '[[_Standards/WikiData/WD~Bolon,3913301]]'
+- '[[_Standards/WikiData/WD~Doghose,3913314]]'
+- '[[_Standards/WikiData/WD~Winye,3913360]]'
+- '[[_Standards/WikiData/WD~Khisa,3913955]]'
+- '[[_Standards/WikiData/WD~Kalamsé,3914000]]'
+- '[[_Standards/WikiData/WD~Khe,3914015]]'
+- '[[_Standards/WikiData/WD~Samwe,3914052]]'
+- '[[_Standards/WikiData/WD~Tyefo,3914874]]'
+- '[[_Standards/WikiData/WD~Sininkere,3914896]]'
+- '[[_Standards/WikiData/WD~Tamasheq,4670066]]'
+- '[[_Standards/WikiData/WD~Kpee,6435722]]'
+- '[[_Standards/WikiData/WD~Paleni,7127118]]'
+- '[[_Standards/WikiData/WD~Pana,7129739]]'
+- '[[_Standards/WikiData/WD~Kisamo-Maya,10950421]]'
+- '[[_Standards/WikiData/WD~Dzùùngoo,10973260]]'
+- '[[_Standards/WikiData/WD~Kisamo-Matya,10974879]]'
+- '[[_Standards/WikiData/WD~Southern_Bobo_Madaré,11001714]]'
+- '[[_Standards/WikiData/WD~Northern_Dagara,11004218]]'
+- '[[_Standards/WikiData/WD~Jalkunan,11009787]]'
+- '[[_Standards/WikiData/WD~Northern_Nuni,11016572]]'
+- '[[_Standards/WikiData/WD~Laalaa_Bwamu,11017275]]'
+- '[[_Standards/WikiData/WD~Sissala,11020264]]'
+- '[[_Standards/WikiData/WD~Tomo_Kan_Dogon,11137719]]'
+- '[[_Standards/WikiData/WD~Malba_Birifor,11150710]]'
+- '[[_Standards/WikiData/WD~Cwi_Bwamu,11150714]]'
+- '[[_Standards/WikiData/WD~Southern_Nuni,11152248]]'
+- '[[_Standards/WikiData/WD~Dagaari_Dioula,11153465]]'
+- '[[_Standards/WikiData/WD~Northern_Toussian,11155635]]'
+- '[[_Standards/WikiData/WD~Southern_Toussian,11158982]]'
+- '[[_Standards/WikiData/WD~Western_Niger_Fulfulde,12952430]]'
+- '[[_Standards/WikiData/WD~Moba,19921578]]'
+- '[[_Standards/WikiData/WD~Southern_Samo,33122730]]'
+- '[[_Standards/WikiData/WD~Bissa,32934]]'
+- '[[_Standards/WikiData/WD~Berba,34961]]'
+- '[[_Standards/WikiData/WD~Bomu,35065]]'
+- '[[_Standards/WikiData/WD~Cerma,35074]]'
+- '[[_Standards/WikiData/WD~Bwamu,35157]]'
+- '[[_Standards/WikiData/WD~Senara,35210]]'
+- '[[_Standards/WikiData/WD~Gurene,35331]]'
+- '[[_Standards/WikiData/WD~Dogoso,35343]]'
+- '[[_Standards/WikiData/WD~Dyan,35340]]'
+- '[[_Standards/WikiData/WD~Northern_Bobo_Madaré,35371]]'
+- '[[_Standards/WikiData/WD~Gourmanchéma,35474]]'
+- '[[_Standards/WikiData/WD~Humburi_Senni,35486]]'
+- '[[_Standards/WikiData/WD~Kasem,35552]]'
+- '[[_Standards/WikiData/WD~Koromfe,35701]]'
+- '[[_Standards/WikiData/WD~Kusaal,35708]]'
+- '[[_Standards/WikiData/WD~Kar,35716]]'
+- '[[_Standards/WikiData/WD~Lobi,35807]]'
+- '[[_Standards/WikiData/WD~Nanerigé,36002]]'
+- '[[_Standards/WikiData/WD~Marka,36030]]'
+- '[[_Standards/WikiData/WD~Mooré,36096]]'
+- '[[_Standards/WikiData/WD~Natioro,36140]]'
+- '[[_Standards/WikiData/WD~Siamou,36252]]'
+- '[[_Standards/WikiData/WD~Sembla,36274]]'
+- '[[_Standards/WikiData/WD~Puguli,36375]]'
+- '[[_Standards/WikiData/WD~Lorhon,36467]]'
+- '[[_Standards/WikiData/WD~Syer-Tenyer,36601]]'
+- '[[_Standards/WikiData/WD~Turka,36643]]'
+- '[[_Standards/WikiData/WD~Vyemo,36912]]'
+- '[[_Standards/WikiData/WD~Zarma,36990]]'
+- '[[_Standards/WikiData/WD~Sucite,56787]]'
+- '[[_Standards/WikiData/WD~Kaansa,56802]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dioula,32706]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Ouagadougou,4689520]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Burkina_Faso,7112215]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Burkina_Faso,14615137]]"
+- '[[_Standards/WikiData/WD~Africa_Ouagadougou,4689520]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Burkina_Faso,7112215]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Burkina_Faso,14615137]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~Patriote,25424534]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~Patriote,25424534]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~17,25648842]]"
-  - "[[_Standards/WikiData/WD~18,25648843]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Burkina_Faso,28133105]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Burkina_Faso,97143579]]"
-executive_body: "[[_Standards/WikiData/WD~Patriotic_Movement_for_Safeguard_and_Restoration,110666433]]"
-head_of_state: "[[_Standards/WikiData/WD~Ibrahim_Traoré,114341246]]"
-head_of_government: "[[_Standards/WikiData/WD~Apollinaire_Joachim_Kyélem_de_Tambèla,114835874]]"
-studied_in: "[[_Standards/WikiData/WD~Burkina_Faso_studies,115669827]]"
+- '[[_Standards/WikiData/WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Burkina_Faso,28133105]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Burkina_Faso,97143579]]'
+executive_body: '[[_Standards/WikiData/WD~Patriotic_Movement_for_Safeguard_and_Restoration,110666433]]'
+head_of_state: '[[_Standards/WikiData/WD~Ibrahim_Traoré,114341246]]'
+head_of_government: '[[_Standards/WikiData/WD~Apollinaire_Joachim_Kyélem_de_Tambèla,114835874]]'
+studied_in: '[[_Standards/WikiData/WD~Burkina_Faso_studies,115669827]]'
 demonym:
-  - Burkinabé
-  - بورتوريكي
-  - بورتوريكية
-  - burkinés
-  - burkinesa
-  - Burkinès
-  - burkiner
-  - Burkinabè
-  - Burkinano
-  - בורקינאי
-  - בורקינאית
-  - Burkina Fasó-i
-  - burkinabè
-  - burcinabe
-  - burkinez
-  - burkineză
-  - burkinezi
-  - burkinabè
-  - burkineza
-  - burkineze
-  - burkinezi
-  - burkinezo
-  - Burkinänan
-  - بوركيني
-  - بوركينية
-  - بوركينيين
-  - بوركينيات
-  - Burkinabe
-  - Burkinabè
-  - بورتوريكيون
+- Burkinabé
+- بورتوريكي
+- بورتوريكية
+- burkinés
+- burkinesa
+- Burkinès
+- burkiner
+- Burkinabè
+- Burkinano
+- בורקינאי
+- בורקינאית
+- Burkina Fasó-i
+- burkinabè
+- burcinabe
+- burkinez
+- burkineză
+- burkinezi
+- burkinabè
+- burkineza
+- burkineze
+- burkinezi
+- burkinezo
+- Burkinänan
+- بوركيني
+- بوركينية
+- بوركينيين
+- بوركينيات
+- Burkinabe
+- Burkinabè
+- بورتوريكيون
 geoshape: http://commons.wikimedia.org/data/main/Data:Burkina+Faso.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/BFA%20orthographic.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A8%D9%88%D8%B1%D9%83%D9%8A%D9%86%D8%A7%20%D9%81%D8%A7%D8%B3%D9%88.wav
@@ -208,43 +308,43 @@ subreddit: BurkinaFaso
 Libris_URI: sq465kxb2sk6b2n
 Krugosvet_article: strany_mira/BURKINA-FASO.html
 motto_text:
-  - Единство - прогрес - справедливост
-  - Unity–Progress–Justice
-  - Unité–Progrès–Justice
-  - Unidad–Progreso–Justicia
-  - Undod – Cynnydd – Cyfiawnder
+- Единство - прогрес - справедливост
+- Unity–Progress–Justice
+- Unité–Progrès–Justice
+- Unidad–Progreso–Justicia
+- Undod – Cynnydd – Cyfiawnder
 official_language:
-  - "[[_Standards/WikiData/WD~Bissa,32934]]"
-  - "[[_Standards/WikiData/WD~Mooré,36096]]"
-  - "[[_Standards/WikiData/WD~Dioula,32706]]"
+- '[[_Standards/WikiData/WD~Bissa,32934]]'
+- '[[_Standards/WikiData/WD~Mooré,36096]]'
+- '[[_Standards/WikiData/WD~Dioula,32706]]'
 marriageable_age:
-  - 17
-  - 20
+- 17
+- 20
 VAT_rate: 18
 mains_voltage: 220
 BTI_Status_Index:
-  - 5.1
-  - 4.71
-  - 4.74
-  - 4.78
-  - 4.92
-  - 4.96
-  - 5.35
-  - 5.39
-  - 5.45
+- 5.1
+- 4.71
+- 4.74
+- 4.78
+- 4.92
+- 4.96
+- 5.35
+- 5.39
+- 5.45
 BTI_Governance_Index:
-  - 5.2
-  - 4.43
-  - 4.56
-  - 4.74
-  - 4.88
-  - 4.92
-  - 5.01
-  - 5.23
-  - 5.24
+- 5.2
+- 4.43
+- 4.56
+- 4.74
+- 4.88
+- 4.92
+- 5.01
+- 5.23
+- 5.24
 suicide_rate: 7.7
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Burkina_Faso,39313]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.bf,41195]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Burkina_Faso,39313]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bf,41195]]'
 Inequality_adjusted_Human_Development_Index: 0.315
 Democracy_Index: 3.73
 literacy_rate: 41.2
@@ -252,69 +352,69 @@ Happy_Planet_Index_score: 41.5
 Human_Development_Index: 0.449
 Gini_coefficient: 47.3
 death_rate:
-  - 8.75
-  - 8.662
-  - 8.813
-  - 8.958
+- 8.75
+- 8.662
+- 8.813
+- 8.958
 area: 274200
 total_fertility_rate: 5.521
 mobile_country_code: 613
 birth_rate:
-  - 34.952
-  - 35.541
-  - 36.085
-  - 36.689
+- 34.952
+- 35.541
+- 36.085
+- 36.689
 IAB_code: 1264
 maritime_identification_digits: 633
 ISO_3166_1_numeric_code: 854
 M49_code: 854
 life_expectancy: 60.361
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Burkina%20Faso.svg
-short_name: 🇧🇫
+short_name: "\U0001F1E7\U0001F1EB"
 coordinate_location: Point(-2.066667 12.266667)
 UMLS_CUI: C0006409
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20of%20Burkina%20Faso%20in%20Africa.svg
 ISNI: 404133505
 MeSH_tree_code: Z01.058.290.190.245
 official_name:
-  - Burkĩna Faso
-  - Burkina Faso
+- Burkĩna Faso
+- Burkina Faso
 coordinates_of_westernmost_point: Point(-5.51319 10.43079)
 coordinates_of_northernmost_point: Point(-0.47 15.08)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Togo,945]]"
-  - "[[_Standards/WikiData/WD~Benin,962]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-country: "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-capital: "[[_Standards/WikiData/WD~Ouagadougou,3777]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
-part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Togo,945]]'
+- '[[_Standards/WikiData/WD~Benin,962]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+country: '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+capital: '[[_Standards/WikiData/WD~Ouagadougou,3777]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412]]'
+part_of: '[[_Standards/WikiData/WD~West_Africa,4412]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 3
 Dewey_Decimal_Classification: 2--6625
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burkina%20Faso.svg
 INSEE_countries_and_foreign_territories_code: 99331
 urban_population:
-  - 6587430
-  - 6281301
-  - 6904253
-  - 7227715
+- 6587430
+- 6281301
+- 6904253
+- 7227715
 U_S_National_Archives_Identifier: 10035682
 native_label: Burkina Faso
 licence_plate_code: BF
@@ -323,10 +423,10 @@ WIPO_ST_3: BF
 Commons_category: Burkina Faso
 Commons_gallery: Burkina Faso
 rural_population:
-  - 15196430
-  - 14670338
-  - 14935196
-  - 15446047
+- 15196430
+- 14670338
+- 14935196
+- 15446047
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Burkina%20Faso%20Wikivoyage%20banner.jpg
 OmegaWiki_Defined_Meaning: 154116
 number_of_out_of_school_children: 2493607
@@ -336,29 +436,29 @@ IOC_country_code: BUR
 inception: 1960
 has_time_started: 1960-06
 male_population:
-  - 10431262
-  - 10718602
-  - 11010698
-  - 11299155
+- 10431262
+- 10718602
+- 11010698
+- 11299155
 female_population:
-  - 10520378
-  - 10804024
-  - 11089986
-  - 11374607
+- 10520378
+- 10804024
+- 11089986
+- 11374607
 FIPS_10_4_countries_and_regions_: UV
 coordinates_of_southernmost_point: Point(-2.76758 9.41073)
 population: 23025776
 coordinates_of_easternmost_point: Point(2.40408 11.9003)
 nominal_GDP:
-  - 18884619613
-  - 19737616003
-Unicode_character: 🇧🇫
+- 18884619613
+- 19737616003
+Unicode_character: "\U0001F1E7\U0001F1EB"
 location:
-  - 12.3333
-  - -1.66667
+- 12.3333
+- -1.66667
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26845
 isDeleted: false
 confidential: public
@@ -366,20 +466,313 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Burkina Faso
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - fr-BF
-  - mos
+- fr-BF
+- mos
 dv_has_:
   name_:
+    ab: Буркина-Фасо
+    ace: Burkina Faso
+    ady: Буркина-Фасо
+    aeb-arab: بوركينا فاسو
+    af: Burkina Faso
+    am: ቡርኪና ፋሶ
+    ami: Burkina faso
+    an: Burkina Faso
+    ang: Burkina Faso
+    ann: Bukina Faso
+    anp: बर्कीना फासो
+    ar: بوركينا فاسو
+    ary: بوركينا فاصو
+    arz: بوركينا فاسو
+    ast: Burkina Fasu
+    av: Буркина-Фасо
+    avk: Burkina
+    awa: बुर्कीना फासो
+    az: Burkina-Faso
+    azb: بورکینافاسو
+    ba: Буркина-Фасо
+    ban: Burkina Faso
+    bar: Burkina Faso
+    bcl: Burkina Faso
+    be: Буркіна-Фасо
+    be-tarask: Буркіна-Фасо
+    bew: Burkina Paso
+    bg: Буркина Фасо
+    bgn: بورکینا پاسو
+    bho: बुर्किना फासो
+    bi: Bukina Faso
+    bjn: Burkina Paso
+    bm: Burkina Faso
+    bn: বুর্কিনা ফাসো
+    bo: བུར་ཀི་ན་ཕ་སོ།
+    bpy: বুর্কিনা ফাসো
+    br: Burkina Faso
+    bs: Burkina Faso
+    bxr: Буркино-Фасо
+    ca: Burkina Faso
+    cbk-zam: Burkina Faso
+    cdo: Burkina Faso
+    ce: Буркина Фасо
+    ceb: Burkina Faso
+    chr: ᏋᎩᎾ ᏩᏐ
+    ckb: بورکینا فاسۆ
+    co: Burkina Faso
+    crh: Burkina Faso
+    crh-latn: Burkina Faso
+    cs: Burkina Faso
+    csb: Bùrkina Faso
+    cv: Буркина Фасо
+    cy: Bwrcina Ffaso
+    da: Burkina Faso
+    dag: Burkina Faso
+    de: Burkina Faso
+    de-at: Burkina Faso
+    de-ch: Burkina Faso
+    dga: Burkina Faso
+    diq: Burkina Faso
+    dsb: Burkina Faso
+    dty: बुर्किना फासो
+    dv: ބުރުކީނާ ފާސޯ
+    ee: Burkina Faso
+    el: Μπουρκίνα Φάσο
+    en: Burkina Faso
+    en-ca: Burkina Faso
+    en-gb: Burkina Faso
+    en-us: Burkina Faso
+    eo: Burkino
+    es: Burkina Faso
+    et: Burkina Faso
+    eu: Burkina Faso
+    ext: Burquina Fasu
+    fa: بورکینافاسو
+    ff: Burkina Faso
+    fi: Burkina Faso
+    fo: Burkina Faso
+    fon: Bukinato
+    fr: Burkina Faso
+    frp: Burkina Fasô
+    frr: Burkiina Faaso
+    fy: Bûrkina Faso
+    ga: Buircíne Fasó
+    gaa: Burkina Faso
+    gag: Burkina Faso
+    gcr: Birkina Faso
+    gd: Buirciona Faso
+    gl: Burkina Faso
+    glk: بۊرکينافاسؤ
+    gn: Vukína Fáso
+    gpe: Burkina Faso
+    gsw: Burkina Faso
+    gu: બુર્કિના ફાસો
+    gur: Burkina Faso
+    gv: Burkina Faso
+    ha: Burkina Faso
+    hak: Burkina Faso
+    haw: Burakina Faso
+    he: בורקינה פאסו
+    hi: बुर्किना फासो
+    hif: Burkina Faso
+    hr: Burkina Faso
+    hsb: Burkina Faso
+    ht: Boukinafaso
+    hu: Burkina Faso
+    hy: Բուրկինա Ֆասո
+    hyw: Պուրքինա Ֆասօ
+    ia: Burkina Faso
+    id: Burkina Faso
+    ie: Burkina Faso
+    ig: Burkina Faso
+    ilo: Burkina Faso
+    io: Burkina Faso
+    is: Búrkína Fasó
+    it: Burkina Faso
+    ja: ブルキナファソ
+    jam: Boerkiina Faso
+    jv: Burkina Faso
+    ka: ბურკინა-ფასო
+    kaa: Burkina Faso
+    kab: Burkina Faso
+    kbp: Purkina Fasoo
+    kcg: Burkina Faso
+    kea: Burkina Fasu
+    kg: Burkina Faso
+    kge: Burkina Faso
+    ki: Burkina Faso
+    kk: Буркина-Фасо
+    kn: ಬುರ್ಕೀನ ಫಾಸೊ
+    knc: Burkina Faso
+    ko: 부르키나파소
+    ku: Burkîna Faso
+    kus: Burnkina Faso
+    kw: Burkina Faso
+    ky: Буркина Фасо
+    la: Burkina Faso
+    lad: Burkina Faso
+    lb: Burkina Faso
+    lfn: Burcina Faso
+    lg: Burkina Faso
+    li: Burkina Faso
+    lij: Bòrkinn-a Fäso
+    lld: Brukina Faso
+    lmo: Burkina Faso
+    ln: Burkina Faso
+    lo: ປະເທດບວກກິນາຟາໂຊ
+    lrc: بورکینافاسو
+    lt: Burkina Fasas
+    lv: Burkinafaso
+    lzh: 布基納法索
+    mai: बुर्किना फासो
+    map-bms: Burkina Faso
+    mdf: Буркина-Фасо
+    mg: Borkina Faso
+    mhr: Буркина Фасо
+    mi: Pūkina
+    min: Burkina Faso
+    mk: Буркина Фасо
+    ml: ബർക്കിനാ ഫാസോ
+    mn: Буркина Фасо
+    mni: ꯕꯨꯔꯀꯤꯅꯥ ꯐꯥꯁꯣ
+    mos: Burkina Faso
+    mr: बर्किना फासो
+    mrj: Буркина Фасо
+    ms: Burkina Faso
+    mt: Burkina Faso
+    mwl: Burkina Faso
+    my: ဘာကီးနားဖားဆိုနိုင်ငံ
+    mzn: بورکینافاسو
+    na: Burkinabato
+    nah: Burquina Faso
+    nan: Burkina Faso
+    nb: Burkina Faso
+    nds: Burkina Faso
+    nds-nl: Burkina Faso
+    ne: बुर्किना फासो
+    new: बुर्किना फासो
+    nl: Burkina Faso
+    nn: Burkina Faso
+    nov: Burkina Faso
+    nqo: ߓߙߎߞߌߣߊ߫ ߝߊ߬ߛߏ߫
+    nr: Burkina Faso
+    nso: Burkina Faso
+    oc: Burkina Faso
+    olo: Burkina Faso
+    om: Burkinaa Faasoo
+    or: ବୁରକିନା ଫାସୋ
+    os: Буркина Фасо
+    pa: ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ
+    pam: Burkina Faso
+    pap: Burkina Faso
+    pi: बुर्कीना-फासो
+    pih: Burkina Faso
+    pl: Burkina Faso
+    pms: Burkina Faso
+    pnb: برکینا فاسو
+    ps: بورکينا فاسو
+    pt: Burquina Fasso
+    pt-br: Burquina Fasso
+    qu: Burkina Phasu
+    rm: Burkina Faso
+    rmy: Burkina Faso
+    ro: Burkina Faso
+    ru: Буркина-Фасо
+    rue: Буркіна Фасо
+    rup: Burkina Faso
+    rw: Burukina Faso
+    sa: बुर्कीना-फासो
+    sah: Буркина Фасо
+    sat: ᱵᱩᱨᱠᱤᱱᱟ ᱯᱷᱟᱥᱳ
+    sc: Burkina Faso
+    scn: Burchina Fasu
+    sco: Burkina Faso
+    sd: برڪينا فاسو
+    se: Burkina Faso
+    sg: Burkina Faso
+    sgs: Borkėna Fasos
+    sh: Burkina Faso
+    shi: Buṛkina Faṣu
+    shn: မိူင်းပူႇၵီႇၼႃးၾႃးသူဝ်ႇ
+    si: බර්කිනා ෆාසෝ
+    sk: Burkina
+    sl: Burkina Faso
+    sm: Burkina Faso
+    smj: Burkijnna Fásso
+    smn: Burkina Faso
+    sms: Burkina Faso
+    sn: Burkina Faso
+    so: Burkina Faso
+    sq: Burkina Faso
+    sr: Буркина Фасо
+    sr-ec: Буркина Фасо
+    sr-el: Burkina Faso
+    ss: IBhukhina-Faso
+    st: Burkina Faso
+    stq: Burkina Faso
+    su: Burkina Faso
+    sv: Burkina Faso
+    sw: Burkina Faso
+    syl: ꠛꠥꠞꠇꠤꠘꠣ ꠙꠣꠌꠅ
+    szl: Burkina Faso
+    szy: Burkina faso
+    ta: புர்க்கினா பாசோ
+    tay: Burkina faso
+    te: బర్కీనా ఫాసో
+    tg: Буркина-Фасо
+    tg-latn: Burkina-Faso
+    th: ประเทศบูร์กินาฟาโซ
+    ti: ቡርኪና ፋሶ
+    tk: Burkina Faso
+    tl: Burkina Faso
+    tly: Burkino Faso
+    tok: ma Pukinapaso
+    tr: Burkina Faso
+    trv: Burkina faso
+    ts: Burkina Faso
+    tt: Буркина Фасо
+    tum: Burkina Faso
+    tw: Burkina Faso
+    udm: Буркина-Фасо
+    ug: بۇركىنا فاسو
+    uk: Буркіна-Фасо
+    ur: برکینا فاسو
+    uz: Burkina Faso
+    vec: Burkina Faso
+    vep: Burkina Faso
+    vi: Burkina Faso
+    vls: Burkina Faso
+    vo: Burkinän
+    vro: Burkina Faso
+    wa: Bourkina Fasso
+    war: Burkina Faso
+    wo: Burkinaa Faaso
+    wuu: 布基納法索
+    xal: Буркинапасин Орн
+    xmf: ბურკინა-ფასო
+    yi: בורקינע פאסא
+    yo: Bùrkínà Fasò
+    yue: 布基納法索
+    za: Burkina Faso
+    zea: Burkina Faso
+    zgh: ⴱⵓⵔⴽⵉⵏⴰ ⴼⴰⵙⵓ
+    zh: 布吉納法索
+    zh-cn: 布基纳法索
+    zh-hans: 布基纳法索
+    zh-hant: 布吉納法索
+    zh-hk: 布基納法索
+    zh-mo: 布基納法索
+    zh-my: 布基纳法索
+    zh-sg: 布基纳法索
+    zh-tw: 布吉納法索
+    zu: IBukhina Faso
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso
 dv_ISO4217-currency_alphabetic: XOF
@@ -392,8 +785,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Burkina Faso
 dv_has_name_en:
-  - Burkina Faso
-  - Burkina Faso
+- Burkina Faso
+- Burkina Faso
 dv_has_name_es: Burkina Faso
 dv_has_name_fr: Burkina Faso
 dv_has_name_cn: 布基纳法索
@@ -412,9 +805,9 @@ dv_UNTERM_Chinese_Formal: 布基纳法索
 dv_UNTERM_French_Formal: le Burkina Faso
 dv_UNTERM_Russian: Буркина-Фасо
 dv_UNTERM_Russian_Formal: Буркина-Фасо
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Western Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Western Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 11
 dv_Sub-region: 202
@@ -441,7 +834,7 @@ dv_ISO3: BFA
 dv_has_name_de: Burkina Faso
 dv_Area-Total: 274200
 dv_Area-Land: 273600
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: BF
 dv_Alcohol-l: 7
 dv_Language-Id: 496
@@ -449,25 +842,24 @@ dv_has_place_longitude: -1.66667
 dv_has_place_latitude: 12.3333
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]"
+  - '[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]"
+- '[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]'
+- '[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]'
 ---
-
 # [[Burkina_Faso]] 
 
 For more Details, check out this Repository into this Subfolder: 

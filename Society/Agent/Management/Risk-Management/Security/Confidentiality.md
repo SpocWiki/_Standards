@@ -1,31 +1,115 @@
 ---
 aliases:
-  - Visibility
-  - Vertraulichkeit
-  - Sichtbarkeit
-  - Confidentiality
+- confidencialidad
+- confidencialidade
+- confidencialitat
+- Confidentiality
+- confidentialité
+- confidenzialità
+- cunfidenti
+- Informasi rahasia
+- konfidenceco
+- Konfidencialiteti
+- konfidensialitet
+- konfidentialitet
+- konfidentzialtasun
+- luottamuksellisuus
+- poufność
+- povinnost mlčenlivosti
+- rúndacht
+- sekretess
+- Sichtbarkeit
+- titoktartási kötelezettség
+- Tsiambaratelo
+- Verschwiegenheitspflicht
+- Vertraulichkeit
+- vertrouwelijkheid
+- Visibility
+- zaupnost
+- Þagnarskylda
+- εμπιστευτικότητα
+- доверливост
+- канфідэнцыйнасьць
+- канфідэнцыяльнасць
+- конфіденційність
+- конфиденциальность
+- поверљивост
+- חיסיון (כללי)
+- السرية
+- بصیغۂ رازدارنہ
+- عدمافشاء
+- गोपनीयता
+- மறைதிறம்
+- 保密
+- 保密性
+- 守秘義務
+- 기밀성
 has_id_wikidata: Q2476929
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~privacy,188728]]"
-  - "[[_Standards/WikiData/WD~anonymity,308859]]"
-instance_of: "[[_Standards/WikiData/WD~quality,1207505]]"
-different_from: "[[_Standards/WikiData/WD~secrecy,1503443]]"
+- '[[_Standards/WikiData/WD~privacy,188728]]'
+- '[[_Standards/WikiData/WD~anonymity,308859]]'
+instance_of: '[[_Standards/WikiData/WD~quality,1207505]]'
+different_from: '[[_Standards/WikiData/WD~secrecy,1503443]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~secrecy,1503443]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Q10607868,10607868]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
+- '[[_Standards/WikiData/WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Q10607868,10607868]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
 described_at_URL:
-  - http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
-  - https://iso25000.com/index.php/en/iso-25000-standards/iso-25012/126-confidentiality
+- http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
+- https://iso25000.com/index.php/en/iso-25000-standards/iso-25012/126-confidentiality
 MeSH_tree_code:
-  - F04.096.544.335.240
-  - I01.880.604.473.650.500
-  - I01.880.604.583.080
-  - N03.706.437.650.124
-  - N03.706.535.230
+- F04.096.544.335.240
+- I01.880.604.473.650.500
+- I01.880.604.583.080
+- N03.706.437.650.124
+- N03.706.535.230
+dv_has_:
+  name_:
+    ar: السرية
+    be: канфідэнцыяльнасць
+    be-tarask: канфідэнцыйнасьць
+    ca: confidencialitat
+    cs: povinnost mlčenlivosti
+    da: konfidentialitet
+    de: Verschwiegenheitspflicht
+    el: εμπιστευτικότητα
+    en: confidentiality
+    eo: konfidenceco
+    es: confidencialidad
+    eu: konfidentzialtasun
+    fa: عدمافشاء
+    fi: luottamuksellisuus
+    fr: confidentialité
+    ga: rúndacht
+    gl: confidencialidade
+    he: חיסיון (כללי)
+    hi: गोपनीयता
+    hu: titoktartási kötelezettség
+    id: Informasi rahasia
+    is: Þagnarskylda
+    it: confidenzialità
+    ja: 守秘義務
+    ko: 기밀성
+    mg: Tsiambaratelo
+    mk: доверливост
+    nb: konfidensialitet
+    nl: vertrouwelijkheid
+    nn: konfidensialitet
+    pl: poufność
+    pt: confidencialidade
+    ru: конфиденциальность
+    scn: cunfidenti
+    sl: zaupnost
+    sq: Konfidencialiteti
+    sr: поверљивост
+    sv: sekretess
+    ta: மறைதிறம்
+    uk: конфіденційність
+    ur: بصیغۂ رازدارنہ
+    yue: 保密
+    zh: 保密性
 ---
-
 # [[Confidentiality]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~confidentiality,2476929]]

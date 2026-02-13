@@ -1,99 +1,169 @@
 ---
-has_time_started: 1717-01-01 
-has_time_stopped: 1780-01-01 
+has_time_started: 1717-01-01
+has_time_stopped: 1780-01-01
 aliases:
-  - Maria Theresia Walburga Amalia Christina
-  - Maria_Theresa_of_Austria
-  - Maria Theresa of Austria
+- Itävallan arkkiherttuatar Maria Teresia
+- Maia Texo d'Asburgo
+- Maria Teresa d'Austria
+- Maria Teresa da Áustria
+- Maria Teresa Habsburżanka
+- Maria Teresa I d'Àustria
+- Maria Teresa I.a Austriakoa
+- Maria Teresia av Austerrike
+- Maria Teresia av Österrike
+- Maria Teresia av Østerrike
+- Maria Tereza de Aŭstrio
+- Maria Terezia a Austriei
+- Maria Theresa
+- Maria Theresa han Austrya
+- Maria Theresa na hOstaire
+- Maria Theresa ng Austria
+- Maria Theresa of Austria
+- Maria Theresa ti Austria
+- Maria Theresia
+- Maria Theresia af Østrig
+- Maria Theresia Austriaca
+- Maria Theresia của Áo
+- Maria Theresia dari Austria
+- Maria Theresia di Austria
+- Maria Theresia van Oostenrijk
+- Maria Theresia van Ôostnryk
+- Maria Theresia vun Éisträich
+- Maria Theresia Walburga Amalia Christina
+- Maria-Terése d’Ôtriche
+- Maria_Theresa_of_Austria
+- Marie Terezie Habsburská
+- Marie-Thérèse d'Autriche
+- Marija Terezija
+- Marija Terezija Austrijska
+- Marija Terezija, kraljica Ugarske
+- Marija Terezė
+- Marija Terēzija
+- Mariya Tereza
+- Mariya Tereziya
+- María Tareixa I de Austria
+- María Teresa af Austurríki
+- María Teresa I d'Austria
+- María Teresa I de Austria
+- Mária Terézia
+- Mária Terézia magyar királynő
+- Μαρία Θηρεσία
+- Марія Терезія
+- Марија Терезија
+- Мария Терезия
+- Марыя Тэрэзія
+- Մարիա Թերեզա
+- מריה תרזה
+- ماريا تيريزا
+- ماریا ترزا
+- ماریا ترزا،
+- ماریا تریزا
+- ماریہ تھیریسا
+- ماریہ تھیریسیا
+- मारिया टेरेसा
+- मारिया थेरेसा
+- মারিয়া থেরেসা
+- ମାରିୟା ଟେରେସା
+- മറിയ തെരേസ
+- จักรพรรดินีมาเรีย เทเรซา
+- မာရီယာ ထရီဇာ ဘုရင်မ
+- მარია ტერეზია
+- マリア・テレジア
+- 特蕾莎女王
+- 玛丽亚·特蕾西亚
+- 瑪利亞·特蕾西亞
+- 瑪利亞杜麗莎
+- 瑪麗亞·泰瑞莎
+- 마리아 테레지아
 has_id_wikidata: Q131706
-family: "[[_Standards/WikiData/WD~House_of_Habsburg,65968]]"
+family: '[[_Standards/WikiData/WD~House_of_Habsburg,65968]]'
 child:
-  - "[[_Standards/WikiData/WD~Joseph_II,_Holy_Roman_Emperor,76555]]"
-  - "[[_Standards/WikiData/WD~Archduke_Maximilian_Francis_of_Austria,93362]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Josepha_of_Austria,93810]]"
-  - "[[_Standards/WikiData/WD~Leopold_II,_Holy_Roman_Emperor,151321]]"
-  - "[[_Standards/WikiData/WD~Maria_Carolina_of_Austria,158229]]"
-  - "[[_Standards/WikiData/WD~Maria_Christina,_Duchess_of_Teschen,167439]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Anna_of_Austria,170186]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Amalia_of_Austria,236907]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Elisabeth_of_Austria,236924]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Johanna_Gabriela_of_Austria,237458]]"
-  - "[[_Standards/WikiData/WD~Ferdinand_Karl,_Archduke_of_Austria_Este,328233]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Carolina_of_Austria,435955]]"
-  - "[[_Standards/WikiData/WD~Archduke_Charles_Joseph_of_Austria,700564]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Elisabeth_of_Austria,1895832]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Carolina_of_Austria,4785857]]"
-  - "[[_Standards/WikiData/WD~Marie_Antoinette,47365]]"
+- '[[_Standards/WikiData/WD~Joseph_II,_Holy_Roman_Emperor,76555]]'
+- '[[_Standards/WikiData/WD~Archduke_Maximilian_Francis_of_Austria,93362]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Josepha_of_Austria,93810]]'
+- '[[_Standards/WikiData/WD~Leopold_II,_Holy_Roman_Emperor,151321]]'
+- '[[_Standards/WikiData/WD~Maria_Carolina_of_Austria,158229]]'
+- '[[_Standards/WikiData/WD~Maria_Christina,_Duchess_of_Teschen,167439]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Anna_of_Austria,170186]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Amalia_of_Austria,236907]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Elisabeth_of_Austria,236924]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Johanna_Gabriela_of_Austria,237458]]'
+- '[[_Standards/WikiData/WD~Ferdinand_Karl,_Archduke_of_Austria_Este,328233]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Carolina_of_Austria,435955]]'
+- '[[_Standards/WikiData/WD~Archduke_Charles_Joseph_of_Austria,700564]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Elisabeth_of_Austria,1895832]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Carolina_of_Austria,4785857]]'
+- '[[_Standards/WikiData/WD~Marie_Antoinette,47365]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Olomouc,81137]]"
-  - "[[_Standards/WikiData/WD~Vienna,1741]]"
+- '[[_Standards/WikiData/WD~Olomouc,81137]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~aristocrat,2478141]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-father: "[[_Standards/WikiData/WD~Charles_VI,_Holy_Roman_Emperor,150665]]"
-spouse: "[[_Standards/WikiData/WD~Francis_I,_Holy_Roman_Emperor,151075]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~aristocrat,2478141]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+father: '[[_Standards/WikiData/WD~Charles_VI,_Holy_Roman_Emperor,150665]]'
+spouse: '[[_Standards/WikiData/WD~Francis_I,_Holy_Roman_Emperor,151075]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~duke,166886]]"
-  - "[[_Standards/WikiData/WD~Duke_of_Brabant,2058509]]"
+- '[[_Standards/WikiData/WD~duke,166886]]'
+- '[[_Standards/WikiData/WD~Duke_of_Brabant,2058509]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Anna_of_Austria,236927]]"
-  - "[[_Standards/WikiData/WD~Archduchess_Maria_Amalia_of_Austria,3847101]]"
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Anna_of_Austria,236927]]'
+- '[[_Standards/WikiData/WD~Archduchess_Maria_Amalia_of_Austria,3847101]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
-  - "[[_Standards/WikiData/WD~History_of_Everyday_Life_Database,108764506]]"
-  - "[[_Standards/WikiData/WD~KALLIOPE_Austria,110290935]]"
-  - "[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-place_of_burial: "[[_Standards/WikiData/WD~Imperial_Crypt,662652]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+- '[[_Standards/WikiData/WD~History_of_Everyday_Life_Database,108764506]]'
+- '[[_Standards/WikiData/WD~KALLIOPE_Austria,110290935]]'
+- '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+place_of_burial: '[[_Standards/WikiData/WD~Imperial_Crypt,662652]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Apostolic_King_of_Hungary,6412254]]"
-  - "[[_Standards/WikiData/WD~King_of_Bohemia,45341328]]"
-  - "[[_Standards/WikiData/WD~Prince_Elector,22722]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~Apostolic_King_of_Hungary,6412254]]'
+- '[[_Standards/WikiData/WD~King_of_Bohemia,45341328]]'
+- '[[_Standards/WikiData/WD~Prince_Elector,22722]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~state_administration,12056862]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-eye_color: "[[_Standards/WikiData/WD~blue,17122834]]"
+- '[[_Standards/WikiData/WD~state_administration,12056862]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+eye_color: '[[_Standards/WikiData/WD~blue,17122834]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Maria_Theresa,_Archduchess_of_Habsburg,18689231]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_Archduchess_Maria_Theresa_of_Austria,_later_Empress_(1717_1780),29964513]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_Maria_Theresa_of_Austria_(1717_1780),30093776]]"
-given_name: "[[_Standards/WikiData/WD~Maria_Theresia,24035963]]"
-different_from: "[[_Standards/WikiData/WD~Maria_Theresia,55110729]]"
-family_name: "[[_Standards/WikiData/WD~Habsburg,58060544]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+- '[[_Standards/WikiData/WD~Maria_Theresa,_Archduchess_of_Habsburg,18689231]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Archduchess_Maria_Theresa_of_Austria,_later_Empress_(1717_1780),29964513]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Maria_Theresa_of_Austria_(1717_1780),30093776]]'
+given_name: '[[_Standards/WikiData/WD~Maria_Theresia,24035963]]'
+different_from: '[[_Standards/WikiData/WD~Maria_Theresia,55110729]]'
+family_name: '[[_Standards/WikiData/WD~Habsburg,58060544]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 date_of_birth: 1717-05-13T00:00:00Z
 point_in_time: 1717-01-01T00:00:00Z
 start_time: 1717-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Vienna,1741]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-native_language: "[[_Standards/WikiData/WD~German,188]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hofburg_Palace,46242]]"
-mother: "[[_Standards/WikiData/WD~Elisabeth_Christine_of_Brunswick_Wolfenbüttel,57528]]"
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hofburg_Palace,46242]]'
+mother: '[[_Standards/WikiData/WD~Elisabeth_Christine_of_Brunswick_Wolfenbüttel,57528]]'
 Europeana_entity: agent/base/147017
 Krugosvet_article_archived_: istoriya/MARIYA_TEREZIYA.html
 Commons_Creator_page: Maria Theresa of Austria
@@ -111,11 +181,121 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%2
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Monogram%20of%20Empress%20Maria%20Theresa%20of%20Austria.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kaiserin%20Maria%20Theresia%20%28HRR%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20Maria%20Theresa.svg
-ISNI: "0000000121353356"
+ISNI: 0000000121353356
 Libris_URI: 75kmnzrr2ffjc3d
-P1015: "90100109"
+P1015: 90100109
+dv_has_:
+  name_:
+    ar: ماريا تيريزا
+    arz: ماريا تيريزا
+    ast: María Teresa I d'Austria
+    az: Mariya Tereza
+    azb: ماریا ترزا،
+    ba: Мария Терезия
+    ban: Maria Theresia
+    bar: Maria Theresia
+    be: Марыя Тэрэзія
+    be-tarask: Марыя Тэрэзія
+    bg: Мария Терезия
+    bn: মারিয়া থেরেসা
+    br: Maria Theresia
+    bs: Marija Terezija, kraljica Ugarske
+    ca: Maria Teresa I d'Àustria
+    ckb: ماریا تریزا
+    cs: Marie Terezie Habsburská
+    cy: Maria Theresia
+    da: Maria Theresia af Østrig
+    de: Maria Theresia
+    de-ch: Maria Theresia
+    el: Μαρία Θηρεσία
+    en: Maria Theresa of Austria
+    en-ca: Maria Theresa
+    en-gb: Maria Theresa
+    eo: Maria Tereza de Aŭstrio
+    es: María Teresa I de Austria
+    et: Maria Theresia
+    eu: Maria Teresa I.a Austriakoa
+    fa: ماریا ترزا
+    fi: Itävallan arkkiherttuatar Maria Teresia
+    fr: Marie-Thérèse d'Autriche
+    frp: Maria-Terése d’Ôtriche
+    ga: Maria Theresa na hOstaire
+    gl: María Tareixa I de Austria
+    he: מריה תרזה
+    hi: मारिया थेरेसा
+    hr: Marija Terezija Austrijska
+    hu: Mária Terézia magyar királynő
+    hy: Մարիա Թերեզա
+    id: Maria Theresia dari Austria
+    ig: Maria Theresa
+    io: Maria Theresia di Austria
+    is: María Teresa af Austurríki
+    it: Maria Teresa d'Austria
+    ja: マリア・テレジア
+    ka: მარია ტერეზია
+    kaa: Mariya Tereziya
+    kk: Мария Терезия
+    ko: 마리아 테레지아
+    ky: Мария Терезия
+    la: Maria Theresia Austriaca
+    lb: Maria Theresia vun Éisträich
+    lij: Maia Texo d'Asburgo
+    lmo: Maria Teresa d'Austria
+    lt: Marija Terezė
+    lv: Marija Terēzija
+    lzh: 瑪利亞·特蕾西亞
+    mg: Maria Theresa
+    mk: Марија Терезија
+    ml: മറിയ തെരേസ
+    mr: मारिया थेरेसा
+    ms: Maria Theresa
+    my: မာရီယာ ထရီဇာ ဘုရင်မ
+    nan: Maria Theresa
+    nb: Maria Teresia av Østerrike
+    nds: Maria Theresia
+    nl: Maria Theresia van Oostenrijk
+    nn: Maria Teresia av Austerrike
+    or: ମାରିୟା ଟେରେସା
+    pl: Maria Teresa Habsburżanka
+    pnb: ماریہ تھیریسا
+    ps: ماریا ترزا
+    pt: Maria Teresa da Áustria
+    pt-br: Maria Teresa da Áustria
+    ro: Maria Terezia a Austriei
+    ru: Мария Терезия
+    rue: Мария Терезия
+    sa: मारिया टेरेसा
+    sco: Maria Theresa
+    sh: Marija Terezija
+    sk: Mária Terézia
+    skr: ماریہ تھیریسیا
+    sl: Marija Terezija
+    sq: Maria Theresa of Austria
+    sr: Марија Терезија
+    sr-ec: Марија Терезија
+    sr-el: Marija Terezija
+    su: Maria Theresa ti Austria
+    sv: Maria Teresia av Österrike
+    th: จักรพรรดินีมาเรีย เทเรซา
+    tl: Maria Theresa ng Austria
+    tr: Maria Theresia
+    uk: Марія Терезія
+    ur: ماریہ تھیریسیا
+    uz: Mariya tereziya
+    vi: Maria Theresia của Áo
+    vls: Maria Theresia van Ôostnryk
+    war: Maria Theresa han Austrya
+    wuu: 特蕾莎女王
+    xmf: მარია ტერეზია
+    yue: 瑪利亞杜麗莎
+    zh: 玛丽亚·特蕾西亚
+    zh-cn: 玛丽亚·特蕾西亚
+    zh-hans: 玛丽亚·特蕾西亚
+    zh-hant: 瑪麗亞·泰瑞莎
+    zh-hk: 瑪麗亞·泰瑞莎
+    zh-sg: 玛丽亚·特蕾西亚
+    zh-tw: 瑪麗亞·泰瑞莎
 ---
-
 # [[Maria_Theresa_of_Austria]] 
 
 #is_/same_as :: [[WD~Maria_Theresa_of_Austria,131706]] 

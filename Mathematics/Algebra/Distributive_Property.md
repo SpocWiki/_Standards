@@ -1,8 +1,133 @@
 ---
 has_id_wikidata: Q187959
+dv_has_:
+  name_:
+    ar: توزيعية
+    ast: distributividá
+    ba: Дистрибутивлыҡ
+    be: Дыстрыбутыўнасць
+    be-tarask: дыстрыбутыўнасьць
+    bg: разпределително свойство
+    ca: propietat distributiva
+    ckb: دابەشبوون
+    cs: distributivita
+    cv: Дистрибутивлăх
+    da: Distributivitet
+    de: Distributivgesetz
+    de-ch: Distributivgesetz
+    el: Επιμεριστική ιδιότητα
+    en: distributive property
+    en-ca: Distributive property
+    en-gb: distributive property
+    eo: distribueco
+    es: distributividad
+    et: distributiivsus
+    eu: Banakortasun
+    fa: توزیعپذیری
+    fi: Osittelulaki
+    fr: distributivité
+    frr: Distributiifgesets
+    ga: airí dáileach
+    gl: Distributividade
+    he: חוק הפילוג
+    hu: disztributivitás
+    hy: բաշխականություն
+    id: Distributif
+    is: Dreifiregla
+    it: distributività
+    ja: 分配法則
+    ko: 분배법칙
+    ky: Дистрибуциялуулук
+    la: Distributio
+    mi: āhuatanga tohatoha
+    mk: дистрибутивност
+    ms: Kalis agihan
+    nb: distributiv lov
+    nl: distributiviteit
+    nn: Distributivitet
+    pl: rozdzielność
+    pt: distributividade
+    pt-br: distributividade
+    ro: distributivitate
+    ru: дистрибутивность
+    sh: Distributivnost
+    sl: distributivnost
+    sr: Дистрибутивност
+    sr-ec: Дистрибутивност
+    sr-el: Distributivnost
+    sv: Distributivitet
+    ta: பங்கீட்டுப் பண்பு
+    th: สมบัติการแจกแจง
+    tr: Dağılma özelliği
+    tt: Дистрибутивлык
+    uk: дистрибутивність
+    ur: توزیعیت
+    uz: Distributivlik
+    vi: Thuộc tính phân phối
+    yi: דיסטריבוטיוו
+    yue: 分配律
+    zh: 分配律
+    zh-cn: 分配律
+    zh-hans: 分配律
+    zh-hant: 分配律
+    zh-hk: 分配律
+    zh-sg: 分配律
+    zh-tw: 分配律
+aliases:
+- airí dáileach
+- Banakortasun
+- Dağılma özelliği
+- distribueco
+- Distributif
+- Distributiifgesets
+- distributiivsus
+- Distributio
+- distributiv lov
+- distributive property
+- Distributivgesetz
+- distributividad
+- Distributividade
+- distributividá
+- distributivita
+- distributivitate
+- distributiviteit
+- Distributivitet
+- distributività
+- distributivité
+- Distributivlik
+- Distributivnost
+- disztributivitás
+- Dreifiregla
+- Kalis agihan
+- Osittelulaki
+- propietat distributiva
+- rozdzielność
+- Thuộc tính phân phối
+- āhuatanga tohatoha
+- Επιμεριστική ιδιότητα
+- Дистрибутивлăх
+- Дистрибутивлык
+- Дистрибутивлыҡ
+- дистрибутивність
+- дистрибутивност
+- дистрибутивность
+- Дистрибуциялуулук
+- Дыстрыбутыўнасць
+- дыстрыбутыўнасьць
+- разпределително свойство
+- բաշխականություն
+- דיסטריבוטיוו
+- חוק הפילוג
+- توزيعية
+- توزیعپذیری
+- توزیعیت
+- دابەشبوون
+- பங்கீட்டுப் பண்பு
+- สมบัติการแจกแจง
+- 分配律
+- 分配法則
+- 분배법칙
 ---
-
-
 # [[Distributive_Property]] 
 
 #is_/same_as :: [[../../WikiData/WD~Distributive_property,187959|WD~Distributive_property,187959]] 

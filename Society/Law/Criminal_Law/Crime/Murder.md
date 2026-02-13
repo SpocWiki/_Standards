@@ -1,51 +1,144 @@
 ---
 aliases:
+- asasinato
+- asesinatu
+- assassinat
+- assassinato
+- assassínio
+- awudie
+- Bô͘-sat
+- Caedes
+- cinayet
+- crimă
+- drap
+- dúnmharú
+- erailketa
+- giết người
+- gyilkosság
+- homicidio doloso
+- kisa
+- kuua kwa kukusudia
+- kuştin
+- Layn
+- llofruddiaeth
+- meurdre
+- meurtre
+- mhondi
+- moard
+- moord
+- mord
+- mordarstwo
+- morderstwo
+- morð
+- moude
+- Muerd
+- muntr
+- murder
+- murdo
+- murha
+- murt
+- murther
+- mõrv
+- nužudymas
+- odam oʻldirish
+- omicidio volontario
+- omicidiu
+- paggadan
+- pagpaslang
+- pembunuhan
+- qətl
+- runa sipiy
+- sassinament
+- slepkavība
+- teško ubojstvo
+- ubistvo
+- umor
+- vrasja
+- vražda
+- üterü
+- δολοφονία
+- Вĕлерӳ
+- дер
+- забойства
+- убийство
+- убиство
+- умисне вбивство
+- қатл
+- үлтереү
+- үтерү
+- սպանություն
+- מארד
+- רצח
+- آدمکشی
+- اؤلدوروش
+- قتل
+- قتل (وژنه )
+- قتل عمد
+- قَتٕل
+- کوشتنی بە مەبەست
+- खून
+- हत्या
+- খুন
+- ਕਤਲ
+- હત્યા
+- ହତ୍ୟା
+- கொலை
+- హత్య
+- ಕೊಲೆ
+- കൊലപാതകം
+- මිනීමැරීම්
+- การฆ่าคน
+- მკვლელობა
+- 謀殺
+- 謀殺罪
+- 谋杀
+- 모살
 has_id_wikidata: Q132821
 different_from:
-  - "[[_Standards/WikiData/WD~attempted_murder,81672]]"
-  - "[[_Standards/WikiData/WD~homicide,149086]]"
-  - "[[_Standards/WikiData/WD~killing,844482]]"
-  - "[[_Standards/WikiData/WD~assassination,3882219]]"
-  - "[[_Standards/WikiData/WD~manslaughter,3882220]]"
-  - "[[_Standards/WikiData/WD~wrongful_death_claim,8038640]]"
+- '[[_Standards/WikiData/WD~attempted_murder,81672]]'
+- '[[_Standards/WikiData/WD~homicide,149086]]'
+- '[[_Standards/WikiData/WD~killing,844482]]'
+- '[[_Standards/WikiData/WD~assassination,3882219]]'
+- '[[_Standards/WikiData/WD~manslaughter,3882220]]'
+- '[[_Standards/WikiData/WD~wrongful_death_claim,8038640]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~homicide,149086]]"
-  - "[[_Standards/WikiData/WD~unnatural_death,855919]]"
-  - "[[_Standards/WikiData/WD~violent_crime,1520311]]"
-  - "[[_Standards/WikiData/WD~calamity,1689296]]"
-  - "[[_Standards/WikiData/WD~crime_against_life,16688120]]"
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~homicide,149086]]'
+- '[[_Standards/WikiData/WD~unnatural_death,855919]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~calamity,1689296]]'
+- '[[_Standards/WikiData/WD~crime_against_life,16688120]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_verse_of_deliberate_murder,126165610]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_verse_of_deliberate_murder,126165610]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
-  - "[[_Standards/WikiData/WD~North_Dakota_Century_Code,7054993]]"
+- '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
+- '[[_Standards/WikiData/WD~North_Dakota_Century_Code,7054993]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~voluntary_manslaughter,1295558]]"
-  - "[[_Standards/WikiData/WD~vehicular_homicide,7918620]]"
-  - "[[_Standards/WikiData/WD~murder_of_a_newborn_child_by_a_mother_in_Russian_criminal_law,60849933]]"
+- '[[_Standards/WikiData/WD~voluntary_manslaughter,1295558]]'
+- '[[_Standards/WikiData/WD~vehicular_homicide,7918620]]'
+- '[[_Standards/WikiData/WD~murder_of_a_newborn_child_by_a_mother_in_Russian_criminal_law,60849933]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
-  - "[[_Standards/WikiData/WD~type_of_crime,130583773]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_part_s_: "[[_Standards/WikiData/WD~murder_in_Islam,126164438]]"
+- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+- '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_part_s_: '[[_Standards/WikiData/WD~murder_in_Islam,126164438]]'
 properties_for_this_type:
-  - location
-  - point in time
-  - number of deaths
-  - number of injured
-  - number of perpetrators
-  - perpetrator
-  - victim(s)
-  - country
+- location
+- point in time
+- number of deaths
+- number of injured
+- number of perpetrators
+- perpetrator
+- victim(s)
+- country
 IMDb_keyword: murder
 PhilPapers_topic: murder
 Archive_of_Our_Own_tag: Murder
@@ -53,8 +146,137 @@ Commons_category: Murder
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jakub%20Schikaneder%20-%20Murder%20in%20the%20House.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Back%20ache-murder.wav
 Provenio_UUID: 7b9a41da-c777-474e-adff-51a62113d158
+dv_has_:
+  name_:
+    acm: قتل عمد
+    af: moord
+    ar: قتل عمد
+    arz: قتل
+    ast: asesinatu
+    az: qətl
+    azb: اؤلدوروش
+    ba: үлтереү
+    bcl: paggadan
+    be: забойства
+    be-tarask: забойства
+    bg: убийство
+    bho: हत्या
+    bn: খুন
+    br: muntr
+    bs: ubistvo
+    ca: assassinat
+    ce: дер
+    ckb: کوشتنی بە مەبەست
+    cs: vražda
+    cv: Вĕлерӳ
+    cy: llofruddiaeth
+    da: mord
+    de: Mord
+    de-ch: Mord
+    diq: cinayet
+    dsb: mordarstwo
+    el: δολοφονία
+    en: murder
+    en-ca: murder
+    en-gb: murder
+    eo: murdo
+    es: homicidio doloso
+    et: mõrv
+    eu: erailketa
+    fa: آدمکشی
+    fi: murha
+    fr: meurtre
+    fy: moard
+    ga: dúnmharú
+    gd: murt
+    gl: asasinato
+    gu: હત્યા
+    ha: kisa
+    he: רצח
+    hi: हत्या
+    hr: teško ubojstvo
+    hsb: mordarstwo
+    hu: gyilkosság
+    hy: սպանություն
+    ia: assassinato
+    id: pembunuhan
+    is: morð
+    it: omicidio volontario
+    ja: 謀殺
+    ka: მკვლელობა
+    kn: ಕೊಲೆ
+    ko: 모살
+    ks: قَتٕل
+    ku: kuştin
+    ku-latn: kuştin
+    la: Caedes
+    lb: Muerd
+    lt: nužudymas
+    lv: slepkavība
+    mk: убиство
+    ml: കൊലപാതകം
+    mr: खून
+    ms: pembunuhan
+    nan: Bô͘-sat
+    nb: drap
+    ne: हत्या
+    new: हत्या
+    nl: moord
+    nn: drap
+    nrm: meurdre
+    oc: assassinat
+    or: ହତ୍ୟା
+    pa: ਕਤਲ
+    pl: morderstwo
+    pms: sassinament
+    pnb: قتل
+    ps: قتل (وژنه )
+    pt: assassínio
+    pt-br: assassinato
+    qu: runa sipiy
+    ro: crimă
+    ru: убийство
+    scn: omicidiu
+    sco: murther
+    sd: قتل
+    sh: ubistvo
+    si: මිනීමැරීම්
+    sk: vražda
+    sl: umor
+    sn: mhondi
+    so: Layn
+    sq: vrasja
+    sr: убиство
+    sr-ec: убиство
+    sr-el: ubistvo
+    sv: mord
+    sw: kuua kwa kukusudia
+    ta: கொலை
+    te: హత్య
+    tg: қатл
+    th: การฆ่าคน
+    tl: pagpaslang
+    tr: cinayet
+    tt: үтерү
+    tt-cyrl: үтерү
+    tt-latn: üterü
+    tw: awudie
+    uk: умисне вбивство
+    ur: قتل
+    uz: odam oʻldirish
+    vi: giết người
+    wa: moude
+    wuu: 谋杀
+    yi: מארד
+    yue: 謀殺罪
+    zh: 謀殺
+    zh-cn: 谋杀
+    zh-hans: 谋杀
+    zh-hant: 謀殺
+    zh-hk: 謀殺
+    zh-sg: 谋杀
+    zh-tw: 謀殺
 ---
-
 # [[Murder]] 
 
 #is_/same_as :: [[WD~Murder,132821]] 

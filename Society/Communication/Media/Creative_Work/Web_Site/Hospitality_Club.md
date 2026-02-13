@@ -1,18 +1,59 @@
 ---
-has_time_started: 2000-06 
+has_time_started: 2000-06
 aliases:
-  - Couchsurfing
+- Couchsurfing
+- Hospitality Club
+- Svetingumo klubas
+- Клюб гасьціннасьці
+- Хоспиталитy Цлуб
+- نادي الضيافة
+- ホスピタリティークラブ
+- 款待俱樂部
+- 호스피털리티 클럽
 has_id_wikidata: Q744312
-instance_of: "[[_Standards/WikiData/WD~hospitality_service,123733]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Germany,183]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+instance_of: '[[_Standards/WikiData/WD~hospitality_service,123733]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 inception: 2000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HC%20monnai%202005%20banner.jpg
 official_website: http://www.hospitalityclub.org
 Commons_category: Hospitality Club
 domain_name: hospitalityclub.org
+dv_has_:
+  name_:
+    ar: نادي الضيافة
+    ast: Hospitality Club
+    be-tarask: Клюб гасьціннасьці
+    ca: Hospitality Club
+    cs: Hospitality Club
+    de: Hospitality Club
+    en: Hospitality Club
+    eo: Hospitality Club
+    es: Hospitality Club
+    eu: Hospitality Club
+    fr: Hospitality Club
+    hu: Hospitality Club
+    id: Hospitality Club
+    it: Hospitality Club
+    ja: ホスピタリティークラブ
+    ko: 호스피털리티 클럽
+    li: Hospitality Club
+    lt: Svetingumo klubas
+    nb: Hospitality Club
+    nl: Hospitality Club
+    nn: Hospitality Club
+    pl: Hospitality Club
+    pt: Hospitality Club
+    ru: Hospitality Club
+    sah: Hospitality Club
+    sr: Hospitality Club
+    sr-ec: Хоспиталитy Цлуб
+    sr-el: Hospitality Club
+    sv: Hospitality Club
+    tr: Hospitality Club
+    uk: Hospitality Club
+    zh: 款待俱樂部
 ---
-
 # [[Hospitality_Club]] 
 
 #is_/same_as :: [[WD~Hospitality_Club,744312]] 

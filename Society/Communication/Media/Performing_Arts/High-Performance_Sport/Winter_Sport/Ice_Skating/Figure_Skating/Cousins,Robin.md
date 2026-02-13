@@ -1,7 +1,19 @@
 ---
 aliases:
-  - Robin_Cousins
-  - Cousins,Robin
+- Cousins,Robin
+- Robin Cousins
+- Robin Kazins
+- Robin_Cousins
+- Робін Казінс
+- Робін Казынз
+- Робин Казинс
+- Ռոբերտ Կազինս
+- رابین کاسینز
+- روبن كوزينز
+- ਰੌਬਿਨ ਕਜ਼ਿਨਜ਼
+- ロビン・カズンズ
+- 羅賓·卡曾斯
+- 로빈 커즌스
 has_id_wikidata: Q2159796
 trained_by: '[[_Standards/WikiData/WD~Carlo_Fassi,959058]]'
 given_name: '[[_Standards/WikiData/WD~Robin,1158139]]'
@@ -25,8 +37,105 @@ ISNI: 000000002404827X
 Munzinger_Sport_number: 01000050234
 Plex_person_key: 5d776a6bad5437001f77d786
 Commons_category: Robin Cousins
+dv_has_:
+  name_:
+    af: Robin Cousins
+    an: Robin Cousins
+    ar: روبن كوزينز
+    ast: Robin Cousins
+    ba: Робин Казинс
+    bar: Robin Cousins
+    be-tarask: Робін Казынз
+    bm: Robin Cousins
+    br: Robin Cousins
+    ca: Robin Cousins
+    co: Robin Cousins
+    cs: Robin Cousins
+    cy: Robin Cousins
+    da: Robin Cousins
+    de: Robin Cousins
+    de-at: Robin Cousins
+    de-ch: Robin Cousins
+    en: Robin Cousins
+    en-ca: Robin Cousins
+    en-gb: Robin Cousins
+    eo: Robin Cousins
+    es: Robin Cousins
+    et: Robin Cousins
+    eu: Robin Cousins
+    fa: رابین کاسینز
+    fi: Robin Cousins
+    fr: Robin Cousins
+    frc: Robin Cousins
+    frp: Robin Cousins
+    fur: Robin Cousins
+    ga: Robin Cousins
+    gd: Robin Cousins
+    gl: Robin Cousins
+    gsw: Robin Cousins
+    hr: Robin Cousins
+    hu: Robin Cousins
+    hy: Ռոբերտ Կազինս
+    ia: Robin Cousins
+    id: Robin Cousins
+    ie: Robin Cousins
+    io: Robin Cousins
+    it: Robin Cousins
+    ja: ロビン・カズンズ
+    jam: Robin Cousins
+    kab: Robin Cousins
+    kg: Robin Cousins
+    ko: 로빈 커즌스
+    lb: Robin Cousins
+    li: Robin Cousins
+    lij: Robin Cousins
+    lt: Robin Cousins
+    mg: Robin Cousins
+    min: Robin Cousins
+    mn: Робин Казинс
+    ms: Robin Cousins
+    nap: Robin Cousins
+    nb: Robin Cousins
+    nds: Robin Cousins
+    nds-nl: Robin Cousins
+    nl: Robin Cousins
+    nn: Robin Cousins
+    nrm: Robin Cousins
+    oc: Robin Cousins
+    pa: ਰੌਬਿਨ ਕਜ਼ਿਨਜ਼
+    pap: Robin Cousins
+    pcd: Robin Cousins
+    pl: Robin Cousins
+    pms: Robin Cousins
+    prg: Robin Cousins
+    pt: Robin Cousins
+    pt-br: Robin Cousins
+    rgn: Robin Cousins
+    rm: Robin Cousins
+    ro: Robin Cousins
+    ru: Робин Казинс
+    sc: Robin Cousins
+    scn: Robin Cousins
+    sco: Robin Cousins
+    sk: Robin Cousins
+    sl: Robin Cousins
+    sq: Robin Cousins
+    sr: Robin Kazins
+    sv: Robin Cousins
+    sw: Robin Cousins
+    tr: Robin Cousins
+    uk: Робін Казінс
+    vec: Robin Cousins
+    vi: Robin Cousins
+    vls: Robin Cousins
+    vmf: Robin Cousins
+    vo: Robin Cousins
+    wa: Robin Cousins
+    war: Robin Cousins
+    wo: Robin Cousins
+    zh: 羅賓·卡曾斯
+    zu: Robin Cousins
 ---
-
 # [[Cousins,Robin]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Robin_Cousins,2159796|WD~Robin_Cousins,2159796]] 

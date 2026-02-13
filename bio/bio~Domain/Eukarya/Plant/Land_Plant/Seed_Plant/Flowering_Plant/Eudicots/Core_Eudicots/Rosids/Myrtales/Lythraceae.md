@@ -1,81 +1,95 @@
 ---
 aliases:
-  - Punicaceae
-  - Lythraceae
-  - లైత్రేసి
-  - วงศ์ตะแบก
-  - Kınagiller
-  - Дербенникові
-  - Họ Bằng lăng
-  - 千屈菜科
-  - Krwawnicowate
-  - خثرية
-  - Litràcia
-  - kyprejovité
-  - Kattehale-familien
-  - Weiderichgewächse
-  - loosestrife family
-  - Litrumacoj
-  - Kukesabalised
-  - حناییان
-  - Rantakukkakasvit
-  - Lythracées
-  - כופריים
-  - Krawinowe rostliny
-  - Füzényfélék
-  - Արենախոտազգիներ
-  - ミソハギ科
-  - ცოცხმაგარასებრნი
-  - 부처꽃과
-  - Famîleya hine û hinaran
-  - Raudokliniai
-  - ലൈത്രേസി
-  - Kattehalefamilien
-  - Kattenstaartfamilie
-  - Дербенниковые
-  - vrbicovité
-  - Fackelblomsväxter
+- Anordoshlar
+- Fackelblomsväxter
+- Famîleya hine û hinaran
+- Füzényfélék
+- Họ Bằng lăng
+- Kaatstörtplaanten
+- Kattehale-familien
+- Kattehalefamilien
+- Kattenstaartfamilie
+- Krawinowe rostliny
+- Krwawnicowate
+- Kukesabalised
+- kyprejovité
+- Kınagiller
+- Litrumacoj
+- Litràcia
+- litràcies
+- loosestrife family
+- Lythraceae
+- Lythracées
+- Punicaceae
+- Rantakukkakasvit
+- Raudokliniai
+- vrbicovité
+- vrbičevke
+- Vējmietiņu dzimta
+- Weiderichgewächse
+- Λυθροειδή
+- блатиеви
+- врбици
+- Дербенникові
+- Дербенниковые
+- каты курайчалар
+- Плакунові
+- Плакуновыя
+- Хъæддыхцъылынхуызтæ
+- Արենախոտազգիներ
+- כופריים
+- حناییان
+- خثرية
+- خثريه
+- فامیلەیا هنەئوو هناران
+- లైత్రేసి
+- ലൈത്രേസി
+- วงศ์ตะแบก
+- ცოცხმაგარასებრნი
+- ミソハギ科
+- 千屈菜科
+- 부처꽃과
 has_id_wikidata: Q156022
 taxon_common_name:
-  - లైత్రేసి
-  - วงศ์ตะแบก
-  - Kınagiller
-  - Дербенникові
-  - Họ Bằng lăng
-  - 千屈菜科
-  - 千屈菜科
-  - Krwawnicowate
-  - خثرية
-  - Litràcia
-  - kyprejovité
-  - Kattehale-familien
-  - Weiderichgewächse
-  - loosestrife family
-  - Litrumacoj
-  - Kukesabalised
-  - حناییان
-  - Rantakukkakasvit
-  - Lythracées
-  - כופריים
-  - Krawinowe rostliny
-  - Füzényfélék
-  - Արենախոտազգիներ
-  - ミソハギ科
-  - ცოცხმაგარასებრნი
-  - 부처꽃과
-  - Famîleya hine û hinaran
-  - Raudokliniai
-  - ലൈത്രേസി
-  - Kattehalefamilien
-  - Kattenstaartfamilie
-  - Дербенниковые
-  - vrbicovité
-  - Fackelblomsväxter
+- లైత్రేసి
+- วงศ์ตะแบก
+- Kınagiller
+- Дербенникові
+- Họ Bằng lăng
+- 千屈菜科
+- 千屈菜科
+- Krwawnicowate
+- خثرية
+- Litràcia
+- kyprejovité
+- Kattehale-familien
+- Weiderichgewächse
+- loosestrife family
+- Litrumacoj
+- Kukesabalised
+- حناییان
+- Rantakukkakasvit
+- Lythracées
+- כופריים
+- Krawinowe rostliny
+- Füzényfélék
+- Արենախոտազգիներ
+- ミソハギ科
+- ცოცხმაგარასებრნი
+- 부처꽃과
+- Famîleya hine û hinaran
+- Raudokliniai
+- ലൈത്രേസി
+- Kattehalefamilien
+- Kattenstaartfamilie
+- Дербенниковые
+- vrbicovité
+- Fackelblomsväxter
 taxonomic_type: '[[_Standards/WikiData/WD~Lythrum,156845]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Punicaceae,1446177]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Myrtales,21866]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
@@ -84,14 +98,101 @@ taxon_author_citation: J.St.-Hil.
 taxon_name: Lythraceae
 Commons_category: Lythraceae
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lythrum%20anceps%28Flower%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Purple%20loosestrife.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lythrum%20anceps%28Flower%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Purple%20loosestrife.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=680
 EPPO_Code: 1LYTF
 MeSH_tree_code: B01.875.800.575.912.250.859.833.500
 NBN_System_Key: NBNSYS0000160361
+dv_has_:
+  name_:
+    af: Lythraceae
+    an: Lythraceae
+    ar: خثرية
+    arz: خثريه
+    ast: Lythraceae
+    az: Lythraceae
+    be: Плакуновыя
+    be-tarask: Плакуновыя
+    bg: блатиеви
+    bs: Lythraceae
+    ca: litràcies
+    ceb: Lythraceae
+    co: Lythraceae
+    cs: kyprejovité
+    cy: Lythraceae
+    da: Kattehale-familien
+    de: Weiderichgewächse
+    el: Λυθροειδή
+    en: Lythraceae
+    eo: Litrumacoj
+    es: Lythraceae
+    et: Kukesabalised
+    eu: Lythraceae
+    ext: Lythraceae
+    fa: حناییان
+    fi: rantakukkakasvit
+    fr: Lythraceae
+    frr: Kaatstörtplaanten
+    ga: Lythraceae
+    gl: Lythraceae
+    he: כופריים
+    hr: vrbičevke
+    hsb: Krawinowe rostliny
+    hu: füzényfélék
+    hy: արենախոտազգիներ
+    ia: Lythraceae
+    id: Lythraceae
+    ie: Lythraceae
+    io: Lythraceae
+    it: Lythraceae
+    ja: ミソハギ科
+    ka: ცოცხმაგარასებრნი
+    ko: 부처꽃과
+    ku: Famîleya hine û hinaran
+    ku-arab: فامیلەیا هنەئوو هناران
+    ku-latn: Famîleya hine û hinaran
+    la: Lythraceae
+    lt: Raudokliniai
+    lv: Vējmietiņu dzimta
+    mad: Lythraceae
+    mk: врбици
+    ml: ലൈത്രേസി
+    mul: Lythraceae
+    nb: kattehalefamilien
+    nl: kattenstaartfamilie
+    nn: kattehalefamilien
+    oc: Lythraceae
+    os: Хъæддыхцъылынхуызтæ
+    pl: Krwawnicowate
+    pt: Lythraceae
+    pt-br: Lythraceae
+    ro: Lythraceae
+    ru: Дербенниковые
+    sk: vrbicovité
+    sq: Lythraceae
+    sr: Lythraceae
+    sr-ec: Lythraceae
+    sr-el: Lythraceae
+    sv: fackelblomsväxter
+    te: లైత్రేసి
+    th: วงศ์ตะแบก
+    tr: Lythraceae
+    tt: каты курайчалар
+    uk: Плакунові
+    uz: Anordoshlar
+    vi: Họ Bằng lăng
+    vo: Lythraceae
+    war: Lythraceae
+    yue: 千屈菜科
+    zh: 千屈菜科
+    zh-cn: 千屈菜科
+    zh-hans: 千屈菜科
+    zh-hant: 千屈菜科
+    zh-hk: 千屈菜科
+    zh-sg: 千屈菜科
+    zh-tw: 千屈菜科
 ---
-
 # [[Lythraceae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Lythraceae,156022|WD~Lythraceae,156022]]  

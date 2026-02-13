@@ -1,53 +1,90 @@
 ---
 aliases:
-  - Daniel Defoe
-  - Daniel_Defoe
-  - Defoe
-  - Defoe,Daniel
+- Daniel Defo
+- Daniel Defoe
+- Daniels Defo
+- Daniel_Defoe
+- Danijel Defo
+- Defoe
+- Defoe,Daniel
+- Ντάνιελ Ντιφόου
+- Даніел Дефо
+- Даніель Дефо
+- Даніель Дэфо
+- Даніэль Дэфо
+- Данијел Дефо
+- Даниел Дефо
+- Даниель Дефо
+- Даниэл Дефо
+- Даниэль Дефо
+- Дефо Даниель
+- Դանիել Դեֆո
+- דניאל דפו
+- دانييل ديفو
+- دانیل دفو
+- دنیل دفو
+- ڈینیئل ڈیفو
+- ڈینیل ڈیفو
+- डॅनियेल डेफो
+- डैनियल डेफॉ
+- ডেনিয়েল ডিফো
+- ড্যানিয়েল ডিফো
+- ਡੇਨਿਅਲ ਡੇਫੋ
+- டானியல் டீஃபோ
+- ಡೇನಿಎಲ್ ಡೆಫೊ
+- ഡാനിയൽ ഡീഫോ
+- ඩැනියෙල් ඩෙෆෝ
+- แดเนียล เดโฟ
+- დანიელ დეფო
+- ダニエル・デフォー
+- 丹尼尔·笛福
+- 笛福
+- 다니엘 디포우
+- 대니얼 디포
 has_id_wikidata: Q40946
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Robinson_Crusoe,483034]]'
-  - '[[_Standards/WikiData/WD~Moll_Flanders,612523]]'
-  - '[[_Standards/WikiData/WD~A_Journal_of_the_Plague_Year,1215399]]'
+- '[[_Standards/WikiData/WD~Robinson_Crusoe,483034]]'
+- '[[_Standards/WikiData/WD~Moll_Flanders,612523]]'
+- '[[_Standards/WikiData/WD~A_Journal_of_the_Plague_Year,1215399]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Defoe_am_Pranger,111935440]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
-  - '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Defoe_am_Pranger,111935440]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[_Standards/WikiData/WD~Geographicus_Rare_Antique_Maps_biographical_dictionary_of_cartographers,133842860]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bunhill_Fields_Burial_Ground,782140]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Charles_Johnson,1065092]]'
 occupation:
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~publisher,2516866]]'
-  - '[[_Standards/WikiData/WD~publicist,4178004]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~publisher,2516866]]'
+- '[[_Standards/WikiData/WD~publicist,4178004]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_death: '[[_Standards/WikiData/WD~Moorfields,2572630]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Daniel,14516546]]'
@@ -55,8 +92,8 @@ family_name: '[[_Standards/WikiData/WD~Defoe,21484862]]'
 spouse: '[[_Standards/WikiData/WD~Mary_Tuffley,22328736]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 child:
-  - '[[_Standards/WikiData/WD~Sofia_Defoe,76281873]]'
-  - '[[_Standards/WikiData/WD~Benjamin_Norton_Defoe,76282175]]'
+- '[[_Standards/WikiData/WD~Sofia_Defoe,76281873]]'
+- '[[_Standards/WikiData/WD~Benjamin_Norton_Defoe,76282175]]'
 mother: '[[_Standards/WikiData/WD~Alice_Marsh,76282179]]'
 father: '[[_Standards/WikiData/WD~James_Foe,76282177]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
@@ -84,8 +121,126 @@ Royal_Academy_new_identifier: daniel-defoe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Defoe%20Kneller%20Style.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Defoe%20monument%20Bunhill%20Fields.jpg
 ISNI: 0000000458753523
+dv_has_:
+  name_:
+    af: Daniel Defoe
+    an: Daniel Defoe
+    ar: دانييل ديفو
+    arz: دانييل ديفو
+    as: ডেনিয়েল ডিফো
+    ast: Daniel Defoe
+    az: Daniel Defo
+    azb: دانیل دفو
+    ba: Даниель Дефо
+    be: Даніэль Дэфо
+    be-tarask: Даніель Дэфо
+    bg: Даниел Дефо
+    bn: ড্যানিয়েল ডিফো
+    br: Daniel Defoe
+    bs: Daniel Defoe
+    ca: Daniel Defoe
+    cs: Daniel Defoe
+    cv: Даниэль Дефо
+    cy: Daniel Defoe
+    da: Daniel Defoe
+    de: Daniel Defoe
+    de-at: Daniel Defoe
+    de-ch: Daniel Defoe
+    diq: Daniel Defoe
+    ee: Daniel Defoe
+    el: Ντάνιελ Ντιφόου
+    en: Daniel Defoe
+    en-gb: Daniel Defoe
+    en-us: Daniel Defoe
+    eo: Daniel Defoe
+    es: Daniel Defoe
+    et: Daniel Defoe
+    eu: Daniel Defoe
+    fa: دانیل دفو
+    fi: Daniel Defoe
+    fo: Daniel Defoe
+    fr: Daniel Defoe
+    fy: Daniel Defoe
+    ga: Daniel Defoe
+    gl: Daniel Defoe
+    gor: Daniel Defoe
+    he: דניאל דפו
+    hi: डैनियल डेफॉ
+    hr: Daniel Defoe
+    hu: Daniel Defoe
+    hy: Դանիել Դեֆո
+    id: Daniel Defoe
+    ig: Daniel Defoe
+    io: Daniel Defoe
+    is: Daniel Defoe
+    it: Daniel Defoe
+    ja: ダニエル・デフォー
+    jut: Daniel Defoe
+    jv: Daniel Defoe
+    ka: დანიელ დეფო
+    kk: Даниэль Дефо
+    kn: ಡೇನಿಎಲ್ ಡೆಫೊ
+    ko: 대니얼 디포
+    ko-kp: 다니엘 디포우
+    ku: Daniel Defoe
+    ky: Дефо Даниель
+    la: Daniel Defoe
+    li: Daniel Defoe
+    ln: Daniel Defoe
+    lt: Daniel Defoe
+    lv: Daniels Defo
+    mg: Daniel Defoe
+    mk: Даниел Дефо
+    ml: ഡാനിയൽ ഡീഫോ
+    mn: Даниэл Дефо
+    mr: डॅनियेल डेफो
+    ms: Daniel Defoe
+    mul: Daniel Defoe
+    mzn: دنیل دفو
+    nb: Daniel Defoe
+    nl: Daniel Defoe
+    nn: Daniel Defoe
+    oc: Daniel Defoe
+    pa: ਡੇਨਿਅਲ ਡੇਫੋ
+    pl: Daniel Defoe
+    pms: Daniel Defoe
+    pnb: ڈینیئل ڈیفو
+    pt: Daniel Defoe
+    pt-br: Daniel Defoe
+    qu: Daniel Defoe
+    ro: Daniel Defoe
+    ru: Даниель Дефо
+    rue: Даніел Дефо
+    sc: Daniel Defoe
+    sco: Daniel Defoe
+    sh: Daniel Defoe
+    si: ඩැනියෙල් ඩෙෆෝ
+    sje: Daniel Defoe
+    sk: Daniel Defoe
+    sl: Daniel Defoe
+    sq: Daniel Defoe
+    sr: Данијел Дефо
+    sr-ec: Данијел Дефо
+    sr-el: Danijel Defo
+    sv: Daniel Defoe
+    ta: டானியல் டீஃபோ
+    tg: Даниэл Дефо
+    th: แดเนียล เดโฟ
+    tk: Daniel Defo
+    tl: Daniel Defoe
+    tly: Daniel Defo
+    tr: Daniel Defoe
+    tt: Даниель Дефо
+    uk: Даніель Дефо
+    ur: ڈینیل ڈیفو
+    uz: Daniel Defoe
+    vi: Daniel Defoe
+    war: Daniel Defoe
+    wuu: 丹尼尔·笛福
+    xmf: დანიელ დეფო
+    yue: 笛福
+    zh: 丹尼尔·笛福
 ---
-
 # [[Defoe,Daniel]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Daniel_Defoe,40946|WD~Daniel_Defoe,40946]] 

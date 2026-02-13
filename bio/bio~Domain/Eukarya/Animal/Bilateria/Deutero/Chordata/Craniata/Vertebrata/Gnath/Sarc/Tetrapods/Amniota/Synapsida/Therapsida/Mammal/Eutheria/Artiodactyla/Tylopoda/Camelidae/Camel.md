@@ -1,7 +1,161 @@
 ---
 aliases:
-  - Camelinae
-  - Camel
+- Altweltkamele
+- Alɣem
+- Aɖaɖa
+- A̱lakumi
+- camall
+- Camel
+- Camelinae
+- Camell
+- Camellu
+- Camelo
+- Camelus
+- Cameyoh
+- camiddu
+- Camioe
+- chameau
+- Chamo
+- Cwol (Camelus)
+- Càmhal
+- Cămilă
+- deva
+- Deve
+- Deve starog svijeta
+- Deveja
+- Devä
+- Dəvə
+- Efunumu ponko
+- Gaala
+- Gameo
+- Geel
+- Ghą́ą́ʼaskʼidii
+- Hêştir
+- Ingamiya
+- Kaamel
+- Kaamli
+- kameel
+- Kameels
+- Kamel
+- Kamela
+- kamelen
+- kameler
+- kamelio
+- kamelit
+- Kamelo
+- kamelslekta
+- Kamelur
+- Kamelyo
+- Kamielen
+- Kamieļi
+- Kamillu
+- Kamél
+- Kopranogarē
+- Kowrvargh
+- Kupranugariai
+- Laakumi
+- Lakunmi
+- Lo̍k-thò
+- Lo̍k-tô
+- làmgídà
+- Lŏk-dò̤
+- Lạc đà
+- Mymba'akãndu
+- Ngamia
+- ngeelooba
+- Nghamera
+- Odari
+- olfend
+- Onta
+- Pa'e'pa'onáhe
+- Pikukturuaq
+- Rameva
+- raƙumi
+- teve
+- Tuya
+- Tylopodes
+- töge
+- Túye
+- ucc
+- Unta
+- Unto
+- Untth
+- Uuntth
+- velblod
+- velbloud
+- Verblüdad
+- wielbłąd
+- Émkal
+- Úlfaldar
+- Ťava
+- κάμηλος
+- καμήλα
+- Варани
+- верблюд
+- верблюды
+- вярблюд
+- вярблюды
+- Деве
+- Дуе
+- дуэ
+- Дөйә
+- дөя
+- Инкалаш
+- ишим
+- камила
+- камили
+- Махъушэ
+- Тĕве
+- Темән
+- Теуа
+- Тэбиэн
+- Тэмээ
+- Тэмээн
+- Түйелер
+- Төө
+- Тӱе
+- Шутур
+- ուղտեր
+- גמל
+- קעמל
+- اونٹ
+- اونٹھ
+- اوښ
+- اّٹھ
+- اٺ
+- تۆگە
+- جمل
+- دوه
+- شتر
+- وشتر
+- ܓܡܠܐ
+- उँट
+- उंट
+- उंथ
+- उष्ट्रः
+- ऊँट
+- উট
+- ਊਠ
+- ஒட்டகம்
+- ఒంటె
+- ಒಂಟೆ
+- ഒട്ടകം
+- ඔටුවා
+- อูฐ
+- རྔ་མོང་།
+- ကုလားအုတ်
+- არქემი
+- აქლემი
+- ግመል
+- ᎨᎻᎵ
+- ᡨᡝᠮᡝᠨ
+- ᱩᱸ~ᱴ
+- ラクダ
+- 駱駝
+- 駱駝屬
+- 骆驼
+- 骆驼属
+- 낙타
 has_id_wikidata: Q7375
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cri%20du%20chameau.wav
 Colon_Classification: KX446
@@ -9,14 +163,14 @@ Commons_category: Camelus
 Commons_gallery: Camelus
 depicted_by: '[[_Standards/WikiData/WD~The_Magical_Procession,131627550]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~Q55443222,55443222]]'
 EPPO_Code: 1CMELG
 exact_match: https://ids.clld.org/parameters/3-780
@@ -41,8 +195,219 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Camel%
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 title: Camelinae
 UNSPSC_Code: 10101517
+dv_has_:
+  name_:
+    acm: جمل
+    ady: Махъушэ
+    af: kameel
+    ak: Efunumu ponko
+    am: ግመል
+    an: Camelus
+    ang: olfend
+    anp: ऊँट
+    ar: جمل
+    arc: ܓܡܠܐ
+    ary: جمل
+    arz: جمل
+    as: উট
+    ast: Camelus
+    av: Варани
+    avk: Cwol (Camelus)
+    awa: उँट
+    az: Dəvə
+    azb: دوه
+    ba: Дөйә
+    ban: Unta
+    bcl: Kamelyo
+    be: вярблюды
+    be-tarask: вярблюд
+    bg: камили
+    bi: Kamel
+    bn: উট
+    bo: རྔ་མོང་།
+    br: Camelus
+    brh: ucc
+    bs: Deva
+    bxr: Тэмээн
+    ca: Camell
+    cdo: Lŏk-dò̤
+    ce: Émkal
+    ceb: Camelus
+    chr: ᎨᎻᎵ
+    chy: Pa'e'pa'onáhe
+    ckb: وشتر
+    co: Camellu
+    crh: Deve
+    cs: velbloud
+    csb: Kamél
+    cv: Тĕве
+    cy: camel
+    da: Camelus
+    dag: Laakumi
+    de: Altweltkamele
+    diq: Deve
+    el: καμήλα
+    en: Camelus
+    en-ca: Camel
+    en-gb: camel
+    eo: kamelo
+    es: Camelus
+    et: Kaamel
+    eu: Camelus
+    ext: Camelus
+    fa: شتر
+    ff: ngeelooba
+    fi: kamelit
+    fo: Kamelur
+    fon: Lakunmi
+    fr: chameau
+    fy: Kamielen
+    ga: camall
+    gag: Devä
+    gd: Càmhal
+    gl: Camelo
+    gn: Mymba'akãndu
+    gom: Untth
+    grc: κάμηλος
+    gsw: Altweltkamele
+    ha: raƙumi
+    hak: Lo̍k-thò
+    he: גמל
+    hi: ऊँट
+    hif: Uuntth
+    hr: Deve starog svijeta
+    ht: Chamo
+    hu: teve
+    hy: ուղտեր
+    hyw: Ուղտեր
+    ia: Camelus
+    id: unta
+    ie: Camelus
+    ig: Camelus
+    ik: Pikukturuaq
+    ilo: kamelio
+    inh: Инкалаш
+    io: Kamelo
+    is: Úlfaldar
+    it: Camelus
+    ja: ラクダ
+    jam: Kamel
+    jv: Onta
+    ka: აქლემი
+    kaa: Túye
+    kab: Alɣem
+    kbp: Aɖaɖa
+    kcg: A̱lakumi
+    kk: Түйелер
+    kn: ಒಂಟೆ
+    ko: 낙타
+    ku: Hêştir
+    kw: Kowrvargh
+    ky: Төө
+    la: Camelus
+    lad: Gameo
+    lbe: Варани
+    lez: Деве
+    lfn: Camel
+    lt: Kupranugariai
+    lv: Kamieļi
+    lzh: 駱駝
+    mad: Onta
+    mcn: làmgídà
+    mdf: ишим
+    mg: Rameva
+    mhr: Тӱе
+    min: Unto
+    mk: камила
+    ml: ഒട്ടകം
+    mn: Тэмээ
+    mnc: ᡨᡝᠮᡝᠨ
+    mr: उंट
+    ms: Unta
+    mul: Camelus
+    my: ကုလားအုတ်
+    myv: Дуе
+    mzn: شتر
+    nah: Cameyoh
+    nan: Lo̍k-tô
+    nb: kameler
+    nds: Kameels
+    ne: उँट
+    new: उंथ
+    nl: kamelen
+    nn: kamelslekta
+    nso: Kamela
+    nv: Ghą́ą́ʼaskʼidii
+    oc: Tylopodes
+    om: Gaala
+    os: Теуа
+    pa: ਊਠ
+    pcd: Camioe
+    pl: wielbłąd
+    pnb: اونٹھ
+    ps: اوښ
+    pt: Camelus
+    pt-br: Camelo
+    qu: Kamillu
+    rmy: Odari
+    ro: Cămilă
+    ru: верблюды
+    rw: Ingamiya
+    sa: उष्ट्रः
+    sah: Тэбиэн
+    sat: ᱩᱸ~ᱴ
+    scn: camiddu
+    sco: camel
+    sd: اٺ
+    sgs: Kopranogarē
+    sh: deva
+    si: ඔටුවා
+    sk: Ťava
+    skr: اّٹھ
+    sl: velblod
+    sn: Nghamera
+    so: Geel
+    sq: Deveja
+    sr: камила
+    su: Onta
+    sv: Camelus
+    sw: Ngamia
+    szl: Kamela
+    ta: ஒட்டகம்
+    tcy: ಒಂಟೆ
+    te: ఒంటె
+    tg: Шутур
+    th: อูฐ
+    tl: Kamelyo
+    tpi: Kamel
+    tr: deve
+    tt: дөя
+    tt-cyrl: дөя
+    udm: дуэ
+    ug: تۆگە
+    ug-latn: töge
+    uk: верблюд
+    ur: اونٹ
+    uz: Tuya
+    vep: Verblüdad
+    vi: Lạc đà
+    vls: Camelus
+    vo: Camelus
+    vro: Kaamli
+    wa: Chamo
+    war: Kamelyo
+    wuu: 骆驼
+    xal: Темән
+    xmf: არქემი
+    yi: קעמל
+    yo: Camelus
+    yue: 駱駝
+    zh: 骆驼属
+    zh-cn: 骆驼属
+    zh-hans: 骆驼属
+    zh-hant: 駱駝屬
+    zh-tw: 駱駝屬
 ---
-
 # [[Camel]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Camelus,7375|WD~Camelus,7375]]  

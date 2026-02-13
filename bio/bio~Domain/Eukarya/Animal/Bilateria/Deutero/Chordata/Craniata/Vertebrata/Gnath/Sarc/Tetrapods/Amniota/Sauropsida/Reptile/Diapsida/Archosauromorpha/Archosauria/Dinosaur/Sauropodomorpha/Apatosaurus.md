@@ -1,18 +1,49 @@
 ---
 aliases:
-  - Apatosaurus
-  - 迷惑龍
+- Apatasár
+- Apatosaur
+- apatosaure
+- Apatosaurus
+- apatossauro
+- Apatozaur
+- Apatozauras
+- apatozauri
+- Apatozaver
+- Apatozavr
+- Apatozawr
+- Apotozavr
+- Απατόσαυρος
+- Апатазаўр
+- апатозавр
+- апатозаври
+- Апатосаурус
+- Апатосаѵръ
+- ապատոզավր
+- אפטוזאורוס
+- آپاتوسورس
+- أباتوصور
+- اپاٹوسارس
+- دایناسۆری ئاپاتۆسۆر
+- ब्रान्टोसारस्
+- ଆପାଟୋସରସ୍
+- അപാറ്റൊസോറസ്
+- อะแพโทซอรัส
+- ბრონტოზავრი
+- アパトサウルス
+- 迷惑龍
+- 迷惑龙属
+- 아파토사우루스
 has_id_wikidata: Q14326
 location_of_discovery:
-  - '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Brontosaurus,3222766]]'
 described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 end_time: -151000000-06
 length:
-  - 21
-  - 22.8
+- 21
+- 22.8
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 mass: 22.4
 main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
@@ -26,8 +57,91 @@ Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Apatosaurus"]
 taxon_common_name: 迷惑龍
 start_time: -152000000-06
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Apatosaurus%20distribution%20map.png
+dv_has_:
+  name_:
+    af: Apatosaurus
+    an: Apatosaurus
+    ar: أباتوصور
+    ast: Apatosaurus
+    az: Apatozavr
+    be: Апатазаўр
+    be-tarask: апатазаўр
+    bg: апатозаври
+    ca: apatosaure
+    ceb: Apatosaurus
+    ckb: دایناسۆری ئاپاتۆسۆر
+    cs: Apatosaurus
+    cu: Апатосаѵръ
+    cy: Apatosaurus
+    da: Apatosaurus
+    de: Apatosaurus
+    el: Απατόσαυρος
+    en: Apatosaurus
+    en-ca: Apatosaurus
+    en-gb: Apatosaurus
+    en-us: Apatosaurus
+    es: Apatosaurus
+    et: Apatosaurus
+    eu: Apatosaurus
+    fa: آپاتوسورس
+    fi: Apatosaurus
+    fo: Apatosaurus
+    fr: Apatosaurus
+    ga: Apatasár
+    gl: Apatosaurus
+    he: אפטוזאורוס
+    hr: Apatosaur
+    hu: Apatosaurus
+    hy: ապատոզավր
+    ia: Apatosaurus
+    id: Apatosaurus
+    it: Apatosaurus
+    ja: アパトサウルス
+    jv: Apatosaurus
+    ka: ბრონტოზავრი
+    kk: Апатозавр
+    ko: 아파토사우루스
+    la: Apatosaurus
+    lt: Apatozauras
+    lv: apatozauri
+    mk: Апатосаурус
+    ml: അപാറ്റൊസോറസ്
+    ms: Apatosaurus
+    mul: Apatosaurus
+    nb: Apatosaurus
+    nl: Apatosaurus
+    nn: Apatosaurus
+    oc: Apatosaurus
+    or: ଆପାଟୋସରସ୍
+    pl: Apatozaur
+    pnb: اپاٹوسارس
+    pt: apatossauro
+    pt-br: apatossauro
+    ro: Apatosaurus
+    ru: апатозавр
+    sa: ब्रान्टोसारस्
+    sco: Apatosaurus
+    sh: Apatosaur
+    sk: Apatosaurus
+    sl: Apatozaver
+    sq: Apatosaurus
+    sr: апатосаурус
+    sr-ec: Апатосаурус
+    sv: Apatosaurus
+    th: อะแพโทซอรัส
+    tk: Apatozawr
+    tl: Apatosaurus
+    tr: Apatosaurus
+    uk: Апатозавр
+    uz: Apotozavr
+    vi: Apatosaurus
+    war: Apatosaurus
+    wuu: 迷惑龙属
+    yue: 迷惑龍
+    zh: 迷惑龙属
+    zh-cn: 迷惑龙属
+    zh-hans: 迷惑龙属
 ---
-
 # [[Apatosaurus]] 
 
 #is_/same_as  :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Apatosaurus,14326|WD~Apatosaurus,14326]] 

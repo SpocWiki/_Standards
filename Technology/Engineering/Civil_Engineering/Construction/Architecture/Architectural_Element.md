@@ -1,17 +1,129 @@
 ---
 aliases:
+- architecturaal element
+- architectural element
+- architektonický prvek
+- architektonický článok
+- architektūros elementas
+- arhitektonski element
+- arhitekturni element
+- arhitektuurielement
+- arhitektūras elements
+- arkitektonisk element
+- arkitektura elementu
+- arkkitehtoninen yksityiskohta
+- Bauteil
+- boukundich ûnderdiel
+- byggnadsdetalj
+- bygningsdel
+- element architektoniczny
+- element arhitectural
+- element arquitectònic
+- elemento architettonico
+- elemento arquitectónico
+- elemento arquitetónico
+- elementu arquiteutónicu
+- elfen bensaernïol
+- elfenn savouriezh
+- ełemento architetònego
+- konstruelemento
+- mimari öge
+- unsur seni bina
+- élément d'architecture
+- építészeti elem
+- αρχιτεκτονικό στοιχείο
+- архітектурний елемент
+- архітэктурны элемэнт
+- архитектонски елемент
+- архитектур элемент
+- Барилгын хэсэглэл
+- Блок (сохтмон)
+- будаўнічы элемент
+- строительный блок
+- מרכיב אדריכלי
+- عنصر معماري
+- عنصر معماری
+- عنصور سني بينا
+- 土木元素
+- 建筑元素
+- 建築元素
+- 建築要素
+- 건축 요소
 has_id_wikidata: Q391414
-different_from: "[[_Standards/WikiData/WD~fixed_construction,811430]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~building_block,4444145]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q10004408,10004408]]"
-subclass_of: "[[_Standards/WikiData/WD~design_element,55412936]]"
+different_from: '[[_Standards/WikiData/WD~fixed_construction,811430]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~building_block,4444145]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10004408,10004408]]'
+subclass_of: '[[_Standards/WikiData/WD~design_element,55412936]]'
 part_of:
-  - "[[_Standards/WikiData/WD~architecture,12271]]"
-  - "[[_Standards/WikiData/WD~building,41176]]"
+- '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
 Commons_category: Architectural elements
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Avila%20San%20Pedro%20Vaults.jpg
+dv_has_:
+  name_:
+    ar: عنصر معماري
+    ast: elementu arquiteutónicu
+    be: будаўнічы элемент
+    be-tarask: архітэктурны элемэнт
+    br: elfenn savouriezh
+    ca: element arquitectònic
+    cs: architektonický prvek
+    cy: elfen bensaernïol
+    da: bygningsdel
+    de: Bauteil
+    el: αρχιτεκτονικό στοιχείο
+    en: architectural element
+    eo: konstruelemento
+    es: elemento arquitectónico
+    et: arhitektuurielement
+    eu: arkitektura elementu
+    fa: عنصر معماری
+    fi: arkkitehtoninen yksityiskohta
+    fr: élément d'architecture
+    fy: boukundich ûnderdiel
+    gl: elemento arquitectónico
+    he: מרכיב אדריכלי
+    hr: arhitektonski element
+    hu: építészeti elem
+    it: elemento architettonico
+    ja: 建築要素
+    ko: 건축 요소
+    lt: architektūros elementas
+    lv: arhitektūras elements
+    mk: архитектонски елемент
+    mn: Барилгын хэсэглэл
+    ms: unsur seni bina
+    ms-arab: عنصور سني بينا
+    nb: arkitektonisk element
+    nl: architecturaal element
+    nn: bygningsdel
+    pl: element architektoniczny
+    pt: elemento arquitetónico
+    pt-br: elemento arquitetónico
+    ro: element arhitectural
+    ru: строительный блок
+    sh: arhitektonski element
+    sk: architektonický článok
+    sl: arhitekturni element
+    sr: архитектонски елемент
+    sr-ec: архитектонски елемент
+    sv: byggnadsdetalj
+    tg: Блок (сохтмон)
+    tr: mimari öge
+    tt: архитектур элемент
+    uk: архітектурний елемент
+    vec: ełemento architetònego
+    yue: 土木元素
+    zh: 建築元素
+    zh-cn: 建筑元素
+    zh-hans: 建筑元素
+    zh-hant: 建築元素
+    zh-hk: 建築元素
+    zh-mo: 建築元素
+    zh-my: 建筑元素
+    zh-sg: 建筑元素
+    zh-tw: 建築元素
 ---
-
 # [[Architectural_Element]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~architectural_element,391414]] 

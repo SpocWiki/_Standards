@@ -1,8 +1,160 @@
 ---
 aliases:
-  - Abel Prize
-  - Abel_Prize
+- Abel mukofoti
+- Abel mükafatı
+- Abel Prize
+- Abel Saria
+- Abel Ödülü
+- Abel-díj
+- Abel-Premio
+- Abeli auhind
+- Abelin palkinto
+- Abelio premija
+- Abelova cena
+- Abelova nagrada
+- Abelpreis
+- Abelpries
+- Abelprijs
+- Abelprisen
+- Abelpriset
+- Abelsverðlaunin
+- Abel_Prize
+- Duais Abel
+- Giải Abel
+- Gwobr Abel
+- Nagroda Abela
+- Penghargaan Abel
+- Premi Abel
+- premio Abel
+- Premiu Abel
+- Premiul Abel
+- Premyo Abel
+- prix Abel
+- Priz Abel
+- Prémio Abel
+- Prêmio Abel
+- Ābela prēmija
+- βραβείο Άμπελ
+- Абел сыйлыгы
+- Абелівська премія
+- Абелеўская прэмія
+- Абелевская премия
+- Абелийн шагнал
+- Абелова награда
+- Абель сыйлығы
+- Աբելի մրցանակ
+- Ապելի Մրցանակ
+- אבעל-פריז
+- פרס אבל
+- ابیل انعام
+- ایبل انعام
+- جائزة أبيل
+- جایزه آبل
+- خەڵاتی ئابێل
+- एबल पुरस्कार
+- एबेल पुरस्कार
+- আবেল পুরস্কার
+- এবেল বঁটা
+- ଆବେଲ୍ ପୁରସ୍କାର
+- ஏபெல் பரிசு
+- ആബേൽ പുരസ്കാരം
+- ඒබල් ත්යාගය
+- รางวัลอาเบล
+- აბელის პრემია
+- აბელიშ პრემია
+- アーベル賞
+- 阿貝爾獎
+- 阿贝尔奖
+- 아벨상
 has_id_wikidata: Q188184
+dv_has_:
+  name_:
+    ar: جائزة أبيل
+    as: এবেল বঁটা
+    ast: Premiu Abel
+    az: Abel mükafatı
+    bcl: Premyo Abel
+    be: Абелеўская прэмія
+    bg: Абелова награда
+    bn: আবেল পুরস্কার
+    br: Priz Abel
+    bs: Abelova nagrada
+    ca: Premi Abel
+    ckb: خەڵاتی ئابێل
+    cs: Abelova cena
+    cy: Gwobr Abel
+    da: Abelprisen
+    de: Abelpreis
+    el: βραβείο Άμπελ
+    en: Abel Prize
+    eo: Abel-Premio
+    es: premio Abel
+    et: Abeli auhind
+    eu: Abel Saria
+    fa: جایزه آبل
+    fi: Abelin palkinto
+    fr: prix Abel
+    ga: Duais Abel
+    gl: Premio Abel
+    he: פרס אבל
+    hi: एबल पुरस्कार
+    hr: Abelova nagrada
+    hu: Abel-díj
+    hy: Աբելի մրցանակ
+    hyw: Ապելի Մրցանակ
+    id: Penghargaan Abel
+    io: Abel-Premio
+    is: Abelsverðlaunin
+    it: premio Abel
+    ja: アーベル賞
+    ka: აბელის პრემია
+    kk: Абель сыйлығы
+    ko: 아벨상
+    ky: Абел сыйлыгы
+    lt: Abelio premija
+    lv: Ābela prēmija
+    mk: Абелова награда
+    ml: ആബേൽ പുരസ്കാരം
+    mn: Абелийн шагнал
+    nb: Abelprisen
+    nds: Abelpries
+    ne: एबेल पुरस्कार
+    nl: Abelprijs
+    nn: Abelprisen
+    or: ଆବେଲ୍ ପୁରସ୍କାର
+    pl: Nagroda Abela
+    pnb: ابیل انعام
+    pt: Prémio Abel
+    pt-br: Prêmio Abel
+    ro: Premiul Abel
+    ru: Абелевская премия
+    sco: Abel Prize
+    sh: Abelova nagrada
+    si: ඒබල් ත්යාගය
+    sk: Abelova cena
+    sl: Abelova nagrada
+    sr: Абелова награда
+    sr-ec: Абелова награда
+    sr-el: Abelova nagrada
+    sv: Abelpriset
+    ta: ஏபெல் பரிசு
+    th: รางวัลอาเบล
+    tr: Abel Ödülü
+    uk: Абелівська премія
+    ur: ایبل انعام
+    uz: Abel mukofoti
+    vi: Giải Abel
+    wuu: 阿贝尔奖
+    xmf: აბელიშ პრემია
+    yi: אבעל-פריז
+    yue: 阿貝爾獎
+    zh: 阿贝尔奖
+    zh-cn: 阿贝尔奖
+    zh-hans: 阿贝尔奖
+    zh-hant: 阿貝爾獎
+    zh-hk: 阿貝爾獎
+    zh-sg: 阿贝尔奖
+    zh-tw: 阿貝爾獎
 ---
 #is_/similar_to :: [[Fields_Medal]] 
 

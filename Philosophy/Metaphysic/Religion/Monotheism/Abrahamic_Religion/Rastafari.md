@@ -1,23 +1,84 @@
 ---
 aliases:
-  - Rastafarian
-  - Rasta
-  - Rastafarians
-  - Rastas
-  - Rastafari
+- Chisopa cha Rasta
+- Gluaiseacht Rastafárach
+- Mișcarea Rastafari
+- mouvement rastafari
+- Mouvman rastafari
+- Movemento rastafari
+- movimento rastafári
+- Movimiento rastafari
+- Movimientu rastafari
+- nasin sewi Watapawi
+- Rasta
+- Rastafarachd
+- Rastafarai
+- Rastafari
+- Rastafari hərəkatı
+- Rastafari mugimendu
+- Rastafaria movado
+- Rastafarian
+- rastafarianesimo
+- Rastafarianesimu
+- Rastafarianism
+- Rastafarianisme
+- Rastafarianizm
+- Rastafarians
+- rastafarijanstvo
+- Rastafarilæran
+- Rastafarisma
+- rastafarisme
+- rastafarizmas
+- Rastafariánstvo
+- Rastafariánství
+- Rastafarjaniżmu
+- Rastafaryanizm
+- Rastaffariaeth
+- Rastas
+- rasztafariánus mozgalom
+- Ruch Rastafari
+- Ρασταφαριανισμός
+- растафаріанство
+- Растафари
+- растафаријанство
+- растафарианство
+- Растафары
+- растафарыянства
+- Ռաստաֆարական շարժում
+- ראסטפארי
+- الرستفارية
+- جنبش راستافار
+- راستافاريه
+- راستافاری
+- रस्ताफ़री
+- রাস্তাফারি
+- ਰਾਸਤਾਫਾਰੀ ਲਹਿਰ
+- ராஸ்தஃபாரை
+- റസ്തഫാരി മതം
+- රස්තෆාරි දහම
+- ขบวนการราสตาฟารี
+- რასტაფარი
+- ራስታፋራይ እንቅስቃሴ
+- សាសានារ៉ាស្តាហ្វារី
+- ラスタファリ運動
+- 拉斯塔法里运动
+- 拉斯特法里
+- 拉斯特法里运动
+- 拉斯特法里運動
+- 라스타파리 운동
 has_id_wikidata: Q101462
 part_of: '[[_Standards/WikiData/WD~new_religious_movement,477544]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Rastafari,11833809]]'
-  - '[[_Standards/WikiData/WD~Pastafarianism,14397660]]'
+- '[[_Standards/WikiData/WD~Rastafari,11833809]]'
+- '[[_Standards/WikiData/WD~Pastafarianism,14397660]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
-  - '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~ideology,7257]]'
-  - '[[_Standards/WikiData/WD~religion,9174]]'
-  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
 named_after: '[[_Standards/WikiData/WD~Haile_Selassie_I,41178]]'
 hashtag_: Rastafari
 Commons_category: Rastafari
@@ -25,8 +86,104 @@ native_label: Rastafari
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dreadlocked%20rasta.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia%20%281897%E2%80%931974%29.svg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
+dv_has_:
+  name_:
+    af: Rastafarianisme
+    am: ራስታፋራይ እንቅስቃሴ
+    ar: الرستفارية
+    arz: راستافاريه
+    ast: Movimientu rastafari
+    az: Rastafari hərəkatı
+    bar: Rastafari
+    be: Растафары
+    be-tarask: растафарыянства
+    bg: Растафари
+    bn: রাস্তাফারি
+    ca: rastafarisme
+    co: Rastafarianesimu
+    cs: Rastafariánství
+    cy: Rastaffariaeth
+    da: Rastafarianisme
+    de: Rastafari
+    diq: Rastafaryanizm
+    el: Ρασταφαριανισμός
+    en: Rastafari
+    eo: Rastafaria movado
+    es: Movimiento rastafari
+    et: Rastafarianism
+    eu: Rastafari mugimendu
+    fa: جنبش راستافار
+    fi: rastafari
+    fo: Rastafarilæran
+    fr: mouvement rastafari
+    fy: rastafarianisme
+    ga: Gluaiseacht Rastafárach
+    gd: Rastafarachd
+    gl: Movemento rastafari
+    ha: Rastafari
+    he: ראסטפארי
+    hi: रस्ताफ़री
+    hr: rastafarijanstvo
+    ht: Mouvman rastafari
+    hu: rasztafariánus mozgalom
+    hy: Ռաստաֆարական շարժում
+    ia: Rastafari
+    id: Rastafari
+    is: Rastafari
+    it: rastafarianesimo
+    ja: ラスタファリ運動
+    jam: Rastafarai
+    ka: რასტაფარი
+    km: សាសានារ៉ាស្តាហ្វារី
+    ko: 라스타파리 운동
+    koi: Растафари
+    lt: rastafarizmas
+    lv: Rastafari
+    mg: Rastafarisma
+    mk: растафаријанство
+    ml: റസ്തഫാരി മതം
+    ms: Rastafari
+    mt: Rastafarjaniżmu
+    nb: rastafari
+    nds: Rastafari
+    nds-nl: Rastafarianisme
+    nl: Rastafari
+    nn: rastafari
+    oc: Rastafari
+    pa: ਰਾਸਤਾਫਾਰੀ ਲਹਿਰ
+    pap: Rastafari
+    pl: Ruch Rastafari
+    pt: movimento rastafári
+    pt-br: movimento rastafári
+    ro: Mișcarea Rastafari
+    ru: растафарианство
+    sh: Rastafarijanstvo
+    si: රස්තෆාරි දහම
+    sk: Rastafariánstvo
+    sl: rastafarijanstvo
+    sq: Rastafari
+    sr: Растафаријанство
+    sr-ec: Растафаријанство
+    sr-el: Rastafarijanstvo
+    sv: Rastafari
+    sw: Rastafari
+    ta: ராஸ்தஃபாரை
+    th: ขบวนการราสตาฟารี
+    tok: nasin sewi Watapawi
+    tr: Rastafarianizm
+    tum: Chisopa cha Rasta
+    uk: растафаріанство
+    ur: راستافاری
+    wuu: 拉斯塔法里运动
+    yue: 拉斯特法里
+    zh: 拉斯特法里运动
+    zh-cn: 拉斯特法里运动
+    zh-hans: 拉斯特法里运动
+    zh-hant: 拉斯特法里運動
+    zh-hk: 拉斯特法里運動
+    zh-sg: 拉斯特法里运动
+    zh-tw: 拉斯特法里運動
 ---
-
 # [[Rastafari]] 
 
 #is_/different_from :: [[../Pastafari]] 

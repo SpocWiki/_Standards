@@ -1,22 +1,151 @@
 ---
 aliases:
-  - operational amplifier
-  - op amp
-  - opamp
-  - Operational_Amplifier
-  - Operational Amplifier
+- ampflificator operationalis
+- amplificador operacional
+- amplificateur opérationnel
+- Amplificator operassional
+- amplificator operațional
+- amplificatore operazionale
+- amplifikatorët operacional
+- anplifikadore operazional
+- ic741
+- işlemsel yükselteç
+- műveleti erősítő
+- mạch khuếch đại thuật toán
+- oOperacijsko pojačalo
+- op amp
+- op-amp
+- opamp
+- operaatiovahvistin
+- operacia amplifilo
+- operacijski ojačevalnik
+- operacinis stiprintuvas
+- operacioni pojačavač
+- operacionālais pastiprinātājs
+- operacïyalıq küşeýtkiş
+- operasjonsforsterkar
+- operasjonsforsterker
+- operational amplifier
+- Operational_Amplifier
+- operationele versterker
+- operationsforstærker
+- operationsförstärkare
+- Operationsverstärker
+- operatsioonvõimendi
+- operační zesilovač
+- operačný zosilňovač
+- penguat kendalian
+- penguat operasional
+- qarshilikli kuchaytirgich
+- wzmacniacz operacyjny
+- апэрацыйны ўзмацняльнік
+- операційний підсилювач
+- операционен осилвател
+- операциони појачавач
+- операционный усилитель
+- операциялық күшейткіш
+- מגבר שרת
+- تقویتکننده عملیاتی
+- مضخم عملياتي
+- وپەراتسىييالىق كۇشەيتكىش
+- आपरेशनल एम्प्लिफायर
+- সক্রিয় বিবর্ধক
+- செயல்படு பெருக்கி
+- ఆపరేషనల్ ఆమ్ప్లిఫయర్
+- ഓപ്പറേഷണൽ ആംപ്ലിഫയർ
+- အော်ပရေရှင်နယ် အင်ပလီဖိုင်ယာ
+- オペアンプ
+- 运算放大器
+- 運算放大器
+- 연산 증폭기
 has_id_wikidata: Q178947
 subclass_of:
-  - '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
-  - '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
+- '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
+- '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
-  - '[[_Standards/WikiData/WD~amplifier,27094]]'
+- '[[_Standards/WikiData/WD~electronic_amplifier,211554]]'
+- '[[_Standards/WikiData/WD~amplifier,27094]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ua741%20opamp.jpg
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/op-amp
 Commons_category: Operational amplifiers
+dv_has_:
+  name_:
+    ar: مضخم عملياتي
+    ast: amplificador operacional
+    be-tarask: апэрацыйны ўзмацняльнік
+    bg: операционен осилвател
+    bn: সক্রিয় বিবর্ধক
+    bug: op-amp
+    ca: amplificador operacional
+    cs: operační zesilovač
+    da: operationsforstærker
+    de: Operationsverstärker
+    de-ch: Operationsverstärker
+    en: operational amplifier
+    en-ca: operational amplifier
+    en-gb: operational amplifier
+    eo: operacia amplifilo
+    es: amplificador operacional
+    et: operatsioonvõimendi
+    eu: anplifikadore operazional
+    fa: تقویتکننده عملیاتی
+    fi: operaatiovahvistin
+    fr: amplificateur opérationnel
+    gl: amplificador operacional
+    he: מגבר שרת
+    hi: आपरेशनल एम्प्लिफायर
+    hr: oOperacijsko pojačalo
+    hu: műveleti erősítő
+    id: penguat operasional
+    it: amplificatore operazionale
+    ja: オペアンプ
+    kk: операциялық күшейткіш
+    kk-arab: وپەراتسىييالىق كۇشەيتكىش
+    kk-cn: وپەراتسىييالىق كۇشەيتكىش
+    kk-cyrl: операциялық күшейткіш
+    kk-kz: операциялық күшейткіш
+    kk-latn: operacïyalıq küşeýtkiş
+    kk-tr: operacïyalıq küşeýtkiş
+    ko: 연산 증폭기
+    la: ampflificator operationalis
+    lt: operacinis stiprintuvas
+    lv: operacionālais pastiprinātājs
+    ml: ഓപ്പറേഷണൽ ആംപ്ലിഫയർ
+    ms: penguat kendalian
+    my: အော်ပရေရှင်နယ် အင်ပလီဖိုင်ယာ
+    nb: operasjonsforsterker
+    nl: operationele versterker
+    nn: operasjonsforsterkar
+    pl: wzmacniacz operacyjny
+    pms: Amplificator operassional
+    pt: amplificador operacional
+    pt-br: amplificador operacional
+    ro: amplificator operațional
+    ru: операционный усилитель
+    sh: operacioni pojačavač
+    sk: operačný zosilňovač
+    sl: operacijski ojačevalnik
+    sq: amplifikatorët operacional
+    sr: operacioni pojačavač
+    sr-ec: операциони појачавач
+    sr-el: operacioni pojačavač
+    sv: operationsförstärkare
+    ta: செயல்படு பெருக்கி
+    te: ఆపరేషనల్ ఆమ్ప్లిఫయర్
+    tr: işlemsel yükselteç
+    uk: операційний підсилювач
+    ur: ic741
+    uz: qarshilikli kuchaytirgich
+    vi: mạch khuếch đại thuật toán
+    yue: 運算放大器
+    zh: 運算放大器
+    zh-cn: 运算放大器
+    zh-hans: 运算放大器
+    zh-hant: 運算放大器
+    zh-hk: 運算放大器
+    zh-sg: 运算放大器
+    zh-tw: 運算放大器
 ---
-
 # [[Operational_Amplifier]] 
 
 #is_/same_as :: [[WD~Operational_amplifier,178947]] 

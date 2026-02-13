@@ -1,56 +1,203 @@
 ---
 aliases:
+- Cherokee
+- Cherokee (gente)
+- Cherokee (vouk)
+- Cherokee Indijanci
+- Cherokee-indiánarnir
+- Cherokeenses
+- cherokeer
+- cherokees
+- cherokeet
+- Cherokeser
+- Cheroqui
+- Chiroqilar
+- Chiruki
+- Chééwokii dinéʼiʼ
+- cserokik
+- Czirokezi
+- Pobo cherokee
+- Seiricíoch
+- Sena'kaneo'o
+- Sérókar
+- Tserôky (vahoaka)
+- Txeroki
+- Tšerokiid
+- Çerokiler
+- Çerokilər
+- Ĉerokoj
+- Čerokiai
+- Čerokíovia
+- Čerokíové
+- čiroki
+- Čiroki indijanci
+- Τσερόκι
+- черокі
+- чероки
+- Чироки индијанци
+- чэрокі
+- Չերոկիներ
+- צ'רוקי
+- شيروكي
+- چروکی
+- چروکیلر
+- चेरोकी
+- செரோக்கீ
+- ചെറോക്കീ
+- เชอโรคี
+- ჩეროკები
+- ጻላጊ
+- ᏣᎳᎩ
+- チェロキー
+- 切罗基人
+- 切羅基人
+- 柴羅基人
+- 체로키족
 has_id_wikidata: Q105405
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Native_American_Church,920084]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~animism,43004]]"
-history_of_topic: "[[_Standards/WikiData/WD~Cherokee_history,5092233]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Cherokee_Nation,5456858]]"
+- '[[_Standards/WikiData/WD~Native_American_Church,920084]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~animism,43004]]'
+history_of_topic: '[[_Standards/WikiData/WD~Cherokee_history,5092233]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Cherokee_Nation,5456858]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Cherokee,33388]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Cherokee,33388]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Cherokee,33388]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-language_used: "[[_Standards/WikiData/WD~Cherokee,33388]]"
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
-subclass_of: "[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Cherokee,33388]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+language_used: '[[_Standards/WikiData/WD~Cherokee,33388]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+subclass_of: '[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]'
 Commons_category: Cherokee
 population: 299862
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cherokee%20Nation.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Inman%20-%20Sequoyah%20-%20Google%20Art%20Project.jpg
-U_S_National_Archives_Identifier: "10637180"
-P8189: "987007285056005171"
+U_S_National_Archives_Identifier: 10637180
+P8189: 987007285056005171
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]"
-    - "[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]"
-    - "[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]"
-    - "[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]"
-    - "[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]"
-    - "[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]"
+  - '[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]'
+  - '[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]'
+  - '[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]'
+  - '[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]'
+  - '[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]'
+  - '[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]"
-  - "[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]"
-  - "[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]"
-  - "[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]"
-  - "[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]"
-  - "[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]"
+- '[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]'
+- '[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]'
+- '[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]'
+- '[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]'
+- '[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]'
+- '[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]'
+- '[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]'
+- '[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]'
+dv_has_:
+  name_:
+    af: Cherokee
+    am: ጻላጊ
+    ar: شيروكي
+    ast: Cheroqui
+    az: Çerokilər
+    azb: چروکیلر
+    ba: Чероки
+    be: чэрокі
+    be-tarask: чэрокі
+    bg: Чероки
+    br: Cherokee
+    ca: cherokees
+    chr: ᏣᎳᎩ
+    chy: Sena'kaneo'o
+    cs: Čerokíové
+    cv: Чероки
+    cy: Cherokee
+    da: Cherokee
+    de: Cherokee
+    el: Τσερόκι
+    en: Cherokee
+    en-ca: Cherokee
+    en-gb: Cherokee
+    eo: Ĉerokoj
+    es: cheroqui
+    et: Tšerokiid
+    eu: Txeroki
+    fa: چروکی
+    fi: cherokeet
+    fo: Cherokee-indiánarnir
+    fr: Cherokees
+    ga: Seiricíoch
+    gl: Pobo cherokee
+    he: צ'רוקי
+    hi: चेरोकी
+    hr: Cherokee Indijanci
+    hu: cserokik
+    hy: Չերոկիներ
+    ia: Cherokee (gente)
+    id: Cherokee
+    is: Sérókar
+    it: Cherokee
+    ja: チェロキー
+    ka: ჩეროკები
+    kk: Чероки
+    ko: 체로키족
+    la: Cherokeenses
+    li: Cherokee (vouk)
+    lt: Čerokiai
+    lv: čiroki
+    mg: Tserôky (vahoaka)
+    mk: Чероки
+    ml: ചെറോക്കീ
+    mr: चेरोकी
+    ms: Cherokee
+    nan: Cherokee
+    nb: cherokeer
+    nds: Cherokee
+    nl: Cherokee
+    nn: cherokeer
+    nv: Chééwokii dinéʼiʼ
+    oc: Cherokees
+    os: чероки
+    pl: Czirokezi
+    pt: cherokee
+    qu: Chiruki
+    ro: Cherokee
+    ru: чероки
+    sco: Cherokee
+    sh: Cherokee
+    sk: Čerokíovia
+    sl: Cherokee
+    sr: Чироки индијанци
+    sr-ec: Чироки индијанци
+    sr-el: Čiroki indijanci
+    sv: Cherokeser
+    ta: செரோக்கீ
+    th: เชอโรคี
+    tr: Çerokiler
+    uk: черокі
+    ur: چروکی
+    uz: Chiroqilar
+    vec: cherokee
+    vi: Cherokee
+    wuu: 切罗基人
+    yue: 柴羅基人
+    zh: 切羅基人
+    zh-cn: 切罗基人
+    zh-hans: 切罗基人
+    zh-hant: 切羅基人
+    zh-hk: 切羅基人
+    zh-sg: 切罗基人
+    zh-tw: 切羅基人
 ---
-
 # [[Cherokee]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]] 

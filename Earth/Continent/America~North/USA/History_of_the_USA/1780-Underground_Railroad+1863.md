@@ -1,26 +1,108 @@
 ---
 aliases:
-  - Underground Railroad
-  - 1780-Underground_Railroad+1863
-  - 1780-Underground Railroad+1863
+- 1780-Underground Railroad+1863
+- 1780-Underground_Railroad+1863
+- chemin de fer clandestin
+- Den underjordiske jernbanen
+- Ferrocarril Subterrani
+- ferrocarril subterráneo
+- Ferrovia Sotterranea
+- földalatti vasút
+- Lurpeko burdinbidea
+- Podzemní železnice
+- Seporo sa ka fa tlatse ga lefatshe
+- Subtera fervojo
+- The Underground Railroad
+- Tuyến hỏa xa ngầm
+- Underground Railroad
+- Underjordiska järnvägen
+- Vak A̱taintuut Tafaa̱byin
+- Yeraltı Demiryolu
+- Υπόγειος σιδηρόδρομος
+- Жер астындагы темир жол
+- Підпільна залізниця
+- Подземната железница
+- Подпольная железная дорога
+- מסילת הרכבת המחתרתית
+- راهآهن زیرزمینی
+- سكة حديدية تحت الأرض
+- भूमिगत रेल
+- 地下鉄道
+- 地下鐵路
+- 地下铁路
+- 지하철도
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]"
-    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]"
+  - '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]'
+  - '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]"
-  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]"
+- '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]'
+- '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]'
 has_id_wikidata: Q868393
+dv_has_:
+  name_:
+    ar: سكة حديدية تحت الأرض
+    bg: Подземната железница
+    ca: Ferrocarril Subterrani
+    cs: Podzemní železnice
+    da: The Underground Railroad
+    dag: Underground Railroad
+    de: Underground Railroad
+    de-ch: Underground Railroad
+    el: Υπόγειος σιδηρόδρομος
+    en: Underground Railroad
+    en-ca: Underground Railroad
+    en-gb: Underground Railroad
+    eo: Subtera fervojo
+    es: ferrocarril subterráneo
+    eu: Lurpeko burdinbidea
+    fa: راهآهن زیرزمینی
+    fi: Underground Railroad
+    fr: chemin de fer clandestin
+    gl: Underground Railroad
+    gpe: Underground Railroad
+    ha: Underground Railroad
+    he: מסילת הרכבת המחתרתית
+    hi: भूमिगत रेल
+    hu: földalatti vasút
+    id: Underground Railroad
+    ig: Underground Railroad
+    it: Ferrovia Sotterranea
+    ja: 地下鉄道
+    kcg: Vak A̱taintuut Tafaa̱byin
+    ko: 지하철도
+    ky: Жер астындагы темир жол
+    mag: भूमिगत रेल
+    ms: Underground Railroad
+    mul: Underground Railroad
+    nb: Den underjordiske jernbanen
+    nl: Underground Railroad
+    pl: Underground Railroad
+    pt: Underground railroad
+    pt-br: Underground railroad
+    ro: Underground Railroad
+    ru: Подпольная железная дорога
+    sv: Underjordiska järnvägen
+    tn: Seporo sa ka fa tlatse ga lefatshe
+    tr: Yeraltı Demiryolu
+    uk: Підпільна залізниця
+    vi: Tuyến hỏa xa ngầm
+    yo: Underground Railroad
+    yue: 地下鐵路
+    zh: 地下鐵路
+    zh-hans: 地下铁路
+    zh-hant: 地下鐵路
+    zh-hk: 地下鐵路
 ---
 # [[1780-Underground_Railroad+1863]] 
 

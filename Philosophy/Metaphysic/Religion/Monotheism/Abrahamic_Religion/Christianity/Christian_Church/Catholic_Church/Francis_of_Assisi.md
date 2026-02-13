@@ -1,121 +1,213 @@
 ---
 aliases:
-  - Franz von Assisi
-  - Giovanni di Pietro di Bernardone
-  - Francis of Assisi
-  - Francis_of_Assisi
+- Assisi Franciscus
+- Assisi Szent Ferenc
+- Assisili Francesco
+- Assizli Fransisko
+- Asīzes Francisks
+- Ffransis o Assisi
+- Fracisco de Assis
+- Francesc d'Assís
+- Francesco d'Assisi
+- Francesco dari Assisi
+- Francis a Assisi
+- Francis of Assisi
+- Francisc de Assisi
+- Francisco de Asis
+- Francisco de Assis
+- Francisco de Assisi
+- Francisco de Asís
+- Francisco han Assisi
+- Francisco ng Asisi
+- Franciscu d'Asís
+- Franciscus Assisiensis
+- Franciscus Assisilainen
+- Franciscus Assisist
+- Franciscus van Assisi
+- Franciskus av Assisi
+- Franciskus van Assisi
+- Franciszek z Asyżu
+- Francis_of_Assisi
+- Francés d'Assís
+- Franjo Asiški
+- Frans af Assisi
+- Frans av Assisi
+- Frans frá Assisí
+- Fransesch d'Assisi
+- Fransisko wa Asizi
+- Fransiskus dari Assisi
+- Fransiskus fan Assisy
+- Fransiskus saking Asisi
+- Fransîsê Asîzî
+- František z Assisi
+- Frantziscu de Assisi
+- Frantzisko Asiskoa
+- Franz vo Assisi
+- Franz von Assisi
+- François d'Assise
+- Françouais d'Assise
+- Françwès d' Assisi
+- Frančišek Asiški
+- Frañsez a Asiz
+- Giovanni di Pietro di Bernardone
+- Phanxicô thành Assisi
+- San Francesch d'Assisi
+- San Francesco de Sisa
+- San Franciscu d'Assisi
+- San Françesco
+- San Franġisk t'Assisi
+- San Proinsias Assisi
+- Sankta Francisko el Asizo
+- Sant Francisco d'Asís
+- Santo Franciscus di Assisi
+- Shën Françesku
+- Sveti Franjo Asiški
+- Swiãti Francëszk z Asëżu
+- Šv. Pranciškus Asyžietis
+- Šv. Prancėškos Asīžėitis
+- Φραγκίσκος της Ασίζης
+- Ассизи Францискӗ
+- Ассизийн Франциск
+- Фрањо Асишки
+- Францішак з Асізі
+- Франциск Асишки
+- Франциск Ассізький
+- Франциск Ассизиянь
+- Франциск Ассизский
+- Франциск от Асизи
+- Францыск Асізскі
+- Ֆրանցիսկ Ասիզացի
+- פרנציסקוס מאסיזי
+- سائو فرانسیسکو ده آسسیس
+- فرانسس آسیزی
+- فرانسیس آسیزی
+- فرنسيس الأسيزى
+- فرنسيس الأسيزي
+- فڕانسیس ئاسیزی
+- असीसी के फ्रांसिस
+- அசிசியின் பிரான்சிசு
+- അസ്സീസിയിലെ ഫ്രാൻസിസ്
+- ฟรังซิสแห่งอัสซีซี
+- စိန့်ဖရန်စစ်(စ်)
+- ფრანჩესკო ასიზელი
+- アッシジのフランチェスコ
+- 亚西西个方济各
+- 亞西西的方濟各
+- 聖方濟
+- 聖方濟各亞西西
+- 아시시의 프란치스코
 has_id_wikidata: Q676555
 place_of_burial: "[[_Standards/WikiData/WD~Basilica_of_San_Francesco_d'Assisi,207486]]"
 domain_of_saint_or_deity:
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~environment,2249676]]"
-  - "[[_Standards/WikiData/WD~Third_Order_of_Saint_Francis,9295862]]"
-  - "[[_Standards/WikiData/WD~Q18425404,18425404]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
+- '[[_Standards/WikiData/WD~merchant,215536]]'
+- '[[_Standards/WikiData/WD~environment,2249676]]'
+- '[[_Standards/WikiData/WD~Third_Order_of_Saint_Francis,9295862]]'
+- '[[_Standards/WikiData/WD~Q18425404,18425404]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62]]'
 occupation:
-  - "[[_Standards/WikiData/WD~missionary,219477]]"
-  - "[[_Standards/WikiData/WD~preacher,432386]]"
-  - "[[_Standards/WikiData/WD~pilgrim,542704]]"
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~regular_cleric,2138822]]"
-  - "[[_Standards/WikiData/WD~founder_of_Catholic_religious_community,2450226]]"
-  - "[[_Standards/WikiData/WD~founder,4479442]]"
-  - "[[_Standards/WikiData/WD~mystic,12328016]]"
-  - "[[_Standards/WikiData/WD~religious_writer,24262594]]"
-  - "[[_Standards/WikiData/WD~Catholic_deacon,25393460]]"
-  - "[[_Standards/WikiData/WD~Roman_Catholic_cleric,105200154]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+- '[[_Standards/WikiData/WD~missionary,219477]]'
+- '[[_Standards/WikiData/WD~preacher,432386]]'
+- '[[_Standards/WikiData/WD~pilgrim,542704]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~regular_cleric,2138822]]'
+- '[[_Standards/WikiData/WD~founder_of_Catholic_religious_community,2450226]]'
+- '[[_Standards/WikiData/WD~founder,4479442]]'
+- '[[_Standards/WikiData/WD~mystic,12328016]]'
+- '[[_Standards/WikiData/WD~religious_writer,24262594]]'
+- '[[_Standards/WikiData/WD~Catholic_deacon,25393460]]'
+- '[[_Standards/WikiData/WD~Roman_Catholic_cleric,105200154]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 student:
-  - "[[_Standards/WikiData/WD~Bernard_of_Quintavalle,262701]]"
-  - "[[_Standards/WikiData/WD~Giovanni_da_Pian_del_Carpine,315149]]"
-  - "[[_Standards/WikiData/WD~Pietro_Catanii,329670]]"
-  - "[[_Standards/WikiData/WD~Elias_of_Cortona,1329212]]"
-place_of_death: "[[_Standards/WikiData/WD~Portiuncula,510041]]"
+- '[[_Standards/WikiData/WD~Bernard_of_Quintavalle,262701]]'
+- '[[_Standards/WikiData/WD~Giovanni_da_Pian_del_Carpine,315149]]'
+- '[[_Standards/WikiData/WD~Pietro_Catanii,329670]]'
+- '[[_Standards/WikiData/WD~Elias_of_Cortona,1329212]]'
+place_of_death: '[[_Standards/WikiData/WD~Portiuncula,510041]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~by_law,679847]]"
-  - "[[_Standards/WikiData/WD~preaching,857037]]"
-  - "[[_Standards/WikiData/WD~poetry,482]]"
-  - "[[_Standards/WikiData/WD~theology,34178]]"
-  - "[[_Standards/WikiData/WD~prayer,40953]]"
-  - "[[_Standards/WikiData/WD~mysticism,45996]]"
+- '[[_Standards/WikiData/WD~by_law,679847]]'
+- '[[_Standards/WikiData/WD~preaching,857037]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~theology,34178]]'
+- '[[_Standards/WikiData/WD~prayer,40953]]'
+- '[[_Standards/WikiData/WD~mysticism,45996]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Giovanni,1158906]]"
-  - "[[_Standards/WikiData/WD~Francesco,2268455]]"
-  - "[[_Standards/WikiData/WD~Franciszek,15207702]]"
-subject_has_role: "[[_Standards/WikiData/WD~Confessor_of_the_Faith,2354129]]"
+- '[[_Standards/WikiData/WD~Giovanni,1158906]]'
+- '[[_Standards/WikiData/WD~Francesco,2268455]]'
+- '[[_Standards/WikiData/WD~Franciszek,15207702]]'
+subject_has_role: '[[_Standards/WikiData/WD~Confessor_of_the_Faith,2354129]]'
 position_held:
-  - "[[_Standards/WikiData/WD~founder_of_Catholic_religious_community,2450226]]"
-  - "[[_Standards/WikiData/WD~Custos_of_the_Holy_Land,11751411]]"
-  - "[[_Standards/WikiData/WD~Minister_General_of_the_Order_of_Franciscans,96172702]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Saint_Francis_of_Assisi,7401277]]"
-father: "[[_Standards/WikiData/WD~Pietro_di_Bernardone_dei_Moriconi,11816870]]"
+- '[[_Standards/WikiData/WD~founder_of_Catholic_religious_community,2450226]]'
+- '[[_Standards/WikiData/WD~Custos_of_the_Holy_Land,11751411]]'
+- '[[_Standards/WikiData/WD~Minister_General_of_the_Order_of_Franciscans,96172702]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Saint_Francis_of_Assisi,7401277]]'
+father: '[[_Standards/WikiData/WD~Pietro_di_Bernardone_dei_Moriconi,11816870]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Francis_of_Assisi_receiving_the_Stigmata,26714817]]"
-  - "[[_Standards/WikiData/WD~Francis_of_Assisi_preaching_to_the_birds,65592101]]"
+- '[[_Standards/WikiData/WD~Francis_of_Assisi_receiving_the_Stigmata,26714817]]'
+- '[[_Standards/WikiData/WD~Francis_of_Assisi_preaching_to_the_birds,65592101]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Saint_Francis_of_Assisi_(Giovanni_Francesco_di_Bernadone)_(1181_1226),52241716]]"
-  - "[[_Standards/WikiData/WD~Monument_to_Saint_Francis_of_Assisi,112045393]]"
-  - "[[_Standards/WikiData/WD~Omaggio_a_San_Francesco,125775008]]"
-  - "[[_Standards/WikiData/WD~Bronze_statue_of_Francis_of_Assisi,125809427]]"
-  - "[[_Standards/WikiData/WD~Stone_statue_of_Francis_of_Assisi,125809428]]"
-  - "[[_Standards/WikiData/WD~Statua_di_San_Francesco,125809547]]"
-  - "[[_Standards/WikiData/WD~Statue_of_Saint_Francis_of_Assisi,125809598]]"
-  - "[[_Standards/WikiData/WD~statue_of_Saint_Francis,126210714]]"
-  - "[[_Standards/WikiData/WD~Simulacrum_of_Saint_Francis,126680495]]"
-  - "[[_Standards/WikiData/WD~Francis_of_Assisi_adoring_the_Crucifix,131557341]]"
-  - "[[_Standards/WikiData/WD~Saints_Francis_and_Claire_(from_Santa_Chiara),131613670]]"
-  - "[[_Standards/WikiData/WD~Cortona_Triptych_by_Domenico_of_Michelino,131629548]]"
-  - "[[_Standards/WikiData/WD~Crucifixion_between_the_Saints_Anthony_the_Abbott_and_Francis,131675939]]"
-  - "[[_Standards/WikiData/WD~Enthroned_Madonna_with_Child,_Saint_and_the_Donors,131690478]]"
-  - "[[_Standards/WikiData/WD~Francis_of_Assisi_embracing_the_Cross,131812919]]"
-  - "[[_Standards/WikiData/WD~Medici_Saint_Francis,131851044]]"
-  - "[[_Standards/WikiData/WD~Saint_Francis_in_adoration_of_the_Crucifix,132397751]]"
-  - "[[_Standards/WikiData/WD~Saint_Francis,133281002]]"
-  - "[[_Standards/WikiData/WD~Saint_Francis_and_Stories_of_His_Life,133281000]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
-mother: "[[_Standards/WikiData/WD~Pica_de_Bourlemont,110856621]]"
-canonization_status: "[[_Standards/WikiData/WD~canonized_saint,123110154]]"
+- '[[_Standards/WikiData/WD~Saint_Francis_of_Assisi_(Giovanni_Francesco_di_Bernadone)_(1181_1226),52241716]]'
+- '[[_Standards/WikiData/WD~Monument_to_Saint_Francis_of_Assisi,112045393]]'
+- '[[_Standards/WikiData/WD~Omaggio_a_San_Francesco,125775008]]'
+- '[[_Standards/WikiData/WD~Bronze_statue_of_Francis_of_Assisi,125809427]]'
+- '[[_Standards/WikiData/WD~Stone_statue_of_Francis_of_Assisi,125809428]]'
+- '[[_Standards/WikiData/WD~Statua_di_San_Francesco,125809547]]'
+- '[[_Standards/WikiData/WD~Statue_of_Saint_Francis_of_Assisi,125809598]]'
+- '[[_Standards/WikiData/WD~statue_of_Saint_Francis,126210714]]'
+- '[[_Standards/WikiData/WD~Simulacrum_of_Saint_Francis,126680495]]'
+- '[[_Standards/WikiData/WD~Francis_of_Assisi_adoring_the_Crucifix,131557341]]'
+- '[[_Standards/WikiData/WD~Saints_Francis_and_Claire_(from_Santa_Chiara),131613670]]'
+- '[[_Standards/WikiData/WD~Cortona_Triptych_by_Domenico_of_Michelino,131629548]]'
+- '[[_Standards/WikiData/WD~Crucifixion_between_the_Saints_Anthony_the_Abbott_and_Francis,131675939]]'
+- '[[_Standards/WikiData/WD~Enthroned_Madonna_with_Child,_Saint_and_the_Donors,131690478]]'
+- '[[_Standards/WikiData/WD~Francis_of_Assisi_embracing_the_Cross,131812919]]'
+- '[[_Standards/WikiData/WD~Medici_Saint_Francis,131851044]]'
+- '[[_Standards/WikiData/WD~Saint_Francis_in_adoration_of_the_Crucifix,132397751]]'
+- '[[_Standards/WikiData/WD~Saint_Francis,133281002]]'
+- '[[_Standards/WikiData/WD~Saint_Francis_and_Stories_of_His_Life,133281000]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
+mother: '[[_Standards/WikiData/WD~Pica_de_Bourlemont,110856621]]'
+canonization_status: '[[_Standards/WikiData/WD~canonized_saint,123110154]]'
 date_of_birth: 1182-07-01T00:00:00Z
 writing_language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Catholicism,1841]]"
-  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-feast_day: "[[_Standards/WikiData/WD~October_4,2929]]"
+- '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+feast_day: '[[_Standards/WikiData/WD~October_4,2929]]'
 lifestyle:
-  - "[[_Standards/WikiData/WD~poverty,10294]]"
-  - "[[_Standards/WikiData/WD~mysticism,45996]]"
-place_of_birth: "[[_Standards/WikiData/WD~Assisi,20103]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-ethnic_group: "[[_Standards/WikiData/WD~Italians,50001]]"
+- '[[_Standards/WikiData/WD~poverty,10294]]'
+- '[[_Standards/WikiData/WD~mysticism,45996]]'
+place_of_birth: '[[_Standards/WikiData/WD~Assisi,20103]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ethnic_group: '[[_Standards/WikiData/WD~Italians,50001]]'
 Commons_category: Francis of Assisi
 Commons_Creator_page: Francis of Assisi
 BHCL_UUID: 254e232b-4402-4eee-8ef2-e4b9f2f0408e
 Provenio_UUID:
-  - 4cb71e2e-41c4-4058-8c3c-b8dd7d5a0a3e
-  - 36dabea7-5bce-4b94-ad8d-059dcb789252
+- 4cb71e2e-41c4-4058-8c3c-b8dd7d5a0a3e
+- 36dabea7-5bce-4b94-ad8d-059dcb789252
 Image_Archive_Herder_Institute: Q676555
 birth_name: Giovanni di Pietro di Bernardone
 date_of_death: 1226-10-10T00:00:00Z
@@ -127,8 +219,120 @@ ISNI: 122826901
 Wolfram_Language_entity_code: Entity["Concept", "FrancisOfAssisi::t5mrd"]
 Libris_URI: fcrttv6z03g5j89
 Krugosvet_article: kultura_i_obrazovanie/religiya/FRANTSISK_ASSIZSKI_SV.html
+dv_has_:
+  name_:
+    af: Franciskus van Assisi
+    an: Sant Francisco d'Asís
+    ar: فرنسيس الأسيزي
+    arz: فرنسيس الأسيزى
+    ast: Franciscu d'Asís
+    ay: Francesco d'Assisi
+    az: Assizli Fransisko
+    bar: Franz vo Assisi
+    bcl: Francisco de Assisi
+    be: Францыск Асізскі
+    be-tarask: Францішак з Асізі
+    bg: Франциск от Асизи
+    bi: Francesco d'Assisi
+    br: Frañsez a Asiz
+    bs: Franjo Asiški
+    ca: Francesc d'Assís
+    ckb: فڕانسیس ئاسیزی
+    cs: František z Assisi
+    csb: Swiãti Francëszk z Asëżu
+    cv: Ассизи Францискӗ
+    cy: Ffransis o Assisi
+    da: Frans af Assisi
+    de: Franz von Assisi
+    de-ch: Franz von Assisi
+    el: Φραγκίσκος της Ασίζης
+    en: Francis of Assisi
+    en-us: Francis of Assisi
+    eo: Sankta Francisko el Asizo
+    es: Francisco de Asís
+    et: Franciscus Assisist
+    eu: Frantzisko Asiskoa
+    fa: فرانسیس آسیزی
+    fi: Franciscus Assisilainen
+    fr: François d'Assise
+    fy: Fransiskus fan Assisy
+    ga: San Proinsias Assisi
+    gl: Francisco de Asís
+    gn: Francisco de Asís
+    gsw: Franz vo Assisi
+    he: פרנציסקוס מאסיזי
+    hi: असीसी के फ्रांसिस
+    hr: Sveti Franjo Asiški
+    hu: Assisi Szent Ferenc
+    hy: Ֆրանցիսկ Ասիզացի
+    id: Fransiskus dari Assisi
+    io: Santo Franciscus di Assisi
+    is: Frans frá Assisí
+    it: Francesco d'Assisi
+    ja: アッシジのフランチェスコ
+    jv: Fransiskus saking Asisi
+    ka: ფრანჩესკო ასიზელი
+    kbp: François d'Assise
+    ko: 아시시의 프란치스코
+    ku: Fransîsê Asîzî
+    ku-latn: Fransîsê Asîzî
+    kw: Francis a Assisi
+    la: Franciscus Assisiensis
+    lij: San Françesco
+    lmo: San Francesch d'Assisi
+    lt: Šv. Pranciškus Asyžietis
+    lv: Asīzes Francisks
+    lzh: 聖方濟
+    mg: François d'Assise
+    mk: Франциск Асишки
+    ml: അസ്സീസിയിലെ ഫ്രാൻസിസ്
+    mn: Ассизийн Франциск
+    ms: Francesco dari Assisi
+    mt: San Franġisk t'Assisi
+    mwl: Fracisco de Assis
+    my: စိန့်ဖရန်စစ်(စ်)
+    myv: Франциск Ассизиянь
+    mzn: سائو فرانسیسکو ده آسسیس
+    nah: Francesco d'Assisi
+    nb: Frans av Assisi
+    nl: Franciscus van Assisi
+    nn: Frans av Assisi
+    nrm: Françouais d'Assise
+    oc: Francés d'Assís
+    pam: Francisco de Asis
+    pl: Franciszek z Asyżu
+    pms: Fransesch d'Assisi
+    pt: Francisco de Assis
+    pt-br: Francisco de Assis
+    qu: Francesco d'Assisi
+    ro: Francisc de Assisi
+    ru: Франциск Ассизский
+    sc: Frantziscu de Assisi
+    scn: San Franciscu d'Assisi
+    sgs: Šv. Prancėškos Asīžėitis
+    sh: Franjo Asiški
+    sk: František z Assisi
+    sl: Frančišek Asiški
+    sq: Shën Françesku
+    sr: Фрањо Асишки
+    sv: Franciskus av Assisi
+    sw: Fransisko wa Asizi
+    ta: அசிசியின் பிரான்சிசு
+    th: ฟรังซิสแห่งอัสซีซี
+    tl: Francisco ng Asisi
+    tr: Assisili Francesco
+    uk: Франциск Ассізький
+    ur: فرانسس آسیزی
+    vec: San Francesco de Sisa
+    vi: Phanxicô thành Assisi
+    vro: Assisi Franciscus
+    wa: Françwès d' Assisi
+    war: Francisco han Assisi
+    wuu: 亚西西个方济各
+    yue: 聖方濟各亞西西
+    zh: 亞西西的方濟各
+    zh-hk: 亞西西的方濟各
 ---
-
 # [[Francis_of_Assisi]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Francis_of_Assisi,676555|WD~Francis_of_Assisi,676555]] 

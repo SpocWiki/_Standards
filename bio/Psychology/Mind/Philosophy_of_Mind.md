@@ -1,19 +1,170 @@
 ---
 aliases:
+- Athroniaeth y meddwl
+- Bevidsthedsfilosofi
+- elmefilozófia
+- falsafah akal
+- fealsúnacht na hintinne
+- filosofia da mente
+- filosofia de la ment
+- filosofia della mente
+- filosofie o mynd
+- filosofie van de geest
+- Filosofìa dla ment
+- filosofía da mente
+- filosofía de la mente
+- Filozofia e mendjes
+- Filozofia minții
+- Filozofia mysle
+- filozofia umysłu
+- filozofie mysli
+- filozofija uma
+- filozofio de menso
+- Filozofio di mento
+- filsafat pikiran
+- Filôzôfian' ny saina
+- Gogamenaren filosofia
+- Hugspeki
+- medvetandefilosofi
+- mielenfilosofia
+- Ong falsafasi
+- Philosophia mentis
+- philosophie de l'esprit
+- Philosophie des Geistes
+- philosophy of mind
+- Pilosopiya hin hunahuna
+- Pilosopiya ng isipan
+- prāta filozofija
+- sinnsfilosofi
+- sąmonės filosofija
+- triết học tinh thần
+- Təfəkkür fəlsəfəsi
+- Vaimufilosoofia
+- zihin felsefesi
+- æнкъарæны философи
+- Ăс-тăн философийĕ
+- Φιλοσοφία του νου
+- Аң фәлсәфәһе
+- зиһен фәлсәфәсе
+- Сана философиясы
+- філософія свідомості
+- філязофія сьвядомасьці
+- фалсафаи зеҳн
+- Филозофија духа
+- Философија на умот
+- Философия на съзнанието
+- философия сознания
+- գիտակցության փիլիսոփայություն
+- פילוסופיה של הנפש
+- د ذهن فلسفه
+- ذہن دا فلسفہ
+- فلسفة العقل
+- فلسفه ذهن
+- فەلسەفەی زەین
+- मन का दर्शन
+- মনের দর্শন
+- ਮਨ ਦਾ ਫ਼ਲਸਫ਼ਾ
+- மன மெய்யியல்
+- ኣእምሮኣዊ ፍልስፍና
+- 心の哲学
+- 心靈哲學
+- 精神哲学
+- 精神哲學
+- 심리철학
 has_id_wikidata: Q23407
-different_from: "[[_Standards/WikiData/WD~theory_of_mind,639219]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Philosophy_of_mind,6620406]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-practiced_by: "[[_Standards/WikiData/WD~philosopher_of_mind,106921327]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+different_from: '[[_Standards/WikiData/WD~theory_of_mind,639219]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_mind,6620406]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+practiced_by: '[[_Standards/WikiData/WD~philosopher_of_mind,106921327]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Library_of_Congress_Classification: BD418-BD418.84
 Stack_Exchange_tag:
-  - https://ai.stackexchange.com/tags/philosophy-of-mind
-  - https://philosophy.stackexchange.com/tags/philosophy-of-mind
+- https://ai.stackexchange.com/tags/philosophy-of-mind
+- https://philosophy.stackexchange.com/tags/philosophy-of-mind
 Commons_category: Philosophy of mind
 PhilPapers_topic: philosophy-of-mind
+dv_has_:
+  name_:
+    ar: فلسفة العقل
+    ast: filosofía de la mente
+    az: Təfəkkür fəlsəfəsi
+    ba: Аң фәлсәфәһе
+    be-tarask: філязофія сьвядомасьці
+    bg: Философия на съзнанието
+    bn: মনের দর্শন
+    ca: filosofia de la ment
+    ckb: فەلسەفەی زەین
+    cs: filozofie mysli
+    cv: Ăс-тăн философийĕ
+    cy: Athroniaeth y meddwl
+    da: Bevidsthedsfilosofi
+    de: Philosophie des Geistes
+    el: Φιλοσοφία του νου
+    en: philosophy of mind
+    en-ca: philosophy of mind
+    en-gb: philosophy of mind
+    eo: filozofio de menso
+    es: filosofía de la mente
+    et: Vaimufilosoofia
+    eu: Gogamenaren filosofia
+    fa: فلسفه ذهن
+    fi: mielenfilosofia
+    fr: philosophie de l'esprit
+    ga: fealsúnacht na hintinne
+    gl: filosofía da mente
+    he: פילוסופיה של הנפש
+    hi: मन का दर्शन
+    hr: filozofija uma
+    hu: elmefilozófia
+    hy: գիտակցության փիլիսոփայություն
+    id: filsafat pikiran
+    io: Filozofio di mento
+    is: Hugspeki
+    it: filosofia della mente
+    ja: 心の哲学
+    kk: Сана философиясы
+    ko: 심리철학
+    la: Philosophia mentis
+    lt: sąmonės filosofija
+    lv: prāta filozofija
+    mg: Filôzôfian' ny saina
+    mk: Философија на умот
+    ms: falsafah akal
+    nb: sinnsfilosofi
+    nl: filosofie van de geest
+    oc: filosofia de la ment
+    os: æнкъарæны философи
+    pa: ਮਨ ਦਾ ਫ਼ਲਸਫ਼ਾ
+    pl: filozofia umysłu
+    pms: Filosofìa dla ment
+    pnb: ذہن دا فلسفہ
+    ps: د ذهن فلسفه
+    pt: filosofia da mente
+    ro: Filozofia minții
+    ru: философия сознания
+    sco: filosofie o mynd
+    sh: Filozofija uma
+    sk: Filozofia mysle
+    sl: filozofija uma
+    sq: Filozofia e mendjes
+    sr: Филозофија духа
+    sv: medvetandefilosofi
+    ta: மன மெய்யியல்
+    tg: фалсафаи зеҳн
+    ti: ኣእምሮኣዊ ፍልስፍና
+    tl: Pilosopiya ng isipan
+    tr: zihin felsefesi
+    tt: зиһен фәлсәфәсе
+    uk: філософія свідомості
+    uz: Ong falsafasi
+    vi: triết học tinh thần
+    war: Pilosopiya hin hunahuna
+    yue: 心靈哲學
+    zh: 精神哲學
+    zh-cn: 精神哲学
+    zh-hans: 精神哲学
+    zh-hant: 精神哲学
 ---
-
 # [[Philosophy_of_Mind]]
 
 #is_/same_as :: [[WD~Philosophy_of_mind,23407]] 

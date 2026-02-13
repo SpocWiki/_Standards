@@ -1,16 +1,110 @@
 ---
 aliases:
+- anketiranje
+- Apklausa
+- araştırma yöntemleri
+- badania ankietowe
+- Befragung
+- encuesta
+- Enkête
+- enquesta
+- Enquisa
+- enquête
+- Enqüesta
+- felmérés módszertana
+- Inkesta
+- metodologia da pesquisa estatística
+- Metodologija ankete
+- Metodologjia e anketave
+- průzkum veřejného mínění
+- sondage
+- sondaggio
+- sondaj
+- sondajo
+- Sondala metodologio
+- sondometodo
+- Survei
+- survey methodology
+- survey-tutkimus
+- surveymetodologi
+- surveyundersökning
+- μεθοδολογία της έρευνας
+- анкета
+- методологія опитування
+- мэтадалёгія апытаньня
+- статистическое исследование
+- Судалгааны арга зүй
+- מתודולוגיית סקרים
+- آماری بررسی
+- استقصاء إحصائي
+- روششناسی آمارگیری
+- सर्वेक्षण पद्धति
+- জরিপ পদ্ধতিবিদ্যা
+- ಸಮೀಕ್ಷೆ ವಿಧಾನ
+- 社会统计调查
+- 社會統計調查
+- 調査方法論
+- 설문
 has_id_wikidata: Q814232
 subclass_of:
-  - "[[_Standards/WikiData/WD~survey_study,3490295]]"
-  - "[[_Standards/WikiData/WD~statistical_investigation,64418432]]"
-different_from: "[[_Standards/WikiData/WD~Q9164029,9164029]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~survey_methodologist,13294463]]"
-OmegaWiki_Defined_Meaning: "935794"
+- '[[_Standards/WikiData/WD~survey_study,3490295]]'
+- '[[_Standards/WikiData/WD~statistical_investigation,64418432]]'
+different_from: '[[_Standards/WikiData/WD~Q9164029,9164029]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~survey_methodologist,13294463]]'
+OmegaWiki_Defined_Meaning: 935794
 Commons_category: Survey methodology
+dv_has_:
+  name_:
+    an: Enqüesta
+    ar: استقصاء إحصائي
+    ast: encuesta
+    be-tarask: мэтадалёгія апытаньня
+    bn: জরিপ পদ্ধতিবিদ্যা
+    ca: enquesta
+    cs: průzkum veřejného mínění
+    da: surveymetodologi
+    de: Befragung
+    el: μεθοδολογία της έρευνας
+    en: survey methodology
+    eo: sondometodo
+    es: encuesta
+    eu: Inkesta
+    fa: روششناسی آمارگیری
+    fi: survey-tutkimus
+    fr: sondage
+    fy: Enkête
+    gl: Enquisa
+    he: מתודולוגיית סקרים
+    hi: सर्वेक्षण पद्धति
+    hu: felmérés módszertana
+    id: Survei
+    io: Sondala metodologio
+    it: sondaggio
+    ja: 調査方法論
+    jv: Survei
+    kn: ಸಮೀಕ್ಷೆ ವಿಧಾನ
+    ko: 설문
+    lt: Apklausa
+    mk: анкета
+    mn: Судалгааны арга зүй
+    mzn: آماری بررسی
+    nl: enquête
+    pl: badania ankietowe
+    pt: metodologia da pesquisa estatística
+    ro: sondaj
+    ru: статистическое исследование
+    sa: सर्वेक्षण पद्धति
+    sl: anketiranje
+    sq: Metodologjia e anketave
+    sr: Metodologija ankete
+    sv: surveyundersökning
+    tr: araştırma yöntemleri
+    uk: методологія опитування
+    vec: sondajo
+    yue: 社會統計調查
+    zh: 社会统计调查
 ---
-
 # [[Survey_Methodology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Survey_methodology,814232|WD~Survey_methodology,814232]]  

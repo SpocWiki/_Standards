@@ -1,17 +1,61 @@
 ---
-has_time_started: 1790-01-01 
+has_time_started: 1790-01-01
 aliases:
-  - Peking opera
-  - Beijing opera
-  - 京劇
-  - Jīngjù
-  - Peking_Opera
-  - Peking Opera
+- Beijing opera
+- Gĭng-kiŏk
+- Jing-opera
+- Jīngjù
+- Kinh kịch
+- Opera Beijing
+- Opera di Pechino
+- Opera pekińska
+- opéra de Pékin
+- Pekin operasi
+- Pekin operası
+- Pekina opero
+- Pekinas opera
+- Peking opera
+- Peking-ooppera
+- Peking-Oper
+- pekingi opera
+- Pekingo Opera
+- Pekingopera
+- Pekingská opera
+- Peking_Opera
+- Pekino opera
+- Pekinška opera
+- Òpera de Pequín
+- Ópera de Beixín
+- Ópera de Pekín
+- Ópera de Pequim
+- Ópera de Pequín
+- Бээжингийн дуурь
+- Пекінська опера
+- Пекин операһы
+- Пекинска опера
+- пекинская опера
+- пэкінская опэра
+- Պեկինյան օպերա
+- אופרת פקינג
+- أوبرا بكين
+- اپرای پکن
+- بېيجىڭ ئوپىراسى
+- پیکنگ اوپیرا
+- पेकिङ ओपेरा
+- পিকিং অপেরা
+- ਪੀਕਿੰਗ ਓਪੇਰਾ
+- പീക്കിങ്ങ് ഓപ്പറ
+- จิงจฺวี้
+- པེ་ཅིང་གི་ཁྲང་ཞི།
+- პეკინის ოპერა
+- 京剧
+- 京劇
+- 경극
 has_id_wikidata: Q335101
 subclass_of: '[[_Standards/WikiData/WD~Chinese_opera,737994]]'
 intangible_cultural_heritage_status:
-  - '[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]'
-  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
 instance_of: '[[_Standards/WikiData/WD~opera_genre,20643324]]'
 practiced_by: '[[_Standards/WikiData/WD~Peking_opera_actor,111975768]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
@@ -20,19 +64,86 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D1%80%
 location_of_creation: '[[_Standards/WikiData/WD~Beijing,956]]'
 country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beijing%20opera%20%28307062273%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%E6%96%B0%E6%BD%AE%E5%8A%87%E9%99%A2%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AE%E5%86%99%E7%9C%9F.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Beijing%20opera%20%28307062273%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%E6%96%B0%E6%BD%AE%E5%8A%87%E9%99%A2%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AE%E5%86%99%E7%9C%9F.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Beijing%20opera-article.ogg
 described_at_URL:
-  - https://ich.unesco.org/en/RL/00418
-  - https://ich.unesco.org/es/RL/00418
-  - https://ich.unesco.org/fr/RL/00418
+- https://ich.unesco.org/en/RL/00418
+- https://ich.unesco.org/es/RL/00418
+- https://ich.unesco.org/fr/RL/00418
 Commons_category: Peking Opera
 Baidu_Tieba_name: 京剧
 Commons_gallery: 京剧
 inception: 1790-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: أوبرا بكين
+    ast: Ópera de Beixín
+    az: Pekin operası
+    ba: Пекин операһы
+    be-tarask: пэкінская опэра
+    bg: Пекинска опера
+    bn: পিকিং অপেরা
+    bo: པེ་ཅིང་གི་ཁྲང་ཞི།
+    ca: Òpera de Pequín
+    cdo: Gĭng-kiŏk
+    cs: Pekingská opera
+    da: Pekingopera
+    de: Peking-Oper
+    en: Peking opera
+    en-ca: Peking opera
+    en-gb: Peking opera
+    eo: Pekina opero
+    es: Ópera de Pekín
+    eu: Pekingo Opera
+    fa: اپرای پکن
+    fi: Peking-ooppera
+    fr: opéra de Pékin
+    gl: Ópera de Pequín
+    he: אופרת פקינג
+    hr: Pekinška opera
+    hu: pekingi opera
+    hy: Պեկինյան օպերա
+    id: Opera Beijing
+    it: Opera di Pechino
+    ja: 京劇
+    ka: პეკინის ოპერა
+    ko: 경극
+    ku: Beijing Opera
+    lt: Pekino opera
+    lv: Pekinas opera
+    ml: പീക്കിങ്ങ് ഓപ്പറ
+    mn: Бээжингийн дуурь
+    ms: Opera Beijing
+    nb: Pekingopera
+    new: पेकिङ ओपेरा
+    nl: Jing-opera
+    pa: ਪੀਕਿੰਗ ਓਪੇਰਾ
+    pl: Opera pekińska
+    pnb: پیکنگ اوپیرا
+    pt: Ópera de Pequim
+    pt-br: Ópera de Pequim
+    ru: пекинская опера
+    sl: pekinška opera
+    sr: Pekinška opera
+    sv: Pekingopera
+    th: จิงจฺวี้
+    tr: Pekin operası
+    ug: بېيجىڭ ئوپىراسى
+    uk: Пекінська опера
+    ur: پیکنگ اوپیرا
+    uz: Pekin operasi
+    vi: Kinh kịch
+    wuu: 京剧
+    yue: 京劇
+    zh: 京剧
+    zh-cn: 京剧
+    zh-hans: 京剧
+    zh-hant: 京劇
+    zh-hk: 京劇
+    zh-sg: 京剧
+    zh-tw: 京劇
 ---
-
 # [[Peking_Opera]] 
 
 #is_/same_as :: [[WD~Peking_opera,335101]] 

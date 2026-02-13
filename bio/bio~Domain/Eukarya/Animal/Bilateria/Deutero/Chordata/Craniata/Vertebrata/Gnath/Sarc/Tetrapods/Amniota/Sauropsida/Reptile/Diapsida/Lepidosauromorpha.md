@@ -1,8 +1,83 @@
 ---
 aliases:
-  - Lepidosauromorpha
+- Lepidosauromorfs
+- Lepidosauromorpha
+- lepidozauromorfy
+- pikkelyesgyík-szabásúak
+- Λεπιδοσαυρόμορφα
+- Лепідозавроподібні
+- лепидозавроморфи
+- лушпаровидни
+- דמויי לפידוזאורים
+- أشباه العظايا الحرشفية
+- اشباة العظايا الحرشفيه
+- پولکسوسمارشکلان
+- 鱗竜形類
+- 鱗龍形下綱
+- 鳞龙形下纲
+- 인룡하강
 title: Lepidosauromorpha
 has_id_wikidata: Q134665
+dv_has_:
+  name_:
+    an: Lepidosauromorpha
+    ar: أشباه العظايا الحرشفية
+    arz: اشباة العظايا الحرشفيه
+    ast: Lepidosauromorpha
+    be: Lepidosauromorpha
+    bg: лепидозавроморфи
+    ca: Lepidosauromorfs
+    ceb: Lepidosauromorpha
+    cs: Lepidosauromorpha
+    da: Lepidosauromorpha
+    de: Lepidosauromorpha
+    el: Λεπιδοσαυρόμορφα
+    en: Lepidosauromorpha
+    eo: Lepidosauromorpha
+    es: Lepidosauromorpha
+    eu: Lepidosauromorpha
+    ext: Lepidosauromorpha
+    fa: پولکسوسمارشکلان
+    fi: Lepidosauromorpha
+    fr: Lepidosauromorpha
+    ga: Lepidosauromorpha
+    gl: Lepidosauromorpha
+    he: דמויי לפידוזאורים
+    hu: pikkelyesgyík-szabásúak
+    ia: Lepidosauromorpha
+    ie: Lepidosauromorpha
+    io: Lepidosauromorpha
+    it: Lepidosauromorpha
+    ja: 鱗竜形類
+    ko: 인룡하강
+    la: Lepidosauromorpha
+    mk: лушпаровидни
+    mul: Lepidosauromorpha
+    nb: Lepidosauromorpha
+    nl: Lepidosauromorpha
+    nn: Lepidosauromorpha
+    oc: Lepidosauromorpha
+    pl: lepidozauromorfy
+    pt: Lepidosauromorpha
+    pt-br: Lepidosauromorpha
+    ro: Lepidosauromorpha
+    ru: Lepidosauromorpha
+    sl: Lepidosauromorpha
+    sq: Lepidosauromorpha
+    sr: Lepidosauromorpha
+    sv: Lepidosauromorpha
+    tr: Lepidosauromorpha
+    uk: Лепідозавроподібні
+    vi: Lepidosauromorpha
+    vo: Lepidosauromorpha
+    war: Lepidosauromorpha
+    zh: 鱗龍形下綱
+    zh-cn: 鳞龙形下纲
+    zh-hans: 鳞龙形下纲
+    zh-hant: 鱗龍形下綱
+    zh-hk: 鱗龍形下綱
+    zh-sg: 鳞龙形下纲
+    zh-tw: 鱗龍形下綱
 ---
 # [[Lepidosauromorpha]]
 

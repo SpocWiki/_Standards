@@ -1,7 +1,101 @@
 ---
 aliases:
-  - Cranberries
+- Cranberries
+- The Cranberries
+- Кранберис
+- דה קרנבריז
+- د کرنبریز
+- ذا كرانبيريز
+- کرنبریز
+- เดอะแครนเบอร์รีส์
+- ザ・クランベリーズ
+- 小紅莓樂團
+- 小紅莓樂隊
+- 小红莓乐队
+- 크랜베리스
 has_id_wikidata: Q483810
+dv_has_:
+  name_:
+    af: The Cranberries
+    ar: ذا كرانبيريز
+    ast: The Cranberries
+    az: The Cranberries
+    azb: کرنبریز
+    be: The Cranberries
+    be-tarask: The Cranberries
+    bg: Кранберис
+    bs: The Cranberries
+    ca: The Cranberries
+    co: The Cranberries
+    cs: The Cranberries
+    cy: The Cranberries
+    da: The Cranberries
+    de: The Cranberries
+    de-ch: The Cranberries
+    el: The Cranberries
+    eml: The Cranberries
+    en: The Cranberries
+    en-ca: The Cranberries
+    en-gb: The Cranberries
+    eo: The Cranberries
+    es: The Cranberries
+    et: The Cranberries
+    eu: The Cranberries
+    fa: د کرنبریز
+    fi: The Cranberries
+    fr: The Cranberries
+    ga: The Cranberries
+    gl: The Cranberries
+    ha: The Cranberries
+    he: דה קרנבריז
+    hr: The Cranberries
+    hsb: The Cranberries
+    hu: The Cranberries
+    hy: The Cranberries
+    id: The Cranberries
+    is: The Cranberries
+    it: The Cranberries
+    ja: ザ・クランベリーズ
+    jv: The Cranberries
+    ka: The Cranberries
+    ko: 크랜베리스
+    ky: The Cranberries
+    la: The Cranberries
+    lb: The Cranberries
+    lt: The Cranberries
+    lv: The Cranberries
+    mk: The Cranberries
+    ms: The Cranberries
+    mul: The Cranberries
+    nah: The Cranberries
+    nan: The Cranberries
+    nb: The Cranberries
+    nl: The Cranberries
+    oc: The Cranberries
+    pl: The Cranberries
+    pms: The Cranberries
+    pt: The Cranberries
+    pt-br: The Cranberries
+    ro: The Cranberries
+    ru: The Cranberries
+    sco: The Cranberries
+    sk: The Cranberries
+    sl: The Cranberries
+    sr: The Cranberries
+    su: The Cranberries
+    sv: The Cranberries
+    szl: The Cranberries
+    th: เดอะแครนเบอร์รีส์
+    tr: The Cranberries
+    uk: The Cranberries
+    uz: The Cranberries
+    vi: The Cranberries
+    wuu: 小红莓乐队
+    yue: The Cranberries
+    zh: 小紅莓樂隊
+    zh-hans: 小红莓乐队
+    zh-hant: 小紅莓樂團
+    zh-hk: 小紅莓樂隊
 ---
 # [[Cranberries(Band)]] 
 

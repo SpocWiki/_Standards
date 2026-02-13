@@ -1,16 +1,31 @@
 ---
 aliases:
-  - Toyota Corolla
-  - トヨタ・カローラ
-  - Toyota Karōra
-  - Toyota_Corolla
+- Tojota Korola
+- Toyota Corolla
+- Toyota Karōra
+- Toyota_Corolla
+- Таёта Карола
+- Тојота корола
+- טויוטה קורולה
+- تويوتا كورولا
+- تویوتا کورولا
+- تۆیۆتا کۆرۆلا
+- ٹویوٹا کرولا
+- ټویوټا کرولا
+- ਟੋਇਟਾ ਕੋਰੋਲਾ
+- โตโยต้า โคโรลล่า
+- トヨタ・カローラ
+- 丰田卡罗拉
+- 豐田Corolla
+- 豐田卡羅拉
+- 토요타 코롤라
 has_id_wikidata: Q243543
 subclass_of:
-  - '[[_Standards/WikiData/WD~compact_car,946808]]'
-  - '[[_Standards/WikiData/WD~subcompact_car,2704381]]'
+- '[[_Standards/WikiData/WD~compact_car,946808]]'
+- '[[_Standards/WikiData/WD~subcompact_car,2704381]]'
 manufacturer:
-  - '[[_Standards/WikiData/WD~FAW_Toyota,10874595]]'
-  - '[[_Standards/WikiData/WD~Toyota,53268]]'
+- '[[_Standards/WikiData/WD~FAW_Toyota,10874595]]'
+- '[[_Standards/WikiData/WD~Toyota,53268]]'
 instance_of: '[[_Standards/WikiData/WD~automobile_model_series,59773381]]'
 brand: '[[_Standards/WikiData/WD~Toyota,53268]]'
 native_label: Toyota Corolla
@@ -18,8 +33,84 @@ Commons_gallery: Toyota Corolla
 Commons_category: Toyota Corolla
 subreddit: COROLLA
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Corolla%20LE%2C%20front%20right%2C%2007-13-2024.jpg
+dv_has_:
+  name_:
+    af: Toyota Corolla
+    ar: تويوتا كورولا
+    ast: Toyota Corolla
+    az: Toyota Corolla
+    be: Toyota Corolla
+    be-tarask: Таёта Карола
+    bg: Toyota Corolla
+    bs: Toyota Corolla
+    ca: Toyota Corolla
+    ckb: تۆیۆتا کۆرۆلا
+    cs: Toyota Corolla
+    da: Toyota Corolla
+    de: Toyota Corolla
+    de-ch: Toyota Corolla
+    el: Toyota Corolla
+    en: Toyota Corolla
+    en-ca: Toyota Corolla
+    en-gb: Toyota Corolla
+    eo: Toyota Corolla
+    es: Toyota Corolla
+    eu: Toyota Corolla
+    fa: تویوتا کورولا
+    fi: Toyota Corolla
+    fr: Toyota Corolla
+    gan: 豐田卡羅拉
+    gan-hans: 丰田卡罗拉
+    gan-hant: 豐田卡羅拉
+    gl: Toyota Corolla
+    ha: Toyota Corolla
+    he: טויוטה קורולה
+    hu: Toyota Corolla
+    id: Toyota Corolla
+    is: Toyota Corolla
+    it: Toyota Corolla
+    ja: トヨタ・カローラ
+    jv: Toyota Corolla
+    ko: 토요타 코롤라
+    ms: Toyota Corolla
+    mul: Toyota Corolla
+    na: Toyota Corolla
+    nb: Toyota Corolla
+    nl: Toyota Corolla
+    pa: ਟੋਇਟਾ ਕੋਰੋਲਾ
+    pl: Toyota Corolla
+    pnb: ٹویوٹا کرولا
+    ps: ټویوټا کرولا
+    pt: Toyota Corolla
+    pt-br: Toyota Corolla
+    ro: Toyota Corolla
+    ru: Toyota Corolla
+    sco: Toyota Corolla
+    sh: Toyota Corolla
+    sk: Toyota Corolla
+    sr: Тојота корола
+    sr-ec: Тојота Корола
+    sr-el: Tojota Korola
+    su: Toyota Corolla
+    sv: Toyota Corolla
+    sw: Toyota Corolla
+    th: โตโยต้า โคโรลล่า
+    tly: Toyota Corolla
+    tr: Toyota Corolla
+    uk: Toyota Corolla
+    uz: Toyota Corolla
+    vi: Toyota Corolla
+    wuu: 丰田卡罗拉
+    wuu-hans: 丰田卡罗拉
+    yue: 豐田Corolla
+    zh: 丰田卡罗拉
+    zh-cn: 丰田卡罗拉
+    zh-hans: 丰田卡罗拉
+    zh-hant: 豐田卡羅拉
+    zh-hk: 豐田卡羅拉
+    zh-sg: 丰田卡罗拉
+    zh-tw: 豐田卡羅拉
 ---
-
 # [[Toyota_Corolla]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Toyota_Corolla,243543|WD~Toyota_Corolla,243543]] 

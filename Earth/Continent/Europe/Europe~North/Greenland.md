@@ -1,38 +1,167 @@
 ---
 aliases:
-  - Greenland
-  - Groenlandia
-  - Groenland
-  - غرينلند
-  - 格陵兰
-  - Гренландия
-  - ""
+- A' Ghraonlainn
+- an Ghraonlainn
+- Calalitnunat
+- Goronulande
+- Greenlaan
+- Greenland
+- Greenlun
+- Greenlynn
+- Grenland
+- Grenlande
+- Grenlandia
+- Grenlandija
+- Grenlandijə
+- Grenlandiya
+- Grenlandiýa
+- Grenlando
+- Grenlandzkô
+- Grenlandėjė
+- Greunland
+- Grienlân
+- Griinlaandi
+- Griinland
+- Grinland
+- Grinlend
+- Groelândia
+- Groenlaand
+- Groenland
+- Groenlanda
+- Groenlandi
+- Groenlandia
+- Groenlann
+- Groenlannia
+- Groenlàndia
+- Groenlándia
+- Gronelândia
+- Gronlanda
+- Gronlandia
+- Gronlandiah
+- Gronlando
+- Gruenlandia
+- Grunlan
+- Gruunlaand
+- Grynlandyjŏ
+- Gräinlound
+- Grænland
+- Grínlándì
+- Grînlenda
+- Gròenlandia
+- Grónsko
+- Grônlande
+- Gröneän
+- Grönland
+- Grönlandska
+- Grönlanti
+- Gröönimaa
+- Gröönland
+- Grønland
+- Grēneland
+- Haʼaʼaahjí Hakʼaz Dineʼé Bikéyah
+- Hroenland
+- i-Greenland
+- Kalaallit Nunaat
+- Kalalit Nunat
+- Krowelandɩ
+- Kruanalaante
+- Kulinilani
+- Kyoẽlándia
+- Lemah Héjo
+- Lupanlunti
+- ma Kalalinuna
+- Nusa Greenland
+- Qrenlandiya
+- Ruánááeennâm
+- Ruânnjânnam
+- Verdi-lande
+- Yr Ynys Las
+- Γροιλανδία
+- Гренланд
+- Гренландія
+- Гренланди
+- Гренландий
+- Гренландия
+- Гринлэндин Арл
+- Грэнландия
+- Грэнландыя
+- Грэнляндыя
+- Ґроньско
+- Գրենլանդիա
+- גרינלאנד
+- גרינלנד
+- جرينلاند
+- غرينلاند
+- غرينلند
+- قیرینلند
+- ګرينلينډ
+- ڭرينلاند
+- گرين لينڊ
+- گرينلند
+- گرٛین لینٛڈ
+- گرین لینڈ
+- گرینلاند
+- گرینلند
+- گرېنلاندىيە
+- ގުރީންލޭންޑު
+- ग्रिनल्यान्ड
+- ग्रीनलँड
+- ग्रीनलैंड
+- ग्रीनलैण्ड
+- ग्रीनल्याण्ड
+- গ্রিনল্যান্ড
+- গ্রীনল্যান্ড
+- ਗਰੀਨਲੈਂਡ
+- ગ્રીનલેન્ડ
+- ଗ୍ରୀନଲାଣ୍ଡ
+- கிறீன்லாந்து
+- గ్రీన్లాండ్
+- ಗ್ರೀನ್ಲ್ಯಾಂಡ್
+- ഗ്രീൻലാൻഡ്
+- ග්රීන්ලන්තය
+- กรีนแลนด์
+- ໂກຣແອນລັງ
+- གེ་རེན་ལ
+- ဂရင်းလန်ကျွန်း
+- ဂရိန်လာန်
+- ၵရိၼ်းလႅၼ်း
+- გრენლანდია
+- ግሪንላንድ
+- ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ
+- ᐊᑯᑭᑦᑐᑦ
+- ក្រូអិនឡង់
+- ᱜᱨᱤᱱᱞᱮᱱᱰ
+- グリーンランド
+- 格陵兰
+- 格陵蘭
+- ꯒ꯭ꯔꯤꯟꯂꯦꯟ
+- 그린란드
 has_id_wikidata: Q223
 confidential: public
 cssclasses:
-  - Country
+- Country
 draft: false
-expiryDate: ""
+expiryDate: ''
 icon: flag-gl
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - kl
-  - da-GL
-  - en
-layout: ""
+- kl
+- da-GL
+- en
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - 64.25
-  - -51.67
+- 64.25
+- -51.67
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26905
 tags:
-  - geo/Country
+- geo/Country
 title: Greenland
 type: Country
 dv_ISO4217-currency_alphabetic: DKK
@@ -51,9 +180,9 @@ dv_has_name_cn: 格陵兰
 dv_has_name_ar: غرينلند
 dv_has_name_ru: Гренландия
 dv_CLDR_display_name: Greenland
-dv_Region_Name: "[[Americas]]"
-dv_Intermediate_Region_Name: "[[Greenland]]"
-dv_Sub-region_Name: "[[Northern America]]"
+dv_Region_Name: '[[Americas]]'
+dv_Intermediate_Region_Name: '[[Greenland]]'
+dv_Sub-region_Name: '[[Northern America]]'
 dv_Region: 19
 dv_Sub-region: 21
 dv_Geoname-ID: 3425505
@@ -76,39 +205,272 @@ dv_ISO2: GL
 dv_ISO3: GRL
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]"
+  - '[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]'
 dv_has_:
   name_:
+    af: Groenland
+    aig: Greenlaan
+    am: ግሪንላንድ
+    ami: Greenland
+    an: Gronlandia
+    ang: Grēneland
+    anp: ग्रीनलैंड
+    ar: غرينلاند
+    ary: ڭرينلاند
+    arz: جرينلاند
+    ast: Groenlandia
+    az: Qrenlandiya
+    azb: قیرینلند
+    ba: Гренландия
+    ban: Nusa Greenland
+    bar: Grönland
+    be: Грэнландыя
+    be-tarask: Грэнляндыя
+    bew: Grunlan
+    bg: Гренландия
+    bn: গ্রিনল্যান্ড
+    bo: གེ་རེན་ལ
+    bpy: গ্রীনল্যান্ড
+    br: Greunland
+    bs: Grenland
+    ca: Groenlàndia
+    cbk-zam: Groenlandia
+    cdo: Greenland
+    ce: Гренланди
+    ceb: Greenland
+    chr: ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ
+    ckb: گرینلاند
+    co: Gruenlandia
+    cs: Grónsko
+    csb: Grenlandzkô
+    cv: Гренланди
+    cy: Yr Ynys Las
+    da: Grønland
+    dag: Greenland
+    de: Grönland
+    de-at: Grönland
+    de-ch: Grönland
+    diq: Gronlanda
+    dsb: Grönlandska
+    dtp: Greenland
+    dv: ގުރީންލޭންޑު
+    el: Γροιλανδία
+    en: Greenland
+    en-ca: Greenland
+    en-gb: Greenland
+    en-us: Greenland
+    eo: Gronlando
+    es: Groenlandia
+    et: Gröönimaa
+    eu: Groenlandia
+    ext: Groenlándia
+    fa: گرینلند
+    fi: Grönlanti
+    fo: Grønland
+    fr: Groenland
+    frp: Grônlande
+    frr: Greenlun
+    fy: Grienlân
+    ga: an Ghraonlainn
+    gag: Grenlandiya
+    gd: A' Ghraonlainn
+    gl: Groenlandia
+    glk: گرينلند
+    gn: Kyoẽlándia
+    gom: ग्रीनलँड
+    gom-deva: ग्रीनलँड
+    gom-latn: Greenland
+    gpe: Greenland
+    gsw: Grönland
+    gu: ગ્રીનલેન્ડ
+    gv: Greenlynn
+    ha: Greenland
+    hak: Greenland
+    he: גרינלנד
+    hi: ग्रीनलैण्ड
+    hif: Greenland
+    hr: Grenland
+    hsb: Grönlandska
+    ht: Groenlann
+    hu: Grönland
+    hy: Գրենլանդիա
+    ia: Groenlandia
+    iba: Greenland
+    id: Greenland
+    ie: Grenland
+    ik: Kalaallit Nunaat
+    ilo: Greenland
+    io: Grenlando
+    is: Grænland
+    it: Groenlandia
+    iu: ᐊᑯᑭᑦᑐᑦ
+    ja: グリーンランド
+    jv: Greenland
+    ka: გრენლანდია
+    kab: Grinland
+    kbp: Krowelandɩ
+    kk: Гренландия
+    kl: Kalaallit Nunaat
+    km: ក្រូអិនឡង់
+    kn: ಗ್ರೀನ್ಲ್ಯಾಂಡ್
+    ko: 그린란드
+    ks: گرٛین لینٛڈ
+    ku: Grînlenda
+    kv: Гренландия
+    kw: Greunland
+    la: Groenlandia
+    lad: Groenlandia
+    lb: Grönland
+    lfn: Calalitnunat
+    li: Greunland
+    lij: Gròenlandia
+    lld: Groenlandia
+    ln: Groenlandi
+    lo: ໂກຣແອນລັງ
+    lt: Grenlandija
+    lv: Grenlande
+    lzh: 格陵蘭
+    mai: ग्रीनल्याण्ड
+    mdf: Грэнландия
+    mg: Groenlanda
+    mhr: Гренландий
+    mi: Greenland
+    mk: Гренланд
+    ml: ഗ്രീൻലാൻഡ്
+    mn: Гренланд
+    mni: ꯒ꯭ꯔꯤꯟꯂꯦꯟ
+    mnw: ဂရိန်လာန်
+    mr: ग्रीनलँड
+    ms: Greenland
+    mt: Greenland
+    my: ဂရင်းလန်ကျွန်း
+    mzn: گرینلند
+    nah: Gronlandiah
+    nan: Greenland
+    nb: Grønland
+    nds: Gröönland
+    nds-nl: Gruunlaand
+    ne: ग्रिनल्यान्ड
+    new: ग्रिनल्यान्ड
+    nl: Groenland
+    nn: Grønland
+    nov: Verdi-lande
+    nv: Haʼaʼaahjí Hakʼaz Dineʼé Bikéyah
+    ny: Greenland
+    oc: Groenlàndia
+    olo: Kalaallit Nunaat
+    om: Griinlaandi
+    or: ଗ୍ରୀନଲାଣ୍ଡ
+    os: Гренланди
+    pa: ਗਰੀਨਲੈਂਡ
+    pap: Groenlandia
+    pcd: Groenland
+    pih: Griinland
+    pl: Grenlandia
+    pms: Groenlandia
+    pnb: گرین لینڈ
+    ps: ګرينلينډ
+    pt: Gronelândia
+    pt-br: Groelândia
+    qu: Kalalit Nunat
+    ro: Groenlanda
+    ru: Гренландия
+    rue: Ґроньско
+    rw: Goronulande
+    sah: Гренландия
+    sat: ᱜᱨᱤᱱᱞᱮᱱᱰ
+    sc: Groenlàndia
+    scn: Groenlannia
+    sco: Greenland
+    sd: گرين لينڊ
+    se: Kalaallit Nunaat
+    sgs: Grenlandėjė
+    sh: Grenland
+    shn: ၵရိၼ်းလႅၼ်း
+    si: ග්රීන්ලන්තය
+    sk: Grónsko
+    sl: Grenlandija
+    sma: Kruanalaante
+    smn: Ruánááeennâm
+    sms: Ruânnjânnam
+    so: Griinland
+    sq: Groenlanda
+    sr: Гренланд
+    stq: Gräinlound
+    su: Lemah Héjo
+    sv: Grönland
+    sw: Greenland
+    szl: Grynlandyjŏ
+    szy: Greenland
+    ta: கிறீன்லாந்து
+    tay: Greenland
+    te: గ్రీన్లాండ్
+    tg: Гренландия
+    th: กรีนแลนด์
+    tk: Grenlandiýa
+    tl: Lupanlunti
+    tly: Grenlandijə
+    to: Kulinilani
+    tok: ma Kalalinuna
+    tpi: Greenland
+    tr: Grönland
+    trv: Greenland
+    tt: Гренландия
+    udm: Гренландия
+    ug: گرېنلاندىيە
+    uk: Гренландія
+    ur: گرین لینڈ
+    uz: Grenlandiya
+    vec: Groenlàndia
+    vep: Grenland
+    vi: Greenland
+    vls: Groenland
+    vo: Gröneän
+    vro: Kalaallit Nunaat
+    war: Greenland
+    wo: Groenlaand
+    wuu: 格陵兰
+    xal: Гринлэндин Арл
+    xh: Grinlend
+    xmf: გრენლანდია
+    yi: גרינלאנד
+    yo: Grínlándì
+    yue: 格陵蘭
+    zea: Hroenland
+    zh: 格陵兰
+    zh-hans: 格陵兰
+    zh-hant: 格陵蘭
+    zh-tw: 格陵蘭
+    zu: i-Greenland
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Greenland
 dv_has_name_de: Grönland
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: KN
-dv_Capital: "[[Greenland/City/Godthab]]"
+dv_Capital: '[[Greenland/City/Godthab]]'
 dv_has_place_longitude: -51.67
 dv_has_place_latitude: 64.25
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]"
+- '[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Greenland
 ---
-
 # [[Greenland]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

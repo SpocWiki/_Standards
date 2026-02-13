@@ -1,29 +1,146 @@
 ---
 aliases:
-  - Glykoprotein
-  - Glycoprotein
+- glicoproteina
+- Glicoproteină
+- Glicoproteína
+- glicoproteïna
+- Glikoproteidlar
+- Glikoprotein
+- Glikoproteinai
+- glikoproteino
+- Glikoproteiny
+- Glikoproteīns
+- glukoproteina
+- Glycoprotein
+- Glycoproteinum
+- glycoproteïne
+- glycoprotéine
+- glykoproteiidna
+- glykoproteiin
+- glykoproteiini
+- Glykoprotein
+- Glykoproteine
+- glykoproteiny
+- Glïkoproteïdter
+- glükoproteiinid
+- Γλυκοπρωτεΐνη
+- глікапратэін
+- Глікапратэіны
+- глікопротеїни
+- Гликобелковина
+- Гликопротеиддер
+- Гликопротеидтер
+- гликопротеин
+- гликопротеины
+- Гликопротеинҳо
+- Գլիկոպրոտեիններ
+- גליקופרוטאין
+- بروتين سكري
+- گلىيكوپروتەىيدتەر
+- گلیکوپروتئین
+- கிளைக்கோபுரதம்
+- ಗ್ಲೈಕೋಪ್ರೋಟೀನ್
+- ไกลโคโปรตีน
+- 糖タンパク質
+- 糖蛋白
+- 醣蛋白
+- 당단백질
 has_id_wikidata: Q187126
 subclass_of:
-  - '[[_Standards/WikiData/WD~glycoconjugate,416019]]'
-  - '[[_Standards/WikiData/WD~conjugated_protein,2621150]]'
+- '[[_Standards/WikiData/WD~glycoconjugate,416019]]'
+- '[[_Standards/WikiData/WD~conjugated_protein,2621150]]'
 part_of:
-  - '[[_Standards/WikiData/WD~glycoprotein_metabolic_process,14873944]]'
-  - '[[_Standards/WikiData/WD~glycoprotein_transport,14897863]]'
-  - '[[_Standards/WikiData/WD~glycoprotein_catabolic_process,21101373]]'
-  - '[[_Standards/WikiData/WD~glycoprotein_biosynthetic_process,21109539]]'
-  - '[[_Standards/WikiData/WD~response_to_glycoprotein,22272349]]'
-  - '[[_Standards/WikiData/WD~cellular_response_to_glycoprotein,22273531]]'
-  - '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_glycoprotein,41513502]]'
+- '[[_Standards/WikiData/WD~glycoprotein_metabolic_process,14873944]]'
+- '[[_Standards/WikiData/WD~glycoprotein_transport,14897863]]'
+- '[[_Standards/WikiData/WD~glycoprotein_catabolic_process,21101373]]'
+- '[[_Standards/WikiData/WD~glycoprotein_biosynthetic_process,21109539]]'
+- '[[_Standards/WikiData/WD~response_to_glycoprotein,22272349]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_glycoprotein,22273531]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_glycoprotein,41513502]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 CosIng_number: 34148
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Glicoprotein.svg
 MeSH_tree_code:
-  - D09.400.430
-  - D12.776.395
+- D09.400.430
+- D12.776.395
 Commons_category: Glycoproteins
+dv_has_:
+  name_:
+    ar: بروتين سكري
+    ast: Glicoproteína
+    be: Глікапратэіны
+    be-tarask: глікапратэін
+    bg: гликопротеин
+    bs: Glikoprotein
+    ca: glicoproteïna
+    cs: glykoproteiny
+    da: Glykoprotein
+    de: Glykoproteine
+    el: Γλυκοπρωτεΐνη
+    en: glycoprotein
+    eo: glikoproteino
+    es: glicoproteína
+    et: glükoproteiinid
+    eu: glukoproteina
+    fa: گلیکوپروتئین
+    fi: glykoproteiini
+    fr: glycoprotéine
+    gl: Glicoproteína
+    he: גליקופרוטאין
+    hu: glikoprotein
+    hy: Գլիկոպրոտեիններ
+    id: Glikoprotein
+    it: glicoproteina
+    ja: 糖タンパク質
+    kk: Гликопротеидтер
+    kk-arab: گلىيكوپروتەىيدتەر
+    kk-cn: گلىيكوپروتەىيدتەر
+    kk-cyrl: Гликопротеидтер
+    kk-kz: Гликопротеидтер
+    kk-latn: Glïkoproteïdter
+    kk-tr: Glïkoproteïdter
+    kn: ಗ್ಲೈಕೋಪ್ರೋಟೀನ್
+    ko: 당단백질
+    ky: Гликопротеиддер
+    la: Glycoproteinum
+    lt: Glikoproteinai
+    lv: Glikoproteīns
+    mk: Гликобелковина
+    ms: Glikoprotein
+    nb: glykoprotein
+    nl: glycoproteïne
+    nn: glykoprotein
+    oc: Glicoproteïna
+    pl: Glikoproteiny
+    pt: glicoproteína
+    ro: Glicoproteină
+    ru: гликопротеины
+    se: glykoproteiidna
+    sh: Glikoprotein
+    sl: glikoprotein
+    sms: glykoproteiin
+    sr: гликопротеин
+    sr-ec: гликопротеин
+    sr-el: glikoprotein
+    sv: glykoprotein
+    ta: கிளைக்கோபுரதம்
+    tg: Гликопротеинҳо
+    th: ไกลโคโปรตีน
+    tr: glikoprotein
+    uk: глікопротеїни
+    uz: Glikoproteidlar
+    vi: Glycoprotein
+    wuu: 糖蛋白
+    yue: 醣蛋白
+    zh: 糖蛋白
+    zh-cn: 糖蛋白
+    zh-hans: 糖蛋白
+    zh-hant: 糖蛋白
+    zh-hk: 糖蛋白
+    zh-sg: 糖蛋白
+    zh-tw: 糖蛋白
 ---
-
 # [[Glycoprotein]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Glycoprotein,187126|WD~Glycoprotein,187126]]

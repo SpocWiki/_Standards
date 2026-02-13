@@ -1,22 +1,158 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]"
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]"
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]'
 has_id_wikidata: Q170304
+dv_has_:
+  name_:
+    af: Dopamien
+    ar: دوبامين
+    arz: دوبامين
+    az: Dopamin
+    azb: دوپامین
+    ban: Dopamin
+    be: дафамін
+    be-tarask: дафамін
+    bg: Допамин
+    bn: ডোপামিন
+    bs: Dopamin
+    ca: dopamina
+    ckb: دۆپامین
+    cs: dopamin
+    cy: dopamin
+    da: dopamin
+    de: Dopamin
+    dv: ޑޯޕަމީން
+    el: Ντοπαμίνη
+    en: dopamine
+    eo: dopamino
+    es: dopamina
+    et: Dopamiin
+    eu: dopamina
+    fa: دوپامین
+    fi: dopamiini
+    fr: dopamine
+    ga: dopaimín
+    gl: Dopamina
+    gpe: dopamine
+    ha: Dopamine
+    he: דופמין
+    hi: डोपामाइन
+    hr: dopamin
+    hu: dopamin
+    hy: Դոֆամին
+    ia: Dopamina
+    id: Dopamin
+    is: Dópamín
+    it: dopamina
+    ja: ドーパミン
+    ka: dopamin
+    ko: 도파민
+    ks: ڈوپاماین
+    la: dopaminum
+    lo: ໂດປາມີນ
+    lt: Dopaminas
+    lv: dofamīns
+    mk: Допамин
+    ml: ഡോപാമിൻ
+    mr: डोपामिन
+    ms: Dopamin
+    my: ဒိုပါမင်း
+    nb: dopamin
+    nl: dopamine
+    nn: dopamin
+    oc: Dopamina
+    or: ଡୋପାମିନ୍
+    pa: ਡੋਪਾਮਾਇਨ
+    pl: dopamina
+    pt: dopamina
+    pt-br: dopamina
+    ro: dopamină
+    ru: дофамин
+    sh: Dopamin
+    sk: Dopamín
+    sl: dopamin
+    sr: допамин
+    sr-ec: Допамин
+    sr-el: Dopamin
+    su: Dopamin
+    sv: dopamin
+    sw: Dopamini
+    te: డోపమైన్
+    tg: Дофамин
+    th: โดพามีน
+    tl: Dopamino
+    tr: Dopamin
+    uk: дофамін
+    ur: ڈوپامین
+    uz: Dopamine
+    vi: Dopamine
+    war: Dopamin
+    wuu: 多巴胺
+    yue: 多巴胺
+    zh: 多巴胺
+    zh-cn: 多巴胺
+    zh-hans: 多巴胺
+    zh-hant: 多巴胺
+    zh-hk: 多巴胺
+    zh-sg: 多巴胺
+    zh-tw: 多巴胺
+aliases:
+- dofamīns
+- dopaimín
+- Dopamien
+- Dopamiin
+- dopamiini
+- dopamin
+- dopamina
+- Dopaminas
+- dopamine
+- Dopamini
+- dopamino
+- dopaminum
+- dopamină
+- Dopamín
+- Dópamín
+- Ντοπαμίνη
+- дафамін
+- Допамин
+- дофамін
+- дофамин
+- Դոֆամին
+- דופמין
+- دوبامين
+- دوپامین
+- دۆپامین
+- ڈوپاماین
+- ڈوپامین
+- ޑޯޕަމީން
+- डोपामाइन
+- डोपामिन
+- ডোপামিন
+- ਡੋਪਾਮਾਇਨ
+- ଡୋପାମିନ୍
+- డోపమైన్
+- ഡോപാമിൻ
+- โดพามีน
+- ໂດປາມີນ
+- ဒိုပါမင်း
+- ドーパミン
+- 多巴胺
+- 도파민
 ---
 # [[Dopamine]]
 

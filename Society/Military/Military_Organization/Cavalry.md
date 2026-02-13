@@ -1,25 +1,100 @@
 ---
 aliases:
-  - Kavallerie
-  - cavalerie
-  - Cavalry
+- Askari farasi
+- cabalaría
+- caballería
+- cavalaria
+- Cavalarie
+- Cavalariá
+- cavalerie
+- cavalleria
+- Cavalry
+- equitatus
+- Jazdectvo
+- jezdectvo
+- Kabalyerya
+- Kalorësia
+- kavaleri
+- kavalerija
+- kavalerio
+- Kavalery
+- kavalleri
+- Kavallerie
+- kavallerija
+- Kavalrio
+- Kavalērija
+- kawaleria
+- kawalerija
+- kawaleriô
+- kawaleryjŏ
+- Kawallu awqaq
+- konjenica
+- konjica
+- kỵ binh
+- lovasság
+- Marc'hegerezh
+- marchoglu
+- marcra
+- marksleih
+- Otliq askarlar
+- Pasukan berkuda
+- Ratsavägi
+- ratsuväki
+- Riddaralið
+- Süvari
+- Tauhang kabayuhan
+- táhoenótȧxeo'o
+- Zalditeria
+- Ιππικό
+- Атты әскер
+- дошлой
+- дошлой эскар
+- кіннота
+- кавалери
+- кавалерия
+- кавалерыя
+- коњица
+- Морин цэрэг
+- саворанизом
+- Հեծելազոր
+- חיל פרשים
+- رسالہ
+- سلاح الفرسان
+- سوارهنظام
+- سوارە
+- سوواری
+- سپاره عسکر / سمبال پوځ
+- فرسان
+- ߛߏ߬ߟߊ
+- अश्वरोही सेना
+- घुड़सवार सेना
+- घोडचढी
+- घोडदळ
+- குதிரைப்படை
+- ทหารม้า
+- სამხედრო კავალერია
+- ᠮᠣᡵᡳᠩᡤᠠ ᠴᠣᠣᡥᠠ
+- ἱππεῖς
+- 騎兵
+- 骑兵
+- 기병
 has_id_wikidata: Q47315
 different_from:
-  - '[[_Standards/WikiData/WD~Calvary,170516]]'
-  - '[[_Standards/WikiData/WD~calvary,371752]]'
-  - '[[_Standards/WikiData/WD~cowboy_church,16959217]]'
+- '[[_Standards/WikiData/WD~Calvary,170516]]'
+- '[[_Standards/WikiData/WD~calvary,371752]]'
+- '[[_Standards/WikiData/WD~cowboy_church,16959217]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of: '[[_Standards/WikiData/WD~branch_of_service,690109]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_service,690109]]'
-  - '[[_Standards/WikiData/WD~occupation,12737077]]'
-  - '[[_Standards/WikiData/WD~military_organization,15627509]]'
+- '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~military_organization,15627509]]'
 depicted_by: '[[_Standards/WikiData/WD~Return_of_the_Cavalry,131613890]]'
 part_of: '[[_Standards/WikiData/WD~army,37726]]'
 Library_of_Congress_Classification: UE1-UE500
@@ -31,8 +106,118 @@ P8189: 987007284836505171
 IMDb_keyword: cavalry
 Commons_category: Cavalry
 Krugosvet_article: voennoe-delo/kavaleriya
+dv_has_:
+  name_:
+    af: Kavallerie
+    an: Caballería
+    ar: سلاح الفرسان
+    arz: فرسان
+    ast: Caballería
+    az: süvari
+    azb: سوواری
+    ba: кавалерия
+    bar: Kavallerie
+    be: кавалерыя
+    be-tarask: кавалерыя
+    bg: кавалерия
+    br: Marc'hegerezh
+    bs: Konjica
+    ca: cavalleria
+    ce: дошлой
+    chy: táhoenótȧxeo'o
+    ckb: سوارە
+    cs: jezdectvo
+    csb: kawaleriô
+    cy: marchoglu
+    da: kavaleri
+    de: Kavallerie
+    de-ch: Kavallerie
+    dsb: kawalerija
+    el: Ιππικό
+    en: cavalry
+    en-ca: Cavalry
+    en-gb: cavalry
+    eo: kavalerio
+    es: caballería
+    et: Ratsavägi
+    eu: Zalditeria
+    fa: سوارهنظام
+    fi: ratsuväki
+    fr: cavalerie
+    fur: Cavalarie
+    fy: Kavalery
+    ga: marcra
+    gl: cabalaría
+    grc: ἱππεῖς
+    gv: marksleih
+    he: חיל פרשים
+    hi: घुड़सवार सेना
+    hr: konjica
+    hu: lovasság
+    hy: Հեծելազոր
+    id: kavaleri
+    inh: дошлой эскар
+    io: Kavalrio
+    is: Riddaralið
+    it: cavalleria
+    ja: 騎兵
+    ka: სამხედრო კავალერია
+    kk: Атты әскер
+    ko: 기병
+    la: equitatus
+    lb: Kavallerie
+    lt: kavalerija
+    lv: Kavalērija
+    mk: коњица
+    mn: Морин цэрэг
+    mnc: ᠮᠣᡵᡳᠩᡤᠠ ᠴᠣᠣᡥᠠ
+    mr: घोडदळ
+    ms: Pasukan berkuda
+    mt: kavallerija
+    nb: kavaleri
+    ne: घोडचढी
+    new: अश्वरोही सेना
+    nl: cavalerie
+    nn: kavaleri
+    nqo: ߛߏ߬ߟߊ
+    oc: Cavalariá
+    os: кавалери
+    pl: kawaleria
+    ps: سپاره عسکر / سمبال پوځ
+    pt: cavalaria
+    pt-br: Cavalaria
+    qu: Kawallu awqaq
+    ro: cavalerie
+    ru: кавалерия
+    sco: cavalry
+    sh: konjica
+    sk: Jazdectvo
+    sl: konjenica
+    sq: Kalorësia
+    sr: коњица
+    sr-ec: коњица
+    sr-el: konjica
+    sv: kavalleri
+    sw: Askari farasi
+    szl: kawaleryjŏ
+    ta: குதிரைப்படை
+    tg: саворанизом
+    th: ทหารม้า
+    tl: Tauhang kabayuhan
+    tr: Süvari
+    tt: кавалерия
+    uk: кіннота
+    ur: رسالہ
+    uz: Otliq askarlar
+    vi: kỵ binh
+    war: Kabalyerya
+    wuu: 骑兵
+    yue: 騎兵
+    zh: 骑兵
+    zh-hans: 骑兵
+    zh-hant: 騎兵
+    zh-tw: 騎兵
 ---
-
 # [[Cavalry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cavalry,47315|WD~Cavalry,47315]] 

@@ -1,8 +1,68 @@
 ---
 aliases:
-  - Unite the Right rally
-  - Unite_the_Right_rally
+- 2017 Unite the Right rally
+- 2017年のユナイト・ザ・ライト・ラリー
+- 2017年团结右翼集会
+- Biểu tình Charlottesville 2017
+- Manifestacio Unuigu la Dekstron
+- Manifestació Unite the Right
+- Manifestación Unite the Right
+- Manifestadeg Unite the Right 2017
+- Manifestasiòṅ Unìr la Dèstra dal 2017
+- Manifestation Uni le Dextra
+- Manifestation Unite the Right de 2017
+- Manifestação Unite the Right de 2017
+- Manifestația Unite the Right
+- Pawai Unite the Right
+- Perhimpunan Unite the Right
+- Rechtsextreme Demonstrationen und Terroranschlag in Charlottesville 2017
+- Unite the Right
+- Unite the Right rally
+- Unite_the_Right_rally
+- Марш «Об'єднаних правих»
+- марш «Объединим правых» в Шарлотсвилле
+- марш „Яднайма правых“
+- עצרת איחוד הימין האמריקאי, 2017
+- احتجاجات شارلوتسفيل 2017
+- گردهمایی اتحاد راستگرایان ۲۰۱۷
+- ২০১৭ ইউনাইট দ্য রাইট সমাবেশ
+- 유나이트 더 라이트 랠리
 has_id_wikidata: Q36248530
+dv_has_:
+  name_:
+    ar: احتجاجات شارلوتسفيل 2017
+    be-tarask: марш „Яднайма правых“
+    bn: ২০১৭ ইউনাইট দ্য রাইট সমাবেশ
+    br: Manifestadeg Unite the Right 2017
+    ca: Manifestació Unite the Right
+    de: Rechtsextreme Demonstrationen und Terroranschlag in Charlottesville 2017
+    eml: Manifestasiòṅ Unìr la Dèstra dal 2017
+    en: Unite the Right rally
+    en-ca: 2017 Unite the Right rally
+    en-gb: Unite the Right rally
+    eo: Manifestacio Unuigu la Dekstron
+    es: Manifestación Unite the Right
+    fa: گردهمایی اتحاد راستگرایان ۲۰۱۷
+    fi: Unite the Right Rally
+    fr: Manifestation Unite the Right de 2017
+    he: עצרת איחוד הימין האמריקאי, 2017
+    ia: Manifestation Uni le Dextra
+    id: Pawai Unite the Right
+    it: Unite the Right rally
+    ja: 2017年のユナイト・ザ・ライト・ラリー
+    ko: 유나이트 더 라이트 랠리
+    ms: Perhimpunan Unite the Right
+    nb: Unite the Right rally
+    nl: Unite the Right rally
+    pl: Unite the Right
+    pt: Manifestação Unite the Right de 2017
+    ro: Manifestația Unite the Right
+    ru: марш «Объединим правых» в Шарлотсвилле
+    sn: Unite the Right rally
+    sv: Unite the Right Rally
+    uk: Марш «Об'єднаних правих»
+    vi: Biểu tình Charlottesville 2017
+    zh: 2017年团结右翼集会
 ---
 #has_/time_/started :: 2017-08-11 
 #has_/time_/stopped  :: 2017-08-12 

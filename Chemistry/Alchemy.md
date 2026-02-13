@@ -1,24 +1,215 @@
 ---
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]"
-    - "[[/_Standards/Chemistry/Alchemy|Alchemy]]"
-    - "[[/_public/Chemistry/Alchemy.public|Alchemy.public]]"
-    - "[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]"
-    - "[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]"
-    - "[[/_private/Chemistry/Alchemy.private|Alchemy.private]]"
-    - "[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]"
-    - "[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]"
+  - '[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]'
+  - '[[/_Standards/Chemistry/Alchemy|Alchemy]]'
+  - '[[/_public/Chemistry/Alchemy.public|Alchemy.public]]'
+  - '[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]'
+  - '[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]'
+  - '[[/_private/Chemistry/Alchemy.private|Alchemy.private]]'
+  - '[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]'
+  - '[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]"
-  - "[[/_Standards/Chemistry/Alchemy|Alchemy]]"
-  - "[[/_public/Chemistry/Alchemy.public|Alchemy.public]]"
-  - "[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]"
-  - "[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]"
-  - "[[/_private/Chemistry/Alchemy.private|Alchemy.private]]"
-  - "[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]"
-  - "[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]"
+- '[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]'
+- '[[/_Standards/Chemistry/Alchemy|Alchemy]]'
+- '[[/_public/Chemistry/Alchemy.public|Alchemy.public]]'
+- '[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]'
+- '[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]'
+- '[[/_private/Chemistry/Alchemy.private|Alchemy.private]]'
+- '[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]'
+- '[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]'
 has_id_wikidata: Q39689
+dv_has_:
+  name_:
+    af: alchemie
+    am: አልበም
+    an: alquimia
+    ar: خيمياء
+    ary: خيميا
+    ast: alquimia
+    az: əlkimya
+    ba: алхимия
+    bcl: alkimiya
+    be: алхімія
+    be-tarask: альхімія
+    bg: алхимия
+    bn: আলকেমি
+    bo: གསེར་བཙོ་རྩལ།
+    br: alkimiezh
+    bs: alhemija
+    ca: alquímia
+    ckb: کیمیاگەری
+    co: alchimia
+    cop: ⲙⲛⲧⲣⲉϥⲣⲡⲁϩⲣⲉ
+    cs: alchymie
+    cy: alcemi
+    da: alkymi
+    de: Alchemie
+    diq: simya
+    el: αλχημεία
+    en: alchemy
+    en-ca: alchemy
+    en-gb: alchemy
+    eo: alkemio
+    es: alquimia
+    et: alkeemia
+    eu: alkimia
+    fa: کیمیا
+    fi: alkemia
+    fr: alchimie
+    fy: algemy
+    ga: ailceimic
+    gl: alquimia
+    grc: φαρμακεία
+    gsw: Alchemie
+    he: אלכימיה
+    hi: कीमिया
+    hr: alkemija
+    hu: alkímia
+    hy: Ալքիմիա
+    ia: Alchimia
+    id: alkimia
+    io: alkemio
+    is: gullgerðarlist
+    it: alchimia
+    ja: 錬金術
+    jv: Alkimiya
+    ka: ალქიმია
+    kk: алхимия
+    km: រសសាស្ត្រ
+    kn: ರಸವಿದ್ಯೆ
+    ko: 연금술
+    ko-kp: 련금술
+    ky: алхимия
+    la: alchemia
+    lb: Alchimie
+    li: Alsjemie
+    lt: Alchemija
+    lv: alķīmija
+    mk: алхемија
+    ml: ആൽകെമി
+    mn: алхими
+    mnw: အဂ္ဂိရတ်
+    mr: अल्केमी
+    ms: alkimia
+    nb: alkymi
+    nl: alchemie
+    nn: alkymi
+    oc: alquimia
+    pih: elkemii
+    pl: alchemia
+    ps: کیمیاګري
+    pt: alquimia
+    pt-br: alquimia
+    ro: alchimie
+    ru: алхимия
+    scn: archimìa
+    se: alkemiija
+    sgs: alkemėjė
+    sh: alkemija
+    shi: Taximit
+    sk: alchýmia
+    sl: alkimija
+    smj: alkemija
+    smn: alkemia
+    sms: alkemia
+    sq: alkimia
+    sr: алхемија
+    su: alkémi
+    sv: alkemi
+    sw: Alkemia
+    ta: இரசவாதம்
+    te: రసవాదం
+    tg: кимиёгарӣ
+    th: การเล่นแร่แปรธาตุ
+    tl: alkimiya
+    tr: simya
+    udm: алхимия
+    uk: алхімія
+    ur: کیمیا گری
+    uz: alkimyo
+    vi: giả kim thuật
+    war: alkimiya
+    wuu: 炼金术
+    xmf: ალქიმია
+    yue: 煉金術
+    zh: 炼金术
+    zh-hant: 鍊金術
+aliases:
+- ailceimic
+- alcemi
+- alchemia
+- Alchemie
+- Alchemija
+- alchemy
+- alchimia
+- alchimie
+- alchymie
+- alchýmia
+- algemy
+- alhemija
+- alkeemia
+- alkemi
+- Alkemia
+- alkemiija
+- alkemija
+- alkemio
+- alkemėjė
+- alkimia
+- alkimiezh
+- alkimija
+- alkimiya
+- alkimyo
+- alkymi
+- alkémi
+- alkímia
+- alquimia
+- alquímia
+- Alsjemie
+- alķīmija
+- archimìa
+- elkemii
+- giả kim thuật
+- gullgerðarlist
+- simya
+- Taximit
+- əlkimya
+- αλχημεία
+- φαρμακεία
+- алхімія
+- алхемија
+- алхими
+- алхимия
+- альхімія
+- кимиёгарӣ
+- Ալքիմիա
+- אלכימיה
+- خيميا
+- خيمياء
+- کیمیا
+- کیمیا گری
+- کیمیاګري
+- کیمیاگەری
+- अल्केमी
+- कीमिया
+- আলকেমি
+- இரசவாதம்
+- రసవాదం
+- ರಸವಿದ್ಯೆ
+- ആൽകെമി
+- การเล่นแร่แปรธาตุ
+- གསེར་བཙོ་རྩལ།
+- အဂ္ဂိရတ်
+- ალქიმია
+- አልበም
+- រសសាស្ត្រ
+- ⲙⲛⲧⲣⲉϥⲣⲡⲁϩⲣⲉ
+- 炼金术
+- 煉金術
+- 錬金術
+- 鍊金術
+- 련금술
+- 연금술
 ---
 # [[Alchemy]] 
 

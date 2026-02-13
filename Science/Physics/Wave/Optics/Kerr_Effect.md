@@ -1,23 +1,96 @@
 ---
-has_time_started: 1875-01-01 
+has_time_started: 1875-01-01
 aliases:
-  - Kerr effect
-  - quadratic electro-optic effect
-  - QEO effect
-  - Kerr_Effect
-  - Kerr Effect
+- efecte Kerr
+- efecto Kerr
+- Efectul Kerr
+- Efeito Kerr
+- Efeutu Kerr
+- effet Kerr
+- Effetto Kerr
+- efiko de Kerr
+- Hiệu ứng Kerr
+- Kero efektas
+- Kerov efekat
+- Kerr efektua
+- Kerr effect
+- Kerr-Effekt
+- Kerra effekti
+- Kerreffect
+- kerreffekt
+- Kerrov pojav
+- Kerr_Effect
+- QEO effect
+- quadratic electro-optic effect
+- zjawisko Kerra
+- ефект Керра
+- Керов ефекат
+- эфект Кера
+- эффект Керра
+- эфэкт Кера
+- Քերի երևույթ
+- תופעת קר
+- اثر کر
+- ظاهرة كير
+- ಕೆರ್ ಪರಿಣಾಮ
+- カー効果
+- 克尔效应
+- 克爾效应
+- 克爾效應
+- 커 효과
 has_id_wikidata: Q883038
 instance_of:
-  - '[[_Standards/WikiData/WD~phenomenon,483247]]'
-  - '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~electricity,12725]]'
 subclass_of: '[[_Standards/WikiData/WD~electro_optic_effect,677139]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Kerr,918672]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 inception: 1875-01-01T00:00:00Z
 IEV_number: 121-12-95
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "KerrEffect"]
+dv_has_:
+  name_:
+    ar: ظاهرة كير
+    ast: Efeutu Kerr
+    be: эфект Кера
+    be-tarask: эфэкт Кера
+    ca: efecte Kerr
+    da: Kerr-effekt
+    de: Kerr-Effekt
+    en: Kerr effect
+    eo: efiko de Kerr
+    es: efecto Kerr
+    eu: Kerr efektua
+    fa: اثر کر
+    fr: effet Kerr
+    he: תופעת קר
+    hy: Քերի երևույթ
+    it: Effetto Kerr
+    ja: カー効果
+    kn: ಕೆರ್ ಪರಿಣಾಮ
+    ko: 커 효과
+    lt: Kero efektas
+    nb: kerreffekt
+    nl: Kerreffect
+    nn: Kerreffekt
+    pl: zjawisko Kerra
+    pt: Efeito Kerr
+    ro: Efectul Kerr
+    ru: эффект Керра
+    sl: Kerrov pojav
+    sr: Керов ефекат
+    sr-ec: Керов ефекат
+    sr-el: Kerov efekat
+    sv: Kerr-effekt
+    uk: ефект Керра
+    uz: Kerra effekti
+    vi: Hiệu ứng Kerr
+    wuu: 克尔效应
+    zh: 克爾效应
+    zh-hans: 克尔效应
+    zh-hant: 克爾效應
+    zh-hk: 克爾效應
 ---
-
 # [[Kerr_Effect]] 
 
 #is_/same_as :: [[WD~Kerr_effect,883038]] 

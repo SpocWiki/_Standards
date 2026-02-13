@@ -1,69 +1,226 @@
 ---
 aliases:
+- As Viagens de Gulliver
+- As viaxes de Gulliver
+- Călătoriile lui Gulliver
+- D Räise vom Gulliver
+- Els viatges de Gulliver
+- Gulivera ceļojumi
+- Guliverio kelionės
+- Guliverjeva potovanja
+- Guliverova putovanja
+- Gulliver du kí
+- Gulliver utazásai
+- Gulliver'in Gezileri
+- Gulliver's Travels
+- Gulliveri reisid
+- Gulliverin retket
+- Gulliverning sayohatlari
+- Gulliverova putovanja
+- Gulliverove cesty
+- Gulliverovy cesty
+- Gulliverren bidaiak
+- Gullivers Reisen
+- Gullivers reiser
+- Gullivers reizen
+- Gullivers rejser
+- Gullivers resor
+- Gū-lì-huò Lṳ̄-hèng-gé
+- I viaggi di Gulliver
+- Ils viadis da Gulliver
+- La vojaĝoj de Gulivero
+- Les Voyages de Gulliver
+- Los viajes de Gulliver
+- Los Viatges de Gulliver
+- Los viaxes de Gulliver
+- Mga pagbiyahe ni Gulliver
+- Perjalanan Gulliver
+- Podróże Guliwera
+- Qulliverin səyahəti
+- Reisubók Gúllívers
+- Tafiye-tafiyen Gulliver
+- Udhëtimet e Gulliverit
+- Τα ταξίδια του Γκιούλιβερ
+- Гуливерова путовања
+- Гуливеровите патувања
+- Гулливердің саяхаттары
+- Гулливерийн аялал
+- Гулливеровы вандровкы
+- Мандри Гуллівера
+- Падарожжы Гулівера
+- Падарожжы Гулівэра
+- Путешествия Гулливера
+- Пътешествията на Гъливер
+- Գուլիվերի ճանապարհորդությունները
+- מסעי גוליבר
+- رحلات جوليفر
+- رحلات غوليفر
+- سفرهای گالیور
+- गुलिवर्स ट्रेवल्स
+- গালিভার’স ট্রাভেলস
+- ਗੁਲੀਵਰਸ ਟਰੈਵਲਜ਼
+- கல்லிவரின் பயணங்கள்
+- ഗള്ളിവറുടെ യാത്രകള്
+- การเดินทางของกัลลิเวอร์
+- ဂါလစ်ဗာ၏ခရီးစဉ်
+- გულივერის მოგზაურობა
+- ガリヴァー旅行記
+- 格列佛游记
+- 格列佛遊記
+- ꯒꯨꯜꯂꯤꯚꯔꯒꯤ ꯈꯣꯡꯆꯠꯁꯤꯡ
+- 걸리버 여행기
 has_id_wikidata: Q181488
 title: Travels into Several Remote Nations of the World, in Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of several Ships
 genre:
-  - "[[_Standards/WikiData/WD~satire,128758]]"
-  - "[[_Standards/WikiData/WD~fantasy,132311]]"
-  - "[[_Standards/WikiData/WD~sea_adventure_novel,11558987]]"
+- '[[_Standards/WikiData/WD~satire,128758]]'
+- '[[_Standards/WikiData/WD~fantasy,132311]]'
+- '[[_Standards/WikiData/WD~sea_adventure_novel,11558987]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,246418]]"
-  - "[[_Standards/WikiData/WD~The_Three_Worlds_of_Gulliver,491989]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels_Beyond_the_Moon,846685]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,1320997]]"
-  - "[[_Standards/WikiData/WD~Le_Voyage_de_Gulliver_à_Lilliput_et_chez_les_géants,2069080]]"
-  - "[[_Standards/WikiData/WD~The_New_Gulliver,3225036]]"
-  - "[[_Standards/WikiData/WD~Case_for_a_Rookie_Hangman,3551976]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,5617792]]"
-  - "[[_Standards/WikiData/WD~Gulliver_en_el_país_de_los_Gigantes,21055140]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,56276918]]"
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,246418]]"
+- '[[_Standards/WikiData/WD~The_Three_Worlds_of_Gulliver,491989]]'
+- "[[_Standards/WikiData/WD~Gulliver's_Travels_Beyond_the_Moon,846685]]"
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,1320997]]"
+- '[[_Standards/WikiData/WD~Le_Voyage_de_Gulliver_à_Lilliput_et_chez_les_géants,2069080]]'
+- '[[_Standards/WikiData/WD~The_New_Gulliver,3225036]]'
+- '[[_Standards/WikiData/WD~Case_for_a_Rookie_Hangman,3551976]]'
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,5617792]]"
+- '[[_Standards/WikiData/WD~Gulliver_en_el_país_de_los_Gigantes,21055140]]'
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,56276918]]"
 characters:
-  - "[[_Standards/WikiData/WD~Houyhnhnm,249683]]"
-  - "[[_Standards/WikiData/WD~Lemuel_Gulliver,1068229]]"
-  - "[[_Standards/WikiData/WD~Yahoo,2447475]]"
-  - "[[_Standards/WikiData/WD~Struldbrugg,3849273]]"
-  - "[[_Standards/WikiData/WD~Glumdalclitch,4925601]]"
+- '[[_Standards/WikiData/WD~Houyhnhnm,249683]]'
+- '[[_Standards/WikiData/WD~Lemuel_Gulliver,1068229]]'
+- '[[_Standards/WikiData/WD~Yahoo,2447475]]'
+- '[[_Standards/WikiData/WD~Struldbrugg,3849273]]'
+- '[[_Standards/WikiData/WD~Glumdalclitch,4925601]]'
 set_in_environment:
-  - "[[_Standards/WikiData/WD~fictional_country,1145276]]"
-  - "[[_Standards/WikiData/WD~fictional_island,6619693]]"
+- '[[_Standards/WikiData/WD~fictional_country,1145276]]'
+- '[[_Standards/WikiData/WD~fictional_island,6619693]]'
 different_from: "[[_Standards/WikiData/WD~Gulliver's_Travels,1554346]]"
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-publisher: "[[_Standards/WikiData/WD~Benjamin_Motte,4889045]]"
-uses: "[[_Standards/WikiData/WD~fantasy_map,5434353]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
+publisher: '[[_Standards/WikiData/WD~Benjamin_Motte,4889045]]'
+uses: '[[_Standards/WikiData/WD~fantasy_map,5434353]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~A_Voyage_to_Lilliput,19109166]]"
-  - "[[_Standards/WikiData/WD~Les_Voyages_de_Gulliver,42573588]]"
-  - "[[_Standards/WikiData/WD~Q66364005,66364005]]"
-  - "[[_Standards/WikiData/WD~Q66364070,66364070]]"
-  - "[[_Standards/WikiData/WD~Q66364081,66364081]]"
-  - "[[_Standards/WikiData/WD~Q66375118,66375118]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_Travels,106185393]]"
-  - "[[_Standards/WikiData/WD~Gulliver's_travels_in_words_of_one_syllable,106234895]]"
-  - "[[_Standards/WikiData/WD~Abakpuree_Darshana,106824244]]"
-  - "[[_Standards/WikiData/WD~Gulliverovy_cesty,111507378]]"
-  - "[[_Standards/WikiData/WD~Viagens_de_Gulliver_a_varios_paizes_remotos,_1816,115682857]]"
-takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Universe_of_Gulliver,20725181]]"
+- '[[_Standards/WikiData/WD~A_Voyage_to_Lilliput,19109166]]'
+- '[[_Standards/WikiData/WD~Les_Voyages_de_Gulliver,42573588]]'
+- '[[_Standards/WikiData/WD~Q66364005,66364005]]'
+- '[[_Standards/WikiData/WD~Q66364070,66364070]]'
+- '[[_Standards/WikiData/WD~Q66364081,66364081]]'
+- '[[_Standards/WikiData/WD~Q66375118,66375118]]'
+- "[[_Standards/WikiData/WD~Gulliver's_Travels,106185393]]"
+- "[[_Standards/WikiData/WD~Gulliver's_travels_in_words_of_one_syllable,106234895]]"
+- '[[_Standards/WikiData/WD~Abakpuree_Darshana,106824244]]'
+- '[[_Standards/WikiData/WD~Gulliverovy_cesty,111507378]]'
+- '[[_Standards/WikiData/WD~Viagens_de_Gulliver_a_varios_paizes_remotos,_1816,115682857]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Universe_of_Gulliver,20725181]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~A_Voyage_to_Lilliput,94978692]]"
-  - "[[_Standards/WikiData/WD~A_Voyage_to_Brobdingnag,95014744]]"
-  - "[[_Standards/WikiData/WD~A_Voyage_to_Laputa,_Balnibarbi,_Luggnagg,_Glubbdubdrib,_and_Japan,95017095]]"
-  - "[[_Standards/WikiData/WD~A_Voyage_to_the_Country_of_the_Houyhnhnms,95018891]]"
+- '[[_Standards/WikiData/WD~A_Voyage_to_Lilliput,94978692]]'
+- '[[_Standards/WikiData/WD~A_Voyage_to_Brobdingnag,95014744]]'
+- '[[_Standards/WikiData/WD~A_Voyage_to_Laputa,_Balnibarbi,_Luggnagg,_Glubbdubdrib,_and_Japan,95017095]]'
+- '[[_Standards/WikiData/WD~A_Voyage_to_the_Country_of_the_Houyhnhnms,95018891]]'
 publication_date: 1726-10-28T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-author: "[[_Standards/WikiData/WD~Jonathan_Swift,41166]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+author: '[[_Standards/WikiData/WD~Jonathan_Swift,41166]]'
 short_name: Gulliver's Travels
 Commons_category: Gulliver's Travels
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gullivers%20travels.jpg
 work_available_at_URL: https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels
-Dewey_Decimal_Classification_works_and_editions_: "823.5"
+Dewey_Decimal_Classification_works_and_editions_: 823.5
 Iconclass_notation: 83(SWIFT, Gulliver's Travels)
 Colon_Classification: O111,3K67,36
+dv_has_:
+  name_:
+    ar: رحلات غوليفر
+    arz: رحلات جوليفر
+    ast: Los viaxes de Gulliver
+    az: Qulliverin səyahəti
+    be: Падарожжы Гулівера
+    be-tarask: Падарожжы Гулівэра
+    bg: Пътешествията на Гъливер
+    bn: গালিভার’স ট্রাভেলস
+    ca: Els viatges de Gulliver
+    cdo: Gū-lì-huò Lṳ̄-hèng-gé
+    cs: Gulliverovy cesty
+    cy: Gulliver's Travels
+    da: Gullivers rejser
+    de: Gullivers Reisen
+    de-ch: Gullivers Reisen
+    el: Τα ταξίδια του Γκιούλιβερ
+    en: Gulliver's Travels
+    en-ca: Gulliver's Travels
+    en-gb: Gulliver's Travels
+    eo: La vojaĝoj de Gulivero
+    es: Los viajes de Gulliver
+    et: Gulliveri reisid
+    eu: Gulliverren bidaiak
+    fa: سفرهای گالیور
+    fi: Gulliverin retket
+    fr: Les Voyages de Gulliver
+    ga: Gulliver's Travels
+    gl: As viaxes de Gulliver
+    gsw: D Räise vom Gulliver
+    ha: Tafiye-tafiyen Gulliver
+    he: מסעי גוליבר
+    hi: गुलिवर्स ट्रेवल्स
+    hr: Gulliverova putovanja
+    hu: Gulliver utazásai
+    hy: Գուլիվերի ճանապարհորդությունները
+    id: Perjalanan Gulliver
+    is: Reisubók Gúllívers
+    it: I viaggi di Gulliver
+    ja: ガリヴァー旅行記
+    ka: გულივერის მოგზაურობა
+    kk: Гулливердің саяхаттары
+    ko: 걸리버 여행기
+    ku: Gulliver's Travels
+    la: Gulliver's Travels
+    lt: Guliverio kelionės
+    lv: Gulivera ceļojumi
+    mk: Гуливеровите патувања
+    ml: ഗള്ളിവറുടെ യാത്രകള്
+    mn: Гулливерийн аялал
+    mni: ꯒꯨꯜꯂꯤꯚꯔꯒꯤ ꯈꯣꯡꯆꯠꯁꯤꯡ
+    my: ဂါလစ်ဗာ၏ခရီးစဉ်
+    nb: Gullivers reiser
+    nl: Gullivers reizen
+    nn: Gullivers reiser
+    oc: Los Viatges de Gulliver
+    pa: ਗੁਲੀਵਰਸ ਟਰੈਵਲਜ਼
+    pl: Podróże Guliwera
+    pt: As Viagens de Gulliver
+    pt-br: As Viagens de Gulliver
+    rm: Ils viadis da Gulliver
+    ro: Călătoriile lui Gulliver
+    ru: Путешествия Гулливера
+    rue: Гулливеровы вандровкы
+    sh: Gulliverova putovanja
+    sk: Gulliverove cesty
+    sl: Guliverjeva potovanja
+    sq: Udhëtimet e Gulliverit
+    sr: Guliverova putovanja
+    sr-ec: Гуливерова путовања
+    sr-el: Guliverova putovanja
+    sv: Gullivers resor
+    ta: கல்லிவரின் பயணங்கள்
+    th: การเดินทางของกัลลิเวอร์
+    tr: Gulliver'in Gezileri
+    uk: Мандри Гуллівера
+    uz: Gulliverning sayohatlari
+    vi: Gulliver du kí
+    war: Mga pagbiyahe ni Gulliver
+    wuu: 格列佛游记
+    yue: 格列佛遊記
+    zh: 格列佛遊記
+    zh-cn: 格列佛游记
+    zh-hans: 格列佛游记
+    zh-hant: 格列佛遊記
+    zh-hk: 格列佛遊記
+    zh-sg: 格列佛游记
+    zh-tw: 格列佛遊記
 ---
-
 # [[Gulliver's_Travels]] 
 
 #is_/same_as :: [[WD~Gulliver's_Travels,181488]] 

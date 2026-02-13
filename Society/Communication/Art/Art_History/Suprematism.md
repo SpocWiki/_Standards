@@ -1,8 +1,44 @@
 ---
-has_time_started: 1913-01-01 
+has_time_started: 1913-01-01
 aliases:
-  - Suprematismus
-  - Suprematism
+- Dreistelouriezh
+- Suprematism
+- suprematisma
+- suprematisme
+- suprematismi
+- suprematismm
+- suprematismo
+- suprematismu
+- Suprematismus
+- Suprematizam
+- Suprematizem
+- suprematizm
+- Suprematizmas
+- Suprematizmus
+- Suprematyzm
+- supremātisms
+- suprématisme
+- Swprematiaeth
+- szuprematizmus
+- Süprematizm
+- trường phái tuyệt đỉnh
+- Σουπρεματισμός
+- супрематизам
+- супрематизм
+- супрематизъм
+- супрэматызм
+- սուպրեմատիզմ
+- סופרמטיזם
+- التفوقيه
+- تفوقية
+- ساختارگری ناب
+- อนุตรนิยม
+- სუპრემატიზმი
+- シュプレマティスム
+- 至上主义
+- 至上主義
+- 至尊主義
+- 쉬프레마티슴
 has_id_wikidata: Q191970
 genre: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 founded_by: '[[_Standards/WikiData/WD~Kazimir_Malevich,130777]]'
@@ -15,8 +51,85 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Malevich.jpg
 Commons_gallery: Suprematism
 Commons_category: Suprematism
 inception: 1913-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: تفوقية
+    arz: التفوقيه
+    ast: suprematismu
+    az: suprematizm
+    be: супрэматызм
+    be-tarask: супрэматызм
+    bg: супрематизъм
+    br: Dreistelouriezh
+    bs: Suprematizam
+    ca: suprematisme
+    cs: Suprematismus
+    cv: Супрематизм
+    cy: Swprematiaeth
+    da: Suprematisme
+    de: Suprematismus
+    el: Σουπρεματισμός
+    en: Suprematism
+    en-ca: Suprematism
+    en-gb: Suprematism
+    eo: Suprematismo
+    es: suprematismo
+    et: suprematism
+    eu: Suprematismo
+    fa: ساختارگری ناب
+    fi: suprematismi
+    fr: suprématisme
+    fy: Suprematisme
+    gl: suprematismo
+    gsw: Suprematismus
+    he: סופרמטיזם
+    hr: Suprematizam
+    hu: szuprematizmus
+    hy: սուպրեմատիզմ
+    id: Suprematisme
+    io: Suprematismo
+    it: suprematismo
+    ja: シュプレマティスム
+    ka: სუპრემატიზმი
+    ko: 쉬프레마티슴
+    la: Suprematismus
+    lt: Suprematizmas
+    lv: supremātisms
+    mk: супрематизам
+    nb: suprematisme
+    nl: suprematisme
+    nn: suprematisme
+    pl: Suprematyzm
+    pt: suprematismo
+    pt-br: Suprematismo
+    ro: suprematism
+    ru: супрематизм
+    sco: Suprematism
+    se: suprematisma
+    sh: Suprematizam
+    sk: Suprematizmus
+    sl: Suprematizem
+    smn: suprematism
+    sms: suprematismm
+    sr: супрематизам
+    sr-ec: супрематизам
+    sr-el: suprematizam
+    sv: suprematism
+    th: อนุตรนิยม
+    tr: Süprematizm
+    uk: Супрематизм
+    uz: Suprematizm
+    vi: trường phái tuyệt đỉnh
+    wuu: 至上主义
+    yue: 至尊主義
+    zh: 至上主义
+    zh-cn: 至上主义
+    zh-hans: 至上主义
+    zh-hant: 至上主義
+    zh-hk: 至上主義
+    zh-sg: 至上主义
+    zh-tw: 至上主義
 ---
-
 # [[Suprematism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suprematism,191970|WD~Suprematism,191970]]  

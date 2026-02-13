@@ -1,25 +1,86 @@
 ---
-has_time_started: 1912-01-01 
+has_time_started: 1912-01-01
 aliases:
-  - Moderner Fünfkampf
-  - Modern_Pentathlon
-  - Modern Pentathlon
+- modern femkamp
+- Modern Pentathlon
+- modern pentatlon
+- moderna pentatlo
+- moderna pentatlono
+- moderne femkamp
+- moderne Fënnefkampf
+- moderne vijfkamp
+- moderne vyfkamp
+- Moderner Fünfkampf
+- moderni petoboj
+- Modern_Pentathlon
+- moderní pětiboj
+- moderný päťboj
+- modernā pieccīņa
+- moodne viievõistlus
+- muasir penccurəti
+- müasir beşnövçülük
+- nuapheantatlan
+- nykyaikainen viisiottelu
+- nútímafimmtarþraut
+- năm môn phối hợp hiện đại
+- pancalomba modern
+- pentathlon modern
+- pentathlon moderne
+- pentathlon moderno
+- pentatlo moderno
+- pentatloi moderno
+- pentatlon moden
+- pentatlon modern
+- pentatlon modèrne
+- pentatló modern
+- pentatlón moderno
+- pentatlón modernu
+- pięciobój nowoczesny
+- péntatlon moderno
+- sodobni pentatlon
+- zamonaviy beshkurash
+- öttusa
+- šiuolaikinė penkiakovė
+- μοντέρνο πένταθλο
+- бессайыс
+- модерен петобой
+- орчин үеийн таван төрөлт
+- савремени петобој
+- современ петобој
+- современное пятиборье
+- сучаснае пяцібор'е
+- сучаснае пяціборства
+- сучасне п'ятиборство
+- ժամանակակից հնգամարտ
+- קרב חמש מודרני
+- الخماسي الحديث
+- پنجگانه مدرن
+- আধুনিক পেন্টাথলন
+- தற்கால ஐந்திறப்போட்டி
+- മോഡേൺ പെന്റത്ലോൺ
+- නවීන පංචප්රයාමය
+- ปัญจกีฬาสมัยใหม่
+- ᱟᱫᱷᱚᱱᱤᱠ ᱯᱮᱱᱴᱟᱛᱷᱚᱞᱚᱱ
+- 现代五项
+- 現代五項
+- 近代五種競技
+- 근대5종 경기
 has_id_wikidata: Q32485
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Pierre_de_Coubertin,82984]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~shooting_sport,206989]]'
-  - '[[_Standards/WikiData/WD~show_jumping,211773]]'
-  - '[[_Standards/WikiData/WD~cross_country_running,500050]]'
-  - '[[_Standards/WikiData/WD~cross_country_equestrianism,2483906]]'
-  - '[[_Standards/WikiData/WD~obstacle_racing,4703797]]'
-  - '[[_Standards/WikiData/WD~200_metres_freestyle,9130691]]'
-  - '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
-  - '[[_Standards/WikiData/WD~Laser_Run,65238837]]'
-  - '[[_Standards/WikiData/WD~300_metre_freestyle,78155572]]'
+- '[[_Standards/WikiData/WD~shooting_sport,206989]]'
+- '[[_Standards/WikiData/WD~show_jumping,211773]]'
+- '[[_Standards/WikiData/WD~cross_country_running,500050]]'
+- '[[_Standards/WikiData/WD~cross_country_equestrianism,2483906]]'
+- '[[_Standards/WikiData/WD~obstacle_racing,4703797]]'
+- '[[_Standards/WikiData/WD~200_metres_freestyle,9130691]]'
+- '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
+- '[[_Standards/WikiData/WD~Laser_Run,65238837]]'
+- '[[_Standards/WikiData/WD~300_metre_freestyle,78155572]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-  - '[[_Standards/WikiData/WD~pentad,29428403]]'
-  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~pentad,29428403]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 subclass_of: '[[_Standards/WikiData/WD~pentathlon,1163125]]'
 authority: '[[_Standards/WikiData/WD~Union_Internationale_de_Pentathlon_Moderne,1347281]]'
 practiced_by: '[[_Standards/WikiData/WD~modern_pentathlete,15972912]]'
@@ -32,8 +93,79 @@ Commons_category: Modern pentathlon
 Krugosvet_article_archived_: sport/sovremennoe-pyatibore
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20Pentathlon%202004%20Olympics.jpg
 inception: 1912-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: moderne vyfkamp
+    ar: الخماسي الحديث
+    ast: pentatlón modernu
+    az: müasir beşnövçülük
+    be: сучаснае пяцібор'е
+    be-tarask: сучаснае пяціборства
+    bg: модерен петобой
+    bn: আধুনিক পেন্টাথলন
+    ca: pentatló modern
+    cs: moderní pětiboj
+    cy: pentathlon modern
+    da: moderne femkamp
+    de: moderner Fünfkampf
+    el: μοντέρνο πένταθλο
+    en: modern pentathlon
+    en-us: modern pentathlon
+    eo: moderna pentatlono
+    es: pentatlón moderno
+    et: moodne viievõistlus
+    eu: pentatloi moderno
+    fa: پنجگانه مدرن
+    fi: nykyaikainen viisiottelu
+    fr: pentathlon moderne
+    ga: nuapheantatlan
+    gl: péntatlon moderno
+    he: קרב חמש מודרני
+    hr: moderni petoboj
+    hu: öttusa
+    hy: ժամանակակից հնգամարտ
+    ia: pentathlon moderne
+    id: pancalomba modern
+    io: moderna pentatlo
+    is: nútímafimmtarþraut
+    it: pentathlon moderno
+    ja: 近代五種競技
+    kk: бессайыс
+    ko: 근대5종 경기
+    lb: moderne Fënnefkampf
+    lt: šiuolaikinė penkiakovė
+    lv: modernā pieccīņa
+    mk: современ петобој
+    ml: മോഡേൺ പെന്റത്ലോൺ
+    mn: орчин үеийн таван төрөлт
+    ms: pentatlon moden
+    nb: moderne femkamp
+    nl: moderne vijfkamp
+    oc: pentatlon modèrne
+    pl: pięciobój nowoczesny
+    pt: pentatlo moderno
+    ro: pentatlon modern
+    ru: современное пятиборье
+    sat: ᱟᱫᱷᱚᱱᱤᱠ ᱯᱮᱱᱴᱟᱛᱷᱚᱞᱚᱱ
+    sh: moderni petoboj
+    si: නවීන පංචප්රයාමය
+    sk: moderný päťboj
+    sl: sodobni pentatlon
+    sr: савремени петобој
+    sv: modern femkamp
+    ta: தற்கால ஐந்திறப்போட்டி
+    th: ปัญจกีฬาสมัยใหม่
+    tly: muasir penccurəti
+    tr: modern pentatlon
+    uk: сучасне п'ятиборство
+    uz: zamonaviy beshkurash
+    vi: năm môn phối hợp hiện đại
+    wuu: 现代五项
+    yue: 現代五項
+    zh: 現代五項
+    zh-hans: 现代五项
+    zh-hant: 現代五項
 ---
-
 # [[Modern_Pentathlon]] 
 
 #is_/same_as :: [[WD~Modern_pentathlon,32485]] 

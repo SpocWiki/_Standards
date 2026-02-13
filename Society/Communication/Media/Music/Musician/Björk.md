@@ -1,8 +1,140 @@
 ---
 has_id_wikidata: Q42455
+dv_has_:
+  name_:
+    af: Björk
+    an: Björk
+    ar: بيورك
+    arz: بيورك
+    ast: Björk
+    az: Byork
+    azb: بیورک
+    be: Б'ёрк
+    be-tarask: Björk
+    bg: Бьорк
+    br: Björk
+    ca: Björk
+    ckb: بیۆرک
+    co: Björk
+    cs: Björk
+    csb: Björk
+    cv: Бьорк
+    cy: Björk
+    da: Björk
+    de: Björk
+    de-ch: Björk
+    dsb: Björk
+    el: Μπιορκ
+    en: Björk
+    en-ca: Björk
+    en-gb: Björk
+    en-us: Björk
+    eo: Björk
+    es: Björk
+    et: Björk
+    eu: Björk
+    fa: بیورک
+    fi: Björk
+    fo: Björk Guðmundsdóttir
+    fr: Björk
+    fy: Björk
+    ga: Björk
+    gan: Björk
+    gd: Björk Guðmundsdóttir
+    gl: Björk
+    he: ביורק
+    hi: ब्योर्क
+    hr: Björk
+    hsb: Björk
+    hu: Björk
+    hy: Բյորկ
+    id: Björk
+    ig: Björk
+    ilo: Björk
+    io: Björk Guðmundsdóttir
+    is: Björk Guðmundsdóttir
+    it: Björk
+    ja: ビョーク
+    jbo: biork
+    jv: Björk
+    ka: ბიორკი
+    kl: Björk
+    ko: 비요크
+    la: Björk
+    lb: Björk Guðmundsdóttir
+    lt: Björk
+    lv: Bjorka
+    mk: Бјерк
+    ml: ബ്യോക്
+    ms: Björk Guðmundsdóttir
+    mt: Björk
+    mul: Björk
+    nan: Björk
+    nb: Björk
+    nl: Björk
+    nn: Björk
+    oc: Björk
+    os: Бьорк
+    pl: Björk
+    pms: Björk
+    pt: Björk
+    pt-br: Björk
+    ro: Björk
+    ru: Бьорк
+    sc: Björk
+    sco: Björk
+    se: Björk
+    sh: Björk
+    sk: Björk
+    sl: Björk
+    sq: Bjork
+    sr: Бјерк
+    su: Björk
+    sv: Björk
+    th: ปีเยิร์ก
+    tl: Björk
+    tok: jan Pijoke
+    tr: Björk
+    uk: Бйорк
+    uz: Björk
+    vi: Björk
+    war: Björk
+    wuu: 比约克
+    yi: בזשאָרק
+    yue: 碧玉
+    zh: 碧玉
+    zh-cn: 比约克
+    zh-hant: 碧玉
+    zh-my: 碧玉
+    zh-sg: 碧玉
+aliases:
+- biork
+- Bjork
+- Bjorka
+- Björk
+- Björk Guðmundsdóttir
+- Byork
+- jan Pijoke
+- Μπιορκ
+- Б'ёрк
+- Бјерк
+- Бйорк
+- Бьорк
+- Բյորկ
+- בזשאָרק
+- ביורק
+- بيورك
+- بیورک
+- بیۆرک
+- ब्योर्क
+- ബ്യോക്
+- ปีเยิร์ก
+- ბიორკი
+- ビョーク
+- 比约克
+- 碧玉
+- 비요크
 ---
-
-
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
 > **Björk** Guðmundsdóttir  ( BYURK, Icelandic: [pjœr̥k ˈkvʏðmʏntsˌtouhtɪr̥] ; 

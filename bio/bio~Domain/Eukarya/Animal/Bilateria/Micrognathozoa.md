@@ -1,9 +1,44 @@
 ---
 aliases:
-  - Micrognathozoa
-  - Limnognathia
+- Limnognathia
+- Micrognathozoa
+- מיקרוגנאטוזואה
+- 顎蟲屬
+- 颚虫属
 title: Limnognathia maerski
 has_id_wikidata: Q18636218
+dv_has_:
+  name_:
+    ast: Limnognathia
+    bg: Limnognathia
+    bs: Limnognathia
+    ceb: Limnognathia
+    de: Limnognathia
+    en: Limnognathia
+    eo: Limnognathia
+    es: Limnognathia
+    fi: Limnognathia
+    fr: Limnognathia
+    ga: Limnognathia
+    he: מיקרוגנאטוזואה
+    ia: Limnognathia
+    it: Limnognathia
+    la: Limnognathia
+    mul: Limnognathia
+    nl: Limnognathia
+    pl: Limnognathia
+    pt: Limnognathia
+    ro: Limnognathia
+    ru: Limnognathia
+    sq: Limnognathia
+    th: Limnognathia
+    tr: Limnognathia
+    uk: Limnognathia
+    vi: Limnognathia
+    war: Limnognathia
+    zh: 颚虫属
+    zh-cn: 颚虫属
+    zh-tw: 顎蟲屬
 ---
 ## [[Micrognathozoa]] 
 

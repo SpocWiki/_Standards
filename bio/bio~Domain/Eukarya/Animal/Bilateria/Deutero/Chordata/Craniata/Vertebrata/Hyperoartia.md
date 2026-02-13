@@ -1,8 +1,149 @@
 ---
 aliases:
-  - Hyperoartia
+- Hyperoartia
+- ingolaalakúak
+- Lampetra
+- Lampredo
+- Lamprei
+- Lampreia
+- Lampret
+- lamprey
+- Lampreya
+- Lamprez
+- Lamproye
+- Lanproi
+- Llamprea
+- loimpre
+- mihule
+- Minogalar
+- minogi
+- Mkunga Mfyonzaji
+- nahkiaiset
+- Nejonögon
+- Neunaugen
+- niaugo
+- Niøyer
+- Njoggeneagen
+- Njügenuugen
+- nēģveidīgie
+- Nėginės
+- Paklare
+- Petromizo
+- Petromizontiformes
+- Petromyzontiformes
+- piškurji
+- prikken
+- Silmulised
+- Steinsuga
+- Taşemengiller
+- Uyaġam aluqtuqtiŋa
+- zmijuljice
+- İlanbalığıkimilər
+- λάμπραινα
+- змијуљице
+- змиулки
+- Міногі
+- Міногові
+- Миногалар
+- миногообразные
+- миногоподобни
+- Тілтістер
+- Шӹм ыражан колвлӓ
+- צמדאים
+- جلكيات
+- دهانگردماهی
+- లాంప్రే
+- ปลาแลมป์เพรย์
+- လမ္ပရီငါး
+- ヤツメウナギ目
+- 七鰓鰻目
+- 七鳃鳗目
+- 八目鰻目
+- 칠성장어목
 title: Hyperoartia
 has_id_wikidata: Q261485
+dv_has_:
+  name_:
+    ar: جلكيات
+    arz: جلكيات
+    ast: Petromyzontiformes
+    az: İlanbalığıkimilər
+    be: Міногі
+    be-tarask: Міногі
+    bg: миногоподобни
+    br: Lamprez
+    ca: Llamprea
+    ceb: Petromyzontiformes
+    cs: mihule
+    cy: Petromyzontiformes
+    da: Lampret
+    de: Neunaugen
+    el: λάμπραινα
+    en: lamprey
+    eo: Petromizo
+    es: Hyperoartia
+    et: Silmulised
+    eu: Lanproi
+    fa: دهانگردماهی
+    fi: nahkiaiset
+    fr: petromyzontiformes
+    frr: Njügenuugen
+    fy: Njoggeneagen
+    ga: loimpre
+    gl: Petromizontiformes
+    he: צמדאים
+    hr: Paklare
+    hu: ingolaalakúak
+    ia: Petromyzontiformes
+    id: Lamprey
+    ik: Uyaġam aluqtuqtiŋa
+    io: Lampredo
+    is: Steinsuga
+    it: Petromyzontiformes
+    ja: ヤツメウナギ目
+    kk: Тілтістер
+    ko: 칠성장어목
+    ky: Миногалар
+    la: Petromyzontiformes
+    lij: Petromyzontiformes
+    lt: Nėginės
+    lv: nēģveidīgie
+    mk: змиулки
+    mrj: Шӹм ыражан колвлӓ
+    ms: Lamprei
+    mul: Petromyzontiformes
+    my: လမ္ပရီငါး
+    nb: Niøyer
+    nl: prikken
+    nn: niaugo
+    oc: Petromyzontiformes
+    pl: minogi
+    pt: Lampreia
+    ro: Petromyzontiformes
+    ru: миногообразные
+    sh: Paklare
+    sk: Mihule
+    sl: piškurji
+    sq: Petromyzontiformes
+    sr: змијуљице
+    sr-ec: змијуљице
+    sr-el: zmijuljice
+    sv: Nejonögon
+    sw: Mkunga Mfyonzaji
+    te: లాంప్రే
+    th: ปลาแลมป์เพรย์
+    tl: Lampreya
+    tr: Taşemengiller
+    uk: Міногові
+    uz: Minogalar
+    vi: Lamprey
+    wa: Lamproye
+    war: Lampetra
+    yue: 八目鰻目
+    zh: 七鰓鰻目
+    zh-cn: 七鳃鳗目
+    zh-hans: 七鳃鳗目
+    zh-tw: 七鰓鰻目
 ---
 # [[Hyperoartia]]
 

@@ -1,21 +1,209 @@
 ---
 aliases:
+- Gelombang mikro
+- Hûrpêl
+- IChadaza
+- micreathonnta
+- micro-onda
+- micro-onde
+- microdon
+- microgolf
+- microona
+- microondas
+- microonde
+- Microondes
+- microundă
+- microwave
+- mikroaalto
+- mikrobaaroe
+- Mikrobangos
+- mikrobárro
+- mikrobárru
+- mikrobølge
+- mikrobølgjer
+- Mikrodalga
+- Mikrodalğalar
+- mikrofale
+- Mikrogelombang
+- Mikrogolf
+- mikrohullám
+- mikrolaine
+- mikroondoj
+- mikropááru
+- mikropäärr
+- Mikrotalasi
+- mikrouhin-labea
+- mikroval
+- Mikrovalno zračenje
+- mikrovalovi
+- Mikrovalët
+- mikroviļņi
+- mikrovlnné žiarenie
+- mikrovlny
+- mikrovågor
+- Mikrowaagen
+- Mikrowellen
+- Mikrowevu
+- Mikwo-onn
+- Mïkrotolqındar
+- Mėkruobangas
+- T'unapillunya
+- tikshua
+- Unda micrometrica
+- Vi ba
+- Örbylgjuofn
+- Μικροκύματα
+- мікрахваля
+- Мікрохвильове випромінювання
+- Микробранови
+- микроволновое излучение
+- Микровълни
+- Микродулкын нурланышы
+- микроталаси
+- Микротолқындар
+- Микрохумла пайăркалав
+- מיקראכוואליע
+- מיקרוגל
+- خردموج
+- ریزموج
+- شەپۆلی مایکرۆیی
+- موجة صغرية
+- مىيكروتولقىندار
+- نکی چھل
+- माइक्रोवेव
+- सूक्ष्मतरंग
+- অণুতরঙ্গ
+- ਸੂਖਮ ਛੱਲ
+- நுண்ணலை
+- മൈക്രോവേവ്
+- ไมโครเวฟ
+- მიკროტალღა
+- マイクロ波
+- 微波
+- 마이크로파
+- 미크로파
 has_id_wikidata: Q127995
-part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117848042,117848042]]"
-subclass_of: "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
-OmegaWiki_Defined_Meaning: "2348"
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117848042,117848042]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+OmegaWiki_Defined_Meaning: 2348
 Dewey_Decimal_Classification:
-  - "537.5344"
-  - "571.453"
+- 537.5344
+- 571.453
 MeSH_tree_code:
-  - G01.358.500.505.810.500
-  - G01.750.250.810.500
-  - G01.750.770.721.500
+- G01.358.500.505.810.500
+- G01.750.250.810.500
+- G01.750.770.721.500
 Commons_category: Microwaves (radio)
 Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/SVERHVISOKIH_CHASTOT_DIAPAZON.html
+dv_has_:
+  name_:
+    af: Mikrogolf
+    ar: موجة صغرية
+    ast: Microondes
+    az: Mikrodalğalar
+    ban: Gelombang mikro
+    be-tarask: мікрахваля
+    bg: Микровълни
+    bn: অণুতরঙ্গ
+    bs: Mikrovalno zračenje
+    ca: microona
+    ckb: شەپۆلی مایکرۆیی
+    cs: mikrovlny
+    cv: Микрохумла пайăркалав
+    cy: microdon
+    da: mikrobølge
+    de: Mikrowellen
+    el: Μικροκύματα
+    en: microwave
+    eo: mikroondoj
+    es: microondas
+    et: mikrolaine
+    eu: mikrouhin-labea
+    fa: ریزموج
+    fi: mikroaalto
+    fr: micro-onde
+    frr: Mikrowaagen
+    ga: micreathonnta
+    gl: Microondas
+    he: מיקרוגל
+    hi: सूक्ष्मतरंग
+    hr: mikrovalovi
+    ht: Mikwo-onn
+    hu: mikrohullám
+    id: Gelombang mikro
+    is: Örbylgjuofn
+    it: microonde
+    ja: マイクロ波
+    jv: Gelombang mikro
+    ka: მიკროტალღა
+    kk: Микротолқындар
+    kk-arab: مىيكروتولقىندار
+    kk-cn: مىيكروتولقىندار
+    kk-cyrl: Микротолқындар
+    kk-kz: Микротолқындар
+    kk-latn: Mïkrotolqındar
+    kk-tr: Mïkrotolqındar
+    ko: 마이크로파
+    ko-kp: 미크로파
+    ku: Hûrpêl
+    la: Unda micrometrica
+    li: Microgolf
+    lt: Mikrobangos
+    lv: mikroviļņi
+    mk: Микробранови
+    ml: മൈക്രോവേവ്
+    mr: सूक्ष्मतरंग
+    ms: Mikrogelombang
+    nb: mikrobølge
+    ne: माइक्रोवेव
+    nl: microgolf
+    nn: mikrobølgjer
+    pa: ਸੂਖਮ ਛੱਲ
+    pl: mikrofale
+    pnb: نکی چھل
+    ps: tikshua
+    pt: micro-onda
+    qu: T'unapillunya
+    ro: microundă
+    ru: микроволновое излучение
+    se: mikrobárru
+    sgs: Mėkruobangas
+    sh: Mikrotalasi
+    sk: mikrovlnné žiarenie
+    sl: mikroval
+    sma: mikrobaaroe
+    smj: mikrobárro
+    smn: mikropááru
+    sms: mikropäärr
+    sq: Mikrovalët
+    sr: микроталаси
+    sr-ec: Микроталаси
+    sr-el: Mikrotalasi
+    su: Gelombang mikro
+    sv: mikrovågor
+    sw: Mikrowevu
+    ta: நுண்ணலை
+    th: ไมโครเวฟ
+    tr: Mikrodalga
+    tt: Микродулкын нурланышы
+    uk: Мікрохвильове випромінювання
+    ur: خردموج
+    vec: Microonde
+    vi: Vi ba
+    war: Microwave
+    wuu: 微波
+    yi: מיקראכוואליע
+    yue: 微波
+    zh: 微波
+    zh-cn: 微波
+    zh-hans: 微波
+    zh-hant: 微波
+    zh-hk: 微波
+    zh-sg: 微波
+    zh-tw: 微波
+    zu: IChadaza
 ---
-
 # [[Microwave]] 
 
 #is_/same_as :: [[WD~Microwave,127995]] 

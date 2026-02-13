@@ -1,33 +1,138 @@
 ---
 aliases:
-  - nuclear family
-  - elementary family
-  - atomic family
-  - conjugal family
-  - Kernfamilie
-  - ''
-  - Nuclear_Family
-  - Nuclear Family
+- atomic family
+- conjugal family
+- elementary family
+- famiglia nucleare
+- familia nuclear
+- Familia nuclearis
+- familia nuklear
+- Familia nyuklia
+- Familja bërthamë
+- famille nucléaire
+- família nuclear
+- gesin
+- gezin
+- jedrna družina
+- keluarga asas
+- Keluarga inti
+- kernefamilie
+- Kernfamilie
+- kernofamilio
+- Kjarnafjölskylda
+- kjernefamilie
+- kärnfamilj
+- nuclear family
+- Nuclear_Family
+- Nuklearna obitelj
+- nukleáris család
+- nukleárna rodina
+- nukleární rodina
+- Rodzina nuklearna
+- teaghlach núicléach
+- Uža porodica
+- whānau whaiaro
+- ydinperhe
+- çekirdek aile
+- πυρηνική οικογένεια
+- нуклеарная семья
+- потесно семејство
+- ядерна родина
+- ядзерная сям’я
+- Միջուկային ընտանիք
+- משפחה גרעינית
+- أسرة نواة
+- جوہری خاندان
+- خانواده هستهای
+- एकल परिवार
+- याकः छेँजः
+- অণু পরিবার
+- தனிக் குடும்பம்
+- 核家族
+- 核心家庭
+- 핵가족
 has_id_wikidata: Q720069
 different_from: '[[_Standards/WikiData/WD~Gezin,5555094]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~immediate_family,6004774]]'
 named_after: '[[_Standards/WikiData/WD~dry_goods,20707967]]'
 instance_of: '[[_Standards/WikiData/WD~family_structure,66363776]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~parent,7566]]'
-  - '[[_Standards/WikiData/WD~child,7569]]'
+- '[[_Standards/WikiData/WD~parent,7566]]'
+- '[[_Standards/WikiData/WD~child,7569]]'
 subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
 Commons_category: Family
 image: http://commons.wikimedia.org/wiki/Special:FilePath/W.H.%20Shumard%20family%2C%20circa%201955.jpg
 MeSH_tree_code:
-  - F01.829.263.315.250.250
-  - I01.240.361.330.750
-  - I01.880.853.150.423.250.250
-  - N01.224.361.330.750
-  - N01.824.308.125.750
-  - N06.850.505.400.400.580.750
+- F01.829.263.315.250.250
+- I01.240.361.330.750
+- I01.880.853.150.423.250.250
+- N01.224.361.330.750
+- N01.824.308.125.750
+- N06.850.505.400.400.580.750
+dv_has_:
+  name_:
+    af: gesin
+    ar: أسرة نواة
+    ast: Familia nuclear
+    be-tarask: ядзерная сям’я
+    bho: एकल परिवार
+    bn: অণু পরিবার
+    ca: família nuclear
+    cs: nukleární rodina
+    da: kernefamilie
+    dag: Nuclear family
+    de: Kernfamilie
+    el: πυρηνική οικογένεια
+    en: nuclear family
+    eo: kernofamilio
+    es: familia nuclear
+    eu: familia nuklear
+    fa: خانواده هستهای
+    fi: ydinperhe
+    fr: famille nucléaire
+    fy: gesin
+    ga: teaghlach núicléach
+    gl: Familia nuclear
+    he: משפחה גרעינית
+    hi: एकल परिवार
+    hr: Nuklearna obitelj
+    hu: nukleáris család
+    hy: Միջուկային ընտանիք
+    id: Keluarga inti
+    is: Kjarnafjölskylda
+    it: famiglia nucleare
+    ja: 核家族
+    ko: 핵가족
+    la: Familia nuclearis
+    mi: whānau whaiaro
+    mk: потесно семејство
+    ms: keluarga asas
+    nb: kjernefamilie
+    ne: एकल परिवार
+    new: याकः छेँजः
+    nl: gezin
+    pl: Rodzina nuklearna
+    pt: família nuclear
+    pt-br: família nuclear
+    ru: нуклеарная семья
+    sk: nukleárna rodina
+    sl: jedrna družina
+    sq: Familja bërthamë
+    sr: Uža porodica
+    sv: kärnfamilj
+    sw: Familia nyuklia
+    ta: தனிக் குடும்பம்
+    te: nuclear family
+    tr: çekirdek aile
+    uk: ядерна родина
+    ur: جوہری خاندان
+    wuu: 核心家庭
+    yue: 核心家庭
+    zh: 核心家庭
+    zh-hans: 核心家庭
+    zh-hant: 核心家庭
+    zh-hk: 核心家庭
 ---
-
 # [[Nuclear_Family]] 
 
 #is_/same_as :: [[WD~Nuclear_family,720069]] 

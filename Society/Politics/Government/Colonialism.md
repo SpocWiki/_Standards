@@ -1,16 +1,107 @@
 ---
 aliases:
-  - Colonialism
+- chitsamunda
+- chủ nghĩa thực dân
+- cigminzcujyi
+- coilíneachas
+- colnijhaedje
+- coloinaghys
+- Colonialism
+- colonialisme
+- colonialismo
+- Colonialismu
+- colonialismus
+- colonialissem
+- culunialismu
+- gumeysiga
+- gyarmatosítás
+- kolonialism
+- kolonialisma
+- kolonialisme
+- kolonialismi
+- kolonialismm
+- kolonialismo
+- Kolonialismus
+- Kolonialissem
+- kolonialissma
+- kolonializem
+- kolonializm
+- kolonializmas
+- kolonializmus
+- kolonializëm
+- koloniismo
+- kolonijalizam
+- kolonioalismus
+- koloniyalizm
+- koloniālisms
+- kolonjaliżmu
+- Kolonyalism
+- kolonyalismo
+- kolonîtî
+- kolónia ñembopoguy
+- Kubusa ngemakholonisi
+- kuoluonēlėzmos
+- mulkin mallaka
+- mustamlakachilik
+- müstəmləkəçilik
+- nasin utala
+- nýlendustefna
+- si̍t-bîn-chú-gī
+- sömürgecilik
+- taipūwhenuatanga
+- trefedigaethrwydd
+- trevadennouriezh
+- Trevesigoleth
+- UbuQoneli
+- ukoloni
+- upniweswaad
+- αποικιοκρατία
+- каланіялізм
+- каляніялізм
+- колоніалізм
+- колонијализам
+- колониализм
+- колониализъм
+- колоничлол
+- отаршылдық
+- գաղութատիրություն
+- קאלאניאליזם
+- קולוניאליזם
+- استعمار
+- استعمارية
+- ایستعمار
+- بيٺڪيت
+- نو آبادیاتی نظام
+- کۆلۆنیاڵیزم
+- उपनिवेश
+- उपनिवेशवाद
+- देय् च्यलेगु
+- वसाहतवाद
+- উপনিবেশবাদ
+- ঔপনিৱেশিকতাবাদ
+- ਬਸਤੀਵਾਦ
+- குடியேற்றவியம்
+- వలసవాదం
+- കോളനിവാഴ്ച
+- යටත්විජිතවාදය
+- ลัทธิอาณานิคม
+- ລະບອບຫົວເມືອງຂຶ້ນ
+- ကိုလိုနီစနစ်
+- კოლონიალიზმი
+- 植民地主義
+- 殖民主义
+- 殖民主義
+- 식민주의
 has_id_wikidata: Q7167
 Commons_category: Colonialism
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
 Dewey_Decimal_Classification: 325.3
 different_from: '[[_Standards/WikiData/WD~colony,133156]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~oppression,252000]]'
-  - '[[_Standards/WikiData/WD~detribalization,65052129]]'
+- '[[_Standards/WikiData/WD~oppression,252000]]'
+- '[[_Standards/WikiData/WD~detribalization,65052129]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RomanEmpire%20117.svg
 instance_of: '[[_Standards/WikiData/WD~social_formation,1641112]]'
 Library_of_Congress_Classification: JV51
@@ -18,8 +109,170 @@ MeSH_tree_code: I01.696.116
 subclass_of: '[[_Standards/WikiData/WD~imperialism,7260]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]'
 UMLS_CUI: C0009372
+dv_has_:
+  name_:
+    af: kolonialisme
+    an: colonialismo
+    ar: استعمارية
+    arz: استعمار
+    as: ঔপনিৱেশিকতাবাদ
+    ast: colonialismu
+    av: Колониализм
+    az: müstəmləkəçilik
+    azb: ایستعمار
+    ba: колониализм
+    be: каланіялізм
+    be-tarask: каляніялізм
+    bg: колониализъм
+    bn: উপনিবেশবাদ
+    br: trevadennouriezh
+    bs: kolonijalizam
+    btm: Kolonialisme
+    bxr: колониализм
+    ca: colonialisme
+    ce: Колониализм
+    ckb: کۆلۆنیاڵیزم
+    crh: kolonializm
+    cs: kolonialismus
+    cy: trefedigaethrwydd
+    da: kolonialisme
+    de: Kolonialismus
+    diq: koloniyalizm
+    el: αποικιοκρατία
+    en: colonialism
+    en-ca: Colonialism
+    en-gb: colonialism
+    en-us: colonialism
+    eo: koloniismo
+    es: colonialismo
+    et: kolonialism
+    eu: kolonialismo
+    fa: استعمار
+    fi: kolonialismi
+    fr: colonialisme
+    fy: kolonialisme
+    ga: coilíneachas
+    gcr: Kolonyalism
+    gl: colonialismo
+    gn: kolónia ñembopoguy
+    gsw: Kolonialismus
+    gv: coloinaghys
+    ha: mulkin mallaka
+    he: קולוניאליזם
+    hi: उपनिवेशवाद
+    hif: upniweswaad
+    hr: kolonijalizam
+    hsb: kolonializm
+    hu: gyarmatosítás
+    hy: գաղութատիրություն
+    ia: colonialismo
+    id: kolonialisme
+    ie: colonialisme
+    ilo: Kolonialismo
+    io: kolonialismo
+    is: nýlendustefna
+    it: colonialismo
+    ja: 植民地主義
+    jv: kolonialisme
+    ka: კოლონიალიზმი
+    kk: отаршылдық
+    knc: Colonialism
+    ko: 식민주의
+    krc: колониализм
+    ku: kolonîtî
+    kw: Trevesigoleth
+    ky: колониализм
+    la: colonialismus
+    lb: Kolonialissem
+    li: kolonialisme
+    lld: Colonialism
+    lmo: Colonialism
+    lo: ລະບອບຫົວເມືອງຂຶ້ນ
+    lt: kolonializmas
+    lv: koloniālisms
+    mi: taipūwhenuatanga
+    mk: колонијализам
+    ml: കോളനിവാഴ്ച
+    mn: колоничлол
+    mr: वसाहतवाद
+    ms: kolonialisme
+    mt: kolonjaliżmu
+    my: ကိုလိုနီစနစ်
+    nan: si̍t-bîn-chú-gī
+    nb: kolonialisme
+    nds: Kolonialismus
+    nds-nl: kolonialisme
+    ne: उपनिवेश
+    new: देय् च्यलेगु
+    nl: kolonialisme
+    nn: kolonialisme
+    ny: chitsamunda
+    oc: colonialisme
+    pa: ਬਸਤੀਵਾਦ
+    pap: kolonialismo
+    pl: kolonializm
+    pms: colonialism
+    pnb: نو آبادیاتی نظام
+    ps: استعمار
+    pt: colonialismo
+    pt-br: colonialismo
+    rm: colonialissem
+    ro: colonialism
+    ru: колониализм
+    rue: колоніалізм
+    sah: колониализм
+    sc: Colonialismu
+    scn: culunialismu
+    sd: بيٺڪيت
+    se: kolonialisma
+    sgs: kuoluonēlėzmos
+    sh: kolonijalizam
+    si: යටත්විජිතවාදය
+    sje: kolonialissma
+    sk: kolonializmus
+    sl: kolonializem
+    sma: kolonialisme
+    smj: kolonialissma
+    smn: kolonialism
+    sms: kolonialismm
+    so: gumeysiga
+    sq: kolonializëm
+    sr: колонијализам
+    sr-ec: колонијализам
+    ss: Kubusa ngemakholonisi
+    stq: kolonioalismus
+    sv: kolonialism
+    sw: ukoloni
+    ta: குடியேற்றவியம்
+    te: వలసవాదం
+    th: ลัทธิอาณานิคม
+    tl: kolonyalismo
+    tok: nasin utala
+    tr: sömürgecilik
+    tt: колониализм
+    udm: колониализм
+    uk: колоніалізм
+    ur: نو آبادیاتی نظام
+    uz: mustamlakachilik
+    vi: chủ nghĩa thực dân
+    wa: colnijhaedje
+    war: kolonyalismo
+    wuu: 殖民主义
+    xmf: კოლონიალიზმი
+    yi: קאלאניאליזם
+    yue: 殖民主義
+    za: cigminzcujyi
+    zh: 殖民主义
+    zh-cn: 殖民主义
+    zh-hans: 殖民主义
+    zh-hant: 殖民主義
+    zh-hk: 殖民主義
+    zh-mo: 殖民主義
+    zh-my: 殖民主义
+    zh-sg: 殖民主义
+    zh-tw: 殖民主義
+    zu: UbuQoneli
 ---
-
 # [[Colonialism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Colonialism,7167|WD~Colonialism,7167]] 

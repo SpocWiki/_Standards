@@ -1,28 +1,105 @@
 ---
 aliases:
-  - Battle
+- a̱yaat
+- bataille
+- bataja
+- batalha
+- batalla
+- batalo
+- battagghia
+- battaglia
+- Battalia
+- Battle
+- betejë
+- bitka
+- bitva
+- bitwa
+- blàr
+- brwydr
+- bătălie
+- cath
+- Chiàn-tò͘
+- csata
+- döyüş
+- emgann
+- faɗa
+- Fjildslach
+- gudu
+- Jang
+- kauja
+- labanan
+- lahing
+- muharebe
+- mūšis
+- Orrusta
+- pertempuran
+- proelium
+- Schlacht
+- Schluecht
+- Slacht
+- slag
+- taistelu
+- trận đánh
+- Veldjslaag
+- veldslag
+- vojenská bitka
+- zabili
+- şer û pêkdan
+- μάχη
+- алыш
+- Арпалыс
+- бітва
+- битва
+- битка
+- Генераллĕ çапăçавлăх
+- Кучедалмаш
+- Кыргыһыы
+- Тулалдаан
+- ճակատամարտ
+- קרב
+- שלאכט
+- باتالها
+- جګړه
+- لڑائی
+- معركة
+- نبرد
+- ڕەزم
+- ߞߟߊߓߍ߲
+- लड़ाई
+- लढाई
+- যুদ্ধ
+- યુદ્ધ
+- சமர்
+- ಕದನ
+- ബാറ്റിൽ
+- ბრძოლა
+- ᱞᱟᱹᱲᱦᱟᱹᱭ
+- 战役
+- 戦闘
+- 戰役
+- 전투
 has_id_wikidata: Q178561
 subclass_of:
-  - '[[_Standards/WikiData/WD~armed_conflict,350604]]'
-  - '[[_Standards/WikiData/WD~military_operation,645883]]'
-  - '[[_Standards/WikiData/WD~combat,650711]]'
-  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
-  - '[[_Standards/WikiData/WD~geographically_localized_event,123349687]]'
+- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~military_operation,645883]]'
+- '[[_Standards/WikiData/WD~combat,650711]]'
+- '[[_Standards/WikiData/WD~historical_event,13418847]]'
+- '[[_Standards/WikiData/WD~geographically_localized_event,123349687]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
 properties_for_this_type:
-  - location
-  - part of
-  - start time
-  - end time
-  - point in time
-  - participant
-  - number of deaths
-  - order of battle
-  - country
+- location
+- part of
+- start time
+- end time
+- point in time
+- participant
+- number of deaths
+- order of battle
+- country
 Wikidata_property: participated in conflict
 part_of: '[[_Standards/WikiData/WD~war,198]]'
 IMDb_keyword: battle
@@ -30,12 +107,123 @@ OmegaWiki_Defined_Meaning: 158617
 social_media_followers: 1411437
 Commons_category: Battles
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Butler%20Lady%20Quatre%20Bras%201815.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Americo-ava%C3%AD.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Butler%20Lady%20Quatre%20Bras%201815.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Americo-ava%C3%AD.jpg
 P8189: 987007282577605171
 subreddit: CombatFootage
+dv_has_:
+  name_:
+    af: veldslag
+    ar: معركة
+    ast: batalla
+    az: döyüş
+    ba: алыш
+    be: бітва
+    be-tarask: бітва
+    bg: битка
+    bn: যুদ্ধ
+    br: emgann
+    bs: bitka
+    ca: batalla
+    ckb: ڕەزم
+    cs: bitva
+    cv: Генераллĕ çапăçавлăх
+    cy: brwydr
+    da: slag
+    dag: zabili
+    de: Schlacht
+    diq: Muharebe
+    el: μάχη
+    en: battle
+    eo: batalo
+    es: batalla
+    et: lahing
+    eu: gudu
+    fa: نبرد
+    fi: taistelu
+    fr: bataille
+    fy: Fjildslach
+    ga: cath
+    gd: blàr
+    gl: batalla
+    grc: μάχη
+    gu: યુદ્ધ
+    ha: faɗa
+    he: קרב
+    hi: लड़ाई
+    hr: bitka
+    hsb: bitwa
+    hu: csata
+    hy: ճակատամարտ
+    ia: Battalia
+    id: pertempuran
+    is: Orrusta
+    it: battaglia
+    ja: 戦闘
+    ka: ბრძოლა
+    kcg: a̱yaat
+    kk: Арпалыс
+    kn: ಕದನ
+    ko: 전투
+    ku: şer û pêkdan
+    ku-latn: şer û pêkdan
+    la: proelium
+    lb: Schluecht
+    li: Veldjslaag
+    lmo: battaglia
+    lt: mūšis
+    lv: kauja
+    mhr: Кучедалмаш
+    mk: битка
+    ml: ബാറ്റിൽ
+    mn: Тулалдаан
+    mr: लढाई
+    ms: pertempuran
+    mzn: باتالها
+    nan: Chiàn-tò͘
+    nb: slag
+    nds: Slacht
+    nl: veldslag
+    nn: slag
+    nqo: ߞߟߊߓߍ߲
+    oc: Batalha
+    pl: bitwa
+    ps: جګړه
+    pt: batalha
+    ro: bătălie
+    ru: битва
+    sah: Кыргыһыы
+    sat: ᱞᱟᱹᱲᱦᱟᱹᱭ
+    scn: battagghia
+    sco: battle
+    sh: bitka
+    sk: vojenská bitka
+    sl: bitka
+    sq: betejë
+    sr: битка
+    sr-ec: битка
+    sr-el: Bitka
+    sv: slag
+    szl: bitwa
+    ta: சமர்
+    tl: labanan
+    tr: muharebe
+    uk: битва
+    ur: لڑائی
+    uz: Jang
+    vec: bataja
+    vi: trận đánh
+    wuu: 战役
+    yi: שלאכט
+    yue: 戰役
+    zh: 戰役
+    zh-cn: 战役
+    zh-hans: 战役
+    zh-hant: 戰役
+    zh-hk: 戰役
+    zh-sg: 战役
+    zh-tw: 戰役
 ---
-
 # [[Battle]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Battle,178561|WD~Battle,178561]] 

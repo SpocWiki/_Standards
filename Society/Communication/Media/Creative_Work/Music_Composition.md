@@ -1,117 +1,248 @@
 ---
 aliases:
-  - music-composition
-  - music_composition
-  - MusicComposition
-  - Musical composition
-  - composition
-  - Komposition
-  - is_a_music_composition
-  - Music_Composition
-  - Music Composition
+- beste
+- beste/berhema muzîkî
+- bản nhạc
+- composicion musicala
+- compositio musica
+- composition
+- composição musical
+- glasbena kompozicija
+- gwaith neu gyfansodiad cerddorol
+- hudební dílo/skladba
+- is_a_music_composition
+- karya/gubahan muzik
+- karya/komposisi musik
+- Komposition
+- Music Composition
+- music-composition
+- Musical composition
+- musical work/composition
+- MusicComposition
+- music_composition
+- musiikkiteos/sävellys
+- musika-lan
+- musikale werk/komposisie
+- musikalescht Wierk / Kompositioun
+- musikalisches Werk / Komposition
+- musikalsk komposisjon
+- musikalsk værk/komposition
+- musikkverk/komposisjon
+- musikverk
+- musiqa asari/kompozitsiyasi
+- musiqi əsəri
+- muusikateos
+- muzika verko aŭ komponaĵo
+- muzikaal werk/compositie
+- muzikale komposysje
+- obra de composició musical
+- obra de composición musical
+- obra musikal/komposishon
+- obra ou composição musical
+- obra/composición musical
+- opera/composizione musicale
+- saothar ceoil
+- sonaozadur
+- ta̱m/tak ti̱tak bubwom
+- utwór muzyczny/kompozycja
+- zenemű
+- òpara/conpozision muzicałe
+- œuvre ou composition musicale
+- μουσικό έργο/σύνθεση
+- музикална композиция
+- музичка композиција
+- музичко дело/композиција
+- музичний твір/композиція
+- музыкаль әсәр/композиция
+- музыкаль әҫәр/композиция
+- музыкальное произведение/композиция
+- музычны твор/кампазіцыя
+- музычны твор/кампазыцыя
+- երաժշտական գործ/ստեղծագործություն
+- הלחנה או יצירה מוזיקלית
+- عمل/مؤلف موسيقي
+- کار موسیقی/اثر
+- کاريا/ݢوبهن موزيک
+- সুরারোপ/সুর সৃষ্টি
+- ผลงานเพลง/การประพันธ์เพลง
+- მუსიკალური ნახანდი/კომპოზიცია
+- 音乐作品/乐曲
+- 音楽作品/楽曲
+- 音樂作品/樂曲
+- 음악 작품/작곡
 has_id_wikidata: Q105543609
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - music_composition
+- music_composition
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_music_composition Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - excalidraw
+- class/Class
+- excalidraw
 title: is_a_music_composition Class
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - '[[Extract~Note~Template]]'
+- '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 different_from:
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-  - '[[_Standards/WikiData/WD~musical_work,2188189]]'
-  - '[[_Standards/WikiData/WD~music_composing,11895763]]'
-  - '[[_Standards/WikiData/WD~music,115484611]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~music_composing,11895763]]'
+- '[[_Standards/WikiData/WD~music,115484611]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~musical_work,2188189]]'
-  - '[[_Standards/WikiData/WD~intellectual_work,15621286]]'
+- '[[_Standards/WikiData/WD~musical_work,2188189]]'
+- '[[_Standards/WikiData/WD~intellectual_work,15621286]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863]]'
 fabrication_method: '[[_Standards/WikiData/WD~music_composing,11895763]]'
 instance_of: '[[_Standards/WikiData/WD~metaclass,19478619]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~musical_work,114798209]]'
 inappropriate_property_for_this_type:
-  - record label
-  - subclass of
-  - distribution format
-  - has edition or translation
-  - image
-  - logo image
+- record label
+- subclass of
+- distribution format
+- has edition or translation
+- image
+- logo image
 properties_for_this_type:
-  - language of work or name
-  - MusicBrainz work ID
-  - has part(s)
-  - publication date
-  - lyricist
-  - contributor to the creative work or subject
-  - dedicated to
-  - tonality
-  - IMSLP ID
-  - instrumentation
-  - catalog
-  - date of first performance
-  - Parsons code
-  - title
-  - tempo marking
-  - has melody
-  - ISWC
-  - AllMusic composition ID
-  - duration
-  - number of parts of this work
-  - SecondHandSongs work ID
-  - sheet music
-  - time signature
-  - location of first performance
-  - BMI work ID
-  - ACE Repertory work ID
-  - derivative work
-  - modified version of
-  - adapted by
-  - Carnegie Hall work ID
-  - samples from work
-  - copyright status
-  - has lyrics
-  - musical quotation or excerpt
-  - musical motif
-  - form of creative work
-  - Global Music Rights work ID
-  - SESAC work number
-  - Songlexikon ID
-  - music created for
-  - Aathavanitli Gani song ID
-  - first performance by
-  - composer
-  - publisher
-  - genre
-  - based on
-  - performer
+- language of work or name
+- MusicBrainz work ID
+- has part(s)
+- publication date
+- lyricist
+- contributor to the creative work or subject
+- dedicated to
+- tonality
+- IMSLP ID
+- instrumentation
+- catalog
+- date of first performance
+- Parsons code
+- title
+- tempo marking
+- has melody
+- ISWC
+- AllMusic composition ID
+- duration
+- number of parts of this work
+- SecondHandSongs work ID
+- sheet music
+- time signature
+- location of first performance
+- BMI work ID
+- ACE Repertory work ID
+- derivative work
+- modified version of
+- adapted by
+- Carnegie Hall work ID
+- samples from work
+- copyright status
+- has lyrics
+- musical quotation or excerpt
+- musical motif
+- form of creative work
+- Global Music Rights work ID
+- SESAC work number
+- Songlexikon ID
+- music created for
+- Aathavanitli Gani song ID
+- first performance by
+- composer
+- publisher
+- genre
+- based on
+- performer
 equivalent_class:
-  - http://d-nb.info/standards/elementset/gnd#MusicalWork
-  - http://dbpedia.org/ontology/MusicalWork
-  - http://purl.org/ontology/mo/MusicalWork
-  - https://data.bnf.fr/vocabulary/work-form/tum
-  - https://schema.org/MusicComposition
+- http://d-nb.info/standards/elementset/gnd#MusicalWork
+- http://dbpedia.org/ontology/MusicalWork
+- http://purl.org/ontology/mo/MusicalWork
+- https://data.bnf.fr/vocabulary/work-form/tum
+- https://schema.org/MusicComposition
 Wikidata_usage_instructions: Use with P31. This is an attempt at cleaning up and consolidating musical works previously classified as instances of "musical composition" (Q207628), "musical work" (Q2188189), "song" (Q7366), "symphony" (Q9734), etc.
+dv_has_:
+  name_:
+    af: musikale werk/komposisie
+    ar: عمل/مؤلف موسيقي
+    ast: obra/composición musical
+    az: musiqi əsəri
+    ba: музыкаль әҫәр/композиция
+    be: музычны твор/кампазіцыя
+    be-tarask: музычны твор/кампазыцыя
+    bg: музикална композиция
+    bn: সুরারোপ/সুর সৃষ্টি
+    br: sonaozadur
+    ca: obra de composició musical
+    cs: hudební dílo/skladba
+    cy: gwaith neu gyfansodiad cerddorol
+    da: musikalsk værk/komposition
+    de: musikalisches Werk / Komposition
+    el: μουσικό έργο/σύνθεση
+    en: musical work/composition
+    eo: muzika verko aŭ komponaĵo
+    es: obra de composición musical
+    et: muusikateos
+    eu: musika-lan
+    fa: کار موسیقی/اثر
+    fi: musiikkiteos/sävellys
+    fr: œuvre ou composition musicale
+    fy: muzikale komposysje
+    ga: saothar ceoil
+    gl: obra de composición musical
+    he: הלחנה או יצירה מוזיקלית
+    hu: zenemű
+    hy: երաժշտական գործ/ստեղծագործություն
+    id: karya/komposisi musik
+    it: opera/composizione musicale
+    ja: 音楽作品/楽曲
+    kcg: ta̱m/tak ti̱tak bubwom
+    ko: 음악 작품/작곡
+    ku: beste/berhema muzîkî
+    ku-latn: beste/berhema muzîkî
+    la: compositio musica
+    lb: musikalescht Wierk / Kompositioun
+    mk: музичко дело/композиција
+    ms: karya/gubahan muzik
+    ms-arab: کاريا/ݢوبهن موزيک
+    nb: musikkverk/komposisjon
+    nl: muzikaal werk/compositie
+    nn: musikalsk komposisjon
+    oc: composicion musicala
+    pap: obra musikal/komposishon
+    pl: utwór muzyczny/kompozycja
+    pt: composição musical
+    pt-br: obra ou composição musical
+    ru: музыкальное произведение/композиция
+    sl: glasbena kompozicija
+    sr: музичка композиција
+    sv: musikverk
+    th: ผลงานเพลง/การประพันธ์เพลง
+    tr: beste
+    tt: музыкаль әсәр/композиция
+    uk: музичний твір/композиція
+    uz: musiqa asari/kompozitsiyasi
+    vec: òpara/conpozision muzicałe
+    vi: bản nhạc
+    xmf: მუსიკალური ნახანდი/კომპოზიცია
+    yue: 音樂作品/樂曲
+    zh: 音樂作品/樂曲
+    zh-cn: 音乐作品/乐曲
+    zh-hans: 音乐作品/乐曲
+    zh-hant: 音樂作品/樂曲
+    zh-tw: 音樂作品/樂曲
 ---
 # [[Music_Composition]] 
 

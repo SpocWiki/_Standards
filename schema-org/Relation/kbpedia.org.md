@@ -1,10 +1,170 @@
 ---
 aliases:
-  - kbpedia.org
-has_location_created: ""
-has_location_destroyed: ""
-has_time_created: ""
-has_time_destroyed: ""
+- an Vicipéid
+- Biquipedia
+- Biquipédia
+- Huiquipedia
+- kbpedia.org
+- lipu Wikipesija
+- Noongarpedia
+- Uicchipèdie
+- Uicipeid
+- uikipidias
+- Uiqipitia
+- Vichipedia
+- Vichipedie
+- Vichipedìa
+- Vicipedia
+- Vicipædia
+- Vigibakgoh
+- Vikipedeja
+- Vikipedi
+- Vikipedii
+- Vikipedija
+- Vikipedio
+- Vikipediya
+- Vikipedya
+- Vikipedėjė
+- Vikipeedia
+- Vikipeediä
+- Vikipetã
+- Vikipidiya
+- Vikipēdij
+- Vikipēdija
+- Vikipөdiya
+- Vikípeđíá
+- Viquipèdia
+- Viqùipédie
+- Vitipetia
+- Vouiquipèdia
+- Vì-kî Pak-khô
+- Vükiped
+- Wiccipedia
+- Wicipedia
+- Wiikiipiidiyaa
+- Wikiakuaipa
+- Wikibitia
+- Wikipaedia
+- Wikipedhiya
+- Wikipedi
+- Wikipedia
+- Wikipedie
+- Wikipedii
+- Wikipedija
+- Wikipedijô
+- Wikipedio
+- Wikipediya
+- Wikipediýa
+- Wikipedy
+- Wikipedya
+- Wikipedyjŏ
+- Wikipeedia
+- Wikipeediya
+- Wikipetcia
+- Wikipidia
+- Wikipidiya
+- Wikipidya
+- Wikipikia
+- Wikipitiya
+- Wikipiɖia
+- Wikipèdia
+- Wikipèḍia
+- Wikipédi
+- Wikipédia
+- Wikipédiye
+- Wikipédja
+- Wikipédìà
+- Wikipēdija
+- Wikkapedya
+- Wikkipedija
+- Wukipedia
+- Wìkìpedia
+- Wîkîpediya
+- Wïkïpêdïyäa
+- Ƿikipǣdia
+- Βικιπαίδεια
+- Авикипедиа
+- Бикипеди
+- Бикипиэдьийэ
+- Вікіпедія
+- Вікіпедыя
+- Вікіпэдыя
+- Википєдїꙗ
+- Википеди
+- Википедија
+- Википедиа
+- Википедие
+- Википедий
+- Википедия
+- Википедиясь
+- Википеэди
+- Уикипедиэ
+- Уикипедия
+- Ուիքիփետիա
+- Վիքիպեդիա
+- וויקיפעדיע
+- ויקיפדיה
+- ويكيبيديا
+- ويکيپېډيا
+- ويکيڤيديا
+- وِکیٖپیٖڈیا
+- وکیپیڈیا
+- وڪيپيڊيا
+- ویکی پدیا
+- ویکیپدیا
+- ویکیپیدیا
+- ویکیپیڈیا
+- ۋىكىپېدىيە
+- ܘܝܩܝܦܕܝܐ
+- ވިކިޕީޑިޔާ
+- ߥߞߌߔߋߘߌߦߊ
+- विकिपिडिया
+- विकिपीडिया
+- উইকিপিডিয়া
+- ৱিকিপিডিয়া
+- ਵਿਕੀਪੀਡੀਆ
+- વિકિપીડિયા
+- ଉଇକିପିଡ଼ିଆ
+- விக்கிப்பீடியா
+- వికీపీడియా
+- ವಿಕಿಪೀಡಿಯ
+- വിക്കിപീഡിയ
+- විකිපීඩියා
+- วิกิพีเดีย
+- ວິກິພີເດຍ
+- ཝི་ཀི་པི་ཌི་ཡ། Wikipedia
+- ལྦེ་ཁེ་རིག་མཛོད
+- ဝီကီပီးဒီးယား
+- ဝီကီးပီးဒီးယား
+- ဝီခီပီးဒီးယား
+- ဝီႇၶီႇၽီးတီးယႃး
+- ဝဳကဳပဳဒဳယာ
+- ვიკიპედია
+- ዊኪፐድያ
+- ዊኪፒድያ
+- ውክፔዲያ
+- ᏫᎩᏇᏗᏯ
+- ᐅᐃᑭᐱᑎᐊ
+- ᐎᑭᐱᑎᔭ
+- វិគីភីឌា
+- ᥝᥤᥱ ᥑᥤᥱ ᥚᥤᥱ ᥖᥤᥱ ᥕᥣᥱ
+- ᩅᩥᨠᩥᨽᩦᨯᩮ᩠ᨿ
+- ᬯᬶᬓᬶᬧᬾᬤᬶᬬ
+- ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
+- ⵡⵉⴽⵉⴱⵉⴷⵢⴰ
+- ウィキペディア
+- ヰキペディヤ
+- 維基大典
+- 維基百科
+- 维基百科
+- ꠃꠁꠇꠤꠙꠤꠒꠤꠀ
+- ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
+- 위키백과
+- "\U00010345\U00010339\U0001033A\U00010339\U00010340\U00010330\U00010339\U00010333\U0001033E\U00010330"
+has_location_created: ''
+has_location_destroyed: ''
+has_time_created: ''
+has_time_destroyed: ''
 name: Schema.org Ontology
 subjectOf:
   \@type: Book
@@ -13,23 +173,388 @@ _context: https://schema.org/
 _type: Thing
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]]"
-    - "[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]"
-    - "[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]"
-    - "[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]"
-    - "[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]"
-    - "[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]"
-    - "[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]"
-    - "[[kbpedia.org]]"
+  - '[[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]]'
+  - '[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]'
+  - '[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]'
+  - '[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]'
+  - '[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]'
+  - '[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]'
+  - '[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]'
+  - '[[kbpedia.org]]'
 dv_is_same_as:
-  - "[[kbpedia.org]]"
-  - "[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]"
-  - "[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]"
-  - "[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]"
-  - "[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]"
-  - "[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]"
-  - "[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]"
+- '[[kbpedia.org]]'
+- '[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]'
+- '[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]'
+- '[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]'
+- '[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]'
+- '[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]'
+- '[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]'
 has_id_wikidata: Q52
+dv_has_:
+  name_:
+    aa: Wikipedia
+    ab: Авикипедиа
+    ace: Wikipèdia
+    ady: Википедие
+    af: Wikipedia
+    aig: Wikipeediya
+    am: ውክፔዲያ
+    an: Biquipedia
+    ang: Ƿikipǣdia
+    ann: Wìkìpedia
+    anp: विकिपीडिया
+    ar: ويكيبيديا
+    arc: ܘܝܩܝܦܕܝܐ
+    ary: ويكيبيديا
+    arz: ويكيبيديا
+    as: ৱিকিপিডিয়া
+    ast: Wikipedia
+    atj: Wikipetcia
+    av: Википедия
+    awa: विकिपीडिया
+    ay: Wikipidiya
+    az: Vikipediya
+    azb: ویکیپدیا
+    ba: Википедия
+    ban: Wikipédia
+    ban-bali: ᬯᬶᬓᬶᬧᬾᬤᬶᬬ
+    bar: Wikipedia
+    bbc: Wikipedia
+    bcl: Wikipidya
+    be: Вікіпедыя
+    be-tarask: Вікіпэдыя
+    bew: Wikipédi
+    bg: Уикипедия
+    bho: विकिपीडिया
+    bi: Wikipedia
+    bjn: Wikipidia
+    blk: ဝီခီပီးဒီးယား
+    bm: Wikipedi
+    bn: উইকিপিডিয়া
+    bo: ལྦེ་ཁེ་རིག་མཛོད
+    bpy: উইকিপিডিয়া
+    br: Wikipedia
+    brh: Vikípeđíá
+    bs: Wikipedia
+    bug: Wikipedia
+    bxr: Википеэди
+    ca: Viquipèdia
+    cbk-zam: Wikipedia
+    cdo: Wikipedia
+    ce: Википеди
+    ceb: Wikipedya
+    ch: Wikipedia
+    chr: ᏫᎩᏇᏗᏯ
+    chy: Wikipedia
+    ckb: ویکیپیدیا
+    co: Wikipedia
+    cr: ᐎᑭᐱᑎᔭ
+    crh: Vikipediya
+    crh-latn: Vikipediya
+    cs: Wikipedie
+    csb: Wikipedijô
+    cu: Википєдїꙗ
+    cv: Википеди
+    cy: Wicipedia
+    da: Wikipedia
+    dag: Wikipidia
+    de: Wikipedia
+    de-at: Wikipedia
+    de-ch: Wikipedia
+    diq: Wikipediya
+    dsb: Wikipedija
+    dtp: Wikipedia
+    dty: विकिपिडिया
+    dv: ވިކިޕީޑިޔާ
+    dz: ཝི་ཀི་པི་ཌི་ཡ། Wikipedia
+    ee: Wikipiɖia
+    el: Βικιπαίδεια
+    eml: Vichipedìa
+    en: Wikipedia
+    en-ca: Wikipedia
+    en-gb: Wikipedia
+    en-us: Wikipedia
+    eo: Vikipedio
+    es: Wikipedia
+    et: Vikipeedia
+    eu: Wikipedia
+    ext: Wikipedia
+    fa: ویکیپدیا
+    fat: Wikipedia
+    ff: Wikipeediya
+    fi: Wikipedia
+    fj: Wikipedia
+    fo: Wikipedia
+    fr: Wikipédia
+    frp: Vouiquipèdia
+    frr: Wikipedia
+    fur: Vichipedie
+    fy: Wikipedy
+    ga: an Vicipéid
+    gag: Vikipediya
+    gan: 維基百科
+    gan-hans: 维基百科
+    gan-hant: 維基百科
+    gcr: Wikipédja
+    gd: Uicipeid
+    gl: Wikipedia
+    glk: Vikipөdiya
+    gn: Vikipetã
+    gom: Wikipidia
+    gor: Wikipedia
+    got: "\U00010345\U00010339\U0001033A\U00010339\U00010340\U00010330\U00010339\U00010333\U0001033E\U00010330"
+    gpe: Wikipedia
+    gsw: Wikipedia
+    gu: વિકિપીડિયા
+    guc: Wikiakuaipa
+    guw: Wikipedia
+    gv: Wikipedia
+    ha: Wikipedia
+    hak: Vì-kî Pak-khô
+    haw: Wikipikia
+    he: ויקיפדיה
+    hi: विकिपीडिया
+    hr: Wikipedija
+    hsb: Wikipedija
+    ht: Wikipedya
+    hu: Wikipédia
+    hy: Վիքիպեդիա
+    hyw: Ուիքիփետիա
+    ia: Wikipedia
+    id: Wikipedia
+    ie: Wikipedia
+    ig: Wikipedia
+    igl: Wikipedia
+    ik: Uiqipitia
+    ilo: Wikipedia
+    inh: Википеди
+    io: Wikipedio
+    is: Wikipedia
+    it: Wikipedia
+    iu: ᐅᐃᑭᐱᑎᐊ
+    ja: ウィキペディア
+    jam: Wikipidia
+    jbo: uikipidias
+    jv: Wikipedia
+    ka: ვიკიპედია
+    kaa: Wikipedia
+    kab: Wikipédia
+    kbd: Уикипедиэ
+    kbp: Wikipediya
+    kcg: Wukipedia
+    kg: Wikipedia
+    kge: Wikipidiya
+    ki: Wikipedia
+    kk: Уикипедия
+    kl: Wikipedia
+    km: វិគីភីឌា
+    kn: ವಿಕಿಪೀಡಿಯ
+    ko: 위키백과
+    koi: Википедия
+    krc: Википедия
+    krj: Wikipedya
+    ks: وِکیٖپیٖڈیا
+    ksh: Wikkipedija
+    ku: Wîkîpediya
+    ku-latn: Wîkîpediya
+    kw: Wikipedya
+    ky: Википедия
+    la: Vicipædia
+    lad: Vikipedya
+    lb: Wikipedia
+    lbe: Википедия
+    lez: Википедия
+    lfn: Vicipedia
+    lg: Wikipedia
+    li: Wikipedia
+    lij: Wikipedia
+    liv: Vikipēdij
+    lld: Wikipedia
+    lmo: Wikipedia
+    ln: Wikipedia
+    lo: ວິກິພີເດຍ
+    lrc: ویکی پدیا
+    lt: Vikipedija
+    ltg: Vikipedeja
+    lv: Vikipēdija
+    lzh: 維基大典
+    mad: Wikipèḍia
+    mai: विकिपिडिया
+    map-bms: Wikipedia
+    mdf: Википедие
+    mg: Wikipedia
+    mhr: Википедий
+    mi: Wikipedia
+    min: Wikipedia
+    mk: Википедија
+    ml: വിക്കിപീഡിയ
+    mn: Википедиа
+    mni: ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
+    mnw: ဝဳကဳပဳဒဳယာ
+    mo: Википедия
+    mr: विकिपीडिया
+    mrj: Википеди
+    ms: Wikipedia
+    ms-arab: ويکيڤيديا
+    mt: Wikipedija
+    mul: Wikipedia
+    mwl: Biquipédia
+    my: ဝီကီပီးဒီးယား
+    myv: Википедиясь
+    mzn: ویکیپدیا
+    na: Wikipediya
+    nah: Huiquipedia
+    nan: Wikipedia
+    nap: Wikipedia
+    nb: Wikipedia
+    nds: Wikipedia
+    nds-nl: Wikipedie
+    ne: विकिपीडिया
+    new: विकिपिडिया
+    ng: Wikipedia
+    nl: Wikipedia
+    nn: Wikipedia
+    nod: ᩅᩥᨠᩥᨽᩦᨯᩮ᩠ᨿ
+    nov: Wikipedie
+    nqo: ߥߞߌߔߋߘߌߦߊ
+    nrm: Viqùipédie
+    nso: Wikipedia
+    ny: Wikipedia
+    nys: Noongarpedia
+    oc: Wikipèdia
+    olo: Wikipedii
+    om: Wiikiipiidiyaa
+    or: ଉଇକିପିଡ଼ିଆ
+    os: Википеди
+    pa: ਵਿਕੀਪੀਡੀਆ
+    pag: Wikipedia
+    pam: Wikipedia
+    pap: Wikipedia
+    pcd: Wikipédia
+    pcm: Wikipedia
+    pdc: Wikipedia
+    pfl: Wikipedia
+    pi: विकिपीडिया
+    pih: Wikkapedya
+    pl: Wikipedia
+    pms: Wikipedia
+    pnb: وکیپیڈیا
+    pnt: Βικιπαίδεια
+    prg: Wikipēdija
+    ps: ويکيپېډيا
+    pt: Wikipédia
+    pt-br: Wikipédia
+    pwn: wikipidiya
+    qu: Wikipidiya
+    rki: ဝီကီးပီးဒီးယား
+    rm: Vichipedia
+    rmy: Vikipidiya
+    rn: Wikipedia
+    ro: Wikipedia
+    roa-tara: Uicchipèdie
+    ru: Википедия
+    rue: Вікіпедія
+    rup: Wikipedia
+    rw: Wikipediya
+    ryu: ヰキペディヤ
+    sa: विकिपीडिया
+    sah: Бикипиэдьийэ
+    sat: ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
+    sc: Wikipedia
+    scn: Wikipedia
+    sco: Wikipaedia
+    sd: وڪيپيڊيا
+    se: Wikipedia
+    sg: Wïkïpêdïyäa
+    sgs: Vikipedėjė
+    sh: Wikipedia
+    shi: Wikipidya
+    shn: ဝီႇၶီႇၽီးတီးယႃး
+    si: විකිපීඩියා
+    sk: Wikipédia
+    sl: Wikipedija
+    sli: Wikipeedia
+    sm: Wikipedia
+    smn: Wikipedia
+    sms: Wikipedia
+    sn: Wikipedhiya
+    so: Wikipedia
+    sq: Wikipedia
+    sr: Википедија
+    sr-ec: Википедија
+    srn: Wikipedia
+    ss: Wikipedia
+    st: Wikipedia
+    stq: Wikipedia
+    su: Wikipédia
+    sv: Wikipedia
+    sw: Wikipedia
+    syl: ꠃꠁꠇꠤꠙꠤꠒꠤꠀ
+    szl: Wikipedyjŏ
+    szy: Wikipitiya
+    ta: விக்கிப்பீடியா
+    tay: Wikibitia
+    tcy: ವಿಕಿಪೀಡಿಯ
+    tdd: ᥝᥤᥱ ᥑᥤᥱ ᥚᥤᥱ ᥖᥤᥱ ᥕᥣᥱ
+    te: వికీపీడియా
+    tet: Wikipédia
+    tg: Википедия
+    tg-cyrl: Википедиа
+    th: วิกิพีเดีย
+    ti: ዊኪፐድያ
+    tig: ዊኪፒድያ
+    tk: Wikipediýa
+    tl: Wikipedia
+    tly: Vikipedija
+    tn: Wikipedia
+    tok: lipu Wikipesija
+    tpi: Wikipedia
+    tr: Vikipedi
+    ts: Wikipediya
+    tt: Википедия
+    tt-cyrl: Википедия
+    tt-latn: Wikipedia
+    tum: Wikipediya
+    tw: Wikipedia
+    ty: Vitipetia
+    tyv: Википедия
+    udm: Википедия
+    ug: ۋىكىپېدىيە
+    ug-arab: ۋىكىپېدىيە
+    ug-latn: Wikipédiye
+    uk: Вікіпедія
+    ur: ویکیپیڈیا
+    uz: Vikipediya
+    ve: Wikipedia
+    vec: Wikipedia
+    vep: Vikipedii
+    vi: Wikipedia
+    vls: Wikipedia
+    vo: Vükiped
+    vro: Vikipeediä
+    wa: Wiccipedia
+    war: Wikipedia
+    wo: Wikipedia
+    wuu: 维基百科
+    xal: Бикипеди
+    xh: Wikipedia
+    xmf: ვიკიპედია
+    yi: וויקיפעדיע
+    yo: Wikipédìà
+    yue: 維基百科
+    za: Vigibakgoh
+    zea: Wikipedia
+    zgh: ⵡⵉⴽⵉⴱⵉⴷⵢⴰ
+    zh: 維基百科
+    zh-cn: 维基百科
+    zh-hans: 维基百科
+    zh-hant: 維基百科
+    zh-hk: 維基百科
+    zh-mo: 維基百科
+    zh-my: 维基百科
+    zh-sg: 维基百科
+    zh-tw: 維基百科
+    zu: Wikipedia
 ---
 [KbPedia](https://www.kbpedia.org/knowledge-graph/) seems to be an individual [Michael K. Bergman](mailto:info@mkbergman.com?subject=KBpedia%20Inquiry) merging the Ontologies of [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), [Wikidata](https://en.wikipedia.org/wiki/Wikidata), [schema.org](https://schema.org/), [DBpedia](http://dbpedia.org/), [GeoNames](https://en.wikipedia.org/wiki/GeoNames), [OpenCyc](https://en.wikipedia.org/wiki/Cyc), and the [UNSPSC products and services](https://en.wikipedia.org/wiki/UNSPSC)
 [Thing - Schema.org Type](https://schema.org/Thing)

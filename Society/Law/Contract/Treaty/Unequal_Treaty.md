@@ -1,15 +1,99 @@
 ---
 aliases:
+- Các điều ước bất bình đẳng
+- De ulikeverdige traktater
+- egyenlőtlen szerződés
+- Epätasa-arvoiset sopimukset
+- Eşitsiz anlaşma
+- Itun desberdin
+- neegala traktato
+- neenakopravna pogodba
+- Nepravedni sporazumi
+- nerovné smlouvy
+- Ojämlika fördragen
+- ongelijk verdrag
+- perjanjian berat sebelah
+- perjanjian tidak adil
+- Put-pêng-téng tiâu-iok
+- Tractats desiguals
+- Tractats inegaus
+- traité inégal
+- traktaty nierównoprawne
+- Tratados desiguais
+- tratados desiguales
+- tratat inegal
+- trattati ineguali
+- Tratáu desigual
+- unequal treaties
+- Ungleicher Vertrag
+- Άνισες συνθήκες
+- неправедни споразуми
+- нерівні договори
+- Неравноправен договор
+- неравные договоры
+- няроўныя дагаворы
+- معاهدة غير متكافئة
+- معاهده نابرابر
+- สนธิสัญญาไม่เสมอภาค
+- 不平等条約
+- 不平等条约
+- 不平等條約
+- 불평등 조약
 has_id_wikidata: Q864737
-subclass_of: "[[_Standards/WikiData/WD~treaty,131569]]"
-instance_of: "[[_Standards/WikiData/WD~term,1969448]]"
+subclass_of: '[[_Standards/WikiData/WD~treaty,131569]]'
+instance_of: '[[_Standards/WikiData/WD~term,1969448]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C4%9Btn%C3%AD%20deska%20podpisu%20Pekingsk%C3%A9%20smlouvy%2028.%20%C5%99%C3%ADjna%201860%2C%20%C4%8Ccheng-te.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Nankin.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C4%9Btn%C3%AD%20deska%20podpisu%20Pekingsk%C3%A9%20smlouvy%2028.%20%C5%99%C3%ADjna%201860%2C%20%C4%8Ccheng-te.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Nankin.jpg
 Commons_category: Unequal Treaties
+dv_has_:
+  name_:
+    ar: معاهدة غير متكافئة
+    ast: Tratáu desigual
+    be-tarask: няроўныя дагаворы
+    bg: Неравноправен договор
+    ca: Tractats desiguals
+    cs: nerovné smlouvy
+    de: Ungleicher Vertrag
+    el: Άνισες συνθήκες
+    en: unequal treaties
+    eo: neegala traktato
+    es: tratados desiguales
+    eu: Itun desberdin
+    fa: معاهده نابرابر
+    fi: Epätasa-arvoiset sopimukset
+    fr: traité inégal
+    gl: Tratados desiguais
+    hr: Nepravedni sporazumi
+    hu: egyenlőtlen szerződés
+    id: perjanjian tidak adil
+    it: trattati ineguali
+    ja: 不平等条約
+    ko: 불평등 조약
+    ms: perjanjian berat sebelah
+    nan: Put-pêng-téng tiâu-iok
+    nb: De ulikeverdige traktater
+    nl: ongelijk verdrag
+    oc: Tractats inegaus
+    pl: traktaty nierównoprawne
+    pt: Tratados desiguais
+    ro: tratat inegal
+    ru: неравные договоры
+    sl: neenakopravna pogodba
+    sr: неправедни споразуми
+    sv: Ojämlika fördragen
+    th: สนธิสัญญาไม่เสมอภาค
+    tr: Eşitsiz anlaşma
+    uk: нерівні договори
+    vi: Các điều ước bất bình đẳng
+    yue: 不平等條約
+    zh: 不平等条约
+    zh-cn: 不平等条约
+    zh-hans: 不平等条约
+    zh-hant: 不平等條約
+    zh-hk: 不平等條約
 ---
-
 # [[Unequal_Treaty]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Unequal_treaty,864737|WD~Unequal_treaty,864737]]  

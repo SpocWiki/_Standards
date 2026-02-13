@@ -1,35 +1,80 @@
 ---
 aliases:
-  - Pegasos
-  - Πήγασος
-  - Pegasus
+- Marghkell
+- Pegas
+- Pegasas
+- Pegaso
+- Pegasos
+- Pegasu
+- Pegasus
+- Pegaz
+- Pegazi
+- Pegazo
+- Pegazs
+- Pegàs
+- Peigeasas
+- Peqas
+- Pégase
+- Pégaso
+- Pégaszosz
+- Pêgasos
+- Πήγασος
+- Пегаас
+- Пегаз
+- Пегас
+- Пырақ
+- Пэгас
+- Պեգաս
+- פגסוס
+- بيغاسوس
+- بيڭاسوس
+- پگاسوس
+- پیگاسس
+- पेगासस
+- পেগাসাস
+- পেগেছাছ
+- ਪੈਗਾਸਸ
+- பெகாசஸ்
+- പെഗാസസ്
+- පෙගසස්
+- เพกาซัส
+- ပက်ဂါဆပ်စ်
+- პეგასი
+- ペーガソス
+- 佩加索斯
+- 佩格薩斯
+- 珀伽索斯
+- 貝卡薩斯
+- 飛馬
+- ꯄꯦꯒꯥꯁꯁ
+- 페가소스
 has_id_wikidata: Q162797
 mother: '[[_Standards/WikiData/WD~Medusa,160730]]'
 significant_person: '[[_Standards/WikiData/WD~Bellerophon,189872]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Ethiopian_pegasus,780857]]'
-  - '[[_Standards/WikiData/WD~winged_horse,2537829]]'
-  - '[[_Standards/WikiData/WD~Tulpar,2620807]]'
+- '[[_Standards/WikiData/WD~Ethiopian_pegasus,780857]]'
+- '[[_Standards/WikiData/WD~winged_horse,2537829]]'
+- '[[_Standards/WikiData/WD~Tulpar,2620807]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~winged_horse,2537829]]'
-  - '[[_Standards/WikiData/WD~mythological_horse,24296329]]'
+- '[[_Standards/WikiData/WD~winged_horse,2537829]]'
+- '[[_Standards/WikiData/WD~mythological_horse,24296329]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~pegasus,3411695]]'
-  - '[[_Standards/WikiData/WD~Pegasus,26273768]]'
+- '[[_Standards/WikiData/WD~pegasus,3411695]]'
+- '[[_Standards/WikiData/WD~Pegasus,26273768]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Pegasos_(sculpture),_Corinth,114139008]]'
-  - '[[_Standards/WikiData/WD~Allegory_of_the_wall_decoration,131449661]]'
-  - '[[_Standards/WikiData/WD~Perseus_and_Pegasus,131617908]]'
-  - '[[_Standards/WikiData/WD~Relief_of_Gorgon_running,131753988]]'
+- '[[_Standards/WikiData/WD~Pegasos_(sculpture),_Corinth,114139008]]'
+- '[[_Standards/WikiData/WD~Allegory_of_the_wall_decoration,131449661]]'
+- '[[_Standards/WikiData/WD~Perseus_and_Pegasus,131617908]]'
+- '[[_Standards/WikiData/WD~Relief_of_Gorgon_running,131753988]]'
 color: '[[_Standards/WikiData/WD~white,23444]]'
 worshipped_by: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 part_of: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
@@ -41,8 +86,106 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pegasus%20-%20Johann%20Bayer.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PEGAS.html
 name_in_native_language: Πήγασος
+dv_has_:
+  name_:
+    ar: بيغاسوس
+    ary: بيڭاسوس
+    as: পেগেছাছ
+    ast: Pegasu
+    az: Peqas
+    be: Пегас
+    be-tarask: Пэгас
+    bg: Пегас
+    bn: পেগাসাস
+    br: Pegasos
+    bs: Pegaz
+    ca: Pegàs
+    co: Pegasu
+    cs: Pegas
+    cy: Pegasos
+    da: Pegasus
+    de: Pegasos
+    de-ch: Pegasos
+    el: Πήγασος
+    en: Pegasus
+    en-ca: Pegasus
+    en-gb: Pegasus
+    eo: Pegazo
+    es: Pegaso
+    et: Pegasos
+    eu: Pegaso
+    fa: پگاسوس
+    fi: Pegasos
+    fr: Pégase
+    ga: Peigeasas
+    gl: Pegaso
+    grc: Πήγασος
+    gsw: Pegasos
+    he: פגסוס
+    hi: पेगासस
+    hr: Pegaz
+    hu: Pégaszosz
+    hy: Պեգաս
+    id: Pegasus
+    io: Pegazo
+    is: Pegasos
+    it: Pegaso
+    ja: ペーガソス
+    jv: Pegasus
+    ka: პეგასი
+    kk: Пырақ
+    ko: 페가소스
+    ku: Pêgasos
+    ku-latn: Pêgasos
+    kw: Marghkell
+    la: Pegasus
+    lt: Pegasas
+    lv: Pegazs
+    mk: Пегаз
+    ml: പെഗാസസ്
+    mni: ꯄꯦꯒꯥꯁꯁ
+    ms: Pegasus
+    my: ပက်ဂါဆပ်စ်
+    nb: Pegasus
+    nl: Pegasus
+    nn: Pegasus
+    nrm: Pégase
+    oc: Pegàs
+    pa: ਪੈਗਾਸਸ
+    pl: Pegaz
+    pnb: پیگاسس
+    pt: Pégaso
+    pt-br: Pégaso
+    ro: Pegas
+    ru: Пегас
+    sah: Пегаас
+    sh: Pegaz
+    si: පෙගසස්
+    sk: Pegas
+    sl: Pegaz
+    sq: Pegazi
+    sr: Пегаз
+    sr-ec: Пегаз
+    sr-el: Pegaz
+    sv: Pegasos
+    ta: பெகாசஸ்
+    th: เพกาซัส
+    tr: Pegasus
+    uk: Пегас
+    uz: Pegasus
+    vi: Pegasus
+    vro: Pegasus
+    war: Pegasus
+    wuu: 珀伽索斯
+    yue: 飛馬
+    zh: 珀伽索斯
+    zh-cn: 珀伽索斯
+    zh-hans: 珀伽索斯
+    zh-hant: 佩格薩斯
+    zh-hk: 貝卡薩斯
+    zh-sg: 珀伽索斯
+    zh-tw: 佩加索斯
 ---
-
 # [[Pegasus]] 
 
 #is_/same_as :: [[WD~Pegasus,162797]] 

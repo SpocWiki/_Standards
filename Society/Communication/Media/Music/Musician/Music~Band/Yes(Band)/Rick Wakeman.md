@@ -1,9 +1,65 @@
 ---
 aliases:
-  - Richard Christopher Wakeman
-  - Rick Wakeman
-  - Wakeman
+- Richard Christopher Wakeman
+- Rick Wakeman
+- Wakeman
+- Ρικ Γουέικμαν
+- Рік Вейкман
+- Рик Уэйкман
+- Рык Ўэйкман
+- ריק וייקמן
+- ريك ويكمان
+- ریک ویکمن
+- რიკ უეიკმენი
+- リック・ウェイクマン
+- 瑞奇·威克曼
+- 릭 웨이크먼
 has_id_wikidata: Q312053
+dv_has_:
+  name_:
+    ar: ريك ويكمان
+    arz: ريك ويكمان
+    ast: Rick Wakeman
+    azb: ریک ویکمن
+    be-tarask: Рык Ўэйкман
+    ca: Rick Wakeman
+    cs: Rick Wakeman
+    da: Rick Wakeman
+    de: Rick Wakeman
+    de-ch: Rick Wakeman
+    el: Ρικ Γουέικμαν
+    en: Rick Wakeman
+    en-ca: Rick Wakeman
+    en-gb: Rick Wakeman
+    eo: Rick Wakeman
+    es: Rick Wakeman
+    fa: ریک ویکمن
+    fi: Rick Wakeman
+    fr: Rick Wakeman
+    he: ריק וייקמן
+    hu: Rick Wakeman
+    id: Rick Wakeman
+    io: Rick Wakeman
+    it: Rick Wakeman
+    ja: リック・ウェイクマン
+    ka: რიკ უეიკმენი
+    ko: 릭 웨이크먼
+    mul: Rick Wakeman
+    nb: Rick Wakeman
+    nl: Rick Wakeman
+    nn: Rick Wakeman
+    pl: Rick Wakeman
+    pt: Rick Wakeman
+    pt-br: Rick Wakeman
+    ro: Rick Wakeman
+    ru: Рик Уэйкман
+    sh: Rick Wakeman
+    sk: Rick Wakeman
+    sl: Rick Wakeman
+    sq: Rick Wakeman
+    sv: Rick Wakeman
+    uk: Рік Вейкман
+    zh: 瑞奇·威克曼
 ---
 # [[Rick Wakeman]] 
 

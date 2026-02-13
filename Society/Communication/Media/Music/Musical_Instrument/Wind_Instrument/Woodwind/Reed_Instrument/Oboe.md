@@ -1,34 +1,174 @@
 ---
 aliases:
+- clarin
+- goboy
+- hautbois
+- heutboés
+- hobo
+- hoboj
+- hobojo
+- hoboyo
+- obo
+- oboa
+- oboe
+- oboell
+- oboi
+- oboja
+- obojus
+- oboè
+- oboé
+- obua
+- obój
+- otibuwaa
+- qoboy
+- tibia lignea acuta
+- uwuy pinkuyllu
+- óboe
+- óbó
+- ô-boa
+- όμποε
+- габой
+- гобой
+- обоа
+- обой
+- հոբոյ
+- אבוב
+- أوبوا
+- ئۆبۆ
+- ابوا
+- اوبوا
+- ஓபோ
+- ഓബോ
+- โอโบ
+- အိုဘိုး
+- ჰობოი
+- オーボエ
+- 双簧管
+- 雙簧管
+- 오보에
 has_id_wikidata: Q8377
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-used_by: "[[_Standards/WikiData/WD~oboist,16003954]]"
-subclass_of: "[[_Standards/WikiData/WD~oboe_family_instrument,42889517]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~key,42935438]]"
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-has_list: "[[_Standards/WikiData/WD~list_of_compositions_for_oboe,105732035]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10847"
-OmegaWiki_Defined_Meaning: "401782"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+used_by: '[[_Standards/WikiData/WD~oboist,16003954]]'
+subclass_of: '[[_Standards/WikiData/WD~oboe_family_instrument,42889517]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~key,42935438]]'
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
+has_list: '[[_Standards/WikiData/WD~list_of_compositions_for_oboe,105732035]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10847
+OmegaWiki_Defined_Meaning: 401782
 Commons_gallery: Oboe
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ferling%20Oboe%20Study%20No%2028%20Aaron%20Hill.ogg
 Commons_category: Oboes
 Hornbostel_Sachs_classification: 422.112-71
-Amazon_com_browse_node: "11972081"
+Amazon_com_browse_node: 11972081
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B6nnig%2C%20Oboe%20Modell%20155%20Albrecht%20Mayer.jpg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20oboe.png
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03838899-n
-  - http://wordnet-rdf.princeton.edu/wn31/103792367-n
+- http://wordnet-rdf.princeton.edu/wn30/03838899-n
+- http://wordnet-rdf.princeton.edu/wn31/103792367-n
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/GOBO.html
+dv_has_:
+  name_:
+    af: hobo
+    ar: أوبوا
+    arz: اوبوا
+    ast: oboe
+    az: qoboy
+    be: габой
+    be-tarask: габой
+    bg: обой
+    br: oboell
+    bs: oboa
+    ca: oboè
+    ckb: ئۆبۆ
+    cs: hoboj
+    cy: obo
+    da: obo
+    de: Oboe
+    el: όμποε
+    en: oboe
+    eo: hobojo
+    es: oboe
+    et: oboe
+    eu: oboe
+    ext: oboe
+    fa: ابوا
+    fi: oboe
+    fr: hautbois
+    fy: hobo
+    ga: óbó
+    gd: obo
+    gl: óboe
+    gsw: Oboe
+    gv: obo
+    haw: oboe
+    he: אבוב
+    hr: oboa
+    hu: oboa
+    hy: հոբոյ
+    ia: oboe
+    id: obo
+    io: hoboyo
+    is: óbó
+    it: oboe
+    ja: オーボエ
+    ka: ჰობოი
+    kbp: otibuwaa
+    kk: гобой
+    ko: 오보에
+    ky: гобой
+    la: tibia lignea acuta
+    lb: Hautbois
+    lij: oboe
+    lt: obojus
+    lv: oboja
+    mk: обоа
+    ml: ഓബോ
+    ms: obo
+    my: အိုဘိုး
+    nb: obo
+    nl: hobo
+    nn: obo
+    oc: clarin
+    pcd: heutboés
+    pl: obój
+    pt: oboé
+    qu: uwuy pinkuyllu
+    ro: oboi
+    ru: гобой
+    sco: oboe
+    se: oboe
+    sh: oboa
+    sk: hoboj
+    sl: oboa
+    smn: oboe
+    sms: oboe
+    sq: oboa
+    sr: обоа
+    sr-ec: обоа
+    sr-el: oboa
+    stq: Oboe
+    sv: oboe
+    ta: ஓபோ
+    tg: гобой
+    th: โอโบ
+    tr: obua
+    uk: гобой
+    uz: goboy
+    vi: ô-boa
+    wuu: 双簧管
+    yue: 雙簧管
+    zh: 雙簧管
+    zh-hant: 雙簧管
+    zh-hk: 雙簧管
+    zh-tw: 雙簧管
 ---
-
 # [[Oboe]] 
 
 #is_/same_as :: [[WD~Oboe,8377]] 

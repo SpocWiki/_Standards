@@ -1,27 +1,176 @@
 ---
 aliases:
+- bűvészet
+- draíocht
+- Eskamot-arto
+- goochelen
+- Hoqqabazlıq
+- idán
+- illusionisme
+- illusionismo
+- Illyuzionizm
+- ilusionismo
+- Ilusionismu
+- iluziismo
+- iluzionism
+- iluzionisms
+- iluzionismus
+- Iluzionizam
+- il·lusionisme
+- Kulkuns
+- magic
+- magija
+- magjia
+- Mustkunst
+- Prestidoetisse
+- Salamangka
+- sihirbazlık
+- Silap mata
+- stage magic
+- sulap
+- Sunglap
+- sztuka iluzji
+- taikatemppu
+- trolleri
+- Trylleri
+- trylling
+- töfrabrögð
+- Zauberkonscht
+- Zauberkunst
+- čarodejstvo
+- μαγεία
+- ілюзіонізм
+- ілюзіянізм
+- Бозбуунчалла
+- иллюзионизм
+- илузионизам
+- Илюзионно изкуство
+- Магија
+- Իլյուզիոնիզմ
+- קסם (אשליה)
+- تردستی
+- فن الوهم
+- जादू
+- জাদু
+- যাদু বিদ্যা
+- જાદુ (ભ્રમ)
+- மாய வித்தை
+- ఇంద్రజాలం
+- ಇಂದ್ರಜಾಲ
+- ജാലവിദ്യ
+- ඉන්ද්රජාල
+- มายากล
+- မျက်လှည့်
+- မျက်လှည့်ပညာ
+- ảo thuật
+- 奇術
+- 幻術
+- 魔术
+- 魔術
+- 마술
+- 요술
 has_id_wikidata: Q148442
 different_from:
-  - "[[_Standards/WikiData/WD~magic,81741]]"
-  - "[[_Standards/WikiData/WD~Magic,224102]]"
+- '[[_Standards/WikiData/WD~magic,81741]]'
+- '[[_Standards/WikiData/WD~Magic,224102]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~performing_arts,184485]]"
-  - "[[_Standards/WikiData/WD~circus_skill,4990963]]"
-instance_of: "[[_Standards/WikiData/WD~genre,483394]]"
+- '[[_Standards/WikiData/WD~performing_arts,184485]]'
+- '[[_Standards/WikiData/WD~circus_skill,4990963]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-practiced_by: "[[_Standards/WikiData/WD~magician,15855449]]"
-has_characteristic: "[[_Standards/WikiData/WD~magic_collecting,110581477]]"
-IAB_code: "241"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+practiced_by: '[[_Standards/WikiData/WD~magician,15855449]]'
+has_characteristic: '[[_Standards/WikiData/WD~magic_collecting,110581477]]'
+IAB_code: 241
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Czech-2013-Prague-Street%20performers%20%28crop%29.jpg
 Commons_category: Magic (illusion)
 Colon_Classification: MY4
 Baidu_Tieba_name: 魔术
+dv_has_:
+  name_:
+    af: Kulkuns
+    ar: فن الوهم
+    as: যাদু বিদ্যা
+    ast: Ilusionismu
+    az: Hoqqabazlıq
+    be-tarask: ілюзіянізм
+    bg: Илюзионно изкуство
+    bjn: Sunglap
+    bn: জাদু
+    ca: il·lusionisme
+    ce: Бозбуунчалла
+    cs: iluzionismus
+    da: Trylleri
+    de: Zauberkunst
+    el: μαγεία
+    en: stage magic
+    en-gb: magic
+    eo: iluziismo
+    es: ilusionismo
+    et: Mustkunst
+    eu: Ilusionismo
+    fa: تردستی
+    fi: taikatemppu
+    fr: illusionisme
+    ga: draíocht
+    gl: Ilusionismo
+    gu: જાદુ (ભ્રમ)
+    he: קסם (אשליה)
+    hi: जादू
+    hr: Iluzionizam
+    hu: bűvészet
+    hy: Իլյուզիոնիզմ
+    id: sulap
+    io: Eskamot-arto
+    is: töfrabrögð
+    it: illusionismo
+    ja: 奇術
+    kk: Иллюзионизм
+    kn: ಇಂದ್ರಜಾಲ
+    ko: 마술
+    ko-kp: 요술
+    lb: Zauberkonscht
+    lt: magija
+    lv: iluzionisms
+    lzh: 幻術
+    mk: Магија
+    ml: ജാലവിദ്യ
+    ms: Silap mata
+    my: မျက်လှည့်
+    nb: trylling
+    nl: goochelen
+    pl: sztuka iluzji
+    pt: ilusionismo
+    rki: မျက်လှည့်ပညာ
+    ro: iluzionism
+    ru: иллюзионизм
+    sh: Iluzionizam
+    si: ඉන්ද්රජාල
+    sl: čarodejstvo
+    sq: magjia
+    sr: илузионизам
+    sr-ec: илузионизам
+    sr-el: iluzionizam
+    su: Sulap
+    sv: trolleri
+    ta: மாய வித்தை
+    te: ఇంద్రజాలం
+    th: มายากล
+    tl: Salamangka
+    tr: sihirbazlık
+    uk: ілюзіонізм
+    ur: stage magic
+    uz: Illyuzionizm
+    vi: ảo thuật
+    wa: Prestidoetisse
+    wuu: 魔术
+    yo: idán
+    yue: 魔術
+    zh: 魔術
 ---
-
 # [[Magic(Illusion)]] 
 
 #is_/same_as :: [[WD~Magic,148442]]  

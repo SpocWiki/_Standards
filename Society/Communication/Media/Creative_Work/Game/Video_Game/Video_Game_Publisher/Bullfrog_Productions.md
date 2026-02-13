@@ -1,27 +1,64 @@
 ---
-has_time_started: 1987-01-01 
-has_time_stopped: 2001-01-01 
+has_time_started: 1987-01-01
+has_time_stopped: 2001-01-01
 aliases:
+- Bullfrog Productions
+- Bullfrog Productions LTD
+- بولفراگ
+- بولفروغ للإنتاج
+- ブルフロッグ
+- 牛蛙制作
+- 불프로그 프로덕션스
 has_id_wikidata: Q611487
-director_manager: "[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]"
+director_manager: '[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]'
 founded_by:
-  - "[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]"
-  - "[[_Standards/WikiData/WD~Les_Edgar,33978196]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Electronic_Arts,173941]]"
-instance_of: "[[_Standards/WikiData/WD~video_game_developer,210167]]"
-headquarters_location: "[[_Standards/WikiData/WD~Guildford,213465]]"
-legal_form: "[[_Standards/WikiData/WD~subsidiary_company,658255]]"
-industry: "[[_Standards/WikiData/WD~video_game_industry,941594]]"
+- '[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]'
+- '[[_Standards/WikiData/WD~Les_Edgar,33978196]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Electronic_Arts,173941]]'
+instance_of: '[[_Standards/WikiData/WD~video_game_developer,210167]]'
+headquarters_location: '[[_Standards/WikiData/WD~Guildford,213465]]'
+legal_form: '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~EA_Bright_Light,4037769]]"
-  - "[[_Standards/WikiData/WD~Lost_Toys,42851573]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Bullfrog_Productions,6732904]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~software,7397]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~EA_Bright_Light,4037769]]'
+- '[[_Standards/WikiData/WD~Lost_Toys,42851573]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Bullfrog_Productions,6732904]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~software,7397]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 inception: 1987-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 2001-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: بولفروغ للإنتاج
+    ast: Bullfrog Productions
+    be: Bullfrog Productions
+    ca: Bullfrog Productions
+    cs: Bullfrog Productions
+    de: Bullfrog Productions
+    en: Bullfrog Productions
+    es: Bullfrog Productions
+    fa: بولفراگ
+    fi: Bullfrog Productions
+    fr: Bullfrog Productions
+    he: Bullfrog Productions
+    hu: Bullfrog Productions
+    it: Bullfrog Productions
+    ja: ブルフロッグ
+    ko: 불프로그 프로덕션스
+    lt: Bullfrog Productions
+    nb: Bullfrog Productions
+    nl: Bullfrog Productions
+    pl: Bullfrog Productions
+    pt: Bullfrog Productions
+    ru: Bullfrog Productions
+    sco: Bullfrog Productions
+    sl: Bullfrog Productions
+    sv: Bullfrog Productions LTD
+    tr: Bullfrog Productions
+    uk: Bullfrog Productions
+    wuu: 牛蛙制作
+    zh: 牛蛙制作
 ---
-
 # [[Bullfrog_Productions]] 
 
 #is_/same_as :: [[WD~Bullfrog_Productions,611487]]

@@ -1,21 +1,116 @@
 ---
-has_time_started: 1955-01-01 
+has_time_started: 1955-01-01
 aliases:
+- Champions League
+- Coppa di Campion
+- Cynghrair y Pencampwyr UEFA
+- Foedus Summorum Athletarum UEFA
+- I-UEFA Champions League
+- Kevre Kampioned an UEFA
+- Kupaya Şampiyoniya Ligê UEFA
+- Liga Campionilor UEFA
+- Liga Champions UEFA
+- Liga de Campeones de la UEFA
+- Liga de Campions d'a UEFA
+- Liga de Campións da UEFA
+- Liga dels Campions de l'UEFA
+- Liga des Champions de l'UEFA
+- Liga dos Campeões da UEFA
+- Liga Juara-Juara UEFA
+- Liga majstrov UEFA
+- Liga Mistrzów UEFA
+- Liga mistrů UEFA
+- Liga prvakov UEFA
+- Ligi la Mabingwa Ulaya
+- Ligo de Ĉampionoj de UEFA
+- Ligue des champions de l'UEFA
+- Lliga de Campeones de la UEFA
+- Lliga de Campions de la UEFA
+- Meistaradeild Evrópu
+- Mestarien liiga
+- Mesterligaen i fotball for menn
+- Sraith UEFA na Seaimpíní
+- Uefa Champions League
+- UEFA Chempionlar Ligasi
+- UEFA Chempionlar Ligası
+- UEFA Liga e Kampionëve
+- UEFA Liga prvaka
+- UEFA Liga šampiona
+- UEFA Meistrite Liiga
+- UEFA Çempionlar Liqası
+- UEFA Çempiÿonlar Ligasy
+- UEFA Čempionu līga
+- UEFA Čempionų lyga
+- UEFA Şampiyonlar Ligi
+- UEFA 챔피언스리그
+- UEFA-bajnokok ligája
+- UEFA-Ligo di Championi
+- UEFAko Txapeldunen Liga
+- UEFAチャンピオンズリーグ
+- ΟΥΕΦΑ Τσάμπιονς Λιγκ
+- Ліга чемпіонів УЄФА
+- Ліга чэмпіёнаў УЕФА
+- Ліга чэмпіёнаў УЭФА
+- Лига чемпионов УЕФА
+- Лигаи Чемпионҳои УЕФА
+- Лигатне чемпионтне УЕФА
+- Майстровска Ліґа УЕФА
+- УЕФА Аваргуудын Лиг
+- УЕФА Лига на шампиони
+- УЕФА Лига шампиона
+- УЕФА Чемпион Лиге
+- УЕФА Чемпионан лига
+- УЕФА Чемпиондар Лигасы
+- УЕФА чемпиондор лигасы
+- УЕФА Чемпионнар лигасы
+- Шампионска лига на УЕФА
+- ՈՒԵՖԱ Չեմպիոնների Լիգա
+- ליגת האלופות
+- اروپا چمپیوز لیگ
+- اوروپا قهرمانلار لیگی
+- اۊرۊپا قهرماني ليگ
+- تشامبيونز ليج
+- خولی پاڵەوانەکانی ئەورووپا
+- دوري أبطال أوروبا
+- دوري أبطال ؤروپا
+- دوري ابطال اوربا
+- لیگ قهرمانان اروپا
+- ياۋروپا چىمپيونلۇق لوڭقىسى
+- یوئیفا چیمپئنز لیگ
+- یوفا چمپیونز لیګ
+- च्याम्पियन्स लिग
+- युएफा चँपियन्स लीग
+- यूईएफए चैंपियंस लीग
+- উয়েফা চ্যাম্পিয়নস লিগ
+- উৱেফা চেম্পিয়ন্ছ লীগ
+- ਯੂ.ਈ.ਐਫ.ਏ. ਚੈਂਪੀਅਨਜ਼ ਲੀਗ
+- யூஈஎஃப்ஏ வாகையர் கூட்டிணைவு
+- ಯುಇಎಫ್ಎ ಚಾಂಪಿಯನ್ಸ್ ಲೀಗ್
+- യുവേഫ ചാമ്പ്യൻസ് ലീഗ്
+- ยูฟ่าแชมเปียนส์ลีก
+- ຍູຟາແຊມປ້ຽນລີກ
+- ယူအေးဖာ ချန်ပီယံလိဂ်
+- უეფა-ს ჩემპიონთა ლიგა
+- უეფა-შ ჩემპიონეფიშ ლიგა
+- 欧洲冠军联赛
+- 欧洲杯足球赛
+- 歐洲冠軍聯賽
+- 歐洲聯賽冠軍盃
 has_id_wikidata: Q18756
 instance_of:
-  - "[[_Standards/WikiData/WD~sports_league,623109]]"
-  - "[[_Standards/WikiData/WD~international_association_football_clubs_cup,34542757]]"
-anthem: "[[_Standards/WikiData/WD~UEFA_Champions_League_Anthem,1453101]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_UEFA_Champions_League,5832234]]"
+- '[[_Standards/WikiData/WD~sports_league,623109]]'
+- '[[_Standards/WikiData/WD~international_association_football_clubs_cup,34542757]]'
+anthem: '[[_Standards/WikiData/WD~UEFA_Champions_League_Anthem,1453101]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_UEFA_Champions_League,5832234]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-significant_event: "[[_Standards/WikiData/WD~current_season,123591599]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
-month_of_the_year: "[[_Standards/WikiData/WD~June,120]]"
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+significant_event: '[[_Standards/WikiData/WD~current_season,123591599]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
+month_of_the_year: '[[_Standards/WikiData/WD~June,120]]'
 event_interval: 1
 number_of_participants: 55
-organizer: "[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]"
+organizer: '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]'
 official_website: https://www.uefa.com/uefachampionsleague
 inception: 1955-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20Champions%20League%20logo%20no%20text.svg
@@ -25,17 +120,149 @@ TikTok_username: championsleague
 VK_username: championsleague
 Instagram_username: championsleague
 X_Twitter_username:
-  - ChampionsLeague
-  - LigadeCampeones
-  - UCLJapan
+- ChampionsLeague
+- LigadeCampeones
+- UCLJapan
 Commons_category: UEFA Champions League
 Giphy_username: uefachampionsleague
 Facebook_username: uefachampionsleague
 Baidu_Tieba_name: 欧洲冠军杯
 native_label: UEFA Champions League
 social_media_followers: 46971499
+dv_has_:
+  name_:
+    acm: دوري ابطال اوربا
+    af: UEFA Champions League
+    an: Liga de Campions d'a UEFA
+    ar: دوري أبطال أوروبا
+    ary: دوري أبطال ؤروپا
+    arz: تشامبيونز ليج
+    as: উৱেফা চেম্পিয়ন্ছ লীগ
+    ast: Lliga de Campeones de la UEFA
+    az: UEFA Çempionlar Liqası
+    azb: اوروپا قهرمانلار لیگی
+    ban: Liga Champions UEFA
+    bar: UEFA Champions League
+    be: Ліга чэмпіёнаў УЕФА
+    be-tarask: Ліга чэмпіёнаў УЭФА
+    bg: Шампионска лига на УЕФА
+    bn: উয়েফা চ্যাম্পিয়নস লিগ
+    br: Kevre Kampioned an UEFA
+    bs: UEFA Liga prvaka
+    ca: Lliga de Campions de la UEFA
+    ce: УЕФА Чемпионан лига
+    ceb: UEFA Champions League
+    ckb: خولی پاڵەوانەکانی ئەورووپا
+    cs: Liga mistrů UEFA
+    cy: Cynghrair y Pencampwyr UEFA
+    da: UEFA Champions League
+    de: Champions League
+    de-ch: UEFA Champions League
+    diq: Kupaya Şampiyoniya Ligê UEFA
+    el: ΟΥΕΦΑ Τσάμπιονς Λιγκ
+    en: UEFA Champions League
+    en-ca: UEFA Champions League
+    en-gb: UEFA Champions League
+    en-us: UEFA Champions League
+    eo: Ligo de Ĉampionoj de UEFA
+    es: Liga de Campeones de la UEFA
+    et: UEFA Meistrite Liiga
+    eu: UEFAko Txapeldunen Liga
+    fa: لیگ قهرمانان اروپا
+    fi: Mestarien liiga
+    fo: UEFA Champions League
+    fr: Ligue des champions de l'UEFA
+    frp: Liga des Champions de l'UEFA
+    fur: UEFA Champions League
+    ga: Sraith UEFA na Seaimpíní
+    gl: Liga de Campións da UEFA
+    glk: اۊرۊپا قهرماني ليگ
+    gn: UEFA Champions League
+    gsw: UEFA Champions League
+    ha: UEFA Champions League
+    he: ליגת האלופות
+    hi: यूईएफए चैंपियंस लीग
+    hr: UEFA Liga prvaka
+    hu: UEFA-bajnokok ligája
+    hy: ՈՒԵՖԱ Չեմպիոնների Լիգա
+    id: Liga Champions UEFA
+    io: UEFA-Ligo di Championi
+    is: Meistaradeild Evrópu
+    it: UEFA Champions League
+    ja: UEFAチャンピオンズリーグ
+    ka: უეფა-ს ჩემპიონთა ლიგა
+    kaa: UEFA Chempionlar Ligası
+    kk: УЕФА Чемпиондар Лигасы
+    kn: ಯುಇಎಫ್ಎ ಚಾಂಪಿಯನ್ಸ್ ಲೀಗ್
+    knc: UEFA Champions league
+    ko: UEFA 챔피언스리그
+    ky: УЕФА чемпиондор лигасы
+    la: Foedus Summorum Athletarum UEFA
+    lb: UEFA Champions League
+    lmo: Coppa di Campion
+    lo: ຍູຟາແຊມປ້ຽນລີກ
+    lt: UEFA Čempionų lyga
+    lv: UEFA Čempionu līga
+    mdf: Лигатне чемпионтне УЕФА
+    mhr: УЕФА Чемпион Лиге
+    mk: УЕФА Лига на шампиони
+    ml: യുവേഫ ചാമ്പ്യൻസ് ലീഗ്
+    mn: УЕФА Аваргуудын Лиг
+    mr: युएफा चँपियन्स लीग
+    ms: Liga Juara-Juara UEFA
+    mt: UEFA Champions League
+    my: ယူအေးဖာ ချန်ပီယံလိဂ်
+    mzn: اروپا چمپیوز لیگ
+    nap: UEFA Champions League
+    nb: Mesterligaen i fotball for menn
+    nds-nl: UEFA Champions League
+    ne: च्याम्पियन्स लिग
+    nl: UEFA Champions League
+    nn: Champions League
+    oc: Liga dels Campions de l'UEFA
+    pa: ਯੂ.ਈ.ਐਫ.ਏ. ਚੈਂਪੀਅਨਜ਼ ਲੀਗ
+    pl: Liga Mistrzów UEFA
+    ps: یوفا چمپیونز لیګ
+    pt: Liga dos Campeões da UEFA
+    pt-br: Liga dos Campeões da UEFA
+    ro: Liga Campionilor UEFA
+    ru: Лига чемпионов УЕФА
+    rue: Майстровска Ліґа УЕФА
+    scn: UEFA Champions League
+    sco: UEFA Champions League
+    sh: UEFA Liga prvaka
+    sk: Liga majstrov UEFA
+    sl: Liga prvakov UEFA
+    sq: UEFA Liga e Kampionëve
+    sr: УЕФА Лига шампиона
+    sr-ec: УЕФА Лига шампиона
+    sr-el: UEFA Liga šampiona
+    sv: Uefa Champions League
+    sw: Ligi la Mabingwa Ulaya
+    szl: UEFA Champions League
+    ta: யூஈஎஃப்ஏ வாகையர் கூட்டிணைவு
+    tg: Лигаи Чемпионҳои УЕФА
+    th: ยูฟ่าแชมเปียนส์ลีก
+    tk: UEFA Çempiÿonlar Ligasy
+    tr: UEFA Şampiyonlar Ligi
+    tt: УЕФА Чемпионнар лигасы
+    ug: ياۋروپا چىمپيونلۇق لوڭقىسى
+    uk: Ліга чемпіонів УЄФА
+    ur: یوئیفا چیمپئنز لیگ
+    uz: UEFA Chempionlar Ligasi
+    uz-cyrl: UEFA Chempionlar Ligasi
+    vec: UEFA Champions League
+    vi: UEFA Champions League
+    wuu: 欧洲杯足球赛
+    xh: I-UEFA Champions League
+    xmf: უეფა-შ ჩემპიონეფიშ ლიგა
+    yue: 歐洲聯賽冠軍盃
+    zh: 歐洲冠軍聯賽
+    zh-cn: 欧洲冠军联赛
+    zh-hans: 欧洲冠军联赛
+    zh-hant: 歐洲冠軍聯賽
+    zh-tw: 歐洲冠軍聯賽
 ---
-
 # [[UEFA_Champions_League]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~UEFA_Champions_League,18756|WD~UEFA_Champions_League,18756]]  

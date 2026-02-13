@@ -1,9 +1,65 @@
 ---
 aliases:
-  - Valentin Ludwig Fey
-  - Karl Valentin
-  - Valentin,Karl
+- Karl Valentin
+- Valentin Ludwig Fey
+- Valentin,Karl
+- Καρλ Βαλεντίν
+- Карл Валентин
+- Կարլ Վալենտին
+- קרל פלנטין
+- كارل فالنتين
+- كارل فالنتين (مؤلف)
+- کارل فالنتین
+- カール・ヴァレンティン
+- 卡爾‧瓦倫丁
+- 카를 발렌틴
 has_id_wikidata: Q45255
+dv_has_:
+  name_:
+    af: Karl Valentin
+    an: Karl Valentin
+    ar: كارل فالنتين
+    arz: كارل فالنتين (مؤلف)
+    ast: Karl Valentin
+    bar: Karl Valentin
+    ca: Karl Valentin
+    cs: Karl Valentin
+    da: Karl Valentin
+    de: Karl Valentin
+    dsb: Karl Valentin
+    el: Καρλ Βαλεντίν
+    en: Karl Valentin
+    eo: Karl Valentin
+    es: Karl Valentin
+    fa: کارل فالنتین
+    fi: Karl Valentin
+    fr: Karl Valentin
+    frr: Karl Valentin
+    ga: Karl Valentin
+    he: קרל פלנטין
+    hu: Karl Valentin
+    hy: Կարլ Վալենտին
+    id: Karl Valentin
+    it: Karl Valentin
+    ja: カール・ヴァレンティン
+    ko: 카를 발렌틴
+    mul: Karl Valentin
+    nb: Karl Valentin
+    nds: Karl Valentin
+    nl: Karl Valentin
+    nn: Karl Valentin
+    oc: Karl Valentin
+    pl: Karl Valentin
+    pt: Karl Valentin
+    pt-br: Karl Valentin
+    ru: Карл Валентин
+    sl: Karl Valentin
+    sq: Karl Valentin
+    sv: Karl Valentin
+    tr: Karl Valentin
+    vi: Karl Valentin
+    zh: 卡爾‧瓦倫丁
+    zh-hant: 卡爾‧瓦倫丁
 ---
 #has_/created_/quote :: Jedes Problem hat drei Seiten: eine positive, eine negative und eine komische. 
 

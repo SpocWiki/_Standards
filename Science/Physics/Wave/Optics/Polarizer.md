@@ -1,14 +1,82 @@
 ---
 aliases:
+- Filtro polarizador
+- Kính lọc phân cực
+- Penero polarizador
+- Polarisaator
+- polarisatiefilter
+- Polarisator
+- polariseur
+- polaritzador
+- Polarizator
+- polarizatzaile
+- polarizer
+- polarizilo
+- polarizor
+- Polarizzatore
+- Polarizátor
+- Polarizör
+- polaryzator
+- Polfilter
+- scagaire polaraithe
+- палярызатар
+- Поляризатор
+- מקטב
+- قطبنده
+- مرشح استقطابي
+- โพลาไรเซอร์
+- 偏光板
+- 偏光鏡
+- 偏振片
+- 편광자
 has_id_wikidata: Q11942175
-has_use: "[[_Standards/WikiData/WD~polarization,193760]]"
+has_use: '[[_Standards/WikiData/WD~polarization,193760]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~polarization,193760]]"
-  - "[[_Standards/WikiData/WD~optical_filter,1134091]]"
+- '[[_Standards/WikiData/WD~polarization,193760]]'
+- '[[_Standards/WikiData/WD~optical_filter,1134091]]'
 IEV_number: 845-24-014
 Commons_category: Polarization (waves)
+dv_has_:
+  name_:
+    ar: مرشح استقطابي
+    ast: Penero polarizador
+    be-tarask: палярызатар
+    bg: Поляризатор
+    ca: polaritzador
+    cs: Polarizátor
+    da: Polfilter
+    de: Polarisator
+    en: polarizer
+    eo: polarizilo
+    es: Filtro polarizador
+    et: Polarisaator
+    eu: polarizatzaile
+    fa: قطبنده
+    fr: polariseur
+    ga: scagaire polaraithe
+    he: מקטב
+    hr: Polarizator
+    it: Polarizzatore
+    ja: 偏光板
+    kk: Поляризатор
+    ko: 편광자
+    nb: Polarisator
+    nl: polarisatiefilter
+    pl: polaryzator
+    pt: Filtro polarizador
+    pt-br: Filtro polarizador
+    ro: polarizor
+    ru: Поляризатор
+    sk: Polarizátor
+    sl: Polarizator
+    sr: Polarizator
+    th: โพลาไรเซอร์
+    tr: Polarizör
+    uk: Поляризатор
+    vi: Kính lọc phân cực
+    yue: 偏光鏡
+    zh: 偏振片
 ---
-
 # [[Polarizer]] 
 
 #is_/same_as :: [[WD~Polarizer,11942175]] 

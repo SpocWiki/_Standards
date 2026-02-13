@@ -1,16 +1,74 @@
 ---
 aliases:
-  - Appeal to emotion
-  - argumentum ad passiones
+- Apelar a las emociones
+- Apeliavimas į jausmus
+- apelo à emoção
+- apelul la emoție
+- Apel·lació a l'emoció
+- Appeal to emotion
+- appel à l'émotion
+- Argumentasi emosional
+- argumentum ad passiones
+- beroep op emotie
+- Emotionsappell
+- Emozioei deia
+- Imbau emosi
+- Ngụy biện lợi dụng cảm xúc
+- vädjan till känslor
+- Апел на емоције
+- зварот да эмоцыяў
+- Звернення до емоцій
+- פנייה אל הרגש
+- احساساتو ته رجوع
+- توسل بالعاطفة
+- توسل به احساس
+- আবেগপ্রবণতার কুযুক্তি
+- 感情への訴えかけ
+- 訴諸情感
+- 诉诸情感
+- 감정에 호소하는 논증
 has_id_wikidata: Q2914471
 subclass_of:
-  - "[[_Standards/WikiData/WD~fallacy,186150]]"
-  - "[[_Standards/WikiData/WD~red_herring,572959]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Appeals_to_emotion,6969956]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+- '[[_Standards/WikiData/WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~red_herring,572959]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Appeals_to_emotion,6969956]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+dv_has_:
+  name_:
+    ar: توسل بالعاطفة
+    be-tarask: зварот да эмоцыяў
+    bn: আবেগপ্রবণতার কুযুক্তি
+    ca: Apel·lació a l'emoció
+    de: Emotionsappell
+    en: appeal to emotion
+    es: Apelar a las emociones
+    eu: Emozioei deia
+    fa: توسل به احساس
+    fr: appel à l'émotion
+    he: פנייה אל הרגש
+    hr: Argumentum ad passiones
+    id: Argumentasi emosional
+    ja: 感情への訴えかけ
+    ko: 감정에 호소하는 논증
+    lt: Apeliavimas į jausmus
+    ms: Imbau emosi
+    nl: beroep op emotie
+    pfl: Argumentum ad passiones
+    ps: احساساتو ته رجوع
+    pt: apelo à emoção
+    ro: apelul la emoție
+    sh: Argumentum ad passiones
+    sl: argumentum ad passiones
+    sr: Апел на емоције
+    sv: vädjan till känslor
+    uk: Звернення до емоцій
+    vi: Ngụy biện lợi dụng cảm xúc
+    zh: 訴諸情感
+    zh-hans: 诉诸情感
+    zh-hant: 訴諸情感
+    zh-hk: 訴諸情感
 ---
-
 # [[Appeal_to_Emotion]] 
 
 #is_/same_as :: [[WD~Appeal_to_Emotion,2914471]]  

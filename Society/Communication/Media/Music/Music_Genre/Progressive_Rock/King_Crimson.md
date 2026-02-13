@@ -1,8 +1,83 @@
 ---
 aliases:
-  - King Crimson
-  - King_Crimson
+- King Crimson
+- King crimson (Gruppu musicali)
+- King_Crimson
+- Кинг Кримсън
+- קינג קרימזון
+- كينغ كريمسون
+- کینق کریمسون
+- کینگ کریمسون
+- คิง คริมสัน
+- キング・クリムゾン
+- 深紅之王
+- 킹 크림슨
 has_id_wikidata: Q189382
+dv_has_:
+  name_:
+    ar: كينغ كريمسون
+    ast: King Crimson
+    az: King Crimson
+    azb: کینق کریمسون
+    be-tarask: King Crimson
+    bg: Кинг Кримсън
+    bs: King Crimson
+    ca: King Crimson
+    cs: King Crimson
+    da: King Crimson
+    de: King Crimson
+    el: King Crimson
+    en: King Crimson
+    eo: King Crimson
+    es: King Crimson
+    et: King Crimson
+    eu: King Crimson
+    fa: کینگ کریمسون
+    fi: King Crimson
+    fit: King Crimson
+    fr: King Crimson
+    gl: King Crimson
+    he: קינג קרימזון
+    hr: King Crimson
+    hu: King Crimson
+    id: King Crimson
+    is: King Crimson
+    it: King Crimson
+    ja: キング・クリムゾン
+    ka: King Crimson
+    ko: 킹 크림슨
+    lt: King Crimson
+    lv: King Crimson
+    mul: King Crimson
+    nb: King Crimson
+    nl: King Crimson
+    nn: King Crimson
+    pl: King Crimson
+    pt: King Crimson
+    rmf: King Crimson
+    ro: King Crimson
+    ru: King Crimson
+    sc: King Crimson
+    scn: King crimson (Gruppu musicali)
+    se: King Crimson
+    sh: King Crimson
+    sje: King Crimson
+    sju: King Crimson
+    sk: King Crimson
+    sl: King Crimson
+    sma: King Crimson
+    smj: King Crimson
+    smn: King Crimson
+    sms: King Crimson
+    sv: King Crimson
+    th: คิง คริมสัน
+    tr: King Crimson
+    uk: King Crimson
+    uz: King Crimson
+    vi: King Crimson
+    zh: 深紅之王
+    zh-hant: 深紅之王
+    zh-tw: 深紅之王
 ---
 ## #has_/text_of_/abstract 
 

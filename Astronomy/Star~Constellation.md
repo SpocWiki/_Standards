@@ -1,28 +1,166 @@
 ---
 aliases:
-  - constellation
-  - Zodiac
-  - Star~Constellation
+- 12 بۇرج
+- antokon-kintana
+- Beranatung
+- buruj
+- bürc
+- chòm sao
+- Co-hollys rollageagh
+- constela
+- constelación
+- constelasyon
+- constelação
+- constelație
+- constellacion
+- Constellatio
+- constellation
+- constellâtion
+- constel·lació
+- costelassion
+- costellazione
+- costełasion
+- csillagkép
+- custellazione
+- custiddazzioni
+- cytser
+- gwiazdozbiór
+- gwiôzdozbiór
+- gwiŏzdozbiōr
+- gwězdno
+- IsiShomo
+- komstêr
+- konstelacio
+- konstelasyon
+- konstelazio
+- konstelloatsie
+- kostellazzjoni
+- kundinyota
+- kāhui whetū
+- mbyjaty
+- miaccītlalli
+- naestieguvvie
+- nzɔ́tɔ
+- násstegåvvå
+- nástegovva
+- ozvezdje
+- ranneves
+- rasi bintang
+- rasi béntang
+- rasi lintang
+- reul-bhad
+- réaltbhuíon
+- sazvežđe
+- sazviježđe
+- seng-chō
+- souhvězdí
+- Starebeeld
+- Star~Constellation
+- Steanbuid
+- Steernbild
+- stelaro
+- steredeg
+- Sternbild
+- sterrebeeld
+- sterrebêeldn
+- sterrenbeeld
+- stjernebilde
+- stjernebilete
+- stjernebillede
+- Stjerrebyld
+- stjärnbild
+- stjörnumerki
+- stoelreye
+- Stärebild
+- stäärbil
+- sên-chho
+- súhvezdie
+- sĭng-cô̤
+- takımyıldız
+- taxımestare
+- tazdemt
+- tuuja
+- tähdistö
+- tähthišt
+- tähtkuju
+- täsnikovos
+- täʹsnnheäʹrvv
+- unganyeredzi
+- warani
+- Yjësia
+- yulduz turkumi
+- Zodiac
+- zvaigznājs
+- zviježđe
+- çăлтăрлăх
+- ìgwè kpakpando
+- žvaigždynas
+- αστερισμός
+- жылдыздар чогулмалары
+- йолдызлык
+- йондоҙлоҡ
+- кизилисузьет
+- сазвежђе
+- седарчийн гуламаш
+- соѕвездие
+- созвездие
+- стъалыгуппар
+- сузір'я
+- сузор’е
+- сулустар бөлөхтөрө
+- сурати фалакӣ
+- съзвездие
+- шоқжұлдыздар
+- համաստեղություններ
+- קבוצת כוכבים
+- اسماني صورت/ د ستورو ټولګه
+- اولدوزلار شکیلی
+- بروج
+- تارہ جھرمٹ
+- صورت فلکی
+- فلکی صورتون
+- كوكبة
+- كوكبه
+- مجمع النجوم
+- तारकासमूह
+- तारामंडल
+- तारामण्डल
+- नगु पुचः
+- তারামণ্ডল
+- ਨਛੱਤਰ
+- નક્ષત્ર
+- விண்மீன் குழாம்
+- నక్షత్రమండలం
+- ನಕ್ಷತ್ರಪುಂಜ
+- നക്ഷത്രരാശി
+- กลุ่มดาว
+- ကြယ်စုတန်း
+- လၢဝ်ၶွၼ်ႈ
+- თანავარსკვლავედები
+- მურიცხეჭაჭილი
+- ἀστερισμός
+- 星座
+- 별자리
 has_id_wikidata: Q8928
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~geographical_feature,618123]]"
-  - "[[_Standards/WikiData/WD~asterism,9262]]"
+- '[[_Standards/WikiData/WD~geographical_feature,618123]]'
+- '[[_Standards/WikiData/WD~asterism,9262]]'
 has_list:
-  - "[[_Standards/WikiData/WD~Q3248800,3248800]]"
-  - "[[_Standards/WikiData/WD~list_of_constellations,9241]]"
+- '[[_Standards/WikiData/WD~Q3248800,3248800]]'
+- '[[_Standards/WikiData/WD~list_of_constellations,9241]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948]]"
-  - "[[_Standards/WikiData/WD~Template_Constellations,7647472]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948]]'
+- '[[_Standards/WikiData/WD~Template_Constellations,7647472]]'
 different_from:
-  - "[[_Standards/WikiData/WD~IAU_constellation,131403485]]"
-  - "[[_Standards/WikiData/WD~asterism,9262]]"
-part_of: "[[_Standards/WikiData/WD~celestial_sphere,12134]]"
+- '[[_Standards/WikiData/WD~IAU_constellation,131403485]]'
+- '[[_Standards/WikiData/WD~asterism,9262]]'
+part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
 OmegaWiki_Defined_Meaning: 688481
 Wolfram_Language_entity_type: Constellation
 Commons_category: Constellations
@@ -33,25 +171,191 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/SOZVEZDIYA_I_YARKIE_ZVEZDI.html
 Baidu_Tieba_name: 星座
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Constellation,8928|WD~Constellation,8928]]"
-    - "[[/_Standards/Astronomy/Star~Constellation|Star~Constellation]]"
-    - "[[/_public/Astronomy/Star~Constellation.public|Star~Constellation.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation.internal|Star~Constellation.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation.protect|Star~Constellation.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation.private|Star~Constellation.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation.personal|Star~Constellation.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation.secret|Star~Constellation.secret]]"
+  - '[[../WikiData/WD~Constellation,8928|WD~Constellation,8928]]'
+  - '[[/_Standards/Astronomy/Star~Constellation|Star~Constellation]]'
+  - '[[/_public/Astronomy/Star~Constellation.public|Star~Constellation.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation.internal|Star~Constellation.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation.protect|Star~Constellation.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation.private|Star~Constellation.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation.personal|Star~Constellation.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation.secret|Star~Constellation.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Constellation,8928|WD~Constellation,8928]]"
-  - "[[/_Standards/Astronomy/Star~Constellation|Star~Constellation]]"
-  - "[[/_public/Astronomy/Star~Constellation.public|Star~Constellation.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation.internal|Star~Constellation.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation.protect|Star~Constellation.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation.private|Star~Constellation.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation.personal|Star~Constellation.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation.secret|Star~Constellation.secret]]"
+- '[[../WikiData/WD~Constellation,8928|WD~Constellation,8928]]'
+- '[[/_Standards/Astronomy/Star~Constellation|Star~Constellation]]'
+- '[[/_public/Astronomy/Star~Constellation.public|Star~Constellation.public]]'
+- '[[/_internal/Astronomy/Star~Constellation.internal|Star~Constellation.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation.protect|Star~Constellation.protect]]'
+- '[[/_private/Astronomy/Star~Constellation.private|Star~Constellation.private]]'
+- '[[/_personal/Astronomy/Star~Constellation.personal|Star~Constellation.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation.secret|Star~Constellation.secret]]'
+dv_has_:
+  name_:
+    af: sterrebeeld
+    ar: كوكبة
+    arz: كوكبه
+    ast: constelación
+    az: bürc
+    azb: اولدوزلار شکیلی
+    ba: йондоҙлоҡ
+    bar: Steanbuid
+    bcl: konstelasyon
+    be: сузор’е
+    be-tarask: сузор’е
+    bg: съзвездие
+    bn: তারামণ্ডল
+    br: steredeg
+    bs: sazviježđe
+    ca: constel·lació
+    cdo: sĭng-cô̤
+    ce: седарчийн гуламаш
+    ceb: konstelasyon
+    co: custellazione
+    cs: souhvězdí
+    csb: gwiôzdozbiór
+    cv: çăлтăрлăх
+    cy: cytser
+    da: stjernebillede
+    de: Sternbild
+    diq: taxımestare
+    dsb: gwězdno
+    el: αστερισμός
+    en: constellation
+    en-ca: constellation
+    en-gb: constellation
+    en-us: constellation
+    eo: konstelacio
+    es: constelación
+    et: tähtkuju
+    eu: konstelazio
+    fa: صورت فلکی
+    fi: tähdistö
+    fr: constellation
+    frr: stäärbil
+    fy: Stjerrebyld
+    ga: réaltbhuíon
+    gd: reul-bhad
+    gl: constelación
+    gn: mbyjaty
+    grc: ἀστερισμός
+    gsw: Sternbild
+    gu: નક્ષત્ર
+    gv: Co-hollys rollageagh
+    hak: sên-chho
+    he: קבוצת כוכבים
+    hi: तारामंडल
+    hr: zviježđe
+    ht: konstelasyon
+    hu: csillagkép
+    hy: համաստեղություններ
+    ia: constellation
+    iba: Beranatung
+    id: rasi bintang
+    ig: ìgwè kpakpando
+    io: stelaro
+    is: stjörnumerki
+    it: costellazione
+    ja: 星座
+    jv: rasi lintang
+    ka: თანავარსკვლავედები
+    kab: tazdemt
+    kk: шоқжұлдыздар
+    kn: ನಕ್ಷತ್ರಪುಂಜ
+    ko: 별자리
+    ku: komstêr
+    kw: ranneves
+    ky: жылдыздар чогулмалары
+    la: Constellatio
+    lb: Stärebild
+    lfn: constela
+    li: Starebeeld
+    ln: nzɔ́tɔ
+    lt: žvaigždynas
+    lv: zvaigznājs
+    lzh: 星座
+    mg: antokon-kintana
+    mi: kāhui whetū
+    mk: соѕвездие
+    ml: നക്ഷത്രരാശി
+    mr: तारकासमूह
+    ms: buruj
+    ms-arab: بروج
+    mt: kostellazzjoni
+    my: ကြယ်စုတန်း
+    mzn: فلکی صورتون
+    nah: miaccītlalli
+    nan: seng-chō
+    nb: stjernebilde
+    nds: Steernbild
+    nds-nl: konstelloatsie
+    ne: तारामण्डल
+    new: नगु पुचः
+    nl: sterrenbeeld
+    nn: stjernebilete
+    nov: stelaro
+    nrm: constellâtion
+    oc: constellacion
+    om: tuuja
+    os: стъалыгуппар
+    pa: ਨਛੱਤਰ
+    pl: gwiazdozbiór
+    pms: costelassion
+    pnb: تارہ جھرمٹ
+    ps: اسماني صورت/ د ستورو ټولګه
+    pt: constelação
+    pt-br: constelação
+    qu: warani
+    ro: constelație
+    ru: созвездие
+    rup: constelație
+    sah: сулустар бөлөхтөрө
+    scn: custiddazzioni
+    sco: constellation
+    se: nástegovva
+    sh: sazviježđe
+    shn: လၢဝ်ၶွၼ်ႈ
+    sje: násstegåvvå
+    sk: súhvezdie
+    sl: ozvezdje
+    sma: naestieguvvie
+    smj: násstegåvvå
+    smn: täsnikovos
+    sms: täʹsnnheäʹrvv
+    sn: unganyeredzi
+    sq: Yjësia
+    sr: сазвежђе
+    sr-ec: сазвежђе
+    sr-el: sazvežđe
+    su: rasi béntang
+    sv: stjärnbild
+    sw: kundinyota
+    szl: gwiŏzdozbiōr
+    ta: விண்மீன் குழாம்
+    te: నక్షత్రమండలం
+    tg: сурати фалакӣ
+    th: กลุ่มดาว
+    tl: konstelasyon
+    tr: takımyıldız
+    tt: йолдызлык
+    tt-cyrl: йолдызлык
+    udm: кизилисузьет
+    ug: 12 بۇرج
+    uk: сузір'я
+    ur: مجمع النجوم
+    uz: yulduz turkumi
+    vec: costełasion
+    vep: tähthišt
+    vi: chòm sao
+    vls: sterrebêeldn
+    wa: stoelreye
+    war: constelasyon
+    wuu: 星座
+    xmf: მურიცხეჭაჭილი
+    yue: 星座
+    zh: 星座
+    zh-cn: 星座
+    zh-hant: 星座
+    zu: IsiShomo
 ---
-
 # [[Star~Constellation]] 
 
 #is_/same_as :: [[../WikiData/WD~Constellation,8928|WD~Constellation,8928]] 

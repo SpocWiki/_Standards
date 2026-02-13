@@ -1,8 +1,103 @@
 ---
 aliases:
-  - Pelobatidae
+- blatnicovití
+- European spadefoot toad
+- Eŭropaj ŝpatokruraj ranoj
+- Grzebiuszkowate
+- Họ Cóc chân xẻng
+- knoflookpadden
+- Lökgrodor
+- Pelobates
+- Pelobatidae
+- Pelobàtid
+- Tó wónaanídę́ę́ʼ chʼał ndahashchʼidígíí
+- Varžkrupji
+- ásóbékafélék
+- česnovke
+- Češnjače
+- Европска жаба
+- Тарбақа
+- Часничницеві
+- Часночніцы
+- чесновникови
+- чесночницы
+- Чешњаче
+- Җир бакалары
+- Սխտորագորտեր
+- חפריתיים
+- بيلوباتيداى
+- وزغ بیلپای اروپایی
+- یورپی بیلچہ پیر کھورا ڈڈو
+- ニンニクガエル科
+- 鋤足蟾科
+- 锄足蟾科
+- 쟁기발개구리속
 title: Pelobatidae
 has_id_wikidata: Q720765
+dv_has_:
+  name_:
+    an: Pelobatidae
+    arz: بيلوباتيداى
+    ast: Pelobatidae
+    be: Часночніцы
+    bg: чесновникови
+    ca: Pelobàtid
+    ceb: Pelobatidae
+    cs: blatnicovití
+    de: Pelobatidae
+    en: Pelobatidae
+    en-ca: European spadefoot toad
+    en-gb: European spadefoot toad
+    eo: Eŭropaj ŝpatokruraj ranoj
+    es: Pelobatidae
+    eu: Pelobates
+    ext: Pelobatidae
+    fa: وزغ بیلپای اروپایی
+    fi: Pelobatidae
+    fr: Pelobatidae
+    ga: Pelobatidae
+    gl: Pelobatidae
+    he: חפריתיים
+    hu: ásóbékafélék
+    hy: Սխտորագորտեր
+    ia: Pelobatidae
+    ie: Pelobatidae
+    io: Pelobatidae
+    it: Pelobatidae
+    ja: ニンニクガエル科
+    kk: Тарбақа
+    ko: 쟁기발개구리속
+    la: Pelobatidae
+    lv: Varžkrupji
+    mk: Европска жаба
+    mul: Pelobatidae
+    nb: Pelobatidae
+    nl: knoflookpadden
+    nn: Pelobatidae
+    nv: Tó wónaanídę́ę́ʼ chʼał ndahashchʼidígíí
+    oc: Pelobatidae
+    pl: Grzebiuszkowate
+    pnb: یورپی بیلچہ پیر کھورا ڈڈو
+    pt: Pelobatidae
+    pt-br: Pelobatidae
+    ro: Pelobatidae
+    ru: чесночницы
+    sl: česnovke
+    sq: Pelobatidae
+    sr: Чешњаче
+    sr-ec: Чешњаче
+    sr-el: Češnjače
+    sv: Lökgrodor
+    tr: Pelobatidae
+    tt: Җир бакалары
+    uk: Часничницеві
+    vi: Họ Cóc chân xẻng
+    vo: Pelobatidae
+    war: Pelobatidae
+    zh: 锄足蟾科
+    zh-cn: 锄足蟾科
+    zh-hans: 锄足蟾科
+    zh-tw: 鋤足蟾科
 ---
 # [[Pelobatidae]]
 

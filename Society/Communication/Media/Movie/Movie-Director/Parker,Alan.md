@@ -1,9 +1,28 @@
 ---
 aliases:
-  - Sir Alan William Parker
-  - Alan William Parker
-  - Alan Parker
-  - Parker,Alan
+- Alan Parker
+- Alan William Parker
+- Alans Pārkers
+- Alanus Parker
+- Parker,Alan
+- Sir Alan William Parker
+- Άλαν Πάρκερ
+- Алан Паркер
+- Алън Паркър
+- Ալան Փարքեր
+- אלן פארקר
+- آلان باركر
+- آلن پارکر
+- অ্যালান পার্কার
+- ਐਲਨ ਪਾਰਕਰ
+- అలాన్ పార్కర్
+- ალან პარკერი
+- アラン・パーカー
+- 亚伦·帕克
+- 亞倫·帕克
+- 阿伦·柏加
+- 阿倫柏加
+- 앨런 파커
 has_id_wikidata: Q271284
 P8189: 987007445195405171
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PARKER_ALAN.html
@@ -14,24 +33,24 @@ nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]
 place_of_birth: '[[_Standards/WikiData/WD~Islington,125163]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Alan,294833]]'
-  - '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Alan,294833]]'
+- '[[_Standards/WikiData/WD~William,12344159]]'
 award_received:
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
 family_name: '[[_Standards/WikiData/WD~Parker,1628041]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
 different_from: '[[_Standards/WikiData/WD~Alan_Parker,4707481]]'
 educated_at: "[[_Standards/WikiData/WD~Dame_Alice_Owen's_School,5212123]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -49,8 +68,172 @@ date_of_birth: 1944-02-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Parker%20%28Director%29%2C%20London%2C%202012.jpg
 official_website: https://alanparker.com
 ISNI: 0000000118811520
+dv_has_:
+  name_:
+    ace: Alan Parker
+    af: Alan Parker
+    ak: Alan Parker
+    an: Alan Parker
+    ar: آلان باركر
+    arz: آلان باركر
+    ast: Alan Parker
+    atj: Alan Parker
+    bar: Alan Parker
+    be: Алан Паркер
+    be-tarask: Алан Паркер
+    bg: Алън Паркър
+    bn: অ্যালান পার্কার
+    br: Alan Parker
+    bs: Alan Parker
+    ca: Alan Parker
+    ceb: Alan Parker
+    co: Alan Parker
+    cs: Alan Parker
+    cy: Alan Parker
+    da: Alan Parker
+    de: Alan Parker
+    de-at: Alan Parker
+    de-ch: Alan Parker
+    dsb: Alan Parker
+    ee: Alan Parker
+    egl: Alan Parker
+    el: Άλαν Πάρκερ
+    eml: Alan Parker
+    en: Alan Parker
+    en-ca: Alan Parker
+    en-gb: Alan Parker
+    eo: Alan Parker
+    es: Alan Parker
+    et: Alan Parker
+    eu: Alan Parker
+    ext: Alan Parker
+    fa: آلن پارکر
+    ff: Alan Parker
+    fi: Alan Parker
+    fit: Alan Parker
+    fj: Alan Parker
+    fo: Alan Parker
+    fr: Alan Parker
+    frc: Alan Parker
+    frp: Alan Parker
+    frr: Alan Parker
+    fur: Alan Parker
+    fy: Alan Parker
+    ga: Alan Parker
+    gd: Alan Parker
+    gl: Alan Parker
+    gsw: Alan Parker
+    gv: Alan Parker
+    he: אלן פארקר
+    hr: Alan Parker
+    hsb: Alan Parker
+    ht: Alan Parker
+    hu: Alan Parker
+    hy: Ալան Փարքեր
+    ia: Alan Parker
+    id: Alan Parker
+    ie: Alan Parker
+    ilo: Alan Parker
+    io: Alan Parker
+    is: Alan Parker
+    it: Alan Parker
+    ja: アラン・パーカー
+    jv: Alan Parker
+    ka: ალან პარკერი
+    kg: Alan Parker
+    ko: 앨런 파커
+    ksh: Alan Parker
+    kw: Alan Parker
+    la: Alanus Parker
+    lb: Alan Parker
+    lfn: Alan Parker
+    li: Alan Parker
+    lij: Alan Parker
+    lt: Alan Parker
+    lv: Alans Pārkers
+    map-bms: Alan Parker
+    mg: Alan Parker
+    min: Alan Parker
+    ms: Alan Parker
+    mt: Alan Parker
+    mul: Alan Parker
+    mus: Alan Parker
+    mwl: Alan Parker
+    nap: Alan Parker
+    nb: Alan Parker
+    nds: Alan Parker
+    nds-nl: Alan Parker
+    nl: Alan Parker
+    nn: Alan Parker
+    nrm: Alan Parker
+    oc: Alan Parker
+    olo: Alan Parker
+    pa: ਐਲਨ ਪਾਰਕਰ
+    pam: Alan Parker
+    pap: Alan Parker
+    pcd: Alan Parker
+    pdc: Alan Parker
+    pdt: Alan Parker
+    pfl: Alan Parker
+    pl: Alan Parker
+    pms: Alan Parker
+    pt: Alan Parker
+    pt-br: Alan Parker
+    qu: Alan Parker
+    rm: Alan Parker
+    rmy: Alan Parker
+    ro: Alan Parker
+    roa-tara: Alan Parker
+    ru: Алан Паркер
+    rup: Alan Parker
+    sc: Alan Parker
+    scn: Alan Parker
+    sco: Alan Parker
+    sdc: Alan Parker
+    se: Alan Parker
+    sei: Alan Parker
+    sgs: Alan Parker
+    sh: Alan Parker
+    sk: Alan Parker
+    sl: Alan Parker
+    sli: Alan Parker
+    sq: Alan Parker
+    sr: Alan Parker
+    sr-el: Alan Parker
+    stq: Alan Parker
+    su: Alan Parker
+    sv: Alan Parker
+    sw: Alan Parker
+    szl: Alan Parker
+    te: అలాన్ పార్కర్
+    tl: Alan Parker
+    tpi: Alan Parker
+    tr: Alan Parker
+    ty: Alan Parker
+    uk: Алан Паркер
+    uz: Alan Parker
+    vec: Alan Parker
+    vi: Alan Parker
+    vls: Alan Parker
+    vmf: Alan Parker
+    vo: Alan Parker
+    vro: Alan Parker
+    wa: Alan Parker
+    war: Alan Parker
+    wo: Alan Parker
+    xh: Alan Parker
+    yo: Alan Parker
+    yue: 阿倫柏加
+    zea: Alan Parker
+    zh: 亞倫·帕克
+    zh-cn: 亚伦·帕克
+    zh-hans: 亚伦·帕克
+    zh-hant: 亞倫·帕克
+    zh-hk: 亞倫·帕克
+    zh-sg: 阿伦·柏加
+    zh-tw: 亞倫·帕克
+    zu: Alan Parker
 ---
-
 # [[Parker,Alan]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Alan_Parker,271284]] 

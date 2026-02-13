@@ -1,8 +1,38 @@
 ---
 aliases:
-  - Arandaspida
+- Arandaspida
+- Арандаспиды
+- مدرعات أراندا
+- 阿兰达鱼亚纲
 title: Arandaspida
 has_id_wikidata: Q3621278
+dv_has_:
+  name_:
+    ar: مدرعات أراندا
+    ast: Arandaspida
+    bg: Arandaspida
+    ceb: Arandaspida
+    de: Arandaspida
+    en: Arandaspida
+    es: Arandaspida
+    fi: Arandaspida
+    fr: Arandaspida
+    ga: Arandaspida
+    it: Arandaspida
+    la: Arandaspida
+    mul: Arandaspida
+    nl: Arandaspida
+    pl: Arandaspida
+    pt: Arandaspida
+    ro: Arandaspida
+    ru: Арандаспиды
+    sq: Arandaspida
+    sv: Arandaspida
+    uk: Arandaspida
+    vec: Arandaspida
+    vi: Arandaspida
+    war: Arandaspida
+    zh: 阿兰达鱼亚纲
 ---
 # [[Arandaspida]]
 

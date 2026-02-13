@@ -1,47 +1,79 @@
 ---
 aliases:
-  - Humphrey_Bogart
-  - Humphrey DeForest Bogart
-  - Humphrey Bogart
-  - Bogart
-  - Bogie
-  - Bogart,Humphrey
+- Bogart
+- Bogart,Humphrey
+- Bogie
+- Hamfri Boqart
+- Hamfrijs Bogarts
+- Humphrey Bogart
+- Humphrey DeForest Bogart
+- Humphrey_Bogart
+- Χάμφρεϊ Μπόγκαρτ
+- Гамфрі Боґарт
+- Гамфры Богарт
+- Хамфри Богарт
+- Хамфры Богарт
+- Хъмфри Богарт
+- Համֆրի Բոգարտ
+- המפרי בוגרט
+- هامفری بوقارت
+- هامفری بوگارت
+- همفرى بوجارت
+- همفري بوغارت
+- همفري بوگارت
+- ھەمفری بۆگارت
+- ہیمفری بوگارٹ
+- हम्फ्रे बोगार्ट
+- হামফ্রি বোগার্ট
+- ਹੰਫਰੀ ਬੋਗਾਰਟ
+- ஹம்பிறி போகார்ட்
+- హంఫ్రీ డిఫారెస్ట్ బోగార్ట్
+- ഹംഫ്രി ബോഗാർട്ട്
+- ฮัมฟรีย์ โบการ์ต
+- ჰამფრი ბოგარტი
+- ハンフリー・ボガート
+- 亨弗莱·鲍嘉
+- 亨弗萊·鮑嘉
+- 堪富利·保加
+- 堪富利保加
+- 汉弗莱·博加特
+- 험프리 보가트
 has_id_wikidata: Q16390
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Lauren_Bacall,104000]]'
-  - '[[_Standards/WikiData/WD~Mary_Philips,275428]]'
-  - '[[_Standards/WikiData/WD~Mayo_Methot,529654]]'
-  - '[[_Standards/WikiData/WD~Helen_Menken,543385]]'
+- '[[_Standards/WikiData/WD~Lauren_Bacall,104000]]'
+- '[[_Standards/WikiData/WD~Mary_Philips,275428]]'
+- '[[_Standards/WikiData/WD~Mayo_Methot,529654]]'
+- '[[_Standards/WikiData/WD~Helen_Menken,543385]]'
 employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~Western_film,172980]]'
-  - '[[_Standards/WikiData/WD~film_noir,185867]]'
-  - '[[_Standards/WikiData/WD~war_film,369747]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~Western_film,172980]]'
+- '[[_Standards/WikiData/WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
 cause_of_death: '[[_Standards/WikiData/WD~esophageal_cancer,372701]]'
 member_of: '[[_Standards/WikiData/WD~American_Legion,468865]]'
 occupation:
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~stage_manager,19375711]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~stage_manager,19375711]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~sailor,45199]]'
 educated_at: '[[_Standards/WikiData/WD~Phillips_Academy,1432645]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Humphrey,1637225]]'
-  - '[[_Standards/WikiData/WD~DeForest,98400639]]'
+- '[[_Standards/WikiData/WD~Humphrey,1637225]]'
+- '[[_Standards/WikiData/WD~DeForest,98400639]]'
 child:
-  - '[[_Standards/WikiData/WD~Stephen_Humphrey_Bogart,2344560]]'
-  - '[[_Standards/WikiData/WD~Leslie_Bogart,120485698]]'
+- '[[_Standards/WikiData/WD~Stephen_Humphrey_Bogart,2344560]]'
+- '[[_Standards/WikiData/WD~Leslie_Bogart,120485698]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~Seaman_apprentice,7440698]]'
@@ -77,16 +109,136 @@ United_States_Armed_Forces_service_number: 1123062
 date_of_death: 1957-01-14T00:00:00Z
 work_period_end_: 1956-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%201940.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%201945.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%201940.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%201945.JPG
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%20Grave.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Humphrey%20Bogart%20signature.svg
 official_website: http://www.humphreybogart.com/
 ISNI: 0000000121380063
 Plex_person_key: 5d776825103a2d001f563b3f
 Libris_URI: dbqswkxx2kwq6fc
+dv_has_:
+  name_:
+    ace: Humphrey Bogart
+    acm: همفري بوگارت
+    af: Humphrey Bogart
+    an: Humphrey Bogart
+    ar: همفري بوغارت
+    arz: همفرى بوجارت
+    ast: Humphrey Bogart
+    ay: Humphrey Bogart
+    az: Hamfri Boqart
+    azb: هامفری بوقارت
+    ba: Хамфри Богарт
+    bar: Humphrey Bogart
+    be: Хамфры Богарт
+    be-tarask: Гамфры Богарт
+    bg: Хъмфри Богарт
+    bi: Humphrey Bogart
+    bn: হামফ্রি বোগার্ট
+    br: Humphrey Bogart
+    bs: Humphrey Bogart
+    ca: Humphrey Bogart
+    cbk-zam: Humphrey Bogart
+    ckb: ھەمفری بۆگارت
+    co: Humphrey Bogart
+    cs: Humphrey Bogart
+    cy: Humphrey Bogart
+    da: Humphrey Bogart
+    de: Humphrey Bogart
+    de-ch: Humphrey Bogart
+    diq: Humphrey Bogart
+    el: Χάμφρεϊ Μπόγκαρτ
+    en: Humphrey Bogart
+    en-ca: Humphrey Bogart
+    en-gb: Humphrey Bogart
+    eo: Humphrey Bogart
+    es: Humphrey Bogart
+    et: Humphrey Bogart
+    eu: Humphrey Bogart
+    ext: Humphrey Bogart
+    fa: هامفری بوگارت
+    fi: Humphrey Bogart
+    fr: Humphrey Bogart
+    fy: Humphrey Bogart
+    ga: Humphrey Bogart
+    gd: Humphrey Bogart
+    gl: Humphrey Bogart
+    he: המפרי בוגרט
+    hif: Humphrey Bogart
+    hr: Humphrey Bogart
+    hu: Humphrey Bogart
+    hy: Համֆրի Բոգարտ
+    id: Humphrey Bogart
+    ie: Humphrey Bogart
+    ig: Humphrey Bogart
+    ilo: Humphrey Bogart
+    io: Humphrey Bogart
+    is: Humphrey Bogart
+    it: Humphrey Bogart
+    ja: ハンフリー・ボガート
+    ka: ჰამფრი ბოგარტი
+    ko: 험프리 보가트
+    kw: Humphrey Bogart
+    la: Humphrey Bogart
+    lb: Humphrey Bogart
+    lt: Humphrey Bogart
+    lv: Hamfrijs Bogarts
+    mg: Humphrey Bogart
+    mk: Хамфри Богарт
+    ml: ഹംഫ്രി ബോഗാർട്ട്
+    mr: हम्फ्रे बोगार्ट
+    ms: Humphrey Bogart
+    mul: Humphrey Bogart
+    nan: Humphrey Bogart
+    nb: Humphrey Bogart
+    nds: Humphrey Bogart
+    nl: Humphrey Bogart
+    nn: Humphrey Bogart
+    oc: Humphrey Bogart
+    pa: ਹੰਫਰੀ ਬੋਗਾਰਟ
+    pag: Humphrey Bogart
+    pap: Humphrey Bogart
+    pl: Humphrey Bogart
+    pms: Humphrey Bogart
+    pnb: ہیمفری بوگارٹ
+    pt: Humphrey Bogart
+    pt-br: Humphrey Bogart
+    qu: Humphrey Bogart
+    ro: Humphrey Bogart
+    ru: Хамфри Богарт
+    sco: Humphrey Bogart
+    sh: Humphrey Bogart
+    sk: Humphrey Bogart
+    sl: Humphrey Bogart
+    sq: Humphrey Bogart
+    sr: Хамфри Богарт
+    sv: Humphrey Bogart
+    sw: Humphrey Bogart
+    ta: ஹம்பிறி போகார்ட்
+    te: హంఫ్రీ డిఫారెస్ట్ బోగార్ట్
+    th: ฮัมฟรีย์ โบการ์ต
+    tl: Humphrey Bogart
+    tr: Humphrey Bogart
+    uk: Гамфрі Боґарт
+    uz: Humphrey Bogart
+    vec: Humphrey Bogart
+    vi: Humphrey Bogart
+    vo: Humphrey Bogart
+    war: Humphrey Bogart
+    wuu: 亨弗莱·鲍嘉
+    xmf: ჰამფრი ბოგარტი
+    yo: Humphrey Bogart
+    yue: 堪富利保加
+    zh: 亨弗萊·鮑嘉
+    zh-cn: 汉弗莱·博加特
+    zh-hans: 汉弗莱·博加特
+    zh-hant: 亨弗萊·鮑嘉
+    zh-hk: 堪富利·保加
+    zh-my: 堪富利·保加
+    zh-sg: 堪富利·保加
+    zh-tw: 亨弗萊·鮑嘉
 ---
-
 # [[Bogart,Humphrey]] 
 
 #is_/same_as :: [[WD~Humphrey_Bogart,16390]] 

@@ -1,8 +1,109 @@
 ---
 has_id_wikidata: Q271707
+dv_has_:
+  name_:
+    ar: علم الجريان
+    ast: reoloxía
+    az: Reologiya
+    be-tarask: рэалёгія
+    bg: Реология
+    ca: reologia
+    cs: reologie
+    de: Rheologie
+    el: Ρεολογία
+    en: rheology
+    es: reología
+    et: reoloogia
+    eu: Erreologia
+    fa: رئولوژی
+    fi: reologia
+    fr: rhéologie
+    ga: réa-eolaíocht
+    gl: Reoloxía
+    he: ראולוגיה
+    hi: प्रवाहिकी
+    hr: Reologija
+    hu: reológia
+    hy: Ռեոլոգիա
+    id: Reologi
+    is: Flotfræði
+    it: reologia
+    ja: レオロジー
+    kk: Реология
+    ko: 유변학
+    ky: Реология
+    lfn: reolojia
+    lt: reologija
+    mk: реологија
+    ms: Reologi
+    nb: reologi
+    nl: reologie
+    pl: Reologia
+    pt: reologia
+    ro: Reologie
+    ru: реология
+    se: reologiija
+    si: ස්රැති විද්යාව
+    sk: Reológia
+    sl: reologija
+    sma: reologije
+    smj: reologija
+    smn: reologia
+    sms: reologia
+    sr: Reologija
+    sv: reologi
+    ta: உருமாற்றவியல்
+    tr: Reoloji
+    tt: риялугия
+    uk: реологія
+    uz: Reologiya
+    vi: Lưu biến học
+    zh: 流变学
+    zh-cn: 流变学
+    zh-hans: 流变学
+    zh-hant: 流變學
+    zh-hk: 流變學
+    zh-sg: 流变学
+    zh-tw: 流變學
+aliases:
+- Erreologia
+- Flotfræði
+- Lưu biến học
+- Reologi
+- reologia
+- reologie
+- reologiija
+- Reologija
+- reologije
+- Reologiya
+- reología
+- Reoloji
+- reolojia
+- reoloogia
+- Reoloxía
+- reológia
+- Rheologie
+- rheology
+- rhéologie
+- réa-eolaíocht
+- Ρεολογία
+- реологія
+- реологија
+- реология
+- риялугия
+- рэалёгія
+- Ռեոլոգիա
+- ראולוגיה
+- رئولوژی
+- علم الجريان
+- प्रवाहिकी
+- உருமாற்றவியல்
+- ස්රැති විද්යාව
+- レオロジー
+- 流变学
+- 流變學
+- 유변학
 ---
-
-
 # [[Rheology]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Rheology,271707|WD~Rheology,271707]] 

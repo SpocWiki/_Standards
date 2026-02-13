@@ -1,8 +1,260 @@
 ---
 has_id_wikidata: Q36348
+dv_has_:
+  name_:
+    af: droom
+    ar: حلم
+    arc: ܚܠܡܐ
+    arz: حلم
+    as: সপোন
+    ast: suañu
+    ay: samka
+    az: yuxugörmə
+    azb: یوخوگؤرمه
+    bbc: Nipi
+    bcl: Pangatorogan
+    be-tarask: сьненьне
+    bg: сънища
+    bn: স্বপ্ন
+    br: hunvre
+    bs: san
+    ca: somni
+    cdo: máe̤ng
+    chr: ᎠᏍᎩᏘᏍᏗ
+    ckb: خەون
+    cs: sen
+    cv: Тĕлĕк
+    cy: breuddwyd
+    da: drøm
+    de: Traum
+    el: όνειρο
+    en: dream
+    eo: sonĝo
+    es: ensueño
+    et: unenägu
+    eu: amets
+    fa: رؤیا
+    fi: unennäkö
+    fr: rêve
+    fy: dream
+    ga: taibhreamh
+    gan: 眠夢
+    gcr: rèv
+    gd: aisling
+    gl: soño
+    grc: ὄνειρος
+    ha: mafarki
+    he: חלום
+    hi: स्वप्न
+    hr: sanjanje
+    ht: rèv
+    hu: álom
+    hy: երազ
+    ia: sonio
+    id: mimpi
+    io: revo
+    is: draumur
+    it: sogno
+    ja: 夢
+    jam: jriim
+    jv: ngimpi
+    ka: სიზმარი
+    kab: targit
+    kcg: a̱laat
+    kk: түс көру
+    km: សុបិន
+    kn: ಕನಸು
+    ko: 꿈
+    ks: خاب
+    ku: xewn
+    ky: түш көрүү
+    la: somnium
+    lt: sapnas
+    lv: sapnis
+    lzh: 夢
+    mai: सपना
+    mcn: dúwàytà
+    mg: Nofy
+    mhr: омо
+    mk: сон
+    ml: സ്വപ്നം
+    mn: зүүд
+    mr: स्वान
+    ms: mimpi
+    my: အိပ်မက်
+    nan: bāng
+    nb: drøm
+    ne: सपना
+    new: म्हग:स
+    nl: droom
+    nn: draum
+    nrm: rêve
+    oc: sòmi
+    pa: ਸੁਪਨਾ
+    pam: panínap
+    pl: marzenia senne
+    pt: sonho
+    pt-br: sonho
+    qu: musquy
+    ro: vis
+    ru: сновидение
+    scn: sònniru
+    sd: خواب
+    sh: san
+    shn: ၽၼ်
+    sk: sen
+    sl: sanje
+    sn: chiroto
+    so: riyo
+    sq: ëndrra
+    sr: сан
+    ss: Phupha
+    su: ngimpi
+    sv: dröm
+    sw: njozi
+    ta: கனவு
+    te: స్వప్నం
+    th: ฝัน
+    tl: panaginip
+    tok: sitelen lape
+    tr: rüya
+    ts: norho
+    tt: төш
+    tw: Daeso
+    uk: сновидіння
+    ur: خواب
+    uz: tush
+    vi: giấc mơ
+    vro: unõnägo
+    war: inóp
+    wuu: 梦
+    yi: חלום
+    yo: àlá
+    yue: 夢
+    za: Fangzhwnz
+    zh: 夢
+    zh-cn: 梦
+    zh-hans: 梦
+    zh-hant: 夢
+    zh-tw: 夢
+    zu: amaphupho
+aliases:
+- aisling
+- amaphupho
+- amets
+- a̱laat
+- breuddwyd
+- bāng
+- chiroto
+- Daeso
+- draum
+- draumur
+- dream
+- droom
+- dröm
+- drøm
+- dúwàytà
+- ensueño
+- Fangzhwnz
+- giấc mơ
+- hunvre
+- inóp
+- jriim
+- mafarki
+- marzenia senne
+- mimpi
+- musquy
+- máe̤ng
+- ngimpi
+- Nipi
+- njozi
+- Nofy
+- norho
+- panaginip
+- Pangatorogan
+- panínap
+- Phupha
+- revo
+- riyo
+- rèv
+- rêve
+- rüya
+- samka
+- san
+- sanjanje
+- sanje
+- sapnas
+- sapnis
+- sen
+- sitelen lape
+- sogno
+- somni
+- somnium
+- sonho
+- sonio
+- sonĝo
+- soño
+- suañu
+- sòmi
+- sònniru
+- taibhreamh
+- targit
+- Traum
+- tush
+- unennäkö
+- unenägu
+- unõnägo
+- vis
+- xewn
+- yuxugörmə
+- àlá
+- álom
+- ëndrra
+- όνειρο
+- зүүд
+- омо
+- сан
+- сновидіння
+- сновидение
+- сон
+- сънища
+- сьненьне
+- Тĕлĕк
+- түс көру
+- түш көрүү
+- төш
+- երազ
+- חלום
+- حلم
+- خاب
+- خواب
+- خەون
+- رؤیا
+- یوخوگؤرمه
+- ܚܠܡܐ
+- म्हग:स
+- सपना
+- स्वप्न
+- स्वान
+- সপোন
+- স্বপ্ন
+- ਸੁਪਨਾ
+- கனவு
+- స్వప్నం
+- ಕನಸು
+- സ്വപ്നം
+- ฝัน
+- အိပ်မက်
+- ၽၼ်
+- სიზმარი
+- ᎠᏍᎩᏘᏍᏗ
+- សុបិន
+- ὄνειρος
+- 夢
+- 梦
+- 眠夢
+- 꿈
 ---
-
-
 # [[Dream]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dream,36348|WD~Dream,36348]]

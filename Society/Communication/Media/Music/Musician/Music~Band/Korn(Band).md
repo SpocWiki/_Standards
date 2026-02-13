@@ -1,8 +1,113 @@
 ---
 aliases:
-  - Band Korn
-  - Korn(Band)
+- Band Korn
+- Korn
+- Korn(Band)
+- KoЯn
+- Kuṛn
+- Корн
+- קארן
+- קורן
+- كورن
+- کورن
+- کۆرن
+- कॉर्न
+- કોર્ન
+- கோர்ன்
+- కార్న్
+- ಕಾರ್ನ್
+- คอร์น
+- კორნი
+- コーン
+- 콘
+- "\U0001033A\U00010330\U0001033F\U00010342\U0001033D"
 has_id_wikidata: Q80304
+dv_has_:
+  name_:
+    af: Korn
+    an: KoЯn
+    ar: كورن
+    ast: Korn
+    az: Korn
+    azb: کورن
+    bar: Korn
+    be: Korn
+    be-tarask: Korn
+    bg: Корн
+    br: Korn
+    bs: Korn
+    ca: Korn
+    ckb: کۆرن
+    cs: Korn
+    cy: Korn
+    da: KoЯn
+    de: Korn
+    el: Korn
+    eml: Korn
+    en: Korn
+    eo: Korn
+    es: Korn
+    et: Korn
+    eu: Korn
+    fa: کورن
+    fi: Korn
+    fit: Korn
+    fr: Korn
+    ga: Korn
+    gl: KoЯn
+    got: "\U0001033A\U00010330\U0001033F\U00010342\U0001033D"
+    gu: કોર્ન
+    he: קורן
+    hi: कॉर्न
+    hr: Korn
+    hu: Korn
+    hy: Korn
+    id: Korn
+    is: Korn
+    it: Korn
+    ja: コーン
+    jv: Korn
+    ka: კორნი
+    kn: ಕಾರ್ನ್
+    ko: 콘
+    lt: Korn
+    lv: Korn
+    mk: Korn
+    ms: Korn
+    mul: Korn
+    nb: Korn
+    nl: Korn
+    oc: Korn
+    pl: Korn
+    pt: Korn
+    rmf: Korn
+    ro: Korn
+    ru: Korn
+    sco: Korn
+    se: Korn
+    sh: Korn
+    shi: Kuṛn
+    sje: Korn
+    sju: Korn
+    sk: Korn
+    sl: Korn
+    sma: Korn
+    smj: Korn
+    smn: Korn
+    sms: Korn
+    sq: Korn
+    sr: Korn
+    su: Korn
+    sv: Korn
+    ta: கோர்ன்
+    te: కార్న్
+    th: คอร์น
+    tr: Korn
+    uk: Korn
+    uz: KoRn
+    wuu: Korn
+    yi: קארן
+    zh: Korn
 ---
 ## #has_/text_of_/abstract 
 

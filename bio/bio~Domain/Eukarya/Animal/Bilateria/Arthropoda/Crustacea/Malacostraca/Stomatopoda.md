@@ -1,8 +1,119 @@
 ---
 aliases:
-  - Stomatopoda
+- bidsprinkhaankreeften
+- Bogomolčarji
+- Burnakojai
+- Estomatòpode
+- Estomatópodos
+- Fangschreckenkrebse
+- Hà-kŭ
+- Hê-kâu
+- Mantisräkor
+- Peygamberdevesi Karidesi
+- ribe róibéis maintise
+- sirkkaäyriäiset
+- Sjøknelere
+- Stomatopoda
+- sáskarákok
+- Tamarutaca
+- Tatampal
+- Táłtłʼááh naakaii náásééł yił aheełtʼéhii
+- Tôm tít
+- Udang lipan
+- Udang sentadu
+- Ustonogie
+- Ustonožac
+- ústonožci
+- Γαρίδα μάντης
+- ротоногие
+- устоноги
+- טרפידים
+- فميات الأرجل
+- فميات الارجل
+- میگوی آخوندکی
+- চিংড়িবাহার
+- กั้ง
+- တောက်မဆိတ်
+- პირფეხიანები
+- シャコ目
+- 口足目
+- 攋尿蝦
+- 虾蛄
+- 蝦蛄
+- 구각목
 title: Stomatopoda
 has_id_wikidata: Q334855
+dv_has_:
+  name_:
+    af: Stomatopoda
+    an: Stomatopoda
+    ar: فميات الأرجل
+    arz: فميات الارجل
+    ast: Stomatopoda
+    be: Stomatopoda
+    bg: устоноги
+    bn: চিংড়িবাহার
+    ca: Estomatòpode
+    cdo: Hà-kŭ
+    ceb: Stomatopoda
+    cs: ústonožci
+    da: Stomatopoda
+    de: Fangschreckenkrebse
+    el: Γαρίδα μάντης
+    en: Stomatopoda
+    eo: Stomatopoda
+    es: Stomatopoda
+    eu: Stomatopoda
+    ext: Stomatopoda
+    fa: میگوی آخوندکی
+    fi: sirkkaäyriäiset
+    fr: Stomatopoda
+    ga: ribe róibéis maintise
+    gl: Estomatópodos
+    he: טרפידים
+    hr: Ustonožac
+    hu: sáskarákok
+    ia: Stomatopoda
+    id: Udang sentadu
+    ie: Stomatopoda
+    io: Stomatopoda
+    it: Stomatopoda
+    ja: シャコ目
+    ka: პირფეხიანები
+    ko: 구각목
+    la: Stomatopoda
+    lt: Burnakojai
+    ms: Udang lipan
+    mul: Stomatopoda
+    my: တောက်မဆိတ်
+    nan: Hê-kâu
+    nb: Sjøknelere
+    nl: bidsprinkhaankreeften
+    nv: Táłtłʼááh naakaii náásééł yił aheełtʼéhii
+    oc: Stomatopoda
+    pl: Ustonogie
+    pt: Tamarutaca
+    pt-br: Stomatopoda
+    ro: Stomatopoda
+    ru: ротоногие
+    sl: Bogomolčarji
+    sq: Stomatopoda
+    sv: Mantisräkor
+    th: กั้ง
+    tl: Tatampal
+    tr: Peygamberdevesi Karidesi
+    uk: Stomatopoda
+    vi: Tôm tít
+    vo: Stomatopoda
+    war: Stomatopoda
+    yue: 攋尿蝦
+    zh: 口足目
+    zh-cn: 口足目
+    zh-hans: 口足目
+    zh-hant: 蝦蛄
+    zh-hk: 蝦蛄
+    zh-sg: 虾蛄
+    zh-tw: 口足目
 ---
 # [[Stomatopoda]] 
 

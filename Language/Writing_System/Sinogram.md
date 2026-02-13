@@ -1,8 +1,304 @@
 ---
 has_id_wikidata: Q8201
+dv_has_:
+  name_:
+    af: Chinese karakter
+    am: የቻይና ጽሕፈት
+    an: Escritura chinesa
+    ar: مقاطع صينية
+    ary: كتابة شينوية
+    arz: رموز صيني
+    as: চীনা ভাৱচিত্ৰ
+    ast: Caráuteres chinos
+    az: Çin yazısı
+    azb: چین یازیسی
+    ba: Ҡытай яҙыуы
+    bar: Kinäsische Schrift
+    bbc: Leter Cina
+    be: кітайскае пісьмо
+    be-tarask: кітайскае пісьмо
+    bg: Китайска логограма
+    bjn: aksara Cina
+    bn: চীনা অক্ষর
+    bo: རྒྱ་ཡིག་
+    br: Sinalun
+    bs: kinesko pismo
+    btm: Surat Cino
+    bxr: Хитад үзэг
+    ca: escriptura xinesa
+    cdo: Háng-cê
+    ce: Китайн йоза
+    ceb: Sinulatang Ininsik
+    ckb: پیتی چینی
+    crh: Çin yazuvı
+    cs: čínské znaky
+    cy: arwyddlun Tsieinëaidd
+    da: Kinesisk skrift
+    de: Chinesische Schrift
+    diq: Karakterê Çinki
+    el: κινέζικοι χαρακτήρες
+    en: Chinese characters
+    en-ca: Chinese characters
+    en-gb: Chinese characters
+    eo: ĉina skribo
+    es: caracteres chinos
+    et: hiina kiri
+    eu: txinatar karaktere
+    fa: حروف چینی
+    fi: kiinan kirjoitusjärjestelmä
+    fo: Kinversk tekn
+    fr: sinogrammes
+    frr: Sjineesk skraft
+    fy: Sineeske karakters
+    ga: carachtair Shíneacha
+    gan: 字
+    gcr: Karaktèr chinwa
+    gl: escrita chinesa
+    gn: Chinañe'ẽ raikuéra
+    gsw: Chinesische Schrift
+    gv: Hànzì
+    hak: Hon-sṳ
+    he: כתב סיני
+    hi: चीनी भावचित्र
+    hif: Chaena akchhar
+    hr: Kinesko pismo
+    hu: kínai írás
+    hy: Չինական այբուբեն
+    id: karakter Han
+    ilo: Karkarakter nga Insik
+    is: kínverskir stafir
+    it: carattere cinese
+    ja: 漢字
+    jbo: zdosible'u
+    jv: Aksara Cinten
+    ka: ჩინური დამწერლობა
+    kge: Tulisan China
+    kk: Қытай жазуы
+    km: អក្សរចិន
+    knc: Chinese characters
+    ko: 한자
+    krc: Къытай джазма
+    ks: چیٖنی لِکھٲرؠ نِظام
+    kw: Ideografow chinek
+    ky: Кытай жазуусу
+    la: Character Sinicus
+    lb: Chineesesch Schrëft
+    lld: Alfabet cinesc
+    lmo: Carater chines
+    lo: ຕົວອັກສອນຈີນ
+    lt: kinų raštas
+    lv: ķīniešu rakstzīmes
+    lzh: 漢字
+    mg: Sinôgrama
+    mk: кинеско писмо
+    ml: ചൈനീസ് അക്ഷരം
+    mn: Хятад үсэг
+    mnc: ᠨᡳᡴᠠᠨ ᡥᡝᡵᡤᡝᠨ
+    mni: ꯈꯥꯀꯤ ꯃꯌꯦꯛ
+    ms: Tulisan Cina
+    my: တရုတ်စာလုံး
+    nan: Hàn-jī
+    nb: kinesiske tegn
+    nds: kuh
+    new: चिनिया लिपि
+    nl: Chinees schrift
+    nn: hanzi
+    oc: Escritura chinesa
+    pa: ਚੀਨੀ ਲਿਪੀ
+    pl: pismo chińskie
+    pms: Caràter cinèis
+    pnb: چینی لپی
+    ps: چيني ليکنښې
+    pt: Caracteres chineses
+    pt-br: Caracteres chineses
+    ro: caractere chineze
+    ru: китайское письмо
+    rue: Китайськоє писаня
+    sah: Кытай суруга
+    sco: Cheenese chairacter
+    sd: چيني رسم الخط
+    sgs: Kėnėšks raštos
+    sh: Kinesko pismo
+    shi: Iskkiln icinwiyn
+    si: චීන අක්ෂර
+    sk: čínske písmo
+    sl: kitajske pismenke
+    sn: Hànzì
+    sq: Simbole kineze
+    sr: кинеско писмо
+    su: Aksara Tionghoa
+    sv: kinesiska tecken
+    sw: Mwandiko wa Kichina
+    szl: Chiński szrajbůnek
+    ta: சீன எழுத்துமுறை
+    te: చైనీస్ లిపి
+    tg-cyrl: хатти чинӣ
+    th: อักษรจีน
+    tok: sitelen Kan
+    tr: Çince karakter
+    tt: кытай язуы
+    tt-cyrl: кытай язуы
+    udm: китай пусъёс
+    ug: خەنزۇ يېزىقى
+    uk: китайська писемність
+    ur: چینی رسم الخط
+    uz: Xitoy yozuvi
+    vec: alfabeto cinezo
+    vi: chữ Hán
+    war: Tsino nga agi
+    wuu: 汉字
+    xmf: ჩინური ჭარალუა
+    yi: כינעזישע שריפט
+    yue: 漢字
+    za: Sawgun
+    zgh: ⴰⴳⵎⵎⴰⵢ ⴰⵛⵉⵏⵡⵉ
+    zh: 汉字
+    zh-cn: 汉字
+    zh-hans: 汉字
+    zh-hant: 漢字
+    zh-hk: 漢字
+    zh-mo: 漢字
+    zh-my: 汉字
+    zh-sg: 汉字
+    zh-tw: 漢字
+aliases:
+- aksara Cina
+- Aksara Cinten
+- Aksara Tionghoa
+- Alfabet cinesc
+- alfabeto cinezo
+- arwyddlun Tsieinëaidd
+- carachtair Shíneacha
+- caractere chineze
+- Caracteres chineses
+- caracteres chinos
+- Carater chines
+- carattere cinese
+- Caràter cinèis
+- Caráuteres chinos
+- Chaena akchhar
+- Character Sinicus
+- Cheenese chairacter
+- Chinañe'ẽ raikuéra
+- Chinees schrift
+- Chineesesch Schrëft
+- Chinese characters
+- Chinese karakter
+- Chinesische Schrift
+- Chiński szrajbůnek
+- chữ Hán
+- escriptura xinesa
+- escrita chinesa
+- Escritura chinesa
+- hanzi
+- hiina kiri
+- Hon-sṳ
+- Hàn-jī
+- Hànzì
+- Háng-cê
+- Ideografow chinek
+- Iskkiln icinwiyn
+- karakter Han
+- Karakterê Çinki
+- Karaktèr chinwa
+- Karkarakter nga Insik
+- kiinan kirjoitusjärjestelmä
+- Kinesisk skrift
+- kinesiska tecken
+- kinesiske tegn
+- Kinesko pismo
+- Kinversk tekn
+- Kinäsische Schrift
+- kinų raštas
+- kitajske pismenke
+- kuh
+- kínai írás
+- kínverskir stafir
+- Kėnėšks raštos
+- Leter Cina
+- Mwandiko wa Kichina
+- pismo chińskie
+- Sawgun
+- Simbole kineze
+- Sinalun
+- Sineeske karakters
+- sinogrammes
+- Sinulatang Ininsik
+- Sinôgrama
+- sitelen Kan
+- Sjineesk skraft
+- Surat Cino
+- Tsino nga agi
+- Tulisan China
+- Tulisan Cina
+- txinatar karaktere
+- Xitoy yozuvi
+- zdosible'u
+- Çin yazuvı
+- Çin yazısı
+- Çince karakter
+- ĉina skribo
+- čínske písmo
+- čínské znaky
+- ķīniešu rakstzīmes
+- κινέζικοι χαρακτήρες
+- кітайскае пісьмо
+- кинеско писмо
+- китай пусъёс
+- Китайн йоза
+- Китайска логограма
+- китайское письмо
+- китайська писемність
+- Китайськоє писаня
+- Къытай джазма
+- Кытай жазуусу
+- Кытай суруга
+- кытай язуы
+- хатти чинӣ
+- Хитад үзэг
+- Хятад үсэг
+- Қытай жазуы
+- Ҡытай яҙыуы
+- Չինական այբուբեն
+- כינעזישע שריפט
+- כתב סיני
+- حروف چینی
+- خەنزۇ يېزىقى
+- رموز صيني
+- كتابة شينوية
+- مقاطع صينية
+- پیتی چینی
+- چيني رسم الخط
+- چيني ليکنښې
+- چین یازیسی
+- چینی رسم الخط
+- چینی لپی
+- چیٖنی لِکھٲرؠ نِظام
+- चिनिया लिपि
+- चीनी भावचित्र
+- চীনা অক্ষর
+- চীনা ভাৱচিত্ৰ
+- ਚੀਨੀ ਲਿਪੀ
+- சீன எழுத்துமுறை
+- చైనీస్ లిపి
+- ചൈനീസ് അക്ഷരം
+- චීන අක්ෂර
+- อักษรจีน
+- ຕົວອັກສອນຈີນ
+- རྒྱ་ཡིག་
+- တရုတ်စာလုံး
+- ჩინური დამწერლობა
+- ჩინური ჭარალუა
+- የቻይና ጽሕፈት
+- អក្សរចិន
+- ᠨᡳᡴᠠᠨ ᡥᡝᡵᡤᡝᠨ
+- ⴰⴳⵎⵎⴰⵢ ⴰⵛⵉⵏⵡⵉ
+- 字
+- 汉字
+- 漢字
+- ꯈꯥꯀꯤ ꯃꯌꯦꯛ
+- 한자
 ---
-
-
 # [[Sinogram]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sinograms,8201|WD~Sinograms,8201]]  

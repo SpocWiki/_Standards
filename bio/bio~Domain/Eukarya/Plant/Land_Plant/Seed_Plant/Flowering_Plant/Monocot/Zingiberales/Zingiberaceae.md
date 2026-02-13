@@ -1,15 +1,64 @@
 ---
 aliases:
+- Bhângsa:Zingiberaceae
+- Engifersætt
+- Famîleya kakule û zerdeçalan
+- gemberfamilie
+- gyömbérfélék
+- Họ Gừng
+- Imbieriniai
+- Imbirowate
+- Ingefeerplaanten
+- Ingefärsväxter
+- Ingefær-familien
+- Ingefærfamilien
+- Ingveraugu dzimta
+- Ingverilised
+- ingverjevke
+- Ingwergewächse
+- inkiväärikasvit
+- Jumbjerowe rostliny
+- Zencefilgiller
+- Zingiberaceae
+- zingiberàcies
+- Zingibracoj
+- zázvorníkovité
+- Zəncəfilkimilər
+- ďumbierovité
+- Đumbirovke
+- ѓумбири
+- Імбірныя
+- Імбирні
+- джинджифилови
+- Жанжабілдер тұқымдасы
+- Занҷабилиҳо
+- Имбирные
+- Имбирь котыр
+- իմբիրազգիներ
+- זנגביליים
+- ادرکی
+- زنجبيلية
+- زنجبيليه
+- زنجبیلیان
+- இஞ்சிக் குடும்பம்
+- జింజిబరేసి
+- സിഞ്ചിബെറേസി
+- วงศ์ขิง
+- ჯანჯალისებრნი
+- ショウガ科
+- 姜科
+- 薑科
+- 생강과
 has_id_wikidata: Q37021
-taxonomic_type: "[[../../../../../../../../../WikiData/WD~Zingiber,163563]]"
+taxonomic_type: '[[../../../../../../../../../WikiData/WD~Zingiber,163563]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~zerumbone,110663148]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "42392"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~zerumbone,110663148]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 42392
 Commons_category: Zingiberaceae
 taxon_name: Zingiberaceae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tropical%20plant%20hilo5.jpg
@@ -18,19 +67,106 @@ EPPO_Code: 1ZINF
 MeSH_tree_code: B01.875.800.575.912.250.618.937.900
 UMLS_CUI: C0524981
 taxon_common_name:
-  - Ingefær-familien
-  - Ingwergewächse
-  - Ginger family
-  - Inkiväärikasvit
-  - Ingefærfamilien
-  - Gemberfamilie
-  - ingverjevke
-  - Ingefärsväxter
-  - วงศ์ขิง
-  - 姜科
-  - 姜科
+- Ingefær-familien
+- Ingwergewächse
+- Ginger family
+- Inkiväärikasvit
+- Ingefærfamilien
+- Gemberfamilie
+- ingverjevke
+- Ingefärsväxter
+- วงศ์ขิง
+- 姜科
+- 姜科
+dv_has_:
+  name_:
+    an: Zingiberaceae
+    ar: زنجبيلية
+    arz: زنجبيليه
+    ast: Zingiberaceae
+    az: Zəncəfilkimilər
+    be: Імбірныя
+    be-tarask: імбірныя
+    bg: джинджифилови
+    bs: Zingiberaceae
+    ca: zingiberàcies
+    ceb: Zingiberaceae
+    cs: zázvorníkovité
+    da: Ingefær-familien
+    de: Ingwergewächse
+    en: Zingiberaceae
+    eo: Zingibracoj
+    es: Zingiberaceae
+    et: Ingverilised
+    eu: Zingiberaceae
+    ext: Zingiberaceae
+    fa: زنجبیلیان
+    fi: inkiväärikasvit
+    fr: Zingiberaceae
+    frr: Ingefeerplaanten
+    ga: Zingiberaceae
+    gd: Zingiberaceae
+    gl: Zingiberaceae
+    he: זנגביליים
+    hr: Đumbirovke
+    hsb: Jumbjerowe rostliny
+    hu: gyömbérfélék
+    hy: իմբիրազգիներ
+    ia: Zingiberaceae
+    id: Zingiberaceae
+    ie: Zingiberaceae
+    io: Zingiberaceae
+    is: Engifersætt
+    it: Zingiberaceae
+    ja: ショウガ科
+    jv: Zingiberaceae
+    ka: ჯანჯალისებრნი
+    kk: Жанжабілдер тұқымдасы
+    ko: 생강과
+    koi: Имбирь котыр
+    ku: Famîleya kakule û zerdeçalan
+    kv: Имбирь котыр
+    la: Zingiberaceae
+    lt: Imbieriniai
+    lv: Ingveraugu dzimta
+    mad: Bhângsa:Zingiberaceae
+    mg: Zingiberaceae
+    mk: ѓумбири
+    ml: സിഞ്ചിബെറേസി
+    ms: Zingiberaceae
+    mul: Zingiberaceae
+    nb: Ingefærfamilien
+    nl: gemberfamilie
+    nn: ingefærfamilien
+    oc: Zingiberaceae
+    pl: Imbirowate
+    pnb: ادرکی
+    pt: Zingiberaceae
+    pt-br: Zingiberaceae
+    ro: Zingiberaceae
+    ru: Имбирные
+    sco: Zingiberaceae
+    sk: ďumbierovité
+    sl: ingverjevke
+    sq: Zingiberaceae
+    sr: Zingiberaceae
+    sv: Ingefärsväxter
+    ta: இஞ்சிக் குடும்பம்
+    te: జింజిబరేసి
+    tg: Занҷабилиҳо
+    th: วงศ์ขิง
+    tr: Zencefilgiller
+    uk: Імбирні
+    vi: Họ Gừng
+    vo: Zingiberaceae
+    war: Zingiberaceae
+    wuu: 姜科
+    yue: 薑科
+    zh: 姜科
+    zh-cn: 姜科
+    zh-hans: 姜科
+    zh-tw: 薑科
 ---
-
 # [[Zingiberaceae]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Zingiberaceae,37021]] 

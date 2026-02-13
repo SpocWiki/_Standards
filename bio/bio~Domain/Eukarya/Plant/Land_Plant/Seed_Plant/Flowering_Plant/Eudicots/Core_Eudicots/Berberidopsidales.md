@@ -1,8 +1,69 @@
 ---
 aliases:
-  - Berberidopsidales
+- Berberidopsidales
+- Berberidopsidals
+- Berberisopsaloj
+- Берберидопсисоцветные
+- بربريوسيات
+- سرخآویزسانان
+- ベルベリドプシス目
+- 智利藤目
+- 베르베리돕시스목
 title: Berberidopsidales
 has_id_wikidata: Q793205
+dv_has_:
+  name_:
+    an: Berberidopsidales
+    ar: بربريوسيات
+    arz: بربريوسيات
+    ast: Berberidopsidales
+    bg: Berberidopsidales
+    bs: Berberidopsidales
+    ca: Berberidopsidals
+    ceb: Berberidopsidales
+    cs: Berberidopsidales
+    da: Berberidopsidales
+    de: Berberidopsidales
+    en: Berberidopsidales
+    eo: Berberisopsaloj
+    es: Berberidopsidales
+    eu: Berberidopsidales
+    ext: Berberidopsidales
+    fa: سرخآویزسانان
+    fi: Berberidopsidales
+    fr: Berberidopsidales
+    frr: Berberidopsidales
+    ga: Berberidopsidales
+    gl: Berberidopsidales
+    hr: Berberidopsidales
+    hu: Berberidopsidales
+    ia: Berberidopsidales
+    id: Berberidopsidales
+    ie: Berberidopsidales
+    ilo: Berberidopsidales
+    io: Berberidopsidales
+    it: Berberidopsidales
+    ja: ベルベリドプシス目
+    ko: 베르베리돕시스목
+    ku: Berberidopsidales
+    la: Berberidopsidales
+    mul: Berberidopsidales
+    nb: Berberidopsidales
+    nl: Berberidopsidales
+    nn: Berberidopsidales
+    oc: Berberidopsidales
+    pl: Berberidopsidales
+    pt: Berberidopsidales
+    pt-br: Berberidopsidales
+    ro: Berberidopsidales
+    ru: Берберидопсисоцветные
+    sq: Berberidopsidales
+    sv: Berberidopsidales
+    uk: Berberidopsidales
+    vi: Berberidopsidales
+    vo: Berberidopsidales
+    war: Berberidopsidales
+    zh: 智利藤目
 ---
 # [[Berberidopsidales]] 
 

@@ -1,6 +1,67 @@
 ---
 aliases:
-  - Wholesale
+- atacado
+- bán buôn
+- comercio en groso
+- comerç a l'engròs
+- commerce de gros
+- didmeninė prekyba
+- engroshandel
+- groothandel
+- groscìsta
+- Grosir
+- grosistična prodaja
+- Grosshandel
+- Großhandel
+- handel hurtowy
+- Handizkari
+- Hulgimüük
+- köterme sawda
+- mayorista
+- nagykereskedelem
+- Pakyaw
+- partihandel
+- Pasar borong
+- Phi-hoat
+- Pogranda komerco
+- Shitja me shumicë
+- Topdansatış
+- Toptan ticaret
+- tukkukauppa
+- ulgurji savdo
+- vairumtirdzniecība
+- Varotra ambongadiny
+- Veleprodaja
+- velkoobchod
+- vendita all'ingrosso
+- veľkoobchod
+- Wholesale
+- wulkowikowanje
+- Χονδρική πώληση
+- аптовы гандаль
+- великопродаја
+- големопродажба
+- гуртова торгівля
+- гуртовы гандаль
+- күпләп сәүдә итү
+- көтерме сауда
+- оптовая торговля
+- Търговия на едро
+- סיטונאות
+- بيع بالجملة
+- تھوک
+- تھوک فروشی
+- عمدهفروشی
+- ٿوڪ فروش
+- পাইকারি ব্যবসা
+- ಸಗಟು ವ್ಯಾಪಾರ
+- മൊത്തക്കച്ചവടം
+- තොග වෙළෙඳාම
+- การขายส่ง
+- 卸売
+- 批发
+- 批發
+- 도매
 has_id_wikidata: Q220695
 opposite_of: '[[_Standards/WikiData/WD~retail,126793]]'
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
@@ -12,22 +73,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Birmingham%20Wholesale
 IPTC_NewsCode: mediatopic/20000255
 Commons_category: Wholesale trade
 dv_is_:
-  - same_as:
-    - path: _Standards/WikiData/WD~wholesale,220695
-      embed: false
-      type: file
-    - '[Wholesale](Wholesale)'
-    - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public)'
-    - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal)'
-    - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect)'
-    - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private)'
-    - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal)'
-    - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret)'
-  - opposite_of:
-    path: _Standards/Society/Agent/Organization/Corporation/Retail.md
-    embed: false
-    type: file
-dv_is_same_as:
+- same_as:
   - path: _Standards/WikiData/WD~wholesale,220695
     embed: false
     type: file
@@ -38,12 +84,98 @@ dv_is_same_as:
   - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private)'
   - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal)'
   - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret)'
+- opposite_of: 
+  path: _Standards/Society/Agent/Organization/Corporation/Retail.md
+  embed: false
+  type: file
+dv_is_same_as:
+- path: _Standards/WikiData/WD~wholesale,220695
+  embed: false
+  type: file
+- '[Wholesale](Wholesale)'
+- '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public)'
+- '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal)'
+- '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect)'
+- '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private)'
+- '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal)'
+- '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret)'
 dv_is_opposite_of:
   path: _Standards/Society/Agent/Organization/Corporation/Retail.md
   embed: false
   type: file
+dv_has_:
+  name_:
+    ar: بيع بالجملة
+    az: Topdansatış
+    be: аптовы гандаль
+    be-tarask: гуртовы гандаль
+    bg: Търговия на едро
+    bn: পাইকারি ব্যবসা
+    ca: comerç a l'engròs
+    ceb: Pakyaw
+    cs: velkoobchod
+    da: engroshandel
+    de: Großhandel
+    de-ch: Grosshandel
+    el: Χονδρική πώληση
+    en: wholesale
+    eo: Pogranda komerco
+    es: mayorista
+    et: Hulgimüük
+    eu: Handizkari
+    fa: عمدهفروشی
+    fi: tukkukauppa
+    fr: commerce de gros
+    gl: comercio en groso
+    he: סיטונאות
+    hsb: wulkowikowanje
+    hu: nagykereskedelem
+    id: Grosir
+    it: vendita all'ingrosso
+    ja: 卸売
+    kk: көтерме сауда
+    kk-latn: köterme sawda
+    kn: ಸಗಟು ವ್ಯಾಪಾರ
+    ko: 도매
+    lij: groscìsta
+    lt: didmeninė prekyba
+    lv: vairumtirdzniecība
+    mg: Varotra ambongadiny
+    mk: големопродажба
+    ml: മൊത്തക്കച്ചവടം
+    ms: Pasar borong
+    nan: Phi-hoat
+    nb: engroshandel
+    nl: groothandel
+    nn: engroshandel
+    pl: handel hurtowy
+    pnb: تھوک
+    pt: atacado
+    ru: оптовая торговля
+    sd: ٿوڪ فروش
+    sh: Veleprodaja
+    si: තොග වෙළෙඳාම
+    sk: veľkoobchod
+    sl: grosistična prodaja
+    sq: Shitja me shumicë
+    sr: великопродаја
+    sv: partihandel
+    th: การขายส่ง
+    tr: Toptan ticaret
+    tt: күпләп сәүдә итү
+    uk: гуртова торгівля
+    ur: تھوک فروشی
+    uz: ulgurji savdo
+    vi: bán buôn
+    yue: 批發
+    zh: 批發
+    zh-cn: 批发
+    zh-hans: 批发
+    zh-hant: 批發
+    zh-hk: 批發
+    zh-sg: 批发
+    zh-tw: 批發
 ---
-
 # [[Wholesale]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~wholesale,220695]]  

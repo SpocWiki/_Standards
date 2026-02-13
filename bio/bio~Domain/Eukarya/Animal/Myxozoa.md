@@ -1,8 +1,93 @@
 ---
 aliases:
-  - Myxozoa
+- ambil
+- Miksozooj
+- Mixozoos
+- Mixozou
+- Myksosporidiowce
+- Myxozoa
+- Myxozoer
+- nyálkaspórások
+- slimsporedyr
+- výtrusenky
+- Výtrusníky
+- Łóóʼ biyaʼ
+- Міксозоа
+- Миксоспориди
+- מיקסוזואה
+- مخاطزیان
+- مواخط
+- ミクソゾア
+- 黏体动物
+- 黏體動物
+- 점액포자충류
 title: Myxozoa
 has_id_wikidata: Q134882
+dv_has_:
+  name_:
+    af: Myxozoa
+    an: Myxozoa
+    ar: مواخط
+    arz: مواخط
+    ast: Myxozoa
+    az: Myxozoa
+    bg: Миксоспориди
+    bs: Myxozoa
+    ca: Mixozou
+    ceb: Myxozoa
+    cs: výtrusenky
+    da: Myxozoa
+    de: Myxozoa
+    en: Myxozoa
+    eo: Miksozooj
+    es: Myxozoa
+    eu: Myxozoa
+    ext: Myxozoa
+    fa: مخاطزیان
+    fi: Myxozoa
+    fr: Myxozoa
+    frr: Myxozoa
+    ga: Myxozoa
+    gl: Mixozoos
+    he: מיקסוזואה
+    hu: nyálkaspórások
+    ia: Myxozoa
+    id: ambil
+    ie: Myxozoa
+    io: Myxozoa
+    it: Myxozoa
+    ja: ミクソゾア
+    jv: ambil
+    ko: 점액포자충류
+    la: Myxozoa
+    mul: Myxozoa
+    nb: slimsporedyr
+    nl: Myxozoa
+    nn: Myxozoa
+    nv: Łóóʼ biyaʼ
+    oc: Myxozoa
+    pl: Myksosporidiowce
+    pt: Myxozoa
+    pt-br: Myxozoa
+    ro: Myxozoa
+    ru: Myxozoa
+    sk: Výtrusníky
+    sl: Myxozoa
+    sq: Myxozoa
+    sv: Myxozoer
+    tr: Myxozoa
+    uk: Міксозоа
+    uz: Myxozoa
+    vi: Myxozoa
+    vo: Myxozoa
+    war: Myxozoa
+    zh: 黏體動物
+    zh-cn: 黏体动物
+    zh-hans: 黏体动物
+    zh-hant: 黏體動物
+    zh-hk: 黏體動物
+    zh-sg: 黏体动物
+    zh-tw: 黏體動物
 ---
 # [[Myxozoa]] 
 

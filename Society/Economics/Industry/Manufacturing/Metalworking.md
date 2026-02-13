@@ -1,27 +1,77 @@
 ---
 aliases:
-  - Metallverarbeitung
-  - Metalworking
+- Gia công cơ khí
+- gwaith metel
+- indústria metal-mecânica
+- indústria metalomecânica
+- kim-sio̍k ka-kang
+- kovinarstvo
+- kovodělnictví
+- lavorazione dei metalli
+- metaalbewerking
+- metal işçiliği
+- metalarbejde
+- metalfarado
+- metalgintza
+- metalistería
+- metallarbeid
+- metallbearbetning
+- Metallintyöstö
+- metallsløyd
+- Metallverarbeitung
+- metalo apdirbimas
+- metalurgija
+- Metalworking
+- metālapstrāde
+- mexaniki emal
+- obrada metala
+- obróbka metali
+- oibriú miotail
+- pengerjaan logam
+- prelucrarea metalelor
+- travail des métaux
+- treball dels metalls
+- ötvösség
+- μεταλλοτεχνία
+- металаапрацоўка
+- металдарҙы эшкәртеү
+- металлообработка
+- металообработка
+- металообробка
+- металство
+- металургија
+- мэталаапрацоўка
+- մետաղական աշխատանք
+- עיבוד מתכת
+- صنع الأدوات المعدنية
+- فلزکاری
+- धातुकार्य
+- లోహక్రియ
+- การแปรรูปโลหะ
+- 冶金工程
+- 金属加工
+- 金工
+- 금속가공
 has_id_wikidata: Q953045
 subclass_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~material_process,104637425]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~material_process,104637425]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metalworking_terminology,6822961]]'
 part_of: '[[_Standards/WikiData/WD~manufacturing_engineering,11049265]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~metal_object,11646939]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Metalworking_navbox,12344407]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~metalworker,15980591]]'
-  - '[[_Standards/WikiData/WD~Precision_tools_mechanic,58582219]]'
+- '[[_Standards/WikiData/WD~metalworker,15980591]]'
+- '[[_Standards/WikiData/WD~Precision_tools_mechanic,58582219]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~metal,11426]]'
 uses:
-  - '[[_Standards/WikiData/WD~metal,11426]]'
-  - '[[_Standards/WikiData/WD~machine_tool,19768]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~machine_tool,19768]]'
 Dewey_Decimal_Classification: 671
 ISCO_88_occupation_class: 8122
 subreddit: metalworking
@@ -29,8 +79,71 @@ social_media_followers: 442101
 U_S_National_Archives_Identifier: 10644491
 Commons_category: Metalworking
 UNSPSC_Code: 73121613
+dv_has_:
+  name_:
+    af: metaalbewerking
+    ar: صنع الأدوات المعدنية
+    ast: metalistería
+    az: mexaniki emal
+    ba: металдарҙы эшкәртеү
+    be: металаапрацоўка
+    be-tarask: мэталаапрацоўка
+    bg: металообработка
+    ca: treball dels metalls
+    cs: kovodělnictví
+    cy: gwaith metel
+    da: metalarbejde
+    de: Metallverarbeitung
+    el: μεταλλοτεχνία
+    en: metalworking
+    eo: metalfarado
+    es: metalistería
+    eu: metalgintza
+    fa: فلزکاری
+    fi: Metallintyöstö
+    fr: travail des métaux
+    ga: oibriú miotail
+    he: עיבוד מתכת
+    hi: धातुकार्य
+    hr: obrada metala
+    hu: ötvösség
+    hy: մետաղական աշխատանք
+    id: pengerjaan logam
+    it: lavorazione dei metalli
+    ja: 金属加工
+    ko: 금속가공
+    lt: metalo apdirbimas
+    lv: metālapstrāde
+    lzh: 金工
+    mk: металство
+    nan: kim-sio̍k ka-kang
+    nb: metallarbeid
+    nl: metaalbewerking
+    nn: metallsløyd
+    pl: obróbka metali
+    pt: indústria metalomecânica
+    pt-br: indústria metal-mecânica
+    ro: prelucrarea metalelor
+    ru: металлообработка
+    sh: obrada metala
+    sl: kovinarstvo
+    sr: металургија
+    sr-ec: металургија
+    sr-el: metalurgija
+    sv: metallbearbetning
+    te: లోహక్రియ
+    th: การแปรรูปโลหะ
+    tr: metal işçiliği
+    uk: металообробка
+    ur: فلزکاری
+    vi: Gia công cơ khí
+    yue: 金工
+    zh: 金属加工
+    zh-cn: 金属加工
+    zh-hans: 冶金工程
+    zh-hant: 冶金工程
+    zh-hk: 冶金工程
 ---
-
 # [[Metalworking]] 
 
 #is_/same_as :: [[WD~Metalworking,953045]] 

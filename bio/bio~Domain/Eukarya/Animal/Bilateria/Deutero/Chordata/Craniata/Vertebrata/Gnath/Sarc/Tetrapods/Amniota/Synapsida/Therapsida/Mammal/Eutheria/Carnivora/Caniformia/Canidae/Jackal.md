@@ -1,8 +1,199 @@
 ---
 has_id_wikidata: Q125525
+dv_has_:
+  name_:
+    ar: ابن آوى
+    arz: ابن اوى
+    as: শিয়াল
+    ast: Chacal
+    az: Çaqqal
+    azb: چاقال
+    be-tarask: шакал
+    bg: чакал
+    bn: শিয়াল
+    bo: འཕར་བ།
+    br: Aourgi
+    bs: šakal
+    ca: xacal
+    ckb: چەقەڵ
+    cs: šakal
+    cv: шакал
+    da: Sjakal
+    de: Schakal
+    de-ch: Schakal
+    el: Τσακάλι
+    eml: Siacàl
+    en: jackal
+    en-ca: Jackal
+    en-gb: jackal
+    en-us: jackal
+    eo: ŝakalo
+    es: chacal
+    eu: Txakal
+    fa: شغال
+    fi: sakaali
+    fo: Sjakalur
+    fon: Gběvún
+    fr: chacal
+    ga: seacál
+    gl: Chacal
+    glk: شئال
+    he: תן
+    hi: शियार
+    hr: čagalj
+    hu: sakál
+    hy: Շնագայլ
+    id: jakal
+    io: Shakalo
+    it: sciacallo
+    ja: ジャッカル
+    kab: Uccen
+    kg: Mbulu
+    kn: ನರಿ
+    ko: 자칼
+    ks: شال
+    ku: Wawik
+    ku-arab: واوک
+    ku-latn: Wawik
+    la: Thos
+    lez: Лелевар
+    lfn: Xacal
+    ln: Mbulú
+    lt: Šakalai
+    lv: Šakālis
+    mcn: bíya᷅kkà
+    mg: Sakaly (amboadia)
+    mk: шакал
+    ml: നരി
+    mnc: ᠠᠵᡵᡥᡡ
+    mr: जंबुक
+    ms: Jakal
+    my: ခွေးအ
+    mzn: شال
+    nb: sjakal
+    ne: स्याल (प्रजाति)
+    nl: jakhals
+    oc: Chacal
+    pa: ਗਿੱਦੜ
+    pl: Szakal
+    pnb: گدڑ
+    ps: سورلنډی
+    pt: chacal
+    pt-br: Chacal
+    ro: Șacal
+    ru: шакал
+    sco: jackal
+    sd: گدڙ
+    sh: šakal
+    sk: Šakal
+    sl: šakal
+    smn: šaakaal
+    sq: Çakalli
+    sr: шакал
+    sr-ec: шакал
+    sr-el: šakal
+    sv: schakaler
+    sw: Bweha
+    ta: குள்ள நரி
+    th: แจ็กคัล
+    tl: Tsakal
+    tr: Çakal
+    uk: Шакал
+    ur: گیڈر
+    uz: Shoqol
+    vi: chó rừng
+    vro: Rõipõpini
+    war: Dyakal
+    wo: Till gi
+    wuu: 胡狼
+    yi: שאקאל
+    yue: 胡狼
+    zh: 胡狼
+    zh-cn: 胡狼
+    zh-hans: 胡狼
+    zh-hant: 胡狼
+    zh-hk: 胡狼
+    zh-sg: 胡狼
+    zh-tw: 胡狼
+aliases:
+- Aourgi
+- Bweha
+- bíya᷅kkà
+- chacal
+- chó rừng
+- Dyakal
+- Gběvún
+- jackal
+- jakal
+- jakhals
+- Mbulu
+- Mbulú
+- Rõipõpini
+- sakaali
+- Sakaly (amboadia)
+- sakál
+- Schakal
+- schakaler
+- sciacallo
+- seacál
+- Shakalo
+- Shoqol
+- Siacàl
+- sjakal
+- Sjakalur
+- Szakal
+- Thos
+- Till gi
+- Tsakal
+- Txakal
+- Uccen
+- Wawik
+- xacal
+- Çakal
+- Çakalli
+- Çaqqal
+- čagalj
+- ŝakalo
+- šaakaal
+- šakal
+- Šakalai
+- Šakālis
+- Șacal
+- Τσακάλι
+- Лелевар
+- чакал
+- шакал
+- Շնագայլ
+- שאקאל
+- תן
+- ابن آوى
+- ابن اوى
+- سورلنډی
+- شئال
+- شال
+- شغال
+- واوک
+- چاقال
+- چەقەڵ
+- گدڑ
+- گدڙ
+- گیڈر
+- जंबुक
+- शियार
+- स्याल (प्रजाति)
+- শিয়াল
+- ਗਿੱਦੜ
+- குள்ள நரி
+- ನರಿ
+- നരി
+- แจ็กคัล
+- འཕར་བ།
+- ခွေးအ
+- ᠠᠵᡵᡥᡡ
+- ジャッカル
+- 胡狼
+- 자칼
 ---
-
-
 # [[Jackal]] 
 
 #is_/same_as :: [[WD~Jackal,125525]] 

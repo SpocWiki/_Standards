@@ -1,9 +1,136 @@
 ---
 aliases:
-  - Henry William Dalgliesh Cavill
-  - Henry Cavill
-  - Cavill,Henry
+- Cavill,Henry
+- Genri Kevil
+- Henri Kavill
+- Henrijs Kevils
+- Henry Cavill
+- Henry William Dalgliesh Cavill
+- Χένρι Κάβιλ
+- Генрі Кавілл
+- Генри Кавил
+- Генри Кавилл
+- Генры Кэвел
+- Хенри Кавил
+- Հենրի Քավիլ
+- הנרי קאביל
+- هنرى كافيل
+- هنري كافيل
+- هنری کویل
+- ھێنری کارڤڵ
+- ہنری کیول
+- ہیٚنری کیوِل
+- हेनरी केभिल
+- हेनरी केविल
+- हेन्री कॅव्हिल
+- হেনরি ক্যাভিল
+- ஹென்றி கவில்
+- హెన్రీ కావిళ్ల
+- ഹെൻറി കാവിൽ
+- เฮนรี แควิลล์
+- ဟင်နရီ ကယ်လ်ဗင်
+- ჰენრი კავილი
+- ჰენრი კევილი
+- ហែនរី ខេវីល
+- ヘンリー・カヴィル
+- 亨利·卡維爾
+- 亨利·卡维尔
+- 亨利卡菲爾
+- 헨리 카빌
 has_id_wikidata: Q295498
+dv_has_:
+  name_:
+    ace: Henry Cavill
+    af: Henry Cavill
+    ar: هنري كافيل
+    arz: هنرى كافيل
+    ast: Henry Cavill
+    az: Henri Kavill
+    be: Генры Кэвел
+    bg: Хенри Кавил
+    bn: হেনরি ক্যাভিল
+    ca: Henry Cavill
+    ckb: ھێنری کارڤڵ
+    cs: Henry Cavill
+    cy: Henry Cavill
+    da: Henry Cavill
+    de: Henry Cavill
+    dty: हेनरी केभिल
+    el: Χένρι Κάβιλ
+    en: Henry Cavill
+    en-ca: Henry Cavill
+    en-gb: Henry Cavill
+    eo: Henry Cavill
+    es: Henry Cavill
+    et: Henry Cavill
+    eu: Henry Cavill
+    fa: هنری کویل
+    fi: Henry Cavill
+    fr: Henry Cavill
+    ga: Henry Cavill
+    gl: Henry Cavill
+    he: הנרי קאביל
+    hi: हेनरी केविल
+    hu: Henry Cavill
+    hy: Հենրի Քավիլ
+    id: Henry Cavill
+    is: Henry Cavill
+    it: Henry Cavill
+    ja: ヘンリー・カヴィル
+    ka: ჰენრი კავილი
+    kk: Генри Кавилл
+    kl: Henry Cavill
+    km: ហែនរី ខេវីល
+    ko: 헨리 카빌
+    ks: ہیٚنری کیوِل
+    ky: Генри Кавил
+    la: Henry Cavill
+    lt: Henry Cavill
+    lv: Henrijs Kevils
+    mai: हेनरी केभिल
+    mk: Хенри Кавил
+    ml: ഹെൻറി കാവിൽ
+    mr: हेन्री कॅव्हिल
+    ms: Henry Cavill
+    mul: Henry Cavill
+    my: ဟင်နရီ ကယ်လ်ဗင်
+    nb: Henry Cavill
+    ne: हेनरी केभिल
+    nl: Henry Cavill
+    nn: Henry Cavill
+    nrm: Henry Cavill
+    pag: Henry Cavill
+    pl: Henry Cavill
+    pt: Henry Cavill
+    pt-br: Henry Cavill
+    ro: Henry Cavill
+    ru: Генри Кавилл
+    sco: Henry Cavill
+    sh: Henry Cavill
+    sk: Henry Cavill
+    sl: Henry Cavill
+    sq: Henry Cavill
+    sr: Хенри Кавил
+    sv: Henry Cavill
+    ta: ஹென்றி கவில்
+    te: హెన్రీ కావిళ్ల
+    th: เฮนรี แควิลล์
+    tl: Henry Cavill
+    tr: Henry Cavill
+    uk: Генрі Кавілл
+    ur: ہنری کیول
+    uz: Genri Kevil
+    vi: Henry Cavill
+    wuu: 亨利·卡维尔
+    xmf: ჰენრი კევილი
+    yue: 亨利卡菲爾
+    zh: 亨利·卡维尔
+    zh-cn: 亨利·卡维尔
+    zh-hans: 亨利·卡维尔
+    zh-hant: 亨利·卡維爾
+    zh-hk: 亨利·卡維爾
+    zh-sg: 亨利·卡维尔
+    zh-tw: 亨利·卡維爾
 ---
 # [[Cavill,Henry]] 
 

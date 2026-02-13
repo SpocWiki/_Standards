@@ -1,34 +1,111 @@
 ---
 aliases:
-  - Urban planning
-  - city planning
-  - town planning
-  - Stadtplanung
-  - ''
-  - Urban_Planning
-  - Urban Planning
+- Borgarskipulagning
+- Burgrǣdung
+- byplanlegging
+- byplanlægning
+- city planning
+- cynllunio trefol
+- Destinatio urbana
+- Hirigintza
+- IMITURIRE
+- kaupunkisuunnittelu
+- Kêraozouriezh
+- linnaplaneerimine
+- miestų planavimas
+- Mipango miji
+- Pagpaplano ng lungsod
+- perancangan bandar
+- perencanaan perkotaan
+- pilsētbūvniecība
+- planeamento urbano
+- planeamiento urbanístico
+- planejament urbanístic
+- planejamento urbano
+- planiamientu urbanísticu
+- Planificacion urbana
+- planificación urbanística
+- planologie
+- pleanáil uirbeach
+- quy hoạch đô thị
+- Shaharsozlik
+- stadsplanering
+- Stadtplanung
+- strategický plán rozvoje
+- town planning
+- To͘-chhī kè-oē
+- urban plannin
+- Urban planning
+- Urbanisimu
+- urbanism
+- urbanisme
+- Urbanismo
+- urbanistica
+- Urbanistika
+- urbanističko planiranje
+- urbanistyka
+- urbanizem
+- Urban_Planning
+- urboplanado
+- várostervezés
+- Şehir planlaması
+- πολεοδομικός σχεδιασμός
+- горадабудаўніцтва
+- горадаплянаваньне
+- градостроительство
+- Градоустройство
+- гӀаланаш йахкар
+- Елді мекендерді көріктендіру
+- містобудування
+- урбанизам
+- Хот байгуулалт
+- шәһәр төзү
+- Ҡала төҙөлөшө
+- Քաղաքաշինություն
+- תכנון ערים ואזורים
+- برنامهریزی شهری
+- تخطيط حضرى
+- تخطيط عمراني
+- د ښار پلان جوړونه (ښار جوړونه)
+- شهر پلانلاماسی
+- عُمرانی منصوبہ بندی
+- پلاندانانی شاری
+- ڤرانچڠن باندر
+- नगर नियोजन
+- विकास समिती
+- নগর পরিকল্পনা
+- நிலப் பயன்பாட்டுத் திட்டமிடல்
+- పట్టణ ప్రణాళిక
+- നഗരാസൂത്രണം
+- การผังเมือง
+- ການຜັງເມືອງ
+- မြို့ကွက်ရိုက်ခြင်း
+- 城市規劃
+- 城市规划
+- 都市計画
+- 도시 계획
 has_id_wikidata: Q69883
 practiced_by:
-  - '[[_Standards/WikiData/WD~urban_planner,131062]]'
+- '[[_Standards/WikiData/WD~urban_planner,131062]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~spatial_planning,149013]]'
+- '[[_Standards/WikiData/WD~spatial_planning,149013]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~strategic_plan,3391375]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
-  - '[[_Standards/WikiData/WD~public_administration,31728]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+- '[[_Standards/WikiData/WD~public_administration,31728]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Urban_Planning,20375033]]'
 has_characteristic: '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
-  - '[[_Standards/WikiData/WD~urbanism,59950]]'
+- '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
+- '[[_Standards/WikiData/WD~urbanism,59950]]'
 part_of: '[[_Standards/WikiData/WD~urban_and_regional_planning,64808211]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~urban_design,63100]]'
+- '[[_Standards/WikiData/WD~urban_design,63100]]'
 Dewey_Decimal_Classification: 710
 Library_of_Congress_Classification:
-  - HT165.5-HT169.9
-  - K3534
+- HT165.5-HT169.9
+- K3534
 Commons_category: Urban planning
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1964-1966%20MM%20Sauriol%20et%20Desjardins%20%28fondateurs%29.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232500-29725%20ccGregor%C4%8Cre%C5%A1nar-Chris%20Kerr%20urban-planning.svg
@@ -36,13 +113,105 @@ U_S_National_Archives_Identifier: 10638025
 P8189: 987007283813505171
 UMLS_CUI: C0008866
 MeSH_tree_code:
-  - I01.880.709.202
+- I01.880.709.202
 GitHub_topic:
-  - urban-planning
+- urban-planning
 subreddit:
-  - urbanplanning
+- urbanplanning
+dv_has_:
+  name_:
+    ang: Burgrǣdung
+    ar: تخطيط عمراني
+    arz: تخطيط حضرى
+    ast: planiamientu urbanísticu
+    azb: شهر پلانلاماسی
+    ba: Ҡала төҙөлөшө
+    be: горадабудаўніцтва
+    be-tarask: горадаплянаваньне
+    bg: Градоустройство
+    bn: নগর পরিকল্পনা
+    br: Kêraozouriezh
+    bs: urbanističko planiranje
+    ca: planejament urbanístic
+    ce: гӀаланаш йахкар
+    ckb: پلاندانانی شاری
+    co: Urbanisimu
+    cs: strategický plán rozvoje
+    cy: cynllunio trefol
+    da: byplanlægning
+    de: Stadtplanung
+    el: πολεοδομικός σχεδιασμός
+    en: urban planning
+    en-gb: urban planning
+    eo: urboplanado
+    es: planeamiento urbanístico
+    et: linnaplaneerimine
+    eu: Hirigintza
+    fa: برنامهریزی شهری
+    fi: kaupunkisuunnittelu
+    fr: urbanisme
+    frp: Urbanismo
+    ga: pleanáil uirbeach
+    gl: planificación urbanística
+    he: תכנון ערים ואזורים
+    hi: नगर नियोजन
+    hr: urbanističko planiranje
+    hu: várostervezés
+    hy: Քաղաքաշինություն
+    ia: urbanistica
+    id: perencanaan perkotaan
+    is: Borgarskipulagning
+    it: urbanistica
+    ja: 都市計画
+    kk: Елді мекендерді көріктендіру
+    ko: 도시 계획
+    la: Destinatio urbana
+    lo: ການຜັງເມືອງ
+    lt: miestų planavimas
+    lv: pilsētbūvniecība
+    mk: урбанизам
+    ml: നഗരാസൂത്രണം
+    mn: Хот байгуулалт
+    mr: विकास समिती
+    ms: perancangan bandar
+    ms-arab: ڤرانچڠن باندر
+    my: မြို့ကွက်ရိုက်ခြင်း
+    nan: To͘-chhī kè-oē
+    nb: byplanlegging
+    nl: planologie
+    nn: byplanlegging
+    oc: Planificacion urbana
+    pl: urbanistyka
+    ps: د ښار پلان جوړونه (ښار جوړونه)
+    pt: planeamento urbano
+    pt-br: planejamento urbano
+    ro: urbanism
+    ru: градостроительство
+    rw: IMITURIRE
+    sco: urban plannin
+    sh: urbanističko planiranje
+    sl: urbanizem
+    sq: Urbanistika
+    sr: urbanističko planiranje
+    sv: stadsplanering
+    sw: Mipango miji
+    ta: நிலப் பயன்பாட்டுத் திட்டமிடல்
+    te: పట్టణ ప్రణాళిక
+    th: การผังเมือง
+    tl: Pagpaplano ng lungsod
+    tr: Şehir planlaması
+    tt: шәһәр төзү
+    uk: містобудування
+    ur: عُمرانی منصوبہ بندی
+    uz: Shaharsozlik
+    vi: quy hoạch đô thị
+    wuu: 城市规划
+    yue: 城市規劃
+    zh: 城市规划
+    zh-cn: 城市规划
+    zh-hant: 城市規劃
+    zh-tw: 城市規劃
 ---
-
 # [[Urban_Planning]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Urban_planning,69883|WD~Urban_planning,69883]] 

@@ -1,25 +1,163 @@
 ---
 aliases:
+- alan
+- camp
+- campo
+- campu
+- campus physicus
+- canpo
+- champ
+- câmp
+- eremu
+- Feld
+- Feldo (fiziko)
+- felt
+- field
+- fizikalıq maydan
+- fusha
+- fyzikální pole
+- fält
+- fïzïkalıq öris
+- kampo
+- kenttä
+- laukas
+- lauks
+- medan
+- pole
+- polje
+- réimse
+- sahə
+- trường
+- tér
+- ve'erze'erna'u
+- veld
+- väli
+- бусы
+- поље
+- поле
+- уй
+- Физикалық өріс
+- Ֆիզիկական դաշտեր
+- שדה
+- حقل
+- فىيزىيكالىق ٴورىس
+- ميدان
+- میدان
+- ক্ষেত্র
+- ਫੀਲਡ
+- புலம்
+- สนาม (ฟิสิกส์)
+- ფიზიკური ველი
+- 场
+- 场 (物理)
+- 場
+- 場 (物理)
+- 장
 has_id_wikidata: Q185674
 has_part_s_:
-  - "[[_Standards/WikiData/WD~electromagnetic_field,177625]]"
-  - "[[_Standards/WikiData/WD~gravitational_field,558066]]"
-  - "[[_Standards/WikiData/WD~magnetic_field,11408]]"
-  - "[[_Standards/WikiData/WD~electric_field,46221]]"
+- '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+- '[[_Standards/WikiData/WD~gravitational_field,558066]]'
+- '[[_Standards/WikiData/WD~magnetic_field,11408]]'
+- '[[_Standards/WikiData/WD~electric_field,46221]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Field,257765]]"
-  - "[[_Standards/WikiData/WD~Feld,1308884]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~Field,257765]]'
+- '[[_Standards/WikiData/WD~Feld,1308884]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~concrete_object,4406616]]"
-  - "[[_Standards/WikiData/WD~physical_substance,28732711]]"
-studied_by: "[[_Standards/WikiData/WD~physics,413]]"
-manifestation_of: "[[_Standards/WikiData/WD~function,11348]]"
-Dewey_Decimal_Classification: "530.14"
+- '[[_Standards/WikiData/WD~concrete_object,4406616]]'
+- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413]]'
+manifestation_of: '[[_Standards/WikiData/WD~function,11348]]'
+Dewey_Decimal_Classification: 530.14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20charges%20plus%20minus%20thumb.svg
 IEV_number: 102-05-12
+dv_has_:
+  name_:
+    ar: حقل
+    az: sahə
+    be: поле
+    be-tarask: поле
+    bg: поле
+    bn: ক্ষেত্র
+    ca: camp
+    cs: fyzikální pole
+    cv: уй
+    da: felt
+    de: Feld
+    en: field
+    eo: kampo
+    es: campo
+    et: väli
+    eu: eremu
+    fa: میدان
+    fi: kenttä
+    fr: champ
+    ga: réimse
+    gl: campo
+    gsw: Feld
+    he: שדה
+    hr: polje
+    hu: tér
+    hy: Ֆիզիկական դաշտեր
+    id: medan
+    io: Feldo (fiziko)
+    it: campo
+    ja: 場
+    jbo: ve'erze'erna'u
+    ka: ფიზიკური ველი
+    kaa: fizikalıq maydan
+    kk: Физикалық өріс
+    kk-arab: فىيزىيكالىق ٴورىس
+    kk-cn: فىيزىيكالىق ٴورىس
+    kk-cyrl: физикалық өріс
+    kk-kz: физикалық өріс
+    kk-latn: fïzïkalıq öris
+    kk-tr: fïzïkalıq öris
+    ko: 장
+    la: campus physicus
+    lt: laukas
+    lv: lauks
+    mk: поле
+    ms: medan
+    nb: felt
+    nl: veld
+    nn: felt
+    oc: camp
+    pa: ਫੀਲਡ
+    pl: pole
+    ps: ميدان
+    pt: campo
+    pt-br: campo
+    ro: câmp
+    ru: поле
+    scn: campu
+    sco: field
+    sh: polje
+    sk: pole
+    sl: polje
+    sq: fusha
+    sr: поље
+    sv: fält
+    ta: புலம்
+    th: สนาม (ฟิสิกส์)
+    tl: field
+    tr: alan
+    udm: бусы
+    uk: поле
+    vec: canpo
+    vi: trường
+    wuu: 场 (物理)
+    yue: 場 (物理)
+    zh: 场
+    zh-cn: 场
+    zh-hans: 场
+    zh-hant: 場
+    zh-hk: 場
+    zh-mo: 場
+    zh-my: 场
+    zh-sg: 场
+    zh-tw: 場
 ---
-
 # [[Field(Physics)]] 
 
 #is_/same_as :: [[WD~Field,185674]] 

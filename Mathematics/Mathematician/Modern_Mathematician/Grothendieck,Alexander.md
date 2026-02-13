@@ -1,8 +1,109 @@
 ---
 aliases:
-  - Alexander Grothendieck
-  - Grothendieck,Alexander
+- Aleksandrs Grotendīks
+- Alexander Grothendieck
+- Alexandre Grothendieck
+- Grothendieck,Alexander
+- Αλεξάντερ Γρότντικ
+- Александар Гротендик
+- Александр Гротендік
+- Александр Гротендик
+- Александър Гротендик
+- Аляксандар Гратэндык
+- Аляксандр Гратэндзік
+- Ալեքսանդր Գրոթենդիկ
+- אלכסנדר גרותנדיק
+- ألكسندر غروتينديك
+- الكسندر جروتينديك
+- الکساند ګروټنډیک
+- الکساندر قروتندیک
+- الکساندر گروتندیک
+- الیگزنڈر گروتھنڈیک
+- ایلیگزنڈر گروتھنڈائیک
+- আলেকজেণ্ডাৰ গ্ৰথেণ্ডিক
+- അലക്സാണ്ടർ ഗ്രൊതെൻഡിക്
+- ཨ་ལེག་ཟན་ཌར་གྷོས་རོ་ཐེན་ཌིག
+- အလက်ဇန်းဒါး ဂရိုသန်ဒိခ်
+- アレクサンドル・グロタンディーク
+- 亚历山大·格罗滕迪克
+- 亞歷山大·格羅滕迪克
+- 戈騰狄
+- 알렉산더 그로텐디크
 has_id_wikidata: Q77141
+dv_has_:
+  name_:
+    ar: ألكسندر غروتينديك
+    arz: الكسندر جروتينديك
+    as: আলেকজেণ্ডাৰ গ্ৰথেণ্ডিক
+    ast: Alexander Grothendieck
+    azb: الکساندر قروتندیک
+    be: Аляксандр Гратэндзік
+    be-tarask: Аляксандар Гратэндык
+    bg: Александър Гротендик
+    bo: ཨ་ལེག་ཟན་ཌར་གྷོས་རོ་ཐེན་ཌིག
+    ca: Alexander Grothendieck
+    cs: Alexander Grothendieck
+    cy: Alexander Grothendieck
+    da: Alexander Grothendieck
+    dag: Alexander Grothendieck
+    de: Alexander Grothendieck
+    de-ch: Alexander Grothendieck
+    el: Αλεξάντερ Γρότντικ
+    en: Alexander Grothendieck
+    en-ca: Alexander Grothendieck
+    en-gb: Alexander Grothendieck
+    eo: Alexander Grothendieck
+    es: Alexander Grothendieck
+    et: Alexander Grothendieck
+    eu: Alexander Grothendieck
+    fa: الکساندر گروتندیک
+    fi: Alexander Grothendieck
+    fr: Alexandre Grothendieck
+    ga: Alexander Grothendieck
+    gl: Alexander Grothendieck
+    he: אלכסנדר גרותנדיק
+    hr: Alexandre Grothendieck
+    hu: Alexander Grothendieck
+    hy: Ալեքսանդր Գրոթենդիկ
+    id: Alexander Grothendieck
+    it: Alexander Grothendieck
+    ja: アレクサンドル・グロタンディーク
+    ko: 알렉산더 그로텐디크
+    la: Alexander Grothendieck
+    lv: Aleksandrs Grotendīks
+    mg: Alexandre Grothendieck
+    ml: അലക്സാണ്ടർ ഗ്രൊതെൻഡിക്
+    mul: Alexander Grothendieck
+    my: အလက်ဇန်းဒါး ဂရိုသန်ဒိခ်
+    nan: Alexander Grothendieck
+    nb: Alexander Grothendieck
+    nl: Alexander Grothendieck
+    nn: Alexandre Grothendieck
+    oc: Alexander Grothendieck
+    pl: Alexander Grothendieck
+    pnb: ایلیگزنڈر گروتھنڈائیک
+    ps: الکساند ګروټنډیک
+    pt: Alexander Grothendieck
+    pt-br: Alexander Grothendieck
+    ro: Alexandre Grothendieck
+    ru: Александр Гротендик
+    scn: Alexandre Grothendieck
+    sh: Alexander Grothendieck
+    sk: Alexander Grothendieck
+    sl: Alexandre Grothendieck
+    sq: Alexander Grothendieck
+    sr: Александар Гротендик
+    sv: Alexander Grothendieck
+    tg: Александр Гротендик
+    tr: Alexandre Grothendieck
+    uk: Александр Гротендік
+    ur: الیگزنڈر گروتھنڈیک
+    uz: Alexander Grothendieck
+    vi: Alexander Grothendieck
+    yue: 戈騰狄
+    zh: 亚历山大·格罗滕迪克
+    zh-hans: 亚历山大·格罗滕迪克
+    zh-hant: 亞歷山大·格羅滕迪克
 ---
 #has_/time_/started :: 1928-03-28 
 #has_/time_/stopped :: 2014-11-13

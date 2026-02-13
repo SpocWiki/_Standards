@@ -1,11 +1,69 @@
 ---
 aliases:
-  - Extraversion
-  - Big5~Extraversion
+- Asmenybės tipas
+- Barnerakoitasun eta kanporakoitasun
+- Big5~Extraversion
+- Ekstrabersiyon at introbersiyon
+- Ekstrabersyon asin introbersyon
+- Ekstraversiya və İntroversiya
+- ekstravertiteco kaj introvertiteco
+- ekstravertnost in introvertnost
+- Ekstravertsus ja introvertsus
+- ekstraverzija i introverzija
+- Ekstroversie en introversie
+- Extraversion
+- Extraversion och introversion
+- extraversão e introversão
+- extraverze a introverze
+- Hướng nội và hướng ngoại
+- indadvendthed og udadvendthed
+- indíritheacht agus eisdíritheacht
+- introversi dan extraversi
+- introversion and extraversion
+- introversion e estroversion
+- introversion et extraversion
+- Introversion und Extraversion
+- introversione ed estroversione
+- Introversiya - ekstraversiya
+- Introversiya - ekstroversiya
+- Introversió i extraversió
+- introversión y extraversión
+- introversjon og ekstroversjon
+- introvert en extravert
+- Introvertti ja ekstrovertti
+- introverzió és extraverzió
+- Introwersja i ekstrawersja
+- içe dönüklük ve dışa dönüklük
+- Silika kadiri ya C. G. Jung
+- Întroversiyon
+- Εξωστρέφεια - εσωστρέφεια
+- Інтроверсія — екстраверсія
+- Екстраверзија и интроверзија
+- Екстравертност и интровертност
+- Интроверсия — экстраверсия
+- Էքստրավերսիա
+- מופנמות ומוחצנות
+- ئینترۆڤەرسیۆن
+- الإنطواء والإنفتاح النفسيّان
+- ایچهدؤنوکلوک و چؤلهدؤنوکلوک
+- برونگرا
+- برونگرایی و درونگرایی
+- ملنساری اور غیر ملنساری
+- ٹاس پٹأسؠ تہٕ أنٛدرٕ ہۆمَل
+- बहिर्मुखता और अंतर्मुखता
+- ਬਾਹਰਮੁਖਤਾ ਅਤੇ ਅੰਤਰਮੁਖਤਾ
+- அகமுகம் புறமுகம்
+- അന്തർമുഖത
+- ความสนใจต่อสิ่งภายนอก-ความสนใจต่อสิ่งภายใน
+- 外向度同內向度
+- 外向性と内向性
+- 外向性与内向性
+- 外向性與內向性
+- 외향성과 내향성
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -23,11 +81,79 @@ linkTitle: Extraversion
 publish: false
 publishDate: ''
 tags:
-  - Extraversion
-  - excalidraw
+- Extraversion
+- excalidraw
 title: Extraversion
 type: private_note
 has_id_wikidata: Q127588
+dv_has_:
+  name_:
+    af: Ekstroversie en introversie
+    ar: الإنطواء والإنفتاح النفسيّان
+    az: Ekstraversiya və İntroversiya
+    azb: ایچهدؤنوکلوک و چؤلهدؤنوکلوک
+    bcl: Ekstrabersyon asin introbersyon
+    bg: Екстравертност и интровертност
+    ca: Introversió i extraversió
+    cs: extraverze a introverze
+    da: indadvendthed og udadvendthed
+    de: Introversion und Extraversion
+    el: Εξωστρέφεια - εσωστρέφεια
+    en: introversion and extraversion
+    eo: ekstravertiteco kaj introvertiteco
+    es: introversión y extraversión
+    et: Ekstravertsus ja introvertsus
+    eu: Barnerakoitasun eta kanporakoitasun
+    fa: برونگرایی و درونگرایی
+    fi: Introvertti ja ekstrovertti
+    fr: introversion et extraversion
+    ga: indíritheacht agus eisdíritheacht
+    he: מופנמות ומוחצנות
+    hi: बहिर्मुखता और अंतर्मुखता
+    hr: ekstraverzija i introverzija
+    hu: introverzió és extraverzió
+    hy: Էքստրավերսիա
+    id: introversi dan extraversi
+    it: introversione ed estroversione
+    ja: 外向性と内向性
+    kaa: Introversiya - ekstroversiya
+    ko: 외향성과 내향성
+    ks: ٹاس پٹأسؠ تہٕ أنٛدرٕ ہۆمَل
+    ku: Întroversiyon
+    ku-arab: ئینترۆڤەرسیۆن
+    ku-latn: Întroversiyon
+    lt: Asmenybės tipas
+    ml: അന്തർമുഖത
+    mzn: برونگرا
+    nb: introversjon og ekstroversjon
+    nl: introvert en extravert
+    pa: ਬਾਹਰਮੁਖਤਾ ਅਤੇ ਅੰਤਰਮੁਖਤਾ
+    pl: Introwersja i ekstrawersja
+    pt: extraversão e introversão
+    ru: Интроверсия — экстраверсия
+    sl: ekstravertnost in introvertnost
+    sr: Екстраверзија и интроверзија
+    sr-ec: Екстраверзија и интроверзија
+    sr-el: Ekstraverzija i introverzija
+    sv: Extraversion och introversion
+    sw: Silika kadiri ya C. G. Jung
+    ta: அகமுகம் புறமுகம்
+    th: ความสนใจต่อสิ่งภายนอก-ความสนใจต่อสิ่งภายใน
+    tl: Ekstrabersiyon at introbersiyon
+    tr: içe dönüklük ve dışa dönüklük
+    uk: Інтроверсія — екстраверсія
+    ur: ملنساری اور غیر ملنساری
+    uz: Introversiya - ekstraversiya
+    vec: introversion e estroversion
+    vi: Hướng nội và hướng ngoại
+    yue: 外向度同內向度
+    zh: 外向性与内向性
+    zh-cn: 外向性与内向性
+    zh-hans: 外向性与内向性
+    zh-hant: 外向性與內向性
+    zh-hk: 外向性與內向性
+    zh-sg: 外向性与内向性
+    zh-tw: 外向性與內向性
 ---
 # [[Big5~X-Extraversion]] 
 

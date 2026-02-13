@@ -1,11 +1,174 @@
 ---
 aliases:
+- astronomische kalender
+- aurinkokalenteri
+- calendar solar
+- calendari solar
+- calendario solar
+- calendario solare
+- calendarium solare
+- calendier solar
+- calendrier solaire
+- calendário solar
+- całendàrio sołar
+- dương lịch
+- eguzki egutegi
+- féilire na gréine
+- güneş takvimi
+- günəş təqvimi
+- iông-le̍k
+- kalenda ya jua
+- kalendarz słoneczny
+- kalender surya
+- kalènder solar
+- nasin tenpo suno
+- pananggalan surya
+- päikesekalender
+- quyosh kalendari
+- salnameya rojê
+- saulės kalendorius
+- serrenamey roci
+- solar calendar
+- Solarkalender
+- solarni kalendar
+- solkalender
+- solárny kalendár
+- solární kalendář
+- Sonkalender
+- sončni koledar
+- suna kalendaro
+- szoláris naptár
+- takwim suria
+- tetiandro manara-masoandro
+- ηλιακό ημερολόγιο
+- аргын тоолол
+- күн жүйесінің ортақ күнтізбесі
+- слънчев календар
+- соларни календар
+- солнечный календарь
+- сонечны каляндар
+- сончев календар
+- сонячний календар
+- Тақвими офтобӣ
+- Արևային օրացույց
+- לוח שנה שמשי
+- تقويم شمسى
+- تقويم شمسي
+- سالنامەیا رۆژێ
+- سِری کیلینڈر
+- ڕۆژژمێری ھەتاوی
+- گاهشماری خورشیدی
+- सौर पंचांग
+- सौरमासाः
+- সৌর পঞ্জিকা
+- சூரிய நாட்காட்டி
+- സൗര കലണ്ടർ
+- සූර්ය දින දසුන්
+- ปฏิทินสุริยคติ
+- ສຸລິຍະຄະຕິ
+- ბჟაშ კალენდარი
+- მზის კალენდარი
+- 太陽暦
+- 阳历
+- 陽曆
+- ꯀꯣꯏꯂꯧ ꯊꯄꯥꯂꯣꯟ
+- 태양력
 has_id_wikidata: Q210953
-subclass_of: "[[_Standards/WikiData/WD~calendar,12132]]"
+subclass_of: '[[_Standards/WikiData/WD~calendar,12132]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calendario%20Solar.%20Piazza%20Vecchia.%20Bergamo-I%C3%B1aki%20Otsoa.%20CC.%20By%20ShA%20%24no-.jpg
 Commons_category: Solar calendars
+dv_has_:
+  name_:
+    af: Sonkalender
+    ar: تقويم شمسي
+    arz: تقويم شمسى
+    az: günəş təqvimi
+    be-tarask: сонечны каляндар
+    bg: слънчев календар
+    bn: সৌর পঞ্জিকা
+    bs: solarni kalendar
+    ca: calendari solar
+    ckb: ڕۆژژمێری ھەتاوی
+    cs: solární kalendář
+    de: Solarkalender
+    diq: serrenamey roci
+    el: ηλιακό ημερολόγιο
+    en: solar calendar
+    eo: suna kalendaro
+    es: calendario solar
+    et: päikesekalender
+    eu: eguzki egutegi
+    fa: گاهشماری خورشیدی
+    fi: aurinkokalenteri
+    fr: calendrier solaire
+    ga: féilire na gréine
+    gl: calendario solar
+    he: לוח שנה שמשי
+    hi: सौर पंचांग
+    hr: solarni kalendar
+    hu: szoláris naptár
+    hy: Արևային օրացույց
+    id: kalender surya
+    it: calendario solare
+    ja: 太陽暦
+    jv: pananggalan surya
+    ka: მზის კალენდარი
+    kk: күн жүйесінің ортақ күнтізбесі
+    ko: 태양력
+    ks: سِری کیلینڈر
+    ku: salnameya rojê
+    ku-arab: سالنامەیا رۆژێ
+    ku-latn: salnameya rojê
+    la: calendarium solare
+    lo: ສຸລິຍະຄະຕິ
+    lt: saulės kalendorius
+    lzh: 陽曆
+    mg: tetiandro manara-masoandro
+    mk: сончев календар
+    ml: സൗര കലണ്ടർ
+    mn: аргын тоолол
+    mni: ꯀꯣꯏꯂꯧ ꯊꯄꯥꯂꯣꯟ
+    ms: takwim suria
+    nan: iông-le̍k
+    nb: solkalender
+    nl: astronomische kalender
+    nn: solkalender
+    oc: calendier solar
+    pap: kalènder solar
+    pl: kalendarz słoneczny
+    pt: calendário solar
+    ro: calendar solar
+    ru: солнечный календарь
+    sa: सौरमासाः
+    sh: соларни календар
+    si: සූර්ය දින දසුන්
+    sk: solárny kalendár
+    sl: sončni koledar
+    sr: соларни календар
+    sr-ec: соларни календар
+    sr-el: solarni kalendar
+    sv: solkalender
+    sw: kalenda ya jua
+    ta: சூரிய நாட்காட்டி
+    tg: Тақвими офтобӣ
+    th: ปฏิทินสุริยคติ
+    tok: nasin tenpo suno
+    tr: güneş takvimi
+    uk: сонячний календар
+    uz: quyosh kalendari
+    vec: całendàrio sołar
+    vi: dương lịch
+    wuu: 阳历
+    xmf: ბჟაშ კალენდარი
+    yue: 陽曆
+    zh: 阳历
+    zh-cn: 阳历
+    zh-hans: 阳历
+    zh-hant: 陽曆
+    zh-hk: 陽曆
+    zh-sg: 阳历
+    zh-tw: 陽曆
 ---
-
 # [[Solar_Calendar]] 
 
 #is_/same_as :: [[../../WikiData/WD~Solar_calendar,210953|WD~Solar_calendar,210953]]  

@@ -1,19 +1,147 @@
 ---
 aliases:
+- alakulttuuri
+- altkültür
+- Azpikultura
+- fochultúr
+- isddiwylliant
+- Issevenadur
+- Menningarkimi
+- podkultura
+- Potkultura
+- sous-culture
+- subbudaya
+- subcultur
+- subcultura
+- subculture
+- subcultură
+- subcultuur
+- Subkultuer
+- subkultur
+- subkultura
+- subkulturo
+- subkultuur
+- Subkultúra
+- subkultūra
+- Submadaniyat
+- Submədəniyyət
+- supkultura
+- szubkultúra
+- tiểu văn hóa
+- vueʹllkulttuur
+- vyelikulttuur
+- Xer gaar
+- υποκουλτούρα
+- поткултура
+- субкултура
+- субкультура
+- Субмәдениет
+- Ենթամշակույթ
+- תת-תרבות
+- ثقافة فرعية
+- خردهفرهنگ
+- وردەفەرھەنگ
+- उपसंस्कृति
+- উপসংস্কৃতি
+- ਉੱਪ-ਸਭਿਆਚਾਰ
+- วัฒนธรรมย่อย
+- სუბკულტურა
+- サブカルチャー
+- 次文化
+- 하위문화
 has_id_wikidata: Q264965
-facet_of: "[[_Standards/WikiData/WD~social_group,874405]]"
+facet_of: '[[_Standards/WikiData/WD~social_group,874405]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q18720015,18720015]]"
-opposite_of: "[[_Standards/WikiData/WD~mainstream,18957]]"
-studied_by: "[[_Standards/WikiData/WD~sociology,21201]]"
-Dewey_Decimal_Classification: "306.1"
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18720015,18720015]]'
+opposite_of: '[[_Standards/WikiData/WD~mainstream,18957]]'
+studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+Dewey_Decimal_Classification: 306.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Goth-p1020641.jpg
 Wolfram_Language_entity_code: Entity["Concept", "Subculture::7snp8"]
 Commons_category: Subcultures
+dv_has_:
+  name_:
+    af: subkultuur
+    ar: ثقافة فرعية
+    ast: Subcultura
+    az: Submədəniyyət
+    bcl: Subkultura
+    be: субкультура
+    be-tarask: субкультура
+    bg: субкултура
+    bn: উপসংস্কৃতি
+    br: Issevenadur
+    bs: podkultura
+    ca: subcultura
+    ckb: وردەفەرھەنگ
+    cs: subkultura
+    cy: isddiwylliant
+    da: subkultur
+    de: Subkultur
+    el: υποκουλτούρα
+    en: subculture
+    en-ca: subculture
+    en-gb: subculture
+    eo: subkulturo
+    es: subcultura
+    et: subkultuur
+    eu: Azpikultura
+    fa: خردهفرهنگ
+    fi: alakulttuuri
+    fr: sous-culture
+    fy: Subkultuer
+    ga: fochultúr
+    gl: subcultura
+    he: תת-תרבות
+    hi: उपसंस्कृति
+    hr: supkultura
+    hu: szubkultúra
+    hy: Ենթամշակույթ
+    ia: Subcultura
+    id: subkultur
+    is: Menningarkimi
+    it: subcultura
+    ja: サブカルチャー
+    ka: სუბკულტურა
+    kk: Субмәдениет
+    ko: 하위문화
+    la: subcultura
+    lb: Subkultur
+    lt: subkultūra
+    lv: subkultūra
+    mk: поткултура
+    ms: subbudaya
+    nb: subkultur
+    nl: subcultuur
+    nn: subkultur
+    pa: ਉੱਪ-ਸਭਿਆਚਾਰ
+    pl: subkultura
+    pt: subcultura
+    ro: subcultură
+    ru: субкультура
+    sco: subcultur
+    sh: Potkultura
+    sk: Subkultúra
+    sl: subkultura
+    smn: vyelikulttuur
+    sms: vueʹllkulttuur
+    so: Xer gaar
+    sq: Subkultura
+    sr: поткултура
+    sv: subkultur
+    th: วัฒนธรรมย่อย
+    tr: altkültür
+    tt: субкультура
+    uk: субкультура
+    uz: Submadaniyat
+    vi: tiểu văn hóa
+    wuu: 次文化
+    yue: 次文化
+    zh: 次文化
+    zh-hant: 次文化
 ---
-
 # [[Subculture]] 
 
 #is_/same_as :: [[../../WikiData/WD~Subculture,264965|WD~Subculture,264965]]  

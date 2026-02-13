@@ -1,95 +1,200 @@
 ---
 aliases:
-  - coconut palm
-  - coconut tree
-  - Cocos nucifera
-  - Coconut_Palm
-  - Coconut Palm
-  - coconut
-  - نارگیل
-  - नारियल
-  - Coconut
-  - niu
-  - 椰子
-  - തെങ്ങ്
-  - Kokospalme
-  - Kalapa
-  - Kokosnöt
-  - Mnazi (mti)
-  - Nuu-hun
-  - มะพร้าว
-  - Hindistan cevizi
-  - Dừa
-  - 可可椰子
-  - 奶桃
-  - 椰子（椰树）
-  - 椰子壳
-  - 椰子根
-  - 椰子油
-  - 椰子浆
-  - 椰子瓤
-  - 椰根
-  - קוקוס
-  - ココナッツ
-  - Coqueiro
-  - Coco
-  - Cocotier
-  - Kelapa
-  - Kube
-  - فارسی
-  - cocotal
-  - Cocoter
-  - kokosovník ořechoplodý
-  - Kokos
-  - Néti
-  - Kokoso
-  - Cocotero
-  - Kookospalmu
-  - ololani
-  - Kokosova palma
-  - Kókuszpálma
-  - palma da cocco
-  - Riešutinė kokospalmė
-  - Кокосова палма
-  - Pokok Kelapa
-  - Iâ-á
-  - Kokosnøtt
-  - Kokospalm
-  - palma kokosowa
-  - Кокосовая пальма
-  - පොල්
-  - navadna kokosova palma
+- abinung
+- agbon
+- arra e kokosit
+- Attagara
+- Bongo
+- Buko
+- Buku
+- Cnau coco
+- cocche
+- Coco
+- coconut
+- coconut palm
+- coconut tree
+- Coconut_Palm
+- Cocos nucifera
+- cocotal
+- Cocoter
+- Cocotero
+- Cocotier
+- Coqueiro
+- Cro bainney
+- Dừa
+- gwez koko
+- Gûza hindê
+- Hindistan cevizi
+- hindístan-ğewezí
+- Ià-cī
+- Iâ-á
+- Kalapa
+- Karambia
+- Kelapa
+- kokespaum
+- kokko
+- Koko
+- Kokonas
+- kokonat
+- kokonati
+- Kokondo
+- kokonut
+- Kokos
+- Kokos palmasy
+- Kokos palması
+- kokos właściwy
+- Kokosnoss
+- Kokosnöt
+- Kokosnøtt
+- Kokoso
+- Kokosova palma
+- Kokosovník
+- kokosovník ořechoplodý
+- Kokosowa palma
+- Kokospalm
+- kokospalma
+- Kokospalme
+- Kokospualem
+- Kokotí
+- Kokoye
+- kookospalm
+- Kookospalmu
+- Kpakpa
+- Krambil
+- Kube
+- kwakwa
+- Kókoshneta
+- Kókuszpálma
+- Lubí
+- Mbokaja'a
+- Mnazi
+- Mnazi (mti)
+- Mágí bichʼiyąʼ
+- navadna kokosova palma
+- niu
+- Niyog
+- niyúg
+- nuu
+- Nuu-hun
+- Nyiur
+- Nyiwi
+- Nyuh
+- Nyèor
+- Néti
+- ohi
+- ololani
+- pailm cnó cócó
+- palma da cocco
+- Palma de coco
+- palma kokosowa
+- Palu di koko
+- Piasau
+- Pikwayu
+- Pokok Kelapa
+- Qumbe
+- Riešutinė kokospalmė
+- U
+- UmQhekezani
+- Voaniho
+- Yâ-è
+- İndistan cevizi
+- Κοκοφοίνικας
+- Гьиндусттан гьивхь
+- Далдуу мод
+- Какосавая пальма
+- Кокос пальмасы
+- Кокос пальми
+- Кокосова палма
+- кокосова пальма
+- Кокосовая пальма
+- Кокоспальмæ
+- һинд чикләвеге
+- կոկոսյան արմավենի
+- Հնդկընկոյզ
+- קאקאס
+- קוקוס
+- جوز الهند
+- جوزهند
+- خوٗپرٕ
+- فارسی
+- ناريال
+- ناريل
+- نارگیل
+- ناریل
+- گوێزی ھیندی
+- ކުރުނބާ
+- नरिवल
+- नारळ
+- नारिकेलम्
+- नारियल
+- নারিকেল
+- ਨਾਰੀਅਲ
+- નારિયેળ
+- ନଡ଼ିଆ
+- தேங்காய்
+- కొబ్బరి
+- ತಾರೆದಮರೊ
+- ತೆಂಗಿನಕಾಯಿ
+- തെങ്ങ്
+- පොල්
+- มะพร้าว
+- ນາລິກາ
+- བེ་ཏ།
+- မၢၵ်ႇဢုၼ်
+- အုန်းသီး
+- ქოქოსი
+- ኮኮነት ዘምባባ
+- ដើមដូង
+- ᥛᥣᥐᥱ ᥟᥧᥢ
+- ᱱᱟᱨᱠᱚᱲ
+- ココナッツ
+- ココヤシ
+- 可可椰子
+- 奶桃
+- 椰
+- 椰子
+- 椰子壳
+- 椰子根
+- 椰子油
+- 椰子浆
+- 椰子瓤
+- 椰子（椰树）
+- 椰根
+- 楈枒
+- ꠘꠣꠁꠇꠟ
+- ꯌꯨꯕꯤ
+- 코코야자
 has_id_wikidata: Q13187
 has_use:
-  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-  - '[[_Standards/WikiData/WD~afforestation,2384419]]'
-  - '[[_Standards/WikiData/WD~wood,287]]'
-  - '[[_Standards/WikiData/WD~fruit,1364]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
-  - '[[../../../../../../../../../WikiData/WD~fiber,161]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~afforestation,2384419]]'
+- '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~fruit,1364]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[../../../../../../../../../WikiData/WD~fiber,161]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~copra,193726]]'
-  - '[[_Standards/WikiData/WD~coconut_oil,216235]]'
-  - '[[_Standards/WikiData/WD~coconut_water,633401]]'
-  - '[[_Standards/WikiData/WD~coir,1029620]]'
-  - '[[_Standards/WikiData/WD~coconut,3342808]]'
-  - '[[_Standards/WikiData/WD~coconut_timber,5139862]]'
-  - '[[_Standards/WikiData/WD~coconut_sugar,5139861]]'
-  - '[[_Standards/WikiData/WD~Coconut_oil,11981420]]'
-  - '[[_Standards/WikiData/WD~coconut_shell,16137729]]'
-  - '[[_Standards/WikiData/WD~coconut_leaf,107564994]]'
+- '[[_Standards/WikiData/WD~copra,193726]]'
+- '[[_Standards/WikiData/WD~coconut_oil,216235]]'
+- '[[_Standards/WikiData/WD~coconut_water,633401]]'
+- '[[_Standards/WikiData/WD~coir,1029620]]'
+- '[[_Standards/WikiData/WD~coconut,3342808]]'
+- '[[_Standards/WikiData/WD~coconut_timber,5139862]]'
+- '[[_Standards/WikiData/WD~coconut_sugar,5139861]]'
+- '[[_Standards/WikiData/WD~Coconut_oil,11981420]]'
+- '[[_Standards/WikiData/WD~coconut_shell,16137729]]'
+- '[[_Standards/WikiData/WD~coconut_leaf,107564994]]'
 described_by_source:
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
-  - '[[_Standards/WikiData/WD~Q19133013,19133013]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
+- '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_13(1),112869385]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 parent_taxon: '[[_Standards/WikiData/WD~Cocos,13099531]]'
 seed_dispersal: '[[_Standards/WikiData/WD~nautochory,28772043]]'
@@ -100,9 +205,9 @@ start_time: -55000000-01-01T00:00:00Z
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
 taxon_range:
-  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-  - '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-  - '[[_Standards/WikiData/WD~Fujian,41705]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+- '[[_Standards/WikiData/WD~Fujian,41705]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 USDA_NDB_number: 12104
 ITIS_TSN: 42451
@@ -110,97 +215,279 @@ U_S_National_Archives_Identifier: 10638306
 OmegaWiki_Defined_Meaning: 1311390
 Flora_of_the_Hawaiian_Islands_URL: https://naturalhistory2.si.edu/botany/hawaiianflora/speciesdescr.cfm?genus=Cocos&species=nucifera
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%A8%E0%A8%BE%E0%A8%B0%E0%A9%80%E0%A8%85%E0%A8%B2.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Nyuh.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B1%E1%B1%A9%E1%B1%B2%E1%B1%A4%E1%B1%AD%E1%B1%9F%E1%B1%B9.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kokospalm.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-kokospalm.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%A4%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%A8%E0%A8%BE%E0%A8%B0%E0%A9%80%E0%A8%85%E0%A8%B2.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Nyuh.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B1%E1%B1%A9%E1%B1%B2%E1%B1%A4%E1%B1%AD%E1%B1%9F%E1%B1%B9.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kokospalm.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sv-kokospalm.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%A4%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1859-Martinique.web.jpg
 taxon_common_name:
-  - coconut
-  - نارگیل
-  - नारियल
-  - Coconut
-  - niu
-  - 椰子
-  - തെങ്ങ്
-  - Kokospalme
-  - coconut palm
-  - Kalapa
-  - Kokosnöt
-  - Mnazi (mti)
-  - Nuu-hun
-  - มะพร้าว
-  - Hindistan cevizi
-  - Dừa
-  - 可可椰子
-  - 奶桃
-  - 椰子（椰树）
-  - 椰子壳
-  - 椰子根
-  - 椰子油
-  - 椰子浆
-  - 椰子瓤
-  - 椰根
-  - 可可椰子
-  - 椰子
-  - קוקוס
-  - ココナッツ
-  - Coqueiro
-  - Coco
-  - Cocotier
-  - Kelapa
-  - Kube
-  - فارسی
-  - cocotal
-  - Cocoter
-  - kokosovník ořechoplodý
-  - Kokos
-  - Néti
-  - Kokoso
-  - Cocotero
-  - Kookospalmu
-  - ololani
-  - Kokosova palma
-  - Kókuszpálma
-  - palma da cocco
-  - Riešutinė kokospalmė
-  - Кокосова палма
-  - Pokok Kelapa
-  - Iâ-á
-  - Kokosnøtt
-  - Kokospalm
-  - palma kokosowa
-  - Кокосовая пальма
-  - පොල්
-  - navadna kokosova palma
-  - Кокосова палма
+- coconut
+- نارگیل
+- नारियल
+- Coconut
+- niu
+- 椰子
+- തെങ്ങ്
+- Kokospalme
+- coconut palm
+- Kalapa
+- Kokosnöt
+- Mnazi (mti)
+- Nuu-hun
+- มะพร้าว
+- Hindistan cevizi
+- Dừa
+- 可可椰子
+- 奶桃
+- 椰子（椰树）
+- 椰子壳
+- 椰子根
+- 椰子油
+- 椰子浆
+- 椰子瓤
+- 椰根
+- 可可椰子
+- 椰子
+- קוקוס
+- ココナッツ
+- Coqueiro
+- Coco
+- Cocotier
+- Kelapa
+- Kube
+- فارسی
+- cocotal
+- Cocoter
+- kokosovník ořechoplodý
+- Kokos
+- Néti
+- Kokoso
+- Cocotero
+- Kookospalmu
+- ololani
+- Kokosova palma
+- Kókuszpálma
+- palma da cocco
+- Riešutinė kokospalmė
+- Кокосова палма
+- Pokok Kelapa
+- Iâ-á
+- Kokosnøtt
+- Kokospalm
+- palma kokosowa
+- Кокосовая пальма
+- පොල්
+- navadna kokosova palma
+- Кокосова палма
 taxon_author_citation: L.
 short_name: C. nucifera
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=11043
 Australasian_Pollen_and_Spore_Atlas_Code_archived_:
-  - 13-60-1a
-  - 13-60-1b
+- 13-60-1a
+- 13-60-1b
 UNII: 245J88W96L
 Universal_Decimal_Classification:
-  - 582.511.2
-  - 634.616
+- 582.511.2
+- 634.616
 Dewey_Decimal_Classification:
-  - 584.5
-  - 634.61
+- 584.5
+- 634.61
 Krugosvet_article_archived_: biologiya/kokosovaya-palma
 EPPO_Code: CCNNU
 Commons_category: Cocos nucifera
 taxon_name: Cocos nucifera
 Commons_gallery: Cocos nucifera
 GenBank_assembly_accession_number:
-  - GCA_003604295.1
-  - GCA_006176705.1
-  - GCA_008124465.1
+- GCA_003604295.1
+- GCA_006176705.1
+- GCA_008124465.1
 NBN_System_Key: NHMSYS0021195907
+dv_has_:
+  name_:
+    ace: U
+    af: Kokospalm
+    am: ኮኮነት ዘምባባ
+    an: Cocos nucifera
+    ar: جوز الهند
+    arz: جوزهند
+    ast: Cocos nucifera
+    az: Kokos palması
+    azb: نارگیل
+    ban: Nyuh
+    bcl: Niyog
+    be: Какосавая пальма
+    be-tarask: какосавая пальма
+    bg: кокосова палма
+    bho: नारियल
+    bi: Kokonas
+    bjn: Nyiur
+    bn: নারিকেল
+    bo: བེ་ཏ།
+    br: gwez koko
+    ca: cocoter
+    cdo: Ià-cī
+    ceb: Cocos nucifera
+    ckb: گوێزی ھیندی
+    crh: İndistan cevizi
+    crh-ro: hindístan-ğewezí
+    cs: kokosovník ořechoplodý
+    cv: Кокос пальми
+    cy: Cnau coco
+    da: kokospalme
+    dag: Kpakpa
+    de: Kokospalme
+    dtp: Piasau
+    dv: ކުރުނބާ
+    el: Κοκοφοίνικας
+    en: Cocos nucifera
+    en-ca: Coconut
+    en-gb: coconut tree
+    eo: Kokoso
+    es: Cocos nucifera
+    et: kookospalm
+    eu: Kokondo
+    ext: Cocos nucifera
+    fa: نارگیل
+    fi: kookospalmu
+    fj: Niu
+    fr: cocotier
+    frr: Kokospualem
+    fy: kokospalm
+    ga: pailm cnó cócó
+    gl: Coco
+    gn: Mbokaja'a
+    gor: Bongo
+    gu: નારિયેળ
+    guc: Koko
+    gv: Cro bainney
+    ha: Attagara
+    hak: Yâ-è
+    he: קוקוס
+    hi: नारियल
+    hil: niyúg
+    hr: Kokosova palma
+    hsb: Kokosowa palma
+    ht: Kokoye
+    hu: kókuszpálma
+    hy: կոկոսյան արմավենի
+    hyw: Հնդկընկոյզ
+    ia: Palma de coco
+    iba: Nyiur
+    id: kelapa
+    ie: Cocos nucifera
+    ig: Cocos nucifera
+    io: Kokoso
+    is: Kókoshneta
+    it: Cocos nucifera
+    ja: ココヤシ
+    jv: Krambil
+    ka: ქოქოსი
+    kcg: kwakwa
+    kge: Nyiwi
+    kk: Кокос пальмасы
+    km: ដើមដូង
+    kn: ತೆಂಗಿನಕಾಯಿ
+    ko: 코코야자
+    ks: خوٗپرٕ
+    ku: Gûza hindê
+    la: Cocos nucifera
+    lb: Kokosnoss
+    lbe: Гьиндусттан гьивхь
+    li: kokespaum
+    ln: Kokotí
+    lo: ນາລິກາ
+    lt: Riešutinė kokospalmė
+    lv: kokospalma
+    lzh: 楈枒
+    mad: Nyèor
+    mai: नारियल
+    mg: Voaniho
+    mi: kokonati
+    min: Karambia
+    mk: кокосова палма
+    ml: തെങ്ങ്
+    mn: Далдуу мод
+    mni: ꯌꯨꯕꯤ
+    mr: नारळ
+    ms: kelapa
+    mt: kokonat
+    mul: Cocos nucifera
+    mwl: Coco
+    my: အုန်းသီး
+    nan: Iâ-á
+    nb: kokospalme
+    ne: नरिवल
+    nia: ohi
+    nl: kokospalm
+    nn: kokospalme
+    nv: Mágí bichʼiyąʼ
+    oc: Cocos nucifera
+    or: ନଡ଼ିଆ
+    os: Кокоспальмæ
+    pa: ਨਾਰੀਅਲ
+    pam: Buku
+    pap: Palu di koko
+    pcm: kokonut
+    pl: kokos właściwy
+    pnb: ناریل
+    ps: ناريال
+    pt: coqueiro
+    pt-br: Coqueiro
+    qu: Pikwayu
+    ro: Cocotier
+    roa-tara: cocche
+    ru: кокосовая пальма
+    sa: नारिकेलम्
+    sat: ᱱᱟᱨᱠᱚᱲ
+    sco: Coconut
+    sd: ناريل
+    sh: Kokosova palma
+    shn: မၢၵ်ႇဢုၼ်
+    si: පොල්
+    sk: Kokosovník
+    sl: navadna kokosova palma
+    so: Qumbe
+    sq: arra e kokosit
+    sr: кокосова палма
+    su: Kalapa
+    sv: kokospalm
+    sw: Mnazi
+    syl: ꠘꠣꠁꠇꠟ
+    szy: abinung
+    ta: தேங்காய்
+    tcy: ತಾರೆದಮರೊ
+    tdd: ᥛᥣᥐᥱ ᥟᥧᥢ
+    te: కొబ్బరి
+    tet: nuu
+    th: มะพร้าว
+    tk: Kokos palmasy
+    tl: Buko
+    to: Niu
+    tpi: Kokonas
+    tr: Hindistan Cevizi
+    tt: һинд чикләвеге
+    tw: Kube
+    ty: niu
+    uk: кокосова пальма
+    ur: ناریل
+    uz: Kokos
+    vi: dừa
+    vo: Cocos nucifera
+    war: Lubí
+    wo: kokko
+    wuu: 椰
+    yi: קאקאס
+    yo: agbon
+    yue: 椰子
+    zh: 椰子
+    zh-cn: 椰子
+    zh-hans: 椰子
+    zh-hant: 椰子
+    zh-tw: 椰子
+    zu: UmQhekezani
 ---
-
 # [[Coconut_Palm]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Cocos_nucifera,13187|WD~Cocos_nucifera,13187]] 

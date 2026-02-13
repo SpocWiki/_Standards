@@ -1,49 +1,318 @@
 ---
 aliases:
-  - Ziegel
-  - Brick
+- adreilu
+- Asinikan
+- Baacksteen
+- Backeschtee
+- baksteen
+- Bakstien
+- Bata
+- Batako
+- Batu bata
+- Bilíki
+- Biriky
+- Breice
+- Brica
+- Brick
+- bricsen
+- Briek
+- Brik
+- Brike
+- Brikenn
+- briko
+- brique
+- Brkikisi
+- bríce
+- cegła
+- Chng-á
+- Cien
+- cigla
+- cihla
+- Ciŏng-tàu
+- cuareło
+- cărămidă
+- diila
+- gerbish
+- Gʻisht
+- gạch
+- Keie
+- Kusasqa tika
+- kərpic
+- Ladriello
+- ladrillo
+- Ladrilyo
+- Laryo
+- Later
+- Lladriyu
+- Ma'o'hoáá'e
+- Maduni
+- mattone
+- Mauerziegel
+- maó
+- murstein
+- mursten
+- murtegel
+- opeka
+- Plints
+- Plyta
+- Préda
+- Quadrell
+- Savič
+- Simede
+- tehla
+- tellis
+- tiili
+- tijlâ
+- tijolo
+- Tofali
+- Tullë
+- Tuxlaci
+- tuğla
+- tégla
+- Ziegel
+- Zill
+- Zvidhinha
+- ķieģelis
+- ǩiirpâč
+- τούβλο
+- Агуыри
+- Кірпіш
+- Кибарчиг
+- кирбес
+- Кирпĕч
+- кирпеч
+- Кирпииччэ
+- кирпич
+- опека
+- Тиґла
+- Тухла
+- хишт
+- цегла
+- цигла
+- цэгла
+- աղյուս
+- לבנה
+- آجر
+- آجۊر
+- اِٹ
+- اینٹ
+- خښته
+- سرون
+- سیٖر
+- قرميدة
+- کرپیج
+- अपा
+- ईंट
+- ईटा
+- वीट
+- ইট
+- ਇੱਟ
+- ઈંટ
+- ଇଟା
+- செங்கல்
+- ఇటుక
+- ಇಟ್ಟಿಗೆ
+- ഇഷ്ടിക
+- ගඩොල්
+- อิฐ
+- မၢၵ်ႇဢုတ်ႇ
+- အုတ်
+- აგური
+- ანგურა
+- ጡብ
+- ᱤᱴᱟ.
+- 煉瓦
+- 砖
+- 磚
+- 벽돌
 has_id_wikidata: Q40089
 used_by:
-  - "[[_Standards/WikiData/WD~brick_stamp,198731]]"
-  - "[[_Standards/WikiData/WD~bricklayer,327321]]"
-  - "[[_Standards/WikiData/WD~construction_worker,811122]]"
+- '[[_Standards/WikiData/WD~brick_stamp,198731]]'
+- '[[_Standards/WikiData/WD~bricklayer,327321]]'
+- '[[_Standards/WikiData/WD~construction_worker,811122]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~brick,125279331]]"
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~brick,125279331]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~clinker_brick,970812]]"
-  - "[[_Standards/WikiData/WD~loam,1131303]]"
-  - "[[_Standards/WikiData/WD~clay,42302]]"
-manufacturer: "[[_Standards/WikiData/WD~brickmaker,66132353]]"
-different_from: "[[_Standards/WikiData/WD~Q94440495,94440495]]"
+- '[[_Standards/WikiData/WD~clinker_brick,970812]]'
+- '[[_Standards/WikiData/WD~loam,1131303]]'
+- '[[_Standards/WikiData/WD~clay,42302]]'
+manufacturer: '[[_Standards/WikiData/WD~brickmaker,66132353]]'
+different_from: '[[_Standards/WikiData/WD~Q94440495,94440495]]'
 Nomenclature_for_Museum_Cataloging: 49
 OmegaWiki_Defined_Meaning: 432
 Commons_gallery: Brick
 GS1_GPC_code: 10002525
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brick.jpg
 Dewey_Decimal_Classification:
-  - 624.1836
-  - 666.737
-  - 691.4
-  - 693.21
-  - 721.04421
+- 624.1836
+- 666.737
+- 691.4
+- 693.21
+- 721.04421
 Commons_category: Bricks
 exact_match:
-  - http://purl.obolibrary.org/obo/ENVO_01000475
-  - https://turkic.elegantlexicon.com/turkforms.php?form=brickbrick
-  - https://ids.clld.org/parameters/7-620
+- http://purl.obolibrary.org/obo/ENVO_01000475
+- https://turkic.elegantlexicon.com/turkforms.php?form=brickbrick
+- https://ids.clld.org/parameters/7-620
 MCN_code: 6901.00.10
 P8189: 987007282512705200
 OpenStreetMap_tag_or_key: Tag:building:material=brick
-Unicode_character: 🧱
+Unicode_character: "\U0001F9F1"
+dv_has_:
+  name_:
+    af: baksteen
+    am: ጡብ
+    an: Ladriello
+    ar: قرميدة
+    ast: Lladriyu
+    atj: Asinikan
+    az: kərpic
+    azb: کرپیج
+    ba: кирбес
+    be: цэгла
+    be-tarask: цэгла
+    bg: Тухла
+    bn: ইট
+    br: Brikenn
+    bs: Cigla
+    ca: maó
+    cdo: Ciŏng-tàu
+    ce: Кибарчиг
+    chy: Ma'o'hoáá'e
+    cs: cihla
+    cv: Кирпĕч
+    cy: bricsen
+    da: mursten
+    de: Mauerziegel
+    de-ch: Mauerziegel
+    diq: Tuxlaci
+    el: τούβλο
+    eml: Préda
+    en: brick
+    en-ca: brick
+    en-gb: brick
+    eo: briko
+    es: ladrillo
+    et: tellis
+    eu: adreilu
+    fa: آجر
+    fi: tiili
+    fj: Simede
+    fr: brique
+    fy: Bakstien
+    ga: bríce
+    gd: Breice
+    gl: ladrillo
+    glk: آجۊر
+    gu: ઈંટ
+    ha: Brick
+    he: לבנה
+    hi: ईंट
+    hr: Opeka
+    ht: Brik
+    hu: tégla
+    hy: աղյուս
+    id: Batu bata
+    io: Briko
+    it: mattone
+    ja: 煉瓦
+    jv: Bata
+    ka: აგური
+    kaa: gerbish
+    kk: Кірпіш
+    kn: ಇಟ್ಟಿಗೆ
+    ko: 벽돌
+    ks: سیٖر
+    ky: Кирпич
+    la: Later
+    lb: Zill
+    li: Briek
+    lmo: Quadrell
+    ln: Bilíki
+    lt: Plyta
+    lv: ķieģelis
+    lzh: 磚
+    mg: Biriky
+    mk: цигла
+    ml: ഇഷ്ടിക
+    mr: वीट
+    ms: batu bata
+    my: အုတ်
+    nan: Chng-á
+    nb: murstein
+    nds: Baacksteen
+    nds-nl: Keie
+    ne: ईटा
+    new: अपा
+    nl: baksteen
+    nn: Murstein
+    oc: Brica
+    or: ଇଟା
+    os: Агуыри
+    pa: ਇੱਟ
+    pdc: Backeschtee
+    pl: cegła
+    pnb: اِٹ
+    ps: خښته
+    pt: tijolo
+    pt-br: Tijolo
+    qu: Kusasqa tika
+    ro: cărămidă
+    ru: кирпич
+    rue: Тиґла
+    sah: Кирпииччэ
+    sat: ᱤᱴᱟ.
+    scn: Maduni
+    sd: سرون
+    se: diila
+    sgs: Plints
+    sh: cigla
+    shn: မၢၵ်ႇဢုတ်ႇ
+    si: ගඩොල්
+    sk: tehla
+    sl: opeka
+    smn: tijlâ
+    sms: ǩiirpâč
+    sn: Zvidhinha
+    sq: Tullë
+    sr: опека
+    sr-ec: опека
+    sr-el: opeka
+    su: Batako
+    sv: murtegel
+    sw: Tofali
+    ta: செங்கல்
+    te: ఇటుక
+    tg: хишт
+    th: อิฐ
+    tl: Laryo
+    tr: tuğla
+    tt: кирпеч
+    tw: Brkikisi
+    uk: цегла
+    ur: اینٹ
+    uz: Gʻisht
+    vec: cuareło
+    vep: Savič
+    vi: gạch
+    wa: Brike
+    war: Ladrilyo
+    wuu: 砖
+    xmf: ანგურა
+    yue: 磚
+    za: Cien
+    zh: 磚
+    zh-cn: 砖
+    zh-hans: 砖
+    zh-hant: 磚
 ---
-
 # [[Brick]] 🧱 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brick,40089|WD~Brick,40089]] 

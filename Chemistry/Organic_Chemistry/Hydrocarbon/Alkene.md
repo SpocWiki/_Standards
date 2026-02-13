@@ -1,50 +1,201 @@
 ---
 aliases:
-  - Alkene
+- ailcéin
+- Alcen
+- alceno
+- alcheni
+- alchenă
+- Alchin
+- alcène
+- Alkeen
+- alkeenid
+- alkeenit
+- alkeeʹn
+- alken
+- alkena
+- Alkenar
+- Alkenas
+- Alkene
+- Alkenet
+- Alkeni
+- Alkenlar
+- Alkenlər
+- Alkeno
+- alkenum
+- Alkiinii
+- Alkin
+- alkén
+- Alkéna
+- Alkēni
+- alqueno
+- Alquenu
+- alquè
+- Anken
+- αλκένια
+- Алкен
+- алкендер
+- Алкени
+- алкеннар
+- алкенъёс
+- алкены
+- Алкеттне
+- алькены
+- Ալկեններ
+- אלקן
+- آلکن
+- ألكين
+- ئەلکین
+- الکی ن
+- एल्कीन
+- অ্যালকিন
+- ਅਲਕੀਨ
+- ஆல்க்கீன்
+- ಆಲ್ಕೀನ್
+- ആൽക്കീൻ
+- แอลคีน
+- ອັນຄີນ
+- ალკენი
+- アルケン
+- 烯烃
+- 烯烴
+- 알켄
 has_id_wikidata: Q81406
 Commons_category: Alkenes
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~alkane,41581]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~alkane,41581]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 MeSH_tree_code: D02.455.326.271
 OmegaWiki_Defined_Meaning: 427905
 P8189: 987007546028505200
 part_of:
-  - "[[_Standards/WikiData/WD~alkene_catabolic_process,22281422]]"
-  - "[[_Standards/WikiData/WD~cellular_alkene_metabolic_process,22281421]]"
-  - "[[_Standards/WikiData/WD~alkene_biosynthetic_process,22282736]]"
-  - "[[_Standards/WikiData/WD~alkene_binding,22314559]]"
+- '[[_Standards/WikiData/WD~alkene_catabolic_process,22281422]]'
+- '[[_Standards/WikiData/WD~cellular_alkene_metabolic_process,22281421]]'
+- '[[_Standards/WikiData/WD~alkene_biosynthetic_process,22282736]]'
+- '[[_Standards/WikiData/WD~alkene_binding,22314559]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~acyclic_compound,344942]]"
-  - "[[_Standards/WikiData/WD~olefin,11797724]]"
-  - "[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alkenes,7307237]]"
+- '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
+- '[[_Standards/WikiData/WD~olefin,11797724]]'
+- '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alkenes,7307237]]'
 UNSPSC_Code: 12352002
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Alkene,81406]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene|Alkene]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public|Alkene.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal|Alkene.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect|Alkene.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private|Alkene.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal|Alkene.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret|Alkene.secret]]"
+  - '[[../../../WikiData/WD~Alkene,81406]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene|Alkene]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public|Alkene.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal|Alkene.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect|Alkene.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private|Alkene.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal|Alkene.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret|Alkene.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Alkene,81406]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene|Alkene]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public|Alkene.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal|Alkene.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect|Alkene.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private|Alkene.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal|Alkene.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret|Alkene.secret]]"
+- '[[../../../WikiData/WD~Alkene,81406]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene|Alkene]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public|Alkene.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal|Alkene.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect|Alkene.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private|Alkene.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal|Alkene.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret|Alkene.secret]]'
+dv_has_:
+  name_:
+    af: Alkeen
+    ar: ألكين
+    ast: Alquenu
+    az: Alkenlər
+    bcl: Alkeno
+    be: Алкены
+    be-tarask: алькены
+    bg: Алкен
+    bn: অ্যালকিন
+    bs: Alkeni
+    ca: alquè
+    ckb: ئەلکین
+    cs: alken
+    cy: Alcen
+    da: Alken
+    de: Alkene
+    de-ch: Alkene
+    el: αλκένια
+    en: alkene
+    en-ca: Alkene
+    en-gb: alkene
+    eo: alkeno
+    es: alqueno
+    et: alkeenid
+    eu: alkeno
+    fa: آلکن
+    fi: alkeenit
+    fj: Alkene
+    fo: Alken
+    fr: alcène
+    ga: ailcéin
+    gl: Alqueno
+    he: אלקן
+    hi: एल्कीन
+    hr: Alkeni
+    hu: alkén
+    hy: Ալկեններ
+    id: alkena
+    io: Alkeno
+    is: Alkenar
+    it: alcheni
+    ja: アルケン
+    ka: ალკენი
+    kab: Alkin
+    kk: алкендер
+    kn: ಆಲ್ಕೀನ್
+    ko: 알켄
+    ku: Alken
+    la: alkenum
+    lmo: Alchin
+    lo: ອັນຄີນ
+    lt: Alkenas
+    lv: Alkēni
+    lzh: 烯烴
+    mdf: Алкеттне
+    mk: Алкен
+    ml: ആൽക്കീൻ
+    ms: Alkena
+    nb: alken
+    nl: alkeen
+    nn: alken
+    om: Alkiinii
+    pa: ਅਲਕੀਨ
+    pl: alken
+    pt: alceno
+    pt-br: alceno
+    ro: alchenă
+    ru: алкены
+    rue: Алкены
+    se: alkena
+    sh: Alkeni
+    sk: alkén
+    sl: alken
+    sms: alkeeʹn
+    sq: Alkenet
+    sr: Алкени
+    su: Alkéna
+    sv: alken
+    ta: ஆல்க்கீன்
+    th: แอลคีน
+    tl: Alkeno
+    tr: Alken
+    tt: алкеннар
+    udm: алкенъёс
+    uk: алкен
+    ur: الکی ن
+    uz: Alkenlar
+    vi: Anken
+    war: Alkeno
+    wuu: 烯烃
+    yue: 烯烴
+    zh: 烯烃
 ---
-
 # [[Alkene]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Alkene,81406]] 

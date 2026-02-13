@@ -1,18 +1,27 @@
 ---
 aliases:
-  - Hans Emil Meyer
-  - Hannes Meyer
-  - Meyer
-  - Meyer,Hannes
+- Hannes Meyer
+- Hanness Meiers
+- Hans Emil Meyer
+- Meyer
+- Meyer,Hannes
+- Χάνες Μάγερ
+- Ханнес Майер
+- הנס מאייר
+- هانس مایر
+- هاينس ماير
+- ハンネス・マイヤー
+- 汉斯·迈耶
+- 漢斯·邁耶
 has_id_wikidata: Q123948
 occupation:
-  - '[[_Standards/WikiData/WD~urban_planner,131062]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
-  - '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~urban_planner,131062]]'
+- '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 archives_at: '[[_Standards/WikiData/WD~gta_Archives,1234473]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Lotte_Stam_Beese,2852013]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -36,11 +45,56 @@ Libris_URI: dbqtx15x5j679wp
 name_in_native_language: Hannes Meyer
 date_of_death: 1954-07-19T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hannes%20Meyer%201928.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Emil%20Meyer%20OB.F06496c%20cropped.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hannes%20Meyer%201928.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Emil%20Meyer%20OB.F06496c%20cropped.jpg
 ISNI: 0000000083628880
+dv_has_:
+  name_:
+    ar: هاينس ماير
+    arz: هاينس ماير
+    ast: Hannes Meyer
+    ca: Hannes Meyer
+    cs: Hannes Meyer
+    da: Hannes Meyer
+    de: Hannes Meyer
+    ee: Hannes Meyer
+    el: Χάνες Μάγερ
+    en: Hannes Meyer
+    es: Hannes Meyer
+    fa: هانس مایر
+    fi: Hannes Meyer
+    fr: Hannes Meyer
+    ga: Hannes Meyer
+    gl: Hannes Meyer
+    he: הנס מאייר
+    hr: Hannes Meyer
+    hu: Hannes Meyer
+    it: Hannes Meyer
+    ja: ハンネス・マイヤー
+    lv: Hanness Meiers
+    mul: Hannes Meyer
+    nb: Hannes Meyer
+    nl: Hannes Meyer
+    nn: Hannes Meyer
+    pl: Hannes Meyer
+    pt: Hannes Meyer
+    pt-br: Hannes Meyer
+    rm: Hannes Meyer
+    ru: Ханнес Майер
+    sh: Hannes Meyer
+    sk: Hannes Meyer
+    sl: Hannes Meyer
+    sq: Hannes Meyer
+    sv: Hannes Meyer
+    vi: Hannes Meyer
+    zh: 汉斯·迈耶
+    zh-cn: 汉斯·迈耶
+    zh-hans: 汉斯·迈耶
+    zh-hant: 漢斯·邁耶
+    zh-hk: 漢斯·邁耶
+    zh-sg: 汉斯·迈耶
+    zh-tw: 漢斯·邁耶
 ---
-
 # [[Meyer,Hannes]] 
 
 #is_/same_as :: [[WD~Hannes_Meyer,123948]]

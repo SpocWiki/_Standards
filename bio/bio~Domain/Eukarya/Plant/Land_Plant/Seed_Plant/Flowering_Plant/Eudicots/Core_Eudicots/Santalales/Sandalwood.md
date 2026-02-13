@@ -1,9 +1,97 @@
 ---
 aliases:
-  - Santalum
-  - Sandalwood
-  - Sandelholz
+- Candano
+- Canḍhâna
+- Cendana
+- chandan
+- drewno sandałowca
+- Gỗ đàn hương
+- legno di sandalo
+- Masonjoany
+- Sandalovina
+- Sandalwood
+- Sandelholz
+- Sandelhout
+- Sandeltre
+- Sandelträ
+- Sandlipuu
+- Santal
+- Santalo
+- santalové dřevo
+- Santalum
+- sàndal
+- sándalo
+- σανταλόξυλο
+- ароматическое сандаловое дерево
+- сандалово дрво
+- сандалово дърво
+- Сантал
+- אלגום
+- خشب الصندل
+- صندل
+- چوب صندل
+- चंदन
+- चन्दन
+- ଚନ୍ଦନ କାଠ
+- சந்தனக்கட்டை
+- గంధపుచెక్క
+- ไม้จันทน์
+- နံ့သာဖြူ
+- ᠴᡳᡴᡡᡵᠠᠨ
+- 檀木
+- 白檀
+- 단향
 has_id_wikidata: Q11122366
+dv_has_:
+  name_:
+    ar: خشب الصندل
+    bg: сандалово дърво
+    bho: चंदन
+    bjn: Cendana
+    ca: sàndal
+    cs: santalové dřevo
+    de: Sandelholz
+    de-ch: Sandelholz
+    el: σανταλόξυλο
+    en: sandalwood
+    en-ca: Sandalwood
+    en-gb: sandalwood
+    es: sándalo
+    et: Sandlipuu
+    fa: چوب صندل
+    fr: Santal
+    gu: chandan
+    he: אלגום
+    hi: sandalwood
+    hr: Sandalovina
+    id: Cendana
+    io: Santalo
+    it: legno di sandalo
+    ja: 白檀
+    ko: 단향
+    mad: Canḍhâna
+    mg: Masonjoany
+    min: Candano
+    mk: сандалово дрво
+    mnc: ᠴᡳᡴᡡᡵᠠᠨ
+    ms: Cendana
+    my: နံ့သာဖြူ
+    nb: Sandeltre
+    new: चन्दन
+    nl: Sandelhout
+    or: ଚନ୍ଦନ କାଠ
+    pl: drewno sandałowca
+    ru: ароматическое сандаловое дерево
+    sl: sandalovina
+    sr: Сандалово дрво
+    sv: Sandelträ
+    ta: சந்தனக்கட்டை
+    te: గంధపుచెక్క
+    th: ไม้จันทน์
+    uk: Сантал
+    ur: صندل
+    vi: Gỗ đàn hương
+    zh: 檀木
 ---
 ## #has_/text_of_/abstract 
 

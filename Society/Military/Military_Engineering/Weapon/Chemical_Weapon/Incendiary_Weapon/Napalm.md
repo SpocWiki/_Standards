@@ -1,19 +1,126 @@
 ---
 aliases:
+- napailm
+- napalm
+- Napalm A
+- Napalm Bombası
+- Napalma
+- Napalmas
+- Napalmi
+- Napalmo
+- napalum
+- napan
+- Napoim
+- Nâpalm
+- ναπάλμ
+- Напалм
+- Նապալմ
+- נפאלם
+- بمب ناپالم
+- نابالم
+- ناپالم
+- ناپاڵم
+- نیپام
+- നാപാം
+- นาปาล์ม
+- ナパーム弾
+- 凝固汽油弹
+- 凝固汽油彈
+- 네이팜탄
 has_id_wikidata: Q181822
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~fuel,42501]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Fieser,384156]]"
-has_use: "[[_Standards/WikiData/WD~incendiary_weapon,898389]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~fuel,42501]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Louis_Fieser,384156]]'
+has_use: '[[_Standards/WikiData/WD~incendiary_weapon,898389]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Commons_gallery: Napalm
 Commons_category: Napalm
-U_S_National_Archives_Identifier: "10645858"
-OmegaWiki_Defined_Meaning: "1197809"
+U_S_National_Archives_Identifier: 10645858
+OmegaWiki_Defined_Meaning: 1197809
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using%20napalm%20in%20Vietnam.jpg
+dv_has_:
+  name_:
+    af: Napalm
+    ar: نابالم
+    ast: Napalm
+    az: Napalm Bombası
+    bar: Napoim
+    be: Напалм
+    be-tarask: Напалм
+    bg: Напалм
+    ca: napalm
+    ckb: ناپاڵم
+    cs: napalm
+    da: Napalm
+    de: Napalm
+    el: ναπάλμ
+    eml: Nâpalm
+    en: napalm
+    eo: Napalmo
+    es: Napalm
+    et: Napalm
+    eu: Napalm
+    fa: بمب ناپالم
+    fi: napalm
+    fo: Napalm
+    fr: napalm
+    ga: napailm
+    gl: Napalm
+    he: נפאלם
+    hr: Napalm
+    hu: napalm
+    hy: Նապալմ
+    id: Napalm
+    io: Napalm
+    it: napalm
+    ja: ナパーム弾
+    kk: Напалм
+    kk-arab: ناپالم
+    kk-cn: ناپالم
+    kk-cyrl: Напалм
+    kk-kz: Напалм
+    kk-latn: Napalm
+    kk-tr: Napalm
+    ko: 네이팜탄
+    la: napalum
+    lt: Napalmas
+    mk: напалм
+    ml: നാപാം
+    ms: Napalm
+    nb: napalm
+    nl: napalm
+    nn: napalm
+    oc: Napalm
+    pl: Napalm
+    pms: Napalm
+    pnb: نیپام
+    pt: napalm
+    ro: napalm
+    ru: Напалм
+    sah: Напалм
+    sk: Napalm
+    sl: Napalm A
+    sq: Napalmi
+    sr: Napalm
+    sv: Napalm
+    tg: Напалм
+    th: นาปาล์ม
+    tl: Napalma
+    tr: napalm
+    tt: Напалм
+    uk: Напалм
+    vi: napan
+    wuu: 凝固汽油弹
+    yue: 凝固汽油彈
+    zh: 凝固汽油弹
+    zh-cn: 凝固汽油弹
+    zh-hans: 凝固汽油弹
+    zh-hant: 凝固汽油彈
+    zh-hk: 凝固汽油彈
+    zh-sg: 凝固汽油弹
+    zh-tw: 凝固汽油彈
 ---
-
 # [[Napalm]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Napalm,181822|WD~Napalm,181822]] 

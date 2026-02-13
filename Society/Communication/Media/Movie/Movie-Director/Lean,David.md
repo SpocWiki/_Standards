@@ -1,63 +1,90 @@
 ---
 aliases:
+- David Lean
+- Deivids Līns
+- Ντέιβιντ Λιν
+- Дејвид Лин
+- Девід Лін
+- Дейвид Лийн
+- Дэвід Лін
+- Дэвид Лин
+- Дэйвід Лін
+- Դևիդ Լին
+- דייוויד לין
+- ديفيد لين
+- دیوید لین
+- دەیڤد لین
+- ডেভিড লিন
+- ਡੇਵਿਡ ਲੀਨ
+- தாவீது லீன்
+- డేవిడ్ లీన్
+- ഡേവിഡ് ലീൻ
+- เดวิด ลีน
+- დევიდ ლინი
+- デヴィッド・リーン
+- 大卫·利恩
+- 大卫·连
+- 大衛·連
+- 大衛連
+- 데이비드 린
 has_id_wikidata: Q55260
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Golden_Bear,154590]]"
-  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]"
-  - "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
-  - "[[_Standards/WikiData/WD~Knight_Bachelor,833163]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
-  - "[[_Standards/WikiData/WD~Critics'_Circle_Award_for_Distinguished_Service_to_the_Arts,5186883]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]"
-place_of_death: "[[_Standards/WikiData/WD~Limehouse,123741]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- "[[_Standards/WikiData/WD~Critics'_Circle_Award_for_Distinguished_Service_to_the_Arts,5186883]]"
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+place_of_death: '[[_Standards/WikiData/WD~Limehouse,123741]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Bridge_on_the_River_Kwai,188718]]"
-  - "[[_Standards/WikiData/WD~Lawrence_of_Arabia,228186]]"
-  - "[[_Standards/WikiData/WD~Doctor_Zhivago,323827]]"
-  - "[[_Standards/WikiData/WD~Brief_Encounter,814296]]"
-  - "[[_Standards/WikiData/WD~A_Passage_to_India,1323132]]"
-cause_of_death: "[[_Standards/WikiData/WD~esophageal_cancer,372701]]"
+- '[[_Standards/WikiData/WD~The_Bridge_on_the_River_Kwai,188718]]'
+- '[[_Standards/WikiData/WD~Lawrence_of_Arabia,228186]]'
+- '[[_Standards/WikiData/WD~Doctor_Zhivago,323827]]'
+- '[[_Standards/WikiData/WD~Brief_Encounter,814296]]'
+- '[[_Standards/WikiData/WD~A_Passage_to_India,1323132]]'
+cause_of_death: '[[_Standards/WikiData/WD~esophageal_cancer,372701]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Ann_Todd,434324]]"
-  - "[[_Standards/WikiData/WD~Kay_Walsh,443284]]"
-  - http://www.wikidata.org/.well-known/genid/a730131ed6fede140735c183a3fc7dc3
-  - http://www.wikidata.org/.well-known/genid/4201b3ef582c4a90754ecdb14d8dc69a
-  - http://www.wikidata.org/.well-known/genid/43258ad5188553e14f08633947c3638a
-  - http://www.wikidata.org/.well-known/genid/dfade097cd1852fc79021abe069dfb67
-different_from: "[[_Standards/WikiData/WD~David_Lean,1175138]]"
-place_of_burial: "[[_Standards/WikiData/WD~Putney_Vale_Cemetery,2114941]]"
-place_of_birth: "[[_Standards/WikiData/WD~Croydon,2213391]]"
+- '[[_Standards/WikiData/WD~Ann_Todd,434324]]'
+- '[[_Standards/WikiData/WD~Kay_Walsh,443284]]'
+- http://www.wikidata.org/.well-known/genid/a730131ed6fede140735c183a3fc7dc3
+- http://www.wikidata.org/.well-known/genid/4201b3ef582c4a90754ecdb14d8dc69a
+- http://www.wikidata.org/.well-known/genid/43258ad5188553e14f08633947c3638a
+- http://www.wikidata.org/.well-known/genid/dfade097cd1852fc79021abe069dfb67
+different_from: '[[_Standards/WikiData/WD~David_Lean,1175138]]'
+place_of_burial: '[[_Standards/WikiData/WD~Putney_Vale_Cemetery,2114941]]'
+place_of_birth: '[[_Standards/WikiData/WD~Croydon,2213391]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-filmography: "[[_Standards/WikiData/WD~David_Lean_filmography,5236405]]"
-sibling: "[[_Standards/WikiData/WD~Edward_Tangye_Lean,5345555]]"
-educated_at: "[[_Standards/WikiData/WD~Leighton_Park_School,6519777]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~David,18057751]]"
-mother: "[[_Standards/WikiData/WD~Helena_Tangye,20405605]]"
-family_name: "[[_Standards/WikiData/WD~Lean,31205846]]"
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+filmography: '[[_Standards/WikiData/WD~David_Lean_filmography,5236405]]'
+sibling: '[[_Standards/WikiData/WD~Edward_Tangye_Lean,5345555]]'
+educated_at: '[[_Standards/WikiData/WD~Leighton_Park_School,6519777]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~David,18057751]]'
+mother: '[[_Standards/WikiData/WD~Helena_Tangye,20405605]]'
+family_name: '[[_Standards/WikiData/WD~Lean,31205846]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~The_Times,50008]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~The_Times,50008]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 1
 height: 185
 Commons_category: David Lean
@@ -66,13 +93,95 @@ date_of_death: 1991-04-16T00:00:00Z
 date_of_burial_or_cremation: 1991-04-22T00:00:00Z
 work_period_start_: 1934-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DavidLean1965.jpg
-ISNI: "0000000109364538"
+ISNI: 0000000109364538
 Plex_person_key: 5d7768286f4521001ea993d7
 Libris_URI: fcrv04hz50n4b0x
 Krugosvet_article: teatr-i-kino/lin-devid
 date_of_birth: 1908-03-25T00:00:00Z
+dv_has_:
+  name_:
+    an: David Lean
+    ar: ديفيد لين
+    arz: ديفيد لين
+    ast: David Lean
+    be: Дэвід Лін
+    be-tarask: Дэйвід Лін
+    bg: Дейвид Лийн
+    bn: ডেভিড লিন
+    bs: David Lean
+    ca: David Lean
+    ckb: دەیڤد لین
+    cs: David Lean
+    da: David Lean
+    de: David Lean
+    de-ch: David Lean
+    el: Ντέιβιντ Λιν
+    en: David Lean
+    en-ca: David Lean
+    en-gb: David Lean
+    en-us: David Lean
+    eo: David Lean
+    es: David Lean
+    eu: David Lean
+    fa: دیوید لین
+    fi: David Lean
+    fr: David Lean
+    fy: David Lean
+    ga: David Lean
+    gl: David Lean
+    he: דייוויד לין
+    hr: David Lean
+    hu: David Lean
+    hy: Դևիդ Լին
+    id: David Lean
+    is: David Lean
+    it: David Lean
+    ja: デヴィッド・リーン
+    ka: დევიდ ლინი
+    kk: Дэвид Лин
+    ko: 데이비드 린
+    lb: David Lean
+    li: David Lean
+    lt: David Lean
+    lv: Deivids Līns
+    mg: David Lean
+    ml: ഡേവിഡ് ലീൻ
+    mul: David Lean
+    nb: David Lean
+    nl: David Lean
+    nn: David Lean
+    oc: David Lean
+    pa: ਡੇਵਿਡ ਲੀਨ
+    pl: David Lean
+    pt: David Lean
+    pt-br: David Lean
+    ro: David Lean
+    ru: Дэвид Лин
+    sco: David Lean
+    sh: David Lean
+    sk: David Lean
+    sl: David Lean
+    sq: David Lean
+    sr: Дејвид Лин
+    sr-ec: Дејвид Лин
+    sv: David Lean
+    ta: தாவீது லீன்
+    te: డేవిడ్ లీన్
+    th: เดวิด ลีน
+    tr: David Lean
+    uk: Девід Лін
+    vi: David Lean
+    war: David Lean
+    wuu: 大卫·利恩
+    xmf: დევიდ ლინი
+    yue: 大衛連
+    zh: 大卫·利恩
+    zh-cn: 大卫·利恩
+    zh-hans: 大卫·利恩
+    zh-hk: 大衛·連
+    zh-my: 大卫·连
+    zh-sg: 大卫·连
 ---
-
 #is_/same_as :: [[../../../../../WikiData/WD~David_Lean,55260|WD~David_Lean,55260]]
 
 

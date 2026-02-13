@@ -1,9 +1,72 @@
 ---
 aliases:
-  - Senta Berger
-  - Senta Verhoeven
-  - Berger,Senta
+- Berger,Senta
+- Senta Berger
+- Senta Bergerová
+- Senta Verhoeven
+- Ζέντα Μπέργκερ
+- Зента Бергер
+- Сента Бергер
+- Սենտա Բերգեր
+- סנטה ברגר
+- زنتا برگر
+- سينتا بيرجر
+- センタ・バーガー
+- 姍黛·貝嘉
+- 森塔·伯格
+- 젠타 베르거
 has_id_wikidata: Q62310
+dv_has_:
+  name_:
+    ar: سينتا بيرجر
+    arz: سينتا بيرجر
+    ast: Senta Berger
+    az: Senta Berger
+    bar: Senta Berger
+    bg: Зента Бергер
+    ca: Senta Berger
+    cs: Senta Bergerová
+    da: Senta Berger
+    de: Senta Berger
+    de-at: Senta Berger
+    dsb: Senta Berger
+    el: Ζέντα Μπέργκερ
+    en: Senta Berger
+    eo: Senta Berger
+    es: Senta Berger
+    eu: Senta Berger
+    fa: زنتا برگر
+    fi: Senta Berger
+    fr: Senta Berger
+    frr: Senta Berger
+    ga: Senta Berger
+    he: סנטה ברגר
+    ht: Senta Berger
+    hu: Senta Berger
+    hy: Սենտա Բերգեր
+    it: Senta Berger
+    ja: センタ・バーガー
+    ko: 젠타 베르거
+    lb: Senta Berger
+    lt: Senta Berger
+    mul: Senta Berger
+    nb: Senta Berger
+    nds: Senta Berger
+    nl: Senta Berger
+    oc: Senta Berger
+    pap: Senta Berger
+    pl: Senta Berger
+    pt: Senta Berger
+    pt-br: Senta Berger
+    ro: Senta Berger
+    ru: Сента Бергер
+    sl: Senta Berger
+    sq: Senta Berger
+    sv: Senta Berger
+    tr: Senta Berger
+    uk: Зента Бергер
+    zh: 森塔·伯格
+    zh-hant: 姍黛·貝嘉
 ---
 #has_/spouse :: [[../../Movie-Directors/Verhoeven,Michael]] 
 #has_/time_/started :: 1941-05-13 

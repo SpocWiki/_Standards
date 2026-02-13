@@ -1,21 +1,164 @@
 ---
-has_time_started: 2000-01-01 
+has_time_started: 2000-01-01
 aliases:
+- consumentisme
+- consumerism
+- Consumerisme
+- consumisme
+- consumismo
+- consumérisme
+- Forbrugerisme
+- Forbrukarsamfunn
+- forbrukersamfunn
+- Kepenggunaan
+- konsumerism
+- konsumerisma
+- Konsumerisme
+- konsumerismi
+- konsumerismm
+- konsumerissma
+- konsumerizm
+- konsumism
+- Konsumismo
+- Konsumismus
+- Konsumizmi
+- konsumiżmu
+- Konsumpcjonizm
+- kontsumismo
+- Konzumerismus
+- Konzumerizam
+- konzumizmus
+- Neyslusamfélag
+- potrošništvo
+- Prynwriaeth
+- Siau-hùi-chú-gī
+- tomhaltachas
+- Tüketim toplumu
+- Ulaji
+- Vartotojiškumas
+- Verbruikerisme
+- Wax badsasho
+- Xã hội tiêu dùng
+- Καταναλωτισμός
+- конзумеризам
+- консюмеризм
+- Масрафгароӣ
+- Потребителска култура
+- потребительство
+- потрошуваштво
+- Գնողունակ պահանջարկ
+- תרבות הצריכה
+- بەرخۆرپەروەری
+- د مستهلک اصالت
+- صارفیت
+- مصرفگرایی
+- نزعة استهلاكية
+- भोगवाद
+- ভোগবাদ
+- ਖ਼ਪਤ ਸੱਭਿਆਚਾਰ
+- நுகர்வியம்
+- മലയാളികളുടെ ഉപഭോഗ സംസ്ക്കാരം
+- පාරිභෝගිකවාදය
+- บริโภคนิยม
+- კონსუმერიზმი
+- ụlọ ọrụ mmepụta ihe
+- 消費主義
+- 消费主义
+- 소비주의
 has_id_wikidata: Q89640
-opposite_of: "[[_Standards/WikiData/WD~anti_consumerism,1783091]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+opposite_of: '[[_Standards/WikiData/WD~anti_consumerism,1783091]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ideology,7257]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
-has_effect: "[[_Standards/WikiData/WD~waste,45701]]"
+- '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
+has_effect: '[[_Standards/WikiData/WD~waste,45701]]'
 Commons_category: Consumerism
 inception: 2000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Konsumkritiker.jpg
 IMDb_keyword: consumerism
 Wolfram_Language_entity_code: Entity["Concept", "Consumerism::tv32n"]
+dv_has_:
+  name_:
+    af: Verbruikerisme
+    ar: نزعة استهلاكية
+    az: konsumerizm
+    bcl: Konsumismo
+    bg: Потребителска култура
+    bn: ভোগবাদ
+    ca: consumisme
+    ckb: بەرخۆرپەروەری
+    cs: Konzumerismus
+    cy: Prynwriaeth
+    da: Forbrugerisme
+    de: Konsumismus
+    de-ch: Konsumismus
+    el: Καταναλωτισμός
+    en: consumerism
+    en-ca: consumerism
+    en-gb: consumerism
+    eo: konsumismo
+    es: consumismo
+    et: konsumerism
+    eu: kontsumismo
+    fa: مصرفگرایی
+    fi: konsumerismi
+    fr: consumérisme
+    ga: tomhaltachas
+    gl: Consumismo
+    he: תרבות הצריכה
+    hi: भोगवाद
+    hr: Konzumerizam
+    hu: konzumizmus
+    hy: Գնողունակ պահանջարկ
+    id: Konsumerisme
+    ig: ụlọ ọrụ mmepụta ihe
+    is: Neyslusamfélag
+    it: consumismo
+    ja: 消費主義
+    ka: კონსუმერიზმი
+    ko: 소비주의
+    lt: Vartotojiškumas
+    mk: потрошуваштво
+    ml: മലയാളികളുടെ ഉപഭോഗ സംസ്ക്കാരം
+    ms: Kepenggunaan
+    mt: konsumiżmu
+    nan: Siau-hùi-chú-gī
+    nb: forbrukersamfunn
+    nl: consumentisme
+    nn: Forbrukarsamfunn
+    oc: Consumerisme
+    pa: ਖ਼ਪਤ ਸੱਭਿਆਚਾਰ
+    pl: Konsumpcjonizm
+    ps: د مستهلک اصالت
+    pt: consumismo
+    pt-br: Consumismo
+    ro: consumerism
+    ru: потребительство
+    se: konsumerisma
+    sh: Konzumerizam
+    si: පාරිභෝගිකවාදය
+    sl: potrošništvo
+    sma: konsumerisme
+    smj: konsumerissma
+    smn: konsumerism
+    sms: konsumerismm
+    so: Wax badsasho
+    sq: Konsumizmi
+    sr: конзумеризам
+    sv: konsumism
+    sw: Ulaji
+    ta: நுகர்வியம்
+    tg: Масрафгароӣ
+    th: บริโภคนิยม
+    tr: Tüketim toplumu
+    uk: консюмеризм
+    ur: صارفیت
+    vi: Xã hội tiêu dùng
+    wuu: 消费主义
+    yue: 消費主義
+    zh: 消費主義
 ---
-
 # [[Consumerism]] 
 
 #is_/same_as :: [[WD~Consumerism,89640]] 

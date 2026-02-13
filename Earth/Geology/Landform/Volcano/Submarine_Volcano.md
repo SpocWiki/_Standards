@@ -1,34 +1,135 @@
 ---
 aliases:
+- Denizaltı volkanları
+- Gunung api bawah laut
+- Gunung berapi bawah laut
+- Hái-té hóe-soaⁿ
+- Itsaspeko sumendi
+- Izvor termal
+- merenalainen tulivuori
+- Núi lửa ngầm
+- podmorski vulkan
+- podmořská sopka
+- submara vulkano
+- submariene vulkaan
+- submarine volcano
+- Sw astı vwlkanïzmi
+- undersjøisk vulkan
+- undervattensvulkan
+- unterseeischer Vulkan
+- Volcan sosmarin
+- volcan sous-marin
+- volcà submarí
+- volcán submarino
+- Volcán submarín
+- vulcano sottomarino
+- vulcão submarino
+- wulkan podmorski
+- υποθαλάσσιο ηφαίστειο
+- Підводний вулканізм
+- падводны вулькан
+- Подводен вулкан
+- подводни вулкан
+- подводный вулкан
+- Су асты вулканизмі
+- Су асты вулканы
+- ստորջրյա հրաբուխ
+- הר געש תת-ימי
+- آتشفشان زیردریایی
+- بركان غائص
+- سۋ استى ۆۋلكانىيزمى
+- ब्रुडनव ज्वालामुखी
+- लखय् दुनेया मिगुँ
+- सागरगत ज्वालामुखी
+- ಜಲಾಂತಾರ್ಗಾಮಿ ಜ್ವಾಲಾಮುಖಿ
+- 海底火山
+- 해저화산
 has_id_wikidata: Q674775
 subclass_of:
-  - "[[_Standards/WikiData/WD~seamount,503269]]"
-  - "[[_Standards/WikiData/WD~volcano,8072]]"
-has_effect: "[[_Standards/WikiData/WD~submarine_eruption,2546109]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~seamount,503269]]'
+- '[[_Standards/WikiData/WD~volcano,8072]]'
+has_effect: '[[_Standards/WikiData/WD~submarine_eruption,2546109]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bands%20of%20glowing%20magma%20from%20submarine%20volcano.jpg
 Commons_category: Submarine volcanoes
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]"
-    - "[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]"
-    - "[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]"
+  - '[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]'
+  - '[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]'
+  - '[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]"
-  - "[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]"
-  - "[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]"
+- '[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]'
+- '[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]'
+- '[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]'
+- '[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]'
+- '[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]'
+- '[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]'
+dv_has_:
+  name_:
+    ar: بركان غائص
+    ast: Volcán submarín
+    be-tarask: падводны вулькан
+    bg: Подводен вулкан
+    ca: volcà submarí
+    cs: podmořská sopka
+    de: unterseeischer Vulkan
+    el: υποθαλάσσιο ηφαίστειο
+    en: submarine volcano
+    eo: submara vulkano
+    es: volcán submarino
+    eu: Itsaspeko sumendi
+    fa: آتشفشان زیردریایی
+    fi: merenalainen tulivuori
+    fr: volcan sous-marin
+    gl: Volcán submarino
+    he: הר געש תת-ימי
+    hi: सागरगत ज्वालामुखी
+    hr: Podmorski vulkan
+    hy: ստորջրյա հրաբուխ
+    id: Gunung api bawah laut
+    it: vulcano sottomarino
+    ja: 海底火山
+    kk: Су асты вулканизмі
+    kk-arab: سۋ استى ۆۋلكانىيزمى
+    kk-cyrl: Су асты вулканизмі
+    kk-latn: Sw astı vwlkanïzmi
+    kn: ಜಲಾಂತಾರ್ಗಾಮಿ ಜ್ವಾಲಾಮುಖಿ
+    ko: 해저화산
+    mk: Подводен вулкан
+    ms: Gunung berapi bawah laut
+    nan: Hái-té hóe-soaⁿ
+    nb: undersjøisk vulkan
+    new: लखय् दुनेया मिगुँ
+    nl: submariene vulkaan
+    nn: undersjøisk vulkan
+    oc: Volcan sosmarin
+    pl: wulkan podmorski
+    pt: vulcão submarino
+    ro: Izvor termal
+    ru: подводный вулкан
+    sa: ब्रुडनव ज्वालामुखी
+    sl: podmorski vulkan
+    sr: подводни вулкан
+    sv: undervattensvulkan
+    tr: Denizaltı volkanları
+    tt: Су асты вулканы
+    uk: Підводний вулканізм
+    vi: Núi lửa ngầm
+    wuu: 海底火山
+    yue: 海底火山
+    zh: 海底火山
+    zh-hans: 海底火山
+    zh-hant: 海底火山
+    zh-hk: 海底火山
+    zh-tw: 海底火山
 ---
-
 # [[Submarine_Volcano]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]  

@@ -1,30 +1,143 @@
 ---
 aliases:
+- lepton tau
+- leptó tau
+- taon
+- taonas
+- tau
+- Tau (particula)
+- tau daļiņa
+- tau lepton
+- tau-lepton
+- tau-čestica
+- tauon
+- tauone
+- Tauono
+- Tauonu
+- tauón
+- taŭono
+- táeind
+- tóón
+- τ-Lepton
+- ταυ λεπτόνιο
+- Τ子
+- таў-лептон
+- таон
+- тау лептон
+- тау-лептон
+- տաու
+- טאו
+- تاو
+- تاوون
+- ٹاؤ لپٹن
+- टाऊ
+- টাউ
+- ਟਾਓ
+- தாவ் (துகள்)
+- ტაონი (ნაწილაკი)
+- タウ粒子
+- 타우 입자
 has_id_wikidata: Q188392
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Martin_Lewis_Perl,107416]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Martin_Lewis_Perl,107416]]'
 different_from:
-  - "[[_Standards/WikiData/WD~tau_neutrino,306600]]"
-  - "[[_Standards/WikiData/WD~Tourist_Association_of_Ukraine,20978734]]"
+- '[[_Standards/WikiData/WD~tau_neutrino,306600]]'
+- '[[_Standards/WikiData/WD~Tourist_Association_of_Ukraine,20978734]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-antiparticle: "[[_Standards/WikiData/WD~antitau,2172777]]"
-has_superpartner: "[[_Standards/WikiData/WD~stauon,18732794]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~antitau,2172777]]'
+has_superpartner: '[[_Standards/WikiData/WD~stauon,18732794]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~charged_lepton,94535579]]"
-  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
-follows: "[[_Standards/WikiData/WD~muon,3151]]"
+- '[[_Standards/WikiData/WD~charged_lepton,94535579]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+follows: '[[_Standards/WikiData/WD~muon,3151]]'
 electric_charge: -1
 spin_quantum_number: 0.5
-Monte_Carlo_Particle_Number: "15"
+Monte_Carlo_Particle_Number: 15
 half_life: 201.4
 mean_lifetime: 2.903e-13
 mass: 1776.86
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman%20diagram%20of%20decay%20of%20tau%20lepton.svg
+dv_has_:
+  name_:
+    af: tau
+    ar: تاوون
+    as: টাউ
+    be: тау-лептон
+    be-tarask: таў-лептон
+    bg: таон
+    br: tauon
+    bs: tau-čestica
+    ca: leptó tau
+    co: Tauonu
+    cs: tauon
+    da: tauon
+    de: τ-Lepton
+    el: ταυ λεπτόνιο
+    en: tau
+    en-ca: Tau
+    en-gb: Tau
+    eo: taŭono
+    es: tau
+    eu: tau
+    fa: تاو
+    fi: tau
+    fr: tauon
+    ga: tóón
+    gl: tauón
+    he: טאו
+    hi: टाऊ
+    hr: tau lepton
+    hu: tau-lepton
+    hy: տաու
+    id: tau
+    io: Tauono
+    is: táeind
+    it: tauone
+    ja: タウ粒子
+    ka: ტაონი (ნაწილაკი)
+    ko: 타우 입자
+    la: tauon
+    li: tau
+    lt: taonas
+    lv: tau daļiņa
+    mk: тау-лептон
+    ms: lepton tau
+    nb: tau
+    nds: Tau-Lepton
+    nl: tau
+    nn: tau-lepton
+    oc: Tau (particula)
+    pa: ਟਾਓ
+    pl: taon
+    pnb: ٹاؤ لپٹن
+    pt: tau
+    pt-br: Tau
+    ru: тау-лептон
+    sh: Tauon
+    sk: tauón
+    sl: lepton tau
+    sr: тау лептон
+    sr-ec: тау лептон
+    sr-el: tau lepton
+    sv: tau-lepton
+    ta: தாவ் (துகள்)
+    tl: tau
+    tr: tau
+    uk: тау-лептон
+    vi: tauon
+    war: tau
+    yue: Τ子
+    zh: τ子
+    zh-cn: τ子
+    zh-hans: τ子
+    zh-hant: τ子
+    zh-hk: τ子
+    zh-sg: τ子
+    zh-tw: τ子
 ---
-
 # [[Tau_Lepton]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tau,188392|WD~Tau,188392]]  

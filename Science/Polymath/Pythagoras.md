@@ -1,67 +1,143 @@
 ---
 aliases:
-  - Pythagoras of Samos
-  - Pythagoras
+- Paayitaagoras
+- Paitagorat
+- Payisoggolaasi
+- Pifagor
+- Pifaqor
+- Pisagor
+- Pitagora
+- Pitagoras
+- Pitagoro
+- Pitagors
+- Pitagoru
+- Pitaguras
+- Pitagòras
+- Pithagoras
+- Pitàgora
+- Pitàgores
+- Pitàgura
+- Pitágora
+- Pitágoras
+- Pitágores
+- Pytagoras
+- Pytagoras zo Samu
+- Pythagoras
+- Pythagoras of Samos
+- Pythagoras vo Samos
+- Pythagoras vu Samos
+- Pythagore
+- Pythagorus
+- Píotágarás
+- Pîtagoras
+- Püthagoras
+- Püthagorasz
+- Pýþagóras
+- Pėtaguors
+- Πυθαγόρας
+- Пітагор
+- Піфагор
+- Питагор
+- Питагора
+- Пифагор
+- Պյութագորաս
+- פיטאגאראס
+- פיתגורס
+- بيثاجوراس
+- فيثاغورث
+- فيثاغورس
+- فیثاغورث
+- فیثاغورس
+- پئٿاگورس
+- پيتاګورس
+- پيطاݣوراس
+- پیتاگوراس
+- پیتاگۆرس
+- ڤيثاݢورس
+- ߔߌߕߊߜ߭ߐߙ
+- पाइथागोरस
+- पायथागोरस
+- पैथागोरस्
+- পাইথাগ’ৰাছ
+- পিথাগোরাস
+- ਪਾਈਥਾਗੋਰਸ
+- પાયથાગોરસ
+- பித்தாகரஸ்
+- పైథాగరస్
+- ಪೈಥಾಗರಸ್
+- പൈതഗോറസ്
+- පෛතගරස්
+- พีทาโกรัส
+- ཕའེ་ཐ་གྷོ་ར་ཟི།
+- ပိုက်သဂိုးရပ်(Pythagoras)
+- ပိုက်သာဂိုးရပ်စ်
+- პითაგორა
+- ፓይታጎረስ
+- ⴱⵉⵜⴰⴳⵓⵔⴰⵙ
+- ピタゴラス
+- 毕达哥拉斯
+- 畢達哥拉斯
+- 피타고라스
 has_id_wikidata: Q10261
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 student:
-  - '[[_Standards/WikiData/WD~Empedocles,83375]]'
-  - '[[_Standards/WikiData/WD~Philolaus,212338]]'
-  - '[[_Standards/WikiData/WD~Arignote,1996241]]'
+- '[[_Standards/WikiData/WD~Empedocles,83375]]'
+- '[[_Standards/WikiData/WD~Philolaus,212338]]'
+- '[[_Standards/WikiData/WD~Arignote,1996241]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Platonic_solid,188745]]'
-  - '[[_Standards/WikiData/WD~Pythagorean_triple,208225]]'
-  - '[[_Standards/WikiData/WD~Pythagorean_theorem,11518]]'
+- '[[_Standards/WikiData/WD~Platonic_solid,188745]]'
+- '[[_Standards/WikiData/WD~Pythagorean_triple,208225]]'
+- '[[_Standards/WikiData/WD~Pythagorean_theorem,11518]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Pythagoreanism,191359]]'
 movement:
-  - '[[_Standards/WikiData/WD~Pythagoreanism,191359]]'
-  - '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
+- '[[_Standards/WikiData/WD~Pythagoreanism,191359]]'
+- '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
 spouse: '[[_Standards/WikiData/WD~Theano,235426]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Pythagoras,299716]]'
-  - '[[_Standards/WikiData/WD~Pythagoras_of_Samos,10350135]]'
-  - '[[_Standards/WikiData/WD~Pseudo_Pythagoras,110323173]]'
+- '[[_Standards/WikiData/WD~Pythagoras,299716]]'
+- '[[_Standards/WikiData/WD~Pythagoras_of_Samos,10350135]]'
+- '[[_Standards/WikiData/WD~Pseudo_Pythagoras,110323173]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-  - '[[_Standards/WikiData/WD~Lives_and_Opinions_of_Eminent_Philosophers,1282359]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Biographie_universelle_ancienne_et_moderne,19135495]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Lives_and_Opinions_of_Eminent_Philosophers,1282359]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Biographie_universelle_ancienne_et_moderne,19135495]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Pherecydes_of_Syros,311485]]'
-  - '[[_Standards/WikiData/WD~Hermodamas,3134245]]'
-  - '[[_Standards/WikiData/WD~Thales,36303]]'
-  - '[[_Standards/WikiData/WD~Anaximander,42458]]'
-  - '[[_Standards/WikiData/WD~Themistoclea,44912]]'
+- '[[_Standards/WikiData/WD~Pherecydes_of_Syros,311485]]'
+- '[[_Standards/WikiData/WD~Hermodamas,3134245]]'
+- '[[_Standards/WikiData/WD~Thales,36303]]'
+- '[[_Standards/WikiData/WD~Anaximander,42458]]'
+- '[[_Standards/WikiData/WD~Themistoclea,44912]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Pherecydes_of_Syros,311485]]'
-  - '[[_Standards/WikiData/WD~Zoroaster,35811]]'
-  - '[[_Standards/WikiData/WD~Thales,36303]]'
-  - '[[_Standards/WikiData/WD~Anaximander,42458]]'
+- '[[_Standards/WikiData/WD~Pherecydes_of_Syros,311485]]'
+- '[[_Standards/WikiData/WD~Zoroaster,35811]]'
+- '[[_Standards/WikiData/WD~Thales,36303]]'
+- '[[_Standards/WikiData/WD~Anaximander,42458]]'
 child:
-  - '[[_Standards/WikiData/WD~Damo,451719]]'
-  - '[[_Standards/WikiData/WD~Myia,456560]]'
-  - '[[_Standards/WikiData/WD~Mnesarchus,1178104]]'
-  - '[[_Standards/WikiData/WD~Arignote,1996241]]'
-  - '[[_Standards/WikiData/WD~Telauges,3982722]]'
+- '[[_Standards/WikiData/WD~Damo,451719]]'
+- '[[_Standards/WikiData/WD~Myia,456560]]'
+- '[[_Standards/WikiData/WD~Mnesarchus,1178104]]'
+- '[[_Standards/WikiData/WD~Arignote,1996241]]'
+- '[[_Standards/WikiData/WD~Telauges,3982722]]'
 time_period: '[[_Standards/WikiData/WD~ancient_Greek_philosophy,999259]]'
 place_of_death: '[[_Standards/WikiData/WD~Metapontum,1058770]]'
 father: '[[_Standards/WikiData/WD~Mnesarchus,2565673]]'
@@ -77,13 +153,13 @@ given_name: '[[_Standards/WikiData/WD~catacora,117487102]]'
 attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
 date_of_birth: -0582-01-01T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~music,638]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~politics,7163]]'
-  - '[[_Standards/WikiData/WD~geometry,8087]]'
-  - '[[_Standards/WikiData/WD~ethics,9465]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
 place_of_detention: '[[_Standards/WikiData/WD~Babylon,5684]]'
 residence: '[[_Standards/WikiData/WD~Crotone,6681]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -101,15 +177,192 @@ Commons_category: Pythagoras
 BHCL_UUID: 9a52f3c1-b022-44a3-9439-73e388fb13c5
 Libris_URI: qn246p680d752w2
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Pit%C3%A1goras-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Pythagoras-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Es-Pit%C3%A1goras-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Pythagoras-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=248707877
-  - http://www.digiporta.net/index.php?id=979747755
+- http://www.digiporta.net/index.php?id=248707877
+- http://www.digiporta.net/index.php?id=979747755
 ISNI: 0000000374984682
+dv_has_:
+  name_:
+    af: Pythagoras
+    am: ፓይታጎረስ
+    an: Pitagoras
+    anp: पाइथागोरस
+    ar: فيثاغورس
+    ary: پيطاݣوراس
+    arz: بيثاجوراس
+    as: পাইথাগ’ৰাছ
+    ast: Pitágores
+    awa: पाइथागोरस
+    az: Pifaqor
+    azb: فیثاغورس
+    ba: Пифагор
+    ban: Pythagoras
+    bcl: Pythagoras
+    be: Піфагор
+    be-tarask: Пітагор
+    bg: Питагор
+    bho: पाइथागोरस
+    bi: Pythagoras
+    bn: পিথাগোরাস
+    bo: ཕའེ་ཐ་གྷོ་ར་ཟི།
+    bpy: পিথাগোরাস
+    br: Pitagoras
+    bs: Pitagora
+    ca: Pitàgores
+    ckb: پیتاگۆرس
+    co: Pitagoru
+    cs: Pythagoras
+    cv: Пифагор
+    cy: Pythagoras
+    da: Pythagoras
+    de: Pythagoras
+    de-ch: Pythagoras
+    diq: Pythagoras
+    el: Πυθαγόρας
+    en: Pythagoras
+    en-ca: Pythagoras
+    en-gb: Pythagoras
+    eo: Pitagoro
+    es: Pitágoras
+    et: Pythagoras
+    eu: Pitagoras
+    ext: Pitágora
+    fa: فیثاغورس
+    fi: Pythagoras
+    fr: Pythagore
+    frr: Pythagoras
+    fy: Pytagoras
+    ga: Píotágarás
+    gan: 畢達哥拉斯
+    gcr: Pythagore
+    gd: Pythagoras
+    gl: Pitágoras
+    grc: Πυθαγόρας
+    gsw: Pythagoras vo Samos
+    gu: પાયથાગોરસ
+    ha: Pythagoras
+    hak: Pythagoras
+    he: פיתגורס
+    hi: पाइथागोरस
+    hr: Pitagora
+    hu: Püthagorasz
+    hy: Պյութագորաս
+    ia: Pythagoras
+    id: Pythagoras
+    io: Pitagoro
+    is: Pýþagóras
+    it: Pitagora
+    ja: ピタゴラス
+    jam: Pythagoras
+    jv: Pythagoras
+    ka: პითაგორა
+    kaa: Pifagor
+    kbp: Pythagorus
+    kcg: Paitagorat
+    kk: Пифагор
+    kn: ಪೈಥಾಗರಸ್
+    ko: 피타고라스
+    ku: Pîtagoras
+    ku-latn: Pîtagoras
+    kw: Pythagoras
+    ky: Пифагор
+    la: Pythagoras
+    lb: Pythagoras vu Samos
+    lfn: Pitagora
+    lg: Payisoggolaasi
+    li: Pythagoras
+    lij: Pitagora
+    lt: Pitagoras
+    lv: Pitagors
+    mag: पाइथागोरस
+    mai: पाइथागोरस
+    mg: Pythagore
+    mk: Питагора
+    ml: പൈതഗോറസ്
+    mn: Пифагор
+    mr: पायथागोरस
+    mrj: Пифагор
+    ms: Pythagoras
+    ms-arab: ڤيثاݢورس
+    mt: Pitagora
+    mwl: Pitágoras
+    my: ပိုက်သာဂိုးရပ်စ်
+    myv: Пифагор
+    mzn: پیتاگوراس
+    nan: Pythagoras
+    nb: Pytagoras
+    ne: पाइथागोरस
+    nl: Pythagoras
+    nn: Pytagoras
+    nqo: ߔߌߕߊߜ߭ߐߙ
+    oc: Pitagòras
+    om: Paayitaagoras
+    os: Пифагор
+    pa: ਪਾਈਥਾਗੋਰਸ
+    pam: Pitagoras
+    pl: Pitagoras
+    pms: Pitàgora
+    pnb: فيثاغورث
+    ps: پيتاګورس
+    pt: Pitágoras
+    pt-br: Pitágoras
+    qu: Pithagoras
+    rki: ပိုက်သဂိုးရပ်(Pythagoras)
+    ro: Pitagora
+    ru: Пифагор
+    sa: पैथागोरस्
+    sah: Пифагор
+    scn: Pitàgura
+    sco: Pythagoras
+    sd: پئٿاگورس
+    sgs: Pėtaguors
+    sh: Pitagora
+    shi: Pitaguras
+    si: පෛතගරස්
+    sk: Pytagoras zo Samu
+    skr: فیثاغورث
+    sl: Pitagora
+    smn: Pythagoras
+    sq: Pitagora
+    sr: Питагора
+    sr-ec: Питагора
+    su: Pythagoras
+    sv: Pythagoras
+    sw: Pythagoras
+    szl: Pitagoras
+    ta: பித்தாகரஸ்
+    te: పైథాగరస్
+    tg: Пифагор
+    th: พีทาโกรัส
+    tk: Pifagor
+    tl: Pythagoras
+    tly: Pifagor
+    tr: Pisagor
+    tt: Пифагор
+    uk: Піфагор
+    ur: فیثاغورث
+    uz: Pifagor
+    vi: Pythagoras
+    vo: Püthagoras
+    vro: Pythagoras
+    war: Pythagoras
+    wuu: 毕达哥拉斯
+    xal: Пифагор
+    xmf: პითაგორა
+    yi: פיטאגאראס
+    yo: Pythagoras
+    yue: 畢達哥拉斯
+    zgh: ⴱⵉⵜⴰⴳⵓⵔⴰⵙ
+    zh: 畢達哥拉斯
+    zh-cn: 毕达哥拉斯
+    zh-hans: 毕达哥拉斯
+    zh-hant: 畢達哥拉斯
+    zh-hk: 畢達哥拉斯
+    zh-tw: 畢達哥拉斯
 ---
-
 # [[Pythagoras]] 
 
 #is_/same_as :: [[WD~Pythagoras,10261]] 

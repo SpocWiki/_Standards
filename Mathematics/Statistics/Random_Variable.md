@@ -1,15 +1,72 @@
 ---
 aliases:
-  - random variable
-  - random quantity
-  - aleatory variable
-  - stochastic variable
-  - Random_Variable
-  - Random Variable
+- aleatory variable
+- athróg randamach
+- Biến ngẫu nhiên
+- gadījuma lielums
+- Hapnewidyn
+- hazarda variablo
+- Hazarda varieblo
+- Juhuslik suurus
+- naključna spremenljivka
+- Ndryshorja e rastit
+- náhodná veličina
+- Pemboleh ubah rawak
+- random quantity
+- random variable
+- Random_Variable
+- rassal değişken
+- satunnaismuuttuja
+- slembibreyta
+- slučajna promenljiva
+- slučajna varijabla
+- stochastic variable
+- stochastische variabele
+- stogastiese veranderlike
+- stokastisk variabel
+- Tesadüfiy deger
+- təsadüfi Kəmiyyət
+- valószínűségi változó
+- variabbili aliatoria
+- variabel acak
+- variabile casuale
+- variabilă aleatoare
+- Variable aleatoria
+- variable aleatòria
+- variable aléatoire
+- variável aleatória
+- zmienna losowa
+- zorizko aldagai
+- Zufallsvariable
+- Ăнсăрт кап
+- Τυχαία μεταβλητή
+- випадкова величина
+- выпадковая велічыня
+- Кездейсоқ шама
+- осраҡлы дәүмәл
+- Санамсаргүй хувьсагч
+- случајна променљива
+- случајна променлива
+- Случайна величина
+- случайная величина
+- Պատահական մեծություն
+- משתנה מקרי
+- تصادفی متغیر
+- متغير عشوائي
+- متغیر تصادفی
+- দৈব চলক
+- சமவாய்ப்பு மாறி
+- యాదృచ్ఛిక చలరాశులు
+- ตัวแปรสุ่ม
+- შემთხვევითი სიდიდე
+- 確率変数
+- 随机变量
+- 隨機變數
+- 확률 변수
 has_id_wikidata: Q176623
 subclass_of:
-  - '[[_Standards/WikiData/WD~random_element,166211]]'
-  - '[[_Standards/WikiData/WD~variable,50701]]'
+- '[[_Standards/WikiData/WD~random_element,166211]]'
+- '[[_Standards/WikiData/WD~variable,50701]]'
 part_of: '[[_Standards/WikiData/WD~probability_theory,5862903]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
@@ -22,8 +79,80 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vari%C3%A1
 described_at_URL: https://www.encyclopediaofmath.org/index.php?title=Random_variable
 IEV_number: 103-08-03
 Commons_category: Random variable
+dv_has_:
+  name_:
+    af: stogastiese veranderlike
+    ar: متغير عشوائي
+    ast: Variable aleatoria
+    az: təsadüfi Kəmiyyət
+    ba: осраҡлы дәүмәл
+    be: выпадковая велічыня
+    be-tarask: выпадковая велічыня
+    bg: Случайна величина
+    bn: দৈব চলক
+    ca: variable aleatòria
+    crh: Tesadüfiy deger
+    cs: náhodná veličina
+    cv: Ăнсăрт кап
+    cy: Hapnewidyn
+    da: stokastisk variabel
+    de: Zufallsvariable
+    el: Τυχαία μεταβλητή
+    en: random variable
+    en-us: random variable
+    eo: hazarda variablo
+    es: variable aleatoria
+    et: Juhuslik suurus
+    eu: zorizko aldagai
+    fa: متغیر تصادفی
+    fi: satunnaismuuttuja
+    fr: variable aléatoire
+    ga: athróg randamach
+    gl: variable aleatoria
+    he: משתנה מקרי
+    hi: random variable
+    hu: valószínűségi változó
+    hy: Պատահական մեծություն
+    id: variabel acak
+    io: Hazarda varieblo
+    is: slembibreyta
+    it: variabile casuale
+    ja: 確率変数
+    ka: შემთხვევითი სიდიდე
+    kk: Кездейсоқ шама
+    ko: 확률 변수
+    lv: gadījuma lielums
+    mk: случајна променлива
+    mn: Санамсаргүй хувьсагч
+    ms: Pemboleh ubah rawak
+    nb: stokastisk variabel
+    nl: stochastische variabele
+    pl: zmienna losowa
+    pt: variável aleatória
+    pt-br: variável aleatória
+    ro: variabilă aleatoare
+    ru: случайная величина
+    scn: variabbili aliatoria
+    sh: slučajna varijabla
+    sl: naključna spremenljivka
+    sq: Ndryshorja e rastit
+    sr: случајна променљива
+    sr-ec: случајна променљива
+    sr-el: slučajna promenljiva
+    su: variabel acak
+    sv: stokastisk variabel
+    ta: சமவாய்ப்பு மாறி
+    te: యాదృచ్ఛిక చలరాశులు
+    th: ตัวแปรสุ่ม
+    tl: Random variable
+    tr: rassal değişken
+    uk: випадкова величина
+    ur: تصادفی متغیر
+    vi: Biến ngẫu nhiên
+    yue: 隨機變數
+    zh: 随机变量
+    zh-tw: 隨機變數
 ---
-
 # [[Random_Variable]] 
 
 #is_/same_as :: [[../../WikiData/WD~Random_variable,176623|WD~Random_variable,176623]]  

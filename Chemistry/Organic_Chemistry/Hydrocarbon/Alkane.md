@@ -1,58 +1,224 @@
 ---
 aliases:
-  - Alkane
+- Alcan
+- alcane
+- alcani
+- alcano
+- alcanum
+- alcà
+- alcán
+- Alkaan
+- alkaani
+- alkaanid
+- alkan
+- alkana
+- Alkanar
+- alkanas
+- Alkane
+- Alkanen
+- Alkanet
+- Alkani
+- Alkano
+- Alkeenii
+- alkán
+- alkána
+- alkāni
+- Ankan
+- Parafin-a
+- Toʻyingan uglevodorodlar
+- αλκάνια
+- Алкан
+- Алкандар
+- алкани
+- Алканъ
+- алканъёс
+- алканы
+- альканы
+- Ալկաններ
+- אלקאן
+- آلکان
+- ألكان
+- ئەلکان
+- الکان
+- الکین
+- अल्केन
+- অ্যালকেন
+- এলকেন
+- ਅਲਕੇਨ
+- ஆல்க்கேன்
+- ఆల్కేన్
+- ಆಲ್ಕೇನ್ಗಳು
+- ആൽക്കെയ്ൻ
+- ඇල්කේන
+- แอลเคน
+- ອັນເຄນ
+- ალკანი
+- アルカン
+- 烷烃
+- 烷烴
+- 알케인
 has_id_wikidata: Q41581
 CAS_Registry_Number: 308061-45-2
 Commons_category: Alkanes
 Common_Procurement_Vocabulary_code: 24321100
-CXSMILES: "[H]C([H])([H])[H] |Sg:n:1,2,3:n:ht|"
-described_by_source: "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-different_from: "[[_Standards/WikiData/WD~alkene,81406]]"
+CXSMILES: '[H]C([H])([H])[H] |Sg:n:1,2,3:n:ht|'
+described_by_source: '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+different_from: '[[_Standards/WikiData/WD~alkene,81406]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ethylene-3D-vdW.png
 instance_of:
-  - "[[_Standards/WikiData/WD~homologous_series,741844]]"
-  - "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[_Standards/WikiData/WD~homologous_series,741844]]'
+- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Krugosvet_article: nauka_i_tehnika/himiya/ALKANI_I_TSIKLOALKANI.html
 MeSH_tree_code: D02.455.326.146
 OmegaWiki_Defined_Meaning: 137
 P8189: 987007563165105200
 part_of:
-  - "[[_Standards/WikiData/WD~alkane_catabolic_process,21757711]]"
-  - "[[_Standards/WikiData/WD~response_to_alkane,22273147]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_alkane,22273149]]"
-  - "[[_Standards/WikiData/WD~cellular_alkane_metabolic_process,22281433]]"
-  - "[[_Standards/WikiData/WD~alkane_biosynthetic_process,22282953]]"
-  - "[[_Standards/WikiData/WD~alkane_transport,22290412]]"
-  - "[[_Standards/WikiData/WD~alkylmercury_lyase_activity,22324140]]"
-  - "[[_Standards/WikiData/WD~alkane_transmembrane_transporter_activity,22324616]]"
+- '[[_Standards/WikiData/WD~alkane_catabolic_process,21757711]]'
+- '[[_Standards/WikiData/WD~response_to_alkane,22273147]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_alkane,22273149]]'
+- '[[_Standards/WikiData/WD~cellular_alkane_metabolic_process,22281433]]'
+- '[[_Standards/WikiData/WD~alkane_biosynthetic_process,22282953]]'
+- '[[_Standards/WikiData/WD~alkane_transport,22290412]]'
+- '[[_Standards/WikiData/WD~alkylmercury_lyase_activity,22324140]]'
+- '[[_Standards/WikiData/WD~alkane_transmembrane_transporter_activity,22324616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~acyclic_compound,344942]]"
-  - "[[_Standards/WikiData/WD~saturated_compound,2700049]]"
-  - "[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alkanes,6676263]]"
+- '[[_Standards/WikiData/WD~acyclic_compound,344942]]'
+- '[[_Standards/WikiData/WD~saturated_compound,2700049]]'
+- '[[_Standards/WikiData/WD~aliphatic_hydrocarbon,47165582]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alkanes,6676263]]'
 UMLS_CUI: C0002065
 UNSPSC_Code: 12352001
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Alkane,41581]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane|Alkane]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.public|Alkane.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.internal|Alkane.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.protect|Alkane.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.private|Alkane.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.personal|Alkane.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.secret|Alkane.secret]]"
+  - '[[../../../WikiData/WD~Alkane,41581]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane|Alkane]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.public|Alkane.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.internal|Alkane.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.protect|Alkane.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.private|Alkane.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.personal|Alkane.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.secret|Alkane.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Alkane,41581]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane|Alkane]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.public|Alkane.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.internal|Alkane.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.protect|Alkane.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.private|Alkane.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.personal|Alkane.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.secret|Alkane.secret]]"
+- '[[../../../WikiData/WD~Alkane,41581]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane|Alkane]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.public|Alkane.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.internal|Alkane.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.protect|Alkane.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.private|Alkane.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.personal|Alkane.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane.secret|Alkane.secret]]'
+dv_has_:
+  name_:
+    af: Alkaan
+    ar: ألكان
+    as: এলকেন
+    ast: Alcano
+    az: Alkan
+    azb: آلکان
+    bcl: Alkano
+    be: алкан
+    be-tarask: альканы
+    bg: Алкан
+    bn: অ্যালকেন
+    bs: Alkani
+    ca: alcà
+    ckb: ئەلکان
+    cs: alkan
+    cu: Алканъ
+    cy: Alcan
+    da: Alkan
+    de: Alkane
+    el: αλκάνια
+    en: alkane
+    eo: alkano
+    es: alcano
+    et: alkaanid
+    eu: alkano
+    fa: آلکان
+    fi: alkaani
+    fo: Alkan
+    fr: alcane
+    ga: alcán
+    gl: alcano
+    he: אלקאן
+    hi: अल्केन
+    hr: alkani
+    hu: alkán
+    hy: Ալկաններ
+    id: alkana
+    is: Alkanar
+    it: alcani
+    ja: アルカン
+    jv: Alkana
+    ka: ალკანი
+    kab: Alkan
+    kk: Алкандар
+    kn: ಆಲ್ಕೇನ್ಗಳು
+    ko: 알케인
+    ku: Alkan
+    la: alcanum
+    lb: Alkanen
+    lmo: Alcan
+    lo: ອັນເຄນ
+    lt: alkanas
+    lv: alkāni
+    lzh: 烷烴
+    mk: алкан
+    ml: ആൽക്കെയ്ൻ
+    mn: Алкан
+    ms: Alkana
+    nan: Alkane
+    nb: alkan
+    nds: Alkan
+    nl: alkaan
+    nn: alkan
+    nrm: Alcane
+    oc: Alcan
+    om: Alkeenii
+    pa: ਅਲਕੇਨ
+    pl: alkan
+    pms: Parafin-a
+    ps: الکان
+    pt: alcano
+    pt-br: alcano
+    ro: Alcan
+    ru: алканы
+    rue: Алканы
+    scn: Alcani
+    sco: alkane
+    se: alkána
+    sh: Alkani
+    si: ඇල්කේන
+    sk: alkán
+    sl: alkan
+    sms: alkaan
+    sq: Alkanet
+    sr: алкани
+    stq: Alkane
+    su: Alkana
+    sv: alkan
+    ta: ஆல்க்கேன்
+    te: ఆల్కేన్
+    th: แอลเคน
+    tr: Alkan
+    udm: алканъёс
+    uk: алкан
+    ur: الکین
+    uz: Toʻyingan uglevodorodlar
+    vi: Ankan
+    war: Alkano
+    wuu: 烷烃
+    yue: 烷烴
+    zh: 烷烃
+    zh-cn: 烷烃
+    zh-hans: 烷烃
+    zh-hant: 烷烴
+    zh-hk: 烷烴
+    zh-mo: 烷烴
+    zh-my: 烷烃
+    zh-sg: 烷烃
+    zh-tw: 烷烴
 ---
-
 # [[Alkane]] 
 
 

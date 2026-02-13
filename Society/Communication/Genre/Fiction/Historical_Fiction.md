@@ -1,8 +1,118 @@
 ---
 has_id_wikidata: Q1196408
+dv_has_:
+  name_:
+    ar: خيال تاريخي
+    arz: خيال تاريخى
+    be: гістарычны фікшн
+    be-tarask: гістарычная выдумка
+    bn: ঐতিহাসিক কল্পকাহিনী
+    ca: ficció històrica
+    ckb: خەیاڵی مێژوویی
+    cs: historická fikce
+    cy: ffuglen hanesyddol
+    da: historisk fiktion
+    de: historische Fiktion
+    el: ιστορική μυθοπλασία
+    en: historical fiction
+    en-gb: historical fiction
+    eo: historia fikcio
+    es: ficción histórica
+    eu: fikzioa historiko
+    fa: رمان تاریخی
+    fi: historiallinen fiktio
+    fr: fiction historique
+    ga: ficsean stairiúil
+    gl: ficción histórica
+    he: סיפורת היסטורית
+    hu: történelmi fikció
+    hy: պատմական գեղարվեստական գրականություն
+    id: fiksi sejarah
+    is: Sögulegur skáldskapur
+    it: fiction storica
+    ja: 歴史劇
+    kn: ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿ
+    ko: 역사물
+    ku: honaka dîrokî
+    lv: vēsturiskā daiļliteratūra
+    mk: историска белетристика
+    ml: ചരിത്രാഖ്യായിക
+    nb: historisk fiksjon
+    nl: historische fictie
+    nn: Historisk fiksjon
+    pl: fikcja historyczna
+    pt: ficção histórica
+    ro: ficțiune istorică
+    ru: художественное произведение об истории
+    sl: zgodovinska fikcija
+    sr: историјска фикција
+    sr-ec: историјска фикција
+    sr-el: istorijska fikcija
+    sv: historisk fiktion
+    tr: tarihi kurgu
+    tt: тарихи нәфис әдәбият
+    uk: історична белетристика
+    ur: تاریخی افسانہ
+    uz: Tarixiy janr
+    vi: tiểu thuyết lịch sử
+    yue: 歷史演義
+    zh: 時代劇
+    zh-hans: 时代剧
+    zh-hant: 時代劇
+    zh-hk: 時代劇
+aliases:
+- ffuglen hanesyddol
+- ficció històrica
+- ficción histórica
+- ficsean stairiúil
+- fiction historique
+- fiction storica
+- ficção histórica
+- ficțiune istorică
+- fikcja historyczna
+- fiksi sejarah
+- fikzioa historiko
+- historia fikcio
+- historiallinen fiktio
+- historical fiction
+- historická fikce
+- historische fictie
+- historische Fiktion
+- historisk fiksjon
+- historisk fiktion
+- honaka dîrokî
+- istorijska fikcija
+- Sögulegur skáldskapur
+- tarihi kurgu
+- Tarixiy janr
+- tiểu thuyết lịch sử
+- történelmi fikció
+- vēsturiskā daiļliteratūra
+- zgodovinska fikcija
+- ιστορική μυθοπλασία
+- історична белетристика
+- гістарычная выдумка
+- гістарычны фікшн
+- историјска фикција
+- историска белетристика
+- тарихи нәфис әдәбият
+- художественное произведение об истории
+- պատմական գեղարվեստական գրականություն
+- סיפורת היסטורית
+- تاریخی افسانہ
+- خيال تاريخى
+- خيال تاريخي
+- خەیاڵی مێژوویی
+- رمان تاریخی
+- ঐতিহাসিক কল্পকাহিনী
+- ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿ
+- ചരിത്രാഖ്യായിക
+- 时代剧
+- 時代劇
+- 歴史劇
+- 歷史演義
+- 역사물
 ---
-
-
 # [[Historical_Fiction]] 
 
 

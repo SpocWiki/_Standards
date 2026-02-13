@@ -1,8 +1,56 @@
 ---
 has_id_wikidata: Q831486
+dv_has_:
+  name_:
+    an: Betoideae
+    arz: بيتويديا
+    ast: Betoideae
+    az: Çuğundurkimilər
+    bg: Betoideae
+    ca: Betoideae
+    ceb: Betoideae
+    cs: Betoideae
+    de: Betoideae
+    en: Betoideae
+    eo: Betoideae
+    es: Betoideae
+    eu: Betoideae
+    ext: Betoideae
+    fi: Betoideae
+    fr: Betoideae
+    ga: Betoideae
+    gl: Betoideae
+    hr: Betoideae
+    hy: բազուկայիններ
+    ia: Betoideae
+    ie: Betoideae
+    io: Betoideae
+    it: Betoideae
+    ko: 근대아과
+    la: Betoideae
+    ms: Betoideae
+    mul: Betoideae
+    nl: Betoideae
+    oc: Betoideae
+    pl: Betoideae
+    pt: Betoideae
+    pt-br: Betoideae
+    ro: Betoideae
+    ru: Betoideae
+    sq: Betoideae
+    uk: Betoideae
+    vi: Betoideae
+    vo: Betoideae
+    war: Betoideae
+    zh: 甜菜亚科
+aliases:
+- Betoideae
+- Çuğundurkimilər
+- բազուկայիններ
+- بيتويديا
+- 甜菜亚科
+- 근대아과
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The Betoideae are a small subfamily of the flowering plant amaranth family, 

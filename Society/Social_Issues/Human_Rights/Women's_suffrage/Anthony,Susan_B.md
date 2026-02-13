@@ -1,13 +1,127 @@
 ---
 aliases:
-  - Susan_B._Anthony
-  - Susan B. Anthony
-  - Susan Anthony
-  - Anthony,Susan_B.
-  - Anthony,Susan B.
+- Anthony,Susan B.
+- Anthony,Susan_B.
+- Susan Anthony
+- Susan B. Anthony
+- Susan B. Anthonyová
+- Susan B.Anthony
+- Susan Brownell Anthony
+- Susan Burro. Antonia
+- Susanna B. Anthony
+- Susan_B._Anthony
+- Suzan B. Entoni
+- Σούζαν Μπ. Άντονι
+- Сузан Б. Ентони
+- Сьюзен Ентоні
+- Сьюзен Энтони
+- Сьюзэн Энтані
+- Сюзан Б. Антъни
+- Սյուզան Էնթոնի
+- סוזן ב. אנתוני
+- سوزان آنتونی
+- سوزان أنتوني
+- سوزان انتونى
+- سوزن انتوني
+- سوزن بی انتھونی
+- سووزان ئەنتۆنی
+- सुझन बी. अँथोनी
+- सुसान बी. एंथनी
+- சூசன் ப்ரவுன் அந்தோனி
+- సూసన్ బి. ఆంథనీ
+- സൂസൻ ബി. ആന്റണി
+- სიუზან ენტონი
+- スーザン・B・アンソニー
+- 苏珊·安东尼
+- 蘇珊·安東尼
+- 수전 B. 앤서니
 has_id_wikidata: Q192245
+dv_has_:
+  name_:
+    af: Susan B. Anthony
+    ar: سوزان أنتوني
+    arz: سوزان انتونى
+    ast: Susan B. Anthony
+    bcl: Susan B. Anthony
+    be-tarask: Сьюзэн Энтані
+    bg: Сюзан Б. Антъни
+    ca: Susan B. Anthony
+    ckb: سووزان ئەنتۆنی
+    cs: Susan B. Anthonyová
+    cy: Susan B. Anthony
+    da: Susan B. Anthony
+    dag: Susan B. Anthony
+    de: Susan B. Anthony
+    el: Σούζαν Μπ. Άντονι
+    en: Susan B. Anthony
+    en-us: Susan B. Anthony
+    eo: Susan Brownell Anthony
+    es: Susan Burro. Antonia
+    et: Susan Brownell Anthony
+    eu: Susan B. Anthony
+    fa: سوزان آنتونی
+    fi: Susan B. Anthony
+    fr: Susan B. Anthony
+    ga: Susan B. Anthony
+    gl: Susan B. Anthony
+    he: סוזן ב. אנתוני
+    hi: सुसान बी. एंथनी
+    hr: Susan B. Anthony
+    hu: Susan B. Anthony
+    hy: Սյուզան Էնթոնի
+    id: Susan B. Anthony
+    ig: Susan B. Anthony
+    is: Susan B. Anthony
+    it: Susan Anthony
+    ja: スーザン・B・アンソニー
+    ka: სიუზან ენტონი
+    ko: 수전 B. 앤서니
+    la: Susanna B. Anthony
+    li: Susan B. Anthony
+    mg: Susan B. Anthony
+    ml: സൂസൻ ബി. ആന്റണി
+    mr: सुझन बी. अँथोनी
+    ms: Susan B. Anthony
+    mt: Susan B. Anthony
+    mul: Susan B. Anthony
+    nan: Susan B. Anthony
+    nb: Susan B. Anthony
+    nl: Susan B. Anthony
+    nn: Susan B. Anthony
+    pl: Susan B. Anthony
+    ps: سوزن انتوني
+    pt: Susan B. Anthony
+    pt-br: Susan B. Anthony
+    ro: Susan B. Anthony
+    ru: Сьюзен Энтони
+    sco: Susan B. Anthony
+    sk: Susan B. Anthony
+    skr: سوزن بی انتھونی
+    sl: Susan B. Anthony
+    sq: Susan B. Anthony
+    sr: Сузан Б. Ентони
+    sr-ec: Сузан Б. Ентони
+    sr-el: Suzan B. Entoni
+    sv: Susan B. Anthony
+    sw: Susan B.Anthony
+    ta: சூசன் ப்ரவுன் அந்தோனி
+    te: సూసన్ బి. ఆంథనీ
+    tr: Susan B. Anthony
+    uk: Сьюзен Ентоні
+    ur: سوزن بی انتھونی
+    uz: Susan B. Anthony
+    vi: Susan B. Anthony
+    war: Susan B. Anthony
+    wuu: 苏珊·安东尼
+    yue: 蘇珊·安東尼
+    zh: 苏珊·安东尼
+    zh-cn: 苏珊·安东尼
+    zh-hans: 苏珊·安东尼
+    zh-hant: 蘇珊·安東尼
+    zh-hk: 蘇珊·安東尼
+    zh-sg: 苏珊·安东尼
+    zh-tw: 蘇珊·安東尼
 ---
-
 # [[Anthony,Susan_B]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Susan_B._Anthony,192245|WD~Susan_B._Anthony,192245]]  

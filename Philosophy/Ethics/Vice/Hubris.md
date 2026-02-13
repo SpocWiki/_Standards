@@ -1,11 +1,97 @@
 ---
 aliases:
-  - Hochmut
-  - Arrogance
-  - Hybris
+- Arrogance
+- Aruogancėjė
+- hibris
+- Hibriso
+- Hochmut
+- hubris
+- Hybris
+- húbras
+- húbris
+- Hübris
+- hübrisz
+- kibir
+- Kibirnimada
+- nadutost
+- ngạo mạn
+- ύβρις
+- гібрис
+- гибрис
+- пагарда
+- самоодважност
+- Такаббур
+- Хибрис
+- Хюбрис
+- Հուբրիս
+- היבריס
+- تكبر
+- تکبر
+- خودبزرگبینی
+- অহংকার
+- ஆணவம்
+- ὕβρις
+- ヒュブリス
+- 傲慢
+- 高傲
+- 오만
 has_id_wikidata: Q735766
+dv_has_:
+  name_:
+    ar: تكبر
+    be-tarask: пагарда
+    bg: Хюбрис
+    bn: অহংকার
+    br: Hybris
+    ca: hibris
+    cs: Hybris
+    da: Hybris
+    de: Hybris
+    el: ύβρις
+    en: hubris
+    eo: Hibriso
+    es: hibris
+    et: Hübris
+    eu: Hibris
+    fa: خودبزرگبینی
+    fi: Hybris
+    fr: hybris
+    ga: húbras
+    gl: Hybris
+    grc: ὕβρις
+    he: היבריס
+    hu: hübrisz
+    hy: Հուբրիս
+    io: Hibriso
+    is: Hybris
+    it: hybris
+    ja: ヒュブリス
+    ko: 오만
+    lzh: 傲慢
+    mk: самоодважност
+    nb: hybris
+    nl: hybris
+    pl: Hybris
+    ps: تکبر
+    pt: húbris
+    ro: hybris
+    ru: гибрис
+    rw: Hubris
+    sgs: Aruogancėjė
+    sk: Hybris
+    sl: nadutost
+    so: Kibirnimada
+    sq: Hibris
+    sr: Хибрис
+    sv: Hybris
+    ta: ஆணவம்
+    tg: Такаббур
+    tr: kibir
+    uk: гібрис
+    vi: ngạo mạn
+    yue: 高傲
+    zh: 傲慢
 ---
-
 # [[Hubris]] 
 
 #is_/same_as :: [[WD~Hubris,735766]] 

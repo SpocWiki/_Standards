@@ -1,22 +1,61 @@
 ---
 aliases:
-  - Testosteron
-  - Testosterone
+- Itestateroni
+- Tesistosteroni
+- Testosteron
+- testosterona
+- Testosteronas
+- Testosterone
+- testosteroni
+- testosterono
+- testosterons
+- Testosteronu
+- Testosteronum
+- testosteroon
+- Testosterón
+- testostérone
+- Testostêron
+- Testósterón
+- tesztoszteron
+- téististéarón
+- Téstostéron
+- τεστοστερόνη
+- тестостерон
+- тэстастэрон
+- Դեսդոսդերոն
+- Տեստոստերոն
+- טסטוסטרון
+- تستوسترون
+- تستوستيرون
+- تێستۆستێرۆن
+- ٹیسٹوسٹیران
+- टेस्टोस्टेरॉन
+- টেস্টোস্টেরন
+- ଟେଷ୍ଟୋଷ୍ଟେରନ
+- இசுடெசுத்தோசத்தெரோன்
+- టెస్టోస్టెరాన్
+- ടെസ്റ്റോസ്റ്റിറോൺ
+- เทสโทสเตอโรน
+- ເທສໂທສເຕໂຣນ
+- テストステロン
+- 睾丸素
+- 睾酮
+- 테스토스테론
 has_id_wikidata: Q1318776
 active_ingredient_in:
-  - "[[_Standards/WikiData/WD~Intrinsa,29006008]]"
-  - "[[_Standards/WikiData/WD~Livensa,29006138]]"
-  - "[[_Standards/WikiData/WD~Androderm,47521051]]"
-  - "[[_Standards/WikiData/WD~Androgel,47521052]]"
-  - "[[_Standards/WikiData/WD~Aveed,47521219]]"
-  - "[[_Standards/WikiData/WD~Axiron,47521224]]"
-  - "[[_Standards/WikiData/WD~Depo-testosterone,47521458]]"
-  - "[[_Standards/WikiData/WD~Fortesta,47521631]]"
-  - "[[_Standards/WikiData/WD~Natesto,47521872]]"
-  - "[[_Standards/WikiData/WD~Striant,47522155]]"
-  - "[[_Standards/WikiData/WD~Testopel,47522194]]"
-  - "[[_Standards/WikiData/WD~Testim,48826389]]"
-  - "[[_Standards/WikiData/WD~Vogelxo,48826468]]"
+- '[[_Standards/WikiData/WD~Intrinsa,29006008]]'
+- '[[_Standards/WikiData/WD~Livensa,29006138]]'
+- '[[_Standards/WikiData/WD~Androderm,47521051]]'
+- '[[_Standards/WikiData/WD~Androgel,47521052]]'
+- '[[_Standards/WikiData/WD~Aveed,47521219]]'
+- '[[_Standards/WikiData/WD~Axiron,47521224]]'
+- '[[_Standards/WikiData/WD~Depo-testosterone,47521458]]'
+- '[[_Standards/WikiData/WD~Fortesta,47521631]]'
+- '[[_Standards/WikiData/WD~Natesto,47521872]]'
+- '[[_Standards/WikiData/WD~Striant,47522155]]'
+- '[[_Standards/WikiData/WD~Testopel,47522194]]'
+- '[[_Standards/WikiData/WD~Testim,48826389]]'
+- '[[_Standards/WikiData/WD~Vogelxo,48826468]]'
 ATC_code: G03BA03
 canonical_SMILES: CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C
 CAS_Registry_Number: 58-22-0
@@ -24,82 +63,82 @@ chemical_formula: C₁₉H₂₈O₂
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Testosteron.svg
 Commons_category: Testosterone
 described_by_source:
-  - "[[_Standards/WikiData/WD~On_crystalline_male_hormone_from_testicles_(testosterone)_effective_as_from_urine_or_from_cholesterol,22306032]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-different_from: "[[_Standards/WikiData/WD~Testosterone,9357637]]"
+- '[[_Standards/WikiData/WD~On_crystalline_male_hormone_from_testicles_(testosterone)_effective_as_from_urine_or_from_cholesterol,22306032]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+different_from: '[[_Standards/WikiData/WD~Testosterone,9357637]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Ernst_Laqueur,104369]]"
-  - "[[_Standards/WikiData/WD~János_Freud,73013657]]"
+- '[[_Standards/WikiData/WD~Ernst_Laqueur,104369]]'
+- '[[_Standards/WikiData/WD~János_Freud,73013657]]'
 DSSTOX_compound_identifier: DTXCID302371
 EC_number: 200-370-5
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
-  - "[[_Standards/WikiData/WD~Vitex_agnus-castus,259318]]"
-  - "[[_Standards/WikiData/WD~Daphnia_magna,672531]]"
-  - "[[_Standards/WikiData/WD~Asimina_triloba,948827]]"
-  - "[[_Standards/WikiData/WD~Locusta_migratoria,1059580]]"
-  - "[[_Standards/WikiData/WD~Botrytis_cinerea,1135851]]"
-  - "[[_Standards/WikiData/WD~Ilybius_fenestratus,1947241]]"
-  - "[[_Standards/WikiData/WD~Curvularia_lunata,54366202]]"
+- '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
+- '[[_Standards/WikiData/WD~Vitex_agnus-castus,259318]]'
+- '[[_Standards/WikiData/WD~Daphnia_magna,672531]]'
+- '[[_Standards/WikiData/WD~Asimina_triloba,948827]]'
+- '[[_Standards/WikiData/WD~Locusta_migratoria,1059580]]'
+- '[[_Standards/WikiData/WD~Botrytis_cinerea,1135851]]'
+- '[[_Standards/WikiData/WD~Ilybius_fenestratus,1947241]]'
+- '[[_Standards/WikiData/WD~Curvularia_lunata,54366202]]'
 Gmelin_number: 538843
-has_part_s_: "[[_Standards/WikiData/WD~carbon,623]]"
-has_use: "[[_Standards/WikiData/WD~medication,12140]]"
+has_part_s_: '[[_Standards/WikiData/WD~carbon,623]]'
+has_use: '[[_Standards/WikiData/WD~medication,12140]]'
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Testosterone-from-xtal-3D-balls.png
 InChI: InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h11,14-17,21H,3-10H2,1-2H3/t14-,15-,16-,17-,18-,19-/m0/s1
 InChIKey: MUMGGOZAMZWBJJ-DYKIIFRCSA-N
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 isomeric_SMILES: C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O
-legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
+legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
 mass: 288.209
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~Klinefelter's_syndrome,207133]]"
-  - "[[_Standards/WikiData/WD~hypogonadism,938107]]"
-  - "[[_Standards/WikiData/WD~testicular_disease,7705854]]"
-  - "[[_Standards/WikiData/WD~hypogonadotropic_hypogonadism_7_with_or_without_anosmia,30989134]]"
-  - "[[_Standards/WikiData/WD~hypogonadism,_male,55998629]]"
+- "[[_Standards/WikiData/WD~Klinefelter's_syndrome,207133]]"
+- '[[_Standards/WikiData/WD~hypogonadism,938107]]'
+- '[[_Standards/WikiData/WD~testicular_disease,7705854]]'
+- '[[_Standards/WikiData/WD~hypogonadotropic_hypogonadism_7_with_or_without_anosmia,30989134]]'
+- '[[_Standards/WikiData/WD~hypogonadism,_male,55998629]]'
 melting_point: 155
 MeSH_tree_code:
-  - D04.210.500.054.079.429.824
-  - D06.472.334.851.968.984
+- D04.210.500.054.079.429.824
+- D06.472.334.851.968.984
 NSC_number:
-  - 9700
-  - 755838
+- 9700
+- 755838
 part_of:
-  - "[[_Standards/WikiData/WD~response_to_testosterone,14633904]]"
-  - "[[_Standards/WikiData/WD~testosterone_biosynthetic_process,14905664]]"
-  - "[[_Standards/WikiData/WD~testosterone_17-beta-dehydrogenase_(NADP+)_activity,21096237]]"
-  - "[[_Standards/WikiData/WD~testosterone_dehydrogenase_(NAD+)_activity,21105044]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_testosterone_stimulus,21114373]]"
-  - "[[_Standards/WikiData/WD~testosterone_secretion,22290466]]"
-  - "[[_Standards/WikiData/WD~testosterone_16-beta-hydroxylase_activity,112998275]]"
+- '[[_Standards/WikiData/WD~response_to_testosterone,14633904]]'
+- '[[_Standards/WikiData/WD~testosterone_biosynthetic_process,14905664]]'
+- '[[_Standards/WikiData/WD~testosterone_17-beta-dehydrogenase_(NADP+)_activity,21096237]]'
+- '[[_Standards/WikiData/WD~testosterone_dehydrogenase_(NAD+)_activity,21105044]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_testosterone_stimulus,21114373]]'
+- '[[_Standards/WikiData/WD~testosterone_secretion,22290466]]'
+- '[[_Standards/WikiData/WD~testosterone_16-beta-hydroxylase_activity,112998275]]'
 PubChem_CID: 6013
 Reaxys_registry_number:
-  - 1915399
-  - 3653705
+- 1915399
+- 3653705
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Depo-testosterone%20200%20mg%20ml%20crop.jpg
 SPLASH:
-  - splash10-0006-0090000000-21e1bde01931b051a4a3
-  - splash10-0006-0090000000-b5f0189f1d6f21b90673
-  - splash10-000i-0090000000-914b212f1dbb7fb7b1ac
-  - splash10-004i-3910000000-d6ace9b7f8aff4dd46d0
-  - splash10-004l-3910000000-356ddfa8ddf8e551278d
-  - splash10-004l-3910000000-b43cd1ee268a855c8aa0
-  - splash10-00ds-0950000000-c65fc8043083ad93d169
-  - splash10-00dv-5940000000-5e22fba0c369374c75df
-  - splash10-052b-9300000000-6830823fa12b40e784a2
-  - splash10-052b-9800000000-d2e38d44d2f16d0a4203
-  - splash10-053u-1920200000-db3504f562c54e6e1bbb
-  - splash10-05fs-4920000000-ccd839134de79f179f9e
-  - splash10-0a4j-6900000000-3d818ffe03ecd499e078
-  - splash10-0a4j-7900000000-6db3d23d98d548cbbfaa
-  - splash10-0uka-2790000000-dcd6839af64c3ef6006e
-  - splash10-0ukj-2690000000-14b953cb16c53d1e2744
-stereoisomer_of: "[[_Standards/WikiData/WD~epitestosterone,416852]]"
-subclass_of: "[[_Standards/WikiData/WD~androstane_steroid,49847565]]"
+- splash10-0006-0090000000-21e1bde01931b051a4a3
+- splash10-0006-0090000000-b5f0189f1d6f21b90673
+- splash10-000i-0090000000-914b212f1dbb7fb7b1ac
+- splash10-004i-3910000000-d6ace9b7f8aff4dd46d0
+- splash10-004l-3910000000-356ddfa8ddf8e551278d
+- splash10-004l-3910000000-b43cd1ee268a855c8aa0
+- splash10-00ds-0950000000-c65fc8043083ad93d169
+- splash10-00dv-5940000000-5e22fba0c369374c75df
+- splash10-052b-9300000000-6830823fa12b40e784a2
+- splash10-052b-9800000000-d2e38d44d2f16d0a4203
+- splash10-053u-1920200000-db3504f562c54e6e1bbb
+- splash10-05fs-4920000000-ccd839134de79f179f9e
+- splash10-0a4j-6900000000-3d818ffe03ecd499e078
+- splash10-0a4j-7900000000-6db3d23d98d548cbbfaa
+- splash10-0uka-2790000000-dcd6839af64c3ef6006e
+- splash10-0ukj-2690000000-14b953cb16c53d1e2744
+stereoisomer_of: '[[_Standards/WikiData/WD~epitestosterone,416852]]'
+subclass_of: '[[_Standards/WikiData/WD~androstane_steroid,49847565]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~androgen,62614]]"
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~androgen,62614]]'
 subreddit: Testosterone
 UNII: 3XMK78S47O
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Testosteron-Produktion%20eines%20Mannes%20im%20Laufe%20des%20Lebens.webm
@@ -107,25 +146,117 @@ World_Health_Organisation_international_non_proprietary_name: testosterone
 ZVG_number: 492352
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Testosterone,1318776|WD~Testosterone,1318776]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone|Testosterone]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.public|Testosterone.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.internal|Testosterone.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.protect|Testosterone.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.private|Testosterone.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.personal|Testosterone.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.secret|Testosterone.secret]]"
+  - '[[../../../../WikiData/WD~Testosterone,1318776|WD~Testosterone,1318776]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone|Testosterone]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.public|Testosterone.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.internal|Testosterone.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.protect|Testosterone.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.private|Testosterone.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.personal|Testosterone.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.secret|Testosterone.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Testosterone,1318776|WD~Testosterone,1318776]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone|Testosterone]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.public|Testosterone.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.internal|Testosterone.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.protect|Testosterone.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.private|Testosterone.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.personal|Testosterone.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.secret|Testosterone.secret]]"
+- '[[../../../../WikiData/WD~Testosterone,1318776|WD~Testosterone,1318776]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone|Testosterone]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.public|Testosterone.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.internal|Testosterone.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.protect|Testosterone.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.private|Testosterone.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.personal|Testosterone.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.secret|Testosterone.secret]]'
+dv_has_:
+  name_:
+    af: Testosteroon
+    an: Testosterona
+    ar: تستوستيرون
+    ast: Testosterona
+    az: Testosteron
+    azb: تستوسترون
+    bcl: Testosterona
+    be: тэстастэрон
+    be-tarask: тэстастэрон
+    bg: Тестостерон
+    bn: টেস্টোস্টেরন
+    br: Testosteron
+    bs: Testosteron
+    ca: testosterona
+    ckb: تێستۆستێرۆن
+    cs: testosteron
+    cv: Тестостерон
+    da: Testosteron
+    de: Testosteron
+    el: τεστοστερόνη
+    en: testosterone
+    en-us: testosterone
+    eo: testosterono
+    es: testosterona
+    et: testosteroon
+    eu: Testosterona
+    fa: تستوسترون
+    fi: testosteroni
+    fr: testostérone
+    ga: téististéarón
+    gl: Testosterona
+    gsw: Testosteron
+    ha: Testosterone
+    he: טסטוסטרון
+    hi: टेस्टोस्टेरॉन
+    hr: Testosteron
+    hu: tesztoszteron
+    hy: Տեստոստերոն
+    hyw: Դեսդոսդերոն
+    id: Testosteron
+    ig: Testosteronu
+    is: Testósterón
+    it: testosterone
+    ja: テストステロン
+    ko: 테스토스테론
+    ku: Testostêron
+    ku-latn: testosteron
+    la: Testosteronum
+    lo: ເທສໂທສເຕໂຣນ
+    lt: Testosteronas
+    lv: testosterons
+    mk: Тестостерон
+    ml: ടെസ്റ്റോസ്റ്റിറോൺ
+    mr: टेस्टोस्टेरॉन
+    ms: Testosteron
+    nb: testosteron
+    nl: testosteron
+    nn: testosteron
+    oc: Testosterona
+    or: ଟେଷ୍ଟୋଷ୍ଟେରନ
+    pl: testosteron
+    pnb: ٹیسٹوسٹیران
+    pt: testosterona
+    ro: Testosteron
+    ru: тестостерон
+    sah: Тестостерон
+    se: testosterona
+    sh: Testosteron
+    sk: Testosterón
+    sl: testosteron
+    smn: testosteron
+    sms: testosteroon
+    sq: Testosteroni
+    sr: тестостерон
+    sr-ec: тестостерон
+    ss: Itestateroni
+    su: Téstostéron
+    sv: testosteron
+    sw: Tesistosteroni
+    ta: இசுடெசுத்தோசத்தெரோன்
+    te: టెస్టోస్టెరాన్
+    th: เทสโทสเตอโรน
+    tr: Testosteron
+    uk: тестостерон
+    uz: Testosteron
+    vec: testosteron
+    vi: Testosterone
+    war: Testosterone
+    wuu: 睾酮
+    yue: 睾丸素
+    zh: 睾酮
 ---
-
 # [[Testosterone]] 
 
 ## #has_/text_of_/abstract 

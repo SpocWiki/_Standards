@@ -1,9 +1,68 @@
 ---
 aliases:
-  - Double-stranded_RNA_Virus
-  - Double-stranded RNA Virus
+- Double-stranded RNA Virus
+- Double-stranded_RNA_Virus
+- dsRNA
+- dsRNA virus
+- dsRNA-virus
+- Dubultspirāles RNS vīrusi
+- duop-ŝnurera ribonukleacida viruso
+- Guovttesáigarat RNA-virusat
+- Kaksijuosteiset RNA-virukset
+- kettős szálú RNS-vírusok
+- Kyevtsáigusâš RNA-viruseh
+- virus ARN bicatenario
+- virus d'ARN bicatenari
+- Virus dsRNA
+- virus z dvoverižno RNK
+- virus à ARN double brin
+- Vírus dsRNA
+- Wiirus-Skööl 3
+- Çift iplikçikli RNA virüsleri
+- двРНК вируси
+- двухцепочечные РНК-вирусы
+- נגיפי RNA דו-גדילי
+- فيروس رنا مزدوج السلاسل
+- ویروسهای آرانای دورشتهای
+- 二本鎖RNAウイルス
+- 双链RNA病毒
+- 雙股RNA病毒
+- 雙鏈RNA病毒
 title: Double-stranded RNA Viruses
 has_id_wikidata: Q3307900
+dv_has_:
+  name_:
+    ar: فيروس رنا مزدوج السلاسل
+    bg: двРНК вируси
+    ca: virus d'ARN bicatenari
+    de: dsRNA
+    en: double-stranded RNA virus
+    eo: duop-ŝnurera ribonukleacida viruso
+    es: virus ARN bicatenario
+    fa: ویروسهای آرانای دورشتهای
+    fi: Kaksijuosteiset RNA-virukset
+    fr: virus à ARN double brin
+    frr: Wiirus-Skööl 3
+    he: נגיפי RNA דו-גדילי
+    hu: kettős szálú RNS-vírusok
+    it: dsRNA virus
+    ja: 二本鎖RNAウイルス
+    la: dsRNA virus
+    lv: Dubultspirāles RNS vīrusi
+    nl: dsRNA virus
+    nn: dsRNA-virus
+    pt: Vírus dsRNA
+    ro: Virus dsRNA
+    ru: двухцепочечные РНК-вирусы
+    se: Guovttesáigarat RNA-virusat
+    sl: virus z dvoverižno RNK
+    smn: Kyevtsáigusâš RNA-viruseh
+    tr: Çift iplikçikli RNA virüsleri
+    zh: 双链RNA病毒
+    zh-cn: 双链RNA病毒
+    zh-hans: 双链RNA病毒
+    zh-hant: 雙鏈RNA病毒
+    zh-tw: 雙股RNA病毒
 ---
 ## Phylogeny 
 

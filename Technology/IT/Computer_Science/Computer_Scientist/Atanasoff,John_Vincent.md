@@ -1,36 +1,61 @@
 ---
 aliases:
-  - John_Vincent_Atanasoff
-  - John Vincent Atanasoff
-  - Atanasoff
-  - Atanasoff,John_Vincent
-  - Atanasoff,John Vincent
+- Atanasoff
+- Atanasoff,John Vincent
+- Atanasoff,John_Vincent
+- Con Vinsent Atanasov
+- Djon Atanasov
+- Džon Atanasov
+- John Atanasoff
+- John Vincent Atanasoff
+- John_Vincent_Atanasoff
+- Џон Атанасов
+- Џон Винсент Атанасов
+- Джон Атанасаў
+- Джон Атанасов
+- Джон Вінсент Атанасов
+- Джон Винсент Атанасов
+- Жон Винсент Атанасов
+- Ջոն Աթանասով
+- ג'ון וינסנט אטנסוף
+- جان آتاناسف
+- جان اٹناسوف
+- جون أتاناسوف
+- جون اتاناسوف
+- জন ভিনসেন্ট আটানসফ
+- ജോൺ അറ്റാനോസോഫ്
+- ဂျွန်ဗင်ဆင် အက်တာနာဆော့ဖ်
+- ჯონ ვინსენტ ატანასოვი
+- ジョン・アタナソフ
+- 約翰·文森特·阿塔納索夫
+- 约翰·文森特·阿塔纳索夫
+- 존 빈센트 아타나소프
 has_id_wikidata: Q314308
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~John_Hasbrouck_Van_Vleck,193655]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Clifford_Berry,366181]]'
-  - '[[_Standards/WikiData/WD~Charles_Joseph_Thorne,102128152]]'
-  - '[[_Standards/WikiData/WD~Roy_Herbert_Cook,102351514]]'
+- '[[_Standards/WikiData/WD~Clifford_Berry,366181]]'
+- '[[_Standards/WikiData/WD~Charles_Joseph_Thorne,102128152]]'
+- '[[_Standards/WikiData/WD~Roy_Herbert_Cook,102351514]]'
 place_of_death: '[[_Standards/WikiData/WD~Frederick,472675]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Florida,501758]]'
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
-  - '[[_Standards/WikiData/WD~Iowa_State_University,1136919]]'
-  - '[[_Standards/WikiData/WD~Mulberry_High_School,14686248]]'
+- '[[_Standards/WikiData/WD~University_of_Florida,501758]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
+- '[[_Standards/WikiData/WD~Iowa_State_University,1136919]]'
+- '[[_Standards/WikiData/WD~Mulberry_High_School,14686248]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
-  - '[[_Standards/WikiData/WD~Order_of_Stara_Planina,2522577]]'
-  - '[[_Standards/WikiData/WD~Computer_Pioneer_Award,4363133]]'
-  - '[[_Standards/WikiData/WD~Holley_Medal,21531768]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctorate_of_the_University_of_Florida,110610920]]'
-  - '[[_Standards/WikiData/WD~Order_of_Cyril_and_Methodius,_1st_Class,135034004]]'
+- '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
+- '[[_Standards/WikiData/WD~Order_of_Stara_Planina,2522577]]'
+- '[[_Standards/WikiData/WD~Computer_Pioneer_Award,4363133]]'
+- '[[_Standards/WikiData/WD~Holley_Medal,21531768]]'
+- '[[_Standards/WikiData/WD~Honorary_doctorate_of_the_University_of_Florida,110610920]]'
+- '[[_Standards/WikiData/WD~Order_of_Cyril_and_Methodius,_1st_Class,135034004]]'
 member_of: '[[_Standards/WikiData/WD~Bulgarian_Academy_of_Sciences,1003730]]'
 employer: '[[_Standards/WikiData/WD~Iowa_State_University,1136919]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hamilton,3626259]]'
@@ -49,14 +74,79 @@ Commons_category: John Vincent Atanasoff
 BHCL_UUID: ee5a3060-2de8-48a4-8bba-ff39f1ff6451
 ACM_Classification_Code_2012_: 10011398
 name_in_native_language:
-  - John Vincent Atanasoff
-  - Джон Винсънт Атанасов
+- John Vincent Atanasoff
+- Джон Винсънт Атанасов
 date_of_death: 1995-06-15T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ATANASOFF%20Pic%5E1%20-%20Flickr%20-%20Eye%20Steel%20Film.jpg
 ISNI: 0000000101284103
 date_of_birth: 1903-10-04T00:00:00Z
+dv_has_:
+  name_:
+    ar: جون أتاناسوف
+    arz: جون اتاناسوف
+    ast: John Atanasoff
+    az: Con Vinsent Atanasov
+    azb: جان آتاناسف
+    be-tarask: Джон Атанасаў
+    bg: Джон Атанасов
+    bn: জন ভিনসেন্ট আটানসফ
+    ca: John Atanasoff
+    cs: John Vincent Atanasoff
+    cy: John Vincent Atanasoff
+    da: John Vincent Atanasoff
+    dag: John Vincent Atanasoff
+    de: John Atanasoff
+    en: John Vincent Atanasoff
+    es: John Vincent Atanasoff
+    eu: John Vincent Atanasoff
+    fa: جان آتاناسف
+    fi: John Vincent Atanasoff
+    fr: John Atanasoff
+    ga: John Vincent Atanasoff
+    gl: John Vincent Atanasoff
+    he: ג'ון וינסנט אטנסוף
+    hu: John Vincent Atanasoff
+    hy: Ջոն Աթանասով
+    it: John Vincent Atanasoff
+    ja: ジョン・アタナソフ
+    ka: ჯონ ვინსენტ ატანასოვი
+    ko: 존 빈센트 아타나소프
+    ky: Жон Винсент Атанасов
+    lb: John Vincent Atanasoff
+    mg: Djon Atanasov
+    mk: Џон Винсент Атанасов
+    ml: ജോൺ അറ്റാനോസോഫ്
+    my: ဂျွန်ဗင်ဆင် အက်တာနာဆော့ဖ်
+    nb: John Vincent Atanasoff
+    nl: John Vincent Atanasoff
+    nn: John Vincent Atanasoff
+    oc: John Vincent Atanasoff
+    pap: John Vincent Atanasoff
+    pl: John Vincent Atanasoff
+    pnb: جان اٹناسوف
+    pt: John Atanasoff
+    pt-br: John Atanasoff
+    ru: Джон Винсент Атанасов
+    sl: John Vincent Atanasoff
+    sq: John Vincent Atanasoff
+    sr: Џон Атанасов
+    sr-ec: Џон Атанасов
+    sr-el: Džon Atanasov
+    sv: John Vincent Atanasoff
+    tl: John Atanasoff
+    tr: John Vincent Atanasoff
+    uk: Джон Вінсент Атанасов
+    vi: John Vincent Atanasoff
+    war: John Vincent Atanasoff
+    yue: 約翰·文森特·阿塔納索夫
+    zh: 約翰·文森特·阿塔納索夫
+    zh-cn: 约翰·文森特·阿塔纳索夫
+    zh-hans: 约翰·文森特·阿塔纳索夫
+    zh-hant: 約翰·文森特·阿塔納索夫
+    zh-hk: 約翰·文森特·阿塔納索夫
+    zh-sg: 约翰·文森特·阿塔纳索夫
+    zh-tw: 約翰·文森特·阿塔納索夫
 ---
-
 # [[Atanasoff,John_Vincent]] 
 
 #is_/same_as :: [[WD~John_Vincent_Atanasoff,314308]] 

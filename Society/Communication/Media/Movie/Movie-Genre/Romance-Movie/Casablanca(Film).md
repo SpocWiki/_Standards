@@ -1,147 +1,282 @@
 ---
-aliases: 
+aliases:
+- Casablanca
+- Kasablanka
+- Kazablanka
+- Καζαμπλάνκα
+- Казабланка
+- Касабланка
+- Касаблянка
+- Կասաբլանկա
+- Քազապլանքա
+- קזבלנקה
+- فیلم کازابلانکا
+- كازبلانكا
+- کازابلانکا
+- کاسا بلانکا
+- کاسابلانکا
+- কাসাব্লাঙ্কা
+- ਕਾਸਾਬਲਾਂਕਾ
+- காசாபிலங்கா
+- కాసాబ్లాంకా
+- കാസബ്ലങ്ക
+- คาซาบลังกา
+- კასაბლანკა
+- カサブランカ
+- 北非諜影
+- 北非谍影
+- 卡萨布兰卡
+- 카사블랑카
 has_id_wikidata: Q132689
 cast_member:
-  - "[[_Standards/WikiData/WD~Curt_Bois,66479]]"
-  - "[[_Standards/WikiData/WD~Paul_Panzer,70692]]"
-  - "[[_Standards/WikiData/WD~Peter_Lorre,78505]]"
-  - "[[_Standards/WikiData/WD~Ilka_Grüning,85474]]"
-  - "[[_Standards/WikiData/WD~Ludwig_Stössel,86348]]"
-  - "[[_Standards/WikiData/WD~Hans_Heinrich_von_Twardowski,88143]]"
-  - "[[_Standards/WikiData/WD~Paul_Henreid,93467]]"
-  - "[[_Standards/WikiData/WD~Trude_Berliner,95486]]"
-  - "[[_Standards/WikiData/WD~Wolfgang_Zilzer,108479]]"
-  - "[[_Standards/WikiData/WD~Louis_V._Arco,214767]]"
-  - "[[_Standards/WikiData/WD~Joy_Page,271419]]"
-  - "[[_Standards/WikiData/WD~Frank_Puglia,283123]]"
-  - "[[_Standards/WikiData/WD~Claude_Rains,318734]]"
-  - "[[_Standards/WikiData/WD~Madeleine_LeBeau,456390]]"
-  - "[[_Standards/WikiData/WD~Norma_Varden,524325]]"
-  - "[[_Standards/WikiData/WD~Sydney_Greenstreet,656507]]"
-  - "[[_Standards/WikiData/WD~Helmut_Dantine,743056]]"
-  - "[[_Standards/WikiData/WD~Dooley_Wilson,908998]]"
-  - "[[_Standards/WikiData/WD~Dan_Seymour,953504]]"
-  - "[[_Standards/WikiData/WD~S._Z._Sakall,955183]]"
-  - "[[_Standards/WikiData/WD~John_Qualen,1364339]]"
-  - "[[_Standards/WikiData/WD~Leo_White,1383202]]"
-  - "[[_Standards/WikiData/WD~George_J._Lewis,1707761]]"
-  - "[[_Standards/WikiData/WD~Creighton_Hale,1754382]]"
-  - "[[_Standards/WikiData/WD~Leonid_Kinskey,1819392]]"
-  - "[[_Standards/WikiData/WD~Marcel_Dalio,1893008]]"
-  - "[[_Standards/WikiData/WD~Alberto_Morin,2831802]]"
-  - "[[_Standards/WikiData/WD~George_Dee,3101520]]"
-  - "[[_Standards/WikiData/WD~George_Meeker,3101763]]"
-  - "[[_Standards/WikiData/WD~Georges_Renavent,3103406]]"
-  - "[[_Standards/WikiData/WD~Gerald_Oliver_Smith,3103904]]"
-  - "[[_Standards/WikiData/WD~Gregory_Gaye,3116367]]"
-  - "[[_Standards/WikiData/WD~Jamiel_Hasson,3161563]]"
-  - "[[_Standards/WikiData/WD~Torben_Meyer,3532221]]"
-  - "[[_Standards/WikiData/WD~Barry_Norton,4864570]]"
-  - "[[_Standards/WikiData/WD~Corinna_Mura,5170567]]"
-  - "[[_Standards/WikiData/WD~Ellinor_Vanderveer,5365444]]"
-  - "[[_Standards/WikiData/WD~Frank_Mazzola,5488234]]"
-  - "[[_Standards/WikiData/WD~Gino_Corrado,5563216]]"
-  - "[[_Standards/WikiData/WD~Jean_De_Briac,6170516]]"
-  - "[[_Standards/WikiData/WD~William_Edmunds,6476470]]"
-  - "[[_Standards/WikiData/WD~Leon_Belasco,6524510]]"
-  - "[[_Standards/WikiData/WD~Paul_Porcasi,7152983]]"
-  - "[[_Standards/WikiData/WD~Richard_Ryen,11957805]]"
-  - "[[_Standards/WikiData/WD~Adrienne_D'Ambricourt,15069875]]"
-  - "[[_Standards/WikiData/WD~Jean_Del_Val,15512268]]"
-  - "[[_Standards/WikiData/WD~Oliver_Blake,20972698]]"
-  - "[[_Standards/WikiData/WD~Louis_Mercier,43024948]]"
-  - "[[_Standards/WikiData/WD~Humphrey_Bogart,16390]]"
-  - "[[_Standards/WikiData/WD~Ingrid_Bergman,43247]]"
-  - "[[_Standards/WikiData/WD~Conrad_Veidt,58801]]"
-production_designer: "[[_Standards/WikiData/WD~Carl_Jules_Weyl,89017]]"
+- '[[_Standards/WikiData/WD~Curt_Bois,66479]]'
+- '[[_Standards/WikiData/WD~Paul_Panzer,70692]]'
+- '[[_Standards/WikiData/WD~Peter_Lorre,78505]]'
+- '[[_Standards/WikiData/WD~Ilka_Grüning,85474]]'
+- '[[_Standards/WikiData/WD~Ludwig_Stössel,86348]]'
+- '[[_Standards/WikiData/WD~Hans_Heinrich_von_Twardowski,88143]]'
+- '[[_Standards/WikiData/WD~Paul_Henreid,93467]]'
+- '[[_Standards/WikiData/WD~Trude_Berliner,95486]]'
+- '[[_Standards/WikiData/WD~Wolfgang_Zilzer,108479]]'
+- '[[_Standards/WikiData/WD~Louis_V._Arco,214767]]'
+- '[[_Standards/WikiData/WD~Joy_Page,271419]]'
+- '[[_Standards/WikiData/WD~Frank_Puglia,283123]]'
+- '[[_Standards/WikiData/WD~Claude_Rains,318734]]'
+- '[[_Standards/WikiData/WD~Madeleine_LeBeau,456390]]'
+- '[[_Standards/WikiData/WD~Norma_Varden,524325]]'
+- '[[_Standards/WikiData/WD~Sydney_Greenstreet,656507]]'
+- '[[_Standards/WikiData/WD~Helmut_Dantine,743056]]'
+- '[[_Standards/WikiData/WD~Dooley_Wilson,908998]]'
+- '[[_Standards/WikiData/WD~Dan_Seymour,953504]]'
+- '[[_Standards/WikiData/WD~S._Z._Sakall,955183]]'
+- '[[_Standards/WikiData/WD~John_Qualen,1364339]]'
+- '[[_Standards/WikiData/WD~Leo_White,1383202]]'
+- '[[_Standards/WikiData/WD~George_J._Lewis,1707761]]'
+- '[[_Standards/WikiData/WD~Creighton_Hale,1754382]]'
+- '[[_Standards/WikiData/WD~Leonid_Kinskey,1819392]]'
+- '[[_Standards/WikiData/WD~Marcel_Dalio,1893008]]'
+- '[[_Standards/WikiData/WD~Alberto_Morin,2831802]]'
+- '[[_Standards/WikiData/WD~George_Dee,3101520]]'
+- '[[_Standards/WikiData/WD~George_Meeker,3101763]]'
+- '[[_Standards/WikiData/WD~Georges_Renavent,3103406]]'
+- '[[_Standards/WikiData/WD~Gerald_Oliver_Smith,3103904]]'
+- '[[_Standards/WikiData/WD~Gregory_Gaye,3116367]]'
+- '[[_Standards/WikiData/WD~Jamiel_Hasson,3161563]]'
+- '[[_Standards/WikiData/WD~Torben_Meyer,3532221]]'
+- '[[_Standards/WikiData/WD~Barry_Norton,4864570]]'
+- '[[_Standards/WikiData/WD~Corinna_Mura,5170567]]'
+- '[[_Standards/WikiData/WD~Ellinor_Vanderveer,5365444]]'
+- '[[_Standards/WikiData/WD~Frank_Mazzola,5488234]]'
+- '[[_Standards/WikiData/WD~Gino_Corrado,5563216]]'
+- '[[_Standards/WikiData/WD~Jean_De_Briac,6170516]]'
+- '[[_Standards/WikiData/WD~William_Edmunds,6476470]]'
+- '[[_Standards/WikiData/WD~Leon_Belasco,6524510]]'
+- '[[_Standards/WikiData/WD~Paul_Porcasi,7152983]]'
+- '[[_Standards/WikiData/WD~Richard_Ryen,11957805]]'
+- "[[_Standards/WikiData/WD~Adrienne_D'Ambricourt,15069875]]"
+- '[[_Standards/WikiData/WD~Jean_Del_Val,15512268]]'
+- '[[_Standards/WikiData/WD~Oliver_Blake,20972698]]'
+- '[[_Standards/WikiData/WD~Louis_Mercier,43024948]]'
+- '[[_Standards/WikiData/WD~Humphrey_Bogart,16390]]'
+- '[[_Standards/WikiData/WD~Ingrid_Bergman,43247]]'
+- '[[_Standards/WikiData/WD~Conrad_Veidt,58801]]'
+production_designer: '[[_Standards/WikiData/WD~Carl_Jules_Weyl,89017]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Black_and_White,21995139]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Black_and_White,21995139]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]"
-distributed_by: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]'
+distributed_by: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 production_company:
-  - "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Pictures,65557474]]"
+- '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Pictures,65557474]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~film_noir,185867]]"
-  - "[[_Standards/WikiData/WD~war_film,369747]]"
-  - "[[_Standards/WikiData/WD~romance_film,1054574]]"
-  - "[[_Standards/WikiData/WD~flashback_film,21401869]]"
-director_of_photography: "[[_Standards/WikiData/WD~Arthur_Edeson,209084]]"
-composer: "[[_Standards/WikiData/WD~Max_Steiner,350704]]"
-executive_producer: "[[_Standards/WikiData/WD~Hal_B._Wallis,472520]]"
-producer: "[[_Standards/WikiData/WD~Hal_B._Wallis,472520]]"
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~romance_film,1054574]]'
+- '[[_Standards/WikiData/WD~flashback_film,21401869]]'
+director_of_photography: '[[_Standards/WikiData/WD~Arthur_Edeson,209084]]'
+composer: '[[_Standards/WikiData/WD~Max_Steiner,350704]]'
+executive_producer: '[[_Standards/WikiData/WD~Hal_B._Wallis,472520]]'
+producer: '[[_Standards/WikiData/WD~Hal_B._Wallis,472520]]'
 distribution_format:
-  - "[[_Standards/WikiData/WD~video_on_demand,723685]]"
-  - "[[_Standards/WikiData/WD~broadcasting,15078788]]"
-  - "[[_Standards/WikiData/WD~theatrical_release,47544021]]"
-  - "[[_Standards/WikiData/WD~home_video_release,47544035]]"
+- '[[_Standards/WikiData/WD~video_on_demand,723685]]'
+- '[[_Standards/WikiData/WD~broadcasting,15078788]]'
+- '[[_Standards/WikiData/WD~theatrical_release,47544021]]'
+- '[[_Standards/WikiData/WD~home_video_release,47544035]]'
 screenwriter:
-  - "[[_Standards/WikiData/WD~Julius_J._Epstein,795022]]"
-  - "[[_Standards/WikiData/WD~Philip_G._Epstein,795100]]"
-  - "[[_Standards/WikiData/WD~Howard_W._Koch,982710]]"
-  - "[[_Standards/WikiData/WD~Howard_Koch,1343692]]"
-  - "[[_Standards/WikiData/WD~Casey_Robinson,2277915]]"
-part_of: "[[_Standards/WikiData/WD~National_Film_Registry,823422]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
-costume_designer: "[[_Standards/WikiData/WD~Orry_Kelly,922527]]"
-aspect_ratio_W_H_: "[[_Standards/WikiData/WD~Academy_ratio,1541540]]"
-film_editor: "[[_Standards/WikiData/WD~Owen_Marks,2042628]]"
+- '[[_Standards/WikiData/WD~Julius_J._Epstein,795022]]'
+- '[[_Standards/WikiData/WD~Philip_G._Epstein,795100]]'
+- '[[_Standards/WikiData/WD~Howard_W._Koch,982710]]'
+- '[[_Standards/WikiData/WD~Howard_Koch,1343692]]'
+- '[[_Standards/WikiData/WD~Casey_Robinson,2277915]]'
+part_of: '[[_Standards/WikiData/WD~National_Film_Registry,823422]]'
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
+costume_designer: '[[_Standards/WikiData/WD~Orry_Kelly,922527]]'
+aspect_ratio_W_H_: '[[_Standards/WikiData/WD~Academy_ratio,1541540]]'
+film_editor: '[[_Standards/WikiData/WD~Owen_Marks,2042628]]'
 assessment:
-  - "[[_Standards/WikiData/WD~Bechdel_test,4165246]]"
-  - "[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]"
+- '[[_Standards/WikiData/WD~Bechdel_test,4165246]]'
+- '[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Casablanca%20logo.svg
 based_on: "[[_Standards/WikiData/WD~Everybody_Comes_to_Rick's,11990209]]"
-MPA_film_rating: "[[_Standards/WikiData/WD~PG,18665334]]"
-FSK_film_rating: "[[_Standards/WikiData/WD~FSK_6,20644795]]"
-RARS_rating: "[[_Standards/WikiData/WD~12+,23308562]]"
-Kijkwijzer_rating: "[[_Standards/WikiData/WD~6,23649981]]"
-EIRIN_film_rating: "[[_Standards/WikiData/WD~G,23790275]]"
-CNC_film_rating_France_: "[[_Standards/WikiData/WD~no_age_restriction,23817729]]"
-Filmiroda_rating: "[[_Standards/WikiData/WD~Category_II,23830577]]"
-Medierådet_rating: "[[_Standards/WikiData/WD~Suitable_for_a_general_audience,56887384]]"
-described_by_source: "[[_Standards/WikiData/WD~AWFJ_s_Top_100_Films_List,95415779]]"
-film_crew_member: "[[_Standards/WikiData/WD~Hugh_McMullen,95788923]]"
-main_subject: "[[_Standards/WikiData/WD~fleeting_relationship,96280219]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-narrative_locations: "[[_Standards/WikiData/WD~Casablanca,7903]]"
-instance_of: "[[_Standards/WikiData/WD~film,11424]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_locations: "[[_Standards/WikiData/WD~California,99]]"
+MPA_film_rating: '[[_Standards/WikiData/WD~PG,18665334]]'
+FSK_film_rating: '[[_Standards/WikiData/WD~FSK_6,20644795]]'
+RARS_rating: '[[_Standards/WikiData/WD~12+,23308562]]'
+Kijkwijzer_rating: '[[_Standards/WikiData/WD~6,23649981]]'
+EIRIN_film_rating: '[[_Standards/WikiData/WD~G,23790275]]'
+CNC_film_rating_France_: '[[_Standards/WikiData/WD~no_age_restriction,23817729]]'
+Filmiroda_rating: '[[_Standards/WikiData/WD~Category_II,23830577]]'
+Medierådet_rating: '[[_Standards/WikiData/WD~Suitable_for_a_general_audience,56887384]]'
+described_by_source: '[[_Standards/WikiData/WD~AWFJ_s_Top_100_Films_List,95415779]]'
+film_crew_member: '[[_Standards/WikiData/WD~Hugh_McMullen,95788923]]'
+main_subject: '[[_Standards/WikiData/WD~fleeting_relationship,96280219]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+narrative_locations: '[[_Standards/WikiData/WD~Casablanca,7903]]'
+instance_of: '[[_Standards/WikiData/WD~film,11424]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+filming_locations: '[[_Standards/WikiData/WD~California,99]]'
 capital_cost: 950000
 duration: 102
-director: "[[_Standards/WikiData/WD~Michael_Curtiz,51491]]"
-exploitation_mark_number: "4940"
+director: '[[_Standards/WikiData/WD~Michael_Curtiz,51491]]'
+exploitation_mark_number: 4940
 title: Casablanca
 review_score:
-  - 99%
-  - 100/100
-  - 9.4/10
+- 99%
+- 100/100
+- 9.4/10
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Casablanca%20trailer%20%281942%29.webm
 ISAN: 0000-0001-2B7D-0000-6-0000-0000-J
 Plex_media_key: 5d776824103a2d001f5639b1
-P8189: "987007586304705171"
+P8189: 987007586304705171
 Amazon_Standard_Identification_Number: B001EBWINQ
 Commons_category: Casablanca (film)
 publication_date:
-  - 1943-10-11T00:00:00Z
-  - 1943-01-23T00:00:00Z
-  - 1942-11-26T00:00:00Z
+- 1943-10-11T00:00:00Z
+- 1943-01-23T00:00:00Z
+- 1942-11-26T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20%26%20Bogart%20Casablanca%20still.jpg
 film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster-Gold.jpg
+dv_has_:
+  name_:
+    af: Casablanca
+    an: Casablanca
+    ar: كازبلانكا
+    arz: كازبلانكا
+    ast: Casablanca
+    az: Kasablanka
+    azb: کازابلانکا
+    bar: Casablanca
+    be: Касабланка
+    be-tarask: Касаблянка
+    bg: Казабланка
+    bn: কাসাব্লাঙ্কা
+    br: Casablanca
+    bs: Casablanca
+    ca: Casablanca
+    ckb: کازابلانکا
+    cs: Casablanca
+    cv: Касабланка
+    cy: Casablanca
+    da: Casablanca
+    de: Casablanca
+    el: Καζαμπλάνκα
+    en: Casablanca
+    en-gb: Casablanca
+    en-us: Casablanca
+    eo: Casablanca
+    es: Casablanca
+    et: Casablanca
+    eu: Casablanca
+    ext: Casablanca
+    fa: کازابلانکا
+    fi: Casablanca
+    fr: Casablanca
+    fy: Casablanca
+    ga: Casablanca
+    gd: Casablanca
+    gl: Casablanca
+    gor: Casablanca
+    gv: Casablanca
+    he: קזבלנקה
+    hif: Casablanca
+    hr: Casablanca
+    ht: Casablanca
+    hu: Casablanca
+    hy: Կասաբլանկա
+    hyw: Քազապլանքա
+    id: Casablanca
+    ilo: Casablanca
+    io: Casablanca
+    is: Casablanca
+    it: Casablanca
+    ja: カサブランカ
+    ka: კასაბლანკა
+    kab: Casablanca
+    ko: 카사블랑카
+    kw: Casablanca
+    ky: Касабланка
+    la: Casablanca
+    lb: Casablanca
+    lrc: فیلم کازابلانکا
+    lt: Kasablanka
+    lv: Kasablanka
+    mk: Казабланка
+    ml: കാസബ്ലങ്ക
+    ms: Casablanca
+    nan: Casablanca
+    nb: Casablanca
+    nl: Casablanca
+    nn: Casablanca
+    oc: Casablanca
+    pa: ਕਾਸਾਬਲਾਂਕਾ
+    pl: Casablanca
+    pnb: کاسابلانکا
+    ps: کازابلانکا
+    pt: Casablanca
+    pt-br: Casablanca
+    qu: Casablanca
+    rm: Casablanca
+    ro: Casablanca
+    ru: Касабланка
+    sco: Casablanca
+    sh: Casablanca
+    sk: Casablanca
+    sl: Casablanca
+    sq: Casablanca
+    sr: Казабланка
+    sr-ec: Казабланка
+    sr-el: Kazablanka
+    sv: Casablanca
+    ta: காசாபிலங்கா
+    te: కాసాబ్లాంకా
+    th: คาซาบลังกา
+    tl: Casablanca
+    tr: Kazablanka
+    uk: Касабланка
+    ur: کاسا بلانکا
+    vi: Casablanca
+    wuu: 卡萨布兰卡
+    yue: 北非諜影
+    zh: 北非谍影
+    zh-cn: 卡萨布兰卡
+    zh-hans: 卡萨布兰卡
+    zh-hant: 北非諜影
+    zh-hk: 北非諜影
+    zh-my: 北非谍影
+    zh-sg: 北非谍影
+    zh-tw: 北非諜影
 ---
-
 # [[Casablanca(Film)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Casablanca,132689|WD~Casablanca,132689]] 

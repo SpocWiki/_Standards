@@ -1,9 +1,103 @@
 ---
 aliases:
-  - Paul Bruce Dickinson
-  - Bruce Dickinson
-  - Dickinson,Bruce
+- Bruce Dickinson
+- Brus Dikinson
+- Brūss Dikinsons
+- Dickinson,Bruce
+- Paul Bruce Dickinson
+- Μπρους Ντίκινσον
+- Брус Дзікінсан
+- Брус Дикинсон
+- Брус Дикинсън
+- Брус Дыкінсан
+- Брюс Дікінсон
+- Брюс Дикинсон
+- Բրյուս Դիկինսոն
+- ברוס דיקינסון
+- بروس ديكنسون
+- بروس دیکینسن
+- ব্রুস ডিকিনসন
+- ਬਰੂਸ ਡਿਕਿਨਸਨ
+- ბრიუს დიკინსონი
+- ブルース・ディッキンソン
+- 布魯斯迪金森
+- 布鲁斯·迪金森
+- 브루스 딕킨슨
 has_id_wikidata: Q190151
+dv_has_:
+  name_:
+    ar: بروس ديكنسون
+    arz: بروس ديكنسون
+    ast: Bruce Dickinson
+    azb: بروس دیکینسن
+    be: Брус Дзікінсан
+    be-tarask: Брус Дыкінсан
+    bg: Брус Дикинсън
+    bn: ব্রুস ডিকিনসন
+    br: Bruce Dickinson
+    bs: Bruce Dickinson
+    ca: Bruce Dickinson
+    cs: Bruce Dickinson
+    cy: Bruce Dickinson
+    da: Bruce Dickinson
+    dag: Bruce Dickinson
+    de: Bruce Dickinson
+    el: Μπρους Ντίκινσον
+    eml: Bruce Dickinson
+    en: Bruce Dickinson
+    eo: Bruce Dickinson
+    es: Bruce Dickinson
+    et: Bruce Dickinson
+    eu: Bruce Dickinson
+    fa: بروس دیکینسن
+    fi: Bruce Dickinson
+    fo: Bruce Dickinson
+    fr: Bruce Dickinson
+    fy: Bruce Dickinson
+    gl: Bruce Dickinson
+    he: ברוס דיקינסון
+    hr: Bruce Dickinson
+    hu: Bruce Dickinson
+    hy: Բրյուս Դիկինսոն
+    id: Bruce Dickinson
+    io: Bruce Dickinson
+    is: Bruce Dickinson
+    it: Bruce Dickinson
+    ja: ブルース・ディッキンソン
+    ka: ბრიუს დიკინსონი
+    ko: 브루스 딕킨슨
+    la: Bruce Dickinson
+    lt: Bruce Dickinson
+    lv: Brūss Dikinsons
+    mg: Bruce Dickinson
+    mk: Брус Дикинсон
+    mul: Bruce Dickinson
+    nb: Bruce Dickinson
+    nl: Bruce Dickinson
+    nn: Bruce Dickinson
+    pa: ਬਰੂਸ ਡਿਕਿਨਸਨ
+    pl: Bruce Dickinson
+    pt: Bruce Dickinson
+    pt-br: Bruce Dickinson
+    ro: Bruce Dickinson
+    ru: Брюс Дикинсон
+    sco: Bruce Dickinson
+    sh: Bruce Dickinson
+    sk: Bruce Dickinson
+    sl: Bruce Dickinson
+    sq: Bruce Dickinson
+    sr: Брус Дикинсон
+    sr-ec: Брус Дикинсон
+    sr-el: Brus Dikinson
+    sv: Bruce Dickinson
+    tr: Bruce Dickinson
+    tw: Bruce Dickinson
+    uk: Брюс Дікінсон
+    vi: Bruce Dickinson
+    war: Bruce Dickinson
+    wuu: 布鲁斯·迪金森
+    yue: 布魯斯迪金森
+    zh: 布鲁斯·迪金森
 ---
 # [[Dickinson,Bruce]] 
 

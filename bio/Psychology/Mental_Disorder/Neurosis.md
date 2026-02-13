@@ -1,22 +1,162 @@
 ---
 aliases:
-  - Neurose
-  - Neurosen
-  - Neurosis
+- Hola kʊdɔŋ
+- Loạn thần kinh chức năng
+- neiroze
+- Nerv kesellikleri
+- neuroos
+- neuroosi
+- neuros
+- Neurose
+- Neurosen
+- neurosi
+- Neurosis
+- Neuroz
+- neuroza
+- neurozė
+- neuróza
+- neurózis
+- nevrosa
+- nevrose
+- nevrosi
+- Nevroso
+- Nevroz
+- nevroza
+- nevroze
+- nevroză
+- neŭrozo
+- néaróis
+- névrose
+- zaburzenia nerwicowe
+- Νεύρωση
+- неўроз
+- невроз
+- Невроза
+- невроздор
+- неуроза
+- нивруз
+- нэўроз
+- психонервоз
+- Նևրոզներ
+- נוירוזה
+- روان نژندی
+- رواننژندی
+- عصاب
+- منوتاپ
+- نيوروز
+- نەورۆز
+- तंत्रिकाताप
+- নিউরোসিস
+- ਮਨੋਤਾਪ
+- โรคประสาท
+- ნევროზი
+- 神経症
+- 神經症
+- 神经症
+- 精神官能症
+- 신경증
 has_id_wikidata: Q181032
 instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q116821136,116821136]]'
 facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
 health_specialty: '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
 Dewey_Decimal_Classification: 616.852
 Krugosvet_article_archived_: medicina/NEVROZ.html
+dv_has_:
+  name_:
+    ar: عصاب
+    arz: نيوروز
+    ast: Neurosis
+    az: Nevroz
+    be: неўроз
+    be-tarask: нэўроз
+    bg: Невроза
+    bn: নিউরোসিস
+    ca: neurosi
+    cs: neuróza
+    da: neurose
+    de: Neurose
+    el: Νεύρωση
+    en: neurosis
+    eo: neŭrozo
+    es: neurosis
+    et: neuroos
+    eu: Neurosi
+    fa: رواننژندی
+    fi: neuroosi
+    fr: névrose
+    ga: néaróis
+    gl: neurose
+    gpe: neurosis
+    he: נוירוזה
+    hi: तंत्रिकाताप
+    hr: neuroza
+    ht: Nevroz
+    hu: neurózis
+    hy: Նևրոզներ
+    id: Neurosis
+    io: Nevroso
+    it: nevrosi
+    ja: 神経症
+    ka: ნევროზი
+    kaa: Nerv kesellikleri
+    kbp: Hola kʊdɔŋ
+    kk: психонервоз
+    ko: 신경증
+    koi: Nevroz
+    ku: Neuroz
+    ku-arab: نەورۆز
+    ku-latn: Neuroz
+    ky: невроздор
+    la: neurosis
+    lt: neurozė
+    lv: neiroze
+    mk: Невроза
+    ms: Neurosis
+    mzn: روان نژندی
+    nb: nevrose
+    nl: neurose
+    pa: ਮਨੋਤਾਪ
+    pl: zaburzenia nerwicowe
+    pnb: منوتاپ
+    pt: neurose
+    ro: nevroză
+    ru: невроз
+    se: nevrosa
+    sh: Neuroza
+    sk: Neuróza
+    sl: nevroza
+    smn: neuroos
+    sms: neuroos
+    sq: Neuroza
+    sr: неуроза
+    sr-ec: неуроза
+    sr-el: Neuroza
+    su: Neurosis
+    sv: neuros
+    th: โรคประสาท
+    tr: Nevroz
+    tt: нивруз
+    uk: невроз
+    ur: عصاب
+    uz: Nevroz
+    vec: nevroze
+    vi: Loạn thần kinh chức năng
+    wuu: 神经症
+    yue: 神經症
+    zh: 神经症
+    zh-cn: 神经症
+    zh-hans: 神经症
+    zh-hant: 神經症
+    zh-hk: 精神官能症
+    zh-sg: 神经症
+    zh-tw: 精神官能症
 ---
-
 # [[Neurosis]] 
 
 #is_/better_than ::  [[Psychosis/Borderline_Personality_Disorder|Borderline_Personality_Disorder]] 

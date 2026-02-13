@@ -1,41 +1,200 @@
 ---
 aliases:
-  - Decke
-  - Ceiling
+- Ceiling
+- Dari
+- Decke
+- griesti
+- himling
+- innertak
+- Kisame
+- lagi
+- langit-langit
+- Lobas
+- loft
+- lubos
+- mennyezet
+- nenfwd
+- Niōng-bēng
+- pakkâkáttu
+- plafon
+- plafond
+- Plafong
+- plafono
+- plefon
+- pátik
+- s9af
+- Sabai
+- Sel
+- siling
+- sisgáhttu
+- sisäkatto
+- soffitto
+- sofito
+- sostre
+- strop
+- síleáil
+- tavan
+- Tavani
+- techo
+- Techu
+- Teito
+- teto
+- Thian-pông
+- trần nhà
+- Tâvani
+- wjerch
+- Οροφή
+- Мачча
+- плафон
+- потолок
+- Сақф
+- стеля
+- столь
+- Таван
+- таваница
+- түшәм
+- Үрүт
+- סופיט
+- תקרה
+- سقف
+- سيليڠ
+- ܩܪܫܬܐ
+- တိုမ်း
+- မျက်နှာကြက်
+- ᡳᠯᡥᠠᠩᡤᠠ ᠶᠠᠪᡳᡥᠠᠨ
+- 天井
+- 天花板
+- 천장
 has_id_wikidata: Q221706
-opposite_of: "[[_Standards/WikiData/WD~floor,217164]]"
+opposite_of: '[[_Standards/WikiData/WD~floor,217164]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
-  - "[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]"
+- '[[_Standards/WikiData/WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Plafond,402611]]"
-  - "[[_Standards/WikiData/WD~Strop,9346777]]"
-  - "[[_Standards/WikiData/WD~Decke,12140815]]"
+- '[[_Standards/WikiData/WD~Plafond,402611]]'
+- '[[_Standards/WikiData/WD~Strop,9346777]]'
+- '[[_Standards/WikiData/WD~Decke,12140815]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-location: "[[_Standards/WikiData/WD~top,30504649]]"
-connects_with: "[[_Standards/WikiData/WD~mawaribuchi,131603329]]"
-facet_of: "[[_Standards/WikiData/WD~building,41176]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+location: '[[_Standards/WikiData/WD~top,30504649]]'
+connects_with: '[[_Standards/WikiData/WD~mawaribuchi,131603329]]'
+facet_of: '[[_Standards/WikiData/WD~building,41176]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Systeemplafond.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/2043-01470%20Plafond%20van%20de%20Grote%20Tempel.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Holmens%20Kirke%20Copenhagen%20ceiling%20deco3.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Laterano%2C%20Roma.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Torun%20Kopernika%2021%20pietro%20strop%20%282%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Systeemplafond.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/2043-01470%20Plafond%20van%20de%20Grote%20Tempel.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Holmens%20Kirke%20Copenhagen%20ceiling%20deco3.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Laterano%2C%20Roma.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Torun%20Kopernika%2021%20pietro%20strop%20%282%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-plafond.wav
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Plafond%20%28bouw%29-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q221706-ar.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Plafond%20%28bouw%29-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q221706-ar.ogg
 Commons_category: Ceilings
-Dewey_Decimal_Classification: "721.7"
+Dewey_Decimal_Classification: 721.7
 OpenStreetMap_tag: support=ceiling
+dv_has_:
+  name_:
+    aeb-arab: سقف
+    aeb-latn: s9af
+    an: Teito
+    ar: سقف
+    arc: ܩܪܫܬܐ
+    ast: Techu
+    az: Tavan
+    azb: سقف
+    be: столь
+    be-tarask: столь
+    bg: Таван
+    br: Sel
+    ca: sostre
+    cdo: Niōng-bēng
+    cs: strop
+    cv: Мачча
+    cy: nenfwd
+    da: loft
+    de: Decke
+    de-ch: Decke
+    el: Οροφή
+    en: ceiling
+    en-ca: Ceiling
+    en-gb: ceiling
+    en-us: ceiling
+    eo: plafono
+    es: techo
+    et: lagi
+    eu: Sabai
+    fa: سقف
+    fi: sisäkatto
+    fr: plafond
+    ga: síleáil
+    gl: teito
+    he: תקרה
+    hr: Strop
+    hsb: wjerch
+    hu: mennyezet
+    id: langit-langit
+    io: Plafono
+    it: soffitto
+    ja: 天井
+    kaa: pátik
+    ko: 천장
+    lb: Plafong
+    lt: lubos
+    lv: griesti
+    mk: таваница
+    mnc: ᡳᠯᡥᠠᠩᡤᠠ ᠶᠠᠪᡳᡥᠠᠨ
+    ms: siling
+    ms-arab: سيليڠ
+    my: မျက်နှာကြက်
+    nan: Thian-pông
+    nb: himling
+    nds-nl: plefon
+    nl: plafond
+    nn: himling
+    pl: strop
+    pt: teto
+    pt-br: Teto
+    ro: plafon
+    ru: потолок
+    rup: Tâvani
+    sah: Үрүт
+    se: sisgáhttu
+    sgs: Lobas
+    sh: strop
+    shn: တိုမ်း
+    sk: Strop
+    sl: strop
+    smn: pakkâkáttu
+    sq: Tavani
+    sr: плафон
+    sr-ec: плафон
+    sr-el: plafon
+    sv: innertak
+    sw: Dari
+    tg: Сақф
+    tl: Kisame
+    tr: tavan
+    tt: түшәм
+    tt-cyrl: түшәм
+    uk: стеля
+    vec: sofito
+    vi: trần nhà
+    wuu: 天花板
+    yi: סופיט
+    yue: 天花板
+    zh: 天花板
+    zh-cn: 天花板
+    zh-hans: 天花板
+    zh-hant: 天花板
+    zh-hk: 天花板
+    zh-sg: 天花板
+    zh-tw: 天花板
 ---
-
 # [[Ceiling]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ceiling,221706|WD~Ceiling,221706]] 

@@ -1,20 +1,208 @@
 ---
 aliases:
-  - Dialectic
+- Bienhcingqfap
+- biện chứng
+- Daelerezh
+- Daylekteth
+- Dialectic
+- Dialectica
+- Dialectică
+- dialectiek
+- dialectique
+- dialektiek
+- Dialektiikka
+- dialektik
+- Dialektika
+- dialektikk
+- Dialektiko
+- Dialektlik
+- dialektyka
+- Dialektėka
+- Dialetica
+- dialettica
+- Dialäktik
+- dialèctica
+- dialéctica
+- dialéktika
+- Dialética
+- Dialéutica
+- Dijalektika
+- dilechdid
+- diyalektik
+- Diyalektîk
+- Ekigobensonga
+- I-Dayalekthiki
+- Piān-chèng
+- Upembuzi
+- Þrætubók
+- Διαλεκτική
+- Діалектіка
+- діалектика
+- Дијалектика
+- Диалектик
+- Диалектика
+- Дыялектыка
+- Танымның диалектикалық әдісі
+- Դիալեկտիկա
+- דיאַלעקטיק
+- דיאלקטיקה
+- جدليات
+- جدلية
+- جدلیات
+- دیالکتیک
+- دیالێکتیک
+- ڈایالیکٹک
+- ډيالېکتيک (مناظره)
+- द्वंद्वात्मक तर्कपद्धति
+- দ্বন্দ্ববাদ
+- ਵਿਰੋਧਵਿਕਾਸ
+- நியாயவாதம்
+- വൈരുദ്ധ്യാത്മക വാദം
+- วิภาษวิธี
+- ဒိုင်ယာလက်တစ်
+- დიალექტიკა
+- ዳያሌክቲክ
+- Ḍialèktik
+- 弁証法
+- 辩证法
+- 辯證法
+- 변증법
 has_id_wikidata: Q9453
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Pencz%2C%20Dialectic%2C%20NGA%2033130.jpg
 main_subject: '[[_Standards/WikiData/WD~contrast,12378336]]'
 part_of: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20basis%20of%20dialectic.svg
 subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
+dv_has_:
+  name_:
+    af: dialektiek
+    am: ዳያሌክቲክ
+    an: Dialectica
+    ar: جدلية
+    as: দ্বন্দ্ববাদ
+    ast: Dialéutica
+    az: Dialektika
+    azb: دیالکتیک
+    ba: Диалектика
+    ban: Dialektika
+    bar: Dialektik
+    be: Дыялектыка
+    be-tarask: Дыялектыка
+    bg: Диалектика
+    bn: দ্বন্দ্ববাদ
+    br: Daelerezh
+    bs: Dijalektika
+    btm: Dialektik
+    ca: dialèctica
+    ce: Диалектика
+    ckb: دیالێکتیک
+    crh: Dialektlik
+    cs: dialektika
+    cy: dilechdid
+    da: Dialektik
+    de: Dialektik
+    el: Διαλεκτική
+    en: dialectic
+    en-ca: Dialectic
+    en-gb: dialectic
+    eo: dialektiko
+    es: dialéctica
+    es-419: Dialéctica
+    et: Dialektika
+    eu: dialektika
+    fa: دیالکتیک
+    fi: Dialektiikka
+    fr: dialectique
+    frr: Dialektik
+    gl: Dialéctica
+    gsw: Dialäktik
+    he: דיאלקטיקה
+    hi: द्वंद्वात्मक तर्कपद्धति
+    hif: Dialectic
+    hr: Dijalektika
+    hu: dialektika
+    hy: Դիալեկտիկա
+    id: dialektik
+    ilo: Dialektiko
+    io: Dialektiko
+    is: Þrætubók
+    it: dialettica
+    ja: 弁証法
+    ka: დიალექტიკა
+    kaa: Dialektika
+    kk: Танымның диалектикалық әдісі
+    ko: 변증법
+    ku: Diyalektîk
+    kw: Daylekteth
+    ky: Диалектика
+    la: Dialectica
+    lfn: Dialetica
+    lg: Ekigobensonga
+    li: Dialektiek
+    lmo: Dialetica
+    lt: Dialektika
+    lv: dialektika
+    lzh: 辯證法
+    mad: Ḍialèktik
+    mk: Дијалектика
+    ml: വൈരുദ്ധ്യാത്മക വാദം
+    mn: Диалектик
+    ms: Dialektika
+    my: ဒိုင်ယာလက်တစ်
+    nan: Piān-chèng
+    nb: dialektikk
+    nds: Dialektik
+    nl: dialectiek
+    nn: dialektikk
+    oc: Dialectica
+    pa: ਵਿਰੋਧਵਿਕਾਸ
+    pap: dialéktika
+    pl: dialektyka
+    pms: Dialética
+    pnb: ڈایالیکٹک
+    ps: ډيالېکتيک (مناظره)
+    pt: dialética
+    pt-br: Dialética
+    ro: Dialectică
+    ru: диалектика
+    rue: Діалектіка
+    sah: Диалектика
+    sd: جدليات
+    sgs: Dialektėka
+    sh: Dijalektika
+    sk: dialektika
+    sl: dialektika
+    sq: Dialektika
+    sr: дијалектика
+    ss: I-Dayalekthiki
+    sv: dialektik
+    sw: Upembuzi
+    ta: நியாயவாதம்
+    th: วิภาษวิธี
+    tr: diyalektik
+    tt: Диалектика
+    udm: диалектика
+    uk: діалектика
+    ur: جدلیات
+    uz: Dialektika
+    vi: biện chứng
+    war: Dialektiko
+    wuu: 辩证法
+    xmf: დიალექტიკა
+    yi: דיאַלעקטיק
+    yue: 辯證法
+    za: Bienhcingqfap
+    zh: 辩证法
+    zh-cn: 辩证法
+    zh-hans: 辩证法
+    zh-hant: 辯證法
 ---
-
 # [[Dialectic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Dialectic,9453|WD~Dialectic,9453]] 

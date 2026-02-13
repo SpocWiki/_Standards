@@ -1,6 +1,72 @@
 ---
 aliases:
-  - Behaviorism
+- Atferlishyggja
+- Behaviorism
+- behaviorisme
+- behaviorismi
+- behaviorismo
+- Behaviorismus
+- behaviorizem
+- behaviorizmus
+- Behaviourisim
+- behaviourism
+- Behawioryzm
+- Biheiviorism
+- biheiviorisms
+- Biheviorizam
+- Biheviorizm
+- Biheviorizmas
+- Biheviorizmi
+- Bixeviorizm
+- béhaviorisme
+- Bïxevïorïzm
+- Chủ nghĩa hành vi
+- Comportamentism
+- comportamentismo
+- Comportamentìśem
+- conductisme
+- conductismo
+- Conductismu
+- Condutismo
+- davranışçılık (psikoloji)
+- iomprachas
+- Ketingkahlakuan
+- konduktismo
+- konduktismu
+- kondutismo
+- Psicolojia de condui
+- Rêbaza tevgerzaniyê
+- Sachgrubb:Behaviorismus
+- Ymddygiadaeth
+- συμπεριφορισμός
+- бігевіоризм
+- Біхевіярызм
+- біхэвіярызм
+- бихевиоризам
+- бихевиоризм
+- Бихевиоризъм
+- Բիհեյվիորիզմ
+- ביהביוריזם
+- ביהייוויאריזם
+- بىيحەۆىيورىيزم
+- داورانیشچیلیق
+- رفتارگرایی
+- روين جو علم
+- سلوكية
+- چلندپالنه
+- व्यवहारवाद
+- আচৰণবাদ
+- ਵਿਵਹਾਰਵਾਦ
+- વર્તનવાદ
+- நடத்தை உளவியல்
+- ബിഹേവിയറിസം
+- พฤติกรรมนิยม
+- ბიჰევიორიზმი
+- ⵜⴰⵥⵕⵎⵓⴳⴳⵉⵜ
+- 行为主义
+- 行動主義心理学
+- 行為主義
+- 행동주의
 has_id_wikidata: Q168338
 facet_of: '[[_Standards/WikiData/WD~classical_conditioning,212737]]'
 different_from: '[[_Standards/WikiData/WD~behavioralism,814451]]'
@@ -16,8 +82,115 @@ Commons_category: Behaviorism
 UMLS_CUI: C0004942
 Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/BIHEVIORIZM.html
 MeSH_tree_code: F02.739.138
+dv_has_:
+  name_:
+    ar: سلوكية
+    as: আচৰণবাদ
+    ast: Conductismu
+    az: Biheviorizm
+    azb: داورانیشچیلیق
+    bcl: konduktismo
+    be: Біхевіярызм
+    be-tarask: біхэвіярызм
+    bg: Бихевиоризъм
+    ca: conductisme
+    cbk-zam: conductismo
+    ceb: konduktismo
+    cs: behaviorismus
+    cy: Ymddygiadaeth
+    da: behaviorisme
+    de: Behaviorismus
+    el: συμπεριφορισμός
+    eml: Comportamentìśem
+    en: behaviorism
+    en-ca: behaviourism
+    en-gb: behaviourism
+    en-us: behaviorism
+    eo: kondutismo
+    es: conductismo
+    et: Biheiviorism
+    eu: Konduktismo
+    fa: رفتارگرایی
+    fi: behaviorismi
+    fr: béhaviorisme
+    ga: iomprachas
+    gl: Condutismo
+    gu: વર્તનવાદ
+    he: ביהביוריזם
+    hi: व्यवहारवाद
+    hr: Biheviorizam
+    hu: behaviorizmus
+    hy: Բիհեյվիորիզմ
+    id: behaviorisme
+    ilo: konduktismo
+    is: Atferlishyggja
+    it: comportamentismo
+    ja: 行動主義心理学
+    ka: ბიჰევიორიზმი
+    kk: Бихевиоризм
+    kk-arab: بىيحەۆىيورىيزم
+    kk-cn: بىيحەۆىيورىيزم
+    kk-cyrl: Бихевиоризм
+    kk-kz: Бихевиоризм
+    kk-latn: Bïxevïorïzm
+    kk-tr: Bïxevïorïzm
+    ko: 행동주의
+    krj: konduktismo
+    ku: Rêbaza tevgerzaniyê
+    ky: Бихевиоризм
+    la: Behaviorismus
+    lfn: Psicolojia de condui
+    lt: Biheviorizmas
+    lv: biheiviorisms
+    mk: бихевиоризам
+    ml: ബിഹേവിയറിസം
+    ms: Ketingkahlakuan
+    nb: behaviorisme
+    nl: behaviorisme
+    nn: behaviorisme
+    pa: ਵਿਵਹਾਰਵਾਦ
+    pag: konduktismo
+    pam: konduktismu
+    pfl: Sachgrubb:Behaviorismus
+    pl: Behawioryzm
+    pms: Comportamentism
+    ps: چلندپالنه
+    pt: behaviorismo
+    ro: behaviorism
+    ru: бихевиоризм
+    sco: behaviourism
+    sd: روين جو علم
+    sh: Biheviorizam
+    sk: Behaviorizmus
+    sl: behaviorizem
+    sq: Biheviorizmi
+    sr: бихевиоризам
+    sr-ec: Бихевиоризам
+    sr-el: Biheviorizam
+    sv: behaviorism
+    ta: நடத்தை உளவியல்
+    tg: Бихевиоризм
+    th: พฤติกรรมนิยม
+    tl: konduktismo
+    tpi: Behaviourisim
+    tr: davranışçılık (psikoloji)
+    tt: бихевиоризм
+    uk: бігевіоризм
+    uz: Bixeviorizm
+    vi: Chủ nghĩa hành vi
+    war: konduktismo
+    wuu: 行为主义
+    yi: ביהייוויאריזם
+    yue: 行為主義
+    zgh: ⵜⴰⵥⵕⵎⵓⴳⴳⵉⵜ
+    zh: 行为主义
+    zh-cn: 行为主义
+    zh-hans: 行为主义
+    zh-hant: 行為主義
+    zh-hk: 行為主義
+    zh-sg: 行为主义
+    zh-tw: 行為主義
 ---
-
 # [[Behaviorism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Behaviorism,168338|WD~Behaviorism,168338]] 

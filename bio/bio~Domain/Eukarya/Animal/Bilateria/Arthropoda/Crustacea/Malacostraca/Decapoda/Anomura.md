@@ -1,9 +1,119 @@
 ---
 aliases:
-  - Anomura
-  - Anomala
+- Anomala
+- Anomur
+- Anomura
+- anomurar
+- Anomuras
+- Anomuros
+- Erakkoravut
+- Mittelkrebse
+- Miękkoodwłokowce
+- крабоїди
+- неполнохвостые
+- مختلفات الذيل
+- อันดับฐานปูไม่แท้จริง
+- ヤドカリ下目
+- 异尾下目
+- 異尾下目
+- 집게하목
 title: Anomura
 has_id_wikidata: Q526867
+dv_has_:
+  name_:
+    af: Anomura
+    an: Anomura
+    ar: مختلفات الذيل
+    arz: مختلفات الذيل
+    ast: Anomura
+    bar: Anomura
+    bg: Anomura
+    br: Anomura
+    ca: Anomur
+    ceb: Anomura
+    co: Anomura
+    cs: Anomura
+    cy: Anomura
+    da: Anomura
+    de: Mittelkrebse
+    de-at: Anomura
+    de-ch: Anomura
+    el: Anomura
+    en: Anomura
+    en-ca: Anomura
+    en-gb: Anomura
+    eo: Anomura
+    es: Anomura
+    et: Anomura
+    eu: Anomura
+    ext: Anomura
+    fi: Erakkoravut
+    fr: Anomura
+    frp: Anomura
+    fur: Anomura
+    ga: Anomura
+    gd: Anomura
+    gl: Anomuros
+    gsw: Anomura
+    hr: Anomura
+    hu: Anomura
+    ia: Anomura
+    id: Anomura
+    ie: Anomura
+    io: Anomura
+    is: Anomura
+    it: Anomura
+    ja: ヤドカリ下目
+    kg: Anomura
+    ko: 집게하목
+    la: Anomura
+    lb: Anomura
+    li: Anomura
+    lij: Anomura
+    lv: Anomuras
+    mg: Anomura
+    min: Anomura
+    ms: Anomura
+    mul: Anomura
+    nap: Anomura
+    nb: Anomura
+    nds: Anomura
+    nds-nl: Anomura
+    nl: Anomura
+    nn: anomurar
+    nrm: Anomura
+    nys: Anomura
+    oc: Anomura
+    pcd: Anomura
+    pl: Miękkoodwłokowce
+    pms: Anomura
+    pt: Anomura
+    pt-br: Anomura
+    rm: Anomura
+    ro: Anomura
+    ru: неполнохвостые
+    sc: Anomura
+    scn: Anomura
+    sco: Anomura
+    sk: Anomura
+    sl: Anomura
+    sq: Anomura
+    sv: Anomura
+    sw: Anomura
+    th: อันดับฐานปูไม่แท้จริง
+    uk: крабоїди
+    vec: Anomura
+    vi: Anomura
+    vls: Anomura
+    vo: Anomura
+    wa: Anomura
+    war: Anomura
+    wo: Anomura
+    zh: 異尾下目
+    zh-cn: 异尾下目
+    zh-hans: 异尾下目
+    zh-tw: 異尾下目
+    zu: Anomura
 ---
 # [[Anomura]] 
 

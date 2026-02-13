@@ -1,8 +1,133 @@
 ---
 aliases:
-  - Gesneriaceae
+- csuporkafélék
+- Fagerblomstfamilien
+- Famîleya gloksînyayan
+- gesneerialised
+- Gesneerien
+- Gesneriaceae
+- Gesneriacoj
+- gesneriakasvit
+- Gesneriengewächse
+- Gesnerijevke
+- Gesnerijiniai
+- Gesnerijowe rostliny
+- Gesneriyakimilər
+- gesneriàcies
+- Gesnēriju dzimta
+- Gloksïnïya
+- Gloxiniaväxter
+- Họ Tai voi
+- Ostrojowate
+- podpětovité
+- Γεσνεριοειδή
+- Геснерієві
+- Геснериевые
+- геснериячәләр
+- Геснерыевыя
+- Глоксиния
+- Силиврякови
+- գեսներիազգիներ
+- גסנריים
+- جسنریان
+- غزنرية
+- غزنريه
+- فامیلەیا گلۆکسینیایان
+- گلوكسىينىييا
+- ജെസ്നറിയേസീ
+- วงศ์ว่านไก่แดง
+- გესნერიასებრნი
+- イワタバコ科
+- 苦苣苔科
+- 게스네리아과
 title: Gesneriaceae
 has_id_wikidata: Q156686
+dv_has_:
+  name_:
+    af: Gesneriaceae
+    an: Gesneriaceae
+    ar: غزنرية
+    arz: غزنريه
+    ast: Gesneriaceae
+    az: Gesneriyakimilər
+    be: Геснерыевыя
+    bg: Силиврякови
+    bs: Gesneriaceae
+    ca: gesneriàcies
+    ceb: Gesneriaceae
+    cs: podpětovité
+    da: Gesneriaceae
+    de: Gesneriengewächse
+    el: Γεσνεριοειδή
+    en: Gesneriaceae
+    eo: Gesneriacoj
+    es: Gesneriaceae
+    et: gesneerialised
+    eu: Gesneriaceae
+    ext: Gesneriaceae
+    fa: جسنریان
+    fi: gesneriakasvit
+    fr: Gesneriaceae
+    frr: Gesneerien
+    ga: Gesneriaceae
+    gl: Gesneriaceae
+    he: גסנריים
+    hr: Gesnerijevke
+    hsb: Gesnerijowe rostliny
+    hu: csuporkafélék
+    hy: գեսներիազգիներ
+    ia: Gesneriaceae
+    id: Gesneriaceae
+    ie: Gesneriaceae
+    io: Gesneriaceae
+    it: Gesneriaceae
+    ja: イワタバコ科
+    ka: გესნერიასებრნი
+    kk: Глоксиния
+    kk-arab: گلوكسىينىييا
+    kk-cn: گلوكسىينىييا
+    kk-cyrl: Глоксиния
+    kk-kz: Глоксиния
+    kk-latn: Gloksïnïya
+    kk-tr: Gloksïnïya
+    ko: 게스네리아과
+    ku: Famîleya gloksînyayan
+    ku-arab: فامیلەیا گلۆکسینیایان
+    ku-latn: Famîleya gloksînyayan
+    la: Gesneriaceae
+    lt: Gesnerijiniai
+    lv: Gesnēriju dzimta
+    ml: ജെസ്നറിയേസീ
+    mul: Gesneriaceae
+    nb: Fagerblomstfamilien
+    nl: Gesneriaceae
+    oc: Gesneriaceae
+    pl: Ostrojowate
+    pt: Gesneriaceae
+    pt-br: Gesneriaceae
+    ro: Gesneriaceae
+    ru: Геснериевые
+    sl: gesnerijevke
+    sq: Gesneriaceae
+    sr: Gesneriaceae
+    sr-ec: Gesneriaceae
+    sr-el: Gesneriaceae
+    sv: Gloxiniaväxter
+    th: วงศ์ว่านไก่แดง
+    tr: Gesneriaceae
+    tt: геснериячәләр
+    uk: Геснерієві
+    vi: Họ Tai voi
+    vo: Gesneriaceae
+    war: Gesneriaceae
+    yue: 苦苣苔科
+    zh: 苦苣苔科
+    zh-cn: 苦苣苔科
+    zh-hans: 苦苣苔科
+    zh-hant: 苦苣苔科
+    zh-hk: 苦苣苔科
+    zh-sg: 苦苣苔科
+    zh-tw: 苦苣苔科
 ---
 # [[Gesneriaceae]] 
 

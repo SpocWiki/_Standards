@@ -1,24 +1,102 @@
 ---
 aliases:
-  - Folivora
-  - Sloth
-  - lenivci
+- A'i
+- bicho-preguiça
+- Bradipo
+- Dhabbasaa
+- Diegyn
+- Diogyn
+- dovendyr
+- Faultiere
+- Folivora
+- Folivoro
+- Intillama
+- laiskiaiset
+- laiskloom
+- lajhárok
+- Leneș
+- lenivci
+- Lenjivci
+- lenochodi
+- Letidýr
+- Lezireg
+- Leňoch
+- Liściożery
+- Ljenivci
+- Ljenjivci
+- Luiaard
+- luiaards
+- lười
+- Nagi
+- Ndilnaʼii
+- paresseux
+- peresosos
+- Peresós
+- sengångare
+- sliņķi
+- Sloth
+- Slothi
+- Slothët
+- slouth
+- spadán
+- Tapulan
+- Tauta
+- Tembel hayvan
+- Tingininiai
+- Tlatzqui
+- Yalqov
+- Βραδύποδες
+- Жалкоолор
+- Жалқауаң
+- Иренсәк
+- Кахал (чĕрчун)
+- Лењивци
+- ленивци
+- Ляніўцы
+- лянівец
+- Мекъашкаш
+- мрзливци
+- Техорь
+- Համրուկ
+- Յամրուկ
+- עצלנאים
+- تنبل
+- تەمبەڵ
+- كسلانيات
+- तन्द्रा
+- स्लोथ्
+- স্লথ
+- ਸਲੌਥ
+- அசையாக்கரடி
+- అలసకోతి
+- ಸ್ಲೋತ್
+- സ്ലോത്ത്
+- สลอธ
+- ဆလောက်ကောင်
+- ზარმაცასებრნი
+- ᎤᏂᏍᎦᏃᎵ ᏲᎾ ᎢᏳᏍᏗ
+- ナマケモノ
+- 树懒
+- 树懒亚目
+- 樹懶
+- 樹懶亞目
+- 나무늘보
 has_id_wikidata: Q2274076
-parent_taxon: "[[../Pilosa]]"
+parent_taxon: '[[../Pilosa]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 life_expectancy:
-  - 20
-  - 30
+- 20
+- 30
 ITIS_TSN: 727503
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypus.jpg
 U_S_National_Archives_Identifier: 10646247
 OmegaWiki_Defined_Meaning: 710705
-Unicode_character: 🦥
+Unicode_character: "\U0001F9A5"
 MeSH_tree_code: B01.050.150.900.649.313.999.750
 UMLS_CUI: C0037331
 Commons_gallery: Folivora
@@ -27,8 +105,112 @@ taxon_name: Folivora
 Know_Your_Meme_slug: sloths
 subreddit: sloths
 taxon_common_name: lenivci
+dv_has_:
+  name_:
+    af: Luiaard
+    ar: كسلانيات
+    arz: كسلانيات
+    ast: Folivora
+    az: Folivora
+    ba: Иренсәк
+    ban: Sloth
+    be: Ляніўцы
+    be-tarask: лянівец
+    bg: ленивци
+    bn: স্লথ
+    br: Lezireg
+    bs: Ljenjivci
+    ca: peresosos
+    ceb: Tapulan
+    chr: ᎤᏂᏍᎦᏃᎵ ᏲᎾ ᎢᏳᏍᏗ
+    ckb: تەمبەڵ
+    cs: lenochodi
+    cv: Кахал (чĕрчун)
+    cy: Diogyn
+    da: Dovendyr
+    de: Faultiere
+    el: Βραδύποδες
+    en: sloth
+    eo: Folivoro
+    es: Folivora
+    et: laiskloom
+    eu: Nagi
+    fa: تنبل
+    fi: laiskiaiset
+    fo: Letidýr
+    fr: paresseux
+    ga: spadán
+    gl: Folivora
+    gn: A'i
+    he: עצלנאים
+    hi: स्लोथ्
+    hr: Ljenivci
+    hu: lajhárok
+    hy: Համրուկ
+    hyw: Յամրուկ
+    ia: Folivora
+    id: Tauta
+    inh: Мекъашкаш
+    io: Bradipo
+    is: Letidýr
+    it: Folivora
+    ja: ナマケモノ
+    jv: Sloth
+    ka: ზარმაცასებრნი
+    kk: Жалқауаң
+    kk-cyrl: Жалқауаң
+    kn: ಸ್ಲೋತ್
+    ko: 나무늘보
+    kw: Diegyn
+    ky: Жалкоолор
+    la: Folivora
+    lfn: Bradipo
+    lt: Tingininiai
+    lv: sliņķi
+    mdf: Техорь
+    mk: мрзливци
+    ml: സ്ലോത്ത്
+    ms: Sloth
+    mul: Folivora
+    my: ဆလောက်ကောင်
+    nah: Tlatzqui
+    nb: dovendyr
+    nl: luiaards
+    nn: dovendyr
+    nv: Ndilnaʼii
+    oc: Peresós
+    om: Dhabbasaa
+    pa: ਸਲੌਥ
+    pl: Liściożery
+    pt: bicho-preguiça
+    qu: Intillama
+    ro: Leneș
+    ru: Folivora
+    sa: तन्द्रा
+    sco: slouth
+    sh: Lenjivci
+    sk: Leňoch
+    sl: lenivci
+    sq: Slothët
+    sr: Лењивци
+    sv: sengångare
+    sw: Slothi
+    ta: அசையாக்கரடி
+    te: అలసకోతి
+    th: สลอธ
+    tl: Sloth
+    tr: Tembel hayvan
+    uk: Folivora
+    uz: Yalqov
+    vi: lười
+    war: Folivora
+    wuu: 树懒
+    yue: 樹懶
+    zh: 树懒亚目
+    zh-cn: 树懒亚目
+    zh-hans: 树懒亚目
+    zh-tw: 樹懶亞目
 ---
-
 # [[Sloth]] 🦥 
 
 #is_/same_as :: [[WD~Sloth,2274076]] 

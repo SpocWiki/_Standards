@@ -1,42 +1,186 @@
 ---
 aliases:
-  - judicial precedent
-  - judge-made law
-  - case law
-  - Common_Law
-  - Common Law
+- Anglasaksa juro
+- angloamerikiečių teisė
+- Angloameričko pravo
+- Anglosaksonsko pravo
+- angolszász jog
+- case law
+- Common Law
+- Common Low
+- Common_Law
+- Consuetudo
+- Cyfraith gyffredin
+- Dango la pose
+- derecho anglosajón
+- Derechu anglosaxón
+- Derecto commun anglosaxone
+- dlí coiteann
+- Doka ta gama gari
+- Englesko pravo
+- Englisc lagu
+- Gemenereg
+- Hukum umum
+- judge-made law
+- judicial precedent
+- Lege comun
+- nasin lawa ma la tenpo pini li suli
+- obecné právo
+- ortak hukuk
+- Ortaq qukıq
+- Phó͘-thong-hoat
+- pravo precedensov
+- Tapaoikeus
+- thông luật
+- Umumiy huquq (huquqiy tizim)
+- Venjuréttur
+- vispārējās tiesības
+- Üldine õigus
+- Κοινό δίκαιο
+- агульнае права
+- англосаксонско право
+- Гомуми хокук
+- загальне право
+- общее право
+- Общо право
+- општо право
+- Ортақ құкық
+- ընդհանուր իրավունք
+- המשפט המקובל
+- קאמען לאו
+- القانون العام
+- عرفی قانون
+- قانون عام
+- ورتاق قۇكىق
+- ڕێسای گشتی
+- کامن لا
+- साधारण कानून
+- কমন ল
+- ਸਧਾਰਨ ਕਾਨੂੰਨ
+- பொதுச் சட்டம்
+- පොදු නීතිය
+- คอมมอนลอว์
+- ანგლო-ამერიკული სამართალი
+- ច្បាប់ធម្មតា
+- コモン・ロー
+- 普通法系
+- 英美法系
+- 영미법
 has_id_wikidata: Q30216
 subclass_of:
-  - '[[_Standards/WikiData/WD~statute,820655]]'
-  - '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~statute,820655]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~legal_system,2478386]]'
-  - '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+- '[[_Standards/WikiData/WD~legal_system,2478386]]'
+- '[[_Standards/WikiData/WD~type_of_law,63718619]]'
 opposite_of: '[[_Standards/WikiData/WD~civil_law,5950118]]'
 different_from:
-  - '[[_Standards/WikiData/WD~North_Dakota_Century_Code,7054993]]'
-  - '[[_Standards/WikiData/WD~statutory_law,7766927]]'
+- '[[_Standards/WikiData/WD~North_Dakota_Century_Code,7054993]]'
+- '[[_Standards/WikiData/WD~statutory_law,7766927]]'
 country:
-  - '[[_Standards/WikiData/WD~Australia,408]]'
-  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 U_S_National_Archives_Identifier: 10638309
 Library_of_Congress_Classification: K588
 Dewey_Decimal_Classification: 340.57
 P8189: 987007542990905171
 Commons_category: Common law
+dv_has_:
+  name_:
+    af: Gemenereg
+    ang: Englisc lagu
+    ar: قانون عام
+    arz: القانون العام
+    ast: Derechu anglosaxón
+    be: агульнае права
+    be-tarask: агульнае права
+    bg: Общо право
+    bn: কমন ল
+    bs: Englesko pravo
+    ca: common law
+    ckb: ڕێسای گشتی
+    cs: obecné právo
+    cy: Cyfraith gyffredin
+    da: common law
+    de: Common Law
+    el: Κοινό δίκαιο
+    en: common law
+    en-gb: common law
+    eo: Anglasaksa juro
+    es: derecho anglosajón
+    et: Üldine õigus
+    eu: common law
+    fa: کامن لا
+    fi: Tapaoikeus
+    fr: common law
+    ga: dlí coiteann
+    ha: Doka ta gama gari
+    he: המשפט המקובל
+    hi: साधारण कानून
+    hr: Angloameričko pravo
+    hu: angolszász jog
+    hy: ընդհանուր իրավունք
+    ia: Derecto commun anglosaxone
+    id: Hukum umum
+    is: Venjuréttur
+    it: common law
+    ja: コモン・ロー
+    ka: ანგლო-ამერიკული სამართალი
+    kk: Ортақ құкық
+    kk-arab: ورتاق قۇكىق
+    kk-cyrl: Ортақ құкық
+    kk-latn: Ortaq qukıq
+    km: ច្បាប់ធម្មតា
+    ko: 영미법
+    la: Consuetudo
+    lfn: Lege comun
+    lt: angloamerikiečių teisė
+    lv: vispārējās tiesības
+    mg: Common Low
+    min: Hukum umum
+    mk: општо право
+    ms: Common law
+    nan: Phó͘-thong-hoat
+    nb: common law
+    nl: common law
+    oc: Common law
+    pa: ਸਧਾਰਨ ਕਾਨੂੰਨ
+    pl: common law
+    pt: common law
+    pt-br: common law
+    ro: common law
+    ru: общее право
+    sh: Anglosaksonsko pravo
+    si: පොදු නීතිය
+    sl: pravo precedensov
+    sr: англосаксонско право
+    sv: common law
+    ta: பொதுச் சட்டம்
+    th: คอมมอนลอว์
+    tok: nasin lawa ma la tenpo pini li suli
+    tr: ortak hukuk
+    tt: Гомуми хокук
+    tum: Dango la pose
+    uk: загальне право
+    ur: عرفی قانون
+    uz: Umumiy huquq (huquqiy tizim)
+    vi: thông luật
+    wuu: 英美法系
+    yi: קאמען לאו
+    yue: 普通法系
+    zh: 普通法系
 ---
-
 # [[Common_Law]] 
 
 #is_/different_from  :: [[Civil_Law]] 

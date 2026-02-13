@@ -1,17 +1,126 @@
 ---
 aliases:
+- cyflwr meddwl
+- duševno stanje
+- duševní stav
+- estado mental
+- estat mental
+- gjendje mendore
+- keadaan mental
+- Kondisi kejiwaan
+- mensa stato
+- mental state
+- mental tilstand
+- Mentala stando
+- mentale staat
+- mentalen Zoustand
+- mentaler Zustand
+- mentalno stanje
+- mentalt tillstånd
+- mentālais stāvoklis
+- psychický stav
+- Ruhiy holat
+- sinnstilstand
+- staid mheabhrach
+- stan umysłowy
+- stare mentală
+- stato mentale
+- stato mentałe
+- tudatállapot
+- Vaimuseisund
+- zihinsel durum
+- état mental
+- ментално стање
+- псіхічны стан
+- психічний стан
+- психик халәте
+- Психикалық ахуал
+- психическое состояние
+- псыхічны стан
+- Сэтгэцийн байдал
+- умствена состојба
+- ҳолати рӯҳӣ
+- Հոգեկան վիճակներ
+- מצב נפשי
+- حالة عقلية
+- حالت روانی
+- دۆخی زەینی
+- کأداءن مينتل
+- মানসিক অৱস্থা
+- စိတ်ပိုင်းဆိုင်ရာ အခြေအနေ
+- သၢႆငၢႆၸႂ်
+- 心智狀態
+- 心理状態
+- 心理狀態
 has_id_wikidata: Q3968640
 subclass_of:
-  - "[[_Standards/WikiData/WD~condition,813912]]"
-  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
-  - "[[_Standards/WikiData/WD~state,3505845]]"
-  - "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Q68235346,68235346]]"
-instance_of: "[[_Standards/WikiData/WD~condition_type,130459448]]"
-characteristic_of: "[[_Standards/WikiData/WD~mind,450]]"
-studied_by: "[[_Standards/WikiData/WD~psychology,9418]]"
+- '[[_Standards/WikiData/WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Q68235346,68235346]]'
+instance_of: '[[_Standards/WikiData/WD~condition_type,130459448]]'
+characteristic_of: '[[_Standards/WikiData/WD~mind,450]]'
+studied_by: '[[_Standards/WikiData/WD~psychology,9418]]'
+dv_has_:
+  name_:
+    ar: حالة عقلية
+    as: মানসিক অৱস্থা
+    be: псіхічны стан
+    be-tarask: псыхічны стан
+    bs: mentalno stanje
+    ca: estat mental
+    ckb: دۆخی زەینی
+    cs: duševní stav
+    cy: cyflwr meddwl
+    da: mental tilstand
+    de: mentaler Zustand
+    en: mental state
+    eo: mensa stato
+    es: estado mental
+    et: Vaimuseisund
+    fa: حالت روانی
+    fr: état mental
+    ga: staid mheabhrach
+    gl: estado mental
+    he: מצב נפשי
+    hu: tudatállapot
+    hy: Հոգեկան վիճակներ
+    id: Kondisi kejiwaan
+    io: Mentala stando
+    it: stato mentale
+    ja: 心理状態
+    kk: Психикалық ахуал
+    lb: mentalen Zoustand
+    lv: mentālais stāvoklis
+    mk: умствена состојба
+    mn: Сэтгэцийн байдал
+    ms: keadaan mental
+    ms-arab: کأداءن مينتل
+    my: စိတ်ပိုင်းဆိုင်ရာ အခြေအနေ
+    nb: mental tilstand
+    nl: mentale staat
+    nn: sinnstilstand
+    pap: estado mental
+    pl: stan umysłowy
+    pt: Estado mental
+    ro: stare mentală
+    ru: психическое состояние
+    shn: သၢႆငၢႆၸႂ်
+    sk: psychický stav
+    sl: duševno stanje
+    sq: gjendje mendore
+    sr: ментално стање
+    sv: mentalt tillstånd
+    tg: ҳолати рӯҳӣ
+    tr: zihinsel durum
+    tt: психик халәте
+    uk: психічний стан
+    uz: Ruhiy holat
+    vec: stato mentałe
+    zh: 心理狀態
+    zh-hant: 心智狀態
 ---
-
 # [[Mental_State]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~mental_state,3968640]] 

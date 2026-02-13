@@ -1,29 +1,130 @@
 ---
 aliases:
-  - Level of measurement
-  - Level_of_measurement
-  - scale of measure
+- Aras pengukuran
+- escala
+- lefel y mesur
+- leibhéal tomhais
+- Level of measurement
+- Level_of_measurement
+- livello di misurazione
+- liveło de mezurasion
+- matavimų skalė
+- meetschaal
+- Metingskale
+- mitta-asteikko
+- mätskala
+- målenivå
+- måleskala
+- mérési skála
+- Neurketa-maila
+- nivel de medida
+- nivel i matjes
+- nivell de mesura
+- nivelo de mezuro
+- raven merjenja
+- scale of measure
+- Scară a valorilor mărimii
+- Skaala
+- Skala
+- skala pomiarowa
+- Skalenniveau
+- skeul vuzuliañ
+- typy proměnných
+- échelle de mesure
+- ölçü səviyyəsi
+- ölçülme ölçeği
+- Κλίμακες μέτρησης
+- мерна скала
+- ниво мере
+- шкала
+- סולם מדידה
+- ئاستەکانی پێوانەکردن
+- سطوح سنجش
+- مستوى القياس
+- मापन के स्तर
+- న్యూమరిక్ డేటా
+- ระดับของการวัด
+- სკალა
+- 天平
+- 尺度水準
+- 标量类别
+- 量度層次
+- 측정 수준
 has_id_wikidata: Q951437
-part_of: "[[_Standards/WikiData/WD~quantitative_research,730675]]"
-is_metaclass_for: "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
+part_of: '[[_Standards/WikiData/WD~quantitative_research,730675]]'
+is_metaclass_for: '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
 different_from:
-  - "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
-  - "[[_Standards/WikiData/WD~scale,1413749]]"
-  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+- '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
+- '[[_Standards/WikiData/WD~scale,1413749]]'
+- '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~classification_scheme,5962346]]"
-  - "[[_Standards/WikiData/WD~metrology,394]]"
+- '[[_Standards/WikiData/WD~classification_scheme,5962346]]'
+- '[[_Standards/WikiData/WD~metrology,394]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sign_system,7512598]]"
-  - "[[_Standards/WikiData/WD~metaclass,19478619]]"
-  - "[[_Standards/WikiData/WD~second_order_class,24017414]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+- '[[_Standards/WikiData/WD~sign_system,7512598]]'
+- '[[_Standards/WikiData/WD~metaclass,19478619]]'
+- '[[_Standards/WikiData/WD~second_order_class,24017414]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skalenniveau%20lt.svg
 name_in_kana: しゃくどすいじゅん
+dv_has_:
+  name_:
+    af: Metingskale
+    ar: مستوى القياس
+    az: ölçü səviyyəsi
+    ba: шкала
+    be: шкала
+    br: skeul vuzuliañ
+    ca: nivell de mesura
+    ckb: ئاستەکانی پێوانەکردن
+    cs: typy proměnných
+    cy: lefel y mesur
+    da: måleskala
+    de: Skalenniveau
+    el: Κλίμακες μέτρησης
+    en: level of measurement
+    eo: nivelo de mezuro
+    es: nivel de medida
+    et: Skaala
+    eu: Neurketa-maila
+    fa: سطوح سنجش
+    fi: mitta-asteikko
+    fr: échelle de mesure
+    ga: leibhéal tomhais
+    gl: nivel de medida
+    he: סולם מדידה
+    hi: मापन के स्तर
+    hu: mérési skála
+    id: Skala
+    it: livello di misurazione
+    ja: 尺度水準
+    ka: სკალა
+    ko: 측정 수준
+    lt: matavimų skalė
+    lzh: 天平
+    mk: мерна скала
+    ms: Aras pengukuran
+    nb: målenivå
+    nl: meetschaal
+    nn: målenivå
+    pl: skala pomiarowa
+    pt: escala
+    ro: Scară a valorilor mărimii
+    ru: шкала
+    sl: raven merjenja
+    sq: nivel i matjes
+    sr: ниво мере
+    sv: mätskala
+    te: న్యూమరిక్ డేటా
+    th: ระดับของการวัด
+    tr: ölçülme ölçeği
+    uk: шкала
+    vec: liveło de mezurasion
+    yue: 量度層次
+    zh: 标量类别
 ---
-
 # [[Measurement-Scale]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~level_of_measurement,951437]] 

@@ -1,105 +1,174 @@
 ---
 aliases:
+- Ayagwar
+- Báo đốm Mỹ
+- Bí-chiu-pà
+- caguar
+- giaguaro
+- giaguaru
+- iaguar
+- Jaaguar
+- jach'a titi
+- jagoar
+- jaguaari
+- jaguar
+- jaguar amerykański
+- jaguaras
+- jaguarete
+- jaguari
+- jaguaro
+- Jaguars
+- jaguarur
+- jaguár
+- jaguár americký
+- jaguārs
+- jagwa
+- Jagwar
+- Jagúar
+- Jagûar
+- Jakua
+- jагуар
+- Ka'laira
+- Ocēlōtl
+- Onca
+- Onça-pintada
+- Panthera onca
+- Qeerensa burree
+- Shádiʼááhdę́ę́ʼ náshdóítsoh łikizhígíí
+- tukrunoleem
+- uturunku
+- wīnlendisc panðer
+- xaguar
+- Yaguar
+- yaquar
+- Ιαγουάρος
+- јагуар
+- Ягуар
+- յագուար
+- יאגואר
+- יגואר
+- جاگوار
+- جگوار
+- جیگوار
+- يغور
+- जॅग्वार
+- जैगुआर
+- জাগুয়ার
+- ਜੈਗੁਆਰ
+- ஜாகுவார்
+- జాగ్వర్
+- ಜಾಗ್ವಾರ್
+- ജാഗ്വാർ
+- เสือจากัวร์
+- ເສືອອາເມລິກາ
+- ဂျိုက်ဂွါး
+- იაგუარი
+- የዱር ድመት
+- ᎠᎺᎵᎨ ᏢᏓᏥ ᎤᏅᏣᏗ
+- ジャガー
+- 美洲豹
+- Ꙗгоуаръ
+- 재규어
 has_id_wikidata: Q35694
 main_food_source:
-  - "[[_Standards/WikiData/WD~Ocellated_Turkey,94601]]"
-  - "[[_Standards/WikiData/WD~Great_Egret,130730]]"
-  - "[[_Standards/WikiData/WD~Hydrochoerus_hydrochaeris,131538]]"
-  - "[[_Standards/WikiData/WD~Nasua,148628]]"
-  - "[[_Standards/WikiData/WD~piranha,185215]]"
-  - "[[_Standards/WikiData/WD~Anaconda,188622]]"
-  - "[[_Standards/WikiData/WD~Common_agouti,193966]]"
-  - "[[_Standards/WikiData/WD~Chelonia_mydas,199458]]"
-  - "[[_Standards/WikiData/WD~carrion,202994]]"
-  - "[[_Standards/WikiData/WD~Iguana,205531]]"
-  - "[[_Standards/WikiData/WD~South_American_tapir,220271]]"
-  - "[[_Standards/WikiData/WD~southern_tamandua,267514]]"
-  - "[[_Standards/WikiData/WD~Pacarana,284417]]"
-  - "[[_Standards/WikiData/WD~acouchi,342190]]"
-  - "[[_Standards/WikiData/WD~Toco_Toucan,376038]]"
-  - "[[_Standards/WikiData/WD~Alouatta,504247]]"
-  - "[[_Standards/WikiData/WD~Marsh_deer,504501]]"
-  - "[[_Standards/WikiData/WD~nine_banded_armadillo,649549]]"
-  - "[[_Standards/WikiData/WD~collared_peccary,741516]]"
-  - "[[_Standards/WikiData/WD~Spix's_Guan,948701]]"
-  - "[[_Standards/WikiData/WD~Wattled_Curassow,1043312]]"
-  - "[[_Standards/WikiData/WD~Black_agouti,1767371]]"
-  - "[[_Standards/WikiData/WD~sloth,2274076]]"
-  - "[[_Standards/WikiData/WD~chicken,780]]"
-  - "[[_Standards/WikiData/WD~cattle,830]]"
-  - "[[_Standards/WikiData/WD~goat,2934]]"
-  - "[[_Standards/WikiData/WD~Yellow_footed_tortoise,18867]]"
-  - "[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]"
-  - "[[_Standards/WikiData/WD~ocelot,33261]]"
-  - "[[_Standards/WikiData/WD~lowland_paca,33936]]"
-has_characteristic: "[[_Standards/WikiData/WD~viviparity,120446]]"
+- '[[_Standards/WikiData/WD~Ocellated_Turkey,94601]]'
+- '[[_Standards/WikiData/WD~Great_Egret,130730]]'
+- '[[_Standards/WikiData/WD~Hydrochoerus_hydrochaeris,131538]]'
+- '[[_Standards/WikiData/WD~Nasua,148628]]'
+- '[[_Standards/WikiData/WD~piranha,185215]]'
+- '[[_Standards/WikiData/WD~Anaconda,188622]]'
+- '[[_Standards/WikiData/WD~Common_agouti,193966]]'
+- '[[_Standards/WikiData/WD~Chelonia_mydas,199458]]'
+- '[[_Standards/WikiData/WD~carrion,202994]]'
+- '[[_Standards/WikiData/WD~Iguana,205531]]'
+- '[[_Standards/WikiData/WD~South_American_tapir,220271]]'
+- '[[_Standards/WikiData/WD~southern_tamandua,267514]]'
+- '[[_Standards/WikiData/WD~Pacarana,284417]]'
+- '[[_Standards/WikiData/WD~acouchi,342190]]'
+- '[[_Standards/WikiData/WD~Toco_Toucan,376038]]'
+- '[[_Standards/WikiData/WD~Alouatta,504247]]'
+- '[[_Standards/WikiData/WD~Marsh_deer,504501]]'
+- '[[_Standards/WikiData/WD~nine_banded_armadillo,649549]]'
+- '[[_Standards/WikiData/WD~collared_peccary,741516]]'
+- "[[_Standards/WikiData/WD~Spix's_Guan,948701]]"
+- '[[_Standards/WikiData/WD~Wattled_Curassow,1043312]]'
+- '[[_Standards/WikiData/WD~Black_agouti,1767371]]'
+- '[[_Standards/WikiData/WD~sloth,2274076]]'
+- '[[_Standards/WikiData/WD~chicken,780]]'
+- '[[_Standards/WikiData/WD~cattle,830]]'
+- '[[_Standards/WikiData/WD~goat,2934]]'
+- '[[_Standards/WikiData/WD~Yellow_footed_tortoise,18867]]'
+- '[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]'
+- '[[_Standards/WikiData/WD~ocelot,33261]]'
+- '[[_Standards/WikiData/WD~lowland_paca,33936]]'
+has_characteristic: '[[_Standards/WikiData/WD~viviparity,120446]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Near_Threatened,719675]]"
-different_from: "[[_Standards/WikiData/WD~Jaguar,1099316]]"
-has_pattern: "[[_Standards/WikiData/WD~rosette,1368303]]"
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675]]'
+different_from: '[[_Standards/WikiData/WD~Jaguar,1099316]]'
+has_pattern: '[[_Standards/WikiData/WD~rosette,1368303]]'
 taxon_range:
-  - "[[_Standards/WikiData/WD~Porto_Walter,1772588]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-subclass_of: "[[_Standards/WikiData/WD~big_cat,6667323]]"
-original_combination: "[[_Standards/WikiData/WD~Felis_onca,122170157]]"
+- '[[_Standards/WikiData/WD~Porto_Walter,1772588]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+subclass_of: '[[_Standards/WikiData/WD~big_cat,6667323]]'
+original_combination: '[[_Standards/WikiData/WD~Felis_onca,122170157]]'
 color:
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~black,23445]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~black,23445]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 4
 mass: 800
 longest_observed_lifespan: 28
 gestation_period: 99
 bite_force_quotient: 137
-OmegaWiki_Defined_Meaning: "5513"
-ITIS_TSN: "180593"
+OmegaWiki_Defined_Meaning: 5513
+ITIS_TSN: 180593
 taxon_common_name:
-  - Jaguar
-  - giaguaro
-  - jaguar
-  - jaguar
-  - Jaguar
-  - יגואר
-  - Jaguar
-  - xaguar
-  - Otorongo
-  - Tigre Americano
-  - Tigre Real
-  - Yaguar
-  - Yaguarete
-  - jaguar amerykański
-  - acanguçu
-  - canguçu
-  - jaguarapinima
-  - jaguaretê
-  - onça-pintada
-  - onça-verdadeira
-  - Tigru american
-  - jaguar
+- Jaguar
+- giaguaro
+- jaguar
+- jaguar
+- Jaguar
+- יגואר
+- Jaguar
+- xaguar
+- Otorongo
+- Tigre Americano
+- Tigre Real
+- Yaguar
+- Yaguarete
+- jaguar amerykański
+- acanguçu
+- canguçu
+- jaguarapinima
+- jaguaretê
+- onça-pintada
+- onça-verdadeira
+- Tigru american
+- jaguar
 start_time: -500000-01-01T00:00:00Z
 taxon_range_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Panthera%20onca.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Panthera%20onca%20ca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Panthera%20onca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Panthera%20onca%20ca.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jaguar.ogg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jaguar%20%28Panthera%20onca%20palustris%29%20male%20Three%20Brothers%20River%202%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20onca%20%2CYaguaret%C3%A9%20macho%20%2C%2027.09.2023%20%2C%20Bioparque%20de%20Fundacion%20Temaiken%20%2C%20Escobar%20%2C%20Buenos%20aires%20%2C%20Argentina.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Jaguar%20%28Panthera%20onca%20palustris%29%20male%20Three%20Brothers%20River%202%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20onca%20%2CYaguaret%C3%A9%20macho%20%2C%2027.09.2023%20%2C%20Bioparque%20de%20Fundacion%20Temaiken%20%2C%20Escobar%20%2C%20Buenos%20aires%20%2C%20Argentina.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jaguar%20saw.flac
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/02128925-n
-  - http://wordnet-rdf.princeton.edu/wn31/102131889-n
+- http://wordnet-rdf.princeton.edu/wn30/02128925-n
+- http://wordnet-rdf.princeton.edu/wn31/102131889-n
 sequenced_genome_URL: https://www.dnazoo.org/assemblies/Panthera_onca
 GenBank_assembly_accession_number: GCA_028533385.1
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/YAGUAR.html
@@ -107,8 +176,144 @@ Commons_gallery: Panthera onca
 Commons_category: Panthera onca
 taxon_name: Panthera onca
 EPPO_Code: PNTHON
+dv_has_:
+  name_:
+    af: jaguar
+    am: የዱር ድመት
+    an: Panthera onca
+    ang: wīnlendisc panðer
+    ar: يغور
+    arz: يغور
+    ast: Panthera onca
+    avk: tukrunoleem
+    ay: jach'a titi
+    az: yaquar
+    azb: جگوار
+    ba: Ягуар
+    ban: Jaguar
+    be: ягуар
+    be-tarask: ягуар
+    bg: ягуар
+    bn: জাগুয়ার
+    br: jagoar
+    bs: jaguar
+    ca: jaguar
+    ceb: Panthera onca
+    chr: ᎠᎺᎵᎨ ᏢᏓᏥ ᎤᏅᏣᏗ
+    ckb: جاگوار
+    co: giaguaru
+    cs: jaguár americký
+    cu: Ꙗгоуаръ
+    cv: Ягуар
+    da: jaguar
+    de: Jaguar
+    diq: caguar
+    el: Ιαγουάρος
+    en: jaguar
+    en-ca: jaguar
+    en-us: jaguar
+    eo: jaguaro
+    es: Panthera onca
+    et: jaaguar
+    eu: jaguar
+    ext: Panthera onca
+    fa: جگوار
+    fi: jaguaari
+    fj: Jakua
+    fo: jaguarur
+    fr: Jaguar
+    frr: Jaguar
+    fy: Jagûar
+    ga: iaguar
+    gd: Iaguar
+    gl: xaguar
+    gn: jaguarete
+    guc: Ka'laira
+    he: יגואר
+    hi: जैगुआर
+    hr: jaguar
+    hu: jaguár
+    hy: յագուար
+    ia: jaguar
+    id: jaguar
+    ie: Panthera onca
+    io: jaguaro
+    is: Jagúar
+    it: giaguaro
+    ja: ジャガー
+    jv: jaguar
+    ka: იაგუარი
+    kab: Ayagwar
+    kk: ягуар
+    kn: ಜಾಗ್ವಾರ್
+    ko: 재규어
+    ku: jaguar
+    kw: Jagwar
+    la: Onca
+    lb: Jaguar
+    li: Jaguar
+    lo: ເສືອອາເມລິກາ
+    lt: jaguaras
+    ltg: Jaguars
+    lv: jaguārs
+    mk: jагуар
+    ml: ജാഗ്വാർ
+    mn: ягуар
+    mr: जॅग्वार
+    ms: jaguar
+    mul: Panthera onca
+    my: ဂျိုက်ဂွါး
+    nah: Ocēlōtl
+    nan: Bí-chiu-pà
+    nb: Jaguar
+    nds-nl: jaguar
+    nl: jaguar
+    nn: jaguar
+    nv: Shádiʼááhdę́ę́ʼ náshdóítsoh łikizhígíí
+    oc: Panthera onca
+    om: Qeerensa burree
+    os: Ягуар
+    pa: ਜੈਗੁਆਰ
+    pl: jaguar amerykański
+    pnb: جیگوار
+    pt: Panthera onca
+    pt-br: Onça-pintada
+    qu: uturunku
+    ro: Jaguar
+    ru: ягуар
+    scn: Panthera onca
+    sco: jaguar
+    sh: jaguar
+    sk: jaguár americký
+    sl: jaguar
+    sq: jaguari
+    sr: јагуар
+    su: Jaguar
+    sv: jaguar
+    sw: jagwa
+    szl: Panthera onca
+    ta: ஜாகுவார்
+    te: జాగ్వర్
+    th: เสือจากัวร์
+    tl: Panthera onca
+    tr: jaguar
+    tt: Ягуар
+    uk: Ягуар
+    ur: جیگوار
+    uz: Yaguar
+    vi: Báo đốm Mỹ
+    vo: Panthera onca
+    vro: Jaaguar
+    war: Panthera onca
+    wuu: 美洲豹
+    xmf: იაგუარი
+    yi: יאגואר
+    yue: 美洲豹
+    zh: 美洲豹
+    zh-cn: 美洲豹
+    zh-hans: 美洲豹
+    zh-tw: 美洲豹
 ---
-
 # [[Jaguar]] 
 
 #is_/same_as :: [[WD~Jaguar,35694]] 

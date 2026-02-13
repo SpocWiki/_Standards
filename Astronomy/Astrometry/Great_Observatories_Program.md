@@ -1,32 +1,97 @@
 ---
 aliases:
+- Behatoki Handiak programa
+- Böyük Rəsədxanalar proqramı
+- Büyük Gözlemevleri programı
+- Chương trình Đài Quan sát Lớn
+- claare ny Reayrtlannyn Mooarey
+- Grandes Observatorios
+- Grandes Observatorios Astronómicos
+- Grandes Observatórios Astronómicos
+- Grandi Osservatori della NASA
+- Grands observatoires
+- Great Observatories program
+- Great Observatories-programma
+- nagy obszervatóriumok
+- Program Great Observatories
+- Program velikih opservatorija
+- Programa dei Grandeis Observatòris
+- Programa dels Grans Observatoris
+- Velké observatoře
+- Большие обсерватории
+- Великі обсерваторії
+- Вялікія абсэрваторыі
+- תכנית המצפים הגדולים
+- برنامج المراصد الكبرى
+- โครงการหอดูดาวเอก
+- 大型天文台計劃
+- 大型軌道天文台計劃
+- 大型轨道天文台计划
+- 大規模観測計画
+- 그레이트 옵저버터리 계획
 has_id_wikidata: Q901553
-instance_of: "[[_Standards/WikiData/WD~NASA_program,21605492]]"
-operator: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
-space_launch_vehicle: "[[_Standards/WikiData/WD~Space_Shuttle,48806]]"
+instance_of: '[[_Standards/WikiData/WD~NASA_program,21605492]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Space_Shuttle,48806]]'
 Commons_category: Great Observatories program
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.jpg
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Great_Observatories_program,901553]]"
-    - "[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]"
-    - "[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]"
-    - "[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]"
-    - "[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]"
-    - "[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]"
-    - "[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]"
-    - "[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]"
+  - '[[../../WikiData/WD~Great_Observatories_program,901553]]'
+  - '[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]'
+  - '[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]'
+  - '[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]'
+  - '[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]'
+  - '[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]'
+  - '[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]'
+  - '[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Great_Observatories_program,901553]]"
-  - "[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]"
-  - "[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]"
-  - "[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]"
-  - "[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]"
-  - "[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]"
-  - "[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]"
-  - "[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]"
+- '[[../../WikiData/WD~Great_Observatories_program,901553]]'
+- '[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]'
+- '[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]'
+- '[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]'
+- '[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]'
+- '[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]'
+- '[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]'
+- '[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]'
+dv_has_:
+  name_:
+    ar: برنامج المراصد الكبرى
+    ast: Grandes Observatorios
+    az: Böyük Rəsədxanalar proqramı
+    be-tarask: Вялікія абсэрваторыі
+    ca: Programa dels Grans Observatoris
+    cs: Velké observatoře
+    da: Great Observatories program
+    en: Great Observatories program
+    es: Grandes Observatorios
+    eu: Behatoki Handiak programa
+    fr: Grands observatoires
+    gl: Grandes Observatorios Astronómicos
+    gv: claare ny Reayrtlannyn Mooarey
+    he: תכנית המצפים הגדולים
+    hu: nagy obszervatóriumok
+    id: Program Great Observatories
+    it: Grandi Osservatori della NASA
+    ja: 大規模観測計画
+    ko: 그레이트 옵저버터리 계획
+    nb: Great Observatories program
+    nl: Great Observatories-programma
+    oc: Programa dei Grandeis Observatòris
+    pt: Grandes Observatórios Astronómicos
+    ru: Большие обсерватории
+    sl: program Great Observatories
+    sr: Program velikih opservatorija
+    th: โครงการหอดูดาวเอก
+    tr: Büyük Gözlemevleri programı
+    uk: Великі обсерваторії
+    vi: Chương trình Đài Quan sát Lớn
+    yue: 大型天文台計劃
+    zh: 大型轨道天文台计划
+    zh-hans: 大型轨道天文台计划
+    zh-hant: 大型軌道天文台計劃
+    zh-hk: 大型軌道天文台計劃
 ---
-
 # [[Great_Observatories_Program]] 
 
 #is_/same_as :: [[WD~Great_Observatories_program,901553]] 

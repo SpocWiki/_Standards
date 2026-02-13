@@ -1,52 +1,100 @@
 ---
 aliases:
-  - 'रामायणम्, romanized: Rāmāyaṇam'
-  - Ramayana
+- Ramajana
+- Ramajano
+- Ramayana
+- Ramayana (dán eipiciúil)
+- Ramayanum
+- Ramáiana
+- Rámájana
+- Rámáyaná
+- Rāmājana
+- Rāmāyaṇa
+- «Рамаяна»
+- Ραμαγιάννα
+- Рамајана
+- Рамаайана
+- Рамаяана
+- Рамаянæ
+- Рамаяна
+- Ռամայանա
+- ראמאיאנה
+- رامائن
+- رامائڻ
+- رامايانا
+- رامايڼ
+- رامایانا
+- رامایَن
+- ڕامایانا
+- रामायण
+- रामायणम्
+- 'रामायणम्, romanized: Rāmāyaṇam'
+- वाल्मीकि रामायण
+- রামায়ণ
+- ৰামায়ণ
+- ਰਾਮਾਇਣ
+- રામાયણ
+- ରାମାୟଣ
+- இராமாயணம்
+- రామాయణం
+- ರಾಮಾಯಣ
+- രാമായണം
+- රාමායණය
+- รามายณะ
+- ༼ར་མ་ཡ་ན།༽
+- ရာမာယဏ
+- რამაიანა
+- រាមកេរ្តិ៍
+- ラーマーヤナ
+- 罗摩衍那
+- 羅摩衍那
+- ꯔꯥꯃꯥꯌꯟ
+- 라마야나
 has_id_wikidata: Q37293
 characters:
-  - '[[_Standards/WikiData/WD~Rama,160213]]'
-  - '[[_Standards/WikiData/WD~Hanuman,188618]]'
-  - '[[_Standards/WikiData/WD~Garuda,188676]]'
-  - '[[_Standards/WikiData/WD~Sita,191114]]'
-  - '[[_Standards/WikiData/WD~Ravana,235102]]'
-  - '[[_Standards/WikiData/WD~Lakshmana,917687]]'
-  - '[[_Standards/WikiData/WD~Bharata,1978615]]'
-  - '[[_Standards/WikiData/WD~Dasharatha,1996692]]'
-  - '[[_Standards/WikiData/WD~Kausalya,2046270]]'
-  - '[[_Standards/WikiData/WD~Kaikeyi,2046291]]'
-  - '[[_Standards/WikiData/WD~Sumitra,2046297]]'
-  - '[[_Standards/WikiData/WD~Shatrughna,3518451]]'
+- '[[_Standards/WikiData/WD~Rama,160213]]'
+- '[[_Standards/WikiData/WD~Hanuman,188618]]'
+- '[[_Standards/WikiData/WD~Garuda,188676]]'
+- '[[_Standards/WikiData/WD~Sita,191114]]'
+- '[[_Standards/WikiData/WD~Ravana,235102]]'
+- '[[_Standards/WikiData/WD~Lakshmana,917687]]'
+- '[[_Standards/WikiData/WD~Bharata,1978615]]'
+- '[[_Standards/WikiData/WD~Dasharatha,1996692]]'
+- '[[_Standards/WikiData/WD~Kausalya,2046270]]'
+- '[[_Standards/WikiData/WD~Kaikeyi,2046291]]'
+- '[[_Standards/WikiData/WD~Sumitra,2046297]]'
+- '[[_Standards/WikiData/WD~Shatrughna,3518451]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 author: '[[_Standards/WikiData/WD~Valmiki,715607]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~national_epic,1521512]]'
-  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~national_epic,1521512]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Sundara_Kanda,3633015]]'
-  - '[[_Standards/WikiData/WD~Ayodhya_Kanda,4201361]]'
-  - '[[_Standards/WikiData/WD~Balakanda,4849870]]'
-  - '[[_Standards/WikiData/WD~Aranyakanda,7307607]]'
-  - '[[_Standards/WikiData/WD~Kishkindhakanda,7364116]]'
-  - '[[_Standards/WikiData/WD~Uttarakanda,7454746]]'
-  - '[[_Standards/WikiData/WD~Lankakanda,7463345]]'
+- '[[_Standards/WikiData/WD~Sundara_Kanda,3633015]]'
+- '[[_Standards/WikiData/WD~Ayodhya_Kanda,4201361]]'
+- '[[_Standards/WikiData/WD~Balakanda,4849870]]'
+- '[[_Standards/WikiData/WD~Aranyakanda,7307607]]'
+- '[[_Standards/WikiData/WD~Kishkindhakanda,7364116]]'
+- '[[_Standards/WikiData/WD~Uttarakanda,7454746]]'
+- '[[_Standards/WikiData/WD~Lankakanda,7463345]]'
 part_of: '[[_Standards/WikiData/WD~Itihasa,3774766]]'
 form_of_creative_work: '[[_Standards/WikiData/WD~poem,5185279]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Ramayana,10965500]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Molla_Ramayana,12988213]]'
-  - '[[_Standards/WikiData/WD~Le_Râmâyana_de_Valmiki,16726234]]'
-  - '[[_Standards/WikiData/WD~Le_Râmâyana,16726248]]'
-  - '[[_Standards/WikiData/WD~Balmiki_Ramayan,110068103]]'
-  - '[[_Standards/WikiData/WD~Ramayanam,112043611]]'
-  - '[[_Standards/WikiData/WD~Ramayan_(Volume_2),120599555]]'
+- '[[_Standards/WikiData/WD~Molla_Ramayana,12988213]]'
+- '[[_Standards/WikiData/WD~Le_Râmâyana_de_Valmiki,16726234]]'
+- '[[_Standards/WikiData/WD~Le_Râmâyana,16726248]]'
+- '[[_Standards/WikiData/WD~Balmiki_Ramayan,110068103]]'
+- '[[_Standards/WikiData/WD~Ramayanam,112043611]]'
+- '[[_Standards/WikiData/WD~Ramayan_(Volume_2),120599555]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27102796,27102796]]'
 has_list: '[[_Standards/WikiData/WD~list_of_characters_in_Ramayana,86009664]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
@@ -60,8 +108,138 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RAMAYANA.html
 Libris_URI: pm1491n736h5ndx
 title: रामायण
+dv_has_:
+  name_:
+    af: Ramayana
+    anp: रामायण
+    ar: رامايانا
+    arz: رامايانا
+    as: ৰামায়ণ
+    ast: Ramayana
+    awa: रामायण
+    az: Ramayana
+    ba: Рамаяна
+    ban: Ramayana
+    bcl: Ramayana
+    be: Рамаяна
+    be-tarask: Рамаяна
+    bg: Рамаяна
+    bho: रामायण
+    bn: রামায়ণ
+    bo: ༼ར་མ་ཡ་ན།༽
+    bpy: রামায়ণ
+    br: Ramayana
+    brh: Rámáyaná
+    bs: Ramayana
+    ca: Ramayana
+    ckb: ڕامایانا
+    crh: Ramayana
+    cs: Rámájana
+    cy: Ramayana
+    da: Ramayana
+    de: Ramayana
+    dty: रामायण
+    el: Ραμαγιάννα
+    en: Ramayana
+    en-gb: Ramayana
+    en-us: Ramayana
+    eo: Ramajano
+    es: Ramayana
+    et: Rāmājana
+    eu: Ramayana
+    fa: رامایانا
+    fi: Ramayana
+    fr: Ramayana
+    fy: Ramayana
+    ga: Ramayana (dán eipiciúil)
+    gl: Rāmāyaṇa
+    gom: रामायण
+    gom-deva: रामायण
+    gom-latn: Ramayana
+    gu: રામાયણ
+    he: ראמאיאנה
+    hi: वाल्मीकि रामायण
+    hif: Ramayana
+    hr: Ramajana
+    hu: Rámájana
+    hy: Ռամայանա
+    id: Ramayana
+    is: Ramayana
+    it: Rāmāyaṇa
+    ja: ラーマーヤナ
+    jv: Ramayana
+    ka: რამაიანა
+    kk: Рамаяна
+    km: រាមកេរ្តិ៍
+    kn: ರಾಮಾಯಣ
+    ko: 라마야나
+    ks: رامایَن
+    ku: Ramayana
+    kw: Ramayana
+    ky: «Рамаяна»
+    la: Ramayanum
+    lb: Ramayana
+    lt: Ramajana
+    lv: Rāmājana
+    lzh: 羅摩衍那
+    mag: रामायण
+    mai: रामायण
+    map-bms: Ramayana
+    mhr: Рамаяна
+    mk: Рамајана
+    ml: രാമായണം
+    mn: Рамаяана
+    mni: ꯔꯥꯃꯥꯌꯟ
+    mr: रामायण
+    ms: Ramayana
+    my: ရာမာယဏ
+    mzn: رامایانا
+    nan: Ramayana
+    nb: Ramayana
+    ne: रामायण
+    new: रामायण
+    nl: Ramayana
+    nn: Ramayana
+    oc: Ramayana
+    or: ରାମାୟଣ
+    os: Рамаянæ
+    pa: ਰਾਮਾਇਣ
+    pi: रामायण
+    pl: Ramajana
+    pnb: رامائن
+    ps: رامايڼ
+    pt: Ramáiana
+    ro: Ramayana
+    ru: Рамаяна
+    sa: रामायणम्
+    sah: Рамаайана
+    sd: رامائڻ
+    sgs: Ramajana
+    sh: Ramayana
+    si: රාමායණය
+    sk: Rámájana
+    skr: رامائن
+    sl: Ramajana
+    sq: Ramajana
+    sr: Рамајана
+    su: Ramayana
+    sv: Ramayana
+    ta: இராமாயணம்
+    te: రామాయణం
+    th: รามายณะ
+    tl: Ramayana
+    tr: Ramayana
+    tt: Рамаяна
+    udm: Рамаяна
+    uk: Рамаяна
+    ur: رامائن
+    uz: Ramayana
+    vi: Ramayana
+    wuu: 罗摩衍那
+    xmf: რამაიანა
+    yue: 羅摩衍那
+    zh: 罗摩衍那
 ---
-
 # [[Ramayana]] 
 
 #is_/similar_to :: [[Mahabharata|Mahabharata]] 

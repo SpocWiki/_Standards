@@ -1,27 +1,45 @@
 ---
 aliases:
-  - Electronic Numerical  Integrator and Computer
-  - ENIAC
+- Electronic Numerical  Integrator and Computer
+- Electronic Numerical Integrator and Computer
+- ENIAC
+- Електронски нумерички интегратор и компјутер
+- ЕНЫАЦ
+- ЭНІАК
+- ЭНИАК
+- אניאק
+- ئینیاک
+- الحاسوب والمكامل الرقمي الإلكتروني
+- انیاک
+- एनिऐक
+- এনিয়াক
+- எனியாக்
+- എനിയാക്ക്
+- อีนิแอก
+- 电子数值积分计算机
+- 電子數值積分計數機
+- 電子數值積分計算機
+- 에니악
 has_id_wikidata: Q169399
 designed_by:
-  - "[[_Standards/WikiData/WD~J._Presper_Eckert,457906]]"
-  - "[[_Standards/WikiData/WD~John_Mauchly,522162]]"
-  - "[[_Standards/WikiData/WD~Arthur_Burks,711833]]"
-  - "[[_Standards/WikiData/WD~Harry_Huskey,5669903]]"
-  - "[[_Standards/WikiData/WD~Jeffrey_Chuan_Chu,6175907]]"
-followed_by: "[[_Standards/WikiData/WD~UNIVAC_I,1044055]]"
+- '[[_Standards/WikiData/WD~J._Presper_Eckert,457906]]'
+- '[[_Standards/WikiData/WD~John_Mauchly,522162]]'
+- '[[_Standards/WikiData/WD~Arthur_Burks,711833]]'
+- '[[_Standards/WikiData/WD~Harry_Huskey,5669903]]'
+- '[[_Standards/WikiData/WD~Jeffrey_Chuan_Chu,6175907]]'
+followed_by: '[[_Standards/WikiData/WD~UNIVAC_I,1044055]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~decimal_computer,1207371]]"
-  - "[[_Standards/WikiData/WD~first_generation_computer,2202298]]"
-  - "[[_Standards/WikiData/WD~one_of_a_kind_computer,28542014]]"
-part_of: "[[_Standards/WikiData/WD~University_of_Pennsylvania_School_of_Engineering_and_Applied_Science,7896095]]"
+- '[[_Standards/WikiData/WD~decimal_computer,1207371]]'
+- '[[_Standards/WikiData/WD~first_generation_computer,2202298]]'
+- '[[_Standards/WikiData/WD~one_of_a_kind_computer,28542014]]'
+part_of: '[[_Standards/WikiData/WD~University_of_Pennsylvania_School_of_Engineering_and_Applied_Science,7896095]]'
 coordinate_location: Point(-75.191111111 39.952222222)
-commissioned_by: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+commissioned_by: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 capital_cost: 500000
 length: 150
 mass: 27
-location: "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
+location: '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
 service_retirement: 1955-01-01T00:00:00Z
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-eniac-article.ogg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/ENIAC%20Pennsylvania%20state%20historical%20marker.jpg
@@ -31,8 +49,97 @@ ComputerLanguage_com_definition: ENIAC
 official_name: Electronic Numerical Integrator and Computer
 short_name: ENIAC
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20women%20operating%20ENIAC%20%28full%20resolution%29.jpg
+dv_has_:
+  name_:
+    af: ENIAC
+    ar: الحاسوب والمكامل الرقمي الإلكتروني
+    ast: ENIAC
+    az: ENIAC
+    be: ЭНІАК
+    be-tarask: ЭНІАК
+    bg: ENIAC
+    bn: এনিয়াক
+    bs: ENIAC
+    ca: ENIAC
+    ckb: ئینیاک
+    cs: ENIAC
+    da: ENIAC
+    de: ENIAC
+    el: ENIAC
+    en: ENIAC
+    eo: ENIAC
+    es: ENIAC
+    et: ENIAC
+    eu: ENIAC
+    fa: انیاک
+    fi: ENIAC
+    fr: ENIAC
+    ga: ENIAC
+    gl: ENIAC
+    gsw: Electronic Numerical Integrator and Computer
+    he: אניאק
+    hi: एनिऐक
+    hr: ENIAC
+    hu: ENIAC
+    id: ENIAC
+    it: ENIAC
+    ja: ENIAC
+    jv: ENIAC
+    ka: ENIAC
+    kk: ENIAC
+    kk-arab: ENIAC
+    kk-cn: ENIAC
+    kk-cyrl: ЕНЫАЦ
+    kk-kz: ЕНЫАЦ
+    kk-latn: ENIAC
+    kk-tr: ENIAC
+    ko: 에니악
+    la: ENIAC
+    lo: ENIAC
+    lt: ENIAC
+    lv: ENIAC
+    mk: Електронски нумерички интегратор и компјутер
+    ml: എനിയാക്ക്
+    mn: ENIAC
+    ms: ENIAC
+    mul: ENIAC
+    nb: ENIAC
+    nl: ENIAC
+    nn: ENIAC
+    oc: ENIAC
+    pl: ENIAC
+    pms: ENIAC
+    pt: ENIAC
+    ro: ENIAC
+    ru: ЭНИАК
+    sah: ЭНИАК
+    sco: ENIAC
+    sh: ENIAC
+    sk: ENIAC
+    sl: ENIAC
+    sq: Eniac
+    sr: ENIAC
+    sr-ec: ENIAC
+    sr-el: ENIAC
+    sv: ENIAC
+    sw: ENIAC
+    ta: எனியாக்
+    te: ENIAC
+    th: อีนิแอก
+    tr: ENIAC
+    uk: ENIAC
+    vec: Electronic Numerical Integrator and Computer
+    vi: ENIAC
+    wuu: 电子数值积分计算机
+    yue: ENIAC
+    zh: 電子數值積分計算機
+    zh-cn: 电子数值积分计算机
+    zh-hans: 电子数值积分计算机
+    zh-hant: 電子數值積分計算機
+    zh-hk: 電子數值積分計數機
+    zh-sg: 电子数值积分计算机
+    zh-tw: 電子數值積分計算機
 ---
-
 # [[ENIAC]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~ENIAC,169399|WD~ENIAC,169399]] 

@@ -1,24 +1,179 @@
 ---
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Interstellar_medium,41872]]"
-    - "[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]"
-    - "[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]"
-    - "[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]"
-    - "[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]"
-    - "[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]"
-    - "[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]"
-    - "[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]"
+  - '[[../WikiData/WD~Interstellar_medium,41872]]'
+  - '[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]'
+  - '[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]'
+  - '[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]'
+  - '[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]'
+  - '[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]'
+  - '[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]'
+  - '[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Interstellar_medium,41872]]"
-  - "[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]"
-  - "[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]"
-  - "[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]"
-  - "[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]"
-  - "[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]"
-  - "[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]"
-  - "[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]"
+- '[[../WikiData/WD~Interstellar_medium,41872]]'
+- '[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]'
+- '[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]'
+- '[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]'
+- '[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]'
+- '[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]'
+- '[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]'
+- '[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]'
 has_id_wikidata: Q41872
+dv_has_:
+  name_:
+    af: interstellêre medium
+    an: meyo interestelar
+    ar: وسط بين نجمي
+    ast: mediu interestelar
+    be: міжзорнае асяроддзе
+    be-tarask: міжзорнае асяродзьдзе
+    bg: Междузвездна среда
+    bs: Međuzvjezdana materija
+    ca: medi interestel·lar
+    cs: mezihvězdné prostředí
+    cv: Çăлтăрсем хушшинчи тавралăх
+    cy: mater rhyngseryddol
+    da: interstellart medium
+    de: interstellares Medium
+    en: interstellar medium
+    eo: interstela medio
+    es: medio interestelar
+    et: tähtedevaheline keskkond
+    eu: Izarrarteko ingurune
+    fa: محیط میانستارهای
+    fi: tähtienvälinen aine
+    fr: milieu interstellaire
+    fur: Mieç interstelâr
+    ga: damhna idir-réaltrach
+    gl: Medio interestelar
+    he: תווך בין-כוכבי
+    hi: अंतरतारकीय माध्यम
+    hr: međuzvjezdana tvar
+    hu: csillagközi anyag
+    hy: Միջաստղային միջավայր
+    id: medium antarbintang
+    it: spazio interstellare
+    ja: 星間物質
+    ka: ვარსკვლავთშორისი სივრცე
+    kk: Жұлдызаралық орта
+    ko: 성간물질
+    la: medium interstellare
+    lb: interstellar Matière
+    lt: tarpžvaigždinė medžiaga
+    lv: starpzvaigžņu vide
+    min: medium antarbintang
+    mk: меѓуѕвездена средина
+    ml: നക്ഷത്രാന്തരീയ മാദ്ധ്യമം
+    mn: огторгуйн завсрын дүүргэлт
+    ms: medium antara najam
+    nan: Seng-chè mûi-chit
+    nb: interstellar materie
+    ne: अंतरतारकीय माध्यम
+    nl: interstellair medium
+    nn: Interstellart stoff
+    nqo: ߓߟߊߓߟߊߕߍߞߣߍ ߕߍߡߟߊ ߘߐ߫
+    oc: Espaci interstellar
+    os: стъалыты æхсæн фалдзус
+    pl: ośrodek międzygwiazdowy
+    pt: meio interestelar
+    ro: mediu interstelar
+    ru: межзвёздная среда
+    sa: अंतरतारकीय माध्यमः
+    sco: Interstellar medium
+    sh: Međuzvjezdana tvar
+    sk: Medzihviezdna hmota
+    sl: medzvezdna snov
+    sq: Materia nderyjore
+    sr: међузвездани медијум
+    sr-ec: међузвездани медијум
+    su: Médium antarbéntang
+    sv: interstellärt medium
+    ta: விண்மீன்களிடை ஊடகம்
+    tg: муҳити миёнситораӣ
+    th: มวลสารระหว่างดาว
+    tr: Yıldızlararası madde
+    tt: йолдызара мохит
+    tt-cyrl: йолдызара мохит
+    uk: Міжзоряне середовище
+    ur: بین النجمی واسطہ
+    vi: môi trường liên sao
+    wuu: 星际物质
+    xmf: მურიცხეფოშქაშე ოფირჩა
+    yue: 星際物質
+    zh: 星际物质
+aliases:
+- csillagközi anyag
+- damhna idir-réaltrach
+- Espaci interstellar
+- interstela medio
+- interstellair medium
+- interstellar materie
+- interstellar Matière
+- interstellar medium
+- interstellares Medium
+- interstellart medium
+- Interstellart stoff
+- interstellärt medium
+- interstellêre medium
+- Izarrarteko ingurune
+- mater rhyngseryddol
+- Materia nderyjore
+- medi interestel·lar
+- medio interestelar
+- mediu interestelar
+- mediu interstelar
+- medium antara najam
+- medium antarbintang
+- medium interstellare
+- Medzihviezdna hmota
+- medzvezdna snov
+- meio interestelar
+- meyo interestelar
+- mezihvězdné prostředí
+- Međuzvjezdana materija
+- međuzvjezdana tvar
+- Mieç interstelâr
+- milieu interstellaire
+- Médium antarbéntang
+- môi trường liên sao
+- ośrodek międzygwiazdowy
+- Seng-chè mûi-chit
+- spazio interstellare
+- starpzvaigžņu vide
+- tarpžvaigždinė medžiaga
+- tähtedevaheline keskkond
+- tähtienvälinen aine
+- Yıldızlararası madde
+- Çăлтăрсем хушшинчи тавралăх
+- Жұлдызаралық орта
+- йолдызара мохит
+- міжзорнае асяроддзе
+- міжзорнае асяродзьдзе
+- Міжзоряне середовище
+- међузвездани медијум
+- меѓуѕвездена средина
+- Междузвездна среда
+- межзвёздная среда
+- муҳити миёнситораӣ
+- огторгуйн завсрын дүүргэлт
+- стъалыты æхсæн фалдзус
+- Միջաստղային միջավայր
+- תווך בין-כוכבי
+- بین النجمی واسطہ
+- محیط میانستارهای
+- وسط بين نجمي
+- ߓߟߊߓߟߊߕߍߞߣߍ ߕߍߡߟߊ ߘߐ߫
+- अंतरतारकीय माध्यम
+- अंतरतारकीय माध्यमः
+- விண்மீன்களிடை ஊடகம்
+- നക്ഷത്രാന്തരീയ മാദ്ധ്യമം
+- มวลสารระหว่างดาว
+- ვარსკვლავთშორისი სივრცე
+- მურიცხეფოშქაშე ოფირჩა
+- 星間物質
+- 星际物质
+- 星際物質
+- 성간물질
 ---
 # [[Interstellar_Medium]] 
 

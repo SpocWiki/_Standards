@@ -1,13 +1,70 @@
 ---
 aliases:
-  - Walfang
-  - Whaling
+- Aġviqsiuġniq
+- Balaenatio
+- balea arrantza
+- baleação
+- balenkaptado
+- balina avcılığı
+- Balina ovu
+- Banginių medžioklė
+- bálnavadászat
+- caccia alla balena
+- Caza de baleas
+- caza de ballenas
+- Caza de ballenes
+- caça de balenes
+- chasse à la baleine
+- càcia de bałene
+- fálesbivdu
+- hvalfangst
+- Hvalveiðar
+- Hwælhuntoþ
+- Kitolov
+- kvalfangst
+- Lov na kitove
+- lov velryb
+- Penangkapan ikan paus
+- Perburuan paus
+- seilg míolta móra
+- Săn bắt cá voi
+- vaalapüük
+- valaanpyynti
+- valfångst
+- vaļu medības
+- vânătoare de balene
+- välispivdo
+- Walfang
+- walvisvaart
+- Whaling
+- wielorybnictwo
+- φαλαινοθηρία
+- Кит аулау кәсебе
+- кит тытас ӗҫ
+- китобійний промисел
+- китобойный промысел
+- китолов
+- Лов на китове
+- паляваньне на кітоў
+- Կետորսություն
+- ציד לווייתנים
+- شکار نهنگ
+- صيد الحيتان
+- نهنګ ښکار
+- ڕاوکردنی نەھەنگ
+- व्हेल आखेट
+- তিমি শিকার
+- திமிங்கில வேட்டை
+- തിമിംഗല വേട്ട
+- ვეშაპსარეწი
+- 捕鯨
+- 고래잡이
 has_id_wikidata: Q42767
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
 practiced_by: '[[_Standards/WikiData/WD~whaler,28466165]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Animal_heritage,115236198]]'
@@ -19,10 +76,82 @@ Iconclass_notation: 47K11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bungartz%20-%20Walfang%20nach%20neuster%20Fangmethode%20%281885%29.jpg
 P2167: 70101506
 Dewey_Decimal_Classification:
-  - 639.28
-  - 338.37295
+- 639.28
+- 338.37295
+dv_has_:
+  name_:
+    ang: Hwælhuntoþ
+    ar: صيد الحيتان
+    ast: Caza de ballenes
+    az: Balina ovu
+    ba: Кит аулау кәсебе
+    be-tarask: паляваньне на кітоў
+    bg: Лов на китове
+    bn: তিমি শিকার
+    bs: Lov na kitove
+    ca: caça de balenes
+    ckb: ڕاوکردنی نەھەنگ
+    cs: lov velryb
+    cv: кит тытас ӗҫ
+    da: Hvalfangst
+    de: Walfang
+    de-ch: Walfang
+    el: φαλαινοθηρία
+    en: whaling
+    en-ca: Whaling
+    en-gb: whaling
+    en-us: whaling
+    eo: balenkaptado
+    es: caza de ballenas
+    et: vaalapüük
+    eu: balea arrantza
+    fa: شکار نهنگ
+    fi: valaanpyynti
+    fr: chasse à la baleine
+    ga: seilg míolta móra
+    gl: Caza de baleas
+    he: ציד לווייתנים
+    hi: व्हेल आखेट
+    hr: Kitolov
+    hu: bálnavadászat
+    hy: Կետորսություն
+    id: Perburuan paus
+    ik: Aġviqsiuġniq
+    is: Hvalveiðar
+    it: caccia alla balena
+    ja: 捕鯨
+    ka: ვეშაპსარეწი
+    ko: 고래잡이
+    la: Balaenatio
+    lt: Banginių medžioklė
+    lv: vaļu medības
+    mk: китолов
+    ml: തിമിംഗല വേട്ട
+    ms: Penangkapan ikan paus
+    nb: hvalfangst
+    nl: walvisvaart
+    nn: kvalfangst
+    pl: wielorybnictwo
+    ps: نهنګ ښکار
+    pt: baleação
+    pt-br: Baleação
+    ro: vânătoare de balene
+    ru: китобойный промысел
+    se: fálesbivdu
+    sh: Kitolov
+    sl: kitolov
+    smn: välispivdo
+    sr: Китолов
+    sr-ec: китолов
+    sv: valfångst
+    ta: திமிங்கில வேட்டை
+    tr: balina avcılığı
+    uk: китобійний промисел
+    vec: càcia de bałene
+    vi: Săn bắt cá voi
+    yue: 捕鯨
+    zh: 捕鯨
 ---
-
 # [[Whaling]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Whaling,42767|WD~Whaling,42767]] 

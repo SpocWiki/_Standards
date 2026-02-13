@@ -1,8 +1,93 @@
 ---
 has_id_wikidata: Q849168
+dv_has_:
+  name_:
+    af: Laaste universele gemeenskaplike voorouer
+    ar: سلف شامل أخير
+    bg: Последен универсален общ предшественик
+    ca: últim avantpassat comú universal
+    cs: Poslední univerzální společný předek
+    cv: Юлашки универсаллă пĕрлĕхлĕ несĕл
+    da: Sidste fælles forfader
+    de: Urvorfahr
+    en: last universal common ancestor
+    eo: lasta universala komuna praulo
+    es: Último antepasado común universal
+    et: Viimane universaalne ühine esivanem
+    eu: Azken arbaso komun unibertsala
+    fa: جهاننیای پایانی
+    fi: Viimeinen universaali esivanhempi
+    fr: dernier ancêtre commun universel
+    gl: Último antepasado común universal
+    he: האב הקדמון הכולל
+    hy: Վերջին ունիվերսալ ընդհանուր նախնի
+    id: Leluhur universal terakhir
+    is: Síðasti sameiginlegi forfaðir allra núlifandi lífvera
+    it: ultimo antenato comune universale
+    ja: 普遍的祖先細胞
+    ka: უკანასკნელი უნივერსალური საერთო წინაპარი
+    kab: Aẓaṛ ameɣrad aneggar
+    ko: 모든 생물의 공통 조상
+    la: Ultimus antecessor universalis
+    ml: ജീവന്റെ അവസാന പൊതു പൂർവ്വികൻ
+    ms: Leluhur universal terakhir
+    nl: LUCA
+    pl: ostatni uniwersalny wspólny przodek
+    ps: وروستی نړیوال مشترک جد/نیکه
+    pt: último ancestral comum
+    ro: ultimul strămoș comun universal
+    ru: последний универсальный общий предок
+    sl: zadnji univerzalni skupni prednik
+    sr: Zadnji univerzalni zajednički predak
+    th: บรรพบุรุษร่วมที่ใกล้กันที่สุดของสิ่งมีชีวิตบนโลก
+    tr: Son evrensel ortak ata
+    uk: останній універсальний спільний предок
+    vi: Tổ tiên chung phổ quát cuối cùng
+    yue: 最終共同祖先
+    zh: 最後共同祖先
+aliases:
+- Azken arbaso komun unibertsala
+- Aẓaṛ ameɣrad aneggar
+- dernier ancêtre commun universel
+- Laaste universele gemeenskaplike voorouer
+- last universal common ancestor
+- lasta universala komuna praulo
+- Leluhur universal terakhir
+- LUCA
+- ostatni uniwersalny wspólny przodek
+- Poslední univerzální společný předek
+- Sidste fælles forfader
+- Son evrensel ortak ata
+- Síðasti sameiginlegi forfaðir allra núlifandi lífvera
+- Tổ tiên chung phổ quát cuối cùng
+- ultimo antenato comune universale
+- ultimul strămoș comun universal
+- Ultimus antecessor universalis
+- Urvorfahr
+- Viimane universaalne ühine esivanem
+- Viimeinen universaali esivanhempi
+- zadnji univerzalni skupni prednik
+- Zadnji univerzalni zajednički predak
+- últim avantpassat comú universal
+- último ancestral comum
+- Último antepasado común universal
+- останній універсальний спільний предок
+- Последен универсален общ предшественик
+- последний универсальный общий предок
+- Юлашки универсаллă пĕрлĕхлĕ несĕл
+- Վերջին ունիվերսալ ընդհանուր նախնի
+- האב הקדמון הכולל
+- جهاننیای پایانی
+- سلف شامل أخير
+- وروستی نړیوال مشترک جد/نیکه
+- ജീവന്റെ അവസാന പൊതു പൂർവ്വികൻ
+- บรรพบุรุษร่วมที่ใกล้กันที่สุดของสิ่งมีชีวิตบนโลก
+- უკანასკნელი უნივერსალური საერთო წინაპარი
+- 普遍的祖先細胞
+- 最後共同祖先
+- 最終共同祖先
+- 모든 생물의 공통 조상
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The **Last universal common ancestor** (LUCA) is the hypothesized common ancestral cell 

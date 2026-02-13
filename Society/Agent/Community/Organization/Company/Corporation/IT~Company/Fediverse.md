@@ -1,8 +1,96 @@
 ---
 has_id_wikidata: Q30325419
+dv_has_:
+  name_:
+    ar: فديفرس
+    bg: Федиверс
+    br: fediverse
+    ca: fedivers
+    co: fediversu
+    cs: fediverzum
+    cy: Fediverse
+    da: fediverse
+    de: Fediversum
+    en: Fediverse
+    en-ca: fediverse
+    en-gb: fediverse
+    en-us: fediverse
+    eo: Fediverso
+    es: fediverso
+    et: Födiversum
+    eu: Fedibertso
+    fa: فدیورس
+    fi: fediversumi
+    fr: fédivers
+    fy: fediverse
+    ga: cruinne chónaidhmeach
+    gl: fediverso
+    gu: ફેડીવર્સ
+    he: הפדיברס
+    hu: Fediverzum
+    ie: Fediverse
+    it: fediverso
+    ja: Fediverse
+    ko: 연합우주
+    la: foediversum
+    li: fiddiversum
+    lmo: Fedivers
+    lv: Fediverse
+    mul: Fediverse
+    nan: Fediverse
+    nb: allheimen
+    nl: fediversum
+    nn: fødiverset
+    no: Fødiverset
+    oc: fedivèrs
+    pl: fediwersum
+    pt: Fediverso
+    pt-br: Fediverso
+    ro: Fediverse
+    ru: Fediverse
+    sc: fediversu
+    sco: Fediverse
+    sh: Fedivers
+    sl: fediverzum
+    sv: fediversum
+    tl: Fediverse
+    tok: ilo Petewa
+    tr: fedivers
+    uk: Федиверс
+    vi: Fediverse
+    wa: fediviers
+    zh: 联邦宇宙
+    zh-hant: 聯邦宇宙
+    zh-tw: Fediverse
+aliases:
+- allheimen
+- cruinne chónaidhmeach
+- Fedibertso
+- fedivers
+- fediverse
+- Fediverso
+- fediversu
+- Fediversum
+- fediversumi
+- fediverzum
+- fediviers
+- fedivèrs
+- fediwersum
+- fiddiversum
+- foediversum
+- fédivers
+- Födiversum
+- Fødiverset
+- ilo Petewa
+- Федиверс
+- הפדיברס
+- فديفرس
+- فدیورس
+- ફેડીવર્સ
+- 联邦宇宙
+- 聯邦宇宙
+- 연합우주
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The **Fediverse** (commonly shortened to Fedi) is a __collection of social networking services__ 

@@ -1,14 +1,172 @@
 ---
-aliases: 
-Commons_category: "Abstract expressionism"
+aliases:
+- abstraaktlaž ekspressionismm
+- abstract expressionism
+- abstract expressionisme
+- abstrakt ekspresjonisme
+- Abstrakt ekspressionisme
+- abstrakt ekspressionizm
+- Abstrakt expresionismo
+- abstrakt expressionism
+- abstrakta ekspresionismo
+- Abstraktais ekspresionisms
+- Abstrakte ekspressionisme
+- Abstrakte Expressionismus
+- abstrakten Expressionismus
+- abstrakter Expressionismus
+- abstrakti ekspressionismi
+- Abstraktili ékspressïonïzm
+- abstraktlâš ekspressionism
+- abstraktne ekspressionism
+- abstraktni ekspresionizem
+- abstraktní expresionismus
+- abstraktný expresionizmus
+- Abstraktusis ekspresionizmas
+- abstrákta ekspressionisma
+- absztrakt expresszionizmus
+- Apstraktni ekspresionizam
+- chủ nghĩa biểu hiện trừu tượng
+- eispriseanachas teibí
+- ekspresionisme abstrak
+- Ekspresionizmi Abstrakt
+- Ekspresjonizm abstrakcyjny
+- Espresionismo abstraktu
+- espressionismo astratto
+- expresionism abstract
+- expresionismo abstracto
+- expressionisme abstracte
+- expressionismo abstrato
+- Expressionismus abstractus
+- Expressionnisme abstrach
+- expressionnisme abstrait
+- Menegesydhieth Tybel
+- Mynegiadaeth Haniaethol
+- soyut dışavurumculuk
+- Αφηρημένος Εξπρεσιονισμός
+- абстракт экспрессионизм
+- абстрактілі экспрессионизм
+- Абстрактен експресионизъм
+- Абстрактнай экспрессионизм
+- абстрактний експресіонізм
+- абстрактны экспрэсіянізм
+- Абстрактный експресионизм
+- абстрактный экспрессионизм
+- апстрактен експресионизам
+- апстрактни експресионизам
+- աբստրակտ էքսպրեսիոնիզմ
+- אקספרסיוניזם מופשט
+- ابستراكتىلى ەكسپرەسسىيونىيزم
+- التعبيرية التجريدية
+- التعبيريه التجريديه
+- اکسپرسیونیسم انتزاعی
+- বিমূর্ত অভিব্যাক্তি বাদ
+- ਅਮੂਰਤ ਅਭਿਅੰਜਨਾਵਾਦ
+- பண்பியல் வெளிப்பாட்டியம்
+- ลัทธิสำแดงพลังอารมณ์แนวนามธรรม
+- აბსტრაქტული ექსპრესიონიზმი
+- 抽象表现主义
+- 抽象表現主義
+- 추상표현주의
+Commons_category: Abstract expressionism
 has_id_wikidata: Q177725
 instance_of:
 - '[[_Standards/WikiData/WD~art_movement,968159]]'
 - '[[_Standards/WikiData/WD~painting_movement,3326867]]'
 P8189: 987007292961305171
 subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
+dv_has_:
+  name_:
+    af: Abstrakte ekspressionisme
+    ar: التعبيرية التجريدية
+    arz: التعبيريه التجريديه
+    az: abstrakt ekspressionizm
+    be: абстрактны экспрэсіянізм
+    be-tarask: абстрактны экспрэсіянізм
+    bg: Абстрактен експресионизъм
+    bn: বিমূর্ত অভিব্যাক্তি বাদ
+    bs: Apstraktni ekspresionizam
+    ca: expressionisme abstracte
+    cs: abstraktní expresionismus
+    cy: Mynegiadaeth Haniaethol
+    da: Abstrakt ekspressionisme
+    de: abstrakter Expressionismus
+    de-ch: Abstrakter Expressionismus
+    el: Αφηρημένος Εξπρεσιονισμός
+    en: abstract expressionism
+    en-ca: Abstract expressionism
+    en-gb: abstract expressionism
+    eo: abstrakta ekspresionismo
+    es: expresionismo abstracto
+    et: abstraktne ekspressionism
+    eu: Espresionismo abstraktu
+    fa: اکسپرسیونیسم انتزاعی
+    fi: abstrakti ekspressionismi
+    fr: expressionnisme abstrait
+    ga: eispriseanachas teibí
+    gl: Expresionismo abstracto
+    gsw: Abstrakte Expressionismus
+    he: אקספרסיוניזם מופשט
+    hr: Apstraktni ekspresionizam
+    hu: absztrakt expresszionizmus
+    hy: աբստրակտ էքսպրեսիոնիզմ
+    id: ekspresionisme abstrak
+    io: Abstrakt expresionismo
+    it: espressionismo astratto
+    ja: 抽象表現主義
+    ka: აბსტრაქტული ექსპრესიონიზმი
+    kk: абстрактілі экспрессионизм
+    kk-arab: ابستراكتىلى ەكسپرەسسىيونىيزم
+    kk-cn: ابستراكتىلى ەكسپرەسسىيونىيزم
+    kk-cyrl: Абстрактілі экспрессионизм
+    kk-kz: Абстрактілі экспрессионизм
+    kk-latn: Abstraktili ékspressïonïzm
+    kk-tr: Abstraktili ékspressïonïzm
+    ko: 추상표현주의
+    kw: Menegesydhieth Tybel
+    la: Expressionismus abstractus
+    lb: abstrakten Expressionismus
+    lt: Abstraktusis ekspresionizmas
+    lv: Abstraktais ekspresionisms
+    mk: апстрактен експресионизам
+    nb: abstrakt ekspresjonisme
+    nl: abstract expressionisme
+    nn: abstrakt ekspresjonisme
+    oc: Expressionnisme abstrach
+    pa: ਅਮੂਰਤ ਅਭਿਅੰਜਨਾਵਾਦ
+    pl: Ekspresjonizm abstrakcyjny
+    pt: expressionismo abstrato
+    pt-br: Expressionismo abstrato
+    ro: expresionism abstract
+    ru: абстрактный экспрессионизм
+    rue: Абстрактный експресионизм
+    sah: Абстрактнай экспрессионизм
+    se: abstrákta ekspressionisma
+    sh: Apstraktni ekspresionizam
+    sk: abstraktný expresionizmus
+    sl: abstraktni ekspresionizem
+    smn: abstraktlâš ekspressionism
+    sms: abstraaktlaž ekspressionismm
+    sq: Ekspresionizmi Abstrakt
+    sr: апстрактни експресионизам
+    sr-ec: апстрактни експресионизам
+    sr-el: apstraktni ekspresionizam
+    sv: abstrakt expressionism
+    ta: பண்பியல் வெளிப்பாட்டியம்
+    th: ลัทธิสำแดงพลังอารมณ์แนวนามธรรม
+    tr: soyut dışavurumculuk
+    tt: абстракт экспрессионизм
+    uk: абстрактний експресіонізм
+    vi: chủ nghĩa biểu hiện trừu tượng
+    wuu: 抽象表现主义
+    yue: 抽象表現主義
+    zh: 抽象表現主義
+    zh-cn: 抽象表现主义
+    zh-hans: 抽象表现主义
+    zh-hant: 抽象表現主義
+    zh-hk: 抽象表現主義
+    zh-sg: 抽象表现主义
+    zh-tw: 抽象表現主義
 ---
-
 # [[Abstract_Expressionism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Abstract_expressionism,177725]] 

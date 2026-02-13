@@ -1,69 +1,104 @@
 ---
 aliases:
-  - Rosalind Elsie Franklin
-  - Rosalind Franklin
-  - Franklin,Rosalind
+- Franklin Rozalind
+- Franklin,Rosalind
+- Rosalind Elsie Franklin
+- Rosalind Franklin
+- Rosalind Franklinová
+- Rozalind Franklin
+- Rozalind Frenklin
+- Rozalinda Franklina
+- Ρόζαλιντ Φράνκλιν
+- Разалінд Франклін
+- Розалінд Франклін
+- Розалинд Франклин
+- Франклин Розалинд
+- Ռոզալինդ Ֆրանկլին
+- רוזלינד פרנקלין
+- روزاليند فرانكلين
+- روزالينډ فرانکلين
+- روزالیند فرانکلین
+- ڕۆزەلیند فرانکلین
+- रॉसलिंड एल्सी फ्रेंकलिन
+- रोजालिन् फ्रेन्क्लिन
+- रोझालिंड फ्रँकलिन
+- रोसलिन्द् फ़्रङ्क्लिन्
+- রোজালিন্ড ফ্রাঙ্কলিন
+- ਰੋਜ਼ਾਲਿੰਡ ਫ੍ਰੈਂਕਲਿਨ
+- உரோசலிண்டு பிராங்குளின்
+- రోసలిండ్ ఫ్రాంక్లిన్
+- ರೋಸಾಲಿಂಡ್ ಎಲ್ಸೀ ಫ್ರಾಂಕ್ಲಿನ್
+- ರೋಸಾಲಿಂಡ್ ಫ್ರಾಂಕ್ಲಿನ್
+- റോസാലിന്റ് ഫ്രാങ്ക്ലിൻ
+- රොසලින්ඩ් ෆ්රෑන්ක්ලීන්
+- โรซาลินด์ แฟรงคลิน
+- როზალინდ ფრანკლინი
+- ロザリンド・フランクリン
+- 罗莎琳·富兰克林
+- 羅莎琳·富蘭克林
+- 羅薩蓮德·富蘭克林
+- 로절린드 프랭클린
 has_id_wikidata: Q7474
 Google_Doodle: rosalind-franklins-93rd-birthday
 birth_name: Rosalind Elsie Franklin
 date_of_birth: 1920-07-25T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~biochemist,2919046]]"
-  - "[[_Standards/WikiData/WD~geneticist,3126128]]"
-  - "[[_Standards/WikiData/WD~biophysicist,14906342]]"
-  - "[[_Standards/WikiData/WD~crystallographer,15142825]]"
-  - "[[_Standards/WikiData/WD~molecular_biologist,15839206]]"
-cause_of_death: "[[_Standards/WikiData/WD~ovarian_cancer,172341]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~biochemist,2919046]]'
+- '[[_Standards/WikiData/WD~geneticist,3126128]]'
+- '[[_Standards/WikiData/WD~biophysicist,14906342]]'
+- '[[_Standards/WikiData/WD~crystallographer,15142825]]'
+- '[[_Standards/WikiData/WD~molecular_biologist,15839206]]'
+cause_of_death: '[[_Standards/WikiData/WD~ovarian_cancer,172341]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-place_of_birth: "[[_Standards/WikiData/WD~Notting_Hill,215354]]"
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+place_of_birth: '[[_Standards/WikiData/WD~Notting_Hill,215354]]'
 employer:
-  - "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-  - "[[_Standards/WikiData/WD~Birkbeck,_University_of_London,375606]]"
+- "[[_Standards/WikiData/WD~King's_College_London,245247]]"
+- '[[_Standards/WikiData/WD~Birkbeck,_University_of_London,375606]]'
 student:
-  - "[[_Standards/WikiData/WD~Raymond_Gosling,425771]]"
-  - "[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]"
+- '[[_Standards/WikiData/WD~Raymond_Gosling,425771]]'
+- '[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Churchill_College,714740]]"
-  - "[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-field_of_work: "[[_Standards/WikiData/WD~X_ray_crystallography,826582]]"
+- '[[_Standards/WikiData/WD~Churchill_College,714740]]'
+- '[[_Standards/WikiData/WD~Wellcome_Collection,7981191]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+field_of_work: '[[_Standards/WikiData/WD~X_ray_crystallography,826582]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Newnham_College,1247589]]"
-  - "[[_Standards/WikiData/WD~St_Paul's_Girls'_School,4638918]]"
-  - "[[_Standards/WikiData/WD~Norland_Place_School,7051393]]"
-  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
-family_name: "[[_Standards/WikiData/WD~Franklin,2696075]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-father: "[[_Standards/WikiData/WD~Ellis_Arthur_Franklin,5365834]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-place_of_burial: "[[_Standards/WikiData/WD~Willesden_Jewish_Cemetery,8003686]]"
+- '[[_Standards/WikiData/WD~Newnham_College,1247589]]'
+- "[[_Standards/WikiData/WD~St_Paul's_Girls'_School,4638918]]"
+- '[[_Standards/WikiData/WD~Norland_Place_School,7051393]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+family_name: '[[_Standards/WikiData/WD~Franklin,2696075]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+father: '[[_Standards/WikiData/WD~Ellis_Arthur_Franklin,5365834]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+place_of_burial: '[[_Standards/WikiData/WD~Willesden_Jewish_Cemetery,8003686]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Elsie,16423214]]"
-  - "[[_Standards/WikiData/WD~Rosalind,20165788]]"
-doctoral_student: "[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]"
-place_of_death: "[[_Standards/WikiData/WD~Royal_Marsden_Hospital,50575536]]"
+- '[[_Standards/WikiData/WD~Elsie,16423214]]'
+- '[[_Standards/WikiData/WD~Rosalind,20165788]]'
+doctoral_student: '[[_Standards/WikiData/WD~John_Thomas_Finch,21166230]]'
+place_of_death: '[[_Standards/WikiData/WD~Royal_Marsden_Hospital,50575536]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]"
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]"
-  - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
-  - "[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]"
+- '[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]'
+- '[[_Standards/WikiData/WD~Women_In_Science,113116304]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~British_English,7979]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~British_English,7979]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 66799514
 Commons_category: Rosalind Franklin
 name_in_native_language: Rosalind Franklin
@@ -73,28 +108,128 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/ROSALIND%20FRAN
 described_at_URL: https://www.nytimes.com/2023/04/25/science/rosalind-franklin-dna.html
 Libris_URI: 0xbfk45j01x4337
 dv_is_:
-  similar_to: "[[Hodgkin,Dorothy]]"
+  similar_to: '[[Hodgkin,Dorothy]]'
   same_as:
-    - "[[WD~Rosalind_Franklin,7474]]"
-    - "[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]"
-    - "[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]"
-    - "[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Franklin,Rosalind.protect|Franklin,Rosalind.protect]]"
-    - "[[/_private/Chemistry/Chemist/Franklin,Rosalind.private|Franklin,Rosalind.private]]"
-    - "[[/_personal/Chemistry/Chemist/Franklin,Rosalind.personal|Franklin,Rosalind.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]]"
-dv_is_similar_to: "[[Hodgkin,Dorothy]]"
+  - '[[WD~Rosalind_Franklin,7474]]'
+  - '[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]'
+  - '[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]'
+  - '[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Franklin,Rosalind.protect|Franklin,Rosalind.protect]]'
+  - '[[/_private/Chemistry/Chemist/Franklin,Rosalind.private|Franklin,Rosalind.private]]'
+  - '[[/_personal/Chemistry/Chemist/Franklin,Rosalind.personal|Franklin,Rosalind.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]]'
+dv_is_similar_to: '[[Hodgkin,Dorothy]]'
 dv_is_same_as:
-  - "[[WD~Rosalind_Franklin,7474]]"
-  - "[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]"
-  - "[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]"
-  - "[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Franklin,Rosalind.protect|Franklin,Rosalind.protect]]"
-  - "[[/_private/Chemistry/Chemist/Franklin,Rosalind.private|Franklin,Rosalind.private]]"
-  - "[[/_personal/Chemistry/Chemist/Franklin,Rosalind.personal|Franklin,Rosalind.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]]"
+- '[[WD~Rosalind_Franklin,7474]]'
+- '[[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]]'
+- '[[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]]'
+- '[[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]]'
+- '[[/_protect/Chemistry/Chemist/Franklin,Rosalind.protect|Franklin,Rosalind.protect]]'
+- '[[/_private/Chemistry/Chemist/Franklin,Rosalind.private|Franklin,Rosalind.private]]'
+- '[[/_personal/Chemistry/Chemist/Franklin,Rosalind.personal|Franklin,Rosalind.personal]]'
+- '[[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]]'
+dv_has_:
+  name_:
+    af: Rosalind Franklin
+    an: Rosalind Franklin
+    ar: روزاليند فرانكلين
+    arz: روزاليند فرانكلين
+    ast: Rosalind Franklin
+    ay: Rosalind Franklin
+    az: Rozalind Franklin
+    azb: روزالیند فرانکلین
+    ba: Франклин Розалинд
+    bcl: Rosalind Franklin
+    be: Разалінд Франклін
+    bg: Розалинд Франклин
+    bn: রোজালিন্ড ফ্রাঙ্কলিন
+    br: Rosalind Franklin
+    bs: Rosalind Franklin
+    ca: Rosalind Franklin
+    ckb: ڕۆزەلیند فرانکلین
+    cs: Rosalind Franklinová
+    cy: Rosalind Franklin
+    da: Rosalind Franklin
+    de: Rosalind Franklin
+    de-ch: Rosalind Franklin
+    dtp: Rosalind Franklin
+    el: Ρόζαλιντ Φράνκλιν
+    en: Rosalind Franklin
+    en-ca: Rosalind Franklin
+    en-gb: Rosalind Franklin
+    eo: Rosalind Franklin
+    es: Rosalind Franklin
+    et: Rosalind Franklin
+    eu: Rosalind Franklin
+    fa: روزالیند فرانکلین
+    fi: Rosalind Franklin
+    fr: Rosalind Elsie Franklin
+    ga: Rosalind Franklin
+    gl: Rosalind Franklin
+    he: רוזלינד פרנקלין
+    hi: रॉसलिंड एल्सी फ्रेंकलिन
+    hr: Rosalind Franklin
+    ht: Rosalind Franklin
+    hu: Rosalind Franklin
+    hy: Ռոզալինդ Ֆրանկլին
+    id: Rosalind Franklin
+    is: Rosalind Franklin
+    it: Rosalind Franklin
+    ja: ロザリンド・フランクリン
+    jv: Rosalind Franklin
+    ka: როზალინდ ფრანკლინი
+    kk: Розалинд Франклин
+    kn: ರೋಸಾಲಿಂಡ್ ಫ್ರಾಂಕ್ಲಿನ್
+    ko: 로절린드 프랭클린
+    lb: Rosalind Franklin
+    lv: Rozalinda Franklina
+    mg: Rosalind Elsie Franklin
+    mk: Розалинд Франклин
+    ml: റോസാലിന്റ് ഫ്രാങ്ക്ലിൻ
+    mr: रोझालिंड फ्रँकलिन
+    ms: Rosalind Franklin
+    mul: Rosalind Franklin
+    mzn: روزالیند فرانکلین
+    nan: Rosalind Franklin
+    nb: Rosalind Franklin
+    ne: रोजालिन् फ्रेन्क्लिन
+    nl: Rosalind Franklin
+    nn: Rosalind Franklin
+    oc: Rosalind Franklin
+    pa: ਰੋਜ਼ਾਲਿੰਡ ਫ੍ਰੈਂਕਲਿਨ
+    pam: Rosalind Franklin
+    pl: Rosalind Franklin
+    ps: روزالينډ فرانکلين
+    pt: Rosalind Franklin
+    pt-br: Rosalind Franklin
+    qu: Rosalind Franklin
+    ro: Rosalind Franklin
+    ru: Розалинд Франклин
+    sa: रोसलिन्द् फ़्रङ्क्लिन्
+    sco: Rosalind Franklin
+    sh: Rozalind Frenklin
+    si: රොසලින්ඩ් ෆ්රෑන්ක්ලීන්
+    sk: Rosalind Elsie Franklin
+    sl: Rosalind Franklin
+    sq: Rosalind Franklin
+    sr: Розалинд Франклин
+    sv: Rosalind Franklin
+    sw: Rosalind Franklin
+    ta: உரோசலிண்டு பிராங்குளின்
+    tcy: ರೋಸಾಲಿಂಡ್ ಎಲ್ಸೀ ಫ್ರಾಂಕ್ಲಿನ್
+    te: రోసలిండ్ ఫ్రాంక్లిన్
+    th: โรซาลินด์ แฟรงคลิน
+    tl: Rosalind Franklin
+    tr: Rosalind Franklin
+    uk: Розалінд Франклін
+    vep: Franklin Rozalind
+    vi: Rosalind Franklin
+    war: Rosalind Franklin
+    wuu: 罗莎琳·富兰克林
+    xmf: როზალინდ ფრანკლინი
+    yue: 羅薩蓮德·富蘭克林
+    zh: 羅莎琳·富蘭克林
 ---
-
 # [[Franklin,Rosalind]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

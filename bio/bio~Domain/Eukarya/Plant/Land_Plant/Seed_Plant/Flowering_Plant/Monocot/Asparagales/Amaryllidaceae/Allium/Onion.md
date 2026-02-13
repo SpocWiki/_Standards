@@ -1,11 +1,390 @@
 ---
 aliases:
-  - Onion
-  - Allium cepa
-  - bulb onion
-  - common onion
-has_id_wikidata: ''
+- Adi soğan
+- Aflilu
+- Albasa
+- Allium cepa
+- andjoen
+- aniani
+- Aniosi
+- Ayomà
+- a̱gurma
+- aẓalim
+- basal
+- bawang
+- bawang bombai
+- bawang bombay
+- bcal
+- bulb onion
+- ceapă
+- Ceba
+- cebera
+- cebola
+- cebolla
+- cebula zwyczajna
+- cepo
+- cepodde
+- cesnak cibuľový
+- chhang-thâu
+- chibudda
+- cibolla
+- cibule kuchyňská
+- cipolla
+- cipudda
+- Civole
+- common onion
+- Crveni luk
+- cwibla
+- Cybličkowacy kobołk
+- cėbolė
+- Cīpe
+- dārza sīpoli
+- Eugnon
+- Gabʋ
+- Gyeene
+- Gɛba
+- Hanyezi
+- harilik sibul
+- hành tây
+- Ibitunguru
+- ingan
+- itswele
+- Iòng-chĕ̤ng
+- juun
+- Järgeline lauk
+- Kaabʊ
+- kili pi selo mute
+- kitunguu
+- lauk
+- Laukur
+- Litungúlu
+- Luk
+- löhkka
+- lök
+- løg
+- lȕk
+- Nionyn
+- ognon
+- Oignon
+- oinniún
+- Onion
+- onioni
+- Onyono
+- Ooj
+- Piyaz
+- Piyoz
+- pîvaz
+- qepa
+- ruokasipuli
+- Sevoya
+- Sevói
+- Sibulyas
+- Sibuyas
+- Sivóla
+- Siwilla
+- Skalot
+- soble
+- soğan
+- Thai-chhûng-thèu
+- tipula
+- Tongolo
+- témítà
+- Uanyanisi
+- Ubuntunguru
+- ui
+- Uinnean
+- Unnish
+- uui
+- valgomasis svogūnas
+- vanlig løk
+- vöröshagyma
+- Wšedna cybula
+- Xaóenêhéstâhévo
+- Xōnacatl
+- zeóła
+- Zonyon
+- Zwiebel
+- Zwiwwel
+- àlùbọ́sà
+- Ënn
+- Öllich
+- čebula
+- Țeapâ
+- κρεμμύδι
+- Бынджын хъæдындз
+- кромид
+- кромид лук
+- Охыра
+- пиёз
+- Пияз
+- репчатый лук
+- рэпчатая цыбуля
+- Сонгино
+- Хох
+- Цибуля
+- цибуля ріпчаста
+- црни лук
+- цыбуля рэпчатая
+- Чурька
+- Һуған
+- գլուխ սոխ
+- בצל הגינה
+- ציבל
+- الەزي
+- بصر
+- بصل
+- سوغان
+- پىياز
+- پياز
+- پیاز
+- گنڈھا
+- گَنڈٕ
+- ފިޔާ
+- कांदा
+- पलाण्डुः
+- पिआउज
+- पियाज
+- प्याज
+- प्याज़
+- পিঁয়াজ
+- পিয়াঁজ
+- ਪਿਆਜ਼
+- ડુંગળી
+- ପିଆଜ
+- வெங்காயம்
+- ఉల్లిపాయ
+- ಈರುಳ್ಳಿ
+- ನಿರೊಳ್ಳಿ
+- ഉള്ളി
+- ලූනු
+- หอมใหญ่
+- ཙོང་རིལ།
+- ကြက်သွန်နီ
+- თალგამისებური ხახვი
+- ሽንኩርት
+- ᥞᥨᥝᥴ ᥚᥐᥴ ᥔᥨᥒᥴ
+- ᱯᱮᱭᱟᱸᱡᱽ
+- タマネギ
+- 洋葱
+- 洋蔥
+- ꯇꯤꯜꯍꯧ
+- 양파
 has_id_wikidata: Q23485
+dv_has_:
+  name_:
+    aeb-arab: بصل
+    aeb-latn: bcal
+    af: Ui
+    ak: Gyeene
+    am: ሽንኩርት
+    an: Allium cepa
+    ang: Cīpe
+    ar: بصل
+    arq: بصل
+    arz: بصل
+    as: পিয়াঁজ
+    ast: Cebolla
+    awa: पियाज
+    ay: Siwilla
+    az: Adi soğan
+    azb: سوغان
+    ba: Һуған
+    ban: Bawang bombai
+    bcl: Sibulyas
+    bdr: Bawang
+    be: цыбуля рэпчатая
+    be-tarask: рэпчатая цыбуля
+    bg: кромид лук
+    bho: पियाज
+    bjn: Bawang Bombay
+    bn: পিঁয়াজ
+    bo: ཙོང་རིལ།
+    br: ognon
+    bs: Crveni luk
+    ca: cebera
+    cdo: Iòng-chĕ̤ng
+    ceb: Allium cepa
+    chy: Xaóenêhéstâhévo
+    ckb: پیاز
+    co: Cipolla
+    cs: cibule kuchyňská
+    cy: Nionyn
+    da: løg
+    de: Allium cepa
+    dsb: Wšedna cybula
+    dv: ފިޔާ
+    el: κρεμμύδι
+    eml: Sivóla
+    en: Allium cepa
+    en-ca: onion
+    en-gb: onion
+    en-us: Allium cepa
+    eo: cepo
+    es: Allium cepa
+    et: harilik sibul
+    eu: tipula
+    ext: Allium cepa
+    fa: پیاز
+    fi: ruokasipuli
+    fmp: Aniosi
+    fon: Ayomà
+    fr: Oignon
+    frr: Skalot
+    fur: Civole
+    ga: oinniún
+    gd: Uinnean
+    gl: cebola
+    glk: پیاز
+    gn: Sevói
+    gsw: Zwiebel
+    gu: ડુંગળી
+    gv: Unnish
+    ha: Albasa
+    hak: Thai-chhûng-thèu
+    he: בצל הגינה
+    hi: प्याज़
+    hr: lȕk
+    hsb: Cybličkowacy kobołk
+    ht: Zonyon
+    hu: vöröshagyma
+    hy: գլուխ սոխ
+    hyw: Գլուխ Սոխ
+    ia: cibolla
+    id: bawang bombai
+    ie: Allium cepa
+    ig: Allium cepa
+    inh: Хох
+    io: Onyono
+    is: Laukur
+    it: cipolla
+    ja: タマネギ
+    jv: bawang bombay
+    ka: თალგამისებური ხახვი
+    kaa: Piyaz
+    kab: Aflilu
+    kbp: Kaabʊ
+    kcg: a̱gurma
+    kge: Bawang Bombai
+    kk: Пияз
+    kn: ಈರುಳ್ಳಿ
+    ko: 양파
+    ks: گَنڈٕ
+    ksh: Öllich
+    ku: pîvaz
+    ku-latn: pîvaz
+    kus: Gabʋ
+    ky: Пияз
+    la: Allium cepa
+    lad: Sevoya
+    lb: Ënn
+    li: Ooj
+    lij: Allium cepa
+    lmo: Allium cepa
+    ln: Litungúlu
+    lt: valgomasis svogūnas
+    lv: dārza sīpoli
+    mai: पिआउज
+    mcn: témítà
+    mg: Tongolo
+    min: Bawang bombai
+    mk: кромид
+    ml: ഉള്ളി
+    mn: Сонгино
+    mni: ꯇꯤꯜꯍꯧ
+    mos: Gɛba
+    mr: कांदा
+    mrj: Охыра
+    ms: bawang
+    mt: basal
+    mul: Allium cepa
+    mwl: cebolla
+    my: ကြက်သွန်နီ
+    myv: Чурька
+    mzn: الەزي
+    nah: Xōnacatl
+    nan: chhang-thâu
+    nb: vanlig løk
+    nds-nl: uui
+    ne: प्याज
+    nl: ui
+    nn: lauk
+    oc: Ceba
+    or: ପିଆଜ
+    os: Бынджын хъæдындз
+    pa: ਪਿਆਜ਼
+    pam: Sibuyas
+    pcd: Eugnon
+    pdc: Zwiwwel
+    pl: cebula zwyczajna
+    pnb: گنڈھا
+    ps: پياز
+    pt: cebola
+    pt-br: Cebola
+    qu: Siwilla
+    rn: Ibitunguru
+    ro: ceapă
+    roa-tara: cepodde
+    rsk: Цибуля
+    ru: репчатый лук
+    rup: Țeapâ
+    rw: Ubuntunguru
+    sa: पलाण्डुः
+    sat: ᱯᱮᱭᱟᱸᱡᱽ
+    sc: chibudda
+    scn: cipudda
+    sco: ingan
+    sd: بصر
+    sgs: cėbolė
+    sh: Luk
+    shi: aẓalim
+    si: ලූනු
+    sje: löhkka
+    sk: cesnak cibuľový
+    sl: čebula
+    sm: aniani
+    so: basal
+    sq: qepa
+    sr: црни лук
+    sr-ec: Црни лук
+    su: bawang bombay
+    sv: lök
+    sw: kitunguu
+    szl: cwibla
+    ta: வெங்காயம்
+    tcy: ನಿರೊಳ್ಳಿ
+    tdd: ᥞᥨᥝᥴ ᥚᥐᥴ ᥔᥨᥒᥴ
+    te: ఉల్లిపాయ
+    tg: пиёз
+    th: หอมใหญ่
+    tl: sibuyas
+    to: onioni
+    tok: kili pi selo mute
+    tr: soğan
+    tum: Hanyezi
+    ug: پىياز
+    ug-latn: piyaz
+    uk: цибуля ріпчаста
+    ur: پیاز
+    uz: Piyoz
+    vec: zeóła
+    vep: Järgeline lauk
+    vi: hành tây
+    vls: andjoen
+    vo: Allium cepa
+    war: sibuyas
+    wo: soble
+    wuu: 洋葱
+    xh: itswele
+    yi: ציבל
+    yo: àlùbọ́sà
+    yue: 洋蔥
+    zea: juun
+    zh: 洋蔥
+    zh-cn: 洋葱
+    zh-hans: 洋蔥
+    zh-hant: 洋蔥
+    zh-tw: 洋蔥
+    zu: Uanyanisi
 ---
 # [[Onion]] 
 

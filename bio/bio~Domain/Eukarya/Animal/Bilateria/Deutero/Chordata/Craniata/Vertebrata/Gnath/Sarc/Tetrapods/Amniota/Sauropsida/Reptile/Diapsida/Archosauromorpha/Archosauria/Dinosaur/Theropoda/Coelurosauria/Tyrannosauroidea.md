@@ -1,36 +1,80 @@
 ---
 aliases:
-  - Tyrannosauroidea
-  - Тираннозавр
-  - Тиранозавр
-  - Тиранозавър
-  - Tiranosaor
-  - Tiranosaure
-  - टायरानोसौरस
-  - Tiranosaur
-  - Tiranozauras
-  - Tiranozauri
-  - Tyranozaur
-  - Tiranossauro
-  - Tiranuozaurs
-  - טירנוזאוריים
-  - ንጉሥ አምባገነን እንሽላሊት
-  - تيرانوصور
-  - Тѷранносаѵръ
-  - Τυραννόσαυρος
-  - Tiranosaŭro
-  - Tiranosaurio
-  - Tyrannilisko
-  - Tyrannosaure
-  - Gramedla
-  - ティラノサウルス属
-  - 티라노사우루스 렉스
-  - റ്റിറാനോസാറസ് റക്സ്
-  - tiranozaver
-  - Тираносаурус
-  - ไทรันโนซอรัส เร็กซ์
-  - 暴龍
-  - 暴龍屬
+- akesi Silanosalu
+- Gramedla
+- Grameðla
+- khủng long bạo chúa
+- Pà-ông-liông
+- Tirannozavr
+- Tirannusauru
+- Tiranosaor
+- Tiranosaur
+- Tiranosaure
+- Tiranosaurio
+- tiranosauro
+- tiranosauru
+- Tiranosaurus
+- Tiranosaŭro
+- Tiranossauro
+- tiranosàuro
+- Tiranozauras
+- Tiranozauri
+- tiranozaurs
+- tiranozaver
+- Tiranozôre
+- Tiranuozaurs
+- Tyrannilisko
+- Tyrannosaure
+- Tyrannosauroidea
+- Tyrannosaurus
+- Tyranosaurus
+- Tyranosor
+- Tyranozaur
+- Tyranozawr
+- Türannosaurus
+- Τυραννόσαυρος
+- диплокод
+- Тіранозавр
+- Тираннозавр
+- Тираннозаврлар
+- Тиранозавр
+- тиранозаври
+- Тиранозавър
+- Тираносаурус
+- Тыраназаўр
+- Тѷранносаѵръ
+- տիրանոզավր
+- טירנוזאורוס רקס
+- טירנוזאוריים
+- تيرانوسور
+- تيرانوصور
+- تیراناسور
+- تیرانوسورس
+- ٹائرینوسارس
+- ٹَیرینوسورَس
+- टायरानोसौरस
+- टायरॅनॉसॉरस
+- টাইরানোসরাস
+- টাইৰানোছৰাছ
+- டைரனொசோரசு
+- టైరనోసారస్
+- റ്റിറാനോസാറസ് റക്സ്
+- റ്റിറാനോസോറസ് റെക്സ്
+- ไทรันโนซอรัส เร็กซ์
+- ไทแรนโนซอรัส
+- တီရန်နိုဆောရတ်
+- ტირანოზავრი
+- ንጉሥ አምባገነን እንሽላሊት
+- ᎤᏁᎫᏫᏳᎯ
+- ティラノサウルス
+- ティラノサウルス属
+- 暴龍
+- 暴龍屬
+- 暴龙属
+- 霸王龙属
+- ꯇꯥꯢꯔꯥꯅꯣꯁꯧꯔꯁ
+- 티라노사우루스
+- 티라노사우루스 렉스
 has_id_wikidata: Q14332
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20rex%20skeleton.stl
 Commons_category: Tyrannosaurus
@@ -38,58 +82,177 @@ Commons_gallery: Tyrannosaurus
 end_time: -66000000-01-01
 height: 3.6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20the%20Trex%20at%20Manchester%20Museum.jpg
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 IPA_transcription: taɪˈɹænəˈsoɹəs
 length: 12
-location_of_discovery: "[[_Standards/WikiData/WD~Canada,16]]"
-main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Canada,16]]'
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]'
 size_comparison_diagram:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Australian%20Museum%20magazine%20%281921%29%20%2820162978058%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20specimens.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20Sue%20scale.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/The%20Australian%20Museum%20magazine%20%281921%29%20%2820162978058%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20specimens.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20Sue%20scale.png
 start_time: -68000000-01-01
 taxon_common_name:
-  - Тираннозавр
-  - Тиранозавр
-  - Тиранозавър
-  - Tiranosaor
-  - Tiranosaure
-  - टायरानोसौरस
-  - Tiranosaur
-  - Tiranozauras
-  - Tiranozauri
-  - Тиранозавр
-  - Tyranozaur
-  - Tiranossauro
-  - Tiranuozaurs
-  - טירנוזאוריים
-  - ንጉሥ አምባገነን እንሽላሊት
-  - تيرانوصور
-  - Тѷранносаѵръ
-  - Τυραννόσαυρος
-  - Tiranosaŭro
-  - Tiranosaurio
-  - Tyrannilisko
-  - Tyrannosaure
-  - Gramedla
-  - ティラノサウルス属
-  - 티라노사우루스 렉스
-  - റ്റിറാനോസാറസ് റക്സ്
-  - tiranozaver
-  - Тираносаурус
-  - ไทรันโนซอรัส เร็กซ์
-  - 暴龍
-  - 暴龍屬
+- Тираннозавр
+- Тиранозавр
+- Тиранозавър
+- Tiranosaor
+- Tiranosaure
+- टायरानोसौरस
+- Tiranosaur
+- Tiranozauras
+- Tiranozauri
+- Тиранозавр
+- Tyranozaur
+- Tiranossauro
+- Tiranuozaurs
+- טירנוזאוריים
+- ንጉሥ አምባገነን እንሽላሊት
+- تيرانوصور
+- Тѷранносаѵръ
+- Τυραννόσαυρος
+- Tiranosaŭro
+- Tiranosaurio
+- Tyrannilisko
+- Tyrannosaure
+- Gramedla
+- ティラノサウルス属
+- 티라노사우루스 렉스
+- റ്റിറാനോസാറസ് റക്സ്
+- tiranozaver
+- Тираносаурус
+- ไทรันโนซอรัส เร็กซ์
+- 暴龍
+- 暴龍屬
 taxon_name: Tyrannosaurus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/T.%20rex%20Distribution%20PBDB.png
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 title: Tyrannosauroidea
 UMLS_CUI: C1910436
-Unicode_character: 🦖
+Unicode_character: "\U0001F996"
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Tyrannosaurus"]
+dv_has_:
+  name_:
+    af: Tyrannosaurus
+    an: Tyrannosaurus
+    ar: تيرانوصور
+    as: টাইৰানোছৰাছ
+    ast: Tyrannosaurus
+    az: tirannozavr
+    azb: تیراناسور
+    ba: диплокод
+    ban: Tiranosaurus
+    be: Тыраназаўр
+    be-tarask: тыраназаўр
+    bg: тиранозаври
+    bn: টাইরানোসরাস
+    br: tiranosaor
+    bs: Tyrannosaurus
+    ca: tiranosaure
+    ceb: Tyrannosaurus
+    chr: ᎤᏁᎫᏫᏳᎯ
+    cs: Tyrannosaurus
+    cu: Тѷранносаѵръ
+    cv: Тираннозавр
+    cy: Tyranosor
+    da: Tyrannosaurus
+    de: Tyrannosaurus
+    el: Τυραννόσαυρος
+    en: Tyrannosaurus
+    en-ca: Tyrannosaurus
+    en-gb: Tyrannosaurus
+    en-us: Tyrannosaurus
+    eo: tiranosaŭro
+    es: Tyrannosaurus
+    et: Türannosaurus
+    eu: Tyrannosaurus
+    fa: تیرانوسورس
+    fi: Tyrannosaurus
+    fo: Tyrannosaurus
+    fr: Tyrannosaurus
+    fy: Tyrannosaurus
+    ga: Tyrannosaurus
+    gd: Tyrannosaurus
+    gl: tiranosauro
+    haw: tiranosauru
+    he: טירנוזאורוס רקס
+    hi: टायरानोसौरस
+    hr: tiranosaur
+    hu: Tyrannosaurus
+    hy: տիրանոզավր
+    ia: Tyrannosaurus
+    id: Tyrannosaurus
+    ilo: Tyrannosaurus
+    io: Tyrannosaurus
+    is: Grameðla
+    it: Tyrannosaurus
+    ja: ティラノサウルス
+    jv: Tyrannosaurus
+    ka: ტირანოზავრი
+    kk: Тиранозавр
+    ko: 티라노사우루스
+    ks: ٹَیرینوسورَس
+    ky: Тираннозаврлар
+    la: Tyrannosaurus
+    lb: Tyrannosaurus
+    lt: tiranozauras
+    lv: tiranozaurs
+    mk: Тираносаурус
+    ml: റ്റിറാനോസോറസ് റെക്സ്
+    mn: Тираннозавр
+    mni: ꯇꯥꯢꯔꯥꯅꯣꯁꯧꯔꯁ
+    mr: टायरॅनॉसॉरस
+    ms: Tyrannosaurus
+    mul: Tyrannosaurus
+    my: တီရန်နိုဆောရတ်
+    nan: Pà-ông-liông
+    nb: Tyrannosaurus
+    nl: Tyrannosaurus
+    nn: Tyrannosaurus
+    oc: Tyrannosaurus
+    or: Tyrannosaurus
+    os: Тираннозавр
+    pl: tyranozaur
+    pnb: ٹائرینوسارس
+    ps: تيرانوسور
+    pt: tiranossauro
+    pt-br: tiranossauro
+    ro: Tyrannosaurus
+    ru: Тираннозавр
+    rue: Тіранозавр
+    scn: Tirannusauru
+    sco: Tyrannosaurus
+    sgs: tiranuozaurs
+    sh: tiranosaur
+    sk: Tyranosaurus
+    sl: tiranozaver
+    sq: Tyrannosaurus
+    sr: тираносаурус
+    sv: Tyrannosaurus
+    ta: டைரனொசோரசு
+    te: టైరనోసారస్
+    th: ไทแรนโนซอรัส
+    tk: Tyranozawr
+    tl: Tyrannosaurus
+    tok: akesi Silanosalu
+    tr: Tyrannosaurus
+    tt: Тираннозавр
+    uk: Тиранозавр
+    uz: Tirannozavr
+    vec: tiranosàuro
+    vi: khủng long bạo chúa
+    vo: Tyrannosaurus
+    wa: Tiranozôre
+    war: Tyrannosaurus
+    wuu: 霸王龙属
+    yue: 暴龍
+    zh: 暴龙属
+    zh-cn: 暴龙属
+    zh-hans: 暴龙属
+    zh-hant: 暴龍屬
+    zh-tw: 暴龍屬
 ---
-
 # [[Tyrannosauroidea]] 🦖 
 
 ![[Tyrannosauroid.jpg]]

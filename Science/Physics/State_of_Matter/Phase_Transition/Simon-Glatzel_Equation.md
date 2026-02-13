@@ -1,8 +1,17 @@
 ---
 aliases:
+- Ecuación de Simon-Glatzel
+- Simon–Glatzel equation
+- Simon–Glatzel方程
+- Équation de Simon
 has_id_wikidata: Q7520530
+dv_has_:
+  name_:
+    en: Simon–Glatzel equation
+    es: Ecuación de Simon-Glatzel
+    fr: Équation de Simon
+    zh: Simon–Glatzel方程
 ---
-
 # [[Simon-Glatzel_Equation]] 
 
 #is_/same_as :: [[WD~Simon-Glatzel_Equation,7520530]] 

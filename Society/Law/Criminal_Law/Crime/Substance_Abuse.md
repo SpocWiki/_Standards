@@ -1,57 +1,180 @@
 ---
 aliases:
+- abus de substances
+- abuso de substancias
+- abuso de substâncias
+- abuso de sustancias
+- abuso di sostanze
+- abusu de sustancies
+- abús de substàncies
+- ainete kuritarvitamine
+- atkarības vielu lietošana
+- cam-drin sylweddau
+- droga misuzado
+- Drogenmissbrauch
+- erabilera kaltegarri
+- həddindən artıq dozada dərman
+- kábítószerrel való visszaélés
+- lääkkeiden väärinkäyttö
+- lạm dụng chất
+- Maandoorqamaxi
+- madde bağımlılığı
+- middelmisbruik
+- mí-úsáid substaintí
+- nadużywanie substancji
+- penyalahgunaan bahan
+- penyalahgunaan narkoba
+- skadeleg bruk av rusmiddel
+- skadelig bruk av rusmidler
+- stofmisbrug
+- substance abuse
+- substansmissbruk
+- substantiemisbruik
+- Ukuhlukunyezwa kwesiyobisi
+- zloraba substanc
+- zloupotreba droga
+- zloupotreba psihoaktivnih supstanci
+- zneužívání návykových látek
+- κατάχρηση ουσιών
+- злоўжываньне рэчывамі
+- зловживання речовинами
+- злоупотреба дрога
+- злоупотреба на дроги
+- злоупотребление веществом
+- Դեղերու Չարաշահում
+- Թմրամիջոցների չարաշահում
+- שימוש לרעה בסמים
+- تعاطي المخدرات
+- سوء مصرف مواد
+- منشیات کا استحصال
+- औषधाचा गैरवापर (नशेचे पदार्थ)
+- नशीली दवा का सेवन
+- মাদকের অপব্যবহার
+- போதைப்பொருள்
+- ද්රව්ය අපයෝජනය
+- လဗင် ကေုာံ ထၞေန်
+- 物質濫用
+- 药物滥用
+- 薬物乱用
+- 藥物濫用
+- 약물 남용
 has_id_wikidata: Q3184856
 subclass_of:
-  - "[[_Standards/WikiData/WD~crime,83267]]"
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~human_activity,61788060]]"
-  - "[[_Standards/WikiData/WD~psychoactive_drug_use,110207349]]"
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~human_activity,61788060]]'
+- '[[_Standards/WikiData/WD~psychoactive_drug_use,110207349]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~diazepam,210402]]"
-  - "[[_Standards/WikiData/WD~zolpidem,218842]]"
-  - "[[../../../../WikiData/WD~(RS)_ketamine,243547]]"
-  - "[[_Standards/WikiData/WD~hydromorphone,303646]]"
-  - "[[_Standards/WikiData/WD~alprazolam,319877]]"
-  - "[[_Standards/WikiData/WD~oxycodone,407535]]"
-  - "[[_Standards/WikiData/WD~fentanyl,407541]]"
-  - "[[_Standards/WikiData/WD~buprenorphine,407721]]"
-  - "[[_Standards/WikiData/WD~lorazepam,408265]]"
-  - "[[_Standards/WikiData/WD~quetiapine,408535]]"
-  - "[[_Standards/WikiData/WD~naltrexone,409587]]"
-  - "[[_Standards/WikiData/WD~(RS)_citalopram,409672]]"
-  - "[[_Standards/WikiData/WD~gabapentin,410352]]"
-  - "[[_Standards/WikiData/WD~mirtazapine,421930]]"
-  - "[[_Standards/WikiData/WD~loperamide,423751]]"
-  - "[[_Standards/WikiData/WD~escitalopram,423757]]"
-  - "[[_Standards/WikiData/WD~nitrous_oxide,905750]]"
-  - "[[_Standards/WikiData/WD~Panadol_Indonesia,4120713]]"
-  - "[[_Standards/WikiData/WD~buprenorphine_naloxone,25048068]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q1460331,1460331]]"
+- '[[_Standards/WikiData/WD~diazepam,210402]]'
+- '[[_Standards/WikiData/WD~zolpidem,218842]]'
+- '[[../../../../WikiData/WD~(RS)_ketamine,243547]]'
+- '[[_Standards/WikiData/WD~hydromorphone,303646]]'
+- '[[_Standards/WikiData/WD~alprazolam,319877]]'
+- '[[_Standards/WikiData/WD~oxycodone,407535]]'
+- '[[_Standards/WikiData/WD~fentanyl,407541]]'
+- '[[_Standards/WikiData/WD~buprenorphine,407721]]'
+- '[[_Standards/WikiData/WD~lorazepam,408265]]'
+- '[[_Standards/WikiData/WD~quetiapine,408535]]'
+- '[[_Standards/WikiData/WD~naltrexone,409587]]'
+- '[[_Standards/WikiData/WD~(RS)_citalopram,409672]]'
+- '[[_Standards/WikiData/WD~gabapentin,410352]]'
+- '[[_Standards/WikiData/WD~mirtazapine,421930]]'
+- '[[_Standards/WikiData/WD~loperamide,423751]]'
+- '[[_Standards/WikiData/WD~escitalopram,423757]]'
+- '[[_Standards/WikiData/WD~nitrous_oxide,905750]]'
+- '[[_Standards/WikiData/WD~Panadol_Indonesia,4120713]]'
+- '[[_Standards/WikiData/WD~buprenorphine_naloxone,25048068]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1460331,1460331]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~health_problem,2057971]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- '[[_Standards/WikiData/WD~health_problem,2057971]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~narcology,4313186]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~substance_abuse_prevention,7632064]]"
-has_cause: "[[_Standards/WikiData/WD~substance_use_disorder,7632070]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_3.5_of_the_Sustainable_Development_Goals,57590760]]"
-IAB_code: "311"
-DiseasesDB: "3961"
+- '[[_Standards/WikiData/WD~narcology,4313186]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~substance_abuse_prevention,7632064]]'
+has_cause: '[[_Standards/WikiData/WD~substance_use_disorder,7632070]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_3.5_of_the_Sustainable_Development_Goals,57590760]]'
+IAB_code: 311
+DiseasesDB: 3961
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heroin%20paraphernalia.jpg
 Commons_category: Substance abuse
-ICD_9_CM: "305.90"
+ICD_9_CM: 305.90
 exact_match:
-  - http://identifiers.org/doid/DOID:302
-  - http://purl.obolibrary.org/obo/DOID_302
+- http://identifiers.org/doid/DOID:302
+- http://purl.obolibrary.org/obo/DOID_302
 U_S_National_Archives_Identifier:
-  - "10640805"
-  - "10641027"
+- 10640805
+- 10641027
 UMLS_CUI: C0013146
 Archive_of_Our_Own_tag: Substance Abuse
+dv_has_:
+  name_:
+    af: middelmisbruik
+    ar: تعاطي المخدرات
+    ast: abusu de sustancies
+    az: həddindən artıq dozada dərman
+    be-tarask: злоўжываньне рэчывамі
+    bn: মাদকের অপব্যবহার
+    ca: abús de substàncies
+    cs: zneužívání návykových látek
+    cy: cam-drin sylweddau
+    da: stofmisbrug
+    de: Drogenmissbrauch
+    el: κατάχρηση ουσιών
+    en: substance abuse
+    en-ca: substance abuse
+    en-gb: substance abuse
+    eo: droga misuzado
+    es: abuso de sustancias
+    et: ainete kuritarvitamine
+    eu: erabilera kaltegarri
+    fa: سوء مصرف مواد
+    fi: lääkkeiden väärinkäyttö
+    fr: abus de substances
+    ga: mí-úsáid substaintí
+    gl: abuso de substancias
+    gpe: substance abuse
+    he: שימוש לרעה בסמים
+    hi: नशीली दवा का सेवन
+    hr: zloupotreba psihoaktivnih supstanci
+    hu: kábítószerrel való visszaélés
+    hy: Թմրամիջոցների չարաշահում
+    hyw: Դեղերու Չարաշահում
+    id: penyalahgunaan narkoba
+    it: abuso di sostanze
+    ja: 薬物乱用
+    ko: 약물 남용
+    lv: atkarības vielu lietošana
+    mk: злоупотреба на дроги
+    mnw: လဗင် ကေုာံ ထၞေန်
+    mr: औषधाचा गैरवापर (नशेचे पदार्थ)
+    ms: penyalahgunaan bahan
+    nb: skadelig bruk av rusmidler
+    nl: substantiemisbruik
+    nn: skadeleg bruk av rusmiddel
+    pl: nadużywanie substancji
+    pt: abuso de substâncias
+    ru: злоупотребление веществом
+    sh: zloupotreba droga
+    si: ද්රව්ය අපයෝජනය
+    sl: zloraba substanc
+    so: Maandoorqamaxi
+    sr: злоупотреба дрога
+    sv: substansmissbruk
+    ta: போதைப்பொருள்
+    tl: Substance abuse
+    tr: madde bağımlılığı
+    uk: зловживання речовинами
+    ur: منشیات کا استحصال
+    vi: lạm dụng chất
+    xh: Ukuhlukunyezwa kwesiyobisi
+    yue: 物質濫用
+    zh: 藥物濫用
+    zh-cn: 药物滥用
+    zh-hant: 物質濫用
+    zh-tw: 物質濫用
 ---
-
 # [[Substance_Abuse]] 
 
 #is_/similar_to :: [[../../../../bio/Psychology/Mental_Disorder/Substance_Dependence|Substance_Dependence]]  

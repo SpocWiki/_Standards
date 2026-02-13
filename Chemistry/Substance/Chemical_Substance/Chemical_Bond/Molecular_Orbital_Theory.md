@@ -1,33 +1,119 @@
 ---
 aliases:
-  - molecular orbital theory
-  - Molecular_Orbital_Theory
-  - Molecular Orbital Theory
+- metoda orbitalilor moleculari
+- molecular orbital theory
+- Molecular_Orbital_Theory
+- Molecuulorbitaaltheorie
+- molekula orbita teorio
+- Molekulaarorbitaalide teooria
+- Molekularna orbitalna teorija
+- Molekulyar orbitallar nəzəriyyəsi
+- Molekylær orbitalteori
+- Molekyyliorbitaaliteoria
+- Moleküler orbital kuramı
+- Molekülorbitaltheorie
+- Orbital Molekularren Teoria
+- teoiric na bhfithiseán móilíneach
+- Teori orbital molekul
+- teoria degli orbitali molecolari
+- teoria dels orbitals moleculars
+- teoria dos orbitais moleculares
+- teoria orbitali molekularnych
+- Teoría de los orbitales moleculares
+- Théorie de l'orbitale moléculaire
+- Θεωρία των μοριακών τροχιακών
+- Метод молекулярних орбіталей
+- Метод на молекулните орбитали
+- Молекулалық орбитальдар теориясы
+- теорија за молекулските орбитали
+- Теория молекулярных орбиталей
+- тэорыя малекулярных арбіталяў
+- Մոլեկուլային օրբիտալների տեսություն
+- תאוריית האורביטלים המולקולריים
+- تئوری اوربیتال مولکولی
+- نظرية مدار جزيئ
+- आण्विक कक्षक सिद्धान्त
+- আণবিক কাক্ষিক তত্ত্ব
+- തന്മാത്രാ ഓർബിറ്റൽ സിദ്ധാന്തം
+- ทฤษฎีออร์บิทัลเชิงโมเลกุล
+- 分子軌道法
+- 分子軌道理論
+- 分子轨道理论
+- 분자궤도함수 이론
 has_id_wikidata: Q898432
-is_the_study_of: "[[_Standards/WikiData/WD~molecular_orbital,725417]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]"
+is_the_study_of: '[[_Standards/WikiData/WD~molecular_orbital,725417]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]'
 Commons_category: Molecular orbitals
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]"
+  - '[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]"
+- '[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]'
+dv_has_:
+  name_:
+    ar: نظرية مدار جزيئ
+    ast: Teoría de los orbitales moleculares
+    az: Molekulyar orbitallar nəzəriyyəsi
+    be-tarask: тэорыя малекулярных арбіталяў
+    bg: Метод на молекулните орбитали
+    bn: আণবিক কাক্ষিক তত্ত্ব
+    ca: teoria dels orbitals moleculars
+    da: Molekylær orbitalteori
+    de: Molekülorbitaltheorie
+    el: Θεωρία των μοριακών τροχιακών
+    en: molecular orbital theory
+    en-gb: Molecular orbital theory
+    eo: molekula orbita teorio
+    es: teoría de los orbitales moleculares
+    et: Molekulaarorbitaalide teooria
+    eu: Orbital Molekularren Teoria
+    fa: تئوری اوربیتال مولکولی
+    fi: Molekyyliorbitaaliteoria
+    fr: Théorie de l'orbitale moléculaire
+    ga: teoiric na bhfithiseán móilíneach
+    he: תאוריית האורביטלים המולקולריים
+    hi: आण्विक कक्षक सिद्धान्त
+    hy: Մոլեկուլային օրբիտալների տեսություն
+    id: Teori orbital molekul
+    it: teoria degli orbitali molecolari
+    ja: 分子軌道法
+    kk: Молекулалық орбитальдар теориясы
+    ko: 분자궤도함수 이론
+    mk: теорија за молекулските орбитали
+    ml: തന്മാത്രാ ഓർബിറ്റൽ സിദ്ധാന്തം
+    ms: Teori orbital molekul
+    nb: Molekylær orbitalteori
+    nl: Molecuulorbitaaltheorie
+    pl: teoria orbitali molekularnych
+    pt: teoria dos orbitais moleculares
+    ro: metoda orbitalilor moleculari
+    ru: Теория молекулярных орбиталей
+    sh: Molekularna orbitalna teorija
+    sl: Molekularna orbitalna teorija
+    sr: Molekularna orbitalna teorija
+    th: ทฤษฎีออร์บิทัลเชิงโมเลกุล
+    tr: Moleküler orbital kuramı
+    uk: Метод молекулярних орбіталей
+    wuu: 分子轨道理论
+    zh: 分子轨道理论
+    zh-hans: 分子轨道理论
+    zh-hant: 分子軌道理論
+    zh-hk: 分子軌道理論
 ---
-
 # [[Molecular_Orbital_Theory]] 
 
 #is_/same_as :: [[WD~Molecular_orbital_theory,898432]] 

@@ -1,9 +1,126 @@
 ---
 aliases:
-  - Brian Russell De Palma
-  - Palma,Brian_De
-  - Palma,Brian De
+- Braiens De Palma
+- Brajan de Palma
+- Brayan De Palma
+- Brian De Palma
+- Brian Russell De Palma
+- Brianus de Palma
+- Palma,Brian De
+- Palma,Brian_De
+- Μπράιαν Ντε Πάλμα
+- Брајан де Палма
+- Брайан Де Пальма
+- Брайън Де Палма
+- Браян Де Пальма
+- Браян Дэ Пальма
+- Բրայան դե Պալմա
+- בריאן דה פלמה
+- برائن ڈی پالما
+- براين دى بالما
+- براين دي بالما
+- برایان دی پالما
+- ब्रायन का पाल्मा
+- ਬ੍ਰਾਇਨ ਦੇ ਪਾਲਮਾ
+- బ్రియాన్ డి పాల్మా
+- ไบรอัน เดอ ปาลมา
+- ბრაიან დე პალმა
+- ブライアン・デ・パルマ
+- 布莱恩·狄帕玛
+- 布萊恩·狄帕瑪
+- 布赖恩·德帕尔马
+- 布赖恩·拉塞尔·德·帕尔马
+- 白賴仁·狄龐馬
+- 白賴仁狄龐馬
+- 브라이언 드 팔마
 has_id_wikidata: Q189526
+dv_has_:
+  name_:
+    acm: براين دي بالما
+    ar: براين دي بالما
+    arz: براين دى بالما
+    ast: Brian De Palma
+    az: Brayan De Palma
+    be: Браян Дэ Пальма
+    be-tarask: Браян Дэ Пальма
+    bg: Брайън Де Палма
+    br: Brian De Palma
+    bs: Brian de Palma
+    ca: Brian De Palma
+    co: Brian De Palma
+    cs: Brian De Palma
+    cy: Brian De Palma
+    da: Brian De Palma
+    de: Brian De Palma
+    el: Μπράιαν Ντε Πάλμα
+    eml: Brian De Palma
+    en: Brian De Palma
+    en-ca: Brian De Palma
+    en-gb: Brian De Palma
+    eo: Brian De Palma
+    es: Brian De Palma
+    eu: Brian De Palma
+    fa: برایان دی پالما
+    fi: Brian De Palma
+    fr: Brian De Palma
+    ga: Brian De Palma
+    gl: Brian De Palma
+    he: בריאן דה פלמה
+    hi: ब्रायन का पाल्मा
+    hu: Brian De Palma
+    hy: Բրայան դե Պալմա
+    id: Brian De Palma
+    io: Brian de Palma
+    it: Brian De Palma
+    ja: ブライアン・デ・パルマ
+    ka: ბრაიან დე პალმა
+    kab: Brian De Palma
+    kk: Брайан Де Пальма
+    ko: 브라이언 드 팔마
+    la: Brianus de Palma
+    lb: Brian De Palma
+    lt: Brian De Palma
+    lv: Braiens De Palma
+    mg: Brian De Palma
+    mk: Брајан де Палма
+    mn: Брайан Де Пальма
+    mul: Brian De Palma
+    nb: Brian De Palma
+    nl: Brian De Palma
+    nn: Brian De Palma
+    pa: ਬ੍ਰਾਇਨ ਦੇ ਪਾਲਮਾ
+    pap: Brian De Palma
+    pl: Brian De Palma
+    pt: Brian De Palma
+    pt-br: Brian De Palma
+    qu: Brian De Palma
+    ro: Brian De Palma
+    ru: Брайан Де Пальма
+    sco: Brian De Palma
+    sh: Brian de Palma
+    sk: Brian De Palma
+    sl: Brian De Palma
+    sq: Brian De Palma
+    sr: Брајан де Палма
+    sr-ec: Брајан де Палма
+    sr-el: Brajan de Palma
+    sv: Brian De Palma
+    te: బ్రియాన్ డి పాల్మా
+    th: ไบรอัน เดอ ปาลมา
+    tr: Brian De Palma
+    uk: Браян Де Пальма
+    ur: برائن ڈی پالما
+    war: Brian De Palma
+    wuu: 布赖恩·拉塞尔·德·帕尔马
+    xmf: ბრაიან დე პალმა
+    yue: 白賴仁狄龐馬
+    zh: 布赖恩·德帕尔马
+    zh-cn: 布赖恩·拉塞尔·德·帕尔马
+    zh-hans: 布赖恩·德帕尔马
+    zh-hant: 布萊恩·狄帕瑪
+    zh-hk: 白賴仁·狄龐馬
+    zh-sg: 布莱恩·狄帕玛
+    zh-tw: 布萊恩·狄帕瑪
 ---
 #has_/time_/started :: 1940-09-11
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

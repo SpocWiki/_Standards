@@ -1,21 +1,131 @@
 ---
 aliases:
+- gaiméitifít
+- Gametofiet
+- Gametofit
+- Gametofitas
+- gametofito
+- gametofiton
+- gametofyt
+- gametofytt
+- gametofyytti
+- Gametofït
+- gametofüüt
+- Gametofīts
+- Gametophyt
+- gametophyte
+- gametòfit
+- Gametófito
+- Gametôfita
+- gamétophyte
+- Kynliður
+- thể giao tử
+- гаметофіт
+- гаметофит
+- гамэтафіт
+- Գամետոֆիտ
+- גמטופיט
+- نابتة عرسية
+- گامتوفیت
+- گامەتوفىيت
+- গ্যামেটোফাইট
+- გამეტოფიტი
+- 配偶体
+- 配子体
+- 配子體
+- 배우체
 has_id_wikidata: Q189951
 part_of:
-  - "[[_Standards/WikiData/WD~biological_life_cycle,513359]]"
-  - "[[_Standards/WikiData/WD~gametophyte_development,22298593]]"
-opposite_of: "[[_Standards/WikiData/WD~sporophyte,647173]]"
+- '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
+- '[[_Standards/WikiData/WD~gametophyte_development,22298593]]'
+opposite_of: '[[_Standards/WikiData/WD~sporophyte,647173]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~alternation_of_generations,725951]]"
-  - "[[_Standards/WikiData/WD~multicellular_organism,36458]]"
-different_from: "[[_Standards/WikiData/WD~gametocyte,3319949]]"
-has_characteristic: "[[_Standards/WikiData/WD~haploidy,3620638]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~multicellular_organism,36458]]"
+- '[[_Standards/WikiData/WD~alternation_of_generations,725951]]'
+- '[[_Standards/WikiData/WD~multicellular_organism,36458]]'
+different_from: '[[_Standards/WikiData/WD~gametocyte,3319949]]'
+has_characteristic: '[[_Standards/WikiData/WD~haploidy,3620638]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~multicellular_organism,36458]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20generations%20simpler.svg
 Commons_category: Gametophytes
+dv_has_:
+  name_:
+    af: Gametofiet
+    ar: نابتة عرسية
+    ast: Gametófito
+    be-tarask: гамэтафіт
+    bg: Гаметофит
+    bn: গ্যামেটোফাইট
+    bs: Gametofit
+    ca: gametòfit
+    cs: gametofyt
+    da: Gametofyt
+    de: Gametophyt
+    en: gametophyte
+    en-ca: Gametophyte
+    en-gb: Gametophyte
+    eo: gametofito
+    es: gametofito
+    et: gametofüüt
+    eu: Gametofito
+    fa: گامتوفیت
+    fi: gametofyytti
+    fr: gamétophyte
+    ga: gaiméitifít
+    gl: gametófito
+    gsw: Gametophyt
+    he: גמטופיט
+    hr: gametofit
+    hu: gametofiton
+    hy: Գամետոֆիտ
+    id: Gametofit
+    io: Gametofito
+    is: Kynliður
+    it: gametofito
+    ja: 配偶体
+    jv: Gametofit
+    ka: გამეტოფიტი
+    kk: Гаметофит
+    kk-arab: گامەتوفىيت
+    kk-cn: گامەتوفىيت
+    kk-cyrl: Гаметофит
+    kk-kz: Гаметофит
+    kk-latn: Gametofït
+    kk-tr: Gametofït
+    ko: 배우체
+    ky: Гаметофит
+    lt: Gametofitas
+    lv: Gametofīts
+    mg: Gametôfita
+    ms: Gametofit
+    nb: gametofytt
+    nl: gametofyt
+    nn: gametofytt
+    oc: Gametofit
+    pl: gametofit
+    pt: gametófito
+    pt-br: Gametófito
+    ru: гаметофит
+    sh: Gametofit
+    sk: gametofyt
+    sl: gametofit
+    sms: gametofytt
+    sr: гаметофит
+    sv: gametofyt
+    tg: Гаметофит
+    tr: Gametofit
+    uk: гаметофіт
+    vi: thể giao tử
+    wuu: 配子体
+    yue: 配子體
+    zh: 配子體
+    zh-cn: 配子体
+    zh-hans: 配子体
+    zh-hant: 配子體
+    zh-hk: 配子體
+    zh-sg: 配子体
+    zh-tw: 配子體
 ---
-
 # [[Gametophyte]] 
 
 #has_/complement :: [[Sporophyte]] 

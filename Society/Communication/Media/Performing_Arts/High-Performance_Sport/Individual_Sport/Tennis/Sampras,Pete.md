@@ -1,29 +1,53 @@
 ---
 aliases:
-  - Pete_Sampras
-  - Pete Sampras
-  - Sampras
-  - Sampras,Pete
+- Pete Sampras
+- Pete_Sampras
+- Petrus Sampras
+- Pīts Samprass
+- Sampras
+- Sampras,Pete
+- Πιτ Σάμπρας
+- Піт Сампрас
+- Пийт Сампрас
+- Пит Сампрас
+- Փիթ Սամփրաս
+- פיט סמפראס
+- بيت سامبراس
+- پیت سمپراس
+- पीट सॅम्प्रास
+- पीट सेमप्रास
+- পিট সাম্প্রাস
+- ਪੀਟ ਸੈਮਪਰਾਸ
+- பீட் சாம்ப்ரஸ்
+- പീറ്റ് സാംപ്രസ്
+- පීට් සැම්ප්රාස්
+- พีต แซมพราส
+- პიტ სამპრასი
+- ピート・サンプラス
+- 森柏斯
+- 皮特·桑普拉斯
+- 皮特·森柏斯
+- 피트 샘프러스
 has_id_wikidata: Q9446
 residence: '[[_Standards/WikiData/WD~Bel_Air,86768]]'
 spouse: '[[_Standards/WikiData/WD~Bridgette_Wilson,238432]]'
 sibling: '[[_Standards/WikiData/WD~Stella_Sampras,2342173]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
-  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
-  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+- '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+- '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
 member_of_political_party: '[[_Standards/WikiData/WD~California_Republican_Party,5020915]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
 educated_at: '[[_Standards/WikiData/WD~Palos_Verdes_High_School,14683607]]'
 given_name: '[[_Standards/WikiData/WD~Q16269170,16269170]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 child:
-  - '[[_Standards/WikiData/WD~Ryan_Sampras,22566823]]'
-  - '[[_Standards/WikiData/WD~Christian_Sampras,22566821]]'
+- '[[_Standards/WikiData/WD~Ryan_Sampras,22566823]]'
+- '[[_Standards/WikiData/WD~Christian_Sampras,22566821]]'
 family_name: '[[_Standards/WikiData/WD~Sampras,94041862]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -32,8 +56,8 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_birth: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 ranking:
-  - 1
-  - 27
+- 1
+- 27
 mass: 80
 height: 185
 award_received: '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
@@ -50,8 +74,106 @@ Plex_person_key: 5d776a6396b655001fded883
 doubles_record: 64–70
 singles_record: 762–222
 Facebook_username: petesampras
+dv_has_:
+  name_:
+    af: Pete Sampras
+    an: Pete Sampras
+    ar: بيت سامبراس
+    arz: بيت سامبراس
+    ast: Pete Sampras
+    ay: Pete Sampras
+    ba: Пит Сампрас
+    be: Піт Сампрас
+    be-tarask: Піт Сампрас
+    bg: Пийт Сампрас
+    bn: পিট সাম্প্রাস
+    bs: Pete Sampras
+    ca: Pete Sampras
+    cs: Pete Sampras
+    cv: Пит Сампрас
+    cy: Pete Sampras
+    da: Pete Sampras
+    de: Pete Sampras
+    de-ch: Pete Sampras
+    el: Πιτ Σάμπρας
+    en: Pete Sampras
+    en-ca: Pete Sampras
+    en-gb: Pete Sampras
+    en-us: Pete Sampras
+    eo: Pete Sampras
+    es: Pete Sampras
+    et: Pete Sampras
+    eu: Pete Sampras
+    ext: Pete Sampras
+    fa: پیت سمپراس
+    fi: Pete Sampras
+    fit: Pete Sampras
+    fr: Pete Sampras
+    ga: Pete Sampras
+    gl: Pete Sampras
+    he: פיט סמפראס
+    hi: पीट सेमप्रास
+    hr: Pete Sampras
+    hu: Pete Sampras
+    hy: Փիթ Սամփրաս
+    id: Pete Sampras
+    io: Pete Sampras
+    it: Pete Sampras
+    ja: ピート・サンプラス
+    jv: Pete Sampras
+    ka: პიტ სამპრასი
+    ko: 피트 샘프러스
+    la: Petrus Sampras
+    lt: Pete Sampras
+    lv: Pīts Samprass
+    mg: Pete Sampras
+    mhr: Пит Сампрас
+    mk: Пит Сампрас
+    ml: പീറ്റ് സാംപ്രസ്
+    mr: पीट सॅम्प्रास
+    nan: Pete Sampras
+    nb: Pete Sampras
+    nds: Pete Sampras
+    nl: Pete Sampras
+    nn: Pete Sampras
+    oc: Pete Sampras
+    pa: ਪੀਟ ਸੈਮਪਰਾਸ
+    pl: Pete Sampras
+    pt: Pete Sampras
+    pt-br: Pete Sampras
+    qu: Pete Sampras
+    rmf: Pete Sampras
+    ro: Pete Sampras
+    ru: Пит Сампрас
+    scn: Pete Sampras
+    sco: Pete Sampras
+    se: Pete Sampras
+    sh: Pete Sampras
+    si: පීට් සැම්ප්රාස්
+    sjd: Пит Сампрас
+    sje: Pete Sampras
+    sju: Pete Sampras
+    sk: Pete Sampras
+    sl: Pete Sampras
+    sma: Pete Sampras
+    smj: Pete Sampras
+    smn: Pete Sampras
+    sms: Pete Sampras
+    sq: Pete Sampras
+    sr: Пит Сампрас
+    sv: Pete Sampras
+    ta: பீட் சாம்ப்ரஸ்
+    th: พีต แซมพราส
+    tr: Pete Sampras
+    uk: Піт Сампрас
+    uz: Pete Sampras
+    vi: Pete Sampras
+    war: Pete Sampras
+    wuu: 皮特·桑普拉斯
+    yo: Pete Sampras
+    yue: 森柏斯
+    zh: 皮特·森柏斯
 ---
-
 # [[Sampras,Pete]] 
 
 #is_/same_as :: [[WD~Pete_Sampras,9446]] 

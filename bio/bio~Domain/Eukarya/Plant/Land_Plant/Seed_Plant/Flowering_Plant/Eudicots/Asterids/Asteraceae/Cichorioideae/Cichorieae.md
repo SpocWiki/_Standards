@@ -1,40 +1,102 @@
 ---
 aliases:
-  - Lactuceae
-  - Cichorieae
-  - هندباوية
-  - Cicòria
-  - タンポポ連
-  - 치커리족
-  - Голици
-  - 菊苣族
+- Cichorieae
+- Cicòria
+- Kasnıkimilər
+- Lactuceae
+- sikurikasvit
+- Κιχωριέαι
+- Голици
+- цикориеви
+- هندباوية
+- هندباويه
+- タンポポ連
+- 菊苣族
+- 치커리족
 has_id_wikidata: Q134662
 parent_taxon:
-  - '[[../../../../../../../../../../../WikiData/WD~Cichorioideae,133142]]'
-  - '[[_Standards/WikiData/WD~Carduoideae,134508]]'
+- '[[../../../../../../../../../../../WikiData/WD~Cichorioideae,133142]]'
+- '[[_Standards/WikiData/WD~Carduoideae,134508]]'
 taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2769
 UMLS_CUI: C1230385
 Commons_category: Cichorieae
 taxon_name: Cichorieae
 taxon_common_name:
-  - هندباوية
-  - Cicòria
-  - Lactuceae
-  - Lactuceae
-  - タンポポ連
-  - 치커리족
-  - Голици
-  - 菊苣族
-  - 菊苣族
-  - 菊苣族
-  - 菊苣族
+- هندباوية
+- Cicòria
+- Lactuceae
+- Lactuceae
+- タンポポ連
+- 치커리족
+- Голици
+- 菊苣族
+- 菊苣族
+- 菊苣族
+- 菊苣族
+dv_has_:
+  name_:
+    an: Cichorieae
+    ar: هندباوية
+    arz: هندباويه
+    ast: Cichorieae
+    az: Kasnıkimilər
+    be: Cichorieae
+    bg: цикориеви
+    ca: Cicòria
+    ceb: Cichorieae
+    de: Cichorieae
+    el: Κιχωριέαι
+    en: Cichorieae
+    eo: Cichorieae
+    es: Cichorieae
+    eu: Cichorieae
+    ext: Cichorieae
+    fi: sikurikasvit
+    fr: Cichorieae
+    ga: Cichorieae
+    gl: Cichorieae
+    hr: Cichorieae
+    hu: Cichorieae
+    ia: Cichorieae
+    ie: Cichorieae
+    io: Cichorieae
+    it: Cichorieae
+    ja: タンポポ連
+    ko: 치커리족
+    la: Cichorieae
+    mk: Голици
+    mul: Cichorieae
+    nl: Cichorieae
+    oc: Cichorieae
+    pl: Cichorieae
+    pt: Cichorieae
+    pt-br: Cichorieae
+    ro: Cichorieae
+    ru: Cichorieae
+    sl: Cichorieae
+    sq: Cichorieae
+    sr: Cichorieae
+    sr-ec: Cichorieae
+    sr-el: Cichorieae
+    sv: Cichorieae
+    tr: Cichorieae
+    uk: Cichorieae
+    vi: Cichorieae
+    vo: Cichorieae
+    war: Cichorieae
+    zh: 菊苣族
+    zh-cn: 菊苣族
+    zh-hans: 菊苣族
+    zh-hant: 菊苣族
+    zh-hk: 菊苣族
+    zh-sg: 菊苣族
+    zh-tw: 菊苣族
 ---
-
 # [[Cichorieae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cichorieae,134662]] 

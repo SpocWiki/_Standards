@@ -1,8 +1,170 @@
 ---
 aliases:
-  - Hemichordata
+- Chalaxordalilar
+- esiselkäjänteiset
+- félgerinchúrosok
+- Hemichordata
+- Hemichordate
+- Hemicordado
+- Hemicordat
+- Hemicordato
+- Hemikodata
+- hemikordatar
+- hemikordater
+- Hemiĥorduloj
+- Jartılaý xordalılar
+- Kiemenlochtiere
+- Mananap nga adunay medyang kord
+- Nepilnachordžiai
+- ovdâsavosuonâsiih
+- Polochordáty
+- Polostrunatci
+- polstrunarji
+- Poluhordati
+- pushordaiņi
+- półstrunowce
+- svalgsträngsdjur
+- Tizinzikrin
+- Yarı sırtipliler
+- Yarımxordalılar
+- Çурма хирлӳлли
+- ürgkeelikloomad
+- Động vật nửa dây sống
+- Žiroglavci
+- Граптолиттер
+- Жартылай хордалылар
+- напівхордові
+- паўхордавыя
+- Полухордати
+- полухордови
+- полухордовые
+- מיתרני פה
+- جارتىلاي حوردالىلار
+- نصف حبليات
+- نیمطنابداران
+- ہیمیکورڈیٹ
+- अर्धरज्जुकी
+- হেমিকর্ডাটা
+- ಹೆಮಿಕಾರ್ಡೇಟಾ
+- ნახევრადქორდიანები
+- 半索动物门
+- 半索動物
+- 半索動物門
+- ꯍꯦꯃꯤꯀꯣꯔꯗꯥꯇꯥ
+- 반삭동물
 title: Hemichordata
 has_id_wikidata: Q174301
+dv_has_:
+  name_:
+    af: Hemichordata
+    an: Hemichordata
+    ar: نصف حبليات
+    arz: نصف حبليات
+    ast: Hemichordata
+    az: Yarımxordalılar
+    be: паўхордавыя
+    be-tarask: паўхордавыя
+    bg: полухордови
+    bn: হেমিকর্ডাটা
+    br: Hemichordata
+    bs: Poluhordati
+    ca: Hemicordat
+    ceb: Mananap nga adunay medyang kord
+    cs: Polostrunatci
+    cv: Çурма хирлӳлли
+    cy: Hemichordata
+    da: Hemichordata
+    de: Kiemenlochtiere
+    en: Hemichordata
+    eo: Hemiĥorduloj
+    es: Hemichordata
+    et: ürgkeelikloomad
+    eu: Hemichordata
+    ext: Hemichordata
+    fa: نیمطنابداران
+    fi: esiselkäjänteiset
+    fr: Hemichordata
+    frr: Hemichordata
+    ga: Hemichordata
+    gl: Hemicordado
+    gsw: Hemichordata
+    gv: Hemichordata
+    he: מיתרני פה
+    hi: अर्धरज्जुकी
+    hr: Žiroglavci
+    hu: félgerinchúrosok
+    ia: Hemichordata
+    id: Hemichordata
+    ie: Hemichordata
+    io: Hemichordata
+    is: Hemichordata
+    it: Hemichordata
+    ja: 半索動物
+    ka: ნახევრადქორდიანები
+    kab: Tizinzikrin
+    kk: Жартылай хордалылар
+    kk-arab: جارتىلاي حوردالىلار
+    kk-cn: جارتىلاي حوردالىلار
+    kk-cyrl: Жартылай хордалылар
+    kk-kz: Жартылай хордалылар
+    kk-latn: Jartılaý xordalılar
+    kk-tr: Jartılaý xordalılar
+    kn: ಹೆಮಿಕಾರ್ಡೇಟಾ
+    ko: 반삭동물
+    ks: ہیمیکورڈیٹ
+    ky: Граптолиттер
+    la: Hemichordata
+    lb: Hemichordata
+    lfn: Hemicordato
+    lij: Hemichordata
+    lmo: Hemichordata
+    lt: Nepilnachordžiai
+    lv: pushordaiņi
+    mk: Полухордати
+    mni: ꯍꯦꯃꯤꯀꯣꯔꯗꯥꯇꯥ
+    mul: Hemichordata
+    nb: hemikordater
+    nds: Hemichordata
+    nds-nl: Hemichordata
+    nl: Hemichordata
+    nn: hemikordatar
+    oc: Hemichordata
+    pl: półstrunowce
+    pms: Hemichordata
+    pt: Hemichordata
+    pt-br: Hemichordata
+    ro: Hemichordata
+    ru: полухордовые
+    sco: Hemichordata
+    sh: Hemichordata
+    sk: Polochordáty
+    sl: polstrunarji
+    smn: ovdâsavosuonâsiih
+    sq: Hemichordata
+    sr: полухордати
+    sr-ec: Полухордати
+    sr-el: Poluhordati
+    sv: svalgsträngsdjur
+    sw: Hemikodata
+    th: Hemichordate
+    tl: Hemichordata
+    tr: Yarı sırtipliler
+    uk: напівхордові
+    uz: Chalaxordalilar
+    vec: Hemichordata
+    vi: Động vật nửa dây sống
+    vo: Hemichordata
+    wa: Hemichordata
+    war: Hemichordata
+    wuu: 半索动物门
+    zea: Hemichordata
+    zh: 半索动物门
+    zh-cn: 半索动物门
+    zh-hans: 半索动物门
+    zh-hant: 半索動物門
+    zh-hk: 半索動物門
+    zh-sg: 半索动物门
+    zh-tw: 半索動物門
 ---
 # [[Hemichordata]] 
 

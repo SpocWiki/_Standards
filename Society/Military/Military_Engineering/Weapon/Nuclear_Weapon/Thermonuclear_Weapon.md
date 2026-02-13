@@ -1,26 +1,169 @@
 ---
 aliases:
+- arma termonuclear
+- armas termonukleyar
+- armă termonucleară
+- bomba all'idrogeno
+- bomba de hidrogénio
+- bomba H
+- bomba termonuclear
+- bombe H
+- bonba termonuklear
+- buama hidrigine
+- hidrogen bombası
+- hidrogenska bomba
+- jia̍t-hu̍t bú-khì
+- kjernevåpenteknologi
+- senjata termonuklear
+- senjata termonuklir
+- termobranduolinė bomba
+- termonuklea armilo
+- termonukleare våben
+- termonukleáris fegyver
+- termonukleárna zbraň
+- termonukleární zbraň
+- termonukleêre wapen
+- termonükleer silah
+- thermonuclear weapon
+- vesinikupomm
+- vetnissprengja
+- vetypommi
+- vodikova bomba
+- vodorod bombasi
+- vũ khí nhiệt hạch
+- Wasserstoffbombe
+- waterstofbom
+- Wetterstofbom
+- ładunek termojądrowy
+- ūdeņraža bumba
+- βόμβα υδρογόνου
+- водородна бомба
+- термо нуклонсар бомба
+- термотөш коралы
+- термоядерна бомба
+- термоядерное оружие
+- термоядролық қару
+- тэрмаядзерная зброя
+- хидрогенска бомба
+- ջերմամիջուկային զենք
+- פצצת מימן
+- بمب هیدروژنی
+- قنبلة هيدروجينية
+- هايدروجن بم
+- ہائیڈروجن بمب
+- তাপ-পারমাণবিক অস্ত্র
+- ਥਰਮੋਨਿਊਕਲੀਅਰ ਹਥਿਆਰ
+- ஐதரசன் குண்டு
+- హైడ్రోజన్ బాంబు
+- ഹൈഡ്രജൻ ബോംബ്
+- อาวุธเทอร์โมนิวเคลียร์
+- མདེའུ་ཆིང་ཏན།
+- ဟိုက်ဒရိုဂျင်ဗုံး
+- ဟုဲက်ဒရိုစိဉ်ဗွုံး
+- 氢弹
+- 氫彈
+- 水素爆弾
+- 핵무기
 has_id_wikidata: Q625107
-has_use: "[[_Standards/WikiData/WD~nuclear_explosion,2656967]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+has_use: '[[_Standards/WikiData/WD~nuclear_explosion,2656967]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nuclear_explosive,3733190]]"
-  - "[[_Standards/WikiData/WD~nuclear_weapon,12802]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9584039,9584039]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
-made_from_material: "[[_Standards/WikiData/WD~plutonium,1102]]"
+- '[[_Standards/WikiData/WD~nuclear_explosive,3733190]]'
+- '[[_Standards/WikiData/WD~nuclear_weapon,12802]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9584039,9584039]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
+made_from_material: '[[_Standards/WikiData/WD~plutonium,1102]]'
 uses:
-  - "[[_Standards/WikiData/WD~nuclear_fission,11429]]"
-  - "[[_Standards/WikiData/WD~nuclear_fusion,13082]]"
+- '[[_Standards/WikiData/WD~nuclear_fission,11429]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
 Commons_category: Nuclear weapons
 time_of_discovery_or_invention: 1952-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/B53%20bomb.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Castle%20Romeo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/B53%20bomb.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Castle%20Romeo.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/VODORODNAYA_BOMBA.html
 Library_of_Congress_Classification: UG1282.A8
+dv_has_:
+  name_:
+    af: termonukleêre wapen
+    ar: قنبلة هيدروجينية
+    ast: arma termonuclear
+    az: hidrogen bombası
+    be: тэрмаядзерная зброя
+    be-tarask: тэрмаядзерная зброя
+    bg: водородна бомба
+    blk: ဟုဲက်ဒရိုစိဉ်ဗွုံး
+    bn: তাপ-পারমাণবিক অস্ত্র
+    bo: མདེའུ་ཆིང་ཏན།
+    bs: hidrogenska bomba
+    ca: bomba termonuclear
+    cs: termonukleární zbraň
+    cv: термо нуклонсар бомба
+    da: termonukleare våben
+    de: Wasserstoffbombe
+    el: βόμβα υδρογόνου
+    en: thermonuclear weapon
+    en-ca: thermonuclear weapon
+    eo: termonuklea armilo
+    es: arma termonuclear
+    et: vesinikupomm
+    eu: bonba termonuklear
+    fa: بمب هیدروژنی
+    fi: vetypommi
+    fr: bombe H
+    fy: Wetterstofbom
+    ga: buama hidrigine
+    gl: arma termonuclear
+    he: פצצת מימן
+    hu: termonukleáris fegyver
+    hy: ջերմամիջուկային զենք
+    id: senjata termonuklir
+    is: vetnissprengja
+    it: bomba all'idrogeno
+    ja: 水素爆弾
+    kk: термоядролық қару
+    ko: 핵무기
+    lt: termobranduolinė bomba
+    lv: ūdeņraža bumba
+    mk: водородна бомба
+    ml: ഹൈഡ്രജൻ ബോംബ്
+    ms: senjata termonuklear
+    my: ဟိုက်ဒရိုဂျင်ဗုံး
+    nan: jia̍t-hu̍t bú-khì
+    nb: kjernevåpenteknologi
+    nl: waterstofbom
+    oc: bomba H
+    pa: ਥਰਮੋਨਿਊਕਲੀਅਰ ਹਥਿਆਰ
+    pl: ładunek termojądrowy
+    pms: Arma termonuclear
+    pnb: ہائیڈروجن بمب
+    ps: هايدروجن بم
+    pt: bomba de hidrogénio
+    pt-br: bomba de hidrogénio
+    ro: armă termonucleară
+    ru: термоядерное оружие
+    sh: hidrogenska bomba
+    sk: termonukleárna zbraň
+    sl: vodikova bomba
+    sr: хидрогенска бомба
+    sr-ec: хидрогенска бомба
+    sr-el: hidrogenska bomba
+    ta: ஐதரசன் குண்டு
+    te: హైడ్రోజన్ బాంబు
+    th: อาวุธเทอร์โมนิวเคลียร์
+    tr: termonükleer silah
+    tt: термотөш коралы
+    uk: термоядерна бомба
+    uz: vodorod bombasi
+    vi: vũ khí nhiệt hạch
+    war: armas termonukleyar
+    wuu: 氢弹
+    yue: 氫彈
+    zh: 氢弹
+    zh-cn: 氢弹
+    zh-hans: 氢弹
+    zh-hant: 氫彈
 ---
-
 # [[Thermonuclear_Weapon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Thermonuclear_weapon,625107|WD~Thermonuclear_weapon,625107]]  

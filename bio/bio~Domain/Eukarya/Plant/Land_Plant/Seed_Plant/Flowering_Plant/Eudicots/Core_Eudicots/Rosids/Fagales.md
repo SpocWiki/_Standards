@@ -1,8 +1,131 @@
 ---
 aliases:
-  - Fagales
+- Beykibálkur
+- Bichenaarteg Planzen
+- Buchenartige
+- Bukiečiai
+- bukotvaré
+- bukovci
+- bukowce
+- bukvolike
+- Bøge-ordenen
+- bøkeordenen
+- bükkfavirágúak
+- Bộ Cử
+- Dižskābaržu rinda
+- Fagales
+- Fagaloj
+- Fagals
+- Fıstıqçiçəklilər
+- Koma narewanan
+- Pöögilaadsed
+- Φηγώδη
+- Букакветныя
+- Буковидни
+- букоцвіті
+- букоцветни
+- букоцветные
+- Рошсонон
+- հաճարածաղկավորներ
+- אלונאים
+- بلوطيات
+- راشسانان
+- फ़ैगालीस
+- อันดับก่อ
+- წიფლისნაირნი
+- წიფურიშნერეფი
+- ブナ目
+- 壳斗目
+- 殼斗目
+- 참나무목
 title: Fagales
 has_id_wikidata: Q21881
+dv_has_:
+  name_:
+    an: Fagales
+    ar: بلوطيات
+    arz: بلوطيات
+    ast: Fagales
+    az: Fıstıqçiçəklilər
+    be: Букакветныя
+    be-tarask: Букакветныя
+    bg: букоцветни
+    bs: Fagales
+    ca: Fagals
+    ceb: Fagales
+    co: Fagales
+    cs: bukotvaré
+    da: Bøge-ordenen
+    de: Buchenartige
+    el: Φηγώδη
+    en: Fagales
+    en-ca: Fagales
+    en-gb: Fagales
+    eo: Fagaloj
+    es: Fagales
+    et: Pöögilaadsed
+    eu: Fagales
+    ext: Fagales
+    fa: راشسانان
+    fi: Fagales
+    fr: Fagales
+    frr: Fagales
+    ga: Fagales
+    gl: Fagales
+    he: אלונאים
+    hi: फ़ैगालीस
+    hr: bukvolike
+    hu: bükkfavirágúak
+    hy: հաճարածաղկավորներ
+    ia: Fagales
+    id: Fagales
+    ie: Fagales
+    ilo: Fagales
+    io: Fagales
+    is: Beykibálkur
+    it: Fagales
+    ja: ブナ目
+    ka: წიფლისნაირნი
+    ko: 참나무목
+    ku: Koma narewanan
+    la: Fagales
+    lb: Bichenaarteg Planzen
+    lt: Bukiečiai
+    lv: Dižskābaržu rinda
+    mk: Буковидни
+    mul: Fagales
+    nb: Fagales
+    nl: Fagales
+    nn: bøkeordenen
+    oc: Fagales
+    pl: bukowce
+    pt: Fagales
+    pt-br: Fagales
+    ro: Fagales
+    ru: букоцветные
+    sco: Fagales
+    sk: Bukotvaré
+    sl: bukovci
+    sq: Fagales
+    sr: Fagales
+    sv: Fagales
+    tg: Рошсонон
+    th: อันดับก่อ
+    tl: Fagales
+    tr: Fagales
+    uk: букоцвіті
+    vi: Bộ Cử
+    vls: Fagales
+    vo: Fagales
+    war: Fagales
+    wuu: 壳斗目
+    xmf: წიფურიშნერეფი
+    yue: 殼斗目
+    zh: 壳斗目
+    zh-cn: 壳斗目
+    zh-hans: 壳斗目
+    zh-hant: 壳斗目
+    zh-tw: 壳斗目
 ---
 # [[Fagales]] 
 

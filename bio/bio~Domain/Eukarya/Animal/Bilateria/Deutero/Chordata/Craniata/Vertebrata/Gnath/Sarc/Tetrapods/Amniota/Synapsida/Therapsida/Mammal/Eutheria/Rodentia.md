@@ -1,59 +1,157 @@
 ---
 aliases:
-  - Rodent
-  - Rodentia
-  - Rodents
-  - Nagetiere
-  - Rosegador
-  - Roedor
-  - القوراض
-  - Грызуны
-  - Гризачи
-  - hlodavci
-  - Gnavere
-  - Ronĝuloj
-  - Näriline
-  - Jyrsijät
-  - Rongeur
-  - Gnaudiarten
-  - creimire
-  - מכרסמים
-  - Glodavci
-  - Rágcsálók
-  - Կրծողներ
-  - ネズミ目
-  - მღრღნელები
-  - 설치목(齧齒目)
-  - 쥐목
-  - Knaagdiere
-  - Roditoï
-  - глодачи
-  - Gnagere
-  - Knaagdieren
-  - Gryzonie
-  - Roedores
-  - Hlodavce
-  - 'Gnagare (föråldrat: enkeltandade gnagare)'
-  - สัตว์ฟันแทะ
-  - Kemiriciler
-  - Гризуни
-  - 啮齿目
+- Biby mpikiky
+- Bộ Gặm nhấm
+- ciebanat
+- Cnofil
+- Creimiche
+- creimire
+- Giat-khí-lūi
+- Glodari
+- Glodavci
+- Gnaagdeerter
+- gnagarar
+- gnagare
+- 'Gnagare (föråldrat: enkeltandade gnagare)'
+- Gnagdýr
+- gnagenddēor
+- Gnagere
+- Gnaudiarten
+- Gnauedierte
+- Gnavere
+- grauzēji
+- Graužikai
+- Graužėkā
+- Grugeux
+- Gryzarje
+- Gryzonie
+- Gəmiricilər
+- hewan pengerat
+- Hlodavce
+- hlodavci
+- Hrymzaki
+- Héwan kerat-kerit
+- Iziququdi
+- jursseeh
+- Jyrsijät
+- Karraskari
+- kemirici
+- Kemiriciler
+- Kemiruvchilar
+- Khankiq
+- Kjifdieren
+- Knaagdier
+- Knaagdiere
+- Knaagdieren
+- Knabberdéieren
+- Knaogdiere
+- Knivil
+- Knoagbeestn
+- Koma kojeran
+- Krigner
+- Kéwan kekrikitan
+- Mangungutkut
+- nagdýr
+- Nager
+- Nagetiere
+- Nogeviecha
+- Nyama ekokɛ́kɛkɛ
+- Näriline
+- närilised
+- Nühtajad
+- Oñapi'ũva
+- Qurxumsoo
+- Rawiant
+- Rescecature
+- Rodensia
+- Rodensya
+- Rodent
+- Rodente
+- Rodentia
+- Rodents
+- Rodero
+- Roditoï
+- Roedor
+- Roedores
+- Rongeur
+- Ronĝuloj
+- Rosegador
+- rosegadors
+- Rosegaires
+- Rozătoare
+- Rágcsálók
+- Sebadadunol (Rodentia)
+- Timseɣẓaẓ
+- Tsin Deigházhígíí
+- Æхсынджытæ
+- Τρωκτικά
+- глодари
+- глодачи
+- Гризачи
+- Гризуни
+- Грызуны
+- Йириссез
+- Кăшлакансем
+- Кеміргіштер
+- Кемирүүчүлөр
+- Кимереүселәр
+- кимерүчеләр
+- Кэрбээччилэр аймахтара
+- мишоподібні
+- Мэрэгч
+- Мэрээшэн
+- Ньымыштшы
+- Хоянда
+- Царгаш-йIаьха дийнаташ
+- Կրծողներ
+- מכרסמים
+- נאגער
+- القوراض
+- جوندگان
+- خورۆکەکان
+- قوارض
+- کترنے والا
+- کترے میمل
+- گمیریجیلر
+- कुरतडणारे प्राणी
+- कृंतक
+- छुँ (रोदेन्त)
+- लोखर्के
+- তীক্ষ্ণদন্তী
+- তীক্ষ্ণদন্তী প্ৰাণী
+- ਕੁਤਰਦੰਦੀ ਜੀਵ
+- કૃંતક
+- கொறிணி
+- రోడెన్షియా
+- ದಂಶಕ
+- കരണ്ടുതീനി
+- สัตว์ฟันแทะ
+- อันดับสัตว์ฟันแทะ
+- ကိုက်ဖြတ် သတ္တဝါ
+- მღრღნელები
+- ዘራይጥ
+- ネズミ目
+- 啮齿目
+- 嚙齒目
+- 설치류
+- 설치목(齧齒目)
+- 쥐목
 has_id_wikidata: Q10850
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Rodentia
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 EPPO_Code: 1RODEO
 GS1_GPC_code: 10005455
 Iconclass_notation: 25F26
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tamias%20striatus%20CT.jpg
 inception: -66000000-01-01
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 180130
 Krugosvet_article: nauka_i_tehnika/biologiya/GRIZUNI.html
 main_food_source: '[[_Standards/WikiData/WD~herbaceous_plant,190903]]'
@@ -63,58 +161,221 @@ natural_reservoir_of: '[[_Standards/WikiData/WD~Leishmania,524818]]'
 NBN_System_Key: NHMSYS0000376181
 OmegaWiki_Defined_Meaning: 3268
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Glires,660432]]'
-  - '[[_Standards/WikiData/WD~Simplicidentata,7520911]]'
+- '[[_Standards/WikiData/WD~Glires,660432]]'
+- '[[_Standards/WikiData/WD~Simplicidentata,7520911]]'
 start_time: -56000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~rodentology,76749558]]'
+- '[[_Standards/WikiData/WD~rodentology,76749558]]'
 subclass_of: '[[_Standards/WikiData/WD~fur-bearing_animal,12366542]]'
 taxon_common_name:
-  - Rosegador
-  - Roedor
-  - Rodents
-  - القوراض
-  - Грызуны
-  - Гризачи
-  - hlodavci
-  - Gnavere
-  - Nagetiere
-  - Ronĝuloj
-  - Näriline
-  - Jyrsijät
-  - Rongeur
-  - Gnaudiarten
-  - creimire
-  - מכרסמים
-  - Glodavci
-  - Rágcsálók
-  - Կրծողներ
-  - ネズミ目
-  - მღრღნელები
-  - 설치목(齧齒目)
-  - 쥐목
-  - Knaagdiere
-  - Roditoï
-  - глодачи
-  - Gnagere
-  - Knaagdieren
-  - Gryzonie
-  - Roedores
-  - Hlodavce
-  - 'Gnagare (föråldrat: enkeltandade gnagare)'
-  - สัตว์ฟันแทะ
-  - Kemiriciler
-  - Гризуни
-  - 啮齿目
+- Rosegador
+- Roedor
+- Rodents
+- القوراض
+- Грызуны
+- Гризачи
+- hlodavci
+- Gnavere
+- Nagetiere
+- Ronĝuloj
+- Näriline
+- Jyrsijät
+- Rongeur
+- Gnaudiarten
+- creimire
+- מכרסמים
+- Glodavci
+- Rágcsálók
+- Կրծողներ
+- ネズミ目
+- მღრღნელები
+- 설치목(齧齒目)
+- 쥐목
+- Knaagdiere
+- Roditoï
+- глодачи
+- Gnagere
+- Knaagdieren
+- Gryzonie
+- Roedores
+- Hlodavce
+- 'Gnagare (föråldrat: enkeltandade gnagare)'
+- สัตว์ฟันแทะ
+- Kemiriciler
+- Гризуни
+- 啮齿目
 taxon_name: Rodentia
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~rodent_meat,124815478]]'
 title: Rodentia
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351419,42351419]]'
 U_S_National_Archives_Identifier:
-  - 10647853
+- 10647853
+dv_has_:
+  name_:
+    af: Knaagdier
+    am: ዘራይጥ
+    an: Rodentia
+    ang: gnagenddēor
+    ar: قوارض
+    ary: قوارض
+    arz: قوارض
+    as: তীক্ষ্ণদন্তী প্ৰাণী
+    ast: Rodentia
+    avk: Sebadadunol (Rodentia)
+    az: Gəmiricilər
+    azb: گمیریجیلر
+    ba: Кимереүселәр
+    bar: Nogeviecha
+    be: грызуны
+    be-tarask: грызуны
+    bew: Héwan kerat-kerit
+    bg: гризачи
+    bn: তীক্ষ্ণদন্তী
+    br: Krigner
+    bs: Glodari
+    bxr: Мэрээшэн
+    ca: rosegadors
+    ceb: Mangungutkut
+    ckb: خورۆکەکان
+    crh: kemirici
+    cs: hlodavci
+    cv: Кăшлакансем
+    cy: Cnofil
+    da: Gnavere
+    de: Nagetiere
+    dsb: Gryzarje
+    el: Τρωκτικά
+    en: Rodentia
+    en-ca: Rodent
+    en-gb: rodent
+    en-us: rodents
+    eo: Ronĝuloj
+    es: Rodentia
+    et: närilised
+    eu: Karraskari
+    ext: Rodentia
+    fa: جوندگان
+    fi: jyrsijät
+    fo: Gnagdýr
+    fr: Rodentia
+    frr: Gnaudiarten
+    fy: Kjifdieren
+    ga: Rodentia
+    gd: Creimiche
+    gl: roedores
+    gn: Oñapi'ũva
+    gsw: Nager
+    gu: કૃંતક
+    ha: Rodentia
+    he: מכרסמים
+    hi: कृंतक
+    hif: Rodent
+    hr: Glodavci
+    hsb: Hrymzaki
+    hu: rágcsálók
+    hy: կրծողներ
+    ia: Rodentia
+    id: hewan pengerat
+    ie: Rodentia
+    inh: Царгаш-йIаьха дийнаташ
+    io: Rodero
+    is: nagdýr
+    it: Rodentia
+    ja: ネズミ目
+    jv: Kéwan kekrikitan
+    ka: მღრღნელები
+    kab: Timseɣẓaẓ
+    kk: Кеміргіштер
+    kn: ದಂಶಕ
+    ko: 설치류
+    koi: Йириссез
+    ku: Koma kojeran
+    kw: Knivil
+    ky: Кемирүүчүлөр
+    la: Rodentia
+    lb: Knabberdéieren
+    lfn: Rodente
+    li: Knaogdiere
+    lij: Rodentia
+    lmo: Rodentia
+    ln: Nyama ekokɛ́kɛkɛ
+    lt: Graužikai
+    lv: grauzēji
+    mg: Biby mpikiky
+    mk: глодачи
+    ml: കരണ്ടുതീനി
+    mn: Мэрэгч
+    mr: कुरतडणारे प्राणी
+    mrj: Ньымыштшы
+    ms: Rodensia
+    mt: Rodentia
+    mul: Rodentia
+    my: ကိုက်ဖြတ် သတ္တဝါ
+    nan: Giat-khí-lūi
+    nap: Rescecature
+    nb: gnagere
+    nds: Gnaagdeerter
+    nds-nl: Rodentia
+    ne: लोखर्के
+    new: छुँ (रोदेन्त)
+    nl: knaagdieren
+    nn: gnagarar
+    nov: Rodentia
+    nrm: Grugeux
+    nv: Tsin Deigházhígíí
+    oc: Rosegaires
+    om: Qurxumsoo
+    os: Æхсынджытæ
+    pa: ਕੁਤਰਦੰਦੀ ਜੀਵ
+    pl: gryzonie
+    pms: Rodentia
+    pnb: کترے میمل
+    pt: Roedores
+    pt-br: Roedores
+    qu: Khankiq
+    ro: Rozătoare
+    ru: грызуны
+    sah: Кэрбээччилэр аймахтара
+    sco: rodent
+    se: ciebanat
+    sgs: Graužėkā
+    sh: Glodavci
+    sk: Hlodavce
+    sl: glodavci
+    smn: jursseeh
+    sq: Rodentia
+    sr: глодари
+    stq: Gnauedierte
+    sv: gnagare
+    sw: Rodentia
+    ta: கொறிணி
+    te: రోడెన్షియా
+    tg: Хоянда
+    th: อันดับสัตว์ฟันแทะ
+    tl: Rodentia
+    tr: kemiriciler
+    tt: кимерүчеләр
+    uk: мишоподібні
+    ur: کترنے والا
+    uz: Kemiruvchilar
+    vec: Rodentia
+    vep: Nühtajad
+    vi: Bộ Gặm nhấm
+    vls: Knoagbeestn
+    vo: Rodentia
+    wa: Rawiant
+    war: Rodensya
+    wuu: 啮齿目
+    yi: נאגער
+    yue: 嚙齒目
+    zh: 啮齿目
+    zh-cn: 啮齿目
+    zh-hans: 啮齿目
+    zh-hk: 嚙齒目
+    zh-tw: 嚙齒目
+    zu: Iziququdi
 ---
-
 # Rodentia
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Rodentia,10850|WD~Rodentia,10850]] 

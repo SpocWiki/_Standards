@@ -1,8 +1,62 @@
 ---
 aliases:
-  - Salientia
+- Salienta
+- Salientia
+- Salientuloj
+- Skaczące
+- قوافز
+- پرشگران
+- უკუდო ამფიბიები
+- 无尾类
 title: Salientia
 has_id_wikidata: Q1746027
+dv_has_:
+  name_:
+    an: Salientia
+    ar: قوافز
+    arz: قوافز
+    ast: Salientia
+    bg: Salientia
+    ca: Salientia
+    ceb: Salientia
+    cs: Salientia
+    de: Salientia
+    el: Salientia
+    en: Salientia
+    eo: Salientuloj
+    es: Salientia
+    eu: Salientia
+    ext: Salientia
+    fa: پرشگران
+    fi: Salientia
+    fr: Salientia
+    ga: Salientia
+    gl: Salientia
+    ia: Salientia
+    id: Salientia
+    ie: Salientia
+    io: Salientia
+    it: Salientia
+    ka: უკუდო ამფიბიები
+    la: Salientia
+    mul: Salientia
+    nb: Salienta
+    nl: Salientia
+    oc: Salientia
+    pl: Skaczące
+    pt: Salientia
+    pt-br: Salientia
+    ro: Salientia
+    ru: Salientia
+    sl: Salientia
+    sq: Salientia
+    sr: Salientia
+    uk: Salientia
+    vi: Salientia
+    vo: Salientia
+    war: Salientia
+    zh: 无尾类
+    zh-cn: 无尾类
 ---
 # [[Salientia]]
 

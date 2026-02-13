@@ -1,20 +1,54 @@
 ---
 aliases:
-  - Brachiosaurus
+- Barakiosauru
+- Brachiosaurus
+- Brachiozaur
+- Brachiozauras
+- Brahiosaur
+- brahiozauri
+- Brahiozawr
+- Brakiosaor
+- Brakiozaurs
+- Braquiossauro
+- Braxiozavr
+- Braĥiosaŭro
+- Uyển long
+- Βραχιόσαυρος
+- Брахіозавр
+- Брахіязаўр
+- Брахиозавр
+- брахиозаври
+- Брахиозаврлар
+- брахиосаур
+- Брахиосаурус
+- ברכיוזאורוס
+- براكيوصور
+- براهیوزاور
+- براکیوسارس
+- براکیوسورس
+- ब्रैकियोसोरस
+- ബ്രാക്കിയോസോറസ്
+- แบรคิโอซอรัส
+- ဗရာခီအိုဆောရတ်
+- ᎠᏴᎶᏲᎭᎵ
+- ブラキオサウルス
+- 腕龍
+- 腕龙属
+- 브라키오사우루스
 has_id_wikidata: Q14397
 location_of_discovery:
-  - '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
-  - '[[_Standards/WikiData/WD~Colorado_River_Valley,49789241]]'
-  - '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~Colorado_River_Valley,49789241]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Dinosaurs,10564112]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Palaeontology,10565469]]'
-  - '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
+- '[[_Standards/WikiData/WD~WikiProject_Dinosaurs,10564112]]'
+- '[[_Standards/WikiData/WD~WikiProject_Palaeontology,10565469]]'
+- '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
 instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 start_time: -154000000-06
 length:
-  - 30
-  - 21
+- 30
+- 21
 mass: 58
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
@@ -23,11 +57,93 @@ Commons_category: Brachiosaurus
 taxon_name: Brachiosaurus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brachiosaurus%20mount.jpg
 size_comparison_diagram:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brachiosaurus%20scale%201.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Human-brachiosaurus%20size%20comparison.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Brachiosaurus%20scale%201.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Human-brachiosaurus%20size%20comparison.png
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Morrison%20Formation%20Brachiosauridae%20map.png
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Brachiosaurus"]
 end_time: -150000000-06
+dv_has_:
+  name_:
+    af: Brachiosaurus
+    an: Brachiosaurus
+    ar: براكيوصور
+    ast: Brachiosaurus
+    az: Braxiozavr
+    azb: براهیوزاور
+    be: Брахіязаўр
+    be-tarask: брахіязаўр
+    bg: брахиозаври
+    br: Brakiosaor
+    ca: Brachiosaurus
+    ceb: Brachiosaurus
+    chr: ᎠᏴᎶᏲᎭᎵ
+    cs: Brachiosaurus
+    cy: Brachiosaurus
+    da: Brachiosaurus
+    de: Brachiosaurus
+    el: Βραχιόσαυρος
+    en: Brachiosaurus
+    en-ca: Brachiosaurus
+    en-gb: Brachiosaurus
+    eo: Braĥiosaŭro
+    es: Brachiosaurus
+    et: Brachiosaurus
+    eu: Brachiosaurus
+    fa: براکیوسورس
+    fi: Brachiosaurus
+    fr: Brachiosaurus
+    ga: Brachiosaurus
+    gl: Brachiosaurus
+    haw: Barakiosauru
+    he: ברכיוזאורוס
+    hi: ब्रैकियोसोरस
+    hr: Brahiosaur
+    hu: Brachiosaurus
+    id: Brachiosaurus
+    it: Brachiosaurus
+    ja: ブラキオサウルス
+    jv: Brachiosaurus
+    kk: Брахиозаврлар
+    ko: 브라키오사우루스
+    la: Brachiosaurus
+    lt: Brachiozauras
+    lv: brahiozauri
+    mk: Брахиосаурус
+    ml: ബ്രാക്കിയോസോറസ്
+    mn: Брахиозавр
+    ms: Brachiosaurus
+    mul: Brachiosaurus
+    my: ဗရာခီအိုဆောရတ်
+    nb: Brachiosaurus
+    nl: Brachiosaurus
+    nn: Brachiosaurus
+    oc: Brachiosaurus
+    or: Brachiosaurus
+    pl: Brachiozaur
+    pnb: براکیوسارس
+    pt: Braquiossauro
+    pt-br: Braquiossauro
+    ro: Brachiosaurus
+    ru: Брахиозавр
+    sco: Brachiosaurus
+    sgs: Brakiozaurs
+    sh: Brahiosaur
+    sk: Brachiosaurus
+    sq: Brachiosaurus
+    sr: брахиосаур
+    sv: Brachiosaurus
+    th: แบรคิโอซอรัส
+    tk: Brahiozawr
+    tl: Brachiosaurus
+    tr: Brachiosaurus
+    uk: Брахіозавр
+    vi: Uyển long
+    war: Brachiosaurus
+    wuu: 腕龙属
+    yue: 腕龍
+    zh: 腕龙属
+    zh-cn: 腕龙属
+    zh-hans: 腕龙属
 ---
 # [[Brachiosaurus]] 
 

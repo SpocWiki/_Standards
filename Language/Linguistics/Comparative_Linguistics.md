@@ -1,24 +1,144 @@
 ---
 aliases:
-  - Comparative linguistics
-  - Comparative_Linguistics
-  - Comparative Linguistics
+- Comparative linguistics
+- Comparative_Linguistics
+- Gjuhësia krahasuese
+- hizkuntzalaritza konparatu
+- ieithyddiaeth gymharol
+- językoznawstwo porównawcze
+- karşılaştırmalı dil bilimi
+- kompara lingvoscienco
+- komparativ lingvistik
+- komparativ lingvistikk
+- komparativní lingvistika
+- lenguìstega conparativa
+- linguistica comparativa
+- linguistik perbandingan
+- linguistika komparatif
+- linguistiko komparata
+- linguistique comparée
+- linguística comparativa
+- lingvistică comparativă
+- lingüística comparada
+- lingüística comparativa
+- lyginamoji kalbotyra
+- Müqayisəli dilçilik
+- porovnávacia jazykoveda
+- primerjalno jezikoslovje
+- salīdzināmā valodniecība
+- samanburðarmálvísindi
+- sammenlignende sprogvidenskab
+- vergelijkende taalkunde
+- vergleichende Sprachwissenschaft
+- võrdlev keeleteadus
+- çhengoaylleeaght hoylee
+- összehasonlító nyelvészet
+- συγκριτική γλωσσολογία
+- компаративна лингвистика
+- параўнальнае мовазнаўства
+- порівняльна лінгвістика
+- Салыстырмалы лингвистика
+- споредбена лингвистика
+- сравнителна лингвистика
+- сравнительное языкознание
+- համեմատական լեզվաբանություն
+- בלשנות השוואתית
+- تقابلي لسانيات
+- تقابلی لسانیات
+- زبانشناسی تطبیقی
+- لسانيات مقارنة
+- ليڠݢوءيستيک ڤربنديڠن
+- तुलनात्मक भाषाविज्ञान
+- तौलनिक भाषाशास्त्र
+- তুলনামূলক ভাষাবিজ্ঞান
+- ਤੁਲਨਾਤਮਕ ਭਾਸ਼ਾ ਵਿਗਿਆਨ
+- ஒப்பீட்டு மொழியியல்
+- താരതമ്യ ഭാഷാശാസ്ത്രപഠനം
+- ภาษาศาสตร์เปรียบเทียบ
+- 比較言語学
+- 比較語言學
+- 比较语言学
+- 비교언어학
 has_id_wikidata: Q878226
 different_from:
-  - '[[_Standards/WikiData/WD~contrastive_linguistics,1758140]]'
-  - '[[_Standards/WikiData/WD~synchronic_comparative_linguistics,11732839]]'
-  - '[[_Standards/WikiData/WD~diachronic_comparative_linguistics,18384059]]'
+- '[[_Standards/WikiData/WD~contrastive_linguistics,1758140]]'
+- '[[_Standards/WikiData/WD~synchronic_comparative_linguistics,11732839]]'
+- '[[_Standards/WikiData/WD~diachronic_comparative_linguistics,18384059]]'
 is_the_study_of: '[[_Standards/WikiData/WD~historical_language,2315359]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
 Library_of_Congress_Classification: P143-P143.3
 part_of: '[[_Standards/WikiData/WD~historical,_comparative_and_typological_linguistics,113128713]]'
 subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
 Basisklassifikation: 17.14
 P8189: 987007545493705171
+dv_has_:
+  name_:
+    ar: لسانيات مقارنة
+    az: Müqayisəli dilçilik
+    be: параўнальнае мовазнаўства
+    be-tarask: параўнальнае мовазнаўства
+    bg: сравнителна лингвистика
+    bn: তুলনামূলক ভাষাবিজ্ঞান
+    ca: lingüística comparativa
+    cs: komparativní lingvistika
+    cy: ieithyddiaeth gymharol
+    da: sammenlignende sprogvidenskab
+    de: vergleichende Sprachwissenschaft
+    el: συγκριτική γλωσσολογία
+    en: comparative linguistics
+    eo: kompara lingvoscienco
+    es: lingüística comparada
+    et: võrdlev keeleteadus
+    eu: hizkuntzalaritza konparatu
+    fa: زبانشناسی تطبیقی
+    fr: linguistique comparée
+    gl: lingüística comparada
+    gv: çhengoaylleeaght hoylee
+    he: בלשנות השוואתית
+    hi: तुलनात्मक भाषाविज्ञान
+    hu: összehasonlító nyelvészet
+    hy: համեմատական լեզվաբանություն
+    id: linguistika komparatif
+    ig: comparative linguistics
+    io: linguistiko komparata
+    is: samanburðarmálvísindi
+    it: linguistica comparativa
+    ja: 比較言語学
+    kk: Салыстырмалы лингвистика
+    ko: 비교언어학
+    la: linguistica comparativa
+    lt: lyginamoji kalbotyra
+    lv: salīdzināmā valodniecība
+    mk: споредбена лингвистика
+    ml: താരതമ്യ ഭാഷാശാസ്ത്രപഠനം
+    mr: तौलनिक भाषाशास्त्र
+    ms: linguistik perbandingan
+    ms-arab: ليڠݢوءيستيک ڤربنديڠن
+    nb: komparativ lingvistikk
+    nl: vergelijkende taalkunde
+    pa: ਤੁਲਨਾਤਮਕ ਭਾਸ਼ਾ ਵਿਗਿਆਨ
+    pl: językoznawstwo porównawcze
+    pt: linguística comparativa
+    ro: lingvistică comparativă
+    ru: сравнительное языкознание
+    sd: تقابلي لسانيات
+    sk: porovnávacia jazykoveda
+    sl: primerjalno jezikoslovje
+    sq: Gjuhësia krahasuese
+    sr: компаративна лингвистика
+    sv: komparativ lingvistik
+    ta: ஒப்பீட்டு மொழியியல்
+    th: ภาษาศาสตร์เปรียบเทียบ
+    tr: karşılaştırmalı dil bilimi
+    uk: порівняльна лінгвістика
+    ur: تقابلی لسانیات
+    vec: lenguìstega conparativa
+    yue: 比較語言學
+    zh: 比较语言学
+    zh-hant: 比較語言學
 ---
-
 # [[Comparative_Linguistics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Comparative_linguistics,878226|WD~Comparative_linguistics,878226]] 

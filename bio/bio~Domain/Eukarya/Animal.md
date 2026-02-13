@@ -1,63 +1,278 @@
 ---
 aliases:
-  - Animal
-  - Animals
-  - Animales
-  - Animalia
-  - Metazoa
-  - animal
-  - animales
-  - dyreriket
-  - živali
-  - 动物界
+- aadupen
+- Aboa
+- Abus
+- ainmhí
+- ajal
+- Amudr
+- anifail
+- animais
+- Animal
+- Animale
+- Animales
+- Animali
+- Animalia
+- animalo
+- Animals
+- Animalu
+- animałe
+- Animol
+- Animâ
+- annimal
+- anụmanụ
+- Armali
+- Awesis
+- ayup
+- ayvan
+- Aɣersiw
+- baagh
+- Bagan
+- Beathach
+- Beburon
+- Bestia
+- Beêsten
+- Biby
+- Biesse
+- Bieste
+- Binatang
+- Binensotta
+- binkɔbigu
+- bétye
+- Bêesten
+- Bʋnkɔnbid Yʋda
+- Dabba
+- danlu
+- Deert
+- Diarten
+- dier
+- dieren
+- Dierte
+- djur
+- Doenghduz
+- Dundat yi
+- duŋo
+- dyr
+- dyreriket
+- dzeivinīki
+- dzīvnieki
+- Déiereräich
+- Dông-ŭk
+- dýr
+- Dēor
+- elleekodde
+- elliidriika
+- eläinkunta
+- Eläjäq
+- Enyval
+- Franz Peter
+- Gedier
+- gyvūnai
+- Gīvē
+- haiwan
+- Hayop
+- hayvan
+- Hayvonlar
+- Haywanlar
+- Haýwanlar
+- hewan
+- heyvan
+- Heywan
+- holoholona
+- Hova
+- Héwan
+- Həyvonon
+- ijo lon tawa
+- Inyamaswa
+- isilwane
+- Izilwanyana
+- Jaanwar
+- Jelu
+- kafsha
+- Kanlin
+- Kararehe
+- Kewan
+- Kibulu
+- Kpɩnɛ
+- loen
+- loomad
+- Lã
+- Mananap
+- Manumanu
+- Metazoa
+- Meti
+- Mhuka
+- mnyama
+- Monumanu
+- mu᷆rnà
+- Mymba
+- Mürütkana
+- Naaldeehii
+- Nim
+- Niġrun
+- nyam
+- Nyama
+- Phukha
+- qemuzimuzip
+- qsinu
+- Regnul Animalia
+- Regnum Animalia
+- Sato
+- Sato kéwan
+- Silwane
+- Swiharhi
+- tayam
+- Thûng-vu̍t
+- Tier
+- Tōng-bu̍t
+- Uywa
+- Vasho
+- Viecha
+- Vinyama
+- Xayawaan
+- xaywannar
+- Yōlcatl
+- Zannimo
+- zwierzęta
+- zwiyrzynta
+- zwěrjo
+- állat
+- ìmbɔ̀ŋ
+- động vật
+- Ŋkwa mena ndo si tsāʼ
+- žeeʹvetkåʹdd
+- živali
+- Živatad
+- životinja
+- životinje
+- živočichové
+- živočíchy
+- ζώο
+- Амитан
+- Амьтан
+- Аԥстәы
+- Быдла
+- Гьайванар
+- дийнаташ
+- Жануарлар
+- Жаныбарлар
+- животиње
+- животни
+- животные
+- жувата
+- жывёлы
+- жыва
+- лулосъёс
+- Пода
+- Псэушъхьэ
+- Ракшат
+- тварина
+- хайваннар
+- Хайуандар
+- Харамай
+- Хӏайван
+- цæрæгойтæ
+- Чĕр чун
+- Янлык
+- ҷонвар
+- կենդանիներ
+- בעלי חיים
+- جاندار
+- جانور
+- جانوران
+- حئیوان
+- حيوان
+- حيوانات
+- حیوون
+- ژوي
+- گیانلەبەر
+- ھايۋانات
+- ܚܝܘܬܐ
+- ߓߌߦߊ߲
+- जनावर
+- जन्तवः
+- जानवर
+- पशु
+- प्राणी
+- প্রাণী
+- প্ৰাণী
+- ਜਾਨਵਰ
+- પ્રાણી
+- ପଶୁ
+- விலங்கு
+- జంతువు
+- ಪ್ರಾಣಿ
+- ജന്തു
+- සත්තු
+- สัตว์
+- ສັດ
+- སེམས་ཅན
+- སྲོག་ཆགས་
+- သတ္တဝါ
+- သတ်းၻဝႃႇ
+- ჩხოლარეფი
+- ცხოველები
+- እንስሳ
+- ᎦᏂᏝᎢ
+- ᐱᓯᐢᑭᐤ
+- ᓂᕐᔪᑦ
+- សត្វ
+- ᱡᱤᱣᱟᱹᱞᱤ
+- ẹranko
+- ⴰⵎⵓⴷⵔ
+- 动物
+- 动物界
+- 動物
+- 동물
+- "\U00010333\U00010339\U0001033F\U00010343"
 has_id_wikidata: Q729
 Archive_of_Our_Own_tag:
-  - Animals
-  - Animal
+- Animals
+- Animal
 Baidu_Tieba_name: 动物
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Animalia
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-  - '[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]'
-  - '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]'
+- '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]'
 Dewey_Decimal_Classification:
-  - 590
+- 590
 different_from:
-  - '[[_Standards/WikiData/WD~Eleotris_melanosoma,717377]]'
-  - '[[_Standards/WikiData/WD~Q19176651,19176651]]'
-  - '[[_Standards/WikiData/WD~Bête,65066169]]'
+- '[[_Standards/WikiData/WD~Eleotris_melanosoma,717377]]'
+- '[[_Standards/WikiData/WD~Q19176651,19176651]]'
+- '[[_Standards/WikiData/WD~Bête,65066169]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 EAGLE_id: decor/lod/28
 EPPO_Code: 1ANIMK
 equivalent_class:
-  - http://dbpedia.org/ontology/Animal
-  - http://kbpedia.org/kko/rc/Animal
+- http://dbpedia.org/ontology/Animal
+- http://kbpedia.org/kko/rc/Animal
 hashtag:
-  - animal
-  - animals
+- animal
+- animals
 has_characteristic:
-  - '[[_Standards/WikiData/WD~animal_locomotion,925958]]'
-  - '[[_Standards/WikiData/WD~animal_taxonomy,1469725]]'
-  - '[[_Standards/WikiData/WD~animal_behavior,2990593]]'
-  - '[[_Standards/WikiData/WD~animal_culture,3007160]]'
+- '[[_Standards/WikiData/WD~animal_locomotion,925958]]'
+- '[[_Standards/WikiData/WD~animal_taxonomy,1469725]]'
+- '[[_Standards/WikiData/WD~animal_behavior,2990593]]'
+- '[[_Standards/WikiData/WD~animal_culture,3007160]]'
 has_list: '[[_Standards/WikiData/WD~list_of_animal_classes,1401693]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~first-order_class,104086571]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~first-order_class,104086571]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 IPTC_NewsCode: mediatopic/20000500
 ITIS_TSN: 202423
 MeSH_tree_code: B01.050
@@ -65,27 +280,27 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20diver
 OmegaWiki_Defined_Meaning: 194
 parent_taxon: '[[_Standards/WikiData/WD~Apoikozoa,24966129]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-animal.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-animalia.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-animal.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-animalia.wav
 properties_for_this_type:
-  - main food source
-  - gait
+- main food source
+- gait
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q19719608,19719608]]'
 social_media_followers: 15948
 start_time: -665000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
-  - '[[_Standards/WikiData/WD~biology,420]]'
-  - '[[_Standards/WikiData/WD~zoology,431]]'
+- '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~zoology,431]]'
 subclass_of: '[[_Standards/WikiData/WD~heterotroph,159344]]'
 subreddit:
-  - Animal
+- Animal
 taxon_common_name:
-  - animal
-  - animales
-  - dyreriket
-  - živali
-  - 动物界
+- animal
+- animales
+- dyreriket
+- živali
+- 动物界
 taxon_name: Animalia
 taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
 title: Animals
@@ -93,10 +308,306 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animalia,6679944]]'
 UMLS_CUI: C0003062
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier:
-  - 10637132
+- 10637132
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishing%20for%20salmon%20--%20Crescent%20Lake%2C%20Alaska%20-%20August%202015.webm
+dv_has_:
+  name_:
+    ab: Аԥстәы
+    ace: binatang
+    ady: Псэушъхьэ
+    af: dier
+    am: እንስሳ
+    an: Animalia
+    ang: Dēor
+    anp: पशु
+    ar: حيوانات
+    arc: ܚܝܘܬܐ
+    ary: حيوان
+    arz: حيوان
+    as: প্ৰাণী
+    ast: animal
+    atj: Awesis
+    awa: पशु
+    ay: Uywa
+    az: heyvan
+    azb: حئیوان
+    ba: Хайуандар
+    ban: Beburon
+    bar: Viecha
+    bas: ìmbɔ̀ŋ
+    bbc: Binatang
+    bcl: Hayop
+    be: жывёлы
+    be-tarask: жывёлы
+    bew: Héwan
+    bg: животни
+    bho: जानवर
+    bi: Animol
+    bm: Bagan
+    bn: প্রাণী
+    bo: སྲོག་ཆགས་
+    br: loen
+    bs: životinja
+    bxr: Амитан
+    ca: animal
+    cdo: Dông-ŭk
+    ce: дийнаташ
+    ceb: Mananap
+    chr: ᎦᏂᏝᎢ
+    chy: Hova
+    ckb: گیانلەبەر
+    co: Animale
+    cr: ᐱᓯᐢᑭᐤ
+    crh: ayvan
+    cs: živočichové
+    cv: Чĕр чун
+    cy: anifail
+    da: dyr
+    dag: binkɔbigu
+    de: Tier
+    de-ch: Tier
+    diq: Heywan
+    dtp: tayam
+    dty: प्राणी
+    dz: སེམས་ཅན
+    ee: Lã
+    el: ζώο
+    en: Animalia
+    en-ca: Animal
+    en-gb: animal
+    en-us: animal
+    eo: animalo
+    es: Animalia
+    et: loomad
+    eu: animalia
+    ext: Animalia
+    fa: جانوران
+    fi: eläinkunta
+    fj: Manumanu
+    fo: dýr
+    fr: animal
+    frp: bétye
+    frr: Diarten
+    fy: dier
+    ga: ainmhí
+    gan: 動物
+    gcr: Zannimo
+    gd: Beathach
+    gl: animais
+    gn: Mymba
+    got: "\U00010333\U00010339\U0001033F\U00010343"
+    gpe: Animal
+    gsw: Dier
+    gu: પ્રાણી
+    guc: Mürütkana
+    guw: Kanlin
+    gv: baagh
+    ha: Dabba
+    hak: Thûng-vu̍t
+    haw: holoholona
+    he: בעלי חיים
+    hi: प्राणी
+    hif: Jaanwar
+    hr: životinje
+    hsb: zwěrjo
+    ht: Zannimo
+    hu: állat
+    hy: կենդանիներ
+    ia: animal
+    iba: Jelu
+    id: hewan
+    ie: animal
+    ig: anụmanụ
+    ik: Niġrun
+    ilo: ayup
+    inh: Дийнаташ
+    io: animalo
+    is: dýr
+    it: animale
+    iu: ᓂᕐᔪᑦ
+    ja: 動物
+    jam: Animal
+    jbo: danlu
+    jv: Sato kéwan
+    ka: ცხოველები
+    kaa: Haywanlar
+    kab: Aɣersiw
+    kbp: Kpɩnɛ
+    kcg: nyam
+    kg: Kibulu
+    kge: Binatang
+    kk: Жануарлар
+    km: សត្វ
+    kn: ಪ್ರಾಣಿ
+    knc: Franz Peter
+    ko: 동물
+    koi: Пода
+    ks: جانور
+    ksh: Dier
+    ku: ajal
+    ku-latn: ajal
+    kus: Bʋnkɔnbid Yʋda
+    kw: Enyval
+    ky: Жаныбарлар
+    la: animalia
+    lad: Animal
+    lb: Déiereräich
+    lbe: Хӏайван
+    lez: Гьайванар
+    lfn: animal
+    li: Bieste
+    lij: Animalia
+    lld: Tier
+    lmo: Bestia
+    ln: Nyama
+    lo: ສັດ
+    lt: gyvūnai
+    ltg: dzeivinīki
+    lv: dzīvnieki
+    lzh: 動物
+    mai: पशु
+    map-bms: Kewan
+    mcn: mu᷆rnà
+    mdf: жувата
+    mg: Biby
+    mhr: Янлык
+    mi: Kararehe
+    min: Binatang
+    mk: животни
+    ml: ജന്തു
+    mn: Амьтан
+    mr: प्राणी
+    ms: haiwan
+    ms-arab: حيوان
+    mt: annimal
+    mul: Animalia
+    mwl: Animal
+    my: သတ္တဝါ
+    myv: Ракшат
+    mzn: حیوون
+    nah: Yōlcatl
+    nan: Tōng-bu̍t
+    nap: Animali
+    nb: dyr
+    nds: Deert
+    nds-nl: dieren
+    ne: जनावर
+    new: पशु
+    nia: hewan
+    nl: dier
+    nn: dyr
+    nov: animalia
+    nqo: ߓߌߦߊ߲
+    nrm: Animâ
+    nv: Naaldeehii
+    oc: animalia
+    om: Binensotta
+    or: ପଶୁ
+    os: цæрæгойтæ
+    pa: ਜਾਨਵਰ
+    pam: Animal
+    pap: Animal
+    pdc: Gedier
+    pl: zwierzęta
+    pms: Animalia
+    pnb: جانور
+    ps: ژوي
+    pt: animalia
+    pt-br: Animalia
+    pwn: qemuzimuzip
+    qu: Uywa
+    rki: သတ္တဝါ
+    rm: Animals
+    rmy: Vasho
+    ro: Regnul Animalia
+    roa-tara: Regnum Animalia
+    ru: животные
+    rue: Быдла
+    rup: Animalu
+    rw: Inyamaswa
+    sa: जन्तवः
+    sah: Харамай
+    sat: ᱡᱤᱣᱟᱹᱞᱤ
+    sc: Animalia
+    scn: Armali
+    sco: animal
+    sd: جاندار
+    se: elliidriika
+    sgs: Gīvē
+    sh: životinje
+    shi: Amudr
+    shn: သတ်းၻဝႃႇ
+    si: සත්තු
+    sjd: жыва
+    sk: živočíchy
+    sl: živali
+    smn: elleekodde
+    sms: žeeʹvetkåʹdd
+    sn: Mhuka
+    so: Xayawaan
+    sq: kafsha
+    sr: животиње
+    srn: Meti
+    ss: Silwane
+    stq: Dierte
+    su: Sato
+    sv: djur
+    sw: mnyama
+    szl: zwiyrzynta
+    szy: aadupen
+    ta: விலங்கு
+    tay: qsinu
+    te: జంతువు
+    tg: ҷонвар
+    th: สัตว์
+    ti: እንስሳ
+    tk: Haýwanlar
+    tl: hayop
+    tly: Həyvonon
+    to: Monumanu
+    tok: ijo lon tawa
+    tpi: Abus
+    tr: hayvan
+    ts: Swiharhi
+    tt: хайваннар
+    tt-cyrl: хайваннар
+    tt-latn: xaywannar
+    tum: Vinyama
+    tw: Aboa
+    udm: лулосъёс
+    ug: ھايۋانات
+    uk: тварина
+    ur: جانور
+    uz: Hayvonlar
+    ve: Phukha
+    vec: animałe
+    vep: Živatad
+    vi: động vật
+    vls: Bêesten
+    vo: Nim
+    vro: Eläjäq
+    wa: Biesse
+    war: Hayop
+    wlx: duŋo
+    wo: Dundat yi
+    wuu: 動物
+    xh: Izilwanyana
+    xmf: ჩხოლარეფი
+    ybb: Ŋkwa mena ndo si tsāʼ
+    yi: בעלי חיים
+    yo: ẹranko
+    yue: 動物
+    za: Doenghduz
+    zea: Beêsten
+    zgh: ⴰⵎⵓⴷⵔ
+    zh: 动物
+    zh-cn: 动物
+    zh-hans: 动物
+    zh-hant: 動物
+    zh-hk: 動物
+    zh-tw: 動物
+    zu: isilwane
 ---
-
 # [[Animal]] 
 
 #is_/subject_of ::  [[../../Zoology|Zoology]] 

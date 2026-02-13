@@ -1,34 +1,194 @@
 ---
 aliases:
-  - Causality
-  - Causation
+- achosiaeth
+- causalidad
+- causalidade
+- causalidá
+- causalitas
+- causalitat
+- causalitate
+- Causality
+- causalità
+- causalité
+- Causation
+- cauzalitate
+- cauzałità
+- cúisíocht
+- cēlonība
+- hiệu ứng vật lý
+- kausalitas
+- kausalitate
+- kausaliteetti
+- kausalitehta
+- kausalitet
+- kausaliteʹtt
+- Kausalität
+- kauzalita
+- kauzalnost
+- kauzeso
+- kaŭzeco
+- kousaliteit
+- nedensellik
+- okság
+- oorzakelijk verband
+- orsakalögmál
+- priežastinis ryšys
+- przyczynowość
+- príčinnosť
+- põhjuslikkus
+- sebab akibat
+- sebebin
+- shkakës
+- səbəb
+- Ursaach
+- uzročnost
+- vzročnost
+- òùnfà
+- αιτιότητα
+- причинність
+- причинност
+- причинность
+- причиност
+- прычыннасць
+- прычыннасьць
+- сәбәплелек
+- узрочност
+- պատճառականություն
+- סיבתיות
+- سبب عاقبة
+- سببية
+- سببیہ
+- علیت
+- کارنتا
+- ھۆدارێتی
+- कारण
+- কার্যকারণ
+- ਕਾਰਨਤਾ
+- வினை விளைவுக் கோட்பாடு
+- เหตุภาพ
+- 因果关系
+- 因果律
+- 因果性
+- 因果關係
+- 인과관계
 has_id_wikidata: Q179289
 studied_by:
-  - '[[_Standards/WikiData/WD~etiology,156318]]'
-  - '[[_Standards/WikiData/WD~Buddhist_logico_epistemology,10925603]]'
+- '[[_Standards/WikiData/WD~etiology,156318]]'
+- '[[_Standards/WikiData/WD~Buddhist_logico_epistemology,10925603]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~consequent,261155]]'
-  - '[[_Standards/WikiData/WD~effect,926230]]'
-  - '[[_Standards/WikiData/WD~cause,2574811]]'
+- '[[_Standards/WikiData/WD~consequent,261155]]'
+- '[[_Standards/WikiData/WD~effect,926230]]'
+- '[[_Standards/WikiData/WD~cause,2574811]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 subclass_of: '[[_Standards/WikiData/WD~relation,930933]]'
 opposite_of: '[[_Standards/WikiData/WD~prevention,1717246]]'
 part_of:
-  - '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 Commons_category: Causality
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/causality
 PhilPapers_topic: causation
 MeSH_tree_code:
-  - N05.715.350.200
-  - N06.850.490.625
+- N05.715.350.200
+- N06.850.490.625
 Library_of_Congress_Classification: BC199.C38
+dv_has_:
+  name_:
+    af: kousaliteit
+    ar: سببية
+    ast: causalidá
+    az: səbəb
+    be: прычыннасць
+    be-tarask: прычыннасьць
+    bg: причинност
+    bn: কার্যকারণ
+    bs: uzročnost
+    ca: causalitat
+    ckb: ھۆدارێتی
+    cs: kauzalita
+    cy: achosiaeth
+    da: kausalitet
+    de: Kausalität
+    diq: sebebin
+    el: αιτιότητα
+    en: causality
+    eo: kaŭzeco
+    es: causalidad
+    et: põhjuslikkus
+    eu: kausalitate
+    fa: علیت
+    fi: kausaliteetti
+    fr: causalité
+    ga: cúisíocht
+    gl: causalidade
+    he: סיבתיות
+    hi: कारण
+    hr: kauzalnost
+    hu: okság
+    hy: պատճառականություն
+    ia: causalitate
+    id: kausalitas
+    io: kauzeso
+    is: orsakalögmál
+    it: causalità
+    ja: 因果性
+    ko: 인과관계
+    la: causalitas
+    lb: Ursaach
+    lt: priežastinis ryšys
+    lv: cēlonība
+    mk: причиност
+    ms: sebab akibat
+    ms-arab: سبب عاقبة
+    mzn: علیت
+    nb: kausalitet
+    nl: oorzakelijk verband
+    nn: kausalitet
+    pa: ਕਾਰਨਤਾ
+    pl: przyczynowość
+    pms: Causalità
+    pnb: کارنتا
+    pt: causalidade
+    pt-br: causalidade
+    ro: cauzalitate
+    ru: причинность
+    sco: causality
+    se: kausalitehta
+    sh: uzročnost
+    sk: príčinnosť
+    sl: vzročnost
+    sms: kausaliteʹtt
+    sq: shkakës
+    sr: узрочност
+    sr-ec: узрочност
+    sr-el: uzročnost
+    sv: kausalitet
+    ta: வினை விளைவுக் கோட்பாடு
+    th: เหตุภาพ
+    tr: nedensellik
+    tt: сәбәплелек
+    tt-cyrl: сәбәплелек
+    uk: причинність
+    ur: سببیہ
+    vec: cauzałità
+    vi: hiệu ứng vật lý
+    wuu: 因果关系
+    yo: òùnfà
+    yue: 因果律
+    zh: 因果關係
+    zh-cn: 因果关系
+    zh-hans: 因果关系
+    zh-hant: 因果關係
+    zh-hk: 因果關係
+    zh-mo: 因果關係
+    zh-my: 因果关系
+    zh-sg: 因果关系
+    zh-tw: 因果關係
 ---
-
 # [[Causality]] 
 
 #is_/better_than :: [[Correlation]] 

@@ -1,30 +1,150 @@
 ---
 aliases:
-  - Aktivkohle
-  - Active carbon
-  - Activated carbon
-  - activated charcoal
-  - active charcoal
-  - Activated_Carbon
-  - Activated Carbon
+- actieve kool
+- Activated carbon
+- activated charcoal
+- Activated_Carbon
+- Active carbon
+- active charcoal
+- aktif karbon
+- aktiivihiili
+- aktiivsüsi
+- aktivigita karbono
+- Aktivkohle
+- aktivni ugalj
+- aktivni ugljen
+- aktivno oglje
+- aktivní uhlí
+- aktivt kol
+- aktivt kull
+- aktyvintoji anglis
+- aktív szén
+- aktívne uhlie
+- aktïvtendirilgen kömir
+- aktīvā ogle
+- carbon ativo
+- carbone attivo
+- carbó actiu
+- carbón activado
+- carvão ativado
+- charbon actif
+- cărbune activ
+- gualach gníomhachtaithe
+- Ikatz aktibatu
+- karbon aktif
+- oa̍h-sèng-thòaⁿ
+- than hoạt tính
+- węgiel aktywny
+- ενεργός άνθρακας
+- активациленĕ кăмрăк
+- активен јаглен
+- активен въглен
+- активированный уголь
+- активни угаљ
+- активоване вугілля
+- активтендірілген көмір
+- Актывіраваны вугаль
+- актываваны вугаль
+- ակտիվացրած ածուխ
+- פחם פעיל
+- اكتىيۆتەندىرىلگەن كومىر
+- زغال فعال
+- كربون نشط
+- सक्रियित कार्बन
+- સક્રિય કાર્બન
+- ଆକ୍ଟିଭେଟେଡ଼ କାର୍ବନ
+- ಸಕ್ರಿಯ ಇಂಗಾಲ
+- ถ่านกัมมันต์
+- 活性炭
+- 활성탄
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon|Activated_Carbon]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public|Activated_Carbon.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal|Activated_Carbon.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect|Activated_Carbon.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon|Activated_Carbon]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public|Activated_Carbon.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal|Activated_Carbon.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect|Activated_Carbon.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon|Activated_Carbon]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public|Activated_Carbon.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal|Activated_Carbon.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect|Activated_Carbon.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon|Activated_Carbon]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.public|Activated_Carbon.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.internal|Activated_Carbon.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.protect|Activated_Carbon.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]]'
 has_id_wikidata: Q190878
+dv_has_:
+  name_:
+    ar: كربون نشط
+    be: Актывіраваны вугаль
+    be-tarask: актываваны вугаль
+    bg: активен въглен
+    bs: aktivni ugalj
+    ca: carbó actiu
+    cs: aktivní uhlí
+    cv: активациленĕ кăмрăк
+    de: Aktivkohle
+    el: ενεργός άνθρακας
+    en: activated carbon
+    eo: aktivigita karbono
+    es: carbón activado
+    et: aktiivsüsi
+    eu: Ikatz aktibatu
+    fa: زغال فعال
+    fi: aktiivihiili
+    fr: charbon actif
+    ga: gualach gníomhachtaithe
+    gu: સક્રિય કાર્બન
+    he: פחם פעיל
+    hi: सक्रियित कार्बन
+    hr: aktivni ugljen
+    hu: aktív szén
+    hy: ակտիվացրած ածուխ
+    id: karbon aktif
+    it: carbone attivo
+    ja: 活性炭
+    kk: активтендірілген көмір
+    kk-arab: اكتىيۆتەندىرىلگەن كومىر
+    kk-cn: اكتىيۆتەندىرىلگەن كومىر
+    kk-cyrl: активтендірілген көмір
+    kk-kz: активтендірілген көмір
+    kk-latn: aktïvtendirilgen kömir
+    kk-tr: aktïvtendirilgen kömir
+    kn: ಸಕ್ರಿಯ ಇಂಗಾಲ
+    ko: 활성탄
+    lt: aktyvintoji anglis
+    lv: aktīvā ogle
+    mk: активен јаглен
+    ms: karbon aktif
+    nan: oa̍h-sèng-thòaⁿ
+    nb: aktivt kull
+    nl: actieve kool
+    or: ଆକ୍ଟିଭେଟେଡ଼ କାର୍ବନ
+    pl: węgiel aktywny
+    pt: carvão ativado
+    ro: cărbune activ
+    ru: активированный уголь
+    sh: aktivni ugalj
+    sk: aktívne uhlie
+    sl: aktivno oglje
+    sr: активни угаљ
+    sr-ec: активни угаљ
+    sr-el: aktivni ugalj
+    sv: aktivt kol
+    th: ถ่านกัมมันต์
+    tr: aktif karbon
+    uk: активоване вугілля
+    vec: carbon ativo
+    vi: than hoạt tính
+    zh: 活性炭
+    zh-cn: 活性炭
+    zh-hans: 活性炭
+    zh-hant: 活性炭
+    zh-hk: 活性炭
+    zh-sg: 活性炭
+    zh-tw: 活性炭
 ---
 # [[Activated_Carbon]] 
 

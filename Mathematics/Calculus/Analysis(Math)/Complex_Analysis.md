@@ -1,19 +1,148 @@
 ---
-aliases: 
+aliases:
+- anailís choimpléascach
+- analisi complessa
+- analisi komplessa
+- analisi konplexu
+- Analisis kompleks
+- analiza complexă
+- analiza Komplekse
+- analiza zespolona
+- analyse complexe
+- Analís complexu
+- anàlisi complexa
+- anàlisi cumplessa
+- análise complexa
+- análisis complejo
+- complex analysis
+- Dadansoddi Cymhlyg
+- functietheorie
+- Funktionentheorie
+- giải tích phức
+- Karmaşık analiz
+- Kompleks analiz
+- kompleks analyse
+- kompleksa analitiko
+- kompleksianalyysi
+- Kompleksmuutuja funktsioonide teooria
+- kompleksna analiza
+- komplex analys
+- komplex analízis
+- komplexná analýza
+- komplexní analýza
+- Tvinnfallagreining
+- Μιγαδική ανάλυση
+- камплексны аналіз
+- Комплексен анализ
+- Комплекслă анализ
+- Комплекслы анализ
+- комплексна анализа
+- комплексний аналіз
+- комплексный анализ
+- Комплексон анализ
+- համապարփակ վերլուծություն
+- אנליזה מרוכבת
+- آنالیز مختلط
+- تحليل عقدي
+- شیکاریی ئاوێتە
+- सम्मिश्र विश्लेषण
+- জটিল বিশ্লেষণ
+- සංකීර්ණ විශ්ලේෂණය
+- การวิเคราะห์เชิงซ้อน
+- კომპლექსური ანალიზი
+- 复分析
+- 複分析
+- 複素解析
+- 복소해석학
 has_id_wikidata: Q193756
-opposite_of: "[[_Standards/WikiData/WD~real_analysis,854531]]"
+opposite_of: '[[_Standards/WikiData/WD~real_analysis,854531]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Complex_analysis_sidebar,43371497]]"
-part_of: "[[_Standards/WikiData/WD~complex_analysis_in_several_variables,114728138]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Complex_analysis_sidebar,43371497]]'
+part_of: '[[_Standards/WikiData/WD~complex_analysis_in_several_variables,114728138]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gamma%20abs%203D.png
 Commons_category: Complex analysis
 Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html
+dv_has_:
+  name_:
+    ar: تحليل عقدي
+    ast: Analís complexu
+    az: Kompleks analiz
+    ba: Комплекслы анализ
+    be: камплексны аналіз
+    be-tarask: камплексны аналіз
+    bg: Комплексен анализ
+    bn: জটিল বিশ্লেষণ
+    ca: anàlisi complexa
+    ckb: شیکاریی ئاوێتە
+    cs: komplexní analýza
+    cv: Комплекслă анализ
+    cy: Dadansoddi Cymhlyg
+    da: kompleks analyse
+    de: Funktionentheorie
+    el: Μιγαδική ανάλυση
+    en: complex analysis
+    en-us: complex analysis
+    eo: kompleksa analitiko
+    es: análisis complejo
+    et: Kompleksmuutuja funktsioonide teooria
+    eu: analisi konplexu
+    fa: آنالیز مختلط
+    fi: kompleksianalyysi
+    fr: analyse complexe
+    ga: anailís choimpléascach
+    gl: análise complexa
+    he: אנליזה מרוכבת
+    hi: सम्मिश्र विश्लेषण
+    hu: komplex analízis
+    hy: համապարփակ վերլուծություն
+    id: Analisis kompleks
+    is: Tvinnfallagreining
+    it: analisi complessa
+    ja: 複素解析
+    ka: კომპლექსური ანალიზი
+    ko: 복소해석학
+    lmo: anàlisi cumplessa
+    mag: सम्मिश्र विश्लेषण
+    mk: комплексна анализа
+    mt: analisi komplessa
+    nb: kompleks analyse
+    nl: functietheorie
+    nn: kompleks analyse
+    os: Комплексон анализ
+    pl: analiza zespolona
+    pt: análise complexa
+    pt-br: análise complexa
+    ro: analiza complexă
+    ru: комплексный анализ
+    sco: Complex analysis
+    si: සංකීර්ණ විශ්ලේෂණය
+    sk: komplexná analýza
+    sl: kompleksna analiza
+    sq: analiza Komplekse
+    sr: Комплексна анализа
+    sr-ec: комплексна анализа
+    sr-el: kompleksna analiza
+    sv: komplex analys
+    th: การวิเคราะห์เชิงซ้อน
+    tr: Karmaşık analiz
+    tt: комплекслы анализ
+    uk: комплексний аналіз
+    vi: giải tích phức
+    wuu: 复分析
+    xmf: კომპლექსური ანალიზი
+    yue: 複分析
+    zh: 複分析
+    zh-cn: 复分析
+    zh-hans: 复分析
+    zh-hant: 複分析
+    zh-hk: 複分析
+    zh-sg: 复分析
+    zh-tw: 複分析
 ---
-
 # [[Complex_Analysis]] 
 
 #is_/different_from :: [[Real_Analysis]]  

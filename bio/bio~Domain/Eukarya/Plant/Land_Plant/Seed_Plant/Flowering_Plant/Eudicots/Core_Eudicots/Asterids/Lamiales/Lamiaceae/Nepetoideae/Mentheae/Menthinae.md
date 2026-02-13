@@ -1,16 +1,64 @@
 ---
 aliases:
+- Menthinae
+- mētru apakšcilts
+- Nanəkimilər
+- نعناعينة
+- 薄荷亚族
 has_id_wikidata: Q12248709
-taxon_rank: "[[_Standards/WikiData/WD~subtribe,3965313]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subtribe,3965313]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20140829Mentha%20aquatica5.jpg
 UMLS_CUI: C5536233
 Commons_category: Menthinae
 taxon_name: Menthinae
 taxon_common_name: نعناعينة
+dv_has_:
+  name_:
+    an: Menthinae
+    ar: نعناعينة
+    ast: Menthinae
+    az: Nanəkimilər
+    be-tarask: Menthinae
+    bg: Menthinae
+    ca: Menthinae
+    ceb: Menthinae
+    de: Menthinae
+    en: Menthinae
+    eo: Menthinae
+    es: Menthinae
+    eu: Menthinae
+    ext: Menthinae
+    fi: Menthinae
+    fr: Menthinae
+    ga: Menthinae
+    gl: Menthinae
+    hr: Menthinae
+    ia: Menthinae
+    ie: Menthinae
+    io: Menthinae
+    it: Menthinae
+    la: Menthinae
+    lv: mētru apakšcilts
+    mul: Menthinae
+    nl: Menthinae
+    oc: Menthinae
+    pl: Menthinae
+    pt: Menthinae
+    pt-br: Menthinae
+    ro: Menthinae
+    ru: Menthinae
+    sl: Menthinae
+    sq: Menthinae
+    uk: Menthinae
+    vi: Menthinae
+    vo: Menthinae
+    war: Menthinae
+    zh: 薄荷亚族
+    zh-cn: 薄荷亚族
+    zh-hans: 薄荷亚族
 ---
-
 # [[Menthinae]] 
 
 #is_/same_as :: [[WD~Menthinae,12248709]] 

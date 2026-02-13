@@ -1,43 +1,218 @@
 ---
 aliases:
-  - Summer
-  - Sommer
+- aestas
+- Amnan
+- Anbdu
+- Anebdu
+- Arahaku
+- Astati
+- bagan
+- bazara
+- berano
+- branu
+- Cawzhah
+- crisa
+- Estate
+- estiu
+- estive
+- Estæ
+- Esté
+- Fahavaratra
+- geassi
+- giesie
+- giesse
+- giessie
+- Ha-kui
+- Haf
+- hav
+- havîn
+- Hañv
+- Hitüp
+- Hâ-tiĕng
+- Icyi
+- Ihlobo
+- instà
+- Istadiai
+- Istà
+- Istàt
+- Istât
+- Istê
+- jaz
+- Joa̍h-lâng
+- kalgaw
+- Katsirák
+- keesi
+- kesä
+- Keza
+- Kezä
+- kipindi cha kiangazi
+- lalud
+- lato
+- Lete
+- leto
+- ljeto
+- léto
+- lěćo
+- Lěśe
+- Mangsa panas
+- musim panas
+- mùa hạ
+- niijal
+- nipin
+- nyár
+- Panes (masan)
+- Panqara phaxsi
+- poletje
+- Ruphay mit'a
+- sama
+- samhradh
+- Selemo
+- simmer
+- Somer
+- somero
+- sommar
+- Sommer
+- Sourey
+- Staggione
+- sumar
+- Summa
+- summar
+- Summer
+- suvi
+- Sümmer
+- Tag-init
+- tenpo seli
+- Tomus
+- uda
+- vară
+- vasara
+- Vearâ
+- vera
+- verano
+- verán
+- verão
+- Xagaa
+- Xōpantlah
+- Yay
+- yaz
+- Yoz
+- Zhizha
+- Zomer
+- Çулла
+- été
+- Êté
+- ǩieʹss
+- θέρος
+- καλοκαίρι
+- Ахка
+- Аьхке
+- Аҧхын
+- Гад
+- Гожум
+- Гожӧм
+- гужем
+- гъи
+- Гъэмаф
+- Жаз
+- Жай
+- Зун
+- Йәй
+- ке̄ссь
+- кеҥеж
+- Кизось
+- кизэ
+- Кӓнгӹж
+- Літо
+- лета
+- лето
+- Лято
+- лѣто
+- сæрд
+- Сайын
+- тобистон
+- җәй
+- ամառ
+- זומער
+- קיץ
+- اونهارو
+- تابستان
+- تابستون
+- دوبی
+- رؠتہٕ کول
+- صيف
+- موسم گرما
+- موسيم ڤانس
+- ياز
+- ھاوین
+- ہناݪ
+- یای
+- ܩܝܛܐ
+- उन्हाळा
+- गर्मी
+- गृष्म ऋतु
+- ग्रीष्म ऋतु
+- ग्रीष्मः
+- ताल्ला
+- গ্রীষ্ম
+- ਗਰਮੀ
+- ઉનાળો
+- கோடைகாலம்
+- వేసవి కాలం
+- ಬೇಸಿಗೆ
+- ഗ്രീഷ്മം
+- ගිම්හානය
+- ฤดูร้อน
+- ລະດູຮ້ອນ
+- དབྱར་ཁ།
+- နွေရာသီ
+- ზარხული
+- ზაფხული
+- ሞቄ ወቅት
+- ᎪᎨᏱ
+- ᐊᐅᔭᖅ
+- ᱥᱤᱛᱩᱝ ᱨᱤᱛᱩ
+- ⴰⵏⴱⴷⵓ
+- 夏
+- 夏天
+- 夏季
+- 天時熱
+- 여름
 has_id_wikidata: Q1313
 different_from:
-  - "[[_Standards/WikiData/WD~Summer,453350]]"
-  - "[[_Standards/WikiData/WD~Sommer,2380169]]"
+- '[[_Standards/WikiData/WD~Summer,453350]]'
+- '[[_Standards/WikiData/WD~Sommer,2380169]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~recurring_event,15275719]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_event,15275719]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q45972122,45972122]]"
-  - "[[_Standards/WikiData/WD~Q46000958,46000958]]"
-  - "[[_Standards/WikiData/WD~Q46087106,46087106]]"
-  - "[[_Standards/WikiData/WD~Q110303181,110303181]]"
-  - "[[_Standards/WikiData/WD~Q117430557,117430557]]"
-  - "[[_Standards/WikiData/WD~Q118287362,118287362]]"
-  - "[[_Standards/WikiData/WD~Summer,118287421]]"
+- '[[_Standards/WikiData/WD~Q45972122,45972122]]'
+- '[[_Standards/WikiData/WD~Q46000958,46000958]]'
+- '[[_Standards/WikiData/WD~Q46087106,46087106]]'
+- '[[_Standards/WikiData/WD~Q110303181,110303181]]'
+- '[[_Standards/WikiData/WD~Q117430557,117430557]]'
+- '[[_Standards/WikiData/WD~Q118287362,118287362]]'
+- '[[_Standards/WikiData/WD~Summer,118287421]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Q118870978,118870978]]"
-  - "[[_Standards/WikiData/WD~Seasons_Room_Summer,131813185]]"
+- '[[_Standards/WikiData/WD~Q118870978,118870978]]'
+- '[[_Standards/WikiData/WD~Seasons_Room_Summer,131813185]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]"
-  - "[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]"
-opposite_of: "[[_Standards/WikiData/WD~winter,1311]]"
-followed_by: "[[_Standards/WikiData/WD~autumn,1314]]"
-follows: "[[_Standards/WikiData/WD~spring,1312]]"
-subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
+- '[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]'
+- '[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]'
+opposite_of: '[[_Standards/WikiData/WD~winter,1311]]'
+followed_by: '[[_Standards/WikiData/WD~autumn,1314]]'
+follows: '[[_Standards/WikiData/WD~spring,1312]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
 month_of_the_year:
-  - "[[_Standards/WikiData/WD~January,108]]"
-  - "[[_Standards/WikiData/WD~February,109]]"
-  - "[[_Standards/WikiData/WD~August,122]]"
-  - "[[_Standards/WikiData/WD~June,120]]"
-  - "[[_Standards/WikiData/WD~July,121]]"
-  - "[[_Standards/WikiData/WD~December,126]]"
+- '[[_Standards/WikiData/WD~January,108]]'
+- '[[_Standards/WikiData/WD~February,109]]'
+- '[[_Standards/WikiData/WD~August,122]]'
+- '[[_Standards/WikiData/WD~June,120]]'
+- '[[_Standards/WikiData/WD~July,121]]'
+- '[[_Standards/WikiData/WD~December,126]]'
 event_interval: 1
 OmegaWiki_Defined_Meaning: 5848
 hashtag_: summer
@@ -47,33 +222,256 @@ Commons_category: Summer
 Dewey_Decimal_Classification: 508.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Field%20Hamois%20Belgium%20Luc%20Viatour.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Sommer2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q1313-ar.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Sommer2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q1313-ar.ogg
 Colon_Classification: U162
 Iconclass_notation: 23D43
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-estiu-spreadthesign.ogv
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Summer,1313|WD~Summer,1313]]"
-    - "[[/_Standards/Earth/Climate/Season/Summer|Summer]]"
-    - "[[/_public/Earth/Climate/Season/Summer.public|Summer.public]]"
-    - "[[/_internal/Earth/Climate/Season/Summer.internal|Summer.internal]]"
-    - "[[/_protect/Earth/Climate/Season/Summer.protect|Summer.protect]]"
-    - "[[/_private/Earth/Climate/Season/Summer.private|Summer.private]]"
-    - "[[/_personal/Earth/Climate/Season/Summer.personal|Summer.personal]]"
-    - "[[/_secret/Earth/Climate/Season/Summer.secret|Summer.secret]]"
+  - '[[../../../WikiData/WD~Summer,1313|WD~Summer,1313]]'
+  - '[[/_Standards/Earth/Climate/Season/Summer|Summer]]'
+  - '[[/_public/Earth/Climate/Season/Summer.public|Summer.public]]'
+  - '[[/_internal/Earth/Climate/Season/Summer.internal|Summer.internal]]'
+  - '[[/_protect/Earth/Climate/Season/Summer.protect|Summer.protect]]'
+  - '[[/_private/Earth/Climate/Season/Summer.private|Summer.private]]'
+  - '[[/_personal/Earth/Climate/Season/Summer.personal|Summer.personal]]'
+  - '[[/_secret/Earth/Climate/Season/Summer.secret|Summer.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Summer,1313|WD~Summer,1313]]"
-  - "[[/_Standards/Earth/Climate/Season/Summer|Summer]]"
-  - "[[/_public/Earth/Climate/Season/Summer.public|Summer.public]]"
-  - "[[/_internal/Earth/Climate/Season/Summer.internal|Summer.internal]]"
-  - "[[/_protect/Earth/Climate/Season/Summer.protect|Summer.protect]]"
-  - "[[/_private/Earth/Climate/Season/Summer.private|Summer.private]]"
-  - "[[/_personal/Earth/Climate/Season/Summer.personal|Summer.personal]]"
-  - "[[/_secret/Earth/Climate/Season/Summer.secret|Summer.secret]]"
+- '[[../../../WikiData/WD~Summer,1313|WD~Summer,1313]]'
+- '[[/_Standards/Earth/Climate/Season/Summer|Summer]]'
+- '[[/_public/Earth/Climate/Season/Summer.public|Summer.public]]'
+- '[[/_internal/Earth/Climate/Season/Summer.internal|Summer.internal]]'
+- '[[/_protect/Earth/Climate/Season/Summer.protect|Summer.protect]]'
+- '[[/_private/Earth/Climate/Season/Summer.private|Summer.private]]'
+- '[[/_personal/Earth/Climate/Season/Summer.personal|Summer.personal]]'
+- '[[/_secret/Earth/Climate/Season/Summer.secret|Summer.secret]]'
+dv_has_:
+  name_:
+    ab: Аҧхын
+    ady: Гъэмаф
+    aeb-arab: صيف
+    af: Somer
+    am: ሞቄ ወቅት
+    an: Verano
+    ar: صيف
+    arc: ܩܝܛܐ
+    ary: صيف
+    arz: صيف
+    ast: Branu
+    atj: nipin
+    ay: Panqara phaxsi
+    az: Yay
+    azb: یای
+    ba: Йәй
+    ban: Panes (masan)
+    bar: Summa
+    bcl: Tag-init
+    be: лета
+    be-tarask: лета
+    bg: Лято
+    bho: गर्मी
+    bjn: Musim panas
+    bn: গ্রীষ্ম
+    bo: དབྱར་ཁ།
+    br: Hañv
+    bs: Ljeto
+    ca: estiu
+    cdo: Hâ-tiĕng
+    ce: Аьхке
+    chr: ᎪᎨᏱ
+    ckb: ھاوین
+    cr: Nipin
+    cs: léto
+    csb: Lato
+    cu: лѣто
+    cv: Çулла
+    cy: Haf
+    da: sommer
+    de: Sommer
+    de-ch: Sommer
+    diq: Amnan
+    dsb: Lěśe
+    dty: गृष्म ऋतु
+    el: καλοκαίρι
+    eml: Istê
+    en: summer
+    en-ca: Summer
+    en-gb: summer
+    eo: somero
+    es: verano
+    et: suvi
+    eu: uda
+    ext: branu
+    fa: تابستان
+    fi: kesä
+    fo: summar
+    fr: été
+    frr: Somer
+    fur: Istât
+    fy: Simmer
+    ga: samhradh
+    gd: samhradh
+    gl: verán
+    gn: Arahaku
+    grc: θέρος
+    gsw: Sommer
+    gu: ઉનાળો
+    gv: Sourey
+    ha: bazara
+    hak: Ha-kui
+    he: קיץ
+    hi: ग्रीष्म ऋतु
+    hr: ljeto
+    hsb: lěćo
+    ht: Lete
+    hu: nyár
+    hy: ամառ
+    hyw: ամառ
+    ia: Estate
+    id: musim panas
+    ie: estive
+    ilo: kalgaw
+    inh: Ахка
+    io: somero
+    is: sumar
+    it: estate
+    iu: ᐊᐅᔭᖅ
+    ja: 夏
+    jbo: crisa
+    jv: Mangsa panas
+    ka: ზაფხული
+    kaa: jaz
+    kab: Anebdu
+    kk: Жаз
+    kn: ಬೇಸಿಗೆ
+    ko: 여름
+    koi: Гожум
+    ks: رؠتہٕ کول
+    ksh: Sommer
+    ku: havîn
+    ku-latn: havîn
+    kv: Гожӧм
+    kw: hav
+    ky: Жай
+    la: aestas
+    lb: Summer
+    lbe: гъи
+    lez: Гад
+    lij: Estæ
+    lld: instà
+    lmo: Istàt
+    lo: ລະດູຮ້ອນ
+    lt: vasara
+    lv: vasara
+    lzh: 夏
+    mdf: Кизось
+    mg: Fahavaratra
+    mhr: кеҥеж
+    mk: лето
+    ml: ഗ്രീഷ്മം
+    mn: Зун
+    mr: उन्हाळा
+    mrj: Кӓнгӹж
+    ms: musim panas
+    ms-arab: موسيم ڤانس
+    my: နွေရာသီ
+    myv: кизэ
+    mzn: تابستون
+    nah: Xōpantlah
+    nan: Joa̍h-lâng
+    nap: Staggione
+    nb: sommer
+    nds: Sümmer
+    nds-nl: summer
+    ne: गृष्म ऋतु
+    new: ताल्ला
+    nl: zomer
+    nn: sommar
+    nrm: Êté
+    oc: estiu
+    olo: Kezä
+    os: сæрд
+    pa: ਗਰਮੀ
+    pap: berano
+    pih: sama
+    pl: lato
+    pnb: ہناݪ
+    ps: دوبی
+    pt: verão
+    pt-br: Verão
+    qu: Ruphay mit'a
+    rmf: niijal
+    ro: vară
+    ru: лето
+    rue: Літо
+    rup: Vearâ
+    rw: Icyi
+    sa: ग्रीष्मः
+    sah: Сайын
+    sat: ᱥᱤᱛᱩᱝ ᱨᱤᱛᱩ
+    sc: Istadiai
+    scn: Astati
+    sco: simmer
+    sd: اونهارو
+    se: geassi
+    sgs: Vasara
+    sh: ljeto
+    shi: Anbdu
+    si: ගිම්හානය
+    sjd: ке̄ссь
+    sje: giesse
+    sju: giessie
+    sk: leto
+    sl: poletje
+    sma: giesie
+    smj: giesse
+    smn: keesi
+    sms: ǩieʹss
+    sn: Zhizha
+    so: Xagaa
+    sq: vera
+    sr: лето
+    sr-ec: Лето
+    sv: sommar
+    sw: kipindi cha kiangazi
+    szl: lato
+    szy: lalud
+    ta: கோடைகாலம்
+    tay: bagan
+    te: వేసవి కాలం
+    tg: тобистон
+    th: ฤดูร้อน
+    tk: Tomus
+    tl: Tag-init
+    tn: Selemo
+    tok: tenpo seli
+    tr: yaz
+    tt: җәй
+    udm: гужем
+    ug: ياز
+    uk: літо
+    ur: موسم گرما
+    uz: Yoz
+    vec: Istà
+    vep: Keza
+    vi: mùa hạ
+    vls: Zomer
+    vo: Hitüp
+    vro: Suvi
+    wa: Esté
+    war: Katsirák
+    wuu: 夏天
+    xal: Зун
+    xmf: ზარხული
+    yi: זומער
+    yue: 天時熱
+    za: Cawzhah
+    zgh: ⴰⵏⴱⴷⵓ
+    zh: 夏季
+    zh-hant: 夏季
+    zu: Ihlobo
 ---
-
-
 # [[Summer]]
 
 #is_/same_as :: [[../../../WikiData/WD~Summer,1313|WD~Summer,1313]] 

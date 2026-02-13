@@ -1,19 +1,34 @@
 ---
 aliases:
-  - Rasmus Lerdorf
-  - Lerdorf
-  - Rasmus_Lerdorf
-  - Lerdorf,Rasmus
+- Lerdorf
+- Lerdorf,Rasmus
+- Rasmus Lerdorf
+- Rasmuss Lerdorfs
+- Rasmus_Lerdorf
+- Размус Лердорф
+- Расмус Лердорф
+- רזמוס לרדורף
+- راسموس لردورف
+- راسموس ليردورف
+- रेसमुस लेर्दोर्फ
+- রাসমুস লার্ডফ
+- ਰਾਸਮਸ ਲਰਡੋਰਫ
+- ரஸ்மஸ் லெர்டெர்ஃப்
+- റാസ്മസ് ലെർഡോഫ്
+- รัสมุส เลียร์ตอร์ฟ
+- ラスマス・ラードフ
+- 拉斯姆斯·勒多夫
+- 라스무스 러도프
 has_id_wikidata: Q92768
 occupation: '[[_Standards/WikiData/WD~computer_scientist,82594]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
 place_of_birth: '[[_Standards/WikiData/WD~Qeqertarsuaq,847668]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Waterloo,1049470]]'
-  - '[[_Standards/WikiData/WD~King_City_Secondary_School,5267276]]'
+- '[[_Standards/WikiData/WD~University_of_Waterloo,1049470]]'
+- '[[_Standards/WikiData/WD~King_City_Secondary_School,5267276]]'
 employer:
-  - '[[_Standards/WikiData/WD~Etsy,1353939]]'
-  - '[[_Standards/WikiData/WD~Q37093,37093]]'
+- '[[_Standards/WikiData/WD~Etsy,1353939]]'
+- '[[_Standards/WikiData/WD~Q37093,37093]]'
 given_name: '[[_Standards/WikiData/WD~Rasmus,1785744]]'
 field_of_work: '[[_Standards/WikiData/WD~programmer,5482740]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -30,8 +45,76 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rasmus%20Lerdorf%20Aug
 official_website: https://toys.lerdorf.com/
 ISNI: 0000000117881471
 Mastodon_address: rasmus@phpc.social
+dv_has_:
+  name_:
+    ar: راسموس ليردورف
+    arz: راسموس ليردورف
+    ast: Rasmus Lerdorf
+    az: Rasmus Lerdorf
+    bg: Размус Лердорф
+    bn: রাসমুস লার্ডফ
+    ca: Rasmus Lerdorf
+    cs: Rasmus Lerdorf
+    da: Rasmus Lerdorf
+    de: Rasmus Lerdorf
+    en: Rasmus Lerdorf
+    eo: Rasmus Lerdorf
+    es: Rasmus Lerdorf
+    fa: راسموس لردورف
+    fi: Rasmus Lerdorf
+    fo: Rasmus Lerdorf
+    fr: Rasmus Lerdorf
+    ga: Rasmus Lerdorf
+    gl: Rasmus Lerdorf
+    he: רזמוס לרדורף
+    hi: रेसमुस लेर्दोर्फ
+    hr: Rasmus Lerdorf
+    ht: Rasmus Lerdorf
+    hu: Rasmus Lerdorf
+    id: Rasmus Lerdorf
+    is: Rasmus Lerdorf
+    it: Rasmus Lerdorf
+    ja: ラスマス・ラードフ
+    ko: 라스무스 러도프
+    lfn: Rasmus Lerdorf
+    lv: Rasmuss Lerdorfs
+    mg: Rasmus Lerdorf
+    ml: റാസ്മസ് ലെർഡോഫ്
+    ms: Rasmus Lerdorf
+    nb: Rasmus Lerdorf
+    nl: Rasmus Lerdorf
+    nn: Rasmus Lerdorf
+    oc: Rasmus Lerdorf
+    pa: ਰਾਸਮਸ ਲਰਡੋਰਫ
+    pl: Rasmus Lerdorf
+    pt: Rasmus Lerdorf
+    pt-br: Rasmus Lerdorf
+    ro: Rasmus Lerdorf
+    ru: Расмус Лердорф
+    se: Rasmus Lerdorf
+    sje: Rasmus Lerdorf
+    sk: Rasmus Lerdorf
+    sl: Rasmus Lerdorf
+    sma: Rasmus Lerdorf
+    smj: Rasmus Lerdorf
+    sq: Rasmus Lerdorf
+    sr: Расмус Лердорф
+    sr-ec: Расмус Лердорф
+    sr-el: Rasmus Lerdorf
+    sv: Rasmus Lerdorf
+    sw: Rasmus Lerdorf
+    ta: ரஸ்மஸ் லெர்டெர்ஃப்
+    th: รัสมุส เลียร์ตอร์ฟ
+    tr: Rasmus Lerdorf
+    uk: Расмус Лердорф
+    zh: 拉斯姆斯·勒多夫
+    zh-cn: 拉斯姆斯·勒多夫
+    zh-hans: 拉斯姆斯·勒多夫
+    zh-hant: 拉斯姆斯·勒多夫
+    zh-hk: 拉斯姆斯·勒多夫
+    zh-sg: 拉斯姆斯·勒多夫
+    zh-tw: 拉斯姆斯·勒多夫
 ---
-
 # [[Lerdorf,Rasmus]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Rasmus_Lerdorf,92768]]

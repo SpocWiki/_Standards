@@ -1,8 +1,59 @@
 ---
 aliases:
-  - axial vector
-  - Pseudo-Vector
+- axial vector
+- axiální vektor
+- axiálvektor
+- giả vector
+- pseidovektors
+- Pseudo-Vector
+- pseudovecteur
+- pseudovector
+- Pseudovektor
+- pseudovektori
+- pseudovettore
+- pseudowektor
+- psevdovektor
+- vector axial
+- аксиальный вектор
+- псевдовектор
+- וקטור אקסיאלי
+- شبه بردار
+- شبيه متجه
+- भादिश
+- ছদ্মভেক্টর
+- 擬ベクトル
+- 赝矢量
+- 유사벡터
 has_id_wikidata: Q621476
+dv_has_:
+  name_:
+    ar: شبيه متجه
+    bn: ছদ্মভেক্টর
+    ca: pseudovector
+    cs: axiální vektor
+    cv: псевдовектор
+    de: Pseudovektor
+    en: pseudovector
+    es: vector axial
+    fa: شبه بردار
+    fi: pseudovektori
+    fr: pseudovecteur
+    he: וקטור אקסיאלי
+    hu: axiálvektor
+    it: pseudovettore
+    ja: 擬ベクトル
+    ko: 유사벡터
+    lv: pseidovektors
+    mr: भादिश
+    nl: pseudovector
+    pl: pseudowektor
+    ru: аксиальный вектор
+    sl: psevdovektor
+    sv: pseudovektor
+    uk: псевдовектор
+    vi: giả vector
+    zh: 赝矢量
+    zh-cn: 赝矢量
 ---
 # [[Pseudo-Vector]] 
 

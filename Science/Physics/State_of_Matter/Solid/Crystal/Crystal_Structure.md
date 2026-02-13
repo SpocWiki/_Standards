@@ -1,21 +1,160 @@
 ---
 aliases:
-  - Kristallstruktur
-  - Crystal_Structure
-  - Crystal Structure
+- creestal structur
+- criostalstruchtúr
+- Crystal Structure
+- Crystal_Structure
+- cấu trúc tinh thể
+- Estrikti kristalen
+- Estructura cristalina
+- Estructura cristallina
+- estructura cristal·lina
+- estrutura cristalina
+- Istruktura ng kristal
+- kiderakenne
+- krilysu'a
+- Kristal yapı
+- Kristal-egitura
+- kristala strukturo
+- Kristalala strukturo
+- Kristall panjara
+- Kristallstruktur
+- kristallstruktuur
+- kristalna rešetka
+- Kristalna struktura
+- kristalstructuur
+- Kristalstruktuur
+- kristályszerkezet
+- kristāliskā struktūra
+- krystalická struktura
+- krystallstruktur
+- krystalstruktur
+- sieć krystaliczna
+- structure cristalline
+- structură cristalină
+- struktur hablur
+- Struktur kristal
+- strukturë kristalore
+- struttura cristallina
+- strutura cristałina
+- Strwythur crisial
+- κρυσταλλική δομή
+- Болрын бүтэц
+- кристалічна структура
+- Кристалла тытăм
+- кристаллическая структура
+- кристална решетка
+- кристална структура
+- крышталічная структура
+- Բյուրեղային կառուցվածք
+- מבנה גבישי
+- بنية بلورية
+- ساختار بلوری
+- ستروکتور هبلور
+- قلمی ساخت
+- پەیکەری بلووری
+- کریستال قورولوشو
+- কেলাসাকার গঠন
+- ਕਰਿਸਟਲ ਬਣਤਰ
+- படிக அமைப்பு
+- ക്രിസ്റ്റൽ ഘടന
+- โครงสร้างผลึก
+- კრისტალური სტრუქტურა
+- 晶体结构
+- 晶體結構
+- 結晶構造
+- 결정 구조
 has_id_wikidata: Q895901
-different_from: "[[_Standards/WikiData/WD~crystallins,2992167]]"
-subclass_of: "[[_Standards/WikiData/WD~structure,6671777]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q21334542,21334542]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+different_from: '[[_Standards/WikiData/WD~crystallins,2992167]]'
+subclass_of: '[[_Standards/WikiData/WD~structure,6671777]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q21334542,21334542]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 properties_for_this_type: Hermann-Mauguin notation
-characteristic_of: "[[_Standards/WikiData/WD~crystal,43533]]"
+characteristic_of: '[[_Standards/WikiData/WD~crystal,43533]]'
 Commons_category: Crystal structures
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaCl-Ionengitter.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-structure%20cristalline.ogg
+dv_has_:
+  name_:
+    af: Kristalstruktuur
+    an: Estructura cristalina
+    ar: بنية بلورية
+    ast: Estructura cristalina
+    azb: کریستال قورولوشو
+    be-tarask: крышталічная структура
+    bg: Кристална структура
+    bn: কেলাসাকার গঠন
+    bs: Kristalna struktura
+    ca: estructura cristal·lina
+    ckb: پەیکەری بلووری
+    cs: krystalická struktura
+    cv: Кристалла тытăм
+    cy: Strwythur crisial
+    da: krystalstruktur
+    de: Kristallstruktur
+    el: κρυσταλλική δομή
+    en: crystal structure
+    eo: kristala strukturo
+    es: estructura cristalina
+    et: kristallstruktuur
+    eu: Kristal-egitura
+    fa: ساختار بلوری
+    fi: kiderakenne
+    fr: structure cristalline
+    ga: criostalstruchtúr
+    gl: estrutura cristalina
+    he: מבנה גבישי
+    hr: kristalna rešetka
+    ht: Estrikti kristalen
+    hu: kristályszerkezet
+    hy: Բյուրեղային կառուցվածք
+    id: Struktur kristal
+    io: Kristalala strukturo
+    it: struttura cristallina
+    ja: 結晶構造
+    jbo: krilysu'a
+    ka: კრისტალური სტრუქტურა
+    ko: 결정 구조
+    lv: kristāliskā struktūra
+    mk: кристална решетка
+    ml: ക്രിസ്റ്റൽ ഘടന
+    mn: Болрын бүтэц
+    ms: struktur hablur
+    ms-arab: ستروکتور هبلور
+    nb: krystallstruktur
+    nl: kristalstructuur
+    nn: krystallstruktur
+    oc: Estructura cristallina
+    pa: ਕਰਿਸਟਲ ਬਣਤਰ
+    pl: sieć krystaliczna
+    pt: estrutura cristalina
+    ro: structură cristalină
+    ru: кристаллическая структура
+    sco: creestal structur
+    sh: Kristalna struktura
+    sl: kristalna struktura
+    sq: strukturë kristalore
+    sr: кристална структура
+    sr-ec: кристална структура
+    sr-el: kristalna struktura
+    sv: kristallstruktur
+    ta: படிக அமைப்பு
+    th: โครงสร้างผลึก
+    tl: Istruktura ng kristal
+    tr: Kristal yapı
+    uk: кристалічна структура
+    ur: قلمی ساخت
+    uz: Kristall panjara
+    vec: strutura cristałina
+    vi: cấu trúc tinh thể
+    wuu: 晶体结构
+    yue: 晶體結構
+    zh: 晶体结构
+    zh-hans: 晶体结构
+    zh-hant: 晶體結構
+    zh-hk: 晶體結構
 ---
-
 # [[Crystal_Structure]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Crystal_structure,895901|WD~Crystal_structure,895901]] 

@@ -1,30 +1,159 @@
 ---
-has_time_started: 1884-01-01 
+has_time_started: 1884-01-01
 aliases:
+- cafea expressa
+- caffè espresso
+- cafè espress
+- cafè exprés
+- café espreso
+- café expreso
+- café expresso
+- café exprés
+- espresas
+- espreso
+- espresso
+- espressó
+- expresso
+- kafe espres
+- presszókávé
+- εσπρέσο
+- еспресо
+- эспрессо
+- эспрэса
+- էսպրեսո
+- אספרסו
+- ئەسپرەسسو
+- اسپرسو
+- قهوة إسبريسو
+- قهوة اسبريسو
+- ەسپرەسسو
+- एस्प्रेसो
+- ਐਸਪ੍ਰੈਸੋ
+- เอสเปรสโซ
+- ເອສເປຣສໂຊ
+- ესპრესო
+- エスプレッソ
+- 浓缩咖啡
+- 濃縮咖啡
+- 特濃咖啡
+- ꯑꯦꯁ꯭ꯞꯔꯦꯁꯣ꯫
+- 에스프레소
+- 에스프렛쏘
 has_id_wikidata: Q180289
-part_of: "[[_Standards/WikiData/WD~caffè_con_panna,70408]]"
-made_from_material: "[[_Standards/WikiData/WD~coffee_bean,153697]]"
-has_part_s_: "[[_Standards/WikiData/WD~caffè_crema,1139549]]"
-uses: "[[_Standards/WikiData/WD~espresso_machine,1210743]]"
-subclass_of: "[[_Standards/WikiData/WD~caffè,17075804]]"
-different_from: "[[_Standards/WikiData/WD~moka_pot_brew,91466557]]"
+part_of: '[[_Standards/WikiData/WD~caffè_con_panna,70408]]'
+made_from_material: '[[_Standards/WikiData/WD~coffee_bean,153697]]'
+has_part_s_: '[[_Standards/WikiData/WD~caffè_crema,1139549]]'
+uses: '[[_Standards/WikiData/WD~espresso_machine,1210743]]'
+subclass_of: '[[_Standards/WikiData/WD~caffè,17075804]]'
+different_from: '[[_Standards/WikiData/WD~moka_pot_brew,91466557]]'
 inception: 1884-01-01T00:00:00Z
-ancestral_home: "[[_Standards/WikiData/WD~Milan,490]]"
+ancestral_home: '[[_Standards/WikiData/WD~Milan,490]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 country:
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 Commons_category: Espresso
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Espresso%20BW%201.jpg
 subreddit: espresso
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Espresso%20video.ogv
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/07920052-n
-  - http://wordnet-rdf.princeton.edu/wn31/107850947-n
+- http://wordnet-rdf.princeton.edu/wn30/07920052-n
+- http://wordnet-rdf.princeton.edu/wn31/107850947-n
+dv_has_:
+  name_:
+    af: espresso
+    an: café exprés
+    ar: قهوة إسبريسو
+    arz: قهوة اسبريسو
+    ast: café espreso
+    az: espresso
+    be: эспрэса
+    be-tarask: эспрэса
+    bg: еспресо
+    bs: espresso
+    ca: cafè exprés
+    cs: espresso
+    cy: espresso
+    da: espresso
+    de: Espresso
+    de-ch: Espresso
+    el: εσπρέσο
+    en: espresso
+    en-ca: espresso
+    en-gb: espresso
+    eo: espreso
+    es: café expreso
+    et: espresso
+    eu: kafe espres
+    fa: اسپرسو
+    fi: espresso
+    fr: expresso
+    gl: café expreso
+    he: אספרסו
+    hi: एस्प्रेसो
+    hr: espresso
+    hu: presszókávé
+    hy: էսպրեսո
+    ia: espresso
+    id: espresso
+    is: espressó
+    it: caffè espresso
+    ja: エスプレッソ
+    jv: espreso
+    ka: ესპრესო
+    kk: эспрессо
+    kk-arab: ەسپرەسسو
+    kk-cn: ەسپرەسسو
+    kk-cyrl: эспрессо
+    kk-kz: эспрессо
+    kk-latn: espresso
+    kk-tr: espresso
+    ko: 에스프레소
+    ko-kp: 에스프렛쏘
+    la: cafea expressa
+    lmo: cafè espress
+    lo: ເອສເປຣສໂຊ
+    lt: espresas
+    lv: espreso
+    mk: еспресо
+    mn: эспрессо
+    mni: ꯑꯦꯁ꯭ꯞꯔꯦꯁꯣ꯫
+    ms: espresso
+    nan: espresso
+    nb: espresso
+    nl: espresso
+    nn: espresso
+    pa: ਐਸਪ੍ਰੈਸੋ
+    pap: espresso
+    pl: espresso
+    pt: café expresso
+    pt-br: café expresso
+    ro: espresso
+    ru: эспрессо
+    sk: espreso
+    sl: espreso
+    sr: espreso
+    sv: espresso
+    th: เอสเปรสโซ
+    tl: espresso
+    tr: espresso
+    ug: ئەسپرەسسو
+    uk: еспресо
+    ur: اسپرسو
+    uz: espresso
+    vi: espresso
+    wuu: 浓缩咖啡
+    yue: 特濃咖啡
+    zh: 濃縮咖啡
+    zh-cn: 浓缩咖啡
+    zh-hans: 浓缩咖啡
+    zh-hant: 濃縮咖啡
+    zh-hk: 特濃咖啡
+    zh-sg: 浓缩咖啡
+    zh-tw: 濃縮咖啡
 ---
-
 # [[Espresso]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Espresso,180289|WD~Espresso,180289]] 

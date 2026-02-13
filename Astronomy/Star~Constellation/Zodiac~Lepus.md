@@ -1,33 +1,98 @@
 ---
 aliases:
-  - Hase
-  - Lepus
-  - Zodiac~Lepus
+- an Giorria
+- Arinabu (kundinyota)
+- Arnab
+- Arwêş
+- Dovşan
+- Gad
+- Gwiazdozbiór Zająca
+- Haas
+- Haas (stäärbil)
+- Haren
+- Hase
+- Hérinn
+- Iepurele
+- Jänes
+- Jänis
+- Kiškis
+- Leporo
+- Lepre
+- Lepus
+- Lepus (konstelazioa)
+- Lepus (ranneves)
+- Lepus (rasi bintang)
+- Lepus (ìgwè kpakpando)
+- Lièvoro
+- Lièvre
+- Llebre
+- Nyúl csillagkép
+- Quyon
+- Thian-thò͘-chō
+- Thiên Thố
+- Thiên-thu-chho
+- Tiĕng-tó-cô̤
+- y Mwaagh
+- Zajac
+- Zajec
+- Zajíc
+- Zaķis
+- Zec
+- Zodiac~Lepus
+- Λαγωός
+- Арнаб
+- Заєць
+- Зајак
+- Заек
+- Заяц
+- Зец
+- Куобах
+- Куян йолдызлыгы
+- Лудкеч
+- Қоян (шоқжұлдыз)
+- Ҡуян
+- Նապաստակ
+- ארנבת
+- الأرنب
+- خرگوش
+- ليپوس (كوكبه)
+- ख़रगोश तारामंडल
+- শশক মণ্ডল
+- ਖ਼ਰਗੋਸ਼ ਤਾਰਾਮੰਡਲ
+- മുയൽ
+- กลุ่มดาวกระต่ายป่า
+- རི་བོང་སྐར་ཚོམ་
+- လီပက်စ်
+- လီပက်စ် (ကြယ်စုတန်း)
+- კურდღლის თანავარსკვლავედი
+- うさぎ座
+- 天兔座
+- 토끼자리
 has_id_wikidata: Q10446
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Lepus,105297768]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Lepus,105297768]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10730293,10730293]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Lepus,10766540]]"
+- '[[_Standards/WikiData/WD~Q10730293,10730293]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Lepus,10766540]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Orion,8860]]"
-  - "[[_Standards/WikiData/WD~Columba,10425]]"
-  - "[[_Standards/WikiData/WD~Monoceros,10428]]"
-  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
-  - "[[_Standards/WikiData/WD~Caelum,10488]]"
-  - "[[_Standards/WikiData/WD~Canis_Major,10538]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Orion,8860]]'
+- '[[_Standards/WikiData/WD~Columba,10425]]'
+- '[[_Standards/WikiData/WD~Monoceros,10428]]'
+- '[[_Standards/WikiData/WD~Eridanus,10433]]'
+- '[[_Standards/WikiData/WD~Caelum,10488]]'
+- '[[_Standards/WikiData/WD~Canis_Major,10538]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 290
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lepus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lepus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -39,34 +104,121 @@ official_name: Lepus
 dv_SpocWebEntityId: 28130
 dv_has_:
   name_:
+    af: Haas
+    ar: الأرنب
+    arz: ليپوس (كوكبه)
+    az: Dovşan
+    ba: Ҡуян
+    be: Заяц
+    be-tarask: Заяц
+    bg: Заек
+    bn: শশক মণ্ডল
+    bo: རི་བོང་སྐར་ཚོམ་
+    br: Gad
+    bs: Zec
+    ca: Llebre
+    cdo: Tiĕng-tó-cô̤
+    co: Lepus
+    cs: Zajíc
+    cy: Lepus
+    da: Haren
+    de: Hase
+    diq: Arwêş
+    el: Λαγωός
+    en: Lepus
+    eo: Leporo
+    es: Lepus
+    et: Jänes
+    eu: Lepus (konstelazioa)
+    fa: خرگوش
+    fi: Jänis
+    fr: Lièvre
+    frr: Haas (stäärbil)
+    ga: an Giorria
+    gl: Lepus
+    gv: y Mwaagh
+    hak: Thiên-thu-chho
+    he: ארנבת
+    hi: ख़रगोश तारामंडल
+    hr: Zec
+    hu: Nyúl csillagkép
+    hy: Նապաստակ
+    id: Lepus (rasi bintang)
+    ig: Lepus (ìgwè kpakpando)
+    is: Hérinn
+    it: Lepre
+    ja: うさぎ座
+    jv: Lepus
+    ka: კურდღლის თანავარსკვლავედი
+    kk: Қоян (шоқжұлдыз)
+    ko: 토끼자리
+    kw: Lepus (ranneves)
     la: Lepus
     la_:
       genitive: Leporis
-    de: Hase
+    lb: Lepus
+    lt: Kiškis
+    lv: Zaķis
+    mk: Зајак
+    ml: മുയൽ
+    ms: Arnab
+    my: လီပက်စ် (ကြယ်စုတန်း)
+    nan: Thian-thò͘-chō
+    nb: Haren
+    nds: Haas
+    nl: Haas
+    nn: Haren
+    pa: ਖ਼ਰਗੋਸ਼ ਤਾਰਾਮੰਡਲ
+    pl: Gwiazdozbiór Zająca
+    pt: Lepus
+    rki: လီပက်စ်
+    ro: Iepurele
+    ru: Заяц
+    sah: Куобах
+    sh: Zec
+    sk: Zajac
+    sl: Zajec
+    sr: Зец
+    sv: Haren
+    sw: Arinabu (kundinyota)
+    tg: Арнаб
+    th: กลุ่มดาวกระต่ายป่า
+    tr: Lepus
+    tt: Куян йолдызлыгы
+    udm: Лудкеч
+    uk: Заєць
+    ur: خرگوش
+    uz: Quyon
+    vec: Lièvoro
+    vi: Thiên Thố
+    war: Lepus
+    wuu: 天兔座
+    yue: 天兔座
+    zh: 天兔座
+    zh-hant: 天兔座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lepus|Zodiac~Lepus]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lepus.public|Zodiac~Lepus.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lepus.internal|Zodiac~Lepus.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lepus.protect|Zodiac~Lepus.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lepus.private|Zodiac~Lepus.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lepus.personal|Zodiac~Lepus.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lepus.secret|Zodiac~Lepus.secret]]"
+  - '[[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lepus|Zodiac~Lepus]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Lepus.public|Zodiac~Lepus.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Lepus.internal|Zodiac~Lepus.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Lepus.protect|Zodiac~Lepus.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Lepus.private|Zodiac~Lepus.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Lepus.personal|Zodiac~Lepus.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Lepus.secret|Zodiac~Lepus.secret]]'
 dv_has_name_la: Lepus
 dv_has_name_la_genitive: Leporis
 dv_has_name_de: Hase
 dv_is_same_as:
-  - "[[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lepus|Zodiac~Lepus]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lepus.public|Zodiac~Lepus.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lepus.internal|Zodiac~Lepus.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lepus.protect|Zodiac~Lepus.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lepus.private|Zodiac~Lepus.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lepus.personal|Zodiac~Lepus.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lepus.secret|Zodiac~Lepus.secret]]"
+- '[[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lepus|Zodiac~Lepus]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Lepus.public|Zodiac~Lepus.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Lepus.internal|Zodiac~Lepus.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Lepus.protect|Zodiac~Lepus.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Lepus.private|Zodiac~Lepus.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Lepus.personal|Zodiac~Lepus.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Lepus.secret|Zodiac~Lepus.secret]]'
 ---
-
 # [[Zodiac~Lepus]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId`  

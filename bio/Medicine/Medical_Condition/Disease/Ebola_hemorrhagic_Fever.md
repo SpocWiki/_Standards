@@ -1,82 +1,186 @@
 ---
 aliases:
-  - Ebola
-  - Ebola virus disease
-  - Ebola hemorrhagic fever
-  - Ebola_hemorrhagic_Fever
-  - Ebola hemorrhagic Fever
+- Bokono ya Ebola
+- Boloetse ba kokwanahloko ya Ebola
+- Bolwetse jwa mogare wa Ebola
+- Bolwetši bja baerase ya Ebola
+- Bệnh virus Ebola
+- Chirwere cheEbola
+- clefyd firaol Ebola
+- Cudurka Ebola
+- Dhibbee vaayiirasii Iboollaa
+- Ebola
+- Ebola birus
+- Ebola dɔlele
+- Ebola febris haemorrhagica
+- Ebola gemorragik isitmasi
+- Ebola hemorrhagic fever
+- Ebola viirushaigus
+- Ebola virisi bana
+- Ebola virus disease
+- Ebola virusi
+- Ebola virusna bolest
+- Ebola virusu xəstəliyi
+- Ebola yare
+- Ebolafieber
+- Ebolafiiber
+- Ebolas vīrusslimība
+- ebolavirussjukdom
+- Ebola_hemorrhagic_Fever
+- ebolo
+- Ebuola
+- Ebuɔla
+- Ebóla
+- Eeboolaa
+- ekirwadde ky’ebola
+- endwara ya Ebola
+- Enfermedá pol virus del Ébola
+- Evola virusmanta unquyqa
+- febra hemoragică Ebola
+- febre hemorràgica de l'Ebola
+- Five Ebola
+- fièvre hémorragique Ebola
+- gorączka krwotoczna Ebola
+- Indwara ya Ebola
+- Ingwara iterwa n’umugera wa Ebola
+- Isifo segciwane le-Ebola
+- Isifo sentsholongwane i-Ebola
+- Jàngoroy Ebola
+- Ligciwane lesifo se-Ebola
+- Maladi viris Ebola
+- Matenda a Ebola
+- Nje ọrịa Ebola
+- Panyakit ebola
+- Panyakit virus ébola
+- Sakit na Ebola
+- Sakit nga Ebola
+- Ubulwelwe be-Ebola
+- Vhulwadze ha Vairasi ya Ebola
+- Xitsongwatsongwana xa vuvabyi bya Ebola
+- Àrùn kòkòrò àìlèfojúrí afàìsàn Ebola
+- èboła
+- Ébola
+- Ébola víru mba'asy
+- Ƙwayoyin cuta na Ebola
+- Ασθένεια ιού Έμπολα
+- болезнь, вызванная вирусом Эбола
+- Гемарагічная ліхаманка Эбола
+- ебола
+- хвороба, яку спричинює вірус Ебола
+- Эбола
+- Эбола ауруы
+- Эбола бизгәге
+- Эбола вирусай үбшэн
+- Эбола вирустаах ыарыыта
+- Էբոլա վիրուսային հիվանդություն
+- Իպոլա (ժահրային հիւանդութիւն)
+- מחלת אבולה
+- ئېبولا ۋىرۇسى
+- ایبولا
+- ایبولا ناروغۍ
+- ایبولا وائرس بیماری
+- مرض فيروس إيبولا
+- مرض فيروس ايبولا
+- نەخۆشیی ئێبۆلا
+- ویروس ابولا
+- इबोला
+- इबोला रक्तस्रावी बुखार
+- इबोला विषाणू रोग
+- ইবোলা ভাইরাসজনিত রোগ
+- ইব’লা ভাইৰাছজনিত ৰোগ
+- ਇਬੋਲਾ ਵਿਸ਼ਾਣੂ ਰੋਗ
+- ଇବୋଲା ଭୂତାଣୁ ରୋଗ
+- எபோலா தீநுண்ம நோய்
+- ఎబోలా
+- ಎಬೊಲ ವೈರಸ್ ಕಾಯಿಲೆ
+- ಎಬೊಲ ವೈರಸ್ ಸೀಕು
+- എബോള
+- ඉබූලා වෛරස් රෝගය
+- อีโบลา
+- ອີໂບລາ
+- အီဗိုလာ ဗိုင်းရပ်စ်
+- အီဗိုလာဗိုင်းရပ်စ်
+- ებოლა
+- ሕማም ቫይረስ ኢቦላ
+- ኢቦላ
+- ជំងឺអ៊ីបូឡា
+- エボラ出血熱
+- 伊波拉
+- 伊波拉出血熱
+- 埃博拉出血热
+- 에볼라 출혈열
 has_id_wikidata: Q51993
 possible_treatment:
-  - '[[_Standards/WikiData/WD~blood_plasma,79749]]'
-  - '[[_Standards/WikiData/WD~analgesic,173235]]'
-  - '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
-  - '[[_Standards/WikiData/WD~hydration,356243]]'
-  - '[[_Standards/WikiData/WD~antipyretic,582687]]'
-  - '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
-  - '[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]'
+- '[[_Standards/WikiData/WD~blood_plasma,79749]]'
+- '[[_Standards/WikiData/WD~analgesic,173235]]'
+- '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
+- '[[_Standards/WikiData/WD~hydration,356243]]'
+- '[[_Standards/WikiData/WD~antipyretic,582687]]'
+- '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
+- '[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~poisoning,114953]]'
-  - '[[_Standards/WikiData/WD~vomiting,127076]]'
-  - '[[_Standards/WikiData/WD~bleeding,166019]]'
-  - '[[_Standards/WikiData/WD~conjunctivitis,167844]]'
-  - '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
-  - '[[_Standards/WikiData/WD~nausea,186889]]'
-  - '[[_Standards/WikiData/WD~dyspnea,188008]]'
-  - '[[_Standards/WikiData/WD~nosebleed,202013]]'
-  - '[[_Standards/WikiData/WD~myalgia,474959]]'
-  - '[[_Standards/WikiData/WD~rash,653197]]'
-  - '[[_Standards/WikiData/WD~arthralgia,683498]]'
-  - '[[_Standards/WikiData/WD~internal_bleeding,2361887]]'
-  - '[[_Standards/WikiData/WD~headache,86]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
-  - '[[_Standards/WikiData/WD~diarrhea,40878]]'
+- '[[_Standards/WikiData/WD~poisoning,114953]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~bleeding,166019]]'
+- '[[_Standards/WikiData/WD~conjunctivitis,167844]]'
+- '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
+- '[[_Standards/WikiData/WD~nausea,186889]]'
+- '[[_Standards/WikiData/WD~dyspnea,188008]]'
+- '[[_Standards/WikiData/WD~nosebleed,202013]]'
+- '[[_Standards/WikiData/WD~myalgia,474959]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- '[[_Standards/WikiData/WD~arthralgia,683498]]'
+- '[[_Standards/WikiData/WD~internal_bleeding,2361887]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878]]'
 medical_examination:
-  - '[[_Standards/WikiData/WD~electron_microscope,132560]]'
-  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
-  - '[[_Standards/WikiData/WD~ELISA,332126]]'
-  - '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
-  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
-  - '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
-  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
+- '[[_Standards/WikiData/WD~electron_microscope,132560]]'
+- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+- '[[_Standards/WikiData/WD~ELISA,332126]]'
+- '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+- '[[_Standards/WikiData/WD~viral_culture,7933598]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~viral_hemorrhagic_fever,162272]]'
-  - '[[_Standards/WikiData/WD~hospital_acquired_infection,215509]]'
-  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-  - '[[_Standards/WikiData/WD~Filoviridae_infectious_disease,18975835]]'
-  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~viral_hemorrhagic_fever,162272]]'
+- '[[_Standards/WikiData/WD~hospital_acquired_infection,215509]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~Filoviridae_infectious_disease,18975835]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 has_natural_reservoir:
-  - "[[_Standards/WikiData/WD~Franquet's_Epauletted_Fruit_Bat,303030]]"
-  - '[[_Standards/WikiData/WD~Hammer_headed_bat,304912]]'
-  - '[[_Standards/WikiData/WD~Little_Collared_Fruit_Bat,1763436]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- "[[_Standards/WikiData/WD~Franquet's_Epauletted_Fruit_Bat,303030]]"
+- '[[_Standards/WikiData/WD~Hammer_headed_bat,304912]]'
+- '[[_Standards/WikiData/WD~Little_Collared_Fruit_Bat,1763436]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 location_of_discovery:
-  - '[[_Standards/WikiData/WD~Ebola_River,934455]]'
-  - '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Ebola_River,934455]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
 named_after: '[[_Standards/WikiData/WD~Ebola_River,934455]]'
 has_characteristic: '[[_Standards/WikiData/WD~contagiousness,1783077]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
-  - '[[_Standards/WikiData/WD~Orthoebolavirus_zairense,10538943]]'
+- '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
+- '[[_Standards/WikiData/WD~Orthoebolavirus_zairense,10538943]]'
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
-  - '[[_Standards/WikiData/WD~haemocontact_transmission_of_pathogen,34683744]]'
+- '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+- '[[_Standards/WikiData/WD~haemocontact_transmission_of_pathogen,34683744]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 biosafety_level: '[[_Standards/WikiData/WD~biosafety_level_4,18396539]]'
 bibliography: '[[_Standards/WikiData/WD~bibliography_of_Ebola,85315256]]'
 minimal_incubation_period_in_humans: 2
 maximal_incubation_period_in_humans: 21
 OmegaWiki_Defined_Meaning: 1074891
 number_of_cases:
-  - 3786
-  - 13494
-  - 27953
+- 3786
+- 13494
+- 27953
 DiseasesDB: 18043
 subreddit: ebola
 Commons_gallery: Ebola
@@ -86,16 +190,168 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/7042%20lores-Ebola-Zai
 UMLS_CUI: C0282687
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%87%E0%AC%AC%E0%AD%8B%E0%AC%B2%E0%AC%BE%20%E0%AC%AD%E0%AD%82%E0%AC%A4%E0%AC%BE%E0%AC%A3%E0%AD%81%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav
 exact_match:
-  - http://identifiers.org/doid/DOID:4325
-  - http://purl.obolibrary.org/obo/DOID_4325
+- http://identifiers.org/doid/DOID:4325
+- http://purl.obolibrary.org/obo/DOID_4325
 ICD_10_CM: A98.4
 MeSH_tree_code:
-  - C01.925.782.417.415
-  - C01.925.782.580.250.400
+- C01.925.782.417.415
+- C01.925.782.580.250.400
 Commons_category: Ebola virus disease
 Krugosvet_article: meditsina/ebola
+dv_has_:
+  name_:
+    af: Ebola
+    am: ኢቦላ
+    ar: مرض فيروس إيبولا
+    arz: مرض فيروس ايبولا
+    as: ইব’লা ভাইৰাছজনিত ৰোগ
+    ast: Enfermedá pol virus del Ébola
+    az: Ebola virusu xəstəliyi
+    be: Гемарагічная ліхаманка Эбола
+    be-tarask: гемарагічная ліхаманка Эбола
+    bg: Ебола
+    bm: Ebola virisi bana
+    bn: ইবোলা ভাইরাসজনিত রোগ
+    br: Ebola
+    bs: Ebola virusna bolest
+    bxr: Эбола вирусай үбшэн
+    ca: febre hemorràgica de l'Ebola
+    ckb: نەخۆشیی ئێبۆلا
+    cs: Ebola
+    cy: clefyd firaol Ebola
+    da: Ebola
+    dag: Ebola
+    de: Ebolafieber
+    din: Ebuɔla
+    ee: Ebola dɔlele
+    el: Ασθένεια ιού Έμπολα
+    en: Ebola hemorrhagic fever
+    eo: ebolo
+    es: ébola
+    et: Ebola viirushaigus
+    eu: Ebola birus
+    fa: ویروس ابولا
+    ff: Ebola
+    fi: ebola
+    fo: Ebola
+    fr: fièvre hémorragique Ebola
+    frr: Ebolafiiber
+    gl: Ébola
+    gn: Ébola víru mba'asy
+    gpe: Ebola hemorrhagic fever
+    gsw: Ebolafieber
+    ha: Ƙwayoyin cuta na Ebola
+    he: מחלת אבולה
+    hi: इबोला रक्तस्रावी बुखार
+    hif: ebola
+    hr: ebola
+    ht: Maladi viris Ebola
+    hu: ebola
+    hy: Էբոլա վիրուսային հիվանդություն
+    hyw: Իպոլա (ժահրային հիւանդութիւն)
+    id: Ebola
+    ig: Nje ọrịa Ebola
+    is: Ebóla
+    it: ebola
+    ja: エボラ出血熱
+    jv: Panyakit ebola
+    ka: ებოლა
+    kaa: Ebola virusi
+    kbp: Eeboolaa
+    kk: Эбола ауруы
+    km: ជំងឺអ៊ីបូឡា
+    kn: ಎಬೊಲ ವೈರಸ್ ಕಾಯಿಲೆ
+    ko: 에볼라 출혈열
+    ks: ایبولا
+    la: Ebola febris haemorrhagica
+    lg: ekirwadde ky’ebola
+    li: Ebola
+    ln: Bokono ya Ebola
+    lo: ອີໂບລາ
+    lt: Ebola
+    lv: Ebolas vīrusslimība
+    mai: इबोला
+    mk: ебола
+    ml: എബോള
+    mn: Эбола
+    mr: इबोला विषाणू रोग
+    ms: Ebola
+    my: အီဗိုလာ ဗိုင်းရပ်စ်
+    nan: Ebola
+    nb: ebola
+    nds-nl: ebola
+    ne: इबोला
+    nl: ebola
+    nn: ebolavirussjukdom
+    nr: Ubulwelwe be-Ebola
+    nso: Bolwetši bja baerase ya Ebola
+    ny: Matenda a Ebola
+    nyn: endwara ya Ebola
+    oc: Ébola
+    om: Dhibbee vaayiirasii Iboollaa
+    or: ଇବୋଲା ଭୂତାଣୁ ରୋଗ
+    pa: ਇਬੋਲਾ ਵਿਸ਼ਾਣੂ ਰੋਗ
+    pap: Ebola
+    pl: gorączka krwotoczna Ebola
+    ps: ایبولا ناروغۍ
+    pt: Ébola
+    qu: Evola virusmanta unquyqa
+    rki: အီဗိုလာဗိုင်းရပ်စ်
+    rmy: Ebola
+    rn: Ingwara iterwa n’umugera wa Ebola
+    ro: febra hemoragică Ebola
+    ru: болезнь, вызванная вирусом Эбола
+    rw: Indwara ya Ebola
+    sah: Эбола вирустаах ыарыыта
+    sco: Ebola virus disease
+    sgs: Ebuola
+    sh: Ebola
+    si: ඉබූලා වෛරස් රෝගය
+    sk: Ebola
+    sl: ebola
+    smn: Ebola
+    sn: Chirwere cheEbola
+    so: Cudurka Ebola
+    sr: ебола
+    sr-ec: ебола
+    sr-el: ebola
+    ss: Ligciwane lesifo se-Ebola
+    st: Boloetse ba kokwanahloko ya Ebola
+    su: Panyakit virus ébola
+    sv: ebola
+    sw: Ebola
+    ta: எபோலா தீநுண்ம நோய்
+    tcy: ಎಬೊಲ ವೈರಸ್ ಸೀಕು
+    te: ఎబోలా
+    th: อีโบลา
+    ti: ሕማም ቫይረስ ኢቦላ
+    tl: Sakit na Ebola
+    tn: Bolwetse jwa mogare wa Ebola
+    tr: Ebola
+    ts: Xitsongwatsongwana xa vuvabyi bya Ebola
+    tt: Эбола бизгәге
+    tw: Ebola yare
+    ug: ئېبولا ۋىرۇسى
+    uk: хвороба, яку спричинює вірус Ебола
+    ur: ایبولا وائرس بیماری
+    uz: Ebola gemorragik isitmasi
+    ve: Vhulwadze ha Vairasi ya Ebola
+    vec: èboła
+    vi: Bệnh virus Ebola
+    wa: Five Ebola
+    war: Sakit nga Ebola
+    wo: Jàngoroy Ebola
+    wuu: 埃博拉出血热
+    xh: Isifo sentsholongwane i-Ebola
+    yo: Àrùn kòkòrò àìlèfojúrí afàìsàn Ebola
+    yue: 伊波拉
+    zh: 埃博拉出血热
+    zh-hans: 埃博拉出血热
+    zh-hant: 伊波拉出血熱
+    zh-hk: 伊波拉出血熱
+    zh-tw: 伊波拉出血熱
+    zu: Isifo segciwane le-Ebola
 ---
-
 # [[Ebola_hemorrhagic_Fever]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ebola_hemorrhagic_fever,51993|WD~Ebola_hemorrhagic_fever,51993]] 

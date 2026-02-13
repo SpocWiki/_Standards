@@ -1,8 +1,69 @@
 ---
 has_id_wikidata: Q569408
+dv_has_:
+  name_:
+    af: Meshuggah
+    ast: Meshuggah
+    az: Meshuggah
+    azb: مشوقا
+    be: Meshuggah
+    ca: Meshuggah
+    cs: Meshuggah
+    cy: Meshuggah
+    da: Meshuggah
+    de: Meshuggah
+    de-ch: Meshuggah
+    el: Meshuggah
+    en: Meshuggah
+    en-ca: Meshuggah
+    en-gb: Meshuggah
+    es: Meshuggah
+    eu: Meshuggah
+    fa: مشوگا
+    fi: Meshuggah
+    fo: Meshuggah
+    fr: Meshuggah
+    fy: Meshuggah
+    ga: Meshuggah
+    gl: Meshuggah
+    he: משוגע
+    hr: Meshuggah
+    hu: Meshuggah
+    hy: Մեշուգա
+    id: Meshuggah
+    is: Meshuggah
+    it: Meshuggah
+    ja: メシュガー
+    ko: 메슈가
+    ms: Meshuggah
+    nb: Meshuggah
+    nl: Meshuggah
+    nn: Meshuggah
+    pl: Meshuggah
+    pt: Meshuggah
+    pt-br: Meshuggah
+    ro: Meshuggah
+    ru: Meshuggah
+    se: Meshuggah
+    sk: Meshuggah
+    sq: Meshuggah
+    sr: Мешуга
+    sv: Meshuggah
+    tr: Meshuggah
+    uk: Meshuggah
+    uz: Meshuggah
+    zh: 瘋子 (瑞典樂團)
+aliases:
+- Meshuggah
+- Мешуга
+- Մեշուգա
+- משוגע
+- مشوقا
+- مشوگا
+- メシュガー
+- 瘋子 (瑞典樂團)
+- 메슈가
 ---
-
-
 #has_/time_/started :: 1987-06-01 
 
 ## #has_/text_of_/abstract 

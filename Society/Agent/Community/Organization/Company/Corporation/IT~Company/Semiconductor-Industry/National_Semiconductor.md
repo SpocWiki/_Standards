@@ -1,8 +1,45 @@
 ---
 has_id_wikidata: Q432492
+dv_has_:
+  name_:
+    azb: نشنال سمیکنداکتر
+    ca: National Semiconductor
+    cs: National Semiconductor
+    de: National Semiconductor
+    en: National Semiconductor
+    eo: National Semiconductor
+    es: National Semiconductor
+    fa: نشنال سمیکنداکتر
+    fi: National Semiconductor
+    fr: National Semiconductor
+    he: נשיונל סמיקונדקטור
+    hi: नेशनल सेमीकंडक्टर
+    hr: National Semiconductor
+    hu: National Semiconductor
+    id: National Semiconductor
+    it: National Semiconductor
+    ja: ナショナル セミコンダクター
+    ko: 내셔널 세미컨덕터
+    ms: National Semiconductor
+    mul: National Semiconductor
+    nb: National Semiconductor
+    nl: National Semiconductor
+    pl: National Semiconductor
+    pt: National Semiconductor
+    ru: National Semiconductor
+    tr: National Semiconductor
+    uk: National Semiconductor
+    vec: National Semiconductor
+    zh: 美國國家半導體
+aliases:
+- National Semiconductor
+- נשיונל סמיקונדקטור
+- نشنال سمیکنداکتر
+- नेशनल सेमीकंडक्टर
+- ナショナル セミコンダクター
+- 美國國家半導體
+- 내셔널 세미컨덕터
 ---
-
-
 # [[National_Semiconductor]] 
 
 > National Semiconductor was an American semiconductor manufacturer 

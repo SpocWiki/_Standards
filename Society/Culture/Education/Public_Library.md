@@ -1,27 +1,178 @@
 ---
 aliases:
+- Almenningsbókasafn
+- almmjallaš ǩeʹrjjpõrtt
+- almolâš kirjerááju
+- biblioteca pubblica
+- biblioteca publică
+- biblioteca pública
+- biblioteka publiczna
+- bibliotekë publike
+- Bibliotheca publica
+- bibliothèque publique
+- folkbibliotek
+- folkebibliotek
+- halk kütüphanesi
+- javna biblioteka
+- javna knjižnica
+- Kong-kiōng tô͘-su-koán
+- közkönyvtár
+- leabharlann phoiblí
+- levraoueg foran
+- Liburutegi publiko
+- llyfrgell gyhoeddus
+- Maktaba ya Umma
+- Narodna knjižnica
+- openbare bibliotheek
+- perpustakaan awam
+- Perpustakaan Umum
+- pirtûkxaneya gel
+- public library
+- publieke biblioteek
+- publika biblioteko
+- rahvaraamatukogu
+- thư viện công cộng
+- Umtapolwazi womphakathi
+- veřejná knihovna
+- viešoji biblioteka
+- yleinen kirjasto
+- zjawna biblioteka
+- álbmotgirjerájus
+- álmmukbibliotehkka
+- öffentliche Bibliothek
+- İctimai kitabxana
+- δημόσια βιβλιοθήκη
+- јавна библиотека
+- грамадзкая бібліятэка
+- грамадская бібліятэка
+- иҗтимагый китапханә
+- Нийтийн номын сан
+- общественная библиотека
+- публічна бібліотека
+- հանրային գրադարան
+- ספרייה ציבורית
+- عوامی کتب خانہ
+- مكتبة عامة
+- ڤرڤوستاکاءن عوام
+- کتابخانه عمومی
+- গণগ্রন্থাগার
+- ਪਬਲਿਕ ਲਾਇਬ੍ਰੇਰੀ
+- பொது நூலகம்
+- මහජන පුස්තකාලය
+- ห้องสมุดสาธารณะ
+- បណ្ណាល័យជាតិ
+- 公共図書館
+- 公共图书馆
+- 公共圖書館
+- 공공 도서관
 has_id_wikidata: Q28564
-has_use: "[[_Standards/WikiData/WD~public_service,161837]]"
-opposite_of: "[[_Standards/WikiData/WD~private_library,380829]]"
+has_use: '[[_Standards/WikiData/WD~public_service,161837]]'
+opposite_of: '[[_Standards/WikiData/WD~private_library,380829]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-  - "[[_Standards/WikiData/WD~library,7075]]"
+- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~library,7075]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_library,25397890]]"
-has_characteristic: "[[_Standards/WikiData/WD~public,116796279]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_library,25397890]]'
+has_characteristic: '[[_Standards/WikiData/WD~public,116796279]]'
 properties_for_this_type:
-  - inception
-  - street address
-OmegaWiki_Defined_Meaning: "534650"
+- inception
+- street address
+OmegaWiki_Defined_Meaning: 534650
 Commons_category: Public libraries
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Johor%20Public%20Library%20Corporation%20%282020%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Centenoyespelta-biblioteca%20p%C3%BAblica.wav
-Basisklassifikation: "06.42"
+Basisklassifikation: 06.42
 Iconclass_notation: 49M9
+dv_has_:
+  name_:
+    af: publieke biblioteek
+    ar: مكتبة عامة
+    az: İctimai kitabxana
+    be: грамадская бібліятэка
+    be-tarask: грамадзкая бібліятэка
+    bn: গণগ্রন্থাগার
+    br: levraoueg foran
+    bs: javna biblioteka
+    ca: biblioteca pública
+    cs: veřejná knihovna
+    cy: llyfrgell gyhoeddus
+    da: folkebibliotek
+    de: öffentliche Bibliothek
+    el: δημόσια βιβλιοθήκη
+    en: public library
+    en-gb: public library
+    eo: publika biblioteko
+    es: biblioteca pública
+    et: rahvaraamatukogu
+    eu: Liburutegi publiko
+    fa: کتابخانه عمومی
+    fi: yleinen kirjasto
+    fr: bibliothèque publique
+    ga: leabharlann phoiblí
+    gl: biblioteca pública
+    he: ספרייה ציבורית
+    hr: Narodna knjižnica
+    hsb: zjawna biblioteka
+    hu: közkönyvtár
+    hy: հանրային գրադարան
+    id: Perpustakaan Umum
+    is: Almenningsbókasafn
+    it: biblioteca pubblica
+    ja: 公共図書館
+    km: បណ្ណាល័យជាតិ
+    ko: 공공 도서관
+    ku: pirtûkxaneya gel
+    ku-latn: pirtûkxaneya gel
+    la: Bibliotheca publica
+    lt: viešoji biblioteka
+    mk: јавна библиотека
+    mn: Нийтийн номын сан
+    ms: perpustakaan awam
+    ms-arab: ڤرڤوستاکاءن عوام
+    nan: Kong-kiōng tô͘-su-koán
+    nb: folkebibliotek
+    nl: openbare bibliotheek
+    nn: folkebibliotek
+    pa: ਪਬਲਿਕ ਲਾਇਬ੍ਰੇਰੀ
+    pl: biblioteka publiczna
+    pt: biblioteca pública
+    pt-br: biblioteca pública
+    ro: biblioteca publică
+    ru: общественная библиотека
+    se: álbmotgirjerájus
+    si: මහජන පුස්තකාලය
+    sl: javna knjižnica
+    smj: álmmukbibliotehkka
+    smn: almolâš kirjerááju
+    sms: almmjallaš ǩeʹrjjpõrtt
+    sq: bibliotekë publike
+    sr: јавна библиотека
+    sr-ec: јавна библиотека
+    sr-el: javna biblioteka
+    sv: folkbibliotek
+    sw: Maktaba ya Umma
+    ta: பொது நூலகம்
+    th: ห้องสมุดสาธารณะ
+    tr: halk kütüphanesi
+    tt: иҗтимагый китапханә
+    uk: публічна бібліотека
+    ur: عوامی کتب خانہ
+    vi: thư viện công cộng
+    wuu: 公共图书馆
+    yue: 公共圖書館
+    zh: 公共图书馆
+    zh-cn: 公共图书馆
+    zh-hans: 公共图书馆
+    zh-hant: 公共圖書館
+    zh-hk: 公共圖書館
+    zh-mo: 公共圖書館
+    zh-my: 公共图书馆
+    zh-sg: 公共图书馆
+    zh-tw: 公共圖書館
+    zu: Umtapolwazi womphakathi
 ---
-
 # [[Public_Library]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Public_library,28564|WD~Public_library,28564]]  

@@ -1,26 +1,49 @@
 ---
 aliases:
-  - Herman Hollerith
-  - Hollerith,Herman
+- Herman Holerit
+- Herman Hollerit
+- Herman Hollerith
+- Hermann Hollerith
+- Hollerith,Herman
+- Χέρμαν Χόλεριθ
+- Герман Голлеріт
+- Герман Холерыт
+- Герман Холлерит
+- Гэрман Голерыт
+- Херман Холерит
+- Հերման Հոլերիթ
+- הרמן הולרית'
+- هرمان هولریث
+- هيرمان هولليريث
+- हर्मन हॉलेरिथ
+- হারম্যান হলারিথ
+- ഹെർമൻ ഹോളറിത്
+- හර්මන් හොලරිත්
+- ハーマン・ホレリス
+- 赫尔曼·何乐礼
+- 赫尔曼·霍利里思
+- 赫爾曼·何樂禮
+- 靴文何拿域夫
+- 허먼 홀러리스
 has_id_wikidata: Q192145
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~statistician,2732142]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~statistician,2732142]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~City_College_of_New_York,1093910]]'
-  - '[[_Standards/WikiData/WD~Fu_Foundation_School_of_Engineering_and_Applied_Science,5149833]]'
+- '[[_Standards/WikiData/WD~City_College_of_New_York,1093910]]'
+- '[[_Standards/WikiData/WD~Fu_Foundation_School_of_Engineering_and_Applied_Science,5149833]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
-  - '[[_Standards/WikiData/WD~Herman,16276646]]'
+- '[[_Standards/WikiData/WD~Hermann,1158570]]'
+- '[[_Standards/WikiData/WD~Herman,16276646]]'
 award_received: '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
 employer:
-  - '[[_Standards/WikiData/WD~United_States_Patent_and_Trademark_Office,1459541]]'
-  - '[[_Standards/WikiData/WD~Computing_Tabulating_Recording_Company,5157637]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~United_States_Patent_and_Trademark_Office,1459541]]'
+- '[[_Standards/WikiData/WD~Computing_Tabulating_Recording_Company,5157637]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 place_of_burial: '[[_Standards/WikiData/WD~Oak_Hill_Cemetery,2369971]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 influenced_by: '[[_Standards/WikiData/WD~John_Shaw_Billings,5597419]]'
@@ -42,8 +65,82 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hollerith.jpg
 ISNI: 0000000055615396
 name_in_native_language: Herman Hollerith
 date_of_death: 1929-11-17T00:00:00Z
+dv_has_:
+  name_:
+    ar: هيرمان هولليريث
+    ast: Herman Hollerith
+    az: Herman Hollerit
+    be: Герман Холерыт
+    be-tarask: Гэрман Голерыт
+    bg: Херман Холерит
+    bn: হারম্যান হলারিথ
+    ca: Herman Hollerith
+    cs: Herman Hollerith
+    cy: Herman Hollerith
+    da: Herman Hollerith
+    de: Herman Hollerith
+    de-ch: Herman Hollerith
+    el: Χέρμαν Χόλεριθ
+    en: Herman Hollerith
+    en-ca: Herman Hollerith
+    en-gb: Herman Hollerith
+    es: Herman Hollerith
+    eu: Herman Hollerith
+    fa: هرمان هولریث
+    fi: Herman Hollerith
+    fr: Herman Hollerith
+    fy: Herman Hollerith
+    ga: Herman Hollerith
+    gl: Herman Hollerith
+    he: הרמן הולרית'
+    hr: Hermann Hollerith
+    hu: Herman Hollerith
+    hy: Հերման Հոլերիթ
+    id: Herman Hollerith
+    io: Herman Hollerith
+    it: Herman Hollerith
+    ja: ハーマン・ホレリス
+    ko: 허먼 홀러리스
+    mg: Herman Hollerith
+    mk: Херман Холерит
+    ml: ഹെർമൻ ഹോളറിത്
+    mr: हर्मन हॉलेरिथ
+    ms: Herman Hollerith
+    mul: Herman Hollerith
+    nb: Herman Hollerith
+    nl: Herman Hollerith
+    nn: Herman Hollerith
+    pl: Herman Hollerith
+    pt: Herman Hollerith
+    pt-br: Herman Hollerith
+    ro: Herman Hollerith
+    ru: Герман Холлерит
+    sah: Герман Холлерит
+    sh: Herman Hollerith
+    si: හර්මන් හොලරිත්
+    sk: Herman Hollerith
+    sl: Herman Hollerith
+    sq: Herman Hollerith
+    sr: Херман Холерит
+    sr-ec: Херман Холерит
+    sr-el: Herman Holerit
+    sv: Herman Hollerith
+    sw: Herman Hollerith
+    tl: Herman Hollerith
+    tr: Herman Hollerith
+    uk: Герман Голлеріт
+    vi: Herman Hollerith
+    war: Herman Hollerith
+    wuu: 赫尔曼·何乐礼
+    yue: 靴文何拿域夫
+    zh: 赫爾曼·何樂禮
+    zh-cn: 赫尔曼·霍利里思
+    zh-hans: 赫尔曼·霍利里思
+    zh-hant: 赫爾曼·何樂禮
+    zh-hk: 赫爾曼·何樂禮
+    zh-sg: 赫尔曼·何乐礼
+    zh-tw: 赫爾曼·何樂禮
 ---
-
 # [[Hollerith,Herman]] 
 
 #is_/same_as ::  [[../../../WikiData/WD~Herman_Hollerith,192145|WD~Herman_Hollerith,192145]]  

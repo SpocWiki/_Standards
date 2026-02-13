@@ -1,11 +1,75 @@
 ---
 aliases:
-  - Carom billiards
-  - French billiards
-  - carambole billiards
-  - Carom_Billiards
-  - Carom Billiards
+- 3-спонтов карамбол
+- bilhar
+- Billar francès
+- billar francés
+- billard français
+- Carambola
+- carambole
+- carambole billiards
+- carambolebillard
+- Carom billiards
+- Carom_Billiards
+- Falas játékok
+- French billiards
+- kara
+- Karambol
+- karambola
+- Karambolage
+- Karambolage-Billard
+- Karambolo
+- Karambolový biliard
+- karom biljardi
+- Üç-Bant Bilardo
+- карамбол
+- Карамболь
+- Կարամբոլ
+- بليارد كاروم
+- キャロム・ビリヤード
+- 开仑
+- 開侖
+- 캐럼
 has_id_wikidata: Q917562
+dv_has_:
+  name_:
+    ar: بليارد كاروم
+    be-tarask: карамболь
+    bg: 3-спонтов карамбол
+    ca: Billar francès
+    cs: karambol
+    da: carambolebillard
+    de: Karambolage
+    en: carom billiards
+    eo: Karambolo
+    es: billar francés
+    fi: kara
+    fr: billard français
+    ht: Billard français
+    hu: Falas játékok
+    hy: Կարամբոլ
+    it: Carambola
+    ja: キャロム・ビリヤード
+    ko: 캐럼
+    lb: Karambolage-Billard
+    mk: карамбол
+    nb: carambole
+    nl: carambole
+    nn: carambole
+    pl: Karambol
+    pt: bilhar
+    ru: Карамболь
+    sk: Karambolový biliard
+    sl: karom biljardi
+    sr: Карамбол
+    sv: carambole
+    tl: karambola
+    tr: Üç-Bant Bilardo
+    uk: Карамболь
+    zh: 開侖
+    zh-hans: 开仑
+    zh-hant: 開侖
+    zh-hk: 開侖
 ---
 ## #has_/text_of_/abstract 
 

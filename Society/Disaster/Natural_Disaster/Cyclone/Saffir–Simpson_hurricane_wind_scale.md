@@ -1,22 +1,143 @@
 ---
 aliases:
+- Echèl Saffir-Simpson
+- escala d'huracans de Saffir-Simpson
+- Escala de furacanes de Saffir-Simpson
+- Escala de furacáns Saffir-Simpson
+- Escala de furacões de Saffir-Simpson
+- Escala de huracanes de Saffir-Simpson
+- Escala de Saffir-Simpson
+- Saffir-Simpson Kasırga Ölçeği
+- Saffir-Simpson-Hurrikan-Skala
+- Saffir-Simpson-skalaen
+- Saffir-Simpsonova lestvica hurikanov
+- Saffir-Simpsonova skala uragana
+- Saffirin-Simpsonin hurrikaaniasteikko
+- Saffirova-Simpsonova hurikánová stupnica
+- Saffirova-Simpsonova stupnice hurikánů
+- Saffir–Simpson hurricane wind scale
+- Saffir–Simpson-féle hurrikánskála
+- Saffir–Simpson-skalaen
+- Saffir–Simpsons orkanskala
+- Safir-Simpsonova skala uragana
+- Safira–Simpsona skala
+- Safiro-Simpsono skalė
+- Scala Saffir-Simpson
+- Scara Saffir-Simpson
+- Schaal van Saffir-Simpson
+- Skaal fan Saffir-Simpson
+- Skala Saffir-Simpson
+- Skala Saffira-Simpsona
+- Skala Taufan Saffir-Simpson
+- skalo de Saffir-Simpson
+- SSHWS/NWS
+- Thang bão Saffir-Simpson
+- Urakan haizeen Saffir-Simpson eskala
+- échelle de Saffir-Simpson
+- Κλίμακα Σαφίρ-Σίμπσον
+- Сафир-Симпсонова скала
+- Сафир-Симпсонова скала урагана
+- Саффир-Симпсонның давыл җиле шкаласы
+- Скала на Сафир-Симпсън
+- Шкала ўраганаў Сафіра — Сімпсана
+- Шкала ўраганаў Сафіра-Сімпсана
+- Шкала ураганів Саффіра-Сімпсона
+- Шкала ураганов Саффира — Симпсона
+- סולם ספיר-סימפסון
+- سفیر-سمپسون
+- مقياس سفير-سمبسون
+- مقیاس سافیر سیمپسون
+- साफिर-सिंपसन पैमाना
+- সাফির-সিম্পসন স্কেল
+- சபீர் சிம்சன் சூறாவளித் தரப்படுத்தல்
+- สเกลเฮอร์ริเคนของแซฟเฟอร์-ซิมป์สัน
+- サファ・シンプソン・ハリケーン・ウィンド・スケール
+- 萨菲尔-辛普森飓风风力等级
+- 薩菲爾-辛普森颶風風力等級
+- 사피어-심프슨 허리케인 등급
 has_id_wikidata: Q205801
 instance_of:
-  - "[[_Standards/WikiData/WD~sequence,133250]]"
-  - "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
-  - "[[_Standards/WikiData/WD~criterion,1789452]]"
-  - "[[_Standards/WikiData/WD~tropical_cyclone_scale,2513417]]"
+- '[[_Standards/WikiData/WD~sequence,133250]]'
+- '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
+- '[[_Standards/WikiData/WD~criterion,1789452]]'
+- '[[_Standards/WikiData/WD~tropical_cyclone_scale,2513417]]'
 operator:
-  - "[[_Standards/WikiData/WD~Central_Pacific_Hurricane_Center,1053937]]"
-  - "[[_Standards/WikiData/WD~National_Hurricane_Center,1329523]]"
+- '[[_Standards/WikiData/WD~Central_Pacific_Hurricane_Center,1053937]]'
+- '[[_Standards/WikiData/WD~National_Hurricane_Center,1329523]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Herbert_Saffir,2557554]]"
-  - "[[_Standards/WikiData/WD~Robert_Homer_Simpson,3436307]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Saffir_Simpson_scale,11125087]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32731806,32731806]]"
+- '[[_Standards/WikiData/WD~Herbert_Saffir,2557554]]'
+- '[[_Standards/WikiData/WD~Robert_Homer_Simpson,3436307]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Saffir_Simpson_scale,11125087]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32731806,32731806]]'
 described_at_URL: http://www.nhc.noaa.gov/aboutsshws.php
+dv_has_:
+  name_:
+    ar: مقياس سفير-سمبسون
+    ast: Escala de furacanes de Saffir-Simpson
+    be: Шкала ўраганаў Сафіра — Сімпсана
+    be-tarask: Шкала ўраганаў Сафіра-Сімпсана
+    bg: Скала на Сафир-Симпсън
+    bho: साफिर-सिंपसन पैमाना
+    bn: সাফির-সিম্পসন স্কেল
+    ca: escala d'huracans de Saffir-Simpson
+    cs: Saffirova-Simpsonova stupnice hurikánů
+    da: Saffir-Simpson-skalaen
+    de: Saffir-Simpson-Hurrikan-Skala
+    el: Κλίμακα Σαφίρ-Σίμπσον
+    en: Saffir–Simpson hurricane wind scale
+    eo: skalo de Saffir-Simpson
+    es: Escala de huracanes de Saffir-Simpson
+    eu: Urakan haizeen Saffir-Simpson eskala
+    fa: مقیاس سافیر سیمپسون
+    fi: Saffirin-Simpsonin hurrikaaniasteikko
+    fr: échelle de Saffir-Simpson
+    fy: Skaal fan Saffir-Simpson
+    ga: SSHWS/NWS
+    gl: Escala de furacáns Saffir-Simpson
+    he: סולם ספיר-סימפסון
+    ht: Echèl Saffir-Simpson
+    hu: Saffir–Simpson-féle hurrikánskála
+    id: Skala Saffir-Simpson
+    it: Scala Saffir-Simpson
+    ja: サファ・シンプソン・ハリケーン・ウィンド・スケール
+    ko: 사피어-심프슨 허리케인 등급
+    lt: Safiro-Simpsono skalė
+    lv: Safira–Simpsona skala
+    mk: Сафир-Симпсонова скала
+    ms: Skala Taufan Saffir-Simpson
+    mzn: سفیر-سمپسون
+    nb: Saffir–Simpson-skalaen
+    nl: Schaal van Saffir-Simpson
+    nn: Saffir–Simpson-skalaen
+    oc: Escala de Saffir-Simpson
+    pl: Skala Saffira-Simpsona
+    pt: Escala de furacões de Saffir-Simpson
+    ro: Scara Saffir-Simpson
+    ru: Шкала ураганов Саффира — Симпсона
+    sh: Saffir-Simpsonova skala uragana
+    sk: Saffirova-Simpsonova hurikánová stupnica
+    sl: Saffir-Simpsonova lestvica hurikanov
+    sr: Сафир-Симпсонова скала урагана
+    sr-ec: Сафир-Симпсонова скала урагана
+    sr-el: Safir-Simpsonova skala uragana
+    sv: Saffir–Simpsons orkanskala
+    ta: சபீர் சிம்சன் சூறாவளித் தரப்படுத்தல்
+    th: สเกลเฮอร์ริเคนของแซฟเฟอร์-ซิมป์สัน
+    tr: Saffir-Simpson Kasırga Ölçeği
+    tt: Саффир-Симпсонның давыл җиле шкаласы
+    uk: Шкала ураганів Саффіра-Сімпсона
+    vi: Thang bão Saffir-Simpson
+    yue: 薩菲爾-辛普森颶風風力等級
+    zh: 萨菲尔-辛普森飓风风力等级
+    zh-cn: 萨菲尔-辛普森飓风风力等级
+    zh-hans: 萨菲尔-辛普森飓风风力等级
+    zh-hant: 薩菲爾-辛普森颶風風力等級
+    zh-hk: 薩菲爾-辛普森颶風風力等級
+    zh-mo: 薩菲爾-辛普森颶風風力等級
+    zh-my: 萨菲尔-辛普森飓风风力等级
+    zh-sg: 萨菲尔-辛普森飓风风力等级
+    zh-tw: 薩菲爾-辛普森颶風風力等級
 ---
-
 # [[Saffir–Simpson_hurricane_wind_scale]] 
 
 #is_/same_as :: [[WD~Saffir–Simpson_hurricane_wind_scale,205801]] 

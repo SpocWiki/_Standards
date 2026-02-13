@@ -1,9 +1,80 @@
 ---
 aliases:
-  - John D. Carmack II
-  - Carmack,John_D
-  - Carmack,John D
+- Carmack,John D
+- Carmack,John_D
+- Con Karmak
+- John Carmack
+- John D. Carmack
+- John D. Carmack II
+- Τζον Κάρμακ
+- Джон Кармак
+- Ջոն Կարմակ
+- ג'ון קארמק
+- جان کارمک
+- جون كارماك
+- ジョン・カーマック
+- 約翰·卡馬克
+- 约翰·卡马克
+- 존 카맥
 has_id_wikidata: Q92605
+dv_has_:
+  name_:
+    ar: جون كارماك
+    arz: جون كارماك
+    ast: John Carmack
+    az: Con Karmak
+    bg: Джон Кармак
+    bs: John Carmack
+    ca: John Carmack
+    cs: John Carmack
+    cy: John Carmack
+    da: John Carmack
+    de: John Carmack
+    el: Τζον Κάρμακ
+    en: John Carmack
+    en-ca: John Carmack
+    en-gb: John Carmack
+    es: John Carmack
+    et: John Carmack
+    fa: جان کارمک
+    fi: John Carmack
+    fr: John Carmack
+    ga: John Carmack
+    gl: John Carmack
+    he: ג'ון קארמק
+    hu: John Carmack
+    hy: Ջոն Կարմակ
+    id: John Carmack
+    it: John Carmack
+    ja: ジョン・カーマック
+    ko: 존 카맥
+    lld: John Carmack
+    lt: John Carmack
+    mg: John Carmack
+    ms: John D. Carmack
+    mul: John Carmack
+    nb: John Carmack
+    nl: John Carmack
+    nn: John Carmack
+    oc: John Carmack
+    pam: John D. Carmack
+    pl: John Carmack
+    pt: John Carmack
+    pt-br: John Carmack
+    ru: Джон Кармак
+    sk: John D. Carmack
+    sl: John Carmack
+    sq: John Carmack
+    sv: John Carmack
+    tr: John Carmack
+    uk: Джон Кармак
+    zh: 約翰·卡馬克
+    zh-cn: 约翰·卡马克
+    zh-hans: 约翰·卡马克
+    zh-hant: 約翰·卡馬克
+    zh-hk: 約翰·卡馬克
+    zh-sg: 约翰·卡马克
+    zh-tw: 約翰·卡馬克
 ---
 #has_/time_/started :: 1970-08-21 
 #has_/created ::[[../id_Software]]] 

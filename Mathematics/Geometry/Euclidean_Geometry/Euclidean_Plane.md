@@ -1,8 +1,174 @@
 ---
 has_id_wikidata: Q17285
+dv_has_:
+  name_:
+    af: vlak
+    ar: مستو
+    ast: planu
+    az: müstəvi
+    ba: яҫылыҡ
+    be: плоскасць
+    be-tarask: роўніца
+    bg: равнина
+    bn: সমতল
+    bs: ravan
+    ca: pla
+    chr: ᎭᏫᎾᏗᏢ ᏗᏎᏍᏗ ᎤᎬᏩᎵ
+    ckb: ڕووتەخت
+    cs: rovina
+    cv: лаптак
+    cy: plân geometraidd
+    da: plan
+    de: Ebene
+    el: επίπεδο
+    en: plane
+    eo: ebeno
+    es: plano
+    et: tasand
+    eu: plano
+    fa: صفحه
+    fi: taso
+    fr: plan
+    ga: plána
+    gan: 平面
+    gcr: plan
+    gl: plano
+    gsw: Ebeni
+    he: מישור
+    hi: समतल
+    hr: ravnina
+    hu: sík
+    hy: հարթություն
+    ia: plano
+    id: bidang
+    io: plano
+    is: slétta
+    it: piano
+    ja: 平面
+    jam: plien
+    ka: სიბრტყე
+    kab: agni
+    kk: жазықтық
+    km: ប្លង់
+    ko: 평면
+    ky: тегиздик
+    la: planum
+    lt: plokštuma
+    lv: plakne
+    mg: lemaka
+    mk: рамнина
+    ms: satah
+    ms-arab: سطح
+    nan: pîⁿ-bīn
+    nb: plan
+    nds: Flach
+    nl: vlak
+    nn: plan
+    oc: plan
+    os: фæзой
+    pl: płaszczyzna
+    pt: plano
+    pt-br: plano
+    qu: p'allta
+    ro: plan
+    ru: плоскость
+    sah: Хаптал
+    sco: plane
+    sh: ravan
+    sk: rovina
+    sl: ravnina
+    sn: mutsendo
+    sq: Rrafshi Euklidian
+    sr: раван
+    sr-ec: раван
+    sv: plan
+    ta: தளம்
+    th: ระนาบ
+    tl: plano
+    tr: düzlem
+    tt: яссылык
+    tt-cyrl: яссылык
+    uk: площина
+    ur: مستوی
+    uz: tekislik
+    vi: mặt phẳng
+    war: plano
+    wuu: 平面
+    yi: פלאך
+    yue: 面
+    zh: 平面
+aliases:
+- agni
+- bidang
+- düzlem
+- Ebene
+- Ebeni
+- ebeno
+- Flach
+- lemaka
+- mutsendo
+- müstəvi
+- mặt phẳng
+- p'allta
+- piano
+- pla
+- plakne
+- plan
+- plane
+- plano
+- planu
+- planum
+- plien
+- plokštuma
+- plána
+- plân geometraidd
+- pîⁿ-bīn
+- płaszczyzna
+- ravan
+- ravnina
+- rovina
+- Rrafshi Euklidian
+- satah
+- slétta
+- sík
+- tasand
+- taso
+- tekislik
+- vlak
+- επίπεδο
+- жазықтық
+- лаптак
+- плоскасць
+- плоскость
+- площина
+- раван
+- равнина
+- рамнина
+- роўніца
+- тегиздик
+- фæзой
+- Хаптал
+- яссылык
+- яҫылыҡ
+- հարթություն
+- מישור
+- פלאך
+- سطح
+- صفحه
+- مستو
+- مستوی
+- ڕووتەخت
+- समतल
+- সমতল
+- தளம்
+- ระนาบ
+- სიბრტყე
+- ᎭᏫᎾᏗᏢ ᏗᏎᏍᏗ ᎤᎬᏩᎵ
+- ប្លង់
+- 平面
+- 面
+- 평면
 ---
-
-
 # [[Euclidean_Plane]] 
 
 #is_/same_as :: [[WD~Plane,17285]] 

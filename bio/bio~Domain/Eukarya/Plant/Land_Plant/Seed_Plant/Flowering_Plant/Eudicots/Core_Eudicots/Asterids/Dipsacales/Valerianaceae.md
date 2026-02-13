@@ -1,8 +1,110 @@
 ---
 aliases:
-  - Valerianaceae
+- Baldrian-familien
+- Baldriānu dzimta
+- Balerianazeo
+- Bałdrijanowe rostliny
+- Famîleya giyakitikan
+- Họ Nữ lang
+- kozlíkovité
+- Kozłkowate
+- macskagyökérfélék
+- Palderjanilised
+- valeriaanfamilie
+- Valerianaceae
+- Valerijoniniai
+- Vendelrotfamilien
+- virmajuurikasvit
+- Vänderotsväxter
+- špajkovke
+- Валеријановоцветни
+- Валерианалар
+- Валериановые
+- дилянкови
+- Нардсунбулиҳо
+- կատվախոտազգիներ
+- ולריניים
+- سنبلالطیبیان
+- فامیلەیا گیاکتکان
+- ناردينية
+- ناردينيه
+- კატაბალახასებრნი
+- オミナエシ科
+- 敗醬科
+- 败酱科
+- 마타리과
 title: Valerianaceae
 has_id_wikidata: Q156682
+dv_has_:
+  name_:
+    an: Valerianaceae
+    ar: ناردينية
+    arz: ناردينيه
+    ast: Valerianaceae
+    bg: дилянкови
+    ca: Valerianaceae
+    ceb: Valerianaceae
+    co: Valerianaceae
+    cs: kozlíkovité
+    da: Baldrian-familien
+    de: Valerianaceae
+    en: Valerianaceae
+    eo: Valerianaceae
+    es: Valerianaceae
+    et: Palderjanilised
+    eu: Balerianazeo
+    ext: Valerianaceae
+    fa: سنبلالطیبیان
+    fi: virmajuurikasvit
+    fr: Valerianaceae
+    ga: Valerianaceae
+    gl: Valerianaceae
+    he: ולריניים
+    hsb: Bałdrijanowe rostliny
+    hu: macskagyökérfélék
+    hy: կատվախոտազգիներ
+    ia: Valerianaceae
+    ie: Valerianaceae
+    io: Valerianaceae
+    it: Valerianaceae
+    ja: オミナエシ科
+    ka: კატაბალახასებრნი
+    ko: 마타리과
+    ku: Famîleya giyakitikan
+    ku-arab: فامیلەیا گیاکتکان
+    ku-latn: Famîleya giyakitikan
+    ky: Валерианалар
+    la: Valerianaceae
+    lij: Valerianaceae
+    lt: Valerijoniniai
+    lv: Baldriānu dzimta
+    mk: Валеријановоцветни
+    mul: Valerianaceae
+    nb: Vendelrotfamilien
+    nl: valeriaanfamilie
+    oc: Valerianaceae
+    pl: Kozłkowate
+    pt: Valerianaceae
+    pt-br: Valerianaceae
+    ro: Valerianaceae
+    ru: Валериановые
+    sh: Valerianaceae
+    sl: špajkovke
+    sq: Valerianaceae
+    sv: Vänderotsväxter
+    tg: Нардсунбулиҳо
+    tr: Valerianaceae
+    uk: Valerianaceae
+    vi: Họ Nữ lang
+    vo: Valerianaceae
+    war: Valerianaceae
+    zh: 败酱科
+    zh-cn: 败酱科
+    zh-hans: 败酱科
+    zh-hant: 敗醬科
+    zh-hk: 敗醬科
+    zh-sg: 败酱科
+    zh-tw: 敗醬科
 ---
 # [[Valerianaceae]] 
 

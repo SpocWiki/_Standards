@@ -1,8 +1,54 @@
 ---
 has_id_wikidata: Q283435
+dv_has_:
+  name_:
+    ar: ستاكيوز
+    azb: استاچیوز
+    ca: estaquiosa
+    cs: Stachyóza
+    de: Stachyose
+    en: stachyose
+    es: Estaquiosa
+    eu: Estakiosa
+    fa: استاچیوز
+    fi: stakyoosi
+    fr: Stachyose
+    gl: Estaquiosa
+    hu: sztachióz
+    it: stachiosio
+    ja: スタキオース
+    ko: 스타키오스
+    nl: Stachyose
+    pt: estaquiose
+    ro: Stahioză
+    ru: Стахиоза
+    sh: Stahioza
+    sr: стахиоза
+    tr: Staçioz
+    uk: Стахіоза
+    vi: Stachyoza
+    zh: 水苏糖
+aliases:
+- Estakiosa
+- estaquiosa
+- estaquiose
+- stachiosio
+- stachyose
+- Stachyoza
+- Stachyóza
+- Stahioza
+- Stahioză
+- stakyoosi
+- Staçioz
+- sztachióz
+- Стахіоза
+- Стахиоза
+- استاچیوز
+- ستاكيوز
+- スタキオース
+- 水苏糖
+- 스타키오스
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Stachyose** is a tetrasaccharide 

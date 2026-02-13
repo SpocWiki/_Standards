@@ -1,15 +1,87 @@
 ---
 aliases:
-  - Mahlzeit
-  - Meal
+- ateria
+- Bersantap
+- béile
+- bữa ăn
+- comida
+- Dan (demên xwarinê)
+- Eine
+- Epulum
+- ikla
+- jedlo
+- jídlo
+- maaltijd
+- Mahlzeit
+- maltīte
+- manĝo
+- masă (mâncare)
+- Meal
+- Molzecht
+- Máltíð
+- måltid
+- obrok
+- otordu
+- oúnjẹ jíjẹ
+- pacio
+- Pangaon
+- pasto
+- posiłek
+- pred
+- pryd o fwyd
+- Qidalanma
+- refeição
+- reord
+- repas
+- sajian
+- sesuguh
+- Tembi'u
+- Tirmt
+- Vakti
+- valgis
+- Virolla
+- àpat
+- étkezés
+- öğün
+- γεύμα
+- їда
+- Апатлану
+- ашау
+- оброк
+- приём пищи
+- Тамактануу
+- Тамақтану
+- Трапеза
+- Туҡланыу
+- харчаванне
+- яда
+- սննդի ընդունում
+- ארוחה
+- מאלצייט
+- طعام
+- وجبة
+- وعده غذایی
+- ژەم
+- खएका
+- छाक
+- भोजन
+- ভোজন
+- భోజనం
+- ಊಟ
+- มื้ออาหาร
+- ᠪᡠᡩᠠ
+- 食事
+- 餐
+- 饭
+- 식사
 has_id_wikidata: Q6460735
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~eating,213449]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_object,223557]]'
-  - '[[_Standards/WikiData/WD~theme,118826633]]'
+- '[[_Standards/WikiData/WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~theme,118826633]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~cuisine,1778821]]'
-  - '[[_Standards/WikiData/WD~livelihood,6658164]]'
+- '[[_Standards/WikiData/WD~cuisine,1778821]]'
+- '[[_Standards/WikiData/WD~livelihood,6658164]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Meals_navbox,20373701]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_meals,28453679]]'
@@ -22,10 +94,102 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Family%20eating%20clip
 exact_match: http://purl.org/acco/ns#Meal
 Amazon_com_browse_node: 14804133011
 MeSH_tree_code:
-  - G07.203.300.590
-  - J02.500.590
+- G07.203.300.590
+- J02.500.590
+dv_has_:
+  name_:
+    an: Virolla
+    ang: reord
+    ar: وجبة
+    ast: comida
+    az: Qidalanma
+    ba: Туҡланыу
+    be: харчаванне
+    be-tarask: яда
+    bg: Трапеза
+    bho: खएका
+    bn: ভোজন
+    br: pred
+    ca: àpat
+    ckb: ژەم
+    cs: jídlo
+    cv: Апатлану
+    cy: pryd o fwyd
+    da: måltid
+    de: Mahlzeit
+    de-ch: Mahlzeit
+    el: γεύμα
+    en: meal
+    en-ca: Meal
+    en-gb: meal
+    eo: manĝo
+    es: comida
+    et: Eine
+    eu: otordu
+    fa: وعده غذایی
+    fi: ateria
+    fr: repas
+    ga: béile
+    gl: comida
+    gn: Tembi'u
+    he: ארוחה
+    hi: भोजन
+    hu: étkezés
+    hy: սննդի ընդունում
+    id: Bersantap
+    is: Máltíð
+    it: pasto
+    ja: 食事
+    jv: sesuguh
+    kk: Тамақтану
+    kn: ಊಟ
+    ko: 식사
+    ku: Dan (demên xwarinê)
+    ky: Тамактануу
+    la: Epulum
+    lb: Molzecht
+    lt: valgis
+    lv: maltīte
+    mk: оброк
+    mnc: ᠪᡠᡩᠠ
+    ms: sajian
+    mt: ikla
+    nb: måltid
+    ne: छाक
+    nl: maaltijd
+    nn: måltid
+    pl: posiłek
+    pt: refeição
+    pt-br: Refeição
+    ro: masă (mâncare)
+    ru: приём пищи
+    shi: Tirmt
+    sk: jedlo
+    sl: obrok
+    sq: Vakti
+    sr: оброк
+    sr-ec: оброк
+    sr-el: obrok
+    sv: måltid
+    te: భోజనం
+    th: มื้ออาหาร
+    tr: öğün
+    tt: ашау
+    tt-cyrl: ашау
+    uk: їда
+    ur: طعام
+    vec: pacio
+    vi: bữa ăn
+    war: Pangaon
+    wuu: 饭
+    yi: מאלצייט
+    yo: oúnjẹ jíjẹ
+    yue: 餐
+    zh: 餐
+    zh-hans: 餐
+    zh-hant: 餐
+    zh-tw: 餐
 ---
-
 # [[Meal]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Meal,6460735|WD~Meal,6460735]] 

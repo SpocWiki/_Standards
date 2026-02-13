@@ -1,8 +1,53 @@
 ---
 aliases:
-  - Acanthopale
+- Acanthopale
+- akantopala
+- акантопале
+- 鵑蘆莉屬
+- 鹃芦莉属
 title: Acanthopale
 has_id_wikidata: Q2065116
+dv_has_:
+  name_:
+    an: Acanthopale
+    ast: Acanthopale
+    bg: акантопале
+    ca: Acanthopale
+    ceb: Acanthopale
+    de: Acanthopale
+    en: Acanthopale
+    eo: Acanthopale
+    es: Acanthopale
+    eu: Acanthopale
+    ext: Acanthopale
+    fi: Acanthopale
+    fr: Acanthopale
+    ga: Acanthopale
+    gl: Acanthopale
+    hr: Acanthopale
+    ia: Acanthopale
+    ie: Acanthopale
+    io: Acanthopale
+    it: Acanthopale
+    la: Acanthopale
+    mul: Acanthopale
+    nl: Acanthopale
+    oc: Acanthopale
+    pl: Acanthopale
+    pt: Acanthopale
+    pt-br: Acanthopale
+    ro: Acanthopale
+    ru: Акантопале
+    sk: akantopala
+    sq: Acanthopale
+    uk: Acanthopale
+    vi: Acanthopale
+    vo: Acanthopale
+    war: Acanthopale
+    zh: 鹃芦莉属
+    zh-cn: 鹃芦莉属
+    zh-hans: 鹃芦莉属
+    zh-tw: 鵑蘆莉屬
 ---
 # [[Acanthopale]] 
 

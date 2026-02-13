@@ -1,20 +1,85 @@
 ---
 aliases:
-  - Milbe
-  - Mite
-  - Acari
-  - клещи
-  - midd
-  - Milben
-  - Mijten
-  - acariens
-  - pršice
+- Acari
+- acariens
+- Acarina
+- Acaro
+- Akarian
+- Akarlar
+- Akaro
+- atkák
+- Chariels
+- Erkės
+- Grinje
+- Gənələr
+- Kanalar
+- Khiki
+- Krleži
+- kvalster
+- Kägentäid
+- Kägöintäi
+- lestalised
+- midd
+- middar
+- midder
+- mider
+- Mieten
+- Mijten
+- Milbe
+- Milben
+- Mite
+- Mítlar
+- pršice
+- punkit
+- puuŋkih
+- roztocze
+- Roztoče
+- roztoči
+- Utitiri
+- Ve bét
+- Yaaʼ bijáád tseebíhígíí
+- Zicca
+- àcar
+- Ácaro
+- Ērces
+- Άκαρι
+- акари
+- Гæбы
+- Кана (ҳашарот)
+- Кенелер
+- кліщі
+- Клїщ
+- клешч
+- клещи
+- кляшчы
+- крлежи
+- Лемтэй
+- Пыйи
+- Сăвăс
+- Талпандар
+- талпаннар
+- Ակարներ (կենդանիներ)
+- אקריות
+- خمنډک ډوله ژوې
+- علم حلم
+- قراديات
+- کنهسانان
+- আকারি
+- அக்காரினா
+- അകാരിന
+- කිණිතුල්ලෝ හා කීඩෑවෝ
+- ტკიპა
+- ሚተ
+- ダニ
+- 蜱螨亚纲
+- 蜱蟎亞綱
+- 진드기아강
 has_id_wikidata: Q19137
 Commons_category: Acari
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peacock%20mite%2C%20Tuckerella%20sp.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 733321
@@ -24,19 +89,123 @@ OmegaWiki_Defined_Meaning: 2386
 P8189: 987007553463905200
 start_time: -400000000-06
 taxon_common_name:
-  - клещи
-  - midd
-  - Milben
-  - Mijten
-  - acariens
-  - pršice
+- клещи
+- midd
+- Milben
+- Mijten
+- acariens
+- pršice
 taxon_name: Acari
 taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
 title: Acari
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Acari,38018029]]'
 UMLS_CUI: C0000890
+dv_has_:
+  name_:
+    an: Acari
+    ar: قراديات
+    arz: قراديات
+    ast: Acari
+    az: Gənələr
+    ba: Талпандар
+    be: кляшчы
+    be-tarask: клешч
+    bg: акари
+    bpy: আকারি
+    br: Akarian
+    ca: àcar
+    ceb: Acari
+    cs: roztoči
+    cv: Сăвăс
+    cy: Acari
+    da: mider
+    de: Milben
+    el: Άκαρι
+    en: Acari
+    eo: Akaro
+    es: Acari
+    et: lestalised
+    eu: Akaro
+    ext: Acari
+    fa: کنهسانان
+    fi: punkit
+    fr: Acari
+    ga: Acari
+    gl: Ácaro
+    he: אקריות
+    hr: Grinje
+    hu: atkák
+    hy: Ակարներ (կենդանիներ)
+    ia: Acari
+    id: Acari
+    ie: Acari
+    io: Akaro
+    is: Mítlar
+    it: Acari
+    ja: ダニ
+    jv: Acari
+    ka: ტკიპა
+    kk: Кенелер
+    ko: 진드기아강
+    ky: Кенелер
+    la: Acari
+    lb: Milben
+    lfn: Acaro
+    lt: Erkės
+    lv: Ērces
+    mk: крлежи
+    ml: അകാരിന
+    mrj: Пыйи
+    mul: Acari
+    nb: midder
+    nds: Mieten
+    nl: Acari
+    nn: middar
+    nv: Yaaʼ bijáád tseebíhígíí
+    oc: Acari
+    olo: Kägöintäi
+    os: Гæбы
+    pl: roztocze
+    ps: خمنډک ډوله ژوې
+    pt: Ácaro
+    pt-br: Acari
+    qu: Khiki
+    rm: Chariels
+    ro: Acarina
+    rsk: Клїщ
+    ru: клещи
+    scn: Zicca
+    sco: Acari
+    sh: Grinje
+    si: කිණිතුල්ලෝ හා කීඩෑවෝ
+    sk: Roztoče
+    sl: pršice
+    smn: puuŋkih
+    sq: Acari
+    sr: Krleži
+    sv: kvalster
+    sw: Utitiri
+    ta: அக்காரினா
+    tg: Кана (ҳашарот)
+    ti: ሚተ
+    tr: Akarlar
+    tt: талпаннар
+    tt-cyrl: талпаннар
+    udm: Лемтэй
+    uk: кліщі
+    ur: علم حلم
+    uz: Kanalar
+    vep: Kägentäid
+    vi: Ve bét
+    vo: Acari
+    war: Acari
+    wuu: 蜱螨亚纲
+    yue: 蜱蟎亞綱
+    zh: 蜱蟎亞綱
+    zh-cn: 蜱螨亚纲
+    zh-hans: 蜱螨亚纲
+    zh-tw: 蜱蟎亞綱
 ---
-
 # [[Mite]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Acari,19137]] 

@@ -1,31 +1,173 @@
 ---
 aliases:
-  - examination
-  - exam
-  - evaluation
-  - Test
+- arholiad
+- azterketa
+- egzamin
+- eksam
+- eksamen
+- evaluation
+- exam
+- examen
+- examination
+- felmérés
+- iskkus
+- iskos
+- ispit
+- izpit
+- kiểm tra
+- kwaji
+- mitihani
+- pagsusulit
+- proba
+- prov
+- prova
+- próf
+- scrúdú
+- sɔhwɛ
+- tentti
+- Test
+- Testing
+- testo
+- tests
+- teʹstt
+- tèst
+- ujian
+- verìfega
+- zdŏwka
+- zkouška
+- δοκιμή
+- испитување
+- контроль эш
+- контрольная работа
+- тест
+- тестування
+- тэст
+- քննություն
+- מבחן
+- آزمون
+- اختبار
+- امتحان
+- اوجين
+- ایمتاحان
+- परीक्षा
+- কৃতি অভীক্ষা
+- ਪ੍ਰੀਖਿਆ
+- தேர்வு
+- పరీక్ష
+- ಪರೀಕ್ಷೆ
+- စမ်းသပ်ခြင်း
+- ပၢင်တွပ်ႇလိၵ်ႈ
+- ᐆᒃᑐᕋᐃᓂᖅ
+- 定期考査
+- 定期考試
+- 定期考试
+- 測驗
+- 시험
 has_id_wikidata: Q27318
 different_from:
-  - '[[_Standards/WikiData/WD~schoolwork,279050]]'
-  - '[[_Standards/WikiData/WD~test,1003030]]'
-  - '[[_Standards/WikiData/WD~exam,1355298]]'
+- '[[_Standards/WikiData/WD~schoolwork,279050]]'
+- '[[_Standards/WikiData/WD~test,1003030]]'
+- '[[_Standards/WikiData/WD~exam,1355298]]'
 subclass_of: '[[../../../../WikiData/WD~work,386724]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~exam,1355298]]'
 has_use: '[[_Standards/WikiData/WD~educational_assessment,2585724]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~pedagogical_test,4347853]]'
-  - '[[_Standards/WikiData/WD~achievement_test,6165531]]'
-  - '[[_Standards/WikiData/WD~aptitude_test,11642505]]'
-  - '[[_Standards/WikiData/WD~writing_assessment,17157236]]'
+- '[[_Standards/WikiData/WD~pedagogical_test,4347853]]'
+- '[[_Standards/WikiData/WD~achievement_test,6165531]]'
+- '[[_Standards/WikiData/WD~aptitude_test,11642505]]'
+- '[[_Standards/WikiData/WD~writing_assessment,17157236]]'
 has_characteristic: '[[_Standards/WikiData/WD~test_validity,5372350]]'
 has_effect: '[[_Standards/WikiData/WD~test_score,7705804]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_test,96273743]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Test%20%28student%20assessment%29.jpeg
 IPTC_NewsCode: mediatopic/20000413
 Colon_Classification: T:551
+dv_has_:
+  name_:
+    ak: sɔhwɛ
+    ar: اختبار
+    azb: ایمتاحان
+    ba: контроль эш
+    be-tarask: тэст
+    bn: কৃতি অভীক্ষা
+    ca: examen
+    cs: zkouška
+    csb: egzamin
+    cy: arholiad
+    da: eksamen
+    dag: Testing
+    de: Test
+    el: δοκιμή
+    en: test
+    en-ca: test
+    en-gb: test
+    eo: testo
+    es: examen
+    et: eksam
+    eu: azterketa
+    fa: آزمون
+    fi: tentti
+    fr: examen
+    ga: scrúdú
+    gl: proba
+    ha: kwaji
+    he: מבחן
+    hi: परीक्षा
+    hr: ispit
+    ht: tèst
+    hu: felmérés
+    hy: քննություն
+    id: ujian
+    is: próf
+    it: test
+    iu: ᐆᒃᑐᕋᐃᓂᖅ
+    ja: 定期考査
+    kn: ಪರೀಕ್ಷೆ
+    ko: 시험
+    lv: tests
+    mk: испитување
+    ms: ujian
+    ms-arab: اوجين
+    my: စမ်းသပ်ခြင်း
+    nb: eksamen
+    ne: परीक्षा
+    nl: examen
+    pa: ਪ੍ਰੀਖਿਆ
+    pl: test
+    pt: prova
+    pt-br: prova
+    ro: examen
+    ru: контрольная работа
+    se: iskkus
+    sh: ispit
+    shn: ပၢင်တွပ်ႇလိၵ်ႈ
+    sl: izpit
+    smn: iskos
+    sms: teʹstt
+    sq: test
+    sr: тест
+    sv: prov
+    sw: mitihani
+    szl: zdŏwka
+    ta: தேர்வு
+    te: పరీక్ష
+    tl: pagsusulit
+    tr: test
+    tt: контроль эш
+    tt-cyrl: контроль эш
+    uk: тестування
+    ur: امتحان
+    uz: test
+    vec: verìfega
+    vi: kiểm tra
+    yue: 測驗
+    zh: 測驗
+    zh-cn: 定期考试
+    zh-hans: 定期考试
+    zh-hant: 定期考試
+    zh-tw: 測驗
 ---
-
 # [[Test]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Test,27318|WD~Test,27318]]  

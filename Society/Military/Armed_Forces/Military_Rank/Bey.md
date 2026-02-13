@@ -1,36 +1,156 @@
 ---
 aliases:
-  - Baig
-  - Bayg
-  - Beigh
-  - Beig
-  - Bek
-  - Baeg
-  - Begh
-  - Beg
-  - Bey
+- Baeg
+- Baig
+- Bajus
+- Bayg
+- Beg
+- Begh
+- Bei
+- Beig
+- Beigh
+- Beigus
+- bej
+- bejo
+- bejs
+- Bek
+- Bey
+- Bäk
+- Bï
+- Bəy
+- Μπέης
+- Бег
+- бей
+- Бек
+- Би
+- Бэй
+- Բեյ
+- ביי
+- بك
+- بىي
+- بی
+- بیگ
+- رتبة البكويه
+- बेग़
+- বেগ
+- ਬੇ
+- เบย์
+- ბაი
+- ベグ
+- 貝伊
+- 贝伊
+- 베이
 has_id_wikidata: Q181217
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~honorific,1326966]]"
-  - "[[_Standards/WikiData/WD~style,5767753]]"
-  - "[[_Standards/WikiData/WD~honorific_suffix,115859704]]"
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~honorific,1326966]]'
+- '[[_Standards/WikiData/WD~style,5767753]]'
+- '[[_Standards/WikiData/WD~honorific_suffix,115859704]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Baig,3683091]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Turkish,256]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Baig,3683091]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Turkish,256]]'
 country:
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-subclass_of: "[[_Standards/WikiData/WD~monarch,116]]"
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+subclass_of: '[[_Standards/WikiData/WD~monarch,116]]'
 native_label: Bey
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-10111%2C%20Paris%2C%20Bey%20von%20Thunis%20mit%20Ehrenwache.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%87%E0%A6%97.wav
 Commons_category: Beys
+dv_has_:
+  name_:
+    af: Bey
+    ar: بك
+    arz: رتبة البكويه
+    ast: Bey
+    az: Bəy
+    azb: بی
+    ba: Бей
+    be: бей
+    be-tarask: Бэй
+    bg: Бей
+    bn: বেগ
+    bs: Beg
+    ca: Bei
+    crh: Bek
+    cs: bej
+    da: Bey
+    de: Bey
+    el: Μπέης
+    en: bey
+    eo: bejo
+    es: bey
+    et: Bei
+    eu: bey
+    fa: بیگ
+    fi: Bey
+    fr: bey
+    ga: Bey
+    gl: Bey
+    he: ביי
+    hi: बेग़
+    hr: Beg
+    hu: bej
+    hy: Բեյ
+    id: Bey
+    it: bey
+    ja: ベグ
+    ka: ბაი
+    kk: Би
+    kk-arab: بىي
+    kk-cn: بىي
+    kk-cyrl: Би
+    kk-kz: Би
+    kk-latn: Bï
+    kk-tr: Bï
+    ko: 베이
+    ky: Бек
+    la: Beigus
+    lad: Bey
+    lt: Bajus
+    lv: bejs
+    mk: бег
+    ms: Bey
+    mul: bey
+    nb: bey
+    nl: Bei
+    nn: bey
+    os: бей
+    pa: ਬੇ
+    pl: Bej
+    pnb: بیگ
+    pt: Bei
+    ro: bei
+    ru: бей
+    sh: Beg
+    sk: Bej
+    sl: beg
+    sq: Bej
+    sr: бег
+    sr-ec: Бег
+    sr-el: Beg
+    sv: bej
+    tg: Бек
+    th: เบย์
+    tr: bey
+    tt: Bäk
+    uk: бей
+    ur: بیگ
+    uz: Bek
+    vi: Bey
+    wuu: 贝伊
+    yue: 貝伊
+    zh: 贝伊
+    zh-cn: 贝伊
+    zh-hans: 贝伊
+    zh-hant: 貝伊
+    zh-hk: 貝伊
+    zh-sg: 贝伊
+    zh-tw: 貝伊
 ---
-
 # [[Bey]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bey,181217|WD~Bey,181217]] 

@@ -1,31 +1,212 @@
 ---
 aliases:
-  - Zyklon
-  - hurricane
-  - typhoon
-  - Cyclone
+- ciclon
+- ciclone
+- cicló
+- ciclón
+- ciklon
+- ciklona
+- ciklonas
+- ciklone
+- ciklono
+- ciklons
+- cioclón
+- cyclon
+- Cyclone
+- cycloon
+- cyklon
+- cyklóna
+- hurricane
+- khì-soân
+- rivodoza
+- saikoloni
+- seiclon
+- siklon
+- sikloon
+- syklon
+- syklona
+- sykloni
+- sykloon
+- tlaková níž
+- trowyns
+- tsüklon
+- tufani
+- typhoon
+- uyalulaqpak
+- xoáy thuận
+- zikloi
+- Zyklon
+- şiddetli fırtına
+- πεδίο χαμηλού βαρομετρικού
+- циклон
+- циклонць
+- цыклён
+- цыклон
+- чарханд
+- ցիկլոն
+- ציקלון
+- إعصار
+- اعصار
+- سایکلۆن
+- سمندری طوفان
+- چرخند
+- आँधी
+- ग्वःफय्
+- चक्रबात
+- चक्रवात
+- वादळ
+- ঘূর্ণিঝড়
+- ਸਮੁੰਦਰੀ ਵਾਵਰੋਲ਼ਾ
+- ચક્રવાત
+- ଘୂର୍ଣ୍ଣିବାତ୍ୟା
+- சூறாவளி
+- తుఫాను
+- ಆವರ್ತಮಾರುತ
+- ചുഴലിക്കാറ്റ്
+- සුළි සුළඟ
+- ဆိုင်ကလုံးမုန်တိုင်း
+- မေလံင်
+- ციკლონი
+- サイクロン
+- 气旋
+- 氣旋
+- 저기압성 순환
 has_id_wikidata: Q79602
 subclass_of:
-  - "[[_Standards/WikiData/WD~storm,81054]]"
-  - "[[_Standards/WikiData/WD~low_pressure_area,209190]]"
-  - "[[_Standards/WikiData/WD~vortex,732722]]"
+- '[[_Standards/WikiData/WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~low_pressure_area,209190]]'
+- '[[_Standards/WikiData/WD~vortex,732722]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cyclones,7746467]]"
-different_from: "[[_Standards/WikiData/WD~tropical_cyclone,16172167]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cyclones,7746467]]'
+different_from: '[[_Standards/WikiData/WD~tropical_cyclone,16172167]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Low%20pressure%20system%20over%20Iceland.jpg
 U_S_National_Archives_Identifier: 10637211
 Commons_category: Cyclones
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cyclones%20banner%20Hurricane%20Felix.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001297
-Unicode_character: 🌀
+Unicode_character: "\U0001F300"
 Krugosvet_article_archived_: geografiya/tsiklon
+dv_has_:
+  name_:
+    af: sikloon
+    anp: चक्रबात
+    ar: إعصار
+    arz: اعصار
+    ast: ciclón
+    az: siklon
+    be: цыклон
+    be-tarask: цыклён
+    bg: циклон
+    bho: चक्रवात
+    bn: ঘূর্ণিঝড়
+    ca: cicló
+    ckb: سایکلۆن
+    cs: cyklóna
+    cv: циклон
+    cy: seiclon
+    da: cyklon
+    de: Zyklon
+    de-ch: Zyklon
+    diq: siklon
+    el: πεδίο χαμηλού βαρομετρικού
+    en: cyclone
+    en-ca: cyclone
+    en-gb: cyclone
+    eo: ciklono
+    es: ciclón
+    et: tsüklon
+    eu: zikloi
+    fa: چرخند
+    fi: sykloni
+    fj: saikoloni
+    fr: cyclone
+    ga: cioclón
+    gl: ciclón
+    gu: ચક્રવાત
+    he: ציקלון
+    hi: चक्रवात
+    hr: ciklona
+    hsb: cyklon
+    hu: ciklon
+    hy: ցիկլոն
+    id: siklon
+    ik: uyalulaqpak
+    io: ciklono
+    it: ciclone
+    ja: サイクロン
+    ka: ციკლონი
+    kk: циклон
+    kn: ಆವರ್ತಮಾರುತ
+    ko: 저기압성 순환
+    kw: trowyns
+    ky: циклон
+    la: cyclon
+    lmo: ciclon
+    lt: ciklonas
+    lv: ciklons
+    mdf: циклонць
+    mg: rivodoza
+    mk: циклон
+    ml: ചുഴലിക്കാറ്റ്
+    mn: циклон
+    mnw: မေလံင်
+    mr: वादळ
+    ms: siklon
+    my: ဆိုင်ကလုံးမုန်တိုင်း
+    nan: khì-soân
+    nb: syklon
+    ne: आँधी
+    new: ग्वःफय्
+    nl: cycloon
+    nn: syklon
+    oc: cyclone
+    or: ଘୂର୍ଣ୍ଣିବାତ୍ୟା
+    pa: ਸਮੁੰਦਰੀ ਵਾਵਰੋਲ਼ਾ
+    pl: cyklon
+    pnb: سمندری طوفان
+    pt: ciclone
+    pt-br: ciclone
+    ro: ciclon
+    ru: циклон
+    sco: cyclone
+    se: syklona
+    sh: ciklona
+    si: සුළි සුළඟ
+    sk: tlaková níž
+    sl: ciklon
+    smn: syklon
+    sms: sykloon
+    sq: ciklone
+    sr: циклон
+    sv: cyklon
+    sw: tufani
+    ta: சூறாவளி
+    te: తుఫాను
+    tg: чарханд
+    tr: şiddetli fırtına
+    udm: циклон
+    uk: циклон
+    ur: سمندری طوفان
+    uz: siklon
+    vi: xoáy thuận
+    wuu: 气旋
+    xmf: ციკლონი
+    yue: 氣旋
+    zh: 气旋
+    zh-cn: 气旋
+    zh-hans: 气旋
+    zh-hant: 氣旋
+    zh-hk: 氣旋
+    zh-mo: 氣旋
+    zh-my: 气旋
+    zh-sg: 气旋
+    zh-tw: 氣旋
 ---
-
 # [[Cyclone]] 🌀 
 
 #is_/same_as :: [[../../../WikiData/WD~Cyclone,79602|WD~Cyclone,79602]] 

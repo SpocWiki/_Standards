@@ -1,8 +1,55 @@
 ---
 has_id_wikidata: Q25106376
+dv_has_:
+  name_:
+    ar: وحدة معالجة تينسر
+    ast: tensor processing unit
+    ca: unitat de processament de tensors
+    cs: Tensor Processing Unit
+    de: Tensor Processing Unit
+    de-ch: Tensor Processing Unit
+    en: Tensor Processing Unit
+    en-ca: tensor processing unit
+    en-gb: tensor processing unit
+    eo: tensorprocesoro
+    es: unidad de procesamiento tensorial
+    et: TPU
+    fa: واحد پردازشی تنسور
+    fi: Tensorisuoritin
+    fr: unité de traitement de tenseur
+    he: TPU
+    hu: Tensor Processing Unit
+    it: tensor processing unit
+    ja: テンソル・プロセッシング・ユニット
+    ko: 텐서 처리 장치
+    lt: tenzorinis procesorius
+    ms: Unit Pemprosesan Tensor
+    mul: TPU
+    nl: Tensor Processing Unit
+    pl: Tensor Processing Unit
+    ru: тензорный процессор Google
+    th: หน่วยประมวลผลเทนเซอร์
+    uk: тензорний процесор
+    zh: 张量处理单元
+aliases:
+- tensor processing unit
+- Tensorisuoritin
+- tensorprocesoro
+- tenzorinis procesorius
+- TPU
+- unidad de procesamiento tensorial
+- Unit Pemprosesan Tensor
+- unitat de processament de tensors
+- unité de traitement de tenseur
+- тензорний процесор
+- тензорный процессор Google
+- واحد پردازشی تنسور
+- وحدة معالجة تينسر
+- หน่วยประมวลผลเทนเซอร์
+- テンソル・プロセッシング・ユニット
+- 张量处理单元
+- 텐서 처리 장치
 ---
-
-
 TPUs are designed by [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] specifically to optimally handle [[TensorFlow]] Workloads. 
 
 > Tensor Processing Unit (**TPU**) is an AI accelerator application-specific integrated circuit (ASIC) developed by Google for neural network machine learning, using Google's own TensorFlow software. 

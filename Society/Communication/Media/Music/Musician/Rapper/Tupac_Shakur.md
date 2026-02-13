@@ -1,82 +1,112 @@
 ---
 aliases:
-  - Tupac Amaru Shakur
-  - Lesane Parish Crooks
-  - 2Pac
-  - Makaveli
-  - Tupac_Shakur
-  - Tupac Shakur
+- 2Pac
+- Lesane Parish Crooks
+- Makaveli
+- Tupac
+- Tupac Amaru Shakur
+- Tupac Shakur
+- Tupac_Shakur
+- Tupak Şakur
+- Tupak Šakur
+- Tupaks Šakurs
+- Tupaq Shakur
+- Τούπακ Σακούρ
+- Тупак Амару Шакур
+- Тупак Шакур
+- Тупак Шәкүр
+- Թուփաք Շակուր
+- Թուփաք Շաքուր
+- טופאק שאקור
+- توباك شاكور
+- تووپاک شاکوور
+- توپاک شکور
+- ٹوپاک شکور
+- तुपाक शकूर
+- টুপাক শাকুর
+- ਟੁਪਾਕ ਸ਼ਾਕੁਰ
+- டூப்பாக் ஷகூர்
+- టూపాక్ షకుర్
+- റ്റുപാക് ഷക്കൂർ
+- ටූපැක් ශාකූර්
+- ทูพัค ชาเคอร์
+- თუფაქ ამარუ შაკური
+- ტუპაკ ამარუ შაკური
+- トゥパック・シャクール
+- 吐派克·夏庫爾
+- 图派克·夏库尔
+- 투팍 샤커
 has_id_wikidata: Q6107
 genre:
-  - '[[_Standards/WikiData/WD~conscious_hip_hop,141459]]'
-  - '[[_Standards/WikiData/WD~West_Coast_hip_hop,429264]]'
-  - '[[_Standards/WikiData/WD~gangsta_rap,753679]]'
-  - '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
-  - '[[_Standards/WikiData/WD~political_hip_hop,969663]]'
-  - '[[_Standards/WikiData/WD~G_funk,1045541]]'
-  - '[[_Standards/WikiData/WD~mafioso_rap,9302696]]'
+- '[[_Standards/WikiData/WD~conscious_hip_hop,141459]]'
+- '[[_Standards/WikiData/WD~West_Coast_hip_hop,429264]]'
+- '[[_Standards/WikiData/WD~gangsta_rap,753679]]'
+- '[[_Standards/WikiData/WD~hardcore_hip_hop,966564]]'
+- '[[_Standards/WikiData/WD~political_hip_hop,969663]]'
+- '[[_Standards/WikiData/WD~G_funk,1045541]]'
+- '[[_Standards/WikiData/WD~mafioso_rap,9302696]]'
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~lyricist,822146]]'
-  - '[[_Standards/WikiData/WD~rapper,2252262]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~activist,15253558]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~rapper,2252262]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~activist,15253558]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album_of_the_Year,7564359]]'
-  - '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Rap_Album,7564368]]'
-  - '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Rap_Hip_Hop_Artist,19858088]]'
-  - '[[_Standards/WikiData/WD~MOBO_Awards_for_Best_Video,63890997]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_R&B_Soul_Album_of_the_Year,7564359]]'
+- '[[_Standards/WikiData/WD~Soul_Train_Music_Award_for_Best_Rap_Album,7564368]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Rap_Hip_Hop_Artist,19858088]]'
+- '[[_Standards/WikiData/WD~MOBO_Awards_for_Best_Video,63890997]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
-  - '[[_Standards/WikiData/WD~Death_Row_Records,847018]]'
-  - '[[_Standards/WikiData/WD~Amaru_Entertainment,2273516]]'
+- '[[_Standards/WikiData/WD~Interscope_Records,231694]]'
+- '[[_Standards/WikiData/WD~Death_Row_Records,847018]]'
+- '[[_Standards/WikiData/WD~Amaru_Entertainment,2273516]]'
 named_after: '[[_Standards/WikiData/WD~Túpac_Amaru_II,315937]]'
 convicted_of:
-  - '[[_Standards/WikiData/WD~assault,365680]]'
-  - '[[_Standards/WikiData/WD~sexual_abuse,43414]]'
+- '[[_Standards/WikiData/WD~assault,365680]]'
+- '[[_Standards/WikiData/WD~sexual_abuse,43414]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 relative:
-  - '[[_Standards/WikiData/WD~Assata_Shakur,467961]]'
-  - '[[_Standards/WikiData/WD~Geronimo_Pratt,711080]]'
-  - '[[_Standards/WikiData/WD~Kastro,2153802]]'
+- '[[_Standards/WikiData/WD~Assata_Shakur,467961]]'
+- '[[_Standards/WikiData/WD~Geronimo_Pratt,711080]]'
+- '[[_Standards/WikiData/WD~Kastro,2153802]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Digital_Underground,605778]]'
-  - '[[_Standards/WikiData/WD~Outlawz,1057147]]'
-  - '[[_Standards/WikiData/WD~Thug_Life,1079019]]'
+- '[[_Standards/WikiData/WD~Digital_Underground,605778]]'
+- '[[_Standards/WikiData/WD~Outlawz,1057147]]'
+- '[[_Standards/WikiData/WD~Thug_Life,1079019]]'
 residence:
-  - '[[_Standards/WikiData/WD~East_Harlem,1069687]]'
-  - '[[_Standards/WikiData/WD~Marin_City,2586362]]'
-  - '[[_Standards/WikiData/WD~Pen_Lucy,7162090]]'
-  - '[[_Standards/WikiData/WD~Manhattan,11299]]'
-  - '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
-  - '[[_Standards/WikiData/WD~California,99]]'
+- '[[_Standards/WikiData/WD~East_Harlem,1069687]]'
+- '[[_Standards/WikiData/WD~Marin_City,2586362]]'
+- '[[_Standards/WikiData/WD~Pen_Lucy,7162090]]'
+- '[[_Standards/WikiData/WD~Manhattan,11299]]'
+- '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~California,99]]'
 place_of_birth: '[[_Standards/WikiData/WD~East_Harlem,1069687]]'
 cause_of_death: '[[_Standards/WikiData/WD~drive_by_shooting,1259359]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Mopreme_Shakur,1352765]]'
-  - '[[_Standards/WikiData/WD~Sekyiwa_Shakur,62739620]]'
-  - '[[_Standards/WikiData/WD~Takerra_Allen,111490920]]'
+- '[[_Standards/WikiData/WD~Mopreme_Shakur,1352765]]'
+- '[[_Standards/WikiData/WD~Sekyiwa_Shakur,62739620]]'
+- '[[_Standards/WikiData/WD~Takerra_Allen,111490920]]'
 discography: '[[_Standards/WikiData/WD~Tupac_Shakur_discography,1510112]]'
 place_of_detention: '[[_Standards/WikiData/WD~Clinton_Correctional_Facility,1637388]]'
 mother: '[[_Standards/WikiData/WD~Afeni_Shakur,2273636]]'
 father:
-  - '[[_Standards/WikiData/WD~Mutulu_Shakur,3394760]]'
-  - '[[_Standards/WikiData/WD~Billy_Garland,8248007]]'
+- '[[_Standards/WikiData/WD~Mutulu_Shakur,3394760]]'
+- '[[_Standards/WikiData/WD~Billy_Garland,8248007]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Baltimore_School_for_the_Arts,4852925]]'
-  - '[[_Standards/WikiData/WD~Paul_Laurence_Dunbar_High_School,7151957]]'
-  - '[[_Standards/WikiData/WD~Tamalpais_High_School,7680600]]'
+- '[[_Standards/WikiData/WD~Baltimore_School_for_the_Arts,4852925]]'
+- '[[_Standards/WikiData/WD~Paul_Laurence_Dunbar_High_School,7151957]]'
+- '[[_Standards/WikiData/WD~Tamalpais_High_School,7680600]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Kidada_Jones,6404568]]'
-  - '[[_Standards/WikiData/WD~Madonna,1744]]'
+- '[[_Standards/WikiData/WD~Kidada_Jones,6404568]]'
+- '[[_Standards/WikiData/WD~Madonna,1744]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_death: '[[_Standards/WikiData/WD~University_Medical_Center_of_Southern_Nevada,7894830]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Tupac_Shakur,12713007]]'
@@ -94,12 +124,12 @@ ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_category: Tupac Shakur
 Instagram_username: 2pac
 X_Twitter_username:
-  - 2pac
-  - 2PAC
+- 2pac
+- 2PAC
 pseudonym:
-  - 2Pac
-  - Makaveli
-  - MC New York
+- 2Pac
+- Makaveli
+- MC New York
 social_media_followers: 732852
 alternative_name: Tupac Amaru Shakur
 date_of_birth: 1971-06-16T00:00:00Z
@@ -121,8 +151,132 @@ Facebook_username: tupacshakur
 birth_name: Lesane Parish Crooks
 name_in_native_language: Tupac Shakur
 Know_Your_Meme_slug: tupac-hologram
+dv_has_:
+  name_:
+    af: Tupac Shakur
+    an: Tupac Shakur
+    ar: توباك شاكور
+    arz: توباك شاكور
+    ast: Tupac Shakur
+    az: Tupak Şakur
+    azb: توپاک شکور
+    be: Тупак Шакур
+    be-tarask: Тупак Шакур
+    bg: Тупак Шакур
+    bn: টুপাক শাকুর
+    bs: Tupac Shakur
+    ca: Tupac Shakur
+    ckb: تووپاک شاکوور
+    co: Tupac Shakur
+    cs: Tupac Shakur
+    cy: 2Pac
+    da: Tupac Shakur
+    de: Tupac Shakur
+    de-ch: Tupac Shakur
+    diq: Tupac Shakur
+    el: Τούπακ Σακούρ
+    en: Tupac Shakur
+    en-ca: Tupac Shakur
+    en-gb: Tupac Shakur
+    eo: Tupac Shakur
+    es: Tupac Shakur
+    et: Tupac Shakur
+    eu: Tupac Shakur
+    ext: Tupac Shakur
+    fa: توپاک شکور
+    fi: Tupac Shakur
+    fr: Tupac Shakur
+    fy: Tupac Shakur
+    ga: Tupac Shakur
+    gaa: Tupac Shakur
+    gl: Tupac Shakur
+    gpe: Tupac Shakur
+    ha: Tupac Shakur
+    he: טופאק שאקור
+    hi: तुपाक शकूर
+    hr: Tupac Shakur
+    hu: Tupac Shakur
+    hy: Թուփաք Շակուր
+    hyw: Թուփաք Շաքուր
+    id: Tupac Shakur
+    ie: Tupac Shakur
+    ig: Tupac Shakur
+    io: Tupac Shakur
+    is: Tupac Shakur
+    it: Tupac Shakur
+    ja: トゥパック・シャクール
+    jv: Tupac Shakur
+    ka: ტუპაკ ამარუ შაკური
+    ki: Tupac Shakur
+    kk: Тупак Амару Шакур
+    knc: Tupac
+    ko: 투팍 샤커
+    ku: Tupac Shakur
+    la: Tupac Shakur
+    lb: Tupac Shakur
+    lmo: Tupac Shakur
+    lt: Tupac Shakur
+    lv: Tupaks Šakurs
+    map-bms: Tupac Shakur
+    mg: Tupac Shakur
+    mk: Тупак Шакур
+    ml: റ്റുപാക് ഷക്കൂർ
+    mn: Тупак Шакур
+    ms: Tupac Shakur
+    mul: Tupac Shakur
+    mzn: توپاک شکور
+    nb: Tupac Shakur
+    nds: Tupac Shakur
+    nl: Tupac Shakur
+    nn: Tupac Shakur
+    oc: Tupac Shakur
+    pa: ਟੁਪਾਕ ਸ਼ਾਕੁਰ
+    pap: Tupac Shakur
+    pl: Tupac Shakur
+    pnb: ٹوپاک شکور
+    pt: Tupac Shakur
+    pt-br: Tupac Shakur
+    qu: Tupaq Shakur
+    ro: Tupac Shakur
+    ru: Тупак Шакур
+    sco: 2pac
+    sh: Tupac Shakur
+    si: ටූපැක් ශාකූර්
+    sk: Tupac Shakur
+    sl: Tupac Shakur
+    so: Tupac Shakur
+    sq: Tupac Amaru Shakur
+    sr: Тупак Шакур
+    stq: Tupac Shakur
+    sv: Tupac Shakur
+    sw: Tupac Shakur
+    szl: Tupac Shakur
+    ta: டூப்பாக் ஷகூர்
+    te: టూపాక్ షకుర్
+    tg: Тупак Шакур
+    th: ทูพัค ชาเคอร์
+    tk: Tupac Shakur
+    tl: Tupac Shakur
+    tly: Tupak Šakur
+    tn: Tupac Shakur
+    tr: Tupac Shakur
+    tt: Тупак Шәкүр
+    tt-cyrl: Тупак Шәкүр
+    tw: Tupac Shakur
+    uk: Тупак Шакур
+    ur: ٹوپاک شکور
+    uz: Tupac Shakur
+    vi: Tupac Shakur
+    vo: Tupac Shakur
+    war: Tupac Shakur
+    wuu: 图派克·夏库尔
+    xmf: თუფაქ ამარუ შაკური
+    yo: Tupac Shakur
+    yue: 2Pac
+    zh: 吐派克·夏庫爾
+    zh-hant: 吐派克·夏庫爾
+    zh-tw: 吐派克·夏庫爾
 ---
-
 # [[Tupac_Shakur]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tupac_Shakur,6107|WD~Tupac_Shakur,6107]]  

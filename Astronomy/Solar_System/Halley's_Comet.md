@@ -1,98 +1,178 @@
 ---
 aliases:
-  - Halley's Comet
-  - Halley's_Comet
+- 1P/Halley
+- 1P/Հալլեյ
+- Buntalang Halley
+- Comed Halley
+- Cometa de Halley
+- cometa di Halley
+- Cometa Halley
+- Cometa Halleyanus
+- comète de Halley
+- Conmète à Halley
+- Cumeta di Halley
+- Cóiméad Halley
+- Gallejan händytiähti
+- Galley kometasi
+- Halastjarna Halleys
+- Haleja kometo
+- Haleja komēta
+- Halejeva kometa
+- Halio kometa
+- Halley
+- Halley komeet
+- Halley kometa
+- Halley kometi
+- Halley kuyruklu yıldızı
+- Halley se Komeet
+- Halley Tn̂g-boé-chheⁿ
+- Halley's Comet
+- Halley's_Comet
+- Halley-üstökös
+- Halleyev komet
+- Halleyeva kometa
+- Halleyho kométa
+- Halleyjev komet
+- Halleyn komeetta
+- Halleyova kometa
+- Halleys komet
+- Halleysch Komet
+- Halleyscher Komet
+- Komeet fan Halley
+- Komeet Halley
+- Komet Halley
+- Kometa Halley
+- Kometa Halleya
+- Kometang Halley
+- Kometo di Halley
+- Komèt Halley
+- Koméit Halley
+- Nyotamkia ya Halley
+- Rongomai
+- Sao chổi Halley
+- Tataveve Halley
+- Κομήτης του Χάλεϋ
+- Галлей кометасы
+- Галлей кометаһы
+- Камета Галея
+- камэта Галея
+- Комета Галлея
+- Халејева комета
+- Халеева комета
+- שביט היילי
+- دنبالهدار هالی
+- مذنب هالي
+- هيلي جو دم دار ستارو
+- کلکداری ھاڵی
+- ہیلی دا دمدار سیارہ
+- ہیلی کا دم دار سیارہ
+- ہیلی کیتھ
+- हॅले धूमकेतू
+- हैली धूमकेतु
+- হেলিৰ ধুমকেতু
+- হ্যালির ধূমকেতু
+- ஹேலியின் வால்வெள்ளி
+- హేలీ తోకచుక్క
+- ഹാലിയുടെ വാൽനക്ഷത്രം
+- හේලිගේ වල්ගාතරුව
+- ดาวหางแฮลลีย์
+- ဟေလီကြယ်တံခွန်
+- ჰალეის კომეტა
+- ჰალეიშ კომეტა
+- ハレー彗星
+- 哈雷彗星
+- 핼리 혜성
 has_id_wikidata: Q23054
 provisional_designation:
-  - 1P/66 B1
-  - 1P/684 R1
-  - 1P/760 K1
-  - 1P/837 F1
-  - 1P/912 J1
-  - 1P/989 N1
-  - 1301
-  - 1066
-  - 1145
-  - 141
-  - 218
-  - 451
-  - 66
-  - 374
-  - 530
-  - 1531
-  - 912
-  - 1607
-  - 295
-  - 989
-  - 684
-  - 1682
-  - 837
-  - 1222
-  - 607
-  - 1456
-  - 1378
-  - -239
-  - 760
-  - -11
-  - -86
-  - -163
-  - 1759 I
-  - 1835 III
-  - 1909c
-  - 1910 II
-  - 1982i
-  - 1986 III
-  - 1P/-11 Q1
-  - 1P/-163 U1
-  - 1P/-239 K1
-  - 1P/-86 Q1
-  - 1P/1066 G1
-  - 1P/1145 G1
-  - 1P/1222 R1
-  - 1P/1301 R1
-  - 1P/1378 S1
-  - 1P/141 F1
-  - 1P/1456 K1
-  - 1P/1531 P1
-  - 1P/1607 S1
-  - 1P/1682 Q1
-  - 1P/1758 Y1
-  - 1P/1835 P1
-  - 1P/1909 R1
-  - 1P/1982 U1
-  - 1P/218 H1
-  - 1P/295 J1
-  - 1P/374 E1
-  - 1P/451 L1
-  - 1P/530 Q1
-  - 1P/607 H1
+- 1P/66 B1
+- 1P/684 R1
+- 1P/760 K1
+- 1P/837 F1
+- 1P/912 J1
+- 1P/989 N1
+- 1301
+- 1066
+- 1145
+- 141
+- 218
+- 451
+- 66
+- 374
+- 530
+- 1531
+- 912
+- 1607
+- 295
+- 989
+- 684
+- 1682
+- 837
+- 1222
+- 607
+- 1456
+- 1378
+- -239
+- 760
+- -11
+- -86
+- -163
+- 1759 I
+- 1835 III
+- 1909c
+- 1910 II
+- 1982i
+- 1986 III
+- 1P/-11 Q1
+- 1P/-163 U1
+- 1P/-239 K1
+- 1P/-86 Q1
+- 1P/1066 G1
+- 1P/1145 G1
+- 1P/1222 R1
+- 1P/1301 R1
+- 1P/1378 S1
+- 1P/141 F1
+- 1P/1456 K1
+- 1P/1531 P1
+- 1P/1607 S1
+- 1P/1682 Q1
+- 1P/1758 Y1
+- 1P/1835 P1
+- 1P/1909 R1
+- 1P/1982 U1
+- 1P/218 H1
+- 1P/295 J1
+- 1P/374 E1
+- 1P/451 L1
+- 1P/530 Q1
+- 1P/607 H1
 Krugosvet_article_archived_: astronomiya/kometa-galleya
 Commons_category: Comet Halley
 Wolfram_Language_entity_code: Entity["Comet", "Comet1PHalley"]
 time_of_periapsis: 2446470.1488983454
 mean_anomaly: 274.1404919498392
 apoapsis: 35.28091967
-child_astronomical_body: "[[_Standards/WikiData/WD~Eta_Aquariids,249546]]"
-different_from: "[[_Standards/WikiData/WD~Halley,258114]]"
+child_astronomical_body: '[[_Standards/WikiData/WD~Eta_Aquariids,249546]]'
+different_from: '[[_Standards/WikiData/WD~Halley,258114]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~near_Earth_object,265392]]"
-  - "[[_Standards/WikiData/WD~periodic_comet,11416914]]"
-  - "[[_Standards/WikiData/WD~Halley_type_comet,11741560]]"
+- '[[_Standards/WikiData/WD~near_Earth_object,265392]]'
+- '[[_Standards/WikiData/WD~periodic_comet,11416914]]'
+- '[[_Standards/WikiData/WD~Halley_type_comet,11741560]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~perihelion_passage,11638551]]"
-  - "[[_Standards/WikiData/WD~flyby,60323459]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~perihelion_passage,11638551]]'
+- '[[_Standards/WikiData/WD~flyby,60323459]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 time_of_discovery_or_invention: -0465-01-01T00:00:00Z
 semi_major_axis_of_an_orbit: 17.92781774
 longitude_of_ascending_node: 59.11448293673941
 orbital_eccentricity: 0.967942791
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 albedo: 0.04
 diameter: 11
 mass: 220
 absolute_magnitude: 5.5
 density: 850
-named_after: "[[_Standards/WikiData/WD~Edmond_Halley,47434]]"
+named_after: '[[_Standards/WikiData/WD~Edmond_Halley,47434]]'
 orbital_period: 27726.15005
 periapsis: 0.5747158
 argument_of_periapsis: 112.25779
@@ -102,15 +182,6 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Come
 orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Halley%27s%20Comet%20animation.gif
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Halley's_Comet,23054]]"
-    - "[[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]]"
-    - "[[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Halley's_Comet.internal|Halley's_Comet.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Halley's_Comet.protect|Halley's_Comet.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Halley's_Comet.private|Halley's_Comet.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Halley's_Comet.personal|Halley's_Comet.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Halley's_Comet.secret|Halley's_Comet.secret]]"
-dv_is_same_as:
   - "[[../../WikiData/WD~Halley's_Comet,23054]]"
   - "[[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]]"
   - "[[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]]"
@@ -119,8 +190,127 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Solar_System/Halley's_Comet.private|Halley's_Comet.private]]"
   - "[[/_personal/Astronomy/Solar_System/Halley's_Comet.personal|Halley's_Comet.personal]]"
   - "[[/_secret/Astronomy/Solar_System/Halley's_Comet.secret|Halley's_Comet.secret]]"
+dv_is_same_as:
+- "[[../../WikiData/WD~Halley's_Comet,23054]]"
+- "[[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]]"
+- "[[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]]"
+- "[[/_internal/Astronomy/Solar_System/Halley's_Comet.internal|Halley's_Comet.internal]]"
+- "[[/_protect/Astronomy/Solar_System/Halley's_Comet.protect|Halley's_Comet.protect]]"
+- "[[/_private/Astronomy/Solar_System/Halley's_Comet.private|Halley's_Comet.private]]"
+- "[[/_personal/Astronomy/Solar_System/Halley's_Comet.personal|Halley's_Comet.personal]]"
+- "[[/_secret/Astronomy/Solar_System/Halley's_Comet.secret|Halley's_Comet.secret]]"
+dv_has_:
+  name_:
+    af: Halley se Komeet
+    ar: مذنب هالي
+    as: হেলিৰ ধুমকেতু
+    ast: Cometa Halley
+    az: Halley kometi
+    ba: Галлей кометаһы
+    be: Камета Галея
+    be-tarask: камэта Галея
+    bg: Халеева комета
+    bn: হ্যালির ধূমকেতু
+    bs: Halejeva kometa
+    ca: cometa Halley
+    ckb: کلکداری ھاڵی
+    cs: Halleyova kometa
+    cy: Comed Halley
+    da: Halleys komet
+    de: Halleyscher Komet
+    el: Κομήτης του Χάλεϋ
+    en: Halley's Comet
+    en-ca: Halley's Comet
+    en-gb: Halley's Comet
+    eo: Haleja kometo
+    es: Halley
+    et: Halley komeet
+    eu: Halley kometa
+    fa: دنبالهدار هالی
+    fi: Halleyn komeetta
+    fr: comète de Halley
+    fy: Komeet fan Halley
+    ga: Cóiméad Halley
+    gl: Cometa Halley
+    gn: Tataveve Halley
+    ha: Halley's Comet
+    he: שביט היילי
+    hi: हैली धूमकेतु
+    hr: Halleyev komet
+    hu: Halley-üstökös
+    hy: 1P/Հալլեյ
+    ia: Cometa Halley
+    id: Komet Halley
+    io: Kometo di Halley
+    is: Halastjarna Halleys
+    it: cometa di Halley
+    ja: ハレー彗星
+    jv: Komèt Halley
+    ka: ჰალეის კომეტა
+    kk: Галлей кометасы
+    ko: 핼리 혜성
+    ks: ہیلی کیتھ
+    ky: Галлей кометасы
+    la: Cometa Halleyanus
+    lb: Koméit Halley
+    lt: Halio kometa
+    lv: Haleja komēta
+    mi: Rongomai
+    min: Komet Halley
+    mk: Халеева Комета
+    ml: ഹാലിയുടെ വാൽനക്ഷത്രം
+    mr: हॅले धूमकेतू
+    ms: Komet Halley
+    mul: 1P/Halley
+    my: ဟေလီကြယ်တံခွန်
+    nan: Halley Tn̂g-boé-chheⁿ
+    nb: Halleys komet
+    nds: Halleysch Komet
+    nl: Komeet Halley
+    nn: Halleys komet
+    nrm: Conmète à Halley
+    oc: Cometa de Halley
+    olo: Gallejan händytiähti
+    pam: Kometang Halley
+    pl: Kometa Halleya
+    pnb: ہیلی دا دمدار سیارہ
+    pt: Cometa Halley
+    pt-br: 1P/Halley
+    ro: Cometa Halley
+    ru: Комета Галлея
+    scn: Cumeta di Halley
+    sd: هيلي جو دم دار ستارو
+    sh: Halleyeva kometa
+    si: හේලිගේ වල්ගාතරුව
+    sk: Halleyho kométa
+    sl: Halleyjev komet
+    sq: Kometa Halley
+    sr: Халејева комета
+    sr-ec: Халејева комета
+    su: Komet Halley
+    sv: Halleys komet
+    sw: Nyotamkia ya Halley
+    ta: ஹேலியின் வால்வெள்ளி
+    te: హేలీ తోకచుక్క
+    th: ดาวหางแฮลลีย์
+    tl: Buntalang Halley
+    tr: Halley kuyruklu yıldızı
+    tt: Галлей кометасы
+    uk: Комета Галлея
+    ur: ہیلی کا دم دار سیارہ
+    uz: Galley kometasi
+    vec: Cometa de Halley
+    vi: Sao chổi Halley
+    war: Kometa Halley
+    wuu: 哈雷彗星
+    xmf: ჰალეიშ კომეტა
+    yo: 1P/Halley
+    yue: 哈雷彗星
+    zh: 哈雷彗星
+    zh-cn: 哈雷彗星
+    zh-hans: 哈雷彗星
+    zh-hant: 哈雷彗星
 ---
-
 # [[Halley's_Comet]] 
 
 #is_/same_as :: [[WD~Halley's_Comet,23054]] 

@@ -1,33 +1,134 @@
 ---
 aliases:
-  - Beschneidung
-  - Circumcision
+- Adagbigbo
+- Apgraizīšana
+- apipjaustymas
+- Beschneidung
+- besnijenis
+- besnydenis
+- birračuohppan
+- Bolokoli
+- circoncision
+- circoncisione
+- circumcisie
+- Circumcisio
+- Circumcision
+- circumcisió
+- circumcizie
+- Circuncisioni
+- circuncisión
+- circuncisão
+- cirkoncizo
+- cirkumcido
+- cắt bao quy đầu
+- Discalotaedje
+- Dzingiswa
+- enwaediad
+- Erdainkuntza
+- Famorana
+- Gusiramura
+- gùzo᷅ytà
+- Kachiya
+- Kerwayin
+- khatan
+- Khitanan
+- Kişi sünnəti
+- Kusoka
+- körülmetélés
+- male circumcision
+- manlig omskärelse
+- Mannlig omskjæring
+- Obrezivanje
+- obrezovanje moških
+- obriezka
+- Obrzezanie
+- obřízka
+- omskjering
+- omskæring
+- Pagturi
+- Pagtutuli
+- pirrâčuopâdem
+- pirrčuõppmõš
+- sircoside
+- Sirkunsision
+- Sunaik
+- Sunat
+- Sunneti - burimi i sheriatit
+- säprepüdam
+- sünnet
+- timpeallghearradh
+- Tohara
+- Trodroc'hañ
+- Turi
+- tyei mi̱ cen
+- Ukusoka
+- Ulwaluko
+- Umskurður
+- Xatna
+- Ymbcyrf
+- ympärileikkaus
+- Zirkumzision
+- Ümberlõikamine
+- Περιτομή
+- абразанне
+- абразаньне
+- обрізання
+- обрежување
+- обрезание
+- Обрязване
+- Сүндеттеу
+- Хадор
+- Хатна
+- Ӳт касни
+- Թլպատում
+- מילה
+- ختان
+- ختنه
+- ختنہ
+- خەتەنەکردنی کوڕان
+- طھر جي رسم
+- खतना
+- सुंता
+- খৎনা
+- ਖ਼ਤਨਾ
+- ସୁନତ୍
+- விருத்த சேதனம்
+- సున్తీ
+- ചേലാകർമ്മം
+- การขริบหนังหุ้มปลาย
+- წინადაცვეთა
+- 割包皮
+- 割礼
+- 包皮微雕环切术
+- 包皮环切术
+- 婴儿包皮微雕环切术
+- 할례
 has_id_wikidata: Q83345
 has_part_s_:
-  - '[[_Standards/WikiData/WD~circumcision_in_Islam,179561]]'
-  - '[[_Standards/WikiData/WD~circumcision_controversy_in_early_Christianity,5121728]]'
+- '[[_Standards/WikiData/WD~circumcision_in_Islam,179561]]'
+- '[[_Standards/WikiData/WD~circumcision_controversy_in_early_Christianity,5121728]]'
 different_from:
-  - '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
-  - '[[_Standards/WikiData/WD~gender_affirming_surgery,1053501]]'
+- '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
+- '[[_Standards/WikiData/WD~gender_affirming_surgery,1053501]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
-  - '[[_Standards/WikiData/WD~foreskin_restoration,1583202]]'
+- '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
+- '[[_Standards/WikiData/WD~foreskin_restoration,1583202]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~medical_procedure,796194]]'
-  - '[[_Standards/WikiData/WD~ablation,1886589]]'
-  - '[[_Standards/WikiData/WD~genital_modification,3309852]]'
-  - '[[_Standards/WikiData/WD~removal,23009442]]'
+- '[[_Standards/WikiData/WD~medical_procedure,796194]]'
+- '[[_Standards/WikiData/WD~ablation,1886589]]'
+- '[[_Standards/WikiData/WD~genital_modification,3309852]]'
+- '[[_Standards/WikiData/WD~removal,23009442]]'
 possible_treatment: '[[_Standards/WikiData/WD~circumcising,5121724]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Circumcision_series,6925518]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
@@ -40,17 +141,136 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Minor%20surgery%20and%
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/circumcision
 Stack_Exchange_tag: https://hermeneutics.stackexchange.com/tags/circumcision
 described_at_URL:
-  - https://namkhoabienhoa.com
-  - https://phongkhamdakhoahongphuc.vn
+- https://namkhoabienhoa.com
+- https://phongkhamdakhoahongphuc.vn
 P8189: 987007286300405171
 UMLS_CUI: C0008819
 MeSH_tree_code:
-  - E02.218.085.170
-  - E04.085.170
-  - E04.950.774.860.226
+- E02.218.085.170
+- E04.085.170
+- E04.950.774.860.226
 Krugosvet_article: medicina/OBREZANIE.html
+dv_has_:
+  name_:
+    af: besnydenis
+    ang: Ymbcyrf
+    ar: ختان
+    arz: ختان
+    ast: Circuncisión
+    az: Kişi sünnəti
+    azb: ختنه
+    bar: Beschneidung
+    bcl: Pagturi
+    be: абразанне
+    be-tarask: абразаньне
+    bg: Обрязване
+    bm: Bolokoli
+    bn: খৎনা
+    br: Trodroc'hañ
+    ca: circumcisió
+    ce: Хадор
+    ckb: خەتەنەکردنی کوڕان
+    cs: obřízka
+    cv: Ӳт касни
+    cy: enwaediad
+    da: omskæring
+    de: Zirkumzision
+    de-ch: Zirkumzision
+    diq: Kerwayin
+    el: Περιτομή
+    en: circumcision
+    en-ca: male circumcision
+    en-gb: male circumcision
+    eo: cirkumcido
+    es: circuncisión
+    et: Ümberlõikamine
+    eu: Erdainkuntza
+    fa: ختنه
+    fi: ympärileikkaus
+    fon: Adagbigbo
+    fr: circoncision
+    fy: besnijenis
+    ga: timpeallghearradh
+    gl: Circuncisión
+    gpe: circumcision
+    gsw: Zirkumzision
+    ha: Kachiya
+    he: מילה
+    hi: खतना
+    hr: Obrezivanje
+    hu: körülmetélés
+    hy: Թլպատում
+    id: Sunat
+    io: cirkoncizo
+    is: Umskurður
+    it: circoncisione
+    ja: 割礼
+    jv: Khitanan
+    ka: წინადაცვეთა
+    kcg: tyei mi̱ cen
+    kk: Сүндеттеу
+    ko: 할례
+    la: Circumcisio
+    lfn: sircoside
+    lt: apipjaustymas
+    lv: Apgraizīšana
+    mcn: gùzo᷅ytà
+    mg: Famorana
+    min: Sunaik
+    mk: обрежување
+    ml: ചേലാകർമ്മം
+    mr: सुंता
+    ms: khatan
+    nb: Mannlig omskjæring
+    ne: खतना
+    nl: circumcisie
+    nn: omskjering
+    nup: Circumcision
+    or: ସୁନତ୍
+    pa: ਖ਼ਤਨਾ
+    pl: Obrzezanie
+    pnb: ختنہ
+    pt: circuncisão
+    pt-br: Circuncisão
+    rmy: Sirkunsision
+    ro: circumcizie
+    ru: обрезание
+    rw: Gusiramura
+    scn: Circuncisioni
+    sco: circumcision
+    sd: طھر جي رسم
+    se: birračuohppan
+    sh: Obrezivanje
+    sk: obriezka
+    sl: obrezovanje moških
+    smn: pirrâčuopâdem
+    sms: pirrčuõppmõš
+    sn: Dzingiswa
+    sq: Sunneti - burimi i sheriatit
+    sr: Obrezivanje
+    ss: Kusoka
+    sv: manlig omskärelse
+    sw: Tohara
+    ta: விருத்த சேதனம்
+    te: సున్తీ
+    tg: Хатна
+    th: การขริบหนังหุ้มปลาย
+    tl: Pagtutuli
+    tr: sünnet
+    uk: обрізання
+    ur: ختنہ
+    uz: Xatna
+    vi: cắt bao quy đầu
+    vo: säprepüdam
+    wa: Discalotaedje
+    war: Turi
+    wuu: 包皮环切术
+    xh: Ulwaluko
+    yue: 割包皮
+    zh: 包皮微雕环切术
+    zh-cn: 婴儿包皮微雕环切术
+    zu: Ukusoka
 ---
-
 # [[Circumcision]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Circumcision,83345|WD~Circumcision,83345]] 

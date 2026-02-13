@@ -1,8 +1,112 @@
 ---
 has_id_wikidata: Q876215
+dv_has_:
+  name_:
+    ar: تحليل توافقي
+    ast: analís harmónicu
+    az: Harmonik analiz
+    ba: гармоник анализ
+    be: гарманічны аналіз
+    be-tarask: гарманічны аналіз
+    bg: хармоничен анализ
+    ca: anàlisi harmònica
+    cs: harmonická analýza
+    cv: гармонилле анализ
+    cy: harmoneg dadansoddiadol
+    da: harmonisk analyse
+    de: harmonische Analyse
+    el: αρμονική ανάλυση
+    en: harmonic analysis
+    eo: harmona analitiko
+    es: análisis armónico
+    et: harmooniline analüüs
+    eu: Analisi harmoniko
+    fa: آنالیز هارمونیک
+    fi: harmoninen analyysi
+    fr: analyse harmonique
+    gl: análise harmónica
+    he: אנליזה הרמונית
+    hi: हार्मोनिक विश्लेषण
+    hu: harmonikus analízis
+    hy: հարմոնիկ անալիզ
+    id: analisis harmonik
+    it: analisi armonica
+    ja: 調和解析
+    ka: ჰარმონიული ანალიზი
+    ko: 조화해석학
+    ms: analisis harmonik
+    mt: analisi armonika
+    nb: harmonisk analyse
+    nl: harmonische analyse
+    nn: harmonisk analyse
+    pl: analiza harmoniczna
+    pt: análise harmónica
+    pt-br: análise harmônica
+    ro: analiză armonică
+    ru: гармонический анализ
+    sl: harmonična analiza
+    sq: analiza harmonike
+    sr: хармонијска анализа
+    sr-ec: хармонијска анализа
+    sr-el: harmonijska analiza
+    sv: harmonisk analys
+    tr: harmonik analizi
+    uk: гармонічний аналіз
+    uz: garmonik analiz
+    wuu: 调和分析
+    yue: 諧波分析
+    zh: 調和分析
+    zh-hans: 调和分析
+    zh-hant: 調和分析
+aliases:
+- analisi armonica
+- analisi armonika
+- Analisi harmoniko
+- analisis harmonik
+- analiza harmoniczna
+- analiza harmonike
+- analiză armonică
+- analyse harmonique
+- analís harmónicu
+- anàlisi harmònica
+- análise harmónica
+- análise harmônica
+- análisis armónico
+- garmonik analiz
+- harmona analitiko
+- harmoneg dadansoddiadol
+- harmonic analysis
+- harmonická analýza
+- harmonijska analiza
+- Harmonik analiz
+- harmonik analizi
+- harmonikus analízis
+- harmoninen analyysi
+- harmonische Analyse
+- harmonisk analys
+- harmonisk analyse
+- harmonična analiza
+- harmooniline analüüs
+- αρμονική ανάλυση
+- гарманічны аналіз
+- гармонічний аналіз
+- гармоник анализ
+- гармонилле анализ
+- гармонический анализ
+- хармонијска анализа
+- хармоничен анализ
+- հարմոնիկ անալիզ
+- אנליזה הרמונית
+- آنالیز هارمونیک
+- تحليل توافقي
+- हार्मोनिक विश्लेषण
+- ჰარმონიული ანალიზი
+- 調和分析
+- 調和解析
+- 諧波分析
+- 调和分析
+- 조화해석학
 ---
-
-
 # [[Harmonic_Analysis]] 
 
 #is_/same_as :: [[WikiData/WD~Harmonic_analysis,876215|WD~Harmonic_analysis,876215]] 

@@ -1,9 +1,142 @@
 ---
 aliases:
-  - Zingiberanae
-  - Zingiberales
+- Bộ Gừng
+- gyömbérvirágúak
+- Imbieriečiai
+- Imbirowce
+- Ingefärsordningen
+- Ingefær-ordenen
+- ingefærordenen
+- Ingefærplanter
+- Ingveraugu rinda
+- Ingverilaadsed
+- ingverjevci
+- Ingwerartige
+- Koma zencefîlan
+- Tanom nga luya
+- Zingiberales
+- Zingiberals
+- Zingiberanae
+- Zingibraloj
+- zázvorníkotvaré
+- Zəncəfilçiçəklilər
+- ďumbierotvaré
+- Đumbirolike
+- Ѓумбировидни
+- Імбіракветныя
+- Імбироцвіті
+- джинджифилоцветни
+- Имбирецветные
+- Имбирь чукӧр
+- Իմբիրածաղկավորներ
+- זנגבילאים
+- ادرکورگے
+- زنجبيليات
+- زنجبیلسانان
+- کۆما زەنجەفیلان
+- జింజిబరేలిస్
+- സിഞ്ചിബറേൽസ്
+- සිංගිබෙරයිලෙස්
+- อันดับขิง
+- ショウガ目
+- 姜目
+- 薑目
+- 생강목
 title: Zingiberanae
 has_id_wikidata: Q203779
+dv_has_:
+  name_:
+    an: Zingiberales
+    ar: زنجبيليات
+    arz: زنجبيليات
+    ast: Zingiberales
+    az: Zəncəfilçiçəklilər
+    be: Імбіракветныя
+    be-tarask: Імбіракветныя
+    bg: джинджифилоцветни
+    bs: Zingiberales
+    ca: Zingiberals
+    ceb: Tanom nga luya
+    co: Zingiberales
+    cs: zázvorníkotvaré
+    da: Ingefær-ordenen
+    de: Ingwerartige
+    de-ch: Ingwerartige
+    en: Zingiberales
+    en-ca: Zingiberales
+    en-gb: Zingiberales
+    eo: Zingibraloj
+    es: Zingiberales
+    et: Ingverilaadsed
+    eu: Zingiberales
+    ext: Zingiberales
+    fa: زنجبیلسانان
+    fi: Zingiberales
+    fr: Zingiberales
+    frr: Zingiberales
+    ga: Zingiberales
+    gl: Zingiberales
+    he: זנגבילאים
+    hr: Đumbirolike
+    hu: gyömbérvirágúak
+    hy: Իմբիրածաղկավորներ
+    ia: Zingiberales
+    id: Zingiberales
+    ie: Zingiberales
+    io: Zingiberales
+    it: Zingiberales
+    ja: ショウガ目
+    jv: Zingiberales
+    ko: 생강목
+    koi: Имбирь чукӧр
+    ku: Koma zencefîlan
+    ku-arab: کۆما زەنجەفیلان
+    ku-latn: Koma zencefîlan
+    kv: Имбирь чукӧр
+    la: Zingiberales
+    lt: Imbieriečiai
+    lv: Ingveraugu rinda
+    mk: Ѓумбировидни
+    ml: സിഞ്ചിബറേൽസ്
+    ms: Zingiberales
+    mul: Zingiberales
+    nb: Ingefærplanter
+    nl: Zingiberales
+    nn: ingefærordenen
+    oc: Zingiberales
+    pl: Imbirowce
+    pnb: ادرکورگے
+    pt: Zingiberales
+    pt-br: Zingiberales
+    ro: Zingiberales
+    ru: Имбирецветные
+    sco: Zingiberales
+    sh: Zingiberales
+    si: සිංගිබෙරයිලෙස්
+    sk: ďumbierotvaré
+    sl: ingverjevci
+    sq: Zingiberales
+    sr: Zingiberales
+    sr-ec: Zingiberales
+    sr-el: Zingiberales
+    su: Zingiberales
+    sv: Ingefärsordningen
+    te: జింజిబరేలిస్
+    th: อันดับขิง
+    uk: Імбироцвіті
+    vi: Bộ Gừng
+    vls: Zingiberales
+    vo: Zingiberales
+    war: Zingiberales
+    wuu: 姜目
+    yue: 薑目
+    zh: 姜目
+    zh-cn: 姜目
+    zh-hans: 姜目
+    zh-hant: 薑目
+    zh-hk: 薑目
+    zh-sg: 姜目
+    zh-tw: 薑目
 ---
 # [[Zingiberales]]
 

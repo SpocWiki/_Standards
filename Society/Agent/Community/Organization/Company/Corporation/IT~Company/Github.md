@@ -1,8 +1,42 @@
 ---
 has_id_wikidata: Q364
+dv_has_:
+  name_:
+    ar: غيت هاب
+    azb: قیتهاب
+    bn: গিটহাব
+    ckb: گیتھەب
+    fa: گیتهاب
+    ha: Github
+    hi: गिटहब
+    ko: 깃허브
+    ml: ഗിറ്റ്ഹബ്ബ്
+    ms-arab: ݢيت هب
+    mul: GitHub
+    my: ဂစ်တ်ဟပ်ဘ်
+    ne: गिटहब
+    sv: Github
+    ta: ஜிட்ஹப்
+    th: กิตฮับ
+    ug: گىتخاب
+    ur: گٹ ہب
+aliases:
+- GitHub
+- غيت هاب
+- قیتهاب
+- گىتخاب
+- گٹ ہب
+- گیتهاب
+- گیتھەب
+- ݢيت هب
+- गिटहब
+- গিটহাব
+- ஜிட்ஹப்
+- ഗിറ്റ്ഹബ്ബ്
+- กิตฮับ
+- ဂစ်တ်ဟပ်ဘ်
+- 깃허브
 ---
-
-
 # [[Github]] 
 
 #has_/creator :: [ [[Tom_Preston-Werner]], [[Chris_Wanstrath]] ] 

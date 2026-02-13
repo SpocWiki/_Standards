@@ -1,10 +1,173 @@
 ---
 aliases:
-  - Helena von Troia
-  - Helen of Sparta
-  - Helen_of_Troy
-  - Helen of Troy
+- Elen o Gaerdroea
+- Elena
+- Elena (mitologie)
+- Elena de Troya
+- Elena Troia
+- Elene
+- Helen
+- Helen han Troya
+- Helen ng Troya
+- Helen nin Troy
+- Helen o Troy
+- Helen of Sparta
+- Helen of Troy
+- Helena
+- Helena d'Esparta
+- Helena de Trojo
+- Helena fagra
+- Helena Troiakoa
+- Helena Trojanska
+- Helena Trojańska
+- Helena Trojës
+- Helena van Troje
+- Helena von Troia
+- Helena wa Troia
+- Helene
+- Helen_of_Troy
+- Helené
+- Helenê
+- Helenė
+- Héilin na Traoi
+- Hélène
+- Hélène d'Esparte
+- Yelena
+- Èlina
+- Ελένη
+- Єлена Троянська
+- Алена Прыгожая
+- Алена Цудоўная
+- Елена Прекрасная
+- Елена Тројанска
+- Рæсугъд Еленæ
+- Хелена Тројанска
+- Хубавата Елена
+- Һылыу Елена
+- Հեղինե Չքնաղ
+- הלנה
+- העלענע
+- هلن
+- هيلانة
+- هيلين
+- ٹرٛاے یِچ ہیلِن
+- ہیلن آف ٹرائے
+- হেলেন
+- ਟਰੌਏ ਦੀ ਹੇਲਨ
+- கெலன்
+- ഹെലൻ
+- เฮเลนแห่งทรอย
+- ထရွိုင်မှ ဟယ်လင်
+- მშვენიერი ელენე
+- Ἑλένη, Helénē
+- ヘレネー
+- 海伦
+- 海伦 (神话)
+- 海倫
+- 海倫 (希臘神話)
+- ꯇ꯭ꯔꯣꯢꯒꯤ ꯍꯦꯂꯦꯟ
+- 헬레네
 has_id_wikidata: Q164061
+dv_has_:
+  name_:
+    af: Helena van Troje
+    an: Helena d'Esparta
+    ar: هيلانة
+    arz: هيلين
+    as: হেলেন
+    az: Yelena
+    ba: Һылыу Елена
+    bcl: Helen nin Troy
+    be: Алена Цудоўная
+    be-tarask: Алена Прыгожая
+    bg: Хубавата Елена
+    bn: হেলেন
+    br: Elena Troia
+    bs: Helena
+    ca: Helena
+    cs: Helena
+    cy: Elen o Gaerdroea
+    da: Helena
+    de: Helena
+    el: Ελένη
+    en: Helen of Troy
+    eo: Helena de Trojo
+    es: Helena
+    et: Helena
+    eu: Helena Troiakoa
+    ext: Elena de Troya
+    fa: هلن
+    fi: Helena
+    fr: Hélène
+    ga: Héilin na Traoi
+    gl: Helena
+    grc: Ἑλένη, Helénē
+    gsw: Helene
+    he: הלנה
+    hr: Helena
+    hu: Helené
+    hy: Հեղինե Չքնաղ
+    id: Helene
+    io: Elene
+    is: Helena fagra
+    it: Elena
+    ja: ヘレネー
+    jv: Helene
+    ka: მშვენიერი ელენე
+    ko: 헬레네
+    ks: ٹرٛاے یِچ ہیلِن
+    ku: Helenê
+    ku-latn: Helenê
+    la: Helena
+    lt: Helenė
+    lv: Helena
+    mg: Hélène
+    mk: Елена Тројанска
+    ml: ഹെലൻ
+    mni: ꯇ꯭ꯔꯣꯢꯒꯤ ꯍꯦꯂꯦꯟ
+    my: ထရွိုင်မှ ဟယ်လင်
+    mzn: هلن
+    nb: Helena
+    nl: Helena
+    nrm: Hélène d'Esparte
+    oc: Elena
+    os: Рæсугъд Еленæ
+    pa: ਟਰੌਏ ਦੀ ਹੇਲਨ
+    pl: Helena Trojańska
+    pnb: ہیلن آف ٹرائے
+    pt: Helena
+    ro: Elena (mitologie)
+    ru: Елена Прекрасная
+    scn: Èlina
+    sco: Helen o Troy
+    sh: Helena
+    sk: Helena
+    sl: Helena
+    sq: Helena Trojës
+    sr: Хелена Тројанска
+    sr-ec: Хелена Тројанска
+    sr-el: Helena Trojanska
+    sv: Helena
+    sw: Helena wa Troia
+    ta: கெலன்
+    th: เฮเลนแห่งทรอย
+    tl: Helen ng Troya
+    tr: Helen
+    uk: Єлена Троянська
+    ur: ہیلن آف ٹرائے
+    vi: Helen
+    vls: Helena
+    war: Helen han Troya
+    wuu: 海伦 (神话)
+    yi: העלענע
+    yue: 海倫 (希臘神話)
+    zh: 海伦
+    zh-cn: 海伦
+    zh-hans: 海伦
+    zh-hant: 海倫
+    zh-hk: 海倫
+    zh-sg: 海伦
+    zh-tw: 海倫
 ---
 # [[Helen_of_Troy]] 
 

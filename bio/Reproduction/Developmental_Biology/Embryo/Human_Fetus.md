@@ -1,19 +1,87 @@
 ---
 aliases:
-  - fetus
-  - foetus
-  - fetuses
-  - foetuses
-  - Human_Fetus
-  - Human Fetus
+- auglis
+- bào thai
+- Döl
+- dölüt
+- emberi magzat
+- fetis
+- feto
+- feto humano
+- feto umano
+- fetu
+- fetus
+- fetus humanus
+- fetuses
+- fetusi
+- foetus
+- foetuses
+- foster
+- fètus
+- féatas daonna
+- fétus
+- fóstur
+- făt
+- fœtus humain
+- homa feto
+- Human Fetus
+- human foetus
+- Human_Fetus
+- ihmisen sikiö
+- inimloode
+- janin
+- korpele
+- lidský fétus
+- menschlicher Fötus
+- menselijke foetus
+- mimba
+- mitãrã
+- nabubuong sanggol
+- oyun
+- plod
+- płód
+- sullu
+- the-jî
+- umeki
+- uurjiif
+- človeški plod
+- žmogaus vaisius
+- ανθρώπινο έμβρυο
+- карындагы бала
+- плід
+- плод
+- Ураг
+- фетус
+- хăнă
+- ұрық
+- պտուղ
+- עובר
+- جنين حي
+- جنین
+- حميل
+- حمیل
+- ܥܘܠܐ ܚܝܐ
+- ߡߐ߱ ߢߋ߬ߟߋ
+- गर्भ
+- भ्रुण
+- ফিটাস
+- முதிர்கரு
+- పిండం
+- ഗർഭസ്ഥ ശിശു
+- භ්රෑණය - මානව
+- 胎
+- 胎儿
+- 胎児
+- 胎兒
+- 태아
 has_id_wikidata: Q26513
 described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of: '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~fetus,17013437]]'
-  - '[[_Standards/WikiData/WD~unborn_child,63177820]]'
-  - '[[_Standards/WikiData/WD~fetal_structure,66560257]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~fetus,17013437]]'
+- '[[_Standards/WikiData/WD~unborn_child,63177820]]'
+- '[[_Standards/WikiData/WD~fetal_structure,66560257]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 different_from: '[[_Standards/WikiData/WD~unborn_child,63177820]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~unborn_child,63177820]]'
 follows: '[[_Standards/WikiData/WD~human_embryo,63177917]]'
@@ -23,8 +91,101 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20fetus%2010%20w
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8785%20%28hye%29-Emptyfear-%D5%8A%D5%BF%D5%B8%D6%82%D5%B2.wav
 Terminologia_Embryologica: E1.0.2.6.4.0.6
 Commons_category: Human foetuses
+dv_has_:
+  name_:
+    af: fetus
+    ar: جنين حي
+    arc: ܥܘܠܐ ܚܝܐ
+    ast: fetu
+    ay: sullu
+    az: Döl
+    be: плод
+    be-tarask: плод
+    bg: фетус
+    bn: ফিটাস
+    bs: fetus
+    ca: fetus
+    cs: lidský fétus
+    cv: хăнă
+    da: foster
+    de: menschlicher Fötus
+    diq: fetus
+    el: ανθρώπινο έμβρυο
+    en: human fetus
+    en-gb: human foetus
+    eo: homa feto
+    es: feto humano
+    et: inimloode
+    eu: umeki
+    fa: جنین
+    fi: ihmisen sikiö
+    fr: fœtus humain
+    fy: menselijke foetus
+    ga: féatas daonna
+    gl: feto
+    gn: mitãrã
+    he: עובר
+    hi: गर्भ
+    hr: plod
+    ht: fetis
+    hu: emberi magzat
+    hy: պտուղ
+    ia: feto
+    id: janin
+    io: feto
+    is: fóstur
+    it: feto umano
+    ja: 胎児
+    jv: janin
+    kk: ұрық
+    ko: 태아
+    ku: korpele
+    ku-latn: korpele
+    la: fetus humanus
+    lt: žmogaus vaisius
+    lv: auglis
+    mk: плод
+    ml: ഗർഭസ്ഥ ശിശു
+    mn: Ураг
+    mr: गर्भ
+    ms: janin
+    nan: the-jî
+    nb: foster
+    ne: भ्रुण
+    nl: menselijke foetus
+    nn: foster
+    nqo: ߡߐ߱ ߢߋ߬ߟߋ
+    oc: fètus
+    pl: płód
+    ps: حميل
+    pt: feto
+    qu: sullu
+    ro: făt
+    ru: плод
+    sh: fetus
+    si: භ්රෑණය - මානව
+    sl: človeški plod
+    so: uurjiif
+    sq: fetusi
+    sr: фетус
+    su: fétus
+    sv: foster
+    sw: mimba
+    ta: முதிர்கரு
+    te: పిండం
+    tl: nabubuong sanggol
+    tr: dölüt
+    tt: карындагы бала
+    uk: плід
+    ur: حمیل
+    vi: bào thai
+    war: fetus
+    wuu: 胎儿
+    yo: oyun
+    yue: 胎
+    zh: 胎兒
+    zh-hans: 胎儿
 ---
-
 # [[Human_Fetus]] 
 
 #has_/previous_/state :: [[../Embryo|Embryo]] 

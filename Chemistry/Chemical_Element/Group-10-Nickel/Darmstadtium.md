@@ -1,17 +1,93 @@
 ---
 aliases:
+- Darmshtadtiy
+- darmstadiu
+- Darmstadium
+- darmstadti
+- darmstadtio
+- Darmstadtiom
+- darmstadtiu
+- Darmstadtium
+- darmstadtiumi
+- Darmstadtiwm
+- Darmstadtiyaam
+- Darmstadtiyu
+- darmstadtiyum
+- Darmstadtiyûm
+- darmstadtju
+- Darmstadtyo
+- darmstaidtiam
+- darmstatin
+- darmstatio
+- darmstatín
+- Darmstàdtiu
+- darmstácio
+- darmsztadt
+- darmŝtatiumo
+- Darmştadtium
+- Darmštadtii
+- darmštatij
+- darmštatijs
+- Darmštatijum
+- darmštatis
+- darmštátium
+- Darmɩsɩtatɩyɔm
+- IDamasimbi
+- jinmrdarmctati
+- νταρμστάντιο
+- дармштадтій
+- Дармштадти
+- дармштадтий
+- Дармштадтиум
+- Дармштат
+- дармштатијум
+- дармштатиум
+- Дармштатый
+- дармщатий
+- դարմշտադտիում
+- דרמשטטיום
+- دارماشتاديوم
+- دارمستادتىي
+- دارمسټادتيوم
+- دارمشتاتيوم
+- دارمشتاتیۆم
+- دارمشتادیم
+- دارمشتادیوم
+- ڈارمسٹادیئم
+- ڈارمسٹیڈیم
+- उनउननिलियम
+- डार्मश्टाटियम
+- डार्मस्टॅटियम
+- डार्मस्टैडियम
+- डार्म्स्टेडशियम
+- दार्मस्तादतियम
+- ডার্মস্টাটিয়াম
+- ડાર્મસ્ટેડીયમ
+- ଡାର୍ମ୍ଷ୍ଟାଡ଼୍ସିଅମ
+- டார்ம்சிட்டாட்டியம்
+- డామ్స్టాటియం
+- ಡರ್ಮ್ಸ್ಟಾಡ್ಟಿಯಮ್
+- ഡാംഷ്റ്റാറ്റിയം
+- ดาร์มสตัดเทียม
+- ဒမ်စတဒ်တီယမ်
+- დარმშტადტიუმი
+- ዳርምስታድቲየም
+- ダームスタチウム
+- 鐽
+- 다름슈타튬
+- "\U0002B7FC"
 has_id_wikidata: Q1266
 part_of:
-  - "[[_Standards/WikiData/WD~group_10,205253]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-location_of_discovery: "[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]"
+- '[[_Standards/WikiData/WD~group_10,205253]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-named_after: "[[_Standards/WikiData/WD~Darmstadt,2973]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Darmstadt,2973]]'
 atomic_number: 110
-OmegaWiki_Defined_Meaning: "157326"
+OmegaWiki_Defined_Meaning: 157326
 Commons_gallery: Darmstadtium
 Commons_category: Darmstadtium
 Unicode_character: 鐽
@@ -22,25 +98,173 @@ CAS_Registry_Number: 54083-77-1
 time_of_discovery_or_invention: 1994-11-09T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]"
+  - '[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]"
+- '[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]'
+dv_has_:
+  name_:
+    af: Darmstadtium
+    am: ዳርምስታድቲየም
+    an: Darmstadtio
+    anp: डार्मस्टैडियम
+    ar: دارمشتاتيوم
+    ary: دارماشتاديوم
+    arz: دارمشتاتيوم
+    ast: darmstadiu
+    az: Darmştadtium
+    azb: دارمشتادیوم
+    ba: Дармштадтий
+    ban: Darmstadtium
+    be: Дармштатый
+    be-tarask: Дармштат
+    bg: дармщатий
+    bho: डार्मश्टाटियम
+    bn: ডার্মস্টাটিয়াম
+    br: Darmstadtiom
+    bs: Darmštatij
+    ca: darmstadti
+    cdo: Darmstadtium
+    ceb: Darmstadtyo
+    ckb: دارمشتاتیۆم
+    co: Darmstadtiu
+    cs: darmstadtium
+    cv: Дармштадти
+    cy: Darmstadtiwm
+    da: darmstadtium
+    de: Darmstadtium
+    el: νταρμστάντιο
+    en: darmstadtium
+    en-gb: darmstadtium
+    eo: darmŝtatiumo
+    es: darmstatio
+    et: darmstadtium
+    eu: darmstadtio
+    fa: دارمشتادیم
+    fi: darmstadtium
+    fr: darmstadtium
+    frr: Darmstadtium
+    fur: Darmstadti
+    ga: darmstaidtiam
+    gd: Darmstadtium
+    gl: darmstadtio
+    gu: ડાર્મસ્ટેડીયમ
+    gv: Darmstadtium
+    hak: darmstadtium
+    he: דרמשטטיום
+    hi: डार्म्स्टेडशियम
+    hif: Darmstadtium
+    hr: darmštatij
+    hu: darmstadtium
+    hy: դարմշտադտիում
+    ia: darmstadtium
+    id: darmstadtium
+    io: darmstatio
+    is: darmstatín
+    it: darmstadtio
+    ja: ダームスタチウム
+    jbo: jinmrdarmctati
+    jv: Darmstadtium
+    ka: დარმშტადტიუმი
+    kbp: Darmɩsɩtatɩyɔm
+    kk: Дармштадтий
+    kn: ಡರ್ಮ್ಸ್ಟಾಡ್ಟಿಯಮ್
+    ko: 다름슈타튬
+    ku: Darmstadtiyûm
+    kv: Дармштадтий
+    kw: Darmstadtiom
+    la: darmstadtium
+    lb: Darmstadtium
+    lfn: darmstatio
+    li: Darmstadtium
+    lij: Darmstadtio
+    lt: darmštatis
+    lv: darmštatijs
+    lzh: 鐽
+    mk: дармштатиум
+    ml: ഡാംഷ്റ്റാറ്റിയം
+    mn: дармштадти
+    mr: डार्मस्टॅटियम
+    mrj: Дармштадтий
+    ms: Darmstadtium
+    mt: darmstadtju
+    my: ဒမ်စတဒ်တီယမ်
+    nan: Darmstadtium
+    nb: darmstadtium
+    nds: Darmstadtium
+    ne: डार्मश्टाटियम
+    new: दार्मस्तादतियम
+    nl: darmstadtium
+    nn: darmstadtium
+    nov: Darmstadium
+    oc: darmstadti
+    or: ଡାର୍ମ୍ଷ୍ଟାଡ଼୍ସିଅମ
+    os: дармштадтий
+    pi: उनउननिलियम
+    pl: darmsztadt
+    pnb: ڈارمسٹیڈیم
+    ps: دارمسټادتيوم
+    pt: darmstácio
+    pt-br: darmstácio
+    qu: Darmstadtiyu
+    ro: darmstadtiu
+    ru: дармштадтий
+    rup: Darmstadtiu
+    sa: उनउननिलियम
+    sc: Darmstàdtiu
+    scn: darmstadtiu
+    sh: Darmštatijum
+    sk: darmštátium
+    sl: darmštatij
+    so: Darmstadtiyaam
+    sq: darmstadtiumi
+    sr: дармштатијум
+    sr-ec: Дармштатијум
+    sv: darmstadtium
+    sw: darmstadti
+    ta: டார்ம்சிட்டாட்டியம்
+    te: డామ్స్టాటియం
+    tg: Дармштадтий
+    th: ดาร์มสตัดเทียม
+    tl: Darmstadtyo
+    tr: darmstadtiyum
+    tt: дармштадтий
+    ug: دارمستادتىي
+    uk: дармштадтій
+    ur: ڈارمسٹادیئم
+    uz: Darmshtadtiy
+    vep: Darmštadtii
+    vi: darmstadti
+    vo: darmstatin
+    war: Darmstadtyo
+    wuu: "\U0002B7FC"
+    xal: Дармштадтиум
+    yo: Darmstadtium
+    yue: 鐽
+    zh: "\U0002B7FC"
+    zh-cn: "\U0002B7FC"
+    zh-hans: "\U0002B7FC"
+    zh-hant: 鐽
+    zh-hk: 鐽
+    zh-mo: 鐽
+    zh-my: "\U0002B7FC"
+    zh-sg: "\U0002B7FC"
+    zh-tw: 鐽
+    zu: IDamasimbi
 ---
-
 # [[Darmstadtium]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]] 

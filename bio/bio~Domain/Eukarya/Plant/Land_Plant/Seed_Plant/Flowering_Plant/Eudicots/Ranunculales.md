@@ -1,9 +1,130 @@
 ---
 aliases:
-  - Ranunculaceae
-  - Ranunculales
+- boglárkavirágúak
+- Bộ Mao lương
+- Gundegu rinda
+- Hahnenfussartige
+- Hahnenfußartige
+- iskerníkotvaré
+- jaskrowce
+- Koma adirge
+- Papaweragtige
+- pryskyřníkotvaré
+- Qaymaqçiçəklilər
+- Ranunculaceae
+- Ranunculales
+- Ranunculals
+- ranunkel-ordenen
+- Ranunkolaloj
+- soleieordenen
+- Tulikalaadsed
+- Vėdryniečiai
+- zlatičevci
+- žabnjakolike
+- βατραχιώδη
+- жовтецевоцвіті
+- казяльцовакветныя
+- Көкнәрлер тұқымдасы
+- Лутиковидни
+- лютикоцветни
+- лютикоцветные
+- գորտնուկածաղկավորներ
+- נוריתאים
+- آلالهسانان
+- حوذانيات
+- ریننکونالس
+- റാണുൺകുലേൽസ്
+- อันดับพวงแก้วกุดั่น
+- キンポウゲ目
+- 毛茛目
+- 미나리아재비목
 title: Ranunculales
 has_id_wikidata: Q21021
+dv_has_:
+  name_:
+    af: Papaweragtige
+    an: Ranunculales
+    ar: حوذانيات
+    arz: حوذانيات
+    ast: Ranunculales
+    az: Qaymaqçiçəklilər
+    be: казяльцовакветныя
+    be-tarask: Казяльцовакветныя
+    bg: лютикоцветни
+    bs: Ranunculaceae
+    ca: Ranunculals
+    ceb: Ranunculales
+    co: Ranunculales
+    cs: pryskyřníkotvaré
+    da: ranunkel-ordenen
+    de: Hahnenfußartige
+    de-ch: Hahnenfussartige
+    el: βατραχιώδη
+    en: Ranunculales
+    en-ca: Ranunculales
+    en-gb: Ranunculales
+    eo: Ranunkolaloj
+    es: Ranunculales
+    et: Tulikalaadsed
+    eu: Ranunculales
+    ext: Ranunculales
+    fa: آلالهسانان
+    fi: Ranunculales
+    fr: Ranunculales
+    frr: Ranunculales
+    ga: Ranunculales
+    gl: Ranunculales
+    he: נוריתאים
+    hr: žabnjakolike
+    hu: boglárkavirágúak
+    hy: գորտնուկածաղկավորներ
+    ia: Ranunculales
+    id: Ranunculales
+    ie: Ranunculales
+    io: Ranunculales
+    it: Ranunculales
+    ja: キンポウゲ目
+    kk: Көкнәрлер тұқымдасы
+    ko: 미나리아재비목
+    ku: Koma adirge
+    la: Ranunculales
+    lt: Vėdryniečiai
+    lv: Gundegu rinda
+    mk: Лутиковидни
+    ml: റാണുൺകുലേൽസ്
+    mt: Ranunculales
+    mul: Ranunculales
+    nb: soleieordenen
+    nl: Ranunculales
+    nn: Soleieordenen
+    oc: Ranunculales
+    pl: jaskrowce
+    pnb: ریننکونالس
+    pt: Ranunculales
+    pt-br: Ranunculales
+    ro: Ranunculales
+    ru: лютикоцветные
+    sco: Ranunculales
+    sh: Ranunculales
+    sk: iskerníkotvaré
+    sl: zlatičevci
+    sq: Ranunculales
+    sr: Ranunculales
+    sv: Ranunculales
+    th: อันดับพวงแก้วกุดั่น
+    tr: Ranunculales
+    uk: жовтецевоцвіті
+    vi: Bộ Mao lương
+    vls: Ranunculales
+    vo: Ranunculales
+    war: Ranunculales
+    wuu: 毛茛目
+    yue: 毛茛目
+    zh: 毛茛目
+    zh-cn: 毛茛目
+    zh-hans: 毛茛目
+    zh-hant: 毛茛目
+    zh-tw: 毛茛目
 ---
 # [[Ranunculales]]  
 

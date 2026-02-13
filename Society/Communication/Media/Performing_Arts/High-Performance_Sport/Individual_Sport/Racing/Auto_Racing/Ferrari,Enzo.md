@@ -1,29 +1,54 @@
 ---
 aliases:
-  - Enzo_Ferrari
-  - Enzo Anselmo Giuseppe Maria Ferrari
-  - Enzo Ferrari
-  - Ferrari
-  - Ferrari,Enzo
+- Aentius Ferrari
+- Enco Ferari
+- Enco Ferrāri
+- Enzo Anselmo Giuseppe Maria Ferrari
+- Enzo Ferrari
+- Enzo_Ferrari
+- Ferrari
+- Ferrari,Enzo
+- Έντσο Φεράρι
+- Енцо Ферари
+- Енцо Феррарі
+- Энца Фэрары
+- Энцо Феррари
+- Էնցո Ֆերրարի
+- אנצו פרארי
+- انزو فراری
+- اينزو فيرارى
+- اينزو فيراري
+- एंज़ो फेरारी
+- এনজো ফেরারি
+- ੲੇਂਜ਼ੋ ਫੇਰਾਰੀ
+- എൻസോ ഫെറാറി
+- เอ็นโซ เฟอร์รารี่
+- ენცო ფერარი
+- エンツォ・フェラーリ
+- 安素法拉利
+- 恩佐·安塞尔莫·朱塞佩·玛丽亚·法拉利
+- 恩佐·法拉利
+- 恩素·法拉利
+- 엔초 페라리
 has_id_wikidata: Q181282
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~industrialist,6606110]]'
-  - '[[_Standards/WikiData/WD~racing_automobile_driver,10349745]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~industrialist,6606110]]'
+- '[[_Standards/WikiData/WD~racing_automobile_driver,10349745]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~automotive_industry,190117]]'
-  - '[[_Standards/WikiData/WD~auto_race,24050099]]'
-  - '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,29584629]]'
+- '[[_Standards/WikiData/WD~automotive_industry,190117]]'
+- '[[_Standards/WikiData/WD~auto_race,24050099]]'
+- '[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,29584629]]'
 different_from: '[[_Standards/WikiData/WD~Enzo_Ferrari,269880]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Merit_for_Labour,629291]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_for_Labour,629291]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
 child:
-  - '[[_Standards/WikiData/WD~Alfredo_Ferrari,645598]]'
-  - '[[_Standards/WikiData/WD~Piero_Ferrari,932101]]'
+- '[[_Standards/WikiData/WD~Alfredo_Ferrari,645598]]'
+- '[[_Standards/WikiData/WD~Piero_Ferrari,932101]]'
 given_name: '[[_Standards/WikiData/WD~Enzo,1346073]]'
 family_name: '[[_Standards/WikiData/WD~Ferrari,1407594]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -52,8 +77,98 @@ Munzinger_Sport_number: 01000002663
 Krugosvet_article: sport/ferrari-entso
 birth_name: Enzo Anselmo Giuseppe Maria Ferrari
 work_period_start_: 1918-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Enzo Ferrari
+    ar: اينزو فيراري
+    arz: اينزو فيرارى
+    ast: Enzo Ferrari
+    az: Enzo Ferrari
+    ba: Энцо Феррари
+    be-tarask: Энца Фэрары
+    bg: Енцо Ферари
+    bn: এনজো ফেরারি
+    br: Enzo Ferrari
+    bs: Enzo Ferrari
+    ca: Enzo Ferrari
+    cs: Enzo Ferrari
+    da: Enzo Ferrari
+    de: Enzo Ferrari
+    el: Έντσο Φεράρι
+    en: Enzo Ferrari
+    en-us: Enzo Ferrari
+    eo: Enzo Ferrari
+    es: Enzo Ferrari
+    et: Enzo Ferrari
+    eu: Enzo Ferrari
+    fa: انزو فراری
+    fi: Enzo Ferrari
+    fr: Enzo Ferrari
+    ga: Enzo Ferrari
+    gl: Enzo Ferrari
+    ha: Enzo Ferrari
+    he: אנצו פרארי
+    hi: एंज़ो फेरारी
+    hr: Enzo Ferrari
+    ht: Enzo Ferrari
+    hu: Enzo Ferrari
+    hy: Էնցո Ֆերրարի
+    ia: Enzo Ferrari
+    id: Enzo Ferrari
+    io: Enzo Ferrari
+    it: Enzo Ferrari
+    ja: エンツォ・フェラーリ
+    ka: ენცო ფერარი
+    kk: Энцо Феррари
+    ko: 엔초 페라리
+    la: Aentius Ferrari
+    lmo: Enzo Ferrari
+    lt: Enzo Ferrari
+    lv: Enco Ferrāri
+    mg: Enzo Ferrari
+    mk: Енцо Ферари
+    ml: എൻസോ ഫെറാറി
+    ms: Enzo Ferrari
+    mul: Enzo Ferrari
+    nah: Enzo Ferrari
+    nb: Enzo Ferrari
+    nl: Enzo Ferrari
+    nn: Enzo Ferrari
+    oc: Enzo Anselmo Giuseppe Maria Ferrari
+    pa: ੲੇਂਜ਼ੋ ਫੇਰਾਰੀ
+    pap: Enzo Ferrari
+    pl: Enzo Ferrari
+    pms: Enzo Ferrari
+    pt: Enzo Ferrari
+    pt-br: Enzo Ferrari
+    ro: Enzo Ferrari
+    ru: Энцо Феррари
+    sco: Enzo Ferrari
+    sh: Enzo Ferrari
+    sk: Enzo Ferrari
+    sl: Enzo Ferrari
+    sq: Enzo Ferrari
+    sr: Енцо Ферари
+    sr-ec: Енцо Ферари
+    sr-el: Enco Ferari
+    sv: Enzo Ferrari
+    th: เอ็นโซ เฟอร์รารี่
+    tl: Enzo Ferrari
+    tr: Enzo Ferrari
+    uk: Енцо Феррарі
+    vec: Enzo Ferrari
+    vi: Enzo Ferrari
+    war: Enzo Ferrari
+    wuu: 恩佐·法拉利
+    yue: 安素法拉利
+    zh: 恩佐·安塞尔莫·朱塞佩·玛丽亚·法拉利
+    zh-cn: 恩佐·法拉利
+    zh-hans: 恩佐·法拉利
+    zh-hant: 恩佐·法拉利
+    zh-hk: 恩素·法拉利
+    zh-sg: 恩佐·法拉利
+    zh-tw: 恩佐·法拉利
 ---
-
 # [[Ferrari,Enzo]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Enzo_Ferrari,181282|WD~Enzo_Ferrari,181282]] 

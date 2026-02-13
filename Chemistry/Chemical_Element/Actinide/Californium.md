@@ -1,62 +1,290 @@
 ---
 aliases:
-  - Californium
+- calafoirniam
+- Calafòrnium
+- Califforniwm
+- californi
+- californio
+- californiu
+- Californium
+- Californyo
+- califòrni
+- Califòrniu
+- califórnio
+- jinmrkaliforni
+- kaliforn
+- Kaliforni
+- Kalifornii
+- kalifornij
+- kalifornijs
+- Kalifornijum
+- kalifornin
+- kalifornio
+- Kaliforniom
+- kalifornis
+- Kalifornium
+- kaliforniumi
+- kaliforniumo
+- Kaliforniy
+- kaliforniyum
+- kalifornju
+- Kalifornyu
+- Kalifornín
+- Kalifònyòm
+- Kalifọ́rníọ̀m
+- Kalipornyo
+- Kalɩfɔrnɩyɔm
+- UmNgcalife
+- καλιφόρνιο
+- Каліфорн
+- каліфорній
+- Калифорни
+- калифорнијум
+- калифорний
+- Калифорниум
+- Калифорниүм
+- կալիֆոռնիում
+- קליפורניום
+- كالىفورنىي
+- كاليفورنيوم
+- کاليفورنيوم
+- کالیفرنیم
+- کالیفۆرنیۆم
+- کیلیفورنیئم
+- کیلیفورنیم
+- कालिफोर्नियम
+- कॅलिफोर्नियम
+- कैलिफोर्नियम
+- कैलीफोर्नियम
+- क्यालिफोर्नियम
+- কেলিফ’ৰ্ণিয়াম
+- ক্যালিফোর্নিয়াম
+- કેલિફોર્નીયમ
+- କାଲିଫର୍ମିଅମ
+- கலிபோர்னியம்
+- కాలిఫోర్నియం
+- ಕ್ಯಾಲಿಫೋರ್ನಿಯಮ್
+- കാലിഫോർണിയം
+- แคลิฟอร์เนียม
+- ကာလီဖိုနီယမ်
+- კალიფორნიუმი
+- ካሊፎርኒየም
+- カリホルニウム
+- 鉲
+- 鐦
+- 锎
+- 캘리포늄
 has_id_wikidata: Q1888
 atomic_number: 98
-canonical_SMILES: "[Cf]"
+canonical_SMILES: '[Cf]'
 CAS_Registry_Number: 7440-71-3
 chemical_formula: Cf
 Commons_category: Californium
 density: 15.1
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification: 546.448
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
-  - "[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]"
-  - "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
-  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+- '[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]'
+- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID00147883
 electronegativity: 1.3
-electron_configuration: "[Rn] 5f¹⁰ 7s²"
+electron_configuration: '[Rn] 5f¹⁰ 7s²'
 element_symbol: Cf
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
 InChI: InChI=1S/Cf
 InChIKey: HGLDOAKPQXAFKI-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.82
-  - 0.92
-  - 0.95
-location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+- 0.82
+- 0.92
+- 0.95
+location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 melting_point: 1173
 MeSH_tree_code:
-  - D01.268.271.100.150
-  - D01.268.556.156
-  - D01.496.749.305.100.150
-  - D01.552.020.200
-  - D01.552.544.156
-named_after: "[[_Standards/WikiData/WD~California,99]]"
+- D01.268.271.100.150
+- D01.268.556.156
+- D01.496.749.305.100.150
+- D01.552.020.200
+- D01.552.544.156
+named_after: '[[_Standards/WikiData/WD~California,99]]'
 OmegaWiki_Defined_Meaning: 156905
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg
 PubChem_CID: 23997
 SpocWebEntityId: 21993
 time_of_discovery_or_invention: 1950
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]'
 type: Element
 UMLS_CUI: C0006758
 Unicode_character: 鉲
 UNII: 975X05H15A
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Californium
-    de: Californium
     abbreviated: Cf
+    af: Kalifornium
+    am: ካሊፎርኒየም
+    anp: कैलिफोर्नियम
+    ar: كاليفورنيوم
+    ary: كاليفورنيوم
+    arz: كاليفورنيوم
+    as: কেলিফ’ৰ্ণিয়াম
+    ast: californio
+    az: Kalifornium
+    ba: Калифорний
+    ban: Kalifornium
+    be: Каліфорній
+    be-tarask: Каліфорн
+    bg: калифорний
+    bho: कैलिफोर्नियम
+    bn: ক্যালিফোর্নিয়াম
+    br: Kaliforniom
+    bs: kalifornij
+    ca: californi
+    cdo: Californium
+    ceb: Californyo
+    ckb: کالیفۆرنیۆم
+    co: Californiu
+    cs: kalifornium
+    cv: Калифорни
+    cy: Califforniwm
+    da: californium
+    de: Californium
+    de-ch: Californium
+    el: καλιφόρνιο
+    en: californium
+    en-ca: Californium
+    en-gb: californium
+    eo: kaliforniumo
+    es: californio
+    et: kalifornium
+    eu: kalifornio
+    fa: کالیفرنیم
+    fi: kalifornium
+    fo: Kalifornium
+    fr: californium
+    frr: Kalifornium
+    fur: Californi
+    ga: calafoirniam
+    gd: Calafòrnium
+    gl: Californio
+    group: Actinide-Group
+    gu: કેલિફોર્નીયમ
+    gv: Californium
+    hak: californium
+    he: קליפורניום
+    hi: कैलीफोर्नियम
+    hif: Californium
+    hr: kalifornij
+    ht: Kalifònyòm
+    hu: kalifornium
+    hy: կալիֆոռնիում
+    ia: californium
+    id: kalifornium
+    io: kalifornio
+    is: Kalifornín
+    it: californio
+    ja: カリホルニウム
+    jbo: jinmrkaliforni
+    jv: Kalifornium
+    ka: კალიფორნიუმი
+    kbp: Kalɩfɔrnɩyɔm
+    kk: Калифорний
+    kn: ಕ್ಯಾಲಿಫೋರ್ನಿಯಮ್
+    ko: 캘리포늄
+    kv: Калифорний
+    kw: Kaliforniom
+    ky: Калифорний
+    la: californium
+    lb: Californium
+    lfn: californio
+    li: Californium
+    lij: Californio
+    lt: kalifornis
+    lv: kalifornijs
+    lzh: 鐦
+    mk: калифорниум
+    ml: കാലിഫോർണിയം
+    mn: калифорни
+    mr: कॅलिफोर्नियम
+    mrj: Калифорний
+    ms: Kalifornium
+    mt: kalifornju
+    my: ကာလီဖိုနီယမ်
+    nan: Californium
+    nb: californium
+    ne: क्यालिफोर्नियम
+    new: क्यालिफोर्नियम
+    nl: californium
+    nn: californium
+    nov: Kalifornium
+    oc: califòrni
+    olo: Kalifornii
+    or: କାଲିଫର୍ମିଅମ
+    os: калифорний
+    pi: क्यालिफोर्नियम
+    pl: kaliforn
+    pms: Califòrni
+    pnb: کیلیفورنیم
+    ps: کاليفورنيوم
+    pt: califórnio
+    pt-br: califórnio
+    qu: Kalifornyu
+    ro: californiu
+    ru: калифорний
+    rup: Californiu
+    sa: कालिफोर्नियम
+    sah: Калифорниум
+    sc: Califòrniu
+    scn: californiu
+    sh: Kalifornijum
+    sk: kalifornium
+    sl: kalifornij
+    sq: kaliforniumi
+    sr: калифорнијум
+    sr-ec: Калифорнијум
+    stq: Californium
+    su: Kalifornium
+    sv: californium
+    sw: Kaliforni
+    ta: கலிபோர்னியம்
+    te: కాలిఫోర్నియం
+    tg: Калифорний
+    th: แคลิฟอร์เนียม
+    tl: Kalipornyo
+    tr: kaliforniyum
+    tt: Калифорний
+    ug: كالىفورنىي
+    uk: каліфорній
+    ur: کیلیفورنیئم
+    uz: Kaliforniy
+    vep: Kalifornii
+    vi: californi
+    vo: kalifornin
+    war: Californyo
+    wuu: 锎
+    xal: Калифорниүм
+    yo: Kalifọ́rníọ̀m
+    yue: 鉲
+    zh: 锎
+    zh-cn: 锎
+    zh-hans: 锎
+    zh-hant: 鉲
+    zh-hk: 鉲
+    zh-mo: 鉲
+    zh-my: 锎
+    zh-sg: 锎
+    zh-tw: 鉲
+    zu: UmNgcalife
+  number_of_:
+    period: 7
+    group: 32
+    electrons: 98
   value_for_:
     weight_:
       u: 249
@@ -84,23 +312,19 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 32
-    electrons: 98
 dv_is_:
-  part_of: "[[../Actinide]]"
+  part_of: '[[../Actinide]]'
   same_as:
-    - "[[../../../WikiData/WD~Californium,1888]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]"
+  - '[[../../../WikiData/WD~Californium,1888]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]"
+dv_is_part_of: '[[../Actinide]]'
 dv_has_name_en: Californium
 dv_has_name_de: Californium
 dv_has_name_abbreviated: Cf
@@ -121,16 +345,15 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 32
 dv_has_number_of_electrons: 98
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Californium,1888]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]"
+- '[[../../../WikiData/WD~Californium,1888]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]'
 ---
-
 # [[Californium]]
 
 

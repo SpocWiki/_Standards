@@ -1,69 +1,108 @@
 ---
 aliases:
-  - Mikhail_Baryshnikov
-  - Mikhail Nikolayevich Baryshnikov
-  - Михаил Николаевич Барышников
-  - Mihails Barišņikovs
-  - Baryshnikov,Mikhail
+- Baryshnikov,Mikhail
+- Michael Baryshnikov
+- Michail Barysjnikov
+- Michail Baryšnikov
+- Michail Nikolajevič Baryšnikov
+- Michailas Baryšnikovas
+- Michaił Barysznikow
+- Mihail Barišnjikov
+- Mihail Baryšnikov
+- Mihail Barîșnikov
+- Mihails Barišņikovs
+- Mihhail Barõšnikov
+- Mijaíl Barýshnikov
+- Mikhail Barixnikov
+- Mikhail Baryshnikov
+- Mikhail Barysjnikov
+- Mikhail Nikolayevich Baryshnikov
+- Mikhail_Baryshnikov
+- Mikhaïl Barychnikov
+- Mikhaïl Baríxnikov
+- Miĥail Bariŝnikov
+- Μιχαήλ Μπαρίσνικοφ
+- Баришніков Михайло Миколайович
+- Барышников Михаил Николаевич
+- Міхаіл Барышнікаў
+- Міхаіл Мікалаевіч Барышнікаў
+- Михаил Баришњиков
+- Михаил Баришников
+- Михаил Николаевич Барышников
+- Միխայիլ Բարիշնիկով
+- מיכאיל ברישניקוב
+- ميخائيل باريشنيكوف
+- ميشا باريشنيكوف
+- میخائل باریشنکوف
+- میخائیل باریشنیکۆڤ
+- میخاییل باریشنیکوف
+- মিখাইল বারিশ্নিকভ
+- ਮਿਖ਼ਾਇਲ ਬਰਿਸ਼ਨੀਕੋਵ
+- მიხეილ ბარიშნიკოვი
+- ミハイル・バリシニコフ
+- 米哈伊尔·巴里什尼科夫
+- 米夏·巴瑞辛尼可夫
+- 米高巴里殊尼哥夫
+- 미하일 바리시니코프
 has_id_wikidata: Q295420
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
 employer:
-  - '[[_Standards/WikiData/WD~Bolshoi_Theatre,138908]]'
-  - '[[_Standards/WikiData/WD~Mariinsky_Theatre,207028]]'
-  - '[[_Standards/WikiData/WD~American_Ballet_Theatre,463443]]'
-  - '[[_Standards/WikiData/WD~New_York_City_Ballet,1336942]]'
-  - '[[_Standards/WikiData/WD~National_Ballet_of_Canada,2881270]]'
-  - '[[_Standards/WikiData/WD~Baryshnikov_Arts_Center,4866042]]'
-  - '[[_Standards/WikiData/WD~White_Oak_Dance_Project,7995137]]'
+- '[[_Standards/WikiData/WD~Bolshoi_Theatre,138908]]'
+- '[[_Standards/WikiData/WD~Mariinsky_Theatre,207028]]'
+- '[[_Standards/WikiData/WD~American_Ballet_Theatre,463443]]'
+- '[[_Standards/WikiData/WD~New_York_City_Ballet,1336942]]'
+- '[[_Standards/WikiData/WD~National_Ballet_of_Canada,2881270]]'
+- '[[_Standards/WikiData/WD~Baryshnikov_Arts_Center,4866042]]'
+- '[[_Standards/WikiData/WD~White_Oak_Dance_Project,7995137]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Jessica_Lange,173585]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Three_Stars,913910]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_II_Coronation_Award,7270353]]'
-  - '[[_Standards/WikiData/WD~Theatre_World_Special_Award,28007416]]'
-  - '[[_Standards/WikiData/WD~Vilcek_Prize,28926636]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
-  - '[[_Standards/WikiData/WD~Merited_Artist_of_the_RSFSR,46919]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Three_Stars,913910]]'
+- '[[_Standards/WikiData/WD~Queen_Elizabeth_II_Coronation_Award,7270353]]'
+- '[[_Standards/WikiData/WD~Theatre_World_Special_Award,28007416]]'
+- '[[_Standards/WikiData/WD~Vilcek_Prize,28926636]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+- '[[_Standards/WikiData/WD~Merited_Artist_of_the_RSFSR,46919]]'
 is_member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~True_Russia,114344973]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~True_Russia,114344973]]'
 occupation:
-  - '[[_Standards/WikiData/WD~performing_artist,713200]]'
-  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
-  - '[[_Standards/WikiData/WD~ballet_master,805253]]'
-  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~performing_artist,713200]]'
+- '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+- '[[_Standards/WikiData/WD~ballet_master,805253]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 family_name: '[[_Standards/WikiData/WD~Baryshnikov,809680]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Vaganova_Academy_of_Russian_Ballet,1357677]]'
-  - '[[_Standards/WikiData/WD~Riga_Secondary_School_No._22,58465357]]'
-  - '[[_Standards/WikiData/WD~Riga_ballet_school,58465396]]'
+- '[[_Standards/WikiData/WD~Vaganova_Academy_of_Russian_Ballet,1357677]]'
+- '[[_Standards/WikiData/WD~Riga_Secondary_School_No._22,58465357]]'
+- '[[_Standards/WikiData/WD~Riga_ballet_school,58465396]]'
 significant_event: '[[_Standards/WikiData/WD~nevozvrashchentsy,4315823]]'
 spouse: '[[_Standards/WikiData/WD~Lisa_Rinehart,6558366]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Mikhail,15621289]]'
 child:
-  - '[[_Standards/WikiData/WD~Shura_Baryshnikov,28154973]]'
-  - '[[_Standards/WikiData/WD~Anna_Baryshnikov,28474815]]'
+- '[[_Standards/WikiData/WD~Shura_Baryshnikov,28154973]]'
+- '[[_Standards/WikiData/WD~Anna_Baryshnikov,28474815]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 patronym_or_matronym: '[[_Standards/WikiData/WD~Nikolayevich,100233847]]'
 depicted_by: '[[_Standards/WikiData/WD~statue_of_Mikhail_Baryshnikov,126891369]]'
 described_by_source: '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 place_of_birth: '[[_Standards/WikiData/WD~Riga,1773]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~Latvian,9078]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Latvian,9078]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Mikhail Baryshnikov
 work_period_start_: 1968-01-01T00:00:00Z
@@ -75,10 +114,88 @@ Plex_person_key: 5d77683a8718ba001e315ecf
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BARISHNIKOV_MIHAIL__NIKOLAEVICH.html
 Libris_URI: zw9c6xth1jjhbjg
 name_in_native_language:
-  - Mihails Barišņikovs
-  - Михаил Николаевич Барышников
+- Mihails Barišņikovs
+- Михаил Николаевич Барышников
+dv_has_:
+  name_:
+    af: Mikhail Baryshnikov
+    ar: ميخائيل باريشنيكوف
+    arz: ميشا باريشنيكوف
+    ast: Mikhail Baryshnikov
+    azb: میخاییل باریشنیکوف
+    ba: Барышников Михаил Николаевич
+    be: Міхаіл Мікалаевіч Барышнікаў
+    be-tarask: Міхаіл Барышнікаў
+    bg: Михаил Баришников
+    bn: মিখাইল বারিশ্নিকভ
+    ca: Mikhaïl Baríxnikov
+    ckb: میخائیل باریشنیکۆڤ
+    cs: Michail Nikolajevič Baryšnikov
+    cy: Mikhail Baryshnikov
+    da: Mikhail Barysjnikov
+    dag: Mikhaïl Barychnikov
+    de: Mikhail Baryshnikov
+    de-ch: Mikhail Baryshnikov
+    diq: Mikhail Baryshnikov
+    el: Μιχαήλ Μπαρίσνικοφ
+    en: Mikhail Baryshnikov
+    en-ca: Mikhail Baryshnikov
+    en-gb: Mikhail Baryshnikov
+    eo: Miĥail Bariŝnikov
+    es: Mijaíl Barýshnikov
+    et: Mihhail Barõšnikov
+    eu: Mikhail Barixnikov
+    fa: میخاییل باریشنیکوف
+    fi: Mihail Baryšnikov
+    fr: Mikhaïl Barychnikov
+    ga: Mikhail Baryshnikov
+    gl: Mikhail Baryshnikov
+    he: מיכאיל ברישניקוב
+    hif: Mikhail Baryshnikov
+    hr: Mihail Barišnjikov
+    hu: Mikhail Baryshnikov
+    hy: Միխայիլ Բարիշնիկով
+    id: Mikhail Baryshnikov
+    ilo: Mikhail Baryshnikov
+    it: Michail Baryšnikov
+    ja: ミハイル・バリシニコフ
+    ka: მიხეილ ბარიშნიკოვი
+    ko: 미하일 바리시니코프
+    la: Michael Baryshnikov
+    lt: Michailas Baryšnikovas
+    lv: Mihails Barišņikovs
+    mg: Mikhail Baryshnikov
+    nb: Mikhail Barysjnikov
+    nl: Mikhail Baryshnikov
+    nn: Mikhail Baryshnikov
+    pa: ਮਿਖ਼ਾਇਲ ਬਰਿਸ਼ਨੀਕੋਵ
+    pap: Mikhaïl Barychnikov
+    pl: Michaił Barysznikow
+    pt: Mikhail Baryshnikov
+    pt-br: Mikhail Baryshnikov
+    ro: Mihail Barîșnikov
+    ru: Михаил Николаевич Барышников
+    sco: Mikhail Baryshnikov
+    sl: Mikhail Baryshnikov
+    sq: Mikhail Baryshnikov
+    sr: Михаил Баришњиков
+    sr-ec: Михаил Баришњиков
+    sr-el: Mihail Barišnjikov
+    sv: Michail Barysjnikov
+    tl: Mikhail Baryshnikov
+    tr: Mikhail Baryshnikov
+    uk: Баришніков Михайло Миколайович
+    ur: میخائل باریشنکوف
+    vi: Mikhail Baryshnikov
+    war: Mikhail Baryshnikov
+    yo: Mikhail Baryshnikov
+    yue: 米高巴里殊尼哥夫
+    zh: 米哈伊尔·巴里什尼科夫
+    zh-cn: 米哈伊尔·巴里什尼科夫
+    zh-hans: 米哈伊尔·巴里什尼科夫
+    zh-hant: 米夏·巴瑞辛尼可夫
+    zh-tw: 米夏·巴瑞辛尼可夫
 ---
-
 # [[Baryshnikov,Mikhail]] 
 
 #is_/same_as :: [[WD~Mikhail_Baryshnikov,295420]] 

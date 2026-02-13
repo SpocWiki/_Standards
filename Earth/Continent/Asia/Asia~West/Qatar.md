@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 卡塔尔国
 dv_UNTERM_French_Formal: l'État du Qatar
 dv_UNTERM_Russian: Катар
 dv_UNTERM_Russian_Formal: Государство Катар
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Qatar]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Qatar]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 289688
@@ -52,196 +52,561 @@ dv_ISO2: QA
 dv_ISO3: QAT
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Qatar,846|WD~Qatar,846]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Qatar|Qatar]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Qatar.public|Qatar.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Qatar.private|Qatar.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]]"
+  - '[[../../../../WikiData/WD~Qatar,846|WD~Qatar,846]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Qatar|Qatar]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Qatar.public|Qatar.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Qatar.private|Qatar.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]]'
 dv_has_:
   name_:
+    ab: Ҟатар
+    ace: Qatar
+    ady: Катар
+    aeb-arab: قطر
+    af: Katar
+    am: ቃጣር
+    ami: Qatar
+    an: Qatar
+    ang: Catar
+    ann: Kàtaa
+    anp: कतर
+    ar: قطر
+    arc: ܩܛܪ
+    arq: قطر
+    ary: قطر
+    arz: قطر
+    as: কাটাৰ
+    ast: Qatar
+    av: КъатӀар
+    awa: कतार
+    az: Qətər
+    azb: قطر
+    ba: Катар
+    ban: Qatar
+    bar: Katar
+    bcl: Qatar
+    be: Катар
+    be-tarask: Катар
+    bew: Katar
+    bg: Катар
+    bgn: کتر
+    bho: क़तर
+    blk: ကာတာခမ်းထီ
+    bn: কাতার
+    bo: ཁ་ཏར།
+    bpy: কাতার
+    br: Katar
+    brh: Katar
+    bs: Katar
+    btm: Qatar
+    bug: Qatar
+    bxr: Катар
+    ca: Qatar
+    cbk-zam: Qatar
+    cdo: Qatar
+    ce: КъатӀар
+    ceb: Qatar
+    ckb: قەتەر
+    crh: Qatar
+    crh-latn: Qatar
+    cs: Katar
+    csb: Katar
+    cv: Катар
+    cy: Qatar
+    da: Qatar
+    dag: Qatar
+    de: Katar
+    de-at: Katar
+    de-ch: Katar
+    diq: Qeter
+    dsb: Katar
+    dtp: Qatar
+    dty: कतार
+    dv: ޤަޠަރު
+    dz: ཀ་ཏར་
+    ee: Qatar
+    el: Κατάρ
+    en: Qatar
+    en-ca: Qatar
+    en-gb: Qatar
+    eo: Kataro
+    es: Catar
+    et: Katar
+    eu: Qatar
+    ext: Catal
+    fa: قطر
+    ff: Qatar
+    fi: Qatar
+    fo: Katar
+    fr: Qatar
+    frp: Qatar
+    frr: Kataar
+    fy: Katar
+    ga: Catar
+    gag: Katar
+    gcr: Katar
+    gd: Catar
+    gl: Qatar
+    glk: قطر
+    gn: Katára
+    gom: कतार
+    gpe: Qatar
+    gsw: Katar
+    gu: કતાર
+    gv: Yn Chatar
+    ha: Qatar
+    hak: Qatar
+    haw: Katala
+    he: קטר
+    hi: क़तर
+    hif: Qatar
+    hr: Katar
+    hsb: Katar
+    ht: Katar
+    hu: Katar
+    hy: Կատար
+    hyw: Քաթար
+    ia: Qatar
+    iba: Qatar
+    id: Qatar
+    ie: Katar
+    ig: Qatar
+    ilo: Katar
+    io: Katar
+    is: Katar
+    it: Qatar
+    ja: カタール
+    jam: Kata
+    jv: Qatar
+    ka: კატარი
+    kaa: Qatar
+    kab: Qaṭar
+    kbd: Катар
+    kcg: Ka̱ta̱r
+    kg: Qatar
+    kge: Qatar
+    ki: Qatar
+    kk: Катар
+    kl: Qatar
+    km: កាតា
+    kn: ಕಟಾರ್
+    ko: 카타르
+    ko-kp: 까타르
+    krc: Катар
+    ks: قَطَر
+    ksh: Kataa
+    ku: Qeter
+    kv: Катар
+    kw: Katar
+    ky: Катар
+    la: Quataria
+    lad: Katar
+    lb: Katar
+    lez: Къатар
+    lfn: Catar
+    li: Katar
+    lij: Qatar
+    lld: Catar
+    lmo: Qatar
+    ln: Katar
+    lo: ປະເທດກາຕາ
+    lrc: قطر
+    lt: Kataras
+    lv: Katara
+    lzh: 卡達國
+    mad: Qatar
+    mai: कतार
+    mdf: Катар
+    mg: Katara
+    mhr: Катар
+    mi: Katā
+    min: Qatar
+    mk: Катар
+    ml: ഖത്തർ
+    mn: Катар
+    mni: ꯀꯥꯇꯥꯔ
+    mr: कतार
+    ms: Qatar
+    mt: Qatar
+    mwl: Qatar
+    my: ကာတာနိုင်ငံ
+    mzn: قطر
+    na: Qatar
+    nah: Catar
+    nan: Qatar
+    nb: Qatar
+    nds: Katar
+    ne: कतार
+    new: कतार
+    nl: Qatar
+    nn: Qatar
+    nov: Katar
+    nup: Qatar
+    nv: Tó Biníhííyį́įgi Kiyaaʼáhí Hahoodzo
+    oc: Qatar
+    olo: Katar
+    om: Kaataar
+    or: କତର
+    os: Катар
+    pa: ਕਤਰ
+    pam: Katar
+    pap: Catar
+    pcd: Quatar
+    pi: कतार
+    pih: Kataa
+    pl: Katar
+    pms: Qatar
+    pnb: قطر
+    ps: قطر
+    pt: Catar
+    pt-br: Catar
+    qu: Qatar
+    rmy: Qatar
+    ro: Qatar
+    ru: Катар
+    rue: Катар
+    rw: Katari
+    sa: कतार
+    sah: Катар
+    sat: ᱠᱟᱛᱟᱨ
+    sc: Qatàr
+    scn: Qatar
+    sco: Qatar
+    sd: قطر
+    se: Qatar
+    sgs: Katars
+    sh: Katar
+    shi: Qaṭaṛ
+    shn: မိူင်းၶႃႇတႃႇ
+    si: කටාර්
+    sk: Katar
+    skr: قطر
+    sl: Katar
+    sm: Qatar
+    smn: Qatar
+    sms: Qataar
+    sn: Qatar
+    so: Qatar
+    sq: Katari
+    sr: Катар
+    sr-ec: Катар
+    sr-el: Katar
+    ss: IKhathari
+    su: Qatar
+    sv: Qatar
+    sw: Qatar
+    syl: ꠇꠣꠔꠣꠞ
+    szl: Katar
+    szy: Qatar
+    ta: கத்தார்
+    tay: Qatar
+    te: కతర్
+    tet: Katár
+    tg: Қатар
+    th: ประเทศกาตาร์
+    tk: Katar
+    tl: Qatar
+    tly: Qətər
+    to: Katā
+    tok: ma Kata
+    tpi: Qatar
+    tr: Katar
+    trv: Qatar
+    tt: Катар
+    tum: Qatar
+    udm: Катар
+    ug: قاتار
+    uk: Катар
+    ur: قطر
+    uz: Qatar
+    vec: Qatar
+    vep: Katar
+    vi: Qatar
+    vls: Qatar
+    vo: Katarän
+    vro: Katar
+    war: Catar
+    wo: Kataar
+    wuu: 卡塔尔
+    xal: Һатарин Нутг
+    xmf: კატარი
+    yi: קאטאר
+    yo: Katar
+    yue: 卡塔爾
+    za: Qatar
+    zea: Qatar
+    zgh: ⵇⴰⵟⴰⵔ
+    zh: 卡塔尔
+    zh-cn: 卡塔尔
+    zh-hans: 卡塔尔
+    zh-hant: 卡達
+    zh-hk: 卡塔爾
+    zh-my: 卡塔尔
+    zh-tw: 卡達
+    zu: i-Qatar
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Qatar
 dv_has_name_de: Katar
 dv_Area-Total: 11437
 dv_Area-Land: 11000
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: Q
-dv_Capital: "[[Qatar/Counties/Ad_Dawhah/City/Doha]]"
+dv_Capital: '[[Qatar/Counties/Ad_Dawhah/City/Doha]]'
 dv_Alcohol-l: 1.3
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 51.53
 dv_has_place_latitude: 25.28
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Qatar,846|WD~Qatar,846]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Qatar|Qatar]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Qatar.public|Qatar.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Qatar.private|Qatar.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]]"
+- '[[../../../../WikiData/WD~Qatar,846|WD~Qatar,846]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Qatar|Qatar]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Qatar.public|Qatar.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Qatar.private|Qatar.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Qatar
-
 aliases:
-  - Qatar
-  - قطر
-  - 卡塔尔
-  - Катар
-  - the State of Qatar
-  - el Estado de Qatar
+- Catal
+- Catar
+- el Estado de Qatar
+- i-Qatar
+- IKhathari
+- Kaataar
+- Kata
+- Kataa
+- Kataar
+- Katala
+- Katar
+- Katara
+- Kataras
+- Katari
+- Kataro
+- Katars
+- Katarän
+- Katár
+- Katára
+- Katā
+- Ka̱ta̱r
+- Kàtaa
+- ma Kata
+- Qataar
+- Qatar
+- Qatàr
+- Qaṭar
+- Qaṭaṛ
+- Qeter
+- Quatar
+- Quataria
+- Qətər
+- the State of Qatar
+- Tó Biníhííyį́įgi Kiyaaʼáhí Hahoodzo
+- Yn Chatar
+- Κατάρ
+- Катар
+- Къатар
+- КъатӀар
+- Қатар
+- Ҟатар
+- Һатарин Нутг
+- Կատար
+- Քաթար
+- קאטאר
+- קטר
+- قاتار
+- قطر
+- قَطَر
+- قەتەر
+- کتر
+- ܩܛܪ
+- ޤަޠަރު
+- कतर
+- कतार
+- क़तर
+- কাটাৰ
+- কাতার
+- ਕਤਰ
+- કતાર
+- କତର
+- கத்தார்
+- కతర్
+- ಕಟಾರ್
+- ഖത്തർ
+- කටාර්
+- ประเทศกาตาร์
+- ປະເທດກາຕາ
+- ཀ་ཏར་
+- ཁ་ཏར།
+- ကာတာခမ်းထီ
+- ကာတာနိုင်ငံ
+- မိူင်းၶႃႇတႃႇ
+- კატარი
+- ቃጣር
+- កាតា
+- ᱠᱟᱛᱟᱨ
+- ⵇⴰⵟⴰⵔ
+- カタール
+- 卡塔尔
+- 卡塔爾
+- 卡達
+- 卡達國
+- ꠇꠣꠔꠣꠞ
+- ꯀꯥꯇꯥꯔ
+- 까타르
+- 카타르
 has_id_wikidata: Q846
 member_of:
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Qatar,172530]]"
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Qatar,172530]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Emirate,189898]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Qatar,239279]]"
-anthem: "[[_Standards/WikiData/WD~As_Salam_al_Amiri,309476]]"
+- '[[_Standards/WikiData/WD~Emirate,189898]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Qatar,239279]]'
+anthem: '[[_Standards/WikiData/WD~As_Salam_al_Amiri,309476]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Al_Shamal,310872]]"
-  - "[[_Standards/WikiData/WD~Al_Wakrah,310893]]"
-  - "[[_Standards/WikiData/WD~Al_Rayyan_Municipality,311272]]"
-  - "[[_Standards/WikiData/WD~Ad-Dawhah_(municipality),594208]]"
-  - "[[_Standards/WikiData/WD~Al_Ghuwariyah,623609]]"
-  - "[[_Standards/WikiData/WD~Umm_Salal_Municipality,990414]]"
-  - "[[_Standards/WikiData/WD~Mesaieed,1069900]]"
-  - "[[_Standards/WikiData/WD~Jariyan_al_Batnah,1070191]]"
-  - "[[_Standards/WikiData/WD~Al_Jumaliyah,1147593]]"
-  - "[[_Standards/WikiData/WD~Al_Khor,1156471]]"
-different_from: "[[_Standards/WikiData/WD~Katar,341753]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Qatar,576594]]"
-legislative_body: "[[_Standards/WikiData/WD~Consultative_Assembly_of_Qatar,818691]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Qatar,944391]]"
+- '[[_Standards/WikiData/WD~Al_Shamal,310872]]'
+- '[[_Standards/WikiData/WD~Al_Wakrah,310893]]'
+- '[[_Standards/WikiData/WD~Al_Rayyan_Municipality,311272]]'
+- '[[_Standards/WikiData/WD~Ad-Dawhah_(municipality),594208]]'
+- '[[_Standards/WikiData/WD~Al_Ghuwariyah,623609]]'
+- '[[_Standards/WikiData/WD~Umm_Salal_Municipality,990414]]'
+- '[[_Standards/WikiData/WD~Mesaieed,1069900]]'
+- '[[_Standards/WikiData/WD~Jariyan_al_Batnah,1070191]]'
+- '[[_Standards/WikiData/WD~Al_Jumaliyah,1147593]]'
+- '[[_Standards/WikiData/WD~Al_Khor,1156471]]'
+different_from: '[[_Standards/WikiData/WD~Katar,341753]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Qatar,576594]]'
+legislative_body: '[[_Standards/WikiData/WD~Consultative_Assembly_of_Qatar,818691]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Qatar,944391]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
-highest_point: "[[_Standards/WikiData/WD~Qurayn_Abu_al_Bawl,1633034]]"
-head_of_state: "[[_Standards/WikiData/WD~Tamim_bin_Hamad_Al_Thani,1855372]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Qatar,2092906]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Qatar,2509477]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Qatar,3007363]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~999,3086706]]"
-central_bank: "[[_Standards/WikiData/WD~Qatar_Central_Bank,3365778]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Qatar,7112422]]"
-Unicode_character: 🇶🇦
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Qatar,14616116]]"
+- '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+highest_point: '[[_Standards/WikiData/WD~Qurayn_Abu_al_Bawl,1633034]]'
+head_of_state: '[[_Standards/WikiData/WD~Tamim_bin_Hamad_Al_Thani,1855372]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Qatar,2092906]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Qatar,2509477]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Qatar,3007363]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
+central_bank: '[[_Standards/WikiData/WD~Qatar_Central_Bank,3365778]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Qatar,7112422]]'
+Unicode_character: "\U0001F1F6\U0001F1E6"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Qatar,14616116]]'
 aerial_view:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pearl-Qatar%20Doha%20Qatar%2011Nov2017%20SkySat.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%2C%20Doha%2C%20Skyscrapers%2C%20Qatar.jpg
-head_of_government: "[[_Standards/WikiData/WD~Mohammed_bin_Abdulrahman_Al_Thani,23020336]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Emir_of_the_State_of_Qatar,25711499]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Qatar,30100647]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pearl-Qatar%20Doha%20Qatar%2011Nov2017%20SkySat.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%2C%20Doha%2C%20Skyscrapers%2C%20Qatar.jpg
+head_of_government: '[[_Standards/WikiData/WD~Mohammed_bin_Abdulrahman_Al_Thani,23020336]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Emir_of_the_State_of_Qatar,25711499]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Qatar,30100647]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Asia_Qatar,63285955]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-open_data_portal: "[[_Standards/WikiData/WD~Qatar_Open_Data,97097206]]"
+- '[[_Standards/WikiData/WD~Asia_Qatar,63285955]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+open_data_portal: '[[_Standards/WikiData/WD~Qatar_Open_Data,97097206]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Gulf_States,109647832]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q127610639,127610639]]"
+- '[[_Standards/WikiData/WD~Gulf_States,109647832]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q127610639,127610639]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Qatar.map
 page_banner:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Doha%20%28Qatar%29%20banner.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Doha%20banner.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Doha%20%28Qatar%29%20banner.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Doha%20banner.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Qatar-article.ogg
 country_calling_code: 974
 Dewey_Decimal_Classification: 2--5363
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-country: "[[_Standards/WikiData/WD~Qatar,846]]"
-has_part_s_: "[[_Standards/WikiData/WD~Doha,3861]]"
-capital: "[[_Standards/WikiData/WD~Doha,3861]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+country: '[[_Standards/WikiData/WD~Qatar,846]]'
+has_part_s_: '[[_Standards/WikiData/WD~Doha,3861]]'
+capital: '[[_Standards/WikiData/WD~Doha,3861]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age:
-  - 16
-  - 18
+- 16
+- 18
 age_of_majority: 18
 mains_voltage: 240
 suicide_rate: 4.7
 BTI_Governance_Index:
-  - 5.4
-  - 5.33
-  - 5.46
-  - 5.53
-  - 5.88
-  - 6.01
-  - 6.17
+- 5.4
+- 5.33
+- 5.46
+- 5.53
+- 5.88
+- 6.01
+- 6.17
 BTI_Status_Index:
-  - 5.9
-  - 6.1
-  - 5.86
-  - 5.88
-  - 6.01
-  - 6.06
-  - 6.16
-lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+- 5.9
+- 6.1
+- 5.86
+- 5.88
+- 6.01
+- 6.06
+- 6.16
+lowest_point: '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
 death_rate:
-  - 1.08
-  - 0.991
-  - 1.219
-  - 1.311
+- 1.08
+- 0.991
+- 1.219
+- 1.311
 Happy_Planet_Index_score: 24.3
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.qa,43117]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.qa,43117]]'
 Democracy_Index: 3.65
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 social_media_followers: 7570
 language_used:
-  - "[[_Standards/WikiData/WD~Gulf_Arabic,56385]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
+- '[[_Standards/WikiData/WD~Gulf_Arabic,56385]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
 Human_Development_Index: 0.855
 literacy_rate: 97.8
 IAB_code: 1384
@@ -251,17 +616,17 @@ maritime_identification_digits: 466
 ISO_3166_1_numeric_code: 634
 M49_code: 634
 birth_rate:
-  - 9.091
-  - 9.816
-  - 10.743
-  - 10.895
+- 9.091
+- 9.816
+- 10.743
+- 10.895
 area: 11437
 licence_plate_code: Q
 rural_population:
-  - 18381
-  - 19409
-  - 21117
-  - 22795
+- 18381
+- 19409
+- 21117
+- 22795
 mobile_country_code: 427
 median_income: 26555
 ISO_3166_1_alpha_2_code: QA
@@ -274,53 +639,53 @@ ISO_3166_1_alpha_3_code: QAT
 IOC_country_code: QAT
 ITU_letter_code: QAT
 urban_population:
-  - 2784440
-  - 2668826
-  - 2676741
-  - 2739268
+- 2784440
+- 2668826
+- 2676741
+- 2739268
 INSEE_countries_and_foreign_territories_code: 99248
 official_website: https://www.diwan.gov.qa/
 female_population:
-  - 734561
-  - 740889
-  - 751299
-  - 754994
+- 734561
+- 740889
+- 751299
+- 754994
 demonym:
-  - عربي
-  - قطري
-  - قطرية
-  - Qatari
-  - قطريون
-  - qatarín
-  - qatarina
-  - qatarià
-  - qatariana
-  - Katarano
-  - Qatarien
-  - Qatarienne
-  - קטרי
-  - קטרית
-  - katari
-  - Katarano
-  - qatariota
-  - qatarioti
-  - catari
-  - катарцы
-  - qatariota
-  - qatariote
-  - qatarioti
-  - qatarioto
-  - Kataränan
-  - قطري
-  - قطريات
-  - قطرية
-  - قطريين
-  - Catarach
+- عربي
+- قطري
+- قطرية
+- Qatari
+- قطريون
+- qatarín
+- qatarina
+- qatarià
+- qatariana
+- Katarano
+- Qatarien
+- Qatarienne
+- קטרי
+- קטרית
+- katari
+- Katarano
+- qatariota
+- qatarioti
+- catari
+- катарцы
+- qatariota
+- qatariote
+- qatarioti
+- qatarioto
+- Kataränan
+- قطري
+- قطريات
+- قطرية
+- قطريين
+- Catarach
 male_population:
-  - 1953675
-  - 1954233
-  - 2005391
-  - 2055936
+- 1953675
+- 1954233
+- 2005391
+- 2055936
 population: 2639211
 U_S_National_Archives_Identifier: 10035777
 RIA_Novosti_reference: 60497927
@@ -337,10 +702,10 @@ Krugosvet_article: strany-mira/katar
 MeSH_tree_code: Z01.252.245.500.690
 Baidu_Tieba_name: 卡塔尔
 motto_text:
-  - Ble daw breuddwydion yn fyw
-  - Where dreams come to life
+- Ble daw breuddwydion yn fyw
+- Where dreams come to life
 official_name: l’État du Qatar
-short_name: 🇶🇦
+short_name: "\U0001F1F6\U0001F1E6"
 coordinate_location: Point(51.212767 25.269535)
 coordinates_of_easternmost_point: Point(51.55 24.98)
 UMLS_CUI: C0034366
@@ -354,17 +719,17 @@ X_Twitter_username: AmiriDiwan
 Instagram_username: amiridiwan
 YouTube_handle: amiridiwan
 nominal_GDP:
-  - 237295575171
-  - 179677131707
+- 237295575171
+- 179677131707
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Doha%20West%20Bay.jpg
 location:
-  - 25.28
-  - 51.53
+- 25.28
+- 51.53
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27004
 isDeleted: false
 confidential: public
@@ -372,21 +737,20 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Qatar
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ar-QA
-  - es
+- ar-QA
+- es
 icon: flag-qa
 ---
-
 # [[Qatar]] 
 
 ## [[Qatar]] has Properties...

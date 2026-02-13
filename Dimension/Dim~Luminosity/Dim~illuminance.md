@@ -1,32 +1,160 @@
 ---
 aliases:
-  - brightness
+- apšvieta
+- aydınlanma şiddeti
+- Beleichtungsstärkn
+- Beleuchtungsstärke
+- belysningsstyrke
+- brightness
+- illuminamento
+- illuminance
+- illuminans
+- illuminanza
+- iluminamento
+- iluminancia
+- iluminantzia
+- il·luminància
+- intenzita osvetlenia
+- intenzita osvětlení
+- işıqlanma dərəcəsi
+- jarıqtandırw
+- la lumina
+- lumemisikvanto
+- lýsing
+- megvilágítás
+- natężenie oświetlenia
+- osvetljenost
+- osvjetljenje
+- soilseas
+- syèk di sé limyèr
+- valaistusvoimakkuus
+- valgustatus
+- verlichtingssterkte
+- virsmas apgaismojums
+- yoritilganlik
+- çуталнăлăх
+- éclairement lumineux
+- čuovvimvuáimálâšvuotâ
+- độ rọi sáng
+- ένταση φωτισμού
+- асьветленасьць
+- жарықтандыру
+- освітленість
+- осветеност
+- осветленост
+- освещённость
+- яктыртылганлык
+- լուսավորվածություն
+- استضاءة
+- تنویر (طبیعی مقدار)
+- جارىقتاندىرۋ
+- روشنایی
+- দীপন
+- ഇല്ലൂമിനൻസ്
+- ความส่องสว่าง (ทัศนศาสตร์)
+- განათებულობა
+- 照度
+- 조도
 has_id_wikidata: Q194411
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
-  - "[[_Standards/WikiData/WD~photometric_quantity,4492214]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~photometric_quantity,4492214]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~lux,179836]]"
-  - "[[_Standards/WikiData/WD~candela_steradian_per_square_metre,106947296]]"
-different_from: "[[_Standards/WikiData/WD~luminance,355386]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~lux,179836]]'
+- '[[_Standards/WikiData/WD~candela_steradian_per_square_metre,106947296]]'
+different_from: '[[_Standards/WikiData/WD~luminance,355386]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]"
-  - "[[_Standards/WikiData/WD~Principles_governing_photometry_(2nd_edition),106913582]]"
+- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
+- '[[_Standards/WikiData/WD~Principles_governing_photometry_(2nd_edition),106913582]]'
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi mathvariant="normal">&#x03A6;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖩</mi></mrow></mstyle></mrow></math>
-OmegaWiki_Defined_Meaning: "391018"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi mathvariant="normal">&#x03A6;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A9</mi></mrow></mstyle></mrow></math>"
+OmegaWiki_Defined_Meaning: 391018
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><msub><mi mathvariant="normal">&#x03A6;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>A</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
-Dewey_Decimal_Classification: "621.32"
+Dewey_Decimal_Classification: 621.32
 IEV_number: 845-21-060
 Commons_category: Illuminance
+dv_has_:
+  name_:
+    ar: استضاءة
+    az: işıqlanma dərəcəsi
+    bar: Beleichtungsstärkn
+    be-tarask: асьветленасьць
+    bg: осветеност
+    bn: দীপন
+    ca: il·luminància
+    cs: intenzita osvětlení
+    cv: çуталнăлăх
+    de: Beleuchtungsstärke
+    de-at: Beleuchtungsstärke
+    de-ch: Beleuchtungsstärke
+    el: ένταση φωτισμού
+    en: illuminance
+    en-ca: illuminance
+    en-gb: illuminance
+    eo: lumemisikvanto
+    es: iluminancia
+    et: valgustatus
+    eu: iluminantzia
+    fa: روشنایی
+    fi: valaistusvoimakkuus
+    fr: éclairement lumineux
+    ga: soilseas
+    gcr: syèk di sé limyèr
+    hr: osvjetljenje
+    hu: megvilágítás
+    hy: լուսավորվածություն
+    is: lýsing
+    it: illuminamento
+    ja: 照度
+    ka: განათებულობა
+    kk: жарықтандыру
+    kk-arab: جارىقتاندىرۋ
+    kk-cn: جارىقتاندىرۋ
+    kk-cyrl: жарықтандыру
+    kk-kz: жарықтандыру
+    kk-latn: jarıqtandırw
+    kk-tr: jarıqtandırw
+    ko: 조도
+    lfn: la lumina
+    lt: apšvieta
+    lv: virsmas apgaismojums
+    mk: осветленост
+    ml: ഇല്ലൂമിനൻസ്
+    mt: illuminanza
+    nb: belysningsstyrke
+    nl: verlichtingssterkte
+    nn: illuminans
+    pl: natężenie oświetlenia
+    pt: iluminamento
+    ru: освещённость
+    sh: osvetljenost
+    sk: intenzita osvetlenia
+    sl: osvetljenost
+    smn: čuovvimvuáimálâšvuotâ
+    sv: illuminans
+    th: ความส่องสว่าง (ทัศนศาสตร์)
+    tr: aydınlanma şiddeti
+    tt: яктыртылганлык
+    tt-cyrl: яктыртылганлык
+    uk: освітленість
+    ur: تنویر (طبیعی مقدار)
+    uz: yoritilganlik
+    vi: độ rọi sáng
+    yue: 照度
+    zh: 照度
+    zh-cn: 照度
+    zh-hans: 照度
+    zh-hant: 照度
+    zh-hk: 照度
+    zh-sg: 照度
+    zh-tw: 照度
 ---
-
 # [[Dim~illuminance]]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~illuminance,194411]] 

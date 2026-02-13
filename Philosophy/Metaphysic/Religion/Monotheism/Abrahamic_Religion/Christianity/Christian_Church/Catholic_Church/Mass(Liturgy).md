@@ -1,26 +1,121 @@
 ---
 aliases:
+- aifreann
+- bộ lễ
+- Cerddoriaeth yr offeren
+- ilow oferen
+- mass
+- maša
+- Mesa
+- meso
+- messa
+- messe
+- Messe i musikk
+- messu
+- meza
+- mis
+- misa
+- Misa (muzika)
+- mise
+- missa
+- Misse
+- Misă
+- Mišios
+- msza
+- mäss
+- Mès
+- mše
+- Omša
+- Λειτουργία
+- імша
+- Меса
+- месса
+- Պատարագ (երաժշտական)
+- מיסה
+- القداس
+- مس (موسیقی)
+- ミサ曲
+- 弥撒曲
+- 彌撒曲
+- 미사곡
 has_id_wikidata: Q217295
-different_from: "[[_Standards/WikiData/WD~Catholic_Mass,132612]]"
-has_use: "[[_Standards/WikiData/WD~Catholic_Mass,132612]]"
+different_from: '[[_Standards/WikiData/WD~Catholic_Mass,132612]]'
+has_use: '[[_Standards/WikiData/WD~Catholic_Mass,132612]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~choral_music,1076513]]"
-  - "[[_Standards/WikiData/WD~church_music,8812109]]"
-  - "[[_Standards/WikiData/WD~choir_work,23687321]]"
-  - "[[_Standards/WikiData/WD~event_music,122149755]]"
+- '[[_Standards/WikiData/WD~choral_music,1076513]]'
+- '[[_Standards/WikiData/WD~church_music,8812109]]'
+- '[[_Standards/WikiData/WD~choir_work,23687321]]'
+- '[[_Standards/WikiData/WD~event_music,122149755]]'
+dv_has_:
+  name_:
+    af: mis
+    ar: القداس
+    be-tarask: імша
+    bg: Меса
+    ca: missa
+    cs: mše
+    cy: Cerddoriaeth yr offeren
+    da: messe
+    de: Messe
+    el: Λειτουργία
+    en: mass
+    eo: meso
+    es: misa
+    et: Missa
+    eu: meza
+    fa: مس (موسیقی)
+    fi: messu
+    fr: messe
+    ga: aifreann
+    gl: misa
+    gsw: Mäss
+    he: מיסה
+    hu: mise
+    hy: Պատարագ (երաժշտական)
+    it: messa
+    ja: ミサ曲
+    ko: 미사곡
+    kw: ilow oferen
+    ky: Месса
+    li: Mès
+    lt: Mišios
+    lv: Mesa
+    nb: messe
+    nl: mis
+    nn: Messe i musikk
+    pl: msza
+    pt: missa
+    ro: Misă
+    ru: месса
+    sk: Omša
+    sl: maša
+    sr: Misa (muzika)
+    sv: mäss
+    tr: missa
+    uk: Меса
+    uz: Messa
+    vi: bộ lễ
+    yue: 彌撒曲
+    zea: Misse
+    zh: 弥撒曲
+    zh-cn: 弥撒曲
+    zh-hans: 弥撒曲
+    zh-hant: 彌撒曲
+    zh-hk: 彌撒曲
+    zh-sg: 弥撒曲
+    zh-tw: 彌撒曲
 ---
-
 # [[Mass(Liturgy)]] 
 
 #is_/same_as :: [[WD~Mass,217295]] 

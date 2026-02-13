@@ -1,16 +1,125 @@
 ---
 aliases:
+- Quşüzümükimilər
+- Solanoideae
+- Solanòidies
+- Паслёнавыя
+- паслёновые
+- մորմայիններ
+- باذنجاناوات
+- ナス亜科
+- 茄亚科
+- 茄亞科
+- 가지아과
 has_id_wikidata: Q2560968
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20080603-5625%20Solanum%20nelsonii.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=2275
 UMLS_CUI: C1902776
 Commons_category: Solanoideae
 taxon_name: Solanoideae
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Solanales,60790273]]"
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Solanales,60790273]]'
+dv_has_:
+  name_:
+    af: Solanoideae
+    an: Solanoideae
+    ar: باذنجاناوات
+    arz: باذنجاناوات
+    ast: Solanoideae
+    az: Quşüzümükimilər
+    bar: Solanoideae
+    be: Паслёнавыя
+    bg: Solanoideae
+    br: Solanoideae
+    bs: Solanoideae
+    ca: Solanòidies
+    ceb: Solanoideae
+    co: Solanoideae
+    cs: Solanoideae
+    cy: Solanoideae
+    da: Solanoideae
+    de: Solanoideae
+    de-at: Solanoideae
+    de-ch: Solanoideae
+    en: Solanoideae
+    en-ca: Solanoideae
+    en-gb: Solanoideae
+    eo: Solanoideae
+    es: Solanoideae
+    et: Solanoideae
+    eu: Solanoideae
+    ext: Solanoideae
+    fi: Solanoideae
+    fo: Solanoideae
+    fr: Solanoideae
+    frp: Solanoideae
+    fur: Solanoideae
+    ga: Solanoideae
+    gd: Solanoideae
+    gl: Solanoideae
+    gsw: Solanoideae
+    hr: Solanoideae
+    hu: Solanoideae
+    hy: մորմայիններ
+    ia: Solanoideae
+    id: Solanoideae
+    ie: Solanoideae
+    ilo: Solanoideae
+    io: Solanoideae
+    is: Solanoideae
+    it: Solanoideae
+    ja: ナス亜科
+    kg: Solanoideae
+    kl: Solanoideae
+    ko: 가지아과
+    la: Solanoideae
+    lb: Solanoideae
+    li: Solanoideae
+    lij: Solanoideae
+    mg: Solanoideae
+    min: Solanoideae
+    ms: Solanoideae
+    mul: Solanoideae
+    nap: Solanoideae
+    nb: Solanoideae
+    nds: Solanoideae
+    nds-nl: Solanoideae
+    nl: Solanoideae
+    nn: Solanoideae
+    nrm: Solanoideae
+    oc: Solanoideae
+    pcd: Solanoideae
+    pl: Solanoideae
+    pms: Solanoideae
+    pt: Solanoideae
+    pt-br: Solanoideae
+    rm: Solanoideae
+    ro: Solanoideae
+    ru: паслёновые
+    sc: Solanoideae
+    scn: Solanoideae
+    sco: Solanoideae
+    sk: Solanoideae
+    sl: Solanoideae
+    sq: Solanoideae
+    sr-el: Solanoideae
+    sv: Solanoideae
+    sw: Solanoideae
+    uk: Solanoideae
+    vec: Solanoideae
+    vi: Solanoideae
+    vls: Solanoideae
+    vo: Solanoideae
+    wa: Solanoideae
+    war: Solanoideae
+    wo: Solanoideae
+    zh: 茄亚科
+    zh-cn: 茄亚科
+    zh-hant: 茄亞科
+    zh-tw: 茄亞科
+    zu: Solanoideae
 ---
-
 # [[Solanoideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]] 

@@ -1,19 +1,61 @@
 ---
 aliases:
+- Canolrif
+- Chipakati
+- Kati (Takwimu)
+- Mediaan
+- mediaani
+- median
+- mediana
+- Mediana (statistika)
+- mediano
+- Mediană
+- Medijan
+- Medijana
+- medián
+- mediāna
+- medyan
+- Miðgildi
+- médiane
+- số trung vị
+- διάμεσος
+- медіана
+- Медијана
+- медиана
+- медыяна
+- мэдыяна
+- Միջնարժեք
+- חציון
+- ميديان
+- میانه
+- ناوەڕاستە
+- وسيط
+- وچون عدد (Median)
+- माध्यिका
+- মধ্যক
+- મધ્યસ્થ
+- இடைநிலையளவு
+- മധ്യമം
+- මධ්යස්ථය
+- มัธยฐาน
+- 中位数
+- 中位數
+- 中央値
+- 중앙값
 has_id_wikidata: Q226995
 subclass_of:
-  - "[[_Standards/WikiData/WD~quantile,578714]]"
-  - "[[_Standards/WikiData/WD~central_tendency,734219]]"
+- '[[_Standards/WikiData/WD~quantile,578714]]'
+- '[[_Standards/WikiData/WD~central_tendency,734219]]'
 different_from:
-  - "[[_Standards/WikiData/WD~mediant,1334910]]"
-  - "[[_Standards/WikiData/WD~median,112384677]]"
-  - "[[_Standards/WikiData/WD~arithmetic_mean,19033]]"
+- '[[_Standards/WikiData/WD~mediant,1334910]]'
+- '[[_Standards/WikiData/WD~median,112384677]]'
+- '[[_Standards/WikiData/WD~arithmetic_mean,19033]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~robust_statistics,1665389]]"
-  - "[[_Standards/WikiData/WD~statistics,12483]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_statistic,47103999]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+- '[[_Standards/WikiData/WD~robust_statistics,1665389]]'
+- '[[_Standards/WikiData/WD~statistics,12483]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 Commons_category: Median
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Mediana.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Finding%20the%20median.png
@@ -24,8 +66,90 @@ UMLS_CUI: C0876920
 Wolfram_Language_entity_code: Entity["Concept", "Median::hg39v"]
 literal_translation: 中央値
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi data-mjx-texclass="OP" mathvariant="normal">P</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">&#x2264;</mo><mi>m</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x2265;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><mrow data-mjx-texclass="ORD"><mtext>&#xA0;and&#xA0;</mtext></mrow><mi data-mjx-texclass="OP" mathvariant="normal">P</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">&#x2265;</mo><mi>m</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x2265;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><mspace width="0.167em"></mspace><mspace width="-0.167em"></mspace></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: Mediaan
+    ar: وسيط
+    az: Mediana (statistika)
+    be: медыяна
+    be-tarask: мэдыяна
+    bg: Медиана
+    bn: মধ্যক
+    bs: Medijana
+    ca: mediana
+    ckb: ناوەڕاستە
+    cs: medián
+    cy: Canolrif
+    da: median
+    de: Median
+    el: διάμεσος
+    en: median
+    eo: mediano
+    es: mediana
+    et: Mediaan
+    eu: Mediana
+    fa: میانه
+    fi: mediaani
+    fr: médiane
+    gl: mediana
+    gu: મધ્યસ્થ
+    he: חציון
+    hi: माध्यिका
+    hr: Medijan
+    hu: medián
+    hy: Միջնարժեք
+    id: median
+    io: Mediano
+    is: Miðgildi
+    it: mediana
+    ja: 中央値
+    ko: 중앙값
+    lt: mediana
+    lv: mediāna
+    mk: Медијана
+    ml: മധ്യമം
+    ms: median
+    ms-arab: ميديان
+    nb: median
+    nl: mediaan
+    nn: median
+    pl: mediana
+    pt: mediana
+    ro: Mediană
+    ru: медиана
+    scn: Mediana
+    sd: وچون عدد (Median)
+    sh: Medijan
+    si: මධ්යස්ථය
+    sk: Medián
+    sl: mediana
+    sn: Chipakati
+    sq: Mediana
+    sr: медијана
+    sr-ec: Медијана
+    sr-el: Medijana
+    su: Median
+    sv: median
+    sw: Kati (Takwimu)
+    ta: இடைநிலையளவு
+    tg: Медиана
+    tg-latn: Mediana
+    th: มัธยฐาน
+    tr: medyan
+    udm: медиана
+    uk: медіана
+    uz: Mediana (statistika)
+    vi: số trung vị
+    wuu: 中位数
+    yue: 中位數
+    zh: 中位數
+    zh-cn: 中位数
+    zh-hans: 中位数
+    zh-hant: 中位數
+    zh-hk: 中位數
+    zh-sg: 中位数
+    zh-tw: 中位數
 ---
-
 # [[Median]] 
 
 #is_/similar_to :: [[Probability/Mean|Mean]] 

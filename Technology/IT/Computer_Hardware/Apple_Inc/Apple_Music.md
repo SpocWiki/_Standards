@@ -1,8 +1,117 @@
 ---
 has_id_wikidata: Q20056642
+dv_has_:
+  name_:
+    af: Apple Music
+    an: Apple Music
+    ar: ابل ميوزك
+    ary: أپل ميوزك
+    az: Apple Music
+    ba: Apple Music
+    bar: Apple Music
+    be: Apple Music
+    be-tarask: Эпл Музыка
+    bn: অ্যাপল মিউজিক
+    bs: Apple Music
+    ca: Apple Music
+    ckb: ئاپڵ میوزیک
+    co: Apple Music
+    cs: Apple Music
+    da: Apple Music
+    de: Apple Music
+    de-at: Apple Music
+    de-ch: Apple Music
+    el: Apple Music
+    eml: Apple Music
+    en: Apple Music
+    en-ca: Apple Music
+    en-gb: Apple Music
+    es: Apple Music
+    es-419: Apple Music
+    et: Apple Music
+    fa: اپل موزیک
+    fi: Apple Music
+    fo: Apple Music
+    fr: Apple Music
+    frr: Apple Music
+    fy: Apple Music
+    gl: Apple Music
+    gsw: Apple Music
+    he: Apple Music
+    hr: Apple Music
+    hu: Apple Music
+    hy: Apple Music
+    id: Apple Music
+    it: Apple Music
+    ja: Apple Music
+    kaa: Apple Music
+    ko: 애플 뮤직
+    ksh: Apple Music
+    lb: Apple Music
+    li: Apple Music
+    lmo: Apple Music
+    lt: Apple Music
+    mk: Apple Music
+    ms: Apple Music
+    mul: Apple Music
+    nap: Apple Music
+    nb: Apple Music
+    nds: Apple Music
+    nds-nl: Apple Music
+    ne: एप्पल म्युजिक
+    nl: Apple Music
+    nn: Apple Music
+    oc: Apple Music
+    pfl: Apple Music
+    pl: Apple Music
+    pms: Apple Music
+    pt: Apple Music
+    pt-br: Apple Music
+    ro: Apple Music
+    ru: Apple Music
+    sah: Apple Music
+    sc: Apple Music
+    scn: Apple Music
+    sh: Apple Music
+    sl: Apple Music
+    so: Apple Music
+    sr: Apple Music
+    stq: Apple Music
+    sv: Apple Music
+    ta: ஆப்பிள் மியூசிக்
+    th: แอปเปิลมิวสิก
+    tr: Apple Müzik
+    uk: Apple Music
+    uz: Apple Music
+    vec: Apple Music
+    vi: Apple Music
+    vls: Apple Music
+    wa: Apple Music
+    yue: Apple Music
+    zea: Apple Music
+    zh: Apple Music
+    zh-cn: Apple Music
+    zh-hans: Apple Music
+    zh-hant: Apple Music
+    zh-hk: Apple Music
+    zh-mo: Apple Music
+    zh-my: Apple Music
+    zh-sg: Apple Music
+    zh-tw: Apple Music
+aliases:
+- Apple Music
+- Apple Müzik
+- Эпл Музыка
+- أپل ميوزك
+- ئاپڵ میوزیک
+- ابل ميوزك
+- اپل موزیک
+- एप्पल म्युजिक
+- অ্যাপল মিউজিক
+- ஆப்பிள் மியூசிக்
+- แอปเปิลมิวสิก
+- 애플 뮤직
 ---
-
-
 #is_/similar_to :: [[../../../../../_private/Society/Communication/Media/Podcast/Spotify]] 
 #is_/similar_to :: [[../../../../Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/YouTube]] 
 #is_/similar_to :: [[Amazon_Music]] 

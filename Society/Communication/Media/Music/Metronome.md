@@ -1,34 +1,144 @@
 ---
 aliases:
-  - Metronom
-  - Metronome
+- Metronom
+- metronomas
+- Metronome
+- Metronomi
+- metronomo
+- Metronoms
+- Metronomus
+- Metronoom
+- Metronòm
+- metronóm
+- metrònom
+- Metrònumu
+- metrónomo
+- Metrónomu
+- metrônomo
+- Máy tạo nhịp
+- méadranóm
+- métronome
+- μετρονομος
+- метраном
+- метроном
+- мэтраном
+- Մետրոնոմ
+- מטרונום
+- مترونوم
+- مِسرع
+- तालमान
+- మెట్రోనోమ్
+- ಮೆಟ್ರೊನೋಮ್
+- เครื่องกำหนดอัตราความเร็ว
+- နရီချိန်စက်
+- მეტრონომი
+- メトロノーム
+- 拍子機
+- 節拍器
+- 节拍器
+- 메트로놈
 has_id_wikidata: Q156424
-has_use: "[[_Standards/WikiData/WD~tempo,189214]]"
+has_use: '[[_Standards/WikiData/WD~tempo,189214]]'
 described_by_source:
-  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-subclass_of: "[[_Standards/WikiData/WD~timepiece,42622779]]"
+- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~timepiece,42622779]]'
 Nomenclature_for_Museum_Cataloging: 10634
 OmegaWiki_Defined_Meaning: 537763
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wittner%20metronome.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Metronom%20SQ50%20firmy%20Seiko.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Metronome%20Taktell%202.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pad%20treningowy%20AHMP%20z%20metronomem%20firmy%20Ahead.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Taktell%20Piccolo%20Metronoom.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wittner%20metronome.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Metronom%20SQ50%20firmy%20Seiko.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Metronome%20Taktell%202.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pad%20treningowy%20AHMP%20z%20metronomem%20firmy%20Ahead.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Taktell%20Piccolo%20Metronoom.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Metronome.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Metronome%20%28PSF%29.png
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sound%20Classic%20Metronome%2096.ogg
 Amazon_com_browse_node: 11965901
 Commons_category: Metronomes
+dv_has_:
+  name_:
+    af: Metronoom
+    an: Metronomo
+    ar: مِسرع
+    ast: Metrónomu
+    be: метраном
+    be-tarask: мэтраном
+    bg: Метроном
+    ca: metrònom
+    cs: Metronom
+    da: Metronom
+    de: Metronom
+    el: μετρονομος
+    en: metronome
+    eo: metronomo
+    es: metrónomo
+    et: Metronoom
+    eu: metronomo
+    fa: مترونوم
+    fi: Metronomi
+    fr: métronome
+    ga: méadranóm
+    gl: Metrónomo
+    gsw: Metronom
+    he: מטרונום
+    hi: तालमान
+    hr: Metronom
+    hu: metronóm
+    hy: Մետրոնոմ
+    id: Metronom
+    io: Metronomo
+    it: metronomo
+    ja: メトロノーム
+    ka: მეტრონომი
+    kk: Метроном
+    kn: ಮೆಟ್ರೊನೋಮ್
+    ko: 메트로놈
+    ky: Метроном
+    la: Metronomus
+    lt: metronomas
+    lv: Metronoms
+    ms: Metronom
+    my: နရီချိန်စက်
+    nb: metronom
+    nds-nl: metronoom
+    nl: metronoom
+    nn: metronom
+    oc: Metronòm
+    pl: Metronom
+    pt: metrônomo
+    ro: Metronom
+    rsk: Метроном
+    ru: метроном
+    scn: Metrònumu
+    sh: Metronom
+    sk: Metronóm
+    sl: metronom
+    sr: Метроном
+    sr-ec: Метроном
+    sr-el: Metronom
+    sv: Metronom
+    te: మెట్రోనోమ్
+    th: เครื่องกำหนดอัตราความเร็ว
+    tr: Metronom
+    uk: метроном
+    vi: Máy tạo nhịp
+    wuu: 节拍器
+    yue: 拍子機
+    zh: 節拍器
+    zh-cn: 节拍器
+    zh-hans: 节拍器
+    zh-hant: 節拍器
+    zh-hk: 節拍器
+    zh-sg: 节拍器
+    zh-tw: 節拍器
 ---
-
 # [[Metronome]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Metronome,156424]] 

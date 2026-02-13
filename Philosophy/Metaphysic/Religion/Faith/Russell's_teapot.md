@@ -1,8 +1,113 @@
 ---
 aliases:
-  - Russell's teapot
-  - Russell's_teapot
+- Bule de chá de Russell
+- Ceainicul lui Russell
+- Czajniczek Russella
+- Pod-te Russell
+- Raselo arbatinukas
+- Rasselin çaydanı
+- Russell choynagi
+- Russell teáskannája
+- Russell'in çaydanlığı
+- Russell's teapot
+- Russell's_teapot
+- Russellen teontzia
+- Russellin teekannu
+- Russellov čajnik
+- Russellova čajová konvice
+- Russells Teekanne
+- Russells tekanna
+- Russells tepotte
+- Russells theepot
+- Teekandl vom Russell
+- Teiera di Russell
+- Teketill Russells
+- Teko teh Russell
+- Tekruĉo de Russell
+- Teteira de Russell
+- tetera de Russell
+- Théière de Russell
+- Τσαγιέρα του Ράσελ
+- Імбрык Расэла
+- Раселов чајник
+- Чайник Рассела
+- Чайникът на Ръсел
+- Ռասելի թեյնիկ
+- קנקן התה של ראסל
+- إبريق راسل
+- قوری چای راسل
+- قۆریەکەی ڕەسڵ
+- रसल की चायदानी
+- রাসেলের চায়ের কেতলি
+- ਰਸਲ ਦੀ ਚਾਹਦਾਨੀ
+- ரசலின் தேனீர் கேத்தல்
+- റസ്സലിന്റെ ചായക്കപ്പ്
+- රසල්ගේ තේ පෝච්චිය
+- กาน้ำชาของรัสเซลล์
+- ラッセルのティーポット
+- 罗素的茶壶
+- 羅素之壺
+- 羅素的茶壺
+- 러셀의 찻주전자
 has_id_wikidata: Q267277
+dv_has_:
+  name_:
+    ar: إبريق راسل
+    az: Rasselin çaydanı
+    bar: Teekandl vom Russell
+    be: Імбрык Расэла
+    bg: Чайникът на Ръсел
+    bn: রাসেলের চায়ের কেতলি
+    br: Pod-te Russell
+    bs: Russellov čajnik
+    ca: tetera de Russell
+    ckb: قۆریەکەی ڕەسڵ
+    cs: Russellova čajová konvice
+    da: Russells tepotte
+    de: Russells Teekanne
+    el: Τσαγιέρα του Ράσελ
+    en: Russell's Teapot
+    en-gb: Russell's teapot
+    eo: Tekruĉo de Russell
+    es: Tetera de Russell
+    eu: Russellen teontzia
+    fa: قوری چای راسل
+    fi: Russellin teekannu
+    fr: Théière de Russell
+    gl: Teteira de Russell
+    he: קנקן התה של ראסל
+    hi: रसल की चायदानी
+    hr: Russellov čajnik
+    hu: Russell teáskannája
+    hy: Ռասելի թեյնիկ
+    id: Teko teh Russell
+    is: Teketill Russells
+    it: Teiera di Russell
+    ja: ラッセルのティーポット
+    ko: 러셀의 찻주전자
+    lt: Raselo arbatinukas
+    lzh: 羅素之壺
+    ml: റസ്സലിന്റെ ചായക്കപ്പ്
+    nl: Russells theepot
+    pa: ਰਸਲ ਦੀ ਚਾਹਦਾਨੀ
+    pfl: Russells Teekanne
+    pl: Czajniczek Russella
+    pt: Bule de chá de Russell
+    ro: Ceainicul lui Russell
+    ru: Чайник Рассела
+    sh: Russellov čajnik
+    si: රසල්ගේ තේ පෝච්චිය
+    sq: Russells Teekanne
+    sr: Раселов чајник
+    sv: Russells tekanna
+    ta: ரசலின் தேனீர் கேத்தல்
+    th: กาน้ำชาของรัสเซลล์
+    tr: Russell'in çaydanlığı
+    uk: Чайник Рассела
+    uz: Russell choynagi
+    zh: 羅素的茶壺
+    zh-hans: 罗素的茶壶
+    zh-hant: 羅素的茶壺
 ---
 # [[Russell's_teapot]] 
 

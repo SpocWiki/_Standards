@@ -1,30 +1,189 @@
 ---
 aliases:
-  - Klan
-  - Clan
+- Adrum
+- angkan
+- aşiret
+- Beeldaaje
+- Clan
+- clann
+- clã
+- Dikânda
+- Dzinza
+- E'irukuu
+- El
+- Eşire
+- eşîr
+- Fokom-pianakaviana
+- Gėmėnie
+- Heimokundu
+- klaani
+- Klan
+- klanas
+- Klann
+- klano
+- klans
+- Kwai
+- nemzetség
+- Ntɔn
+- Rod
+- suku
+- thị tộc
+- Ukoo
+- Urugʻ
+- yaduvanshi ahir
+- Êlên kurdan
+- σόι
+- Ара
+- Аҕа ууһа
+- клан
+- рід
+- род
+- тұқым
+- տոհմ
+- חמולה
+- ئێلێن کوردان
+- تیرە
+- خانوادہ
+- طایفا
+- طایفه
+- عشيرة
+- عشيره
+- گوت
+- वंश
+- বংশ
+- ਗੋਤ
+- குலம்
+- เผ่าพงศ์
+- ᏧᏂᏴᏫ
+- 氏族
+- 씨족
 has_id_wikidata: Q211503
 different_from:
-  - '[[_Standards/WikiData/WD~family_name,101352]]'
-  - '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
-  - '[[_Standards/WikiData/WD~Klan,395886]]'
-  - '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~family_name,101352]]'
+- '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
+- '[[_Standards/WikiData/WD~Klan,395886]]'
+- '[[_Standards/WikiData/WD~genus,34740]]'
 facet_of: '[[_Standards/WikiData/WD~kinship,171318]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Klan,12824902]]'
-  - '[[_Standards/WikiData/WD~clan,30897454]]'
+- '[[_Standards/WikiData/WD~Klan,12824902]]'
+- '[[_Standards/WikiData/WD~clan,30897454]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_clan,13383694]]'
 subclass_of: '[[_Standards/WikiData/WD~family,8436]]'
 Commons_category: Clans
 P8189: 987007283793105171
+dv_has_:
+  name_:
+    ak: Ntɔn
+    ar: عشيرة
+    arz: عشيره
+    as: বংশ
+    ast: Clan
+    az: El
+    azb: طایفا
+    ba: Ара
+    be: род
+    be-tarask: род
+    bg: Клан
+    bn: yaduvanshi ahir
+    br: Klann
+    bs: Klan
+    ca: clan
+    chr: ᏧᏂᏴᏫ
+    ckb: تیرە
+    cs: klan
+    cy: Clan
+    da: Klan
+    dag: Clan
+    de: Clan
+    diq: Eşire
+    el: σόι
+    en: clan
+    en-us: clan
+    eo: klano
+    es: clan
+    et: Klann
+    eu: Klan
+    fa: طایفه
+    fi: klaani
+    fr: clan
+    fy: Klan
+    ga: clann
+    gl: clan
+    guc: E'irukuu
+    he: חמולה
+    hi: वंश
+    hr: Rod
+    hu: nemzetség
+    hy: տոհմ
+    id: klan
+    io: Klano
+    it: clan
+    ja: 氏族
+    kab: Adrum
+    kcg: Kwai
+    kg: Dikânda
+    kk: тұқым
+    ko: 씨족
+    ku: eşîr
+    ku-arab: ئێلێن کوردان
+    ku-latn: Êlên kurdan
+    ky: Клан
+    lt: klanas
+    lv: klans
+    lzh: 氏族
+    mg: Fokom-pianakaviana
+    min: Suku
+    mk: клан
+    ms: suku
+    nb: klan
+    nl: clan
+    oc: Clan
+    olo: Heimokundu
+    pa: ਗੋਤ
+    pl: klan
+    pnb: گوت
+    pt: clã
+    pt-br: clã
+    ro: clan
+    ru: род
+    sah: Аҕа ууһа
+    sgs: Gėmėnie
+    sh: klan
+    sl: klan
+    sn: Dzinza
+    so: Beeldaaje
+    sq: Klan
+    sr: клан
+    sr-ec: Клан
+    sr-el: Klan
+    sv: klan
+    sw: Ukoo
+    ta: குலம்
+    te: Yaduvanshi ahir
+    th: เผ่าพงศ์
+    tl: angkan
+    tr: aşiret
+    uk: рід
+    ur: خانوادہ
+    uz: Urugʻ
+    vi: thị tộc
+    wuu: 氏族
+    yue: 氏族
+    zh: 氏族
+    zh-cn: 氏族
+    zh-hans: 氏族
+    zh-hant: 氏族
+    zh-hk: 氏族
+    zh-sg: 氏族
+    zh-tw: 氏族
 ---
-
 # [[Clan]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Clan,211503|WD~Clan,211503]] 

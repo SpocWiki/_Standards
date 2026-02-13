@@ -1,9 +1,59 @@
 ---
 aliases:
-  - coxib
-  - Cyclooxygenase-2_inhibitor
-  - Cyclooxygenase-2 inhibitor
+- COX-2 inhibitor
+- COX-2 инхибитори
+- COX-2-estäjät
+- COX-2-hemmar
+- COX-2-Hemmer
+- COX-2-ի ինհիբիտոր
+- COX-2抑制剂
+- COX-2抑制劑
+- COX-2特异性抑制剂
+- COX-2阻害薬
+- coxib
+- Coxiber
+- Cyclooxygenase-2 inhibitor
+- Cyclooxygenase-2_inhibitor
+- inhibidor de la COX-2
+- Inhibidores selectivos de la COX-2
+- inhibitor cyklooxygenázy 2
+- Inibidores seletivos da cicloxigenase-2
+- Inibitori selettivi della COX-2
+- Koksibler
+- Penghambat siklooksigenase-2
+- zaviralec COX-2
+- коксиби
+- مثبطات كوكس-2
+- کوکسیب
 has_id_wikidata: Q377458
+dv_has_:
+  name_:
+    ar: مثبطات كوكس-2
+    ca: inhibidor de la COX-2
+    cs: inhibitor cyklooxygenázy 2
+    de: COX-2-Hemmer
+    en: COX-2 inhibitor
+    es: Inhibidores selectivos de la COX-2
+    fa: کوکسیب
+    fi: COX-2-estäjät
+    fr: Coxib
+    hy: COX-2-ի ինհիբիտոր
+    id: Penghambat siklooksigenase-2
+    it: Inibitori selettivi della COX-2
+    ja: COX-2阻害薬
+    mk: COX-2 инхибитори
+    nn: COX-2-hemmar
+    pt: Inibidores seletivos da cicloxigenase-2
+    sh: COX-2 inhibitor
+    sl: zaviralec COX-2
+    sr: COX-2 inhibitor
+    sv: Coxiber
+    tr: Koksibler
+    uk: коксиби
+    zh: COX-2抑制劑
+    zh-cn: COX-2特异性抑制剂
+    zh-hans: COX-2抑制剂
+    zh-hant: COX-2抑制劑
 ---
 ## #has_/text_of_/abstract 
 

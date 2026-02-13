@@ -1,8 +1,111 @@
 ---
 has_id_wikidata: Q828827
+dv_has_:
+  name_:
+    ar: انقطاع الطاقة
+    az: Cərəyanın kəsilməsi
+    be-tarask: адключэньне электраэнэргіі
+    bn: বিদ্যুৎ বিভ্রাট
+    bs: Nestanak električne energije
+    ca: apagada elèctrica
+    cs: blackout
+    cy: Toriad trydan
+    da: strømsvigt
+    de: Stromausfall
+    de-ch: Stromausfall
+    en: power outage
+    en-ca: Power outage
+    en-gb: power outage
+    eo: elektrorompo
+    es: apagón eléctrico
+    et: Elektrikatkestus
+    eu: itzalaldi elektriko
+    fa: قطع برق
+    fi: sähkökatkos
+    fr: panne de courant
+    gl: apagamento eléctrico
+    he: הפסקת חשמל
+    hi: विद्युत् विच्छेद
+    hu: áramkimaradás
+    id: mati listrik
+    it: black out
+    ja: 停電
+    ko: 정전
+    lt: Energetinė avarija
+    ms: Gangguan bekalan elektrik
+    nan: Thêng-tiān
+    nb: strømbrudd
+    nl: stroomuitval
+    nn: straumbrott
+    pl: blackout
+    pms: Anterussion elétrica
+    pt: apagão
+    pt-br: blecaute
+    ro: pană de curent
+    ru: авария в энергосистеме
+    sl: izpad elektrike
+    smn: šleđgâpotkâ
+    sq: Ndërprerja e energjisë elektrike
+    sv: elavbrott
+    ta: மின்சார நிறுத்தம்
+    th: ไฟฟ้าดับ
+    uk: аварія в енергосистемі
+    uz: Power outage
+    vi: mất điện
+    yue: 停電
+    zh: 停電
+    zh-hans: 停电
+    zh-hant: 停電
+    zh-hk: 停電
+    zh-tw: 停電
+aliases:
+- Anterussion elétrica
+- apagada elèctrica
+- apagamento eléctrico
+- apagão
+- apagón eléctrico
+- black out
+- blackout
+- blecaute
+- Cərəyanın kəsilməsi
+- elavbrott
+- Elektrikatkestus
+- elektrorompo
+- Energetinė avarija
+- Gangguan bekalan elektrik
+- itzalaldi elektriko
+- izpad elektrike
+- mati listrik
+- mất điện
+- Ndërprerja e energjisë elektrike
+- Nestanak električne energije
+- panne de courant
+- pană de curent
+- power outage
+- straumbrott
+- Stromausfall
+- stroomuitval
+- strømbrudd
+- strømsvigt
+- sähkökatkos
+- Thêng-tiān
+- Toriad trydan
+- áramkimaradás
+- šleđgâpotkâ
+- аварія в енергосистемі
+- авария в энергосистеме
+- адключэньне электраэнэргіі
+- הפסקת חשמל
+- انقطاع الطاقة
+- قطع برق
+- विद्युत् विच्छेद
+- বিদ্যুৎ বিভ্রাট
+- மின்சார நிறுத்தம்
+- ไฟฟ้าดับ
+- 停电
+- 停電
+- 정전
 ---
-
-
 # [[Blackout]] 
 
 #is_/similar_to :: [[Brownout]] 

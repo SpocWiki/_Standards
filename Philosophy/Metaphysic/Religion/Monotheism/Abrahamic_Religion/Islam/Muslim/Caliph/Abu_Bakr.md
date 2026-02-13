@@ -1,84 +1,269 @@
 ---
 aliases:
-  - Abd Allah ibn Abi Quhafa
-  - Abu Bakr
-  - Abu_Bakr
+- Abacar
+- Abd Allah ibn Abi Quhafa
+- Aboe Bakr
+- Abou Bakr
+- Abou Bakr As-Siddiq
+- Abu Bakar
+- Abu Bakar as-Siddiq
+- Abu Bakar Ash-Shiddiq
+- Abu Bakr
+- Abu Bakr as-Siddiq
+- Abu Bakr kalifa
+- Abu Bakr Siddiq
+- Abu Bakras
+- Abu Bekr
+- Abu-Bakr as-Siddiq
+- Abu-Bekr
+- Abubacer
+- Abuu Bakar
+- Abuubakar Alsidiiq R.C.
+- Abu_Bakr
+- Abú Bakr
+- Abú Bakr as-Siddík
+- Abū Bakr
+- Abū Bekrs
+- Ebu Bekir
+- Ebu Bekr Siddik
+- Ebu Bekır
+- Ebu-Bekr
+- Ebûbekir Etîq ibn Ebî Quhafe
+- Sayyadina Abubakar
+- Əbu Bəkr
+- Αμπού Μπακρ
+- Абу Бакр
+- Абу Бакр ас-Сиддикъ
+- Абу Бакр ас-Сыддык
+- Абу Бакр Сиддикъ
+- Абу Бекр
+- Абу-Бакр
+- Абубакри Сиддиқ
+- Әбу Бәкір
+- Әбу Бәкер
+- Әбү Бәкер
+- Աբու-Բեքր
+- אבו בכר
+- أبو بكر الصديق
+- ئەبووبەکر
+- ئەبۇبەكرى
+- ابو بكر
+- ابو بکر
+- ابوبکر
+- ابوبکر صدیق
+- ابوبڪر
+- ابوٗ بَکر صديٖق
+- بوبكر
+- އަބޫބަކުރުގެފާނު
+- ߊߓߎߓߞߊߙ ߛߘߌߞߌ
+- अबु बकर
+- अबू बक्र
+- আবু বকর ইবনে কুহাফা
+- ਅਬੂ ਬਕਰ
+- அபூபக்கர்
+- అబూబక్ర్
+- ಅಬೂ ಬಕರ್
+- അബൂബക്കർ സിദ്ദീഖ്
+- อะบูบักร์
+- აბუ ბაქრი
+- ⴰⴱⵓ ⴱⴰⴽⵔ ⵙⵙⵉⴷⵉⵇ
+- アブー＝バクル
+- 阿布·伯克尔
+- 阿布伯克爾
+- ꠀꠛꠥ ꠛꠇꠞ
+- 아부 바크르
 has_id_wikidata: Q334923
 date_of_birth: 0573-10-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20bakr2.jpg
-position_held: "[[_Standards/WikiData/WD~Caliph,65997]]"
+position_held: '[[_Standards/WikiData/WD~Caliph,65997]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-part_of: "[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~merchant,215536]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+part_of: '[[_Standards/WikiData/WD~companions_of_the_Prophet,188711]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Abdullah,307578]]"
-  - "[[_Standards/WikiData/WD~Abu_Bakr,334826]]"
-kunya: "[[_Standards/WikiData/WD~Abu_Bakr,334826]]"
-tribe: "[[_Standards/WikiData/WD~Quraysh,485732]]"
+- '[[_Standards/WikiData/WD~Abdullah,307578]]'
+- '[[_Standards/WikiData/WD~Abu_Bakr,334826]]'
+kunya: '[[_Standards/WikiData/WD~Abu_Bakr,334826]]'
+tribe: '[[_Standards/WikiData/WD~Quraysh,485732]]'
 place_of_burial: "[[_Standards/WikiData/WD~Prophet's_Mosque,486080]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 child:
-  - "[[_Standards/WikiData/WD~Abd_al_Rahman_ibn_Abi_Bakr,1108719]]"
-  - "[[_Standards/WikiData/WD~Muhammad_ibn_Abi_Bakr,1112754]]"
-  - "[[_Standards/WikiData/WD~Asmā'_bint_Abu_Bakr,2444841]]"
-  - "[[_Standards/WikiData/WD~Abd_Allah_ibn_Abi_Bakr,4666109]]"
-  - "[[_Standards/WikiData/WD~Aisha,4730963]]"
-  - "[[_Standards/WikiData/WD~Umm_Kulthum_bint_Abi_Bakr,7881640]]"
+- '[[_Standards/WikiData/WD~Abd_al_Rahman_ibn_Abi_Bakr,1108719]]'
+- '[[_Standards/WikiData/WD~Muhammad_ibn_Abi_Bakr,1112754]]'
+- "[[_Standards/WikiData/WD~Asmā'_bint_Abu_Bakr,2444841]]"
+- '[[_Standards/WikiData/WD~Abd_Allah_ibn_Abi_Bakr,4666109]]'
+- '[[_Standards/WikiData/WD~Aisha,4730963]]'
+- '[[_Standards/WikiData/WD~Umm_Kulthum_bint_Abi_Bakr,7881640]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Asma_bint_Umays,2739346]]"
-  - "[[_Standards/WikiData/WD~Umm_Ruman,3535516]]"
-  - "[[_Standards/WikiData/WD~Qutaylah_bint_Abd_al_Uzza,7273004]]"
-  - "[[_Standards/WikiData/WD~Habiba_bint_Kharija,12207111]]"
+- '[[_Standards/WikiData/WD~Asma_bint_Umays,2739346]]'
+- '[[_Standards/WikiData/WD~Umm_Ruman,3535516]]'
+- '[[_Standards/WikiData/WD~Qutaylah_bint_Abd_al_Uzza,7273004]]'
+- '[[_Standards/WikiData/WD~Habiba_bint_Kharija,12207111]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Biography,4913761]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Middle_Ages,10743405]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Arab_world,15301257]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Muslim_history,21036669]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Muslim_scholars,21830214]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Salaf,21830215]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Hadith,21830212]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Sunni_Islam,21830216]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-honorific_suffix: "[[_Standards/WikiData/WD~May_Allah_be_pleased_with_him,7280239]]"
-mother: "[[_Standards/WikiData/WD~Salma_Umm_ul_Khair,7405368]]"
-father: "[[_Standards/WikiData/WD~Abu_Quhafa,7902721]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Islamic_Courts_&_Canons,106703387]]"
+- '[[_Standards/WikiData/WD~WikiProject_Biography,4913761]]'
+- '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Middle_Ages,10743405]]'
+- '[[_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485]]'
+- '[[_Standards/WikiData/WD~WikiProject_Arab_world,15301257]]'
+- '[[_Standards/WikiData/WD~WikiProject_Muslim_history,21036669]]'
+- '[[_Standards/WikiData/WD~WikiProject_Muslim_scholars,21830214]]'
+- '[[_Standards/WikiData/WD~WikiProject_Salaf,21830215]]'
+- '[[_Standards/WikiData/WD~WikiProject_Hadith,21830212]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sunni_Islam,21830216]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+honorific_suffix: '[[_Standards/WikiData/WD~May_Allah_be_pleased_with_him,7280239]]'
+mother: '[[_Standards/WikiData/WD~Salma_Umm_ul_Khair,7405368]]'
+father: '[[_Standards/WikiData/WD~Abu_Quhafa,7902721]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Islamic_Courts_&_Canons,106703387]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Umm_Farwa_bint_Abu_Quhafa,124214931]]"
-  - "[[_Standards/WikiData/WD~Umm_Amir_bint_Abu_Quhafa,124214929]]"
-  - "[[_Standards/WikiData/WD~Qurayba_bint_Abu_Quhafa,124711626]]"
+- '[[_Standards/WikiData/WD~Umm_Farwa_bint_Abu_Quhafa,124214931]]'
+- '[[_Standards/WikiData/WD~Umm_Amir_bint_Abu_Quhafa,124214929]]'
+- '[[_Standards/WikiData/WD~Qurayba_bint_Abu_Quhafa,124711626]]'
 date_of_death: 0634-08-23T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-place_of_birth: "[[_Standards/WikiData/WD~Mecca,5806]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Arabic,13955]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-ethnic_group: "[[_Standards/WikiData/WD~Arabs,35323]]"
-place_of_death: "[[_Standards/WikiData/WD~Medina,35484]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mecca,5806]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Arabic,13955]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ethnic_group: '[[_Standards/WikiData/WD~Arabs,35323]]'
+place_of_death: '[[_Standards/WikiData/WD~Medina,35484]]'
 Commons_category: Abu Bakr
 name_in_native_language: أبو بكر
 calligraphy: http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Bakr%20Masjid%20an-Nabawi%20Calligraphy.svg
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/abu-bakr
-ISNI: "0000000078617829"
-P1015: "97013967"
+ISNI: 0000000078617829
+P1015: 97013967
+dv_has_:
+  name_:
+    ace: Abu Bakar Ash-Shiddiq
+    af: Aboe Bakr
+    ar: أبو بكر الصديق
+    ary: بوبكر
+    arz: ابو بكر
+    ast: Abu Bakr as-Siddiq
+    az: Əbu Bəkr
+    azb: ابوبکر
+    ba: Әбү Бәкер
+    be: Абу Бакр
+    be-tarask: Абу Бакр
+    bg: Абу Бакр
+    bjn: Abu Bakar
+    bn: আবু বকর ইবনে কুহাফা
+    br: Abou Bakr
+    bs: Ebu-Bekr
+    bug: Abu Bakar Ash-Shiddiq
+    ca: Abu-Bakr as-Siddiq
+    ce: Абу Бакр Сиддикъ
+    ckb: ئەبووبەکر
+    cs: Abú Bakr
+    da: Abu Bakr
+    dag: Abu Bakr
+    de: Abū Bakr
+    diq: Ebu Bekır
+    dv: އަބޫބަކުރުގެފާނު
+    el: Αμπού Μπακρ
+    en: Abu Bakr
+    eo: Abu Bakr
+    es: Abu Bakr as-Siddiq
+    et: Abū Bakr
+    eu: Abu Bakr
+    fa: ابوبکر
+    fi: Abu Bakr
+    fr: Abou Bakr As-Siddiq
+    ga: Abu Bakr siddiq
+    gl: Abu Bakr
+    gor: Abu Bakar Ash-Shiddiq
+    ha: Sayyadina Abubakar
+    he: אבו בכר
+    hi: अबु बकर
+    hr: Abu Bakr
+    hu: Abu Bakr kalifa
+    hy: Աբու-Բեքր
+    id: Abu Bakar ash-Shiddiq
+    inh: Абу Бакр
+    io: Abu Bakr
+    is: Abú Bakr
+    it: Abū Bakr
+    ja: アブー＝バクル
+    jv: Abu Bakar
+    ka: აბუ ბაქრი
+    kk: Әбу Бәкір
+    kn: ಅಬೂ ಬಕರ್
+    ko: 아부 바크르
+    ks: ابوٗ بَکر صديٖق
+    ku: Ebûbekir Etîq ibn Ebî Quhafe
+    ky: Абу Бакр ас-Сыддык
+    la: Abubacer
+    lb: Abu Bekr
+    lbe: Абу Бакр
+    lez: Абу Бакр ас-Сиддикъ
+    lt: Abu Bakras
+    lv: Abū Bekrs
+    mad: Abu Bakar ash-Shiddiq
+    mg: Abu Bakr
+    min: Abu Bakar
+    mk: Абу Бакр
+    ml: അബൂബക്കർ സിദ്ദീഖ്
+    mr: अबू बक्र
+    ms: Abu Bakar as-Siddiq
+    nan: Abu Bakr
+    nb: Abu Bakr
+    nl: Aboe Bakr
+    nn: Abu Bakr
+    nqo: ߊߓߎߓߞߊߙ ߛߘߌߞߌ
+    oc: Abu Bakr as-Siddiq
+    pa: ਅਬੂ ਬਕਰ
+    pl: Abu Bakr
+    pnb: ابو بکر
+    ps: ابوبکر
+    pt: Abacar
+    pt-br: Abacar
+    ro: Abu-Bekr
+    ru: Абу Бакр
+    sco: Abu Bakr
+    sd: ابوبڪر
+    sh: Abu Bakr
+    sk: Abú Bakr as-Siddík
+    sl: Abu Bakr
+    so: Abuubakar Alsidiiq R.C.
+    sq: Ebu Bekr Siddik
+    sr: Абу Бекр
+    su: Abu Bakar
+    sv: Abu Bakr
+    sw: Abu Bakr
+    syl: ꠀꠛꠥ ꠛꠇꠞ
+    ta: அபூபக்கர்
+    te: అబూబక్ర్
+    tg: Абубакри Сиддиқ
+    th: อะบูบักร์
+    tl: Abu Bakr
+    tr: Ebu Bekir
+    tt: Әбу Бәкер
+    ug: ئەبۇبەكرى
+    uk: Абу-Бакр
+    ur: ابوبکر صدیق
+    uz: Abu Bakr Siddiq
+    vi: Abu Bakar
+    war: Abu Bakr
+    wo: Abuu Bakar
+    wuu: 阿布·伯克尔
+    yue: 阿布伯克爾
+    zgh: ⴰⴱⵓ ⴱⴰⴽⵔ ⵙⵙⵉⴷⵉⵇ
+    zh: 阿布·伯克尔
 ---
-
 # [[Abu_Bakr]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Abu_Bakr,334923|WD~Abu_Bakr,334923]] 

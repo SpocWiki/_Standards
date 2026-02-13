@@ -1,8 +1,137 @@
 ---
 has_id_wikidata: Q27070
+dv_has_:
+  name_:
+    af: Feliformia
+    an: Feliformia
+    ar: سنوريات الشكل
+    ary: سنوريات الشكل
+    arz: سنوريات الشكل
+    ast: Feliformia
+    az: Pişikkimilər
+    azb: پیشیک کیمیلر
+    ban: Feliformia
+    be: коткападобныя
+    be-tarask: коткападобныя
+    bg: коткоподобни
+    ca: feliformes
+    ceb: Feliformia
+    cs: kočkotvární
+    da: Feliformia
+    de: Katzenartige
+    de-ch: Katzenartige
+    el: Αιλουροειδή
+    en: Feliformia
+    en-ca: Feliformia
+    en-gb: Feliformia
+    eo: Felisformaj
+    es: Feliformia
+    eu: Feliformia
+    ext: Feliformia
+    fa: گربهسانان
+    fi: Feliformia
+    fr: Feliformia
+    frr: Kaatoortagen
+    fy: Katdieren
+    ga: Feliformia
+    gl: Feliformia
+    he: דמויי חתול
+    hi: फेलिफोर्मिया
+    hr: Feliformia
+    hu: macskaalkatúak
+    ia: feliformes
+    id: Feliformia
+    ie: Feliformia
+    io: Feliformia
+    is: Kattgervingar
+    it: Feliformia
+    ja: ネコ型亜目
+    kk: Мысықтәрізділер
+    ko: 고양이아목
+    la: Feliformia
+    lb: Kazendéieren
+    li: Feliformia
+    lt: Katininiai
+    lv: kaķveidīgie
+    mk: Мачковидни
+    ms: Feliformia
+    mul: Feliformia
+    my: ကြောင်အသွင်ရှိ တိရစ္ဆာန်များ
+    mzn: بامشیمونائون
+    nan: Niau-hêng-lūi
+    nb: Kattelignende rovpattedyr
+    nl: Feliformia
+    nn: Feliformia
+    nv: Náshdóí Deinoolinígíí
+    oc: Feliformia
+    pl: kotokształtne
+    pt: Feliformia
+    pt-br: Feliformia
+    ro: Feliformia
+    ru: кошкообразные
+    sco: Feliformia
+    sh: mačkolike zvijeri
+    sl: Feliformia
+    sq: Feliformia
+    sr: мачколике звери
+    stq: Feliformia
+    sv: kattartade rovdjur
+    ta: பூனையுருவி
+    tl: Feliformia
+    tr: Kedimsiler
+    uk: котовидні
+    vi: phân bộ dạng Mèo
+    vls: Feliformia
+    vo: Feliformia
+    war: Feliformia
+    wuu: 猫型亚目
+    zh: 貓型亞目
+    zh-cn: 猫型亚目
+    zh-hans: 猫型亚目
+    zh-hant: 貓型亞目
+aliases:
+- feliformes
+- Feliformia
+- Felisformaj
+- Kaatoortagen
+- Katdieren
+- Katininiai
+- kattartade rovdjur
+- Kattelignende rovpattedyr
+- Kattgervingar
+- Katzenartige
+- Kazendéieren
+- kaķveidīgie
+- Kedimsiler
+- kotokształtne
+- kočkotvární
+- macskaalkatúak
+- mačkolike zvijeri
+- Niau-hêng-lūi
+- Náshdóí Deinoolinígíí
+- phân bộ dạng Mèo
+- Pişikkimilər
+- Αιλουροειδή
+- коткападобныя
+- коткоподобни
+- котовидні
+- кошкообразные
+- Мачковидни
+- мачколике звери
+- Мысықтәрізділер
+- דמויי חתול
+- بامشیمونائون
+- سنوريات الشكل
+- پیشیک کیمیلر
+- گربهسانان
+- फेलिफोर्मिया
+- பூனையுருவி
+- ကြောင်အသွင်ရှိ တိရစ္ဆာန်များ
+- ネコ型亜目
+- 猫型亚目
+- 貓型亞目
+- 고양이아목
 ---
-
-
 # [[Feliformia]] 
 
 #is_/same_as :: [[wd Feliformia]]

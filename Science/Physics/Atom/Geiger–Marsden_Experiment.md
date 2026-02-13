@@ -1,29 +1,111 @@
 ---
-has_time_started: 1908-01-01 
-has_time_stopped: 1913-01-01 
+has_time_started: 1908-01-01
+has_time_stopped: 1913-01-01
 aliases:
-  - Geiger–Marsden Experiment
-  - Geiger–Marsden_Experiment
+- Eksperiment s alfa-česticama i zlatnim listićem
+- Eksperyment Rutherforda
+- Esperimento di Rutherford
+- Esperimentu de Rutherford
+- Experiment de Rutherford
+- Experimento de Geiger-Marsden
+- Experimento de Rutherford
+- Experimentul Geiger–Marsden
+- Experiéncia de Rutherford
+- expérience de Rutherford
+- Geiger-Marsden deneyi
+- Geiger-Marsden saiakuntza
+- Geiger–Marsden Experiment
+- Geiger–Marsden_Experiment
+- Gullfolieeksperimentet
+- orfolio-eksperimento
+- Percobaan Geiger-Marsden
+- Pokus s alfa-česticama i zlatnim listićem
+- Rutherford-kísérlet
+- Rutherfordin koe
+- Rutherfordov experiment
+- Rutherfordscher Streuversuch
+- Rutherfordův experiment
+- Thí nghiệm Rutherford
+- Turgnamh Geiger-Marsden
+- Πείραμα Γκάιγκερ-Μάρσντεν
+- Експеримент Гейгера-Марсдена
+- Радерфордов оглед
+- эксперимент Гейгера и Марсдена
+- экспэрымэнт Гайгера—Марздэна
+- ניסוי רתרפורד
+- آزمایش ورقه طلای رادرفورد
+- تاقیکردنەوەی گایگەر–مارسدێن
+- تجربة رذرفورد
+- ਗਾਈਗਰ-ਮਾਰਸਡਨ ਪ੍ਰਯੋਗ
+- கைகர்-மார்சதென் சோதனை
+- ガイガー＝マースデンの実験
+- 盖革－马斯登实验
+- 蓋革－馬斯登實驗
+- 알파입자 산란실험
 has_id_wikidata: Q1648751
 participant:
-  - '[[_Standards/WikiData/WD~Ernest_Marsden,714452]]'
-  - '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
-  - '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
+- '[[_Standards/WikiData/WD~Ernest_Marsden,714452]]'
+- '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
+- '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
 locations: '[[_Standards/WikiData/WD~University_of_Manchester_Institute_of_Science_and_Technology,4272498]]'
 instance_of: '[[_Standards/WikiData/WD~physics_experiment,77872752]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-1910-fig1.GIF
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20diagram.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20experiment%20apparatus.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Geiger1908.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GM-1909-1.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%20model%20alpha%20particle%20scattering.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-1910-fig1.GIF
+- http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20diagram.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20experiment%20apparatus.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Geiger1908.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/GM-1909-1.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%20model%20alpha%20particle%20scattering.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geiger-Marsden%20apparatus%20CGI%20mock-up.png
 Commons_category: Geiger-Marsden experiment
 end_time: 1913-01-01T00:00:00Z
 start_time: 1908-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: تجربة رذرفورد
+    ast: Esperimentu de Rutherford
+    be-tarask: экспэрымэнт Гайгера—Марздэна
+    ca: Experiment de Rutherford
+    ckb: تاقیکردنەوەی گایگەر–مارسدێن
+    cs: Rutherfordův experiment
+    de: Rutherfordscher Streuversuch
+    el: Πείραμα Γκάιγκερ-Μάρσντεν
+    en: Geiger–Marsden experiment
+    eo: orfolio-eksperimento
+    es: Experimento de Rutherford
+    eu: Geiger-Marsden saiakuntza
+    fa: آزمایش ورقه طلای رادرفورد
+    fi: Rutherfordin koe
+    fr: expérience de Rutherford
+    ga: Turgnamh Geiger-Marsden
+    gl: Experimento de Rutherford
+    he: ניסוי רתרפורד
+    hr: Pokus s alfa-česticama i zlatnim listićem
+    hu: Rutherford-kísérlet
+    id: Percobaan Geiger-Marsden
+    it: Esperimento di Rutherford
+    ja: ガイガー＝マースデンの実験
+    ko: 알파입자 산란실험
+    nb: Gullfolieeksperimentet
+    oc: Experiéncia de Rutherford
+    pa: ਗਾਈਗਰ-ਮਾਰਸਡਨ ਪ੍ਰਯੋਗ
+    pl: Eksperyment Rutherforda
+    pt: Experimento de Geiger-Marsden
+    ro: Experimentul Geiger–Marsden
+    ru: эксперимент Гейгера и Марсдена
+    sh: Eksperiment s alfa-česticama i zlatnim listićem
+    sk: Rutherfordov experiment
+    sr: Радерфордов оглед
+    ta: கைகர்-மார்சதென் சோதனை
+    tr: Geiger-Marsden deneyi
+    uk: Експеримент Гейгера-Марсдена
+    vi: Thí nghiệm Rutherford
+    yue: 蓋革－馬斯登實驗
+    zh: 盖革－马斯登实验
+    zh-hans: 盖革－马斯登实验
+    zh-hant: 蓋革－馬斯登實驗
+    zh-hk: 蓋革－馬斯登實驗
 ---
-
 # [[Geiger–Marsden_Experiment]] 
 
 

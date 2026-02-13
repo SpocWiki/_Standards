@@ -1,20 +1,111 @@
 ---
 aliases:
-  - Commutative_Ring
-  - commutative ring
+- anel comutativo
+- Anel conmutativo
+- anell commutatiu
+- anello commutative
+- anello commutativo
+- anellus commutativus
+- anelo comutal
+- anillo conmutativo
+- anneau commutatif
+- Aníu conmutativu
+- commutatieve ring
+- commutative ring
+- Commutative_Ring
+- Değişmeli halka
+- eraztun trukakor
+- gelanggang komutatif
+- Inel comutativ
+- Kommutativ ring
+- kommutativer Ring
+- kommutatív gyűrű
+- Kommutoiva rengas
+- komuta ringo
+- komutativni kolobar
+- Komutativni prsten
+- komutativní okruh
+- pierścień przemienny
+- vành giao hoán
+- Αντιμεταθετικός δακτύλιος
+- камутатыўнае колца
+- Коммутатив ҡулса
+- коммутативное кольцо
+- комутативне кільце
+- Комутативни прстен
+- חוג חילופי
+- حلقة تبادلية
+- حلقه جابهجایی
+- பரிமாற்று வளையம்
+- 交换环
+- 交換環
+- 可換環
+- 가환환
 has_id_wikidata: Q858656
 has_part_s_:
-  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
-  - "[[_Standards/WikiData/WD~commutative_monoid,19934355]]"
-studied_by: "[[_Standards/WikiData/WD~commutative_algebra,727659]]"
-opposite_of: "[[_Standards/WikiData/WD~noncommutative_ring,7049224]]"
+- '[[_Standards/WikiData/WD~abelian_group,181296]]'
+- '[[_Standards/WikiData/WD~commutative_monoid,19934355]]'
+studied_by: '[[_Standards/WikiData/WD~commutative_algebra,727659]]'
+opposite_of: '[[_Standards/WikiData/WD~noncommutative_ring,7049224]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~polynomial_identity_ring,7226641]]"
-  - "[[_Standards/WikiData/WD~graded_commutative_ring,28458059]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~affine_scheme,91435997]]"
-OmegaWiki_Defined_Meaning: "1413178"
-Dewey_Decimal_Classification: "512.44"
+- '[[_Standards/WikiData/WD~polynomial_identity_ring,7226641]]'
+- '[[_Standards/WikiData/WD~graded_commutative_ring,28458059]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~affine_scheme,91435997]]'
+OmegaWiki_Defined_Meaning: 1413178
+Dewey_Decimal_Classification: 512.44
+dv_has_:
+  name_:
+    ar: حلقة تبادلية
+    ast: Aníu conmutativu
+    ba: Коммутатив ҡулса
+    be-tarask: камутатыўнае колца
+    ca: anell commutatiu
+    cs: komutativní okruh
+    da: Kommutativ ring
+    de: kommutativer Ring
+    el: Αντιμεταθετικός δακτύλιος
+    en: commutative ring
+    eo: komuta ringo
+    es: anillo conmutativo
+    eu: eraztun trukakor
+    fa: حلقه جابهجایی
+    fi: Kommutoiva rengas
+    fr: anneau commutatif
+    gl: Anel conmutativo
+    he: חוג חילופי
+    hr: Komutativni prsten
+    hu: kommutatív gyűrű
+    ia: anello commutative
+    id: gelanggang komutatif
+    it: anello commutativo
+    ja: 可換環
+    ko: 가환환
+    la: anellus commutativus
+    lfn: anelo comutal
+    nb: kommutativ ring
+    nl: commutatieve ring
+    nn: kommutativ ring
+    pl: pierścień przemienny
+    pt: anel comutativo
+    pt-br: anel comutativo
+    ro: Inel comutativ
+    ru: коммутативное кольцо
+    sh: Komutativni prsten
+    sl: komutativni kolobar
+    sr: Комутативни прстен
+    sr-ec: Комутативни прстен
+    sr-el: Komutativni prsten
+    sv: kommutativ ring
+    ta: பரிமாற்று வளையம்
+    tr: Değişmeli halka
+    uk: комутативне кільце
+    vi: vành giao hoán
+    yue: 交換環
+    zh: 交换环
+    zh-hans: 交换环
+    zh-hant: 交換環
+    zh-hk: 交換環
 ---
 # [[Commutative_Ring]] 
 

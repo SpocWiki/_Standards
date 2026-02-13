@@ -1,61 +1,90 @@
 ---
 aliases:
-  - Luis_Buñuel
-  - Luis Buñuel Portolés
-  - Luis Portolés
-  - Buñuel
-  - Bunuel
-  - Buñuel,Luis
+- Bunuel
+- Buñuel
+- Buñuel,Luis
+- Byunyuel Luis
+- Ludovicus Buñuel
+- Luis Bunyuel
+- Luis Buñuel
+- Luis Buñuel Portolés
+- Luis Portolés
+- Luiss Bunjuels
+- Luis_Buñuel
+- Λουίς Μπουνιουέλ
+- Луіс Буньюэль
+- Луїс Бунюель
+- Луис Буњел
+- Луис Буњуел
+- Луис Бунюел
+- Луис Бунюэль
+- Луис Бунӳэл
+- Люіс Бунюэль
+- Լուիս Բունյուել
+- לואיס בוניואל
+- لوئیس بونوئل
+- لويس بونويل
+- लुई बुनुएल
+- লুইস বুনিউয়েল
+- ലൂയി ബുനുവേൽ
+- ลุยส์ บุญญูเอล
+- ლუის ბუნიუელი
+- ルイス・ブニュエル
+- 路易士·布紐爾
+- 路易斯·布努埃尔
+- 路易斯·布紐爾
+- 路易斯·布纽尔
+- 루이스 부뉴엘
 has_id_wikidata: Q51545
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 cause_of_death: '[[_Standards/WikiData/WD~liver_cirrhosis,147778]]'
 documentation_files_at:
-  - '[[_Standards/WikiData/WD~archive,166118]]'
-  - '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+- '[[_Standards/WikiData/WD~archive,166118]]'
+- '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
-  - '[[_Standards/WikiData/WD~Luis_Buñuel,51545]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Israel_Museum,46815]]'
+- '[[_Standards/WikiData/WD~Luis_Buñuel,51545]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Un_Chien_Andalou,190575]]'
-  - '[[_Standards/WikiData/WD~The_Discreet_Charm_of_the_Bourgeoisie,308920]]'
-  - '[[_Standards/WikiData/WD~The_Exterminating_Angel,332427]]'
-  - '[[_Standards/WikiData/WD~Nazarín,386522]]'
-  - '[[_Standards/WikiData/WD~Belle_de_Jour,470375]]'
-  - '[[_Standards/WikiData/WD~Los_Olvidados,572522]]'
-  - '[[_Standards/WikiData/WD~Viridiana,852841]]'
-  - '[[_Standards/WikiData/WD~L_Age_d_Or,946849]]'
-  - '[[_Standards/WikiData/WD~Land_Without_Bread,2606896]]'
+- '[[_Standards/WikiData/WD~Un_Chien_Andalou,190575]]'
+- '[[_Standards/WikiData/WD~The_Discreet_Charm_of_the_Bourgeoisie,308920]]'
+- '[[_Standards/WikiData/WD~The_Exterminating_Angel,332427]]'
+- '[[_Standards/WikiData/WD~Nazarín,386522]]'
+- '[[_Standards/WikiData/WD~Belle_de_Jour,470375]]'
+- '[[_Standards/WikiData/WD~Los_Olvidados,572522]]'
+- '[[_Standards/WikiData/WD~Viridiana,852841]]'
+- '[[_Standards/WikiData/WD~L_Age_d_Or,946849]]'
+- '[[_Standards/WikiData/WD~Land_Without_Bread,2606896]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
-  - '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
-  - '[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
-  - '[[_Standards/WikiData/WD~Golden_Ariel,4193281]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Zaragoza,29062669]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
+- '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+- '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
+- '[[_Standards/WikiData/WD~Grand_Jury_Prize_of_the_Venice_Film_Festival,944480]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
+- '[[_Standards/WikiData/WD~Golden_Ariel,4193281]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Zaragoza,29062669]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Complutense_University_of_Madrid,219694]]'
-  - '[[_Standards/WikiData/WD~College_of_the_Savior,_Zaragoza,8347697]]'
+- '[[_Standards/WikiData/WD~Complutense_University_of_Madrid,219694]]'
+- '[[_Standards/WikiData/WD~College_of_the_Savior,_Zaragoza,8347697]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 place_of_birth: '[[_Standards/WikiData/WD~Calanda,737161]]'
 child: '[[_Standards/WikiData/WD~Juan_Luis_Buñuel,1710546]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 given_name: '[[_Standards/WikiData/WD~Luis,2598693]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Concha_Méndez,2890334]]'
 student_of: '[[_Standards/WikiData/WD~Longinos_Navás,3571428]]'
@@ -77,8 +106,8 @@ place_of_death: '[[_Standards/WikiData/WD~Mexico_City,1489]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
 number_of_children: 2
 Commons_category: Luis Buñuel
 Europeana_entity: agent/base/54029
@@ -94,8 +123,93 @@ date_of_death: 1983-07-29T00:00:00Z
 name_in_native_language: Luis Buñuel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LuisBu%C3%B1uel1929.jpg
 ISNI: 0000000122812593
+dv_has_:
+  name_:
+    af: Luis Buñuel
+    an: Luis Buñuel
+    ar: لويس بونويل
+    arz: لويس بونويل
+    ast: Luis Buñuel
+    az: Luis Bunyuel
+    bar: Luis Buñuel
+    be: Луіс Буньюэль
+    be-tarask: Люіс Бунюэль
+    bg: Луис Бунюел
+    bn: লুইস বুনিউয়েল
+    bs: Luis Buñuel
+    ca: Luis Buñuel
+    cs: Luis Buñuel
+    cv: Луис Бунӳэл
+    da: Luis Buñuel
+    de: Luis Buñuel
+    ee: Luis Buñuel
+    el: Λουίς Μπουνιουέλ
+    en: Luis Buñuel
+    eo: Luis Buñuel
+    es: Luis Buñuel
+    et: Luis Buñuel
+    eu: Luis Buñuel
+    ext: Luis Buñuel
+    fa: لوئیس بونوئل
+    fi: Luis Buñuel
+    fr: Luis Buñuel
+    ga: Luis Buñuel
+    gl: Luis Buñuel
+    gsw: Luis Buñuel
+    he: לואיס בוניואל
+    hi: लुई बुनुएल
+    hr: Luis Buñuel
+    hu: Luis Buñuel
+    hy: Լուիս Բունյուել
+    id: Luis Buñuel
+    io: Luis Buñuel
+    is: Luis Buñuel
+    it: Luis Buñuel
+    ja: ルイス・ブニュエル
+    ka: ლუის ბუნიუელი
+    kk: Луис Бунюэль
+    ko: 루이스 부뉴엘
+    kw: Luis Buñuel
+    la: Ludovicus Buñuel
+    lb: Luis Buñuel
+    lt: Luis Buñuel
+    lv: Luiss Bunjuels
+    mg: Luis Buñuel
+    mk: Луис Буњел
+    ml: ലൂയി ബുനുവേൽ
+    mul: Luis Buñuel
+    nah: Luis Buñuel
+    nb: Luis Buñuel
+    nl: Luis Buñuel
+    nn: Luis Buñuel
+    oc: Luis Buñuel
+    pap: Luis Buñuel
+    pl: Luis Buñuel
+    pt: Luis Buñuel
+    pt-br: Luis Buñuel
+    qu: Luis Buñuel
+    ro: Luis Buñuel
+    ru: Луис Бунюэль
+    sc: Luis Buñuel
+    scn: Luis Buñuel
+    sco: Luis Buñuel
+    sh: Luis Buñuel
+    sk: Luis Buñuel
+    sl: Luis Buñuel
+    sq: Luis Buñuel
+    sr: Луис Буњуел
+    sv: Luis Buñuel
+    th: ลุยส์ บุญญูเอล
+    tr: Luis Buñuel
+    uk: Луїс Бунюель
+    uz: Byunyuel Luis
+    vi: Luis Buñuel
+    wuu: 路易斯·布努埃尔
+    yue: 路易士·布紐爾
+    zh: 路易斯·布努埃尔
+    zh-hant: 路易斯·布紐爾
+    zh-my: 路易斯·布纽尔
 ---
-
 # [[Buñuel,Luis]] 
 
 #is_/same_as :: [[WD~Luis_Buñuel,51545]] 

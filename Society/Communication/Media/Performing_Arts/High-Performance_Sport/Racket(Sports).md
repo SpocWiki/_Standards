@@ -1,29 +1,139 @@
 ---
 aliases:
-  - Racket
+- Badmintonspaði
+- Erraketa
+- ketsjer
+- La-kiât-tò͘
+- lopar
+- Là-khiet-tô
+- maila
+- Paliked
+- racchetta
+- Rachetta
+- rachetă
+- Racket
+- raicéad
+- rakedo
+- raket
+- raketa
+- Raketi
+- Raketka
+- Raketo
+- raketė
+- rakieta
+- Rakèt
+- raqueta
+- raquete
+- raquette
+- Reket
+- Reket (šport)
+- Schläger
+- Speččon
+- Thogonda (mũro wa mathako)
+- vợt
+- ütő
+- ρακέτα
+- ракетка
+- Գնդաթի
+- מחבט
+- راکت (ابزار ورزشی)
+- طبطابة
+- ラケット
+- 波拍
+- 球拍
+- 라켓
 has_id_wikidata: Q240502
 subclass_of:
-  - "[[_Standards/WikiData/WD~sports_equipment,768186]]"
-  - "[[_Standards/WikiData/WD~bat,12047696]]"
+- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
+- '[[_Standards/WikiData/WD~bat,12047696]]'
 sport:
-  - "[[_Standards/WikiData/WD~racket_sport,2426135]]"
-  - "[[_Standards/WikiData/WD~tennis,847]]"
-  - "[[_Standards/WikiData/WD~badminton,7291]]"
-has_use: "[[_Standards/WikiData/WD~racket_sport,2426135]]"
-instance_of: "[[_Standards/WikiData/WD~sports_terminology,28829877]]"
-GS1_GPC_code: "10001776"
+- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
+- '[[_Standards/WikiData/WD~tennis,847]]'
+- '[[_Standards/WikiData/WD~badminton,7291]]'
+has_use: '[[_Standards/WikiData/WD~racket_sport,2426135]]'
+instance_of: '[[_Standards/WikiData/WD~sports_terminology,28829877]]'
+GS1_GPC_code: 10001776
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Racket%20and%20Balls.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Racquetball-racquet-and-bal.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nanoldsquash2.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tabletennis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Yonex%20Isometric%2030%20VF.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Racket%20and%20Balls.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Racquetball-racquet-and-bal.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nanoldsquash2.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tabletennis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Yonex%20Isometric%2030%20VF.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Olivier%20H.%20%28Culex%29-raquette.wav
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04039381-n
 Commons_category: Racquets
 Commons_gallery: Racquet
+dv_has_:
+  name_:
+    ar: طبطابة
+    ast: raqueta
+    ba: ракетка
+    be-tarask: ракетка
+    br: Paliked
+    ca: raqueta
+    cs: raketa
+    da: ketsjer
+    de: Schläger
+    el: ρακέτα
+    en: racket
+    en-ca: Racket
+    en-gb: racket
+    eo: rakedo
+    es: raqueta
+    et: Reket
+    eu: Erraketa
+    fa: راکت (ابزار ورزشی)
+    fi: maila
+    fr: raquette
+    ga: raicéad
+    gl: Raqueta
+    hak: Là-khiet-tô
+    he: מחבט
+    hr: Reket (šport)
+    hu: ütő
+    hy: Գնդաթի
+    hyw: Գնդաթի
+    id: raket
+    io: Raketo
+    is: Badmintonspaði
+    it: racchetta
+    ja: ラケット
+    jv: Rakèt
+    ki: Thogonda (mũro wa mathako)
+    ko: 라켓
+    lt: raketė
+    ms: raket
+    nan: La-kiât-tò͘
+    nb: racket
+    nl: racket
+    oc: Raqueta
+    pl: rakieta
+    pt: raquete
+    pt-br: Raquete
+    rm: Rachetta
+    ro: rachetă
+    ru: ракетка
+    se: Speččon
+    sh: Reket
+    sk: raketa
+    sl: lopar
+    sr: Reket
+    sv: racket
+    sw: Raketi
+    tg: Ракетка
+    tg-latn: Raketka
+    tr: raket
+    uk: ракетка
+    vi: vợt
+    yue: 波拍
+    zh: 球拍
+    zh-cn: 球拍
+    zh-hans: 球拍
+    zh-hant: 球拍
+    zh-hk: 球拍
+    zh-sg: 球拍
+    zh-tw: 球拍
 ---
-
 # [[Racket(Sports)]]
 
 #is_/same_as :: [[WD~Racket,240502]] 

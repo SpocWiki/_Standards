@@ -1,23 +1,171 @@
 ---
 aliases:
+- athshondas
+- Cyseiniant
+- Cộng hưởng
+- Erresonantzia
+- resonanca
+- resonance
+- resonancia
+- resonanco
+- resonans
+- resonanse
+- resonanss
+- resonanssi
+- resonantia
+- resonantie
+- resonants
+- Resonanz
+- resonánsa
+- resonánssa
+- ressonància
+- ressonância
+- Rezonanca
+- rezonance
+- rezonancia
+- Rezonancija
+- Rezonans
+- rezonansas
+- rezonanse
+- Rezonanță
+- risonanza
+- résonance
+- salunan
+- Sonoran
+- συντονισμός
+- резонанс
+- Резонанца
+- резонанција
+- рэзананс
+- Ռեզոնանս
+- תהודה
+- تشدید
+- رنين
+- رەزونانس
+- زرنگانەوە
+- अनुनाद
+- অনুনাদ
+- ஒத்திசைவு
+- అనునాదం
+- ಅನುರಣನೆ
+- അനുനാദം
+- การสั่นพ้อง
+- რეზონანსი
+- 共振
+- 共鳴
+- 공명
 has_id_wikidata: Q172858
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-  - "[[_Standards/WikiData/WD~increase,9073584]]"
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~increase,9073584]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Resonance,3933433]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_resonance,28860419]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Resonance,3933433]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_resonance,28860419]]'
 Commons_category: Resonance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HarmOsc5.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Krimen%20perfektua.webm
 IEV_number:
-  - 103-05-07
-  - 801-24-05
+- 103-05-07
+- 801-24-05
+dv_has_:
+  name_:
+    ar: رنين
+    az: Rezonans
+    ba: Резонанс
+    be: рэзананс
+    be-tarask: рэзананс
+    bg: Резонанс
+    bn: অনুনাদ
+    bs: Rezonanca
+    ca: ressonància
+    ckb: زرنگانەوە
+    cs: rezonance
+    cv: Резонанс
+    cy: Cyseiniant
+    da: resonans
+    de: Resonanz
+    el: συντονισμός
+    en: resonance
+    en-ca: Resonance
+    en-gb: Resonance
+    eo: resonanco
+    es: resonancia
+    et: resonants
+    eu: Erresonantzia
+    fa: تشدید
+    fi: resonanssi
+    fr: résonance
+    ga: athshondas
+    gl: Resonancia
+    he: תהודה
+    hi: अनुनाद
+    hr: Rezonancija
+    ht: Rezonans
+    hu: rezonancia
+    hy: Ռեզոնանս
+    id: Sonoran
+    it: risonanza
+    ja: 共鳴
+    ka: რეზონანსი
+    kk: Резонанс
+    kk-arab: رەزونانس
+    kk-cn: رەزونانس
+    kk-cyrl: Резонанс
+    kk-kz: Резонанс
+    kk-latn: Rezonans
+    kk-tr: Rezonans
+    kn: ಅನುರಣನೆ
+    ko: 공명
+    ky: Резонанс
+    la: resonantia
+    lt: rezonansas
+    lv: rezonanse
+    mk: Резонанца
+    ml: അനുനാദം
+    ms: salunan
+    myv: Резонанс
+    nb: resonans
+    nl: resonantie
+    nn: resonans
+    pl: rezonans
+    pt: ressonância
+    pt-br: Ressonância
+    ro: Rezonanță
+    ru: резонанс
+    se: resonánsa
+    sh: Rezonancija
+    sl: resonanca
+    sma: resonanse
+    smj: resonánssa
+    smn: resonans
+    sms: resonanss
+    sq: Rezonanca
+    sr: резонанција
+    sr-ec: Резонанција
+    sr-el: Rezonancija
+    sv: resonans
+    ta: ஒத்திசைவு
+    te: అనునాదం
+    tg: Резонанс
+    th: การสั่นพ้อง
+    tr: Rezonans
+    tt: резонанс
+    uk: резонанс
+    ur: resonance
+    vi: Cộng hưởng
+    wuu: 共振
+    yue: 共振
+    zh: 共振
+    zh-cn: 共振
+    zh-hans: 共振
+    zh-hant: 共振
+    zh-hk: 共振
+    zh-sg: 共振
+    zh-tw: 共振
 ---
-
 # [[Resonance]] 
 
 #is_/same_as :: [[WD~Resonance,172858]] 

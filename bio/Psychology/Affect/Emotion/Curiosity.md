@@ -1,23 +1,158 @@
 ---
 aliases:
+- ciekawość
+- curiosidad
+- curiosidade
+- curiositas
+- curiositat
+- curiosity
+- curiosità
+- curiosité
+- curiozitate
+- curiusità
+- forvitni
+- jakinmin
+- keingintahuan
+- Kuaaserei
+- kureshtja
+- kíváncsiság
+- maraq
+- merak
+- Neugier
+- nieuwsgierigheid
+- nuuskierigheid
+- nyfikenhet
+- nysgerrighed
+- nysgjerrighet
+- qiziqish
+- radovednost
+- scivolemo (apartigilo)
+- smalsumas
+- tò mò
+- udadisi
+- uteliaisuus
+- uudishimu
+- xogogalka
+- znatiželja
+- zvídavost
+- περιέργεια
+- допитливість
+- кунҷковӣ
+- любопитство
+- любопытство
+- радозналост
+- цікавасьць
+- ҡыҙыҡһыныу
+- Հետաքրքրասիրություն
+- סקרנות
+- الفضول
+- تجسس
+- جگیاسا
+- وامۊجایي
+- کنجکاوي
+- کنجکاوی
+- जिज्ञासा
+- কৌতূহল
+- ਜਗਿਆਸਾ
+- அறிவார்வம்
+- ಕುತೂಹಲ
+- ജിജ്ഞാസ
+- ความอยากรู้อยากเห็น
+- ပြင်းပြသောသိလိုစိတ်
+- 好奇
+- 好奇心
+- 호기심
 has_id_wikidata: Q366791
 has_effect:
-  - "[[_Standards/WikiData/WD~learning,133500]]"
-  - "[[_Standards/WikiData/WD~exploration,6502154]]"
-  - "[[_Standards/WikiData/WD~inquiry,21004260]]"
+- '[[_Standards/WikiData/WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~exploration,6502154]]'
+- '[[_Standards/WikiData/WD~inquiry,21004260]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~interest,616314]]"
-  - "[[_Standards/WikiData/WD~desire,775842]]"
-  - "[[_Standards/WikiData/WD~personality_trait,2393196]]"
-instance_of: "[[_Standards/WikiData/WD~desire,775842]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-facet_of: "[[_Standards/WikiData/WD~psychology,9418]]"
-Dewey_Decimal_Classification: "155.413"
+- '[[_Standards/WikiData/WD~interest,616314]]'
+- '[[_Standards/WikiData/WD~desire,775842]]'
+- '[[_Standards/WikiData/WD~personality_trait,2393196]]'
+instance_of: '[[_Standards/WikiData/WD~desire,775842]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+Dewey_Decimal_Classification: 155.413
 Commons_category: Curiosity
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%20Europe%20ppmsca19005u.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%20Europe%20ppmsca19005u.jpg
+dv_has_:
+  name_:
+    af: nuuskierigheid
+    ar: الفضول
+    az: maraq
+    ba: ҡыҙыҡһыныу
+    be-tarask: цікавасьць
+    bg: любопитство
+    bn: কৌতূহল
+    ca: curiositat
+    cs: zvídavost
+    da: nysgerrighed
+    de: Neugier
+    de-ch: Neugier
+    el: περιέργεια
+    en: curiosity
+    en-ca: curiosity
+    en-gb: curiosity
+    eo: scivolemo (apartigilo)
+    es: curiosidad
+    et: uudishimu
+    eu: jakinmin
+    fa: کنجکاوی
+    fi: uteliaisuus
+    fr: curiosité
+    gl: curiosidade
+    glk: وامۊجایي
+    gn: Kuaaserei
+    he: סקרנות
+    hi: जिज्ञासा
+    hr: znatiželja
+    hu: kíváncsiság
+    hy: Հետաքրքրասիրություն
+    id: keingintahuan
+    is: forvitni
+    it: curiosità
+    ja: 好奇心
+    kk: curiosity
+    kn: ಕುತೂಹಲ
+    ko: 호기심
+    la: curiositas
+    lt: smalsumas
+    ml: ജിജ്ഞാസ
+    my: ပြင်းပြသောသိလိုစိတ်
+    nb: nysgjerrighet
+    ne: जिज्ञासा
+    nl: nieuwsgierigheid
+    pa: ਜਗਿਆਸਾ
+    pl: ciekawość
+    pnb: جگیاسا
+    ps: کنجکاوي
+    pt: curiosidade
+    pt-br: curiosidade
+    ro: curiozitate
+    ru: любопытство
+    scn: curiusità
+    sl: radovednost
+    so: xogogalka
+    sq: kureshtja
+    sr: радозналост
+    sv: nyfikenhet
+    sw: udadisi
+    ta: அறிவார்வம்
+    tg: кунҷковӣ
+    th: ความอยากรู้อยากเห็น
+    tr: merak
+    uk: допитливість
+    ur: تجسس
+    uz: qiziqish
+    vi: tò mò
+    yue: 好奇
+    zh: 好奇心
+    zh-cn: 好奇心
+    zh-tw: 好奇心
 ---
-
 # [[Curiosity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Curiosity,366791|WD~Curiosity,366791]] 

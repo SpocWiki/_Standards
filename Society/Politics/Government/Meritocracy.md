@@ -1,20 +1,171 @@
 ---
 aliases:
+- Chế độ nhân tài
+- meritocracia
+- meritocracy
+- meritocrasia
+- meritocratia
+- Meritocratiaeth
+- meritocratie
+- meritocrazia
+- meritocrație
+- meritocràcia
+- meritokraatia
+- meritokracia
+- meritokracie
+- meritokracija
+- meritokrasi
+- meritokrasya
+- meritokrati
+- meritokratia
+- Meritokratie
+- meritokratiija
+- Meritokratija
+- meritokratije
+- meritokratio
+- Meritokratiya
+- meritokrazia
+- meritokrácia
+- meritokrātija
+- meritucrazia
+- merytokracja
+- Merïtokratïya
+- méritocratie
+- panglaksanayang saking kaprigelan
+- verðleikaræði
+- αξιοκρατία
+- Меритократія
+- меритократија
+- Меритократия
+- Меритокрация
+- мэрытакратыя
+- Шоистасолорӣ
+- Մերիտոկրատիա
+- מריטוקרטיה
+- استحقاقراطية
+- شایستهسالاری
+- مێریتۆکراسی
+- مەرىيتوكراتىييا
+- ښایسته سالاري
+- प्रतिभा
+- মেধাতন্ত্র
+- ਯੋਗਤਾਰਾਜ
+- தகுதி அடிப்படை
+- คุณธรรมนิยม
+- မဲရစ်တိုကရေစီ
+- მერიტოკრატია
+- メリトクラシー
+- 唯才主義
+- 精英政治
+- 菁英政治
+- 능력주의
 has_id_wikidata: Q178079
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_state,183039]]"
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-  - "[[_Standards/WikiData/WD~social_system,1639378]]"
-  - "[[_Standards/WikiData/WD~political_theory,9357091]]"
-named_after: "[[_Standards/WikiData/WD~merit,1361649]]"
-different_from: "[[_Standards/WikiData/WD~achieving_society,1815949]]"
-opposite_of: "[[_Standards/WikiData/WD~cronyism,10964327]]"
-described_by_source: "[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]"
+- '[[_Standards/WikiData/WD~form_of_state,183039]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~political_theory,9357091]]'
+named_after: '[[_Standards/WikiData/WD~merit,1361649]]'
+different_from: '[[_Standards/WikiData/WD~achieving_society,1815949]]'
+opposite_of: '[[_Standards/WikiData/WD~cronyism,10964327]]'
+described_by_source: '[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,122958404]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Konfuzius-1770.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Meritocracy%20symbol.jpg
 Commons_category: Meritocracy
+dv_has_:
+  name_:
+    ar: استحقاقراطية
+    ast: Meritocracia
+    az: Meritokratiya
+    ban: panglaksanayang saking kaprigelan
+    be-tarask: мэрытакратыя
+    bg: Меритокрация
+    bn: মেধাতন্ত্র
+    ca: meritocràcia
+    ckb: مێریتۆکراسی
+    co: meritucrazia
+    cs: meritokracie
+    cy: Meritocratiaeth
+    da: meritokrati
+    de: Meritokratie
+    el: αξιοκρατία
+    en: meritocracy
+    eo: meritokratio
+    es: meritocracia
+    et: meritokraatia
+    eu: meritokrazia
+    fa: شایستهسالاری
+    fi: meritokratia
+    fr: méritocratie
+    gl: meritocracia
+    he: מריטוקרטיה
+    hi: प्रतिभा
+    hr: meritokracija
+    hu: meritokrácia
+    hy: Մերիտոկրատիա
+    id: meritokrasi
+    is: verðleikaræði
+    it: meritocrazia
+    ja: メリトクラシー
+    ka: მერიტოკრატია
+    kk: Меритократия
+    kk-arab: مەرىيتوكراتىييا
+    kk-cn: مەرىيتوكراتىييا
+    kk-cyrl: Меритократия
+    kk-kz: Меритократия
+    kk-latn: Merïtokratïya
+    kk-tr: Merïtokratïya
+    ko: 능력주의
+    ky: Меритократия
+    la: meritocratia
+    lt: Meritokratija
+    lv: meritokrātija
+    min: Meritokrasi
+    mk: меритократија
+    ms: meritokrasi
+    my: မဲရစ်တိုကရေစီ
+    nb: meritokrati
+    nl: meritocratie
+    pa: ਯੋਗਤਾਰਾਜ
+    pl: merytokracja
+    ps: ښایسته سالاري
+    pt: meritocracia
+    ro: meritocrație
+    ru: Меритократия
+    sco: meritocracy
+    se: meritokratiija
+    sh: meritokracija
+    sk: meritokracia
+    sl: meritokracija
+    sma: meritokratije
+    smj: meritokratija
+    smn: meritokratia
+    sms: meritokratia
+    sq: Meritokracia
+    sr: меритократија
+    sr-ec: Меритократија
+    sr-el: Meritokratija
+    sv: meritokrati
+    ta: தகுதி அடிப்படை
+    tg: Шоистасолорӣ
+    th: คุณธรรมนิยม
+    tr: meritokrasi
+    tt: Меритократия
+    uk: Меритократія
+    uz: Meritokratiya
+    vec: meritocrasia
+    vi: Chế độ nhân tài
+    war: meritokrasya
+    xmf: მერიტოკრატია
+    yue: 唯才主義
+    zh: 精英政治
+    zh-cn: 精英政治
+    zh-hans: 精英政治
+    zh-hant: 精英政治
+    zh-hk: 精英政治
+    zh-sg: 精英政治
+    zh-tw: 菁英政治
 ---
-
 # [[Meritocracy]] 
 
 #is_/similar_to :: [[Technocracy|Technocracy]]  

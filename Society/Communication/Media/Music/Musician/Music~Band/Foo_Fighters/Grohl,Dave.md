@@ -1,8 +1,109 @@
 ---
 aliases:
-  - Dave Grohl
-  - Grohl,Dave
+- Dave Grohl
+- David Grohl
+- Deivs Grols
+- Grohl,Dave
+- Ντέιβ Γκρολ
+- Дејв Грол
+- Дейв Грол
+- Дэйв Грол
+- Դեյվ Գրոլ
+- דייב גרוהל
+- ديف جرول
+- ديف غرول
+- دیو قرول
+- دیو گرول
+- डेभ ग्रोहल
+- เดฟ โกรล
+- დეივ გროლი
+- デイヴ・グロール
+- 戴夫·格罗尔
+- 戴夫·格羅爾
+- 데이브 그롤
+- "\U00010333\U00010334\U00010331 \U00010332\U00010342\U00010349\U0001033B"
 has_id_wikidata: Q12006
+dv_has_:
+  name_:
+    an: Dave Grohl
+    ar: ديف غرول
+    arz: ديف جرول
+    ast: Dave Grohl
+    azb: دیو قرول
+    be: Дэйв Грол
+    bg: Дейв Грол
+    bs: Dave Grohl
+    ca: Dave Grohl
+    co: Dave Grohl
+    cs: Dave Grohl
+    cy: Dave Grohl
+    da: Dave Grohl
+    dag: Dave Grohl
+    de: Dave Grohl
+    el: Ντέιβ Γκρολ
+    en: Dave Grohl
+    en-ca: Dave Grohl
+    en-gb: Dave Grohl
+    eo: Dave Grohl
+    es: Dave Grohl
+    et: Dave Grohl
+    eu: Dave Grohl
+    ext: Dave Grohl
+    fa: دیو گرول
+    fi: Dave Grohl
+    fo: Dave Grohl
+    fr: Dave Grohl
+    fy: Dave Grohl
+    ga: Dave Grohl
+    gl: Dave Grohl
+    got: "\U00010333\U00010334\U00010331 \U00010332\U00010342\U00010349\U0001033B"
+    he: דייב גרוהל
+    hr: Dave Grohl
+    hu: Dave Grohl
+    hy: Դեյվ Գրոլ
+    id: Dave Grohl
+    is: Dave Grohl
+    it: Dave Grohl
+    ja: デイヴ・グロール
+    ka: დეივ გროლი
+    ko: 데이브 그롤
+    la: David Grohl
+    lt: Dave Grohl
+    lv: Deivs Grols
+    mai: डेभ ग्रोहल
+    mg: Dave Grohl
+    mn: Дэйв Грол
+    mul: Dave Grohl
+    nb: Dave Grohl
+    ne: डेभ ग्रोहल
+    nl: Dave Grohl
+    nn: Dave Grohl
+    oc: Dave Grohl
+    pap: Dave Grohl
+    pl: Dave Grohl
+    pms: Dave Grohl
+    pt: Dave Grohl
+    pt-br: Dave Grohl
+    ro: Dave Grohl
+    ru: Дэйв Грол
+    sco: Dave Grohl
+    sh: Dave Grohl
+    sk: Dave Grohl
+    sl: Dave Grohl
+    sq: Dave Grohl
+    sr: Дејв Грол
+    sv: Dave Grohl
+    th: เดฟ โกรล
+    tr: Dave Grohl
+    uk: Дейв Грол
+    uz: Dave Grohl
+    vi: Dave Grohl
+    wuu: 戴夫·格罗尔
+    xmf: დეივ გროლი
+    zh: 戴夫·格羅爾
+    zh-cn: 戴夫·格羅爾
+    zh-hans: 戴夫·格羅爾
+    zh-hant: 戴夫·格羅爾
 ---
 ## #has_/text_of_/abstract 
 

@@ -1,10 +1,116 @@
 ---
 aliases:
-  - Kontrapunkt
-  - Counterpoint
+- contraponto
+- contrappunto
+- contrapunct
+- contrapuncto
+- contrapunt
+- contrapunto
+- contrapuntu
+- contrepoint
+- Counterpoint
+- cuintripont
+- cuntraphointe
+- ellenpont
+- gwrthbwynt
+- kontrapung
+- Kontrapunkt
+- kontrapunkti
+- kontrapunkto
+- kontrapunktur
+- Kontrapunt
+- kontrapunto
+- kontrapuntu
+- kontrpuan
+- đối âm
+- αντίστιξη
+- кантрапункт
+- контрапункт
+- сontrapunctus
+- Կոնտրապունկտ
+- קונטרפונקט
+- طباق
+- کاونتەرپۆینت
+- کنترپوان
+- ทำนองสัมพันธ์
+- 对位法
+- 対位法
+- 對位法
+- 대위법
 has_id_wikidata: Q186393
+dv_has_:
+  name_:
+    af: Kontrapunt
+    ar: طباق
+    ast: contrapuntu
+    be: кантрапункт
+    be-tarask: кантрапункт
+    bg: контрапункт
+    ca: contrapunt
+    ckb: کاونتەرپۆینت
+    cs: kontrapunkt
+    cy: gwrthbwynt
+    da: kontrapunkt
+    de: Kontrapunkt
+    el: αντίστιξη
+    en: counterpoint
+    eo: kontrapunkto
+    es: contrapunto
+    et: kontrapunkt
+    eu: kontrapuntu
+    fa: کنترپوان
+    fi: kontrapunkti
+    fr: contrepoint
+    fur: cuintripont
+    ga: cuntraphointe
+    gl: contrapunto
+    gsw: Kontrapunkt
+    he: קונטרפונקט
+    hr: Kontrapunkt
+    hu: ellenpont
+    hy: Կոնտրապունկտ
+    ia: contrapuncto
+    id: kontrapung
+    io: kontrapunto
+    is: kontrapunktur
+    it: contrappunto
+    ja: 対位法
+    kk: контрапункт
+    ko: 대위법
+    ky: Контрапункт
+    la: сontrapunctus
+    lfn: contrapunto
+    mk: Контрапункт
+    ms: kontrapung
+    nb: kontrapunkt
+    nl: contrapunt
+    nn: kontrapunkt
+    oc: contrapunt
+    pl: kontrapunkt
+    pt: contraponto
+    ro: contrapunct
+    ru: контрапункт
+    sk: kontrapunkt
+    sl: kontrapunkt
+    sr: контрапункт
+    sr-ec: контрапункт
+    sr-el: kontrapunkt
+    sv: kontrapunkt
+    th: ทำนองสัมพันธ์
+    tr: kontrpuan
+    uk: контрапункт
+    uz: kontrapunkt
+    vi: đối âm
+    wuu: 对位法
+    yue: 對位法
+    zh: 对位法
+    zh-cn: 对位法
+    zh-hans: 对位法
+    zh-hant: 對位法
+    zh-hk: 對位法
+    zh-sg: 对位法
+    zh-tw: 對位法
 ---
-
 # [[Counterpoint]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Counterpoint,186393|WD~Counterpoint,186393]]

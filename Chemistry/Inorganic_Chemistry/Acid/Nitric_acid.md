@@ -1,68 +1,142 @@
 ---
 aliases:
-  - Nitric acid
-  - Nitric_acid
+- Acid azotic
+- Acid nitric
+- acide nitrique
+- Acidi Nitrik
+- Acido nitric
+- acido nitrico
+- Acidum nitricum
+- aigéad nítreach
+- Aksido Nitrico
+- Asam nitrat
+- asid nitrig
+- Asid nitrik
+- axit nitric
+- Azido nitriko
+- Azot-acido
+- Azotna kiselina
+- Azoto rūgštis
+- dušikova kislina
+- Dušična kiselina
+- HNO₃
+- kwas azotowy
+- kyselina dusičná
+- Lämmastikhape
+- Nitrat kislota
+- Nitrat turşusu
+- nitrata acido
+- Nitric acid
+- Nitric_acid
+- Nitrik asit
+- Salpetersuur
+- salpetersyra
+- salpetersyre
+- Salpetersäure
+- Salpetersüren
+- salpeterzuur
+- Saltpéturssýra
+- salétromsav
+- Siau-sng
+- Siĕu-sŏng
+- slāpekļskābe
+- Trenkenn nitrek
+- typpihappo
+- àcid nítric
+- ácido nítrico
+- Ácidu nítrico
+- νιτρικό οξύ
+- Азот йӳçекĕ
+- Азот кислотасы
+- Азот Қышқылы
+- азотавая кісьля
+- азотна киселина
+- Азотная кіслата
+- азотная кислота
+- Азотын хүчил
+- Нітратна кислота
+- ազոտական թթու
+- חומצה חנקתית
+- حمض النتريك
+- شوري جو تيزاب
+- مالګې تېزاب(نايټريک اسيد)
+- نائٹرک ایسڈ
+- نیتریک اسید
+- नाइट्रिक अम्ल
+- নাইট্রিক অ্যাসিড
+- ਸ਼ੋਰੇ ਦਾ ਤਿਜ਼ਾਬ
+- நைட்ரிக் காடி
+- నైట్రిక్ ఆమ్లం
+- ನೈಟ್ರಿಕ್ ಆಮ್ಲ
+- നൈട്രിക് അമ്ലം
+- නයිට්රික් අම්ලය
+- กรดไนตริก
+- ອາຊິດໄນທຣິກ
+- နိုက်ထရစ်အက်ဆစ်
+- აზოტმჟავა
+- 硝酸
+- 질산
 has_id_wikidata: Q83320
 UMLS_CUI: C0068808
 MeSH_tree_code:
-  - D01.029.260.550
-  - D01.625.525
+- D01.029.260.550
+- D01.625.525
 DSSTOX_compound_identifier: DTXCID509685
 Commons_category: Nitric acid
 RTECS_number: QU5775000
 mass: 62.995643
-conjugate_base: "[[_Standards/WikiData/WD~nitrate_ion,182168]]"
+conjugate_base: '[[_Standards/WikiData/WD~nitrate_ion,182168]]'
 has_use:
-  - "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
-  - "[[_Standards/WikiData/WD~nitration,909607]]"
+- '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
+- '[[_Standards/WikiData/WD~nitration,909607]]'
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Petiveria_alliacea,311518]]"
-  - "[[_Standards/WikiData/WD~Aristolochia_arcuata,9764518]]"
-  - "[[_Standards/WikiData/WD~Bombax_ceiba,13399160]]"
-  - "[[_Standards/WikiData/WD~Tetradium_glabrifolium,15394126]]"
-  - "[[_Standards/WikiData/WD~Bombax_malabaricum,50829151]]"
-  - "[[_Standards/WikiData/WD~peanut,37383]]"
+- '[[_Standards/WikiData/WD~Petiveria_alliacea,311518]]'
+- '[[_Standards/WikiData/WD~Aristolochia_arcuata,9764518]]'
+- '[[_Standards/WikiData/WD~Bombax_ceiba,13399160]]'
+- '[[_Standards/WikiData/WD~Tetradium_glabrifolium,15394126]]'
+- '[[_Standards/WikiData/WD~Bombax_malabaricum,50829151]]'
+- '[[_Standards/WikiData/WD~peanut,37383]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mineral_acid,408683]]"
-  - "[[_Standards/WikiData/WD~monoprotic_acid,4272322]]"
-  - "[[_Standards/WikiData/WD~nitrogen_oxoacid,113547431]]"
-fabrication_method: "[[_Standards/WikiData/WD~Ostwald_process,591214]]"
+- '[[_Standards/WikiData/WD~mineral_acid,408683]]'
+- '[[_Standards/WikiData/WD~monoprotic_acid,4272322]]'
+- '[[_Standards/WikiData/WD~nitrogen_oxoacid,113547431]]'
+fabrication_method: '[[_Standards/WikiData/WD~Ostwald_process,591214]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~strong_acid,5611096]]"
-  - "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
-associated_hazard: "[[_Standards/WikiData/WD~nitric_acid_exposure,21174994]]"
+- '[[_Standards/WikiData/WD~strong_acid,5611096]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+associated_hazard: '[[_Standards/WikiData/WD~nitric_acid_exposure,21174994]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~nitric_acid_exposure,21174994]]"
-  - "[[_Standards/WikiData/WD~acid_rain,40178]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+- '[[_Standards/WikiData/WD~nitric_acid_exposure,21174994]]'
+- '[[_Standards/WikiData/WD~acid_rain,40178]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -174.1
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 melting_point:
-  - -41.6
-  - -44
+- -41.6
+- -44
 pKa: -1.64
 short_term_exposure_limit: 10
 time_weighted_average_exposure_limit: 5
 density: 1.5
 vapor_pressure: 48
 boiling_point:
-  - 83
-  - 181
+- 83
+- 181
 electric_dipole_moment: 2.17
 molar_enthalpy_of_vaporization: 39.1
 immediately_dangerous_to_life_or_health: 64.5
@@ -82,34 +156,131 @@ Reaxys_registry_number: 3587310
 chemical_formula: HNO₃
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Acido%20nitrico%20fumante.jpg
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Nitric-acid.png
-canonical_SMILES: "[N+](=O)(O)[O-]"
+canonical_SMILES: '[N+](=O)(O)[O-]'
 EC_number: 231-714-2
 MCN_code: 2808.00.10
 Dewey_Decimal_Classification:
-  - 546.71222
-  - 661.24
+- 546.71222
+- 661.24
 CAS_Registry_Number: 7697-37-2
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid|Nitric_acid]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public|Nitric_acid.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal|Nitric_acid.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect|Nitric_acid.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private|Nitric_acid.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal|Nitric_acid.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret|Nitric_acid.secret]]"
+  - '[[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid|Nitric_acid]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public|Nitric_acid.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal|Nitric_acid.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect|Nitric_acid.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private|Nitric_acid.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal|Nitric_acid.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret|Nitric_acid.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid|Nitric_acid]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public|Nitric_acid.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal|Nitric_acid.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect|Nitric_acid.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private|Nitric_acid.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal|Nitric_acid.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret|Nitric_acid.secret]]"
+- '[[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid|Nitric_acid]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public|Nitric_acid.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal|Nitric_acid.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect|Nitric_acid.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private|Nitric_acid.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal|Nitric_acid.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret|Nitric_acid.secret]]'
+dv_has_:
+  name_:
+    af: Salpetersuur
+    ar: حمض النتريك
+    ast: Ácidu nítrico
+    az: Nitrat turşusu
+    azb: نیتریک اسید
+    be: Азотная кіслата
+    be-tarask: азотавая кісьля
+    bg: азотна киселина
+    bn: নাইট্রিক অ্যাসিড
+    br: Trenkenn nitrek
+    bs: Dušična kiselina
+    ca: àcid nítric
+    cdo: Siĕu-sŏng
+    cs: kyselina dusičná
+    cv: Азот йӳçекĕ
+    cy: asid nitrig
+    da: salpetersyre
+    de: Salpetersäure
+    el: νιτρικό οξύ
+    en: nitric acid
+    en-ca: Nitric acid
+    en-gb: nitric acid
+    eo: nitrata acido
+    es: ácido nítrico
+    et: Lämmastikhape
+    eu: Azido nitriko
+    fa: نیتریک اسید
+    fi: typpihappo
+    fr: acide nitrique
+    frr: Salpetersüren
+    ga: aigéad nítreach
+    gl: ácido nítrico
+    he: חומצה חנקתית
+    hi: नाइट्रिक अम्ल
+    hr: dušična kiselina
+    hu: salétromsav
+    hy: ազոտական թթու
+    ia: Acido nitric
+    id: Asam nitrat
+    io: Azot-acido
+    is: Saltpéturssýra
+    it: acido nitrico
+    ja: 硝酸
+    jv: Asam nitrat
+    ka: აზოტმჟავა
+    kk: Азот Қышқылы
+    kn: ನೈಟ್ರಿಕ್ ಆಮ್ಲ
+    ko: 질산
+    ky: Азот кислотасы
+    la: Acidum nitricum
+    lo: ອາຊິດໄນທຣິກ
+    lt: Azoto rūgštis
+    lv: slāpekļskābe
+    lzh: 硝酸
+    mk: азотна киселина
+    ml: നൈട്രിക് അമ്ലം
+    mn: Азотын хүчил
+    ms: Asid nitrik
+    mul: HNO₃
+    my: နိုက်ထရစ်အက်ဆစ်
+    nan: Siau-sng
+    nb: Salpetersyre
+    nl: salpeterzuur
+    nn: salpetersyre
+    oc: Acid nitric
+    pa: ਸ਼ੋਰੇ ਦਾ ਤਿਜ਼ਾਬ
+    pl: kwas azotowy
+    pnb: نائٹرک ایسڈ
+    ps: مالګې تېزاب(نايټريک اسيد)
+    pt: ácido nítrico
+    pt-br: Ácido nítrico
+    ro: Acid azotic
+    ru: азотная кислота
+    sco: nitric acid
+    sd: شوري جو تيزاب
+    sh: Azotna kiselina
+    si: නයිට්රික් අම්ලය
+    sk: kyselina dusičná
+    sl: dušikova kislina
+    sq: Acidi Nitrik
+    sr: азотна киселина
+    sv: salpetersyra
+    ta: நைட்ரிக் காடி
+    te: నైట్రిక్ ఆమ్లం
+    th: กรดไนตริก
+    tr: Nitrik asit
+    uk: Нітратна кислота
+    ur: نائٹرک ایسڈ
+    uz: Nitrat kislota
+    vi: axit nitric
+    war: Aksido Nitrico
+    wuu: 硝酸
+    yue: 硝酸
+    zh: 硝酸
+    zh-hant: 硝酸
+    zh-tw: 硝酸
 ---
-
 # [[Nitric_acid]]
 
 #is_/same_as :: [[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]

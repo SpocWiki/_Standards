@@ -1,8 +1,48 @@
 ---
 aliases:
-  - mint order
-  - Lamiales
-  - 唇形目
+- ajakosvirágúak
+- Bộ Hoa môi
+- Dalamazçiçəklilər
+- hluchavkotvaré
+- Iminõgeselaadsed
+- jasnotowce
+- Koma gezika derewîn
+- Lamiales
+- Lamialoj
+- Lamials
+- leppeblomordenen
+- Leppeblomstordenen
+- Lippenblütlerartige
+- Læbeblomst-ordenen
+- medićolike
+- mint order
+- Notreliečiai
+- panātru rinda
+- Plisterordningen
+- Timessferranin
+- ustnatičevci
+- Varablómabálkur
+- Λαμιώδη
+- губоцвіті
+- Ерінгүлділер
+- усноцветовидни
+- устноцветни
+- ясноткакветныя
+- ясноткоцветные
+- խուլեղինջածաղկավորներ
+- צינוראים
+- شفويات
+- نعنا ډوله بوټي
+- نعناسانان
+- লেমিয়ালেস
+- புதினா வரிசை
+- లామియేలిస్
+- ലാമിയേൽസ്
+- อันดับกะเพรา
+- シソ目
+- 唇形目
+- 脣形目
+- 꿀풀목
 has_id_wikidata: Q21742
 title: Lamiales
 parent_taxon: '[[_Standards/WikiData/WD~lamiids,2182368]]'
@@ -11,8 +51,8 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 31632
 OmegaWiki_Defined_Meaning: 358548
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lamium%20album4%20ies.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070906-9094%20Sutera%20cordata.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lamium%20album4%20ies.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070906-9094%20Sutera%20cordata.jpg
 taxon_common_name: 唇形目
 Commons_category: Lamiales
 taxon_name: Lamiales
@@ -20,8 +60,128 @@ EPPO_Code: 1LAMO
 MeSH_tree_code: B01.875.800.575.912.250.583
 UMLS_CUI: C1080876
 NBN_System_Key: NHMSYS0021060389
+dv_has_:
+  name_:
+    af: Lamiales
+    an: Lamiales
+    ar: شفويات
+    arz: شفويات
+    ast: Lamiales
+    az: Dalamazçiçəklilər
+    bar: Lamiales
+    bcl: Lamiales
+    be: ясноткакветныя
+    be-tarask: Ясноткакветныя
+    bg: устноцветни
+    bn: লেমিয়ালেস
+    br: Lamiales
+    bs: Lamiales
+    ca: Lamials
+    ceb: Lamiales
+    co: Lamiales
+    cs: hluchavkotvaré
+    cy: Lamiales
+    da: Læbeblomst-ordenen
+    de: Lippenblütlerartige
+    de-ch: Lamiales
+    el: Λαμιώδη
+    en: Lamiales
+    en-ca: Lamiales
+    en-gb: Lamiales
+    eo: Lamialoj
+    es: Lamiales
+    et: Iminõgeselaadsed
+    eu: Lamiales
+    ext: Lamiales
+    fa: نعناسانان
+    fi: Lamiales
+    fr: Lamiales
+    frp: Lamiales
+    frr: Lamiales
+    fur: Lamiales
+    ga: Lamiales
+    gd: Lamiales
+    gl: Lamiales
+    gsw: Lippenblütlerartige
+    he: צינוראים
+    hr: medićolike
+    hu: ajakosvirágúak
+    hy: խուլեղինջածաղկավորներ
+    ia: Lamiales
+    id: Lamiales
+    ie: Lamiales
+    io: Lamiales
+    is: Varablómabálkur
+    it: Lamiales
+    ja: シソ目
+    jv: Lamiales
+    kab: Timessferranin
+    kg: Lamiales
+    kk: Ерінгүлділер
+    ko: 꿀풀목
+    ku: Koma gezika derewîn
+    la: Lamiales
+    lb: Lamiales
+    li: Lamiales
+    lij: Lamiales
+    lt: Notreliečiai
+    lv: panātru rinda
+    mg: Lamiales
+    min: Lamiales
+    mk: усноцветовидни
+    ml: ലാമിയേൽസ്
+    ms: Lamiales
+    mul: Lamiales
+    nap: Lamiales
+    nb: Leppeblomstordenen
+    nds: Lamiales
+    nds-nl: Lamiales
+    nl: Lamiales
+    nn: leppeblomordenen
+    nrm: Lamiales
+    nys: Lamiales
+    oc: Lamiales
+    pcd: Lamiales
+    pl: jasnotowce
+    pms: Lamiales
+    ps: نعنا ډوله بوټي
+    pt: Lamiales
+    pt-br: Lamiales
+    rm: Lamiales
+    ro: Lamiales
+    ru: ясноткоцветные
+    sc: Lamiales
+    scn: Lamiales
+    sco: Lamiales
+    sh: Lamiales
+    sk: hluchavkotvaré
+    sl: ustnatičevci
+    sq: Lamiales
+    sr: Lamiales
+    sv: Plisterordningen
+    sw: Lamiales
+    ta: புதினா வரிசை
+    te: లామియేలిస్
+    th: อันดับกะเพรา
+    tl: Lamiales
+    tr: Lamiales
+    uk: губоцвіті
+    vec: Lamiales
+    vi: Bộ Hoa môi
+    vls: Lamiales
+    vo: Lamiales
+    wa: Lamiales
+    war: Lamiales
+    wo: Lamiales
+    wuu: 唇形目
+    yue: 唇形目
+    zh: 唇形目
+    zh-cn: 唇形目
+    zh-hans: 唇形目
+    zh-hant: 脣形目
+    zh-tw: 脣形目
+    zu: Lamiales
 ---
-
 # [[Lamiales]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Lamiales,21742|WD~Lamiales,21742]] 

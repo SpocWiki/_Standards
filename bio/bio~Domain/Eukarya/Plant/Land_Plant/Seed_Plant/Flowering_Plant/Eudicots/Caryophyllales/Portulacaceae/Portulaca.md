@@ -1,50 +1,80 @@
 ---
 aliases:
+- Chi Rau sam
+- Krokot
+- Kulasiman
+- Pirpîrîn
+- Portlaker
+- Portulaca
+- Portulak
+- Portulaka
+- portulakat
+- Portulako
+- Portłak
+- Pərpərən
+- šrucha
+- πορτουλάκη
+- Партулак
+- портулак
+- Қараот
+- դանդուռ
+- بقلة
+- بقله
+- خرفه
+- پرپیرین
+- پرپینه
+- പത്ത്മണി ചെടി
+- დანდური
+- ვაღურია
+- スベリヒユ属
+- 馬齒莧屬
+- 马齿苋属
+- 쇠비름속
 has_id_wikidata: Q159554
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Portulaca_oleracea,158015]]"
-parent_taxon: "[[../../../../../../../../../../WikiData/WD~Portulacaceae,521874]]"
-described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "20418"
-GS1_GPC_code: "10006092"
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Portulaca_oleracea,158015]]'
+parent_taxon: '[[../../../../../../../../../../WikiData/WD~Portulacaceae,521874]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 20418
+GS1_GPC_code: 10006092
 taxon_common_name:
-  - خرفه
-  - purslane
-  - Portulaka
-  - بقلة
-  - Portulak
-  - Postelein
-  - Pərpərən
-  - Партулак
-  - šrucha
-  - Portulak
-  - Purslane
-  - Portulako
-  - Portulakat
-  - Portłak
-  - դանդուռ
-  - Krokot
-  - Krokot
-  - დანდური
-  - Қараот
-  - Pirpîrîn
-  - پرپیرین
-  - Pirpîrîn
-  - Портулак
-  - Portulaka
-  - Portlaker
-  - Kulasiman
-  - Портулак
-  - Chi Rau sam
-  - 马齿苋属
-  - 马齿苋属
-  - 馬齒莧屬
-  - 馬齒莧屬
+- خرفه
+- purslane
+- Portulaka
+- بقلة
+- Portulak
+- Postelein
+- Pərpərən
+- Партулак
+- šrucha
+- Portulak
+- Purslane
+- Portulako
+- Portulakat
+- Portłak
+- դանդուռ
+- Krokot
+- Krokot
+- დანდური
+- Қараот
+- Pirpîrîn
+- پرپیرین
+- Pirpîrîn
+- Портулак
+- Portulaka
+- Portlaker
+- Kulasiman
+- Портулак
+- Chi Rau sam
+- 马齿苋属
+- 马齿苋属
+- 馬齒莧屬
+- 馬齒莧屬
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/P%20villosa.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Portulaca%20amilis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/P%20villosa.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Portulaca%20amilis.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9784
 EPPO_Code: 1PORG
 MeSH_tree_code: B01.875.800.575.912.250.198.500.984.500
@@ -53,8 +83,80 @@ NBN_System_Key: NHMSYS0000461989
 Commons_gallery: Portulaca
 Commons_category: Portulaca
 taxon_name: Portulaca
+dv_has_:
+  name_:
+    an: Portulaca
+    ar: بقلة
+    arz: بقله
+    ast: Portulaca
+    az: Pərpərən
+    azb: پرپینه
+    be: Партулак
+    bg: Portulaca
+    bs: Portulaca
+    ca: Portulaca
+    ceb: Portulaca
+    cs: šrucha
+    de: Portulak
+    el: πορτουλάκη
+    en: Portulaca
+    eo: Portulako
+    es: Portulaca
+    eu: Portulaca
+    ext: Portulaca
+    fa: خرفه
+    fi: portulakat
+    fr: Portulaca
+    ga: Portulaca
+    gl: Portulaca
+    hr: portulak
+    hsb: Portłak
+    hy: դանդուռ
+    ia: Portulaca
+    id: Krokot
+    ie: Portulaca
+    io: Portulaca
+    is: Portulaca
+    it: Portulaca
+    ja: スベリヒユ属
+    jv: Krokot
+    ka: დანდური
+    kk: Қараот
+    ko: 쇠비름속
+    ku: Pirpîrîn
+    ku-arab: پرپیرین
+    ku-latn: Pirpîrîn
+    la: Portulaca
+    ml: പത്ത്മണി ചെടി
+    mul: Portulaca
+    nl: Portulaca
+    oc: Portulaca
+    pl: Portulaka
+    pt: Portulaca
+    pt-br: Portulaca
+    ro: Portulaca
+    ru: портулак
+    sk: portulaka
+    sq: Portulaca
+    sr: Portulaca
+    sr-ec: Portulaca
+    sr-el: Portulaca
+    sv: Portlaker
+    tl: Kulasiman
+    tr: Portulaca
+    uk: Портулак
+    vi: Chi Rau sam
+    vo: Portulaca
+    war: Portulaca
+    xmf: ვაღურია
+    zh: 马齿苋属
+    zh-cn: 马齿苋属
+    zh-hans: 马齿苋属
+    zh-hant: 馬齒莧屬
+    zh-hk: 馬齒莧屬
+    zh-sg: 马齿苋属
+    zh-tw: 馬齒莧屬
 ---
-
 # [[Portulaca]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Portulaca,159554]] 

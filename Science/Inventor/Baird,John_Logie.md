@@ -1,47 +1,174 @@
 ---
 aliases:
-  - John_Logie_Baird
-  - John Logie Baird
-  - Baird
-  - Baird,John_Logie
-  - Baird,John Logie
+- Baird
+- Baird,John Logie
+- Baird,John_Logie
+- Džon Logi Berd
+- Džons Logijs Bērds
+- John Logie Baird
+- John_Logie_Baird
+- Τζον Λόγκι Μπερντ
+- Џон Логи Берд
+- Джон Берд
+- Джон Лоўгі Бэрд
+- Джон Логі Бэрд
+- Джон Логи Беърд
+- Джон Лоуги Бэрд
+- Ջոն Լոգի Բերդ
+- ג'ון לוגי ביירד
+- جان بیئر
+- جان لوئی بیارڈ
+- جان لوگی برد
+- جون لوجي بيرد
+- جون لويجى بيرد
+- جۆن لۆگی بێرد
+- जॉन लॉगी बेयर्ड
+- जॉन लोगी बेअर्ड
+- जोन लोगी बेर्ड
+- জন লগি বেয়ার্ড
+- જોન લોગી બેયર્ડ
+- ஜான் லோகி பைர்டு
+- జాన్ లోగీ బెయిర్డ్
+- ಜಾನ್ ಲೋಗ್ಗಿ ಬೇರ್ಡ್
+- ജോൺ ലോഗി ബേർഡ്
+- ජෝන් ලොගී බෙයාඩ්
+- จอห์น โลจี เบร์ด
+- ဂျွန် လော်ဂျီ ဘာ့ဒ်
+- ジョン・ロジー・ベアード
+- 約翰·羅傑·貝爾德
+- 约翰·罗杰·贝尔德
+- 존 로지 베어드
 has_id_wikidata: Q133544
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Glasgow,192775]]"
-  - "[[_Standards/WikiData/WD~University_of_Strathclyde,1859178]]"
-place_of_death: "[[_Standards/WikiData/WD~Bexhill_on_Sea,853012]]"
-place_of_birth: "[[_Standards/WikiData/WD~Helensburgh,1007088]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-given_name: "[[_Standards/WikiData/WD~John,4925477]]"
-place_of_burial: "[[_Standards/WikiData/WD~Helensburgh_Cemetery,5704019]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Baird,15635405]]"
-archives_at: "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]"
-award_received: "[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-depicted_by: "[[_Standards/WikiData/WD~John_Logie_Baird_(1888_1946),106657342]]"
-spouse: "[[_Standards/WikiData/WD~Margaret_Albu,109326278]]"
-child: "[[_Standards/WikiData/WD~Malcolm_Baird,136956337]]"
+- '[[_Standards/WikiData/WD~University_of_Glasgow,192775]]'
+- '[[_Standards/WikiData/WD~University_of_Strathclyde,1859178]]'
+place_of_death: '[[_Standards/WikiData/WD~Bexhill_on_Sea,853012]]'
+place_of_birth: '[[_Standards/WikiData/WD~Helensburgh,1007088]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
+place_of_burial: '[[_Standards/WikiData/WD~Helensburgh_Cemetery,5704019]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Baird,15635405]]'
+archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
+award_received: '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+depicted_by: '[[_Standards/WikiData/WD~John_Logie_Baird_(1888_1946),106657342]]'
+spouse: '[[_Standards/WikiData/WD~Margaret_Albu,109326278]]'
+child: '[[_Standards/WikiData/WD~Malcolm_Baird,136956337]]'
 date_of_birth: 1888-08-13T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 2
 Commons_gallery: John Logie Baird
 Commons_category: John Logie Baird
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Logie%20Baird%20in%201917.jpg
 described_at_URL: http://www.digiporta.net/index.php?id=192612706
-ISNI: "0000000117378366"
+ISNI: 0000000117378366
 name_in_native_language: John Logie Baird
 date_of_death: 1946-06-14T00:00:00Z
+dv_has_:
+  name_:
+    af: John Logie Baird
+    ar: جون لوجي بيرد
+    arz: جون لويجى بيرد
+    ast: John Logie Baird
+    be: Джон Лоўгі Бэрд
+    be-tarask: Джон Логі Бэрд
+    bg: Джон Логи Беърд
+    bn: জন লগি বেয়ার্ড
+    ca: John Logie Baird
+    ckb: جۆن لۆگی بێرد
+    cs: John Logie Baird
+    cy: John Logie Baird
+    da: John Logie Baird
+    de: John Logie Baird
+    de-ch: John Logie Baird
+    el: Τζον Λόγκι Μπερντ
+    en: John Logie Baird
+    en-ca: John Logie Baird
+    en-gb: John Logie Baird
+    eo: John Logie Baird
+    es: John Logie Baird
+    et: John Logie Baird
+    eu: John Logie Baird
+    fa: جان لوگی برد
+    fi: John Logie Baird
+    fr: John Logie Baird
+    ga: John Logie Baird
+    gd: John Logie Baird
+    gl: John Logie Baird
+    gu: જોન લોગી બેયર્ડ
+    he: ג'ון לוגי ביירד
+    hi: जॉन लॉगी बेयर्ड
+    hu: John Logie Baird
+    hy: Ջոն Լոգի Բերդ
+    id: John Logie Baird
+    io: John Logie Baird
+    is: John Logie Baird
+    it: John Logie Baird
+    ja: ジョン・ロジー・ベアード
+    jv: John Logie Baird
+    kk: Джон Лоуги Бэрд
+    kn: ಜಾನ್ ಲೋಗ್ಗಿ ಬೇರ್ಡ್
+    ko: 존 로지 베어드
+    kw: John Logie Baird
+    lt: John Logie Baird
+    lv: Džons Logijs Bērds
+    mg: John Logie Baird
+    mk: Џон Логи Берд
+    ml: ജോൺ ലോഗി ബേർഡ്
+    mr: जॉन लोगी बेअर्ड
+    ms: John Logie Baird
+    mul: John Logie Baird
+    my: ဂျွန် လော်ဂျီ ဘာ့ဒ်
+    nan: John Logie Baird
+    nb: John Logie Baird
+    new: जोन लोगी बेर्ड
+    nl: John Logie Baird
+    nn: John Logie Baird
+    pl: John Logie Baird
+    pnb: جان لوئی بیارڈ
+    pt: John Logie Baird
+    pt-br: John Logie Baird
+    ro: John Logie Baird
+    ru: Джон Лоуги Бэрд
+    sa: जोन लोगी बेर्ड
+    sco: John Logie Baird
+    sh: John Logie Baird
+    si: ජෝන් ලොගී බෙයාඩ්
+    sk: John Logie Baird
+    sl: John Logie Baird
+    sq: John Logie Baird
+    sr: Џон Логи Берд
+    sr-ec: Џон Логи Берд
+    sr-el: Džon Logi Berd
+    sv: John Logie Baird
+    sw: John Logie Baird
+    ta: ஜான் லோகி பைர்டு
+    te: జాన్ లోగీ బెయిర్డ్
+    th: จอห์น โลจี เบร์ด
+    tr: John Logie Baird
+    uk: Джон Берд
+    ur: جان بیئر
+    vi: John Logie Baird
+    war: John Logie Baird
+    wuu: 约翰·罗杰·贝尔德
+    yue: 約翰·羅傑·貝爾德
+    zh: 約翰·羅傑·貝爾德
+    zh-cn: 约翰·罗杰·贝尔德
+    zh-hans: 约翰·罗杰·贝尔德
+    zh-hant: 約翰·羅傑·貝爾德
+    zh-hk: 約翰·羅傑·貝爾德
+    zh-sg: 约翰·罗杰·贝尔德
+    zh-tw: 約翰·羅傑·貝爾德
 ---
-
 # [[Baird,John_Logie]] 
 
 #is_/same_as :: [[WD~John_Logie_Baird,133544]] 

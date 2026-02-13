@@ -1,8 +1,58 @@
 ---
 aliases:
-  - Sphaerotheriida
+- Esferotèrides
+- Riesenkugler
+- Sphaerotheriida
+- ألفية الأرجل الكروية العملاقة
+- الفية الارجل الكروية العملاقه
+- 蟠馬陸目
+- 蟠马陆目
 title: Sphaerotheriida
 has_id_wikidata: Q2152438
+dv_has_:
+  name_:
+    an: Sphaerotheriida
+    ar: ألفية الأرجل الكروية العملاقة
+    arz: الفية الارجل الكروية العملاقه
+    ast: Sphaerotheriida
+    bg: Sphaerotheriida
+    ca: Esferotèrides
+    ceb: Sphaerotheriida
+    de: Riesenkugler
+    en: Sphaerotheriida
+    eo: Sphaerotheriida
+    es: Sphaerotheriida
+    eu: Sphaerotheriida
+    ext: Sphaerotheriida
+    fi: Sphaerotheriida
+    fr: Sphaerotheriida
+    ga: Sphaerotheriida
+    gl: Sphaerotheriida
+    ia: Sphaerotheriida
+    ie: Sphaerotheriida
+    io: Sphaerotheriida
+    it: Sphaerotheriida
+    la: Sphaerotheriida
+    mul: Sphaerotheriida
+    nb: Sphaerotheriida
+    nl: Sphaerotheriida
+    nn: Sphaerotheriida
+    oc: Sphaerotheriida
+    pl: Sphaerotheriida
+    pt: Sphaerotheriida
+    pt-br: Sphaerotheriida
+    ro: Sphaerotheriida
+    ru: Sphaerotheriida
+    sq: Sphaerotheriida
+    sv: Sphaerotheriida
+    uk: Sphaerotheriida
+    vi: Sphaerotheriida
+    vo: Sphaerotheriida
+    war: Sphaerotheriida
+    zh: 蟠马陆目
+    zh-cn: 蟠马陆目
+    zh-hans: 蟠马陆目
+    zh-tw: 蟠馬陸目
 ---
 # [[Sphaerotheriida]] 
 

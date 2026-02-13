@@ -1,44 +1,234 @@
 ---
 aliases:
+- abhac bán
+- Anana branca
+- anã branca
+- Ağ cırtdanlar
+- baltais punduris
+- baltoji nykštukė
+- bela pritlikavka
+- beli patuljak
+- Beyaz cüce
+- biały karzeł
+- biely trpaslík
+- Bijeli patuljak
+- blanka nano
+- bílý trpaslík
+- corrach gwyn
+- enana blanca
+- fehér törpe
+- Hvid dværg
+- hvit dverg
+- Hvítur dvergur
+- Katai putih
+- Katé bodas
+- katé putih
+- Kerdil putih
+- Kintana sahozanina fotsy
+- Korrez wenn
+- kvit dverg
+- naine blanche
+- nana bianca
+- Nana blanc
+- Nana blanca
+- Nana janca
+- Nano zuri
+- Nyota kibete nyeupe
+- Nèn blan
+- Oq mitti yulduzlar
+- pitică albă
+- Pumilio alba
+- Sao lùn trắng
+- Shkurtabiq i bardhë
+- valge kääbus
+- valkoinen kääpiö
+- vielgis snorâtäsni
+- vit dvärg
+- Weißer Zwerg
+- white dwarf
+- Wit dwerg
+- witte dwerg
+- Wäissen Zwerg
+- Λευκός νάνος
+- ак кәрлә
+- Ақ ергежейлі
+- білий карлик
+- бели патуљак
+- бело џуџе
+- белы карлік
+- белый карлик
+- Бяло джудже
+- Шурă карлик
+- սպիտակ թզուկ
+- ננס לבן
+- ئاق پەتەك يۇلتۇز
+- اسپه تسک
+- اڇو ڄامڙو
+- سفید بونا
+- قزم أبيض
+- کوتوله سفید
+- کورتەبنەی سپی
+- श्वेत बटू
+- श्वेत बौना तारा
+- सफ़ेद बौना
+- শ্বেত বামন
+- ਚਿੱਟਾ ਬੌਣਾ ਤਾਰਾ
+- வெண் குறுமீன்
+- తెల్ల మరుగుజ్జు
+- ಶ್ವೇತ ಕುಬ್ಜ
+- വെള്ളക്കുള്ളൻ
+- සුදු වාමන තරු
+- ดาวแคระขาว
+- ကြယ်ဖြူပု
+- ဒွပ်ဖ်ဖြူ
+- თეთრი ჯუჯა
+- 白矮星
+- 白色矮星
+- 백색왜성
 has_id_wikidata: Q5871
 instance_of:
-  - "[[_Standards/WikiData/WD~spectral_class,179600]]"
-  - "[[_Standards/WikiData/WD~physical_theory,9357058]]"
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-  - "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
+- '[[_Standards/WikiData/WD~spectral_class,179600]]'
+- '[[_Standards/WikiData/WD~physical_theory,9357058]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~stellar_evolution,6472]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dwarf_star,244393]]"
-  - "[[_Standards/WikiData/WD~compact_object,368442]]"
-different_from: "[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]"
-follows: "[[_Standards/WikiData/WD~post_AGB_star,66619774]]"
-OmegaWiki_Defined_Meaning: "1309288"
+- '[[_Standards/WikiData/WD~dwarf_star,244393]]'
+- '[[_Standards/WikiData/WD~compact_object,368442]]'
+different_from: '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]'
+follows: '[[_Standards/WikiData/WD~post_AGB_star,66619774]]'
+OmegaWiki_Defined_Meaning: 1309288
 Commons_category: White dwarfs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSR%20J0348%2B0432.jpg
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/white-dwarf
-  - https://physics.stackexchange.com/tags/white-dwarfs
-Dewey_Decimal_Classification: "523.887"
+- https://astronomy.stackexchange.com/tags/white-dwarf
+- https://physics.stackexchange.com/tags/white-dwarfs
+Dewey_Decimal_Classification: 523.887
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]"
-    - "[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]"
+  - '[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]'
+  - '[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]"
-  - "[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]"
+- '[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]'
+- '[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]'
+dv_has_:
+  name_:
+    af: Wit dwerg
+    an: Nana blanca
+    anp: श्वेत बौना तारा
+    ar: قزم أبيض
+    ast: Nana blanca
+    az: Ağ cırtdanlar
+    be: белы карлік
+    be-tarask: белы карлік
+    bg: Бяло джудже
+    bn: শ্বেত বামন
+    br: Korrez wenn
+    bs: Bijeli patuljak
+    ca: nana blanca
+    ckb: کورتەبنەی سپی
+    cs: bílý trpaslík
+    cv: Шурă карлик
+    cy: corrach gwyn
+    da: Hvid dværg
+    de: Weißer Zwerg
+    el: Λευκός νάνος
+    en: white dwarf
+    en-ca: White dwarf
+    en-gb: white dwarf
+    eo: blanka nano
+    es: enana blanca
+    et: valge kääbus
+    eu: Nano zuri
+    fa: کوتوله سفید
+    fi: valkoinen kääpiö
+    fr: naine blanche
+    ga: abhac bán
+    gl: Anana branca
+    he: ננס לבן
+    hi: सफ़ेद बौना
+    hr: Bijeli patuljak
+    ht: Nèn blan
+    hu: fehér törpe
+    hy: սպիտակ թզուկ
+    ia: Nana blanc
+    id: Katai putih
+    is: Hvítur dvergur
+    it: nana bianca
+    ja: 白色矮星
+    jv: katé putih
+    ka: თეთრი ჯუჯა
+    kk: Ақ ергежейлі
+    kn: ಶ್ವೇತ ಕುಬ್ಜ
+    ko: 백색왜성
+    la: Pumilio alba
+    lb: Wäissen Zwerg
+    lt: baltoji nykštukė
+    lv: baltais punduris
+    mg: Kintana sahozanina fotsy
+    mk: бело џуџе
+    ml: വെള്ളക്കുള്ളൻ
+    mr: श्वेत बटू
+    ms: Kerdil putih
+    my: ဒွပ်ဖ်ဖြူ
+    mzn: اسپه تسک
+    nb: hvit dverg
+    nl: witte dwerg
+    nn: kvit dverg
+    pa: ਚਿੱਟਾ ਬੌਣਾ ਤਾਰਾ
+    pl: biały karzeł
+    pnb: سفید بونا
+    pt: anã branca
+    rki: ကြယ်ဖြူပု
+    ro: pitică albă
+    ru: белый карлик
+    scn: Nana janca
+    sd: اڇو ڄامڙو
+    sh: Bijeli patuljak
+    si: සුදු වාමන තරු
+    sk: biely trpaslík
+    sl: bela pritlikavka
+    smn: vielgis snorâtäsni
+    sq: Shkurtabiq i bardhë
+    sr: бели патуљак
+    sr-ec: бели патуљак
+    sr-el: beli patuljak
+    su: Katé bodas
+    sv: vit dvärg
+    sw: Nyota kibete nyeupe
+    ta: வெண் குறுமீன்
+    te: తెల్ల మరుగుజ్జు
+    th: ดาวแคระขาว
+    tr: Beyaz cüce
+    tt: ак кәрлә
+    ug: ئاق پەتەك يۇلتۇز
+    uk: білий карлик
+    ur: سفید بونا
+    uz: Oq mitti yulduzlar
+    vi: Sao lùn trắng
+    wuu: 白矮星
+    yue: 白矮星
+    zh: 白矮星
+    zh-cn: 白矮星
+    zh-hans: 白矮星
+    zh-hant: 白矮星
+    zh-hk: 白矮星
+    zh-mo: 白矮星
+    zh-my: 白矮星
+    zh-sg: 白矮星
+    zh-tw: 白矮星
 ---
-
 # [[White_Dwarf]] 
 
 #is_/same_as :: [[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]  

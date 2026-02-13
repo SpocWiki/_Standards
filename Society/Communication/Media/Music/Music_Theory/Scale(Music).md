@@ -1,20 +1,162 @@
 ---
 aliases:
+- ceäkkõk
+- Diagramma (musica)
+- escala musical
+- escala musicau
+- eskala
+- Gam
+- gama
+- gamma
+- gamme musicale
+- Gamo
+- gamă muzicală
+- glazbena ljestvica
+- hangsor
+- helirida
+- Im-kai
+- Korisam-peo
+- lestvica
+- Ljestvica
+- Muzička lestvica
+- nuohttaráidalas
+- scala musicale
+- scale
+- scała muzicałe
+- scála
+- skala
+- Skeulenn
+- stupnica
+- stupnice
+- sävelasteikko
+- Tangga nada
+- Tonleiter
+- toonladder
+- Toonleđer
+- Tónstigi
+- Âm giai
+- κλίμακα
+- гама
+- гамма
+- Гамма (музыка)
+- Музикална гама
+- Музичка лествица
+- Музична скала
+- скала
+- Գամմա (երաժշտություն)
+- סולם
+- سلم موسيقي
+- سکالا
+- پەیژە
+- گام
+- স্বরগ্রাম
+- ਸਕੇਲ (ਸੰਗੀਤ)
+- മ്യൂസിക്കൽ സ്കെയിൽ
+- บันไดเสียง
+- မိၵ်ႈမၢႆသဵင်
+- 音阶
+- 音階
+- 음계
 has_id_wikidata: Q179651
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-subclass_of: "[[_Standards/WikiData/WD~scale,1959825]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_musical_scale,26121140]]"
-instance_of: "[[_Standards/WikiData/WD~musical_structural_concept,116748678]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~scale,1959825]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_scale,26121140]]'
+instance_of: '[[_Standards/WikiData/WD~musical_structural_concept,116748678]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKALNIE_GAMMI.html
 Commons_gallery: Musical scale
 Commons_category: Musical scales
+dv_has_:
+  name_:
+    ar: سلم موسيقي
+    ast: escala musical
+    be-tarask: гама
+    bg: Музикална гама
+    bn: স্বরগ্রাম
+    br: Skeulenn
+    bs: Ljestvica
+    ca: escala musical
+    ckb: پەیژە
+    cs: stupnice
+    da: skala
+    de: Tonleiter
+    el: κλίμακα
+    en: scale
+    eo: gamo
+    es: gama
+    et: helirida
+    eu: eskala
+    fa: گام
+    fi: sävelasteikko
+    fr: gamme musicale
+    frr: Toonleđer
+    ga: scála
+    gl: escala musical
+    he: סולם
+    hr: glazbena ljestvica
+    hu: hangsor
+    hy: Գամմա (երաժշտություն)
+    id: Tangga nada
+    io: Gamo
+    is: Tónstigi
+    it: scala musicale
+    ja: 音階
+    jv: Tangga nada
+    kk: Гамма (музыка)
+    ko: 음계
+    ku: Gam
+    ku-arab: گام
+    ku-latn: Gam
+    la: Diagramma (musica)
+    lt: gama
+    lv: gamma
+    mg: Korisam-peo
+    mk: скала
+    ml: മ്യൂസിക്കൽ സ്കെയിൽ
+    ms: skala
+    ms-arab: سکالا
+    nan: Im-kai
+    nb: skala
+    nl: toonladder
+    oc: escala musicau
+    pa: ਸਕੇਲ (ਸੰਗੀਤ)
+    pl: skala
+    pt: escala musical
+    pt-br: escala musical
+    ro: gamă muzicală
+    rsk: Музична скала
+    ru: гамма
+    se: nuohttaráidalas
+    sh: Lestvica
+    shn: မိၵ်ႈမၢႆသဵင်
+    sk: stupnica
+    sl: lestvica
+    sms: ceäkkõk
+    sr: Музичка лествица
+    sr-ec: Музичка лествица
+    sr-el: Muzička lestvica
+    sv: skala
+    tg: Гамма
+    th: บันไดเสียง
+    tr: gam
+    uk: гамма
+    uz: Gamma
+    vec: scała muzicałe
+    vi: Âm giai
+    wuu: 音阶
+    yue: 音階
+    zh: 音阶
+    zh-cn: 音阶
+    zh-hans: 音阶
+    zh-hant: 音階
+    zh-hk: 音階
+    zh-sg: 音阶
+    zh-tw: 音階
 ---
-
 # [[Scale(Music)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scale,179651|WD~Scale,179651]] 

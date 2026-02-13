@@ -1,24 +1,84 @@
 ---
-has_time_started: 1000-06 
-has_time_stopped: 1200-01-01 
+has_time_started: 1000-06
+has_time_stopped: 1200-01-01
 aliases:
-  - Romanesque
-  - Romanesque_Art
-  - Romanesque Art
+- Architetura romànica
+- Ars Romanica
+- art roman
+- Art romanic
+- art romànic
+- arta romanică
+- Arte erromanikoa
+- arte romanica
+- Arte romanico
+- arte románica
+- arte románico
+- Arte románicu
+- arte românica
+- Arti románicu
+- celf Romanésg
+- nghệ thuật La Mã
+- Romaani stiil
+- Romaanik
+- Romaaninen taide
+- Romaans
+- Romaanse kuns
+- Romaanse kunst
+- Roman uslubi
+- Roman üslubu
+- Romanesk sanat
+- Romanesque
+- Romanesque Art
+- Romanesque_Art
+- Romanik
+- romanika
+- Romaniko
+- romaninis stilius
+- romaničko slikarstvo
+- romansk kunst
+- romansk stil
+- Romaníkí
+- Románske umenie
+- románské umění
+- Rōmański kōnszt
+- Seni rupa Romanesque
+- Sining Romaniko
+- sztuka romańska
+- ρομανική τέχνη
+- раманскае мастацтва
+- Романика
+- романское искусство
+- романське мистецтво
+- Ռոմանական արվեստ
+- אמנות רומנסקית
+- رومانسک هنر
+- فن رومانسكى
+- فن رومانسكي
+- هنر رمانسک
+- रोमनेस्क कला
+- रोमानेस्क कला
+- உரோமனெசுக் கலை
+- ศิลปะโรมาเนสก์
+- ロマネスク
+- 罗马式美术
+- 羅曼式
+- 羅曼藝術
+- 羅馬式美術
+- 로마네스크 미술
 has_id_wikidata: Q46805
 influenced_by: '[[_Standards/WikiData/WD~Byzantine_art,211884]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Romanesque_painting,1294149]]'
-  - '[[_Standards/WikiData/WD~Romanesque_sculpture,3953215]]'
-  - '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
+- '[[_Standards/WikiData/WD~Romanesque_painting,1294149]]'
+- '[[_Standards/WikiData/WD~Romanesque_sculpture,3953215]]'
+- '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
 subclass_of: '[[_Standards/WikiData/WD~medieval_art,3624153]]'
 end_time: 1200-01-01T00:00:00Z
 locations: '[[_Standards/WikiData/WD~Europe,46]]'
@@ -27,8 +87,92 @@ start_time: 1000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3nSanIsidoroLe%C3%B3n.jpg
 Commons_gallery: Romanesque art
 Commons_category: Romanesque art
+dv_has_:
+  name_:
+    af: Romaanse kuns
+    an: Arte romanico
+    ar: فن رومانسكي
+    arz: فن رومانسكى
+    ast: Arte románicu
+    az: Roman üslubu
+    be: раманскае мастацтва
+    be-tarask: раманскае мастацтва
+    bg: Романика
+    bho: रोमनेस्क कला
+    bs: Romanika
+    ca: art romànic
+    cs: románské umění
+    cy: celf Romanésg
+    da: romanik
+    de: Romanik
+    de-ch: Romanik
+    el: ρομανική τέχνη
+    en: Romanesque art
+    en-ca: Romanesque art
+    en-gb: Romanesque art
+    eo: Romaniko
+    es: arte románico
+    et: Romaani stiil
+    eu: Arte erromanikoa
+    ext: Arti románicu
+    fa: هنر رمانسک
+    fi: Romaaninen taide
+    fr: art roman
+    frr: Romaanik
+    gl: arte románica
+    gsw: Romanik
+    he: אמנות רומנסקית
+    hr: romaničko slikarstvo
+    hu: romanika
+    hy: Ռոմանական արվեստ
+    id: Seni rupa Romanesque
+    ie: Art romanic
+    it: arte romanica
+    ja: ロマネスク
+    ko: 로마네스크 미술
+    la: Ars Romanica
+    li: Romaans
+    ln: Romaníkí
+    lt: romaninis stilius
+    mk: романика
+    nb: romansk kunst
+    new: रोमानेस्क कला
+    nl: Romaanse kunst
+    oc: Art romanic
+    pcd: Art roman
+    pl: sztuka romańska
+    pms: Architetura romànica
+    ps: رومانسک هنر
+    pt: arte românica
+    pt-br: Arte românica
+    ro: arta romanică
+    ru: романское искусство
+    sh: romanika
+    sk: Románske umenie
+    sl: romanika
+    sr: романика
+    stq: Romanik
+    sv: romansk stil
+    szl: Rōmański kōnszt
+    ta: உரோமனெசுக் கலை
+    th: ศิลปะโรมาเนสก์
+    tl: Sining Romaniko
+    tr: Romanesk sanat
+    uk: романське мистецтво
+    uz: Roman uslubi
+    vi: nghệ thuật La Mã
+    wuu: 罗马式美术
+    yue: 羅曼式
+    zh: 羅馬式美術
+    zh-cn: 罗马式美术
+    zh-hans: 罗马式美术
+    zh-hant: 羅馬式美術
+    zh-hk: 羅馬式美術
+    zh-mo: 羅馬式美術
+    zh-my: 罗马式美术
+    zh-sg: 罗马式美术
+    zh-tw: 羅曼藝術
 ---
-
 # [[Romanesque_Art]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Romanesque_art,46805|WD~Romanesque_art,46805]] 

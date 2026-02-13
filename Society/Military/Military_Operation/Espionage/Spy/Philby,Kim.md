@@ -1,15 +1,86 @@
 ---
 aliases:
-  - Kim Philby
-  - Harold Adrian Russell "Kim" Philby
-  - '"Kim" Philby'
-  - Harold Adrian Russell Philby
-  - Sohnchen
-  - Sonny
-  - Stanley
+- '"Kim" Philby'
+- Harold Adrian Russell "Kim" Philby
+- Harold Adrian Russell Philby
+- Kim Filbi
+- Kim Philby
+- Kims Filbijs
+- Sohnchen
+- Sonny
+- Stanley
+- Κιμ Φίλμπυ
+- Кім Філбі
+- Ким Филби
+- Քիմ Ֆիլբի
+- קים פילבי
+- كيم فيلبى
+- كيم فيلبي
+- کیم فیلبی
+- किम फिल्बी
+- কিম ফিলবি
+- കിം ഫിൽബി
+- キム・フィルビー
+- 金·費爾比
+- 金·费尔比
+- 킴 필비
 has_id_wikidata: Q296313
+dv_has_:
+  name_:
+    ar: كيم فيلبي
+    arz: كيم فيلبى
+    ast: Kim Philby
+    be: Кім Філбі
+    bg: Ким Филби
+    bn: কিম ফিলবি
+    ca: Kim Philby
+    cs: Kim Philby
+    da: Kim Philby
+    de: Kim Philby
+    el: Κιμ Φίλμπυ
+    en: Kim Philby
+    eo: Kim Philby
+    es: Kim Philby
+    et: Kim Philby
+    eu: Kim Philby
+    fa: کیم فیلبی
+    fi: Kim Philby
+    fr: Kim Philby
+    ga: Kim Philby
+    he: קים פילבי
+    hi: किम फिल्बी
+    hu: Kim Philby
+    hy: Քիմ Ֆիլբի
+    id: Kim Philby
+    it: Kim Philby
+    ja: キム・フィルビー
+    ko: 킴 필비
+    lv: Kims Filbijs
+    ml: കിം ഫിൽബി
+    mul: Kim Philby
+    nb: Kim Philby
+    nl: Kim Philby
+    nn: Kim Philby
+    pl: Kim Philby
+    pt: Kim Philby
+    pt-br: Kim Philby
+    ro: Kim Philby
+    ru: Ким Филби
+    sk: Kim Philby
+    sl: Kim Philby
+    sq: Kim Filbi
+    sr: Ким Филби
+    sv: Kim Philby
+    tr: Kim Philby
+    uk: Кім Філбі
+    zh: 金·費爾比
+    zh-cn: 金·费尔比
+    zh-hans: 金·费尔比
+    zh-hant: 金·費爾比
+    zh-hk: 金·費爾比
+    zh-sg: 金·费尔比
+    zh-tw: 金·費爾比
 ---
-
 # [[Philby,Kim]] 
 
 #has_/time_/started ::  1912-01-01 

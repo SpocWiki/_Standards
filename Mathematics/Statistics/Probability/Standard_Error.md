@@ -1,8 +1,89 @@
 ---
 has_id_wikidata: Q620994
+dv_has_:
+  name_:
+    ar: خطأ معياري
+    ast: error estándar
+    be-tarask: стандартная памылка
+    bn: মান ত্রুটি
+    ca: error estàndard
+    cs: Standardní chyba
+    de: Standardfehler
+    el: Τυπικό σφάλμα
+    en: standard error
+    eo: Norma eraro
+    es: error estándar
+    et: Standardviga
+    eu: Errore estandar
+    fa: خطای استاندارد میانگین
+    fi: keskivirhe
+    fr: erreur type
+    gl: Erro padrón
+    he: שגיאת תקן
+    hi: मानक त्रुटि
+    hu: standard hiba
+    it: Errore standard
+    ja: 標準誤差
+    ko: 표준 오차
+    mk: стандардна грешка
+    ms: ralat piawai
+    nb: standardfeil
+    nl: standaardfout
+    pl: Błąd standardowy
+    pt: erro padrão
+    ro: eroare standard
+    ru: стандартная ошибка
+    sr: Standardna greška
+    su: Standar kasalahan (statistis)
+    sv: Standardfel
+    ta: திட்டபிழை
+    tr: Standart hata
+    uk: Стандартна похибка
+    yue: 標準誤差
+    zh: 标准误
+    zh-hans: 标准误
+    zh-hant: 標準誤
+    zh-hk: 標準誤
+aliases:
+- Błąd standardowy
+- eroare standard
+- erreur type
+- erro padrão
+- Erro padrón
+- error estàndard
+- error estándar
+- Errore estandar
+- Errore standard
+- keskivirhe
+- Norma eraro
+- ralat piawai
+- standaardfout
+- Standar kasalahan (statistis)
+- standard error
+- standard hiba
+- Standardfehler
+- standardfeil
+- Standardfel
+- Standardna greška
+- Standardní chyba
+- Standardviga
+- Standart hata
+- Τυπικό σφάλμα
+- стандардна грешка
+- Стандартна похибка
+- стандартная ошибка
+- стандартная памылка
+- שגיאת תקן
+- خطأ معياري
+- خطای استاندارد میانگین
+- मानक त्रुटि
+- মান ত্রুটি
+- திட்டபிழை
+- 标准误
+- 標準誤
+- 標準誤差
+- 표준 오차
 ---
-
-
 # [[Standard_Error]] 
 
 #is_/similar_to :: [[Standard_Deviation|Standard_Deviation]] 

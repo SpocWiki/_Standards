@@ -1,37 +1,210 @@
 ---
 aliases:
-  - Episcopalianism
-  - Anglicanism
+- Anglachas
+- Anglacánachas
+- Angleganismo
+- Anglicaanaghys
+- Anglicanesim
+- anglicanesimo
+- Anglicaniaeth
+- Anglicanism
+- anglicanisme
+- anglicanismo
+- anglicanismu
+- Anglicanismus
+- Anglikaani kirik
+- Anglikaaninen kirkko
+- Anglikan
+- Anglikancılık
+- anglikanism
+- Anglikanisma
+- anglikanisme
+- anglikanismo
+- Anglikanismus
+- anglikanizm
+- Anglikanizmi
+- anglikanizmo
+- anglikanizmus
+- Anglikanlik
+- Anglikanlıq
+- Anglikanstvo
+- Anglikonų bažnyčia
+- anglikánství
+- anglikānisms
+- anglîkanîzm
+- Anh giáo
+- anqlikanizm
+- Aŋglɩkan Ɛsɔ sɛtʊ ŋgbɛyɛ
+- Den anglikanske kirke
+- Episcopalianism
+- Gerèja Angglikan
+- Iglesia Anglicana
+- Iliz anglikan
+- Sèng-kong-hoē
+- Waanglikana
+- Ìṣeìjọánglíkánì
+- Αγγλικανική Εκκλησία
+- англіканства
+- англіканство
+- англиканизам
+- англиканизм
+- англиканство
+- անգլիականութիւն
+- Անգլիկան եկեղեցի
+- אנגליקאניזם
+- אנגליקניזם
+- أنجليكية
+- ئەنگلیکانیزم
+- الكنيسه الانجليكانيه
+- انگلیکان
+- انگلیکانیت
+- एंग्लिकनवाद
+- অ্যাংলিকানবাদ
+- ஆங்கிலிக்கம்
+- แองกลิคัน
+- ນິກາຍອັງກະລິກັງ
+- အင်္ဂလီကန်အသင်းတော်
+- ანგლიკანიზმი
+- 聖公会
+- 聖公宗
+- 성공회
 has_id_wikidata: Q6423963
 has_part_s_:
-  - "[[_Standards/WikiData/WD~anglo_catholicism,541235]]"
-  - "[[_Standards/WikiData/WD~broad_church,3555387]]"
-  - "[[_Standards/WikiData/WD~Evangelical_Anglicanism,28455161]]"
-  - "[[_Standards/WikiData/WD~Quanglican,119521889]]"
+- '[[_Standards/WikiData/WD~anglo_catholicism,541235]]'
+- '[[_Standards/WikiData/WD~broad_church,3555387]]'
+- '[[_Standards/WikiData/WD~Evangelical_Anglicanism,28455161]]'
+- '[[_Standards/WikiData/WD~Quanglican,119521889]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Anglicanism,8207996]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Anglicanism,8207996]]'
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/anglicanism
 instance_of:
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Protestantism,23540]]"
+- '[[_Standards/WikiData/WD~Protestantism,23540]]'
 member_count: 110
 Dewey_Decimal_Classification: 283
 Library_of_Congress_Classification: BX5001-BX5009
 subreddit:
-  - Anglicanism
+- Anglicanism
 Commons_category: Anglicanism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Westminster%20abbey%20west.jpg
 P8189: 987007294851905200
 Krugosvet_article: kultura_i_obrazovanie/religiya/ANGLIKANSKIE_TSERKVI.html
+dv_has_:
+  name_:
+    ar: أنجليكية
+    arz: الكنيسه الانجليكانيه
+    ast: anglicanismu
+    az: anqlikanizm
+    bar: Anglikanismus
+    be: англіканства
+    be-tarask: англіканства
+    bew: Gerèja Angglikan
+    bg: англиканство
+    bn: অ্যাংলিকানবাদ
+    br: Iliz anglikan
+    ca: anglicanisme
+    ckb: ئەنگلیکانیزم
+    crh: Anglikanlıq
+    crh-latn: Anglikanlıq
+    cs: anglikánství
+    cy: Anglicaniaeth
+    da: Den anglikanske kirke
+    de: Anglikanismus
+    de-ch: Anglikanismus
+    el: Αγγλικανική Εκκλησία
+    en: Anglicanism
+    en-gb: Anglicanism
+    eo: Anglikanismo
+    es: anglicanismo
+    et: Anglikaani kirik
+    eu: anglikanismo
+    fa: انگلیکان
+    fi: Anglikaaninen kirkko
+    fr: anglicanisme
+    frp: Anglicanismo
+    fy: anglikanisme
+    ga: Anglacánachas
+    gd: Anglachas
+    gl: anglicanismo
+    gv: Anglicaanaghys
+    he: אנגליקניזם
+    hi: एंग्लिकनवाद
+    hr: Anglikanstvo
+    hu: anglikanizmus
+    hy: Անգլիկան եկեղեցի
+    hyw: անգլիականութիւն
+    ia: Anglicanismo
+    iba: Anglikan
+    id: Anglikanisme
+    ig: Anglicanism
+    io: Anglikanismo
+    it: anglicanesimo
+    ja: 聖公会
+    ka: ანგლიკანიზმი
+    kbp: Aŋglɩkan Ɛsɔ sɛtʊ ŋgbɛyɛ
+    ko: 성공회
+    ku-latn: anglîkanîzm
+    la: Anglicanismus
+    lad: anglikanizmo
+    lb: Anglikanismus
+    lfn: Anglicanisme
+    lmo: Anglicanesim
+    lo: ນິກາຍອັງກະລິກັງ
+    lrc: انگلیکان
+    lt: Anglikonų bažnyčia
+    lv: anglikānisms
+    mg: Anglikanisma
+    mk: англиканство
+    ms: Anglikanisme
+    my: အင်္ဂလီကန်အသင်းတော်
+    nah: Iglesia Anglicana
+    nan: Sèng-kong-hoē
+    nb: Den anglikanske kirke
+    nl: anglicanisme
+    oc: Anglicanisme
+    os: англиканизм
+    pl: anglikanizm
+    pms: Anglicanism
+    pnb: انگلیکانیت
+    pt: anglicanismo
+    pt-br: anglicanismo
+    ro: anglicanism
+    ru: англиканство
+    sco: Anglicanism
+    sh: anglikanstvo
+    sk: Anglikanizmus
+    sl: anglikanstvo
+    sq: Anglikanizmi
+    sr: англиканизам
+    sv: anglikanism
+    sw: Waanglikana
+    ta: ஆங்கிலிக்கம்
+    th: แองกลิคัน
+    tl: Anglicanismo
+    tr: Anglikancılık
+    uk: англіканство
+    ur: انگلیکانیت
+    uz: Anglikanlik
+    vec: Angleganismo
+    vi: Anh giáo
+    war: Anglikanismo
+    wuu: 聖公宗
+    xmf: ანგლიკანიზმი
+    yi: אנגליקאניזם
+    yo: Ìṣeìjọánglíkánì
+    yue: 聖公宗
+    zh: 聖公宗
+    zh-hant: 聖公宗
+    zh-hk: 聖公宗
+    zh-tw: 聖公宗
 ---
-
 # [[Anglicanism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Anglicanism,6423963|WD~Anglicanism,6423963]] 

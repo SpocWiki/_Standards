@@ -1,30 +1,160 @@
 ---
 aliases:
+- beszédszintézis
+- hizketaren sintesi
+- hállansyntesa
+- hållamsyntiessa
+- konuşma sentezleyici
+- kõnesüntesaator
+- Lafal buatan
+- mainstemsynteeʹs
+- parolsintezo
+- puhesynteesi
+- Runas sintēze
+- sintesi vocale
+- Sintesis bunyi
+- Sintetizator govora
+- Sinteza govora
+- sinteza vorbirii
+- Sinteze di pårlaedje
+- sintéis chainte
+- speech synthesis
+- Spraaksintese
+- spraaksynthese
+- Sprachsynthese
+- synteza mowy
+- synthèse vocale
+- syntéza řeči
+- sárnumsyntees
+- síntese de voz
+- síntesi de veu
+- Síntesis de fala
+- síntesis de habla
+- Síntesis di bos
+- talesyntese
+- Talgerving
+- talsyntes
+- Talusyntesa
+- tổng hợp giọng nói
+- Σύνθεση ομιλίας
+- матн ба садо
+- Речеви синтез
+- синтез мовлення
+- синтез речи
+- синтеза на говорот
+- сынтэз маўленьня
+- сөз синтезі
+- סינתוז קול
+- تالیف کلام
+- تصنيع صوتي
+- متن به صدا
+- وینا ته د متن اړول
+- वाक् संश्लेषण
+- বাক সংশ্লেষণ
+- பேச்சொலியாக்கம்
+- స్పీచ్ సింథసిస్
+- การสังเคราะห์เสียงพูด
+- စာသားမှအသံပြောင်းလဲပေးသောစနစ်
+- 語音合成
+- 语音合成
+- 音声合成
+- 음성 합성
 has_id_wikidata: Q16346
-topic_has_template: "[[_Standards/WikiData/WD~Template_Speech_synthesis,6373966]]"
-subclass_of: "[[_Standards/WikiData/WD~sound_synthesis,7554316]]"
-studied_by: "[[_Standards/WikiData/WD~natural_language_processing,30642]]"
-simulates: "[[_Standards/WikiData/WD~speech,52946]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Speech_synthesis,6373966]]'
+subclass_of: '[[_Standards/WikiData/WD~sound_synthesis,7554316]]'
+studied_by: '[[_Standards/WikiData/WD~natural_language_processing,30642]]'
+simulates: '[[_Standards/WikiData/WD~speech,52946]]'
 audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Amiga%20speech%20synthesis.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/C64%20Software%20Automatic%20Mouth%20demo.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/DECtalk%20demo.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20broadcast%20in%20Mihama%20town%20180918.opus
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20broadcast%20in%20Uenohara%20city%20180902.opus
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20Speech%20Synthesis%20System.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fidelity%20Chess%20Challenger%20Voice%20speech%20output.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A4rDa-utrop.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Larynx-HiFi-GAN%20speech%20sample.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%201%20demo.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%202%20demo.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%20Alex.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Instruments%20TI-99%204A%20speech%20demo.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vocoder%20demo.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Amiga%20speech%20synthesis.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/C64%20Software%20Automatic%20Mouth%20demo.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/DECtalk%20demo.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20broadcast%20in%20Mihama%20town%20180918.opus
+- http://commons.wikimedia.org/wiki/Special:FilePath/Emergency%20broadcast%20in%20Uenohara%20city%20180902.opus
+- http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20Speech%20Synthesis%20System.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fidelity%20Chess%20Challenger%20Voice%20speech%20output.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A4rDa-utrop.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Larynx-HiFi-GAN%20speech%20sample.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%201%20demo.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%202%20demo.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/MacinTalk%20Alex.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Instruments%20TI-99%204A%20speech%20demo.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vocoder%20demo.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Spraaksynthese-article.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/speech-synthesis
 Commons_category: Speech synthesis
+dv_has_:
+  name_:
+    af: Spraaksintese
+    ar: تصنيع صوتي
+    ast: Síntesis de fala
+    be-tarask: сынтэз маўленьня
+    bg: Речеви синтез
+    bn: বাক সংশ্লেষণ
+    ca: síntesi de veu
+    cs: syntéza řeči
+    da: talesyntese
+    de: Sprachsynthese
+    de-ch: Sprachsynthese
+    el: Σύνθεση ομιλίας
+    en: speech synthesis
+    en-ca: Speech synthesis
+    en-gb: speech synthesis
+    eo: parolsintezo
+    es: síntesis de habla
+    et: kõnesüntesaator
+    eu: hizketaren sintesi
+    fa: متن به صدا
+    fi: puhesynteesi
+    fo: Talusyntesa
+    fr: synthèse vocale
+    ga: sintéis chainte
+    gl: síntese de voz
+    ha: Speech synthesis
+    he: סינתוז קול
+    hi: वाक् संश्लेषण
+    hr: Sintetizator govora
+    hu: beszédszintézis
+    id: Sintesis bunyi
+    is: Talgerving
+    it: sintesi vocale
+    ja: 音声合成
+    kk: сөз синтезі
+    ko: 음성 합성
+    lv: Runas sintēze
+    mk: синтеза на говорот
+    ms: Lafal buatan
+    my: စာသားမှအသံပြောင်းလဲပေးသောစနစ်
+    nb: talesyntese
+    nl: spraaksynthese
+    nn: talesyntese
+    pap: Síntesis di bos
+    pl: synteza mowy
+    ps: وینا ته د متن اړول
+    pt: síntese de voz
+    pt-br: Síntese de voz
+    ro: sinteza vorbirii
+    ru: синтез речи
+    se: hállansyntesa
+    sh: Sinteza govora
+    sl: sinteza govora
+    smj: hållamsyntiessa
+    smn: sárnumsyntees
+    sms: mainstemsynteeʹs
+    sr: Sinteza govora
+    sv: talsyntes
+    ta: பேச்சொலியாக்கம்
+    te: స్పీచ్ సింథసిస్
+    tg: матн ба садо
+    th: การสังเคราะห์เสียงพูด
+    tr: konuşma sentezleyici
+    uk: синтез мовлення
+    ur: تالیف کلام
+    vi: tổng hợp giọng nói
+    wa: Sinteze di pårlaedje
+    yue: 語音合成
+    zh: 语音合成
+    zh-hant: 語音合成
 ---
-
 # [[Speech_Synthesis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Speech_synthesis,16346|WD~Speech_synthesis,16346]]  

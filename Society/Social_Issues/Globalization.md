@@ -1,22 +1,137 @@
 ---
 aliases:
-  - globalisation
-  - mondialisation
-  - Globalization
+- Ajɛyɛ kpɛndʊʊ
+- Alheimsgerð
+- bedeladur
+- Choân-kiû-hoà
+- cruinneydaght
+- Dlùth-chruinneas
+- domhandú
+- Fanatontoloana
+- globaleiddio
+- Globali
+- globaligeso
+- globalisaatio
+- globalisashon
+- Globalisasi
+- Globalisasion
+- globalisasyon
+- globalisation
+- Globalisatschoon
+- Globalisaziun
+- globalisašuvdna
+- globalisearring
+- globaliseerumine
+- globalisering
+- Globalisierung
+- Globaliséierung
+- globalització
+- globalizace
+- Globalizacii
+- Globalizacija
+- globalización
+- globalizacja
+- globalizare
+- Globalizasyon
+- globalizatio
+- Globalization
+- globalizatsiya
+- globalizazio
+- Globalizaçon
+- globalização
+- globalizim
+- Globalizzazion
+- globalizzazione
+- globalizzazzjoni
+- globalizácia
+- globalizáció
+- globalizācija
+- Globaliśasiòun
+- Globallashuv
+- Globallasıw
+- Glubbalizzazzioni
+- Gluobalaizieshan
+- Gluobalėzacėjė
+- Hnattvæðing
+- Küreselleşme
+- Mondialisassion
+- mondialisation
+- mondialisering
+- mondializacion
+- Mondyalizasyon
+- Njikọ mba ụwa
+- Ollvyselheans
+- Qloballaşma
+- toàn cầu hóa
+- tutmondiĝo
+- Utandawazi
+- Vaisvikaran
+- Yvóra ñemopeteĩ
+- Üleilmastuminõ
+- παγκοσμιοποίηση
+- глабалізацыя
+- глобалізація
+- Глобалдашуу
+- Глобализаци
+- глобализација
+- Глобализация
+- Глобализациясь
+- Глобалләшеү
+- глобальләшү
+- глябалізацыя
+- Гүн хамтаралга
+- Даяарчлал
+- жаһандану
+- огъя луон
+- Ґлобалізація
+- Ҷаҳонишавӣ
+- գլոբալացում
+- גלאבאליזאציע
+- גלובליזציה
+- جهانيأبؤن
+- جهانیسازی
+- جیھانگیری
+- عالمگيريت
+- عالمگیریت
+- عولمة
+- نړيوالتوب
+- کورهسلهلشمه
+- گلوبلائزیشن
+- ग्लोबालाइजेसन
+- जागतिकीकरण
+- वैश्वीकरण
+- वैश्वीकरणम्
+- हलिमिकरण
+- গোলকীকৰণ
+- বিশ্বায়ন
+- ਸੰਸਾਰੀਕਰਨ
+- વૈશ્વિકરણ
+- உலகமயமாதல்
+- ప్రపంచీకరణ
+- ಜಾಗತೀಕರಣ
+- ആഗോളവത്കരണം
+- ගෝලීයකරණය
+- โลกาภิวัตน์
+- ໂລກາພິວັດ
+- ဂလိုဘယ်လိုက်ဇေးရှင်း
+- გლობალიზაცია
+- グローバリゼーション
+- 全球化
+- 세계화
 has_id_wikidata: Q7181
 Commons_category: Globalization
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 different_from: '[[_Standards/WikiData/WD~multilingualization,24897624]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~international_trade,178803]]'
-  - '[[_Standards/WikiData/WD~diplomacy,1889]]'
-  - '[[_Standards/WikiData/WD~mass_media,11033]]'
-  - '[[_Standards/WikiData/WD~travel,61509]]'
+- '[[_Standards/WikiData/WD~international_trade,178803]]'
+- '[[_Standards/WikiData/WD~diplomacy,1889]]'
+- '[[_Standards/WikiData/WD~mass_media,11033]]'
+- '[[_Standards/WikiData/WD~travel,61509]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~multiculturalism,190656]]'
-  - '[[_Standards/WikiData/WD~cultural_conflict,5193269]]'
+- '[[_Standards/WikiData/WD~multiculturalism,190656]]'
+- '[[_Standards/WikiData/WD~cultural_conflict,5193269]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_globalization,5867928]]'
 instance_of: '[[_Standards/WikiData/WD~social_theory,1990987]]'
 Krugosvet_article: istoriya/GLOBALIZATSIYA.html
@@ -25,24 +140,184 @@ named_after: '[[_Standards/WikiData/WD~globe,133792]]'
 OmegaWiki_Defined_Meaning: 7329
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~deglobalization,977984]]'
-  - '[[_Standards/WikiData/WD~triadization,2452266]]'
+- '[[_Standards/WikiData/WD~deglobalization,977984]]'
+- '[[_Standards/WikiData/WD~triadization,2452266]]'
 PhilPapers_topic: globalization
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Globalisasyon.wav
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canal%20de%20Panam%C3%A1%20Mayo%202008%20342.jpg
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~economic_globalization,2339766]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Globalization.mp3
 studied_in:
-  - '[[_Standards/WikiData/WD~international_studies,5654877]]'
-  - '[[_Standards/WikiData/WD~globalization_studies,87593377]]'
+- '[[_Standards/WikiData/WD~international_studies,5654877]]'
+- '[[_Standards/WikiData/WD~globalization_studies,87593377]]'
 subclass_of: '[[_Standards/WikiData/WD~interaction,52948]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Globalization,11289692]]'
-  - '[[_Standards/WikiData/WD~Template_Globalization_sidebar,16827250]]'
+- '[[_Standards/WikiData/WD~Template_Globalization,11289692]]'
+- '[[_Standards/WikiData/WD~Template_Globalization_sidebar,16827250]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_globalization,17164731]]'
 Wolfram_Language_entity_code: Entity["Concept", "Globalisation::zbks4"]
+dv_has_:
+  name_:
+    af: globalisering
+    an: Globalización
+    ar: عولمة
+    as: গোলকীকৰণ
+    ast: globalización
+    az: Qloballaşma
+    azb: کورهسلهلشمه
+    ba: Глобалләшеү
+    be: глабалізацыя
+    be-tarask: глябалізацыя
+    bg: глобализация
+    bn: বিশ্বায়ন
+    bpy: বিশ্বায়ন
+    br: bedeladur
+    bs: Globalizacija
+    btm: Globalisasi
+    bxr: Гүн хамтаралга
+    ca: globalització
+    ce: Глобализаци
+    ckb: جیھانگیری
+    crh: globalizatsiya
+    cs: globalizace
+    cy: globaleiddio
+    da: globalisering
+    de: Globalisierung
+    de-ch: Globalisierung
+    diq: Globalizasyon
+    el: παγκοσμιοποίηση
+    eml: Globaliśasiòun
+    en: globalization
+    en-ca: globalization
+    en-gb: globalisation
+    eo: tutmondiĝo
+    es: globalización
+    et: globaliseerumine
+    eu: globalizazio
+    fa: جهانیسازی
+    fi: globalisaatio
+    fo: Alheimsgerð
+    fr: mondialisation
+    fy: globalisearring
+    ga: domhandú
+    gcr: Mondyalizasyon
+    gd: Dlùth-chruinneas
+    gl: globalización
+    glk: جهانيأبؤن
+    gn: Yvóra ñemopeteĩ
+    gsw: Globalisierung
+    gu: વૈશ્વિકરણ
+    gv: cruinneydaght
+    he: גלובליזציה
+    hi: वैश्वीकरण
+    hif: Vaisvikaran
+    hr: globalizacija
+    hsb: globalizacija
+    hu: globalizáció
+    hy: գլոբալացում
+    id: globalisasi
+    ig: Njikọ mba ụwa
+    ilo: Globalisasion
+    io: globaligeso
+    is: Hnattvæðing
+    it: globalizzazione
+    ja: グローバリゼーション
+    jam: Gluobalaizieshan
+    jv: Globalisasi
+    ka: გლობალიზაცია
+    kaa: Globallasıw
+    kbp: Ajɛyɛ kpɛndʊʊ
+    kk: жаһандану
+    kn: ಜಾಗತೀಕರಣ
+    ko: 세계화
+    krc: Глобализация
+    kw: Ollvyselheans
+    ky: Глобалдашуу
+    la: globalizatio
+    lb: Globaliséierung
+    lfn: Globali
+    li: Globalisering
+    lmo: Globalizzazion
+    lo: ໂລກາພິວັດ
+    lt: globalizacija
+    lv: globalizācija
+    mdf: Глобализациясь
+    mg: Fanatontoloana
+    mk: Глобализација
+    ml: ആഗോളവത്കരണം
+    mn: Даяарчлал
+    mr: जागतिकीकरण
+    ms: Globalisasi
+    mt: globalizzazzjoni
+    mwl: Globalizaçon
+    my: ဂလိုဘယ်လိုက်ဇေးရှင်း
+    nan: Choân-kiû-hoà
+    nb: globalisering
+    nds: Globalisatschoon
+    ne: ग्लोबालाइजेसन
+    new: हलिमिकरण
+    nl: mondialisering
+    nn: globalisering
+    oc: mondializacion
+    pa: ਸੰਸਾਰੀਕਰਨ
+    pap: globalisashon
+    pl: globalizacja
+    pms: Mondialisassion
+    pnb: گلوبلائزیشن
+    ps: نړيوالتوب
+    pt: globalização
+    pt-br: globalização
+    rm: Globalisaziun
+    ro: globalizare
+    ru: глобализация
+    rue: Ґлобалізація
+    sa: वैश्वीकरणम्
+    sah: Глобализация
+    scn: Glubbalizzazzioni
+    sco: globalization
+    sd: عالمگيريت
+    se: globalisašuvdna
+    sgs: Gluobalėzacėjė
+    sh: Globalizacija
+    si: ගෝලීයකරණය
+    sk: globalizácia
+    sl: globalizacija
+    smn: globalisaatio
+    sms: globalisaatio
+    sq: globalizim
+    sr: глобализација
+    su: Globalisasi
+    sv: globalisering
+    sw: Utandawazi
+    ta: உலகமயமாதல்
+    te: ప్రపంచీకరణ
+    tg: Ҷаҳонишавӣ
+    th: โลกาภิวัตน์
+    tl: globalisasyon
+    tr: Küreselleşme
+    tt: глобальләшү
+    udm: огъя луон
+    uk: глобалізація
+    ur: عالمگیریت
+    uz: Globallashuv
+    vep: Globalizacii
+    vi: toàn cầu hóa
+    vro: Üleilmastuminõ
+    war: Globalisasyon
+    wuu: 全球化
+    xmf: გლობალიზაცია
+    yi: גלאבאליזאציע
+    yue: 全球化
+    zh: 全球化
+    zh-cn: 全球化
+    zh-hans: 全球化
+    zh-hant: 全球化
+    zh-hk: 全球化
+    zh-mo: 全球化
+    zh-my: 全球化
+    zh-sg: 全球化
+    zh-tw: 全球化
 ---
-
 # [[Globalization]] 
 
 #is_/same_as :: [[../../WikiData/WD~Globalisation,7181|WD~Globalisation,7181]] 

@@ -1,26 +1,82 @@
 ---
 aliases:
+- aquae calidae salientes
+- Bufador
+- ciao
+- Gayzer
+- Geiser
+- Geizeris
+- geizers
+- gejser
+- gejsero
+- gejzer
+- Gejzeri
+- Gejzir
+- gejzír
+- geyser
+- geysir
+- Geyzer
+- Geyzerlar
+- Gheizer
+- goshver
+- Gueisèr
+- guèiser
+- Guéiser
+- géasar
+- géiser
+- Jezè
+- kaynaç
+- Kàiⁿ-hioh-chôaⁿ
+- Mạch nước phun
+- Qeyzer
+- Θερμοπίδακας
+- гејзер
+- Гејзир
+- гейзер
+- Гейзерлер
+- гейзэр
+- գեյզեր
+- גייזר
+- آبفشان
+- فوارة حارة
+- فواره حاره
+- گرم پاݨی دا چشمہ
+- उष्णोत्स
+- गीजर
+- উষ্ণপ্রস্রবণ
+- ਗਰਮ ਪਾਣੀ ਦੇ ਚਸ਼ਮੇ
+- ଉଷ୍ମୋତ୍ସ
+- பீறிடும் வெந்நீரூற்று
+- వేడి నీటి బుగ్గ
+- ಗೀಸರ್
+- ഉഷ്ണജലധാര
+- ไกเซอร์
+- გეიზერი
+- 間欠泉
+- 間歇泉
+- 间歇泉
+- 간헐천
 has_id_wikidata: Q83471
 subclass_of:
-  - "[[_Standards/WikiData/WD~hot_spring,177380]]"
-  - "[[_Standards/WikiData/WD~volcanic_landform,29025902]]"
-  - "[[_Standards/WikiData/WD~volcanic_phenomenon,29436423]]"
-named_after: "[[_Standards/WikiData/WD~Great_Geysir,216846]]"
+- '[[_Standards/WikiData/WD~hot_spring,177380]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
+- '[[_Standards/WikiData/WD~volcanic_phenomenon,29436423]]'
+named_after: '[[_Standards/WikiData/WD~Great_Geysir,216846]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 different_from:
-  - "[[_Standards/WikiData/WD~artesian_spring,707912]]"
-  - "[[_Standards/WikiData/WD~Q11699548,11699548]]"
-  - "[[_Standards/WikiData/WD~cold_water_geyser,20183798]]"
-U_S_National_Archives_Identifier: "10675984"
-OmegaWiki_Defined_Meaning: "525230"
+- '[[_Standards/WikiData/WD~artesian_spring,707912]]'
+- '[[_Standards/WikiData/WD~Q11699548,11699548]]'
+- '[[_Standards/WikiData/WD~cold_water_geyser,20183798]]'
+U_S_National_Archives_Identifier: 10675984
+OmegaWiki_Defined_Meaning: 525230
 image: http://commons.wikimedia.org/wiki/Special:FilePath/00%201555%20Pohutu%20Geyser%20in%20Whakarewarewa%20%28Whaka%29%2C%20New%20Zealand.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%97%E0%A8%B0%E0%A8%AE%20%E0%A8%AA%E0%A8%BE%E0%A8%A3%E0%A9%80%20%E0%A8%A6%E0%A9%87%20%E0%A8%9A%E0%A8%B8%E0%A8%BC%E0%A8%AE%E0%A9%87.wav
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Strokkur%20Geyser%20Eruption.ogv
@@ -31,25 +87,122 @@ Commons_category: Geysers
 GeoNames_feature_code: H.GYSR
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]"
-    - "[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]"
-    - "[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]"
+  - '[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]'
+  - '[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]'
+  - '[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]"
-  - "[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]"
-  - "[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]"
+- '[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]'
+- '[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]'
+- '[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]'
+- '[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]'
+- '[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]'
+- '[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]'
+dv_has_:
+  name_:
+    af: Geiser
+    an: Bufador
+    ar: فوارة حارة
+    arz: فواره حاره
+    ast: Guéiser
+    az: Qeyzer
+    be: гейзер
+    be-tarask: гейзэр
+    bg: Гейзер
+    bho: गीजर
+    bn: উষ্ণপ্রস্রবণ
+    bs: Gejzir
+    ca: guèiser
+    cs: gejzír
+    cy: geiser
+    da: gejser
+    de: Geysir
+    diq: Gayzer
+    el: Θερμοπίδακας
+    en: geyser
+    eo: gejsero
+    es: géiser
+    et: Geiser
+    eu: Geiser
+    fa: آبفشان
+    fi: geysir
+    fr: geyser
+    fy: Geiser
+    ga: géasar
+    gl: Geyser
+    he: גייזר
+    hi: उष्णोत्स
+    hr: Gejzir
+    ht: Jezè
+    hu: gejzír
+    hy: գեյզեր
+    ia: Geyser
+    id: Geyser
+    io: Geyser
+    is: goshver
+    it: geyser
+    ja: 間欠泉
+    ka: გეიზერი
+    kaa: Geyzer
+    kk: Гейзерлер
+    kn: ಗೀಸರ್
+    ko: 간헐천
+    ksh: Geyser
+    ky: Гейзер
+    la: aquae calidae salientes
+    lb: Geysir
+    li: Geiser
+    lt: Geizeris
+    lv: geizers
+    mk: гејзер
+    ml: ഉഷ്ണജലധാര
+    mn: гейзэр
+    ms: Geiser
+    nan: Kàiⁿ-hioh-chôaⁿ
+    nb: geysir
+    nl: geiser
+    nn: geysir
+    oc: Gueisèr
+    or: ଉଷ୍ମୋତ୍ସ
+    pa: ਗਰਮ ਪਾਣੀ ਦੇ ਚਸ਼ਮੇ
+    pl: gejzer
+    pnb: گرم پاݨی دا چشمہ
+    pt: géiser
+    ro: Gheizer
+    ru: гейзер
+    sc: ciao
+    sh: Gejzir
+    sk: gejzír
+    sl: gejzir
+    sq: Gejzeri
+    sr: Гејзир
+    sv: gejser
+    ta: பீறிடும் வெந்நீரூற்று
+    te: వేడి నీటి బుగ్గ
+    tg: Гейзер
+    th: ไกเซอร์
+    tl: Geyser
+    tr: kaynaç
+    tt: Гейзер
+    tyv: Гейзер
+    udm: гейзер
+    uk: гейзер
+    uz: Geyzerlar
+    vi: Mạch nước phun
+    vls: Geiser
+    vro: Geiser
+    war: Geyser
+    wuu: 间歇泉
+    xmf: გეიზერი
+    yue: 間歇泉
+    zh: 間歇泉
 ---
-
 # [[Geyser]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]] 

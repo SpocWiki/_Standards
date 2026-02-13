@@ -1,9 +1,105 @@
 ---
 aliases:
-  - Anke Christina Fischer
-  - Anke Engelke
-  - Engelke,Anke
+- Anke Christina Fischer
+- Anke Engelke
+- Engelke,Anke
+- Άνκε Ενγκέλκε
+- Анке Енгелке
+- Анке Енгельке
+- Анке Энгельке
+- Անկե Էնգելկե
+- אנקה אנגלקה
+- آنکه انگلکه
+- كريستينا فيشر
+- আনকি এনজেলকে
+- アンケ・エンゲルケ
+- 安克·恩戈尔克
+- 安克·恩戈爾克
+- 앙케 엥겔케
 has_id_wikidata: Q77027
+dv_has_:
+  name_:
+    af: Anke Engelke
+    an: Anke Engelke
+    ar: كريستينا فيشر
+    arz: كريستينا فيشر
+    ast: Anke Engelke
+    bar: Anke Engelke
+    bn: আনকি এনজেলকে
+    bs: Anke Engelke
+    ca: Anke Engelke
+    ceb: Anke Engelke
+    co: Anke Engelke
+    cs: Anke Engelke
+    cy: Anke Engelke
+    da: Anke Engelke
+    de: Anke Engelke
+    dsb: Anke Engelke
+    el: Άνκε Ενγκέλκε
+    eml: Anke Engelke
+    en: Anke Engelke
+    en-ca: Anke Engelke
+    en-gb: Anke Engelke
+    eo: Anke Engelke
+    es: Anke Engelke
+    et: Anke Engelke
+    eu: Anke Engelke
+    fa: آنکه انگلکه
+    fi: Anke Engelke
+    fo: Anke Engelke
+    fr: Anke Engelke
+    frr: Anke Engelke
+    fy: Anke Engelke
+    ga: Anke Engelke
+    gl: Anke Engelke
+    gsw: Anke Engelke
+    he: אנקה אנגלקה
+    hr: Anke Engelke
+    hsb: Anke Engelke
+    hu: Anke Engelke
+    hy: Անկե Էնգելկե
+    id: Anke Engelke
+    ig: Anke Engelke
+    is: Anke Engelke
+    it: Anke Engelke
+    ja: アンケ・エンゲルケ
+    jam: Anke Engelke
+    ko: 앙케 엥겔케
+    ku: Anke Engelke
+    lb: Anke Engelke
+    lt: Anke Engelke
+    lv: Anke Engelke
+    min: Anke Engelke
+    mt: Anke Engelke
+    mul: Anke Engelke
+    nb: Anke Engelke
+    nds: Anke Engelke
+    nl: Anke Engelke
+    nn: Anke Engelke
+    oc: Anke Engelke
+    pap: Anke Engelke
+    pl: Anke Engelke
+    pt: Anke Engelke
+    pt-br: Anke Engelke
+    rm: Anke Engelke
+    ro: Anke Engelke
+    ru: Анке Энгельке
+    sc: Anke Engelke
+    scn: Anke Engelke
+    sco: Anke Engelke
+    sh: Anke Engelke
+    sl: Anke Engelke
+    sq: Anke Engelke
+    sr: Анке Енгелке
+    sv: Anke Engelke
+    tl: Anke Engelke
+    tr: Anke Engelke
+    uk: Анке Енгельке
+    vls: Anke Engelke
+    vo: Anke Engelke
+    wa: Anke Engelke
+    zh: 安克·恩戈尔克
+    zh-hant: 安克·恩戈爾克
 ---
 #has_/time_/started :: 1965-12-21 
 #has_/time_/stopped ::   

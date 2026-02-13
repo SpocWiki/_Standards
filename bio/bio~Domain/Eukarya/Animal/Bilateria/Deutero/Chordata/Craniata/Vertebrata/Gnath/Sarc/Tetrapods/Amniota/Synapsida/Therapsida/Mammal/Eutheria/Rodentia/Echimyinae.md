@@ -1,8 +1,57 @@
 ---
 has_id_wikidata: Q987497
+dv_has_:
+  name_:
+    an: Echimyinae
+    ast: Echimyinae
+    bg: Echimyinae
+    ca: Equimí
+    ceb: Echimyinae
+    de: Echimyinae
+    en: Echimyinae
+    eo: Echimyinae
+    es: Echimyinae
+    eu: Echimyinae
+    ext: Echimyinae
+    fa: تیغیموشیان
+    fi: Echimyinae
+    fr: Echimyinae
+    ga: Echimyinae
+    gl: Echimyinae
+    hu: Echimyinae
+    ia: Echimyinae
+    ie: Echimyinae
+    io: Echimyinae
+    it: Echimyinae
+    ko: 가시쥐아과
+    la: Echimyinae
+    mul: Echimyinae
+    nl: Echimyinae
+    oc: Echimyinae
+    pl: Kolczaki
+    pt: Echimyinae
+    pt-br: Echimyinae
+    ro: Echimyinae
+    ru: Echimyinae
+    sq: Echimyinae
+    uk: Echimyinae
+    vi: Echimyinae
+    vo: Echimyinae
+    war: Echimyinae
+    zh: 棘鼠亚科
+    zh-cn: 棘鼠亚科
+    zh-hans: 棘鼠亚科
+    zh-hant: 棘鼠亞科
+    zh-tw: 棘鼠亞科
+aliases:
+- Echimyinae
+- Equimí
+- Kolczaki
+- تیغیموشیان
+- 棘鼠亚科
+- 棘鼠亞科
+- 가시쥐아과
 ---
-
-
 # [[Echimyinae]] 
 
 #is_/same_as :: [[Echimyinae,]]

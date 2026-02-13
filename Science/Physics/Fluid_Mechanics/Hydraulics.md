@@ -1,16 +1,67 @@
 ---
 aliases:
-  - hydraulic
-  - Hydraulics
+- gidravlika
+- gïdravlïka
+- hidraulică
+- hidraulik
+- hidraulika
+- hidrauliko
+- hidravlika
+- hidraŭliko
+- hidrolik
+- hidrolika
+- hidroulika
+- hidràulica
+- hidráulica
+- hiodrálaic
+- hydraulic
+- hydraulica
+- Hydraulics
+- hydrauliikka
+- hydraulik
+- hydraulika
+- hydraulikk
+- hydraulique
+- hydrolig
+- hüdraulika
+- idraulica
+- idrawliku
+- idràułega
+- mātai waipēhi
+- Sheanse Ushtey
+- thủy lực học
+- υδραυλική
+- гідраўліка
+- гідравліка
+- гидравлик
+- гидравлика
+- хидравлика
+- хидраулика
+- հիդրավլիկա
+- הידראוליקה
+- ماقوائیات
+- هيدروليكا
+- هیدرولیک
+- گىيدراۆلىيكا
+- जल इंजीनियरी
+- উদপ্রবাহবিজ্ঞান
+- நீர்ம இயக்கவியல்
+- ഹൈഡ്രോളിക്സ്
+- ชลศาสตร์
+- ჰიდრავლიკა
+- 水力学
+- 水力學
+- 水理学
+- 수리학
 has_id_wikidata: Q177784
 part_of:
-  - '[[_Standards/WikiData/WD~civil_engineering,77590]]'
-  - '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
+- '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+- '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of: '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
 facet_of: '[[_Standards/WikiData/WD~hydrodynamics,12016129]]'
 different_from: '[[_Standards/WikiData/WD~Hydraulika,13419217]]'
@@ -19,8 +70,103 @@ OmegaWiki_Defined_Meaning: 1817
 U_S_National_Archives_Identifier: 10639770
 Commons_category: Hydraulics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Hydraulics%20and%20Hydrostatics%2C%20Cyclopaedia%2C%20Volume%201.jpg
+dv_has_:
+  name_:
+    af: hidroulika
+    ar: هيدروليكا
+    ast: hidráulica
+    az: hidravlika
+    be: гідраўліка
+    be-tarask: гідраўліка
+    bg: хидравлика
+    bn: উদপ্রবাহবিজ্ঞান
+    bs: hidraulika
+    ca: hidràulica
+    cs: hydraulika
+    cv: гидравлика
+    cy: hydrolig
+    da: hydraulik
+    de: Hydraulik
+    el: υδραυλική
+    en: hydraulics
+    en-ca: Hydraulics
+    en-gb: Hydraulics
+    eo: hidraŭliko
+    es: hidráulica
+    et: hüdraulika
+    eu: hidraulika
+    fa: هیدرولیک
+    fi: hydrauliikka
+    fr: hydraulique
+    ga: hiodrálaic
+    gl: hidráulica
+    gv: Sheanse Ushtey
+    he: הידראוליקה
+    hi: जल इंजीनियरी
+    hr: hidraulika
+    hu: hidraulika
+    hy: հիդրավլիկա
+    id: hidrolika
+    io: hidrauliko
+    it: idraulica
+    ja: 水理学
+    ka: ჰიდრავლიკა
+    kbp: hydraulique
+    kk: гидравлика
+    kk-arab: گىيدراۆلىيكا
+    kk-cn: گىيدراۆلىيكا
+    kk-cyrl: гидравлика
+    kk-kz: гидравлика
+    kk-latn: gïdravlïka
+    kk-tr: gïdravlïka
+    ko: 수리학
+    ky: гидравлика
+    lb: Hydraulik
+    lt: hidraulika
+    lv: hidraulika
+    mi: mātai waipēhi
+    mk: хидраулика
+    ml: ഹൈഡ്രോളിക്സ്
+    mn: гидравлик
+    ms: hidraulik
+    nb: hydraulikk
+    nl: hydraulica
+    nn: hydraulikk
+    oc: Idraulica
+    pam: idrawliku
+    pl: hydraulika
+    pt: hidráulica
+    pt-br: Hidráulica
+    ro: hidraulică
+    ru: гидравлика
+    sh: hidraulika
+    sl: hidravlika
+    sq: Hidraulika
+    sr: хидраулика
+    sr-ec: хидраулика
+    sr-el: hidraulika
+    sv: hydraulik
+    ta: நீர்ம இயக்கவியல்
+    th: ชลศาสตร์
+    tr: hidrolik
+    tt: гидравлика
+    tyv: гидравлика
+    uk: гідравліка
+    ur: ماقوائیات
+    uz: gidravlika
+    vec: idràułega
+    vi: thủy lực học
+    war: hidraulika
+    wuu: 水力学
+    yue: 水力學
+    zh: 水力学
+    zh-cn: 水力学
+    zh-hans: 水力学
+    zh-hant: 水力學
+    zh-hk: 水力學
+    zh-sg: 水力学
+    zh-tw: 水力學
 ---
-
 # [[Hydraulics]] 
 
 #is_/similar_to :: [[Pneumatics]] 

@@ -1,57 +1,91 @@
 ---
 aliases:
-  - Sylvia Plath
-  - Plath,Sylvia
+- Plath,Sylvia
+- Silvia Plath
+- Silvija Plat
+- Silvija Plāta
+- Silviya Plat
+- Sylvia Plath
+- Sylvia Plathová
+- Σύλβια Πλαθ
+- Сільвія Плат
+- Силвија Плат
+- Силвия Плат
+- Сильвія Плат
+- Сильвия Плат
+- Սիլվիա Փլաթ
+- סילביה פלאת'
+- سلویا پلاتھ
+- سيلفيا بلاث
+- سیلویا پلات
+- سیلڤا پلاته
+- سیلڤیا پلات
+- सिल्भिया प्लाथ
+- सिल्विया प्लाथ
+- ছিলভিয়া প্লাথ
+- সিলভিয়া প্ল্যাথ
+- ਸਿਲਵੀਆ ਪਲਾਥ
+- சில்வியா பிளாத்
+- సిల్వియా ప్లాత్
+- സിൽവിയ പ്ലാത്ത്
+- ซิลเวีย แพลธ
+- სილვია პლათი
+- シルヴィア・プラス
+- 希薇亚·普拉斯
+- 希薇亞·普拉斯
+- 普拉斯
+- 西尔维娅·普拉斯
+- 실비아 플래스
 has_id_wikidata: Q133054
 religion_or_worldview: '[[_Standards/WikiData/WD~Unitarianism,106687]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Ariel,224733]]'
-  - '[[_Standards/WikiData/WD~The_Bell_Jar,1213085]]'
-  - '[[_Standards/WikiData/WD~The_Colossus,29889462]]'
+- '[[_Standards/WikiData/WD~Ariel,224733]]'
+- '[[_Standards/WikiData/WD~The_Bell_Jar,1213085]]'
+- '[[_Standards/WikiData/WD~The_Colossus,29889462]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Fulbright_Scholarship,253936]]'
-  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Poetry,2117891]]'
-  - '[[_Standards/WikiData/WD~Glascock_Prize,5566707]]'
+- '[[_Standards/WikiData/WD~Fulbright_Scholarship,253936]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Poetry,2117891]]'
+- '[[_Standards/WikiData/WD~Glascock_Prize,5566707]]'
 spouse: '[[_Standards/WikiData/WD~Ted_Hughes,272194]]'
 child:
-  - '[[_Standards/WikiData/WD~Frieda_Hughes,1061744]]'
-  - '[[_Standards/WikiData/WD~Nicholas_Hughes,7025569]]'
+- '[[_Standards/WikiData/WD~Frieda_Hughes,1061744]]'
+- '[[_Standards/WikiData/WD~Nicholas_Hughes,7025569]]'
 genre: '[[_Standards/WikiData/WD~confessional_poetry,1125196]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Newnham_College,1247589]]'
-  - '[[_Standards/WikiData/WD~Smith_College,49204]]'
+- '[[_Standards/WikiData/WD~Newnham_College,1247589]]'
+- '[[_Standards/WikiData/WD~Smith_College,49204]]'
 place_of_burial: '[[_Standards/WikiData/WD~Heptonstall,2677260]]'
 occupation:
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 father: '[[_Standards/WikiData/WD~Otto_Plath,7109772]]'
 mother: '[[_Standards/WikiData/WD~Aurelia_Plath,9151491]]'
 given_name: '[[_Standards/WikiData/WD~Sylvia,10686817]]'
 family_name: '[[_Standards/WikiData/WD~Plath,21497416]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
-  - '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
-  - '[[_Standards/WikiData/WD~Smith_College,49204]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
+- '[[_Standards/WikiData/WD~Smith_College,49204]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
 sibling: '[[_Standards/WikiData/WD~Warren_Joseph_Plath,102164634]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~fiction,8253]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~fiction,8253]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
@@ -71,20 +105,120 @@ married_name: Sylvia Hughes
 name_in_native_language: Sylvia Plath
 date_of_birth: 1932-10-27T00:00:00Z
 ISNI:
-  - 0000000368638126
-  - 0000000121214196
-  - 0000000368638118
+- 0000000368638126
+- 0000000121214196
+- 0000000368638118
 date_of_death: 1963-02-11T00:00:00Z
 image_of_grave:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Sylvia%20Plath%20-%20geograph.org.uk%20-%20412470.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Plath%20grave.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Sylvia%20Plath%20-%20geograph.org.uk%20-%20412470.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Plath%20grave.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sylvia%20Plath.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Sylvia%20Plath%20signature%20%28Mademoiselle%201953%29.svg
 P8189: 987007266528305171
 Europeana_entity: agent/base/60259
 Libris_URI: c9prsl8w59vcj9m
+dv_has_:
+  name_:
+    af: Sylvia Plath
+    ar: سيلفيا بلاث
+    arz: سيلفيا بلاث
+    as: ছিলভিয়া প্লাথ
+    ast: Sylvia Plath
+    az: Silviya Plat
+    azb: سیلویا پلات
+    be: Сільвія Плат
+    bg: Силвия Плат
+    bn: সিলভিয়া প্ল্যাথ
+    bs: Sylvia Plath
+    ca: Sylvia Plath
+    ckb: سیلڤیا پلات
+    cs: Sylvia Plathová
+    cy: Sylvia Plath
+    da: Sylvia Plath
+    de: Sylvia Plath
+    diq: Sylvia Plath
+    el: Σύλβια Πλαθ
+    en: Sylvia Plath
+    en-gb: Sylvia plath
+    en-us: Sylvia plath
+    eo: Sylvia Plath
+    es: Sylvia Plath
+    et: Sylvia Plath
+    eu: Silvia Plath
+    fa: سیلویا پلات
+    fi: Sylvia Plath
+    fr: Sylvia Plath
+    fy: Sylvia Plath
+    ga: Sylvia Plath
+    gd: Sylvia Plath
+    gl: Sylvia Plath
+    he: סילביה פלאת'
+    hi: सिल्विया प्लाथ
+    hr: Sylvia Plath
+    hu: Sylvia Plath
+    hy: Սիլվիա Փլաթ
+    id: Sylvia Plath
+    ig: Sylvia Plath
+    ilo: Sylvia Plath
+    is: Sylvia Plath
+    it: Sylvia Plath
+    ja: シルヴィア・プラス
+    ka: სილვია პლათი
+    ko: 실비아 플래스
+    ku: Sylvia Plath
+    ku-arab: سیلڤا پلاته
+    ku-latn: Sylvia Plath
+    ky: Силвия Плат
+    la: Sylvia Plath
+    lt: Sylvia Plath
+    lv: Silvija Plāta
+    mk: Силвија Плат
+    ml: സിൽവിയ പ്ലാത്ത്
+    mul: Sylvia Plath
+    nan: Sylvia Plath
+    nb: Sylvia Plath
+    ne: सिल्भिया प्लाथ
+    nl: Sylvia Plath
+    nn: Sylvia Plath
+    pa: ਸਿਲਵੀਆ ਪਲਾਥ
+    pap: Sylvia Plath
+    pl: Sylvia Plath
+    pt: Sylvia Plath
+    pt-br: Sylvia Plath
+    ro: Sylvia Plath
+    ru: Сильвия Плат
+    sco: Sylvia Plath
+    sh: Sylvia Plath
+    sk: Sylvia Plathová
+    sl: Sylvia Plath
+    sq: Sylvia Plath
+    sr: Силвија Плат
+    sr-ec: Силвија Плат
+    sv: Sylvia Plath
+    sw: Sylvia Plath
+    ta: சில்வியா பிளாத்
+    te: సిల్వియా ప్లాత్
+    tg: Силвия Плат
+    tg-latn: Silvija Plat
+    th: ซิลเวีย แพลธ
+    tr: Sylvia Plath
+    uk: Сильвія Плат
+    ur: سلویا پلاتھ
+    uz: Sylvia Plath
+    vi: Sylvia Plath
+    war: Sylvia Plath
+    wuu: 西尔维娅·普拉斯
+    xmf: სილვია პლათი
+    yo: Sylvia Plath
+    yue: 普拉斯
+    zh: 希薇亞·普拉斯
+    zh-cn: 西尔维娅·普拉斯
+    zh-hans: 希薇亚·普拉斯
+    zh-hant: 希薇亞·普拉斯
+    zh-hk: 希薇亞·普拉斯
+    zh-sg: 西尔维娅·普拉斯
+    zh-tw: 希薇亞·普拉斯
 ---
-
 # [[Plath,Sylvia]] 
 
 ## #has_/text_of_/abstract 

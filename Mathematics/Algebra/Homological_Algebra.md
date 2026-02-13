@@ -1,14 +1,97 @@
 ---
 aliases:
+- algebra homologica
+- algebra homologiczna
+- algebra omologica
+- algebră omologică
+- algèbre homologique
+- Aljabar homologis
+- aljebra homologiko
+- homologalaš algebra
+- homologia algebro
+- homological algebra
+- homologická algebra
+- homologilâš algebra
+- homologinen algebra
+- homologische Algebra
+- Homologisk algebra
+- Homolojik cebir
+- homolooglaž algebra
+- homološka algebra
+- àlgebra homològica
+- álgebra homológica
+- Álxebra homológica
+- álxebra homolóxica
+- Ομολογική Άλγεβρα
+- гамалягічная альгебра
+- гомологічна алгебра
+- Гомологилле алгебра
+- гомологическая алгебра
+- хомолошка алгебра
+- אלגברה הומולוגית
+- جبر تماثلي
+- جبر همولوژی
+- ဟိုမိုလော်ဂျစ်ကယ် အက္ခရာသင်္ချာ
+- ホモロジー代数学
+- 同調代數
+- 同调代数
+- 호몰로지 대수학
 has_id_wikidata: Q579978
 part_of:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~algebraic_topology,212803]]"
-  - "[[_Standards/WikiData/WD~category_theory,217413]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~algebraic_topology,212803]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 Commons_category: Homological algebra
+dv_has_:
+  name_:
+    ar: جبر تماثلي
+    ast: Álxebra homológica
+    be-tarask: гамалягічная альгебра
+    ca: àlgebra homològica
+    cs: homologická algebra
+    cv: Гомологилле алгебра
+    da: Homologisk algebra
+    de: homologische Algebra
+    el: Ομολογική Άλγεβρα
+    en: homological algebra
+    en-ca: Homological algebra
+    en-gb: homological algebra
+    eo: homologia algebro
+    es: álgebra homológica
+    eu: aljebra homologiko
+    fa: جبر همولوژی
+    fi: homologinen algebra
+    fr: algèbre homologique
+    gl: álxebra homolóxica
+    he: אלגברה הומולוגית
+    id: Aljabar homologis
+    it: algebra omologica
+    ja: ホモロジー代数学
+    ko: 호몰로지 대수학
+    la: algebra homologica
+    mk: хомолошка алгебра
+    my: ဟိုမိုလော်ဂျစ်ကယ် အက္ခရာသင်္ချာ
+    nb: homologisk algebra
+    nl: homologische algebra
+    nn: homologisk algebra
+    pl: algebra homologiczna
+    pt: álgebra homológica
+    pt-br: álgebra homológica
+    ro: algebră omologică
+    ru: гомологическая алгебра
+    se: homologalaš algebra
+    sl: homološka algebra
+    smn: homologilâš algebra
+    sms: homolooglaž algebra
+    sr: Homološka algebra
+    sv: homologisk algebra
+    tr: Homolojik cebir
+    uk: гомологічна алгебра
+    wuu: 同调代数
+    yue: 同調代數
+    zh: 同調代數
 ---
-
 # [[Homological_Algebra]] 
 
 #is_/same_as :: [[WD~Homological_algebra,579978]] 

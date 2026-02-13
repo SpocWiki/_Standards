@@ -1,34 +1,211 @@
 ---
 aliases:
+- anlambilim
+- merkingarfræði
+- merkingarfrøði
+- ngữ nghĩa học
+- pomenoslovje
+- semantaght
+- semanteg
+- semantega
+- semantica
+- semantics
+- semantică
+- semantiek
+- semantihkka
+- semantiik
+- semantiikka
+- semantik
+- Semantik af Betjuudengsleere
+- semantika
+- semantike
+- semantiki
+- semantikk
+- semantiko
+- semantikë
+- semantyk
+- semantyka
+- semàntica
+- semántica
+- semântica
+- smuske
+- szemantika
+- sémantika
+- sémantique
+- tasnamka
+- ì-bī-lūn
+- σημασιολογία
+- маъношиносӣ
+- семантика
+- семантикась
+- семантикэ
+- семантыка
+- сэмантыка
+- իմաստաբանություն
+- סמנטיקה
+- ارتھ وگیان
+- الدلاليات
+- سمنتيک
+- علم المعانی
+- ماناپوهنه
+- معناشناسی
+- واتاناسی
+- अर्थविज्ञान
+- शब्दार्थशास्त्र
+- বাগর্থবিজ্ঞান
+- ਅਰਥ-ਵਿਗਿਆਨ
+- ଅର୍ଥ ବିଜ୍ଞାନ
+- சொற்பொருளியல்
+- పద అధ్యయన శాస్త్రం
+- അർത്ഥവിജ്ഞാനം
+- ශබ්දාර්ථ විද්යාව
+- อรรถศาสตร์
+- სემანტიკა
+- ᱢᱮᱱᱮᱛ ᱥᱟᱬᱮᱥ
+- 意味論
+- 語義學
+- 语义学
+- 의미론
 has_id_wikidata: Q39645
-is_the_study_of: "[[_Standards/WikiData/WD~meaning,183046]]"
+is_the_study_of: '[[_Standards/WikiData/WD~meaning,183046]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - "[[_Standards/WikiData/WD~semantics,796212]]"
-  - "[[_Standards/WikiData/WD~semantics,92789101]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~semantics,796212]]"
+- '[[_Standards/WikiData/WD~semantics,796212]]'
+- '[[_Standards/WikiData/WD~semantics,92789101]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~semantics,796212]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~language_subsystem,66745531]]"
-  - "[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Semantics,14449689]]"
-practiced_by: "[[_Standards/WikiData/WD~semanticist,123111556]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~language_subsystem,66745531]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Semantics,14449689]]'
+practiced_by: '[[_Standards/WikiData/WD~semanticist,123111556]]'
 part_of:
-  - "[[_Standards/WikiData/WD~linguistics,8162]]"
-  - "[[_Standards/WikiData/WD~semiotics,60195]]"
-subclass_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-OmegaWiki_Defined_Meaning: "414911"
-Dewey_Decimal_Classification: "401.43"
+- '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~semiotics,60195]]'
+subclass_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+OmegaWiki_Defined_Meaning: 414911
+Dewey_Decimal_Classification: 401.43
 PhilPapers_topic: semantics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Perubahan%20semantik%20pada%20bahasa%20Sunda%20Ciamis.png
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/semantics
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SEMANTIKA.html
 MeSH_tree_code: L01.559.598.745
 Commons_category: Semantics
+dv_has_:
+  name_:
+    af: semantiek
+    ar: الدلاليات
+    ast: semántica
+    az: semantika
+    ba: семантика
+    be: семантыка
+    be-tarask: сэмантыка
+    bg: семантика
+    bn: বাগর্থবিজ্ঞান
+    br: semantik
+    bs: semantika
+    ca: semàntica
+    ckb: واتاناسی
+    cs: sémantika
+    cv: семантика
+    cy: semanteg
+    da: semantik
+    de: Semantik
+    dtp: semantik
+    el: σημασιολογία
+    en: semantics
+    eo: semantiko
+    es: semántica
+    et: semantika
+    eu: semantika
+    fa: معناشناسی
+    fi: semantiikka
+    fo: merkingarfrøði
+    fr: sémantique
+    fy: semantyk
+    gl: semántica
+    gsw: Semantik
+    gv: semantaght
+    he: סמנטיקה
+    hi: अर्थविज्ञान
+    hr: semantika
+    ht: semantik
+    hu: szemantika
+    hy: իմաստաբանություն
+    ia: semantica
+    id: semantika
+    io: semantiko
+    is: merkingarfræði
+    it: semantica
+    ja: 意味論
+    jbo: smuske
+    jv: semantik
+    ka: სემანტიკა
+    kab: tasnamka
+    kk: семантика
+    ko: 의미론
+    ky: семантика
+    la: semantica
+    lfn: semantica
+    lmo: semantega
+    lt: semantika
+    lv: semantika
+    mdf: семантикась
+    min: Semantik
+    mk: семантика
+    ml: അർത്ഥവിജ്ഞാനം
+    mo: семантикэ
+    mr: शब्दार्थशास्त्र
+    ms: semantik
+    ms-arab: سمنتيک
+    nan: ì-bī-lūn
+    nb: semantikk
+    ne: अर्थविज्ञान
+    nl: semantiek
+    nn: semantikk
+    nov: semantike
+    or: ଅର୍ଥ ବିଜ୍ଞାନ
+    pa: ਅਰਥ-ਵਿਗਿਆਨ
+    pl: semantyka
+    pnb: ارتھ وگیان
+    ps: ماناپوهنه
+    pt: semântica
+    rm: semantica
+    ro: semantică
+    ru: семантика
+    sat: ᱢᱮᱱᱮᱛ ᱥᱟᱬᱮᱥ
+    sco: semantics
+    se: semantihkka
+    sh: semantika
+    sh-cyrl: семантика
+    si: ශබ්දාර්ථ විද්යාව
+    sk: sémantika
+    sl: pomenoslovje
+    smn: semantiik
+    sms: semantikk
+    sq: semantikë
+    sr: семантика
+    sr-ec: семантика
+    stq: Semantik af Betjuudengsleere
+    sv: semantik
+    sw: semantiki
+    ta: சொற்பொருளியல்
+    te: పద అధ్యయన శాస్త్రం
+    tg-cyrl: маъношиносӣ
+    th: อรรถศาสตร์
+    tl: semantika
+    tr: anlambilim
+    tt: семантика
+    uk: семантика
+    ur: علم المعانی
+    vi: ngữ nghĩa học
+    war: semantika
+    wuu: 语义学
+    yue: 語義學
+    zh: 語義學
 ---
-
 # [[Semantics]] 
 
 #is_/same_as :: [[WD~Semantics,39645]] 

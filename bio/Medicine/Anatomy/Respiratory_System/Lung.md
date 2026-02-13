@@ -1,42 +1,400 @@
 ---
 aliases:
-  - Lung
+- Ahrawa
+- akciğer
+- aqciger
+- Avokavoka
+- Ağciyər
+- Baga
+- Baga (anatomiya)
+- Bagâ
+- Bala
+- bala'
+- bara
+- Bayah
+- ba᷅̀̀᷆̄̄̀̀᷆̀́̀̀́gàf
+- Bhârâ
+- birika
+- Buffs
+- Bwt
+- Chuyma
+- Cigere
+- Fefrraa
+- fepri
+- Geahppát
+- Hi
+- Hié
+- Huhu
+- Hì
+- Hʋzʋʋ
+- Imiphunga
+- keuhkot
+- Kopsud
+- Kwitlapanyolotl
+- Lipúlúlú
+- long
+- Lueg
+- Lung
+- lunga
+- Lunge
+- lónge
+- Mahũri
+- Mapafu
+- Mapapu
+- Mushkëria
+- Opan
+- Oʻpka
+- palmon
+- Palmòṅ
+- paru-paru
+- Peparu
+- Peumon
+- phổi
+- Pişik
+- Plaučiai
+- plaušas
+- Plimunu
+- pljuča
+- Pluća
+- plíce
+- plămân
+- Polmon
+- polmone
+- poumon
+- Prumone
+- Pulmo
+- Pulmon
+- Pulmones
+- Pulmono
+- pulmun
+- pulmão
+- Pulmão humano
+- pulmó
+- pulmón
+- Purmuna
+- Puvak
+- Pľúca
+- płuca
+- płuco
+- S'ueb
+- Sambab
+- Sapuɣu
+- scamhóg
+- Sgamhan
+- Skevent
+- Surq'an
+- turin
+- Täü
+- tüdő
+- Yatevuso
+- ysgyfant
+- Ñe'ãvevúi
+- Öкпö
+- Πνεύμονας
+- бел дроб
+- Бял дроб
+- Гьутру
+- Гьуърул
+- Жигер
+- Лёгкія
+- лёгкие
+- легені
+- Оошг
+- Пехкаш
+- плућа
+- Тевеляв (мельке)
+- Тевлафне
+- Тыҥа
+- Уушги
+- Уушхан
+- Шоды
+- Шуш
+- үпкә
+- Өкпе
+- Өпкө
+- Ӳпке
+- թոքեր
+- לונג
+- ריאה
+- آغجییر
+- ئۆپكە
+- رئة
+- ريّة
+- رِيَة
+- سږي
+- سی
+- شش
+- شوٗش
+- پک
+- پھپھرے
+- پھیپھڑے
+- ڤارو٢
+- ڦڦڙ
+- ܪܐܬܐ
+- ފުއްޕާމޭ
+- ߖߐ߬ߝߐ
+- फुप्फुस
+- फुफ्फुस
+- फुफ्फुसः
+- फोक्सो
+- लुङ
+- ফুসফুস
+- হাঁওফাঁও
+- ਫੇਫੜਾ
+- ફેફસાં
+- நுரையீரல்
+- ఊపిరితిత్తులు
+- ಶ್ವಾಸಕೋಶ
+- ശ്വാസകോശം
+- ปอด
+- ປອດ
+- གློ་བ།
+- အဆုတ်
+- ფილტვები
+- ფიჟვი
+- ሳምባ
+- ᏗᏛᎵᏗᏍᏙᏗ
+- ᐅᐦᐸᐣ
+- ᡠᡶᡠᡥᡠ
+- 肺
+- 허파
 has_id_wikidata: Q7886
-anatomical_location: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
-arterial_supply: "[[_Standards/WikiData/WD~pulmonary_artery,206280]]"
+anatomical_location: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
+arterial_supply: '[[_Standards/WikiData/WD~pulmonary_artery,206280]]'
 Baidu_Tieba_name: 肺
 Commons_category: Lungs
 Commons_gallery: Lung
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~lung_development,14327711]]"
-different_from: "[[_Standards/WikiData/WD~pair_of_lungs,103998540]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~lung_development,14327711]]'
+different_from: '[[_Standards/WikiData/WD~pair_of_lungs,103998540]]'
 ground_level_360_degree_view_URL: https://www.zygotebody.com/#nav=-4.65,113.68,119.59,0,0,0,0&sel=p:;h:;s:1175,1177;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~pulmonary_lobe,7259536]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~pulmonary_lobe,7259536]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+- '[[_Standards/WikiData/WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 MeSH_tree_code: A04.411
 OmegaWiki_Defined_Meaning: 334158
-part_of: "[[_Standards/WikiData/WD~respiratory_system,7891]]"
+part_of: '[[_Standards/WikiData/WD~respiratory_system,7891]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Lunge.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~organ,712378]]"
-  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- '[[_Standards/WikiData/WD~organ,712378]]'
+- '[[_Standards/WikiData/WD~animal_organ,24060765]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: pulmones
 UMLS_CUI: C0024109
-Unicode_character: 🫁
+Unicode_character: "\U0001FAC1"
 U_S_National_Archives_Identifier: 10646920
-venous_drainage: "[[_Standards/WikiData/WD~pulmonary_vein,535352]]"
+venous_drainage: '[[_Standards/WikiData/WD~pulmonary_vein,535352]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
+dv_has_:
+  name_:
+    ace: S'ueb
+    aeb-arab: ريّة
+    af: Long
+    ak: Ahrawa
+    alt: Öкпö
+    am: ሳምባ
+    an: Pulmón
+    ar: رئة
+    arc: ܪܐܬܐ
+    arq: رِيَة
+    as: হাঁওফাঁও
+    ast: Pulmón
+    atj: Opan
+    av: Гьуърул
+    ay: Chuyma
+    az: Ağciyər
+    azb: آغجییر
+    ba: Үпкә
+    ban: Peparu
+    bcl: Bagâ
+    be: Лёгкія
+    be-tarask: лёгкія
+    bg: Бял дроб
+    bn: ফুসফুস
+    bo: གློ་བ།
+    br: Skevent
+    bs: Pluća
+    btm: Paru-Paru
+    bxr: Уушхан
+    ca: pulmó
+    cdo: Hié
+    ceb: Baga (anatomiya)
+    chr: ᏗᏛᎵᏗᏍᏙᏗ
+    ckb: سی
+    cr: ᐅᐦᐸᐣ
+    crh: aqciger
+    cs: plíce
+    cv: Ӳпке
+    cy: ysgyfant
+    da: lunge
+    dag: Sapuɣu
+    de: Lunge
+    de-ch: Lunge
+    diq: Cigere
+    dv: ފުއްޕާމޭ
+    el: Πνεύμονας
+    eml: Palmòṅ
+    en: lung
+    en-ca: Lung
+    en-gb: lung
+    eo: pulmo
+    es: pulmón
+    et: Kopsud
+    eu: birika
+    fa: شش
+    fi: keuhkot
+    fj: Yatevuso
+    fr: poumon
+    fy: long
+    ga: scamhóg
+    gcr: Poumon
+    gd: Sgamhan
+    gl: pulmón
+    gn: Ñe'ãvevúi
+    gsw: Lunge
+    gu: ફેફસાં
+    ha: Huhu
+    hak: Hi
+    he: ריאה
+    hi: फुप्फुस
+    hif: Fefrraa
+    hr: pluća
+    hsb: płuca
+    hu: tüdő
+    hy: թոքեր
+    hyw: Թոքեր
+    ia: Pulmones
+    id: paru-paru
+    ie: Pulmon
+    ik: Puvak
+    ilo: bara
+    inh: Пехкаш
+    io: Pulmono
+    is: Lunga
+    it: polmone
+    ja: 肺
+    jam: Long
+    jbo: fepri
+    jv: Paru-paru
+    ka: ფილტვები
+    kab: Turin
+    kbp: Hʋzʋʋ
+    ki: Mahũri
+    kk: Өкпе
+    kn: ಶ್ವಾಸಕೋಶ
+    ko: 허파
+    ks: شوٗش
+    ku: Pişik
+    ky: Өпкө
+    la: Pulmo
+    lb: Long
+    lbe: Гьутру
+    lez: Жигер
+    lfn: pulmon
+    li: lónge
+    ln: Lipúlúlú
+    lo: ປອດ
+    lt: Plaučiai
+    lv: plaušas
+    lzh: 肺
+    mad: Bhârâ
+    map-bms: Paru-paru
+    mcn: ba᷅̀̀᷆̄̄̀̀᷆̀́̀̀́gàf
+    mdf: Тевлафне
+    mg: Avokavoka
+    mk: бел дроб
+    ml: ശ്വാസകോശം
+    mn: Уушги
+    mnc: ᡠᡶᡠᡥᡠ
+    mr: फुफ्फुस
+    mrj: Шоды
+    ms: paru-paru
+    ms-arab: ڤارو٢
+    mt: pulmun
+    my: အဆုတ်
+    myv: Тевеляв (мельке)
+    mzn: پک
+    nah: Kwitlapanyolotl
+    nan: Hì
+    nb: lunge
+    nds: Lung
+    ne: फोक्सो
+    new: लुङ
+    nl: long
+    nn: lunge
+    nqo: ߖߐ߬ߝߐ
+    oc: palmon
+    pa: ਫੇਫੜਾ
+    pag: Bala
+    pam: Baga
+    pap: Pulmon
+    pl: płuco
+    pms: Polmon
+    pnb: پھپھرے
+    ps: سږي
+    pt: pulmão
+    pt-br: Pulmão humano
+    qu: Surq'an
+    ro: plămân
+    ru: лёгкие
+    rup: Plimunu
+    sa: फुफ्फुसः
+    sah: Тыҥа
+    sc: Prumone
+    scn: Purmuna
+    sco: Buffs
+    sd: ڦڦڙ
+    se: Geahppát
+    sh: Pluća
+    shi: turin
+    sk: Pľúca
+    sl: pljuča
+    sn: Mapapu
+    so: Sambab
+    sq: Mushkëria
+    sr: плућа
+    sr-ec: плућа
+    su: Bayah
+    sv: lunga
+    sw: Mapafu
+    szy: bala'
+    ta: நுரையீரல்
+    te: ఊపిరితిత్తులు
+    tg: Шуш
+    th: ปอด
+    tl: Baga
+    tr: akciğer
+    tt: үпкә
+    tt-cyrl: үпкә
+    ug: ئۆپكە
+    uk: легені
+    ur: پھیپھڑے
+    uz: Oʻpka
+    vec: Polmon
+    vi: phổi
+    vo: Lueg
+    vro: Täü
+    wa: Peumon
+    war: Baga
+    wuu: 肺
+    xal: Оошг
+    xh: Imiphunga
+    xmf: ფიჟვი
+    yi: לונג
+    yue: 肺
+    za: Bwt
+    zh: 肺
+    zh-cn: 肺
+    zh-hans: 肺
+    zh-hant: 肺
 ---
-
 # [[Lung]] 🫁 
 
 #is_/same_as :: [[../../../../WikiData/WD~Lung,7886|WD~Lung,7886]] 

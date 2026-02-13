@@ -1,57 +1,138 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]"
+  - '[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]"
-
-location: [ 64.779642, 14.760936 ] 
+- '[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]'
+location:
+- 64.779642
+- 14.760936
 aliases:
-  - Skandinavien
-  - Scandinavia
+- bertu'a
+- Críoch Lochlann
+- Escandinavia
+- Escandinàvia
+- Escandinávia
+- Escaundinavie
+- Eskandinabya
+- Eskandinavia
+- Iscandinàvia
+- Llychlyn
+- Lochlann
+- Loghlin
+- Scandinavia
+- Scandinavie
+- Scandinavië
+- Scandinoavië
+- Scandinàvia
+- Shimaliy Yawropa
+- Sikadinavia
+- Skandinaavia
+- Skandinaavje
+- Skandinaawien
+- Skandinafiyen
+- Skandinavia
+- Skandinavie
+- Skandinavien
+- Skandinavii
+- Skandinavija
+- Skandinavio
+- Skandinaviya
+- Skandinavía
+- Skandinawiska
+- Skandinawië
+- Skandinávia
+- Skandinávie
+- Skandināvija
+- Skandynawia
+- Skandînavya
+- Skundinavya
+- Sṳ̂-khâm-tit-nâ-vì-â
+- İskandinavya
+- Škandinávia
+- Σκανδιναβία
+- Скандинав
+- Скандинавія
+- Скандинави
+- Скандинавија
+- Скандинавий
+- Скандинавия
+- Скандынавія
+- Шкандінавія
+- Սկանդինավիա
+- סקאנדינאוויע
+- סקנדינביה
+- إسكندنافيا
+- اسكندنافيا
+- اسکاندیناوی
+- اسکینڈینیویا
+- اسڪينڊينيويا
+- ايسکانديناوي
+- ایسکاندیناوی
+- سکاندیناڤیا
+- سکینڈینیویا
+- شىمالىي ياۋروپا
+- स्कँडिनेव्हिया
+- स्कैण्डिनेवियाई देश
+- স্ক্যান্ডিনেভিয়া
+- ਸਕੈਂਡੀਨੇਵੀਆ
+- எசுக்காண்டினாவியா
+- స్కాండినేవియా
+- ಸ್ಕ್ಯಾಂಡಿನೇವಿಯ
+- ස්කැන්ඩිනේවියාව
+- สแกนดิเนเวีย
+- ສະກັງດີນາວີ
+- စကင်ဒီနေးဗီးယား
+- სკანდინავია
+- ስካንዲናቪያ
+- ស្កង់ឌីណាវី
+- スカンディナヴィア
+- 斯堪的納維亞
+- 斯堪的纳维亚
+- 스칸디나비아
 has_id_wikidata: Q21195
 instance_of: '[[_Standards/WikiData/WD~region,82794]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavian_Mountains,186547]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Scandinavia,568251]]'
 part_of: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q10728876,10728876]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Scandinavia,14204302]]'
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q25696234,25696234]]'
-  - '[[_Standards/WikiData/WD~Q25696259,25696259]]'
+- '[[_Standards/WikiData/WD~Q25696234,25696234]]'
+- '[[_Standards/WikiData/WD~Q25696259,25696259]]'
 located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~North_Sea,1693]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Norway,20]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
 country:
-  - '[[_Standards/WikiData/WD~Norway,20]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
 different_from: '[[_Standards/WikiData/WD~Nordic_countries,52062]]'
 coordinate_location: Point(14.760936 64.779642)
 BHCL_UUID:
-  - a3d1e5f4-c8e8-48ef-a3d5-18ba61854f33
-  - 3a15bf12-4bda-42ac-97d6-f3ff94d26d73
-  - f9f8aa29-4f72-48ce-b378-8c810c5c737d
+- a3d1e5f4-c8e8-48ef-a3d5-18ba61854f33
+- 3a15bf12-4bda-42ac-97d6-f3ff94d26d73
+- f9f8aa29-4f72-48ce-b378-8c810c5c737d
 Commons_category: Scandinavia
 PM20_geo_code: A14
 coordinates_of_westernmost_point: Point(4.638277777 61.042972222)
@@ -67,8 +148,164 @@ Commons_gallery: Skandinavia
 coordinates_of_northernmost_point: Point(20.35 80.83)
 coordinates_of_easternmost_point: Point(31.168194444 70.387527777)
 coordinates_of_southernmost_point: Point(11.969566111 54.55969)
+dv_has_:
+  name_:
+    af: Skandinawië
+    am: ስካንዲናቪያ
+    an: Escandinavia
+    ar: إسكندنافيا
+    arz: اسكندنافيا
+    ast: Escandinavia
+    az: Skandinaviya
+    azb: ایسکاندیناوی
+    ba: Скандинавия
+    bar: Skandinavien
+    be: Скандынавія
+    be-tarask: Скандынавія
+    bg: Скандинавия
+    bn: স্ক্যান্ডিনেভিয়া
+    br: Skandinavia
+    bs: Skandinavija
+    ca: Escandinàvia
+    ceb: Eskandinabya
+    ckb: سکاندیناڤیا
+    cs: Skandinávie
+    cv: Скандинави
+    cy: Llychlyn
+    da: Skandinavien
+    de: Skandinavien
+    de-ch: Skandinavien
+    diq: İskandinavya
+    dsb: Skandinawiska
+    el: Σκανδιναβία
+    en: Scandinavia
+    en-ca: Scandinavia
+    en-gb: Scandinavia
+    en-us: Scandinavia
+    eo: Skandinavio
+    es: Escandinavia
+    et: Skandinaavia
+    eu: Eskandinavia
+    fa: اسکاندیناوی
+    fi: Skandinavia
+    fj: Sikadinavia
+    fo: Skandinavia
+    fr: Scandinavie
+    frp: Scandinavie
+    frr: Skandinaawien
+    fur: Scandinavie
+    fy: Skandinaavje
+    ga: Críoch Lochlann
+    gd: Lochlann
+    gl: Escandinavia
+    glk: ايسکانديناوي
+    gsw: Skandinavie
+    gv: Loghlin
+    hak: Sṳ̂-khâm-tit-nâ-vì-â
+    he: סקנדינביה
+    hi: स्कैण्डिनेवियाई देश
+    hif: Scandinavia
+    hil: Eskandinabya
+    hr: Skandinavija
+    hsb: Skandinawiska
+    hu: Skandinávia
+    hy: Սկանդինավիա
+    ia: Scandinavia
+    id: Skandinavia
+    io: Skandinavia
+    is: Skandinavía
+    it: Scandinavia
+    ja: スカンディナヴィア
+    jbo: bertu'a
+    jv: Skandinavia
+    ka: სკანდინავია
+    kab: Skundinavya
+    kbp: Skandinavii
+    kk: Скандинавия
+    km: ស្កង់ឌីណាវី
+    kn: ಸ್ಕ್ಯಾಂಡಿನೇವಿಯ
+    knc: Scandinavia
+    ko: 스칸디나비아
+    ku: Skandînavya
+    la: Scandinavia
+    lb: Skandinavien
+    lfn: Scandinavia
+    li: Scandinavië
+    lmo: Scandinavia
+    lo: ສະກັງດີນາວີ
+    lt: Skandinavija
+    lv: Skandināvija
+    mg: Skandinavia
+    mhr: Скандинавий
+    min: Skandinavia
+    mk: Скандинавија
+    mn: Скандинав
+    mr: स्कँडिनेव्हिया
+    mrj: Скандинави
+    ms: Skandinavia
+    my: စကင်ဒီနေးဗီးယား
+    mzn: اسکاندیناوی
+    nan: Skandinavia
+    nb: Skandinavia
+    nds: Skandinavien
+    nds-nl: Skandinavie
+    nl: Scandinavië
+    nn: Skandinavia
+    nrm: Escaundinavie
+    oc: Escandinàvia
+    os: Скандинави
+    pa: ਸਕੈਂਡੀਨੇਵੀਆ
+    pap: Skandinavia
+    pl: Skandynawia
+    pnb: سکینڈینیویا
+    pt: Escandinávia
+    pt-br: Escandinávia
+    rm: Scandinavia
+    ro: Scandinavia
+    ru: Скандинавия
+    rue: Шкандінавія
+    sc: Iscandinàvia
+    scn: Scandinavia
+    sco: Scandinavie
+    sd: اسڪينڊينيويا
+    sh: Skandinavija
+    si: ස්කැන්ඩිනේවියාව
+    sk: Škandinávia
+    sl: Skandinavija
+    so: Skandinafiyen
+    sq: Skandinavia
+    sr: Скандинавија
+    sr-ec: Скандинавија
+    stq: Skandinavien
+    sv: Skandinavien
+    sw: Skandinavia
+    ta: எசுக்காண்டினாவியா
+    te: స్కాండినేవియా
+    th: สแกนดิเนเวีย
+    tl: Eskandinabya
+    tr: İskandinavya
+    tt: Скандинавия
+    ug: شىمالىي ياۋروپا
+    ug-arab: شىمالىي ياۋروپا
+    ug-latn: Shimaliy Yawropa
+    uk: Скандинавія
+    ur: اسکینڈینیویا
+    uz: Skandinaviya
+    vec: Scandinàvia
+    vep: Skandinavii
+    vi: Scandinavia
+    vls: Scandinoavië
+    vro: Skandinaavia
+    war: Eskandinabya
+    wuu: 斯堪的纳维亚
+    xmf: სკანდინავია
+    yi: סקאנדינאוויע
+    yue: 斯堪的納維亞
+    zh: 斯堪的纳维亚
+    zh-cn: 斯堪的纳维亚
+    zh-hans: 斯堪的纳维亚
+    zh-hant: 斯堪的纳维亚
 ---
-
 # [[Scandinavia]] 
 
 #is_/same_as :: [[WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]] 

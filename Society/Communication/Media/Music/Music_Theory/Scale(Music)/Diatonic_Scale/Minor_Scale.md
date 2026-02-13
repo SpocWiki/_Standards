@@ -1,8 +1,120 @@
 ---
 has_id_wikidata: Q184567
+dv_has_:
+  name_:
+    ar: سلم صغير
+    ast: Manera menor
+    be: Мінор
+    bg: Минор
+    ca: escala menor
+    ckb: پەیژەی بچووک
+    cs: mollová stupnice
+    da: mol
+    de: Moll
+    el: ελάσσονα κλίμακα
+    en: minor scale
+    eo: minora gamo
+    es: escala menor
+    et: minoor
+    eu: gama minor
+    fa: گام مینور
+    fi: molliasteikko
+    fr: gamme mineure
+    gl: Escala menor
+    he: סולם מינורי
+    hr: Mol
+    hu: moll hangsor
+    hy: Մինոր
+    id: Tangga nada minor
+    is: Moll
+    it: Scala minore
+    ja: 短音階
+    jv: Tangga nada minor
+    ka: მინორი
+    kk: Минор
+    kk-arab: مىينور
+    kk-cn: مىينور
+    kk-cyrl: Минор
+    kk-kz: Минор
+    kk-latn: Mïnor
+    kk-tr: Mïnor
+    ko: 단음계
+    ky: Минор
+    lv: Minors
+    ms: Skala minor
+    nb: moll
+    nl: mineur
+    nn: moll
+    oc: Mòde menor
+    pl: skala molowa
+    pt: escala menor
+    ru: минорная гамма
+    sh: Mol
+    sk: Molová stupnica
+    sl: molova lestvica
+    sms: mollceäkkõk
+    sr: Мол
+    sr-ec: Мол
+    sr-el: Mol
+    sv: Moll
+    th: บันไดเสียงไมเนอร์
+    tr: Minör Gam
+    uk: мінорна гама
+    vi: Âm giai Thứ tự nhiên
+    wuu: 小调
+    yue: 小調
+    zh: 小调
+    zh-cn: 小调
+    zh-hans: 小调
+    zh-hant: 小調
+    zh-hk: 小調
+    zh-sg: 小调
+    zh-tw: 小調
+aliases:
+- escala menor
+- gama minor
+- gamme mineure
+- Manera menor
+- mineur
+- minoor
+- minor scale
+- minora gamo
+- Minors
+- Minör Gam
+- mol
+- moll
+- moll hangsor
+- mollceäkkõk
+- molliasteikko
+- mollová stupnice
+- molova lestvica
+- Molová stupnica
+- Mïnor
+- Mòde menor
+- Scala minore
+- Skala minor
+- skala molowa
+- Tangga nada minor
+- Âm giai Thứ tự nhiên
+- ελάσσονα κλίμακα
+- Мінор
+- мінорна гама
+- Минор
+- минорная гамма
+- Мол
+- Մինոր
+- סולם מינורי
+- سلم صغير
+- مىينور
+- پەیژەی بچووک
+- گام مینور
+- บันไดเสียงไมเนอร์
+- მინორი
+- 小調
+- 小调
+- 短音階
+- 단음계
 ---
-
-
 # [[Minor_Scale]] 
 
 #is_/same_as :: [[WD~Minor,12827391]] 

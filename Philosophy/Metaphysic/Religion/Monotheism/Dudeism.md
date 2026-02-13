@@ -1,8 +1,29 @@
 ---
-has_time_started: 2005-01-01 
+has_time_started: 2005-01-01
 aliases:
+- Church of the Latter-Day Dude
+- Dudeegezh
+- Dudeism
+- Dudeisme
+- dudeismi
+- Dudeismo
+- Dudeismus
+- Dudeizam
+- Dudeizm
+- Dudeizmus
+- Dudeísmo
+- Dudeïsme
+- Dudizam
+- Дудаизм
+- דודאיזם
+- دودیسم
+- ড্যুডিজম
+- ลัทธิดู๊ด
+- デューディズム
+- 都得主义
+- 듀드주의
 has_id_wikidata: Q2671570
-instance_of: "[[_Standards/WikiData/WD~world_view,49447]]"
+instance_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 official_website: https://dudeism.com
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dudeism.svg
 subreddit: Dudeism
@@ -10,8 +31,33 @@ Commons_category: Dudeism
 nickname: Dudeism
 official_name: The Church of the Latter-Day Dude
 inception: 2005-01-01T00:00:00Z
+dv_has_:
+  name_:
+    as: ড্যুডিজম
+    az: Dudeizm
+    br: Dudeegezh
+    ca: Dudeisme
+    cs: Dudeismus
+    de: Church of the Latter-Day Dude
+    en: Dudeism
+    es: Dudeísmo
+    eu: Dudeismo
+    fa: دودیسم
+    fi: dudeismi
+    fr: Dudeisme
+    he: דודאיזם
+    hr: Dudeizam
+    id: Dudeisme
+    it: Dudeismo
+    ja: デューディズム
+    ko: 듀드주의
+    nl: Dudeïsme
+    ru: Дудаизм
+    sh: Dudizam
+    sk: Dudeizmus
+    th: ลัทธิดู๊ด
+    zh: 都得主义
 ---
-
 # [[Dudeism]] 
 
 #is_/same_as :: [[WD~Dudeism,2671570]]

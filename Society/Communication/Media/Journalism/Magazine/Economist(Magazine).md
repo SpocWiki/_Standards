@@ -1,49 +1,71 @@
 ---
-has_time_started: 1843-01-01 
+has_time_started: 1843-01-01
 aliases:
+- Gĭng-cá̤-hŏk-ìng
+- The Economist
+- Економист
+- Эканаміст
+- Экономист
+- האקונומיסט
+- ئێکۆنۆمیست
+- اکونومیست
+- اېکونومېسټ
+- دی اکنامسٹ
+- ذي إيكونوميست
+- इकॉनॉमिस्ट
+- द इकोनॉमिस्ट
+- দি ইকোনমিস্ট
+- தி எக்கொனொமிஸ்ட்
+- ദ ഇക്കണോമിസ്റ്റ്
+- ดิอีโคโนมิสต์
+- ეკონომისტი
+- エコノミスト
+- 經濟學人
+- 经济学人
+- 이코노미스트
 has_id_wikidata: Q180089
-founded_by: "[[_Standards/WikiData/WD~James_Wilson,94765]]"
-indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
-owned_by: "[[_Standards/WikiData/WD~The_Economist_Group,474153]]"
-publisher: "[[_Standards/WikiData/WD~The_Economist_Group,474153]]"
-genre: "[[_Standards/WikiData/WD~news_magazine,1684600]]"
+founded_by: '[[_Standards/WikiData/WD~James_Wilson,94765]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
+owned_by: '[[_Standards/WikiData/WD~The_Economist_Group,474153]]'
+publisher: '[[_Standards/WikiData/WD~The_Economist_Group,474153]]'
+genre: '[[_Standards/WikiData/WD~news_magazine,1684600]]'
 editor_in_chief:
-  - "[[_Standards/WikiData/WD~John_Micklethwait,6248692]]"
-  - "[[_Standards/WikiData/WD~Zanny_Minton_Beddoes,8066246]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65410432,65410432]]"
+- '[[_Standards/WikiData/WD~John_Micklethwait,6248692]]'
+- '[[_Standards/WikiData/WD~Zanny_Minton_Beddoes,8066246]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65410432,65410432]]'
 start_time: 1843-01-01T00:00:00Z
 inception: 1843-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
-industry: "[[_Standards/WikiData/WD~journalism,11030]]"
-place_of_publication: "[[_Standards/WikiData/WD~London,84]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
+industry: '[[_Standards/WikiData/WD~journalism,11030]]'
+place_of_publication: '[[_Standards/WikiData/WD~London,84]]'
+headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 publication_interval: 1
 quantity: 1300000
-instance_of: "[[_Standards/WikiData/WD~magazine,41298]]"
+instance_of: '[[_Standards/WikiData/WD~magazine,41298]]'
 social_media_followers:
-  - 3440000
-  - 27189534
+- 3440000
+- 27189534
 ISSN_L: 0013-0613
 ISSN:
-  - 0013-0613
-  - 1476-8860
+- 0013-0613
+- 1476-8860
 Commons_category: The Economist
 title: Economist
 work_available_at_URL:
-  - https://www.youtube.com/c/TheEconomist
-  - https://linkin.bio/the-economist
+- https://www.youtube.com/c/TheEconomist
+- https://linkin.bio/the-economist
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Economist.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Economist%20Cover%20%28Aug%201%2C%202020%29.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Economist%20Logo.svg
 official_website: https://www.economist.com/
-SUDOC_editions: "038700859"
-OCLC_number: "531780543"
+SUDOC_editions: 038700859
+OCLC_number: 531780543
 domain_name: economist.com
 Bluesky_handle: economist.com
 CODEN: EONOEH
@@ -55,8 +77,90 @@ Instagram_username: theeconomist
 GitHub_username: TheEconomist
 Facebook_username: TheEconomist
 X_Twitter_username: TheEconomist
+dv_has_:
+  name_:
+    af: The Economist
+    ar: ذي إيكونوميست
+    ast: The Economist
+    az: The Economist
+    azb: اکونومیست
+    ba: The Economist
+    be: Эканаміст
+    be-tarask: The Economist
+    bg: The Economist
+    bho: द इकोनॉमिस्ट
+    bn: দি ইকোনমিস্ট
+    ca: The Economist
+    cdo: Gĭng-cá̤-hŏk-ìng
+    ckb: ئێکۆنۆمیست
+    cs: The Economist
+    cy: The Economist
+    da: The Economist
+    de: The Economist
+    el: The Economist
+    en: The Economist
+    eo: The Economist
+    es: The Economist
+    et: The Economist
+    eu: The Economist
+    fa: اکونومیست
+    fi: The Economist
+    fr: The Economist
+    ga: The Economist
+    gl: The Economist
+    he: האקונומיסט
+    hi: इकॉनॉमिस्ट
+    hr: The Economist
+    hu: The Economist
+    hy: The Economist
+    id: The Economist
+    it: The Economist
+    ja: エコノミスト
+    ka: ეკონომისტი
+    ko: 이코노미스트
+    la: The Economist
+    lt: The Economist
+    lzh: 經濟學人
+    ml: ദ ഇക്കണോമിസ്റ്റ്
+    ms: The Economist
+    mul: The Economist
+    my: The Economist
+    nan: The Economist
+    nb: The Economist
+    nl: The Economist
+    nn: The Economist
+    pl: The Economist
+    ps: اېکونومېسټ
+    pt: The Economist
+    ro: The Economist
+    ru: Экономист
+    sah: The Economist
+    sco: The Economist
+    sh: The Economist
+    sl: The Economist
+    sq: The Economist
+    sr: Економист
+    sr-ec: The Economist
+    su: The Economist
+    sv: The Economist
+    ta: தி எக்கொனொமிஸ்ட்
+    th: ดิอีโคโนมิสต์
+    tr: The Economist
+    tt: The Economist
+    uk: The Economist
+    ur: دی اکنامسٹ
+    uz: The economist
+    vi: The Economist
+    wuu: 经济学人
+    yue: 經濟學人
+    zh: 经济学人
+    zh-cn: 经济学人
+    zh-hans: 经济学人
+    zh-hant: 經濟學人
+    zh-hk: 經濟學人
+    zh-sg: 经济学人
+    zh-tw: 經濟學人
 ---
-
 # [[Economist(Magazine)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_Economist,180089|WD~The_Economist,180089]]  

@@ -1,9 +1,39 @@
 ---
 aliases:
-  - Thermoproteota
-  - Crenarchaeota
+- Crenarchaeota
+- Thermoproteota
+- 热变形菌门
 title: Crenarchaeota
 has_id_wikidata: Q21447237
+dv_has_:
+  name_:
+    an: Thermoproteota
+    ast: Thermoproteota
+    ca: Thermoproteota
+    de: Thermoproteota
+    en: Thermoproteota
+    eo: Thermoproteota
+    es: Thermoproteota
+    eu: Thermoproteota
+    ext: Thermoproteota
+    fr: Thermoproteota
+    ga: Thermoproteota
+    gl: Thermoproteota
+    ia: Thermoproteota
+    ie: Thermoproteota
+    io: Thermoproteota
+    it: Thermoproteota
+    la: Thermoproteota
+    mul: Thermoproteota
+    nl: Thermoproteota
+    oc: Thermoproteota
+    pl: Thermoproteota
+    pt: Thermoproteota
+    pt-br: Thermoproteota
+    ru: Thermoproteota
+    sl: Thermoproteota
+    vo: Thermoproteota
+    zh: 热变形菌门
 ---
 # [[Thermoproteota]] 
 

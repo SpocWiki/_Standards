@@ -1,16 +1,162 @@
 ---
 aliases:
+- constant
+- constante
+- constantă
+- costante
+- Cunbhal
+- Cysonyn
+- daimi
+- divaren
+- Fasti
+- Functio constans
+- hằng số
+- Kisobadilika
+- Konstan
+- konstans
+- konstant
+- konstanta
+- konstante
+- Konstantja (matematikë)
+- konstanto
+- konstants lielums
+- konstánta
+- Konštanta
+- pamalagian
+- pemalar
+- sabit
+- staađâ
+- Støddfrøðiligir konstantar
+- tairiseach
+- Tiāⁿ-sò͘
+- vakio
+- Σταθερά (μαθηματικά)
+- Даими
+- канстанта
+- константа
+- Константтă
+- постоянная
+- Тогтн
+- яланлык
+- Հաստատուն
+- קבוע
+- ثابت
+- ثابت ریاضی
+- ثابت، داومداره
+- مستقل
+- نەگۆڕ
+- ধ্রুবক
+- ধ্ৰুৱক
+- ਗਣਿਤਿਕ ਸਥਿਰਾਂਕ
+- અચલ
+- மாறிலி
+- അചരം
+- ค่าคงตัว
+- 定数
+- 常数
+- 常數
+- 상수
 has_id_wikidata: Q188248
 different_from:
-  - "[[_Standards/WikiData/WD~physical_constant,173227]]"
-  - "[[_Standards/WikiData/WD~Constante,253220]]"
-  - "[[_Standards/WikiData/WD~constant,1284190]]"
-subclass_of: "[[_Standards/WikiData/WD~operand,719375]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~nullary_operation,3884029]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-opposite_of: "[[_Standards/WikiData/WD~variable,50701]]"
+- '[[_Standards/WikiData/WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~Constante,253220]]'
+- '[[_Standards/WikiData/WD~constant,1284190]]'
+subclass_of: '[[_Standards/WikiData/WD~operand,719375]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nullary_operation,3884029]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+opposite_of: '[[_Standards/WikiData/WD~variable,50701]]'
+dv_has_:
+  name_:
+    af: Konstante
+    ar: ثابت
+    as: ধ্ৰুৱক
+    ast: constante
+    az: daimi
+    ba: Даими
+    be: канстанта
+    be-tarask: канстанта
+    bg: Константа
+    bn: ধ্রুবক
+    ca: constant
+    ckb: نەگۆڕ
+    cs: konstanta
+    cv: Константтă
+    cy: Cysonyn
+    da: Konstant
+    de: Konstante
+    el: Σταθερά (μαθηματικά)
+    en: constant
+    eo: konstanto
+    es: constante
+    et: konstant
+    eu: konstante
+    fa: ثابت ریاضی
+    fi: vakio
+    fo: Støddfrøðiligir konstantar
+    fr: constante
+    ga: tairiseach
+    gd: Cunbhal
+    gl: constante
+    gu: અચલ
+    he: קבוע
+    hr: Konstanta
+    ht: Konstan
+    hu: konstans
+    hy: Հաստատուն
+    id: konstanta
+    is: Fasti
+    it: costante
+    ja: 定数
+    kk: константа
+    kk-latn: konstanta
+    ko: 상수
+    kw: divaren
+    la: Functio constans
+    lt: konstanta
+    lv: konstants lielums
+    mk: Константа
+    ml: അചരം
+    ms: pemalar
+    nan: Tiāⁿ-sò͘
+    nb: konstant
+    nl: constant
+    nn: konstant
+    pa: ਗਣਿਤਿਕ ਸਥਿਰਾਂਕ
+    ps: ثابت، داومداره
+    pt: constante
+    pt-br: constante
+    ro: constantă
+    ru: постоянная
+    se: konstánta
+    sk: Konštanta
+    sl: konstanta
+    smn: staađâ
+    sq: Konstantja (matematikë)
+    sr: константа
+    sr-ec: Константа
+    sr-el: Konstanta
+    sv: konstant
+    sw: Kisobadilika
+    ta: மாறிலி
+    th: ค่าคงตัว
+    tl: pamalagian
+    tr: sabit
+    tt: даими
+    udm: яланлык
+    uk: константа
+    ur: مستقل
+    uz: konstanta
+    vi: hằng số
+    xal: Тогтн
+    yue: 常數
+    zh: 常数
+    zh-cn: 常数
+    zh-hans: 常数
+    zh-hant: 常數
+    zh-hk: 常數
+    zh-sg: 常数
+    zh-tw: 常數
 ---
-
 # [[Constant]] 
 
 #is_/same_as :: [[../../WikiData/WD~Constant,188248|WD~Constant,188248]] 

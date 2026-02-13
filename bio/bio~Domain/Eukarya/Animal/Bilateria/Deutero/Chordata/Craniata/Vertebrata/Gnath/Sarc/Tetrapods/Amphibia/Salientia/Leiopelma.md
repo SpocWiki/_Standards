@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Leiopelma
+- Leiopelma
+- гладконоги жаби
+- Ліопельма
+- Лейопельмы
+- Лиопельма
+- ムカシガエル属
+- 滑跖蟾属
 title: Leiopelma
 has_id_wikidata: Q1976453
+dv_has_:
+  name_:
+    an: Leiopelma
+    ast: Leiopelma
+    bg: гладконоги жаби
+    ca: Leiopelma
+    ceb: Leiopelma
+    cs: leiopelma
+    de: Leiopelma
+    en: Leiopelma
+    eo: Leiopelma
+    es: Leiopelma
+    eu: Leiopelma
+    ext: Leiopelma
+    fi: Leiopelma
+    fr: Leiopelma
+    ga: Leiopelma
+    gl: Leiopelma
+    hu: Leiopelma
+    ia: Leiopelma
+    ie: Leiopelma
+    io: Leiopelma
+    it: Leiopelma
+    ja: ムカシガエル属
+    ky: Лиопельма
+    la: Leiopelma
+    mul: Leiopelma
+    nl: Leiopelma
+    oc: Leiopelma
+    pl: Leiopelma
+    pt: Leiopelma
+    pt-br: Leiopelma
+    ro: Leiopelma
+    ru: Лейопельмы
+    sq: Leiopelma
+    sv: Leiopelma
+    uk: Ліопельма
+    vi: Leiopelma
+    vo: Leiopelma
+    war: Leiopelma
+    zh: 滑跖蟾属
+    zh-cn: 滑跖蟾属
+    zh-hans: 滑跖蟾属
 ---
 # [[Leiopelma]] 
 

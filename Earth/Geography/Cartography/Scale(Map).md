@@ -1,44 +1,168 @@
 ---
 aliases:
+- Echèl kat jeyografik
+- escala
+- Escala (cartografía)
+- escala cartográfica
+- Eskala (kartografia)
+- kaartschaal
+- lépték
+- mapa skalo
+- Masshtab
+- Massstab
+- mastelis
+- Maßstab
+- merilo
+- mettkääʹvv
+- mierka mapy
+- mihttolávva
+- Miqyas
+- mittakaava
+- mittokaava
+- målestok
+- målestokk
+- mõõtkava
+- mērogs
+- měřítko mapy
+- Razmera
+- Razmjera
+- scala
+- scale
+- scară
+- skala
+- skala mapy
+- Skalo
+- Skeli
+- skeul
+- tỷ lệ bản đồ
+- échelle
+- ölçek
+- Κλίμακα χάρτη
+- масштаб
+- маштаб
+- Мащаб
+- мутуслэн масштабез
+- размера
+- Մասշտաբ
+- קנה מידה
+- مقياس رسم
+- مقیاس در نقشه
+- पैमाना (नक्शा)
+- मापक
+- স্কেল (মানচিত্র)
+- அளவுவிகிதம்
+- მასშტაბი
+- 比例尺
+- 比例尺 (地图)
+- 縮尺
+- 축척
 has_id_wikidata: Q193642
 has_use:
-  - "[[_Standards/WikiData/WD~globe,133792]]"
-  - "[[_Standards/WikiData/WD~cartographic_plan,366511]]"
-  - "[[_Standards/WikiData/WD~topographic_profile,1287293]]"
-  - "[[_Standards/WikiData/WD~map,4006]]"
+- '[[_Standards/WikiData/WD~globe,133792]]'
+- '[[_Standards/WikiData/WD~cartographic_plan,366511]]'
+- '[[_Standards/WikiData/WD~topographic_profile,1287293]]'
+- '[[_Standards/WikiData/WD~map,4006]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~scale,10858537]]"
-subclass_of: "[[_Standards/WikiData/WD~scale,10858537]]"
-different_from: "[[_Standards/WikiData/WD~zoom_level,127513458]]"
-part_of: "[[_Standards/WikiData/WD~cartography,42515]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~scale,10858537]]'
+subclass_of: '[[_Standards/WikiData/WD~scale,10858537]]'
+different_from: '[[_Standards/WikiData/WD~zoom_level,127513458]]'
+part_of: '[[_Standards/WikiData/WD~cartography,42515]]'
 Commons_category: Scales (ratio)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-ancient-map-1559.jpg
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Scale,193642]]"
-    - "[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]"
-    - "[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]"
-    - "[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]"
-    - "[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]"
-    - "[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]"
-    - "[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]"
-    - "[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]"
+  - '[[../../../WikiData/WD~Scale,193642]]'
+  - '[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]'
+  - '[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]'
+  - '[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]'
+  - '[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]'
+  - '[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]'
+  - '[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]'
+  - '[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Scale,193642]]"
-  - "[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]"
-  - "[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]"
-  - "[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]"
-  - "[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]"
-  - "[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]"
-  - "[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]"
-  - "[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]"
+- '[[../../../WikiData/WD~Scale,193642]]'
+- '[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]'
+- '[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]'
+- '[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]'
+- '[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]'
+- '[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]'
+- '[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]'
+- '[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]'
+dv_has_:
+  name_:
+    ar: مقياس رسم
+    az: Miqyas
+    be: маштаб
+    be-tarask: маштаб
+    bg: Мащаб
+    bho: पैमाना (नक्शा)
+    bn: স্কেল (মানচিত্র)
+    br: skeul
+    bs: Razmjera
+    ca: escala
+    cs: měřítko mapy
+    da: målestok
+    de: Maßstab
+    de-ch: Massstab
+    el: Κλίμακα χάρτη
+    en: scale
+    eo: mapa skalo
+    es: escala
+    et: mõõtkava
+    eu: Eskala (kartografia)
+    fa: مقیاس در نقشه
+    fi: mittakaava
+    fr: échelle
+    gl: Escala (cartografía)
+    he: קנה מידה
+    hi: मापक
+    ht: Echèl kat jeyografik
+    hu: lépték
+    hy: Մասշտաբ
+    id: Skala
+    io: Skalo
+    it: scala
+    ja: 縮尺
+    ka: მასშტაბი
+    kk: Масштаб
+    ko: 축척
+    ky: Масштаб
+    lt: mastelis
+    lv: mērogs
+    ms: Skala
+    nb: målestokk
+    nl: kaartschaal
+    nn: målestokk
+    pl: skala mapy
+    pt: escala cartográfica
+    ro: scară
+    ru: масштаб
+    sah: масштаб
+    se: mihttolávva
+    sk: mierka mapy
+    sl: merilo
+    smn: mittokaava
+    sms: mettkääʹvv
+    sr: размера
+    sr-ec: Размера
+    sr-el: Razmera
+    sv: skala
+    sw: Skeli
+    ta: அளவுவிகிதம்
+    tr: ölçek
+    udm: мутуслэн масштабез
+    uk: масштаб
+    uz: Masshtab
+    vi: tỷ lệ bản đồ
+    wuu: 比例尺 (地图)
+    yue: 比例尺
+    zh: 比例尺
 ---
-
 # [[Scale(Map)]] 
 
 #is_/same_as :: [[WD~Scale,193642]] 

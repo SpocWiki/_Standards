@@ -1,58 +1,190 @@
 ---
-has_time_started: 1812-01-01 
+has_time_started: 1812-01-01
 aliases:
-  - Cartridge
-  - round
-  - Patrone
-  - Cartridge(Firearm)
+- amunicja strzelecka
+- cartocciu
+- cartocha
+- cartouche
+- Cartridge
+- Cartridge(Firearm)
+- cartuccia
+- cartucho
+- Cartucia (arme da feu)
+- cartutx
+- cartuș
+- cartús
+- cetrisen
+- chhèng-chí
+- fishek
+- fişek
+- giliz
+- kartocho
+- kartouchenn
+- kartoĉo
+- kartutxo
+- metak
+- naboj
+- náboj
+- padrun
+- patron
+- patrona
+- Patrone
+- patroon
+- Patroun
+- patruuna
+- ramia
+- round
+- selongsong peluru
+- töltény
+- šovinys
+- φυσίγγιο
+- ботуруон
+- метак
+- набій
+- патрон
+- чаура
+- փամփուշտ
+- כדור
+- خرطوشة
+- فشنگ
+- کارتوس
+- कारतूस
+- কার্তুজ
+- வெடிபொதி
+- ತೋಟಾ
+- കാട്രിഡ്ജ്
+- ვაზნა
+- 子弹
+- 子彈
+- 実包
+- 彈
+- 탄약통
 has_id_wikidata: Q37144
 has_part_s_:
-  - '[[_Standards/WikiData/WD~bullet,174583]]'
-  - '[[_Standards/WikiData/WD~percussion_cap,614853]]'
-  - '[[_Standards/WikiData/WD~propellant,1364934]]'
-  - '[[_Standards/WikiData/WD~cartridge_case,3433892]]'
-  - '[[_Standards/WikiData/WD~primer,7243398]]'
-  - '[[_Standards/WikiData/WD~projectile,49393]]'
+- '[[_Standards/WikiData/WD~bullet,174583]]'
+- '[[_Standards/WikiData/WD~percussion_cap,614853]]'
+- '[[_Standards/WikiData/WD~propellant,1364934]]'
+- '[[_Standards/WikiData/WD~cartridge_case,3433892]]'
+- '[[_Standards/WikiData/WD~primer,7243398]]'
+- '[[_Standards/WikiData/WD~projectile,49393]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~bullet,174583]]'
-  - '[[_Standards/WikiData/WD~ammunition,185785]]'
-  - '[[_Standards/WikiData/WD~product,2424752]]'
-  - '[[_Standards/WikiData/WD~explosive_device,3054261]]'
+- '[[_Standards/WikiData/WD~bullet,174583]]'
+- '[[_Standards/WikiData/WD~ammunition,185785]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~explosive_device,3054261]]'
 model_item: '[[_Standards/WikiData/WD~centerfire_cartridge,190476]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Patron,344723]]'
-  - '[[_Standards/WikiData/WD~Cartridge,344956]]'
-  - '[[_Standards/WikiData/WD~Patrone,1675898]]'
+- '[[_Standards/WikiData/WD~Patron,344723]]'
+- '[[_Standards/WikiData/WD~Cartridge,344956]]'
+- '[[_Standards/WikiData/WD~Patrone,1675898]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Samuel_Pauly,546464]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_firearm_cartridge,6289330]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 properties_for_this_type:
-  - length
-  - diameter
-  - CIP data sheet
+- length
+- diameter
+- CIP data sheet
 OmegaWiki_Defined_Meaning: 509697
 inception: 1812-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cartridges%20comparison.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/02971691-n
-  - http://wordnet-rdf.princeton.edu/wn31/102965804-n
+- http://wordnet-rdf.princeton.edu/wn30/02971691-n
+- http://wordnet-rdf.princeton.edu/wn31/102965804-n
 Dewey_Decimal_Classification:
-  - 623.455
-  - 683.406
+- 623.455
+- 683.406
 P8189: 987007284726305171
 Commons_category: Ammunition cartridges
+dv_has_:
+  name_:
+    af: patroon
+    ar: خرطوشة
+    az: giliz
+    ba: патрон
+    be: патрон
+    be-tarask: патрон
+    bew: patron
+    bg: патрон
+    bn: কার্তুজ
+    br: kartouchenn
+    bs: metak
+    ca: cartutx
+    cs: náboj
+    cy: cetrisen
+    da: patron
+    de: Patrone
+    de-ch: Patrone
+    el: φυσίγγιο
+    en: cartridge
+    en-ca: cartridge
+    en-us: cartridge
+    eo: kartoĉo
+    es: cartucho
+    et: padrun
+    eu: kartutxo
+    fa: فشنگ
+    fi: patruuna
+    fr: cartouche
+    ga: cartús
+    gan: 子彈
+    gl: cartucho
+    he: כדור
+    hi: कारतूस
+    hr: metak
+    hu: töltény
+    hy: փամփուշտ
+    id: selongsong peluru
+    io: kartocho
+    it: cartuccia
+    ja: 実包
+    ka: ვაზნა
+    kn: ತೋಟಾ
+    ko: 탄약통
+    lb: Patroun
+    lt: šovinys
+    lv: patrona
+    lzh: 彈
+    mk: патрон
+    ml: കാട്രിഡ്ജ്
+    nan: chhèng-chí
+    nb: patron
+    nl: patroon
+    oc: cartocha
+    pl: amunicja strzelecka
+    pms: Cartucia (arme da feu)
+    pt: cartucho
+    pt-br: cartucho
+    ro: cartuș
+    ru: патрон
+    sah: ботуруон
+    scn: cartocciu
+    sk: náboj
+    sl: naboj
+    sq: fishek
+    sr: чаура
+    sr-ec: метак
+    sr-el: metak
+    sv: patron
+    sw: ramia
+    ta: வெடிபொதி
+    tr: fişek
+    uk: набій
+    ur: کارتوس
+    wuu: 子弹
+    yue: 子彈
+    zh: 子彈
+    zh-hans: 子弹
 ---
-
 # [[Cartridge(Firearm)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cartridge,37144|WD~Cartridge,37144]] 

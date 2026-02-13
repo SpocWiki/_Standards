@@ -1,8 +1,98 @@
 ---
 aliases:
-  - Computer hardware
-  - Computer_Hardware
-  - Computer Hardware
+- aparat təchizatı
+- aparataro
+- apparat ta’minoti
+- apparatus computatralis
+- bathar-cruaidh
+- bilgisayar donanımı
+- caledwedd
+- computer hairdware
+- Computer hardware
+- Computer_Hardware
+- crua-earraí ríomhaire
+- datora aparatūra
+- hard-varo
+- harduer
+- hardver
+- hardvér
+- hardwara
+- hardware
+- hardware de computador
+- hardwer ng kompyuter
+- hişkalav
+- I-computer hardware
+- jabajjii kedeedaa
+- kompyuter apparatlıq támiynatı
+- kompyuter hardware
+- kòmpùtrowô hard-wôra
+- mabendé ma esálela
+- maquinari
+- maskinvara
+- maskinvare
+- matériel informatique
+- ngwaike kọmputa
+- perangkat keras
+- periant
+- perkakasan komputer
+- personal computer hardware
+- phần cứng
+- piranti kasar
+- računalno sklopovlje
+- rekenaarhardeware
+- riistvara
+- sinchi kaq
+- soporte físicu
+- sprzęt komputerowy
+- strojna oprema
+- taputapu rorohiko
+- tarabidau fisico
+- techninė įranga
+- tietokonelaitteisto
+- tólbúnaður
+- vélbúnaður
+- υλικό υπολογιστών
+- апаратнае забеспячэнне
+- апаратнае забесьпячэньне
+- апаратне забезпечення
+- аппарат вораҥдыш
+- аппаратное обеспечение
+- гардвер
+- компьютерийн техник хангамж
+- компьютерлік жабдықтама
+- компютърен хардуер
+- машинска опрема
+- санак тәэминаты
+- сахтафзори роёна
+- хардвер
+- սարքային ապահովում
+- הארטווארג
+- חומרה
+- بیلگیسایار دونانیمی
+- د کمپیوټر سختغالی
+- سختافزار رایانه
+- شمارندی مصنع کثیف
+- عتاد الحاسوب
+- ڕەقامێر
+- कम्प्युटर हार्डवेर
+- हार्डवेयर
+- কম্পিউটার হার্ডওয়্যার
+- কম্পিউটাৰ হাৰ্ডৱেৰ
+- ਕੰਪਿਊਟਰ ਹਾਰਡਵੇਅਰ
+- કમ્પ્યુટર હાર્ડવેર
+- ହାର୍ଡୱେର
+- கணினி வன்பொருள்
+- కంప్యూటర్ హార్డ్ వేర్
+- കമ്പ്യൂട്ടർ ഹാർഡ് വെയർ
+- දෘඪාංග
+- ฮาร์ดแวร์คอมพิวเตอร์ส่วนบุคคล
+- ຮາດແວ
+- ကွန်ပျူတာ ဟတ်ဒ်ဝဲလ်
+- აპარატული უზრუნველყოფა
+- コンピューター・ハードウェア
+- 硬件
+- 硬體
+- 컴퓨터 하드웨어
 has_id_wikidata: Q3966
 Amazon_com_browse_node: 541966
 Baidu_Tieba_name: 硬件
@@ -19,25 +109,157 @@ OmegaWiki_Defined_Meaning: 396033
 opposite_of: '[[_Standards/WikiData/WD~software,7397]]'
 part_of: '[[_Standards/WikiData/WD~computer,68]]'
 properties_for_this_type:
-  - thermal design power
-  - connector
-  - manufacturer
+- thermal design power
+- connector
+- manufacturer
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
-  - '[[_Standards/WikiData/WD~electronic_device,2858615]]'
+- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
 subreddit: hardware
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_computer_hardware,5857050]]'
-  - '[[_Standards/WikiData/WD~Template_Basic_computer_components,6405082]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_computer_hardware,5857050]]'
+- '[[_Standards/WikiData/WD~Template_Basic_computer_components,6405082]]'
 Universal_Decimal_Classification: 004.3
 used_by:
-  - '[[_Standards/WikiData/WD~device_driver,1033951]]'
-  - '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~device_driver,1033951]]'
+- '[[_Standards/WikiData/WD~operating_system,9135]]'
 Wikidata_property:
-  - video system
-  - audio system
+- video system
+- audio system
+dv_has_:
+  name_:
+    af: rekenaarhardeware
+    an: tarabidau fisico
+    ar: عتاد الحاسوب
+    as: কম্পিউটাৰ হাৰ্ডৱেৰ
+    ast: soporte físicu
+    az: aparat təchizatı
+    azb: بیلگیسایار دونانیمی
+    be: апаратнае забеспячэнне
+    be-tarask: апаратнае забесьпячэньне
+    bg: компютърен хардуер
+    bn: কম্পিউটার হার্ডওয়্যার
+    br: periant
+    bs: hardver
+    ca: maquinari
+    ckb: ڕەقامێر
+    cs: hardware
+    csb: kòmpùtrowô hard-wôra
+    cy: caledwedd
+    da: hardware
+    de: Hardware
+    de-ch: Hardware
+    el: υλικό υπολογιστών
+    en: computer hardware
+    en-ca: personal computer hardware
+    en-gb: personal computer hardware
+    eo: aparataro
+    es: hardware
+    et: riistvara
+    eu: hardware
+    fa: سختافزار رایانه
+    fi: tietokonelaitteisto
+    fo: tólbúnaður
+    fr: matériel informatique
+    frr: Hardware
+    fy: Hardware
+    ga: crua-earraí ríomhaire
+    gd: bathar-cruaidh
+    gl: hardware
+    gsw: Hardware
+    gu: કમ્પ્યુટર હાર્ડવેર
+    he: חומרה
+    hi: हार्डवेयर
+    hr: računalno sklopovlje
+    hsb: hardwara
+    hu: hardver
+    hy: սարքային ապահովում
+    ia: hardware
+    id: perangkat keras
+    ig: ngwaike kọmputa
+    ilo: hardware
+    io: hard-varo
+    is: vélbúnaður
+    it: hardware
+    ja: コンピューター・ハードウェア
+    jv: piranti kasar
+    ka: აპარატული უზრუნველყოფა
+    kaa: kompyuter apparatlıq támiynatı
+    kk: компьютерлік жабдықтама
+    ko: 컴퓨터 하드웨어
+    ku: hişkalav
+    la: apparatus computatralis
+    lb: Hardware
+    lij: hardware
+    ln: mabendé ma esálela
+    lo: ຮາດແວ
+    lt: techninė įranga
+    lv: datora aparatūra
+    mag: हार्डवेयर
+    mg: hardware
+    mhr: аппарат вораҥдыш
+    mi: taputapu rorohiko
+    mk: машинска опрема
+    ml: കമ്പ്യൂട്ടർ ഹാർഡ് വെയർ
+    mn: компьютерийн техник хангамж
+    ms: perkakasan komputer
+    mwl: hardware
+    my: ကွန်ပျူတာ ဟတ်ဒ်ဝဲလ်
+    nb: maskinvare
+    nds: Hardware
+    ne: कम्प्युटर हार्डवेर
+    new: हार्डवेयर
+    nl: hardware
+    nn: maskinvare
+    om: jabajjii kedeedaa
+    or: ହାର୍ଡୱେର
+    pa: ਕੰਪਿਊਟਰ ਹਾਰਡਵੇਅਰ
+    pl: sprzęt komputerowy
+    ps: د کمپیوټر سختغالی
+    pt: hardware de computador
+    pt-br: hardware de computador
+    qu: sinchi kaq
+    ro: hardware
+    ru: аппаратное обеспечение
+    rue: гардвер
+    scn: hardware
+    sco: computer hairdware
+    sg: Hardware
+    sh: hardver
+    si: දෘඪාංග
+    sk: hardvér
+    sl: strojna oprema
+    so: hardware
+    sq: harduer
+    sr: хардвер
+    sv: maskinvara
+    ta: கணினி வன்பொருள்
+    te: కంప్యూటర్ హార్డ్ వేర్
+    tg: сахтафзори роёна
+    th: ฮาร์ดแวร์คอมพิวเตอร์ส่วนบุคคล
+    tl: hardwer ng kompyuter
+    tr: bilgisayar donanımı
+    tt: санак тәэминаты
+    uk: апаратне забезпечення
+    ur: شمارندی مصنع کثیف
+    uz: apparat ta’minoti
+    vec: hardware
+    vi: phần cứng
+    war: kompyuter hardware
+    wuu: 硬件
+    xh: I-computer hardware
+    yi: הארטווארג
+    yue: 硬件
+    zh: 硬件
+    zh-cn: 硬件
+    zh-hans: 硬件
+    zh-hant: 硬體
+    zh-hk: 硬件
+    zh-mo: 硬件
+    zh-my: 硬件
+    zh-sg: 硬件
+    zh-tw: 硬體
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Computer hardware** includes the physical parts of a computer, such as the 

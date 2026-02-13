@@ -1,49 +1,206 @@
 ---
 aliases:
-  - Hängebrücke
-  - Suspension_Bridge
-  - Suspension Bridge
+- asma köprü
+- Asma körpü
+- cầu dây võng
+- droichead crochta
+- függőhíd
+- hangbrug
+- Hangbrügg
+- heaŋgášaldi
+- hengebro
+- hengebru
+- hengibrú
+- hingbrêge
+- hiäŋgušalde
+- hängbro
+- Hängebrücke
+- Hänkbrécken a Schréiseelbrécken
+- hængebro
+- jambatan gantung
+- jembatan gantung
+- Kabantis tiltas
+- most wiszący
+- Osma koʻprik
+- pendoponto
+- pod suspendat
+- Pons pendulus
+- pont grog
+- pont penjant
+- pont suspendu
+- Pont suspendut
+- ponte colgante
+- ponte pênsil
+- ponte sospendesto
+- ponte sospeso
+- puente colgante
+- riippusilta
+- rippsild
+- sorččaimostt
+- Suspension Bridge
+- suspension brig
+- Suspension_Bridge
+- Viseći most
+- viseči most
+- visutý most
+- wisaty móst
+- zubi eseki
+- Çакăнчăк кĕпер
+- κρεμαστή γέφυρα
+- Аспалы көпір
+- асылмалы күпер
+- Вісячы мост
+- висећи мост
+- висечки мост
+- висячий мост
+- Висящ мост
+- підвісний міст
+- կախովի կամուրջ
+- גשר תלוי
+- جسر معلق
+- پردی ھەڵواسراو
+- پل معلق
+- झूला पुल
+- झोलुङ्गे पुल
+- ঝুলন্ত সেতু
+- தொங்கு பாலம்
+- തൂക്കുപാലം
+- สะพานแขวน
+- ᡨᡠᡥᡝᠪᡠᡴᡠ ᡩᠣᠣᡥᠠᠨ
+- 吊橋
+- 悬索桥
+- 懸索橋
+- 현수교
 has_id_wikidata: Q12570
 different_from:
-  - "[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]"
-  - "[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]"
-  - "[[_Standards/WikiData/WD~drawbridge,23383]]"
-has_list: "[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]"
-instance_of: "[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]"
+- '[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]'
+- '[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]'
+- '[[_Standards/WikiData/WD~drawbridge,23383]]'
+has_list: '[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]'
+instance_of: '[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]'
 properties_for_this_type: has part(s)
-subclass_of: "[[_Standards/WikiData/WD~bridge,12280]]"
+subclass_of: '[[_Standards/WikiData/WD~bridge,12280]]'
 Nomenclature_for_Museum_Cataloging: 890
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Bridge-suspension.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pont%20y%20Borth%20%28Menai%20Suspension%20Bridge%29%20a%20godwyd%20gan%20Telford%2C%20rhwng%20Ynys%20Mon%20a%20Gwynedd%3B%20Mehefin%202023%2012.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20colored%20Rainbow%20Bridge%20at%20night.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/04366367-n
-  - http://wordnet-rdf.princeton.edu/wn31/104306549-n
+- http://wordnet-rdf.princeton.edu/wn30/04366367-n
+- http://wordnet-rdf.princeton.edu/wn31/104306549-n
 Iconclass_notation: 46C11211
 Commons_category: Suspension bridges
 OpenStreetMap_tag: bridge:structure=suspension
 Dewey_Decimal_Classification: 624.23
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]"
-    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]"
-    - "[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]"
-    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]"
-    - "[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]"
-    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]"
+  - '[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]"
-  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]"
-  - "[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]"
-  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]"
-  - "[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]"
-  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]"
+- '[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]'
+dv_has_:
+  name_:
+    af: hangbrug
+    ar: جسر معلق
+    ast: ponte colgante
+    az: Asma körpü
+    be: Вісячы мост
+    be-tarask: вісячы мост
+    bg: Висящ мост
+    bn: ঝুলন্ত সেতু
+    ca: pont penjant
+    ckb: پردی ھەڵواسراو
+    cs: visutý most
+    cv: Çакăнчăк кĕпер
+    cy: pont grog
+    da: hængebro
+    de: Hängebrücke
+    de-ch: Hängebrücke
+    el: κρεμαστή γέφυρα
+    en: suspension bridge
+    en-ca: Suspension bridge
+    en-gb: suspension bridge
+    eo: pendoponto
+    es: puente colgante
+    et: rippsild
+    eu: zubi eseki
+    fa: پل معلق
+    fi: riippusilta
+    fr: pont suspendu
+    fy: hingbrêge
+    ga: droichead crochta
+    gl: ponte colgante
+    he: גשר תלוי
+    hi: झूला पुल
+    hr: Viseći most
+    hsb: wisaty móst
+    hu: függőhíd
+    hy: կախովի կամուրջ
+    id: jembatan gantung
+    is: hengibrú
+    it: ponte sospeso
+    ja: 吊橋
+    kk: Аспалы көпір
+    ko: 현수교
+    la: Pons pendulus
+    lb: Hänkbrécken a Schréiseelbrécken
+    lt: Kabantis tiltas
+    mk: висечки мост
+    ml: തൂക്കുപാലം
+    mnc: ᡨᡠᡥᡝᠪᡠᡴᡠ ᡩᠣᠣᡥᠠᠨ
+    ms: jambatan gantung
+    nb: hengebro
+    nds: Hangbrügg
+    ne: झोलुङ्गे पुल
+    nl: hangbrug
+    nn: hengebru
+    oc: Pont suspendut
+    pl: most wiszący
+    pt: ponte pênsil
+    pt-br: ponte pênsil
+    ro: pod suspendat
+    ru: висячий мост
+    sco: suspension brig
+    se: heaŋgášaldi
+    sh: viseći most
+    sk: visutý most
+    sl: viseči most
+    smn: hiäŋgušalde
+    sms: sorččaimostt
+    sr: висећи мост
+    sv: hängbro
+    ta: தொங்கு பாலம்
+    th: สะพานแขวน
+    tr: asma köprü
+    tt: асылмалы күпер
+    uk: підвісний міст
+    uz: Osma koʻprik
+    vec: ponte sospendesto
+    vi: cầu dây võng
+    wuu: 悬索桥
+    yue: 懸索橋
+    zh: 懸索橋
+    zh-cn: 悬索桥
+    zh-hans: 悬索桥
+    zh-hant: 懸索橋
+    zh-hk: 懸索橋
+    zh-mo: 懸索橋
+    zh-my: 悬索桥
+    zh-sg: 悬索桥
+    zh-tw: 懸索橋
 ---
-
 # [[Suspension_Bridge]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]  

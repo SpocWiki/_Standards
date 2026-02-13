@@ -1,21 +1,105 @@
 ---
 aliases:
-  - state function, function of state, or point function
-  - State_Function
-  - State Function
+- Chōng-thài hâm-sò͘
+- egoera-funtzio
+- fonction d'état
+- funció d'estat
+- Función d'estáu
+- función de estado
+- functio stati
+- funcție de stare
+- fungsi keadaan
+- funkcija stanja
+- funkcja stanu
+- funzione di stato
+- função de estado
+- hal fonksiyonu
+- hàm trạng thái
+- Olekuparameetrid
+- State Function
+- state function, function of state, or point function
+- State_Function
+- stato-funkcio
+- stavová veličina
+- Termodinamik hal funksiyası
+- tilanfunktio
+- tillståndsstorhet
+- tilstandsfunksjon
+- toestandsfunctie
+- Zustandsgröße
+- állapotjelző
+- состојбена функција
+- термодинамическая функция состояния
+- функція стану
+- функција стања
+- функцыя стану
+- פונקציית מצב
+- تابع حالت
+- دالة حالة
+- فوڠسي کأداءن
+- நிலைச் சார்பு
+- 态函数
+- 状態量
+- 狀態函數
+- 상태 함수
 has_id_wikidata: Q230937
 part_of: '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
 opposite_of: '[[_Standards/WikiData/WD~process_function,900800]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916]]'
-  - '[[_Standards/WikiData/WD~state_variable,7603913]]'
+- '[[_Standards/WikiData/WD~intensive_or_extensive_property,911916]]'
+- '[[_Standards/WikiData/WD~state_variable,7603913]]'
 has_list: '[[_Standards/WikiData/WD~list_of_thermodynamic_properties,2660826]]'
 different_from: '[[_Standards/WikiData/WD~state_variable,115519162]]'
 studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 IEV_number: 113-04-09
 Commons_category: State functions
+dv_has_:
+  name_:
+    ar: دالة حالة
+    ast: Función d'estáu
+    az: Termodinamik hal funksiyası
+    be-tarask: функцыя стану
+    ca: funció d'estat
+    cs: stavová veličina
+    de: Zustandsgröße
+    en: state function
+    eo: stato-funkcio
+    es: función de estado
+    et: Olekuparameetrid
+    eu: egoera-funtzio
+    fa: تابع حالت
+    fi: tilanfunktio
+    fr: fonction d'état
+    gl: función de estado
+    he: פונקציית מצב
+    hu: állapotjelző
+    it: funzione di stato
+    ja: 状態量
+    ko: 상태 함수
+    la: functio stati
+    mk: состојбена функција
+    ms: fungsi keadaan
+    ms-arab: فوڠسي کأداءن
+    nan: Chōng-thài hâm-sò͘
+    nb: tilstandsfunksjon
+    nl: toestandsfunctie
+    nn: tilstandsfunksjon
+    pl: funkcja stanu
+    pt: função de estado
+    ro: funcție de stare
+    ru: термодинамическая функция состояния
+    sk: stavová veličina
+    sl: funkcija stanja
+    sr: функција стања
+    sv: tillståndsstorhet
+    ta: நிலைச் சார்பு
+    tr: hal fonksiyonu
+    uk: функція стану
+    vi: hàm trạng thái
+    wuu: 态函数
+    yue: 狀態函數
+    zh: 态函数
 ---
-
 # [[State_Function]] 
 
 #is_/same_as :: [[../../../WikiData/WD~State_function,230937|WD~State_function,230937]]  

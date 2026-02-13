@@ -1,46 +1,92 @@
 ---
-has_time_started: 1910-01-01 
+has_time_started: 1910-01-01
 aliases:
-  - Dad
-  - Dadaism
-  - Dadaismus
-  - Dada
+- Dad
+- Dada
+- Dadachas
+- Dadaism
+- dadaisma
+- dadaisme
+- dadaismi
+- dadaismm
+- dadaismo
+- dadaisms
+- Dadaismu
+- Dadaismus
+- dadaissma
+- Dadaizam
+- dadaizem
+- dadaizm
+- dadaizmas
+- dadaizmi
+- dadaizmus
+- Dadajizm
+- dadaísmo
+- Dadaísmu
+- Dadaïsme
+- ντανταϊσμός
+- Дада
+- дадаізм
+- дадаїзм
+- дадаизам
+- дадаизм
+- Дадаизъм
+- դադաիզմ
+- דאדא
+- دادا
+- دادائيت
+- دادائیسم
+- دادية
+- ڈاڈا
+- डाडावाद
+- ডাডা
+- ਡਾਡਾ
+- ஆடுகுதிரைவாதம்
+- డాడాయిజం
+- ദാദായിസം
+- ดาดา
+- ဒါဒါဝါဒ
+- დადაიზმი
+- ダダイスム
+- 达达主义
+- 達達主義
+- 다다이즘
 has_id_wikidata: Q6034
 inception: 1910-01-01T00:00:00Z
 significant_person:
-  - '[[_Standards/WikiData/WD~Johannes_Baader,67897]]'
-  - '[[_Standards/WikiData/WD~Hugo_Ball,70989]]'
-  - '[[_Standards/WikiData/WD~Emmy_Hennings,76815]]'
-  - '[[_Standards/WikiData/WD~Richard_Huelsenbeck,76853]]'
-  - '[[_Standards/WikiData/WD~Raoul_Hausmann,84503]]'
-  - '[[_Standards/WikiData/WD~George_Grosz,107194]]'
-  - '[[_Standards/WikiData/WD~Jean_Arp,153739]]'
-  - '[[_Standards/WikiData/WD~Max_Ernst,154842]]'
-  - '[[_Standards/WikiData/WD~Kurt_Schwitters,155158]]'
-  - '[[_Standards/WikiData/WD~Francis_Picabia,157321]]'
-  - '[[_Standards/WikiData/WD~John_Heartfield,168671]]'
-  - '[[_Standards/WikiData/WD~Hans_Richter,213597]]'
-  - '[[_Standards/WikiData/WD~Sophie_Taeuber_Arp,254395]]'
-  - '[[_Standards/WikiData/WD~Elsa_von_Freytag_Loringhoven,442841]]'
-  - '[[_Standards/WikiData/WD~Beatrice_Wood,459378]]'
-  - '[[_Standards/WikiData/WD~Hannah_Höch,463411]]'
-  - '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
-  - '[[_Standards/WikiData/WD~Tristan_Tzara,16409]]'
-  - '[[_Standards/WikiData/WD~Man_Ray,46139]]'
+- '[[_Standards/WikiData/WD~Johannes_Baader,67897]]'
+- '[[_Standards/WikiData/WD~Hugo_Ball,70989]]'
+- '[[_Standards/WikiData/WD~Emmy_Hennings,76815]]'
+- '[[_Standards/WikiData/WD~Richard_Huelsenbeck,76853]]'
+- '[[_Standards/WikiData/WD~Raoul_Hausmann,84503]]'
+- '[[_Standards/WikiData/WD~George_Grosz,107194]]'
+- '[[_Standards/WikiData/WD~Jean_Arp,153739]]'
+- '[[_Standards/WikiData/WD~Max_Ernst,154842]]'
+- '[[_Standards/WikiData/WD~Kurt_Schwitters,155158]]'
+- '[[_Standards/WikiData/WD~Francis_Picabia,157321]]'
+- '[[_Standards/WikiData/WD~John_Heartfield,168671]]'
+- '[[_Standards/WikiData/WD~Hans_Richter,213597]]'
+- '[[_Standards/WikiData/WD~Sophie_Taeuber_Arp,254395]]'
+- '[[_Standards/WikiData/WD~Elsa_von_Freytag_Loringhoven,442841]]'
+- '[[_Standards/WikiData/WD~Beatrice_Wood,459378]]'
+- '[[_Standards/WikiData/WD~Hannah_Höch,463411]]'
+- '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
+- '[[_Standards/WikiData/WD~Tristan_Tzara,16409]]'
+- '[[_Standards/WikiData/WD~Man_Ray,46139]]'
 subclass_of: '[[_Standards/WikiData/WD~avant_garde,102932]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~African_art,386302]]'
-  - '[[_Standards/WikiData/WD~anti_war_movement,794691]]'
-  - '[[_Standards/WikiData/WD~Ubu_roi,1215852]]'
-  - '[[_Standards/WikiData/WD~Parade,2051330]]'
-  - '[[_Standards/WikiData/WD~Cubism,42934]]'
+- '[[_Standards/WikiData/WD~African_art,386302]]'
+- '[[_Standards/WikiData/WD~anti_war_movement,794691]]'
+- '[[_Standards/WikiData/WD~Ubu_roi,1215852]]'
+- '[[_Standards/WikiData/WD~Parade,2051330]]'
+- '[[_Standards/WikiData/WD~Cubism,42934]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~anti_art,610106]]'
 different_from: '[[_Standards/WikiData/WD~Neo_Dada,935292]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-  - '[[_Standards/WikiData/WD~literary_movement,3326717]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~literary_movement,3326717]]'
 described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dada_and_Surrealism,117030536]]'
@@ -50,18 +96,123 @@ OmegaWiki_Defined_Meaning: 1387060
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DadaGroup-1921.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Dadaismo.wav
 described_at_URL:
-  - https://assets.moma.org/documents/moma_catalogue_2823_300061909.pdf
-  - https://library.achievingthedream.org/sacartappreciation/chapter/video-marcel-duchamp-fountain-1917/
-  - https://pubs.lib.uiowa.edu/dadasur/article/id/31897/
-  - https://www.oxfordartonline.com/page/dada-and-surrealism
-  - https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
+- https://assets.moma.org/documents/moma_catalogue_2823_300061909.pdf
+- https://library.achievingthedream.org/sacartappreciation/chapter/video-marcel-duchamp-fountain-1917/
+- https://pubs.lib.uiowa.edu/dadasur/article/id/31897/
+- https://www.oxfordartonline.com/page/dada-and-surrealism
+- https://www.thecollector.com/whats-the-difference-between-dadaism-and-surrealism/
 BHCL_UUID: 5737a9cb-d1a8-4ddd-8593-8b34578597de
 Provenio_UUID: 5c678b09-d9f2-43d6-9c77-cb8954079818
 Dewey_Decimal_Classification: 759.0662
 Wolfram_Language_entity_code: Entity["Word", "dadaism"]
 Krugosvet_article: kultura_i_obrazovanie/literatura/DADAIZM.html
+dv_has_:
+  name_:
+    acm: دادية
+    af: Dadaïsme
+    ar: دادية
+    arz: دادا
+    ast: Dadaísmu
+    az: dadaizm
+    azb: دادائیسم
+    be: дадаізм
+    be-tarask: дадаізм
+    bg: Дадаизъм
+    bn: ডাডা
+    br: Dada
+    bs: Dadaizam
+    ca: dadaisme
+    cs: dadaismus
+    cy: Dada
+    da: dadaisme
+    de: Dadaismus
+    el: ντανταϊσμός
+    en: Dada
+    en-gb: Dada
+    eo: dadaismo
+    es: Dada
+    et: dadaism
+    eu: dadaismo
+    fa: دادائیسم
+    fi: dada
+    fr: Dada
+    fy: Dadaïsme
+    ga: Dadachas
+    gd: Dada
+    gl: dadaísmo
+    gsw: Dadaismus
+    he: דאדא
+    hi: डाडावाद
+    hr: dadaizam
+    hu: dadaizmus
+    hy: դադաիզմ
+    ia: dadaismo
+    id: dadaisme
+    io: dadaismo
+    is: dadaismi
+    it: dadaismo
+    ja: ダダイスム
+    jv: Dadaisme
+    ka: დადაიზმი
+    kk: Дадаизм
+    ko: 다다이즘
+    ku: Dadaizm
+    ky: Дадаизм
+    la: Dada
+    lt: dadaizmas
+    lv: dadaisms
+    mk: дадаизам
+    ml: ദാദായിസം
+    ms: Dadaisme
+    my: ဒါဒါဝါဒ
+    nan: Dada
+    nb: dadaisme
+    nl: Dada
+    nn: dadaisme
+    oc: dadaïsme
+    os: дадаизм
+    pa: ਡਾਡਾ
+    pcd: Dadaïsme
+    pl: dadaizm
+    pnb: ڈاڈا
+    pt: Dadaísmo
+    pt-br: Dadaísmo
+    rki: ဒါဒါဝါဒ
+    ro: Dada
+    ru: дадаизм
+    sc: Dadaismu
+    scn: Dadaismu
+    sd: دادائيت
+    se: dadaisma
+    sh: Dadaizam
+    sje: dadaissma
+    sk: dadaizmus
+    sl: dadaizem
+    sma: dadaisme
+    smj: dadaissma
+    smn: dadaism
+    sms: dadaismm
+    sq: dadaizmi
+    sr: дадаизам
+    sr-ec: Дада
+    sr-el: dadaizam
+    sv: dadaism
+    szl: Dadajizm
+    ta: ஆடுகுதிரைவாதம்
+    te: డాడాయిజం
+    th: ดาดา
+    tl: Dadaismo
+    tr: dadaizm
+    uk: дадаїзм
+    ur: ڈاڈا
+    uz: Dadaizm
+    vi: Dada
+    wuu: 达达主义
+    yue: 達達主義
+    zh: 達達主義
+    zh-hans: 达达主义
+    zh-hant: 達達主義
 ---
-
 # [[Dada]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dada,6034|WD~Dada,6034]] 

@@ -1,27 +1,121 @@
 ---
-has_time_started: 1946-01-01 
-location: [ 7.018055555 , 43.550833333 ] 
+has_time_started: 1946-01-01
+location:
+- 7.018055555
+- 43.550833333
 aliases:
-  - Cannes Film Festival
-  - Cannes_Film_Festival
+- Cannes elleekovefestivaal
+- Cannes filbmafestivála
+- Cannes Film Festival
+- Cannes Film Festivali
+- Cannes jieʹllikarttfestivaal
+- Cannes tɛtʋ taa silimaɣ ciŋgaayi
+- Cannes'i filmifestival
+- cannes-i fesztivál
+- Cannes-rolprentfees
+- Canneseko Zinemaldia
+- Cannesin elokuvajuhlat
+- Cannes_Film_Festival
+- Festenal Internacional de Cinèma de Canas
+- Festival de Cannes
+- Festival di Cannes
+- Festival Film Cannes
+- Festival Internacional de Cinema de Canes
+- Festival Internacional de Cinema de Cannes
+- Festival v Cannesu
+- Festival vu Cannes
+- Festivale di u Sinemà di Cannes
+- Festivali i Filmit në Kanë
+- Festivalo de Cannes
+- Festivalul Internațional de Film de la Cannes
+- Festiwal filmowy w Cannes
+- Festum Canuae
+- Festîvala Fîlman a Cannesê
+- Film-festo di Cannes
+- Filmfestival van Cannes
+- Filmfestivalen i Cannes
+- Filmfestspiele von Cannes
+- Filmový festival v Cannes
+- Filmski festival u Cannesu
+- Filmski festival u Kanu
+- Fèstival ad Cannes
+- Fèstival Ntirnazziunali di Cannes
+- Féile Scannánaíochta Cannes
+- Gool Fylm Cannes
+- Gouel Canas
+- Gŵyl Ffilm Cannes
+- Kann kinofestivalı
+- Kannu kinofestivāls
+- Kanski filmski festival
+- Kanu kėna pastīvalis
+- Kanų kino festivalis
+- Kvikmyndahátíðin í Cannes
+- Liên hoan phim Cannes
+- Pesta Filem Cannes
+- Pista ng Pelikula sa Cannes
+- Tamasha la Filamu la Cannes
+- Ynternasjonaal Filmfestival fan Cannes
+- Φεστιβάλ Κινηματογράφου των Καννών
+- Кан
+- Канн кинофестивале
+- Канн кинофестивалы
+- Канн кинофестивалӗ
+- Канн фестивалі
+- Канн фестивале
+- Каннский кинофестиваль
+- Каннський кінофестиваль
+- Канны кино наадам
+- Канскі кінафестываль
+- Канскі кінафэстываль
+- Кански филмски фестивал
+- Կաննի կինոփառատոն
+- פסטיבל הקולנוע בקאן
+- קאן פילם-פעסטיוואל
+- جشنواره فیلم کن
+- فێستیڤاڵی فیلمی کان
+- مهرجان كان
+- مهرجان كان السينمائي
+- کان فلم فیسٹیول
+- کن فستیوال
+- گانا خەلقئارا كىنو فېستىۋالى
+- कान चित्रपट महोत्सव
+- कान फ़िल्मोत्सव
+- कान फिलिम फेस्टिवल
+- কান চলচ্চিত্র উৎসব
+- ਕਾਨ ਫ਼ਿਲਮ ਫੈਸਟੀਵਲ
+- கான் திரைப்பட விழா
+- కేన్స్ ఫిలిం ఫెస్టివల్
+- ಕ್ಯಾನ್ ಚಲನಚಿತ್ರೋತ್ಸವ
+- കാൻ ചലച്ചിത്രോത്സവം
+- เทศกาลภาพยนตร์กาน
+- ເທສະການຮູບເງົາຄານ
+- ကန်း(န်) ရုပ်ရှင်ပွဲတော်
+- კანის კინოფესტივალი
+- კანიშ კინოფესტივალი
+- មហោស្រពភាពយន្តទីក្រុងកាន
+- カンヌ国際映画祭
+- 坎城影展
+- 康城影展
+- 戛纳电影节
+- 칸 영화제
 has_id_wikidata: Q42369
 archives_at: '[[_Standards/WikiData/WD~Cinémathèque_Française,174274]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Critics'_Week,374895]]"
-  - '[[_Standards/WikiData/WD~Cinéfondation,657195]]'
-  - "[[_Standards/WikiData/WD~Directors'_Fortnight,838403]]"
-  - '[[_Standards/WikiData/WD~Un_Certain_Regard,1071326]]'
-  - '[[_Standards/WikiData/WD~Cannes_Classics,2936410]]'
-  - '[[_Standards/WikiData/WD~Cinéma_de_la_Plage,111979696]]'
+- "[[_Standards/WikiData/WD~Critics'_Week,374895]]"
+- '[[_Standards/WikiData/WD~Cinéfondation,657195]]'
+- "[[_Standards/WikiData/WD~Directors'_Fortnight,838403]]"
+- '[[_Standards/WikiData/WD~Un_Certain_Regard,1071326]]'
+- '[[_Standards/WikiData/WD~Cannes_Classics,2936410]]'
+- '[[_Standards/WikiData/WD~Cinéma_de_la_Plage,111979696]]'
 founded_by: '[[_Standards/WikiData/WD~Jean_Zay,713487]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~event,1656682]]'
-  - '[[_Standards/WikiData/WD~annual_film_festival,123980018]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~event,1656682]]'
+- '[[_Standards/WikiData/WD~annual_film_festival,123980018]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 uses:
-  - '[[_Standards/WikiData/WD~Palais_des_Festivals_et_des_Congrès,1885327]]'
-  - '[[_Standards/WikiData/WD~Municipal_Casino_of_Cannes,28952558]]'
-  - '[[_Standards/WikiData/WD~Palais_des_Festivals,69885169]]'
+- '[[_Standards/WikiData/WD~Palais_des_Festivals_et_des_Congrès,1885327]]'
+- '[[_Standards/WikiData/WD~Municipal_Casino_of_Cannes,28952558]]'
+- '[[_Standards/WikiData/WD~Palais_des_Festivals,69885169]]'
 chairperson: '[[_Standards/WikiData/WD~Iris_Knobloch,111351141]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q119981197,119981197]]'
 coordinate_location: Point(7.018055555 43.550833333)
@@ -29,8 +123,8 @@ month_of_the_year: '[[_Standards/WikiData/WD~May,119]]'
 country: '[[_Standards/WikiData/WD~France,142]]'
 event_interval: 1
 social_media_followers:
-  - 192000
-  - 523027
+- 192000
+- 523027
 locations: '[[_Standards/WikiData/WD~Cannes,39984]]'
 Private_Enterprise_Number: 61495
 official_website: https://www.festival-cannes.com
@@ -48,8 +142,128 @@ TikTok_username: festivaldecannes
 Facebook_username: festivaldecannes
 Instagram_username: festivaldecannes
 Tumblr_username: festivaldecannesofficiel
+dv_has_:
+  name_:
+    acm: مهرجان كان السينمائي
+    af: Cannes-rolprentfees
+    ar: مهرجان كان السينمائي
+    arz: مهرجان كان
+    ast: Festival de Cannes
+    az: Kann kinofestivalı
+    ba: Канн кинофестивале
+    be: Канскі кінафестываль
+    be-tarask: Канскі кінафэстываль
+    bg: Кан
+    bho: कान फिलिम फेस्टिवल
+    bn: কান চলচ্চিত্র উৎসব
+    br: Gouel Canas
+    bs: Kanski filmski festival
+    ca: Festival Internacional de Cinema de Canes
+    ckb: فێستیڤاڵی فیلمی کان
+    co: Festivale di u Sinemà di Cannes
+    cs: Filmový festival v Cannes
+    cv: Канн кинофестивалӗ
+    cy: Gŵyl Ffilm Cannes
+    da: Filmfestivalen i Cannes
+    de: Filmfestspiele von Cannes
+    el: Φεστιβάλ Κινηματογράφου των Καννών
+    eml: Fèstival ad Cannes
+    en: Cannes Film Festival
+    eo: Festivalo de Cannes
+    es: Festival de Cannes
+    et: Cannes'i filmifestival
+    eu: Canneseko Zinemaldia
+    fa: جشنواره فیلم کن
+    fi: Cannesin elokuvajuhlat
+    fr: Festival de Cannes
+    fy: Ynternasjonaal Filmfestival fan Cannes
+    ga: Féile Scannánaíochta Cannes
+    gl: Festival Internacional de Cinema de Cannes
+    haw: Festival de Cannes
+    he: פסטיבל הקולנוע בקאן
+    hi: कान फ़िल्मोत्सव
+    hr: Filmski festival u Cannesu
+    hu: cannes-i fesztivál
+    hy: Կաննի կինոփառատոն
+    id: Festival Film Cannes
+    ig: Cannes Film Festival
+    io: Film-festo di Cannes
+    is: Kvikmyndahátíðin í Cannes
+    it: Festival di Cannes
+    ja: カンヌ国際映画祭
+    jv: Festival Film Cannes
+    ka: კანის კინოფესტივალი
+    kbp: Cannes tɛtʋ taa silimaɣ ciŋgaayi
+    kk: Канн фестивалі
+    km: មហោស្រពភាពយន្តទីក្រុងកាន
+    kn: ಕ್ಯಾನ್ ಚಲನಚಿತ್ರೋತ್ಸವ
+    ko: 칸 영화제
+    ku: Festîvala Fîlman a Cannesê
+    kw: Gool Fylm Cannes
+    ky: Канн кинофестивалы
+    la: Festum Canuae
+    lb: Festival vu Cannes
+    lmo: Festival de Cannes
+    lo: ເທສະການຮູບເງົາຄານ
+    lt: Kanų kino festivalis
+    lv: Kannu kinofestivāls
+    mk: Кански филмски фестивал
+    ml: കാൻ ചലച്ചിത്രോത്സവം
+    mn: Канны кино наадам
+    mr: कान चित्रपट महोत्सव
+    ms: Pesta Filem Cannes
+    my: ကန်း(န်) ရုပ်ရှင်ပွဲတော်
+    mzn: کن فستیوال
+    nb: Filmfestivalen i Cannes
+    nl: Filmfestival van Cannes
+    nn: Filmfestivalen i Cannes
+    oc: Festenal Internacional de Cinèma de Canas
+    pa: ਕਾਨ ਫ਼ਿਲਮ ਫੈਸਟੀਵਲ
+    pl: Festiwal filmowy w Cannes
+    pt: Festival de Cannes
+    pt-br: Festival de Cannes
+    ro: Festivalul Internațional de Film de la Cannes
+    ru: Каннский кинофестиваль
+    scn: Fèstival Ntirnazziunali di Cannes
+    sco: Cannes Film Festival
+    se: Cannes filbmafestivála
+    sgs: Kanu kėna pastīvalis
+    sh: Filmski festival u Kanu
+    sk: Festival de Cannes
+    sl: Festival v Cannesu
+    smn: Cannes elleekovefestivaal
+    sms: Cannes jieʹllikarttfestivaal
+    sq: Festivali i Filmit në Kanë
+    sr: Кански филмски фестивал
+    sr-ec: Кански филмски фестивал
+    sv: Filmfestivalen i Cannes
+    sw: Tamasha la Filamu la Cannes
+    ta: கான் திரைப்பட விழா
+    te: కేన్స్ ఫిలిం ఫెస్టివల్
+    th: เทศกาลภาพยนตร์กาน
+    tl: Pista ng Pelikula sa Cannes
+    tr: Cannes Film Festivali
+    tt: Канн фестивале
+    ug: گانا خەلقئارا كىنو فېستىۋالى
+    uk: Каннський кінофестиваль
+    ur: کان فلم فیسٹیول
+    uz: Cannes film festivali
+    vec: Festival de Cannes
+    vi: Liên hoan phim Cannes
+    wuu: 戛纳电影节
+    xmf: კანიშ კინოფესტივალი
+    yi: קאן פילם-פעסטיוואל
+    yue: 康城影展
+    zh: 戛纳电影节
+    zh-cn: 戛纳电影节
+    zh-hans: 戛纳电影节
+    zh-hant: 坎城影展
+    zh-hk: 康城影展
+    zh-mo: 康城影展
+    zh-my: 康城影展
+    zh-sg: 康城影展
+    zh-tw: 坎城影展
 ---
-
 # [[Cannes_Film_Festival]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cannes_Film_Festival,42369|WD~Cannes_Film_Festival,42369]] 

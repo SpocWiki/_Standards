@@ -1,47 +1,87 @@
 ---
 aliases:
-  - Jorge Luis Borges
-  - Jorge_Luis_Borges
-  - Borges
-  - Jorge Francisco Isidoro Luis Borges Acevedo
-  - Borges,Jorge_Luis
-  - Borges,Jorge Luis
+- Borges
+- Borges,Jorge Luis
+- Borges,Jorge_Luis
+- Borhes Horhe Luis
+- Georgius Ludovicus Borges
+- Horhe Luis Borhes
+- Horhe Luiss Borhess
+- Jorge Francisco Isidoro Luis Borges Acevedo
+- Jorge Luis Borges
+- Jorge Luís Borges
+- Jorge_Luis_Borges
+- Xorxe Luis Borxes
+- xorxes.luis.borxes
+- Χόρχε Λουίς Μπόρχες
+- Борхес, Хорхе Луис
+- Хорхе Луіс Борхес
+- Хорхе Луїс Борхес
+- Хорхе Луис Борхес
+- Хорхэ Люіс Борхэс
+- Խորխե Լուիս Բորխես
+- חורחה לואיס בורחס
+- כארכע לויס בארכעס
+- جارج لوئی بورخیس
+- جارج لوئی بورگیس
+- جورج لويس بورجيز
+- جورج لیوس بورګېس
+- خورخه لوئیس بورخس
+- خورخه لوییس بورخس
+- خورخي لويس بورخيس
+- خۆرخێ لویس بۆرخێس
+- जर्ज लुइस बोर्जेस
+- होर्हे लुइस बोर्गेस
+- জৰ্জ লুইছ বৰ্গেছ
+- হোর্হে লুইস বোর্হেস
+- ਜਾਰਜ ਲੁਇਸ ਬੋਰਜੇਸ
+- ஹோர்ஹே லூயிஸ் போர்கெஸ்
+- జార్జ్ లూయిస్ బోర్గర్స్
+- ഹോർഹെ ലൂയി ബോർഹെ
+- ฆอร์เฆ ลุยส์ บอร์เฆส
+- ხორხე ლუის ბორხესი
+- ሖርሔ ልዊስ ቦርሔስ
+- ᱵᱚᱨᱜᱮᱥ, ᱡᱚᱨᱡᱽ ᱞᱩᱭᱤᱥ
+- ホルヘ・ルイス・ボルヘス
+- 博爾赫斯
+- 豪尔赫·路易斯·博尔赫斯
+- 호르헤 루이스 보르헤스
 has_id_wikidata: Q909
 archives_at:
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~Albert_and_Shirley_Small_Special_Collections_Library,15179080]]'
-  - '[[_Standards/WikiData/WD~Hesburgh_Libraries_Rare_Books_&_Special_Collections,108653830]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Albert_and_Shirley_Small_Special_Collections_Library,15179080]]'
+- '[[_Standards/WikiData/WD~Hesburgh_Libraries_Rare_Books_&_Special_Collections,108653830]]'
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/08%20JORGE%20LUIS%20BORGES.ogg
 award_received:
-  - '[[_Standards/WikiData/WD~Balzan_Prize,628457]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Falcon,1394282]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]'
-  - '[[_Standards/WikiData/WD~Military_Order_of_Saint_James_of_the_Sword,1515829]]'
-  - '[[_Standards/WikiData/WD~Civil_Order_of_Alfonso_X,_the_Wise,1551695]]'
-  - "[[_Standards/WikiData/WD~Order_of_Bernardo_O'Higgins,2300740]]"
-  - '[[_Standards/WikiData/WD~Prix_Formentor,3404594]]'
-  - '[[_Standards/WikiData/WD~World_Fantasy_Award_for_Life_Achievement,3625727]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Civil_Order_of_Alfonso_X_the_Wise,20884576]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Military_Order_of_Saint_James_of_the_Sword,20886692]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Falcon,22583262]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Sun_of_Peru,25746365]]'
-  - "[[_Standards/WikiData/WD~commander_of_the_Order_of_Bernardo_O'Higgins,43373437]]"
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Murcia,50625921]]'
-  - '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_the_Pontifical_Catholic_University_of_Peru,97446358]]'
-  - '[[_Standards/WikiData/WD~National_Book_Critics_Circle_Award_in_Criticism,109554377]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_British_Empire,14420]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Federal_Republic_of_Germany,21164]]'
+- '[[_Standards/WikiData/WD~Balzan_Prize,628457]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Falcon,1394282]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Sun_of_Peru,1415232]]'
+- '[[_Standards/WikiData/WD~Military_Order_of_Saint_James_of_the_Sword,1515829]]'
+- '[[_Standards/WikiData/WD~Civil_Order_of_Alfonso_X,_the_Wise,1551695]]'
+- "[[_Standards/WikiData/WD~Order_of_Bernardo_O'Higgins,2300740]]"
+- '[[_Standards/WikiData/WD~Prix_Formentor,3404594]]'
+- '[[_Standards/WikiData/WD~World_Fantasy_Award_for_Life_Achievement,3625727]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
+- '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Civil_Order_of_Alfonso_X_the_Wise,20884576]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Military_Order_of_Saint_James_of_the_Sword,20886692]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_the_Falcon,22583262]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Sun_of_Peru,25746365]]'
+- "[[_Standards/WikiData/WD~commander_of_the_Order_of_Bernardo_O'Higgins,43373437]]"
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_National_University_of_San_Marcos,49802084]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Murcia,50625921]]'
+- '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_Pontifical_Catholic_University_of_Peru,97446358]]'
+- '[[_Standards/WikiData/WD~National_Book_Critics_Circle_Award_in_Criticism,109554377]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~Order_of_the_British_Empire,14420]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Federal_Republic_of_Germany,21164]]'
 BHCL_UUID: 307b304e-c670-4baa-8bd7-d35fa23c3592
 birth_name: Jorge Francisco Isidoro Luis Borges Acevedo
 cause_of_death: '[[_Standards/WikiData/WD~liver_cancer,623031]]'
@@ -55,65 +95,65 @@ date_of_birth: 1899-08-24
 date_of_death: 1986-06-14
 depicted_by: '[[_Standards/WikiData/WD~The_Books_and_the_Night,33701838]]'
 described_at_URL:
-  - http://www.ubu.com/film/borges.html
-  - https://www.ubu.com/sound/borges.html
+- http://www.ubu.com/film/borges.html
+- https://www.ubu.com/sound/borges.html
 described_by_source:
-  - '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]'
-  - '[[_Standards/WikiData/WD~Q131401229,131401229]]'
+- '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]'
+- '[[_Standards/WikiData/WD~Q131401229,131401229]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at: '[[_Standards/WikiData/WD~Collège_Calvin,672022]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Buenos_Aires,194223]]'
-  - '[[_Standards/WikiData/WD~National_University_of_La_Plata,784171]]'
-  - '[[_Standards/WikiData/WD~Mariano_Moreno_National_Library,1319177]]'
+- '[[_Standards/WikiData/WD~University_of_Buenos_Aires,194223]]'
+- '[[_Standards/WikiData/WD~National_University_of_La_Plata,784171]]'
+- '[[_Standards/WikiData/WD~Mariano_Moreno_National_Library,1319177]]'
 Europeana_entity: agent/base/60054
 family_name: '[[_Standards/WikiData/WD~Borges,16739664]]'
 father: '[[_Standards/WikiData/WD~Jorge_Guillermo_Borges_Haslam,5935213]]'
 genre:
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Luis,2598693]]'
-  - '[[_Standards/WikiData/WD~Jorge,14346236]]'
+- '[[_Standards/WikiData/WD~Luis,2598693]]'
+- '[[_Standards/WikiData/WD~Jorge,14346236]]'
 Google_Doodle: 112th-birthday-of-jorge-luis-borges
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Luis%20Borges%201951%2C%20by%20Grete%20Stern.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tumba%20de%20Borges.JPG
 influenced_by:
-  - '[[_Standards/WikiData/WD~Hans_Vaihinger,76518]]'
-  - '[[_Standards/WikiData/WD~Joseph_Conrad,82925]]'
-  - '[[_Standards/WikiData/WD~Marcel_Schwob,472697]]'
-  - '[[_Standards/WikiData/WD~Macedonio_Fernández,1334326]]'
-  - '[[_Standards/WikiData/WD~Plato,859]]'
-  - '[[_Standards/WikiData/WD~Virgil,1398]]'
-  - '[[_Standards/WikiData/WD~Robert_Louis_Stevenson,1512]]'
-  - '[[_Standards/WikiData/WD~Homer,6691]]'
-  - '[[_Standards/WikiData/WD~James_Joyce,6882]]'
-  - '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867]]'
-  - '[[_Standards/WikiData/WD~Oscar_Wilde,30875]]'
-  - '[[_Standards/WikiData/WD~Rudyard_Kipling,34743]]'
-  - '[[_Standards/WikiData/WD~Lewis_Carroll,38082]]'
-  - '[[_Standards/WikiData/WD~H._G._Wells,42511]]'
+- '[[_Standards/WikiData/WD~Hans_Vaihinger,76518]]'
+- '[[_Standards/WikiData/WD~Joseph_Conrad,82925]]'
+- '[[_Standards/WikiData/WD~Marcel_Schwob,472697]]'
+- '[[_Standards/WikiData/WD~Macedonio_Fernández,1334326]]'
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Virgil,1398]]'
+- '[[_Standards/WikiData/WD~Robert_Louis_Stevenson,1512]]'
+- '[[_Standards/WikiData/WD~Homer,6691]]'
+- '[[_Standards/WikiData/WD~James_Joyce,6882]]'
+- '[[_Standards/WikiData/WD~Edgar_Allan_Poe,16867]]'
+- '[[_Standards/WikiData/WD~Oscar_Wilde,30875]]'
+- '[[_Standards/WikiData/WD~Rudyard_Kipling,34743]]'
+- '[[_Standards/WikiData/WD~Lewis_Carroll,38082]]'
+- '[[_Standards/WikiData/WD~H._G._Wells,42511]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000121429031
 Krugosvet_article: kultura_i_obrazovanie/literatura/BORHES_HORHE_LUIS.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: fcrtvmvz02f2qd8
 list_of_works: '[[_Standards/WikiData/WD~Jorge_Luis_Borges_bibliography,6278233]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
 mother: '[[_Standards/WikiData/WD~Leonor_Acevedo_Suárez,6526650]]'
 name_in_native_language: Jorge Luis Borges
 native_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
@@ -121,37 +161,196 @@ NLC_authorities: 000175496
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 notable_work: '[[_Standards/WikiData/WD~The_Library_of_Babel,473]]'
 occupation:
-  - '[[_Standards/WikiData/WD~librarian,182436]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~librarian,182436]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Adolfo_Bioy_Casares,298035]]'
 place_of_birth: '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
 place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_Kings,665815]]'
 place_of_death: '[[_Standards/WikiData/WD~Geneva,71]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%A0%20la%20m%C3%A9moire%20de%20Jorge%20Luis%20Borges%2C%2028%20Grand%20Rue%2C%20Gen%C3%A8ve.jpg
 pseudonym:
-  - H. Bustos Domecq
-  - B. Suarez Lynch
+- H. Bustos Domecq
+- B. Suarez Lynch
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Acevedo,21449237]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Norah_Borges,3343469]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Luis%20Borges%20firma.svg
 spouse:
-  - '[[_Standards/WikiData/WD~María_Kodama,448233]]'
-  - '[[_Standards/WikiData/WD~Elsa_Astete_Millán,5829999]]'
+- '[[_Standards/WikiData/WD~María_Kodama,448233]]'
+- '[[_Standards/WikiData/WD~Elsa_Astete_Millán,5829999]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Concepción_Guerrero,5655131]]'
 Wolfram_Language_entity_code: Entity["Concept", "Borges::f73z4"]
 writing_language:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+dv_has_:
+  name_:
+    af: Jorge Luis Borges
+    am: ሖርሔ ልዊስ ቦርሔስ
+    an: Jorge Luis Borges
+    ang: Jorge Luis Borges
+    ar: خورخي لويس بورخيس
+    ary: خورخي لويس بورخيس
+    arz: جورج لويس بورجيز
+    as: জৰ্জ লুইছ বৰ্গেছ
+    ast: Jorge Luis Borges
+    avk: Jorge Luis Borges
+    ay: Jorge Luis Borges
+    az: Xorxe Luis Borxes
+    azb: خورخه لوئیس بورخس
+    ba: Борхес, Хорхе Луис
+    bar: Jorge Luis Borges
+    be: Хорхе Луіс Борхес
+    be-tarask: Хорхэ Люіс Борхэс
+    bg: Хорхе Луис Борхес
+    bi: Jorge Luis Borges
+    bn: হোর্হে লুইস বোর্হেস
+    br: Jorge Luis Borges
+    bs: Jorge Luis Borges
+    btm: Jorge Luis Borges
+    bxr: Хорхе Луис Борхес
+    ca: Jorge Luis Borges
+    cdo: Jorge Luis Borges
+    ce: Борхес, Хорхе Луис
+    ckb: خۆرخێ لویس بۆرخێس
+    crh: Horhe Luis Borhes
+    cs: Jorge Luis Borges
+    cy: Jorge Luis Borges
+    da: Jorge Luis Borges
+    de: Jorge Luis Borges
+    de-ch: Jorge Luis Borges
+    diq: Jorge Luis Borges
+    el: Χόρχε Λουίς Μπόρχες
+    en: Jorge Luis Borges
+    en-ca: Jorge Luis Borges
+    en-gb: Jorge Luis Borges
+    en-us: Jorge Luis Borges
+    eo: Jorge Luis Borges
+    es: Jorge Luis Borges
+    et: Jorge Luis Borges
+    eu: Jorge Luis Borges
+    ext: Jorge Luis Borges
+    fa: خورخه لوئیس بورخس
+    fi: Jorge Luis Borges
+    fo: Jorge Luis Borges
+    fr: Jorge Luis Borges
+    frr: Jorge Luis Borges
+    fy: Jorge Luis Borges
+    ga: Jorge Luis Borges
+    gl: Jorge Luis Borges
+    gn: Jorge Luis Borges
+    gsw: Jorge Luis Borges
+    guw: Jorge Luis Borges
+    ha: Jorge Luis Borges
+    he: חורחה לואיס בורחס
+    hif: Jorge Luis Borges
+    hr: Jorge Luis Borges
+    hu: Jorge Luis Borges
+    hy: Խորխե Լուիս Բորխես
+    ia: Jorge Luis Borges
+    id: Jorge Luis Borges
+    ig: Jorge Luis Borges
+    ilo: Jorge Luis Borges
+    io: Jorge Luis Borges
+    is: Jorge Luis Borges
+    it: Jorge Luis Borges
+    ja: ホルヘ・ルイス・ボルヘス
+    jbo: xorxes.luis.borxes
+    ka: ხორხე ლუის ბორხესი
+    kaa: Jorge Luis Borges
+    kbd: Хорхе Луис Борхес
+    kbp: Jorge Luis Borges
+    kcg: Jorge Luis Borges
+    kk: Хорхе Луис Борхес
+    ko: 호르헤 루이스 보르헤스
+    ku: Jorge Luis Borges
+    kw: Jorge Luis Borges
+    la: Georgius Ludovicus Borges
+    lb: Jorge Luis Borges
+    li: Jorge Luis Borges
+    lij: Jorge Luis Borges
+    lmo: Jorge Luís Borges
+    ln: Jorge Luis Borges
+    lt: Jorge Luis Borges
+    lv: Horhe Luiss Borhess
+    mg: Jorge Luis Borges
+    mhr: Хорхе Луис Борхес
+    min: Jorge Luis Borges
+    mk: Хорхе Луис Борхес
+    ml: ഹോർഹെ ലൂയി ബോർഹെ
+    mr: होर्हे लुइस बोर्गेस
+    ms: Jorge Luis Borges
+    mul: Jorge Luis Borges
+    myv: Хорхе Луис Борхес
+    mzn: خورخه لوییس بورخس
+    nan: Jorge Luis Borges
+    nb: Jorge Luis Borges
+    nds: Jorge Luis Borges
+    ne: जर्ज लुइस बोर्जेस
+    nl: Jorge Luis Borges
+    nn: Jorge Luis Borges
+    oc: Jorge Luis Borges
+    olo: Jorge Luis Borges
+    os: Хорхе Луис Борхес
+    pa: ਜਾਰਜ ਲੁਇਸ ਬੋਰਜੇਸ
+    pam: Jorge Luis Borges
+    pap: Jorge Luis Borges
+    pcm: Jorge Luis Borges
+    pl: Jorge Luis Borges
+    pms: Jorge Luis Borges
+    pnb: جارج لوئی بورخیس
+    ps: جورج لیوس بورګېس
+    pt: Jorge Luis Borges
+    pt-br: Jorge Luis Borges
+    qu: Jorge Luis Borges
+    ro: Jorge Luis Borges
+    roa-tara: Jorge Luis Borges
+    ru: Хорхе Луис Борхес
+    rue: Хорхе Луїс Борхес
+    rup: Jorge Luis Borges
+    sah: Хорхе Луис Борхес
+    sat: ᱵᱚᱨᱜᱮᱥ, ᱡᱚᱨᱡᱽ ᱞᱩᱭᱤᱥ
+    sc: Jorge Luis Borges
+    scn: Jorge Luis Borges
+    sgs: Jorge Luis Borges
+    sh: Jorge Luis Borges
+    sk: Jorge Luis Borges
+    sl: Jorge Luis Borges
+    sq: Jorge Luis Borges
+    sr: Хорхе Луис Борхес
+    srn: Jorge Luis Borges
+    sv: Jorge Luis Borges
+    sw: Jorge Luis Borges
+    ta: ஹோர்ஹே லூயிஸ் போர்கெஸ்
+    te: జార్జ్ లూయిస్ బోర్గర్స్
+    tg: Хорхе Луис Борхес
+    th: ฆอร์เฆ ลุยส์ บอร์เฆส
+    tk: Horhe Luis Borhes
+    tl: Jorge Luis Borges
+    tr: Jorge Luis Borges
+    tt: Хорхе Луис Борхес
+    tyv: Борхес, Хорхе Луис
+    uk: Хорхе Луїс Борхес
+    ur: جارج لوئی بورگیس
+    uz: Jorge Luis Borges
+    vep: Borhes Horhe Luis
+    vi: Jorge Luis Borges
+    vo: Jorge Luis Borges
+    war: Jorge Luis Borges
+    wuu: 豪尔赫·路易斯·博尔赫斯
+    xmf: ხორხე ლუის ბორხესი
+    yi: כארכע לויס בארכעס
+    yo: Jorge Luis Borges
+    yue: 博爾赫斯
+    zh: 豪尔赫·路易斯·博尔赫斯
 ---
-
 # [[Borges,Jorge_Luis]] 
 
 #has_/time_/started ::  1899-08-24

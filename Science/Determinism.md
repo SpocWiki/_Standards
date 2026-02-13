@@ -1,25 +1,163 @@
 ---
 aliases:
+- determinism
+- determinisma
+- determinisme
+- determinismi
+- determinismm
+- determinismo
+- determinisms
+- determinismu
+- Determinismus
+- determinissma
+- determinizam
+- determinizem
+- determinizm
+- determinizmas
+- determinizmi
+- determinizmus
+- determïnïzm jäne ïndetermïnïzm
+- déterminisme
+- nauðhyggja
+- thuyết quyết định
+- αιτιοκρατία
+- детермінізм
+- детерминизам
+- детерминизм
+- детерминизм және индетерминизм
+- детерминизъм
+- дэтэрмінізм
+- ҷабргароӣ
+- Դետերմինիզմ
+- דטרמיניזם
+- جبرگرایی
+- جبریت
+- حتمية
+- دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
+- डिटरमिनिज्म
+- नियतिवाद
+- நியதிக் கொள்கை
+- డిటర్మినిజం
+- നിയതിവാദം
+- นิยัตินิยม
+- დეტერმინიზმი
+- 决定论
+- 決定論
+- 결정론
 has_id_wikidata: Q131133
-opposite_of: "[[_Standards/WikiData/WD~indeterminism,876695]]"
+opposite_of: '[[_Standards/WikiData/WD~indeterminism,876695]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophical_theory,5389993]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Determinism,19817629]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Determinism,19817629]]'
 different_from:
-  - "[[_Standards/WikiData/WD~determinism,111031095]]"
-  - "[[_Standards/WikiData/WD~fatalism,29253]]"
-instance_of: "[[_Standards/WikiData/WD~world_view,49447]]"
-Dewey_Decimal_Classification: "123"
-OmegaWiki_Defined_Meaning: "525954"
+- '[[_Standards/WikiData/WD~determinism,111031095]]'
+- '[[_Standards/WikiData/WD~fatalism,29253]]'
+instance_of: '[[_Standards/WikiData/WD~world_view,49447]]'
+Dewey_Decimal_Classification: 123
+OmegaWiki_Defined_Meaning: 525954
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bled%20%289664110474%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Toppledominos.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bled%20%289664110474%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Toppledominos.jpg
 PhilPapers_topic: determinism
 Commons_category: Determinism
+dv_has_:
+  name_:
+    af: determinisme
+    ar: حتمية
+    ast: determinismu
+    az: determinizm
+    be: дэтэрмінізм
+    be-tarask: дэтэрмінізм
+    bg: детерминизъм
+    bho: डिटरमिनिज्म
+    ca: determinisme
+    cs: determinismus
+    da: Determinisme
+    de: Determinismus
+    el: αιτιοκρατία
+    en: determinism
+    eo: determinismo
+    es: determinismo
+    et: determinism
+    eu: determinismo
+    fa: جبرگرایی
+    fi: determinismi
+    fr: déterminisme
+    gl: determinismo
+    he: דטרמיניזם
+    hi: नियतिवाद
+    hr: determinizam
+    hu: determinizmus
+    hy: Դետերմինիզմ
+    ia: determinismo
+    id: determinisme
+    is: nauðhyggja
+    it: determinismo
+    ja: 決定論
+    jv: determinisme
+    ka: დეტერმინიზმი
+    kk: детерминизм және индетерминизм
+    kk-arab: دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
+    kk-cn: دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
+    kk-cyrl: детерминизм және индетерминизм
+    kk-kz: детерминизм және индетерминизм
+    kk-latn: determïnïzm jäne ïndetermïnïzm
+    kk-tr: determïnïzm jäne ïndetermïnïzm
+    ko: 결정론
+    ky: детерминизм
+    la: Determinismus
+    lt: determinizmas
+    lv: determinisms
+    mk: детерминизам
+    ml: നിയതിവാദം
+    ms: determinisme
+    nb: determinisme
+    nds-nl: determinisme
+    nl: determinisme
+    nn: determinisme
+    pam: Determinismu
+    pl: determinizm
+    pms: Determinism
+    pt: determinismo
+    ro: determinism
+    ru: детерминизм
+    sco: determinism
+    se: determinisma
+    sh: determinizam
+    sk: determinizmus
+    sl: determinizem
+    sma: determinisme
+    smj: determinissma
+    smn: determinism
+    sms: determinismm
+    sq: determinizmi
+    sr: детерминизам
+    sr-ec: детерминизам
+    sr-el: determinizam
+    sv: determinism
+    ta: நியதிக் கொள்கை
+    te: డిటర్మినిజం
+    tg: ҷабргароӣ
+    th: นิยัตินิยม
+    tl: determinismo
+    tr: determinizm
+    tt: детерминизм
+    uk: детермінізм
+    ur: جبریت
+    uz: determinizm
+    vi: thuyết quyết định
+    wuu: 决定论
+    yue: 決定論
+    zh: 決定論
+    zh-cn: 决定论
+    zh-hans: 决定论
+    zh-hant: 決定論
+    zh-hk: 決定論
+    zh-sg: 决定论
+    zh-tw: 決定論
 ---
-
 # [[Determinism]] 
 
 #is_/same_as :: [[../WikiData/WD~Determinism,131133|WD~Determinism,131133]] 

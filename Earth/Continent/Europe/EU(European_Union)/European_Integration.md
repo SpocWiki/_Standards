@@ -1,38 +1,145 @@
 ---
 aliases:
+- Avropa integratsiyası
+- Avrupa entegrasyonu
+- Eiropas integrācija
+- ES integracija
+- Euroopan integraatio
+- Europar integrazioa
+- European integration
+- Europees integratieperses
+- Europeisk integrasjon
+- europeisk integration
+- Europese integrasie
+- Europese integratie
+- Europske integracije
+- europäische Integration
+- europæisk integration
+- európai integráció
+- európska integrácia
+- evropska integracija
+- Evropske integracije
+- evropská integrace
+- Eŭropa integrado
+- Hội nhập châu Âu
+- integració europea
+- integración europea
+- integracja europejska
+- integrare europeană
+- Integrasi Eropa
+- Integratio Europaea
+- integrazione europea
+- integração europeia
+- intégration européenne
+- Ευρωπαϊκή ολοκλήρωση
+- Європейська інтеграція
+- Еўрапейская інтэграцыя
+- Европейска интеграция
+- европейская интеграция
+- Европска интеграција
+- эўрапейская інтэграцыя
+- Եվրոպական ինտեգրում
+- אינטגרציה אירופאית
+- ادغام اروپا
+- تكامل أوروبي
+- यूरोपीय एकीकरण
+- ஐரோப்பிய ஒருங்கிணைப்பு
+- การรวมตัวของยุโรป
+- 欧州統合
+- 欧洲一体化
+- 歐洲一體化
+- 歐洲整合
+- 歐洲統合
+- 유럽 통합
 has_id_wikidata: Q1048268
 instance_of:
-  - "[[_Standards/WikiData/WD~social_integration,370735]]"
-  - "[[_Standards/WikiData/WD~regional_integration,462668]]"
-  - "[[_Standards/WikiData/WD~economic_integration,729438]]"
-  - "[[_Standards/WikiData/WD~political_integration,11713283]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-opposite_of: "[[_Standards/WikiData/WD~European_disintegration,20851159]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_European_integration,27915419]]"
-studied_by: "[[_Standards/WikiData/WD~European_integration_studies,108371114]]"
-locations: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~social_integration,370735]]'
+- '[[_Standards/WikiData/WD~regional_integration,462668]]'
+- '[[_Standards/WikiData/WD~economic_integration,729438]]'
+- '[[_Standards/WikiData/WD~political_integration,11713283]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+opposite_of: '[[_Standards/WikiData/WD~European_disintegration,20851159]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_European_integration,27915419]]'
+studied_by: '[[_Standards/WikiData/WD~European_integration_studies,108371114]]'
+locations: '[[_Standards/WikiData/WD~Europe,46]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Map.svg
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]"
-    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]"
-    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]"
-    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]"
-    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]"
-    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]"
+  - '[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]'
+  - '[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]'
+  - '[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]'
+  - '[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]'
+  - '[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]'
+  - '[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]"
-  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]"
-  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]"
-  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]"
-  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]"
-  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]"
+- '[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]'
+- '[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]'
+- '[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]'
+- '[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]'
+- '[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]'
+- '[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]'
+- '[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]'
+- '[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]'
+dv_has_:
+  name_:
+    af: Europese integrasie
+    ar: تكامل أوروبي
+    be: Еўрапейская інтэграцыя
+    be-tarask: эўрапейская інтэграцыя
+    bg: Европейска интеграция
+    bs: Evropske integracije
+    ca: integració europea
+    crh: Avropa integratsiyası
+    cs: evropská integrace
+    da: europæisk integration
+    de: europäische Integration
+    el: Ευρωπαϊκή ολοκλήρωση
+    en: European integration
+    eo: Eŭropa integrado
+    es: integración europea
+    eu: Europar integrazioa
+    fa: ادغام اروپا
+    fi: Euroopan integraatio
+    fr: intégration européenne
+    gl: Integración europea
+    he: אינטגרציה אירופאית
+    hi: यूरोपीय एकीकरण
+    hr: Europske integracije
+    hu: európai integráció
+    hy: Եվրոպական ինտեգրում
+    id: Integrasi Eropa
+    it: integrazione europea
+    ja: 欧州統合
+    ko: 유럽 통합
+    la: Integratio Europaea
+    li: Europees integratieperses
+    lt: ES integracija
+    lv: Eiropas integrācija
+    mk: Европска интеграција
+    nb: Europeisk integrasjon
+    nl: Europese integratie
+    pl: integracja europejska
+    pt: integração europeia
+    ro: integrare europeană
+    ru: европейская интеграция
+    sh: Evropske integracije
+    sk: európska integrácia
+    sl: evropska integracija
+    sr: европска интеграција
+    sv: europeisk integration
+    ta: ஐரோப்பிய ஒருங்கிணைப்பு
+    th: การรวมตัวของยุโรป
+    tr: Avrupa entegrasyonu
+    uk: Європейська інтеграція
+    vi: Hội nhập châu Âu
+    wuu: 欧洲一体化
+    yue: 歐洲一體化
+    zh: 歐洲統合
+    zh-hant: 歐洲統合
+    zh-tw: 歐洲整合
 ---
-
 # [[European_Integration]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]] 

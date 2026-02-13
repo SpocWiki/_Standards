@@ -1,11 +1,128 @@
 ---
 aliases:
-  - Nobel Prize in Physiology or Medicine
-  - Nobelpriset i fysiologi eller medicin
-  - Nobel Prize in Medicine
-  - Medicine_Nobel_Prize
-  - Medicine Nobel Prize
+- Appendice:Lista de premiatos del Premio Nobel pro Physiologia o Medicina
+- Daftar penerima Nobel Fisiologi atau Kedokteran
+- Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học
+- Ganadores del Premio Nobel de Fisiología o Medicina
+- laureaci Nagrody Nobla w dziedzinie fizjologii lub medycyny
+- Laureados com o Nobel de Fisiologia ou Medicina
+- Lies vaan Nobelprieswinners (geneeskunde)
+- Lischt vu dr Nobelbryysdreger fir Fysiologii oder Medizin
+- list of Nobel laureates in Physiology or Medicine
+- lista laureaților Premiului Nobel pentru Fiziologie sau Medicină
+- lista över nobelpristagare i fysiologi eller medicin
+- Liste der Nobelpreisträger für Physiologie oder Medizin
+- liste over modtagere af Nobelprisen i fysiologi eller medicin
+- liste over nobelprisvinnere i fysiologi eller medisin
+- listo di Nobel-laureati pri fiziologio o medicino
+- llista de guardonats amb el Premi Nobel de Medicina o Fisiologia
+- luettelo Nobelin fysiologian tai lääketieteen palkinnon saaneista
+- Lëscht vun den Nobelpräisdréier fir Physiologie oder Medezin
+- Lîsteya Xelatgirên Nobela Bijîşkiyê
+- Medicine Nobel Prize
+- Medicine_Nobel_Prize
+- Nobel Fizyoloji veya Tıp Ödülü sahipleri listesi
+- Nobel Prize in Medicine
+- Nobel Prize in Physiology or Medicine
+- Nobel sengleixhag hoh ywhag ciengj
+- Nobela prēmijas laureāti fizioloģijā vai medicīnā
+- Nobelpriset i fysiologi eller medicin
+- Prèmi Nobel de Fisiologia o Medecina
+- Senarai penerima Hadiah Nobel dalam Fisiologi atau Perubatan
+- seznam Nobelovih nagrajencev za fiziologijo ali medicino
+- Seznam nositelů Nobelovy ceny za fyziologii a lékařství
+- Spisak dobitnika Nobelove nagrade za fiziologiju ili medicinu
+- Tibb və Fiziologiya üzrə Nobel mükafatçılarının siyahısı
+- vincitori del premio Nobel per la medicina
+- Zerrenda:Medikuntzako Nobel Saria
+- Zoznam nositeľov Nobelovej ceny za fyziológiu alebo medicínu
+- Κατάλογος αποδεκτών Βραβείου Νόμπελ Φυσιολογίας και Ιατρικής
+- Спіс лаўрэатаў Нобелеўскай прэміі па фізіялогіі і медыцыне
+- Списак добитника Нобелове награде за физиологију или медицину
+- Список лауреатів Нобелівської премії з фізіології або медицини
+- Список лауреатов Нобелевской премии по физиологии или медицине
+- сьпіс Нобэлеўскіх ляўрэатаў у фізыялёгіі ці мэдыцыне
+- Физиология және медицинадан Нобель сыйлығы
+- Физиологияҕа эбэтэр мэдиссиинэҕэ Нобель бириэмийэтин лауреаттарын испииһэгэ
+- Բժշկության կամ ֆիզիոլոգիայի Նոբելյան մրցանակի դափնեկիրների ցանկ
+- طب و ادویات میں نوبیل انعام حاصل کنندگان کی فہرست
+- فهرست برندگان جایزه نوبل فیزیولوژی و پزشکی
+- قائمة الحاصلين على جائزة نوبل في الطب أو علم وظائف الأعضاء
+- ليستة جوايز نوبل فى الطب
+- نوبل انعام برائے فزیالوجی یا طب وصول کنندگان کی لسٹ
+- پێڕستی وەرگرانی خەڵاتی نۆبێل لە فیزیۆلۆژیا یان پزیشکی
+- চিকিৎসাবিজ্ঞানে নোবেল বিজয়ীদের তালিকা
+- ন'বেল বঁটা বিজয়ী
+- ଚିକିତ୍ସା ବିଜ୍ଞାନରେ ନୋବେଲ ବିଜେତାଙ୍କ ତାଲିକା
+- వైద్యశాస్త్రంలో నోబెల్ గ్రహీతల జాబితా
+- വൈദ്യശാസ്ത്രത്തിനുള്ള നോബൽ സമ്മാനം
+- ნობელის პრემიის ლაურეატები ფიზიოლოგიისა ან მედიცინის დარგში
+- ノーベル生理学・医学賞受賞者の一覧
+- 諾貝爾生理學或醫學獎得主列表
+- 노벨 생리학·의학상 수상자 목록
 has_id_wikidata: Q5450499
+dv_has_:
+  name_:
+    ar: قائمة الحاصلين على جائزة نوبل في الطب أو علم وظائف الأعضاء
+    arz: ليستة جوايز نوبل فى الطب
+    as: ন'বেল বঁটা বিজয়ী
+    az: Tibb və Fiziologiya üzrə Nobel mükafatçılarının siyahısı
+    be: Спіс лаўрэатаў Нобелеўскай прэміі па фізіялогіі і медыцыне
+    be-tarask: сьпіс Нобэлеўскіх ляўрэатаў у фізыялёгіі ці мэдыцыне
+    bn: চিকিৎসাবিজ্ঞানে নোবেল বিজয়ীদের তালিকা
+    bs: Spisak dobitnika Nobelove nagrade za fiziologiju ili medicinu
+    ca: llista de guardonats amb el Premi Nobel de Medicina o Fisiologia
+    ckb: پێڕستی وەرگرانی خەڵاتی نۆبێل لە فیزیۆلۆژیا یان پزیشکی
+    cs: Seznam nositelů Nobelovy ceny za fyziologii a lékařství
+    da: liste over modtagere af Nobelprisen i fysiologi eller medicin
+    de: Liste der Nobelpreisträger für Physiologie oder Medizin
+    de-ch: Liste der Nobelpreisträger für Physiologie oder Medizin
+    el: Κατάλογος αποδεκτών Βραβείου Νόμπελ Φυσιολογίας και Ιατρικής
+    en: list of Nobel laureates in Physiology or Medicine
+    en-ca: list of Nobel laureates in Physiology or Medicine
+    en-gb: list of Nobel laureates in Physiology or Medicine
+    es: Ganadores del Premio Nobel de Fisiología o Medicina
+    eu: Zerrenda:Medikuntzako Nobel Saria
+    fa: فهرست برندگان جایزه نوبل فیزیولوژی و پزشکی
+    fi: luettelo Nobelin fysiologian tai lääketieteen palkinnon saaneista
+    gsw: Lischt vu dr Nobelbryysdreger fir Fysiologii oder Medizin
+    hy: Բժշկության կամ ֆիզիոլոգիայի Նոբելյան մրցանակի դափնեկիրների ցանկ
+    ia: Appendice:Lista de premiatos del Premio Nobel pro Physiologia o Medicina
+    id: Daftar penerima Nobel Fisiologi atau Kedokteran
+    io: listo di Nobel-laureati pri fiziologio o medicino
+    it: vincitori del premio Nobel per la medicina
+    ja: ノーベル生理学・医学賞受賞者の一覧
+    ka: ნობელის პრემიის ლაურეატები ფიზიოლოგიისა ან მედიცინის დარგში
+    kk: Физиология және медицинадан Нобель сыйлығы
+    ko: 노벨 생리학·의학상 수상자 목록
+    ku: Lîsteya Xelatgirên Nobela Bijîşkiyê
+    lb: Lëscht vun den Nobelpräisdréier fir Physiologie oder Medezin
+    li: Lies vaan Nobelprieswinners (geneeskunde)
+    lv: Nobela prēmijas laureāti fizioloģijā vai medicīnā
+    ml: വൈദ്യശാസ്ത്രത്തിനുള്ള നോബൽ സമ്മാനം
+    ms: Senarai penerima Hadiah Nobel dalam Fisiologi atau Perubatan
+    nb: liste over nobelprisvinnere i fysiologi eller medisin
+    oc: Prèmi Nobel de Fisiologia o Medecina
+    or: ଚିକିତ୍ସା ବିଜ୍ଞାନରେ ନୋବେଲ ବିଜେତାଙ୍କ ତାଲିକା
+    pl: laureaci Nagrody Nobla w dziedzinie fizjologii lub medycyny
+    pnb: نوبل انعام برائے فزیالوجی یا طب وصول کنندگان کی لسٹ
+    pt: Laureados com o Nobel de Fisiologia ou Medicina
+    ro: lista laureaților Premiului Nobel pentru Fiziologie sau Medicină
+    ru: Список лауреатов Нобелевской премии по физиологии или медицине
+    sah: Физиологияҕа эбэтэр мэдиссиинэҕэ Нобель бириэмийэтин лауреаттарын испииһэгэ
+    sh: Spisak dobitnika Nobelove nagrade za fiziologiju ili medicinu
+    sk: Zoznam nositeľov Nobelovej ceny za fyziológiu alebo medicínu
+    sl: seznam Nobelovih nagrajencev za fiziologijo ali medicino
+    sq: list of Nobel laureates in Physiology or Medicine
+    sr: Списак добитника Нобелове награде за физиологију или медицину
+    sv: lista över nobelpristagare i fysiologi eller medicin
+    te: వైద్యశాస్త్రంలో నోబెల్ గ్రహీతల జాబితా
+    tr: Nobel Fizyoloji veya Tıp Ödülü sahipleri listesi
+    uk: Список лауреатів Нобелівської премії з фізіології або медицини
+    ur: طب و ادویات میں نوبیل انعام حاصل کنندگان کی فہرست
+    vi: Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học
+    za: Nobel sengleixhag hoh ywhag ciengj
+    zh: 諾貝爾生理學或醫學獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

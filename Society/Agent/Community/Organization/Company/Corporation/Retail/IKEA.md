@@ -1,8 +1,142 @@
 ---
 has_id_wikidata: Q54078
+dv_has_:
+  name_:
+    af: Ikea
+    an: IKEA
+    ar: إيكيا
+    ary: إيكيا
+    arz: ايكيا
+    as: আইকিয়া
+    ast: IKEA
+    az: İkea
+    azb: آیکیا
+    ba: IKEA
+    bcl: IKEA
+    be: IKEA
+    be-tarask: IKEA
+    bg: ИКЕА
+    br: Ikea
+    bs: Ikea
+    ca: IKEA
+    cs: IKEA
+    cy: IKEA
+    da: IKEA
+    de: IKEA
+    de-ch: IKEA
+    el: IKEA
+    en: IKEA
+    en-ca: IKEA
+    en-gb: IKEA
+    eo: IKEA
+    es: IKEA
+    et: IKEA
+    eu: IKEA
+    fa: ایکهآ
+    fi: IKEA
+    fo: IKEA
+    fr: Ikea
+    fur: Ikea
+    ga: IKEA
+    gl: IKEA
+    gsw: IKEA
+    he: איקאה
+    hi: आइकिया
+    hr: IKEA
+    hu: IKEA
+    hy: IKEA
+    id: IKEA
+    is: IKEA
+    it: IKEA
+    ja: イケア
+    jv: IKEA
+    ka: იკეა
+    kcg: IKEA
+    kk: IKEA
+    ko: 이케아
+    ku: IKEA
+    la: IKEA
+    li: IKEA
+    lt: IKEA
+    lv: IKEA
+    mk: ИКЕА
+    mn: ИКЕА
+    mr: इकीया
+    ms: IKEA
+    mul: IKEA
+    my: အီ့ကဲယာ
+    nan: IKEA
+    nb: IKEA
+    nl: IKEA
+    nn: IKEA
+    oc: IKEA
+    os: IKEA
+    pcd: IKEA
+    pl: IKEA
+    pms: Ikea
+    pt: IKEA
+    pt-br: IKEA
+    qu: IKEA
+    ro: IKEA
+    ru: IKEA
+    sah: IKEA
+    sc: IKEA
+    sco: IKEA
+    se: IKEA
+    sh: IKEA
+    sk: IKEA
+    sl: IKEA
+    so: IKEA
+    sq: IKEA
+    sr: Икеа
+    su: IKEA
+    sv: Ikea
+    ta: ஐ.கே.இ.ஏ
+    te: ఐకియా
+    th: อิเกีย
+    tly: İKEA
+    tr: IKEA
+    uk: IKEA
+    ur: آئی کیا
+    uz: IKEA
+    vec: IKEA
+    vi: IKEA
+    vls: IKEA
+    wa: IKEA
+    wuu: 艾奇亚
+    yue: 宜家家居
+    zh: 宜家家居
+    zh-cn: 宜家家居
+    zh-hans: 宜家家居
+    zh-hant: 宜家家居
+    zh-hk: 宜家家居
+    zh-mo: 宜家家居
+    zh-my: 宜家家居
+    zh-sg: 宜家家居
+    zh-tw: 宜家家居
+aliases:
+- IKEA
+- İkea
+- ИКЕА
+- איקאה
+- آئی کیا
+- آیکیا
+- إيكيا
+- ايكيا
+- ایکهآ
+- आइकिया
+- इकीया
+- আইকিয়া
+- ஐ.கே.இ.ஏ
+- ఐకియా
+- อิเกีย
+- အီ့ကဲယာ
+- იკეა
+- イケア
+- 宜家家居
+- 艾奇亚
+- 이케아
 ---
-
-
 # [[IKEA]] 
 
 #is_/same_as :: [[WD~IKEA,54078]] 

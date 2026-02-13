@@ -1,17 +1,80 @@
 ---
 aliases:
-  - Safran
-  - Saffron
+- Alsafran
+- azafran
+- azafrán
+- Azɣer
+- açafrão
+- cróch
+- Daržinis krokas
+- Esparıkê kutıkan
+- kuma-kuma
+- kumkuma
+- Pacah
+- Saffraan
+- saffran
+- Saffron
+- saffrwm
+- Safran
+- Safrani
+- safrano
+- Safranum
+- Safron
+- safrà
+- safrāns
+- sahrami
+- Sapron
+- Separang
+- szafran
+- zafferano
+- Zafran
+- Zafrán
+- zeferan
+- Šafran
+- šafrán
+- žafran
+- șofran
+- σαφράνι
+- шафран
+- Զաֆրան (համեմունք)
+- Սաֆրան
+- זאפרען
+- זעפרן
+- زافران
+- زعفران
+- کۄنٛگ
+- کیسر
+- ګنګو
+- ކުކުން
+- केशर
+- केसर
+- केसरम्
+- केसरी
+- জাফরান
+- ਕੇਸਰ
+- குங்குமப்பூ
+- కుంకుమ పువ్వు
+- ಕೇಸರಿ
+- കുങ്കുമം
+- කුංකුම
+- หญ้าฝรั่น
+- ကုံကမာန်
+- ကုံကုမံ
+- サフラン
+- 番紅花
+- 番红花
+- 藏紅花
+- 사프란
 has_id_wikidata: Q25434
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~food_coloring,753009]]'
-  - '[[_Standards/WikiData/WD~colourant,911922]]'
-  - '[[_Standards/WikiData/WD~edible_flower,2349698]]'
-  - '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~food_coloring,753009]]'
+- '[[_Standards/WikiData/WD~colourant,911922]]'
+- '[[_Standards/WikiData/WD~edible_flower,2349698]]'
+- '[[_Standards/WikiData/WD~spice,42527]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_saffron,3137949]]'
 natural_product_of_taxon: '[[_Standards/WikiData/WD~Crocus_sativus,15041677]]'
 different_from: '[[_Standards/WikiData/WD~Saffron,54857352]]'
@@ -22,20 +85,117 @@ USDA_NDB_number: 02037
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saffron%20crocus%20sativus%20production.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%88%D0%B0%D1%84%D1%80%D0%B0%D0%BD%D0%B0.webm
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-SangeetaRH-%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B0.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q25434-ar.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-SangeetaRH-%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B0.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q25434-ar.ogg
 Amazon_com_browse_node: 16321841
 Iconclass_notation: 25G4(SAFFRON)
 Dewey_Decimal_Classification:
-  - 641.3383
-  - 641.6383
-  - 664.53
+- 641.3383
+- 641.6383
+- 664.53
 FoodEx2_code: A01AR
 UMLS_CUI: C2348128
 UNII: E849G4X5YJ
+dv_has_:
+  name_:
+    af: Saffraan
+    an: Zafrán
+    anp: केसरी
+    ar: زعفران
+    arz: زعفران
+    ast: azafrán
+    az: زافران
+    ban: Pacah
+    be-tarask: шафран
+    bew: Separang
+    bg: шафран
+    bho: केसर
+    bn: জাফরান
+    br: Safron
+    bs: Šafran
+    ca: safrà
+    cs: šafrán
+    cy: saffrwm
+    da: safran
+    de: Safran
+    diq: Esparıkê kutıkan
+    dv: ކުކުން
+    el: σαφράνι
+    en: saffron
+    eo: safrano
+    es: azafrán
+    et: Safran
+    eu: azafran
+    fa: زعفران
+    fi: sahrami
+    fr: safran
+    ga: cróch
+    gl: Azafrán
+    he: זעפרן
+    hi: केसर
+    hr: Šafran
+    hy: Զաֆրան (համեմունք)
+    hyw: Սաֆրան
+    id: kuma-kuma
+    io: Safrano
+    is: Saffran
+    it: zafferano
+    ja: サフラン
+    jv: kumkuma
+    kab: Azɣer
+    kn: ಕೇಸರಿ
+    ko: 사프란
+    ks: کۄنٛگ
+    ku: zeferan
+    ku-latn: zeferan
+    la: Safranum
+    lad: Alsafran
+    lb: Safran
+    lmo: Zafran
+    lt: Daržinis krokas
+    lv: safrāns
+    mk: шафран
+    ml: കുങ്കുമം
+    mnw: ကုံကမာန်
+    mr: केशर
+    ms: Safron
+    my: ကုံကုမံ
+    nb: safran
+    ne: केशर
+    nl: saffraan
+    nn: safran
+    oc: Safran
+    pa: ਕੇਸਰ
+    pdc: Safron
+    pl: szafran
+    pnb: کیسر
+    ps: ګنګو
+    pt: açafrão
+    ro: șofran
+    ru: шафран
+    sa: केसरम्
+    sc: Zafferano
+    sd: زعفران
+    sh: Šafran
+    si: කුංකුම
+    sl: žafran
+    sq: Safrani
+    sr: шафран
+    su: Sapron
+    sv: saffran
+    ta: குங்குமப்பூ
+    te: కుంకుమ పువ్వు
+    th: หญ้าฝรั่น
+    tr: Safran
+    uk: шафран
+    ur: زعفران
+    vi: Saffron
+    wuu: 番红花
+    yi: זאפרען
+    yue: 藏紅花
+    zh: 番紅花
 ---
-
 # [[Saffron]] 
 
 #is_/same_as :: [[WD~Saffron,25434]] 

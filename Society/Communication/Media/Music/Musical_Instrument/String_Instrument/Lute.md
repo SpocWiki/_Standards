@@ -1,20 +1,74 @@
 ---
 aliases:
-  - Laute
-  - Lute
+- alaúde
+- lant
+- Laut
+- lauta
+- Laute
+- Lauto
+- lavta
+- laúd
+- laúde
+- Laüt
+- liutnia
+- liuto
+- Liwt
+- liúit
+- Liütt
+- ljut
+- llaúd
+- llaüt
+- loot
+- loutna
+- luit
+- lut
+- luta
+- Lute
+- lute gitar arab
+- luth
+- lutna
+- lutnia
+- Lutnja
+- lutt
+- luuttu
+- Lyutnya
+- Lút
+- Lúta
+- Lăută
+- Lœüdo
+- Testudo
+- Ud
+- ûd
+- đàn luýt
+- λαούτο
+- лаута
+- лејта
+- лютня
+- լյուտնյա
+- לאוטה
+- بربط
+- عوديات
+- لوت
+- లూట్ (వీణ)
+- ลูต
+- リュート
+- 詩琴
+- 魯特琴
+- 鲁特琴
+- 류트
 has_id_wikidata: Q180733
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~Lutnia,11764328]]'
 used_by: '[[_Standards/WikiData/WD~lutenist,21166956]]'
 subclass_of: '[[_Standards/WikiData/WD~plucked_string_necked_bowl_lute,65516030]]'
@@ -26,8 +80,88 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lute%20%28by%20Princes
 Amazon_com_browse_node: 11972771
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LYUTNYA.html
 Commons_category: Lutes
+dv_has_:
+  name_:
+    ar: عوديات
+    ast: llaúd
+    az: Lyutnya
+    be: лютня
+    be-tarask: лютня
+    bg: Лютня
+    ca: llaüt
+    cs: loutna
+    cy: Liwt
+    da: lut
+    de: Laute
+    el: λαούτο
+    en: lute
+    eo: liuto
+    es: laúd
+    et: Lauto
+    eu: Laut
+    ext: Ud
+    fa: لوت
+    fi: luuttu
+    fj: Lute
+    fr: luth
+    fy: Lút
+    ga: liúit
+    gl: laúde
+    gv: loot
+    he: לאוטה
+    hr: Lutnja
+    hu: lant
+    hy: լյուտնյա
+    id: lute gitar arab
+    io: Liuto
+    is: Lúta
+    it: liuto
+    ja: リュート
+    kk: Лютня
+    ko: 류트
+    ku: ûd
+    ku-latn: ûd
+    la: Testudo
+    lij: Lœüdo
+    lmo: Liütt
+    lt: liutnia
+    lv: lauta
+    mk: лејта
+    mt: ljut
+    nb: lutt
+    nl: luit
+    nn: lutt
+    oc: Laüt
+    pl: lutnia
+    pt: alaúde
+    ro: Lăută
+    rsk: Лаута
+    ru: лютня
+    sd: بربط
+    sh: Lutnja
+    sk: lutna
+    sl: lutnja
+    sr: лаута
+    sr-ec: лаута
+    sr-el: lauta
+    sv: luta
+    te: లూట్ (వీణ)
+    th: ลูต
+    tr: lavta
+    uk: лютня
+    uz: Lyutnya
+    vi: đàn luýt
+    wa: Lute
+    wuu: 鲁特琴
+    yue: 詩琴
+    zh: 魯特琴
+    zh-cn: 鲁特琴
+    zh-hans: 鲁特琴
+    zh-hant: 魯特琴
+    zh-hk: 魯特琴
+    zh-sg: 鲁特琴
+    zh-tw: 魯特琴
 ---
-
 # [[Lute]] 
 
 #is_/same_as :: [[WD~Lute,180733]] 

@@ -1,28 +1,164 @@
 ---
 aliases:
+- espace métrique
+- espacio métrico
+- Espaciu métricu
+- espai mètric
+- espazio metriko
+- espazo métrico
+- espaço métrico
+- Firðrúm
+- Gofod metrig
+- Không gian mêtric
+- Meetriline ruum
+- Metresche Raum
+- metric space
+- Metrický priestor
+- metrický prostor
+- Metrik uzay
+- metrika spaco
+- metrikus tér
+- metrinen avaruus
+- Metrinė erdvė
+- metrische ruimte
+- metrischer Raum
+- metrisk rom
+- Metrisk rum
+- Metriskt rum
+- metrički prostor
+- metrični prostor
+- przestrzeń metryczna
+- Ruang metrik
+- Spassi métrich
+- Spassio mètrico
+- spatium metricum
+- spazio metrico
+- spațiu metric
+- spás méadrach
+- Μετρικός χώρος
+- Метрикăллă уçлăх
+- Метрикалық кеңістік
+- метрическое пространство
+- метрички простор
+- метричний простір
+- Метрично пространство
+- метрычная прастора
+- мэтрычная прастора
+- Մետրիկական տարածություն
+- מרחב מטרי
+- بحر فضا
+- بۆشاییی مەتری
+- فضاء متري
+- فضای متری
+- மெட்ரிக் வெளி
+- ಮೆಟ್ರಿಕ್ ಆಕಾಶ
+- အတိုင်းဆ
+- მეტრიკული სივრცე
+- 度量空間
+- 度量空间
+- 距離空間
+- 거리 공간
 has_id_wikidata: Q180953
-has_characteristic: "[[_Standards/WikiData/WD~Hausdorff_dimension,565186]]"
+has_characteristic: '[[_Standards/WikiData/WD~Hausdorff_dimension,565186]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~metric_function,865746]]"
-  - "[[_Standards/WikiData/WD~metrizable_space,1194053]]"
+- '[[_Standards/WikiData/WD~metric_function,865746]]'
+- '[[_Standards/WikiData/WD~metrizable_space,1194053]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pseudometric_space,1397059]]"
-  - "[[_Standards/WikiData/WD~semimetric_space,3058239]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~pseudometric_space,1397059]]'
+- '[[_Standards/WikiData/WD~semimetric_space,3058239]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">&#x2264;</mo><mi>d</mi><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>z</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>z</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><mn>0</mn><mo stretchy="false">&#x21D4;</mo><mi>x</mi><mo stretchy="false">=</mo><mi>y</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mo stretchy="false">:</mo><mi>X</mi><mo stretchy="false">&#x00D7;</mo><mi>X</mi><mo stretchy="false" accent="false">&#x2192;</mo><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mi mathvariant="normal">&#x221E;</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><mi>d</mi><mo stretchy="false">(</mo><mi>y</mi><mo>,</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">&#x2264;</mo><mi>d</mi><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>z</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>z</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><mn>0</mn><mo stretchy="false">&#x21D4;</mo><mi>x</mi><mo stretchy="false">=</mo><mi>y</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mo stretchy="false">:</mo><mi>X</mi><mo stretchy="false">&#x00D7;</mo><mi>X</mi><mo stretchy="false" accent="false">&#x2192;</mo><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mi mathvariant="normal">&#x221E;</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">=</mo><mi>d</mi><mo stretchy="false">(</mo><mi>y</mi><mo>,</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/metric-spaces
-  - https://mathoverflow.net/tags/metric-spaces
-  - https://physics.stackexchange.com/tags/metric-space
+- https://math.stackexchange.com/tags/metric-spaces
+- https://mathoverflow.net/tags/metric-spaces
+- https://physics.stackexchange.com/tags/metric-space
 Wolfram_Language_entity_code: Entity["Concept", "MetricSpace::8469w"]
 Commons_category: Metric geometry
+dv_has_:
+  name_:
+    ar: فضاء متري
+    ast: Espaciu métricu
+    be: метрычная прастора
+    be-tarask: мэтрычная прастора
+    bg: Метрично пространство
+    bs: metrički prostor
+    ca: espai mètric
+    ckb: بۆشاییی مەتری
+    cs: metrický prostor
+    cv: Метрикăллă уçлăх
+    cy: Gofod metrig
+    da: Metrisk rum
+    de: metrischer Raum
+    el: Μετρικός χώρος
+    en: metric space
+    en-ca: Metric space
+    en-gb: metric space
+    eo: metrika spaco
+    es: espacio métrico
+    et: Meetriline ruum
+    eu: espazio metriko
+    fa: فضای متری
+    fi: metrinen avaruus
+    fr: espace métrique
+    ga: spás méadrach
+    gl: espazo métrico
+    he: מרחב מטרי
+    hr: Metrički prostor
+    hu: metrikus tér
+    hy: Մետրիկական տարածություն
+    id: Ruang metrik
+    io: Metrika spaco
+    is: Firðrúm
+    it: spazio metrico
+    ja: 距離空間
+    ka: მეტრიკული სივრცე
+    kk: Метрикалық кеңістік
+    kn: ಮೆಟ್ರಿಕ್ ಆಕಾಶ
+    ko: 거리 공간
+    la: spatium metricum
+    lb: Metresche Raum
+    lt: Metrinė erdvė
+    lzh: 度量空間
+    mk: метрички простор
+    ms: Ruang metrik
+    my: အတိုင်းဆ
+    nb: metrisk rom
+    nl: metrische ruimte
+    nn: metrisk rom
+    pl: przestrzeń metryczna
+    pms: Spassi métrich
+    pt: espaço métrico
+    pt-br: espaço métrico
+    ro: spațiu metric
+    ru: метрическое пространство
+    sk: Metrický priestor
+    sl: metrični prostor
+    sr: метрички простор
+    sr-ec: метрички простор
+    sr-el: metrički prostor
+    sv: Metriskt rum
+    ta: மெட்ரிக் வெளி
+    tr: Metrik uzay
+    uk: метричний простір
+    ur: بحر فضا
+    vec: Spassio mètrico
+    vi: Không gian mêtric
+    vro: Meetriline ruum
+    wuu: 度量空间
+    yue: 度量空間
+    zh: 度量空间
+    zh-cn: 度量空间
+    zh-hans: 度量空间
+    zh-hant: 度量空間
+    zh-hk: 度量空間
+    zh-sg: 度量空间
+    zh-tw: 度量空間
 ---
-
 # [[Metric_Space]] 
 
 #is_/same_as :: [[WD~Metric_space,180953]] 

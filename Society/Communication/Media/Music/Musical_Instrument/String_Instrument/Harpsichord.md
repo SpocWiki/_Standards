@@ -1,20 +1,74 @@
 ---
-has_time_started: 1500-01-01 
+has_time_started: 1500-01-01
 aliases:
-  - Cembalo
-  - Harpsichord
+- Cembalo
+- clavecin
+- clavecín
+- Clavicembal
+- clavicembalo
+- Clavicymbalum
+- clavicèmbal
+- Clavicémbalo
+- Clavicìmmalu
+- cravo
+- cruit-chòrda
+- cruitchorda
+- cruitçhchoardey
+- csembaló
+- Harpsichord
+- harpsicord
+- Klabizenbalo
+- Klasveni
+- Klav-kerdin
+- klavecimbel
+- Klavesimbel
+- klavesin
+- klavesinas
+- Klavesinina
+- klavessiin
+- klavesīns
+- klaviceno
+- Klavikordo
+- klaviċembalu
+- Klavsen
+- klawesyn
+- Semball
+- Čembalo
+- τσέμπαλο
+- клавесін
+- клавесин
+- клявэсын
+- чембало
+- կլավեսին
+- տաւղալար
+- צ'מבלו
+- هاربسكورد
+- هارپسیکورد
+- ھارپسیکۆرد
+- ہارپسیکارڈ
+- हार्पसिकर्द
+- கிளாவேசீன்
+- ฮาร์ปซิคอร์ด
+- ဟာ့ပ်ဆီကော့ဒ်
+- კლავესინი
+- チェンバロ
+- 古鍵琴
+- 大鍵琴
+- 大键琴
+- 羽管键琴
+- 하프시코드
 has_id_wikidata: Q81982
 subclass_of:
-  - '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
-  - '[[_Standards/WikiData/WD~Q1740992,1740992]]'
-  - '[[_Standards/WikiData/WD~true_board_zithers_with_resonator_box,4951628]]'
-  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+- '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
+- '[[_Standards/WikiData/WD~Q1740992,1740992]]'
+- '[[_Standards/WikiData/WD~true_board_zithers_with_resonator_box,4951628]]'
+- '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 model_item: '[[_Standards/WikiData/WD~Marguerite_Antoinette_Couperin,2870861]]'
 different_from: '[[_Standards/WikiData/WD~Cembalo,3664335]]'
 used_by: '[[_Standards/WikiData/WD~harpsichordist,5371902]]'
@@ -25,15 +79,114 @@ Nomenclature_for_Museum_Cataloging: 10703
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clavecin%20flamand.png
 Hornbostel_Sachs_classification: 314.122-6-8
 Dewey_Decimal_Classification:
-  - 786.4
-  - 786.419
+- 786.4
+- 786.419
 Commons_category: Harpsichords
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bach%20C%20Major%20Prelude%20Equal.ogg
 Krugosvet_article_archived_: muzyka/klavesin
 short_name: Cemb
 inception: 1500-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Klavesimbel
+    ar: هاربسكورد
+    arz: هاربسكورد
+    ast: Clavecín
+    az: klavesin
+    be: клавесін
+    be-tarask: клявэсын
+    bg: клавесин
+    br: Klav-kerdin
+    bs: Čembalo
+    ca: clavicèmbal
+    ckb: ھارپسیکۆرد
+    cs: cembalo
+    cv: Клавесин
+    cy: harpsicord
+    da: cembalo
+    de: Cembalo
+    el: τσέμπαλο
+    en: harpsichord
+    en-gb: harpsichord
+    eo: klaviceno
+    es: clavecín
+    et: klavessiin
+    eu: Klabizenbalo
+    fa: هارپسیکورد
+    fi: cembalo
+    fr: clavecin
+    fur: Clavicembal
+    fy: Klavesimbel
+    ga: cruitchorda
+    gd: cruit-chòrda
+    gl: Clavicémbalo
+    gsw: Cembalo
+    gv: cruitçhchoardey
+    he: צ'מבלו
+    hr: Čembalo
+    hu: csembaló
+    hy: կլավեսին
+    hyw: տաւղալար
+    id: Harpsichord
+    io: Klavikordo
+    is: Semball
+    it: clavicembalo
+    ja: チェンバロ
+    jv: Harpsichord
+    ka: კლავესინი
+    kk: Клавесин
+    ko: 하프시코드
+    ky: Клавесин
+    la: Clavicymbalum
+    lb: Cembalo
+    lt: klavesinas
+    lv: klavesīns
+    mg: Klavesinina
+    mk: чембало
+    ms: Harpsichord
+    mt: klaviċembalu
+    my: ဟာ့ပ်ဆီကော့ဒ်
+    nan: Cembalo
+    nb: cembalo
+    nds-nl: klavecimbel
+    new: हार्पसिकर्द
+    nl: klavecimbel
+    nn: cembalo
+    oc: Clavecin
+    os: клавесин
+    pl: klawesyn
+    pt: cravo
+    pt-br: cravo
+    ro: clavecin
+    ru: клавесин
+    rue: чембало
+    scn: Clavicìmmalu
+    sh: Čembalo
+    sk: čembalo
+    sl: čembalo
+    smn: cembalo
+    sq: Klasveni
+    sr: чембало
+    sr-ec: Чембало
+    stq: Cembalo
+    su: Harpsichord
+    sv: cembalo
+    ta: கிளாவேசீன்
+    tg: клавесин
+    th: ฮาร์ปซิคอร์ด
+    tr: Klavsen
+    uk: клавесин
+    ur: ہارپسیکارڈ
+    uz: Klavesin
+    vi: harpsichord
+    vls: Klavecimbel
+    wuu: 大键琴
+    yue: 古鍵琴
+    zh: 大鍵琴
+    zh-cn: 羽管键琴
+    zh-hk: 古鍵琴
+    zh-tw: 大鍵琴
 ---
-
 # [[Harpsichord]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Harpsichord,81982|WD~Harpsichord,81982]] 

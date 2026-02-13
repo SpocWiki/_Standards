@@ -1,34 +1,128 @@
 ---
-has_time_started: 1951-09-10 
+has_time_started: 1951-09-10
 aliases:
+- Hội liên hiệp Toán học quốc tế
+- Internacia Matematika Unio
+- International Mathematical Union
+- Internationale Mathematische Union
+- Internationale Wiskundige Unie
+- Kesatuan Matematik Antarabangsa
+- Mednarodna matematična zveza
+- Mezinárodní matematická unie
+- Međunarodna matematička unija
+- Międzynarodowa Unia Matematyczna
+- Nazioarteko Matematika Batasuna
+- Nemzetközi Matematikai Unió
+- Union Matematica Internacionala
+- Union mathématique internationale
+- Unione matematica internazionale
+- Uniunea Matematică Internațională
+- União Internacional de Matemática
+- Unió Matemàtica Internacional
+- Unión Matematica Internacional
+- Unión Matemática Internacional
+- Xalqaro matematika ittifoqi
+- Xunión Matemática Internacional
+- Διεθνή Μαθηματική Ένωση
+- Міжнародний математичний союз
+- Міжнародны матэматычны зьвяз
+- Міжнародны матэматычны саюз
+- Меѓународен математички сојуз
+- Международен математически съюз
+- Международный математический союз
+- Халыкара математика берлеге
+- Միջազգային մաթեմատիկական միություն
+- האיחוד המתמטי הבינלאומי
+- اتحادیه جهانی ریاضیات
+- الاتحاد الدولي للرياضيات
+- بین الاقوامی ریاضیاتی یونین
+- ਇੰਟਰਨੈਸ਼ਨਲ ਮੈਥੇਮੈਟੀਕਲ ਯੂਨੀਅਨ
+- பன்னாட்டு கணித ஒன்றியம்
+- അന്താരാഷ്ട്ര ഗണിത സംഘടന
+- 国际数学联盟
+- 国際数学連合
+- 國際數學聯盟
+- 국제 수학자 연맹
 has_id_wikidata: Q828490
 instance_of:
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~mathematical_society,112667618]]"
-chairperson: "[[_Standards/WikiData/WD~Hiraku_Nakajima,371515]]"
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~mathematical_society,112667618]]'
+chairperson: '[[_Standards/WikiData/WD~Hiraku_Nakajima,371515]]'
 grants:
-  - "[[_Standards/WikiData/WD~Chern_Medal,1070276]]"
-  - "[[_Standards/WikiData/WD~Leelavati_Award,6547571]]"
+- '[[_Standards/WikiData/WD~Chern_Medal,1070276]]'
+- '[[_Standards/WikiData/WD~Leelavati_Award,6547571]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753]]"
-  - "[[_Standards/WikiData/WD~International_Council_for_Science,1162568]]"
-  - "[[_Standards/WikiData/WD~International_Science_Council,57587699]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Weierstrass_Institute,2555215]]"
-board_member: "[[_Standards/WikiData/WD~Helge_Holden,3378092]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-field_of_work: "[[_Standards/WikiData/WD~mathematics,395]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753]]'
+- '[[_Standards/WikiData/WD~International_Council_for_Science,1162568]]'
+- '[[_Standards/WikiData/WD~International_Science_Council,57587699]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Weierstrass_Institute,2555215]]'
+board_member: '[[_Standards/WikiData/WD~Helge_Holden,3378092]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+field_of_work: '[[_Standards/WikiData/WD~mathematics,395]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 short_name:
-  - IMU
-  - UMI
+- IMU
+- UMI
 inception: 1951-09-10T00:00:00Z
 official_website: https://www.mathunion.org
-ISNI: "0000000115405375"
+ISNI: 0000000115405375
 domain_name: mathunion.org
+dv_has_:
+  name_:
+    an: Unión Matematica Internacional
+    ar: الاتحاد الدولي للرياضيات
+    ast: Xunión Matemática Internacional
+    be: Міжнародны матэматычны саюз
+    be-tarask: Міжнародны матэматычны зьвяз
+    bg: Международен математически съюз
+    ca: Unió Matemàtica Internacional
+    cs: Mezinárodní matematická unie
+    da: International Mathematical Union
+    de: Internationale Mathematische Union
+    el: Διεθνή Μαθηματική Ένωση
+    en: International Mathematical Union
+    en-gb: International Mathematical Union
+    eo: Internacia Matematika Unio
+    es: Unión Matemática Internacional
+    eu: Nazioarteko Matematika Batasuna
+    fa: اتحادیه جهانی ریاضیات
+    fi: International Mathematical Union
+    fr: Union mathématique internationale
+    gl: Unión Matemática Internacional
+    he: האיחוד המתמטי הבינלאומי
+    hu: Nemzetközi Matematikai Unió
+    hy: Միջազգային մաթեմատիկական միություն
+    it: Unione matematica internazionale
+    ja: 国際数学連合
+    ko: 국제 수학자 연맹
+    mk: Меѓународен математички сојуз
+    ml: അന്താരാഷ്ട്ര ഗണിത സംഘടന
+    ms: Kesatuan Matematik Antarabangsa
+    nb: International Mathematical Union
+    nl: Internationale Wiskundige Unie
+    oc: Union Matematica Internacionala
+    pa: ਇੰਟਰਨੈਸ਼ਨਲ ਮੈਥੇਮੈਟੀਕਲ ਯੂਨੀਅਨ
+    pl: Międzynarodowa Unia Matematyczna
+    pt: União Internacional de Matemática
+    ro: Uniunea Matematică Internațională
+    ru: Международный математический союз
+    sl: Mednarodna matematična zveza
+    sr: Međunarodna matematička unija
+    sv: International Mathematical Union
+    ta: பன்னாட்டு கணித ஒன்றியம்
+    tt: Халыкара математика берлеге
+    uk: Міжнародний математичний союз
+    ur: بین الاقوامی ریاضیاتی یونین
+    uz: Xalqaro matematika ittifoqi
+    vi: Hội liên hiệp Toán học quốc tế
+    wuu: 国际数学联盟
+    zh: 国际数学联盟
+    zh-hans: 国际数学联盟
+    zh-hant: 國際數學聯盟
+    zh-hk: 國際數學聯盟
 ---
-
 # [[International_Mathematical_Union]] 
 
 #is_/same_as :: [[WD~International_Mathematical_Union,828490]] 

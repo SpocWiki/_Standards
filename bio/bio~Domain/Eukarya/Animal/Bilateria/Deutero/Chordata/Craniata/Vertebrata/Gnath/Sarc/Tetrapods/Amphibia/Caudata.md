@@ -1,11 +1,187 @@
 ---
 aliases:
-  - Caudata
-  - Salamander
+- astainie abinieki
+- Batracyin al cawe
+- Bộ Có đuôi
+- caudados
+- Caudata
+- Daždevnjaci
+- Dumli amfibiyalar
+- farkos kétéltűek
+- halepadde
+- Mlokotvaré
+- ocasatí
+- płazy ogoniaste
+- repati krkoni
+- Repaši
+- Salamanda
+- salamandar
+- Salamander
+- salamandere
+- salamanders
+- Salamandr
+- Salamandra
+- salamandrar
+- Salamandrid
+- Salamandro
+- Salamandră
+- salamanterieläimet
+- Salamöndrur
+- Schwanzlurche
+- Semender
+- Stjärtgroddjur
+- Störtpoden
+- Suda-quruda yaşayan quyruqlular
+- Tabili
+- Taydest
+- Tsxilghááh
+- Uodeguotieji varliagyviai
+- Urodela
+- Urodelo
+- Urodels
+- urodèlos
+- Wata-wata
+- Ū-boé-ba̍k
+- Σαλαμάνδρα
+- Куйруктуу амфибиялар
+- Къæдзилджын донзæххонтæ
+- Опашати земноводни
+- опашкари
+- репати водоземац
+- Хвастатыя земнаводныя
+- Хвостаті
+- хвостатые земноводные
+- Хӳреллĕ çĕрти-шыврисем
+- Құйрықты қосмекенділер
+- պոչավոր երկկենցաղներ
+- בעלי זנב
+- سلمندر
+- سمندر
+- سيلامينڊر Salamandar
+- سیلامینڈر
+- سەلەمەندەر
+- सैलामैंडर
+- ਸੈਲਾਮੈਂਡਰ
+- சாலமாண்டர்
+- సాలమండర్
+- സലമാണ്ടർ
+- ซาลาแมนเดอร์
+- ຊາລາແມນເດີ້
+- ဆလမန္ဒာကောင်
+- კუდიანი ამფიბიები
+- 有尾目
+- 도롱뇽목
 has_id_wikidata: Q53663
 title: Caudata
+dv_has_:
+  name_:
+    af: Salamander
+    an: Urodela
+    ar: سلمندر
+    arz: سلمندر
+    ast: Caudata
+    az: Suda-quruda yaşayan quyruqlular
+    bbc: Salamander
+    be: Хвастатыя земнаводныя
+    be-tarask: Хвастатыя земнаводныя
+    bg: Опашати земноводни
+    br: Urodela
+    ca: Urodels
+    ceb: Tabili
+    ckb: سەلەمەندەر
+    cs: ocasatí
+    cv: Хӳреллĕ çĕрти-шыврисем
+    cy: Salamandr
+    da: halepadde
+    de: Schwanzlurche
+    de-ch: Schwanzlurche
+    el: Σαλαμάνδρα
+    en: Caudata
+    en-ca: Salamander
+    en-gb: Salamander
+    eo: Caudata
+    es: Urodela
+    et: Salamandrid
+    eu: Caudata
+    ext: Caudata
+    fa: سمندر
+    fi: salamanterieläimet
+    fr: Caudata
+    frp: urodèlos
+    frr: Störtpoden
+    ga: salamandar
+    gl: Urodelo
+    he: בעלי זנב
+    hi: सैलामैंडर
+    hr: Repaši
+    hu: farkos kétéltűek
+    hy: պոչավոր երկկենցաղներ
+    ia: Caudata
+    id: Salamander
+    ie: Caudata
+    io: Salamandro
+    is: Salamöndrur
+    it: Caudata
+    ja: 有尾目
+    ka: კუდიანი ამფიბიები
+    kab: Taydest
+    kk: Құйрықты қосмекенділер
+    ko: 도롱뇽목
+    kw: Salamander
+    ky: Куйруктуу амфибиялар
+    la: Caudata
+    lo: ຊາລາແມນເດີ້
+    lt: Uodeguotieji varliagyviai
+    lv: astainie abinieki
+    mk: опашкари
+    ml: സലമാണ്ടർ
+    ms: Urodela
+    mul: Caudata
+    my: ဆလမန္ဒာကောင်
+    nan: Ū-boé-ba̍k
+    nb: salamandere
+    nl: salamanders
+    nn: salamandrar
+    nv: Tsxilghááh
+    oc: Urodela
+    os: Къæдзилджын донзæххонтæ
+    pa: ਸੈਲਾਮੈਂਡਰ
+    pl: płazy ogoniaste
+    pnb: سیلامینڈر
+    pt: caudados
+    pt-br: Caudados
+    qu: Wata-wata
+    ro: Salamandră
+    ru: хвостатые земноводные
+    sco: salamander
+    sd: سيلامينڊر Salamandar
+    sh: Daždevnjaci
+    sk: Mlokotvaré
+    sl: repati krkoni
+    sq: Salamandra
+    sr: репати водоземац
+    sv: Stjärtgroddjur
+    sw: Salamanda
+    ta: சாலமாண்டர்
+    te: సాలమండర్
+    th: ซาลาแมนเดอร์
+    tl: Salamandra
+    tr: Semender
+    uk: Хвостаті
+    uz: Dumli amfibiyalar
+    vec: Caudata
+    vi: Bộ Có đuôi
+    vls: Salamander
+    vo: Caudata
+    wa: Batracyin al cawe
+    war: Caudata
+    wuu: 有尾目
+    yue: 有尾目
+    zh: 有尾目
+    zh-cn: 有尾目
+    zh-hans: 有尾目
+    zh-tw: 有尾目
 ---
-
 # [[Caudata]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Caudata,53663|WD~Caudata,53663]] 

@@ -1,23 +1,92 @@
 ---
 aliases:
-  - Marsupialia
-  - Marsupial
-  - Marsupials
-  - Beuteltier
-  - marsupiali
-  - torbacze
-  - Beuteltiere
-  - الجرابيَّات
-  - vrečarji
-  - 有袋上目
+- Beideldéieren
+- Beutelsäuger
+- Beuteltier
+- Beuteltiere
+- Bizaʼazis Dahólónígíí
+- Buideldier
+- buideldieren
+- Buildiere
+- Buydelbeestn
+- erszényesek
+- Godelleg
+- Gua'amba
+- Keseliler
+- Kisəlilər
+- Marsupiais
+- Marsupial
+- Marsupiale
+- marsupiali
+- Marsupialia
+- Marsupialo
+- Marsupials
+- Marsupiulo
+- Marsupiál
+- Marsupiä
+- Marswpial
+- marsúipiach
+- Masipyal
+- Metatheria
+- Pocanach
+- Pokadýr
+- pungdjur
+- pungdyr
+- Pungdýr
+- pussieläimet
+- Pöösdiarten
+- somaiņi
+- Sterbliniai
+- Thú có túi
+- Tobolčari
+- torbacze
+- Torbari
+- Vačkovce
+- vačnatci
+- vrečarji
+- Wayaqa uywa
+- Xaltalilar
+- Ū-tē tōng-bu̍t
+- Μαρσιποφόρα
+- букчалылар
+- Калтан янлык-влак
+- Муҡсалылар
+- сумчасті
+- сумчатые
+- сумчатыя
+- торбари
+- торбести бозайници
+- Хутаҫлисем
+- Хызынджынтæ
+- Қалталылар
+- պարկավորներ
+- יונקי כיס
+- الجرابيَّات
+- جرابيات
+- جولہِ در جانوَر
+- شقبانيات
+- کیسهداران
+- धानीप्राणी
+- থলেধারী
+- மார்சூப்பிகள்
+- మార్సుపీలియా
+- മാർസൂപ്പേലിയ
+- อันดับสัตว์มีกระเป๋าหน้าท้อง
+- မာဆူးပီးယယ်
+- ჩანთოსნები
+- 有袋上目
+- 有袋类
+- 有袋類
+- ꯃꯥꯔꯁꯨꯄꯤꯌꯦꯜ
+- 유대류
 has_id_wikidata: Q25336
 title: Marsupialia
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 parent_taxon: '[[_Standards/WikiData/WD~Metatheria,1096960]]'
 taxon_rank: '[[_Standards/WikiData/WD~infraclass,2007442]]'
 start_time: -66000000-01-01T00:00:00Z
@@ -26,12 +95,12 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 OmegaWiki_Defined_Meaning: 2281
 ITIS_TSN: 179918
 taxon_common_name:
-  - marsupiali
-  - torbacze
-  - Beuteltiere
-  - الجرابيَّات
-  - vrečarji
-  - 有袋上目
+- marsupiali
+- torbacze
+- Beuteltiere
+- الجرابيَّات
+- vrečarji
+- 有袋上目
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kangaroo%20and%20joey03.jpg
 Biology_Online_Biology_Dictionary_entry: marsupial
 GS1_GPC_code: 10005467
@@ -43,8 +112,118 @@ Krugosvet_article_archived_: biologiya/sumchatye
 UMLS_CUI: C0024852
 Commons_category: Marsupialia
 taxon_name: Marsupialia
+dv_has_:
+  name_:
+    af: Buideldier
+    an: Marsupialia
+    ar: جرابيات
+    arz: شقبانيات
+    ast: Marsupialia
+    az: Kisəlilər
+    ba: Муҡсалылар
+    be: сумчатыя
+    be-tarask: сумчатыя
+    bg: торбести бозайници
+    bn: থলেধারী
+    br: Godelleg
+    bs: Torbari
+    ca: marsupials
+    ceb: Marsupialia
+    cs: vačnatci
+    cv: Хутаҫлисем
+    cy: Marswpial
+    da: Pungdyr
+    de: Beuteltiere
+    el: Μαρσιποφόρα
+    en: marsupial
+    eo: Marsupiulo
+    es: Marsupialia
+    eu: Marsupialia
+    fa: کیسهداران
+    fi: pussieläimet
+    fo: Pungdýr
+    fr: Marsupialia
+    frr: Pöösdiarten
+    ga: marsúipiach
+    gd: Pocanach
+    gl: Marsupiais
+    gn: Gua'amba
+    gsw: Beutelsäuger
+    he: יונקי כיס
+    hi: धानीप्राणी
+    hr: Tobolčari
+    ht: Masipyal
+    hu: erszényesek
+    hy: պարկավորներ
+    ia: Marsupialia
+    id: Marsupialia
+    io: Marsupialo
+    is: Pokadýr
+    it: Metatheria
+    ja: 有袋類
+    jv: Marsupialia
+    ka: ჩანთოსნები
+    kk: Қалталылар
+    ko: 유대류
+    ks: جولہِ در جانوَر
+    la: Marsupialia
+    lb: Beideldéieren
+    lfn: Marsupial
+    li: Buildiere
+    lij: Marsupiä
+    lt: Sterbliniai
+    lv: somaiņi
+    mhr: Калтан янлык-влак
+    mk: торбари
+    ml: മാർസൂപ്പേലിയ
+    mni: ꯃꯥꯔꯁꯨꯄꯤꯌꯦꯜ
+    ms: Marsupial
+    mt: Metatheria
+    mul: Marsupialia
+    my: မာဆူးပီးယယ်
+    nan: Ū-tē tōng-bu̍t
+    nb: pungdyr
+    nl: buideldieren
+    nn: pungdyr
+    nv: Bizaʼazis Dahólónígíí
+    oc: Marsupialia
+    os: Хызынджынтæ
+    pl: torbacze
+    pt: marsupiais
+    qu: Wayaqa uywa
+    rm: Marsupialia
+    ro: Marsupiale
+    ru: сумчатые
+    scn: Marsupiali
+    sco: marsupial
+    sh: Tobolčari
+    sk: Vačkovce
+    sl: vrečarji
+    sq: Marsupialia
+    sr: торбари
+    sv: pungdjur
+    sw: Marsupialia
+    ta: மார்சூப்பிகள்
+    te: మార్సుపీలియా
+    tet: Marsupiál
+    th: อันดับสัตว์มีกระเป๋าหน้าท้อง
+    tl: Marsupialia
+    tr: Keseliler
+    tt: букчалылар
+    tt-cyrl: букчалылар
+    uk: сумчасті
+    uz: Xaltalilar
+    vi: Thú có túi
+    vls: Buydelbeestn
+    war: Marsupialia
+    wuu: 有袋类
+    yue: 有袋類
+    zh: 有袋类
+    zh-cn: 有袋类
+    zh-hans: 有袋类
+    zh-tw: 有袋類
+    zu: Marsupialia
 ---
-
 # [[Marsupialia]] 
 
 Metatheria, Kangaroos, koalas, gliders, wombats, opossums, bandicoots, bilbies, etc. 

@@ -1,9 +1,59 @@
 ---
 aliases:
-  - Actinomycetota
-  - Actinobacteria
+- Actinobacteria
+- Actinomycetota
+- Aktinomycety
+- شعيات
+- एक्टिनोमाइसेटोटा
+- 放線菌門
+- 放线菌门
 title: Actinobacteria
 has_id_wikidata: Q62573436
+dv_has_:
+  name_:
+    an: Actinomycetota
+    ar: شعيات
+    ast: Actinomycetota
+    bg: Actinomycetota
+    ca: Actinomycetota
+    ceb: Actinomycetota
+    cs: Aktinomycety
+    de: Actinomycetota
+    en: Actinomycetota
+    en-ca: Actinomycetota
+    en-gb: Actinomycetota
+    eo: Actinomycetota
+    es: Actinomycetota
+    eu: Actinomycetota
+    ext: Actinomycetota
+    fi: Actinomycetota
+    fr: Actinomycetota
+    ga: Actinomycetota
+    gl: Actinomycetota
+    hu: Actinomycetota
+    ia: Actinomycetota
+    ie: Actinomycetota
+    io: Actinomycetota
+    it: Actinomycetota
+    la: Actinomycetota
+    mul: Actinomycetota
+    new: एक्टिनोमाइसेटोटा
+    nl: Actinomycetota
+    oc: Actinomycetota
+    pl: Actinomycetota
+    pt: Actinomycetota
+    pt-br: Actinomycetota
+    ro: Actinomycetota
+    ru: Actinomycetota
+    sq: Actinomycetota
+    sr: Actinomycetota
+    uk: Actinomycetota
+    vi: Actinomycetota
+    vo: Actinomycetota
+    war: Actinomycetota
+    zh: 放线菌门
+    zh-cn: 放线菌门
+    zh-tw: 放線菌門
 ---
 # [[Actinobacteria]] 
 

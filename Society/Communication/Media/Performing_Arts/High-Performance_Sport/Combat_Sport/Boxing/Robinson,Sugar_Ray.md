@@ -1,18 +1,35 @@
 ---
 aliases:
-  - Sugar_Ray_Robinson
-  - Walker Smith Jr.
-  - Sugar Ray Robinson
-  - Robinson,Sugar_Ray
-  - Robinson,Sugar Ray
+- Robinson,Sugar Ray
+- Robinson,Sugar_Ray
+- Sugar Ray Robinson
+- Sugar Rejs Robinsons
+- Sugar_Ray_Robinson
+- Walker Smith Jr.
+- Šugar Rej Robinson
+- Σούγκαρ Ρέι Ρόμπινσον
+- Шугар Рей Робінсон
+- Шугар Рей Робинсън
+- Шугар Рэй Робінсан
+- Шугар Рэй Робинсон
+- שוגר ריי רובינסון
+- شوجار رى روبنسون
+- شوجار ري روبنسون
+- شوگر ری رابینسون
+- शुगर रे रॉबिन्सन
+- સુગર રે રોબિન્સન
+- შუგარ რეი რობინსონი
+- シュガー・レイ・ロビンソン
+- 舒格·雷·罗宾逊
+- 슈거 레이 로빈슨
 has_id_wikidata: Q316706
 place_of_birth: '[[_Standards/WikiData/WD~Ailey,405097]]'
 place_of_death: '[[_Standards/WikiData/WD~Culver_City,493378]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~welterweight,766904]]'
-  - '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
-  - '[[_Standards/WikiData/WD~middleweight,1051530]]'
-  - '[[_Standards/WikiData/WD~lightweight,1051922]]'
+- '[[_Standards/WikiData/WD~welterweight,766904]]'
+- '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
+- '[[_Standards/WikiData/WD~middleweight,1051530]]'
+- '[[_Standards/WikiData/WD~lightweight,1051922]]'
 place_of_burial: '[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]'
 hair_color: '[[_Standards/WikiData/WD~black_hair,1922956]]'
 given_name: '[[_Standards/WikiData/WD~Ray,2133832]]'
@@ -22,8 +39,8 @@ educated_at: '[[_Standards/WikiData/WD~DeWitt_Clinton_High_School,5244175]]'
 footedness: '[[_Standards/WikiData/WD~orthodox_stance,5260471]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~boxer,11338576]]'
 eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
@@ -47,12 +64,66 @@ work_period_start_: 1940-10-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sugar%20Ray%20Robinson%201947.jpg
 official_website: http://www.cmgww.com/sports/robinson/about/bio.html
 ISNI:
-  - 0000000083071904
-  - 0000000368510667
+- 0000000083071904
+- 0000000368510667
 Munzinger_Sport_number: 01000002869
 date_of_birth: 1921-05-03T00:00:00Z
+dv_has_:
+  name_:
+    ar: شوجار ري روبنسون
+    arz: شوجار رى روبنسون
+    ast: Sugar Ray Robinson
+    be-tarask: Шугар Рэй Робінсан
+    bg: Шугар Рей Робинсън
+    bs: Sugar Ray Robinson
+    ca: Sugar Ray Robinson
+    cs: Sugar Ray Robinson
+    cy: Sugar Ray Robinson
+    da: Sugar Ray Robinson
+    de: Sugar Ray Robinson
+    el: Σούγκαρ Ρέι Ρόμπινσον
+    en: Sugar Ray Robinson
+    es: Sugar Ray Robinson
+    eu: Sugar Ray Robinson
+    fa: شوگر ری رابینسون
+    fi: Sugar Ray Robinson
+    fr: Sugar Ray Robinson
+    ga: Sugar Ray Robinson
+    gl: Sugar Ray Robinson
+    gu: સુગર રે રોબિન્સન
+    he: שוגר ריי רובינסון
+    hi: शुगर रे रॉबिन्सन
+    hr: Sugar Ray Robinson
+    hu: Sugar Ray Robinson
+    id: Sugar Ray Robinson
+    io: Sugar Ray Robinson
+    it: Sugar Ray Robinson
+    ja: シュガー・レイ・ロビンソン
+    ka: შუგარ რეი რობინსონი
+    ko: 슈거 레이 로빈슨
+    lv: Sugar Rejs Robinsons
+    mg: Sugar Ray Robinson
+    nb: Sugar Ray Robinson
+    nl: Sugar Ray Robinson
+    nn: Sugar Ray Robinson
+    pl: Sugar Ray Robinson
+    pt: Sugar Ray Robinson
+    pt-br: Sugar Ray Robinson
+    ro: Sugar Ray Robinson
+    ru: Шугар Рэй Робинсон
+    sl: Sugar Ray Robinson
+    sq: Sugar Ray Robinson
+    sr: Šugar Rej Robinson
+    sv: Sugar Ray Robinson
+    sw: Sugar Ray Robinson
+    tr: Sugar Ray Robinson
+    uk: Шугар Рей Робінсон
+    uz: Sugar Ray Robinson
+    vi: Sugar Ray Robinson
+    war: Sugar Ray Robinson
+    yo: Sugar Ray Robinson
+    zh: 舒格·雷·罗宾逊
 ---
-
 # [[Robinson,Sugar_Ray]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sugar_Ray_Robinson,316706|WD~Sugar_Ray_Robinson,316706]]  

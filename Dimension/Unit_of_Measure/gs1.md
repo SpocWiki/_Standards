@@ -1,7 +1,54 @@
 ---
 has_id_wikidata: Q731100
+dv_has_:
+  name_:
+    ar: جي إس 1
+    be-tarask: GS1
+    bg: GS1
+    bs: GS1
+    ca: GS1
+    cs: GS1
+    da: GS1
+    de: GS1
+    el: GS1
+    en: GS1
+    en-gb: GS1
+    es: GS1
+    fa: جیاس۱
+    fi: GS1
+    fr: GS1
+    he: GS1
+    hr: GS1
+    hu: GS1
+    id: GS1
+    it: GS1
+    ja: GS1
+    jv: GS1
+    lt: GS1
+    lv: GS1
+    mul: GS1 in Europe
+    nl: GS1
+    pl: GS1
+    pt: GS1
+    ro: GS1
+    ru: GS1
+    sl: GS1
+    sr: GS1
+    sv: GS1
+    tr: GS1 Barkod
+    uk: GS1
+    ur: جی ایس 1
+    vi: GS1
+    zh: GS1
+    zh-hans: GS1
+aliases:
+- GS1
+- GS1 Barkod
+- GS1 in Europe
+- جي إس 1
+- جی ایس 1
+- جیاس۱
 ---
-
 # gs1 Overview
 
 GS1 is a global Trade Organization formed by Country-Chapters 

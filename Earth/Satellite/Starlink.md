@@ -1,53 +1,70 @@
 ---
 dv_is_:
   same_as:
-    - "[[WD~Starlink,19867977]]"
-    - "[[/_Standards/Earth/Satellite/Starlink|Starlink]]"
-    - "[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]"
-    - "[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]"
-    - "[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]"
-    - "[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]"
-    - "[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]"
-    - "[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]"
+  - '[[WD~Starlink,19867977]]'
+  - '[[/_Standards/Earth/Satellite/Starlink|Starlink]]'
+  - '[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]'
+  - '[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]'
+  - '[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]'
+  - '[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]'
+  - '[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]'
+  - '[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]'
 dv_is_same_as:
-  - "[[WD~Starlink,19867977]]"
-  - "[[/_Standards/Earth/Satellite/Starlink|Starlink]]"
-  - "[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]"
-  - "[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]"
-  - "[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]"
-  - "[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]"
-  - "[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]"
-  - "[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]"
-
-has_time_started: 2015-01-01 
+- '[[WD~Starlink,19867977]]'
+- '[[/_Standards/Earth/Satellite/Starlink|Starlink]]'
+- '[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]'
+- '[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]'
+- '[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]'
+- '[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]'
+- '[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]'
+- '[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]'
+has_time_started: 2015-01-01
 aliases:
+- Starlink
+- Starlink peyk şəbəkəsi
+- Starlink SpaceX
+- Старлинк
+- استارلینک
+- اسټارلینک
+- ستارلنك
+- ستارلینک
+- स्टारलिंक
+- स्टारलिङ्क
+- ষ্টাৰলিংক
+- স্টারলিঙ্ক
+- സ്റ്റാർലിങ്ക്
+- สตาร์ลิงก์ (โครงข่ายดาวเทียม)
+- スターリンク
+- 星鏈
+- 星链
+- 스타링크
 has_id_wikidata: Q19867977
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~communications_satellite,149918]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~communications_satellite,149918]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~project,170584]]"
-  - "[[_Standards/WikiData/WD~satellite_internet_constellation,54806917]]"
+- '[[_Standards/WikiData/WD~project,170584]]'
+- '[[_Standards/WikiData/WD~satellite_internet_constellation,54806917]]'
 operating_area:
-  - "[[_Standards/WikiData/WD~Metropolitan_France,212429]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-named_after: "[[_Standards/WikiData/WD~The_Fault_in_Our_Stars,658375]]"
-has_use: "[[_Standards/WikiData/WD~satellite_Internet_access,877159]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Starlink_launches,110311637]]"
-different_from: "[[_Standards/WikiData/WD~Starlink,127785902]]"
-manufacturer: "[[_Standards/WikiData/WD~Starlink,127785902]]"
-operator: "[[_Standards/WikiData/WD~Starlink,127785902]]"
-part_of: "[[_Standards/WikiData/WD~list_of_companies_involved_in_the_Gaza_war,134661623]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Metropolitan_France,212429]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+named_after: '[[_Standards/WikiData/WD~The_Fault_in_Our_Stars,658375]]'
+has_use: '[[_Standards/WikiData/WD~satellite_Internet_access,877159]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Starlink_launches,110311637]]'
+different_from: '[[_Standards/WikiData/WD~Starlink,127785902]]'
+manufacturer: '[[_Standards/WikiData/WD~Starlink,127785902]]'
+operator: '[[_Standards/WikiData/WD~Starlink,127785902]]'
+part_of: '[[_Standards/WikiData/WD~list_of_companies_involved_in_the_Gaza_war,134661623]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 mass:
-  - 800
-  - 260
-  - 1250
-  - 227
-  - 295
+- 800
+- 260
+- 1250
+- 227
+- 295
 official_name: Starlink
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Starlink%20Logo%202024.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starlink%20Mission%20%2847926144123%29.jpg
@@ -56,8 +73,82 @@ subreddit: Starlink
 Commons_category: Starlink
 inception: 2015-01-01T00:00:00Z
 first_flight: 2019-05-24T00:00:00Z
+dv_has_:
+  name_:
+    af: Starlink
+    an: Starlink
+    ar: ستارلنك
+    arz: ستارلنك
+    as: ষ্টাৰলিংক
+    az: Starlink peyk şəbəkəsi
+    bcl: Starlink
+    be: Starlink
+    bg: Starlink
+    bn: স্টারলিঙ্ক
+    ca: Starlink
+    ckb: ستارلینک
+    cs: Starlink
+    cy: Starlink
+    de: Starlink
+    de-ch: Starlink
+    el: Starlink
+    en: Starlink
+    en-ca: Starlink
+    en-gb: Starlink
+    eo: Starlink
+    es: Starlink
+    et: Starlink
+    eu: Starlink
+    fa: استارلینک
+    fi: Starlink
+    fr: Starlink
+    he: Starlink
+    hi: स्टारलिंक
+    hr: Starlink
+    hu: Starlink
+    id: Starlink
+    io: Starlink
+    is: Starlink
+    it: Starlink
+    ja: スターリンク
+    jv: Starlink
+    kk: Starlink
+    ko: 스타링크
+    la: Starlink
+    lt: Starlink
+    lv: Starlink
+    ml: സ്റ്റാർലിങ്ക്
+    mn: Starlink
+    nb: Starlink
+    ne: स्टारलिङ्क
+    nl: Starlink
+    ny: Starlink
+    pl: Starlink
+    ps: اسټارلینک
+    pt: Starlink
+    pt-br: Starlink
+    qu: Starlink
+    ro: Starlink
+    ru: Starlink
+    sah: Starlink
+    sgs: Starlink
+    sk: Starlink
+    sl: Starlink
+    sq: Starlink
+    sr: Старлинк
+    sv: Starlink
+    sw: Starlink
+    th: สตาร์ลิงก์ (โครงข่ายดาวเทียม)
+    tl: Starlink
+    tr: Starlink
+    uk: Starlink SpaceX
+    uz: Starlink
+    vi: Starlink
+    wuu: 星链
+    yue: 星鏈
+    zh: 星链
+    zh-tw: 星鏈
 ---
-
 # [[Starlink]] 
 
 #is_/same_as :: [[WD~Starlink,19867977]]

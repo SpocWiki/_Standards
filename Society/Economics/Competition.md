@@ -1,33 +1,120 @@
 ---
 aliases:
-  - Wettbewerb
-  - '{ newTitle: }': ''
-  - Competition
+- Akansie
+- competeetion
+- competicion
+- competició
+- competición
+- competitie
+- Competition
+- competizione
+- competição
+- competiție
+- compétition
+- comórtas
+- conpetision
+- cystadleuaeth
+- cạnh tranh
+- gaahtjeme
+- gilpos
+- gilvu
+- gïlbbuome
+- kapping
+- kilpailu
+- kišto
+- kokwetcihitowin
+- kompetisi
+- kompetisie
+- Kompetisyon
+- Kompetitioun
+- Kompetysje
+- konkurencija
+- konkurranse
+- konkurrence
+- konkurs
+- konkurso
+- lehia
+- Mashindano
+- Paligsahan
+- pertandingan
+- rekabet
+- Rəqabət
+- sacensība
+- Samkeppni
+- soutěžení
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- súťaženie
+- takmičenje
+- tekmovanje
+- tevling
+- tävling
+- verseny
+- võistlus
+- Wettbewerb
+- Wettkampf
+- wubědźowanje
+- Yallinakuy
+- zawody
+- ǩeâlbb
+- διοργάνωση
+- Белсенді сайлау құқығы
+- змаганне
+- змагання
+- Конкуренция
+- конкурс
+- көндәшлек
+- мусобиқа
+- соперничество
+- соперништво
+- спаборніцтва
+- Състезание
+- такмичење
+- Тупăшу
+- Яхьаш
+- Մրցակցություն
+- קאנקורענץ
+- תחרות
+- رقابت
+- سیالي
+- منافسة
+- ڕکابەری
+- ڤرتنديڠن
+- प्रतियोगिता
+- প্রতিযোগিতা
+- போட்டி
+- ಸ್ಪರ್ಧೆ
+- තරගය
+- การแข่งขัน
+- コンペティション
+- 爭嘢
+- 竞争
+- 競爭
+- 경쟁
 has_id_wikidata: Q476300
 opposite_of:
-  - '[[_Standards/WikiData/WD~cooperation,380962]]'
-  - '[[_Standards/WikiData/WD~mutual_aid,766238]]'
+- '[[_Standards/WikiData/WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~mutual_aid,766238]]'
 different_from:
-  - '[[_Standards/WikiData/WD~competition,841654]]'
-  - '[[_Standards/WikiData/WD~competition,23807345]]'
+- '[[_Standards/WikiData/WD~competition,841654]]'
+- '[[_Standards/WikiData/WD~competition,23807345]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~rivalry,1139327]]'
-  - '[[_Standards/WikiData/WD~interaction,52948]]'
+- '[[_Standards/WikiData/WD~rivalry,1139327]]'
+- '[[_Standards/WikiData/WD~interaction,52948]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
 properties_for_this_type: participant
 OmegaWiki_Defined_Meaning: 692
 Commons_category: Competitions
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20one.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hirschkampf.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%20-%20Pie-eating%20contest%202003.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20one.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hirschkampf.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%20-%20Pie-eating%20contest%202003.jpg
 equivalent_class: http://dbpedia.org/ontology/Contest
 UMLS_CUI: C0009495
 MeSH_tree_code: F01.145.813.105
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -48,13 +135,113 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - '{ newTitle: }': ''
-  - excalidraw
+- '{ newTitle: }': ''
+- excalidraw
 title:
   '{ newTitle: }': ''
 type: private_note
+dv_has_:
+  name_:
+    af: kompetisie
+    ak: Akansie
+    ar: منافسة
+    atj: kokwetcihitowin
+    az: Rəqabət
+    bcl: Kompetisyon
+    be: змаганне
+    be-tarask: спаборніцтва
+    bg: Състезание
+    bn: প্রতিযোগিতা
+    ca: competició
+    ckb: ڕکابەری
+    cs: soutěžení
+    cv: Тупăшу
+    cy: cystadleuaeth
+    da: konkurrence
+    de: Wettkampf
+    el: διοργάνωση
+    en: competition
+    eo: konkurso
+    es: competición
+    et: võistlus
+    eu: lehia
+    fa: رقابت
+    fi: kilpailu
+    fo: kapping
+    fr: compétition
+    fy: Kompetysje
+    ga: comórtas
+    gl: competición
+    he: תחרות
+    hi: प्रतियोगिता
+    hr: konkurencija
+    hsb: wubědźowanje
+    hu: verseny
+    hy: Մրցակցություն
+    id: kompetisi
+    inh: Яхьаш
+    is: Samkeppni
+    it: competizione
+    ja: コンペティション
+    kk: Белсенді сайлау құқығы
+    kn: ಸ್ಪರ್ಧೆ
+    ko: 경쟁
+    lb: Kompetitioun
+    lt: konkurencija
+    lv: sacensība
+    mk: соперништво
+    ms: pertandingan
+    ms-arab: ڤرتنديڠن
+    nb: konkurranse
+    nl: competitie
+    nn: tevling
+    oc: competicion
+    pl: zawody
+    ps: سیالي
+    pt: competição
+    pt-br: competição
+    qu: Yallinakuy
+    ro: competiție
+    ru: соперничество
+    rue: Конкуренция
+    sco: competeetion
+    se: gilvu
+    si: තරගය
+    sjd: конкурс
+    sju: gïlbbuome
+    sk: súťaženie
+    sl: tekmovanje
+    sma: gaahtjeme
+    smj: gilpos
+    smn: kišto
+    sms: ǩeâlbb
+    sq: konkurs
+    sr: такмичење
+    sr-ec: такмичење
+    sr-el: takmičenje
+    sv: tävling
+    sw: Mashindano
+    ta: போட்டி
+    tg: мусобиқа
+    th: การแข่งขัน
+    tl: Paligsahan
+    tr: rekabet
+    tt: көндәшлек
+    tt-cyrl: көндәшлек
+    uk: змагання
+    ur: competition
+    vec: conpetision
+    vi: cạnh tranh
+    yi: קאנקורענץ
+    yue: 爭嘢
+    zh: 竞争
+    zh-cn: 竞争
+    zh-hans: 竞争
+    zh-hant: 競爭
+    zh-hk: 競爭
+    zh-sg: 竞争
+    zh-tw: 競爭
 ---
-
 # [[Competition]] 
 
 #is_/same_as :: [[../../WikiData/WD~Competition,476300|WD~Competition,476300]] 

@@ -1,20 +1,87 @@
 ---
 aliases:
-  - Düne
-  - Dune
+- Burol ng buhangin
+- Cro
+- Din
+- Dina
+- Dongom-pasika
+- duin
+- dumhach
+- duna
+- Dune
+- Dunes
+- duno
+- Dună
+- Duune
+- Dyun
+- dyuna
+- dyyni
+- Dún
+- Düne
+- Düner
+- Düün
+- dűne
+- gumuk
+- Kliengen
+- klit
+- Kopa
+- kumul
+- kāpa
+- luide
+- Mielle
+- Muntarozzu
+- nawěw
+- piesočná duna
+- pješčana dina
+- Sandalda
+- sanddyn
+- sanddyne
+- sipina
+- Soa-lūn
+- tevenn
+- Thinium
+- Tuta la mchanga
+- twyn tywod
+- Veinukunuku
+- wydma
+- đụn cát
+- αμμόλοφος
+- выдма
+- дзюна
+- Дина
+- дюнæ
+- дюна
+- дюналар
+- луобукос
+- ավազաբլուր
+- חולית
+- تلماسه
+- تەپۆڵکە
+- ریتلا ٹیلا
+- كثيب
+- ڀٽ
+- बालुका स्तूप
+- ಮರಳುದಿಣ್ಣೆ
+- മണൽക്കുന്ന്
+- වැලි කඳු
+- เนินทราย
+- დიუნა
+- 沙丘
+- 砂丘
+- 사구
 has_id_wikidata: Q25391
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~aeolian_landform,4687862]]"
-  - "[[_Standards/WikiData/WD~Q16963184,16963184]]"
-  - "[[_Standards/WikiData/WD~hill,54050]]"
-different_from: "[[_Standards/WikiData/WD~Dune,6095696]]"
-part_of: "[[_Standards/WikiData/WD~dunefield,105100160]]"
+- '[[_Standards/WikiData/WD~aeolian_landform,4687862]]'
+- '[[_Standards/WikiData/WD~Q16963184,16963184]]'
+- '[[_Standards/WikiData/WD~hill,54050]]'
+different_from: '[[_Standards/WikiData/WD~Dune,6095696]]'
+part_of: '[[_Standards/WikiData/WD~dunefield,105100160]]'
 OmegaWiki_Defined_Meaning: 3307
 Commons_gallery: Dune
 Commons_category: Dunes
@@ -26,25 +93,122 @@ GeoNames_feature_code: T.DUNE
 OpenStreetMap_tag_or_key: Tag:landform=dune_system
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]"
-    - "[[/_Standards/Earth/Geology/Landform/Dune|Dune]]"
-    - "[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]"
+  - '[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]'
+  - '[[/_Standards/Earth/Geology/Landform/Dune|Dune]]'
+  - '[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]"
-  - "[[/_Standards/Earth/Geology/Landform/Dune|Dune]]"
-  - "[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]"
+- '[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]'
+- '[[/_Standards/Earth/Geology/Landform/Dune|Dune]]'
+- '[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]'
+- '[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]'
+- '[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]'
+- '[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]'
+dv_has_:
+  name_:
+    af: Duin
+    ar: كثيب
+    ast: Duna
+    az: Dyun
+    bar: Düne
+    be: дзюна
+    be-tarask: выдма
+    bg: Дюна
+    br: tevenn
+    bs: Dina
+    ca: duna
+    ceb: Dunes
+    ckb: تەپۆڵکە
+    cs: duna
+    cy: twyn tywod
+    da: klit
+    de: Düne
+    el: αμμόλοφος
+    en: dune
+    en-gb: dune
+    en-us: dune
+    eo: duno
+    es: duna
+    et: luide
+    eu: Duna
+    fa: تلماسه
+    fi: dyyni
+    fj: Veinukunuku
+    fr: dune
+    frr: Düner
+    fy: Dún
+    ga: dumhach
+    gl: duna
+    he: חולית
+    hi: बालुका स्तूप
+    hr: pješčana dina
+    hsb: nawěw
+    ht: Din
+    hu: dűne
+    hy: ավազաբլուր
+    ia: Duna
+    id: gumuk
+    io: Duno
+    is: Sandalda
+    it: duna
+    ja: 砂丘
+    ka: დიუნა
+    kk: дюналар
+    kn: ಮರಳುದಿಣ್ಣೆ
+    ko: 사구
+    ky: дюна
+    la: Thinium
+    lt: Kopa
+    lv: kāpa
+    mg: Dongom-pasika
+    mk: Дина
+    ml: മണൽക്കുന്ന്
+    ms: gumuk
+    nan: Soa-lūn
+    nb: sanddyne
+    nds: Düün
+    nl: duin
+    nn: sanddyne
+    nrm: Mielle
+    oc: Duna
+    os: дюнæ
+    pap: Duin
+    pcd: Cro
+    pl: wydma
+    pnb: ریتلا ٹیلا
+    pt: duna
+    ro: Dună
+    ru: дюна
+    scn: Muntarozzu
+    sd: ڀٽ
+    sh: dina
+    si: වැලි කඳු
+    sk: piesočná duna
+    sl: sipina
+    sq: Duna
+    sr: дина
+    stq: Duune
+    sv: sanddyn
+    sw: Tuta la mchanga
+    th: เนินทราย
+    tl: Burol ng buhangin
+    tr: kumul
+    udm: луобукос
+    uk: дюна
+    uz: dyuna
+    vi: đụn cát
+    vls: Dune
+    wuu: 沙丘
+    yue: 沙丘
+    zea: Kliengen
+    zh: 沙丘
 ---
-
 # [[Dune]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dune,25391|WD~Dune,25391]] 

@@ -1,41 +1,178 @@
 ---
 aliases:
+- caildéara
+- caldeira
+- Caldeira volcánica
+- caldeira vulcânica
+- caldera
+- Caldera volcanica
+- caldera volcànica
+- Caldera volcánica
+- Calderă
+- callor
+- Hõm chảo
+- kaldeera
+- Kaldeira
+- Kalder
+- kaldera
+- Kaldero
+- Kaldéra
+- Kalʹdera
+- Sigketill
+- Sumendi-galdara
+- Καλδέρα
+- Калдера
+- кальдера
+- Кальдира
+- Кальдэра
+- Կալդերա
+- קלדרה
+- كالديرا
+- كالدەرا
+- كلديرا
+- کاسه آتشفشانی
+- काल्डेरा
+- ज्वालामुख-कुण्ड
+- எரிமலைப் பெருவாய்
+- കാൽഡെറ
+- แอ่งยุบปากปล่อง
+- კალდერა
+- カルデラ
+- 破火山口
+- 陷落火山口
+- 칼데라
 has_id_wikidata: Q159954
 subclass_of:
-  - "[[_Standards/WikiData/WD~depression,190429]]"
-  - "[[_Standards/WikiData/WD~volcanic_landform,29025902]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~Caldera,3708]]"
+- '[[_Standards/WikiData/WD~depression,190429]]'
+- '[[_Standards/WikiData/WD~volcanic_landform,29025902]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Caldera,3708]]'
 Commons_gallery: Caldera
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Mazama%20eruption%20timeline.PNG
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000096
-P8189: "987007293785105171"
+P8189: 987007293785105171
 Commons_category: Calderas
 GeoNames_feature_code: T.CLDA
 OpenStreetMap_tag_or_key: Tag:geological=volcanic_caldera_rim
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]"
-    - "[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]"
-    - "[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]"
-  similar_to: "[[Volcanic_Crater]]"
+  - '[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]'
+  - '[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]'
+  - '[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]'
+  similar_to: '[[Volcanic_Crater]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]"
-  - "[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]"
-  - "[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]"
-dv_is_similar_to: "[[Volcanic_Crater]]"
+- '[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]'
+- '[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]'
+- '[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]'
+- '[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]'
+- '[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]'
+- '[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]'
+dv_is_similar_to: '[[Volcanic_Crater]]'
+dv_has_:
+  name_:
+    acm: كالديرا
+    af: Kaldera
+    an: Caldera volcanica
+    ar: كلديرا
+    ast: Caldera volcánica
+    az: Kalder
+    be: Кальдэра
+    be-tarask: кальдэра
+    bg: Калдера
+    bho: काल्डेरा
+    br: Kaldeira
+    ca: caldera volcànica
+    ce: Кальдера
+    cs: kaldera
+    cy: callor
+    da: Caldera
+    de: Caldera
+    el: Καλδέρα
+    en: caldera
+    en-ca: Caldera
+    en-gb: Caldera
+    eo: Kaldero
+    es: caldera volcánica
+    et: kaldeera
+    eu: Sumendi-galdara
+    fa: کاسه آتشفشانی
+    fi: kaldera
+    fr: caldeira
+    ga: caildéara
+    gl: Caldeira volcánica
+    gsw: Caldera
+    he: קלדרה
+    hi: ज्वालामुख-कुण्ड
+    hr: kaldera
+    ht: Kaldera
+    hu: kaldera
+    hy: Կալդերա
+    id: Kaldera
+    is: Sigketill
+    it: caldera
+    ja: カルデラ
+    ka: კალდერა
+    kk: Кальдера
+    kk-arab: كالدەرا
+    kk-cn: كالدەرا
+    kk-cyrl: Кальдера
+    kk-kz: Кальдера
+    kk-latn: Kalʹdera
+    kk-tr: Kalʹdera
+    ko: 칼데라
+    ky: Кальдира
+    la: Caldera
+    lb: Caldera
+    lt: Kaldera
+    lv: kaldera
+    min: Kaldera
+    mk: калдера
+    ml: കാൽഡെറ
+    ms: Kaldera
+    nb: kaldera
+    nl: caldera
+    nn: kaldera
+    oc: Caldera
+    pl: kaldera
+    pt: caldeira vulcânica
+    pt-br: Caldeira vulcânica
+    ro: Calderă
+    ru: кальдера
+    sc: Caldera
+    sco: Caldera
+    sh: Kaldera
+    sk: Kaldera
+    sl: kaldera
+    sr: калдера
+    sr-ec: Калдера
+    sr-el: Kaldera
+    su: Kaldéra
+    sv: kaldera
+    sw: Kaldera
+    ta: எரிமலைப் பெருவாய்
+    th: แอ่งยุบปากปล่อง
+    tr: kaldera
+    uk: Кальдера
+    uz: Kaldera
+    vi: Hõm chảo
+    wuu: 破火山口
+    xmf: კალდერა
+    yue: 陷落火山口
+    zh: 破火山口
+    zh-cn: 破火山口
+    zh-hans: 破火山口
+    zh-hant: 破火山口
+    zh-hk: 破火山口
+    zh-sg: 破火山口
+    zh-tw: 破火山口
 ---
-
 # [[Caldera]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]] 

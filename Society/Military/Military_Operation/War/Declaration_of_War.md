@@ -1,21 +1,116 @@
 ---
 aliases:
-  - Kriegserklärung
-  - Declaration_of_War
-  - Declaration of War
+- Declaracion de guèrra
+- declaració de guerra
+- Declaración de guerra
+- Declaration of War
+- Declaration_of_War
+- declaração de guerra
+- declarație de război
+- Deklarata e luftës
+- Dichiarazione di guerra
+- Disklêriadur brezel
+- déclaration de guerre
+- Gerra-deklarazio
+- hadüzenet
+- Indictio belli
+- Kriegserklärung
+- krigserklæring
+- krigsförklaring
+- militdeklaro
+- Objava rata
+- oorlogsverklaring
+- Pernyataan perang
+- savaş ilanı
+- sodanjulistus
+- Tuyên bố chiến tranh
+- vojna napoved
+- vyhlášení války
+- wypowiedzenie wojny
+- Κήρυξη πολεμου
+- Абвяшчэнне вайны
+- абвяшчэньне вайны
+- Објава рата
+- объявление войны
+- оголошення війни
+- הכרזת מלחמה
+- إعلان حرب
+- اعلان جنگ
+- ڕاگەیاندنی شەڕ
+- युद्धको घोषणा
+- போர்ப் பிரகடனம்
+- การประกาศสงคราม
+- 宣战
+- 宣戦布告
+- 宣戰
+- 선전포고
 has_id_wikidata: Q334516
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of: '[[_Standards/WikiData/WD~declaration,2620826]]'
 facet_of: '[[_Standards/WikiData/WD~law_of_war,6833880]]'
 properties_for_this_type:
-  - target
-  - country
+- target
+- country
 Iconclass_notation: 45A12
 Commons_category: Declarations of war
+dv_has_:
+  name_:
+    ar: إعلان حرب
+    ast: Declaración de guerra
+    be: Абвяшчэнне вайны
+    be-tarask: абвяшчэньне вайны
+    br: Disklêriadur brezel
+    ca: declaració de guerra
+    ckb: ڕاگەیاندنی شەڕ
+    cs: vyhlášení války
+    da: Krigserklæring
+    de: Kriegserklärung
+    el: Κήρυξη πολεμου
+    en: declaration of war
+    eo: militdeklaro
+    es: declaración de guerra
+    eu: Gerra-deklarazio
+    fa: اعلان جنگ
+    fi: sodanjulistus
+    fr: déclaration de guerre
+    gl: declaración de guerra
+    he: הכרזת מלחמה
+    hr: Objava rata
+    hu: hadüzenet
+    id: Pernyataan perang
+    it: Dichiarazione di guerra
+    ja: 宣戦布告
+    ko: 선전포고
+    la: Indictio belli
+    nb: krigserklæring
+    ne: युद्धको घोषणा
+    nl: oorlogsverklaring
+    nn: krigserklæring
+    oc: Declaracion de guèrra
+    pl: wypowiedzenie wojny
+    pt: declaração de guerra
+    ro: declarație de război
+    ru: объявление войны
+    sh: Objava rata
+    sl: vojna napoved
+    sq: Deklarata e luftës
+    sr: Објава рата
+    sv: krigsförklaring
+    ta: போர்ப் பிரகடனம்
+    th: การประกาศสงคราม
+    tr: savaş ilanı
+    uk: оголошення війни
+    vi: Tuyên bố chiến tranh
+    zh: 宣戰
+    zh-cn: 宣战
+    zh-hans: 宣战
+    zh-hant: 宣戰
+    zh-hk: 宣戰
+    zh-sg: 宣战
+    zh-tw: 宣戰
 ---
-
 # [[Declaration_of_War]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Declaration_of_war,334516|WD~Declaration_of_war,334516]] 

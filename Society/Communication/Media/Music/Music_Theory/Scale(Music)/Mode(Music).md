@@ -1,26 +1,122 @@
 ---
 aliases:
+- Helilaad
+- kirketoneart
+- kyrkjetoneart
+- kyrkotonart
+- Lad
+- Manera musical
+- mod
+- Mod (muzika)
+- modal skala
+- modaliteit
+- Modalo
+- mode
+- Mode (musik)
+- modlar
+- modo
+- modo musical
+- modo musicale
+- modu
+- modus
+- modális hangsor
+- moodi
+- Mòde (solfegi)
+- mód
+- Məqam
+- Skaņkārta
+- tryb
+- Điệu thức
+- τρόπος
+- лад
+- лад музичний
+- мод
+- музычны лад
+- җай
+- Լադ
+- מודוס
+- مد
+- وضع
+- 旋法
+- 調式
+- 调式
+- 선법
 has_id_wikidata: Q731978
-part_of: "[[_Standards/WikiData/WD~musicology,164204]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~scale,179651]]"
-subclass_of: "[[_Standards/WikiData/WD~harmony,184421]]"
+part_of: '[[_Standards/WikiData/WD~musicology,164204]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~scale,179651]]'
+subclass_of: '[[_Standards/WikiData/WD~harmony,184421]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-facet_of: "[[_Standards/WikiData/WD~sound_tone,1744295]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~(1_4_...Qq),6173448]]"
-different_from: "[[_Standards/WikiData/WD~mode,6888090]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Scales,10831748]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+facet_of: '[[_Standards/WikiData/WD~sound_tone,1744295]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~(1_4_...Qq),6173448]]'
+different_from: '[[_Standards/WikiData/WD~mode,6888090]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Scales,10831748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~technical_term,12812139]]"
-  - "[[_Standards/WikiData/WD~musical_concept,115211517]]"
-used_by: "[[_Standards/WikiData/WD~modal_system,110407926]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Kazakh,9252]]"
+- '[[_Standards/WikiData/WD~technical_term,12812139]]'
+- '[[_Standards/WikiData/WD~musical_concept,115211517]]'
+used_by: '[[_Standards/WikiData/WD~modal_system,110407926]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Kazakh,9252]]'
 Commons_category: Musical modes
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LADI.html
+dv_has_:
+  name_:
+    ar: وضع
+    ast: Manera musical
+    az: Məqam
+    be: лад
+    be-tarask: музычны лад
+    bg: Лад
+    ca: mode
+    cs: modus
+    da: kirketoneart
+    de: Modus
+    el: τρόπος
+    en: mode
+    eo: Modalo
+    es: modo
+    et: Helilaad
+    eu: modu
+    fa: مد
+    fi: moodi
+    fr: mode
+    ga: mód
+    gl: modo musical
+    he: מודוס
+    hu: modális hangsor
+    hy: Լադ
+    it: modo musicale
+    ja: 旋法
+    kk: Лад
+    ko: 선법
+    la: modus
+    lv: Skaņkārta
+    mk: мод
+    nb: modal skala
+    nl: modaliteit
+    nn: kyrkjetoneart
+    oc: Mòde (solfegi)
+    pl: tryb
+    pt: modo musical
+    ro: mod
+    ru: лад
+    sl: modus
+    sr: Mod (muzika)
+    su: Mode (musik)
+    sv: kyrkotonart
+    tr: modlar
+    tt: җай
+    uk: лад музичний
+    uz: Lad
+    vi: Điệu thức
+    wuu: 调式
+    yue: 調式
+    zh: 调式
+    zh-hans: 调式
+    zh-hant: 調式
+    zh-hk: 調式
 ---
-
 # [[Mode(Music)]] 
 
 #is_/same_as :: [[WD~Mode,731978]] 

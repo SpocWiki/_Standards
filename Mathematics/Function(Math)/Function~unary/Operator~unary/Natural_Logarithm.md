@@ -1,31 +1,182 @@
 ---
 aliases:
+- alugaritm agaman
+- chū-jiân tùi-sò͘
+- logarithme naturel
+- logarithmo natural
+- logarithmus naturalis
+- logaritm
+- logaritm natural
+- logaritm neperian
+- logaritm ëd Napier
+- logaritma asli
+- logaritma natural
+- logaritme natural
+- Logaritme neperian
+- Logaritmi natyror
+- logaritmo arrunt
+- logaritmo natural
+- logaritmo naturale
+- logarytm naturalny
+- lunddolaš logaritma
+- luonnollinen logaritmi
+- luâđlaž logaritmm
+- lôgarit tự nhiên
+- naravni logaritem
+- natura logaritmo
+- naturaallogaritm
+- Natural logarifm
+- natural logarithm
+- natural loqarifma
+- naturlig logaritme
+- naturliga logaritmen
+- naturālais logaritms
+- natuurlijke logaritme
+- natuurlike logaritme
+- natürlicher Logarithmus
+- natūrinis logaritmas
+- náttúrlig logaritma
+- Prirodni logaritam
+- prirodzený logaritmus
+- přirozený logaritmus
+- természetes logaritmus
+- φυσικός λογάριθμος
+- естествен логаритъм
+- лыдлэн натуральной логарифмез
+- Натурал логарифм
+- натураллă логарифм
+- натуральний логаритм
+- натуральны лагарыфм
+- натуральный логарифм
+- природен логаритам
+- природни логаритам
+- բնական լոգարիթմ
+- לוגריתם טבעי
+- لغارتم طبيعي
+- لگاریتم طبیعی
+- لۆگاریتمی سروشتی
+- प्राकृतिक लघुगणक
+- प्राकृतिक लोगारिदम
+- இயல் மடக்கை
+- ප්රකෘති ලඝුගණක
+- ลอการิทึมธรรมชาติ
+- ნატურალური ლოგარითმი
+- 自然对数
+- 自然対数
+- 自然對數
+- 자연로그
 has_id_wikidata: Q204037
 uses: "[[_Standards/WikiData/WD~Euler's_number,82435]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~elementary_function,824282]]"
-  - "[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]"
-  - "[[_Standards/WikiData/WD~logarithm,11197]]"
-codomain: "[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]"
+- '[[_Standards/WikiData/WD~elementary_function,824282]]'
+- '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+- '[[_Standards/WikiData/WD~logarithm,11197]]'
+codomain: '[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~polylogarithm,1238449]]"
-  - "[[_Standards/WikiData/WD~logarithm,11197]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-mathematical_inverse: "[[_Standards/WikiData/WD~natural_exponential_function,47306354]]"
-definition_domain: "[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]"
-input_set: "[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
+- '[[_Standards/WikiData/WD~polylogarithm,1238449]]'
+- '[[_Standards/WikiData/WD~logarithm,11197]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
+definition_domain: '[[_Standards/WikiData/WD~set_of_positive_real_numbers,47494165]]'
+input_set: '[[_Standards/WikiData/WD~set_of_non_negative_real_numbers,91311892]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow></msub><mi>x</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mi>a</mi></mrow></msub><mi>x</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi></mstyle></mrow></math>
 defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi><mo stretchy="false">=</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow></mrow></msub><mi>x</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msup></mrow><mrow><mi>k</mi></mrow></mfrac><mo stretchy="false">=</mo><mi>z</mi><mo stretchy="false">+</mo><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo stretchy="false">+</mo><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>3</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo stretchy="false">+</mo><mo stretchy="false">&#x22EF;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi><mo stretchy="false">=</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow></mrow></msub><mi>x</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mi>x</mi><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msup></mrow><mrow><mi>k</mi></mrow></mfrac><mo stretchy="false">=</mo><mi>z</mi><mo stretchy="false">+</mo><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac><mo stretchy="false">+</mo><mfrac><mrow><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>3</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mfrac><mo stretchy="false">+</mo><mo stretchy="false">&#x22EF;</mo></mstyle></mrow></math>
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ln%28x%29%20ableiten%20-%20Logarithmusfunktionen%20ableiten.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Log.svg
 power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">+</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mo stretchy="false">&#x2212;</mo><mn>1</mn><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></mfrac></mrow><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msup><mo stretchy="false">=</mo><mi>x</mi><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mn>3</mn></mrow></msup></mrow><mrow data-mjx-texclass="ORD"><mn>3</mn></mrow></mfrac></mrow><mo stretchy="false">&#x2212;</mo><mo stretchy="false">&#x22EF;</mo></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: natuurlike logaritme
+    ar: لغارتم طبيعي
+    az: natural loqarifma
+    be: натуральны лагарыфм
+    bg: естествен логаритъм
+    br: logaritm neperian
+    bs: Prirodni logaritam
+    ca: logaritme natural
+    ckb: لۆگاریتمی سروشتی
+    cs: přirozený logaritmus
+    cv: натураллă логарифм
+    da: naturlig logaritme
+    de: natürlicher Logarithmus
+    el: φυσικός λογάριθμος
+    en: natural logarithm
+    en-ca: natural logarithm
+    en-gb: natural logarithm
+    eo: natura logaritmo
+    es: logaritmo natural
+    et: naturaallogaritm
+    eu: logaritmo arrunt
+    fa: لگاریتم طبیعی
+    fi: luonnollinen logaritmi
+    fo: náttúrlig logaritma
+    fr: logarithme naturel
+    gl: logaritmo natural
+    he: לוגריתם טבעי
+    hi: प्राकृतिक लघुगणक
+    hu: természetes logaritmus
+    hy: բնական լոգարիթմ
+    ia: logarithmo natural
+    id: logaritma natural
+    it: logaritmo naturale
+    ja: 自然対数
+    ka: ნატურალური ლოგარითმი
+    kk: Натурал логарифм
+    ko: 자연로그
+    la: logarithmus naturalis
+    lfn: logaritmo natural
+    lmo: logaritm natural
+    lt: natūrinis logaritmas
+    lv: naturālais logaritms
+    lzh: 自然對數
+    mk: природен логаритам
+    ms: logaritma asli
+    nan: chū-jiân tùi-sò͘
+    nb: naturlig logaritme
+    ne: प्राकृतिक लोगारिदम
+    nl: natuurlijke logaritme
+    oc: Logaritme neperian
+    pl: logarytm naturalny
+    pms: logaritm ëd Napier
+    pt: logaritmo natural
+    pt-br: logaritmo natural
+    ro: logaritm natural
+    ru: натуральный логарифм
+    se: lunddolaš logaritma
+    sh: prirodni logaritam
+    shi: alugaritm agaman
+    si: ප්රකෘති ලඝුගණක
+    sk: prirodzený logaritmus
+    sl: naravni logaritem
+    smn: logaritm
+    sms: luâđlaž logaritmm
+    sq: Logaritmi natyror
+    sr: природни логаритам
+    sr-ec: природни логаритам
+    sr-el: prirodni logaritam
+    sv: naturliga logaritmen
+    ta: இயல் மடக்கை
+    th: ลอการิทึมธรรมชาติ
+    udm: лыдлэн натуральной логарифмез
+    uk: натуральний логаритм
+    ur: Natural logarithm
+    uz: Natural logarifm
+    vi: lôgarit tự nhiên
+    wuu: 自然对数
+    yue: 自然對數
+    zh: 自然對數
+    zh-cn: 自然对数
+    zh-hans: 自然对数
+    zh-hant: 自然對數
+    zh-hk: 自然對數
+    zh-sg: 自然对数
+    zh-tw: 自然對數
 ---
-
 # [[Natural_Logarithm]] 
 
 #has_/inverse :: [[Operator~unary/Exponential_Function]] 

@@ -1,9 +1,122 @@
 ---
 has_id_wikidata: Q19089
+dv_has_:
+  name_:
+    ar: العين الذهبية
+    arz: العين الذهبيه
+    ast: GoldenEye
+    azb: قیزیل گؤز
+    bg: Златното око
+    bn: গোল্ডেনআই
+    br: GoldenEye
+    ca: Goldeneye
+    cs: Zlaté oko
+    cy: GoldenEye
+    da: GoldenEye
+    de: James Bond 007 – GoldenEye
+    de-ch: James Bond 007 – Goldeneye
+    el: 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση Χρυσά Μάτια'
+    en: GoldenEye
+    en-ca: GoldenEye
+    en-gb: GoldenEye
+    eo: GoldenEye
+    es: GoldenEye
+    et: 007 ja Kuldsilm
+    eu: GoldenEye
+    fa: چشمطلایی
+    fi: 007 ja kultainen silmä
+    fr: GoldenEye
+    fy: GoldenEye
+    ga: GoldenEye
+    gl: '007: Goldeneye'
+    he: גולדן איי
+    hi: गोल्डनआय
+    hr: Zlatno oko
+    hu: Aranyszem
+    hy: Ոսկե աչքը
+    id: GoldenEye
+    it: GoldenEye
+    ja: 007 ゴールデンアイ
+    ka: ოქროსთვალი
+    kn: ಗೋಲ್ಡನ್ ಐ
+    ko: 007 골든 아이
+    la: GoldenEye
+    lb: GoldenEye
+    lt: Auksinė akis
+    lv: Zeltacs
+    mk: Златно око
+    ml: ഗോൾഡൻ ഐ
+    ms: GoldenEye
+    mul: GoldenEye
+    nan: GoldenEye
+    nb: GoldenEye
+    nds: GoldenEye
+    nl: GoldenEye
+    nn: GoldenEye
+    oc: GoldenEye
+    pl: GoldenEye
+    pt: GoldenEye
+    pt-br: GoldenEye
+    ro: Agentul 007 contra GoldenEye
+    ru: Золотой глаз
+    sco: GoldenEye
+    sh: GoldenEye
+    sk: 'James Bond: Zlaté oko'
+    sr: Златно око
+    sv: Goldeneye
+    th: พยัคฆ์ร้าย 007 รหัสลับทลายโลก
+    tr: Altın Göz
+    uk: Золоте око
+    ur: گولڈن آئی
+    uz: Oltin koʻz
+    xmf: ორქოშთოლი
+    yue: 新鐵金剛之金眼睛
+    zh: 新鐵金剛之金眼睛
+    zh-hans: 007之黄金眼
+    zh-hant: 007之黃金眼
+    zh-sg: 黄金眼
+    zh-tw: 007之黃金眼
+aliases:
+- 007 ja Kuldsilm
+- 007 ja kultainen silmä
+- 007 ゴールデンアイ
+- 007 골든 아이
+- '007: Goldeneye'
+- 007之黃金眼
+- 007之黄金眼
+- Agentul 007 contra GoldenEye
+- Altın Göz
+- Aranyszem
+- Auksinė akis
+- GoldenEye
+- James Bond 007 – GoldenEye
+- 'James Bond: Zlaté oko'
+- Oltin koʻz
+- Zeltacs
+- Zlatno oko
+- Zlaté oko
+- 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση Χρυσά Μάτια'
+- Златно око
+- Златното око
+- Золоте око
+- Золотой глаз
+- Ոսկե աչքը
+- גולדן איי
+- العين الذهبية
+- العين الذهبيه
+- قیزیل گؤز
+- چشمطلایی
+- گولڈن آئی
+- गोल्डनआय
+- গোল্ডেনআই
+- ಗೋಲ್ಡನ್ ಐ
+- ഗോൾഡൻ ഐ
+- พยัคฆ์ร้าย 007 รหัสลับทลายโลก
+- ორქოშთოლი
+- ოქროსთვალი
+- 新鐵金剛之金眼睛
+- 黄金眼
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **GoldenEye** is a 1995 spy film, the seventeenth in the James Bond series produced by Eon Productions,

@@ -1,25 +1,30 @@
 ---
 aliases:
-  - Tycho's Supernova
-  - Tycho's Star
-  - Tycho's Nova
-  - B Cassiopeiae
-  - SN 1572
-  - Tycho's_Supernova
+- B Cassiopeiae
+- SN 1572
+- SN Кассиопеи
+- Supernova 1572
+- Tycho's Nova
+- Tycho's Star
+- Tycho's Supernova
+- Tycho's_Supernova
+- סופרנובה 1572
+- اسان ۱۵۷۲
+- مستعر أعظم 1572
 dv_has_:
+  name_:
+    ar: مستعر أعظم 1572
+    en: Tycho's Supernova
+    fa: اسان ۱۵۷۲
+    he: סופרנובה 1572
+    ko: SN 1572
+    lb: Supernova 1572
+    mul: SN 1572
+    ru: SN Кассиопеи
   time_:
     started: 1572-11-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect|Tycho's_Supernova.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
-dv_has_time_started: 1572-11-01
-dv_is_same_as:
   - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]]"
   - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]]"
   - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]]"
@@ -27,6 +32,15 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
+dv_has_time_started: 1572-11-01
+dv_is_same_as:
+- "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]]"
+- "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]]"
+- "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]]"
+- "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect|Tycho's_Supernova.protect]]"
+- "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
+- "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
+- "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
 has_id_wikidata: Q554280
 ---
 has_time_started = `=this.dv_has_time_started` 

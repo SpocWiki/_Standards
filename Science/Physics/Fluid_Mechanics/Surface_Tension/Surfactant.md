@@ -1,27 +1,151 @@
 ---
 aliases:
-  - Tensid
-  - Surfactant
+- bettik-aktïvti zattekter
+- chất hoạt động bề mặt
+- felületaktív anyag
+- gníomhaí dromchlach
+- maqchina
+- oppervlakte-actieve stof
+- paviršiaus aktyvios medžiagos
+- pindaktiivne aine
+- površinsko aktivna snov
+- sofaktan
+- Surfactant
+- surfaktan
+- surfaktant
+- surfaktante
+- surfaktanto
+- səthi-aktiv maddələr
+- tansyo-aktif
+- tensiactivo
+- Tensid
+- tenside
+- tensidi
+- tensioactif
+- tensioactiu
+- tensioativ
+- tensioativo
+- tensioattivo
+- tensoactivo
+- tenzid
+- tenzidi
+- tenzidy
+- virsmaktīvas vielas
+- ytaktiva ämnen
+- yüzey aktif madde
+- Επιφανειοδραστικά
+- беттік-активті заттектер
+- паверхнева-актыўныя рэчывы
+- поверхнево-активні речовини
+- поверхностно-активные вещества
+- повърхностно активно вещество
+- тензид
+- մակերևութային ակտիվ նյութեր
+- חומרים פעילי שטח
+- بەتتىك-اكتىيۆتى زاتتەكتەر
+- سورفکتانت
+- مؤثر سطحي
+- पृष्ठ संक्रियक
+- পৃষ্ঠতল সক্রিয় পদার্থ
+- สารลดแรงตึงผิว
+- 界面活性剤
+- 界面活性劑
+- 表面活性剂
+- 表面活性劑
+- 계면활성제
 has_id_wikidata: Q191154
-subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
 part_of:
-  - "[[_Standards/WikiData/WD~cosmetics,131207]]"
-  - "[[_Standards/WikiData/WD~paint,174219]]"
-  - "[[../../../../WikiData/WD~detergent,334637]]"
-  - "[[_Standards/WikiData/WD~laundry_detergent,910284]]"
-  - "[[_Standards/WikiData/WD~fire_extinguishing_agent,1879770]]"
-has_use: "[[_Standards/WikiData/WD~reduction,47496130]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~cosmetics,131207]]'
+- '[[_Standards/WikiData/WD~paint,174219]]'
+- '[[../../../../WikiData/WD~detergent,334637]]'
+- '[[_Standards/WikiData/WD~laundry_detergent,910284]]'
+- '[[_Standards/WikiData/WD~fire_extinguishing_agent,1879770]]'
+has_use: '[[_Standards/WikiData/WD~reduction,47496130]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 UNSPSC_Code: 12161900
 Dewey_Decimal_Classification: 668.1
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/TensideHyrophilHydrophob.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/TensidOel%20mit%20Kationen.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/TensideHyrophilHydrophob.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/TensidOel%20mit%20Kationen.svg
 MeSH_tree_code: D27.720.877
 Commons_category: Surfactants
+dv_has_:
+  name_:
+    ar: مؤثر سطحي
+    ast: tensoactivo
+    az: səthi-aktiv maddələr
+    azb: سورفکتانت
+    be-tarask: паверхнева-актыўныя рэчывы
+    bg: повърхностно активно вещество
+    bn: পৃষ্ঠতল সক্রিয় পদার্থ
+    bs: surfaktant
+    ca: tensioactiu
+    cs: tenzidy
+    de: Tensid
+    el: Επιφανειοδραστικά
+    en: surfactant
+    eo: surfaktanto
+    es: tensoactivo
+    et: pindaktiivne aine
+    eu: surfaktante
+    fa: سورفکتانت
+    fi: tensidi
+    fr: tensioactif
+    ga: gníomhaí dromchlach
+    gl: tensiactivo
+    he: חומרים פעילי שטח
+    hi: पृष्ठ संक्रियक
+    hr: tenzid
+    ht: tansyo-aktif
+    hu: felületaktív anyag
+    hy: մակերևութային ակտիվ նյութեր
+    id: surfaktan
+    it: tensioattivo
+    ja: 界面活性剤
+    jv: surfaktan
+    kcg: sofaktan
+    kk: беттік-активті заттектер
+    kk-arab: بەتتىك-اكتىيۆتى زاتتەكتەر
+    kk-cn: بەتتىك-اكتىيۆتى زاتتەكتەر
+    kk-cyrl: беттік-активті заттектер
+    kk-kz: беттік-активті заттектер
+    kk-latn: bettik-aktïvti zattekter
+    kk-tr: bettik-aktïvti zattekter
+    ko: 계면활성제
+    lmo: tensioativ
+    lt: paviršiaus aktyvios medžiagos
+    lv: virsmaktīvas vielas
+    lzh: 表面活性劑
+    mk: тензид
+    nb: surfaktant
+    nl: oppervlakte-actieve stof
+    nn: surfaktant
+    pl: surfaktant
+    pt: tensioativo
+    qu: maqchina
+    ro: tenside
+    ru: поверхностно-активные вещества
+    sco: surfactant
+    sh: surfaktant
+    sk: tenzid
+    sl: površinsko aktivna snov
+    sr: tenzidi
+    sv: ytaktiva ämnen
+    th: สารลดแรงตึงผิว
+    tr: yüzey aktif madde
+    uk: поверхнево-активні речовини
+    vi: chất hoạt động bề mặt
+    yue: 界面活性劑
+    zh: 表面活性剂
+    zh-cn: 表面活性剂
+    zh-hans: 表面活性剂
+    zh-hant: 表面活性劑
+    zh-hk: 表面活性劑
+    zh-sg: 表面活性剂
+    zh-tw: 表面活性劑
 ---
-
 # [[Surfactant]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Surfactant,191154|WD~Surfactant,191154]]  

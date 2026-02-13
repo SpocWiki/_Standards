@@ -1,38 +1,171 @@
 ---
 aliases:
-  - Spores
-  - Sporen
-  - Spore
+- bào tử
+- Dhukee
+- Eos
+- espora
+- esporo
+- Espò
+- Gró
+- itiö
+- Murucha
+- Sbôr
+- Spoor
+- Spor
+- spora
+- sporas
+- Spore
+- Spore til formeiring
+- Sporen
+- Spores
+- Sporla üreme
+- Sporlar
+- sporo
+- spór
+- spóra
+- Spôre
+- Spöören
+- Výtrus
+- zarodnik
+- Σπόριο
+- зароднік
+- Спора
+- Споралар
+- споры
+- Սպորներ
+- נבג
+- بوغ
+- سپورا
+- سپۆڕ
+- هاگ
+- बीजाणु
+- অণুবীজ
+- வித்தி
+- สปอร์
+- სპორა
+- ᎦᏅᎪᏫᏍᏗᏍᎩ ᎭᏫᏂᏗᏟ ᏄᏍᏛᎢ ᏓᏬᎵ ᎤᎵᏍᏚᎲᎢ
+- 孢子
+- 胞子
+- 포자
 has_id_wikidata: Q177332
 instance_of:
-  - "[[_Standards/WikiData/WD~cell_type,189118]]"
-  - "[[_Standards/WikiData/WD~phase_of_life,1811014]]"
-  - "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
-opposite_of: "[[_Standards/WikiData/WD~gamete,211050]]"
-studied_by: "[[_Standards/WikiData/WD~palynology,212919]]"
+- '[[_Standards/WikiData/WD~cell_type,189118]]'
+- '[[_Standards/WikiData/WD~phase_of_life,1811014]]'
+- '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
+opposite_of: '[[_Standards/WikiData/WD~gamete,211050]]'
+studied_by: '[[_Standards/WikiData/WD~palynology,212919]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~English_Strait,2783335]]"
-  - "[[_Standards/WikiData/WD~Q16701403,16701403]]"
-produced_by: "[[_Standards/WikiData/WD~sporangium,4832012]]"
+- '[[_Standards/WikiData/WD~English_Strait,2783335]]'
+- '[[_Standards/WikiData/WD~Q16701403,16701403]]'
+produced_by: '[[_Standards/WikiData/WD~sporangium,4832012]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~reproductive_cell,12050000]]"
-  - "[[_Standards/WikiData/WD~nonmammalian_cell,116723217]]"
-has_part_s_: "[[_Standards/WikiData/WD~spore_wall,22328087]]"
+- '[[_Standards/WikiData/WD~reproductive_cell,12050000]]'
+- '[[_Standards/WikiData/WD~nonmammalian_cell,116723217]]'
+has_part_s_: '[[_Standards/WikiData/WD~spore_wall,22328087]]'
 Commons_category: Spores
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sporic%20meiosis.svg
 MeSH_tree_code:
-  - A11.870
-  - B05.775
+- A11.870
+- B05.775
 UMLS_CUI: C0038027
 Dewey_Decimal_Classification:
-  - "561.13"
-  - "571.847"
+- 561.13
+- 571.847
+dv_has_:
+  name_:
+    af: Spoor
+    ar: بوغ
+    arz: بوغ
+    ast: Espora
+    az: Sporlar
+    be: споры
+    be-tarask: зароднік
+    bg: Спора
+    bn: অণুবীজ
+    bs: Spora
+    ca: espora
+    chr: ᎦᏅᎪᏫᏍᏗᏍᎩ ᎭᏫᏂᏗᏟ ᏄᏍᏛᎢ ᏓᏬᎵ ᎤᎵᏍᏚᎲᎢ
+    ckb: سپۆڕ
+    cs: spora
+    cy: Sbôr
+    da: Spore
+    de: Spore
+    el: Σπόριο
+    en: spore
+    eo: sporo
+    es: espora
+    et: Eos
+    eu: espora
+    fa: هاگ
+    fi: itiö
+    fr: spore
+    frr: Spöören
+    ga: spór
+    gl: Espora
+    he: נבג
+    hi: बीजाणु
+    hr: spora
+    ht: Espò
+    hu: spóra
+    hy: Սպորներ
+    id: Spora
+    io: Sporo
+    is: Gró
+    it: spora
+    ja: 胞子
+    ka: სპორა
+    kk: Спора
+    kk-arab: سپورا
+    kk-cn: سپورا
+    kk-cyrl: Спора
+    kk-kz: Спора
+    kk-latn: Spora
+    kk-tr: Spora
+    ko: 포자
+    ku: Spor
+    ku-latn: spor
+    ky: Споралар
+    la: Spora
+    lt: Spora
+    lv: sporas
+    mk: спора
+    ms: Spora
+    nb: spore
+    nl: spore
+    nn: Spore til formeiring
+    om: Dhukee
+    pl: zarodnik
+    pt: esporo
+    qu: Murucha
+    ro: Spor
+    ru: спора
+    sh: Spore
+    sk: Výtrus
+    sl: spora
+    sr: Спора
+    sv: Spor
+    sw: Spora
+    ta: வித்தி
+    th: สปอร์
+    tr: Sporla üreme
+    tt: спора
+    uk: спора
+    vi: bào tử
+    wa: Spôre
+    wuu: 孢子
+    yue: 孢子
+    zh: 孢子
+    zh-cn: 孢子
+    zh-hans: 孢子
+    zh-hant: 孢子
+    zh-hk: 孢子
+    zh-sg: 孢子
+    zh-tw: 孢子
 ---
-
 # [[Spore]] 
 
 #is_/similar_to :: [[Egg]] 

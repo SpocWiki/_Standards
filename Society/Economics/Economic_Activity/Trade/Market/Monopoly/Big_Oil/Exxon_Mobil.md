@@ -1,12 +1,121 @@
 ---
 aliases:
-  - Standard Oil Company (New Jersey)
-  - Standard Oil (New Jersey)
-  - Exxon
-  - ExxonMobil
-  - Exxon_Mobil
-  - Exxon Mobil
+- Ekson mobil
+- Exxon
+- Exxon Mobil
+- ExxonMobil
+- Exxon_Mobil
+- Standard Oil (New Jersey)
+- Standard Oil Company (New Jersey)
+- Ексон мобил
+- ЕххонМобіл
+- אקסון מוביל
+- עקסאן-מאביל
+- إكسون موبيل
+- ئێکسۆن مۆبیل
+- اکسانموبیل
+- اکسونموبیل
+- एक्सॉन मोबिल
+- एक्सॉनमोबिल
+- எக்சான் மோபில்
+- เอ็กซอนโมบิล
+- အက်ဆွန်မိုဘေး
+- エクソンモービル
+- 埃克森美孚
+- 엑슨모빌
 has_id_wikidata: Q156238
+dv_has_:
+  name_:
+    ar: إكسون موبيل
+    ast: ExxonMobil
+    az: ExxonMobil
+    azb: اکسانموبیل
+    be: ExxonMobil
+    be-tarask: ExxonMobil
+    bg: ExxonMobil
+    ca: ExxonMobil
+    ckb: ئێکسۆن مۆبیل
+    cs: ExxonMobil
+    cy: ExxonMobil
+    da: Exxon Mobil
+    de: ExxonMobil
+    el: ExxonMobil
+    en: ExxonMobil
+    en-ca: ExxonMobil
+    en-gb: ExxonMobil
+    eo: ExxonMobil
+    es: ExxonMobil
+    et: ExxonMobil
+    eu: ExxonMobil
+    fa: اکسونموبیل
+    fi: Exxon Mobil
+    fr: ExxonMobil
+    ga: ExxonMobil
+    hak: Exxon Mobil
+    he: אקסון מוביל
+    hi: एक्सॉन मोबिल
+    hr: ExxonMobil
+    hu: ExxonMobil
+    hy: ExxonMobil
+    id: ExxonMobil
+    is: ExxonMobil
+    it: ExxonMobil
+    ja: エクソンモービル
+    jv: Exxon
+    kk: ExxonMobil
+    kk-arab: ExxonMobil
+    kk-cn: ExxonMobil
+    kk-cyrl: ЕххонМобіл
+    kk-kz: ЕххонМобіл
+    kk-latn: ExxonMobil
+    kk-tr: ExxonMobil
+    ko: 엑슨모빌
+    la: ExxonMobil
+    lez: ExxonMobil
+    lt: Exxon Mobil
+    lv: ExxonMobil
+    mr: एक्सॉनमोबिल
+    ms: ExxonMobil
+    mul: ExxonMobil
+    my: အက်ဆွန်မိုဘေး
+    nan: ExxonMobil
+    nb: Exxon Mobil
+    nl: ExxonMobil
+    nn: Exxon Mobil
+    pl: ExxonMobil
+    pt: ExxonMobil
+    pt-br: ExxonMobil
+    ro: ExxonMobil
+    ru: ExxonMobil
+    rup: Exxon Mobil
+    sah: ExxonMobil
+    sh: ExxonMobil
+    sl: ExxonMobil
+    sr: Ексон мобил
+    sr-ec: Ексон мобил
+    sr-el: Ekson mobil
+    sv: ExxonMobil
+    ta: எக்சான் மோபில்
+    tg: ExxonMobil
+    th: เอ็กซอนโมบิล
+    tr: ExxonMobil
+    uk: ExxonMobil
+    uz: ExxonMobil
+    vec: ExxonMobil
+    vi: ExxonMobil
+    war: ExxonMobil
+    wuu: 埃克森美孚
+    yi: עקסאן-מאביל
+    yue: 埃克森美孚
+    zh: 埃克森美孚
+    zh-cn: 埃克森美孚
+    zh-hans: 埃克森美孚
+    zh-hant: 埃克森美孚
+    zh-hk: 埃克森美孚
+    zh-mo: 埃克森美孚
+    zh-my: 埃克森美孚
+    zh-sg: 埃克森美孚
+    zh-tw: 埃克森美孚
 ---
 # [[Exxon_Mobil]] 
 

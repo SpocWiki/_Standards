@@ -1,37 +1,174 @@
 ---
 aliases:
-  - Waschbecken
-  - Sink
+- Chiuvetă
+- Chúi-chô
+- Chậu treo tường
+- doirteal
+- Eviero
+- Gwalc'heris
+- handfat
+- Handsteen
+- håndvask
+- izlietne
+- konketa
+- korito
+- Kraanikauss
+- kriauklė
+- Lababo
+- labamano
+- lavabo
+- Lavandin
+- lavujo
+- lavèlo
+- llavabu
+- Mmiri na-agba
+- mosdókagyló
+- Mundlēow
+- myjnica
+- P'uruña
+- pesuallas
+- pia
+- Pica
+- Pía
+- Singki
+- Sink
+- Sinki
+- Trulleum
+- umyvadlo
+- umywalka
+- Umývadlo
+- vaskeservant
+- Waschbecken
+- Wastafel
+- Wastafel cuci piring
+- νεροχύτης
+- вадазьліў
+- раковина
+- Судопера
+- Умивалник
+- כיור
+- روشویی
+- سنڪ
+- سِنک
+- مغسل
+- چلمچی
+- கழுவு கிண்ணம்
+- อ่างล้างจาน
+- ဇလုံ
+- ဢၢင်ႇလၢင်ႉဝၢၼ်ႇ
+- 洗手盤
+- 洗面器
+- 盥洗
+- 盥洗盆
+- 싱크대
 has_id_wikidata: Q140565
 part_of: '[[_Standards/WikiData/WD~hygiene,162297]]'
 location: '[[_Standards/WikiData/WD~bathroom,190771]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Pia,510703]]'
-  - '[[_Standards/WikiData/WD~kitchen_sink,2425869]]'
+- '[[_Standards/WikiData/WD~Pia,510703]]'
+- '[[_Standards/WikiData/WD~kitchen_sink,2425869]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~tap,656656]]'
-  - '[[_Standards/WikiData/WD~drain,3951623]]'
-  - '[[_Standards/WikiData/WD~basin,62401112]]'
-  - '[[_Standards/WikiData/WD~overflow,119151544]]'
+- '[[_Standards/WikiData/WD~tap,656656]]'
+- '[[_Standards/WikiData/WD~drain,3951623]]'
+- '[[_Standards/WikiData/WD~basin,62401112]]'
+- '[[_Standards/WikiData/WD~overflow,119151544]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
-  - '[[_Standards/WikiData/WD~wash_basin,2383211]]'
-  - '[[_Standards/WikiData/WD~sink,71119090]]'
+- '[[_Standards/WikiData/WD~plumbing_fixture,2024731]]'
+- '[[_Standards/WikiData/WD~wash_basin,2383211]]'
+- '[[_Standards/WikiData/WD~sink,71119090]]'
 has_use: '[[_Standards/WikiData/WD~washing,23841]]'
 Nomenclature_for_Museum_Cataloging:
-  - 290
-  - 291
-  - 289
+- 290
+- 291
+- 289
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sink%20and%20taps%20in%20the%20men%27s%20locker%20room%203%20BW.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Umywalka%20Nova%20Top%20Kolo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sink%20and%20taps%20in%20the%20men%27s%20locker%20room%203%20BW.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Umywalka%20Nova%20Top%20Kolo.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/04553703-n
-  - http://wordnet-rdf.princeton.edu/wn31/104485842-n
+- http://wordnet-rdf.princeton.edu/wn30/04553703-n
+- http://wordnet-rdf.princeton.edu/wn31/104485842-n
 Iconclass_notation: 41A2414
 Commons_category: Sinks
+dv_has_:
+  name_:
+    ang: Mundlēow
+    ar: مغسل
+    ast: llavabu
+    bcl: Lababo
+    be-tarask: вадазьліў
+    bg: Умивалник
+    br: Gwalc'heris
+    ca: Pica
+    cs: umyvadlo
+    da: håndvask
+    de: Waschbecken
+    el: νεροχύτης
+    en: sink
+    en-ca: Sink
+    en-gb: sink
+    eo: lavujo
+    es: lavabo
+    et: Kraanikauss
+    eu: konketa
+    fa: روشویی
+    fi: pesuallas
+    fr: lavabo
+    ga: doirteal
+    gl: Pía
+    he: כיור
+    hsb: myjnica
+    hu: mosdókagyló
+    id: Wastafel cuci piring
+    ig: Mmiri na-agba
+    io: Eviero
+    it: lavabo
+    ja: 洗面器
+    jv: Wastafel
+    ko: 싱크대
+    la: Trulleum
+    lb: Lavabo
+    lt: kriauklė
+    lv: izlietne
+    lzh: 盥洗
+    ms: Singki
+    my: ဇလုံ
+    nan: Chúi-chô
+    nb: vaskeservant
+    nds: Handsteen
+    nl: wastafel
+    pap: labamano
+    pl: umywalka
+    pms: Lavandin
+    pnb: سِنک
+    pt: pia
+    pt-br: pia
+    qu: P'uruña
+    ro: Chiuvetă
+    ru: раковина
+    sd: سنڪ
+    shn: ဢၢင်ႇလၢင်ႉဝၢၼ်ႇ
+    sk: Umývadlo
+    sl: korito
+    sr: Судопера
+    sv: handfat
+    sw: Sinki
+    ta: கழுவு கிண்ணம்
+    th: อ่างล้างจาน
+    tl: Lababo
+    tr: lavabo
+    uk: раковина
+    ur: چلمچی
+    vec: lavèlo
+    vi: Chậu treo tường
+    yue: 洗手盤
+    zh: 盥洗盆
+    zh-cn: 盥洗盆
+    zh-hans: 盥洗盆
+    zh-hant: 盥洗盆
+    zh-hk: 盥洗盆
+    zh-sg: 盥洗盆
+    zh-tw: 盥洗盆
 ---
-
 # [[Sink]] 
 
 #is_/same_as :: [[WD~Sink,140565]] 

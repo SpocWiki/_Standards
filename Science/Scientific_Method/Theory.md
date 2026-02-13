@@ -1,23 +1,235 @@
 ---
 aliases:
-  - Theorie
+- damcaniaeth
+- damkaniezh
+- Dudzirazivo
+- elmélet
+- Kenning
+- kuram
+- Lí-lūn
+- lý thuyết
+- Nadharia
+- Nazariya
+- nəzəriyyə
+- Rijan-kevitra
+- teoiric
+- teooria
+- teori
+- teoria
+- teorie
+- teoriija
+- Teorija
+- teorije
+- teorio
+- Teoriya
+- teoriä
+- teorod
+- Teorya
+- Teorìa
+- teoría
+- teorî
+- Teyori
+- Teyorya
+- teória
+- theoria
+- Theorie
+- theory
+- théorie
+- Tiurìa
+- tybyans
+- Ñasa
+- θεωρία
+- назария
+- Онол
+- теорія
+- Теори
+- теорија
+- теорий
+- теория
+- тэорыя
+- տեսություն
+- טעאריע
+- תאוריה
+- تيوري
+- تیۆری
+- نضرية
+- نظرية
+- نظريه
+- نظريو
+- نظریه
+- نظریہ
+- ߦߟߌߦߊ
+- थियरी
+- सिद्धांत
+- তত্ত্ব
+- ਸਿਧਾਂਤ
+- கொள்கை
+- సిద్ధాంతం
+- ಸಿದ್ಧಾಂತ
+- സിദ്ധാന്തം
+- ทฤษฎี
+- သီအိုရီ
+- თეორია
+- ኅልዮት
+- ᎪᎷᏩᏛᏘ
+- ⴰⵙⵎⵉⵍ:ⵜⵉⵥⵕⵉⵡⵉⵏ
+- 理論
+- 理论
+- 리론
+- 이론
 has_id_wikidata: Q17737
-subclass_of: "[[_Standards/WikiData/WD~idea,131841]]"
+subclass_of: '[[_Standards/WikiData/WD~idea,131841]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~praxis,1247560]]"
-  - "[[_Standards/WikiData/WD~practice,10354783]]"
+- '[[_Standards/WikiData/WD~praxis,1247560]]'
+- '[[_Standards/WikiData/WD~practice,10354783]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hypothetical_event,72867640]]"
-  - "[[_Standards/WikiData/WD~explanation,7958]]"
-used_by: "[[_Standards/WikiData/WD~theoretical_framework,114437798]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_Theory,122932418]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[_Standards/WikiData/WD~hypothetical_event,72867640]]'
+- '[[_Standards/WikiData/WD~explanation,7958]]'
+used_by: '[[_Standards/WikiData/WD~theoretical_framework,114437798]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_Theory,122932418]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mr%20Pipo%20Brain%2003.svg
 equivalent_class: http://dbpedia.org/ontology/ScientificConcept
 Commons_category: Theories
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%20Tree%201837.png
+dv_has_:
+  name_:
+    af: teorie
+    am: ኅልዮት
+    an: Teoría
+    ar: نظرية
+    ary: نضرية
+    as: তত্ত্ব
+    ast: teoría
+    az: nəzəriyyə
+    azb: نظریه
+    ba: теория
+    be: тэорыя
+    be-tarask: тэорыя
+    bg: Теория
+    bho: थियरी
+    bn: তত্ত্ব
+    br: damkaniezh
+    bs: teorija
+    ca: teoria
+    ceb: Teorya
+    chr: ᎪᎷᏩᏛᏘ
+    ckb: تیۆری
+    cs: teorie
+    cv: Теори
+    cy: damcaniaeth
+    da: teori
+    de: Theorie
+    el: θεωρία
+    en: theory
+    eo: teorio
+    es: teoría
+    et: teooria
+    eu: teoria
+    fa: نظریه
+    fi: teoria
+    fr: théorie
+    ga: teoiric
+    gl: teoría
+    he: תאוריה
+    hi: सिद्धांत
+    hr: teorija
+    ht: Teyori
+    hu: elmélet
+    hy: տեսություն
+    ia: theoria
+    id: teori
+    io: teorio
+    is: Kenning
+    it: teoria
+    ja: 理論
+    ka: თეორია
+    kaa: teoriya
+    kk: Теория
+    kn: ಸಿದ್ಧಾಂತ
+    ko: 이론
+    ko-kp: 리론
+    ku: teorî
+    kw: tybyans
+    ky: Теория
+    la: theoria
+    lb: Theorie
+    li: Theorie
+    lt: teorija
+    lv: teorija
+    mg: Rijan-kevitra
+    mhr: теорий
+    mk: теорија
+    ml: സിദ്ധാന്തം
+    mn: Онол
+    ms: teori
+    ms-arab: تيوري
+    my: သီအိုရီ
+    nan: Lí-lūn
+    nb: teori
+    nl: theorie
+    nn: teori
+    nqo: ߦߟߌߦߊ
+    oc: teoria
+    os: теори
+    pa: ਸਿਧਾਂਤ
+    pl: teoria
+    pms: Teorìa
+    ps: نظريه
+    pt: teoria
+    pt-br: teoria
+    qu: Ñasa
+    ro: teorie
+    ru: теория
+    rue: теорія
+    scn: Tiurìa
+    sco: theory
+    sd: نظريو
+    se: teoriija
+    sh: Teorija
+    sjd: теория
+    sje: teorija
+    sk: teória
+    sl: teorija
+    sma: teorije
+    smj: teorija
+    smn: teoria
+    sms: teoria
+    sn: Dudzirazivo
+    sq: teori
+    sr: теорија
+    sr-ec: теорија
+    sr-el: teorija
+    sv: teori
+    sw: Nadharia
+    ta: கொள்கை
+    te: సిద్ధాంతం
+    tg: назария
+    th: ทฤษฎี
+    tl: Teoriya
+    tr: kuram
+    tt: теория
+    tt-cyrl: теория
+    tt-latn: teoriä
+    uk: теорія
+    ur: نظریہ
+    uz: Nazariya
+    vec: teoria
+    vi: lý thuyết
+    vo: teorod
+    war: Teyorya
+    wuu: 理论
+    yi: טעאריע
+    yue: 理論
+    zgh: ⴰⵙⵎⵉⵍ:ⵜⵉⵥⵕⵉⵡⵉⵏ
+    zh: 理論
+    zh-cn: 理论
+    zh-hans: 理论
+    zh-hant: 理論
+    zh-hk: 理論
+    zh-tw: 理論
+    zu: theory
 ---
-
 # [[Theory]] 
 
 #is_/same_as :: [[WD~Theory,17737]] 

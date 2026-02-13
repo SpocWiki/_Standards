@@ -1,8 +1,80 @@
 ---
 aliases:
-  - Crossosomatales
+- Bộ Toại thể mộc
+- Crossosomatales
+- Crossosomatals
+- Krososomaloj
+- Κροσσοσωματώδη
+- кросозомоцветни
+- Крососомовидни
+- кроссосомоцветные
+- متصالبيات
+- クロッソソマ目
+- 燧体木目
+- 燧體木目
+- 缨子木目
+- 크로소소마목
 title: Crossosomatales
 has_id_wikidata: Q21860
+dv_has_:
+  name_:
+    an: Crossosomatales
+    ar: متصالبيات
+    arz: متصالبيات
+    ast: Crossosomatales
+    az: Crossosomatales
+    bg: кросозомоцветни
+    bs: Crossosomatales
+    ca: Crossosomatals
+    ceb: Crossosomatales
+    cs: Crossosomatales
+    da: Crossosomatales
+    de: Crossosomatales
+    el: Κροσσοσωματώδη
+    en: Crossosomatales
+    en-ca: Crossosomatales
+    en-gb: Crossosomatales
+    eo: Krososomaloj
+    es: Crossosomatales
+    eu: Crossosomatales
+    ext: Crossosomatales
+    fi: Crossosomatales
+    fr: Crossosomatales
+    frr: Crossosomatales
+    ga: Crossosomatales
+    gl: Crossosomatales
+    hr: Crossosomatales
+    hu: Crossosomatales
+    ia: Crossosomatales
+    id: Crossosomatales
+    ie: Crossosomatales
+    io: Crossosomatales
+    it: Crossosomatales
+    ja: クロッソソマ目
+    ko: 크로소소마목
+    la: Crossosomatales
+    mk: Крососомовидни
+    mul: Crossosomatales
+    nb: Crossosomatales
+    nl: Crossosomatales
+    oc: Crossosomatales
+    pl: Crossosomatales
+    pt: Crossosomatales
+    pt-br: Crossosomatales
+    ro: Crossosomatales
+    ru: кроссосомоцветные
+    sq: Crossosomatales
+    sv: Crossosomatales
+    tr: Crossosomatales
+    uk: Crossosomatales
+    vi: Bộ Toại thể mộc
+    vo: Crossosomatales
+    war: Crossosomatales
+    zh: 缨子木目
+    zh-cn: 燧体木目
+    zh-hans: 燧体木目
+    zh-hant: 燧体木目
+    zh-tw: 燧體木目
 ---
 ## Phylogeny 
 

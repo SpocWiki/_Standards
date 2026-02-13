@@ -1,8 +1,124 @@
 ---
 aliases:
-  - Adoxaceae
+- Adoksacoj
+- Adokskimilər
+- Adoxaceae
+- adoxàcies
+- Bezslavīšu dzimta
+- Desmeknoppsväxter
+- Desmerurt-familien
+- Famîleya adoksasiyan
+- Họ Ngũ phúc hoa
+- Moschuskrautgewächse
+- Moschuskrüüsplaanten
+- Moskusurtfamilien
+- Moškovičevke
+- muskuskruidfamilie
+- Muskuslillelised
+- Piżmaczkowate
+- Pižmonkowe rostliny
+- pižmovkovité
+- pézsmaboglárfélék
+- tesmayrttikasvit
+- Ūksmininiai
+- Адоксавыя
+- Адоксовые
+- Байсаттар тұқымдасы
+- мешковицови
+- Палан йышшисем
+- пиженца
+- Пижмівкові
+- ադոքսազգիներ
+- מורניים
+- فامیلەیائا دۆکساسیان
+- مسكية
+- مسكيه
+- هفتکولان
+- அடோக்சுசியே
+- ადოქსასებრნი
+- レンプクソウ科
+- 五福花科
+- 연복초과
 title: Adoxaceae
 has_id_wikidata: Q156677
+dv_has_:
+  name_:
+    an: Adoxaceae
+    ar: مسكية
+    arz: مسكيه
+    ast: Adoxaceae
+    az: Adokskimilər
+    be: Адоксавыя
+    be-tarask: Адоксавыя
+    bg: мешковицови
+    bs: Adoxaceae
+    ca: adoxàcies
+    ceb: Adoxaceae
+    cs: pižmovkovité
+    cv: Палан йышшисем
+    cy: Adoxaceae
+    da: Desmerurt-familien
+    de: Moschuskrautgewächse
+    en: Adoxaceae
+    eo: Adoksacoj
+    es: Adoxaceae
+    et: Muskuslillelised
+    eu: Adoxaceae
+    ext: Adoxaceae
+    fa: هفتکولان
+    fi: tesmayrttikasvit
+    fr: Adoxaceae
+    frr: Moschuskrüüsplaanten
+    ga: Adoxaceae
+    gl: Adoxaceae
+    he: מורניים
+    hr: Moškovičevke
+    hsb: Pižmonkowe rostliny
+    hu: pézsmaboglárfélék
+    hy: ադոքսազգիներ
+    ia: Adoxaceae
+    id: Adoxaceae
+    ie: Adoxaceae
+    io: Adoxaceae
+    it: Adoxaceae
+    ja: レンプクソウ科
+    ka: ადოქსასებრნი
+    kk: Байсаттар тұқымдасы
+    ko: 연복초과
+    ku: Famîleya adoksasiyan
+    ku-arab: فامیلەیائا دۆکساسیان
+    ku-latn: Famîleya adoksasiyan
+    la: Adoxaceae
+    lt: Ūksmininiai
+    lv: Bezslavīšu dzimta
+    mk: пиженца
+    mul: Adoxaceae
+    nb: Moskusurtfamilien
+    nl: muskuskruidfamilie
+    nn: moskusurtfamilien
+    oc: Adoxaceae
+    pl: Piżmaczkowate
+    pt: Adoxaceae
+    pt-br: Adoxaceae
+    ro: Adoxaceae
+    ru: Адоксовые
+    sk: pižmovkovité
+    sq: Adoxaceae
+    sr: Adoxaceae
+    sv: Desmeknoppsväxter
+    ta: அடோக்சுசியே
+    tr: Adoxaceae
+    uk: Пижмівкові
+    vi: Họ Ngũ phúc hoa
+    vo: Adoxaceae
+    war: Adoxaceae
+    zh: 五福花科
+    zh-cn: 五福花科
+    zh-hans: 五福花科
+    zh-hant: 五福花科
+    zh-hk: 五福花科
+    zh-sg: 五福花科
+    zh-tw: 五福花科
 ---
 # [[Adoxaceae]] 
 

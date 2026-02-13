@@ -1,8 +1,72 @@
 ---
 has_id_wikidata: Q6596143
+dv_has_:
+  name_:
+    an: Medusozoa
+    ar: ميدوزوزا
+    ast: Medusozoa
+    az: Medusozoa
+    be: Medusozoa
+    bg: Медузи
+    ca: Medusozous
+    ceb: Medusozoa
+    cs: Medusozoa
+    de: Medusozoa
+    en: Medusozoa
+    eo: Medusozoa
+    es: Medusozoa
+    eu: Medusozoa
+    ext: Medusozoa
+    fi: Medusozoa
+    fr: Medusozoa
+    ga: Medusozoa
+    gl: Medusozoa
+    ia: Medusozoa
+    id: Medusozoa
+    ie: Medusozoa
+    io: Medusozoa
+    it: Medusozoa
+    ja: 水母亜門
+    la: Medusozoa
+    lv: medūzas
+    mul: Medusozoa
+    my: ငထီး
+    nl: Medusozoa
+    nn: Medusozoa
+    nv: Jélii łóóʼ
+    oc: Medusozoa
+    pl: Medusozoa
+    pt: Medusozoa
+    pt-br: Água-viva
+    ro: Medusozoa
+    ru: Medusozoa
+    sl: Medusozoa
+    sq: Medusozoa
+    sr: Medusozoa
+    sv: Maneter och Hydrozoer
+    tr: Medusozoa
+    uk: Medusozoa
+    vi: Medusozoa
+    vo: Medusozoa
+    war: Medusozoa
+    zh: 水母亞門
+    zh-cn: 水母亚门
+    zh-hans: 水母亚门
+    zh-tw: 水母亞門
+aliases:
+- Jélii łóóʼ
+- Maneter och Hydrozoer
+- Medusozoa
+- Medusozous
+- medūzas
+- Água-viva
+- Медузи
+- ميدوزوزا
+- ငထီး
+- 水母亚门
+- 水母亜門
+- 水母亞門
 ---
-
-
 # [[Medusozoa]] 
 
 #is_/same_as :: 

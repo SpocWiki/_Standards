@@ -1,8 +1,113 @@
 ---
 aliases:
-  - Chrysochloridae
+- Altın köstebek
+- aranyvakondfélék
+- Auksakurminiai
+- Chrysochloridae
+- Crisoclóridos
+- Crizocloride
+- Fuko-dhahabu
+- golden mole
+- Goldmulle
+- goudmollen
+- Goz-aour
+- Guldmuldvarpe
+- Guldmullvadar
+- Gullmoldvarper
+- Gullmoldvörpur
+- Góldmöl
+- kultakontiaiset
+- Mondok-emas
+- Nhuta
+- Náʼagéédí łichíiʼii
+- Talp daurat
+- wedemoleem
+- zlati krti
+- zlatokrtovití
+- złotokretowate
+- Алтынсары көрчычкан сымалдуулар
+- Залатакратовыя
+- Златакратовыя
+- златни къртици
+- Златокротові
+- Златокроты
+- Златокртови
+- ոսկեխլուրդներ
+- חפרפזיים
+- عسربيات
+- موش کور طلایی
+- ოქროს თხუნელასებრნი
+- キンモグラ
+- 金毛鼴科
+- 金毛鼹科
+- 황금두더지
 title: Chrysochloridae
 has_id_wikidata: Q23351
+dv_has_:
+  name_:
+    ar: عسربيات
+    arz: عسربيات
+    ast: Chrysochloridae
+    avk: wedemoleem
+    be: Залатакратовыя
+    be-tarask: Златакратовыя
+    bg: златни къртици
+    br: Goz-aour
+    ca: Talp daurat
+    ceb: Chrysochloridae
+    cs: zlatokrtovití
+    da: Guldmuldvarpe
+    de: Goldmulle
+    de-ch: Goldmulle
+    en: golden mole
+    en-ca: Golden mole
+    en-gb: golden mole
+    es: Chrysochloridae
+    eu: Chrysochloridae
+    fa: موش کور طلایی
+    fi: kultakontiaiset
+    fr: Chrysochloridae
+    ga: Chrysochloridae
+    gl: Crisoclóridos
+    he: חפרפזיים
+    hu: aranyvakondfélék
+    hy: ոսկեխլուրդներ
+    ia: Chrysochloridae
+    id: Mondok-emas
+    is: Gullmoldvörpur
+    it: Chrysochloridae
+    ja: キンモグラ
+    ka: ოქროს თხუნელასებრნი
+    ko: 황금두더지
+    ky: Алтынсары көрчычкан сымалдуулар
+    la: Chrysochloridae
+    li: Góldmöl
+    lt: Auksakurminiai
+    mk: Златокртови
+    mul: Chrysochloridae
+    nb: Gullmoldvarper
+    nl: goudmollen
+    nv: Náʼagéédí łichíiʼii
+    oc: Chrysochloridae
+    pl: złotokretowate
+    pt: Chrysochloridae
+    pt-br: Chrysochloridae
+    ro: Crizocloride
+    ru: Златокроты
+    sl: zlati krti
+    sn: Nhuta
+    sq: Chrysochloridae
+    sv: Guldmullvadar
+    sw: Fuko-dhahabu
+    tl: Chrysochloridae
+    tr: Altın köstebek
+    uk: Златокротові
+    vi: Chrysochloridae
+    war: Chrysochloridae
+    zh: 金毛鼹科
+    zh-cn: 金毛鼴科
+    zh-hans: 金毛鼴科
+    zh-tw: 金毛鼴科
 ---
 # [[Chrysochloridae]]
 

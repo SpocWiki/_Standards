@@ -1,12 +1,104 @@
 ---
 aliases:
-  - ichneumon wasps
-  - ichneumonid wasps
-  - ichneumonids
-  - Darwin wasps
-  - Schlupfwespe
-  - Schlupfwespen 
+- ahmaspistiäiset
+- Brokparasitsteklar
+- Darwin wasps
+- darwinvepser
+- gewone sluipwespen
+- gąsienicznikowate
+- ichneumon wasps
+- ichneumonid wasps
+- Ichneumonidae
+- ichneumonids
+- Icneumònid
+- ikneumonido
+- Jáád neishoodítsʼóóz
+- Käguvamplased
+- lumkovití
+- Schlupfwespe
+- Schlupfwespen
+- sloepwapse
+- Sluppwöpsen
+- Ιχνευμωνίδες
+- іхнеўманіды
+- Ихневмон сымалдуулар
+- Ихневмониды
+- հեծյալներ
+- צרעתניים
+- زنبورهای عقربی
+- نمسيات
+- ஊசிவால் குளவி
+- အစ်ကနျူမန်နကျယ်
+- მხედრები
+- Ἰχνευμωνίδαι
+- ヒメバチ
+- 姬蜂科
+- 맵시벌과
 has_id_wikidata: Q1138186
+dv_has_:
+  name_:
+    an: Ichneumonidae
+    ar: نمسيات
+    arz: نمسيات
+    ast: Ichneumonidae
+    be: іхнеўманіды
+    bg: Ichneumonidae
+    ca: Icneumònid
+    ceb: Ichneumonidae
+    cs: lumkovití
+    de: Schlupfwespen
+    el: Ιχνευμωνίδες
+    en: Ichneumonidae
+    eo: Ichneumonidae
+    es: Ichneumonidae
+    et: Käguvamplased
+    eu: ikneumonido
+    ext: Ichneumonidae
+    fa: زنبورهای عقربی
+    fi: ahmaspistiäiset
+    fr: Ichneumonidae
+    ga: Ichneumonidae
+    gl: Ichneumonidae
+    grc: Ἰχνευμωνίδαι
+    he: צרעתניים
+    hr: Ichneumonidae
+    hy: հեծյալներ
+    ia: Ichneumonidae
+    ie: Ichneumonidae
+    io: Ichneumonidae
+    it: Ichneumonidae
+    ja: ヒメバチ
+    ka: მხედრები
+    ko: 맵시벌과
+    ky: Ихневмон сымалдуулар
+    la: Ichneumonidae
+    mul: Ichneumonidae
+    my: အစ်ကနျူမန်နကျယ်
+    nb: darwinvepser
+    nds: Sluppwöpsen
+    nds-nl: sloepwapse
+    nl: gewone sluipwespen
+    nv: Jáád neishoodítsʼóóz
+    oc: Ichneumonidae
+    pl: gąsienicznikowate
+    pt: Ichneumonidae
+    pt-br: Ichneumonidae
+    ro: Ichneumonidae
+    ru: Ихневмониды
+    sq: Ichneumonidae
+    sr: Ichneumonidae
+    sv: Brokparasitsteklar
+    ta: ஊசிவால் குளவி
+    tr: Ichneumonidae
+    uk: Ichneumonidae
+    uz: Ichneumonidae
+    vi: Ichneumonidae
+    vo: Ichneumonidae
+    war: Ichneumonidae
+    zh: 姬蜂科
+    zh-cn: 姬蜂科
+    zh-hans: 姬蜂科
+    zh-tw: 姬蜂科
 ---
 # [[Ichneumonidae]] 
 

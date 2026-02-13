@@ -1,38 +1,148 @@
 ---
 aliases:
-  - history of Sudan
-  - History_of_Sudan
-  - History of Sudan
+- Dějiny Súdánu
+- Geschichte des Sudan
+- geschiedenis van Soedan
+- histoire du Soudan
+- Historia de Sudán
+- historia do Sudán
+- historia Sudaniae
+- Historia Sudanu
+- Historia ya Sudan
+- Historija Sudana
+- historio de Sudano
+- Historio di Sudan
+- history of Sudan
+- History_of_Sudan
+- història del Sudan
+- história do Sudão
+- istoria Sudanului
+- Istorija Sudana
+- Istòria de Sodan
+- Mbili ya Sudan
+- Nkhang Sudan
+- Sejarah Sudan
+- stair na Súdáine
+- storia del Sudan
+- Sudaan historia
+- Sudan historjá
+- Sudan tarihi
+- Sudana historjá
+- Sudango historia
+- Sudanin historia
+- Sudano istorija
+- Sudans historia
+- Szudán történelme
+- Wëlthɛɛr ë Thudän
+- zgodovina Sudana
+- Ìtàn ilẹ̀ Sudan
+- історія Судану
+- гісторыя Судана
+- гісторыя Судану
+- Историја на Судан
+- История на Судан
+- история Судана
+- Սուդանի պատմություն
+- היסטוריה של סודאן
+- تاريخ السودان
+- د سوډان تاریخ
+- سودان -- تاریخ
+- سوڈان دی تریخ
+- सूडान का इतिहास
+- সুদানের ইতিহাস
+- சூடானின் வரலாறு
+- სუდანის ისტორია
+- スーダンの歴史
+- 苏丹历史
+- 수단의 역사
 has_id_wikidata: Q246643
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-country: "[[_Standards/WikiData/WD~Sudan,1049]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+country: '[[_Standards/WikiData/WD~Sudan,1049]]'
 Dewey_Decimal_Classification:
-  - 962
-  - 962.4
+- 962
+- 962.4
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav
 Commons_category: History of Sudan
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~History_of_Sudan,246643]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]"
+  - '[[../../../../../WikiData/WD~History_of_Sudan,246643]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~History_of_Sudan,246643]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]"
+- '[[../../../../../WikiData/WD~History_of_Sudan,246643]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]'
+dv_has_:
+  name_:
+    ar: تاريخ السودان
+    ast: Historia de Sudán
+    be: гісторыя Судана
+    be-tarask: гісторыя Судану
+    bg: История на Судан
+    bn: সুদানের ইতিহাস
+    ca: història del Sudan
+    cs: Dějiny Súdánu
+    de: Geschichte des Sudan
+    din: Wëlthɛɛr ë Thudän
+    en: history of Sudan
+    eo: historio de Sudano
+    es: historia de Sudán
+    eu: Sudango historia
+    fa: سودان -- تاریخ
+    fi: Sudanin historia
+    fr: histoire du Soudan
+    ga: stair na Súdáine
+    gl: historia do Sudán
+    he: היסטוריה של סודאן
+    hi: सूडान का इतिहास
+    hu: Szudán történelme
+    hy: Սուդանի պատմություն
+    io: Historio di Sudan
+    it: storia del Sudan
+    ja: スーダンの歴史
+    ka: სუდანის ისტორია
+    kcg: Nkhang Sudan
+    ko: 수단의 역사
+    la: historia Sudaniae
+    lt: Sudano istorija
+    mk: Историја на Судан
+    ms: Sejarah Sudan
+    nl: geschiedenis van Soedan
+    oc: Istòria de Sodan
+    pl: Historia Sudanu
+    ps: د سوډان تاریخ
+    pt: história do Sudão
+    ro: istoria Sudanului
+    ru: история Судана
+    se: Sudana historjá
+    sh: Historija Sudana
+    skr: سوڈان دی تریخ
+    sl: zgodovina Sudana
+    smn: Sudan historjá
+    sms: Sudaan historia
+    sr: Istorija Sudana
+    sv: Sudans historia
+    sw: Historia ya Sudan
+    ta: சூடானின் வரலாறு
+    tr: Sudan tarihi
+    tum: Mbili ya Sudan
+    uk: історія Судану
+    vec: Storia del Sudan
+    wuu: 苏丹历史
+    yo: Ìtàn ilẹ̀ Sudan
+    zh: 苏丹历史
 ---
-
 # [[History_of_Sudan]] 
 
 #is_/same_as :: [[WD~History_of_Sudan,246643]] 

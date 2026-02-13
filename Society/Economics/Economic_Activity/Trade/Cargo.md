@@ -1,12 +1,69 @@
 ---
 aliases:
-  - Fracht
-  - Cargo
+- carga
+- cargaison
+- Cargo
+- Caria
+- carico
+- Chaqna
+- càrrega
+- Fracht
+- Frachtgut
+- fragt
+- fraktgods
+- gods
+- hàng hóa
+- Hòe-bu̍t
+- I-Cargo
+- Jük
+- Kago
+- Kargo
+- krava
+- last
+- lasta
+- Marfă
+- Mukwende
+- náklad
+- Nákladná doprava
+- rahti
+- Shehena
+- teheráru
+- tovor
+- vracht
+- Yük
+- Zama
+- Çăк
+- ładunek transportowany
+- ŝarĝo
+- γομάρ'
+- Φορτίο πλοίου
+- Бор
+- вантаж
+- груз
+- Жүк
+- Карго
+- Таһаҕас
+- товар
+- משא
+- פראכט
+- جۇك
+- حمولة
+- محموله
+- পরিবাহিত মাল
+- சரக்கு
+- ಸರಕು
+- ကုန်ပစ္စည်း
+- ၵုၼ်ႇၵူႈပိူင်ပိူင်
+- ტვირთი
+- 儎
+- 貨物
+- 货物
+- 화물
 has_id_wikidata: Q319224
 used_by: '[[_Standards/WikiData/WD~freight_transport,651658]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 subclass_of: '[[_Standards/WikiData/WD~transportable_goods,2449671]]'
 different_from: '[[_Standards/WikiData/WD~payload,7641034]]'
 Wikidata_property: carries passengers or cargo
@@ -14,8 +71,88 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tankcontainer%20Verlad
 P8189: 987007550649105171
 Commons_category: Freight
 OpenStreetMap_tag_or_key: Key:cargo
+dv_has_:
+  name_:
+    ar: حمولة
+    az: Yük
+    be: Груз
+    be-tarask: груз
+    bg: Товар
+    bjn: Kargo
+    bn: পরিবাহিত মাল
+    ca: càrrega
+    cs: náklad
+    cv: Çăк
+    da: fragt
+    de: Frachtgut
+    diq: Kargo
+    el: Φορτίο πλοίου
+    en: cargo
+    en-ca: Cargo
+    en-gb: cargo
+    eo: ŝarĝo
+    es: carga
+    et: Last
+    eu: Zama
+    fa: محموله
+    fi: rahti
+    fr: cargaison
+    ga: lasta
+    he: משא
+    ht: Kago
+    hu: teheráru
+    id: kargo
+    it: carico
+    ja: 貨物
+    ka: ტვირთი
+    kk: Жүк
+    kk-arab: جۇك
+    kk-cn: جۇك
+    kk-cyrl: Жүк
+    kk-kz: Жүк
+    kk-latn: Jük
+    kk-tr: Jük
+    kn: ಸರಕು
+    ko: 화물
+    ky: Карго
+    lv: krava
+    mk: товар
+    ms: kargo
+    my: ကုန်ပစ္စည်း
+    nan: Hòe-bu̍t
+    nb: last
+    nl: vracht
+    nn: gods
+    pl: ładunek transportowany
+    pms: Caria
+    pnt: γομάρ'
+    pt: carga
+    pt-br: carga
+    qu: Chaqna
+    ro: Marfă
+    ru: груз
+    sah: Таһаҕас
+    sh: Kargo
+    shn: ၵုၼ်ႇၵူႈပိူင်ပိူင်
+    sk: Nákladná doprava
+    sl: tovor
+    sn: Mukwende
+    sr: Kargo
+    sv: fraktgods
+    sw: Shehena
+    ta: சரக்கு
+    tg: Бор
+    tr: kargo
+    uk: вантаж
+    uz: Kargo
+    vi: hàng hóa
+    xh: I-Cargo
+    yi: פראכט
+    yue: 儎
+    zh: 貨物
+    zh-hans: 货物
+    zh-hant: 貨物
 ---
-
 # [[Cargo]] 
 
 #is_/same_as ::  [[../../../../WikiData/WD~Cargo,319224|WD~Cargo,319224]] 

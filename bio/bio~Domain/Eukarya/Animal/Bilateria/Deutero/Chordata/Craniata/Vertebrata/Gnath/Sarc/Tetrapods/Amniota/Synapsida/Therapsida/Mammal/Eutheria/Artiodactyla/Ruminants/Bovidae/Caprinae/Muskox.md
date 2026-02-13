@@ -1,25 +1,95 @@
 ---
 aliases:
-  - Ovibos
-  - Ovibos moschatus
-  - Ovibos_moschatus
-  - Moschusochse
-  - Muskox
-  - güe almizcleru
-  - Musk Ox
-  - moskusfe
-  - piżmowół arktyczny
-  - wół piżmowy
-  - bœuf musqué
+- Avijautis
+- baklanme
+- Barewa mai ƙaho kamar shanu
+- Boi almiscreiro
+- Boi-almiscarado
+- bou mesquer
+- Bou moscat
+- Bove muscosa
+- Buòu muscat
+- bò mus-cià
+- Bò xạ hương
+- bœuf musqué
+- Ejen-musk
+- güe almizcleru
+- Hakʼaz ayání
+- idi musketadun
+- keleti pézsmatulok
+- lembu endemik muskox
+- Lembu kesturi
+- Maksai aktiki
+- Misk sığırı
+- Moschusochse
+- Moska ovibovo
+- moskusfe
+- Moskusneyt
+- Moskusoks
+- moskusokse
+- Moškatno govedo
+- Mošusno govedo
+- Mošusno goveče
+- muscdhamh
+- Musk Ox
+- muskavuoksá
+- Muskoks
+- Muskox
+- Muskusos
+- muskusveis
+- muskusvērsis
+- myskihärkä
+- myskivuáksá
+- myskoxe
+- Müşk öküzü
+- Ovibos
+- Ovibos moschatus
+- Ovibos_moschatus
+- piżmowół arktyczny
+- pižmoň severní
+- Pižmoň severský
+- Qoʻyhoʻkiz
+- Rivebol (Ovibos moschatus)
+- Sauðnaut
+- Umimmak
+- umimmaq
+- Umiŋmak
+- wół piżmowy
+- Μοσχόβους
+- Аўцабык
+- баранабык
+- Вівцебик
+- мошусно говедо
+- мошусно говече
+- Мушкгов
+- овцебик
+- овцебык
+- Сарыкбозау
+- Сурăхвăкăр
+- Фысгал
+- խոյացուլ
+- כבש המושק
+- ثور المسك
+- مشکی ٹگا
+- گاو مشک
+- कस्तूरी बैल
+- கத்தூரி எருமை
+- ಕಸ್ತೂರಿ ದನ
+- ხარვერძი
+- የዝባድ በሬ
+- ᐅᒥᒻᒪᖅ
+- ジャコウウシ
+- 麝牛
+- 사향소
 has_id_wikidata: Q184004
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~qiviut,1673300]]'
 parent_taxon: '[[_Standards/WikiData/WD~Ovibos,19817365]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
@@ -32,17 +102,17 @@ gestation_period: 8.5
 longest_observed_lifespan: 27.4
 ITIS_TSN: 180708
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus%20qtl3.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ovibos%20moschatus%20qtl3.jpg
 taxon_common_name:
-  - Moschusochse
-  - Muskox
-  - güe almizcleru
-  - Musk Ox
-  - moskusfe
-  - piżmowół arktyczny
-  - wół piżmowy
-  - bœuf musqué
+- Moschusochse
+- Muskox
+- güe almizcleru
+- Musk Ox
+- moskusfe
+- piżmowół arktyczny
+- wół piżmowy
+- bœuf musqué
 Commons_gallery: Ovibos moschatus
 Commons_category: Ovibos moschatus
 taxon_name: Ovibos moschatus
@@ -53,8 +123,116 @@ UMLS_CUI: C0325314
 GenBank_assembly_accession_number: GCA_022533635.2
 NBN_System_Key: NHMSYS0000377046
 EPPO_Code: OVIBMO
+dv_has_:
+  name_:
+    af: Muskusos
+    am: የዝባድ በሬ
+    an: Ovibos moschatus
+    ar: ثور المسك
+    arz: ثور المسك
+    ast: Ovibos moschatus
+    avk: Rivebol (Ovibos moschatus)
+    az: Müşk öküzü
+    ban: Lembu kesturi
+    be: Аўцабык
+    be-tarask: баранабык
+    bg: овцебик
+    br: Ejen-musk
+    ca: bou mesquer
+    ceb: Ovibos moschatus
+    crh: Misk sığırı
+    cs: pižmoň severní
+    cv: Сурăхвăкăр
+    da: moskusokse
+    de: Moschusochse
+    el: Μοσχόβους
+    en: musk ox
+    eo: Moska ovibovo
+    es: Ovibos moschatus
+    et: muskusveis
+    eu: idi musketadun
+    ext: Ovibos moschatus
+    fa: گاو مشک
+    fi: myskihärkä
+    fo: Moskusneyt
+    fr: Bœuf musqué
+    frr: Moskusoks
+    ga: muscdhamh
+    gl: Boi almiscreiro
+    ha: Barewa mai ƙaho kamar shanu
+    he: כבש המושק
+    hi: कस्तूरी बैल
+    hr: Mošusno govedo
+    hu: keleti pézsmatulok
+    hy: խոյացուլ
+    ia: Ovibos moschatus
+    id: lembu endemik muskox
+    ie: Ovibos moschatus
+    ik: Umiŋmak
+    ike-cans: ᐅᒥᒻᒪᖅ
+    ike-latn: umimmaq
+    io: Ovibos moschatus
+    is: Sauðnaut
+    it: Ovibos moschatus
+    iu: ᐅᒥᒻᒪᖅ
+    ja: ジャコウウシ
+    jbo: baklanme
+    ka: ხარვერძი
+    kl: Umimmak
+    kn: ಕಸ್ತೂರಿ ದನ
+    ko: 사향소
+    la: Ovibos moschatus
+    lfn: Bove muscosa
+    lt: Avijautis
+    lv: muskusvērsis
+    mg: Muskox
+    mk: мошусно говедо
+    mul: Ovibos moschatus
+    nb: moskusfe
+    nl: Muskusos
+    nn: moskusfe
+    nv: Hakʼaz ayání
+    oc: Buòu muscat
+    os: Фысгал
+    pl: piżmowół arktyczny
+    pnb: مشکی ٹگا
+    pt: Boi-almiscarado
+    pt-br: Ovibos moschatus
+    ro: Bou moscat
+    ru: овцебык
+    rue: Овцебык
+    se: muskavuoksá
+    sh: Mošusno goveče
+    sk: Pižmoň severský
+    sl: Moškatno govedo
+    smn: myskivuáksá
+    sq: Ovibos moschatus
+    sr: мошусно говече
+    sr-ec: Мошусно говече
+    sr-el: Mošusno goveče
+    sv: myskoxe
+    sw: Maksai aktiki
+    ta: கத்தூரி எருமை
+    tg: Мушкгов
+    tl: Muskoks
+    tr: Misk sığırı
+    tt: Сарыкбозау
+    uk: Вівцебик
+    uz: Qoʻyhoʻkiz
+    vec: bò mus-cià
+    vi: Bò xạ hương
+    vo: Ovibos moschatus
+    war: Ovibos moschatus
+    wuu: 麝牛
+    yue: 麝牛
+    zh: 麝牛
+    zh-cn: 麝牛
+    zh-hans: 麝牛
+    zh-hant: 麝牛
+    zh-hk: 麝牛
+    zh-sg: 麝牛
+    zh-tw: 麝牛
 ---
-
 # [[Muskox]] 
 
 #is_/same_as :: [[WD~Ovibos_moschatus,184004]] 

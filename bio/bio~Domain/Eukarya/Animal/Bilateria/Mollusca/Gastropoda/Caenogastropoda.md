@@ -1,8 +1,125 @@
 ---
 aliases:
-  - Caenogastropoda
+- Bandtandssnäckor
+- Caenogastropoda
+- Cenogastròpodes
+- Seeslakke
+- καινογαστερόποδα
+- ценогастроподи
+- ценогастроподы
+- ցենոփորոտանիներ
+- חלזונות מפותחים
+- بطنيات الأرجل الحديثة
+- بطنيات الارجل الحديثه
+- نوشکمپایان
+- 新生腹足上目
+- 新进腹足亚纲
+- 新进腹足总目
+- 新進腹足總目
+- 신생복족류
 title: Caenogastropoda
 has_id_wikidata: Q132979
+dv_has_:
+  name_:
+    af: Seeslakke
+    an: Caenogastropoda
+    ar: بطنيات الأرجل الحديثة
+    arz: بطنيات الارجل الحديثه
+    ast: Caenogastropoda
+    bar: Caenogastropoda
+    bg: Caenogastropoda
+    br: Caenogastropoda
+    ca: Cenogastròpodes
+    ceb: Caenogastropoda
+    co: Caenogastropoda
+    cs: Caenogastropoda
+    cy: Caenogastropoda
+    da: Caenogastropoda
+    de: Caenogastropoda
+    de-at: Caenogastropoda
+    de-ch: Caenogastropoda
+    el: καινογαστερόποδα
+    en: Caenogastropoda
+    en-ca: Caenogastropoda
+    en-gb: Caenogastropoda
+    eo: Caenogastropoda
+    es: Caenogastropoda
+    et: Caenogastropoda
+    eu: Caenogastropoda
+    ext: Caenogastropoda
+    fa: نوشکمپایان
+    fi: Caenogastropoda
+    fr: Caenogastropoda
+    frp: Caenogastropoda
+    fur: Caenogastropoda
+    ga: Caenogastropoda
+    gd: Caenogastropoda
+    gl: Caenogastropoda
+    gsw: Caenogastropoda
+    he: חלזונות מפותחים
+    hr: Caenogastropoda
+    hu: Caenogastropoda
+    hy: ցենոփորոտանիներ
+    ia: Caenogastropoda
+    id: Caenogastropoda
+    ie: Caenogastropoda
+    io: Caenogastropoda
+    is: Caenogastropoda
+    it: Caenogastropoda
+    ja: 新生腹足上目
+    kg: Caenogastropoda
+    ko: 신생복족류
+    la: Caenogastropoda
+    lb: Caenogastropoda
+    li: Caenogastropoda
+    lij: Caenogastropoda
+    mg: Caenogastropoda
+    min: Caenogastropoda
+    ms: Caenogastropoda
+    mul: Caenogastropoda
+    nap: Caenogastropoda
+    nb: Caenogastropoda
+    nds: Caenogastropoda
+    nds-nl: Caenogastropoda
+    nl: Caenogastropoda
+    nn: Caenogastropoda
+    nrm: Caenogastropoda
+    nys: Caenogastropoda
+    oc: Caenogastropoda
+    pcd: Caenogastropoda
+    pl: Caenogastropoda
+    pms: Caenogastropoda
+    pt: Caenogastropoda
+    pt-br: Caenogastropoda
+    rm: Caenogastropoda
+    ro: Caenogastropoda
+    ru: ценогастроподы
+    sc: Caenogastropoda
+    scn: Caenogastropoda
+    sco: Caenogastropoda
+    sk: Caenogastropoda
+    sl: Caenogastropoda
+    sq: Caenogastropoda
+    sr: Caenogastropoda
+    sv: Bandtandssnäckor
+    sw: Caenogastropoda
+    tr: Caenogastropoda
+    uk: ценогастроподи
+    vec: Caenogastropoda
+    vi: Caenogastropoda
+    vls: Caenogastropoda
+    vo: Caenogastropoda
+    wa: Caenogastropoda
+    war: Caenogastropoda
+    wo: Caenogastropoda
+    zh: 新进腹足亚纲
+    zh-cn: 新进腹足亚纲
+    zh-hans: 新进腹足亚纲
+    zh-hant: 新進腹足總目
+    zh-hk: 新進腹足總目
+    zh-sg: 新进腹足总目
+    zh-tw: 新進腹足總目
+    zu: Caenogastropoda
 ---
 # [[Caenogastropoda]] 
 

@@ -1,8 +1,133 @@
 ---
 has_id_wikidata: Q192726
+dv_has_:
+  name_:
+    af: virtuele masjien
+    ar: آلة افتراضية
+    az: virtual maşın
+    be: Віртуальная машына
+    be-tarask: віртуальная машына
+    bg: Виртуална машина
+    bn: ভার্চুয়াল মেশিন
+    bs: virtualna mašina
+    ca: màquina virtual
+    cs: virtuální stroj
+    da: virtuel maskine
+    de: Virtuelle Maschine
+    el: εικονική μηχανή
+    en: virtual machine
+    eo: virtuala maŝino
+    es: máquina virtual
+    et: Virtuaalmasin
+    eu: makina birtual
+    fa: ماشین مجازی
+    fi: Virtuaalikone
+    fr: machine virtuelle
+    he: מכונה וירטואלית
+    hr: Virtualni stroj
+    hu: virtuális számítógép
+    hy: Վիրտուալ իրականություն
+    id: Mesin virtual
+    io: Virtuala mashino
+    it: macchina virtuale
+    ja: 仮想マシン
+    kaa: virtual mashina
+    kea: mákina virtual
+    ko: 가상 머신
+    ko-kp: 가상기계
+    lo: ຄອມພິວເຕີຣ໌ຈໍາລອງ
+    lv: Virtuālā mašīna
+    mk: Виртуелна машина
+    ml: വർച്ച്വൽ മെഷീൻ
+    mn: Виртуал машин
+    ms: Mesin maya
+    my: ဒြပ်မဲ့စက်
+    nb: virtuell maskin
+    nl: virtuele machine
+    pl: maszyna wirtualna
+    pt: máquina virtual
+    ro: mașină virtuală
+    ru: виртуальная машина
+    sh: Virtuelna mašina
+    sl: navidezna naprava
+    sq: Makinë virtuale
+    sr: виртуелна машина
+    sv: virtuell maskin
+    ta: மெய்நிகர் இயந்திரம்
+    th: เครื่องเสมือน
+    tr: Sanal makine
+    uk: віртуальна машина
+    ur: علامتی مشین
+    vi: Máy ảo
+    yi: ווירטועל מאשין
+    yue: 虛擬機
+    zh: 虛擬機器
+    zh-cn: 虚拟机
+    zh-hans: 虚拟机器
+    zh-hant: 虛擬機器
+    zh-hk: 虛擬機器
+    zh-sg: 虚拟机
+    zh-tw: 虛擬機器
+aliases:
+- macchina virtuale
+- machine virtuelle
+- makina birtual
+- Makinë virtuale
+- maszyna wirtualna
+- mașină virtuală
+- Mesin maya
+- Mesin virtual
+- màquina virtual
+- mákina virtual
+- máquina virtual
+- Máy ảo
+- navidezna naprava
+- Sanal makine
+- Virtuaalikone
+- Virtuaalmasin
+- virtual machine
+- virtual mashina
+- virtual maşın
+- Virtuala mashino
+- virtuala maŝino
+- virtualna mašina
+- Virtualni stroj
+- virtuel maskine
+- virtuele machine
+- virtuele masjien
+- virtuell maskin
+- Virtuelle Maschine
+- Virtuelna mašina
+- virtuális számítógép
+- virtuální stroj
+- Virtuālā mašīna
+- εικονική μηχανή
+- віртуальна машина
+- Віртуальная машына
+- Виртуал машин
+- Виртуална машина
+- виртуальная машина
+- Виртуелна машина
+- Վիրտուալ իրականություն
+- ווירטועל מאשין
+- מכונה וירטואלית
+- آلة افتراضية
+- علامتی مشین
+- ماشین مجازی
+- ভার্চুয়াল মেশিন
+- மெய்நிகர் இயந்திரம்
+- വർച്ച്വൽ മെഷീൻ
+- เครื่องเสมือน
+- ຄອມພິວເຕີຣ໌ຈໍາລອງ
+- ဒြပ်မဲ့စက်
+- 仮想マシン
+- 虚拟机
+- 虚拟机器
+- 虛擬機
+- 虛擬機器
+- 가상 머신
+- 가상기계
 ---
-
-
 # [[Virtual_Machine]] 
 
 #is_/similar_to :: [[../../../../IT/Operations/Hosting/Docker(SW)|Docker(SW)]] 

@@ -1,15 +1,91 @@
 ---
 aliases:
+- Fokstrot
+- Fokstroto
+- Fokstrots
+- Fokstrott
+- fox lent
+- Fox-trot
+- foxtrot
+- Foxtrote
+- Foxtroto
+- Foxtrott
+- slow fox
+- Слоу фокстрот
+- Факстрот
+- фокстрот
+- Ֆոքստրոտ
+- פוקסטרוט
+- فاکسترات
+- فوكستروت
+- フォックストロット
+- 狐步
+- 폭스트롯
 has_id_wikidata: Q245418
-named_after: "[[_Standards/WikiData/WD~Harry_Fox,1992638]]"
-different_from: "[[_Standards/WikiData/WD~foxtrot,57392588]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-subclass_of: "[[_Standards/WikiData/WD~dance,11639]]"
+named_after: '[[_Standards/WikiData/WD~Harry_Fox,1992638]]'
+different_from: '[[_Standards/WikiData/WD~foxtrot,57392588]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~dance,11639]]'
 Commons_category: Ballroom dance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vernon%20and%20Irene%20Castle2.jpg
-Dewey_Decimal_Classification: "793.33"
+Dewey_Decimal_Classification: 793.33
+dv_has_:
+  name_:
+    ar: فوكستروت
+    az: Fokstrot
+    be: Факстрот
+    be-tarask: факстрот
+    bg: Слоу фокстрот
+    ca: fox lent
+    cs: foxtrot
+    cv: Фокстрот
+    da: Foxtrot
+    de: Foxtrott
+    en: foxtrot
+    eo: Fokstroto
+    es: Foxtrot
+    et: Fokstrott
+    eu: Foxtrot
+    fa: فاکسترات
+    fi: foxtrot
+    fr: slow fox
+    fur: Fox-trot
+    he: פוקסטרוט
+    hr: Foxtrot
+    hu: foxtrott
+    hy: Ֆոքստրոտ
+    io: Foxtroto
+    is: Foxtrot
+    it: foxtrot
+    ja: フォックストロット
+    ko: 폭스트롯
+    lv: Fokstrots
+    mk: фокстрот
+    mrj: Фокстрот
+    nb: Foxtrot
+    nl: foxtrot
+    oc: Foxtrot
+    pl: Fokstrot
+    pt: Foxtrote
+    ro: Foxtrot
+    ru: фокстрот
+    sk: foxtrot
+    sr: Фокстрот
+    sr-ec: Фокстрот
+    sr-el: Fokstrot
+    sv: foxtrot
+    uk: Фокстрот
+    uz: Fokstrot
+    vi: Foxtrot
+    yue: 狐步
+    zh: 狐步
+    zh-cn: 狐步
+    zh-hans: 狐步
+    zh-hant: 狐步
+    zh-hk: 狐步
+    zh-sg: 狐步
+    zh-tw: 狐步
 ---
-
 # [[Foxtrot]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Foxtrot,245418|WD~Foxtrot,245418]] 

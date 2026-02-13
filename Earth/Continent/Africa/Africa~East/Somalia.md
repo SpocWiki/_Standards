@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 索马里联邦共和国
 dv_UNTERM_French_Formal: la République fédérale de Somalie
 dv_UNTERM_Russian: Сомали
 dv_UNTERM_Russian_Formal: Федеративная Республика Сомали
-dv_Region_Name: "[Africa](../../Africa)"
-dv_Intermediate_Region_Name: "[Eastern Africa](Eastern%20Africa)"
-dv_Sub-region_Name: "[Sub-Saharan Africa](Sub-Saharan%20Africa)"
+dv_Region_Name: '[Africa](../../Africa)'
+dv_Intermediate_Region_Name: '[Eastern Africa](Eastern%20Africa)'
+dv_Sub-region_Name: '[Sub-Saharan Africa](Sub-Saharan%20Africa)'
 dv_Region: 2
 dv_Intermediate_Region: 14
 dv_Sub-region: 202
@@ -54,251 +54,629 @@ dv_ISO2: SO
 dv_ISO3: SOM
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]"
+  - '[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]'
 dv_has_:
   name_:
+    ab: Сомали
+    ace: Somalia
+    ady: Сомали
+    aeb-arab: الصومال
+    af: Somalië
+    am: ሶማሊያ
+    ami: Somalia
+    an: Somalia
+    ang: Sōmalia
+    ann: Somalia
+    anp: सोमालिया
+    ar: الصومال
+    arc: ܨܘܡܐܠ
+    ary: صومال
+    arz: الصومال
+    as: চোমালিয়া
+    ast: Somalia
+    avk: Somalia
+    az: Somali
+    azb: سومالی
+    ba: Сомали
+    ban: Somalia
+    bar: Somalia
+    bcl: Somalya
+    be: Самалі
+    be-tarask: Самалі
+    bew: Somali
+    bg: Сомалия
+    bgn: سومالیا
+    bho: सोमालिया
+    bi: Somalia
+    bjn: Somalia
+    bm: Somali
+    bn: সোমালিয়া
+    bo: སོ་མ་ལི།
+    bpy: সোমালিয়া
+    br: Somalia
+    bs: Somalija
+    bxr: Сомали
+    ca: Somàlia
+    cbk-zam: Somalia
+    cdo: Somalia
+    ce: Сомали
+    ceb: Somalia
+    chr: ᏐᎹᎵ
+    ckb: سۆماڵیا
+    co: Somalia
+    crh: Somaliya
+    crh-latn: Somaliya
+    cs: Somálsko
+    cy: Somalia
+    da: Somalia
+    dag: Somalia
+    de: Somalia
+    de-at: Somalia
+    de-ch: Somalia
+    din: Thomalia
+    diq: Somalya
+    dsb: Somalija
+    dty: सोमालिया
+    dv: ސޯމާލިއާ
+    ee: Somalia
+    el: Σομαλία
+    en: Somalia
+    en-ca: Somalia
+    en-gb: Somalia
+    en-us: Somalia
+    eo: Somalio
+    es: Somalia
+    et: Somaalia
+    eu: Somalia
+    ext: Somália
+    fa: سومالی
+    ff: Somaaliya
+    fi: Somalia
+    fo: Somalia
+    fon: Somalitò
+    fr: Somalie
+    frp: Somalie
+    frr: Somaalia
+    fy: Somaalje
+    ga: an tSomáil
+    gaa: Somalia
+    gag: Somali
+    gcr: Somali
+    gd: Somàilia
+    gl: Somalia
+    glk: سۊمالي
+    gn: Somália
+    gom: सोमालिया
+    gpe: Somalia
+    gsw: Somalia
+    gu: સોમાલિયા
+    gur: Somalia
+    gv: y Tomaal
+    ha: Somaliya
+    hak: Somalia
+    haw: Somalia
+    he: סומליה
+    hi: सोमालिया
+    hif: Somalia
+    hr: Somalija
+    hsb: Somalija
+    ht: Somali
+    hu: Szomália
+    hy: Սոմալի
+    ia: Somalia
+    id: Somalia
+    ie: Somalia
+    ig: Somalia
+    ilo: Somalia
+    io: Somalia
+    is: Sómalía
+    it: Somalia
+    ja: ソマリア
+    jam: Somaalia
+    jbo: somalias
+    jv: Somalia
+    ka: სომალი
+    kaa: Somalia
+    kab: Ṣumal
+    kbp: Soomaali
+    kcg: Somalya
+    kg: Somalia
+    kge: Somalia
+    ki: Somalia
+    kk: Сомали
+    km: សូម៉ាលី
+    kn: ಸೊಮಾಲಿಯ
+    knc: Somalia
+    ko: 소말리아
+    krc: Сомали
+    ks: صومالیہ
+    ku: Somalya
+    kw: Somali
+    ky: Сомали
+    la: Somalia
+    lad: Somalia
+    lb: Somalia
+    lfn: Somalia
+    lg: Somalia
+    li: Somalië
+    lij: Somalia
+    lld: Somalia
+    lmo: Sumalia
+    ln: Somalia
+    lrc: سومالی
+    lt: Somalis
+    lv: Somālija
+    lzh: 索馬里
+    mad: Somalia
+    mag: सोमालिया
+    mai: सोमालिया
+    mdf: Сомалия
+    mg: Somalia
+    mhr: Сомали
+    mi: Hūmārie
+    min: Somalia
+    mk: Сомалија
+    ml: സൊമാലിയ
+    mn: Сомали
+    mni: ꯁꯣꯃꯥꯂꯤꯌꯥ
+    mr: सोमालिया
+    ms: Somalia
+    mt: Somalja
+    my: ဆိုမာလီယာနိုင်ငံ
+    mzn: سومالی
+    na: Tomariya
+    nah: Somalia
+    nan: Somalia
+    nb: Somalia
+    nds: Somalia
+    nds-nl: Somalie
+    ne: सोमालिया
+    new: सोमालिया
+    nl: Somalië
+    nn: Somalia
+    nov: Somalia
+    nso: Somalia
+    nv: Bilį́į́łání Dineʼé Bikéyah
+    ny: Somalia
+    oc: Somalia
+    olo: Somali
+    om: Somaaliyaa
+    or: ସୋମାଲିଆ
+    os: Сомали
+    pa: ਸੋਮਾਲੀਆ
+    pam: Somalia
+    pap: Somalia
+    pdc: Somaali
+    pi: सोमालिया
+    pih: Somalia
+    pl: Somalia
+    pms: Somalia
+    pnb: صومالیا
+    ps: سوماليا
+    pt: Somália
+    pt-br: Somália
+    qu: Sumalya
+    rm: Somalia
+    rmy: Somaliya
+    ro: Somalia
+    ru: Сомали
+    rue: Сомальско
+    rw: Somaliya
+    sa: सोमालिया
+    sah: Сомалия
+    sc: Somàlia
+    scn: Somalia
+    sco: Somalie
+    sd: سوماليا
+    se: Somalia
+    sg: Somalïi
+    sgs: Suomalis
+    sh: Somalija
+    shn: မိူင်းသူဝ်ႇမႃးလီးယႃး
+    si: සෝමාලියාව
+    sk: Somálsko
+    sl: Somalija
+    sm: Somalia
+    smj: Somálla
+    smn: Somalia
+    sms: Somalia
+    sn: Somalia
+    so: Soomaaliya
+    sq: Somalia
+    sr: Сомалија
+    sr-ec: Сомалија
+    sr-el: Somalija
+    ss: ISomaliya
+    st: Somalia
+    stq: Somalia
+    su: Somalia
+    sv: Somalia
+    sw: Somalia
+    syl: ꠍꠥꠝꠣꠟꠤꠀ
+    szl: Sůmalijo
+    szy: Somalia
+    ta: சோமாலியா
+    tay: Somalia
+    te: సొమాలియా
+    tg: Сумолӣ
+    th: ประเทศโซมาเลีย
+    ti: ሶማልያ
+    tk: Somali
+    tl: Somalia
+    tok: ma Somalija
+    tr: Somali
+    trv: Somalia
+    ts: Somalia
+    tt: Сомали
+    tum: Somalia
+    tw: Somalia
+    udm: Сомали
+    ug: سومالى
+    uk: Сомалі
+    ur: صومالیہ
+    uz: Somali
+    vec: Somałia
+    vep: Somali
+    vi: Somalia
+    vls: Somalië
+    vo: Somalän
+    vro: Somaalia
+    war: Somalia
+    wo: Somali
+    wuu: 索马里
+    xal: Сомалмудин Орн
+    xmf: სომალი
+    yi: סאמאליע
+    yo: Sòmálíà
+    yue: 索馬里
+    za: Somalia
+    zea: Somaolië
+    zgh: ⵚⵓⵎⴰⵍⵢⴰ
+    zh: 索馬里
+    zh-cn: 索马里
+    zh-hans: 索马里
+    zh-hant: 索馬利亞
+    zh-hk: 索馬里
+    zh-mo: 索马里
+    zh-my: 索马里
+    zh-sg: 索马里
+    zh-tw: 索馬利亞
+    zu: ISomalia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion
 dv_has_name_de: Somalia
 dv_Area-Total: 637657
 dv_Area-Land: 627340
-dv_has_place_continent: "[Africa](../../Africa)"
+dv_has_place_continent: '[Africa](../../Africa)'
 dv_VehicleCode: SO
-dv_Capital: "[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)"
+dv_Capital: '[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)'
 dv_Alcohol-l: 0.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 45.33
 dv_has_place_latitude: 2.02
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]"
+- '[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]'
+- '[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Reunion
-
 aliases:
-  - Somalia
-  - Somalie
-  - الصومال
-  - 索马里
-  - Сомали
-  - the Federal Republic of Somalia
-  - la República Federal de Somalia
+- an tSomáil
+- Bilį́į́łání Dineʼé Bikéyah
+- Hūmārie
+- ISomalia
+- ISomaliya
+- la República Federal de Somalia
+- ma Somalija
+- Somaali
+- Somaalia
+- Somaaliya
+- Somaaliyaa
+- Somaalje
+- Somali
+- Somalia
+- somalias
+- Somalie
+- Somalija
+- Somalio
+- Somalis
+- Somalitò
+- Somaliya
+- Somalië
+- Somalja
+- Somalya
+- Somalän
+- Somalïi
+- Somaolië
+- Somałia
+- Somàilia
+- Somàlia
+- Somália
+- Somálla
+- Somálsko
+- Somālija
+- Soomaali
+- Soomaaliya
+- Sumalia
+- Sumalya
+- Suomalis
+- Szomália
+- Sòmálíà
+- Sómalía
+- Sōmalia
+- Sůmalijo
+- the Federal Republic of Somalia
+- Thomalia
+- Tomariya
+- y Tomaal
+- Σομαλία
+- Самалі
+- Сомалі
+- Сомали
+- Сомалија
+- Сомалия
+- Сомалмудин Орн
+- Сомальско
+- Сумолӣ
+- Սոմալի
+- סאמאליע
+- סומליה
+- الصومال
+- سومالى
+- سوماليا
+- سومالی
+- سومالیا
+- سۆماڵیا
+- سۊمالي
+- صومال
+- صومالیا
+- صومالیہ
+- ܨܘܡܐܠ
+- ސޯމާލިއާ
+- सोमालिया
+- চোমালিয়া
+- সোমালিয়া
+- ਸੋਮਾਲੀਆ
+- સોમાલિયા
+- ସୋମାଲିଆ
+- சோமாலியா
+- సొమాలియా
+- ಸೊಮಾಲಿಯ
+- സൊമാലിയ
+- සෝමාලියාව
+- ประเทศโซมาเลีย
+- སོ་མ་ལི།
+- ဆိုမာလီယာနိုင်ငံ
+- မိူင်းသူဝ်ႇမႃးလီးယႃး
+- სომალი
+- ሶማሊያ
+- ሶማልያ
+- ᏐᎹᎵ
+- សូម៉ាលី
+- Ṣumal
+- ⵚⵓⵎⴰⵍⵢⴰ
+- ソマリア
+- 索馬利亞
+- 索馬里
+- 索马里
+- ꠍꠥꠝꠣꠟꠤꠀ
+- ꯁꯣꯃꯥꯂꯤꯌꯥ
+- 소말리아
 has_id_wikidata: Q1045
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.so,126480]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Somalia,159538]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.so,126480]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Somalia,159538]]'
 member_of:
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-legislative_body: "[[_Standards/WikiData/WD~Federal_Parliament_of_Somalia,176597]]"
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+legislative_body: '[[_Standards/WikiData/WD~Federal_Parliament_of_Somalia,176597]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Republic_Day,14885577]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Somalia,203362]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Republic_Day,14885577]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Somalia,203362]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Bakool,282471]]"
-  - "[[_Standards/WikiData/WD~Hiran,660040]]"
-  - "[[_Standards/WikiData/WD~Middle_Shebelle,678435]]"
-  - "[[_Standards/WikiData/WD~Bari,729170]]"
-  - "[[_Standards/WikiData/WD~Awdal_Region,791667]]"
-  - "[[_Standards/WikiData/WD~Banaadir,806070]]"
-  - "[[_Standards/WikiData/WD~Bay,812064]]"
-  - "[[_Standards/WikiData/WD~Gedo,856719]]"
-  - "[[_Standards/WikiData/WD~Galguduud,876772]]"
-  - "[[_Standards/WikiData/WD~Lower_Shebelle,877028]]"
-  - "[[_Standards/WikiData/WD~Mudug,877034]]"
-  - "[[_Standards/WikiData/WD~Lower_Juba,877042]]"
-  - "[[_Standards/WikiData/WD~Middle_Juba,1046324]]"
-  - "[[_Standards/WikiData/WD~Nugal,1046329]]"
-head_of_state: "[[_Standards/WikiData/WD~Hassan_Sheikh_Mohamud,319153]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
+- '[[_Standards/WikiData/WD~Bakool,282471]]'
+- '[[_Standards/WikiData/WD~Hiran,660040]]'
+- '[[_Standards/WikiData/WD~Middle_Shebelle,678435]]'
+- '[[_Standards/WikiData/WD~Bari,729170]]'
+- '[[_Standards/WikiData/WD~Awdal_Region,791667]]'
+- '[[_Standards/WikiData/WD~Banaadir,806070]]'
+- '[[_Standards/WikiData/WD~Bay,812064]]'
+- '[[_Standards/WikiData/WD~Gedo,856719]]'
+- '[[_Standards/WikiData/WD~Galguduud,876772]]'
+- '[[_Standards/WikiData/WD~Lower_Shebelle,877028]]'
+- '[[_Standards/WikiData/WD~Mudug,877034]]'
+- '[[_Standards/WikiData/WD~Lower_Juba,877042]]'
+- '[[_Standards/WikiData/WD~Middle_Juba,1046324]]'
+- '[[_Standards/WikiData/WD~Nugal,1046329]]'
+head_of_state: '[[_Standards/WikiData/WD~Hassan_Sheikh_Mohamud,319153]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~federal_republic,512187]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~federal_republic,512187]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~federal_republic,512187]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-highest_point: "[[_Standards/WikiData/WD~Shimbiris,649162]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Somalia,952462]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Somalia,1335939]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Somalia,1340791]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~Europlug,1378312]]"
-replaces: "[[_Standards/WikiData/WD~Somali_Democratic_Republic,1477220]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Somalia,1477621]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Somalia,2299534]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+highest_point: '[[_Standards/WikiData/WD~Shimbiris,649162]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Somalia,952462]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Somalia,1335939]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Somalia,1340791]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
+replaces: '[[_Standards/WikiData/WD~Somali_Democratic_Republic,1477220]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Somalia,1477621]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Somalia,2299534]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Borana,2910610]]"
-  - "[[_Standards/WikiData/WD~Swahili,3197533]]"
-  - "[[_Standards/WikiData/WD~Dabarre,3447286]]"
-  - "[[_Standards/WikiData/WD~Tunni,3514343]]"
-  - "[[_Standards/WikiData/WD~Mushungulu,11732489]]"
-  - "[[_Standards/WikiData/WD~Somali,13275]]"
-  - "[[_Standards/WikiData/WD~Maay-Maay_language,36221]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Garre,56618]]"
-  - "[[_Standards/WikiData/WD~Boon,56616]]"
-  - "[[_Standards/WikiData/WD~Jiiddu,56769]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Somalia,3007294]]"
+- '[[_Standards/WikiData/WD~Borana,2910610]]'
+- '[[_Standards/WikiData/WD~Swahili,3197533]]'
+- '[[_Standards/WikiData/WD~Dabarre,3447286]]'
+- '[[_Standards/WikiData/WD~Tunni,3514343]]'
+- '[[_Standards/WikiData/WD~Mushungulu,11732489]]'
+- '[[_Standards/WikiData/WD~Somali,13275]]'
+- '[[_Standards/WikiData/WD~Maay-Maay_language,36221]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Garre,56618]]'
+- '[[_Standards/WikiData/WD~Boon,56616]]'
+- '[[_Standards/WikiData/WD~Jiiddu,56769]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Somalia,3007294]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~999,3086706]]"
-  - "[[_Standards/WikiData/WD~888,60061962]]"
-  - "[[_Standards/WikiData/WD~555,60061960]]"
-anthem: "[[_Standards/WikiData/WD~Qolobaa_Calankeed,4484804]]"
+- '[[_Standards/WikiData/WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~888,60061962]]'
+- '[[_Standards/WikiData/WD~555,60061960]]'
+anthem: '[[_Standards/WikiData/WD~Qolobaa_Calankeed,4484804]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Mogadishu,4689513]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Somalia,5440239]]"
+- '[[_Standards/WikiData/WD~Africa_Mogadishu,4689513]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+executive_body: '[[_Standards/WikiData/WD~Federal_Government_of_Somalia,5440239]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Somalia_topics,6466088]]"
-  - "[[_Standards/WikiData/WD~Template_Somalia,17586311]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Somalia,7112454]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Somalia,10862295]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Somalia,11278941]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Somalia,19364214]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Somalia,21830805]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-open_data_portal: "[[_Standards/WikiData/WD~Somalia_Open_Data_Portal,96999258]]"
-head_of_government: "[[_Standards/WikiData/WD~Mohamed_Hussein_Roble,99605101]]"
+- '[[_Standards/WikiData/WD~Template_Somalia_topics,6466088]]'
+- '[[_Standards/WikiData/WD~Template_Somalia,17586311]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Somalia,7112454]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Somalia,10862295]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Somalia,11278941]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Somalia,19364214]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Somalia,21830805]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+open_data_portal: '[[_Standards/WikiData/WD~Somalia_Open_Data_Portal,96999258]]'
+head_of_government: '[[_Standards/WikiData/WD~Mohamed_Hussein_Roble,99605101]]'
 nominal_GDP:
-  - 8126105600
-  - 7628000011
+- 8126105600
+- 7628000011
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Somalia%20%28orthographic%20projection%292.svg
 demonym:
-  - صومالي
-  - صوماليات
-  - صومالية
-  - صوماليين
-  - Somálach
-  - صومالية
-  - Somali
-  - סומלית
-  - somalo
-  - somali
-  - somaleză
-  - sòmało
-  - Somalien
-  - סומלי
-  - somali
-  - صومالي
-  - صوماليون
-  - somalí
-  - somalín
-  - সোমালি
-  - Somalian
-  - Somaliano
-  - Somalienne
-  - szomáliai
-  - Somaliano
-  - somala
-  - somale
-  - Somalijczyk
-  - Somalijka
-  - somalez
-  - somalezi
-  - сомалийцы
-  - сомаліжць
-  - сомалійці
-  - sòmała
-  - sòmałe
-  - sòmałi
-  - Somalänan
+- صومالي
+- صوماليات
+- صومالية
+- صوماليين
+- Somálach
+- صومالية
+- Somali
+- סומלית
+- somalo
+- somali
+- somaleză
+- sòmało
+- Somalien
+- סומלי
+- somali
+- صومالي
+- صوماليون
+- somalí
+- somalín
+- সোমালি
+- Somalian
+- Somaliano
+- Somalienne
+- szomáliai
+- Somaliano
+- somala
+- somale
+- Somalijczyk
+- Somalijka
+- somalez
+- somalezi
+- сомалийцы
+- сомаліжць
+- сомалійці
+- sòmała
+- sòmałe
+- sòmałi
+- Somalänan
 ISNI: 000000012173591X
 MeSH_tree_code: Z01.058.290.120.730
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mogadishu%20banner%20Lido%20Beach.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20carries%20a%20huge%20hammerhead%20through%20the%20streets%20of%20Mogadishu.jpg
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Djibouti,977]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Djibouti,977]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-country: "[[_Standards/WikiData/WD~Somalia,1045]]"
-lowest_point: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-capital: "[[_Standards/WikiData/WD~Mogadishu,2449]]"
+- '[[_Standards/WikiData/WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115]]'
+country: '[[_Standards/WikiData/WD~Somalia,1045]]'
+lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+capital: '[[_Standards/WikiData/WD~Mogadishu,2449]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Somali,13275]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-part_of: "[[_Standards/WikiData/WD~East_Africa,27407]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Somali,13275]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+part_of: '[[_Standards/WikiData/WD~East_Africa,27407]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 7
 BTI_Governance_Index:
-  - 1.7
-  - 1.04
-  - 1.51
-  - 1.55
-  - 1.78
-  - 2.08
-  - 2.25
-  - 2.41
-  - 2.43
+- 1.7
+- 1.04
+- 1.51
+- 1.55
+- 1.78
+- 2.08
+- 2.25
+- 2.41
+- 2.43
 marriageable_age: 18
 mains_voltage: 220
 BTI_Status_Index:
-  - 1.22
-  - 1.32
-  - 1.34
-  - 1.36
-  - 1.38
-  - 1.54
+- 1.22
+- 1.32
+- 1.34
+- 1.36
+- 1.38
+- 1.54
 Gini_coefficient: 36.8
 death_rate:
-  - 11.39
-  - 11.012
-  - 11.041
-  - 11.596
+- 11.39
+- 11.012
+- 11.041
+- 11.596
 total_fertility_rate: 6.463
 IAB_code: 1408
 licence_plate_code: SO
@@ -311,14 +689,14 @@ M49_code: 706
 OmegaWiki_Defined_Meaning: 8554
 mobile_country_code: 637
 birth_rate:
-  - 43.086
-  - 43.561
-  - 44.007
-  - 44.564
+- 43.086
+- 43.561
+- 44.007
+- 44.564
 life_expectancy: 56.293
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg
 maritime_identification_digits: 666
-Unicode_character: 🇸🇴
+Unicode_character: "\U0001F1F8\U0001F1F4"
 area: 637657
 INSEE_countries_and_foreign_territories_code: 99318
 PM20_geo_code: C123
@@ -326,25 +704,25 @@ ISO_3166_1_alpha_3_code: SOM
 ITU_letter_code: SOM
 IOC_country_code: SOM
 urban_population:
-  - 7280121
-  - 7630345
-  - 7974917
-  - 8327846
+- 7280121
+- 7630345
+- 7974917
+- 8327846
 female_population:
-  - 7969926
-  - 8246544
-  - 8509953
-  - 8775069
+- 7969926
+- 8246544
+- 8509953
+- 8775069
 male_population:
-  - 8011375
-  - 8290471
-  - 8555628
-  - 8822442
+- 8011375
+- 8290471
+- 8555628
+- 8822442
 rural_population:
-  - 8701179
-  - 8906671
-  - 9090664
-  - 9269665
+- 8701179
+- 8906671
+- 9090664
+- 9269665
 inception: 1960
 has_time_started: 1960-06
 population: 11031386
@@ -360,10 +738,10 @@ coordinates_of_easternmost_point: Point(51.266666666 10.416666666)
 coordinates_of_northernmost_point: Point(50.78 11.98)
 geoshape: http://commons.wikimedia.org/data/main/Data:Somalia.map
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Somalia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Somalia.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Somalia.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Somalia.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 Dewey_Decimal_Classification: 2--6773
 Libris_URI: fcrtt3qz3712wzg
 Colon_Classification: SG--685
@@ -371,23 +749,23 @@ CIVICUS_Monitor_country_entry: somalia
 GitHub_topic: somalia
 Krugosvet_article: strany_mira/SOMALI.html
 native_label:
-  - جمهورية الصومال الفدرالية
-  - Jamhuuriyadda Federaalka Soomaaliya
-  - Soomaaliya
-  - 𐒈𐒝𐒑𐒛𐒐𐒘𐒕𐒖
+- جمهورية الصومال الفدرالية
+- Jamhuuriyadda Federaalka Soomaaliya
+- Soomaaliya
+- "\U00010488\U0001049D\U00010491\U0001049B\U00010490\U00010498\U00010495\U00010496"
 official_name:
-  - Federal Republic of Somalia
-  - République fédérale de Somalie
-  - Federalna Republika Somalii
-  - Soomaaliya
-short_name: 🇸🇴
+- Federal Republic of Somalia
+- République fédérale de Somalie
+- Federalna Republika Somalii
+- Soomaaliya
+short_name: "\U0001F1F8\U0001F1F4"
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Administrative%20divisions%20of%20Somalia.svg
 location:
-  - 2.02
-  - 45.33
+- 2.02
+- 45.33
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27022
 isDeleted: false
 confidential: public
@@ -397,19 +775,18 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Somalia
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - so-SO
-  - ar-SO
-  - it
-  - en-SO
+- so-SO
+- ar-SO
+- it
+- en-SO
 ---
-
 # [Somalia]() 
 
 ## [[Somalia]] has Properties...

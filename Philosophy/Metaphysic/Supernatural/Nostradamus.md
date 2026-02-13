@@ -1,33 +1,65 @@
 ---
 aliases:
-  - Michel de Nostredame
-  - Nostradamus
+- Michael Nostradamus
+- Michel de Nostredame
+- Miquèl de Nòstra Dama
+- Mişel Nostradamus
+- Nostradamas
+- Nostradameus
+- Nostradams
+- Nostradamus
+- Nostradamusi
+- Νοστράδαμος
+- Настрадамус
+- Нострадамус
+- Միշել Նոստրադամուս
+- נוסטרדמוס
+- نوسترآداموس
+- نوستراداموس
+- نوسٹرا ڈیمس
+- نۆسترادامۆس
+- नास्त्रेदमस
+- নসট্রাদামুস
+- ਨਾਸਟਰਡਾਮਸ
+- நோஸ்ராடாமஸ்
+- నోస్ట్రడామస్
+- ನಾಸ್ಟ್ರ ಡಮಸ್
+- നോസ്ട്രഡാമസ്
+- මිචෙල් ඩි නොස්ට්රෙඩමේ
+- นอสตราเดมัส
+- နော်စတာဒါမတ်စ်
+- ნოსტრადამუსი
+- ノストラダムス
+- 諾斯特拉達姆士
+- 諾齊擔瑪士
+- 诺斯特拉达姆士
+- 노스트라다무스
 has_id_wikidata: Q39978
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 occupation:
-  - '[[_Standards/WikiData/WD~pharmacist,105186]]'
-  - '[[_Standards/WikiData/WD~astrologer,155647]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~pharmacist,105186]]'
+- '[[_Standards/WikiData/WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~physician_writer,551835]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 place_of_birth: '[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]'
 place_of_death: '[[_Standards/WikiData/WD~Salon_de_Provence,232567]]'
 cause_of_death: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 different_from: '[[_Standards/WikiData/WD~Nostradamus,667000]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Montpellier,776223]]'
-  - '[[_Standards/WikiData/WD~Avignon_University,2033119]]'
+- '[[_Standards/WikiData/WD~University_of_Montpellier,776223]]'
+- '[[_Standards/WikiData/WD~Avignon_University,2033119]]'
 sibling: '[[_Standards/WikiData/WD~Jean_de_Nostredame,1218411]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museon_Omniversum,1954331]]'
 child: '[[_Standards/WikiData/WD~César_de_Notre_Dame,3010514]]'
@@ -40,8 +72,8 @@ given_name: '[[_Standards/WikiData/WD~Michel,14626626]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q18995417,18995417]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Anne_Ponsarde,108675460]]'
-  - http://www.wikidata.org/.well-known/genid/83870cc11e28c96e6f7a746c084981c3
+- '[[_Standards/WikiData/WD~Anne_Ponsarde,108675460]]'
+- http://www.wikidata.org/.well-known/genid/83870cc11e28c96e6f7a746c084981c3
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
 date_of_death: 1566-07-12T00:00:00Z
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
@@ -59,16 +91,126 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nostradamus-pla
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nostradamus%20by%20Cesar.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Nostradamus.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=108230114
-  - http://www.digiporta.net/index.php?id=256445525
-  - http://www.digiporta.net/index.php?id=695968317
+- http://www.digiporta.net/index.php?id=108230114
+- http://www.digiporta.net/index.php?id=256445525
+- http://www.digiporta.net/index.php?id=695968317
 ISNI: 0000000083395220
 RIA_Novosti_reference: 42486271
 Krugosvet_article_archived_: istoriya/NOSTRADAMUS.html
 Commons_Creator_page: Michel de Nostredame
 Commons_gallery: Michel de Nostredame
+dv_has_:
+  name_:
+    af: Nostradamus
+    ar: نوستراداموس
+    arz: نوستراداموس
+    ast: Nostradamus
+    az: Mişel Nostradamus
+    azb: نوستراداموس
+    ba: Нострадамус
+    bcl: Nostradamus
+    be: Настрадамус
+    be-tarask: Настрадамус
+    bg: Нострадамус
+    bn: নসট্রাদামুস
+    br: Nostradamus
+    bs: Nostradamus
+    ca: Michel de Nostredame
+    ckb: نۆسترادامۆس
+    cs: Nostradamus
+    cy: Nostradamus
+    da: Nostradamus
+    de: Nostradamus
+    de-ch: Nostradamus
+    diq: Nostradamus
+    el: Νοστράδαμος
+    en: Nostradamus
+    en-ca: Nostradamus
+    en-gb: Nostradamus
+    eo: Nostradamus
+    es: Nostradamus
+    et: Nostradamus
+    eu: Nostradamus
+    fa: نوسترآداموس
+    fi: Nostradamus
+    fo: Nostradamus
+    fr: Nostradamus
+    frp: Nostradamus
+    ga: Nostradamus
+    gl: Nostradamus
+    he: נוסטרדמוס
+    hi: नास्त्रेदमस
+    hr: Nostradamus
+    hu: Nostradamus
+    hy: Միշել Նոստրադամուս
+    id: Nostradamus
+    ig: Nostradamus
+    io: Nostradamus
+    is: Nostradamus
+    it: Nostradamus
+    ja: ノストラダムス
+    jv: Nostradamus
+    ka: ნოსტრადამუსი
+    kk: Нострадамус
+    kn: ನಾಸ್ಟ್ರ ಡಮಸ್
+    ko: 노스트라다무스
+    la: Michael Nostradamus
+    lb: Nostradamus
+    lfn: Nostradamus
+    lmo: Nostradamus
+    lt: Nostradamas
+    lv: Nostradams
+    mg: Nostradamus
+    mk: Нострадамус
+    ml: നോസ്ട്രഡാമസ്
+    mn: Нострадамус
+    ms: Nostradamus
+    mul: Nostradamus
+    my: နော်စတာဒါမတ်စ်
+    mzn: نوسترآداموس
+    nb: Nostradamus
+    nds-nl: Michel de Nostredame
+    ne: नास्त्रेदमस
+    nl: Nostradamus
+    nn: Nostradamus
+    nrm: Nostradamus
+    oc: Miquèl de Nòstra Dama
+    pa: ਨਾਸਟਰਡਾਮਸ
+    pap: Nostradameus
+    pcd: Nostradamus
+    pl: Nostradamus
+    pms: Michel de Nostredame
+    pnb: نوسٹرا ڈیمس
+    pt: Nostradamus
+    pt-br: Nostradamus
+    ro: Nostradamus
+    ru: Нострадамус
+    rue: Нострадамус
+    se: Nostradamus
+    sh: Nostradamus
+    si: මිචෙල් ඩි නොස්ට්රෙඩමේ
+    sk: Nostradamus
+    sl: Nostradamus
+    sq: Nostradamusi
+    sr: Нострадамус
+    sv: Nostradamus
+    sw: Nostradamus
+    ta: நோஸ்ராடாமஸ்
+    te: నోస్ట్రడామస్
+    tg: Нострадамус
+    th: นอสตราเดมัส
+    tr: Nostradamus
+    tt: Нострадамус
+    uk: Нострадамус
+    ur: نوسٹرا ڈیمس
+    uz: Nostradamus
+    vec: Nostradamus
+    vi: Nostradamus
+    war: Nostradamus
+    wuu: 诺斯特拉达姆士
+    yue: 諾齊擔瑪士
+    zh: 諾斯特拉達姆士
 ---
-
 # [[Nostradamus]] 
 
 #is_/same_as :: [[WD~Nostradamus,39978]] 

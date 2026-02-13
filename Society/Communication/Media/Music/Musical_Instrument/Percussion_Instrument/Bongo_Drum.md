@@ -1,22 +1,99 @@
 ---
 aliases:
-  - bongó
-  - Bongos
-  - Bongo_Drum
-  - Bongo Drum
+- Bongai
+- Bongi
+- bongo
+- Bongo bubanj
+- Bongo Drum
+- Bongorummut
+- Bongos
+- Bongosy
+- Bongotromme
+- bongotrommer
+- bongotrummor
+- Bongo_Drum
+- bongó
+- bongô
+- Bonqo (musiqi aləti)
+- druma bongó
+- банго
+- бонго
+- Бонго бубањ
+- Бонгос
+- תופי בונגו
+- طبل بانگو
+- طبلة بونجو
+- बोंगो
+- บองโก
+- ボンゴ
+- 邦哥鼓
+- 봉고
 has_id_wikidata: Q243998
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+- '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
 Nomenclature_for_Museum_Cataloging: 10742
 OmegaWiki_Defined_Meaning: 404017
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bongo.jpg
 Commons_category: Bongos
 Hornbostel_Sachs_classification: 211.251.2
 P8189: 987007283102205171
+dv_has_:
+  name_:
+    ar: طبلة بونجو
+    ast: Bongó
+    az: Bonqo (musiqi aləti)
+    be-tarask: банго
+    bg: Бонгос
+    bm: Bongo
+    ca: bongo
+    cs: bongo
+    da: Bongotromme
+    de: Bongos
+    en: bongo
+    eo: Bongo
+    es: bongó
+    eu: Bongo
+    fa: طبل بانگو
+    fi: Bongorummut
+    fr: bongo
+    ga: druma bongó
+    gl: Bongó
+    he: תופי בונגו
+    hr: Bongo bubanj
+    hu: bongó
+    it: bongo
+    ja: ボンゴ
+    ko: 봉고
+    lt: Bongai
+    mk: Бонго
+    mr: बोंगो
+    ms: bongo
+    nb: bongotrommer
+    nl: bongo
+    nn: bongo
+    pl: Bongosy
+    pt: bongô
+    pt-br: Bongô
+    ru: бонго
+    sk: Bongo
+    sl: Bongi
+    sr: Бонго бубањ
+    sv: bongotrummor
+    th: บองโก
+    tr: Bongo
+    uk: бонго
+    uz: Bongo
+    yue: 邦哥鼓
+    zh: 邦哥鼓
+    zh-cn: 邦哥鼓
+    zh-hans: 邦哥鼓
+    zh-hant: 邦哥鼓
+    zh-hk: 邦哥鼓
+    zh-sg: 邦哥鼓
+    zh-tw: 邦哥鼓
 ---
-
 # [[Bongo_Drum]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bongo_drum,243998|WD~Bongo_drum,243998]] 

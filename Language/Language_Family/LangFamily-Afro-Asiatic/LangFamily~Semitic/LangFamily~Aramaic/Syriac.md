@@ -1,30 +1,121 @@
 ---
 aliases:
-  - Syriac
-  - Suret
-  - ܣܘܪܝܬ
-  - Assyrian"
+- an tSiricis
+- Assyrian"
+- Bahasa Suryani
+- Chisiriya
+- Fiteny siriaka
+- gammalsyrisk
+- gammelsyrisk
+- Idioma siríacu
+- język syryjski
+- Lenga sirìaca
+- Limba siriacă
+- lingua siríaca
+- lingua Syriaca
+- Língua siríaca
+- Reo Syriac
+- siria lingvo
+- siriaco
+- Siriaka
+- sirieg
+- siriera
+- Siries
+- Sirijski jezik
+- Siriyanci
+- Sirjak
+- Sirjački jezik
+- sirìacu
+- sirìago
+- siríac
+- siríaco
+- sirščina
+- Sirų kalba
+- Suret
+- Suryani
+- Suryanki
+- Suryoniy tili
+- Syriac
+- Syriac bhasa
+- syriaque
+- Syrieg
+- Syrisch
+- Syrisk
+- syriska
+- Syrysk
+- syrština
+- syyria
+- szír
+- süryani dili
+- Süryanice
+- Sürýany dili
+- sýrčina
+- sīriešu valoda
+- tiếng Syriac
+- Vanasüüria keel
+- Wikang Syriac
+- Zimanê suryanî
+- Συριακή γλώσσα
+- забони сурёнӣ
+- сірыйская мова
+- сирійська мова
+- сиријски језик
+- сирийаг æвзаг
+- Сирийски език
+- сирийский язык
+- Сириски јазик
+- Сирия кыв
+- Сирия тили
+- сырыйская мова
+- сүрияни теле
+- Сүриә теле
+- սիրիերեն
+- סורית
+- السريانية
+- زبان سریانی
+- زمانی سوریانی
+- سرياني ٻولي
+- سرياني ژبه
+- سریانی
+- سریانی دیلی
+- سریانی زبان
+- سۇريانىي تىلى
+- سیریائی
+- ܠܫܢܐ ܣܘܪܝܝܐ
+- ܣܘܪܝܬ
+- सीरियाई भाषा
+- সিরীয় ভাষা
+- ਸੀਰੀਆਈ
+- சிரியாக் மொழி
+- സുറിയാനി
+- ภาษาซีรีแอก
+- სირიული ენა
+- シリア語
+- 叙利亚语
+- 敘利亞文
+- 敘利亞語
+- 시리아어
 has_id_wikidata: Q33538
 indigenous_to: '[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Ancient_Church_of_the_East,435787]]'
-  - '[[_Standards/WikiData/WD~Malankara_Orthodox_Syrian_Church,532662]]'
-  - '[[_Standards/WikiData/WD~Assyrian_Pentecostal_Church,4810445]]'
-  - '[[_Standards/WikiData/WD~Chaldean_Catholic_Church,64868]]'
+- '[[_Standards/WikiData/WD~Ancient_Church_of_the_East,435787]]'
+- '[[_Standards/WikiData/WD~Malankara_Orthodox_Syrian_Church,532662]]'
+- '[[_Standards/WikiData/WD~Assyrian_Pentecostal_Church,4810445]]'
+- '[[_Standards/WikiData/WD~Chaldean_Catholic_Church,64868]]'
 has_grammatical_gender:
-  - '[[_Standards/WikiData/WD~masculine,499327]]'
-  - '[[_Standards/WikiData/WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~sacred_language,839470]]'
-  - '[[_Standards/WikiData/WD~historical_language,2315359]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~sacred_language,839470]]'
+- '[[_Standards/WikiData/WD~historical_language,2315359]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from: '[[_Standards/WikiData/WD~Syrian_Arabic,2143071]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Estrangela,3510984]]'
-  - '[[_Standards/WikiData/WD~Syriac_alphabet,26567]]'
+- '[[_Standards/WikiData/WD~Estrangela,3510984]]'
+- '[[_Standards/WikiData/WD~Syriac_alphabet,26567]]'
 studied_by: '[[_Standards/WikiData/WD~Syriac_studies,7663197]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~9_Second_language_only,61954942]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q104771328,104771328]]'
@@ -45,8 +136,114 @@ GOST_7_75_97_code: сир 602
 entry_in_abbreviations_table: сир.
 native_label: ܠܫܢܐ ܣܘܪܝܝܐ
 Dewey_Decimal_Classification: 492.3
+dv_has_:
+  name_:
+    aeb-arab: السريانية
+    af: Siries
+    ar: السريانية
+    arc: ܠܫܢܐ ܣܘܪܝܝܐ
+    arz: السريانية
+    ast: Idioma siríacu
+    az: süryani dili
+    azb: سریانی دیلی
+    ba: Сүриә теле
+    be: сірыйская мова
+    be-tarask: сырыйская мова
+    bg: Сирийски език
+    bn: সিরীয় ভাষা
+    br: sirieg
+    bs: Sirjački jezik
+    ca: siríac
+    ckb: زمانی سوریانی
+    cs: syrština
+    cy: Syrieg
+    da: syrisk
+    de: Syrisch
+    diq: Suryanki
+    el: Συριακή γλώσσα
+    en: Syriac
+    en-ca: Syriac
+    en-gb: Syriac
+    eo: siria lingvo
+    es: siríaco
+    et: Vanasüüria keel
+    eu: siriera
+    fa: زبان سریانی
+    fi: syyria
+    fr: syriaque
+    frr: Syrisk
+    fy: Syrysk
+    ga: an tSiricis
+    gl: lingua siríaca
+    ha: Siriyanci
+    he: סורית
+    hi: सीरियाई भाषा
+    hif: Syriac bhasa
+    hr: Sirjački jezik
+    hu: szír
+    hy: սիրիերեն
+    id: Suryani
+    io: Siriaka
+    it: siriaco
+    ja: シリア語
+    ka: სირიული ენა
+    kge: Bahasa Suryani
+    ko: 시리아어
+    ku: Zimanê suryanî
+    kv: Сирия кыв
+    ky: Сирия тили
+    la: lingua Syriaca
+    lt: Sirų kalba
+    lv: sīriešu valoda
+    mg: Fiteny siriaka
+    mi: Reo Syriac
+    mk: Сириски јазик
+    ml: സുറിയാനി
+    ms: Bahasa Suryani
+    mt: Sirjak
+    mzn: سریانی
+    nb: gammelsyrisk
+    nl: Syrisch
+    nn: gammalsyrisk
+    os: сирийаг æвзаг
+    pa: ਸੀਰੀਆਈ
+    pl: język syryjski
+    pms: Lenga sirìaca
+    pnb: سیریائی
+    ps: سرياني ژبه
+    pt: Língua siríaca
+    pt-br: língua siríaca
+    ro: Limba siriacă
+    ru: сирийский язык
+    scn: sirìacu
+    sd: سرياني ٻولي
+    sh: Sirijski jezik
+    sk: sýrčina
+    skr: سریانی
+    sl: sirščina
+    sn: Chisiriya
+    sr: сиријски језик
+    sv: syriska
+    ta: சிரியாக் மொழி
+    tg: забони сурёнӣ
+    th: ภาษาซีรีแอก
+    tk: Sürýany dili
+    tl: Wikang Syriac
+    tr: Süryanice
+    tt: сүрияни теле
+    ug: سۇريانىي تىلى
+    uk: сирійська мова
+    ur: سریانی زبان
+    uz: Suryoniy tili
+    vec: sirìago
+    vi: tiếng Syriac
+    wuu: 叙利亚语
+    yue: 敘利亞文
+    zh: 敘利亞語
+    zh-cn: 叙利亚语
+    zh-hans: 叙利亚语
+    zh-hant: 敘利亞語
 ---
-
 # [[Syriac]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Syriac,33538|WD~Syriac,33538]]  

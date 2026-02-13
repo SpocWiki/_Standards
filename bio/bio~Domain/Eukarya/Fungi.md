@@ -1,73 +1,436 @@
 ---
 aliases:
-  - Fungi
-  - funguses
-  - Pilz
-  - Pilze
-  - Fungus
+- agersal
+- Boqoshaa
+- Caen'gin
+- Chanpiyon
+- Chin-khún
+- Chʼosh doo yitʼíinii dláádí dóó Ábishjaaʼ
+- Chṳ̂n-khiùn
+- Cĭng-kṳ̄ng
+- Faangasii
+- ffwng
+- Fonch
+- fong
+- Fonggos
+- Funci
+- fungas
+- Fungi
+- fungo
+- fungoj
+- Fungu
+- Fungus
+- funguses
+- Fungys
+- Funig
+- Funś
+- fúngus
+- glive
+- gljiva
+- gljive
+- gomba
+- Griby
+- Grybai
+- grziby
+- grzyby
+- Grzëbë
+- Grība
+- guobbarat
+- Göbələklər
+- houby
+- hriby
+- huby
+- I-Fungi
+- K'allampa
+- karok
+- kulat
+- kuobbâreh
+- Kuvu
+- kuõbbâr
+- Käöme
+- Kërpudhat
+- Liyɛbú
+- Malɛɣu
+- mantar
+- Mycota
+- Nanacatl
+- nấm
+- Ocockweto
+- onddo
+- Pilz
+- Pilza
+- Pilze
+- Pilzeräich
+- Poagenstoule
+- Poggenstöhl
+- schimmels
+- Schwammal
+- seened
+- Sienet
+- Siin
+- Skimmels
+- soko
+- Soppar
+- soppriket
+- suung
+- svampar
+- svampe
+- sveppir
+- Swaampen
+- Swam
+- sēnes
+- Takuffit n uɛaqqay
+- Talingelinga
+- Tchampion
+- Uhong
+- Urupe
+- Zamburugʻlar
+- Èbu
+- Μύκητας
+- μύκητες
+- Бöк
+- Бәшмәктәр
+- гљиве
+- габа
+- гриби
+- Грибы
+- грыбы
+- губиос
+- гъби
+- гөмбәләр
+- ЖIаленускалаш
+- Занбӯруғҳо
+- зокъотæ
+- Кăмпа
+- Козу карындар
+- Къарникъуз
+- Мөөг
+- Мөөгэ
+- Панга
+- Пангт
+- Саңырауқұлақтар
+- Теңгрин ки
+- Тэллэйдэр
+- սնկեր
+- Սունկեր
+- פטריות
+- שוואם
+- زەمبۇرۇغ
+- فطر
+- فنګوسونه
+- فنگس
+- فݣيعيات
+- قارچ
+- ميش
+- کوارگ
+- کولت
+- گؤبلکلر
+- گوشک
+- कवकम्
+- ढुसी
+- फफूंद
+- फफूंदी
+- फुसा
+- बुरशी
+- ছত্রাক
+- ভেঁকুৰ
+- ਉੱਲੀ
+- பூஞ்சை
+- శిలీంధ్రం
+- ಲಾಂಬು
+- ಶಿಲೀಂಧ್ರ
+- പൂപ്പൽ
+- දිලීර
+- เห็ดรา
+- မှို
+- სოკოები
+- სოკოეფი
+- ፈንገስ
+- ᏭᎾᎩ
+- 真菌
+- 真菌界
+- 菌界
+- 균계
 has_id_wikidata: Q764
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
 AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]'
 Colon_Classification: I23
 Commons_category: Fungi
 Commons_gallery: Fungi
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
-  - 579.5
-  - 579.6
-  - 579
-  - 664.001579
-different_from: "[[_Standards/WikiData/WD~plant,756]]"
+- 579.5
+- 579.6
+- 579
+- 664.001579
+different_from: '[[_Standards/WikiData/WD~plant,756]]'
 EPPO_Code: 1FUNGK
 FoodEx2_code: A0ETG
 has_part_s_:
-  - "[[_Standards/WikiData/WD~mushroom,83093]]"
-  - "[[_Standards/WikiData/WD~mycelium,326228]]"
+- '[[_Standards/WikiData/WD~mushroom,83093]]'
+- '[[_Standards/WikiData/WD~mycelium,326228]]'
 has_time_started: -410000000
 Iconclass_notation: 25G54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 555705
 Krugosvet_article: nauka_i_tehnika/biologiya/GRIBI.html
 Library_of_Congress_Classification: QK600-QK638
 MeSH_tree_code: B01.300
 mode_of_reproduction:
-  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
-  - "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+- '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
+- '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
 montage_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
 OmegaWiki_Defined_Meaning: 1588
-parent_taxon: "[[_Standards/WikiData/WD~Holomycota,2943473]]"
+parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'
 properties_for_this_type: mode of reproduction
 start_time: -410000000-01-01
-studied_by: "[[_Standards/WikiData/WD~mycology,7175]]"
-subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+studied_by: '[[_Standards/WikiData/WD~mycology,7175]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
 taxon_name: Fungi
-taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant_based_food,107122728]]"
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~plant_based_food,107122728]]'
 title: Fungi
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]"
-  - "[[_Standards/WikiData/WD~Template_Fungus,14403518]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fungi,10814969]]"
+- '[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]'
+- '[[_Standards/WikiData/WD~Template_Fungus,14403518]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fungi,10814969]]'
 UMLS_CUI:
-  - C0016832
-  - C0369241
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
+- C0016832
+- C0369241
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
+dv_has_:
+  name_:
+    af: Swam
+    alt: Бöк
+    am: ፈንገስ
+    an: Fungi
+    anp: फफूंदी
+    ar: فطر
+    ary: فݣيعيات
+    arz: فطر
+    as: ভেঁকুৰ
+    ast: Fungi
+    atj: Ocockweto
+    az: Göbələklər
+    azb: گؤبلکلر
+    ba: Бәшмәктәр
+    ban: Fungi
+    bar: Schwammal
+    bcl: Fungus
+    be: грыбы
+    be-tarask: грыбы
+    bg: гъби
+    bn: ছত্রাক
+    br: Fungi
+    bs: gljive
+    bxr: Мөөгэ
+    ca: fong
+    cdo: Cĭng-kṳ̄ng
+    ceb: Uhong
+    chr: ᏭᎾᎩ
+    ckb: کوارگ
+    co: Fungi
+    crh: mantar
+    cs: houby
+    csb: Grzëbë
+    cv: Кăмпа
+    cy: ffwng
+    da: svampe
+    dag: Malɛɣu
+    de: Pilze
+    de-at: Fungi
+    de-ch: Fungi
+    dsb: Griby
+    el: Μύκητας
+    eml: Funś
+    en: fungi
+    en-ca: Fungus
+    en-gb: fungus
+    eo: fungoj
+    es: fungi
+    et: seened
+    eu: onddo
+    ext: Fungi
+    fa: قارچ
+    fi: sienet
+    fo: Soppar
+    fr: Fungi
+    frp: Fungi
+    frr: Swaampen
+    fur: Fungi
+    fy: Skimmels
+    ga: fungas
+    gcr: Fungi
+    gd: Fungas
+    gl: fungo
+    glk: ميش
+    gn: Urupe
+    grc: μύκητες
+    gsw: Pilz
+    gv: Fungys
+    hak: Chṳ̂n-khiùn
+    he: פטריות
+    hi: फफूंद
+    hif: Fungus
+    hr: gljive
+    hsb: hriby
+    ht: Chanpiyon
+    hu: gomba
+    hy: սնկեր
+    hyw: Սունկեր
+    ia: fungo
+    id: fungi
+    ie: Fungi
+    ilo: fungus
+    inh: ЖIаленускалаш
+    io: Fungi
+    is: sveppir
+    it: Fungi
+    ja: 菌界
+    jam: Fonggos
+    jv: fungi
+    ka: სოკოები
+    kab: agersal
+    kg: Fungi
+    ki: Fungi
+    kk: Саңырауқұлақтар
+    kn: ಶಿಲೀಂಧ್ರ
+    ko: 균계
+    ku: karok
+    ku-latn: karok
+    kw: fong
+    ky: Козу карындар
+    la: Fungi
+    lb: Pilzeräich
+    lez: Къарникъуз
+    lfn: Fungo
+    li: Käöme
+    lij: Fungi
+    lld: Fonch
+    lmo: Fungi
+    ln: Liyɛbú
+    lt: Grybai
+    lv: sēnes
+    lzh: 真菌
+    mdf: Панга
+    mg: Fungi
+    min: Fungi
+    mk: габа
+    ml: പൂപ്പൽ
+    mn: Мөөг
+    mr: बुरशी
+    ms: kulat
+    ms-arab: کولت
+    mul: Fungi
+    my: မှို
+    myv: Пангт
+    mzn: گوشک
+    nah: Nanacatl
+    nan: Chin-khún
+    nap: Fungi
+    nb: soppriket
+    nds: Poggenstöhl
+    nds-nl: Fungi
+    ne: ढुसी
+    new: फुसा
+    nl: schimmels
+    nn: soppriket
+    nrm: Fungi
+    nv: Chʼosh doo yitʼíinii dláádí dóó Ábishjaaʼ
+    nys: Fungi
+    oc: Mycota
+    olo: Sienet
+    om: Faangasii
+    os: зокъотæ
+    pa: ਉੱਲੀ
+    pam: Fungus
+    pap: fúngus
+    pcd: Fungi
+    pl: grzyby
+    pms: Fungi
+    pnb: فنگس
+    ps: فنګوسونه
+    pt: Fungi
+    pt-br: Fungi
+    qu: K'allampa
+    rm: Fungi
+    ro: Fungi
+    ru: грибы
+    rue: Грибы
+    sa: कवकम्
+    sah: Тэллэйдэр
+    sc: Fungu
+    scn: Funci
+    sco: fungus
+    sd: فنگس
+    se: guobbarat
+    sgs: Grība
+    sh: gljiva
+    shi: Takuffit n uɛaqqay
+    si: දිලීර
+    sk: huby
+    sl: glive
+    sli: Pilza
+    smn: kuobbâreh
+    sms: kuõbbâr
+    so: Boqoshaa
+    sq: Kërpudhat
+    sr: гљиве
+    stq: Poagenstoule
+    su: suung
+    sv: svampar
+    sw: Kuvu
+    szl: grziby
+    ta: பூஞ்சை
+    tcy: ಲಾಂಬು
+    te: శిలీంధ్రం
+    tg: Занбӯруғҳо
+    th: เห็ดรา
+    tl: Fungus
+    to: Talingelinga
+    tok: soko
+    tr: mantar
+    tt: гөмбәләр
+    udm: губиос
+    ug: زەمبۇرۇغ
+    uk: гриби
+    ur: فطر
+    uz: Zamburugʻlar
+    vec: fungus
+    vi: nấm
+    vls: Fungi
+    vo: Funig
+    vro: Siin
+    wa: Tchampion
+    war: Fungus
+    wo: Fungi
+    wuu: 真菌
+    xal: Теңгрин ки
+    xh: I-Fungi
+    xmf: სოკოეფი
+    yi: שוואם
+    yo: Èbu
+    yue: 真菌
+    za: Caen'gin
+    zh: 真菌界
+    zh-cn: 真菌界
+    zh-hans: 真菌界
+    zu: Fungi
 ---
-
 # [[Fungi]] 
 
 #is_a/bio-Kingdom 

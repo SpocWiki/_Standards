@@ -1,9 +1,48 @@
 ---
 aliases:
-  - Reality Labs
-  - Oculus_VR
-  - Oculus VR
+- Facebook Technologies
+- Facebook Technologies, LLC
+- Oculus VR
+- Oculus VR, LLC
+- Oculus_VR
+- Reality Labs
+- اوكلوس ڤى ار
+- ريالتي لابز
+- فناوری های فیسبوک
+- ڕیاڵیتی ڵابز
+- ഒക്കുലസ് വിആർ
+- 歐酷拉
+- 오큘러스 VR
 has_id_wikidata: Q16321326
+dv_has_:
+  name_:
+    ar: ريالتي لابز
+    arz: اوكلوس ڤى ار
+    az: Oculus VR
+    ca: Facebook Technologies, LLC
+    ckb: ڕیاڵیتی ڵابز
+    cs: Facebook Technologies
+    da: Oculus VR
+    de: Reality Labs
+    en: Reality Labs
+    es: Oculus VR
+    fa: فناوری های فیسبوک
+    fi: Facebook Technologies
+    fr: Reality Labs
+    hu: Reality Labs
+    it: Oculus VR, LLC
+    ja: Reality Labs
+    ko: 오큘러스 VR
+    ml: ഒക്കുലസ് വിആർ
+    nl: Oculus VR
+    pl: Reality Labs
+    ru: Oculus VR, LLC
+    sk: Facebook Technologies
+    sl: Reality Labs
+    sv: Reality Labs
+    tr: Oculus VR
+    zh: 歐酷拉
+    zh-hans: Oculus VR
 ---
 #has_/time_/started :: 2012-06 
 #is_/part_of ::[[../Meta_Platforms]]] 

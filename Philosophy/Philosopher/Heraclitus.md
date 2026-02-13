@@ -1,48 +1,112 @@
 ---
 aliases:
-  - Heraklit
-  - Ἡράκλειτος
-  - Hērákleitos
-  - Heraclitus
+- aristotal
+- Efesli Heraklit
+- Epheszoszi Hérakleitosz
+- Eraclit
+- Eraclito
+- Eraclitu
+- Eràclito
+- Eràclitu
+- Eráclitu
+- Geraklit Efeslik
+- Heracleitos
+- Heraclit
+- Heraclito
+- Heraclito de Éfeso
+- Heraclitus
+- Heraclitus a Ephesus
+- Herakleitos
+- Heraklit
+- Heraklit Mračni
+- Heraklitas
+- Herakliti
+- Heraklito
+- Heraklitos
+- Heraklėts
+- Heráclito
+- Heráclito de Éfeso
+- Heráclitu
+- Héraclite
+- Hérakleitos
+- Hérakleitos z Efezu
+- Hêrakleitos
+- Hērakleits
+- Hērákleitos
+- Ηράκλειτος
+- Геракліт
+- Гераклит
+- Гераклит Эфесский
+- Хераклит
+- Эфесский
+- Ҳероклитус
+- Һераклит
+- Իրաքլիս
+- Հերակլիտ
+- הרקליטוס
+- هراکلیتوس
+- هرقليطس
+- هيراكليتوس
+- هېراکلیتوس
+- ھێراکلیتوس
+- ہیراکلیطس
+- ہیراکلیٹس
+- हेरक्लिटस
+- हेराक्लिटस
+- হেরাক্লিটাস
+- ਹੇਰਾਕਲਿਟਸ
+- எராக்ளீட்டஸ்
+- హెరాక్లిటస్
+- ಹೆರಾಕ್ಲೈಟಸ್
+- ഹെരാക്ലീറ്റസ്
+- เฮราคลิตุส
+- ཧེ་རཱ་ཁི་ལེ་ཁྲི་ཟི།
+- ჰერაკლიტე
+- Ἡράκλειτος
+- Ἡράκλειτος ὁ Ἐφέσιος
+- ヘラクレイトス
+- 海勒克萊特斯
+- 赫拉克利特
+- 헤라클레이토스
 has_id_wikidata: Q41155
 student: '[[_Standards/WikiData/WD~Empedocles,83375]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Xenophanes,131671]]'
-  - '[[_Standards/WikiData/WD~Hippasus,298860]]'
+- '[[_Standards/WikiData/WD~Xenophanes,131671]]'
+- '[[_Standards/WikiData/WD~Hippasus,298860]]'
 cause_of_death: '[[_Standards/WikiData/WD~edema,152234]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 movement:
-  - '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]'
-  - '[[_Standards/WikiData/WD~ancient_philosophy,204100]]'
-  - '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
-  - '[[_Standards/WikiData/WD~Ionian_School,1294550]]'
+- '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]'
+- '[[_Standards/WikiData/WD~ancient_philosophy,204100]]'
+- '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
+- '[[_Standards/WikiData/WD~Ionian_School,1294550]]'
 native_language: '[[_Standards/WikiData/WD~Ionic_Greek,504165]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Heraclitus,1057422]]'
-  - '[[_Standards/WikiData/WD~Pseudo_Heraclitus,118689329]]'
+- '[[_Standards/WikiData/WD~Heraclitus,1057422]]'
+- '[[_Standards/WikiData/WD~Pseudo_Heraclitus,118689329]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 given_name: '[[_Standards/WikiData/WD~Ηράκλειτος,118688700]]'
 date_of_death: -0470-01-01T00:00:00Z
 interested_in:
-  - '[[_Standards/WikiData/WD~language,315]]'
-  - '[[_Standards/WikiData/WD~politics,7163]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~language,315]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
 field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
@@ -68,8 +132,117 @@ ISNI: 0000000458521749
 Europeana_entity: agent/base/145324
 Wolfram_Language_entity_code: Entity["Concept", "Heraclitus::2zd4j"]
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GERAKLIT.html
+dv_has_:
+  name_:
+    af: Herakleitos
+    an: Heraclito
+    ar: هرقليطس
+    arz: هيراكليتوس
+    ast: Heráclitu
+    az: Efesli Heraklit
+    azb: هراکلیتوس
+    be: Геракліт
+    be-tarask: Геракліт
+    bg: Хераклит
+    bn: হেরাক্লিটাস
+    bo: ཧེ་རཱ་ཁི་ལེ་ཁྲི་ཟི།
+    br: Herakleitos
+    bs: Heraklit
+    ca: Heraclit
+    ckb: ھێراکلیتوس
+    co: Eraclitu
+    cs: Hérakleitos
+    cy: Heracleitos
+    da: Heraklit
+    de: Heraklit
+    el: Ηράκλειτος
+    en: Heraclitus
+    eo: Heraklito
+    es: Heráclito
+    et: Herakleitos
+    eu: Heraklito
+    ext: Eráclitu
+    fa: هراکلیتوس
+    fi: Herakleitos
+    fo: Heraklit
+    fr: Héraclite
+    ga: Heraclitus
+    gd: Heraclitus a Ephesus
+    gl: Heráclito de Éfeso
+    grc: Ἡράκλειτος ὁ Ἐφέσιος
+    gsw: Heraklit
+    he: הרקליטוס
+    hi: हेरक्लिटस
+    hr: Heraklit
+    hu: Epheszoszi Hérakleitosz
+    hy: Հերակլիտ
+    hyw: Իրաքլիս
+    id: Herakleitos
+    io: Herakleitos
+    is: Herakleitos
+    it: Eraclito
+    ja: ヘラクレイトス
+    ka: ჰერაკლიტე
+    kk: Гераклит
+    kn: ಹೆರಾಕ್ಲೈಟಸ್
+    ko: 헤라클레이토스
+    ku: Hêrakleitos
+    ku-latn: Hêrakleitos
+    ky: Эфесский
+    la: Heraclitus
+    lb: Heraklit
+    lfn: Heraclito
+    lij: Eraclito
+    lt: Heraklitas
+    lv: Hērakleits
+    mg: Heraclitus
+    mk: Хераклит
+    ml: ഹെരാക്ലീറ്റസ്
+    myv: Гераклит
+    mzn: هراکلیتوس
+    nb: Heraklit
+    new: हेराक्लिटस
+    nl: Heraclitus
+    nn: Heraklit
+    oc: Eraclit
+    os: Гераклит
+    pa: ਹੇਰਾਕਲਿਟਸ
+    pl: Heraklit
+    pms: Eràclito
+    pnb: ہیراکلیٹس
+    ps: هېراکلیتوس
+    pt: Heraclito de Éfeso
+    pt-br: Heráclito de Éfeso
+    ro: Heraclit
+    ru: Гераклит Эфесский
+    scn: Eràclitu
+    sco: Heraclitus
+    sgs: Heraklėts
+    sh: Heraklit
+    si: aristotal
+    sk: Hérakleitos z Efezu
+    sl: Heraklit Mračni
+    sq: Herakliti
+    sr: Хераклит
+    sv: Herakleitos
+    ta: எராக்ளீட்டஸ்
+    te: హెరాక్లిటస్
+    tg: Ҳероклитус
+    th: เฮราคลิตุส
+    tr: Heraklitos
+    tt: Һераклит
+    uk: Геракліт
+    ur: ہیراکلیطس
+    uz: Geraklit Efeslik
+    vi: Heraclitus
+    vo: Herakleitos
+    war: Heraclitus
+    wuu: 赫拉克利特
+    xmf: ჰერაკლიტე
+    yue: 赫拉克利特
+    zh: 赫拉克利特
+    zh-hant: 海勒克萊特斯
 ---
-
 # [[Heraclitus]] 
 
 #is_/same_as :: [[WD~Heraclitus,41155]] 

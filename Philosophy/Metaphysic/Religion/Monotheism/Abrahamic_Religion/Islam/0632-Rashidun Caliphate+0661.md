@@ -1,38 +1,120 @@
 ---
-has_time_started: 0632-06-01 
-has_time_stopped: 0661-07-31 
+has_time_started: 0632-06-01
+has_time_stopped: 0661-07-31
 aliases:
-  - Rashidun Caliphate
-  - ٱلْخِلَافَةُ ٱلرَّاشِدَةُ
-  - al-Khilāfah ar-Rāšidah
-  - 0632-Rashidun Caliphate+0661
+- 0632-Rashidun Caliphate+0661
+- al-Khilāfah ar-Rāšidah
+- Califado Rashidun
+- califat Rachidun
+- Califato ortodoxo
+- Califato Rashidun
+- Califatu ortodoxu
+- Califatul Rashidun
+- Califfat Rashidun
+- Califfato dei Rashidun
+- Całifà dei Rashidun
+- Chèng-thóng Khalifah-kok
+- Dinastiyang Rashidun
+- Kakhalifahan Rasyidin
+- Kalifata Rasidona
+- Kalifati Rashidun
+- Kalífadæmi hinna réttlátu
+- Kekhalifahan Rasyidin
+- Khilaafada Raashidiinta
+- Khulafa al-Rasyidin
+- Khulafa'hur-Rashidun
+- Khulafaur Rasyidin
+- Nhà Rashidun
+- Oikeaanjohdetut kalifit
+- Pravedni kalifat
+- primer califat
+- Rashidun Caliphate
+- Rashidun xalifaligi
+- Rashidun-kalifaat
+- Rashidun-kalifatet
+- Rashidunkalifatet
+- Rasidar kalifaldia
+- Rasjidoen-kalifaat
+- Raŝiduna Kaliflando
+- Raşidi xilafəti
+- Rašidunski halifat
+- Rašidunski kalifat
+- Rašidų kalifatas
+- Rásidún Kalifátus
+- Rášidský chalífát
+- Rášidský kalifát
+- Râşidîn Halifeliği
+- Rāšidunu kalifāts
+- xelîfeyên Raşidûn
+- Xilafetê Raşidun
+- Χαλιφάτο των Ρασιντούν
+- Дугъри халифат
+- Праведен Калифат
+- Праведен халифат
+- Праведни калифат
+- Праведни халифат
+- Праведний халіфат
+- Праведны халіфат
+- Праведный халифат
+- Рашидун халифаты
+- Рашидун-халифат
+- Рәшидия хәлифәте
+- Хаҡ хәлифәт
+- Хилофати Рошидин
+- Բարեպաշտ խալիֆների պետություն
+- Ուղղահաւատ խալիֆներու պետութիւն
+- ח'ליפות ראשידון
+- الخلافة
+- الخلافة الراشدة
+- الخلافه الراشده
+- خلافت راشده
+- خلافت راشدہ
+- خلافت راشدین
+- خلافتِ راشِدہ
+- خلفای راشدينو واکمني
+- خەلافەتی ڕاشیدون
+- رشیدی خیلافتی
+- لخلافة الراشدة
+- ٱلْخِلَافَةُ ٱلرَّاشِدَةُ
+- ߣߘߐ߬ߓߌ߬ߟߊ߬ ߞߊ߲ߘߊߣߍ߲
+- रशीदुन खिलाफत
+- খিলাফতে রাশিদা
+- ராசிதீன் கலீபாக்கள்
+- റാശിദീയ ഖിലാഫത്ത്
+- จักรวรรดิกาหลิบรอชิดีน
+- ራሹዲን ኸሊፋ
+- 四大哈里发
+- 四大哈里发的伊斯蘭國
+- 四大哈里發
+- 正統カリフ時代
+- 정통 칼리파국
 has_id_wikidata: Q12490507
 follows:
-  - '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
-  - '[[_Standards/WikiData/WD~Diocese_of_Egypt,1018761]]'
-  - '[[_Standards/WikiData/WD~Prophetic_era,5990386]]'
-  - '[[_Standards/WikiData/WD~first_Islamic_state,76821846]]'
-  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
+- '[[_Standards/WikiData/WD~Diocese_of_Egypt,1018761]]'
+- '[[_Standards/WikiData/WD~Prophetic_era,5990386]]'
+- '[[_Standards/WikiData/WD~first_Islamic_state,76821846]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 part_of: '[[_Standards/WikiData/WD~caliphate,131401]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Rashidun,180465]]'
 office_held_by_head_of_state: '[[_Standards/WikiData/WD~Rashidun,180465]]'
 head_of_state:
-  - '[[_Standards/WikiData/WD~Hasan_ibn_Ali,182914]]'
-  - '[[_Standards/WikiData/WD~Abu_Bakr,334923]]'
-  - '[[_Standards/WikiData/WD~Umar_ibn_Al_Khattāb,8467]]'
-  - '[[_Standards/WikiData/WD~Uthman_ibn_Affan,37731]]'
-  - '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
+- '[[_Standards/WikiData/WD~Hasan_ibn_Ali,182914]]'
+- '[[_Standards/WikiData/WD~Abu_Bakr,334923]]'
+- '[[_Standards/WikiData/WD~Umar_ibn_Al_Khattāb,8467]]'
+- '[[_Standards/WikiData/WD~Uthman_ibn_Affan,37731]]'
+- '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
 capital:
-  - '[[_Standards/WikiData/WD~Kufa,186234]]'
-  - '[[_Standards/WikiData/WD~Medina,35484]]'
+- '[[_Standards/WikiData/WD~Kufa,186234]]'
+- '[[_Standards/WikiData/WD~Medina,35484]]'
 currency: '[[_Standards/WikiData/WD~dinar,191830]]'
 main_regulatory_text:
-  - '[[_Standards/WikiData/WD~Sunnah,234764]]'
-  - '[[_Standards/WikiData/WD~Qur_an,428]]'
+- '[[_Standards/WikiData/WD~Sunnah,234764]]'
+- '[[_Standards/WikiData/WD~Qur_an,428]]'
 founded_by: '[[_Standards/WikiData/WD~Abu_Bakr,334923]]'
 basic_form_of_government:
-  - '[[_Standards/WikiData/WD~elective_monarchy,584683]]'
-  - '[[_Standards/WikiData/WD~theocracy,44405]]'
+- '[[_Standards/WikiData/WD~elective_monarchy,584683]]'
+- '[[_Standards/WikiData/WD~theocracy,44405]]'
 instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 followed_by: '[[_Standards/WikiData/WD~Umayyad_Caliphate,8575586]]'
 replaces: '[[_Standards/WikiData/WD~first_Islamic_state,76821846]]'
@@ -42,15 +124,112 @@ official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 language_used: '[[_Standards/WikiData/WD~Arabic,13955]]'
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent:
-  - '[[_Standards/WikiData/WD~Africa,15]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20flag.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20adil-Rashidun-empire-at-its-peak-close.PNG
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "RashidunCaliphate"]
 Commons_category: Rashidun Caliphate
 native_label: الخلافة الراشدة
+dv_has_:
+  name_:
+    af: Rasjidoen-kalifaat
+    am: ራሹዲን ኸሊፋ
+    ar: الخلافة الراشدة
+    arq: الخلافة
+    ary: لخلافة الراشدة
+    arz: الخلافه الراشده
+    ast: Califatu ortodoxu
+    az: Raşidi xilafəti
+    azb: رشیدی خیلافتی
+    ba: Хаҡ хәлифәт
+    be: Праведны халіфат
+    be-tarask: Праведны халіфат
+    bg: Праведен халифат
+    bjn: Kakhalifahan Rasyidin
+    bn: খিলাফতে রাশিদা
+    bs: Rašidunski halifat
+    ca: primer califat
+    ce: Рашидун-халифат
+    ckb: خەلافەتی ڕاشیدون
+    cs: Rášidský chalífát
+    da: Rashidun-kalifatet
+    diq: Xilafetê Raşidun
+    el: Χαλιφάτο των Ρασιντούν
+    en: Rashidun Caliphate
+    en-ca: Rashidun Caliphate
+    en-gb: Rashidun Caliphate
+    en-us: Rashidun Caliphate
+    eo: Raŝiduna Kaliflando
+    es: Califato ortodoxo
+    eu: Rasidar kalifaldia
+    fa: خلافت راشدین
+    fi: Oikeaanjohdetut kalifit
+    fr: califat Rachidun
+    gl: Califato Rashidun
+    ha: Khulafa'hur-Rashidun
+    he: ח'ליפות ראשידון
+    hi: रशीदुन खिलाफत
+    hr: Rašidunski kalifat
+    hu: Rásidún Kalifátus
+    hy: Բարեպաշտ խալիֆների պետություն
+    hyw: Ուղղահաւատ խալիֆներու պետութիւն
+    id: Kekhalifahan Rasyidin
+    is: Kalífadæmi hinna réttlátu
+    it: Califfato dei Rashidun
+    ja: 正統カリフ時代
+    jv: Khulafaur Rasyidin
+    kk: Рашидун халифаты
+    ko: 정통 칼리파국
+    ks: خلافتِ راشِدہ
+    ku: xelîfeyên Raşidûn
+    ku-latn: xelîfeyên Raşidûn
+    lez: Дугъри халифат
+    lt: Rašidų kalifatas
+    lv: Rāšidunu kalifāts
+    mg: Kalifata Rasidona
+    min: Kakhalifahan Rasyidin
+    mk: Праведен Калифат
+    ml: റാശിദീയ ഖിലാഫത്ത്
+    ms: Khulafa al-Rasyidin
+    nan: Chèng-thóng Khalifah-kok
+    nb: Rashidun-kalifatet
+    nl: Rashidun-kalifaat
+    nn: Rashidun-kalifatet
+    nqo: ߣߘߐ߬ߓߌ߬ߟߊ߬ ߞߊ߲ߘߊߣߍ߲
+    oc: Califfat Rashidun
+    pnb: خلافت راشدہ
+    ps: خلفای راشدينو واکمني
+    pt: Califado Rashidun
+    pt-br: Califado Rashidun
+    ro: Califatul Rashidun
+    ru: Праведный халифат
+    sco: Rashidun Caliphate
+    sd: خلافت راشده
+    sh: Rašidunski Kalifat
+    sk: Rášidský kalifát
+    sl: Rašidunski kalifat
+    so: Khilaafada Raashidiinta
+    sq: Kalifati Rashidun
+    sr: Праведни халифат
+    sr-ec: Праведни калифат
+    sr-el: Pravedni kalifat
+    sv: Rashidunkalifatet
+    ta: ராசிதீன் கலீபாக்கள்
+    tg: Хилофати Рошидин
+    th: จักรวรรดิกาหลิบรอชิดีน
+    tl: Dinastiyang Rashidun
+    tr: Râşidîn Halifeliği
+    tt: Рәшидия хәлифәте
+    uk: Праведний халіфат
+    ur: خلافت راشدہ
+    uz: Rashidun xalifaligi
+    vec: Całifà dei Rashidun
+    vi: Nhà Rashidun
+    wuu: 四大哈里发
+    yue: 四大哈里發
+    zh: 四大哈里发的伊斯蘭國
 ---
-
 # [[0632-Rashidun Caliphate+0661]] 
 
 #has_/next_ :: [[0661-Umayyad Caliphate+0750]] 

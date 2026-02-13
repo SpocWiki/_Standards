@@ -1,9 +1,85 @@
 ---
 aliases:
-  - Single-stranded_DNA_Virus
-  - Single-stranded DNA Virus
+- Deoxiribovirus
+- DNA pēⁿ-to̍k
+- DNA virus
+- DNA viry
+- DNA virüsleri
+- DNA ويروس
+- DNA 바이러스
+- DNA-viirused
+- DNA-virus
+- DNA-viruso
+- DNAウイルス
+- DNK-virus
+- DNS-virus
+- Single-stranded DNA Virus
+- Single-stranded_DNA_Virus
+- virus a DNA
+- virus ADN
+- virus d'ADN
+- Virus de ADN
+- Virus DNA
+- virus à ADN
+- vírus ADN
+- vírus DNA
+- wirusy DNA
+- ДНК-вірус
+- ДНК-содержащие вирусы
+- ԴՆԹ պարունակող վիրուսներ
+- נגיף DNA
+- دیانای ویروسها
+- فيروس دنا
+- डीएनए वाइरस
+- ডিএনএ ভাইরাস
+- 去氧核糖核酸病毒
+- 脱氧核糖核酸病毒
 title: Single-stranded DNA Viruses
 has_id_wikidata: Q858790
+dv_has_:
+  name_:
+    af: DNS-virus
+    ar: فيروس دنا
+    be-tarask: ДНК-вірус
+    bn: ডিএনএ ভাইরাস
+    bs: DNK-virus
+    ca: virus d'ADN
+    cs: DNA viry
+    de: DNA-Virus
+    en: DNA virus
+    eo: DNA-viruso
+    es: virus ADN
+    et: DNA-viirused
+    fa: دیانای ویروسها
+    fi: DNA-virus
+    fr: virus à ADN
+    gl: Virus de ADN
+    he: נגיף DNA
+    hi: डीएनए वाइरस
+    hy: ԴՆԹ պարունակող վիրուսներ
+    id: Virus DNA
+    it: virus a DNA
+    ja: DNAウイルス
+    ko: DNA 바이러스
+    ms: Virus DNA
+    nan: DNA pēⁿ-to̍k
+    nb: DNA-virus
+    nl: DNA-virus
+    nn: DNA-virus
+    pl: wirusy DNA
+    ps: DNA ويروس
+    pt: vírus ADN
+    pt-br: vírus DNA
+    ro: Deoxiribovirus
+    ru: ДНК-содержащие вирусы
+    sl: DNK-virus
+    sv: DNA-virus
+    tr: DNA virüsleri
+    vi: Virus DNA
+    zh: 去氧核糖核酸病毒
+    zh-hans: 脱氧核糖核酸病毒
+    zh-hant: 去氧核糖核酸病毒
+    zh-hk: 去氧核糖核酸病毒
 ---
 ## Phylogeny 
 

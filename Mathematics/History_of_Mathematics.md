@@ -1,24 +1,183 @@
 ---
 aliases:
+- a matematika története
+- dějiny matematiky
+- Geschichte der Mathematik
+- geschiedenis van de wiskunde
+- hanes mathemateg
+- histoire des mathématiques
+- historia das matemáticas
+- historia de la matemática
+- Historia de les matemátiques
+- Historia del mathematica
+- Historia e matematikës shqiptare
+- Historia matematyki
+- Historie de matematike
+- historio de matematiko
+- history of mathematics
+- història de les matemàtiques
+- história da matemática
+- istoria matematicii
+- Istorija matematike
+- Istwè di sé Matématik
+- Kasaysayan ng matematika
+- lịch sử toán học
+- matematihka historjá
+- matematiik historjá
+- matematiikan historia
+- matematiikk historia
+- matematik tarihi
+- Matematika tarixi
+- Matematika táriyxı
+- Matematikaren historia
+- matematikens historia
+- Matematikkens historie
+- matematikos istorija
+- matemātikas vēsture
+- Saga stærðfræðinnar
+- Sajarah matematik
+- sejarah matematik
+- sejarah matematika
+- storia della matematica
+- tarihin lissafi
+- zgodovina matematike
+- Ιστορία των μαθηματικών
+- історія математики
+- гісторыя матэматыкі
+- Историја математике
+- история математики
+- История на математиката
+- Математика историйĕ
+- Математика тарихы
+- Մաթեմատիկայի պատմություն
+- היסטוריה של המתמטיקה
+- تاريخ الرياضيات
+- تاریخ ریاضی
+- تاریخ ریاضیات
+- د ریاضیاتو تاریخچه
+- رياضي جي تاريخ
+- مێژووی ماتماتیک
+- गणित का इतिहास
+- गणिताचा इतिहास
+- গণিতের ইতিহাস
+- গণিতৰ ইতিহাস
+- ગણિતનો ઇતિહાસ
+- கணித வரலாற்றின் காலக்கோடு
+- గణిత శాస్త్ర చరిత్ర
+- ഗണിതത്തിന്റെ ഉത്ഭവം
+- ගණිතයේ ඉතිහාසය
+- သင်္ချာ၏ သမိုင်းကြောင်း
+- የሒሳብ ታሪክ
+- ប្រវត្តិនៃគណិតវិទ្យា
+- 数学史
+- 數學史
+- 수학의 역사
 has_id_wikidata: Q185264
-subclass_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_mathematics,17486330]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-main_subject: "[[_Standards/WikiData/WD~mathematics,395]]"
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_mathematics,17486330]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+main_subject: '[[_Standards/WikiData/WD~mathematics,395]]'
 Library_of_Congress_Classification: QA21-QA27
-Basisklassifikation: "31.01"
+Basisklassifikation: 31.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plimpton%20322.jpg
 Stack_Exchange_site_URL: https://hsm.stackexchange.com
 Stack_Exchange_tag:
-  - https://hsm.stackexchange.com/tags/mathematics
-  - https://math.stackexchange.com/tags/math-history
-  - https://matheducators.stackexchange.com/tags/history
-  - https://mathoverflow.net/tags/ho.history-overview
+- https://hsm.stackexchange.com/tags/mathematics
+- https://math.stackexchange.com/tags/math-history
+- https://matheducators.stackexchange.com/tags/history
+- https://mathoverflow.net/tags/ho.history-overview
 Commons_category: History of mathematics
 Krugosvet_article_archived_: matematika/matematiki-istoriya
+dv_has_:
+  name_:
+    am: የሒሳብ ታሪክ
+    ar: تاريخ الرياضيات
+    as: গণিতৰ ইতিহাস
+    ast: Historia de les matemátiques
+    be: гісторыя матэматыкі
+    be-tarask: гісторыя матэматыкі
+    bg: История на математиката
+    bn: গণিতের ইতিহাস
+    ca: història de les matemàtiques
+    ckb: مێژووی ماتماتیک
+    cs: dějiny matematiky
+    cv: Математика историйĕ
+    cy: hanes mathemateg
+    da: Matematikkens historie
+    de: Geschichte der Mathematik
+    el: Ιστορία των μαθηματικών
+    en: history of mathematics
+    eo: historio de matematiko
+    es: historia de la matemática
+    eu: Matematikaren historia
+    fa: تاریخ ریاضیات
+    fi: matematiikan historia
+    fr: histoire des mathématiques
+    gcr: Istwè di sé Matématik
+    gl: historia das matemáticas
+    gu: ગણિતનો ઇતિહાસ
+    ha: tarihin lissafi
+    he: היסטוריה של המתמטיקה
+    hi: गणित का इतिहास
+    hu: a matematika története
+    hy: Մաթեմատիկայի պատմություն
+    ia: Historia del mathematica
+    id: sejarah matematika
+    is: Saga stærðfræðinnar
+    it: storia della matematica
+    ja: 数学史
+    kaa: Matematika táriyxı
+    kk: Математика тарихы
+    km: ប្រវត្តិនៃគណិតវិទ្យា
+    ko: 수학의 역사
+    lt: matematikos istorija
+    lv: matemātikas vēsture
+    ml: ഗണിതത്തിന്റെ ഉത്ഭവം
+    mr: गणिताचा इतिहास
+    ms: sejarah matematik
+    my: သင်္ချာ၏ သမိုင်းကြောင်း
+    nb: matematikkens historie
+    nia: Sejarah matematika
+    nl: geschiedenis van de wiskunde
+    nov: Historie de matematike
+    pl: Historia matematyki
+    ps: د ریاضیاتو تاریخچه
+    pt: história da matemática
+    pt-br: história da matemática
+    ro: istoria matematicii
+    ru: история математики
+    sd: رياضي جي تاريخ
+    se: matematihka historjá
+    si: ගණිතයේ ඉතිහාසය
+    sl: zgodovina matematike
+    smn: matematiik historjá
+    sms: matematiikk historia
+    sq: Historia e matematikës shqiptare
+    sr: Историја математике
+    sr-ec: Историја математике
+    sr-el: Istorija matematike
+    su: Sajarah matematik
+    sv: matematikens historia
+    ta: கணித வரலாற்றின் காலக்கோடு
+    te: గణిత శాస్త్ర చరిత్ర
+    tl: Kasaysayan ng matematika
+    tr: matematik tarihi
+    tt: Математика тарихы
+    uk: історія математики
+    ur: تاریخ ریاضی
+    uz: Matematika tarixi
+    vi: lịch sử toán học
+    wuu: 数学史
+    yue: 數學史
+    zh: 数学史
+    zh-cn: 数学史
+    zh-hans: 数学史
+    zh-hant: 數學史
+    zh-hk: 數學史
+    zh-sg: 数学史
+    zh-tw: 數學史
 ---
-
 # [[History_of_Mathematics]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_mathematics,185264|WD~History_of_mathematics,185264]] 

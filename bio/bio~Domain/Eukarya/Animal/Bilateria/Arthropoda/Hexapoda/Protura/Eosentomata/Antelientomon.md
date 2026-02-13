@@ -1,8 +1,51 @@
 ---
 aliases:
-  - Antelientomon
+- Antelientomon
+- انتيلينتومون
+- 旭蚖属
 title: Antelientomon
 has_id_wikidata: Q950308
+dv_has_:
+  name_:
+    an: Antelientomon
+    arz: انتيلينتومون
+    ast: Antelientomon
+    bg: Antelientomon
+    ca: Antelientomon
+    ceb: Antelientomon
+    de: Antelientomon
+    en: Antelientomon
+    eo: Antelientomon
+    es: Antelientomon
+    eu: Antelientomon
+    ext: Antelientomon
+    fi: Antelientomon
+    fr: Antelientomon
+    ga: Antelientomon
+    gl: Antelientomon
+    ia: Antelientomon
+    ie: Antelientomon
+    io: Antelientomon
+    it: Antelientomon
+    la: Antelientomon
+    mul: Antelientomon
+    nl: Antelientomon
+    oc: Antelientomon
+    pl: Antelientomon
+    pt: Antelientomon
+    pt-br: Antelientomon
+    ro: Antelientomon
+    ru: Antelientomon
+    sq: Antelientomon
+    sv: Antelientomon
+    uk: Antelientomon
+    vi: Antelientomon
+    vo: Antelientomon
+    war: Antelientomon
+    yo: Antelientomon
+    zh: 旭蚖属
+    zh-cn: 旭蚖属
+    zh-tw: 旭蚖属
 ---
 # [[Antelientomon]]
 

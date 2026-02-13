@@ -1,12 +1,74 @@
 ---
-aliases: 
+aliases:
+- commutatief diagram
+- commutative diagram
+- Diagram komutatif
+- diagram przemienny
+- diagrama commutatiu
+- diagrama comutativo
+- diagrama conmutativo
+- Diagrama conmutativu
+- Diagrama kommutatibo
+- diagramma commutativo
+- diagramme commutatif
+- diagramă comutativă
+- kommutatives Diagramm
+- komuta diagramo
+- Komutativni dijagram
+- komutativní diagram
+- Vaihdannainen kaavio
+- Αντιμεταθετικό διάγραμμα
+- камутатыўная дыяграма
+- коммутативная диаграмма
+- комутативна діаграма
+- דיאגרמה קומוטטיבית
+- مخطط تبادلي
+- نمودار جابجایی
+- 交换图表
+- 交換圖
+- 交換圖表
+- 可換図式
+- 가환 그림
 has_id_wikidata: Q621542
-studied_by: "[[_Standards/WikiData/WD~category_theory,217413]]"
-subclass_of: "[[_Standards/WikiData/WD~diagram,843237]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+studied_by: '[[_Standards/WikiData/WD~category_theory,217413]]'
+subclass_of: '[[_Standards/WikiData/WD~diagram,843237]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 Commons_category: Commutative diagrams
+dv_has_:
+  name_:
+    ar: مخطط تبادلي
+    ast: Diagrama conmutativu
+    be-tarask: камутатыўная дыяграма
+    ca: diagrama commutatiu
+    cs: komutativní diagram
+    de: kommutatives Diagramm
+    el: Αντιμεταθετικό διάγραμμα
+    en: commutative diagram
+    eo: komuta diagramo
+    es: diagrama conmutativo
+    eu: Diagrama kommutatibo
+    fa: نمودار جابجایی
+    fi: Vaihdannainen kaavio
+    fr: diagramme commutatif
+    gl: Diagrama conmutativo
+    he: דיאגרמה קומוטטיבית
+    id: Diagram komutatif
+    it: diagramma commutativo
+    ja: 可換図式
+    ko: 가환 그림
+    nl: commutatief diagram
+    pl: diagram przemienny
+    pt: diagrama comutativo
+    ro: diagramă comutativă
+    ru: коммутативная диаграмма
+    sr: Komutativni dijagram
+    uk: комутативна діаграма
+    yue: 交換圖
+    zh: 交换图表
+    zh-hans: 交换图表
+    zh-hant: 交換圖表
+    zh-hk: 交換圖表
 ---
-
 # [[Commutative_Diagram]] 
 
 #is_/same_as :: [[../../WikiData/WD~Commutative_diagram,621542|WD~Commutative_diagram,621542]] 

@@ -1,10 +1,55 @@
 ---
 aliases:
-  - Dictynoidea
-  - dictynoids
-  - dictynoid
+- Dictinoïdeus
+- dictynoid
+- Dictynoidea
+- dictynoids
+- ديكتينوديا
+- 叶蛛总科
 title: Dictynoidea
 has_id_wikidata: Q54485
+dv_has_:
+  name_:
+    an: Dictynoidea
+    arz: ديكتينوديا
+    ast: Dictynoidea
+    bg: Dictynoidea
+    ca: Dictinoïdeus
+    ceb: Dictynoidea
+    de: Dictynoidea
+    en: Dictynoidea
+    en-ca: Dictynoidea
+    en-gb: Dictynoidea
+    eo: Dictynoidea
+    es: Dictynoidea
+    eu: Dictynoidea
+    ext: Dictynoidea
+    fi: Dictynoidea
+    fr: Dictynoidea
+    ga: Dictynoidea
+    gl: Dictynoidea
+    ia: Dictynoidea
+    ie: Dictynoidea
+    io: Dictynoidea
+    it: Dictynoidea
+    la: Dictynoidea
+    mul: Dictynoidea
+    nl: Dictynoidea
+    oc: Dictynoidea
+    pl: Dictynoidea
+    pt: Dictynoidea
+    pt-br: Dictynoidea
+    ro: Dictynoidea
+    ru: Dictynoidea
+    sq: Dictynoidea
+    tr: Dictynoidea
+    uk: Dictynoidea
+    vi: Dictynoidea
+    vo: Dictynoidea
+    war: Dictynoidea
+    zh: 叶蛛总科
+    zh-cn: 叶蛛总科
+    zh-hans: 叶蛛总科
 ---
 # [[Dictynoidea]] 
 

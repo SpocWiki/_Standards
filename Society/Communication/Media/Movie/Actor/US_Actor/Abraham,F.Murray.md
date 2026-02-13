@@ -1,8 +1,123 @@
 ---
 aliases:
-  - F.Murray Abraham
-  - Abraham,F.Murray
+- Abraham,F.Murray
+- F. Mari Abraham
+- F. Marijs Ābrahams
+- F. Murray Abraham
+- F. Mürrey Abraham
+- F. 머리 에이브러햄
+- F.Murray Abraham
+- Fahrid Murray Abraham
+- F·梅利·阿伯拉罕
+- F·莫瑞·亚伯拉罕
+- F·莫瑞·亞伯拉罕
+- F·莫里·亚伯拉罕
+- F・マーリー・エイブラハム
+- Φ. Μάρεϊ Έιμπραχαμ
+- Ф. Мари Абрахам
+- Ф. Мъри Ейбръхам
+- Ф. Мюррей Абрахам
+- Ф. Мүррей Абрахам
+- Фарід Мюррей Абрагам
+- Фарыд Мюрэй Абрагам
+- Фарыд Мюрэй Абрахам
+- Ֆարիդ Մյուրեյ Աբրահամ
+- פ. מארי אברהם
+- ئێف مۆرای ئەبرەھام
+- اف. موری آبراهام
+- ف. موراى ابراهام
+- ف. موراي أبراهام
+- فهرید موری آبراهام
+- एफ. मरे अब्राहम
+- এফ. মারি আব্রাহাম
+- ਐੱਫ. ਮੁਰੇ ਅਬ੍ਰਾਹਮ
+- เอฟ. เมอร์รีย์ เอบราฮัม
+- ფ. მიურეი აბრაჰამი
+- ფარიდ მარი აბრაამი
+- 梅利阿伯拉罕
 has_id_wikidata: Q181936
+dv_has_:
+  name_:
+    af: F. Murray Abraham
+    an: F. Murray Abraham
+    ar: ف. موراي أبراهام
+    arz: ف. موراى ابراهام
+    ast: F. Murray Abraham
+    az: F. Mürrey Abraham
+    azb: اف. موری آبراهام
+    be: Фарыд Мюрэй Абрахам
+    be-tarask: Фарыд Мюрэй Абрагам
+    bg: Ф. Мъри Ейбръхам
+    bn: এফ. মারি আব্রাহাম
+    ca: F. Murray Abraham
+    ckb: ئێف مۆرای ئەبرەھام
+    cs: F. Murray Abraham
+    cy: F. Murray Abraham
+    da: F. Murray Abraham
+    de: F. Murray Abraham
+    de-ch: F. Murray Abraham
+    el: Φ. Μάρεϊ Έιμπραχαμ
+    en: F. Murray Abraham
+    en-ca: F. Murray Abraham
+    en-gb: F. Murray Abraham
+    es: F. Murray Abraham
+    eu: F. Murray Abraham
+    fa: فهرید موری آبراهام
+    fi: F. Murray Abraham
+    fr: F. Murray Abraham
+    ga: F. Murray Abraham
+    gl: F. Murray Abraham
+    he: פ. מארי אברהם
+    hu: F. Murray Abraham
+    hy: Ֆարիդ Մյուրեյ Աբրահամ
+    id: F. Murray Abraham
+    ilo: F. Murray Abraham
+    it: F. Murray Abraham
+    ja: F・マーリー・エイブラハム
+    ka: ფ. მიურეი აბრაჰამი
+    ko: F. 머리 에이브러햄
+    ky: Ф. Мүррей Абрахам
+    la: F. Murray Abraham
+    lb: F. Murray Abraham
+    lv: F. Marijs Ābrahams
+    mr: एफ. मरे अब्राहम
+    mul: F. Murray Abraham
+    nb: F. Murray Abraham
+    nl: F. Murray Abraham
+    nn: F. Murray Abraham
+    pa: ਐੱਫ. ਮੁਰੇ ਅਬ੍ਰਾਹਮ
+    pl: F. Murray Abraham
+    pt: F. Murray Abraham
+    pt-br: F. Murray Abraham
+    ro: F. Murray Abraham
+    ru: Ф. Мюррей Абрахам
+    sco: F. Murray Abraham
+    sh: F. Murray Abraham
+    sk: F. Murray Abraham
+    sl: Fahrid Murray Abraham
+    sq: F. Murray Abraham
+    sr: Ф. Мари Абрахам
+    sr-ec: Ф. Мари Абрахам
+    sr-el: F. Mari Abraham
+    sv: F. Murray Abraham
+    tay: F. Murray Abraham
+    th: เอฟ. เมอร์รีย์ เอบราฮัม
+    tl: F. Murray Abraham
+    tr: F. Murray Abraham
+    uk: Фарід Мюррей Абрагам
+    uz: F. Murray Abraham
+    vi: F. Murray Abraham
+    wuu: F·莫里·亚伯拉罕
+    xmf: ფარიდ მარი აბრაამი
+    yo: F. Murray Abraham
+    yue: 梅利阿伯拉罕
+    zh: F·莫瑞·亞伯拉罕
+    zh-cn: F·莫瑞·亚伯拉罕
+    zh-hans: F·莫瑞·亚伯拉罕
+    zh-hant: F·莫瑞·亞伯拉罕
+    zh-hk: F·梅利·阿伯拉罕
+    zh-sg: F·莫瑞·亚伯拉罕
+    zh-tw: F·莫瑞·亞伯拉罕
 ---
 #has_/time_/started :: 1939-10-24  
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

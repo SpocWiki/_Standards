@@ -1,95 +1,117 @@
 ---
-has_time_started: 1908-09-16 
+has_time_started: 1908-09-16
 aliases:
-  - General Motors
-  - GM(General_Motors)
-  - GM(General Motors)
+- Dženeral motors
+- General Motors
+- GM
+- GM(General Motors)
+- GM(General_Motors)
+- Jeneral motors
+- Џенерал Моторс
+- Дженеръл Мотърс
+- Женерал Моторс
+- Ҷенерал Моторс
+- Ջեներալ Մոթորս
+- ג'נרל מוטורס
+- جنرال موتورز
+- جنرال موټرونه
+- جنرل موٹرز
+- जनरल मोटर्स
+- জেনারেল মোটর্স
+- ಜನರಲ್ ಮೋಟರ್ಸ್
+- ജനറൽ മോട്ടോഴ്സ്
+- เจเนรัลมอเตอร์
+- ゼネラルモーターズ
+- 通用汽車
+- 通用汽车
+- 通用汽车公司
+- 제너럴 모터스
 has_id_wikidata: Q81965
 industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
 organizational_divisions:
-  - '[[_Standards/WikiData/WD~Oldsmobile,204327]]'
-  - '[[_Standards/WikiData/WD~Buick,27415]]'
-  - '[[_Standards/WikiData/WD~Cadillac,27436]]'
-  - '[[_Standards/WikiData/WD~GMC,28993]]'
-  - '[[_Standards/WikiData/WD~Chevrolet,29570]]'
-  - '[[_Standards/WikiData/WD~Pontiac,40990]]'
+- '[[_Standards/WikiData/WD~Oldsmobile,204327]]'
+- '[[_Standards/WikiData/WD~Buick,27415]]'
+- '[[_Standards/WikiData/WD~Cadillac,27436]]'
+- '[[_Standards/WikiData/WD~GMC,28993]]'
+- '[[_Standards/WikiData/WD~Chevrolet,29570]]'
+- '[[_Standards/WikiData/WD~Pontiac,40990]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~BlackRock,219635]]'
-  - '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
+- '[[_Standards/WikiData/WD~BlackRock,219635]]'
+- '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
 part_of:
-  - '[[_Standards/WikiData/WD~S&P_500,242345]]'
-  - '[[_Standards/WikiData/WD~S&P_100,1546793]]'
+- '[[_Standards/WikiData/WD~S&P_500,242345]]'
+- '[[_Standards/WikiData/WD~S&P_100,1546793]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~ACDelco,288170]]'
-  - '[[_Standards/WikiData/WD~GM_Uzbekistan,373335]]'
-  - '[[_Standards/WikiData/WD~GM_Korea,497193]]'
-  - '[[_Standards/WikiData/WD~Saturn_Corporation,569235]]'
-  - '[[_Standards/WikiData/WD~Marquette,939291]]'
-  - '[[_Standards/WikiData/WD~General_Motors_Japan,968076]]'
-  - '[[_Standards/WikiData/WD~Yellow_Coach_Manufacturing_Company,1239559]]'
-  - '[[_Standards/WikiData/WD~General_Motors_of_Canada,1475085]]'
-  - '[[_Standards/WikiData/WD~Geo,1502806]]'
-  - '[[_Standards/WikiData/WD~UzAuto_Motors,2096434]]'
-  - '[[_Standards/WikiData/WD~General_Motors_Europe,2509797]]'
-  - '[[_Standards/WikiData/WD~Baojun,2883616]]'
-  - '[[_Standards/WikiData/WD~OnStar,3569419]]'
-  - '[[_Standards/WikiData/WD~General_Motors_Colmotores,5513844]]'
-  - '[[_Standards/WikiData/WD~GM_Defense,5513845]]'
-  - '[[_Standards/WikiData/WD~GM_Financial,5513853]]'
-  - '[[_Standards/WikiData/WD~GM_Certified_Service,5513860]]'
-  - '[[_Standards/WikiData/WD~General_Motors_India_Private_Limited,5532048]]'
-  - '[[_Standards/WikiData/WD~General_Motors_of_Argentina,5876985]]'
-  - '[[_Standards/WikiData/WD~General_Motors_de_México,5876989]]'
-  - '[[_Standards/WikiData/WD~General_Motors_do_Brasil,10752027]]'
-  - '[[_Standards/WikiData/WD~General_Motors_OBB,16571023]]'
-  - '[[_Standards/WikiData/WD~General_Motors_de_Chile,16571026]]'
-  - '[[_Standards/WikiData/WD~GM_Global_Technology_Operations,21160726]]'
-  - '[[_Standards/WikiData/WD~General_Motors,30338742]]'
-  - '[[_Standards/WikiData/WD~Cruise,42377899]]'
-  - '[[_Standards/WikiData/WD~Cadillac_Europe,72371228]]'
-  - '[[_Standards/WikiData/WD~General_Motors_Specialty_Vehicles,112728701]]'
-  - '[[_Standards/WikiData/WD~General_Motors_China,112874402]]'
-  - '[[_Standards/WikiData/WD~General_Motors_(China)_Investment,112874411]]'
-  - '[[_Standards/WikiData/WD~General_Aviation_Corp.,116951874]]'
-  - '[[_Standards/WikiData/WD~GM_Performance_Power_Units,131744903]]'
-  - '[[_Standards/WikiData/WD~Holden,29281]]'
-  - '[[_Standards/WikiData/WD~Vauxhall,59187]]'
+- '[[_Standards/WikiData/WD~ACDelco,288170]]'
+- '[[_Standards/WikiData/WD~GM_Uzbekistan,373335]]'
+- '[[_Standards/WikiData/WD~GM_Korea,497193]]'
+- '[[_Standards/WikiData/WD~Saturn_Corporation,569235]]'
+- '[[_Standards/WikiData/WD~Marquette,939291]]'
+- '[[_Standards/WikiData/WD~General_Motors_Japan,968076]]'
+- '[[_Standards/WikiData/WD~Yellow_Coach_Manufacturing_Company,1239559]]'
+- '[[_Standards/WikiData/WD~General_Motors_of_Canada,1475085]]'
+- '[[_Standards/WikiData/WD~Geo,1502806]]'
+- '[[_Standards/WikiData/WD~UzAuto_Motors,2096434]]'
+- '[[_Standards/WikiData/WD~General_Motors_Europe,2509797]]'
+- '[[_Standards/WikiData/WD~Baojun,2883616]]'
+- '[[_Standards/WikiData/WD~OnStar,3569419]]'
+- '[[_Standards/WikiData/WD~General_Motors_Colmotores,5513844]]'
+- '[[_Standards/WikiData/WD~GM_Defense,5513845]]'
+- '[[_Standards/WikiData/WD~GM_Financial,5513853]]'
+- '[[_Standards/WikiData/WD~GM_Certified_Service,5513860]]'
+- '[[_Standards/WikiData/WD~General_Motors_India_Private_Limited,5532048]]'
+- '[[_Standards/WikiData/WD~General_Motors_of_Argentina,5876985]]'
+- '[[_Standards/WikiData/WD~General_Motors_de_México,5876989]]'
+- '[[_Standards/WikiData/WD~General_Motors_do_Brasil,10752027]]'
+- '[[_Standards/WikiData/WD~General_Motors_OBB,16571023]]'
+- '[[_Standards/WikiData/WD~General_Motors_de_Chile,16571026]]'
+- '[[_Standards/WikiData/WD~GM_Global_Technology_Operations,21160726]]'
+- '[[_Standards/WikiData/WD~General_Motors,30338742]]'
+- '[[_Standards/WikiData/WD~Cruise,42377899]]'
+- '[[_Standards/WikiData/WD~Cadillac_Europe,72371228]]'
+- '[[_Standards/WikiData/WD~General_Motors_Specialty_Vehicles,112728701]]'
+- '[[_Standards/WikiData/WD~General_Motors_China,112874402]]'
+- '[[_Standards/WikiData/WD~General_Motors_(China)_Investment,112874411]]'
+- '[[_Standards/WikiData/WD~General_Aviation_Corp.,116951874]]'
+- '[[_Standards/WikiData/WD~GM_Performance_Power_Units,131744903]]'
+- '[[_Standards/WikiData/WD~Holden,29281]]'
+- '[[_Standards/WikiData/WD~Vauxhall,59187]]'
 board_member:
-  - '[[_Standards/WikiData/WD~Alfred_P._Sloan,344045]]'
-  - '[[_Standards/WikiData/WD~Patricia_Russo,533750]]'
-  - '[[_Standards/WikiData/WD~Charles_Erwin_Wilson,1064288]]'
-  - '[[_Standards/WikiData/WD~Carol_Stephenson,5044572]]'
-  - '[[_Standards/WikiData/WD~Wesley_Bush,5590777]]'
-  - '[[_Standards/WikiData/WD~Jami_Miscik,6146371]]'
-  - '[[_Standards/WikiData/WD~Joseph_Jimenez,6284393]]'
-  - '[[_Standards/WikiData/WD~Mary_Barra,6779013]]'
-  - '[[_Standards/WikiData/WD~Thomas_Schoewe,7793810]]'
-  - '[[_Standards/WikiData/WD~William_S._Knudsen,8017971]]'
-  - '[[_Standards/WikiData/WD~Jane_Mendillo,13560794]]'
-  - '[[_Standards/WikiData/WD~Aneel_Bhusri,18352311]]'
-  - '[[_Standards/WikiData/WD~Devin_Wenig,18619565]]'
-  - '[[_Standards/WikiData/WD~Mark_Tatum,60733847]]'
-  - '[[_Standards/WikiData/WD~Linda_R._Gooden,109472754]]'
-  - '[[_Standards/WikiData/WD~Joanne_Crevoiserat,114395594]]'
-  - '[[_Standards/WikiData/WD~Meg_Whitman,55174]]'
+- '[[_Standards/WikiData/WD~Alfred_P._Sloan,344045]]'
+- '[[_Standards/WikiData/WD~Patricia_Russo,533750]]'
+- '[[_Standards/WikiData/WD~Charles_Erwin_Wilson,1064288]]'
+- '[[_Standards/WikiData/WD~Carol_Stephenson,5044572]]'
+- '[[_Standards/WikiData/WD~Wesley_Bush,5590777]]'
+- '[[_Standards/WikiData/WD~Jami_Miscik,6146371]]'
+- '[[_Standards/WikiData/WD~Joseph_Jimenez,6284393]]'
+- '[[_Standards/WikiData/WD~Mary_Barra,6779013]]'
+- '[[_Standards/WikiData/WD~Thomas_Schoewe,7793810]]'
+- '[[_Standards/WikiData/WD~William_S._Knudsen,8017971]]'
+- '[[_Standards/WikiData/WD~Jane_Mendillo,13560794]]'
+- '[[_Standards/WikiData/WD~Aneel_Bhusri,18352311]]'
+- '[[_Standards/WikiData/WD~Devin_Wenig,18619565]]'
+- '[[_Standards/WikiData/WD~Mark_Tatum,60733847]]'
+- '[[_Standards/WikiData/WD~Linda_R._Gooden,109472754]]'
+- '[[_Standards/WikiData/WD~Joanne_Crevoiserat,114395594]]'
+- '[[_Standards/WikiData/WD~Meg_Whitman,55174]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~William_Crapo_Durant,381381]]'
-  - '[[_Standards/WikiData/WD~Charles_Stewart_Mott,5082687]]'
+- '[[_Standards/WikiData/WD~William_Crapo_Durant,381381]]'
+- '[[_Standards/WikiData/WD~Charles_Stewart_Mott,5082687]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Dutch_Resistance_Museum,828307]]'
-  - '[[_Standards/WikiData/WD~Design_Museum_Gent,1809071]]'
-  - "[[_Standards/WikiData/WD~Musée_de_l'Armée,1996069]]"
-  - '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
+- '[[_Standards/WikiData/WD~Dutch_Resistance_Museum,828307]]'
+- '[[_Standards/WikiData/WD~Design_Museum_Gent,1809071]]'
+- "[[_Standards/WikiData/WD~Musée_de_l'Armée,1996069]]"
+- '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
 legal_form:
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~Delaware_corporation,88537331]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~Delaware_corporation,88537331]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Wireless_Power_Consortium,3616482]]'
-  - '[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]'
+- '[[_Standards/WikiData/WD~Wireless_Power_Consortium,3616482]]'
+- '[[_Standards/WikiData/WD~Open_Automotive_Alliance,15614763]]'
 director_manager: '[[_Standards/WikiData/WD~Mary_Barra,6779013]]'
 chairperson: '[[_Standards/WikiData/WD~Mary_Barra,6779013]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Mary_Barra,6779013]]'
@@ -109,8 +131,8 @@ operating_income: 10315000000
 inception: 1908-09-16T00:00:00Z
 EBITDA: 21186000000
 total_equity:
-  - 40323000000
-  - 54109000000
+- 40323000000
+- 54109000000
 market_capitalization: 43531000000
 military_designation: M
 Commons_gallery: General Motors
@@ -119,18 +141,18 @@ total_revenue: 156735000000
 Private_Enterprise_Number: 48355
 contact_page_URL: https://www.gm.com/company/contact-us
 X_Twitter_username:
-  - GM
-  - GeneralMotorsMx
-  - GMBPress
-  - GMFleet
-  - MFG_GM
+- GM
+- GeneralMotorsMx
+- GMBPress
+- GMFleet
+- MFG_GM
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/General%20motors%20logo%20with%20wordmark.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GM%20Renaissance%20Center%20-%20H%C3%B4tel%20le%20plus%20haut%20en%20Am%C3%A9rique%20du%20Nord%20-%20panoramio.jpg
 official_website: https://www.gm.com/
 official_shop_URL: https://www.gmcompanystore.com/
 ISNI:
-  - 0000000113442199
-  - 0000000403963355
+- 0000000113442199
+- 0000000403963355
 Central_Index_Key: 0001467858
 PermID: 4298546138
 Legal_Entity_Identifier: 54930070NSV60J38I987
@@ -138,8 +160,100 @@ Facebook_username: generalmotors
 Instagram_username: generalmotors
 ISIN: US37045V1008
 official_name: General Motors Company
+dv_has_:
+  name_:
+    af: General Motors
+    an: General Motors
+    ar: جنرال موتورز
+    arz: جنرال موتورز
+    ast: General Motors
+    az: General Motors
+    azb: جنرال موتورز
+    be: General Motors
+    be-tarask: General Motors
+    bg: Дженеръл Мотърс
+    bn: জেনারেল মোটর্স
+    bs: General Motors
+    ca: General Motors
+    cs: General Motors
+    cy: General Motors
+    da: General Motors
+    de: General Motors
+    diq: General Motors
+    el: General Motors
+    en: General Motors
+    en-ca: General Motors
+    en-gb: General Motors
+    eo: General Motors
+    es: General Motors
+    et: General Motors
+    eu: General Motors
+    fa: جنرال موتورز
+    fi: General Motors
+    fr: General Motors
+    ga: General Motors
+    gl: General Motors
+    he: ג'נרל מוטורס
+    hi: जनरल मोटर्स
+    hr: General Motors
+    hu: General Motors
+    hy: Ջեներալ Մոթորս
+    id: General Motors
+    io: General Motors
+    is: General Motors
+    it: General Motors
+    ja: ゼネラルモーターズ
+    jv: General Motors
+    ka: General Motors
+    kaa: General Motors
+    kk: General Motors
+    kn: ಜನರಲ್ ಮೋಟರ್ಸ್
+    ko: 제너럴 모터스
+    lt: General Motors
+    lv: General Motors
+    mk: Џенерал Моторс
+    ml: ജനറൽ മോട്ടോഴ്സ്
+    mn: Женерал Моторс
+    mr: जनरल मोटर्स
+    ms: General Motors
+    mul: General Motors
+    mwl: General Motors
+    nb: General Motors
+    nl: General Motors
+    nn: General Motors
+    oc: General Motors
+    pl: General Motors
+    pms: General Motors
+    pnb: جنرل موٹرز
+    ps: جنرال موټرونه
+    pt: General Motors
+    pt-br: General Motors
+    ro: General Motors
+    sah: General Motors
+    sc: General Motors
+    sco: General Motors
+    sh: General Motors
+    sk: General Motors
+    sl: General Motors
+    sq: General Motors
+    sr: Џенерал моторс
+    sr-ec: Џенерал моторс
+    sr-el: Dženeral motors
+    sv: General Motors
+    tg: Ҷенерал Моторс
+    th: เจเนรัลมอเตอร์
+    tly: General Motors
+    tr: General Motors
+    uk: General Motors
+    ur: جنرل موٹرز
+    uz: Jeneral motors
+    vi: General Motors
+    wuu: 通用汽车
+    yi: GM
+    yue: 通用汽車
+    zh: 通用汽车公司
+    zh-cn: 通用汽车
 ---
-
 # [[GM(General_Motors)]] 
 
 #is_/same_as :: [[WD~General_Motors,81965]] 

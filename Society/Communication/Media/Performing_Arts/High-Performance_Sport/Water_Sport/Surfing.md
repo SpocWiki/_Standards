@@ -1,19 +1,84 @@
 ---
 aliases:
+- banglenčių sportas
+- branderplankryery
+- Brimbrettabrun
+- Faaseʻe
+- Heʻenalu
+- hullámlovaglás
+- lainelautailu
+- Lapsus
+- Luncur air
+- Lướt sóng
+- ondorajdado
+- Pagsusurp
+- Pelsiwarî
+- selancar
+- Sorf
+- surf
+- surfamine
+- Surfanje
+- surfe
+- Surfen
+- surffam
+- Surfimi
+- surfing
+- Surfo
+- Surfòwanié
+- Syorfing
+- Syrffio
+- sörf
+- Sörfinq
+- sērfings
+- tonnmharcaíocht
+- Vakaseua
+- Wellenreiten
+- Whakaheke ngaru
+- Ypysyry
+- Ũcũatini
+- Ȳþrīdunȝ
+- σέρφινγκ
+- сёрфінг
+- сёрфинг
+- серфінг
+- сурфање
+- сурфовање
+- Сърфиране
+- сэрфінг
+- Сөрфиҥ
+- Սերֆինգ
+- גלישת גלים
+- دولقۇن تېيلىش
+- ركوب الأمواج
+- موج رانی
+- موجسواری
+- लहरबाज़ी
+- सर्फिङ्ग
+- সার্ফিং
+- அலைச்சறுக்கு
+- సర్ఫింగ్
+- โต้คลื่น
+- རླབས་ཤུད།
+- სერფინგი
+- サーフィン
+- 冲浪
+- 滑浪
+- 衝浪
+- 파도타기
 has_id_wikidata: Q159992
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~boardsport,911069]]"
-  - "[[_Standards/WikiData/WD~water_sport,61065]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~boardsport,911069]]'
+- '[[_Standards/WikiData/WD~water_sport,61065]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-uses: "[[_Standards/WikiData/WD~surfboard,457689]]"
-authority: "[[_Standards/WikiData/WD~International_Surfing_Association,1320669]]"
-practiced_by: "[[_Standards/WikiData/WD~surfer,13561328]]"
-different_from: "[[_Standards/WikiData/WD~Surf,31665924]]"
-IAB_code: "505"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+uses: '[[_Standards/WikiData/WD~surfboard,457689]]'
+authority: '[[_Standards/WikiData/WD~International_Surfing_Association,1320669]]'
+practiced_by: '[[_Standards/WikiData/WD~surfer,13561328]]'
+different_from: '[[_Standards/WikiData/WD~Surf,31665924]]'
+IAB_code: 505
 IMDb_keyword: surfing
 subreddit: surfing
 Commons_gallery: Surfing
@@ -22,14 +87,116 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/OC-surf-c1.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surfer%20at%20the%20Cayucos%20Pier%2C%20Cayucos%2C%20CA.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Surfing%20competition%20at%20Salt%20Creek%20Beach%2C%20Dana%20Point%2C%20California%2C%20USA%20as%20viewed%20from%20a%20FPV%20drone.webm
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Surfing%20pictogram.svg
-Unicode_character: 🏄
-U_S_National_Archives_Identifier: "10642834"
+Unicode_character: "\U0001F3C4"
+U_S_National_Archives_Identifier: 10642834
 IPTC_NewsCode: mediatopic/20001070
 Krugosvet_article_archived_: sport/serfing
-Dewey_Decimal_Classification: "797.32"
+Dewey_Decimal_Classification: 797.32
 OpenStreetMap_tag: sport=surfing
+dv_has_:
+  name_:
+    af: branderplankryery
+    an: Surf
+    ang: Ȳþrīdunȝ
+    ar: ركوب الأمواج
+    ast: Surf
+    az: Sörfinq
+    ba: Сёрфинг
+    ban: Selancar
+    be: сёрфінг
+    be-tarask: сэрфінг
+    bg: Сърфиране
+    bn: সার্ফিং
+    bo: རླབས་ཤུད།
+    br: Surf
+    ca: surf
+    cs: surfing
+    csb: Surfòwanié
+    cy: Syrffio
+    da: surfing
+    de: Wellenreiten
+    diq: Sorf
+    el: σέρφινγκ
+    en: surfing
+    eo: ondorajdado
+    es: surf
+    et: surfamine
+    eu: surf
+    fa: موجسواری
+    fi: lainelautailu
+    fj: Vakaseua
+    fo: Surfing
+    fr: surf
+    ga: tonnmharcaíocht
+    gl: Surf
+    gn: Ypysyry
+    ha: Surfing
+    haw: Heʻenalu
+    he: גלישת גלים
+    hi: लहरबाज़ी
+    hr: Surfanje
+    hu: hullámlovaglás
+    hy: Սերֆինգ
+    ia: Surf
+    id: selancar
+    io: Surfo
+    is: Brimbrettabrun
+    it: surf
+    ja: サーフィン
+    ka: სერფინგი
+    ki: Ũcũatini
+    kk: Сёрфинг
+    ko: 파도타기
+    ku: Pelsiwarî
+    la: Lapsus
+    lb: Surfen
+    lt: banglenčių sportas
+    lv: sērfings
+    mi: Whakaheke ngaru
+    mk: сурфање
+    ms: Luncur air
+    nb: surfing
+    new: सर्फिङ्ग
+    nl: surfen
+    nn: surfing
+    oc: Surf
+    pl: surfing
+    pt: surfe
+    pt-br: surfe
+    ro: Surfing
+    ru: сёрфинг
+    sah: Сөрфиҥ
+    scn: Surfing
+    se: surfen
+    sh: Surfanje
+    sk: Surfing
+    sl: surfanje
+    sm: Faaseʻe
+    smn: surffam
+    sq: Surfimi
+    sr: сурфовање
+    sv: surfing
+    ta: அலைச்சறுக்கு
+    te: సర్ఫింగ్
+    th: โต้คลื่น
+    tl: Pagsusurp
+    tr: sörf
+    ug: دولقۇن تېيلىش
+    uk: серфінг
+    ur: موج رانی
+    uz: Syorfing
+    vec: surf
+    vi: Lướt sóng
+    wuu: 冲浪
+    yue: 滑浪
+    zh: 衝浪
+    zh-cn: 冲浪
+    zh-hans: 冲浪
+    zh-hant: 衝浪
+    zh-hk: 衝浪
+    zh-sg: 冲浪
+    zh-tw: 衝浪
 ---
-
 # [[Surfing]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Surfing,159992|WD~Surfing,159992]]  

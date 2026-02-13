@@ -1,40 +1,181 @@
 ---
 aliases:
-  - Biomolecule
+- biomolecola
+- biomolecula
+- Biomolecule
+- biomoleculă
+- biomolecuul
+- biomolekul
+- biomolekula
+- biomolekule
+- biomolekuli
+- biomolekullar
+- biomolekulo
+- biomolekuła
+- biomolekyl
+- biomolekyla
+- biomolekyle
+- biomolekyyl
+- biomolekyyli
+- Biomolekül
+- biomolikule
+- Biomolikuli
+- biomolècula
+- biomolécula
+- biomolécule
+- bith-mhoileciuil
+- bithmhóilín
+- biumulecula
+- biyomolekül
+- phân tử sinh học
+- βιομόριο
+- біомолекула
+- біямалекула
+- биомолекул
+- биомолекула
+- ביאמאלעקול
+- ביומולקולה
+- بيوموليکول
+- جزيء حيوي
+- حیاتیاتی مرکبات
+- مولکول زیستی
+- जीवकण
+- जैव अणु
+- জীবজ অণু
+- உயிர்மூலக்கூறு
+- బయో అణువులు
+- ಜೈವಿಕ-ಅಣು
+- ജൈവതന്മാത്ര
+- โมเลกุลชีวภาพ
+- ម៉ូលេគុលជីវភាព
+- 生体分子
+- 生物分子
+- 생체분자
 has_id_wikidata: Q206229
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~biopolymer,422649]]"
-different_from: "[[_Standards/WikiData/WD~natural_product,901227]]"
-part_of: "[[_Standards/WikiData/WD~natural_product,901227]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~biopolymer,422649]]'
+different_from: '[[_Standards/WikiData/WD~natural_product,901227]]'
+part_of: '[[_Standards/WikiData/WD~natural_product,901227]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~molecular_function,14860489]]"
-  - "[[_Standards/WikiData/WD~biomolecular_structure,15712714]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178]]"
-subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
-OmegaWiki_Defined_Meaning: "1459536"
+- '[[_Standards/WikiData/WD~molecular_function,14860489]]'
+- '[[_Standards/WikiData/WD~biomolecular_structure,15712714]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+OmegaWiki_Defined_Meaning: 1459536
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Myoglobin.png
 equivalent_class: http://dbpedia.org/ontology/Biomolecule
 Commons_category: Biomolecules
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]"
+  - '[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]"
+- '[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]'
+dv_has_:
+  name_:
+    af: biomolekule
+    an: biomolecula
+    ar: جزيء حيوي
+    ast: biomolécula
+    az: biomolekullar
+    be: біямалекула
+    be-tarask: біямалекула
+    bg: биомолекула
+    bho: जीवकण
+    bn: জীবজ অণু
+    bs: biomolekula
+    ca: biomolècula
+    cs: biomolekula
+    cv: биомолекула
+    da: biomolekyle
+    de: Biomolekül
+    el: βιομόριο
+    en: biomolecule
+    en-ca: biomolecule
+    en-gb: biomolecule
+    eo: biomolekulo
+    es: biomolécula
+    et: biomolekul
+    eu: biomolekula
+    fa: مولکول زیستی
+    fi: biomolekyyli
+    fj: Biomolikuli
+    fr: biomolécule
+    fy: biomolekule
+    ga: bithmhóilín
+    gd: bith-mhoileciuil
+    gl: biomolécula
+    he: ביומולקולה
+    hi: जैव अणु
+    hr: biomolekula
+    hu: biomolekula
+    id: biomolekul
+    it: biomolecola
+    ja: 生体分子
+    jv: biomolekul
+    km: ម៉ូលេគុលជីវភាព
+    kn: ಜೈವಿಕ-ಅಣು
+    ko: 생체분자
+    la: biomolecula
+    lfn: biomolecula
+    lmo: biumulecula
+    lv: biomolekula
+    min: biomolekul
+    mk: биомолекула
+    ml: ജൈവതന്മാത്ര
+    mn: биомолекул
+    ms: biomolekul
+    ms-arab: بيوموليکول
+    nb: biomolekyl
+    nl: biomolecuul
+    nn: biomolekyl
+    pl: biomolekuła
+    pt: biomolécula
+    pt-br: biomolécula
+    ro: biomoleculă
+    ru: биомолекула
+    se: biomolekyla
+    sh: biomolekuli
+    sk: biomolekula
+    sl: biomolekula
+    smn: biomolekyyl
+    sms: biomolekyyl
+    so: biomolikule
+    sr: биомолекул
+    sr-ec: биомолекул
+    sr-el: biomolekul
+    su: biomolekul
+    sv: biomolekyl
+    ta: உயிர்மூலக்கூறு
+    te: బయో అణువులు
+    th: โมเลกุลชีวภาพ
+    tr: biyomolekül
+    uk: біомолекула
+    ur: حیاتیاتی مرکبات
+    vi: phân tử sinh học
+    wuu: 生物分子
+    yi: ביאמאלעקול
+    yue: 生物分子
+    zh: 生物分子
+    zh-cn: 生物分子
+    zh-hans: 生物分子
+    zh-hant: 生物分子
+    zh-hk: 生物分子
+    zh-sg: 生物分子
+    zh-tw: 生物分子
 ---
-
 # [[Biomolecule]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]] 

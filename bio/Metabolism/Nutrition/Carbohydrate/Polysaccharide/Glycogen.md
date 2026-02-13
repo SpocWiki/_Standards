@@ -1,32 +1,85 @@
 ---
 aliases:
-  - Glykogen
-  - Glycogen
+- Galaikojeni
+- glicigin
+- glicogen
+- glicogeno
+- Glicogèn
+- glicogénio
+- glicogênio
+- Glicóxeno
+- Glikogeen
+- Glikogen
+- Glikogenas
+- Glikogeno
+- Glikogjeni
+- glikogén
+- glikogēns
+- Glikojen
+- glucógeno
+- Glucóxenu
+- Glukogeno
+- Glycogeen
+- Glycogen
+- Glycogenum
+- Glycogène
+- glykogeeni
+- Glykogen
+- glykogén
+- Glîkojen
+- Glïkogen
+- Glükogeen
+- Glýkógen
+- qlikogen
+- Γλυκογόνο
+- глікаген
+- глікоген
+- гликоген
+- Գլիկոգեն
+- Քաղցրածին
+- גליקוגן
+- الجليكوچين
+- غلايكوجين
+- قلیکوژن
+- گلىيكوگەن
+- گلیکوژن
+- ग्लाइकोजेन
+- গ্লাইকোজেন
+- ਗਲਾਈਕੋਜਨ
+- கிளைக்கோசன்
+- ഗ്ലൈക്കോജൻ
+- ไกลโคเจน
+- გლიკოგენი
+- グリコーゲン
+- 糖原
+- 肝糖
+- 肝醣
+- 글리코겐
 has_id_wikidata: Q174936
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-  - '[[_Standards/WikiData/WD~Streptomyces_coelicolor,2355919]]'
-  - '[[_Standards/WikiData/WD~Streptomyces_albidoflavus,22286833]]'
-  - '[[_Standards/WikiData/WD~queen_conch,106121203]]'
-  - '[[_Standards/WikiData/WD~Lobatus_gigas,62603]]'
+- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
+- '[[_Standards/WikiData/WD~Streptomyces_coelicolor,2355919]]'
+- '[[_Standards/WikiData/WD~Streptomyces_albidoflavus,22286833]]'
+- '[[_Standards/WikiData/WD~queen_conch,106121203]]'
+- '[[_Standards/WikiData/WD~Lobatus_gigas,62603]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-  - '[[_Standards/WikiData/WD~glucan,416796]]'
+- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
+- '[[_Standards/WikiData/WD~glucan,416796]]'
 part_of:
-  - '[[_Standards/WikiData/WD~glycogen_catabolic_process,680603]]'
-  - '[[_Standards/WikiData/WD~glycogen_biosynthetic_process,14863063]]'
-  - '[[_Standards/WikiData/WD~glycogen_metabolic_process,14902477]]'
-  - '[[_Standards/WikiData/WD~glycophagy,21113302]]'
-  - '[[_Standards/WikiData/WD~glycogen_binding,21113301]]'
+- '[[_Standards/WikiData/WD~glycogen_catabolic_process,680603]]'
+- '[[_Standards/WikiData/WD~glycogen_biosynthetic_process,14863063]]'
+- '[[_Standards/WikiData/WD~glycogen_metabolic_process,14902477]]'
+- '[[_Standards/WikiData/WD~glycophagy,21113302]]'
+- '[[_Standards/WikiData/WD~glycogen_binding,21113301]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 mass: 666.221858
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 CosIng_number: 34127
 PubChem_CID: 439177
 InChIKey: BYSGBSNPRWKUQH-UJDJLXLFSA-N
@@ -39,12 +92,103 @@ isomeric_SMILES: C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H
 canonical_SMILES: C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3C(OC(C(C3O)O)O)CO)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O
 UMLS_CUI: C0017911
 MeSH_tree_code:
-  - D05.750.078.562.388
-  - D09.698.365.388
+- D05.750.078.562.388
+- D09.698.365.388
 Commons_category: Glycogen
 InChI: InChI=1S/C24H42O21/c25-1-5-9(28)11(30)16(35)22(41-5)39-4-8-20(45-23-17(36)12(31)10(29)6(2-26)42-23)14(33)18(37)24(43-8)44-19-7(3-27)40-21(38)15(34)13(19)32/h5-38H,1-4H2/t5-,6-,7-,8-,9-,10-,11+,12+,13-,14-,15-,16-,17-,18-,19-,20-,21+,22+,23-,24-/m1/s1
+dv_has_:
+  name_:
+    af: Glikogeen
+    ar: غلايكوجين
+    arz: الجليكوچين
+    ast: Glucóxenu
+    az: qlikogen
+    azb: قلیکوژن
+    ba: гликоген
+    be: глікаген
+    be-tarask: глікаген
+    bg: Гликоген
+    bn: গ্লাইকোজেন
+    bs: Glikogen
+    ca: glicogen
+    cs: glykogen
+    cy: glycogen
+    da: glykogen
+    de: Glykogen
+    el: Γλυκογόνο
+    en: glycogen
+    eo: Glikogeno
+    es: glucógeno
+    et: Glükogeen
+    eu: Glukogeno
+    fa: گلیکوژن
+    fi: glykogeeni
+    fj: Galaikojeni
+    fr: Glycogène
+    ga: glicigin
+    gl: Glicóxeno
+    he: גליקוגן
+    hi: ग्लाइकोजेन
+    hr: Glikogen
+    hu: glikogén
+    hy: Գլիկոգեն
+    hyw: Քաղցրածին
+    id: Glikogen
+    is: Glýkógen
+    it: glicogeno
+    ja: グリコーゲン
+    jv: glikogen
+    ka: გლიკოგენი
+    kk: Гликоген
+    kk-arab: گلىيكوگەن
+    kk-cn: گلىيكوگەن
+    kk-cyrl: Гликоген
+    kk-kz: Гликоген
+    kk-latn: Glïkogen
+    kk-tr: Glïkogen
+    ko: 글리코겐
+    ku: Glîkojen
+    ky: Гликоген
+    la: Glycogenum
+    lt: Glikogenas
+    lv: glikogēns
+    mk: Гликоген
+    ml: ഗ്ലൈക്കോജൻ
+    ms: Glikogen
+    nb: glykogen
+    nl: Glycogeen
+    nn: glykogen
+    oc: Glicogèn
+    pa: ਗਲਾਈਕੋਜਨ
+    pl: Glikogen
+    pt: glicogénio
+    pt-br: glicogênio
+    ro: Glicogen
+    ru: гликоген
+    sh: Glikogen
+    sk: glykogén
+    sl: Glikogen
+    sq: Glikogjeni
+    sr: гликоген
+    sr-ec: Гликоген
+    sr-el: Glikogen
+    sv: Glykogen
+    ta: கிளைக்கோசன்
+    tg: гликоген
+    th: ไกลโคเจน
+    tr: Glikojen
+    uk: глікоген
+    uz: Glikogen
+    vi: Glycogen
+    yue: 肝醣
+    zh: 糖原
+    zh-cn: 糖原
+    zh-hans: 糖原
+    zh-hant: 糖原
+    zh-hk: 糖原
+    zh-sg: 糖原
+    zh-tw: 肝糖
 ---
-
 # [[Glycogen]]
 
 #is_/instance_of :: [[../Polysaccharide]] 

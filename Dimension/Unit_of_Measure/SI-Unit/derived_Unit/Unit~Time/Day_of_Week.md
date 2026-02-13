@@ -1,51 +1,253 @@
 ---
 aliases:
-  - day-of-week
-  - day_of_week
-  - DayOfWeek
-  - is_a_day_of_week
-  - Wochentag
-  - Day_of_Week
-  - Day of Week
+- a hét napja
+- aldaw kan semana
+- asteko egun
+- chhit-iāu
+- dan u sedmici
+- dan v tednu
+- dani sedmice
+- dani u tjednu
+- day of the week
+- Day of Week
+- day-of-week
+- DayOfWeek
+- day_of_week
+- deiz ar sizhun
+- den v týdnu
+- deň v týždni
+- dia da semana
+- dia de la setmana
+- die del septimana
+- ditë e javës
+- dzień tygodnia
+- dzigbe ŋkɔ
+- dziyń tydnia
+- dzâlili dit siptâmânâ
+- dzéń tidzénia
+- dì de ła stimana
+- día da semana
+- día de la selmana
+- día de la semana
+- día dela semana
+- dźeń tydźenja
+- giorno della settimana
+- haftanın günleri
+- hari dalam seminggu
+- hápte kúni
+- iminsi y'imibyizi
+- is_a_day_of_week
+- jour de la semaine
+- kurkosko diives
+- làithean na seachdain
+- lá den tseachtain
+- längö tî yenga
+- mga adlaw sa semana
+- Nda ahorow a ɔwɔ ndawɔtwe mu.
+- neaʹttelpeiʹvv
+- nedalin päiväd
+- ngày trong tuần
+- Nombre d'os días d'a semana
+- noms dels jorn de la setmana
+- nädalapäev
+- nädälipääväq
+- ohopeivi
+- omafiku oko shivike
+- rocê heftey
+- roja hefteyê
+- sciúrne d'a sumáne
+- tago de semajno
+- ugedag
+- ukedag
+- vahkkobeaivi
+- veckodag
+- vekedag
+- viikonpäivä
+- weekdag
+- wekendag
+- Wochedaach
+- Wochendag
+- Wochentag
+- Wuchetag
+- zilele săptămânii
+- ημέρα της εβδομάδας
+- анкьил къоял
+- арнялэн нуналыз
+- атна көне
+- дан седмице
+- ден од седмицата
+- день недели
+- день тижня
+- дзень тыдню
+- дні тыдня
+- շաբաթվա օրեր
+- יום בשבוע
+- أيّام الجمعة
+- د اوونۍ ورځې
+- ستوارے دے دن
+- هفتي جا ڏينهن
+- يوم من الأسبوع
+- ہفتہ کے دن
+- सप्ताह के दिन
+- सप्ताहके दिन
+- সপ্তাহের দিন
+- વાર
+- వారం రోజుల పేర్లు
+- วันในสัปดาห์
+- ရက်သတ္တပတ်
+- ⴰⵙⵙ ⵏ ⵉⵎⴰⵍⴰⵙⵙ
+- 七政
+- 七曜
+- 星期中的日子
+- 曜日
+- 요일
 has_id_wikidata: Q41825
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - day_of_week
+- day_of_week
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_day_of_week Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_day_of_week Class
 type: Type
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Days_of_the_week,6091158]]'
 instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414]]'
 is_metaclass_for: '[[_Standards/WikiData/WD~day,573]]'
 subclass_of: '[[_Standards/WikiData/WD~day,573]]'
 Wikidata_property: day of week
 equivalent_class:
-  - http://www.w3.org/2006/time#DayOfWeek
-  - http://dati.beniculturali.it/cis/DayOfWeek
-  - https://schema.org/DayOfWeek
+- http://www.w3.org/2006/time#DayOfWeek
+- http://dati.beniculturali.it/cis/DayOfWeek
+- https://schema.org/DayOfWeek
 Iconclass_notation: 23Q
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Woran%20glaubten%20die%20Germanen%20%28CC%20BY-SA%204.0%29.webm
 UMLS_CUI: C0585023
 Commons_category: Days of the week
 Wolfram_Language_entity_code: Entity["Concept", "DayOfTheWeek::76wtv"]
+dv_has_:
+  name_:
+    aeb-arab: أيّام الجمعة
+    af: weekdag
+    an: Nombre d'os días d'a semana
+    ar: يوم من الأسبوع
+    ast: día de la selmana
+    av: анкьил къоял
+    bcl: aldaw kan semana
+    be: дні тыдня
+    be-tarask: дзень тыдню
+    bn: সপ্তাহের দিন
+    br: deiz ar sizhun
+    bs: dan u sedmici
+    ca: dia de la setmana
+    ceb: mga adlaw sa semana
+    cs: den v týdnu
+    csb: dzéń tidzénia
+    da: ugedag
+    de: Wochentag
+    diq: rocê heftey
+    ee: dzigbe ŋkɔ
+    el: ημέρα της εβδομάδας
+    en: day of the week
+    eo: tago de semajno
+    es: día de la semana
+    et: nädalapäev
+    eu: asteko egun
+    ext: día dela semana
+    fat: Nda ahorow a ɔwɔ ndawɔtwe mu.
+    fi: viikonpäivä
+    fr: jour de la semaine
+    ga: lá den tseachtain
+    gan: 七曜
+    gan-hans: 七曜
+    gan-hant: 七曜
+    gd: làithean na seachdain
+    gl: día da semana
+    gsw: Wuchetag
+    gu: વાર
+    he: יום בשבוע
+    hi: सप्ताह के दिन
+    hr: dani u tjednu
+    hsb: dźeń tydźenja
+    hu: a hét napja
+    hy: շաբաթվա օրեր
+    ia: die del septimana
+    id: hari dalam seminggu
+    it: giorno della settimana
+    ja: 曜日
+    kaa: hápte kúni
+    kj: omafiku oko shivike
+    ko: 요일
+    ksh: Wochedaach
+    ku: roja hefteyê
+    lb: Wochendag
+    lzh: 七政
+    mag: सप्ताहके दिन
+    mk: ден од седмицата
+    ms: hari dalam seminggu
+    my: ရက်သတ္တပတ်
+    nan: chhit-iāu
+    nb: ukedag
+    nds: wekendag
+    nl: weekdag
+    nn: vekedag
+    oc: noms dels jorn de la setmana
+    pl: dzień tygodnia
+    pnb: ستوارے دے دن
+    ps: د اوونۍ ورځې
+    pt: dia da semana
+    pt-br: dia da semana
+    rmf: kurkosko diives
+    ro: zilele săptămânii
+    roa-tara: sciúrne d'a sumáne
+    ru: день недели
+    rup: dzâlili dit siptâmânâ
+    rw: iminsi y'imibyizi
+    sd: هفتي جا ڏينهن
+    se: vahkkobeaivi
+    sg: längö tî yenga
+    sh: dani sedmice
+    sk: deň v týždni
+    sl: dan v tednu
+    smn: ohopeivi
+    sms: neaʹttelpeiʹvv
+    sq: ditë e javës
+    sr: дан седмице
+    sr-ec: дан седмице
+    sv: veckodag
+    szl: dziyń tydnia
+    te: వారం రోజుల పేర్లు
+    th: วันในสัปดาห์
+    tr: haftanın günleri
+    tt: атна көне
+    tt-cyrl: атна көне
+    udm: арнялэн нуналыз
+    uk: день тижня
+    ur: ہفتہ کے دن
+    vec: dì de ła stimana
+    vep: nedalin päiväd
+    vi: ngày trong tuần
+    vro: nädälipääväq
+    yue: 七政
+    zgh: ⴰⵙⵙ ⵏ ⵉⵎⴰⵍⴰⵙⵙ
+    zh: 星期中的日子
+    zh-hans: 七政
+    zh-hant: 七政
+    zh-hk: 七政
 ---
-
 Class of all day_of_weeks.
 
 Tag Instances like this: 

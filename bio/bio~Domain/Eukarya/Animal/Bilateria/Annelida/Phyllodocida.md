@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Phyllodocida
+- Phyllodocida
+- פילודוסידה
+- فيلودوسيات
+- 叶须虫目
+- 葉鬚蟲目
 title: Phyllodocida
 has_id_wikidata: Q733080
+dv_has_:
+  name_:
+    an: Phyllodocida
+    ar: فيلودوسيات
+    arz: فيلودوسيات
+    ast: Phyllodocida
+    bg: Phyllodocida
+    ca: Phyllodocida
+    ceb: Phyllodocida
+    de: Phyllodocida
+    en: Phyllodocida
+    eo: Phyllodocida
+    es: Phyllodocida
+    eu: Phyllodocida
+    ext: Phyllodocida
+    fi: Phyllodocida
+    fr: Phyllodocida
+    ga: Phyllodocida
+    gl: Phyllodocida
+    he: פילודוסידה
+    ia: Phyllodocida
+    ie: Phyllodocida
+    io: Phyllodocida
+    it: Phyllodocida
+    la: Phyllodocida
+    mul: Phyllodocida
+    nl: Phyllodocida
+    oc: Phyllodocida
+    pl: Phyllodocida
+    pt: Phyllodocida
+    pt-br: Phyllodocida
+    ro: Phyllodocida
+    ru: Phyllodocida
+    sl: Phyllodocida
+    sq: Phyllodocida
+    sv: Phyllodocida
+    tr: Phyllodocida
+    uk: Phyllodocida
+    vi: Phyllodocida
+    vo: Phyllodocida
+    war: Phyllodocida
+    zh: 叶须虫目
+    zh-cn: 叶须虫目
+    zh-hans: 叶须虫目
+    zh-tw: 葉鬚蟲目
 ---
 # [[Phyllodocida]] 
 

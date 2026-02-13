@@ -1,96 +1,265 @@
 ---
 aliases:
-  - singers
-  - vocalist
-  - Sänger
-  - Singer
+- abeslari
+- acennay
+- amhránaí
+- arraneyder
+- baaŋa
+- Biduan
+- ca sĩ
+- Candande
+- Canghfwen
+- cantadore
+- cantaire
+- cantant
+- cantante
+- cantaol
+- cantator
+- canteu o canteuse
+- cantor
+- cantànte
+- canwr
+- chanteur ou chanteuse
+- chantè
+- Cjantant
+- Cuīcani
+- cântăreț
+- dainininkas
+- dziedātājs
+- džambiboskiero
+- Fanaan
+- hansinɔ
+- hànjitọ
+- jan pi kalama uta
+- juru nyanyi
+- kaner
+- kanitan
+- kantant
+- kantante
+- kantere
+- kantisto
+- Koa-chhiú
+- kumakanta
+- këngëtar
+- Kô-sú
+- laulaja
+- laulja
+- lávllo
+- lávloo
+- lávlu
+- lávvloj
+- läullai
+- mag-aawit
+- mang-aawit
+- mawaƙi
+- Moyémbi
+- muzisyen
+- Mwimbaji
+- müğənni
+- Nikamo iriniw
+- Nnwomtoni
+- olórin
+- onye na-abụ abụ
+- opurahéiva
+- pajatai
+- pajattai
+- Panyanyi
+- Parakanta
+- penanyi
+- Penyanyi
+- Pevač
+- pevec
+- piosenkarz
+- pjevač
+- Q'uchu arsuyaña
+- qosıqshı
+- qoʻshiqchi
+- raankët
+- rusenasenay
+- sangari
+- sanger
+- sangster
+- seinneadair
+- singa
+- Singer
+- singers
+- sjonger
+- sjongster
+- songar
+- spevák
+- spiwaŕ
+- spiéwôk
+- spěwar
+- stranbêj
+- susuminḏing
+- Sänga
+- Sänger
+- sångare
+- söngvari
+- Takiq
+- talakanta
+- tchanteu
+- umculi
+- vocalist
+- yırcı
+- zanger
+- Zenger
+- zpěvák
+- änşi
+- énekes
+- Śpiywŏk
+- şarkıcı
+- əhand
+- τραγουδιστής
+- балайчи
+- Дуучин
+- дуушан
+- зарæггæнæг
+- йырсы
+- кырӟась
+- ла̄ввлэй
+- манияр ядайди
+- морайсь
+- морыця
+- мурызо
+- мырызы
+- овозхон
+- пејач
+- Певач
+- певец
+- певец/певица
+- сароянда
+- співак
+- спявак
+- сьпявак
+- сьылысь
+- Шпивач
+- Ырчы
+- ырыаһыт
+- эшархо
+- Юрăçă (вокалист)
+- җырчы
+- әнші
+- երգիչ
+- זינגער
+- זמר
+- خواننده
+- خونشکر
+- سندرغاړي
+- مغنى
+- مغني
+- مۆغننی
+- ڤڽاڽي
+- گلو کار
+- گلوکار
+- گُلو کار
+- گۆرانیبێژ
+- ߘߐ߲߬ߞߟߌ߬ߟߊ߬ߟߊ
+- गायक
+- সঙ্গীতশিল্পী
+- ਗਾਇਕ
+- ગાયક
+- ଗାୟକ
+- பாடகர்
+- గాయకులు
+- ഗായകൻ
+- นักร้อง
+- གཞས་པ་གཞས་མ།
+- အဆိုတော်
+- მობირე
+- მომღერალი
+- ᱥᱮᱨᱮᱧᱤᱭᱟᱹ
+- ⴰⵎⴰⵔⵉⵔ
+- 歌手
+- ꯁꯩꯁꯛꯄ
+- 가수
 has_id_wikidata: Q177220
 Commons_category: Vocalists
 female_form_of_label:
-  - مغنية
-  - مغنيه
-  - yırcı
-  - yırcı
-  - songkvinna
-  - sjongster
-  - երգչուհի
-  - kantistino
-  - tacennayt
-  - Sängerin
-  - dziedātāja
-  - пејачка
-  - морыця
-  - kantera
-  - pajattai
-  - pevka
-  - nữ ca sĩ
-  - jikanitan
-  - گلوکارہ
-  - cantante
-  - chanteuse
-  - певица
-  - זמרת
-  - cantrix
-  - sångerska
-  - cantante
-  - sangerinne
-  - Sängerin
-  - τραγουδίστρια
-  - cantante
-  - співачка
-  - piosenkarka
-  - مغنية
-  - énekesnő
-  - cantores
-  - cantora
-  - zpěvačka
-  - сьпявачка
-  - dainininkė
-  - zangeres
-  - cantant
-  - երգչուհի
-  - cântăreață
-  - cantora
-  - kantistino
-  - спявачка
-  - певачица
-  - গায়িকা
+- مغنية
+- مغنيه
+- yırcı
+- yırcı
+- songkvinna
+- sjongster
+- երգչուհի
+- kantistino
+- tacennayt
+- Sängerin
+- dziedātāja
+- пејачка
+- морыця
+- kantera
+- pajattai
+- pevka
+- nữ ca sĩ
+- jikanitan
+- گلوکارہ
+- cantante
+- chanteuse
+- певица
+- זמרת
+- cantrix
+- sångerska
+- cantante
+- sangerinne
+- Sängerin
+- τραγουδίστρια
+- cantante
+- співачка
+- piosenkarka
+- مغنية
+- énekesnő
+- cantores
+- cantora
+- zpěvačka
+- сьпявачка
+- dainininkė
+- zangeres
+- cantant
+- երգչուհի
+- cântăreață
+- cantora
+- kantistino
+- спявачка
+- певачица
+- গায়িকা
 male_form_of_label:
-  - kantistulo
-  - Sänger
-  - морыця
-  - kantero
-  - nam ca sĩ
-  - hikanitan
-  - Sänger
-  - cantante
-  - chanteur
-  - cantor
-  - sanger
-  - dainininkas
-  - cantor
-  - співак
-  - مغني
-  - canwr
-  - pevec
-  - zpěvák
-  - گلوکار
-  - певач
+- kantistulo
+- Sänger
+- морыця
+- kantero
+- nam ca sĩ
+- hikanitan
+- Sänger
+- cantante
+- chanteur
+- cantor
+- sanger
+- dainininkas
+- cantor
+- співак
+- مغني
+- canwr
+- pevec
+- zpěvák
+- گلوکار
+- певач
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20-%20TV%20Radio%20Mirror%2C%20September%201956%2001%20%28cropped%29.jpg
 subclass_of:
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~creative_and_performing_artist,108289408]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~creative_and_performing_artist,108289408]]'
 has_list: '[[_Standards/WikiData/WD~list_of_singers,12368323]]'
 uses:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
 field_of_this_occupation:
-  - '[[_Standards/WikiData/WD~vocal_performance,105245071]]'
-  - '[[_Standards/WikiData/WD~singing,27939]]'
+- '[[_Standards/WikiData/WD~vocal_performance,105245071]]'
+- '[[_Standards/WikiData/WD~singing,27939]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-  - '[[_Standards/WikiData/WD~musical_occupation,135106813]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
+- '[[_Standards/WikiData/WD~musical_occupation,135106813]]'
 properties_for_this_type: voice type
 product_or_material_produced: '[[_Standards/WikiData/WD~song,7366]]'
 Wikidata_property: performer
@@ -100,9 +269,232 @@ DataTrek_identifier: Q12256
 IMDb_keyword: singer
 equivalent_class: http://dbpedia.org/ontology/Singer
 Provenio_UUID:
-  - 3c421750-a314-4dde-bb7d-b0d8ae18d62e
-  - 6090b3f4-b175-430c-b7b1-0d064bb82e56
+- 3c421750-a314-4dde-bb7d-b0d8ae18d62e
+- 6090b3f4-b175-430c-b7b1-0d064bb82e56
 P8189: 987007546150905171
+dv_has_:
+  name_:
+    acm: مغني
+    af: sanger
+    ak: Nnwomtoni
+    an: Cantaire
+    ar: مغني
+    ary: مغني
+    arz: مغنى
+    ast: cantante
+    atj: Nikamo iriniw
+    ay: Q'uchu arsuyaña
+    az: müğənni
+    azb: مۆغننی
+    ba: йырсы
+    bar: Sänga
+    bcl: Parakanta
+    be: спявак
+    be-tarask: сьпявак
+    bew: Biduan
+    bg: певец/певица
+    bn: সঙ্গীতশিল্পী
+    bo: གཞས་པ་གཞས་མ།
+    br: kaner
+    bs: pjevač
+    bxr: дуушан
+    ca: cantant
+    ce: эшархо
+    ceb: mag-aawit
+    ckb: گۆرانیبێژ
+    co: cantadore
+    crh: yırcı
+    crh-latn: yırcı
+    cs: zpěvák
+    csb: spiéwôk
+    cv: Юрăçă (вокалист)
+    cy: canwr
+    da: sanger
+    dag: baaŋa
+    de: Sänger
+    de-at: Sänger
+    de-ch: Sänger
+    din: raankët
+    diq: muzisyen
+    dsb: spiwaŕ
+    dtp: susuminḏing
+    el: τραγουδιστής
+    en: singer
+    en-gb: singer
+    en-us: singer
+    eo: kantisto
+    es: cantante
+    et: laulja
+    eu: abeslari
+    ext: cantaol
+    fa: خواننده
+    fi: laulaja
+    fo: sangari
+    fon: hansinɔ
+    fr: chanteur ou chanteuse
+    frr: sjongster
+    fur: Cjantant
+    fy: sjonger
+    ga: amhránaí
+    gan: 歌手
+    gd: seinneadair
+    gl: cantante
+    gn: opurahéiva
+    gsw: Sänger
+    gu: ગાયક
+    guw: hànjitọ
+    gv: arraneyder
+    ha: mawaƙi
+    hak: Kô-sú
+    he: זמר
+    hi: गायक
+    hr: pjevač
+    hsb: spěwar
+    ht: chantè
+    hu: énekes
+    hy: երգիչ
+    hyw: երգիչ
+    ia: cantator
+    iba: penanyi
+    id: penyanyi
+    ig: onye na-abụ abụ
+    ilo: kumakanta
+    io: kantisto
+    is: söngvari
+    it: cantante
+    ja: 歌手
+    jv: juru nyanyi
+    ka: მომღერალი
+    kaa: qosıqshı
+    kab: acennay
+    kk: әнші
+    kk-latn: änşi
+    ko: 가수
+    ks: گُلو کار
+    ku: stranbêj
+    ku-latn: stranbêj
+    kv: сьылысь
+    kw: kaner
+    ky: Ырчы
+    la: cantor
+    lb: Sänger
+    lbe: балайчи
+    lez: манияр ядайди
+    lfn: cantor
+    li: Zenger
+    lij: cantànte
+    lmo: cantant
+    ln: Moyémbi
+    lt: dainininkas
+    lv: dziedātājs
+    map-bms: Penyanyi
+    mdf: морайсь
+    mhr: мурызо
+    min: Panyanyi
+    mk: пејач
+    ml: ഗായകൻ
+    mn: Дуучин
+    mni: ꯁꯩꯁꯛꯄ
+    mr: गायक
+    mrj: мырызы
+    ms: penyanyi
+    ms-arab: ڤڽاڽي
+    mt: kantant
+    my: အဆိုတော်
+    myv: морыця
+    mzn: خونشکر
+    nah: Cuīcani
+    nan: Koa-chhiú
+    nb: sanger
+    nds: Singer
+    ne: गायक
+    nl: zanger
+    nn: songar
+    nov: kantere
+    nqo: ߘߐ߲߬ߞߟߌ߬ߟߊ߬ߟߊ
+    oc: cantaire
+    olo: pajattai
+    or: ଗାୟକ
+    os: зарæггæнæг
+    pa: ਗਾਇਕ
+    pam: talakanta
+    pap: kantante
+    pap-aw: cantante
+    pcd: canteu o canteuse
+    pcm: singa
+    pl: piosenkarz
+    pnb: گلوکار
+    ps: سندرغاړي
+    pt: cantor
+    pt-br: cantor
+    pwn: rusenasenay
+    qu: Takiq
+    rmf: džambiboskiero
+    ro: cântăreț
+    roa-tara: Candande
+    rsk: Шпивач
+    ru: певец
+    rue: співак
+    sah: ырыаһыт
+    sat: ᱥᱮᱨᱮᱧᱤᱭᱟᱹ
+    sc: cantante
+    sco: sangster
+    se: lávlu
+    sh: pjevač
+    sjd: ла̄ввлэй
+    sje: lávvloj
+    sk: spevák
+    sl: pevec
+    smj: lávllo
+    smn: lávloo
+    sms: läullai
+    so: Fanaan
+    sq: këngëtar
+    sr: певач
+    sr-ec: Певач
+    sr-el: Pevač
+    su: Penyanyi
+    sv: sångare
+    sw: Mwimbaji
+    szl: Śpiywŏk
+    ta: பாடகர்
+    te: గాయకులు
+    tg: овозхон
+    tg-cyrl: сароянда
+    th: นักร้อง
+    tl: mang-aawit
+    tly: əhand
+    tok: jan pi kalama uta
+    tr: şarkıcı
+    tt: җырчы
+    tt-cyrl: җырчы
+    udm: кырӟась
+    uk: співак
+    ur: گلو کار
+    uz: qoʻshiqchi
+    vec: cantante
+    vep: pajatai
+    vi: ca sĩ
+    vls: Zanger
+    vo: kanitan
+    wa: tchanteu
+    wuu: 歌手
+    xmf: მობირე
+    yi: זינגער
+    yo: olórin
+    yue: 歌手
+    za: Canghfwen
+    zgh: ⴰⵎⴰⵔⵉⵔ
+    zh: 歌手
+    zh-cn: 歌手
+    zh-hans: 歌手
+    zh-hant: 歌手
+    zh-hk: 歌手
+    zh-mo: 歌手
+    zh-my: 歌手
+    zh-sg: 歌手
+    zh-tw: 歌手
+    zu: umculi
 ---
 # [[Singer]] 
 

@@ -1,67 +1,137 @@
 ---
 aliases:
-  - Freud
-  - Sigmund Freud
-  - Sigismund Schlomo Freud
-  - Sigmund_Freud
-  - Freud,Sigmund
+- Freid Zigmund
+- Freud
+- Freud,Sigmund
+- jan Simun Po
+- Si-ke-mung-de.fuo-luo-yi-de西格蒙德.佛洛伊德
+- Sigismund Schlomo Freud
+- Sigismundus Freud
+- Sigmun Peroid
+- Sigmund Freud
+- Sigmund Freyd
+- Sigmund Frojd
+- Sigmund Fruyd
+- Sigmund_Freud
+- Să̤-gáh-mūng Hók-lèu-dáik
+- Zigmund Freud
+- Zigmund Freyd
+- Zigmundas Froidas
+- Zigmunds Freids
+- zikmunt. freut.
+- Ziqmund Freyd
+- Zėgmonds Froids
+- Σίγκμουντ Φρόιντ
+- Зігмунд Фрэйд
+- Зіґмунд Фройд
+- Зигмунд Фрейд
+- Зигмунд Фројд
+- Зигмунд Фройд
+- Зигмунд Фруйд
+- Зыгмунд Фройд
+- Сигмунд Фројд
+- Фрейд Зигмунд
+- Фрейд, Зигмунд
+- Զիգմունդ Ֆրոյդ
+- זיגמונד פֿרױד
+- זיגמונד פרויד
+- زيڭموند فرويد
+- زیقموند فروید
+- زیگموند فروید
+- زیگمۆند فرۆید
+- سيجموند فرويد
+- سيغموند فرويد
+- سگمنڈ فرائیڈ
+- سگمنڊ فرائيڊ
+- سیگمنڈ فرائڈ
+- سېګمونډ فرايډ
+- فروئىد ۋە ئۆزلۈك
+- ܙܝܓܡܘܢܕ ܦܪܘܝܕ
+- सिगमंड फ्रायड
+- सिग्मंड फ्रायड
+- सिग्मण्ड् फ़्रुड्
+- सिग्मुंड फ़्रोइड
+- सिग्मुंड फ्रॉइड
+- सिग्मुन्ड फ्रायड
+- চিগ্মণ্ড ফ্ৰয়েড
+- সিগমুন্ড ফ্রয়েড
+- ਸਿਗਮੰਡ ਫ਼ਰਾਇਡ
+- ସିଗମଣ୍ଡ ଫ୍ରଏଡ଼
+- சிக்மண்ட் பிராய்ட்
+- సిగ్మండ్ ఫ్రాయిడ్
+- ಸಿಗ್ಮಂಡ್ ಫ್ರಾಯ್ಡ್
+- സിഗ്മണ്ട് ഫ്രോയിഡ്
+- සිග්මන්ඩ් ෆ්රොයිඩි
+- ซีคมุนท์ ฟร็อยท์
+- ဖရွိုက်၊ ဆစ်ဂမန်
+- ზიგმუნდ ფროიდი
+- ፍሮይድ
+- ᏏᎩᎹᏂᏗ ᎦᎶᎢᏗ
+- ហ្រ្គេតស៊ីងមួន
+- ᱥᱤᱜᱽᱢᱩᱱᱰ ᱯᱷᱨᱩᱰ
+- ⵙⵉⴳⵎⵓⵏⴷ ⴼⵔⵓⵢⴷ
+- ジークムント・フロイト
+- 弗洛伊德
+- 悉文·佛洛伊德
+- 西格蒙德·弗洛伊德
+- 지그문트 프로이트
 has_id_wikidata: Q9215
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Library_of_Congress,131454]]'
-  - '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
-  - '[[_Standards/WikiData/WD~Albert_Sloman_Library,50826703]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress,131454]]'
+- '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
+- '[[_Standards/WikiData/WD~Albert_Sloman_Library,50826703]]'
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%27s%20Voice%20%28BBC%20Broadcast%20Recording%201938%29.ogg
 award_received:
-  - '[[_Standards/WikiData/WD~Goethe_Prize,159909]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Goethe_Prize,159909]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
 BHCL_UUID: 95328fe4-164b-48ae-a813-06121f2f978b
 birth_name: Sigismund Schlomo Freud
 cause_of_death: '[[_Standards/WikiData/WD~laryngeal_cancer,852423]]'
 child:
-  - '[[_Standards/WikiData/WD~Anna_Freud,78485]]'
-  - '[[_Standards/WikiData/WD~Ernst_L._Freud,3656215]]'
-  - '[[_Standards/WikiData/WD~Martin_Freud,51844210]]'
-  - '[[_Standards/WikiData/WD~Mathilde_Freud,55850036]]'
-  - '[[_Standards/WikiData/WD~Oliver_Freud,94273673]]'
-  - '[[_Standards/WikiData/WD~Sophie_Freud,96079752]]'
+- '[[_Standards/WikiData/WD~Anna_Freud,78485]]'
+- '[[_Standards/WikiData/WD~Ernst_L._Freud,3656215]]'
+- '[[_Standards/WikiData/WD~Martin_Freud,51844210]]'
+- '[[_Standards/WikiData/WD~Mathilde_Freud,55850036]]'
+- '[[_Standards/WikiData/WD~Oliver_Freud,94273673]]'
+- '[[_Standards/WikiData/WD~Sophie_Freud,96079752]]'
 Commons_category: Sigmund Freud
 Commons_Creator_page: Sigmund Freud
 Commons_gallery: Sigmund Freud
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
 date_of_birth: 1856-05-06
 date_of_death: 1939-09-23
 described_by_source:
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Freud__In_His_Time_and_Ours,54638128]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Cold_War_Freud,101419420]]'
-  - '[[_Standards/WikiData/WD~Freud,114542782]]'
-  - '[[_Standards/WikiData/WD~Freud__The_Making_of_an_Illusion,114559630]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Freud__In_His_Time_and_Ours,54638128]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Cold_War_Freud,101419420]]'
+- '[[_Standards/WikiData/WD~Freud,114542782]]'
+- '[[_Standards/WikiData/WD~Freud__The_Making_of_an_Illusion,114559630]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 Dewey_Decimal_Classification: 150.1952092
 different_from:
-  - '[[_Standards/WikiData/WD~Freud,227778]]'
-  - '[[_Standards/WikiData/WD~Siegmund_Freud,104651708]]'
+- '[[_Standards/WikiData/WD~Freud,227778]]'
+- '[[_Standards/WikiData/WD~Siegmund_Freud,104651708]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Otto_Gross,89538]]'
-  - '[[_Standards/WikiData/WD~Moshe_Wulff,4128399]]'
+- '[[_Standards/WikiData/WD~Otto_Gross,89538]]'
+- '[[_Standards/WikiData/WD~Moshe_Wulff,4128399]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
 employer: '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
 family_name: '[[_Standards/WikiData/WD~Freud,37562959]]'
 father: '[[_Standards/WikiData/WD~Jacob_Freud,10304780]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~neurology,83042]]'
-  - '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
 given_name: '[[_Standards/WikiData/WD~Sigmund,905954]]'
 Google_Doodle: sigmund-freuds-160th-birthday
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Nationalmuseum,842858]]'
@@ -80,19 +150,19 @@ name_in_native_language: Sigmund Freud
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 NLC_authorities: 57482921
 nominated_for:
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~id,_ego_and_super-ego,486893]]'
-  - '[[_Standards/WikiData/WD~Three_Essays_on_the_Theory_of_Sexuality,673747]]'
-  - '[[_Standards/WikiData/WD~The_Interpretation_of_Dreams,726382]]'
-  - '[[_Standards/WikiData/WD~Totem_and_Taboo,910769]]'
-  - '[[_Standards/WikiData/WD~The_Ego_and_the_Id,1148588]]'
-  - '[[_Standards/WikiData/WD~Civilization_and_Its_Discontents,1170621]]'
+- '[[_Standards/WikiData/WD~id,_ego_and_super-ego,486893]]'
+- '[[_Standards/WikiData/WD~Three_Essays_on_the_Theory_of_Sexuality,673747]]'
+- '[[_Standards/WikiData/WD~The_Interpretation_of_Dreams,726382]]'
+- '[[_Standards/WikiData/WD~Totem_and_Taboo,910769]]'
+- '[[_Standards/WikiData/WD~The_Ego_and_the_Id,1148588]]'
+- '[[_Standards/WikiData/WD~Civilization_and_Its_Discontents,1170621]]'
 occupation:
-  - '[[_Standards/WikiData/WD~neurologist,783906]]'
-  - '[[_Standards/WikiData/WD~psychoanalyst,3410028]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~neurologist,783906]]'
+- '[[_Standards/WikiData/WD~psychoanalyst,3410028]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
 PhilPapers_topic: sigmund-freud
 place_of_birth: '[[_Standards/WikiData/WD~Příbor,654019]]'
 place_of_burial: '[[_Standards/WikiData/WD~Golders_Green_Crematorium,4141350]]'
@@ -102,44 +172,245 @@ position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 professorship: '[[_Standards/WikiData/WD~full_professor,25339110]]'
 Provenio_UUID: b904ddc3-6027-4c64-9137-1d8359fb0fd0
 relative:
-  - '[[_Standards/WikiData/WD~Lucian_Freud,154594]]'
-  - '[[_Standards/WikiData/WD~Edward_Bernays,434839]]'
+- '[[_Standards/WikiData/WD~Lucian_Freud,154594]]'
+- '[[_Standards/WikiData/WD~Edward_Bernays,434839]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 residence:
-  - '[[_Standards/WikiData/WD~Birth_house_of_Sigmund_Freud,12039013]]'
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Birth_house_of_Sigmund_Freud,12039013]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Alexander_Freud,23903090]]'
-  - '[[_Standards/WikiData/WD~Anna_Freud_Bernays,94651215]]'
-  - '[[_Standards/WikiData/WD~Julian_Freud,96078991]]'
-  - '[[_Standards/WikiData/WD~Esther_Adolfine_Freud,96078994]]'
-  - '[[_Standards/WikiData/WD~Pauline_Regine_Freud,96078995]]'
-  - '[[_Standards/WikiData/WD~Regina_Debora_Freud,96078992]]'
-  - '[[_Standards/WikiData/WD~Maria_Freud,96078993]]'
+- '[[_Standards/WikiData/WD~Alexander_Freud,23903090]]'
+- '[[_Standards/WikiData/WD~Anna_Freud_Bernays,94651215]]'
+- '[[_Standards/WikiData/WD~Julian_Freud,96078991]]'
+- '[[_Standards/WikiData/WD~Esther_Adolfine_Freud,96078994]]'
+- '[[_Standards/WikiData/WD~Pauline_Regine_Freud,96078995]]'
+- '[[_Standards/WikiData/WD~Regina_Debora_Freud,96078992]]'
+- '[[_Standards/WikiData/WD~Maria_Freud,96078993]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/FreudSignature.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Sigmund%20Freud%20%28intro%29.ogg
 spouse: '[[_Standards/WikiData/WD~Martha_Bernays,3042226]]'
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/freud
 student:
-  - '[[_Standards/WikiData/WD~Alfred_Adler,152393]]'
-  - '[[_Standards/WikiData/WD~Henri_Flournoy,3131091]]'
+- '[[_Standards/WikiData/WD~Alfred_Adler,152393]]'
+- '[[_Standards/WikiData/WD~Henri_Flournoy,3131091]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Ernst_Wilhelm_von_Brücke,72374]]'
-  - '[[_Standards/WikiData/WD~Carl_Friedrich_Wilhelm_Claus,112156]]'
-  - '[[_Standards/WikiData/WD~Ambroise-Auguste_Liébeault,767213]]'
-  - '[[_Standards/WikiData/WD~Alois_Pokorný,2839202]]'
-  - '[[_Standards/WikiData/WD~Jean-Martin_Charcot,20710]]'
-  - '[[_Standards/WikiData/WD~Theodor_Meynert,62972]]'
+- '[[_Standards/WikiData/WD~Ernst_Wilhelm_von_Brücke,72374]]'
+- '[[_Standards/WikiData/WD~Carl_Friedrich_Wilhelm_Claus,112156]]'
+- '[[_Standards/WikiData/WD~Ambroise-Auguste_Liébeault,767213]]'
+- '[[_Standards/WikiData/WD~Alois_Pokorný,2839202]]'
+- '[[_Standards/WikiData/WD~Jean-Martin_Charcot,20710]]'
+- '[[_Standards/WikiData/WD~Theodor_Meynert,62972]]'
 subreddit: Freud
 Wolfram_Language_entity_code: Entity["Person", "SigmundFreud::37qr9"]
 work_location:
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
+dv_has_:
+  name_:
+    af: Sigmund Freud
+    am: ፍሮይድ
+    an: Sigmund Freud
+    ar: سيغموند فرويد
+    arc: ܙܝܓܡܘܢܕ ܦܪܘܝܕ
+    ary: زيڭموند فرويد
+    arz: سيجموند فرويد
+    as: চিগ্মণ্ড ফ্ৰয়েড
+    ast: Sigmund Freud
+    ay: Sigmund Freud
+    az: Ziqmund Freyd
+    azb: زیقموند فروید
+    ba: Зигмунд Фрейд
+    bar: Sigmund Freud
+    bcl: Sigmund Freud
+    be: Зігмунд Фрэйд
+    be-tarask: Зыгмунд Фройд
+    bew: Sigmun Peroid
+    bg: Зигмунд Фройд
+    bho: सिगमंड फ्रायड
+    bjn: Sigmund Freud
+    bn: সিগমুন্ড ফ্রয়েড
+    br: Sigmund Freud
+    bs: Sigmund Freud
+    btm: Sigmund Freud
+    bxr: Зигмунд Фройд
+    ca: Sigmund Freud
+    cdo: Să̤-gáh-mūng Hók-lèu-dáik
+    ce: Фрейд, Зигмунд
+    chr: ᏏᎩᎹᏂᏗ ᎦᎶᎢᏗ
+    ckb: زیگمۆند فرۆید
+    co: Sigmund Freud
+    crh: Zigmund Freyd
+    cs: Sigmund Freud
+    cv: Зигмунд Фрейд
+    cy: Sigmund Freud
+    da: Sigmund Freud
+    de: Sigmund Freud
+    de-at: Sigmund Freud
+    diq: Sigmund Freud
+    el: Σίγκμουντ Φρόιντ
+    en: Sigmund Freud
+    en-ca: Sigmund Freud
+    en-gb: Sigmund Freud
+    en-us: Sigmund Freud
+    eo: Sigmund Freud
+    es: Sigmund Freud
+    et: Sigmund Freud
+    eu: Sigmund Freud
+    ext: Sigmund Freud
+    fa: زیگموند فروید
+    fi: Sigmund Freud
+    fo: Sigmund Freud
+    fr: Sigmund Freud
+    fur: Sigmund Freud
+    fy: Sigmund Freud
+    ga: Sigmund Freud
+    gan: 弗洛伊德
+    gcr: Sigmund Freud
+    gd: Sigmund Freud
+    gl: Sigmund Freud
+    gn: Sigmund Freud
+    gom: Sigmund Freud
+    gsw: Sigmund Freud
+    gv: Sigmund Freud
+    ha: Sigmund Freud
+    he: זיגמונד פרויד
+    hi: सिग्मुंड फ़्रोइड
+    hif: Sigmund Freud
+    hr: Sigmund Freud
+    ht: Sigmund Freud
+    hu: Sigmund Freud
+    hy: Զիգմունդ Ֆրոյդ
+    ia: Sigmund Freud
+    id: Sigmund Freud
+    ilo: Sigmund Freud
+    io: Sigmund Freud
+    is: Sigmund Freud
+    it: Sigmund Freud
+    ja: ジークムント・フロイト
+    jam: Sigmund Freud
+    jbo: zikmunt. freut.
+    jv: Sigmund Freud
+    ka: ზიგმუნდ ფროიდი
+    kaa: Sigmund Freud
+    kab: Sigmund Freud
+    kbp: Sigmund Freud
+    kk: Зигмунд Фрейд
+    kl: Sigmund Freud
+    km: ហ្រ្គេតស៊ីងមួន
+    kn: ಸಿಗ್ಮಂಡ್ ಫ್ರಾಯ್ಡ್
+    ko: 지그문트 프로이트
+    koi: Zigmund Freud
+    ku: Sigmund Freud
+    kw: Sigmund Freud
+    ky: Фрейд Зигмунд
+    la: Sigismundus Freud
+    lad: Sigmund Freud
+    lb: Sigmund Freud
+    lez: Зигмунд Фрейд
+    lfn: Sigmund Freud
+    li: Sigmund Freud
+    lij: Sigmund Freud
+    lmo: Sigmund Freud
+    lt: Zigmundas Froidas
+    lv: Zigmunds Freids
+    lzh: 弗洛伊德
+    mai: सिग्मंड फ्रायड
+    map-bms: Sigmund Freud
+    mg: Sigmund Freud
+    mk: Зигмунд Фројд
+    ml: സിഗ്മണ്ട് ഫ്രോയിഡ്
+    mn: Зигмунд Фрейд
+    mr: सिग्मुंड फ्रॉइड
+    ms: Sigmund Freud
+    mul: Sigmund Freud
+    mwl: Sigmund Freud
+    my: ဖရွိုက်၊ ဆစ်ဂမန်
+    myv: Зигмунд Фрейд
+    mzn: زیگموند فروید
+    nah: Sigmund Freud
+    nan: Sigmund Freud
+    nb: Sigmund Freud
+    nds: Sigmund Freud
+    nds-nl: Sigmund Freud
+    ne: सिग्मुन्ड फ्रायड
+    new: सिग्मंड फ्रायड
+    nl: Sigmund Freud
+    nn: Sigmund Freud
+    nrm: Sigmund Freud
+    oc: Sigmund Freud
+    or: ସିଗମଣ୍ଡ ଫ୍ରଏଡ଼
+    os: Зигмунд Фрейд
+    pa: ਸਿਗਮੰਡ ਫ਼ਰਾਇਡ
+    pag: Sigmund Freud
+    pam: Sigmund Freud
+    pap: Sigmund Freud
+    pcm: Sigmund Freud
+    pl: Sigmund Freud
+    pms: Sigmund Freud
+    pnb: سگمنڈ فرائیڈ
+    ps: سېګمونډ فرايډ
+    qu: Sigmund Freud
+    ro: Sigmund Freud
+    ru: Зигмунд Фрейд
+    rue: Зіґмунд Фройд
+    rup: Sigmund Freud
+    sa: सिग्मण्ड् फ़्रुड्
+    sah: Зигмунд Фрейд
+    sat: ᱥᱤᱜᱽᱢᱩᱱᱰ ᱯᱷᱨᱩᱰ
+    sc: Sigmund Freud
+    scn: Sigmund Freud
+    sco: Sigmund Freud
+    sd: سگمنڊ فرائيڊ
+    se: Sigmund Freud
+    sgs: Zėgmonds Froids
+    sh: Sigmund Freud
+    shi: Sigmund Fruyd
+    si: සිග්මන්ඩ් ෆ්රොයිඩි
+    sk: Sigmund Freud
+    sl: Sigmund Freud
+    sq: Sigmund Freud
+    sr: Сигмунд Фројд
+    sr-ec: Сигмунд Фројд
+    sr-el: Sigmund Frojd
+    su: Sigmund Freud
+    sv: Sigmund Freud
+    sw: Sigmund Freud
+    szl: Sigmund Freud
+    szy: Si-ke-mung-de.fuo-luo-yi-de西格蒙德.佛洛伊德
+    ta: சிக்மண்ட் பிராய்ட்
+    te: సిగ్మండ్ ఫ్రాయిడ్
+    tg: Зигмунд Фруйд
+    th: ซีคมุนท์ ฟร็อยท์
+    tk: Sigmund Freyd
+    tl: Sigmund Freud
+    tok: jan Simun Po
+    tr: Sigmund Freud
+    ts: Sigmund Freud
+    tt: Zigmund Freyd
+    ug: فروئىد ۋە ئۆزلۈك
+    uk: Зигмунд Фройд
+    ur: سیگمنڈ فرائڈ
+    uz: Sigmund Freud
+    vep: Freid Zigmund
+    vi: Sigmund Freud
+    vo: Sigmund Freud
+    war: Sigmund Freud
+    wuu: 弗洛伊德
+    xmf: ზიგმუნდ ფროიდი
+    yi: זיגמונד פֿרױד
+    yo: Sigmund Freud
+    yue: 弗洛伊德
+    za: Sigmund Freud
+    zea: Sigmund Freud
+    zgh: ⵙⵉⴳⵎⵓⵏⴷ ⴼⵔⵓⵢⴷ
+    zh: 西格蒙德·弗洛伊德
+    zh-hans: 西格蒙德·弗洛伊德
+    zh-hant: 西格蒙德·弗洛伊德
+    zh-hk: 悉文·佛洛伊德
 ---
-
 # [[Freud,Sigmund]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sigmund_Freud,9215|WD~Sigmund_Freud,9215]] 

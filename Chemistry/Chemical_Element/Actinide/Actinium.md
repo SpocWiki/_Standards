@@ -1,51 +1,132 @@
 ---
 aliases:
-  - Actinium
+- Ac
+- achtainiam
+- actini
+- actinio
+- actiniu
+- Actinium
+- actiniwm
+- Actinyo
+- actínio
+- aghtinnium
+- Aktiinii
+- aktiinium
+- Aktiiniyaam
+- Aktini
+- Aktinii
+- aktinij
+- Aktinijum
+- aktinio
+- Aktiniom
+- aktinis
+- aktinium
+- aktiniumi
+- aktiniumo
+- Aktiniy
+- Aktiniòm
+- aktinju
+- Aktinyo
+- Aktinyu
+- Aktinyum
+- aktyn
+- Aktín
+- aktínium
+- aktīnijs
+- Akɩtɩnɩyɔm
+- Atini
+- attinio
+- Attiniu
+- Atìniu
+- IsAcagu
+- jinmrtaktini
+- laktinin
+- Àktíníọ̀m
+- ακτίνιο
+- Актіній
+- актиній
+- Актини
+- актинијум
+- актиний
+- актиниум
+- актын
+- актыній
+- ակտինիում
+- אקטיניום
+- آكتينيوم
+- آکټېنيوم
+- أكتينيوم
+- ئاكتىنىي
+- ئەکتینیۆم
+- اكتينيوم
+- ايڪٽينيئم
+- اکتینیم
+- ایکٹینیم
+- عیکٹنیئم
+- अॅक्टिनियम
+- एक्टिनियम
+- ऐक्टिनियम
+- অ্যাক্টিনিয়াম
+- એક્ટિનીયમ
+- ଆକ୍ଟିନିଅମ
+- அக்டினியம்
+- అక్టీనియం
+- ಆಕ್ಟಿನಿಯಮ್
+- ആക്റ്റിനിയം
+- แอกทิเนียม
+- ཨེག་ཊི་ནིམ།
+- အက်တီနီယမ်
+- აქტინიუმი
+- አክቲኒየም
+- アクチニウム
+- 錒
+- 锕
+- 악티늄
 has_id_wikidata: Q1121
 atomic_number: 89
-canonical_SMILES: "[Ac]"
+canonical_SMILES: '[Ac]'
 CAS_Registry_Number: 7440-34-8
 chemical_formula: Ac
 Commons_category: Actinium
 Commons_gallery: Actinium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification:
-  - 546.421
-  - 669.2921
-discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]"
+- 546.421
+- 669.2921
+discoverer_or_inventor: '[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]'
 DSSTOX_compound_identifier: DTXCID10147879
 electronegativity: 1.1
 element_symbol: Ac
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png
 InChI: InChI=1S/Ac
 InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 112
 ionization_energy:
-  - 1170
-  - 499
+- 1170
+- 499
 mass: 227.028
 MeSH_tree_code:
-  - D01.268.271.100.033
-  - D01.268.556.025
-  - D01.496.749.305.100.033
-  - D01.552.020.042
-  - D01.552.544.025
-named_after: "[[_Standards/WikiData/WD~light_beam,2493660]]"
+- D01.268.271.100.033
+- D01.268.556.025
+- D01.496.749.305.100.033
+- D01.552.020.042
+- D01.552.544.025
+named_after: '[[_Standards/WikiData/WD~light_beam,2493660]]'
 OmegaWiki_Defined_Meaning: 33
 oxidation_state: 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_3,108307]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828445,22828445]]"
+- '[[_Standards/WikiData/WD~group_3,108307]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg
 PubChem_CID: 23965
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg
@@ -56,21 +137,178 @@ Unicode_character: 錒
 UNII: NIK1K0956U
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Actinium,1121]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]"
-  part_of: "[[../Actinide]]"
+  - '[[../../../WikiData/WD~Actinium,1121]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]'
+  part_of: '[[../Actinide]]'
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Actinium
-    de: Actinium
     abbreviated: Ac
+    af: aktinium
+    am: አክቲኒየም
+    an: Actinio
+    anp: ऐक्टिनियम
+    ar: أكتينيوم
+    ary: آكتينيوم
+    arz: اكتينيوم
+    ast: actiniu
+    az: Aktinium
+    ban: Aktinium
+    bcl: Aktinyo
+    be: актыній
+    be-tarask: актын
+    bg: актиний
+    bho: एक्टिनियम
+    bn: অ্যাক্টিনিয়াম
+    bo: ཨེག་ཊི་ནིམ།
+    br: Aktiniom
+    bs: aktinij
+    ca: actini
+    cdo: Actinium
+    ceb: Actinyo
+    ckb: ئەکتینیۆم
+    co: Attiniu
+    cs: aktinium
+    cv: Актини
+    cy: actiniwm
+    da: actinium
+    de: Actinium
+    el: ακτίνιο
+    en: actinium
+    eo: aktinio
+    es: actinio
+    et: aktiinium
+    eu: aktinio
+    fa: اکتینیم
+    fi: aktinium
+    fr: actinium
+    frr: Aktiinium
+    fur: Atini
+    ga: achtainiam
+    gd: Actinium
+    gl: actinio
+    group: Actinide-Group
+    gu: એક્ટિનીયમ
+    gv: aghtinnium
+    hak: actinium
+    he: אקטיניום
+    hi: ऐक्टिनियम
+    hif: Actinium
+    hr: aktinij
+    ht: Aktiniòm
+    hu: aktínium
+    hy: ակտինիում
+    ia: actinium
+    id: aktinium
+    io: aktiniumo
+    is: Aktín
+    it: attinio
+    ja: アクチニウム
+    jbo: jinmrtaktini
+    jv: Aktinium
+    ka: აქტინიუმი
+    kbp: Akɩtɩnɩyɔm
+    kk: актиний
+    kn: ಆಕ್ಟಿನಿಯಮ್
+    ko: 악티늄
+    kv: Актиний
+    kw: Aktiniom
+    ky: Актиний
+    la: actinium
+    lb: Actinium
+    lfn: actinio
+    li: Actinium
+    lij: Attinio
+    lt: aktinis
+    lv: aktīnijs
+    lzh: 錒
+    mk: актиниум
+    ml: ആക്റ്റിനിയം
+    mn: актини
+    mr: अॅक्टिनियम
+    mrj: Актиний
+    ms: Aktinium
+    mt: aktinju
+    mul: Ac
+    my: အက်တီနီယမ်
+    nan: Actinium
+    nb: actinium
+    nds: Actinium
+    ne: एक्टिनियम
+    new: एक्टिनियम
+    nl: actinium
+    nn: actinium
+    nov: Aktinium
+    oc: actini
+    olo: Aktiinii
+    or: ଆକ୍ଟିନିଅମ
+    os: актиний
+    pag: Aktinyo
+    pi: एक्टिनियम
+    pl: aktyn
+    pms: Actini
+    pnb: ایکٹینیم
+    ps: آکټېنيوم
+    pt: actínio
+    pt-br: actínio
+    qu: Aktinyu
+    ro: actiniu
+    ru: актиний
+    rue: Актіній
+    rup: Actiniu
+    sa: एक्टिनियम
+    sah: Актиниум
+    sc: Atìniu
+    scn: attiniu
+    sd: ايڪٽينيئم
+    se: Aktinium
+    sh: Aktinijum
+    shi: Aktinyum
+    sk: aktínium
+    sl: aktinij
+    so: Aktiiniyaam
+    sq: aktiniumi
+    sr: актинијум
+    sr-ec: Актинијум
+    stq: Aktinium
+    sv: aktinium
+    sw: Aktini
+    ta: அக்டினியம்
+    te: అక్టీనియం
+    tg: Актиний
+    th: แอกทิเนียม
+    tl: Aktinyo
+    tr: aktinyum
+    tt: Актиний
+    udm: актиний
+    ug: ئاكتىنىي
+    uk: актиній
+    ur: عیکٹنیئم
+    uz: Aktiniy
+    vep: Aktinii
+    vi: actini
+    vo: laktinin
+    war: Actinyo
+    wuu: 锕
+    xal: Актиниум
+    yo: Àktíníọ̀m
+    yue: 錒
+    zh: 锕
+    zh-cn: 锕
+    zh-hans: 锕
+    zh-hant: 錒
+    zh-hk: 錒
+    zh-tw: 錒
+    zu: IsAcagu
+  number_of_:
+    period: 7
+    group: 3
+    electrons: 89
   value_for_:
     weight_:
       u: 227
@@ -98,21 +336,17 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 3
-    electrons: 89
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Actinium,1121]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]"
+- '[[../../../WikiData/WD~Actinium,1121]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]"
+dv_is_part_of: '[[../Actinide]]'
 dv_has_name_en: Actinium
 dv_has_name_de: Actinium
 dv_has_value_for_weight_u: 227
@@ -133,7 +367,6 @@ dv_has_number_of_group: 3
 dv_has_name_abbreviated: Ac
 dv_has_number_of_electrons: 89
 ---
-
 # [[Actinium]]
 
 #is_/same_as :: [[../../../WikiData/WD~Actinium,1121]] 

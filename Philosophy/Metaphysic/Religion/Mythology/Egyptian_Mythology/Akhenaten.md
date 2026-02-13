@@ -1,11 +1,158 @@
 ---
 aliases:
-  - Akhenaten
-  - Akhenaton
-  - Echnaton
-  - Amenophis IV
-  - Amenhotep IV
+- Ac'henaton
+- Acenaten
+- Achenaten
+- Achnaton
+- Akenaton
+- akenatyn
+- Akenatón
+- Akhenaten
+- Akhenaton
+- Akhenatón
+- Akhnaton
+- Amenhotep IV
+- Amenophis IV
+- Aquenáton
+- Aĥnaton
+- Echnaton
+- Echnatonas
+- Ehnaton
+- Ehnatons
+- Eknaton
+- Exnaton
+- Ακενατόν
+- Аменхотеп IV Ехнатон
+- Аменхотепи IV
+- Ехнатон
+- Эхнатон
+- Էխնաթոն
+- אחנתון, אמנחותפ ה-4
+- آخن آتون
+- آخناتون
+- أخناتون
+- ئیخناتون
+- اخناتون
+- ریان بن الولید
+- ریان بن ولید
+- अखेनातेन
+- আখেনাতেন
+- ਇਖ਼ਨਾਤੁਨ
+- அக்கெனதென்
+- ಆಕ್ನಾಟನ್
+- അഖ്നാതെൻ
+- අක්නාටන්
+- ฟาโรห์แอเคนาเทน
+- ამენჰოტეპ IV
+- ეხნატონი
+- ᱟᱠᱷᱮᱱᱟᱛᱮᱱ
+- アクエンアテン
+- 埃赫那吞
+- 阿肯那頓
+- 阿肯那顿
+- 아크나톤
 has_id_wikidata: Q81794
+dv_has_:
+  name_:
+    af: Achenaten
+    ar: أخناتون
+    arz: اخناتون
+    ast: Akenatón
+    az: Exnaton
+    azb: آخن آتون
+    be: Эхнатон
+    be-tarask: Эхнатон
+    bg: Ехнатон
+    bn: আখেনাতেন
+    br: Ac'henaton
+    bs: Ehnaton
+    ca: Akhenaton
+    ckb: ئیخناتون
+    cs: Achnaton
+    cv: Эхнатон
+    cy: Akhenaten
+    da: Akhenaton
+    de: Echnaton
+    el: Ακενατόν
+    en: Akhenaten
+    en-ca: Akhenaten
+    en-gb: Akhenaten
+    eo: Aĥnaton
+    es: Akenatón
+    et: Ehnaton
+    eu: Akenaton
+    fa: آخناتون
+    fi: Akhenaten
+    fr: Akhenaton
+    ga: Akhenaten
+    gl: Akhenatón
+    he: אחנתון, אמנחותפ ה-4
+    hi: अखेनातेन
+    hr: Eknaton
+    hu: Ehnaton
+    hy: Էխնաթոն
+    id: Akhenaten
+    io: Akhenaton
+    is: Akhenaten
+    it: Akhenaton
+    ja: アクエンアテン
+    jbo: akenatyn
+    ka: ამენჰოტეპ IV
+    kn: ಆಕ್ನಾಟನ್
+    ko: 아크나톤
+    ksh: Echnaton
+    ky: Эхнатон
+    la: Akhenaten
+    lfn: Acenaten
+    lt: Echnatonas
+    lv: Ehnatons
+    mg: Akhenaten
+    ml: അഖ്നാതെൻ
+    ms: Akhenaten
+    mwl: Aquenáton
+    nan: Akhenaten
+    nb: Akhnaton
+    nds: Echnaton
+    nds-nl: Akhenaten
+    new: अखेनातेन
+    nl: Achnaton
+    nn: Akhnaton
+    oc: Akhenaton
+    pa: ਇਖ਼ਨਾਤੁਨ
+    pl: Echnaton
+    pnb: ریان بن الولید
+    pt: Akhenaton
+    pt-br: Aquenáton
+    ro: Akhenaten
+    ru: Эхнатон
+    sat: ᱟᱠᱷᱮᱱᱟᱛᱮᱱ
+    scn: Akhenaton
+    sco: Akhenaten
+    sd: اخناتون
+    sh: Akhenaton
+    si: අක්නාටන්
+    sk: Achnaton
+    sl: Ehnaton
+    sq: Akhenaten
+    sr: Ехнатон
+    sv: Akhenaton
+    sw: Akhenaten
+    ta: அக்கெனதென்
+    tg: Аменхотепи IV
+    th: ฟาโรห์แอเคนาเทน
+    tl: Akhenaten
+    tr: Akhenaton
+    uk: Аменхотеп IV Ехнатон
+    ur: ریان بن ولید
+    uz: Exnaton
+    vi: Akhenaton
+    war: Akhenaten
+    wuu: 阿肯那顿
+    xmf: ეხნატონი
+    yo: Akhenaten
+    yue: 阿肯那頓
+    zh: 阿肯那顿
+    zh-cn: 埃赫那吞
 ---
 # [[Akhenaten]] 
 

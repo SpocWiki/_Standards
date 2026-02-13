@@ -1,21 +1,87 @@
 ---
 aliases:
-  - enormous theorem
-  - Classification_of_finite_simple_Groups
-  - Classification of finite simple Groups
+- clasificación dos grupos simples finitos
+- clasificarea grupurilor simple finite
+- classificatie van eindige enkelvoudige groepen
+- classification des groupes simples finis
+- Classification of finite simple Groups
+- Classification_of_finite_simple_Groups
+- Classificazione dei gruppi semplici finiti
+- classificação dos grupos simples finitos
+- enormous theorem
+- klasifikace jednoduchých konečných grup
+- klasifikacija finitnih enostavnih grup
+- Klasifikacija konačnih prostih grupa
+- klasifikasi grup sederhana hingga
+- klasifiko de finiaj simplaj grupoj
+- Klassifikationssatz der endlichen einfachen Gruppen
+- Klasyfikacja skończonych grup prostych
+- Phân loại nhóm đơn hữu hạn
+- Sonlu basit grupların sınıflandırılması
+- Talde sinple finitoen sailkapena
+- Teorema de clasificación de grupos simples
+- teorema de classificació de grups simples finits
+- véges egyszerű csoportok osztályozása
+- Äärellisten yksinkertaisten ryhmien luokittelu
+- Ταξινόμηση πεπερασμένων απλών ομάδων
+- Классификация простых конечных групп
+- клясифікація простих скінченних груп
+- клясыфікацыя простых канчатковых групаў
+- משפט המיון לחבורות פשוטות סופיות
+- تصنيف الزمر المنتهية البسيطة
+- متناہی گروہ کی مکمل جماعت بندی
+- 有限単純群の分類
+- 有限單群分類
+- 有限簡單羣分類
 has_id_wikidata: Q1340623
 instance_of:
-  - '[[_Standards/WikiData/WD~theorem,65943]]'
-  - '[[_Standards/WikiData/WD~classification,13582682]]'
+- '[[_Standards/WikiData/WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~classification,13582682]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~category_theory,217413]]'
-  - '[[_Standards/WikiData/WD~group_theory,874429]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~group_theory,874429]]'
 part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 items_classified: '[[_Standards/WikiData/WD~finite_simple_group,45033382]]'
 main_subject: '[[_Standards/WikiData/WD~finite_simple_group,45033382]]'
+dv_has_:
+  name_:
+    ar: تصنيف الزمر المنتهية البسيطة
+    ast: Teorema de clasificación de grupos simples
+    be-tarask: клясыфікацыя простых канчатковых групаў
+    ca: teorema de classificació de grups simples finits
+    cs: klasifikace jednoduchých konečných grup
+    de: Klassifikationssatz der endlichen einfachen Gruppen
+    el: Ταξινόμηση πεπερασμένων απλών ομάδων
+    en: classification of finite simple groups
+    en-ca: Classification of finite simple groups
+    en-gb: Classification of finite simple groups
+    eo: klasifiko de finiaj simplaj grupoj
+    es: Teorema de clasificación de grupos simples
+    eu: Talde sinple finitoen sailkapena
+    fi: Äärellisten yksinkertaisten ryhmien luokittelu
+    fr: classification des groupes simples finis
+    gl: clasificación dos grupos simples finitos
+    he: משפט המיון לחבורות פשוטות סופיות
+    hu: véges egyszerű csoportok osztályozása
+    id: klasifikasi grup sederhana hingga
+    it: Classificazione dei gruppi semplici finiti
+    ja: 有限単純群の分類
+    nl: classificatie van eindige enkelvoudige groepen
+    pl: Klasyfikacja skończonych grup prostych
+    pt: classificação dos grupos simples finitos
+    pt-br: Classificação dos grupos simples finitos
+    ro: clasificarea grupurilor simple finite
+    ru: Классификация простых конечных групп
+    sl: klasifikacija finitnih enostavnih grup
+    sr: Klasifikacija konačnih prostih grupa
+    tr: Sonlu basit grupların sınıflandırılması
+    uk: клясифікація простих скінченних груп
+    ur: متناہی گروہ کی مکمل جماعت بندی
+    vi: Phân loại nhóm đơn hữu hạn
+    yue: 有限簡單羣分類
+    zh: 有限單群分類
 ---
-
 # [[Classification_of_finite_simple_Groups]] 
 
 #is_/same_as :: [[../../WikiData/WD~Classification_of_finite_simple_groups,1340623|WD~Classification_of_finite_simple_groups,1340623]] 

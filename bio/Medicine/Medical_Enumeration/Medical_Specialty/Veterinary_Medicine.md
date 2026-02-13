@@ -1,35 +1,115 @@
 ---
 aliases:
+- Albaitaritza
+- Albeitería
+- baytarlıq
+- Bheataireachd
+- diergeneeskunde
+- dýralæknisfræði
+- elleetalhâstieđâ
+- eläinlääketiede
+- Eläjäarstitiidüs
+- jieʹllitaalkâstiõđ
+- kedokteran hewan
+- medicina veterinari
+- Medicina veterinaria
+- medicina veterinária
+- medicină veterinară
+- medisinerezh al loened
+- medycyna weterynaryjna
+- misikeke soweli
+- médecine vétérinaire
+- mātauranga hauora kararehe
+- Perubatan veterinar
+- Siū-i-ha̍k
+- Tamadrsgnaft
+- thú y
+- tréidliacht
+- Tıbê veterineri
+- Uywana hampiy
+- Veeartsenykundige medisyne
+- Veterina
+- veterinaaria
+- veterinara medicino
+- Veterinarala medicino
+- veterinaria
+- Veterinarija
+- Veterinariya
+- veterinarska medicina
+- veterinary medicine
+- Veterinarya
+- veteriner hekimliği
+- veterinària
+- veterináramedisiidna
+- veterinárna medicína
+- veterinární lékařství
+- Veterinärmedezin
+- veterinärmedicin
+- Veterinärmedizin
+- veterinærmedicin
+- veterinærmedisin
+- veterinārmedicīna
+- Veterïnarïya
+- Weterinarnô medicyna
+- állatorvostan
+- Årtisyince
+- κτηνιατρική
+- ветерина
+- ветеринарія
+- Ветеринария
+- Ветеринарна медицина
+- ветеринарная медицина
+- ветэрынарыя
+- вэтэрынарыя
+- անասնաբուժութիւն
+- անասնաբուժություն
+- רפואה וטרינרית
+- د څارويو درمل
+- دامپزشکی
+- طب بيطري
+- طب حیوانات
+- پزیشکیی ئاژەڵ
+- ۆەتەرىينارىييا
+- पशु चिकित्सा विज्ञान
+- প্রাণি চিকিৎসাবিজ্ঞান
+- விலங்கு மருத்துவம்
+- വെറ്ററിനറി
+- ვეტერინარია
+- 兽医学
+- 獣医学
+- 獸醫學
+- 獸醫科
+- 수의학
 has_id_wikidata: Q170201
-Dewey_Decimal_Classification: "636.089"
+Dewey_Decimal_Classification: 636.089
 practiced_by:
-  - "[[_Standards/WikiData/WD~veterinarian,202883]]"
-  - "[[_Standards/WikiData/WD~paraveterinary_worker,61341]]"
+- '[[_Standards/WikiData/WD~veterinarian,202883]]'
+- '[[_Standards/WikiData/WD~paraveterinary_worker,61341]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~medical_specialty,930752]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-part_of: "[[_Standards/WikiData/WD~zootechnics,600846]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+part_of: '[[_Standards/WikiData/WD~zootechnics,600846]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-symptoms_and_signs: "[[_Standards/WikiData/WD~animal_disease,9190427]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~animal_disease,9190427]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~animal_care,21012419]]"
-  - "[[_Standards/WikiData/WD~veterinary_science,110245063]]"
-  - "[[_Standards/WikiData/WD~medicine,11190]]"
-different_from: "[[_Standards/WikiData/WD~comparative_medicine,22907418]]"
-uses: "[[_Standards/WikiData/WD~non_human_animal,24249370]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Veterinary_medicine,42351261]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_veterinary_medicine,61677688]]"
-Basisklassifikation: "46"
-IAB_code: "430"
-U_S_National_Archives_Identifier: "10642596"
-Merchant_Category_Code: "0742"
+- '[[_Standards/WikiData/WD~animal_care,21012419]]'
+- '[[_Standards/WikiData/WD~veterinary_science,110245063]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+different_from: '[[_Standards/WikiData/WD~comparative_medicine,22907418]]'
+uses: '[[_Standards/WikiData/WD~non_human_animal,24249370]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Veterinary_medicine,42351261]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_veterinary_medicine,61677688]]'
+Basisklassifikation: 46
+IAB_code: 430
+U_S_National_Archives_Identifier: 10642596
+Merchant_Category_Code: 0742
 OKRB_011_2022_code: 5-04-0841-01
 Colon_Classification: KX
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20468.jpg
@@ -41,8 +121,116 @@ Wolfram_Language_entity_code: Entity["Concept", "VeterinaryMedicine::429c7"]
 MeSH_tree_code: H02.956
 Commons_gallery: Veterinary medicine
 Commons_category: Veterinary medicine
+dv_has_:
+  name_:
+    af: Veeartsenykundige medisyne
+    an: Albeitería
+    ar: طب بيطري
+    ast: Medicina veterinaria
+    az: baytarlıq
+    ba: Ветеринария
+    be: ветэрынарыя
+    be-tarask: вэтэрынарыя
+    bg: Ветеринарна медицина
+    bn: প্রাণি চিকিৎসাবিজ্ঞান
+    br: medisinerezh al loened
+    bs: veterinarska medicina
+    ca: veterinària
+    ckb: پزیشکیی ئاژەڵ
+    cs: veterinární lékařství
+    csb: Weterinarnô medicyna
+    da: veterinærmedicin
+    de: Veterinärmedizin
+    diq: Tıbê veterineri
+    el: κτηνιατρική
+    en: veterinary medicine
+    eo: veterinara medicino
+    es: veterinaria
+    et: veterinaaria
+    eu: Albaitaritza
+    fa: دامپزشکی
+    fi: eläinlääketiede
+    fr: médecine vétérinaire
+    ga: tréidliacht
+    gd: Bheataireachd
+    gl: veterinaria
+    he: רפואה וטרינרית
+    hi: पशु चिकित्सा विज्ञान
+    hr: Veterina
+    hu: állatorvostan
+    hy: անասնաբուժություն
+    hyw: անասնաբուժութիւն
+    ia: medicina veterinari
+    id: kedokteran hewan
+    io: Veterinarala medicino
+    is: dýralæknisfræði
+    it: veterinaria
+    ja: 獣医学
+    ka: ვეტერინარია
+    kk: Ветеринария
+    kk-arab: ۆەتەرىينارىييا
+    kk-cn: ۆەتەرىينارىييا
+    kk-cyrl: Ветеринария
+    kk-kz: Ветеринария
+    kk-latn: Veterïnarïya
+    kk-tr: Veterïnarïya
+    ko: 수의학
+    ky: Ветеринария
+    la: Medicina veterinaria
+    lb: Veterinärmedezin
+    lmo: Veterinaria
+    lt: Veterinarija
+    lv: veterinārmedicīna
+    mi: mātauranga hauora kararehe
+    mk: ветерина
+    ml: വെറ്ററിനറി
+    ms: Perubatan veterinar
+    nan: Siū-i-ha̍k
+    nb: veterinærmedisin
+    nl: diergeneeskunde
+    nn: veterinærmedisin
+    pl: medycyna weterynaryjna
+    ps: د څارويو درمل
+    pt: medicina veterinária
+    qu: Uywana hampiy
+    ro: medicină veterinară
+    ru: ветеринарная медицина
+    se: veterináramedisiidna
+    sh: veterinarska medicina
+    shi: Tamadrsgnaft
+    sk: veterinárna medicína
+    sl: veterinarska medicina
+    smn: elleetalhâstieđâ
+    sms: jieʹllitaalkâstiõđ
+    sq: Veterinaria
+    sr: ветерина
+    sr-ec: ветерина
+    sr-el: veterina
+    sv: veterinärmedicin
+    ta: விலங்கு மருத்துவம்
+    tg: Ветеринария
+    tg-latn: Veterinarija
+    tok: misikeke soweli
+    tr: veteriner hekimliği
+    tt: ветеринария
+    tyv: Ветеринария
+    uk: ветеринарія
+    ur: طب حیوانات
+    uz: Veterinariya
+    vi: thú y
+    vro: Eläjäarstitiidüs
+    wa: Årtisyince
+    war: Veterinarya
+    wuu: 兽医学
+    yue: 獸醫科
+    zh: 兽医学
+    zh-cn: 兽医学
+    zh-hans: 兽医学
+    zh-hant: 獸醫學
+    zh-hk: 獸醫學
+    zh-sg: 兽医学
+    zh-tw: 獸醫學
 ---
-
 # [[Veterinary_Medicine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Veterinary_medicine,170201|WD~Veterinary_medicine,170201]]  

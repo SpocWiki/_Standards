@@ -1,65 +1,108 @@
 ---
 aliases:
-  - Rafael_Nadal
-  - Rafael Nadal Parera, 1st Marquess of Llevant de Mallorca
-  - Rafael Nadal Parera
-  - Rafa Nadal
-  - Nadal
-  - Rafael Nadal
-  - Nadal,Rafael
+- Nadal
+- Nadal,Rafael
+- Rafa Nadal
+- Rafael Nadal
+- Rafael Nadal i Parera
+- Rafael Nadal Parera
+- Rafael Nadal Parera, 1st Marquess of Llevant de Mallorca
+- Rafaels Nadals
+- Rafael_Nadal
+- Raphaël Nadal
+- Ραφαέλ Ναδάλ
+- Рафаел Надал
+- Рафаель Надаль
+- Рафаэл Надал
+- Рафаэль Надаль
+- Ռաֆայել Նադալ
+- ראפאעל נאדאל
+- רפאל נדאל
+- رافائل نادال
+- رافاييل نادال
+- رافاييل ناضال
+- رافیل ندال
+- رافیل نڈال
+- رَفایل نَڈال
+- ڕافایێل نادال
+- रफ़ाएल नडाल
+- रफाएल नडाल
+- रफाएल नाडाल
+- रफायेल नदाल
+- राफेल् नडाल्
+- রাফায়েল নাদাল
+- ৰাফেল নাডাল
+- ਰਾਫੇਲ ਨਡਾਲ
+- રફેલ નડાલ
+- ରାଫେଲ ନାଦାଲ
+- ரஃபேல் நடால்
+- రాఫెల్ నాదల్
+- ರಾಫೆಲ್ ನಡಾಲ್
+- റാഫേൽ നദാൽ
+- රෆායෙල් නාඩල්
+- ราฟาเอล นาดัล
+- ຣາຟາເອລ ນາດາລ
+- ရာဖယ် နာဒယ်
+- რაფაელ ნადალი
+- ラファエル・ナダル
+- 拉斐·拿度
+- 拉斐尔·纳达尔
+- 拉斐爾·納達爾
+- 拿度
+- 라파엘 나달
 has_id_wikidata: Q10132
 head_coach:
-  - '[[_Standards/WikiData/WD~Carlos_Moyá,193361]]'
-  - '[[_Standards/WikiData/WD~Marc_López,369866]]'
-  - '[[_Standards/WikiData/WD~Francisco_Roig,773531]]'
-  - '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
+- '[[_Standards/WikiData/WD~Carlos_Moyá,193361]]'
+- '[[_Standards/WikiData/WD~Marc_López,369866]]'
+- '[[_Standards/WikiData/WD~Francisco_Roig,773531]]'
+- '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
 relative:
-  - '[[_Standards/WikiData/WD~Miguel_Ángel_Nadal,311200]]'
-  - '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
-  - '[[_Standards/WikiData/WD~Rafael_Nadal_Nadal,11944441]]'
+- '[[_Standards/WikiData/WD~Miguel_Ángel_Nadal,311200]]'
+- '[[_Standards/WikiData/WD~Toni_Nadal,2118577]]'
+- '[[_Standards/WikiData/WD~Rafael_Nadal_Nadal,11944441]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~anxiety_disorder,544006]]'
-  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+- '[[_Standards/WikiData/WD~anxiety_disorder,544006]]'
+- '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 member_of_sports_team: '[[_Standards/WikiData/WD~Spain_Davis_Cup_team,586825]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-  - '[[_Standards/WikiData/WD~Best_Game_ESPY_Award,4896676]]'
-  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
-  - '[[_Standards/WikiData/WD~Best_Male_Athlete_ESPY_Award,4896724]]'
-  - '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Best_Game_ESPY_Award,4896676]]'
+- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+- '[[_Standards/WikiData/WD~Best_Male_Athlete_ESPY_Award,4896724]]'
+- '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
-  - '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
-  - '[[_Standards/WikiData/WD~Spanish_Order_of_the_Police_Merit,6052174]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_of_the_Royal_Order_of_Sports_Merit,30860334]]'
-  - '[[_Standards/WikiData/WD~Adopted_Son_of_Madrid,34477422]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_of_Work_Merit,39946570]]'
-  - '[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Breakthrough_of_the_Year,680221]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Comeback_of_the_Year,918534]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+- '[[_Standards/WikiData/WD~Best_Male_Tennis_Player_ESPY_Award,4896731]]'
+- '[[_Standards/WikiData/WD~Spanish_Order_of_the_Police_Merit,6052174]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_the_Royal_Order_of_Sports_Merit,30860334]]'
+- '[[_Standards/WikiData/WD~Adopted_Son_of_Madrid,34477422]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_Work_Merit,39946570]]'
+- '[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~left_handedness,789447]]'
-  - '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
+- '[[_Standards/WikiData/WD~left_handedness,789447]]'
+- '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 different_from: '[[_Standards/WikiData/WD~Rafael_Natal,3787304]]'
 occupation:
-  - '[[_Standards/WikiData/WD~model,4610556]]'
-  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+- '[[_Standards/WikiData/WD~model,4610556]]'
+- '[[_Standards/WikiData/WD~tennis_player,10833314]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Rafael_Nadal,14449066]]'
 given_name: '[[_Standards/WikiData/WD~Rafael,16424000]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 family_name: '[[_Standards/WikiData/WD~Nadal,21449215]]'
 father: '[[_Standards/WikiData/WD~Sebastià_Nadal,21850043]]'
 sibling: '[[_Standards/WikiData/WD~María_Isabel_Nadal,21850046]]'
@@ -70,25 +113,25 @@ child: '[[_Standards/WikiData/WD~Q135190952,135190952]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Rafael_Nadal_(duplicate_page),135993101]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Catalan,7026]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Catalan,7026]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
-  - '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
+- '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
+- '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
 native_language: '[[_Standards/WikiData/WD~Catalan,7026]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
 country_for_sport: '[[_Standards/WikiData/WD~Spain,29]]'
 ranking:
-  - 1
-  - 26
-  - 145
+- 1
+- 26
+- 145
 mass: 85
 height: 185
 social_media_followers:
-  - 22200
-  - 15803849
+- 22200
+- 15803849
 competition_won: '[[_Standards/WikiData/WD~French_Open,43605]]'
 place_of_birth: '[[_Standards/WikiData/WD~Manacor,49567]]'
 residence: '[[_Standards/WikiData/WD~Manacor,49567]]'
@@ -108,20 +151,193 @@ Facebook_username: Nadal
 Instagram_username: rafaelnadal
 X_Twitter_username: RafaelNadal
 name_in_native_language:
-  - Rafael Nadal i Parera
-  - Rafael Nadal
+- Rafael Nadal i Parera
+- Rafael Nadal
 birth_name: Rafael Nadal i Parera
 nickname:
-  - Stier aus Manacor
-  - Rafa
-  - taureau de Manacor
+- Stier aus Manacor
+- Rafa
+- taureau de Manacor
 date_of_birth: 1986-06-03T00:00:00Z
 work_period_start_: 2001-01-01T00:00:00Z
 work_period_end_:
-  - 2024-01-01T00:00:00Z
-  - 2024-11-20T00:00:00Z
+- 2024-01-01T00:00:00Z
+- 2024-11-20T00:00:00Z
+dv_has_:
+  name_:
+    af: Rafael Nadal
+    an: Rafael Nadal
+    ar: رافاييل نادال
+    ary: رافاييل ناضال
+    arz: رافاييل نادال
+    as: ৰাফেল নাডাল
+    ast: Rafael Nadal
+    az: Rafael Nadal
+    azb: رافائل نادال
+    ba: Рафаэль Надаль
+    bar: Rafael Nadal
+    bcl: Rafael Nadal
+    be: Рафаэль Надаль
+    be-tarask: Рафаэль Надаль
+    bg: Рафаел Надал
+    bn: রাফায়েল নাদাল
+    br: Rafael Nadal
+    bs: Rafael Nadal
+    bug: Rafael Nadal
+    bxr: Рафаэль Надаль
+    ca: Rafael Nadal i Parera
+    ceb: Rafael Nadal
+    ckb: ڕافایێل نادال
+    co: Rafael Nadal
+    cs: Rafael Nadal
+    cv: Рафаэль Надаль
+    cy: Rafael Nadal
+    da: Rafael Nadal
+    de: Rafael Nadal
+    de-ch: Rafael Nadal
+    diq: Rafael Nadal
+    dsb: Rafael Nadal
+    el: Ραφαέλ Ναδάλ
+    eml: Rafael Nadal
+    en: Rafael Nadal
+    en-ca: Rafael Nadal
+    en-gb: Rafael Nadal
+    eo: Rafael Nadal
+    es: Rafael Nadal
+    et: Rafael Nadal
+    eu: Rafael Nadal
+    ext: Rafael Nadal
+    fa: رافائل نادال
+    fi: Rafael Nadal
+    fit: Rafael Nadal
+    fo: Rafael Nadal
+    fr: Rafael Nadal
+    frr: Rafael Nadal
+    fy: Rafael Nadal
+    ga: Rafael Nadal
+    gd: Rafael Nadal
+    gl: Rafael Nadal
+    gsw: Rafael Nadal
+    gu: રફેલ નડાલ
+    gv: Rafael Nadal
+    ha: Rafael Nadal
+    haw: Rafael Nadal
+    he: רפאל נדאל
+    hi: रफ़ाएल नडाल
+    hr: Rafael Nadal
+    hsb: Rafael Nadal
+    ht: Rafael Nadal
+    hu: Rafael Nadal
+    hy: Ռաֆայել Նադալ
+    id: Rafael Nadal
+    ie: Rafael Nadal
+    ig: Rafael Nadal
+    io: Rafael Nadal
+    is: Rafael Nadal
+    it: Rafael Nadal
+    ja: ラファエル・ナダル
+    jam: Rafael Nadal
+    jv: Rafael Nadal
+    ka: რაფაელ ნადალი
+    kaa: Rafael Nadal
+    kab: Rafael Nadal
+    kk: Рафаэль Надаль
+    kn: ರಾಫೆಲ್ ನಡಾಲ್
+    ko: 라파엘 나달
+    ks: رَفایل نَڈال
+    ku: Rafael Nadal
+    la: Raphaël Nadal
+    lb: Rafael Nadal
+    lo: ຣາຟາເອລ ນາດາລ
+    lt: Rafael Nadal
+    lv: Rafaels Nadals
+    mai: रफाएल नडाल
+    mg: Rafael Nadal
+    mhr: Рафаэль Надаль
+    min: Rafael Nadal
+    mk: Рафаел Надал
+    ml: റാഫേൽ നദാൽ
+    mn: Рафаэл Надал
+    mr: रफायेल नदाल
+    ms: Rafael Nadal
+    mt: Rafael Nadal
+    mul: Rafael Nadal
+    mwl: Rafael Nadal
+    my: ရာဖယ် နာဒယ်
+    mzn: رافائل نادال
+    nan: Rafael Nadal
+    nap: Rafael Nadal
+    nb: Rafael Nadal
+    nds: Rafael Nadal
+    ne: रफाएल नाडाल
+    nl: Rafael Nadal
+    nn: Rafael Nadal
+    ny: Rafael Nadal
+    oc: Rafael Nadal
+    or: ରାଫେଲ ନାଦାଲ
+    os: Рафаэль Надаль
+    pa: ਰਾਫੇਲ ਨਡਾਲ
+    pam: Rafael Nadal
+    pap: Rafael Nadal
+    pl: Rafael Nadal
+    pnb: رافیل ندال
+    ps: Rafael Nadal
+    pt: Rafael Nadal
+    pt-br: Rafael Nadal
+    qu: Rafael Nadal
+    rm: Rafael Nadal
+    rmf: Rafael Nadal
+    ro: Rafael Nadal
+    ru: Рафаэль Надаль
+    sa: राफेल् नडाल्
+    sah: Rafael Nadal
+    sc: Rafael Nadal
+    scn: Rafael Nadal
+    sco: Rafael Nadal
+    se: Rafael Nadal
+    sh: Rafael Nadal
+    si: රෆායෙල් නාඩල්
+    sjd: Рафаэль Надаль
+    sje: Rafael Nadal
+    sju: Rafael Nadal
+    sk: Rafael Nadal
+    sl: Rafael Nadal
+    sm: Rafael Nadal
+    sma: Rafael Nadal
+    smj: Rafael Nadal
+    smn: Rafael Nadal
+    sms: Rafael Nadal
+    sq: Rafael Nadal
+    sr: Рафаел Надал
+    st: Rafael Nadal
+    sv: Rafael Nadal
+    sw: Rafael Nadal
+    ta: ரஃபேல் நடால்
+    te: రాఫెల్ నాదల్
+    tg: 拿度
+    th: ราฟาเอล นาดัล
+    tk: Rafael Nadal
+    tl: Rafael Nadal
+    tr: Rafael Nadal
+    tt: Rafael Nadal
+    ug: Rafael Nadal
+    uk: Рафаель Надаль
+    ur: رافیل نڈال
+    uz: Rafael Nadal
+    vi: Rafael Nadal
+    vls: Rafael Nadal
+    wa: Rafael Nadal
+    wuu: 拉斐尔·纳达尔
+    xmf: რაფაელ ნადალი
+    yi: ראפאעל נאדאל
+    yo: Rafael Nadal
+    yue: 拿度
+    zh: 拉斐尔·纳达尔
+    zh-hans: 拉斐尔·纳达尔
+    zh-hant: 拉斐爾·納達爾
+    zh-hk: 拉斐·拿度
+    zh-tw: 拉斐爾·納達爾
 ---
-
 # [[Nadal,Rafael]] 
 
 #is_/same_as :: [[WD~Rafael_Nadal,10132]] 

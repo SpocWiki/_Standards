@@ -1,27 +1,171 @@
 ---
 aliases:
+- Blokkiesraaisel
+- croesair
+- crosfhocal
+- crossword
+- crucigrama
+- Crucigramma
+- cuvinte încrucișate
+- Encrucillado
+- Fjalëkryqi
+- Gerioù-kroaz
+- Hitz gurutzatuak
+- Kare bulmaca
+- keresztrejtvény
+- Kitjata arunaka
+- korsord
+- Kreuzworträtsel
+- Križaljka
+- križanka
+- Krossgáta
+- Krossvord
+- krucvortenigmo
+- kruiswoordpuzzel
+- Krustvārdu mīkla
+- Krusword
+- krydsordsopgave
+- kryssord
+- Kryžiažodis
+- Krzyżówka
+- Krížovka
+- Krúswurdpuzel
+- křížovka
+- mots croisés
+- mots encreuats
+- palavras cruzadas
+- Parole crociate
+- Pulongbay
+- Ristsõnad
+- sanaristikko
+- Si̍p-jī-gú
+- Tarucing cakra
+- Teka-teki silang
+- Trò chơi ô chữ
+- ukrštene reči
+- Ñe’ẽkurusu
+- Σταυρόλεξο
+- Красворд
+- кросворд
+- Кроссворд
+- крстозбор
+- Кръстословица
+- Сăмах каçмăш
+- укрштене речи
+- խաչբառ
+- תשבץ
+- جدول کلمات متقاطع
+- كلمات متقاطعة
+- वर्ग पहेली
+- শব্দছক
+- குறுக்கெழுத்துப் புதிர்
+- ಪದಬಂಧ
+- კროსვორდი
+- クロスワード・パズル
+- 填字游戏
+- 填字遊戲
+- 십자말
 has_id_wikidata: Q83207
-has_part_s_: "[[_Standards/WikiData/WD~grid,2020720]]"
-different_from: "[[_Standards/WikiData/WD~Fill_In,5448778]]"
-subclass_of: "[[_Standards/WikiData/WD~word_puzzle,15884100]]"
-practiced_by: "[[_Standards/WikiData/WD~crossword_creator,25493168]]"
-instance_of: "[[_Standards/WikiData/WD~hobby,47728]]"
-Nomenclature_for_Museum_Cataloging: "14287"
+has_part_s_: '[[_Standards/WikiData/WD~grid,2020720]]'
+different_from: '[[_Standards/WikiData/WD~Fill_In,5448778]]'
+subclass_of: '[[_Standards/WikiData/WD~word_puzzle,15884100]]'
+practiced_by: '[[_Standards/WikiData/WD~crossword_creator,25493168]]'
+instance_of: '[[_Standards/WikiData/WD~hobby,47728]]'
+Nomenclature_for_Museum_Cataloging: 14287
 IMDb_keyword: crossword-puzzle
-OmegaWiki_Defined_Meaning: "472366"
+OmegaWiki_Defined_Meaning: 472366
 Colon_Classification: MYP
 Commons_category: Crosswords
 subreddit: crossword
 image: http://commons.wikimedia.org/wiki/Special:FilePath/American%20crossword.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kruiswoordpuzzel-article.ogg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/06785654-n
-  - http://wordnet-rdf.princeton.edu/wn31/106721754-n
+- http://wordnet-rdf.princeton.edu/wn30/06785654-n
+- http://wordnet-rdf.princeton.edu/wn31/106721754-n
 Stack_Exchange_tag: https://stackoverflow.com/tags/crossword
 Google_Doodle: 100th-anniversary-of-the-crossword-puzzle
 Commons_gallery: Crossword
+dv_has_:
+  name_:
+    af: Blokkiesraaisel
+    ar: كلمات متقاطعة
+    ast: Crucigrama
+    ay: Kitjata arunaka
+    az: Krossvord
+    ba: Кроссворд
+    be: Красворд
+    be-tarask: Красворд
+    bg: Кръстословица
+    bn: শব্দছক
+    br: Gerioù-kroaz
+    bs: Križaljka
+    ca: mots encreuats
+    ceb: Pulongbay
+    cs: křížovka
+    cv: Сăмах каçмăш
+    cy: croesair
+    da: krydsordsopgave
+    de: Kreuzworträtsel
+    el: Σταυρόλεξο
+    en: crossword
+    en-ca: Crossword
+    en-gb: crossword
+    eo: krucvortenigmo
+    es: crucigrama
+    et: Ristsõnad
+    eu: Hitz gurutzatuak
+    fa: جدول کلمات متقاطع
+    fi: sanaristikko
+    fr: mots croisés
+    fy: Krúswurdpuzel
+    ga: crosfhocal
+    gl: Encrucillado
+    gn: Ñe’ẽkurusu
+    he: תשבץ
+    hi: वर्ग पहेली
+    hr: Križaljka
+    hu: keresztrejtvény
+    hy: խաչբառ
+    ia: Crucigramma
+    id: Teka-teki silang
+    is: Krossgáta
+    it: Parole crociate
+    ja: クロスワード・パズル
+    ka: კროსვორდი
+    kn: ಪದಬಂಧ
+    ko: 십자말
+    la: Crucigramma
+    lt: Kryžiažodis
+    lv: Krustvārdu mīkla
+    mk: крстозбор
+    nan: Si̍p-jī-gú
+    nb: kryssord
+    nl: kruiswoordpuzzel
+    nn: kryssord
+    pl: Krzyżówka
+    pt: palavras cruzadas
+    pt-br: Palavras cruzadas
+    ro: cuvinte încrucișate
+    ru: Кроссворд
+    sh: Križaljka
+    sk: Krížovka
+    sl: križanka
+    sq: Fjalëkryqi
+    sr: укрштене речи
+    sr-ec: укрштене речи
+    sr-el: ukrštene reči
+    su: Tarucing cakra
+    sv: korsord
+    ta: குறுக்கெழுத்துப் புதிர்
+    tr: Kare bulmaca
+    uk: кросворд
+    vi: Trò chơi ô chữ
+    war: Krusword
+    wuu: 填字游戏
+    yue: 填字遊戲
+    zh: 填字遊戲
+    zh-hk: 填字遊戲
 ---
-
 # [[Crossword]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Crossword,83207|WD~Crossword,83207]] 

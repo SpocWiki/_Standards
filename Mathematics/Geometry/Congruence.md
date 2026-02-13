@@ -1,21 +1,128 @@
 ---
-aliases: 
+aliases:
+- angles congruents
+- Chidzudzani
+- congruence
+- congruencia
+- Congruentia
+- congruentie
+- congruenza
+- Congruență
+- congruência
+- Cyfathiant
+- egybevágóság
+- Eşleşik
+- Kongruen
+- Kongruenca (gjeometri)
+- kongruens
+- Kongruentlik
+- Kongruentsus
+- Kongruentzia
+- Kongruenz
+- Kongruo
+- Podudarnost
+- Podudarnost (geometrija)
+- Przystawanie
+- serbasama
+- skladnost
+- Sukladnost
+- Tương đẳng
+- Yhtenevyys
+- Ángulos congruentes
+- Еднаквост на триъгълници
+- кангруэнтнасьць
+- Конгруентність
+- Конгруэнтлăх (геометри)
+- конгруэнтлыҡ
+- конгруэнтность
+- Конгруэнттілік
+- Складност
+- חפיפה
+- تطابق
+- همنهشتی
+- پێککەوتوویی
+- सर्वांगसमता
+- সর্বসমতা
+- சர்வசமம்
+- ထပ်တူညီခြင်း
+- 全等
+- 全等_(幾何)
+- 図形の合同
+- 합동
 has_id_wikidata: Q154210
 subclass_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~relation,203066]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~relation,203066]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-notation: "[[_Standards/WikiData/WD~_,87524561]]"
-studied_by: "[[_Standards/WikiData/WD~geometry,8087]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+notation: '[[_Standards/WikiData/WD~_,87524561]]'
+studied_by: '[[_Standards/WikiData/WD~geometry,8087]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quadrilateral%20congruence.png
 Unicode_character: ≅
 Commons_category: Congruence
+dv_has_:
+  name_:
+    ar: تطابق
+    ast: Ángulos congruentes
+    ba: конгруэнтлыҡ
+    be-tarask: кангруэнтнасьць
+    bg: Еднаквост на триъгълници
+    bn: সর্বসমতা
+    bs: Podudarnost
+    ca: angles congruents
+    ckb: پێککەوتوویی
+    cv: Конгруэнтлăх (геометри)
+    cy: Cyfathiant
+    da: Kongruens
+    de: Kongruenz
+    en: congruence
+    es: congruencia
+    et: Kongruentsus
+    eu: Kongruentzia
+    fa: همنهشتی
+    fi: Yhtenevyys
+    fr: congruence
+    gl: Congruencia
+    he: חפיפה
+    hi: सर्वांगसमता
+    hr: Sukladnost
+    hu: egybevágóság
+    id: Kongruen
+    io: Kongruo
+    it: congruenza
+    ja: 図形の合同
+    kk: Конгруэнттілік
+    ko: 합동
+    ksh: Kongruenz
+    la: Congruentia
+    lzh: 全等
+    mk: Складност
+    ms: serbasama
+    my: ထပ်တူညီခြင်း
+    nb: kongruens
+    nl: congruentie
+    pl: Przystawanie
+    pt: congruência
+    ro: Congruență
+    ru: конгруэнтность
+    sh: Podudarnost
+    sl: skladnost
+    sn: Chidzudzani
+    sq: Kongruenca (gjeometri)
+    sr: Podudarnost (geometrija)
+    sv: kongruens
+    ta: சர்வசமம்
+    tr: Eşleşik
+    uk: Конгруентність
+    uz: Kongruentlik
+    vi: Tương đẳng
+    wuu: 全等
+    yue: 全等
+    zh: 全等_(幾何)
 ---
-
 # [[Congruence]] 
 
 #is_/same_as :: [[../../WikiData/WD~Congruence,154210|WD~Congruence,154210]] 

@@ -1,27 +1,190 @@
 ---
 aliases:
-  - Stipendium
+- beasiswa
+- beca
+- beka
+- beurs
+- Biasiswa
+- bolsa de estudo
+- bolsa de estudos
+- borsa di studio
+- borsa ri studiu
+- Bourse
+- bourse d'études
+- burs
+- Bursa (financiare)
+- bursă de studii
+- bussa de istùdiu
+- học bổng
+- námslán
+- scholarship
+- scoláireacht
+- stiipeend
+- stipeanda
+- stipendi
+- Stipendija
+- stipendio
+- Stipendium
+- Stipendium scholasticum
+- stipeʹndd
+- stypendium
+- Stïpendïya
+- Təhsil təqaüdü
+- yalc'had
+- ysgoloriaeth
+- ösztöndíj
+- štipendija
+- Štipendium
+- υποτροφία
+- Идрор
+- стипендія
+- стипендија
+- стипендия
+- стыпендыя
+- стыпэндыя
+- מלגה
+- اسکالرشپ
+- اسڪالرشپ
+- بورس تحصیلی
+- تحصيلي بورس
+- ستىيپەندىييا
+- سکۆلەرشیپ
+- منحة دراسية
+- छात्रवृत्ति
+- शिष्यवृत्ती
+- শিক্ষাবৃত্তি
+- ਵਜੀਫਾ
+- ଛାତ୍ରବୃତ୍ତି
+- புலமைப்பரிசில்
+- ఉపకార వేతనాలు
+- ವಿದ್ಯಾರ್ಥಿವೇತನ
+- സ്കോളർഷിപ്പ്
+- නද
+- სტიპენდია
+- 奖学金
+- 奨学金
+- 獎學金
+- 장학금
 has_id_wikidata: Q188823
 described_by_source:
-  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~award,618779]]"
-  - "[[_Standards/WikiData/WD~stipend,10968259]]"
-  - "[[_Standards/WikiData/WD~training_support,70440043]]"
-  - "[[_Standards/WikiData/WD~educational_grant,118117097]]"
-instance_of: "[[_Standards/WikiData/WD~gift,707482]]"
-part_of: "[[_Standards/WikiData/WD~gifted_education,814279]]"
-used_by: "[[_Standards/WikiData/WD~scholarship_holder,12003277]]"
-different_from: "[[_Standards/WikiData/WD~Beurs,114346525]]"
+- '[[_Standards/WikiData/WD~award,618779]]'
+- '[[_Standards/WikiData/WD~stipend,10968259]]'
+- '[[_Standards/WikiData/WD~training_support,70440043]]'
+- '[[_Standards/WikiData/WD~educational_grant,118117097]]'
+instance_of: '[[_Standards/WikiData/WD~gift,707482]]'
+part_of: '[[_Standards/WikiData/WD~gifted_education,814279]]'
+used_by: '[[_Standards/WikiData/WD~scholarship_holder,12003277]]'
+different_from: '[[_Standards/WikiData/WD~Beurs,114346525]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2015%20SRNS%20Family%20Scholarships%20%2835559759033%29.jpg
-U_S_National_Archives_Identifier: "10641005"
+U_S_National_Archives_Identifier: 10641005
 Commons_category: Scholarships
 MeSH_tree_code: N03.219.483.838.276
+dv_has_:
+  name_:
+    ar: منحة دراسية
+    ast: beca
+    az: Təhsil təqaüdü
+    ba: стипендия
+    be: стыпендыя
+    be-tarask: стыпэндыя
+    bg: Стипендия
+    bn: শিক্ষাবৃত্তি
+    br: yalc'had
+    ca: beca
+    ckb: سکۆلەرشیپ
+    cs: stipendium
+    cy: ysgoloriaeth
+    da: stipendium
+    de: Stipendium
+    de-ch: Stipendium
+    el: υποτροφία
+    en: scholarship
+    en-ca: scholarship
+    en-gb: scholarship
+    eo: stipendio
+    es: beca
+    et: stipendium
+    eu: beka
+    fa: بورس تحصیلی
+    fi: stipendi
+    fr: bourse d'études
+    ga: scoláireacht
+    gl: bolsa de estudos
+    he: מלגה
+    hi: छात्रवृत्ति
+    hr: Stipendija
+    hu: ösztöndíj
+    id: beasiswa
+    io: stipendio
+    is: námslán
+    it: borsa di studio
+    ja: 奨学金
+    jv: Beasiswa
+    ka: სტიპენდია
+    kk: Стипендия
+    kk-arab: ستىيپەندىييا
+    kk-cn: ستىيپەندىييا
+    kk-cyrl: Стипендия
+    kk-kz: Стипендия
+    kk-latn: Stïpendïya
+    kk-tr: Stïpendïya
+    kn: ವಿದ್ಯಾರ್ಥಿವೇತನ
+    ko: 장학금
+    ky: Стипендия
+    la: Stipendium scholasticum
+    lb: Bourse
+    lt: stipendija
+    lv: Stipendija
+    mk: стипендија
+    ml: സ്കോളർഷിപ്പ്
+    mr: शिष्यवृत्ती
+    ms: Biasiswa
+    nb: stipendium
+    nl: beurs
+    or: ଛାତ୍ରବୃତ୍ତି
+    pa: ਵਜੀਫਾ
+    pl: stypendium
+    ps: تحصيلي بورس
+    pt: bolsa de estudo
+    pt-br: bolsa de estudo
+    ro: bursă de studii
+    ru: стипендия
+    sc: bussa de istùdiu
+    scn: borsa ri studiu
+    sco: scholarship
+    sd: اسڪالرشپ
+    se: stipeanda
+    si: නද
+    sk: Štipendium
+    sl: štipendija
+    smn: stiipeend
+    sms: stipeʹndd
+    sq: Bursa (financiare)
+    sr: Стипендија
+    sv: stipendium
+    ta: புலமைப்பரிசில்
+    te: ఉపకార వేతనాలు
+    tg: Идрор
+    tr: burs
+    uk: стипендія
+    ur: اسکالرشپ
+    uz: Scholarship
+    vi: học bổng
+    wuu: 奖学金
+    yue: 獎學金
+    zh: 獎學金
+    zh-cn: 奖学金
+    zh-hans: 奖学金
+    zh-hant: 獎學金
+    zh-hk: 獎學金
+    zh-sg: 奖学金
+    zh-tw: 獎學金
 ---
-
 # [[Scholarship]] 
 
 #is_/same_as :: [[WD~Scholarship,188823]] 

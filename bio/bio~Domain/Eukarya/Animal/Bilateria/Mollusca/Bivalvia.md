@@ -1,10 +1,184 @@
 ---
 aliases:
-  - Bivalvia
+- Bivalva
+- Bivalve
+- bivalves
+- Bivalvia
+- Bivalvo
+- Bivalvos
+- Chʼosh bitsʼaʼígíí
+- Cragen ddeuglawr
+- Daougleureged
+- Duvalvulo
+- Dvigeldžiai
+- débhlaoscach
+- gliemenes
+- Ikki pallalilar
+- kagylók
+- Karbid
+- Lakachu
+- Lastúrniky
+- małże
+- Midyeler
+- mlži
+- Muschelen
+- Muscheln
+- Muslingar
+- Muslinger
+- Musseln
+- Musslor
+- Mymba ijyta mokõi
+- Samlokur
+- Siang-khak-kong
+- simpukat
+- skjell
+- Thân mềm hai mảnh vỏ
+- Tweekleppige
+- tweekleppigen
+- Twiiskaalagen
+- Twêekleppign
+- Ukab-ukab
+- İkitaylılar
+- školjkaši
+- Školjke
+- Δίθυρα
+- двостулкові
+- двустворчатые
+- двухстворкавыя
+- Ике кабырчыклы моллюсклар
+- Ике ҡабырсаҡлы моллюскылар
+- Кош капкалуу моллюскалар
+- миди
+- шкољке
+- Школки
+- Қосжақтаулы былқылдақденелілер
+- երկփեղկանիներ
+- צדפות
+- ایکیتایلیلار
+- دوکفهایها
+- ذوات الصدفتين
+- سپیاں
+- पटलक्लोमी
+- বাইভালভিয়া
+- ਸਿੱਪੀਆਂ
+- ఆల్చిప్ప
+- ടാക്സോഡോണ്ട
+- ชั้นไบวาลเวีย
+- ကမာမျိုးနွယ်များ
+- ორსაგდულიანები
+- ᱡᱷᱤᱱᱩᱠ
+- 二枚貝
+- 双壳纲
+- 雙殼綱
+- 이매패류
 has_id_wikidata: Q25368
 title: Bivalvia
+dv_has_:
+  name_:
+    af: Tweekleppige
+    an: Bivalvia
+    ar: ذوات الصدفتين
+    arz: ذوات الصدفتين
+    ast: Bivalvia
+    az: İkitaylılar
+    azb: ایکیتایلیلار
+    ba: Ике ҡабырсаҡлы моллюскылар
+    be: двухстворкавыя
+    be-tarask: двухстворкавыя
+    bg: миди
+    bn: বাইভালভিয়া
+    br: Daougleureged
+    bs: Bivalvia
+    ca: bivalves
+    ceb: Ukab-ukab
+    cs: mlži
+    cy: Cragen ddeuglawr
+    da: Muslinger
+    de: Muscheln
+    el: Δίθυρα
+    en: Bivalvia
+    eo: Duvalvulo
+    es: Bivalvia
+    et: Karbid
+    eu: Bivalvia
+    ext: Bivalvia
+    fa: دوکفهایها
+    fi: simpukat
+    fr: Bivalvia
+    frr: Twiiskaalagen
+    ga: débhlaoscach
+    gl: Bivalvos
+    gn: Mymba ijyta mokõi
+    he: צדפות
+    hi: पटलक्लोमी
+    hr: školjkaši
+    hu: kagylók
+    hy: երկփեղկանիներ
+    ia: Bivalvia
+    id: Bivalvia
+    ie: Bivalvia
+    io: Bivalvo
+    is: Samlokur
+    it: Bivalvia
+    ja: 二枚貝
+    jv: Bivalvia
+    ka: ორსაგდულიანები
+    kk: Қосжақтаулы былқылдақденелілер
+    ko: 이매패류
+    ky: Кош капкалуу моллюскалар
+    la: Bivalvia
+    lb: Muschelen
+    lfn: Bivalva
+    lt: Dvigeldžiai
+    lv: gliemenes
+    mk: Школки
+    ml: ടാക്സോഡോണ്ട
+    ms: Bivalvia
+    mul: Bivalvia
+    my: ကမာမျိုးနွယ်များ
+    nan: Siang-khak-kong
+    nb: skjell
+    nds: Musseln
+    nl: tweekleppigen
+    nn: Muslingar
+    nv: Chʼosh bitsʼaʼígíí
+    oc: Bivalve
+    pa: ਸਿੱਪੀਆਂ
+    pap: Bivalvo
+    pl: małże
+    pnb: سپیاں
+    pt: Bivalvia
+    pt-br: Bivalvia
+    qu: Lakachu
+    ro: bivalve
+    ru: двустворчатые
+    sat: ᱡᱷᱤᱱᱩᱠ
+    sco: Bivalvia
+    sh: Školjke
+    sk: Lastúrniky
+    sl: školjke
+    sq: Bivalvia
+    sr: шкољке
+    sv: Musslor
+    te: ఆల్చిప్ప
+    th: ชั้นไบวาลเวีย
+    tl: Bivalvia
+    tr: Midyeler
+    tt: Ике кабырчыклы моллюсклар
+    uk: двостулкові
+    uz: Ikki pallalilar
+    vec: Bivalvia
+    vi: Thân mềm hai mảnh vỏ
+    vls: Twêekleppign
+    vo: Bivalvia
+    war: Bivalvia
+    wuu: 双壳纲
+    yue: 雙殼綱
+    zh: 双壳纲
+    zh-cn: 双壳纲
+    zh-hans: 双壳纲
+    zh-tw: 雙殼綱
 ---
-
 # [[Bivalvia]]
 
 Mussels, clams, oysters, cockles, etc. 

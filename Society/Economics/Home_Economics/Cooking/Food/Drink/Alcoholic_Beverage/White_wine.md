@@ -1,16 +1,132 @@
 ---
 aliases:
-  - White wine
-  - Weißwein
-  - White_wine
+- Anggur putih
+- ardo zuri
+- baltvīns
+- belo vino
+- beyaz şarap
+- białe wino
+- biele víno
+- bijelo vino
+- blanka vino
+- bllaunc vin
+- bílé víno
+- fehérbor
+- fíon bán
+- gwin gwenn
+- gwin gwyn
+- gwin gwynn
+- hvidvin
+- hvitvin
+- hvítvín
+- kvitvin
+- Laeujhau
+- rượu vang trắng
+- valkoviini
+- vi blanc
+- vin alb
+- vin blanc
+- vinho branco
+- vino bianco
+- vino blanco
+- vinu blanco
+- vitt vin
+- viño branco
+- Weißwein
+- White wine
+- White_wine
+- witte wijn
+- witwyn
+- Wysswy
+- wäisse Wäin
+- λευκό κρασί
+- ақ шарап
+- аҡ шарап
+- біле вино
+- белае віно
+- бело вино
+- белое вино
+- бијело вино
+- бяло вино
+- Шурă эрех
+- սպիտակ գինի
+- יין לבן
+- شراب سفید
+- نبيت ابيض
+- نبيذ أبيض
+- თეთრი ღვინო
+- 白ワイン
+- 白葡萄酒
+- 백포도주
 has_id_wikidata: Q10210
 instance_of: '[[_Standards/WikiData/WD~wine_color,8024923]]'
 subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Chenin%20Blanc%20wines%20in%20glass.jpg
 Commons_category: White wine
+dv_has_:
+  name_:
+    af: witwyn
+    ar: نبيذ أبيض
+    arz: نبيت ابيض
+    ast: vinu blanco
+    ba: аҡ шарап
+    be-tarask: белае віно
+    bg: бяло вино
+    br: gwin gwenn
+    ca: vi blanc
+    cs: bílé víno
+    cv: Шурă эрех
+    cy: gwin gwyn
+    da: hvidvin
+    de: Weißwein
+    el: λευκό κρασί
+    en: white wine
+    en-gb: white wine
+    eo: blanka vino
+    es: vino blanco
+    eu: ardo zuri
+    fa: شراب سفید
+    fi: valkoviini
+    fo: hvítvín
+    fr: vin blanc
+    ga: fíon bán
+    gl: viño branco
+    gsw: Wysswy
+    he: יין לבן
+    hr: bijelo vino
+    hu: fehérbor
+    hy: սպիտակ գինի
+    id: Anggur putih
+    it: vino bianco
+    ja: 白ワイン
+    jv: anggur putih
+    ka: თეთრი ღვინო
+    kk: ақ шарап
+    ko: 백포도주
+    kw: gwin gwynn
+    lb: wäisse Wäin
+    lv: baltvīns
+    mk: бело вино
+    nb: hvitvin
+    nl: witte wijn
+    nn: kvitvin
+    nrm: bllaunc vin
+    pl: białe wino
+    pt: vinho branco
+    ro: vin alb
+    ru: белое вино
+    sk: biele víno
+    sl: belo vino
+    sr: бијело вино
+    sv: vitt vin
+    tr: beyaz şarap
+    uk: біле вино
+    vi: rượu vang trắng
+    yue: 白葡萄酒
+    za: Laeujhau
+    zh: 白葡萄酒
+    zh-hans: 白葡萄酒
 ---
-
-
 # [[White_wine]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~White_wine,10210|WD~White_wine,10210]]

@@ -1,8 +1,96 @@
 ---
 aliases:
-  - Ambystomatidae
+- aksolotlit
+- Ambistomasimonlar
+- Ambistominiai
+- Ambistomàtids
+- Ambistomátidos
+- Ambystomatidae
+- Ambystomowate
+- axolotlovití
+- Eigentliche Querzahnmolche
+- harántfogúgőte-félék
+- Molsalamanders
+- Mullvadssalamandrar
+- Querzahnmolche
+- Tsxilghááh daalkizhígíí dóó bikʼéí
+- Αμβυστοματίδες
+- Амбістомавыя
+- Амбістомові
+- Амбистома йышшисем
+- Амбистома сымалдар
+- Амбистомалар
+- амбистомови
+- Амбистомовые
+- סלמנדרות חפרפרת
+- سمادل خلدية
+- سمادل خلديه
+- トラフサンショウウオ科
+- 鈍口螈科
+- 钝口螈科
 title: Ambystomatidae
 has_id_wikidata: Q764529
+dv_has_:
+  name_:
+    an: Ambystomatidae
+    ar: سمادل خلدية
+    arz: سمادل خلديه
+    ast: Ambystomatidae
+    be: Амбістомавыя
+    bg: амбистомови
+    br: Ambystomatidae
+    ca: Ambistomàtids
+    ceb: Ambystomatidae
+    cs: axolotlovití
+    cv: Амбистома йышшисем
+    de: Querzahnmolche
+    de-ch: Eigentliche Querzahnmolche
+    el: Αμβυστοματίδες
+    en: Ambystomatidae
+    en-ca: Ambystomatidae
+    en-gb: Ambystomatidae
+    eo: Ambystomatidae
+    es: Ambystomatidae
+    eu: Ambystomatidae
+    ext: Ambystomatidae
+    fi: aksolotlit
+    fr: Ambystomatidae
+    ga: Ambystomatidae
+    gl: Ambistomátidos
+    he: סלמנדרות חפרפרת
+    hu: harántfogúgőte-félék
+    ia: Ambystomatidae
+    ie: Ambystomatidae
+    io: Ambystomatidae
+    it: Ambystomatidae
+    ja: トラフサンショウウオ科
+    kk: Амбистомалар
+    ky: Амбистома сымалдар
+    la: Ambystomatidae
+    lt: Ambistominiai
+    mul: Ambystomatidae
+    nb: Ambystomatidae
+    nl: Molsalamanders
+    nn: Ambystomatidae
+    nv: Tsxilghááh daalkizhígíí dóó bikʼéí
+    oc: Ambystomatidae
+    pl: Ambystomowate
+    pt: Ambystomatidae
+    pt-br: Ambystomatidae
+    ro: Ambystomatidae
+    ru: Амбистомовые
+    sq: Ambystomatidae
+    sv: Mullvadssalamandrar
+    tr: Ambystomatidae
+    uk: Амбістомові
+    uz: Ambistomasimonlar
+    vi: Ambystomatidae
+    vo: Ambystomatidae
+    war: Ambystomatidae
+    zh: 钝口螈科
+    zh-cn: 钝口螈科
+    zh-hans: 钝口螈科
+    zh-tw: 鈍口螈科
 ---
 # [[Ambystomatidae]]
 

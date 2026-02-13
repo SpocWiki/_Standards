@@ -1,24 +1,162 @@
 ---
 aliases:
+- Edebiyatê Farsi
+- Fars edebiyatı
+- Fors adabiyoti
+- Lennegezh pers
+- letteratura persiana
+- literatura persa
+- literatura persană
+- Litríocht na Peirsise
+- Litterae Persicae
+- littérature persane
+- Lliteratura persa
+- Panitikang Persa
+- Parsı ädebïyeti
+- Persian kirjallisuus
+- Persian literature
+- Persiar literatura
+- Persijska književnost
+- persische Literatur
+- Persisk litteratur
+- perská literatura
+- perslingva literaturo
+- persų literatūra
+- perzijska književnost
+- Perzische literatuur
+- perzsa irodalom
+- Pärsia kirjandus
+- sastera Parsi
+- Sastra Persia
+- Văn học Ba Tư
+- wêjeya farisî
+- İran ədəbiyyatı
+- Περσική λογοτεχνία
+- адабиёти форсӣ
+- Парсы әдебиеті
+- персідская літаратура
+- персидская литература
+- Персиска книжевност
+- Перська література
+- пэрская літаратура
+- Фарсы әҙәбиәте
+- Պարսկական գրականություն
+- ספרות פרסית
+- أدب فارسي
+- ادب فارسى
+- ادبیات فارسی
+- فارسی ادب
+- فارسی اَدَب
+- وێژەی فارسی
+- پارسى ادەبىييەتى
+- फारसी साहित्य
+- ফার্সি সাহিত্য
+- ਫ਼ਾਰਸੀ ਸਾਹਿਤ
+- பாரசீக இலக்கியம்
+- పర్షియన్ సాహిత్యం
+- სპარსული ლიტერატურა
+- ⵜⴰⵖⵏⵏⵉⵊⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ
+- ペルシア文学
+- 波斯文学
+- 波斯文學
+- 波斯文文學
+- 페르시아 문학
 has_id_wikidata: Q365585
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-part_of: "[[_Standards/WikiData/WD~culture_of_Iran,953291]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+part_of: '[[_Standards/WikiData/WD~culture_of_Iran,953291]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Persian_studies,7170261]]"
-  - "[[_Standards/WikiData/WD~Persian_literature,117321595]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Persian_literature,10948949]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-different_from: "[[_Standards/WikiData/WD~Persian_literature,117321595]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
+- '[[_Standards/WikiData/WD~Persian_studies,7170261]]'
+- '[[_Standards/WikiData/WD~Persian_literature,117321595]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Persian_literature,10948949]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+different_from: '[[_Standards/WikiData/WD~Persian_literature,117321595]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shahnameh3-5.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PERSIDSKAYA_LITERATURA.html
 Commons_category: Persian-language literature
+dv_has_:
+  name_:
+    ar: أدب فارسي
+    arz: ادب فارسى
+    ast: Lliteratura persa
+    az: İran ədəbiyyatı
+    ba: Фарсы әҙәбиәте
+    be: персідская літаратура
+    be-tarask: пэрская літаратура
+    bn: ফার্সি সাহিত্য
+    br: Lennegezh pers
+    bs: Perzijska književnost
+    ca: literatura persa
+    ckb: وێژەی فارسی
+    cs: perská literatura
+    da: Persisk litteratur
+    de: persische Literatur
+    diq: Edebiyatê Farsi
+    el: Περσική λογοτεχνία
+    en: Persian literature
+    eo: perslingva literaturo
+    es: literatura persa
+    et: Pärsia kirjandus
+    eu: Persiar literatura
+    fa: ادبیات فارسی
+    fi: Persian kirjallisuus
+    fr: littérature persane
+    ga: Litríocht na Peirsise
+    gl: literatura persa
+    he: ספרות פרסית
+    hi: फारसी साहित्य
+    hr: Perzijska književnost
+    hu: perzsa irodalom
+    hy: Պարսկական գրականություն
+    id: Sastra Persia
+    it: letteratura persiana
+    ja: ペルシア文学
+    ka: სპარსული ლიტერატურა
+    kk: Парсы әдебиеті
+    kk-arab: پارسى ادەبىييەتى
+    kk-cn: پارسى ادەبىييەتى
+    kk-cyrl: Парсы әдебиеті
+    kk-kz: Парсы әдебиеті
+    kk-latn: Parsı ädebïyeti
+    kk-tr: Parsı ädebïyeti
+    ko: 페르시아 문학
+    ks: فارسی اَدَب
+    ku: wêjeya farisî
+    la: Litterae Persicae
+    lt: persų literatūra
+    mk: Персиска книжевност
+    ms: sastera Parsi
+    nb: persisk litteratur
+    nl: Perzische literatuur
+    pa: ਫ਼ਾਰਸੀ ਸਾਹਿਤ
+    pnb: فارسی ادب
+    pt: Literatura persa
+    ro: literatura persană
+    ru: персидская литература
+    sh: Perzijska književnost
+    sl: perzijska književnost
+    sr: Persijska književnost
+    sv: Persisk litteratur
+    ta: பாரசீக இலக்கியம்
+    te: పర్షియన్ సాహిత్యం
+    tg: адабиёти форсӣ
+    tl: Panitikang Persa
+    tr: Fars edebiyatı
+    uk: Перська література
+    ur: فارسی ادب
+    uz: Fors adabiyoti
+    vi: Văn học Ba Tư
+    yue: 波斯文文學
+    zgh: ⵜⴰⵖⵏⵏⵉⵊⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ
+    zh: 波斯文学
+    zh-cn: 波斯文学
+    zh-hans: 波斯文学
+    zh-hant: 波斯文學
 ---
-
 # [[Persian_Literature]] 
 
 #is_/same_as :: [[WD~Persian_literature,365585]] 

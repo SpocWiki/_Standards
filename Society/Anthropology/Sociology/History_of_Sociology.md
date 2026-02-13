@@ -1,15 +1,118 @@
 ---
 aliases:
+- aliens
+- dějiny sociologie
+- Geschichte der Soziologie
+- geschiedenis van de sociologie
+- histoire de la sociologie
+- historia da socioloxía
+- historia de la sociología
+- historia de la socioloxía
+- historia socjologii
+- historija sociologije
+- historio de sociologio
+- history of sociology
+- història de la sociologia
+- história da sociologia
+- istòria de ła sociołozia
+- povijest sociologije
+- sejarah sosiologi
+- sociologiens historie
+- sociologijos istorija
+- sociologins historia
+- socioloģijas vēsture
+- sosiologia historia
+- sosiologia historjá
+- sosiologian historia
+- sosiologiija historjá
+- sosyoloji tarihi
+- soziologiaren historia
+- storia della sociologia
+- szociológiatörténet
+- zgodovina sociologije
+- ιστορία της κοινωνιολογίας
+- історія соціології
+- гісторыя сацыялёгіі
+- историја социологије
+- история социологии
+- социология тарихы
+- היסטוריה של הסוציולוגיה
+- تاريخ علم الاجتماع
+- پیشینه جامعه شناسی
+- समाजशास्त्र का इतिहास
+- समाजशास्त्रस्य उद्भवः
+- সমাজতত্ত্বের ইতিহাস
+- සමාජ විද් යාවේ ඉතිහාසය
+- სოციოლოგიის ისტორია
+- 社会学史
+- 社會學史
+- 사회학의 역사
 has_id_wikidata: Q932233
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]"
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~sociology,21201]]"
-Basisklassifikation: "71.01"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~sociology,21201]]'
+Basisklassifikation: 71.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sociology%20Department%2C%201968%20%283926527044%29.jpg
+dv_has_:
+  name_:
+    ar: تاريخ علم الاجتماع
+    ast: historia de la socioloxía
+    ba: социология тарихы
+    be-tarask: гісторыя сацыялёгіі
+    bn: সমাজতত্ত্বের ইতিহাস
+    bs: historija sociologije
+    ca: història de la sociologia
+    cs: dějiny sociologie
+    da: sociologiens historie
+    de: Geschichte der Soziologie
+    el: ιστορία της κοινωνιολογίας
+    en: history of sociology
+    eo: historio de sociologio
+    es: historia de la sociología
+    eu: soziologiaren historia
+    fa: پیشینه جامعه شناسی
+    fi: sosiologian historia
+    fr: histoire de la sociologie
+    gl: historia da socioloxía
+    he: היסטוריה של הסוציולוגיה
+    hi: समाजशास्त्र का इतिहास
+    hr: povijest sociologije
+    hu: szociológiatörténet
+    id: sejarah sosiologi
+    it: storia della sociologia
+    ja: 社会学史
+    ka: სოციოლოგიის ისტორია
+    ko: 사회학의 역사
+    lt: sociologijos istorija
+    lv: socioloģijas vēsture
+    ms: sejarah sosiologi
+    nl: geschiedenis van de sociologie
+    pa: aliens
+    pl: historia socjologii
+    pt: história da sociologia
+    ru: история социологии
+    sa: समाजशास्त्रस्य उद्भवः
+    se: sosiologiija historjá
+    sh: historija sociologije
+    si: සමාජ විද් යාවේ ඉතිහාසය
+    sl: zgodovina sociologije
+    smn: sosiologia historjá
+    sms: sosiologia historia
+    sr: историја социологије
+    sr-ec: историја социологије
+    sv: sociologins historia
+    tr: sosyoloji tarihi
+    tt: социология тарихы
+    uk: історія соціології
+    vec: istòria de ła sociołozia
+    yue: 社會學史
+    zh: 社會學史
+    zh-hans: 社会学史
+    zh-hant: 社會學史
+    zh-hk: 社會學史
 ---
-
 # [[History_of_Sociology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_sociology,932233|WD~History_of_sociology,932233]] 

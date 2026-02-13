@@ -1,8 +1,79 @@
 ---
 has_id_wikidata: Q1630304
+dv_has_:
+  name_:
+    ar: هولو
+    ast: Hulu
+    az: Hulu
+    azb: هولو
+    bn: হুলু
+    ca: Hulu
+    ceb: Hulu
+    ckb: ھولو
+    cy: Hulu
+    de: Hulu
+    el: Hulu
+    en: Hulu
+    en-ca: Hulu
+    en-gb: Hulu
+    es: Hulu
+    eu: Hulu
+    fa: هولو
+    fi: Hulu
+    fr: Hulu
+    ga: Hulu
+    gl: Hulu
+    gn: Hulu
+    gv: Hulu
+    he: הולו
+    hi: हुलू
+    hu: Hulu
+    hy: Հուլու
+    id: Hulu
+    is: Hulu
+    it: Hulu
+    ja: Hulu
+    km: ហូឡូ
+    ko: 훌루
+    lb: Hulu
+    lt: Hulu
+    ms: Hulu
+    mul: Hulu
+    nb: Hulu
+    nl: Hulu
+    pt: Hulu
+    pt-br: Hulu
+    ro: Hulu
+    sah: Hulu
+    sl: Hulu
+    sr: Хулу
+    sv: Hulu
+    ta: குலு (மேலதிக ஊடக சேவை)
+    th: ฮูลู
+    tr: Hulu
+    ur: ہولو
+    vec: Hulu
+    vi: Hulu
+    zh: Hulu
+    zh-cn: Hulu
+    zh-hans: Hulu
+    zh-hant: Hulu
+    zh-hk: Hulu
+aliases:
+- Hulu
+- Хулу
+- Հուլու
+- הולו
+- هولو
+- ھولو
+- ہولو
+- हुलू
+- হুলু
+- குலு (மேலதிக ஊடக சேவை)
+- ฮูลู
+- ហូឡូ
+- 훌루
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Hulu** (, styled hulu in its logo) is an American subscription streaming media and content hub 

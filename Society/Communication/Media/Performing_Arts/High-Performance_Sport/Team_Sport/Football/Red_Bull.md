@@ -1,9 +1,118 @@
 ---
 aliases:
-  - Red Bull
-  - Red Bull GmbH
-  - Red_Bull
+- Red Bull
+- Red Bull GmbH
+- Red_Bull
+- Ред бул
+- Ռեդ Բուլ
+- רד בול
+- راد بول
+- ردبول
+- ريد بل
+- ریڈ بل
+- ریډ بول
+- रेड बुल
+- রেড বুল
+- ਰੈੱਡ ਬੁੱਲ
+- เรดบูล
+- གླང་དམར།
+- レッドブル
+- 紅牛
+- 红牛
+- 레드불
 has_id_wikidata: Q51482
+dv_has_:
+  name_:
+    af: Red Bull
+    an: Red Bull
+    ar: ريد بل
+    arq: راد بول
+    arz: ريد بل
+    ast: Red Bull
+    az: Red Bull
+    bar: Red Bull
+    be: Red Bull
+    bg: Ред Бул
+    bn: রেড বুল
+    bo: གླང་དམར།
+    br: Red Bull
+    bs: Red Bull
+    ca: Red Bull
+    cs: Red Bull
+    cy: Red Bull
+    da: Red Bull
+    de: Red Bull
+    de-ch: Red Bull
+    el: Red Bull
+    eml: Red Bull
+    en: Red Bull
+    en-ca: Red Bull
+    en-gb: Red Bull
+    en-us: Red Bull
+    eo: Red Bull
+    es: Red Bull
+    et: Red Bull
+    eu: Red Bull
+    fa: ردبول
+    fi: Red Bull
+    fo: Red Bull
+    fr: Red Bull
+    frr: Red Bull
+    ga: Red Bull
+    gan-hans: 红牛
+    gl: Red Bull
+    gsw: Red Bull
+    he: רד בול
+    hi: रेड बुल
+    hr: Red Bull
+    hu: Red Bull
+    hy: Ռեդ Բուլ
+    id: Red Bull
+    is: Red Bull
+    it: Red Bull
+    ja: レッドブル
+    ka: Red Bull
+    ko: 레드불
+    lb: Red Bull
+    lt: Red Bull
+    lv: Red Bull
+    min: Red Bull
+    ms: Red Bull
+    mul: Red Bull
+    nb: Red Bull
+    nds: Red Bull
+    ne: रेड बुल
+    nl: Red Bull
+    nn: Red Bull
+    oc: Red Bull
+    pa: ਰੈੱਡ ਬੁੱਲ
+    pl: Red Bull
+    ps: ریډ بول
+    pt: Red Bull
+    pt-br: Red Bull
+    rm: Red Bull
+    ro: Red Bull
+    ru: Red Bull
+    sco: Red Bull
+    sh: Red Bull
+    sk: Red Bull
+    sl: Red Bull
+    sq: Red Bull
+    sr: Ред бул
+    sv: Red Bull
+    th: เรดบูล
+    tr: Red Bull
+    uk: Red Bull
+    ur: ریڈ بل
+    uz: Red Bull
+    vi: Red Bull
+    yue: 紅牛
+    zh: 紅牛
+    zh-cn: 红牛
+    zh-hans: 红牛
+    zh-hant: 紅牛
+    zh-sg: 红牛
+    zh-tw: 紅牛
 ---
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 
 > With a market share of 43%, it is the most popular energy drink brand as of 2020, 

@@ -1,18 +1,86 @@
 ---
 aliases:
+- Boczniakowate
+- hlívovité
+- laskagombafélék
+- ostrigarke
+- Pleurotaceae
+- pleurotàcies
+- Seitlingsverwandte
+- servikulised
+- Vinokkaat
+- буковки
+- Вёшенковые
+- плевротові
+- صدفیقارچان
+- ヒラタケ科
+- 侧耳科
+- 側耳科
+- 느타리과
 has_id_wikidata: Q7319414
-parent_taxon: "[[_Standards/WikiData/WD~Agaricales,221448]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "936534"
+parent_taxon: '[[_Standards/WikiData/WD~Agaricales,221448]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 936534
 taxon_author_citation: Kühner
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Austernseitling-1.jpg
 EPPO_Code: 1PLURF
 NBN_System_Key: NHMSYS0001494083
 Commons_category: Pleurotaceae
 taxon_name: Pleurotaceae
+dv_has_:
+  name_:
+    an: Pleurotaceae
+    ast: Pleurotaceae
+    bg: Pleurotaceae
+    ca: pleurotàcies
+    ceb: Pleurotaceae
+    co: Pleurotaceae
+    cs: hlívovité
+    de: Seitlingsverwandte
+    en: Pleurotaceae
+    en-ca: Pleurotaceae
+    en-gb: Pleurotaceae
+    eo: Pleurotaceae
+    es: Pleurotaceae
+    et: servikulised
+    eu: Pleurotaceae
+    ext: Pleurotaceae
+    fa: صدفیقارچان
+    fi: Vinokkaat
+    fr: Pleurotaceae
+    ga: Pleurotaceae
+    gl: Pleurotaceae
+    hu: laskagombafélék
+    ia: Pleurotaceae
+    ie: Pleurotaceae
+    io: Pleurotaceae
+    it: Pleurotaceae
+    ja: ヒラタケ科
+    ko: 느타리과
+    la: Pleurotaceae
+    mk: буковки
+    mul: Pleurotaceae
+    nl: Pleurotaceae
+    oc: Pleurotaceae
+    pl: Boczniakowate
+    pt: Pleurotaceae
+    pt-br: Pleurotaceae
+    ro: Pleurotaceae
+    ru: Вёшенковые
+    sl: ostrigarke
+    sq: Pleurotaceae
+    sv: Pleurotaceae
+    tr: Pleurotaceae
+    uk: плевротові
+    vi: Pleurotaceae
+    vo: Pleurotaceae
+    war: Pleurotaceae
+    zh: 侧耳科
+    zh-cn: 侧耳科
+    zh-hans: 侧耳科
+    zh-tw: 側耳科
 ---
-
 # [[Pleurotaceae]] 
 
 #is_/same_as :: [[WD~Pleurotaceae,7319414]] 

@@ -1,37 +1,106 @@
 ---
 aliases:
-  - Ecologism
-  - Environmentalism
+- ambientalism
+- ambientalismo
+- Ambientisme
+- amgylcheddaeth
+- chủ nghĩa môi trường
+- comhshaolachas
+- Ecologism
+- ecologisme
+- ecologismo
+- ecoloxismo
+- ecoloxismu
+- ecołozismo
+- ekologiezh
+- ekologism
+- Ekologisme
+- ekologismo
+- ekologismus
+- ekologizm
+- ekologizmus
+- ekološka svest
+- envaironmentālisms
+- envayromentalizm
+- Environmentalism
+- environmentalisma
+- environmentalisme
+- environmentalismi
+- environmentalismm
+- environmentalizm
+- environmentalizmas
+- gburugburu ebe obibi
+- invairamentalizim
+- kerghynedhieth
+- mjedis natyrore
+- naturprotektismo
+- Oecologismus
+- okoljevarstvo
+- omgewingsbewustheid
+- pelestarian lingkungan hidup
+- utunzaji wa mazingira
+- çevrecilik
+- çhymmyltaghtoilys
+- écologisme
+- ékolojism
+- Ökologismus
+- ökologizmus
+- økologisme
+- οικολογισμός
+- движение в защиту окружающей среды
+- дифоъ аз муҳити зист
+- енвайронменталізм
+- енвиронментализам
+- природозаштита
+- рух за навакольнае асяродзьдзе
+- энвайранменталізм
+- סביבתנות
+- بيئوية
+- محیط زیستگرایی
+- وڻن جو عاشق
+- چاپېريال پالنه
+- ژینگەخوازی
+- पर्यावरणवाद
+- পরিবেশবাদ
+- পৰিৱেশবাদ
+- சூழலியம்
+- คตินิยมสิ่งแวดล้อม
+- გარემოს დაცვა
+- ინვაირონმენტალიზმი
+- 环保主义
+- 環保主義
+- 環境主義
+- 생태주의
 has_id_wikidata: Q2855609
 history_of_topic: '[[_Standards/WikiData/WD~timeline_of_history_of_environmentalism,186956]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~activism,203764]]'
-  - '[[_Standards/WikiData/WD~ecology,7150]]'
+- '[[_Standards/WikiData/WD~activism,203764]]'
+- '[[_Standards/WikiData/WD~ecology,7150]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~free_market_environmentalism,795002]]'
-  - '[[_Standards/WikiData/WD~environmental_protection,832237]]'
-  - '[[_Standards/WikiData/WD~radical_environmentalism,3772574]]'
-  - '[[_Standards/WikiData/WD~bright_green_environmentalism,4967505]]'
-  - '[[_Standards/WikiData/WD~Evangelical_environmentalism,5415771]]'
+- '[[_Standards/WikiData/WD~free_market_environmentalism,795002]]'
+- '[[_Standards/WikiData/WD~environmental_protection,832237]]'
+- '[[_Standards/WikiData/WD~radical_environmentalism,3772574]]'
+- '[[_Standards/WikiData/WD~bright_green_environmentalism,4967505]]'
+- '[[_Standards/WikiData/WD~Evangelical_environmentalism,5415771]]'
 different_from: '[[_Standards/WikiData/WD~conservation_movement,1088777]]'
 filmography: '[[_Standards/WikiData/WD~list_of_environmental_films,3072144]]'
 practiced_by: '[[_Standards/WikiData/WD~environmentalist,3578589]]'
 opposite_of: '[[_Standards/WikiData/WD~anti_environmentalism,4774354]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_environmentalism,7112622]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_life,99541875]]'
-  - '[[_Standards/WikiData/WD~ideology,7257]]'
-  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~philosophy_of_life,99541875]]'
+- '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 main_subject:
-  - '[[_Standards/WikiData/WD~climate,7937]]'
-  - '[[_Standards/WikiData/WD~life,3]]'
-  - '[[_Standards/WikiData/WD~natural_environment,43619]]'
-  - '[[_Standards/WikiData/WD~biodiversity,47041]]'
-  - '[[_Standards/WikiData/WD~habitat,52105]]'
+- '[[_Standards/WikiData/WD~climate,7937]]'
+- '[[_Standards/WikiData/WD~life,3]]'
+- '[[_Standards/WikiData/WD~natural_environment,43619]]'
+- '[[_Standards/WikiData/WD~biodiversity,47041]]'
+- '[[_Standards/WikiData/WD~habitat,52105]]'
 in_opposition_to: '[[_Standards/WikiData/WD~pollution,58734]]'
 social_media_followers: 12389
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Usstamp-save-our.jpg
@@ -41,10 +110,104 @@ Commons_gallery: Environmentalism
 Commons_category: Environmentalism
 Krugosvet_article: gumanitarnye_nauki/sociologiya/INVAROMENTALIZM.html
 MeSH_tree_code:
-  - I01.738.458
-  - N06.230.206
+- I01.738.458
+- N06.230.206
+dv_has_:
+  name_:
+    af: omgewingsbewustheid
+    ar: بيئوية
+    as: পৰিৱেশবাদ
+    ast: ecoloxismu
+    az: envayromentalizm
+    be: энвайранменталізм
+    be-tarask: рух за навакольнае асяродзьдзе
+    bho: पर्यावरणवाद
+    bn: পরিবেশবাদ
+    br: ekologiezh
+    ca: ecologisme
+    ckb: ژینگەخوازی
+    cs: ekologismus
+    cy: amgylcheddaeth
+    da: økologisme
+    dag: environmentalism
+    de: Ökologismus
+    el: οικολογισμός
+    en: environmentalism
+    en-ca: environmentalism
+    en-gb: environmentalism
+    eo: naturprotektismo
+    es: ecologismo
+    eu: ekologismo
+    fa: محیط زیستگرایی
+    fi: environmentalismi
+    fr: écologisme
+    fy: Ekologisme
+    ga: comhshaolachas
+    gcr: ékolojism
+    gl: ecoloxismo
+    gsw: Ökologismus
+    gv: çhymmyltaghtoilys
+    he: סביבתנות
+    hi: पर्यावरणवाद
+    hu: ökologizmus
+    ia: ecologismo
+    id: pelestarian lingkungan hidup
+    ig: gburugburu ebe obibi
+    it: ambientalismo
+    ja: 環境主義
+    jam: invairamentalizim
+    ka: გარემოს დაცვა
+    ko: 생태주의
+    kw: kerghynedhieth
+    la: Oecologismus
+    lb: Ekologismus
+    lfn: Ambientisme
+    lmo: ambientalism
+    lt: environmentalizmas
+    lv: envaironmentālisms
+    mk: природозаштита
+    mr: पर्यावरणवाद
+    ms: environmentalisme
+    nb: økologisme
+    nl: ecologisme
+    oc: ecologisme
+    pl: ekologizm
+    ps: چاپېريال پالنه
+    pt: ecologismo
+    pt-br: ambientalismo
+    ro: ecologism
+    ru: движение в защиту окружающей среды
+    sd: وڻن جو عاشق
+    se: environmentalisma
+    sh: ekološka svest
+    sk: ekologizmus
+    sl: okoljevarstvo
+    smn: environmentalism
+    sms: environmentalismm
+    sq: mjedis natyrore
+    sr: енвиронментализам
+    sv: ekologism
+    sw: utunzaji wa mazingira
+    ta: சூழலியம்
+    tg: дифоъ аз муҳити зист
+    th: คตินิยมสิ่งแวดล้อม
+    tr: çevrecilik
+    uk: енвайронменталізм
+    uz: environmentalizm
+    vec: ecołozismo
+    vi: chủ nghĩa môi trường
+    xmf: ინვაირონმენტალიზმი
+    yue: 環保主義
+    zh: 环保主义
+    zh-cn: 环保主义
+    zh-hans: 环保主义
+    zh-hant: 環保主義
+    zh-hk: 環保主義
+    zh-mo: 環保主義
+    zh-my: 环保主义
+    zh-sg: 环保主义
+    zh-tw: 環保主義
 ---
-
 # [[Environmentalism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Environmentalism,2855609|WD~Environmentalism,2855609]] 

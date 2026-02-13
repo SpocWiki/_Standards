@@ -1,29 +1,126 @@
 ---
 aliases:
-  - College of Cardinals
-  - Collegium Cardinalium
-  - Sacred College of Cardinals
-  - College_of_Cardinals
+- Bíborosi Kollégium
+- Colegio cardenalicio
+- Colexu Cardenaliciu
+- College of Cardinals
+- College van Kardinalen
+- College_of_Cardinals
+- collegio cardinalizio
+- Collegium Cardinalium
+- collège des cardinaux
+- Colégio dos Cardeais
+- Coŀlegi Cardenalici
+- Dewan Kardinal
+- Hồng y Đoàn
+- Kardinaalikollegio
+- Kardinala Kolegio
+- Kardinalkollegiet
+- Kardinaller Koleji
+- Kardinalski zbor
+- Kardinalskollegiet
+- Kardinalskollegium
+- Kardinolų kolegija
+- Kardinálské kolegium
+- Kolegij kardinala
+- Kolegio Kardenalizio
+- Kolegium kardynałów
+- Kolehiyo han mga Kardinal
+- Kolehiyo sa mga Kardenal
+- Kolej Kardinal
+- Kolleezje fan Kardinalen
+- Kollege van kardinale
+- Kolégium kardinálov
+- Sacred College of Cardinals
+- Κολλέγιο των Καρδιναλίων
+- Калегія кардыналаў
+- Колегія кардиналів
+- Коллегия кардиналов
+- חבר הקרדינלים
+- د کارډینالونو ټولنه
+- مجمع الكرادلة
+- مجمع الكرادله
+- مجمع کاردینالها
+- கர்தினால் குழாம்
+- කාදිනල් මණ්ඩලය
+- คณะพระคาร์ดินัล
+- ကာဒီနယ်ရဟန်းအမတ်အဖွဲ့
+- კარდინალთა კოლეგია
+- 枢機卿団
+- 樞機團
+- 추기경단
 has_id_wikidata: Q852242
 different_from: '[[_Standards/WikiData/WD~Collegium,344476]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Dean_of_the_College_of_Cardinals,449676]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~international_organization,484652]]'
-  - '[[_Standards/WikiData/WD~ecclesiastical_polity,2526886]]'
-  - '[[_Standards/WikiData/WD~position,4164871]]'
-  - '[[_Standards/WikiData/WD~Catholic_organization,23955632]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~ecclesiastical_polity,2526886]]'
+- '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~Catholic_organization,23955632]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~cardinal_bishop,1729113]]'
-  - '[[_Standards/WikiData/WD~cardinal_priest,2033341]]'
-  - '[[_Standards/WikiData/WD~cardinal_deacon,2361374]]'
-  - '[[_Standards/WikiData/WD~cardinal_elector,111597003]]'
-  - '[[_Standards/WikiData/WD~cardinal,45722]]'
+- '[[_Standards/WikiData/WD~cardinal_bishop,1729113]]'
+- '[[_Standards/WikiData/WD~cardinal_priest,2033341]]'
+- '[[_Standards/WikiData/WD~cardinal_deacon,2361374]]'
+- '[[_Standards/WikiData/WD~cardinal_elector,111597003]]'
+- '[[_Standards/WikiData/WD~cardinal,45722]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_College_of_Cardinals,26080359]]'
 parent_organization: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 Commons_category: College of Cardinals
 P8189: 987007511403305171
+dv_has_:
+  name_:
+    af: Kollege van kardinale
+    ar: مجمع الكرادلة
+    arz: مجمع الكرادله
+    ast: Colexu Cardenaliciu
+    be: Калегія кардыналаў
+    be-tarask: Калегія кардыналаў
+    ca: Coŀlegi Cardenalici
+    ceb: Kolehiyo sa mga Kardenal
+    cs: Kardinálské kolegium
+    da: Kardinalskollegiet
+    de: Kardinalskollegium
+    el: Κολλέγιο των Καρδιναλίων
+    en: College of Cardinals
+    eo: Kardinala Kolegio
+    es: Colegio cardenalicio
+    eu: Kolegio Kardenalizio
+    fa: مجمع کاردینالها
+    fi: Kardinaalikollegio
+    fr: collège des cardinaux
+    fy: Kolleezje fan Kardinalen
+    he: חבר הקרדינלים
+    hr: Kardinalski zbor
+    hu: Bíborosi Kollégium
+    id: Dewan Kardinal
+    it: collegio cardinalizio
+    ja: 枢機卿団
+    ka: კარდინალთა კოლეგია
+    ko: 추기경단
+    la: Collegium Cardinalium
+    lt: Kardinolų kolegija
+    ms: Kolej Kardinal
+    my: ကာဒီနယ်ရဟန်းအမတ်အဖွဲ့
+    nb: Kardinalkollegiet
+    nl: College van Kardinalen
+    pl: Kolegium kardynałów
+    ps: د کارډینالونو ټولنه
+    pt: Colégio dos Cardeais
+    ru: Коллегия кардиналов
+    sh: Kolegij kardinala
+    si: කාදිනල් මණ්ඩලය
+    sk: Kolégium kardinálov
+    sl: kardinalski zbor
+    sr: Kardinalski zbor
+    sv: kardinalkollegiet
+    ta: கர்தினால் குழாம்
+    th: คณะพระคาร์ดินัล
+    tr: Kardinaller Koleji
+    uk: Колегія кардиналів
+    vi: Hồng y Đoàn
+    war: Kolehiyo han mga Kardinal
+    zh: 樞機團
 ---
-
 # [[College_of_Cardinals]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~College_of_Cardinals,852242|WD~College_of_Cardinals,852242]] 

@@ -1,77 +1,108 @@
 ---
 aliases:
-  - Johnny_Cash
-  - John R. Cash
-  - J. R. Cash
-  - Cash
-  - Cash,Johnny
+- Cash
+- Cash,Johnny
+- Conni Keş
+- Džonijs Kešs
+- Ioannes Cash
+- J. R. Cash
+- jan Soni Ka
+- John R. Cash
+- Johnny Cash
+- Johnny_Cash
+- Τζόνι Κας
+- Џони Кеш
+- Джоні Кэш
+- Джони Кеш
+- Джонні Кеш
+- Джонни Кэш
+- Жонни Кэш
+- Ջոնի Քեշ
+- ג'וני קאש
+- جانی کش
+- جونى كاش
+- جوني كاش
+- جۆنی کاش
+- जॉनी कॅश
+- जॉनी कैश
+- জনি ক্যাশ
+- ਜੌਨੀ ਕੈਸ਼
+- ஜானி கேஷ்
+- ജോണി ക്യാഷ്
+- จอห์นนี แคช
+- ჯონი კეში
+- ジョニー・キャッシュ
+- 尊尼卡殊
+- 約翰尼·卡什
+- 约翰尼·卡什
+- 조니 캐시
 has_id_wikidata: Q42775
 place_of_birth: '[[_Standards/WikiData/WD~Kingsland,79417]]'
 residence:
-  - '[[_Standards/WikiData/WD~Kingsland,79417]]'
-  - '[[_Standards/WikiData/WD~Farm_No._266_Johnny_Cash_Boyhood_Home,55611474]]'
-  - '[[_Standards/WikiData/WD~House_of_Johnny_Cash,135130755]]'
+- '[[_Standards/WikiData/WD~Kingsland,79417]]'
+- '[[_Standards/WikiData/WD~Farm_No._266_Johnny_Cash_Boyhood_Home,55611474]]'
+- '[[_Standards/WikiData/WD~House_of_Johnny_Cash,135130755]]'
 genre:
-  - '[[_Standards/WikiData/WD~country_music,83440]]'
-  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
-  - '[[_Standards/WikiData/WD~rockabilly,203720]]'
-  - '[[_Standards/WikiData/WD~traditional_folk_music,235858]]'
-  - '[[_Standards/WikiData/WD~outlaw_country,964658]]'
-  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~gospel_music,180268]]'
+- '[[_Standards/WikiData/WD~rockabilly,203720]]'
+- '[[_Standards/WikiData/WD~traditional_folk_music,235858]]'
+- '[[_Standards/WikiData/WD~outlaw_country,964658]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
-  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
-  - '[[_Standards/WikiData/WD~Willie_Nelson_Lifetime_Achievement_Award,17125405]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Americana_Award_for_Artist_of_the_Year,96336837]]'
-  - '[[_Standards/WikiData/WD~_Spirit_of_Americana_Free_Speech_Award,96586004]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Willie_Nelson_Lifetime_Achievement_Award,17125405]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Americana_Award_for_Artist_of_the_Year,96336837]]'
+- '[[_Standards/WikiData/WD~_Spirit_of_Americana_Free_Speech_Award,96586004]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~American_Recordings,466649]]'
-  - '[[_Standards/WikiData/WD~Sun_Records,898618]]'
-  - '[[_Standards/WikiData/WD~Charly_Records,5086379]]'
-  - '[[_Standards/WikiData/WD~House_of_Cash,28464436]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~American_Recordings,466649]]'
+- '[[_Standards/WikiData/WD~Sun_Records,898618]]'
+- '[[_Standards/WikiData/WD~Charly_Records,5086379]]'
+- '[[_Standards/WikiData/WD~House_of_Cash,28464436]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~June_Carter_Cash,233253]]'
 spouse:
-  - '[[_Standards/WikiData/WD~June_Carter_Cash,233253]]'
-  - '[[_Standards/WikiData/WD~Vivian_Liberto,7937736]]'
+- '[[_Standards/WikiData/WD~June_Carter_Cash,233253]]'
+- '[[_Standards/WikiData/WD~Vivian_Liberto,7937736]]'
 member_of:
-  - '[[_Standards/WikiData/WD~The_Highwaymen,261341]]'
-  - '[[_Standards/WikiData/WD~Million_Dollar_Quartet,1935591]]'
-  - '[[_Standards/WikiData/WD~Johnny_Cash_&_June_Carter,67934059]]'
-  - '[[_Standards/WikiData/WD~Johnny_Cash_and_the_Tennessee_Two,83385714]]'
+- '[[_Standards/WikiData/WD~The_Highwaymen,261341]]'
+- '[[_Standards/WikiData/WD~Million_Dollar_Quartet,1935591]]'
+- '[[_Standards/WikiData/WD~Johnny_Cash_&_June_Carter,67934059]]'
+- '[[_Standards/WikiData/WD~Johnny_Cash_and_the_Tennessee_Two,83385714]]'
 member_of_political_party: '[[_Standards/WikiData/WD~independent_politician,327591]]'
 discography: '[[_Standards/WikiData/WD~Johnny_Cash_discography,369160]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 child:
-  - '[[_Standards/WikiData/WD~Rosanne_Cash,462289]]'
-  - '[[_Standards/WikiData/WD~John_Carter_Cash,947101]]'
-  - '[[_Standards/WikiData/WD~Kathy_Cash,19618320]]'
-  - '[[_Standards/WikiData/WD~Cindy_Cash,19618389]]'
-  - '[[_Standards/WikiData/WD~Tara_Cash,19618632]]'
+- '[[_Standards/WikiData/WD~Rosanne_Cash,462289]]'
+- '[[_Standards/WikiData/WD~John_Carter_Cash,947101]]'
+- '[[_Standards/WikiData/WD~Kathy_Cash,19618320]]'
+- '[[_Standards/WikiData/WD~Cindy_Cash,19618389]]'
+- '[[_Standards/WikiData/WD~Tara_Cash,19618632]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Tommy_Cash,556745]]'
-  - '[[_Standards/WikiData/WD~Reba_Hancock,19614686]]'
-  - '[[_Standards/WikiData/WD~Joanne_Cash,19614812]]'
-  - '[[_Standards/WikiData/WD~Roy_Cash,19614899]]'
-  - '[[_Standards/WikiData/WD~Louise_Cash,19614995]]'
-  - '[[_Standards/WikiData/WD~Jack_Cash,19615090]]'
+- '[[_Standards/WikiData/WD~Tommy_Cash,556745]]'
+- '[[_Standards/WikiData/WD~Reba_Hancock,19614686]]'
+- '[[_Standards/WikiData/WD~Joanne_Cash,19614812]]'
+- '[[_Standards/WikiData/WD~Roy_Cash,19614899]]'
+- '[[_Standards/WikiData/WD~Louise_Cash,19614995]]'
+- '[[_Standards/WikiData/WD~Jack_Cash,19615090]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Folsom_Prison_Blues,742829]]'
-  - '[[_Standards/WikiData/WD~At_Folsom_Prison,752937]]'
-  - '[[_Standards/WikiData/WD~I_Walk_the_Line,919867]]'
-  - '[[_Standards/WikiData/WD~Ring_of_Fire,1473718]]'
+- '[[_Standards/WikiData/WD~Folsom_Prison_Blues,742829]]'
+- '[[_Standards/WikiData/WD~At_Folsom_Prison,752937]]'
+- '[[_Standards/WikiData/WD~I_Walk_the_Line,919867]]'
+- '[[_Standards/WikiData/WD~Ring_of_Fire,1473718]]'
 voice_type:
-  - '[[_Standards/WikiData/WD~bass_baritone,810480]]'
-  - '[[_Standards/WikiData/WD~baritone,31687]]'
+- '[[_Standards/WikiData/WD~bass_baritone,810480]]'
+- '[[_Standards/WikiData/WD~baritone,31687]]'
 given_name: '[[_Standards/WikiData/WD~Johnny,1762022]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 place_of_burial: '[[_Standards/WikiData/WD~Hendersonville_Memory_Gardens,3742510]]'
@@ -88,9 +119,9 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-  - '[[_Standards/WikiData/WD~addiction,12029]]'
-  - '[[_Standards/WikiData/WD~diabetes,12206]]'
+- "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
+- '[[_Standards/WikiData/WD~addiction,12029]]'
+- '[[_Standards/WikiData/WD~diabetes,12206]]'
 cause_of_death: '[[_Standards/WikiData/WD~diabetes,12206]]'
 place_of_death: '[[_Standards/WikiData/WD~Nashville,23197]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -118,8 +149,134 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Cash
 official_website: https://johnnycash.com
 ISNI: 0000000108823456
 IPI_name_number: 00005462217
+dv_has_:
+  name_:
+    ace: Johnny Cash
+    af: Johnny Cash
+    an: Johnny Cash
+    ar: جوني كاش
+    arz: جونى كاش
+    ast: Johnny Cash
+    az: Conni Keş
+    azb: جانی کش
+    bar: Johnny Cash
+    bcl: Johnny Cash
+    be: Джоні Кэш
+    be-tarask: Джоні Кэш
+    bg: Джони Кеш
+    bi: Johnny Cash
+    bn: জনি ক্যাশ
+    br: Johnny Cash
+    bs: Johnny Cash
+    ca: Johnny Cash
+    cbk-zam: Johnny Cash
+    chy: Johnny Cash
+    ckb: جۆنی کاش
+    co: Johnny Cash
+    cs: Johnny Cash
+    cy: Johnny Cash
+    da: Johnny Cash
+    dag: Johnny Cash
+    de: Johnny Cash
+    diq: Johnny Cash
+    dsb: Johnny Cash
+    el: Τζόνι Κας
+    en: Johnny Cash
+    eo: Johnny Cash
+    es: Johnny Cash
+    et: Johnny Cash
+    eu: Johnny Cash
+    ext: Johnny Cash
+    fa: جانی کش
+    fi: Johnny Cash
+    fo: Johnny Cash
+    fr: Johnny Cash
+    frp: Johnny Cash
+    fy: Johnny Cash
+    ga: Johnny Cash
+    gd: Johnny Cash
+    gl: Johnny Cash
+    got: Johnny Cash
+    gv: Johnny Cash
+    haw: Johnny Cash
+    he: ג'וני קאש
+    hi: जॉनी कैश
+    hr: Johnny Cash
+    hsb: Johnny Cash
+    hu: Johnny Cash
+    hy: Ջոնի Քեշ
+    ia: Johnny Cash
+    id: Johnny Cash
+    ig: Johnny Cash
+    io: Johnny Cash
+    is: Johnny Cash
+    it: Johnny Cash
+    ja: ジョニー・キャッシュ
+    jv: Johnny Cash
+    ka: ჯონი კეში
+    ko: 조니 캐시
+    kw: Johnny Cash
+    ky: Жонни Кэш
+    la: Ioannes Cash
+    lb: Johnny Cash
+    lmo: Johnny Cash
+    lt: Johnny Cash
+    lv: Džonijs Kešs
+    mg: Johnny Cash
+    mk: Џони Кеш
+    ml: ജോണി ക്യാഷ്
+    mr: जॉनी कॅश
+    ms: Johnny Cash
+    mul: Johnny Cash
+    na: Johnny Cash
+    nah: Johnny Cash
+    nan: Johnny Cash
+    nb: Johnny Cash
+    nds: Johnny Cash
+    nl: Johnny Cash
+    nn: Johnny Cash
+    nov: Johnny Cash
+    oc: Johnny Cash
+    pa: ਜੌਨੀ ਕੈਸ਼
+    pag: Johnny Cash
+    pap: Johnny Cash
+    pdc: Johnny Cash
+    pl: Johnny Cash
+    pms: Johnny Cash
+    pt: Johnny Cash
+    pt-br: Johnny Cash
+    qu: Johnny Cash
+    ro: Johnny Cash
+    ru: Джонни Кэш
+    sc: Johnny Cash
+    sco: Johnny Cash
+    sh: Johnny Cash
+    sk: Johnny Cash
+    sl: Johnny Cash
+    smn: Johnny Cash
+    sq: Johnny Cash
+    sr: Џони Кеш
+    su: Johnny Cash
+    sv: Johnny Cash
+    sw: Johnny Cash
+    ta: ஜானி கேஷ்
+    th: จอห์นนี แคช
+    tl: Johnny Cash
+    tok: jan Soni Ka
+    tr: Johnny Cash
+    uk: Джонні Кеш
+    uz: Johnny Cash
+    vec: Johnny Cash
+    vi: Johnny Cash
+    wa: Johnny Cash
+    war: Johnny Cash
+    wo: Johnny Cash
+    wuu: 约翰尼·卡什
+    xmf: ჯონი კეში
+    yo: Johnny Cash
+    yue: 尊尼卡殊
+    zh: 約翰尼·卡什
 ---
-
 # [[Cash,Johnny]] 
 
 #is_/same_as :: [[WD~Johnny_Cash,42775]] 

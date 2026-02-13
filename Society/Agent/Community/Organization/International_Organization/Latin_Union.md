@@ -1,20 +1,68 @@
 ---
-has_time_started: 1954-05-15 
-has_time_stopped: 2012-07-31 
+has_time_started: 1954-05-15
+has_time_stopped: 2012-07-31
 aliases:
-  - Latin Union
-  - Latin_Union
+- Batasun Latinoa
+- Den Latinske Union
+- Lateinische Union
+- Latiinsk Union
+- Latijnse Unie
+- Latin Birlii
+- Latin Birliği
+- Latin Union
+- Latin Unió
+- Latinida Unuiĝo
+- Latinska unija
+- Latinska unionen
+- Latinská unie
+- Latinská únia
+- Latin_Union
+- Liên minh Latin
+- Umoja wa Kilatini
+- Uni Latin
+- Unia Łacińska
+- Unio Latina
+- Union Latin
+- Union Latina
+- Union latine
+- Unione latina
+- Unioni latina
+- Unioni Latinë
+- Uniunea Latină
+- União Latina
+- Unió Llatina
+- Unión Latina
+- Unvaniezh Latin
+- Unyong Latino
+- Xunión Llatina
+- Λατινική Ένωση
+- Латин берлеге
+- Латинска унија
+- Латинский Союз
+- Латинський Союз
+- Латын союзу.
+- Лацінскі зьвяз
+- Լատինական Միություն
+- האיחוד הלטיני
+- اتحادیه لاتین
+- الاتحاد اللاتينى
+- الاتحاد اللاتيني
+- لاتین اتحادیه
+- ߟߊ߬ߕߍ߲߬ ߘߍ߮
+- ラテン連合
+- 拉丁语联盟
+- 라틴 연합
 has_id_wikidata: Q123209
 instance_of: '[[_Standards/WikiData/WD~international_organization,484652]]'
 different_from: '[[_Standards/WikiData/WD~Latin_Monetary_Union,613420]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Latin_Union,7470333]]'
 official_language:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
-  - '[[_Standards/WikiData/WD~Catalan,7026]]'
-  - '[[_Standards/WikiData/WD~Romanian,7913]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Catalan,7026]]'
+- '[[_Standards/WikiData/WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 place_of_birth: '[[_Standards/WikiData/WD~Madrid,2807]]'
 member_of: '[[_Standards/WikiData/WD~UNESCO,7809]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Paris,90]]'
@@ -25,8 +73,68 @@ official_website: https://www.unilat.org
 ISNI: 000000012358836X
 Commons_category: Latin Union
 dissolved_abolished_or_demolished_date: 2012-07-31T00:00:00Z
+dv_has_:
+  name_:
+    ar: الاتحاد اللاتيني
+    arz: الاتحاد اللاتينى
+    ast: Xunión Llatina
+    be-tarask: Лацінскі зьвяз
+    br: Unvaniezh Latin
+    bs: Latinska unija
+    ca: Unió Llatina
+    cs: Latinská unie
+    da: Den Latinske Union
+    de: Lateinische Union
+    el: Λατινική Ένωση
+    en: Latin Union
+    en-ca: Latin Union
+    en-gb: Latin Union
+    eo: Latinida Unuiĝo
+    es: Unión Latina
+    eu: Batasun Latinoa
+    fa: اتحادیه لاتین
+    fi: Latin Union
+    fr: Union latine
+    frr: Latiinsk Union
+    gag: Latin Birlii
+    gl: Unión Latina
+    he: האיחוד הלטיני
+    hr: Latinska unija
+    hu: Latin Unió
+    hy: Լատինական Միություն
+    ia: Union Latin
+    id: Uni Latin
+    it: Unione latina
+    ja: ラテン連合
+    ko: 라틴 연합
+    ky: Латын союзу.
+    la: Unio Latina
+    mzn: لاتین اتحادیه
+    nl: Latijnse Unie
+    nqo: ߟߊ߬ߕߍ߲߬ ߘߍ߮
+    oc: Union Latina
+    pl: Unia Łacińska
+    pt: União Latina
+    pt-br: União Latina
+    ro: Uniunea Latină
+    ru: Латинский Союз
+    scn: Unioni latina
+    sh: Latinska unija
+    sk: Latinská únia
+    sl: Latinska unija
+    sq: Unioni Latinë
+    sr: Латинска унија
+    su: Uni Latin
+    sv: Latinska unionen
+    sw: Umoja wa Kilatini
+    tl: Unyong Latino
+    tr: Latin Birliği
+    tt: Латин берлеге
+    uk: Латинський Союз
+    vec: Union Latina
+    vi: Liên minh Latin
+    zh: 拉丁语联盟
 ---
-
 # [[Latin_Union]] 
 
 #is_/same_as :: [[WD~Latin_Union,123209]] 

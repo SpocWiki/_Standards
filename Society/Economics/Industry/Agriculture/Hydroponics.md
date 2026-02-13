@@ -1,40 +1,173 @@
 ---
 aliases:
-  - Hydroponik
-  - Hydroponics
+- Gidroponika
+- gïdroponïka
+- Haydaroboniig
+- Haydrophonkesh
+- hidreaponaic
+- hidrokulturo
+- Hidroponi
+- Hidroponia
+- Hidroponică
+- Hidroponik
+- hidroponika
+- hidroponía
+- hydrocultuur
+- hydrokultur
+- Hydroponica
+- Hydroponics
+- hydroponie
+- Hydroponik
+- hydroponika
+- Hydroponisk dyrkning
+- hydropónia
+- hydroviljely
+- Hüdropoonika
+- idroponica
+- thủy canh
+- Υδροπονία
+- Гідрапоніка
+- гідропоніка
+- гидропоника
+- Хайдрапоник тариалангийн арга
+- Хидропонија
+- Хидропоника
+- հիդրոպոնիկա
+- הידרופוניקה
+- زراعة في الماء
+- هایدروپونیک
+- چاندن بە ئاو
+- گىيدروپونىيكا
+- ہائیڈروپونکس
+- हाइड्रोपोनिक खेती
+- हाइड्रोपोनिक्स्
+- हायड्रोपोनिक्स
+- நீரியல் வளர்ப்பு
+- ಹೈಡ್ರೋಪೋನಿಕ್ಸ್
+- ഹൈഡ്രോപോണിക്സ്
+- පස රහිතව ශාක වැවීමේ ක්රමවේදය
+- การปลูกพืชไร้ดิน
+- ჰიდროპონიკა
+- 水耕栽培
+- 無土栽培
+- 양액재배
 has_id_wikidata: Q191667
 uses: '[[_Standards/WikiData/WD~fertilizer,83323]]'
 followed_by: '[[_Standards/WikiData/WD~aeroponics,381640]]'
 different_from: '[[_Standards/WikiData/WD~aquaponics,557542]]'
 follows: '[[_Standards/WikiData/WD~arable_farming,3198719]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~process,10843872]]'
-  - '[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~controlled_environment_agriculture,16951286]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Chi,_Chün_tao,11054345]]'
 depicted_by: '[[_Standards/WikiData/WD~IOP_1955_Episode_236,127946864]]'
 item_operated:
-  - '[[_Standards/WikiData/WD~water,283]]'
-  - '[[_Standards/WikiData/WD~plant,756]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~plant,756]]'
 used_by: '[[_Standards/WikiData/WD~horticulture,48803]]'
 has_use: '[[_Standards/WikiData/WD~horticulture,48803]]'
 social_media_followers:
-  - 68102
-  - 105294
+- 68102
+- 105294
 subreddit:
-  - hydro
-  - Hydroponics
+- hydro
+- Hydroponics
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hydroponic%20onions%2C%20NASA%20--%2017%20June%202004.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CDC%20South%20Aquaponics%20Raft%20Tank%201%202010-07-17.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hydroponic%20onions%2C%20NASA%20--%2017%20June%202004.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CDC%20South%20Aquaponics%20Raft%20Tank%201%202010-07-17.jpg
 Commons_category: Hydroponics
 Dewey_Decimal_Classification:
-  - 631.585
-  - 635.0485
+- 631.585
+- 635.0485
 UMLS_CUI: C0242737
 MeSH_tree_code: J01.040.581
 time_of_discovery_or_invention: 0304-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: hidroponika
+    ar: زراعة في الماء
+    az: hidroponika
+    be: Гідрапоніка
+    be-tarask: гідрапоніка
+    bg: Хидропоника
+    bho: हाइड्रोपोनिक खेती
+    ca: Hidroponia
+    ckb: چاندن بە ئاو
+    cs: hydroponie
+    de: Hydroponik
+    el: Υδροπονία
+    en: hydroponics
+    en-us: hydroponics
+    eo: hidrokulturo
+    es: hidroponía
+    et: Hüdropoonika
+    eu: Hidroponia
+    fa: هایدروپونیک
+    fi: hydroviljely
+    fr: hydroponie
+    ga: hidreaponaic
+    gl: hidroponia
+    gu: Haydrophonkesh
+    he: הידרופוניקה
+    hi: hydroponics
+    hr: Hidroponi
+    hu: hidroponika
+    hy: հիդրոպոնիկա
+    id: Hidroponik
+    it: idroponica
+    ja: 水耕栽培
+    jv: Hidroponik
+    ka: ჰიდროპონიკა
+    kk: гидропоника
+    kk-arab: گىيدروپونىيكا
+    kk-cn: گىيدروپونىيكا
+    kk-cyrl: Гидропоника
+    kk-kz: Гидропоника
+    kk-latn: gïdroponïka
+    kk-tr: Gïdroponïka
+    kn: ಹೈಡ್ರೋಪೋನಿಕ್ಸ್
+    ko: 양액재배
+    ky: Гидропоника
+    la: Hydroponica
+    lt: Hidroponika
+    mad: Hidroponik
+    mk: Хидропоника
+    ml: ഹൈഡ്രോപോണിക്സ്
+    mn: Хайдрапоник тариалангийн арга
+    mr: हायड्रोपोनिक्स
+    ms: Hidroponik
+    nb: Hydroponisk dyrkning
+    ne: हाइड्रोपोनिक्स्
+    nl: hydrocultuur
+    pl: hydroponika
+    pt: hidroponia
+    ro: Hidroponică
+    ru: гидропоника
+    sh: Hidroponika
+    si: පස රහිතව ශාක වැවීමේ ක්රමවේදය
+    sk: hydropónia
+    sl: hidroponika
+    so: Haydaroboniig
+    sr: Хидропонија
+    sr-ec: хидропонија
+    su: Hidroponik
+    sv: hydrokultur
+    ta: நீரியல் வளர்ப்பு
+    th: การปลูกพืชไร้ดิน
+    tr: hidroponik
+    uk: гідропоніка
+    ur: ہائیڈروپونکس
+    uz: Gidroponika
+    vi: thủy canh
+    yue: 無土栽培
+    zh: 水耕栽培
+    zh-cn: 水耕栽培
+    zh-hans: 水耕栽培
+    zh-hant: 水耕栽培
+    zh-hk: 水耕栽培
+    zh-sg: 水耕栽培
+    zh-tw: 水耕栽培
 ---
-
 # [[Hydroponics]] 
 
 #is_/same_as :: [[WikiData/WD~Hydroponics,191667|WD~Hydroponics,191667]] 

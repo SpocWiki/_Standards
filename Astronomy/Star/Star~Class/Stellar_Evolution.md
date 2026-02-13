@@ -1,34 +1,155 @@
 ---
 aliases:
+- Bitun-on nga ebolusyon
+- csillagfejlődés
+- esblygiad serol
+- evolució estel·lar
+- Evolución estelar
+- Evoluimi i Yjeve
+- evoluo de stelo
+- Evolusi bintang
+- Evolusi najam
+- evoluzione stellare
+- evolução estelar
+- Evoluția stelelor
+- Ewolucja gwiazd
+- izar eboluzio
+- razvoj zvezde
+- stellar evolution
+- Sterevolusie
+- sterevolutie
+- Sternentwicklung
+- Stjerner fra fødsel til genfødsel
+- stjerneutvikling
+- Tiến hóa sao
+- Täheareng
+- vývoj hviezdy
+- vývoj hvězd
+- Yulduzlar evolyutsiyasi
+- Yıldız evrimi
+- zvaigžņu evolūcija
+- Zvjezdana evolucija
+- Çăлтăр эволюцийĕ
+- éabhlóid réaltach
+- évolution stellaire
+- žvaigždžių evoliucija
+- αστρική εξέλιξη
+- ѕвезден развој
+- еволюція зір
+- звёздная эволюция
+- звездани развој
+- Звездна еволюция
+- эвалюцыя зорак
+- מחזור החיים של כוכב
+- تطور النجوم
+- تکامل ستارگان
+- तारकीय उत्क्रांती
+- तारों का विकास
+- তারার বিবর্তন
+- ନକ୍ଷତ୍ରର ବିବର୍ତ୍ତନ ପ୍ରକ୍ରିୟା
+- விண்மீன் படிமலர்ச்சி
+- วิวัฒนาการของดาวฤกษ์
+- ကြယ်တို့၏ ဆင့်ကဲပြောင်းလဲပုံ
+- ვარსკვლავური ევოლუცია
+- 恆星演化
+- 恒星の進化
+- 恒星演化
+- 항성 진화
 has_id_wikidata: Q6472
-subclass_of: "[[_Standards/WikiData/WD~evolution,5418608]]"
-instance_of: "[[_Standards/WikiData/WD~astrophysical_process,15401756]]"
-studied_by: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-part_of: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-Dewey_Decimal_Classification: "523.88"
+subclass_of: '[[_Standards/WikiData/WD~evolution,5418608]]'
+instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+part_of: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+Dewey_Decimal_Classification: 523.88
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20life%20cycle%20of%20a%20Sun-like%20star%20%28eso1337a%29.webm
 Commons_category: Stellar evolution
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]"
+  - '[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]"
+- '[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]'
+- '[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]'
+dv_has_:
+  name_:
+    af: Sterevolusie
+    an: Evolución estelar
+    ar: تطور النجوم
+    ast: evolución estelar
+    be: эвалюцыя зорак
+    be-tarask: эвалюцыя зорак
+    bg: Звездна еволюция
+    bn: তারার বিবর্তন
+    bs: Zvjezdana evolucija
+    ca: evolució estel·lar
+    cs: vývoj hvězd
+    cv: Çăлтăр эволюцийĕ
+    cy: esblygiad serol
+    da: Stjerner fra fødsel til genfødsel
+    de: Sternentwicklung
+    el: αστρική εξέλιξη
+    en: stellar evolution
+    en-ca: Stellar evolution
+    en-gb: stellar evolution
+    eo: evoluo de stelo
+    es: evolución estelar
+    et: Täheareng
+    eu: izar eboluzio
+    fa: تکامل ستارگان
+    fi: Stellar evolution
+    fr: évolution stellaire
+    ga: éabhlóid réaltach
+    gl: evolución estelar
+    he: מחזור החיים של כוכב
+    hi: तारों का विकास
+    hu: csillagfejlődés
+    id: Evolusi bintang
+    it: evoluzione stellare
+    ja: 恒星の進化
+    ka: ვარსკვლავური ევოლუცია
+    ko: 항성 진화
+    lt: žvaigždžių evoliucija
+    lv: zvaigžņu evolūcija
+    mk: ѕвезден развој
+    mr: तारकीय उत्क्रांती
+    ms: Evolusi najam
+    my: ကြယ်တို့၏ ဆင့်ကဲပြောင်းလဲပုံ
+    nb: stjerneutvikling
+    nl: sterevolutie
+    nn: stjerneutvikling
+    or: ନକ୍ଷତ୍ରର ବିବର୍ତ୍ତନ ପ୍ରକ୍ରିୟା
+    pl: Ewolucja gwiazd
+    pt: evolução estelar
+    pt-br: Evolução estelar
+    ro: Evoluția stelelor
+    ru: звёздная эволюция
+    sk: vývoj hviezdy
+    sl: razvoj zvezde
+    sq: Evoluimi i Yjeve
+    sr: звездани развој
+    ta: விண்மீன் படிமலர்ச்சி
+    th: วิวัฒนาการของดาวฤกษ์
+    tr: Yıldız evrimi
+    uk: еволюція зір
+    uz: Yulduzlar evolyutsiyasi
+    vi: Tiến hóa sao
+    war: Bitun-on nga ebolusyon
+    wuu: 恒星演化
+    yue: 恆星演化
+    zh: 恆星演化
 ---
-
 # [[Stellar_Evolution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]  

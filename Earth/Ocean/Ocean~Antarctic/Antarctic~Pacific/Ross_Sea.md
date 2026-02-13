@@ -1,46 +1,205 @@
 ---
 aliases:
+- Bahari ya Ross
+- Baybay Ross
+- Biển Ross
+- Dagat Ross
+- Laut Ross
+- Mar de Ross
+- Mare di Ross
+- Mare Ross
+- Marea Ross
+- Maro de Ross
+- mer de Ross
+- Mor Ross
+- Morze Rossa
+- Rosa jūra
+- Roso jūra
+- Rosovo more
+- Ross dengizi
+- Ross Denizi
+- Ross dənizi
+- Ross itsasoa
+- Ross Samundar
+- Ross Sea
+- Ross-see
+- Ross-tenger
+- Rosshaf
+- Rosshavet
+- Rossi meri
+- Rossinmeri
+- Rossmeer
+- Rossovo more
+- Rossovo morje
+- Rossovo moře
+- Rosssee
+- Rosszee
+- Segara Ross
+- Θάλασσα Ρος
+- Мора Роса
+- Море Росса
+- Рос
+- Росово Море
+- Росс деңизи
+- Росс диңгезе
+- Росс диңгеҙе
+- Росс тинĕсĕ
+- Россан хӀорд
+- Россну тенгизи
+- Ռոսսի ծով
+- ים רוס
+- بحر روس
+- بحیرہ راس
+- دریای راس
+- रॉस सागर
+- রস সাগর
+- ਰੌਸ ਸਾਗਰ
+- ரோஸ் கடல்
+- റോസ് കടൽ
+- ทะเลรอสส์
+- როსის ზღვა
+- როსიშ ზუღა
+- ロス海
+- 罗斯海
+- 羅斯海
+- 로스해
 has_id_wikidata: Q164466
 location:
-  - -75
-  - -175
+- -75
+- -175
 coordinate_location: Point(-175.0 -75.0)
-shares_border_with: "[[_Standards/WikiData/WD~Victoria_Land,208965]]"
-inflows: "[[_Standards/WikiData/WD~Alph_River,2840070]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Ocean,7354]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Ocean,7354]]"
-continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
-instance_of: "[[_Standards/WikiData/WD~sea,165]]"
+shares_border_with: '[[_Standards/WikiData/WD~Victoria_Land,208965]]'
+inflows: '[[_Standards/WikiData/WD~Alph_River,2840070]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Ocean,7354]]'
+continent: '[[_Standards/WikiData/WD~Antarctica,51]]'
+instance_of: '[[_Standards/WikiData/WD~sea,165]]'
 area:
-  - 960000
-  - 637000
+- 960000
+- 637000
 vertical_depth: 919
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NOAA%20Ross%20sea.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ross%20Sea-banner1.jpg
-U_S_National_Archives_Identifier: "10038097"
+U_S_National_Archives_Identifier: 10038097
 Commons_category: Ross Sea
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]"
-    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]"
-    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]"
-    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]"
-    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]"
-    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]"
+  - '[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]'
+  - '[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]'
+  - '[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]'
+  - '[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]'
+  - '[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]'
+  - '[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]"
-  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]"
-  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]"
-  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]"
-  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]"
-  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]"
+- '[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]'
+- '[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]'
+- '[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]'
+- '[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]'
+- '[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]'
+- '[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]'
+- '[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]'
+- '[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]'
+dv_has_:
+  name_:
+    af: Rosssee
+    ar: بحر روس
+    arz: بحر روس
+    ast: Mar de Ross
+    az: Ross dənizi
+    ba: Росс диңгеҙе
+    ban: Segara Ross
+    be: Мора Роса
+    be-tarask: Мора Роса
+    bg: Рос
+    bn: রস সাগর
+    br: Mor Ross
+    bs: Rossovo more
+    ca: mar de Ross
+    ce: Россан хӀорд
+    ceb: Ross Sea
+    cs: Rossovo moře
+    cv: Росс тинĕсĕ
+    da: Rosshavet
+    de: Rossmeer
+    el: Θάλασσα Ρος
+    en: Ross Sea
+    eo: Maro de Ross
+    es: mar de Ross
+    et: Rossi meri
+    eu: Ross itsasoa
+    fa: دریای راس
+    fi: Rossinmeri
+    fr: mer de Ross
+    fy: Ross-see
+    gl: Mar de Ross
+    ha: Ross Sea
+    he: ים רוס
+    hi: रॉस सागर
+    hif: Ross Samundar
+    hr: Rossovo more
+    hu: Ross-tenger
+    hy: Ռոսսի ծով
+    id: Laut Ross
+    ig: Ross Sea
+    ilo: Baybay Ross
+    is: Rosshaf
+    it: Mare di Ross
+    ja: ロス海
+    ka: როსის ზღვა
+    ko: 로스해
+    krc: Россну тенгизи
+    ky: Росс деңизи
+    la: Mare Ross
+    lt: Roso jūra
+    lv: Rosa jūra
+    mk: Росово Море
+    ml: റോസ് കടൽ
+    ms: Laut Ross
+    mul: Ross Sea
+    nb: Rosshavet
+    nds: Rosssee
+    nl: Rosszee
+    nn: Rosshavet
+    oc: Mar de Ross
+    pa: ਰੌਸ ਸਾਗਰ
+    pl: Morze Rossa
+    pt: Mar de Ross
+    ro: Marea Ross
+    ru: Море Росса
+    sh: Rossovo more
+    sk: Rossovo more
+    sl: Rossovo morje
+    sr: Росово море
+    sr-ec: Росово море
+    sr-el: Rosovo more
+    sv: Rosshavet
+    sw: Bahari ya Ross
+    ta: ரோஸ் கடல்
+    th: ทะเลรอสส์
+    tl: Dagat Ross
+    tr: Ross Denizi
+    tt: Росс диңгезе
+    uk: Море Росса
+    ur: بحیرہ راس
+    uz: Ross dengizi
+    vec: Mar de Ross
+    vi: Biển Ross
+    war: Dagat Ross
+    wuu: 羅斯海
+    xmf: როსიშ ზუღა
+    yo: Ross Sea
+    yue: 羅斯海
+    zh: 罗斯海
+    zh-cn: 罗斯海
+    zh-hans: 罗斯海
+    zh-hant: 羅斯海
+    zh-hk: 羅斯海
+    zh-sg: 罗斯海
+    zh-tw: 羅斯海
 ---
-
 # [[Ross_Sea]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]  

@@ -1,38 +1,90 @@
 ---
 aliases:
-  - Aelius Galenus
-  - Claudius Galenus
-  - Κλαύδιος Γαληνός
-  - Galen of Pergamon
-  - Galen
+- Aelius Galenus
+- Claude Galien
+- Claudius Galenus
+- Claudius Galénos
+- Cláudio Galeno
+- Galen
+- Galen Klavdiy
+- Galen of Pergamon
+- Galeno
+- Galeno de Pergamono
+- Galenos
+- Galens
+- Galenu
+- Galenus
+- Galè
+- Galén
+- Galéno
+- Galénosz
+- Galênos
+- Galēns
+- jan Kaleno
+- Klaudijus Galenas
+- Klavdij Galen
+- Qalen
+- Γαληνός
+- Κλαύδιος Γαληνός
+- Гален
+- Клавдій Гален
+- Клавдий Гален
+- Ґален
+- Ҷолинус
+- Գալեն Կլավդիոս
+- Փերկամոնացի Կալէն
+- גאלען
+- קלאודיוס גלנוס
+- جالينوس
+- جالینوس
+- ڭالينوس
+- گالن
+- گالێن
+- गालेन
+- गेलेन्
+- गैलेन
+- গালেন
+- গ্যালেন
+- ਗਾਲੈਨ
+- கலென்
+- ಗೇಲೆನ್
+- ഗലേൻ
+- เกเลน
+- ဂေလန်
+- გალენოსი
+- ᱜᱟᱞᱮᱱ
+- ガレノス
+- 盖伦
+- 蓋倫
+- 갈레노스
 has_id_wikidata: Q8778
 gens: '[[_Standards/WikiData/WD~Aelia_gens,380806]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
-  - '[[_Standards/WikiData/WD~surgeon,774306]]'
-  - '[[_Standards/WikiData/WD~biologist,864503]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~neuroscientist,6337803]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~physician_writer,551835]]'
+- '[[_Standards/WikiData/WD~surgeon,774306]]'
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~neuroscientist,6337803]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Q28200872,28200872]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Q34096684,34096684]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q28200872,28200872]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Q34096684,34096684]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Albinus,657941]]'
-  - '[[_Standards/WikiData/WD~Satyros,1295204]]'
-  - '[[_Standards/WikiData/WD~Aelianus_Meccius,4687699]]'
+- '[[_Standards/WikiData/WD~Albinus,657941]]'
+- '[[_Standards/WikiData/WD~Satyros,1295204]]'
+- '[[_Standards/WikiData/WD~Aelianus_Meccius,4687699]]'
 father: '[[_Standards/WikiData/WD~Aelius_Nicon,1218142]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -43,10 +95,10 @@ different_from: '[[_Standards/WikiData/WD~Pseudo_Galen,95721323]]'
 cognomen: '[[_Standards/WikiData/WD~Galenus,113976282]]'
 praenomen: http://www.wikidata.org/.well-known/genid/d9546d00bacd8df427bba399d36dbcca
 field_of_work:
-  - '[[_Standards/WikiData/WD~anatomy,514]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~logic,8078]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~anatomy,514]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
 residence: '[[_Standards/WikiData/WD~Pergamon,18986]]'
 place_of_birth: '[[_Standards/WikiData/WD~Pergamon,18986]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -60,19 +112,142 @@ Libris_URI: vs688b4d1lwrknr
 name_in_native_language: Claudius Galenus
 PhilPapers_topic: galen
 Provenio_UUID:
-  - a583271c-e260-477a-b1f0-edb68698a7a2
-  - 2b0947a5-2845-4976-b54c-599a4e9c8655
+- a583271c-e260-477a-b1f0-edb68698a7a2
+- 2b0947a5-2845-4976-b54c-599a4e9c8655
 BHCL_UUID: 01dc46cd-7554-4b60-9bf3-b848240d35f2
 Commons_category: Galenus of Pergamum
 Commons_Creator_page: Galen
 date_of_death: 0300-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Galenus.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=393203015
-  - http://www.digiporta.net/index.php?id=535006676
+- http://www.digiporta.net/index.php?id=393203015
+- http://www.digiporta.net/index.php?id=535006676
 ISNI: 0000000121302401
+dv_has_:
+  name_:
+    af: Claudius Galenus
+    an: Galén
+    ar: جالينوس
+    ary: ڭالينوس
+    arz: جالينوس
+    as: গালেন
+    ast: Galenu
+    az: Qalen
+    ba: Клавдий Гален
+    be: Гален
+    be-tarask: Гален
+    bg: Гален
+    bn: গ্যালেন
+    br: Galen
+    bs: Galen
+    btm: Galenus
+    ca: Galè
+    ce: Гален
+    ckb: گالێن
+    crh: Galen
+    cs: Galén
+    cv: Гален
+    cy: Galen
+    da: Galen
+    de: Galenos
+    el: Γαληνός
+    en: Galen
+    en-ca: Galen
+    en-gb: Galen
+    eo: Galeno de Pergamono
+    es: Galeno
+    et: Galenos
+    eu: Galeno
+    fa: جالینوس
+    fi: Galenos
+    fr: Claude Galien
+    ga: Galen
+    gl: Galeno
+    gn: Galéno
+    gsw: Galenos
+    he: קלאודיוס גלנוס
+    hi: गैलेन
+    hif: Galen
+    hr: Galen
+    hu: Galénosz
+    hy: Գալեն Կլավդիոս
+    hyw: Փերկամոնացի Կալէն
+    ia: Galeno
+    id: Galenus
+    ilo: Galen
+    is: Galenos
+    it: Galeno
+    ja: ガレノス
+    ka: გალენოსი
+    kk: Гален
+    kn: ಗೇಲೆನ್
+    knc: Galen
+    ko: 갈레노스
+    ku: Galênos
+    ku-latn: Galênos
+    kw: Galen
+    ky: Гален
+    la: Claudius Galenus
+    lfn: Galeno
+    lmo: Galen
+    lt: Klaudijus Galenas
+    lv: Galēns
+    mad: Galenus
+    mg: Claude Galien
+    mk: Гален
+    ml: ഗലേൻ
+    mr: गालेन
+    ms: Galen
+    my: ဂေလန်
+    nan: Galen
+    nb: Galen
+    nds: Galenos
+    nl: Claudius Galenus
+    nn: Galenos
+    oc: Galen
+    pa: ਗਾਲੈਨ
+    pap: Galen
+    pl: Galen
+    pms: Galen
+    pnb: گالن
+    ps: جالینوس
+    pt: Cláudio Galeno
+    pt-br: Cláudio Galeno
+    ro: Galenus
+    ru: Гален
+    rue: Ґален
+    rup: Galen
+    sa: गेलेन्
+    sah: Гален
+    sat: ᱜᱟᱞᱮᱱ
+    scn: Galenu
+    sgs: Galens
+    sh: Galen
+    sk: Claudius Galénos
+    skr: جالینوس
+    sl: Klavdij Galen
+    sq: Galen
+    sr: Гален
+    sv: Galenos
+    sw: Galenos
+    ta: கலென்
+    tg: Ҷолинус
+    th: เกเลน
+    tl: Galen
+    tok: jan Kaleno
+    tr: Galen
+    tt: Гален
+    uk: Клавдій Гален
+    ur: جالینوس
+    uz: Galen Klavdiy
+    vi: Galen
+    war: Galeno
+    wuu: 盖伦
+    xmf: გალენოსი
+    yi: גאלען
+    yue: 蓋倫
+    zh: 盖伦
 ---
-
 # [[Galen]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Galen,8778|WD~Galen,8778]] 

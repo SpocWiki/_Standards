@@ -1,59 +1,117 @@
 ---
 aliases:
-  - redcurrant
-  - red currant
-  - Ribes rubrum
-  - Rote Johannisbeere
-  - ''
-  - Ribes_rubrum
-  - brixelal
-  - meruzalka červená
-  - meruzalka zahradní
-  - rybíz červený
-  - Llwyn Cwrens Coch
-  - cultivated currant
-  - Red Currant
-  - Redcurrant
-  - Punane sõstar
-  - lännenpunaherukka
-  - punaherukka
-  - groseillier rouge
-  - aalbes
-  - Aalbes
-  - ùa spinèla
-  - 红茶藨子
-  - 欧洲红穗醋栗
-  - 红果茶藨
-  - 红醋栗
-  - rdeče grozdičje
+- aalbes
+- Andere-mahats
+- Berrish yiarg
+- brixelal
+- Cerwjeny janowy krick
+- Coacăz roșu
+- Crvena ribizla
+- Crveni ribiz
+- cuirín dearg
+- cultivated currant
+- groseiller
+- groseillier rouge
+- Groselha
+- Groselleira vermella
+- Hagerips
+- Have-Ribs
+- Jeniver
+- Jieret
+- Kırmızı frenk üzümü
+- Llwyn Cwrens Coch
+- lännenpunaherukka
+- meruzalka zahradní
+- meruzalka červená
+- Miemer
+- porzeczka zwyczajna
+- punaherukka
+- Punane sõstar
+- Qırmızı qarağat
+- Raudonasis serbentas
+- rdeče grozdičje
+- red currant
+- redcurrant
+- riber vermell
+- Ribes rubrum
+- Ribes_rubrum
+- Rifsber
+- Riiblis
+- Rote Johannisbeere
+- Rote Ribisel
+- Rout Kréischel
+- Ruĝa ribo
+- rybíz červený
+- Ríbezľa červená
+- Röda vinbär
+- Sarkanā jāņoga
+- Sestrikaine
+- Swiãtojanka
+- Ua spineła
+- vörös ribiszke
+- wineberry
+- ùa spinèla
+- Čerwjeny januškowc
+- Φραγκοστάφυλο
+- Ашо шукшторов
+- Горд сутэр
+- Кызыл карлыган
+- Кызыл-кат
+- Парэчкі чырвоныя
+- Порічки
+- Смородина красная
+- Сырх хъæлæрдзы
+- Улаагана
+- Хаптаҕас
+- червен касис
+- Қызыл қарақат
+- Կարմիր հաղարջ
+- דומדמנית
+- انگورفرنگی سرخ
+- قیرمیزی قاراغات
+- كشمش أحمر
+- كشمش احمر
+- نانګه
+- റെഡ്കറന്റ്
+- เรดเคอร์แรนท์
+- წითელი მოცხარი
+- フサスグリ
+- 欧洲红穗醋栗
+- 紅加侖
+- 紅加侖子
+- 红加仑
+- 红果茶藨
+- 红茶藨子
+- 红醋栗
+- 레드커런트
 has_id_wikidata: Q146661
 taxon_common_name:
-  - brixelal
-  - meruzalka červená
-  - meruzalka zahradní
-  - rybíz červený
-  - Llwyn Cwrens Coch
-  - Rote Johannisbeere
-  - cultivated currant
-  - red currant
-  - Red Currant
-  - Redcurrant
-  - Punane sõstar
-  - lännenpunaherukka
-  - punaherukka
-  - groseillier rouge
-  - aalbes
-  - Aalbes
-  - ùa spinèla
-  - 红茶藨子
-  - 欧洲红穗醋栗
-  - 红果茶藨
-  - 红茶藨子
-  - 红醋栗
-  - rdeče grozdičje
+- brixelal
+- meruzalka červená
+- meruzalka zahradní
+- rybíz červený
+- Llwyn Cwrens Coch
+- Rote Johannisbeere
+- cultivated currant
+- red currant
+- Red Currant
+- Redcurrant
+- Punane sõstar
+- lännenpunaherukka
+- punaherukka
+- groseillier rouge
+- aalbes
+- Aalbes
+- ùa spinèla
+- 红茶藨子
+- 欧洲红穗醋栗
+- 红果茶藨
+- 红茶藨子
+- 红醋栗
+- rdeče grozdičje
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~redcurrant_juice,11889044]]'
-  - '[[_Standards/WikiData/WD~redcurrant,14714085]]'
+- '[[_Standards/WikiData/WD~redcurrant_juice,11889044]]'
+- '[[_Standards/WikiData/WD~redcurrant,14714085]]'
 NatureServe_conservation_status: '[[_Standards/WikiData/WD~apparently_secure,55714106]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]'
@@ -75,8 +133,109 @@ Commons_gallery: Ribes rubrum
 Commons_category: Ribes rubrum
 taxon_name: Ribes rubrum
 EPPO_Code: RIBRU
+dv_has_:
+  name_:
+    an: Ribes rubrum
+    ar: كشمش أحمر
+    arz: كشمش احمر
+    ast: Ribes rubrum
+    az: Qırmızı qarağat
+    azb: قیرمیزی قاراغات
+    bar: Rote Ribisel
+    be: Парэчкі чырвоныя
+    be-tarask: парэчкі чырвоныя
+    bg: червен касис
+    bxr: Улаагана
+    ca: riber vermell
+    ceb: Ribes rubrum
+    co: Ribes rubrum
+    cs: rybíz červený
+    csb: Swiãtojanka
+    cy: Llwyn Cwrens Coch
+    da: Have-Ribs
+    de: Rote Johannisbeere
+    dsb: Cerwjeny janowy krick
+    el: Φραγκοστάφυλο
+    en: Ribes rubrum
+    eo: Ruĝa ribo
+    es: Ribes rubrum
+    et: Punane sõstar
+    eu: Andere-mahats
+    ext: Ribes rubrum
+    fa: انگورفرنگی سرخ
+    fi: lännenpunaherukka
+    fr: groseiller
+    frr: Riiblis
+    ga: cuirín dearg
+    gl: Groselleira vermella
+    gv: Berrish yiarg
+    he: דומדמנית
+    hr: Crveni ribiz
+    hsb: Čerwjeny januškowc
+    hu: vörös ribiszke
+    hy: Կարմիր հաղարջ
+    ia: Ribes rubrum
+    ie: Ribes rubrum
+    ig: Ribes rubrum
+    io: Ribes rubrum
+    is: Rifsber
+    it: Ribes rubrum
+    ja: フサスグリ
+    ka: წითელი მოცხარი
+    kk: Қызыл қарақат
+    ko: 레드커런트
+    la: Ribes rubrum
+    lb: Rout Kréischel
+    li: Miemer
+    lij: Ribes rubrum
+    lt: Raudonasis serbentas
+    lv: Sarkanā jāņoga
+    ml: റെഡ്കറന്റ്
+    mul: Ribes rubrum
+    myv: Ашо шукшторов
+    nb: Hagerips
+    nl: aalbes
+    nn: Hagerips
+    oc: Ribes rubrum
+    os: Сырх хъæлæрдзы
+    pl: porzeczka zwyczajna
+    pms: Ribes rubrum
+    ps: نانګه
+    pt: Groselha
+    pt-br: Groselha
+    ro: Coacăz roșu
+    ru: Смородина красная
+    sah: Хаптаҕас
+    sco: wineberry
+    se: Jieret
+    sk: Ríbezľa červená
+    sl: rdeče grozdičje
+    sq: Ribes rubrum
+    sr: Crvena ribizla
+    sv: Röda vinbär
+    th: เรดเคอร์แรนท์
+    tr: Kırmızı frenk üzümü
+    tt: Кызыл карлыган
+    tt-cyrl: кызыл карлыган
+    tyv: Кызыл-кат
+    udm: Горд сутэр
+    uk: Порічки
+    vec: Ua spineła
+    vep: Sestrikaine
+    vi: Ribes rubrum
+    vls: Jeniver
+    vo: Ribes rubrum
+    war: Ribes rubrum
+    wuu: 红加仑
+    yue: 紅加侖子
+    zh: 紅加侖
+    zh-cn: 红加仑
+    zh-hans: 红加仑
+    zh-hant: 紅加侖
+    zh-hk: 紅加侖
+    zh-sg: 红加仑
+    zh-tw: 紅加侖
 ---
-
 # [[Ribes_rubrum]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Ribes_rubrum,146661|WD~Ribes_rubrum,146661]]  

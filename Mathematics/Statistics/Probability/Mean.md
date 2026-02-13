@@ -1,17 +1,160 @@
 ---
 aliases:
+- batezbestekoa
+- cymedr
+- gaskaárvu
+- gemiddelde
+- gennemsnit
+- gjennomsnitt
+- keskiarvo
+- koskâárvu
+- kõskkärvv
+- matematikai közép
+- mean
+- medelvärde
+- media
+- medie
+- mejana
+- meznombro
+- meán
+- Meðaltal
+- Min
+- mitjana
+- Mittelwert
+- moyenne
+- mèdia
+- média
+- ortalama
+- povprečje
+- purata
+- rerata
+- significado media
+- srednja vrednost
+- srednja vrijednost
+- stredná hodnota
+- střední hodnota
+- số bình quân
+- valor medius exspectatus
+- vidurkis
+- vidējā vērtība
+- średnia
+- μέση τιμή
+- Вăтам пĕлтерĕш
+- середні величини
+- средна вредност
+- среднее значение
+- сярэдняе значэнне
+- сярэдняе значэньне
+- Միջին մեծություններ
+- ממוצע
+- اورتالیق
+- رسنۍ
+- متوسط
+- میانگین
+- ناوەند
+- माध्य
+- সমক
+- મધ્યક
+- கூட்டுச்சராசரி
+- మధ్యమం
+- මධ්යන්යය
+- มัชฌิม
+- ຄ່າສະເຫຼ່ຍ
+- မီဒီယာ
+- 平均
+- 平均数
+- 平均數
+- 평균값
 has_id_wikidata: Q2796622
 instance_of:
-  - "[[_Standards/WikiData/WD~umbrella_term,210588]]"
-  - "[[_Standards/WikiData/WD~type_of_statistic,47103999]]"
-  - "[[_Standards/WikiData/WD~sourcing_circumstance,104637420]]"
-subclass_of: "[[_Standards/WikiData/WD~central_tendency,734219]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q22884851,22884851]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~umbrella_term,210588]]'
+- '[[_Standards/WikiData/WD~type_of_statistic,47103999]]'
+- '[[_Standards/WikiData/WD~sourcing_circumstance,104637420]]'
+subclass_of: '[[_Standards/WikiData/WD~central_tendency,734219]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22884851,22884851]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Commons_category: Means
+dv_has_:
+  name_:
+    af: gemiddelde
+    ar: متوسط
+    ast: media
+    azb: اورتالیق
+    be: сярэдняе значэнне
+    be-tarask: сярэдняе значэньне
+    bn: সমক
+    bs: srednja vrijednost
+    ca: mitjana
+    ckb: ناوەند
+    cs: střední hodnota
+    cv: Вăтам пĕлтерĕш
+    cy: cymedr
+    da: gennemsnit
+    de: Mittelwert
+    dtp: Min
+    el: μέση τιμή
+    en: mean
+    eo: meznombro
+    es: significado media
+    eu: batezbestekoa
+    fa: میانگین
+    fi: keskiarvo
+    fr: moyenne
+    ga: meán
+    gl: media
+    gu: મધ્યક
+    gv: mean
+    he: ממוצע
+    hi: माध्य
+    hu: matematikai közép
+    hy: Միջին մեծություններ
+    id: rerata
+    is: Meðaltal
+    it: media
+    ja: 平均
+    ko: 평균값
+    la: valor medius exspectatus
+    lo: ຄ່າສະເຫຼ່ຍ
+    lt: vidurkis
+    lv: vidējā vērtība
+    lzh: 平均數
+    mag: माध्य
+    mk: средна вредност
+    ms: purata
+    my: မီဒီယာ
+    nb: gjennomsnitt
+    nl: gemiddelde
+    nn: gjennomsnitt
+    oc: mejana
+    pl: średnia
+    ps: رسنۍ
+    pt: média
+    pt-br: média
+    ro: medie
+    ru: среднее значение
+    se: gaskaárvu
+    si: මධ්යන්යය
+    sk: stredná hodnota
+    sl: povprečje
+    smn: koskâárvu
+    sms: kõskkärvv
+    sr: srednja vrednost
+    su: Mean
+    sv: medelvärde
+    ta: கூட்டுச்சராசரி
+    te: మధ్యమం
+    th: มัชฌิม
+    tr: ortalama
+    uk: середні величини
+    vec: mèdia
+    vi: số bình quân
+    yue: 平均數
+    zh: 平均数
+    zh-hans: 平均数
+    zh-hant: 平均數
+    zh-hk: 平均數
 ---
-
 # [[Mean]] 
 
 #is_/similar_to :: [[Median|Median]]  

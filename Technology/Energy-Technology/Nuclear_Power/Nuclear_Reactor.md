@@ -1,8 +1,178 @@
 ---
 has_id_wikidata: Q80877
+dv_has_:
+  name_:
+    af: Kernreaktor
+    ar: مفاعل نووي
+    ast: Reactor nuclear
+    az: Nüvə reaktoru
+    ban: Réaktor nuklir
+    be: ядзерны рэактар
+    be-tarask: ядзерны рэактар
+    bg: Ядрен реактор
+    blk: နျူးကလီးယား မောင်းခြောင်အောင်
+    bn: পারমাণবিক চুল্লী
+    bs: nuklearni reaktor
+    ca: reactor nuclear
+    cdo: Hŏk huāng-éng-dŏi
+    ckb: کارتیاکەری ناوکی
+    cs: jaderný reaktor
+    cv: Нуклонсарла реактор
+    cy: Adweithydd niwclear
+    da: Kernereaktor
+    de: Kernreaktor
+    el: Πυρηνικός αντιδραστήρας
+    en: nuclear reactor
+    eo: nuklea reaktoro
+    es: reactor nuclear
+    et: tuumareaktor
+    eu: Erreaktore nuklear
+    fa: واکنشگاه هستهای
+    fi: ydinreaktori
+    fr: réacteur nucléaire
+    ga: imoibreoir núicléach
+    gl: reactor nuclear
+    he: כור גרעיני
+    hi: परमाणु भट्ठी
+    hr: nuklearni reaktor
+    ht: Reyaktè nikleyè
+    hu: atomreaktor
+    hy: Միջուկային ռեակտոր
+    id: reaktor nuklir
+    it: reattore nucleare
+    ja: 原子炉
+    ka: ბირთვული რეაქტორი
+    kk: Ядролық реактор
+    kn: ಅಣು ಸ್ಥಾವರ
+    ko: 원자로
+    ks: نیوکلیر ری ایکٹر
+    ku: Reaktora dendikî
+    la: Reactorium nucleare
+    lt: branduolinis reaktorius
+    lv: kodolreaktors
+    min: Reaktor nuklir
+    mk: јадрен реактор
+    ml: ആണവറിയാക്റ്റർ
+    mr: अणुभट्टी
+    ms: Reaktor nuklear
+    my: နျူးကလီးယား ဓာတ်ပေါင်းဖို
+    nb: atomreaktor
+    ne: परमाणु भट्टी
+    nl: kernreactor
+    nn: kjernereaktor
+    pa: ਨਿਊਕਲੀ ਭੱਠੀ
+    pl: reaktor jądrowy
+    pnb: نیوکلیئر ری ایکٹر
+    ps: اټومي بټۍ
+    pt: reator nuclear
+    rki: နျူးကလီးယား ဓာတ်ပေါင်းဖို
+    ro: reactor nuclear
+    ru: ядерный реактор
+    sco: Nuclear reactor
+    se: váimmusreáktor
+    sh: nuklearni reaktor
+    si: න්යෂ්ටික ප්රතික්රියාකාරක
+    sk: Jadrový reaktor
+    sl: jedrski reaktor
+    smn: váimusreaktor
+    sq: Reaktori bërthamor
+    sr: нуклеарни реактор
+    sr-ec: нуклеарни реактор
+    sr-el: nuklearni reaktor
+    sv: kärnreaktor
+    sw: Tanuri la nyuklia
+    ta: அணுக்கரு உலை
+    te: అణు రియాక్టరు
+    th: เครื่องปฏิกรณ์นิวเคลียร์
+    tr: Nükleer Reaktör
+    tt: Төш реакторы
+    uk: ядерний реактор
+    ur: نویاتی معمل
+    uz: Atom reaktori
+    vi: lò phản ứng hạt nhân
+    war: Reaktor nukleyar
+    wuu: 核反应堆
+    yue: 核反應堆
+    zh: 核反应堆
+aliases:
+- Adweithydd niwclear
+- Atom reaktori
+- atomreaktor
+- branduolinis reaktorius
+- Erreaktore nuklear
+- Hŏk huāng-éng-dŏi
+- imoibreoir núicléach
+- jaderný reaktor
+- Jadrový reaktor
+- jedrski reaktor
+- Kernereaktor
+- kernreactor
+- Kernreaktor
+- kjernereaktor
+- kodolreaktors
+- kärnreaktor
+- lò phản ứng hạt nhân
+- nuclear reactor
+- nuklea reaktoro
+- nuklearni reaktor
+- Nükleer Reaktör
+- Nüvə reaktoru
+- reactor nuclear
+- Reactorium nucleare
+- reaktor jądrowy
+- Reaktor nuklear
+- Reaktor nukleyar
+- reaktor nuklir
+- Reaktora dendikî
+- Reaktori bërthamor
+- reator nuclear
+- reattore nucleare
+- Reyaktè nikleyè
+- réacteur nucléaire
+- Réaktor nuklir
+- Tanuri la nyuklia
+- tuumareaktor
+- váimmusreáktor
+- váimusreaktor
+- ydinreaktori
+- Πυρηνικός αντιδραστήρας
+- јадрен реактор
+- нуклеарни реактор
+- Нуклонсарла реактор
+- Төш реакторы
+- ядерний реактор
+- ядерный реактор
+- ядзерны рэактар
+- Ядрен реактор
+- Ядролық реактор
+- Միջուկային ռեակտոր
+- כור גרעיני
+- اټومي بټۍ
+- مفاعل نووي
+- نویاتی معمل
+- نیوکلیئر ری ایکٹر
+- نیوکلیر ری ایکٹر
+- واکنشگاه هستهای
+- کارتیاکەری ناوکی
+- अणुभट्टी
+- परमाणु भट्टी
+- परमाणु भट्ठी
+- পারমাণবিক চুল্লী
+- ਨਿਊਕਲੀ ਭੱਠੀ
+- அணுக்கரு உலை
+- అణు రియాక్టరు
+- ಅಣು ಸ್ಥಾವರ
+- ആണവറിയാക്റ്റർ
+- න්යෂ්ටික ප්රතික්රියාකාරක
+- เครื่องปฏิกรณ์นิวเคลียร์
+- နျူးကလီးယား ဓာတ်ပေါင်းဖို
+- နျူးကလီးယား မောင်းခြောင်အောင်
+- ბირთვული რეაქტორი
+- 原子炉
+- 核反应堆
+- 核反應堆
+- 원자로
 ---
-
-
 # [[Nuclear_Reactor]] 
 
 

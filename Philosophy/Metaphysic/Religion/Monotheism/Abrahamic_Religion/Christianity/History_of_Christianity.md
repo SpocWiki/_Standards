@@ -1,19 +1,168 @@
 ---
 aliases:
+- a kereszténység története
+- dejiny kresťanstva
+- dîroka mesîhîtiyê
+- dějiny křesťanství
+- Geschichte des Christentums
+- geschiedenis van het christendom
+- geskydenisse van et kristendom
+- hanes Cristnogaeth
+- histoire du christianisme
+- historia chrześcijaństwa
+- Historia del christianismo
+- historia del cristianismo
+- Historia del cristianismu
+- historia do cristianismo
+- Historia e Krishterimit
+- Historia ya Kanisa
+- historio de kristanismo
+- Historio di Kristanismo
+- history of Christianity
+- història del cristianisme
+- história do cristianismo
+- Hristiyanlık tarihi
+- istor ar gristeniezh
+- Istorgia da la baselgia
+- istoria creștinismului
+- Istorija hrišćanstva
+- Kaagi han Kristiyanismo
+- Kristautasunaren historia
+- kristendomens historia
+- kristendomens historie
+- kristendommens historie
+- kristietības vēsture
+- kristinuskon historia
+- kristtalašvuođa historjá
+- lịch sử Kitô giáo
+- povijest kršćanstva
+- risttveâr historia
+- ristâosko historjá
+- Sejarah Kekristenan
+- storia del cristianesimo
+- Storja tal-Kristjaneżmu
+- Stória de l Crestianismo
+- Tantaran' ny kristianisma
+- zgodovina krščanstva
+- Ιστορία του Χριστιανισμού
+- історія християнства
+- гісторыя хрысціянства
+- гісторыя хрысьціянства
+- Историја на христијанството
+- История на християнството
+- история христианства
+- քրիստոնեության պատմություն
+- היסטוריה של הנצרות
+- تاريخ المسيحية
+- تاريخ المسيحيه
+- تاریخ مسیحیت
+- د مسیحیت تاریخ
+- عيسائيت جي تاريخ
+- عیسائیت دی تریخ
+- इसाई धर्म केरऽ इतिहास
+- ईसाई धर्म का इतिहास
+- ख्रिश्चन धर्माचा इतिहास
+- খ্রিস্টধর্মের ইতিহাস
+- ක්රිස්තියානියේ ඉතිහාසය
+- ประวัติศาสนาคริสต์
+- ქრისტიანობის ისტორია
+- キリスト教の歴史
+- 基督教历史
+- 基督教歷史
+- 기독교의 역사
 has_id_wikidata: Q235329
-described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-practiced_by: "[[_Standards/WikiData/WD~church_historian,1743122]]"
-studied_by: "[[_Standards/WikiData/WD~church_history,1800439]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Christianity,8090086]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-different_from: "[[_Standards/WikiData/WD~A_History_of_Christianity,25193795]]"
-subclass_of: "[[_Standards/WikiData/WD~history,309]]"
-facet_of: "[[_Standards/WikiData/WD~Christianity,5043]]"
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+practiced_by: '[[_Standards/WikiData/WD~church_historian,1743122]]'
+studied_by: '[[_Standards/WikiData/WD~church_history,1800439]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Christianity,8090086]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+different_from: '[[_Standards/WikiData/WD~A_History_of_Christianity,25193795]]'
+subclass_of: '[[_Standards/WikiData/WD~history,309]]'
+facet_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Provenio_UUID: 9cedd4ad-679c-42e6-af64-06b21ec7e16e
 Commons_category: History of Christianity
 Library_of_Congress_Classification: BR140-BR1510
+dv_has_:
+  name_:
+    anp: इसाई धर्म केरऽ इतिहास
+    ar: تاريخ المسيحية
+    arz: تاريخ المسيحيه
+    ast: Historia del cristianismu
+    be: гісторыя хрысціянства
+    be-tarask: гісторыя хрысьціянства
+    bg: История на християнството
+    bn: খ্রিস্টধর্মের ইতিহাস
+    br: istor ar gristeniezh
+    ca: història del cristianisme
+    cs: dějiny křesťanství
+    cy: hanes Cristnogaeth
+    da: kristendomens historie
+    de: Geschichte des Christentums
+    el: Ιστορία του Χριστιανισμού
+    en: history of Christianity
+    eo: historio de kristanismo
+    es: historia del cristianismo
+    eu: Kristautasunaren historia
+    fa: تاریخ مسیحیت
+    fi: kristinuskon historia
+    fr: histoire du christianisme
+    gl: historia do cristianismo
+    he: היסטוריה של הנצרות
+    hi: ईसाई धर्म का इतिहास
+    hr: povijest kršćanstva
+    hu: a kereszténység története
+    hy: քրիստոնեության պատմություն
+    ia: Historia del christianismo
+    id: Sejarah Kekristenan
+    io: Historio di Kristanismo
+    it: storia del cristianesimo
+    ja: キリスト教の歴史
+    ka: ქრისტიანობის ისტორია
+    ko: 기독교의 역사
+    ku: dîroka mesîhîtiyê
+    ku-latn: dîroka mesîhîtiyê
+    lv: kristietības vēsture
+    mg: Tantaran' ny kristianisma
+    mk: Историја на христијанството
+    mr: ख्रिश्चन धर्माचा इतिहास
+    mt: Storja tal-Kristjaneżmu
+    mwl: Stória de l Crestianismo
+    nb: kristendommens historie
+    nds-nl: geskydenisse van et kristendom
+    nl: geschiedenis van het christendom
+    pl: historia chrześcijaństwa
+    pnb: عیسائیت دی تریخ
+    ps: د مسیحیت تاریخ
+    pt: história do cristianismo
+    pt-br: história do cristianismo
+    rm: Istorgia da la baselgia
+    ro: istoria creștinismului
+    ru: история христианства
+    sd: عيسائيت جي تاريخ
+    se: kristtalašvuođa historjá
+    si: ක්රිස්තියානියේ ඉතිහාසය
+    sk: dejiny kresťanstva
+    sl: zgodovina krščanstva
+    smn: ristâosko historjá
+    sms: risttveâr historia
+    sq: Historia e Krishterimit
+    sr: Istorija hrišćanstva
+    sv: kristendomens historia
+    sw: Historia ya Kanisa
+    th: ประวัติศาสนาคริสต์
+    tr: Hristiyanlık tarihi
+    uk: історія християнства
+    ur: تاریخ مسیحیت
+    vi: lịch sử Kitô giáo
+    war: Kaagi han Kristiyanismo
+    zh: 基督教历史
+    zh-cn: 基督教历史
+    zh-hans: 基督教历史
+    zh-hant: 基督教歷史
+    zh-hk: 基督教歷史
+    zh-sg: 基督教历史
+    zh-tw: 基督教歷史
 ---
-
 # [[History_of_Christianity]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~History_of_Christianity,235329|WD~History_of_Christianity,235329]] 

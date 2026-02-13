@@ -1,8 +1,148 @@
 ---
 aliases:
-  - Rotifera
+- Hjuldjur
+- Hjuldyr
+- kerekesférgek
+- Keriloomad
+- kidudu-gurudumu
+- Kolnjaci
+- kotačniki
+- Luân trùng
+- Mananap nga ligid
+- raderdieren
+- Rajerdere
+- rataseläimet
+- Rotatorija
+- Rotatorije
+- Rotatorilər
+- rothánach
+- rotifer
+- Rotifera
+- Rotifero
+- Rotiferoj
+- Rotìfer
+- Rotífer
+- Rotíferos
+- Rädertierchen
+- tekerlekli hayvanlar
+- Táyiʼ naatʼiʼí bizééʼ nímazígíí
+- Verpetės
+- Virpotāji
+- Vírniky
+- vířníci
+- Weldiarten
+- wrotki
+- Τροχoφόρα
+- калаўроткі
+- коловертки
+- Коловратка
+- коловратки
+- ротаторија
+- ротифери
+- Өйрөлмәктәр
+- անվաորդեր
+- רוטיפרה
+- دوارات
+- چرخداران
+- किरीटी
+- ರೋಟಿಫೆರ
+- โรติเฟอร์
+- ციბრუტელები
+- 輪形動物門
+- 輪蟲動物
+- 轮形动物门
+- 윤형동물
 title: Rotifera
 has_id_wikidata: Q180148
+dv_has_:
+  name_:
+    af: Rotifera
+    an: Rotifera
+    ar: دوارات
+    arz: دوارات
+    ast: Rotifera
+    az: Rotatorilər
+    ba: Өйрөлмәктәр
+    be: калаўроткі
+    bg: ротифери
+    bs: Rotifera
+    ca: Rotífer
+    ceb: Mananap nga ligid
+    cs: vířníci
+    da: Hjuldyr
+    de: Rädertierchen
+    el: Τροχoφόρα
+    en: Rotifera
+    eo: Rotiferoj
+    es: Rotifera
+    et: Keriloomad
+    eu: Rotifera
+    ext: Rotifera
+    fa: چرخداران
+    fi: rataseläimet
+    fr: Rotifera
+    frr: Weldiarten
+    ga: rothánach
+    gl: Rotíferos
+    he: רוטיפרה
+    hi: किरीटी
+    hr: Kolnjaci
+    hu: kerekesférgek
+    hy: անվաորդեր
+    ia: Rotifera
+    id: Rotifera
+    ie: Rotifera
+    io: Rotifero
+    it: Rotifera
+    ja: 輪形動物門
+    ka: ციბრუტელები
+    kk: Коловратка
+    kn: ರೋಟಿಫೆರ
+    ko: 윤형동물
+    la: Rotifera
+    lfn: Rotifero
+    li: Rajerdere
+    lt: Verpetės
+    lv: Virpotāji
+    mk: Ротифери
+    mul: Rotifera
+    nb: Hjuldyr
+    nl: raderdieren
+    nn: hjuldyr
+    nv: Táyiʼ naatʼiʼí bizééʼ nímazígíí
+    oc: Rotifera
+    pl: wrotki
+    pms: Rotìfer
+    pt: Rotifera
+    pt-br: Rotifera
+    ro: Rotifera
+    ru: коловратки
+    sco: rotifer
+    sh: Rotatorije
+    sk: Vírniky
+    sl: kotačniki
+    sq: Rotifera
+    sr: ротаторија
+    sr-ec: Ротаторија
+    sr-el: Rotatorija
+    sv: Hjuldjur
+    sw: kidudu-gurudumu
+    th: โรติเฟอร์
+    tl: Rotifera
+    tr: tekerlekli hayvanlar
+    uk: коловертки
+    vi: Luân trùng
+    vo: Rotifera
+    war: Rotifera
+    wuu: 轮形动物门
+    yue: 輪蟲動物
+    zh: 轮形动物门
+    zh-cn: 轮形动物门
+    zh-hans: 轮形动物门
+    zh-hant: 輪形動物門
+    zh-hk: 輪形動物門
+    zh-sg: 轮形动物门
+    zh-tw: 輪形動物門
 ---
 # [[Rotifera]] 
 

@@ -1,8 +1,60 @@
 ---
 aliases:
-  - Aspidogastrea
+- Aspidogastrea
+- Aspidogastri
+- Аспідогастри
+- Аспидогастреи
+- аспидогастрии
+- اسبيدوجاستريا
+- 楯吸虫亜綱
+- 盾腹亚纲
+- 盾腹亞綱
 title: Aspidogastrea
 has_id_wikidata: Q576111
+dv_has_:
+  name_:
+    an: Aspidogastrea
+    arz: اسبيدوجاستريا
+    ast: Aspidogastrea
+    bg: аспидогастрии
+    ca: Aspidogastri
+    ceb: Aspidogastrea
+    de: Aspidogastrea
+    en: Aspidogastrea
+    eo: Aspidogastrea
+    es: Aspidogastrea
+    eu: Aspidogastrea
+    ext: Aspidogastrea
+    fi: Aspidogastrea
+    fr: Aspidogastrea
+    ga: Aspidogastrea
+    gl: Aspidogastrea
+    ia: Aspidogastrea
+    id: Aspidogastrea
+    ie: Aspidogastrea
+    io: Aspidogastrea
+    it: Aspidogastrea
+    ja: 楯吸虫亜綱
+    la: Aspidogastrea
+    mul: Aspidogastrea
+    nl: Aspidogastrea
+    oc: Aspidogastrea
+    pl: Aspidogastrea
+    pt: Aspidogastrea
+    pt-br: Aspidogastrea
+    ro: Aspidogastrea
+    ru: Аспидогастреи
+    sq: Aspidogastrea
+    sv: Aspidogastrea
+    tr: Aspidogastrea
+    uk: Аспідогастри
+    vi: Aspidogastrea
+    vo: Aspidogastrea
+    war: Aspidogastrea
+    zh: 盾腹亚纲
+    zh-cn: 盾腹亚纲
+    zh-hans: 盾腹亚纲
+    zh-tw: 盾腹亞綱
 ---
 ## Phylogeny 
 

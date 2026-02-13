@@ -1,33 +1,185 @@
 ---
 aliases:
-  - Herd
-  - Stove
+- ahi
+- berogailu
+- bếp lò
+- Chitofu
+- Chàu-thâu
+- estufa
+- fogão
+- Fornet
+- Furnulus
+- Herd
+- kachel
+- kachle
+- Kachlok
+- kamin
+- kamna
+- Kompor
+- krosnis
+- krāsns
+- kályha
+- lämmitysuuni
+- Ocaq
+- Ofen
+- peč
+- piec
+- poêle
+- Pwèl (chofaj)
+- Rešo
+- soba
+- Sobe
+- Sobë
+- sobă
+- Stouve
+- Stove
+- stovo
+- Stua
+- stufa
+- Stuov
+- Stuva
+- Thagirĩ
+- Tungku
+- Uewen
+- Σόμπα
+- груба
+- грубка
+- домашняя печь
+- йорт миче
+- печка
+- Печка (горивна)
+- штедњак
+- Վառարան
+- תנור
+- اجاق
+- سۆبە
+- موقد
+- چُلھا
+- کله
+- चुल्हो
+- উনুন
+- அடுப்பு
+- സ്റ്റൌ
+- እቶን
+- ストーブ
+- 灶
+- 灶头
+- 烘箱
+- 爐
+- 난로
 has_id_wikidata: Q203789
 different_from:
-  - '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
-  - '[[_Standards/WikiData/WD~heating_furnace,1709184]]'
-  - '[[_Standards/WikiData/WD~central_heating_unit,10715538]]'
+- '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
+- '[[_Standards/WikiData/WD~heating_furnace,1709184]]'
+- '[[_Standards/WikiData/WD~central_heating_unit,10715538]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~home_appliance,212920]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~heater,3588251]]'
-  - '[[_Standards/WikiData/WD~cooker,14918092]]'
+- '[[_Standards/WikiData/WD~home_appliance,212920]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~heater,3588251]]'
+- '[[_Standards/WikiData/WD~cooker,14918092]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_use: '[[_Standards/WikiData/WD~heating_equipment,11880006]]'
 instance_of: '[[_Standards/WikiData/WD~jig,15331]]'
 Commons_gallery: Stove
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bad%20D%C3%BCrrenberg%2C%20iron%20stove%20in%20the%20Laurentius%20church.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wasserf%C3%BChrender%20Holzvergaserofen.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bad%20D%C3%BCrrenberg%2C%20iron%20stove%20in%20the%20Laurentius%20church.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wasserf%C3%BChrender%20Holzvergaserofen.jpg
 Dewey_Decimal_Classification:
-  - 644.1
-  - 697.22
+- 644.1
+- 697.22
+dv_has_:
+  name_:
+    ar: موقد
+    az: Ocaq
+    be: грубка
+    be-tarask: груба
+    bg: Печка (горивна)
+    bn: উনুন
+    ca: estufa
+    ckb: سۆبە
+    cs: kamna
+    da: kamin
+    de: Ofen
+    el: Σόμπα
+    en: stove
+    en-ca: Stove
+    en-gb: stove
+    eo: stovo
+    es: estufa
+    et: ahi
+    eu: berogailu
+    fa: اجاق
+    fi: lämmitysuuni
+    fr: poêle
+    fy: Stove
+    gan: 灶
+    gan-hans: 灶
+    gan-hant: 灶
+    gcr: Pwèl (chofaj)
+    gl: estufa
+    ha: Stove
+    he: תנור
+    hsb: kachle
+    hu: kályha
+    hy: Վառարան
+    id: Kompor
+    it: stufa
+    ja: ストーブ
+    jam: Stuov
+    jv: Tungku
+    ki: Thagirĩ
+    ko: 난로
+    ku: Sobe
+    ku-arab: سۆبە
+    ku-latn: Sobe
+    la: Furnulus
+    lb: Uewen
+    lmo: Stuva
+    lt: krosnis
+    lv: krāsns
+    mad: kompor
+    mk: печка
+    ml: സ്റ്റൌ
+    mzn: کله
+    nan: Chàu-thâu
+    nds-nl: stove
+    ne: चुल्हो
+    nl: kachel
+    oc: Fornet
+    pl: piec
+    pnb: چُلھا
+    pt: fogão
+    pt-br: fogão
+    ro: sobă
+    ru: домашняя печь
+    sk: kachle
+    sl: peč
+    sn: Chitofu
+    sq: Sobë
+    sr: штедњак
+    sr-ec: штедњак
+    sr-el: Rešo
+    su: Kompor
+    sv: kamin
+    szl: Kachlok
+    ta: அடுப்பு
+    ti: እቶን
+    tr: soba
+    tt: йорт миче
+    tt-cyrl: йорт миче
+    uk: груба
+    vec: Stua
+    vi: bếp lò
+    wa: Stouve
+    wuu: 灶头
+    yue: 爐
+    zh: 烘箱
+    zh-hant: 灶
 ---
-
 # [[Stove]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Stove,203789|WD~Stove,203789]] 

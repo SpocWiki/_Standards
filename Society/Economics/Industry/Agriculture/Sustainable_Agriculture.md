@@ -1,22 +1,136 @@
 ---
 aliases:
+- agricoltura sostenibile
+- agricultura sostenible
+- agricultura sustentável
+- agriculture durable
+- agricultură durabilă
+- Agrikilti dirab
+- bujqësia e qëndrueshme
+- bærekraftig landbruk
+- duurzame landbouw
+- eltenebla agrikulturo
+- fenntartható mezőgazdaság
+- hållbart jordbruk
+- kestävä maatalous
+- Lejʉʼ ŋgɔ̄ŋ yi nāŋa nāŋa
+- nachhaltige Landwirtschaft
+- Nekazaritza jasangarri
+- Noma mai daurewa
+- nông nghiệp bền vững
+- održiva poljoprivreda
+- Pertanian berkelanjutan
+- pertanian mampan
+- rolnictwo zrównoważone
+- sustainable
+- sustainable agriculture
+- sürdürülebilir tarım
+- talmhaíocht inmharthana
+- trajnostno kmetijstvo
+- trvale udržitelné zemědělství
+- Ubuhinzi burambye
+- udržateľné poľnohospodárstvo
+- βιώσιμη γεωργία
+- Кишоварзии устувор
+- стале сільське господарство
+- Тĕреклĕ ялхуçалăхĕ
+- Тогтвортой хөдөө аж ахуй
+- устойлівая сельская гаспадарка
+- Устойчиво земеделие
+- устойчивое сельское хозяйство
+- կայուն գյուղատնտեսություն
+- חקלאות בת קיימא
+- تلپاتې کرنه
+- زراعة مستدامة
+- ڤرتانين ممڤن
+- کشاورزی پایدار
+- टिकाऊ कृषि
+- টেকসই কৃষি
+- பேண்தகு விவசாயம்
+- เกษตรกรรมยั่งยืน
+- ກະເສດແບບຍືນຍົງ
+- მდგრადი სოფლის მეურნეობა
+- Ọrụ ugbo na-adigide
+- 持続可能な農業
+- 永續農業
+- 지속농업
 has_id_wikidata: Q2751054
 subclass_of:
-  - "[[_Standards/WikiData/WD~sustainable_development,131201]]"
-  - "[[_Standards/WikiData/WD~green_infrastructure,3427027]]"
-different_from: "[[_Standards/WikiData/WD~organic_agriculture,165647]]"
+- '[[_Standards/WikiData/WD~sustainable_development,131201]]'
+- '[[_Standards/WikiData/WD~green_infrastructure,3427027]]'
+different_from: '[[_Standards/WikiData/WD~organic_agriculture,165647]]'
 part_of:
-  - "[[_Standards/WikiData/WD~sustainability,219416]]"
-  - "[[_Standards/WikiData/WD~sustainable_food_system,76737185]]"
-has_part_s_: "[[_Standards/WikiData/WD~good_agricultural_practice,1318169]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-instance_of: "[[_Standards/WikiData/WD~farming_system,56395513]]"
-described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+- '[[_Standards/WikiData/WD~sustainability,219416]]'
+- '[[_Standards/WikiData/WD~sustainable_food_system,76737185]]'
+has_part_s_: '[[_Standards/WikiData/WD~good_agricultural_practice,1318169]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+instance_of: '[[_Standards/WikiData/WD~farming_system,56395513]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
 Library_of_Congress_Classification: S494.5.S86
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coffee%20farm%20in%20Colombia.jpg
 Commons_category: Sustainable agriculture
+dv_has_:
+  name_:
+    ar: زراعة مستدامة
+    be-tarask: устойлівая сельская гаспадарка
+    bg: Устойчиво земеделие
+    bn: টেকসই কৃষি
+    ca: agricultura sostenible
+    cs: trvale udržitelné zemědělství
+    cv: Тĕреклĕ ялхуçалăхĕ
+    de: nachhaltige Landwirtschaft
+    el: βιώσιμη γεωργία
+    en: sustainable agriculture
+    en-ca: sustainable agriculture
+    en-gb: sustainable agriculture
+    eo: eltenebla agrikulturo
+    es: agricultura sostenible
+    eu: Nekazaritza jasangarri
+    fa: کشاورزی پایدار
+    fi: kestävä maatalous
+    fr: agriculture durable
+    ga: talmhaíocht inmharthana
+    ha: Noma mai daurewa
+    he: חקלאות בת קיימא
+    hi: टिकाऊ कृषि
+    ht: Agrikilti dirab
+    hu: fenntartható mezőgazdaság
+    hy: կայուն գյուղատնտեսություն
+    id: Pertanian berkelanjutan
+    ig: Ọrụ ugbo na-adigide
+    it: agricoltura sostenibile
+    ja: 持続可能な農業
+    ka: მდგრადი სოფლის მეურნეობა
+    ko: 지속농업
+    lo: ກະເສດແບບຍືນຍົງ
+    mn: Тогтвортой хөдөө аж ахуй
+    mr: sustainable
+    ms: pertanian mampan
+    ms-arab: ڤرتانين ممڤن
+    nb: bærekraftig landbruk
+    nl: duurzame landbouw
+    pl: rolnictwo zrównoważone
+    ps: تلپاتې کرنه
+    pt: agricultura sustentável
+    pt-br: agricultura sustentável
+    ro: agricultură durabilă
+    ru: устойчивое сельское хозяйство
+    rw: Ubuhinzi burambye
+    sk: udržateľné poľnohospodárstvo
+    sl: trajnostno kmetijstvo
+    sq: bujqësia e qëndrueshme
+    sr: održiva poljoprivreda
+    sv: hållbart jordbruk
+    ta: பேண்தகு விவசாயம்
+    tg: Кишоварзии устувор
+    th: เกษตรกรรมยั่งยืน
+    tr: sürdürülebilir tarım
+    uk: стале сільське господарство
+    vi: nông nghiệp bền vững
+    ybb: Lejʉʼ ŋgɔ̄ŋ yi nāŋa nāŋa
+    yue: 永續農業
+    zh: 永續農業
 ---
-
 # [[Sustainable_Agriculture]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sustainable_agriculture,2751054|WD~Sustainable_agriculture,2751054]]  

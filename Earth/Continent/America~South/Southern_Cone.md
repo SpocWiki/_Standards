@@ -1,29 +1,77 @@
 ---
 aliases:
-  - Southern Cone
-  - Cono Sur
-  - Cone Sul
-  - Southern_Cone
+- Akin-abagatan a Kono
+- Apágúúsù Cone
+- Con Sud
+- Cone Sul
+- Cono Sud
+- Cono Sur
+- Conu Sur
+- Conul Sudic
+- Conus Australis
+- Corong Kidul
+- Còn Sud
+- Cône Sud
+- De De America
+- Den sørlige kjegle
+- Güney Konisi
+- Hego Konoa
+- Južna kupa
+- Južni konus
+- Južni stožec
+- Kerucut Selatan
+- Lõunakoonus
+- Pietų kampas
+- Salatan nga Cono
+- Soothren Cone
+- Southern Cone
+- Southern_Cone
+- Suda Konuso
+- Suðurkeilan
+- Südkegel
+- Süüdkeegel
+- Zuidkegel
+- Јужна Купа
+- Південний конус
+- Паўднёвы Конус
+- Южен конус
+- Южный конус
+- Հարավային կոն
+- דרום החרוט
+- المخروط الجنوبي
+- جنوبی مخروط
+- سوېلي شنک
+- مخروط جنوبی
+- दक्षिणी शंकु
+- ਦੱਖਣੀ ਕੋਨ
+- தெற்கு கூம்பு
+- กรวยใต้
+- სამხრეთის კონუსი
+- ᱮᱛᱚᱢ ᱠᱚᱱ
+- コーノ・スール
+- 南錐體
+- 南锥体
+- 코노 수르
 has_id_wikidata: Q236118
-instance_of: "[[_Standards/WikiData/WD~region,82794]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]"
+instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]'
 coordinate_location: Point(-67.9 -39.1)
 population: 135707204
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
 area: 5712034
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg
@@ -31,25 +79,91 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zuidkegel%20bann
 Commons_category: Southern Cone
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
-    - "[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]"
-    - "[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]"
-    - "[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]"
-    - "[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]"
-    - "[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]"
-    - "[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]"
-    - "[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]"
+  - '[[_Standards/WikiData/WD~Southern_Cone,236118]]'
+  - '[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]'
+  - '[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]'
+  - '[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]'
+  - '[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]'
+  - '[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]'
+  - '[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]'
+  - '[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
-  - "[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]"
-  - "[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]"
-  - "[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]"
-  - "[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]"
-  - "[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]"
-  - "[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]"
-  - "[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]"
+- '[[_Standards/WikiData/WD~Southern_Cone,236118]]'
+- '[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]'
+- '[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]'
+- '[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]'
+- '[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]'
+- '[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]'
+- '[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]'
+- '[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]'
+dv_has_:
+  name_:
+    ar: المخروط الجنوبي
+    ast: Conu Sur
+    be: Паўднёвы Конус
+    be-tarask: Паўднёвы Конус
+    bg: Южен конус
+    bs: Južna kupa
+    ca: Con Sud
+    cs: Cono Sur
+    cy: De De America
+    de: Südkegel
+    en: Southern Cone
+    eo: Suda Konuso
+    es: Cono Sur
+    et: Lõunakoonus
+    eu: Hego Konoa
+    fa: مخروط جنوبی
+    fr: Cône Sud
+    frr: Süüdkeegel
+    gl: Cono Sur
+    he: דרום החרוט
+    hi: दक्षिणी शंकु
+    hr: Južni konus
+    hy: Հարավային կոն
+    id: Kerucut Selatan
+    ilo: Akin-abagatan a Kono
+    is: Suðurkeilan
+    it: Cono Sud
+    ja: コーノ・スール
+    jv: Corong Kidul
+    ka: სამხრეთის კონუსი
+    ko: 코노 수르
+    la: Conus Australis
+    lt: Pietų kampas
+    mk: Јужна Купа
+    ms: Kerucut Selatan
+    nb: Den sørlige kjegle
+    nl: Zuidkegel
+    oc: Còn Sud
+    pa: ਦੱਖਣੀ ਕੋਨ
+    ps: سوېلي شنک
+    pt: Cone Sul
+    ro: Conul Sudic
+    ru: Южный конус
+    sat: ᱮᱛᱚᱢ ᱠᱚᱱ
+    sco: Soothren Cone
+    sh: Južna kupa
+    sl: Južni stožec
+    sr: Јужна купа
+    sr-ec: Јужна купа
+    sr-el: Južna kupa
+    ta: தெற்கு கூம்பு
+    th: กรวยใต้
+    tr: Güney Konisi
+    uk: Південний конус
+    ur: جنوبی مخروط
+    vec: Cono sud
+    war: Salatan nga Cono
+    yo: Apágúúsù Cone
+    zh: 南錐體
+    zh-cn: 南锥体
+    zh-hans: 南锥体
+    zh-hant: 南錐體
+    zh-hk: 南錐體
+    zh-sg: 南锥体
+    zh-tw: 南錐體
 ---
-
 # [[Southern_Cone]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Southern_Cone,236118]]

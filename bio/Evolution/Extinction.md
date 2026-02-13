@@ -1,43 +1,264 @@
 ---
 aliases:
-  - extinct
-  - Ausrottung
-  - ausgerottet
-  - Extinction
+- angar
+- ausgerottet
+- Ausrottung
+- Aussterben
+- bakhtiyeen
+- Bia̍t-choa̍t
+- Chhie̍t-chúng
+- difeudhans
+- Difodiant
+- díobhadh
+- ekstenksyon
+- ekstenksyon di sé lèspès
+- ekstinsiyon
+- espezieen iraungipen
+- Estinción
+- estinzione
+- Exstinctio
+- extincion d'una espècia
+- extinció
+- extinción
+- extinct
+- Extinction
+- extinction des espèces
+- extincție
+- extinktione
+- extinção
+- fongana
+- formorto
+- izmiršana
+- Izumiranje
+- izumrtje
+- išnykimas
+- Karewar kwayoyin halitta
+- Kepunahan
+- kepupusan
+- kihalás
+- líhmà
+- mgbukpọ
+- naubos pagkamatay
+- nemabûyî
+- Nəsil kəsilməsi
+- Pagkapuho
+- pagkapuo
+- pannakaungaw
+- Qirilib ketish
+- rikch'aq wañuy
+- sooǥǥteʹmesvuõtt
+- soy tükenmesi
+- Spesies cures
+- sukupuutto
+- tuyệt chủng
+- Uddød
+- uitsterven
+- Uitsterwing
+- utdöd
+- utdøydde artar
+- utryddelse
+- Utstjerren (biology)
+- vyhynutie
+- vymírání
+- väljasuremine
+- wymieranie
+- zhdukja
+- útdauði
+- Εξαφάνιση
+- вимирання
+- вымiраньне
+- выміранне
+- вымирание
+- Ейна дӀаялар
+- Измиране
+- изумирање
+- Инқироз
+- юкка чыгу
+- юҡҡа сығыу
+- Қырылу
+- מינים שנכחדו
+- انقراض
+- انقراض/ له منځه تلل
+- قڕان
+- ناپیدیت
+- نسیل کسیلمهسی
+- نەمابوویی
+- ߕߌߢߍߟߌ
+- नामशेष प्रजाती
+- लोप
+- विलुप्ति
+- বিলুপ্তি
+- ਲੋਪ
+- વિલુપ્ત જાતિ
+- ଲୁପ୍ତ
+- இனஅழிவு
+- కనుమరుగైన జాతులు
+- വംശനാശം സംഭവിച്ച ജീവികൾ
+- වඳ වී යාම
+- การสูญพันธุ์
+- မျိုးသုဉ်းခြင်း
+- ამოწყდომა
+- 灭绝
+- 絕滅
+- 絕種
+- 絶滅
+- 绝灭
+- 절멸
 has_id_wikidata: Q123509
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~conservation,628403]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~population_dynamics,904564]]'
-  - '[[_Standards/WikiData/WD~history_of_life,1098275]]'
-  - '[[_Standards/WikiData/WD~speciation_and_extinction,113042730]]'
+- '[[_Standards/WikiData/WD~population_dynamics,904564]]'
+- '[[_Standards/WikiData/WD~history_of_life,1098275]]'
+- '[[_Standards/WikiData/WD~speciation_and_extinction,113042730]]'
 part_of:
-  - '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
-  - '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
-  - '[[_Standards/WikiData/WD~extinction_event,55814]]'
+- '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
+- '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
+- '[[_Standards/WikiData/WD~extinction_event,55814]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~end,12769393]]'
-  - '[[_Standards/WikiData/WD~biological_risk,16672848]]'
+- '[[_Standards/WikiData/WD~end,12769393]]'
+- '[[_Standards/WikiData/WD~biological_risk,16672848]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Extinction,22082719]]'
 instance_of: '[[_Standards/WikiData/WD~biological_phenomenon,64732777]]'
 different_from: '[[_Standards/WikiData/WD~extinction,65961969]]'
 has_effect: '[[_Standards/WikiData/WD~extinct_taxon,98961713]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~survival,104482419]]'
-  - '[[_Standards/WikiData/WD~speciation,39350]]'
+- '[[_Standards/WikiData/WD~survival,104482419]]'
+- '[[_Standards/WikiData/WD~speciation,39350]]'
 OmegaWiki_Defined_Meaning: 1394
 Library_of_Congress_Classification: QH78
 Commons_category: Extinction
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Aussterben.ogg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artensterben%20im%20Wandel%20der%20Zeit.webm
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Various%20dinosaurs.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Various%20dinosaurs2.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Various%20dinosaurs.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Various%20dinosaurs2.png
 MeSH_tree_code: G16.510
+dv_has_:
+  name_:
+    af: Uitsterwing
+    an: extinción
+    ar: انقراض
+    arz: انقراض
+    ast: Estinción
+    az: Nəsil kəsilməsi
+    azb: نسیل کسیلمهسی
+    ba: юҡҡа сығыу
+    ban: Kepunahan
+    bas: líhmà
+    bcl: Pagkapuho
+    be: выміранне
+    be-tarask: вымiраньне
+    bg: Измиране
+    bn: বিলুপ্তি
+    bs: Izumiranje
+    ca: extinció
+    ceb: pagkapuo
+    ckb: قڕان
+    cs: vymírání
+    cy: Difodiant
+    da: Uddød
+    de: Aussterben
+    el: Εξαφάνιση
+    en: extinction
+    eo: formorto
+    es: extinción
+    et: väljasuremine
+    eu: espezieen iraungipen
+    ext: extinción
+    fa: انقراض
+    fi: sukupuutto
+    fr: extinction des espèces
+    fy: Utstjerren (biology)
+    ga: díobhadh
+    gcr: ekstenksyon di sé lèspès
+    gl: extinción
+    gu: વિલુપ્ત જાતિ
+    ha: Karewar kwayoyin halitta
+    hak: Chhie̍t-chúng
+    he: מינים שנכחדו
+    hi: विलुप्ति
+    hr: izumiranje
+    ht: ekstenksyon
+    hu: kihalás
+    id: kepunahan
+    ig: mgbukpọ
+    ilo: pannakaungaw
+    inh: Ейна дӀаялар
+    is: útdauði
+    it: estinzione
+    ja: 絶滅
+    jv: Spesies cures
+    ka: ამოწყდომა
+    kab: angar
+    kk: Қырылу
+    ko: 절멸
+    ku: nemabûyî
+    ku-arab: نەمابوویی
+    ku-latn: nemabûyî
+    kw: difeudhans
+    la: Exstinctio
+    lt: išnykimas
+    lv: izmiršana
+    mg: fongana
+    mk: изумирање
+    ml: വംശനാശം സംഭവിച്ച ജീവികൾ
+    mr: नामशेष प्रजाती
+    ms: kepupusan
+    my: မျိုးသုဉ်းခြင်း
+    nan: Bia̍t-choa̍t
+    nb: utryddelse
+    ne: लोप
+    new: लोप
+    nl: uitsterven
+    nn: utdøydde artar
+    nov: extinktione
+    nqo: ߕߌߢߍߟߌ
+    oc: extincion d'una espècia
+    or: ଲୁପ୍ତ
+    pa: ਲੋਪ
+    pl: wymieranie
+    ps: انقراض/ له منځه تلل
+    pt: extinção
+    qu: rikch'aq wañuy
+    ro: extincție
+    ru: вымирание
+    sco: extinction
+    sh: Izumiranje
+    si: වඳ වී යාම
+    sk: vyhynutie
+    sl: izumrtje
+    sms: sooǥǥteʹmesvuõtt
+    so: bakhtiyeen
+    sq: zhdukja
+    sr: изумирање
+    sr-ec: изумирање
+    sr-el: Izumiranje
+    sv: utdöd
+    ta: இனஅழிவு
+    te: కనుమరుగైన జాతులు
+    tg: Инқироз
+    th: การสูญพันธุ์
+    tl: ekstinsiyon
+    tr: soy tükenmesi
+    tt: юкка чыгу
+    uk: вимирання
+    ur: ناپیدیت
+    uz: Qirilib ketish
+    vi: tuyệt chủng
+    war: naubos pagkamatay
+    wuu: 灭绝
+    yue: 絕種
+    zh: 絕滅
+    zh-cn: 绝灭
+    zh-hans: 绝灭
+    zh-hant: 絕滅
+    zh-hk: 絕滅
+    zh-sg: 绝灭
+    zh-tw: 絕滅
 ---
-
 # [[Extinction]] 
 
 #is_/same_as :: [[../../WikiData/WD~Extinction,123509|WD~Extinction,123509]] 

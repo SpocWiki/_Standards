@@ -1,23 +1,139 @@
 ---
 aliases:
-  - Nationalism
+- broadelouriezh
+- Bîn-cho̍k-chú-gī
+- cenedlaetholdeb
+- chủ nghĩa dân tộc
+- Eþeling
+- faham kebangsaan
+- Fanindrahindram-pirenena
+- Kenedlegieth
+- Kishin ƙasa
+- Millatchilik
+- milletçilik
+- milliyetçilik
+- milliyyətçilik
+- naciismo
+- Nacionalisme
+- Nacionalismo
+- nacionalismu
+- nacionalismus
+- Nacionalizam
+- nacionalizem
+- nacionalizm
+- nacionalizmas
+- nacionalizmus
+- nacionalizëm
+- nacionālisms
+- Naciuonalėzmos
+- nacjonalizm
+- Nashinalizim
+- nashonalismo
+- Nasionalism
+- nasionalisme
+- nasionalismo
+- Nasionalizmo
+- nasionałismo
+- nasjonalisme
+- Nassionalism
+- Nasyonalis
+- Nasyonalism
+- Nasyonalismó
+- Nationalism
+- nationalisma
+- nationalisme
+- nationalismi
+- nationalismm
+- nationalismo
+- Nationalismus
+- Natschonalismus
+- Natsionalism
+- nazionalisim
+- Nazionalism
+- nazionalismo
+- naziunalism
+- naziunalismu
+- Naziunalissem
+- naziunalîsum
+- Nazziunalismo
+- nazziunalismu
+- nazzjonaliżmu
+- naçionalismo
+- naționalism
+- neteweperwerî
+- náisiúnachas
+- Nåcionalisse
+- Pagkamakabansa
+- rahvuslus
+- Rastryawaad
+- Utaifa
+- Þjóðernishyggja
+- Ɔman Ho Dɔ
+- Ɛjaɖɛ yɔɔ ɛhʊyɛ lɩmaɣzɩyɛ tɔm
+- εθνικισμός
+- Миллатчилъи
+- Миллетчилик
+- миллигароӣ
+- Милләтселек
+- милләтчелек
+- націоналізм
+- национализам
+- Национализм
+- Национализмась
+- национализъм
+- нацыяналізм
+- Улутчулдук
+- Ұлтшылдық
+- ազգայնականություն
+- לאומיות
+- נאציאנאליזם
+- قوم پرستی
+- قومية
+- قوميه
+- قومپرستي
+- ملیگرایی
+- مىللەتچىلىك
+- ناسيوناليسمى
+- ناسیونالیسم
+- ناسیۆنالیزم
+- نیشنلزم
+- ولسپالنه
+- नेशनलिज्म
+- राष्ट्रवाद
+- জাতীয়তাবাদ
+- ਕੌਮਪ੍ਰਸਤੀ
+- રાષ્ટ્રવાદ
+- தேசியவாதம்
+- ರಾಷ್ಟ್ರೀಯತೆ
+- ദേശീയത
+- ජාතිකවාදය
+- ชาตินิยม
+- ຊາດນິຍົມ
+- མི་རིགས་རིང་ལུགས།
+- အမျိုးသားရေးဝါဒ
+- ნაციონალიზმი
+- ብሔርተኝነት
+- ナショナリズム
+- 民族主义
+- 民族主義
+- 내셔널리즘
 has_id_wikidata: Q6235
 Basisklassifikation: 89.22
 Colon_Classification: W95
 Commons_category: Nationalism
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 Dewey_Decimal_Classification: 320.54
 different_from: '[[_Standards/WikiData/WD~patriotism,6241]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~irredentism,182274]]'
-  - '[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]'
+- '[[_Standards/WikiData/WD~irredentism,182274]]'
+- '[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]'
 Library_of_Congress_Classification: JC311
 opposite_of:
-  - '[[_Standards/WikiData/WD~cosmopolitanism,188843]]'
-  - '[[_Standards/WikiData/WD~anti-nationalism,649132]]'
-  - '[[_Standards/WikiData/WD~internationalism,695838]]'
+- '[[_Standards/WikiData/WD~cosmopolitanism,188843]]'
+- '[[_Standards/WikiData/WD~anti-nationalism,649132]]'
+- '[[_Standards/WikiData/WD~internationalism,695838]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~patriotism,6241]]'
 PhilPapers_topic: nationalism
 practiced_by: '[[_Standards/WikiData/WD~nationalist,106399618]]'
@@ -26,11 +142,186 @@ said_to_be_the_same_as: '[[_Standards/WikiData/WD~patriotism,6241]]'
 studied_in: '[[_Standards/WikiData/WD~nationalism_studies,4314780]]'
 subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
-  - '[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]'
+- '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
+- '[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]'
 U_S_National_Archives_Identifier: 10642479
+dv_has_:
+  name_:
+    af: nasionalisme
+    am: ብሔርተኝነት
+    an: Nacionalismo
+    ang: Eþeling
+    ar: قومية
+    arz: قوميه
+    as: জাতীয়তাবাদ
+    ast: nacionalismu
+    av: Миллатчилъи
+    az: milliyyətçilik
+    azb: ناسیونالیسم
+    ba: Милләтселек
+    be: нацыяналізм
+    be-tarask: нацыяналізм
+    bg: национализъм
+    bho: नेशनलिज्म
+    bn: জাতীয়তাবাদ
+    bo: མི་རིགས་རིང་ལུགས།
+    br: broadelouriezh
+    bs: nacionalizam
+    btm: Nasionalisme
+    bxr: Национализм
+    ca: nacionalisme
+    ce: Национализм
+    ckb: ناسیۆنالیزم
+    co: naziunalismu
+    crh: milletçilik
+    cs: nacionalismus
+    cy: cenedlaetholdeb
+    da: nationalisme
+    de: Nationalismus
+    el: εθνικισμός
+    eml: naziunalîsum
+    en: nationalism
+    en-ca: Nationalism
+    en-gb: nationalism
+    eo: naciismo
+    es: nacionalismo
+    et: rahvuslus
+    eu: nazionalismo
+    ext: Nacionalismu
+    fa: ملیگرایی
+    fi: nationalismi
+    fo: Nationalisma
+    fr: nationalisme
+    frp: nacionalismo
+    fur: nazionalisim
+    fy: Nasjonalisme
+    ga: náisiúnachas
+    gcr: Nasyonalism
+    gl: nacionalismo
+    gn: Nacionalismo
+    gsw: Nationalismus
+    gu: રાષ્ટ્રવાદ
+    ha: Kishin ƙasa
+    he: לאומיות
+    hi: राष्ट्रवाद
+    hif: Rastryawaad
+    hr: nacionalizam
+    hsb: nacionalizm
+    ht: Nasyonalis
+    hu: nacionalizmus
+    hy: ազգայնականություն
+    ia: nationalismo
+    id: nasionalisme
+    ilo: nasionalismo
+    io: Nacionalismo
+    is: Þjóðernishyggja
+    it: nazionalismo
+    ja: ナショナリズム
+    jam: Nashinalizim
+    jv: Nasionalisme
+    ka: ნაციონალიზმი
+    kbp: Ɛjaɖɛ yɔɔ ɛhʊyɛ lɩmaɣzɩyɛ tɔm
+    kk: Ұлтшылдық
+    kn: ರಾಷ್ಟ್ರೀಯತೆ
+    knc: Nasionalism
+    ko: 내셔널리즘
+    krc: Миллетчилик
+    ku: neteweperwerî
+    kw: Kenedlegieth
+    ky: Улутчулдук
+    la: Nationalismus
+    lad: Nasionalizmo
+    lb: Nationalismus
+    lfn: nasionalisme
+    li: Nationalisme
+    lij: naçionalismo
+    lld: Nazionalism
+    lmo: naziunalism
+    lo: ຊາດນິຍົມ
+    lt: nacionalizmas
+    lv: nacionālisms
+    lzh: 民族主義
+    mdf: Национализмась
+    mg: Fanindrahindram-pirenena
+    mk: национализам
+    ml: ദേശീയത
+    mn: Национализм
+    mr: राष्ट्रवाद
+    ms: faham kebangsaan
+    ms-arab: ناسيوناليسمى
+    mt: nazzjonaliżmu
+    mwl: Nacionalismo
+    my: အမျိုးသားရေးဝါဒ
+    mzn: ناسیونالیسم
+    nan: Bîn-cho̍k-chú-gī
+    nap: Nazziunalismo
+    nb: nasjonalisme
+    nds: Natschonalismus
+    ne: राष्ट्रवाद
+    new: राष्ट्रवाद
+    nl: nationalisme
+    nn: nasjonalisme
+    oc: Nacionalisme
+    os: национализм
+    pa: ਕੌਮਪ੍ਰਸਤੀ
+    pap: nashonalismo
+    pl: nacjonalizm
+    pms: Nassionalism
+    pnb: نیشنلزم
+    ps: ولسپالنه
+    pt: nacionalismo
+    pt-br: nacionalismo
+    rm: Naziunalissem
+    ro: naționalism
+    ru: национализм
+    rue: націоналізм
+    sah: Национализм
+    scn: nazziunalismu
+    sd: قومپرستي
+    se: nationalisma
+    sgs: Naciuonalėzmos
+    sh: Nacionalizam
+    si: ජාතිකවාදය
+    sk: nacionalizmus
+    sl: nacionalizem
+    smn: nationalism
+    sms: nationalismm
+    sq: nacionalizëm
+    sr: национализам
+    sv: nationalism
+    sw: Utaifa
+    ta: தேசியவாதம்
+    tg: миллигароӣ
+    th: ชาตินิยม
+    tl: Pagkamakabansa
+    tr: milliyetçilik
+    tt: милләтчелек
+    tw: Ɔman Ho Dɔ
+    tyv: Национализм
+    udm: национализм
+    ug: مىللەتچىلىك
+    uk: націоналізм
+    ur: قوم پرستی
+    uz: Millatchilik
+    vec: nasionałismo
+    vi: chủ nghĩa dân tộc
+    vro: Natsionalism
+    wa: Nåcionalisse
+    war: Nasyonalismó
+    wuu: 民族主义
+    xmf: ნაციონალიზმი
+    yi: נאציאנאליזם
+    yue: 民族主義
+    zh: 民族主義
+    zh-cn: 民族主义
+    zh-hans: 民族主义
+    zh-hant: 民族主義
+    zh-hk: 民族主義
+    zh-mo: 民族主義
+    zh-my: 民族主義
+    zh-sg: 民族主義
+    zh-tw: 民族主義
 ---
-
 # [[Nationalism]] 
 
 #is_/different_from :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism]] 

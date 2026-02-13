@@ -1,8 +1,37 @@
 ---
 aliases:
-  - Dumbing down
-  - Artificial Stupidity
+- appiattimento culturale
+- Artificial Stupidity
+- Dumbing down
+- Embrutecimiento
+- Emburrecimento
+- Fordumning
+- Fördumning
+- Herunterbrechen
+- malsaĝigo
+- pembodohan
+- упрощение
+- تسطيح
+- ダミング・ダウン
+- 低能化
+- 덤빙 다운
 has_id_wikidata: Q5313720
+dv_has_:
+  name_:
+    ar: تسطيح
+    da: Fordumning
+    de: Herunterbrechen
+    en: dumbing down
+    eo: malsaĝigo
+    es: Embrutecimiento
+    id: pembodohan
+    it: appiattimento culturale
+    ja: ダミング・ダウン
+    ko: 덤빙 다운
+    pt: Emburrecimento
+    ru: упрощение
+    sv: Fördumning
+    zh: 低能化
 ---
 # [[Dumbing_down]] 
 

@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Pterotracheoidea
+- Pterotracheoidea
+- ფეხტროპიანი მოლუსკები
+- 翼管螺总科
+- 翼管螺總科
 title: Carinarioidea
 has_id_wikidata: Q2116183
+dv_has_:
+  name_:
+    an: Pterotracheoidea
+    ast: Pterotracheoidea
+    bg: Pterotracheoidea
+    ca: Pterotracheoidea
+    ceb: Pterotracheoidea
+    de: Pterotracheoidea
+    en: Pterotracheoidea
+    eo: Pterotracheoidea
+    es: Pterotracheoidea
+    eu: Pterotracheoidea
+    ext: Pterotracheoidea
+    fi: Pterotracheoidea
+    fr: Pterotracheoidea
+    ga: Pterotracheoidea
+    gl: Pterotracheoidea
+    ia: Pterotracheoidea
+    ie: Pterotracheoidea
+    io: Pterotracheoidea
+    it: Pterotracheoidea
+    ka: ფეხტროპიანი მოლუსკები
+    la: Pterotracheoidea
+    mul: Pterotracheoidea
+    nl: Pterotracheoidea
+    oc: Pterotracheoidea
+    pl: Pterotracheoidea
+    pt: Pterotracheoidea
+    pt-br: Pterotracheoidea
+    ro: Pterotracheoidea
+    ru: Pterotracheoidea
+    sq: Pterotracheoidea
+    uk: Pterotracheoidea
+    vi: Pterotracheoidea
+    vo: Pterotracheoidea
+    war: Pterotracheoidea
+    zh: 翼管螺總科
+    zh-cn: 翼管螺总科
+    zh-tw: 翼管螺總科
 ---
 ## [[Pterotracheoidea]] 
 

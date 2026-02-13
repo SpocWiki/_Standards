@@ -1,8 +1,110 @@
 ---
 aliases:
-  - Protura
+- Beintastler
+- Bezrepci
+- Beūsiai
+- Bığcıqsızlar
+- Duyarga bacaklılar
+- esihyönteiset
+- Frumskottur
+- Hmyzenky
+- Mdudu Mkia-sahili
+- Pierwogonki
+- Protur
+- Protura
+- Proturan
+- Proturer
+- Proturo
+- protūras
+- trevfotingar
+- Tõukjalalised
+- Łeʼesoołii
+- безвусикові
+- бессяжковые
+- бязвусікавыя насякомыя
+- Көсе насекомдар
+- първичноопашати
+- קדם־זנבאים
+- أوليات الذنب
+- اوليات الذنب
+- بیغجیقسیزلار
+- سرقیفی
+- უულვაშოები
+- カマアシムシ
+- 原尾目
+- 낫발이목
 title: Protura
 has_id_wikidata: Q271631
+dv_has_:
+  name_:
+    an: Protura
+    ar: أوليات الذنب
+    arz: اوليات الذنب
+    ast: Protura
+    az: Bığcıqsızlar
+    azb: بیغجیقسیزلار
+    be: бязвусікавыя насякомыя
+    bg: първичноопашати
+    ca: Protur
+    ceb: Protura
+    cs: Hmyzenky
+    da: Proturer
+    de: Beintastler
+    en: Protura
+    eo: Proturo
+    es: Protura
+    et: Tõukjalalised
+    eu: Protura
+    ext: Protura
+    fa: سرقیفی
+    fi: esihyönteiset
+    fr: Protura
+    ga: Protura
+    gl: Protura
+    he: קדם־זנבאים
+    hr: Bezrepci
+    hu: Protura
+    ia: Protura
+    id: Protura
+    ie: Protura
+    io: Protura
+    is: Frumskottur
+    it: Protura
+    ja: カマアシムシ
+    ka: უულვაშოები
+    kk: Көсе насекомдар
+    ko: 낫발이목
+    la: Protura
+    lt: Beūsiai
+    lv: protūras
+    ms: Protura
+    mul: Protura
+    nb: proturer
+    nl: Protura
+    nv: Łeʼesoołii
+    oc: Protura
+    pl: Pierwogonki
+    pt: Protura
+    pt-br: Protura
+    ro: Protura
+    ru: бессяжковые
+    sq: Protura
+    sr: Protura
+    sv: trevfotingar
+    sw: Mdudu Mkia-sahili
+    tr: Duyarga bacaklılar
+    uk: безвусикові
+    vi: Protura
+    vo: Protura
+    war: Protura
+    yo: Proturan
+    zh: 原尾目
+    zh-cn: 原尾目
+    zh-hans: 原尾目
+    zh-hant: 原尾目
+    zh-hk: 原尾目
+    zh-sg: 原尾目
+    zh-tw: 原尾目
 ---
 # [[Protura]] 
 ![ ](Protura/DSCN1510.jpg) 

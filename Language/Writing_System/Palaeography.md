@@ -1,40 +1,168 @@
 ---
 aliases:
-  - Paläographie
-  - paleography
-  - Palaeography
+- Cổ ngữ học
+- Handritafræði
+- pailéagrafaíocht
+- Palaeograffeg
+- palaeographia
+- Palaeography
+- paleograafia
+- Paleografi
+- paleografia
+- paleografie
+- paleografiija
+- Paleografija
+- paleografio
+- paleografiya
+- Paleografiýa
+- paleografía
+- Paleographie
+- paleography
+- paleográfia
+- Paleogrāfija
+- Paleoqrafiya
+- Paläografie
+- Paläographie
+- Palæografi
+- paléographie
+- pałeografia
+- Vönapenav
+- παλαιογραφία
+- палеаграфія
+- палеографія
+- Палеографи
+- палеографија
+- палеография
+- Палеографиясь
+- Հնագրություն
+- פאלעאגראפיע
+- פלאוגרפיה
+- الخطاطة
+- کتیبهشناسی
+- पुरालेखविद्या
+- लिपिशास्त्र
+- தொல்லெழுத்துக் கலை
+- პალეოგრაფია
+- 古文字学
+- 古文字學
+- 古文書
+- 古書体学
+- 고문서학
 has_id_wikidata: Q179957
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~manuscript,87167]]'
-  - '[[_Standards/WikiData/WD~historical_document,3771738]]'
-  - '[[_Standards/WikiData/WD~handwriting_style,33260112]]'
+- '[[_Standards/WikiData/WD~manuscript,87167]]'
+- '[[_Standards/WikiData/WD~historical_document,3771738]]'
+- '[[_Standards/WikiData/WD~handwriting_style,33260112]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
 practiced_by: '[[_Standards/WikiData/WD~palaeographer,17132038]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31455058,31455058]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare-Testament.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/P.Berol.%20inv.%209875%20col.%20v%20coronis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Shakespeare-Testament.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/P.Berol.%20inv.%209875%20col.%20v%20coronis.jpg
 Basisklassifikation: 06.13
 UMLS_CUI: C0030223
 Wolfram_Language_entity_code: Entity["Concept", "Paleography::4z26s"]
 MeSH_tree_code: L01.559.423.906.539.500
 Regensburg_Classification: ND 3200 - ND 3750
 Commons_category: Palaeography
+dv_has_:
+  name_:
+    ar: الخطاطة
+    ast: Paleografía
+    az: Paleoqrafiya
+    ba: палеография
+    be: палеаграфія
+    be-tarask: палеаграфія
+    bg: палеография
+    ca: paleografia
+    cs: paleografie
+    cv: Палеографи
+    cy: Palaeograffeg
+    da: Palæografi
+    de: Paläografie
+    el: παλαιογραφία
+    en: palaeography
+    eo: paleografio
+    es: paleografía
+    et: paleograafia
+    eu: Paleografia
+    fa: کتیبهشناسی
+    fi: paleografia
+    fr: paléographie
+    ga: pailéagrafaíocht
+    gl: paleografía
+    he: פלאוגרפיה
+    hi: पुरालेखविद्या
+    hr: Paleografija
+    hu: paleográfia
+    hy: Հնագրություն
+    id: Paleografi
+    io: Paleografio
+    is: Handritafræði
+    it: paleografia
+    ja: 古書体学
+    jv: Paleografi
+    ka: პალეოგრაფია
+    kk: палеография
+    ko: 고문서학
+    ky: палеография
+    la: palaeographia
+    lb: Paleographie
+    lv: Paleogrāfija
+    lzh: 古文書
+    mdf: Палеографиясь
+    mk: палеографија
+    mr: लिपिशास्त्र
+    nb: paleografi
+    nl: paleografie
+    oc: Paleografia
+    pl: paleografia
+    pt: paleografia
+    ro: paleografie
+    ru: палеография
+    se: paleografiija
+    sh: Paleografija
+    sk: Paleografia
+    sl: paleografija
+    smn: paleografia
+    sms: paleografia
+    sq: Paleografia
+    sr: палеографија
+    sr-ec: палеографија
+    sr-el: paleografija
+    sv: paleografi
+    ta: தொல்லெழுத்துக் கலை
+    tk: Paleografiýa
+    tr: paleografi
+    uk: палеографія
+    uz: paleografiya
+    vec: pałeografia
+    vi: Cổ ngữ học
+    vo: Vönapenav
+    wuu: 古文字学
+    yi: פאלעאגראפיע
+    yue: 古文書
+    zh: 古文字学
+    zh-cn: 古文字学
+    zh-hans: 古文字学
+    zh-hant: 古文字學
+    zh-hk: 古文字學
+    zh-sg: 古文字学
+    zh-tw: 古文字學
 ---
-
 # [[Palaeography]] 
 
 #is_/same_as :: [[WD~Palaeography,179957]] 

@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Polyzoniida
+- Polizònides
+- Polyzoniida
+- Saugfüßer
+- Spetshuvuddubbelfotingar
+- متعددة الأقسام
+- 多板馬陸目
+- 多板马陆目
 title: Polyzoniida
 has_id_wikidata: Q6453302
+dv_has_:
+  name_:
+    an: Polyzoniida
+    ar: متعددة الأقسام
+    ast: Polyzoniida
+    bg: Polyzoniida
+    ca: Polizònides
+    ceb: Polyzoniida
+    de: Saugfüßer
+    en: Polyzoniida
+    en-gb: Polyzoniida
+    eo: Polyzoniida
+    es: Polyzoniida
+    eu: Polyzoniida
+    ext: Polyzoniida
+    fi: Polyzoniida
+    fr: Polyzoniida
+    ga: Polyzoniida
+    gl: Polyzoniida
+    ia: Polyzoniida
+    id: Polyzoniida
+    ie: Polyzoniida
+    io: Polyzoniida
+    it: Polyzoniida
+    la: Polyzoniida
+    mul: Polyzoniida
+    nl: Polyzoniida
+    oc: Polyzoniida
+    pl: Polyzoniida
+    pt: Polyzoniida
+    pt-br: Polyzoniida
+    ro: Polyzoniida
+    ru: Polyzoniida
+    sq: Polyzoniida
+    sv: Spetshuvuddubbelfotingar
+    th: Polyzoniida
+    tr: Polyzoniida
+    uk: Polyzoniida
+    vi: Polyzoniida
+    vo: Polyzoniida
+    war: Polyzoniida
+    zh: 多板馬陸目
+    zh-cn: 多板马陆目
+    zh-hans: 多板马陆目
+    zh-tw: 多板馬陸目
 ---
 # [[Polyzoniida]] 
 

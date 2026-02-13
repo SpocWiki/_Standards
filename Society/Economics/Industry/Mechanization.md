@@ -1,15 +1,112 @@
 ---
 aliases:
+- gépesítés
+- impact of machinary on workers
+- koneellistuminen
+- Machinarum inductio
+- Maquinisme
+- Mecanisassion
+- mecanización
+- Mecanizare
+- mecanização
+- mechanisering
+- Mechanisierung
+- mechanizace
+- Mechanizacja
+- mechanization
+- Mehanizacija
+- Mehhaniseerimine
+- meicniú
+- Mekanisering
+- Mekanizado
+- Mekanizasyon
+- mekanizatze
+- Mekanizimi
+- Mexanizatsiya
+- mécanisation
+- yandravalkrika
+- механізація
+- Механізацыя
+- Механизација
+- механизация
+- мэханізацыя
+- Өндүрүштү механикалаштыруу
+- մեխանիզացում
+- מיכון
+- استعمال الآلات
+- تمكنين
+- ماشینی کردن
+- यान्त्रिकरण
+- 机械化
+- 機械化
+- 生产机械化
+- 生產機械化
 has_id_wikidata: Q1160362
 subclass_of:
-  - "[[_Standards/WikiData/WD~production_process,1408286]]"
-  - "[[_Standards/WikiData/WD~transformation,65757353]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~automatization,24410992]]"
-instance_of: "[[_Standards/WikiData/WD~technical_activity,119822504]]"
-has_characteristic: "[[_Standards/WikiData/WD~machine,11019]]"
+- '[[_Standards/WikiData/WD~production_process,1408286]]'
+- '[[_Standards/WikiData/WD~transformation,65757353]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~automatization,24410992]]'
+instance_of: '[[_Standards/WikiData/WD~technical_activity,119822504]]'
+has_characteristic: '[[_Standards/WikiData/WD~machine,11019]]'
+dv_has_:
+  name_:
+    ar: استعمال الآلات
+    ary: تمكنين
+    ast: Mecanización
+    be: Механізацыя
+    be-tarask: мэханізацыя
+    ca: Maquinisme
+    cs: mechanizace
+    da: Mekanisering
+    de: Mechanisierung
+    en: mechanization
+    eo: Mekanizado
+    es: mecanización
+    et: Mehhaniseerimine
+    eu: mekanizatze
+    fa: ماشینی کردن
+    fi: koneellistuminen
+    fr: mécanisation
+    ga: meicniú
+    gl: mecanización
+    he: מיכון
+    hi: impact of machinary on workers
+    hr: Mehanizacija
+    hu: gépesítés
+    hy: մեխանիզացում
+    ja: 機械化
+    ko: mechanization
+    ky: Өндүрүштү механикалаштыруу
+    la: Machinarum inductio
+    mk: Механизација
+    ml: yandravalkrika
+    nb: mekanisering
+    ne: यान्त्रिकरण
+    nl: mechanisering
+    pl: Mechanizacja
+    pms: Mecanisassion
+    pt: mecanização
+    ro: Mecanizare
+    ru: механизация
+    sah: Механизация
+    sh: Mehanizacija
+    sl: mehanizacija
+    sq: Mekanizimi
+    sr: механизација
+    sr-ec: Механизација
+    sr-el: Mehanizacija
+    sv: Mekanisering
+    tr: Mekanizasyon
+    uk: механізація
+    uz: Mexanizatsiya
+    yue: 機械化
+    zh: 機械化
+    zh-cn: 机械化
+    zh-hans: 生产机械化
+    zh-hant: 機械化
+    zh-hk: 生產機械化
 ---
-
 # [[Mechanization]] 
 
 #is_/same_as :: [[WD~Mechanization,1160362]] 

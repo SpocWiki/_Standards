@@ -1,29 +1,79 @@
 ---
 aliases:
-  - Bolitoglossa
+- Bolitoglossa
+- Pilzzungensalamander
+- Shádiʼááhdę́ę́ʼ tsinlátah tsxilghááh
+- سمندرهای زبانقارچی
+- బొలీతొగ్లాస్స
+- 游舌螈属
+- 游舌螈屬
 title: Bolitoglossa
 dv_is_:
   same_as:
-    - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
-    - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
-    - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]"
-    - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]"
-    - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]"
-    - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
-    - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
+  - '[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]'
+  - '[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]'
+  - '[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]'
+  - '[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]'
+  - '[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]'
+  - '[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]'
+  - '[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
-  - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
-  - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]"
-  - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]"
-  - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]"
-  - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
-  - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
+- '[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]'
+- '[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]'
+- '[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]'
+- '[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]'
+- '[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]'
+- '[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]'
+- '[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]'
 dv_scientific_name: Bolitoglossa striatula
 dv_location: Costa Rica
-dv_image_use: "[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)."
+dv_image_use: '[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).'
 dv_copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 has_id_wikidata: Q2670457
+dv_has_:
+  name_:
+    an: Bolitoglossa
+    ast: Bolitoglossa
+    bg: Bolitoglossa
+    ca: Bolitoglossa
+    ceb: Bolitoglossa
+    de: Pilzzungensalamander
+    en: Bolitoglossa
+    eo: Bolitoglossa
+    es: Bolitoglossa
+    eu: Bolitoglossa
+    ext: Bolitoglossa
+    fa: سمندرهای زبانقارچی
+    fi: Bolitoglossa
+    fr: Bolitoglossa
+    ga: Bolitoglossa
+    gl: Bolitoglossa
+    ia: Bolitoglossa
+    ie: Bolitoglossa
+    io: Bolitoglossa
+    it: Bolitoglossa
+    la: Bolitoglossa
+    mul: Bolitoglossa
+    nl: Bolitoglossa
+    nv: Shádiʼááhdę́ę́ʼ tsinlátah tsxilghááh
+    oc: Bolitoglossa
+    pl: Bolitoglossa
+    pt: Bolitoglossa
+    pt-br: Bolitoglossa
+    ro: Bolitoglossa
+    ru: Bolitoglossa
+    sq: Bolitoglossa
+    sv: Bolitoglossa
+    te: బొలీతొగ్లాస్స
+    tr: Bolitoglossa
+    uk: Bolitoglossa
+    vi: Bolitoglossa
+    vo: Bolitoglossa
+    war: Bolitoglossa
+    zh: 游舌螈属
+    zh-cn: 游舌螈属
+    zh-hans: 游舌螈属
+    zh-tw: 游舌螈屬
 ---
 # [[Bolitoglossa]] 
 

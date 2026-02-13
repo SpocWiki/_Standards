@@ -1,8 +1,78 @@
 ---
 aliases:
-  - Sooglossidae
+- Mahénkovití
+- Seszelkowate
+- Seychelle-szigeteki békafélék
+- Seychellenfrösche
+- Seychellenkikkers
+- seychellfrosker
+- Soglosedoj
+- Sooglossidae
+- Sooglossus
+- Sooglòssid
+- сейшелски жаби
+- Сейшельские лягушки
+- Сейшельські жаби
+- סוגלוסיים
+- ضفادع السيشل
+- قورباغههای سیشل
+- ಸೂಗ್ಲೊಸಿಡೆ
+- 塞舌蛙科
+- 세이셸개구리과
 title: Sooglossidae
 has_id_wikidata: Q56060
+dv_has_:
+  name_:
+    an: Sooglossidae
+    ar: ضفادع السيشل
+    arz: ضفادع السيشل
+    ast: Sooglossidae
+    bg: сейшелски жаби
+    ca: Sooglòssid
+    ceb: Sooglossus
+    cs: Mahénkovití
+    de: Seychellenfrösche
+    de-ch: Seychellenfrösche
+    en: Sooglossidae
+    en-ca: Sooglossidae
+    en-gb: Sooglossidae
+    eo: Soglosedoj
+    es: Sooglossidae
+    eu: Sooglossidae
+    ext: Sooglossidae
+    fa: قورباغههای سیشل
+    fi: Sooglossidae
+    fr: Sooglossidae
+    ga: Sooglossidae
+    gl: Sooglossidae
+    he: סוגלוסיים
+    hu: Seychelle-szigeteki békafélék
+    ia: Sooglossidae
+    ie: Sooglossidae
+    io: Sooglossidae
+    it: Sooglossidae
+    kn: ಸೂಗ್ಲೊಸಿಡೆ
+    ko: 세이셸개구리과
+    la: Sooglossidae
+    mul: Sooglossidae
+    nb: seychellfrosker
+    nl: Seychellenkikkers
+    oc: Sooglossidae
+    pl: Seszelkowate
+    pt: Sooglossidae
+    pt-br: Sooglossidae
+    ro: Sooglossidae
+    ru: Сейшельские лягушки
+    sq: Sooglossidae
+    sv: Sooglossus
+    tr: Sooglossidae
+    uk: Сейшельські жаби
+    vi: Sooglossidae
+    vo: Sooglossidae
+    war: Sooglossus
+    zh: 塞舌蛙科
+    zh-cn: 塞舌蛙科
+    zh-hans: 塞舌蛙科
 ---
 # [[Sooglossidae]] 
 

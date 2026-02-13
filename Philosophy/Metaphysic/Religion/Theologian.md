@@ -1,8 +1,257 @@
 ---
 has_id_wikidata: Q34178
+dv_has_:
+  name_:
+    af: teologie
+    an: Teolochía
+    ar: لاهوت
+    arz: الهيات
+    ast: teoloxía
+    az: teologiya
+    azb: تئولوژی
+    ba: теология
+    bar: Theologie
+    bcl: Teolohiya
+    be: багаслоўе
+    be-tarask: багаслоўе
+    bg: Богословие
+    bn: ধর্মতত্ত্ব
+    bo: ལྷ་ཆོས་རིག་པ།
+    br: Doueoniezh
+    bs: teologija
+    btm: Teologi
+    ca: teologia
+    ckb: خواناسی
+    cs: teologie
+    cy: diwinyddiaeth
+    da: teologi
+    de: Theologie
+    diq: Teolociye
+    el: θεολογία
+    en: theology
+    eo: teologio
+    es: teología
+    et: teoloogia
+    eu: Teologia
+    fa: الهیات
+    ff: Annduki laaminkeehi
+    fi: teologia
+    fo: Gudfrøði
+    fr: théologie
+    frp: Tèologia
+    fur: Teologjie
+    fy: teology
+    ga: diagacht
+    gd: diadhaireachd
+    gl: teoloxía
+    gn: Tupãkuaaty
+    grc: Θεολογια
+    gsw: Theologii
+    gv: jeeoilys
+    he: תאולוגיה
+    hi: धर्ममीमांसा
+    hr: bogoslovlje
+    hsb: teologija
+    ht: Teyoloji
+    hu: teológia
+    hy: աստվածաբանություն
+    hyw: աստուածաբանութիւն
+    ia: Theologia
+    id: teologi
+    ie: Teologie
+    io: teologio
+    is: Guðfræði
+    it: teologia
+    ja: 神学
+    jv: Téologi
+    ka: თეოლოგია
+    kaa: teologiya
+    kk: Теология
+    km: ទេវនិយម
+    kn: ದೇವತಾಶಾಸ್ತ್ರ
+    ko: 신학
+    ku: Îlahiyat
+    ky: Теология
+    la: theologia
+    lad: Teolojiya
+    lb: Theologie
+    lfn: teolojia
+    li: Theologie
+    lij: Teologia
+    lmo: teologia
+    lo: ເທວະວິທະຍາ
+    lt: teologija
+    lv: teoloģija
+    lzh: 神學
+    mg: Teolojia
+    mhr: теологий
+    mk: богословие
+    ml: ദൈവശാസ്ത്രം
+    ms: teologi
+    ms-arab: تيولوݢي
+    mt: teoloġija
+    my: Theology
+    nan: Sîn-ha̍k
+    nap: Tiologgia
+    nb: teologi
+    nds: Theologie
+    nia: teologi
+    nl: theologie
+    nn: teologi
+    nrm: Théologie
+    oc: Teologia
+    olo: Teolougii
+    os: теологи
+    pap: teologia
+    pcd: Tiologie
+    pih: Thiiolojii
+    pl: teologia
+    ps: دينپوهنه
+    pt: teologia
+    qu: Dyusmanta yachay
+    rm: Teologia
+    ro: teologie
+    ru: богословие
+    rue: теология
+    sah: Таҥара үөрэҕэ
+    sat: ᱫᱷᱚᱨᱚᱢ ᱵᱤᱨᱫᱟᱹ
+    scn: Tiuluggìa
+    sd: الاھيات
+    se: teologiija
+    sgs: Teuoluogėjė
+    sh: teologija
+    si: දේව ධර්මය
+    sk: teológia
+    sl: teologija
+    smn: teologia
+    sms: teologia
+    sq: Teologjia
+    sr: теологија
+    sr-ec: теологија
+    sr-el: teologija
+    su: Téologi
+    sv: teologi
+    sw: Teolojia
+    ta: இறையியல்
+    te: వేదాంతశాస్త్రం
+    tg: илоҳиёт
+    th: เทววิทยา
+    tl: teolohiya
+    tr: tanrı bilimi
+    tt: дин өйрәтмәләре
+    tt-cyrl: дин өйрәтмәләре
+    uk: богослів'я
+    ur: الٰہیات
+    uz: Teologiya
+    vec: teołozia
+    vi: thần học
+    wa: Teyolodjeye
+    war: Teyolohiya
+    wuu: 神学
+    xmf: თეოლოგია
+    yi: טעאלאגיע
+    yue: 神學
+    zh: 神學
+    zh-hant: 神學
+    zh-tw: 神學
+    zu: Umchazathixo
+aliases:
+- Annduki laaminkeehi
+- bogoslovlje
+- diadhaireachd
+- diagacht
+- diwinyddiaeth
+- Doueoniezh
+- Dyusmanta yachay
+- Gudfrøði
+- Guðfræði
+- jeeoilys
+- Sîn-ha̍k
+- tanrı bilimi
+- Teolochía
+- Teolociye
+- teologi
+- Teologia
+- teologie
+- teologiija
+- teologija
+- teologio
+- Teologiya
+- Teologjia
+- Teologjie
+- teology
+- teología
+- teolohiya
+- Teolojia
+- Teolojiya
+- teoloogia
+- Teolougii
+- teoloxía
+- teoloġija
+- teoloģija
+- teológia
+- teołozia
+- Teuoluogėjė
+- Teyolodjeye
+- Teyolohiya
+- Teyoloji
+- theologia
+- Theologie
+- Theologii
+- theology
+- Thiiolojii
+- Théologie
+- thần học
+- Tiologgia
+- Tiologie
+- Tiuluggìa
+- Tupãkuaaty
+- Tèologia
+- Téologi
+- Umchazathixo
+- Îlahiyat
+- θεολογία
+- Θεολογια
+- багаслоўе
+- богослів'я
+- богословие
+- дин өйрәтмәләре
+- илоҳиёт
+- Таҥара үөрэҕэ
+- теологи
+- теологија
+- теологий
+- теология
+- աստուածաբանութիւն
+- աստվածաբանություն
+- טעאלאגיע
+- תאולוגיה
+- الاھيات
+- الهيات
+- الهیات
+- الٰہیات
+- تئولوژی
+- تيولوݢي
+- خواناسی
+- دينپوهنه
+- لاهوت
+- धर्ममीमांसा
+- ধর্মতত্ত্ব
+- இறையியல்
+- వేదాంతశాస్త్రం
+- ದೇವತಾಶಾಸ್ತ್ರ
+- ദൈവശാസ്ത്രം
+- දේව ධර්මය
+- เทววิทยา
+- ເທວະວິທະຍາ
+- ལྷ་ཆོས་རིག་པ།
+- თეოლოგია
+- ទេវនិយម
+- ᱫᱷᱚᱨᱚᱢ ᱵᱤᱨᱫᱟᱹ
+- 神学
+- 神學
+- 신학
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Theology is the study of religious belief from a religious perspective, 

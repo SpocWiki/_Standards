@@ -1,7 +1,48 @@
 ---
 aliases:
-  - Évariste Galois
-  - Galois,Évariste
+- Evarist Qalua
+- Evaristas Galua
+- Evariste Galois
+- Evarists Galuā
+- Evaristus Galois
+- Galois' Évariste
+- Galois,Évariste
+- Évariste Galois
+- Εβαρίστ Γκαλουά
+- Галуа
+- Галуа Эварист
+- Еварист Галоа
+- Еварист Галуа
+- Эварист Галуа
+- Эварыст Галуа
+- Эварыст Галюа
+- Эворист Голуо
+- Գալուա Էվարիստ
+- אווריסט גלואה
+- עוואריסט גאלוא
+- إيفاريست غالوا
+- ئێڤاریست گالوا
+- اواریست قالوا
+- اواریست گالوا
+- ايفاريست جالوا
+- گیلوا
+- इवारिस्ते गैल्वा
+- एव्हारिस्त गॅल्वा
+- এভারিস্ত গালোয়া
+- এভাৰিষ্ট গেল'ৱা
+- ਏਵਾਰਿਸਤ ਗੈਲੂਆ
+- எவரிஸ்ட் கால்வா
+- ఎవరిస్టీ గాల్వా
+- ಎವರಿಸ್ಟ್ ಗ್ಯಾಲ್ವ
+- എവറീസ്റ്റ് ഗാൽവാ
+- เอวาริสต์ กาลัว
+- အဲဗာရစ်တူ ဂယ်ဝါး
+- ევარისტ გალუა
+- エヴァリスト・ガロア
+- 伽羅華
+- 埃伐里斯忒·伽罗淮
+- 埃瓦里斯特·伽罗瓦
+- 에바리스트 갈루아
 has_id_wikidata: Q7091
 award_received: '[[_Standards/WikiData/WD~Concours_général,908793]]'
 BHCL_UUID: a05e33c2-ebe7-46cb-8d94-90baa8fe0c62
@@ -13,16 +54,16 @@ country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 date_of_birth: 1811-10-25
 date_of_death: 1832-05-31
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
-  - '[[_Standards/WikiData/WD~Lycée_Louis-le-Grand,1059546]]'
+- '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
+- '[[_Standards/WikiData/WD~Lycée_Louis-le-Grand,1059546]]'
 employer: '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
 family_name: '[[_Standards/WikiData/WD~Galois,96107289]]'
 father: '[[_Standards/WikiData/WD~Nicolas-Gabriel_Galois,66362753]]'
@@ -50,8 +91,106 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Galois-Signature.svg
 work_location: '[[_Standards/WikiData/WD~Paris,90]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
+dv_has_:
+  name_:
+    an: Évariste Galois
+    ar: إيفاريست غالوا
+    arz: ايفاريست جالوا
+    as: এভাৰিষ্ট গেল'ৱা
+    ast: Évariste Galois
+    az: Evarist Qalua
+    azb: اواریست قالوا
+    be: Эварыст Галуа
+    be-tarask: Эварыст Галюа
+    bg: Еварист Галоа
+    bn: এভারিস্ত গালোয়া
+    bs: Evariste Galois
+    ca: Évariste Galois
+    ckb: ئێڤاریست گالوا
+    co: Évariste Galois
+    cs: Évariste Galois
+    cv: Галуа Эварист
+    da: Évariste Galois
+    de: Évariste Galois
+    el: Εβαρίστ Γκαλουά
+    en: Évariste Galois
+    en-ca: Évariste Galois
+    en-gb: Évariste Galois
+    eo: Évariste Galois
+    es: Évariste Galois
+    et: Évariste Galois
+    eu: Évariste Galois
+    ext: Évariste Galois
+    fa: اواریست گالوا
+    fi: Évariste Galois
+    fr: Évariste Galois
+    ga: Évariste Galois
+    gl: Évariste Galois
+    he: אווריסט גלואה
+    hi: इवारिस्ते गैल्वा
+    hr: Évariste Galois
+    ht: Evariste Galois
+    hu: Évariste Galois
+    hy: Գալուա Էվարիստ
+    id: Evariste Galois
+    io: Évariste Galois
+    it: Évariste Galois
+    ja: エヴァリスト・ガロア
+    ka: ევარისტ გალუა
+    kk: Галуа Эварист
+    kn: ಎವರಿಸ್ಟ್ ಗ್ಯಾಲ್ವ
+    ko: 에바리스트 갈루아
+    ky: Галуа
+    la: Evaristus Galois
+    lb: Évariste Galois
+    lt: Evaristas Galua
+    lv: Evarists Galuā
+    lzh: 伽羅華
+    mg: Évariste Galois
+    mk: Еварист Галоа
+    ml: എവറീസ്റ്റ് ഗാൽവാ
+    mn: Эварист Галуа
+    mr: एव्हारिस्त गॅल्वा
+    mul: Évariste Galois
+    my: အဲဗာရစ်တူ ဂယ်ဝါး
+    nan: Évariste Galois
+    nb: Évariste Galois
+    nl: Évariste Galois
+    nn: Évariste Galois
+    nov: Evariste Galois
+    oc: Évariste Galois
+    pa: ਏਵਾਰਿਸਤ ਗੈਲੂਆ
+    pl: Évariste Galois
+    pms: Évariste Galois
+    pt: Évariste Galois
+    pt-br: Évariste Galois
+    ro: Évariste Galois
+    ru: Эварист Галуа
+    scn: Evariste Galois
+    sh: Évariste Galois
+    sk: Évariste Galois
+    sl: Évariste Galois
+    sq: Evariste Galois
+    sr: Еварист Галоа
+    sv: Évariste Galois
+    ta: எவரிஸ்ட் கால்வா
+    te: ఎవరిస్టీ గాల్వా
+    tg: Эворист Голуо
+    th: เอวาริสต์ กาลัว
+    tr: Évariste Galois
+    tt: Эварист Галуа
+    uk: Еварист Галуа
+    ur: گیلوا
+    uz: Évariste Galois
+    vi: Évariste Galois
+    vro: Galois' Évariste
+    war: Évariste Galois
+    wuu: 埃伐里斯忒·伽罗淮
+    yi: עוואריסט גאלוא
+    yue: 伽羅華
+    zh: 埃瓦里斯特·伽罗瓦
+    zh-cn: 埃瓦里斯特·伽罗瓦
 ---
-
 # [[Galois,Évariste]] 
 
 #is_/same_as :: [[../../WikiData/WD~Évariste_Galois,7091|WD~Évariste_Galois,7091]] 

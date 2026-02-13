@@ -1,9 +1,98 @@
 ---
 aliases:
-  - Trade Secret
-  - Trade Secrets
-  - Trade_Secret
+- Betriebs- und Geschäftsgeheimnis
+- Bí mật kinh doanh
+- cyfrinach masnach
+- fabrieksgeheim
+- Forretningshemmelighet
+- företagshemlighet
+- industria sekreto
+- Merkataritza-sekretu
+- Obchodné tajomstvo
+- obchodní tajemství
+- poslovna skrivnost
+- Rahasia dagang
+- Rahsia perdagangan
+- secret comercial
+- secret industriel
+- secretos comerciales
+- segredo comercial
+- segreto industriale
+- tajemnica przedsiębiorstwa
+- ticari sır
+- Ticarət sirri
+- Tijorat siri
+- Trade Secret
+- Trade Secrets
+- Trade_Secret
+- Viðskiptaleynd
+- yrityssalaisuus
+- üzleti titok
+- εμπορικό μυστικό
+- Арилжааны нууц
+- гандлёвая таямніца
+- комерційна таємниця
+- коммерческая тайна
+- пословна тајна
+- Търговска тайна
+- առևտրային գաղտնիք
+- סוד מסחרי
+- اسرار تجاری
+- سر تجاري
+- ट्रेड सीक्रेट
+- ความลับทางการค้า
+- 商业秘密
+- 営業秘密
+- 영업 비밀
 has_id_wikidata: Q602938
+dv_has_:
+  name_:
+    ar: سر تجاري
+    az: Ticarət sirri
+    be-tarask: гандлёвая таямніца
+    bg: Търговска тайна
+    ca: secret comercial
+    cs: obchodní tajemství
+    cy: cyfrinach masnach
+    de: Betriebs- und Geschäftsgeheimnis
+    el: εμπορικό μυστικό
+    en: trade secret
+    en-ca: trade secret
+    en-gb: trade secret
+    eo: industria sekreto
+    es: secretos comerciales
+    eu: Merkataritza-sekretu
+    fa: اسرار تجاری
+    fi: yrityssalaisuus
+    fr: secret industriel
+    he: סוד מסחרי
+    hi: ट्रेड सीक्रेट
+    hu: üzleti titok
+    hy: առևտրային գաղտնիք
+    id: Rahasia dagang
+    is: Viðskiptaleynd
+    it: segreto industriale
+    ja: 営業秘密
+    ko: 영업 비밀
+    mn: Арилжааны нууц
+    ms: Rahsia perdagangan
+    nb: Forretningshemmelighet
+    nl: fabrieksgeheim
+    pl: tajemnica przedsiębiorstwa
+    pt: segredo comercial
+    pt-br: Segredo comercial
+    ro: secret comercial
+    ru: коммерческая тайна
+    sk: Obchodné tajomstvo
+    sl: poslovna skrivnost
+    sr: пословна тајна
+    sv: företagshemlighet
+    th: ความลับทางการค้า
+    tr: ticari sır
+    uk: комерційна таємниця
+    uz: Tijorat siri
+    vi: Bí mật kinh doanh
+    zh: 商业秘密
 ---
 # [[Trade_Secret]] 
 

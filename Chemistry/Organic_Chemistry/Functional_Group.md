@@ -1,48 +1,187 @@
 ---
 aliases:
-  - Functional_group
-  - Functional_Group
-  - Functional Group
+- Fonksiyonel grup
+- Functional Group
+- Functional_group
+- functionele groep
+- funkcia grupo
+- Funkcionalna grupa
+- Funkcionalna skupina
+- funkciós csoport
+- Funksionele groep
+- funksjonell gruppe
+- Funktionaalinen ryhmä
+- funktionel gruppe
+- funktionell grupp
+- funktionelle Gruppe
+- Funktsionaalrühm
+- funkčná skupina
+- funkční skupina
+- funtzio talde
+- Grop foncional
+- groupe fonctionnel
+- grup funcional
+- grupa funkcyjna
+- Grupi funksionor
+- grupo funcional
+- gruppo funzionale
+- Grupu funcional
+- Grupă funcțională
+- grúpa feidhmiúil
+- Grŵp gweithredol
+- Gugus fungsional
+- Koaⁿ-lêng-ki
+- Kumpulan berfungsi
+- Minaganang grupo
+- nhóm chức
+- radix
+- Tagrawt tamesɣant
+- Virkir hópar
+- Χαρακτηριστική ομάδα
+- функціональна група
+- Функционалды топ
+- Функционална група
+- функциональная группа
+- функциональной группа
+- функцыянальная група
+- ֆունկցիոնալ խումբ
+- קבוצה פונקציונלית
+- فنکشنل گروپ
+- مجموعة وظيفية
+- کۆمەڵەی فرمانی
+- گروه عاملی
+- क्रियात्मक समूह
+- কার্যকরী মূলক
+- ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ
+- வேதி வினைக்குழு
+- ഫങ്ഷണൽ ഗ്രൂപ്പ്
+- หมู่ฟังก์ชัน
+- 基
+- 官能团
+- 官能團
+- 官能基
+- 작용기
 has_id_wikidata: Q170409
 different_from:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~radical,185056]]"
-  - "[[_Standards/WikiData/WD~functional_group,5508822]]"
-used_by: "[[_Standards/WikiData/WD~chemical_classification,732744]]"
+- '[[_Standards/WikiData/WD~group,83306]]'
+- '[[_Standards/WikiData/WD~radical,185056]]'
+- '[[_Standards/WikiData/WD~functional_group,5508822]]'
+used_by: '[[_Standards/WikiData/WD~chemical_classification,732744]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~structure_activity_relationship,1772003]]"
-  - "[[_Standards/WikiData/WD~molecular_function,14860489]]"
-part_of: "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
+- '[[_Standards/WikiData/WD~structure_activity_relationship,1772003]]'
+- '[[_Standards/WikiData/WD~molecular_function,14860489]]'
+part_of: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
-  - "[[_Standards/WikiData/WD~moiety,23005640]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Functional_groups,5618299]]"
-OmegaWiki_Defined_Meaning: "427527"
+- '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
+- '[[_Standards/WikiData/WD~moiety,23005640]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Functional_groups,5618299]]'
+OmegaWiki_Defined_Meaning: 427527
 Dewey_Decimal_Classification:
-  - "541.39"
-  - "547.2"
+- 541.39
+- 547.2
 Commons_category: Functional groups
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]"
+  - '[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]"
+- '[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]'
+dv_has_:
+  name_:
+    af: Funksionele groep
+    ar: مجموعة وظيفية
+    ast: Grupu funcional
+    awa: क्रियात्मक समूह
+    bcl: Minaganang grupo
+    be: функцыянальная група
+    be-tarask: функцыянальная група
+    bg: Функционална група
+    bn: কার্যকরী মূলক
+    bs: Funkcionalna grupa
+    ca: grup funcional
+    ckb: کۆمەڵەی فرمانی
+    cs: funkční skupina
+    cy: Grŵp gweithredol
+    da: funktionel gruppe
+    de: funktionelle Gruppe
+    el: Χαρακτηριστική ομάδα
+    en: functional group
+    eo: funkcia grupo
+    es: grupo funcional
+    et: Funktsionaalrühm
+    eu: funtzio talde
+    fa: گروه عاملی
+    fi: Funktionaalinen ryhmä
+    fr: groupe fonctionnel
+    ga: grúpa feidhmiúil
+    gl: grupo funcional
+    he: קבוצה פונקציונלית
+    hi: क्रियात्मक समूह
+    hr: Funkcionalna skupina
+    hu: funkciós csoport
+    hy: ֆունկցիոնալ խումբ
+    id: Gugus fungsional
+    is: Virkir hópar
+    it: gruppo funzionale
+    ja: 基
+    kab: Tagrawt tamesɣant
+    kk: Функционалды топ
+    ko: 작용기
+    la: radix
+    lzh: 官能團
+    mk: Функционална група
+    ml: ഫങ്ഷണൽ ഗ്രൂപ്പ്
+    ms: Kumpulan berfungsi
+    nan: Koaⁿ-lêng-ki
+    nb: funksjonell gruppe
+    nl: functionele groep
+    nn: funksjonell gruppe
+    oc: Grop foncional
+    pa: ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ
+    pl: grupa funkcyjna
+    pnb: فنکشنل گروپ
+    pt: grupo funcional
+    pt-br: grupo funcional
+    ro: Grupă funcțională
+    ru: функциональная группа
+    sh: Funkcionalna grupa
+    sk: funkčná skupina
+    sl: funkcionalna skupina
+    sq: Grupi funksionor
+    sr: Funkcionalna grupa
+    sr-ec: Функционална група
+    sr-el: Funkcionalna grupa
+    sv: funktionell grupp
+    ta: வேதி வினைக்குழு
+    th: หมู่ฟังก์ชัน
+    tr: Fonksiyonel grup
+    udm: функциональной группа
+    uk: функціональна група
+    ur: فنکشنل گروپ
+    vi: nhóm chức
+    wuu: 官能团
+    yue: 官能基
+    zh: 官能团
+    zh-cn: 官能团
+    zh-hans: 官能团
+    zh-hant: 官能團
+    zh-hk: 官能團
+    zh-sg: 官能团
+    zh-tw: 官能團
 ---
-
 # [[Functional_Group]] 
 
 #is_/same_as :: [[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]] 

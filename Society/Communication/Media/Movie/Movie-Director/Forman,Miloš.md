@@ -1,74 +1,102 @@
 ---
 aliases:
-  - Forman
-  - Miloš Forman
-  - Milos Forman
-  - Miloš_Forman
-  - Forman,Miloš
+- Forman
+- Forman,Miloš
+- Jan Tomáš Forman
+- Milos Forman
+- Miloslaus Forman
+- Miloş Forman
+- Miloš Forman
+- Miloš Formen
+- Milošs Formans
+- Miloš_Forman
+- sq
+- Μίλος Φόρμαν
+- Мілаш Форман
+- Мілош Форман
+- Милош Форман
+- Форман Милош
+- Միլոշ Ֆորման
+- מילוש פורמן
+- ميلوش فورمان
+- میلوس فورمین
+- میلوش فورمن
+- میلۆس فۆرمان
+- मिलोस फ़ॉर्मन
+- মিলশ ফরমান
+- ਮਿਲੋਸ਼ ਫਾਰਮਮੈਨ
+- మిలోస్ ఫోర్మన్
+- മിലോസ് ഫോർമാൻ
+- มิลอส ฟอร์แมน
+- მილოშ ფორმანი
+- ミロス・フォアマン
+- 米洛斯·福曼
+- 米路士·科曼
+- 밀로시 포르만
 has_id_wikidata: Q51525
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
-  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles_Film_Critics_Association_Award_for_Best_Director,505449]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
-  - '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
-  - '[[_Standards/WikiData/WD~European_Film_Academy_Achievement_in_World_Cinema_Award,1377753]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Prague,60130697]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~Los_Angeles_Film_Critics_Association_Award_for_Best_Director,505449]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
+- '[[_Standards/WikiData/WD~Czech_Medal_of_Merit,1141859]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Achievement_in_World_Cinema_Award,1377753]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Prague,60130697]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~One_Flew_Over_the_Cuckoo's_Nest,171669]]"
-  - '[[_Standards/WikiData/WD~Amadeus,190956]]'
-  - '[[_Standards/WikiData/WD~The_People_vs._Larry_Flynt,750077]]'
-  - '[[_Standards/WikiData/WD~Hair,757156]]'
-  - '[[_Standards/WikiData/WD~Man_on_the_Moon,1125282]]'
-  - "[[_Standards/WikiData/WD~Goya's_Ghosts,1129761]]"
-  - "[[_Standards/WikiData/WD~The_Fireman's_Ball,1193389]]"
-  - '[[_Standards/WikiData/WD~Loves_of_a_Blonde,1214524]]'
-  - '[[_Standards/WikiData/WD~Taking_Off,1273817]]'
-  - '[[_Standards/WikiData/WD~Valmont,1347278]]'
-  - '[[_Standards/WikiData/WD~Black_Peter,1453820]]'
-  - '[[_Standards/WikiData/WD~Ragtime,2604288]]'
-  - '[[_Standards/WikiData/WD~Well_Paid_Stroll,104895189]]'
+- "[[_Standards/WikiData/WD~One_Flew_Over_the_Cuckoo's_Nest,171669]]"
+- '[[_Standards/WikiData/WD~Amadeus,190956]]'
+- '[[_Standards/WikiData/WD~The_People_vs._Larry_Flynt,750077]]'
+- '[[_Standards/WikiData/WD~Hair,757156]]'
+- '[[_Standards/WikiData/WD~Man_on_the_Moon,1125282]]'
+- "[[_Standards/WikiData/WD~Goya's_Ghosts,1129761]]"
+- "[[_Standards/WikiData/WD~The_Fireman's_Ball,1193389]]"
+- '[[_Standards/WikiData/WD~Loves_of_a_Blonde,1214524]]'
+- '[[_Standards/WikiData/WD~Taking_Off,1273817]]'
+- '[[_Standards/WikiData/WD~Valmont,1347278]]'
+- '[[_Standards/WikiData/WD~Black_Peter,1453820]]'
+- '[[_Standards/WikiData/WD~Ragtime,2604288]]'
+- '[[_Standards/WikiData/WD~Well_Paid_Stroll,104895189]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 supported_sports_team: '[[_Standards/WikiData/WD~SK_Slavia_Prague,194393]]'
 is_member_of:
-  - '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~scouting,872181]]'
+- '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~scouting,872181]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_birth: '[[_Standards/WikiData/WD~Čáslav,341777]]'
 sibling: '[[_Standards/WikiData/WD~Joseph_J._Kohn,375333]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Academy_of_Performing_Arts,414221]]'
-  - '[[_Standards/WikiData/WD~Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague,1414256]]'
+- '[[_Standards/WikiData/WD~Academy_of_Performing_Arts,414221]]'
+- '[[_Standards/WikiData/WD~Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague,1414256]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Jana_Brejchová,448467]]'
-  - '[[_Standards/WikiData/WD~Věra_Křesadlová,12001943]]'
-  - '[[_Standards/WikiData/WD~Martina_Formanová,12035905]]'
+- '[[_Standards/WikiData/WD~Jana_Brejchová,448467]]'
+- '[[_Standards/WikiData/WD~Věra_Křesadlová,12001943]]'
+- '[[_Standards/WikiData/WD~Martina_Formanová,12035905]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Miloš_Forman,10629184]]'
 family_name: '[[_Standards/WikiData/WD~Forman,12016761]]'
 child:
-  - '[[_Standards/WikiData/WD~Matěj_Forman,12036115]]'
-  - '[[_Standards/WikiData/WD~Petr_Forman,12044845]]'
+- '[[_Standards/WikiData/WD~Matěj_Forman,12036115]]'
+- '[[_Standards/WikiData/WD~Petr_Forman,12044845]]'
 father: '[[_Standards/WikiData/WD~Otto_Kohn,12043305]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jan,12173670]]'
-  - '[[_Standards/WikiData/WD~Tomáš,16282141]]'
-  - '[[_Standards/WikiData/WD~Miloš,19818007]]'
+- '[[_Standards/WikiData/WD~Jan,12173670]]'
+- '[[_Standards/WikiData/WD~Tomáš,16282141]]'
+- '[[_Standards/WikiData/WD~Miloš,19818007]]'
 position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
@@ -77,14 +105,14 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archi
 place_of_burial: '[[_Standards/WikiData/WD~New_Warren_Cemetery,117559842]]'
 mother: '[[_Standards/WikiData/WD~Q136441370,136441370]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Czech,9056]]'
 cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 number_of_children: 4
 employer: '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 place_of_death: '[[_Standards/WikiData/WD~Danbury,49198]]'
@@ -105,8 +133,98 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Milos%20Forman.jpg
 official_website: http://milosforman.com
 ISNI: 0000000121480769
 Plex_person_key: 5d776825151a60001f24a6c5
+dv_has_:
+  name_:
+    af: Miloš Forman
+    an: Miloš Forman
+    ar: ميلوش فورمان
+    arz: ميلوش فورمان
+    ast: Miloš Formen
+    az: Miloş Forman
+    azb: میلوش فورمن
+    ba: Милош Форман
+    be: Мілаш Форман
+    be-tarask: Мілаш Форман
+    bg: Милош Форман
+    bn: মিলশ ফরমান
+    bs: Miloš Forman
+    ca: Miloš Forman
+    ckb: میلۆس فۆرمان
+    cs: Miloš Forman
+    cy: Miloš Forman
+    da: Miloš Forman
+    de: Miloš Forman
+    el: Μίλος Φόρμαν
+    en: Miloš Forman
+    en-ca: Miloš Forman
+    en-gb: Miloš Forman
+    eo: Miloš Forman
+    es: Miloš Forman
+    et: Miloš Forman
+    eu: Miloš Forman
+    fa: میلوش فورمن
+    fi: Miloš Forman
+    fr: Miloš Forman
+    ga: Miloš Forman
+    gl: Miloš Forman
+    he: מילוש פורמן
+    hi: मिलोस फ़ॉर्मन
+    hr: Miloš Forman
+    hu: Miloš Forman
+    hy: Միլոշ Ֆորման
+    id: Miloš Forman
+    io: Miloš Forman
+    it: Miloš Forman
+    ja: ミロス・フォアマン
+    ka: მილოშ ფორმანი
+    kk: Милош Форман
+    kl: Miloš Forman
+    ko: 밀로시 포르만
+    la: Miloslaus Forman
+    lb: Miloš Forman
+    li: Miloš Forman
+    lt: Miloš Forman
+    lv: Milošs Formans
+    mg: Miloš Forman
+    mk: Милош Форман
+    ml: മിലോസ് ഫോർമാൻ
+    mn: Милош Форман
+    mul: Miloš Forman
+    nb: Miloš Forman
+    nl: Miloš Forman
+    nn: Miloš Forman
+    oc: Miloš Forman
+    pa: ਮਿਲੋਸ਼ ਫਾਰਮਮੈਨ
+    pap: Miloš Forman
+    pl: Miloš Forman
+    pt: Miloš Forman
+    pt-br: Miloš Forman
+    qu: Miloš Forman
+    ro: Miloš Forman
+    ru: Милош Форман
+    sah: Форман Милош
+    sh: Miloš Forman
+    sk: Miloš Forman
+    sl: Miloš Forman
+    sq: sq
+    sr: Милош Форман
+    sv: Miloš Forman
+    te: మిలోస్ ఫోర్మన్
+    th: มิลอส ฟอร์แมน
+    tr: Miloš Forman
+    uk: Мілош Форман
+    ur: میلوس فورمین
+    vi: Jan Tomáš Forman
+    vo: Miloš Forman
+    war: Miloš Forman
+    wuu: 米洛斯·福曼
+    xmf: მილოშ ფორმანი
+    yo: Miloš Forman
+    yue: 米路士·科曼
+    zh: 米洛斯·福曼
+    zh-hant: 米洛斯·福曼
+    zh-sg: 米洛斯·福曼
 ---
-
 # [[Forman,Miloš]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Miloš_Forman,51525|WD~Miloš_Forman,51525]] 

@@ -1,9 +1,231 @@
 ---
 aliases:
-  - echinoderm
-  - Echinodermata
+- Adatādaiņi
+- Bikágí Daʼawoshígíí
+- Bodljikaši
+- Bodljokošci
+- Derisi dikenliler
+- Dygiaodžiai
+- Dərisitikanlılar
+- echinoderm
+- Echinodermata
+- Echinoderme
+- Ecinodermato
+- Ekinoderma
+- Ekinodermata
+- Ekinodermatu
+- Ekinodermo
+- Equinoderm
+- Equinoderme
+- Equinodermos
+- iglokožci
+- Ignaterililar
+- Kichka qarayuq
+- Mananap nga adunay panit ang tunokon
+- Mnyama Ngozi-miiba
+- Monumanu kili talatala
+- okasnahksed
+- ostnatokožce
+- ostnokožci
+- pigghuder
+- pigghudingar
+- Pighuder
+- piikkinahkaiset
+- Puurthidjeten
+- Skrápdýr
+- Stachelhaiter
+- Stachelhäuter
+- Stekel'udegen
+- stekelhuidigen
+- Stekelhuidiges
+- Stekkervelbêestn
+- szkarłupnie
+- säggináhkáliih
+- tagghudingar
+- Timsennenin
+- Tindadýr
+- tüskésbőrűek
+- Zinzinu
+- Động vật da gai
+- Εχινόδερμα
+- ігласкурыя
+- іголкаваскурыя
+- бодљокошци
+- голкошкірі
+- иглокожи
+- иглокожие
+- Ийне терилүүлөр
+- Имӓн каваштанвлӓ
+- Сындздзармтæ
+- Тікентерілілер
+- Энәтирелеләр
+- փշամորթներ
+- קווצי עור
+- خارپوست
+- خارپوستان
+- دریسیتیکانلیلار
+- شوكيات الجلد
+- کنڈیارے
+- ڪئنوڊرمز
+- एकिनोडर्म
+- शूलचर्मी
+- একাইনোডার্মাটা
+- কণ্টকচৰ্মী প্ৰাণী
+- முட்தோலி
+- ఇకైనోడెర్మేటా
+- ಕಂಟಕ ಚರ್ಮಿಗಳು
+- എക്കൈനൊഡെർമാറ്റ
+- เอไคโนเดอร์มาตา
+- კანეკლიანები
+- 棘皮动物
+- 棘皮动物门
+- 棘皮動物
+- 棘皮動物門
+- 극피동물
 title: Echinodermata
 has_id_wikidata: Q44631
+dv_has_:
+  name_:
+    af: Stekelhuidiges
+    an: Echinodermata
+    ar: شوكيات الجلد
+    arz: شوكيات الجلد
+    as: কণ্টকচৰ্মী প্ৰাণী
+    ast: Echinodermata
+    az: Dərisitikanlılar
+    azb: دریسیتیکانلیلار
+    ba: Энәтирелеләр
+    bar: Echinodermata
+    be: ігласкурыя
+    be-tarask: іголкаваскурыя
+    bg: иглокожи
+    bn: একাইনোডার্মাটা
+    br: Echinodermata
+    bs: Bodljokošci
+    ca: Equinoderm
+    ceb: Mananap nga adunay panit ang tunokon
+    co: Echinodermata
+    cs: ostnokožci
+    cy: Echinoderm
+    da: Pighuder
+    de: Stachelhäuter
+    de-at: Echinodermata
+    de-ch: Echinodermata
+    el: Εχινόδερμα
+    en: Echinodermata
+    en-ca: Echinoderm
+    en-gb: Echinoderm
+    eo: Ekinodermo
+    es: Echinodermata
+    et: okasnahksed
+    eu: Ekinodermatu
+    ext: Echinodermata
+    fa: خارپوستان
+    fi: piikkinahkaiset
+    fo: Tindadýr
+    fr: Echinodermata
+    frp: Echinodermata
+    frr: Puurthidjeten
+    fur: Echinodermata
+    ga: Echinodermata
+    gd: Echinodermata
+    gl: Equinodermos
+    gsw: Echinodermata
+    gv: Echinodermata
+    he: קווצי עור
+    hi: शूलचर्मी
+    hr: Bodljikaši
+    hu: tüskésbőrűek
+    hy: փշամորթներ
+    ia: Echinodermata
+    id: Ekinodermata
+    ie: Echinodermata
+    io: Ekinodermo
+    is: Skrápdýr
+    it: Echinodermata
+    ja: 棘皮動物
+    jv: Echinodermata
+    ka: კანეკლიანები
+    kab: Timsennenin
+    kg: Echinodermata
+    kk: Тікентерілілер
+    kn: ಕಂಟಕ ಚರ್ಮಿಗಳು
+    ko: 극피동물
+    ky: Ийне терилүүлөр
+    la: Echinodermata
+    lb: Stachelhaiter
+    lfn: Ecinodermato
+    li: Echinodermata
+    lij: Echinodermata
+    lt: Dygiaodžiai
+    lv: Adatādaiņi
+    mg: Echinodermata
+    min: Echinodermata
+    mk: Иглокожи
+    ml: എക്കൈനൊഡെർമാറ്റ
+    mr: एकिनोडर्म
+    mrj: Имӓн каваштанвлӓ
+    ms: Ekinoderma
+    mul: Echinodermata
+    nap: Echinodermata
+    nb: pigghuder
+    nds: Echinodermata
+    nds-nl: Echinodermata
+    nl: stekelhuidigen
+    nn: pigghudingar
+    nrm: Echinodermata
+    nv: Bikágí Daʼawoshígíí
+    nys: Echinodermata
+    oc: Echinodermata
+    os: Сындздзармтæ
+    pcd: Echinodermata
+    pl: szkarłupnie
+    pms: Echinodermata
+    pnb: کنڈیارے
+    pt: Equinoderme
+    pt-br: Echinodermata
+    qu: Kichka qarayuq
+    rm: Echinodermata
+    ro: Echinoderme
+    ru: иглокожие
+    rup: Echinodermata
+    sc: Zinzinu
+    scn: Echinodermata
+    sco: Echinoderm
+    sd: ڪئنوڊرمز
+    sh: Bodljikaši
+    sk: ostnatokožce
+    sl: iglokožci
+    smn: säggináhkáliih
+    sq: Echinodermata
+    sr: бодљокошци
+    sv: tagghudingar
+    sw: Mnyama Ngozi-miiba
+    ta: முட்தோலி
+    te: ఇకైనోడెర్మేటా
+    th: เอไคโนเดอร์มาตา
+    tl: Echinodermata
+    to: Monumanu kili talatala
+    tr: Derisi dikenliler
+    tt: Энәтирелеләр
+    uk: голкошкірі
+    ur: خارپوست
+    uz: Ignaterililar
+    vec: Echinodermata
+    vi: Động vật da gai
+    vls: Stekkervelbêestn
+    vo: Echinodermata
+    wa: Echinodermata
+    war: Echinodermata
+    wo: Echinodermata
+    wuu: 棘皮动物
+    yue: 棘皮動物
+    zea: Stekel'udegen
+    zh: 棘皮动物门
+    zh-cn: 棘皮动物门
+    zh-hans: 棘皮动物门
+    zh-tw: 棘皮動物門
+    zu: Echinodermata
 ---
 # [[Echinodermata]]
 

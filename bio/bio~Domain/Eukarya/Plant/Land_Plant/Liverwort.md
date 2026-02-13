@@ -1,20 +1,78 @@
 ---
 aliases:
-  - hepatics
+- Aane ushtey
+- aelus
+- Aknu sūnas
+- Ciger otları
+- Ciğer otları
+- Epatica
+- Helviksammaltaimed
+- hepatics
+- Hepatikoj
+- hepáticas
+- jetrenjaki
+- Jetrenjarke
+- játrovky
+- Kerpsamanės
+- Lebermoose
+- levermosar
+- levermoser
+- levermossen
+- Levermosser
+- Levermossor
+- Lewermos
+- Liewermoos
+- liverwort
+- Liwermöösk
+- llysiau'r afu
+- Losowen avi
+- Lumut ati
+- Lumut hati
+- maksasammalet
+- Marcantiofití
+- Marchantiophyta
+- májmohák
+- Ngành Rêu tản
+- pečeňovky
+- Soppmosar
+- wątrobowce
+- џигерници
+- Бауырмүк
+- печёночные мхи
+- печіночники
+- пячоначнікі
+- пячоначныя імхі
+- сiger otları
+- Чернодробни мъхове
+- լյարդամամուռներ
+- טחבי כבד
+- جگرواشان
+- نباتات كبدية
+- نباتات كبديه
+- ஈரலுருத் தாவரம்
+- ലിവർവേർട്ട്
+- ลิเวอร์เวิร์ต
+- ღვიძლის ხავსები
+- 地錢門
+- 地钱门
+- 苔綱
+- 苔纲
+- 苔類
+- 우산이끼문
 has_id_wikidata: Q189808
-parent_taxon: "[[_Standards/WikiData/WD~Embryophytes,192154]]"
+parent_taxon: '[[_Standards/WikiData/WD~Embryophytes,192154]]'
 taxon_rank:
-  - "[[_Standards/WikiData/WD~division,334460]]"
-  - "[[_Standards/WikiData/WD~phylum,38348]]"
+- '[[_Standards/WikiData/WD~division,334460]]'
+- '[[_Standards/WikiData/WD~phylum,38348]]'
 described_by_source:
-  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Q75186175,75186175]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "846119"
+- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Q75186175,75186175]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 846119
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Assortment%20of%20Hepaticae%20from%20Kunstformen%20der%20Natur%20%281904%29%2C%20plate%2082.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Marchantiophyta.wav
 EPPO_Code: 1MHTP
@@ -22,8 +80,93 @@ Commons_category: Marchantiophyta
 taxon_name: Marchantiophyta
 start_time: -472000000-01-01T00:00:00Z
 NBN_System_Key: NHMSYS0020796639
+dv_has_:
+  name_:
+    af: Lewermos
+    ar: نباتات كبدية
+    arz: نباتات كبديه
+    ast: Marchantiophyta
+    az: Marchantiophyta
+    be: пячоначныя імхі
+    be-tarask: пячоначнікі
+    bg: Чернодробни мъхове
+    bjn: Lumut hati
+    ca: Marcantiofití
+    ceb: Marchantiophyta
+    crh: сiger otları
+    crh-latn: Ciger otları
+    cs: játrovky
+    cy: llysiau'r afu
+    da: Levermosser
+    de: Lebermoose
+    en: liverwort
+    en-ca: Marchantiophyta
+    en-gb: liverwort
+    eo: Hepatikoj
+    es: Marchantiophyta
+    et: Helviksammaltaimed
+    eu: Marchantiophyta
+    fa: جگرواشان
+    fi: maksasammalet
+    fr: Marchantiophyta
+    frr: Liwermöösk
+    ga: aelus
+    gl: hepáticas
+    gv: Aane ushtey
+    he: טחבי כבד
+    hr: Jetrenjarke
+    hu: májmohák
+    hy: լյարդամամուռներ
+    ia: Marchantiophyta
+    id: Lumut hati
+    is: Soppmosar
+    it: Marchantiophyta
+    ja: 苔類
+    jv: Lumut ati
+    ka: ღვიძლის ხავსები
+    kk: Бауырмүк
+    ko: 우산이끼문
+    kw: Losowen avi
+    la: Marchantiophyta
+    lb: Liewermoos
+    lfn: Epatica
+    lt: Kerpsamanės
+    lv: Aknu sūnas
+    mk: џигерници
+    ml: ലിവർവേർട്ട്
+    ms: Lumut hati
+    mul: Marchantiophyta
+    nb: levermoser
+    nl: levermossen
+    nn: levermosar
+    oc: Marchantiophyta
+    pl: wątrobowce
+    pt: hepáticas
+    pt-br: Marchantiophyta
+    ro: Marchantiophyta
+    ru: печёночные мхи
+    sk: pečeňovky
+    sl: jetrenjaki
+    sq: Marchantiophyta
+    sr: Marchantiophyta
+    sv: Levermossor
+    ta: ஈரலுருத் தாவரம்
+    th: ลิเวอร์เวิร์ต
+    tl: Marchantiophyta
+    tr: Ciğer otları
+    uk: печіночники
+    vi: Ngành Rêu tản
+    war: Marchantiophyta
+    wuu: 地钱门
+    yue: 地錢門
+    zh: 地钱门
+    zh-cn: 地钱门
+    zh-hans: 地钱门
+    zh-hant: 地錢門
+    zh-hk: 苔綱
+    zh-sg: 苔纲
+    zh-tw: 地錢門
 ---
-
 # [[Liverwort]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Liverwort,189808|WD~Liverwort,189808]] 

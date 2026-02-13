@@ -1,39 +1,113 @@
 ---
 aliases:
-  - Gothic architecture
-  - Gothic_architecture
+- ailtireacht Ghotach
+- Architectura gothic
+- Architectura gothica
+- architecture gothique
+- architektura gotycka
+- architettura gotica
+- architetura gòtega
+- Architetura gòtica
+- Arciteta gotica
+- arhitectură gotică
+- Arkitektouriezh c'hotek
+- arkitektura gotiko
+- Arkitekturang Gotiko
+- Arquitectura gotica
+- arquitectura gòtica
+- arquitectura gótica
+- arquitetura gótica
+- arquiteutura gótica
+- Arsitektur Gotik
+- Arxitekturada gotika uslubi
+- Estyle gothique
+- Gooti arhitektuur
+- goottilainen arkkitehtuuri
+- Gothic airchitectur
+- Gothic architecture
+- Gothic kiàn-tio̍k
+- Gothic_architecture
+- gotická architektura
+- gotická architektúra
+- Gotiek
+- Gotiese argitektuur
+- gotik
+- Gotik mimarlık
+- gotika
+- Gotika arkitekturo
+- gotische architectuur
+- Gotische Architektur
+- gotisk arkitektur
+- gotiska architektura
+- gotička arhitektura
+- gotska arhitektura
+- Gotyk
+- gótika
+- kiến trúc Gothic
+- Mtindo wa kigothi
+- pensaernïaeth Gothig
+- qotika
+- seni bina Goth
+- γοτθική αρχιτεκτονική
+- гатычная архітэктура
+- готик архитектура
+- готика
+- Готическа архитектура
+- готическая архитектура
+- готичка архитектура
+- Готична архитектура
+- готска архитектура
+- Գոթական ճարտարապետություն
+- אדריכלות גותית
+- العماره القوطيه
+- عمارة قوطية
+- معماری گوتیک
+- گوتھک فن تعمیر
+- गथिक वास्तुकला
+- गॉथिक वास्तुकला
+- গথিক স্থাপত্য
+- கோதிக் கட்டிடக்கலை
+- ಗಾತಿಕ್ ವಾಸ್ತು ಶೈಲಿ
+- ഗോതിക് വാസ്തുകല
+- สถาปัตยกรรมกอทิก
+- გოტიკური არქიტექტურა
+- ゴシック建築
+- 哥德式建築
+- 哥特式建筑
+- 哥特式建築
+- 고딕 건축
 has_id_wikidata: Q176483
 followed_by: '[[_Standards/WikiData/WD~Renaissance_architecture,236122]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
-  - '[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Middle_Ages,43325453]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_the_Middle_Ages,42962936]]'
+- '[[_Standards/WikiData/WD~The_Oxford_Dictionary_of_the_Middle_Ages,43325453]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Brick_Gothic,695863]]'
-  - '[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]'
-  - '[[_Standards/WikiData/WD~Flamboyant,1351624]]'
-  - '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
-  - '[[_Standards/WikiData/WD~Italian_Gothic_architecture,2245489]]'
-  - '[[_Standards/WikiData/WD~Isabelline,2602891]]'
-  - '[[_Standards/WikiData/WD~Spanish_Gothic_architecture,2704973]]'
-  - '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
-  - '[[_Standards/WikiData/WD~German_Gothic,3773653]]'
-  - '[[_Standards/WikiData/WD~Portuguese_Gothic_architecture,4373390]]'
-  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Poland,7209916]]'
-  - '[[_Standards/WikiData/WD~Venetian_Gothic_architecture,7919731]]'
-  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Central_Europe,9159125]]'
-  - '[[_Standards/WikiData/WD~Late_Gothic,10924220]]'
-  - '[[_Standards/WikiData/WD~Czech_Gothic_architecture,12018399]]'
-  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Romania,21167467]]'
-  - '[[_Standards/WikiData/WD~Gothic_architecture_in_Lithuania,21856457]]'
-  - '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
-  - '[[_Standards/WikiData/WD~High_Gothic,98668652]]'
+- '[[_Standards/WikiData/WD~Brick_Gothic,695863]]'
+- '[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]'
+- '[[_Standards/WikiData/WD~Flamboyant,1351624]]'
+- '[[_Standards/WikiData/WD~French_Gothic_architecture,2245347]]'
+- '[[_Standards/WikiData/WD~Italian_Gothic_architecture,2245489]]'
+- '[[_Standards/WikiData/WD~Isabelline,2602891]]'
+- '[[_Standards/WikiData/WD~Spanish_Gothic_architecture,2704973]]'
+- '[[_Standards/WikiData/WD~Rayonnant,2914850]]'
+- '[[_Standards/WikiData/WD~German_Gothic,3773653]]'
+- '[[_Standards/WikiData/WD~Portuguese_Gothic_architecture,4373390]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture_in_Poland,7209916]]'
+- '[[_Standards/WikiData/WD~Venetian_Gothic_architecture,7919731]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture_in_Central_Europe,9159125]]'
+- '[[_Standards/WikiData/WD~Late_Gothic,10924220]]'
+- '[[_Standards/WikiData/WD~Czech_Gothic_architecture,12018399]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture_in_Romania,21167467]]'
+- '[[_Standards/WikiData/WD~Gothic_architecture_in_Lithuania,21856457]]'
+- '[[_Standards/WikiData/WD~Early_Gothic_architecture,33247990]]'
+- '[[_Standards/WikiData/WD~High_Gothic,98668652]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Gothic_architecture,6462748]]'
-  - '[[_Standards/WikiData/WD~Template_Gothic,26252911]]'
+- '[[_Standards/WikiData/WD~Template_Gothic_architecture,6462748]]'
+- '[[_Standards/WikiData/WD~Template_Gothic,26252911]]'
 subclass_of: '[[_Standards/WikiData/WD~architecture,12271]]'
 instance_of: '[[_Standards/WikiData/WD~architectural_style,32880]]'
 follows: '[[_Standards/WikiData/WD~Romanesque_architecture,46261]]'
@@ -43,6 +117,99 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Winchester%20cathedral
 Commons_gallery: Gothic architecture
 Commons_category: Gothic architecture
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GOTICHESKAYA_ARHITEKTURA.html
+dv_has_:
+  name_:
+    af: Gotiese argitektuur
+    ar: عمارة قوطية
+    arz: العماره القوطيه
+    ast: arquiteutura gótica
+    az: qotika
+    ba: готик архитектура
+    be: гатычная архітэктура
+    be-tarask: гатычная архітэктура
+    bg: Готическа архитектура
+    bn: গথিক স্থাপত্য
+    br: Arkitektouriezh c'hotek
+    ca: arquitectura gòtica
+    cs: gotická architektura
+    cy: pensaernïaeth Gothig
+    da: gotik
+    de: Gotische Architektur
+    el: γοτθική αρχιτεκτονική
+    en: Gothic architecture
+    eo: gotika arkitekturo
+    es: arquitectura gótica
+    et: Gooti arhitektuur
+    eu: arkitektura gotiko
+    fa: معماری گوتیک
+    fi: goottilainen arkkitehtuuri
+    fr: architecture gothique
+    fy: Gotyk
+    ga: ailtireacht Ghotach
+    gl: arquitectura gótica
+    he: אדריכלות גותית
+    hi: गॉथिक वास्तुकला
+    hr: gotička arhitektura
+    hsb: gotiska architektura
+    hu: gótika
+    hy: Գոթական ճարտարապետություն
+    ia: Architectura gothic
+    id: Arsitektur Gotik
+    io: Gotika arkitekturo
+    it: architettura gotica
+    ja: ゴシック建築
+    ka: გოტიკური არქიტექტურა
+    kn: ಗಾತಿಕ್ ವಾಸ್ತು ಶೈಲಿ
+    ko: 고딕 건축
+    la: Architectura gothica
+    lb: Gotik
+    lfn: Arciteta gotica
+    li: Gotiek
+    lt: gotika
+    lv: gotika
+    mk: готска архитектура
+    ml: ഗോതിക് വാസ്തുകല
+    ms: seni bina Goth
+    nan: Gothic kiàn-tio̍k
+    nb: gotisk arkitektur
+    new: गथिक वास्तुकला
+    nl: gotische architectuur
+    nn: gotisk arkitektur
+    nrm: Estyle gothique
+    oc: Arquitectura gotica
+    pl: architektura gotycka
+    pms: Architetura gòtica
+    pnb: گوتھک فن تعمیر
+    pt: arquitetura gótica
+    ro: arhitectură gotică
+    ru: готическая архитектура
+    rue: Готична архитектура
+    sco: Gothic airchitectur
+    sh: gotička arhitektura
+    sk: gotická architektúra
+    sl: gotska arhitektura
+    sr: готичка архитектура
+    sv: gotisk arkitektur
+    sw: Mtindo wa kigothi
+    ta: கோதிக் கட்டிடக்கலை
+    th: สถาปัตยกรรมกอทิก
+    tl: Arkitekturang Gotiko
+    tr: Gotik mimarlık
+    uk: готика
+    ur: گوتھک فن تعمیر
+    uz: Arxitekturada gotika uslubi
+    vec: architetura gòtega
+    vi: kiến trúc Gothic
+    vls: Gotiek
+    wuu: 哥特式建筑
+    yue: 哥德式建築
+    zh: 哥特式建筑
+    zh-cn: 哥特式建筑
+    zh-hans: 哥特式建筑
+    zh-hant: 哥特式建築
+    zh-hk: 哥德式建築
+    zh-sg: 哥特式建筑
+    zh-tw: 哥德式建築
 ---
 # [[Gothic_architecture]] 
 

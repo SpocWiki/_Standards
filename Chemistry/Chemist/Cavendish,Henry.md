@@ -1,82 +1,223 @@
 ---
 aliases:
-  - Henry_Cavendish
-  - Henry Cavendish
-  - Cavendish,Henry
+- Cavendish,Henry
+- Henri Kavendiş
+- Henri Kevendiš
+- Henricus Cavendish
+- Henrijs Kevendišs
+- Henry Cavendish
+- Henry_Cavendish
+- Hinri kafnidc
+- Kavendish Genri
+- Χένρι Κάβεντις
+- Генрі Кавендіш
+- Генри Кавендиш
+- Генры Кавендыш
+- Гэнры Кэвэндыш
+- Кавендиш Генри
+- Хенри Кавендиш
+- Хенри Кевендиш
+- Հենրի Կավենդիշ
+- הנרי קוונדיש
+- هنرى كافنديش
+- هنري كافنديش
+- هنري كاڤنديش
+- هنری کاوندیش
+- क्यावेण्डिष् हेन्रि
+- हेनरी केभेन्डिस
+- हेनरी कैवेंडिश
+- हेन्री कॅव्हेन्डिश
+- হেনরি ক্যাভেন্ডিশ
+- হেনৰী কেভেণ্ডিছ
+- ହେନେରି କ୍ୟାଭେଣ୍ଡିସ୍
+- என்றி கேவண்டிசு
+- హెన్రీ కేవిండిష్
+- ಹೆನ್ರಿ ಕ್ಯಾವೆಂಡಿಷ್
+- ഹെൻറി കാവൻഡിഷ്
+- เฮนรี คาเวนดิช
+- ကဗင်းဒစ်၊ အိပ်
+- ჰენრი კავენდიში
+- ហង់រី កាវិនឌីស
+- ⵀⵉⵏⵔⵉ ⴽⴰⴼⵏⴷⵉⵛ
+- ヘンリー・キャヴェンディッシュ
+- 亨利·卡文迪什
+- 亨利·卡雲迪殊
+- 亨利卡雲迪殊
+- 헨리 캐번디시
 has_id_wikidata: Q131733
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/KAVENDISH_GENRI.html
 date_of_death: 1810-02-24T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Cavendish%20Henry%20signature%20%28cropped%29.jpg
-member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-employer: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
+member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+employer: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-residence: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+residence: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Peterhouse,650068]]"
-  - "[[_Standards/WikiData/WD~Newcome's_School,15262144]]"
-  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
-given_name: "[[_Standards/WikiData/WD~Henry,1158477]]"
-father: "[[_Standards/WikiData/WD~Lord_Charles_Cavendish,2958710]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
-family_name: "[[_Standards/WikiData/WD~Cavendish,16865452]]"
-mother: "[[_Standards/WikiData/WD~Ann_Grey,75250290]]"
-sibling: "[[_Standards/WikiData/WD~Frederick_Cavendish,75250292]]"
+- '[[_Standards/WikiData/WD~Peterhouse,650068]]'
+- "[[_Standards/WikiData/WD~Newcome's_School,15262144]]"
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+given_name: '[[_Standards/WikiData/WD~Henry,1158477]]'
+father: '[[_Standards/WikiData/WD~Lord_Charles_Cavendish,2958710]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+family_name: '[[_Standards/WikiData/WD~Cavendish,16865452]]'
+mother: '[[_Standards/WikiData/WD~Ann_Grey,75250290]]'
+sibling: '[[_Standards/WikiData/WD~Frederick_Cavendish,75250292]]'
 date_of_birth: 1731-10-10T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~London,84]]"
-place_of_birth: "[[_Standards/WikiData/WD~Nice,33959]]"
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~London,84]]'
+place_of_birth: '[[_Standards/WikiData/WD~Nice,33959]]'
 Commons_category: Henry Cavendish
 name_in_native_language: Henry Cavendish
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cavendish%20Henry%20signature.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=169897424
-  - http://www.digiporta.net/index.php?id=926123715
+- http://www.digiporta.net/index.php?id=169897424
+- http://www.digiporta.net/index.php?id=926123715
 ISNI: 108149043
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Henry_Cavendish,131733]]"
-    - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry|Cavendish,Henry]]"
-    - "[[/_public/Chemistry/Chemist/Cavendish,Henry.public|Cavendish,Henry.public]]"
-    - "[[/_internal/Chemistry/Chemist/Cavendish,Henry.internal|Cavendish,Henry.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Cavendish,Henry.protect|Cavendish,Henry.protect]]"
-    - "[[/_private/Chemistry/Chemist/Cavendish,Henry.private|Cavendish,Henry.private]]"
-    - "[[/_personal/Chemistry/Chemist/Cavendish,Henry.personal|Cavendish,Henry.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Cavendish,Henry.secret|Cavendish,Henry.secret]]"
+  - '[[../../WikiData/WD~Henry_Cavendish,131733]]'
+  - '[[/_Standards/Chemistry/Chemist/Cavendish,Henry|Cavendish,Henry]]'
+  - '[[/_public/Chemistry/Chemist/Cavendish,Henry.public|Cavendish,Henry.public]]'
+  - '[[/_internal/Chemistry/Chemist/Cavendish,Henry.internal|Cavendish,Henry.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Cavendish,Henry.protect|Cavendish,Henry.protect]]'
+  - '[[/_private/Chemistry/Chemist/Cavendish,Henry.private|Cavendish,Henry.private]]'
+  - '[[/_personal/Chemistry/Chemist/Cavendish,Henry.personal|Cavendish,Henry.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Cavendish,Henry.secret|Cavendish,Henry.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Henry_Cavendish,131733]]"
-  - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry|Cavendish,Henry]]"
-  - "[[/_public/Chemistry/Chemist/Cavendish,Henry.public|Cavendish,Henry.public]]"
-  - "[[/_internal/Chemistry/Chemist/Cavendish,Henry.internal|Cavendish,Henry.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Cavendish,Henry.protect|Cavendish,Henry.protect]]"
-  - "[[/_private/Chemistry/Chemist/Cavendish,Henry.private|Cavendish,Henry.private]]"
-  - "[[/_personal/Chemistry/Chemist/Cavendish,Henry.personal|Cavendish,Henry.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Cavendish,Henry.secret|Cavendish,Henry.secret]]"
+- '[[../../WikiData/WD~Henry_Cavendish,131733]]'
+- '[[/_Standards/Chemistry/Chemist/Cavendish,Henry|Cavendish,Henry]]'
+- '[[/_public/Chemistry/Chemist/Cavendish,Henry.public|Cavendish,Henry.public]]'
+- '[[/_internal/Chemistry/Chemist/Cavendish,Henry.internal|Cavendish,Henry.internal]]'
+- '[[/_protect/Chemistry/Chemist/Cavendish,Henry.protect|Cavendish,Henry.protect]]'
+- '[[/_private/Chemistry/Chemist/Cavendish,Henry.private|Cavendish,Henry.private]]'
+- '[[/_personal/Chemistry/Chemist/Cavendish,Henry.personal|Cavendish,Henry.personal]]'
+- '[[/_secret/Chemistry/Chemist/Cavendish,Henry.secret|Cavendish,Henry.secret]]'
+dv_has_:
+  name_:
+    af: Henry Cavendish
+    ar: هنري كافنديش
+    ary: هنري كاڤنديش
+    arz: هنرى كافنديش
+    as: হেনৰী কেভেণ্ডিছ
+    ast: Henry Cavendish
+    az: Henri Kavendiş
+    azb: هنری کاوندیش
+    be: Генры Кавендыш
+    be-tarask: Гэнры Кэвэндыш
+    bg: Хенри Кавендиш
+    bn: হেনরি ক্যাভেন্ডিশ
+    bs: Henry Cavendish
+    ca: Henry Cavendish
+    cs: Henry Cavendish
+    cv: Кавендиш Генри
+    da: Henry Cavendish
+    de: Henry Cavendish
+    el: Χένρι Κάβεντις
+    en: Henry Cavendish
+    eo: Henry Cavendish
+    es: Henry Cavendish
+    et: Henry Cavendish
+    eu: Henry Cavendish
+    fa: هنری کاوندیش
+    fi: Henry Cavendish
+    fr: Henry Cavendish
+    ga: Henry Cavendish
+    gd: Henry Cavendish
+    gl: Henry Cavendish
+    gv: Henry Cavendish
+    he: הנרי קוונדיש
+    hi: हेनरी कैवेंडिश
+    hr: Henry Cavendish
+    ht: Henry Cavendish
+    hu: Henry Cavendish
+    hy: Հենրի Կավենդիշ
+    id: Henry Cavendish
+    is: Henry Cavendish
+    it: Henry Cavendish
+    ja: ヘンリー・キャヴェンディッシュ
+    ka: ჰენრი კავენდიში
+    kab: Hinri kafnidc
+    kk: Генри Кавендиш
+    km: ហង់រី កាវិនឌីស
+    kn: ಹೆನ್ರಿ ಕ್ಯಾವೆಂಡಿಷ್
+    ko: 헨리 캐번디시
+    ku: Henry Cavendish
+    la: Henricus Cavendish
+    lb: Henry Cavendish
+    lt: Henry Cavendish
+    lv: Henrijs Kevendišs
+    lzh: 亨利卡雲迪殊
+    mg: Henry Cavendish
+    mk: Хенри Кевендиш
+    ml: ഹെൻറി കാവൻഡിഷ്
+    mn: Хенри Кавендиш
+    mr: हेन्री कॅव्हेन्डिश
+    mul: Henry Cavendish
+    my: ကဗင်းဒစ်၊ အိပ်
+    nb: Henry Cavendish
+    ne: हेनरी केभेन्डिस
+    nl: Henry Cavendish
+    nn: Henry Cavendish
+    or: ହେନେରି କ୍ୟାଭେଣ୍ଡିସ୍
+    pl: Henry Cavendish
+    pt: Henry Cavendish
+    pt-br: Henry Cavendish
+    ro: Henry Cavendish
+    ru: Генри Кавендиш
+    sa: क्यावेण्डिष् हेन्रि
+    sco: Henry Cavendish
+    sh: Henry Cavendish
+    sk: Henry Cavendish
+    sl: Henry Cavendish
+    sq: Henry Cavendish
+    sr: Хенри Кевендиш
+    sr-ec: Хенри Кевендиш
+    sr-el: Henri Kevendiš
+    sv: Henry Cavendish
+    ta: என்றி கேவண்டிசு
+    te: హెన్రీ కేవిండిష్
+    th: เฮนรี คาเวนดิช
+    tl: Henry Cavendish
+    tr: Henry Cavendish
+    uk: Генрі Кавендіш
+    uz: Kavendish Genri
+    vi: Henry Cavendish
+    war: Henry Cavendish
+    wuu: 亨利·卡文迪什
+    yue: 亨利卡雲迪殊
+    zgh: ⵀⵉⵏⵔⵉ ⴽⴰⴼⵏⴷⵉⵛ
+    zh: 亨利·卡文迪什
+    zh-cn: 亨利·卡文迪什
+    zh-hans: 亨利·卡文迪什
+    zh-hant: 亨利·卡文迪什
+    zh-hk: 亨利·卡雲迪殊
+    zh-sg: 亨利·卡文迪什
+    zh-tw: 亨利·卡文迪什
 ---
-
 # [[Cavendish,Henry]] 
 
 #is_/same_as :: [[WD~Henry_Cavendish,131733]] 

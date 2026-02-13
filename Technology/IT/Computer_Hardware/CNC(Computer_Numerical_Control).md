@@ -1,22 +1,148 @@
 ---
 aliases:
-  - CNC
-  - Computer numerical control
-  - CNC machining
-  - CNC(Computer_Numerical_Control)
-  - CNC(Computer Numerical Control)
+- arvprogrammjuhtimine
+- basqarw qürılğısı
+- ciparvadība
+- CNC
+- CNC machining
+- CNC mašina
+- CNC upravljanje
+- CNC(Computer Numerical Control)
+- CNC(Computer_Numerical_Control)
+- CNC-maskine
+- commande numérique
+- Computer numerical control
+- Computerized Numerical Control
+- Control numbéricu
+- control numèric per ordinador
+- control numérico
+- Control numérico computerizado
+- controle numérico computadorizado
+- controllo numerico computerizzato
+- komputila cifereca stirado
+- numeerinen ohjaus
+- numerical control
+- numerisk kontroll
+- Pulea numera
+- računalniško numerično krmiljenje
+- računarska numerički upravljana mašina
+- rialú uimhriúil
+- sayısal kontrol
+- számítógépes számjegyvezérlés
+- Zenbakizko kontrol
+- басқару қүрылғысы
+- бројчена контрола
+- Идораи барномавии рақамӣ
+- лічбавае праграмнае кіраванне
+- лічбавае праграмнае кіраваньне
+- рачунарска нумерички управљана машина
+- санлы идарә
+- Цифрово програмно управление
+- числове керування
+- числовое программное управление
+- باسقارۋ قۇرىلعىسى
+- تحكم رقمي باستخدام الحاسوب
+- سیانسی
+- संख्यात्मक नियंत्रण
+- संगणक नियंत्रण यंत्रे
+- གྲངས་འཛིན་འཁོར་སྟེགས།
+- ကွန်ပျူတာထိန်းချုပ် စက်မှုပုံစံပြုစက်များ
+- კომპიუტერული ციფრული მართვა
+- コンピュータ数値制御
+- 数控机床
+- 數控機床
+- 電腦數值控制工具機
+- 電腦數控
+- 수치 제어
 has_id_wikidata: Q190247
 subclass_of:
-  - "[[_Standards/WikiData/WD~controller,1321995]]"
-  - "[[_Standards/WikiData/WD~production_process,1408286]]"
-  - "[[_Standards/WikiData/WD~digital_control,2720568]]"
-  - "[[_Standards/WikiData/WD~numerical_control,3689317]]"
-used_by: "[[_Standards/WikiData/WD~CNC_machine,13231055]]"
+- '[[_Standards/WikiData/WD~controller,1321995]]'
+- '[[_Standards/WikiData/WD~production_process,1408286]]'
+- '[[_Standards/WikiData/WD~digital_control,2720568]]'
+- '[[_Standards/WikiData/WD~numerical_control,3689317]]'
+used_by: '[[_Standards/WikiData/WD~CNC_machine,13231055]]'
 subreddit: CNC
 Commons_gallery: CNC
 Commons_category: Computer numerical control
+dv_has_:
+  name_:
+    ar: تحكم رقمي باستخدام الحاسوب
+    ast: Control numbéricu
+    az: CNC
+    be: лічбавае праграмнае кіраванне
+    be-tarask: лічбавае праграмнае кіраваньне
+    bg: Цифрово програмно управление
+    bo: གྲངས་འཛིན་འཁོར་སྟེགས།
+    bs: CNC mašina
+    ca: control numèric per ordinador
+    da: CNC-maskine
+    de: Computerized Numerical Control
+    el: Computerized Numerical Control
+    en: computer numerical control
+    en-ca: numerical control
+    en-gb: computer numerical control
+    eo: komputila cifereca stirado
+    es: control numérico
+    et: arvprogrammjuhtimine
+    eu: Zenbakizko kontrol
+    fa: سیانسی
+    fi: numeerinen ohjaus
+    fr: commande numérique
+    ga: rialú uimhriúil
+    gl: Control numérico computerizado
+    he: Computer Numerical Control
+    hi: संख्यात्मक नियंत्रण
+    hr: CNC upravljanje
+    hu: számítógépes számjegyvezérlés
+    id: CNC
+    it: controllo numerico computerizzato
+    ja: コンピュータ数値制御
+    ka: კომპიუტერული ციფრული მართვა
+    kk: басқару қүрылғысы
+    kk-arab: باسقارۋ قۇرىلعىسى
+    kk-cn: باسقارۋ قۇرىلعىسى
+    kk-cyrl: басқару қүрылғысы
+    kk-kz: басқару қүрылғысы
+    kk-latn: basqarw qürılğısı
+    kk-tr: basqarw qürılğısı
+    ko: 수치 제어
+    lt: CNC
+    lv: ciparvadība
+    mk: бројчена контрола
+    mn: CNC
+    mo: computer numerical control
+    mr: संगणक नियंत्रण यंत्रे
+    my: ကွန်ပျူတာထိန်းချုပ် စက်မှုပုံစံပြုစက်များ
+    nb: numerisk kontroll
+    nl: computer numerical control
+    nn: numerisk kontroll
+    pl: Computerized Numerical Control
+    pt: controle numérico computadorizado
+    pt-br: controle numérico computadorizado
+    ro: Computer Numerical Control
+    ru: числовое программное управление
+    sco: numerical control
+    sl: računalniško numerično krmiljenje
+    sm: Pulea numera
+    sq: Cnc
+    sr: рачунарска нумерички управљана машина
+    sr-ec: рачунарска нумерички управљана машина
+    sr-el: računarska numerički upravljana mašina
+    sv: Computer Numerical Control
+    tg: Идораи барномавии рақамӣ
+    tr: sayısal kontrol
+    tt: санлы идарә
+    uk: числове керування
+    vi: CNC
+    yue: 電腦數控
+    zh: 数控机床
+    zh-cn: 数控机床
+    zh-hans: 数控机床
+    zh-hant: 電腦數值控制工具機
+    zh-hk: 數控機床
+    zh-sg: 数控机床
+    zh-tw: 電腦數值控制工具機
 ---
-
 # [[CNC(Computer_Numerical_Control)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Computer_numerical_control,190247|WD~Computer_numerical_control,190247]] 

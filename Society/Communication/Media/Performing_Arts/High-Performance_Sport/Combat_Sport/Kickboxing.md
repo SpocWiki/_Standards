@@ -1,23 +1,71 @@
 ---
 aliases:
+- americký kickbox
+- cicdhornálaíocht
+- cicfocsio
+- kick boks
+- kick boxing
+- kick-box
+- kick-boxing
+- kickboksen
+- kickboksing
+- kickbox
+- Kickboxen
+- kickboxing
+- kickboxning
+- kik-boks
+- kikboks
+- kikboksas
+- kikboksing
+- kikboksinq
+- kikbokss
+- kikkpoks
+- kïkboksïng
+- piedbato-bokso
+- potkunyrkkeily
+- pugilatus pedibus pugnisque
+- skopboks
+- čiehčâmčurmâđâttâm
+- κικ μπόξινγκ
+- кікбоксинг
+- кікбоксынг
+- кик-бокс
+- кикбокс
+- кикбоксинг
+- քիքբոքսինգ
+- קיקבוקס
+- الكيك بوكسينغ
+- كىيكبوكسىينگ
+- کک باکسنگ
+- کیک بۆکسینگ
+- کیکبوکسینگ
+- किकबक्सिङ
+- किकबॉक्सिंग
+- কিকবক্সিং
+- காலுதைச்சண்டை
+- කික්බොක්සිං
+- คิกบอกซิง
+- キックボクシング
+- 踢拳
+- 킥복싱
 has_id_wikidata: Q178678
 different_from:
-  - "[[_Standards/WikiData/WD~Muay_Thai,120931]]"
-  - "[[_Standards/WikiData/WD~kung_fu,208607]]"
-  - "[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]"
-  - "[[_Standards/WikiData/WD~full_contact_karate,3754231]]"
-  - "[[_Standards/WikiData/WD~karate,11419]]"
-  - "[[_Standards/WikiData/WD~taekwondo,36389]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Osamu_Noguchi,6675243]]"
+- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~full_contact_karate,3754231]]'
+- '[[_Standards/WikiData/WD~karate,11419]]'
+- '[[_Standards/WikiData/WD~taekwondo,36389]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Osamu_Noguchi,6675243]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
-  - "[[_Standards/WikiData/WD~boxing,32112]]"
-practiced_by: "[[_Standards/WikiData/WD~kickboxer,11296761]]"
+- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~boxing,32112]]'
+practiced_by: '[[_Standards/WikiData/WD~kickboxer,11296761]]'
 uses:
-  - "[[_Standards/WikiData/WD~fist,16743864]]"
-  - "[[_Standards/WikiData/WD~foot,15807]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
+- '[[_Standards/WikiData/WD~fist,16743864]]'
+- '[[_Standards/WikiData/WD~foot,15807]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Kickboxing%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WKA%20World%20Championship%202012%20Munich%20444.JPG
 IMDb_keyword: kickboxing
@@ -25,8 +73,101 @@ hashtag_: kickboxing
 subreddit: Kickboxing
 Commons_category: Kickboxing
 Krugosvet_article_archived_: sport/kikboksing
+dv_has_:
+  name_:
+    af: skopboks
+    ar: الكيك بوكسينغ
+    ast: kick boxing
+    az: kikboksinq
+    ba: кикбоксинг
+    be-tarask: кікбоксынг
+    bg: кикбокс
+    bn: কিকবক্সিং
+    bs: kickboxing
+    ca: kick-boxing
+    ckb: کیک بۆکسینگ
+    cs: kickbox
+    cy: cicfocsio
+    da: kickboxing
+    de: Kickboxen
+    el: κικ μπόξινγκ
+    en: kickboxing
+    en-ca: kickboxing
+    en-gb: kickboxing
+    en-us: kickboxing
+    eo: piedbato-bokso
+    es: kick boxing
+    et: kikkpoks
+    eu: kickboxing
+    fa: کیکبوکسینگ
+    fi: potkunyrkkeily
+    fr: kick-boxing
+    fur: kick-boxing
+    ga: cicdhornálaíocht
+    gl: kickboxing
+    he: קיקבוקס
+    hi: किकबॉक्सिंग
+    hr: kickboxing
+    hu: kick-box
+    hy: քիքբոքսինգ
+    ia: kick-boxing
+    id: kickboxing
+    io: kick-boxing
+    it: kickboxing
+    ja: キックボクシング
+    kk: кикбоксинг
+    kk-arab: كىيكبوكسىينگ
+    kk-latn: kïkboksïng
+    ko: 킥복싱
+    ky: кикбоксинг
+    la: pugilatus pedibus pugnisque
+    lb: Kickboxen
+    lt: kikboksas
+    lv: kikbokss
+    mk: кикбокс
+    mn: кикбокс
+    ms: kickboxing
+    nb: kickboksing
+    new: किकबक्सिङ
+    nl: kickboksen
+    nov: kick-boxing
+    oc: kick-boxing
+    os: кикбоксинг
+    pl: kick-boxing
+    pms: kick-boxing
+    pt: kickboxing
+    ro: kickboxing
+    ru: кикбоксинг
+    ryu: キックボクシング
+    se: kickboxing
+    sh: kik-boks
+    si: කික්බොක්සිං
+    sk: americký kickbox
+    sl: kikboks
+    smn: čiehčâmčurmâđâttâm
+    sq: kickbox
+    sr: кик-бокс
+    sr-el: kik-boks
+    sv: kickboxning
+    ta: காலுதைச்சண்டை
+    th: คิกบอกซิง
+    tly: kikboksing
+    tr: kick boks
+    uk: кікбоксинг
+    ur: کک باکسنگ
+    uz: kikboksing
+    vec: kickboxing
+    vi: kickboxing
+    wuu: 踢拳
+    yue: 踢拳
+    zh: 踢拳
+    zh-cn: 踢拳
+    zh-hans: 踢拳
+    zh-hant: 踢拳
+    zh-hk: 踢拳
+    zh-sg: 踢拳
+    zh-tw: 踢拳
 ---
-
 # [[Kickboxing]] 
 
 #is_/same_as :: [[WD~Kickboxing,178678]] 

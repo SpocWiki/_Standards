@@ -1,20 +1,141 @@
 ---
 aliases:
-  - Sexual attraction
-  - Sexual_Attraction
-  - Sexual Attraction
+- atracció sexual
+- atracción sexual
+- atraición sexual
+- Atrakcyjność seksualna
+- atração sexual
+- attirance sexuelle
+- attrazione sessuale
+- Cinsel cazibe
+- Cinsi cazibə
+- Daya tarik seksual
+- dúil ghnéasach
+- Hấp dẫn tình dục
+- Jinsiy joziba
+- Kabighaniang seksuwal
+- lytinis potraukis
+- Pagkadagkang sekswal
+- seksallogo
+- Seksapiil
+- seksuaalinen viehätysvoima
+- Seksualna privlačnost
+- Seksuële oantrekking
+- seksuālā pievilcība
+- sexappeal
+- Sexu erakarpen
+- Sexual atrakteso
+- Sexual attraction
+- Sexual_Attraction
+- sexuell attraktion
+- sexuální přitažlivost
+- Sexy
+- spolna privlačnost
+- Tarikan seksual
+- Tërheqja seksuale
+- vonzalom
+- ερωτική έλξη
+- сексапільність
+- сексапільнасць
+- сексапильность
+- сексуална привлачност
+- Сексуално привличане
+- сэксапільнасьць
+- Սեռական գրավչություն
+- משיכה מינית
+- انجذاب جنسي
+- جنسی کشش
+- کشش جنسی
+- यौन आकर्षण
+- लैंगिक आकर्षण
+- যৌন আকর্ষণ
+- ਜਿਨਸੀ ਖਿੱਚ
+- ලිංගික ආකර්ෂණය
+- 性感
+- 性的魅力
+- 성적 매력
 has_id_wikidata: Q464859
 facet_of:
-  - '[[_Standards/WikiData/WD~human_sexuality,154136]]'
-  - '[[_Standards/WikiData/WD~courtship_display,10968643]]'
+- '[[_Standards/WikiData/WD~human_sexuality,154136]]'
+- '[[_Standards/WikiData/WD~courtship_display,10968643]]'
 subclass_of: '[[_Standards/WikiData/WD~interpersonal_attraction,2632514]]'
 different_from: '[[_Standards/WikiData/WD~romantic_attraction,97154434]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q113495152,113495152]]'
 Wikidata_property: attraction to
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Fair%20Exchange%2C%20Life%20Cartoons%20%28NYPL%20b12647398-70358%29.tiff
 Commons_category: Sexual attraction
+dv_has_:
+  name_:
+    ar: انجذاب جنسي
+    ast: atraición sexual
+    az: Cinsi cazibə
+    bcl: Pagkadagkang sekswal
+    be: сексапільнасць
+    be-tarask: сэксапільнасьць
+    bg: Сексуално привличане
+    bn: যৌন আকর্ষণ
+    ca: atracció sexual
+    cs: sexuální přitažlivost
+    da: sexappeal
+    de: Sexappeal
+    el: ερωτική έλξη
+    en: sexual attraction
+    en-ca: Sexual attraction
+    en-gb: sexual attraction
+    eo: seksallogo
+    es: atracción sexual
+    et: Seksapiil
+    eu: Sexu erakarpen
+    fa: کشش جنسی
+    fi: seksuaalinen viehätysvoima
+    fr: attirance sexuelle
+    fy: Seksuële oantrekking
+    ga: dúil ghnéasach
+    gl: Atracción sexual
+    he: משיכה מינית
+    hi: यौन आकर्षण
+    hr: Seksualna privlačnost
+    hu: vonzalom
+    hy: Սեռական գրավչություն
+    id: Daya tarik seksual
+    io: Sexual atrakteso
+    it: attrazione sessuale
+    ja: 性的魅力
+    ko: 성적 매력
+    lt: lytinis potraukis
+    lv: seksuālā pievilcība
+    mr: लैंगिक आकर्षण
+    ms: Tarikan seksual
+    nl: sexappeal
+    nn: Sexy
+    pa: ਜਿਨਸੀ ਖਿੱਚ
+    pl: Atrakcyjność seksualna
+    pnb: جنسی کشش
+    pt: atração sexual
+    pt-br: Atração sexual
+    ru: сексапильность
+    si: ලිංගික ආකර්ෂණය
+    sk: sexappeal
+    sl: spolna privlačnost
+    sq: Tërheqja seksuale
+    sr: Seksualna privlačnost
+    sr-ec: сексуална привлачност
+    sv: sexuell attraktion
+    tl: Kabighaniang seksuwal
+    tr: Cinsel cazibe
+    uk: сексапільність
+    ur: جنسی کشش
+    uz: Jinsiy joziba
+    vi: Hấp dẫn tình dục
+    yue: 性感
+    zh: 性感
+    zh-cn: 性感
+    zh-hans: 性感
+    zh-hant: 性感
+    zh-hk: 性感
+    zh-sg: 性感
+    zh-tw: 性感
 ---
-
 # [[Sexual_Attraction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sexual_attraction,464859|WD~Sexual_attraction,464859]]  

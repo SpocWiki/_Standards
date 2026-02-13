@@ -1,15 +1,30 @@
 ---
 aliases:
-  - Polemoniales
-  - Solanales
+- Acrodonta
+- Polemoniales
+- Solanales
 has_id_wikidata: Q60790273
 title: Solanales
 instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
 parent_taxon: '[[_Standards/WikiData/WD~Chamaeleontiformes,20686186]]'
 taxon_name: Acrodonta
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo%20chamaeleon%20Samos%20Griechenland.jpg
+dv_has_:
+  name_:
+    cs: Acrodonta
+    de: Acrodonta
+    el: Acrodonta
+    en: Acrodonta
+    es: Acrodonta
+    fr: Acrodonta
+    gl: Acrodonta
+    it: Acrodonta
+    mul: Acrodonta
+    nl: Acrodonta
+    pt: Acrodonta
+    ru: Acrodonta
+    uk: Acrodonta
 ---
-
 # [[Solanales]] 
 
 

@@ -1,9 +1,52 @@
 ---
 has_id_wikidata: Q147190
+dv_has_:
+  name_:
+    an: Cocoseae
+    ast: Cocoseae
+    bg: Cocoseae
+    ca: Cocoseae
+    ceb: Cocoseae
+    de: Cocoseae
+    en: Cocoseae
+    eo: Kokoseoj
+    es: Cocoseae
+    eu: Cocoseae
+    ext: Cocoseae
+    fi: Cocoseae
+    fr: Cocoseae
+    ga: Cocoseae
+    gl: Cocoseae
+    hr: Cocoseae
+    ia: Cocoseae
+    ie: Cocoseae
+    io: Cocoseae
+    it: Cocoseae
+    la: Cocoseae
+    mul: Cocoseae
+    nl: Cocoseae
+    oc: Cocoseae
+    pl: Cocoseae
+    pt: Cocoseae
+    pt-br: Cocoseae
+    ro: Cocoseae
+    ru: Cocoseae
+    sl: Cocoseae
+    sq: Cocoseae
+    uk: Cocoseae
+    vi: Cocoseae
+    vo: Cocoseae
+    war: Cocoseae
+    zh: 椰子族
+    zh-cn: 椰子族
+    zh-hans: 椰子族
+    zh-hant: 椰族
+aliases:
+- Cocoseae
+- Kokoseoj
+- 椰子族
+- 椰族
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > **Cocoseae** is a tribe of cocosoid palms of the family Arecaceae.

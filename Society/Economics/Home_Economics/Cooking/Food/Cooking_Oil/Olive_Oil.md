@@ -1,26 +1,124 @@
 ---
 aliases:
-  - Olivenöl
-  - Olive_Oil
-  - Olive Oil
+- Aceite d'oliva
+- aceite de oliva
+- Alyvuogių aliejus
+- Amavuta ya Elayo
+- azeite
+- azeiti d'oliva
+- Dầu ô liu
+- eoul olivez
+- huile d'olive
+- Kám-lám-yù
+- Lana sa oliba
+- Langis ng oliba
+- Lenga jaétun
+- Man zaitun
+- maslinovo ulje
+- Menaka oliva
+- Minyak zaitun
+- noni tākou
+- Oleo de oliva
+- oleum
+- olew olewydd
+- oli d'oliva
+- oliba olio
+- oliiviõli
+- oliiviöljy
+- Oliivuvoi
+- olijfolie
+- Olio de oliva
+- olio di oliva
+- oliv-oleo
+- olive ile
+- Olive Oil
+- olive-oalje
+- olivenolie
+- olivenolje
+- Olivenueleg
+- Olivenöl
+- Olivenööl
+- Olive_Oil
+- olivinolja
+- olivolja
+- olivový olej
+- oliwa z oliwek
+- oliwowy wolij
+- oljčno olje
+- olívaolaj
+- olóige
+- olīveļļa
+- Ozu de olìa
+- uegghie de l'alie
+- ulei de măsline
+- Untulemnu di masinu
+- Uoglio 'e auliva
+- Vaji i ullirit
+- Zaytun yog`i
+- Zeytinyağı
+- Zeytun yağı
+- zit zitouna
+- Zzit uzemmur
+- Òli d'oliva
+- Ólífuolía
+- żejt taż-żebbuġa
+- ελαιόλαδο
+- Аліўкавы алей
+- Зехтин
+- Зәйтүн мае
+- зәйтүн майы
+- Маслиново масло
+- маслиново уље
+- оливкова олія
+- оливковое масло
+- Чидун жимсний ертөнц
+- ձիթայուղ
+- Ձիթապտուղի ձէթ
+- שמן זית
+- שמן־זית
+- جیتون دا تیل
+- جیتون کا تیل
+- روغن زیتون
+- زيت الزيتون
+- زيت زتون
+- زيت زيتونة
+- زیتوٗن تیٖل
+- ऑलिव्ह तेल
+- जिततैलम्
+- जैतून का तेल
+- জলপাই তেল
+- ਜੈਤੂਨ ਦਾ ਤਾਲ
+- ଅଲିଭ ତେଲ
+- ஆலிவ் எண்ணெய்
+- ఆలివ్ నూనె
+- ಆಲಿವ್ ಎಣ್ಣೆ
+- ഒലിവെണ്ണ
+- ඔලිව් තෙල්
+- น้ำมันมะกอก
+- သံလွင်ဆီ
+- ზეითუნის ზეთი
+- オリーブ・オイル
+- 橄榄油
+- 橄欖油
+- 올리브기름
 has_id_wikidata: Q93165
 subclass_of:
-  - '[[_Standards/WikiData/WD~cooking_oil,427457]]'
-  - '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
-  - '[[_Standards/WikiData/WD~seed_oil,7445643]]'
+- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
+- '[[_Standards/WikiData/WD~seed_oil,7445643]]'
 different_from: '[[_Standards/WikiData/WD~Olive_Oyl,2531690]]'
 instance_of: '[[_Standards/WikiData/WD~non_drying_oil,7048902]]'
 carbon_footprint: 3.9
 2022_Harmonized_System_Code: 1509
 CosIng_number: 77800
 water_footprint:
-  - 14431
-  - 14726
+- 14431
+- 14726
 OmegaWiki_Defined_Meaning: 1340818
 USDA_NDB_number: 04053
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20olive%20oil%202007.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Oliwa%20z%20oliwek%20Garda%20DOP%20%281%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20olive%20oil%202007.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Oliwa%20z%20oliwek%20Garda%20DOP%20%281%29.jpg
 AFCD_PFKID: F006177
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-huile%20d%27olive.ogg
 Common_Procurement_Vocabulary_code: 15411110-6
@@ -30,15 +128,141 @@ UNII: 6UYK2W1W1E
 CAS_Registry_Number: 8001-25-0
 UMLS_CUI: C0069449
 MeSH_tree_code:
-  - D10.212.302.380.580
-  - D10.212.507.650
-  - D10.627.700.728
-  - G07.203.300.375.400.500
-  - J02.500.375.400.500
+- D10.212.302.380.580
+- D10.212.507.650
+- D10.627.700.728
+- G07.203.300.375.400.500
+- J02.500.375.400.500
 Commons_gallery: Olive oil
 Commons_category: Olive oil
+dv_has_:
+  name_:
+    aeb-arab: زيت زيتونة
+    aeb-latn: zit zitouna
+    an: Aceite d'oliva
+    ar: زيت الزيتون
+    arz: زيت زتون
+    ast: aceite d'oliva
+    az: Zeytun yağı
+    ba: зәйтүн майы
+    be: Аліўкавы алей
+    be-tarask: аліўкавы алей
+    bg: Зехтин
+    bn: জলপাই তেল
+    br: eoul olivez
+    bs: maslinovo ulje
+    ca: oli d'oliva
+    ceb: Lana sa oliba
+    cs: olivový olej
+    cy: olew olewydd
+    da: olivenolie
+    de: Olivenöl
+    de-ch: Olivenöl
+    el: ελαιόλαδο
+    en: olive oil
+    en-ca: Olive oil
+    en-gb: olive oil
+    eo: oliv-oleo
+    es: aceite de oliva
+    et: oliiviõli
+    eu: oliba olio
+    ext: azeiti d'oliva
+    fa: روغن زیتون
+    fi: oliiviöljy
+    fo: olivinolja
+    fr: huile d'olive
+    fy: olive-oalje
+    ga: olóige
+    gl: aceite de oliva
+    ha: Man zaitun
+    hak: Kám-lám-yù
+    he: שמן זית
+    hi: जैतून का तेल
+    hr: Maslinovo ulje
+    hsb: oliwowy wolij
+    hu: olívaolaj
+    hy: ձիթայուղ
+    hyw: Ձիթապտուղի ձէթ
+    ia: Oleo de oliva
+    id: Minyak zaitun
+    io: oliv-oleo
+    is: Ólífuolía
+    it: olio di oliva
+    ja: オリーブ・オイル
+    jv: Lenga jaétun
+    ka: ზეითუნის ზეთი
+    kab: Zzit uzemmur
+    kk: Зәйтүн майы
+    kn: ಆಲಿವ್ ಎಣ್ಣೆ
+    ko: 올리브기름
+    ks: زیتوٗن تیٖل
+    la: oleum
+    lb: Olivenueleg
+    lfn: Olio de oliva
+    lt: Alyvuogių aliejus
+    lv: olīveļļa
+    mg: Menaka oliva
+    mi: noni tākou
+    min: Minyak zaitun
+    mk: Маслиново масло
+    ml: ഒലിവെണ്ണ
+    mn: Чидун жимсний ертөнц
+    mr: ऑलिव्ह तेल
+    ms: minyak zaitun
+    mt: żejt taż-żebbuġa
+    mul: olive oil
+    my: သံလွင်ဆီ
+    nap: Uoglio 'e auliva
+    nb: olivenolje
+    nds: Olivenööl
+    nl: olijfolie
+    nn: olivenolje
+    oc: Òli d'oliva
+    olo: Oliivuvoi
+    or: ଅଲିଭ ତେଲ
+    pa: ਜੈਤੂਨ ਦਾ ਤਾਲ
+    pl: oliwa z oliwek
+    pnb: جیتون دا تیل
+    pt: azeite
+    pt-br: Azeite
+    ro: ulei de măsline
+    roa-tara: uegghie de l'alie
+    ru: оливковое масло
+    rup: Untulemnu di masinu
+    rw: Amavuta ya Elayo
+    sa: जिततैलम्
+    sc: Ozu de olìa
+    sco: olive ile
+    sh: Maslinovo ulje
+    si: ඔලිව් තෙල්
+    sk: Olivový olej
+    sl: oljčno olje
+    sq: Vaji i ullirit
+    sr: маслиново уље
+    sr-ec: маслиново уље
+    sr-el: maslinovo ulje
+    sv: olivolja
+    ta: ஆலிவ் எண்ணெய்
+    te: ఆలివ్ నూనె
+    th: น้ำมันมะกอก
+    tl: Langis ng oliba
+    tr: Zeytinyağı
+    tt: Зәйтүн мае
+    uk: оливкова олія
+    ur: جیتون کا تیل
+    uz: Zaytun yog`i
+    vi: Dầu ô liu
+    wuu: 橄榄油
+    yi: שמן־זית
+    yue: 橄欖油
+    zh: 橄欖油
+    zh-cn: 橄榄油
+    zh-hans: 橄榄油
+    zh-hant: 橄欖油
+    zh-hk: 橄欖油
+    zh-sg: 橄榄油
+    zh-tw: 橄欖油
 ---
-
 # [[Olive_Oil]] 
 
 #is_/same_as :: [[WD~Olive_oil,93165]] 

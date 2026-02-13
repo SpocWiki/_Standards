@@ -1,25 +1,157 @@
 ---
 aliases:
+- Ayaqqəlsəməlilər
+- bladfotingar
+- Bladfotkreps
+- Branchiopoda
+- Branchiopodes
+- Branhiopode
+- Brankiopoda
+- Brankiopodo
+- Brankiopodoj
+- Branquiòpode
+- Branquiópodos
+- gællefødder
+- Jelbezekayaqtı şayantärizdiler
+- kidusjalkaiset
+- Kiemenfusskrebse
+- Kiemenfußkrebse
+- Kiewpuuetige
+- levéllábú rákok
+- lupenonožci
+- lupeňonôžky
+- Lõpusjalgsed
+- Lớp Chân mang
+- ramenonožci
+- skrzelonogi
+- Škrgonošci
+- Žaunkājvēži
+- Žiaunakojai
+- βραγχιόποδα
+- Бакалоор буттуулар
+- Жабраногія
+- жаброноги
+- жаброногие
+- Желбезекаяқты шаянтәрізділер
+- зяброногі раки
+- Хрилоноги
+- шчэлепаногія
+- խռիկոտանիներ
+- סרטנים מסננים
+- آبششپایان
+- آیاققلسمهلیلر
+- جەلبەزەكاياقتى شايانتارىزدىلەر
+- غلصميات الأرجل
+- غلصميات الارجل
+- क्लोमपाद
+- 鰓脚綱
+- 鰓足綱
+- 鳃足纲
+- 새각강
 Commons_category: Branchiopoda
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: 1BRANC
 has_id_wikidata: Q188360
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Triops%20longicaudatus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Branchiopoda%20collage%202x2.png
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Triops%20longicaudatus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Branchiopoda%20collage%202x2.png
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 83687
 taxon_common_name:
-  - ramenonožci
-  - Kieuwpootkreeften
+- ramenonožci
+- Kieuwpootkreeften
 taxon_name: Branchiopoda
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 title: Branchiopoda
 UMLS_CUI: C0596222
+dv_has_:
+  name_:
+    an: Branchiopoda
+    ar: غلصميات الأرجل
+    arz: غلصميات الارجل
+    ast: Branchiopoda
+    az: Ayaqqəlsəməlilər
+    azb: آیاققلسمهلیلر
+    be: Жабраногія
+    be-tarask: шчэлепаногія
+    bg: Хрилоноги
+    ca: Branquiòpode
+    ceb: Branchiopoda
+    cs: lupenonožci
+    da: gællefødder
+    de: Kiemenfußkrebse
+    de-ch: Kiemenfusskrebse
+    el: βραγχιόποδα
+    en: Branchiopoda
+    eo: Brankiopodoj
+    es: Branchiopoda
+    et: Lõpusjalgsed
+    eu: Branchiopoda
+    ext: Branchiopoda
+    fa: آبششپایان
+    fi: kidusjalkaiset
+    fr: Branchiopodes
+    ga: Branchiopoda
+    gl: Branquiópodos
+    he: סרטנים מסננים
+    hi: क्लोमपाद
+    hr: Škrgonošci
+    hu: levéllábú rákok
+    hy: խռիկոտանիներ
+    ia: Branchiopoda
+    id: Branchiopoda
+    ie: Branchiopoda
+    io: Brankiopodo
+    it: Branchiopoda
+    ja: 鰓脚綱
+    jv: Branchiopoda
+    kk: Желбезекаяқты шаянтәрізділер
+    kk-arab: جەلبەزەكاياقتى شايانتارىزدىلەر
+    kk-cn: جەلبەزەكاياقتى شايانتارىزدىلەر
+    kk-cyrl: Желбезекаяқты шаянтәрізділер
+    kk-kz: Желбезекаяқты шаянтәрізділер
+    kk-latn: Jelbezekayaqtı şayantärizdiler
+    kk-tr: Jelbezekayaqtı şayantärizdiler
+    ko: 새각강
+    ky: Бакалоор буттуулар
+    la: Branchiopoda
+    li: Kiewpuuetige
+    lt: Žiaunakojai
+    lv: Žaunkājvēži
+    mk: жаброноги
+    ms: Brankiopoda
+    mul: Branchiopoda
+    nb: Bladfotkreps
+    nl: Branchiopoda
+    nn: Bladfotkreps
+    oc: Branchiopoda
+    pl: skrzelonogi
+    pt: Branchiopoda
+    pt-br: Branchiopoda
+    ro: Branhiopode
+    ru: жаброногие
+    sk: lupeňonôžky
+    sl: ramenonožci
+    sq: Branchiopoda
+    sr: Škrgonošci
+    sv: bladfotingar
+    tr: Branchiopoda
+    uk: зяброногі раки
+    vi: Lớp Chân mang
+    vo: Branchiopoda
+    war: Branchiopoda
+    wuu: 鳃足纲
+    yue: 鰓足綱
+    zh: 鰓足綱
+    zh-cn: 鳃足纲
+    zh-hans: 鳃足纲
+    zh-hant: 鰓足綱
+    zh-hk: 鰓足綱
+    zh-sg: 鳃足纲
+    zh-tw: 鰓足綱
 ---
-
 # [[Branchiopoda]] 
 
 ![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 

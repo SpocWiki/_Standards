@@ -1,8 +1,153 @@
 ---
 aliases:
-  - Fight Club
-  - Fight_Club
+- Borilački klub
+- Clube de Combate
+- Cīņas klubs
+- Dövüş Kulübü
+- Döyüş klubu
+- Fight Club
+- Fight Club (pelikula)
+- Fight_Club
+- Filem Fight Club
+- Harcosok klubja
+- Jang Klubi
+- Kaklusklubi
+- Klub bitkárov
+- Klub boraca
+- Klub golih pesti
+- Klub rváčů
+- Klubê Pêrodayışi
+- Kovos klubas
+- Podziemny krąg
+- Бійцівський клуб
+- Байцоўскі клуб (фільм)
+- Байцоўскі клюб
+- Боен клуб
+- Бойцовский клуб
+- Боречки клуб
+- Борилачки клуб
+- Күрескерлер клубы
+- Көрәш клубы (фильм)
+- Мушташ клубу
+- Охсуһааччылар клубтара
+- Մարտական ակումբ
+- מועדון קרב
+- النادي دلمدابزة
+- باشگاه مشتزنی
+- فائٹ کلب
+- فایت کلاب
+- نادى القتال
+- نادي القتال
+- یانەی شەڕ
+- फाइट क्लब
+- ফাইট ক্লাব
+- ਫ਼ਾਈਟ ਕਲੱਬ
+- ಫೈಟ್ ಕ್ಲಬ್
+- ഫൈറ്റ് ക്ലബ്ബ്
+- ไฟท์ คลับ ดิบดวลดิบ
+- მალჷმორეფიშ კლუბი
+- მებრძოლთა კლუბი
+- ファイト・クラブ
+- 搏击会
+- 搏击俱乐部
+- 搏擊會
+- 斗阵俱乐部
+- 鬥陣俱樂部
+- 파이트 클럽
 has_id_wikidata: Q190050
+dv_has_:
+  name_:
+    ar: نادي القتال
+    ary: النادي دلمدابزة
+    arz: نادى القتال
+    ast: Fight Club
+    az: Döyüş klubu
+    be: Байцоўскі клуб (фільм)
+    be-tarask: Байцоўскі клюб
+    bg: Боен клуб
+    bn: ফাইট ক্লাব
+    ca: Fight Club
+    ceb: Fight Club (pelikula)
+    ckb: یانەی شەڕ
+    cs: Klub rváčů
+    cy: Fight Club
+    da: Fight Club
+    de: Fight Club
+    diq: Klubê Pêrodayışi
+    el: Fight Club
+    eml: Fight club
+    en: Fight Club
+    eo: Fight Club
+    es: Fight Club
+    et: Kaklusklubi
+    eu: Fight Club
+    fa: باشگاه مشتزنی
+    fi: Fight Club
+    fr: Fight Club
+    ga: Fight Club
+    gl: Fight Club
+    he: מועדון קרב
+    hi: फाइट क्लब
+    hr: Klub boraca
+    ht: Fight Club
+    hu: Harcosok klubja
+    hy: Մարտական ակումբ
+    id: Fight Club
+    it: Fight Club
+    ja: ファイト・クラブ
+    ka: მებრძოლთა კლუბი
+    kk: Күрескерлер клубы
+    kn: ಫೈಟ್ ಕ್ಲಬ್
+    ko: 파이트 클럽
+    ky: Мушташ клубу
+    la: Fight Club
+    li: Fight Club
+    lt: Kovos klubas
+    lv: Cīņas klubs
+    mk: Боречки клуб
+    ml: ഫൈറ്റ് ക്ലബ്ബ്
+    ms: Filem Fight Club
+    mul: Fight Club
+    mzn: فایت کلاب
+    nb: Fight Club
+    ne: फाइट क्लब
+    nl: Fight Club
+    nn: Fight Club
+    pa: ਫ਼ਾਈਟ ਕਲੱਬ
+    pcd: Fight club
+    pl: Podziemny krąg
+    pt: Clube de Combate
+    pt-br: Fight Club
+    ro: Fight Club
+    ru: Бойцовский клуб
+    sah: Охсуһааччылар клубтара
+    sh: Fight Club
+    sk: Klub bitkárov
+    sl: Klub golih pesti
+    smn: Fight Club
+    sq: Fight Club
+    sr: Борилачки клуб
+    sr-ec: Борилачки клуб
+    sr-el: Borilački klub
+    sv: Fight Club
+    th: ไฟท์ คลับ ดิบดวลดิบ
+    tr: Dövüş Kulübü
+    tt: Көрәш клубы (фильм)
+    uk: Бійцівський клуб
+    ur: فائٹ کلب
+    uz: Jang Klubi
+    vi: Fight Club
+    wuu: 搏击俱乐部
+    xmf: მალჷმორეფიშ კლუბი
+    yue: 搏擊會
+    zh: 鬥陣俱樂部
+    zh-cn: 搏击俱乐部
+    zh-hans: 搏击俱乐部
+    zh-hant: 鬥陣俱樂部
+    zh-hk: 搏擊會
+    zh-my: 斗阵俱乐部
+    zh-sg: 搏击会
+    zh-tw: 鬥陣俱樂部
 ---
 ## #has_/text_of_/abstract 
 

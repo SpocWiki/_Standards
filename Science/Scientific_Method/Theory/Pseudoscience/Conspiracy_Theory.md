@@ -1,84 +1,280 @@
 ---
 aliases:
-  - Verschchwörungstheorie
-  - Verschwörungsmythos
+- complottheorie
+- conspiracy theory
+- damcaniaeth gydgynllwyniol
+- fitna nazariyalari
+- Gearspanningsteory
+- Giaman tiori
+- Im-bô͘-lūn
+- Imbono yozungu
+- Iriennouriezh
+- komplo teorisi
+- konspira teorio
+- Konspirala teorio
+- konspirasjonsteori
+- konspirationsteori
+- Konspirazioaren teoria
+- konspirační teorie
+- Konšpiračná teória
+- Nadharia ya njama
+- salaliittoteoria
+- samesweringsteorie
+- Samsæriskenning
+- sazvērestības teorija
+- sui-qəsd nəzəriyyəsi
+- sąmokslo teorija
+- teoiric chomhcheilge
+- teori persekongkolan
+- teoria conspiratória
+- teoria da conspiração
+- Teoria de conspira
+- teoria de la conspiració
+- teoria del complotto
+- Teoria e komplotit
+- teoria spiskowa
+- teorie conspirativă
+- Teorie de conspiration
+- teorija zarote
+- Teorija zavere
+- teorija zavjere
+- teorije urote
+- teoriya komployê
+- teoriya konspiratibo
+- teoriyang konspiratibo
+- Teorya nin sabwatan
+- teorìa de’l conplòto
+- Teoría conspirativa
+- teoría da conspiración
+- teoría de conspiración
+- teoríang konspiratíbu
+- teuria di a cuspirazione
+- theoria conspirationis
+- thuyết âm mưu
+- théorie du complot
+- Tiẓiṛt n unguz
+- téori kongkalikong
+- Vandenõuteooria
+- Vaschwearungstheorie
+- Verschchwörungstheorie
+- Verschwörungsmythos
+- Verschwörungstheorie
+- Verschwöörigstheorii
+- összeesküvés-elmélet
+- θεωρία συνωμοσίας
+- Кавар теорийĕ
+- Конспиративна теория
+- теорія змови
+- теорија завере
+- теорија на заговор
+- теория заговора
+- тэорыя змовы
+- Қастандық теориясы
+- Դավադրության տեսություն
+- תאוריית קשר
+- بیردۆزی پیلانگێڕی
+- تئوری توطئه
+- د توطیې تیوري
+- نظرية المؤامرة
+- نظرية المؤامره
+- نظریہ سازش
+- दुर्गोष्ठ्याः सिद्धान्तः
+- षड्यन्त्र का सिद्धान्त
+- ষড়যন্ত্র তত্ত্ব
+- ਚਾਲ ਦਾ ਸਿੱਧਾਂਤ
+- కుట్ర సిద్ధాంతం
+- കോൺസ്പിറസി തിയറി
+- කුමන්ත්රණ න්යාය
+- ทฤษฎีสมคบคิด
+- შეთქმულების თეორია
+- ⵜⵉⵥⵉⵕⵜ ⵏ ⵓⵏⴳⵓⵣ
+- 阴谋论
+- 陰謀論
+- 음모론
 has_id_wikidata: Q159535
 significant_person:
-  - "[[_Standards/WikiData/WD~Karl_Popper,81244]]"
-  - "[[_Standards/WikiData/WD~Charles_Astor_Bristed,127781]]"
-  - "[[_Standards/WikiData/WD~Murray_Rothbard,297079]]"
-  - "[[_Standards/WikiData/WD~Bruno_Latour,355237]]"
-  - "[[_Standards/WikiData/WD~Bernard_Bailyn,822286]]"
-  - "[[_Standards/WikiData/WD~Richard_Hofstadter,982698]]"
-  - "[[_Standards/WikiData/WD~Michael_Barkun,1234195]]"
-  - "[[_Standards/WikiData/WD~Jesse_Walker,6186951]]"
-  - "[[_Standards/WikiData/WD~John_Shelton_Lawrence,6257580]]"
-  - "[[_Standards/WikiData/WD~Quassim_Cassam,7269546]]"
-  - "[[_Standards/WikiData/WD~David_Robert_Grimes,23769872]]"
+- '[[_Standards/WikiData/WD~Karl_Popper,81244]]'
+- '[[_Standards/WikiData/WD~Charles_Astor_Bristed,127781]]'
+- '[[_Standards/WikiData/WD~Murray_Rothbard,297079]]'
+- '[[_Standards/WikiData/WD~Bruno_Latour,355237]]'
+- '[[_Standards/WikiData/WD~Bernard_Bailyn,822286]]'
+- '[[_Standards/WikiData/WD~Richard_Hofstadter,982698]]'
+- '[[_Standards/WikiData/WD~Michael_Barkun,1234195]]'
+- '[[_Standards/WikiData/WD~Jesse_Walker,6186951]]'
+- '[[_Standards/WikiData/WD~John_Shelton_Lawrence,6257580]]'
+- '[[_Standards/WikiData/WD~Quassim_Cassam,7269546]]'
+- '[[_Standards/WikiData/WD~David_Robert_Grimes,23769872]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~proposition,108163]]"
-  - "[[_Standards/WikiData/WD~disinformation,189656]]"
-  - "[[_Standards/WikiData/WD~narrative,1318295]]"
-  - "[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]"
-  - "[[_Standards/WikiData/WD~misinformation,13579947]]"
-  - "[[_Standards/WikiData/WD~explanation,7958]]"
-  - "[[_Standards/WikiData/WD~theory,17737]]"
+- '[[_Standards/WikiData/WD~proposition,108163]]'
+- '[[_Standards/WikiData/WD~disinformation,189656]]'
+- '[[_Standards/WikiData/WD~narrative,1318295]]'
+- '[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]'
+- '[[_Standards/WikiData/WD~misinformation,13579947]]'
+- '[[_Standards/WikiData/WD~explanation,7958]]'
+- '[[_Standards/WikiData/WD~theory,17737]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~anxiety,154430]]"
-  - "[[_Standards/WikiData/WD~narcissism,186529]]"
-  - "[[_Standards/WikiData/WD~authoritarian_personality,788594]]"
-  - "[[_Standards/WikiData/WD~paranoia,1229994]]"
-  - "[[_Standards/WikiData/WD~schizotypy,3099410]]"
-  - "[[_Standards/WikiData/WD~agent_detection,4692092]]"
-  - "[[_Standards/WikiData/WD~fear_mongering,5439369]]"
-  - "[[_Standards/WikiData/WD~illusory_pattern_perception,96484413]]"
+- '[[_Standards/WikiData/WD~anxiety,154430]]'
+- '[[_Standards/WikiData/WD~narcissism,186529]]'
+- '[[_Standards/WikiData/WD~authoritarian_personality,788594]]'
+- '[[_Standards/WikiData/WD~paranoia,1229994]]'
+- '[[_Standards/WikiData/WD~schizotypy,3099410]]'
+- '[[_Standards/WikiData/WD~agent_detection,4692092]]'
+- '[[_Standards/WikiData/WD~fear_mongering,5439369]]'
+- '[[_Standards/WikiData/WD~illusory_pattern_perception,96484413]]'
 contributing_factor_of:
-  - "[[_Standards/WikiData/WD~prejudice,179742]]"
-  - "[[_Standards/WikiData/WD~witch_hunt,188494]]"
-  - "[[_Standards/WikiData/WD~moral_panic,2914277]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
-  - "[[_Standards/WikiData/WD~genocide,41397]]"
+- '[[_Standards/WikiData/WD~prejudice,179742]]'
+- '[[_Standards/WikiData/WD~witch_hunt,188494]]'
+- '[[_Standards/WikiData/WD~moral_panic,2914277]]'
+- '[[_Standards/WikiData/WD~war,198]]'
+- '[[_Standards/WikiData/WD~genocide,41397]]'
 uses:
-  - "[[_Standards/WikiData/WD~fallacy,186150]]"
-  - "[[_Standards/WikiData/WD~psychological_projection,608353]]"
-  - "[[_Standards/WikiData/WD~circular_reasoning,6011160]]"
+- '[[_Standards/WikiData/WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~psychological_projection,608353]]'
+- '[[_Standards/WikiData/WD~circular_reasoning,6011160]]'
 used_by:
-  - "[[_Standards/WikiData/WD~Timothy_McVeigh,220850]]"
-  - "[[_Standards/WikiData/WD~Brenton_Tarrant,62067238]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Anders_Behring_Breivik,44220]]"
-does_not_have_characteristic: "[[_Standards/WikiData/WD~falsifiability,220888]]"
+- '[[_Standards/WikiData/WD~Timothy_McVeigh,220850]]'
+- '[[_Standards/WikiData/WD~Brenton_Tarrant,62067238]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Anders_Behring_Breivik,44220]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~falsifiability,220888]]'
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~cynicism,245781]]"
-  - "[[_Standards/WikiData/WD~confirmation_bias,431498]]"
-  - "[[_Standards/WikiData/WD~social_alienation,545825]]"
-  - "[[_Standards/WikiData/WD~fundamental_attribution_error,575786]]"
-  - "[[_Standards/WikiData/WD~attribution_bias,849538]]"
-  - "[[_Standards/WikiData/WD~communal_reinforcement,4150820]]"
-  - "[[_Standards/WikiData/WD~Proportionality_Bias,97933249]]"
-instance_of: "[[_Standards/WikiData/WD~pejorative,545779]]"
+- '[[_Standards/WikiData/WD~cynicism,245781]]'
+- '[[_Standards/WikiData/WD~confirmation_bias,431498]]'
+- '[[_Standards/WikiData/WD~social_alienation,545825]]'
+- '[[_Standards/WikiData/WD~fundamental_attribution_error,575786]]'
+- '[[_Standards/WikiData/WD~attribution_bias,849538]]'
+- '[[_Standards/WikiData/WD~communal_reinforcement,4150820]]'
+- '[[_Standards/WikiData/WD~Proportionality_Bias,97933249]]'
+instance_of: '[[_Standards/WikiData/WD~pejorative,545779]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Conspiracy_theory,641480]]"
-  - "[[_Standards/WikiData/WD~conspiracy,930164]]"
-  - "[[_Standards/WikiData/WD~conspiracy_fiction,2593937]]"
-  - "[[_Standards/WikiData/WD~fringe_theory,5504601]]"
-has_list: "[[_Standards/WikiData/WD~list_of_conspiracy_theories,786774]]"
-has_characteristic: "[[_Standards/WikiData/WD~assertion,814441]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~fringe_theory,5504601]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Conspiracy_theories,8090302]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-has_part_s_: "[[_Standards/WikiData/WD~denialism,10567262]]"
-legal_form: "[[_Standards/WikiData/WD~conspiracy_theory,60740085]]"
-described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~Conspiracy_theory,641480]]'
+- '[[_Standards/WikiData/WD~conspiracy,930164]]'
+- '[[_Standards/WikiData/WD~conspiracy_fiction,2593937]]'
+- '[[_Standards/WikiData/WD~fringe_theory,5504601]]'
+has_list: '[[_Standards/WikiData/WD~list_of_conspiracy_theories,786774]]'
+has_characteristic: '[[_Standards/WikiData/WD~assertion,814441]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fringe_theory,5504601]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Conspiracy_theories,8090302]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+has_part_s_: '[[_Standards/WikiData/WD~denialism,10567262]]'
+legal_form: '[[_Standards/WikiData/WD~conspiracy_theory,60740085]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 subreddit: conspiracy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antisemiticroths.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Conspiracy%20Theories%20Fallacy%20Icon.png
 described_at_URL: https://wikispooks.com/wiki/Conspiracy_theory
 Commons_category: Conspiracy theories
 PhilPapers_topic: conspiracy-theories
+dv_has_:
+  name_:
+    af: samesweringsteorie
+    ar: نظرية المؤامرة
+    arz: نظرية المؤامره
+    ast: Teoría conspirativa
+    az: sui-qəsd nəzəriyyəsi
+    bar: Vaschwearungstheorie
+    bcl: Teorya nin sabwatan
+    be: тэорыя змовы
+    be-tarask: тэорыя змовы
+    bew: téori kongkalikong
+    bg: Конспиративна теория
+    bn: ষড়যন্ত্র তত্ত্ব
+    br: Iriennouriezh
+    bs: teorija zavjere
+    ca: teoria de la conspiració
+    ceb: teoriyang konspiratibo
+    ckb: بیردۆزی پیلانگێڕی
+    co: teuria di a cuspirazione
+    cs: konspirační teorie
+    cv: Кавар теорийĕ
+    cy: damcaniaeth gydgynllwyniol
+    da: konspirationsteori
+    de: Verschwörungstheorie
+    el: θεωρία συνωμοσίας
+    en: conspiracy theory
+    eo: konspira teorio
+    es: teoría de conspiración
+    et: Vandenõuteooria
+    eu: Konspirazioaren teoria
+    fa: تئوری توطئه
+    fi: salaliittoteoria
+    fr: théorie du complot
+    fy: Gearspanningsteory
+    ga: teoiric chomhcheilge
+    gl: teoría da conspiración
+    gsw: Verschwöörigstheorii
+    he: תאוריית קשר
+    hi: षड्यन्त्र का सिद्धान्त
+    hr: teorije urote
+    hu: összeesküvés-elmélet
+    hy: Դավադրության տեսություն
+    id: teori persekongkolan
+    ie: Teorie de conspiration
+    io: Konspirala teorio
+    is: Samsæriskenning
+    it: teoria del complotto
+    ja: 陰謀論
+    ka: შეთქმულების თეორია
+    kk: Қастандық теориясы
+    ko: 음모론
+    krj: teoriya konspiratibo
+    ku: teoriya komployê
+    ku-latn: teoriya komployê
+    la: theoria conspirationis
+    lfn: Teoria de conspira
+    lt: sąmokslo teorija
+    lv: sazvērestības teorija
+    mk: теорија на заговор
+    ml: കോൺസ്പിറസി തിയറി
+    ms: Teori persekongkolan
+    nan: Im-bô͘-lūn
+    nb: konspirasjonsteori
+    nl: complottheorie
+    nn: Konspirasjonsteori
+    pa: ਚਾਲ ਦਾ ਸਿੱਧਾਂਤ
+    pam: teoríang konspiratíbu
+    pl: teoria spiskowa
+    pnb: نظریہ سازش
+    ps: د توطیې تیوري
+    pt: teoria da conspiração
+    pt-br: teoria conspiratória
+    ro: teorie conspirativă
+    ru: теория заговора
+    sa: दुर्गोष्ठ्याः सिद्धान्तः
+    sh: Teorija zavjere
+    shi: Tiẓiṛt n unguz
+    si: කුමන්ත්රණ න්යාය
+    sk: Konšpiračná teória
+    sl: teorija zarote
+    sq: Teoria e komplotit
+    sr: теорија завере
+    sr-ec: Теорија завере
+    sr-el: Teorija zavere
+    sv: konspirationsteori
+    sw: Nadharia ya njama
+    te: కుట్ర సిద్ధాంతం
+    th: ทฤษฎีสมคบคิด
+    tl: teoriyang konspiratibo
+    tpi: Giaman tiori
+    tr: komplo teorisi
+    uk: теорія змови
+    ur: نظریہ سازش
+    uz: fitna nazariyalari
+    vec: teorìa de’l conplòto
+    vi: thuyết âm mưu
+    wuu: 阴谋论
+    yue: 陰謀論
+    zgh: ⵜⵉⵥⵉⵕⵜ ⵏ ⵓⵏⴳⵓⵣ
+    zh: 陰謀論
+    zh-cn: 阴谋论
+    zh-hans: 阴谋论
+    zh-hant: 陰謀論
+    zh-hk: 陰謀論
+    zh-sg: 阴谋论
+    zh-tw: 陰謀論
+    zu: Imbono yozungu
 ---
-
 # [[Conspiracy_Theory]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Conspiracy_theory,159535|WD~Conspiracy_theory,159535]] 

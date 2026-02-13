@@ -1,17 +1,71 @@
 ---
 aliases:
-  - Ikone
-  - Icon
+- cona
+- eicon
+- icoanâ
+- icoană
+- Icon
+- icona
+- icone
+- icono
+- iconu
+- icoon
+- icône
+- Ikoan
+- ikon
+- ikona
+- ikonat
+- Ikone
+- ikonenn
+- ikoni
+- ikono
+- ikoon
+- ikuona
+- Ikòn (relijyon)
+- imahen
+- i̇kona
+- linh ảnh
+- picha takatifu
+- sary masina
+- ícone
+- Íkon
+- íocón
+- ïkona
+- αγιογραφία
+- ікона
+- абраз
+- иконæ
+- икона
+- турăш
+- юмоҥа
+- սրբապատկեր
+- איקונין
+- آیکون (دین)
+- أيقونة
+- ايقونه
+- شبیہ
+- ىيكونا
+- প্রতিমা
+- திருவோவியம்
+- ഐക്കൺ
+- รูปเคารพ
+- ხატი
+- បដិមា
+- イコン
+- 圣像画
+- 聖像
+- 聖像畫
+- 이콘
 has_id_wikidata: Q132137
 different_from: '[[_Standards/WikiData/WD~Q223876,223876]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 culture:
-  - '[[_Standards/WikiData/WD~Byzantine_culture,928904]]'
-  - '[[_Standards/WikiData/WD~Slavic_culture,66049360]]'
+- '[[_Standards/WikiData/WD~Byzantine_culture,928904]]'
+- '[[_Standards/WikiData/WD~Slavic_culture,66049360]]'
 manifestation_of: '[[_Standards/WikiData/WD~icon_painting,1962682]]'
 subclass_of: '[[_Standards/WikiData/WD~painting,3305213]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_icon,14336064]]'
@@ -22,10 +76,111 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20from%20Vysot
 OmegaWiki_Defined_Meaning: 1499399
 Commons_category: Icons (art)
 Krugosvet_article_archived_:
-  - kultura_i_obrazovanie/religiya/IKONA_PRAVOSLAVNAYA.html
-  - kultura_i_obrazovanie/religiya/IKONA.html
+- kultura_i_obrazovanie/religiya/IKONA_PRAVOSLAVNAYA.html
+- kultura_i_obrazovanie/religiya/IKONA.html
+dv_has_:
+  name_:
+    af: Ikoon
+    ar: أيقونة
+    arz: ايقونه
+    ast: iconu
+    az: i̇kona
+    be: ікона
+    be-tarask: абраз
+    bg: икона
+    bn: প্রতিমা
+    br: ikonenn
+    bs: Ikona
+    ca: icona
+    cs: ikona
+    cv: турăш
+    cy: eicon
+    da: ikon
+    de: Ikone
+    el: αγιογραφία
+    en: icon
+    en-ca: icon
+    en-gb: icon
+    eo: ikono
+    es: icono
+    et: ikoon
+    eu: ikono
+    fa: آیکون (دین)
+    fi: ikoni
+    fr: icône
+    fy: Ikoan
+    ga: íocón
+    gl: icona
+    he: איקונין
+    hr: ikona
+    hsb: ikona
+    ht: Ikòn (relijyon)
+    hu: ikon
+    hy: սրբապատկեր
+    id: Ikon
+    is: Íkon
+    it: icona
+    ja: イコン
+    ka: ხატი
+    kk: икона
+    kk-arab: ىيكونا
+    kk-cn: ىيكونا
+    kk-cyrl: икона
+    kk-kz: икона
+    kk-latn: ïkona
+    kk-tr: ïkona
+    km: បដិមា
+    ko: 이콘
+    ky: икона
+    la: Icon
+    lb: Ikon
+    lt: ikona
+    lv: ikona
+    mg: sary masina
+    mhr: юмоҥа
+    mk: икона
+    ml: ഐക്കൺ
+    ms: ikon
+    nb: ikon
+    nl: icoon
+    nn: ikon
+    os: иконæ
+    pl: ikona
+    pt: ícone
+    pt-br: icone
+    ro: icoană
+    ru: икона
+    rup: icoanâ
+    scn: cona
+    sgs: ikuona
+    sh: ikona
+    sk: ikona
+    sl: ikona
+    sq: ikonat
+    sr: икона
+    sr-ec: икона
+    sr-el: ikona
+    su: Ikon
+    sv: ikon
+    sw: picha takatifu
+    ta: திருவோவியம்
+    th: รูปเคารพ
+    tl: imahen
+    tr: i̇kona
+    uk: ікона
+    ur: شبیہ
+    uz: ikona
+    vi: linh ảnh
+    wuu: 圣像画
+    yue: 聖像
+    zh: 聖像畫
+    zh-cn: 圣像画
+    zh-hans: 圣像画
+    zh-hant: 聖像畫
+    zh-hk: 聖像畫
+    zh-sg: 圣像画
+    zh-tw: 聖像畫
 ---
-
 # [[Icon]] 
 
 #is_/different_from :: [[../../../../Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing)]]  

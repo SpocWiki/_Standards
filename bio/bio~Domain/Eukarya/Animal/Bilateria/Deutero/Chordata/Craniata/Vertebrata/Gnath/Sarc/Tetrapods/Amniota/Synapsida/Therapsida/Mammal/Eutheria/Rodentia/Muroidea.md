@@ -1,17 +1,126 @@
 ---
 aliases:
+- Chṳ̄
+- edu
+- Ló-chhú
+- miši
+- Muroide
+- Muroidea
+- Muroideos
+- muroïdeus
+- musegruppen
+- Musoideoj
+- myszowe
+- Mäuseartige
+- Mûzen en rotten
+- Naʼastsʼǫǫsí dóó Łéʼétsoh Danilínígíí
+- Niáu-chhí
+- Nou
+- Peļu virsdzimta
+- Ræt
+- Siçankimilər
+- Siêu họ Chuột
+- глувчеви
+- Мишуваті
+- мышиные
+- עכברים
+- جوندگان موروئیدئا
+- فأرينات
+- فارينات
+- முராய்டியே
+- ᠰᡳᠩᡤᡝᡵᡳ
+- ネズミ上科
+- 老虫
+- 鼠
+- 鼠总科
+- 鼠總科
+- 쥐상과
 has_id_wikidata: Q58949
 title: Muroidea
-described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "970141"
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 970141
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feldmaus%20Microtus%20arvalis.jpg
 Commons_category: Muroidea
 taxon_name: Muroidea
 UMLS_CUI: C1640644
+dv_has_:
+  name_:
+    an: Muroidea
+    ang: Ræt
+    ar: فأرينات
+    arz: فارينات
+    ast: Muroidea
+    az: Siçankimilər
+    bg: Muroidea
+    ca: muroïdeus
+    cdo: Chṳ̄
+    ceb: Muroidea
+    cs: Muroidea
+    da: Muroidea
+    de: Mäuseartige
+    el: Muroidea
+    en: Muroidea
+    eo: Musoideoj
+    es: Muroidea
+    eu: Muroidea
+    ext: Muroidea
+    fa: جوندگان موروئیدئا
+    fi: Muroidea
+    fo: Muroidea
+    fr: Muroidea
+    fy: Mûzen en rotten
+    ga: Muroidea
+    gl: Muroideos
+    hak: Ló-chhú
+    he: עכברים
+    hu: Muroidea
+    ia: Muroidea
+    id: Muroidea
+    ie: Muroidea
+    io: Muroidea
+    is: Muroidea
+    it: Muroidea
+    ja: ネズミ上科
+    kl: Muroidea
+    ko: 쥐상과
+    la: Muroidea
+    lv: Peļu virsdzimta
+    lzh: 鼠
+    mk: глувчеви
+    mnc: ᠰᡳᠩᡤᡝᡵᡳ
+    mul: Muroidea
+    nan: Niáu-chhí
+    nb: musegruppen
+    nl: Muroidea
+    nn: Muroidea
+    nv: Naʼastsʼǫǫsí dóó Łéʼétsoh Danilínígíí
+    oc: Muroidea
+    pl: myszowe
+    pt: Muroidea
+    pt-br: Muroidea
+    ro: Muroide
+    ru: мышиные
+    sl: miši
+    sq: Muroidea
+    sr: Muroidea
+    sv: Muroidea
+    szy: edu
+    ta: முராய்டியே
+    tl: Muroidea
+    uk: Мишуваті
+    vi: Siêu họ Chuột
+    vo: Muroidea
+    war: Muroidea
+    wuu: 老虫
+    yue: 鼠
+    za: Nou
+    zh: 鼠总科
+    zh-cn: 鼠总科
+    zh-hans: 鼠总科
+    zh-tw: 鼠總科
 ---
-
 # [[Muroidea]] 
 
 ## Murid rodents 

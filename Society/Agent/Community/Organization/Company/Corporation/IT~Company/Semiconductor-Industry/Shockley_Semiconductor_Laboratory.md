@@ -1,9 +1,29 @@
 ---
 aliases:
-  - Shockley Transistor Corporation
-  - Shockley_Semiconductor_Laboratory
-  - Shockley Semiconductor Laboratory
+- Laboratori Shockley Semiconductor
+- Laboratorio Shockley de Semiconductores
+- Shockley Semiconductor Laboratory
+- Shockley Transistor Corporation
+- Shockley_Semiconductor_Laboratory
+- ショックレー半導体研究所
+- 肖克利半導體實驗室
+- 쇼클리 반도체 연구소
 has_id_wikidata: Q1138021
+dv_has_:
+  name_:
+    ca: Laboratori Shockley Semiconductor
+    de: Shockley Semiconductor Laboratory
+    en: Shockley Semiconductor Laboratory
+    es: Laboratorio Shockley de Semiconductores
+    fi: Shockley Semiconductor Laboratory
+    fr: Shockley Semiconductor Laboratory
+    ja: ショックレー半導体研究所
+    ko: 쇼클리 반도체 연구소
+    pt: Shockley Semiconductor Laboratory
+    ru: Shockley Semiconductor Laboratory
+    sv: Shockley Semiconductor Laboratory
+    uz: Shockley Semiconductor Laboratory
+    zh: 肖克利半導體實驗室
 ---
 > Shockley Semiconductor Laboratory, later known as Shockley Transistor Corporation, 
 > was a pioneering semiconductor developer founded by [[Shockley,William]], 

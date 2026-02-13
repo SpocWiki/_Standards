@@ -1,8 +1,122 @@
 ---
 aliases:
-  - Ostracoda
+- Chigʻanoqlilar
+- Dvoklopniki
+- Dvoljušturci
+- Gliemeņvēži
+- kagylósrákok
+- Karpvähilised
+- Kiautavėžiai
+- Lasturnatky
+- małżoraczki
+- Moesjelkrieëfte
+- mosselkreeftjes
+- muslingkreps
+- musselkräftor
+- Ostracoda
+- Ostracode
+- ostracoder
+- Ostrakod
+- Ostrakoden
+- Ostrakodo
+- Ostrakodoj
+- Ostràcode
+- Ostrácodos
+- raakkuäyriäiset
+- Skelkrabbar
+- Táyiʼ naatʼiʼítʼą́hí
+- Çanaqlı xərçənglər
+- Бақалшақты шаянтәрізділер
+- Остракоди
+- ракушкавыя
+- Ракушковые
+- черепашкові
+- черупкари
+- צדפונאים
+- صدف ډوله ژوي
+- صدفيات
+- صدفیان
+- ნიჟარიანები
+- 介形綱
+- 介形纲
+- 介形虫
+- 介形蟲
+- 貝虫
+- 패충강
 title: Ostracoda
 has_id_wikidata: Q276412
+dv_has_:
+  name_:
+    an: Ostracoda
+    ar: صدفيات
+    arz: صدفيات
+    ast: Ostracoda
+    az: Çanaqlı xərçənglər
+    be: ракушкавыя
+    bg: Остракоди
+    ca: Ostràcode
+    ceb: Ostracoda
+    cs: Lasturnatky
+    da: ostracoder
+    de: Ostrakoden
+    en: Ostracoda
+    eo: Ostrakodoj
+    es: Ostracoda
+    et: Karpvähilised
+    eu: Ostrakodo
+    ext: Ostracoda
+    fa: صدفیان
+    fi: raakkuäyriäiset
+    fr: Ostracode
+    ga: Ostracoda
+    gl: Ostrácodos
+    he: צדפונאים
+    hr: Dvoljušturci
+    hu: kagylósrákok
+    ia: Ostracoda
+    id: Ostracoda
+    ie: Ostracoda
+    io: Ostracoda
+    is: Skelkrabbar
+    it: Ostracoda
+    ja: 貝虫
+    jv: Ostracoda
+    ka: ნიჟარიანები
+    kk: Бақалшақты шаянтәрізділер
+    ko: 패충강
+    la: Ostracoda
+    li: Moesjelkrieëfte
+    lt: Kiautavėžiai
+    lv: Gliemeņvēži
+    mk: черупкари
+    mul: Ostracoda
+    nb: muslingkreps
+    nl: mosselkreeftjes
+    nn: Muslingkreps
+    nv: Táyiʼ naatʼiʼítʼą́hí
+    oc: Ostracoda
+    pl: małżoraczki
+    ps: صدف ډوله ژوي
+    pt: Ostracoda
+    pt-br: Ostracoda
+    ro: Ostracode
+    ru: Ракушковые
+    sl: Dvoklopniki
+    sq: Ostracoda
+    sv: musselkräftor
+    tr: Ostrakod
+    uk: черепашкові
+    uz: Chigʻanoqlilar
+    vi: Ostracoda
+    vo: Ostracoda
+    war: Ostracoda
+    zh: 介形纲
+    zh-cn: 介形纲
+    zh-hans: 介形纲
+    zh-hant: 介形蟲
+    zh-hk: 介形蟲
+    zh-sg: 介形虫
+    zh-tw: 介形綱
 ---
 # [[Ostracoda]] 
 

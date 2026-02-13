@@ -1,8 +1,62 @@
 ---
 aliases:
-  - Oryzorictes
+- Hrísteinrekur
+- Oryzorictes
+- Ratiavatol (Oryzorictes)
+- Reiswühler
+- Riestenreks
+- Ristanrekar
+- Ryżorek
+- Tenrec d'arrossar
+- טנרק האורז
+- تیغپشت برنجی
+- مدال الأرز
+- 쌀텐렉
 title: Oryzorictes
 has_id_wikidata: Q601858
+dv_has_:
+  name_:
+    an: Oryzorictes
+    ar: مدال الأرز
+    ast: Oryzorictes
+    avk: Ratiavatol (Oryzorictes)
+    bg: Oryzorictes
+    ca: Tenrec d'arrossar
+    ceb: Oryzorictes
+    de: Reiswühler
+    en: Oryzorictes
+    eo: Oryzorictes
+    es: Oryzorictes
+    eu: Oryzorictes
+    ext: Oryzorictes
+    fa: تیغپشت برنجی
+    fi: Oryzorictes
+    fr: Oryzorictes
+    ga: Oryzorictes
+    gl: Oryzorictes
+    he: טנרק האורז
+    ia: Oryzorictes
+    ie: Oryzorictes
+    io: Oryzorictes
+    is: Hrísteinrekur
+    it: Oryzorictes
+    ko: 쌀텐렉
+    la: Oryzorictes
+    li: Riestenreks
+    mul: Oryzorictes
+    nl: Oryzorictes
+    oc: Oryzorictes
+    pl: Ryżorek
+    pt: Oryzorictes
+    pt-br: Oryzorictes
+    ro: Oryzorictes
+    ru: Oryzorictes
+    sq: Oryzorictes
+    sv: Ristanrekar
+    uk: Oryzorictes
+    vi: Oryzorictes
+    vo: Oryzorictes
+    war: Oryzorictes
 ---
 # [[Oryzorictes]]
 

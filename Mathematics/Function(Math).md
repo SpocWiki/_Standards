@@ -1,31 +1,139 @@
 ---
 aliases:
-  - mathematical function
-  - function
-  - mathematical functions
-  - functions
-  - Function(Math)
+- aplicacion
+- cakacaka
+- fall
+- fancu
+- feidhm
+- ffwythiant
+- fonction
+- fongshan
+- fonksiyon
+- fonksyon
+- Fonksyon (matematik)
+- fonsion
+- funcion matematica
+- funciono
+- funció
+- función
+- función matematica
+- función matemática
+- functio
+- function
+- Function(Math)
+- functions
+- funcție
+- fungsi
+- Fungsi (matematika)
+- funkce
+- funkcii
+- funkcija
+- funkcio
+- funkciya
+- funkcja
+- funkcyjo
+- funkcėjė
+- Funkschoon
+- funksie
+- funksion
+- funksioni
+- funksiya
+- funksjon
+- funksjón
+- funktio
+- funktion
+- Funktioun
+- funktsioon
+- funktsiya
+- funkšuvdna
+- funsion
+- funtzio
+- funzione
+- funzioni
+- funziú
+- funzjoni
+- função
+- függvény
+- hàm số
+- hàm-su
+- iṣẹ́
+- Jokuaaraiha
+- kinraysuyu
+- koan-sò͘
+- kɩlabɩm
+- mathematical function
+- mathematical functions
+- munangatire
+- namba tegemezi
+- pali nanpa
+- punsiyon
+- shaqada
+- tasɣent
+- warroomii
+- wiskundige functie
+- zobrazenie
+- συνάρτηση
+- даалһвр
+- математическая функция
+- функсияи математикӣ
+- функц
+- функція
+- функци
+- функција
+- функция
+- функцыя
+- ֆունկցիա
+- פונקציה
+- פונקציע
+- تابع
+- دالة
+- دالہ
+- فانکشن
+- فنکشن
+- فوڠسي
+- فۇنكسىيە
+- फंक्शन
+- फल
+- फलन
+- ফলন
+- ফাংশন
+- ਫੰਕਸ਼ਨ
+- વિધેય
+- சார்பு
+- ഫലനം
+- ฟังก์ชัน
+- ຕຳລາ
+- ဖန်ရှင်
+- ფუნქცია
+- አስረካቢ
+- ᓀᓴᐅᓯᕆᓂᕆᔭᑦ ᐃᓚᒌᖕᓂᖃᕐᓂᖏᒃ
+- ⵜⴰⵙⵖⵏⵜ (ⵜⵓⵙⵏⴰⴽⵜ)
+- 函数
+- 函數
+- 映射
+- 関数
+- 함수
 has_id_wikidata: Q11348
 subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~domain_of_a_function,192439]]'
-  - '[[_Standards/WikiData/WD~codomain,199006]]'
-  - '[[_Standards/WikiData/WD~zero_of_a_function,214604]]'
-  - '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
-  - '[[_Standards/WikiData/WD~left_totality,54933376]]'
-  - '[[_Standards/WikiData/WD~right_uniqueness,54933381]]'
+- '[[_Standards/WikiData/WD~domain_of_a_function,192439]]'
+- '[[_Standards/WikiData/WD~codomain,199006]]'
+- '[[_Standards/WikiData/WD~zero_of_a_function,214604]]'
+- '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
+- '[[_Standards/WikiData/WD~left_totality,54933376]]'
+- '[[_Standards/WikiData/WD~right_uniqueness,54933381]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~mapping,370502]]'
-  - '[[_Standards/WikiData/WD~argument_of_a_function,1027788]]'
-  - '[[_Standards/WikiData/WD~arity,1315869]]'
-  - '[[_Standards/WikiData/WD~function_value,59715267]]'
+- '[[_Standards/WikiData/WD~mapping,370502]]'
+- '[[_Standards/WikiData/WD~argument_of_a_function,1027788]]'
+- '[[_Standards/WikiData/WD~arity,1315869]]'
+- '[[_Standards/WikiData/WD~function_value,59715267]]'
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 opposite_of: '[[_Standards/WikiData/WD~multivalued_function,629085]]'
 has_list: '[[_Standards/WikiData/WD~list_of_mathematical_functions,1991505]]'
 different_from: '[[_Standards/WikiData/WD~position,4164871]]'
@@ -35,33 +143,182 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Functions,13411594]]'
 instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
 studied_by: '[[_Standards/WikiData/WD~mathematics,395]]'
 inappropriate_property_for_this_type:
-  - inception
-  - dissolved, abolished or demolished date
-  - position holder
-  - organization directed by the office or position
-  - country
-  - field of work
+- inception
+- dissolved, abolished or demolished date
+- position holder
+- organization directed by the office or position
+- country
+- field of work
 properties_for_this_type:
-  - definition domain
-  - codomain
-  - image of function
+- definition domain
+- codomain
+- image of function
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Funtzioak.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bijektivit%C3%A4t%20von%20Funktionen-%20Quatematik.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Surjektivit%C3%A4t%20von%20Funktionen-%20Quatematik.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Funtzioak.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bijektivit%C3%A4t%20von%20Funktionen-%20Quatematik.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Surjektivit%C3%A4t%20von%20Funktionen-%20Quatematik.webm
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Exp%20re.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Graph%20of%20function%20of%202%20variables.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Exp%20re.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Graph%20of%20function%20of%202%20variables.png
 IEV_number: 102-01-10
 Commons_category: Functions (mathematics)
 Wolfram_Language_entity_type: MathematicalFunction
 Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSIYA.html
 described_at_URL:
-  - https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions
-  - https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions
+- https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions
+- https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions
+dv_has_:
+  name_:
+    af: funksie
+    am: አስረካቢ
+    an: función matematica
+    ar: دالة
+    ary: دالة
+    as: ফলন
+    ast: función matemática
+    az: funksiya
+    ba: функция
+    bar: Funktion
+    be: функцыя
+    be-tarask: функцыя
+    bg: функция
+    bho: फंक्शन
+    bn: ফাংশন
+    bs: funkcija
+    ca: funció
+    ckb: فانکشن
+    crh: funktsiya
+    cs: funkce
+    cv: функци
+    cy: ffwythiant
+    da: funktion
+    de: Funktion
+    diq: fonksiyon
+    el: συνάρτηση
+    en: function
+    en-ca: function
+    en-gb: function
+    eo: funkcio
+    es: función
+    et: funktsioon
+    eu: funtzio
+    fa: تابع
+    fi: funktio
+    fj: cakacaka
+    fo: funksjón
+    fr: fonction
+    frr: funksion
+    ga: feidhm
+    gan: 函數
+    gcr: fonksyon
+    gl: función
+    gn: Jokuaaraiha
+    gsw: Funktion
+    gu: વિધેય
+    hak: hàm-su
+    he: פונקציה
+    hi: फलन
+    hif: function
+    hr: funkcija
+    ht: Fonksyon (matematik)
+    hu: függvény
+    hy: ֆունկցիա
+    ia: function
+    id: fungsi
+    io: funciono
+    is: fall
+    it: funzione
+    iu: ᓀᓴᐅᓯᕆᓂᕆᔭᑦ ᐃᓚᒌᖕᓂᖃᕐᓂᖏᒃ
+    ja: 関数
+    jam: fongshan
+    jbo: fancu
+    ka: ფუნქცია
+    kaa: funkciya
+    kab: tasɣent
+    kbp: kɩlabɩm
+    kk: функция
+    ko: 함수
+    la: functio
+    lb: Funktioun
+    lmo: funziú
+    lo: ຕຳລາ
+    lt: funkcija
+    lv: funkcija
+    lzh: 映射
+    mad: Fungsi (matematika)
+    mag: फलन
+    mk: функција
+    ml: ഫലനം
+    mn: функц
+    mr: फल
+    ms: fungsi
+    ms-arab: فوڠسي
+    mt: funzjoni
+    my: ဖန်ရှင်
+    nan: koan-sò͘
+    nap: funzione
+    nb: funksjon
+    nds: Funkschoon
+    nl: wiskundige functie
+    nn: funksjon
+    oc: aplicacion
+    om: warroomii
+    pa: ਫੰਕਸ਼ਨ
+    pl: funkcja
+    pms: fonsion
+    pnb: فنکشن
+    pt: função
+    pt-br: função
+    qu: kinraysuyu
+    ro: funcție
+    ru: математическая функция
+    sah: функция
+    scn: funzioni
+    sco: function
+    se: funkšuvdna
+    sgs: funkcėjė
+    sh: funkcija
+    sk: zobrazenie
+    sl: funkcija
+    smn: funktio
+    sms: funktio
+    sn: munangatire
+    so: shaqada
+    sq: funksioni
+    sr: функција
+    sr-ec: функција
+    su: fungsi
+    sv: funktion
+    sw: namba tegemezi
+    szl: funkcyjo
+    ta: சார்பு
+    tg: функсияи математикӣ
+    th: ฟังก์ชัน
+    tl: punsiyon
+    tok: pali nanpa
+    tr: fonksiyon
+    tt: функция
+    udm: функция
+    ug: فۇنكسىيە
+    uk: функція
+    ur: دالہ
+    uz: funksiya
+    vec: funsion
+    vep: funkcii
+    vi: hàm số
+    war: funcion matematica
+    wuu: 函数
+    xal: даалһвр
+    yi: פונקציע
+    yo: iṣẹ́
+    yue: 函數
+    zgh: ⵜⴰⵙⵖⵏⵜ (ⵜⵓⵙⵏⴰⴽⵜ)
+    zh: 函数
+    zh-cn: 函数
+    zh-hans: 函数
+    zh-hant: 函數
 ---
-
 # [[Function(Math)]] 
 
 

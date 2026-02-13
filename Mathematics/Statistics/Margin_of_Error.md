@@ -1,14 +1,89 @@
 ---
 aliases:
+- Batas kesalahan
+- erarmarĝeno
+- Errore-marjina
+- Fehlerspanne
+- Feilmargin
+- Hata payı
+- hibahatár
+- jidar selisih
+- marge d'erreur
+- marge d'error
+- margem de erro
+- margen de error
+- Margin kasalahan
+- margin of error
+- Margina greške
+- marjă de eroare
+- marxe d'error
+- Marxe de erro
+- Skekkjumörk
+- Virhemarginaali
+- Wates kesalahan
+- Περιθώριο σφάλματος
+- граница на грешка
+- Межа похибки
+- мяжа хібнасьці
+- предел погрешности
+- שגיאת דגימה (כשל לוגי)
+- جيدر سليسيه
+- هامش الخطأ
+- ত্রুটিসীমা
+- 誤差範囲
+- 誤差範圍
+- 误差范围
+- 허용 오차
 has_id_wikidata: Q1352827
-different_from: "[[_Standards/WikiData/WD~factor_of_safety,2034862]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+different_from: '[[_Standards/WikiData/WD~factor_of_safety,2034862]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+facet_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Margem%20de%20erro.ogg
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>Standard error</mtext></mrow><mo stretchy="false">&#x2248;</mo><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>p</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">&#x2212;</mo><mi>p</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: هامش الخطأ
+    ast: marxe d'error
+    be-tarask: мяжа хібнасьці
+    bn: ত্রুটিসীমা
+    ca: marge d'error
+    de: Fehlerspanne
+    el: Περιθώριο σφάλματος
+    en: margin of error
+    en-ca: Margin of error
+    en-gb: margin of error
+    eo: erarmarĝeno
+    es: margen de error
+    eu: Errore-marjina
+    fi: Virhemarginaali
+    fr: marge d'erreur
+    gl: Marxe de erro
+    he: שגיאת דגימה (כשל לוגי)
+    hu: hibahatár
+    id: Batas kesalahan
+    is: Skekkjumörk
+    ja: 誤差範囲
+    jv: Wates kesalahan
+    ko: 허용 오차
+    mk: граница на грешка
+    ms: jidar selisih
+    ms-arab: جيدر سليسيه
+    nb: Feilmargin
+    pt: margem de erro
+    pt-br: Margem de erro
+    ro: marjă de eroare
+    ru: предел погрешности
+    sr: Margina greške
+    su: Margin kasalahan
+    tr: Hata payı
+    uk: Межа похибки
+    yue: 誤差範圍
+    zh: 误差范围
+    zh-hans: 误差范围
+    zh-hant: 誤差範圍
+    zh-hk: 誤差範圍
 ---
-
 # [[Margin_of_Error]] 
 
 #is_/same_as :: [[WD~Margin_of_error,1352827]] 

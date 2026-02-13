@@ -1,24 +1,155 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]"
-    - "[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]"
-    - "[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]"
-    - "[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]"
-    - "[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]"
-    - "[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]"
+  - '[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]'
+  - '[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]'
+  - '[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]'
+  - '[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]'
+  - '[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]'
+  - '[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]"
-  - "[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]"
-  - "[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]"
-  - "[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]"
-  - "[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]"
-  - "[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]"
+- '[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]'
+- '[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]'
+- '[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]'
+- '[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]'
+- '[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]'
+- '[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]'
+- '[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]'
+- '[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]'
 has_id_wikidata: Q22247
+dv_has_:
+  name_:
+    af: gammaflits
+    ar: انفجار أشعة غاما
+    ast: biltu de rayos gamma
+    az: Qamma şüa partlayışı
+    be: гама-ўсплёск
+    be-tarask: гама-ўсплёск
+    bg: гама експлозия
+    bn: গামা-রশ্মি বিস্ফোরণ
+    ca: esclat de raigs gamma
+    cs: gama záblesk
+    da: Gammaglimt
+    de: Gammablitz
+    de-ch: Gammablitz
+    el: Εκλάμψεις ακτίνων γ
+    en: gamma-ray burst
+    en-ca: Gamma-ray burst
+    en-gb: gamma-ray burst
+    eo: gamo-radia ekbrilo
+    es: brote de rayos gamma
+    et: Gammasähvatus
+    eu: Gamma izpien eztanda
+    fa: انفجار پرتوی گاما
+    fi: gammapurkaus
+    fr: sursaut gamma
+    ga: rois gháma-ghathach
+    gl: Abrocho de raios gamma
+    he: התפרצות גמא
+    hi: गामा-किरण विस्फोट
+    hr: Bljesak gama-zračenja
+    hu: gamma-kitörés
+    id: Ledakan sinar gamma
+    ig: Gamma-ray gbawara
+    it: lampo gamma
+    ja: ガンマ線バースト
+    kk: Гамма-сәуле шығару
+    ko: 감마선 폭발
+    lb: Gammablëtz
+    lt: Gama žybsnis
+    lv: Gamma uzliesmotājs
+    mk: гама-изблик
+    ms: Letusan sinar gama
+    nan: Gamma-kng po̍k-hoat
+    nb: gammaglimt
+    nl: gammaflits
+    nn: gammaglimt
+    pl: Rozbłysk gamma
+    ps: د ګاما وړانګې چاودنه
+    pt: erupção de raios gama
+    pt-br: erupção de raios gama
+    ro: explozie de raze gama
+    ru: гамма-всплеск
+    scn: Lampu gamma
+    sk: Záblesk gama žiarenia
+    sl: Izbruh žarkov gama
+    sq: Rrezatimi Gamma
+    sr: гама прасак
+    sr-ec: гама прасак
+    sr-el: gama prasak
+    sv: gammablixt
+    ta: காமா கதிர் வெடிப்பு
+    th: แสงวาบรังสีแกมมา
+    tr: Gama-ışın patlaması
+    tt: гамма-чайкалыш
+    uk: гамма-спалах
+    ur: گاما شعاعوں کا اخراج
+    vi: Chớp gamma
+    wuu: 伽玛射线暴
+    yue: 伽瑪射線暴
+    zh: 伽玛射线暴
+aliases:
+- Abrocho de raios gamma
+- biltu de rayos gamma
+- Bljesak gama-zračenja
+- brote de rayos gamma
+- Chớp gamma
+- erupção de raios gama
+- esclat de raigs gamma
+- explozie de raze gama
+- gama prasak
+- gama záblesk
+- Gama žybsnis
+- Gama-ışın patlaması
+- Gamma izpien eztanda
+- Gamma uzliesmotājs
+- gamma-kitörés
+- Gamma-kng po̍k-hoat
+- gamma-ray burst
+- Gamma-ray gbawara
+- Gammablitz
+- gammablixt
+- Gammablëtz
+- gammaflits
+- Gammaglimt
+- gammapurkaus
+- Gammasähvatus
+- gamo-radia ekbrilo
+- Izbruh žarkov gama
+- lampo gamma
+- Lampu gamma
+- Ledakan sinar gamma
+- Letusan sinar gama
+- Qamma şüa partlayışı
+- rois gháma-ghathach
+- Rozbłysk gamma
+- Rrezatimi Gamma
+- sursaut gamma
+- Záblesk gama žiarenia
+- Εκλάμψεις ακτίνων γ
+- гама експлозия
+- гама прасак
+- гама-ўсплёск
+- гама-изблик
+- гамма-всплеск
+- гамма-спалах
+- Гамма-сәуле шығару
+- гамма-чайкалыш
+- התפרצות גמא
+- انفجار أشعة غاما
+- انفجار پرتوی گاما
+- د ګاما وړانګې چاودنه
+- گاما شعاعوں کا اخراج
+- गामा-किरण विस्फोट
+- গামা-রশ্মি বিস্ফোরণ
+- காமா கதிர் வெடிப்பு
+- แสงวาบรังสีแกมมา
+- ガンマ線バースト
+- 伽玛射线暴
+- 伽瑪射線暴
+- 감마선 폭발
 ---
 # [[Gamma-Ray_Burst]] 
 

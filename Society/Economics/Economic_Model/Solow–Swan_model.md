@@ -1,8 +1,60 @@
 ---
 has_id_wikidata: Q777494
+dv_has_:
+  name_:
+    as: চ'ল'-স্বান আৰ্হি (অৰ্থনীতি)
+    az: Solou modeli
+    ca: Model de creixement de Solow
+    cs: Solowův–Swanův model
+    da: Solow-modellen
+    de: Solow-Modell
+    en: Neoclassical growth model
+    eo: novklasika modelo de kreskado
+    es: Modelo de crecimiento de Solow
+    fa: مدل رشد سولو-سوان
+    fi: Solow’n kasvumalli
+    fr: modèle de Solow
+    hi: सोलो-स्वान विकास मॉडल
+    hy: Սոլոուի մոդել
+    it: Modello di Solow
+    ja: ソロー-スワン・モデル
+    ko: 신고전학파 성장 이론
+    nl: Solow-model
+    pl: Model wzrostu Solowa
+    pt: Modelo de Solow
+    ru: Модель Солоу
+    sl: model Solowa
+    sv: Solow-modellen
+    uk: Модель Солоу — Свона
+    vi: Mô hình tăng trưởng Solow
+    zh: 索洛模型
+aliases:
+- Model de creixement de Solow
+- model Solowa
+- Model wzrostu Solowa
+- Modello di Solow
+- Modelo de crecimiento de Solow
+- Modelo de Solow
+- modèle de Solow
+- Mô hình tăng trưởng Solow
+- Neoclassical growth model
+- novklasika modelo de kreskado
+- Solou modeli
+- Solow-model
+- Solow-Modell
+- Solow-modellen
+- Solowův–Swanův model
+- Solow’n kasvumalli
+- Модель Солоу
+- Модель Солоу — Свона
+- Սոլոուի մոդել
+- مدل رشد سولو-سوان
+- सोलो-स्वान विकास मॉडल
+- চ'ল'-স্বান আৰ্হি (অৰ্থনীতি)
+- ソロー-スワン・モデル
+- 索洛模型
+- 신고전학파 성장 이론
 ---
-
-
 # [[Solow–Swan_model]] 
 
 

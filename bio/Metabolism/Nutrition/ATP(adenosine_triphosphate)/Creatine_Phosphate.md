@@ -1,8 +1,65 @@
 ---
 aliases:
-  - Phosphocreatine
-  - Creatine phosphate
+- Creatine phosphate
+- Creatinefosfaat
+- Creatinfosfato
+- Fosfocreatina
+- fosfokreatiini
+- Fosfokreatin
+- fosfokreatina
+- fosfokreatino
+- Fosfokreatyna
+- Kreatin-fosfat
+- kreatin-foszfát
+- Kreatinfosfat kislota
+- Kreatinfosfát
+- Kreatínfosfát
+- Phosphocreatine
+- phosphocréatine
+- Креатинфосфорна кислота
+- креатинфосфорная кислота
+- פוספוקריאטין
+- فسفوکراتین
+- فوسفات الكرياتين
+- فوسفوکراتین
+- კრეატინფოსფორმჟავა
+- クレアチンリン酸
+- 磷酸肌酸
+- 포스포크레아틴
 has_id_wikidata: Q1984607
+dv_has_:
+  name_:
+    ar: فوسفات الكرياتين
+    azb: فوسفوکراتین
+    bs: Fosfokreatin
+    ca: Fosfocreatina
+    cs: Kreatinfosfát
+    en: phosphocreatine
+    eo: fosfokreatino
+    es: Fosfocreatina
+    eu: fosfokreatina
+    fa: فسفوکراتین
+    fi: fosfokreatiini
+    fr: phosphocréatine
+    gl: Fosfocreatina
+    he: פוספוקריאטין
+    hr: Kreatin-fosfat
+    hu: kreatin-foszfát
+    it: Creatinfosfato
+    ja: クレアチンリン酸
+    ka: კრეატინფოსფორმჟავა
+    ko: 포스포크레아틴
+    nl: Creatinefosfaat
+    nn: fosfokreatin
+    pl: Fosfokreatyna
+    pt: fosfocreatina
+    ru: креатинфосфорная кислота
+    sh: Fosfokreatin
+    sk: Kreatínfosfát
+    sr: Fosfokreatin
+    uk: Креатинфосфорна кислота
+    uz: Kreatinfosfat kislota
+    zh: 磷酸肌酸
 ---
 # [[Creatine_Phosphate]] 
 

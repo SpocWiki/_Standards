@@ -1,54 +1,197 @@
 ---
 aliases:
+- Dewi Isis
+- Eset
+- Iside
+- Isidi
+- Isis
+- Izida
+- Izidė
+- Iziso
+- Izyda
+- Izīda
+- jan sewi Ese
+- Ísis
+- Ízisz
+- İsida
+- İsis
+- Ίσις
+- Ізыда
+- Ісіда
+- Изида
+- Исида
+- Իսիդա
+- Իսիս
+- איסיס
+- آئسِس
+- إيزيس
+- ئیزیس
+- ايزيس
+- ايسيس
+- ایزیس
+- ईसिस
+- আইচিছ
+- আইসিস
+- ਇਸਿਸ
+- આઈઝિસ
+- இசிசு
+- ಐಸಿಸ್
+- ഐസിസ്
+- ไอซิส
+- དབྱི་ཞི་སི།
+- အိုက်စစ်နတ်ဘုရားမ
+- ისიდა
+- Ἶσις
+- イシス
+- 伊西斯
+- 艾西斯
+- ꯏꯁꯤꯁ
+- 이시스
 has_id_wikidata: Q79876
 child:
-  - "[[_Standards/WikiData/WD~Horus,84122]]"
-  - "[[_Standards/WikiData/WD~Anubis,47534]]"
+- '[[_Standards/WikiData/WD~Horus,84122]]'
+- '[[_Standards/WikiData/WD~Anubis,47534]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Seth,131795]]"
-  - "[[_Standards/WikiData/WD~Nephthys,169040]]"
-  - "[[_Standards/WikiData/WD~Osiris,46491]]"
-instance_of: "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]"
-mother: "[[_Standards/WikiData/WD~Nut,165496]]"
-father: "[[_Standards/WikiData/WD~Geb,168444]]"
+- '[[_Standards/WikiData/WD~Seth,131795]]'
+- '[[_Standards/WikiData/WD~Nephthys,169040]]'
+- '[[_Standards/WikiData/WD~Osiris,46491]]'
+instance_of: '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]'
+mother: '[[_Standards/WikiData/WD~Nut,165496]]'
+father: '[[_Standards/WikiData/WD~Geb,168444]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~ankh,180439]]"
-  - "[[_Standards/WikiData/WD~sistrum,426948]]"
-part_of: "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
+- '[[_Standards/WikiData/WD~ankh,180439]]'
+- '[[_Standards/WikiData/WD~sistrum,426948]]'
+part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740]]'
 worshipped_by:
-  - "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
-  - "[[_Standards/WikiData/WD~Fellowship_of_Isis,3489705]]"
-  - "[[_Standards/WikiData/WD~mysteries_of_Isis,22907152]]"
+- '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
+- '[[_Standards/WikiData/WD~Fellowship_of_Isis,3489705]]'
+- '[[_Standards/WikiData/WD~mysteries_of_Isis,22907152]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-student: "[[_Standards/WikiData/WD~Gambrinus,772978]]"
-different_from: "[[_Standards/WikiData/WD~Islamic_State,2429253]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-epithet: "[[_Standards/WikiData/WD~Pelagia,107349788]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+student: '[[_Standards/WikiData/WD~Gambrinus,772978]]'
+different_from: '[[_Standards/WikiData/WD~Islamic_State,2429253]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+epithet: '[[_Standards/WikiData/WD~Pelagia,107349788]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Isis_in_Museo_archeologico,126192114]]"
-  - "[[_Standards/WikiData/WD~Isis_from_Villa_Adriana,126192125]]"
-  - "[[_Standards/WikiData/WD~statue_of_Isis,126210750]]"
-  - "[[_Standards/WikiData/WD~Isis_restored_as_Ceres,126364382]]"
-  - "[[_Standards/WikiData/WD~Priestess_restored_as_Isis,126364384]]"
-  - "[[_Standards/WikiData/WD~Head_of_Isis,131704781]]"
-  - "[[_Standards/WikiData/WD~Isis_Pelagia,131937022]]"
-spouse: "[[_Standards/WikiData/WD~Osiris,46491]]"
+- '[[_Standards/WikiData/WD~Isis_in_Museo_archeologico,126192114]]'
+- '[[_Standards/WikiData/WD~Isis_from_Villa_Adriana,126192125]]'
+- '[[_Standards/WikiData/WD~statue_of_Isis,126210750]]'
+- '[[_Standards/WikiData/WD~Isis_restored_as_Ceres,126364382]]'
+- '[[_Standards/WikiData/WD~Priestess_restored_as_Isis,126364384]]'
+- '[[_Standards/WikiData/WD~Head_of_Isis,131704781]]'
+- '[[_Standards/WikiData/WD~Isis_Pelagia,131937022]]'
+spouse: '[[_Standards/WikiData/WD~Osiris,46491]]'
 Commons_category: Isis
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Isis%20statue%20smooth.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Isis.svg
 Libris_URI: 64jmv1jq3h91w1n
 Iconclass_notation: 96A31
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ISIDA.html
+dv_has_:
+  name_:
+    af: Isis
+    ar: إيزيس
+    arz: ايزيس
+    as: আইচিছ
+    ast: Isis
+    az: İsida
+    be: Ісіда
+    be-tarask: Ізыда
+    bg: Изида
+    bn: আইসিস
+    bo: དབྱི་ཞི་སི།
+    br: Isis
+    bs: Izida
+    ca: Isis
+    cdo: Isis
+    ckb: ئیزیس
+    cs: Eset
+    cv: Исида
+    cy: Isis
+    da: Isis
+    de: Isis
+    el: Ίσις
+    en: Isis
+    en-gb: Isis
+    eo: Iziso
+    es: Isis
+    et: Isis
+    eu: Isis
+    fa: ایزیس
+    fi: Isis
+    fr: Isis
+    fy: Isis
+    ga: Ísis
+    gl: Isis
+    grc: Ἶσις
+    gsw: Isis
+    gu: આઈઝિસ
+    he: איסיס
+    hi: ईसिस
+    hr: Izida
+    hu: Ízisz
+    hy: Իսիդա
+    hyw: Իսիս
+    id: Isis
+    is: Ísis
+    it: Iside
+    ja: イシス
+    ka: ისიდა
+    kn: ಐಸಿಸ್
+    ko: 이시스
+    ks: آئسِس
+    la: Isis
+    lfn: Isis
+    lt: Izidė
+    lv: Izīda
+    mk: Изида
+    ml: ഐസിസ്
+    mni: ꯏꯁꯤꯁ
+    ms: Dewi Isis
+    mul: Isis
+    my: အိုက်စစ်နတ်ဘုရားမ
+    nah: Isis
+    nb: Isis
+    nl: Isis
+    oc: Isis
+    pa: ਇਸਿਸ
+    pl: Izyda
+    ps: ايسيس
+    pt: Ísis
+    ro: Isis
+    ru: Исида
+    scn: Isidi
+    sco: Isis
+    sd: ايزيس
+    sh: Izida
+    sk: Eset
+    sl: Izida
+    sr: Изида
+    sv: Isis
+    sw: Isis
+    ta: இசிசு
+    th: ไอซิส
+    tl: Isis
+    tok: jan sewi Ese
+    tr: İsis
+    uk: Ісіда
+    ur: ایزیس
+    uz: Isis
+    vec: Iside
+    vi: Isis
+    war: Isis
+    wuu: 伊西斯
+    xmf: ისიდა
+    yue: 伊西斯
+    zh: 艾西斯
 ---
-
 # [[Isis]] 
 
 #is_/same_as :: [[WD~Isis,79876]] 

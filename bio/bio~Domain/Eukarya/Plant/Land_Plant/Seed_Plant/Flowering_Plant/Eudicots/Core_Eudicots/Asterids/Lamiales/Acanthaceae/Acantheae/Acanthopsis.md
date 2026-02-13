@@ -1,8 +1,50 @@
 ---
 aliases:
-  - Acanthopsis
+- Acanthopsis
+- 全簕花属
+- 全簕花屬
 title: Acanthopsis
 has_id_wikidata: Q8186577
+dv_has_:
+  name_:
+    an: Acanthopsis
+    ast: Acanthopsis
+    bg: Acanthopsis
+    ca: Acanthopsis
+    ceb: Acanthopsis
+    de: Acanthopsis
+    en: Acanthopsis
+    eo: Acanthopsis
+    es: Acanthopsis
+    eu: Acanthopsis
+    ext: Acanthopsis
+    fi: Acanthopsis
+    fr: Acanthopsis
+    ga: Acanthopsis
+    gl: Acanthopsis
+    hr: Acanthopsis
+    ia: Acanthopsis
+    ie: Acanthopsis
+    io: Acanthopsis
+    it: Acanthopsis
+    la: Acanthopsis
+    mul: Acanthopsis
+    nl: Acanthopsis
+    oc: Acanthopsis
+    pl: Acanthopsis
+    pt: Acanthopsis
+    pt-br: Acanthopsis
+    ro: Acanthopsis
+    ru: Acanthopsis
+    sq: Acanthopsis
+    sv: Acanthopsis
+    uk: Acanthopsis
+    vi: Acanthopsis
+    vo: Acanthopsis
+    war: Acanthopsis
+    zh: 全簕花属
+    zh-cn: 全簕花属
+    zh-tw: 全簕花屬
 ---
 # [[Acanthopsis]] 
 

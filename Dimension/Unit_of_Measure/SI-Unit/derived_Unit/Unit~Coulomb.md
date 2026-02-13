@@ -1,58 +1,201 @@
 ---
 aliases:
-  - Coulomb
-  - Unit~Coulomb
+- Coulomb
+- coulombi
+- culombio
+- culombiu
+- cúlóm
+- koulon
+- kulomb
+- kulombio
+- kulombo
+- kulon
+- kulonas
+- kulons
+- kúlomb
+- Unit~Coulomb
+- κουλόμπ
+- кулён
+- кулон
+- Կուլոն
+- קולאמב
+- קולון
+- كولوم
+- کولمب
+- کولن
+- کولون
+- ھێزی کۆڵۆم
+- कूलम्ब
+- कूलोंब
+- कोलम्ब
+- কুলম্ব
+- கூலும்
+- കൂളംബ്
+- คูลอมบ์
+- ཁུ་ལོམ།
+- ကူးလောင်း
+- კულონი
+- クーロン
+- 库仑
+- 庫侖
+- 庫倫
+- 쿨롱
 has_id_wikidata: Q25406
 named_after: '[[_Standards/WikiData/WD~Charles_Augustin_de_Coulomb,81716]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Coulomb,342976]]'
-  - "[[_Standards/WikiData/WD~Coulomb's_constant,9855158]]"
-  - '[[_Standards/WikiData/WD~Q28006,28006]]'
+- '[[_Standards/WikiData/WD~Coulomb,342976]]'
+- "[[_Standards/WikiData/WD~Coulomb's_constant,9855158]]"
+- '[[_Standards/WikiData/WD~Q28006,28006]]'
 measured_physical_quantity:
-  - '[[_Standards/WikiData/WD~electric_flux,501267]]'
-  - '[[_Standards/WikiData/WD~electric_charge,1111]]'
+- '[[_Standards/WikiData/WD~electric_flux,501267]]'
+- '[[_Standards/WikiData/WD~electric_charge,1111]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~unit_of_electric_charge,16604158]]'
-  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-  - '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~unit_of_electric_charge,16604158]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>A</mtext></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>s</mtext></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>C</mtext></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>A</mtext></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>s</mtext></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>C</mtext></mrow></mstyle></mrow></math>
 numeric_value: 6241509074460762000
 derived_from_base_unit:
-  - '[[_Standards/WikiData/WD~second,11574]]'
-  - '[[_Standards/WikiData/WD~ampere,25272]]'
+- '[[_Standards/WikiData/WD~second,11574]]'
+- '[[_Standards/WikiData/WD~ampere,25272]]'
 based_on:
-  - '[[_Standards/WikiData/WD~second,11574]]'
-  - '[[_Standards/WikiData/WD~ampere,25272]]'
+- '[[_Standards/WikiData/WD~second,11574]]'
+- '[[_Standards/WikiData/WD~ampere,25272]]'
 conversion_to_SI_unit: 1
 UCUM_code: C
 unit_symbol:
-  - C
-  - C
-  - C
-  - C
-  - C
-  - C
-  - Кл
-  - К
+- C
+- C
+- C
+- C
+- C
+- C
+- Кл
+- К
 UN_CEFACT_Common_Code: COU
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>C</mtext></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mtext>A</mtext></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mtext>s</mtext></mrow></mstyle></mrow></math>
 Wolfram_Language_unit_code: '"Coulombs"'
 IEV_number:
-  - 113-02-11
-  - 881-04-08
+- 113-02-11
+- 881-04-08
 UMLS_CUI: C0562424
 Wikidata_SPARQL_query_equivalent: wd:Q25406 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 Commons_category: Coulomb (charge unit)
+dv_has_:
+  name_:
+    af: coulomb
+    ar: كولوم
+    as: কুলম্ব
+    ast: culombiu
+    az: kulon
+    azb: کولون
+    be: кулон
+    be-tarask: кулён
+    bg: кулон
+    bn: কুলম্ব
+    bo: ཁུ་ལོམ།
+    br: coulomb
+    bs: kulon
+    ca: coulomb
+    ce: кулон
+    ckb: ھێزی کۆڵۆم
+    cs: coulomb
+    cv: кулон
+    cy: coulomb
+    da: coulomb
+    de: Coulomb
+    dsb: Coulomb
+    el: κουλόμπ
+    en: coulomb
+    eo: kulombo
+    es: culombio
+    et: kulon
+    eu: coulomb
+    fa: کولن
+    fi: coulombi
+    fr: coulomb
+    frr: coulomb
+    ga: cúlóm
+    gl: coulomb
+    he: קולון
+    hi: कूलम्ब
+    hr: kulon
+    hsb: Coulomb
+    ht: koulon
+    hu: coulomb
+    hy: Կուլոն
+    id: coulomb
+    ilo: kulombio
+    is: kúlomb
+    it: coulomb
+    ja: クーロン
+    jv: Coulomb
+    ka: კულონი
+    kaa: kulon
+    kk: кулон
+    kk-cyrl: кулон
+    ko: 쿨롱
+    ku: coulomb
+    ky: кулон
+    la: coulomb
+    lb: Coulomb
+    li: Coulomb
+    lij: coulomb
+    lt: kulonas
+    lv: kulons
+    lzh: 庫侖
+    mk: кулон
+    ml: കൂളംബ്
+    mn: кулон
+    mr: कूलोंब
+    ms: coulomb
+    mt: coulomb
+    my: ကူးလောင်း
+    nb: coulomb
+    ne: कोलम्ब
+    new: कोलम्ब
+    nl: coulomb
+    nn: coulomb
+    oc: coulomb
+    pl: kulomb
+    pms: coulomb
+    pnb: کولمب
+    pt: coulomb
+    ro: coulomb
+    ru: кулон
+    scn: coulomb
+    sh: kulon
+    sk: coulomb
+    sl: coulomb
+    sr: кулон
+    sr-ec: Кулон
+    sv: coulomb
+    ta: கூலும்
+    tg: кулон
+    th: คูลอมบ์
+    tr: kulomb
+    tt: кулон
+    udm: кулон
+    uk: кулон
+    ur: کولمب
+    uz: kulon
+    vi: coulomb
+    wuu: 库仑
+    yi: קולאמב
+    yue: 庫倫
+    zh: 库仑
+    zh-hans: 库仑
+    zh-hant: 庫侖
+    zh-hk: 庫倫
 ---
-
 # [[Unit~Coulomb]] 
 
 #is_a_/unit_/for_/charge 

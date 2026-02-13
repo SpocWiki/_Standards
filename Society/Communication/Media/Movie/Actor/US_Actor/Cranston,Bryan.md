@@ -1,9 +1,186 @@
 ---
 aliases:
-  - Brian Cranston
-  - Bryan Lee Cranston
-  - Cranston,Bryan
+- Braians Krenstons
+- Brayan Krenston
+- Brian Cranston
+- Bryan Cranston
+- Bryan Lee Cranston
+- Cranston,Bryan
+- Μπράιαν Κράνστον
+- Брајан Кранстон
+- Брайан Крэнстон
+- Брайън Кренстън
+- Браян Кренстон
+- Браян Крэнстан
+- Բրայան Քրենսթոն
+- Պրայըն Քրենսթըն
+- בריאן קראנסטון
+- برائن کرینسٹن
+- براين كرانستون
+- برایان کرانستون
+- بڕایان کرانستن
+- ब्रायन क्राँस्टन
+- ब्रायन क्रान्सटन
+- ब्रायन क्रॅन्स्टन
+- ব্রায়ান ক্র্যানস্টন
+- ਬ੍ਰਾਇਨ ਕਰੈਨਸਟਨ
+- பிரையன் கிரான்ஸ்டன்
+- ബ്രയാൻ ക്രാൺസ്റ്റൺ
+- ไบรอัน แครนสตัน
+- ბრაიან კრენსტონი
+- ブライアン・クランストン
+- 布莱恩·科兰斯顿
+- 布萊恩·科蘭斯頓
+- 布賴恩·克蘭斯頓
+- 布赖恩·克兰斯顿
+- 拜仁·康斯顿
+- 拜仁鈞士頓
+- 拜恩卡蘭斯頓
+- 브라이언 크랜스턴
 has_id_wikidata: Q23547
+dv_has_:
+  name_:
+    af: Bryan Cranston
+    an: Bryan Cranston
+    ar: براين كرانستون
+    arz: براين كرانستون
+    ast: Bryan Cranston
+    az: Brayan Krenston
+    azb: برایان کرانستون
+    bar: Bryan Cranston
+    bcl: Bryan Cranston
+    be: Браян Крэнстан
+    be-tarask: Браян Крэнстан
+    bg: Брайън Кренстън
+    bm: Bryan Cranston
+    bn: ব্রায়ান ক্র্যানস্টন
+    br: Bryan Cranston
+    bs: Bryan Cranston
+    ca: Bryan Cranston
+    ckb: بڕایان کرانستن
+    co: Bryan Cranston
+    cs: Bryan Cranston
+    cy: Bryan Cranston
+    da: Bryan Cranston
+    de: Bryan Cranston
+    de-at: Bryan Cranston
+    de-ch: Bryan Cranston
+    el: Μπράιαν Κράνστον
+    en: Bryan Cranston
+    en-ca: Bryan Cranston
+    en-gb: Bryan Cranston
+    eo: Bryan Cranston
+    es: Bryan Cranston
+    et: Bryan Cranston
+    eu: Bryan Cranston
+    ext: Bryan Cranston
+    fa: برایان کرانستون
+    fi: Bryan Cranston
+    fr: Bryan Cranston
+    frc: Bryan Cranston
+    frp: Bryan Cranston
+    fur: Bryan Cranston
+    fy: Bryan Cranston
+    ga: Bryan Cranston
+    gd: Bryan Cranston
+    gl: Bryan Cranston
+    gsw: Bryan Cranston
+    haw: Bryan Cranston
+    he: בריאן קראנסטון
+    hr: Bryan Cranston
+    hu: Bryan Cranston
+    hy: Բրայան Քրենսթոն
+    hyw: Պրայըն Քրենսթըն
+    ia: Bryan Cranston
+    id: Bryan Cranston
+    ie: Bryan Cranston
+    ig: Bryan Cranston
+    io: Bryan Cranston
+    is: Bryan Cranston
+    it: Bryan Cranston
+    ja: ブライアン・クランストン
+    jam: Bryan Cranston
+    ka: ბრაიან კრენსტონი
+    kab: Bryan Cranston
+    kg: Bryan Cranston
+    kk: Брайан Крэнстон
+    ko: 브라이언 크랜스턴
+    ky: Брайан Крэнстон
+    lb: Bryan Cranston
+    li: Bryan Cranston
+    lij: Bryan Cranston
+    lt: Bryan Cranston
+    lv: Braians Krenstons
+    mai: ब्रायन क्रान्सटन
+    mg: Bryan Cranston
+    min: Bryan Cranston
+    mk: Брајан Кранстон
+    ml: ബ്രയാൻ ക്രാൺസ്റ്റൺ
+    mr: ब्रायन क्रॅन्स्टन
+    ms: Bryan Cranston
+    mul: Bryan Cranston
+    nah: Bryan Cranston
+    nap: Bryan Cranston
+    nb: Bryan Cranston
+    nds: Bryan Cranston
+    nds-nl: Bryan Cranston
+    ne: ब्रायन क्राँस्टन
+    nl: Bryan Cranston
+    nn: Bryan Cranston
+    nov: Bryan Cranston
+    nrm: Bryan Cranston
+    oc: Bryan Cranston
+    pa: ਬ੍ਰਾਇਨ ਕਰੈਨਸਟਨ
+    pap: Bryan Cranston
+    pcd: Bryan Cranston
+    pdc: Bryan Cranston
+    pl: Bryan Cranston
+    pms: Bryan Cranston
+    prg: Bryan Cranston
+    pt: Bryan Cranston
+    pt-br: Bryan Cranston
+    rgn: Bryan Cranston
+    rm: Bryan Cranston
+    ro: Bryan Cranston
+    ru: Брайан Крэнстон
+    sc: Bryan Cranston
+    scn: Bryan Cranston
+    sco: Bryan Cranston
+    sh: Bryan Cranston
+    sk: Bryan Cranston
+    sl: Bryan Cranston
+    sq: Bryan Cranston
+    sr: Брајан Кранстон
+    sr-el: Bryan Cranston
+    sv: Bryan Cranston
+    sw: Bryan Cranston
+    ta: பிரையன் கிரான்ஸ்டன்
+    th: ไบรอัน แครนสตัน
+    tl: Bryan Cranston
+    tpi: Bryan Cranston
+    tr: Bryan Cranston
+    uk: Браян Кренстон
+    ur: برائن کرینسٹن
+    uz: Bryan Cranston
+    vec: Bryan Cranston
+    vi: Bryan Cranston
+    vls: Bryan Cranston
+    vmf: Bryan Cranston
+    vo: Bryan Cranston
+    wa: Bryan Cranston
+    war: Bryan Cranston
+    wo: Bryan Cranston
+    wuu: 布莱恩·科兰斯顿
+    xmf: ბრაიან კრენსტონი
+    yo: Bryan Cranston
+    yue: 拜仁鈞士頓
+    zh: 布萊恩·科蘭斯頓
+    zh-cn: 布赖恩·克兰斯顿
+    zh-hans: 布莱恩·科兰斯顿
+    zh-hant: 布賴恩·克蘭斯頓
+    zh-hk: 拜恩卡蘭斯頓
+    zh-my: 拜仁·康斯顿
+    zu: Bryan Cranston
 ---
 ## #has_/text_of_/abstract 
 

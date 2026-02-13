@@ -1,8 +1,100 @@
 ---
 aliases:
-  - Michael Madsen
-  - Madsen,Michael
+- Madsen,Michael
+- Maikls Madsens
+- Majkl Madsen
+- Michael Madsen
+- Μάικλ Μάντσεν
+- Мајкл Мадсен
+- Майкл Медсен
+- Майкл Мэдсен
+- Майкл Мэдсэн
+- Майкъл Медсън
+- Մայքլ Մեդսեն
+- מייקל מדסן
+- مايكل مادسن
+- مایکل مدسن
+- مایکڵ مادسن
+- మైఖేల్ మ్యాడ్సెన్
+- მაიკლ მედსენი
+- マイケル・マドセン
+- 米高·密臣
+- 迈克尔·马德森
+- 邁克爾·馬德森
+- 麥可·馬德森
+- 마이클 마센
 has_id_wikidata: Q220584
+dv_has_:
+  name_:
+    af: Michael Madsen
+    ar: مايكل مادسن
+    arz: مايكل مادسن
+    ast: Michael Madsen
+    azb: مایکل مدسن
+    be: Майкл Мэдсен
+    be-tarask: Майкл Мэдсэн
+    bg: Майкъл Медсън
+    ca: Michael Madsen
+    ckb: مایکڵ مادسن
+    cs: Michael Madsen
+    cy: Michael Madsen
+    de: Michael Madsen
+    el: Μάικλ Μάντσεν
+    eo: Michael Madsen
+    es: Michael Madsen
+    eu: Michael Madsen
+    fa: مایکل مدسن
+    fi: Michael Madsen
+    fo: Michael Madsen
+    fr: Michael Madsen
+    ga: Michael Madsen
+    gl: Michael Madsen
+    he: מייקל מדסן
+    hr: Michael Madsen
+    hu: Michael Madsen
+    hy: Մայքլ Մեդսեն
+    id: Michael Madsen
+    is: Michael Madsen
+    it: Michael Madsen
+    ja: マイケル・マドセン
+    ka: მაიკლ მედსენი
+    kk: Майкл Мэдсен
+    kl: Michael Madsen
+    ko: 마이클 마센
+    lt: Michael Madsen
+    lv: Maikls Madsens
+    mg: Michael Madsen
+    mul: Michael Madsen
+    nb: Michael Madsen
+    nl: Michael Madsen
+    nn: Michael Madsen
+    pap: Michael Madsen
+    pt: Michael Madsen
+    pt-br: Michael Madsen
+    ro: Michael Madsen
+    ru: Майкл Мэдсен
+    sh: Michael Madsen
+    sk: Michael Madsen
+    sl: Michael Madsen
+    sq: Michael Madsen
+    sr: Мајкл Мадсен
+    sr-ec: Мајкл Мадсен
+    sr-el: Majkl Madsen
+    sv: Michael Madsen
+    te: మైఖేల్ మ్యాడ్సెన్
+    tg-cyrl: Майкл Мэдсен
+    tr: Michael Madsen
+    uk: Майкл Медсен
+    vo: Michael Madsen
+    xmf: მაიკლ მედსენი
+    yo: Michael Madsen
+    zh: 迈克尔·马德森
+    zh-cn: 迈克尔·马德森
+    zh-hans: 迈克尔·马德森
+    zh-hant: 邁克爾·馬德森
+    zh-hk: 米高·密臣
+    zh-sg: 迈克尔·马德森
+    zh-tw: 麥可·馬德森
 ---
 #is_/different_from :: [[Marsden,James]] 
 

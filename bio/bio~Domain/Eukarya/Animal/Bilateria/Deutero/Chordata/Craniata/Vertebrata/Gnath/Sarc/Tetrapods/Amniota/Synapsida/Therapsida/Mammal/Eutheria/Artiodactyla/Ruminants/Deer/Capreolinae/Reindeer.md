@@ -1,19 +1,56 @@
 ---
 aliases:
-  - Rangifer_tarandus
-  - reindeer
-  - caribou
-  - Rentier
-  - Ren
-  - Reindeer
+- caribou
+- Rangiferini
+- rangiferinis
+- Rangifer_tarandus
+- reindeer
+- Ren
+- Rentier
 has_id_wikidata: Q18460419
-parent_taxon: "[[WD~Capreolinae,118722]]"
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[WD~Capreolinae,118722]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rangifer%20tarandus%20%28Wroclaw%20zoo%29%20-%20young%20-%20face.JPG
 taxon_name: Rangiferini
+dv_has_:
+  name_:
+    an: Rangiferini
+    ast: Rangiferini
+    bg: Rangiferini
+    ca: rangiferinis
+    ceb: Rangiferini
+    de: Rangiferini
+    en: Rangiferini
+    eo: Rangiferini
+    es: Rangiferini
+    eu: Rangiferini
+    ext: Rangiferini
+    fi: Rangiferini
+    fr: Rangiferini
+    ga: Rangiferini
+    gl: Rangiferini
+    hu: Rangiferini
+    ia: Rangiferini
+    ie: Rangiferini
+    io: Rangiferini
+    it: Rangiferini
+    la: Rangiferini
+    mul: Rangiferini
+    nl: Rangiferini
+    oc: Rangiferini
+    pl: Rangiferini
+    pt: Rangiferini
+    pt-br: Rangiferini
+    ro: Rangiferini
+    ru: Rangiferini
+    sl: Rangiferini
+    sq: Rangiferini
+    uk: Rangiferini
+    vi: Rangiferini
+    vo: Rangiferini
+    war: Rangiferini
 ---
-
 # [[Reindeer]] 
 
 #is_/same_as :: [[WD~Rangifer_tarandus,39624]] 

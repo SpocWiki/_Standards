@@ -1,47 +1,203 @@
 ---
 aliases:
-  - Fell
-  - Pelt
-  - Pelz
-  - Fur
+- ahiwin
+- Barahibo
+- blană
+- bulu
+- dlaka
+- Fell
+- felo
+- feur
+- fionnadh
+- fourrure
+- Fur
+- Furo
+- futro
+- Gunâ
+- Gëzofi
+- Ilaje
+- kailis
+- karvastik
+- kažokāda
+- Krzno
+- Kürk
+- Loðskinn
+- Lông thú
+- Millmaqara
+- pelaje
+- pelame
+- pelatge
+- pelaxe
+- Pelissa
+- pelliccia
+- Pellis
+- Pellizo
+- pelo
+- pels
+- Pelt
+- Pelz
+- pełìcia
+- prém
+- päls
+- Rambut hewan
+- srst
+- Srsť
+- turkis
+- Tɔnɛ nɛ ɖɩhʋndʋ tɔɔla
+- vacht
+- Wulu kéwan
+- Xəz
+- Çăм
+- Γούνα
+- Вльна
+- Квас
+- козина
+- крзно
+- ку
+- Мех
+- поўсць
+- поўсьць
+- ТӀаргӀа
+- шерсть
+- մորթի
+- פרווה
+- خز
+- سمور
+- فرو
+- ऊर्णाजिन
+- ਫਰ
+- ஃபர்
+- രോമക്കുപ്പായം
+- ขนสัตว์
+- သားမွေး
+- 毛皮
+- 裘
+- 모피
 has_id_wikidata: Q197204
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~hide,3291230]]'
-  - '[[_Standards/WikiData/WD~fur,15401728]]'
-  - '[[_Standards/WikiData/WD~fur,108696356]]'
+- '[[_Standards/WikiData/WD~hide,3291230]]'
+- '[[_Standards/WikiData/WD~fur,15401728]]'
+- '[[_Standards/WikiData/WD~fur,108696356]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~hide,3291230]]'
-  - '[[_Standards/WikiData/WD~skin,1074]]'
+- '[[_Standards/WikiData/WD~hide,3291230]]'
+- '[[_Standards/WikiData/WD~skin,1074]]'
 part_of: '[[_Standards/WikiData/WD~horse,726]]'
 OmegaWiki_Defined_Meaning: 1590
 Dewey_Decimal_Classification:
-  - 685
-  - 675
-  - 639.117
-  - 675.3
-  - 636.97
-  - 745.593
+- 685
+- 675
+- 639.117
+- 675.3
+- 636.97
+- 745.593
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fur%20crossfox.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Fell.ogg
 Commons_category: Furs
 MeSH_tree_code:
-  - A13.078
-  - A17.360.148
+- A13.078
+- A17.360.148
 UMLS_CUI: C0222052
 OpenStreetMap_tag_or_key: Tag:clothes=fur
+dv_has_:
+  name_:
+    an: Pellizo
+    ar: فرو
+    ast: pelame
+    atj: ahiwin
+    av: Квас
+    az: Xəz
+    bcl: Barahibo
+    be: поўсць
+    be-tarask: поўсьць
+    bg: козина
+    br: feur
+    bs: Krzno
+    ca: pelatge
+    ce: ТӀаргӀа
+    cs: srst
+    cu: Вльна
+    cv: Çăм
+    da: pels
+    de: Pelz
+    el: Γούνα
+    en: fur
+    eo: felo
+    es: pelaje
+    et: karvastik
+    eu: Ilaje
+    fa: خز
+    fi: turkis
+    fr: fourrure
+    fy: Pels
+    ga: fionnadh
+    gl: pelaxe
+    he: פרווה
+    hi: ऊर्णाजिन
+    hr: Krzno
+    hu: prém
+    hy: մորթի
+    id: Rambut hewan
+    io: Furo
+    is: Loðskinn
+    it: pelliccia
+    ja: 毛皮
+    jv: Wulu kéwan
+    kbp: Tɔnɛ nɛ ɖɩhʋndʋ tɔɔla
+    kk: Мех
+    ko: 모피
+    kv: ку
+    la: Pellis
+    lt: kailis
+    lv: kažokāda
+    lzh: 裘
+    mk: крзно
+    ml: രോമക്കുപ്പായം
+    ms: bulu
+    my: သားမွေး
+    nb: pels
+    nds: Pelz
+    nl: vacht
+    nn: pels
+    oc: Pelissa
+    pa: ਫਰ
+    pl: futro
+    pt: pelo
+    pt-br: pelo
+    qu: Millmaqara
+    ro: blană
+    ru: шерсть
+    rup: Gunâ
+    sh: Krzno
+    sk: Srsť
+    sl: dlaka
+    sq: Gëzofi
+    sr: крзно
+    sr-ec: крзно
+    sr-el: krzno
+    su: Bulu
+    sv: päls
+    ta: ஃபர்
+    th: ขนสัตว์
+    tr: Kürk
+    uk: шерсть
+    ur: سمور
+    vec: pełìcia
+    vi: Lông thú
+    wuu: 毛皮
+    yue: 毛皮
+    zh: 毛皮
 ---
-
 # [[Fur]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Fur,197204|WD~Fur,197204]] 

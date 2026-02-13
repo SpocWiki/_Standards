@@ -1,18 +1,192 @@
 ---
-has_time_started: 1896-01-01 
+has_time_started: 1896-01-01
 aliases:
-  - Jeux olympiques
-  - Olympics
-  - Olympic Games
-  - Olympic_Games
+- Aulinzbizgwz yindungvei
+- C'hoarioù Olimpek
+- Chuegos Olimpicos
+- Cluichí Oilimpeacha
+- Djeus olimpikes
+- Djuegos Olimpikos
+- Egwuregwu Olympic
+- Gammes Olŷmpiques
+- Gasar Olympic
+- Gemau Olympaidd Modern
+- Gieugh olìmpich modern
+- Gieus olimpics
+- giochi olimpici
+- Giogos olìmpicos
+- Gwariow Olympek
+- igrzyska olimpijskie
+- Jeghes olimpics
+- Jeux olympiques
+- Jocos Olympic
+- Jocs Olímpics
+- Jocurile Olimpice
+- Jogos Olímpicos
+- Jogos Oulímpicos
+- Juas Olimpial
+- Juegos Olímpicos
+- Juegus Olímpicus
+- Juoche olimpiche
+- Jus olimpikes
+- Jé olenpik
+- Jòcs Olimpics
+- Jòcura Olìmpici
+- Kayê olimpiki
+- Lalao Olimpika
+- Logħob Olimpiku
+- Lojërat Olimpike
+- Lîstikên Olîmpiyadê
+- Michezo ya Olimpiki
+- Na h-Olympics
+- nüüdisaegsed olümpiamängud
+- Olimpiada
+- Olimpiade
+- Olimpiadukižat
+- Olimpiadvändod
+- olimpiai játékok
+- Olimpiala Ludi
+- Olimpic Ludes
+- Olimpicayoh neāhuiltiliztli
+- Olimpiese Spele
+- Olimpiiki aleɣya
+- olimpijske igre
+- Olimpik oyunlar
+- Olimpikaj Ludoj
+- Olimpikong Karawat
+- Olimpinės žaidynės
+- olimpiskās spēles
+- Olimpiya oyunları
+- Olimpiya oʻyinlari
+- Olimpiyada oyınları
+- Olimpiyat Oyunları
+- Olimpėnės žaidīnės
+- Olinpiar Jokoak
+- Olympesch Spiller
+- Olympia
+- olympiagilvvut
+- olympialaiset
+- olympialiih
+- Olympic Games
+- Olympic Gemmes
+- Olympic Yun-thung-fi
+- Olympic Ông-dông-huôi
+- Olympic Ūn-tōng-hoē
+- Olympics
+- Olympic_Games
+- olympijské hry
+- Olympisc Gamen
+- Olympische Spelen
+- Olympische Speule
+- Olympische Speêl'n
+- Olympische Spiele
+- Olympisk Spalen
+- olympiska spelen
+- Olympiske hry
+- Olympiske lege
+- olympiske leikar
+- olympiske leker
+- Olympiskir leikir
+- Olympsche Spele
+- Olympyske Spullen
+- Olümpiamängoq
+- Palarong Olimpiko
+- Pauyag Olimpiko
+- Sukan Olimpik
+- Ta'aloga Olimipeka
+- Taumāhekeheke o Te Ao
+- Thế vận hội
+- Ulimpiku pukllaykuna
+- Uraren ulempiyen
+- Urarn Ulambiyn
+- Weganan Olimpico
+- Weganan Olímpiko
+- Xogos Olímpicos
+- Xuegos olímpicos
+- Zeughi olimpichi
+- zogo ołìnpego
+- Àwọn Ìdíje Òlímpíkì
+- Ñembosaraipavẽ
+- Ólympíuleikarnir
+- Ολυμπιακοί Αγώνες
+- Алімпійскія гульні
+- Аьланпхьа ловзараш
+- Бозиҳои Олимпӣ
+- Олімпійскы гры
+- Олімпійські ігри
+- Олимп вăййисем
+- Олимпијске игре
+- Олимпиада
+- Олимпиада ойындары
+- Олимпиадатә хәмаррақәа
+- Олимпиин наадан
+- олимпий модмаш
+- Олимпийн ловзарш
+- Олимпийн наадам
+- Олимпийски игри
+- Олимпийские игры
+- Олимпийскӧй ворсӧмъяс
+- Олимпиконь налхкоматне
+- Олимписки игри
+- Олимпия оонньуулара
+- Олимпия уеннары
+- Олимпия уйындары
+- Олимпиядин къугъунар
+- Ողիմպիական Խաղեր
+- Օլիմպիական խաղեր
+- אלימפיאדע
+- המשחקים האולימפיים
+- الألعاب الأولمبية
+- العاب اوليمبيه
+- المپیک
+- اولمپک کھیڈاں
+- اولمپکس
+- اولمپکس گیمز
+- اولمپڪ رانديون
+- اولمپیک اویونلاری
+- اولَمپِک کھیل
+- بازیهای المپیک
+- سوکن اوليمڤيک
+- لألعاب لأولمپية
+- یارییەکانی ئۆڵمپیک
+- އޮލީމްޕީކްސް
+- आर्विल्ले ऑलिंपिक खेळ
+- ऑलिंपिक
+- ओलम्पिक कासा
+- ओलम्पिक खेल
+- ओलम्पिक् क्रीडा
+- অলিম্পিক
+- অলিম্পিক ক্রীড়া প্রতিযোগিতা
+- ਉਲੰਪਿਕ ਖੇਡਾਂ
+- ଅଲିମ୍ପିକ କ୍ରୀଡ଼ା
+- ஒலிம்பிக் விளையாட்டுக்கள்
+- ఒలింపిక్ క్రీడలు
+- ಒಲಂಪಿಕ್ ಕ್ರೀಡಾಕೂಟ
+- ಒಲಿಂಪಿಕ್ಸ್ ಕ್ರೀಡೆಗಳ ಬಗ್ಗೆ ವಿವರಗಳು
+- ഒളിമ്പിക്സ്
+- ඔලිම්පික් ක්රීඩා
+- กีฬาโอลิมปิก
+- ກິລາໂອແລມປິກ
+- ཨའོ་ལིན་ཕིག་ལུས་རྩལ་འགྲན་ཚོགས།
+- အိုလံပစ် အားကစားပွဲတော်
+- ოლიმპიური თამაშები
+- የኦሎምፒክ ጨዋታዎች
+- កីឡាអូឡាំពិក
+- ᱚᱞᱤᱢᱯᱤᱠ ᱠᱷᱮᱞᱚᱸᱰ
+- ⵓⵔⴰⵔⵏ ⵉⵡⵍⴰⵎⴱⴱⵢⴰⵏⵏ
+- 奥林匹克运动会
+- 奧林匹克运动会
+- 奧林匹克運動會
+- 近代オリンピック
+- 올림픽
 has_id_wikidata: Q5389
 X_Twitter_username:
-  - juegosolimpicos
-  - Olympics
+- juegosolimpicos
+- Olympics
 IPTC_NewsCode: mediatopic/20001177
 subreddit:
-  - ohlympics
-  - olympics
+- ohlympics
+- olympics
 Archive_of_Our_Own_tag: Olympics RPF
 Libris_URI: wt79chnf3bbkvh7
 Baidu_Tieba_name: 奥运会
@@ -21,27 +195,27 @@ follows: '[[_Standards/WikiData/WD~ancient_Olympic_Games,188468]]'
 sport: '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
 anthem: '[[_Standards/WikiData/WD~Olympic_Hymn,215484]]'
 different_from:
-  - '[[_Standards/WikiData/WD~olympiad,221956]]'
-  - '[[_Standards/WikiData/WD~Q130749517,130749517]]'
+- '[[_Standards/WikiData/WD~olympiad,221956]]'
+- '[[_Standards/WikiData/WD~Q130749517,130749517]]'
 sponsor: '[[_Standards/WikiData/WD~Visa_Inc.,328840]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 trophy_awarded: '[[_Standards/WikiData/WD~Olympic_medal,636830]]'
 main_regulatory_text: '[[_Standards/WikiData/WD~Olympic_Charter,877541]]'
 motto: '[[_Standards/WikiData/WD~Citius,_Altius,_Fortius_Communiter,1093409]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Olympics,5497326]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_Olympic_games,5615691]]'
-  - '[[_Standards/WikiData/WD~Template_NavigationOlympicChampionsFigureSkatingIcedance,6564527]]'
-  - '[[_Standards/WikiData/WD~Template_Olympic_Games,6817590]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Olympic_games,5615691]]'
+- '[[_Standards/WikiData/WD~Template_NavigationOlympicChampionsFigureSkatingIcedance,6564527]]'
+- '[[_Standards/WikiData/WD~Template_Olympic_Games,6817590]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Olympics,8288491]]'
 movement: '[[_Standards/WikiData/WD~Olympic_Movement,11292772]]'
 history_of_topic:
-  - '[[_Standards/WikiData/WD~timeline_of_the_Olympic_Games,11292783]]'
-  - '[[_Standards/WikiData/WD~history_of_the_Olympic_Games,108056111]]'
+- '[[_Standards/WikiData/WD~timeline_of_the_Olympic_Games,11292783]]'
+- '[[_Standards/WikiData/WD~history_of_the_Olympic_Games,108056111]]'
 flag: '[[_Standards/WikiData/WD~Olympic_flag,14624058]]'
 instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25554668,25554668]]'
@@ -53,8 +227,8 @@ social_media_followers: 15300000
 organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
 OmegaWiki_Defined_Meaning: 757381
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
 U_S_National_Archives_Identifier: 10644012
 TikTok_username: olympics
 VK_username: olympics
@@ -69,8 +243,212 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20flag%2
 WordLift_URL: http://data.thenextweb.com/tnw/entity/olympic_games
 official_website: https://olympics.com/en/
 RIA_Novosti_reference: 1604374469
+dv_has_:
+  name_:
+    ab: Олимпиадатә хәмаррақәа
+    af: Olimpiese Spele
+    am: የኦሎምፒክ ጨዋታዎች
+    an: Chuegos Olimpicos
+    ang: Olympisc Gamen
+    anp: ओलम्पिक खेल
+    ar: الألعاب الأولمبية
+    ary: لألعاب لأولمپية
+    arz: العاب اوليمبيه
+    as: অলিম্পিক
+    ast: Xuegos olímpicos
+    az: Olimpiya oyunları
+    azb: اولمپیک اویونلاری
+    ba: Олимпия уйындары
+    bcl: Olimpikong Karawat
+    be: Алімпійскія гульні
+    be-tarask: Алімпійскія гульні
+    bg: Олимпийски игри
+    bn: অলিম্পিক ক্রীড়া প্রতিযোগিতা
+    bo: ཨའོ་ལིན་ཕིག་ལུས་རྩལ་འགྲན་ཚོགས།
+    br: C'hoarioù Olimpek
+    bs: Olimpijske igre
+    bxr: Олимпиин наадан
+    ca: Jocs Olímpics
+    cdo: Olympic Ông-dông-huôi
+    ce: Олимпийн ловзарш
+    ckb: یارییەکانی ئۆڵمپیک
+    crh: Olimpik oyunlar
+    cs: olympijské hry
+    cv: Олимп вăййисем
+    cy: Gemau Olympaidd Modern
+    da: Olympiske lege
+    de: Olympische Spiele
+    de-ch: Olympische Spiele
+    diq: Kayê olimpiki
+    dv: އޮލީމްޕީކްސް
+    el: Ολυμπιακοί Αγώνες
+    en: Olympic Games
+    en-ca: Olympic Games
+    en-gb: Olympic Games
+    eo: Olimpikaj Ludoj
+    es: Juegos Olímpicos
+    et: nüüdisaegsed olümpiamängud
+    eu: Olinpiar Jokoak
+    ext: Juegus Olímpicus
+    fa: بازیهای المپیک
+    fi: olympialaiset
+    fo: Olympiskir leikir
+    fr: Jeux olympiques
+    frr: Olympisk Spalen
+    fy: Olympyske Spullen
+    ga: Cluichí Oilimpeacha
+    gcr: Jé olenpik
+    gd: Na h-Olympics
+    gl: Xogos Olímpicos
+    gn: Ñembosaraipavẽ
+    gom: आर्विल्ले ऑलिंपिक खेळ
+    gsw: Olympische Spiele
+    ha: Gasar Olympic
+    hak: Olympic Yun-thung-fi
+    he: המשחקים האולימפיים
+    hi: ಒಲಿಂಪಿಕ್ಸ್ ಕ್ರೀಡೆಗಳ ಬಗ್ಗೆ ವಿವರಗಳು
+    hif: Olympic Games
+    hr: Olimpijske igre
+    hsb: Olympiske hry
+    hu: olimpiai játékok
+    hy: Օլիմպիական խաղեր
+    hyw: Ողիմպիական Խաղեր
+    ia: Jocos Olympic
+    id: Olimpiade
+    ie: Olimpic Ludes
+    ig: Egwuregwu Olympic
+    ilo: Olimpiada
+    inh: Аьланпхьа ловзараш
+    io: Olimpiala Ludi
+    is: Ólympíuleikarnir
+    it: giochi olimpici
+    ja: 近代オリンピック
+    jv: Olimpiade
+    ka: ოლიმპიური თამაშები
+    kaa: Olimpiyada oyınları
+    kab: Uraren ulempiyen
+    kbp: Olimpiiki aleɣya
+    kk: Олимпиада ойындары
+    km: កីឡាអូឡាំពិក
+    kn: ಒಲಂಪಿಕ್ ಕ್ರೀಡಾಕೂಟ
+    ko: 올림픽
+    ks: اولَمپِک کھیل
+    ku: Lîstikên Olîmpiyadê
+    kv: Олимпийскӧй ворсӧмъяс
+    kw: Gwariow Olympek
+    ky: Олимпиада
+    la: Olympia
+    lad: Djuegos Olimpikos
+    lb: Olympesch Spiller
+    lez: Олимпиядин къугъунар
+    lfn: Juas Olimpial
+    li: Olympische Speule
+    lij: Zeughi olimpichi
+    lld: Jeghes olimpics
+    lo: ກິລາໂອແລມປິກ
+    lt: Olimpinės žaidynės
+    lv: olimpiskās spēles
+    lzh: 奧林匹克運動會
+    mai: ओलम्पिक खेल
+    map-bms: Olimpiade
+    mdf: Олимпиконь налхкоматне
+    mg: Lalao Olimpika
+    mhr: олимпий модмаш
+    mi: Taumāhekeheke o Te Ao
+    mk: Олимписки игри
+    ml: ഒളിമ്പിക്സ്
+    mn: Олимпийн наадам
+    mr: ऑलिंपिक
+    ms: Sukan Olimpik
+    ms-arab: سوکن اوليمڤيک
+    mt: Logħob Olimpiku
+    mwl: Jogos Oulímpicos
+    my: အိုလံပစ် အားကစားပွဲတော်
+    mzn: المپیک
+    nah: Olimpicayoh neāhuiltiliztli
+    nan: Olympic Ūn-tōng-hoē
+    nap: Juoche olimpiche
+    nb: olympiske leker
+    nds: Olympsche Spele
+    ne: ओलम्पिक खेल
+    new: ओलम्पिक कासा
+    nl: Olympische Spelen
+    nn: olympiske leikar
+    nrm: Gammes Olŷmpiques
+    oc: Jòcs Olimpics
+    olo: Olimpiadukižat
+    or: ଅଲିମ୍ପିକ କ୍ରୀଡ଼ା
+    pa: ਉਲੰਪਿਕ ਖੇਡਾਂ
+    pap: Weganan Olímpiko
+    pap-aw: Weganan Olimpico
+    pcd: Jus olimpikes
+    pl: igrzyska olimpijskie
+    pms: Gieugh olìmpich modern
+    pnb: اولمپک کھیڈاں
+    pt: Jogos Olímpicos
+    pt-br: Jogos Olímpicos
+    qu: Ulimpiku pukllaykuna
+    rm: Gieus olimpics
+    ro: Jocurile Olimpice
+    ru: Олимпийские игры
+    rue: Олімпійскы гры
+    sa: ओलम्पिक् क्रीडा
+    sah: Олимпия оонньуулара
+    sat: ᱚᱞᱤᱢᱯᱤᱠ ᱠᱷᱮᱞᱚᱸᱰ
+    sc: Giogos olìmpicos
+    scn: Jòcura Olìmpici
+    sco: Olympic Gemmes
+    sd: اولمپڪ رانديون
+    se: olympiagilvvut
+    sgs: Olimpėnės žaidīnės
+    sh: Olimpijske igre
+    shi: Urarn Ulambiyn
+    si: ඔලිම්පික් ක්රීඩා
+    sk: Olympijské hry
+    skr: اولمپکس گیمز
+    sl: olimpijske igre
+    sm: Ta'aloga Olimipeka
+    smn: olympialiih
+    sq: Lojërat Olimpike
+    sr: Олимпијске игре
+    su: Olimpiade
+    sv: olympiska spelen
+    sw: Michezo ya Olimpiki
+    ta: ஒலிம்பிக் விளையாட்டுக்கள்
+    te: ఒలింపిక్ క్రీడలు
+    tg: Бозиҳои Олимпӣ
+    th: กีฬาโอลิมปิก
+    tl: Palarong Olimpiko
+    tr: Olimpiyat Oyunları
+    tt: Олимпия уеннары
+    tt-cyrl: Олимпия уеннары
+    udm: Олимпиада
+    uk: Олімпійські ігри
+    ur: اولمپکس
+    uz: Olimpiya oʻyinlari
+    vec: zogo ołìnpego
+    vep: Olimpiadvändod
+    vi: Thế vận hội
+    vro: Olümpiamängoq
+    wa: Djeus olimpikes
+    war: Pauyag Olimpiko
+    wuu: 奧林匹克运动会
+    yi: אלימפיאדע
+    yo: Àwọn Ìdíje Òlímpíkì
+    yue: 奧林匹克運動會
+    za: Aulinzbizgwz yindungvei
+    zea: Olympische Speêl'n
+    zgh: ⵓⵔⴰⵔⵏ ⵉⵡⵍⴰⵎⴱⴱⵢⴰⵏⵏ
+    zh: 奥林匹克运动会
+    zh-cn: 奥林匹克运动会
+    zh-hans: 奥林匹克运动会
+    zh-hant: 奧林匹克運動會
+    zh-hk: 奧林匹克運動會
+    zh-mo: 奧林匹克運動會
+    zh-my: 奥林匹克运动会
+    zh-sg: 奥林匹克运动会
+    zh-tw: 奧林匹克運動會
 ---
-
 # [[Olympic_Games]] 
 
 #has_/url_for_/content :: https://olympics.com/en/olympic-games 

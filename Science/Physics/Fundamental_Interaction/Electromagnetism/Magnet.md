@@ -1,8 +1,251 @@
 ---
 has_id_wikidata: Q11421
+dv_has_:
+  name_:
+    af: Magneet
+    am: መግነጢስ
+    an: Imán
+    ar: مغناطيس
+    ary: مغناطيس
+    as: চুম্বক
+    ast: Imán
+    ay: Achkatasiri
+    az: Maqnit
+    azb: ماقنیت
+    ba: магнит
+    bar: Magnet
+    bbc: Bosi Barani
+    be: магніт
+    be-tarask: магніт
+    bg: Магнит
+    bn: চুম্বক
+    bs: Magnet
+    bxr: Суранзан
+    ca: imant
+    cdo: Cṳ̀-tiék
+    ckb: موگناتیس
+    crh: mıqnatis
+    cs: magnet
+    cv: Магнит
+    cy: Magnet
+    da: magnet
+    dag: kurima
+    de: Magnet
+    el: Μαγνήτης
+    en: magnet
+    eo: magneto
+    es: imán
+    et: magnet
+    eu: iman
+    fa: آهنربا
+    fi: magneetti
+    fr: aimant
+    frr: Magneet
+    ga: maighnéad
+    gl: imán
+    gsw: Magnet
+    he: מגנט
+    hi: चुम्बक
+    hif: Chumbak loha
+    hr: Magnet
+    ht: Leman
+    hu: állandó mágnes
+    hy: մագնիս
+    ia: Magnete
+    id: Magnet
+    ie: Magnete
+    ik: Nipitchak
+    io: Magneto
+    is: Segull
+    it: magnete
+    ja: 磁石
+    jv: Magnèt
+    ka: მაგნიტი
+    kge: Bosi Barani
+    kk: Магнит
+    kn: ಅಯಸ್ಕಾಂತ
+    ko: 자석
+    ks: مؠقناطیٖس
+    ksh: Mangneet
+    ku: Kişanek
+    ku-latn: Kişanek
+    ky: Магнит
+    la: Magnes
+    li: Magneet
+    lmo: Magnet
+    lt: magnetas
+    lv: magnēts
+    mag: चुम्बक
+    mg: Andriamby
+    min: Basi barani
+    mk: магнет
+    ml: കാന്തം
+    mn: Соронз
+    mnc: ᠰᡝᠯᡝᡳ ᡝᠵᡝᠨ
+    mr: चुंबक
+    ms: magnet
+    my: သံလိုက်
+    nah: Tepoznotztli
+    nan: Khip-chio̍h
+    nb: magnet
+    nds: Magnet
+    ne: चुम्बक
+    new: चुम्बक
+    nl: magneet
+    nn: magnet
+    oc: Asimant
+    om: Maagneetiizimii
+    os: магнит
+    pa: ਚੁੰਬਕ
+    pl: Magnes
+    pms: Magnete
+    pnb: مقناطیس
+    ps: مقناطيس
+    pt: íman
+    qu: K'askachimuq
+    ro: magnet
+    ru: магнит
+    rue: Маґнет
+    scn: Calamita
+    sco: magnet
+    sd: چقمق
+    se: magnehta
+    sgs: Magnets
+    sh: Magnet
+    sje: magniehta
+    sk: Magnet
+    sl: magnet
+    sma: magneete
+    smj: magnehtta
+    smn: magneet
+    sms: magneʹtt
+    sq: Magneti
+    sr: магнет
+    sr-ec: магнет
+    sr-el: magnet
+    su: Magnét
+    sv: magnet
+    sw: Sumaku
+    ta: காந்தம்
+    tcy: ಅಯಸ್ಕಾಂತ
+    te: అయస్కాంతం
+    tg: Оҳанрабо
+    th: แม่เหล็ก
+    tl: batubalani
+    tr: Mıknatıs
+    tt: энә ташы
+    tyv: Сорунза
+    udm: магнит
+    uk: магніт
+    ur: مقناطیس
+    uz: Magnit
+    vec: magneto
+    vep: Magnit
+    vi: Nam châm
+    wa: Inmant
+    war: Batubarani
+    wo: Bijjaan
+    wuu: 磁铁
+    xmf: ჭაჭმენტი
+    yi: מאגנעט
+    yo: Gbéringbérin
+    yue: 攝石
+    zh: 磁鐵
+aliases:
+- Achkatasiri
+- aimant
+- Andriamby
+- Asimant
+- Basi barani
+- batubalani
+- Batubarani
+- Bijjaan
+- Bosi Barani
+- Calamita
+- Chumbak loha
+- Cṳ̀-tiék
+- Gbéringbérin
+- iman
+- imant
+- imán
+- Inmant
+- K'askachimuq
+- Khip-chio̍h
+- Kişanek
+- kurima
+- Leman
+- Maagneetiizimii
+- magneet
+- magneete
+- magneetti
+- magnehta
+- magnehtta
+- Magnes
+- magnet
+- magnetas
+- magnete
+- Magneti
+- magneto
+- Magnets
+- magneʹtt
+- magniehta
+- Magnit
+- Magnèt
+- Magnét
+- magnēts
+- maighnéad
+- Mangneet
+- Maqnit
+- Mıknatıs
+- mıqnatis
+- Nam châm
+- Nipitchak
+- Segull
+- Sumaku
+- Tepoznotztli
+- állandó mágnes
+- íman
+- Μαγνήτης
+- магніт
+- магнет
+- магнит
+- Маґнет
+- Оҳанрабо
+- Соронз
+- Сорунза
+- Суранзан
+- энә ташы
+- մագնիս
+- מאגנעט
+- מגנט
+- آهنربا
+- مؠقناطیٖس
+- ماقنیت
+- مغناطيس
+- مقناطيس
+- مقناطیس
+- موگناتیس
+- چقمق
+- चुंबक
+- चुम्बक
+- চুম্বক
+- ਚੁੰਬਕ
+- காந்தம்
+- అయస్కాంతం
+- ಅಯಸ್ಕಾಂತ
+- കാന്തം
+- แม่เหล็ก
+- သံလိုက်
+- მაგნიტი
+- ჭაჭმენტი
+- መግነጢስ
+- ᠰᡝᠯᡝᡳ ᡝᠵᡝᠨ
+- 攝石
+- 磁石
+- 磁鐵
+- 磁铁
+- 자석
 ---
-
-
 # [[Magnet]] 
 
 #is_/same_as :: [[WD~Magnet,11421]] 

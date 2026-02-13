@@ -1,8 +1,42 @@
 ---
 has_id_wikidata: Q203262
+dv_has_:
+  name_:
+    be: Zilog
+    ca: Zilog
+    cs: Zilog
+    de: Zilog
+    en: Zilog
+    es: ZiLOG
+    fi: Zilog
+    fr: Zilog
+    he: זילוג
+    hr: Zilog
+    hu: Zilog
+    id: Zilog
+    it: ZiLOG
+    ja: ザイログ
+    ko: 자일로그
+    nb: Zilog
+    nl: Zilog
+    pl: ZiLOG
+    pt: Zilog
+    ru: Zilog
+    sco: Zilog
+    sh: Zilog
+    sr: Зилог
+    sv: ZiLOG
+    tt: Zilog
+    tt-cyrl: Zilog
+    uk: Zilog
+    vec: Zilog
+aliases:
+- Zilog
+- Зилог
+- זילוג
+- ザイログ
+- 자일로그
 ---
-
-
 #has_/time_/started :: 1974-06-01
 #has_/creator :: [[Faggin,Federico]] 
 

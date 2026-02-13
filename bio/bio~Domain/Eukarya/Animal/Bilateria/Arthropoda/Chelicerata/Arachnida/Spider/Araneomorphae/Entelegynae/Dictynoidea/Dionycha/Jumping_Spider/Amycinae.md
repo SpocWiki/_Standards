@@ -1,8 +1,46 @@
 ---
 aliases:
-  - Amycinae
+- Amycinae
+- Amycini
+- اميسينى
 title: Amycinae
 has_id_wikidata: Q101445
+dv_has_:
+  name_:
+    an: Amycini
+    arz: اميسينى
+    ast: Amycini
+    bg: Amycini
+    ca: Amycini
+    ceb: Amycini
+    de: Amycini
+    en: Amycini
+    eo: Amycini
+    es: Amycini
+    eu: Amycini
+    ext: Amycini
+    fi: Amycini
+    fr: Amycini
+    ga: Amycini
+    gl: Amycini
+    ia: Amycini
+    ie: Amycini
+    io: Amycini
+    it: Amycini
+    la: Amycini
+    mul: Amycini
+    nl: Amycini
+    oc: Amycini
+    pl: Amycini
+    pt: Amycini
+    pt-br: Amycini
+    ro: Amycini
+    ru: Amycini
+    sq: Amycini
+    uk: Amycini
+    vi: Amycini
+    vo: Amycini
+    war: Amycini
 ---
 # [[Amycinae]] 
 

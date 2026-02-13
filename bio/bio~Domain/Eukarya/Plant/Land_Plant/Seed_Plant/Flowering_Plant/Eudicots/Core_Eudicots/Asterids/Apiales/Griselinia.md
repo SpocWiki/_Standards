@@ -1,8 +1,72 @@
 ---
 aliases:
-  - Griselinia
+- Chi Di thù du
+- Griselinia
+- Griseliniaceae
+- griselinie
+- Grizelinija
+- Гризелини йишвлӓ
+- гризелиния
+- برگپهنها
+- جريسيلينيا
+- 南茱萸属
+- 夷茱萸科
+- 그리셀리니아속
 title: Griselinia
 has_id_wikidata: Q135212
+dv_has_:
+  name_:
+    an: Griselinia
+    arz: جريسيلينيا
+    ast: Griselinia
+    bg: гризелиния
+    bs: Griselinia
+    ca: Griselinia
+    ceb: Griselinia
+    cs: griselinie
+    cy: Griselinia
+    de: Griselinia
+    en: Griselinia
+    en-ca: Griselinia
+    en-gb: Griselinia
+    eo: Griselinia
+    es: Griselinia
+    eu: Griselinia
+    ext: Griselinia
+    fa: برگپهنها
+    fi: Griselinia
+    fr: Griselinia
+    ga: Griselinia
+    gl: Griselinia
+    hr: Grizelinija
+    ia: Griselinia
+    ie: Griselinia
+    io: Griselinia
+    it: Griselinia
+    ko: 그리셀리니아속
+    la: Griselinia
+    mrj: Гризелини йишвлӓ
+    mul: Griselinia
+    nl: Griselinia
+    oc: Griselinia
+    pl: Griseliniaceae
+    pt: Griselinia
+    pt-br: Griselinia
+    ro: Griselinia
+    ru: Гризелиния
+    sq: Griselinia
+    sv: Griselinia
+    uk: Griselinia
+    vi: Chi Di thù du
+    vo: Griselinia
+    war: Griselinia
+    zh: 南茱萸属
+    zh-cn: 夷茱萸科
+    zh-hans: 夷茱萸科
+    zh-hant: 夷茱萸科
+    zh-hk: 夷茱萸科
+    zh-sg: 夷茱萸科
+    zh-tw: 夷茱萸科
 ---
 # [[Griselinia]] 
 

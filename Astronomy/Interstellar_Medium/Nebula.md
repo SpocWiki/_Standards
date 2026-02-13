@@ -1,24 +1,239 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Nebula,42372]]"
-    - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]"
-    - "[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]"
-    - "[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]"
-    - "[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]"
-    - "[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]"
-    - "[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]"
-    - "[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]"
+  - '[[../../WikiData/WD~Nebula,42372]]'
+  - '[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]'
+  - '[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]'
+  - '[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]'
+  - '[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]'
+  - '[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]'
+  - '[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]'
+  - '[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Nebula,42372]]"
-  - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]"
-  - "[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]"
-  - "[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]"
-  - "[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]"
-  - "[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]"
-  - "[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]"
-  - "[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]"
+- '[[../../WikiData/WD~Nebula,42372]]'
+- '[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]'
+- '[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]'
+- '[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]'
+- '[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]'
+- '[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]'
+- '[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]'
+- '[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]'
 has_id_wikidata: Q42372
+dv_has_:
+  name_:
+    af: newel
+    an: Nebulosa
+    anp: निहारिका
+    ar: سديم
+    arz: نيبولا
+    as: নীহাৰিকা
+    ast: Nebulosa
+    az: Dumanlıq
+    ban: Nébula
+    be: Туманнасць
+    be-tarask: туманнасьць
+    bg: Мъглявина
+    bho: नेबुला
+    bjn: Nebula
+    bn: নীহারিকা
+    br: Nivlennad
+    bs: Maglica
+    ca: nebulosa
+    ce: Тача
+    ckb: تەمەستێرە
+    co: Nebulosa
+    cs: mlhovina
+    cv: Тĕтрелĕх (астрофизика)
+    cy: nifwl
+    da: Stjernetåge
+    de: Nebel
+    diq: Nebula
+    el: Νεφέλωμα
+    en: nebula
+    en-us: nebula
+    eo: nebulozo
+    es: nebulosa
+    et: udukogu
+    eu: Nebulosa
+    fa: سحابی
+    fi: kaasusumu
+    fj: Nebula
+    fr: nébuleuse
+    ga: réaltnéal
+    gd: Neul
+    gl: Nebulosa
+    gu: નિહારિકા
+    he: ערפילית
+    hi: नीहारिका
+    hr: maglica
+    ht: Nebilez
+    hu: csillagköd
+    hy: միգամածություն
+    id: Nebula
+    ig: Nebula
+    io: Nebuloso
+    is: Gasþoka
+    it: nebulosa
+    ja: 星雲
+    jv: Nebula
+    ka: ნისლეულები
+    kab: Asignew
+    kk: Тұмандық
+    kn: ನೀಹಾರಿಕೆ
+    ko: 성운
+    ku: Nebuloz
+    kw: niwl-ster
+    la: Nebula
+    lb: Niwwel
+    lfn: nebulosa
+    lld: Nebuleusa
+    lt: Ūkas
+    lv: miglājs
+    min: Nebula
+    mk: маглина
+    ml: നീഹാരിക
+    mr: तेजोमेघ
+    ms: Nebula
+    my: နက်ဗျူလာ
+    nan: Seng-hûn
+    nap: nëbbëlosa
+    nb: stjernetåke
+    ne: नीहारिका
+    nl: nevels en gaswolken
+    nn: Tåke i astronomi
+    nov: nebula
+    oc: nebulosa
+    om: Balbala’a
+    or: ନୀହାରିକା
+    os: мигъгонд
+    pa: ਨੈਬਿਊਲਾ
+    pl: mgławica
+    pnb: بدلی
+    pt: nebulosa
+    pt-br: nebulosa
+    ro: nebuloasă
+    ru: туманность
+    scn: nibbulusa
+    sh: Маглине
+    si: නීහාරිකා
+    sk: Hmlovina
+    sl: meglica
+    sr: маглина
+    sr-ec: маглина
+    sr-el: maglina
+    su: Nébula
+    sv: nebulosa
+    sw: Nebula
+    ta: நெபுலா
+    tg: Туманот
+    tg-cyrl: туманот
+    th: เนบิวลา
+    ti: ኔቡላ
+    tl: nebula
+    tr: Bulutsu
+    tt: томанлык
+    tt-cyrl: томанлык
+    tum: Nebula
+    uk: галактична туманність
+    ur: سحابیہ
+    uz: Tumanliklar
+    vi: Tinh vân
+    war: Nebula
+    wuu: 星云
+    xmf: ნირსეული
+    yue: 星雲
+    za: Fwjndaundeiq
+    zh: 星云
+    zu: UmQongo
+aliases:
+- Asignew
+- Balbala’a
+- Bulutsu
+- csillagköd
+- Dumanlıq
+- Fwjndaundeiq
+- Gasþoka
+- Hmlovina
+- kaasusumu
+- maglica
+- maglina
+- meglica
+- mgławica
+- miglājs
+- mlhovina
+- Nebel
+- Nebilez
+- Nebula
+- Nebuleusa
+- nebuloasă
+- nebulosa
+- Nebuloso
+- Nebuloz
+- nebulozo
+- Neul
+- nevels en gaswolken
+- newel
+- nibbulusa
+- nifwl
+- Nivlennad
+- niwl-ster
+- Niwwel
+- Nébula
+- nébuleuse
+- nëbbëlosa
+- réaltnéal
+- Seng-hûn
+- Stjernetåge
+- stjernetåke
+- Tinh vân
+- Tumanliklar
+- Tåke i astronomi
+- udukogu
+- UmQongo
+- Ūkas
+- Νεφέλωμα
+- галактична туманність
+- маглина
+- Маглине
+- мигъгонд
+- Мъглявина
+- Тĕтрелĕх (астрофизика)
+- Тача
+- томанлык
+- Туманнасць
+- туманнасьць
+- туманность
+- Туманот
+- Тұмандық
+- միգամածություն
+- ערפילית
+- بدلی
+- تەمەستێرە
+- سحابی
+- سحابیہ
+- سديم
+- نيبولا
+- तेजोमेघ
+- निहारिका
+- नीहारिका
+- नेबुला
+- নীহারিকা
+- নীহাৰিকা
+- ਨੈਬਿਊਲਾ
+- નિહારિકા
+- ନୀହାରିକା
+- நெபுலா
+- ನೀಹಾರಿಕೆ
+- നീഹാരിക
+- නීහාරිකා
+- เนบิวลา
+- နက်ဗျူလာ
+- ნირსეული
+- ნისლეულები
+- ኔቡላ
+- 星云
+- 星雲
+- 성운
 ---
 # [[Nebula]] 
 

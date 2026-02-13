@@ -1,27 +1,98 @@
 ---
 aliases:
-  - Humanismus
-  - Humanism
+- an Daonnachas
+- chủ nghĩa nhân văn
+- Dyneiddiaeth
+- Gumanizm
+- Homanisma
+- Houmanismo
+- Humanism
+- humanisma
+- Humanisme
+- humanismi
+- humanismm
+- Humanismo
+- Humanismu
+- Humanismus
+- humanissma
+- Humanizam
+- humanizem
+- humanizm
+- humanizmas
+- humanizmi
+- humanizmus
+- Humanouriezh
+- Humanîme
+- Humanîzm
+- humānisms
+- húmanismi
+- hümanizm
+- Jîn-bûn-chú-gī
+- Umanesimu
+- Umanime
+- Umanisim
+- umanism
+- Umanisme
+- umanismo
+- umaniżmu
+- Umanèsimu
+- Yinzvwnzcujyi
+- Ɛyʊtʊ wɛtʊ lɩmaɣzɩyɛ
+- ουμανισμός
+- Ізгілік
+- гуманізм
+- гуманизм
+- Инсондӯстӣ
+- хуманизам
+- Хуманизъм
+- Хүмүүнлигэй ухаан
+- Հումանիզմ
+- הומניזם
+- إنسانوية
+- ئۆمانیزم
+- انسان دوستی
+- انسانيت واد
+- انسانيه
+- انسانگرایی
+- اومانیسم
+- بشرپالنه
+- تابنادميت (فلسافة)
+- هومانيسمى
+- मानवतावाद
+- मानववाद
+- মানবতাবাদ
+- মানৱতাবাদ
+- மனிதநேயம்
+- మానవతావాదం
+- മാനവതാവാദം
+- මානවවාදය
+- มนุษยนิยม
+- ມະນຸສະຍະນິຍົມ
+- ჰუმანიზმი
+- ヒューマニズム
+- 人文主义
+- 人文主義
+- 인문주의
 has_id_wikidata: Q46158
-opposite_of: "[[_Standards/WikiData/WD~antihumanism,290509]]"
+opposite_of: '[[_Standards/WikiData/WD~antihumanism,290509]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
-  - "[[_Standards/WikiData/WD~ethical_theory,58927801]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-different_from: "[[_Standards/WikiData/WD~Homaranismo,1426400]]"
-subclass_of: "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Humanism,6818748]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_humanism,7112660]]"
-practiced_by: "[[_Standards/WikiData/WD~humanist,10527030]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q24820267,24820267]]"
+- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~ethical_theory,58927801]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
+different_from: '[[_Standards/WikiData/WD~Homaranismo,1426400]]'
+subclass_of: '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Humanism,6818748]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_humanism,7112660]]'
+practiced_by: '[[_Standards/WikiData/WD~humanist,10527030]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q24820267,24820267]]'
 Dewey_Decimal_Classification:
-  - 144
-  - 211.6
+- 144
+- 211.6
 social_media_followers: 26396
 OmegaWiki_Defined_Meaning: 683284
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Happyman.svg
@@ -31,11 +102,142 @@ UMLS_CUI: C0020156
 subreddit: humanism
 hashtag_: humanism
 MeSH_tree_code:
-  - K01.752.566.479.174
-  - N05.350.835
+- K01.752.566.479.174
+- N05.350.835
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GUMANIZM.html
+dv_has_:
+  name_:
+    af: humanisme
+    an: Humanismo
+    anp: मानवतावाद
+    ar: إنسانوية
+    ary: تابنادميت (فلسافة)
+    arz: انسانيه
+    as: মানৱতাবাদ
+    ast: Humanismu
+    az: Humanizm
+    azb: اومانیسم
+    ba: Гуманизм
+    be: Гуманізм
+    be-tarask: гуманізм
+    bg: Хуманизъм
+    bn: মানবতাবাদ
+    br: Humanouriezh
+    bs: Humanizam
+    bxr: Хүмүүнлигэй ухаан
+    ca: humanisme
+    ckb: ئۆمانیزم
+    cs: humanismus
+    cv: Гуманизм
+    cy: Dyneiddiaeth
+    da: humanisme
+    de: Humanismus
+    de-ch: Humanismus
+    diq: Humanizm
+    el: ουμανισμός
+    en: humanism
+    en-ca: Humanism
+    en-gb: humanism
+    eo: humanismo
+    es: humanismo
+    et: humanism
+    eu: humanismo
+    fa: انسانگرایی
+    fi: humanismi
+    fr: humanisme
+    fur: Umanisim
+    fy: Humanisme
+    ga: an Daonnachas
+    gan: 人文主義
+    gl: humanismo
+    gsw: Humanismus
+    ha: Humanism
+    he: הומניזם
+    hi: मानववाद
+    hr: humanizam
+    hu: humanizmus
+    hy: Հումանիզմ
+    ia: humanismo
+    id: humanisme
+    io: humanismo
+    is: húmanismi
+    it: umanismo
+    ja: ヒューマニズム
+    jv: Humanisme
+    ka: ჰუმანიზმი
+    kaa: gumanizm
+    kbp: Ɛyʊtʊ wɛtʊ lɩmaɣzɩyɛ
+    kk: Ізгілік
+    ko: 인문주의
+    ku: Humanîzm
+    ky: Гуманизм
+    la: humanismus
+    lb: Humanismus
+    lfn: Umanisme
+    lo: ມະນຸສະຍະນິຍົມ
+    lt: humanizmas
+    lv: humānisms
+    mg: Homanisma
+    min: Humanisme
+    mk: хуманизам
+    ml: മാനവതാവാദം
+    ms: humanisme
+    ms-arab: هومانيسمى
+    mt: umaniżmu
+    mwl: Houmanismo
+    nan: Jîn-bûn-chú-gī
+    nb: humanisme
+    nds: humanismus
+    nds-nl: humanisme
+    nl: humanisme
+    nn: humanisme
+    nrm: Humanîme
+    oc: umanisme
+    os: гуманизм
+    pcd: Umanime
+    pl: humanizm
+    ps: بشرپالنه
+    pt: humanismo
+    pt-br: Humanismo
+    ro: umanism
+    ru: гуманизм
+    sc: Umanesimu
+    scn: Umanèsimu
+    sco: Humanism
+    sd: انسانيت واد
+    se: humanisma
+    sh: Humanizam
+    si: මානවවාදය
+    sje: humanissma
+    sk: humanizmus
+    sl: humanizem
+    sma: humanisme
+    smj: humanissma
+    smn: humanism
+    sms: humanismm
+    sq: humanizmi
+    sr: хуманизам
+    sr-ec: хуманизам
+    su: Humanisme
+    sv: humanism
+    ta: மனிதநேயம்
+    te: మానవతావాదం
+    tg: Инсондӯстӣ
+    th: มนุษยนิยม
+    tl: Humanismo
+    tr: hümanizm
+    tt: гуманизм
+    tyv: Гуманизм
+    uk: гуманізм
+    ur: انسان دوستی
+    uz: Gumanizm
+    vec: umanismo
+    vi: chủ nghĩa nhân văn
+    wuu: 人文主义
+    yue: 人文主義
+    za: Yinzvwnzcujyi
+    zh: 人文主义
 ---
-
 # [[Humanism]] 
 
 #is_/same_as :: [[WD~Humanism,46158]] 

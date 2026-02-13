@@ -1,33 +1,130 @@
 ---
 aliases:
-  - Wolkenkratzer
-  - Skyscraper
+- arranha-céu
+- Arrescuñacielus
+- Asmênkendoğ
+- balaxane
+- balaxanî
+- Caeliscalpium
+- Cielo-skrapero
+- Dangoraižis
+- debesskrāpis
+- etxe orratz
+- felhőkarcoló
+- Gradacelat
+- gratacel
+- grataceło
+- Gratacielos
+- Gratacèl
+- Grattacelo
+- grattacielo
+- gratte-ciel
+- Gusaling tukudlangit
+- gökdelen
+- göydələn
+- Hanaq hasp'iq
+- ilstórach
+- ilé gogoro
+- mrakodrap
+- Mô-thiên Thai-hà
+- Neboder
+- nebotičnik
+- nendwr
+- nhà chọc trời
+- nubskrapulo
+- Pancaka langik
+- pencakar langit
+- pilvelõhkuja
+- pilvenpiirtäjä
+- rascacielos
+- rañaceos
+- Screpe-cir
+- Skraber-oabl
+- Skyscraper
+- skyskraber
+- skyskrapa
+- skyskrapar
+- skyskraper
+- skýjakljúfur
+- tour ebron
+- Umbijongo
+- wieżowiec
+- wolkekliuwer
+- wolkekrabber
+- wolkenkrabber
+- Wolkenkratzer
+- Wollekekrazert
+- zgârie-nori
+- Óga yvateite
+- ουρανοξύστης
+- арвысхъауæг
+- Капашкар
+- Күктерәү
+- Көктіреген
+- небаскроб
+- небоскрёб
+- Небостъргач
+- облакодер
+- пилемӵабъясь
+- Тэнгэр баганадсан байшин
+- Халлаан кирбээччи
+- хмарачос
+- хмарочос
+- Үтә бейек йорттар
+- երկնաքեր
+- גורד שחקים
+- וואלקן קראצער
+- آسمانخراش
+- ئاسمانپەلەك
+- فلک بوس عمارت
+- لوړه ودانۍ
+- ناطحة سحاب
+- گؤیدلن
+- ھەوابڕ
+- गगनचुंबी इमारत
+- गगनचुम्बी इमारत
+- गगनचुम्बी भवन
+- গগনচুম্বী অট্টালিকা
+- வானளாவி
+- ఆకాశహర్మ్యం
+- ಗಗನಚುಂಬಿ ಕಟ್ಟಡ
+- ගගන චුම්බිතයෝ
+- ตึกระฟ้า
+- မိုးပျံတိုက်
+- ცათამბჯენი
+- 摩天大廈
+- 摩天大楼
+- 摩天大樓
+- 摩天楼
+- 超高層建築物
+- ꯌꯨꯝꯋꯥꯡ
+- 마천루
 has_id_wikidata: Q11303
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Skyscrapers,18520514]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Civil_engineering,21829766]]'
+- '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
+- '[[_Standards/WikiData/WD~WikiProject_Skyscrapers,18520514]]'
+- '[[_Standards/WikiData/WD~WikiProject_Civil_engineering,21829766]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_skyscraper,6238351]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q19657373,19657373]]'
 opposite_of: '[[_Standards/WikiData/WD~earthscraper,121639225]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 properties_for_this_type:
-  - location
-  - postal code
-  - color
-  - has part(s)
-  - inception
-  - structural engineer
-  - located on street
-  - floors above ground
-  - floors below ground
-  - number of elevators
-  - height
-  - country
-  - architect
-  - located in the administrative territorial entity
-  - made from material
-  - main building contractor
+- location
+- postal code
+- color
+- has part(s)
+- inception
+- structural engineer
+- located on street
+- floors above ground
+- floors below ground
+- number of elevators
+- height
+- country
+- architect
+- located in the administrative territorial entity
+- made from material
+- main building contractor
 different_from: '[[_Standards/WikiData/WD~tower_block,18142]]'
 subclass_of: '[[_Standards/WikiData/WD~tower_block,18142]]'
 OmegaWiki_Defined_Meaning: 773665
@@ -39,8 +136,130 @@ P8189: 987007548636505171
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/NEBOSKREB.html
 Commons_gallery: Skyscraper
 Commons_category: Skyscrapers
+dv_has_:
+  name_:
+    af: wolkekrabber
+    an: Gratacielos
+    ar: ناطحة سحاب
+    arz: ناطحة سحاب
+    ast: Rascacielos
+    az: göydələn
+    azb: گؤیدلن
+    ba: Үтә бейек йорттар
+    bcl: Skyscraper
+    be: небаскроб
+    be-tarask: хмарачос
+    bg: Небостъргач
+    bn: গগনচুম্বী অট্টালিকা
+    br: Skraber-oabl
+    bs: Neboder
+    ca: gratacel
+    ckb: ھەوابڕ
+    cs: mrakodrap
+    cv: Капашкар
+    cy: nendwr
+    da: skyskraber
+    de: Wolkenkratzer
+    de-ch: Wolkenkratzer
+    diq: Asmênkendoğ
+    el: ουρανοξύστης
+    en: skyscraper
+    en-ca: skyscraper
+    en-gb: skyscraper
+    eo: nubskrapulo
+    es: rascacielos
+    et: pilvelõhkuja
+    eu: etxe orratz
+    ext: Arrescuñacielus
+    fa: آسمانخراش
+    fi: pilvenpiirtäjä
+    fr: gratte-ciel
+    fy: wolkekliuwer
+    ga: ilstórach
+    gl: rañaceos
+    gn: Óga yvateite
+    hak: Mô-thiên Thai-hà
+    he: גורד שחקים
+    hi: गगनचुम्बी इमारत
+    hr: neboder
+    hu: felhőkarcoló
+    hy: երկնաքեր
+    ia: Grattacelo
+    id: pencakar langit
+    io: Cielo-skrapero
+    is: skýjakljúfur
+    it: grattacielo
+    ja: 超高層建築物
+    ka: ცათამბჯენი
+    kk: Көктіреген
+    kn: ಗಗನಚುಂಬಿ ಕಟ್ಟಡ
+    ko: 마천루
+    ku: balaxane
+    ku-latn: balaxanî
+    kv: Небоскрёб
+    kw: tour ebron
+    la: Caeliscalpium
+    lb: Wollekekrazert
+    lmo: gratacel
+    lt: Dangoraižis
+    lv: debesskrāpis
+    mai: गगनचुम्बी भवन
+    min: Pancaka langik
+    mk: облакодер
+    mn: Тэнгэр баганадсан байшин
+    mni: ꯌꯨꯝꯋꯥꯡ
+    mr: गगनचुंबी इमारत
+    ms: pencakar langit
+    my: မိုးပျံတိုက်
+    nb: skyskraper
+    nl: wolkenkrabber
+    nn: skyskrapar
+    oc: Gratacèl
+    os: арвысхъауæг
+    pl: wieżowiec
+    ps: لوړه ودانۍ
+    pt: arranha-céu
+    pt-br: arranha-céu
+    qu: Hanaq hasp'iq
+    ro: zgârie-nori
+    ru: небоскрёб
+    sah: Халлаан кирбээччи
+    sco: skyscraper
+    sh: neboder
+    si: ගගන චුම්බිතයෝ
+    sk: mrakodrap
+    sl: nebotičnik
+    sq: Gradacelat
+    sr: облакодер
+    sv: skyskrapa
+    ta: வானளாவி
+    te: ఆకాశహర్మ్యం
+    th: ตึกระฟ้า
+    tl: Gusaling tukudlangit
+    tr: gökdelen
+    tt: Күктерәү
+    udm: пилемӵабъясь
+    ug: ئاسمانپەلەك
+    uk: хмарочос
+    ur: فلک بوس عمارت
+    vec: grataceło
+    vi: nhà chọc trời
+    wa: Screpe-cir
+    wuu: 摩天楼
+    yi: וואלקן קראצער
+    yo: ilé gogoro
+    yue: 摩天大廈
+    zh: 摩天大樓
+    zh-cn: 摩天大楼
+    zh-hans: 摩天大楼
+    zh-hant: 摩天大樓
+    zh-hk: 摩天大廈
+    zh-mo: 摩天大廈
+    zh-my: 摩天大楼
+    zh-sg: 摩天大楼
+    zh-tw: 摩天大樓
+    zu: Umbijongo
 ---
-
 # [[Skyscraper]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Skyscraper,11303|WD~Skyscraper,11303]] 

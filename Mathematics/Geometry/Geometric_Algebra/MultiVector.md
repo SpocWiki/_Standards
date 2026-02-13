@@ -1,15 +1,46 @@
 ---
 aliases:
-  - Clifford number
-  - multor
-  - MultiVector
+- Clifford number
+- ilveicteoir
+- multivecteur
+- MultiVector
+- Multivektor
+- multivetor
+- multor
+- multvektoro
+- p-ベクトル
+- полівектор
+- поливектор
+- ناقل متعدد
+- چندبردار
+- 克里福數
+- 多重向量
+- 다중벡터
 has_id_wikidata: Q2377336
-subclass_of: "[[_Standards/WikiData/WD~tensor,188524]]"
-part_of: "[[_Standards/WikiData/WD~exterior_algebra,1196652]]"
+subclass_of: '[[_Standards/WikiData/WD~tensor,188524]]'
+part_of: '[[_Standards/WikiData/WD~exterior_algebra,1196652]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/N%20vector%20positive.svg
 Commons_category: Multivectors
+dv_has_:
+  name_:
+    ar: ناقل متعدد
+    ca: multivector
+    de: Multivektor
+    en: multivector
+    eo: multvektoro
+    es: Multivector
+    fa: چندبردار
+    fr: multivecteur
+    ga: ilveicteoir
+    ja: p-ベクトル
+    ko: 다중벡터
+    pt: multivetor
+    ru: поливектор
+    sl: multivektor
+    uk: полівектор
+    zh: 克里福數
+    zh-hans: 多重向量
 ---
-
 # [[MultiVector]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~multivector,2377336]] 

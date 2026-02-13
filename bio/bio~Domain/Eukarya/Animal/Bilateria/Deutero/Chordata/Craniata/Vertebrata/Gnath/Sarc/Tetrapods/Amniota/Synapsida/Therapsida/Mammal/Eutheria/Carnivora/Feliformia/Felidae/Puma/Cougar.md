@@ -1,95 +1,150 @@
 ---
 aliases:
-  - puma
-  - mountain lion
-  - catamount
-  - panther
-  - Berglöwe
-  - ''
-  - Cougar
-  - Puma
-  - cougar
-  - Silberlöwe
-  - deer tiger
-  - red tiger
-  - León Americano
-  - León Bayo
-  - León Colorado
-  - León De Montaña
-  - Mitzli
-  - Onza Bermeja
-  - puuma
-  - leão-baio
-  - onça-parda
-  - suçuarana
+- Beorglēo
+- Berglöwe
+- Báo sư tử
+- Bí-chiu-sai
+- catamount
+- Cougar
+- cúgar
+- deer tiger
+- Fjalla-leyvur
+- Fjallaljón
+- Geedala
+- Izem n idurar
+- Jaguapytã
+- Kiniun ti òkè
+- Kougar
+- Kûgar
+- leão-baio
+- León Americano
+- León Bayo
+- León Colorado
+- León De Montaña
+- Mitzli
+- Miztli
+- mountain lion
+- Nanóse'hame
+- Náshdóítsoh
+- Onza Bermeja
+- onça-parda
+- pangui
+- panther
+- poema
+- Poma
+- puma
+- puma americká
+- Puma concolor
+- puma płowa
+- Pumao
+- Pume
+- Pumo
+- Pumă
+- puuma
+- Pwma
+- Pùma
+- red tiger
+- Silberlöwe
+- Simba-milima
+- suçuarana
+- Wasol (Puma concolor)
+- Πούμα
+- Пумæ
+- пума
+- Պումա
+- פומת ההרים
+- أسد الجبال
+- اسد الجبال
+- داغ آسلانی
+- شیر کوهی
+- کوگار
+- कूगर
+- प्युमा
+- কুগার
+- ਕੂਗਰ
+- மலையரிமா
+- కౌగర్
+- ಕೂಗರ್
+- പൂമ
+- เสือพูมา
+- ကူဂါ
+- პუმა
+- የተራራ አንበሣ
+- ᏢᏓᏥ
+- ピューマ
+- 美洲狮
+- 美洲獅
+- 美洲金猫属
+- 美洲金貓屬
+- 퓨마
 has_id_wikidata: Q35255
 main_food_source:
-  - '[[_Standards/WikiData/WD~Mephitidae,83244]]'
-  - '[[_Standards/WikiData/WD~house_mouse,83310]]'
-  - '[[_Standards/WikiData/WD~raccoon,121439]]'
-  - '[[_Standards/WikiData/WD~Hydrochoerus_hydrochaeris,131538]]'
-  - '[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]'
-  - '[[_Standards/WikiData/WD~vicuña,167797]]'
-  - '[[_Standards/WikiData/WD~guanaco,172886]]'
-  - '[[_Standards/WikiData/WD~Myocastor_coypus,187704]]'
-  - '[[_Standards/WikiData/WD~Patagonian_mara,194313]]'
-  - '[[_Standards/WikiData/WD~carrion,202994]]'
-  - '[[_Standards/WikiData/WD~white_tailed_deer,215887]]'
-  - '[[_Standards/WikiData/WD~Humboldt_Penguin,224151]]'
-  - '[[_Standards/WikiData/WD~American_badger,232129]]'
-  - '[[_Standards/WikiData/WD~Oreamnos_americanus,242602]]'
-  - '[[_Standards/WikiData/WD~mule_deer,338831]]'
-  - '[[_Standards/WikiData/WD~Marsh_deer,504501]]'
-  - '[[_Standards/WikiData/WD~nine_banded_armadillo,649549]]'
-  - '[[_Standards/WikiData/WD~collared_peccary,741516]]'
-  - '[[_Standards/WikiData/WD~Red_rumped_agouti,775170]]'
-  - '[[_Standards/WikiData/WD~sloth,2274076]]'
-  - '[[_Standards/WikiData/WD~horse,726]]'
-  - '[[_Standards/WikiData/WD~cattle,830]]'
-  - '[[_Standards/WikiData/WD~goat,2934]]'
-  - '[[_Standards/WikiData/WD~red_squirrel,4388]]'
-  - '[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]'
-  - '[[_Standards/WikiData/WD~Tamias,22364]]'
-  - '[[_Standards/WikiData/WD~Canada_Goose,26733]]'
-  - '[[_Standards/WikiData/WD~Lepus_europaeus,26838]]'
-  - '[[_Standards/WikiData/WD~wild_turkey,26844]]'
-  - '[[_Standards/WikiData/WD~Alces_alces,35517]]'
-  - '[[_Standards/WikiData/WD~sea_otter,41407]]'
+- '[[_Standards/WikiData/WD~Mephitidae,83244]]'
+- '[[_Standards/WikiData/WD~house_mouse,83310]]'
+- '[[_Standards/WikiData/WD~raccoon,121439]]'
+- '[[_Standards/WikiData/WD~Hydrochoerus_hydrochaeris,131538]]'
+- '[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]'
+- '[[_Standards/WikiData/WD~vicuña,167797]]'
+- '[[_Standards/WikiData/WD~guanaco,172886]]'
+- '[[_Standards/WikiData/WD~Myocastor_coypus,187704]]'
+- '[[_Standards/WikiData/WD~Patagonian_mara,194313]]'
+- '[[_Standards/WikiData/WD~carrion,202994]]'
+- '[[_Standards/WikiData/WD~white_tailed_deer,215887]]'
+- '[[_Standards/WikiData/WD~Humboldt_Penguin,224151]]'
+- '[[_Standards/WikiData/WD~American_badger,232129]]'
+- '[[_Standards/WikiData/WD~Oreamnos_americanus,242602]]'
+- '[[_Standards/WikiData/WD~mule_deer,338831]]'
+- '[[_Standards/WikiData/WD~Marsh_deer,504501]]'
+- '[[_Standards/WikiData/WD~nine_banded_armadillo,649549]]'
+- '[[_Standards/WikiData/WD~collared_peccary,741516]]'
+- '[[_Standards/WikiData/WD~Red_rumped_agouti,775170]]'
+- '[[_Standards/WikiData/WD~sloth,2274076]]'
+- '[[_Standards/WikiData/WD~horse,726]]'
+- '[[_Standards/WikiData/WD~cattle,830]]'
+- '[[_Standards/WikiData/WD~goat,2934]]'
+- '[[_Standards/WikiData/WD~red_squirrel,4388]]'
+- '[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]'
+- '[[_Standards/WikiData/WD~Tamias,22364]]'
+- '[[_Standards/WikiData/WD~Canada_Goose,26733]]'
+- '[[_Standards/WikiData/WD~Lepus_europaeus,26838]]'
+- '[[_Standards/WikiData/WD~wild_turkey,26844]]'
+- '[[_Standards/WikiData/WD~Alces_alces,35517]]'
+- '[[_Standards/WikiData/WD~sea_otter,41407]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Acouchi,342190]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 taxon_range:
-  - '[[_Standards/WikiData/WD~Paragominas,935005]]'
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Venezuela,717]]'
-  - '[[_Standards/WikiData/WD~Suriname,730]]'
-  - '[[_Standards/WikiData/WD~Guyana,734]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Colombia,739]]'
-  - '[[_Standards/WikiData/WD~Ecuador,736]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~Guatemala,774]]'
-  - '[[_Standards/WikiData/WD~Honduras,783]]'
-  - '[[_Standards/WikiData/WD~El_Salvador,792]]'
-  - '[[_Standards/WikiData/WD~Costa_Rica,800]]'
-  - '[[_Standards/WikiData/WD~Panama,804]]'
-  - '[[_Standards/WikiData/WD~Nicaragua,811]]'
-  - '[[_Standards/WikiData/WD~Americas,828]]'
-  - '[[_Standards/WikiData/WD~French_Guiana,3769]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Uruguay,77]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
-  - '[[_Standards/WikiData/WD~Belize,242]]'
+- '[[_Standards/WikiData/WD~Paragominas,935005]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Honduras,783]]'
+- '[[_Standards/WikiData/WD~El_Salvador,792]]'
+- '[[_Standards/WikiData/WD~Costa_Rica,800]]'
+- '[[_Standards/WikiData/WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811]]'
+- '[[_Standards/WikiData/WD~Americas,828]]'
+- '[[_Standards/WikiData/WD~French_Guiana,3769]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Belize,242]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 subclass_of: '[[_Standards/WikiData/WD~big_cat,6667323]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Felis_concolor,109647288]]'
@@ -103,27 +158,27 @@ longest_observed_lifespan: 23.8
 OmegaWiki_Defined_Meaning: 8219
 U_S_National_Archives_Identifier: 10645545
 taxon_common_name:
-  - puma
-  - puma
-  - Puma
-  - cougar
-  - Silberlöwe
-  - mountain lion
-  - puma
-  - puma
-  - Berglöwe
-  - deer tiger
-  - red tiger
-  - León Americano
-  - León Bayo
-  - León Colorado
-  - León De Montaña
-  - Mitzli
-  - Onza Bermeja
-  - puuma
-  - leão-baio
-  - onça-parda
-  - suçuarana
+- puma
+- puma
+- Puma
+- cougar
+- Silberlöwe
+- mountain lion
+- puma
+- puma
+- Berglöwe
+- deer tiger
+- red tiger
+- León Americano
+- León Bayo
+- León Colorado
+- León De Montaña
+- Mitzli
+- Onza Bermeja
+- puuma
+- leão-baio
+- onça-parda
+- suçuarana
 ITIS_TSN: 552479
 short_name: P. concolor
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cougar%20range%20map%202010.png
@@ -136,13 +191,143 @@ sequenced_genome_URL: https://www.dnazoo.org/assemblies/Puma_concolor
 Krugosvet_article: biologiya/puma
 UMLS_CUI: C1265524
 GenBank_assembly_accession_number:
-  - GCA_003327715.1
-  - GCA_028749985.3
+- GCA_003327715.1
+- GCA_028749985.3
 Commons_gallery: Puma concolor
 Commons_category: Puma concolor
 taxon_name: Puma concolor
+dv_has_:
+  name_:
+    af: Poema
+    am: የተራራ አንበሣ
+    an: Puma concolor
+    ang: Beorglēo
+    ar: أسد الجبال
+    arn: pangui
+    arz: اسد الجبال
+    ast: Puma
+    av: Пума
+    avk: Wasol (Puma concolor)
+    az: Puma
+    azb: داغ آسلانی
+    ban: Kougar
+    be: Пума
+    be-tarask: Пума
+    bg: пума
+    bn: কুগার
+    br: Puma
+    bs: puma
+    ca: puma
+    ceb: Puma concolor
+    chr: ᏢᏓᏥ
+    chy: Nanóse'hame
+    co: Puma
+    cs: puma americká
+    csb: Pùma
+    cv: Пума
+    cy: Pwma
+    da: Puma
+    de: Puma
+    diq: Puma
+    el: Πούμα
+    en: cougar
+    en-ca: Cougar
+    en-gb: cougar
+    en-us: cougar
+    eo: Pumo
+    es: Puma concolor
+    et: puuma
+    eu: Puma
+    fa: شیر کوهی
+    fi: puuma
+    fo: Fjalla-leyvur
+    fr: Puma
+    fur: Pume
+    fy: Poema
+    ga: cúgar
+    gd: Pùma
+    gl: Puma
+    gn: Jaguapytã
+    he: פומת ההרים
+    hi: कूगर
+    hr: puma
+    hu: puma
+    hy: Պումա
+    ia: Puma concolor
+    id: Cougar
+    io: Pumao
+    is: Fjallaljón
+    it: Puma concolor
+    ja: ピューマ
+    jv: Puma
+    ka: პუმა
+    kab: Izem n idurar
+    kk: Пума
+    kn: ಕೂಗರ್
+    ko: 퓨마
+    ku: Kûgar
+    la: Puma
+    lij: Puma concolor
+    ln: Puma
+    lt: Puma
+    ltg: Puma concolor
+    lv: Puma
+    mg: Poma
+    mhr: пума
+    mk: Пума
+    ml: പൂമ
+    mn: Пума
+    mr: प्युमा
+    ms: Puma
+    mul: Puma concolor
+    my: ကူဂါ
+    nah: Miztli
+    nan: Bí-chiu-sai
+    nb: puma
+    nl: poema
+    nn: puma
+    nv: Náshdóítsoh
+    oc: Puma
+    om: Geedala
+    os: Пумæ
+    pa: ਕੂਗਰ
+    pl: puma płowa
+    pnb: کوگار
+    pt: puma
+    pt-br: suçuarana
+    qu: Puma
+    ro: Pumă
+    ru: пума
+    scn: Puma concolor
+    sco: puma
+    sh: Puma
+    sk: puma americká
+    sl: Puma
+    smn: puuma
+    sq: Puma
+    sr: пума
+    sv: puma
+    sw: Simba-milima
+    ta: மலையரிமா
+    te: కౌగర్
+    th: เสือพูมา
+    tl: Puma
+    tr: puma
+    tt: Пума
+    udm: Пума
+    uk: Пума
+    uz: Cougar
+    vi: Báo sư tử
+    wa: Puma
+    war: Puma concolor
+    wuu: 美洲狮
+    xmf: პუმა
+    yo: Kiniun ti òkè
+    yue: 美洲獅
+    zh: 美洲金猫属
+    zh-cn: 美洲金猫属
+    zh-tw: 美洲金貓屬
 ---
-
 # [[Cougar]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cougar,35255|WD~Cougar,35255]] 

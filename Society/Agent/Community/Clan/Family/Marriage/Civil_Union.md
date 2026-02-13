@@ -1,12 +1,68 @@
 ---
 aliases:
-  - Civil union
-  - Civil_Union
-  - Civil Union
+- Bashkim civil
+- bejegyzett élettársi kapcsolat
+- bikote zibil
+- Burgerlike verbintenis
+- Civil union
+- Civil_Union
+- eingetragene Partnerschaft
+- geregistreerd partnerschap
+- Kesatuan sivil
+- kooselu
+- Kết hợp dân sự
+- medeni birliktelik
+- partnerska zveza
+- Persatuan sipil
+- Pevratiya welatî
+- registeristum parâkoskâvuotâ
+- Registrearre partnerskip
+- registrerat partnerskap
+- registrerejuvvon párragaskavuohta
+- registreret partnerskab
+- registreriduvvam guojmmevuohta
+- registrert partnerskap
+- registrita partnereco
+- Registrovano partnerstvo
+- registrované partnerstvo
+- registrované partnerství
+- rejestrowany związek partnerski
+- rekisterõsttum paarrkõskkvuõtt
+- rekisteröity parisuhde
+- Skrásett parlag
+- Uniad sifil
+- unio civilis
+- union civile
+- unione civile
+- Uniune civilă
+- união civil
+- unió civil
+- unión civil
+- Xunión civil
+- σύμφωνο συμβίωσης
+- Грађанска заједница
+- Граждански съюз
+- гражданское партнёрство
+- грамадзянскае партнэрства
+- Цивільне партнерство
+- цывільнае партнёрства
+- איחוד אזרחי
+- اتحاد مدني
+- اتحاد مدنی
+- غیر شادی شدہ اتحاد
+- یەکێتیی شارستانی
+- नागरिक संघ
+- চিভিল ইউনিয়ন
+- দেওয়ানি জোট
+- คู่ชีวิต
+- სამოქალაქო კავშირი
+- シビル・ユニオン
+- 民事結合
+- 시민결합
 has_id_wikidata: Q41075
 subclass_of:
-  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-  - '[[_Standards/WikiData/WD~legal_institution,1938208]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+- '[[_Standards/WikiData/WD~legal_institution,1938208]]'
 instance_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
 different_from: '[[_Standards/WikiData/WD~domestic_partnership,3449014]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
@@ -15,8 +71,70 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20civil%20union.
 P8189: 987007530314905171
 Commons_category: Civil union
 Wolfram_Language_entity_code: Entity["Concept", "CivilUnion::m6653"]
+dv_has_:
+  name_:
+    af: Burgerlike verbintenis
+    ar: اتحاد مدني
+    as: চিভিল ইউনিয়ন
+    ast: Xunión civil
+    be: цывільнае партнёрства
+    be-tarask: грамадзянскае партнэрства
+    bg: Граждански съюз
+    bn: দেওয়ানি জোট
+    ca: unió civil
+    ckb: یەکێتیی شارستانی
+    cs: registrované partnerství
+    cy: Uniad sifil
+    da: registreret partnerskab
+    de: eingetragene Partnerschaft
+    el: σύμφωνο συμβίωσης
+    en: civil union
+    eo: registrita partnereco
+    es: unión civil
+    et: kooselu
+    eu: bikote zibil
+    fa: اتحاد مدنی
+    fi: rekisteröity parisuhde
+    fo: Skrásett parlag
+    fr: union civile
+    fy: Registrearre partnerskip
+    gl: unión civil
+    he: איחוד אזרחי
+    hi: नागरिक संघ
+    hu: bejegyzett élettársi kapcsolat
+    id: Persatuan sipil
+    it: unione civile
+    ja: シビル・ユニオン
+    ka: სამოქალაქო კავშირი
+    ko: 시민결합
+    ku: Pevratiya welatî
+    la: unio civilis
+    ms: Kesatuan sivil
+    nb: registrert partnerskap
+    nl: geregistreerd partnerschap
+    pl: rejestrowany związek partnerski
+    pnb: غیر شادی شدہ اتحاد
+    pt: união civil
+    ro: Uniune civilă
+    ru: гражданское партнёрство
+    se: registrerejuvvon párragaskavuohta
+    sh: Registrovano partnerstvo
+    sk: registrované partnerstvo
+    sl: partnerska zveza
+    smj: registreriduvvam guojmmevuohta
+    smn: registeristum parâkoskâvuotâ
+    sms: rekisterõsttum paarrkõskkvuõtt
+    sq: Bashkim civil
+    sr: Грађанска заједница
+    sv: registrerat partnerskap
+    th: คู่ชีวิต
+    tr: medeni birliktelik
+    uk: Цивільне партнерство
+    ur: غیر شادی شدہ اتحاد
+    vi: Kết hợp dân sự
+    yue: 民事結合
+    zh: 民事結合
 ---
-
 # [[Civil_Union]] 
 
 #is_/similar_to :: [[Civil_Marriage]] 

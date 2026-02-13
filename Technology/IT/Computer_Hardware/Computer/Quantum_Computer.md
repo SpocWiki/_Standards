@@ -1,30 +1,178 @@
 ---
 aliases:
+- calculateur quantique
+- calculator cuantic
+- computador cuántico
+- computador quântico
+- computadora cuántica
+- computatorium quanticum
+- computer quantistico
+- kompjuter kwantistiku
+- kompjuteri kuantik
+- komputer kuantum
+- komputer kwantowy
+- konputagailu kuantiko
+- kuantum bilgisayarı
+- kvant kompyuterlari
+- kvant kompüteri
+- kvantadihtor
+- kvantarvuti
+- kvantdator
+- kvantecomputer
+- kvantedatamaskin
+- kvantinis kompiuteris
+- kvantni računalnik
+- kvantni računar
+- kvantno računalo
+- kvantový počítač
+- kvantt-teâttmašina
+- kvanttitietokone
+- kvanttâtiättur
+- kvantu dators
+- kvantumkomputilo
+- kvantumszámítógép
+- kwantumcomputer
+- kwantumkompjûter
+- kwantumrekenaar
+- máy tính lượng tử
+- ordenador cuánticu
+- ordinador quàntic
+- Quantecomputer
+- Quantencomputer
+- quantum computer
+- ríomhaire candamach
+- skammtatölvur
+- κβαντικός υπολογιστής
+- квантавы кампутар
+- Квантла компьютер
+- квантни рачунар
+- квантно сметање
+- квантов компютър
+- квантовий комп'ютер
+- квантовый компьютер
+- компютери квантӣ
+- քվանտային համակարգիչ
+- מחשב קוונטי
+- حاسوب كمومي
+- رایانه کوانتومی
+- مقداریہ شمارندہ
+- क्वाण्टम कम्प्यूटर
+- কোয়ান্টাম পরিগণনা
+- ਕੁਆਂਟਮ ਕੰਪਿਊਟਿੰਗ
+- କ୍ୱାଣ୍ଟମ କମ୍ପ୍ୟୁଟର
+- குவாண்டம் கணினி
+- క్వాంటమ్ కంప్యూటర్
+- ಕ್ವಾಂಟಮ್ ಗಣಕಯಂತ್ರ
+- ക്വാണ്ടം കമ്പ്യൂട്ടിങ്
+- კვანტური კომპიუტერი
+- 量子コンピュータ
+- 量子计算机
+- 量子電腦
+- 량자콤퓨터
+- 양자 컴퓨터
 has_id_wikidata: Q176555
 studied_by:
-  - "[[_Standards/WikiData/WD~quantum_information_science,2122216]]"
-  - "[[_Standards/WikiData/WD~quantum_computing,17995793]]"
-has_use: "[[_Standards/WikiData/WD~quantum_computing,17995793]]"
+- '[[_Standards/WikiData/WD~quantum_information_science,2122216]]'
+- '[[_Standards/WikiData/WD~quantum_computing,17995793]]'
+has_use: '[[_Standards/WikiData/WD~quantum_computing,17995793]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~quantum_system,21193136]]"
-  - "[[_Standards/WikiData/WD~computer,68]]"
+- '[[_Standards/WikiData/WD~quantum_system,21193136]]'
+- '[[_Standards/WikiData/WD~computer,68]]'
 Commons_category: Quantum computers
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/D-Wave%20Two%20512%20qubit%20Vesuvius%20chip.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Full%20wafer%20of%20Intel%20quantum%20computers.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Sycamore%20Chip%20001.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IBM%20Q%20system%20%28Fraunhofer%202%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IQM%20Quantum%20Computer%20Espoo%20Finland.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quantum-computer-Chalmers%202017.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/D-Wave%20Two%20512%20qubit%20Vesuvius%20chip.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Full%20wafer%20of%20Intel%20quantum%20computers.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Sycamore%20Chip%20001.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/IBM%20Q%20system%20%28Fraunhofer%202%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IQM%20Quantum%20Computer%20Espoo%20Finland.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quantum-computer-Chalmers%202017.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-calculateur%20quantique.wav
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20computer.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quantum-computer
 Commons_gallery: Quantum computer
 GitHub_topic:
-  - quantum-computer
-  - quantum-computers
+- quantum-computer
+- quantum-computers
+dv_has_:
+  name_:
+    af: kwantumrekenaar
+    ar: حاسوب كمومي
+    ast: ordenador cuánticu
+    az: kvant kompüteri
+    be-tarask: квантавы кампутар
+    bg: квантов компютър
+    bn: কোয়ান্টাম পরিগণনা
+    bs: kvantni računar
+    ca: ordinador quàntic
+    cs: kvantový počítač
+    cv: Квантла компьютер
+    da: kvantecomputer
+    de: Quantencomputer
+    el: κβαντικός υπολογιστής
+    en: quantum computer
+    eo: kvantumkomputilo
+    es: computadora cuántica
+    et: kvantarvuti
+    eu: konputagailu kuantiko
+    fa: رایانه کوانتومی
+    fi: kvanttitietokone
+    fr: calculateur quantique
+    fy: kwantumkompjûter
+    ga: ríomhaire candamach
+    gl: computador cuántico
+    gsw: Quantencomputer
+    he: מחשב קוונטי
+    hi: क्वाण्टम कम्प्यूटर
+    hr: kvantno računalo
+    hu: kvantumszámítógép
+    hy: քվանտային համակարգիչ
+    id: komputer kuantum
+    is: skammtatölvur
+    it: computer quantistico
+    ja: 量子コンピュータ
+    ka: კვანტური კომპიუტერი
+    kn: ಕ್ವಾಂಟಮ್ ಗಣಕಯಂತ್ರ
+    ko: 양자 컴퓨터
+    ko-kp: 량자콤퓨터
+    la: computatorium quanticum
+    lb: Quantecomputer
+    lt: kvantinis kompiuteris
+    lv: kvantu dators
+    mk: квантно сметање
+    ml: ക്വാണ്ടം കമ്പ്യൂട്ടിങ്
+    ms: komputer kuantum
+    mt: kompjuter kwantistiku
+    nb: kvantedatamaskin
+    nl: kwantumcomputer
+    nn: kvantedatamaskin
+    or: କ୍ୱାଣ୍ଟମ କମ୍ପ୍ୟୁଟର
+    pa: ਕੁਆਂਟਮ ਕੰਪਿਊਟਿੰਗ
+    pl: komputer kwantowy
+    pt: computador quântico
+    ro: calculator cuantic
+    ru: квантовый компьютер
+    se: kvantadihtor
+    sh: kvantni računar
+    sk: kvantový počítač
+    sl: kvantni računalnik
+    smn: kvanttâtiättur
+    sms: kvantt-teâttmašina
+    sq: kompjuteri kuantik
+    sr: квантни рачунар
+    sv: kvantdator
+    ta: குவாண்டம் கணினி
+    te: క్వాంటమ్ కంప్యూటర్
+    tg: компютери квантӣ
+    tr: kuantum bilgisayarı
+    uk: квантовий комп'ютер
+    ur: مقداریہ شمارندہ
+    uz: kvant kompyuterlari
+    vi: máy tính lượng tử
+    wuu: 量子计算机
+    yue: 量子電腦
+    zh: 量子计算机
+    zh-hans: 量子计算机
 ---
-
 # [[Quantum_Computer]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Quantum_computer,176555|WD~Quantum_computer,176555]]  

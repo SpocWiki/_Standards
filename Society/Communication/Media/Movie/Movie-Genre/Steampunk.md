@@ -1,8 +1,105 @@
 ---
 has_id_wikidata: Q223685
+dv_has_:
+  name_:
+    af: steampunk
+    an: Steampunk
+    ar: ستيم بانك
+    ary: ستيم پانك
+    ast: Steampunk
+    az: Stimpank
+    be: стымпанк
+    be-tarask: стымпанк
+    br: Steampunk
+    ca: steampunk
+    ckb: ستیمپەنک
+    cs: steampunk
+    cy: Agerstalwm
+    da: Steampunk
+    de: Steampunk
+    el: ατμοπάνκ
+    en: steampunk
+    eo: Vaporpunko
+    es: Steampunk
+    et: Aurupunk
+    eu: Steampunk
+    fa: استیمپانک
+    fi: Steampunk
+    fr: steampunk
+    fy: Steampunk
+    ga: galphunc
+    gl: Steampunk
+    he: סטימפאנק
+    hi: स्टीमपंक
+    hr: Steampunk
+    hu: steampunk
+    hy: սթիմփանկ
+    ia: steampunk
+    id: Steampunk
+    is: Gufupönk
+    it: steampunk
+    ja: スチームパンク
+    ka: სტიმპანკი
+    ko: 스팀펑크
+    la: Steampunk
+    lb: Steampunk
+    lmo: steampunk
+    lt: stimpankas
+    ms: steampunk
+    nan: Steampunk
+    nb: steampunk
+    nl: steampunk
+    nn: Steampunk
+    pcd: Steampunk
+    pl: Steampunk
+    pt: steampunk
+    ro: steampunk
+    ru: стимпанк
+    sk: steampunk
+    sl: steampunk
+    sr: Стимпанк
+    sv: steampunk
+    th: สตรีมพังค์
+    tl: Steampunk
+    tr: buhar çılgınlığı
+    uk: стимпанк
+    uz: Stimpank
+    vi: Steampunk
+    yue: 蒸氣朋卡
+    zh: 蒸汽朋克
+    zh-cn: 蒸汽朋克
+    zh-hans: 蒸汽朋克
+    zh-hant: 蒸汽朋克
+    zh-hk: 蒸汽朋克
+    zh-sg: 蒸汽朋克
+    zh-tw: 蒸汽朋克
+aliases:
+- Agerstalwm
+- Aurupunk
+- buhar çılgınlığı
+- galphunc
+- Gufupönk
+- Steampunk
+- Stimpank
+- stimpankas
+- Vaporpunko
+- ατμοπάνκ
+- стимпанк
+- стымпанк
+- սթիմփանկ
+- סטימפאנק
+- استیمپانک
+- ستيم بانك
+- ستيم پانك
+- ستیمپەنک
+- स्टीमपंक
+- สตรีมพังค์
+- სტიმპანკი
+- スチームパンク
+- 蒸氣朋卡
+- 蒸汽朋克
+- 스팀펑크
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Steampunk** is a subgenre of science fiction that incorporates retrofuturistic technology 

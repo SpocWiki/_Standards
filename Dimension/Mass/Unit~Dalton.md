@@ -1,44 +1,215 @@
 ---
 aliases:
-  - unified atomic mass unit
-  - Unit~Dalton
-  - amu 
-  - Atomic mass unit
+- aatommassiühik
+- amu
+- aonad maise adamhaí
+- atom kütle birimi
+- atomaar masenianhaid
+- atomaire massa-eenheid
+- atomare Masseneenheit
+- atomare Masseneinheit
+- atomi tömegegység
+- Atomic mass unit
+- atomiko a masa ti yunit
+- atomimassayksikkö
+- atominės masės vienetas
+- atommasas vienība
+- atommasseeining
+- atommasseenhed
+- atommasseenhet
+- atommassenhet
+- atomska jedinica mase
+- atomêre massa-ienheid
+- atómová hmotnostná jednotka
+- dalton
+- daltono
+- jedinica atomske mase
+- jednostka masy atomowej
+- masa atomikoaren unitate
+- massaning atom birligi
+- massanıñ atomdıq birligi
+- unanenn tolz atomek
+- uned Dalton
+- unidad de masa atómica
+- unidade de masa atómica
+- unidade de massa atómica
+- unidade de massa atômica
+- unidá de masa atómica
+- unified atomic mass unit
+- unitat de massa atomica
+- unitat de massa atòmica
+- unitate atomică de masă
+- unitati di massa atòmica
+- Unit~Dalton
+- unità di massa atomica
+- unità e' massa atomeca
+- unità ta' massa atomika
+- unità ëd massa atòmica
+- unité de masse atomique unifiée
+- yunit masa atomiko
+- ατομική μονάδα μάζας
+- јединица атомске масе
+- атамная адзінка масы
+- атом массалэн огметэз
+- атомна одиниця маси
+- атомная единица массы
+- атомска единица за маса
+- атомын жингийн нэгж
+- боҳиди атомии масса
+- единица за атомна маса
+- массăн атомла пĕрчи
+- массаның атом берәмеге
+- массаның атом берәмлеге
+- массаның атомдық бірлігі
+- сталмость атомонь единицац
+- զանգվածի ատոմական միավոր
+- יחידת מסה אטומית מאוחדת
+- جوہری کمیتی اکائی
+- ماسسانىڭ اتومدىق بىرلىگى
+- وحدة كتلة ذرية
+- ڈالٹَن
+- یکای جرم اتمی
+- परमाण्विक भार इकाई
+- ডাল্টন
+- ਅਟਾਮਿਕ ਮਾਸ ਯੂਨਿਟ
+- அணு நிறை அலகு
+- അറ്റോമിക് മാസ്സ് യൂണിറ്റ്
+- หน่วยมวลอะตอม
+- རྡུལ་ཕྲན་སྤུས་ཚད་རྩི་གཞི།
+- მასის ატომური ერთეული
+- ダルトン
+- 原子質量單位
+- 原子质量单位
+- 원자 질량 단위
 has_id_wikidata: Q483261
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]"
-  - "[[_Standards/WikiData/WD~unit_of_mass,3647172]]"
-  - "[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~atomic_mass,3840065]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~unified_atomic_mass_constant,4817337]]"
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~atomic_mass,3840065]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~unified_atomic_mass_constant,4817337]]'
 conversion_to_SI_unit: 1.66053906892e-27
-named_after: "[[_Standards/WikiData/WD~John_Dalton,41284]]"
-OmegaWiki_Defined_Meaning: "789550"
+named_after: '[[_Standards/WikiData/WD~John_Dalton,41284]]'
+OmegaWiki_Defined_Meaning: 789550
 IEV_number:
-  - 395-01-02
-  - 113-05-24
-  - 881-04-06
+- 395-01-02
+- 113-05-24
+- 881-04-06
 UN_CEFACT_Common_Code: D43
 unit_symbol:
-  - u
-  - Да
-  - Da
-  - Da
-  - Da
-  - Da
-  - u
-  - u.a.m.
-  - а.е.м.
-  - м.а.б.
+- u
+- Да
+- Da
+- Da
+- Da
+- Da
+- u
+- u.a.m.
+- а.е.м.
+- м.а.б.
 UCUM_code: u
 described_at_URL: https://www.biologyonline.com/dictionary/unified-atomic-mass-unit
 Wolfram_Language_unit_code: '"Daltons"'
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/UGLERODNAYA_EDINITSA.html
 Biology_Online_Biology_Dictionary_entry: unified-atomic-mass-unit
 Wikidata_SPARQL_query_equivalent: wd:Q483261 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    af: dalton
+    ar: وحدة كتلة ذرية
+    ast: unidá de masa atómica
+    az: dalton
+    ba: массаның атом берәмеге
+    be: атамная адзінка масы
+    be-tarask: атамная адзінка масы
+    bg: единица за атомна маса
+    bn: ডাল্টন
+    bo: རྡུལ་ཕྲན་སྤུས་ཚད་རྩི་གཞི།
+    br: unanenn tolz atomek
+    bs: jedinica atomske mase
+    ca: unitat de massa atòmica
+    cs: dalton
+    cv: массăн атомла пĕрчи
+    cy: uned Dalton
+    da: atommasseenhed
+    de: atomare Masseneinheit
+    el: ατομική μονάδα μάζας
+    en: dalton
+    eo: daltono
+    es: unidad de masa atómica
+    et: aatommassiühik
+    eu: masa atomikoaren unitate
+    fa: یکای جرم اتمی
+    fi: atomimassayksikkö
+    fr: unité de masse atomique unifiée
+    frr: atomaar masenianhaid
+    fy: atomêre massa-ienheid
+    ga: aonad maise adamhaí
+    gl: unidade de masa atómica
+    he: יחידת מסה אטומית מאוחדת
+    hi: परमाण्विक भार इकाई
+    hr: atomska jedinica mase
+    hu: atomi tömegegység
+    hy: զանգվածի ատոմական միավոր
+    id: dalton
+    ilo: atomiko a masa ti yunit
+    it: unità di massa atomica
+    ja: ダルトン
+    ka: მასის ატომური ერთეული
+    kk: массаның атомдық бірлігі
+    kk-arab: ماسسانىڭ اتومدىق بىرلىگى
+    kk-cyrl: массаның атомдық бірлігі
+    kk-latn: massanıñ atomdıq birligi
+    ko: 원자 질량 단위
+    ks: ڈالٹَن
+    lt: atominės masės vienetas
+    lv: atommasas vienība
+    mdf: сталмость атомонь единицац
+    mk: атомска единица за маса
+    ml: അറ്റോമിക് മാസ്സ് യൂണിറ്റ്
+    mn: атомын жингийн нэгж
+    mt: unità ta' massa atomika
+    nap: unità e' massa atomeca
+    nb: atommasseenhet
+    nds: atomare Masseneenheit
+    nl: atomaire massa-eenheid
+    nn: atommasseeining
+    oc: unitat de massa atomica
+    pa: ਅਟਾਮਿਕ ਮਾਸ ਯੂਨਿਟ
+    pl: jednostka masy atomowej
+    pms: unità ëd massa atòmica
+    pnb: جوہری کمیتی اکائی
+    pt: unidade de massa atómica
+    pt-br: unidade de massa atômica
+    ro: unitate atomică de masă
+    ru: атомная единица массы
+    scn: unitati di massa atòmica
+    sh: jedinica atomske mase
+    sk: atómová hmotnostná jednotka
+    sl: dalton
+    sr: јединица атомске масе
+    sr-ec: јединица атомске масе
+    sr-el: jedinica atomske mase
+    sv: atommassenhet
+    ta: அணு நிறை அலகு
+    tg: боҳиди атомии масса
+    th: หน่วยมวลอะตอม
+    tr: atom kütle birimi
+    tt: массаның атом берәмлеге
+    udm: атом массалэн огметэз
+    uk: атомна одиниця маси
+    ur: جوہری کمیتی اکائی
+    uz: massaning atom birligi
+    vi: dalton
+    war: yunit masa atomiko
+    wuu: 原子质量单位
+    yue: 原子質量單位
+    zh: 原子质量单位
+    zh-hans: 原子质量单位
+    zh-hant: 原子質量單位
+    zh-hk: 原子質量單位
 ---
-
 # [[Unit~Dalton]]
 
 #is_/same_as :: [[../../WikiData/WD~Dalton,483261|WD~Dalton,483261]] 

@@ -1,13 +1,34 @@
 ---
 aliases:
-  - Pelophylax: ''
-  - Pelophylax
+- Bangkong héjo
+- Dīķa vardes
+- Groene kikkers
+- Groene puut
+- Gröngrodor
+- Pelophylax
+- skokan
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Táyiʼ chʼał
+- vihersammakot
+- Wasserfrösche
+- zelena žaba
+- водна жаба
+- зелёные лягушки
+- Зелена жаба
+- зелени жаби
+- Симĕс шапа
+- צפרדע
+- خافر الوحل
+- ضفدع الماء
+- 侧褶蛙属
+- 側褶蛙屬
+- 참개구리속
 title:
   Pelophylax: ''
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -28,10 +49,70 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - Pelophylax: ''
-  - excalidraw
+- Pelophylax: ''
+- excalidraw
 type: private_note
 has_id_wikidata: Q1187092
+dv_has_:
+  name_:
+    an: Pelophylax
+    ar: خافر الوحل
+    arz: ضفدع الماء
+    ast: Pelophylax
+    bg: зелени жаби
+    ca: Pelophylax
+    ceb: Pelophylax
+    cs: skokan
+    cv: Симĕс шапа
+    de: Wasserfrösche
+    en: Pelophylax
+    en-ca: Pelophylax
+    en-gb: Pelophylax
+    eo: Pelophylax
+    es: Pelophylax
+    eu: Pelophylax
+    ext: Pelophylax
+    fi: vihersammakot
+    fr: Pelophylax
+    ga: Pelophylax
+    gl: Pelophylax
+    he: צפרדע
+    hu: Pelophylax
+    ia: Pelophylax
+    id: Pelophylax
+    ie: Pelophylax
+    io: Pelophylax
+    it: Pelophylax
+    ko: 참개구리속
+    la: Pelophylax
+    lt: Pelophylax
+    lv: Dīķa vardes
+    mk: водна жаба
+    mul: Pelophylax
+    nb: Pelophylax
+    nl: Groene kikkers
+    nn: Pelophylax
+    nv: Táyiʼ chʼał
+    oc: Pelophylax
+    pl: Pelophylax
+    pt: Pelophylax
+    pt-br: Pelophylax
+    ro: Pelophylax
+    ru: зелёные лягушки
+    sl: zelena žaba
+    sq: Pelophylax
+    su: Bangkong héjo
+    sv: Gröngrodor
+    tr: Pelophylax
+    uk: Зелена жаба
+    vi: Pelophylax
+    vls: Groene puut
+    vo: Pelophylax
+    war: Pelophylax
+    zh: 侧褶蛙属
+    zh-cn: 侧褶蛙属
+    zh-hans: 侧褶蛙属
+    zh-tw: 側褶蛙屬
 ---
 # Rana (Pelophylax)
 

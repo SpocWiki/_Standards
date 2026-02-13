@@ -1,84 +1,272 @@
 ---
 aliases:
+- Ahrawa mu yareɛ
+- an diftéire
+- Barnaveiki
+- Bingh Conghhozhau
+- błonica
+- Bạch hầu
+- Croup
+- davica
+- difftheria
+- Difteeria
+- difteri
+- difteria
+- difterie
+- Difterija
+- difterio
+- Difterit
+- difterita
+- difterite
+- Difteriya
+- Difterya
+- diftheyr
+- diftèria
+- diftéria
+- diphtheria
+- Diphtherie
+- diphtérie
+- Dipterya
+- Diptéri
+- Dîfterî
+- Dïfterïya
+- kurkkumätä
+- Pha̍k-hèu
+- Taɣiṭṭ
+- Witseerkeel
+- záškrt
+- γουλάσ'
+- διφθερίτιδα
+- Гулӯзиндонак
+- дифтерія
+- Дифтерија
+- дифтерия
+- дыфтэрыя
+- Кептөөр
+- Դիֆթերիա
+- Կեղծմաշկ
+- דיפתריה
+- الدفتريا
+- خناق
+- دىيفتەرىييا
+- دیفتری
+- دیفتەری
+- هونّاق
+- ۂٹؠ وِسُر
+- ކަރުފޮޅު
+- घटसर्प
+- डिप्थीरिया
+- भ्यागुतेरोग
+- ডিপথেরিয়া
+- ডিপথেৰীয়া
+- କଣ୍ଠଅଳତି
+- డిఫ్తీరియా
+- ಗಂಟಲಮಾರಿ
+- ഡിഫ്തീരിയ
+- โรคคอตีบ
+- დიფთერია
+- ᱰᱤᱯᱛᱷᱤᱨᱤᱭᱟ
+- ジフテリア
+- 白喉
+- 디프테리아
 has_id_wikidata: Q134649
 ICD_10_CM:
-  - A36.9
-  - A36
-  - A36.0
-  - A36.1
-  - A36.2
-  - A36.3
-  - A36.8
+- A36.9
+- A36
+- A36.0
+- A36.1
+- A36.2
+- A36.3
+- A36.8
 UMLS_CUI:
-  - C0010153
-  - C0012546
-  - C1301422
+- C0010153
+- C0012546
+- C1301422
 MeSH_tree_code: C01.150.252.410.040.246.388
 Krugosvet_article: medicina/DIFTERIYA.html
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~swelling,109186]]"
-  - "[[_Standards/WikiData/WD~heart_failure,181754]]"
-  - "[[_Standards/WikiData/WD~tonsillitis,186470]]"
-  - "[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]"
-  - "[[_Standards/WikiData/WD~sore_throat,1292082]]"
-  - "[[_Standards/WikiData/WD~pseudomembrane,1495301]]"
-  - "[[_Standards/WikiData/WD~barking_cough,21513506]]"
-  - "[[_Standards/WikiData/WD~fever,38933]]"
+- '[[_Standards/WikiData/WD~swelling,109186]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~tonsillitis,186470]]'
+- '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
+- '[[_Standards/WikiData/WD~sore_throat,1292082]]'
+- '[[_Standards/WikiData/WD~pseudomembrane,1495301]]'
+- '[[_Standards/WikiData/WD~barking_cough,21513506]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~clarithromycin,118551]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~ampicillin,244150]]"
-  - "[[_Standards/WikiData/WD~benzylpenicillin,258450]]"
-  - "[[_Standards/WikiData/WD~tylosin,411462]]"
-  - "[[_Standards/WikiData/WD~diphtheria_antitoxin,15893399]]"
-  - "[[_Standards/WikiData/WD~penicillin,12190]]"
-has_cause: "[[_Standards/WikiData/WD~Corynebacterium_diphtheriae,131649]]"
+- '[[_Standards/WikiData/WD~clarithromycin,118551]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~ampicillin,244150]]'
+- '[[_Standards/WikiData/WD~benzylpenicillin,258450]]'
+- '[[_Standards/WikiData/WD~tylosin,411462]]'
+- '[[_Standards/WikiData/WD~diphtheria_antitoxin,15893399]]'
+- '[[_Standards/WikiData/WD~penicillin,12190]]'
+has_cause: '[[_Standards/WikiData/WD~Corynebacterium_diphtheriae,131649]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~notifiable_disease,314676]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+- '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 possible_treatment:
-  - "[[_Standards/WikiData/WD~tracheotomy,324921]]"
-  - "[[_Standards/WikiData/WD~antitoxin,584135]]"
-  - "[[_Standards/WikiData/WD~antibiotic,12187]]"
+- '[[_Standards/WikiData/WD~tracheotomy,324921]]'
+- '[[_Standards/WikiData/WD~antitoxin,584135]]'
+- '[[_Standards/WikiData/WD~antibiotic,12187]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~microbiological_culture,1125312]]"
-  - "[[_Standards/WikiData/WD~Elek's_test,1326345]]"
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+- "[[_Standards/WikiData/WD~Elek's_test,1326345]]"
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~droplet_infection,871752]]"
-  - "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-different_from: "[[_Standards/WikiData/WD~Krup,11748459]]"
+- '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+- '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+different_from: '[[_Standards/WikiData/WD~Krup,11748459]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~Corynebacterium_infection,69084244]]"
-  - "[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~Corynebacterium_infection,69084244]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 number_of_deaths: 2100
-DiseasesDB: "3122"
-OmegaWiki_Defined_Meaning: "1057696"
+DiseasesDB: 3122
+OmegaWiki_Defined_Meaning: 1057696
 ICD_9_CM:
-  - "032"
-  - "032.9"
+- 032
+- 032.9
 Commons_category: Diphtheria
 Commons_gallery: Diphtheria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20diphtheria%20skin%20lesion%20on%20the%20leg.%20PHIL%201941%20lores.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%A3%E0%AD%8D%E0%AC%A0%E0%AC%85%E0%AC%B3%E0%AC%A4%E0%AC%BF.wav
 exact_match:
-  - http://identifiers.org/doid/DOID:11405
-  - http://purl.obolibrary.org/obo/DOID_11405
-  - http://www.orpha.net/ORDO/Orphanet_1679
+- http://identifiers.org/doid/DOID:11405
+- http://purl.obolibrary.org/obo/DOID_11405
+- http://www.orpha.net/ORDO/Orphanet_1679
+dv_has_:
+  name_:
+    af: Witseerkeel
+    ar: خناق
+    arz: الدفتريا
+    as: ডিপথেৰীয়া
+    ast: Difteria
+    az: difteriya
+    azb: دیفتری
+    ba: Дифтерия
+    be: дыфтэрыя
+    be-tarask: дыфтэрыя
+    bg: Дифтерия
+    bn: ডিপথেরিয়া
+    ca: diftèria
+    cs: záškrt
+    csb: Difterit
+    cy: difftheria
+    da: difteri
+    de: Diphtherie
+    de-ch: Diphtherie
+    dv: ކަރުފޮޅު
+    el: διφθερίτιδα
+    en: diphtheria
+    en-ca: Diphtheria
+    en-gb: Diphtheria
+    eo: difterio
+    es: difteria
+    et: Difteeria
+    eu: Difteria
+    fa: دیفتری
+    fi: kurkkumätä
+    fr: diphtérie
+    ga: an diftéire
+    gl: Difteria
+    gpe: diphtheria
+    gv: diftheyr
+    hak: Pha̍k-hèu
+    he: דיפתריה
+    hi: डिप्थीरिया
+    hr: Difterija
+    hu: diftéria
+    hy: Դիֆթերիա
+    hyw: Կեղծմաշկ
+    id: difteri
+    io: Difterio
+    is: Barnaveiki
+    it: difterite
+    ja: ジフテリア
+    jv: Croup
+    ka: დიფთერია
+    kab: Taɣiṭṭ
+    kk: Дифтерия
+    kk-arab: دىيفتەرىييا
+    kk-cn: دىيفتەرىييا
+    kk-cyrl: Дифтерия
+    kk-kz: Дифтерия
+    kk-latn: Dïfterïya
+    kk-tr: Dïfterïya
+    kn: ಗಂಟಲಮಾರಿ
+    ko: 디프테리아
+    ks: ۂٹؠ وِسُر
+    ku: Dîfterî
+    ku-arab: دیفتەری
+    ku-latn: Dîfterî
+    ky: Кептөөр
+    la: diphtheria
+    lt: Difterija
+    lv: difterija
+    mk: Дифтерија
+    ml: ഡിഫ്തീരിയ
+    mr: घटसर्प
+    ms: Difteria
+    mt: difterite
+    mzn: هونّاق
+    nb: difteri
+    ne: भ्यागुतेरोग
+    nl: difterie
+    nn: difteri
+    oc: Difteria
+    or: କଣ୍ଠଅଳତି
+    pl: błonica
+    pnb: خناق
+    pnt: γουλάσ'
+    pt: difteria
+    pt-br: Difteria
+    ro: difterie
+    ru: дифтерия
+    sat: ᱰᱤᱯᱛᱷᱤᱨᱤᱭᱟ
+    sh: Difterija
+    sl: davica
+    sq: Difteria
+    sr: дифтерија
+    sr-ec: дифтерија
+    sr-el: difterija
+    su: Diptéri
+    sv: difteri
+    te: డిఫ్తీరియా
+    tg: Гулӯзиндонак
+    th: โรคคอตีบ
+    tl: Dipterya
+    tr: difteri
+    tt: дифтерия
+    tw: Ahrawa mu yareɛ
+    uk: дифтерія
+    ur: خناق
+    uz: Difteriya
+    vec: difterita
+    vi: Bạch hầu
+    war: Difterya
+    wuu: 白喉
+    yue: 白喉
+    za: Bingh Conghhozhau
+    zh: 白喉
+    zh-cn: 白喉
+    zh-hans: 白喉
+    zh-hant: 白喉
+    zh-hk: 白喉
+    zh-sg: 白喉
+    zh-tw: 白喉
 ---
-
 # [[Diphtheria]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Diphtheria,134649|WD~Diphtheria,134649]] 

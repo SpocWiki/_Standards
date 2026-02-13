@@ -1,112 +1,169 @@
 ---
 aliases:
-  - Lawrence of Arabia
-  - Lawrence_of_Arabia(Film)
-  - Lawrence of Arabia(Film)
+- Araabia Lawrence
+- Arabian Lawrence
+- Arabijos Lorensas
+- Arabistanlı Lawrence
+- Arábiai Lawrence
+- Arābijas Lorenss
+- Filem Lawrence of Arabia
+- Lawrence af Arabien
+- Lawrence al Arabiei
+- Lawrence Arabski
+- Lawrence av Arabien
+- Lawrence d'Arabia
+- Lawrence d'Arabie
+- Lawrence d'Aràbia
+- Lawrence da Arábia
+- Lawrence de Arabia
+- Lawrence han Arabya
+- Lawrence od Arabije
+- Lawrence of Arabia
+- Lawrence of Arabia(Film)
+- Lawrence von Arabien
+- Lawrence xứ Ả Rập
+- Lawrence z Arabii
+- Lawrence z Arábie
+- Lawrence_of_Arabia(Film)
+- Ərəbistanlı Lourens (film, 1962)
+- Ο Λόρενς της Αραβίας
+- Лоўрэнс Арабійскі
+- Лоўрэнс Аравійскі (фільм)
+- Лоренс од Арабија
+- Лоренс од Арабије
+- Лорънс Арабски
+- Лоуренс Аравійський
+- Лоуренс Аравийский
+- Լոուրենս Արաբացի
+- לורנס איש ערב
+- عربیستانین لورنسی (فیلم)
+- لارنس آف عربیہ
+- لارنس آف عربیہ (فلم)
+- لورنس الدزيرة لعربية
+- لورنس العرب
+- لورنس عربستان
+- لۆرانسی عەرەب
+- लॉरेन्स ऑफ अरेबिया
+- लॉरेन्स ऑफ अरेबिया (फ़िल्म)
+- লরেন্স অব অ্যারাবিয়া
+- ਲਾਰੈਂਸ ਆਫ਼ ਅਰੇਬੀਆ
+- லாரன்ஸ் ஒப் அரேபியா
+- లారెన్స్ ఆఫ్ అరేబియా
+- ലോറൻസ് ഓഫ് അറേബ്യ
+- ลอเรนซ์แห่งอาราเบีย
+- ლოურენს არაბი (ფილმი)
+- アラビアのロレンス
+- 时势英雄
+- 沙漠枭雄
+- 沙漠梟雄
+- 阿拉伯个劳伦斯 (电影)
+- 阿拉伯的劳伦斯
+- 阿拉伯的勞倫斯
+- 아라비아의 로렌스
 has_id_wikidata: Q228186
 cast_member:
-  - '[[_Standards/WikiData/WD~Anthony_Quinn,83484]]'
-  - "[[_Standards/WikiData/WD~Peter_O'Toole,103876]]"
-  - '[[_Standards/WikiData/WD~Alec_Guinness,103894]]'
-  - '[[_Standards/WikiData/WD~Harry_Fowler,138715]]'
-  - '[[_Standards/WikiData/WD~Michel_de_Carvalho,145392]]'
-  - '[[_Standards/WikiData/WD~Omar_Sharif,170515]]'
-  - '[[_Standards/WikiData/WD~José_Ferrer,312098]]'
-  - '[[_Standards/WikiData/WD~Claude_Rains,318734]]'
-  - '[[_Standards/WikiData/WD~Anthony_Quayle,347711]]'
-  - '[[_Standards/WikiData/WD~Arthur_Kennedy,351838]]'
-  - '[[_Standards/WikiData/WD~Donald_Wolfit,530758]]'
-  - '[[_Standards/WikiData/WD~Norman_Rossington,552670]]'
-  - '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
-  - '[[_Standards/WikiData/WD~Jack_Gwillim,1029099]]'
-  - '[[_Standards/WikiData/WD~James_Hayter,1287856]]'
-  - '[[_Standards/WikiData/WD~Peter_Burton,1394945]]'
-  - '[[_Standards/WikiData/WD~Fernando_Sancho,1406829]]'
-  - '[[_Standards/WikiData/WD~George_Plimpton,1508079]]'
-  - '[[_Standards/WikiData/WD~Henry_Oscar,1607113]]'
-  - '[[_Standards/WikiData/WD~Gamil_Ratib,2744961]]'
-  - '[[_Standards/WikiData/WD~Jack_Hedley,3157206]]'
-  - '[[_Standards/WikiData/WD~Zia_Mohyeddin,3575460]]'
-  - '[[_Standards/WikiData/WD~Bryan_Pringle,3646136]]'
-  - '[[_Standards/WikiData/WD~Robert_Riettii,3938408]]'
-  - '[[_Standards/WikiData/WD~Howard_Marion_Crawford,5920311]]'
-  - '[[_Standards/WikiData/WD~John_Ruddock,6255904]]'
-  - '[[_Standards/WikiData/WD~Rafael_Hernández,7282171]]'
-  - '[[_Standards/WikiData/WD~I._S._Johar,11108314]]'
-  - '[[_Standards/WikiData/WD~Hugh_Miller,15437679]]'
-  - '[[_Standards/WikiData/WD~Robert_Bolt,26062]]'
-  - '[[_Standards/WikiData/WD~Jack_Hawkins,26118]]'
-  - '[[_Standards/WikiData/WD~David_Lean,55260]]'
+- '[[_Standards/WikiData/WD~Anthony_Quinn,83484]]'
+- "[[_Standards/WikiData/WD~Peter_O'Toole,103876]]"
+- '[[_Standards/WikiData/WD~Alec_Guinness,103894]]'
+- '[[_Standards/WikiData/WD~Harry_Fowler,138715]]'
+- '[[_Standards/WikiData/WD~Michel_de_Carvalho,145392]]'
+- '[[_Standards/WikiData/WD~Omar_Sharif,170515]]'
+- '[[_Standards/WikiData/WD~José_Ferrer,312098]]'
+- '[[_Standards/WikiData/WD~Claude_Rains,318734]]'
+- '[[_Standards/WikiData/WD~Anthony_Quayle,347711]]'
+- '[[_Standards/WikiData/WD~Arthur_Kennedy,351838]]'
+- '[[_Standards/WikiData/WD~Donald_Wolfit,530758]]'
+- '[[_Standards/WikiData/WD~Norman_Rossington,552670]]'
+- '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
+- '[[_Standards/WikiData/WD~Jack_Gwillim,1029099]]'
+- '[[_Standards/WikiData/WD~James_Hayter,1287856]]'
+- '[[_Standards/WikiData/WD~Peter_Burton,1394945]]'
+- '[[_Standards/WikiData/WD~Fernando_Sancho,1406829]]'
+- '[[_Standards/WikiData/WD~George_Plimpton,1508079]]'
+- '[[_Standards/WikiData/WD~Henry_Oscar,1607113]]'
+- '[[_Standards/WikiData/WD~Gamil_Ratib,2744961]]'
+- '[[_Standards/WikiData/WD~Jack_Hedley,3157206]]'
+- '[[_Standards/WikiData/WD~Zia_Mohyeddin,3575460]]'
+- '[[_Standards/WikiData/WD~Bryan_Pringle,3646136]]'
+- '[[_Standards/WikiData/WD~Robert_Riettii,3938408]]'
+- '[[_Standards/WikiData/WD~Howard_Marion_Crawford,5920311]]'
+- '[[_Standards/WikiData/WD~John_Ruddock,6255904]]'
+- '[[_Standards/WikiData/WD~Rafael_Hernández,7282171]]'
+- '[[_Standards/WikiData/WD~I._S._Johar,11108314]]'
+- '[[_Standards/WikiData/WD~Hugh_Miller,15437679]]'
+- '[[_Standards/WikiData/WD~Robert_Bolt,26062]]'
+- '[[_Standards/WikiData/WD~Jack_Hawkins,26118]]'
+- '[[_Standards/WikiData/WD~David_Lean,55260]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]'
-  - '[[_Standards/WikiData/WD~Silver_nugget_for_the_best_foreign_film,19573074]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]'
+- '[[_Standards/WikiData/WD~Silver_nugget_for_the_best_foreign_film,19573074]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Color,21995136]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Color,22253131]]'
 composer: '[[_Standards/WikiData/WD~Maurice_Jarre,105487]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~war_film,369747]]'
-  - '[[_Standards/WikiData/WD~biographical_film,645928]]'
-  - '[[_Standards/WikiData/WD~epic_film,652256]]'
-  - '[[_Standards/WikiData/WD~flashback_film,21401869]]'
-  - '[[_Standards/WikiData/WD~film_based_on_book,52207310]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~biographical_film,645928]]'
+- '[[_Standards/WikiData/WD~epic_film,652256]]'
+- '[[_Standards/WikiData/WD~flashback_film,21401869]]'
+- '[[_Standards/WikiData/WD~film_based_on_book,52207310]]'
 distributed_by:
-  - '[[_Standards/WikiData/WD~Microsoft_Store,135288]]'
-  - '[[_Standards/WikiData/WD~Columbia_Pictures,186941]]'
-  - '[[_Standards/WikiData/WD~Netflix,907311]]'
+- '[[_Standards/WikiData/WD~Microsoft_Store,135288]]'
+- '[[_Standards/WikiData/WD~Columbia_Pictures,186941]]'
+- '[[_Standards/WikiData/WD~Netflix,907311]]'
 main_subject:
-  - '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
-  - '[[_Standards/WikiData/WD~grandiose_delusions,987664]]'
-  - '[[_Standards/WikiData/WD~rivalry,1139327]]'
-  - '[[_Standards/WikiData/WD~cultural_identity,1368367]]'
-  - '[[_Standards/WikiData/WD~male_bonding,11122599]]'
-  - '[[_Standards/WikiData/WD~assassin,55983771]]'
-  - '[[_Standards/WikiData/WD~power,25107]]'
+- '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
+- '[[_Standards/WikiData/WD~grandiose_delusions,987664]]'
+- '[[_Standards/WikiData/WD~rivalry,1139327]]'
+- '[[_Standards/WikiData/WD~cultural_identity,1368367]]'
+- '[[_Standards/WikiData/WD~male_bonding,11122599]]'
+- '[[_Standards/WikiData/WD~assassin,55983771]]'
+- '[[_Standards/WikiData/WD~power,25107]]'
 characters:
-  - '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
-  - '[[_Standards/WikiData/WD~Faisal_I_of_Iraq,212486]]'
-  - '[[_Standards/WikiData/WD~Edmund_Allenby,_1st_Viscount_Allenby,334846]]'
-  - '[[_Standards/WikiData/WD~Auda_ibu_Tayi,737228]]'
-  - '[[_Standards/WikiData/WD~Archibald_James_Murray,2668631]]'
-  - '[[_Standards/WikiData/WD~Harry_Brighton,5667496]]'
-  - '[[_Standards/WikiData/WD~Jackson_Bentley,6116956]]'
-  - '[[_Standards/WikiData/WD~Mr._Dryden,6928611]]'
+- '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
+- '[[_Standards/WikiData/WD~Faisal_I_of_Iraq,212486]]'
+- '[[_Standards/WikiData/WD~Edmund_Allenby,_1st_Viscount_Allenby,334846]]'
+- '[[_Standards/WikiData/WD~Auda_ibu_Tayi,737228]]'
+- '[[_Standards/WikiData/WD~Archibald_James_Murray,2668631]]'
+- '[[_Standards/WikiData/WD~Harry_Brighton,5667496]]'
+- '[[_Standards/WikiData/WD~Jackson_Bentley,6116956]]'
+- '[[_Standards/WikiData/WD~Mr._Dryden,6928611]]'
 screenwriter:
-  - '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
-  - '[[_Standards/WikiData/WD~Michael_Wilson,25871]]'
-  - '[[_Standards/WikiData/WD~Robert_Bolt,26062]]'
+- '[[_Standards/WikiData/WD~T._E._Lawrence,170596]]'
+- '[[_Standards/WikiData/WD~Michael_Wilson,25871]]'
+- '[[_Standards/WikiData/WD~Robert_Bolt,26062]]'
 narrative_location:
-  - '[[_Standards/WikiData/WD~Aqaba,180522]]'
-  - '[[_Standards/WikiData/WD~Jordan,810]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
-  - '[[_Standards/WikiData/WD~Cairo,85]]'
+- '[[_Standards/WikiData/WD~Aqaba,180522]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Cairo,85]]'
 production_designer: '[[_Standards/WikiData/WD~John_Box,327391]]'
 distribution_format: '[[_Standards/WikiData/WD~video_on_demand,723685]]'
 part_of: '[[_Standards/WikiData/WD~National_Film_Registry,823422]]'
 director_of_photography: '[[_Standards/WikiData/WD~Q965659,965659]]'
 costume_designer: '[[_Standards/WikiData/WD~Phyllis_Dalton,2089199]]'
 assessment:
-  - '[[_Standards/WikiData/WD~Bechdel_test,4165246]]'
-  - '[[_Standards/WikiData/WD~Mako_Mori_test,85783379]]'
-  - '[[_Standards/WikiData/WD~Riz_Test,102180036]]'
-  - '[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]'
+- '[[_Standards/WikiData/WD~Bechdel_test,4165246]]'
+- '[[_Standards/WikiData/WD~Mako_Mori_test,85783379]]'
+- '[[_Standards/WikiData/WD~Riz_Test,102180036]]'
+- '[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]'
 production_company: '[[_Standards/WikiData/WD~Horizon_Pictures,5903471]]'
 MPA_film_rating: '[[_Standards/WikiData/WD~PG,18665334]]'
 FSK_film_rating: '[[_Standards/WikiData/WD~FSK_12,20644796]]'
@@ -121,10 +178,10 @@ CNC_film_rating_Romania_: '[[_Standards/WikiData/WD~A.P._12,27915575]]'
 Medierådet_rating: '[[_Standards/WikiData/WD~For_ages_15_and_up,56887761]]'
 soundtrack_release: '[[_Standards/WikiData/WD~Lawrence_of_Arabia_Original_Soundtrack_Recording,118903902]]'
 filming_location:
-  - '[[_Standards/WikiData/WD~Jordan,810]]'
-  - '[[_Standards/WikiData/WD~Morocco,1028]]'
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
 set_in_environment: '[[_Standards/WikiData/WD~desert,8514]]'
 instance_of: '[[_Standards/WikiData/WD~film,11424]]'
@@ -132,8 +189,8 @@ based_on: '[[_Standards/WikiData/WD~Seven_Pillars_of_Wisdom,24323]]'
 film_editor: '[[_Standards/WikiData/WD~Anne_V._Coates,31294]]'
 producer: '[[_Standards/WikiData/WD~Sam_Spiegel,31292]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 capital_cost: 15000000
 duration: 216
 executive_producer: '[[_Standards/WikiData/WD~David_Lean,55260]]'
@@ -141,19 +198,19 @@ director: '[[_Standards/WikiData/WD~David_Lean,55260]]'
 exploitation_mark_number: 27086
 subreddit: LawrenceOfArabia
 box_office:
-  - 45306425
-  - 45716692
+- 45306425
+- 45716692
 title: Lawrence of Arabia
 review_score:
-  - 93%
-  - 9.3/10
-  - 100/100
+- 93%
+- 9.3/10
+- 100/100
 publication_date:
-  - 1963-03-15T00:00:00Z
-  - 1962-12-16T00:00:00Z
-  - 1962-12-11T00:00:00Z
-  - 1962-12-10T00:00:00Z
-  - 1962-01-01T00:00:00Z
+- 1963-03-15T00:00:00Z
+- 1962-12-16T00:00:00Z
+- 1962-12-11T00:00:00Z
+- 1962-12-10T00:00:00Z
+- 1962-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Of%20Arabia%20%281962%29%20-%20Trailer.webm
 film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20of%20arabia%20ver3%20xxlg.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20OToole%20in%20Lawrence%20of%20Arabia.jpg
@@ -163,8 +220,95 @@ Wolfram_Language_entity_code: Entity["Movie", "LawrenceOfArabia::fm9cr"]
 Archive_of_Our_Own_tag: Lawrence of Arabia (1962)
 Commons_category: Lawrence of Arabia (film)
 EcuRed_article: Lawrence_de_Arabia_(película)
+dv_has_:
+  name_:
+    an: Lawrence of Arabia
+    ar: لورنس العرب
+    ary: لورنس الدزيرة لعربية
+    arz: لورنس العرب
+    ast: Lawrence of Arabia
+    az: Ərəbistanlı Lourens (film, 1962)
+    azb: عربیستانین لورنسی (فیلم)
+    be: Лоўрэнс Аравійскі (фільм)
+    be-tarask: Лоўрэнс Арабійскі
+    bg: Лорънс Арабски
+    bn: লরেন্স অব অ্যারাবিয়া
+    br: Lawrence of Arabia
+    bs: Lawrence od Arabije
+    ca: Lawrence d'Aràbia
+    ckb: لۆرانسی عەرەب
+    cs: Lawrence z Arábie
+    cy: Lawrence of Arabia
+    da: Lawrence af Arabien
+    de: Lawrence von Arabien
+    de-ch: Lawrence von Arabien
+    el: Ο Λόρενς της Αραβίας
+    en: Lawrence of Arabia
+    en-ca: Lawrence of Arabia
+    en-gb: Lawrence of Arabia
+    eo: Lawrence of Arabia
+    es: Lawrence de Arabia
+    et: Araabia Lawrence
+    eu: Lawrence of Arabia
+    fa: لورنس عربستان
+    fi: Arabian Lawrence
+    fr: Lawrence d'Arabie
+    ga: Lawrence of Arabia
+    gl: Lawrence de Arabia
+    he: לורנס איש ערב
+    hi: लॉरेन्स ऑफ अरेबिया (फ़िल्म)
+    hr: Lawrence od Arabije
+    hu: Arábiai Lawrence
+    hy: Լոուրենս Արաբացի
+    id: Lawrence of Arabia
+    it: Lawrence d'Arabia
+    ja: アラビアのロレンス
+    ka: ლოურენს არაბი (ფილმი)
+    ko: 아라비아의 로렌스
+    la: Lawrence of Arabia
+    lb: Lawrence of Arabia
+    lt: Arabijos Lorensas
+    lv: Arābijas Lorenss
+    mk: Лоренс од Арабија
+    ml: ലോറൻസ് ഓഫ് അറേബ്യ
+    mr: लॉरेन्स ऑफ अरेबिया
+    ms: Filem Lawrence of Arabia
+    mul: Lawrence of Arabia
+    nb: Lawrence of Arabia
+    nl: Lawrence of Arabia
+    nn: Lawrence of Arabia
+    pa: ਲਾਰੈਂਸ ਆਫ਼ ਅਰੇਬੀਆ
+    pl: Lawrence z Arabii
+    pnb: لارنس آف عربیہ (فلم)
+    pt: Lawrence da Arábia
+    pt-br: Lawrence da Arábia
+    ro: Lawrence al Arabiei
+    ru: Лоуренс Аравийский
+    sco: Lawrence of Arabia
+    sh: Lawrence of Arabia
+    sl: Lawrence Arabski
+    sr: Лоренс од Арабије
+    sr-ec: Лоренс од Арабије
+    sv: Lawrence av Arabien
+    ta: லாரன்ஸ் ஒப் அரேபியா
+    te: లారెన్స్ ఆఫ్ అరేబియా
+    th: ลอเรนซ์แห่งอาราเบีย
+    tr: Arabistanlı Lawrence
+    uk: Лоуренс Аравійський
+    ur: لارنس آف عربیہ
+    vi: Lawrence xứ Ả Rập
+    war: Lawrence han Arabya
+    wuu: 阿拉伯个劳伦斯 (电影)
+    yue: 沙漠梟雄
+    zh: 阿拉伯的劳伦斯
+    zh-cn: 阿拉伯的劳伦斯
+    zh-hans: 阿拉伯的劳伦斯
+    zh-hant: 阿拉伯的勞倫斯
+    zh-hk: 沙漠梟雄
+    zh-my: 沙漠枭雄
+    zh-sg: 时势英雄
+    zh-tw: 阿拉伯的勞倫斯
 ---
-
 # [[Lawrence_of_Arabia(Film)]] 
 
 #is_/same_as :: [[WD~Lawrence_of_Arabia,228186]] 

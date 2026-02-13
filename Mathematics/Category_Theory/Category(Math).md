@@ -1,21 +1,51 @@
 ---
 aliases:
-  - Kategorie
-  - Category
-  - Category(Math)
+- categoria
+- categorie
+- Category
+- Category(Math)
+- categorìa
+- categoría
+- catégorie
+- Etuluba
+- kategooria
+- kategori
+- kategoria
+- Kategorie
+- kategoriija
+- kategorija
+- kategorio
+- kategoriya
+- kategorya
+- kategória
+- phạm trù
+- ulam
+- категорія
+- категорија
+- категория
+- катэгорыя
+- կատեգորիա
+- קטגוריה
+- رده
+- فئة
+- کاتݢوري
+- 圏
+- 範疇
+- 范畴
+- 범주
 has_id_wikidata: Q719395
 studied_by: '[[_Standards/WikiData/WD~category_theory,217413]]'
 follows: '[[_Standards/WikiData/WD~class,217594]]'
 different_from: '[[_Standards/WikiData/WD~Category,224414]]'
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Saunders_Mac_Lane,441223]]'
-  - '[[_Standards/WikiData/WD~Samuel_Eilenberg,535833]]'
+- '[[_Standards/WikiData/WD~Saunders_Mac_Lane,441223]]'
+- '[[_Standards/WikiData/WD~Samuel_Eilenberg,535833]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~morphism,1948412]]'
-  - '[[_Standards/WikiData/WD~object_of_a_category,15975724]]'
+- '[[_Standards/WikiData/WD~morphism,1948412]]'
+- '[[_Standards/WikiData/WD~object_of_a_category,15975724]]'
 followed_by:
-  - '[[_Standards/WikiData/WD~strict_2_category,4596935]]'
-  - '[[_Standards/WikiData/WD~bicategory,4903541]]'
+- '[[_Standards/WikiData/WD~strict_2_category,4596935]]'
+- '[[_Standards/WikiData/WD~bicategory,4903541]]'
 subclass_of: '[[_Standards/WikiData/WD~weak_n_category,7977957]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 series_ordinal: 1
@@ -23,8 +53,74 @@ quantity_symbol_string_: C
 time_of_discovery_or_invention: 1945-01-01T00:00:00Z
 P8189: 987007284853105171
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
+dv_has_:
+  name_:
+    af: kategorie
+    ar: فئة
+    be-tarask: катэгорыя
+    bg: категория
+    ca: categoria
+    cs: kategorie
+    da: kategori
+    de: Kategorie
+    en: category
+    eo: kategorio
+    es: categoría
+    et: kategooria
+    eu: kategoria
+    fa: رده
+    fi: kategoria
+    fr: catégorie
+    gl: categoría
+    he: קטגוריה
+    hu: kategória
+    hy: կատեգորիա
+    ia: categoria
+    id: kategori
+    ie: categorie
+    io: kategorio
+    it: categoria
+    ja: 圏
+    ko: 범주
+    krj: kategoriya
+    la: categoria
+    lfn: categoria
+    lg: Etuluba
+    lv: kategorija
+    lzh: 範疇
+    mk: категорија
+    ms: kategori
+    ms-arab: کاتݢوري
+    nb: kategori
+    nl: categorie
+    nn: kategori
+    nov: kategorie
+    pl: kategoria
+    pt: categoria
+    pt-br: categoria
+    ro: categorie
+    ru: категория
+    se: kategoriija
+    sk: kategória
+    sl: kategorija
+    smn: kategoria
+    sms: kategoria
+    sr: категорија
+    sr-ec: категорија
+    sr-el: kategorija
+    sv: kategori
+    tl: kategorya
+    tr: ulam
+    uk: категорія
+    vec: categorìa
+    vi: phạm trù
+    wuu: 范畴
+    yue: 範疇
+    zh: 範疇
+    zh-hans: 范畴
+    zh-hant: 範疇
+    zh-hk: 範疇
 ---
-
 # [[Category(Math)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Category,719395|WD~Category,719395]] 

@@ -1,8 +1,128 @@
 ---
 has_id_wikidata: Q1251421
+dv_has_:
+  name_:
+    af: Aculeata
+    an: Aculeata
+    ar: ذوات الحمة
+    arz: ذوات الحمه
+    ast: Aculeata
+    az: İynəlilər
+    bar: Aculeata
+    bg: жилещи насекоми
+    br: Aculeata
+    ca: Aculeat
+    ceb: Aculeata
+    co: Aculeata
+    cs: Aculeata
+    cy: Aculeata
+    da: Brodhvepse
+    de: Stechimmen
+    de-at: Aculeata
+    de-ch: Aculeata
+    el: Aculeata
+    en: Aculeata
+    en-ca: Aculeata
+    en-gb: Aculeata
+    eo: Aculeata
+    es: Aculeata
+    et: Astlalised
+    eu: Aculeata
+    ext: Aculeata
+    fa: زنبورهای نیشدار
+    fi: myrkkypistiäiset
+    fr: Aculeata
+    frp: Aculeata
+    fur: Aculeata
+    ga: Aculeata
+    gd: Aculeata
+    gl: Aculeata
+    gsw: Aculeata
+    hr: Žalčari
+    hu: Aculeata
+    ia: Aculeata
+    id: Aculeata
+    ie: Aculeata
+    io: Aculeata
+    is: Gaddvespur
+    it: Aculeata
+    ja: 有剣類
+    kg: Aculeata
+    kk: Шағатын жарғаққанаттылар
+    la: Aculeata
+    lb: Aculeata
+    li: Aculeata
+    lij: Aculeata
+    lv: Dzēlējlapsenes
+    mg: Aculeata
+    min: Aculeata
+    ms: Aculeata
+    mul: Aculeata
+    nap: Aculeata
+    nb: broddvepser
+    nds: Steekimmen
+    nds-nl: Aculeata
+    nl: Aculeata
+    nn: Aculeata
+    nrm: Aculeata
+    nys: Aculeata
+    oc: Aculeata
+    pcd: Aculeata
+    pl: żądłówki
+    pms: Aculeata
+    pt: Aculeata
+    pt-br: Aculeata
+    rm: Aculeata
+    ro: Aculeata
+    ru: Aculeata
+    sc: Aculeata
+    scn: Aculeata
+    sco: Aculeata
+    sk: Žihadlovce
+    sl: pikajoči kožekrilci
+    sq: Aculeata
+    sr: Aculeata
+    sv: gaddsteklar
+    sw: Aculeata
+    uk: Aculeata
+    vec: Aculeata
+    vi: Aculeata
+    vls: Aculeata
+    vo: Aculeata
+    wa: Aculeata
+    war: Aculeata
+    wo: Aculeata
+    zh: 針尾下目
+    zh-cn: 针尾下目
+    zh-hans: 针尾下目
+    zh-hant: 針尾下目
+    zu: Aculeata
+aliases:
+- Aculeat
+- Aculeata
+- Astlalised
+- broddvepser
+- Brodhvepse
+- Dzēlējlapsenes
+- gaddsteklar
+- Gaddvespur
+- myrkkypistiäiset
+- pikajoči kožekrilci
+- Stechimmen
+- Steekimmen
+- İynəlilər
+- żądłówki
+- Žalčari
+- Žihadlovce
+- жилещи насекоми
+- Шағатын жарғаққанаттылар
+- ذوات الحمة
+- ذوات الحمه
+- زنبورهای نیشدار
+- 有剣類
+- 針尾下目
+- 针尾下目
 ---
-
-
 # [[Aculeata]] 
 
 

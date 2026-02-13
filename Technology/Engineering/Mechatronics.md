@@ -1,25 +1,153 @@
 ---
 aliases:
+- Cơ điện tử
+- Endezyariya mekatronîkê
+- kejuruteraan mekatronik
+- Mecatronica
+- Mecatronică
+- mecatrònica
+- mecatrónica
+- mecatrônica
+- meccatronica
+- mechatronica
+- mechatronics
+- Mechatronik
+- mechatronika
+- mehatronika
+- Mehatronika we robototehnika inženerligi
+- mehhatroonika
+- meicitreonaic
+- mekatronihkka
+- mekatroniik
+- mekatroniikka
+- mekatronik
+- Mekatronika
+- mekatronikk
+- mekatronikë
+- Mexatronika
+- Meĥatroniko
+- mécatronique
+- Μηχατρονική
+- мехатроніка
+- Мехатроник
+- мехатроника
+- мэхатроніка
+- Մեխատրոնիկա
+- מכטרוניקה
+- آلاقیات
+- مهندسی مکاترونیک
+- ميكانيكا إلكترونية
+- मेकाट्रॉनिक्स
+- তড়িৎযন্ত্র প্রকৌশল
+- எந்திர மின்னணுவியல்
+- మెకెట్రోనిక్స్
+- ಮೆಕಾಟ್ರಾನಿಕ್ಸ್
+- മെക്കട്രോണിക്സ്
+- เมคคาทรอนิกส์
+- မက္ကထရောနစ်ပညာရပ်
+- メカトロニクス
+- 机械电子
+- 机械电子学
+- 機械電子
+- 機電工程
+- 메카트로닉스
 has_id_wikidata: Q180165
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~control_engineering,4917288]]"
-  - "[[_Standards/WikiData/WD~electromechanical_engineering,12176496]]"
-  - "[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]"
-  - "[[_Standards/WikiData/WD~technology,11016]]"
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9015856,9015856]]"
+- '[[_Standards/WikiData/WD~control_engineering,4917288]]'
+- '[[_Standards/WikiData/WD~electromechanical_engineering,12176496]]'
+- '[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]'
+- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~computer_science,21198]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9015856,9015856]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~mechatronics_technician,15834659]]"
-  - "[[_Standards/WikiData/WD~mechatronic_engineer,57065478]]"
-OmegaWiki_Defined_Meaning: "1220472"
+- '[[_Standards/WikiData/WD~mechatronics_technician,15834659]]'
+- '[[_Standards/WikiData/WD~mechatronic_engineer,57065478]]'
+OmegaWiki_Defined_Meaning: 1220472
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robot%20worker.jpg
 GitHub_topic: mechatronics
 Commons_category: Mechatronics
+dv_has_:
+  name_:
+    ar: ميكانيكا إلكترونية
+    ast: mecatrónica
+    az: Mexatronika
+    be-tarask: мэхатроніка
+    bg: Мехатроника
+    bn: তড়িৎযন্ত্র প্রকৌশল
+    ca: mecatrònica
+    cs: mechatronika
+    de: Mechatronik
+    el: Μηχατρονική
+    en: mechatronics
+    eo: Meĥatroniko
+    es: mecatrónica
+    et: mehhatroonika
+    eu: Mekatronika
+    fa: مهندسی مکاترونیک
+    fi: mekatroniikka
+    fr: mécatronique
+    ga: meicitreonaic
+    he: מכטרוניקה
+    hi: मेकाट्रॉनिक्स
+    hr: mehatronika
+    hu: mechatronika
+    hy: Մեխատրոնիկա
+    id: Mekatronika
+    it: meccatronica
+    ja: メカトロニクス
+    kn: ಮೆಕಾಟ್ರಾನಿಕ್ಸ್
+    ko: 메카트로닉스
+    ku: Endezyariya mekatronîkê
+    lt: mechatronika
+    mk: Мехатроника
+    ml: മെക്കട്രോണിക്സ്
+    mn: Мехатроник
+    ms: kejuruteraan mekatronik
+    my: မက္ကထရောနစ်ပညာရပ်
+    nb: mekatronikk
+    nl: mechatronica
+    nn: Mekatronikk
+    oc: Mecatronica
+    pl: mechatronika
+    pms: Mecatrònica
+    pt: mecatrônica
+    pt-br: mecatrônica
+    ro: Mecatronică
+    ru: мехатроника
+    se: mekatronihkka
+    sh: Mehatronika
+    sk: mechatronika
+    sl: mehatronika
+    smn: mekatroniik
+    sms: mekatronikk
+    sq: mekatronikë
+    sr: мехатроника
+    sr-ec: Мехатроника
+    sr-el: Mehatronika
+    sv: mekatronik
+    ta: எந்திர மின்னணுவியல்
+    te: మెకెట్రోనిక్స్
+    th: เมคคาทรอนิกส์
+    tk: Mehatronika we robototehnika inženerligi
+    tr: Mekatronik
+    tt: мехатроника
+    uk: мехатроніка
+    ur: آلاقیات
+    vi: Cơ điện tử
+    war: Mekatronika
+    wuu: 机械电子学
+    yue: 機電工程
+    zh: 机械电子学
+    zh-cn: 机械电子
+    zh-hans: 机械电子
+    zh-hant: 機械電子
+    zh-hk: 機械電子
+    zh-sg: 机械电子
+    zh-tw: 機械電子
 ---
-
 # [[Mechatronics]] 
 
 #is_/same_as :: [[WD~Mechatronics,180165]] 

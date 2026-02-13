@@ -1,23 +1,139 @@
 ---
 aliases:
-  - Austronesian languages
-  - LangFamily-Austronesian
+- austroneesia keeled
+- Austroneesk spriaken
+- Austronesia
+- austronesialaiset kielet
+- Austronesian
+- Austronesian bhasa
+- Austronesian languages
+- austronesiar hizkuntzak
+- Austronesiese tale
+- Austronesisch
+- Austronesische Sprachen
+- Austronesische talen
+- Austronesische taole
+- austronesischi Sproche
+- austronesiska språk
+- austronesiske sprog
+- austronesiske språk
+- austroneziana linguaro
+- austronezijski jezici
+- austronezinės kalbos
+- austronéské jazyky
+- austronézske jazyky
+- austronēziešu valodas
+- ausztronéz nyelvcsalád
+- Avstronez tillari
+- avstronezijski jeziki
+- Avstroneziya dilləri
+- Avstroneziya tilleri
+- avustronezya dilleri
+- Awstrunisyu rimaykuna
+- aŭstronezia lingvaro
+- bahasa-bahasa Austronesia
+- Basa Austronésia
+- Deng amanung Awstronesyu
+- Edorer Otereinitsiya
+- Fiteny aostroneziana
+- Gjuha Austronesiane
+- Ieithoedd Awstronesaidd
+- Jaku-jaku Austronesia
+- języki austronezyjskie
+- kulupu toki Osonesija
+- LangFamily-Austronesian
+- langues austronésiennes
+- lengas austronesianas
+- Lenghe austronesian-e
+- lenguas austronesias
+- Lengue austronesièn
+- limbi austroneziene
+- linguae Austronesicae
+- linguas austronesian
+- linguas austronesias
+- lingue austronesiane
+- Lingues austronesian
+- lingui austrunisiani
+- llengües austronèsiques
+- llingües austronesies
+- Lugha za Kiaustronesia
+- Lâm-tó gí-hē
+- línguas austronésias
+- manga Inawstronesyanhën nga pulong
+- Mga pinulongang Awstronesyo
+- Mga tataramon na Austronesyo
+- Mga wikang Austronesyo
+- Mitauro ye Chiostironezhiya
+- ngữ hệ Nam Đảo
+- Notimolan kalokanatal a finacadan
+- Nàm-tó Ngî-hì
+- Rumpun Bahasa Austronesia
+- Rumpun bahaso Austronesia
+- Rungkun basa Ostronési
+- sasao nga Austronesio
+- Soroh Basa Austronésia
+- teangacha Astrainéiseacha
+- Vahhaeh Nanzdauj
+- Zıwanê Austronesya
+- Àwọn èdè Austronésíà
+- ástrónesísk tungumál
+- Çhengaghyn Austraineeshagh
+- łéngue austroneziane
+- Αυστρονησιακές γλώσσες
+- аўстранезійскія мовы
+- аўстранэзійскія мовы
+- австронезійські мови
+- австронезиаг æвзæгтæ
+- австронезийски езици
+- австронезийские языки
+- австронезиски јазици
+- аустронежански језици
+- ավստրոնեզյան լեզուներ
+- אויסטראנעזישע שפראכן
+- שפות אוסטרונזיות
+- آسترونزیایی زوونون
+- آسٹرونیشیائی بولیاں
+- آسٽرو- ايشيائي ٻوليون
+- آوسترونزییا دیللری
+- استرونزیایي ژبې
+- اللغات لأوسطرونيزية
+- جنوبی جزائری زبانیں
+- زبانهای آسترونزیایی
+- زمانی مینانگکاباو
+- لغات أسترونيزية
+- अस्ट्रोनेसियाली भाषा परिवार
+- ऑस्ट्रोनीशियाई भाषाएँ
+- ऑस्ट्रोनेशियन भाषासमूह
+- অস্ট্রোনেশীয় ভাষাসমূহ
+- ਆਸਟਰੋਨੇਸ਼ੀਆਈ ਭਾਸ਼ਾਵਾਂ
+- ஆத்திரனேசிய மொழிக்குடும்பம்
+- ಆಸ್ಟ್ರೋನೇಸ್ಯದ ಭಾಷೆಗಳು
+- ആസ്റ്റ്രൊനേഷ്യൻ ഭാഷകൾ
+- ตระกูลภาษาออสโตรนีเซียน
+- ავსტრონეზიული ენები
+- ავსტრონეზიული ნინეფი
+- អំបូរភាសាអូស្ត្រូណេស៊ី
+- ᱚᱥᱴᱨᱳᱱᱮᱥᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+- オーストロネシア語族
+- 南岛语系
+- 南島語系
+- 오스트로네시아어족
 has_id_wikidata: Q49228
 ABS_ASCL_2011_code:
-  - 65
-  - 93
+- 65
+- 93
 Commons_category: Austronesian languages
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 499.2
 different_from: '[[_Standards/WikiData/WD~Austroasiatic,33199]]'
 distribution_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20family.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20languages.PNG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20family.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Austronesian%20languages.PNG
 Glottolog_code: aust1307
 GOST_7_75_97_code: авс 017
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Malayo-Polynesian,143158]]'
-  - '[[_Standards/WikiData/WD~Formosan,715278]]'
+- '[[_Standards/WikiData/WD~Malayo-Polynesian,143158]]'
+- '[[_Standards/WikiData/WD~Formosan,715278]]'
 IETF_language_tag: map
 instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 ISO_639_2_code: map
@@ -28,16 +144,147 @@ located_in_on_physical_feature: '[[_Standards/WikiData/WD~Taiwan_Island,22502]]'
 number_of_speakers_writers_or_signers: 300000000
 OmegaWiki_Defined_Meaning: 1639143
 subclass_of:
-  - '[[_Standards/WikiData/WD~Austric,783787]]'
-  - '[[_Standards/WikiData/WD~Austro-Tai,783816]]'
-  - '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
+- '[[_Standards/WikiData/WD~Austric,783787]]'
+- '[[_Standards/WikiData/WD~Austro-Tai,783816]]'
+- '[[_Standards/WikiData/WD~Sino-Austronesian,7524744]]'
 tags:
-  - Lang_Family
+- Lang_Family
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Austronesian_languages,19891014]]'
 type: LangFamily
 WALS_family_code: austronesian
+dv_has_:
+  name_:
+    af: Austronesiese tale
+    ami: Notimolan kalokanatal a finacadan
+    ar: لغات أسترونيزية
+    ary: اللغات لأوسطرونيزية
+    ast: llingües austronesies
+    az: Avstroneziya dilləri
+    azb: آوسترونزییا دیللری
+    ban: Soroh Basa Austronésia
+    bcl: Mga tataramon na Austronesyo
+    be: аўстранезійскія мовы
+    be-tarask: аўстранэзійскія мовы
+    bew: Rungkun basa Ostronési
+    bg: австронезийски езици
+    bn: অস্ট্রোনেশীয় ভাষাসমূহ
+    ca: llengües austronèsiques
+    ceb: Mga pinulongang Awstronesyo
+    ckb: زمانی مینانگکاباو
+    cs: austronéské jazyky
+    cy: Ieithoedd Awstronesaidd
+    da: austronesiske sprog
+    de: Austronesisch
+    de-ch: Austronesische Sprachen
+    diq: Zıwanê Austronesya
+    el: Αυστρονησιακές γλώσσες
+    en: Austronesian
+    eo: aŭstronezia lingvaro
+    es: lenguas austronesias
+    et: austroneesia keeled
+    eu: austronesiar hizkuntzak
+    fa: زبانهای آسترونزیایی
+    fi: austronesialaiset kielet
+    fr: langues austronésiennes
+    frr: Austroneesk spriaken
+    ga: teangacha Astrainéiseacha
+    gl: linguas austronesias
+    gsw: austronesischi Sproche
+    gv: Çhengaghyn Austraineeshagh
+    hak: Nàm-tó Ngî-hì
+    he: שפות אוסטרונזיות
+    hi: ऑस्ट्रोनीशियाई भाषाएँ
+    hif: Austronesian bhasa
+    hr: austronezijski jezici
+    hu: ausztronéz nyelvcsalád
+    hy: ավստրոնեզյան լեզուներ
+    ia: linguas austronesian
+    iba: Jaku-jaku Austronesia
+    id: Austronesia
+    ie: Lingues austronesian
+    ilo: sasao nga Austronesio
+    io: austroneziana linguaro
+    is: ástrónesísk tungumál
+    it: lingue austronesiane
+    ja: オーストロネシア語族
+    jv: Basa Austronésia
+    ka: ავსტრონეზიული ენები
+    kaa: Avstroneziya tilleri
+    kge: Rumpun Bahasa Austronesia
+    km: អំបូរភាសាអូស្ត្រូណេស៊ី
+    kn: ಆಸ್ಟ್ರೋನೇಸ್ಯದ ಭಾಷೆಗಳು
+    ko: 오스트로네시아어족
+    krj: manga Inawstronesyanhën nga pulong
+    la: linguae Austronesicae
+    lfn: Linguas austronesian
+    li: Austronesische taole
+    lij: Lengue austronesièn
+    lt: austronezinės kalbos
+    lv: austronēziešu valodas
+    mg: Fiteny aostroneziana
+    mi: Austronesian
+    min: Rumpun bahaso Austronesia
+    mk: австронезиски јазици
+    ml: ആസ്റ്റ്രൊനേഷ്യൻ ഭാഷകൾ
+    mr: ऑस्ट्रोनेशियन भाषासमूह
+    ms: bahasa-bahasa Austronesia
+    mzn: آسترونزیایی زوونون
+    na: Edorer Otereinitsiya
+    nan: Lâm-tó gí-hē
+    nb: austronesiske språk
+    ne: अस्ट्रोनेसियाली भाषा परिवार
+    nl: Austronesische talen
+    nn: austronesiske språk
+    oc: lengas austronesianas
+    os: австронезиаг æвзæгтæ
+    pa: ਆਸਟਰੋਨੇਸ਼ੀਆਈ ਭਾਸ਼ਾਵਾਂ
+    pam: Deng amanung Awstronesyu
+    pl: języki austronezyjskie
+    pms: Lenghe austronesian-e
+    pnb: آسٹرونیشیائی بولیاں
+    ps: استرونزیایي ژبې
+    pt: línguas austronésias
+    pt-br: Línguas austronésias
+    qu: Awstrunisyu rimaykuna
+    ro: limbi austroneziene
+    ru: австронезийские языки
+    sat: ᱚᱥᱴᱨᱳᱱᱮᱥᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+    scn: lingui austrunisiani
+    sd: آسٽرو- ايشيائي ٻوليون
+    sh: Austronezijski jezici
+    sk: austronézske jazyky
+    sl: avstronezijski jeziki
+    sn: Mitauro ye Chiostironezhiya
+    sq: Gjuha Austronesiane
+    sr: аустронежански језици
+    sv: austronesiska språk
+    sw: Lugha za Kiaustronesia
+    ta: ஆத்திரனேசிய மொழிக்குடும்பம்
+    th: ตระกูลภาษาออสโตรนีเซียน
+    tl: Mga wikang Austronesyo
+    tok: kulupu toki Osonesija
+    tr: avustronezya dilleri
+    uk: австронезійські мови
+    ur: جنوبی جزائری زبانیں
+    uz: Avstronez tillari
+    vec: łéngue austroneziane
+    vi: ngữ hệ Nam Đảo
+    wuu: 南島語系
+    xmf: ავსტრონეზიული ნინეფი
+    yi: אויסטראנעזישע שפראכן
+    yo: Àwọn èdè Austronésíà
+    yue: 南島語系
+    za: Vahhaeh Nanzdauj
+    zh: 南島語系
+    zh-cn: 南岛语系
+    zh-hans: 南岛语系
+    zh-hant: 南島語系
+    zh-hk: 南島語系
+    zh-mo: 南島語系
+    zh-my: 南島語系
+    zh-sg: 南岛语系
+    zh-tw: 南島語系
 ---
-
 [SpocWebEntityId:: 237 ]
 
 has_/name::Austronesian 

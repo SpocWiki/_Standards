@@ -1,29 +1,202 @@
 ---
 aliases:
-  - Taxonomy
+- hun-lūi-ha̍k
+- ingqwangqwa
+- kupatsanura zvipenyu
+- Pengrèrodan
+- phân loại học
+- rendszertan
+- tacsanomaíocht
+- tacsonomeeaght
+- tacsonomeg
+- taksinomi
+- takson
+- taksonomi
+- taksonomia
+- taksonomieth
+- taksonomiezh
+- taksonomiija
+- taksonomija
+- taksonomio
+- taksonomiya
+- taksonomy
+- taksonomî
+- taksonoomia
+- taksunumi
+- tasonomia
+- tassonomia
+- tassonomija
+- tassunumìa
+- taxinomia
+- taxinomie
+- taxonomi
+- taxonomia
+- taxonomie
+- taxonomiya
+- Taxonomy
+- taxonomía
+- taxonomïa
+- taxonómia
+- ταξινομία
+- биологик систематика
+- таксаномія
+- таксономія
+- таксономија
+- Таксономия
+- տաքսոնոմիա
+- טאקסאנאמיע
+- טקסונומיה
+- آرایهشناسی
+- تصنیفیات
+- علم التصنيف
+- پۆلێنزانی
+- वर्गिकी
+- শ্রেণীবিন্যাসবিদ্যা
+- வகைபிரித்தல்
+- ശാസ്ത്രീയ വർഗ്ഗീകരണം
+- อนุกรมวิธาน
+- ტაქსონომია
+- ᱦᱟᱹᱴᱤᱧ ᱵᱤᱨᱫᱟᱹ
+- 分类学
+- 分類学
+- 分類學
+- 분류학
 has_id_wikidata: Q7211
 different_from:
-  - "[[_Standards/WikiData/WD~Q324254,324254]]"
-  - "[[_Standards/WikiData/WD~taxonomy,8269924]]"
-  - "[[_Standards/WikiData/WD~thesaurus_(IR),17152639]]"
+- '[[_Standards/WikiData/WD~Q324254,324254]]'
+- '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+- '[[_Standards/WikiData/WD~thesaurus_(IR),17152639]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-opposite_of: "[[_Standards/WikiData/WD~meronomy,2465551]]"
-main_subject: "[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+opposite_of: '[[_Standards/WikiData/WD~meronomy,2465551]]'
+main_subject: '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~classification_scheme,5962346]]"
-  - "[[_Standards/WikiData/WD~hierarchical_classification,17625380]]"
-based_on: "[[_Standards/WikiData/WD~taxonomy,8269924]]"
-OmegaWiki_Defined_Meaning: "3718"
+- '[[_Standards/WikiData/WD~classification_scheme,5962346]]'
+- '[[_Standards/WikiData/WD~hierarchical_classification,17625380]]'
+based_on: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+OmegaWiki_Defined_Meaning: 3718
 identifiers_org_prefix: taxonomy
 Commons_category: Taxonomy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hierarchical%20clustering%20simple%20diagram.svg
 exact_match:
-  - http://purl.org/spar/fabio/Taxonomy
-  - http://w3id.org/nkos/nkostype#taxonomy
+- http://purl.org/spar/fabio/Taxonomy
+- http://w3id.org/nkos/nkostype#taxonomy
+dv_has_:
+  name_:
+    ace: taksonomi
+    ar: علم التصنيف
+    ast: taxonomía
+    az: taksonomiya
+    ba: биологик систематика
+    ban: taksonomi
+    bar: Taxonomie
+    be: таксаномія
+    be-tarask: таксаномія
+    bew: Pengrèrodan
+    bg: таксономия
+    bjn: taksunumi
+    bn: শ্রেণীবিন্যাসবিদ্যা
+    br: taksonomiezh
+    bs: taksonomija
+    ca: taxonomia
+    ckb: پۆلێنزانی
+    cs: taxonomie
+    cy: tacsonomeg
+    da: taksonomi
+    de: Taxonomie
+    de-ch: taxonomie
+    el: ταξινομία
+    en: taxonomy
+    en-ca: taxonomy
+    en-gb: taxonomy
+    eo: taksonomio
+    es: taxonomía
+    et: taksonoomia
+    eu: taxonomia
+    fa: آرایهشناسی
+    fi: taksonomia
+    fr: taxinomie
+    fy: taksonomy
+    ga: tacsanomaíocht
+    gl: taxonomía
+    gsw: taxonomie
+    gv: tacsonomeeaght
+    he: טקסונומיה
+    hi: वर्गिकी
+    hr: taksonomija
+    ht: taksinomi
+    hu: rendszertan
+    hy: տաքսոնոմիա
+    ia: taxonomia
+    id: taksonomi
+    it: tassonomia
+    ja: 分類学
+    jv: takson
+    ka: ტაქსონომია
+    kk: таксономия
+    ko: 분류학
+    ku: taksonomî
+    ku-latn: taksonomî
+    kw: taksonomieth
+    ky: таксономия
+    la: taxinomia
+    li: Taxonomie
+    lij: taxonomïa
+    lt: taksonomija
+    lv: taksonomija
+    map-bms: taksonomi
+    min: taksonomi
+    mk: таксономија
+    ml: ശാസ്ത്രീയ വർഗ്ഗീകരണം
+    ms: taksonomi
+    mt: tassonomija
+    nan: hun-lūi-ha̍k
+    nap: tassonomia
+    nb: taksonomi
+    nds: taxonomie
+    nl: taxonomie
+    nn: taksonomi
+    nov: taxonomie
+    oc: taxinomia
+    pl: taksonomia
+    pt: taxonomia
+    pt-br: taxonomia
+    ro: taxonomie
+    ru: таксономия
+    sah: таксономия
+    sat: ᱦᱟᱹᱴᱤᱧ ᱵᱤᱨᱫᱟᱹ
+    scn: tassunumìa
+    se: taksonomiija
+    sh: taksonomija
+    sk: taxonómia
+    sl: taksonomija
+    smn: taksonomia
+    sms: taksonomia
+    sn: kupatsanura zvipenyu
+    sq: taksonomia
+    sr: таксономија
+    sr-ec: таксономија
+    sr-el: taksonomija
+    su: taksonomi
+    sv: taxonomi
+    ta: வகைபிரித்தல்
+    th: อนุกรมวิธาน
+    tl: taksonomiya
+    tr: taksonomi
+    tt: Таксономия
+    uk: таксономія
+    ur: تصنیفیات
+    vec: tasonomia
+    vi: phân loại học
+    war: taxonomiya
+    wuu: 分类学
+    yi: טאקסאנאמיע
+    yue: 分類學
+    zea: taxonomie
+    zh: 分类学
+    zu: ingqwangqwa
 ---
-
 # [[Taxonomy]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~taxonomy,7211]] 

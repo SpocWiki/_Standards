@@ -1,68 +1,242 @@
 ---
 aliases:
-  - Bronchitis
-  - chest cold
+- Azya
+- berkjukvef
+- Boronshite
+- broincíteas
+- bronchitas
+- bronchite
+- bronchitida
+- Bronchitis
+- broncitis
+- brongitis
+- bronhiit
+- bronhit
+- bronhitis
+- bronhīts
+- bronkit
+- bronkite
+- bronkiti
+- bronkitis
+- bronkito
+- bronkitt
+- bronquite
+- bronquitis
+- Brontchite
+- bronxit
+- Bronxït
+- Bronşit
+- bronșită
+- chest cold
+- gorley aadiugh
+- hörghurut
+- keuhkoputkentulehdus
+- viêm phế quản
+- wenchu milla huaquipan
+- zapalenie oskrzeli
+- βρογχίτιδα
+- бранхіт
+- бронхіт
+- бронхит
+- бронхитис
+- быранхит
+- բրոնխաբորբ
+- Ցնցղատապ
+- בראנקייטיס
+- דלקת סימפונות
+- التهاب القصبات
+- التہاب شعب
+- برونحىيت
+- برونخیت
+- برونشیت
+- برونکائیٹس
+- برۆنشیت
+- ވައިނޮޅީގެ ކަފި ދުޅަވުން
+- ब्रोन्कायटिस
+- श्वसनीशोथ
+- ব্রংকাইটিস
+- ব্ৰংকাইটিছ
+- ਬਰੋਂਕਾਇਟਿਸ
+- ଶ୍ୱାସନଳୀ ପ୍ରଦାହ
+- மூச்சுக்குழல் அழற்சி
+- బ్రాంకైటిస్
+- ಬ್ರಾಂಕೈಟಿಸ್
+- หลอดลมอักเสบ
+- གློའི་སྦུག་གཉན་ཚད་
+- រោគហើមសួត
+- 支气管炎
+- 支氣管炎
+- 気管支炎
+- 기관지염
 has_id_wikidata: Q173022
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~cefixime,163901]]"
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~cefpodoxime,415173]]"
-  - "[[_Standards/WikiData/WD~josamycin,423369]]"
-  - "[[_Standards/WikiData/WD~sparfloxacin,976559]]"
-  - "[[_Standards/WikiData/WD~dyphylline,1073333]]"
-  - "[[_Standards/WikiData/WD~cefdinir,1453445]]"
-  - "[[_Standards/WikiData/WD~methacycline,2365033]]"
-  - "[[_Standards/WikiData/WD~erdosteine,3731252]]"
-  - "[[_Standards/WikiData/WD~acefylline,4673059]]"
-  - "[[_Standards/WikiData/WD~dicloxacillin_sodium,27116225]]"
+- '[[_Standards/WikiData/WD~cefixime,163901]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~cefpodoxime,415173]]'
+- '[[_Standards/WikiData/WD~josamycin,423369]]'
+- '[[_Standards/WikiData/WD~sparfloxacin,976559]]'
+- '[[_Standards/WikiData/WD~dyphylline,1073333]]'
+- '[[_Standards/WikiData/WD~cefdinir,1453445]]'
+- '[[_Standards/WikiData/WD~methacycline,2365033]]'
+- '[[_Standards/WikiData/WD~erdosteine,3731252]]'
+- '[[_Standards/WikiData/WD~acefylline,4673059]]'
+- '[[_Standards/WikiData/WD~dicloxacillin_sodium,27116225]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]"
-  - "[[_Standards/WikiData/WD~bronchospasm,279330]]"
-  - "[[_Standards/WikiData/WD~respiratory_signs_and_symptoms,42183538]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-health_specialty: "[[_Standards/WikiData/WD~pulmonology,203337]]"
-different_from: "[[_Standards/WikiData/WD~bronchiolitis,424227]]"
+- '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
+- '[[_Standards/WikiData/WD~bronchospasm,279330]]'
+- '[[_Standards/WikiData/WD~respiratory_signs_and_symptoms,42183538]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+health_specialty: '[[_Standards/WikiData/WD~pulmonology,203337]]'
+different_from: '[[_Standards/WikiData/WD~bronchiolitis,424227]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q63807836,63807836]]"
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q63807836,63807836]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 ICD_9_CM:
-  - "491"
-  - "490"
-  - "466.0"
-  - "491.8"
-  - "491.9"
-DiseasesDB: "29135"
+- 491
+- 490
+- 466.0
+- 491.8
+- 491.9
+DiseasesDB: 29135
 Commons_category: Bronchitis
-OmegaWiki_Defined_Meaning: "907783"
+OmegaWiki_Defined_Meaning: 907783
 ICD_10_CM:
-  - J20
-  - J42
-  - J40
-  - J20.9
+- J20
+- J42
+- J40
+- J20.9
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Acute-bronchitis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20-%20Chronic%20bronchitis%20--%20Smart-Servier.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Acute-bronchitis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Respiratory%20system%20-%20Chronic%20bronchitis%20--%20Smart-Servier.png
 exact_match:
-  - http://identifiers.org/doid/DOID:6132
-  - http://purl.obolibrary.org/obo/DOID_6132
-  - http://purl.obolibrary.org/obo/SYMP_0000324
+- http://identifiers.org/doid/DOID:6132
+- http://purl.obolibrary.org/obo/DOID_6132
+- http://purl.obolibrary.org/obo/SYMP_0000324
 UMLS_CUI: C0006277
 MeSH_tree_code:
-  - C01.748.099
-  - C08.127.446
-  - C08.381.495.146
-  - C08.730.099
+- C01.748.099
+- C08.127.446
+- C08.381.495.146
+- C08.730.099
 Krugosvet_article_archived_: medicina/BRONHIT.html
+dv_has_:
+  name_:
+    af: brongitis
+    an: Bronquitis
+    ar: التهاب القصبات
+    arn: wenchu milla huaquipan
+    as: ব্ৰংকাইটিছ
+    ast: bronquitis
+    az: bronxit
+    azb: برونخیت
+    be: бранхіт
+    be-tarask: бранхіт
+    bg: Бронхит
+    bn: ব্রংকাইটিস
+    bo: གློའི་སྦུག་གཉན་ཚད་
+    bs: bronhitis
+    ca: bronquitis
+    ckb: برۆنشیت
+    cs: bronchitida
+    cy: broncitis
+    da: bronkitis
+    de: Bronchitis
+    diq: Bronşit
+    dv: ވައިނޮޅީގެ ކަފި ދުޅަވުން
+    el: βρογχίτιδα
+    en: bronchitis
+    eo: bronkito
+    es: bronquitis
+    et: bronhiit
+    eu: bronkitis
+    fa: برونشیت
+    fi: keuhkoputkentulehdus
+    fr: bronchite
+    ga: broincíteas
+    gl: bronquite
+    gpe: bronchitis
+    gv: gorley aadiugh
+    he: דלקת סימפונות
+    hi: श्वसनीशोथ
+    hr: bronhitis
+    hu: hörghurut
+    hy: բրոնխաբորբ
+    hyw: Ցնցղատապ
+    id: bronkitis
+    io: bronkito
+    is: berkjukvef
+    it: bronchite
+    ja: 気管支炎
+    jv: bronkitis
+    kab: Azya
+    kk: Бронхит
+    kk-arab: برونحىيت
+    kk-cn: برونحىيت
+    kk-cyrl: Бронхит
+    kk-kz: Бронхит
+    kk-latn: Bronxït
+    kk-tr: Bronxït
+    km: រោគហើមសួត
+    kn: ಬ್ರಾಂಕೈಟಿಸ್
+    ko: 기관지염
+    ky: Бронхит
+    la: Bronchitis
+    lb: Bronchite
+    lt: bronchitas
+    lv: bronhīts
+    mk: бронхит
+    mr: ब्रोन्कायटिस
+    ms: bronkitis
+    mt: bronkite
+    nb: bronkitt
+    nl: bronchitis
+    nn: bronkitt
+    or: ଶ୍ୱାସନଳୀ ପ୍ରଦାହ
+    pa: ਬਰੋਂਕਾਇਟਿਸ
+    pl: zapalenie oskrzeli
+    pnb: برونکائیٹس
+    pt: bronquite
+    rn: Boronshite
+    ro: bronșită
+    ru: бронхит
+    sl: bronhitis
+    sq: bronkiti
+    sr: бронхитис
+    sr-ec: бронхитис
+    sr-el: bronhitis
+    su: Bronkitis
+    sv: bronkit
+    ta: மூச்சுக்குழல் அழற்சி
+    te: బ్రాంకైటిస్
+    th: หลอดลมอักเสบ
+    tk: bronhit
+    tr: bronşit
+    tt: быранхит
+    uk: бронхіт
+    ur: التہاب شعب
+    uz: Bronxit
+    vi: viêm phế quản
+    wa: Brontchite
+    war: Bronkitis
+    wuu: 支气管炎
+    yi: בראנקייטיס
+    yue: 支氣管炎
+    zh: 支气管炎
+    zh-cn: 支气管炎
+    zh-hans: 支气管炎
+    zh-hant: 支氣管炎
+    zh-hk: 支氣管炎
+    zh-sg: 支气管炎
+    zh-tw: 支氣管炎
 ---
-
 # [[Bronchitis]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bronchitis,173022|WD~Bronchitis,173022]] 

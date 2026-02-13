@@ -1,44 +1,170 @@
 ---
 aliases:
+- beartas poiblí
+- chính sách công
+- dasar awam
+- javna politika
+- julkinen politiikka
+- Kamu politikası
+- kebijakan publik
+- Kong-kiōng chèng-chhek
+- közpolitika
+- offentleg politikk
+- offentlig policy
+- offentlig politik
+- offentlig politikk
+- openbare beleid
+- opinber stefna
+- overheidsbeleid
+- Patakarang Pampubliko
+- polisi cyhoeddus
+- politica pubblica
+- politică publică
+- Politik piblik
+- Politika publike
+- politika publiko
+- politique publique
+- polityka publiczna
+- política pública
+- Política pública nisqa
+- Polítiques públiques
+- public policy
+- publika politiko
+- pułìtega pùblega
+- verejná politika
+- veřejná politika
+- viešoji politika
+- İctimai Politika
+- δημόσια πολιτική
+- јавна политика
+- государственная политика
+- державна політика
+- дзяржаўная палітыка
+- Държавна политика
+- дәүләт сәясәте
+- Төрийн бодлого
+- Պետական քաղաքականություն
+- מדיניות ציבורית
+- داسر عوام
+- سياسات عامة
+- سیاستگذاری عمومی
+- سیاسەت ڕێژیی گشتی
+- लोकनीति
+- सार्वजनिक नीति
+- জননীতি
+- นโยบายสาธารณะ
+- គោលនយោបាយសាធារណៈ
+- 公共政策
+- 공공 정책
 has_id_wikidata: Q546113
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~type_of_policy,96251375]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~foreign_policy,181648]]"
-  - "[[_Standards/WikiData/WD~agricultural_policy,396198]]"
-  - "[[_Standards/WikiData/WD~science_policy,904708]]"
-  - "[[_Standards/WikiData/WD~environmental_policy,919526]]"
-  - "[[_Standards/WikiData/WD~domestic_policy,1573035]]"
-  - "[[_Standards/WikiData/WD~military_policy,1667082]]"
-  - "[[_Standards/WikiData/WD~cultural_policy,1711347]]"
-  - "[[_Standards/WikiData/WD~energy_policy,1805337]]"
-  - "[[_Standards/WikiData/WD~transport_policy,2516371]]"
-  - "[[_Standards/WikiData/WD~technology_policy,7692619]]"
-subclass_of: "[[_Standards/WikiData/WD~policy,1156854]]"
-main_subject: "[[_Standards/WikiData/WD~state_power,2324993]]"
+- '[[_Standards/WikiData/WD~foreign_policy,181648]]'
+- '[[_Standards/WikiData/WD~agricultural_policy,396198]]'
+- '[[_Standards/WikiData/WD~science_policy,904708]]'
+- '[[_Standards/WikiData/WD~environmental_policy,919526]]'
+- '[[_Standards/WikiData/WD~domestic_policy,1573035]]'
+- '[[_Standards/WikiData/WD~military_policy,1667082]]'
+- '[[_Standards/WikiData/WD~cultural_policy,1711347]]'
+- '[[_Standards/WikiData/WD~energy_policy,1805337]]'
+- '[[_Standards/WikiData/WD~transport_policy,2516371]]'
+- '[[_Standards/WikiData/WD~technology_policy,7692619]]'
+subclass_of: '[[_Standards/WikiData/WD~policy,1156854]]'
+main_subject: '[[_Standards/WikiData/WD~state_power,2324993]]'
 different_from:
-  - "[[_Standards/WikiData/WD~rulemaking,2479254]]"
-  - "[[_Standards/WikiData/WD~government_policy,130472575]]"
+- '[[_Standards/WikiData/WD~rulemaking,2479254]]'
+- '[[_Standards/WikiData/WD~government_policy,130472575]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~impact_assessment,6005872]]"
-  - "[[_Standards/WikiData/WD~public_policy_studies,85710967]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Public_policy,14398408]]"
+- '[[_Standards/WikiData/WD~impact_assessment,6005872]]'
+- '[[_Standards/WikiData/WD~public_policy_studies,85710967]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Public_policy,14398408]]'
 part_of:
-  - "[[_Standards/WikiData/WD~government,7188]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-  - "[[_Standards/WikiData/WD~public_administration,31728]]"
-facet_of: "[[_Standards/WikiData/WD~political_science,36442]]"
+- '[[_Standards/WikiData/WD~government,7188]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~public_administration,31728]]'
+facet_of: '[[_Standards/WikiData/WD~political_science,36442]]'
 Commons_category: Public policy
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Public_policy
 MeSH_tree_code:
-  - I01.655.500.608
-  - I01.880.604.825.608
-  - N03.623.500.608
+- I01.655.500.608
+- I01.880.604.825.608
+- N03.623.500.608
 IPTC_NewsCode: mediatopic/20000621
+dv_has_:
+  name_:
+    af: openbare beleid
+    ar: سياسات عامة
+    ast: Polítiques públiques
+    az: İctimai Politika
+    be: дзяржаўная палітыка
+    be-tarask: дзяржаўная палітыка
+    bg: Държавна политика
+    bn: জননীতি
+    ca: política pública
+    ckb: سیاسەت ڕێژیی گشتی
+    cs: veřejná politika
+    cy: polisi cyhoeddus
+    da: offentlig politik
+    de: Public Policy
+    el: δημόσια πολιτική
+    en: public policy
+    en-gb: public policy
+    eo: publika politiko
+    es: política pública
+    eu: politika publiko
+    fa: سیاستگذاری عمومی
+    fi: julkinen politiikka
+    fr: politique publique
+    ga: beartas poiblí
+    gl: política pública
+    he: מדיניות ציבורית
+    hi: लोकनीति
+    ht: Politik piblik
+    hu: közpolitika
+    hy: Պետական քաղաքականություն
+    id: kebijakan publik
+    is: opinber stefna
+    it: politica pubblica
+    ja: 公共政策
+    km: គោលនយោបាយសាធារណៈ
+    ko: 공공 정책
+    lt: viešoji politika
+    mk: јавна политика
+    mn: Төрийн бодлого
+    ms: dasar awam
+    ms-arab: داسر عوام
+    nan: Kong-kiōng chèng-chhek
+    nb: offentlig politikk
+    ne: सार्वजनिक नीति
+    nl: overheidsbeleid
+    nn: offentleg politikk
+    pl: polityka publiczna
+    pt: política pública
+    qu: Política pública nisqa
+    ro: politică publică
+    ru: государственная политика
+    sk: verejná politika
+    sl: javna politika
+    sq: Politika publike
+    sr: јавна политика
+    sv: offentlig policy
+    th: นโยบายสาธารณะ
+    tl: Patakarang Pampubliko
+    tr: Kamu politikası
+    tt: дәүләт сәясәте
+    uk: державна політика
+    vec: pułìtega pùblega
+    vi: chính sách công
+    zh: 公共政策
+    zh-cn: 公共政策
+    zh-hans: 公共政策
+    zh-hant: 公共政策
+    zh-hk: 公共政策
+    zh-tw: 公共政策
 ---
-
 # [[Public_Policy]] 
 
 #is_/same_as :: [[WD~Public_policy,546113]] 

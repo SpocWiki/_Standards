@@ -1,8 +1,135 @@
 ---
 has_id_wikidata: Q180907
+dv_has_:
+  name_:
+    ar: دالة تقابلية
+    az: qarşılıqlı birqiymətli uyğunluq
+    be: біекцыя
+    bg: биекция
+    bs: bijekcija
+    ca: funció bijectiva
+    co: biiezzioni
+    cs: bijekce
+    da: bijektiv
+    de: bijektive Funktion
+    el: αμφιμονοσήμαντη συνάρτηση
+    en: bijection
+    eo: inversigebla funkcio
+    es: función biyectiva
+    et: bijektiivne funktsioon
+    eu: bijekzio
+    fa: تابع دوسویی
+    fi: bijektio
+    fr: bijection
+    gl: función bixectiva
+    he: פונקציה חד-חד-ערכית ועל
+    hi: द्विअंतथक्षेपण
+    hr: bijekcija
+    hu: bijekció
+    hy: փոխմիարժեք համապատասխանատվություն
+    ia: bijection
+    id: bijeksi
+    io: bijektio
+    is: gagntæk vörpun
+    it: corrispondenza biunivoca
+    ja: 全単射
+    kk: өзара бірмәнді сәйкестік
+    kk-arab: ٴوزارا ٴبىرماندى سايكەستىك
+    kk-cn: ٴوزارا ٴبىرماندى سايكەستىك
+    kk-cyrl: өзара бірмәнді сәйкестік
+    kk-kz: өзара бірмәнді сәйкестік
+    kk-latn: özara birmändi säýkestik
+    kk-tr: özara birmändi säýkestik
+    ko: 전단사 함수
+    la: functio biiectiva
+    lmo: bigezziú
+    lt: bijekcija
+    mk: бијекција
+    ms: bijeksi
+    nb: bijeksjon
+    nl: bi͏jectie
+    nn: bijeksjon
+    oc: bijeccion
+    pl: funkcja wzajemnie jednoznaczna
+    pt: função bijectiva
+    pt-br: bijeção
+    ro: corespondență biunivocă
+    ru: биекция
+    sco: bijection
+    sk: bijektívne zobrazenie
+    sl: bijektivna preslikava
+    sr: бијекција
+    sr-ec: бијекција
+    sr-el: bijekcija
+    sv: bijektiv funktion
+    ta: இருவழிக்கோப்பு
+    th: ฟังก์ชันหนึ่งต่อหนึ่งทั่วถึง
+    tr: örten fonksyon
+    uk: бієкція
+    vi: song ánh
+    yue: 對射函數
+    zh: 双射
+    zh-cn: 双射
+    zh-hans: 双射
+    zh-hant: 雙射
+    zh-hk: 對射
+    zh-sg: 双射
+    zh-tw: 對射
+aliases:
+- bigezziú
+- biiezzioni
+- bijeccion
+- bijection
+- bijekce
+- bijekcija
+- bijekció
+- bijeksi
+- bijeksjon
+- bijektiivne funktsioon
+- bijektio
+- bijektiv
+- bijektiv funktion
+- bijektive Funktion
+- bijektivna preslikava
+- bijektívne zobrazenie
+- bijekzio
+- bijeção
+- bi͏jectie
+- corespondență biunivocă
+- corrispondenza biunivoca
+- funció bijectiva
+- función bixectiva
+- función biyectiva
+- functio biiectiva
+- funkcja wzajemnie jednoznaczna
+- função bijectiva
+- gagntæk vörpun
+- inversigebla funkcio
+- qarşılıqlı birqiymətli uyğunluq
+- song ánh
+- örten fonksyon
+- özara birmändi säýkestik
+- αμφιμονοσήμαντη συνάρτηση
+- бієкція
+- біекцыя
+- бијекција
+- биекция
+- өзара бірмәнді сәйкестік
+- փոխմիարժեք համապատասխանատվություն
+- פונקציה חד-חד-ערכית ועל
+- تابع دوسویی
+- دالة تقابلية
+- ٴوزارا ٴبىرماندى سايكەستىك
+- द्विअंतथक्षेपण
+- இருவழிக்கோப்பு
+- ฟังก์ชันหนึ่งต่อหนึ่งทั่วถึง
+- 全単射
+- 双射
+- 對射
+- 對射函數
+- 雙射
+- 전단사 함수
 ---
-
-
 #is_/same_as :: [[../Isomorphism]] 
 
 

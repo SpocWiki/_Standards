@@ -1,33 +1,215 @@
 ---
 aliases:
-  - Mammal
-  - Mammals
-  - Mammalia
-  - Säugetier
-  - Säugetiere
-  - pattedyr
-  - Mammifère
-  - Mammiferi
-  - 哺乳纲
+- Afọmúbọ́mọ
+- Biby mampinono
+- Bidił Daazdoígíí dóó Daʼałtʼoʼígíí
+- Biesse ås tetes
+- Binatang manyusuan
+- Biŋkɔbigu
+- bronneged
+- Bronnvil
+- Buô-ṳ̄ dông-ŭk
+- Chhī-leng tōng-bu̍t
+- Cicavce
+- Cycaki
+- Cyckocze
+- Doenghduz nyamhcij
+- Dzinoyamwisa
+- däggdjur
+- emlősök
+- Gjitarët
+- Guhandar
+- Hosiftotta
+- Imetaiživatad
+- imetajad
+- Imetäjä
+- IsiNcelisi
+- Kpɩnɛ hɩɖɛ ñɩnɖɛ
+- Lãdziviwo
+- lớp Thú
+- mabru
+- mamach
+- Mamal
+- Mamalia
+- Mamalya
+- Mamel
+- Mamele
+- Mamendéieren
+- Mamifer
+- mamifero
+- Mamifè
+- mamifèros
+- Mamifèrs
+- Mamipero
+- Mammal
+- Mammalia
+- Mammals
+- Mammifere
+- Mammiferes
+- Mammiferi
+- mammiferu
+- Mammifère
+- mammifères
+- Mammiféthe
+- mammìfiru
+- mamuloj
+- Mamìfari
+- Mamìfer
+- mamífero
+- mamíferos
+- mamífers
+- Mamíferu
+- Manmifè
+- memeliler
+- māmela
+- məməlilər
+- Naasley
+- nisäkkäät
+- njeeǯǯla
+- njiččehasat
+- njomâtteijeeh
+- Nyama ya mabele
+- Nyama ya mabɛ́lɛ
+- Okambúva
+- pattedyr
+- paycucuay
+- Phú-nen thung-vu̍t
+- Saigedier
+- savci
+- sesalci
+- Sheeintagh
+- sisari
+- Sisavac
+- sisavci
+- soogdier
+- soweli pi nena mama
+- spendýr
+- Spofiecha
+- ssaki
+- Sut emizuvchilar
+- Suugedierte
+- sycedēor
+- Säugetier
+- Säugetiere
+- Söögdeerten
+- Súgdjór
+- Sút emiziwshiler
+- sûchdieren
+- süganim
+- süt emiciler
+- Süüger
+- Tetjdiarten
+- Timsiffatin
+- ugaztun
+- Whakangote
+- Zoogbêestn
+- zoogdeers
+- Zoogdiere
+- Zoogdieren
+- zīdītāji
+- Æхсырæйхæсджытæ
+- Çıçıkıni
+- Ñuñuq
+- Ñuñuri
+- šytəhəjon
+- žinduoliai
+- Žvierē
+- θηλαστικό
+- бозайници
+- Дакхадийнаташ
+- декха дийнаташ
+- Желиндүүлөр
+- имезүчеләр
+- Кыыл
+- Лофцта потяйхтне
+- млекопитающие
+- Некхъвадайбур
+- Нимӧтчиссез
+- нонӥсьёс
+- Сĕтпе ӳсекенсем
+- сисари
+- ссавці
+- Ссавцї
+- сысуны
+- Сүт чемиштиг амытаннар
+- Сүтқоректілер
+- Хүхэтэн
+- Хөхтөн
+- цицачи
+- Ширхӯр
+- ШэрыпӀхэр
+- Шӧр пукшышо
+- Шӹшер качшы вольыквлӓ
+- Үсн теҗәлтнр
+- Һөтимәрҙәр
+- կաթնասուն
+- זויגער
+- יונקים
+- بزوليات
+- تھݨ دار
+- تی لرونکی
+- ثدييات
+- شیردهئون
+- ممهلیلر
+- مۄمَل جانور
+- پستانداران
+- پستانیہ
+- ٿڻ وارو جانور
+- گوانداران
+- ܬܕܝܬܐ
+- ߦߙߍߡߊ
+- दुरुप्वः दुपिं
+- मैमल
+- सस्तन प्राणी
+- सस्तनः
+- स्तनधारी
+- स्तनधारी प्राणी
+- स्तनपायी
+- স্তন্যপায়ী
+- স্তন্যপায়ী প্ৰাণী
+- ਥਣਧਾਰੀ
+- ସ୍ତନ୍ୟପାୟୀ
+- பாலூட்டி
+- క్షీరదాలు
+- ಸಸ್ತನಿ
+- സസ്തനി
+- ක්ෂීරපායීන්
+- สัตว์เลี้ยงลูกด้วยน้ำนม
+- ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ
+- འུ་འཐུང་སྲོག་ཆགས།
+- နို့တိုက်သတ္တဝါ
+- ძუძუმწოვრები
+- ძუძუშმაწუალეფი
+- ጡት አጥቢ
+- ᎺᎹᎵ
+- ᐱᓱᒃᑎ
+- ថនិកសត្វ
+- ⵜⵉⵎⵙⵓⵟⴰⴹ
+- 哺乳动物
+- 哺乳動物
+- 哺乳纲
+- 哺乳類
+- 포유류
+- "\U0001033C\U00010339\U0001033B\U0001033F\U0001033A\U00010343\U00010346\U00010349\U00010333\U0001033E\U00010330"
 has_id_wikidata: Q7377
 Colon_Classification: K97
 Commons_category: Mammalia
 Commons_gallery: Mammalia
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification: 599
 different_from: '[[_Standards/WikiData/WD~Mammals,2036485]]'
 EPPO_Code: 1MAMMC
 equivalent_class:
-  - http://dbpedia.org/ontology/Mammal
-  - http://kbpedia.org/kko/rc/Mammal
+- http://dbpedia.org/ontology/Mammal
+- http://kbpedia.org/kko/rc/Mammal
 Iconclass_notation: 25F2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mammal%20Diversity%202011-less%20depressing.png
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -42,26 +224,265 @@ Stack_Exchange_tag: https://biology.stackexchange.com/tags/mammals
 start_time: -160000000-01-01
 studied_in: '[[_Standards/WikiData/WD~mammalogy,183904]]'
 taxon_common_name:
-  - Mammal
-  - pattedyr
-  - Mammifère
-  - Mammiferi
-  - 哺乳纲
+- Mammal
+- pattedyr
+- Mammifère
+- Mammiferi
+- 哺乳纲
 taxon_name: Mammalia
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~hide,3291230]]'
-  - '[[_Standards/WikiData/WD~mammal_meat,124748491]]'
-  - '[[_Standards/WikiData/WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~hide,3291230]]'
+- '[[_Standards/WikiData/WD~mammal_meat,124748491]]'
+- '[[_Standards/WikiData/WD~milk,8495]]'
 title: Mammalia
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q10725256,10725256]]'
-  - '[[_Standards/WikiData/WD~Template_Mammals,11153721]]'
+- '[[_Standards/WikiData/WD~Q10725256,10725256]]'
+- '[[_Standards/WikiData/WD~Template_Mammals,11153721]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mammals,11116931]]'
 UMLS_CUI: C0024660
 U_S_National_Archives_Identifier: 10638722
+dv_has_:
+  name_:
+    af: soogdier
+    am: ጡት አጥቢ
+    an: mammalia
+    ang: sycedēor
+    anp: स्तनपायी
+    ar: ثدييات
+    arc: ܬܕܝܬܐ
+    ary: بزوليات
+    arz: ثدييات
+    as: স্তন্যপায়ী প্ৰাণী
+    ast: mamíferos
+    ay: Ñuñuri
+    az: məməlilər
+    azb: ممهلیلر
+    ba: Һөтимәрҙәр
+    ban: Mammalia
+    bar: Spofiecha
+    bcl: Mamalya
+    be: сысуны
+    be-tarask: сысуны
+    bg: бозайници
+    bho: मैमल
+    bn: স্তন্যপায়ী
+    bo: འུ་འཐུང་སྲོག་ཆགས།
+    br: bronneged
+    bs: sisari
+    bxr: Хүхэтэн
+    ca: mamífers
+    cdo: Buô-ṳ̄ dông-ŭk
+    ce: декха дийнаташ
+    ceb: Mamipero
+    chr: ᎺᎹᎵ
+    ckb: گوانداران
+    co: Mammiferu
+    crh: süt emiciler
+    cs: savci
+    cv: Сĕтпе ӳсекенсем
+    cy: mamal
+    da: Pattedyr
+    dag: Biŋkɔbigu
+    de: Säugetiere
+    diq: Çıçıkıni
+    dsb: Cycaki
+    ee: Lãdziviwo
+    el: θηλαστικό
+    en: mammal
+    en-ca: mammal
+    en-gb: mammal
+    eo: mamuloj
+    es: mamíferos
+    et: imetajad
+    eu: ugaztun
+    ext: Mamíferu
+    fa: پستانداران
+    fi: nisäkkäät
+    fo: Súgdjór
+    fr: mammifères
+    frp: mamifèros
+    frr: Tetjdiarten
+    fy: sûchdieren
+    ga: mamach
+    gcr: Manmifè
+    gd: Mamal
+    gl: mamífero
+    gn: Okambúva
+    gor: Mamalia
+    got: "\U0001033C\U00010339\U0001033B\U0001033F\U0001033A\U00010343\U00010346\U00010349\U00010333\U0001033E\U00010330"
+    gsw: Süüger
+    gv: Sheeintagh
+    hak: Phú-nen thung-vu̍t
+    haw: māmela
+    he: יונקים
+    hi: स्तनधारी
+    hif: Mammal
+    hr: sisavci
+    hsb: Cycaki
+    ht: Mamifè
+    hu: emlősök
+    hy: կաթնասուն
+    ia: Mammalia
+    id: mamalia
+    ie: Mammiferes
+    ilo: Mamalia
+    inh: Дакхадийнаташ
+    io: mamifero
+    is: spendýr
+    it: mammiferi
+    iu: ᐱᓱᒃᑎ
+    ja: 哺乳類
+    jam: Mamal
+    jbo: mabru
+    jv: mamalia
+    ka: ძუძუმწოვრები
+    kaa: Sút emiziwshiler
+    kab: Timsiffatin
+    kbd: ШэрыпӀхэр
+    kbp: Kpɩnɛ hɩɖɛ ñɩnɖɛ
+    kg: Nyama ya mabele
+    ki: Mammal
+    kk: Сүтқоректілер
+    km: ថនិកសត្វ
+    kn: ಸಸ್ತನಿ
+    knc: Mammal
+    ko: 포유류
+    koi: Нимӧтчиссез
+    ks: مۄمَل جانور
+    ku: Guhandar
+    kw: Bronnvil
+    ky: Желиндүүлөр
+    la: Mammalia
+    lb: Mamendéieren
+    lez: Некхъвадайбур
+    lfn: mamal
+    li: Zoogdiere
+    lij: Mammalia
+    lld: Mamifer
+    lmo: Mamifer
+    ln: Nyama ya mabɛ́lɛ
+    lo: ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ
+    lt: žinduoliai
+    lv: zīdītāji
+    mad: Mamalia
+    mai: स्तनधारी प्राणी
+    mdf: Лофцта потяйхтне
+    mg: Biby mampinono
+    mhr: Шӧр пукшышо
+    mi: Whakangote
+    min: Binatang manyusuan
+    mk: цицачи
+    ml: സസ്തനി
+    mn: Хөхтөн
+    mr: सस्तन प्राणी
+    mrj: Шӹшер качшы вольыквлӓ
+    ms: mamalia
+    mt: mammiferu
+    mul: Mammalia
+    my: နို့တိုက်သတ္တဝါ
+    mzn: شیردهئون
+    nah: Mammalia
+    nan: Chhī-leng tōng-bu̍t
+    nap: Mammifere
+    nb: pattedyr
+    nds: Söögdeerten
+    nds-nl: zoogdeers
+    ne: स्तनधारी प्राणी
+    new: दुरुप्वः दुपिं
+    nl: zoogdieren
+    nn: pattedyr
+    nov: Mammalia
+    nqo: ߦߙߍߡߊ
+    nrm: Mammiféthe
+    nv: Bidił Daazdoígíí dóó Daʼałtʼoʼígíí
+    oc: Mamifèrs
+    om: Hosiftotta
+    or: ସ୍ତନ୍ୟପାୟୀ
+    os: Æхсырæйхæсджытæ
+    pa: ਥਣਧਾਰੀ
+    pam: Mammal
+    pfl: Saigedier
+    pl: ssaki
+    pms: Mamìfer
+    pnb: تھݨ دار
+    ps: تی لرونکی
+    pt: mamíferos
+    pt-br: mamíferos
+    qu: Ñuñuq
+    rm: Mammals
+    ro: mamifer
+    ru: млекопитающие
+    rue: Ссавцї
+    sa: सस्तनः
+    sah: Кыыл
+    scn: mammìfiru
+    sco: mammal
+    sd: ٿڻ وارو جانور
+    se: njiččehasat
+    sgs: Žvierē
+    sh: Sisavac
+    si: ක්ෂීරපායීන්
+    sk: Cicavce
+    sl: sesalci
+    sm: Mamele
+    smn: njomâtteijeeh
+    sms: njeeǯǯla
+    sn: Dzinoyamwisa
+    so: Naasley
+    sq: Gjitarët
+    sr: сисари
+    stq: Suugedierte
+    su: mamalia
+    sv: däggdjur
+    sw: Mamalia
+    szl: Cyckocze
+    szy: paycucuay
+    ta: பாலூட்டி
+    te: క్షీరదాలు
+    tet: Mamíferu
+    tg: Ширхӯр
+    th: สัตว์เลี้ยงลูกด้วยน้ำนม
+    tl: Mamalya
+    tly: šytəhəjon
+    tok: soweli pi nena mama
+    tpi: Mamel
+    tr: memeliler
+    tt: имезүчеләр
+    tt-cyrl: имезүчеләр
+    tyv: Сүт чемиштиг амытаннар
+    udm: нонӥсьёс
+    uk: ссавці
+    ur: پستانیہ
+    uz: Sut emizuvchilar
+    vec: Mamìfari
+    vep: Imetaiživatad
+    vi: lớp Thú
+    vls: Zoogbêestn
+    vo: süganim
+    vro: Imetäjä
+    wa: Biesse ås tetes
+    war: Mamalya
+    wuu: 哺乳動物
+    xal: Үсн теҗәлтнр
+    xmf: ძუძუშმაწუალეფი
+    yi: זויגער
+    yo: Afọmúbọ́mọ
+    yue: 哺乳動物
+    za: Doenghduz nyamhcij
+    zea: Zoogdieren
+    zgh: ⵜⵉⵎⵙⵓⵟⴰⴹ
+    zh: 哺乳動物
+    zh-cn: 哺乳动物
+    zh-hans: 哺乳动物
+    zh-hant: 哺乳動物
+    zh-hk: 哺乳動物
+    zh-mo: 哺乳动物
+    zh-my: 哺乳动物
+    zh-sg: 哺乳动物
+    zh-tw: 哺乳動物
+    zu: IsiNcelisi
 ---
-
 # [[Mammal]]
 
 Mammals 

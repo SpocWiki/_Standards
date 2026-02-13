@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Isotomidae
+- Isotomidae
+- sulkahyppyhännät
+- Изотомиды
+- изотомови
+- عستوميات
+- عسطوميات
+- 等节跳虫科
 title: Isotomidae
 has_id_wikidata: Q546017
+dv_has_:
+  name_:
+    an: Isotomidae
+    ar: عسطوميات
+    arz: عستوميات
+    ast: Isotomidae
+    bg: изотомови
+    ca: Isotomidae
+    ceb: Isotomidae
+    cs: Isotomidae
+    de: Isotomidae
+    en: Isotomidae
+    eo: Isotomidae
+    es: Isotomidae
+    eu: Isotomidae
+    ext: Isotomidae
+    fi: sulkahyppyhännät
+    fr: Isotomidae
+    ga: Isotomidae
+    gl: Isotomidae
+    ia: Isotomidae
+    ie: Isotomidae
+    io: Isotomidae
+    it: Isotomidae
+    la: Isotomidae
+    mul: Isotomidae
+    nb: Isotomidae
+    nl: Isotomidae
+    oc: Isotomidae
+    pl: Isotomidae
+    pt: Isotomidae
+    pt-br: Isotomidae
+    ro: Isotomidae
+    ru: Изотомиды
+    sq: Isotomidae
+    sv: Isotomidae
+    tr: Isotomidae
+    uk: Isotomidae
+    vi: Isotomidae
+    vo: Isotomidae
+    war: Isotomidae
+    zh: 等节跳虫科
+    zh-cn: 等节跳虫科
+    zh-hans: 等节跳虫科
+    zh-tw: 等节跳虫科
 ---
 # [[Isotomidae]]  
 

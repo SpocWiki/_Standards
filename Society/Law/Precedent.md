@@ -1,21 +1,118 @@
 ---
 aliases:
+- antecedento
+- aurrekari
+- cynsail barnwrol
+- duluan kehakiman
+- emsal karar
+- hüquqi presedent
+- precedens
+- precedent
+- precedent juridic
+- precedente
+- precedente jurídico
+- prejudikaatti
+- prejudikat
+- Preseden
+- Pretsedent
+- preċedent
+- Präzedenzfall
+- præcedens
+- précédent
+- regulă de precedență
+- Stare decisis
+- Sud pretsedenti
+- teismo precedentas
+- tiền lệ pháp
+- δεδικασμένο
+- правовий прецедент
+- преседан
+- прецедент
+- прэцэдэнт
+- Соттук прецедент
+- судебный прецедент
+- Դատական նախադեպ
+- תקדים
+- رویه قضایی
+- سابقة قضائية
+- नजिर
+- पूर्वनिर्णय
+- სასამართლო პრედენტი
+- 先例
+- 遵循先例
+- 선례
 has_id_wikidata: Q665141
 subclass_of:
-  - "[[_Standards/WikiData/WD~legal_transaction,327197]]"
-  - "[[_Standards/WikiData/WD~sources_of_law,846882]]"
-used_by: "[[_Standards/WikiData/WD~tribunal,1412224]]"
+- '[[_Standards/WikiData/WD~legal_transaction,327197]]'
+- '[[_Standards/WikiData/WD~sources_of_law,846882]]'
+used_by: '[[_Standards/WikiData/WD~tribunal,1412224]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~legal_opinion,1911852]]"
-  - "[[_Standards/WikiData/WD~case_law,11022655]]"
+- '[[_Standards/WikiData/WD~legal_opinion,1911852]]'
+- '[[_Standards/WikiData/WD~case_law,11022655]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-instance_of: "[[_Standards/WikiData/WD~legal_concept,2135465]]"
-part_of: "[[_Standards/WikiData/WD~legal_case,2334719]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q61421325,61421325]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of: '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+part_of: '[[_Standards/WikiData/WD~legal_case,2334719]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q61421325,61421325]]'
+dv_has_:
+  name_:
+    af: Stare decisis
+    ar: سابقة قضائية
+    ast: precedente
+    az: hüquqi presedent
+    be-tarask: прэцэдэнт
+    bg: прецедент
+    ca: precedent
+    cs: precedens
+    cy: cynsail barnwrol
+    da: præcedens
+    de: Stare decisis
+    de-ch: Präzedenzfall
+    el: δεδικασμένο
+    en: precedent
+    en-ca: precedent
+    en-gb: precedent
+    eo: antecedento
+    es: precedente
+    et: Pretsedent
+    eu: aurrekari
+    fa: رویه قضایی
+    fi: prejudikaatti
+    fr: précédent
+    he: תקדים
+    hi: पूर्वनिर्णय
+    hu: precedens
+    hy: Դատական նախադեպ
+    id: Preseden
+    it: precedente
+    ja: 先例
+    ka: სასამართლო პრედენტი
+    ko: 선례
+    ky: Соттук прецедент
+    lt: teismo precedentas
+    mk: преседан
+    ms: duluan kehakiman
+    mt: preċedent
+    nb: prejudikat
+    ne: नजिर
+    nl: precedent
+    oc: precedent juridic
+    pl: precedens
+    pt: precedente jurídico
+    ro: regulă de precedență
+    ru: судебный прецедент
+    sh: precedent
+    sk: precedens
+    sl: precedens
+    sr: прецедент
+    sv: prejudikat
+    tr: emsal karar
+    uk: правовий прецедент
+    uz: Sud pretsedenti
+    vi: tiền lệ pháp
+    zh: 遵循先例
 ---
-
 # [[Precedent]] 
 
 #is_/same_as :: [[../../WikiData/WD~Precedent,665141|WD~Precedent,665141]]  

@@ -1,25 +1,146 @@
 ---
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~collecting_hobby,12051052]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting|Collecting]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]"
-    - "[[Collecting]]"
+  - '[[_Standards/WikiData/WD~collecting_hobby,12051052]]'
+  - '[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting|Collecting]]'
+  - '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]'
+  - '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]'
+  - '[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]]'
+  - '[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]'
+  - '[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]'
+  - '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]'
+  - '[[Collecting]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~collecting_hobby,12051052]]"
-  - "[[Collecting]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]"
+- '[[_Standards/WikiData/WD~collecting_hobby,12051052]]'
+- '[[Collecting]]'
+- '[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]'
+- '[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]'
+- '[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]]'
+- '[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]'
+- '[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]'
+- '[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]'
 has_id_wikidata: Q208165
+dv_has_:
+  name_:
+    af: Versameling
+    an: Coleccionismo
+    ar: تجميع
+    be: калекцыянаванне
+    be-tarask: калекцыянаваньне
+    bg: Колекционерство
+    ca: col·leccionisme
+    cs: sběratelství
+    cy: casglu
+    da: samle
+    de: Sammeln
+    en: collecting
+    eo: kolektado
+    es: coleccionismo
+    et: kollektsioneerimine
+    eu: Bildumazaletasun
+    fa: جمعآوری نمونه
+    fi: keräily
+    fr: collectionnisme
+    ga: bailiú
+    gl: coleccionismo
+    he: אספנות
+    hr: kolekcija
+    hu: gyűjtés
+    hy: հավաքորդություն
+    ia: Collectionismo
+    id: mengoleksi
+    io: Kolektajo
+    it: collezionismo
+    ja: コレクション
+    kk: Коллекциялау
+    ko: 수집
+    lb: Sammelen
+    lfn: Colie
+    lt: kolekcionavimas
+    lv: kolekcionēšana
+    mk: колекционерство
+    mo: Colecționare
+    my: စုဆောင်းခြင်းအလေ့
+    nb: samling
+    nl: verzamelen
+    nn: samlar
+    oc: colleccion
+    pl: kolekcjonerstwo
+    pt: colecionismo
+    ro: colecționare
+    ru: коллекционирование
+    sk: zberateľstvo
+    sl: zbiranje
+    sr: колекционарство
+    sv: samlande
+    tg-cyrl: ҷамъкунӣ
+    tr: koleksiyonculuk
+    uk: колекціонування
+    vec: cołesionismo
+    vi: Thú vui sưu tầm
+    wuu: 收藏
+    yue: 收藏
+    zh: 收藏
+    zh-cn: 收藏
+    zh-hans: 收藏
+    zh-hant: 收藏
+    zh-hk: 收藏
+    zh-sg: 收藏
+    zh-tw: 收藏
+aliases:
+- bailiú
+- Bildumazaletasun
+- casglu
+- coleccionismo
+- colecionismo
+- Colecționare
+- Colie
+- colleccion
+- collecting
+- Collectionismo
+- collectionnisme
+- collezionismo
+- col·leccionisme
+- cołesionismo
+- gyűjtés
+- keräily
+- kolekcija
+- kolekcionavimas
+- kolekcionēšana
+- kolekcjonerstwo
+- koleksiyonculuk
+- kolektado
+- Kolektajo
+- kollektsioneerimine
+- mengoleksi
+- samlande
+- samlar
+- samle
+- samling
+- Sammelen
+- Sammeln
+- sběratelství
+- Thú vui sưu tầm
+- Versameling
+- verzamelen
+- zberateľstvo
+- zbiranje
+- калекцыянаванне
+- калекцыянаваньне
+- колекціонування
+- колекционарство
+- Колекционерство
+- коллекционирование
+- Коллекциялау
+- ҷамъкунӣ
+- հավաքորդություն
+- אספנות
+- تجميع
+- جمعآوری نمونه
+- စုဆောင်းခြင်းအလေ့
+- コレクション
+- 收藏
+- 수집
 ---
 # [[Collecting]] 
 

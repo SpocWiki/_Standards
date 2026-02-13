@@ -1,30 +1,134 @@
 ---
 title: Piperales
 aliases:
+- borsvirágúak
+- Bộ Hồ tiêu
+- Paparolike
+- Peber-ordenen
+- Pepparordningen
+- pepperordenen
+- pepřotvaré
+- Pfefferartige
+- pieprotvaré
+- pieprzowce
+- Piparu rinda
+- Piperales
+- Piperals
+- Pipiriečiai
+- Pipralaadsed
+- Pipraloj
+- poprovci
+- Pöberoortagen
+- Tanom nga paminta
+- İstiotçiçəklilər
+- Πιπερώδη
+- Перачнакветныя
+- Перечноцветные
+- пипероцветни
+- պղպեղածաղկավորներ
+- פלפלאים
+- فلفلسیاهسانان
+- فلفليات
+- పైపరేలిస్
+- อันดับพริกไทย
+- コショウ目
+- 胡椒目
+- 후추목
 has_id_wikidata: Q27287
-parent_taxon: "[[_Standards/WikiData/WD~magnoliids,846071]]"
+parent_taxon: '[[_Standards/WikiData/WD~magnoliids,846071]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Aristolochiales,1973300]]"
-  - "[[_Standards/WikiData/WD~Lactoridales,14918093]]"
-  - "[[_Standards/WikiData/WD~Hydnorales,14918102]]"
-  - "[[_Standards/WikiData/WD~Asarales,81935761]]"
-has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "18217"
+- '[[_Standards/WikiData/WD~Aristolochiales,1973300]]'
+- '[[_Standards/WikiData/WD~Lactoridales,14918093]]'
+- '[[_Standards/WikiData/WD~Hydnorales,14918102]]'
+- '[[_Standards/WikiData/WD~Asarales,81935761]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 18217
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20angustifolium%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-243.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20aduncum.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20angustifolium%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-243.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20aduncum.jpg
 EPPO_Code: 1PIPO
 UMLS_CUI: C0682479
 NBN_System_Key: NHMSYS0020824594
 Commons_category: Piperales
 taxon_name: Piperales
 taxon_common_name:
-  - 후추목
-  - 胡椒目
+- 후추목
+- 胡椒目
+dv_has_:
+  name_:
+    an: Piperales
+    ar: فلفليات
+    arz: فلفليات
+    ast: Piperales
+    az: İstiotçiçəklilər
+    be-tarask: Перачнакветныя
+    bg: пипероцветни
+    bs: Piperales
+    ca: Piperals
+    ceb: Tanom nga paminta
+    co: Piperales
+    cs: pepřotvaré
+    da: Peber-ordenen
+    de: Pfefferartige
+    el: Πιπερώδη
+    en: Piperales
+    eo: Pipraloj
+    es: Piperales
+    et: Pipralaadsed
+    eu: Piperales
+    ext: Piperales
+    fa: فلفلسیاهسانان
+    fi: Piperales
+    fr: Piperales
+    frr: Pöberoortagen
+    ga: Piperales
+    gl: Piperales
+    he: פלפלאים
+    hr: Paparolike
+    hu: borsvirágúak
+    hy: պղպեղածաղկավորներ
+    ia: Piperales
+    id: Piperales
+    ie: Piperales
+    io: Piperales
+    it: Piperales
+    ja: コショウ目
+    jv: Piperales
+    ko: 후추목
+    ku: Piperales
+    la: Piperales
+    lt: Pipiriečiai
+    lv: Piparu rinda
+    mul: Piperales
+    nb: pepperordenen
+    nl: Piperales
+    oc: Piperales
+    pl: pieprzowce
+    pt: Piperales
+    pt-br: Piperales
+    ro: Piperales
+    ru: Перечноцветные
+    sco: Piperales
+    sh: Piperales
+    sk: pieprotvaré
+    sl: poprovci
+    sq: Piperales
+    sr: Piperales
+    sv: Pepparordningen
+    te: పైపరేలిస్
+    th: อันดับพริกไทย
+    tr: Piperales
+    uk: Piperales
+    vi: Bộ Hồ tiêu
+    vls: Piperales
+    vo: Piperales
+    war: Piperales
+    yue: 胡椒目
+    zh: 胡椒目
+    zh-cn: 胡椒目
 ---
-
 # [[Piperales]] 
 
 ![Aristolochia_clematitis](Piperales/Aristolochia_clematitis.jpg)  ![Piper_nigrum](Piperales/Piperaceae/Black_Pepper/Piper_nigrum,Black_Pepper.jpg) 

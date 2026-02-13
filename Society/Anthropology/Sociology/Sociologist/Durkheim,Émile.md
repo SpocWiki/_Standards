@@ -1,60 +1,103 @@
 ---
 aliases:
-  - David Émile Durkheim
-  - Emile Durkheim
-  - Émile Durkheim
-  - Émile_Durkheim
-  - Durkheim,Émile
+- Aemilius Durkheim
+- David Émile Durkheim
+- Durkheim,Émile
+- Dyurkxeym Emil
+- Emil Dirkem
+- Emil Durkhaym
+- Emil Dyrkhemi
+- Emile Durkheim
+- Emėlis Dorheims
+- Emīls Dirkems
+- Imil Durkaym
+- Émile Durkheim
+- Émile_Durkheim
+- Εμίλ Ντιρκέμ
+- Дюркгейм, Эмиль
+- Еміль Дюркгайм
+- Емил Диркем
+- Емил Дюркем
+- Эміль Дзюркгейм
+- Эміль Дзюркем
+- Эмиль Дюркгейм
+- Էմիլ Դյուրկհայմ
+- אמיל דורקהיים
+- إميل دوركايم
+- ئێمیل دورکایم
+- اميل دورخيم
+- اميل دوركايم
+- امیل دورکیم
+- इमाईल दुर्खीम
+- ईमिली डर्खीम
+- ইমিল ডাৰখাইম
+- এমিল দ্যুর্কেম
+- ਏਮੀਲ ਦੁਰਖਿਮ
+- એમિલ દર્ખેમ
+- எமில் டேர்க்கேம்
+- ఎమైల్ దుర్క్ హైం
+- ಏಮೀಲ್ ಡರ್ಕ್ಹೈಮ್
+- എമിലി ദുർക്കെയിം
+- එමිල් ඩුර්කයිම්
+- เอมีล ดูร์กายม์
+- ემილ დიურკემი
+- ემილ დიურკჰაიმი
+- ⵉⵎⵉⵍ ⴷⵓⵔⴽⴰⵢⵎ
+- エミール・デュルケーム
+- 埃米尔·涂尔干
+- 涂爾幹
+- 艾彌爾·涂爾幹
+- 에밀 뒤르켐
 has_id_wikidata: Q15948
 student_of:
-  - '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
-  - '[[_Standards/WikiData/WD~Numa_Denis_Fustel_de_Coulanges,462597]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Wundt,75814]]'
+- '[[_Standards/WikiData/WD~Numa_Denis_Fustel_de_Coulanges,462597]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-  - '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
-  - '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
+- '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
+- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+- '[[_Standards/WikiData/WD~Lycée_Louis_le_Grand,1059546]]'
+- '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
 occupation:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
-  - '[[_Standards/WikiData/WD~anthropologist,4773904]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
-  - '[[_Standards/WikiData/WD~Louis_de_Bonald,316674]]'
-  - '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
-  - '[[_Standards/WikiData/WD~Montesquieu,15975]]'
+- '[[_Standards/WikiData/WD~Herbert_Spencer,144535]]'
+- '[[_Standards/WikiData/WD~Louis_de_Bonald,316674]]'
+- '[[_Standards/WikiData/WD~Auguste_Comte,12718]]'
+- '[[_Standards/WikiData/WD~Montesquieu,15975]]'
 place_of_birth: '[[_Standards/WikiData/WD~Épinal,173695]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-  - '[[_Standards/WikiData/WD~École_pratique_des_hautes_études,273631]]'
-  - '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~École_pratique_des_hautes_études,273631]]'
+- '[[_Standards/WikiData/WD~University_of_Bordeaux,13344]]'
 place_of_burial: '[[_Standards/WikiData/WD~Montparnasse_Cemetery,272208]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Émile_Boutroux,274969]]'
 student:
-  - '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
-  - '[[_Standards/WikiData/WD~Maurice_Halbwachs,326000]]'
-  - '[[_Standards/WikiData/WD~Robert_Hertz,1972058]]'
+- '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
+- '[[_Standards/WikiData/WD~Maurice_Halbwachs,326000]]'
+- '[[_Standards/WikiData/WD~Robert_Hertz,1972058]]'
 doctoral_student: '[[_Standards/WikiData/WD~Marcel_Mauss,295393]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
-  - '[[_Standards/WikiData/WD~ethnology,43455]]'
+- '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
+- '[[_Standards/WikiData/WD~ethnology,43455]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Elementary_Forms_of_the_Religious_Life,1218187]]'
-  - '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]'
-  - '[[_Standards/WikiData/WD~Education_and_Sociology_(book),96142060]]'
+- '[[_Standards/WikiData/WD~The_Elementary_Forms_of_the_Religious_Life,1218187]]'
+- '[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]'
+- '[[_Standards/WikiData/WD~Education_and_Sociology_(book),96142060]]'
 cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
 member_of: '[[_Standards/WikiData/WD~Human_Rights_League,1429947]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Émile,13426635]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
@@ -83,8 +126,126 @@ NLC_authorities: 000129288
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Durkheim.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20%C3%89mile%20Durkheim%20in%20Montparnasse%20Cemetery.jpg
 ISNI: 0000000121339861
+dv_has_:
+  name_:
+    af: Émile Durkheim
+    an: Émile Durkheim
+    ar: إميل دوركايم
+    arz: اميل دوركايم
+    as: ইমিল ডাৰখাইম
+    ast: Émile Durkheim
+    az: Emil Durkhaym
+    azb: امیل دورکیم
+    be: Эміль Дзюркгейм
+    be-tarask: Эміль Дзюркем
+    bg: Емил Дюркем
+    bjn: Emile Durkheim
+    bn: এমিল দ্যুর্কেম
+    br: Émile Durkheim
+    bs: Émile Durkheim
+    ca: Émile Durkheim
+    ckb: ئێمیل دورکایم
+    cs: Émile Durkheim
+    cy: Émile Durkheim
+    da: Émile Durkheim
+    de: Émile Durkheim
+    de-ch: Émile Durkheim
+    el: Εμίλ Ντιρκέμ
+    en: Émile Durkheim
+    en-ca: Émile Durkheim
+    en-gb: Émile Durkheim
+    en-us: Émile Durkheim
+    eo: Émile Durkheim
+    es: Émile Durkheim
+    et: Émile Durkheim
+    eu: Émile Durkheim
+    ext: Émile Durkheim
+    fa: امیل دورکیم
+    fi: Émile Durkheim
+    fr: Émile Durkheim
+    fur: Émile Durkheim
+    fy: Emile Durkheim
+    ga: Émile Durkheim
+    gl: Émile Durkheim
+    gu: એમિલ દર્ખેમ
+    he: אמיל דורקהיים
+    hi: इमाईल दुर्खीम
+    hr: Émile Durkheim
+    hu: Émile Durkheim
+    hy: Էմիլ Դյուրկհայմ
+    ia: Émile Durkheim
+    id: Émile Durkheim
+    io: Émile Durkheim
+    is: Émile Durkheim
+    it: Émile Durkheim
+    ja: エミール・デュルケーム
+    jv: Émile Durkheim
+    ka: ემილ დიურკემი
+    kk: Эмиль Дюркгейм
+    kl: Émile Durkheim
+    kn: ಏಮೀಲ್ ಡರ್ಕ್ಹೈಮ್
+    ko: 에밀 뒤르켐
+    kw: Émile Durkheim
+    ky: Дюркгейм, Эмиль
+    la: Aemilius Durkheim
+    lb: Émile Durkheim
+    lt: Émile Durkheim
+    lv: Emīls Dirkems
+    mg: Émile Durkheim
+    min: Émile Durkheim
+    mk: Емил Диркем
+    ml: എമിലി ദുർക്കെയിം
+    mn: Эмиль Дюркгейм
+    ms: Émile Durkheim
+    mul: Émile Durkheim
+    myv: Эмиль Дюркгейм
+    nan: Émile Durkheim
+    nb: Émile Durkheim
+    nl: Émile Durkheim
+    nn: Émile Durkheim
+    oc: Émile Durkheim
+    pa: ਏਮੀਲ ਦੁਰਖਿਮ
+    pap: Émile Durkheim
+    pl: Émile Durkheim
+    pms: Émile Durkheim
+    ps: اميل دورخيم
+    pt: Émile Durkheim
+    pt-br: Émile Durkheim
+    ro: Émile Durkheim
+    ru: Эмиль Дюркгейм
+    sa: ईमिली डर्खीम
+    sco: Émile Durkheim
+    sgs: Emėlis Dorheims
+    sh: Émile Durkheim
+    shi: Imil Durkaym
+    si: එමිල් ඩුර්කයිම්
+    sl: Émile Durkheim
+    sq: Emil Dyrkhemi
+    sr: Емил Диркем
+    sr-ec: Емил Диркем
+    sr-el: Emil Dirkem
+    sv: Émile Durkheim
+    sw: Émile Durkheim
+    ta: எமில் டேர்க்கேம்
+    te: ఎమైల్ దుర్క్ హైం
+    th: เอมีล ดูร์กายม์
+    tl: Émile Durkheim
+    tr: Émile Durkheim
+    uk: Еміль Дюркгайм
+    uz: Dyurkxeym Emil
+    vec: Émile Durkheim
+    vi: Émile Durkheim
+    vo: Émile Durkheim
+    war: Émile Durkheim
+    wuu: 埃米尔·涂尔干
+    xmf: ემილ დიურკჰაიმი
+    yo: Émile Durkheim
+    yue: 涂爾幹
+    zgh: ⵉⵎⵉⵍ ⴷⵓⵔⴽⴰⵢⵎ
+    zh: 埃米尔·涂尔干
+    zh-hant: 艾彌爾·涂爾幹
+    zh-tw: 艾彌爾·涂爾幹
 ---
-
 # [[Durkheim,Émile]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Émile_Durkheim,15948|WD~Émile_Durkheim,15948]] 

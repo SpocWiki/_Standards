@@ -1,8 +1,70 @@
 ---
 aliases:
-  - Mistletoe
-  - Mistel
+- benalu
+- drualus
+- erva-de-passarinho
+- gui
+- ligas
+- mihura
+- Mistel
+- Mistletoe
+- mistoltoe
+- muérdago
+- omela
+- Paprastasis_amalas
+- tầm gửi
+- uchelwydd
+- Vischio
+- visco
+- visko
+- амяла
+- омела белая
+- דבקון
+- دارواش
+- هدال
+- পরগাছা
+- മിസിൽടോ
+- ကျီးပေါင်း
+- ተቀጥላ
+- ヤドリギ類
+- 桑寄生植物
+- 겨우살이
 has_id_wikidata: Q2885646
+dv_has_:
+  name_:
+    am: ተቀጥላ
+    ar: هدال
+    be-tarask: амяла
+    bn: পরগাছা
+    cy: uchelwydd
+    de: Mistel
+    en: mistletoe
+    en-ca: mistletoe
+    en-gb: mistletoe
+    eo: visko
+    es: muérdago
+    eu: mihura
+    fa: دارواش
+    fr: gui
+    ga: drualus
+    he: דבקון
+    id: Mistletoe
+    it: Vischio
+    ja: ヤドリギ類
+    ko: 겨우살이
+    lt: Paprastasis_amalas
+    ml: മിസിൽടോ
+    ms: benalu
+    my: ကျီးပေါင်း
+    pt: visco
+    pt-br: erva-de-passarinho
+    ru: омела белая
+    sl: omela
+    sv: Mistel
+    th: mistoltoe
+    tl: ligas
+    vi: tầm gửi
+    zh: 桑寄生植物
 ---
 ## #has_/text_of_/abstract 
 

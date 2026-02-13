@@ -1,40 +1,264 @@
 ---
 aliases:
-  - Roboter
-  - Robot
+- Antapunqu
+- Gihgiyinz
+- ilo jan
+- IsiThununu
+- robo
+- robohtta
+- Robot
+- Robota
+- robotas
+- Roboter
+- Roboti
+- roboto
+- robots
+- robott
+- robotti
+- robotum
+- robòt
+- robó
+- robô
+- rooboot
+- ruobot
+- Ruobuots
+- róbat
+- Rọbọt
+- saƙago
+- searuþræl
+- vélmenni
+- Yandron
+- ρομπότ
+- робат
+- робот
+- Ռոբոտ
+- ראבאט
+- רובוט
+- ربات
+- روبات
+- روبالہ
+- روبو
+- روبوت
+- روبوٹ
+- روبوټ
+- روبوٽ
+- ڕۆبۆت
+- रोबोट
+- सांगकाम्या
+- রোবট
+- ৰবট
+- ਰੋਬੋਟ
+- தானியங்கி
+- మరమనిషి
+- ಯಂತ್ರಮಾನವ
+- റോബോട്ട്
+- සිංහල
+- หุ่นยนต์
+- ໂຣບົດ
+- འཕྲུལ་ཆས་མི་སྣ།
+- စက်ရုပ်
+- რობოტი
+- ሮቦት
+- ᏔᎷᎩᏍᎩ ᏴᏫ
+- ᱨᱚᱵᱚᱴ
+- ロボット
+- 机器人
+- 机械人
+- 機器人
+- 機械人
+- 로보트
+- 로봇
 has_id_wikidata: Q11012
 Baidu_Tieba_name: 机器人
 Commons_category: Robots
 Commons_gallery: Robot
-different_from: "[[_Standards/WikiData/WD~Wikimedia_bot,108702521]]"
+different_from: '[[_Standards/WikiData/WD~Wikimedia_bot,108702521]]'
 hashtag: robot
 has_characteristic:
-  - "[[_Standards/WikiData/WD~automation,184199]]"
-  - "[[_Standards/WikiData/WD~robot_control,7353385]]"
-  - "[[_Standards/WikiData/WD~artificial_intelligence,11660]]"
+- '[[_Standards/WikiData/WD~automation,184199]]'
+- '[[_Standards/WikiData/WD~robot_control,7353385]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sensor,167676]]"
-  - "[[_Standards/WikiData/WD~actuator,423488]]"
-  - "[[_Standards/WikiData/WD~energy_source,1522115]]"
-  - "[[_Standards/WikiData/WD~computer,68]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_robots,4177396]]"
+- '[[_Standards/WikiData/WD~sensor,167676]]'
+- '[[_Standards/WikiData/WD~actuator,423488]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115]]'
+- '[[_Standards/WikiData/WD~computer,68]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_robots,4177396]]'
 Iconclass_notation: 47D6911
 IEV_number: 171-09-25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tesla-optimus-bot-gen-2-scaled%20%28cropped%29.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ROBOT.html
-named_by: "[[_Standards/WikiData/WD~Josef_Čapek,454568]]"
+named_by: '[[_Standards/WikiData/WD~Josef_Čapek,454568]]'
 Nomenclature_for_Museum_Cataloging: 10471
-studied_in: "[[_Standards/WikiData/WD~robotics,170978]]"
+studied_in: '[[_Standards/WikiData/WD~robotics,170978]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~artificially_intelligent_entity,107307291]]"
-  - "[[_Standards/WikiData/WD~machine,11019]]"
+- '[[_Standards/WikiData/WD~artificially_intelligent_entity,107307291]]'
+- '[[_Standards/WikiData/WD~machine,11019]]'
 subreddit: robots
 time_of_earliest_written_record: 1920
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]"
-Unicode_character: 🤖
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]'
+Unicode_character: "\U0001F916"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4hroboter%20GARDENA%20R70Li.webm
+dv_has_:
+  name_:
+    af: robot
+    am: ሮቦት
+    an: robot
+    ang: searuþræl
+    ann: Rọbọt
+    ar: روبوت
+    ary: روبو
+    as: ৰবট
+    ast: robó
+    az: robot
+    azb: روبات
+    ba: робот
+    bar: Robota
+    bcl: Robot
+    be: робат
+    be-tarask: робат
+    bg: робот
+    bn: রোবট
+    bo: འཕྲུལ་ཆས་མི་སྣ།
+    br: robot
+    bs: robot
+    ca: robot
+    ce: робот
+    chr: ᏔᎷᎩᏍᎩ ᏴᏫ
+    ckb: ڕۆبۆت
+    crh: Robot
+    cs: robot
+    cv: робот
+    cy: robot
+    da: robot
+    de: Roboter
+    de-ch: Roboter
+    diq: robot
+    el: ρομπότ
+    en: robot
+    en-ca: robot
+    en-gb: robot
+    eo: roboto
+    es: robot
+    et: robot
+    eu: robot
+    ext: robot
+    fa: ربات
+    fi: robotti
+    fr: robot
+    fy: robot
+    ga: róbat
+    gan: 機械人
+    gcr: robo
+    gl: robot
+    gn: robot
+    gsw: Roboter
+    ha: saƙago
+    he: רובוט
+    hi: रोबोट
+    hif: robot
+    hr: robot
+    hu: robot
+    hy: Ռոբոտ
+    ia: robot
+    id: robot
+    ilo: robot
+    io: roboto
+    is: vélmenni
+    it: robot
+    ja: ロボット
+    jam: ruobot
+    jv: robot
+    ka: რობოტი
+    ki: robot
+    kk: робот
+    kn: ಯಂತ್ರಮಾನವ
+    ko: 로봇
+    ko-kp: 로보트
+    ku: robot
+    ky: робот
+    la: robotum
+    lfn: robot
+    lmo: Robot
+    lo: ໂຣບົດ
+    lt: robotas
+    lv: robots
+    lzh: 機器人
+    min: Robot
+    mk: робот
+    ml: റോബോട്ട്
+    mr: सांगकाम्या
+    ms: robot
+    my: စက်ရုပ်
+    nan: robot
+    nb: robot
+    nds: Roboter
+    ne: रोबोट
+    nl: robot
+    nn: robot
+    nrm: robot
+    oc: robòt
+    pa: ਰੋਬੋਟ
+    pcd: Robot
+    pl: robot
+    pms: Robòt
+    pnb: روبوٹ
+    ps: روبوټ
+    pt: robô
+    pt-br: robô
+    qu: Antapunqu
+    rki: စက်ရုပ်
+    rmy: Yandron
+    ro: robot
+    ru: робот
+    sat: ᱨᱚᱵᱚᱴ
+    scn: Robot
+    sco: Robot
+    sd: روبوٽ
+    se: robohtta
+    sgs: Ruobuots
+    sh: Robot
+    si: සිංහල
+    sk: Robot
+    skr: روبوٹ
+    sl: robot
+    smn: rooboot
+    sms: robott
+    so: Robot
+    sq: Roboti
+    sr: робот
+    sr-ec: робот
+    sr-el: robot
+    su: Robot
+    sv: robot
+    sw: Roboti
+    ta: தானியங்கி
+    te: మరమనిషి
+    tg: Робот
+    th: หุ่นยนต์
+    tok: ilo jan
+    tr: robot
+    tt: Робот
+    udm: робот
+    ug: روبوت
+    uk: робот
+    ur: روبالہ
+    uz: Robot
+    vi: Robot
+    vro: Robot
+    war: Robot
+    wuu: 机器人
+    xmf: რობოტი
+    yi: ראבאט
+    yue: 機械人
+    za: Gihgiyinz
+    zh: 机器人
+    zh-cn: 机器人
+    zh-hans: 机械人
+    zh-hant: 機器人
+    zh-hk: 機械人
+    zu: IsiThununu
 ---
-
 # [[Robot]] 🤖 
 
 #is_/same_as :: [[../../../WikiData/WD~Robot,11012|WD~Robot,11012]] 

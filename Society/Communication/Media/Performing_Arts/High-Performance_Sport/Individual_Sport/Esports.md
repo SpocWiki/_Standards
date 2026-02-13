@@ -1,22 +1,75 @@
 ---
 aliases:
-  - electronic sports
-  - E-Sports
-  - Esports
+- deporte electrónico
+- deportes electrónicos
+- desporto eletrónico
+- e-chwaraeon
+- e-sport
+- E-Sports
+- e-sportt
+- e-valáštallan
+- e-šport
+- electronic sports
+- elektronický šport
+- elektronika sporto
+- elektroninen urheilu
+- elektroninis sportas
+- elektronische sport
+- elektroniskais sports
+- elektronisâš valastâllâm
+- elektrooniline sport
+- espor
+- esport
+- esport electrònic
+- esporte eletrônico
+- esportovi
+- esportoù
+- Esports
+- EСпортови
+- eスポーツ
+- e스포츠
+- Kiberidman
+- kibersport
+- kirol elektronikoak
+- Olahraga elektronik
+- r-spórt
+- rafíþrótt
+- sport elektroniczny
+- sport elettronici
+- sport électronique
+- sukan-e
+- Thể thao điện tử
+- варзиши электроник
+- ез спорт
+- кіберспорт
+- кібэрспорт
+- киберспорт
+- Կիբեռսպորտ
+- ספורט אלקטרוני
+- رياضة إلكترونية
+- ورزش الکترونیک
+- ईस्पोर्ट्स
+- ইস্পোর্টস
+- மின் விளையாட்டுகள்
+- อีสปอร์ต
+- အီလက်ထရွန်းနစ် အားကစား
+- კიბერსპორტი
+- 电子竞技
+- 電子競技
 has_id_wikidata: Q300920
 instance_of:
-  - '[[_Standards/WikiData/WD~entertainment,173799]]'
-  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 uses:
-  - '[[_Standards/WikiData/WD~gaming_computer,185270]]'
-  - '[[_Standards/WikiData/WD~video_game,7889]]'
-  - '[[_Standards/WikiData/WD~video_game_console,8076]]'
+- '[[_Standards/WikiData/WD~gaming_computer,185270]]'
+- '[[_Standards/WikiData/WD~video_game,7889]]'
+- '[[_Standards/WikiData/WD~video_game_console,8076]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~clan,989470]]'
-  - '[[_Standards/WikiData/WD~professional_gamer,4379701]]'
-  - '[[_Standards/WikiData/WD~esports_commentator,63349295]]'
-  - '[[_Standards/WikiData/WD~esports_coach,116973139]]'
-  - '[[_Standards/WikiData/WD~esports_manager,117471360]]'
+- '[[_Standards/WikiData/WD~clan,989470]]'
+- '[[_Standards/WikiData/WD~professional_gamer,4379701]]'
+- '[[_Standards/WikiData/WD~esports_commentator,63349295]]'
+- '[[_Standards/WikiData/WD~esports_coach,116973139]]'
+- '[[_Standards/WikiData/WD~esports_manager,117471360]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q18535198,18535198]]'
 subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
 IAB_code: 682
@@ -30,8 +83,88 @@ PhilPapers_topic: esports
 Commons_category: Esports
 IPTC_NewsCode: mediatopic/20001183
 Baidu_Tieba_name: 电子竞技
+dv_has_:
+  name_:
+    ar: رياضة إلكترونية
+    ast: deportes electrónicos
+    az: Kiberidman
+    be: кіберспорт
+    be-tarask: кібэрспорт
+    bg: Киберспорт
+    bn: ইস্পোর্টস
+    br: esportoù
+    bs: esportovi
+    ca: esport electrònic
+    cs: esport
+    cy: e-chwaraeon
+    da: E-sport
+    de: E-Sport
+    en: esports
+    en-ca: Electronic sports
+    en-gb: esports
+    eo: elektronika sporto
+    es: deporte electrónico
+    et: elektrooniline sport
+    eu: kirol elektronikoak
+    fa: ورزش الکترونیک
+    fi: elektroninen urheilu
+    fo: e-sport
+    fr: sport électronique
+    ga: r-spórt
+    gl: deporte electrónico
+    he: ספורט אלקטרוני
+    hi: ईस्पोर्ट्स
+    hr: eSportovi
+    hu: e-sport
+    hy: Կիբեռսպորտ
+    id: Olahraga elektronik
+    is: rafíþrótt
+    it: sport elettronici
+    ja: eスポーツ
+    ka: კიბერსპორტი
+    kk: Киберспорт
+    ko: e스포츠
+    ky: Киберспорт
+    lt: elektroninis sportas
+    lv: elektroniskais sports
+    mk: киберспорт
+    ms: sukan-e
+    my: အီလက်ထရွန်းနစ် အားကစား
+    nb: e-sport
+    nds-nl: Esport
+    nl: elektronische sport
+    nn: e-sport
+    pl: sport elektroniczny
+    pt: desporto eletrónico
+    pt-br: esporte eletrônico
+    ro: esports
+    ru: киберспорт
+    se: e-valáštallan
+    sh: E-sport
+    sk: elektronický šport
+    sl: e-šport
+    smn: elektronisâš valastâllâm
+    sms: e-sportt
+    sr: EСпортови
+    sv: e-sport
+    ta: மின் விளையாட்டுகள்
+    tg: варзиши электроник
+    th: อีสปอร์ต
+    tr: espor
+    udm: ез спорт
+    uk: кіберспорт
+    uz: kibersport
+    vi: Thể thao điện tử
+    wuu: 电子竞技
+    yue: 電子競技
+    zh: 电子竞技
+    zh-cn: 电子竞技
+    zh-hans: 电子竞技
+    zh-hant: 電子競技
+    zh-hk: 電子競技
+    zh-sg: 电子竞技
+    zh-tw: 電子競技
 ---
-
 # [[Esports]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Esports,300920|WD~Esports,300920]] 

@@ -1,51 +1,88 @@
 ---
-has_time_started: 1921-10-21 
+has_time_started: 1921-10-21
 aliases:
-  - PEN International
-  - International PEN
-  - PEN_International
+- International PEN
+- Kansainvälinen Pen
+- Klubi PEN
+- Mezinárodní PEN klub
+- Nemzetközi PEN Club
+- P.E.N.
+- PEN
+- PEN Afrikaans
+- PEN club
+- PEN Club Internacional
+- PEN clube
+- PEN International
+- PEN Internationalis
+- PEN klubi
+- PEN Rhyngwladol
+- PEN-club
+- PEN-klubben
+- PEN-klubi
+- PEN-klubo internacia
+- PENa Navneteweyî
+- PEN_International
+- Tarptautinis PEN klubas
+- Uluslararası PEN Kulübü
+- Међународни ПЕН
+- ПЕН клуб
+- ПЕН-клуб
+- ПЭН-клуб
+- ПЭН-клюб
+- ՊԵՆ ակումբ
+- ארגון הסופרים הבינלאומי
+- انجمن جهانی قلم
+- نادي القلم الدولي
+- پین انٹرنیشنل
+- पेन इंटरनेशनल
+- পেন ইন্টারন্যাশনাল
+- ਪੈੱਨ ਇੰਟਰਨੈਸ਼ਨਲ
+- 国际笔会
+- 国際ペンクラブ
+- 國際筆會
+- 국제펜클럽
 has_id_wikidata: Q206811
 has_part_s_:
-  - '[[_Standards/WikiData/WD~PEN_Austria,306362]]'
-  - '[[_Standards/WikiData/WD~The_Japan_P.E.N_Club,337745]]'
-  - '[[_Standards/WikiData/WD~Kurdish_PEN_Center,885025]]'
-  - '[[_Standards/WikiData/WD~Hungarian_PEN_Club,1162177]]'
-  - '[[_Standards/WikiData/WD~PEN_Centre_Germany,2043519]]'
-  - '[[_Standards/WikiData/WD~PEN_Center_for_German_language_writers_abroad,2043522]]'
-  - '[[_Standards/WikiData/WD~PEN_center_for_writers_in_exile_in_German_language_countries,2043528]]'
-  - '[[_Standards/WikiData/WD~Esperanto_PEN_center,3058400]]'
-  - '[[_Standards/WikiData/WD~New_Zealand_Society_of_Authors,5033623]]'
-  - '[[_Standards/WikiData/WD~Turkish_PEN_Center,6030548]]'
-  - '[[_Standards/WikiData/WD~Montenegrin_PEN_Center,6905157]]'
-  - '[[_Standards/WikiData/WD~PEN_America,7118978]]'
-  - '[[_Standards/WikiData/WD~PEN_Canada,7118977]]'
-  - '[[_Standards/WikiData/WD~Sydney_PEN,7660076]]'
-  - '[[_Standards/WikiData/WD~PEN_Center_bRAZIL,9053812]]'
-  - '[[_Standards/WikiData/WD~P.E.N._Clube_Português,10343058]]'
-  - '[[_Standards/WikiData/WD~Norsk_PEN,11163930]]'
-  - '[[_Standards/WikiData/WD~PEN_Català,11939702]]'
-  - '[[_Standards/WikiData/WD~P.E.N._Clube_de_Galicia,11939704]]'
-  - '[[_Standards/WikiData/WD~Belarusian_PEN_Centre,13028774]]'
-  - '[[_Standards/WikiData/WD~P.E.N._Club_Liechtenstein,15838008]]'
-  - '[[_Standards/WikiData/WD~Independent_Chinese_PEN_Center,15921831]]'
-  - '[[_Standards/WikiData/WD~Slovene_PEN_Centre,17624833]]'
-  - '[[_Standards/WikiData/WD~English_PEN,18353598]]'
-  - '[[_Standards/WikiData/WD~PEN_Club_Spain,20021313]]'
-  - '[[_Standards/WikiData/WD~Irish_PEN,20828460]]'
-  - '[[_Standards/WikiData/WD~PEN_Hong_Kong,28136196]]'
-  - '[[_Standards/WikiData/WD~Russian_PEN_Center,28519817]]'
-  - '[[_Standards/WikiData/WD~Pen_Club_Vlaanderen,42273954]]'
-  - '[[_Standards/WikiData/WD~PEN_Club_français,48087302]]'
-  - '[[_Standards/WikiData/WD~PEN_Bangladesh,48698985]]'
-  - '[[_Standards/WikiData/WD~PEN_Ukraine,56376303]]'
-  - '[[_Standards/WikiData/WD~Finnish_PEN,56398862]]'
-  - '[[_Standards/WikiData/WD~Czech_Center_of_PEN,63167625]]'
-  - '[[_Standards/WikiData/WD~Serbian_PEN_Center,66823439]]'
-  - '[[_Standards/WikiData/WD~Polish_PEN_Club,66823483]]'
-  - '[[_Standards/WikiData/WD~Palestinian_PEN_Centre,66831683]]'
-  - '[[_Standards/WikiData/WD~Bulgarian_PEN_Centre,66833434]]'
-  - '[[_Standards/WikiData/WD~Croatian_PEN_Centre,66833925]]'
-  - '[[_Standards/WikiData/WD~Basque_PEN,66849789]]'
+- '[[_Standards/WikiData/WD~PEN_Austria,306362]]'
+- '[[_Standards/WikiData/WD~The_Japan_P.E.N_Club,337745]]'
+- '[[_Standards/WikiData/WD~Kurdish_PEN_Center,885025]]'
+- '[[_Standards/WikiData/WD~Hungarian_PEN_Club,1162177]]'
+- '[[_Standards/WikiData/WD~PEN_Centre_Germany,2043519]]'
+- '[[_Standards/WikiData/WD~PEN_Center_for_German_language_writers_abroad,2043522]]'
+- '[[_Standards/WikiData/WD~PEN_center_for_writers_in_exile_in_German_language_countries,2043528]]'
+- '[[_Standards/WikiData/WD~Esperanto_PEN_center,3058400]]'
+- '[[_Standards/WikiData/WD~New_Zealand_Society_of_Authors,5033623]]'
+- '[[_Standards/WikiData/WD~Turkish_PEN_Center,6030548]]'
+- '[[_Standards/WikiData/WD~Montenegrin_PEN_Center,6905157]]'
+- '[[_Standards/WikiData/WD~PEN_America,7118978]]'
+- '[[_Standards/WikiData/WD~PEN_Canada,7118977]]'
+- '[[_Standards/WikiData/WD~Sydney_PEN,7660076]]'
+- '[[_Standards/WikiData/WD~PEN_Center_bRAZIL,9053812]]'
+- '[[_Standards/WikiData/WD~P.E.N._Clube_Português,10343058]]'
+- '[[_Standards/WikiData/WD~Norsk_PEN,11163930]]'
+- '[[_Standards/WikiData/WD~PEN_Català,11939702]]'
+- '[[_Standards/WikiData/WD~P.E.N._Clube_de_Galicia,11939704]]'
+- '[[_Standards/WikiData/WD~Belarusian_PEN_Centre,13028774]]'
+- '[[_Standards/WikiData/WD~P.E.N._Club_Liechtenstein,15838008]]'
+- '[[_Standards/WikiData/WD~Independent_Chinese_PEN_Center,15921831]]'
+- '[[_Standards/WikiData/WD~Slovene_PEN_Centre,17624833]]'
+- '[[_Standards/WikiData/WD~English_PEN,18353598]]'
+- '[[_Standards/WikiData/WD~PEN_Club_Spain,20021313]]'
+- '[[_Standards/WikiData/WD~Irish_PEN,20828460]]'
+- '[[_Standards/WikiData/WD~PEN_Hong_Kong,28136196]]'
+- '[[_Standards/WikiData/WD~Russian_PEN_Center,28519817]]'
+- '[[_Standards/WikiData/WD~Pen_Club_Vlaanderen,42273954]]'
+- '[[_Standards/WikiData/WD~PEN_Club_français,48087302]]'
+- '[[_Standards/WikiData/WD~PEN_Bangladesh,48698985]]'
+- '[[_Standards/WikiData/WD~PEN_Ukraine,56376303]]'
+- '[[_Standards/WikiData/WD~Finnish_PEN,56398862]]'
+- '[[_Standards/WikiData/WD~Czech_Center_of_PEN,63167625]]'
+- '[[_Standards/WikiData/WD~Serbian_PEN_Center,66823439]]'
+- '[[_Standards/WikiData/WD~Polish_PEN_Club,66823483]]'
+- '[[_Standards/WikiData/WD~Palestinian_PEN_Centre,66831683]]'
+- '[[_Standards/WikiData/WD~Bulgarian_PEN_Centre,66833434]]'
+- '[[_Standards/WikiData/WD~Croatian_PEN_Centre,66833925]]'
+- '[[_Standards/WikiData/WD~Basque_PEN,66849789]]'
 founded_by: '[[_Standards/WikiData/WD~Catherine_Amy_Dawson_Scott,544961]]'
 award_received: '[[_Standards/WikiData/WD~Monismanien_Prize,686661]]'
 funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
@@ -67,11 +104,71 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PEN-KLUB.html
 X_Twitter_username: pen_int
 Facebook_username: peninternational
 official_name:
-  - International PEN
-  - PEN International
+- International PEN
+- PEN International
 inception: 1921-10-21T00:00:00Z
+dv_has_:
+  name_:
+    af: PEN Afrikaans
+    ar: نادي القلم الدولي
+    ast: PEN Club Internacional
+    az: PEN
+    be: ПЭН-клуб
+    be-tarask: ПЭН-клюб
+    bg: ПЕН клуб
+    bn: পেন ইন্টারন্যাশনাল
+    ca: PEN Club Internacional
+    cs: Mezinárodní PEN klub
+    cy: PEN Rhyngwladol
+    eo: PEN-klubo internacia
+    es: PEN Club Internacional
+    et: PEN-klubi
+    eu: PEN
+    fa: انجمن جهانی قلم
+    fi: Kansainvälinen Pen
+    fr: PEN club
+    frp: PEN clube
+    he: ארגון הסופרים הבינלאומי
+    hi: पेन इंटरनेशनल
+    hr: P.E.N.
+    hu: Nemzetközi PEN Club
+    hy: ՊԵՆ ակումբ
+    id: Pen club
+    ja: 国際ペンクラブ
+    ko: 국제펜클럽
+    ku: PENa Navneteweyî
+    la: PEN Internationalis
+    lb: International PEN
+    lt: Tarptautinis PEN klubas
+    mul: PEN International
+    nl: PEN-club
+    nn: PEN-klubben
+    pa: ਪੈੱਨ ਇੰਟਰਨੈਸ਼ਨਲ
+    pnb: پین انٹرنیشنل
+    pt: PEN
+    ro: International PEN
+    ru: ПЕН-клуб
+    sh: P.E.N.
+    sk: PEN
+    sl: PEN
+    sq: Klubi PEN
+    sr: Међународни ПЕН
+    sv: PEN
+    tr: Uluslararası PEN Kulübü
+    tt: ПЕН-клуб
+    uk: ПЕН-клуб
+    ur: پین انٹرنیشنل
+    uz: PEN klubi
+    vi: International PEN
+    yue: 國際筆會
+    zh: 国际笔会
+    zh-cn: 国际笔会
+    zh-hans: 国际笔会
+    zh-hant: 國際筆會
+    zh-hk: 國際筆會
+    zh-sg: 国际笔会
+    zh-tw: 國際筆會
 ---
-
 # [[PEN_International]] 
 
 #is_/same_as :: [[WD~PEN_International,206811]] 

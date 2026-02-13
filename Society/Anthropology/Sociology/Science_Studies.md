@@ -1,17 +1,87 @@
 ---
 aliases:
+- Elmi tədqiqatlar
+- Estudios de la ciencias
+- estudis científics
+- estudos científicos
+- Kho-ha̍k-lūn
+- Metaveda
+- naukoznawstwo
+- Naučne studije
+- pengajian sains
+- science studies
+- studi sientìfeghi
+- Studi sientìfich
+- studoj pri scienco
+- tieteentutkimus
+- vede o znanosti
+- videnskabsteori
+- Wissenschaftsforschung
+- zientziaren ikerketa
+- навуказнаўства
+- науковедение
+- наукознавство
+- фән белеме
+- фән ғилеме
+- לימודי מדעים
+- دراسات العلوم
+- مطالعات علم
+- বিজ্ঞান অধ্যয়ন
+- அறிவியல் பயில்வுகள்
+- მეცნიერებათმცოდნეობა
+- 科学之研究；科学论
+- 科学論
+- 科學論
+- 과학학
 has_id_wikidata: Q1332231
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~studies,9347372]]"
-described_by_source: "[[_Standards/WikiData/WD~FILIT,11985944]]"
-different_from: "[[_Standards/WikiData/WD~metascience,30599095]]"
-is_the_study_of: "[[_Standards/WikiData/WD~science,336]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~studies,9347372]]'
+described_by_source: '[[_Standards/WikiData/WD~FILIT,11985944]]'
+different_from: '[[_Standards/WikiData/WD~metascience,30599095]]'
+is_the_study_of: '[[_Standards/WikiData/WD~science,336]]'
 Commons_category: Science studies
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bibliometrics%20definition.svg
+dv_has_:
+  name_:
+    ar: دراسات العلوم
+    as: বিজ্ঞান অধ্যয়ন
+    az: Elmi tədqiqatlar
+    ba: фән ғилеме
+    be: навуказнаўства
+    be-tarask: навуказнаўства
+    ca: estudis científics
+    da: videnskabsteori
+    de: Wissenschaftsforschung
+    en: science studies
+    eo: studoj pri scienco
+    es: Estudios de la ciencias
+    eu: zientziaren ikerketa
+    fa: مطالعات علم
+    fi: tieteentutkimus
+    fr: science studies
+    gl: estudos científicos
+    he: לימודי מדעים
+    ja: 科学論
+    ka: მეცნიერებათმცოდნეობა
+    ko: 과학학
+    ms: pengajian sains
+    nan: Kho-ha̍k-lūn
+    nl: Science studies
+    pl: naukoznawstwo
+    pms: Studi sientìfich
+    ru: науковедение
+    sk: Metaveda
+    sl: vede o znanosti
+    sr: Naučne studije
+    ta: அறிவியல் பயில்வுகள்
+    tt: фән белеме
+    uk: наукознавство
+    vec: studi sientìfeghi
+    yue: 科學論
+    zh: 科学之研究；科学论
 ---
-
 # [[Science_Studies]] 
 
 #is_/similar_to :: [[Science_and_Technology_Studies|Science_and_Technology_Studies]] 

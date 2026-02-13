@@ -1,9 +1,89 @@
 ---
 aliases:
-  - Scott Pilgrim vs. the World
-  - Scott_Pilgrim_vs.the_World
-  - Scott Pilgrim vs.the World
+- Scott Pilgrim
+- Scott Pilgrim a világ ellen
+- Scott Pilgrim gegen den Rest der Welt
+- Scott Pilgrim kontra świat
+- Scott Pilgrim mod verden
+- Scott Pilgrim terve maailma vastu
+- Scott Pilgrim vastaan maailma
+- Scott Pilgrim vs. the World
+- Scott Pilgrim vs.the World
+- Scott_Pilgrim_vs.the_World
+- Skotas Piligrimas prieš pasaulį
+- Skots Pilgrims pret pasauli
+- Skott Pilqrem dünyaya qarşı
+- Ο Σκοτ Πίλγκριμ Εναντίον των 7 Πρώην
+- Скот Пилгрим против света
+- Скот Пилгрим срещу света
+- Скотт Пілігрим проти всіх
+- Скотт Пилигрим бүкіл әлемге қарсы
+- Скотт Пилигрим против всех
+- Սքոթ Փիլիգրիմն ընդդեմ բոլորի
+- האקסים של החברה שלי
+- اسکات پیلگریم در برابر دنیا
+- سكوت بيلجرام يواجه العالم
+- สก็อตต์ พิลกริม VS เดอะ เวิลด์
+- スコット・ピルグリム VS. 邪悪な元カレ軍団
+- 歪小子史考特
+- 歪小子斯科特对抗全世界
+- 爆女大格鬥
+- 스콧 필그림 vs. 더 월드
 has_id_wikidata: Q753899
+dv_has_:
+  name_:
+    af: Scott Pilgrim vs. the World
+    ar: سكوت بيلجرام يواجه العالم
+    arz: سكوت بيلجرام يواجه العالم
+    ast: Scott Pilgrim vs. the World
+    az: Skott Pilqrem dünyaya qarşı
+    bg: Скот Пилгрим срещу света
+    ca: Scott Pilgrim vs. The World
+    cy: Scott Pilgrim vs. the World
+    da: Scott Pilgrim mod verden
+    de: Scott Pilgrim gegen den Rest der Welt
+    el: Ο Σκοτ Πίλγκριμ Εναντίον των 7 Πρώην
+    en: Scott Pilgrim vs. the World
+    es: Scott Pilgrim vs. the World
+    et: Scott Pilgrim terve maailma vastu
+    eu: Scott Pilgrim vs. the World
+    fa: اسکات پیلگریم در برابر دنیا
+    fi: Scott Pilgrim vastaan maailma
+    fr: Scott Pilgrim
+    ga: Scott Pilgrim vs. the World
+    gl: Scott Pilgrim vs. the World
+    he: האקסים של החברה שלי
+    hu: Scott Pilgrim a világ ellen
+    hy: Սքոթ Փիլիգրիմն ընդդեմ բոլորի
+    id: Scott Pilgrim vs. the World
+    it: Scott Pilgrim vs. the World
+    ja: スコット・ピルグリム VS. 邪悪な元カレ軍団
+    kk: Скотт Пилигрим бүкіл әлемге қарсы
+    ko: 스콧 필그림 vs. 더 월드
+    lt: Skotas Piligrimas prieš pasaulį
+    lv: Skots Pilgrims pret pasauli
+    ms: Scott Pilgrim vs. the World
+    nb: Scott Pilgrim vs. the World
+    nl: Scott Pilgrim vs. the World
+    pl: Scott Pilgrim kontra świat
+    pt: Scott Pilgrim vs. the World
+    ru: Скотт Пилигрим против всех
+    sh: Scott Pilgrim vs. the World
+    sr: Скот Пилгрим против света
+    sv: Scott Pilgrim vs. the World
+    th: สก็อตต์ พิลกริม VS เดอะ เวิลด์
+    tl: Scott Pilgrim vs. the World
+    tr: Scott Pilgrim vs. the World
+    uk: Скотт Пілігрим проти всіх
+    uz: Scott Pilgrim vs. the World
+    vi: Scott Pilgrim vs. the world
+    yue: 爆女大格鬥
+    zh: 爆女大格鬥
+    zh-cn: 歪小子斯科特对抗全世界
+    zh-hans: 歪小子斯科特对抗全世界
+    zh-hant: 歪小子史考特
+    zh-hk: 爆女大格鬥
+    zh-tw: 歪小子史考特
 ---
 ## #has_/text_of_/abstract 
 

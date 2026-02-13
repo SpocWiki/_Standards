@@ -1,8 +1,172 @@
 ---
 has_id_wikidata: Q53480
+dv_has_:
+  name_:
+    af: Liliaceae
+    an: Liliaceae
+    ar: زنبقية
+    arz: زنبقيه
+    ast: Liliaceae
+    az: Zanbaqkimilər
+    azb: زانباق کیمیلر
+    be: Лілейныя
+    be-tarask: Лілейныя
+    bg: кремови
+    bn: লিলিয়াসি
+    bs: Liliaceae
+    ca: liliàcies
+    ceb: Liliaceae
+    co: Liliaceae
+    cs: liliovité
+    cv: Лилия йышшисем
+    cy: Alaw
+    da: lilje-familien
+    de: Liliengewächse
+    en: Liliaceae
+    en-us: Liliaceae
+    eo: Liliacoj
+    es: Liliaceae
+    et: Liilialised
+    eu: Liliaceae
+    ext: Liliaceae
+    fa: سوسنیان
+    fi: liljakasvit
+    fr: Liliaceae
+    frr: Lilienplaanten
+    fy: Leelje
+    ga: Liliaceae
+    gl: Liliaceae
+    he: שושניים
+    hi: लिलिएसी कुल
+    hr: Ljiljanovke
+    hsb: Lilijowe rostliny
+    hu: liliomfélék
+    hy: շուշանազգիներ
+    ia: Liliaceae
+    id: Liliaceae
+    ie: Liliaceae
+    io: Liliaceae
+    is: Liljuætt
+    it: Liliaceae
+    ja: ユリ科
+    jv: Liliaceae
+    ka: შროშანისებრნი
+    kbd: АӀуудз-лъэпкъ
+    kk: Лалагүлдер тұқымдасы
+    kn: ಆಲೊ
+    ko: 백합과
+    koi: Лилия котыр
+    ku: Famîleya lîliyan
+    kv: Лилия котыр
+    ky: Лилиялар
+    la: Liliaceae
+    lt: Lelijiniai
+    lv: Liliju dzimta
+    mk: лилјани
+    ml: നരിവെങ്കായം
+    mn: Зуншил цэцэг
+    mul: Liliaceae
+    nb: Liljefamilien
+    nl: leliefamilie
+    nn: liljefamilien
+    oc: Liliaceae
+    os: Хъоппæгхуызтæ
+    pl: liliowate
+    pnb: للی ٹبر
+    pt: Liliaceae
+    pt-br: Liliaceae
+    qu: Liryu yura rikch'aq ayllu
+    ro: Liliaceae
+    ru: лилейные
+    sc: Liliaceae
+    sco: Liliaceae
+    sh: Liliaceae
+    sk: ľaliovité
+    sl: lilijevke
+    sq: Liliaceae
+    sr: Liliaceae
+    sv: Liljeväxter
+    ta: லில்லி குடும்பம்
+    te: లిలియేసి
+    tg: Занбақиҳо
+    th: วงศ์ลิลลี่, ปริก
+    tl: Liliaceae
+    tr: Zambakgiller
+    uk: Лілійні
+    uz: Loladoshlar
+    vi: Họ Loa kèn
+    vo: Liliaceae
+    wa: Feudlissêyes
+    war: Liliaceae
+    wuu: 百合科
+    yue: 百合科
+    zh: 百合科
+    zh-cn: 百合科
+    zh-hans: 百合科
+    zh-tw: 百合科
+aliases:
+- Alaw
+- Famîleya lîliyan
+- Feudlissêyes
+- Họ Loa kèn
+- Leelje
+- leliefamilie
+- Lelijiniai
+- Liilialised
+- Liliaceae
+- Liliacoj
+- Liliengewächse
+- Lilienplaanten
+- lilijevke
+- Lilijowe rostliny
+- Liliju dzimta
+- liliomfélék
+- liliovité
+- liliowate
+- liliàcies
+- liljakasvit
+- lilje-familien
+- Liljefamilien
+- Liljeväxter
+- Liljuætt
+- Liryu yura rikch'aq ayllu
+- Ljiljanovke
+- Loladoshlar
+- Zambakgiller
+- Zanbaqkimilər
+- ľaliovité
+- АӀуудз-лъэпкъ
+- Занбақиҳо
+- Зуншил цэцэг
+- кремови
+- Лілійні
+- Лілейныя
+- Лалагүлдер тұқымдасы
+- лилјани
+- лилейные
+- Лилия йышшисем
+- Лилия котыр
+- Лилиялар
+- Хъоппæгхуызтæ
+- շուշանազգիներ
+- שושניים
+- زانباق کیمیلر
+- زنبقية
+- زنبقيه
+- سوسنیان
+- للی ٹبر
+- लिलिएसी कुल
+- লিলিয়াসি
+- லில்லி குடும்பம்
+- లిలియేసి
+- ಆಲೊ
+- നരിവെങ്കായം
+- วงศ์ลิลลี่, ปริก
+- შროშანისებრნი
+- ユリ科
+- 百合科
+- 백합과
 ---
-
-
 # [[Liliaceae]] 
 
 #is_/same_as :: [[Liliaceae]]

@@ -1,29 +1,200 @@
 ---
 aliases:
-  - electromagnetic field
-  - elektromagnetisches Feld
-  - EM field
-  - Electromagnetic_Field
-  - Electromagnetic Field
+- anjanandrianaratra
+- camp electromagnetic
+- camp electromagnètic
+- campo electromagnético
+- campo eletromagnético
+- campo elettromagnetico
+- campu electromagnéticu
+- cano ełetromagnètego
+- cayo elektromanyetik
+- champ électromagnétique
+- câmp electromagnetic
+- electromagnetic field
+- Electromagnetic_Field
+- elektromagneettlaž ǩeʹdd
+- elektromagnehtalaš gieddi
+- elektromagneta kampo
+- elektromagnetala feldo
+- elektromagnetické pole
+- elektromagnetinis laukas
+- elektromagnetisch veld
+- elektromagnetisches Feld
+- elektromagnetisk felt
+- elektromagnetiskt fält
+- elektromagnetno polje
+- elektromagnetsko polje
+- elektromagnetväli
+- elektromagnit maydon
+- elektromagnētiskais lauks
+- elektromanyetik alan
+- elektromaqnit sahəsi
+- elektromágneses mező
+- EM field
+- eremu elektromagnetiko
+- fusha elektromagnetike
+- kon pilin pi wawa suno
+- lektromagnetisch veldj
+- medan elektromagnet
+- medan elektromagnetik
+- pole elektromagnetyczne
+- qada karomiqnatîsî
+- rafsegulsvið
+- réimse leictreamaighnéadach
+- sähkömagneettinen kenttä
+- tiān-chû-tiûⁿ
+- toolu mbëjbijjaakon
+- trường điện từ
+- šleđgâmagneetlâš kieddi
+- ηλεκτρομαγνητικό πεδίο
+- електромагнітне поле
+- електромагнетно поле
+- електромагнетско поље
+- електромагнитно поле
+- цахилгаан соронзон орон
+- электрамагнітнае поле
+- электрмагниттік өріс
+- электромагнитла уй
+- электромагнитное поле
+- электромагниттик талаа
+- էլեկտրամագնիսական դաշտ
+- שדה אלקטרומגנטי
+- الکترومغناطیس مئیدانی
+- برقناطیسی میدان
+- برېښنايي مقناطيسي ساحه
+- بواری کارۆموگناتیسی
+- حقل كهرطيسي
+- میدان الکترومغناطیسی
+- विद्युच्चुम्बकीय क्षेत्र
+- विद्युतचुम्बकीय क्षेत्र
+- তড়িচ্চুম্বকীয় ক্ষেত্র
+- ਇਲੈਕਟ੍ਰੋਮੈਗਨੈਟਿਕ ਫੀਲਡ
+- மின்காந்தப் புலம்
+- വൈദ്യുതകാന്തികമണ്ഡലം
+- สนามแม่เหล็กไฟฟ้า
+- ელექტრომაგნიტური ველი
+- 电磁场
+- 電磁場
+- 전자기마당
+- 전자기장
 has_id_wikidata: Q177625
-subclass_of: "[[_Standards/WikiData/WD~field,185674]]"
-manifestation_of: "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+subclass_of: '[[_Standards/WikiData/WD~field,185674]]'
+manifestation_of: '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~magnetic_field,11408]]"
-  - "[[_Standards/WikiData/WD~electric_field,46221]]"
-OmegaWiki_Defined_Meaning: "1590728"
+- '[[_Standards/WikiData/WD~magnetic_field,11408]]'
+- '[[_Standards/WikiData/WD~electric_field,46221]]'
+OmegaWiki_Defined_Meaning: 1590728
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Onde%20electromagnetique.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/60.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B8%D0%B4.ogg
 IEV_number: 121-11-61
 UMLS_CUI: C0013835
 Commons_category: Electromagnetic field
 MeSH_tree_code:
-  - G01.358.500.260
-  - G01.358.750.500
-Dewey_Decimal_Classification: "530.141"
+- G01.358.500.260
+- G01.358.750.500
+Dewey_Decimal_Classification: 530.141
+dv_has_:
+  name_:
+    ar: حقل كهرطيسي
+    ast: campu electromagnéticu
+    az: elektromaqnit sahəsi
+    azb: الکترومغناطیس مئیدانی
+    be: электрамагнітнае поле
+    be-tarask: электрамагнітнае поле
+    bg: електромагнитно поле
+    bn: তড়িচ্চুম্বকীয় ক্ষেত্র
+    bs: elektromagnetno polje
+    ca: camp electromagnètic
+    ckb: بواری کارۆموگناتیسی
+    cs: elektromagnetické pole
+    cv: электромагнитла уй
+    da: elektromagnetisk felt
+    de: elektromagnetisches Feld
+    de-ch: elektromagnetisches Feld
+    diq: cayo elektromanyetik
+    el: ηλεκτρομαγνητικό πεδίο
+    en: electromagnetic field
+    en-ca: electromagnetic field
+    en-gb: electromagnetic field
+    eo: elektromagneta kampo
+    es: campo electromagnético
+    et: elektromagnetväli
+    eu: eremu elektromagnetiko
+    fa: میدان الکترومغناطیسی
+    fi: sähkömagneettinen kenttä
+    fr: champ électromagnétique
+    ga: réimse leictreamaighnéadach
+    gl: campo electromagnético
+    he: שדה אלקטרומגנטי
+    hi: विद्युतचुम्बकीय क्षेत्र
+    hr: elektromagnetsko polje
+    hu: elektromágneses mező
+    hy: էլեկտրամագնիսական դաշտ
+    id: medan elektromagnetik
+    io: elektromagnetala feldo
+    is: rafsegulsvið
+    it: campo elettromagnetico
+    ja: 電磁場
+    ka: ელექტრომაგნიტური ველი
+    kk: электрмагниттік өріс
+    ko: 전자기장
+    ko-kp: 전자기마당
+    ku: qada karomiqnatîsî
+    ky: электромагниттик талаа
+    li: lektromagnetisch veldj
+    lt: elektromagnetinis laukas
+    lv: elektromagnētiskais lauks
+    mag: विद्युच्चुम्बकीय क्षेत्र
+    mg: anjanandrianaratra
+    mk: електромагнетно поле
+    ml: വൈദ്യുതകാന്തികമണ്ഡലം
+    mn: цахилгаан соронзон орон
+    ms: medan elektromagnet
+    nan: tiān-chû-tiûⁿ
+    nap: campo elettromagnetico
+    nb: elektromagnetisk felt
+    nl: elektromagnetisch veld
+    nn: elektromagnetisk felt
+    oc: camp electromagnetic
+    pa: ਇਲੈਕਟ੍ਰੋਮੈਗਨੈਟਿਕ ਫੀਲਡ
+    pl: pole elektromagnetyczne
+    ps: برېښنايي مقناطيسي ساحه
+    pt: campo eletromagnético
+    pt-br: campo eletromagnético
+    ro: câmp electromagnetic
+    ru: электромагнитное поле
+    se: elektromagnehtalaš gieddi
+    sh: elektromagnetno polje
+    sk: elektromagnetické pole
+    sl: elektromagnetno polje
+    smn: šleđgâmagneetlâš kieddi
+    sms: elektromagneettlaž ǩeʹdd
+    sq: fusha elektromagnetike
+    sr: електромагнетско поље
+    sr-el: elektromagnetsko polje
+    sv: elektromagnetiskt fält
+    ta: மின்காந்தப் புலம்
+    th: สนามแม่เหล็กไฟฟ้า
+    tok: kon pilin pi wawa suno
+    tr: elektromanyetik alan
+    uk: електромагнітне поле
+    ur: برقناطیسی میدان
+    uz: elektromagnit maydon
+    vec: cano ełetromagnètego
+    vi: trường điện từ
+    wo: toolu mbëjbijjaakon
+    wuu: 电磁场
+    yue: 電磁場
+    zh: 电磁场
+    zh-cn: 电磁场
+    zh-hans: 电磁场
+    zh-hant: 電磁場
+    zh-hk: 電磁場
+    zh-sg: 电磁场
+    zh-tw: 電磁場
 ---
-
 # [[Electromagnetic_Field]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electromagnetic_field,177625|WD~Electromagnetic_field,177625]] 

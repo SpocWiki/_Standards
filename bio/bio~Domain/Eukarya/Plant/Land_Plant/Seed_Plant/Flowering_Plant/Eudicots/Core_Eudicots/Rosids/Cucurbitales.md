@@ -1,8 +1,119 @@
 ---
 aliases:
-  - Cucurbitales
+- Balqabaqçiçəklilər
+- Bộ Bầu bí
+- Cucurbitales
+- Cucurbitals
+- dyniowce
+- Græskar-ordenen
+- Koma kundirawayan
+- Kukurbaloj
+- Kõrvitsalaadsed
+- Kürbisartige
+- Tanom nga pepino
+- tekvicotvaré
+- Tikvolike
+- tykvotvaré
+- tökvirágúak
+- ķirbju rinda
+- Κολοκυνθώδη
+- Гарбузакветныя
+- гарбузоцвіті
+- Кавăн чечеклисем
+- тиквовидни
+- тиквоцветни
+- тыквоцветные
+- դդմածաղկավորներ
+- דלועאים
+- قرعيات
+- کدوسانان
+- కుకుర్బిటేలిస్
+- കുക്കുർബിറ്റൈൽസ്
+- อันดับแตง
+- ウリ目
+- 葫芦目
+- 葫蘆目
+- 박목
 title: Cucurbitales
 has_id_wikidata: Q21875
+dv_has_:
+  name_:
+    an: Cucurbitales
+    ar: قرعيات
+    arz: قرعيات
+    ast: Cucurbitales
+    az: Balqabaqçiçəklilər
+    be: Гарбузакветныя
+    be-tarask: Гарбузакветныя
+    bg: тиквоцветни
+    bs: Cucurbitales
+    ca: Cucurbitals
+    ceb: Tanom nga pepino
+    co: Cucurbitales
+    cs: tykvotvaré
+    cv: Кавăн чечеклисем
+    da: Græskar-ordenen
+    de: Kürbisartige
+    el: Κολοκυνθώδη
+    en: Cucurbitales
+    en-ca: Cucurbitales
+    en-gb: Cucurbitales
+    eo: Kukurbaloj
+    es: Cucurbitales
+    et: Kõrvitsalaadsed
+    eu: Cucurbitales
+    ext: Cucurbitales
+    fa: کدوسانان
+    fi: Cucurbitales
+    fr: Cucurbitales
+    frr: Cucurbitales
+    ga: Cucurbitales
+    gl: Cucurbitales
+    he: דלועאים
+    hr: Tikvolike
+    hu: tökvirágúak
+    hy: դդմածաղկավորներ
+    ia: Cucurbitales
+    id: Cucurbitales
+    ie: Cucurbitales
+    ilo: Cucurbitales
+    io: Cucurbitales
+    it: Cucurbitales
+    ja: ウリ目
+    ko: 박목
+    ku: Koma kundirawayan
+    la: Cucurbitales
+    lv: ķirbju rinda
+    mk: тиквовидни
+    ml: കുക്കുർബിറ്റൈൽസ്
+    ms: Cucurbitales
+    mul: Cucurbitales
+    nb: Cucurbitales
+    nl: Cucurbitales
+    nn: Cucurbitales
+    oc: Cucurbitales
+    pl: dyniowce
+    pt: Cucurbitales
+    pt-br: Cucurbitales
+    ro: Cucurbitales
+    ru: тыквоцветные
+    sco: Cucurbitales
+    sk: tekvicotvaré
+    sq: Cucurbitales
+    sv: Cucurbitales
+    te: కుకుర్బిటేలిస్
+    th: อันดับแตง
+    tr: Cucurbitales
+    uk: гарбузоцвіті
+    vi: Bộ Bầu bí
+    vo: Cucurbitales
+    war: Cucurbitales
+    wuu: 葫芦目
+    yue: 葫蘆目
+    zh: 葫芦目
+    zh-cn: 葫芦目
+    zh-hans: 葫芦目
+    zh-hant: 葫芦目
 ---
 # [[Cucurbitales]] 
 

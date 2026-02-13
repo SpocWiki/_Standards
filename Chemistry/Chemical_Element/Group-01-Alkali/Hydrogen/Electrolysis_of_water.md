@@ -1,27 +1,54 @@
 ---
 aliases:
-  - Water splitting
-  - Electrolysis of water
-  - Water_splitting
-  - Electrolysis_of_water
+- craquage de l'eau
+- Descomposició de l'aigua
+- descompunerea apei
+- Electrolysis of water
+- Electrolysis_of_water
+- ontleding van water
+- separación del agua
+- separação da água
+- vízbontás
+- Water splitting
+- Water_splitting
+- Розщеплення води
+- او پههائیت بئیین
+- تفكيك الماء
+- شکافت آب
+- 水裂解
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]'
 has_id_wikidata: Q2697332
+dv_has_:
+  name_:
+    ar: تفكيك الماء
+    ca: Descomposició de l'aigua
+    en: water splitting
+    es: separación del agua
+    fa: شکافت آب
+    fr: craquage de l'eau
+    hu: vízbontás
+    mzn: او پههائیت بئیین
+    nl: ontleding van water
+    pt: separação da água
+    ro: descompunerea apei
+    uk: Розщеплення води
+    zh: 水裂解
 ---
 ## Challenges 
 

@@ -1,24 +1,81 @@
 ---
-has_time_started: 1914-01-01 
+has_time_started: 1914-01-01
 aliases:
+- Technicolor
+- Tehnicolor
+- Tehnikolor
+- Teicnidhath
+- Техніколор
+- тэхнікалар
+- טכניקולור
+- التصوير بالألوان
+- تکنی کالر
+- ٹیکنی کلر
+- テクニカラー
+- 特藝七彩
+- 테크니컬러
 has_id_wikidata: Q674564
-award_received: "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-instance_of: "[[_Standards/WikiData/WD~photographic_technique,1439691]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Herbert_Kalmus,12687644]]"
-subclass_of: "[[_Standards/WikiData/WD~color,22006653]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-location_of_formation: "[[_Standards/WikiData/WD~Boston,100]]"
+award_received: '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+instance_of: '[[_Standards/WikiData/WD~photographic_technique,1439691]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Herbert_Kalmus,12687644]]'
+subclass_of: '[[_Standards/WikiData/WD~color,22006653]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+location_of_formation: '[[_Standards/WikiData/WD~Boston,100]]'
 Commons_category: Technicolor
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Technicolor.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20technicolor%20SA.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Technicolor.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20technicolor%20SA.svg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/3-strip%20Technicolor%20camera.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Technicolor%20ad%20-%20Motion%20Picture%2C%20July%201930.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/3-strip%20Technicolor%20camera.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Technicolor%20ad%20-%20Motion%20Picture%2C%20July%201930.jpg
 official_website: http://www.technicolor.com
 inception: 1914-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Technicolor
+    ar: التصوير بالألوان
+    ast: Technicolor
+    be-tarask: тэхнікалар
+    ca: Technicolor
+    da: Technicolor
+    de: Technicolor
+    en: Technicolor
+    eo: Technicolor
+    es: Technicolor
+    eu: Technicolor
+    fa: تکنی کالر
+    fi: Technicolor
+    fr: Technicolor
+    fy: Technicolor
+    ga: Teicnidhath
+    gl: Technicolor
+    he: טכניקולור
+    hr: Technicolor
+    hu: Technicolor
+    id: Technicolor
+    is: Technicolor
+    it: Technicolor
+    ja: テクニカラー
+    ko: 테크니컬러
+    lb: Technicolor
+    ms: Technicolor
+    nb: Technicolor
+    nl: Technicolor
+    oc: Technicolor
+    pl: Technicolor
+    pt: Technicolor
+    ro: Tehnicolor
+    ru: Technicolor
+    sh: Technicolor
+    sl: Technicolor
+    sr: Tehnikolor
+    sv: Technicolor
+    tr: Technicolor
+    uk: Техніколор
+    ur: ٹیکنی کلر
+    uz: Technicolor
+    zh: 特藝七彩
 ---
-
 # [[Technicolor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Technicolor,674564|WD~Technicolor,674564]]  

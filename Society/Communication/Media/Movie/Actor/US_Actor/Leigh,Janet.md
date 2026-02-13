@@ -1,36 +1,61 @@
 ---
 aliases:
-  - Janet Leigh
-  - Jeanette Helen Morrison
-  - Leigh
-  - Leigh,Janet
+- Canet Li
+- Dženet Li
+- Dženeta Lī
+- Janet Leigh
+- Janet Leighová
+- Jeanette Helen Morrison
+- Leigh
+- Leigh,Janet
+- Τζάνετ Λι
+- Џенет Ли
+- Джанет Лі
+- Джанет Ли
+- Джанет Лий
+- Ջանեթ Լի
+- ג'נט לי
+- جانيت لى
+- جانيت لي
+- جنت لی
+- جینیٹ لی
+- জ্যানেট লেই
+- ജാനറ്റ് ലെയ്ഗ്
+- เจเน็ต ลีห์
+- ჯანეტ ლეი
+- ジャネット・リー
+- 珍妮特·利
+- 珍納·李
+- 珍納李
+- 珍纳·李
+- 재닛 리
 has_id_wikidata: Q205314
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
 child:
-  - '[[_Standards/WikiData/WD~Jamie_Lee_Curtis,106997]]'
-  - '[[_Standards/WikiData/WD~Kelly_Curtis,273574]]'
+- '[[_Standards/WikiData/WD~Jamie_Lee_Curtis,106997]]'
+- '[[_Standards/WikiData/WD~Kelly_Curtis,273574]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Tony_Curtis,162389]]'
-  - '[[_Standards/WikiData/WD~John_Kenneth_Carlisle,96081347]]'
-  - '[[_Standards/WikiData/WD~Stanley_Reames,96081348]]'
-  - '[[_Standards/WikiData/WD~Robert_Brandt,96081349]]'
+- '[[_Standards/WikiData/WD~Tony_Curtis,162389]]'
+- '[[_Standards/WikiData/WD~John_Kenneth_Carlisle,96081347]]'
+- '[[_Standards/WikiData/WD~Stanley_Reames,96081348]]'
+- '[[_Standards/WikiData/WD~Robert_Brandt,96081349]]'
 place_of_birth: '[[_Standards/WikiData/WD~Merced,499189]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]'
-  - '[[_Standards/WikiData/WD~Merced_High_School,17021453]]'
-  - '[[_Standards/WikiData/WD~Stockton_High_School,96406556]]'
+- '[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]'
+- '[[_Standards/WikiData/WD~Merced_High_School,17021453]]'
+- '[[_Standards/WikiData/WD~Stockton_High_School,96406556]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~vasculitis,644318]]'
-  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~vasculitis,644318]]'
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 medical_condition: '[[_Standards/WikiData/WD~peripheral_neuropathy,945238]]'
 occupation:
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_burial: '[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
@@ -52,8 +77,8 @@ Commons_gallery: Janet Leigh
 Commons_category: Janet Leigh
 Libris_URI: qn247n583fw0qfv
 ISNI:
-  - 0000000121375360
-  - 0000000368643494
+- 0000000121375360
+- 0000000368643494
 name_in_native_language: Janet Leigh
 work_period_start_: 1947-01-01T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Janet%20Leigh%20grave%20at%20Westwood%20Village%20Memorial%20Park%20Cemetery%20in%20Brentwood%2C%20California.JPG
@@ -63,8 +88,87 @@ birth_name: Jeanette Helen Morrison
 date_of_death: 2004-10-03T00:00:00Z
 date_of_birth: 1927-07-06T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Janet%20Leigh%20Publicity.jpg
+dv_has_:
+  name_:
+    af: Janet Leigh
+    ar: جانيت لي
+    arz: جانيت لى
+    ast: Janet Leigh
+    az: Canet Li
+    azb: جنت لی
+    bg: Джанет Лий
+    bn: জ্যানেট লেই
+    br: Janet Leigh
+    ca: Janet Leigh
+    cs: Janet Leighová
+    cy: Janet Leigh
+    da: Janet Leigh
+    de: Janet Leigh
+    diq: Janet Leigh
+    ee: Janet Leigh
+    el: Τζάνετ Λι
+    eml: Janet Leigh
+    en: Janet Leigh
+    en-ca: Janet Leigh
+    en-gb: Janet Leigh
+    eo: Janet Leigh
+    es: Janet Leigh
+    et: Janet Leigh
+    eu: Janet Leigh
+    fa: جنت لی
+    fi: Janet Leigh
+    fr: Janet Leigh
+    ga: Janet Leigh
+    gl: Janet Leigh
+    he: ג'נט לי
+    hr: Janet Leigh
+    hu: Janet Leigh
+    hy: Ջանեթ Լի
+    id: Janet Leigh
+    is: Janet Leigh
+    it: Janet Leigh
+    ja: ジャネット・リー
+    ka: ჯანეტ ლეი
+    ko: 재닛 리
+    lb: Janet Leigh
+    lv: Dženeta Lī
+    mk: Џенет Ли
+    ml: ജാനറ്റ് ലെയ്ഗ്
+    mul: Janet Leigh
+    nb: Janet Leigh
+    nl: Janet Leigh
+    nn: Janet Leigh
+    pap: Janet Leigh
+    pl: Janet Leigh
+    pms: Janet Leigh
+    pt: Janet Leigh
+    pt-br: Janet Leigh
+    qu: Janet Leigh
+    ro: Janet Leigh
+    ru: Джанет Ли
+    sh: Janet Leigh
+    sk: Janet Leigh
+    sl: Janet Leigh
+    sq: Janet Leigh
+    sr: Џенет Ли
+    sr-ec: Џенет Ли
+    sr-el: Dženet Li
+    sv: Janet Leigh
+    th: เจเน็ต ลีห์
+    tl: Janet Leigh
+    tr: Janet Leigh
+    uk: Джанет Лі
+    ur: جینیٹ لی
+    uz: Janet Leigh
+    wuu: 珍妮特·利
+    yo: Janet Leigh
+    yue: 珍納李
+    zh: 珍妮特·利
+    zh-cn: 珍妮特·利
+    zh-hk: 珍納·李
+    zh-my: 珍纳·李
+    zh-sg: 珍纳·李
 ---
-
 # [[Leigh,Janet]] 
 
 #is_/parent_of :: [[Curtis,Jamie_Lee]] 

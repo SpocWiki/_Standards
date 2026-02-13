@@ -1,31 +1,358 @@
 ---
 aliases:
-  - bone
-  - bone
-  - Bone
-  - is_a_bone
+- 3a4ma
+- asgwrn
+- askorn
+- Balung
+- bane
+- Been
+- Bein
+- ben
+- Boan
+- Bom
+- bone
+- bonke
+- bot
+- Bukog
+- Buto
+- Bān
+- Ch'aka
+- Cnàmh
+- cnámh
+- csont
+- dákti
+- Egungun
+- eshtra
+- Este
+- Gueso
+- Gáuk-gáuk
+- güesu
+- Hestî
+- hezur
+- hueso
+- ikhsan
+- is_a_bone
+- Iɣess
+- Kangue
+- kaulas
+- kauls
+- Kemik doku
+- Knaken
+- Knaok
+- Knochen
+- knogle
+- knokkel
+- kost
+- Kosti
+- kosť
+- kość
+- kungkup
+- Kut
+- Kut-kak
+- Kɔbili
+- Laf
+- Lafee
+- Lerapo
+- lu
+- luu
+- Mfupa
+- Mokúwa
+- Mɔɔyɛ
+- Ndok
+- ndzi
+- Omitl
+- os
+- Oskan
+- Oso
+- Osso
+- Ossu
+- Osto
+- Osu
+- Oxhea
+- Pokel
+- Sauniq
+- Schank
+- Sui
+- Suyak
+- Sümük
+- Taolana
+- Tuhlan
+- Tulalo
+- Tulang
+- Tullu
+- tähti
+- täʹhtt
+- Ueso
+- ukwuk
+- xương
+- Zo
+- zòkŋà
+- Òs
+- óso
+- ôs
+- οστό
+- στουδ'
+- кістка
+- коска
+- кост
+- кость
+- косць
+- косьць
+- ловажа
+- лу
+- Пакарь
+- Ракьа
+- сөяк
+- ттаркӏ
+- ТӀехк
+- Устухон
+- Шăмă
+- Яс
+- Қарға сүйек, құстұмсықша сүйек
+- Һөйәк
+- ոսկոր
+- ביין
+- עצם
+- أڈِج
+- ئێسک
+- استخوان
+- استکا
+- تولڠ
+- سوموک
+- عظم
+- عظمة
+- هډوکی
+- ھڏو
+- ہڈی
+- ܓܪܡܐ
+- अस्थि
+- क्वँय्
+- অস্থি বা হাড়
+- হাড়
+- ਹੱਡੀ
+- ହାଡ଼
+- எலும்பு
+- ఎముక
+- ಮೂಳೆ
+- അസ്ഥി
+- กระดูก
+- အရိုး
+- ყვილი
+- ძვალი
+- አጥንት
+- ᡤᡳᡵᠠᠩᡤᡳ
+- ᱡᱟᱝ
+- 骨
+- 骨組織
+- 骨组织
+- 骨骼
+- 뼈
 has_id_wikidata: Q265868
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - bone
+- bone
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bone Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_bone Class
 type: Type
+dv_has_:
+  name_:
+    aeb-arab: عظمة
+    aeb-latn: 3a4ma
+    af: Been
+    agq: ndzi
+    am: አጥንት
+    an: Ueso
+    ang: Bān
+    ann: ukwuk
+    ar: عظم
+    arc: ܓܪܡܐ
+    as: অস্থি বা হাড়
+    ast: güesu
+    atj: Oskan
+    av: Ракьа
+    ay: Ch'aka
+    az: Sümük
+    azb: سوموک
+    ba: Һөйәк
+    ban: Tulang
+    bar: Boan
+    bcl: Tulang
+    be: косць
+    be-tarask: косьць
+    bew: Tulang
+    bg: Кост
+    bn: হাড়
+    br: askorn
+    bs: Kost
+    btm: Tulang
+    ca: os
+    cdo: Gáuk-gáuk
+    ckb: ئێسک
+    co: Ossu
+    cs: kost
+    cv: Шăмă
+    cy: asgwrn
+    da: knogle
+    dag: Kɔbili
+    de: Knochen
+    diq: Este
+    el: οστό
+    en: bone
+    en-gb: bone
+    eo: osto
+    es: hueso
+    et: luu
+    eu: hezur
+    fa: استخوان
+    fi: luu
+    fj: Sui
+    fo: bein
+    fr: os
+    frp: ôs
+    fy: bonke
+    ga: cnámh
+    gd: Cnàmh
+    gl: óso
+    gn: Kangue
+    gor: Tulalo
+    gsw: Knochen
+    hak: Kut-kak
+    he: עצם
+    hi: अस्थि
+    hr: kost
+    ht: Zo
+    hu: csont
+    hy: ոսկոր
+    hyw: Ոսկոր
+    ia: Osso
+    id: Tulang
+    ik: Sauniq
+    inh: ТӀехк
+    io: Osto
+    is: Bein
+    it: osso
+    ja: 骨
+    jv: Balung
+    ka: ძვალი
+    kab: Iɣess
+    kbp: Mɔɔyɛ
+    kcg: kungkup
+    kge: Tuhlan
+    kk: Қарға сүйек, құстұмсықша сүйек
+    kn: ಮೂಳೆ
+    ko: 뼈
+    ks: أڈِج
+    ku: Hestî
+    ku-latn: hestî
+    kw: askorn
+    la: os
+    lad: Gueso
+    lb: Schank
+    lbe: ттаркӏ
+    lfn: Oso
+    li: Knaok
+    lmo: Òs
+    ln: Mokúwa
+    lt: kaulas
+    lv: kauls
+    lzh: 骨
+    map-bms: Balung
+    mcn: zòkŋà
+    mdf: Пакарь
+    mg: Taolana
+    mhr: лу
+    min: Tulang
+    mk: коска
+    ml: അസ്ഥി
+    mn: Яс
+    mnc: ᡤᡳᡵᠠᠩᡤᡳ
+    mr: अस्थि
+    ms: tulang
+    ms-arab: تولڠ
+    my: အရိုး
+    myv: ловажа
+    mzn: استکا
+    nah: Omitl
+    nan: Kut
+    nb: knokkel
+    nds: Knaken
+    new: क्वँय्
+    nl: bot
+    nn: knokkel
+    oc: òs
+    om: Lafee
+    or: ହାଡ଼
+    pa: ਹੱਡੀ
+    pag: Pokel
+    pl: kość
+    pnb: ہڈی
+    pnt: στουδ'
+    ps: هډوکی
+    pt: osso
+    pt-br: osso
+    qu: Tullu
+    ro: Os
+    ru: кость
+    rup: Osu
+    sa: अस्थि
+    sat: ᱡᱟᱝ
+    scn: Ossu
+    sco: bane
+    sd: ھڏو
+    se: dákti
+    sh: Kosti
+    shi: ikhsan
+    sk: kosť
+    sl: kost
+    smn: tähti
+    sms: täʹhtt
+    so: Laf
+    sq: eshtra
+    sr: кост
+    su: Tulang
+    sv: ben
+    sw: Mfupa
+    ta: எலும்பு
+    te: ఎముక
+    tg: Устухон
+    th: กระดูก
+    tl: Buto
+    tn: Lerapo
+    tr: Kemik doku
+    tt: сөяк
+    tt-cyrl: сөяк
+    uk: кістка
+    ur: ہڈی
+    uz: Suyak
+    vep: lu
+    vi: xương
+    vo: Bom
+    wa: Oxhea
+    war: Bukog
+    wuu: 骨骼
+    xmf: ყვილი
+    yi: ביין
+    yo: Egungun
+    yue: 骨
+    za: Ndok
+    zh: 骨骼
+    zh-cn: 骨骼
+    zh-hans: 骨组织
+    zh-hant: 骨組織
 ---
-
 # [[Bone]] 
 
 Class of all bones.

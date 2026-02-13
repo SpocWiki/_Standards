@@ -1,44 +1,123 @@
 ---
 aliases:
-  - Mygalomorphae
-  - Migalomorf
-  - sklípkani
-  - Vogelspinnenartige
-  - Mygales
-  - Mygalomorphes
-  - Négytüdős pókok
-  - Migali
-  - Мигаломорфные пауки
-  - Štvorpľúcne
+- Migali
+- Migalomorf
+- migalomorfs
+- Migalomorfuloj
+- Miqalomorf hörümçəklər
+- Mygales
+- Mygalomorphae
+- Mygalomorphes
+- Naałʼaashii
+- Négytüdős pókok
+- putnēdājzirnekļi
+- sklípkani
+- Vagelspinnendeerter
+- vogelspinachtigen
+- Vogelspinnenartige
+- Štvorpľúcne
+- Μυγαλομόρφα
+- мигаломорфни паяци
+- Мигаломорфные пауки
+- מיגלומורפה
+- خدنق
+- رتيلاء الشكل
+- رتیلریختان
+- ಮೈಗಾಲೊಮಾರ್ಫ
+- トタテグモ下目
+- 原蛛下目
+- 原蛛亚目
+- 猛蛛下目
+- 원실젖거미하목
 has_id_wikidata: Q12081
 title: Mygalomorphae
 does_not_have_part: '[[_Standards/WikiData/WD~Cribellum,1139884]]'
 taxon_rank:
-  - '[[_Standards/WikiData/WD~infraorder,2889003]]'
-  - '[[_Standards/WikiData/WD~suborder,5867959]]'
+- '[[_Standards/WikiData/WD~infraorder,2889003]]'
+- '[[_Standards/WikiData/WD~suborder,5867959]]'
 parent_taxon: '[[_Standards/WikiData/WD~Opisthothelae,12072]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 82733
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mouse%20spider.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sphodros%20rufipes.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mouse%20spider.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sphodros%20rufipes.JPG
 UMLS_CUI: C0998347
 Commons_gallery: Mygalomorphae
 Commons_category: Mygalomorphae
 taxon_name: Mygalomorphae
 taxon_common_name:
-  - Migalomorf
-  - sklípkani
-  - Vogelspinnenartige
-  - Mygales
-  - Mygalomorphes
-  - Négytüdős pókok
-  - Migali
-  - Мигаломорфные пауки
-  - Štvorpľúcne
+- Migalomorf
+- sklípkani
+- Vogelspinnenartige
+- Mygales
+- Mygalomorphes
+- Négytüdős pókok
+- Migali
+- Мигаломорфные пауки
+- Štvorpľúcne
+dv_has_:
+  name_:
+    an: Mygalomorphae
+    ar: خدنق
+    arz: رتيلاء الشكل
+    ast: Mygalomorphae
+    az: Miqalomorf hörümçəklər
+    be: Mygalomorphae
+    bg: мигаломорфни паяци
+    ca: migalomorfs
+    ceb: Mygalomorphae
+    cs: sklípkani
+    de: Vogelspinnenartige
+    el: Μυγαλομόρφα
+    en: Mygalomorphae
+    eo: Migalomorfuloj
+    es: Mygalomorphae
+    eu: Mygalomorphae
+    ext: Mygalomorphae
+    fa: رتیلریختان
+    fi: Mygalomorphae
+    fr: Mygalomorphae
+    ga: Mygalomorphae
+    gl: Mygalomorphae
+    he: מיגלומורפה
+    hu: négytüdős pókok
+    ia: Mygalomorphae
+    id: Mygalomorphae
+    ie: Mygalomorphae
+    io: Mygalomorphae
+    is: Mygalomorphae
+    it: Mygalomorphae
+    ja: トタテグモ下目
+    kn: ಮೈಗಾಲೊಮಾರ್ಫ
+    ko: 원실젖거미하목
+    la: Mygalomorphae
+    lv: putnēdājzirnekļi
+    mul: Mygalomorphae
+    nb: Mygalomorphae
+    nds: Vagelspinnendeerter
+    nl: vogelspinachtigen
+    nv: Naałʼaashii
+    oc: Mygalomorphae
+    pl: Mygalomorphae
+    pt: Mygalomorphae
+    pt-br: Mygalomorphae
+    ro: Mygalomorphae
+    ru: мигаломорфные пауки
+    sk: Štvorpľúcne
+    sl: Mygalomorphae
+    sq: Mygalomorphae
+    sr: Mygalomorphae
+    sv: Mygalomorphae
+    tr: Mygalomorphae
+    uk: Mygalomorphae
+    vi: Mygalomorphae
+    vo: Mygalomorphae
+    war: Mygalomorphae
+    zh: 猛蛛下目
+    zh-cn: 原蛛下目
+    zh-hans: 原蛛亚目
+    zh-tw: 猛蛛下目
 ---
-
-
 # [[Mygalomorphae]]  
 
 ![ ](Mygalomorphae/01082tarantula1.jpg) 

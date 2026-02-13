@@ -1,20 +1,103 @@
 ---
 aliases:
+- Chek-heng ián-chàu
+- Compositio extemporanea
+- glasbena improvizacija
+- hudební improvizace
+- improvisaatio (sävellykset)
+- improvisació musical
+- Improvisación musical
+- improvisasjonsmusikk
+- improvisatie
+- improvisation
+- improvisation musicale
+- Improvisatioun
+- Improvisatsioon (muusika)
+- improvisação
+- Improvizacija
+- improvizado
+- improvvisazione
+- improwizacja
+- inprobisazio
+- inprovizasion
+- musical improvisation
+- musikimprovisation
+- müzikal doğaçlama
+- μουσικός αυτοσχεδιασμός
+- імпровізація
+- Импровизација
+- музыкальная импровизация
+- музычная імправізацыя
+- երաժշտական իմպրովիզացիա
+- אלתור
+- ارتجال موسيقي
+- بداهه
+- සංගිතමය ක්ෂණ නිර්මාණ
+- 即興演奏
+- 即興音樂
+- 音乐即兴
+- 音樂即興
+- 즉흥 연주
 has_id_wikidata: Q1049625
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~music_performance_technique,6942574]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~music_performance_technique,6942574]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~improvisation,214961]]"
-  - "[[_Standards/WikiData/WD~musical_performance,6942562]]"
+- '[[_Standards/WikiData/WD~improvisation,214961]]'
+- '[[_Standards/WikiData/WD~musical_performance,6942562]]'
 described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Andreas%20Paolo%20Perger%20live%20at%20Zionskirche%20Berlin%202014.jpg
 Commons_category: Musical improvisation
+dv_has_:
+  name_:
+    ar: ارتجال موسيقي
+    ast: Improvisación musical
+    be-tarask: музычная імправізацыя
+    ca: improvisació musical
+    cs: hudební improvizace
+    da: musikimprovisation
+    de: Improvisation
+    el: μουσικός αυτοσχεδιασμός
+    en: musical improvisation
+    eo: improvizado
+    es: improvisación musical
+    et: Improvisatsioon (muusika)
+    eu: inprobisazio
+    fa: بداهه
+    fi: improvisaatio (sävellykset)
+    fr: improvisation musicale
+    gl: improvisación musical
+    he: אלתור
+    hr: Improvizacija
+    hy: երաժշտական իմպրովիզացիա
+    it: improvvisazione
+    ja: 即興演奏
+    ko: 즉흥 연주
+    la: Compositio extemporanea
+    lb: Improvisatioun
+    nan: Chek-heng ián-chàu
+    nb: improvisasjonsmusikk
+    nl: improvisatie
+    pl: improwizacja
+    pt: improvisação
+    ru: музыкальная импровизация
+    sh: Improvizacija
+    si: සංගිතමය ක්ෂණ නිර්මාණ
+    sl: glasbena improvizacija
+    sr: Импровизација
+    sv: improvisation
+    tr: müzikal doğaçlama
+    uk: імпровізація
+    vec: inprovizasion
+    yue: 即興音樂
+    zh: 音樂即興
+    zh-hans: 音乐即兴
+    zh-hant: 音樂即興
+    zh-hk: 音樂即興
 ---
-
 # [[Musical_Improvisation]] 
 
 #is_/same_as :: [[WD~Musical_improvisation,1049625]] 

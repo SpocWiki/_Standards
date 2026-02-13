@@ -1,8 +1,147 @@
 ---
 has_id_wikidata: Q10993
+dv_has_:
+  name_:
+    af: Tiger Woods
+    an: Tiger Woods
+    ar: تايغر وودز
+    arz: تايجر وودس
+    ast: Tiger Woods
+    az: Tayqer Vuds
+    bar: Tiger Woods
+    be: Тайгер Вудс
+    be-tarask: Тайгер Ўудс
+    bg: Тайгър Уудс
+    bn: টাইগার উডস
+    ca: Tiger Woods
+    ceb: Tiger Woods.
+    ckb: تایگەر وودز
+    cs: Tiger Woods
+    cy: Tiger Woods
+    da: Tiger Woods
+    de: Tiger Woods
+    de-at: Tiger Woods
+    de-ch: Tiger Woods
+    diq: Tiger Woods
+    el: Τάιγκερ Γουντς
+    en: Tiger Woods
+    en-ca: Tiger Woods
+    en-gb: Tiger Woods
+    en-us: Tiger Woods
+    eo: Tiger Woods
+    es: Tiger Woods
+    et: Tiger Woods
+    eu: Tiger Woods
+    ext: Tiger Woods
+    fa: تایگر وودز
+    fi: Tiger Woods
+    fr: Tiger Woods
+    ga: Tiger Woods
+    gl: Tiger Woods
+    gom: Tiger Woods
+    gu: ટાઇગર વુડ્સ
+    gv: Tiger Woods
+    ha: Tiger Woods
+    he: טייגר וודס
+    hi: टाइगर वुड्स
+    hr: Tiger Woods
+    hu: Tiger Woods
+    hy: Թայգեր Վուդս
+    id: Tiger Woods
+    io: Tiger Woods
+    is: Tiger Woods
+    it: Tiger Woods
+    ja: タイガー・ウッズ
+    jv: Tiger Woods
+    ka: ტაიგერ ვუდსი
+    kl: Tiger Woods
+    kn: ಟೈಗರ್ ವುಡ್ಸ್
+    ko: 타이거 우즈
+    lt: Tiger Woods
+    lv: Taigers Vudss
+    mai: टाइगर वुड्स
+    mg: Tiger Woods
+    mk: Тајгер Вудс
+    ml: ടൈഗർ വുഡ്സ്
+    mn: Тайгер Вүдс
+    mr: टायगर वूड्स
+    ms: Tiger Woods
+    my: တိုက်ဂါးဝုဒ်
+    nb: Tiger Woods
+    ne: टाइगर वुड्स
+    nl: Tiger Woods
+    nn: Tiger Woods
+    oc: Tiger Woods
+    pa: ਟਾਈਗਰ ਵੁਡਜ਼
+    pap: Tiger Woods
+    pl: Tiger Woods
+    pnb: ٹائیگر ووڈز
+    pt: Tiger Woods
+    pt-br: Tiger Woods
+    ro: Tiger Woods
+    ru: Тайгер Вудс
+    sgs: Tiger Woods
+    sh: Tiger Woods
+    shn: ထၢႆးၵိူဝ်းဝုတ်ႉ
+    sk: Tiger Woods
+    sl: Tiger Woods
+    sq: Tiger Woods
+    sr: Тајгер Вудс
+    sv: Tiger Woods
+    sw: Tiger Woods
+    ta: டைகர் வுட்ஸ்
+    te: టైగర్ వుడ్స్
+    th: ไทเกอร์ วูดส์
+    tr: Tiger Woods
+    uk: Тайґер Вудс
+    uz: Tiger Woods
+    vi: Tiger Woods
+    war: Tiger Woods
+    wuu: 伍老虎
+    yo: Tiger Woods
+    yue: 老虎活士
+    zh: 泰格·伍兹
+    zh-hant: 老虎伍茲
+    zh-tw: 老虎伍茲
+aliases:
+- Taigers Vudss
+- Tayqer Vuds
+- Tiger Woods
+- Tiger Woods.
+- Τάιγκερ Γουντς
+- Тајгер Вудс
+- Тайгер Ўудс
+- Тайгер Вудс
+- Тайгер Вүдс
+- Тайгър Уудс
+- Тайґер Вудс
+- Թայգեր Վուդս
+- טייגר וודס
+- تايجر وودس
+- تايغر وودز
+- تایگر وودز
+- تایگەر وودز
+- ٹائیگر ووڈز
+- टाइगर वुड्स
+- टायगर वूड्स
+- টাইগার উডস
+- ਟਾਈਗਰ ਵੁਡਜ਼
+- ટાઇગર વુડ્સ
+- டைகர் வுட்ஸ்
+- టైగర్ వుడ్స్
+- ಟೈಗರ್ ವುಡ್ಸ್
+- ടൈഗർ വുഡ്സ്
+- ไทเกอร์ วูดส์
+- တိုက်ဂါးဝုဒ်
+- ထၢႆးၵိူဝ်းဝုတ်ႉ
+- ტაიგერ ვუდსი
+- タイガー・ウッズ
+- 伍老虎
+- 泰格·伍兹
+- 老虎伍茲
+- 老虎活士
+- 타이거 우즈
 ---
-
-
 # [[Tiger_Woods]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tiger_Woods,10993|WD~Tiger_Woods,10993]]  

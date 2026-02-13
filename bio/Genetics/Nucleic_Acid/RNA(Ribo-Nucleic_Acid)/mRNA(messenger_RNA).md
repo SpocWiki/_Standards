@@ -1,8 +1,140 @@
 ---
 has_id_wikidata: Q188928
+dv_has_:
+  name_:
+    af: boodskapper-RNS
+    ar: حمض نووي ريبوزي رسول
+    arz: مرسال الحمض النووى الريبوزى
+    az: MRNT
+    be-tarask: інфармацыйная РНК
+    bg: Информационна РНК
+    bn: বার্তাবাহী আরএনএ
+    bs: Informacijska RNK
+    ca: ARN missatger
+    ckb: ئاڕ ئێن ئەی نێردراو
+    cs: mRNA
+    da: mRNA
+    de: mRNA
+    el: Αγγελιοφόρο RNA
+    en: messenger RNA
+    eo: mesaĝa RNA
+    es: ARN mensajero
+    et: Informatsiooni-RNA
+    eu: RNA mezulari
+    fa: آراِناِی پیک
+    fi: lähetti-RNA
+    fr: acide ribonucléique messager
+    gl: ARN mensaxeiro
+    he: mRNA
+    hi: संदेशवाहक आरएनए
+    hr: mRNA
+    hu: hírvivő RNS
+    hy: Ինֆորմացիոն ՌՆԹ
+    id: MRNA
+    it: RNA messaggero
+    ja: メッセンジャーRNA
+    ka: ინფორმაციული რიბონუკლეინის მჟავა
+    kk: Мəліметтік РНҚ
+    ko: 전령 RNA
+    ku: Messenger RNA
+    ku-latn: ARN-peyamber
+    la: MRNA
+    lo: Messenger RNA
+    lt: iRNR
+    lv: Informatīvā ribonukleīnskābe
+    mk: информациска РНК
+    ml: സന്ദേശവാഹക ആർ.എൻ.ഏ
+    ms: RNA pengutus
+    nan: MRNA
+    nb: Budbringer-RNA
+    nl: messenger-RNA
+    nn: bodberar-RNA
+    oc: Acid ribonucleïc messatgèr
+    pl: mRNA
+    pt: ARN mensageiro
+    ro: ARN mesager
+    ru: мРНК
+    scn: RNA missaggeru
+    sco: messenger RNA
+    sh: Informaciona RNK
+    sk: Mediátorová ribonukleová kyselina
+    sl: informacijska RNK
+    sr: информациона РНК
+    sr-ec: информациона РНК
+    sr-el: informaciona RNK
+    sv: budbärar-RNA
+    ta: தூதாறனை
+    th: เอ็มอาร์เอ็นเอ
+    tr: Mesajcı RNA
+    uk: матрична РНК
+    ur: پیامبر آر این اے
+    vi: ARN thông tin
+    wuu: 信使核糖核酸
+    xmf: ინფორმაციული რიბონუკლეინიშ ბჟე
+    zh: 信使核糖核酸
+    zh-cn: mRNA
+    zh-hans: mRNA
+    zh-hant: mRNA
+    zh-hk: mRNA
+    zh-sg: mRNA
+    zh-tw: mRNA
+aliases:
+- Acid ribonucleïc messatgèr
+- acide ribonucléique messager
+- ARN mensageiro
+- ARN mensajero
+- ARN mensaxeiro
+- ARN mesager
+- ARN missatger
+- ARN thông tin
+- ARN-peyamber
+- bodberar-RNA
+- boodskapper-RNS
+- Budbringer-RNA
+- budbärar-RNA
+- hírvivő RNS
+- Informacijska RNK
+- Informaciona RNK
+- Informatsiooni-RNA
+- Informatīvā ribonukleīnskābe
+- iRNR
+- lähetti-RNA
+- Mediátorová ribonukleová kyselina
+- Mesajcı RNA
+- mesaĝa RNA
+- messenger RNA
+- messenger-RNA
+- mRNA
+- MRNT
+- RNA messaggero
+- RNA mezulari
+- RNA missaggeru
+- RNA pengutus
+- Αγγελιοφόρο RNA
+- інфармацыйная РНК
+- информациона РНК
+- Информационна РНК
+- информациска РНК
+- Мəліметтік РНҚ
+- матрична РНК
+- мРНК
+- Ինֆորմացիոն ՌՆԹ
+- آراِناِی پیک
+- ئاڕ ئێن ئەی نێردراو
+- حمض نووي ريبوزي رسول
+- مرسال الحمض النووى الريبوزى
+- پیامبر آر این اے
+- संदेशवाहक आरएनए
+- বার্তাবাহী আরএনএ
+- தூதாறனை
+- സന്ദേശവാഹക ആർ.എൻ.ഏ
+- เอ็มอาร์เอ็นเอ
+- ინფორმაციული რიბონუკლეინის მჟავა
+- ინფორმაციული რიბონუკლეინიშ ბჟე
+- メッセンジャーRNA
+- 信使核糖核酸
+- 전령 RNA
 ---
-
-
 #is_/different_from :: [[RNA(Ribo-Nucleic_Acid)/Micro-RNA]] 
 
 ## #has_/text_of_/abstract 

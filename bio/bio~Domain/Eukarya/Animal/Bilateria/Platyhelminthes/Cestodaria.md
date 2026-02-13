@@ -1,8 +1,65 @@
 ---
 aliases:
-  - Cestodaria
+- Cestodaria
+- Lentşəkilli qurdkimilər
+- Pásomničky
+- Tasiemce nieczłonowane
+- Тениоподобни
+- Цестодатәрізділер
+- سيستوداريا
+- کرمهای نواری دهقلاب
+- 单节亚纲
+- 単節条虫亜綱
+- 單節亞綱
 title: Cestodaria
 has_id_wikidata: Q540909
+dv_has_:
+  name_:
+    an: Cestodaria
+    ar: سيستوداريا
+    arz: سيستوداريا
+    ast: Cestodaria
+    az: Lentşəkilli qurdkimilər
+    bg: Тениоподобни
+    ca: Cestodaria
+    ceb: Cestodaria
+    de: Cestodaria
+    en: Cestodaria
+    eo: Cestodaria
+    es: Cestodaria
+    eu: Cestodaria
+    ext: Cestodaria
+    fa: کرمهای نواری دهقلاب
+    fi: Cestodaria
+    fr: Cestodaria
+    ga: Cestodaria
+    gl: Cestodaria
+    ia: Cestodaria
+    id: Cestodaria
+    ie: Cestodaria
+    io: Cestodaria
+    it: Cestodaria
+    ja: 単節条虫亜綱
+    kk: Цестодатәрізділер
+    la: Cestodaria
+    mul: Cestodaria
+    nl: Cestodaria
+    oc: Cestodaria
+    pl: Tasiemce nieczłonowane
+    pt: Cestodaria
+    pt-br: Cestodaria
+    ro: Cestodaria
+    ru: Cestodaria
+    sk: Pásomničky
+    sq: Cestodaria
+    sv: Cestodaria
+    uk: Cestodaria
+    vi: Cestodaria
+    vo: Cestodaria
+    war: Cestodaria
+    zh: 单节亚纲
+    zh-cn: 单节亚纲
+    zh-tw: 單節亞綱
 ---
 # [[Cestodaria]] 
 

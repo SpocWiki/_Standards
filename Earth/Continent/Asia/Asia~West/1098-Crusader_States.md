@@ -1,45 +1,185 @@
 ---
 aliases:
-  - Outremer
-  - Kreuzfahrerstaaten
-  - 1098-Crusader_States
-  - 1098-Crusader States
+- 1098-Crusader States
+- 1098-Crusader_States
+- Crusader state
+- Crusader states
+- Dewletên Xaçperestan
+- Estado cruzado
+- Estados cruzados
+- Estaos cruzaos
+- Estat latin
+- Estatos latins d'Orient
+- Estats croats
+- Fanjakana Latina Atsinanana
+- Gurutzatuen estatuak
+- haçlı devletleri
+- Istados crosados
+- keresztes államok
+- korsfararstater
+- Korsfarerstat
+- Kreuzfahrerstaaten
+- Križarske države
+- Križiacky štát
+- krossfararstat
+- krstaška država
+- Krstaške države
+- Krucista ŝtato
+- Kruisvaardersstaten
+- krustnešu valsts
+- kryžiuočių valstybės
+- křižácké státy
+- Mga estado ng nagkrusada
+- Negara-negara Tentara Salib
+- Negeri Salibi
+- Outremer
+- Państwa krzyżowe
+- Quốc gia Thập tự chinh
+- ristiretkivaltio
+- ristisõdijate riigid
+- Salibchilarning davlatlari
+- Stadoù latin ar Reter
+- Statele cruciate
+- Stato crociato
+- Səlibçi dövlətlər
+- États latins d'Orient
+- σταυροφορικά κράτη
+- Государства крестоносцев
+- Держави хрестосців
+- Дзяржавы крыжакоў
+- Крижарскы державы
+- крсташка држава
+- крстоносна држава
+- Кръстоносни държави
+- крыжацкая дзяржава
+- Тәре йөрөтөүселәр дәүләттәре
+- Խաչակիրների պետություններ
+- המדינות הצלבניות
+- الدول الصليبية
+- الدول الصليبيه
+- دەولەتێن خاچپەرەستان
+- صلیبی ریاستاں
+- صلیبی ریاستیں
+- پایگاههای صلیبیون
+- क्रूसेडर राज्य
+- รัฐนักรบครูเสด
+- 十字军国家
+- 十字軍国家
+- 十字軍國
+- 十字軍國家
+- 십자군 국가
 has_id_wikidata: Q190967
 country:
-  - "[[_Standards/WikiData/WD~County_of_Edessa,232806]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]"
-  - "[[_Standards/WikiData/WD~County_of_Tripoli,272033]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]"
+- '[[_Standards/WikiData/WD~County_of_Edessa,232806]]'
+- '[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]'
+- '[[_Standards/WikiData/WD~County_of_Tripoli,272033]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~occupied_territory,2577883]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14406397,14406397]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~occupied_territory,2577883]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14406397,14406397]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crusader%20States%20in%201135.svg
 Commons_category: Crusader states
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Crusader_states,190967|WD~Crusader_states,190967]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States|1098-Crusader_States]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public|1098-Crusader_States.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal|1098-Crusader_States.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect|1098-Crusader_States.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private|1098-Crusader_States.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal|1098-Crusader_States.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret|1098-Crusader_States.secret]]"
+  - '[[../../../../WikiData/WD~Crusader_states,190967|WD~Crusader_states,190967]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States|1098-Crusader_States]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public|1098-Crusader_States.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal|1098-Crusader_States.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect|1098-Crusader_States.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private|1098-Crusader_States.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal|1098-Crusader_States.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret|1098-Crusader_States.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Crusader_states,190967|WD~Crusader_states,190967]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States|1098-Crusader_States]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public|1098-Crusader_States.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal|1098-Crusader_States.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect|1098-Crusader_States.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private|1098-Crusader_States.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal|1098-Crusader_States.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret|1098-Crusader_States.secret]]"
+- '[[../../../../WikiData/WD~Crusader_states,190967|WD~Crusader_states,190967]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States|1098-Crusader_States]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public|1098-Crusader_States.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal|1098-Crusader_States.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect|1098-Crusader_States.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private|1098-Crusader_States.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal|1098-Crusader_States.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret|1098-Crusader_States.secret]]'
+dv_has_:
+  name_:
+    an: Estatos latins d'Orient
+    ar: الدول الصليبية
+    arz: الدول الصليبيه
+    ast: Estaos cruzaos
+    az: Səlibçi dövlətlər
+    ba: Тәре йөрөтөүселәр дәүләттәре
+    be: Дзяржавы крыжакоў
+    be-tarask: крыжацкая дзяржава
+    bg: Кръстоносни държави
+    br: Stadoù latin ar Reter
+    ca: Estats croats
+    cs: křižácké státy
+    da: Korsfarerstat
+    de: Kreuzfahrerstaaten
+    el: σταυροφορικά κράτη
+    en: Crusader states
+    eo: Krucista ŝtato
+    es: Estado cruzado
+    et: ristisõdijate riigid
+    eu: Gurutzatuen estatuak
+    fa: پایگاههای صلیبیون
+    fi: ristiretkivaltio
+    fr: États latins d'Orient
+    gl: Estados cruzados
+    he: המדינות הצלבניות
+    hi: क्रूसेडर राज्य
+    hr: Križarske države
+    hu: keresztes államok
+    hy: Խաչակիրների պետություններ
+    id: Negara-negara Tentara Salib
+    it: Stato crociato
+    ja: 十字軍国家
+    ko: 십자군 국가
+    ku: Dewletên Xaçperestan
+    ku-arab: دەولەتێن خاچپەرەستان
+    ku-latn: Dewletên Xaçperestan
+    lt: kryžiuočių valstybės
+    lv: krustnešu valsts
+    mg: Fanjakana Latina Atsinanana
+    mk: крстоносна држава
+    ms: Negeri Salibi
+    nb: korsfarerstat
+    nl: Kruisvaardersstaten
+    nn: krossfararstat
+    oc: Estat latin
+    pl: Państwa krzyżowe
+    pnb: صلیبی ریاستاں
+    pt: Estado cruzado
+    ro: Statele cruciate
+    ru: Государства крестоносцев
+    rue: Крижарскы державы
+    sc: Istados crosados
+    sco: Crusader state
+    sh: Krstaške države
+    sk: Križiacky štát
+    sl: križarske države
+    sr: крсташка држава
+    sr-ec: крсташка држава
+    sr-el: krstaška država
+    sv: korsfararstater
+    th: รัฐนักรบครูเสด
+    tl: Mga estado ng nagkrusada
+    tr: haçlı devletleri
+    uk: Держави хрестосців
+    ur: صلیبی ریاستیں
+    uz: Salibchilarning davlatlari
+    vi: Quốc gia Thập tự chinh
+    yue: 十字軍國
+    zh: 十字軍國家
+    zh-cn: 十字军国家
+    zh-hans: 十字军国家
+    zh-hant: 十字軍國家
+    zh-hk: 十字軍國家
+    zh-sg: 十字军国家
+    zh-tw: 十字軍國家
 ---
-
 # [[1098-Crusader_States]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Crusader_states,190967|WD~Crusader_states,190967]] 

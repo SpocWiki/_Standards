@@ -1,8 +1,195 @@
 ---
 aliases:
-  - Ear
-  - Ohr
-  - Ohren
+- ache'e
+- amzzuɣ
+- apysa
+- arechja
+- aricchiu
+- aso
+- aure
+- aurelha
+- auris
+- ausis
+- auss
+- ayto
+- balugbug
+- beallji
+- belarri
+- bieljie
+- biellje
+- birac
+- bulonga
+- bällje
+- calinga
+- ceuli
+- cleaysh
+- cluas
+- clust
+- cuping
+- daliga
+- dheg
+- Ear
+- etí
+- eyra
+- Fiso
+- fufwuo
+- fül
+- geulinyuëng
+- goş
+- guh
+- Gũtũ
+- hīⁿ
+- indlebe
+- jinchu
+- kaan
+- kan
+- kerlo
+- Kopèng
+- korva
+- kulak
+- kunne
+- kuping
+- kute
+- kõrv
+- lapayag
+- layag
+- likútu
+- lil
+- lug
+- mâhtovoo'ôtse
+- nacaztli
+- naŋgbaŋʊʊ
+- ngê
+- ngí
+- ntị
+- nzeve
+- oear
+- Ohr
+- Ohren
+- Ohrwaschl
+- oor
+- oraye
+- orea
+- orecchio
+- oreggia
+- oreille
+- orelha
+- orella
+- orelo
+- orija
+- otokai
+- Otó
+- Ouer
+- ouothelle
+- our
+- oyiu
+- oyra
+- oyíu
+- oído
+- papak
+- pelji
+- pending
+- peʹllj
+- qulaq
+- quloq
+- rinri
+- rwz
+- récia
+- sikio
+- siun
+- skouarn
+- skovarn
+- sofina
+- Sumo
+- tai
+- tainga
+- talinga
+- tangila
+- tanginga
+- Taringa
+- telinga
+- tibili
+- tolingo
+- Tó
+- Uar
+- Ubukurugutwi
+- ucho
+- uho
+- ureacľi
+- ureche
+- ureglia
+- Utọn̄
+- veshi
+- wucho
+- zòrèy
+- öra
+- øre
+- øyre
+- ēare
+- αφτί
+- ωτίν
+- вичӏи
+- вуха
+- вухо
+- гӏин
+- гӯш
+- колак
+- кулак
+- кулгаах
+- лерг
+- пе̄лльй
+- пель
+- пиле
+- уво
+- ухо
+- хăлха
+- чикн
+- чих
+- шэхэн
+- құлақ
+- ҡолаҡ
+- ականջ
+- אוזן
+- אויער
+- أذن
+- غوږ
+- قولاق
+- قۇلاق
+- ودن
+- وذن
+- کان
+- کن
+- کَن
+- ڪن
+- گوش
+- گوێ
+- ܐܕܢܐ
+- ކަންފަތް
+- कर्णः
+- कान
+- न्हाय्पं
+- কান
+- কৰ্ণ
+- ਕੰਨ
+- કાન
+- କାନ
+- செவி
+- చెవి
+- ಕಿವಿ
+- ಕೆಬಿ
+- ചെവി
+- කණ
+- หู
+- နား
+- ყური
+- ჸუჯი
+- ጆሮ
+- ᒥᐦᑕᐊᐧᑲᕀ
+- ᡧᠠᠨ
+- ᱞᱩᱛᱩᱨ
+- 耳
+- 耳刀
+- 귀
 has_id_wikidata: Q7362
 APA_Dictionary_of_Psychology_entry: ear
 Archive_of_Our_Own_tag: Ears
@@ -10,53 +197,289 @@ Colon_Classification: L183
 Commons_category: Ears
 Commons_gallery: Ear
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Q92842179,92842179]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Q92842179,92842179]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~inner_ear,212344]]"
-  - "[[_Standards/WikiData/WD~auricle,379858]]"
-  - "[[_Standards/WikiData/WD~middle_ear,501553]]"
-  - "[[_Standards/WikiData/WD~outer_ear,609753]]"
-has_use: "[[_Standards/WikiData/WD~hearing,160289]]"
+- '[[_Standards/WikiData/WD~inner_ear,212344]]'
+- '[[_Standards/WikiData/WD~auricle,379858]]'
+- '[[_Standards/WikiData/WD~middle_ear,501553]]'
+- '[[_Standards/WikiData/WD~outer_ear,609753]]'
+has_use: '[[_Standards/WikiData/WD~hearing,160289]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Closeup%20of%20a%20human%20ear.jpg
-instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/UHO.html
 MeSH_tree_code:
-  - A01.456.313
-  - A09.246
+- A01.456.313
+- A09.246
 OmegaWiki_Defined_Meaning: 5510
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
-part_of: "[[_Standards/WikiData/WD~head,23640]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]'
+part_of: '[[_Standards/WikiData/WD~head,23640]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q21694889,21694889]]"
-  - "[[_Standards/WikiData/WD~Q110127391,110127391]]"
+- '[[_Standards/WikiData/WD~Q21694889,21694889]]'
+- '[[_Standards/WikiData/WD~Q110127391,110127391]]'
 quantity: 2
-studied_in: "[[_Standards/WikiData/WD~audiology,569965]]"
+studied_in: '[[_Standards/WikiData/WD~audiology,569965]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organ_of_hearing,39471007]]"
-  - "[[_Standards/WikiData/WD~subdivision_of_auriculotemporal_part_of_head,66557904]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- '[[_Standards/WikiData/WD~organ_of_hearing,39471007]]'
+- '[[_Standards/WikiData/WD~subdivision_of_auriculotemporal_part_of_head,66557904]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]"
-  - "[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]"
+- '[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]'
+- '[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]'
 UMLS_CUI: C0013443
-Unicode_character: 👂
-studied_by: "[[_Standards/WikiData/WD~audiology,569965]]"
+Unicode_character: "\U0001F442"
+studied_by: '[[_Standards/WikiData/WD~audiology,569965]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]"
-  - "[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]"
+- '[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]'
+- '[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]'
+dv_has_:
+  name_:
+    ace: geulinyuëng
+    af: oor
+    am: ጆሮ
+    ami: tanginga
+    an: oyiu
+    ang: ēare
+    ann: Utọn̄
+    anp: कान
+    ar: أذن
+    arc: ܐܕܢܐ
+    arq: وذن
+    ary: ودن
+    as: কৰ্ণ
+    ast: oyíu
+    atj: otokai
+    av: гӏин
+    ay: jinchu
+    az: qulaq
+    azb: قولاق
+    ba: ҡолаҡ
+    ban: kuping
+    bar: Ohrwaschl
+    bcl: talinga
+    be: вуха
+    be-tarask: вуха
+    bew: kuping
+    bg: ухо
+    bjn: talinga
+    bn: কান
+    br: skouarn
+    bs: uho
+    bxr: шэхэн
+    ca: orella
+    cdo: ngê
+    ce: лерг
+    chy: mâhtovoo'ôtse
+    ckb: گوێ
+    co: arechja
+    cr: ᒥᐦᑕᐊᐧᑲᕀ
+    crh: qulaq
+    cs: ucho
+    cv: хăлха
+    cy: clust
+    da: øre
+    dag: tibili
+    de: Ohr
+    diq: goş
+    dtp: tolingo
+    dv: ކަންފަތް
+    ee: ayto
+    el: αφτί
+    en: ear
+    en-ca: ear
+    en-gb: ear
+    eo: orelo
+    es: oído
+    et: kõrv
+    eu: belarri
+    fa: گوش
+    fi: korva
+    fj: daliga
+    fo: oyra
+    fon: Tó
+    fr: oreille
+    frr: Uar
+    fy: ear
+    ga: cluas
+    gan: 耳刀
+    gd: cluas
+    gl: orella
+    gn: apysa
+    gom: कान
+    gom-deva: कान
+    gom-latn: kan
+    gor: bulonga
+    gsw: Ohr
+    gu: કાન
+    guc: ache'e
+    guw: Otó
+    gv: cleaysh
+    ha: kunne
+    hak: ngí
+    he: אוזן
+    hi: कान
+    hif: kaan
+    hr: uho
+    hsb: wucho
+    ht: zòrèy
+    hu: fül
+    hy: ականջ
+    hyw: ականջ
+    ia: aure
+    iba: pending
+    id: telinga
+    ig: ntị
+    ik: siun
+    ilo: lapayag
+    inh: лерг
+    io: orelo
+    is: eyra
+    it: orecchio
+    ja: 耳
+    jbo: kerlo
+    jv: kuping
+    ka: ყური
+    kbp: naŋgbaŋʊʊ
+    kcg: fufwuo
+    kge: cuping
+    ki: Gũtũ
+    kk: құлақ
+    kn: ಕಿವಿ
+    knc: Sumo
+    ko: 귀
+    ks: کَن
+    ku: guh
+    kw: skovarn
+    ky: кулак
+    la: auris
+    lb: Ouer
+    lbe: вичӏи
+    lfn: orea
+    li: oear
+    lmo: oreggia
+    ln: likútu
+    lt: ausis
+    lv: auss
+    lzh: 耳
+    mad: Kopèng
+    mg: sofina
+    mi: Taringa
+    mk: уво
+    ml: ചെവി
+    mn: чих
+    mnc: ᡧᠠᠨ
+    mr: कान
+    ms: telinga
+    my: နား
+    myv: пиле
+    nah: nacaztli
+    nan: hīⁿ
+    nb: øre
+    nds: Ohr
+    nds-nl: our
+    ne: कान
+    new: न्हाय्पं
+    nia: Fiso
+    nl: oor
+    nn: øyre
+    nrm: ouothelle
+    oc: aurelha
+    or: କାନ
+    pa: ਕੰਨ
+    pag: layag
+    pam: balugbug
+    pl: ucho
+    pms: orija
+    pnb: کن
+    pnt: ωτίν
+    ps: غوږ
+    pt: orelha
+    pt-br: orelha
+    pwn: calinga
+    qu: rinri
+    rki: နား
+    rm: ureglia
+    rn: Ubukurugutwi
+    ro: ureche
+    ru: ухо
+    rue: ухо
+    rup: ureacľi
+    sa: कर्णः
+    sah: кулгаах
+    sat: ᱞᱩᱛᱩᱨ
+    scn: aricchiu
+    sco: lug
+    sd: ڪن
+    se: beallji
+    sgs: ausis
+    sh: uho
+    shi: amzzuɣ
+    si: කණ
+    sjd: пе̄лльй
+    sje: bällje
+    sk: ucho
+    sl: uho
+    sma: bieljie
+    smj: biellje
+    smn: pelji
+    sms: peʹllj
+    sn: nzeve
+    so: dheg
+    sq: veshi
+    sr: уво
+    su: ceuli
+    sv: öra
+    sw: sikio
+    szy: tangila
+    ta: செவி
+    tay: papak
+    tcy: ಕೆಬಿ
+    te: చెవి
+    tg: гӯш
+    th: หู
+    tl: tainga
+    tok: kute
+    tr: kulak
+    trv: birac
+    tt: колак
+    tt-cyrl: колак
+    tw: aso
+    udm: пель
+    ug: قۇلاق
+    uk: вухо
+    ur: کان
+    uz: quloq
+    vec: récia
+    vi: tai
+    vo: lil
+    vro: kõrv
+    wa: oraye
+    war: talinga
+    wuu: 耳
+    xal: чикн
+    xh: indlebe
+    xmf: ჸუჯი
+    yi: אויער
+    yo: etí
+    yue: 耳
+    za: rwz
+    zh: 耳
+    zh-cn: 耳
+    zh-hans: 耳
+    zh-hant: 耳
+    zh-hk: 耳
+    zh-tw: 耳
 ---
-
 # Ear 👂 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ear,7362|WD~Ear,7362]]

@@ -1,11 +1,81 @@
 ---
 aliases:
-  - Tetrapods
-  - Terrestrial Vertebrates
-  - Tetrapoda
-  - tetrapod
-  - teitreapód
-  - 四足总纲
+- czworonogi
+- Dördayaqlılar
+- Dört üyeliler
+- Ferfætlingar
+- Fjouwerpoatigen
+- Keturkojai
+- Kiare-chassagh
+- kopneni kralježnjaci
+- Landwierbeldéieren
+- Landwirbeldierer
+- Landwirbeltiere
+- Lunwäärlisdiarten
+- négylábúak
+- teitreapód
+- Terrestrial Vertebrates
+- tetrapod
+- Tetrapoda
+- tetrapodar
+- Tetrapoder
+- Tetrapodi
+- Tetrapodoj
+- Tetrapods
+- Tetrapoodid
+- Tetrapòdes
+- tetràpodes
+- tetrápodes
+- tetrápodos
+- Tikuẓdarin
+- Tètrapodos
+- Veerföters
+- Veerveuters
+- Vierpoôters
+- viervoeters
+- Viervoetiges
+- Çehar payıni
+- četrkājaiņi
+- Četvoronošci
+- čtyřnožci
+- động vật bốn chân
+- štvornožce
+- Τετράποδα
+- дүрт аяклылар
+- Нӹл яланвлӓ
+- Тăватă уралли
+- тетрапод
+- Төртаяқтылар
+- чатырохногія
+- четвероногие
+- четирикраки
+- четириношци
+- чотириногі
+- չորքոտանիներ
+- בעלי ארבע רגליים
+- تتراپودها
+- دؤردایاقلیلار
+- ذوات الأربع
+- رباعيات الاطراف
+- مولات ربعة
+- څلور پښې لرونکي ژوي
+- چارپیرے
+- چوپائے
+- चौपाया
+- चौपाये
+- ચતુષ્પાદ
+- நாற்காலி
+- ಟೆಟ್ರಾಪೊಡ್
+- ടെട്രാപോഡ്
+- เทเทรอพอด
+- ခြေလေးချောင်း သတ္တဝါ
+- ოთხფეხები
+- 四肢動物上綱
+- 四足总纲
+- 四足类
+- 四足總綱
+- 四足類
+- 네발동물
 has_id_wikidata: Q19159
 Commons_category: Tetrapoda
 different_from: '[[_Standards/WikiData/WD~quadruped,777371]]'
@@ -18,17 +88,125 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20tetra
 start_time: -367500000-01-01
 subclass_of: '[[_Standards/WikiData/WD~quadruped,777371]]'
 taxon_common_name:
-  - tetrapod
-  - teitreapód
-  - 四足总纲
+- tetrapod
+- teitreapód
+- 四足总纲
 taxon_name: Tetrapoda
 taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
 title: Terrestrial Vertebrates
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Tetrapoda,16354712]]'
 UMLS_CUI: C1004206
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    af: Viervoetiges
+    an: Tetrapoda
+    ar: ذوات الأربع
+    ary: مولات ربعة
+    arz: رباعيات الاطراف
+    ast: Tetrapoda
+    az: Dördayaqlılar
+    azb: دؤردایاقلیلار
+    be: чатырохногія
+    be-tarask: чатырохногія
+    bg: четирикраки
+    bs: Četvoronošci
+    ca: tetràpodes
+    ceb: Tetrapoda
+    cs: čtyřnožci
+    cv: Тăватă уралли
+    da: Tetrapoder
+    de: Landwirbeltiere
+    diq: Çehar payıni
+    el: Τετράποδα
+    en: Tetrapoda
+    eo: Tetrapodoj
+    es: Tetrapoda
+    et: Tetrapoodid
+    eu: Tetrapoda
+    ext: Tetrapoda
+    fa: تتراپودها
+    fi: Tetrapoda
+    fr: Tetrapoda
+    frp: Tètrapodos
+    frr: Lunwäärlisdiarten
+    fy: Fjouwerpoatigen
+    ga: teitreapód
+    gl: tetrápodos
+    gsw: Landwirbeldierer
+    gu: ચતુષ્પાદ
+    gv: Kiare-chassagh
+    he: בעלי ארבע רגליים
+    hi: चौपाये
+    hr: kopneni kralježnjaci
+    hu: négylábúak
+    hy: չորքոտանիներ
+    ia: Tetrapoda
+    id: Tetrapoda
+    ie: Tetrapoda
+    io: Tetrapoda
+    is: Ferfætlingar
+    it: Tetrapoda
+    ja: 四肢動物上綱
+    jv: Tetrapoda
+    ka: ოთხფეხები
+    kab: Tikuẓdarin
+    kk: Төртаяқтылар
+    kn: ಟೆಟ್ರಾಪೊಡ್
+    ko: 네발동물
+    la: Tetrapoda
+    lb: Landwierbeldéieren
+    li: Veerveuters
+    lt: Keturkojai
+    lv: četrkājaiņi
+    mk: четириношци
+    ml: ടെട്രാപോഡ്
+    mrj: Нӹл яланвлӓ
+    ms: Tetrapod
+    mul: Tetrapoda
+    my: ခြေလေးချောင်း သတ္တဝါ
+    nb: tetrapoder
+    nds: Veerföters
+    ne: चौपाया
+    nl: viervoeters
+    nn: tetrapodar
+    oc: Tetrapòdes
+    pl: czworonogi
+    pnb: چارپیرے
+    ps: څلور پښې لرونکي ژوي
+    pt: tetrápodes
+    pt-br: Tetrapoda
+    ro: Tetrapoda
+    ru: четвероногие
+    scn: Tetrapodi
+    sco: tetrapod
+    sh: Tetrapod
+    sk: štvornožce
+    sl: Tetrapoda
+    sq: Tetrapoda
+    sr: тетрапод
+    sv: Tetrapoda
+    ta: நாற்காலி
+    th: เทเทรอพอด
+    tl: Tetrapoda
+    tr: Dört üyeliler
+    tt: дүрт аяклылар
+    tt-cyrl: дүрт аяклылар
+    uk: чотириногі
+    ur: چوپائے
+    vi: động vật bốn chân
+    vls: Viervoeters
+    vo: Tetrapoda
+    war: Tetrapoda
+    wuu: 四足类
+    yue: 四足總綱
+    zea: Vierpoôters
+    zh: 四足總綱
+    zh-cn: 四足总纲
+    zh-hans: 四足总纲
+    zh-hant: 四足類
+    zh-tw: 四足類
 ---
-
 # Terrestrial Vertebrates
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Tetrapoda,19159|WD~Tetrapoda,19159]]  

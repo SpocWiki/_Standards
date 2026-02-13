@@ -1,83 +1,120 @@
 ---
 aliases:
-  - Eugene Paul Wigner
-  - Eugene Wigner
-  - Eugene_Wigner
-  - Wigner
-  - Wigner Jenő Pál
-  - Wigner,Eugene
+- Eugene Paul Wigner
+- Eugene Wigner
+- Eugene_Wigner
+- Eugenius Wigner
+- Eugène Wigner
+- Jūdžīns Vīgners
+- Vigner Yudjin Pol
+- Wigner
+- Wigner Jenő
+- Wigner Jenő Pál
+- Wigner,Eugene
+- Yucin Viqner
+- Γιουτζίν Γουίγκνερ
+- Јуџин Вигнер
+- Юджин Вигнер
+- Юджин Пол Вігнер
+- Юджин Уигнър
+- Юджын Ўігнэр
+- Юджын Вігнер
+- Юҗин Вигнер
+- Юҷин Вигнер
+- Յուջին Վիգներ
+- יוג'ין ויגנר
+- يوجين ويجنر
+- يوجين ويغنر
+- یوجین وگنر
+- یوجین ویگنر
+- یوجین وێگنەر
+- یوجین پاول وگنر
+- युजिन विगनर
+- युजीन विग्नर
+- यूजीन विग्नर
+- ইউজিন পল উইগনার
+- ਯੂਜੀਨ ਵਿੱਗਨਰ
+- யூஜின் விக்னர்
+- యూజీన్ విగ్నేర్
+- ಯುಜೆನ್ ಪೌಲ್ ವಿಗ್ನರ್
+- იუჯინ ვიგნერი
+- ユージン・ウィグナー
+- 尤金·維格納
+- 尤金·维格纳
+- 維格納
+- 유진 위그너
 has_id_wikidata: Q155790
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~American_Physical_Society,466113]]'
-  - '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~American_Physical_Society,466113]]'
+- '[[_Standards/WikiData/WD~American_Association_for_the_Advancement_of_Science,40358]]'
 place_of_death: '[[_Standards/WikiData/WD~Princeton,138518]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
-  - '[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]'
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Michael_Polanyi,163087]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
-  - '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
+- '[[_Standards/WikiData/WD~theoretical_physicist,19350898]]'
 part_of: '[[_Standards/WikiData/WD~The_Martians,214269]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
-  - '[[_Standards/WikiData/WD~John_von_Neumann_Prize,392289]]'
-  - '[[_Standards/WikiData/WD~Wigner_Medal,462544]]'
-  - '[[_Standards/WikiData/WD~Atoms_for_Peace_Award,757645]]'
-  - '[[_Standards/WikiData/WD~Medal_for_Merit,1307005]]'
-  - '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
+- '[[_Standards/WikiData/WD~John_von_Neumann_Prize,392289]]'
+- '[[_Standards/WikiData/WD~Wigner_Medal,462544]]'
+- '[[_Standards/WikiData/WD~Atoms_for_Peace_Award,757645]]'
+- '[[_Standards/WikiData/WD~Medal_for_Merit,1307005]]'
+- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Richtmyer_Memorial_Lecture_Award,7331107]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Victor_Weisskopf,441154]]'
-  - '[[_Standards/WikiData/WD~Marcos_Moshinsky,571605]]'
-  - '[[_Standards/WikiData/WD~Edwin_Thompson_Jaynes,711210]]'
-  - '[[_Standards/WikiData/WD~Frederick_Seitz,983364]]'
-  - '[[_Standards/WikiData/WD~Conyers_Herring,1129529]]'
-  - '[[_Standards/WikiData/WD~Joseph_O._Hirschfelder,1671177]]'
-  - '[[_Standards/WikiData/WD~Abner_Shimony,2903381]]'
-  - '[[_Standards/WikiData/WD~Fred_Tappert,5496382]]'
-  - '[[_Standards/WikiData/WD~Leonard_Eisenbud,15825641]]'
-  - '[[_Standards/WikiData/WD~William_Tout_Sharp,102167153]]'
-  - '[[_Standards/WikiData/WD~Ralph_Zvi_Roskies,102180040]]'
-  - '[[_Standards/WikiData/WD~Theodore_Duddell_Newton,102194140]]'
-  - '[[_Standards/WikiData/WD~Francis_Joseph_Narcowich,102236029]]'
-  - '[[_Standards/WikiData/WD~Rajmund_Lewis_Somorjai,102251961]]'
-  - '[[_Standards/WikiData/WD~George_Abraham_Snow,102441446]]'
-  - '[[_Standards/WikiData/WD~John_Bardeen,949]]'
+- '[[_Standards/WikiData/WD~Victor_Weisskopf,441154]]'
+- '[[_Standards/WikiData/WD~Marcos_Moshinsky,571605]]'
+- '[[_Standards/WikiData/WD~Edwin_Thompson_Jaynes,711210]]'
+- '[[_Standards/WikiData/WD~Frederick_Seitz,983364]]'
+- '[[_Standards/WikiData/WD~Conyers_Herring,1129529]]'
+- '[[_Standards/WikiData/WD~Joseph_O._Hirschfelder,1671177]]'
+- '[[_Standards/WikiData/WD~Abner_Shimony,2903381]]'
+- '[[_Standards/WikiData/WD~Fred_Tappert,5496382]]'
+- '[[_Standards/WikiData/WD~Leonard_Eisenbud,15825641]]'
+- '[[_Standards/WikiData/WD~William_Tout_Sharp,102167153]]'
+- '[[_Standards/WikiData/WD~Ralph_Zvi_Roskies,102180040]]'
+- '[[_Standards/WikiData/WD~Theodore_Duddell_Newton,102194140]]'
+- '[[_Standards/WikiData/WD~Francis_Joseph_Narcowich,102236029]]'
+- '[[_Standards/WikiData/WD~Rajmund_Lewis_Somorjai,102251961]]'
+- '[[_Standards/WikiData/WD~George_Abraham_Snow,102441446]]'
+- '[[_Standards/WikiData/WD~John_Bardeen,949]]'
 student_of: '[[_Standards/WikiData/WD~László_Rátz,526211]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Fasori_Gimnázium,663890]]'
-  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
+- '[[_Standards/WikiData/WD~Fasori_Gimnázium,663890]]'
+- '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 relative:
-  - '[[_Standards/WikiData/WD~Gabriel_Andrew_Dirac,1007178]]'
-  - '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
+- '[[_Standards/WikiData/WD~Gabriel_Andrew_Dirac,1007178]]'
+- '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Wigner's_theorem,1135224]]"
-  - '[[_Standards/WikiData/WD~Q3349460,3349460]]'
+- "[[_Standards/WikiData/WD~Wigner's_theorem,1135224]]"
+- '[[_Standards/WikiData/WD~Q3349460,3349460]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Paul,4925623]]'
-  - '[[_Standards/WikiData/WD~Jenő,15729621]]'
-  - '[[_Standards/WikiData/WD~Pál,15731728]]'
-  - '[[_Standards/WikiData/WD~Eugène,18012535]]'
+- '[[_Standards/WikiData/WD~Paul,4925623]]'
+- '[[_Standards/WikiData/WD~Jenő,15729621]]'
+- '[[_Standards/WikiData/WD~Pál,15731728]]'
+- '[[_Standards/WikiData/WD~Eugène,18012535]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_burial: '[[_Standards/WikiData/WD~Princeton_Cemetery,7244940]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -85,27 +122,27 @@ sibling: '[[_Standards/WikiData/WD~Margit_Dirac,22097468]]'
 family_name: '[[_Standards/WikiData/WD~Wigner,37443741]]'
 archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 child: '[[_Standards/WikiData/WD~David_Wheeler_Wigner,102156598]]'
 academic_thesis: '[[_Standards/WikiData/WD~Q106861970,106861970]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Amelia_Frank,108696255]]'
-  - '[[_Standards/WikiData/WD~Mary_Annette_Wheeler,108696258]]'
-  - '[[_Standards/WikiData/WD~Eileen_Clare_Patton_Hamilton,108696262]]'
+- '[[_Standards/WikiData/WD~Amelia_Frank,108696255]]'
+- '[[_Standards/WikiData/WD~Mary_Annette_Wheeler,108696258]]'
+- '[[_Standards/WikiData/WD~Eileen_Clare_Patton_Hamilton,108696262]]'
 field_of_work: '[[_Standards/WikiData/WD~physics,413]]'
 place_of_birth: '[[_Standards/WikiData/WD~Budapest,1781]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
 ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
 native_language: '[[_Standards/WikiData/WD~Hungarian,9067]]'
 cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
 Erdős_number: 3
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 date_of_birth: 1902-11-17T00:00:00Z
@@ -118,8 +155,111 @@ Krugosvet_article: nauka_i_tehnika/fizika/VIGNER_YUDZHIN_POL.html
 Regensburg_Classification: UB 2778
 name_in_native_language: Wigner Jenő Pál
 date_of_death: 1995-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Eugene Wigner
+    ar: يوجين ويغنر
+    arz: يوجين ويجنر
+    ast: Eugene Paul Wigner
+    az: Yucin Viqner
+    azb: یوجین ویگنر
+    be: Юджын Вігнер
+    be-tarask: Юджын Ўігнэр
+    bg: Юджин Уигнър
+    bn: ইউজিন পল উইগনার
+    bs: Eugene Wigner
+    ca: Eugene Paul Wigner
+    ckb: یوجین وێگنەر
+    cs: Eugene Paul Wigner
+    cy: Eugene Wigner
+    da: Eugene Wigner
+    dag: Eugene Wigner
+    de: Eugene Paul Wigner
+    de-ch: Eugene Paul Wigner
+    el: Γιουτζίν Γουίγκνερ
+    en: Eugene Wigner
+    en-ca: Eugene Wigner
+    en-gb: Eugene Wigner
+    eo: Eugene Paul Wigner
+    es: Eugene Paul Wigner
+    et: Eugene Wigner
+    eu: Eugene Wigner
+    fa: یوجین ویگنر
+    fi: Eugene Wigner
+    fr: Eugène Wigner
+    ga: Eugene Paul Wigner
+    gd: Eugene Wigner
+    gl: Eugene Wigner
+    hak: Eugene Wigner
+    he: יוג'ין ויגנר
+    hi: यूजीन विग्नर
+    hr: Eugene Wigner
+    ht: Eugene Wigner
+    hu: Wigner Jenő
+    hy: Յուջին Վիգներ
+    ia: Eugene Wigner
+    id: Eugene Wigner
+    io: Eugene Wigner
+    it: Eugene Wigner
+    ja: ユージン・ウィグナー
+    ka: იუჯინ ვიგნერი
+    kk: Юджин Вигнер
+    kn: ಯುಜೆನ್ ಪೌಲ್ ವಿಗ್ನರ್
+    ko: 유진 위그너
+    la: Eugenius Wigner
+    lmo: Eugene Wigner
+    lt: Eugene Wigner
+    lv: Jūdžīns Vīgners
+    mg: Eugène Wigner
+    mk: Јуџин Вигнер
+    mr: युजीन विग्नर
+    ms: Eugene Wigner
+    mzn: یوجین ویگنر
+    nan: Eugene Wigner
+    nb: Eugene Wigner
+    new: युजिन विगनर
+    nl: Eugene Wigner
+    nn: Eugene Wigner
+    oc: Eugene Wigner
+    pa: ਯੂਜੀਨ ਵਿੱਗਨਰ
+    pap: Eugene Wigner
+    pl: Eugene Wigner
+    pnb: یوجین وگنر
+    pt: Eugene Paul Wigner
+    pt-br: Eugene Paul Wigner
+    ro: Eugene Paul Wigner
+    ru: Юджин Вигнер
+    sa: यूजीन विग्नर
+    sco: Eugene Wigner
+    sh: Eugene Wigner
+    sk: Eugene Paul Wigner
+    sl: Eugene Paul Wigner
+    sq: Eugene Wigner
+    sr: Јуџин Вигнер
+    sv: Eugene Wigner
+    sw: Eugene Wigner
+    ta: யூஜின் விக்னர்
+    te: యూజీన్ విగ్నేర్
+    tg: Юҷин Вигнер
+    tr: Eugene Wigner
+    tt: Юҗин Вигнер
+    uk: Юджин Пол Вігнер
+    ur: یوجین پاول وگنر
+    uz: Vigner Yudjin Pol
+    vi: Eugene Wigner
+    war: Eugene Wigner
+    wuu: 尤金·维格纳
+    xmf: იუჯინ ვიგნერი
+    yo: Eugene Wigner
+    yue: 維格納
+    zh: 尤金·维格纳
+    zh-cn: 尤金·维格纳
+    zh-hans: 尤金·维格纳
+    zh-hant: 尤金·維格納
+    zh-hk: 尤金·維格納
+    zh-sg: 尤金·维格纳
+    zh-tw: 尤金·維格納
 ---
-
 # [[Wigner,Eugene]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eugene_Wigner,155790|WD~Eugene_Wigner,155790]] 

@@ -1,21 +1,147 @@
 ---
 aliases:
+- Aaltofunktio
+- Banginė funkcija
+- bølgefunksjon
+- Bølgefunktion
+- bølgjefunksjon
+- dalga fonksiyonu
+- fonction d'onde
+- funció d'ones
+- Función d'onda
+- función de onda
+- funcție de undă
+- Fungsi gelombang
+- funkcja falowa
+- Funksioni i valës
+- funzione d'onda
+- função de onda
+- golffunctie
+- Golffunksie
+- hullámfüggvény
+- Hàm sóng
+- Lainefunktsioon
+- Ondala funciono
+- ondfunkcio
+- párufunktio
+- Talasna funkcija
+- to'lqin funksiya
+- tonnfheidhm
+- Uhin-funtzio
+- Valna funkcija
+- valovna funkcija
+- vlnová funkce
+- vlnová funkcia
+- vågfunktion
+- wave function
+- Wellenfunktion
+- Κυματοσυνάρτηση
+- бранова функција
+- волновая функция
+- Вълнова функция
+- Долгионы функц
+- дулкынча функция
+- таласна функција
+- толкун функциясы
+- толқындық функция
+- хвалевая функцыя
+- хвильова функція
+- Хумла функци
+- ալիքային ֆունկցիա
+- פונקציית גל
+- تابع موج
+- دالة موجية
+- তরঙ্গ ফাংশন
+- ਵੇਵ ਫੰਕਸ਼ਨ
+- அலை இயக்கம்
+- လှိုင်းသရုပ်
+- ტალღური ფუნქცია
+- 波函数
+- 波函數
+- 波動関数
+- 파동 함수
 has_id_wikidata: Q2362761
 subclass_of:
-  - "[[_Standards/WikiData/WD~scientific_model,193946]]"
-  - "[[_Standards/WikiData/WD~probability_amplitude,653850]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~probability_amplitude,653850]]"
+- '[[_Standards/WikiData/WD~scientific_model,193946]]'
+- '[[_Standards/WikiData/WD~probability_amplitude,653850]]'
+- '[[_Standards/WikiData/WD~function,11348]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~probability_amplitude,653850]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~physical_concept,113360143]]"
-studied_by: "[[_Standards/WikiData/WD~quantum_mechanics,944]]"
+- '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~physical_concept,113360143]]'
+studied_by: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
 Commons_category: Quantum mechanics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20mechanics%20travelling%20wavefunctions%20wavelength.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/QuantumHarmonicOscillatorAnimation.gif
+dv_has_:
+  name_:
+    af: Golffunksie
+    ar: دالة موجية
+    ast: Función d'onda
+    be: хвалевая функцыя
+    be-tarask: хвалевая функцыя
+    bg: Вълнова функция
+    bn: তরঙ্গ ফাংশন
+    bs: Talasna funkcija
+    ca: funció d'ones
+    cs: vlnová funkce
+    cv: Хумла функци
+    da: Bølgefunktion
+    de: Wellenfunktion
+    el: Κυματοσυνάρτηση
+    en: wave function
+    eo: ondfunkcio
+    es: función de onda
+    et: Lainefunktsioon
+    eu: Uhin-funtzio
+    fa: تابع موج
+    fi: Aaltofunktio
+    fr: fonction d'onde
+    ga: tonnfheidhm
+    gl: Función de onda
+    he: פונקציית גל
+    hi: wave function
+    hr: Valna funkcija
+    hu: hullámfüggvény
+    hy: ալիքային ֆունկցիա
+    id: Fungsi gelombang
+    io: Ondala funciono
+    it: funzione d'onda
+    ja: 波動関数
+    ka: ტალღური ფუნქცია
+    kk: толқындық функция
+    ko: 파동 함수
+    ky: толкун функциясы
+    lt: Banginė funkcija
+    mk: бранова функција
+    mn: Долгионы функц
+    my: လှိုင်းသရုပ်
+    nb: bølgefunksjon
+    nl: golffunctie
+    nn: bølgjefunksjon
+    pa: ਵੇਵ ਫੰਕਸ਼ਨ
+    pl: funkcja falowa
+    pt: função de onda
+    ro: funcție de undă
+    ru: волновая функция
+    sh: Valna funkcija
+    sk: vlnová funkcia
+    sl: valovna funkcija
+    smn: párufunktio
+    sq: Funksioni i valës
+    sr: таласна функција
+    sv: vågfunktion
+    ta: அலை இயக்கம்
+    tr: dalga fonksiyonu
+    tt: дулкынча функция
+    uk: хвильова функція
+    uz: to'lqin funksiya
+    vi: Hàm sóng
+    yue: 波函數
+    zh: 波函数
+    zh-hans: 波函数
 ---
-
 # [[Wave_Function]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wave_function,2362761|WD~Wave_function,2362761]]  

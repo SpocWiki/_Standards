@@ -1,10 +1,172 @@
 ---
 aliases:
-  - Emma_Stone
-  - Emma Stone
-  - Emily Jean Stone
-  - Stone,Emma
+- Emily Jean Stone
+- Emma Stone
+- Emma Stoneová
+- Emma Stoun
+- Emma Stouna
+- Emma_Stone
+- Stone,Emma
+- Έμα Στόουν
+- Ема Стоун
+- Емма Стоун
+- Эма Стоўн
+- Эмма Стоун
+- Էմմա Սթոուն
+- אמה סטון
+- إيما ستون
+- ئێما ستۆن
+- اما استون
+- ایما اسٹون
+- ایما سٹون
+- एमा स्टोन
+- एम्मा स्टोन
+- এমা ষ্টোন
+- এমা স্টোন
+- ਅੈਮਾ ਸਟੋਨ
+- எம்மா ஸ்டோன்
+- ಎಮ್ಮಾ ಸ್ಟೋನ್
+- എമ്മ സ്റ്റോൺ
+- เอมมา สโตน
+- အမ်မာ စတုန်း
+- ემა სტოუნი
+- エマ・ストーン
+- 愛瑪史東
+- 艾玛·史东
+- 艾玛·斯通
+- 艾瑪·史東
+- 엠마 스톤
 has_id_wikidata: Q147077
+dv_has_:
+  name_:
+    af: Emma Stone
+    an: Emma Stone
+    ar: إيما ستون
+    arz: إيما ستون
+    as: এমা ষ্টোন
+    ast: Emma Stone
+    az: Emma Stoun
+    azb: اما استون
+    bar: Emma Stone
+    bcl: Emma Stone
+    be: Эма Стоўн
+    be-tarask: Эма Стоўн
+    bg: Ема Стоун
+    bi: Emma Stone
+    bn: এমা স্টোন
+    br: Emma Stone
+    bs: Emma Stone
+    ca: Emma Stone
+    ckb: ئێما ستۆن
+    co: Emma Stone
+    cs: Emma Stoneová
+    cy: Emma Stone
+    da: Emma Stone
+    de: Emma Stone
+    diq: Emma Stone
+    dtp: Emma Stone
+    dty: एम्मा स्टोन
+    el: Έμα Στόουν
+    en: Emma Stone
+    en-ca: Emma Stone
+    en-gb: Emma Stone
+    eo: Emma Stone
+    es: Emma Stone
+    et: Emma Stone
+    eu: Emma Stone
+    fa: اما استون
+    fi: Emma Stone
+    fr: Emma Stone
+    ga: Emma Stone
+    gl: Emma Stone
+    guw: Emma Stone
+    gv: Emma Stone
+    ha: Emma Stone
+    he: אמה סטון
+    hi: एमा स्टोन
+    hr: Emma Stone
+    ht: Emma Stone
+    hu: Emma Stone
+    hy: Էմմա Սթոուն
+    id: Emma Stone
+    ie: Emma Stone
+    ig: Emma Stone
+    ilo: Emma Stone
+    io: Emma Stone
+    is: Emma Stone
+    it: Emma Stone
+    ja: エマ・ストーン
+    jut: Emma Stone
+    jv: Emma Stone
+    ka: ემა სტოუნი
+    kk: Эмма Стоун
+    kl: Emma Stone
+    kn: ಎಮ್ಮಾ ಸ್ಟೋನ್
+    ko: 엠마 스톤
+    ky: Эмма Стоун
+    la: Emma Stone
+    lb: Emma Stone
+    lt: Emma Stone
+    lv: Emma Stouna
+    mai: एम्मा स्टोन
+    mk: Ема Стоун
+    ml: എമ്മ സ്റ്റോൺ
+    mn: Эмма Стоун
+    mr: एमा स्टोन
+    ms: Emma Stone
+    mul: Emma Stone
+    my: အမ်မာ စတုန်း
+    mzn: اما استون
+    nan: Emma Stone
+    nb: Emma Stone
+    ne: एम्मा स्टोन
+    nl: Emma Stone
+    nn: Emma Stone
+    oc: Emma Stone
+    pa: ਅੈਮਾ ਸਟੋਨ
+    pap: Emma Stone
+    pcm: Emma Stone
+    pl: Emma Stone
+    pms: Emma Stone
+    pt: Emma Stone
+    pt-br: Emma Stone
+    ro: Emma Stone
+    ru: Эмма Стоун
+    sc: Emma Stone
+    scn: Emma Stone
+    sco: Emma Stone
+    sh: Emma Stone
+    sk: Emma Stone
+    skr: ایما اسٹون
+    sl: Emma Stone
+    so: Emma Stone
+    sq: Emma Stone
+    sr: Ема Стоун
+    sr-ec: Ема Стоун
+    sv: Emma Stone
+    sw: Emma Stone
+    ta: எம்மா ஸ்டோன்
+    th: เอมมา สโตน
+    tl: Emma Stone
+    tr: Emma Stone
+    uk: Емма Стоун
+    ur: ایما سٹون
+    uz: Emma Stone
+    vi: Emma Stone
+    vo: Emma Stone
+    war: Emma Stone
+    wuu: 艾玛·斯通
+    xmf: ემა სტოუნი
+    yo: Emma Stone
+    yue: 愛瑪史東
+    zh: 艾瑪·史東
+    zh-cn: 艾玛·斯通
+    zh-hans: 艾玛·斯通
+    zh-hant: 艾瑪·史東
+    zh-hk: 愛瑪史東
+    zh-my: 艾玛·史东
+    zh-sg: 艾玛·史东
+    zh-tw: 艾瑪·史東
 ---
 # [[Stone,Emma]]
 

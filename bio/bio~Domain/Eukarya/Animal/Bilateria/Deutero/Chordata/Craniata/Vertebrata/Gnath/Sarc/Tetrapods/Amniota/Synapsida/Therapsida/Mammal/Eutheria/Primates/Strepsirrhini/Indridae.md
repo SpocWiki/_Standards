@@ -1,8 +1,106 @@
 ---
 aliases:
-  - Indridae
+- bancoleem
+- Indriachtigen
+- Indriartige
+- Indridae
+- Indrier
+- Indriidae
+- indriji
+- Indrilased
+- Indriniai
+- indriovití
+- Indrisowate
+- indrit
+- Tsinlátah naháaztání
+- ugrómakifélék
+- Vunasti lemuri
+- Índrid
+- İndrigiller
+- İndrilər
+- Індрієві
+- Індрыевыя
+- Индри сымалдуулар
+- индриеви
+- Индриевые
+- ինդիրներ
+- אינדריים
+- إندرية
+- اندريه
+- اندری لیمر
+- ایندیریان
+- インドリ科
+- 大狐猴科
+- 인드리과
 title: Indridae
 has_id_wikidata: Q175626
+dv_has_:
+  name_:
+    an: Indriidae
+    ar: إندرية
+    arz: اندريه
+    ast: Indridae
+    avk: bancoleem
+    az: İndrilər
+    be-tarask: Індрыевыя
+    bg: индриеви
+    br: Indriidae
+    ca: Índrid
+    ceb: Indridae
+    cs: indriovití
+    da: Indrier
+    de: Indriartige
+    en: Indriidae
+    eo: Indriidae
+    es: Indriidae
+    et: Indrilased
+    eu: Indriidae
+    ext: Indriidae
+    fa: ایندیریان
+    fi: indrit
+    fr: Indriidae
+    frr: Indriidae
+    ga: Indridae
+    gl: Indriidae
+    he: אינדריים
+    hr: Vunasti lemuri
+    hu: ugrómakifélék
+    hy: ինդիրներ
+    ia: Indridae
+    id: Indriidae
+    ie: Indriidae
+    io: Indriidae
+    it: Indriidae
+    ja: インドリ科
+    ko: 인드리과
+    ky: Индри сымалдуулар
+    la: Indridae
+    lt: Indriniai
+    mg: Indridae
+    mul: Indriidae
+    nb: Indrier
+    nl: Indriachtigen
+    nv: Tsinlátah naháaztání
+    oc: Indridae
+    pl: Indrisowate
+    pnb: اندری لیمر
+    pt: Indridae
+    pt-br: Indriidae
+    ro: Indridae
+    ru: Индриевые
+    sh: Vunasti lemuri
+    sl: indriji
+    sq: Indriidae
+    sv: Indrier
+    tr: İndrigiller
+    uk: Індрієві
+    vi: Indridae
+    vo: Indriidae
+    war: Indridae
+    zh: 大狐猴科
+    zh-cn: 大狐猴科
+    zh-hans: 大狐猴科
+    zh-tw: 大狐猴科
 ---
 # [[Indridae]] 
 ![Indri sitting in tree](Indridae/Indri_indri0037.jpg) 

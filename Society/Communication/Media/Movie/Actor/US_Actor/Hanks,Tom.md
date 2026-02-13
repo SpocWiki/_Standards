@@ -1,95 +1,131 @@
 ---
 aliases:
-  - Tom Hanks
-  - Thomas Jeffrey Hanks
-  - Tom_Hanks
-  - Hanks,Tom
+- Hanks,Tom
+- Thomas Hanks
+- Thomas Jeffrey Hanks
+- Tom Hanks
+- Tom Henks
+- Toms Henkss
+- Tom_Hanks
+- Τομ Χανκς
+- Том Генкс
+- Том Гэнкс
+- Том Ханкс
+- Том Хенкс
+- Том Хэнкс
+- Том Ҳэнкс
+- Том Һәңкс
+- Թոմ Հենքս
+- טום הנקס
+- تام هنکس
+- توم هانكس
+- تۆم ھەنکس
+- ٹام ہینکس
+- टम ह्याङ्क्स
+- टॉम हँक्स
+- टॉम हैंक्स
+- টম হ্যাঙ্কস
+- ਟੌਮ ਹੈਂਕਸ
+- ટોમ હેંક્સ્
+- டொம் ஹாங்க்ஸ்
+- టామ్ హ్యాంక్స్
+- ಟಾಮ್ ಹ್ಯಾಂಕ್ಸ್
+- ടോം ഹാങ്ക്സ്
+- ทอม แฮงส์
+- တွမ်ဟန့်ခ်
+- ტომ ჰენქსი
+- トム・ハンクス
+- 汤·汉斯
+- 汤姆·汉克斯
+- 湯姆·漢克斯
+- 湯漢斯
+- 톰 행크스
 has_id_wikidata: Q2263
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actor_in_a_Play,1445521]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Leading_Role,654620]]'
-  - '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
-  - '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
-  - '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Leading_Role,654620]]'
+- '[[_Standards/WikiData/WD~Silver_Bear,708135]]'
+- '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
+- '[[_Standards/WikiData/WD~Theatre_World_Award,1131356]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Forrest_Gump,134773]]'
-  - '[[_Standards/WikiData/WD~Saving_Private_Ryan,165817]]'
-  - '[[_Standards/WikiData/WD~Toy_Story,171048]]'
-  - '[[_Standards/WikiData/WD~Philadelphia,204057]]'
-  - '[[_Standards/WikiData/WD~The_Green_Mile,208263]]'
-  - '[[_Standards/WikiData/WD~Cast_Away,213411]]'
-  - '[[_Standards/WikiData/WD~Big,858467]]'
+- '[[_Standards/WikiData/WD~Forrest_Gump,134773]]'
+- '[[_Standards/WikiData/WD~Saving_Private_Ryan,165817]]'
+- '[[_Standards/WikiData/WD~Toy_Story,171048]]'
+- '[[_Standards/WikiData/WD~Philadelphia,204057]]'
+- '[[_Standards/WikiData/WD~The_Green_Mile,208263]]'
+- '[[_Standards/WikiData/WD~Cast_Away,213411]]'
+- '[[_Standards/WikiData/WD~Big,858467]]'
 genre:
-  - '[[_Standards/WikiData/WD~melodrama,191489]]'
-  - '[[_Standards/WikiData/WD~comedy,40831]]'
+- '[[_Standards/WikiData/WD~melodrama,191489]]'
+- '[[_Standards/WikiData/WD~comedy,40831]]'
 spouse: '[[_Standards/WikiData/WD~Rita_Wilson,234144]]'
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~television_producer,578109]]'
-  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
-  - '[[_Standards/WikiData/WD~television_director,2059704]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~narrator,22343421]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~television_presenter,947873]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+- '[[_Standards/WikiData/WD~television_director,2059704]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~narrator,22343421]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 child:
-  - '[[_Standards/WikiData/WD~Colin_Hanks,318134]]'
-  - '[[_Standards/WikiData/WD~E._A._Hanks,20993894]]'
-  - '[[_Standards/WikiData/WD~Chet_Hanks,20993895]]'
-  - '[[_Standards/WikiData/WD~Truman_Hanks,20993896]]'
+- '[[_Standards/WikiData/WD~Colin_Hanks,318134]]'
+- '[[_Standards/WikiData/WD~E._A._Hanks,20993894]]'
+- '[[_Standards/WikiData/WD~Chet_Hanks,20993895]]'
+- '[[_Standards/WikiData/WD~Truman_Hanks,20993896]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
-  - '[[_Standards/WikiData/WD~Directors_Guild_of_America,1227533]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
-  - '[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
+- '[[_Standards/WikiData/WD~Directors_Guild_of_America,1227533]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
+- '[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]'
 place_of_birth: '[[_Standards/WikiData/WD~Concord,490441]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Jim_Hanks,725250]]'
-  - '[[_Standards/WikiData/WD~Larry_Hanks,29642811]]'
+- '[[_Standards/WikiData/WD~Jim_Hanks,725250]]'
+- '[[_Standards/WikiData/WD~Larry_Hanks,29642811]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~California_State_University,_Sacramento,1026941]]'
-  - '[[_Standards/WikiData/WD~Chabot_College,5066011]]'
-  - '[[_Standards/WikiData/WD~Skyline_High_School,7537910]]'
+- '[[_Standards/WikiData/WD~California_State_University,_Sacramento,1026941]]'
+- '[[_Standards/WikiData/WD~Chabot_College,5066011]]'
+- '[[_Standards/WikiData/WD~Skyline_High_School,7537910]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~type_2_diabetes,3025883]]'
-  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+- '[[_Standards/WikiData/WD~type_2_diabetes,3025883]]'
+- '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
-  - '[[_Standards/WikiData/WD~Greek_Orthodoxy,7970362]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+- '[[_Standards/WikiData/WD~Greek_Orthodoxy,7970362]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 filmography: '[[_Standards/WikiData/WD~Tom_Hanks_filmography,7816075]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jeffrey,13028078]]'
-  - '[[_Standards/WikiData/WD~Thomas,16428906]]'
+- '[[_Standards/WikiData/WD~Jeffrey,13028078]]'
+- '[[_Standards/WikiData/WD~Thomas,16428906]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Tom_Hanks,14458793]]'
-  - '[[_Standards/WikiData/WD~Template_Tom_Hanks_sidebar,135925861]]'
+- '[[_Standards/WikiData/WD~Template_Tom_Hanks,14458793]]'
+- '[[_Standards/WikiData/WD~Template_Tom_Hanks_sidebar,135925861]]'
 family_name: '[[_Standards/WikiData/WD~Hanks,41712222]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 relative: '[[_Standards/WikiData/WD~Gage_Hanks,64683518]]'
@@ -100,13 +136,13 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 residence:
-  - '[[_Standards/WikiData/WD~Oakland,17042]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~Oakland,17042]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
 number_of_children: 4
 net_worth: 390000000
 height: 183
@@ -126,8 +162,198 @@ X_Twitter_username: tomhanks
 TikTok_username: tomhanks
 Facebook_username: TomHanks
 birth_name: Thomas Jeffrey Hanks
+dv_has_:
+  name_:
+    ace: Tom Hanks
+    af: Tom Hanks
+    an: Tom Hanks
+    ar: توم هانكس
+    ary: توم هانكس
+    arz: توم هانكس
+    ast: Tom Hanks
+    az: Tom Henks
+    azb: تام هنکس
+    ba: Том Хэнкс
+    bar: Tom Hanks
+    be: Том Хэнкс
+    be-tarask: Том Гэнкс
+    bg: Том Ханкс
+    bho: टॉम हैंक्स
+    bi: Tom Hanks
+    bm: Tom Hanks
+    bn: টম হ্যাঙ্কস
+    br: Tom Hanks
+    bs: Tom Hanks
+    ca: Tom Hanks
+    ceb: Tom Hanks
+    ckb: تۆم ھەنکس
+    co: Tom Hanks
+    cs: Tom Hanks
+    cv: Том Хэнкс
+    cy: Tom Hanks
+    da: Tom Hanks
+    de: Tom Hanks
+    de-at: Tom Hanks
+    de-ch: Tom Hanks
+    diq: Tom Hanks
+    dsb: Tom Hanks
+    dtp: Tom Hanks
+    el: Τομ Χανκς
+    eml: Tom Hanks
+    en: Tom Hanks
+    en-ca: Tom Hanks
+    en-gb: Tom Hanks
+    eo: Tom Hanks
+    es: Tom Hanks
+    et: Tom Hanks
+    eu: Tom Hanks
+    ext: Tom Hanks
+    fa: تام هنکس
+    fi: Tom Hanks
+    fit: Tom Hanks
+    fo: Tom Hanks
+    fr: Tom Hanks
+    frc: Tom Hanks
+    frp: Tom Hanks
+    frr: Tom Hanks
+    fur: Tom Hanks
+    fy: Tom Hanks
+    ga: Tom Hanks
+    gd: Tom Hanks
+    gl: Tom Hanks
+    gsw: Tom Hanks
+    gu: ટોમ હેંક્સ્
+    gv: Tom Hanks
+    hak: Tom Hanks
+    he: טום הנקס
+    hi: टॉम हैंक्स
+    hif: Tom Hanks
+    hr: Tom Hanks
+    hsb: Tom Hanks
+    ht: Tom Hanks
+    hu: Tom Hanks
+    hy: Թոմ Հենքս
+    hyw: Թոմ Հենքս
+    ia: Tom Hanks
+    id: Tom Hanks
+    ie: Tom Hanks
+    ig: Tom Hanks
+    ilo: Tom Hanks
+    io: Tom Hanks
+    is: Tom Hanks
+    it: Tom Hanks
+    ja: トム・ハンクス
+    jam: Tom Hanks
+    jv: Tom Hanks
+    ka: ტომ ჰენქსი
+    kaa: Tom Hanks
+    kab: Tom Hanks
+    kg: Tom Hanks
+    kk: Том Хэнкс
+    kn: ಟಾಮ್ ಹ್ಯಾಂಕ್ಸ್
+    ko: 톰 행크스
+    ksh: Tom Hanks
+    kw: Tom Hanks
+    ky: Том Хэнкс
+    la: Thomas Hanks
+    lb: Tom Hanks
+    li: Tom Hanks
+    lij: Tom Hanks
+    lt: Tom Hanks
+    lv: Toms Henkss
+    mai: टम ह्याङ्क्स
+    mg: Tom Hanks
+    mhr: Том Хэнкс
+    min: Tom Hanks
+    mk: Том Хенкс
+    ml: ടോം ഹാങ്ക്സ്
+    mn: Том Хэнкс
+    mr: टॉम हँक्स
+    ms: Tom Hanks
+    mul: Tom Hanks
+    my: တွမ်ဟန့်ခ်
+    mzn: تام هنکس
+    nah: Tom Hanks
+    nan: Tom Hanks
+    nap: Tom Hanks
+    nb: Tom Hanks
+    nds: Tom Hanks
+    nds-nl: Tom Hanks
+    ne: टम ह्याङ्क्स
+    nl: Tom Hanks
+    nn: Tom Hanks
+    nrm: Tom Hanks
+    oc: Tom Hanks
+    pa: ਟੌਮ ਹੈਂਕਸ
+    pag: Tom Hanks
+    pap: Tom Hanks
+    pcd: Tom Hanks
+    pdc: Tom Hanks
+    pl: Tom Hanks
+    pms: Tom Hanks
+    prg: Tom Hanks
+    pt: Tom Hanks
+    pt-br: Tom Hanks
+    qu: Tom Hanks
+    rgn: Tom Hanks
+    rm: Tom Hanks
+    rmf: Tom Hanks
+    ro: Tom Hanks
+    ru: Том Хэнкс
+    sc: Tom Hanks
+    scn: Tom Hanks
+    sco: Tom Hanks
+    se: Tom Hanks
+    sh: Tom Hanks
+    sjd: Том Хэнкс
+    sje: Tom Hanks
+    sju: Tom Hanks
+    sk: Tom Hanks
+    sl: Tom Hanks
+    sma: Tom Hanks
+    smj: Tom Hanks
+    smn: Tom Hanks
+    sms: Tom Hanks
+    sq: Tom Hanks
+    sr: Том Хенкс
+    sr-ec: Том Хенкс
+    sr-el: Tom Hanks
+    sv: Tom Hanks
+    sw: Tom Hanks
+    szl: Tom Hanks
+    ta: டொம் ஹாங்க்ஸ்
+    te: టామ్ హ్యాంక్స్
+    tg: Том Ҳэнкс
+    th: ทอม แฮงส์
+    tl: Tom Hanks
+    tr: Tom Hanks
+    tt: Том Һәңкс
+    tt-cyrl: Том Һәңкс
+    uk: Том Генкс
+    ur: ٹام ہینکس
+    uz: Tom Hanks
+    vec: Tom Hanks
+    vi: Tom Hanks
+    vls: Tom Hanks
+    vmf: Tom Hanks
+    vo: Tom Hanks
+    wa: Tom Hanks
+    war: Tom Hanks
+    wo: Tom Hanks
+    wuu: 汤姆·汉克斯
+    xmf: ტომ ჰენქსი
+    yo: Tom Hanks
+    yue: 湯漢斯
+    zea: Tom Hanks
+    zh: 汤姆·汉克斯
+    zh-cn: 汤姆·汉克斯
+    zh-hans: 汤姆·汉克斯
+    zh-hant: 湯姆·漢克斯
+    zh-hk: 湯漢斯
+    zh-my: 汤·汉斯
+    zh-sg: 汤姆·汉克斯
+    zu: Tom Hanks
 ---
-
 # [[Hanks,Tom]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tom_Hanks,2263|WD~Tom_Hanks,2263]] 

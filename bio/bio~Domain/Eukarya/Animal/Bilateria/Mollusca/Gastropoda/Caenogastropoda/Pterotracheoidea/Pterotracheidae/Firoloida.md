@@ -1,8 +1,44 @@
 ---
 aliases:
-  - Firoloida
+- Firoloida
 title: Firoloida desmaresti
 has_id_wikidata: Q18510899
+dv_has_:
+  name_:
+    an: Firoloida
+    ast: Firoloida
+    bg: Firoloida
+    ca: Firoloida
+    ceb: Firoloida
+    de: Firoloida
+    en: Firoloida
+    eo: Firoloida
+    es: Firoloida
+    eu: Firoloida
+    ext: Firoloida
+    fi: Firoloida
+    fr: Firoloida
+    ga: Firoloida
+    gl: Firoloida
+    ia: Firoloida
+    ie: Firoloida
+    io: Firoloida
+    it: Firoloida
+    la: Firoloida
+    mul: Firoloida
+    nl: Firoloida
+    oc: Firoloida
+    pl: Firoloida
+    pt: Firoloida
+    pt-br: Firoloida
+    ro: Firoloida
+    ru: Firoloida
+    sq: Firoloida
+    sv: Firoloida
+    uk: Firoloida
+    vi: Firoloida
+    vo: Firoloida
+    war: Firoloida
 ---
 ## Phylogeny 
 

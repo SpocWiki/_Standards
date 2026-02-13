@@ -1,8 +1,138 @@
 ---
 aliases:
-  - Brendan Fraser
-  - Fraser,Brendan
+- Brendan Fraser
+- Brendan Freyzer
+- Brendans Freizers
+- Brendanus Fraser
+- Fraser,Brendan
+- Μπρένταν Φρέιζερ
+- Брендан Фрејзер
+- Брендан Фрейзер
+- Брендан Фрэйзер
+- Брендън Фрейзър
+- Брэндан Фрэйзер
+- Брэндан Фрэйзэр
+- Բրենդեն Ֆրեյզեր
+- ברנדן פרייזר
+- برندان فريزر
+- برندن فریزر
+- برٛینڈَن فرٛیزَر
+- برینڈن فریزر
+- برێندان فرایزەر
+- ब्रिनडेन फ्रासर
+- ब्रेंडन फ़्रेज़र
+- ब्रेंडन फ्रेझर
+- ব্রেন্ডান ফ্রেজার
+- బ్రెండన్ ఫ్రేజర్
+- ബ്രെൻഡൻ ഫ്രേസർ
+- เบรนแดน เฟรเซอร์
+- ბრენდან ფრეიზერი
+- ブレンダン・フレイザー
+- 布兰登·弗雷泽
+- 布兰登·费舍
+- 布兰登·费雪
+- 布蘭登·費雪
+- 班頓·費沙
+- 班頓費沙
+- 브렌던 프레이저
 has_id_wikidata: Q193555
+dv_has_:
+  name_:
+    ace: Brendan Fraser
+    af: Brendan Fraser
+    an: Brendan Fraser
+    ar: برندان فريزر
+    arz: برندان فريزر
+    ast: Brendan Fraser
+    az: Brendan Freyzer
+    azb: برندن فریزر
+    bcl: Brendan Fraser
+    be: Брэндан Фрэйзер
+    be-tarask: Брэндан Фрэйзэр
+    bg: Брендън Фрейзър
+    bn: ব্রেন্ডান ফ্রেজার
+    ca: Brendan Fraser
+    ckb: برێندان فرایزەر
+    co: Brendan Fraser
+    cs: Brendan Fraser
+    cy: Brendan Fraser
+    da: Brendan Fraser
+    de: Brendan Fraser
+    dty: ब्रिनडेन फ्रासर
+    el: Μπρένταν Φρέιζερ
+    eml: Brendan Fraser
+    en: Brendan Fraser
+    en-ca: Brendan Fraser
+    en-gb: Brendan Fraser
+    eo: Brendan Fraser
+    es: Brendan Fraser
+    et: Brendan Fraser
+    eu: Brendan Fraser
+    fa: برندن فریزر
+    fi: Brendan Fraser
+    fr: Brendan Fraser
+    ga: Brendan Fraser
+    gl: Brendan Fraser
+    ha: Brendan Fraser
+    he: ברנדן פרייזר
+    hi: ब्रेंडन फ़्रेज़र
+    hu: Brendan Fraser
+    hy: Բրենդեն Ֆրեյզեր
+    id: Brendan Fraser
+    ig: Brendan Fraser
+    is: Brendan Fraser
+    it: Brendan Fraser
+    ja: ブレンダン・フレイザー
+    ka: ბრენდან ფრეიზერი
+    kk: Брендан Фрэйзер
+    ko: 브렌던 프레이저
+    ks: برٛینڈَن فرٛیزَر
+    la: Brendanus Fraser
+    lt: Brendan Fraser
+    lv: Brendans Freizers
+    mai: ब्रिनडेन फ्रासर
+    mk: Брендан Фрејзер
+    ml: ബ്രെൻഡൻ ഫ്രേസർ
+    mr: ब्रेंडन फ्रेझर
+    ms: Brendan Fraser
+    nb: Brendan Fraser
+    ne: ब्रिनडेन फ्रासर
+    nl: Brendan Fraser
+    nn: Brendan Fraser
+    oc: Brendan Fraser
+    pl: Brendan Fraser
+    pt: Brendan Fraser
+    pt-br: Brendan Fraser
+    ro: Brendan Fraser
+    ru: Брендан Фрэйзер
+    sco: Brendan Fraser
+    sh: Brendan Fraser
+    sk: Brendan Fraser
+    sl: Brendan Fraser
+    sq: Brendan Fraser
+    sr: Брендан Фрејзер
+    sv: Brendan Fraser
+    te: బ్రెండన్ ఫ్రేజర్
+    th: เบรนแดน เฟรเซอร์
+    tl: Brendan Fraser
+    tn: Brendan Fraser
+    tr: Brendan Fraser
+    uk: Брендан Фрейзер
+    ur: برینڈن فریزر
+    uz: Brendan Fraser
+    vi: Brendan Fraser
+    war: Brendan Fraser
+    wuu: 布兰登·费舍
+    xmf: ბრენდან ფრეიზერი
+    yue: 班頓費沙
+    zh: 布蘭登·費雪
+    zh-cn: 布兰登·弗雷泽
+    zh-hans: 布兰登·弗雷泽
+    zh-hant: 布蘭登·費雪
+    zh-hk: 班頓·費沙
+    zh-my: 布兰登·费雪
+    zh-sg: 布兰登·费雪
+    zh-tw: 布蘭登·費雪
 ---
 #has_/time_/started :: 1968-12-03 
 

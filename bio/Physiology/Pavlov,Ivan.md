@@ -1,96 +1,146 @@
 ---
 aliases:
-  - Ivan_Pavlov
-  - Ivan Petrovich Pavlov
-  - Иван Петрович Павлов
-  - Pavlov,Ivan
+- Ioannes Pavlov
+- Ivan Pavlov
+- Ivan Petrovich Pavlov
+- Ivan Petrovics Pavlov
+- Ivan Petroviç Pavlov
+- Ivan Petrović Pavlov
+- Ivan Petrovič Pavlov
+- Ivan Petróvitx Pàvlov
+- Ivanas Pavlovas
+- Ivans Pavlovs
+- Ivan_Pavlov
+- Iván Pávlov
+- Iwan Pawłow
+- Iwan Petrowitsch Pawlow
+- Pavlov Ivan Petrovich
+- Pavlov,Ivan
+- Ívan Petrovítsj Pavlov
+- Îvan Pavlov
+- İvan Pavlov
+- Ιβάν Πάβλοφ
+- Іван Паўлаў
+- Іван Пятровіч Паўлаў
+- Иван Павлов
+- Иван Павлов (Ivan Pavlov)
+- Иван Петрович Павлов
+- Павлов Іван Петрович
+- Павлов Иван Петрович
+- Павлов, Иван Петрович
+- Իվան Պավլով
+- איוואן פאוולאוו
+- איוואן פבלוב
+- آئیون پیٹرووچ پاولوف
+- إيفان بافلوف
+- ئیڤان پاڤلۆڤ
+- ايفان بافلوف
+- ایوا پیولو
+- ایوان پاولف
+- ایوان پتروویچ پاولف
+- इभान पाभ्लोभ
+- इवान पावलोव
+- इवान् पेत्रोविच् पाव्लोव्
+- ইভান পাভলভ
+- ਇਵਾਨ ਪਾਵਲੋਵ
+- ଇଭାନ ପାଭ୍ଲଭ
+- இவான் பாவ்லோவ்
+- ఇవాన్ పావ్లోవ్
+- ಇವಾನ್ ಪೆಟ್ರೋವಿಚ್ ಪಾವ್ಲೋವ್
+- ഇവാൻ പാവ് ലോവ്
+- อีวาน เปโตรวิช ปาฟลอฟ
+- ივანე პავლოვი
+- イワン・パブロフ
+- 伊万·彼得罗维奇·巴甫洛夫
+- 巴甫洛夫
+- 이반 파블로프
 has_id_wikidata: Q42985
 influenced_by: '[[_Standards/WikiData/WD~Carl_Vogt,76513]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]'
-  - '[[_Standards/WikiData/WD~Cothenius_Medal,1136626]]'
-  - '[[_Standards/WikiData/WD~Croonian_Medal_and_Lecture,1192912]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Vladimir,1501067]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_1st_class,15972369]]'
-  - '[[_Standards/WikiData/WD~Q16688039,16688039]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_2nd_class,18084455]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_1st_class,19344746]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_3rd_class,19344818]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
-  - '[[_Standards/WikiData/WD~Baly_Medal,42609895]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]'
+- '[[_Standards/WikiData/WD~Cothenius_Medal,1136626]]'
+- '[[_Standards/WikiData/WD~Croonian_Medal_and_Lecture,1192912]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,1501067]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_2nd_class,15972370]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_1st_class,15972369]]'
+- '[[_Standards/WikiData/WD~Q16688039,16688039]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_2nd_class,18084455]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_1st_class,19344746]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_3rd_class,19344818]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]'
+- '[[_Standards/WikiData/WD~Baly_Medal,42609895]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Konstantin_Bykov,505811]]'
-  - '[[_Standards/WikiData/WD~Pyotr_Anokhin,2369108]]'
-  - '[[_Standards/WikiData/WD~Sergey_Anichkov,4066431]]'
-  - '[[_Standards/WikiData/WD~Q4090730,4090730]]'
-  - '[[_Standards/WikiData/WD~Viktorin_Deryabin,4159082]]'
-  - '[[_Standards/WikiData/WD~Q4192021,4192021]]'
-  - '[[_Standards/WikiData/WD~Alexander_Samoilov,4406688]]'
-  - '[[_Standards/WikiData/WD~Natalia_Traugott,4462223]]'
-  - '[[_Standards/WikiData/WD~Nikolay_Rozhansky,12148301]]'
-  - '[[_Standards/WikiData/WD~L._V._Sobolev,17734444]]'
-  - '[[_Standards/WikiData/WD~Lev_Pavlovich_Rozanov,105805168]]'
-  - '[[_Standards/WikiData/WD~Q131828470,131828470]]'
+- '[[_Standards/WikiData/WD~Konstantin_Bykov,505811]]'
+- '[[_Standards/WikiData/WD~Pyotr_Anokhin,2369108]]'
+- '[[_Standards/WikiData/WD~Sergey_Anichkov,4066431]]'
+- '[[_Standards/WikiData/WD~Q4090730,4090730]]'
+- '[[_Standards/WikiData/WD~Viktorin_Deryabin,4159082]]'
+- '[[_Standards/WikiData/WD~Q4192021,4192021]]'
+- '[[_Standards/WikiData/WD~Alexander_Samoilov,4406688]]'
+- '[[_Standards/WikiData/WD~Natalia_Traugott,4462223]]'
+- '[[_Standards/WikiData/WD~Nikolay_Rozhansky,12148301]]'
+- '[[_Standards/WikiData/WD~L._V._Sobolev,17734444]]'
+- '[[_Standards/WikiData/WD~Lev_Pavlovich_Rozanov,105805168]]'
+- '[[_Standards/WikiData/WD~Q131828470,131828470]]'
 student:
-  - '[[_Standards/WikiData/WD~Konstantin_Bykov,505811]]'
-  - '[[_Standards/WikiData/WD~Leon_Orbeli,1971417]]'
-  - '[[_Standards/WikiData/WD~Pyotr_Anokhin,2369108]]'
-  - '[[_Standards/WikiData/WD~Boris_Babkin,4074460]]'
-  - '[[_Standards/WikiData/WD~Nikolay_Voicehovsky,4122796]]'
-  - '[[_Standards/WikiData/WD~Viktorin_Deryabin,4159082]]'
-  - '[[_Standards/WikiData/WD~Anatolij_Georgijevič_Ivanov_Smolenskij,4196373]]'
-  - '[[_Standards/WikiData/WD~Nikolay_Krasnogorskiy,4238473]]'
-  - '[[_Standards/WikiData/WD~Gleb_Anrep,11699911]]'
-  - '[[_Standards/WikiData/WD~Yevgeny_Kreps,15070472]]'
-  - '[[_Standards/WikiData/WD~Petr_Stepanovič_Kupalov,15070780]]'
-  - '[[_Standards/WikiData/WD~Davyd_Hlinski,61750948]]'
-  - '[[_Standards/WikiData/WD~Lev_Pavlovich_Rozanov,105805168]]'
+- '[[_Standards/WikiData/WD~Konstantin_Bykov,505811]]'
+- '[[_Standards/WikiData/WD~Leon_Orbeli,1971417]]'
+- '[[_Standards/WikiData/WD~Pyotr_Anokhin,2369108]]'
+- '[[_Standards/WikiData/WD~Boris_Babkin,4074460]]'
+- '[[_Standards/WikiData/WD~Nikolay_Voicehovsky,4122796]]'
+- '[[_Standards/WikiData/WD~Viktorin_Deryabin,4159082]]'
+- '[[_Standards/WikiData/WD~Anatolij_Georgijevič_Ivanov_Smolenskij,4196373]]'
+- '[[_Standards/WikiData/WD~Nikolay_Krasnogorskiy,4238473]]'
+- '[[_Standards/WikiData/WD~Gleb_Anrep,11699911]]'
+- '[[_Standards/WikiData/WD~Yevgeny_Kreps,15070472]]'
+- '[[_Standards/WikiData/WD~Petr_Stepanovič_Kupalov,15070780]]'
+- '[[_Standards/WikiData/WD~Davyd_Hlinski,61750948]]'
+- '[[_Standards/WikiData/WD~Lev_Pavlovich_Rozanov,105805168]]'
 occupation:
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~neurologist,783906]]'
-  - '[[_Standards/WikiData/WD~researcher,1650915]]'
-  - '[[_Standards/WikiData/WD~physiologist,2055046]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~neurologist,783906]]'
+- '[[_Standards/WikiData/WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~physiologist,2055046]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 academic_degree: '[[_Standards/WikiData/WD~Candidate_of_Sciences,737462]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Elias_von_Cyon,1277949]]'
-  - '[[_Standards/WikiData/WD~Sergey_Petrovich_Botkin,26003]]'
-  - '[[_Standards/WikiData/WD~Carl_Ludwig,61975]]'
+- '[[_Standards/WikiData/WD~Elias_von_Cyon,1277949]]'
+- '[[_Standards/WikiData/WD~Sergey_Petrovich_Botkin,26003]]'
+- '[[_Standards/WikiData/WD~Carl_Ludwig,61975]]'
 student_of: '[[_Standards/WikiData/WD~Elias_von_Cyon,1277949]]'
 employer:
-  - '[[_Standards/WikiData/WD~S._M._Kirov_Military_Medical_Academy,1459393]]'
-  - '[[_Standards/WikiData/WD~Institute_of_Experimental_Medicine,4201853]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
+- '[[_Standards/WikiData/WD~S._M._Kirov_Military_Medical_Academy,1459393]]'
+- '[[_Standards/WikiData/WD~Institute_of_Experimental_Medicine,4201853]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~S._M._Kirov_Military_Medical_Academy,1459393]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
+- '[[_Standards/WikiData/WD~S._M._Kirov_Military_Medical_Academy,1459393]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
 civil_rank: '[[_Standards/WikiData/WD~Active_State_Councillor,2623484]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
 present_in_work: '[[_Standards/WikiData/WD~Ivan_Pavlov,4059120]]'
@@ -102,14 +152,14 @@ given_name: '[[_Standards/WikiData/WD~Ivan,21104340]]'
 depicted_by: '[[_Standards/WikiData/WD~Boris_Babkin_Fonds,71990125]]'
 spouse: '[[_Standards/WikiData/WD~Sara_Pavlov,108675308]]'
 child:
-  - '[[_Standards/WikiData/WD~Vera_I._Pavlova,127868543]]'
-  - '[[_Standards/WikiData/WD~Q131316718,131316718]]'
-  - '[[_Standards/WikiData/WD~Q131316764,131316764]]'
-  - '[[_Standards/WikiData/WD~Q131316820,131316820]]'
+- '[[_Standards/WikiData/WD~Vera_I._Pavlova,127868543]]'
+- '[[_Standards/WikiData/WD~Q131316718,131316718]]'
+- '[[_Standards/WikiData/WD~Q131316764,131316764]]'
+- '[[_Standards/WikiData/WD~Q131316820,131316820]]'
 date_of_birth: 1849-09-26T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~physiology,521]]'
-  - '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
 place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ryazan,2746]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
@@ -126,8 +176,115 @@ BHCL_UUID: a561f5a6-b2cb-4985-ae5c-85431cff89bd
 date_of_death: 1936-02-27T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Pavlov%20NLM3.jpg
 ISNI: 000000008115516X
+dv_has_:
+  name_:
+    af: Ivan Pavlov
+    an: Ivan Pavlov
+    ar: إيفان بافلوف
+    arz: ايفان بافلوف
+    ast: Iván Pávlov
+    az: İvan Pavlov
+    azb: ایوان پتروویچ پاولف
+    ba: Павлов Иван Петрович
+    be: Іван Пятровіч Паўлаў
+    be-tarask: Іван Паўлаў
+    bg: Иван Павлов
+    bn: ইভান পাভলভ
+    br: Ivan Pavlov
+    ca: Ivan Petróvitx Pàvlov
+    ckb: ئیڤان پاڤلۆڤ
+    cs: Ivan Petrovič Pavlov
+    cy: Ivan Pavlov
+    da: Ivan Pavlov
+    de: Iwan Petrowitsch Pawlow
+    el: Ιβάν Πάβλοφ
+    en: Ivan Pavlov
+    eo: Ivan Pavlov
+    es: Iván Pávlov
+    et: Ivan Pavlov
+    eu: Ivan Pavlov
+    fa: ایوان پاولف
+    fi: Ivan Pavlov
+    fr: Ivan Pavlov
+    fy: Ivan Pavlov
+    ga: Ivan Petrovich Pavlov
+    gl: Ivan Pavlov
+    he: איוואן פבלוב
+    hi: इवान पावलोव
+    hr: Ivan Pavlov
+    hu: Ivan Petrovics Pavlov
+    hy: Իվան Պավլով
+    ia: Ivan Petrovich Pavlov
+    id: Ivan Pavlov
+    io: Ivan Pavlov
+    is: Ívan Petrovítsj Pavlov
+    it: Ivan Pavlov
+    ja: イワン・パブロフ
+    jv: Ivan Pavlov
+    ka: ივანე პავლოვი
+    ki: Иван Павлов (Ivan Pavlov)
+    kk: Павлов Иван Петрович
+    kn: ಇವಾನ್ ಪೆಟ್ರೋವಿಚ್ ಪಾವ್ಲೋವ್
+    ko: 이반 파블로프
+    ku: Îvan Pavlov
+    ky: Павлов, Иван Петрович
+    la: Ioannes Pavlov
+    lb: Iwan Petrowitsch Pawlow
+    lt: Ivanas Pavlovas
+    lv: Ivans Pavlovs
+    mad: Ivan Pavlov
+    mg: Ivan Pavlov
+    mk: Иван Петрович Павлов
+    ml: ഇവാൻ പാവ് ലോവ്
+    mn: Иван Павлов
+    ms: Ivan Pavlov
+    mzn: ایوان پاولف
+    nan: Ivan Petrović Pavlov
+    nb: Ivan Pavlov
+    ne: इभान पाभ्लोभ
+    nl: Ivan Pavlov
+    nn: Ivan Pavlov
+    oc: Ivan Pavlov
+    or: ଇଭାନ ପାଭ୍ଲଭ
+    pa: ਇਵਾਨ ਪਾਵਲੋਵ
+    pam: Ivan Pavlov
+    pl: Iwan Pawłow
+    pnb: آئیون پیٹرووچ پاولوف
+    pt: Ivan Pavlov
+    pt-br: Ivan Pavlov
+    qu: Ivan Pavlov
+    ro: Ivan Pavlov
+    ru: Иван Петрович Павлов
+    sa: इवान् पेत्रोविच् पाव्लोव्
+    sc: Ivan Pavlov
+    scn: Ivan Petrovich Pavlov
+    sh: Ivan Pavlov
+    sk: Ivan Petrovič Pavlov
+    sl: Ivan Petrovič Pavlov
+    sq: Ivan Petroviç Pavlov
+    sr: Иван Павлов
+    sr-ec: Иван Павлов
+    sv: Ivan Pavlov
+    sw: Ivan Pavlov
+    ta: இவான் பாவ்லோவ்
+    te: ఇవాన్ పావ్లోవ్
+    th: อีวาน เปโตรวิช ปาฟลอฟ
+    tl: Ivan Pavlov
+    tr: İvan Pavlov
+    tt: Иван Павлов
+    uk: Павлов Іван Петрович
+    ur: ایوا پیولو
+    uz: Pavlov Ivan Petrovich
+    vi: Ivan Petrovich Pavlov
+    war: Ivan Pavlov
+    wuu: 巴甫洛夫
+    xmf: ივანე პავლოვი
+    yi: איוואן פאוולאוו
+    yo: Ivan Pavlov
+    yue: 巴甫洛夫
+    zh: 伊万·彼得罗维奇·巴甫洛夫
+    zh-hans: 伊万·彼得罗维奇·巴甫洛夫
 ---
-
 # [[Pavlov,Ivan]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ivan_Pavlov,42985|WD~Ivan_Pavlov,42985]] 

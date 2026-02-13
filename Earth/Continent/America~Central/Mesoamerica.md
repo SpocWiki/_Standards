@@ -2,44 +2,93 @@
 dv_"Concept", "Mesoamerica: 2543j"
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Mesoamerica,13703]]"
-    - "[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]"
-    - "[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]"
-    - "[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]"
-    - "[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]"
-    - "[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]"
-    - "[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]"
-    - "[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]"
+  - '[[../../../WikiData/WD~Mesoamerica,13703]]'
+  - '[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]'
+  - '[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]'
+  - '[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]'
+  - '[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]'
+  - '[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]'
+  - '[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]'
+  - '[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]'
 dv_concept-mesoamerica: 2543j"
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Mesoamerica,13703]]"
-  - "[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]"
-  - "[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]"
-  - "[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]"
-  - "[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]"
-  - "[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]"
-  - "[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]"
-  - "[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]"
-
-has_time_stopped: 1521-01-01 
+- '[[../../../WikiData/WD~Mesoamerica,13703]]'
+- '[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]'
+- '[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]'
+- '[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]'
+- '[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]'
+- '[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]'
+- '[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]'
+- '[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]'
+has_time_stopped: 1521-01-01
 aliases:
+- Meso-Amearika
+- Meso-Amerika
+- Mesoameeriga
+- Mesoameerika
+- Mesoamerica
+- Mesoamericae
+- Mesoamerihkká
+- Mesoamerik
+- Mesoamerika
+- Mesoamerikk
+- Mesoamerikka
+- Mesoamèrica
+- Mesoamérica
+- Mesôamerika
+- Mezameriko
+- Mezoamerika
+- Mezoameryka
+- Mezoamerîka
+- Miðameríkumenningin
+- Méisimheiriceá
+- Mésoamérique
+- Mезоамерик
+- Trung Bộ châu Mỹ
+- Vidusamerika
+- Μέση Αμερική
+- Мезоамерика
+- Месаамерыка
+- Месоамерика
+- Мэзаамэрыка
+- Մեզոամերիկա
+- מסו-אמריקה
+- آمریکای میانه
+- مزو آمریکا
+- ميسو امريکا
+- میونی آمریکا
+- وسط أمريكا
+- وسط امریکا
+- मेसोअमेरिका
+- मेसोअमेरिकी
+- মেসোআমেরিকা
+- இடையமெரிக்கப் பண்பாட்டுப் பகுதி
+- മെസോഅമേരിക്ക
+- මධ්ය-ඇමරිකාව
+- มีโซอเมริกา
+- მესოამერიკა
+- メソアメリカ
+- 中部美洲
+- 美索亚美利加
+- 美索美洲
+- 메소아메리카
 has_id_wikidata: Q13703
 instance_of:
-  - "[[_Standards/WikiData/WD~region,82794]]"
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
-  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
-  - "[[_Standards/WikiData/WD~cultural_superarea,15733622]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mesoamerica,5535188]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesoamerica,28466269]]"
-described_by_source: "[[_Standards/WikiData/WD~_Mesoamérica_Resiste!,124094430]]"
+- '[[_Standards/WikiData/WD~region,82794]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~historical_region,1620908]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~cultural_superarea,15733622]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mesoamerica,5535188]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mesoamerica,28466269]]'
+described_by_source: '[[_Standards/WikiData/WD~_Mesoamérica_Resiste!,124094430]]'
 start_time: -2499-01-01T00:00:00Z
 country:
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Central_America,27611]]"
-  - "[[_Standards/WikiData/WD~North_America,49]]"
+- '[[_Standards/WikiData/WD~Central_America,27611]]'
+- '[[_Standards/WikiData/WD~North_America,49]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mesoam%C3%A9rica%20relief%20map%20with%20continental%20scale.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Templo%20tazumal.jpg
 Wolfram_Language_entity_code: Entity"Concept", "Mesoamerica = `=this.dv_"Concept", "Mesoamerica`
@@ -48,8 +97,106 @@ Commons_category: Mesoamerica
 coordinate_location: Point(-93.0 16.0)
 end_time: 1521-01-01T00:00:00Z
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aztec%20solar%20calendar%20Wikivoyage%20banner.jpg
+dv_has_:
+  name_:
+    af: Meso-Amerika
+    ar: وسط أمريكا
+    ast: Mesoamérica
+    az: Mezoamerika
+    azb: مزو آمریکا
+    ba: Мезоамерика
+    bar: Mesoamerika
+    be: Месаамерыка
+    be-tarask: Мэзаамэрыка
+    bg: Мезоамерика
+    bn: মেসোআমেরিকা
+    ca: Mesoamèrica
+    ce: Мезоамерика
+    cs: Mezoamerika
+    da: Mesoamerika
+    de: Mesoamerika
+    de-ch: Mesoamerika
+    diq: Mezoamerika
+    el: Μέση Αμερική
+    en: Mesoamerica
+    en-ca: Mesoamerica
+    en-gb: Mesoamerica
+    eo: Mezameriko
+    es: Mesoamérica
+    et: Mesoameerika
+    eu: Mesoamerika
+    fa: آمریکای میانه
+    fi: Mesoamerikka
+    fr: Mésoamérique
+    fy: Meso-Amearika
+    ga: Méisimheiriceá
+    gl: Mesoamérica
+    he: מסו-אמריקה
+    hi: मेसोअमेरिकी
+    hr: Mezoamerika
+    hu: Mezoamerika
+    hy: Մեզոամերիկա
+    ia: Mesoamerica
+    id: Mesoamerika
+    is: Miðameríkumenningin
+    it: Mesoamerica
+    ja: メソアメリカ
+    ka: მესოამერიკა
+    kk: Мезоамерика
+    ko: 메소아메리카
+    ku: Mezoamerîka
+    lfn: Mesoamerica
+    lld: Mesoamerica
+    lt: Mezoamerika
+    lv: Vidusamerika
+    mg: Mesôamerika
+    mk: Мезоамерика
+    ml: മെസോഅമേരിക്ക
+    mn: Mезоамерик
+    mr: मेसोअमेरिका
+    ms: Mesoamerika
+    mzn: میونی آمریکا
+    nan: Mesoamerica
+    nb: Mesoamerika
+    new: मेसोअमेरिका
+    nl: Meso-Amerika
+    nn: Mesoamerika
+    oc: Mesoamerica
+    pl: Mezoameryka
+    ps: ميسو امريکا
+    pt: Mesoamérica
+    pt-br: Mesoamérica
+    ro: Mesoamerica
+    ru: Мезоамерика
+    sco: Mesoamericae
+    se: Mesoamerihkká
+    sh: Mezoamerika
+    si: මධ්ය-ඇමරිකාව
+    sk: Mezoamerika
+    sl: Mezoamerika
+    smn: Mesoamerik
+    sms: Mesoamerikk
+    sq: Mezoamerika
+    sr: Мезоамерика
+    sr-ec: Мезоамерика
+    sv: Mesoamerika
+    szl: Mezoameryka
+    ta: இடையமெரிக்கப் பண்பாட்டுப் பகுதி
+    th: มีโซอเมริกา
+    tl: Mesoamerika
+    tr: Mezoamerika
+    uk: Месоамерика
+    ur: وسط امریکا
+    uz: Mesoamerika
+    vi: Trung Bộ châu Mỹ
+    vro: Mesoameeriga
+    war: Mesoamerika
+    wuu: 中部美洲
+    xmf: მესოამერიკა
+    yue: 美索美洲
+    zh: 中部美洲
+    zh-cn: 美索亚美利加
 ---
-
 # [[Mesoamerica]] 
 
 #is_/same_as :: [[WD~Mesoamerica,13703]] 

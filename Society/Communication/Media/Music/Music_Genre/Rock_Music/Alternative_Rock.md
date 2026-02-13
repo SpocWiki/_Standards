@@ -1,34 +1,191 @@
 ---
-has_time_started: 1978-01-01 
+has_time_started: 1978-01-01
 aliases:
-  - Alternative rock
-  - alt-rock
-  - Alternative_Rock
-  - Alternative Rock
+- alt-roc
+- alt-rock
+- alternatieve rock
+- alternatif rock
+- alternatiivrokk
+- alternativ rock
+- alternativ rok
+- alternativa rokmuziko
+- Alternative rock
+- Alternative_Rock
+- Alternativni rock
+- alternativni rok
+- alternativní rock
+- alternatyvus rokas
+- alternatív rock
+- alternatívny rock
+- alternatīvais roks
+- craa-chiaull chaghlaaee
+- jaðarrokk
+- muzîka rock a alternatîv
+- rac malartach
+- roc amgen
+- rock alternatibo
+- rock alternatif
+- rock alternatiu
+- rock alternativ
+- Rock alternative
+- rock alternativo
+- rock alternativu
+- rock alternativus
+- rock alternattiv
+- rock alternatywny
+- rock dazeilat
+- rok alternatif
+- Tlātlamantic rock
+- vaihtoehtorock
+- εναλλακτική ροκ
+- алтернативен рок
+- алтернативни рок
+- альтернатив рок
+- альтернативний рок
+- альтернативный рок
+- альтернативон рок
+- альтернативонь рок
+- Альтернативті рок
+- альтэрнатыўны рок
+- роки олтернатив
+- ալտերնատիվ ռոք
+- רוק אלטרנטיבי
+- آلترناتیو راک
+- آلترنتیو راک
+- ئاڵتەرنەتڤ ڕۆک
+- روك آلطيرناتيف
+- روك بديل
+- अल्टर्नेटिभ रक
+- অল্টারনেটিভ রক
+- ஆல்டர்நேடிவ்வு ராக் இசை
+- ออลเทอร์นาทิฟร็อก
+- ალტერნატიული როკი
+- オルタナティヴ・ロック
+- 另类摇滚
+- 另類搖滾
+- 얼터너티브 록
 has_id_wikidata: Q11366
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~radio_format,589183]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~radio_format,589183]]'
 different_from: '[[_Standards/WikiData/WD~alternative_music,1695023]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~alternative_music,1695023]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~alternative_music,1695023]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Alternative_rock,14615030]]'
 has_characteristic: '[[_Standards/WikiData/WD~rock_genre,107975727]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 IAB_code: 365
 inception: 1978-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Padova%20REM%20concert%20July%2022%202003%20blue.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sonic%20Youth%20live%2020050707.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Padova%20REM%20concert%20July%2022%202003%20blue.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sonic%20Youth%20live%2020050707.jpg
 P8189: 987007549222205171
 Commons_category: Alternative rock
 subreddit: alternativerock
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Portrayal%20-%2001%20-%20Lost%20Souls.ogg
+dv_has_:
+  name_:
+    ar: روك بديل
+    ary: روك آلطيرناتيف
+    arz: روك بديل
+    ast: rock alternativu
+    az: alternativ rok
+    ba: альтернатив рок
+    be: альтэрнатыўны рок
+    be-tarask: альтэрнатыўны рок
+    bg: алтернативен рок
+    bn: অল্টারনেটিভ রক
+    br: rock dazeilat
+    bs: alternativni rok
+    ca: rock alternatiu
+    ckb: ئاڵتەرنەتڤ ڕۆک
+    co: rock alternativu
+    cs: alternativní rock
+    cy: roc amgen
+    da: alternativ rock
+    de: Alternative Rock
+    de-ch: Alternative Rock
+    el: εναλλακτική ροκ
+    en: alternative rock
+    en-ca: alternative rock
+    en-gb: alternative rock
+    en-us: alternative rock
+    eo: alternativa rokmuziko
+    es: rock alternativo
+    et: alternatiivrokk
+    eu: rock alternatibo
+    fa: آلترنتیو راک
+    fi: vaihtoehtorock
+    fr: rock alternatif
+    ga: rac malartach
+    gd: alt-roc
+    gl: rock alternativo
+    gv: craa-chiaull chaghlaaee
+    he: רוק אלטרנטיבי
+    hr: Alternativni rock
+    hu: alternatív rock
+    hy: ալտերնատիվ ռոք
+    ia: Rock alternative
+    id: rok alternatif
+    is: jaðarrokk
+    it: rock alternativo
+    ja: オルタナティヴ・ロック
+    ka: ალტერნატიული როკი
+    kk: Альтернативті рок
+    ko: 얼터너티브 록
+    ku: muzîka rock a alternatîv
+    ku-latn: muzîka rock a alternatîv
+    la: rock alternativus
+    lb: Alternative Rock
+    lt: alternatyvus rokas
+    lv: alternatīvais roks
+    mdf: альтернативонь рок
+    mk: алтернативен рок
+    mn: Альтернатив рок
+    ms: rock alternatif
+    mt: rock alternattiv
+    my: Alternative rock
+    mzn: آلترناتیو راک
+    nah: Tlātlamantic rock
+    nb: alternativ rock
+    new: अल्टर्नेटिभ रक
+    nl: alternatieve rock
+    nn: alternativ rock
+    oc: rock alternatiu
+    os: альтернативон рок
+    pl: rock alternatywny
+    pt: rock alternativo
+    pt-br: rock alternativo
+    ro: rock alternativ
+    ru: альтернативный рок
+    sc: rock alternativu
+    sco: alternative rock
+    sh: Alternativni rock
+    sk: alternatívny rock
+    sl: alternativni rock
+    sq: Rock Alternative
+    sr: алтернативни рок
+    sv: alternativ rock
+    ta: ஆல்டர்நேடிவ்வு ராக் இசை
+    tg: роки олтернатив
+    th: ออลเทอร์นาทิฟร็อก
+    tl: Alternative rock
+    tr: alternatif rock
+    tt: альтернатив рок
+    tt-cyrl: альтернатив рок
+    uk: альтернативний рок
+    uz: Alternative rock
+    vec: rock alternativo
+    vi: alternative rock
+    wuu: 另类摇滚
+    yue: 另類搖滾
+    zh: 另类摇滚
+    zh-hant: 另類搖滾
+    zh-tw: 另類搖滾
 ---
-
 # [[Alternative_Rock]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Alternative_rock,11366]] 

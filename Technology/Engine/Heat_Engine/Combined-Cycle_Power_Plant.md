@@ -1,16 +1,96 @@
 ---
 aliases:
+- centrale termoelettrica a ciclo combinato
+- centrale à cycle combiné
+- cicle combinat
+- ciclo combinado
+- Combined cycle
+- combined cycle power station
+- Gas-und-Dampf-Kombikraftwerk
+- IGCC
+- kombikraftverk
+- kombine çevrim güç istasyonu
+- kombinirana termoelektrana
+- Kombinirane termoelektrane
+- Kombinált ciklus
+- Kombinə tsiklli elektrik stansiya
+- kombivoimalaitos
+- Paroplynová elektráreň
+- paroplynová elektrárna
+- Pembangkit Listrik Tenaga Gas dan Uap
+- plinsko parna elektrarna
+- SJTEG-eenheid
+- stoom- en gascentrale
+- termocentrală cu ciclu combinat
+- ziklo konbinatu
+- μονάδα συνδυασμένου κύκλου
+- Комбиниран цикъл
+- комбинована термоелектрана
+- Парогазова установка
+- парогазовая установка
+- מחזור משולב
+- الدورة المركبة
+- قاریشیق سیکللی الکتریک مرکزی
+- نیروگاه چرخه ترکیبی
+- இணைப்பு சுழல் மின் உற்பத்தி நிலையம்
+- コンバインドサイクル発電
+- 联合循环
+- 複循環
 has_id_wikidata: Q900729
 subclass_of:
-  - "[[_Standards/WikiData/WD~steam_electric_power_station,1158818]]"
-  - "[[_Standards/WikiData/WD~gas_turbine_power_station,1427536]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+- '[[_Standards/WikiData/WD~steam_electric_power_station,1158818]]'
+- '[[_Standards/WikiData/WD~gas_turbine_power_station,1427536]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 carbon_footprint: 490
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISK%20Knapsack%20GuD%202007.jpg
 Commons_category: Combined cycle
 OpenStreetMap_tag: generator:type=combined_cycle
+dv_has_:
+  name_:
+    ar: الدورة المركبة
+    az: Kombinə tsiklli elektrik stansiya
+    azb: قاریشیق سیکللی الکتریک مرکزی
+    bg: Комбиниран цикъл
+    ca: cicle combinat
+    cs: paroplynová elektrárna
+    de: Gas-und-Dampf-Kombikraftwerk
+    de-ch: Gas-und-Dampf-Kombikraftwerk
+    el: μονάδα συνδυασμένου κύκλου
+    en: combined cycle power station
+    en-ca: Combined cycle
+    en-gb: combined cycle
+    es: ciclo combinado
+    eu: ziklo konbinatu
+    fa: نیروگاه چرخه ترکیبی
+    fi: kombivoimalaitos
+    fr: centrale à cycle combiné
+    gl: Ciclo combinado
+    he: מחזור משולב
+    hr: Kombinirane termoelektrane
+    hu: Kombinált ciklus
+    id: Pembangkit Listrik Tenaga Gas dan Uap
+    it: centrale termoelettrica a ciclo combinato
+    ja: コンバインドサイクル発電
+    li: SJTEG-eenheid
+    nl: stoom- en gascentrale
+    pl: IGCC
+    pt: IGCC
+    pt-br: IGCC
+    ro: termocentrală cu ciclu combinat
+    ru: парогазовая установка
+    sh: kombinirana termoelektrana
+    sk: Paroplynová elektráreň
+    sl: plinsko parna elektrarna
+    sr: комбинована термоелектрана
+    sv: kombikraftverk
+    ta: இணைப்பு சுழல் மின் உற்பத்தி நிலையம்
+    tr: kombine çevrim güç istasyonu
+    uk: Парогазова установка
+    zh: 联合循环
+    zh-hans: 联合循环
+    zh-hant: 複循環
+    zh-hk: 複循環
 ---
-
 # [[Combined-Cycle_Power_Plant]] 
 
 #is_/same_as :: [[WD~Combined_cycle_power_plant,900729]]

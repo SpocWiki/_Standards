@@ -1,27 +1,216 @@
 ---
 aliases:
-  - Materialismzs
-  - Materialism
+- Akụkọndụ̀onye
+- Chủ nghĩa duy vật
+- Danvezelouriezh
+- Efnishyggja
+- maddecilik
+- Materialism
+- Materialisma
+- materialisme
+- materialismi
+- materialismm
+- materialismo
+- Materialismu
+- Materialismus
+- Materialismzs
+- materialissma
+- materializem
+- Materializm
+- materializmas
+- Materializmi
+- materializmus
+- materiismo
+- Materijalizam
+- Materiyalizm
+- Materiālisms
+- materoliaeth
+- Materyalismo
+- Materēlėzmos
+- matérialisme
+- Mbayo
+- Okusoosowaza ebyenfuna
+- Pêzewarî
+- Uyakinifu
+- Wanneettummaa
+- ábharachas
+- Ûi-bu̍t-lūn
+- Υλισμός
+- матеріалізм
+- Материјализам
+- Материализм
+- Материализъм
+- матэрыялізм
+- Մատերիալիզմ
+- מאטעריאליזם
+- מטריאליזם
+- ماتریالیزم
+- ماتریالیسم
+- ماتریاڵیزم
+- مادهباوری
+- مادية
+- ماديت پسندي
+- ماديه
+- مادیت
+- میٹیریلزم
+- भौतिकवाद
+- বস্তুবাদ
+- ਭੌਤਿਕਵਾਦ
+- பொருண்முதல் வாதம்
+- ഭൗതികവാദം
+- วัตถุนิยม
+- მატერიალიზმი
+- ቁስ አካላዊነት
+- 唯物主义
+- 唯物主義
+- 唯物論
+- 물질주의
 has_id_wikidata: Q7081
 Commons_category: Materialism
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~social,345367]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
-  - '[[_Standards/WikiData/WD~ontology,44325]]'
+- '[[_Standards/WikiData/WD~social,345367]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~ontology,44325]]'
 instance_of: '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
 opposite_of: '[[_Standards/WikiData/WD~idealism,33442]]'
 part_of: '[[_Standards/WikiData/WD~monism,178801]]'
+dv_has_:
+  name_:
+    af: materialisme
+    am: ቁስ አካላዊነት
+    an: Materialismo
+    ar: مادية
+    arz: ماديه
+    as: বস্তুবাদ
+    ast: Materialismu
+    az: Materializm
+    azb: ماتریالیزم
+    ba: Материализм
+    bar: Materialismus
+    be: матэрыялізм
+    be-tarask: матэрыялізм
+    bg: Материализъм
+    bjn: Materialisme
+    bn: বস্তুবাদ
+    br: Danvezelouriezh
+    bs: Materijalizam
+    btm: Materialisme
+    ca: materialisme
+    ce: Материализм
+    ckb: ماتریاڵیزم
+    crh: Maddecilik
+    cs: materialismus
+    cy: materoliaeth
+    da: Materialisme
+    de: Materialismus
+    el: Υλισμός
+    en: materialism
+    en-ca: Materialism
+    en-gb: materialism
+    eo: materiismo
+    es: materialismo
+    et: materialism
+    eu: Materialismo
+    fa: مادهباوری
+    fi: materialismi
+    fr: matérialisme
+    ga: ábharachas
+    gan: 唯物主義
+    gl: materialismo
+    gsw: Materialismus
+    he: מטריאליזם
+    hi: भौतिकवाद
+    hif: Materialism
+    hr: Materijalizam
+    hu: materializmus
+    hy: Մատերիալիզմ
+    id: materialisme
+    ig: Akụkọndụ̀onye
+    ilo: materialismo
+    is: Efnishyggja
+    it: materialismo
+    ja: 唯物論
+    jv: Materialisme
+    ka: მატერიალიზმი
+    kaa: Materiyalizm
+    kk: Материализм
+    ko: 물질주의
+    ku: Pêzewarî
+    ky: Материализм
+    la: Materialismus
+    lg: Okusoosowaza ebyenfuna
+    lmo: Materialism
+    lt: materializmas
+    lv: Materiālisms
+    mg: Materialisma
+    min: Materialisme
+    mk: материјализам
+    ml: ഭൗതികവാദം
+    mn: Материализм
+    ms: Materialisme
+    mzn: ماتریالیسم
+    nan: Ûi-bu̍t-lūn
+    nb: materialisme
+    nds: Materialismus
+    nl: materialisme
+    nn: materialisme
+    oc: Materialisme
+    om: Wanneettummaa
+    pa: ਭੌਤਿਕਵਾਦ
+    pap: materialismo
+    pl: materializm
+    pms: Materialism
+    pnb: میٹیریلزم
+    pt: materialismo
+    pt-br: Materialismo
+    ro: materialism
+    ru: материализм
+    rue: Матеріалізм
+    sah: Материализм
+    sd: ماديت پسندي
+    se: materialisma
+    sgs: Materēlėzmos
+    sh: Materijalizam
+    sk: materializmus
+    sl: materializem
+    sma: materialisme
+    smj: materialissma
+    smn: materialism
+    sms: materialismm
+    sn: Mbayo
+    sq: Materializmi
+    sr: Материјализам
+    sv: materialism
+    sw: Uyakinifu
+    ta: பொருண்முதல் வாதம்
+    tg: Материализм
+    th: วัตถุนิยม
+    tl: Materyalismo
+    tr: maddecilik
+    tt: материализм
+    udm: материализм
+    uk: матеріалізм
+    ur: مادیت
+    uz: Materializm
+    vep: Materializm
+    vi: Chủ nghĩa duy vật
+    war: Materyalismo
+    wuu: 唯物主义
+    yi: מאטעריאליזם
+    yue: 唯物論
+    zh: 唯物主義
+    zh-hant: 唯物主義
+    zh-hk: 唯物主義
 ---
-
 # [[Materialism]] 
 
 #has_/complement :: [[Idealism]] 

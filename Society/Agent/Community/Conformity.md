@@ -1,31 +1,145 @@
 ---
 aliases:
-  - Conformity
-  - conformism
-  - Konformität
-  - Konformismus
+- conformidad
+- conformidade
+- conformidá
+- conformism
+- conformisme
+- conformismo
+- conformitat
+- conformitate
+- Conformity
+- convenientia
+- keakuran
+- konformeco
+- konformism
+- Konformismus
+- konformisuus
+- konformita
+- konformitas
+- konformitate
+- konformitet
+- konformitás
+- Konformität
+- konformitāte
+- konformizam
+- konformizm
+- konformizmas
+- konformizmus
+- konformnost
+- konformsus
+- oiriúnú
+- uydumculuk
+- Κομφορμισμός
+- канфармізм
+- конформізм
+- конформизам
+- Конформизм
+- Конформизъм
+- конформность
+- Կոնֆորմիզմ
+- קונפורמיות
+- آمادگی
+- الامتثال
+- همنوایی
+- کأکورن
+- अनुरूपता
+- প্রথানুবর্তিতা
+- ਅਨੁਮਤੀ
+- การคล้อยตาม
+- 从众
+- 同調
+- 埋堆
+- 從眾行為
+- 동조
 has_id_wikidata: Q221284
 different_from:
-  - '[[_Standards/WikiData/WD~conformal_map,850275]]'
-  - '[[_Standards/WikiData/WD~obedience,1456974]]'
-  - '[[_Standards/WikiData/WD~conformance,98109670]]'
+- '[[_Standards/WikiData/WD~conformal_map,850275]]'
+- '[[_Standards/WikiData/WD~obedience,1456974]]'
+- '[[_Standards/WikiData/WD~conformance,98109670]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~dissent,1991663]]'
-  - '[[_Standards/WikiData/WD~anticonformism,2621062]]'
-  - '[[_Standards/WikiData/WD~nonconformism,122363677]]'
+- '[[_Standards/WikiData/WD~dissent,1991663]]'
+- '[[_Standards/WikiData/WD~anticonformism,2621062]]'
+- '[[_Standards/WikiData/WD~nonconformism,122363677]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Conformity,7646700]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~adaptation,12761867]]'
-  - '[[_Standards/WikiData/WD~organizational_behavior,19483216]]'
+- '[[_Standards/WikiData/WD~adaptation,12761867]]'
+- '[[_Standards/WikiData/WD~organizational_behavior,19483216]]'
 OmegaWiki_Defined_Meaning: 855343
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/DWR%20Colours%2C%20Erquinghem%20Lys%2C%20France%20%28RLH%29%202005-11-12-2.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Khmer%20Public%20Schools%20uniform.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/DWR%20Colours%2C%20Erquinghem%20Lys%2C%20France%20%28RLH%29%202005-11-12-2.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Khmer%20Public%20Schools%20uniform.jpeg
 UMLS_CUI: C0037404
 Commons_category: Conformity
 MeSH_tree_code: F01.145.813.625
+dv_has_:
+  name_:
+    ar: الامتثال
+    ast: conformidá
+    az: konformizm
+    be: канфармізм
+    be-tarask: канфармізм
+    bg: Конформизъм
+    bn: প্রথানুবর্তিতা
+    ca: conformitat
+    cs: konformita
+    da: konformitet
+    de: Konformität
+    de-ch: Konformität
+    el: Κομφορμισμός
+    en: conformity
+    en-ca: conformity
+    en-gb: conformity
+    eo: konformeco
+    es: conformidad
+    et: konformsus
+    eu: konformitate
+    fa: همنوایی
+    fi: konformisuus
+    fr: conformisme
+    ga: oiriúnú
+    gl: conformidade
+    he: קונפורמיות
+    hi: अनुरूपता
+    hr: konformizam
+    hu: konformitás
+    hy: Կոնֆորմիզմ
+    id: konformitas
+    it: conformismo
+    ja: 同調
+    kk: Конформизм
+    ko: 동조
+    ky: Конформизм
+    la: convenientia
+    lt: konformizmas
+    lv: konformitāte
+    ms: keakuran
+    ms-arab: کأکورن
+    nb: konformitet
+    nl: conformisme
+    nn: konformitet
+    pa: ਅਨੁਮਤੀ
+    pl: konformizm
+    pnb: آمادگی
+    pt: conformidade
+    pt-br: conformidade
+    ro: conformitate
+    ru: конформность
+    sh: konformizam
+    sk: konformizmus
+    sl: konformnost
+    sr: конформизам
+    sr-ec: конформизам
+    sr-el: konformizam
+    sv: konformism
+    th: การคล้อยตาม
+    tr: uydumculuk
+    uk: конформізм
+    uz: Konformizm
+    yue: 埋堆
+    zh: 從眾行為
+    zh-cn: 从众
 ---
-
 # [[Conformity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conformity,221284|WD~Conformity,221284]] 

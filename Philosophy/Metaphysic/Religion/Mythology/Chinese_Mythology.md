@@ -1,10 +1,59 @@
 ---
 aliases:
-  - Chinese Mythology
-  - 中國神話
-  - 中国神话
-  - Zhōngguó shénhuà
-  - Chinese_Mythology
+- Chinese mythologie
+- Chinese Mythology
+- Chinese_Mythology
+- Chinesische Mythologie
+- Die chinesischi Müthologii
+- kiinalainen mytologia
+- kinesisk mytologi
+- Kineska mitologija
+- Kinų mitologija
+- kitajska mitologija
+- kínai mitológia
+- Mitologi Tiongkok
+- mitologia chinesa
+- mitologia chińska
+- mitologia cinese
+- mitologia xinesa
+- Mitologie chineză
+- Mitologjia kineze
+- mitología china
+- mitolohiyang Tsino
+- Mitoloxía china
+- mitoloxía chinesa
+- Mitos Cina
+- mythologie chinoise
+- nu zhong-guo a micidekay a kungku
+- Thần thoại Trung Hoa
+- Txinatar mitologia
+- Xitoy mifologiyasi
+- Zhōngguó shénhuà
+- Çin mifologiyası
+- Çin mitolojisi
+- ĉina mitologio
+- čínská mytologie
+- ķīniešu mitoloģija
+- Κινεζική μυθολογία
+- кинеска митологија
+- Китай халаплӑхӗ
+- Китайска митология
+- китайская мифология
+- китайська міфологія
+- אגדות סיניות
+- أساطير صينية
+- ئوستوورەناسیی چینی
+- اساطیر چین
+- جۇڭگو ئەپسانىلىرى
+- چینی اساطیر
+- চীনা পুরাণ
+- চীনা শ্ৰুতিকথা
+- တရုတ်ဒဏ္ဍာရီ
+- ჩინური მითოლოგია
+- 中国神話
+- 中国神话
+- 中國神話
+- 중국 신화
 has_id_wikidata: Q210677
 culture: '[[_Standards/WikiData/WD~Chinese_culture,645917]]'
 part_of: '[[_Standards/WikiData/WD~Chinese_folklore,837463]]'
@@ -14,12 +63,78 @@ instance_of: '[[_Standards/WikiData/WD~mythology_of_an_area,20794493]]'
 facet_of: '[[_Standards/WikiData/WD~Chinese_civilization,25558247]]'
 subclass_of: '[[_Standards/WikiData/WD~Asian_mythology,113773140]]'
 country:
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous-Fuxi%20and%20N%C3%BCwa.jpg
 Commons_category: Mythology of China
+dv_has_:
+  name_:
+    ar: أساطير صينية
+    as: চীনা শ্ৰুতিকথা
+    ast: Mitoloxía china
+    az: Çin mifologiyası
+    bg: Китайска митология
+    bn: চীনা পুরাণ
+    ca: mitologia xinesa
+    ckb: ئوستوورەناسیی چینی
+    cs: čínská mytologie
+    cv: Китай халаплӑхӗ
+    da: kinesisk mytologi
+    de: Chinesische Mythologie
+    el: Κινεζική μυθολογία
+    en: Chinese mythology
+    eo: ĉina mitologio
+    es: mitología china
+    eu: Txinatar mitologia
+    fa: اساطیر چین
+    fi: kiinalainen mytologia
+    fr: mythologie chinoise
+    gl: mitoloxía chinesa
+    gsw: Die chinesischi Müthologii
+    he: אגדות סיניות
+    hr: Kineska mitologija
+    hu: kínai mitológia
+    id: Mitologi Tiongkok
+    it: mitologia cinese
+    ja: 中国神話
+    ka: ჩინური მითოლოგია
+    ko: 중국 신화
+    lt: Kinų mitologija
+    lv: ķīniešu mitoloģija
+    mk: кинеска митологија
+    ms: Mitos Cina
+    my: တရုတ်ဒဏ္ဍာရီ
+    nb: Kinesisk mytologi
+    nl: Chinese mythologie
+    oc: mitologia chinesa
+    pl: mitologia chińska
+    pt: mitologia chinesa
+    ro: Mitologie chineză
+    ru: китайская мифология
+    sh: Kineska mitologija
+    sl: kitajska mitologija
+    sq: Mitologjia kineze
+    sr: кинеска митологија
+    sr-ec: Кинеска митологија
+    sr-el: Kineska mitologija
+    sv: kinesisk mytologi
+    szy: nu zhong-guo a micidekay a kungku
+    tl: mitolohiyang Tsino
+    tr: Çin mitolojisi
+    ug: جۇڭگو ئەپسانىلىرى
+    uk: китайська міфологія
+    ur: چینی اساطیر
+    uz: Xitoy mifologiyasi
+    vi: Thần thoại Trung Hoa
+    yue: 中國神話
+    zh: 中國神話
+    zh-cn: 中国神话
+    zh-hans: 中国神话
+    zh-hant: 中國神話
+    zh-hk: 中國神話
+    zh-sg: 中国神话
+    zh-tw: 中國神話
 ---
-
 # [[Chinese_Mythology]] 
 
 #is_/same_as :: [[Chinese Mythology,210677]]

@@ -1,15 +1,140 @@
 ---
 aliases:
+- Bideo-jokoen banatzaile
+- computerspeluitgever
+- Computerspiele-Publisher
+- computerspilsudgiver
+- cyhoeddwr gemau fideo
+- Dataspelutgjevar
+- datorspelsförlag
+- datorspēļu izdevējs
+- distribuidora de videojuegos
+- distribuidora de videoxogos
+- distribuidora de videoxuegos
+- editor de videojocs
+- editore di videogiochi
+- editură de jocuri video
+- embanner c'hoarioù video
+- foilsitheoir físchluichí
+- hãng phát hành trò chơi điện tử
+- izdavač videoigara
+- penerbit permainan video
+- publicadora de jogos eletrónicos
+- publicadora de jogos eletrônicos
+- Tagapaglathala ng bidyong laro
+- video game publisher
+- Video o'yinlar nashriyotchisi
+- Video oyun nəşrçisi
+- Video oyunu yayımcısı
+- videoluda eldonejo
+- videopelijulkaisija
+- videospeletjie-uitgewer
+- videospillutgiver
+- videójáték-kiadó
+- vydavatel videoher
+- wydawca gier komputerowych
+- založba videoiger
+- éditeur de jeux vidéo
+- видавець відеоігор
+- выдавец відэагульняў
+- издавач видео-игре
+- Издавач на видеоигри
+- издатель компьютерных игр
+- компьютер уеннары нәшрияте
+- համակարգչային խաղերի հրատարակիչ
+- מפיץ משחקי וידאו
+- بڵاوکەرەوەی کایەی ڤیدیۆیی
+- ناشر بازی ویدئویی
+- ناشر لعبة فيديو
+- ناشر وڈیو گیم
+- ويډيو ګيم خپروونکی
+- ڤنربيت ڤرماءينن ۏيديو
+- ผู้ผลิตวีดิโอเกม
+- ვიდეო თამაშების გამომცემელი
+- ゲームパブリッシャー (組織)
+- 游戏发行商
+- 电子游戏发行商
+- 遊戲發行商
+- 電子遊戲發行商
+- 비디오 게임 퍼블리셔
 has_id_wikidata: Q1137109
-different_from: "[[_Standards/WikiData/WD~video_game_developer,210167]]"
-industry: "[[_Standards/WikiData/WD~video_game_industry,941594]]"
-has_list: "[[_Standards/WikiData/WD~list_of_video_game_publishers,1053990]]"
+different_from: '[[_Standards/WikiData/WD~video_game_developer,210167]]'
+industry: '[[_Standards/WikiData/WD~video_game_industry,941594]]'
+has_list: '[[_Standards/WikiData/WD~list_of_video_game_publishers,1053990]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~business,4830453]]"
-  - "[[_Standards/WikiData/WD~software_publisher,7554349]]"
-  - "[[_Standards/WikiData/WD~video_game_company,112042224]]"
+- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~software_publisher,7554349]]'
+- '[[_Standards/WikiData/WD~video_game_company,112042224]]'
+dv_has_:
+  name_:
+    af: videospeletjie-uitgewer
+    ar: ناشر لعبة فيديو
+    ast: distribuidora de videoxuegos
+    az: Video oyun nəşrçisi
+    be-tarask: выдавец відэагульняў
+    br: embanner c'hoarioù video
+    bs: izdavač videoigara
+    ca: editor de videojocs
+    ckb: بڵاوکەرەوەی کایەی ڤیدیۆیی
+    cs: vydavatel videoher
+    cy: cyhoeddwr gemau fideo
+    da: computerspilsudgiver
+    de: Computerspiele-Publisher
+    en: video game publisher
+    en-us: video game publisher
+    eo: videoluda eldonejo
+    es: distribuidora de videojuegos
+    eu: Bideo-jokoen banatzaile
+    fa: ناشر بازی ویدئویی
+    fi: videopelijulkaisija
+    fr: éditeur de jeux vidéo
+    ga: foilsitheoir físchluichí
+    gl: distribuidora de videoxogos
+    he: מפיץ משחקי וידאו
+    hu: videójáték-kiadó
+    hy: համակարգչային խաղերի հրատարակիչ
+    id: Penerbit permainan video
+    it: editore di videogiochi
+    ja: ゲームパブリッシャー (組織)
+    ka: ვიდეო თამაშების გამომცემელი
+    ko: 비디오 게임 퍼블리셔
+    lv: datorspēļu izdevējs
+    mk: Издавач на видеоигри
+    ms: penerbit permainan video
+    ms-arab: ڤنربيت ڤرماءينن ۏيديو
+    nb: videospillutgiver
+    nl: computerspeluitgever
+    nn: Dataspelutgjevar
+    pl: wydawca gier komputerowych
+    ps: ويډيو ګيم خپروونکی
+    pt: publicadora de jogos eletrónicos
+    pt-br: publicadora de jogos eletrônicos
+    ro: editură de jocuri video
+    ru: издатель компьютерных игр
+    sl: založba videoiger
+    sr: издавач видео-игре
+    sv: datorspelsförlag
+    th: ผู้ผลิตวีดิโอเกม
+    tl: Tagapaglathala ng bidyong laro
+    tr: Video oyunu yayımcısı
+    tt: компьютер уеннары нәшрияте
+    tt-cyrl: компьютер уеннары нәшрияте
+    uk: видавець відеоігор
+    ur: ناشر وڈیو گیم
+    uz: Video o'yinlar nashriyotchisi
+    vi: hãng phát hành trò chơi điện tử
+    wuu: 电子游戏发行商
+    yue: 遊戲發行商
+    zh: 電子遊戲發行商
+    zh-cn: 电子游戏发行商
+    zh-hans: 游戏发行商
+    zh-hant: 遊戲發行商
+    zh-hk: 電子遊戲發行商
+    zh-mo: 遊戲發行商
+    zh-my: 游戏发行商
+    zh-sg: 游戏发行商
+    zh-tw: 電子遊戲發行商
 ---
-
 # [[Video_Game_Publisher]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~video_game_publisher,1137109]] 

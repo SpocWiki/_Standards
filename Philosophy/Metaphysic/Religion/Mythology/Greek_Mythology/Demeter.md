@@ -1,8 +1,147 @@
 ---
 aliases:
-  - Deo
-  - Demeter
+- Demeter
+- Demetra
+- Demetèr
+- Demèter
+- Deméter
+- Deo
+- Déiméitéir
+- Déméter
+- Démétér
+- Dêmêtra
+- Dēmetra
+- Δήμητρα
+- Деметрæ
+- Деметра
+- Дэметра
+- Дэмэтра
+- Դեմետրա
+- דמטר
+- دمتر
+- ديميتر
+- دِيمِتَر
+- دیمیتیر
+- डिमिटर
+- डिमीटर
+- ডিমিটাৰ
+- দেমেতের
+- ਡੇਮੀਟਰ
+- டெமட்டர்
+- ഡിമീറ്റർ
+- ඩිමීටර්
+- ดิมีเทอร์
+- ဒစ်မီးတာ
+- დემეტრა
+- デーメーテール
+- 得墨忒耳
+- 得茉忒薾
+- 狄蜜特
+- ꯗꯦꯃꯤꯇꯔ
+- 데메테르
 has_id_wikidata: Q40730
+dv_has_:
+  name_:
+    af: Demeter
+    an: Deméter
+    ar: دِيمِتَر
+    arz: ديميتر
+    as: ডিমিটাৰ
+    ast: Deméter
+    az: Demetra
+    ba: Деметра
+    bar: Demeter
+    bcl: Demeter
+    be: Дэметра
+    be-tarask: Дэмэтра
+    bg: Деметра
+    bn: দেমেতের
+    br: Demeter
+    bs: Demetra
+    ca: Demèter
+    cs: Démétér
+    cy: Demeter
+    da: Demeter
+    de: Demeter
+    el: Δήμητρα
+    en: Demeter
+    eo: Demetra
+    es: Deméter
+    et: Demeter
+    eu: Demeter
+    fa: دیمیتیر
+    fi: Demeter
+    fr: Déméter
+    ga: Déiméitéir
+    gl: Deméter
+    grc: Δήμητρα
+    gsw: Demeter
+    he: דמטר
+    hi: डिमीटर
+    hr: Demetra
+    hu: Démétér
+    hy: Դեմետրա
+    id: Demeter
+    ie: Demeter
+    io: Demeter
+    is: Demetra
+    it: Demetra
+    ja: デーメーテール
+    jv: Demeter
+    ka: დემეტრა
+    kk: Деметра
+    ko: 데메테르
+    ku: Dêmêtra
+    ku-latn: Dêmêtra
+    la: Demeter
+    lb: Demeter
+    lt: Demetra
+    lv: Dēmetra
+    mk: Деметра
+    ml: ഡിമീറ്റർ
+    mni: ꯗꯦꯃꯤꯇꯔ
+    mr: डिमिटर
+    ms: Demeter
+    my: ဒစ်မီးတာ
+    mzn: دمتر
+    nan: Demeter
+    nb: Demeter
+    nds: Demeter
+    nl: Demeter
+    nn: Demeter
+    oc: Demetèr
+    os: Деметрæ
+    pa: ਡੇਮੀਟਰ
+    pl: Demeter
+    ps: ديميتر
+    pt: Deméter
+    ro: Demetra
+    ru: Деметра
+    scn: Demetra
+    sco: Demeter
+    sh: Demetra
+    si: ඩිමීටර්
+    sk: Démétér
+    sl: Demetra
+    sq: Demetra
+    sr: Деметра
+    sv: Demeter
+    sw: Demetra
+    ta: டெமட்டர்
+    th: ดิมีเทอร์
+    tl: Demeter
+    tr: Demeter
+    tt: Demetra
+    uk: Деметра
+    uz: Demetra
+    vep: Demetra
+    vi: Demeter
+    war: Demeter
+    wuu: 得墨忒耳
+    yue: 得茉忒薾
+    zh: 得墨忒耳
+    zh-cn: 得墨忒耳
+    zh-tw: 狄蜜特
 ---
 # [[Demeter]] 
 

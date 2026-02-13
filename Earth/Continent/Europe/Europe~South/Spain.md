@@ -1,32 +1,206 @@
 ---
 aliases:
-  - Spain
-  - España
-  - Espagne
-  - إسبانيا
-  - 西班牙
-  - Испания
-  - the Kingdom of Spain
-  - el Reino de España
+- An Spàinn
+- an Spáinn
+- Dibé Diníí Bikéyah
+- el Reino de España
+- Epaainya
+- Esipanye
+- Espagne
+- Espaina
+- Espainia
+- Espana
+- Espangne
+- Espanha
+- Espania
+- Espanja
+- Espanne
+- Espanya
+- Espay
+- España
+- Espánnja
+- Espânye
+- Hispaania
+- Hispaanya
+- Hispania
+- Hispanio
+- Hiszpania
+- Isbania
+- Ispaañ
+- Ispagna
+- ISpain
+- Ispania
+- Ispanii
+- Ispanija
+- Ispanijə
+- Ispaniya
+- Ispaniye
+- Ispaniýa
+- Ispanėjė
+- Ispaña
+- Ispeen
+- ISpeyini
+- Ispuanii
+- Kaxtillan
+- ma Epanja
+- Pain
+- Paniora
+- Pāniora
+- sangu'e
+- Sbaen
+- Schpaani
+- Se-pan-gâ
+- Sepania
+- Sepanyol
+- Sepeni
+- Seupanyo
+- Sihbanhyaz
+- Sipen
+- Sipeni
+- Sipeyini
+- Si̱pen
+- Spaania
+- Spaggna
+- Spagn
+- Spagna
+- Spagne
+- Spain
+- Spaneja
+- Spanha
+- Spania
+- Spanie
+- Spanien
+- Spaniya
+- Spanja
+- Spanje
+- Spanya
+- Spanyol
+- Spanyolország
+- Spanyorokondre
+- Spanyän
+- Spayn
+- Spaña
+- Spen
+- Spenyul
+- Spien
+- Spoonien
+- Spuenien
+- Spàgna
+- Spánn
+- Spánsska
+- Spéìn
+- Spānija
+- Spāņmō
+- Spēonland
+- Szpańijo
+- Szpańskô
+- Sî-pân-ngà
+- Să̤-băng-ngà
+- the Kingdom of Spain
+- Tây Ban Nha
+- y Spaainey
+- Èspagne
+- Èspangn
+- İspaniya
+- İspanya
+- Španielsko
+- Španija
+- Španiska
+- Španjolska
+- Španělsko
+- Špańska
+- Špānija
+- Ɛsipaɲi
+- Ɛsɩpaañɩ
+- Ισπανία
+- Іспанія
+- Їспанїꙗ
+- Гішпанія
+- Испани
+- Испаниа
+- Испание
+- Испаний
+- Испания
+- Испания Мастор
+- Испониё
+- Шпанија
+- Эспаниэ
+- Эспанмудин Нутг
+- Эспання
+- Իսպանիա
+- Սպանիա
+- ספרד
+- שפּאַניע
+- إسبانيا
+- ئیسپانیا
+- اسبانيا
+- اسپانیا
+- اسپين
+- اسپین
+- ايسپانيا
+- ایسپانیا
+- سبانيا
+- سپانيا
+- سپین
+- سڤاڽول
+- ہسپانیہ
+- ہِسپٲنِیا
+- ܐܣܦܢܝܐ
+- އިސްޕެއިން
+- ߊߛߌߔߊ߲߫
+- स्पेन
+- स्पेन्
+- স্পেইন
+- স্পেন
+- ਸਪੇਨ
+- સ્પેન
+- ସ୍ପେନ
+- எசுப்பானியா
+- స్పెయిన్
+- ಸ್ಪೇನ್
+- സ്പെയിൻ
+- ස්පාඤ්ඤය
+- ประเทศสเปน
+- ແອັດສະປາຍ
+- ཞི་པན་ཡ།
+- སིཔཱེན་
+- စပိန်နိုင်ငံ
+- မိူင်းသပဵၼ်ႇ
+- ესპანეთი
+- ስጳኛ
+- እስፓንያ
+- ᏍᏆᏂᏱ
+- ᓯᐸᐃᓐ
+- អេស្ប៉ាញ
+- ᱮᱥᱯᱮᱱ
+- Ṣbanya
+- Ἱσπανία
+- ⵚⴱⴰⵏⵢⴰ
+- スペイン
+- 西班牙
+- ꯁ꯭ꯄꯦꯟ
+- 스페인
+- 에스빠냐
+- "\U00010337\U00010334\U00010339\U00010343\U00010340\U00010330\U0001033D\U0001033E\U00010330"
 has_id_wikidata: Q29
 age_of_candidacy: 18
 age_of_consent: 16
 age_of_majority: 18
-anthem: "[[_Standards/WikiData/WD~Marcha_Real,130940]]"
+anthem: '[[_Standards/WikiData/WD~Marcha_Real,130940]]'
 area: 505990
 Baidu_Tieba_name: 西班牙
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]'
 BHCL_UUID: e2f8a55c-e941-4638-8f8b-5086aa7744f8
 birth_rate:
-  - 6.9
-  - 7.1
-  - 7.2
-  - 7.6
-capital: "[[_Standards/WikiData/WD~Madrid,2807]]"
+- 6.9
+- 7.1
+- 7.2
+- 7.6
+capital: '[[_Standards/WikiData/WD~Madrid,2807]]'
 CIVICUS_Monitor_country_entry: spain
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kingdom_of_Spain,170600]]"
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Kingdom_of_Spain,170600]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Espa%C3%B1a%20%28variant%29.svg
-coextensive_with: "[[_Standards/WikiData/WD~Spain,16254367]]"
+coextensive_with: '[[_Standards/WikiData/WD~Spain,16254367]]'
 Colon_Classification: SG--541
 Commons_category: Spain
 Commons_gallery: España
@@ -34,206 +208,206 @@ compulsory_education_maximum_age_: 16
 compulsory_education_minimum_age_: 6
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~plazas_de_soberanía,191011]]"
-  - "[[_Standards/WikiData/WD~Balearic_Islands,107356467]]"
-  - "[[_Standards/WikiData/WD~Galicia,3908]]"
-  - "[[_Standards/WikiData/WD~Asturias,3934]]"
-  - "[[_Standards/WikiData/WD~Cantabria,3946]]"
-  - "[[_Standards/WikiData/WD~Basque_Autonomous_Community,3995]]"
-  - "[[_Standards/WikiData/WD~Navarre,4018]]"
-  - "[[_Standards/WikiData/WD~Aragon,4040]]"
-  - "[[_Standards/WikiData/WD~Catalonia,5705]]"
-  - "[[_Standards/WikiData/WD~Valencian_Community,5720]]"
-  - "[[_Standards/WikiData/WD~La_Rioja,5727]]"
-  - "[[_Standards/WikiData/WD~Castile_and_León,5739]]"
-  - "[[_Standards/WikiData/WD~Castilla_La_Mancha,5748]]"
-  - "[[_Standards/WikiData/WD~Community_of_Madrid,5756]]"
-  - "[[_Standards/WikiData/WD~Region_of_Murcia,5772]]"
-  - "[[_Standards/WikiData/WD~Extremadura,5777]]"
-  - "[[_Standards/WikiData/WD~Andalusia,5783]]"
-  - "[[_Standards/WikiData/WD~Canary_Islands,5813]]"
-  - "[[_Standards/WikiData/WD~Ceuta,5823]]"
-  - "[[_Standards/WikiData/WD~Melilla,5831]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~plazas_de_soberanía,191011]]'
+- '[[_Standards/WikiData/WD~Balearic_Islands,107356467]]'
+- '[[_Standards/WikiData/WD~Galicia,3908]]'
+- '[[_Standards/WikiData/WD~Asturias,3934]]'
+- '[[_Standards/WikiData/WD~Cantabria,3946]]'
+- '[[_Standards/WikiData/WD~Basque_Autonomous_Community,3995]]'
+- '[[_Standards/WikiData/WD~Navarre,4018]]'
+- '[[_Standards/WikiData/WD~Aragon,4040]]'
+- '[[_Standards/WikiData/WD~Catalonia,5705]]'
+- '[[_Standards/WikiData/WD~Valencian_Community,5720]]'
+- '[[_Standards/WikiData/WD~La_Rioja,5727]]'
+- '[[_Standards/WikiData/WD~Castile_and_León,5739]]'
+- '[[_Standards/WikiData/WD~Castilla_La_Mancha,5748]]'
+- '[[_Standards/WikiData/WD~Community_of_Madrid,5756]]'
+- '[[_Standards/WikiData/WD~Region_of_Murcia,5772]]'
+- '[[_Standards/WikiData/WD~Extremadura,5777]]'
+- '[[_Standards/WikiData/WD~Andalusia,5783]]'
+- '[[_Standards/WikiData/WD~Canary_Islands,5813]]'
+- '[[_Standards/WikiData/WD~Ceuta,5823]]'
+- '[[_Standards/WikiData/WD~Melilla,5831]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 coordinates_of_easternmost_point:
-  - Point(3.322194444 42.3195)
-  - Point(4.327 39.876722222)
+- Point(3.322194444 42.3195)
+- Point(4.327 39.876722222)
 coordinates_of_northernmost_point:
-  - Point(-7.6905 43.792222222)
-  - Point(-7.689277777 43.791222222)
+- Point(-7.6905 43.792222222)
+- Point(-7.689277777 43.791222222)
 coordinates_of_southernmost_point:
-  - Point(-17.980833333 27.641944444)
-  - Point(-5.610388888 36.000194444)
+- Point(-17.980833333 27.641944444)
+- Point(-5.610388888 36.000194444)
 coordinates_of_westernmost_point:
-  - Point(-9.297888888 42.923194444)
-  - Point(-18.133333 27.704167)
+- Point(-9.297888888 42.923194444)
+- Point(-18.133333 27.704167)
 coordinate_location: Point(-3.5 40.2)
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 country_calling_code: 34
 cssclasses:
-  - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Spain,1327022]]"
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_Spain,1327022]]'
 death_rate:
-  - 8.8
-  - 9.5
-  - 9.7
-  - 10.4
+- 8.8
+- 9.5
+- 9.7
+- 10.4
 Democracy_Index: 8.12
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Spain,1987080]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Spain,1987080]]'
 demonym:
-  - إسبان
-  - إسباني
-  - española
-  - испански
-  - স্পেনীয়
-  - Spanierin
-  - spanisch
-  - hispano
-  - española
-  - españolas
-  - españoles
-  - españois
-  - españolas
-  - ספרדי
-  - ספרדייה
-  - Hispaniano
-  - spagnola
-  - spagnole
-  - spagnoli
-  - espanhola
-  - spaniol
-  - spanioli
-  - испанец
-  - испанцы
-  - іспанець
-  - іспанка
-  - іспанці
-  - spagnoła
-  - spagnołe
-  - spagnołi
-  - spagnoło
-  - Spanyänan
-  - Spáinneach
-  - صبليون
-  - صبليوني
-  - صبليونيات
-  - Španec
-  - Španka
-  - испанка
-  - español
-  - espanyola
-  - española
-  - Espagnole
-  - Spanish
-  - Spanier
-  - إسبانية
-  - صبليونية
-  - español
-  - espanyol
-  - Espagnol
-  - español
-  - spanyol
-  - spagnolo
-  - espaniol
-  - espanhol
-  - spaniolă
-  - ہسپانوی
-  - spansk
-  - Spanjaard
+- إسبان
+- إسباني
+- española
+- испански
+- স্পেনীয়
+- Spanierin
+- spanisch
+- hispano
+- española
+- españolas
+- españoles
+- españois
+- españolas
+- ספרדי
+- ספרדייה
+- Hispaniano
+- spagnola
+- spagnole
+- spagnoli
+- espanhola
+- spaniol
+- spanioli
+- испанец
+- испанцы
+- іспанець
+- іспанка
+- іспанці
+- spagnoła
+- spagnołe
+- spagnołi
+- spagnoło
+- Spanyänan
+- Spáinneach
+- صبليون
+- صبليوني
+- صبليونيات
+- Španec
+- Španka
+- испанка
+- español
+- espanyola
+- española
+- Espagnole
+- Spanish
+- Spanier
+- إسبانية
+- صبليونية
+- español
+- espanyol
+- Espagnol
+- español
+- spanyol
+- spagnolo
+- espaniol
+- espanhol
+- spaniolă
+- ہسپانوی
+- spansk
+- Spanjaard
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
 Dewey_Decimal_Classification: 2--46
 different_from:
-  - "[[_Standards/WikiData/WD~Q9293058,9293058]]"
-  - "[[_Standards/WikiData/WD~Español,16775638]]"
+- '[[_Standards/WikiData/WD~Q9293058,9293058]]'
+- '[[_Standards/WikiData/WD~Español,16775638]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Malta,233]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Kiribati,710]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Jamaica,766]]"
-  - "[[_Standards/WikiData/WD~El_Salvador,792]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Kiribati,710]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Jamaica,766]]'
+- '[[_Standards/WikiData/WD~El_Salvador,792]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Spain,8050]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Spain,8050]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~091,25648910]]"
-  - "[[_Standards/WikiData/WD~061,25648909]]"
+- '[[_Standards/WikiData/WD~091,25648910]]'
+- '[[_Standards/WikiData/WD~061,25648909]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Basque_people,126756]]"
-  - "[[_Standards/WikiData/WD~Spaniards,160894]]"
-  - "[[_Standards/WikiData/WD~Catalans,244504]]"
-  - "[[_Standards/WikiData/WD~Galicians,752526]]"
-  - "[[_Standards/WikiData/WD~Romani_people,8060]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Spain,1194749]]"
-expiryDate: ""
+- '[[_Standards/WikiData/WD~Basque_people,126756]]'
+- '[[_Standards/WikiData/WD~Spaniards,160894]]'
+- '[[_Standards/WikiData/WD~Catalans,244504]]'
+- '[[_Standards/WikiData/WD~Galicians,752526]]'
+- '[[_Standards/WikiData/WD~Romani_people,8060]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Spain,1194749]]'
+expiryDate: ''
 Facebook_username: 060pag
 female_population:
-  - 24030201
-  - 24152012
-  - 24178936
-  - 24361595
+- 24030201
+- 24152012
+- 24178936
+- 24361595
 FIPS_10_4_countries_and_regions_: SP
-flag: "[[_Standards/WikiData/WD~flag_of_Spain,121688]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Spain,121688]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Spain,207461]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Spain,207461]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Spain.map
 Gini_coefficient: 34.3
 GitHub_topic: spain
@@ -241,42 +415,42 @@ Gregorian_calendar_start_date: 1582-10-15
 GS1_country_code: 840-849
 Happy_Planet_Index_score: 52.3
 hashtag: Spain
-has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Spain,3058576]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+has_cabinet: '[[_Standards/WikiData/WD~Council_of_Ministers_of_Spain,3058576]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~province_of_Spain,162620]]"
-  - "[[_Standards/WikiData/WD~municipality_of_Spain,2074737]]"
-  - "[[_Standards/WikiData/WD~autonomous_city_of_Spain,16532593]]"
-  - "[[_Standards/WikiData/WD~autonomous_community_of_Spain,10742]]"
-head_of_government: "[[_Standards/WikiData/WD~Q6070218,6070218]]"
-head_of_state: "[[_Standards/WikiData/WD~Felipe_VI_of_Spain,191045]]"
+- '[[_Standards/WikiData/WD~province_of_Spain,162620]]'
+- '[[_Standards/WikiData/WD~municipality_of_Spain,2074737]]'
+- '[[_Standards/WikiData/WD~autonomous_city_of_Spain,16532593]]'
+- '[[_Standards/WikiData/WD~autonomous_community_of_Spain,10742]]'
+head_of_government: '[[_Standards/WikiData/WD~Q6070218,6070218]]'
+head_of_state: '[[_Standards/WikiData/WD~Felipe_VI_of_Spain,191045]]'
 highest_judicial_authority:
-  - "[[_Standards/WikiData/WD~Constitutional_Court_of_Spain,1566394]]"
-  - "[[_Standards/WikiData/WD~Supreme_Court_of_Spain,19746]]"
-highest_point: "[[_Standards/WikiData/WD~Teide,38954]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Spain,7781]]"
+- '[[_Standards/WikiData/WD~Constitutional_Court_of_Spain,1566394]]'
+- '[[_Standards/WikiData/WD~Supreme_Court_of_Spain,19746]]'
+highest_point: '[[_Standards/WikiData/WD~Teide,38954]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Spain,7781]]'
 Human_Development_Index: 0.905
 IAB_code: 1412
 icon: flag-es
 inception:
-  - 1715
-  - 1978-12-29
-  - 1812-03-19
-  - 1931-12-09
-  - 1516-03-24
+- 1715
+- 1978-12-29
+- 1812-03-19
+- 1931-12-09
+- 1516-03-24
 Inequality_adjusted_Human_Development_Index: 0.788
 INSEE_countries_and_foreign_territories_code: 99134
 instance_of:
-  - "[[_Standards/WikiData/WD~realm,1250464]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~realm,1250464]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 IOC_country_code: ESP
 IPA_transcription:
-  - ˈspɑːnɪɑ
-  - ˈspeɪn
-  - esˈpaɲa
-  - ɪˈspanʲɪjə
+- ˈspɑːnɪɑ
+- ˈspeɪn
+- esˈpaɲa
+- ɪˈspanʲɪjə
 ISBN_identifier_group: 978-84
 isDeleted: false
 ISNI: 123243505
@@ -285,265 +459,265 @@ ISO_3166_1_alpha_3_code: ESP
 ISO_3166_1_numeric_code: 724
 isReadOnly: false
 ITU_letter_code: E
-keywords: ""
+keywords: ''
 Krugosvet_article: strany_mira/ISPANIYA.html
 Languages:
-  - es-ES
-  - ca
-  - gl
-  - eu
-  - oc
+- es-ES
+- ca
+- gl
+- eu
+- oc
 language_used:
-  - "[[_Standards/WikiData/WD~Fala,300402]]"
-  - "[[_Standards/WikiData/WD~Spanish_Sign_Language,3100814]]"
-  - "[[_Standards/WikiData/WD~Quinqui_jargon,5908714]]"
-  - "[[_Standards/WikiData/WD~Valencian_Sign_Language,32663]]"
-  - "[[_Standards/WikiData/WD~Caló,35466]]"
-  - "[[_Standards/WikiData/WD~Catalan_Sign_Language,35768]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~Catalan,7026]]"
-  - "[[_Standards/WikiData/WD~Basque,8752]]"
-  - "[[_Standards/WikiData/WD~Aragonese,8765]]"
-  - "[[_Standards/WikiData/WD~Galician,9307]]"
-  - "[[_Standards/WikiData/WD~Occitan,14185]]"
-  - "[[_Standards/WikiData/WD~Asturian,29507]]"
-  - "[[_Standards/WikiData/WD~Extremaduran,30007]]"
-layout: ""
-legislative_body: "[[_Standards/WikiData/WD~Cortes_Generales,219692]]"
+- '[[_Standards/WikiData/WD~Fala,300402]]'
+- '[[_Standards/WikiData/WD~Spanish_Sign_Language,3100814]]'
+- '[[_Standards/WikiData/WD~Quinqui_jargon,5908714]]'
+- '[[_Standards/WikiData/WD~Valencian_Sign_Language,32663]]'
+- '[[_Standards/WikiData/WD~Caló,35466]]'
+- '[[_Standards/WikiData/WD~Catalan_Sign_Language,35768]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Catalan,7026]]'
+- '[[_Standards/WikiData/WD~Basque,8752]]'
+- '[[_Standards/WikiData/WD~Aragonese,8765]]'
+- '[[_Standards/WikiData/WD~Galician,9307]]'
+- '[[_Standards/WikiData/WD~Occitan,14185]]'
+- '[[_Standards/WikiData/WD~Asturian,29507]]'
+- '[[_Standards/WikiData/WD~Extremaduran,30007]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~Cortes_Generales,219692]]'
 Libris_URI: 0xbddljj0wdngtx
 licence_plate_code: E
 license: CC BY-SA 4.0
 life_expectancy:
-  - 82.339179
-  - 83.189347
-  - 83.578674
-  - 82
-  - 83
-  - 84
-  - 83.33
-  - 78.71707
-  - 78.96585
-  - 79.36829
-  - 79.56829
-  - 79.61951
-  - 79.87073
-  - 80.17073
-  - 80.82195
-  - 80.87317
-  - 81.17561
-  - 81.47561
-  - 81.62683
-  - 82.42683
-  - 82.47561
-  - 82.83171
-  - 83.07805
-  - 83.22927
-linkTitle: ""
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
+- 82.339179
+- 83.189347
+- 83.578674
+- 82
+- 83
+- 84
+- 83.33
+- 78.71707
+- 78.96585
+- 79.36829
+- 79.56829
+- 79.61951
+- 79.87073
+- 80.17073
+- 80.82195
+- 80.87317
+- 81.17561
+- 81.47561
+- 81.62683
+- 82.42683
+- 82.47561
+- 82.83171
+- 83.07805
+- 83.22927
+linkTitle: ''
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Alboran_Sea,199408]]"
-  - "[[_Standards/WikiData/WD~Cantabrian_Sea,2090594]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+- '[[_Standards/WikiData/WD~Alboran_Sea,199408]]'
+- '[[_Standards/WikiData/WD~Cantabrian_Sea,2090594]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Europe_Madrid,5412114]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+- '[[_Standards/WikiData/WD~Europe_Madrid,5412114]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 location:
-  - 40.0911
-  - -2.86673
+- 40.0911
+- -2.86673
 location_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Spain%202%20location%20map.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20complete%20location%20map.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Spain%202%20location%20map.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20complete%20location%20map.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20on%20the%20globe%20%28Europe%20centered%29.svg
 M49_code: 724
 mains_voltage: 230
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Spain,4521133]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Spain,4521133]]'
 male_population:
-  - 23104636
-  - 23213643
-  - 23236858
-  - 23416745
+- 23104636
+- 23213643
+- 23236858
+- 23416745
 maritime_identification_digits:
-  - 224
-  - 225
+- 224
+- 225
 marriageable_age:
-  - 16
-  - 18
+- 16
+- 18
 median_income: 21959
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
-  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Organization_of_Ibero-American_States,421023]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~member_states_of_the_Organization_of_Ibero-American_States,5780539]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
-  - "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]'
+- '[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Organization_of_Ibero-American_States,421023]]'
+- '[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~member_states_of_the_Organization_of_Ibero-American_States,5780539]]'
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- '[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]'
+- '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
 MeSH_tree_code: Z01.542.846
 minimum_temperature_record: -30
 mobile_country_code: 214
-motto: "[[_Standards/WikiData/WD~Plus_ultra,1045726]]"
+motto: '[[_Standards/WikiData/WD~Plus_ultra,1045726]]'
 motto_text: Plus Ultra
-named_after: "[[_Standards/WikiData/WD~Hispania,186513]]"
+named_after: '[[_Standards/WikiData/WD~Hispania,186513]]'
 name_in_native_language:
-  - Espainiako Erresuma
-  - Reino de España
-  - Regne d'Espanya
-  - Reino de España
+- Espainiako Erresuma
+- Reino de España
+- Regne d'Espanya
+- Reino de España
 native_label: Reino de España
 nominal_GDP:
-  - 1397509272054
-  - 1427380681295
+- 1397509272054
+- 1427380681295
 nominal_GDP_per_capita: 29993.06
 number_of_out_of_school_children: 35822
 NUTS_code: ES
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Spain,844587]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Spain,3847454]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Spain,844587]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Monarch_of_Spain,3847454]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 official_name:
-  - Espainiako Erresuma
-  - Reino de España
-  - Regne d'Espanya
-  - Reino de España
-official_religion: "[[_Standards/WikiData/WD~non-denominational,7882536]]"
+- Espainiako Erresuma
+- Reino de España
+- Regne d'Espanya
+- Reino de España
+official_religion: '[[_Standards/WikiData/WD~non-denominational,7882536]]'
 official_website: https://administracion.gob.es/
 OmegaWiki_Defined_Meaning: 7965
-open_data_portal: "[[_Standards/WikiData/WD~Spain_open_data_portal,97285695]]"
+open_data_portal: '[[_Standards/WikiData/WD~Spain_open_data_portal,97285695]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cardej%C3%B3n%20banner1.jpg
 part_of:
-  - "[[_Standards/WikiData/WD~Pyrenees_Mediterranean_Euroregion,1849394]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-  - "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
+- '[[_Standards/WikiData/WD~Pyrenees_Mediterranean_Euroregion,1849394]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Spain,20820613]]"
-  - "[[_Standards/WikiData/WD~Spain,21287186]]"
-  - "[[_Standards/WikiData/WD~Spain,27131893]]"
-  - "[[_Standards/WikiData/WD~Q111535243,111535243]]"
+- '[[_Standards/WikiData/WD~Spain,20820613]]'
+- '[[_Standards/WikiData/WD~Spain,21287186]]'
+- '[[_Standards/WikiData/WD~Spain,27131893]]'
+- '[[_Standards/WikiData/WD~Q111535243,111535243]]'
 PM20_geo_code: A30
 population: 47415750
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Spuenien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B8%E0%AD%8D%E0%AC%AA%E0%AD%87%E0%AC%A8.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Spania.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Spuenien.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B8%E0%AD%8D%E0%AC%AA%E0%AD%87%E0%AC%A8.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Spania.wav
 public_holiday:
-  - "[[_Standards/WikiData/WD~Epiphany,132001]]"
-  - "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
-  - "[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Spanish_national_day,2745862]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
+- '[[_Standards/WikiData/WD~Epiphany,132001]]'
+- '[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]'
+- '[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Spanish_national_day,2745862]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~Christmas,19809]]'
 publish: true
-publishDate: ""
+publishDate: ''
 replaces:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442]]"
-  - "[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]"
-  - "[[_Standards/WikiData/WD~First_Spanish_Republic,497777]]"
-  - "[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]"
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Aragon,199442]]'
+- '[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]'
+- '[[_Standards/WikiData/WD~First_Spanish_Republic,497777]]'
+- '[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]'
 retirement_age: 65
 rural_population:
-  - 8932638
-  - 8982448
-  - 9089469
-  - 9160656
+- 8932638
+- 8982448
+- 9089469
+- 9160656
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Andorra,228]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Gibraltar,1410]]"
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Andorra,228]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Gibraltar,1410]]'
 short_name:
-  - 🇪🇸
-  - Espanya
-  - Spain
-  - España
-  - Spanien
-  - Espagne
-  - 西班牙
-  - Espanha
-  - スペイン
-  - Hiszpania
-  - Іспанія
-  - toki Epanja
-  - 스페인
+- "\U0001F1EA\U0001F1F8"
+- Espanya
+- Spain
+- España
+- Spanien
+- Espagne
+- 西班牙
+- Espanha
+- スペイン
+- Hiszpania
+- Іспанія
+- toki Epanja
+- 스페인
 significant_event:
-  - "[[_Standards/WikiData/WD~Spanish_Constitution_of_1812,1421412]]"
-  - "[[_Standards/WikiData/WD~Nueva_Planta_decrees,1990620]]"
+- '[[_Standards/WikiData/WD~Spanish_Constitution_of_1812,1421412]]'
+- '[[_Standards/WikiData/WD~Nueva_Planta_decrees,1990620]]'
 social_media_followers: 7430
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26889
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Espa%C3%B1a%201%20of%204-article.ogg
 studied_in:
-  - "[[_Standards/WikiData/WD~hispanism,1109432]]"
-  - "[[_Standards/WikiData/WD~Spanish_studies,94310568]]"
+- '[[_Standards/WikiData/WD~hispanism,1109432]]'
+- '[[_Standards/WikiData/WD~Spanish_studies,94310568]]'
 subreddit:
-  - es
-  - spain
+- es
+- spain
 tags:
-  - geo/Country
+- geo/Country
 title: Spain
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Spain,7158352]]"
-  - "[[_Standards/WikiData/WD~Template_Spain_topics,10975148]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Spain,3249424]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.es,37883]]"
+- '[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Spain,7158352]]'
+- '[[_Standards/WikiData/WD~Template_Spain_topics,10975148]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Spain,3249424]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.es,37883]]'
 total_fertility_rate: 1.27
 type: Country
 UIC_alphabetical_country_code: E
 UIC_numerical_country_code: 71
 UMLS_CUI: C0037747
 unemployment_rate: 16
-Unicode_character: 🇪🇸
+Unicode_character: "\U0001F1EA\U0001F1F8"
 urban_population:
-  - 37974181
-  - 38276186
-  - 38433346
-  - 38845702
+- 37974181
+- 38276186
+- 38433346
+- 38845702
 U_S_National_Archives_Identifier: 10035826
 VAT_rate: 21
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Spain,7112463]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Spain,7112463]]'
 WIPO_ST_3: ES
 Wolfram_Language_entity_code: Entity["Country", "Spain"]
 X_Twitter_username: 060gobes
@@ -559,23 +733,375 @@ dv_ISO2: ES
 dv_ISO3: ESP
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~South/Spain.protect|Spain.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~South/Spain.private|Spain.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]"
+  - '[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~South/Spain.protect|Spain.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~South/Spain.private|Spain.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]'
 dv_has_:
+  image_for_:
+    flag: '[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
+    coat_of_arms: '[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
   name_:
+    ab: Испаниа
+    ace: Seupanyo
+    acm: اسبانيا
+    ady: Испание
+    aeb-arab: إسبانيا
+    af: Spanje
+    am: እስፓንያ
+    ami: Spain
+    an: Espanya
+    ang: Spēonland
+    ann: Sipen
+    anp: स्पेन
+    ar: إسبانيا
+    arc: ܐܣܦܢܝܐ
+    arq: سبانيا
+    ary: سپانيا
+    arz: اسبانيا
+    as: স্পেইন
+    ast: España
+    av: Испания
+    avk: Espana
+    awa: स्पेन
+    ay: Ispaña
+    az: İspaniya
+    azb: ایسپانیا
+    ba: Испания
+    ban: Spanyol
+    bar: Spanien
+    bcl: Espanya
+    be: Іспанія
+    be-tarask: Гішпанія
+    bew: Spanyol
+    bg: Испания
+    bgn: اسپانیا
+    bho: स्पेन
+    bi: Spen
+    bm: Ɛsipaɲi
+    bn: স্পেন
+    bo: ཞི་པན་ཡ།
+    bpy: স্পেন
+    br: Spagn
+    bs: Španija
+    btm: Spanyol
+    bug: Spanyol
+    bxr: Испани
+    ca: Espanya
+    cbk-zam: España
+    cdo: Să̤-băng-ngà
+    ce: Испани
+    ceb: Espanya
+    ch: España
+    chr: ᏍᏆᏂᏱ
+    chy: Spain
+    ckb: ئیسپانیا
+    co: Spagna
+    crh: İspaniya
+    crh-latn: İspaniya
+    cs: Španělsko
+    csb: Szpańskô
+    cu: Їспанїꙗ
+    cv: Испани
+    cy: Sbaen
+    da: Spanien
+    dag: Spain
+    de: Spanien
+    de-at: Spanien
+    de-ch: Spanien
+    din: Spain
+    diq: İspanya
+    dsb: Špańska
+    dtp: Sepanyol
+    dty: स्पेन
+    dv: އިސްޕެއިން
+    dz: སིཔཱེན་
+    ee: Spain
+    el: Ισπανία
+    eml: Spaggna
+    en: Spain
+    en-ca: Spain
+    en-gb: Spain
+    eo: Hispanio
+    es: España
+    et: Hispaania
+    eu: Espainia
+    ext: España
+    fa: اسپانیا
+    ff: Hispaanya
+    fi: Espanja
+    fj: Sipeni
+    fo: Spania
+    fr: Espagne
+    frc: Espagne
+    frp: Èspagne
+    frr: Spoonien
+    fur: Spagne
+    fy: Spanje
+    ga: an Spáinn
+    gag: İspaniya
+    gan: 西班牙
+    gcr: Èspangn
+    gd: An Spàinn
+    gl: España
+    glk: ايسپانيا
+    gn: España
+    gom: स्पेन
+    gom-deva: स्पेन
+    gom-latn: Spain
+    got: "\U00010337\U00010334\U00010339\U00010343\U00010340\U00010330\U0001033D\U0001033E\U00010330"
+    gpe: Spain
+    grc: Ἱσπανία
+    gsw: Spanie
+    gu: સ્પેન
+    guc: Epaainya
+    gv: y Spaainey
+    ha: Ispaniya
+    hak: Sî-pân-ngà
+    haw: Sepania
+    he: ספרד
+    hi: स्पेन
+    hif: Spain
+    hr: Španjolska
+    hsb: Španiska
+    ht: Espay
+    hu: Spanyolország
+    hy: Իսպանիա
+    hyw: Սպանիա
+    ia: Espania
+    iba: Sepanyol
+    id: Spanyol
+    ie: Hispania
+    ig: Spain
+    ik: Spaña
+    ilo: Espania
+    inh: Испания
+    io: Hispania
+    is: Spánn
+    it: Spagna
+    iu: ᓯᐸᐃᓐ
+    ja: スペイン
+    jam: Spien
+    jbo: sangu'e
+    jv: Spanyol
+    ka: ესპანეთი
+    kaa: Ispaniya
+    kab: Spenyul
+    kbd: Эспаниэ
+    kbp: Ɛsɩpaañɩ
+    kcg: Si̱pen
+    kea: Spanha
+    kg: Espania
+    kge: Spanyol
+    kk: Испания
+    kl: Spania
+    km: អេស្ប៉ាញ
+    kn: ಸ್ಪೇನ್
+    knc: Spain
+    ko: 스페인
+    koi: Эспання
+    ko-kp: 에스빠냐
+    krc: Испания
+    krj: Espanya
+    ks: ہِسپٲنِیا
+    ku: Spanya
+    kv: Испания
+    kw: Spayn
+    ky: Испания
+    la: Hispania
+    lad: Espanya
+    lb: Spuenien
+    lbe: Испания
+    lez: Испания
+    lfn: Espania
+    lg: Spain
+    li: Spanje
+    lij: Spàgna
+    liv: Spāņmō
+    lld: Spania
+    lmo: Spagna
+    ln: Espania
+    lo: ແອັດສະປາຍ
+    lrc: اسپانیا
+    lt: Ispanija
+    ltg: Spaneja
+    lv: Spānija
+    lzh: 西班牙
+    mad: Spanyol
+    mai: स्पेन
+    map-bms: Spanyol
+    mdf: Испания
+    mg: Espaina
+    mhr: Испаний
+    mi: Pāniora
+    min: Spanyol
+    mk: Шпанија
+    ml: സ്പെയിൻ
+    mn: Испани
+    mni: ꯁ꯭ꯄꯦꯟ
+    mos: Spain
+    mr: स्पेन
+    ms: Sepanyol
+    ms-arab: سڤاڽول
+    mt: Spanja
+    mwl: Spanha
+    my: စပိန်နိုင်ငံ
+    myv: Испания Мастор
+    mzn: ایسپانیا
+    na: Pain
+    nah: Kaxtillan
+    nan: Se-pan-gâ
+    nap: Spagna
+    nb: Spania
+    nds: Spanien
+    nds-nl: Spanje
+    ne: स्पेन
+    new: स्पेन
+    nl: Spanje
+    nn: Spania
+    nov: Spania
+    nqo: ߊߛߌߔߊ߲߫
+    nrm: Espangne
+    nso: Spain
+    nv: Dibé Diníí Bikéyah
+    ny: Spain
+    oc: Espanha
+    olo: Ispuanii
+    om: Ispeen
+    or: ସ୍ପେନ
+    os: Испани
+    pa: ਸਪੇਨ
+    pag: Espanya
+    pam: Espanya
+    pap: Spaña
+    pcd: Espanne
+    pcm: Spain
+    pdc: Schpaani
+    pfl: Spanien
+    pi: स्पेन
+    pih: Spain
+    pl: Hiszpania
+    pms: Spagna
+    pnb: سپین
+    pnt: Ισπανία
+    prg: Špānija
+    ps: اسپانیا
+    pt: Espanha
+    pt-br: Espanha
+    qu: Ispaña
+    rm: Spagna
+    rmy: Spaniya
+    rn: Esipanye
+    ro: Spania
+    roa-tara: Spagne
+    ru: Испания
+    rue: Іспанія
+    rup: Ispania
+    rw: Esipanye
+    sa: स्पेन्
+    sah: Испания
+    sat: ᱮᱥᱯᱮᱱ
+    sc: Ispagna
+    scn: Spagna
+    sco: Spain
+    sd: اسپين
+    se: Espánnja
+    sg: Espânye
+    sgs: Ispanėjė
+    sh: Španija
+    shi: Ṣbanya
+    shn: မိူင်းသပဵၼ်ႇ
+    shy-latn: Spania
+    si: ස්පාඤ්ඤය
+    sk: Španielsko
+    skr: اسپین
+    sl: Španija
+    sm: Spania
+    sma: Spaania
+    smj: Spánsska
+    smn: Espanja
+    sms: Espanja
+    sn: Spain
+    so: Isbania
+    sq: Spanja
+    sr: Шпанија
+    sr-ec: Шпанија
+    sr-el: Španija
+    srn: Spanyorokondre
+    ss: Sipeyini
+    st: Spain
+    stq: Spanien
+    su: Spanyol
+    sv: Spanien
+    sw: Hispania
+    szl: Szpańijo
+    szy: Spain
+    ta: எசுப்பானியா
+    tay: Spain
+    te: స్పెయిన్
+    tet: España
+    tg: Испониё
+    tg-cyrl: Испания
+    th: ประเทศสเปน
+    ti: ስጳኛ
+    tk: Ispaniýa
+    tl: Espanya
+    tly: Ispanijə
+    to: Sepeni
+    tok: ma Epanja
+    tpi: Spen
+    tr: İspanya
+    trv: Spain
+    ts: Spaniya
+    tt: Испания
+    tt-cyrl: Испания
+    tum: Spain
+    tw: Spain
+    ty: Paniora
+    udm: Испания
+    ug: Ispaniye
+    uk: Іспанія
+    ur: ہسپانیہ
+    uz: Ispaniya
+    ve: Spain
+    vec: Spagna
+    vep: Ispanii
+    vi: Tây Ban Nha
+    vls: Spanje
+    vo: Spanyän
+    vro: Hispaania
+    wa: Espagne
+    war: Espanya
+    wls: Sepania
+    wo: Ispaañ
+    wuu: 西班牙
+    xal: Эспанмудин Нутг
+    xh: ISpain
+    xmf: ესპანეთი
+    yi: שפּאַניע
+    yo: Spéìn
+    yue: 西班牙
+    za: Sihbanhyaz
+    zea: Spanje
+    zgh: ⵚⴱⴰⵏⵢⴰ
+    zh: 西班牙
+    zh-cn: 西班牙
+    zh-hans: 西班牙
+    zh-hant: 西班牙
+    zh-hk: 西班牙
+    zh-mo: 西班牙
+    zh-my: 西班牙
+    zh-sg: 西班牙
+    zh-tw: 西班牙
+    zu: ISpeyini
+  sound_of_:
+    anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
-  image_for_:
-    flag: "[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]"
-    coat_of_arms: "[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]"
-  sound_of_:
-    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -597,9 +1123,9 @@ dv_UNTERM_Chinese_Formal: 西班牙王国
 dv_UNTERM_French_Formal: le Royaume d'Espagne
 dv_UNTERM_Russian: Испания
 dv_UNTERM_Russian_Formal: Королевство Испания
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Spain]]"
-dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Spain]]'
+dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 2510769
@@ -620,29 +1146,28 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 724
 dv_Area-Total: 505990
 dv_Area-Land: 499440
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: E
 dv_Alcohol-l: 11.6
 dv_Language-Id: 492
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: -2.86673
 dv_has_place_latitude: 40.0911
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~South/Spain.protect|Spain.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~South/Spain.private|Spain.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]"
+- '[[../../../../WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]]'
+- '[[/_public/Earth/Continent/Europe/Europe~South/Spain.public|Spain.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~South/Spain.internal|Spain.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~South/Spain.protect|Spain.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~South/Spain.private|Spain.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: "[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]"
-dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]"
+dv_has_image_for_flag: '[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
+dv_has_image_for_coat_of_arms: '[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
+dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
 dv_developed_developing_countries: Developed
 ---
-
 # [[Spain]] 
 
 ## International Names

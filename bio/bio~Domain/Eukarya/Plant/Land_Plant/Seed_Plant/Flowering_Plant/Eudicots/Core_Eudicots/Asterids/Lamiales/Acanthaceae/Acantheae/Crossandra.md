@@ -1,8 +1,72 @@
 ---
 aliases:
-  - Crossandra
+- Crossandra
+- krosandra
+- taikurinkukat
+- кросандра
+- Кроссандра
+- كروسندرة
+- كروسندره
+- কনকাম্বরী
+- ਅਬੋਲੀ
+- கிராசாண்ட்ரா
+- 十字爵床属
+- 十字爵床屬
 title: Crossandra
 has_id_wikidata: Q137288
+dv_has_:
+  name_:
+    an: Crossandra
+    ar: كروسندرة
+    arz: كروسندره
+    ast: Crossandra
+    bg: кросандра
+    bn: কনকাম্বরী
+    ca: Crossandra
+    ceb: Crossandra
+    cs: krosandra
+    de: Crossandra
+    en: Crossandra
+    eo: Crossandra
+    es: Crossandra
+    eu: Crossandra
+    ext: Crossandra
+    fi: taikurinkukat
+    fr: Crossandra
+    ga: Crossandra
+    gl: Crossandra
+    hr: Crossandra
+    ia: Crossandra
+    id: Crossandra
+    ie: Crossandra
+    io: Crossandra
+    it: Crossandra
+    la: Crossandra
+    mul: Crossandra
+    nl: Crossandra
+    oc: Crossandra
+    pa: ਅਬੋਲੀ
+    pl: Crossandra
+    pt: Crossandra
+    pt-br: Crossandra
+    ro: Crossandra
+    ru: Кроссандра
+    sk: krosandra
+    sq: Crossandra
+    sv: Crossandra
+    ta: கிராசாண்ட்ரா
+    tr: Crossandra
+    uk: Кроссандра
+    vi: Crossandra
+    vo: Crossandra
+    war: Crossandra
+    zh: 十字爵床属
+    zh-cn: 十字爵床属
+    zh-hans: 十字爵床属
+    zh-hant: 十字爵床屬
+    zh-hk: 十字爵床屬
+    zh-sg: 十字爵床属
+    zh-tw: 十字爵床屬
 ---
 # [[Crossandra]] 
 

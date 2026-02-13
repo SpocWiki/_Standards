@@ -1,16 +1,83 @@
 ---
 aliases:
+- Grendel
+- Grendelis
+- Grendill
+- Γκρέντελ
+- Грендел
+- Грендель
+- Грэндэль
+- Ґрендель
+- Գրենդել
+- גרנדל
+- جرندل
+- گرندل
+- ഗ്രെൻഡൽ
+- グレンデル
+- 格伦戴尔
+- 格倫戴爾
+- 그렌델
 has_id_wikidata: Q29372
-killed_by: "[[_Standards/WikiData/WD~Beowulf,1281177]]"
+killed_by: '[[_Standards/WikiData/WD~Beowulf,1281177]]'
 mother: "[[_Standards/WikiData/WD~Grendel's_mother,2361245]]"
-instance_of: "[[_Standards/WikiData/WD~literary_character,3658341]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-different_from: "[[_Standards/WikiData/WD~Gretel,108529145]]"
-present_in_work: "[[_Standards/WikiData/WD~Beowulf,48328]]"
+instance_of: '[[_Standards/WikiData/WD~literary_character,3658341]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+different_from: '[[_Standards/WikiData/WD~Gretel,108529145]]'
+present_in_work: '[[_Standards/WikiData/WD~Beowulf,48328]]'
 Commons_category: Grendel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stories%20of%20beowulf%20grendel.jpg
+dv_has_:
+  name_:
+    ang: Grendel
+    ar: جرندل
+    ast: Grendel
+    bcl: Grendel
+    be-tarask: Грэндэль
+    ca: Grendel
+    cs: Grendel
+    de: Grendel
+    el: Γκρέντελ
+    en: Grendel
+    en-ca: Grendel
+    en-gb: Grendel
+    es: Grendel
+    eu: Grendel
+    fa: گرندل
+    fi: Grendel
+    fr: Grendel
+    fy: Grendel
+    gl: Grendel
+    he: גרנדל
+    hy: Գրենդել
+    id: Grendel
+    is: Grendill
+    it: Grendel
+    ja: グレンデル
+    ko: 그렌델
+    la: Grendel
+    lt: Grendelis
+    mg: Grendel
+    mk: Грендел
+    ml: ഗ്രെൻഡൽ
+    nb: Grendel
+    nl: Grendel
+    nn: Grendel
+    oc: Grendel
+    pl: Grendel
+    pt: Grendel
+    pt-br: Grendel
+    ru: Грендель
+    sh: Grendel
+    sl: Grendel
+    sr: Грендел
+    sv: Grendel
+    tr: Grendel
+    uk: Ґрендель
+    war: Grendel
+    wuu: 格伦戴尔
+    yue: 格倫戴爾
+    zh: 格伦戴尔
 ---
-
 # [[Grendel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Grendel,29372|WD~Grendel,29372]] 

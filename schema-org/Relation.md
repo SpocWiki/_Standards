@@ -1,6 +1,59 @@
 ---
 aliases:
-  - Relation
+- bağıntı
+- coibhneas
+- darempred
+- hubungan
+- Korespondado o relato
+- matematika-erlazio
+- quan hệ
+- relaatio
+- relace
+- relacija
+- relacion
+- relació
+- relación
+- relación finita
+- relacja
+- relasi
+- relasjon
+- Relassion
+- relatie
+- relatio
+- Relation
+- Relation (mathematica)
+- Relatioun
+- Relazion (matematega)
+- relazione
+- relação
+- rellación
+- relácia
+- reláció
+- rełasion
+- rilato
+- seos
+- verhouding
+- σχέση
+- відношення
+- дачыненне
+- мөнәсәбәт
+- однос
+- отношение
+- релација
+- Релация
+- стасунак
+- Шайлашулăх (йышсен теорийĕ)
+- יחס מתמטי
+- علاقة
+- هوبوڠن
+- অন্বয়
+- સંબંધ
+- సంబంధం
+- ความสัมพันธ์
+- 关系
+- 関係
+- 關係
+- 관계
 has_id_wikidata: Q203066
 confidential: public
 isDeleted: false
@@ -8,48 +61,121 @@ isReadOnly: false
 license: CC BY-SA 4.0
 publish: true
 tags:
-  - class/Relation
-  - schema-org/Relation
+- class/Relation
+- schema-org/Relation
 type: Property
 has_part_s_:
-  - "[[_Standards/WikiData/WD~binary_relation,130901]]"
-  - "[[_Standards/WikiData/WD~𝑛_tuple,600590]]"
-  - "[[_Standards/WikiData/WD~ternary_relation,3756532]]"
-different_from: "[[_Standards/WikiData/WD~relation,930933]]"
-represents: "[[_Standards/WikiData/WD~relation,930933]]"
-has_characteristic: "[[_Standards/WikiData/WD~arity,1315869]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Mathematical_relations,6585116]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~binary_relation,130901]]'
+- "[[_Standards/WikiData/WD~\U0001D45B_tuple,600590]]"
+- '[[_Standards/WikiData/WD~ternary_relation,3756532]]'
+different_from: '[[_Standards/WikiData/WD~relation,930933]]'
+represents: '[[_Standards/WikiData/WD~relation,930933]]'
+has_characteristic: '[[_Standards/WikiData/WD~arity,1315869]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Mathematical_relations,6585116]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~relation_(mathematics),107223533]]"
-  - "[[_Standards/WikiData/WD~set,36161]]"
+- '[[_Standards/WikiData/WD~relation_(mathematics),107223533]]'
+- '[[_Standards/WikiData/WD~set,36161]]'
 Iconclass_notation: 51B1
 Commons_category: Relations (mathematics)
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~relation,203066]]"
-    - "[[/_Standards/schema-org/Relation|Relation]]"
-    - "[[/_public/schema-org/Relation.public|Relation.public]]"
-    - "[[/_internal/schema-org/Relation.internal|Relation.internal]]"
-    - "[[/_protect/schema-org/Relation.protect|Relation.protect]]"
-    - "[[/_private/schema-org/Relation.private|Relation.private]]"
-    - "[[/_personal/schema-org/Relation.personal|Relation.personal]]"
-    - "[[/_secret/schema-org/Relation.secret|Relation.secret]]"
-    - "[[Relation]]"
-    - "[[../../_internal/schema-org/Relation.internal|Relation.internal]]"
-dv_has_range: "[[Class/Thing]]"
-dv_has_domain: "[[Class/Thing]]"
+  - '[[_Standards/WikiData/WD~relation,203066]]'
+  - '[[/_Standards/schema-org/Relation|Relation]]'
+  - '[[/_public/schema-org/Relation.public|Relation.public]]'
+  - '[[/_internal/schema-org/Relation.internal|Relation.internal]]'
+  - '[[/_protect/schema-org/Relation.protect|Relation.protect]]'
+  - '[[/_private/schema-org/Relation.private|Relation.private]]'
+  - '[[/_personal/schema-org/Relation.personal|Relation.personal]]'
+  - '[[/_secret/schema-org/Relation.secret|Relation.secret]]'
+  - '[[Relation]]'
+  - '[[../../_internal/schema-org/Relation.internal|Relation.internal]]'
+dv_has_range: '[[Class/Thing]]'
+dv_has_domain: '[[Class/Thing]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~relation,203066]]"
-  - "[[Relation]]"
-  - "[[/_public/schema-org/Relation.public|Relation.public]]"
-  - "[[../../_internal/schema-org/Relation.internal|Relation.internal]]"
-  - "[[/_protect/schema-org/Relation.protect|Relation.protect]]"
-  - "[[/_private/schema-org/Relation.private|Relation.private]]"
-  - "[[/_personal/schema-org/Relation.personal|Relation.personal]]"
-  - "[[/_secret/schema-org/Relation.secret|Relation.secret]]"
+- '[[_Standards/WikiData/WD~relation,203066]]'
+- '[[Relation]]'
+- '[[/_public/schema-org/Relation.public|Relation.public]]'
+- '[[../../_internal/schema-org/Relation.internal|Relation.internal]]'
+- '[[/_protect/schema-org/Relation.protect|Relation.protect]]'
+- '[[/_private/schema-org/Relation.private|Relation.private]]'
+- '[[/_personal/schema-org/Relation.personal|Relation.personal]]'
+- '[[/_secret/schema-org/Relation.secret|Relation.secret]]'
+dv_has_:
+  name_:
+    af: verhouding
+    ar: علاقة
+    ast: rellación
+    ba: мөнәсәбәт
+    be: дачыненне
+    be-tarask: стасунак
+    bg: Релация
+    bn: অন্বয়
+    br: darempred
+    ca: relació
+    cs: relace
+    cv: Шайлашулăх (йышсен теорийĕ)
+    da: relation
+    de: Relation
+    el: σχέση
+    en: relation
+    eo: rilato
+    es: relación finita
+    et: seos
+    eu: matematika-erlazio
+    fi: relaatio
+    fr: relation
+    ga: coibhneas
+    gl: relación
+    gu: સંબંધ
+    he: יחס מתמטי
+    hr: relacija
+    hu: reláció
+    ia: Relation (mathematica)
+    id: relasi
+    io: Korespondado o relato
+    it: relazione
+    ja: 関係
+    ko: 관계
+    la: relatio
+    lb: Relatioun
+    lmo: Relazion (matematega)
+    lzh: 關係
+    mk: однос
+    ms: hubungan
+    ms-arab: هوبوڠن
+    nb: relasjon
+    nl: relatie
+    nn: relasjon
+    oc: relacion
+    pl: relacja
+    pms: Relassion
+    pt: relação
+    pt-br: relação
+    ru: отношение
+    sh: Relacija
+    sk: relácia
+    sl: relacija
+    sq: relacion
+    sr: релација
+    sr-ec: релација
+    sr-el: relacija
+    sv: relation
+    te: సంబంధం
+    th: ความสัมพันธ์
+    tr: bağıntı
+    uk: відношення
+    vec: rełasion
+    vi: quan hệ
+    yue: 關係
+    zh: 关系
+    zh-cn: 关系
+    zh-hans: 关系
+    zh-hant: 關係
+    zh-hk: 關係
+    zh-sg: 关系
+    zh-tw: 關係
 ---
-
 # [[Relation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~relation,203066]]

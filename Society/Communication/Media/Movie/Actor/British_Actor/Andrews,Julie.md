@@ -1,9 +1,191 @@
 ---
 aliases:
-  - Julie Andrews
-  - Julia Elizabeth Wells
-  - Andrews,Julie
+- Andrews,Julie
+- Džuli Endruz
+- Džūlija Endrūsa
+- Iulia Andrews
+- Julia Elizabeth Wells
+- Julie Andrews
+- Julie Andrewsová
+- Çulie Andreus
+- Τζούλι Άντριους
+- Џули Ендруз
+- Джулі Эндрус
+- Джулія Ендрюс
+- Джули Андрюс
+- Джули Эндрюс
+- Ҷулие Андреус
+- Ջուլի Էնդրյուս
+- ג'ולי אנדרוז
+- דזשולי ענדרוז
+- جولى آندروز
+- جولي آندروز
+- جولی اندروز
+- جولی اینڈریوز
+- جوولی ئاندروز
+- जूली एंड्रयूज
+- ज्युली अँड्र्युस
+- জুলি অ্যান্ড্রুজ
+- ਜੂਲੀ ਐਂਡਰਿਊਜ਼
+- யூலி ஆண்ட்ரூசு
+- ಜ್ಯೂಲಿ ಆಂಡ್ರ್ಯೂಸ್
+- ജൂലി ആൻഡ്രൂസ്
+- จูลี่ แอนดรูว์ส
+- ჯულია ენდრიუსი
+- ジュリー・アンドルーズ
+- 朱丽·安德鲁斯
+- 朱莉·安德鲁斯
+- 茱莉·安德丝
+- 茱莉·安德絲
+- 茱莉·安德魯絲
+- 茱莉·安德鲁丝
+- 茱莉安德絲
+- 줄리 앤드루스
 has_id_wikidata: Q161819
+dv_has_:
+  name_:
+    af: Julie Andrews
+    an: Julie Andrews
+    ar: جولي آندروز
+    arz: جولى آندروز
+    ast: Julie Andrews
+    azb: جولی اندروز
+    bar: Julie Andrews
+    be: Джулі Эндрус
+    be-tarask: Джулі Эндрус
+    bg: Джули Андрюс
+    bm: Julie Andrews
+    bn: জুলি অ্যান্ড্রুজ
+    br: Julie Andrews
+    bs: Julie Andrews
+    ca: Julie Andrews
+    ckb: جوولی ئاندروز
+    co: Julie Andrews
+    cs: Julie Andrewsová
+    cy: Julie Andrews
+    da: Julie Andrews
+    de: Julie Andrews
+    de-at: Julie Andrews
+    de-ch: Julie Andrews
+    diq: Julie Andrews
+    el: Τζούλι Άντριους
+    en: Julie Andrews
+    en-ca: Julie Andrews
+    en-gb: Julie Andrews
+    eo: Julie Andrews
+    es: Julie Andrews
+    et: Julie Andrews
+    eu: Julie Andrews
+    fa: جولی اندروز
+    fi: Julie Andrews
+    fr: Julie Andrews
+    frc: Julie Andrews
+    frp: Julie Andrews
+    fur: Julie Andrews
+    ga: Julie Andrews
+    gd: Julie Andrews
+    gl: Julie Andrews
+    gsw: Julie Andrews
+    he: ג'ולי אנדרוז
+    hr: Julie Andrews
+    ht: Julie Andrews
+    hu: Julie Andrews
+    hy: Ջուլի Էնդրյուս
+    ia: Julie Andrews
+    id: Julie Andrews
+    ie: Julie Andrews
+    ig: Julie Andrews
+    ilo: Julie Andrews
+    io: Julie Andrews
+    is: Julie Andrews
+    it: Julie Andrews
+    ja: ジュリー・アンドルーズ
+    jam: Julie Andrews
+    ka: ჯულია ენდრიუსი
+    kab: Julie Andrews
+    kg: Julie Andrews
+    kk: Джули Эндрюс
+    kn: ಜ್ಯೂಲಿ ಆಂಡ್ರ್ಯೂಸ್
+    ko: 줄리 앤드루스
+    kw: Julie Andrews
+    la: Iulia Andrews
+    lb: Julie Andrews
+    li: Julie Andrews
+    lij: Julie Andrews
+    lt: Julie Andrews
+    lv: Džūlija Endrūsa
+    mg: Julie Andrews
+    min: Julie Andrews
+    ml: ജൂലി ആൻഡ്രൂസ്
+    mr: ज्युली अँड्र्युस
+    ms: Julie Andrews
+    mul: Julie Andrews
+    nan: Julie Andrews
+    nap: Julie Andrews
+    nb: Julie Andrews
+    nds: Julie Andrews
+    nds-nl: Julie Andrews
+    ne: जूली एंड्रयूज
+    nl: Julie Andrews
+    nn: Julie Andrews
+    nrm: Julie Andrews
+    oc: Julie Andrews
+    pa: ਜੂਲੀ ਐਂਡਰਿਊਜ਼
+    pap: Julie Andrews
+    pcd: Julie Andrews
+    pl: Julie Andrews
+    pms: Julie Andrews
+    pnb: جولی اینڈریوز
+    prg: Julie Andrews
+    pt: Julie Andrews
+    pt-br: Julie Andrews
+    qu: Julie Andrews
+    rgn: Julie Andrews
+    rm: Julie Andrews
+    ro: Julie Andrews
+    ru: Джули Эндрюс
+    sc: Julie Andrews
+    scn: Julie Andrews
+    sco: Julie Andrews
+    sh: Julie Andrews
+    sk: Julie Andrewsová
+    sl: Julie Andrews
+    sq: Julie Andrews
+    sr: Џули Ендруз
+    sr-ec: Џули Ендруз
+    sr-el: Džuli Endruz
+    sv: Julie Andrews
+    sw: Julie Andrews
+    ta: யூலி ஆண்ட்ரூசு
+    tg: Ҷулие Андреус
+    tg-latn: Çulie Andreus
+    th: จูลี่ แอนดรูว์ส
+    tl: Julie Andrews
+    tr: Julie Andrews
+    uk: Джулія Ендрюс
+    ur: جولی اینڈریوز
+    uz: Julie Andrews
+    vec: Julie Andrews
+    vi: Julie Andrews
+    vls: Julie Andrews
+    vmf: Julie Andrews
+    vo: Julie Andrews
+    wa: Julie Andrews
+    war: Julie Andrews
+    wo: Julie Andrews
+    wuu: 朱莉·安德鲁斯
+    yi: דזשולי ענדרוז
+    yo: Julie Andrews
+    yue: 茱莉安德絲
+    zh: 茱莉·安德絲
+    zh-cn: 朱莉·安德鲁斯
+    zh-hans: 茱莉·安德丝
+    zh-hant: 茱莉·安德絲
+    zh-hk: 茱莉·安德絲
+    zh-my: 茱莉·安德鲁丝
+    zh-sg: 朱丽·安德鲁斯
+    zh-tw: 茱莉·安德魯絲
+    zu: Julie Andrews
 ---
 ## #has_/text_of_/abstract 
 

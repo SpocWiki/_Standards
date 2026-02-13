@@ -1,26 +1,214 @@
 ---
 aliases:
-  - Radio waves
-  - Hertzian waves
-  - Radio_Wave
-  - Radio Wave
+- Amaza womsakazo
+- fale radiowe
+- Frekuensi radhio
+- Frekuensi radio
+- Frékuénsi radio
+- Gelombang radio
+- Hertzian waves
+- Irrati-uhin
+- Kalaman rediyo
+- ona de ràdio
+- onda de rádio
+- onda radio
+- Ondas de radio
+- onde radio
+- Onde ràdio
+- Ondes de radio
+- Onn radyo
+- Pêlên radyoyê
+- raadiolaine
+- Raadiowaagen
+- radijo bangos
+- radijski valovi
+- Radio valovi
+- Radio Wave
+- Radio waves
+- Radio-valovi
+- radioaalto
+- radiobølge
+- radiobølger
+- Radiobølgjer
+- Radiodalğalar
+- radiofrecuencia
+- radiogolf
+- radioondo
+- radiopááru
+- Radiotalasi
+- Radiotoʻlqinlar
+- Radioviļņi
+- radiovågor
+- Radiowell
+- Radiowelle
+- Radio_Wave
+- Radyo dalgaları
+- Radėjė bangas
+- rádiové vlny
+- Rádiové žiarenie
+- rádióhullám
+- sóng vô tuyến
+- ton radio
+- tonnta raidió
+- Unda radioelectrica
+- unde radio
+- Wimbiredio
+- Útvarpsbylgjur
+- Ραδιοκύματα
+- радіохвилі
+- Радио долгион
+- Радио толкундар
+- Радио-таласи
+- Радиоактивті сәулелер детекторы
+- Радиобранови
+- радиоволны
+- Радиовълни
+- Радиохум
+- Радиоһархин толярлһн
+- радыёвыпраменьваньне
+- радыёхвалі
+- Ռադիոալիքներ
+- גלי רדיו
+- بې سيم څپه
+- رادیو دالغاسی
+- شەپۆلی ڕادیۆیی
+- مشعہ امواج
+- موجة إذاعية
+- موجهای رادیویی
+- रेडिओ तरंग
+- रेडियो तरंग
+- বেতার তরঙ্গ
+- ਰੇਡੀਓ ਤਰੰਗਾਂ
+- வானொலி அலைகள்
+- రేడియో తరంగాలు
+- റേഡിയോ തരംഗം
+- คลื่นวิทยุ
+- ရီဒီယိုလှိုင်းတိ
+- ရေဒီယိုလှိုင်း
+- რადიორეღმეფი
+- რადიოტალღები
+- ራዲዮ ሞገድ
+- 无线电波
+- 无线电频谱
+- 無線電波
+- 電波
+- 전파
 has_id_wikidata: Q4262
 part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8020789,8020789]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
-  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+- '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+- '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q16109693,16109693]]'
 follows: '[[_Standards/WikiData/WD~infrared_radiation,11388]]'
 U_S_National_Archives_Identifier: 10675684
 Commons_category: Radio waves
 IEV_number: 701-02-12
 MeSH_tree_code:
-  - G01.358.500.505.810
-  - G01.750.250.810
-  - G01.750.770.721
+- G01.358.500.505.810
+- G01.750.250.810
+- G01.750.770.721
+dv_has_:
+  name_:
+    am: ራዲዮ ሞገድ
+    ar: موجة إذاعية
+    ast: Ondes de radio
+    az: Radiodalğalar
+    azb: رادیو دالغاسی
+    ban: Gelombang radio
+    be: радыёхвалі
+    be-tarask: радыёвыпраменьваньне
+    bg: Радиовълни
+    bn: বেতার তরঙ্গ
+    bs: Radiotalasi
+    ca: ona de ràdio
+    ckb: شەپۆلی ڕادیۆیی
+    cs: rádiové vlny
+    cv: Радиохум
+    cy: ton radio
+    da: radiobølger
+    de: Radiowelle
+    el: Ραδιοκύματα
+    en: radio wave
+    en-ca: Radio waves
+    en-gb: radio waves
+    eo: radioondo
+    es: radiofrecuencia
+    et: raadiolaine
+    eu: Irrati-uhin
+    fa: موجهای رادیویی
+    fi: radioaalto
+    fr: onde radio
+    frr: Raadiowaagen
+    ga: tonnta raidió
+    gl: Ondas de radio
+    gsw: Radiowelle
+    ha: Kalaman rediyo
+    he: גלי רדיו
+    hi: रेडियो तरंग
+    hr: Radio valovi
+    ht: Onn radyo
+    hu: rádióhullám
+    hy: Ռադիոալիքներ
+    id: Frekuensi radio
+    is: Útvarpsbylgjur
+    it: onda radio
+    ja: 電波
+    jv: Frekuensi radhio
+    ka: რადიოტალღები
+    kk: Радиоактивті сәулелер детекторы
+    km: radio waves
+    ko: 전파
+    ku: Pêlên radyoyê
+    ky: Радио толкундар
+    la: Unda radioelectrica
+    lb: Radiowell
+    lt: radijo bangos
+    lv: Radioviļņi
+    mk: Радиобранови
+    ml: റേഡിയോ തരംഗം
+    mn: Радио долгион
+    mr: रेडिओ तरंग
+    ms: Gelombang radio
+    my: ရေဒီယိုလှိုင်း
+    nb: radiobølge
+    ne: रेडियो तरंग
+    nl: radiogolf
+    nn: Radiobølgjer
+    pa: ਰੇਡੀਓ ਤਰੰਗਾਂ
+    pcm: Radio wave
+    pl: fale radiowe
+    ps: بې سيم څپه
+    pt: onda de rádio
+    pt-br: Onda de rádio
+    rki: ရီဒီယိုလှိုင်းတိ
+    ro: unde radio
+    ru: радиоволны
+    sgs: Radėjė bangas
+    sh: Radio-valovi
+    sk: Rádiové žiarenie
+    sl: radijski valovi
+    smn: radiopááru
+    sr: Радио-таласи
+    su: Frékuénsi radio
+    sv: radiovågor
+    sw: Wimbiredio
+    ta: வானொலி அலைகள்
+    te: రేడియో తరంగాలు
+    th: คลื่นวิทยุ
+    tr: Radyo dalgaları
+    uk: радіохвилі
+    ur: مشعہ امواج
+    uz: Radiotoʻlqinlar
+    vec: Onde ràdio
+    vi: sóng vô tuyến
+    wuu: 无线电波
+    xal: Радиоһархин толярлһн
+    xmf: რადიორეღმეფი
+    yue: 無線電波
+    zh: 无线电频谱
+    zu: Amaza womsakazo
 ---
-
 # [[Radio_Wave]] 
 
 #is_/same_as :: [[WD~Radio_wave,4262]] 

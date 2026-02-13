@@ -1,26 +1,120 @@
 ---
 aliases:
+- alat muzik elektronik
+- electronic muisical instrument
+- electronic musical instrument
+- elektrofon elektroniczny
+- elektronický hudební nástroj
+- Elektronik müzik aleti
+- elektronika muzika instrumento
+- elektroninis muzikos instrumentas
+- elektronisch muziekinstrument
+- elektronisches Musikinstrument
+- elektronisk musikinstrument
+- elektronisk musikkinstrument
+- elektroniska musikinstrument
+- elektronska glasbila
+- elektroonilised muusikainstrumendid
+- elettrofoni analogici
+- enstriman mizik elektwonik
+- ełetròfono muzicałe ełetrònego
+- gléas ceoil leictreonach
+- instrument de musique électronique
+- Instrument musical electrònic
+- instrument muzical electronic
+- instrumento musical electrónico
+- Instrumento musical eletrônico
+- Instrumentu elektroniko
+- instrumentu musical electrónicu
+- offeryn cerdd electronig
+- sähkösoitin
+- ηλεκτρονικό μουσικό όργανο
+- електрични музички инструмент
+- електронні музичні інструменти
+- електронски музички инструмент
+- электронны музычны інструмент
+- электронны музычны інструмэнт
+- электронный музыкальный инструмент
+- էլեկտրոնային երաժշտական գործիքներ
+- כלי נגינה אלקטרוניים
+- آلة موسيقية إلكترونية
+- الت موزيک ايليکترونيک
+- ساز موسیقی الکترونیک
+- 电子乐器
+- 電子楽器
+- 電子樂器
+- 전자 악기
 has_id_wikidata: Q1327500
 subclass_of:
-  - "[[_Standards/WikiData/WD~electrophone,105738]]"
-  - "[[_Standards/WikiData/WD~electronic_instrument,876367]]"
-  - "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-uses: "[[_Standards/WikiData/WD~analog_electronics,174925]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~electrophone,105738]]'
+- '[[_Standards/WikiData/WD~electronic_instrument,876367]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+uses: '[[_Standards/WikiData/WD~analog_electronics,174925]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 part_of: "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instruments,26836418]]"
-Hornbostel_Sachs_classification: "53"
-Nomenclature_for_Museum_Cataloging: "10688"
-Dewey_Decimal_Classification: "786.7"
+Hornbostel_Sachs_classification: 53
+Nomenclature_for_Museum_Cataloging: 10688
+Dewey_Decimal_Classification: 786.7
 Commons_category: Electronic musical instruments
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Moog3.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Detailed%20view%20of%20Audiocubes.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/EMS%20at%20MIM%20Sequencer.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Moog3.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Detailed%20view%20of%20Audiocubes.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/EMS%20at%20MIM%20Sequencer.jpg
 described_at_URL: http://www.mimo-db.eu/HornbostelAndSachs/6167
 official_name: Analogue electronic instruments, modules and components
+dv_has_:
+  name_:
+    ar: آلة موسيقية إلكترونية
+    ast: instrumentu musical electrónicu
+    be: электронны музычны інструмент
+    be-tarask: электронны музычны інструмэнт
+    ca: Instrument musical electrònic
+    cs: elektronický hudební nástroj
+    cy: offeryn cerdd electronig
+    da: elektronisk musikinstrument
+    de: elektronisches Musikinstrument
+    el: ηλεκτρονικό μουσικό όργανο
+    en: electronic musical instrument
+    eo: elektronika muzika instrumento
+    es: instrumento musical electrónico
+    et: elektroonilised muusikainstrumendid
+    eu: Instrumentu elektroniko
+    fa: ساز موسیقی الکترونیک
+    fi: sähkösoitin
+    fr: instrument de musique électronique
+    ga: gléas ceoil leictreonach
+    gl: instrumento musical electrónico
+    he: כלי נגינה אלקטרוניים
+    ht: enstriman mizik elektwonik
+    hy: էլեկտրոնային երաժշտական գործիքներ
+    it: elettrofoni analogici
+    ja: 電子楽器
+    ko: 전자 악기
+    lt: elektroninis muzikos instrumentas
+    mk: електронски музички инструмент
+    ms: alat muzik elektronik
+    ms-arab: الت موزيک ايليکترونيک
+    nb: elektronisk musikkinstrument
+    nl: elektronisch muziekinstrument
+    nn: elektronisk musikkinstrument
+    pl: elektrofon elektroniczny
+    pt: Instrumento musical eletrônico
+    ro: instrument muzical electronic
+    ru: электронный музыкальный инструмент
+    sco: electronic muisical instrument
+    sl: elektronska glasbila
+    sr: електрични музички инструмент
+    sv: elektroniska musikinstrument
+    tr: Elektronik müzik aleti
+    uk: електронні музичні інструменти
+    vec: ełetròfono muzicałe ełetrònego
+    wuu: 电子乐器
+    yue: 電子樂器
+    zh: 電子樂器
+    zh-hant: 電子樂器
+    zh-tw: 電子樂器
 ---
-
 # [[Electronic_Musical_Instrument]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electronic_musical_instrument,1327500|WD~Electronic_musical_instrument,1327500]] 

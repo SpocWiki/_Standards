@@ -1,32 +1,49 @@
 ---
 aliases:
-  - Seymour_Cray
-  - Seymour Roger Cray
-  - Seymour Cray
-  - Cray
-  - Cray,Seymour
+- Cray
+- Cray,Seymour
+- Seymour Cray
+- Seymour R. Cray
+- Seymour Roger Cray
+- Seymour_Cray
+- Seymur Krey
+- Simor Krej
+- Сеймур Крей
+- Сеймур Крэй
+- Симор Креј
+- Сэймур Крэй
+- Սեյմուր Քրեյ
+- סימור קריי
+- سيمور كراى
+- سيمور كراي
+- سیمور کری
+- सेमूर क्रे
+- സെയ്മൂർ ക്രേ
+- シーモア・クレイ
+- 西摩·克雷
+- 시모어 크레이
 has_id_wikidata: Q92765
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-  - '[[_Standards/WikiData/WD~applied_mathematician,102038373]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~applied_mathematician,102038373]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 employer:
-  - '[[_Standards/WikiData/WD~Cray,144060]]'
-  - '[[_Standards/WikiData/WD~Control_Data_Corporation,1129191]]'
+- '[[_Standards/WikiData/WD~Cray,144060]]'
+- '[[_Standards/WikiData/WD~Control_Data_Corporation,1129191]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
-  - '[[_Standards/WikiData/WD~Chippewa_Falls_High_School,5101662]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~Chippewa_Falls_High_School,5101662]]'
 student: '[[_Standards/WikiData/WD~Steve_Chen,700873]]'
 place_of_birth: '[[_Standards/WikiData/WD~Chippewa_Falls,940349]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Howard_N._Potts_Medal,1631883]]'
-  - '[[_Standards/WikiData/WD~Eckert_Mauchly_Award,2404647]]'
-  - '[[_Standards/WikiData/WD~W._Wallace_McDowell_Award,2536791]]'
-  - '[[_Standards/WikiData/WD~IEEE_Ernst_Weber_Engineering_Leadership_Recognition,14775339]]'
-  - '[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Howard_N._Potts_Medal,1631883]]'
+- '[[_Standards/WikiData/WD~Eckert_Mauchly_Award,2404647]]'
+- '[[_Standards/WikiData/WD~W._Wallace_McDowell_Award,2536791]]'
+- '[[_Standards/WikiData/WD~IEEE_Ernst_Weber_Engineering_Leadership_Recognition,14775339]]'
+- '[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]'
 given_name: '[[_Standards/WikiData/WD~Seymour,2275863]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
@@ -42,8 +59,62 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Seymour%20Cray.jpg
 ISNI: 0000000010594050
 Commons_category: Seymour Cray
 name_in_native_language: Seymour Cray
+dv_has_:
+  name_:
+    ar: سيمور كراي
+    arz: سيمور كراى
+    ast: Seymour Cray
+    az: Seymur Krey
+    azb: سیمور کری
+    be-tarask: Сэймур Крэй
+    br: Seymour Cray
+    bs: Seymour Cray
+    ca: Seymour Cray
+    cs: Seymour Cray
+    cy: Seymour Cray
+    da: Seymour R. Cray
+    de: Seymour Cray
+    en: Seymour Cray
+    en-ca: Seymour Cray
+    en-gb: Seymour Cray
+    es: Seymour Cray
+    eu: Seymour Cray
+    fa: سیمور کری
+    fi: Seymour Cray
+    fr: Seymour Cray
+    ga: Seymour Cray
+    gl: Seymour Cray
+    he: סימור קריי
+    hr: Seymour Cray
+    hu: Seymour Cray
+    hy: Սեյմուր Քրեյ
+    it: Seymour Cray
+    ja: シーモア・クレイ
+    ko: 시모어 크레이
+    mg: Seymour Cray
+    ml: സെയ്മൂർ ക്രേ
+    mn: Сэймур Крэй
+    mr: सेमूर क्रे
+    mul: Seymour Cray
+    nb: Seymour Cray
+    nl: Seymour Cray
+    nn: Seymour Cray
+    oc: Seymour Cray
+    pl: Seymour Cray
+    pt: Seymour Cray
+    pt-br: Seymour Cray
+    ru: Сеймур Крэй
+    sl: Seymour Cray
+    sq: Seymour Cray
+    sr: Симор Креј
+    sr-ec: Симор Креј
+    sr-el: Simor Krej
+    sv: Seymour Cray
+    tr: Seymour Cray
+    uk: Сеймур Крей
+    war: Seymour Cray
+    zh: 西摩·克雷
 ---
-
 # [[Cray,Seymour]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Seymour_Cray,92765|WD~Seymour_Cray,92765]]  

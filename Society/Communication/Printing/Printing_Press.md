@@ -1,12 +1,80 @@
 ---
 aliases:
-  - Druckerpresse
-  - Printing_Press
-  - Printing Press
+- Baskı makinası
+- boktryckarkonst
+- clóphreas
+- Druckerpresse
+- Druckpresse
+- drukas spiede
+- Drukparse
+- Drukpers
+- Estampariá
+- faastan clouderagh
+- Gwasg argraffu
+- impremta
+- imprenta
+- Imprimomashino
+- Inprimatzeko makina
+- Jaman mesin
+- Kitab çapı texnologiyası
+- Makina e shtypit
+- maszyna drukarska
+- mesin cetak
+- Máy in ép
+- nyomdai sajtó
+- painokone
+- Prelum typographicum
+- prensa móvel
+- Prentvél
+- presa de tipar
+- presilo
+- presse typographique
+- Primador
+- Printin pres
+- Printing Press
+- Printing_Press
+- spausdinimo mašina
+- Stampa
+- tiskarska stiskalnica
+- Tiskarski stroj
+- tiskařský lis
+- torchio tipografico
+- trykkpresse
+- Trykpresse
+- Trükimasin
+- Štamparska mašina
+- τυπογραφικό πιεστήριο
+- друкарскі варштат
+- друкарський верстат
+- печатарска машина
+- Печатна преса
+- ручной типографский станок
+- Хэвлэх машин
+- штампарска машина
+- Տպագրահաստոց
+- מכונת דפוס
+- آلة الطباعة
+- د چاپ ماشین
+- مطبعہ
+- پەستانی چاپکردن
+- چاپ فشاری
+- ڇاپخانو
+- छापखाना
+- प्रिंटिंग प्रेस
+- মুদ্রণযন্ত্র
+- ਛਾਪਾਖ਼ਾਨਾ
+- அச்சு இயந்திரம்
+- ముద్రణా యంత్రం
+- ಮುದ್ರಣ ಯಂತ್ರ
+- แท่นพิมพ์
+- 印刷机
+- 印刷機
+- 印書盤
+- 인쇄기
 has_id_wikidata: Q144334
 used_by:
-  - '[[_Standards/WikiData/WD~printer,175151]]'
-  - '[[_Standards/WikiData/WD~book_printer,40881196]]'
+- '[[_Standards/WikiData/WD~printer,175151]]'
+- '[[_Standards/WikiData/WD~book_printer,40881196]]'
 subclass_of: '[[_Standards/WikiData/WD~machine_press,674484]]'
 instance_of: '[[_Standards/WikiData/WD~product,2424752]]'
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
@@ -21,8 +89,102 @@ Common_Procurement_Vocabulary_code: 42962200
 Iconclass_notation: 49M11
 Commons_gallery: Printing press
 IMDb_keyword: printing-press
+dv_has_:
+  name_:
+    af: Drukpers
+    an: Imprenta
+    ar: آلة الطباعة
+    ast: imprenta
+    az: Kitab çapı texnologiyası
+    be-tarask: друкарскі варштат
+    bg: Печатна преса
+    bn: মুদ্রণযন্ত্র
+    bs: Štamparska mašina
+    ca: impremta
+    ckb: پەستانی چاپکردن
+    cs: tiskařský lis
+    cy: Gwasg argraffu
+    da: Trykpresse
+    de: Druckpresse
+    de-ch: Druckpresse
+    el: τυπογραφικό πιεστήριο
+    en: printing press
+    en-ca: Printing press
+    en-gb: printing press
+    eo: presilo
+    es: imprenta
+    et: Trükimasin
+    eu: Inprimatzeko makina
+    fa: چاپ فشاری
+    fi: painokone
+    fr: presse typographique
+    fy: Drukparse
+    ga: clóphreas
+    gan: 印刷機
+    gan-hans: 印刷机
+    gan-hant: 印刷機
+    gl: Imprenta
+    gv: faastan clouderagh
+    he: מכונת דפוס
+    hi: प्रिंटिंग प्रेस
+    hr: Tiskarski stroj
+    hu: nyomdai sajtó
+    hy: Տպագրահաստոց
+    id: Mesin cetak
+    io: Imprimomashino
+    is: Prentvél
+    it: torchio tipografico
+    ja: 印刷機
+    jam: Printin pres
+    kn: ಮುದ್ರಣ ಯಂತ್ರ
+    ko: 인쇄기
+    la: Prelum typographicum
+    lfn: Primador
+    lt: spausdinimo mašina
+    lv: drukas spiede
+    mk: печатарска машина
+    mn: Хэвлэх машин
+    mr: छापखाना
+    ms: mesin cetak
+    nb: trykkpresse
+    nl: drukpers
+    oc: Estampariá
+    pa: ਛਾਪਾਖ਼ਾਨਾ
+    pap: Imprenta
+    pl: maszyna drukarska
+    ps: د چاپ ماشین
+    pt: prensa móvel
+    pt-br: prensa móvel
+    ro: presa de tipar
+    ru: ручной типографский станок
+    scn: Stampa
+    sd: ڇاپخانو
+    sh: Štamparska mašina
+    sl: tiskarska stiskalnica
+    sq: Makina e shtypit
+    sr: штампарска машина
+    sr-ec: штампарска машина
+    sr-el: štamparska mašina
+    su: Jaman mesin
+    sv: boktryckarkonst
+    ta: அச்சு இயந்திரம்
+    te: ముద్రణా యంత్రం
+    th: แท่นพิมพ์
+    tr: Baskı makinası
+    uk: друкарський верстат
+    ur: مطبعہ
+    vi: Máy in ép
+    war: Imprenta
+    wuu: 印刷机
+    yue: 印書盤
+    zh: 印刷机
+    zh-cn: 印刷机
+    zh-hans: 印刷机
+    zh-hant: 印刷機
+    zh-hk: 印刷機
+    zh-sg: 印刷机
+    zh-tw: 印刷機
 ---
-
 # [[Printing_Press]] 
 
 #is_/same_as :: [[WD~Printing_press,144334]] 

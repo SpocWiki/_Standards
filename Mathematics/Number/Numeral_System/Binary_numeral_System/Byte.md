@@ -1,37 +1,188 @@
 ---
 aliases:
-  - octet
-  - Byte
+- bait
+- baitas
+- Baiti
+- Baits
+- Bajt
+- Bajti
+- bajto
+- Bayt
+- beart
+- Bicoko
+- Bita
+- Byte
+- Bæti
+- greep
+- isincu
+- octet
+- tavu
+- Бајт
+- байт
+- Байтсь
+- тямысо
+- Բայթ
+- בית
+- باءيت
+- بائٹ
+- بايت
+- بايټ
+- بایت
+- بیت
+- لکمہ
+- बाइट
+- বাইট
+- ਬਾਈਟ
+- பைட்டு
+- బైట్
+- ബൈറ്റ്
+- ไบต์
+- ໄບຕ໌
+- ဘိုက်
+- ბაიტი
+- バイト
+- 位元組
+- 字節
+- 字节
+- 바이트
 has_id_wikidata: Q8799
 used_by: '[[_Standards/WikiData/WD~Rust,575650]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~octet,851872]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 measured_physical_quantity: '[[_Standards/WikiData/WD~information,71699827]]'
 different_from:
-  - '[[_Standards/WikiData/WD~byte,106247603]]'
-  - '[[_Standards/WikiData/WD~bit,8805]]'
+- '[[_Standards/WikiData/WD~byte,106247603]]'
+- '[[_Standards/WikiData/WD~bit,8805]]'
 has_part_s_: '[[_Standards/WikiData/WD~bit,8805]]'
 conversion_to_standard_unit:
-  - 1
-  - 2
-  - 8
-  - 0.0009765625
+- 1
+- 2
+- 8
+- 0.0009765625
 UCUM_code: By
 unit_symbol:
-  - B
-  - Б
-  - B
+- B
+- Б
+- B
 OmegaWiki_Defined_Meaning: 676404
 UN_CEFACT_Common_Code: AD
 Stack_Exchange_tag: https://stackoverflow.com/tags/byte
 Wolfram_Language_unit_code: '"Bytes"'
 IEV_number: 171-02-13
 Commons_category: Bit and byte
+dv_has_:
+  name_:
+    af: greep
+    ang: Bita
+    ar: بايت
+    as: বাইট
+    ast: Byte
+    az: Bayt
+    azb: بیت
+    ba: байт
+    be: байт
+    be-tarask: байт
+    bg: Байт
+    bn: বাইট
+    bs: Bajt
+    ca: byte
+    ckb: بایت
+    cs: bajt
+    da: Byte
+    de: Byte
+    de-ch: Byte
+    el: Byte
+    en: byte
+    en-ca: Byte
+    en-gb: byte
+    eo: bajto
+    es: byte
+    et: bait
+    eu: Byte
+    fa: بایت
+    fi: tavu
+    fr: octet
+    frr: Byte
+    fy: byte
+    ga: beart
+    gl: Byte
+    gsw: Byte
+    ha: byte
+    he: בית
+    hi: बाइट
+    hr: Bajt
+    hu: byte
+    hy: Բայթ
+    ia: Byte
+    id: Bita
+    io: Bicoko
+    is: Bæti
+    it: byte
+    ja: バイト
+    jv: Bita
+    ka: ბაიტი
+    kk: Байт
+    ko: 바이트
+    ky: Байт
+    lb: Byte
+    lfn: bait
+    lmo: Byte
+    lo: ໄບຕ໌
+    lt: baitas
+    lv: Baits
+    mdf: Байтсь
+    mhr: байт
+    mk: Бајт
+    ml: ബൈറ്റ്
+    ms: bait
+    ms-arab: باءيت
+    my: ဘိုက်
+    nan: Byte
+    nb: byte
+    nl: byte
+    nn: byte
+    oc: Byte
+    pa: ਬਾਈਟ
+    pl: bajt
+    pnb: بائٹ
+    ps: بايټ
+    pt: byte
+    pt-br: Byte
+    ro: byte
+    ru: байт
+    scn: byte
+    sh: Bajt
+    sk: bajt
+    sl: bajt
+    sq: Bajti
+    sr: бајт
+    sv: byte
+    sw: Baiti
+    szl: bajt
+    ta: பைட்டு
+    te: బైట్
+    tg: Байт
+    th: ไบต์
+    tr: bayt
+    tt: байт
+    tt-cyrl: байт
+    udm: тямысо
+    uk: байт
+    ur: لکمہ
+    uz: Bayt
+    vi: byte
+    war: Byte
+    wuu: 字节
+    yue: 字節
+    zh: 字节
+    zh-cn: 字节
+    zh-hant: 位元組
+    zh-tw: 位元組
+    zu: isincu
 ---
-
 # [[Byte]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Byte,8799|WD~Byte,8799]] 

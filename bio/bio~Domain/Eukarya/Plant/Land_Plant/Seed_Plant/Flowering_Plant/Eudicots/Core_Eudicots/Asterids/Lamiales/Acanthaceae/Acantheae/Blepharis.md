@@ -1,8 +1,59 @@
 ---
 aliases:
-  - Blepharis
+- Blepharis
+- pistiöt
+- ריסן
+- خارسنبل
+- شوك الضب
+- பிலேஃபாரிசு
+- 百簕花属
 title: Blepharis
 has_id_wikidata: Q2916107
+dv_has_:
+  name_:
+    an: Blepharis
+    ar: شوك الضب
+    arz: شوك الضب
+    ast: Blepharis
+    bg: Blepharis
+    ca: Blepharis
+    ceb: Blepharis
+    de: Blepharis
+    en: Blepharis
+    eo: Blepharis
+    es: Blepharis
+    eu: Blepharis
+    ext: Blepharis
+    fa: خارسنبل
+    fi: pistiöt
+    fr: Blepharis
+    ga: Blepharis
+    gl: Blepharis
+    he: ריסן
+    hr: Blepharis
+    ia: Blepharis
+    ie: Blepharis
+    io: Blepharis
+    it: Blepharis
+    la: Blepharis
+    mul: Blepharis
+    nl: Blepharis
+    oc: Blepharis
+    pl: Blepharis
+    pt: Blepharis
+    pt-br: Blepharis
+    ro: Blepharis
+    ru: Blepharis
+    sq: Blepharis
+    sv: Blepharis
+    ta: பிலேஃபாரிசு
+    uk: Blepharis
+    vi: Blepharis
+    vo: Blepharis
+    war: Blepharis
+    zh: 百簕花属
+    zh-cn: 百簕花属
+    zh-hans: 百簕花属
 ---
 # [[Blepharis]] 
 

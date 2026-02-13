@@ -1,19 +1,100 @@
 ---
 aliases:
+- Leteratur portuges
+- letteratura portoghese
+- literatura Portugalska
+- literatura portugheză
+- literatura portuguesa
+- Literaturo de Portugalio
+- Litterae Lusitanicae
+- Litteratura portugese
+- littérature portugaise
+- Lliteratura de Portugal
+- Portugalana literaturo
+- Portugalijos literatūra
+- Portugalikeelne kirjandus
+- portugalinkielinen kirjallisuus
+- Portugalska književnost
+- portugalska literatura
+- Portugese letterkunde
+- Portugese literatuur
+- Portugesezko literatura
+- portugiesische Literatur
+- Portugisisk litteratur
+- Portuguese literature
+- portugál irodalom
+- Văn học Bồ Đào Nha
+- літаратура Партугаліі
+- партугальская літаратура
+- португальская литература
+- Португальська література
+- Պորտուգալական գրականություն
+- أدب البرتغال
+- ادبیات پرتغالی
+- पुर्तगाली साहित्य
+- পর্তুগিজ সাহিত্য
+- ポルトガル文学
+- 葡萄牙文学
+- 葡萄牙文學
+- 포르투갈 문학
 has_id_wikidata: Q548144
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-studied_by: "[[_Standards/WikiData/WD~Portuguese_studies,1721024]]"
-part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"
-different_from: "[[_Standards/WikiData/WD~Portuguese_language_literature,12353945]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+studied_by: '[[_Standards/WikiData/WD~Portuguese_studies,1721024]]'
+part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
+different_from: '[[_Standards/WikiData/WD~Portuguese_language_literature,12353945]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
 Dewey_Decimal_Classification:
-  - "869"
-  - "860"
+- 869
+- 860
 Commons_category: Portuguese literature
+dv_has_:
+  name_:
+    af: Portugese letterkunde
+    ar: أدب البرتغال
+    ast: Lliteratura de Portugal
+    be: літаратура Партугаліі
+    be-tarask: партугальская літаратура
+    bn: পর্তুগিজ সাহিত্য
+    ca: literatura portuguesa
+    cs: literatura Portugalska
+    da: Portugisisk litteratur
+    de: portugiesische Literatur
+    en: Portuguese literature
+    eo: Literaturo de Portugalio
+    es: literatura portuguesa
+    et: Portugalikeelne kirjandus
+    eu: Portugesezko literatura
+    fa: ادبیات پرتغالی
+    fi: portugalinkielinen kirjallisuus
+    fr: littérature portugaise
+    gl: Literatura portuguesa
+    hi: पुर्तगाली साहित्य
+    hr: Portugalska književnost
+    hu: portugál irodalom
+    hy: Պորտուգալական գրականություն
+    ia: Litteratura portugese
+    io: Portugalana literaturo
+    it: letteratura portoghese
+    ja: ポルトガル文学
+    ko: 포르투갈 문학
+    la: Litterae Lusitanicae
+    lfn: Leteratur portuges
+    lt: Portugalijos literatūra
+    nl: Portugese literatuur
+    pl: Literatura portugalska
+    pt: Literatura portuguesa
+    ro: literatura portugheză
+    ru: португальская литература
+    sl: portugalska literatura
+    sr: Portugalska književnost
+    sv: portugisisk litteratur
+    uk: Португальська література
+    vi: Văn học Bồ Đào Nha
+    yue: 葡萄牙文學
+    zh: 葡萄牙文学
 ---
-
 # [[Portuguese_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Portuguese_literature,548144|WD~Portuguese_literature,548144]]  

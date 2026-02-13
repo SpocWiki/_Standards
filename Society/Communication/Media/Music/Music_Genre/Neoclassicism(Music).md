@@ -1,12 +1,84 @@
 ---
 aliases:
-  - Neoclassicism in music
+- Musika neoklasiko
+- Neoclasicismo musical del siglo XX
+- Neoclasicismu musical del sieglu XX
+- neoclassicism
+- Neoclassicism in music
+- neoclassicisme
+- neoclassicisme musical del segle XX
+- neoclassicismo
+- Neoclassicismo no século XX (música)
+- Neoclassicismus
+- neoklasicismus
+- Neoklasicizam (muzika)
+- neoklasicizem
+- neoklasicizmus
+- neoklassisisme
+- Neoklassizismus
+- neoklasszicista zene
+- Neoklasycyzm
+- Novklasikismo
+- nyklassicisme
+- néoclassicisme
+- uusklassinen musiikki
+- yeniklasikçilik
+- Νεοκλασικισμός
+- неокласицизм
+- Неокласицизъм
+- неоклассицизм
+- нэаклясыцызм
+- מוזיקה נאו-קלאסית
+- موسيقى كلاسيكية حديثة
+- موسیقی نئوکلاسیک
+- 新古典主义音乐
+- 新古典主義音楽
+- 新古典樂
+- 신고전주의 음악
 has_id_wikidata: Q535611
-part_of: "[[_Standards/WikiData/WD~20th_century_classical_music,1338153]]"
-instance_of: "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-facet_of: "[[_Standards/WikiData/WD~neoclassical_music,106576145]]"
+part_of: '[[_Standards/WikiData/WD~20th_century_classical_music,1338153]]'
+instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+facet_of: '[[_Standards/WikiData/WD~neoclassical_music,106576145]]'
+dv_has_:
+  name_:
+    ar: موسيقى كلاسيكية حديثة
+    ast: Neoclasicismu musical del sieglu XX
+    be-tarask: нэаклясыцызм
+    bg: Неокласицизъм
+    ca: neoclassicisme musical del segle XX
+    cs: neoklasicismus
+    da: nyklassicisme
+    de: Neoklassizismus
+    el: Νεοκλασικισμός
+    en: neoclassicism
+    en-gb: neoclassicism
+    eo: Novklasikismo
+    es: Neoclasicismo musical del siglo XX
+    eu: Musika neoklasiko
+    fa: موسیقی نئوکلاسیک
+    fi: uusklassinen musiikki
+    fr: néoclassicisme
+    he: מוזיקה נאו-קלאסית
+    hu: neoklasszicista zene
+    it: neoclassicismo
+    ja: 新古典主義音楽
+    ko: 신고전주의 음악
+    la: Neoclassicismus
+    nb: neoklassisisme
+    nl: neoclassicisme
+    nn: neoklassisisme
+    pl: Neoklasycyzm
+    pt: Neoclassicismo no século XX (música)
+    ru: неоклассицизм
+    sk: neoklasicizmus
+    sl: neoklasicizem
+    sq: neoclassicism
+    sr: Neoklasicizam (muzika)
+    tr: yeniklasikçilik
+    uk: неокласицизм
+    yue: 新古典樂
+    zh: 新古典主义音乐
 ---
-
 # [[Neoclassicism(Music)]] 
 
 #is_/same_as :: [[WD~Neoclassicism,535611]] 

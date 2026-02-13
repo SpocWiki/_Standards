@@ -1,19 +1,45 @@
 ---
 aliases:
-  - John Rawls
-  - John Bordley Rawls
-  - Rawls,John
+- Con Rolz
+- Džon Rols
+- Ioannes Rawls
+- John Bordley Rawls
+- John Rawls
+- Rawls,John
+- Τζον Ρωλς
+- Џон Ролс
+- Джон Роўлз
+- Джон Ролз
+- Джон Ролс
+- Джон Роулз
+- Ճոն Ռաուլզ
+- ג'ון רולס
+- جان رالز
+- جون رولز
+- جۆن ڕۆڵز
+- जन रल्स
+- जॉन राल्स
+- জন রল্স
+- ਜੌਨ ਰਾਵਲਸ
+- ஜான் ரால்ஸ்
+- ജോൺ റൗൾസ്
+- ジョン・ロールズ
+- 約翰·羅爾斯
+- 约翰·罗尔斯
+- 约翰·颅厄涩
+- 莊羅爾斯
+- 존 롤스
 has_id_wikidata: Q172544
 academic_degree:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Ralph_Waldo_Emerson_Award,118149]]'
-  - '[[_Standards/WikiData/WD~Fulbright_Scholarship,253936]]'
-  - '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
-  - '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
-  - '[[_Standards/WikiData/WD~Spitz_Prize,7578323]]'
-  - '[[_Standards/WikiData/WD~Rolf_Schock_Prize_in_Logic_and_Philosophy,23070437]]'
+- '[[_Standards/WikiData/WD~Ralph_Waldo_Emerson_Award,118149]]'
+- '[[_Standards/WikiData/WD~Fulbright_Scholarship,253936]]'
+- '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+- '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
+- '[[_Standards/WikiData/WD~Spitz_Prize,7578323]]'
+- '[[_Standards/WikiData/WD~Rolf_Schock_Prize_in_Logic_and_Philosophy,23070437]]'
 BHCL_UUID: 27092028-0485-4080-921d-4a052ffd3111
 child: '[[_Standards/WikiData/WD~Anne_Warfield_Rawls,104773740]]'
 Commons_category: John Rawls
@@ -22,66 +48,151 @@ date_of_birth: 1921-02-21T00:00:00Z
 date_of_death: 2002-11-24T00:00:00Z
 doctoral_advisor: '[[_Standards/WikiData/WD~Walter_Terence_Stace,433728]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Susan_Neiman,291699]]'
-  - '[[_Standards/WikiData/WD~Thomas_Nagel,350239]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_S._Anderson,1331312]]'
-  - '[[_Standards/WikiData/WD~Allan_Gibbard,4730627]]'
-  - '[[_Standards/WikiData/WD~Samuel_Freeman,30122561]]'
-  - '[[_Standards/WikiData/WD~Norbert_Hornstein,103061511]]'
+- '[[_Standards/WikiData/WD~Susan_Neiman,291699]]'
+- '[[_Standards/WikiData/WD~Thomas_Nagel,350239]]'
+- '[[_Standards/WikiData/WD~Elizabeth_S._Anderson,1331312]]'
+- '[[_Standards/WikiData/WD~Allan_Gibbard,4730627]]'
+- '[[_Standards/WikiData/WD~Samuel_Freeman,30122561]]'
+- '[[_Standards/WikiData/WD~Norbert_Hornstein,103061511]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Calvert_School,4123080]]'
-  - '[[_Standards/WikiData/WD~Kent_School,6391891]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Calvert_School,4123080]]'
+- '[[_Standards/WikiData/WD~Kent_School,6391891]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 employer:
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
-  - '[[_Standards/WikiData/WD~Cornell_University,49115]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Cornell_University,49115]]'
 Europeana_entity: agent/base/145427
 family_name:
-  - '[[_Standards/WikiData/WD~Bordley,37533433]]'
-  - '[[_Standards/WikiData/WD~Rawls,41317726]]'
+- '[[_Standards/WikiData/WD~Bordley,37533433]]'
+- '[[_Standards/WikiData/WD~Rawls,41317726]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
-  - '[[_Standards/WikiData/WD~political_science,36442]]'
+- '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+- '[[_Standards/WikiData/WD~political_science,36442]]'
 given_name: '[[_Standards/WikiData/WD~Q4925477,4925477]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Rawls%20%281971%20photo%20portrait%29.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
-  - '[[_Standards/WikiData/WD~John_Locke,9353]]'
+- '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+- '[[_Standards/WikiData/WD~John_Locke,9353]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000121334729
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: rp357gw90nbwdff
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~British_Academy,723551]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~British_Academy,723551]]'
 movement: '[[_Standards/WikiData/WD~analytic_philosophy,183216]]'
 name_in_native_language: John Rawls
 NLC_authorities: 037888199
 notable_work:
-  - '[[_Standards/WikiData/WD~Political_Liberalism,277406]]'
-  - '[[_Standards/WikiData/WD~A_Theory_of_Justice,300588]]'
-  - '[[_Standards/WikiData/WD~The_Law_of_Peoples,718573]]'
+- '[[_Standards/WikiData/WD~Political_Liberalism,277406]]'
+- '[[_Standards/WikiData/WD~A_Theory_of_Justice,300588]]'
+- '[[_Standards/WikiData/WD~The_Law_of_Peoples,718573]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
 P8189: 987007266963905171
 PhilPapers_topic: john-rawls
 place_of_birth: '[[_Standards/WikiData/WD~Baltimore,5092]]'
 place_of_burial: '[[_Standards/WikiData/WD~Mount_Auburn_Cemetery,1950363]]'
 place_of_death: '[[_Standards/WikiData/WD~Lexington,929667]]'
 residence:
-  - '[[_Standards/WikiData/WD~Lexington,929667]]'
-  - '[[_Standards/WikiData/WD~Baltimore,5092]]'
+- '[[_Standards/WikiData/WD~Lexington,929667]]'
+- '[[_Standards/WikiData/WD~Baltimore,5092]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse: '[[_Standards/WikiData/WD~Margaret_Warfield_Fox,109332613]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_John_Rawls,14407155]]'
+dv_has_:
+  name_:
+    af: John Rawls
+    ar: جون رولز
+    arz: جون رولز
+    ast: John Rawls
+    az: Con Rolz
+    be-tarask: Джон Роўлз
+    bg: Джон Ролс
+    bn: জন রল্স
+    bs: John Rawls
+    ca: John Rawls
+    ckb: جۆن ڕۆڵز
+    cs: John Rawls
+    cy: John Rawls
+    da: John Rawls
+    dag: John Rawls
+    de: John Rawls
+    el: Τζον Ρωλς
+    en: John Rawls
+    eo: John Rawls
+    es: John Rawls
+    et: John Rawls
+    eu: John Rawls
+    fa: جان رالز
+    fi: John Rawls
+    fr: John Rawls
+    fy: John Rawls
+    ga: John Rawls
+    gl: John Rawls
+    he: ג'ון רולס
+    hi: जॉन राल्स
+    hr: John Rawls
+    hu: John Rawls
+    hy: Ճոն Ռաուլզ
+    hyw: Ճոն Ռաուլզ
+    id: John Rawls
+    is: John Rawls
+    it: John Rawls
+    ja: ジョン・ロールズ
+    jv: John Rawls
+    kk: Джон Роулз
+    ko: 존 롤스
+    la: Ioannes Rawls
+    li: John Rawls
+    lt: John Rawls
+    mg: John Rawls
+    ml: ജോൺ റൗൾസ്
+    mul: John Rawls
+    nb: John Rawls
+    new: जन रल्स
+    nl: John Rawls
+    nn: John Rawls
+    oc: John Rawls
+    pa: ਜੌਨ ਰਾਵਲਸ
+    pap: John Rawls
+    pl: John Rawls
+    ps: جان رالز
+    pt: John Rawls
+    pt-br: John Rawls
+    ro: John Rawls
+    ru: Джон Ролз
+    sco: John Rawls
+    sh: John Rawls
+    sk: John Rawls
+    sl: John Rawls
+    sq: John Rawls
+    sr: Џон Ролс
+    sr-ec: Џон Ролс
+    sr-el: Džon Rols
+    sv: John Rawls
+    ta: ஜான் ரால்ஸ்
+    tr: John Rawls
+    uk: Джон Роулз
+    vi: John Rawls
+    war: John Rawls
+    wuu: 约翰·颅厄涩
+    yo: John Rawls
+    yue: 莊羅爾斯
+    zh: 约翰·罗尔斯
+    zh-cn: 约翰·罗尔斯
+    zh-hans: 约翰·罗尔斯
+    zh-hant: 約翰·羅爾斯
+    zh-hk: 約翰·羅爾斯
+    zh-sg: 约翰·罗尔斯
+    zh-tw: 約翰·羅爾斯
 ---
-
 # [[Rawls,John]] 
 
 #is_/same_as :: [[../../../WikiData/WD~John_Rawls,172544]] 

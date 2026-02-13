@@ -1,8 +1,110 @@
 ---
 has_id_wikidata: Q244315
+dv_has_:
+  name_:
+    ar: ستسيل الدماء
+    arz: ستسيل الدماء
+    ast: There Will Be Blood
+    az: Qan töküləcək
+    be: І будзе кроў
+    bg: Ще се лее кръв
+    bn: দেয়ার উইল বি ব্লাড
+    ca: There Will Be Blood
+    cs: Až na krev
+    cy: There Will Be Blood
+    da: There Will Be Blood
+    de: There Will Be Blood
+    el: Θα χυθεί αίμα
+    en: There Will Be Blood
+    es: There Will Be Blood
+    eu: There Will Be Blood
+    fa: خون به پا خواهد شد
+    fi: There Will Be Blood
+    fr: There Will Be Blood
+    ga: There Will Be Blood
+    gl: There Will Be Blood
+    he: זה ייגמר בדם
+    hr: Bit će krvi
+    ht: There Will Be Blood
+    hu: Vérző olaj
+    hy: Նավթ
+    id: There Will Be Blood
+    it: Il petroliere
+    ja: ゼア・ウィル・ビー・ブラッド
+    jv: There Will Be Blood
+    ka: და იქნება სისხლი
+    ko: 데어 윌 비 블러드
+    li: There Will Be Blood
+    lt: Bus kraujo
+    lv: Plūdīs asinis
+    mi: Ka Toto
+    mk: Ќе има крв
+    ms: Filem There Will Be Blood
+    mul: There Will Be Blood
+    mzn: خون بپا وونه
+    nb: There Will Be Blood
+    nl: There Will Be Blood
+    pa: ਉੱਥੇ ਖੂਨ ਹੋਵੇਗਾ
+    pl: Aż poleje się krew
+    pt: There Will Be Blood
+    pt-br: Sangue Negro
+    ro: Va curge sânge
+    ru: Нефть
+    sr: Биће крви
+    sr-ec: Биће крви
+    sr-el: Biće krvi
+    sv: There Will Be Blood
+    sw: There Will Be Blood
+    tr: Kan Dökülecek
+    uk: Нафта
+    wuu: 血色将至
+    yue: 黑金風雲
+    zh: 黑金企業
+    zh-cn: 血色将至
+    zh-hans: 血色将至
+    zh-hant: 黑金企業
+    zh-hk: 黑金風雲
+    zh-my: 黑金企业
+    zh-sg: 黑金企业
+    zh-tw: 黑金企業
+aliases:
+- Aż poleje się krew
+- Až na krev
+- Bit će krvi
+- Biće krvi
+- Bus kraujo
+- Filem There Will Be Blood
+- Il petroliere
+- Ka Toto
+- Kan Dökülecek
+- Plūdīs asinis
+- Qan töküləcək
+- Sangue Negro
+- There Will Be Blood
+- Va curge sânge
+- Vérző olaj
+- Θα χυθεί αίμα
+- І будзе кроў
+- Ќе има крв
+- Биће крви
+- Нафта
+- Нефть
+- Ще се лее кръв
+- Նավթ
+- זה ייגמר בדם
+- خون به پا خواهد شد
+- خون بپا وونه
+- ستسيل الدماء
+- দেয়ার উইল বি ব্লাড
+- ਉੱਥੇ ਖੂਨ ਹੋਵੇਗਾ
+- და იქნება სისხლი
+- ゼア・ウィル・ビー・ブラッド
+- 血色将至
+- 黑金企业
+- 黑金企業
+- 黑金風雲
+- 데어 윌 비 블러드
 ---
-
-
 # [[There_will_be_Blood]] 
 
 

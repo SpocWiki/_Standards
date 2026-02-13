@@ -1,9 +1,67 @@
 ---
 aliases:
-  - Alasdair Gray
-  - Alasdair_Gray
-  - Gray,Alasdair
+- Alasdair Gray
+- Alasdair_Gray
+- Gray,Alasdair
+- Άλασντερ Γκρέι
+- Аласдер Грей
+- Аласдер Ґрей
+- Алистър Грей
+- Ալասդեր Գրեյ
+- אלאסדייר גריי
+- آلاسدایر گری
+- ألسدير غراي
+- السدير جراى
+- ალასდერ გრეი
+- アラスター・グレイ
+- 阿拉斯代尔·格雷
 has_id_wikidata: Q729121
+dv_has_:
+  name_:
+    ar: ألسدير غراي
+    arz: السدير جراى
+    ast: Alasdair Gray
+    bg: Алистър Грей
+    ca: Alasdair Gray
+    cs: Alasdair Gray
+    da: Alasdair Gray
+    de: Alasdair Gray
+    el: Άλασντερ Γκρέι
+    en: Alasdair Gray
+    eo: Alasdair Gray
+    es: Alasdair Gray
+    eu: Alasdair Gray
+    fa: آلاسدایر گری
+    fi: Alasdair Gray
+    fr: Alasdair Gray
+    ga: Alasdair Gray
+    gd: Alasdair Gray
+    he: אלאסדייר גריי
+    hu: Alasdair Gray
+    hy: Ալասդեր Գրեյ
+    it: Alasdair Gray
+    ja: アラスター・グレイ
+    lb: Alasdair Gray
+    mul: Alasdair Gray
+    nb: Alasdair Gray
+    nl: Alasdair Gray
+    nn: Alasdair Gray
+    pl: Alasdair Gray
+    pt: Alasdair Gray
+    pt-br: Alasdair Gray
+    ru: Аласдер Грей
+    sco: Alasdair Gray
+    sh: Alasdair Gray
+    sk: Alasdair Gray
+    sl: Alasdair Gray
+    sq: Alasdair Gray
+    sv: Alasdair Gray
+    tr: Alasdair Gray
+    uk: Аласдер Ґрей
+    xmf: ალასდერ გრეი
+    zh: 阿拉斯代尔·格雷
+    zh-cn: 阿拉斯代尔·格雷
+    zh-hans: 阿拉斯代尔·格雷
 ---
 ## #has_/text_of_/abstract 
 

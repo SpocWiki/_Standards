@@ -1,7 +1,30 @@
 ---
 aliases:
-  - Homotopie
-  - Homotopy
+- homotoopia
+- Homotopi
+- homotopia
+- Homotopie
+- homotopiija
+- homotopija
+- homotopije
+- homotopio
+- Homotopy
+- homotopía
+- omotopia
+- omotopie
+- đồng luân
+- ομοτοπία
+- гаматопія
+- гомотопія
+- гомотопия
+- хомотопија
+- הומוטופיה
+- تحاول
+- همجایی
+- ホモトピー
+- 同伦
+- 同倫
+- 호모토피
 has_id_wikidata: Q746083
 subclass_of: '[[_Standards/WikiData/WD~continuous_function,170058]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -11,8 +34,60 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Homotopic%20paths.
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Homotopy%20between%20two%20paths.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/HomotopySmall.gif
 Commons_category: Homotopy
+dv_has_:
+  name_:
+    ar: تحاول
+    ast: homotopía
+    be-tarask: гаматопія
+    ca: homotopia
+    cs: homotopie
+    de: Homotopie
+    de-ch: Homotopie
+    el: ομοτοπία
+    en: homotopy
+    en-ca: homotopy
+    en-gb: homotopy
+    eo: homotopio
+    es: homotopía
+    et: homotoopia
+    eu: homotopia
+    fa: همجایی
+    fi: homotopia
+    fr: homotopie
+    gl: homotopía
+    he: הומוטופיה
+    hr: homotopija
+    id: Homotopi
+    it: omotopia
+    ja: ホモトピー
+    ko: 호모토피
+    la: homotopia
+    nb: homotopi
+    nl: homotopie
+    nn: homotopi
+    pl: homotopia
+    pt: homotopia
+    pt-br: homotopia
+    ro: omotopie
+    ru: гомотопия
+    se: homotopiija
+    sh: homotopija
+    sl: homotopija
+    sma: homotopije
+    smj: homotopija
+    smn: homotopia
+    sms: homotopia
+    sr: хомотопија
+    sv: homotopi
+    tr: homotopi
+    uk: гомотопія
+    vi: đồng luân
+    wuu: 同伦
+    yue: 同倫
+    zh: 同倫
+    zh-hant: 同倫
+    zh-tw: 同倫
 ---
-
 # [[Homotopy]] 
 
 #is_/same_as :: [[WD~Homotopy,746083]] 

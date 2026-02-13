@@ -1,8 +1,73 @@
 ---
 aliases:
-  - Acariformes
+- Acariformes
+- Aktinedidlər
+- lårkvalster
+- Акариформні кліщі
+- акариформные клещи
+- акарыформныя кляшчы
+- قراديات الشكل
+- کنهشکلان
+- ნამდვილი ტკიპები
+- 真螨总目
+- 真蟎總目
+- 胸板ダニ類
+- 진드기상목
 title: Acariformes
 has_id_wikidata: Q1341457
+dv_has_:
+  name_:
+    an: Acariformes
+    ar: قراديات الشكل
+    arz: قراديات الشكل
+    ast: Acariformes
+    az: Aktinedidlər
+    be: акарыформныя кляшчы
+    bg: Acariformes
+    ca: Acariformes
+    ceb: Acariformes
+    de: Acariformes
+    en: Acariformes
+    eo: Acariformes
+    es: Acariformes
+    eu: Acariformes
+    ext: Acariformes
+    fa: کنهشکلان
+    fi: Acariformes
+    fr: Acariformes
+    ga: Acariformes
+    gl: Acariformes
+    ia: Acariformes
+    id: Acariformes
+    ie: Acariformes
+    io: Acariformes
+    it: Acariformes
+    ja: 胸板ダニ類
+    ka: ნამდვილი ტკიპები
+    ko: 진드기상목
+    la: Acariformes
+    mul: Acariformes
+    nb: Acariformes
+    nl: Acariformes
+    oc: Acariformes
+    pl: Acariformes
+    pt: Acariformes
+    pt-br: Acariformes
+    ro: Acariformes
+    ru: акариформные клещи
+    sl: Acariformes
+    sq: Acariformes
+    sr: Acariformes
+    sv: lårkvalster
+    tr: Acariformes
+    uk: Акариформні кліщі
+    vi: Acariformes
+    vo: Acariformes
+    war: Acariformes
+    zh: 真螨总目
+    zh-cn: 真螨总目
+    zh-hans: 真螨总目
+    zh-tw: 真蟎總目
 ---
 # [[Acariformes]] 
 

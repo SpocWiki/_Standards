@@ -1,13 +1,63 @@
 ---
 aliases:
-  - Nukleon
-  - Nucleon
+- Hu̍t-chú
+- kjarneind
+- Nokleon
+- Nucleon
+- nucleone
+- nucleó
+- nucleón
+- nuclioni
+- nucléon
+- nukleo
+- nukleoi
+- Nukleon
+- nukleona
+- nukleonas
+- nukleoni
+- nukleonid
+- nukleono
+- nukleoon
+- nukleón
+- nuklon
+- nukloni
+- nuklonlar
+- Nwklon
+- núicléón
+- Nücleun
+- nükleon
+- νουκλεόνιο
+- нуклён
+- Нуклеон
+- нуклон
+- Նուկլոն
+- נוקליאון
+- נוקלעאן
+- ذرات هستهای
+- مٕرؠل
+- ناوکۆکە
+- نوية
+- نۆکلەۆن
+- نۋكلون
+- نیوکلیون
+- न्यूक्लिऑन
+- নিউক্লিয়ন
+- ਨਿਊਕਲੀਆਨ
+- அணுக்கருனி
+- ന്യൂക്ലിയോൺ
+- නියුක්ලියෝන
+- นิวคลีออน
+- ນິວຄລີອອນ
+- နျူကလီယွန်
+- ნუკლონი
+- 核子
+- 핵자
 has_id_wikidata: Q102165
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 has_characteristic: '[[_Standards/WikiData/WD~bound_state,908049]]'
 subclass_of: '[[_Standards/WikiData/WD~N_baryon,4044799]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
@@ -20,15 +70,126 @@ spin_quantum_number: 0.5
 part_of: '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nucleus%20drawing.svg
 IEV_number:
-  - 113-05-31
-  - 881-02-48
+- 113-05-31
+- 881-02-48
 Dewey_Decimal_Classification: 539.7212
 OmegaWiki_Defined_Meaning: 860595
 UMLS_CUI: C4277596
 MeSH_tree_code: G01.249.660
 Krugosvet_article: nauka_i_tehnika/fizika/NUKLON.html
+dv_has_:
+  name_:
+    af: nukleon
+    ar: نوية
+    az: nuklon
+    be: нуклон
+    be-tarask: нуклён
+    bg: Нуклеон
+    bn: নিউক্লিয়ন
+    br: Nukleon
+    bs: Nukleon
+    ca: nucleó
+    ckb: ناوکۆکە
+    cs: nukleon
+    cv: Нуклон
+    da: nukleon
+    de: Nukleon
+    el: νουκλεόνιο
+    en: nucleon
+    eo: nukleono
+    es: nucleón
+    et: nukleonid
+    eu: nukleoi
+    fa: ذرات هستهای
+    fi: nukleoni
+    fr: nucléon
+    ga: núicléón
+    gl: nucleón
+    he: נוקליאון
+    hi: न्यूक्लिऑन
+    hr: nukleon
+    hu: nukleon
+    hy: Նուկլոն
+    ia: Nucleon
+    id: Nukleon
+    io: nukleo
+    is: kjarneind
+    it: nucleone
+    ja: 核子
+    ka: ნუკლონი
+    kk: Нуклон
+    kk-arab: نۋكلون
+    kk-cn: نۋكلون
+    kk-cyrl: Нуклон
+    kk-kz: Нуклон
+    kk-latn: Nwklon
+    kk-tr: Nwklon
+    ko: 핵자
+    ks: مٕرؠل
+    ku: Nokleon
+    ku-arab: نۆکلەۆن
+    ku-latn: Nokleon
+    ky: нуклон
+    lfn: nucleon
+    li: Nucleon
+    lmo: Nücleun
+    lo: ນິວຄລີອອນ
+    lt: nukleonas
+    lv: nukloni
+    mk: нуклеон
+    ml: ന്യൂക്ലിയോൺ
+    mn: Нуклон
+    mr: न्यूक्लिऑन
+    ms: Nukleon
+    my: နျူကလီယွန်
+    nan: Hu̍t-chú
+    nb: nukleon
+    nds: Nukleon
+    nl: nucleon
+    nn: nukleon
+    oc: Nucleon
+    pa: ਨਿਊਕਲੀਆਨ
+    pl: nukleon
+    pnb: نیوکلیون
+    pt: nucleon
+    ro: Nucleon
+    ru: нуклон
+    rue: Нуклеон
+    scn: nuclioni
+    se: nukleona
+    sh: Nukleon
+    si: නියුක්ලියෝන
+    sk: nukleón
+    sl: nukleon
+    smn: nukleon
+    sms: nukleoon
+    sq: nukleon
+    sr: нуклеон
+    sr-ec: Нуклеон
+    sr-el: Nukleon
+    sv: nukleon
+    ta: அணுக்கருனி
+    th: นิวคลีออน
+    tr: nükleon
+    tt: нуклон
+    tt-cyrl: нуклон
+    uk: нуклон
+    ur: نیوکلیون
+    uz: nuklonlar
+    vec: Nucleon
+    vi: nucleon
+    vro: Nukleon
+    wo: Nukleon
+    wuu: 核子
+    yi: נוקלעאן
+    zh: 核子
+    zh-cn: 核子
+    zh-hans: 核子
+    zh-hant: 核子
+    zh-hk: 核子
+    zh-sg: 核子
+    zh-tw: 核子
 ---
-
 # [[Nucleon]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~nucleon,102165]] 

@@ -1,45 +1,135 @@
 ---
 aliases:
-  - Daoism
-  - Taoism
+- Agama Tao
+- Ajaran Tao
+- dajyjda
+- Daoculuk
+- Daoegezh
+- Daoism
+- daoisms
+- Daoismus
+- daoizem
+- Daoizmas
+- Daosizm
+- Dauhgyau
+- Dauisme
+- Dowizim
+- Dô̤-gáu
+- Khwitawo
+- nasin To
+- Okpukpe Tao
+- Tao ŋgbɛyɛ tɩnaa lɩmaɣzɩyɛ
+- Taoaeth
+- Taochas
+- Taoieth
+- Taoisim
+- Taoism
+- taoisma
+- Taoisme
+- Taoismi
+- taoismm
+- Taoismo
+- Taoismus
+- Taoizam
+- taoizm
+- Taoizmo
+- Taoizmus
+- taolaisuus
+- Taoísmo
+- Taoísmu
+- Taoîzm
+- Taoïme
+- Taoïsm
+- Taoïsme
+- Taoėzmos
+- Tauismu
+- Tawismo
+- Tawismu
+- Tawoyisse
+- taóismi
+- Taôisma
+- Taôismo
+- Tho-kau
+- táo mbo'e
+- Tō-kàu
+- Utao
+- Đạo giáo
+- Ταοϊσμός
+- Бомбын шажан
+- Бумбын шашин
+- Даасізм
+- Даоизъм
+- Даосизм
+- Даочылык
+- Таоізм
+- таоизам
+- Таоизм
+- Դաոսականություն
+- דאואיזם
+- טאאיזם
+- تاؤ مت
+- تاؤ مَت
+- تائوئیزم
+- تائوئیسم
+- تاویزم
+- داۋجياۋ دىنى
+- طاوية
+- طاويه
+- ताओ धर्म
+- ताओ मत
+- তাওবাদ
+- ਤਾਓਵਾਦ
+- તાઓ ધર્મ
+- டாவோயிசம்
+- టావోయిజం
+- ಟಾವೊ ತತ್ತ್ವ
+- താവോയിസം
+- ลัทธิเต๋า
+- ཏོའོ་ཅོའོ་ཆོས་ལུགས།
+- တာအိုဘာသာ
+- დაოსიზმი
+- សាសនាតាវ
+- ᱛᱟᱣ ᱫᱷᱚᱨᱚᱢ
+- 道教
+- 도교
 has_id_wikidata: Q9598
 Baidu_Tieba_name:
-  - 道门
-  - 玄门道教
+- 道门
+- 玄门道教
 OpenStreetMap_tag: religion=taoist
-main_regulatory_text: "[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]"
+main_regulatory_text: '[[_Standards/WikiData/WD~Tao_Te_Ching,134425]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~daoshi,1165430]]"
-  - "[[_Standards/WikiData/WD~Taoist_nun,101097348]]"
-  - "[[_Standards/WikiData/WD~Taoist,116865146]]"
+- '[[_Standards/WikiData/WD~daoshi,1165430]]'
+- '[[_Standards/WikiData/WD~Taoist_nun,101097348]]'
+- '[[_Standards/WikiData/WD~Taoist,116865146]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Taoism,6875396]]"
-  - "[[_Standards/WikiData/WD~Template_Taoism_footer,25728106]]"
+- '[[_Standards/WikiData/WD~Template_Taoism,6875396]]'
+- '[[_Standards/WikiData/WD~Template_Taoism_footer,25728106]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_China,10816953]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Astrology,15304965]]"
-  - "[[_Standards/WikiData/WD~WikiProject_East_Asia,21829890]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Taoism,12856757]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Taoism,17052861]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22827771,22827771]]"
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_China,10816953]]'
+- '[[_Standards/WikiData/WD~WikiProject_Astrology,15304965]]'
+- '[[_Standards/WikiData/WD~WikiProject_East_Asia,21829890]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taoism,12856757]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Taoism,17052861]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22827771,22827771]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-founded_by: "[[_Standards/WikiData/WD~Laozi,9333]]"
-country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+founded_by: '[[_Standards/WikiData/WD~Laozi,9333]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 OmegaWiki_Defined_Meaning: 1116279
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Yin%20and%20Yang%20symbol.svg
 Colon_Classification: Q8413
@@ -51,8 +141,192 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tao.svg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Taoism%20by%20country.png
 Krugosvet_article_archived_: istoriya/DAOSIZM.html
 IPTC_NewsCode: mediatopic/20000685
+dv_has_:
+  name_:
+    af: Taoïsme
+    an: Taoísmo
+    anp: ताओ धर्म
+    ar: طاوية
+    ary: طاوية
+    arz: طاويه
+    as: তাওবাদ
+    ast: Taoísmu
+    az: Daosizm
+    azb: تائوئیزم
+    ba: Даосизм
+    ban: Agama Tao
+    bcl: Tawismo
+    be: Даасізм
+    be-tarask: даасізм
+    bew: Ajaran Tao
+    bg: Даоизъм
+    bn: তাওবাদ
+    bo: ཏོའོ་ཅོའོ་ཆོས་ལུགས།
+    br: Daoegezh
+    bs: Taoizam
+    btm: Taoisme
+    bxr: Бомбын шажан
+    ca: taoisme
+    cdo: Dô̤-gáu
+    ce: Даосизм
+    ckb: تاویزم
+    crh: Taoizm
+    cs: taoismus
+    cv: Даосизм
+    cy: Taoaeth
+    da: Taoisme
+    de: Daoismus
+    de-ch: Daoismus
+    diq: Taoizm
+    el: Ταοϊσμός
+    en: Taoism
+    en-ca: Taoism
+    en-gb: Taoism
+    eo: Taoismo
+    es: taoísmo
+    et: taoism
+    eu: Taoismo
+    fa: تائوئیسم
+    fi: taolaisuus
+    fo: Taoisma
+    fr: taoïsme
+    frp: Taôismo
+    frr: Daoismus
+    fur: Taoisim
+    fy: Taoïsme
+    ga: Taochas
+    gan: 道教
+    gcr: Taoïsm
+    gl: taoísmo
+    gn: táo mbo'e
+    gsw: Daoismus
+    gu: તાઓ ધર્મ
+    ha: Taoism
+    hak: Tho-kau
+    he: דאואיזם
+    hi: ताओ धर्म
+    hif: Taoism
+    hil: Tawismo
+    hr: Taoizam
+    hu: taoizmus
+    hy: Դաոսականություն
+    ia: taoismo
+    id: Taoisme
+    ig: Okpukpe Tao
+    ilo: Tawismo
+    io: Taoismo
+    is: taóismi
+    it: taoismo
+    ja: 道教
+    jam: Dowizim
+    jbo: dajyjda
+    jv: Taoisme
+    ka: დაოსიზმი
+    kaa: Daosizm
+    kbp: Tao ŋgbɛyɛ tɩnaa lɩmaɣzɩyɛ
+    kcg: Khwitawo
+    kk: Даосизм
+    kl: Taoisme
+    km: សាសនាតាវ
+    kn: ಟಾವೊ ತತ್ತ್ವ
+    knc: Taoism
+    ko: 도교
+    krj: Tawismo
+    ks: تاؤ مَت
+    ku: Taoîzm
+    kw: Taoieth
+    ky: Даосизм
+    la: Taoismus
+    lad: Taoizmo
+    lb: Daoismus
+    lfn: Dauisme
+    li: Taoïsme
+    lld: Taoism
+    lmo: Taoismo
+    lt: Daoizmas
+    lv: daoisms
+    lzh: 道教
+    mad: Taoisme
+    mg: Taôisma
+    mk: таоизам
+    ml: താവോയിസം
+    mn: Бумбын шашин
+    mr: ताओ मत
+    ms: Taoisme
+    mwl: Taoísmo
+    my: တာအိုဘာသာ
+    nan: Tō-kàu
+    nb: taoisme
+    nds: Taoismus
+    ne: ताओ धर्म
+    new: ताओ धर्म
+    nl: Taoïsme
+    nn: Taoisme
+    oc: Taoïsme
+    pa: ਤਾਓਵਾਦ
+    pag: Tawismo
+    pam: Tawismu
+    pap: taoismo
+    pcd: Taoïme
+    pl: taoizm
+    pms: Taoism
+    pnb: تاؤ مت
+    pt: Taoismo
+    pt-br: Taoismo
+    rki: တာအိုဘာသာ
+    ro: taoism
+    ru: даосизм
+    rue: Таоізм
+    sah: Таоизм
+    sat: ᱛᱟᱣ ᱫᱷᱚᱨᱚᱢ
+    scn: Tauismu
+    sco: Taoism
+    se: taoisma
+    sgs: Taoėzmos
+    sh: Taoizam
+    sk: Taoizmus
+    sl: daoizem
+    smn: taoism
+    sms: taoismm
+    sn: Utao
+    so: Taoism
+    sq: Taoismi
+    sr: таоизам
+    sv: daoism
+    sw: Utao
+    ta: டாவோயிசம்
+    te: టావోయిజం
+    tg: Даосизм
+    th: ลัทธิเต๋า
+    tl: Tawismo
+    tok: nasin To
+    tr: Daoculuk
+    tt: Даочылык
+    tyv: Даосизм
+    udm: даосизм
+    ug: داۋجياۋ دىنى
+    uk: Даосизм
+    ur: تاؤ مت
+    uz: Daosizm
+    vi: Đạo giáo
+    vro: Taoism
+    wa: Tawoyisse
+    war: Tawismo
+    wuu: 道教
+    xmf: დაოსიზმი
+    yi: טאאיזם
+    yue: 道教
+    za: Dauhgyau
+    zh: 道教
+    zh-cn: 道教
+    zh-hans: 道教
+    zh-hant: 道教
+    zh-hk: 道教
+    zh-mo: 道教
+    zh-my: 道教
+    zh-sg: 道教
+    zh-tw: 道教
 ---
-
 # [[Taoism]] 
 
 #has_/creator :: [[../../../../Philosopher/Ancient_Philosopher/Laozi|Laozi]] 

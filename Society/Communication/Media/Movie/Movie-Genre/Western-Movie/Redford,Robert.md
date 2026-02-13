@@ -1,9 +1,174 @@
 ---
 aliases:
-  - Robert Redford
-  - Charles Robert Redford Jr.
-  - Redford,Robert
+- Charles Robert Redford Jr.
+- Redford,Robert
+- Robert Redford
+- Roberts Redfords
+- Robertus Redford
+- Ρόμπερτ Ρέντφορντ
+- Роберт Редфорд
+- Роберт Рэдфард
+- Робърт Редфорд
+- Робэрт Рэдфард
+- Ռոբերտ Ռեդֆորդ
+- רוברט רדפורד
+- رابرت ردفورد
+- رابرٹ ریڈفورڈ
+- روبرت ريدفورد
+- روبٲرٛٹ ریڈ فورڈ
+- ڕۆبێرت ڕێدفۆرد
+- रॉबर्ट रेडफोर्ड
+- রবার্ট রেডফোর্ড
+- ਰਾਬਰਟ ਰੈੱਡਫੋਰਡ
+- రాబర్ట్ రెడ్ఫోర్డ్
+- โรเบิร์ต เรดฟอร์ด
+- რობერტ რედფორდი
+- ᱨᱚᱵᱟᱴ ᱨᱮᱰᱯᱷᱚᱨᱰ
+- ロバート・レッドフォード
+- 勞勃·瑞福
+- 罗伯特·雷德福
+- 罗拔·烈福
+- 羅拔烈福
+- 로버트 레드퍼드
 has_id_wikidata: Q59215
+dv_has_:
+  name_:
+    af: Robert Redford
+    an: Robert Redford
+    ar: روبرت ريدفورد
+    arz: روبرت ريدفورد
+    ast: Robert Redford
+    az: Robert Redford
+    azb: رابرت ردفورد
+    bar: Robert Redford
+    be: Роберт Рэдфард
+    be-tarask: Робэрт Рэдфард
+    bg: Робърт Редфорд
+    bm: Robert Redford
+    bn: রবার্ট রেডফোর্ড
+    br: Robert Redford
+    bs: Robert Redford
+    ca: Robert Redford
+    ckb: ڕۆبێرت ڕێدفۆرد
+    co: Robert Redford
+    cs: Robert Redford
+    cy: Robert Redford
+    de: Robert Redford
+    de-at: Robert Redford
+    de-ch: Robert Redford
+    ee: Robert Redford
+    el: Ρόμπερτ Ρέντφορντ
+    en: Robert Redford
+    en-ca: Robert Redford
+    en-gb: Robert Redford
+    eo: Robert Redford
+    es: Robert Redford
+    et: Robert Redford
+    eu: Robert Redford
+    fa: رابرت ردفورد
+    fi: Robert Redford
+    fr: Robert Redford
+    frc: Robert Redford
+    frp: Robert Redford
+    fur: Robert Redford
+    fy: Robert Redford
+    ga: Robert Redford
+    gd: Robert Redford
+    gl: Robert Redford
+    gsw: Robert Redford
+    he: רוברט רדפורד
+    hr: Robert Redford
+    ht: Robert Redford
+    hu: Robert Redford
+    hy: Ռոբերտ Ռեդֆորդ
+    ia: Robert Redford
+    id: Robert Redford
+    ie: Robert Redford
+    io: Robert Redford
+    is: Robert Redford
+    it: Robert Redford
+    ja: ロバート・レッドフォード
+    jam: Robert Redford
+    ka: რობერტ რედფორდი
+    kab: Robert Redford
+    kg: Robert Redford
+    kk: Роберт Редфорд
+    kl: Robert Redford
+    ko: 로버트 레드퍼드
+    ks: روبٲرٛٹ ریڈ فورڈ
+    la: Robertus Redford
+    lb: Robert Redford
+    li: Robert Redford
+    lij: Robert Redford
+    lt: Robert Redford
+    lv: Roberts Redfords
+    mg: Robert Redford
+    min: Robert Redford
+    mk: Роберт Редфорд
+    mn: Роберт Редфорд
+    mr: रॉबर्ट रेडफोर्ड
+    ms: Robert Redford
+    mul: Robert Redford
+    nap: Robert Redford
+    nb: Robert Redford
+    nds: Robert Redford
+    nds-nl: Robert Redford
+    nl: Robert Redford
+    nn: Robert Redford
+    nrm: Robert Redford
+    oc: Robert Redford
+    pa: ਰਾਬਰਟ ਰੈੱਡਫੋਰਡ
+    pap: Robert Redford
+    pcd: Robert Redford
+    pms: Robert Redford
+    prg: Robert Redford
+    pt: Robert Redford
+    pt-br: Robert Redford
+    qu: Robert Redford
+    rgn: Robert Redford
+    rm: Robert Redford
+    ro: Robert Redford
+    ru: Роберт Редфорд
+    sat: ᱨᱚᱵᱟᱴ ᱨᱮᱰᱯᱷᱚᱨᱰ
+    sc: Robert Redford
+    scn: Robert Redford
+    sco: Robert Redford
+    sh: Robert Redford
+    sk: Robert Redford
+    sl: Robert Redford
+    sq: Robert Redford
+    sr: Robert Redford
+    sr-el: Robert Redford
+    sv: Robert Redford
+    sw: Robert Redford
+    te: రాబర్ట్ రెడ్ఫోర్డ్
+    th: โรเบิร์ต เรดฟอร์ด
+    tl: Robert Redford
+    tr: Robert Redford
+    tt: Роберт Редфорд
+    tt-cyrl: Роберт Редфорд
+    uk: Роберт Редфорд
+    ur: رابرٹ ریڈفورڈ
+    vec: Robert Redford
+    vi: Robert Redford
+    vls: Robert Redford
+    vmf: Robert Redford
+    vo: Robert Redford
+    wa: Robert Redford
+    war: Robert Redford
+    wo: Robert Redford
+    wuu: 罗伯特·雷德福
+    xmf: რობერტ რედფორდი
+    yo: Robert Redford
+    yue: 羅拔烈福
+    zh: 勞勃·瑞福
+    zh-cn: 罗伯特·雷德福
+    zh-hans: 罗伯特·雷德福
+    zh-hant: 勞勃·瑞福
+    zh-hk: 羅拔烈福
+    zh-my: 罗拔·烈福
+    zh-sg: 罗拔·烈福
+    zu: Robert Redford
 ---
 #has_/time_/started :: 1936-08-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

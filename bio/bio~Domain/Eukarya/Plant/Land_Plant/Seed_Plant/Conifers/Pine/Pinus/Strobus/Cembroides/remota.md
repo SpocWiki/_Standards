@@ -1,8 +1,53 @@
 ---
 aliases:
-  - remota
+- Pinus remota
+- remota
+- Техасісь пожум
+- Техасысь пужым
 title: Pinus remota
 has_id_wikidata: Q2916933
+dv_has_:
+  name_:
+    an: Pinus remota
+    ast: Pinus remota
+    az: Pinus remota
+    bg: Pinus remota
+    ca: Pinus remota
+    ceb: Pinus remota
+    cs: Pinus remota
+    de: Pinus remota
+    en: Pinus remota
+    eo: Pinus remota
+    es: Pinus remota
+    eu: Pinus remota
+    ext: Pinus remota
+    fi: Pinus remota
+    fr: Pinus remota
+    ga: Pinus remota
+    gl: Pinus remota
+    ia: Pinus remota
+    ie: Pinus remota
+    io: Pinus remota
+    is: Pinus remota
+    it: Pinus remota
+    koi: Техасісь пожум
+    la: Pinus remota
+    mul: Pinus remota
+    nl: Pinus remota
+    oc: Pinus remota
+    pl: Pinus remota
+    pt: Pinus remota
+    pt-br: Pinus remota
+    ro: Pinus remota
+    ru: Pinus remota
+    sq: Pinus remota
+    sv: Pinus remota
+    tr: Pinus remota
+    udm: Техасысь пужым
+    uk: Pinus remota
+    vi: Pinus remota
+    vo: Pinus remota
+    war: Pinus remota
 ---
 # [[Pinus remota]]
 

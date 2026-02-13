@@ -1,38 +1,538 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Africa,15]]"
-    - "[[/_Standards/Earth/Continent/Africa|Africa]]"
-    - "[[/_public/Earth/Continent/Africa.public|Africa.public]]"
-    - "[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]"
-    - "[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]"
-    - "[[/_private/Earth/Continent/Africa.private|Africa.private]]"
-    - "[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]"
-    - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
+  - '[[../../WikiData/WD~Africa,15]]'
+  - '[[/_Standards/Earth/Continent/Africa|Africa]]'
+  - '[[/_public/Earth/Continent/Africa.public|Africa.public]]'
+  - '[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]'
+  - '[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]'
+  - '[[/_private/Earth/Continent/Africa.private|Africa.private]]'
+  - '[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]'
+  - '[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]'
 dv_has_name_en: Africa
 dv_has_name_de: Afrika
 dv_has_:
   code: AF
+  name_:
+    ab: Африка
+    ace: Afrika
+    ady: Африкэ
+    af: Afrika
+    am: አፍሪቃ
+    an: Africa
+    ang: Affrica
+    ann: Afirika
+    anp: अफ्रीका
+    ar: إفريقيا
+    arc: ܐܦܪܝܩܐ
+    arq: إفريقيا
+    ary: إفريقيا
+    arz: افريقيا
+    as: আফ্ৰিকা
+    ast: África
+    av: Африка
+    avk: Afrika
+    awa: अफ्रिका
+    ay: Aphrika
+    az: Afrika
+    azb: آفریقا
+    ba: Африка
+    ban: Afrika
+    bar: Afrika
+    bbc: Aprika
+    bcl: Aprika
+    be: Афрыка
+    be-tarask: Афрыка
+    bew: Aprika
+    bg: Африка
+    bho: अफिरका
+    bi: Afrika
+    bjn: Aprika
+    blk: အာဖရိက
+    bm: Afrika
+    bn: আফ্রিকা
+    bo: ཨ་ཧྥེ་རི་ཁ།
+    bpy: আফ্রিকা
+    br: Afrika
+    brh: Afríká
+    bs: Afrika
+    btm: Afrika
+    bxr: Африка
+    ca: Àfrica
+    cbk-zam: Africa
+    cdo: Hĭ-ciŭ
+    ce: Африка
+    ceb: Aprika
+    ch: Africa
+    chr: ᎬᎿᎦᏍᏛ
+    chy: Mo'hetaneho'e
+    ckb: ئەفریقا
+    co: Africa
+    crh: Afrika
+    crh-latn: Afrika
+    crh-ro: Afrika
+    cs: Afrika
+    csb: Afrika
+    cu: Афрїка
+    cv: Африка
+    cy: Affrica
+    da: Afrika
+    dag: Africa
+    de: Afrika
+    de-ch: Afrika
+    dga: Africa
+    din: Apirïka
+    diq: Afrika
+    dsb: Afrika
+    dty: अफ्रिका
+    dua: Afrika
+    dz: ཨཕ་རི་ཀ་
+    ee: Afrika
+    el: Αφρική
+    eml: Africa
+    en: Africa
+    en-us: Africa
+    eo: Afriko
+    es: África
+    et: Aafrika
+    eu: Afrika
+    ext: África
+    fa: آفریقا
+    fat: Africa(Ebibirim)
+    ff: Afirik
+    fi: Afrikka
+    fit: Aafriikka
+    fj: Aferika
+    fo: Afrika
+    fon: Afrika
+    fr: Afrique
+    frp: Africa
+    frr: Afrikoo
+    fur: Afriche
+    fy: Afrika
+    ga: an Afraic
+    gag: Afrika
+    gan: 非洲
+    gcr: Lafrik
+    gd: Afraga
+    gl: África
+    glk: آفریقا
+    gn: Áfrika
+    gom: आफ्रिका खंड
+    got: "\U00010330\U00010346\U00010330\U00010342\U0001033B\U00010330\U0001033D\U00010333"
+    gpe: Africa
+    grc: Ἀφρικὴ
+    gsw: Afrika
+    gu: આફ્રિકા
+    guc: Apürika
+    gur: Afirika
+    guw: Aflika
+    gv: yn Affrick
+    ha: Afirka
+    hak: Fî-chû
+    haw: ʻApelika
+    he: אפריקה
+    hi: अफ्रीका
+    hif: Africa
+    hr: Afrika
+    hsb: Afrika
+    ht: Afrik
+    hu: Afrika
+    hy: Աֆրիկա
+    hyw: Ափրիկէ
+    ia: Africa
+    iba: Afrika
+    id: Afrika
+    ie: Africa
+    ig: Eluàlà
+    ik: Apirikaq
+    ilo: Aprika
+    inh: Аьприк
+    io: Afrika
+    is: Afríka
+    it: Africa
+    iu: ᐊᑉᕆᖄ
+    ja: アフリカ
+    jam: Afrika
+    jbo: frikytu'a
+    jv: Afrika
+    ka: აფრიკა
+    kaa: Afrika
+    kab: Tafriqt
+    kbd: Африкэ
+    kbp: Afrɩka tɛtʊ tɔm
+    kcg: Afrika
+    kg: Afelika
+    kge: Afrika
+    ki: Abĩrika
+    kk: Африка
+    kl: Afrika
+    km: អាហ្វ្រិក
+    kn: ಆಫ್ರಿಕಾ
+    knc: Africa
+    ko: 아프리카
+    koi: Африка
+    ko-kp: 아프리카
+    krc: Африка
+    ks: اَفریٖقہ
+    ksh: Affrekah
+    ku: Afrîka
+    kv: Африка
+    kw: Afrika
+    ky: Африка
+    la: Africa
+    lad: Afrika
+    lb: Afrika
+    lez: Африка
+    lfn: Africa
+    lg: Afirika
+    li: Afrika
+    lij: Africa
+    lld: Africa
+    lmo: Africa
+    ln: Afilíka
+    lo: ທະວີບອາຟຣິກາ
+    lrc: آفریقا
+    lt: Afrika
+    ltg: Afrika
+    lv: Āfrika
+    lzh: 阿非利加洲
+    mai: अफ्रिका
+    map-bms: Afrika
+    mdf: Африкань
+    mg: Afrika
+    mhr: Африка
+    mi: Āwherika
+    min: Afrika
+    mk: Африка
+    ml: ആഫ്രിക്ക
+    mn: Африк
+    mni: ꯑꯐꯔꯤꯀꯥ
+    mnw: အာဖရိက
+    mos: Africa
+    mr: आफ्रिका
+    mrj: Африка
+    ms: Afrika
+    ms-arab: افريکا
+    mt: Afrika
+    mwl: África
+    my: အာဖရိက
+    myv: Африка Мастор
+    mzn: آفریخا
+    na: Aprika
+    nah: Afrikah
+    nan: Hui-chiu
+    nap: Africa
+    nb: Afrika
+    nds: Afrika
+    nds-nl: Afrika
+    ne: अफ्रिका
+    new: अफ्रिका
+    nl: Afrika
+    nn: Afrika
+    nov: Afrika
+    nqo: ߊߝߙߌߞߌ߬
+    nr: Afrika
+    nrm: Afrique
+    nso: Afrika
+    nup: Africa
+    nv: Naakaii Łizhiní Bikéyah
+    ny: Africa
+    oc: Africa
+    olo: Afriekku
+    om: Afrikaa
+    or: ଆଫ୍ରିକା
+    os: Африкæ
+    pa: ਅਫ਼ਰੀਕਾ
+    pag: Afrika
+    pam: Aprika
+    pap: Afrika
+    pcd: Afrike
+    pcm: Afrika
+    pdc: Afrikaa
+    pih: Afreka
+    pl: Afryka
+    pms: Àfrica
+    pnb: افریقا
+    pnt: Αφρικήν
+    ps: افريقا
+    pt: África
+    pt-br: África
+    qu: Aprika
+    rm: Africa
+    rmy: Afrika
+    rn: Bufirika
+    ro: Africa
+    roa-tara: Afriche
+    ru: Африка
+    rue: Африка
+    rup: Africa
+    rw: Afurika
+    sa: आफ्रिकाखण्डः
+    sah: Африка
+    sat: ᱟᱯᱷᱨᱤᱠᱟ
+    sc: Àfrica
+    scn: Àfrica
+    sco: Africae
+    sd: آفريڪا
+    se: Afrihká
+    sg: Afrîka
+    sgs: Afrėka
+    sh: Afrika
+    shi: Tafriqt
+    shn: ဢႃႇၾရိၵ
+    si: අප්රිකාව
+    sk: Afrika
+    skr: افریقہ
+    sl: Afrika
+    sm: Aferika
+    sma: Aafrika
+    smn: Afrik
+    sms: Afrikk
+    sn: Africa
+    so: Afrika
+    sq: Afrika
+    sr: Африка
+    sr-ec: Африка
+    srn: Afrka
+    ss: Í-Afríka
+    st: Afrika
+    stq: Afrikoa
+    su: Afrika
+    sv: Afrika
+    sw: Afrika
+    syl: ꠀꠚ꠆ꠞꠤꠇꠣ
+    szl: Afrika
+    szy: "\"非洲\"u kaliyuhan nu sumamaday a niyazu'tatayna wlu amihcaan siwawatu"
+    ta: ஆபிரிக்கா
+    tay: Xweco
+    tcy: ಆಪ್ರಿಕೊ
+    te: ఆఫ్రికా
+    tet: Áfrika
+    tg: Африқо
+    th: ทวีปแอฟริกา
+    ti: ኣፍሪቃ
+    tk: Afrika
+    tl: Aprika
+    tly: Afrikə
+    tn: Aferika
+    to: ʻAfelika
+    tok: ma Apika
+    tpi: Aprika
+    tr: Afrika
+    ts: Afrika
+    tt: Африка
+    tt-cyrl: Африка
+    tt-latn: Afrika
+    tum: Afrika
+    tw: Abibiman
+    ty: ’Āfirita
+    tyv: Африка
+    udm: Африка
+    ug: ئافرىقا
+    uk: Африка
+    ur: افریقا
+    uz: Afrika
+    ve: Afurika
+    vec: Àfrica
+    vep: Afrik
+    vi: châu Phi
+    vls: Afrika
+    vo: Frikop
+    vro: Afriga
+    wa: Afrike
+    wal: Afriqqaa
+    war: Aprika
+    wlx: Afɩrɩka
+    wo: Afrig
+    wuu: 非洲
+    xal: Априк
+    xh: I-Afrika
+    xmf: აფრიკა
+    yi: אפריקע
+    yo: Áfíríkà
+    yue: 非洲
+    za: Feihcouh
+    zea: Afrika
+    zgh: ⵜⴰⴼⵔⵉⵇⵜ
+    zh: 非洲
+    zh-cn: 非洲
+    zh-hans: 非洲
+    zh-hant: 非洲
+    zh-hk: 非洲
+    zh-mo: 非洲
+    zh-my: 非洲
+    zh-sg: 非洲
+    zh-tw: 非洲
+    zu: IAfrika
 dv_is_same_as:
-  - "[[../../WikiData/WD~Africa,15]]"
-  - "[[/_Standards/Earth/Continent/Africa|Africa]]"
-  - "[[/_public/Earth/Continent/Africa.public|Africa.public]]"
-  - "[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]"
-  - "[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]"
-  - "[[/_private/Earth/Continent/Africa.private|Africa.private]]"
-  - "[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]"
-  - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
+- '[[../../WikiData/WD~Africa,15]]'
+- '[[/_Standards/Earth/Continent/Africa|Africa]]'
+- '[[/_public/Earth/Continent/Africa.public|Africa.public]]'
+- '[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]'
+- '[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]'
+- '[[/_private/Earth/Continent/Africa.private|Africa.private]]'
+- '[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]'
+- '[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]'
 dv_has_code: AF
-
 aliases:
-  - Africa
+- "\"非洲\"u kaliyuhan nu sumamaday a niyazu'tatayna wlu amihcaan siwawatu"
+- Aafriikka
+- Aafrika
+- Abibiman
+- Abĩrika
+- Afelika
+- Aferika
+- Affrekah
+- Affrica
+- Afilíka
+- Afirik
+- Afirika
+- Afirka
+- Aflika
+- Afraga
+- Afreka
+- Africa
+- Africa(Ebibirim)
+- Africae
+- Afriche
+- Afriekku
+- Afrig
+- Afriga
+- Afrihká
+- Afrik
+- Afrika
+- Afrikaa
+- Afrikah
+- Afrike
+- Afrikk
+- Afrikka
+- Afriko
+- Afrikoa
+- Afrikoo
+- Afrikə
+- Afriqqaa
+- Afrique
+- Afrka
+- Afryka
+- Afríka
+- Afríká
+- Afrîka
+- Afrėka
+- Afrɩka tɛtʊ tɔm
+- Afurika
+- Afɩrɩka
+- an Afraic
+- Aphrika
+- Apirikaq
+- Apirïka
+- Aprika
+- Apürika
+- Bufirika
+- châu Phi
+- Eluàlà
+- Feihcouh
+- Frikop
+- frikytu'a
+- Fî-chû
+- Hui-chiu
+- Hĭ-ciŭ
+- I-Afrika
+- IAfrika
+- Lafrik
+- ma Apika
+- Mo'hetaneho'e
+- Naakaii Łizhiní Bikéyah
+- Tafriqt
+- Xweco
+- yn Affrick
+- Àfrica
+- África
+- Áfrika
+- Áfíríkà
+- Í-Afríka
+- Āfrika
+- Āwherika
+- ʻAfelika
+- ʻApelika
+- Αφρική
+- Αφρικήν
+- Априк
+- Афрїка
+- Африк
+- Африкæ
+- Африка
+- Африка Мастор
+- Африкань
+- Африкэ
+- Африқо
+- Афрыка
+- Аьприк
+- Ափրիկէ
+- Աֆրիկա
+- אפריקה
+- אפריקע
+- آفريڪا
+- آفریخا
+- آفریقا
+- إفريقيا
+- ئافرىقا
+- ئەفریقا
+- افريقا
+- افريقيا
+- افريکا
+- افریقا
+- افریقہ
+- اَفریٖقہ
+- ܐܦܪܝܩܐ
+- ߊߝߙߌߞߌ߬
+- अफिरका
+- अफ्रिका
+- अफ्रीका
+- आफ्रिका
+- आफ्रिका खंड
+- आफ्रिकाखण्डः
+- আফ্রিকা
+- আফ্ৰিকা
+- ਅਫ਼ਰੀਕਾ
+- આફ્રિકા
+- ଆଫ୍ରିକା
+- ஆபிரிக்கா
+- ఆఫ్రికా
+- ಆಪ್ರಿಕೊ
+- ಆಫ್ರಿಕಾ
+- ആഫ്രിക്ക
+- අප්රිකාව
+- ทวีปแอฟริกา
+- ທະວີບອາຟຣິກາ
+- ཨ་ཧྥེ་རི་ཁ།
+- ཨཕ་རི་ཀ་
+- အာဖရိက
+- ဢႃႇၾရိၵ
+- აფრიკა
+- አፍሪቃ
+- ኣፍሪቃ
+- ᎬᎿᎦᏍᏛ
+- ᐊᑉᕆᖄ
+- អាហ្វ្រិក
+- ᱟᱯᱷᱨᱤᱠᱟ
+- Ἀφρικὴ
+- ’Āfirita
+- ⵜⴰⴼⵔⵉⵇⵜ
+- アフリカ
+- 阿非利加洲
+- 非洲
+- ꠀꠚ꠆ꠞꠤꠇꠣ
+- ꯑꯐꯔꯤꯀꯥ
+- 아프리카
+- "\U00010330\U00010346\U00010330\U00010342\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q15
 Archive_of_Our_Own_tag: Africa
 area: 30271000
 Baidu_Tieba_name: 非洲
 BHCL_UUID:
-  - e90be4fa-01eb-48eb-9bf3-76e15b8e01e8
-  - 58d03fe1-b3f0-4f34-a6e0-a2794dbb96cf
+- e90be4fa-01eb-48eb-9bf3-76e15b8e01e8
+- 58d03fe1-b3f0-4f34-a6e0-a2794dbb96cf
 Colon_Classification: SG--6
 Commons_category: Africa
 Commons_gallery: Africa
@@ -40,38 +540,38 @@ confidential: public
 coordinate_location: Point(7.1881 21.09375)
 demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Africa,3037005]]'
 demonym:
-  - afrikaner
-  - Afrikano
-  - afrikai
-  - աֆրիկացի
-  - Afrikaan
-  - Aprikana
-  - Aprikano
-  - африканці
-  - jan pi ma Apika
-  - Afracach
-  - africano
-  - africana
-  - African
-  - африқоӣ
-  - Africain
+- afrikaner
+- Afrikano
+- afrikai
+- աֆրիկացի
+- Afrikaan
+- Aprikana
+- Aprikano
+- африканці
+- jan pi ma Apika
+- Afracach
+- africano
+- africana
+- African
+- африқоӣ
+- Africain
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
 Dewey_Decimal_Classification: 2--6
 different_from:
-  - '[[_Standards/WikiData/WD~Afrika,344797]]'
-  - '[[_Standards/WikiData/WD~Africa,383824]]'
+- '[[_Standards/WikiData/WD~Afrika,344797]]'
+- '[[_Standards/WikiData/WD~Africa,383824]]'
 economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Africa,580864]]'
 exact_match: http://cv.iptc.org/newscodes/worldregion/r002
 geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Africa,781650]]'
@@ -79,35 +579,35 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Africa+Flickr.map
 GitHub_topic: africa
 Gujarati_Vishwakosh_entry: આફ્રિકા
 has_part_s_:
-  - '[[_Standards/WikiData/WD~West_Africa,4412]]'
-  - '[[_Standards/WikiData/WD~North_Africa,27381]]'
-  - '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-  - '[[_Standards/WikiData/WD~East_Africa,27407]]'
-  - '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~West_Africa,4412]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
 highest_point: '[[_Standards/WikiData/WD~Mount_Kibo,1394606]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Africa,149813]]'
 IAB_code: 1222
 icon: earth_africa
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20satellite%20orthographic.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~geographic_region,82794]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-  - '[[_Standards/WikiData/WD~continent,5107]]'
+- '[[_Standards/WikiData/WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+- '[[_Standards/WikiData/WD~continent,5107]]'
 isDeleted: false
 Libris_URI: rp354fn93k1wgrp
 located_in_on_physical_feature:
-  - '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
-  - '[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]'
+- '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
+- '[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]'
 located_in_time_zone:
-  - '[[_Standards/WikiData/WD~UTC_01_00,6540]]'
-  - '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-  - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-  - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
+- '[[_Standards/WikiData/WD~UTC_01_00,6540]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+- '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
 location:
-  - 0
-  - 0
+- 0
+- 0
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20%28orthographic%20projection%29.svg
 lowest_point: '[[_Standards/WikiData/WD~Afar_Triangle,217223]]'
 M49_code: 2
@@ -119,35 +619,35 @@ owner_of: '[[_Standards/WikiData/WD~International_Council_of_African_Museums,166
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dust%20Cloud%20Etosha%20National%20Park%20banner.jpg
 partially_coincident_with: '[[_Standards/WikiData/WD~Aethiopia,410453]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
-  - '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
-  - '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
+- '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828260,22828260]]'
 PM20_geo_code: C1
 population: 1200000000
 Provenio_UUID: a397e2ad-fe3c-477f-bd0e-26b2c70f8d34
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Eurasia,5401]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Eurasia,5401]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 social_media_followers: 104436
 SpocWebEntityId: 27156
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afrika.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afrika.ogg
 studied_in:
-  - '[[_Standards/WikiData/WD~Africana_studies,37542]]'
-  - '[[_Standards/WikiData/WD~African_studies,38157]]'
+- '[[_Standards/WikiData/WD~Africana_studies,37542]]'
+- '[[_Standards/WikiData/WD~African_studies,38157]]'
 subreddit:
-  - africana
-  - Africa
+- africana
+- Africa
 tags:
-  - geo/Continent
+- geo/Continent
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32816044,32816044]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Countries_of_Africa,5615646]]'
-  - '[[_Standards/WikiData/WD~Template_Africa_topic,55511]]'
+- '[[_Standards/WikiData/WD~Template_Countries_of_Africa,5615646]]'
+- '[[_Standards/WikiData/WD~Template_Africa_topic,55511]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Africa,7486129]]'
 type: Continent
 UMLS_CUI: C0001737
@@ -156,7 +656,6 @@ vehicles_per_thousand_people: 44
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Africa,7112174]]'
 Wolfram_Language_entity_code: Entity["GeographicRegion", "Africa"]
 ---
-
 # [[Africa]] 
 
 #is_/same_as :: [[../../WikiData/WD~Africa,15]] 

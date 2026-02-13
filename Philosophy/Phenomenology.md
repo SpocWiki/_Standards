@@ -1,30 +1,170 @@
 ---
 aliases:
+- feiniméaneolaíocht
+- fenomenologi
+- fenomenologia
+- fenomenologie
+- fenomenologija
+- fenomenologio
+- fenomenologiya
+- Fenomenologjia
+- Fenomenologìa (filosofìa)
+- fenomenología
+- Fenomenolohiya (filosofiya)
+- Fenomenolohía
+- fenomenoloji
+- fenomenolojia
+- fenomenoloogia
+- fenomenoloxía
+- fenomenoloģija
+- fenomenológia
+- Ffenomenoleg
+- fyrirbærafræði
+- fænomenologi
+- Fénoménologi
+- Hiện tượng học
+- mluske to pijyske
+- penomenolohiya
+- phaenomenologia
+- phenomenology
+- Phänomenologie
+- phénoménologie
+- φαινομενολογία
+- падидоршиносӣ
+- фенаменалогія
+- феноменологія
+- феноменологија
+- феноменология
+- фэнамэналёгія
+- ֆենոմենոլոգիա
+- פנומנולוגיה
+- دیاردەناسی
+- علم الظواهر
+- پدیدارشناسی
+- घटनाविज्ञान
+- फेनोमेनोलोजी
+- রূপতত্ত্ব (দর্শন)
+- ਵਰਤਾਰਾ ਵਿਗਿਆਨ
+- தோற்றப்பாட்டியல்
+- ปรากฏการณ์วิทยา
+- ფენომენოლოგია
+- ሥነ-ክስተት (ፍልስፍና)
+- 现象学
+- 現象学
+- 現象學
+- 현상학
 has_id_wikidata: Q179235
 different_from:
-  - "[[_Standards/WikiData/WD~phenomenology,347861]]"
-  - "[[_Standards/WikiData/WD~phenomenology,2089603]]"
-is_the_study_of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
+- '[[_Standards/WikiData/WD~phenomenology,347861]]'
+- '[[_Standards/WikiData/WD~phenomenology,2089603]]'
+is_the_study_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~phenomenology,2089603]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+- '[[_Standards/WikiData/WD~phenomenology,2089603]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~phenomenologist,28045801]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q124394249,124394249]]"
-founded_by: "[[_Standards/WikiData/WD~Edmund_Husserl,58586]]"
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~phenomenologist,28045801]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q124394249,124394249]]'
+founded_by: '[[_Standards/WikiData/WD~Edmund_Husserl,58586]]'
 PhilPapers_topic: phenomenology
 Commons_category: Phenomenology
 BHCL_UUID: 1f879619-08db-4885-9cdf-fc2cce6d3fa8
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Husserl%201900.jpg
 Library_of_Congress_Classification: B829.5.A-B829.5.Z
+dv_has_:
+  name_:
+    af: fenomenologie
+    am: ሥነ-ክስተት (ፍልስፍና)
+    ar: علم الظواهر
+    az: fenomenologiya
+    be: фенаменалогія
+    be-tarask: фэнамэналёгія
+    bg: Феноменология
+    bn: রূপতত্ত্ব (দর্শন)
+    ca: fenomenologia
+    ckb: دیاردەناسی
+    cs: fenomenologie
+    cy: Ffenomenoleg
+    da: fænomenologi
+    de: Phänomenologie
+    el: φαινομενολογία
+    en: phenomenology
+    eo: fenomenologio
+    es: fenomenología
+    et: fenomenoloogia
+    eu: fenomenologia
+    fa: پدیدارشناسی
+    fi: fenomenologia
+    fr: phénoménologie
+    ga: feiniméaneolaíocht
+    gl: fenomenoloxía
+    he: פנומנולוגיה
+    hi: घटनाविज्ञान
+    hr: fenomenologija
+    hu: fenomenológia
+    hy: ֆենոմենոլոգիա
+    id: fenomenologi
+    io: fenomenologio
+    is: fyrirbærafræði
+    it: fenomenologia
+    ja: 現象学
+    jbo: mluske to pijyske
+    jv: Fénoménologi
+    ka: ფენომენოლოგია
+    kaa: Fenomenologiya
+    kk: Феноменология
+    ko: 현상학
+    ky: Феноменология
+    la: phaenomenologia
+    lfn: fenomenolojia
+    lt: fenomenologija
+    lv: fenomenoloģija
+    mk: феноменологија
+    nb: fenomenologi
+    new: फेनोमेनोलोजी
+    nl: fenomenologie
+    nn: fenomenologi
+    oc: fenomenologia
+    pa: ਵਰਤਾਰਾ ਵਿਗਿਆਨ
+    pam: Fenomenolohía
+    pl: fenomenologia
+    pms: Fenomenologìa (filosofìa)
+    pt: fenomenologia
+    ro: fenomenologie
+    ru: феноменология
+    sh: fenomenologija
+    sk: fenomenológia
+    sl: fenomenologija
+    sq: Fenomenologjia
+    sr: феноменологија
+    sr-ec: Феноменологија
+    sr-el: fenomenologija
+    su: fénoménologi
+    sv: fenomenologi
+    ta: தோற்றப்பாட்டியல்
+    tg: падидоршиносӣ
+    th: ปรากฏการณ์วิทยา
+    tl: penomenolohiya
+    tr: fenomenoloji
+    uk: феноменологія
+    uz: fenomenologiya
+    vi: Hiện tượng học
+    war: Fenomenolohiya (filosofiya)
+    wuu: 现象学
+    yue: 現象學
+    zh: 現象學
+    zh-cn: 现象学
+    zh-hans: 现象学
+    zh-hant: 現象學
+    zh-hk: 現象學
+    zh-sg: 现象学
+    zh-tw: 現象學
 ---
-
 # [[Phenomenology]] 
 
 #is_/same_as :: [[WD~Phenomenology,179235]] 

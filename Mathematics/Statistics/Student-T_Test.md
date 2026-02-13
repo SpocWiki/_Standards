@@ -1,8 +1,93 @@
 ---
 has_id_wikidata: Q309479
+dv_has_:
+  name_:
+    ar: اختبار-تي للطالب
+    ast: Prueba t de Student
+    be-tarask: T-крытэр Ст’юдэнта
+    bho: स्टूडेंट्स टी-टेस्ट
+    ca: Prova t de Student
+    cs: t-test
+    de: T-Test
+    el: Student's t-test
+    en: Student's t-test
+    eo: Studenta t-testo
+    es: Prueba t de Student
+    et: T-test
+    eu: t test
+    fa: آزمون تی استیودنت
+    fi: Studentin t-testi
+    fr: test de Student
+    gl: Test t de Student
+    he: מבחן t
+    hi: टी-परीक्षण
+    hr: T-test
+    hu: T-próba
+    id: Uji t Student
+    it: Test t
+    ja: t検定
+    jv: Uji t-Student
+    ko: T-test
+    lv: T tests
+    mk: Студентова t-проверка
+    nb: T-test
+    nl: t-toets
+    pl: Test t Studenta
+    pt: Teste t de Student
+    pt-br: Teste t
+    ro: Testul Student
+    ru: T-критерий Стьюдента
+    sr: Studentov t-test
+    su: Student's t-test
+    sv: T-test
+    sw: Jaribio T la Mwanafunzi
+    tr: Tek anakütle ortalaması için parametrik hipotez sınaması
+    uk: T-критерій Стьюдента
+    yue: 學生 t 測試
+    zh: 學生t檢驗
+    zh-cn: 学生t检验
+    zh-hans: 学生t检验
+    zh-hant: 學生t檢驗
+    zh-hk: 學生t檢驗
+    zh-sg: 学生t检验
+    zh-tw: 學生t檢驗
+aliases:
+- Jaribio T la Mwanafunzi
+- Prova t de Student
+- Prueba t de Student
+- Student's t-test
+- Studenta t-testo
+- Studentin t-testi
+- Studentov t-test
+- t test
+- T tests
+- T-próba
+- t-test
+- t-toets
+- T-критерій Стьюдента
+- T-критерий Стьюдента
+- T-крытэр Ст’юдэнта
+- Tek anakütle ortalaması için parametrik hipotez sınaması
+- test de Student
+- Test t
+- Test t de Student
+- Test t Studenta
+- Teste t
+- Teste t de Student
+- Testul Student
+- t検定
+- Uji t Student
+- Uji t-Student
+- Студентова t-проверка
+- מבחן t
+- آزمون تی استیودنت
+- اختبار-تي للطالب
+- टी-परीक्षण
+- स्टूडेंट्स टी-टेस्ट
+- 学生t检验
+- 學生 t 測試
+- 學生t檢驗
 ---
-
-
 # [[Student-T_Test]] 
 
 #is_/same_as :: [[../../WikiData/WD~Student's_t-test,309479|WD~Student's_t-test,309479]]  

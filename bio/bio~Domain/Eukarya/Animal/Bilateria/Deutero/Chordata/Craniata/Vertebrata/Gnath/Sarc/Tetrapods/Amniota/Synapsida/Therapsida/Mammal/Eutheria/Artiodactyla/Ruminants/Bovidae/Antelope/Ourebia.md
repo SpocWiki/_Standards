@@ -1,8 +1,109 @@
 ---
 aliases:
-  - Ourebia
+- Adiɛl
+- Batsiya
+- Dzɔki
+- Haltsooítah bįįhgi átʼéhígíí
+- Nkolonin
+- Oorbietjie
+- oribi
+- Oribi smukłonogi
+- Oribis
+- Oribí
+- Oribė
+- Ourebia
+- Ourebia ourebi
+- Ourebia ourebi ssp. haggardi
+- Surbol (Ourebia ourebi)
+- Taya
+- Waliga
+- Орібі
+- Ориби
+- אוריבי
+- آهوی رنگپریده
+- أوريبي
+- اوريبى
+- اوریبی
+- ஒர்ரிபி
+- ორიბი
+- ፌቆ
+- オリビ
+- 侏羚
+- 肯亞侏羚
+- 肯尼亚侏羚
+- 오리비영양
 title: Ourebia ourebi
 has_id_wikidata: Q275615
+dv_has_:
+  name_:
+    af: Oorbietjie
+    am: ፌቆ
+    ar: أوريبي
+    arz: اوريبى
+    ast: Oribí
+    av: Ориби
+    avk: Surbol (Ourebia ourebi)
+    bg: ориби
+    bm: Nkolonin
+    br: Oribi
+    ca: oribí
+    ceb: Ourebia ourebi
+    cs: Oribi
+    dag: Waliga
+    de: Oribis
+    din: Adiɛl
+    ee: Dzɔki
+    en: oribi
+    es: Ourebia ourebi
+    eu: Ourebia ourebi
+    fa: آهوی رنگپریده
+    fi: oribi
+    fr: Ourebia ourebi
+    frr: Oribis
+    ga: Ourebia ourebi
+    gl: Ourebia ourebi
+    ha: Batsiya
+    he: אוריבי
+    hr: Oribi
+    hu: oribi
+    ia: Ourebia ourebi
+    id: Oribi
+    it: Ourebia ourebi
+    ja: オリビ
+    ka: ორიბი
+    ko: 오리비영양
+    la: Ourebia ourebi
+    lez: Ориби
+    lt: Oribė
+    mhr: Ориби
+    mul: Ourebia ourebi
+    nb: oribi
+    nl: Oribi
+    nv: Haltsooítah bįįhgi átʼéhígíí
+    pl: Oribi smukłonogi
+    pnb: اوریبی
+    pt: Ourebia ourebi
+    ro: Ourebia ourebi
+    ru: Ориби
+    sco: oribi
+    sh: Oribi
+    sl: Oribi
+    sq: Ourebia ourebi
+    sr: Ourebia ourebi ssp. haggardi
+    sr-ec: Ourebia ourebi ssp. haggardi
+    sr-el: Ourebia ourebi ssp. haggardi
+    sv: Oribi
+    sw: Taya
+    ta: ஒர்ரிபி
+    tr: Oribi
+    udm: Ориби
+    uk: Орібі
+    vi: Ourebia ourebi
+    war: Ourebia ourebi
+    zh: 侏羚
+    zh-cn: 肯尼亚侏羚
+    zh-hant: 肯亞侏羚
+    zh-tw: 侏羚
 ---
 # Ourebia ourebi 
 ![Ourebia](Ourebia/Ourebia.jpg) 

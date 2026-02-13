@@ -1,31 +1,396 @@
 ---
 aliases:
-  - fungus
-  - fungus
-  - Fungus
-  - is_a_fungus
+- agersal
+- Boqoshaa
+- Caen'gin
+- Chanpiyon
+- Chin-khún
+- Chʼosh doo yitʼíinii dláádí dóó Ábishjaaʼ
+- Chṳ̂n-khiùn
+- Cĭng-kṳ̄ng
+- Faangasii
+- ffwng
+- Fonch
+- fong
+- Fonggos
+- Funci
+- fungas
+- fungi
+- fungo
+- fungoj
+- Fungu
+- fungus
+- Fungys
+- Funig
+- Funś
+- fúngus
+- glive
+- gljiva
+- gljive
+- gomba
+- Griby
+- Grybai
+- grziby
+- grzyby
+- Grzëbë
+- Grība
+- guobbarat
+- Göbələklər
+- houby
+- hriby
+- huby
+- I-Fungi
+- is_a_fungus
+- K'allampa
+- karok
+- kulat
+- kuobbâreh
+- Kuvu
+- kuõbbâr
+- Käöme
+- Kërpudhat
+- Liyɛbú
+- Malɛɣu
+- mantar
+- Mycota
+- Nanacatl
+- nấm
+- Ocockweto
+- onddo
+- Pilz
+- Pilza
+- Pilze
+- Pilzeräich
+- Poagenstoule
+- Poggenstöhl
+- schimmels
+- Schwammal
+- seened
+- Sienet
+- Siin
+- Skimmels
+- soko
+- Soppar
+- soppriket
+- suung
+- svampar
+- svampe
+- sveppir
+- Swaampen
+- Swam
+- sēnes
+- Takuffit n uɛaqqay
+- Talingelinga
+- Tchampion
+- Uhong
+- Urupe
+- Zamburugʻlar
+- Èbu
+- Μύκητας
+- μύκητες
+- Бöк
+- Бәшмәктәр
+- гљиве
+- габа
+- гриби
+- Грибы
+- грыбы
+- губиос
+- гъби
+- гөмбәләр
+- ЖIаленускалаш
+- Занбӯруғҳо
+- зокъотæ
+- Кăмпа
+- Козу карындар
+- Къарникъуз
+- Мөөг
+- Мөөгэ
+- Панга
+- Пангт
+- Саңырауқұлақтар
+- Теңгрин ки
+- Тэллэйдэр
+- սնկեր
+- Սունկեր
+- פטריות
+- שוואם
+- زەمبۇرۇغ
+- فطر
+- فنګوسونه
+- فنگس
+- فݣيعيات
+- قارچ
+- ميش
+- کوارگ
+- کولت
+- گؤبلکلر
+- گوشک
+- कवकम्
+- ढुसी
+- फफूंद
+- फफूंदी
+- फुसा
+- बुरशी
+- ছত্রাক
+- ভেঁকুৰ
+- ਉੱਲੀ
+- பூஞ்சை
+- శిలీంధ్రం
+- ಲಾಂಬು
+- ಶಿಲೀಂಧ್ರ
+- പൂപ്പൽ
+- දිලීර
+- เห็ดรา
+- မှို
+- სოკოები
+- სოკოეფი
+- ፈንገስ
+- ᏭᎾᎩ
+- 真菌
+- 真菌界
+- 菌界
+- 균계
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: InfectiousAgentClass
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - fungus
+- fungus
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_fungus Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
+- class/Class
+- schema-org/Class
+- class/infectious_agent
 title: is_a_fungus Class
 type: Type
 has_id_wikidata: Q764
+dv_has_:
+  name_:
+    af: Swam
+    alt: Бöк
+    am: ፈንገስ
+    an: Fungi
+    anp: फफूंदी
+    ar: فطر
+    ary: فݣيعيات
+    arz: فطر
+    as: ভেঁকুৰ
+    ast: Fungi
+    atj: Ocockweto
+    az: Göbələklər
+    azb: گؤبلکلر
+    ba: Бәшмәктәр
+    ban: Fungi
+    bar: Schwammal
+    bcl: Fungus
+    be: грыбы
+    be-tarask: грыбы
+    bg: гъби
+    bn: ছত্রাক
+    br: Fungi
+    bs: gljive
+    bxr: Мөөгэ
+    ca: fong
+    cdo: Cĭng-kṳ̄ng
+    ceb: Uhong
+    chr: ᏭᎾᎩ
+    ckb: کوارگ
+    co: Fungi
+    crh: mantar
+    cs: houby
+    csb: Grzëbë
+    cv: Кăмпа
+    cy: ffwng
+    da: svampe
+    dag: Malɛɣu
+    de: Pilze
+    de-at: Fungi
+    de-ch: Fungi
+    dsb: Griby
+    el: Μύκητας
+    eml: Funś
+    en: fungi
+    en-ca: Fungus
+    en-gb: fungus
+    eo: fungoj
+    es: fungi
+    et: seened
+    eu: onddo
+    ext: Fungi
+    fa: قارچ
+    fi: sienet
+    fo: Soppar
+    fr: Fungi
+    frp: Fungi
+    frr: Swaampen
+    fur: Fungi
+    fy: Skimmels
+    ga: fungas
+    gcr: Fungi
+    gd: Fungas
+    gl: fungo
+    glk: ميش
+    gn: Urupe
+    grc: μύκητες
+    gsw: Pilz
+    gv: Fungys
+    hak: Chṳ̂n-khiùn
+    he: פטריות
+    hi: फफूंद
+    hif: Fungus
+    hr: gljive
+    hsb: hriby
+    ht: Chanpiyon
+    hu: gomba
+    hy: սնկեր
+    hyw: Սունկեր
+    ia: fungo
+    id: fungi
+    ie: Fungi
+    ilo: fungus
+    inh: ЖIаленускалаш
+    io: Fungi
+    is: sveppir
+    it: Fungi
+    ja: 菌界
+    jam: Fonggos
+    jv: fungi
+    ka: სოკოები
+    kab: agersal
+    kg: Fungi
+    ki: Fungi
+    kk: Саңырауқұлақтар
+    kn: ಶಿಲೀಂಧ್ರ
+    ko: 균계
+    ku: karok
+    ku-latn: karok
+    kw: fong
+    ky: Козу карындар
+    la: Fungi
+    lb: Pilzeräich
+    lez: Къарникъуз
+    lfn: Fungo
+    li: Käöme
+    lij: Fungi
+    lld: Fonch
+    lmo: Fungi
+    ln: Liyɛbú
+    lt: Grybai
+    lv: sēnes
+    lzh: 真菌
+    mdf: Панга
+    mg: Fungi
+    min: Fungi
+    mk: габа
+    ml: പൂപ്പൽ
+    mn: Мөөг
+    mr: बुरशी
+    ms: kulat
+    ms-arab: کولت
+    mul: Fungi
+    my: မှို
+    myv: Пангт
+    mzn: گوشک
+    nah: Nanacatl
+    nan: Chin-khún
+    nap: Fungi
+    nb: soppriket
+    nds: Poggenstöhl
+    nds-nl: Fungi
+    ne: ढुसी
+    new: फुसा
+    nl: schimmels
+    nn: soppriket
+    nrm: Fungi
+    nv: Chʼosh doo yitʼíinii dláádí dóó Ábishjaaʼ
+    nys: Fungi
+    oc: Mycota
+    olo: Sienet
+    om: Faangasii
+    os: зокъотæ
+    pa: ਉੱਲੀ
+    pam: Fungus
+    pap: fúngus
+    pcd: Fungi
+    pl: grzyby
+    pms: Fungi
+    pnb: فنگس
+    ps: فنګوسونه
+    pt: Fungi
+    pt-br: Fungi
+    qu: K'allampa
+    rm: Fungi
+    ro: Fungi
+    ru: грибы
+    rue: Грибы
+    sa: कवकम्
+    sah: Тэллэйдэр
+    sc: Fungu
+    scn: Funci
+    sco: fungus
+    sd: فنگس
+    se: guobbarat
+    sgs: Grība
+    sh: gljiva
+    shi: Takuffit n uɛaqqay
+    si: දිලීර
+    sk: huby
+    sl: glive
+    sli: Pilza
+    smn: kuobbâreh
+    sms: kuõbbâr
+    so: Boqoshaa
+    sq: Kërpudhat
+    sr: гљиве
+    stq: Poagenstoule
+    su: suung
+    sv: svampar
+    sw: Kuvu
+    szl: grziby
+    ta: பூஞ்சை
+    tcy: ಲಾಂಬು
+    te: శిలీంధ్రం
+    tg: Занбӯруғҳо
+    th: เห็ดรา
+    tl: Fungus
+    to: Talingelinga
+    tok: soko
+    tr: mantar
+    tt: гөмбәләр
+    udm: губиос
+    ug: زەمبۇرۇغ
+    uk: гриби
+    ur: فطر
+    uz: Zamburugʻlar
+    vec: fungus
+    vi: nấm
+    vls: Fungi
+    vo: Funig
+    vro: Siin
+    wa: Tchampion
+    war: Fungus
+    wo: Fungi
+    wuu: 真菌
+    xal: Теңгрин ки
+    xh: I-Fungi
+    xmf: სოკოეფი
+    yi: שוואם
+    yo: Èbu
+    yue: 真菌
+    za: Caen'gin
+    zh: 真菌界
+    zh-cn: 真菌界
+    zh-hans: 真菌界
+    zu: Fungi
 ---
 # [[Fungus(pathogenic)]] 
 

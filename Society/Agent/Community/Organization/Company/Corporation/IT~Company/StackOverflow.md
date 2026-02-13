@@ -1,7 +1,56 @@
 ---
 has_id_wikidata: Q549037
+dv_has_:
+  name_:
+    ar: ستاك أوفرفلو
+    be: Stack Overflow
+    bg: Stack Overflow
+    bn: স্ট্যাক ওভারফ্লো
+    ca: Stack Overflow
+    cs: Stack Overflow
+    de: Stack Overflow
+    en: Stack Overflow
+    es: Stack Overflow
+    fa: استک اورفلو
+    fi: Stack Overflow
+    fr: Stack Overflow
+    gl: Stack Overflow
+    he: StackOverflow
+    hu: Stack Overflow
+    hy: Stack Overflow
+    id: Stack Overflow
+    it: Stack Overflow
+    ja: Stack Overflow
+    ko: 스택 오버플로
+    lv: Stack Overflow
+    ml: സ്റ്റാക് ഓവർഫ്ലോ
+    nan: Stack Overflow
+    nb: Stack Overflow
+    nl: Stack Overflow
+    pl: StackOverflow
+    pt: Stack Overflow
+    qu: Stack Overflow
+    ro: Stack Overflow
+    ru: Stack Overflow
+    sk: Stack Overflow
+    sr: Stack Overflow
+    ta: இசுட்டாக் ஓவர்ஃபுலோ
+    tr: Stack Overflow
+    uk: Stack Overflow
+    uz: Stack Overflow
+    vi: Stack Overflow
+    yue: Stack Overflow
+    zh: Stack Overflow
+aliases:
+- Stack Overflow
+- StackOverflow
+- استک اورفلو
+- ستاك أوفرفلو
+- স্ট্যাক ওভারফ্লো
+- இசுட்டாக் ஓவர்ஃபுலோ
+- സ്റ്റാക് ഓവർഫ്ലോ
+- 스택 오버플로
 ---
-
 # [[StackOverflow]] 
 
 #has_/creator :: [[../../../../../../../../Knowledge/Science/Scientist/Atwood,Jeff|Atwood,Jeff]], [[Spolski~Joel]] 

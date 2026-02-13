@@ -1,8 +1,72 @@
 ---
 aliases:
-  - second law of thermodynamics
-  - Second_Law_of_Thermodynamics
-  - Second Law of Thermodynamics
+- a termodinamika második főtétele
+- Altera lex thermodynamica
+- antrasis termodinamikos dėsnis
+- deuxième principe de la thermodynamique
+- Dezyèm lwa tèmodinamik
+- druga zasada termodynamiki
+- Drugi princip termodinamike
+- Drugi zakon termodinamike
+- Druhá termodynamická veta
+- Druhý termodynamický zákon
+- dua leĝo de termodinamiko
+- Hukum termodinamik kedua
+- Hukum termodinamika kedua
+- otrais termodinamikas likums
+- Principiul al doilea al termodinamicii
+- second law of thermodynamics
+- secondo principio della termodinamica
+- Second_Law_of_Thermodynamics
+- segon principi de la termodinàmica
+- Segond principi de la termodinamica
+- segunda lei da termodinámica
+- segunda lei da termodinâmica
+- segundo principio de la termodinámica
+- Segundu principiu de la termodinámica
+- seicont law o thermodynamics
+- Termodinamikaning ikkinchi qonuni
+- Termodinamikanın ikinci qanunu
+- Termodinamikaren bigarren legea
+- Termodinamiğin ikinci yasası
+- termodynamiikan toinen pääsääntö
+- Termodynamikens andra huvudsats
+- Termodynamikkens 2. lov
+- Termodynamikkens andre hovedsetning
+- Termodïnamïkanıñ ekinşi bastaması
+- Termodünaamika teine seadus
+- tweede wet van de thermodynamica
+- Tweede wet van termodinamika
+- zweiter Hauptsatz der Thermodynamik
+- Định luật hai nhiệt động lực học
+- Δεύτερος θερμοδυναμικός νόμος
+- Втори закон на термодинамиката
+- второе начало термодинамики
+- другі закон тэрмадынамікі
+- другі пачатак тэрмадынамікі
+- Други принцип термодинамике
+- другий закон термодинаміки
+- Термодинамикăн иккĕмĕш пуçламăшĕ
+- Термодинамиканың екінші бастамасы
+- Қонуни дувуми термодинамика
+- Ջերմադինամիկայի երկրորդ օրենք
+- החוק השני של התרמודינמיקה
+- تھرموڈائنامکس دا دوجا قنون
+- تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
+- حرحرکیات کا دوسرا قانون
+- قانون الديناميكا الحراري الثاني
+- قانون دوم ترمودینامیک
+- ऊष्मागतिकी का द्वितीय नियम
+- তাপগতিবিদ্যার দ্বিতীয় সূত্র
+- ਥਰਮੋਡਾਇਨਾਮਿਕਸ ਦਾ ਦੂਜਾ ਨਿਯਮ
+- வெப்ப இயக்கவியலின் இரண்டாம் விதி
+- තාපගති විද්යාවේ දෙවන නියමය - හැඳින්වීම
+- กฎข้อที่สองของอุณหพลศาสตร์
+- თერმოდინამიკის მეორე კანონი
+- 热力学第二定律
+- 熱力学第二法則
+- 熱力學第二定律
+- 열역학 제2법칙
 has_id_wikidata: Q177045
 follows: '[[_Standards/WikiData/WD~first_law_of_thermodynamics,179380]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Carnot,181685]]'
@@ -14,8 +78,92 @@ main_subject: '[[_Standards/WikiData/WD~entropy,45003]]'
 time_of_discovery_or_invention: 1824-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heat%20flow%20hot%20to%20cold.png
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "SecondLawOfThermodynamics"]
+dv_has_:
+  name_:
+    af: Tweede wet van termodinamika
+    ar: قانون الديناميكا الحراري الثاني
+    ast: Segundu principiu de la termodinámica
+    az: Termodinamikanın ikinci qanunu
+    be: другі пачатак тэрмадынамікі
+    be-tarask: другі закон тэрмадынамікі
+    bg: Втори закон на термодинамиката
+    bn: তাপগতিবিদ্যার দ্বিতীয় সূত্র
+    bs: Drugi zakon termodinamike
+    ca: segon principi de la termodinàmica
+    cs: Druhý termodynamický zákon
+    cv: Термодинамикăн иккĕмĕш пуçламăшĕ
+    da: Termodynamikkens 2. lov
+    de: zweiter Hauptsatz der Thermodynamik
+    el: Δεύτερος θερμοδυναμικός νόμος
+    en: second law of thermodynamics
+    eo: dua leĝo de termodinamiko
+    es: segundo principio de la termodinámica
+    et: Termodünaamika teine seadus
+    eu: Termodinamikaren bigarren legea
+    fa: قانون دوم ترمودینامیک
+    fi: termodynamiikan toinen pääsääntö
+    fr: deuxième principe de la thermodynamique
+    gl: segunda lei da termodinámica
+    he: החוק השני של התרמודינמיקה
+    hi: ऊष्मागतिकी का द्वितीय नियम
+    hr: Drugi zakon termodinamike
+    ht: Dezyèm lwa tèmodinamik
+    hu: a termodinamika második főtétele
+    hy: Ջերմադինամիկայի երկրորդ օրենք
+    id: Hukum termodinamika kedua
+    it: secondo principio della termodinamica
+    ja: 熱力学第二法則
+    ka: თერმოდინამიკის მეორე კანონი
+    kk: Термодинамиканың екінші бастамасы
+    kk-arab: تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
+    kk-cn: تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
+    kk-cyrl: Термодинамиканың екінші бастамасы
+    kk-kz: Термодинамиканың екінші бастамасы
+    kk-latn: Termodïnamïkanıñ ekinşi bastaması
+    kk-tr: Termodïnamïkanıñ ekinşi bastaması
+    ko: 열역학 제2법칙
+    la: Altera lex thermodynamica
+    lt: antrasis termodinamikos dėsnis
+    lv: otrais termodinamikas likums
+    lzh: 熱力學第二定律
+    ms: Hukum termodinamik kedua
+    nb: Termodynamikkens andre hovedsetning
+    nl: tweede wet van de thermodynamica
+    oc: Segond principi de la termodinamica
+    pa: ਥਰਮੋਡਾਇਨਾਮਿਕਸ ਦਾ ਦੂਜਾ ਨਿਯਮ
+    pl: druga zasada termodynamiki
+    pnb: تھرموڈائنامکس دا دوجا قنون
+    pt: segunda lei da termodinâmica
+    pt-br: segunda lei da termodinâmica
+    ro: Principiul al doilea al termodinamicii
+    ru: второе начало термодинамики
+    sco: seicont law o thermodynamics
+    sh: Drugi zakon termodinamike
+    si: තාපගති විද්යාවේ දෙවන නියමය - හැඳින්වීම
+    sk: Druhá termodynamická veta
+    sl: drugi zakon termodinamike
+    sr: Други принцип термодинамике
+    sr-ec: Други принцип термодинамике
+    sr-el: Drugi princip termodinamike
+    sv: Termodynamikens andra huvudsats
+    ta: வெப்ப இயக்கவியலின் இரண்டாம் விதி
+    tg: Қонуни дувуми термодинамика
+    th: กฎข้อที่สองของอุณหพลศาสตร์
+    tr: Termodinamiğin ikinci yasası
+    uk: другий закон термодинаміки
+    ur: حرحرکیات کا دوسرا قانون
+    uz: Termodinamikaning ikkinchi qonuni
+    vi: Định luật hai nhiệt động lực học
+    wuu: 热力学第二定律
+    yue: 熱力學第二定律
+    zh: 热力学第二定律
+    zh-cn: 热力学第二定律
+    zh-hans: 热力学第二定律
+    zh-hant: 熱力學第二定律
+    zh-hk: 熱力學第二定律
+    zh-sg: 热力学第二定律
+    zh-tw: 熱力學第二定律
 ---
-
 # [[Second_Law_of_Thermodynamics]] 
 
 #is_/same_as :: [[WD~Second_law_of_thermodynamics,177045]] 

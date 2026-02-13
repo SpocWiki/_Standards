@@ -1,33 +1,134 @@
 ---
 aliases:
-  - Diptera
-  - tovinger
-  - Vliegen en muggen
-  - dwuskrzydłe
-  - muchówki
-  - dvokrilci
+- Biranga
+- Buyung
+- Chhichhillanka
+- cuileog
+- Diptera
+- Diptero
+- Dipteroj
+- Diptèrs
+- Ditteri
+- Dittiri
+- divspārņu kārta
+- Duqsi
+- Dvisparniai
+- Dvojkrídlovce
+- dvokrilci
+- dvoukřídlí
+- dwuskrzydłe
+- Dípter
+- Dípteros
+- Esinsin
+- Flee
+- fly
+- Flēoȝe
+- Ikki qanotlilar
+- Inseke ås deus aiyes
+- Iskaylla rapra
+- Kahetiivalised
+- kaksisiipiset
+- Kelyonen
+- kétszárnyúak
+- lalat
+- Laler
+- Laleur
+- Lalitra
+- Langaw
+- Mantcocak
+- Mberu
+- Mosca
+- Mouch
+- Moza
+- muchówki
+- Mêş
+- Mêşe
+- Nuviivak
+- Nzinzi
+- Rango
+- Ruồi
+- Siang-si̍t-bo̍k
+- Tasenfriwin
+- tovenger
+- tovinger
+- Tsʼíʼii dóó Tséʼédǫ́ʼii
+- tvåvingar
+- tvívængjur
+- tweevleugeligen
+- Twiijügeten
+- Twièvleugelige
+- Twêevleuglign
+- Vliegen en muggen
+- Zweiflügler
+- Çift kanatlılar
+- İkiqanadlılar
+- Δίπτερα
+- Гут
+- двокрилі
+- Двокрилци
+- двукрили
+- двукрылые
+- двукрыльныя
+- двухкрылыя
+- Дыбазыронтæ
+- Карме
+- Кок шылдыран шӹнгӓвлӓ
+- Кош канаттуулар
+- Хоёр далитан
+- Қосқанаттылар
+- Երկթեւեաններ
+- երկթևանիներ
+- זבובאים
+- פליג
+- ایکیقانادلیلار
+- دوبالان
+- ذوات الجناحين
+- مقز
+- مَچھہِ
+- مک
+- مێش
+- झिँगा
+- मक्खी
+- মাছি
+- ମାଛି
+- இருசிறகிப் பூச்சிகள்
+- ఈగ
+- ಡಿಪ್ಟರ
+- ഡിപ്റ്റെറ
+- แมลงวัน
+- မႅင်းမူၼ်း
+- ယင်ကောင်
+- ორფრთიანები
+- ჭანდეფი
+- ዝንብ
+- ᱨᱚᱸ
+- ハエ目
+- 双翅目
+- 雙翅目
+- 파리목
+- "\U00010346\U0001033B\U00010339\U0001033F\U00010332\U00010349"
 has_id_wikidata: Q25312
 taxon_common_name:
-  - tovinger
-  - Vliegen en muggen
-  - dwuskrzydłe
-  - muchówki
-  - dvokrilci
+- tovinger
+- Vliegen en muggen
+- dwuskrzydłe
+- muchówki
+- dvokrilci
 Dewey_Decimal_Classification: 595.77
 named_after: '[[_Standards/WikiData/WD~insect_wing,276572]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~insect_wing,276572]]'
-  - '[[_Standards/WikiData/WD~halteres,1335456]]'
+- '[[_Standards/WikiData/WD~insect_wing,276572]]'
+- '[[_Standards/WikiData/WD~halteres,1335456]]'
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 studied_by: '[[_Standards/WikiData/WD~dipterology,3029300]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Nakridletia,4045034]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Diptera,14338246]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Antliophora,21354350]]'
-  - '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~Antliophora,21354350]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
 start_time: -245000000-01-01T00:00:00Z
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
@@ -43,8 +144,172 @@ Commons_category: Diptera
 taxon_name: Diptera
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/DVUKRILIE.html
 NBN_System_Key: NHMSYS0000841073
+dv_has_:
+  name_:
+    af: Diptera
+    am: ዝንብ
+    an: Diptera
+    ang: Flēoȝe
+    ar: ذوات الجناحين
+    arz: ذوات الجناحين
+    ast: Diptera
+    atj: Mantcocak
+    ay: Chhichhillanka
+    az: İkiqanadlılar
+    azb: ایکیقانادلیلار
+    ban: Buyung
+    bar: Diptera
+    be: двухкрылыя
+    be-tarask: двукрыльныя
+    bg: двукрили
+    bjn: Biranga
+    bn: মাছি
+    br: Diptera
+    bs: Diptera
+    bxr: Хоёр далитан
+    ca: Dípter
+    ce: Moza
+    ceb: Langaw
+    ckb: مێش
+    co: Diptera
+    cs: dvoukřídlí
+    cy: Diptera
+    da: tovinger
+    de: Zweiflügler
+    de-at: Diptera
+    de-ch: Diptera
+    diq: Mêşe
+    el: Δίπτερα
+    en: Diptera
+    en-ca: fly
+    en-gb: fly
+    eo: Dipteroj
+    es: Diptera
+    et: Kahetiivalised
+    eu: Diptera
+    ext: Diptera
+    fa: دوبالان
+    fi: kaksisiipiset
+    fr: Diptera
+    frp: Diptera
+    frr: Twiijügeten
+    fur: Diptera
+    ga: cuileog
+    gd: Diptera
+    gl: Dípteros
+    gn: Mberu
+    got: "\U00010346\U0001033B\U00010339\U0001033F\U00010332\U00010349"
+    gsw: Diptera
+    he: זבובאים
+    hi: मक्खी
+    hr: Dvokrilci
+    ht: Mouch
+    hu: kétszárnyúak
+    hy: երկթևանիներ
+    hyw: Երկթեւեաններ
+    ia: Diptera
+    id: lalat
+    ie: Diptera
+    ik: Nuviivak
+    io: Diptero
+    is: tvívængjur
+    it: Ditteri
+    ja: ハエ目
+    jv: Laler
+    ka: ორფრთიანები
+    kab: Tasenfriwin
+    kg: Diptera
+    kk: Қосқанаттылар
+    kn: ಡಿಪ್ಟರ
+    ko: 파리목
+    koi: Гут
+    ks: مَچھہِ
+    ku: Mêş
+    kv: Гут
+    kw: Kelyonen
+    ky: Кош канаттуулар
+    la: Diptera
+    lb: Diptera
+    li: Twièvleugelige
+    lij: Diptera
+    lmo: Diptera
+    ln: Nzinzi
+    lt: Dvisparniai
+    lv: divspārņu kārta
+    mg: Lalitra
+    mhr: Карме
+    mi: Rango
+    min: Diptera
+    mk: двокрилци
+    ml: ഡിപ്റ്റെറ
+    mrj: Кок шылдыран шӹнгӓвлӓ
+    ms: Lalat
+    mul: Diptera
+    my: ယင်ကောင်
+    mzn: مقز
+    nan: Siang-si̍t-bo̍k
+    nap: Diptera
+    nb: tovinger
+    nds: Diptera
+    nds-nl: Diptera
+    ne: झिँगा
+    nl: tweevleugeligen
+    nn: tovenger
+    nrm: Diptera
+    nv: Tsʼíʼii dóó Tséʼédǫ́ʼii
+    nys: Diptera
+    oc: Diptèrs
+    or: ମାଛି
+    os: Дыбазыронтæ
+    pcd: Diptera
+    pl: muchówki
+    pms: Diptera
+    pt: Mosca
+    pt-br: Diptera
+    qu: Iskaylla rapra
+    rm: Diptera
+    ro: Diptera
+    ru: двукрылые
+    sat: ᱨᱚᱸ
+    sc: Diptera
+    scn: Dittiri
+    sco: Flee
+    sd: مک
+    sh: Dvokrilci
+    shn: မႅင်းမူၼ်း
+    sk: Dvojkrídlovce
+    sl: dvokrilci
+    so: Duqsi
+    sq: Diptera
+    sr: Двокрилци
+    su: Laleur
+    sv: tvåvingar
+    sw: Diptera
+    ta: இருசிறகிப் பூச்சிகள்
+    te: ఈగ
+    th: แมลงวัน
+    tl: Diptera
+    tr: Çift kanatlılar
+    uk: двокрилі
+    uz: Ikki qanotlilar
+    vec: Diptera
+    vi: Ruồi
+    vls: Twêevleuglign
+    vo: Diptera
+    wa: Inseke ås deus aiyes
+    war: Langaw
+    wo: Diptera
+    wuu: 双翅目
+    xmf: ჭანდეფი
+    yi: פליג
+    yo: Esinsin
+    yue: 雙翅目
+    zh: 雙翅目
+    zh-cn: 双翅目
+    zh-hans: 双翅目
+    zh-tw: 雙翅目
+    zu: Diptera
 ---
-
 # [[Diptera]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Diptera,25312|WD~Diptera,25312]] 

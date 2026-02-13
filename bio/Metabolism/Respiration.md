@@ -1,18 +1,162 @@
 ---
 aliases:
+- ademhaling
+- Anellans
+- Arnasketa (fisiologia)
+- Asgunef
+- asgunf
+- Aten
+- Atmung
+- Azwakne
+- Bopémi
+- Ciatu
+- dihanje
+- elpošana
+- Henase
+- Ho͘-khip
+- hô hấp
+- légzés
+- Neefsi
+- oddychanie zewnętrzne
+- Ootmung
+- Resbiradu
+- respirace
+- respiracija
+- Respiracion
+- respiració
+- respiración
+- Respirasi
+- respirasie
+- respirasjon
+- Respirasyon
+- respiration
+- respirazione
+- Respirazzion (biochimega)
+- respiração
+- respirație
+- Respirácia
+- riospráid
+- Rũmuundo(respiration)
+- Solunum
+- spiro
+- Vefjaöndun
+- Αναπνοή (φυσιολογία)
+- Амьсгалах процесс
+- дихання
+- дыхание
+- респирација
+- Садахар
+- тын алу
+- фізыялёгія дыханьня
+- Շնչառական շարժում
+- تنفس
+- تنفس فیزیولوژیک
+- تنفّس کاری
+- श्वसन
+- श्वाशन (फिजियोलॉजी)
+- শ্বসন
+- শ্বসন (শৰীৰতত্ব)
+- ਸਾਹ ਕਿਰਿਆ
+- மூச்சியக்கம்
+- റെസ്പിറേഷൻ
+- ການຫາຍໃຈ (ສະລີລະວິທະຍາ)
+- ရက်စပီရေးရှင်း
+- 呼吸
+- 呼吸 (生理學)
+- 外呼吸
+- 호흡
 has_id_wikidata: Q472287
 has_part_s_:
-  - "[[_Standards/WikiData/WD~inhalation,840343]]"
-  - "[[_Standards/WikiData/WD~exhalation,2197000]]"
-  - "[[_Standards/WikiData/WD~breathing,9530]]"
-subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-instance_of: "[[_Standards/WikiData/WD~rhythmic_process,14864472]]"
-OmegaWiki_Defined_Meaning: "3215"
+- '[[_Standards/WikiData/WD~inhalation,840343]]'
+- '[[_Standards/WikiData/WD~exhalation,2197000]]'
+- '[[_Standards/WikiData/WD~breathing,9530]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+instance_of: '[[_Standards/WikiData/WD~rhythmic_process,14864472]]'
+OmegaWiki_Defined_Meaning: 3215
 Commons_category: Respiration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bubble%20Blowing%2015.jpg
 Commons_gallery: Respiration (physiology)
+dv_has_:
+  name_:
+    af: respirasie
+    an: Respiración
+    ar: تنفس
+    as: শ্বসন (শৰীৰতত্ব)
+    ast: Respiración
+    be-tarask: фізыялёгія дыханьня
+    bn: শ্বসন
+    bs: respiracija
+    ca: respiració
+    cs: respirace
+    cy: Resbiradu
+    da: respiration
+    de: Atmung
+    el: Αναπνοή (φυσιολογία)
+    en: respiration
+    en-ca: Respiration
+    en-gb: Respiration
+    eo: spiro
+    es: respiración
+    eu: Arnasketa (fisiologia)
+    fa: تنفس فیزیولوژیک
+    fr: respiration
+    ga: riospráid
+    gl: respiración
+    hi: श्वाशन (फिजियोलॉजी)
+    hif: Respiration
+    hu: légzés
+    hy: Շնչառական շարժում
+    id: Respirasi
+    inh: Садахар
+    is: Vefjaöndun
+    it: respirazione
+    ja: 外呼吸
+    kab: Asgunef
+    ki: Rũmuundo(respiration)
+    ko: 호흡
+    ku: Henase
+    kw: Anellans
+    lb: Ootmung
+    lmo: Respirazzion (biochimega)
+    ln: Bopémi
+    lo: ການຫາຍໃຈ (ສະລີລະວິທະຍາ)
+    lv: elpošana
+    ml: റെസ്പിറേഷൻ
+    mn: Амьсгалах процесс
+    mr: श्वसन
+    my: ရက်စပီရေးရှင်း
+    nan: Ho͘-khip
+    nb: respirasjon
+    nds: Aten
+    nl: ademhaling
+    nn: respirasjon
+    oc: Respiracion
+    pa: ਸਾਹ ਕਿਰਿਆ
+    pl: oddychanie zewnętrzne
+    ps: تنفس
+    pt: respiração
+    pt-br: Respiração
+    ro: respirație
+    ru: дыхание
+    scn: Ciatu
+    shi: asgunf
+    sk: Respirácia
+    sl: dihanje
+    so: Neefsi
+    sr: респирација
+    sv: respiration
+    ta: மூச்சியக்கம்
+    tl: Respirasyon
+    tr: Solunum
+    tt: тын алу
+    uk: дихання
+    ur: تنفّس کاری
+    vi: hô hấp
+    war: Respirasyon
+    ybb: Azwakne
+    yue: 呼吸 (生理學)
+    zh: 呼吸
 ---
-
 # [[Respiration]] 
 
 #is_/same_as :: [[WD~Respiration,472287]] 

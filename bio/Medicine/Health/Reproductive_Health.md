@@ -1,25 +1,137 @@
 ---
 aliases:
+- afya ya uzazi
+- eatnánandearvvašvuohta
+- kamimosko sastiba
+- Kesihatan seksual dan pembiakan
+- lisääntymisterveys
+- reproductieve gezondheid
+- reproductive health
+- reproduktada sano
+- reproduktiivtervis
+- reproduktiv helse
+- reproduktiv hälsa
+- reproduktiv sağlamlıq
+- reproduktiv sundhed
+- reproduktive Gesundheit
+- reproduktivno zdravje
+- reproduktív egészség
+- reprodukční zdraví
+- salud reproductiva
+- salut reproductiva
+- salute riproduttiva
+- Salú reproductiva
+- santé reproductive
+- Saúde reprodutiva
+- sláinte atáirgthe
+- sănătate reproductivă
+- Sức khỏe sinh sản
+- Ubuzima bw’imyororokere
+- ugalketa-osasun
+- zdrowie reprodukcyjne
+- Üreme sağlığı
+- šõkknemtiõrvâsvuõtt
+- αναπαραγωγική υγεία
+- Енси сәләмәтлек
+- репродуктив сәламәтлек
+- репродуктивне здоров’я
+- Репродуктивно здравје
+- репродуктивно здравље
+- репродуктивное здоровье
+- рэпрадукцыйнае здароўе
+- Վերարտադրողական առողջություն
+- בריאות רבייתית
+- بهداشت باروری
+- جنسی صحت
+- د ميندوارۍ روغتیا
+- صحة إنجابية
+- दालन:लैंगिक आरोग्य
+- प्रजनन स्वास्थ्य
+- প্রজনন স্বাস্থ্য
+- ലൈംഗികവും പ്രത്യുൽപാദനപരവുമായ ആരോഗ്യം
+- リプロダクティブ・ヘルス
+- 性健康
+- 生殖健康
+- 재생산 건강
 has_id_wikidata: Q1981388
 part_of:
-  - "[[_Standards/WikiData/WD~reproductive_medicine,351870]]"
-  - "[[_Standards/WikiData/WD~sexual_and_reproductive_health,3501817]]"
+- '[[_Standards/WikiData/WD~reproductive_medicine,351870]]'
+- '[[_Standards/WikiData/WD~sexual_and_reproductive_health,3501817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~reproductive_rights,1536343]]"
-  - "[[_Standards/WikiData/WD~sexual_health,3473038]]"
-  - "[[_Standards/WikiData/WD~reproductive_justice,7314313]]"
-  - "[[_Standards/WikiData/WD~sexual_health_and_rights,119141830]]"
+- '[[_Standards/WikiData/WD~reproductive_rights,1536343]]'
+- '[[_Standards/WikiData/WD~sexual_health,3473038]]'
+- '[[_Standards/WikiData/WD~reproductive_justice,7314313]]'
+- '[[_Standards/WikiData/WD~sexual_health_and_rights,119141830]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
-named_by: "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-subclass_of: "[[_Standards/WikiData/WD~health,12147]]"
-IAB_code: "302"
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
+named_by: '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+subclass_of: '[[_Standards/WikiData/WD~health,12147]]'
+IAB_code: 302
 Commons_category: Reproductive health
 UMLS_CUI: C0242667
 MeSH_tree_code: N01.400.625
+dv_has_:
+  name_:
+    ar: صحة إنجابية
+    ast: Salú reproductiva
+    az: reproduktiv sağlamlıq
+    ba: Енси сәләмәтлек
+    be-tarask: рэпрадукцыйнае здароўе
+    bn: প্রজনন স্বাস্থ্য
+    ca: salut reproductiva
+    cs: reprodukční zdraví
+    da: reproduktiv sundhed
+    de: reproduktive Gesundheit
+    el: αναπαραγωγική υγεία
+    en: reproductive health
+    eo: reproduktada sano
+    es: salud reproductiva
+    et: reproduktiivtervis
+    eu: ugalketa-osasun
+    fa: بهداشت باروری
+    fi: lisääntymisterveys
+    fr: santé reproductive
+    ga: sláinte atáirgthe
+    gl: Saúde reprodutiva
+    he: בריאות רבייתית
+    hi: प्रजनन स्वास्थ्य
+    hu: reproduktív egészség
+    hy: Վերարտադրողական առողջություն
+    it: salute riproduttiva
+    ja: リプロダクティブ・ヘルス
+    ko: 재생산 건강
+    mk: Репродуктивно здравје
+    ml: ലൈംഗികവും പ്രത്യുൽപാദനപരവുമായ ആരോഗ്യം
+    mr: दालन:लैंगिक आरोग्य
+    ms: Kesihatan seksual dan pembiakan
+    nb: reproduktiv helse
+    ne: प्रजनन स्वास्थ्य
+    nl: reproductieve gezondheid
+    nn: reproduktiv helse
+    pl: zdrowie reprodukcyjne
+    pnb: جنسی صحت
+    ps: د ميندوارۍ روغتیا
+    pt: saúde reprodutiva
+    rmf: kamimosko sastiba
+    ro: sănătate reproductivă
+    ru: репродуктивное здоровье
+    rw: Ubuzima bw’imyororokere
+    se: eatnánandearvvašvuohta
+    sl: reproduktivno zdravje
+    sms: šõkknemtiõrvâsvuõtt
+    sr: репродуктивно здравље
+    sr-ec: репродуктивно здравље
+    sv: reproduktiv hälsa
+    sw: afya ya uzazi
+    tr: Üreme sağlığı
+    tt: репродуктив сәламәтлек
+    uk: репродуктивне здоров’я
+    ur: جنسی صحت
+    vi: Sức khỏe sinh sản
+    yue: 生殖健康
+    zh: 性健康
 ---
-
 # [[Reproductive_Health]] 
 
 #is_/same_as :: [[WD~Reproductive_health,1981388]] 

@@ -1,48 +1,231 @@
 ---
 aliases:
-  - Ethnologie
-  - Ethnology
+- Bîn-cho̍k-ha̍k
+- Dân tộc học
+- eitneolaíocht
+- ethnoleg
+- ethnologia
+- Ethnologie
+- Ethnology
+- etnolochía
+- etnolociye
+- etnologi
+- etnologia
+- etnologie
+- etnologiija
+- etnologija
+- etnologije
+- etnologio
+- etnologiya
+- etnologiô
+- etnologjia
+- etnología
+- etnolohiya
+- etnoloji
+- etnolojia
+- etnoloogia
+- etnoloxía
+- etnoloģija
+- etnoluogėjė
+- etnológia
+- etnołozia
+- etnôlôjia
+- kansatiede
+- tekochaukahakuaaty
+- volkekunde
+- Ètnologi
+- Ètnologia
+- Étnologi
+- þjóðfræði
+- ırk bilimi
+- εθνολογία
+- етнологія
+- етнологија
+- Етнология
+- Етнолоґія
+- мардумшиносӣ
+- этналёгія
+- этналогія
+- этнологи
+- этнологий
+- этнология
+- Этнологиясь
+- Էթնոլոգիա
+- אתנולוגיה
+- اثنولوجيا
+- توکمپوهنه
+- علم الأعراق
+- نژادشناسی
+- ڕەچەڵەکناسی
+- मानव जाति विज्ञान
+- জাতিবিদ্যা
+- இன ஒப்பாய்வியல்
+- మానవజాతి శాస్త్రం
+- ಜನಾಂಗಶಾಸ್ತ್ರ
+- ชาติพันธุ์วิทยา
+- མིའི་རིགས་རྒྱུད་རིག་པ།
+- ეთნოლოგია
+- ᱡᱟᱹᱛᱤ ᱥᱟᱬᱮᱥ
+- ⵜⴰⵙⵏⴰⵖⵔⴼⵜ
+- 民族学
+- 民族學
+- 민족학
 has_id_wikidata: Q43455
 different_from:
-  - '[[_Standards/WikiData/WD~ethnography,132151]]'
-  - '[[_Standards/WikiData/WD~European_ethnology_(Volkskunde),15075764]]'
-  - '[[_Standards/WikiData/WD~ethology,7155]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
-  - '[[_Standards/WikiData/WD~cultural_anthropology,28598]]'
+- '[[_Standards/WikiData/WD~ethnography,132151]]'
+- '[[_Standards/WikiData/WD~European_ethnology_(Volkskunde),15075764]]'
+- '[[_Standards/WikiData/WD~ethology,7155]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~cultural_anthropology,28598]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~cultural_studies,1143546]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~cultural_studies,1143546]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
 practiced_by: '[[_Standards/WikiData/WD~ethnologist,1371378]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ethnology,14615014]]'
 has_part_s_: '[[_Standards/WikiData/WD~ethnopolitics,26237583]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
-  - '[[_Standards/WikiData/WD~ethnological_terminology,129133494]]'
+- '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
+- '[[_Standards/WikiData/WD~ethnological_terminology,129133494]]'
 OmegaWiki_Defined_Meaning: 1350
 U_S_National_Archives_Identifier: 10638911
 Commons_category: Ethnology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vic%20Dessos%20Cabanne%20au%20col%20chemin%20d%27Aubus%20Regnault-%20M.Cochet%20-%20Fonds%20Trutat%20-%20MHNT.PHa.912.A422.jpg
 Basisklassifikation: 73.00
 MeSH_tree_code: I01.076.201.450.457
+dv_has_:
+  name_:
+    af: volkekunde
+    an: etnolochía
+    ar: علم الأعراق
+    arz: اثنولوجيا
+    ast: etnoloxía
+    az: etnologiya
+    ba: этнология
+    bar: Ethnologie
+    be: этналогія
+    be-tarask: этналёгія
+    bg: Етнология
+    bn: জাতিবিদ্যা
+    bo: མིའི་རིགས་རྒྱུད་རིག་པ།
+    bs: Etnologija
+    ca: etnologia
+    ckb: ڕەچەڵەکناسی
+    cs: etnologie
+    csb: etnologiô
+    cy: ethnoleg
+    da: etnologi
+    de: Ethnologie
+    diq: etnolociye
+    el: εθνολογία
+    en: ethnology
+    eo: etnologio
+    es: etnología
+    et: etnoloogia
+    eu: etnologia
+    fa: نژادشناسی
+    fi: kansatiede
+    fr: ethnologie
+    frp: Ètnologia
+    ga: eitneolaíocht
+    gl: etnoloxía
+    gn: tekochaukahakuaaty
+    he: אתנולוגיה
+    hi: मानव जाति विज्ञान
+    hr: etnologija
+    ht: etnoloji
+    hu: etnológia
+    hy: Էթնոլոգիա
+    id: etnologi
+    io: etnologio
+    is: þjóðfræði
+    it: etnologia
+    ja: 民族学
+    jv: Ètnologi
+    ka: ეთნოლოგია
+    kk: Этнология
+    kn: ಜನಾಂಗಶಾಸ್ತ್ರ
+    ko: 민족학
+    ky: Этнология
+    la: ethnologia
+    lb: Ethnologie
+    lfn: etnolojia
+    lt: etnologija
+    lv: etnoloģija
+    mdf: Этнологиясь
+    mg: etnôlôjia
+    mhr: этнологий
+    mk: етнологија
+    ms: etnologi
+    nan: Bîn-cho̍k-ha̍k
+    nb: etnologi
+    ne: मानव जाति विज्ञान
+    nl: etnologie
+    nn: etnologi
+    oc: etnologia
+    os: этнологи
+    pap: etnologia
+    pl: etnologia
+    ps: توکمپوهنه
+    pt: etnologia
+    ro: etnologie
+    ru: этнология
+    rue: Етнолоґія
+    sat: ᱡᱟᱹᱛᱤ ᱥᱟᱬᱮᱥ
+    se: etnologiija
+    sgs: etnoluogėjė
+    sh: etnologija
+    sje: etnologija
+    sk: etnológia
+    sl: etnologija
+    sma: etnologije
+    smj: etnologija
+    smn: etnologia
+    sms: etnologia
+    sq: etnologjia
+    sr: етнологија
+    sr-ec: етнологија
+    sr-el: etnologija
+    su: Étnologi
+    sv: etnologi
+    ta: இன ஒப்பாய்வியல்
+    te: మానవజాతి శాస్త్రం
+    tg: мардумшиносӣ
+    th: ชาติพันธุ์วิทยา
+    tl: etnolohiya
+    tr: ırk bilimi
+    tt: этнология
+    udm: этнология
+    uk: етнологія
+    uz: etnologiya
+    vec: etnołozia
+    vi: Dân tộc học
+    vro: etnoloogia
+    war: etnolohiya
+    wuu: 民族学
+    yue: 民族學
+    zgh: ⵜⴰⵙⵏⴰⵖⵔⴼⵜ
+    zh: 民族学
+    zh-hans: 民族学
+    zh-hant: 民族學
+    zh-tw: 民族學
 ---
-
 # [[Ethnology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ethnology,43455|WD~Ethnology,43455]] 

@@ -1,41 +1,121 @@
 ---
 aliases:
-  - Entwaldung
-  - Waldrodung
-  - Deforestation
+- Atmežošana
+- avskoging
+- avskogning
+- basogabetze
+- datgoedwigo
+- Debwazman
+- Deforestacija
+- deforestación
+- deforestasion
+- Deforestation
+- defrișare
+- Deporestasyon
+- Desboscament
+- desflorestação
+- desforestació
+- Desilvatio
+- diboscamento
+- digoadadur
+- digoswigo
+- Déforestasi
+- déforestation
+- dífhoraoisiú
+- Entwaldung
+- erdőirtás
+- Fandripahana ala
+- Gandun daji
+- igbukpọ osisi
+- krčenje šume
+- lezaʼ methʉ̄
+- lìòbòs li lìpàn/m̀póyó
+- Metsatustumine
+- metsäkato
+- Meşəsizləşmə
+- miškų nykimas
+- odlesňovanie
+- odlesňování
+- Ontbossing
+- Ormansızdanw
+- ormansızlaştırma
+- pembalakan hutan
+- penebangan hutan
+- phá rừng
+- rašumljivanje
+- Sach'a-sach'a qulluy
+- senarbarigo
+- Shpyllëzimi
+- skovrydning
+- Ukataji miti
+- Untbosking
+- Waldrodung
+- wylesianie
+- αποδάσωση
+- абязлесенне
+- абязьлесеньне
+- знеліснення
+- обезлесение
+- Обезлесяване
+- обесшумување
+- Ойгүйжэлт
+- Ормансыздану
+- בירוא יערות
+- إزالة الغابات
+- جنگلزدایی
+- ورمانسىزدانۋ
+- ځنګلونو له منځه وړل (بې ځنګله کول)
+- वन विनाश
+- वनोन्मूलन
+- বন উজাড়
+- ਜੰਗਲ-ਵਾਢੀ
+- વનનાબૂદી
+- காடழிப்பு
+- అటవీ నిర్మూలన
+- ಅರಣ್ಯನಾಶ
+- വനനശീകരണം
+- වන විනාශය.
+- การทำลายป่า
+- დეფორესტაცია
+- 森林开伐
+- 森林砍伐
+- 森林破壊
+- 森林開伐
+- 濫伐
+- 탈산림화
 has_id_wikidata: Q169940
 has_effect:
-  - '[[_Standards/WikiData/WD~extinction,123509]]'
-  - '[[_Standards/WikiData/WD~climate_change,125928]]'
-  - '[[_Standards/WikiData/WD~wildfire,169950]]'
-  - '[[_Standards/WikiData/WD~zoonosis,182672]]'
-  - '[[_Standards/WikiData/WD~desertification,183481]]'
-  - '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
-  - '[[_Standards/WikiData/WD~soil_erosion,889503]]'
-  - '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
-  - '[[_Standards/WikiData/WD~global_warming,7942]]'
+- '[[_Standards/WikiData/WD~extinction,123509]]'
+- '[[_Standards/WikiData/WD~climate_change,125928]]'
+- '[[_Standards/WikiData/WD~wildfire,169950]]'
+- '[[_Standards/WikiData/WD~zoonosis,182672]]'
+- '[[_Standards/WikiData/WD~desertification,183481]]'
+- '[[_Standards/WikiData/WD~habitat_destruction,552431]]'
+- '[[_Standards/WikiData/WD~soil_erosion,889503]]'
+- '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
+- '[[_Standards/WikiData/WD~global_warming,7942]]'
 has_contributing_factor:
-  - '[[_Standards/WikiData/WD~urbanization,161078]]'
-  - '[[_Standards/WikiData/WD~grazing,3239189]]'
+- '[[_Standards/WikiData/WD~urbanization,161078]]'
+- '[[_Standards/WikiData/WD~grazing,3239189]]'
 studied_by: '[[_Standards/WikiData/WD~environmental_science,188847]]'
 subclass_of: '[[_Standards/WikiData/WD~human_impact_on_the_environment,574376]]'
 opposite_of: '[[_Standards/WikiData/WD~reforestation,815818]]'
 followed_by:
-  - '[[_Standards/WikiData/WD~reforestation,815818]]'
-  - '[[_Standards/WikiData/WD~tillage,878333]]'
+- '[[_Standards/WikiData/WD~reforestation,815818]]'
+- '[[_Standards/WikiData/WD~tillage,878333]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~logging,845249]]'
-  - '[[_Standards/WikiData/WD~effects_of_climate_change,1430548]]'
-  - '[[_Standards/WikiData/WD~agricultural_expansion,55603353]]'
-  - '[[_Standards/WikiData/WD~mining,44497]]'
+- '[[_Standards/WikiData/WD~logging,845249]]'
+- '[[_Standards/WikiData/WD~effects_of_climate_change,1430548]]'
+- '[[_Standards/WikiData/WD~agricultural_expansion,55603353]]'
+- '[[_Standards/WikiData/WD~mining,44497]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~process,3249551]]'
-  - '[[_Standards/WikiData/WD~resource_depletion,3737914]]'
-  - '[[_Standards/WikiData/WD~removal,23009442]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~resource_depletion,3737914]]'
+- '[[_Standards/WikiData/WD~removal,23009442]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~land_development,6484056]]'
-  - '[[_Standards/WikiData/WD~deforestation_and_climate_change,18350987]]'
-  - '[[_Standards/WikiData/WD~forest,4421]]'
+- '[[_Standards/WikiData/WD~land_development,6484056]]'
+- '[[_Standards/WikiData/WD~deforestation_and_climate_change,18350987]]'
+- '[[_Standards/WikiData/WD~forest,4421]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Deforestation,20376446]]'
 relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_15.2_of_the_Sustainable_Development_Goals,57590905]]'
@@ -50,8 +130,111 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sugarcane%20Defo
 exact_match: http://purl.obolibrary.org/obo/ENVO_02500012
 Commons_gallery: Deforestation
 Commons_category: Deforestation
+dv_has_:
+  name_:
+    af: Ontbossing
+    ar: إزالة الغابات
+    ast: Deforestación
+    az: Meşəsizləşmə
+    bas: lìòbòs li lìpàn/m̀póyó
+    be: абязлесенне
+    be-tarask: абязьлесеньне
+    bg: Обезлесяване
+    bn: বন উজাড়
+    br: digoadadur
+    bs: rašumljivanje
+    ca: desforestació
+    cs: odlesňování
+    cy: datgoedwigo
+    da: skovrydning
+    de: Entwaldung
+    el: αποδάσωση
+    en: deforestation
+    en-ca: deforestation
+    en-gb: deforestation
+    eo: senarbarigo
+    es: deforestación
+    et: Metsatustumine
+    eu: basogabetze
+    fa: جنگلزدایی
+    fi: metsäkato
+    fr: déforestation
+    fy: Untbosking
+    ga: dífhoraoisiú
+    gl: deforestación
+    gu: વનનાબૂદી
+    gur: Deforestation
+    ha: Gandun daji
+    he: בירוא יערות
+    hi: वनोन्मूलन
+    hr: krčenje šume
+    ht: Debwazman
+    hu: erdőirtás
+    id: pembalakan hutan
+    ig: igbukpọ osisi
+    it: diboscamento
+    ja: 森林破壊
+    jv: Déforestasi
+    ka: დეფორესტაცია
+    kk: Ормансыздану
+    kk-arab: ورمانسىزدانۋ
+    kk-cn: ورمانسىزدانۋ
+    kk-cyrl: Ормансыздану
+    kk-kz: Ормансыздану
+    kk-latn: Ormansızdanw
+    kk-tr: Ormansızdanw
+    kn: ಅರಣ್ಯನಾಶ
+    ko: 탈산림화
+    kw: digoswigo
+    la: Desilvatio
+    lt: miškų nykimas
+    lv: Atmežošana
+    mg: Fandripahana ala
+    mk: обесшумување
+    ml: വനനശീകരണം
+    mn: Ойгүйжэлт
+    ms: penebangan hutan
+    nb: avskoging
+    ne: वन विनाश
+    nl: ontbossing
+    nn: avskoging
+    oc: Desboscament
+    pa: ਜੰਗਲ-ਵਾਢੀ
+    pl: wylesianie
+    ps: ځنګلونو له منځه وړل (بې ځنګله کول)
+    pt: desflorestação
+    pt-br: desflorestação
+    qu: Sach'a-sach'a qulluy
+    ro: defrișare
+    ru: обезлесение
+    sh: Deforestacija
+    si: වන විනාශය.
+    sk: odlesňovanie
+    sl: deforestacija
+    sq: Shpyllëzimi
+    sr: Deforestacija
+    ss: Deforestation
+    sv: avskogning
+    sw: Ukataji miti
+    ta: காடழிப்பு
+    te: అటవీ నిర్మూలన
+    th: การทำลายป่า
+    tl: Deporestasyon
+    tr: ormansızlaştırma
+    uk: знеліснення
+    vec: deforestasion
+    vi: phá rừng
+    wuu: 森林砍伐
+    ybb: lezaʼ methʉ̄
+    yue: 濫伐
+    zh: 森林開伐
+    zh-cn: 森林开伐
+    zh-hans: 森林开伐
+    zh-hant: 森林開伐
+    zh-hk: 森林開伐
+    zh-sg: 森林开伐
+    zh-tw: 森林開伐
 ---
-
 # [[Deforestation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Deforestation,169940|WD~Deforestation,169940]] 

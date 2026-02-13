@@ -1,31 +1,148 @@
 ---
 aliases:
+- criostalú
+- cristalización
+- cristalizare
+- cristalização
+- cristallisation
+- cristallizzazione
+- cristal·lització
+- crystallisation
+- crystallization
+- kiteytyminen
+- kristaligo
+- kristalisasi
+- Kristalisering
+- kristalizacija
+- kristalizasyon
+- kristalizazio
+- kristalizācija
+- kristaliĝo
+- Kristalleştirme
+- kristallisatie
+- kristallisation
+- kristalliseerumine
+- kristályosodás
+- krystalizace
+- krystalizacja
+- krystallisasjon
+- krystallisering
+- kryštalizácia
+- Kết tinh
+- penghabluran
+- кристалізація
+- Кристалдану
+- кристализација
+- Кристализация
+- кристаллизаци
+- кристаллизация
+- крышталізацыя
+- Талсжилт
+- Բյուրեղացում
+- התגבשות
+- بلورش
+- تبلور
+- क्रिस्टलन
+- কেলাসীভবন
+- ਕ੍ਰਿਸਟਲਾਈਜ਼ੇਸ਼ਨ
+- படிகமாதல்
+- ಸ್ಫಟಿಕೀಕರಣ
+- സ്ഫടികവത്കരണം
+- კრისტალიზაცია
+- 結晶
+- 結晶化
+- 结晶
+- 결정화
 has_id_wikidata: Q284256
-partially_coincident_with: "[[_Standards/WikiData/WD~freezing,108000]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~freezing,108000]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~stochastic_process,176737]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_process,213016]]"
-  - "[[_Standards/WikiData/WD~separation_process,898987]]"
-  - "[[_Standards/WikiData/WD~self_assembly,910150]]"
+- '[[_Standards/WikiData/WD~stochastic_process,176737]]'
+- '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
+- '[[_Standards/WikiData/WD~separation_process,898987]]'
+- '[[_Standards/WikiData/WD~self_assembly,910150]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~increase,9073584]]"
-  - "[[_Standards/WikiData/WD~planned_creation,11398090]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+- '[[_Standards/WikiData/WD~increase,9073584]]'
+- '[[_Standards/WikiData/WD~planned_creation,11398090]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Process-of-Crystallization-200px.png
 UMLS_CUI: C0010423
 Commons_category: Crystallization
 MeSH_tree_code:
-  - E05.196.300
-  - G02.171
+- E05.196.300
+- G02.171
 Wolfram_Language_entity_code: Entity["Concept", "Crystallisation::5bgvh"]
+dv_has_:
+  name_:
+    af: Kristalisering
+    ar: تبلور
+    ast: cristalización
+    be: крышталізацыя
+    be-tarask: крышталізацыя
+    bg: Кристализация
+    bn: কেলাসীভবন
+    bs: kristalizacija
+    ca: cristal·lització
+    cs: krystalizace
+    de: Kristallisation
+    en: crystallization
+    en-gb: crystallisation
+    eo: kristaliĝo
+    es: cristalización
+    et: kristalliseerumine
+    eu: kristalizazio
+    fa: بلورش
+    fi: kiteytyminen
+    fr: cristallisation
+    ga: criostalú
+    he: התגבשות
+    hi: क्रिस्टलन
+    hr: kristalizacija
+    ht: kristalizasyon
+    hu: kristályosodás
+    hy: Բյուրեղացում
+    id: kristalisasi
+    io: kristaligo
+    it: cristallizzazione
+    ja: 結晶化
+    jv: kristalisasi
+    ka: კრისტალიზაცია
+    kk: Кристалдану
+    kn: ಸ್ಫಟಿಕೀಕರಣ
+    ko: 결정화
+    lt: kristalizacija
+    lv: kristalizācija
+    mk: кристализација
+    ml: സ്ഫടികവത്കരണം
+    mn: Талсжилт
+    ms: penghabluran
+    nb: krystallisering
+    nl: kristallisatie
+    nn: krystallisasjon
+    os: кристаллизаци
+    pa: ਕ੍ਰਿਸਟਲਾਈਜ਼ੇਸ਼ਨ
+    pl: krystalizacja
+    pt: cristalização
+    ro: cristalizare
+    ru: кристаллизация
+    sh: Kristalizacija
+    sk: kryštalizácia
+    sl: kristalizacija
+    sr: Кристализација
+    sv: kristallisation
+    ta: படிகமாதல்
+    tr: Kristalleştirme
+    uk: кристалізація
+    vi: Kết tinh
+    wuu: 结晶
+    yue: 結晶
+    zh: 结晶
 ---
-
 # [[Crystallization]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Crystallization,284256|WD~Crystallization,284256]] 

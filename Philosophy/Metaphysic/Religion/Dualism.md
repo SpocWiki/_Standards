@@ -1,29 +1,170 @@
 ---
 aliases:
+- Deuoliaeth
+- dualism
+- dualisma
+- dualisme
+- dualismi
+- dualismm
+- dualismo
+- dualismu
+- Dualismus
+- dualissma
+- Dualizam
+- dualizem
+- dualizm
+- Dualizmi
+- dualizmus
+- Dualîzm
+- duałismo
+- duālisms
+- déachas
+- ikicilik
+- keduaan
+- méjì-méjì
+- thuyết nhị nguyên
+- Tvíhyggja
+- δυϊσμός
+- дуалізм
+- дуализам
+- дуализм
+- Дуализм (философи)
+- Дуализъм
+- Դուալիզմ
+- דואליזם
+- ثنویت
+- دوالیزم
+- دوگانهگرایی
+- مثنوية
+- مثنويه
+- द्वंद्ववाद
+- द्वैतवाद
+- দ্বিত্ববাদ
+- இருமையியம்
+- დუალიზმი
+- 二元論
+- 二元论
+- 이원론
 has_id_wikidata: Q167312
 subclass_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~group_of_2,135268494]]"
-follows: "[[_Standards/WikiData/WD~monism,178801]]"
-followed_by: "[[_Standards/WikiData/WD~pluralism,879021]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~group_of_2,135268494]]'
+follows: '[[_Standards/WikiData/WD~monism,178801]]'
+followed_by: '[[_Standards/WikiData/WD~pluralism,879021]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - "[[_Standards/WikiData/WD~dyad,5318387]]"
-  - "[[_Standards/WikiData/WD~dichotomy,10361123]]"
-  - "[[_Standards/WikiData/WD~yin_and_yang,62744]]"
+- '[[_Standards/WikiData/WD~dyad,5318387]]'
+- '[[_Standards/WikiData/WD~dichotomy,10361123]]'
+- '[[_Standards/WikiData/WD~yin_and_yang,62744]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~dyad,29431432]]"
-  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
+- '[[_Standards/WikiData/WD~dyad,29431432]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
 PhilPapers_topic: dualism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Good%20and%20Evil%20Angels%20Tate%20Blake.jpg
 Library_of_Congress_Classification: B812.A-B812.Z
 Commons_category: Dualism
+dv_has_:
+  name_:
+    ar: مثنوية
+    arz: مثنويه
+    ast: dualismu
+    az: dualizm
+    ba: дуализм
+    be: дуалізм
+    be-tarask: дуалізм
+    bg: Дуализъм
+    bn: দ্বিত্ববাদ
+    bs: Dualizam
+    ca: dualisme
+    cs: dualismus
+    cv: Дуализм (философи)
+    cy: Deuoliaeth
+    da: dualisme
+    de: Dualismus
+    de-ch: Dualismus
+    el: δυϊσμός
+    en: dualism
+    en-ca: Dualism
+    en-gb: dualism
+    eo: dualismo
+    es: dualismo
+    et: dualism
+    eu: Dualismo
+    fa: دوگانهگرایی
+    fi: dualismi
+    fr: dualisme
+    fy: Dualisme
+    ga: déachas
+    gl: dualismo
+    he: דואליזם
+    hi: द्वैतवाद
+    hr: Dualizam
+    hu: dualizmus
+    hy: Դուալիզմ
+    id: Dualisme
+    is: Tvíhyggja
+    it: dualismo
+    ja: 二元論
+    jv: Dualisme
+    ka: დუალიზმი
+    kk: Дуализм
+    ko: 이원론
+    ku: Dualîzm
+    ku-arab: دوالیزم
+    ku-latn: dualîzm
+    ky: Дуализм
+    la: dualismus
+    lv: duālisms
+    mk: дуализам
+    mr: द्वंद्ववाद
+    ms: keduaan
+    nb: dualisme
+    nl: dualisme
+    nn: dualisme
+    oc: Dualisme
+    pl: dualizm
+    pt: dualismo
+    pt-br: dualismo
+    ro: dualism
+    ru: дуализм
+    se: dualisma
+    sh: Dualizam
+    sk: dualizmus
+    sl: dualizem
+    sma: dualisme
+    smj: dualissma
+    smn: dualism
+    sms: dualismm
+    sq: Dualizmi
+    sr: дуализам
+    sr-ec: Дуализам
+    sr-el: Dualizam
+    sv: dualism
+    ta: இருமையியம்
+    tg: дуализм
+    tl: Dualismo
+    tr: ikicilik
+    tt: дуализм
+    uk: дуалізм
+    ur: ثنویت
+    uz: Dualizm
+    vec: duałismo
+    vi: thuyết nhị nguyên
+    wuu: 二元论
+    yo: méjì-méjì
+    yue: 二元論
+    zh: 二元論
+    zh-cn: 二元论
+    zh-hans: 二元论
+    zh-hant: 二元論
+    zh-hk: 二元論
+    zh-sg: 二元论
+    zh-tw: 二元論
 ---
-
 # [[Dualism]] 
 
 

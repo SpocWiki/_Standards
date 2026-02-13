@@ -1,12 +1,112 @@
 ---
 aliases:
-  - fictitious force
-  - inertial force
-  - pseudo-force
-  - pseudo force
-  - Pseudo-Force
-has_id_wikidata: ''
+- fictitious force
+- Fiktiv kraft
+- fiktīvs spēks
+- force d'inertie
+- forza apparente
+- forza ficticia
+- força fictícia
+- força inercial
+- forță aparentă
+- fuerza ficticia
+- Gaya fiktif
+- inertial force
+- Inertsijõud
+- Küşterdi qosw
+- lực quán tính
+- Näennäisvoima
+- pseudo force
+- pseudo-force
+- schijnkracht
+- setrvačná síla
+- siła bezwładności
+- tehetetlenségi erő
+- Trägheitskraft
+- vztrajnostna sila
+- Xayoliy kuch
+- Yalancı kuvvet
+- Zotrvačná sila
+- ŝajnforto
+- инерцијална сила
+- Инерцилле вăй
+- Күштерді қосу
+- сіла інерцыі
+- сила інерції
+- сила инерции
+- Իներցիայի ուժ
+- כוח מדומה
+- شبه نیرو
+- قوة وهمية
+- كۇشتەردى قوسۋ
+- काल्पनिक शक्ति
+- কাল্পনিক বল
+- ಕಾಲ್ಪನಿಕ ಶಕ್ತಿ
+- แรงเทียม
+- ຜົນບັງຄັບໃຊ້ປອມ
+- 惯性力
+- 慣性力
+- 관성력
 has_id_wikidata: Q212126
+dv_has_:
+  name_:
+    ar: قوة وهمية
+    be: сіла інерцыі
+    bn: কাল্পনিক বল
+    ca: força inercial
+    cs: setrvačná síla
+    cv: Инерцилле вăй
+    da: Fiktiv kraft
+    de: Trägheitskraft
+    en: fictitious force
+    eo: ŝajnforto
+    es: fuerza ficticia
+    et: Inertsijõud
+    fa: شبه نیرو
+    fi: Näennäisvoima
+    fr: force d'inertie
+    gl: forza ficticia
+    he: כוח מדומה
+    hi: काल्पनिक शक्ति
+    hu: tehetetlenségi erő
+    hy: Իներցիայի ուժ
+    id: Gaya fiktif
+    it: forza apparente
+    ja: 慣性力
+    kk: Күштерді қосу
+    kk-arab: كۇشتەردى قوسۋ
+    kk-cn: كۇشتەردى قوسۋ
+    kk-cyrl: Күштерді қосу
+    kk-kz: Күштерді қосу
+    kk-latn: Küşterdi qosw
+    kk-tr: Küşterdi qosw
+    kn: ಕಾಲ್ಪನಿಕ ಶಕ್ತಿ
+    ko: 관성력
+    lo: ຜົນບັງຄັບໃຊ້ປອມ
+    lv: fiktīvs spēks
+    mk: инерцијална сила
+    nb: fiktiv kraft
+    nl: schijnkracht
+    nn: fiktiv kraft
+    pl: siła bezwładności
+    pt: força fictícia
+    ro: forță aparentă
+    ru: сила инерции
+    sk: Zotrvačná sila
+    sl: vztrajnostna sila
+    sv: fiktiv kraft
+    th: แรงเทียม
+    tr: Yalancı kuvvet
+    uk: сила інерції
+    uz: Xayoliy kuch
+    vi: lực quán tính
+    zh: 慣性力
+    zh-cn: 惯性力
+    zh-hans: 惯性力
+    zh-hant: 慣性力
+    zh-hk: 慣性力
+    zh-sg: 惯性力
+    zh-tw: 慣性力
 ---
 # [[Pseudo-Force]] 
 

@@ -1,8 +1,36 @@
 ---
 aliases:
-  - Modern Library
-  - Modern_Library
+- Modern Library
+- Modern_Library
+- מודרן לייברי
+- دار النشر الحديثة
+- مادرن لایبری
+- ماڈرن لائبریری
+- モダン・ライブラリー
+- 现代图书馆
+- 現代圖書館
+- 美國現代圖書館
 has_id_wikidata: Q3822096
+dv_has_:
+  name_:
+    ar: دار النشر الحديثة
+    ca: Modern Library
+    en: Modern Library
+    eo: Modern Library
+    es: Modern Library
+    fa: مادرن لایبری
+    fr: Modern Library
+    he: מודרן לייברי
+    ja: モダン・ライブラリー
+    mul: Modern Library
+    nb: Modern Library
+    pt: Modern Library
+    pt-br: Modern Library
+    ur: ماڈرن لائبریری
+    zh: 現代圖書館
+    zh-cn: 现代图书馆
+    zh-hans: 现代图书馆
+    zh-hant: 美國現代圖書館
 ---
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 

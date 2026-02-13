@@ -1,7 +1,95 @@
 ---
 has_id_wikidata: Q178095
+dv_has_:
+  name_:
+    ar: ذا بوليس
+    arz: ذا بوليس
+    ast: The Police
+    azb: پلیس
+    be: The Police
+    bg: Полис
+    ca: The Police
+    co: The Police
+    cs: The Police
+    cy: The Police
+    da: The Police
+    de: The Police
+    el: The Police
+    en: The Police
+    eo: The Police
+    es: The Police
+    et: The Police
+    eu: The Police
+    fa: پلیس
+    fi: The Police
+    fr: The Police
+    fy: The Police
+    gl: The Police
+    he: הפוליס
+    hr: The Police
+    hu: The Police
+    hy: The Police
+    id: The Police
+    it: The Police
+    ja: ザ・ポリス
+    ka: The Police
+    ko: 더 폴리스
+    ky: The Police
+    la: The Police
+    lv: The Police
+    mk: The Police
+    ml: ദ പോലീസ്
+    ms: The Police
+    mul: The Police
+    nah: The Police
+    nb: The Police
+    nl: The Police
+    nn: The Police
+    nqo: ߕߐ߲ߓߟߏߡߟߊ
+    oc: The Police
+    pl: The Police
+    pms: The Police
+    pt: The Police
+    ro: The Police
+    ru: The Police
+    sco: The Police
+    sk: The Police
+    sl: The Police
+    sr: The Police
+    sr-ec: Тхе Полице
+    sr-el: The Police
+    sv: The Police
+    ta: த போலீஸ்
+    th: เดอะโพลิซ
+    tl: The Police
+    tr: The Police
+    uk: The Police
+    ur: دا پولیس
+    vi: The Police
+    zh: 警察乐队
+    zh-cn: 警察乐队
+    zh-hans: 警察乐队
+    zh-hant: 警察樂隊
+    zh-hk: 警察樂隊
+    zh-sg: 警察乐队
+    zh-tw: 警察樂隊
+aliases:
+- The Police
+- Полис
+- Тхе Полице
+- הפוליס
+- دا پولیس
+- ذا بوليس
+- پلیس
+- ߕߐ߲ߓߟߏߡߟߊ
+- த போலீஸ்
+- ദ പോലീസ്
+- เดอะโพลิซ
+- ザ・ポリス
+- 警察乐队
+- 警察樂隊
+- 더 폴리스
 ---
-
 - Member:: [[Police(Band)/Sting(musician)]], [[Copeland,Stuart]], [[Summers,Andy]] 
 
 #is_/instance_of :: [[../../../../../Agent/Community/Organization/Performing_Group/Music_Group|MusicGroup]] 

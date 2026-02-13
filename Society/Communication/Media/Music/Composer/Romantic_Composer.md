@@ -1,10 +1,39 @@
 ---
 aliases:
-  - Romantic Composer
-  - Romantic Composers
-  - Romantic_Composer
-has_id_wikidata: ''
+- Anexo:Compositores del Romanticismo
+- compositori romantici
+- list of Romantic-era composers
+- lista de compositores do Romantismo
+- Lista romantičnih kompozitora
+- Liste de compositeurs de la période romantique
+- Romantic Composer
+- Romantic Composers
+- Romantic_Composer
+- Romantik dönem bestecileri listesi
+- Romantikus zeneszerzők listája
+- Romantiska kompositörer
+- Senarai penggubah muzik era romantis
+- seznam romantičnih skladateljev
+- ليستة موسيقيين العصر الرومانسى
+- ロマン派音楽の作曲家一覧
+- 낭만주의 시대 작곡가의 목록
 has_id_wikidata: Q1073576
+dv_has_:
+  name_:
+    arz: ليستة موسيقيين العصر الرومانسى
+    en: list of Romantic-era composers
+    es: Anexo:Compositores del Romanticismo
+    fr: Liste de compositeurs de la période romantique
+    hu: Romantikus zeneszerzők listája
+    it: compositori romantici
+    ja: ロマン派音楽の作曲家一覧
+    ko: 낭만주의 시대 작곡가의 목록
+    ms: Senarai penggubah muzik era romantis
+    pt: lista de compositores do Romantismo
+    sh: Lista romantičnih kompozitora
+    sl: seznam romantičnih skladateljev
+    sv: Romantiska kompositörer
+    tr: Romantik dönem bestecileri listesi
 ---
 ## #has_/text_of_/abstract 
 

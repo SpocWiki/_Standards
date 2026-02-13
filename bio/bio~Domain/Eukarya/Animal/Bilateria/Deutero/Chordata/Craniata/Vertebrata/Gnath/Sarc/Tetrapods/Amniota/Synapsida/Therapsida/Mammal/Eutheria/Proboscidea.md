@@ -1,24 +1,79 @@
 ---
 title: Proboscidea
 aliases:
+- Bộ Có vòi
+- Chobotnatce
+- chobotnatci
+- Elefantdjur
+- Elefantendiarten
+- Fuzoldunol (Proboscidea)
+- Hortumlular
+- Mborerotochu
+- norsueläimet
+- ormányosok
+- Proboscidea
+- Proboscideo
+- Proboscidieni
+- proboscidis
+- Proboscídeos
+- Rostruloj
+- Rüsseldéieren
+- Rüsseltiere
+- Slurfbeestn
+- Slurfdieren
+- Snabeldyr
+- snuķaiņi
+- Straubliniai
+- Surlaši
+- Słony
+- trobčarji
+- trąbowce
+- Xartumlilar
+- Xortumlular
+- Προβοσκειδοειδή
+- Еттұмсықтылар
+- Кузьныраэз
+- Пил тумшуктуулар
+- сурлари
+- сурлаши
+- тумсуктаахтар
+- Хобатныя
+- хоботні
+- хоботни
+- хоботные
+- կնճիթավորներ
+- פילאים
+- خرطوم دار
+- خرطومداران
+- خرطوميات
+- فيليات
+- प्रोबोसीडिया
+- শুড়ধারী
+- പ്രൊബോസിഡേ
+- อันดับช้าง
+- ხორთუმიანები
+- ゾウ目
+- 長鼻目
+- 长鼻目
+- 장비목
 has_id_wikidata: Q26308
 homonymous_taxon:
-  - "[[_Standards/WikiData/WD~Proboscidea,137309]]"
-  - "[[_Standards/WikiData/WD~Proboscidea,20667040]]"
-  - "[[_Standards/WikiData/WD~Proboscidea,25661894]]"
+- '[[_Standards/WikiData/WD~Proboscidea,137309]]'
+- '[[_Standards/WikiData/WD~Proboscidea,20667040]]'
+- '[[_Standards/WikiData/WD~Proboscidea,25661894]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Proboscidea_(Animalia),14463356]]"
-  - "[[_Standards/WikiData/WD~Template_Proboscidea,15088259]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Tethytheria,20862]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki_Defined_Meaning: "2978"
+- '[[_Standards/WikiData/WD~Template_Proboscidea_(Animalia),14463356]]'
+- '[[_Standards/WikiData/WD~Template_Proboscidea,15088259]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+OmegaWiki_Defined_Meaning: 2978
 start_time: -60000000-01-01T00:00:00Z
-ITIS_TSN: "180674"
+ITIS_TSN: 180674
 Commons_category: Proboscidea
 taxon_name: Proboscidea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AfricanElephant.jpg
@@ -27,13 +82,120 @@ MeSH_tree_code: B01.050.150.900.649.313.250.500
 UMLS_CUI: C0325153
 NBN_System_Key: NHMSYS0000377143
 Library_of_Congress_Classification:
-  - QL737.P97
-  - QL737.P98
+- QL737.P97
+- QL737.P98
 taxon_common_name:
-  - snabeldyr
-  - trobčarji
+- snabeldyr
+- trobčarji
+dv_has_:
+  name_:
+    af: Proboscidea
+    an: Proboscidea
+    ar: خرطوميات
+    arz: فيليات
+    ast: Proboscídeos
+    avk: Fuzoldunol (Proboscidea)
+    az: Xortumlular
+    be: Хобатныя
+    be-tarask: хобатныя
+    bg: хоботни
+    bn: শুড়ধারী
+    br: Proboscidea
+    bs: Proboscidea
+    ca: proboscidis
+    ceb: Proboscidea
+    cs: chobotnatci
+    cy: Proboscidea
+    da: Snabeldyr
+    de: Rüsseltiere
+    el: Προβοσκειδοειδή
+    en: Proboscidea
+    en-ca: Proboscidea
+    en-gb: Proboscidea
+    eo: Rostruloj
+    es: Proboscidea
+    et: Proboscidea
+    eu: Proboscidea
+    ext: Proboscidea
+    fa: خرطومداران
+    fi: norsueläimet
+    fr: Proboscidea
+    frr: Elefantendiarten
+    fy: Slurfdieren
+    ga: Proboscidea
+    gl: Proboscídeos
+    gn: Mborerotochu
+    gsw: Proboscidea
+    he: פילאים
+    hi: प्रोबोसीडिया
+    hr: Surlaši
+    hsb: Słony
+    hu: ormányosok
+    hy: կնճիթավորներ
+    ia: Proboscidea
+    id: Proboscidea
+    ie: Proboscidea
+    io: Proboscidea
+    is: Proboscidea
+    it: Proboscidea
+    ja: ゾウ目
+    ka: ხორთუმიანები
+    kk: Еттұмсықтылар
+    ko: 장비목
+    koi: Кузьныраэз
+    ky: Пил тумшуктуулар
+    la: Proboscidea
+    lb: Rüsseldéieren
+    lfn: Proboscideo
+    lij: Proboscidea
+    lmo: Proboscidea
+    lt: Straubliniai
+    lv: snuķaiņi
+    mk: сурлари
+    ml: പ്രൊബോസിഡേ
+    ms: Proboscidea
+    mt: Proboscidea
+    mul: Proboscidea
+    nb: Snabeldyr
+    nds: Proboscidea
+    nds-nl: Proboscidea
+    nl: slurfdieren
+    nn: Snabeldyr
+    nov: Proboscidea
+    oc: Proboscidea
+    pl: trąbowce
+    pms: Proboscidea
+    pt: Proboscidea
+    pt-br: Proboscidea
+    ro: Proboscidieni
+    ru: хоботные
+    sah: тумсуктаахтар
+    scn: Proboscidea
+    sh: Surlaši
+    sk: Chobotnatce
+    sl: trobčarji
+    sq: Proboscidea
+    sr: сурлаши
+    sv: Elefantdjur
+    th: อันดับช้าง
+    tl: Proboscidea
+    tr: Hortumlular
+    uk: хоботні
+    ur: خرطوم دار
+    uz: Xartumlilar
+    vec: Proboscidea
+    vi: Bộ Có vòi
+    vls: Slurfbeestn
+    vo: Proboscidea
+    wa: Proboscidea
+    war: Proboscidea
+    wuu: 长鼻目
+    yue: 長鼻目
+    zh: 长鼻目
+    zh-cn: 长鼻目
+    zh-hans: 长鼻目
+    zh-tw: 長鼻目
 ---
-
 # [[Proboscidea]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Proboscidea,26308|WD~Proboscidea,26308]] 

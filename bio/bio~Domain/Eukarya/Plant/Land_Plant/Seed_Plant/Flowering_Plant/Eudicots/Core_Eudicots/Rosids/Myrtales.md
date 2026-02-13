@@ -1,7 +1,40 @@
 ---
 aliases:
-  - Myrtales
-  - 桃金娘目
+- Bộ Đào kim nương
+- Kategory:Mirte-eftige
+- Mirtagtiges
+- Mirtaloj
+- Mirtals
+- Mirtiečiai
+- mirtolike
+- mirtovci
+- mirtowce
+- mirtuszvirágúak
+- Miršu rinda
+- Myrtales
+- Myrte-ordenen
+- Myrtenartige
+- myrteordenen
+- myrtotvaré
+- Mürdilaadsed
+- Mərsinçiçəklilər
+- Μυρτώδη
+- Міртакветныя
+- миртовидни
+- миртоцвіті
+- миртоцветни
+- миртоцветные
+- մրտենածաղկավորներ
+- הדסאים
+- آسيات
+- موردسانان
+- మిర్టేలిస్
+- മിർട്ടേൽസ്
+- อันดับชมพู่
+- フトモモ目
+- 桃金娘目
+- 桃金孃目
+- 도금양목
 has_id_wikidata: Q21866
 title: Myrtales
 parent_taxon: '[[_Standards/WikiData/WD~malvids,2133361]]'
@@ -10,8 +43,8 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 27072
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lumnitzera%20littorea.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Punica%20granatum%201.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lumnitzera%20littorea.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Punica%20granatum%201.jpg
 EPPO_Code: 1MYTO
 MeSH_tree_code: B01.875.800.575.912.250.859.833
 UMLS_CUI: C1009845
@@ -19,8 +52,95 @@ Commons_category: Myrtales
 taxon_name: Myrtales
 NBN_System_Key: NHMSYS0000066424
 taxon_common_name: 桃金娘目
+dv_has_:
+  name_:
+    af: Mirtagtiges
+    an: Myrtales
+    ar: آسيات
+    arz: آسيات
+    ast: Myrtales
+    az: Mərsinçiçəklilər
+    bcl: Myrtales
+    be: Міртакветныя
+    be-tarask: Міртакветныя
+    bg: миртоцветни
+    bs: Myrtales
+    ca: Mirtals
+    ceb: Myrtales
+    co: Myrtales
+    cs: myrtotvaré
+    da: Myrte-ordenen
+    de: Myrtenartige
+    el: Μυρτώδη
+    en: Myrtales
+    en-ca: Myrtales
+    en-gb: Myrtales
+    eo: Mirtaloj
+    es: Myrtales
+    et: Mürdilaadsed
+    eu: Myrtales
+    ext: Myrtales
+    fa: موردسانان
+    fi: Myrtales
+    fr: Myrtales
+    frr: Myrtales
+    fy: Kategory:Mirte-eftige
+    ga: Myrtales
+    gl: Myrtales
+    he: הדסאים
+    hr: mirtolike
+    hu: mirtuszvirágúak
+    hy: մրտենածաղկավորներ
+    ia: Myrtales
+    id: Myrtales
+    ie: Myrtales
+    ilo: Myrtales
+    io: Myrtales
+    it: Myrtales
+    ja: フトモモ目
+    jv: Myrtales
+    ko: 도금양목
+    la: Myrtales
+    lt: Mirtiečiai
+    lv: Miršu rinda
+    mk: миртовидни
+    ml: മിർട്ടേൽസ്
+    ms: Myrtales
+    mul: Myrtales
+    nb: myrteordenen
+    nl: Myrtales
+    nn: myrteordenen
+    oc: Myrtales
+    pl: mirtowce
+    pt: Myrtales
+    pt-br: Myrtales
+    ro: Myrtales
+    ru: миртоцветные
+    sco: Myrtales
+    sk: myrtotvaré
+    sl: mirtovci
+    smn: Myrtales
+    sq: Myrtales
+    sr: Myrtales
+    sr-el: Myrtales
+    sv: Myrtales
+    te: మిర్టేలిస్
+    th: อันดับชมพู่
+    tl: Myrtales
+    tr: Myrtales
+    uk: миртоцвіті
+    vi: Bộ Đào kim nương
+    vls: Myrtales
+    vo: Myrtales
+    war: Myrtales
+    wuu: 桃金娘目
+    yue: 桃金娘目
+    zh: 桃金娘目
+    zh-cn: 桃金娘目
+    zh-hans: 桃金娘目
+    zh-hant: 桃金娘目
+    zh-tw: 桃金孃目
 ---
-
 # [[Myrtales]] 
 
 ![Clidemia_hirta](Myrtales/Clidemia_hirta.jpg)  ![Oenothera_californica](Myrtales/Oenothera_californica.jpg)  ![Eucalyptus_viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg) 

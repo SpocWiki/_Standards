@@ -1,8 +1,101 @@
 ---
 aliases:
-  - Decapodiformes
+- Decabrachia
+- Decapodiformes
+- Desaťramenné dvojžiabrovce
+- deseteronožci
+- desetiramenatci
+- desmitkājveidīgie
+- dziesięciornice
+- kymmenlonkeroiset
+- Kümnehaarmelised
+- Siêu bộ Mười chân
+- Teinarm-Dintenfische
+- tiarma blekksprutar
+- tiarmede blekkspruter
+- Tiarmede blæksprutter
+- Tioarmade bläckfiskar
+- Tjiinbianeten
+- tízkarú polipok
+- Zehnarmige Tintenfische
+- Łóóʼ bigaan neeznání
+- десетножни
+- десятирукие
+- дзесяціногія малюскі
+- דיונונים
+- دهپاسانان
+- عشريات الشكل
+- 十腕形上目
+- 十腕总目
+- 十腕總目
+- 烏賊魚
+- 낙지
+- 십완상목
 title: Decapodiformes
 has_id_wikidata: Q843338
+dv_has_:
+  name_:
+    an: Decapodiformes
+    ar: عشريات الشكل
+    ast: Decapodiformes
+    be: дзесяціногія малюскі
+    be-tarask: дзесяціногія малюскі
+    bg: Decapodiformes
+    ca: Decapodiformes
+    ceb: Decapodiformes
+    cs: desetiramenatci
+    da: Tiarmede blæksprutter
+    de: Zehnarmige Tintenfische
+    en: Decapodiformes
+    eo: Decapodiformes
+    es: Decapodiformes
+    et: Kümnehaarmelised
+    eu: Decapodiformes
+    ext: Decapodiformes
+    fa: دهپاسانان
+    fi: kymmenlonkeroiset
+    fr: Decabrachia
+    frr: Tjiinbianeten
+    ga: Decapodiformes
+    gl: Decapodiformes
+    he: דיונונים
+    hu: tízkarú polipok
+    ia: Decapodiformes
+    id: Decapodiformes
+    ie: Decapodiformes
+    io: Decapodiformes
+    it: Decapodiformes
+    ja: 十腕形上目
+    ko: 십완상목
+    ko-kp: 낙지
+    la: Decapodiformes
+    lv: desmitkājveidīgie
+    lzh: 烏賊魚
+    mk: десетножни
+    mul: Decapodiformes
+    nb: tiarmede blekkspruter
+    nds: Teinarm-Dintenfische
+    nl: Decapodiformes
+    nn: tiarma blekksprutar
+    nv: Łóóʼ bigaan neeznání
+    oc: Decapodiformes
+    pl: dziesięciornice
+    pt: Decapodiformes
+    pt-br: Decapodiformes
+    ro: Decapodiformes
+    ru: десятирукие
+    sk: Desaťramenné dvojžiabrovce
+    sl: deseteronožci
+    sq: Decapodiformes
+    sv: Tioarmade bläckfiskar
+    tr: Decapodiformes
+    uk: Decapodiformes
+    vi: Siêu bộ Mười chân
+    vo: Decapodiformes
+    war: Decapodiformes
+    zh: 十腕總目
+    zh-cn: 十腕總目
+    zh-hans: 十腕总目
 ---
 # [[Decapodiformes]] 
 

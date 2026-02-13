@@ -1,36 +1,96 @@
 ---
-has_time_started: 1950-01-01 
+has_time_started: 1950-01-01
 aliases:
-  - Formula One
-  - Formula_One
+- 1 Formula
+- Công thức 1
+- Fformiwla Un
+- Foirmle a h-Aon
+- Foirmle a hAon
+- Formel 1
+- Formul Un
+- Formula 1
+- Formula Ane
+- Formula Ciek
+- Formula Hiji
+- Formula Një
+- Formula One
+- Formula Satu
+- Formula Siji
+- Formula Siki
+- Formula-1
+- Formula_One
+- Formula–1
+- Formule 1
+- Formule Een
+- Formulenn 1
+- Formulo 1
+- Formulė 1
+- Formuła 1
+- Formúla 1
+- Furmla 1
+- Fòrmula 1
+- Fórmula 1
+- Mfumo wa Kwanza
+- Usoro nke Mbụ
+- Vormel 1
+- Φόρμουλα 1
+- Формула 1
+- Формула-1
+- Ֆորմիւլա 1
+- Ֆորմուլա 1
+- פורמולה 1
+- فارمولا ون
+- فرمول یک
+- فورملا ون
+- فورمولا 1
+- فۆرمولا یەک
+- ފަންވަތް:F1
+- फर्मुला वान
+- फ़ॉर्मूला वन
+- फॉर्म्युला वन
+- ফর্মুলা ওয়ান
+- ਫ਼ਾਰਮੂਲਾ ਵਨ
+- ଫର୍ମୁଲା ୱାନ
+- பார்முலா 1
+- ఫార్ములా వన్
+- ಫಾರ್ಮುಲಾ ಒನ್
+- ഫോർമുല വൺ
+- ฟอร์มูลาวัน
+- ဖော်မြူလာ ဝမ်း
+- ფორმულა ერთი
+- フォーミュラ1
+- 一級方程式
+- 一級方程式賽車
+- 一级方程式赛车
+- 포뮬러 원
 has_id_wikidata: Q1968
 statistical_leader:
-  - "[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]"
-  - "[[_Standards/WikiData/WD~Michael_Schumacher,9671]]"
-  - "[[_Standards/WikiData/WD~Lewis_Hamilton,9673]]"
-operator: "[[_Standards/WikiData/WD~Formula_One_Group,174035]]"
+- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]'
+- '[[_Standards/WikiData/WD~Michael_Schumacher,9671]]'
+- '[[_Standards/WikiData/WD~Lewis_Hamilton,9673]]'
+operator: '[[_Standards/WikiData/WD~Formula_One_Group,174035]]'
 organizer: "[[_Standards/WikiData/WD~Fédération_Internationale_de_l'Automobile,179412]]"
 league_level_below:
-  - "[[_Standards/WikiData/WD~GP2_Series,208744]]"
-  - "[[_Standards/WikiData/WD~Formula_3000,362400]]"
-  - "[[_Standards/WikiData/WD~FIA_Formula_2_Championship,29383721]]"
+- '[[_Standards/WikiData/WD~GP2_Series,208744]]'
+- '[[_Standards/WikiData/WD~Formula_3000,362400]]'
+- '[[_Standards/WikiData/WD~FIA_Formula_2_Championship,29383721]]'
 different_from:
-  - "[[_Standards/WikiData/WD~F1,225109]]"
-  - "[[_Standards/WikiData/WD~F1_hybrid,2293576]]"
+- '[[_Standards/WikiData/WD~F1,225109]]'
+- '[[_Standards/WikiData/WD~F1_hybrid,2293576]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~world_championship,1344963]]"
-  - "[[_Standards/WikiData/WD~automobile_racing_series,60147807]]"
-  - "[[_Standards/WikiData/WD~sport,349]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Formula_One,6316867]]"
-practiced_by: "[[_Standards/WikiData/WD~Formula_One_driver,10841764]]"
+- '[[_Standards/WikiData/WD~world_championship,1344963]]'
+- '[[_Standards/WikiData/WD~automobile_racing_series,60147807]]'
+- '[[_Standards/WikiData/WD~sport,349]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Formula_One,6316867]]'
+practiced_by: '[[_Standards/WikiData/WD~Formula_One_driver,10841764]]'
 competition_class:
-  - "[[_Standards/WikiData/WD~Formula_One_World_Constructors'_Championship,63436495]]"
-  - "[[_Standards/WikiData/WD~Formula_One_drivers'_championship,108861450]]"
-theme_music: "[[_Standards/WikiData/WD~Formula_1_Theme,136724503]]"
-sport: "[[_Standards/WikiData/WD~auto_racing,5386]]"
+- "[[_Standards/WikiData/WD~Formula_One_World_Constructors'_Championship,63436495]]"
+- "[[_Standards/WikiData/WD~Formula_One_drivers'_championship,108861450]]"
+theme_music: '[[_Standards/WikiData/WD~Formula_1_Theme,136724503]]'
+sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
 social_media_followers:
-  - 12400000
-  - 8952433
+- 12400000
+- 8952433
 IMDb_keyword: formula-1
 X_Twitter_username: F1
 Baidu_Tieba_name: f1
@@ -38,9 +98,9 @@ TikTok_username: f1
 Instagram_username: f1
 short_name: F1
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/F1.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/F1%20logo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/FIA%20Formula%20One%20World%20Championship%20Logo.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/F1.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/F1%20logo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/FIA%20Formula%20One%20World%20Championship%20Logo.png
 Commons_category: Formula One
 Commons_gallery: Formula One
 inception: 1950-01-01T00:00:00Z
@@ -49,14 +109,118 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/F1pictogram.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20One%20page%20banner.jpg
 official_website: https://www.formula1.com
 subreddit:
-  - F1CircleJerk
-  - formula1
+- F1CircleJerk
+- formula1
 Bluesky_handle: f1tv.bsky.social
 Facebook_username: Formula1
 IPTC_NewsCode: mediatopic/20000994
 described_at_URL: https://thethaotocdo.vn/f1/
+dv_has_:
+  name_:
+    af: Formule Een
+    ar: فورمولا 1
+    ast: Fórmula 1
+    az: Formula-1
+    ban: Formula Siki
+    bar: Formel 1
+    be: Формула-1
+    be-tarask: Формула-1
+    bg: Формула 1
+    bn: ফর্মুলা ওয়ান
+    br: Formulenn 1
+    ca: Fórmula 1
+    ckb: فۆرمولا یەک
+    cs: Formule 1
+    cv: Формула-1
+    cy: Fformiwla Un
+    da: Formel 1
+    de: Formel 1
+    de-at: Formel 1
+    de-ch: Formel 1
+    dv: ފަންވަތް:F1
+    el: Φόρμουλα 1
+    en: Formula One
+    en-ca: Formula One
+    en-gb: Formula One
+    eo: Formulo 1
+    es: Fórmula 1
+    et: Vormel 1
+    eu: 1 Formula
+    fa: فرمول یک
+    fo: Formel 1
+    fr: Formule 1
+    fy: Formule 1
+    ga: Foirmle a hAon
+    gd: Foirmle a h-Aon
+    gl: Fórmula 1
+    he: פורמולה 1
+    hi: फ़ॉर्मूला वन
+    hu: Formula–1
+    hy: Ֆորմուլա 1
+    hyw: Ֆորմիւլա 1
+    id: Formula Satu
+    ie: Formul Un
+    ig: Usoro nke Mbụ
+    io: Formulo 1
+    is: Formúla 1
+    ja: フォーミュラ1
+    jv: Formula Siji
+    ka: ფორმულა ერთი
+    kk: Формула-1
+    kn: ಫಾರ್ಮುಲಾ ಒನ್
+    ko: 포뮬러 원
+    ky: Формула 1
+    lb: Formel 1
+    li: Formule 1
+    lt: Formulė 1
+    min: Formula Ciek
+    mk: Формула 1
+    ml: ഫോർമുല വൺ
+    mn: Формула-1
+    mr: फॉर्म्युला वन
+    ms: Formula Satu
+    mul: Formula 1
+    mwl: Fórmula 1
+    my: ဖော်မြူလာ ဝမ်း
+    mzn: فرمول یک
+    nb: Formel 1
+    new: फर्मुला वान
+    nl: Formule 1
+    nn: Formel 1
+    or: ଫର୍ମୁଲା ୱାନ
+    pa: ਫ਼ਾਰਮੂਲਾ ਵਨ
+    pl: Formuła 1
+    pnb: فارمولا ون
+    pt: Fórmula 1
+    pt-br: Fórmula 1
+    rm: Furmla 1
+    ru: Формула-1
+    scn: Fòrmula 1
+    sco: Formula Ane
+    sq: Formula Një
+    sr: Формула 1
+    sr-ec: Формула 1
+    stq: Formel 1
+    su: Formula Hiji
+    sv: Formel 1
+    sw: Mfumo wa Kwanza
+    ta: பார்முலா 1
+    te: ఫార్ములా వన్
+    tg: Формула 1
+    th: ฟอร์มูลาวัน
+    tl: Formula One
+    tt: Formula-1
+    uk: Формула-1
+    ur: فورملا ون
+    uz: Formula 1
+    vi: Công thức 1
+    vls: Formule 1
+    vro: Vormel 1
+    wuu: 一级方程式赛车
+    yo: Formula One
+    yue: 一級方程式
+    zh: 一級方程式賽車
 ---
-
 # [[Formula_One]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Formula_One,1968|WD~Formula_One,1968]] 

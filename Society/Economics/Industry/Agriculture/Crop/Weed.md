@@ -1,16 +1,104 @@
 ---
 aliases:
-  - Unkraut
-  - Weed
+- adventice
+- Ahidratsy
+- Alaq
+- Barërat e këqija
+- Buruiană
+- Chopiq
+- chwast
+- Co (Tabana teitei)
+- Crouwå
+- Cỏ
+- Dîbek (giya)
+- erva daninha
+- Fratta
+- Gulma
+- gyomnövény
+- herba adventícia
+- Herbacho
+- iilâskvalje
+- iilâsǩ
+- Illgresi
+- Javorái
+- Korov
+- krödde
+- Mala herba
+- maleza
+- Masamang damo
+- Millay qura
+- Mojuui
+- nezāle
+- ogräs
+- Onkruid
+- Palauvaksraġiitchuaq
+- piante infestanti
+- piktžolė
+- Piktžuolė
+- plevel
+- rikkakasvi
+- Rumpai
+- Sastraka
+- trudherbo
+- Ugras
+- ugress
+- ukrudt
+- umbrohi
+- Unkraut
+- Unkruut
+- Vuulte
+- Weed
+- Wiwi
+- Yabani ot
+- árvvohisrássi
+- Çумкурăк
+- Ünkrüüs
+- Αγριόχορτο
+- Алафҳои бегона
+- бур'ян
+- Жаг турынъёс
+- коров
+- Плевел
+- пустазелле
+- пустазельле
+- сорные растения
+- хæмпæлгæрдæджытæ
+- Ҡый үләндәре
+- մոլախոտեր
+- אומקרויט
+- עשבים שוטים
+- حشيشة
+- علف هرز
+- واش
+- گھاہ پھوس
+- खरपतवार
+- झार
+- আগাছা
+- ਨਦੀਨ
+- களை
+- కలుపు మొక్క
+- ಅಲುಬು
+- കള
+- วัชพืช
+- ပေါင်းပင်
+- ယိူဝ်ႈယႃႈ
+- ჟვერი ჩანარეფი
+- სარეველა მცენარეები
+- አረም
+- 草
+- 野草
+- 雑草
+- 雜草
+- 잡초
 has_id_wikidata: Q101879
 subclass_of:
-  - '[[_Standards/WikiData/WD~pest,219174]]'
-  - '[[_Standards/WikiData/WD~plant,756]]'
+- '[[_Standards/WikiData/WD~pest,219174]]'
+- '[[_Standards/WikiData/WD~plant,756]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Beikraut,814728]]'
 different_from: '[[_Standards/WikiData/WD~Q10857265,10857265]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 OmegaWiki_Defined_Meaning: 4134
 Commons_gallery: Weed
 U_S_National_Archives_Identifier: 10662855
@@ -19,8 +107,120 @@ Iconclass_notation: 47I119
 MeSH_tree_code: B01.650.449
 Commons_category: Weeds (plants)
 Dewey_Decimal_Classification: 632.5
+dv_has_:
+  name_:
+    af: Onkruid
+    am: አረም
+    ar: حشيشة
+    ast: maleza
+    az: Alaq
+    ba: Ҡый үләндәре
+    be: пустазелле
+    be-tarask: пустазельле
+    bg: Плевел
+    bn: আগাছা
+    bs: Korov
+    ca: herba adventícia
+    cs: plevel
+    cv: Çумкурăк
+    da: ukrudt
+    de: Unkraut
+    el: Αγριόχορτο
+    en: weed
+    en-us: Weed
+    eo: trudherbo
+    es: maleza
+    et: umbrohi
+    eu: Sastraka
+    fa: علف هرز
+    fi: rikkakasvi
+    fj: Co (Tabana teitei)
+    fr: adventice
+    frr: Ünkrüüs
+    gl: Mala herba
+    gn: Javorái
+    guc: Mojuui
+    ha: Wiwi
+    he: עשבים שוטים
+    hi: खरपतवार
+    hr: Korov
+    hu: gyomnövény
+    hy: մոլախոտեր
+    id: Gulma
+    ig: Weed
+    ik: Palauvaksraġiitchuaq
+    io: Herbacho
+    is: Illgresi
+    it: piante infestanti
+    ja: 雑草
+    jv: Gulma
+    ka: სარეველა მცენარეები
+    kn: ಅಲುಬು
+    ko: 잡초
+    ku: Dîbek (giya)
+    lt: piktžolė
+    lv: nezāle
+    mg: Ahidratsy
+    mk: плевел
+    ml: കള
+    ms: Rumpai
+    my: ပေါင်းပင်
+    mzn: واش
+    nb: ugress
+    nds: Unkruut
+    nds-nl: krödde
+    ne: झार
+    nl: onkruid
+    nn: Ugras
+    os: хæмпæлгæрдæджытæ
+    pa: ਨਦੀਨ
+    pl: chwast
+    pnb: گھاہ پھوس
+    pt: erva daninha
+    qu: Millay qura
+    ro: Buruiană
+    ru: сорные растения
+    rw: Weed
+    scn: Fratta
+    sco: weed
+    se: árvvohisrássi
+    sgs: Piktžuolė
+    sh: Korov
+    shn: ယိူဝ်ႈယႃႈ
+    sk: Plevel
+    sl: plevel
+    smn: iilâskvalje
+    sms: iilâsǩ
+    sq: Barërat e këqija
+    sr: коров
+    sr-ec: Коров
+    sr-el: Korov
+    su: Gulma
+    sv: ogräs
+    ta: களை
+    te: కలుపు మొక్క
+    tg: Алафҳои бегона
+    th: วัชพืช
+    tl: Masamang damo
+    tr: Yabani ot
+    udm: Жаг турынъёс
+    uk: бур'ян
+    uz: Chopiq
+    vi: Cỏ
+    wa: Crouwå
+    wuu: 草
+    xmf: ჟვერი ჩანარეფი
+    yi: אומקרויט
+    yue: 雜草
+    zea: Vuulte
+    zh: 野草
+    zh-cn: 野草
+    zh-hans: 野草
+    zh-hant: 野草
+    zh-hk: 野草
+    zh-sg: 野草
+    zh-tw: 野草
 ---
-
 # [[Weed]] 
 
 #is_/same_as :: [[WD~Weed,101879]] 

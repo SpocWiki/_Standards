@@ -1,22 +1,102 @@
 ---
 aliases:
-  - drug
-  - Drug
-  - is_a_drug
-  - Droge
+- biologik faol moddalar
+- biologisch actieve stof
+- biologiškai aktyvios medžiagos
+- bioloji aktiv maddə
+- bioloģiski aktīva viela
+- chất gây nghiện
+- cyffur
+- dadah
+- derman
+- dramm
+- drog
+- droga
+- Droge
+- drogga
+- drogo
+- drogue
+- droog
+- drug
+- druga
+- drugs
+- dròga
+- dwelmmiddel
+- dwòg
+- ilaç
+- Indakamizwa
+- Io̍h-bu̍t
+- Isidakamizwa
+- is_a_drug
+- Iŏh
+- jogz
+- ladròg
+- madawa ya kulevya
+- medicamentum
+- medikament
+- obat
+- obat-obatan
+- obhât
+- päihde
+- rusmiddel
+- rúsevni
+- sapaiyo
+- sapaiyu,sapayu
+- sootroo
+- ubar
+- ubek
+- uáivádâs
+- używka
+- zava-mahadomelina
+- zwidzidzivhadzi
+- ƙwaya
+- ναρκωτικό
+- біологічно активна речовина
+- біялягічна актыўныя рэчывы
+- биологик актив матдәләр
+- биологически активные вещества
+- биологично активни вещества
+- дары
+- дору
+- дрога
+- мансууруулах бодис
+- կենսաբանական ակտիվ նյութեր
+- דראג
+- סם
+- دارو
+- داروو
+- دواء
+- عَقَّار
+- औषधि
+- भेषज
+- वासः
+- ড্রাগ
+- ਡਰੱਗ
+- ಡ್ರಗ್
+- ഡ്രഗ്
+- බෙහෙත්
+- ဆေး
+- დასვენებითი წამლების გამოყენება
+- መድኃኒት
+- ᠣᡴᡨᠣ
+- 药物
+- 薬物
+- 藥
+- 藥物
+- 약
 has_id_wikidata: Q8386
 confidential: private
 cssclasses:
-  - Type
-  - private
-  - note
+- Type
+- private
+- note
 draft: true
 equivalent_class: http://dbpedia.org/ontology/Drug
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - drug
+- drug
 layout: ''
 license: (c)copyrighted
 linkTitle:
@@ -24,9 +104,9 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - excalidraw
+- class/Class
+- schema-org/Class
+- excalidraw
 title:
   Drug: ''
 type: private_note
@@ -34,20 +114,20 @@ excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template:
-  - '[[Extract~Note~Template]]'
+- '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 different_from:
-  - '[[_Standards/WikiData/WD~Stoff,341867]]'
-  - '[[_Standards/WikiData/WD~narcotic,940]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~Stoff,341867]]'
+- '[[_Standards/WikiData/WD~narcotic,940]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~xenobiotic,409205]]'
-  - '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+- '[[_Standards/WikiData/WD~xenobiotic,409205]]'
+- '[[_Standards/WikiData/WD~chemical_compound,11173]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 has_characteristic: '[[_Standards/WikiData/WD~dose_response_relationship,1251001]]'
 has_effect: '[[_Standards/WikiData/WD~drug_allergy,2068896]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12034587,12034587]]'
@@ -58,12 +138,134 @@ IMDb_keyword: drugs
 PhilPapers_topic: drugs
 Commons_category: Drugs
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Droge.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Rauschgift.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Droge.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Rauschgift.ogg
 Iconclass_notation: 41C75
 subreddit: AskDrugNerds
+dv_has_:
+  name_:
+    af: dwelmmiddel
+    am: መድኃኒት
+    ami: sapaiyo
+    ar: عَقَّار
+    ast: droga
+    az: bioloji aktiv maddə
+    azb: دواء
+    bcl: droga
+    be-tarask: біялягічна актыўныя рэчывы
+    bg: биологично активни вещества
+    bn: ড্রাগ
+    br: dramm
+    bs: droga
+    ca: droga
+    cdo: Iŏh
+    ckb: داروو
+    cs: droga
+    cy: cyffur
+    da: droge
+    de: Droge
+    el: ναρκωτικό
+    en: drug
+    en-ca: drug
+    en-gb: drug
+    eo: drogo
+    es: droga
+    et: droog
+    eu: droga
+    fa: دارو
+    fi: päihde
+    fo: rúsevni
+    fr: drogue
+    frr: Droog
+    fy: Drug
+    ga: druga
+    gcr: ladròg
+    gl: droga
+    gsw: Droge
+    ha: ƙwaya
+    he: סם
+    hi: भेषज
+    ht: dwòg
+    hu: drog
+    hy: կենսաբանական ակտիվ նյութեր
+    ia: droga
+    iba: dadah
+    id: obat
+    io: drogo
+    it: droga
+    ja: 薬物
+    jam: jogz
+    jv: obat-obatan
+    ka: დასვენებითი წამლების გამოყენება
+    kn: ಡ್ರಗ್
+    ko: 약
+    ku: derman
+    kw: drogga
+    ky: дары
+    la: medicamentum
+    li: Drugs
+    lmo: droga
+    lt: biologiškai aktyvios medžiagos
+    lv: bioloģiski aktīva viela
+    lzh: 藥
+    mad: obhât
+    mg: zava-mahadomelina
+    min: ubek
+    mk: дрога
+    ml: ഡ്രഗ്
+    mn: мансууруулах бодис
+    mnc: ᠣᡴᡨᠣ
+    ms: dadah
+    my: ဆေး
+    nan: Io̍h-bu̍t
+    nb: rusmiddel
+    ne: औषधि
+    new: वासः
+    nl: biologisch actieve stof
+    nn: medikament
+    nr: Indakamizwa
+    oc: dròga
+    om: sootroo
+    pa: ਡਰੱਗ
+    pcm: drug
+    pl: używka
+    pt: droga
+    pt-br: droga
+    ro: drog
+    ru: биологически активные вещества
+    scn: droga
+    sco: drog
+    sh: droga
+    si: බෙහෙත්
+    sk: droga
+    sl: droga
+    smn: uáivádâs
+    sq: droga
+    sr: дрога
+    sr-ec: дрога
+    su: ubar
+    sv: drog
+    sw: madawa ya kulevya
+    szy: sapaiyu,sapayu
+    ta: drugs
+    tg: дору
+    tr: ilaç
+    tt: биологик актив матдәләр
+    uk: біологічно активна речовина
+    uz: biologik faol moddalar
+    ve: zwidzidzivhadzi
+    vec: droga
+    vi: chất gây nghiện
+    war: droga
+    wuu: 药物
+    yi: דראג
+    yue: 藥
+    zh: 药物
+    zh-cn: 药物
+    zh-hans: 药物
+    zh-hant: 藥物
+    zu: Isidakamizwa
 ---
-
 # [[Drug]] 
 
 Class of all drugs.

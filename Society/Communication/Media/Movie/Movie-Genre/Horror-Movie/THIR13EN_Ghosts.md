@@ -1,8 +1,59 @@
 ---
 has_id_wikidata: Q186864
+dv_has_:
+  name_:
+    ast: Thirteen Ghosts
+    az: On üç kabus (film, 2001)
+    bg: 13 призрака
+    ca: 13 fantasmes
+    da: Thir13en Ghosts
+    de: 13 Geister
+    en: Thirteen Ghosts
+    es: 13 fantasmas
+    eu: Thirteen Ghosts
+    fa: سیزده روح (فیلم ۲۰۰۱)
+    fi: Kolmetoista aavetta
+    fr: 13 Fantômes
+    hu: 13 kísértet
+    id: masukkan label
+    it: I tredici spettri
+    ja: 13ゴースト
+    ko: 13 고스트
+    lt: 13 vaiduoklių
+    nl: Thir13en Ghosts
+    pl: Trzynaście duchów
+    pt: 13 Fantasmas
+    ro: Thirteen Ghosts
+    ru: Тринадцать привидений
+    sr: Тринаест духова
+    sv: Thirteen Ghosts
+    uk: Тринадцять привидів
+    vi: Thirteen Ghosts
+    zh: 13猛鬼
+    zh-sg: 13猛鬼
+aliases:
+- 13 fantasmas
+- 13 fantasmes
+- 13 Fantômes
+- 13 Geister
+- 13 kísértet
+- 13 vaiduoklių
+- 13 призрака
+- 13 고스트
+- 13ゴースト
+- 13猛鬼
+- I tredici spettri
+- Kolmetoista aavetta
+- masukkan label
+- On üç kabus (film, 2001)
+- Thir13en Ghosts
+- Thirteen Ghosts
+- Trzynaście duchów
+- Тринадцать привидений
+- Тринадцять привидів
+- Тринаест духова
+- سیزده روح (فیلم ۲۰۰۱)
 ---
-
-
 #has_/Design_/
 
 > Thirteen Ghosts (also known as 13 Ghosts and stylized as THIR13EN Ghosts) 

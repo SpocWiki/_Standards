@@ -1,39 +1,205 @@
 ---
-has_time_started: 1970-01-01 
+has_time_started: 1970-01-01
 aliases:
+- agree
+- bárujárn
+- ceol trom-mhiotalach
+- grave metallum
+- heavy metal
+- heavy metal music
+- hevi-metal
+- hevimuusik
+- hewimetal
+- insimbi enzima
+- kiaull hrome-veainagh
+- meatailt throm
+- Metal
+- metal trwm
+- metala mozėka
+- metallimusiikki
+- Metalmuusiga
+- metalroko
+- muzik heavy metal
+- nau’in kiɗan ƙarfe mai nauyi
+- nhạc heavy metal
+- smagais metāls
+- sunkusis metalas
+- tāng-kim-sio̍k im-ga̍k
+- χέβι μέταλ
+- важкий метал
+- метал
+- метал рок
+- мэтал
+- хеви метал
+- хеви-метал
+- хевиметъл
+- մետալ
+- הבי מטאל
+- مزيكا هيڤى ميتال
+- موسيقى الميتال
+- موسیقی هوی متال
+- مۆسیقای ھێڤی مێتاڵ
+- هوی متال
+- ہیوی میٹل
+- हेभी मेटल संगीत
+- হেভি মেটাল সঙ্গীত
+- கன மெட்டல் இசை
+- เฮฟวีเมทัล
+- მონკა მეტალი
+- მძიმე მეტალი
+- ヘヴィメタル
+- 重金属音乐
+- 重金屬音樂
+- 헤비 메탈
 has_id_wikidata: Q38848
 influenced_by:
-  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
-  - "[[_Standards/WikiData/WD~blues_rock,193355]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~conflation,14946528]]"
-has_list: "[[_Standards/WikiData/WD~list_of_heavy_metal_genres,1029000]]"
-different_from: "[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Heavy_metal_music,6963860]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Heavy_metal,8143675]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~conflation,14946528]]'
+has_list: '[[_Standards/WikiData/WD~list_of_heavy_metal_genres,1029000]]'
+different_from: '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Heavy_metal_music,6963860]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Heavy_metal,8143675]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Metal,10295883]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-subclass_of: "[[_Standards/WikiData/WD~metal_music,12326776]]"
-practiced_by: "[[_Standards/WikiData/WD~metal_musician,67200506]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Wiki_inventory_for_living_heritage,113130354]]"
+- '[[_Standards/WikiData/WD~WikiProject_Metal,10295883]]'
+- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+subclass_of: '[[_Standards/WikiData/WD~metal_music,12326776]]'
+practiced_by: '[[_Standards/WikiData/WD~metal_musician,67200506]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Wiki_inventory_for_living_heritage,113130354]]'
 indigenous_to:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 inception: 1970-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Archive_of_Our_Own_tag:
-  - Heavy Metal
-  - Heavy Metal Music
+- Heavy Metal
+- Heavy Metal Music
 native_label: heavy metal
 Commons_category: Heavy metal music
 subreddit: heavymetal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Sabbath%201977.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Metalmania%20%28ISRC%20USUAN1700023%29.mp3
+dv_has_:
+  name_:
+    af: heavy metal
+    an: heavy metal
+    ar: موسيقى الميتال
+    arz: مزيكا هيڤى ميتال
+    ast: heavy metal
+    az: hevi-metal
+    bar: Metal
+    be: метал
+    be-tarask: мэтал
+    bg: хевиметъл
+    bn: হেভি মেটাল সঙ্গীত
+    br: heavy metal
+    bs: heavy metal
+    ca: heavy metal
+    ckb: مۆسیقای ھێڤی مێتاڵ
+    co: heavy metal
+    cs: heavy metal
+    cy: metal trwm
+    da: heavy metal
+    de: Heavy Metal
+    el: χέβι μέταλ
+    eml: heavy metal
+    en: heavy metal
+    en-ca: heavy metal music
+    en-gb: heavy metal
+    en-us: heavy metal
+    eo: metalroko
+    es: heavy metal
+    et: heavy metal
+    eu: heavy metal
+    ext: heavy metal
+    fa: موسیقی هوی متال
+    fi: metallimusiikki
+    fo: heavy metal
+    fr: heavy metal
+    frr: heavy metal
+    fur: Heavy metal
+    fy: heavy metal
+    ga: ceol trom-mhiotalach
+    gan: 重金属音乐
+    gd: meatailt throm
+    gl: heavy metal
+    gsw: Heavy Metal
+    gv: kiaull hrome-veainagh
+    ha: nau’in kiɗan ƙarfe mai nauyi
+    he: הבי מטאל
+    hr: heavy metal
+    hu: heavy metal
+    hy: մետալ
+    ia: metal
+    id: heavy metal
+    io: heavy metal
+    is: bárujárn
+    it: heavy metal
+    ja: ヘヴィメタル
+    jv: heavy metal
+    ka: მძიმე მეტალი
+    kl: insimbi enzima
+    ko: 헤비 메탈
+    ku: heavy metal
+    ky: метал
+    la: grave metallum
+    lb: Metal
+    li: Metal
+    lmo: heavy metal
+    lt: sunkusis metalas
+    lv: smagais metāls
+    mk: хеви-метал
+    mn: метал рок
+    ms: muzik heavy metal
+    my: Heavy metal music
+    mzn: هوی متال
+    nan: tāng-kim-sio̍k im-ga̍k
+    nb: heavy metal
+    nds: heavy metal
+    nds-nl: metal
+    new: हेभी मेटल संगीत
+    nl: heavy metal
+    nn: heavy metal
+    oc: heavy metal
+    pcd: heavy metal
+    pl: heavy metal
+    pt: heavy metal
+    pt-br: heavy metal
+    qu: heavy metal
+    ro: heavy metal
+    ru: метал
+    sc: heavy metal
+    sco: heavy metal
+    sgs: metala mozėka
+    sh: heavy metal
+    sk: heavy metal
+    sl: heavy metal
+    smn: hevimuusik
+    sq: heavy metal
+    sr: хеви метал
+    sv: heavy metal
+    szl: hewimetal
+    ta: கன மெட்டல் இசை
+    th: เฮฟวีเมทัล
+    tl: agree
+    tr: heavy metal
+    uk: важкий метал
+    ur: ہیوی میٹل
+    uz: heavy metal
+    vec: heavy metal
+    vi: nhạc heavy metal
+    vls: Metal
+    vro: Metalmuusiga
+    wa: heavy metal
+    wuu: 重金属音乐
+    xmf: მონკა მეტალი
+    yue: 重金屬音樂
+    zh: 重金属音乐
+    zh-hant: 重金屬音樂
 ---
-
 # [[Heavy_Metal]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Heavy_metal,38848|WD~Heavy_metal,38848]] 

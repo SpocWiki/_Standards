@@ -1,8 +1,41 @@
 ---
 has_id_wikidata: Q124372016
+dv_has_:
+  name_:
+    an: Pseudomonadati
+    ast: Pseudomonadati
+    ca: Pseudomonadati
+    de: Pseudomonadati
+    en: Pseudomonadati
+    eo: Pseudomonadati
+    es: Pseudomonadati
+    eu: Pseudomonadati
+    ext: Pseudomonadati
+    fr: Pseudomonadati
+    ga: Pseudomonadati
+    gl: Pseudomonadati
+    ia: Pseudomonadati
+    ie: Pseudomonadati
+    io: Pseudomonadati
+    it: Pseudomonadati
+    ja: シュードモナス界
+    la: Pseudomonadati
+    mul: Pseudomonadati
+    nl: Pseudomonadati
+    oc: Pseudomonadati
+    pl: Pseudomonadati
+    pt: Pseudomonadati
+    pt-br: Pseudomonadati
+    ru: Pseudomonadati
+    sl: Pseudomonadati
+    sv: Pseudomonadati
+    vo: Pseudomonadati
+    zh: 假单胞菌界
+aliases:
+- Pseudomonadati
+- シュードモナス界
+- 假单胞菌界
 ---
-
-
 # [[Pseudomonadati]] 
 
 

@@ -1,21 +1,71 @@
 ---
 aliases:
-  - Faulty generalization
+- faulty generalisation
+- Faulty generalization
+- feilaktig generalisering
+- fejlagtig generalisering
+- foutieve generalisatie
+- generalisasi salah
+- generalització defectuosa
+- generalizarea defectuoasă
+- generalizzazione fallace
+- généralisation abusive
+- hatalı genelleme
+- helytelen általánosítás
+- napačna posplošitev
+- ngụy biện khái quát hóa có khiếm khuyết
+- overgeneralitas
+- zenerałizasion abuziva
+- Грешна генерализация
+- хибне узагальнення
+- כשלי היקש
+- تعميم خاطئ
+- ناسم تعمیم (عمومي کول)
+- 不完全な一般化
+- 不当概化
+- 不當概化
 has_id_wikidata: Q2890850
 subclass_of:
-  - "[[_Standards/WikiData/WD~generalization,170084]]"
-  - "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
-has_cause: "[[_Standards/WikiData/WD~law_of_large_numbers,207952]]"
+- '[[_Standards/WikiData/WD~generalization,170084]]'
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
+has_cause: '[[_Standards/WikiData/WD~law_of_large_numbers,207952]]'
 different_from:
-  - "[[_Standards/WikiData/WD~hasty_generalization,332406]]"
-  - "[[_Standards/WikiData/WD~a_dicto_simpliciter,4660909]]"
+- '[[_Standards/WikiData/WD~hasty_generalization,332406]]'
+- '[[_Standards/WikiData/WD~a_dicto_simpliciter,4660909]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~cognitive_bias,1127759]]"
-  - "[[_Standards/WikiData/WD~error,29485]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Inductive_fallacies,7478516]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+- '[[_Standards/WikiData/WD~cognitive_bias,1127759]]'
+- '[[_Standards/WikiData/WD~error,29485]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Inductive_fallacies,7478516]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+dv_has_:
+  name_:
+    ar: تعميم خاطئ
+    bg: Грешна генерализация
+    ca: generalització defectuosa
+    da: fejlagtig generalisering
+    en: faulty generalization
+    en-gb: faulty generalisation
+    fr: généralisation abusive
+    he: כשלי היקש
+    hu: helytelen általánosítás
+    id: overgeneralitas
+    it: generalizzazione fallace
+    ja: 不完全な一般化
+    ms: generalisasi salah
+    nb: feilaktig generalisering
+    nl: foutieve generalisatie
+    ps: ناسم تعمیم (عمومي کول)
+    ro: generalizarea defectuoasă
+    sl: napačna posplošitev
+    tr: hatalı genelleme
+    uk: хибне узагальнення
+    vec: zenerałizasion abuziva
+    vi: ngụy biện khái quát hóa có khiếm khuyết
+    zh: 不當概化
+    zh-hans: 不当概化
+    zh-hant: 不當概化
+    zh-hk: 不當概化
 ---
-
 # [[Faulty_Generalization]] 
 
 #is_/same_as :: [[WD~Faulty_Generalization,2890850]] 

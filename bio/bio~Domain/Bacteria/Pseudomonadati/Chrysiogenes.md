@@ -1,8 +1,47 @@
 ---
 aliases:
-  - Chrysiogenes
+- Chrysiogenaceae
+- Chrysiogenes
+- クリシオゲネス綱
 title: Chrysiogenes arsenatis
 has_id_wikidata: Q15105435
+dv_has_:
+  name_:
+    an: Chrysiogenaceae
+    ast: Chrysiogenaceae
+    bg: Chrysiogenaceae
+    ca: Chrysiogenaceae
+    ceb: Chrysiogenaceae
+    de: Chrysiogenaceae
+    en: Chrysiogenaceae
+    eo: Chrysiogenaceae
+    es: Chrysiogenaceae
+    eu: Chrysiogenaceae
+    ext: Chrysiogenaceae
+    fi: Chrysiogenaceae
+    fr: Chrysiogenaceae
+    ga: Chrysiogenaceae
+    gl: Chrysiogenaceae
+    ia: Chrysiogenaceae
+    ie: Chrysiogenaceae
+    io: Chrysiogenaceae
+    it: Chrysiogenaceae
+    ja: クリシオゲネス綱
+    la: Chrysiogenaceae
+    mul: Chrysiogenaceae
+    nl: Chrysiogenaceae
+    oc: Chrysiogenaceae
+    pl: Chrysiogenaceae
+    pt: Chrysiogenaceae
+    pt-br: Chrysiogenaceae
+    ro: Chrysiogenaceae
+    ru: Chrysiogenaceae
+    sq: Chrysiogenaceae
+    tr: Chrysiogenaceae
+    uk: Chrysiogenaceae
+    vi: Chrysiogenaceae
+    vo: Chrysiogenaceae
+    war: Chrysiogenaceae
 ---
 # [[Chrysiogenetes]] 
 

@@ -1,8 +1,150 @@
 ---
 aliases:
-  - Bryozoa
+- Briozooj
+- Briozoos
+- Briozou
+- Briozoylar
+- Bryozoa
+- Ectoprocta
+- Ectoprocto
+- Kinyama-kigoga
+- Machovky
+- Mahovnjaci
+- mahovnjaki
+- Mananap nga lumot
+- mechovci
+- Mieschdierli
+- mohaállatok
+- Moostierchen
+- Morske mahovine
+- Mosadýr
+- Mosbieëster
+- Mosdiere
+- mosdiertjes
+- Mosdyr
+- mossdjur
+- Mszywioły
+- Mööskdiarten
+- Samangyviai
+- sammaleläimet
+- Sammalloomad
+- Sūneņi
+- Tóchʼilgi átʼéhígíí
+- Yosun hayvancıkları
+- Động vật hình rêu
+- Βρυόζωα
+- імшанкі
+- ектопрокти
+- Майлышөп
+- Мовести животни
+- морске маховине
+- мохуватки
+- Мшанкалар
+- мшанки
+- мүкчәләр
+- חיטחבים
+- برايوزوئا
+- بریوزویلار
+- حيوانات حزازية
+- حيوانات حزازيه
+- خزهزیان
+- ไบรโอซัว
+- 外肛动物门
+- 外肛動物
+- 外肛動物門
+- 苔蘚動物
+- 태형동물
 title: Bryozoa
 has_id_wikidata: Q148134
+dv_has_:
+  name_:
+    af: Mosdiere
+    an: Bryozoa
+    ar: حيوانات حزازية
+    arz: حيوانات حزازيه
+    ast: Bryozoa
+    az: Briozoylar
+    azb: بریوزویلار
+    be: імшанкі
+    bg: ектопрокти
+    bs: Mahovnjaci
+    ca: Briozou
+    ceb: Mananap nga lumot
+    cs: mechovci
+    da: Mosdyr
+    de: Moostierchen
+    el: Βρυόζωα
+    en: Bryozoa
+    eo: Briozooj
+    es: Bryozoa
+    et: Sammalloomad
+    eu: Bryozoa
+    ext: Bryozoa
+    fa: خزهزیان
+    fi: sammaleläimet
+    fr: Ectoprocta
+    frr: Mööskdiarten
+    ga: Bryozoa
+    gl: Briozoos
+    gsw: Mieschdierli
+    he: חיטחבים
+    hr: Mahovnjaci
+    hu: mohaállatok
+    ia: Bryozoa
+    id: Bryozoa
+    ie: Bryozoa
+    io: Bryozoa
+    is: Mosadýr
+    it: Bryozoa
+    ja: 外肛動物
+    kk: Майлышөп
+    ko: 태형동물
+    ky: Мшанкалар
+    la: Bryozoa
+    lfn: Ectoprocto
+    li: Mosbieëster
+    lt: Samangyviai
+    lv: Sūneņi
+    mk: Мовести животни
+    mul: Bryozoa
+    nb: Mosdyr
+    nl: mosdiertjes
+    nn: mosdyr
+    nv: Tóchʼilgi átʼéhígíí
+    oc: Ectoprocta
+    pl: Mszywioły
+    pt: Ectoprocta
+    pt-br: Bryozoa
+    ro: Bryozoa
+    ru: мшанки
+    sco: Bryozoa
+    sd: برايوزوئا
+    sh: Mahovnjaci
+    sk: Machovky
+    sl: mahovnjaki
+    sq: Bryozoa
+    sr: морске маховине
+    sr-ec: Морске маховине
+    sr-el: Morske mahovine
+    sv: mossdjur
+    sw: Kinyama-kigoga
+    th: ไบรโอซัว
+    tl: Bryozoa
+    tr: Yosun hayvancıkları
+    tt: мүкчәләр
+    uk: мохуватки
+    vi: Động vật hình rêu
+    vo: Bryozoa
+    war: Bryozoa
+    wuu: 外肛动物门
+    yue: 苔蘚動物
+    zh: 外肛动物门
+    zh-cn: 外肛动物门
+    zh-hans: 外肛动物门
+    zh-hant: 外肛動物門
+    zh-hk: 外肛動物門
+    zh-sg: 外肛动物门
+    zh-tw: 外肛動物門
 ---
 # [[Bryozoa]]
 

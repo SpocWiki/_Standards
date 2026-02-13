@@ -1,18 +1,185 @@
 ---
 aliases:
-  - Atomic_Radius
-  - Atomic Radius
+- aatomiraadius
+- aatoomsuonjâr
+- Atom radiusi
+- Atom radïwsı
+- atom yarıçapı
+- atoma rādiuss
+- Atomic Radius
+- Atomic_Radius
+- atomisäde
+- Atomo spindulys
+- Atomový poloměr
+- atomradie
+- Atomradius
+- atomradiuso
+- atomski polmer
+- Atomski radijus
+- Atomsugár
+- Atoomradius
+- atoomstraal
+- Atómový polomer
+- bán kính nguyên tử
+- Erradio atomiko
+- ga adamhach
+- Jari-jari atom
+- Jejari atom
+- Promień atomowy
+- radi atòmic
+- Radio atomico
+- radio atómico
+- Radiu atómicu
+- Ragg atòmich
+- Raggio atomico
+- Rai atomic
+- raio atómico
+- raio atômico
+- rajo atòmego
+- Rayon atomique
+- Rază atomică
+- Ατομική ακτίνα
+- атамны радыюс
+- Атом радиусĕ
+- Атом радиусы
+- Атомдук радиус
+- Атомен радиус
+- Атомний радіус
+- атомски полупречник
+- Атомски радијус
+- Атомын радиус
+- радиус атома
+- Радыус атама
+- ատոմական շառավիղ
+- רדיוס אטומי
+- اتوم رادىيۋسى
+- جوہری رداس
+- شعاع اتمی
+- شعاع دري
+- نصف قطر ذري
+- نیوەتیرەی گەردیلە
+- परमाणु का आधा घेरा
+- পারমাণবিক ব্যাসার্ধ
+- পাৰমাণৱিক ব্যাসাৰ্দ্ধ
+- அணு ஆரம்
+- ആറ്റോമിക ആരം
+- පරමාණුක අරය
+- รัศมีอะตอม
+- အက်တမ်၏ အချင်းဝက်
+- ატომის რადიუსი
+- 原子半径
+- 原子半徑
+- 원자 반지름
 has_id_wikidata: Q483788
 subclass_of:
-  - '[[_Standards/WikiData/WD~radius,173817]]'
-  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
-  - '[[_Standards/WikiData/WD~approximation,27058]]'
+- '[[_Standards/WikiData/WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~approximation,27058]]'
 instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20size%20periodic%20table.svg
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">L</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}}</annotation>\n  </semantics>\n</math>"
+ISQ_dimension: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="sans-serif">L</mi>
+            </mrow>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}}</annotation>
+    </semantics>
+  </math>
+dv_has_:
+  name_:
+    af: Atoomradius
+    an: Radio atomico
+    ar: نصف قطر ذري
+    ary: شعاع دري
+    as: পাৰমাণৱিক ব্যাসাৰ্দ্ধ
+    ast: Radiu atómicu
+    be: Радыус атама
+    be-tarask: атамны радыюс
+    bg: Атомен радиус
+    bn: পারমাণবিক ব্যাসার্ধ
+    bs: Atomski radijus
+    ca: radi atòmic
+    ckb: نیوەتیرەی گەردیلە
+    cs: Atomový poloměr
+    cv: Атом радиусĕ
+    da: Atomradius
+    de: Atomradius
+    el: Ατομική ακτίνα
+    en: atomic radius
+    eo: atomradiuso
+    es: radio atómico
+    et: aatomiraadius
+    eu: Erradio atomiko
+    fa: شعاع اتمی
+    fi: atomisäde
+    fr: Rayon atomique
+    ga: ga adamhach
+    gl: Radio atómico
+    he: רדיוס אטומי
+    hi: परमाणु का आधा घेरा
+    hr: Atomski radijus
+    hu: Atomsugár
+    hy: ատոմական շառավիղ
+    id: Jari-jari atom
+    it: Raggio atomico
+    ja: 原子半径
+    ka: ატომის რადიუსი
+    kk: Атом радиусы
+    kk-arab: اتوم رادىيۋسى
+    kk-cyrl: Атом радиусы
+    kk-latn: Atom radïwsı
+    ko: 원자 반지름
+    ky: Атомдук радиус
+    lmo: Ragg atòmich
+    lt: Atomo spindulys
+    lv: atoma rādiuss
+    mk: атомски полупречник
+    ml: ആറ്റോമിക ആരം
+    mn: Атомын радиус
+    ms: Jejari atom
+    my: အက်တမ်၏ အချင်းဝက်
+    nb: atomradius
+    nds: Atomradius
+    nl: atoomstraal
+    nn: Atomradius
+    oc: Rai atomic
+    pl: Promień atomowy
+    pt: raio atómico
+    pt-br: raio atômico
+    ro: Rază atomică
+    ru: радиус атома
+    sh: Atomski radijus
+    si: පරමාණුක අරය
+    sk: Atómový polomer
+    sl: atomski polmer
+    smn: aatoomsuonjâr
+    sr: Атомски радијус
+    sr-ec: Атомски радијус
+    sr-el: Atomski radijus
+    sv: atomradie
+    ta: அணு ஆரம்
+    th: รัศมีอะตอม
+    tr: atom yarıçapı
+    uk: Атомний радіус
+    ur: جوہری رداس
+    uz: Atom radiusi
+    vec: rajo atòmego
+    vi: bán kính nguyên tử
+    wuu: 原子半径
+    yue: 原子半徑
+    zh: 原子半径
+    zh-hans: 原子半径
+    zh-hant: 原子半徑
+    zh-hk: 原子半徑
 ---
-
 # [[Atomic_Radius]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Atomic_radius,483788|WD~Atomic_radius,483788]] 

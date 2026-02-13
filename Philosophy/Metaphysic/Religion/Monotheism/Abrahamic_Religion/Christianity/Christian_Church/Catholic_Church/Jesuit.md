@@ -1,91 +1,194 @@
 ---
-has_time_started: 1540-01-01 
+has_time_started: 1540-01-01
 aliases:
-  - Society_of_Jesus
-  - Societas Iesu
-  - Jesuit Order
-  - Jesuits
-  - Society of Jesus
-  - Jesuit
+- Civata Îsewiyan
+- Cizvitler
+- Comann Iosaid
+- Compagnia de Jèsus
+- Compagnia di Gesù
+- Compagnie de Jésus
+- Companhia de Jesus
+- companhiá de Jèsus
+- Companyia de Jesús
+- Companyía de Chesús
+- Companìa ëd Gesù
+- Compañía de Jesús
+- Compañía de Xesús
+- Conpagnia de Jezù
+- Cumann Íosa
+- Cymdeithas yr Iesu
+- D Jesuite
+- Družba Jezusova
+- Dòng Tên
+- Gerempung Jesus
+- Gesuitas
+- Gesuiti
+- Hesu Irũ Aty
+- Heswita
+- Isusovci
+- Iyezuitlar
+- Ià-sŭ-huôi
+- Iâ-so͘-hoē
+- jesuihtat
+- jesuiidid
+- jesuiitat
+- jesuiitviljâdâhân
+- Jesuit
+- Jesuit Order
+- Jesuiten
+- Jesuiterordenen
+- Jesuitnordn
+- jesuitorden
+- Jesuits
+- Jesuitten
+- jesuittordenen
+- Jesusen Konpainia
+- Jesuïet
+- Jesúítareglan
+- jezuici
+- Jezuiti
+- Jezuitoj
+- Jezuitët
+- Jezuïet
+- jezuïeten
+- Jezuïten
+- Jezuīti
+- Jezwit
+- Jézus Társasága
+- Jėzuitai
+- Kapisanan ni Hesus
+- Kapunongan ni Jesús
+- Katiringban ni Hesus
+- Kompagnunezh Jezuz
+- Persatuan Jesus
+- Serikat Yesus
+- Shirika la Yesu
+- Societas Iesu
+- Societate de Jesus
+- Societatea lui Isus
+- Societo di Iesu
+- Society o Jesus
+- Society of Jesus
+- Society_of_Jesus
+- Spoločnosť Ježišova
+- Tovaryšstvo Ježíšovo
+- Yeesuu ɛgbaɣtɩnaa
+- Yesuit
+- Yezuitlər ordeni
+- Zezoita
+- Ôre des Djezwites
+- Εταιρεία του Ιησού
+- Језуити
+- Братьство Їисоуса
+- езуіты
+- Иезуитсем
+- иезуиттæ
+- Иезуиттер
+- иезуиты
+- Исусовци
+- Йезуитски орден
+- Товариство Ісуса
+- Товаришство Исусово
+- Ճիզվիտ
+- געזעלשאַפֿט פֿון ישו
+- ישועים
+- اليسوعية
+- عیساییەکان
+- يسوعيون
+- ژسوئیتاس
+- یسوعی
+- یسوعیها
+- জেসুইট
+- জেসুইটাস
+- இயேசு சபை
+- ಜೆಸ್ವಿಟರು
+- ഈശോസഭ
+- ජේසු නිකාය
+- คณะเยสุอิต
+- იეზუიტთა ორდენი
+- イエズス会
+- 耶稣会
+- 耶穌會
+- 예수회
 has_id_wikidata: Q36380
 owner_of:
-  - "[[_Standards/WikiData/WD~Castle_of_Xabier,112738]]"
-  - "[[_Standards/WikiData/WD~Zeitschrift_für_katholische_Theologie,186814]]"
-  - "[[_Standards/WikiData/WD~La_Civiltà_Cattolica,2066344]]"
-  - "[[_Standards/WikiData/WD~Orientierung,2791535]]"
-  - "[[_Standards/WikiData/WD~America,2842807]]"
-  - "[[_Standards/WikiData/WD~Christus,2966671]]"
-  - "[[_Standards/WikiData/WD~Nouvelle_Revue_théologique,3345180]]"
-  - "[[_Standards/WikiData/WD~Colegio_Mayor_Loyola,5776966]]"
-  - "[[_Standards/WikiData/WD~Colegio_Mayor_Universitario_Loyola_(Madrid),5776969]]"
-  - "[[_Standards/WikiData/WD~Engenho_de_Sergipe_do_Conde,10272957]]"
-  - "[[_Standards/WikiData/WD~Loyola_University_Andalucía,11222484]]"
-  - "[[_Standards/WikiData/WD~Casa_da_Torre,17390042]]"
-  - "[[_Standards/WikiData/WD~Boix_House,18358938]]"
-  - "[[_Standards/WikiData/WD~St._Ignatius_College,18474196]]"
-  - "[[_Standards/WikiData/WD~Camp_Ekon,22907011]]"
-  - "[[_Standards/WikiData/WD~Catholic_Standard,25183777]]"
-  - "[[_Standards/WikiData/WD~Radio_Marañón,48727844]]"
-  - "[[_Standards/WikiData/WD~Pontifical_Biblical_Institute,55955575]]"
+- '[[_Standards/WikiData/WD~Castle_of_Xabier,112738]]'
+- '[[_Standards/WikiData/WD~Zeitschrift_für_katholische_Theologie,186814]]'
+- '[[_Standards/WikiData/WD~La_Civiltà_Cattolica,2066344]]'
+- '[[_Standards/WikiData/WD~Orientierung,2791535]]'
+- '[[_Standards/WikiData/WD~America,2842807]]'
+- '[[_Standards/WikiData/WD~Christus,2966671]]'
+- '[[_Standards/WikiData/WD~Nouvelle_Revue_théologique,3345180]]'
+- '[[_Standards/WikiData/WD~Colegio_Mayor_Loyola,5776966]]'
+- '[[_Standards/WikiData/WD~Colegio_Mayor_Universitario_Loyola_(Madrid),5776969]]'
+- '[[_Standards/WikiData/WD~Engenho_de_Sergipe_do_Conde,10272957]]'
+- '[[_Standards/WikiData/WD~Loyola_University_Andalucía,11222484]]'
+- '[[_Standards/WikiData/WD~Casa_da_Torre,17390042]]'
+- '[[_Standards/WikiData/WD~Boix_House,18358938]]'
+- '[[_Standards/WikiData/WD~St._Ignatius_College,18474196]]'
+- '[[_Standards/WikiData/WD~Camp_Ekon,22907011]]'
+- '[[_Standards/WikiData/WD~Catholic_Standard,25183777]]'
+- '[[_Standards/WikiData/WD~Radio_Marañón,48727844]]'
+- '[[_Standards/WikiData/WD~Pontifical_Biblical_Institute,55955575]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Francis_Xavier,163900]]"
-  - "[[_Standards/WikiData/WD~Peter_Faber,454814]]"
-  - "[[_Standards/WikiData/WD~Holy_Companions,86039436]]"
-  - "[[_Standards/WikiData/WD~Ignatius_of_Loyola,44281]]"
+- '[[_Standards/WikiData/WD~Francis_Xavier,163900]]'
+- '[[_Standards/WikiData/WD~Peter_Faber,454814]]'
+- '[[_Standards/WikiData/WD~Holy_Companions,86039436]]'
+- '[[_Standards/WikiData/WD~Ignatius_of_Loyola,44281]]'
 chief_executive_officer:
-  - "[[_Standards/WikiData/WD~Adolfo_Nicolás,365131]]"
-  - "[[_Standards/WikiData/WD~Arturo_Sosa_Abascal,27258137]]"
-executive_body: "[[_Standards/WikiData/WD~General_Congregation_of_the_Society_of_Jesus,386750]]"
-legislative_body: "[[_Standards/WikiData/WD~General_Congregation_of_the_Society_of_Jesus,386750]]"
+- '[[_Standards/WikiData/WD~Adolfo_Nicolás,365131]]'
+- '[[_Standards/WikiData/WD~Arturo_Sosa_Abascal,27258137]]'
+executive_body: '[[_Standards/WikiData/WD~General_Congregation_of_the_Society_of_Jesus,386750]]'
+legislative_body: '[[_Standards/WikiData/WD~General_Congregation_of_the_Society_of_Jesus,386750]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Catholic_order,391009]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-parent_organization: "[[_Standards/WikiData/WD~Latin_Church,597526]]"
+- '[[_Standards/WikiData/WD~Catholic_order,391009]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
+parent_organization: '[[_Standards/WikiData/WD~Latin_Church,597526]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Church_of_the_Gesù,719794]]"
-  - "[[_Standards/WikiData/WD~Superior_General_of_the_Society_of_Jesus,1515704]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Superior_General_of_the_Society_of_Jesus,1515704]]"
+- '[[_Standards/WikiData/WD~Church_of_the_Gesù,719794]]'
+- '[[_Standards/WikiData/WD~Superior_General_of_the_Society_of_Jesus,1515704]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Superior_General_of_the_Society_of_Jesus,1515704]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Jesuit_Volunteer_Corps,1688322]]"
-  - "[[_Standards/WikiData/WD~Jesuit_Refugee_Service,3480458]]"
-members_have_occupation: "[[_Standards/WikiData/WD~regular_cleric,2138822]]"
-patron_saint: "[[_Standards/WikiData/WD~Our_Lady_of_the_Way,2527652]]"
-sponsor: "[[_Standards/WikiData/WD~Noël_Brûlart_de_Sillery,3345781]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Society_of_Jesus,5391857]]"
+- '[[_Standards/WikiData/WD~Jesuit_Volunteer_Corps,1688322]]'
+- '[[_Standards/WikiData/WD~Jesuit_Refugee_Service,3480458]]'
+members_have_occupation: '[[_Standards/WikiData/WD~regular_cleric,2138822]]'
+patron_saint: '[[_Standards/WikiData/WD~Our_Lady_of_the_Way,2527652]]'
+sponsor: '[[_Standards/WikiData/WD~Noël_Brûlart_de_Sillery,3345781]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Society_of_Jesus,5391857]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~sexual_abuse_scandal_in_the_Society_of_Jesus,7458753]]"
-  - "[[_Standards/WikiData/WD~expulsion_of_the_Jesuits,13548138]]"
-  - "[[_Standards/WikiData/WD~expulsion_of_Jesuits_from_Spain_(1835),119855386]]"
-  - "[[_Standards/WikiData/WD~expulsion_of_Jesuits_from_Spain_(1932),119855410]]"
-main_subject: "[[_Standards/WikiData/WD~lifestance_organisation,11986619]]"
-has_part_s_: "[[_Standards/WikiData/WD~Jesuit,12319698]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Society_of_Jesus,14336054]]"
-archives_at: "[[_Standards/WikiData/WD~Archiepiscopal_Archive_of_Mechelen,41775908]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Jesuit_province,109554780]]"
-named_after: "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+- '[[_Standards/WikiData/WD~sexual_abuse_scandal_in_the_Society_of_Jesus,7458753]]'
+- '[[_Standards/WikiData/WD~expulsion_of_the_Jesuits,13548138]]'
+- '[[_Standards/WikiData/WD~expulsion_of_Jesuits_from_Spain_(1835),119855386]]'
+- '[[_Standards/WikiData/WD~expulsion_of_Jesuits_from_Spain_(1932),119855410]]'
+main_subject: '[[_Standards/WikiData/WD~lifestance_organisation,11986619]]'
+has_part_s_: '[[_Standards/WikiData/WD~Jesuit,12319698]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Society_of_Jesus,14336054]]'
+archives_at: '[[_Standards/WikiData/WD~Archiepiscopal_Archive_of_Mechelen,41775908]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Jesuit_province,109554780]]'
+named_after: '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 member_count: 26799
 BHCL_UUID:
-  - d46c7833-5003-47fe-ba08-0b823d24a4c9
-  - 6a7b1e6b-a7d0-4128-9d28-51c2f27ebf5a
+- d46c7833-5003-47fe-ba08-0b823d24a4c9
+- 6a7b1e6b-a7d0-4128-9d28-51c2f27ebf5a
 nickname:
-  - jesuitak
-  - Gesuiti
-  - Jesuitas
-  - Jesuítas
-  - josulagunak
+- jesuitak
+- Gesuiti
+- Jesuitas
+- Jesuítas
+- josulagunak
 OmegaWiki_Defined_Meaning: 722838
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ihs-logo.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ihs-logo.svg
@@ -103,8 +206,122 @@ Commons_category: Society of Jesus
 motto_text: Ad maiorem Dei gloriam
 short_name: S.J.
 OpenStreetMap_tag: community=SJ
+dv_has_:
+  name_:
+    af: Jesuïet
+    an: Companyía de Chesús
+    ar: يسوعيون
+    arz: اليسوعية
+    ast: Compañía de Xesús
+    az: Yezuitlər ordeni
+    bar: Jesuitnordn
+    bcl: Heswita
+    be: езуіты
+    be-tarask: езуіты
+    bg: Йезуитски орден
+    bn: জেসুইট
+    bpy: জেসুইটাস
+    br: Kompagnunezh Jezuz
+    bs: Isusovci
+    ca: Companyia de Jesús
+    cdo: Ià-sŭ-huôi
+    ceb: Kapunongan ni Jesús
+    ckb: عیساییەکان
+    cs: Tovaryšstvo Ježíšovo
+    cu: Братьство Їисоуса
+    cv: Иезуитсем
+    cy: Cymdeithas yr Iesu
+    da: Jesuiterordenen
+    de: Jesuiten
+    el: Εταιρεία του Ιησού
+    en: Society of Jesus
+    eo: Jezuitoj
+    es: Compañía de Jesús
+    et: jesuiidid
+    eu: Jesusen Konpainia
+    fa: یسوعیها
+    fi: jesuiitat
+    fr: Compagnie de Jésus
+    frp: Compagnia de Jèsus
+    fy: Jezuïten
+    ga: Cumann Íosa
+    gd: Comann Iosaid
+    gl: Compañía de Xesús
+    gn: Hesu Irũ Aty
+    gsw: D Jesuite
+    he: ישועים
+    hr: Isusovci
+    ht: Jezwit
+    hu: Jézus Társasága
+    hy: Ճիզվիտ
+    ia: Societate de Jesus
+    iba: Gerempung Jesus
+    id: Serikat Yesus
+    io: Societo di Iesu
+    is: Jesúítareglan
+    it: Compagnia di Gesù
+    ja: イエズス会
+    jv: Yesuit
+    ka: იეზუიტთა ორდენი
+    kbp: Yeesuu ɛgbaɣtɩnaa
+    kk: Иезуиттер
+    kn: ಜೆಸ್ವಿಟರು
+    ko: 예수회
+    ku: Civata Îsewiyan
+    la: Societas Iesu
+    lb: Jesuitten
+    li: Jezuïet
+    lt: Jėzuitai
+    ltg: Jezuiti
+    lv: Jezuīti
+    mg: Zezoita
+    mk: Исусовци
+    ml: ഈശോസഭ
+    ms: Persatuan Jesus
+    mzn: ژسوئیتاس
+    nan: Iâ-so͘-hoē
+    nb: jesuittordenen
+    nl: jezuïeten
+    nn: Jesuittordenen
+    oc: companhiá de Jèsus
+    os: иезуиттæ
+    pl: jezuici
+    pms: Companìa ëd Gesù
+    pt: Companhia de Jesus
+    pt-br: Companhia de Jesus
+    ro: Societatea lui Isus
+    ru: иезуиты
+    rue: Товаришство Исусово
+    sc: Gesuitas
+    scn: Gesuiti
+    sco: Society o Jesus
+    se: jesuihtat
+    sh: Isusovci
+    si: ජේසු නිකාය
+    sk: Spoločnosť Ježišova
+    sl: Družba Jezusova
+    smn: jesuiitviljâdâhân
+    sq: Jezuitët
+    sr: Језуити
+    sv: jesuitorden
+    sw: Shirika la Yesu
+    ta: இயேசு சபை
+    th: คณะเยสุอิต
+    tl: Kapisanan ni Hesus
+    tr: Cizvitler
+    uk: Товариство Ісуса
+    ur: یسوعی
+    uz: Iyezuitlar
+    vec: Conpagnia de Jezù
+    vi: Dòng Tên
+    wa: Ôre des Djezwites
+    war: Katiringban ni Hesus
+    wuu: 耶稣会
+    yi: געזעלשאַפֿט פֿון ישו
+    yue: 耶穌會
+    zh: 耶稣会
+    zh-hant: 耶穌會
 ---
-
 # [[Jesuit]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Society_of_Jesus,36380]] 

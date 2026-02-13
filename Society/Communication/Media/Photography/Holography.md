@@ -1,21 +1,159 @@
 ---
 aliases:
+- Golografiya
+- holagrafaíocht
+- holograafia
+- holografi
+- holografia
+- Holografie
+- Holografii
+- holografiija
+- holografija
+- holografije
+- holografio
+- holografía
+- Holographia
+- holographie
+- holography
+- Holograpiya
+- holográfia
+- hologrāfija
+- holoqrafiya
+- olografia
+- Ukumomonyaliza
+- ολογραφία
+- галаграфія
+- галяграфія
+- Голограф
+- голографія
+- голография
+- Голоографиялық акпараттық жүйе
+- Тамомнигорӣ
+- Холографија
+- холография
+- հոլոգրաֆիա
+- הולוגרפיה
+- تصوير تجسيمي
+- تمامنگاری
+- هولو گرام ٽيڪنالوجي
+- ہولوگرافی
+- होलोग्राफ़ी
+- ਹੋਲੋਗ੍ਰਾਮ
+- முப்பரிமாண ஒளிப்படவியல்
+- హోలోగ్రాఫి
+- ಪ್ರಕಾಶ ವಿಜ್ಞಾನ
+- ഹോളോഗ്രഫി
+- ฮอโลกราฟี
+- Ảnh toàn ký
+- ホログラフィー
+- 全像攝影
+- 全息影相
+- 全息摄影
+- 全息攝影
+- 홀로그라피
+- 홀로그래피
 has_id_wikidata: Q527628
 instance_of:
-  - "[[_Standards/WikiData/WD~photographic_technique,1439691]]"
-  - "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~hologram,3139490]]"
-practiced_by: "[[_Standards/WikiData/WD~holographer,108897110]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~photography,11633]]"
-OmegaWiki_Defined_Meaning: "963620"
+- '[[_Standards/WikiData/WD~photographic_technique,1439691]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~hologram,3139490]]'
+practiced_by: '[[_Standards/WikiData/WD~holographer,108897110]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+subclass_of: '[[_Standards/WikiData/WD~photography,11633]]'
+OmegaWiki_Defined_Meaning: 963620
 time_of_discovery_or_invention: 1947-01-01T00:00:00Z
 UMLS_CUI: C0019848
 MeSH_tree_code:
-  - E01.370.350.400.500
-  - E01.370.350.600.300
+- E01.370.350.400.500
+- E01.370.350.600.300
 Commons_category: Holography
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/GOLOGRAFIYA.html
+dv_has_:
+  name_:
+    af: Holografie
+    ar: تصوير تجسيمي
+    ast: holografía
+    az: holoqrafiya
+    be: галаграфія
+    be-tarask: галяграфія
+    bg: холография
+    bs: holografija
+    ca: holografia
+    cs: holografie
+    da: holografi
+    de: Holografie
+    el: ολογραφία
+    en: holography
+    en-ca: holography
+    en-gb: holography
+    eo: holografio
+    es: holografía
+    et: holograafia
+    eu: holografia
+    fa: تمامنگاری
+    fi: holografia
+    fr: holographie
+    ga: holagrafaíocht
+    gl: holografía
+    gsw: Holografii
+    he: הולוגרפיה
+    hi: होलोग्राफ़ी
+    hr: holografija
+    hu: holográfia
+    hy: հոլոգրաֆիա
+    id: Holografi
+    it: olografia
+    ja: ホログラフィー
+    jv: Holografi
+    kk: Голоографиялық акпараттық жүйе
+    kn: ಪ್ರಕಾಶ ವಿಜ್ಞಾನ
+    ko: 홀로그래피
+    ko-kp: 홀로그라피
+    ky: Голография
+    la: Holographia
+    lt: Holografija
+    lv: hologrāfija
+    mk: Холографија
+    ml: ഹോളോഗ്രഫി
+    mn: Голограф
+    ms: holografi
+    nb: holografi
+    nl: holografie
+    nn: holografi
+    pa: ਹੋਲੋਗ੍ਰਾਮ
+    pl: holografia
+    pnb: ہولوگرافی
+    pt: holografia
+    pt-br: Holografia
+    ro: Holografie
+    ru: голография
+    sd: هولو گرام ٽيڪنالوجي
+    se: holografiija
+    sh: Holografija
+    sk: Holografia
+    sl: holografija
+    sma: holografije
+    smj: holografija
+    smn: holografia
+    sms: holografia
+    sq: Holografia
+    sr: холографија
+    sr-ec: холографија
+    sv: holografi
+    ta: முப்பரிமாண ஒளிப்படவியல்
+    te: హోలోగ్రాఫి
+    tg: Тамомнигорӣ
+    th: ฮอโลกราฟี
+    tr: Holografi
+    uk: голографія
+    uz: Golografiya
+    vi: Ảnh toàn ký
+    war: Holograpiya
+    wuu: 全息摄影
+    yue: 全息影相
+    zh: 全息攝影
+    zh-tw: 全像攝影
+    zu: Ukumomonyaliza
 ---
 # [[Holography]] 
 

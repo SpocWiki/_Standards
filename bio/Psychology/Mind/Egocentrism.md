@@ -1,19 +1,125 @@
 ---
 aliases:
-  - Egozentrik
-  - Egozentrisch
-  - egocentric
-  - Egocentrism
+- egocentric
+- Egocentrism
+- egocentrisme
+- egocentrismo
+- egocentrisms
+- Egocentrismu
+- Egocentrismus
+- Egocentrizam
+- egocentrizem
+- egocentrizmus
+- Egocentryzm
+- egosantrizm
+- Egosentrisme
+- Egosentrismi
+- Egotsentrizm
+- Egozentrik
+- Egozentrisch
+- Egozentrismo
+- Eqosentrizm
+- féinlárnachas
+- memcentrismo
+- Minakesksus
+- égocentrisme
+- Égocentrïzm
+- Εγωκεντρισμός
+- Егоцентризам
+- Егоцентризм
+- Егоцентризъм
+- Эгацэнтрызм
+- эгоцентризм
+- Էգոցենտրիզմ
+- אגוצנטריות
+- خودمحوری
+- مركزية الذات
+- ځانمحوري
+- ەگوتسەنترىيزم
+- आत्मकेंन्द्रीकरण
+- தன் மையச் சிந்தனைப் போக்கு
+- 自己中心性
+- 自我中心
+- 自我中心主义
+- 自我中心主義
+- 자아중심주의
 has_id_wikidata: Q463910
 different_from:
-  - '[[_Standards/WikiData/WD~narcissism,186529]]'
-  - '[[_Standards/WikiData/WD~egoism,238350]]'
+- '[[_Standards/WikiData/WD~narcissism,186529]]'
+- '[[_Standards/WikiData/WD~egoism,238350]]'
 subclass_of: '[[_Standards/WikiData/WD~personality_trait,2393196]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+dv_has_:
+  name_:
+    af: Egosentrisme
+    alt: Эгоцентризм
+    ar: مركزية الذات
+    ast: Egocentrismu
+    az: Eqosentrizm
+    be: Эгацэнтрызм
+    be-tarask: эгацэнтрызм
+    bg: Егоцентризъм
+    ca: egocentrisme
+    cs: Egocentrismus
+    de: Egozentrik
+    el: Εγωκεντρισμός
+    en: egocentrism
+    eo: memcentrismo
+    es: egocentrismo
+    et: Minakesksus
+    eu: Egozentrismo
+    fa: خودمحوری
+    fi: Egosentrismi
+    fr: égocentrisme
+    ga: féinlárnachas
+    gl: Egocentrismo
+    he: אגוצנטריות
+    hi: आत्मकेंन्द्रीकरण
+    hr: Egocentrizam
+    hu: egocentrizmus
+    hy: Էգոցենտրիզմ
+    id: Egosentrisme
+    it: egocentrismo
+    ja: 自己中心性
+    kk: Эгоцентризм
+    kk-arab: ەگوتسەنترىيزم
+    kk-cn: ەگوتسەنترىيزم
+    kk-cyrl: Эгоцентризм
+    kk-kz: Эгоцентризм
+    kk-latn: Égocentrïzm
+    kk-tr: Égocentrïzm
+    ko: 자아중심주의
+    lv: egocentrisms
+    mk: Егоцентризам
+    nb: egosentrisme
+    nl: egocentrisme
+    oc: Egocentrisme
+    pl: Egocentryzm
+    ps: ځانمحوري
+    pt: egocentrismo
+    ro: Egocentrism
+    ru: эгоцентризм
+    sk: Egocentrizmus
+    sl: egocentrizem
+    sr: Егоцентризам
+    sr-ec: Егоцентризам
+    sr-el: Egocentrizam
+    sv: Egocentrism
+    ta: தன் மையச் சிந்தனைப் போக்கு
+    tr: egosantrizm
+    uk: Егоцентризм
+    uz: Egotsentrizm
+    yue: 自我中心
+    zh: 自我中心主義
+    zh-cn: 自我中心主义
+    zh-hans: 自我中心主义
+    zh-hant: 自我中心主義
+    zh-hk: 自我中心主義
+    zh-sg: 自我中心主义
+    zh-tw: 自我中心主義
 ---
-
 # [[Egocentrism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Egocentrism,463910|WD~Egocentrism,463910]] 

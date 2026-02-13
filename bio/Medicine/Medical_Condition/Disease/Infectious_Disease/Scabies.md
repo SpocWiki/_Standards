@@ -1,39 +1,119 @@
 ---
 aliases:
-  - Krätze
-  - Scabies
+- Acuööth jäŋ
+- Böni
+- Bệnh ghẻ
+- cosi gwyllt
+- Doldol
+- Fnat
+- gale
+- Galis
+- garje
+- Gurr
+- Hatina
+- Hazteri
+- Isnidaamis
+- jeuksiekte
+- kašķis
+- Krätz
+- Krätze
+- kudis
+- Manqa
+- Mata unquy
+- Niežai
+- Nyan
+- Qarachi
+- Qotur
+- Qotır
+- Rogne
+- rühesség
+- Sarkoptoos
+- sarna
+- Saŋkpani
+- scabbia
+- Scabie
+- Scabies
+- scaibéis
+- schurft
+- skabb
+- Skabio
+- svrab
+- syyhy
+- Ukhwekhwe lwexhwili
+- uyuz
+- za̱wai
+- Zgjebja
+- świerzb
+- Šuga
+- Ƙanzuwa
+- ψώρα
+- кароста
+- короста
+- Корчаңгы
+- Котур
+- Краста
+- Чесотка
+- Шуга
+- Қотыр
+- Ҡорсаңғы
+- Քոս
+- Քոսութիւն
+- גרדת
+- ایسکیبیس
+- جرب
+- خارش
+- قوتىر
+- ކަސްއެޅުން
+- खरूज
+- खाज
+- लुतो
+- খৰ
+- স্ক্যাবিস
+- କାଛୁ
+- சொறி
+- గజ్జి
+- ಕಜ್ಜಿ
+- സ്കാബീസ്
+- หิด
+- ဝဲ
+- მუნი
+- ხვარცა
+- 疥疮
+- 疥瘡
+- 疥癬
+- 옴
 has_id_wikidata: Q167178
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~itch,199602]]'
-  - '[[_Standards/WikiData/WD~rash,653197]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~itch,199602]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~lindane,282003]]'
-  - '[[_Standards/WikiData/WD~permethrin,411635]]'
-  - '[[_Standards/WikiData/WD~ivermectin,415178]]'
-  - '[[_Standards/WikiData/WD~piperonyl_butoxide,420891]]'
-  - '[[_Standards/WikiData/WD~(E)_crotamiton,2439845]]'
+- '[[_Standards/WikiData/WD~lindane,282003]]'
+- '[[_Standards/WikiData/WD~permethrin,411635]]'
+- '[[_Standards/WikiData/WD~ivermectin,415178]]'
+- '[[_Standards/WikiData/WD~piperonyl_butoxide,420891]]'
+- '[[_Standards/WikiData/WD~(E)_crotamiton,2439845]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~acariasis,337998]]'
-  - '[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]'
-  - '[[_Standards/WikiData/WD~skin_infection,2458539]]'
-  - '[[_Standards/WikiData/WD~acarodermatitis,4059324]]'
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~acariasis,337998]]'
+- '[[_Standards/WikiData/WD~neglected_tropical_disease,929451]]'
+- '[[_Standards/WikiData/WD~skin_infection,2458539]]'
+- '[[_Standards/WikiData/WD~acarodermatitis,4059324]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 has_cause: '[[_Standards/WikiData/WD~Sarcoptes_scabiei,500869]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 different_from: '[[_Standards/WikiData/WD~Gurr,5620258]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 afflicts: '[[_Standards/WikiData/WD~human,5]]'
 DiseasesDB: 11841
 ICD_10_CM: B86
@@ -43,20 +123,130 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3381
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcoptes%20scabei%202.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Scabies%20LifeCycle.gif
 exact_match:
-  - http://identifiers.org/doid/DOID:8295
-  - http://purl.obolibrary.org/obo/DOID_8295
+- http://identifiers.org/doid/DOID:8295
+- http://purl.obolibrary.org/obo/DOID_8295
 UMLS_CUI:
-  - C0024710
-  - C0036262
+- C0024710
+- C0036262
 MeSH_tree_code:
-  - C01.610.858.211.480.708
-  - C17.800.838.775.800
+- C01.610.858.211.480.708
+- C17.800.838.775.800
 Krugosvet_article_archived_: medicina/CHESOTKA.html
 Commons_gallery: Scabies
 Commons_category: Scabies
 native_label: Manqa
+dv_has_:
+  name_:
+    af: jeuksiekte
+    ar: جرب
+    arz: جرب
+    as: খৰ
+    ast: Sarna
+    ay: Qarachi
+    az: Qotur
+    azb: ایسکیبیس
+    ba: Ҡорсаңғы
+    bcl: Doldol
+    be: кароста
+    be-tarask: кароста
+    bg: Краста
+    bn: স্ক্যাবিস
+    ca: sarna
+    cs: svrab
+    cy: cosi gwyllt
+    da: Fnat
+    dag: Saŋkpani
+    de: Krätze
+    din: Acuööth jäŋ
+    dv: ކަސްއެޅުން
+    el: ψώρα
+    en: scabies
+    eo: Skabio
+    es: sarna
+    et: Sarkoptoos
+    eu: Hazteri
+    fa: جرب
+    fi: syyhy
+    fr: gale
+    ga: scaibéis
+    gl: Sarna
+    gpe: scabies
+    ha: Ƙanzuwa
+    he: גרדת
+    hi: खाज
+    hr: svrab
+    hu: rühesség
+    hy: Քոս
+    hyw: Քոսութիւն
+    id: kudis
+    io: Skabio
+    it: scabbia
+    ja: 疥癬
+    jv: Kudis
+    ka: მუნი
+    kcg: za̱wai
+    kk: Қотыр
+    kk-arab: قوتىر
+    kk-cn: قوتىر
+    kk-cyrl: Қотыр
+    kk-kz: Қотыр
+    kk-latn: Qotır
+    kk-tr: Qotır
+    kn: ಕಜ್ಜಿ
+    ko: 옴
+    ku: Gurr
+    ky: Котур
+    lb: Krätz
+    lt: Niežai
+    lv: kašķis
+    mg: Hatina
+    mk: Шуга
+    ml: സ്കാബീസ്
+    mr: खरूज
+    ms: Kudis
+    my: ဝဲ
+    nb: skabb
+    ne: लुतो
+    nia: Böni
+    nl: schurft
+    nn: skabb
+    or: କାଛୁ
+    pl: świerzb
+    pt: sarna
+    qu: Mata unquy
+    ro: Scabie
+    ru: Чесотка
+    sh: Šuga
+    sk: Svrab
+    sl: garje
+    so: Isnidaamis
+    sq: Zgjebja
+    sr: Šuga
+    sv: skabb
+    ta: சொறி
+    te: గజ్జి
+    th: หิด
+    tl: Galis
+    tr: uyuz
+    tt: Корчаңгы
+    uk: короста
+    ur: خارش
+    uz: Manqa
+    vi: Bệnh ghẻ
+    wa: Rogne
+    wuu: 疥疮
+    xh: Ukhwekhwe lwexhwili
+    xmf: ხვარცა
+    yue: 疥瘡
+    za: Nyan
+    zh: 疥疮
+    zh-cn: 疥疮
+    zh-hans: 疥疮
+    zh-hant: 疥瘡
+    zh-hk: 疥瘡
+    zh-sg: 疥疮
+    zh-tw: 疥瘡
 ---
-
 # [[Scabies]] 
 
 #is_/same_as :: [[WD~Scabies,167178]] 

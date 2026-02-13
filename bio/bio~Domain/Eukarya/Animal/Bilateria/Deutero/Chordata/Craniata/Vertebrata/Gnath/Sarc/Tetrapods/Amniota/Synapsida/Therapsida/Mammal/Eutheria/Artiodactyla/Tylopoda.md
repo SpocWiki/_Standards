@@ -1,8 +1,106 @@
 ---
 aliases:
-  - Tylopoda
+- Biezpēdaiņi
+- Bikétłʼááh Hoolzhólígíí
+- kameldyr
+- mozolnatci
+- Mõhnjalalised
+- Phân bộ Lạc đà
+- tevealakúak
+- tilòpodes
+- Tilópodos
+- Tylopoda
+- Tylopodes
+- Ylpoatigen
+- Берчтамандар
+- Вӱдотызан йол-влак
+- Көнтабандылар жасағы
+- мазолестоноги
+- мазоляногія
+- мозлоноги
+- Мозоленогие
+- Կոշտուկոտանիներ
+- בעלי כרית
+- ساديات الأقدام
+- ساديات الاقدام
+- پینهپایان
+- தைலோபோடா
+- ടൈലോപോഡ
+- კორძფეხიანები
+- 核脚亜目
+- 胼足亚目
+- 胼足亞目
+- 낙타아목
 title: Tylopoda
 has_id_wikidata: Q1077169
+dv_has_:
+  name_:
+    an: Tylopoda
+    ar: ساديات الأقدام
+    arz: ساديات الاقدام
+    ast: Tylopoda
+    ban: Tylopoda
+    be: мазоляногія
+    bg: мазолестоноги
+    ca: tilòpodes
+    ceb: Tylopoda
+    cs: mozolnatci
+    da: Tylopoda
+    de: Tylopoda
+    en: Tylopoda
+    eo: Tylopoda
+    es: Tylopoda
+    et: Mõhnjalalised
+    eu: Tylopoda
+    ext: Tylopoda
+    fa: پینهپایان
+    fi: Tylopoda
+    fr: Tylopoda
+    fy: Ylpoatigen
+    ga: Tylopoda
+    gl: Tilópodos
+    he: בעלי כרית
+    hu: tevealakúak
+    hy: Կոշտուկոտանիներ
+    ia: Tylopoda
+    ie: Tylopoda
+    io: Tylopoda
+    it: Tylopoda
+    ja: 核脚亜目
+    ka: კორძფეხიანები
+    kk: Көнтабандылар жасағы
+    ko: 낙타아목
+    ky: Берчтамандар
+    la: Tylopoda
+    lv: Biezpēdaiņi
+    mhr: Вӱдотызан йол-влак
+    mk: мозлоноги
+    ml: ടൈലോപോഡ
+    mul: Tylopoda
+    nb: Tylopoda
+    nl: Tylopoda
+    nn: kameldyr
+    nv: Bikétłʼááh Hoolzhólígíí
+    oc: Tylopodes
+    pl: Tylopoda
+    pt: Tylopoda
+    pt-br: Tylopoda
+    ro: Tylopoda
+    ru: Мозоленогие
+    sq: Tylopoda
+    sv: Tylopoda
+    ta: தைலோபோடா
+    tr: Tylopoda
+    uk: Tylopoda
+    vi: Phân bộ Lạc đà
+    vo: Tylopoda
+    war: Tylopoda
+    zh: 胼足亚目
+    zh-cn: 胼足亚目
+    zh-hans: 胼足亚目
+    zh-hant: 胼足亞目
+    zh-hk: 胼足亞目
+    zh-tw: 胼足亞目
 ---
 # [[Tylopoda]] 
 

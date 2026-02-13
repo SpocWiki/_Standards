@@ -1,9 +1,188 @@
 ---
 aliases:
-  - יַהֲדוּת‎
-  - Yahăḏūṯ
-  - Jewish
-  - Judaism
+- Agama Yahudi
+- Agamo Yahudi
+- Aghâma Yâhuḍi
+- an Giúdachas
+- Boyúda
+- Chudaísmo
+- cihûtî
+- Cıhudiye
+- Djudaismo
+- Djudayisse
+- Do Thái giáo
+- Ebraisim
+- ebraismo
+- Ebraismu
+- Ebraismò
+- Ebraiximo
+- Ghjudaisimu
+- Giudaism
+- Giudaissem
+- gyðingdómur
+- Ho'omana Iudaio
+- Hudaismo
+- Hudaismu
+- Hudyu iñiy
+- Hudío jerovia
+- Hūraitanga
+- Iddewiaeth
+- Iudaism
+- iudaizm
+- iudisme
+- Iù-tái-gáu
+- Iùdhachd
+- Iû-thài-kàu
+- Jahudi
+- Jewish
+- Jidayis
+- Joadendom
+- Jodaisma
+- Jodaėzmos
+- Jodendom
+- Joededom
+- Jood'ndom
+- Joudayism
+- Judaayizimii
+- Judaisim
+- Judaism
+- judaisme
+- Judaismo
+- Judaismu
+- judaismus
+- judaizam
+- judaizm
+- judaizmas
+- Judaizmus
+- Judaizëm
+- Judajizm
+- Judaísmo
+- Judaísmu
+- Judaïme
+- Judaïsme
+- Juddentum
+- Judea
+- Judedum
+- Judeisme
+- judendom
+- Judentum
+- Judndum
+- judovstvo
+- Judâismo
+- Juudendoom
+- Juudendum
+- Juudizim
+- juudlažvuõtt
+- juutalaisuus
+- Juutit
+- juuvdálâšvuotâ
+- juvddálašvuohta
+- juvdeladtjevoete
+- juvdávuohta
+- jöädendom
+- Jødadómur
+- jødedom
+- Jüddedom
+- jūdaisms
+- Khwiyahuda
+- Kiyahudi (Judaism)
+- nasin sewi Jejuta
+- Pengarap Judah
+- Religio Iudaica
+- Sejuda
+- Tudayt
+- UbuJuda
+- Ujudha
+- Uyahudi
+- Vuyuda
+- xudaísmo
+- xudaísmu
+- Yahudanci
+- Yahudi
+- Yahudi (agama)
+- Yahudilik
+- Yahudism
+- Yahudiylik
+- Yahăḏūṯ
+- Yedhoweth
+- Yeudilik
+- yn Ewaghys
+- Youzdaigyau
+- Yudaisme
+- Yuddedum
+- Yuhuuda
+- Yuudaayism
+- yuzevegezh
+- Yù-thai-kau
+- zsidó vallás
+- Ġudajiżmu
+- İudaizm
+- židowstwo
+- Ιουδαϊσμός
+- іўдаізм
+- јудаизам
+- Джурт
+- Жугтий ди
+- ЖугьутІ дин
+- жугьутӏнал дин
+- Иудаизм
+- Иудаизмась
+- Иудейлик
+- Иудейсем
+- Йәһүҙилек
+- юдаізм
+- юдаїзм
+- юдаизъм
+- яҳудият
+- Яһудилық
+- яһүд дине
+- հուդայականություն
+- Յուդայականութիւն
+- יַהֲדוּת‎
+- יהדות
+- יידישקייט
+- اليهودية
+- جوویەتی
+- جیدیت
+- يهودية
+- يهوديت
+- يهوديه
+- يەھۇدى دىنى
+- یهودی دین
+- یهودیت
+- یهودیلیک
+- یہودیت
+- یہوٗدیت
+- ܝܗܘܕܝܘܬܐ
+- ޔަހޫދީދީން
+- ज्यू धर्म
+- यहुद धर्म
+- यहुदी धर्म
+- यहूदी धम्म
+- यहूदी धर्म
+- ইহুদি ধর্ম
+- ইহুদি ধৰ্ম
+- ਯਹੂਦੀ ਧਰਮ
+- યહૂદી ધર્મ
+- யூதம்
+- జుడాయిజం
+- ಯಹೂದಿ ಧರ್ಮ
+- യഹൂദമതം
+- ජුදා ආගම
+- ศาสนายูดาห์
+- ສາສະໜາຊູດາ
+- ཡིའུ་ཐའེ་ཆོས་ལུགས།
+- ဂျူးဘာသာ
+- စျူးဘာႏသာႏ
+- ၸၢဝ်းၸိဝ်း
+- იუდაიზმი
+- አይሁድና
+- ⵜⵓⴷⴰⵢⵜ
+- ユダヤ教
+- 犹太教
+- 猶太教
+- ꯖꯨꯗꯥꯏꯁꯝ
+- 유대교
 has_id_wikidata: Q9268
 UMLS_CUI: C0022388
 GitHub_topic: judaism
@@ -14,51 +193,51 @@ IPTC_NewsCode: mediatopic/20000679
 vocalized_name: יַהֲדוּת
 OpenStreetMap_tag: religion=jewish
 practiced_by:
-  - "[[_Standards/WikiData/WD~rabbi,133485]]"
-  - "[[_Standards/WikiData/WD~Dayan,3570351]]"
-  - "[[_Standards/WikiData/WD~Jewish_leadership,6190064]]"
+- '[[_Standards/WikiData/WD~rabbi,133485]]'
+- '[[_Standards/WikiData/WD~Dayan,3570351]]'
+- '[[_Standards/WikiData/WD~Jewish_leadership,6190064]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Samaritan,182651]]"
-  - "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Jewish_culture,548478]]"
+- '[[_Standards/WikiData/WD~Samaritan,182651]]'
+- '[[_Standards/WikiData/WD~Jewish_people,7325]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Jewish_culture,548478]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia.com,48968006]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 foundational_text:
-  - "[[_Standards/WikiData/WD~Hebrew_Bible,732870]]"
-  - "[[_Standards/WikiData/WD~Torah,34990]]"
-  - "[[_Standards/WikiData/WD~Talmud,43290]]"
-history_of_topic: "[[_Standards/WikiData/WD~Jewish_history,961603]]"
+- '[[_Standards/WikiData/WD~Hebrew_Bible,732870]]'
+- '[[_Standards/WikiData/WD~Torah,34990]]'
+- '[[_Standards/WikiData/WD~Talmud,43290]]'
+history_of_topic: '[[_Standards/WikiData/WD~Jewish_history,961603]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_religion,1189816]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-represented_by: "[[_Standards/WikiData/WD~Jewish_religious_community,1674714]]"
-has_list: "[[_Standards/WikiData/WD~list_of_Jewish_communities_by_country,6575336]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Judaism,7112316]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Giudaismo,7452625]]"
+- '[[_Standards/WikiData/WD~ethnic_religion,1189816]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
+represented_by: '[[_Standards/WikiData/WD~Jewish_religious_community,1674714]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Jewish_communities_by_country,6575336]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Judaism,7112316]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Giudaismo,7452625]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Judaism,7959316]]"
-  - "[[_Standards/WikiData/WD~Template_Jews_and_Judaism_sidebar,10585494]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Judaism,9083667]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Jewish_religion,16867629]]"
+- '[[_Standards/WikiData/WD~Template_Judaism,7959316]]'
+- '[[_Standards/WikiData/WD~Template_Jews_and_Judaism_sidebar,10585494]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Judaism,9083667]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+locations: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Jewish_religion,16867629]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~sociology_of_Jewry,17020144]]"
-  - "[[_Standards/WikiData/WD~Jewish_studies,42002]]"
+- '[[_Standards/WikiData/WD~sociology_of_Jewry,17020144]]'
+- '[[_Standards/WikiData/WD~Jewish_studies,42002]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"
-  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
-has_part_s_: "[[_Standards/WikiData/WD~Jewish_movement,130293309]]"
-has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
-founded_by: "[[_Standards/WikiData/WD~Abraham,9181]]"
-location_of_formation: "[[_Standards/WikiData/WD~Mesopotamia,11767]]"
-named_after: "[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]"
+- '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+- '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+has_part_s_: '[[_Standards/WikiData/WD~Jewish_movement,130293309]]'
+has_characteristic: '[[_Standards/WikiData/WD~monotheism,9159]]'
+founded_by: '[[_Standards/WikiData/WD~Abraham,9181]]'
+location_of_formation: '[[_Standards/WikiData/WD~Mesopotamia,11767]]'
+named_after: '[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]'
 Universal_Decimal_Classification: 26
 Dewey_Decimal_Classification: 296
 IAB_code: 462
@@ -67,8 +246,8 @@ social_media_followers: 84923
 U_S_National_Archives_Identifier: 10639246
 Basisklassifikation: 11.2
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%99%D7%94%D7%93%D7%95%D7%AA.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-YaronSh-%D7%99%D7%94%D7%93%D7%95%D7%AA.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE.wav
 native_label: יהדות
 Colon_Classification: Q5
 Commons_category: Judaism
@@ -79,14 +258,269 @@ Unicode_character: ✡
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Menorah%200307.jpg
 IMDb_keyword: jewish
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Channel%202%20-%20Jewish%20Holidays.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Channel%202%20-%20Jewish%20prayer.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Channel%202%20-%20Jewish%20Holidays.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Channel%202%20-%20Jewish%20prayer.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Jodendom-article.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Judaism%20Torah%20ark%20in%20the%20Western%20Wall%20Synagogue.jpg
 Stack_Exchange_tag: https://hermeneutics.stackexchange.com/tags/judaism
 Stack_Exchange_site_URL: https://judaism.stackexchange.com
+dv_has_:
+  name_:
+    ace: Yahudi
+    ady: Джурт
+    af: Judaïsme
+    am: አይሁድና
+    an: Chudaísmo
+    anp: यहूदी धर्म
+    ar: اليهودية
+    arc: ܝܗܘܕܝܘܬܐ
+    ary: يهودية
+    arz: يهوديه
+    as: ইহুদি ধৰ্ম
+    ast: xudaísmu
+    av: ЖугьутІ дин
+    az: İudaizm
+    azb: یهودیلیک
+    ba: Йәһүҙилек
+    ban: Agama Yahudi
+    bar: Judndum
+    bcl: Hudaismo
+    be: іўдаізм
+    be-tarask: юдаізм
+    bew: Yahudi (agama)
+    bg: юдаизъм
+    bho: यहूदी धर्म
+    bjn: Agama Yahudi
+    blk: စျူးဘာႏသာႏ
+    bn: ইহুদি ধর্ম
+    bo: ཡིའུ་ཐའེ་ཆོས་ལུགས།
+    br: yuzevegezh
+    bs: judaizam
+    btm: Jahudi
+    bxr: Иудаизм
+    ca: judaisme
+    cdo: Iù-tái-gáu
+    ce: Иудаизм
+    ceb: Hudaismo
+    ckb: جوویەتی
+    co: Ghjudaisimu
+    crh: Yeudilik
+    crh-latn: Yeudilik
+    cs: judaismus
+    cv: Иудейсем
+    cy: Iddewiaeth
+    da: jødedom
+    de: Judentum
+    diq: Cıhudiye
+    dv: ޔަހޫދީދީން
+    el: Ιουδαϊσμός
+    en: Judaism
+    en-ca: Judaism
+    en-gb: Judaism
+    en-us: Judaism
+    eo: judaismo
+    es: judaísmo
+    et: judaism
+    eu: judaismo
+    ext: Judaísmu
+    fa: یهودیت
+    ff: Yahudanci
+    fi: juutalaisuus
+    fo: Jødadómur
+    fr: judaïsme
+    frp: Judâismo
+    frr: Juudendoom
+    fur: Ebraisim
+    fy: Joadendom
+    ga: an Giúdachas
+    gcr: Joudayism
+    gd: Iùdhachd
+    gl: xudaísmo
+    gn: Hudío jerovia
+    gpe: Judaism
+    gsw: Judedum
+    gu: યહૂદી ધર્મ
+    gv: yn Ewaghys
+    ha: Yahudanci
+    hak: Yù-thai-kau
+    haw: Ho'omana Iudaio
+    he: יהדות
+    hi: यहूदी धर्म
+    hif: Judaism
+    hr: judaizam
+    hsb: židowstwo
+    ht: Jidayis
+    hu: zsidó vallás
+    hy: հուդայականություն
+    hyw: Յուդայականութիւն
+    ia: judaismo
+    iba: Pengarap Judah
+    id: Yudaisme
+    ie: Judeisme
+    ig: Judaism
+    ilo: Hudaismo
+    inh: Жугтий ди
+    io: Judaismo
+    is: gyðingdómur
+    it: ebraismo
+    ja: ユダヤ教
+    jam: Juudizim
+    jv: Yahudi
+    ka: იუდაიზმი
+    kaa: iudaizm
+    kab: Tudayt
+    kbp: Yuudaayism
+    kcg: Khwiyahuda
+    kk: Яһудилық
+    kl: Juutit
+    kn: ಯಹೂದಿ ಧರ್ಮ
+    knc: Yahudism
+    ko: 유대교
+    krc: Иудейлик
+    krj: Hudaismo
+    ks: یہوٗدیت
+    ksh: Jüddedom
+    ku: cihûtî
+    ku-latn: cihûtî
+    kw: Yedhoweth
+    ky: Иудаизм
+    la: Religio Iudaica
+    lad: Djudaismo
+    lb: Juddentum
+    lbe: жугьутӏнал дин
+    lez: Иудаизм
+    lfn: iudisme
+    li: Joededom
+    lij: Ebraiximo
+    lld: Iudaism
+    lmo: Judaism
+    ln: Boyúda
+    lo: ສາສະໜາຊູດາ
+    lrc: جیدیت
+    lt: judaizmas
+    lv: jūdaisms
+    lzh: 猶太教
+    mad: Aghâma Yâhuḍi
+    mdf: Иудаизмась
+    mg: Jodaisma
+    mi: Hūraitanga
+    min: Agamo Yahudi
+    mk: јудаизам
+    ml: യഹൂദമതം
+    mn: Иудаизм
+    mni: ꯖꯨꯗꯥꯏꯁꯝ
+    mr: ज्यू धर्म
+    ms: Agama Yahudi
+    mt: Ġudajiżmu
+    mwl: Judaísmo
+    my: ဂျူးဘာသာ
+    mzn: یهودی دین
+    nah: Judaísmo
+    nan: Iû-thài-kàu
+    nap: Ebraismò
+    nb: jødedom
+    nds: Jodendom
+    nds-nl: jöädendom
+    ne: यहुदी धर्म
+    new: यहुद धर्म
+    nl: jodendom
+    nn: jødedom
+    nrm: Judaïsme
+    nso: Sejuda
+    oc: Judaïsme
+    om: Judaayizimii
+    os: иудаизм
+    pa: ਯਹੂਦੀ ਧਰਮ
+    pam: Hudaismu
+    pap: hudaismo
+    pcd: Judaïme
+    pdc: Yuddedum
+    pi: यहूदी धम्म
+    pih: Judaism
+    pl: judaizm
+    pms: Giudaism
+    pnb: یہودیت
+    ps: يهوديت
+    pt: Judaísmo
+    pt-br: Judaísmo
+    qu: Hudyu iñiy
+    rm: Giudaissem
+    rmy: Judea
+    ro: iudaism
+    ru: иудаизм
+    rue: юдаїзм
+    rw: Kiyahudi (Judaism)
+    sah: Иудаизм
+    sc: Ebraismu
+    scn: Judaismu
+    sco: Judaism
+    sd: يهوديت
+    se: juvddálašvuohta
+    sgs: Jodaėzmos
+    sh: judaizam
+    shn: ၸၢဝ်းၸိဝ်း
+    si: ජුදා ආගම
+    sk: Judaizmus
+    skr: یہودیت
+    sl: judovstvo
+    sma: juvdeladtjevoete
+    smj: juvdávuohta
+    smn: juuvdálâšvuotâ
+    sms: juudlažvuõtt
+    sn: Ujudha
+    so: Yuhuuda
+    sq: Judaizëm
+    sr: јудаизам
+    sr-ec: јудаизам
+    sr-el: judaizam
+    stq: Juudendum
+    su: Yudaisme
+    sv: judendom
+    sw: Uyahudi
+    szl: Judajizm
+    ta: யூதம்
+    tcy: ಯಹೂದಿ ಧರ್ಮ
+    te: జుడాయిజం
+    tg: яҳудият
+    th: ศาสนายูดาห์
+    tk: Yahudilik
+    tl: Hudaismo
+    tok: nasin sewi Jejuta
+    tpi: Judaisim
+    tr: Yahudilik
+    ts: Vuyuda
+    tt: яһүд дине
+    tt-cyrl: яһүд дине
+    udm: иудаизм
+    ug: يەھۇدى دىنى
+    uk: юдаїзм
+    ur: یہودیت
+    uz: Yahudiylik
+    vec: ebraismo
+    vep: judaizm
+    vi: Do Thái giáo
+    vro: Judaism
+    wa: Djudayisse
+    war: Judaismo
+    wuu: 犹太教
+    xh: UbuJuda
+    xmf: იუდაიზმი
+    yi: יידישקייט
+    yue: 猶太教
+    za: Youzdaigyau
+    zea: Jood'ndom
+    zgh: ⵜⵓⴷⴰⵢⵜ
+    zh: 猶太教
+    zh-cn: 犹太教
+    zh-hans: 犹太教
+    zh-hant: 猶太教
+    zh-hk: 猶太教
+    zh-mo: 犹太教
+    zh-my: 犹太教
+    zh-sg: 犹太教
+    zh-tw: 猶太教
+    zu: UbuJuda
 ---
-
 # [[Judaism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Judaism,9268|WD~Judaism,9268]]

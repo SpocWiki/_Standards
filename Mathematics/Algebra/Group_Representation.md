@@ -1,14 +1,89 @@
 ---
 aliases:
+- Biểu diễn nhóm
+- groepsrepresentatie
+- group representation
+- Grup temsili
+- grupa prezento
+- Gruppendarstellung
+- grupperepresentasjon
+- rappresentazione dei gruppi
+- representació de grup
+- representación de grupo
+- Representación de grupu
+- representation de gruppo
+- representação de grupo
+- reprezentace
+- Reprezentacija grupa
+- reprezentacija grupe
+- reprezentacja grupy
+- reprezentare de grup
+- repræsentationsteori
+- représentation de groupe
+- Ryhmän esitys
+- Taldeen errepresentazio
+- Αναπαράσταση ομάδων
+- выяўленьне групы
+- представление группы
+- представлення групи
+- претставување на групите
+- Төркөм күрһәтмәһе
+- הצגה ליניארית של חבורה
+- تمثيل زمرة
+- نمایش گروه
+- ჯგუფთა წარმოდგენის თეორია
+- 群の表現
+- 群表示論
+- 表示理論
+- 군 표현론
 has_id_wikidata: Q1055807
-has_characteristic: "[[_Standards/WikiData/WD~character_of_a_group_representation,600043]]"
+has_characteristic: '[[_Standards/WikiData/WD~character_of_a_group_representation,600043]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_homomorphism,868169]]"
-  - "[[_Standards/WikiData/WD~linear_representation,77978698]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32516772,32516772]]"
+- '[[_Standards/WikiData/WD~group_homomorphism,868169]]'
+- '[[_Standards/WikiData/WD~linear_representation,77978698]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32516772,32516772]]'
+dv_has_:
+  name_:
+    ar: تمثيل زمرة
+    ast: Representación de grupu
+    ba: Төркөм күрһәтмәһе
+    be-tarask: выяўленьне групы
+    ca: representació de grup
+    cs: reprezentace
+    da: repræsentationsteori
+    de: Gruppendarstellung
+    el: Αναπαράσταση ομάδων
+    en: group representation
+    eo: grupa prezento
+    es: representación de grupo
+    eu: Taldeen errepresentazio
+    fa: نمایش گروه
+    fi: Ryhmän esitys
+    fr: représentation de groupe
+    gl: Representación de grupo
+    he: הצגה ליניארית של חבורה
+    ia: representation de gruppo
+    it: rappresentazione dei gruppi
+    ja: 群の表現
+    ka: ჯგუფთა წარმოდგენის თეორია
+    ko: 군 표현론
+    mk: претставување на групите
+    nb: grupperepresentasjon
+    nl: groepsrepresentatie
+    nn: grupperepresentasjon
+    pl: reprezentacja grupy
+    pt: representação de grupo
+    ro: reprezentare de grup
+    ru: представление группы
+    sl: reprezentacija grupe
+    sr: Reprezentacija grupa
+    tr: Grup temsili
+    uk: представлення групи
+    vi: Biểu diễn nhóm
+    yue: 表示理論
+    zh: 群表示論
 ---
-
 # [[Group_Representation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Group_representation,1055807|WD~Group_representation,1055807]] 

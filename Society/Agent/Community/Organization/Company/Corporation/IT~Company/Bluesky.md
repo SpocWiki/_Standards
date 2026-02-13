@@ -1,8 +1,48 @@
 ---
 has_id_wikidata: Q78194383
+dv_has_:
+  name_:
+    ar: بلوسکاي
+    bn: ব্লুস্কাই সোশ্যাল
+    br: Bluesky Social
+    cs: Bluesky
+    de: Bluesky
+    en: Bluesky
+    fa: بلواسکای
+    fr: Bluesky Social
+    he: בלוסקיי
+    hi: ब्लूस्काई
+    ja: ブルースカイ
+    ko: 블루스카이
+    lb: Bluesky
+    ms: Bluesky Social
+    mul: Bluesky
+    pl: Bluesky
+    ro: Bluesky
+    sk: Bluesky
+    ta: புளூஸ்கை
+    tok: lipu Puka
+    tr: Bluesky
+    ug: كۆك ئاسمان
+    uk: Bluesky
+    ur: بلیوسکائی
+    yi: בלאָסקײַ
+aliases:
+- Bluesky
+- Bluesky Social
+- lipu Puka
+- בלאָסקײַ
+- בלוסקיי
+- بلواسکای
+- بلوسکاي
+- بلیوسکائی
+- كۆك ئاسمان
+- ब्लूस्काई
+- ব্লুস্কাই সোশ্যাল
+- புளூஸ்கை
+- ブルースカイ
+- 블루스카이
 ---
-
-
 # [[Bluesky]]
 
 #is_/similar_to :: [[X(Twitter)]] 

@@ -1,11 +1,49 @@
 ---
 aliases:
-  - reed instrument
-  - Reed aerophones
-  - ''
-  - Reed_Instrument
-  - Reed Instrument
+- aerofon z jezičkom
+- aerofoni ad ancia
+- blåseinstrument med rørblad
+- blåseinstrument med røyrblad
+- instrument de vent amb llengüeta
+- instrument à anche
+- instrumento de lengüeta
+- instrumento de palleta
+- nádnyelves hangszer
+- reed aerophone
+- Reed aerophones
+- reed instrument
+- Reed_Instrument
+- riet aerophoon
+- Rohrblattinstrument
+- ruokolehdykkäsoitin
+- Язичковий аерофон
+- язычковы аэрафон
+- язычковый аэрофон
+- آلة هوائية لسانية
+- 簧振气鸣乐器
+- 簧振氣鳴樂器
 has_id_wikidata: Q3152896
+dv_has_:
+  name_:
+    ar: آلة هوائية لسانية
+    be-tarask: язычковы аэрафон
+    ca: instrument de vent amb llengüeta
+    de: Rohrblattinstrument
+    en: reed aerophone
+    es: instrumento de lengüeta
+    fi: ruokolehdykkäsoitin
+    fr: instrument à anche
+    gl: instrumento de palleta
+    hu: nádnyelves hangszer
+    it: aerofoni ad ancia
+    nb: blåseinstrument med rørblad
+    nl: riet aerophoon
+    nn: blåseinstrument med røyrblad
+    ru: язычковый аэрофон
+    sl: aerofon z jezičkom
+    uk: Язичковий аерофон
+    zh: 簧振气鸣乐器
+    zh-hant: 簧振氣鳴樂器
 ---
 ## #has_/text_of_/abstract 
 

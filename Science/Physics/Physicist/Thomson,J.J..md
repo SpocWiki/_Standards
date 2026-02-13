@@ -1,101 +1,142 @@
 ---
 aliases:
-  - J._J._Thomson
-  - Joseph John Thomson
-  - J. J. Thomson
-  - Thomson
-  - Thomson,J.J.
+- Cozef Con Tomson
+- Dž. Dž. Tomsons
+- J. J. Thomson
+- J.J. Thomson
+- J._J._Thomson
+- Joseph John Thomson
+- J·J·汤姆孙
+- J·J·湯木生
+- Thomson
+- Thomson,J.J.
+- Τζόζεφ Τζον Τόμσον
+- Џозеф Џон Томсон
+- Джозеф Джон Томсан
+- Джозеф Джон Томсон
+- Джозэф Джон Томсан
+- Джоузеф Джон Томсън
+- Җозеф Җон Томсон
+- Ջոզեֆ Թոմպսոն
+- ג'יי ג'יי תומסון
+- דזשיי דזשיי טאמסאן
+- جوزف جان تامسون
+- جوزيف جون تومسون
+- جوزيف جون طومسون
+- جۆزێف جۆن تۆمسۆن
+- جے جے تھامسن
+- जे जे थम्सन
+- जे जे थामसन
+- जे जे थोमसन
+- जे.जे. थॉमसन
+- जे॰ जे॰ थॉमसन
+- জে জে থমসন
+- জোছেফ জন টমছন
+- ਜੇ.ਜੇ.ਥਾਮਸਨ
+- જે જે થોમસન
+- ஜெ. ஜெ. தாம்சன்
+- జె.జె.థాంసన్
+- ಜೋಸೆಫ್ ಜಾನ್ ಥಾಮ್ಸನ್
+- ജെ.ജെ. തോംസൺ
+- ජේ. ජේ. තොම්සන්
+- เจ. เจ. ทอมสัน
+- ဂျေဂျေ သော်မဆင်
+- ჯოზეფ ჯონ თომსონი
+- ジョゼフ・ジョン・トムソン
+- 祖些夫·湯臣
+- ꯖꯦ. ꯖꯦ. ꯊꯣꯝꯁꯟ
+- 조지프 존 톰슨
 has_id_wikidata: Q47285
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~International_Scientific_Esperanto_Association,11683463]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~International_Scientific_Esperanto_Association,11683463]]'
 student_of: '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
 student:
-  - '[[_Standards/WikiData/WD~Francis_William_Aston,102291]]'
-  - '[[_Standards/WikiData/WD~Robert_Oppenheimer,132537]]'
-  - '[[_Standards/WikiData/WD~William_Henry_Bragg,133747]]'
-  - '[[_Standards/WikiData/WD~Charles_Glover_Barkla,160522]]'
-  - '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
-  - '[[_Standards/WikiData/WD~Balthasar_van_der_Pol,805673]]'
-  - '[[_Standards/WikiData/WD~Daniel_Frost_Comstock,1160781]]'
-  - '[[_Standards/WikiData/WD~John_Sealy_Townsend,1701707]]'
-  - '[[_Standards/WikiData/WD~H._Stanley_Allen,5628573]]'
-  - '[[_Standards/WikiData/WD~John_Zeleny,6265305]]'
-  - '[[_Standards/WikiData/WD~T._H._Laby,7668286]]'
-  - '[[_Standards/WikiData/WD~Max_Born,58978]]'
+- '[[_Standards/WikiData/WD~Francis_William_Aston,102291]]'
+- '[[_Standards/WikiData/WD~Robert_Oppenheimer,132537]]'
+- '[[_Standards/WikiData/WD~William_Henry_Bragg,133747]]'
+- '[[_Standards/WikiData/WD~Charles_Glover_Barkla,160522]]'
+- '[[_Standards/WikiData/WD~Charles_Thomson_Rees_Wilson,162900]]'
+- '[[_Standards/WikiData/WD~Balthasar_van_der_Pol,805673]]'
+- '[[_Standards/WikiData/WD~Daniel_Frost_Comstock,1160781]]'
+- '[[_Standards/WikiData/WD~John_Sealy_Townsend,1701707]]'
+- '[[_Standards/WikiData/WD~H._Stanley_Allen,5628573]]'
+- '[[_Standards/WikiData/WD~John_Zeleny,6265305]]'
+- '[[_Standards/WikiData/WD~T._H._Laby,7668286]]'
+- '[[_Standards/WikiData/WD~Max_Born,58978]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Francis_William_Aston,102291]]'
-  - '[[_Standards/WikiData/WD~William_Lawrence_Bragg,131729]]'
-  - '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
-  - '[[_Standards/WikiData/WD~Owen_Willans_Richardson,169330]]'
-  - '[[_Standards/WikiData/WD~Geoffrey_Ingram_Taylor,699541]]'
-  - '[[_Standards/WikiData/WD~Theodore_Lyman,970745]]'
-  - '[[_Standards/WikiData/WD~Hugh_Longbourne_Callendar,1634453]]'
-  - '[[_Standards/WikiData/WD~John_Sealy_Townsend,1701707]]'
-  - '[[_Standards/WikiData/WD~Harold_A._Wilson,5659887]]'
-  - '[[_Standards/WikiData/WD~Władysław_Natanson,8041239]]'
-  - '[[_Standards/WikiData/WD~Robert_William_Ditchburn,21165751]]'
-  - '[[_Standards/WikiData/WD~Ernest_B._Ludlam,62842188]]'
-  - '[[_Standards/WikiData/WD~Arthur_Llewelyn_Hughes,102077729]]'
-  - '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
-  - '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
-  - '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
+- '[[_Standards/WikiData/WD~Francis_William_Aston,102291]]'
+- '[[_Standards/WikiData/WD~William_Lawrence_Bragg,131729]]'
+- '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
+- '[[_Standards/WikiData/WD~Owen_Willans_Richardson,169330]]'
+- '[[_Standards/WikiData/WD~Geoffrey_Ingram_Taylor,699541]]'
+- '[[_Standards/WikiData/WD~Theodore_Lyman,970745]]'
+- '[[_Standards/WikiData/WD~Hugh_Longbourne_Callendar,1634453]]'
+- '[[_Standards/WikiData/WD~John_Sealy_Townsend,1701707]]'
+- '[[_Standards/WikiData/WD~Harold_A._Wilson,5659887]]'
+- '[[_Standards/WikiData/WD~Władysław_Natanson,8041239]]'
+- '[[_Standards/WikiData/WD~Robert_William_Ditchburn,21165751]]'
+- '[[_Standards/WikiData/WD~Ernest_B._Ludlam,62842188]]'
+- '[[_Standards/WikiData/WD~Arthur_Llewelyn_Hughes,102077729]]'
+- '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
+- '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
+- '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
 child:
-  - '[[_Standards/WikiData/WD~George_Paget_Thomson,133846]]'
-  - '[[_Standards/WikiData/WD~Joan_Paget_Thomson,96080966]]'
+- '[[_Standards/WikiData/WD~George_Paget_Thomson,133846]]'
+- '[[_Standards/WikiData/WD~Joan_Paget_Thomson,96080966]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Manchester,230899]]'
-  - '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-  - '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]'
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~University_of_Manchester,230899]]'
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 notable_work: '[[_Standards/WikiData/WD~plum_pudding_model,274116]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~electrical_conductance,309017]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~electron,2225]]'
-  - '[[_Standards/WikiData/WD~experimental_physics,18366]]'
+- '[[_Standards/WikiData/WD~electrical_conductance,309017]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~experimental_physics,18366]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Joseph,471788]]'
-  - '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Joseph,471788]]'
+- '[[_Standards/WikiData/WD~John,4925477]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
-  - '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
+- '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 place_of_birth: '[[_Standards/WikiData/WD~Cheetham_Hill,2015708]]'
 family_name: '[[_Standards/WikiData/WD~Thomson,2803437]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 position_held:
-  - '[[_Standards/WikiData/WD~President_of_the_Royal_Geographical_Society,16854337]]'
-  - '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
+- '[[_Standards/WikiData/WD~President_of_the_Royal_Geographical_Society,16854337]]'
+- '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
 spouse: '[[_Standards/WikiData/WD~Rose_Thomson,75204450]]'
 father: '[[_Standards/WikiData/WD~Joseph_James_Thomson,96080967]]'
 sibling: '[[_Standards/WikiData/WD~Frederick_Vernon_Thomson,96080971]]'
@@ -119,15 +160,130 @@ date_of_death: 1940-08-30T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/J.J.%20Thomson%20LCCN2014715407.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jjthomson%20sig.svg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=179868801
-  - http://www.digiporta.net/index.php?id=254651524
-  - https://royalsocietypublishing.org/doi/pdf/10.1098/rsbm.1941.0024
+- http://www.digiporta.net/index.php?id=179868801
+- http://www.digiporta.net/index.php?id=254651524
+- https://royalsocietypublishing.org/doi/pdf/10.1098/rsbm.1941.0024
 ISNI: 0000000121194340
 Libris_URI: 97mprl5t22jhwks
 Europeana_entity: agent/base/147151
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOMSON_DZHOZEF_DZHON.html
+dv_has_:
+  name_:
+    af: J. J. Thomson
+    an: Joseph John Thomson
+    ar: جوزيف جون تومسون
+    arz: جوزيف جون طومسون
+    as: জোছেফ জন টমছন
+    ast: Joseph John Thomson
+    az: Cozef Con Tomson
+    azb: جوزف جان تامسون
+    ban: J. J. Thomson
+    be: Джозеф Джон Томсан
+    be-tarask: Джозэф Джон Томсан
+    bg: Джоузеф Джон Томсън
+    bn: জে জে থমসন
+    br: Joseph John Thomson
+    bs: Joseph John Thomson
+    ca: Joseph John Thomson
+    ckb: جۆزێف جۆن تۆمسۆن
+    cs: Joseph John Thomson
+    da: Joseph John Thomson
+    de: Joseph John Thomson
+    el: Τζόζεφ Τζον Τόμσον
+    en: J. J. Thomson
+    eo: Joseph John Thomson
+    es: J. J. Thomson
+    et: Joseph John Thomson
+    eu: Joseph John Thomson
+    fa: جوزف جان تامسون
+    fi: Joseph John Thomson
+    fr: Joseph John Thomson
+    ga: Joseph John Thomson
+    gd: J. J. Thomson
+    gl: Joseph John Thomson
+    gu: જે જે થોમસન
+    hak: J. J. Thomson
+    he: ג'יי ג'יי תומסון
+    hi: जे॰ जे॰ थॉमसन
+    hr: Joseph John Thomson
+    ht: Joseph John Thomson
+    hu: Joseph John Thomson
+    hy: Ջոզեֆ Թոմպսոն
+    ia: Joseph John Thomson
+    id: Joseph John Thomson
+    ilo: J. J. Thomson
+    io: Joseph John Thomson
+    it: Joseph John Thomson
+    ja: ジョゼフ・ジョン・トムソン
+    jv: Joseph John Thomson
+    ka: ჯოზეფ ჯონ თომსონი
+    kk: Джозеф Джон Томсон
+    kn: ಜೋಸೆಫ್ ಜಾನ್ ಥಾಮ್ಸನ್
+    ko: 조지프 존 톰슨
+    ks: جے جے تھامسن
+    ku: Joseph John Thomson
+    la: J. J. Thomson
+    lt: Joseph John Thomson
+    lv: Dž. Dž. Tomsons
+    mg: Joseph John Thomson
+    mk: Џозеф Џон Томсон
+    ml: ജെ.ജെ. തോംസൺ
+    mni: ꯖꯦ. ꯖꯦ. ꯊꯣꯝꯁꯟ
+    mr: जे.जे. थॉमसन
+    ms: Joseph John Thomson
+    mul: Joseph John Thomson
+    my: ဂျေဂျေ သော်မဆင်
+    mzn: جوزف جان تامسون
+    nan: Joseph John Thomson
+    nb: Joseph John Thomson
+    ne: जे जे थोमसन
+    new: जे जे थम्सन
+    nl: Joseph John Thomson
+    nn: J.J. Thomson
+    oc: Joseph John Thomson
+    os: Джозеф Джон Томсон
+    pa: ਜੇ.ਜੇ.ਥਾਮਸਨ
+    pam: J. J. Thomson
+    pl: Joseph John Thomson
+    pms: Joseph John Thomson
+    pnb: جے جے تھامسن
+    pt: Joseph John Thomson
+    pt-br: Joseph John Thomson
+    qu: Joseph John Thomson
+    ro: Joseph John Thomson
+    ru: Джозеф Джон Томсон
+    sa: जे जे थामसन
+    sco: J. J. Thomson
+    sh: Joseph John Thomson
+    si: ජේ. ජේ. තොම්සන්
+    sk: Joseph John Thomson
+    skr: جے جے تھامسن
+    sl: Joseph John Thomson
+    sq: Joseph John Thomson
+    sr: Џозеф Џон Томсон
+    sr-ec: Џозеф Џон Томсон
+    sv: J.J. Thomson
+    sw: Joseph John Thomson
+    ta: ஜெ. ஜெ. தாம்சன்
+    te: జె.జె.థాంసన్
+    th: เจ. เจ. ทอมสัน
+    tl: J. J. Thomson
+    tr: J. J. Thomson
+    tt: Җозеф Җон Томсон
+    tt-latn: Cozef Con Tomson
+    uk: Джозеф Джон Томсон
+    ur: جے جے تھامسن
+    uz: J. J. Thomson
+    vi: Joseph John Thomson
+    war: J. J. Thomson
+    wuu: J·J·汤姆孙
+    xmf: ჯოზეფ ჯონ თომსონი
+    yi: דזשיי דזשיי טאמסאן
+    yo: J. J. Thomson
+    yue: 祖些夫·湯臣
+    zh: J·J·汤姆孙
+    zh-tw: J·J·湯木生
 ---
-
 # [[Thomson,J.J.]] 
 
 #is_a :: [[../Physicist|Physicist]] 

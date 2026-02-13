@@ -1,32 +1,146 @@
 ---
 aliases:
-  - Superriese
-  - Supergiant
+- estrela supergigante
+- gorgawr
+- ifratnəhəng ulduzlar
+- Iwwerris
+- nadobor
+- nadolbrzym
+- nadorjakinja
+- ollfhathach
+- Oʻta gigantlar
+- pārmilzu zvaigzne
+- Sao siêu khổng lồ
+- stella supergigante
+- super raksasa
+- superdiv
+- superdžin
+- supererraldoi
+- supergegant
+- supergergasi
+- Supergiant
+- supergigant
+- supergigante
+- supergiganto
+- superjätte
+- superkjempe
+- supermilžinė
+- superreus
+- Superriese
+- superxigante
+- veleobr
+- ylijättiläinen
+- étoile supergéante
+- Überiese
+- ülihiid
+- Üstdev
+- υπεργίγαντας
+- вышкайсăр гигант
+- звышгігант
+- Надгігант
+- сверхгигант
+- свръхгигант
+- суперџин
+- Үтә зур йолдыз
+- על-ענק
+- ابرغول
+- نجم فائق العملقة
+- महादानव तारा
+- பேரரக்கன்
+- അതിഭീമ നക്ഷത്രം
+- ดาวยักษ์ใหญ่
+- ဆူပါ ဧရာမကြယ်
+- 超巨星
+- 초거성
 has_id_wikidata: Q193599
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~star,523]]"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~star,523]]'
 Commons_category: Supergiant stars
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]"
+  - '[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]"
+- '[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]'
+- '[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]'
+dv_has_:
+  name_:
+    af: superreus
+    ar: نجم فائق العملقة
+    ast: superxigante
+    az: ifratnəhəng ulduzlar
+    be-tarask: звышгігант
+    bg: свръхгигант
+    ca: supergegant
+    cs: veleobr
+    cv: вышкайсăр гигант
+    cy: gorgawr
+    de: Überiese
+    el: υπεργίγαντας
+    en: supergiant
+    eo: supergiganto
+    es: supergigante
+    et: ülihiid
+    eu: supererraldoi
+    fa: ابرغول
+    fi: ylijättiläinen
+    fr: étoile supergéante
+    ga: ollfhathach
+    he: על-ענק
+    hi: महादानव तारा
+    hr: superdiv
+    id: super raksasa
+    it: stella supergigante
+    ja: 超巨星
+    ko: 초거성
+    lb: Iwwerris
+    lt: supermilžinė
+    lv: pārmilzu zvaigzne
+    mk: суперџин
+    ml: അതിഭീമ നക്ഷത്രം
+    ms: supergergasi
+    my: ဆူပါ ဧရာမကြယ်
+    nb: superkjempe
+    nl: superreus
+    nn: superkjempe
+    pl: nadolbrzym
+    pt: estrela supergigante
+    ro: supergigant
+    ru: сверхгигант
+    sk: nadobor
+    sl: nadorjakinja
+    sr: суперџин
+    sr-ec: суперџин
+    sr-el: superdžin
+    sv: superjätte
+    ta: பேரரக்கன்
+    th: ดาวยักษ์ใหญ่
+    tr: Üstdev
+    tt: Үтә зур йолдыз
+    uk: Надгігант
+    uz: Oʻta gigantlar
+    vi: Sao siêu khổng lồ
+    yue: 超巨星
+    zh: 超巨星
+    zh-cn: 超巨星
+    zh-hans: 超巨星
+    zh-hant: 超巨星
+    zh-hk: 超巨星
+    zh-sg: 超巨星
+    zh-tw: 超巨星
 ---
-
 # [[Supergiant]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]  

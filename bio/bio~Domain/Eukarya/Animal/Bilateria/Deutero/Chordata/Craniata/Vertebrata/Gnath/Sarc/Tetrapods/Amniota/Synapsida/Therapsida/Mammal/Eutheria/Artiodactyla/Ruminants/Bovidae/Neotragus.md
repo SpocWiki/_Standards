@@ -1,8 +1,66 @@
 ---
 aliases:
-  - Neotragus
+- antilopka
+- Böckchen
+- Dvärgantiloper
+- Kääpiöantiloopit
+- Mažosios antilopės
+- Neotragus
+- Suni
+- surboleem ke Neotragus oxi
+- Антилопи джуджета
+- Карликовые антилопы
+- אנטילופה ננסית
+- غطاف
+- کلچهها
+- ჯუჯა ანტილოპები
+- 新小羚属
+- 新小羚屬
 title: Neotragus
 has_id_wikidata: Q2365071
+dv_has_:
+  name_:
+    ar: غطاف
+    ast: Neotragus
+    avk: surboleem ke Neotragus oxi
+    bg: Антилопи джуджета
+    br: Neotragus
+    ca: Neotragus
+    ceb: Neotragus
+    cs: antilopka
+    de: Böckchen
+    en: Neotragus
+    es: Neotragus
+    eu: Neotragus
+    fa: کلچهها
+    fi: Kääpiöantiloopit
+    fr: Neotragus
+    frr: Neotragus
+    ga: Neotragus
+    gl: Neotragus
+    he: אנטילופה ננסית
+    hu: Neotragus
+    ia: Neotragus
+    it: Neotragus
+    ka: ჯუჯა ანტილოპები
+    la: Neotragus
+    lt: Mažosios antilopės
+    mul: Neotragus
+    nb: Neotragus
+    nl: Neotragus
+    pl: Neotragus
+    pt: Neotragus
+    ro: Neotragus
+    ru: Карликовые антилопы
+    sq: Neotragus
+    sv: Dvärgantiloper
+    sw: Suni
+    uk: Neotragus
+    vi: Neotragus
+    war: Neotragus
+    zh: 新小羚属
+    zh-cn: 新小羚属
+    zh-tw: 新小羚屬
 ---
 # [[Neotragus]] 
 

@@ -1,9 +1,57 @@
 ---
 has_id_wikidata: Q1125472
+dv_has_:
+  name_:
+    ar: اختلاط
+    ca: factor de confusió
+    cs: Zavádějící proměnná
+    da: Confounder
+    de: Störfaktor
+    en: confounding
+    es: Factor de confusión
+    fa: اختلاط
+    fr: facteur de confusion
+    he: משתנה מתערב
+    hu: confounding
+    id: Efek pengacau
+    it: confondente
+    ja: 交絡
+    ko: 교락
+    nl: confounding
+    pl: Zmienna zakłócająca
+    pt: Variável de confusão
+    ru: Спутывающая переменная
+    sk: Mätúca premenná
+    sl: moteča spremenljivka
+    sv: Confounding
+    th: ตัวแปรกวน
+    uk: Змішування (статистика)
+    yue: 混淆變數
+    zh: 干擾因素
+aliases:
+- confondente
+- Confounder
+- confounding
+- Efek pengacau
+- facteur de confusion
+- factor de confusió
+- Factor de confusión
+- moteča spremenljivka
+- Mätúca premenná
+- Störfaktor
+- Variável de confusão
+- Zavádějící proměnná
+- Zmienna zakłócająca
+- Змішування (статистика)
+- Спутывающая переменная
+- משתנה מתערב
+- اختلاط
+- ตัวแปรกวน
+- 交絡
+- 干擾因素
+- 混淆變數
+- 교락
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > In causal inference, a **confounder** is a variable 

@@ -1,13 +1,70 @@
 ---
 aliases:
+- Džaiv
+- Džaivas
+- Jive
+- Jive (kërcim)
+- Τζάιβ
+- Џајв
+- Джайв
+- джайва
+- Ջայվ
+- ג'ייב (ריקוד)
+- جایئو
+- جيف
+- जाइव
+- ಜೈವ್
+- ジャイヴ (ダンス)
+- 捷舞
 has_id_wikidata: Q17237
-subclass_of: "[[_Standards/WikiData/WD~partner_dance,280336]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-different_from: "[[_Standards/WikiData/WD~Jive,17239]]"
+subclass_of: '[[_Standards/WikiData/WD~partner_dance,280336]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+different_from: '[[_Standards/WikiData/WD~Jive,17239]]'
 Commons_category: Jive
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20151121%20WDSF%20Austrian%20Open%202015%207813.jpg
+dv_has_:
+  name_:
+    ar: جيف
+    ast: Jive
+    be-tarask: джайва
+    bg: Джайв
+    ca: jive
+    cs: jive
+    da: Jive
+    de: Jive
+    el: Τζάιβ
+    en: jive
+    es: Jive
+    et: Džaiv
+    eu: Jive
+    fi: jive
+    fr: Jive
+    he: ג'ייב (ריקוד)
+    hi: जाइव
+    hr: Jive
+    hu: Jive
+    hy: Ջայվ
+    it: Jive
+    ja: ジャイヴ (ダンス)
+    kn: ಜೈವ್
+    lt: Džaivas
+    mk: Џајв
+    nb: Jive
+    nl: Jive
+    oc: Jive
+    pl: Jive
+    pt: Jive
+    ru: Джайв
+    sk: jive
+    sl: Jive
+    sq: Jive (kërcim)
+    sr: Џајв
+    sv: Jive
+    tr: Jive
+    uk: Джайв
+    ur: جایئو
+    zh: 捷舞
 ---
-
 # [[Jive]] 
 
 #is_/same_as :: [[WD~Jive,17237]] 

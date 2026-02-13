@@ -1,10 +1,52 @@
 ---
 aliases:
-  - Biopsy
+- biopsi
+- biopsia
+- biopsiddja
+- Biopsie
+- biopsiija
+- biopsija
+- biopsio
+- biopsiya
+- biopsja
+- Biopsy
+- biopszia
+- bithóipse
+- biyopsi
+- biyopsiya
+- biòpsia
+- biópsia
+- bïosınama
+- sinh thiết
+- βιοψία
+- біопсія
+- біяпсія
+- биопсија
+- биопсия
+- биосынама
+- բիոպսիա
+- ביופסיה
+- بائيوپسي
+- بافتبرداری
+- بىيوسىناما
+- خزعة
+- نسیجی تشخیص
+- उत्तक परीक्षा
+- বায়োপসি
+- বায়’প্সি
+- உயிரகச்செதுக்கு
+- ಬಾಯಾಪ್ಸಿ
+- การตัดเนื้อออกตรวจ
+- ბიოფსია
+- 活体组织切片
+- 活體組織切片
+- 活體組織檢查
+- 生検
+- 생검
 has_id_wikidata: Q179991
 subclass_of:
-  - '[[_Standards/WikiData/WD~sampling,7410159]]'
-  - '[[_Standards/WikiData/WD~invasive_test,85850823]]'
+- '[[_Standards/WikiData/WD~sampling,7410159]]'
+- '[[_Standards/WikiData/WD~invasive_test,85850823]]'
 instance_of: '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
 health_specialty: '[[_Standards/WikiData/WD~surgery,40821]]'
 OmegaWiki_Defined_Meaning: 864919
@@ -13,15 +55,113 @@ P8189: 987007282393605171
 Commons_category: Biopsies
 UMLS_CUI: C0005558
 MeSH_tree_code:
-  - E01.370.225.500.384.100
-  - E01.370.225.998.054
-  - E01.370.388.100
-  - E04.074
-  - E05.200.500.384.100
-  - E05.200.998.054
-  - E05.242.384.100
+- E01.370.225.500.384.100
+- E01.370.225.998.054
+- E01.370.388.100
+- E04.074
+- E05.200.500.384.100
+- E05.200.998.054
+- E05.242.384.100
+dv_has_:
+  name_:
+    an: biopsia
+    ar: خزعة
+    as: বায়’প্সি
+    ast: biopsia
+    az: biopsiya
+    bcl: biyopsiya
+    be: біяпсія
+    be-tarask: біяпсія
+    bg: биопсия
+    bn: বায়োপসি
+    bs: biopsija
+    ca: biòpsia
+    ceb: biyopsiya
+    cs: biopsie
+    cy: biopsi
+    da: biopsi
+    de: Biopsie
+    el: βιοψία
+    en: biopsy
+    en-ca: biopsy
+    en-gb: biopsy
+    eo: biopsio
+    es: biopsia
+    et: biopsia
+    eu: biopsia
+    fa: بافتبرداری
+    fi: biopsia
+    fr: biopsie
+    ga: bithóipse
+    gl: biopsia
+    he: ביופסיה
+    hi: उत्तक परीक्षा
+    hr: biopsija
+    hu: biopszia
+    hy: բիոպսիա
+    id: biopsi
+    it: biopsia
+    ja: 生検
+    ka: ბიოფსია
+    kk: биосынама
+    kk-arab: بىيوسىناما
+    kk-cn: بىيوسىناما
+    kk-cyrl: биосынама
+    kk-kz: биосынама
+    kk-latn: bïosınama
+    kk-tr: bïosınama
+    kn: ಬಾಯಾಪ್ಸಿ
+    ko: 생검
+    krj: biyopsiya
+    ky: биопсия
+    la: biopsia
+    lb: Biopsie
+    lt: biopsija
+    lv: biopsija
+    mk: биопсија
+    ms: biopsi
+    nb: biopsi
+    nl: biopsie
+    nn: biopsi
+    pag: biyopsiya
+    pl: biopsja
+    pt: biopsia
+    pt-br: biópsia
+    ro: biopsie
+    ru: биопсия
+    sd: بائيوپسي
+    se: biopsiija
+    sh: biopsija
+    sje: biopsija
+    sk: biopsia
+    sl: biopsija
+    smj: biopsiddja
+    smn: biopsia
+    sms: biopsia
+    sr: биопсија
+    sr-ec: биопсија
+    sr-el: biopsija
+    sv: biopsi
+    ta: உயிரகச்செதுக்கு
+    tg: биопсия
+    th: การตัดเนื้อออกตรวจ
+    tl: biyopsiya
+    tr: biyopsi
+    tt: биопсия
+    uk: біопсія
+    ur: نسیجی تشخیص
+    uz: biopsiya
+    vi: sinh thiết
+    wuu: 活体组织切片
+    yue: 活體組織檢查
+    zh: 活體組織切片
+    zh-cn: 活体组织切片
+    zh-hans: 活体组织切片
+    zh-hant: 活體組織切片
+    zh-hk: 活體組織切片
+    zh-sg: 活体组织切片
+    zh-tw: 活體組織切片
 ---
-
 # [[Biopsy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Biopsy,179991|WD~Biopsy,179991]] 

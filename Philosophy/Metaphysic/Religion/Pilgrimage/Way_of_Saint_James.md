@@ -1,39 +1,101 @@
 ---
 aliases:
-  - Jakobsweg
-  - Camino de Santiago
-  - Peregrinatio Compostellana
-  - Pilgrimage of Compostela
-  - O Camiño de Santiago
-  - Way_of_Saint_James
-  - Way of Saint James
+- Aragian pakadto ha St. James
+- Camin de Sant Jaume
+- Caminhos de Santiago
+- Camino de Santiago
+- Caminu de Santiagu
+- Camiño de Santiago
+- Cammino de Santiago
+- Cammino di Santiago di Compostela
+- Camí de Sant Jaume
+- Camín de Sant Chaime
+- Chemins de Saint-Jacques-de-Compostelle
+- Cjamin di Sant Jacum
+- Donejakue bidea
+- Droga św. Jakuba
+- Drumul Sfântului Iacob
+- El Camín de Santiago
+- Hent Sant Jakez
+- Jakoba Vojo
+- Jakobova pot
+- Jakobsleden
+- Jakobsvegurinn
+- Jakobsvejen
+- Jakobswee
+- Jakobsweg
+- Jakobswäg
+- O Camiño de Santiago
+- Pelgrimsroute naar Santiago de Compostella
+- Pellegrinaġġ ta’ San Ġakbu
+- Peregrinatio ad Compostellam
+- Peregrinatio Compostellana
+- Pilegrimsveien til Santiago de Compostela
+- Pilgrimage of Compostela
+- Put Svetog Jakova
+- Pyhän Jaakobin pyhiinvaellusreitti
+- Santiago ohtli
+- Stegna sw. Jakùba
+- svatojakubská cesta
+- Svētā Jēkaba ceļš
+- Szent Jakab-út
+- Trasa pútnikov do Santiago de Compostela
+- Voye a Sint-Djåke-el-Galice
+- Way of Saint James
+- Way_of_Saint_James
+- Đường hành hương Santiago de Compostela
+- Šv. Jokūbo kelias
+- Διαδρομή Αγίου Ιακώβου της Κομποστέλα
+- Дорога Святого Якова
+- Пат на Апостол Јаков
+- Пут за Сантијаго
+- Путь Святого Иакова
+- Път към Сантяго
+- Шлях Святога Якава
+- Шлях Сьвятога Якуба
+- Սուրբ Հակոբոսի ճանապարհ
+- דרך סנטיאגו
+- سینٹ جیمس دا رستہ
+- سینٹ جیمس کا راستہ
+- طريق شنت ياقب
+- کامینو د سانتیاگو
+- सेन्ट जेम्स का मार्ग
+- ਸੇਂਟ ਜੇਮਜ਼ ਦਾ ਰਾਹ
+- കാമിനോ ഡി സാൻറിയാഗോ
+- เส้นทางนักบุญยากอบ
+- წმინდა იაკობის გზა
+- サンティアゴ・デ・コンポステーラの巡礼路
+- 圣雅各之路
+- 聖地亞哥朝聖之路
+- 聖雅各之路
+- 산티아고 순례길
 has_id_wikidata: Q41150
 has_goal: '[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]'
 terminus: '[[_Standards/WikiData/WD~Cathedral_of_Santiago_de_Compostela,205136]]'
 different_from: '[[_Standards/WikiData/WD~Way_of_St._James,475699]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Austria,1250609]]'
-  - '[[_Standards/WikiData/WD~ViaJacobi,7924357]]'
-  - '[[_Standards/WikiData/WD~Routes_of_Santiago_de_Compostela_Camino_Francés_and_Routes_of_Northern_Spain,39081159]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Spain,64866310]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Italy,64866323]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Czechia,64866320]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_Netherlands,64866326]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Poland,64866328]]'
-  - '[[_Standards/WikiData/WD~Ways_of_Saint_James_in_France,64866334]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Germany,64866342]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Portugal,64866348]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_United_Kingdom,64866361]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Luxemburg,64866405]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Belgium,64866573]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Slovenia,64866723]]'
-  - '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Hungary,64866724]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Austria,1250609]]'
+- '[[_Standards/WikiData/WD~ViaJacobi,7924357]]'
+- '[[_Standards/WikiData/WD~Routes_of_Santiago_de_Compostela_Camino_Francés_and_Routes_of_Northern_Spain,39081159]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Spain,64866310]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Italy,64866323]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Czechia,64866320]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_Netherlands,64866326]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Poland,64866328]]'
+- '[[_Standards/WikiData/WD~Ways_of_Saint_James_in_France,64866334]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Germany,64866342]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Portugal,64866348]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_the_United_Kingdom,64866361]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Luxemburg,64866405]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Belgium,64866573]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Slovenia,64866723]]'
+- '[[_Standards/WikiData/WD~Way_of_Saint_James_in_Hungary,64866724]]'
 has_use: '[[_Standards/WikiData/WD~pilgrimage,1644573]]'
 instance_of: '[[_Standards/WikiData/WD~trail_system,67179750]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~long_distance_hiking_trail,131415018]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Santiago_de_Compostela,14314]]'
-  - '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
+- '[[_Standards/WikiData/WD~Santiago_de_Compostela,14314]]'
+- '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
 heritage_designation: '[[_Standards/WikiData/WD~Bien_de_Interés_Cultural,23712]]'
 country: '[[_Standards/WikiData/WD~Spain,29]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
@@ -49,8 +111,83 @@ Commons_category: Way of Saint James
 Commons_gallery: Way of St. James
 OpenStreetMap_tag: pilgrimage=camino_de_santiago
 coordinate_location: Point(-8.543888888 42.880561111)
+dv_has_:
+  name_:
+    af: Jakobsweg
+    an: Camín de Sant Chaime
+    ar: طريق شنت ياقب
+    ast: El Camín de Santiago
+    be: Шлях Святога Якава
+    be-tarask: Шлях Сьвятога Якуба
+    bg: Път към Сантяго
+    br: Hent Sant Jakez
+    ca: Camí de Sant Jaume
+    cs: svatojakubská cesta
+    csb: Stegna sw. Jakùba
+    cy: Camino de Santiago
+    da: Jakobsvejen
+    de: Jakobsweg
+    el: Διαδρομή Αγίου Ιακώβου της Κομποστέλα
+    en: Way of Saint James
+    en-gb: Way of Saint James
+    eo: Jakoba Vojo
+    es: Camino de Santiago
+    eu: Donejakue bidea
+    ext: Caminu de Santiagu
+    fa: کامینو د سانتیاگو
+    fi: Pyhän Jaakobin pyhiinvaellusreitti
+    fr: Chemins de Saint-Jacques-de-Compostelle
+    fur: Cjamin di Sant Jacum
+    ga: Camino de Santiago
+    gl: Camiño de Santiago
+    gsw: Jakobswäg
+    he: דרך סנטיאגו
+    hi: सेन्ट जेम्स का मार्ग
+    hr: Put Svetog Jakova
+    hu: Szent Jakab-út
+    hy: Սուրբ Հակոբոսի ճանապարհ
+    ia: Cammino de Santiago
+    id: Camino de Santiago
+    is: Jakobsvegurinn
+    it: Cammino di Santiago di Compostela
+    ja: サンティアゴ・デ・コンポステーラの巡礼路
+    ka: წმინდა იაკობის გზა
+    ko: 산티아고 순례길
+    la: Peregrinatio ad Compostellam
+    lb: Jakobswee
+    lt: Šv. Jokūbo kelias
+    lv: Svētā Jēkaba ceļš
+    mk: Пат на Апостол Јаков
+    ml: കാമിനോ ഡി സാൻറിയാഗോ
+    mt: Pellegrinaġġ ta’ San Ġakbu
+    nah: Santiago ohtli
+    nb: Pilegrimsveien til Santiago de Compostela
+    nl: Pelgrimsroute naar Santiago de Compostella
+    oc: Camin de Sant Jaume
+    pa: ਸੇਂਟ ਜੇਮਜ਼ ਦਾ ਰਾਹ
+    pl: Droga św. Jakuba
+    pnb: سینٹ جیمس دا رستہ
+    pt: Caminhos de Santiago
+    pt-br: Caminhos de Santiago
+    ro: Drumul Sfântului Iacob
+    ru: Путь Святого Иакова
+    sh: Put Svetog Jakova
+    sk: Trasa pútnikov do Santiago de Compostela
+    sl: Jakobova pot
+    sr: Пут за Сантијаго
+    sv: Jakobsleden
+    th: เส้นทางนักบุญยากอบ
+    tr: Camino de Santiago
+    uk: Дорога Святого Якова
+    ur: سینٹ جیمس کا راستہ
+    vi: Đường hành hương Santiago de Compostela
+    wa: Voye a Sint-Djåke-el-Galice
+    war: Aragian pakadto ha St. James
+    wuu: 圣雅各之路
+    yue: 聖地亞哥朝聖之路
+    zh: 聖雅各之路
+    zh-hant: 聖雅各之路
 ---
-
 # [[Way_of_Saint_James]] 
 
 #is_/same_as :: [[WD~Way_of_Saint_James,41150]] 

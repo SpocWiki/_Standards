@@ -1,16 +1,85 @@
 ---
-aliases: 
+aliases:
+- baixa
+- baja
+- Baxa
+- casualty
+- Damnum amissorum militum
+- emberveszteség
+- förlust
+- hildako
+- Korban (orang)
+- Mangsa korban
+- Manntjón
+- taismeach
+- upuri
+- Verlust
+- victime
+- Zayiat
+- ztráta
+- žrtev
+- θύμα πολέμου
+- Байлдааны хохирол
+- Військові втрати
+- ваенныя страты
+- Војни губитак
+- военные потери
+- загуба
+- хәрби юғалтыуҙар
+- Қайта толатын шығындар
+- נפגע
+- تلفات انسانی
+- ضحية
+- 傷亡
+- 死傷者
+- 인적 손실
 has_id_wikidata: Q1056901
 subclass_of:
-  - "[[_Standards/WikiData/WD~victim,1851760]]"
-  - "[[_Standards/WikiData/WD~effects_of_war,3511052]]"
+- '[[_Standards/WikiData/WD~victim,1851760]]'
+- '[[_Standards/WikiData/WD~effects_of_war,3511052]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20german%20member%20of%20Waffen-SS.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/UnknownBritishSoldiers.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20german%20member%20of%20Waffen-SS.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/UnknownBritishSoldiers.JPG
 Commons_category: War casualties
 vocalized_name: חָלָל
+dv_has_:
+  name_:
+    ar: ضحية
+    ast: Baxa
+    ba: хәрби юғалтыуҙар
+    be: ваенныя страты
+    be-tarask: ваенныя страты
+    ca: baixa
+    cs: ztráta
+    de: Verlust
+    el: θύμα πολέμου
+    en: casualty
+    es: baja
+    eu: hildako
+    fa: تلفات انسانی
+    fr: victime
+    ga: taismeach
+    gl: baixa
+    he: נפגע
+    hu: emberveszteség
+    id: Korban (orang)
+    is: Manntjón
+    ja: 死傷者
+    kk: Қайта толатын шығындар
+    ko: 인적 손실
+    la: Damnum amissorum militum
+    lv: upuri
+    mk: загуба
+    mn: Байлдааны хохирол
+    ms: Mangsa korban
+    ru: военные потери
+    sl: žrtev
+    sr: Војни губитак
+    sv: förlust
+    tr: Zayiat
+    uk: Військові втрати
+    zh: 傷亡
 ---
-
 # [[Casualty]] 
 
 #is_/similar_to :: [[../../../../../bio/Medicine/Anatomy/Corpse|Corpse]] 

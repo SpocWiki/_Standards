@@ -1,8 +1,85 @@
 ---
 aliases:
-  - Gene Simmons
-  - Simmons,Gene
+- Gene Simmons
+- Simmons,Gene
+- Τζιν Σίμονς
+- Џин Симонс
+- Џин Симонс (музичар)
+- Джийн Симънс
+- Джин Сіммонс
+- Джин Симмонс
+- Ջին Սիմոնս
+- ג'ין סימונס
+- جن سیمونز
+- جين سيمونس
+- جین سیمنز
+- ジーン・シモンズ
+- 吉恩·西蒙斯
+- 진 시먼스
 has_id_wikidata: Q207197
+dv_has_:
+  name_:
+    af: Gene Simmons
+    ar: جين سيمونس
+    arz: جين سيمونس
+    ast: Gene Simmons
+    azb: جن سیمونز
+    bg: Джийн Симънс
+    ca: Gene Simmons
+    cs: Gene Simmons
+    cy: Gene Simmons
+    da: Gene Simmons
+    dag: Gene Simmons
+    de: Gene Simmons
+    el: Τζιν Σίμονς
+    eml: Gene Simmons
+    en: Gene Simmons
+    en-ca: Gene Simmons
+    en-gb: Gene Simmons
+    es: Gene Simmons
+    eu: Gene Simmons
+    fa: جن سیمونز
+    fi: Gene Simmons
+    fr: Gene Simmons
+    ga: Gene Simmons
+    gl: Gene Simmons
+    he: ג'ין סימונס
+    hr: Gene Simmons
+    hu: Gene Simmons
+    hy: Ջին Սիմոնս
+    id: Gene Simmons
+    is: Gene Simmons
+    it: Gene Simmons
+    ja: ジーン・シモンズ
+    ko: 진 시먼스
+    mk: Џин Симонс
+    ms: Gene Simmons
+    nb: Gene Simmons
+    nl: Gene Simmons
+    nn: Gene Simmons
+    pap: Gene Simmons
+    pl: Gene Simmons
+    pt: Gene Simmons
+    pt-br: Gene Simmons
+    ru: Джин Симмонс
+    sh: Gene Simmons
+    sk: Gene Simmons
+    sl: Gene Simmons
+    sq: Gene Simmons
+    sr: Џин Симонс (музичар)
+    sv: Gene Simmons
+    tr: Gene Simmons
+    uk: Джин Сіммонс
+    ur: جین سیمنز
+    uz: Gene Simmons
+    yo: Gene Simmons
+    zh: 吉恩·西蒙斯
+    zh-cn: 吉恩·西蒙斯
+    zh-hans: 吉恩·西蒙斯
+    zh-hant: 吉恩·西蒙斯
+    zh-hk: 吉恩·西蒙斯
+    zh-sg: 吉恩·西蒙斯
+    zh-tw: 吉恩·西蒙斯
 ---
 #has_/time_/started :: 1949-08-25 
 

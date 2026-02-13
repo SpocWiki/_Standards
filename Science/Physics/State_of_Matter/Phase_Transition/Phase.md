@@ -1,28 +1,175 @@
 ---
 aliases:
+- Agregatno stanje
+- Faas
+- faasi
+- Faaß
+- fas
+- fasa
+- fase
+- Fase (termodinamika)
+- Fase benda
+- fase de la matèria
+- Faza
+- Faza (modda)
+- faza snovi
+- faza termodynamiczna
+- Fazo
+- fazo de materio
+- Fază
+- fazė
+- Fáza
+- fáze
+- fázis
+- gwedd
+- maddenin fazları
+- Pansamantalang kalagayan
+- pasanna damhna
+- pha
+- Phaas
+- phase
+- Siòng
+- Termodinamička faza
+- Termodïnamïkalıq faza
+- Φάση
+- Термодінамічна фаза
+- термодинамічна фаза
+- Термодинамикăлла фаза
+- Термодинамикалық фаза
+- термодинамикон фазæ
+- термодинамическая фаза
+- тэрмадынамічная фаза
+- Фаза
+- פאזה
+- تەرمودىينامىيكالىق فازا
+- حالت
+- طور
+- فاز
+- فاسا
+- ھالەت
+- प्रावस्था
+- फेज
+- দশা
+- நிலை
+- ದ್ರವ್ಯ ಹಂತಗಳು
+- เจลดูดน้ำ
+- 相
+- 相 (物理)
+- 상
 has_id_wikidata: Q104837
-contains: "[[_Standards/WikiData/WD~material,214609]]"
+contains: '[[_Standards/WikiData/WD~material,214609]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~thermodynamic_state,230875]]"
-  - "[[_Standards/WikiData/WD~region_of_space,26713767]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-has_characteristic: "[[_Standards/WikiData/WD~homogeneity,24188499]]"
+- '[[_Standards/WikiData/WD~thermodynamic_state,230875]]'
+- '[[_Standards/WikiData/WD~region_of_space,26713767]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_characteristic: '[[_Standards/WikiData/WD~homogeneity,24188499]]'
 main_Wikidata_property: phase point
 different_from:
-  - "[[_Standards/WikiData/WD~Phase,4555]]"
-  - "[[_Standards/WikiData/WD~state_of_matter,11430]]"
-facet_of: "[[_Standards/WikiData/WD~state_of_matter,11430]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+- '[[_Standards/WikiData/WD~Phase,4555]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
+facet_of: '[[_Standards/WikiData/WD~state_of_matter,11430]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20water%20vapor.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20and%20ice.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20and%20oil.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20water%20vapor.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Water%20and%20ice.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Water%20and%20oil.jpg
 Commons_category: Phase (matter)
 described_at_URL:
-  - https://physics.info/phases/
-  - https://dosits.org/science/advanced-topics/phase/
+- https://physics.info/phases/
+- https://dosits.org/science/advanced-topics/phase/
+dv_has_:
+  name_:
+    af: Fase
+    an: Fase
+    ar: طور
+    as: দশা
+    be: тэрмадынамічная фаза
+    be-tarask: тэрмадынамічная фаза
+    bg: Фаза
+    bho: फेज
+    bn: দশা
+    bs: Agregatno stanje
+    ca: fase de la matèria
+    cs: fáze
+    cv: Термодинамикăлла фаза
+    cy: gwedd
+    da: fase
+    de: Phase
+    el: Φάση
+    en: phase
+    eo: fazo de materio
+    es: fase
+    et: Faas
+    eu: Fase (termodinamika)
+    fa: فاز
+    fi: faasi
+    fr: phase
+    ga: pasanna damhna
+    gl: fase
+    he: פאזה
+    hi: प्रावस्था
+    hr: Termodinamička faza
+    hu: fázis
+    ia: Phase
+    id: Fase benda
+    io: Fazo
+    it: fase
+    ja: 相
+    kk: Термодинамикалық фаза
+    kk-arab: تەرمودىينامىيكالىق فازا
+    kk-cn: تەرمودىينامىيكالىق فازا
+    kk-cyrl: Термодинамикалық фаза
+    kk-kz: Термодинамикалық фаза
+    kk-latn: Termodïnamïkalıq faza
+    kk-tr: Termodïnamïkalıq faza
+    kn: ದ್ರವ್ಯ ಹಂತಗಳು
+    ko: 상
+    ksh: Faaß
+    lt: fazė
+    lzh: 相
+    mk: фаза
+    ms: fasa
+    ms-arab: فاسا
+    nan: Siòng
+    nb: fase
+    nds: Phaas
+    nl: fase
+    nn: fase
+    oc: phase
+    os: термодинамикон фазæ
+    pl: faza termodynamiczna
+    pt: fase
+    ro: Fază
+    ru: термодинамическая фаза
+    rue: Термодінамічна фаза
+    sco: phase
+    sh: Termodinamička faza
+    sk: Fáza
+    sl: faza snovi
+    sr: Фаза
+    sr-ec: Фаза
+    sr-el: Faza
+    sv: fas
+    ta: நிலை
+    th: เจลดูดน้ำ
+    tl: Pansamantalang kalagayan
+    tr: maddenin fazları
+    udm: фаза
+    ug: ھالەت
+    uk: термодинамічна фаза
+    ur: حالت
+    uz: Faza (modda)
+    vi: pha
+    wuu: 相
+    yue: 相 (物理)
+    zh: 相
+    zh-cn: 相
+    zh-hans: 相
+    zh-hant: 相
+    zh-hk: 相
+    zh-sg: 相
+    zh-tw: 相
 ---
-
 # [[Phase]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Phase,104837|WD~Phase,104837]] 

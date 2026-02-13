@@ -1,35 +1,188 @@
 ---
 aliases:
-  - कर्म
-  - kamma
-  - Karma
+- câma
+- Galabso
+- Kalmâ
+- Kama
+- kamma
+- Karma
+- Karma yasası
+- karmo
+- Nghiệp
+- Κάρμα
+- Карма
+- Үүле
+- Կարմա
+- קארמה
+- كارما
+- کارما
+- کرما
+- کرما په هندويزم کې
+- کَرَم
+- करम
+- कर्म
+- कर्मन्
+- কর্ম
+- ਕਰਮ
+- କର୍ମ
+- கர்மா
+- కర్మ
+- ಕರ್ಮ
+- කර්මය
+- กรรม
+- ཀརྨ་
+- ကံ ကံ၏အကျိုး
+- კარმა
+- ካርማ
+- 业
+- 業
+- 업
 has_id_wikidata: Q132196
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from: '[[_Standards/WikiData/WD~Karma,1734014]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~karma_in_Buddhism,2673416]]'
-  - '[[_Standards/WikiData/WD~karma_in_Hinduism,3236645]]'
-  - '[[_Standards/WikiData/WD~karma_in_Jainism,6372679]]'
-  - '[[_Standards/WikiData/WD~Karma_in_Tibetan_Buddhism,18387136]]'
+- '[[_Standards/WikiData/WD~karma_in_Buddhism,2673416]]'
+- '[[_Standards/WikiData/WD~karma_in_Hinduism,3236645]]'
+- '[[_Standards/WikiData/WD~karma_in_Jainism,6372679]]'
+- '[[_Standards/WikiData/WD~Karma_in_Tibetan_Buddhism,18387136]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-  - '[[_Standards/WikiData/WD~triad,29430681]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~triad,29430681]]'
 has_characteristic: '[[_Standards/WikiData/WD~retribution,112073391]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
-  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
-  - '[[_Standards/WikiData/WD~Jainism,9232]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Jainism,9232]]'
 Commons_category: Karma
 IMDb_keyword: karma
 OmegaWiki_Defined_Meaning: 789690
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EndlessKnot3d.svg
 subreddit: instantkarma
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/KARMA.html
+dv_has_:
+  name_:
+    af: Karma
+    anp: कर्म
+    ar: كارما
+    ast: Karma
+    awa: कर्म
+    az: Karma
+    ban: Karma
+    bcl: Karma
+    be: карма
+    be-tarask: карма
+    bg: Карма
+    bho: कर्म
+    bn: কর্ম
+    bo: ཀརྨ་
+    ca: karma
+    ckb: کارما
+    cs: Karma
+    cy: karma
+    da: Karma
+    de: Karma
+    el: Κάρμα
+    en: karma
+    eo: karmo
+    es: karma
+    et: Karma
+    eu: Karma
+    fa: کارما
+    fi: Karma
+    fo: Karma
+    fr: Karma
+    fy: Karma
+    gl: karma
+    gsw: Karma
+    ha: Karma
+    he: קארמה
+    hi: कर्म
+    hif: karma
+    hr: Karma
+    ht: Kama
+    hu: karma
+    hy: Կարմա
+    id: Karma
+    is: Karma
+    it: karma
+    ja: 業
+    jv: Karma
+    ka: კარმა
+    kk: Карма
+    kk-arab: كارما
+    kk-cn: كارما
+    kk-cyrl: Карма
+    kk-kz: Карма
+    kk-latn: Karma
+    kk-tr: Karma
+    kn: ಕರ್ಮ
+    ko: 업
+    ks: کَرَم
+    ky: Карма
+    la: Karma
+    lb: Karma
+    lt: Karma
+    lv: Karma
+    mag: करम
+    mai: कर्म
+    mdf: Карма
+    mk: Карма
+    ms: Karma
+    my: ကံ ကံ၏အကျိုး
+    mzn: کارما
+    nb: karma
+    ne: कर्म
+    new: कर्म
+    nl: Karma
+    nn: karma
+    oc: Karma
+    or: କର୍ମ
+    pa: ਕਰਮ
+    pam: Kalmâ
+    pl: karma
+    ps: کرما په هندويزم کې
+    pt: câma
+    pt-br: câma
+    ro: Karma
+    ru: Карма
+    sa: कर्मन्
+    sco: karma
+    sh: Karma
+    si: කර්මය
+    sk: Karma
+    sl: karma
+    so: Galabso
+    sq: karma
+    sr: Карма
+    sr-ec: Карма
+    sr-el: Karma
+    sv: karma
+    ta: கர்மா
+    te: కర్మ
+    th: กรรม
+    ti: ካርማ
+    tl: karma
+    tr: Karma yasası
+    tt: карма
+    tyv: Үүле
+    uk: Карма
+    ur: کرما
+    uz: Karma
+    vi: Nghiệp
+    war: Karma
+    wuu: 业
+    yue: 業
+    zh: 業
+    zh-cn: 业
+    zh-hans: 业
+    zh-hant: 業
+    zh-hk: 業
+    zh-sg: 业
+    zh-tw: 業
 ---
-
 # [[Karma]] 
 
 #is_/same_as :: [[WD~Karma,132196]] 

@@ -1,53 +1,74 @@
 ---
 aliases:
-  - The Shard
-  - Shard of Glass
-  - Shard London Bridge
-  - London Bridge Tower
-  - Shard,London
+- London Bridge Tower
+- Shard
+- Shard London Bridge
+- Shard of Glass
+- Shard,London
+- The Shard
+- Črepinja
+- Šard
+- Σαρντ
+- Срча
+- Шард
+- מגדל השארד
+- برج شارد
+- برج شارد لندن
+- بورجی شارد
+- دی شارڈ
+- شارڈ
+- शार्ड लण्डन ब्रिज
+- দ্য শার্ড
+- ஷார்டு
+- ദ് ഷാർഡ്
+- เดอะชาร์ด
+- ザ・シャード
+- 碎片大厦
+- 碎片大廈
+- 더 샤드
 has_id_wikidata: Q18536
 officially_opened_by:
-  - "[[_Standards/WikiData/WD~Prince_Andrew,_Duke_of_York,153330]]"
-  - "[[_Standards/WikiData/WD~Hamad_bin_Jassim_bin_Jaber_Al_Thani,57734]]"
+- '[[_Standards/WikiData/WD~Prince_Andrew,_Duke_of_York,153330]]'
+- '[[_Standards/WikiData/WD~Hamad_bin_Jassim_bin_Jaber_Al_Thani,57734]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~composite_material,181790]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
-  - "[[_Standards/WikiData/WD~concrete,22657]]"
+- '[[_Standards/WikiData/WD~composite_material,181790]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
 has_use:
-  - "[[_Standards/WikiData/WD~office,182060]]"
-  - "[[_Standards/WikiData/WD~hotel,27686]]"
-architect: "[[_Standards/WikiData/WD~Renzo_Piano,190148]]"
+- '[[_Standards/WikiData/WD~office,182060]]'
+- '[[_Standards/WikiData/WD~hotel,27686]]'
+architect: '[[_Standards/WikiData/WD~Renzo_Piano,190148]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
-adjacent_building: "[[_Standards/WikiData/WD~London_Bridge_station,801125]]"
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~start_of_construction,27136782]]'
+adjacent_building: '[[_Standards/WikiData/WD~London_Bridge_station,801125]]'
 occupant:
-  - "[[_Standards/WikiData/WD~Shangri_La_Hotels_and_Resorts,837244]]"
-  - "[[_Standards/WikiData/WD~Al_Jazeera_English,4296040]]"
-  - "[[_Standards/WikiData/WD~Duff_&_Phelps,5312314]]"
-  - "[[_Standards/WikiData/WD~Warwick_Business_School,6122154]]"
-  - "[[_Standards/WikiData/WD~The_Office_Group,21178777]]"
-  - "[[_Standards/WikiData/WD~Gallup,65358]]"
+- '[[_Standards/WikiData/WD~Shangri_La_Hotels_and_Resorts,837244]]'
+- '[[_Standards/WikiData/WD~Al_Jazeera_English,4296040]]'
+- '[[_Standards/WikiData/WD~Duff_&_Phelps,5312314]]'
+- '[[_Standards/WikiData/WD~Warwick_Business_School,6122154]]'
+- '[[_Standards/WikiData/WD~The_Office_Group,21178777]]'
+- '[[_Standards/WikiData/WD~Gallup,65358]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~high_tech_architecture,845318]]"
-  - "[[_Standards/WikiData/WD~neo_futurism,17012219]]"
+- '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
+- '[[_Standards/WikiData/WD~neo_futurism,17012219]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~office_building,1021645]]"
-  - "[[_Standards/WikiData/WD~skyscraper,11303]]"
-structural_engineer: "[[_Standards/WikiData/WD~WSP_Global,1333162]]"
-named_after: "[[_Standards/WikiData/WD~shard,1463658]]"
-shape: "[[_Standards/WikiData/WD~pyramid,3358290]]"
+- '[[_Standards/WikiData/WD~office_building,1021645]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303]]'
+structural_engineer: '[[_Standards/WikiData/WD~WSP_Global,1333162]]'
+named_after: '[[_Standards/WikiData/WD~shard,1463658]]'
+shape: '[[_Standards/WikiData/WD~pyramid,3358290]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Southwark,5273898]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-main_building_contractor: "[[_Standards/WikiData/WD~Mace,5284447]]"
-commissioned_by: "[[_Standards/WikiData/WD~Mace,5284447]]"
-owned_by: "[[_Standards/WikiData/WD~Sellar_Property_Group,7448605]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
-located_on_street: "[[_Standards/WikiData/WD~London_Bridge_Street,64620779]]"
-historic_county: "[[_Standards/WikiData/WD~Surrey,67443130]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~Southwark,5273898]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Mace,5284447]]'
+commissioned_by: '[[_Standards/WikiData/WD~Mace,5284447]]'
+owned_by: '[[_Standards/WikiData/WD~Sellar_Property_Group,7448605]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
+located_on_street: '[[_Standards/WikiData/WD~London_Bridge_Street,64620779]]'
+historic_county: '[[_Standards/WikiData/WD~Surrey,67443130]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 capital_cost: 1200000000
 number_of_elevators: 36
 area: 127000
@@ -66,29 +87,98 @@ Instagram_username: theshardlondon
 Facebook_username: TheShardLondon
 X_Twitter_username: TheShardLondon
 date_of_official_opening:
-  - 2012-07-05T00:00:00Z
-  - 2013-02-01T00:00:00Z
+- 2012-07-05T00:00:00Z
+- 2013-02-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[WD~The_Shard,18536]]"
-    - "[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]"
-    - "[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]"
-    - "[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Shard,London.protect|Shard,London.protect]]"
-    - "[[/_private/Earth/Geography/Place/Shard,London.private|Shard,London.private]]"
-    - "[[/_personal/Earth/Geography/Place/Shard,London.personal|Shard,London.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Shard,London.secret|Shard,London.secret]]"
+  - '[[WD~The_Shard,18536]]'
+  - '[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]'
+  - '[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]'
+  - '[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Shard,London.protect|Shard,London.protect]]'
+  - '[[/_private/Earth/Geography/Place/Shard,London.private|Shard,London.private]]'
+  - '[[/_personal/Earth/Geography/Place/Shard,London.personal|Shard,London.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Shard,London.secret|Shard,London.secret]]'
 dv_is_same_as:
-  - "[[WD~The_Shard,18536]]"
-  - "[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]"
-  - "[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]"
-  - "[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Shard,London.protect|Shard,London.protect]]"
-  - "[[/_private/Earth/Geography/Place/Shard,London.private|Shard,London.private]]"
-  - "[[/_personal/Earth/Geography/Place/Shard,London.personal|Shard,London.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Shard,London.secret|Shard,London.secret]]"
+- '[[WD~The_Shard,18536]]'
+- '[[/_Standards/Earth/Geography/Place/Shard,London|Shard,London]]'
+- '[[/_public/Earth/Geography/Place/Shard,London.public|Shard,London.public]]'
+- '[[/_internal/Earth/Geography/Place/Shard,London.internal|Shard,London.internal]]'
+- '[[/_protect/Earth/Geography/Place/Shard,London.protect|Shard,London.protect]]'
+- '[[/_private/Earth/Geography/Place/Shard,London.private|Shard,London.private]]'
+- '[[/_personal/Earth/Geography/Place/Shard,London.personal|Shard,London.personal]]'
+- '[[/_secret/Earth/Geography/Place/Shard,London.secret|Shard,London.secret]]'
+dv_has_:
+  name_:
+    af: The Shard
+    ar: برج شارد
+    arz: برج شارد
+    az: The Shard
+    be: The Shard
+    bn: দ্য শার্ড
+    bs: The Shard
+    ca: The Shard
+    ckb: بورجی شارد
+    cs: The Shard
+    da: The Shard
+    de: The Shard
+    de-ch: The Shard
+    el: Σαρντ
+    en: The Shard
+    en-ca: The Shard
+    en-gb: The Shard
+    eo: Shard London Bridge
+    es: Shard London Bridge
+    et: The Shard
+    eu: Shard London Bridge
+    fa: برج شارد لندن
+    fi: The Shard
+    fr: The Shard
+    he: מגדל השארד
+    hr: The Shard
+    hu: The Shard
+    hy: Shard London Bridge
+    id: The Shard
+    is: The Shard
+    it: Shard London Bridge
+    ja: ザ・シャード
+    ko: 더 샤드
+    lt: The Shard
+    mai: शार्ड लण्डन ब्रिज
+    mk: Срча
+    ml: ദ് ഷാർഡ്
+    ms: The Shard
+    nb: The Shard
+    nl: The Shard
+    oc: The Shard
+    pam: Shard London Bridge
+    pl: Shard London Bridge
+    pnb: دی شارڈ
+    pt: Shard London Bridge
+    pt-br: Shard London Bridge
+    ro: The Shard
+    ru: The Shard
+    sco: The Shard
+    sk: Shard London Bridge
+    sl: Črepinja
+    sr: Шард
+    sr-ec: Шард
+    sr-el: Šard
+    sv: The Shard
+    ta: ஷார்டு
+    th: เดอะชาร์ด
+    tr: The Shard
+    uk: Shard London Bridge
+    ur: شارڈ
+    uz: Shard
+    vi: The Shard
+    wuu: 碎片大厦
+    yue: The Shard
+    zh: 碎片大厦
+    zh-cn: 碎片大厦
+    zh-hans: 碎片大厦
+    zh-hant: 碎片大廈
 ---
-
 # [[Shard,London]]
 
 ![[../../../assets/Pasted image 20250817173659.png]] 

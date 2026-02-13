@@ -1,78 +1,196 @@
 ---
 aliases:
+- buíoc
+- bơ thực vật
+- Margarien
+- Margariin
+- margariini
+- margarin
+- margarina
+- Margarinas
+- margarine
+- margarino
+- margarină
+- margaryna
+- Margarín
+- margarīns
+- Marjarini
+- Marjarîn
+- Marjerin
+- Smjörlíki
+- Μαργαρίνη
+- маргарин
+- маргарын
+- Մարգարին
+- מרגרינה
+- سمن نباتى
+- سمن نباتي
+- مارگارین
+- मार्गरिन
+- मार्जरीन
+- মার্জারিন
+- માર્જરિન
+- ಮಾರ್ಗರೀನ್(ಕೃತಕ ಬೆಣ್ಣೆ)
+- මාජරින්
+- เนยเทียม
+- მარგარინი
+- マーガリン
+- 人造牛油
+- 植物牛油
+- 瑪淇淋
+- 마가린
 has_id_wikidata: Q4287
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Hippolyte_Mège_Mouriès,554521]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Hippolyte_Mège_Mouriès,554521]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 has_use:
-  - "[[_Standards/WikiData/WD~spread,1472481]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+- '[[_Standards/WikiData/WD~spread,1472481]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~fat_spread,1727434]]"
-  - "[[_Standards/WikiData/WD~vegetable_fat,11870297]]"
-  - "[[_Standards/WikiData/WD~margarine_and_similar_edible_fats,27908772]]"
-  - "[[_Standards/WikiData/WD~Margarines,_spreads,_mayonnaise_and_other_fatty_emulsion_products,27918613]]"
-made_from_material: "[[_Standards/WikiData/WD~vegetable_oil,4739805]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-simulates: "[[_Standards/WikiData/WD~butter,34172]]"
+- '[[_Standards/WikiData/WD~fat_spread,1727434]]'
+- '[[_Standards/WikiData/WD~vegetable_fat,11870297]]'
+- '[[_Standards/WikiData/WD~margarine_and_similar_edible_fats,27908772]]'
+- '[[_Standards/WikiData/WD~Margarines,_spreads,_mayonnaise_and_other_fatty_emulsion_products,27918613]]'
+made_from_material: '[[_Standards/WikiData/WD~vegetable_oil,4739805]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+simulates: '[[_Standards/WikiData/WD~butter,34172]]'
 USDA_NDB_number:
-  - "04585"
-  - "04613"
-  - "04668"
-  - "04677"
-  - "04631"
-  - "04695"
-  - "04073"
-  - "04684"
-  - "04611"
-  - "04691"
-  - "04687"
-  - "04620"
-  - "04633"
-  - "04696"
-  - "04627"
-  - "04630"
-  - "04614"
-  - "04600"
-  - "04690"
-  - "04612"
-  - "04626"
-  - "04618"
-  - "04128"
-  - "04610"
-  - "04617"
-  - "04676"
-  - "04692"
-  - "04693"
-  - "04673"
-  - "04674"
-  - "04629"
-  - "04697"
-  - "04675"
-  - "04683"
-  - "04628"
-  - "04634"
-  - "04624"
-  - "04665"
-  - "04694"
-OmegaWiki_Defined_Meaning: "1188599"
+- 04585
+- 04613
+- 04668
+- 04677
+- 04631
+- 04695
+- 04073
+- 04684
+- 04611
+- 04691
+- 04687
+- 04620
+- 04633
+- 04696
+- 04627
+- 04630
+- 04614
+- 04600
+- 04690
+- 04612
+- 04626
+- 04618
+- 04128
+- 04610
+- 04617
+- 04676
+- 04692
+- 04693
+- 04673
+- 04674
+- 04629
+- 04697
+- 04675
+- 04683
+- 04628
+- 04634
+- 04624
+- 04665
+- 04694
+OmegaWiki_Defined_Meaning: 1188599
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Margaryn%20022.jpg
 Commons_category: Margarine
 OKPD2_product_code: 10.42.10.110
 Common_Procurement_Vocabulary_code: 15431100-9
 Iconclass_notation: 41C6711
-Dewey_Decimal_Classification: "664.32"
+Dewey_Decimal_Classification: 664.32
 UMLS_CUI: C0024798
 MeSH_tree_code:
-  - D10.212.302.651
-  - G07.203.300.350.500
-  - G07.203.300.375.650
-  - J02.500.350.500
-  - J02.500.375.650
+- D10.212.302.651
+- G07.203.300.350.500
+- G07.203.300.375.650
+- J02.500.350.500
+- J02.500.375.650
+dv_has_:
+  name_:
+    af: Margarien
+    ar: سمن نباتي
+    arz: سمن نباتى
+    ast: Margarina
+    be: Маргарын
+    be-tarask: маргарын
+    bg: Маргарин
+    bjn: Margarin
+    bn: মার্জারিন
+    ca: margarina
+    cs: Margarín
+    cy: Marjarîn
+    da: margarine
+    de: Margarine
+    el: Μαργαρίνη
+    en: margarine
+    eo: margarino
+    es: margarina
+    et: Margariin
+    eu: Margarina
+    fa: مارگارین
+    fi: margariini
+    fr: margarine
+    fy: margarine
+    ga: buíoc
+    gl: Margarina
+    gu: માર્જરિન
+    he: מרגרינה
+    hi: मार्जरीन
+    hr: Margarin
+    hu: margarin
+    hy: Մարգարին
+    id: margarin
+    io: Margarino
+    is: Smjörlíki
+    it: margarina
+    ja: マーガリン
+    jv: Margarin
+    ka: მარგარინი
+    kk: Маргарин
+    kn: ಮಾರ್ಗರೀನ್(ಕೃತಕ ಬೆಣ್ಣೆ)
+    ko: 마가린
+    lt: Margarinas
+    lv: margarīns
+    mk: Маргарин
+    ms: Marjerin
+    nb: margarin
+    ne: मार्गरिन
+    nl: margarine
+    nn: Margarin
+    oc: margarine
+    pl: margaryna
+    pt: margarina
+    ro: margarină
+    ru: маргарин
+    rue: Маргарин
+    sh: Margarin
+    si: මාජරින්
+    sk: Margarín
+    sl: margarina
+    sq: Margarina
+    sr: маргарин
+    sr-ec: маргарин
+    sr-el: margarin
+    sv: margarin
+    sw: Marjarini
+    tg: Маргарин
+    th: เนยเทียม
+    tl: Margarina
+    tr: margarin
+    tt: маргарин
+    uk: маргарин
+    uz: Margarin
+    vi: bơ thực vật
+    war: Margarina
+    wuu: 瑪淇淋
+    yue: 人造牛油
+    zh: 植物牛油
 ---
-
 # [[Margarine]] 
 
 #is_/same_as :: [[WD~Margarine,4287]] 

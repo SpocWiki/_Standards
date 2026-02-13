@@ -1,8 +1,48 @@
 ---
 aliases:
-  - Wurzelkanal
-  - Root_Canal
-  - Root Canal
+- canal de la racine de la dent
+- canal radicular
+- Canale radicolare
+- Canle radicular
+- fréamhchanáil
+- gyökércsatorna
+- Kanal korena zuba
+- Kanal tedavisi
+- Kin-kńg tī-liâu
+- Kizizi cha jino
+- koreninski kanal
+- kořenový kanálek
+- Leczenie kanałowe
+- Ošetrenie koreňového kanálika
+- raiz
+- raíz dental
+- Rodbehandling
+- Root Canal
+- Root_Canal
+- Rotfylling
+- rotkanal
+- Sustrai-kanal
+- Wortelkanaal
+- Wurzelkanal
+- ριζικό κανάλι
+- Зубний канал
+- карэньневы ход
+- коренски канал
+- корневой канал
+- пиньвыжы
+- Ատամի արմատախողովակ
+- טיפול שורש
+- القناة الجذرية
+- سوراخ دار جڑ
+- کانال ریشه
+- मूल नालिका
+- பல் வேர்க் கால்வாய்
+- 根管
+- 根管治疗术
+- 根管治療術
+- 歯根
+- 牙根
+- 근관
 has_id_wikidata: Q848390
 part_of: '[[_Standards/WikiData/WD~radice,24960869]]'
 subclass_of: '[[_Standards/WikiData/WD~subdivision_of_cavity_of_tooth,66545293]]'
@@ -12,8 +52,54 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/root_canal
 MeSH_tree_code: A14.549.167.900.750
 UMLS_CUI: C0040452
 TA98_Latin_term: canalis radicis dentis
+dv_has_:
+  name_:
+    af: Wortelkanaal
+    ar: القناة الجذرية
+    be-tarask: карэньневы ход
+    ca: canal radicular
+    cs: kořenový kanálek
+    da: Rodbehandling
+    de: Wurzelkanal
+    el: ριζικό κανάλι
+    en: root canal
+    es: raíz dental
+    eu: Sustrai-kanal
+    fa: کانال ریشه
+    fr: canal de la racine de la dent
+    ga: fréamhchanáil
+    gl: Canle radicular
+    he: טיפול שורש
+    hi: मूल नालिका
+    hu: gyökércsatorna
+    hy: Ատամի արմատախողովակ
+    it: Canale radicolare
+    ja: 歯根
+    ko: 근관
+    mk: коренски канал
+    nan: Kin-kńg tī-liâu
+    nb: Rotfylling
+    nl: wortelkanaal
+    nn: rotkanal
+    pl: Leczenie kanałowe
+    pt: raiz
+    ru: корневой канал
+    sk: Ošetrenie koreňového kanálika
+    sl: koreninski kanal
+    sr: Kanal korena zuba
+    sw: Kizizi cha jino
+    ta: பல் வேர்க் கால்வாய்
+    tr: Kanal tedavisi
+    udm: пиньвыжы
+    uk: Зубний канал
+    ur: سوراخ دار جڑ
+    wuu: 根管
+    yue: 牙根
+    zh: 根管治疗术
+    zh-hans: 根管治疗术
+    zh-hant: 根管治療術
+    zh-hk: 根管治療術
 ---
-
 # [[Root_Canal]] 
 
 #is_/same_as :: [[WD~Root_canal,848390]] 

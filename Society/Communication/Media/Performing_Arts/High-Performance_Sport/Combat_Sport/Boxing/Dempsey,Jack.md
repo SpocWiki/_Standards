@@ -1,23 +1,41 @@
 ---
 aliases:
-  - Jack_Dempsey
-  - Dempsey
-  - William Harrison Dempsey
-  - Jack Dempsey
-  - Kid Blackie
-  - Manassa Mauler
-  - Dempsey,Jack
+- Dempsey
+- Dempsey,Jack
+- Džek Dempsi
+- Jack Dempsey
+- Jack_Dempsey
+- Kid Blackie
+- Manassa Mauler
+- William Harrison Dempsey
+- Τζακ Ντέμπσι
+- Джак Демпси
+- Джек Демпсі
+- Джек Демпси
+- Джэк Дэмпсі
+- Ջեք Դեմփսի
+- ג'ק דמפסי
+- جاك دمبسى
+- جاك دمبسي
+- جک دمسی
+- जैक डेम्पसे
+- ਜੈਕ ਡੈਮਪਸੇ
+- જેક ડેમ્પ્સી
+- แจ็ก เดมป์ซีย์
+- ジャック・デンプシー
+- 杰克·登普西
+- 잭 뎀시
 has_id_wikidata: Q313686
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 occupation:
-  - '[[_Standards/WikiData/WD~military_officer,189290]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~boxer,11338576]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~heavyweight,281678]]'
-  - '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
-  - '[[_Standards/WikiData/WD~boxing,32112]]'
+- '[[_Standards/WikiData/WD~heavyweight,281678]]'
+- '[[_Standards/WikiData/WD~light_heavyweight,1004748]]'
+- '[[_Standards/WikiData/WD~boxing,32112]]'
 spouse: '[[_Standards/WikiData/WD~Estelle_Taylor,439655]]'
 given_name: '[[_Standards/WikiData/WD~Jack,1159009]]'
 different_from: '[[_Standards/WikiData/WD~Nonpareil_Dempsey,1440806]]'
@@ -41,11 +59,64 @@ U_S_National_Archives_Identifier: 10581343
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dempsey%203.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dempsey%20Signature.svg
 ISNI:
-  - 0000000076899797
-  - 0000000368456429
+- 0000000076899797
+- 0000000368456429
 Munzinger_Sport_number: 01000000725
+dv_has_:
+  name_:
+    ar: جاك دمبسي
+    arz: جاك دمبسى
+    ast: Jack Dempsey
+    bcl: Jack Dempsey
+    be: Джэк Дэмпсі
+    be-tarask: Джэк Дэмпсі
+    bg: Джак Демпси
+    ca: Jack Dempsey
+    cs: Jack Dempsey
+    cy: Jack Dempsey
+    da: Jack Dempsey
+    de: Jack Dempsey
+    el: Τζακ Ντέμπσι
+    en: Jack Dempsey
+    es: Jack Dempsey
+    eu: Jack Dempsey
+    fa: جک دمسی
+    fi: Jack Dempsey
+    fr: Jack Dempsey
+    ga: Jack Dempsey
+    gl: Jack Dempsey
+    gu: જેક ડેમ્પ્સી
+    he: ג'ק דמפסי
+    hi: जैक डेम्पसे
+    hu: Jack Dempsey
+    hy: Ջեք Դեմփսի
+    id: Jack Dempsey
+    it: Jack Dempsey
+    ja: ジャック・デンプシー
+    ko: 잭 뎀시
+    mg: Jack Dempsey
+    nb: Jack Dempsey
+    nl: Jack Dempsey
+    nn: Jack Dempsey
+    pa: ਜੈਕ ਡੈਮਪਸੇ
+    pap: Jack Dempsey
+    pl: Jack Dempsey
+    pt: Jack Dempsey
+    pt-br: Jack Dempsey
+    qu: Jack Dempsey
+    ru: Джек Демпси
+    sl: Jack Dempsey
+    sq: Jack Dempsey
+    sr: Džek Dempsi
+    sv: Jack Dempsey
+    th: แจ็ก เดมป์ซีย์
+    tr: Jack Dempsey
+    uk: Джек Демпсі
+    vi: Jack Dempsey
+    war: Jack Dempsey
+    yo: Jack Dempsey
+    zh: 杰克·登普西
 ---
-
 # [[Dempsey,Jack]] 
 
 #is_/same_as :: [[WD~Jack_Dempsey,313686]] 

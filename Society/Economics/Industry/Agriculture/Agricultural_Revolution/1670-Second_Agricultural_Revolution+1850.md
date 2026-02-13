@@ -1,17 +1,37 @@
 ---
 aliases:
-  - Scottish Agricultural Revolution
-  - British Agricultural Revolution
-  - Second Agricultural Revolution
-  - Second_Agricultural_Revolution
+- Brita Agrikultura Revolucio
+- Britaniya qishloq xo‘jaligi inqilobi
+- British Agricultural Revolution
+- Britiske landbrugsrevolution
+- Englannin maatalouden vallankumous
+- Revolución agrícola británica
+- Revolushon Agríkola
+- Revolusi Pertanian Britania
+- Revolução agrícola britânica
+- Scottish Agricultural Revolution
+- Second Agricultural Revolution
+- Second_Agricultural_Revolution
+- Британская аграрная революция
+- Британська аграрна революція
+- מהפכת החקלאות הבריטית
+- الثورة الزراعية البريطانية
+- انقلاب کشاورزی بریتانیا
+- برطانیہ دا زرعی انقلاب
+- ब्रिटेन की कृषि क्रांति
+- ব্রিটিশ কৃষি বিপ্লব
+- ബ്രിട്ടണിലെ കാർഷിക വിപ്ലവം
+- การปฏิวัติเกษตรกรรมในอังกฤษ
+- イギリス農業革命
+- 英國農業革命
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 expiryDate: ''
 has_Template:
-  - Extract~Note~Template
+- Extract~Note~Template
 has_time_started: 2024-06-23
 isDeleted: false
 isReadOnly: false
@@ -25,22 +45,45 @@ publishDate: ''
 TableByName:
   British_Agricultural_Revolution.tsv:
     columns:
-      - Year
-      - Wheat
-      - Rye
-      - Barley
-      - Oats
-      - Peas
-      - '%/Year/Worker'
+    - Year
+    - Wheat
+    - Rye
+    - Barley
+    - Oats
+    - Peas
+    - '%/Year/Worker'
     headings: ''
     align: '|---|--:|:--|:-:|'
 tags:
-  - British
-  - Agricultural
-  - Revolution
+- British
+- Agricultural
+- Revolution
 title: British Agricultural Revolution
 type: private_note
 has_id_wikidata: Q18293488
+dv_has_:
+  name_:
+    ar: الثورة الزراعية البريطانية
+    bn: ব্রিটিশ কৃষি বিপ্লব
+    da: Britiske landbrugsrevolution
+    en: British Agricultural Revolution
+    eo: Brita Agrikultura Revolucio
+    es: Revolución agrícola británica
+    fa: انقلاب کشاورزی بریتانیا
+    fi: Englannin maatalouden vallankumous
+    he: מהפכת החקלאות הבריטית
+    hi: ब्रिटेन की कृषि क्रांति
+    id: Revolusi Pertanian Britania
+    ja: イギリス農業革命
+    ml: ബ്രിട്ടണിലെ കാർഷിക വിപ്ലവം
+    pap: Revolushon Agríkola
+    pnb: برطانیہ دا زرعی انقلاب
+    pt: Revolução agrícola britânica
+    ru: Британская аграрная революция
+    th: การปฏิวัติเกษตรกรรมในอังกฤษ
+    uk: Британська аграрна революція
+    uz: Britaniya qishloq xo‘jaligi inqilobi
+    zh: 英國農業革命
 ---
 # [[1670-Second_Agricultural_Revolution+1850]] 
 

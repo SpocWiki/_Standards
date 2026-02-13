@@ -1,21 +1,104 @@
 ---
 aliases:
+- bibrafono
+- creathafón
+- fibraffon
+- vibrafon
+- Vibrafonas
+- vibrafone
+- vibrafoni
+- Vibrafono
+- vibrafoon
+- Vibraphon
+- vibraphone
+- vibràfon
+- vibráfono
+- vibráfonu
+- Wibrafon
+- βιμπρόφωνο
+- Вібрафон
+- вибрафон
+- ויברפון
+- ميقاع
+- ویبرافون
+- ヴィブラフォン
+- 顫音琴
+- 颤音琴
+- 비브라폰
 has_id_wikidata: Q206987
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-subclass_of: "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-Nomenclature_for_Museum_Cataloging: "10766"
-U_S_National_Archives_Identifier: "10646599"
-Hornbostel_Sachs_classification: "111.222"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+subclass_of: '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+Nomenclature_for_Museum_Cataloging: 10766
+U_S_National_Archives_Identifier: 10646599
+Hornbostel_Sachs_classification: 111.222
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%81%D9%8A%D8%A8%D8%B1%D8%A7%D9%81%D9%88%D9%86.wav
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20Vibes.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vibraphones.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/VIBRAFON.html
 Commons_category: Vibraphones
 Dewey_Decimal_Classification:
-  - "786.843"
-  - "786.84319"
+- 786.843
+- 786.84319
+dv_has_:
+  name_:
+    ar: ميقاع
+    ast: vibráfonu
+    be: Вібрафон
+    be-tarask: вібрафон
+    bg: вибрафон
+    ca: vibràfon
+    cs: vibrafon
+    cy: fibraffon
+    da: vibrafon
+    de: Vibraphon
+    el: βιμπρόφωνο
+    en: vibraphone
+    eo: Vibrafono
+    es: vibráfono
+    et: Vibrafon
+    eu: bibrafono
+    fa: ویبرافون
+    fi: vibrafoni
+    fr: vibraphone
+    ga: creathafón
+    gl: Vibráfono
+    he: ויברפון
+    hr: Vibrafon
+    hu: vibrafon
+    id: Vibrafon
+    it: vibrafono
+    ja: ヴィブラフォン
+    ko: 비브라폰
+    ky: Вибрафон
+    lb: Vibraphon
+    lt: Vibrafonas
+    mk: Вибрафон
+    nb: vibrafon
+    nds: Vibraphon
+    nl: vibrafoon
+    nn: Vibrafon
+    pl: Wibrafon
+    pt: vibrafone
+    ro: vibrafon
+    ru: вибрафон
+    sh: Vibrafon
+    sl: vibrafon
+    sr: вибрафон
+    sr-ec: вибрафон
+    sr-el: Vibrafon
+    sv: vibrafon
+    tr: Vibrafon
+    uk: Вібрафон
+    uz: Vibrafon
+    yue: 顫音琴
+    zh: 颤音琴
+    zh-cn: 颤音琴
+    zh-hans: 颤音琴
+    zh-hant: 顫音琴
+    zh-hk: 顫音琴
+    zh-sg: 颤音琴
+    zh-tw: 顫音琴
 ---
-
 # [[Vibraphone]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Vibraphone,206987|WD~Vibraphone,206987]]  

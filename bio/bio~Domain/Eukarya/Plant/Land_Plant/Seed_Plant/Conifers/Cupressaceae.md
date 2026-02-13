@@ -1,39 +1,94 @@
 ---
 aliases:
+- Cipresacoj
+- cipresfamilie
+- cipresovke
+- ciprešu dzimta
+- ciprusfélék
+- Cupressaceae
+- cupressàcies
+- Cupresáceas
+- cypres-familien
+- Cypresachtign
+- Cypresowe rostliny
+- cypressväxter
+- Cyprusovité
+- cyprysowate
+- cypřišovité
+- Grátviðarætt
+- họ Hoàng đàn
+- Kiparisiniai
+- küpressilised
+- Msanduku
+- Pak-su
+- Servigiller
+- Sipres
+- Sipris yura rikch'aq ayllu
+- sypreassašattut
+- sypressfamilien
+- sypressikasvit
+- Sərvkimilər
+- Tiddiwin (tawacult)
+- Tsüpresenplaanten
+- Zypressengewächse
+- Čempres
+- Κυπαρισσοειδή
+- Кіпарысавыя
+- Кипарис котыр
+- Кипарис тұқымдасы
+- Кипарисові
+- кипарисови
+- Кипарисовые
+- Чемпреси
+- նոճազգիներ
+- ברושיים
+- سرو ٹبر
+- سرو کیمیلر
+- سروية
+- سرويه
+- سرویان
+- कूप्रेसाएसिए
+- วงศ์สนแผง
+- კვიპაროზისებრნი
+- ᎠᏥᎾ
+- ヒノキ科
+- 柏
+- 柏科
+- 측백나무과
 has_id_wikidata: Q146037
 taxon_common_name:
-  - Чемпреси
-  - Cipresfamilie
-  - Кипарисовые
-  - Čempresi
-  - cipresovke
-  - วงศ์สนแผง
-  - Servigiller
-  - Họ Hoàng đàn
-  - 柏科
-  - 柏科
-  - Cypres-familien
-  - Zypressengewächse
-  - Cypress family
-  - Sypressikasvit
-  - Ciprusfélék
-  - ヒノキ科
-  - 측백나무과
-taxonomic_type: "[[_Standards/WikiData/WD~Cupressus,146911]]"
+- Чемпреси
+- Cipresfamilie
+- Кипарисовые
+- Čempresi
+- cipresovke
+- วงศ์สนแผง
+- Servigiller
+- Họ Hoàng đàn
+- 柏科
+- 柏科
+- Cypres-familien
+- Zypressengewächse
+- Cypress family
+- Sypressikasvit
+- Ciprusfélék
+- ヒノキ科
+- 측백나무과
+taxonomic_type: '[[_Standards/WikiData/WD~Cupressus,146911]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Taxodiaceae,632844]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Taxodiaceae,632844]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Pinales,1000370]]"
-  - "[[_Standards/WikiData/WD~Cupressales,5794838]]"
-  - "[[_Standards/WikiData/WD~Coniferae,9849989]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~cedar_wood,5056949]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "18042"
+- '[[_Standards/WikiData/WD~Pinales,1000370]]'
+- '[[_Standards/WikiData/WD~Cupressales,5794838]]'
+- '[[_Standards/WikiData/WD~Coniferae,9849989]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~cedar_wood,5056949]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 18042
 Commons_category: Cupressaceae
 taxon_name: Cupressaceae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Med%20Cypress.jpg
@@ -45,6 +100,102 @@ EPPO_Code: 1CUPF
 MeSH_tree_code: B01.875.800.575.912.625.750
 UMLS_CUI: C0950020
 NBN_System_Key: NBNSYS0000159796
+dv_has_:
+  name_:
+    af: Cupressaceae
+    an: Cupressaceae
+    ar: سروية
+    arz: سرويه
+    ast: Cupressaceae
+    az: Sərvkimilər
+    azb: سرو کیمیلر
+    be: Кіпарысавыя
+    be-tarask: Кіпарысавыя
+    bg: кипарисови
+    bs: Cupressaceae
+    ca: cupressàcies
+    ceb: Cupressaceae
+    chr: ᎠᏥᎾ
+    co: Cupressaceae
+    cs: cypřišovité
+    da: cypres-familien
+    de: Zypressengewächse
+    dsb: Cypresowe rostliny
+    el: Κυπαρισσοειδή
+    en: Cupressaceae
+    eo: Cipresacoj
+    es: Cupressaceae
+    et: küpressilised
+    eu: Cupressaceae
+    ext: Cupressaceae
+    fa: سرویان
+    fi: sypressikasvit
+    fr: Cupressaceae
+    frr: Tsüpresenplaanten
+    ga: Cupressaceae
+    gl: Cupresáceas
+    hak: Pak-su
+    he: ברושיים
+    hi: कूप्रेसाएसिए
+    hr: Čempres
+    hsb: Cypresowe rostliny
+    hu: ciprusfélék
+    hy: նոճազգիներ
+    ia: Cupressaceae
+    id: Cupressaceae
+    ie: Cupressaceae
+    io: Cupressaceae
+    is: Grátviðarætt
+    it: Cupressaceae
+    ja: ヒノキ科
+    ka: კვიპაროზისებრნი
+    kab: Tiddiwin (tawacult)
+    kk: Кипарис тұқымдасы
+    ko: 측백나무과
+    koi: Кипарис котыр
+    la: Cupressaceae
+    lfn: Sipres
+    lt: Kiparisiniai
+    lv: ciprešu dzimta
+    lzh: 柏
+    mk: Чемпреси
+    mul: Cupressaceae
+    nb: sypressfamilien
+    nl: cipresfamilie
+    nn: Sypressfamilien
+    oc: Cupressaceae
+    pl: cyprysowate
+    pnb: سرو ٹبر
+    pt: Cupressaceae
+    pt-br: Cupressaceae
+    qu: Sipris yura rikch'aq ayllu
+    ro: Cupressaceae
+    ru: Кипарисовые
+    sco: Cupressaceae
+    se: sypreassašattut
+    sh: Čempres
+    sk: Cyprusovité
+    sl: cipresovke
+    sq: Cupressaceae
+    sr: Cupressaceae
+    sv: cypressväxter
+    sw: Msanduku
+    th: วงศ์สนแผง
+    tr: Servigiller
+    uk: Кипарисові
+    vi: họ Hoàng đàn
+    vls: Cypresachtign
+    vo: Cupressaceae
+    war: Cupressaceae
+    wuu: 柏科
+    yue: 柏
+    zh: 柏科
+    zh-cn: 柏科
+    zh-hans: 柏科
+    zh-hant: 柏科
+    zh-hk: 柏科
+    zh-sg: 柏科
+    zh-tw: 柏科
 ---
 # [[Cupressaceae]] 
 

@@ -1,42 +1,63 @@
 ---
 aliases:
-  - Robert_Fisk
-  - Fisk,Robert
+- Fisk,Robert
+- Robert Fisk
+- Robertus Fisk
+- Robert_Fisk
+- Ρόμπερτ Φισκ
+- Роберт Фіск
+- Роберт Фиск
+- Робърт Фиск
+- Робэрт Фіск
+- Ռոբերտ Ֆիսկ
+- Ռոպըրդ Ֆիսք
+- רוברט פיסק
+- رابرت فیسک
+- رابرٹ فسک
+- روبرت فيسك
+- राबर्ट फिस्क
+- রবার্ট ফিস্ক
+- ਰਾਬਰਟ ਫਿਸਕ
+- റോബർട്ട് ഫിസ്ക്
+- ロバート・フィスク
+- 员罗柏·费斯克
+- 員羅柏·費斯克
+- 로버트 피스크
 has_id_wikidata: Q310900
 date_of_death: 2020-10-30T00:00:00Z
 occupation:
-  - '[[_Standards/WikiData/WD~war_correspondent,164236]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~war_correspondent,164236]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Maidstone,213180]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
-  - '[[_Standards/WikiData/WD~University_of_Lancaster,262854]]'
-  - '[[_Standards/WikiData/WD~Sutton_Valence_School,7650336]]'
-  - '[[_Standards/WikiData/WD~Yardley_Court,8049286]]'
+- '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
+- '[[_Standards/WikiData/WD~University_of_Lancaster,262854]]'
+- '[[_Standards/WikiData/WD~Sutton_Valence_School,7650336]]'
+- '[[_Standards/WikiData/WD~Yardley_Court,8049286]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Orwell_Prize,836554]]'
-  - '[[_Standards/WikiData/WD~Martha_Gellhorn_Prize_for_Journalism,3427761]]'
-  - '[[_Standards/WikiData/WD~Amnesty_International_UK_Media_Award,4747382]]'
-  - '[[_Standards/WikiData/WD~Foreign_Reporter_of_the_Year,4970137]]'
-  - "[[_Standards/WikiData/WD~Jacob's_Award,6118205]]"
-  - '[[_Standards/WikiData/WD~honorary_doctorate,11415564]]'
-  - '[[_Standards/WikiData/WD~James_Cameron_Memorial_Trust_Award,20745423]]'
-  - '[[_Standards/WikiData/WD~Carey_McWilliams_Award,23723105]]'
-  - '[[_Standards/WikiData/WD~Lannan_Cultural_Freedom_Prize,27021071]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Lancaster_University,28798222]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctors_of_Ghent_University,28814622]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_St_Andrews,40683907]]'
-  - '[[_Standards/WikiData/WD~Premi_Godó_de_Periodisme,42308511]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Trinity_College,_Dublin,59823889]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Kent,101085992]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_the_American_University_of_Beirut,101086261]]'
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Queen's_University_Belfast,101462913]]"
+- '[[_Standards/WikiData/WD~Orwell_Prize,836554]]'
+- '[[_Standards/WikiData/WD~Martha_Gellhorn_Prize_for_Journalism,3427761]]'
+- '[[_Standards/WikiData/WD~Amnesty_International_UK_Media_Award,4747382]]'
+- '[[_Standards/WikiData/WD~Foreign_Reporter_of_the_Year,4970137]]'
+- "[[_Standards/WikiData/WD~Jacob's_Award,6118205]]"
+- '[[_Standards/WikiData/WD~honorary_doctorate,11415564]]'
+- '[[_Standards/WikiData/WD~James_Cameron_Memorial_Trust_Award,20745423]]'
+- '[[_Standards/WikiData/WD~Carey_McWilliams_Award,23723105]]'
+- '[[_Standards/WikiData/WD~Lannan_Cultural_Freedom_Prize,27021071]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Lancaster_University,28798222]]'
+- '[[_Standards/WikiData/WD~Honorary_doctors_of_Ghent_University,28814622]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_St_Andrews,40683907]]'
+- '[[_Standards/WikiData/WD~Premi_Godó_de_Periodisme,42308511]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Trinity_College,_Dublin,59823889]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Kent,101085992]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_American_University_of_Beirut,101086261]]'
+- "[[_Standards/WikiData/WD~honorary_doctor_of_Queen's_University_Belfast,101462913]]"
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Nelofer_Pazira,3874514]]'
-  - '[[_Standards/WikiData/WD~Lara_Marlowe,6488562]]'
+- '[[_Standards/WikiData/WD~Nelofer_Pazira,3874514]]'
+- '[[_Standards/WikiData/WD~Lara_Marlowe,6488562]]'
 given_name: '[[_Standards/WikiData/WD~Robert,4927937]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 member_of: '[[_Standards/WikiData/WD~Lonsdale_College,_Lancaster,6674829]]'
@@ -56,8 +77,74 @@ date_of_birth: 1946-07-12T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Fisk%2C%20Christchurch%2C%202008.jpg
 official_website: http://www.independent.co.uk/opinion/commentators/fisk/
 ISNI: 0000000121417057
+dv_has_:
+  name_:
+    ar: روبرت فيسك
+    arz: روبرت فيسك
+    ast: Robert Fisk
+    be-tarask: Робэрт Фіск
+    bg: Робърт Фиск
+    bn: রবার্ট ফিস্ক
+    ca: Robert Fisk
+    cs: Robert Fisk
+    cy: Robert Fisk
+    da: Robert Fisk
+    de: Robert Fisk
+    el: Ρόμπερτ Φισκ
+    en: Robert Fisk
+    en-ca: Robert Fisk
+    en-gb: Robert Fisk
+    eo: Robert Fisk
+    es: Robert Fisk
+    eu: Robert Fisk
+    fa: رابرت فیسک
+    fi: Robert Fisk
+    fr: Robert Fisk
+    ga: Robert Fisk
+    gl: Robert Fisk
+    he: רוברט פיסק
+    hi: राबर्ट फिस्क
+    hu: Robert Fisk
+    hy: Ռոբերտ Ֆիսկ
+    hyw: Ռոպըրդ Ֆիսք
+    ia: Robert Fisk
+    id: Robert Fisk
+    it: Robert Fisk
+    ja: ロバート・フィスク
+    ko: 로버트 피스크
+    la: Robertus Fisk
+    mg: Robert Fisk
+    ml: റോബർട്ട് ഫിസ്ക്
+    ms: Robert Fisk
+    mul: Robert Fisk
+    nb: Robert Fisk
+    nl: Robert Fisk
+    nn: Robert Fisk
+    pa: ਰਾਬਰਟ ਫਿਸਕ
+    pl: Robert Fisk
+    pt: Robert Fisk
+    pt-br: Robert Fisk
+    ru: Роберт Фиск
+    sh: Robert Fisk
+    sl: Robert Fisk
+    sq: Robert Fisk
+    sr: Robert Fisk
+    sv: Robert Fisk
+    sw: Robert Fisk
+    tr: Robert Fisk
+    uk: Роберт Фіск
+    ur: رابرٹ فسک
+    vi: Robert Fisk
+    war: Robert Fisk
+    yue: 員羅柏·費斯克
+    zh: 員羅柏·費斯克
+    zh-cn: 员罗柏·费斯克
+    zh-hans: 员罗柏·费斯克
+    zh-hant: 員羅柏·費斯克
+    zh-hk: 員羅柏·費斯克
+    zh-sg: 员罗柏·费斯克
+    zh-tw: 員羅柏·費斯克
 ---
-
 # [[Fisk,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Fisk,310900]] 

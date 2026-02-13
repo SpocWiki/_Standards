@@ -1,8 +1,121 @@
 ---
 aliases:
-  - Venture Capital
-  - Venture_Capital
+- arrisku-kapital
+- caipiteal fiontair
+- capital de risc
+- capital de risco
+- capital riesgo
+- capital riesgu
+- capital risc
+- capital risque
+- durfkapitaal
+- Girişim sermayesi
+- Modal teroka
+- modal ventura
+- Risikokapital
+- riska kapitalo
+- riska kapitāls
+- riskikapital
+- riskisijoitus
+- riskkapital
+- rizikos kapitalas
+- rizikový kapitál
+- rizični kapital
+- tvegani kapital
+- Venture Capital
+- venturekapital
+- Venture_Capital
+- vençur kapitalı
+- Waagkapitaal
+- đầu tư mạo hiểm
+- κεφάλαιο επιχειρηματικών συμμετοχών
+- Венчур капитал
+- Венчурлік капитал
+- венчурлы капитал
+- венчурний капітал
+- венчурный капитал
+- винчыр инвистыры
+- пачатковыя ўкладанні
+- пачатковыя ўкладаньні
+- ризичен капитал
+- Рисков капитал
+- Վենչուրային կապիտալ
+- קרן הון סיכון
+- رأس المال الجريء
+- سرمایهگذاری خطرپذیر
+- ভেঞ্ছের ক্যাপিটাল
+- துணிகர மூலதனம்
+- വെൻച്വർ ക്യാപിറ്റൽ
+- ව්යාපාර ප්රාග්ධනය
+- ベンチャーキャピタル
+- 冒險資本
+- 創業投資
+- 风险投资
+- 벤처 캐피털
 has_id_wikidata: Q219409
+dv_has_:
+  name_:
+    af: Waagkapitaal
+    ar: رأس المال الجريء
+    ast: capital riesgu
+    az: vençur kapitalı
+    ba: венчурлы капитал
+    be: пачатковыя ўкладанні
+    be-tarask: пачатковыя ўкладаньні
+    bg: Рисков капитал
+    bn: ভেঞ্ছের ক্যাপিটাল
+    bs: rizični kapital
+    ca: capital risc
+    cs: rizikový kapitál
+    da: venturekapital
+    de: Risikokapital
+    el: κεφάλαιο επιχειρηματικών συμμετοχών
+    en: venture capital
+    eo: riska kapitalo
+    es: capital riesgo
+    et: riskikapital
+    eu: arrisku-kapital
+    fa: سرمایهگذاری خطرپذیر
+    fi: riskisijoitus
+    fr: capital risque
+    ga: caipiteal fiontair
+    he: קרן הון סיכון
+    hr: rizični kapital
+    hy: Վենչուրային կապիտալ
+    id: modal ventura
+    it: venture capital
+    ja: ベンチャーキャピタル
+    kk: Венчурлік капитал
+    ko: 벤처 캐피털
+    lt: rizikos kapitalas
+    lv: riska kapitāls
+    mk: ризичен капитал
+    ml: വെൻച്വർ ക്യാപിറ്റൽ
+    mn: Венчур капитал
+    ms: Modal teroka
+    nb: risikokapital
+    nl: durfkapitaal
+    pl: venture capital
+    pt: capital de risco
+    ro: capital de risc
+    ru: венчурный капитал
+    si: ව්යාපාර ප්රාග්ධනය
+    sk: venture capital
+    sl: tvegani kapital
+    sv: riskkapital
+    ta: துணிகர மூலதனம்
+    tr: Girişim sermayesi
+    tt: винчыр инвистыры
+    uk: венчурний капітал
+    vi: đầu tư mạo hiểm
+    yue: 冒險資本
+    zh: 风险投资
+    zh-cn: 风险投资
+    zh-hans: 风险投资
+    zh-hant: 創業投資
+    zh-hk: 創業投資
+    zh-sg: 风险投资
+    zh-tw: 創業投資
 ---
 One Problem of EarlyBird Venture Capital Investors is the asymmetric Cost Matrix, i.e. 
 - it is much more 'expensive' to overlook an Opportunity 

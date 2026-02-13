@@ -1,8 +1,146 @@
 ---
 has_id_wikidata: Q191747
+dv_has_:
+  name_:
+    ar: وقت فلكي
+    ast: tiempu sidéreo
+    az: ulduz sutkası
+    be-tarask: зорны час
+    bg: звезден ден
+    bho: नाक्षत्र समय
+    bn: নক্ষত্র সময়
+    ca: temps sideri
+    cs: hvězdný čas
+    cy: amser y sêr
+    de: Sternzeit
+    en: sidereal time
+    en-ca: Sidereal time
+    en-gb: Sidereal time
+    eo: sidera tempo
+    es: tiempo sidéreo
+    eu: denbora sideral
+    fa: زمان نجومی
+    fi: tähtiaika
+    fr: temps sidéral
+    gl: tempo sideral
+    he: יממה כוכבית
+    hi: नक्षत्र घड़ी
+    hr: siderički dan
+    hu: sziderikus idő
+    ia: tempore sideral
+    id: waktu sideris
+    ig: oge ihu igwe
+    is: stjörnutími
+    it: tempo siderale
+    ja: 恒星時
+    kk: жұлдыздық уақыт
+    kk-arab: جۇلدىزدىق ۋاقىت
+    kk-cn: جۇلدىزدىق ۋاقىت
+    kk-cyrl: жұлдыздық уақыт
+    kk-kz: жұлдыздық уақыт
+    kk-latn: juldızdıq waqıt
+    kk-tr: juldızdıq waqıt
+    ko: 항성시
+    la: dies sideralis
+    lb: Sideresch Ëmlafzäit
+    lt: žvaigždinis laikas
+    mk: ѕвездено време
+    ml: സൈഡ്റീയൽ ടൈം
+    ms: waktu ikut bintang
+    nb: siderisk tid
+    nl: sterrentijd
+    nn: stjernedøgn
+    oc: jorn sideral
+    pl: czas gwiazdowy
+    pms: temp sideral
+    pt: tempo sideral
+    pt-br: Tempo sideral
+    ro: timp sideral
+    ru: звёздное время
+    sh: sideričko vrijeme
+    sk: hviezdny čas
+    sl: siderski čas
+    sr: звездано време
+    sr-ec: звездано време
+    sr-el: zvezdano vreme
+    sv: stjärntid
+    sw: siku ya nyota
+    th: เวลาดาราคติ
+    tr: yıldız zamanı
+    uk: зоряний час
+    ur: کوکبی وقت
+    vi: thời gian thiên văn
+    yue: 恆星時
+    zh: 恒星时
+    zh-cn: 恒星时
+    zh-hans: 恒星时
+    zh-hant: 恆星時
+    zh-hk: 恆星時
+    zh-sg: 恒星时
+    zh-tw: 恆星時
+aliases:
+- amser y sêr
+- czas gwiazdowy
+- denbora sideral
+- dies sideralis
+- hviezdny čas
+- hvězdný čas
+- jorn sideral
+- juldızdıq waqıt
+- oge ihu igwe
+- sidera tempo
+- sidereal time
+- Sideresch Ëmlafzäit
+- siderisk tid
+- siderički dan
+- sideričko vrijeme
+- siderski čas
+- siku ya nyota
+- Sternzeit
+- sterrentijd
+- stjernedøgn
+- stjärntid
+- stjörnutími
+- sziderikus idő
+- temp sideral
+- tempo sideral
+- tempo siderale
+- tempore sideral
+- temps sideri
+- temps sidéral
+- thời gian thiên văn
+- tiempo sidéreo
+- tiempu sidéreo
+- timp sideral
+- tähtiaika
+- ulduz sutkası
+- waktu ikut bintang
+- waktu sideris
+- yıldız zamanı
+- zvezdano vreme
+- žvaigždinis laikas
+- ѕвездено време
+- жұлдыздық уақыт
+- звёздное время
+- звездано време
+- звезден ден
+- зорны час
+- зоряний час
+- יממה כוכבית
+- جۇلدىزدىق ۋاقىت
+- زمان نجومی
+- وقت فلكي
+- کوکبی وقت
+- नक्षत्र घड़ी
+- नाक्षत्र समय
+- নক্ষত্র সময়
+- സൈഡ്റീയൽ ടൈം
+- เวลาดาราคติ
+- 恆星時
+- 恒星时
+- 恒星時
+- 항성시
 ---
-
-
 # [[Sidereal_Time]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sidereal_time,191747|WD~Sidereal_time,191747]]  

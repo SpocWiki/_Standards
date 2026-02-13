@@ -1,42 +1,176 @@
 ---
 aliases:
-  - Speck
-  - Bacon
+- Bacon
+- bagún
+- Bakon
+- baucon
+- beikon
+- Bejkon
+- bekon
+- bekons
+- cansalada
+- cig moch
+- Daging bakon
+- Domuz pastırması
+- flesk
+- fumaĵita lardo
+- hirugihar
+- Kig-sall
+- La
+- lard fumé
+- Lardo
+- lård
+- Morasikan
+- panceta
+- Peekon
+- pekoni
+- pēkana
+- slanina
+- Speck
+- spek
+- szalonna
+- Thịt muối
+- toucinho
+- touciño
+- šoninė
+- Μπέικον
+- бекон
+- бэкон
+- Сланина
+- Բեկոն
+- קותל חזיר
+- שפעק
+- بیکن
+- قديد الخنزير
+- বেকন
+- ਬੇਕਨ
+- பன்றி இறைச்சி
+- പന്നിയിറച്ചി
+- เบคอน
+- ბეკონი
+- ベーコン
+- 培根
+- 培根肉
+- 烟肉
+- 煙肉
+- 베이컨
 has_id_wikidata: Q11106
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pork,191768]]"
-  - "[[_Standards/WikiData/WD~fatback,5437342]]"
-made_from_material: "[[_Standards/WikiData/WD~pork,191768]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Bacon,6709648]]"
+- '[[_Standards/WikiData/WD~pork,191768]]'
+- '[[_Standards/WikiData/WD~fatback,5437342]]'
+made_from_material: '[[_Standards/WikiData/WD~pork,191768]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bacon,6709648]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-  - "[[_Standards/WikiData/WD~Bacon_task_force,21829503]]"
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~Bacon_task_force,21829503]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~raw_whole_muscle_cut,81621610]]"
-  - "[[_Standards/WikiData/WD~meat,10990]]"
+- '[[_Standards/WikiData/WD~raw_whole_muscle_cut,81621610]]'
+- '[[_Standards/WikiData/WD~meat,10990]]'
 food_energy: 556
 IMDb_keyword: bacon
 hashtag:
-  - bacon
+- bacon
 booru_tag: bacon
 Danbooru_tag: bacon
 U_S_National_Archives_Identifier: 10662831
 OmegaWiki_Defined_Meaning: 859210
 subreddit:
-  - Bacon
+- Bacon
 Commons_gallery: Bacon
 Commons_category: Bacon
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Made20bacon.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003881
 MCN_code:
-  - 0210.12.00
+- 0210.12.00
 Amazon_com_browse_node: 2256164011
 P8189: 987007284500005100
 FoodEx2_code: A022X
-Unicode_character: 🥓
+Unicode_character: "\U0001F953"
+dv_has_:
+  name_:
+    ar: قديد الخنزير
+    ast: Panceta
+    atj: Morasikan
+    be: Бекон
+    be-tarask: бэкон
+    bg: Бекон
+    bn: বেকন
+    br: Kig-sall
+    ca: cansalada
+    cs: slanina
+    cv: Бекон
+    cy: cig moch
+    da: Bacon
+    de: Speck
+    el: Μπέικον
+    en: bacon
+    en-gb: bacon
+    eo: fumaĵita lardo
+    es: panceta
+    et: Peekon
+    eu: hirugihar
+    fa: بیکن
+    fi: pekoni
+    fr: lard fumé
+    ga: bagún
+    gl: touciño
+    he: קותל חזיר
+    hr: Slanina
+    ht: La
+    hu: szalonna
+    hy: Բեկոն
+    id: Bacon
+    io: Lardo
+    is: beikon
+    it: bacon
+    ja: ベーコン
+    jv: Daging bakon
+    ka: ბეკონი
+    kk: Бекон
+    ko: 베이컨
+    lfn: Lardo
+    lt: šoninė
+    lv: bekons
+    mi: pēkana
+    mk: Сланина
+    ml: പന്നിയിറച്ചി
+    mo: Bacon
+    ms: Bakon
+    nb: bacon
+    nl: spek
+    nn: flesk
+    pa: ਬੇਕਨ
+    pl: bekon
+    pt: toucinho
+    ro: bacon
+    ru: бекон
+    sco: baucon
+    sh: Slanina
+    sk: Slanina
+    sl: slanina
+    sm: Bacon
+    sq: Bejkon
+    sr: сланина
+    sr-ec: сланина
+    sv: bacon
+    ta: பன்றி இறைச்சி
+    th: เบคอน
+    tl: Bacon
+    tr: Domuz pastırması
+    uk: бекон
+    ur: بیکن
+    uz: Bekon
+    vi: Thịt muối
+    wa: lård
+    war: Bacon
+    wuu: 烟肉
+    yi: שפעק
+    yue: 煙肉
+    zh: 培根肉
+    zh-hant: 培根肉
+    zh-sg: 培根
 ---
-
 # [[Bacon]] 🥓 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bacon,11106|WD~Bacon,11106]] 

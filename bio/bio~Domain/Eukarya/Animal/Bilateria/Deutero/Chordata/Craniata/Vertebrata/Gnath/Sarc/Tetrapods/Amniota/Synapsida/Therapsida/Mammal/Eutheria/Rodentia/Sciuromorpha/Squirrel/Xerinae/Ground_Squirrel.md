@@ -1,11 +1,35 @@
 ---
 aliases:
-  - Marmotini
-  - Ground squirrels
-  - Ground squirrel
-  - Ground_Squirrel
-  - Ground Squirrel
-  - ground squirrel
+- ardillas terrestres
+- Bajing tanah
+- Dlǫ́ǫ́ʼ dóó Dilchaʼ dóó bikʼéí
+- Echte Erdhörnchen
+- esquilo-terrestre
+- grondeekhoorns
+- Ground squirrel
+- Ground squirrels
+- Ground_Squirrel
+- Grûniikhoarntsjes
+- Jordekorn
+- Marmotini
+- Marmotinio
+- Marmotinos
+- Murkšķi
+- Sóc đất
+- tupai tanah
+- Yer sincapları
+- świstaki
+- бабаки
+- мрмоти
+- מרמיטות
+- سنجاب زمینی
+- مرموطاوية
+- مرموطاويه
+- നിലയണ്ണാൻ
+- မြေရှဉ့်
+- ジリス
+- 地松鼠族
+- 마멋족
 has_id_wikidata: Q389250
 title: Marmotini
 taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
@@ -18,8 +42,68 @@ UMLS_CUI: C1641147
 Commons_category: Marmotini
 taxon_name: Marmotini
 taxon_common_name: ground squirrel
+dv_has_:
+  name_:
+    an: Marmotini
+    ar: مرموطاوية
+    arz: مرموطاويه
+    ast: Marmotini
+    bg: Marmotini
+    ca: Marmotini
+    ceb: Marmotini
+    cs: Marmotini
+    de: Echte Erdhörnchen
+    el: Marmotini
+    en: ground squirrels
+    eo: Marmotinio
+    es: ardillas terrestres
+    eu: Marmotini
+    ext: Marmotini
+    fa: سنجاب زمینی
+    fi: Marmotini
+    fr: Marmotini
+    fy: Grûniikhoarntsjes
+    ga: Marmotini
+    gl: Marmotinos
+    he: מרמיטות
+    hu: Marmotini
+    ia: Marmotini
+    id: Bajing tanah
+    ie: Marmotini
+    io: Marmotini
+    it: Marmotini
+    ja: ジリス
+    ko: 마멋족
+    la: Marmotini
+    lv: Murkšķi
+    mk: мрмоти
+    ml: നിലയണ്ണാൻ
+    ms: tupai tanah
+    mt: Marmotini
+    mul: Marmotini
+    my: မြေရှဉ့်
+    nb: Jordekorn
+    nl: grondeekhoorns
+    nv: Dlǫ́ǫ́ʼ dóó Dilchaʼ dóó bikʼéí
+    oc: Marmotini
+    pl: świstaki
+    pt: esquilo-terrestre
+    pt-br: Marmotini
+    ro: Marmotini
+    ru: Marmotini
+    sl: Marmotini
+    sq: Marmotini
+    sv: Marmotini
+    tr: Yer sincapları
+    uk: бабаки
+    vi: Sóc đất
+    vo: Marmotini
+    war: Marmotini
+    zh: 地松鼠族
+    zh-cn: 地松鼠族
+    zh-hans: 地松鼠族
+    zh-tw: 地松鼠族
 ---
-
 # [[Ground_Squirrel]]  
 
 ![](Ground_Squirrel/Prairie_Dog.jpg)

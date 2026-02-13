@@ -1,8 +1,26 @@
 ---
 has_id_wikidata: Q1645464
+dv_has_:
+  name_:
+    ast: Blinded by the Light
+    de: Blinded by the Light
+    en: Blinded by the Light
+    es: Blinded by the Light
+    fr: Blinded by the Light
+    ga: Blinded by the Light
+    he: Blinded by the Light
+    hr: Blinded by the Light
+    it: Blinded by the Light
+    ja: 光で目もくらみ
+    ko: Blinded by the Light
+    nb: Blinded by the Light
+    nl: Blinded by the Light
+    ru: Blinded by the Light
+    sv: Blinded by the Light
+aliases:
+- Blinded by the Light
+- 光で目もくらみ
 ---
-
-
 # [[Blinded_by_the_Light]] 
 
 

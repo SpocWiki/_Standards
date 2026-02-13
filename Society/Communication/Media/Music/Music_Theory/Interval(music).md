@@ -1,35 +1,144 @@
 ---
 aliases:
+- aralık
+- bitarte
+- hangköz
+- idirchéim
+- interval
+- Interval (musica)
+- Interval (musiqa)
+- interval musical
+- intervalas
+- intervall
+- intervalle
+- intervalli
+- intervallo
+- intervallum
+- intervalo
+- intervało
+- interválla
+- intervāls
+- interwał
+- lat nada
+- Quãng
+- toneinterval
+- tónbil
+- ynterval
+- Διάστημα
+- интервал
+- Интервал (музика)
+- Музикален интервал
+- музичний інтервал
+- музычны інтэрвал
+- Ինտերվալ
+- מרווח
+- بەین
+- فاصله
+- مسافة
+- সুর বিরাম
+- ინტერვალი
+- 音程
+- 음정
 has_id_wikidata: Q189962
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~musical_parameter,1639408]]"
-  - "[[_Standards/WikiData/WD~interval_ratio,6057278]]"
-studied_by: "[[_Standards/WikiData/WD~musicology,164204]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~musical_parameter,1639408]]'
+- '[[_Standards/WikiData/WD~interval_ratio,6057278]]'
+studied_by: '[[_Standards/WikiData/WD~musicology,164204]]'
 different_from:
-  - "[[_Standards/WikiData/WD~interval,185148]]"
-  - "[[_Standards/WikiData/WD~interval,12379015]]"
-part_of: "[[_Standards/WikiData/WD~tonality,192822]]"
+- '[[_Standards/WikiData/WD~interval,185148]]'
+- '[[_Standards/WikiData/WD~interval,12379015]]'
+part_of: '[[_Standards/WikiData/WD~tonality,192822]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Dyad,5318389]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_musical_interval,5625514]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Dyad,5318389]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_musical_interval,5625514]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msub></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>n</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>semitones&#xA0;</mtext></mrow></mrow></msub><mo stretchy="false">=</mo><mn>1</mn><mn>2</mn><mo stretchy="false">&#x22C5;</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msub><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msub></mrow><mrow data-mjx-texclass="ORD"><msub><mi>f</mi><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow></msub></mrow></mfrac></mrow><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Intervalles%20wiki.PNG
 Commons_gallery: Musical intervals
 Commons_category: Musical intervals
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Intervall.ogg
+dv_has_:
+  name_:
+    ar: مسافة
+    be-tarask: музычны інтэрвал
+    bew: lat nada
+    bg: Музикален интервал
+    bn: সুর বিরাম
+    ca: interval musical
+    ckb: بەین
+    cs: interval
+    da: toneinterval
+    de: Intervall
+    el: Διάστημα
+    en: interval
+    eo: intervalo
+    es: intervalo
+    et: intervall
+    eu: bitarte
+    fa: فاصله
+    fi: intervalli
+    fr: intervalle
+    frr: interval
+    fy: ynterval
+    ga: idirchéim
+    gl: intervalo
+    he: מרווח
+    hr: Interval
+    hu: hangköz
+    hy: Ինտերվալ
+    id: interval
+    is: tónbil
+    it: intervallo
+    ja: 音程
+    ka: ინტერვალი
+    ko: 음정
+    ky: Интервал
+    la: intervallum
+    lt: intervalas
+    lv: intervāls
+    mk: интервал
+    nb: intervall
+    nl: interval
+    oc: Interval (musica)
+    pl: interwał
+    pt: intervalo
+    ro: Interval
+    rsk: Интервал (музика)
+    ru: интервал
+    se: interválla
+    sh: Interval
+    sk: Interval
+    sl: interval
+    sms: intervall
+    sr: интервал
+    sr-ec: интервал
+    sr-el: interval
+    sv: intervall
+    tr: aralık
+    uk: музичний інтервал
+    uz: Interval (musiqa)
+    vec: intervało
+    vi: Quãng
+    wuu: 音程
+    yue: 音程
+    zh: 音程
+    zh-cn: 音程
+    zh-hans: 音程
+    zh-hant: 音程
+    zh-hk: 音程
+    zh-sg: 音程
+    zh-tw: 音程
 ---
-
 # [[Interval(music)]] 
 
 #is_/same_as :: [[WD~Interval,189962]] 

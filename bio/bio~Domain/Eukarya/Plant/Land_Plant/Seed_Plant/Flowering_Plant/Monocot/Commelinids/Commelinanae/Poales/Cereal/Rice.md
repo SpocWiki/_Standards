@@ -1,60 +1,485 @@
 ---
 aliases:
-  - Reis
-  - Rice
-  - Oryza
+- aleysi
+- alóós
+- aros
+- arro
+- arroz
+- arrus
+- arròs
+- baas
+- bagas
+- banih
+- bareh
+- bariis
+- beras
+- bhaat
+- Bherrâs
+- Biyas
+- Boras
+- Buas
+- béas
+- bí
+- bürünç
+- ceeb
+- cyia̱ga̱vang
+- diri
+- douri
+- dêu
+- düyü
+- guruch
+- Gúrish
+- gạo
+- haeuxbieg
+- hare
+- hrísgrjón
+- humay
+- ilayisi
+- ineksa
+- lmyun
+- lop
+- lɔ́sɔ
+- malo
+- masu
+- miromin
+- mpunga
+- mui
+- mupunga
+- mɔʋ
+- orez
+- orizi
+- Orysa
+- Oryza
+- osikapa
+- palay
+- pale
+- panay
+- pantun
+- paroy
+- pirinač
+- pirinç
+- píríj
+- raese
+- raihi
+- rais
+- rajs
+- Reis
+- Rice
+- Ries
+- riis
+- riisi
+- rijst
+- ris
+- risat
+- rise
+- risen
+- rismi
+- riso
+- riss
+- risu
+- rixo
+- riz
+- rizo
+- rizs
+- riž
+- riža
+- roo
+- ross
+- roz
+- Rys
+- ryż
+- ryža
+- ryžis
+- Räis
+- rís
+- rîs
+- rýže
+- rīsi
+- rīžā
+- rız
+- Sega
+- shinkafa
+- umuceli
+- umuceri
+- urizu
+- vary
+- vò-é
+- wagas
+- yuku tipus sayun.
+- ìrẹsì
+- ācintli
+- ρύζι
+- биринҷ
+- дуга
+- дуьгуь
+- дөге
+- дөгө
+- күріш
+- күрүч
+- ориз
+- пиринач
+- ппиринж
+- принч
+- прунж
+- пырындз
+- рис
+- рыс
+- тутарга
+- բրինձ
+- אורז
+- רייז
+- أرز
+- بج
+- برنج
+- تۆمُل
+- دویو
+- رز
+- روز
+- چانور
+- چاول
+- چوݪ
+- گۈرۈچ
+- ܪܘܙܐ
+- ހަނޑޫ
+- ߡߊ߬ߟߏ
+- चाउर
+- चावल
+- चॉर
+- जाकि
+- तण्डुलाः
+- तांदूळ
+- धान
+- চাউল
+- চাল
+- ਚੌਲ
+- ચોખા
+- ଚାଉଳ
+- நெல்
+- వరి
+- ಅಕ್ಕಿ
+- അരി
+- වී
+- ข้าว
+- ເຂົ້າຈ້າວ
+- འབྲས།
+- စပါး
+- သြောံ
+- ၶဝ်ႈသၢၼ်
+- ბრინჯი
+- ორზა
+- ሩዝ
+- ᎪᏃᎮᏅ
+- ស្រូវ
+- ᠪᡝᠯᡝ
+- ᱫᱟᱠᱟ
+- Ọrọsi
+- 禾
+- 稻
+- 稻米
+- 米
+- ꍯ
+- 쌀
 has_id_wikidata: Q5090
 carbon_footprint:
-  - 2.6
-  - 3.1
+- 2.6
+- 3.1
 Colon_Classification: J381
 Commons_category: Rice
 Commons_gallery: Rice
 Common_Procurement_Vocabulary_code: 3211300
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
 Dewey_Decimal_Classification:
-  - 633.18
-  - 584.9
-  - 641.3318
-  - 641.6318
-  - 664.725
+- 633.18
+- 584.9
+- 641.3318
+- 641.6318
+- 664.725
 different_from:
-  - "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
-fabrication_method: "[[_Standards/WikiData/WD~growing_of_rice,29584896]]"
+- '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
+fabrication_method: '[[_Standards/WikiData/WD~growing_of_rice,29584896]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~starch,41534]]"
+- '[[_Standards/WikiData/WD~starch,41534]]'
 has_use:
-  - "[[_Standards/WikiData/WD~porridge,186817]]"
-  - "[[_Standards/WikiData/WD~risotto,208105]]"
-  - "[[_Standards/WikiData/WD~Nasi_goreng,510666]]"
+- '[[_Standards/WikiData/WD~porridge,186817]]'
+- '[[_Standards/WikiData/WD~risotto,208105]]'
+- '[[_Standards/WikiData/WD~Nasi_goreng,510666]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/White%2C%20Brown%2C%20Red%20%26%20Wild%20rice.jpg
 natural_product_of_taxon:
-  - "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
-  - "[[_Standards/WikiData/WD~Oryza,690633]]"
+- '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
+- '[[_Standards/WikiData/WD~Oryza,690633]]'
 OmegaWiki_Defined_Meaning: 3236
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9D%E0%A9%8B%E0%A8%A8%E0%A8%BE.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q5090-ar.ogg
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Oryza_sativa,161426]]"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9D%E0%A9%8B%E0%A8%A8%E0%A8%BE.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q5090-ar.ogg
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~caryopsis,506139]]"
-  - "[[_Standards/WikiData/WD~staple_food,736427]]"
-  - "[[_Standards/WikiData/WD~shelf-stable_food,7493597]]"
-  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-Unicode_character: 🍚
+- '[[_Standards/WikiData/WD~caryopsis,506139]]'
+- '[[_Standards/WikiData/WD~staple_food,736427]]'
+- '[[_Standards/WikiData/WD~shelf-stable_food,7493597]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+Unicode_character: "\U0001F35A"
 UNSPSC_Code: 10151701
 U_S_National_Archives_Identifier: 10647207
 water_footprint:
-  - 1673
-  - 2172
+- 1673
+- 2172
+dv_has_:
+  name_:
+    aeb-arab: روز
+    af: Rys
+    am: ሩዝ
+    ami: panay
+    an: roz
+    ang: Orysa
+    ann: Ọrọsi
+    anp: चॉर
+    ar: أرز
+    arc: ܪܘܙܐ
+    ary: روز
+    arz: رز
+    as: চাউল
+    ast: arroz
+    atj: miromin
+    awa: धान
+    az: düyü
+    azb: دویو
+    ba: дөгө
+    ban: baas
+    bar: Reis
+    bbc: Boras
+    bcl: paroy
+    bdr: Buas
+    be: рыс
+    be-tarask: рыс
+    bg: ориз
+    bho: चाउर
+    bjn: banih
+    bm: malo
+    bn: চাল
+    bo: འབྲས།
+    bqi: برنج
+    br: riz
+    bs: riža
+    bxr: тутарга
+    ca: arròs
+    cdo: dêu
+    ce: дуга
+    ch: ineksa
+    chr: ᎪᏃᎮᏅ
+    ckb: برنج
+    co: risu
+    crh: pirinç
+    crh-latn: pirinç
+    crh-ro: píríj
+    cs: rýže
+    csb: riz
+    cv: рис
+    cy: reis
+    da: ris
+    dag: shinkafa
+    de: Reis
+    de-ch: Reis
+    din: lop
+    diq: rız
+    dsb: rajs
+    dtp: wagas
+    dty: धान
+    dv: ހަނޑޫ
+    el: ρύζι
+    eml: rîs
+    en: rice
+    en-ca: rice
+    en-gb: rice
+    eo: rizo
+    es: arroz
+    et: riis
+    eu: arroz
+    fa: برنج
+    fi: riisi
+    fo: rís
+    fr: riz
+    fy: rys
+    ga: rís
+    gag: pirinç
+    gan: 禾
+    gcr: douri
+    gl: arroz
+    glk: بج
+    gn: arro
+    gsw: Riis
+    gu: ચોખા
+    guc: roo
+    ha: shinkafa
+    hak: vò-é
+    he: אורז
+    hi: चावल
+    hif: bhaat
+    hr: riža
+    hsb: rajs
+    ht: diri
+    hu: rizs
+    hy: բրինձ
+    hyw: բրինձ
+    ia: ris
+    id: beras
+    ig: osikapa
+    ii: ꍯ
+    ilo: bagas
+    inh: дуга
+    io: rizo
+    is: hrísgrjón
+    it: riso
+    ja: 米
+    jam: rais
+    jbo: rismi
+    jv: pantun
+    ka: ბრინჯი
+    kaa: Gúrish
+    kbd: прунж
+    kbp: mɔʋ
+    kcg: cyia̱ga̱vang
+    kge: Biyas
+    kk: күріш
+    km: ស្រូវ
+    kn: ಅಕ್ಕಿ
+    ko: 쌀
+    krc: принч
+    ks: تۆمُل
+    ku: riz
+    kus: mui
+    kw: rys
+    ky: күрүч
+    la: oryza
+    lad: arroz
+    lb: Räis
+    lbe: ппиринж
+    lez: дуьгуь
+    lfn: ris
+    li: ries
+    lij: riso
+    lmo: ris
+    ln: lɔ́sɔ
+    lo: ເຂົ້າຈ້າວ
+    lt: ryžis
+    lv: rīsi
+    lzh: 稻
+    mad: Bherrâs
+    mai: धान
+    map-bms: Sega
+    mg: vary
+    mi: raihi
+    min: bareh
+    mk: ориз
+    ml: അരി
+    mn: тутарга
+    mnc: ᠪᡝᠯᡝ
+    mnw: သြောံ
+    mos: Mui
+    mr: तांदूळ
+    ms: beras
+    mt: ross
+    my: စပါး
+    mzn: برنج
+    nah: ācintli
+    nan: bí
+    nb: ris
+    nds: Ries
+    nds-nl: ries
+    ne: धान
+    new: जाकि
+    nl: rijst
+    nn: ris
+    nqo: ߡߊ߬ߟߏ
+    nv: alóós
+    oc: ris
+    or: ଚାଉଳ
+    os: пырындз
+    ota: برنج
+    pa: ਚੌਲ
+    pam: pale
+    pap: aros
+    pih: rais
+    pl: ryż
+    pnb: چوݪ
+    pt: arroz
+    pt-br: arroz
+    qu: arrus
+    rn: umuceri
+    ro: orez
+    roa-tara: rise
+    ru: рис
+    rue: Рис
+    rup: urizu
+    rw: umuceli
+    sa: तण्डुलाः
+    sah: рис
+    sat: ᱫᱟᱠᱟ
+    sco: rice
+    sd: چانور
+    se: risen
+    sgs: rīžā
+    sh: riža
+    shn: ၶဝ်ႈသၢၼ်
+    si: වී
+    sk: ryža
+    sl: riž
+    smn: riisi
+    sms: riss
+    sn: mupunga
+    so: bariis
+    sq: orizi
+    sr: пиринач
+    sr-ec: пиринач
+    sr-el: pirinač
+    srn: aleysi
+    st: raese
+    su: béas
+    sv: ris
+    sw: mpunga
+    szl: ryż
+    szy: yuku tipus sayun.
+    ta: நெல்
+    tay: lmyun
+    te: వరి
+    tet: hare
+    tg: биринҷ
+    th: ข้าว
+    tk: bürünç
+    tl: palay
+    tr: pirinç
+    trv: masu
+    tt: дөге
+    tt-cyrl: дөге
+    udm: рис
+    ug: گۈرۈچ
+    uk: рис
+    ur: چاول
+    uz: guruch
+    vec: rixo
+    vi: gạo
+    vo: risat
+    vro: riis
+    wa: riz
+    war: humay
+    wo: ceeb
+    wuu: 稻
+    xmf: ორზა
+    yi: רייז
+    yo: ìrẹsì
+    yue: 稻米
+    za: haeuxbieg
+    zh: 稻
+    zh-cn: 稻米
+    zh-hans: 稻
+    zh-hant: 稻米
+    zu: ilayisi
 ---
-
 # [[Rice]] 🍚 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Rice,5090|WD~Rice,5090]] 

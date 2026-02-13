@@ -1,8 +1,83 @@
 ---
 has_id_wikidata: Q207703
+dv_has_:
+  name_:
+    ar: الروديو
+    ast: rodeo
+    az: Rodeo
+    ba: Родео
+    be-tarask: радэо
+    bg: Родео
+    bpy: রোডেইও
+    ca: rodeo
+    chr: ᏓᏂᏍᎳᏗᏍᎬ
+    chy: Tôhé'kêsaéve'ho'éamo'eétâhestôtse
+    cs: rodeo
+    cy: Rodeo
+    da: rodeo
+    de: Rodeo
+    el: ροντέο
+    en: rodeo
+    eo: Rodeo
+    es: rodeo estadounidense
+    eu: Rodeo
+    fa: رودیو
+    fi: rodeo
+    fr: rodéo
+    fy: Rodeo
+    ga: róidió
+    gl: rodeo
+    he: רודיאו
+    hr: Rodeo
+    hu: rodeó
+    id: Rodeo
+    it: rodeo
+    ja: ロデオ
+    ko: 로데오
+    lv: Rodeo
+    ms: Rodeo
+    mzn: رودیو
+    nb: rodeo
+    nl: rodeo
+    nn: rodeo
+    pl: Rodeo
+    pt: rodeio
+    ro: Rodeio
+    ru: родео
+    sh: Rodeo
+    sk: Ródeo
+    sr: родео
+    sr-ec: родео
+    sr-el: rodeo
+    sv: rodeo
+    tr: Rodeo
+    uk: родео
+    vep: rodeo
+    vi: rodeo
+    yue: 牧馬騎術
+    zh: 牛仔競技
+aliases:
+- rodeio
+- rodeo
+- rodeo estadounidense
+- rodeó
+- rodéo
+- Ródeo
+- róidió
+- Tôhé'kêsaéve'ho'éamo'eétâhestôtse
+- ροντέο
+- радэо
+- родео
+- רודיאו
+- الروديو
+- رودیو
+- রোডেইও
+- ᏓᏂᏍᎳᏗᏍᎬ
+- ロデオ
+- 牛仔競技
+- 牧馬騎術
+- 로데오
 ---
-
-
 # [[Rodeo]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Rodeo,207703|WD~Rodeo,207703]]  

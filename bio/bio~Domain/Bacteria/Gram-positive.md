@@ -1,8 +1,115 @@
 ---
 has_id_wikidata: Q857288
+dv_has_:
+  name_:
+    ar: إيجابية الغرام
+    be-tarask: грам-пазітыўная
+    bn: গ্রাম পজিটিভ ব্যাকটেরিয়া
+    br: Gram-Ya
+    bs: Gram-pozitivna bakterija
+    ca: Grampositiu
+    cs: grampozitivní bakterie
+    da: Gram-positive bakterier
+    de: grampositiv
+    en: gram-positive bacteria
+    eo: Gram-pozitivaj bakterioj
+    es: bacteria Gram positiva
+    et: Grampositiivsed bakterid
+    eu: Grampositibo
+    fa: باکتری گرم-مثبت
+    fi: Grampositiivinen bakteeri
+    fr: Gram positif
+    ga: baictéir Ghram-dheimhneacha
+    gl: Bacteria Gram-positiva
+    he: חיידקים גראם-חיוביים
+    hi: ग्राम-धनात्मक बैक्टीरिया
+    hr: Gram-pozitivna bakterija
+    hu: Gram-pozitív baktériumok
+    hy: գրամ դրական բակտերիա
+    id: Gram-positif
+    it: batteri Gram-positivi
+    ja: グラム陽性菌
+    jv: Gram-positif
+    kn: ಗ್ರಾಮ್ಧನ ಬ್ಯಾಕ್ಟೀರಿಯ
+    ko: 그람 양성균
+    lo: ເຊື້ອແບັກທີເຣັຍ ແກມບວກ
+    mk: грампозитивни бактерии
+    ml: ഗ്രാം-പൊസിറ്റീവ് ബാക്റ്റീരിയ
+    ms: Gram-positif
+    nb: Gram-positiv bakterie
+    nl: grampositief
+    nn: grampositiv
+    om: baakteeriyaa Giraam-posativii(eeyyentaa)
+    pl: bakterie Gram-dodatnie
+    pt: Bactéria Gram-positiva
+    ro: bacterie Gram-pozitivă
+    ru: грамположительные бактерии
+    sk: grampozitívne baktérie
+    sl: grampozitivna bakterija
+    sr: Gram-pozitivne bakterije
+    sv: Grampositiva bakterier
+    ta: கிராம்-நேர் பாக்டீரியா
+    th: แบคทีเรียกรัมบวก
+    tl: Gram positive
+    tr: Gram-pozitif
+    uk: грам-позитивні бактерії
+    vi: Vi khuẩn Gram dương
+    zh: 革蘭氏陽性菌
+    zh-hans: 革兰氏阳性菌
+    zh-hant: 革蘭氏陽性菌
+    zh-hk: 革蘭氏陽性菌
+aliases:
+- baakteeriyaa Giraam-posativii(eeyyentaa)
+- bacteria Gram positiva
+- Bacteria Gram-positiva
+- bacterie Gram-pozitivă
+- Bactéria Gram-positiva
+- baictéir Ghram-dheimhneacha
+- bakterie Gram-dodatnie
+- batteri Gram-positivi
+- Gram positif
+- Gram positive
+- Gram-positif
+- Gram-positiv bakterie
+- gram-positive bacteria
+- Gram-positive bakterier
+- Gram-pozitif
+- Gram-pozitivaj bakterioj
+- Gram-pozitivna bakterija
+- Gram-pozitivne bakterije
+- Gram-pozitív baktériumok
+- Gram-Ya
+- Grampositibo
+- grampositief
+- Grampositiivinen bakteeri
+- Grampositiivsed bakterid
+- Grampositiu
+- grampositiv
+- Grampositiva bakterier
+- grampozitivna bakterija
+- grampozitivní bakterie
+- grampozitívne baktérie
+- Vi khuẩn Gram dương
+- грам-пазітыўная
+- грам-позитивні бактерії
+- грампозитивни бактерии
+- грамположительные бактерии
+- գրամ դրական բակտերիա
+- חיידקים גראם-חיוביים
+- إيجابية الغرام
+- باکتری گرم-مثبت
+- ग्राम-धनात्मक बैक्टीरिया
+- গ্রাম পজিটিভ ব্যাকটেরিয়া
+- கிராம்-நேர் பாக்டீரியா
+- ಗ್ರಾಮ್ಧನ ಬ್ಯಾಕ್ಟೀರಿಯ
+- ഗ്രാം-പൊസിറ്റീവ് ബാക്റ്റീരിയ
+- แบคทีเรียกรัมบวก
+- ເຊື້ອແບັກທີເຣັຍ ແກມບວກ
+- グラム陽性菌
+- 革兰氏阳性菌
+- 革蘭氏陽性菌
+- 그람 양성균
 ---
-
-
 # [[Gram-positive]] 
 
 #has_/complement :: [[Gram-negative]] 

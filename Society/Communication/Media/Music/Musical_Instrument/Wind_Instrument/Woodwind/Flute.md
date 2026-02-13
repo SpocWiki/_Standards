@@ -1,41 +1,301 @@
 ---
 aliases:
-  - Flöte
-  - Flute
+- Bansuri
+- Chinyenze
+- duiseal
+- ffliwt
+- Filimbi
+- flaut
+- flauta
+- Flauti
+- flauto
+- flavta
+- flawt
+- Flaüt
+- Flaüta
+- Fleit
+- fleita
+- flet
+- Fleyta
+- Fleüt
+- fliúit
+- Floit
+- Floyta
+- fluit
+- Fluta
+- Flute
+- fluto
+- flétna
+- Flòuto
+- flöjt
+- Flöte
+- flööt
+- fløjte
+- fløyte
+- Flûte
+- flüt
+- Flütt
+- Flŏta
+- frauta
+- fuvola
+- huilu
+- Hɩlaɣ
+- kalambua
+- Lulıci
+- Mimby
+- Phín-á
+- pitɛ᷅wtà
+- Plautá
+- plawta
+- Sarolèng
+- Sarune
+- seruling
+- Sibiōl
+- Sirinka
+- Sodina
+- Soitoine
+- suling
+- sáo
+- Talɛwwadt
+- tibia
+- Tlapitzalli
+- Tollgorn
+- Tulali
+- txirula
+- Çîxulk
+- φλάουτο
+- Бишгүүр
+- Бэшхүүр
+- най
+- узьыгумы
+- Флавта
+- флаута
+- флејта
+- флейтæ
+- Флейта
+- Ֆլեյտա
+- חליל צד
+- פלייט
+- بانسري
+- بانسری
+- فلوت
+- فلووت
+- فولوت
+- ونجلی
+- बँसुरी
+- बाँसुरी
+- बांसुरी
+- मुरली
+- বাঁশি
+- বাঁহী
+- ਫ਼ਲੂਟ
+- ବଂଶୀ
+- புல்லாங்குழல்
+- వేణువు
+- ಕೊಳಲು
+- ഓടക്കുഴൽ
+- සංගීත භාණ්ඩ - බටනලාව
+- ฟลูต
+- གླིང་བུ།
+- ပလွေ
+- ပီႇ
+- ფლეიტა
+- ᱛᱤᱨᱤᱭᱟᱹᱣ
+- ọja
+- ‘Ohe kani
+- 笛
+- 笛子
+- 플루트
+- 플류트
 has_id_wikidata: Q11405
 Amazon_com_browse_node:
-  - 11972061
-  - 11969561
+- 11972061
+- 11969561
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flute.ogg
 Colon_Classification: NR;22
 Commons_category: Flutes
 described_at_URL: http://www.mimo-db.eu/HornbostelAndSachs/247
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 earliest_date: -35000
-has_list: "[[_Standards/WikiData/WD~list_of_musical_instruments_by_Hornbostel_Sachs_number__421,5337632]]"
+has_list: '[[_Standards/WikiData/WD~list_of_musical_instruments_by_Hornbostel_Sachs_number__421,5337632]]'
 Hornbostel_Sachs_classification: 421
 Iconclass_notation: 48C7351
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fluiers.jpg
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/FLETA.html
 Nomenclature_for_Museum_Cataloging: 7358
 OmegaWiki_Defined_Meaning: 344824
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20flute.png
 subclass_of:
-  - "[[_Standards/WikiData/WD~wind_instrument,173453]]"
-  - "[[_Standards/WikiData/WD~woodwind_instrument,181247]]"
-Unicode_character: 🪈
-used_by: "[[_Standards/WikiData/WD~flautist,12902372]]"
+- '[[_Standards/WikiData/WD~wind_instrument,173453]]'
+- '[[_Standards/WikiData/WD~woodwind_instrument,181247]]'
+Unicode_character: "\U0001FA88"
+used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
+dv_has_:
+  name_:
+    af: Fluit
+    an: Flauta
+    ar: فلوت
+    arz: فلوت
+    as: বাঁহী
+    ast: flauta
+    az: fleyta
+    azb: فلوت
+    ba: Флейта
+    ban: Suling
+    bbc: Sarune
+    bcl: flute
+    be: флейта
+    be-tarask: флейта
+    bg: флейта
+    bho: बँसुरी
+    bn: বাঁশি
+    bo: གླིང་བུ།
+    br: Fleüt
+    bs: Flauta
+    bxr: Бэшхүүр
+    ca: flauta
+    ckb: فلووت
+    crh: Fleyta
+    crh-latn: Fleyta
+    cs: flétna
+    cy: ffliwt
+    da: fløjte
+    dag: kalambua
+    de: Flöte
+    diq: Lulıci
+    el: φλάουτο
+    eml: Sibiōl
+    en: flute
+    en-ca: Flute
+    en-gb: flute
+    eo: fluto
+    es: flauta
+    et: flööt
+    eu: txirula
+    ext: frauta
+    fa: فلوت
+    fi: huilu
+    fo: Floyta
+    fr: flûte
+    frr: Floit
+    fy: Fluit
+    ga: fliúit
+    gd: duiseal
+    gl: frauta
+    gn: Mimby
+    gor: Tulali
+    gsw: Flöte
+    haw: ‘Ohe kani
+    he: חליל צד
+    hi: बांसुरी
+    hif: Bansuri
+    hr: flauta
+    hu: fuvola
+    hy: Ֆլեյտա
+    ia: Flauta
+    id: suling
+    ig: ọja
+    io: Fluto
+    is: Flauta
+    it: flauto
+    ja: 笛
+    jv: suling
+    ka: ფლეიტა
+    kbp: Hɩlaɣ
+    kk: Флейта
+    kn: ಕೊಳಲು
+    ko: 플루트
+    ko-kp: 플류트
+    ku: Çîxulk
+    kw: Tollgorn
+    ky: Флейта
+    la: tibia
+    lb: Flütt
+    lij: Flòuto
+    lmo: Flaüt
+    lt: fleita
+    lv: flauta
+    lzh: 笛
+    mad: Sarolèng
+    mcn: pitɛ᷅wtà
+    mg: Sodina
+    mk: флејта
+    ml: ഓടക്കുഴൽ
+    mn: Бишгүүр
+    ms: seruling
+    mt: flawt
+    my: ပလွေ
+    mzn: فولوت
+    nah: Tlapitzalli
+    nan: Phín-á
+    nb: fløyte
+    nds: Fleit
+    ne: मुरली
+    new: बाँसुरी
+    nl: fluit
+    nn: fløyte
+    oc: Flaüta
+    or: ବଂଶୀ
+    os: флейтæ
+    pa: ਫ਼ਲੂਟ
+    pl: flet
+    pms: Fluta
+    pnb: ونجلی
+    pt: flauta
+    pt-br: flauta
+    qu: Sirinka
+    ro: flaut
+    ru: флейта
+    rue: Флавта
+    sah: Флейта
+    sat: ᱛᱤᱨᱤᱭᱟᱹᱣ
+    sd: بانسري
+    sh: Flauta
+    shi: Talɛwwadt
+    shn: ပီႇ
+    si: සංගීත භාණ්ඩ - බටනලාව
+    sk: flauta
+    sl: flavta
+    sn: Chinyenze
+    sq: Flauti
+    sr: флаута
+    sr-ec: флаута
+    sr-el: flauta
+    sv: flöjt
+    sw: Filimbi
+    szl: Flŏta
+    ta: புல்லாங்குழல்
+    te: వేణువు
+    tg: най
+    th: ฟลูต
+    tl: plawta
+    tr: flüt
+    tt: флейта
+    udm: узьыгумы
+    uk: флейта
+    ur: بانسری
+    uz: Fleyta
+    vep: Soitoine
+    vi: sáo
+    wa: Flûte
+    war: Plautá
+    wuu: 笛
+    yi: פלייט
+    yue: 笛
+    zh: 笛
+    zh-hant: 笛
+    zh-hk: 笛
+    zh-tw: 笛子
 ---
-
 # [[Flute]] 🪈 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Flute,11405|WD~Flute,11405]] 

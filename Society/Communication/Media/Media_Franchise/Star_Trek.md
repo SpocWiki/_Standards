@@ -1,31 +1,67 @@
 ---
-has_time_started: 1966-09-08 
+has_time_started: 1966-09-08
 aliases:
+- Du hành giữa các vì sao
+- musi Sa Te
+- Star Trek
+- Udhëtimi yjor
+- Uzay Yolu
+- Zvaigžņu ceļš
+- Zvezdne steze
+- Zvjezdane staze
+- Žvaigždžių kelias
+- Σταρ Τρεκ
+- Ѕвездени патеки
+- Звёздный путь
+- Звездане стазе
+- Зорны шлях
+- Зоряний шлях
+- Стар Трек
+- Աստղային ճանապարհ
+- מסע בין כוכבים
+- שטערן רייזע
+- ستار تريك
+- ستار ترێک
+- پیشتازان فضا(استار ترک)
+- स्टार ट्रेक
+- স্টার ট্রেক
+- ਸਟਾਰ ਟ੍ਰੇਕ
+- ஸ்டார் டிரெக்
+- സ്റ്റാർ ട്രെക്ക്
+- สตาร์ เทรค
+- ვარსკვლავური გზა
+- スタートレック
+- 星空奇遇記
+- 星艦奇航記
+- 星艦迷航記
+- 星际旅行
+- 星际迷航
+- 스타 트렉
 has_id_wikidata: Q1092
 YouTube_handle: StarTrekOfficial
 Lemmy_instance_URL: https://startrek.website/
 hashtag:
-  - star trek
-  - StarTrek
-creator: "[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]"
-founded_by: "[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]"
-author: "[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]"
-instance_of: "[[_Standards/WikiData/WD~media_franchise,196600]]"
-different_from: "[[_Standards/WikiData/WD~Star_Trek,344471]]"
-fandom: "[[_Standards/WikiData/WD~Trekkie,1412961]]"
-has_part_s_: "[[_Standards/WikiData/WD~Star_Trek_canon,3500963]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Star_Trek,6134409]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Star_Trek,8209008]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Star_Trek,11756023]]"
-takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Star_Trek_universe,18043309]]"
+- star trek
+- StarTrek
+creator: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
+founded_by: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
+author: '[[_Standards/WikiData/WD~Gene_Roddenberry,191716]]'
+instance_of: '[[_Standards/WikiData/WD~media_franchise,196600]]'
+different_from: '[[_Standards/WikiData/WD~Star_Trek,344471]]'
+fandom: '[[_Standards/WikiData/WD~Trekkie,1412961]]'
+has_part_s_: '[[_Standards/WikiData/WD~Star_Trek_canon,3500963]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Star_Trek,6134409]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Star_Trek,8209008]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Star_Trek,11756023]]'
+takes_place_in_fictional_universe: '[[_Standards/WikiData/WD~Star_Trek_universe,18043309]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Star_Trek_is_,49404247]]"
-  - "[[_Standards/WikiData/WD~The_Cage,20909]]"
-genre: "[[_Standards/WikiData/WD~science_fiction,24925]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Star_Trek_is_,49404247]]'
+- '[[_Standards/WikiData/WD~The_Cage,20909]]'
+genre: '[[_Standards/WikiData/WD~science_fiction,24925]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 170000
-  - 553173
+- 170000
+- 553173
 number_of_episodes: 733
 native_label: Star Trek
 title: Star Trek
@@ -47,15 +83,65 @@ Instagram_username: startrek
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Nimoy%20William%20Shatner%20Star%20Trek%201968.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Star%20Trek.ogg
 Mastodon_instance_URL:
-  - https://friendsofdesoto.social
-  - https://idic.social
-  - https://tenforward.social
+- https://friendsofdesoto.social
+- https://idic.social
+- https://tenforward.social
 official_shop_URL:
-  - https://shop.startrek.com/
-  - https://startrekshop.ca/
-  - https://startrekshop.co.uk/
+- https://shop.startrek.com/
+- https://startrekshop.ca/
+- https://startrekshop.co.uk/
+dv_has_:
+  name_:
+    ar: ستار تريك
+    be: Зорны шлях
+    be-tarask: Зорны шлях
+    bg: Стар Трек
+    bn: স্টার ট্রেক
+    bs: Zvjezdane staze
+    ckb: ستار ترێک
+    el: Σταρ Τρεκ
+    fa: پیشتازان فضا(استار ترک)
+    he: מסע בין כוכבים
+    hi: स्टार ट्रेक
+    hr: Zvjezdane staze
+    hy: Աստղային ճանապարհ
+    ja: スタートレック
+    ka: ვარსკვლავური გზა
+    ko: 스타 트렉
+    lt: Žvaigždžių kelias
+    lv: Zvaigžņu ceļš
+    mk: Ѕвездени патеки
+    ml: സ്റ്റാർ ട്രെക്ക്
+    mr: स्टार ट्रेक
+    mul: Star Trek
+    nan: Star Trek
+    ne: स्टार ट्रेक
+    pa: ਸਟਾਰ ਟ੍ਰੇਕ
+    ru: Звёздный путь
+    sh: Zvjezdane staze
+    skr: ستار تريك
+    sl: Zvezdne steze
+    sq: Udhëtimi yjor
+    sr: Звездане стазе
+    ta: ஸ்டார் டிரெக்
+    th: สตาร์ เทรค
+    tok: musi Sa Te
+    tr: Uzay Yolu
+    uk: Зоряний шлях
+    vi: Du hành giữa các vì sao
+    wuu: 星艦迷航記
+    yi: שטערן רייזע
+    yue: 星空奇遇記
+    zh: 星艦奇航記
+    zh-cn: 星际迷航
+    zh-hans: 星际旅行
+    zh-hant: 星艦奇航記
+    zh-hk: 星空奇遇記
+    zh-mo: 星空奇遇記
+    zh-my: 星际旅行
+    zh-sg: 星际旅行
+    zh-tw: 星艦迷航記
 ---
-
 # [[Star_Trek]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Star_Trek,1092|WD~Star_Trek,1092]]  

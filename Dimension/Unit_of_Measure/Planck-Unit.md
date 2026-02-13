@@ -1,8 +1,117 @@
 ---
 has_id_wikidata: Q468999
+dv_has_:
+  name_:
+    ar: وحدات بلانك
+    arz: وحدات بلانك
+    ast: unidaes de Planck
+    be: планкаўскія адзінкі
+    be-tarask: плянкаўскія адзінкі
+    bg: единици на Планк
+    bs: prirodne jedinice
+    ca: unitats de Planck
+    cs: Planckovy jednotky
+    da: Planck-enheder
+    de: Planck-Einheiten
+    el: μονάδες Πλανκ
+    en: Planck units
+    eo: unuoj de Planck
+    es: unidades de Planck
+    et: Plancki ühikud
+    eu: Plancken unitateak
+    fa: یکاهای طبیعی
+    fi: Planckin yksiköt
+    fr: unités de Planck
+    ga: aonaid Planck
+    he: יחידות פלאנק
+    hi: प्लांक इकाई
+    hu: Planck-egységek
+    hy: Պլանկի միավորներ
+    id: satuan Planck
+    it: unità di misura di Planck
+    ja: プランク単位系
+    ka: პლანკის ერთეულები
+    ko: 플랑크 단위계
+    la: Unitates Planckianae
+    mk: Планкови единици
+    mn: Планкийн нэгж
+    mr: प्लांक एकके
+    nb: Planck-enheter
+    nl: planck-eenheden
+    nn: Planck-einingar
+    pa: ਪਲੈਂਕ ਯੂਨਿਟਾਂ
+    pl: jednostki Plancka
+    pt: unidades de Planck
+    ru: планковские единицы
+    scn: unitati di misura di Planck
+    sh: prirodne jedinice
+    sk: Planckove jednotky
+    sl: Planckov sistem enot
+    sr: природна јединица
+    sr-ec: Природне јединице
+    sr-el: Prirodne jedinice
+    sv: Planckenheter
+    tr: Planck birimleri
+    tt: Plank berämlekläre
+    uk: планківські одиниці
+    uz: tabiiy birliklar tizimi
+    vi: Hệ thống đo lường Planck
+    wuu: 普朗克單位
+    zh: 普朗克單位制
+aliases:
+- aonaid Planck
+- Hệ thống đo lường Planck
+- jednostki Plancka
+- Planck birimleri
+- Planck units
+- planck-eenheden
+- Planck-egységek
+- Planck-Einheiten
+- Planck-einingar
+- Planck-enheder
+- Planck-enheter
+- Plancken unitateak
+- Planckenheter
+- Plancki ühikud
+- Planckin yksiköt
+- Planckov sistem enot
+- Planckove jednotky
+- Planckovy jednotky
+- Plank berämlekläre
+- prirodne jedinice
+- satuan Planck
+- tabiiy birliklar tizimi
+- unidades de Planck
+- unidaes de Planck
+- Unitates Planckianae
+- unitati di misura di Planck
+- unitats de Planck
+- unità di misura di Planck
+- unités de Planck
+- unuoj de Planck
+- μονάδες Πλανκ
+- единици на Планк
+- планківські одиниці
+- планкаўскія адзінкі
+- Планкийн нэгж
+- Планкови единици
+- планковские единицы
+- плянкаўскія адзінкі
+- природна јединица
+- Природне јединице
+- Պլանկի միավորներ
+- יחידות פלאנק
+- وحدات بلانك
+- یکاهای طبیعی
+- प्लांक इकाई
+- प्लांक एकके
+- ਪਲੈਂਕ ਯੂਨਿਟਾਂ
+- პლანკის ერთეულები
+- プランク単位系
+- 普朗克單位
+- 普朗克單位制
+- 플랑크 단위계
 ---
-
-
 # [[Planck-Unit]] 
 
 > In particle physics and physical cosmology, 

@@ -1,8 +1,51 @@
 ---
 aliases:
-  - Verrucomicrobia
+- Verrucomicrobia
+- Verrucomicrobiota
+- جراثيم ثؤلولية
+- 疣微菌门
 title: Verrucomicrobia
 has_id_wikidata: Q25228461
+dv_has_:
+  name_:
+    an: Verrucomicrobiota
+    ar: جراثيم ثؤلولية
+    ast: Verrucomicrobiota
+    bg: Verrucomicrobiota
+    ca: Verrucomicrobiota
+    ceb: Verrucomicrobiota
+    cs: Verrucomicrobiota
+    de: Verrucomicrobiota
+    en: Verrucomicrobiota
+    en-ca: Verrucomicrobiota
+    en-gb: Verrucomicrobiota
+    eo: Verrucomicrobiota
+    es: Verrucomicrobiota
+    eu: Verrucomicrobiota
+    ext: Verrucomicrobiota
+    fi: Verrucomicrobiota
+    fr: Verrucomicrobiota
+    ga: Verrucomicrobiota
+    gl: Verrucomicrobiota
+    ia: Verrucomicrobiota
+    ie: Verrucomicrobiota
+    io: Verrucomicrobiota
+    it: Verrucomicrobiota
+    la: Verrucomicrobiota
+    mul: Verrucomicrobiota
+    nl: Verrucomicrobiota
+    oc: Verrucomicrobiota
+    pl: Verrucomicrobiota
+    pt: Verrucomicrobiota
+    pt-br: Verrucomicrobiota
+    ro: Verrucomicrobiota
+    ru: Verrucomicrobiota
+    sq: Verrucomicrobiota
+    uk: Verrucomicrobiota
+    vi: Verrucomicrobiota
+    vo: Verrucomicrobiota
+    war: Verrucomicrobiota
+    zh: 疣微菌门
 ---
 # [[Verrucomicrobia]] 
 

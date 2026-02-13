@@ -1,12 +1,16 @@
 ---
 aliases:
-  - Auktion
-  - Auction
+- Auction
+- Auktion
+- аукцион
 has_id_wikidata: Q133538823
 instance_of: '[[_Standards/WikiData/WD~game_mechanic,1751513]]'
 subclass_of: '[[_Standards/WikiData/WD~bet,2565881]]'
+dv_has_:
+  name_:
+    en: auction
+    ru: аукцион
 ---
-
 # [[Auction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~auction,133538823|WD~auction,133538823]] 

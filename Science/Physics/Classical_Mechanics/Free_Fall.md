@@ -1,29 +1,166 @@
 ---
 aliases:
-  - Free_fall
-  - Free_Fall
-  - Free Fall
+- Brīvais kritiens
+- caduta libera
+- caiguda lliure
+- Cayida llibre
+- caída libre
+- chute libre
+- Cădere liberă
+- Deneniñ erkin tüswi
+- Det frie fald
+- Erkin gaçma tizlenmesi
+- Erorketa aske
+- Free Fall
+- free faw
+- Free_fall
+- freier Fall
+- Fritt fall
+- Gerak jatuh bebas
+- Jatuh bebas
+- Jismlarning erkin tushishi
+- Laisvasis kritimas
+- libera falo
+- Lutu Galala
+- prosti pad
+- putoamisliike
+- Qispilla urmay
+- queda livre
+- Rënia e lirë
+- Rơi tự do
+- saorthitim
+- Serbest Düşme
+- Slobodni pad
+- Swobodny spadek
+- szabadesés
+- Sərbəst düşmə
+- Vaba langemine
+- Volný pád
+- Voľný pád
+- vrije val
+- Ελεύθερη πτώση
+- Афтиши ҷисм
+- Вільне падіння
+- Вольнае падзенне
+- вольнае падзеньне
+- Дененің еркін түсуі
+- Ирĕклĕн ӳкни
+- Свободно падане
+- свободное падение
+- слободан пад
+- Слободно паѓање
+- ազատ անկում
+- נפילה חופשית
+- داکەوتنی ئازاد
+- دەنەنىڭ ەركىن ٴتۇسۋى
+- سقوط آزاد
+- سقوط حر
+- मुक्त पतन
+- స్వేచ్ఛా పతనం
+- 自由下墜
+- 自由落下
+- 自由落体
+- 自由落體
+- 자유 낙하
 has_id_wikidata: Q140028
 subclass_of:
-  - '[[_Standards/WikiData/WD~uniformly_accelerated_motion,376908]]'
-  - '[[_Standards/WikiData/WD~fall,11620540]]'
+- '[[_Standards/WikiData/WD~uniformly_accelerated_motion,376908]]'
+- '[[_Standards/WikiData/WD~fall,11620540]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mi>g</mi><mi>t</mi></mstyle></mrow></math>
 part_of: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
 has_cause: '[[_Standards/WikiData/WD~gravity,11412]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
 Commons_category: Free fall
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Falling%20ball.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Air%20Force%20Airmen%20from%20the%20720th%20Special%20Tactics%20Group%20out%20of%20Hurlburt%20Field%2C%20Fla.%2C%20jump%20out%20of%20a%20C-130J%20Hercules%20aircraft%20during%20water%20rescue%20training%20above%20Choctawhatchee%20Bay.jpg
+dv_has_:
+  name_:
+    ar: سقوط حر
+    ast: Cayida llibre
+    az: Sərbəst düşmə
+    be: Вольнае падзенне
+    be-tarask: вольнае падзеньне
+    bg: Свободно падане
+    bs: Slobodni pad
+    ca: caiguda lliure
+    ckb: داکەوتنی ئازاد
+    cs: Volný pád
+    cv: Ирĕклĕн ӳкни
+    da: Det frie fald
+    de: freier Fall
+    el: Ελεύθερη πτώση
+    en: free fall
+    en-us: free fall
+    eo: libera falo
+    es: caída libre
+    et: Vaba langemine
+    eu: Erorketa aske
+    fa: سقوط آزاد
+    fi: putoamisliike
+    fj: Lutu Galala
+    fr: chute libre
+    ga: saorthitim
+    gl: caída libre
+    he: נפילה חופשית
+    hi: मुक्त पतन
+    hr: Slobodni pad
+    hu: szabadesés
+    hy: ազատ անկում
+    id: Gerak jatuh bebas
+    it: caduta libera
+    ja: 自由落下
+    kk: Дененің еркін түсуі
+    kk-arab: دەنەنىڭ ەركىن ٴتۇسۋى
+    kk-cn: دەنەنىڭ ەركىن ٴتۇسۋى
+    kk-cyrl: Дененің еркін түсуі
+    kk-kz: Дененің еркін түсуі
+    kk-latn: Deneniñ erkin tüswi
+    kk-tr: Deneniñ erkin tüswi
+    ko: 자유 낙하
+    lt: Laisvasis kritimas
+    lv: Brīvais kritiens
+    mk: Слободно паѓање
+    ms: Jatuh bebas
+    nb: Fritt fall
+    nl: vrije val
+    nn: Fritt fall
+    pl: Swobodny spadek
+    pt: queda livre
+    qu: Qispilla urmay
+    ro: Cădere liberă
+    ru: свободное падение
+    sco: free faw
+    sh: Slobodni pad
+    sk: Voľný pád
+    sl: prosti pad
+    sq: Rënia e lirë
+    sr: слободан пад
+    sv: fritt fall
+    te: స్వేచ్ఛా పతనం
+    tg: Афтиши ҷисм
+    tk: Erkin gaçma tizlenmesi
+    tr: Serbest Düşme
+    uk: Вільне падіння
+    uz: Jismlarning erkin tushishi
+    vi: Rơi tự do
+    wuu: 自由落体
+    yue: 自由下墜
+    zh: 自由落體
+    zh-cn: 自由落体
+    zh-hans: 自由落体
+    zh-hant: 自由落體
+    zh-hk: 自由落體
+    zh-sg: 自由落体
+    zh-tw: 自由落體
 ---
-
 # [[Free_Fall]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Free_fall,140028|WD~Free_fall,140028]] 

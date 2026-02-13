@@ -1,21 +1,161 @@
 ---
 aliases:
+- dejiny hudby
+- dějiny hudby
+- Geschichte der Musik
+- geschiedenis van de muziek
+- Gschicht vo de Musig
+- histoire de la musique
+- historia da música
+- historia de la música
+- historia e muzikës
+- historia muzyki
+- historija muzike
+- historio de muziko
+- historische Musikwissenschaft
+- history o muisic
+- history of music
+- història de la música
+- história da música
+- ischri a myuuzik
+- istoria muzicii
+- istwè di lamizik
+- istòria de la musica
+- lịch sử âm nhạc
+- musiikin historia
+- Musikaren historia
+- musikens historia
+- musikhistorie
+- musikkhistorie
+- muusika ajalugu
+- muzikos istorija
+- müzik tarihi
+- oorsprong van musiek
+- povijest glazbe
+- sajarah musik
+- sejarah musik
+- sejarah muzik
+- storia della musica
+- storia di a musica
+- storia di la mùsica
+- tarihin kiɗa
+- zenetörténet
+- zgodovina glasbe
+- ιστορία της μουσικής
+- історія музики
+- гісторыя музыкі
+- Историја музике
+- история музыки
+- история на музиката
+- музыка тарихы
+- Երաժշտության պատմություն
+- תולדות המוזיקה
+- تاريخ الموسيقى
+- تاریخ موسیقی
+- د موسیقي تاریخ
+- سجاره موزيک
+- مێژووی مۆسیقا
+- संगीत का इतिहास
+- সঙ্গীতের ইতিহাস
+- സംഗീതചരിത്രം
+- සංගීතයේ ඉතිහාසය
+- 音乐历史
+- 音乐史
+- 音楽史
+- 音樂史
+- 音樂歷史
+- 음악의 역사
 has_id_wikidata: Q846047
 part_of:
-  - "[[_Standards/WikiData/WD~musicology,164204]]"
-  - "[[_Standards/WikiData/WD~music_history,10590700]]"
+- '[[_Standards/WikiData/WD~musicology,164204]]'
+- '[[_Standards/WikiData/WD~music_history,10590700]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-studied_by: "[[_Standards/WikiData/WD~music_history,10590700]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~music,638]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+studied_by: '[[_Standards/WikiData/WD~music_history,10590700]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~music,638]]'
 Provenio_UUID: f2e9ea43-80e9-495c-ab38-a9703d46dbf1
 Commons_category: History of music
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Chinese%20instrumentalists.jpg
 IMDb_keyword: music-history
+dv_has_:
+  name_:
+    af: oorsprong van musiek
+    ar: تاريخ الموسيقى
+    ast: historia de la música
+    be: гісторыя музыкі
+    be-tarask: гісторыя музыкі
+    bg: история на музиката
+    bn: সঙ্গীতের ইতিহাস
+    ca: història de la música
+    ckb: مێژووی مۆسیقا
+    co: storia di a musica
+    cs: dějiny hudby
+    da: musikhistorie
+    de: Geschichte der Musik
+    de-ch: historische Musikwissenschaft
+    el: ιστορία της μουσικής
+    en: history of music
+    en-ca: history of music
+    en-gb: history of music
+    eo: historio de muziko
+    es: historia de la música
+    et: muusika ajalugu
+    eu: Musikaren historia
+    fa: تاریخ موسیقی
+    fi: musiikin historia
+    fr: histoire de la musique
+    gan: 音樂史
+    gan-hans: 音乐史
+    gan-hant: 音樂史
+    gcr: istwè di lamizik
+    gl: historia da música
+    gsw: Gschicht vo de Musig
+    ha: tarihin kiɗa
+    he: תולדות המוזיקה
+    hi: संगीत का इतिहास
+    hr: povijest glazbe
+    hu: zenetörténet
+    hy: Երաժշտության պատմություն
+    id: sejarah musik
+    it: storia della musica
+    ja: 音楽史
+    jam: ischri a myuuzik
+    jv: sajarah musik
+    kk: музыка тарихы
+    ko: 음악의 역사
+    lt: muzikos istorija
+    ml: സംഗീതചരിത്രം
+    ms: sejarah muzik
+    ms-arab: سجاره موزيک
+    nb: musikkhistorie
+    nl: geschiedenis van de muziek
+    oc: istòria de la musica
+    pl: historia muzyki
+    ps: د موسیقي تاریخ
+    pt: história da música
+    pt-br: história da música
+    ro: istoria muzicii
+    ru: история музыки
+    scn: storia di la mùsica
+    sco: history o muisic
+    sh: historija muzike
+    si: සංගීතයේ ඉතිහාසය
+    sk: dejiny hudby
+    sl: zgodovina glasbe
+    sq: historia e muzikës
+    sr: Историја музике
+    sv: musikens historia
+    tr: müzik tarihi
+    uk: історія музики
+    vi: lịch sử âm nhạc
+    wuu: 音乐历史
+    zh: 音樂史
+    zh-hans: 音乐历史
+    zh-hant: 音樂史
+    zh-hk: 音樂歷史
 ---
-
 # [[History_of_Music]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_music,846047|WD~History_of_music,846047]] 

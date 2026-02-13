@@ -1,9 +1,133 @@
 ---
 aliases:
-  - Woody Harrelson
-  - Woodrow Tracy Harrelson
-  - Harrelson,Woody
+- Harrelson,Woody
+- Vudi Harelson
+- Vudi Harrelson
+- Vudijs Harelsons
+- Woodrow Tracy Harrelson
+- Woody Harrelson
+- Γούντι Χάρελσον
+- Ўудзі Гарэлсан
+- Вуді Гаррельсон
+- Вудзі Харэльсан
+- Вуди Харелсон
+- Вуди Харрелсон
+- Вуди Харрельсон
+- Вүүди Харрельсон
+- Уди Харелсън
+- Վուդի Հարելսոն
+- וודי הרלסון
+- ودی ھاریلسن
+- وودى هارلسون
+- وودي هارلسون
+- وودی هارلسون
+- ووڈی ہیرلسن
+- উডি হ্যারেলসন
+- วูดดี แฮร์เรลสัน
+- ვუდი ჰარელსონი
+- ウディ・ハレルソン
+- 伍迪·哈里森
+- 伍迪·哈里逊
+- 活地·夏里遜
+- 活地夏里遜
+- 우디 해럴슨
 has_id_wikidata: Q201279
+dv_has_:
+  name_:
+    af: Woody Harrelson
+    an: Woody Harrelson
+    ar: وودي هارلسون
+    ary: وودي هارلسون
+    arz: وودى هارلسون
+    ast: Woody Harrelson
+    az: Vudi Harrelson
+    azb: وودی هارلسون
+    be: Вудзі Харэльсан
+    be-tarask: Ўудзі Гарэлсан
+    bg: Уди Харелсън
+    bn: উডি হ্যারেলসন
+    br: Woody Harrelson
+    bs: Woody Harrelson
+    ca: Woody Harrelson
+    ckb: ودی ھاریلسن
+    co: Woody Harrelson
+    cs: Woody Harrelson
+    cy: Woody Harrelson
+    da: Woody Harrelson
+    de: Woody Harrelson
+    el: Γούντι Χάρελσον
+    en: Woody Harrelson
+    en-ca: Woody Harrelson
+    en-gb: Woody Harrelson
+    eo: Woody Harrelson
+    es: Woody Harrelson
+    et: Woody Harrelson
+    eu: Woody Harrelson
+    fa: وودی هارلسون
+    fi: Woody Harrelson
+    fr: Woody Harrelson
+    ga: Woody Harrelson
+    gl: Woody Harrelson
+    gv: Woody Harrelson
+    he: וודי הרלסון
+    hr: Woody Harrelson
+    hu: Woody Harrelson
+    hy: Վուդի Հարելսոն
+    id: Woody Harrelson
+    ig: Woody Harrelson
+    it: Woody Harrelson
+    ja: ウディ・ハレルソン
+    ka: ვუდი ჰარელსონი
+    kk: Вуди Харрельсон
+    ko: 우디 해럴슨
+    ky: Вуди Харрелсон
+    la: Woody Harrelson
+    lb: Woody Harrelson
+    lt: Woody Harrelson
+    lv: Vudijs Harelsons
+    mk: Вуди Харелсон
+    mn: Вүүди Харрельсон
+    ms: Woody Harrelson
+    mul: Woody Harrelson
+    nb: Woody Harrelson
+    nl: Woody Harrelson
+    nn: Woody Harrelson
+    pap: Woody Harrelson
+    pl: Woody Harrelson
+    pms: Woody Harrelson
+    pt: Woody Harrelson
+    pt-br: Woody Harrelson
+    ro: Woody Harrelson
+    ru: Вуди Харрельсон
+    sco: Woody Harrelson
+    sh: Woody Harrelson
+    sk: Woody Harrelson
+    sl: Woody Harrelson
+    sq: Woody Harrelson
+    sr: Вуди Харелсон
+    sr-ec: Вуди Харелсон
+    sr-el: Vudi Harelson
+    su: Woody Harrelson
+    sv: Woody Harrelson
+    tg: Вуди Харрелсон
+    th: วูดดี แฮร์เรลสัน
+    tl: Woody Harrelson
+    tr: Woody Harrelson
+    uk: Вуді Гаррельсон
+    ur: ووڈی ہیرلسن
+    uz: Woody Harrelson
+    vi: Woody Harrelson
+    wuu: 伍迪·哈里森
+    xmf: ვუდი ჰარელსონი
+    yue: 活地夏里遜
+    zh: 伍迪·哈里森
+    zh-cn: 伍迪·哈里森
+    zh-hans: 伍迪·哈里森
+    zh-hant: 伍迪·哈里森
+    zh-hk: 活地·夏里遜
+    zh-my: 伍迪·哈里逊
+    zh-sg: 伍迪·哈里森
+    zh-tw: 伍迪·哈里森
 ---
 #has_/time_/started :: 1961-07-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -1,34 +1,176 @@
 ---
 aliases:
-  - night-club
-  - night_club
-  - NightClub
-  - is_a_night_club
-  - dance club
-  - Night_Club
-  - Night Club
+- Bahay-aliwan
+- boîte de nuit
+- casa noturna
+- Club
+- club nocturn
+- club nocturno
+- club oíche
+- clwb nos
+- dance club
+- Deverticulum nocturnum
+- diskoteka
+- gece kulübü
+- Gecə klubu
+- hộp đêm
+- is_a_night_club
+- kelab malam
+- klub nocny
+- Klubê şewe
+- Nachtclub
+- Nachtklup
+- nagklub
+- naktinis klubas
+- Naktsklubs
+- natklub
+- nattklubb
+- nichtclub
+- Night Club
+- night-club
+- NightClub
+- night_club
+- noktoklubo
+- noćni klub
+- nočni klub
+- noční klub
+- nočný klub
+- Suhian
+- yökerho
+- éjszakai szórakozóhely
+- ööklubi
+- νυχτερινό κέντρο διασκέδασης
+- нічний клуб
+- начны клуб
+- начны клюб
+- Ноћни клуб
+- ноќен клуб
+- ночной клуб
+- нощен клуб
+- Түүҥҥү клуб
+- Գիշերային ակումբ
+- מועדון לילה
+- باشگاه شبانه
+- كباريه
+- ناد ليلي
+- نايټ کلب
+- کلب مالم
+- یانەی شەوانە
+- नाइट क्लब
+- रोधी घर
+- নৈশক্লাব
+- ਨਾਈਟ ਕਲੱਬ
+- இரவு விடுதி
+- నైట్ క్లబ్
+- നിശാ ക്ലബ്
+- ไนต์คลับ
+- နိုက်ကလပ်
+- ナイトクラブ
+- 夜店
+- 夜总会
+- 夜總會
+- 나이트클럽
 has_id_wikidata: Q622425
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - night_club
+- night_club
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_night_club Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_night_club Class
 type: Type
+dv_has_:
+  name_:
+    af: nagklub
+    ar: ناد ليلي
+    arz: كباريه
+    az: Gecə klubu
+    be: начны клуб
+    be-tarask: начны клюб
+    bew: Suhian
+    bg: нощен клуб
+    bn: নৈশক্লাব
+    ca: club nocturn
+    ckb: یانەی شەوانە
+    cs: noční klub
+    cy: clwb nos
+    da: natklub
+    de: Nachtclub
+    de-ch: Nachtclub
+    diq: Klubê şewe
+    el: νυχτερινό κέντρο διασκέδασης
+    en: nightclub
+    en-ca: nightclub
+    en-gb: nightclub
+    eo: noktoklubo
+    es: club nocturno
+    et: ööklubi
+    eu: diskoteka
+    fa: باشگاه شبانه
+    fi: yökerho
+    fr: boîte de nuit
+    fy: Nachtklup
+    ga: club oíche
+    gl: club nocturno
+    he: מועדון לילה
+    hi: नाइट क्लब
+    hr: noćni klub
+    hu: éjszakai szórakozóhely
+    hy: Գիշերային ակումբ
+    id: kelab malam
+    it: night club
+    ja: ナイトクラブ
+    ko: 나이트클럽
+    la: Deverticulum nocturnum
+    lt: naktinis klubas
+    lv: Naktsklubs
+    mk: ноќен клуб
+    ml: നിശാ ക്ലബ്
+    ms: kelab malam
+    ms-arab: کلب مالم
+    my: နိုက်ကလပ်
+    nb: nattklubb
+    ne: रोधी घर
+    nl: nachtclub
+    nn: nattklubb
+    pa: ਨਾਈਟ ਕਲੱਬ
+    pl: klub nocny
+    ps: نايټ کلب
+    pt: casa noturna
+    ro: Club
+    ru: ночной клуб
+    sah: Түүҥҥү клуб
+    sco: nichtclub
+    sh: Noćni klub
+    sk: nočný klub
+    sl: nočni klub
+    sr: Ноћни клуб
+    sv: nattklubb
+    ta: இரவு விடுதி
+    te: నైట్ క్లబ్
+    th: ไนต์คลับ
+    tl: Bahay-aliwan
+    tr: gece kulübü
+    uk: нічний клуб
+    vi: hộp đêm
+    yue: 夜總會
+    zh: 夜店
+    zh-hans: 夜总会
+    zh-hant: 夜總會
+    zh-hk: 夜總會
+    zh-tw: 夜總會
 ---
-
 # [[Night_Club]] 
 
 #is_/same_as :: [[WD~Night_Club,622425]]

@@ -1,8 +1,90 @@
 ---
 has_id_wikidata: Q181551
+dv_has_:
+  name_:
+    ar: خوارزمية آر إس إيه
+    be-tarask: RSA
+    bg: RSA
+    bn: আরএসএ গুপ্তবিদ্যা
+    bs: RSA
+    ca: RSA
+    cs: RSA
+    da: RSA
+    de: RSA
+    de-ch: RSA-Kryptosystem
+    el: RSA
+    en: RSA
+    en-ca: RSA
+    en-gb: RSA
+    eo: RSA
+    es: RSA
+    et: RSA
+    eu: RSA
+    fa: آراسای
+    fi: RSA
+    fr: Chiffrement RSA
+    gl: RSA
+    he: RSA
+    hr: RSA
+    hu: RSA-eljárás
+    hy: RSA
+    id: RSA
+    is: RSA
+    it: RSA
+    ja: RSA暗号
+    ka: RSA ალგორითმი
+    ko: RSA 암호
+    lmo: RSA
+    lt: RSA
+    lv: RSA šifrēšanas algoritms
+    ml: ആർ.എസ്.എ. അൽഗൊരിതം
+    mn: RSA
+    ms: RSA
+    mul: RSA
+    nb: RSA
+    nl: RSA
+    pl: RSA
+    pt: RSA
+    pt-br: RSA
+    qu: RSA (ukhulli qillqay)
+    ro: RSA
+    ru: RSA
+    sl: RSA
+    sr: RSA
+    sr-ec: РСА
+    sr-el: RSA
+    sv: RSA
+    th: อาร์เอสเอ
+    tr: RSA
+    uk: RSA
+    vi: RSA
+    yue: RSA 密碼系統
+    zh: 李萨阿算法
+    zh-hans: RSA加密演算法
+    zh-hant: RSA加密演算法
+    zh-hk: RSA加密演算法
+    zh-sg: RSA加密演算法
+    zh-tw: RSA加密演算法
+aliases:
+- Chiffrement RSA
+- RSA
+- RSA (ukhulli qillqay)
+- RSA šifrēšanas algoritms
+- RSA ალგორითმი
+- RSA 密碼系統
+- RSA 암호
+- RSA-eljárás
+- RSA-Kryptosystem
+- RSA加密演算法
+- RSA暗号
+- РСА
+- آراسای
+- خوارزمية آر إس إيه
+- আরএসএ গুপ্তবিদ্যা
+- ആർ.എസ്.എ. അൽഗൊരിതം
+- อาร์เอสเอ
+- 李萨阿算法
 ---
-
-
 # [[RSA_Encryption]] 
 
 #is_/same_as :: 

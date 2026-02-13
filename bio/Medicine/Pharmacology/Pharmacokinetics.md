@@ -1,23 +1,131 @@
 ---
 aliases:
+- Dược động học
+- farmacikinetiko
+- farmacocinetica
+- farmacocinetică
+- farmacocinètica
+- Farmacocinética
+- farmacokinetiek
+- Farmacoqinetega
+- farmakokineetika
+- farmakokinetihkka
+- farmakokinetiik
+- farmakokinetiikka
+- farmakokinetik
+- farmakokinetik linear
+- Farmakokinetika
+- farmakokinetikk
+- farmakokinetyka
+- Farmakokinētika
+- farmakozinetika
+- Pharmacocinetica
+- pharmacocinétique
+- pharmacokinetics
+- pharmakokinetic
+- Pharmakokinetik
+- Φαρμακοκινητική
+- фармакакінэтыка
+- фармакокінетика
+- фармакокинетика
+- פרמקוקינטיקה
+- حركية دوائية
+- فارماکوکینتیک
+- फार्माकोकायनेटिक्स
+- ঔষধসঞ্চরণবিজ্ঞান
+- மருந்தியக்கத் தாக்கவியல்
+- เภสัชจลนศาสตร์
+- 药代动力学
+- 药物代谢动力学
+- 薬物動態学
+- 藥代動力學
+- 藥物代謝動力學
+- 약물동태학
 has_id_wikidata: Q323936
 subclass_of:
-  - "[[_Standards/WikiData/WD~pharmacology,128406]]"
-  - "[[_Standards/WikiData/WD~chemical_kinetics,209082]]"
-instance_of: "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-OmegaWiki_Defined_Meaning: "2769"
-Dewey_Decimal_Classification: "615.7"
+- '[[_Standards/WikiData/WD~pharmacology,128406]]'
+- '[[_Standards/WikiData/WD~chemical_kinetics,209082]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+OmegaWiki_Defined_Meaning: 2769
+Dewey_Decimal_Classification: 615.7
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacokinetics.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pharmakokinetik.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacokinetics.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pharmakokinetik.svg
 UMLS_CUI: C0031327
 MeSH_tree_code:
-  - G03.787
-  - G07.690.725
+- G03.787
+- G07.690.725
 GitHub_topic: pharmacokinetics
 Commons_category: Pharmacokinetics
+dv_has_:
+  name_:
+    ar: حركية دوائية
+    ast: Farmacocinética
+    be-tarask: фармакакінэтыка
+    bg: Фармакокинетика
+    bn: ঔষধসঞ্চরণবিজ্ঞান
+    ca: farmacocinètica
+    cs: Farmakokinetika
+    da: farmakokinetik
+    de: Pharmakokinetik
+    de-ch: Pharmakokinetik
+    el: Φαρμακοκινητική
+    en: pharmacokinetics
+    en-ca: Pharmacokinetics
+    en-gb: Pharmacokinetics
+    eo: farmacikinetiko
+    es: farmacocinética
+    et: farmakokineetika
+    eu: farmakozinetika
+    fa: فارماکوکینتیک
+    fi: farmakokinetiikka
+    fr: pharmacocinétique
+    gl: farmacocinética
+    he: פרמקוקינטיקה
+    hr: Farmakokinetika
+    id: farmakokinetik linear
+    it: farmacocinetica
+    ja: 薬物動態学
+    ka: pharmakokinetic
+    ko: 약물동태학
+    ky: Фармакокинетика
+    la: Pharmacocinetica
+    lmo: Farmacoqinetega
+    lt: Farmakokinetika
+    lv: Farmakokinētika
+    mk: Фармакокинетика
+    mr: फार्माकोकायनेटिक्स
+    ms: Farmakokinetik
+    nb: farmakokinetikk
+    nl: farmacokinetiek
+    nn: farmakokinetikk
+    pl: farmakokinetyka
+    pt: farmacocinética
+    pt-br: Farmacocinética
+    ro: farmacocinetică
+    ru: фармакокинетика
+    se: farmakokinetihkka
+    sh: Farmakokinetika
+    sk: Farmakokinetika
+    sl: farmakokinetika
+    smn: farmakokinetiik
+    sms: farmakokinetikk
+    sr: Farmakokinetika
+    sv: farmakokinetik
+    ta: மருந்தியக்கத் தாக்கவியல்
+    th: เภสัชจลนศาสตร์
+    tr: Farmakokinetik
+    uk: фармакокінетика
+    vi: Dược động học
+    yue: 藥物代謝動力學
+    zh: 药物代谢动力学
+    zh-cn: 药物代谢动力学
+    zh-hans: 药物代谢动力学
+    zh-hant: 藥物代謝動力學
+    zh-hk: 藥代動力學
+    zh-sg: 药代动力学
+    zh-tw: 藥代動力學
 ---
-
 # [[Pharmacokinetics]] 
 
 #is_/same_as :: [[WD~Pharmacokinetics,323936]] 

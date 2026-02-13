@@ -1,9 +1,104 @@
 ---
 aliases:
-  - Zack Snyder
-  - Zachary Edward Snyder
-  - Snyder,Zack
+- Snyder,Zack
+- Zachary Edward Snyder
+- Zack Snyder
+- Zack Snyder.
+- Zak Snayder
+- Ζακ Ζνάιντερ
+- Зак Снајдер
+- Зак Снайдер
+- Зак Снайдър
+- Զակ Սնայդեր
+- זאק סניידר
+- زاك سنايدر
+- زاک سنایدەر
+- زک اسنایدر
+- زیک سنائیڈر
+- जेक स्नीडर
+- জ্যাক স্নাইডার
+- சாக் சினைடர்
+- സാക് സ്നൈഡർ
+- แซ็ก สไนเดอร์
+- ზაკ სნაიდერი
+- ザック・スナイダー
+- 查克·史奈德
+- 薩克薛達
+- 錫·史拉達
+- 잭 스나이더
 has_id_wikidata: Q139890
+dv_has_:
+  name_:
+    ar: زاك سنايدر
+    arz: زاك سنايدر
+    ast: Zack Snyder
+    az: Zak Snayder
+    bg: Зак Снайдър
+    bn: জ্যাক স্নাইডার
+    br: Zack Snyder
+    ca: Zack Snyder
+    ceb: Zack Snyder.
+    ckb: زاک سنایدەر
+    cs: Zack Snyder
+    cy: Zack Snyder
+    da: Zack Snyder
+    de: Zack Snyder
+    el: Ζακ Ζνάιντερ
+    en: Zack Snyder
+    eo: Zack Snyder
+    es: Zack Snyder
+    eu: Zack Snyder
+    fa: زک اسنایدر
+    fi: Zack Snyder
+    fr: Zack Snyder
+    ga: Zack Snyder
+    gl: Zack Snyder
+    he: זאק סניידר
+    hi: जेक स्नीडर
+    hu: Zack Snyder
+    hy: Զակ Սնայդեր
+    id: Zack Snyder
+    it: Zack Snyder
+    ja: ザック・スナイダー
+    ka: ზაკ სნაიდერი
+    kk: Зак Снайдер
+    ko: 잭 스나이더
+    mg: Zack Snyder
+    mk: Зак Снајдер
+    ml: സാക് സ്നൈഡർ
+    ms: Zack Snyder
+    mul: Zack Snyder
+    nb: Zack Snyder
+    nl: Zack Snyder
+    nn: Zack Snyder
+    oc: Zack Snyder
+    pag: Zack Snyder
+    pap: Zack Snyder
+    pl: Zack Snyder
+    pnb: زیک سنائیڈر
+    pt: Zack Snyder
+    pt-br: Zack Snyder
+    ro: Zack Snyder
+    ru: Зак Снайдер
+    sh: Zack Snyder
+    sk: Zack Snyder
+    sl: Zack Snyder
+    sq: Zack Snyder
+    sr: Зак Снајдер
+    sv: Zack Snyder
+    ta: சாக் சினைடர்
+    th: แซ็ก สไนเดอร์
+    tr: Zack Snyder
+    uk: Зак Снайдер
+    ur: زیک سنائیڈر
+    vi: Zack Snyder
+    xmf: ზაკ სნაიდერი
+    yue: 薩克薛達
+    zh: 查克·史奈德
+    zh-hant: 查克·史奈德
+    zh-hk: 錫·史拉達
+    zh-my: 查克·史奈德
+    zh-sg: 查克·史奈德
 ---
 #has_/time_/started :: 1966-03-01
 

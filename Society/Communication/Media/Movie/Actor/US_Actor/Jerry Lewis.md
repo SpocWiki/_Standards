@@ -1,9 +1,124 @@
 ---
 aliases:
-  - Joseph Levitch
-  - King of Comedy
-  - Jerry Lewis
+- Džerijs Lūiss
+- Ieremias Lewis
+- Jerry Lewis
+- Joseph Levitch
+- King of Comedy
+- Τζέρι Λιούις
+- Џери Луис
+- Джери Люис
+- Джеррі Льюїс
+- Джерри Льюис
+- Ջերի Լյուիս
+- ג'רי לואיס
+- جری لوئیس
+- جيرى لويس
+- جيري لويس
+- جێری لویز
+- ஜெர்ரி லுவிஸ்
+- ジェリー・ルイス
+- 傑利·路易斯
+- 杰瑞·刘易斯
+- 杰里·刘易斯
+- 谢利·路易
+- 제리 루이스
 has_id_wikidata: Q294927
+dv_has_:
+  name_:
+    ace: Jerry Lewis
+    af: Jerry Lewis
+    an: Jerry Lewis
+    ar: جيري لويس
+    arz: جيرى لويس
+    ast: Jerry Lewis
+    azb: جری لوئیس
+    bar: Jerry Lewis
+    bcl: Jerry Lewis
+    bg: Джери Люис
+    bi: Jerry Lewis
+    br: Jerry Lewis
+    ca: Jerry Lewis
+    cbk-zam: Jerry Lewis
+    ceb: Jerry Lewis
+    ckb: جێری لویز
+    co: Jerry Lewis
+    cs: Jerry Lewis
+    cy: Jerry Lewis
+    da: Jerry Lewis
+    de: Jerry Lewis
+    de-ch: Jerry Lewis
+    diq: Jerry Lewis
+    el: Τζέρι Λιούις
+    en: Jerry Lewis
+    en-ca: Jerry Lewis
+    en-gb: Jerry Lewis
+    eo: Jerry Lewis
+    es: Jerry Lewis
+    eu: Jerry Lewis
+    fa: جری لوئیس
+    fi: Jerry Lewis
+    fr: Jerry Lewis
+    frp: Jerry Lewis
+    ga: Jerry Lewis
+    gl: Jerry Lewis
+    ha: Jerry lewis
+    he: ג'רי לואיס
+    hr: Jerry Lewis
+    hu: Jerry Lewis
+    hy: Ջերի Լյուիս
+    id: Jerry Lewis
+    io: Jerry Lewis
+    is: Jerry Lewis
+    it: Jerry Lewis
+    ja: ジェリー・ルイス
+    ko: 제리 루이스
+    la: Ieremias Lewis
+    lb: Jerry Lewis
+    li: Jerry Lewis
+    lv: Džerijs Lūiss
+    map-bms: Jerry Lewis
+    mg: Jerry Lewis
+    mul: Jerry Lewis
+    nah: Jerry Lewis
+    nan: Jerry Lewis
+    nap: Jerry Lewis
+    nb: Jerry Lewis
+    nl: Jerry Lewis
+    nn: Jerry Lewis
+    oc: Jerry Lewis
+    pap: Jerry Lewis
+    pl: Jerry Lewis
+    pms: Jerry Lewis
+    pt: Jerry Lewis
+    pt-br: Jerry Lewis
+    qu: Jerry Lewis
+    ro: Jerry Lewis
+    ru: Джерри Льюис
+    sc: Jerry Lewis
+    scn: Jerry Lewis
+    sco: Jerry Lewis
+    sh: Jerry Lewis
+    sl: Jerry Lewis
+    sq: Jerry Lewis
+    sr: Џери Луис
+    sv: Jerry Lewis
+    ta: ஜெர்ரி லுவிஸ்
+    tk: Jerry Lewis
+    tr: Jerry Lewis
+    uk: Джеррі Льюїс
+    uz: Jerry Lewis
+    vi: Jerry Lewis
+    wa: Jerry Lewis
+    war: Jerry Lewis
+    wuu: 杰瑞·刘易斯
+    yo: Jerry Lewis
+    zh: 傑利·路易斯
+    zh-cn: 杰里·刘易斯
+    zh-hans: 谢利·路易
+    zh-hant: 傑利·路易斯
+    zh-my: 谢利·路易
+    zh-sg: 谢利·路易
 ---
 # [[Jerry Lewis]] 
 

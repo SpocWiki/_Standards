@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Eosentomidae
+- Eosentomidae
+- Trakétrevfotingar
+- カマアシムシ科
+- 古蚖科
 title: Eosentomidae
 has_id_wikidata: Q2352529
+dv_has_:
+  name_:
+    an: Eosentomidae
+    ast: Eosentomidae
+    bg: Eosentomidae
+    ca: Eosentomidae
+    ceb: Eosentomidae
+    de: Eosentomidae
+    en: Eosentomidae
+    eo: Eosentomidae
+    es: Eosentomidae
+    eu: Eosentomidae
+    ext: Eosentomidae
+    fi: Eosentomidae
+    fr: Eosentomidae
+    ga: Eosentomidae
+    gl: Eosentomidae
+    ia: Eosentomidae
+    ie: Eosentomidae
+    io: Eosentomidae
+    it: Eosentomidae
+    ja: カマアシムシ科
+    la: Eosentomidae
+    ms: Eosentomidae
+    mul: Eosentomidae
+    nb: Eosentomidae
+    nl: Eosentomidae
+    oc: Eosentomidae
+    pl: Eosentomidae
+    pt: Eosentomidae
+    pt-br: Eosentomidae
+    ro: Eosentomidae
+    ru: Eosentomidae
+    sq: Eosentomidae
+    sv: Trakétrevfotingar
+    tr: Eosentomidae
+    uk: Eosentomidae
+    vi: Eosentomidae
+    vo: Eosentomidae
+    war: Eosentomidae
+    yo: Eosentomidae
+    zh: 古蚖科
+    zh-cn: 古蚖科
+    zh-hans: 古蚖科
+    zh-tw: 古蚖科
 ---
 # [[Eosentomidae]] 
 

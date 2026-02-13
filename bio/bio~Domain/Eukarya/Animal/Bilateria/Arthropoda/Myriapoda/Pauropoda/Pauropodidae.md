@@ -1,8 +1,53 @@
 ---
 aliases:
-  - Pauropodidae
+- Pauropodidae
+- pauropòdids
+- Παυροποδίδες
+- 烛䗃科
+- 燭䗃科
 title: Pauropodidae
 has_id_wikidata: Q6508847
+dv_has_:
+  name_:
+    an: Pauropodidae
+    ast: Pauropodidae
+    bg: Pauropodidae
+    ca: pauropòdids
+    ceb: Pauropodidae
+    de: Pauropodidae
+    el: Παυροποδίδες
+    en: Pauropodidae
+    eo: Pauropodidae
+    es: Pauropodidae
+    eu: Pauropodidae
+    ext: Pauropodidae
+    fi: Pauropodidae
+    fr: Pauropodidae
+    ga: Pauropodidae
+    gl: Pauropodidae
+    ia: Pauropodidae
+    ie: Pauropodidae
+    io: Pauropodidae
+    it: Pauropodidae
+    la: Pauropodidae
+    mul: Pauropodidae
+    nl: Pauropodidae
+    oc: Pauropodidae
+    pl: Pauropodidae
+    pt: Pauropodidae
+    pt-br: Pauropodidae
+    ro: Pauropodidae
+    ru: Pauropodidae
+    sq: Pauropodidae
+    tr: Pauropodidae
+    uk: Pauropodidae
+    vi: Pauropodidae
+    vo: Pauropodidae
+    war: Pauropodidae
+    zh: 烛䗃科
+    zh-cn: 烛䗃科
+    zh-hans: 烛䗃科
+    zh-tw: 燭䗃科
 ---
 # [[Pauropodidae]] 
 

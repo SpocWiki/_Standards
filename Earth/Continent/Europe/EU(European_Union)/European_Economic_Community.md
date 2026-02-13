@@ -1,36 +1,120 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]"
-    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]"
-    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]"
-    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]"
-    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]"
-    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]"
+  - '[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]'
+  - '[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]'
+  - '[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]'
+  - '[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]'
+  - '[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]'
+  - '[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]"
-  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]"
-  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]"
-  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]"
-  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]"
-  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]"
-
-has_time_started: 1958-01-01 
-has_time_stopped: 2024-01-01 
+- '[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]'
+- '[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]'
+- '[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]'
+- '[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]'
+- '[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]'
+- '[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]'
+- '[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]'
+- '[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]'
+has_time_started: 1958-01-01
+has_time_stopped: 2024-01-01
 aliases:
-  - European Common Market
-  - European Community
-  - European Economic Community
-  - EEC
-  - European_Economic_Community
+- Avropa İqtisadi Birliyi
+- Avrupa Topluluğu
+- Bashkësia Evropiane
+- Comhphobal Eorpach
+- Communauté économique européenne
+- Communitas oeconomica Europaea
+- Communitate Economic Europee
+- Comunautat Economica Europèa
+- Comunidad Económica Europea
+- Comunidade econòmica europea
+- Comunidade Económica Europea
+- Comunidade Económica Europeia
+- Comunidá Económica Europea
+- Comunitat Econòmica Europea
+- Comunitatea Economică Europeană
+- Comunità economica europea
+- Comunità Econòmega Eoropea
+- Comunitás europan
+- Cộng đồng Kinh tế châu Âu
+- Det europeiske fellesskap
+- Det europeiske økonomiske fellesskapet
+- EEC
+- Eiropas kopiena
+- Euroopa Majandusühendus
+- Euroopan talousyhteisö
+- Europako Ekonomia Erkidegoa
+- Europana Komuneso Ekonomiala
+- European Common Market
+- European Community
+- European Economic Community
+- European_Economic_Community
+- Europeesk Wiartskapsgemianskap
+- Europeiska ekonomiska gemenskapen
+- Europejska Wspólnota Gospodarcza
+- Europeonon nga Katiringban Pan-ekonomiya
+- Europese Economische Gemeenschap
+- Europese Economische Gemeinsjap
+- Europos ekonominė bendrija
+- Europska ekonomska zajednica
+- Europäesch Wirtschaftsgemeinschaft
+- Europäische Wirtschaftsgemeinschaft
+- Europæiske Økonomiske Fællesskab
+- Európai Gazdasági Közösség
+- Európske hospodárske spoločenstvo
+- Evropska ekonomska zajednica
+- Evropska gospodarska skupnost
+- Evropské hospodářské společenství
+- Evrópubandalagið
+- Eŭropa Ekonomia Komunumo
+- Jeropeeske Ekonomyske Mienskip
+- Jumuiya ya Kiuchumi ya Ulaya
+- Komuniti Eropah
+- Masyarakat Ekonomi Eropa
+- Pamayanang Pang-ekonomikong Europeo
+- Quemunidade Eiquenómica Ouropeia
+- Suuqa ka dhaxeeya Yurub
+- y Boodeeys Tarmaynagh Oarpagh
+- Y Gymuned Ewropeaidd
+- Yevropa iqtisodiy hamjamiyati
+- Ευρωπαϊκή Οικονομική Κοινότητα
+- Європейська економічна спільнота
+- Еўрапейская эканамічная супольнасць
+- Европа икътисади җәмгыяте
+- Европа иҡтисади берләшмәһе
+- Европейска общност
+- Европейское экономическое сообщество
+- Европска економска заједница
+- Европска економска заедница
+- Эўрапейская эканамічная супольнасьць
+- Ҷомеаи иқтисодии Аврупо
+- Եվրոպական տնտեսական համագործակցություն
+- אייראפעישע עקאנאמישע געמיינדע
+- הקהילה הכלכלית האירופית
+- آوروپا ایقتیصادی بیرلیگی
+- اتحادیه اقتصادی اروپا
+- السوق الأوروبية المشتركة
+- السوق الاوروبى
+- ياۋروپا ئىقتىسادىي ئورتاق گەۋدىسى
+- يورپي برادري
+- کۆمەڵەی ئابووریی ئەورووپی
+- یورپین اکنامک کمیونٹی
+- यूरोपीय आर्थिक समुदाय
+- ಐರೋಪ್ಯ ಆರ್ಥಿಕ ಸಮುದಾಯ
+- ประชาคมเศรษฐกิจยุโรป
+- ဥရောပဘုံဈေးအဖွဲ့
+- ევროპული თანამეგობრობა
+- 欧州経済共同体
+- 欧洲经济共同体
+- 歐洲經濟共同體
+- 유럽 경제 공동체
 has_id_wikidata: Q52847
 followed_by:
-  - '[[_Standards/WikiData/WD~European_Community,260487]]'
-  - '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Community,260487]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
 different_from: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
 has_part_s_: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~common_market_of_the_European_Economic_Community,21745481]]'
@@ -48,8 +132,100 @@ inception: 1958-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20European%20Economic%20Community%20%281993%29.svg
 Commons_category: European Economic Community
 dissolved_abolished_or_demolished_date: 2024-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: السوق الأوروبية المشتركة
+    arz: السوق الاوروبى
+    ast: Comunidá Económica Europea
+    az: Avropa İqtisadi Birliyi
+    azb: آوروپا ایقتیصادی بیرلیگی
+    ba: Европа иҡтисади берләшмәһе
+    be: Еўрапейская эканамічная супольнасць
+    be-tarask: Эўрапейская эканамічная супольнасьць
+    bg: Европейска общност
+    bs: Evropska ekonomska zajednica
+    ca: Comunitat Econòmica Europea
+    ckb: کۆمەڵەی ئابووریی ئەورووپی
+    cs: Evropské hospodářské společenství
+    cy: Y Gymuned Ewropeaidd
+    da: Europæiske Økonomiske Fællesskab
+    de: Europäische Wirtschaftsgemeinschaft
+    el: Ευρωπαϊκή Οικονομική Κοινότητα
+    en: European Economic Community
+    en-ca: European Economic Community
+    en-gb: European Economic Community
+    eo: Eŭropa Ekonomia Komunumo
+    es: Comunidad Económica Europea
+    et: Euroopa Majandusühendus
+    eu: Europako Ekonomia Erkidegoa
+    fa: اتحادیه اقتصادی اروپا
+    fi: Euroopan talousyhteisö
+    fr: Communauté économique européenne
+    frr: Europeesk Wiartskapsgemianskap
+    fy: Jeropeeske Ekonomyske Mienskip
+    ga: Comhphobal Eorpach
+    gl: Comunidade Económica Europea
+    gv: y Boodeeys Tarmaynagh Oarpagh
+    he: הקהילה הכלכלית האירופית
+    hi: यूरोपीय आर्थिक समुदाय
+    hr: Europska ekonomska zajednica
+    hu: Európai Gazdasági Közösség
+    hy: Եվրոպական տնտեսական համագործակցություն
+    ia: Communitate Economic Europee
+    id: Masyarakat Ekonomi Eropa
+    ie: Comunitás europan
+    io: Europana Komuneso Ekonomiala
+    is: Evrópubandalagið
+    it: Comunità economica europea
+    ja: 欧州経済共同体
+    ka: ევროპული თანამეგობრობა
+    kn: ಐರೋಪ್ಯ ಆರ್ಥಿಕ ಸಮುದಾಯ
+    ko: 유럽 경제 공동체
+    la: Communitas oeconomica Europaea
+    lb: Europäesch Wirtschaftsgemeinschaft
+    li: Europese Economische Gemeinsjap
+    lt: Europos ekonominė bendrija
+    lv: Eiropas kopiena
+    mk: Европска економска заедница
+    ms: Komuniti Eropah
+    mwl: Quemunidade Eiquenómica Ouropeia
+    my: ဥရောပဘုံဈေးအဖွဲ့
+    nb: Det europeiske fellesskap
+    nl: Europese Economische Gemeenschap
+    nn: Det europeiske økonomiske fellesskapet
+    oc: Comunautat Economica Europèa
+    pl: Europejska Wspólnota Gospodarcza
+    pt: Comunidade Económica Europeia
+    pt-br: Comunidade Económica Europeia
+    ro: Comunitatea Economică Europeană
+    ru: Европейское экономическое сообщество
+    sc: Comunidade econòmica europea
+    sd: يورپي برادري
+    sh: Evropska ekonomska zajednica
+    sk: Európske hospodárske spoločenstvo
+    sl: Evropska gospodarska skupnost
+    so: Suuqa ka dhaxeeya Yurub
+    sq: Bashkësia Evropiane
+    sr: Европска економска заједница
+    sv: Europeiska ekonomiska gemenskapen
+    sw: Jumuiya ya Kiuchumi ya Ulaya
+    tg: Ҷомеаи иқтисодии Аврупо
+    th: ประชาคมเศรษฐกิจยุโรป
+    tl: Pamayanang Pang-ekonomikong Europeo
+    tr: Avrupa Topluluğu
+    tt: Европа икътисади җәмгыяте
+    ug: ياۋروپا ئىقتىسادىي ئورتاق گەۋدىسى
+    uk: Європейська економічна спільнота
+    ur: یورپین اکنامک کمیونٹی
+    uz: Yevropa iqtisodiy hamjamiyati
+    vec: Comunità Econòmega Eoropea
+    vi: Cộng đồng Kinh tế châu Âu
+    war: Europeonon nga Katiringban Pan-ekonomiya
+    wuu: 欧洲经济共同体
+    yi: אייראפעישע עקאנאמישע געמיינדע
+    yue: 歐洲經濟共同體
+    zh: 欧洲经济共同体
 ---
-
 # [[European_Economic_Community]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]] 

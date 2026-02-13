@@ -1,24 +1,99 @@
 ---
 aliases:
-  - Zement
-  - Cement
+- a̱si̱mi̱nti
+- caementum
+- Cement
+- cementas
+- cemento
+- cements
+- cementu
+- ciment
+- cimento
+- cūi-nà̤
+- lim
+- saruji
+- seemeent
+- semeanta
+- semen
+- sement
+- semento
+- sementti
+- semeʹntt
+- semint
+- semèn
+- semènt
+- siman
+- simant
+- simede
+- simen
+- simenitra
+- siminti
+- simintu
+- sment
+- stroighin
+- tsement
+- xi măng
+- Zement
+- zementu
+- âng-mn̂g-thô͘
+- çimento
+- çimentoci
+- τσιμέντο
+- семент
+- сиэмэн
+- цемент
+- цимент
+- цэмент
+- цэмэнт
+- ցեմենտ
+- צמנט
+- أسمنت
+- سيمنٽ
+- سیمان
+- سیمنٹ
+- سېمونت
+- چیمەنتۆ
+- सिमेंट
+- सिमेन्ट
+- सीमेंट
+- সিমেন্ট
+- ਸੀਮੈਂਟ
+- சீமைக்காரை
+- సిమెంటు
+- ಸಿಮೆಂಟ್
+- സിമന്റ്
+- සිමෙන්ති
+- ซีเมนต์
+- ဘိလပ်မြေ
+- လိၼ်ယၢင်
+- ცემენტი
+- ሲሚንቶ
+- ស៊ីម៉ង
+- ᱥᱤᱢᱮᱸᱴ
+- セメント
+- 水泥
+- 水门汀
+- 紅毛塗
+- 紅毛泥
+- 세멘트
+- 시멘트
 has_id_wikidata: Q45190
 instance_of:
-  - '[[_Standards/WikiData/WD~adhesive,131790]]'
-  - '[[_Standards/WikiData/WD~powder,2908004]]'
+- '[[_Standards/WikiData/WD~adhesive,131790]]'
+- '[[_Standards/WikiData/WD~powder,2908004]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~building_material,206615]]'
-  - '[[_Standards/WikiData/WD~binder,863583]]'
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~binder,863583]]'
 has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 different_from: '[[_Standards/WikiData/WD~concrete,22657]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~limestone,23757]]'
-  - '[[_Standards/WikiData/WD~clay,42302]]'
+- '[[_Standards/WikiData/WD~limestone,23757]]'
+- '[[_Standards/WikiData/WD~clay,42302]]'
 emissivity: 0.54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cement%2002%20%28cropped%29.jpg
 GS1_GPC_code: 10002526
@@ -26,8 +101,132 @@ Commons_category: Cement
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A3%D8%B3%D9%85%D9%86%D8%AA.wav
 UNSPSC_Code: 30111601
 P8189: 987007284980005171
+dv_has_:
+  name_:
+    af: sement
+    am: ሲሚንቶ
+    an: cimento
+    ar: أسمنت
+    ast: cementu
+    az: sement
+    ba: цемент
+    bar: Zement
+    bcl: semento
+    be: цэмент
+    be-tarask: цэмэнт
+    bg: цимент
+    bn: সিমেন্ট
+    br: simant
+    ca: ciment
+    cdo: cūi-nà̤
+    ckb: چیمەنتۆ
+    cs: cement
+    cy: sment
+    da: cement
+    de: Zement
+    diq: çimentoci
+    el: τσιμέντο
+    en: cement
+    en-gb: cement
+    eo: cemento
+    es: cemento
+    et: tsement
+    eu: zementu
+    ext: cementu
+    fa: سیمان
+    fi: sementti
+    fj: simede
+    fr: ciment
+    fy: semint
+    ga: stroighin
+    gl: cemento
+    ha: siminti
+    he: צמנט
+    hi: सीमेंट
+    hr: cement
+    ht: siman
+    hu: cement
+    hy: ցեմենտ
+    id: semen
+    io: cemento
+    is: sement
+    it: cemento
+    ja: セメント
+    jv: semèn
+    ka: ცემენტი
+    kcg: a̱si̱mi̱nti
+    kk: цемент
+    km: ស៊ីម៉ង
+    ko: 시멘트
+    ko-kp: 세멘트
+    kw: lim
+    ky: цемент
+    la: caementum
+    li: semènt
+    lmo: ciment
+    lt: cementas
+    lv: cements
+    mg: simenitra
+    min: semen
+    mk: цемент
+    ml: സിമന്റ്
+    mn: цемент
+    mr: सिमेंट
+    ms: simen
+    my: ဘိလပ်မြေ
+    nan: âng-mn̂g-thô͘
+    nan-hani: 紅毛塗
+    nb: sement
+    ne: सिमेन्ट
+    nl: cement
+    nn: sement
+    oc: ciment
+    pa: ਸੀਮੈਂਟ
+    pl: cement
+    pt: cimento
+    pt-br: cimento
+    qu: simintu
+    ro: ciment
+    ru: цемент
+    sah: сиэмэн
+    sat: ᱥᱤᱢᱮᱸᱴ
+    sd: سيمنٽ
+    se: semeanta
+    sgs: cements
+    sh: cement
+    shn: လိၼ်ယၢင်
+    si: සිමෙන්ති
+    sk: cement
+    sl: cement
+    smn: seemeent
+    sms: semeʹntt
+    sq: çimento
+    sr: цемент
+    sr-ec: цемент
+    sr-el: cement
+    sv: cement
+    sw: saruji
+    ta: சீமைக்காரை
+    tcy: ಸಿಮೆಂಟ್
+    te: సిమెంటు
+    tg: семент
+    th: ซีเมนต์
+    tl: semento
+    tr: çimento
+    ug: سېمونت
+    uk: цемент
+    ur: سیمنٹ
+    uz: sement
+    vi: xi măng
+    war: semento
+    wuu: 水门汀
+    yue: 紅毛泥
+    zh: 水泥
+    zh-cn: 水泥
+    zh-hans: 水泥
+    zh-hant: 水泥
+    zh-tw: 水泥
 ---
-
 # [[Cement]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cement,45190|WD~Cement,45190]] 

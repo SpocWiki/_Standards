@@ -1,8 +1,47 @@
 ---
 aliases:
-  - Lyssomaninae
+- Lyssomaninae
+- Naʼashjéʼii nahachaʼí bijáád danineezígíí
+- ليسومانين
 title: Lyssomaninae
 has_id_wikidata: Q101166
+dv_has_:
+  name_:
+    an: Lyssomaninae
+    arz: ليسومانين
+    ast: Lyssomaninae
+    bg: Lyssomaninae
+    ca: Lyssomaninae
+    ceb: Lyssomaninae
+    de: Lyssomaninae
+    en: Lyssomaninae
+    eo: Lyssomaninae
+    es: Lyssomaninae
+    eu: Lyssomaninae
+    ext: Lyssomaninae
+    fi: Lyssomaninae
+    fr: Lyssomaninae
+    ga: Lyssomaninae
+    gl: Lyssomaninae
+    ia: Lyssomaninae
+    ie: Lyssomaninae
+    io: Lyssomaninae
+    it: Lyssomaninae
+    la: Lyssomaninae
+    mul: Lyssomaninae
+    nl: Lyssomaninae
+    nv: Naʼashjéʼii nahachaʼí bijáád danineezígíí
+    oc: Lyssomaninae
+    pl: Lyssomaninae
+    pt: Lyssomaninae
+    pt-br: Lyssomaninae
+    ro: Lyssomaninae
+    ru: Lyssomaninae
+    sq: Lyssomaninae
+    uk: Lyssomaninae
+    vi: Lyssomaninae
+    vo: Lyssomaninae
+    war: Lyssomaninae
 ---
 # [[Lyssomaninae]] 
 

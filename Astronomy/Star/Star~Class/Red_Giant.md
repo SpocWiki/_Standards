@@ -1,31 +1,197 @@
 ---
 aliases:
+- cawr coch
+- Chiganta roya
+- Crveni div
+- czerwony olbrzym
+- Damudamu tuwawa
+- Dêwo sûr
+- Erraldoi gorri
+- fathachréalta dhearg
+- gegant vermell
+- Gergasi merah
+- gigante roja
+- gigante rossa
+- gigante vermelha
+- gigantă roșie
+- géante rouge
+- Jitu jekundu
+- Kırmızı dev
+- Pula nga higante
+- punainen jättiläinen
+- punane hiid
+- Qırmızı nəhənglər
+- Raksasa beureum
+- Raksasa merah
+- raud kjempe
+- Raudonoji milžinė
+- rdeča orjakinja
+- Red giant
+- rode reus
+- Roode Hüüne
+- Rooi reus
+- Root Rees
+- Roter Riese
+- Roude Ris
+- ruopsis jietânâs
+- ruĝa giganto
+- röd jätte
+- rød kjempe
+- Rød kæmpe
+- Sao khổng lồ đỏ
+- Sarkanais milzis
+- Stella gigantea rubra
+- Ulkan qizil yulduz
+- vörös óriás
+- Xigante colorada
+- Xigante vermella
+- červený obor
+- červený obr
+- Ερυθρός γίγαντας
+- Алып қызыл жұлдыз
+- красный гигант
+- Кызыл зур йолдыз
+- Хĕрлĕ гигант
+- Црвен џин
+- црвени џин
+- Червен гигант
+- червоний гігант
+- Чырвоны гігант
+- Կարմիր գիգանտ
+- ענק אדום
+- زەبەلاحی سوور
+- سرخ ضخام
+- عملاق أحمر
+- غول سرخ
+- لال جن
+- रातो दानव तारा
+- लाल दानव तारा
+- লোহিত দানব
+- ਲਾਲ ਦਾਨਵ ਤਾਰਾ
+- சிவப்பு அரக்கன்
+- ചുവപ്പുഭീമൻ
+- රතු යෝධ තරු
+- ดาวยักษ์แดง
+- ဧရာမ ကြယ်နီ
+- წითელი გიგანტი
+- 紅巨星
+- 红巨星
+- 赤色巨星
+- 적색거성
 has_id_wikidata: Q50081
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~giant_star,5875]]"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~giant_star,5875]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20giant%20simulation%204%20%28cropped%29.jpg
 Commons_category: Red giants
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Red_giant,50081]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]"
+  - '[[../../../WikiData/WD~Red_giant,50081]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Red_giant,50081]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]"
+- '[[../../../WikiData/WD~Red_giant,50081]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]'
+- '[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]'
+dv_has_:
+  name_:
+    af: Rooi reus
+    an: Chiganta roya
+    ar: عملاق أحمر
+    ast: Xigante colorada
+    az: Qırmızı nəhənglər
+    be: Чырвоны гігант
+    be-tarask: чырвоны гігант
+    bg: Червен гигант
+    bn: লোহিত দানব
+    bs: Crveni div
+    ca: gegant vermell
+    ckb: زەبەلاحی سوور
+    cs: červený obr
+    cv: Хĕрлĕ гигант
+    cy: cawr coch
+    da: Rød kæmpe
+    de: Roter Riese
+    de-ch: Roter Riese
+    diq: Dêwo sûr
+    el: Ερυθρός γίγαντας
+    en: red giant
+    en-ca: Red giant
+    en-gb: red giant
+    eo: ruĝa giganto
+    es: gigante roja
+    et: punane hiid
+    eu: Erraldoi gorri
+    fa: غول سرخ
+    fi: punainen jättiläinen
+    fj: Damudamu tuwawa
+    fr: géante rouge
+    ga: fathachréalta dhearg
+    gl: Xigante vermella
+    he: ענק אדום
+    hi: लाल दानव तारा
+    hr: Crveni div
+    hu: vörös óriás
+    hy: Կարմիր գիգանտ
+    id: Raksasa merah
+    it: gigante rossa
+    ja: 赤色巨星
+    ka: წითელი გიგანტი
+    kk: Алып қызыл жұлдыз
+    ko: 적색거성
+    la: Stella gigantea rubra
+    lb: Roude Ris
+    lt: Raudonoji milžinė
+    lv: Sarkanais milzis
+    mk: Црвен џин
+    ml: ചുവപ്പുഭീമൻ
+    ms: Gergasi merah
+    my: ဧရာမ ကြယ်နီ
+    nb: rød kjempe
+    nds: Root Rees
+    ne: रातो दानव तारा
+    nl: rode reus
+    nn: raud kjempe
+    pa: ਲਾਲ ਦਾਨਵ ਤਾਰਾ
+    pl: czerwony olbrzym
+    pnb: لال جن
+    pt: gigante vermelha
+    pt-br: Gigante vermelha
+    rki: ဧရာမ ကြယ်နီ
+    ro: gigantă roșie
+    ru: красный гигант
+    sh: Crveni div
+    si: රතු යෝධ තරු
+    sk: červený obor
+    sl: rdeča orjakinja
+    smn: ruopsis jietânâs
+    sr: црвени џин
+    stq: Roode Hüüne
+    su: Raksasa beureum
+    sv: röd jätte
+    sw: Jitu jekundu
+    ta: சிவப்பு அரக்கன்
+    th: ดาวยักษ์แดง
+    tr: Kırmızı dev
+    tt: Кызыл зур йолдыз
+    uk: червоний гігант
+    ur: سرخ ضخام
+    uz: Ulkan qizil yulduz
+    vi: Sao khổng lồ đỏ
+    war: Pula nga higante
+    wuu: 红巨星
+    yue: 紅巨星
+    zh: 紅巨星
 ---
-
 # [[Red_Giant]]
 
 #is_/same_as :: [[WD~Red_giant,50081]] 

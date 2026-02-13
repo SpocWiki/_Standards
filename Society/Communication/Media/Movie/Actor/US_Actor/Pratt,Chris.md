@@ -1,8 +1,191 @@
 ---
 aliases:
-  - Chris Pratt
-  - Pratt,Chris
+- Chris Pratt
+- Kris Pratt
+- Kris Prett
+- Kriss Prats
+- Pratt,Chris
+- Κρις Πρατ
+- Кріс Пратт
+- Крис Прат
+- Крис Прэтт
+- Крис Прәтт
+- Крыс Прат
+- Քրիս Փրեթ
+- כריס פראט
+- كريس برات
+- کرس پراٹ
+- کریس پرات
+- کریس پرت
+- क्रिस प्राट
+- क्रिस प्रैट
+- ख्रिस प्रॅट
+- ক্রিস প্রাট
+- கிறிஸ் பிராட்
+- ക്രിസ് പ്രാറ്റ്
+- คริส แพร็ตต์
+- ခရစ် ပရတ်
+- კრის პრეტი
+- კრის ფრეტი
+- ክሪስ ፕራት
+- គ្រីស ប្រាត
+- クリス・プラット
+- 克里斯·帕拉特
+- 克里斯·普瑞特
+- 基斯柏特
+- 크리스 프랫
 has_id_wikidata: Q503706
+dv_has_:
+  name_:
+    ace: Chris Pratt
+    af: Chris Pratt
+    am: ክሪስ ፕራት
+    an: Chris Pratt
+    ang: Chris Pratt
+    ar: كريس برات
+    arz: كريس برات
+    ast: Chris Pratt
+    az: Kris Prett
+    azb: کریس پرات
+    bcl: Chris Pratt
+    be: Крыс Прат
+    be-tarask: Крыс Прат
+    bg: Крис Прат
+    bn: ক্রিস প্রাট
+    br: Chris Pratt
+    bs: Chris Pratt
+    ca: Chris Pratt
+    cbk-zam: Chris Pratt
+    ceb: Chris Pratt
+    ckb: کریس پرات
+    co: Chris Pratt
+    cs: Chris Pratt
+    csb: Chris Pratt
+    cy: Chris Pratt
+    da: Chris Pratt
+    de: Chris Pratt
+    de-ch: Chris Pratt
+    dsb: Chris Pratt
+    el: Κρις Πρατ
+    eml: Chris Pratt
+    en: Chris Pratt
+    en-ca: Chris Pratt
+    en-gb: Chris Pratt
+    eo: Chris Pratt
+    es: Chris Pratt
+    et: Chris Pratt
+    eu: Chris Pratt
+    ext: Chris Pratt
+    fa: کریس پرت
+    fi: Chris Pratt
+    fo: Chris Pratt
+    fr: Chris Pratt
+    frp: Chris Pratt
+    fy: Chris Pratt
+    ga: Chris Pratt
+    gd: Chris Pratt
+    gl: Chris Pratt
+    gv: Chris Pratt
+    ha: Chris Pratt
+    haw: Chris Pratt
+    he: כריס פראט
+    hi: क्रिस प्रैट
+    ht: Chris Pratt
+    hu: Chris Pratt
+    hy: Քրիս Փրեթ
+    ia: Chris Pratt
+    id: Chris Pratt
+    ig: Chris Pratt
+    ilo: Chris Pratt
+    io: Chris Pratt
+    is: Chris Pratt
+    it: Chris Pratt
+    ja: クリス・プラット
+    jv: Chris Pratt
+    ka: კრის პრეტი
+    kk: Крис Прэтт
+    kl: Chris Pratt
+    km: គ្រីស ប្រាត
+    ko: 크리스 프랫
+    ku: Chris Pratt
+    kw: Chris Pratt
+    ky: Крис Прэтт
+    la: Chris Pratt
+    lad: Chris Pratt
+    lb: Chris Pratt
+    li: Chris Pratt
+    lmo: Chris Pratt
+    lt: Chris Pratt
+    lv: Kriss Prats
+    mai: क्रिस प्राट
+    map-bms: Chris Pratt
+    mg: Chris Pratt
+    mk: Крис Прат
+    ml: ക്രിസ് പ്രാറ്റ്
+    mn: Крис Прэтт
+    mr: ख्रिस प्रॅट
+    ms: Chris Pratt
+    mul: Chris Pratt
+    my: ခရစ် ပရတ်
+    na: Chris Pratt
+    nah: Chris Pratt
+    nan: Chris Pratt
+    nb: Chris Pratt
+    nds: Chris Pratt
+    ne: क्रिस प्राट
+    nl: Chris Pratt
+    nn: Chris Pratt
+    oc: Chris Pratt
+    pag: Chris Pratt
+    pam: Chris Pratt
+    pap: Chris Pratt
+    pih: Chris Pratt
+    pl: Chris Pratt
+    pms: Chris Pratt
+    pt: Chris Pratt
+    pt-br: Chris Pratt
+    qu: Chris Pratt
+    ro: Chris Pratt
+    ru: Крис Прэтт
+    sc: Chris Pratt
+    scn: Chris Pratt
+    sco: Chris Pratt
+    se: Chris Pratt
+    sgs: Chris Pratt
+    sh: Chris Pratt
+    sk: Chris Pratt
+    sl: Chris Pratt
+    sq: Chris Pratt
+    sr: Крис Прат
+    srn: Chris Pratt
+    su: Chris Pratt
+    sv: Chris Pratt
+    sw: Chris Pratt
+    ta: கிறிஸ் பிராட்
+    th: คริส แพร็ตต์
+    tl: Chris Pratt
+    tr: Chris Pratt
+    tt: Крис Прәтт
+    tt-cyrl: Крис Прәтт
+    uk: Кріс Пратт
+    ur: کرس پراٹ
+    uz: Chris Pratt
+    vec: Chris Pratt
+    vep: Kris Pratt
+    vi: Chris Pratt
+    vls: Chris Pratt
+    vo: Chris Pratt
+    wa: Chris Pratt
+    war: Chris Pratt
+    wuu: 克里斯·帕拉特
+    xmf: კრის ფრეტი
+    yo: Chris Pratt
+    yue: Chris Pratt
+    zh: 克里斯·普瑞特
+    zh-cn: 克里斯·帕拉特
+    zh-hant: 克里斯·普瑞特
+    zh-hk: 基斯柏特
+    zh-tw: 克里斯·普瑞特
 ---
 #has_/time_/started :: 1979-06-21 
 

@@ -1,68 +1,204 @@
 ---
 aliases:
+- Earós
+- Eros
+- Eros (mitolohiya)
+- Erosi
+- Eroso
+- Erot
+- Erotas
+- Erots
+- Erós
+- Erósz
+- Éros
+- Έρως
+- Амур (худои муҳаббат)
+- Ерос
+- Эрас
+- Эрос
+- Эрот
+- Էրոս
+- ארוס
+- إيروس
+- ئێرۆس
+- اروس
+- ایروز
+- ईरोस
+- ইৰ'চ
+- এরস
+- ਈਰੋਸ
+- எரோஸ்
+- เอียรอส
+- ეროსი
+- ᱤᱨᱚᱥ
+- Ἔρως ， Erōs
+- エロース
+- 厄洛斯
+- ꯏꯔꯣꯁ
+- 에로스
 has_id_wikidata: Q121973
 Krugosvet_article:
-  - kultura_i_obrazovanie/religiya/EROT.html
-  - kultura_i_obrazovanie/religiya/KUPIDON.html
+- kultura_i_obrazovanie/religiya/EROT.html
+- kultura_i_obrazovanie/religiya/KUPIDON.html
 sibling:
-  - "[[_Standards/WikiData/WD~Gaia,93172]]"
-  - "[[_Standards/WikiData/WD~Erebos,131122]]"
-  - "[[_Standards/WikiData/WD~Nyx,131203]]"
-  - "[[_Standards/WikiData/WD~Anteros,572133]]"
-  - "[[_Standards/WikiData/WD~Himeros,1425549]]"
-  - "[[_Standards/WikiData/WD~Pothos,1539632]]"
+- '[[_Standards/WikiData/WD~Gaia,93172]]'
+- '[[_Standards/WikiData/WD~Erebos,131122]]'
+- '[[_Standards/WikiData/WD~Nyx,131203]]'
+- '[[_Standards/WikiData/WD~Anteros,572133]]'
+- '[[_Standards/WikiData/WD~Himeros,1425549]]'
+- '[[_Standards/WikiData/WD~Pothos,1539632]]'
 father:
-  - "[[_Standards/WikiData/WD~Chaos,131090]]"
-  - "[[_Standards/WikiData/WD~Erebos,131122]]"
-  - "[[_Standards/WikiData/WD~Aether,189175]]"
-  - "[[_Standards/WikiData/WD~Zephyrus,467515]]"
-  - "[[_Standards/WikiData/WD~Porus,966521]]"
-  - "[[_Standards/WikiData/WD~Ares,40901]]"
+- '[[_Standards/WikiData/WD~Chaos,131090]]'
+- '[[_Standards/WikiData/WD~Erebos,131122]]'
+- '[[_Standards/WikiData/WD~Aether,189175]]'
+- '[[_Standards/WikiData/WD~Zephyrus,467515]]'
+- '[[_Standards/WikiData/WD~Porus,966521]]'
+- '[[_Standards/WikiData/WD~Ares,40901]]'
 mother:
-  - "[[_Standards/WikiData/WD~Nyx,131203]]"
-  - "[[_Standards/WikiData/WD~Eris,140001]]"
-  - "[[_Standards/WikiData/WD~Iris,184570]]"
-  - "[[_Standards/WikiData/WD~Penia,3899052]]"
-  - "[[_Standards/WikiData/WD~Aphrodite,35500]]"
+- '[[_Standards/WikiData/WD~Nyx,131203]]'
+- '[[_Standards/WikiData/WD~Eris,140001]]'
+- '[[_Standards/WikiData/WD~Iris,184570]]'
+- '[[_Standards/WikiData/WD~Penia,3899052]]'
+- '[[_Standards/WikiData/WD~Aphrodite,35500]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~personification,207174]]"
-  - "[[_Standards/WikiData/WD~Greek_primordial_deity,878099]]"
-  - "[[_Standards/WikiData/WD~fertility_deity,1470705]]"
-  - "[[_Standards/WikiData/WD~Greek_deity,22989102]]"
+- '[[_Standards/WikiData/WD~personification,207174]]'
+- '[[_Standards/WikiData/WD~Greek_primordial_deity,878099]]'
+- '[[_Standards/WikiData/WD~fertility_deity,1470705]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Eros,602799]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Eros,602799]]'
 child:
-  - "[[_Standards/WikiData/WD~Voluptas,651660]]"
-  - "[[_Standards/WikiData/WD~Hedone,2713107]]"
-worshipped_by: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+- '[[_Standards/WikiData/WD~Voluptas,651660]]'
+- '[[_Standards/WikiData/WD~Hedone,2713107]]'
+worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
 represents:
-  - "[[_Standards/WikiData/WD~romantic_love,1189047]]"
-  - "[[_Standards/WikiData/WD~eros,1361301]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-epithet: "[[_Standards/WikiData/WD~Eleutherios,106542644]]"
+- '[[_Standards/WikiData/WD~romantic_love,1189047]]'
+- '[[_Standards/WikiData/WD~eros,1361301]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+epithet: '[[_Standards/WikiData/WD~Eleutherios,106542644]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Turnu,126913818]]"
-  - "[[_Standards/WikiData/WD~Cupid,5011]]"
-depicted_by: "[[_Standards/WikiData/WD~Eros_with_Dolphin,_replica_in_the_Achilleion_(Corfu),131613642]]"
+- '[[_Standards/WikiData/WD~Turnu,126913818]]'
+- '[[_Standards/WikiData/WD~Cupid,5011]]'
+depicted_by: '[[_Standards/WikiData/WD~Eros_with_Dolphin,_replica_in_the_Achilleion_(Corfu),131613642]]'
 Hederich_encyclopedia_article: Eros
 Commons_category: Eros
 name_in_native_language: Ἔρως
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Psycheabduct.jpg
 Royal_Academy_new_identifier: eros-greek-deity
+dv_has_:
+  name_:
+    af: Eros
+    ar: إيروس
+    arz: إيروس
+    as: ইৰ'চ
+    ast: Eros
+    az: Erot
+    ba: Эрот
+    bar: Eros
+    bcl: Eros (mitolohiya)
+    be: Эрот
+    be-tarask: Эрас
+    bg: Ерос
+    bn: এরস
+    br: Eros
+    bs: Eros
+    ca: Eros
+    ckb: ئێرۆس
+    cs: Erós
+    cv: Эрос
+    cy: Eros
+    da: Eros
+    de: Eros
+    el: Έρως
+    en: Eros
+    eo: Eroso
+    es: Eros
+    et: Eros
+    eu: Eros
+    fa: اروس
+    fi: Eros
+    fr: Éros
+    ga: Earós
+    gl: Eros
+    grc: Ἔρως ， Erōs
+    he: ארוס
+    hi: ईरोस
+    hr: Eros
+    hu: Erósz
+    hy: Էրոս
+    hyw: Էրոս
+    ia: Eros
+    id: Eros
+    io: Eros
+    it: Eros
+    ja: エロース
+    ka: ეროსი
+    kk: Эрот
+    ko: 에로스
+    ku: Eros
+    ku-latn: Eros
+    la: Eros
+    lb: Eros
+    lt: Erotas
+    lv: Erots
+    mk: Ерос
+    mni: ꯏꯔꯣꯁ
+    ms: Eros
+    nb: Eros
+    nl: Eros
+    nn: Eros
+    oc: Eros
+    pa: ਈਰੋਸ
+    pl: Eros
+    pt: Eros
+    pt-br: Eros
+    ro: Eros
+    ru: Эрот
+    sat: ᱤᱨᱚᱥ
+    scn: Eros
+    sco: Eros
+    sh: Eros
+    sk: Eros
+    sl: Eros
+    sq: Erosi
+    sr: Ерос
+    sr-ec: Ерос
+    sr-el: Eros
+    sv: Eros
+    ta: எரோஸ்
+    tg: Амур (худои муҳаббат)
+    th: เอียรอส
+    tl: Eros
+    tr: Eros
+    tt: Эрот
+    uk: Ерос
+    ur: ایروز
+    uz: Erot
+    vi: Eros
+    vls: Eros
+    war: Eros
+    wuu: 厄洛斯
+    yue: 厄洛斯
+    zh: 厄洛斯
+    zh-cn: 厄洛斯
+    zh-hans: 厄洛斯
+    zh-hant: 厄洛斯
+    zh-hk: 厄洛斯
+    zh-sg: 厄洛斯
+    zh-tw: 厄洛斯
 ---
-
 # [[Eros]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Eros,121973|WD~Eros,121973]] 

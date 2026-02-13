@@ -1,63 +1,192 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Øresund,104662]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]"
+  - '[[../../../../WikiData/WD~Øresund,104662]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Øresund,104662]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]"
-
-location: [ 55.75, 12.75 ] 
+- '[[../../../../WikiData/WD~Øresund,104662]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]'
+location:
+- 55.75
+- 12.75
 aliases:
-  - Øresund
-  - Öresund
+- Eo biển Oresund
+- Eresund
+- Eresundas
+- Eresunn boʻgʻozi
+- estrechu d'Øresund
+- Eyrarsund
+- Juutinrauma
+- Oresund
+- Oresundae fretum
+- Oyrasund
+- Sont
+- Sund
+- Sundo
+- Tengava Oresund
+- The Sound (estretso sa Dinamarka)
+- Öresund
+- Øresund
+- Ēresunds
+- Έρεσουντ
+- Ересунд
+- Ересунн
+- Йоресун
+- Праліў Эрэсун
+- Эресунн
+- Эрэсунд
+- Өресунд
+- Էրեսուն
+- ארסונד
+- آبنائے اوریسوند
+- أوريسند
+- اوريسوند
+- تنگه اورسوند
+- تەنگاڤائۆ رەسوند
+- ஒரிசவுண்ட்
+- เออเรซุนด์
+- ერესუნის სრუტე
+- エーレスンド海峡
+- 厄勒海峡
+- 厄勒海峽
+- 松德海峽
+- 외레순 해협
 has_id_wikidata: Q104662
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Kattegat,131716]]'
-  - '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+- '[[_Standards/WikiData/WD~Kattegat,131716]]'
+- '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
 different_from: '[[_Standards/WikiData/WD~Sund,176201]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of: '[[_Standards/WikiData/WD~Danish_straits,816210]]'
 inflows:
-  - '[[_Standards/WikiData/WD~Höje_River,1501168]]'
-  - '[[_Standards/WikiData/WD~Kävlinge_River,1785545]]'
-  - '[[_Standards/WikiData/WD~Saxån,6978227]]'
-  - '[[_Standards/WikiData/WD~Mølleåen,11990461]]'
-  - '[[_Standards/WikiData/WD~Nivå,21995145]]'
-  - '[[_Standards/WikiData/WD~Råå_river,38152762]]'
+- '[[_Standards/WikiData/WD~Höje_River,1501168]]'
+- '[[_Standards/WikiData/WD~Kävlinge_River,1785545]]'
+- '[[_Standards/WikiData/WD~Saxån,6978227]]'
+- '[[_Standards/WikiData/WD~Mølleåen,11990461]]'
+- '[[_Standards/WikiData/WD~Nivå,21995145]]'
+- '[[_Standards/WikiData/WD~Råå_river,38152762]]'
 coordinate_location: Point(12.75 55.75)
 country:
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
 vertical_depth: 38
 instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
 BHCL_UUID: eb9d043a-5a04-495d-bf9e-d761eb99d701
 native_label:
-  - Øresund
-  - Öresund
+- Øresund
+- Öresund
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oeresund%20Bridge.jpg
 Commons_category: Oresund
+dv_has_:
+  name_:
+    af: Sont
+    ar: أوريسند
+    arz: اوريسوند
+    ast: estrechu d'Øresund
+    az: Öresund
+    ba: Эресунн
+    be: Праліў Эрэсун
+    be-tarask: Эрэсунд
+    bg: Йоресун
+    br: Øresund
+    ca: Øresund
+    ce: Эресунн
+    ceb: The Sound (estretso sa Dinamarka)
+    co: Øresund
+    cs: Öresund
+    cy: Øresund
+    da: Øresund
+    de: Öresund
+    el: Έρεσουντ
+    en: Øresund
+    eo: Sundo
+    es: Oresund
+    et: Sund
+    eu: Øresund
+    fa: تنگه اورسوند
+    fi: Juutinrauma
+    fo: Oyrasund
+    fr: Øresund
+    fy: Sont
+    ga: Øresund
+    gd: Øresund
+    gl: Öresund
+    he: ארסונד
+    hr: Øresund
+    hu: Øresund
+    hy: Էրեսուն
+    id: Øresund
+    is: Eyrarsund
+    it: Øresund
+    ja: エーレスンド海峡
+    ka: ერესუნის სრუტე
+    ko: 외레순 해협
+    ku: Tengava Oresund
+    ku-arab: تەنگاڤائۆ رەسوند
+    ku-latn: Tengava Oresund
+    la: Oresundae fretum
+    lt: Eresundas
+    lv: Ēresunds
+    mk: Ересунд
+    nb: Øresund
+    nds: Öresund
+    nl: Sont
+    nn: Øresund
+    oc: Øresund
+    os: Эресунн
+    pl: Sund
+    pt: Öresund
+    ro: Øresund
+    ru: Эресунн
+    sco: Øresund
+    sh: Øresund
+    sk: Öresund
+    sl: Øresund
+    sr: Ересунд
+    sr-ec: Ересунд
+    sr-el: Eresund
+    sv: Öresund
+    sw: Oresund
+    ta: ஒரிசவுண்ட்
+    th: เออเรซุนด์
+    tr: Øresund
+    tt: Өресунд
+    ty: Øresund
+    uk: Ересунн
+    ur: آبنائے اوریسوند
+    uz: Eresunn boʻgʻozi
+    vi: Eo biển Oresund
+    vls: Sont
+    war: Øresund
+    wuu: 厄勒海峡
+    yue: 松德海峽
+    zh: 厄勒海峡
+    zh-cn: 厄勒海峡
+    zh-hans: 厄勒海峡
+    zh-hant: 厄勒海峽
+    zh-hk: 松德海峽
+    zh-sg: 厄勒海峡
+    zh-tw: 松德海峽
 ---
-
 # [[Øresund]] 
 
 #is_/same_as :: [[WD~Øresund,104662]] 

@@ -1,24 +1,99 @@
 ---
 aliases:
-  - Alto_Saxophone
-  - Alto Saxophone
+- aldsaksofono
+- Alto saksafonu
+- Alto saksofon
+- alto saksofoon
+- Alto Saxophone
+- Altovski saksofon
+- Alto_Saxophone
+- Altsaksofoan
+- altsaksofon
+- altsaxofon
+- altsaxofoon
+- Altsaxophon
+- alttosaksofoni
+- Saksofon alto
+- Saksofon altowy
+- sassofono contralto
+- saxofoi altu
+- saxofon alto
+- saxofone alto
+- saxofón alto
+- Saxofón altu
+- saxophone alto
+- saxòfon alt
+- алт саксофон
+- альта-саксафон
+- саксафон-альт
+- Саксофон-альт
+- ալտ սաքսոֆոն
+- סקסופון אלט
+- آلتو ساکسیفون
+- ساكسفون ألتو
+- アルト・サクソフォーン
+- 中音色士風
+- 中音薩克斯風
+- 알토 색소폰
 has_id_wikidata: Q445275
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Sax,181995]]'
 time_of_discovery_or_invention: 1846-06-28T00:00:00Z
 subclass_of: '[[_Standards/WikiData/WD~saxophone,9798]]'
 Nomenclature_for_Museum_Cataloging: 10856
 Amazon_com_browse_node:
-  - 11969851
-  - 11969911
-  - 11969651
-  - 11969721
+- 11969851
+- 11969911
+- 11969651
+- 11969721
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yamaha%20Saxophone%20YAS-62.tif
 Hornbostel_Sachs_classification: 422.212-71
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sax%20range.svg
 P8189: 987007558346605171
 Commons_category: Alto saxophones
+dv_has_:
+  name_:
+    ar: ساكسفون ألتو
+    ast: Saxofón altu
+    az: Alto saksafonu
+    be: саксафон-альт
+    be-tarask: альта-саксафон
+    bg: алт саксофон
+    ca: saxòfon alt
+    cs: altsaxofon
+    da: altsaxofon
+    de: Altsaxophon
+    en: alto saxophone
+    eo: aldsaksofono
+    es: saxofón alto
+    et: Altsaksofon
+    eu: saxofoi altu
+    fa: آلتو ساکسیفون
+    fi: alttosaksofoni
+    fr: saxophone alto
+    frr: alto saksofoon
+    fy: Altsaksofoan
+    gl: saxofón alto
+    he: סקסופון אלט
+    hy: ալտ սաքսոֆոն
+    id: Saksofon alto
+    it: sassofono contralto
+    ja: アルト・サクソフォーン
+    ko: 알토 색소폰
+    ms: Saksofon alto
+    nb: altsaksofon
+    nl: altsaxofoon
+    nn: altsaksofon
+    pl: Saksofon altowy
+    pt: saxofone alto
+    ro: saxofon alto
+    ru: Саксофон-альт
+    sl: Altovski saksofon
+    sr: Alto saksofon
+    sv: altsaxofon
+    uk: саксофон-альт
+    yue: 中音色士風
+    zh: 中音薩克斯風
 ---
-
 # [[Alto_Saxophone]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Alto_saxophone,445275]] 

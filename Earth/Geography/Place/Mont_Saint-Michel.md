@@ -1,58 +1,94 @@
 ---
 aliases:
-  - Mont Saint-Michel
-  - Mont-Saint-Michel
-  - Mont_Saint-Michel
+- Kastil Mont Saint Michael
+- Le Mont Saint-Michel
+- Le Mont-Saint-Michel
+- Menez Mikael ar Mor
+- Mon Sen Mišel
+- Mon Sen Mišelis
+- Mons Sancti Michaelis
+- Monsenmišela
+- Mont Saint Miché
+- Mont Saint-Michel
+- Mont Sankt-Mişel
+- Mont-Saint-Michel
+- Monte Saint-Michel
+- Monto Sankta Mikaelo
+- Mont_Saint-Michel
+- Μον-Σαιν-Μισέλ
+- Ле-Мон-Сен-Мішель
+- Ле-Мон-Сен-Мишель
+- Мон Сен Мишел
+- Мон-Сен-Мішэль
+- Мон-Сен-Мишель
+- Мон-Сэн-Мішэль
+- Մոն Սեն Միշել
+- מון-סן-מישל
+- جبل القديس ميخائيل
+- جبل القديس ميشيل
+- ماؤنٹ سینٹ مائیکل
+- مونت سن مایکل (جزیره)
+- ले मॉन्ट-सेंट-मिशेल
+- புனித மிக்கேல் மலை
+- มง-แซ็ง-มีแชล
+- မောင့်စိန့်မိုက်ကယ်
+- მონ-სენ-მიშელი
+- ル・モン＝サン＝ミシェル
+- 勒蒙-圣米歇尔
+- 勒蒙-聖米歇爾
+- 勒蒙圣米歇尔
+- 勒蒙聖米歇爾
+- 몽생미셸섬
 has_id_wikidata: Q20892
 location:
-  - 48.635833333
-  - -1.510277777
+- 48.635833333
+- -1.510277777
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Pontorson,331426]]"
-  - "[[_Standards/WikiData/WD~Beauvoir,1001692]]"
-  - "[[_Standards/WikiData/WD~Pontorson,28464310]]"
-associated_electoral_district: "[[_Standards/WikiData/WD~canton_of_Pontorson,478090]]"
+- '[[_Standards/WikiData/WD~Pontorson,331426]]'
+- '[[_Standards/WikiData/WD~Beauvoir,1001692]]'
+- '[[_Standards/WikiData/WD~Pontorson,28464310]]'
+associated_electoral_district: '[[_Standards/WikiData/WD~canton_of_Pontorson,478090]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~commune_of_France,484170]]"
-  - "[[_Standards/WikiData/WD~car_free_place,64953083]]"
+- '[[_Standards/WikiData/WD~commune_of_France,484170]]'
+- '[[_Standards/WikiData/WD~car_free_place,64953083]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Couesnon,632961]]"
-  - "[[_Standards/WikiData/WD~English_Channel,34640]]"
+- '[[_Standards/WikiData/WD~Couesnon,632961]]'
+- '[[_Standards/WikiData/WD~English_Channel,34640]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~arrondissement_of_Avranches,700557]]"
-  - "[[_Standards/WikiData/WD~Manche,12589]]"
-member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+- '[[_Standards/WikiData/WD~arrondissement_of_Avranches,700557]]'
+- '[[_Standards/WikiData/WD~Manche,12589]]'
+member_of: '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Hatsukaichi,736897]]"
-  - "[[_Standards/WikiData/WD~Itsukushima,875301]]"
-  - "[[_Standards/WikiData/WD~Monte_Sant'Angelo,51935]]"
+- '[[_Standards/WikiData/WD~Hatsukaichi,736897]]'
+- '[[_Standards/WikiData/WD~Itsukushima,875301]]'
+- "[[_Standards/WikiData/WD~Monte_Sant'Angelo,51935]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
-archives_at: "[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496]]"
-list_of_monuments: "[[_Standards/WikiData/WD~Q3252411,3252411]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q9535051,9535051]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Le_Mont_Saint_Michel,65243672]]"
-head_of_government: "[[_Standards/WikiData/WD~Jacques_Bono,98239458]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
+archives_at: '[[_Standards/WikiData/WD~Departmental_archives_of_Manche,2860496]]'
+list_of_monuments: '[[_Standards/WikiData/WD~Q3252411,3252411]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9535051,9535051]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Mayor_of_Le_Mont_Saint_Michel,65243672]]'
+head_of_government: '[[_Standards/WikiData/WD~Jacques_Bono,98239458]]'
 coordinate_location: Point(-1.510277777 48.635833333)
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 male_population: 13
 elevation_above_sea_level: 17
 female_population: 17
 population: 23
 area: 3.97
-patron_saint: "[[_Standards/WikiData/WD~Archangel_Michael,45581]]"
+patron_saint: '[[_Standards/WikiData/WD~Archangel_Michael,45581]]'
 INSEE_municipality_code: 50353
 postal_code: 50170
 OmegaWiki_Defined_Meaning: 899293
 official_name:
-  - Mont-Michel
-  - Mont-Libre
-  - Le Mont-Saint-Michel
+- Mont-Michel
+- Mont-Libre
+- Le Mont-Saint-Michel
 Commons_category: Le Mont-Saint-Michel
 native_label: Le Mont-Saint-Michel
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20ville%20fr%20Mont-Saint-Michel%20%28Manche%29.svg
@@ -65,25 +101,161 @@ email_address: mailto:mairie.mtstmichel@wanadoo.fr
 phone_number: +33-2-33-60-14-06
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Le_Mont-Saint-Michel,20892|WD~Le_Mont-Saint-Michel,20892]]"
-    - "[[/_Standards/Earth/Geography/Place/Mont_Saint-Michel|Mont_Saint-Michel]]"
-    - "[[/_public/Earth/Geography/Place/Mont_Saint-Michel.public|Mont_Saint-Michel.public]]"
-    - "[[/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal|Mont_Saint-Michel.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect|Mont_Saint-Michel.protect]]"
-    - "[[/_private/Earth/Geography/Place/Mont_Saint-Michel.private|Mont_Saint-Michel.private]]"
-    - "[[/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal|Mont_Saint-Michel.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret|Mont_Saint-Michel.secret]]"
+  - '[[../../../WikiData/WD~Le_Mont-Saint-Michel,20892|WD~Le_Mont-Saint-Michel,20892]]'
+  - '[[/_Standards/Earth/Geography/Place/Mont_Saint-Michel|Mont_Saint-Michel]]'
+  - '[[/_public/Earth/Geography/Place/Mont_Saint-Michel.public|Mont_Saint-Michel.public]]'
+  - '[[/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal|Mont_Saint-Michel.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect|Mont_Saint-Michel.protect]]'
+  - '[[/_private/Earth/Geography/Place/Mont_Saint-Michel.private|Mont_Saint-Michel.private]]'
+  - '[[/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal|Mont_Saint-Michel.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret|Mont_Saint-Michel.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Le_Mont-Saint-Michel,20892|WD~Le_Mont-Saint-Michel,20892]]"
-  - "[[/_Standards/Earth/Geography/Place/Mont_Saint-Michel|Mont_Saint-Michel]]"
-  - "[[/_public/Earth/Geography/Place/Mont_Saint-Michel.public|Mont_Saint-Michel.public]]"
-  - "[[/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal|Mont_Saint-Michel.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect|Mont_Saint-Michel.protect]]"
-  - "[[/_private/Earth/Geography/Place/Mont_Saint-Michel.private|Mont_Saint-Michel.private]]"
-  - "[[/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal|Mont_Saint-Michel.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret|Mont_Saint-Michel.secret]]"
+- '[[../../../WikiData/WD~Le_Mont-Saint-Michel,20892|WD~Le_Mont-Saint-Michel,20892]]'
+- '[[/_Standards/Earth/Geography/Place/Mont_Saint-Michel|Mont_Saint-Michel]]'
+- '[[/_public/Earth/Geography/Place/Mont_Saint-Michel.public|Mont_Saint-Michel.public]]'
+- '[[/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal|Mont_Saint-Michel.internal]]'
+- '[[/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect|Mont_Saint-Michel.protect]]'
+- '[[/_private/Earth/Geography/Place/Mont_Saint-Michel.private|Mont_Saint-Michel.private]]'
+- '[[/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal|Mont_Saint-Michel.personal]]'
+- '[[/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret|Mont_Saint-Michel.secret]]'
+dv_has_:
+  name_:
+    af: Mont-Saint-Michel
+    an: Le Mont-Saint-Michel
+    ar: جبل القديس ميخائيل
+    arz: جبل القديس ميشيل
+    ast: Le Mont-Saint-Michel
+    az: Mont Sankt-Mişel
+    ban: Mont-Saint-Michel
+    bar: Le Mont-Saint-Michel
+    be: Мон-Сен-Мішэль
+    be-tarask: Мон-Сэн-Мішэль
+    bg: Мон Сен Мишел
+    bm: Le Mont-Saint-Michel
+    br: Menez Mikael ar Mor
+    bs: Mon Sen Mišel
+    bug: Mont Saint-Michel
+    ca: Mont Saint-Michel
+    ce: Ле-Мон-Сен-Мишель
+    ceb: Le Mont-Saint-Michel
+    co: Le Mont-Saint-Michel
+    cs: Mont-Saint-Michel
+    cy: Le Mont-Saint-Michel
+    da: Mont Saint-Michel
+    de: Le Mont-Saint-Michel
+    de-at: Le Mont-Saint-Michel
+    de-ch: Le Mont-Saint-Michel
+    diq: Mont Saint-Michel
+    el: Μον-Σαιν-Μισέλ
+    en: Le Mont Saint-Michel
+    en-ca: Mont Saint-Michel
+    en-gb: Le Mont-Saint-Michel
+    en-us: Le Mont Saint-Michel
+    eo: Monto Sankta Mikaelo
+    es: Monte Saint-Michel
+    et: Mont-Saint-Michel
+    eu: Mont-Saint-Michel
+    fa: مونت سن مایکل (جزیره)
+    fi: Mont Saint-Michel
+    fo: Mont Saint-Michel
+    fr: Le Mont-Saint-Michel
+    frc: Le Mont-Saint-Michel
+    frp: Le Mont-Saint-Michel
+    fur: Le Mont-Saint-Michel
+    ga: Le Mont-Saint-Michel
+    gd: Le Mont-Saint-Michel
+    gl: Le Mont-Saint-Michel
+    gsw: Le Mont-Saint-Michel
+    he: מון-סן-מישל
+    hi: ले मॉन्ट-सेंट-मिशेल
+    hr: Mont-Saint-Michel
+    hu: Mont-Saint-Michel
+    hy: Մոն Սեն Միշել
+    ia: Le Mont-Saint-Michel
+    id: Mont Saint-Michel
+    ie: Le Mont-Saint-Michel
+    io: Le Mont-Saint-Michel
+    is: Le Mont-Saint-Michel
+    it: Le Mont-Saint-Michel
+    ja: ル・モン＝サン＝ミシェル
+    jam: Le Mont-Saint-Michel
+    jv: Kastil Mont Saint Michael
+    ka: მონ-სენ-მიშელი
+    kab: Le Mont-Saint-Michel
+    kg: Le Mont-Saint-Michel
+    kk: Ле-Мон-Сен-Мишель
+    kl: Le Mont-Saint-Michel
+    ko: 몽생미셸섬
+    la: Mons Sancti Michaelis
+    lb: Le Mont-Saint-Michel
+    li: Le Mont-Saint-Michel
+    lij: Le Mont-Saint-Michel
+    lld: Le Mont-Saint-Michel
+    lt: Mon Sen Mišelis
+    lv: Monsenmišela
+    mg: Le Mont-Saint-Michel
+    min: Le Mont-Saint-Michel
+    mk: Мон Сен Мишел
+    mn: Le Mont-Saint-Michel
+    ms: Mont Saint-Michel
+    mt: Mont-Saint-Michel
+    mul: Le Mont-Saint-Michel
+    my: မောင့်စိန့်မိုက်ကယ်
+    nan: Le Mont-Saint-Michel
+    nap: Le Mont-Saint-Michel
+    nb: Mont-Saint-Michel
+    nds: Le Mont-Saint-Michel
+    nds-nl: Le Mont-Saint-Michel
+    nl: Le Mont-Saint-Michel
+    nn: Mont Saint-Michel
+    nrm: Mont Saint Miché
+    oc: Le Mont-Saint-Michel
+    pap: Le Mont-Saint-Michel
+    pcd: Le Mont-Saint-Michel
+    pl: Mont-Saint-Michel
+    pms: Mont-Saint-Michel
+    pnb: ماؤنٹ سینٹ مائیکل
+    prg: Le Mont-Saint-Michel
+    pt: Monte Saint-Michel
+    pt-br: Monte Saint-Michel
+    rgn: Le Mont-Saint-Michel
+    rm: Le Mont-Saint-Michel
+    ro: Mont Saint-Michel
+    ru: Мон-Сен-Мишель
+    sc: Le Mont-Saint-Michel
+    scn: Le Mont-Saint-Michel
+    sco: Le Mont-Saint-Michel
+    sh: Mont-Saint-Michel
+    sk: Mont-Saint-Michel
+    sl: Mont Saint-Michel
+    sq: Le Mont Saint-Michel
+    sr: Мон Сен Мишел
+    sr-el: Le Mont-Saint-Michel
+    sv: Le Mont-Saint-Michel
+    sw: Le Mont-Saint-Michel
+    ta: புனித மிக்கேல் மலை
+    th: มง-แซ็ง-มีแชล
+    tr: Mont Saint-Michel
+    tt: Ле-Мон-Сен-Мишель
+    uk: Ле-Мон-Сен-Мішель
+    uz: Le Mont-Saint-Michel
+    vec: Le Mont-Saint-Michel
+    vi: Mont-Saint-Michel
+    vls: Le Mont-Saint-Michel
+    vmf: Le Mont-Saint-Michel
+    vo: Le Mont-Saint-Michel
+    wa: Le Mont-Saint-Michel
+    war: Mont Saint-Michel
+    wo: Le Mont-Saint-Michel
+    wuu: 勒蒙圣米歇尔
+    xmf: მონ-სენ-მიშელი
+    yue: 勒蒙聖米歇爾
+    zh: 勒蒙-圣米歇尔
+    zh-cn: 勒蒙-圣米歇尔
+    zh-hans: 勒蒙-圣米歇尔
+    zh-hant: 勒蒙-聖米歇爾
+    zu: Le Mont-Saint-Michel
 ---
-
 # [[Mont_Saint-Michel]]
 
 ![[../../../assets/Mont_Saint-Michel.png]] 

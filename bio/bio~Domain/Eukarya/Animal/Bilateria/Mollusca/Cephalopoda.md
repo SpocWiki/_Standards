@@ -1,8 +1,181 @@
 ---
 aliases:
-  - Cephalopoda
+- Basayaqtılar
+- Başıayaqlılar
+- Blekksprutar
+- Blekkspruter
+- bläckfiskar
+- Boshoyoqli mollyuskalar
+- Cefalopodo
+- Cefalopodët
+- Cefalopòde
+- cefalòpode
+- Cefalópodes
+- Cefalópodos
+- ceifileapód
+- Cephalopod
+- Cephalopoda
+- fejlábúak
+- Galvakojai
+- Galvkāji
+- Glavonošci
+- glavonožci
+- głowonogi
+- Hlavonožce
+- hlavonožci
+- Hoodpuateten
+- Høgguslokkar
+- Ink-fish
+- inktvissen
+- Intevissn
+- Kafadan bacaklılar
+- kala pi noka lawa
+- Kapopieduloj
+- Kopffüsser
+- Kopffüßer
+- Koppfööt
+- Koppotige
+- Mymba ipy iñakãre
+- Nukos ug kugita
+- Peajalgsed
+- Polawuto
+- pääjalkaiset
+- Sefalopoda
+- sekat
+- Smokkar
+- Umachaki
+- động vật chân đầu
+- Łóóʼ Bigaan Dahólónígíí
+- Κεφαλόποδα
+- Басаяқтылар
+- Башпуттар
+- галаваногія
+- главоноги
+- главонози
+- главоношци
+- головоногі
+- головоногие
+- Къахсæр
+- գլխոտանիներ
+- סילוניות
+- باساياقتىلار
+- رأسيات الأرجل
+- راسيات القدم
+- سرپایان
+- शीर्षपाद
+- தலைக்காலி
+- ಶಿರಪಾದಿ
+- ชั้นเซฟาโลพอด
+- თავფეხიანები
+- 头足纲
+- 頭足綱
+- 頭足類
+- 두족류
 title: Cephalopoda
 has_id_wikidata: Q128257
+dv_has_:
+  name_:
+    af: Koppotige
+    ar: رأسيات الأرجل
+    arz: راسيات القدم
+    ast: Cephalopoda
+    az: Başıayaqlılar
+    bcl: Cephalopoda
+    be: галаваногія
+    be-tarask: галаваногія
+    bg: главоноги
+    bs: Glavonošci
+    ca: cefalòpode
+    ceb: Nukos ug kugita
+    cs: hlavonožci
+    da: Cephalopoda
+    de: Kopffüßer
+    de-ch: Kopffüsser
+    el: Κεφαλόποδα
+    en: Cephalopod
+    eo: Kapopieduloj
+    es: Cefalópodos
+    et: Peajalgsed
+    eu: Cephalopoda
+    fa: سرپایان
+    fi: pääjalkaiset
+    fo: Høgguslokkar
+    fr: Cephalopoda
+    frr: Hoodpuateten
+    ga: ceifileapód
+    gl: Cefalópodos
+    gn: Mymba ipy iñakãre
+    gor: Polawuto
+    he: סילוניות
+    hi: शीर्षपाद
+    hr: glavonošci
+    hu: fejlábúak
+    hy: գլխոտանիներ
+    ia: Cephalopoda
+    id: Cephalopoda
+    io: Cefalopodo
+    is: Smokkar
+    it: Cephalopoda
+    ja: 頭足類
+    jv: Cephalopoda
+    ka: თავფეხიანები
+    kk: Басаяқтылар
+    kk-arab: باساياقتىلار
+    kk-cn: باساياقتىلار
+    kk-cyrl: Басаяқтылар
+    kk-kz: Басаяқтылар
+    kk-latn: Basayaqtılar
+    kk-tr: Basayaqtılar
+    kn: ಶಿರಪಾದಿ
+    ko: 두족류
+    ky: Башпуттар
+    la: Cephalopoda
+    lfn: Sefalopoda
+    lt: Galvakojai
+    lv: Galvkāji
+    mk: главонози
+    mul: Cephalopoda
+    nb: Blekkspruter
+    nds: Koppfööt
+    nl: inktvissen
+    nn: Blekksprutar
+    nv: Łóóʼ Bigaan Dahólónígíí
+    oc: Cefalopòde
+    os: Къахсæр
+    pap: sekat
+    pl: głowonogi
+    pt: Cefalópodes
+    qu: Umachaki
+    ro: Cephalopoda
+    ru: головоногие
+    sco: Ink-fish
+    sh: Glavonošci
+    sk: Hlavonožce
+    sl: glavonožci
+    sq: Cefalopodët
+    sr: главоношци
+    sr-ec: Главоношци
+    sr-el: Glavonošci
+    sv: bläckfiskar
+    ta: தலைக்காலி
+    th: ชั้นเซฟาโลพอด
+    tl: Cephalopoda
+    tok: kala pi noka lawa
+    tr: Kafadan bacaklılar
+    uk: головоногі
+    uz: Boshoyoqli mollyuskalar
+    vi: động vật chân đầu
+    vls: Intevissn
+    war: Cephalopoda
+    wuu: 头足纲
+    yue: 頭足綱
+    zh: 头足纲
+    zh-cn: 头足纲
+    zh-hans: 头足纲
+    zh-hant: 頭足綱
+    zh-hk: 頭足綱
+    zh-sg: 头足纲
+    zh-tw: 頭足綱
 ---
 # [[Cephalopoda]] 
 

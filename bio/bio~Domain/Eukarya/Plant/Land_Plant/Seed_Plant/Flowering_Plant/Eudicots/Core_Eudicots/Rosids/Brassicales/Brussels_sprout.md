@@ -1,9 +1,183 @@
 ---
 aliases:
-  - Brussels sprout
-  - Rosenkohl
-  - Brussels_sprout
+- aonanī
+- atʼééké bijish yázhí
+- bachlóg Bhruiséile
+- bimbós kel
+- Brassica oleracea var gemmifera
+- Brassica oleracea var. gemmifera
+- Briseles kāposti
+- Briuselio kopūstas
+- Brockelchen
+- brstični ohrovt
+- Bruselaza
+- Brussels sprout
+- Brussels sprouts
+- Brusselspruit
+- Brussels_sprout
+- brysselkål
+- Bryussel karami
+- Bryusselʹ qırıqqabatı
+- Brüksel lahanası
+- Buinneag Bhruisealach
+- Burĝonbrasiko
+- Caaylag
+- Cauliculus Bruxellanus
+- cavolino di Bruxelles
+- chou de Bruxelles
+- col de Brussel·les
+- Col de Bruxelas
+- couve-de-bruxelas
+- Càvorlo de Brusel
+- cöo de Bruxelles
+- Cải Brussels
+- kaboċċi ta' Brussell
+- kaol-bihan
+- Kapusta obyčajná ružičková
+- kapusta warzywna brukselska
+- Kelj pupčar
+- keulkes
+- Kubis brussel
+- Kubis brussels
+- Prokelj
+- pupak
+- rooskapsas
+- Rosenkohl
+- Rosenkål
+- ruusukaali
+- ruusukaalâ
+- ruvsogálla
+- rååʹzkapus
+- Rósakál
+- růžičková kapusta
+- spruitkool
+- Spruut
+- Usbong ng bruselas
+- Varză de Bruxelles
+- Ysgewyll
+- Ésproete
+- λαχανάκι Βρυξελλών
+- брусэльская капуста
+- брюкселско зеле
+- Брюссель қырыққабаты
+- Брюссельская капуста
+- Брюссельська капуста
+- Кель пупчар
+- прокељ
+- Ғужмкарам
+- כרוב ניצנים
+- بريۋسسەل قىرىققاباتى
+- كرنب بروكسل
+- کلم بروکسل
+- ব্রাসেলস স্প্রাউট
+- கிளைக்கோசு
+- กะหล่ำดาว
+- ბრიუსელის კომბოსტო
+- メキャベツ
+- 抱子甘蓝
+- 抱子甘藍
+- 椰菜仔
+- 방울다다기
 has_id_wikidata: Q150463
+dv_has_:
+  name_:
+    af: Brusselspruit
+    ar: كرنب بروكسل
+    arz: كرنب بروكسل
+    ast: Brassica oleracea var gemmifera
+    be-tarask: брусэльская капуста
+    bg: брюкселско зеле
+    bn: ব্রাসেলস স্প্রাউট
+    br: kaol-bihan
+    ca: col de Brussel·les
+    ceb: Brassica oleracea var. gemmifera
+    cs: růžičková kapusta
+    cy: Ysgewyll
+    da: Rosenkål
+    de: Rosenkohl
+    el: λαχανάκι Βρυξελλών
+    en: Brussels sprouts
+    eo: Burĝonbrasiko
+    es: Brassica oleracea var. gemmifera
+    et: rooskapsas
+    eu: Bruselaza
+    fa: کلم بروکسل
+    fi: ruusukaali
+    fr: chou de Bruxelles
+    ga: bachlóg Bhruiséile
+    gd: Buinneag Bhruisealach
+    gl: Col de Bruxelas
+    gv: Caaylag
+    he: כרוב ניצנים
+    hr: Kelj pupčar
+    hsb: pupak
+    hu: bimbós kel
+    id: Kubis brussel
+    ig: Brussels sprouts
+    is: Rósakál
+    it: cavolino di Bruxelles
+    ja: メキャベツ
+    ka: ბრიუსელის კომბოსტო
+    kk: Брюссель қырыққабаты
+    kk-arab: بريۋسسەل قىرىققاباتى
+    kk-cn: بريۋسسەل قىرىققاباتى
+    kk-cyrl: Брюссель қырыққабаты
+    kk-kz: Брюссель қырыққабаты
+    kk-latn: Bryusselʹ qırıqqabatı
+    kk-tr: Bryusselʹ qırıqqabatı
+    ko: 방울다다기
+    ksh: Spruut
+    la: Cauliculus Bruxellanus
+    lb: Brockelchen
+    lij: cöo de Bruxelles
+    lt: Briuselio kopūstas
+    lv: Briseles kāposti
+    mi: aonanī
+    mk: прокељ
+    ms: Kubis brussels
+    mt: kaboċċi ta' Brussell
+    mul: Brassica oleracea var. gemmifera
+    nb: rosenkål
+    nds-nl: keulkes
+    nl: spruitkool
+    nn: Rosenkål
+    nv: atʼééké bijish yázhí
+    pcd: Ésproete
+    pl: kapusta warzywna brukselska
+    pt: couve-de-bruxelas
+    ro: Varză de Bruxelles
+    rsk: Кель пупчар
+    ru: Брюссельская капуста
+    se: ruvsogálla
+    sh: Prokelj
+    sk: Kapusta obyčajná ružičková
+    sl: brstični ohrovt
+    smn: ruusukaalâ
+    sms: rååʹzkapus
+    sq: Brassica oleracea var. gemmifera
+    sr: Прокељ
+    sr-ec: Прокељ
+    sr-el: Prokelj
+    sv: brysselkål
+    ta: கிளைக்கோசு
+    tg: Ғужмкарам
+    th: กะหล่ำดาว
+    tl: Usbong ng bruselas
+    tr: Brüksel lahanası
+    uk: Брюссельська капуста
+    uz: Bryussel karami
+    vec: Càvorlo de Brusel
+    vi: Cải Brussels
+    war: Brassica oleracea var. gemmifera
+    wuu: 抱子甘蓝
+    yue: 椰菜仔
+    zh: 抱子甘藍
+    zh-cn: 抱子甘蓝
+    zh-hans: 抱子甘蓝
+    zh-hant: 抱子甘藍
+    zh-hk: 抱子甘藍
+    zh-sg: 抱子甘蓝
+    zh-tw: 抱子甘藍
 ---
 # [[Brussels_sprout]] 
 

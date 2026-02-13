@@ -1,9 +1,45 @@
 ---
 aliases:
-  - Girls' Last Tour
-  - Girls_Last_Tour
-  - Girls Last Tour
+- Girls Last Tour
+- Girls' Last Tour
+- Girls_Last_Tour
+- L'ultimo viaggio delle ragazze
+- Ostatnia podróż
+- Shoujo Shuumatsu Ryokou
+- Shōjo Shūmatsu Ryokō
+- Остання подорож дівчат
+- Последње путовање
+- Последнее путешествие девочек
+- Աղջիկների վերջին ճանապարհորդությունը
+- رحلة الفتاتين الأخيرة
+- 少女終末旅行
+- 少女终末旅行
+- 소녀종말여행
 has_id_wikidata: Q36489734
+dv_has_:
+  name_:
+    ar: رحلة الفتاتين الأخيرة
+    de: Shōjo Shūmatsu Ryokō
+    en: Girls' Last Tour
+    es: Shōjo Shūmatsu Ryokō
+    fr: Girls' Last Tour
+    hy: Աղջիկների վերջին ճանապարհորդությունը
+    id: Girls' Last Tour
+    it: L'ultimo viaggio delle ragazze
+    ja: 少女終末旅行
+    ko: 소녀종말여행
+    pl: Ostatnia podróż
+    pt: Shoujo Shuumatsu Ryokou
+    ru: Последнее путешествие девочек
+    sr: Последње путовање
+    tr: Shōjo Shūmatsu Ryokō
+    uk: Остання подорож дівчат
+    vi: Girls' Last Tour
+    zh: 少女終末旅行
+    zh-hans: 少女终末旅行
+    zh-hant: 少女終末旅行
+    zh-hk: 少女終末旅行
+    zh-tw: 少女終末旅行
 ---
 ## #has_/text_of_/abstract 
 

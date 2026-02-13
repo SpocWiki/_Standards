@@ -1,8 +1,115 @@
 ---
 has_id_wikidata: Q223694
+dv_has_:
+  name_:
+    af: Krygsolifant
+    ar: فيل حربي
+    ast: Elefante de guerra
+    azb: ساواش فیلی
+    be-tarask: баявы слон
+    bg: Боен слон
+    br: olifant brezel
+    ca: Elefant de guerra
+    cs: válečný slon
+    cv: Çар пиллисем
+    da: Krigselefant
+    de: Kriegselefant
+    dga: zɔɔre wɔɔ
+    el: πολεμικός ελέφαντας
+    en: war elephant
+    eo: militelefanto
+    es: elefante de guerra
+    et: Sõjaelevant
+    eu: Gerra-elefante
+    fa: فیل جنگی
+    fi: Sotanorsu
+    fr: éléphant de guerre
+    gl: Elefante de guerra
+    he: פיל מלחמה
+    hi: युद्ध हाथी
+    hu: harci elefánt
+    hy: Մարտական փղեր
+    id: Gajah perang
+    it: elefante da guerra
+    ja: 戦象
+    jv: Gajah Perang
+    ko: 전투 코끼리
+    ms: Gajah perang
+    nb: Krigselefant
+    nl: Krijgsolifant
+    oc: Elefant de guèrra
+    pa: ਜੰਗੀ ਹਾਥੀ
+    pl: Słoń bojowy
+    pms: Elefant da guèra
+    pt: elefante de guerra
+    ro: elefant de război
+    ru: боевые слоны
+    sh: bojni slon
+    sr: Ratni slon
+    sv: Stridselefant
+    sw: Tembo wa vita
+    ta: யானைப் படை
+    th: ยุทธหัตถี
+    tr: Savaş fili
+    uk: Бойовий слон
+    vi: Voi chiến
+    yue: 戰象
+    zh: 戰象
+    zh-cn: 战象
+    zh-hans: 战象
+    zh-hant: 戰象
+    zh-hk: 戰象
+    zh-sg: 战象
+    zh-tw: 戰象
+aliases:
+- bojni slon
+- Elefant da guèra
+- Elefant de guerra
+- Elefant de guèrra
+- elefant de război
+- elefante da guerra
+- Elefante de guerra
+- Gajah perang
+- Gerra-elefante
+- harci elefánt
+- Kriegselefant
+- Krigselefant
+- Krijgsolifant
+- Krygsolifant
+- militelefanto
+- olifant brezel
+- Ratni slon
+- Savaş fili
+- Sotanorsu
+- Stridselefant
+- Sõjaelevant
+- Słoń bojowy
+- Tembo wa vita
+- Voi chiến
+- válečný slon
+- war elephant
+- zɔɔre wɔɔ
+- Çар пиллисем
+- éléphant de guerre
+- πολεμικός ελέφαντας
+- баявы слон
+- боевые слоны
+- Боен слон
+- Бойовий слон
+- Մարտական փղեր
+- פיל מלחמה
+- ساواش فیلی
+- فيل حربي
+- فیل جنگی
+- युद्ध हाथी
+- ਜੰਗੀ ਹਾਥੀ
+- யானைப் படை
+- ยุทธหัตถี
+- 战象
+- 戦象
+- 戰象
+- 전투 코끼리
 ---
-
-
 # [[War_Elephant]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~War_elephant,223694|WD~War_elephant,223694]]  

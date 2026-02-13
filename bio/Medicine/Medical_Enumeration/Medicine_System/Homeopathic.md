@@ -1,23 +1,81 @@
 ---
 aliases:
-  - homeopathic
-  - Homeopathic
-  - is_a_homeopathic
-  - Homöopathie
-  - homöopathisch
-  - homoeopathy
+- Gomeopatiya
+- hoiméapaite
+- homeopathi
+- homeopathia
+- homeopathic
+- homeopathie
+- homeopathy
+- homeopati
+- homeopatia
+- homeopatie
+- homeopatija
+- homeopatio
+- homeopatiya
+- homeopaty
+- homeopatía
+- homeopátia
+- homeopātija
+- homoeopathy
+- homoiopathia
+- homéopathie
+- homéopati
+- Homöopaatia
+- Homöopathie
+- homöopathisch
+- homøopati
+- is_a_homeopathic
+- omeopatia
+- smáskammtalækningar
+- Vi lượng đồng căn
+- ομοιοπαθητική
+- гамеапатыя
+- гамэапатыя
+- гомеопатія
+- гомеопати
+- гомеопатия
+- хомеопатија
+- хомеопатия
+- האמעאפאטיע
+- הומאופתיה
+- معالجة مثلية
+- معالجہ المثلیہ
+- هومئوپاتی
+- هومیوپاتي
+- ہومیوپیھتی
+- होमिओपथी
+- होमिओपॅथी
+- होमियोपति
+- होमियोप्याथी
+- होम्योपैथी
+- হোমিঅ’পেথি
+- হোমিওপ্যাথি
+- ਹੋਮੀਓਪੈਥੀ
+- હોમિયોપેથી
+- ஓமியோபதி
+- హోమియోపతీ వైద్య విధానం
+- ಹೋಮಿಯೋಪಥಿ
+- ഹോമിയോപ്പതി
+- හෝමියෝපති
+- โฮมีโอพาธี
+- ჰომეოპათია
+- ホメオパシー
+- 順勢療法
+- 顺势疗法
+- 동종요법
 has_id_wikidata: Q81058
 founded_by: '[[_Standards/WikiData/WD~Samuel_Hahnemann,157056]]'
 subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~parascience,1517851]]'
-  - '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
-  - '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]'
+- '[[_Standards/WikiData/WD~parascience,1517851]]'
+- '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
+- '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]'
 uses: '[[_Standards/WikiData/WD~homeopathic_preparation,1626450]]'
 practiced_by: '[[_Standards/WikiData/WD~homeopath,12020057]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27096430,27096430]]'
@@ -30,33 +88,131 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Homoepathikas.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lecture%205%20-%20Homeopathy.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/homeopathy
 Dewey_Decimal_Classification:
-  - 615.532
-  - 636.0895532
+- 615.532
+- 636.0895532
 UMLS_CUI: C0684199
 MeSH_tree_code: E02.190.388
 OpenStreetMap_tag: healthcare:speciality=homeopathy
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicineSystem
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - homeopathic
+- homeopathic
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_homeopathic Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_homeopathic Class
 type: Type
+dv_has_:
+  name_:
+    af: homeopatie
+    ar: معالجة مثلية
+    as: হোমিঅ’পেথি
+    ast: homeopatía
+    az: homeopatiya
+    ba: гомеопатия
+    be: гамеапатыя
+    be-tarask: гамэапатыя
+    bg: хомеопатия
+    bn: হোমিওপ্যাথি
+    bs: homeopatija
+    ca: homeopatia
+    cs: homeopatie
+    cv: гомеопати
+    cy: homeopathi
+    da: homøopati
+    de: Homöopathie
+    de-ch: Homöopathie
+    el: ομοιοπαθητική
+    en: homeopathy
+    en-ca: homeopathy
+    en-gb: homeopathy
+    eo: homeopatio
+    es: homeopatía
+    et: Homöopaatia
+    eu: homeopatia
+    fa: هومئوپاتی
+    fi: homeopatia
+    fr: homéopathie
+    fy: homeopaty
+    ga: hoiméapaite
+    gl: homeopatía
+    gom: होमिओपथी
+    gom-deva: होमिओपथी
+    gom-latn: homeopathy
+    gu: હોમિયોપેથી
+    he: הומאופתיה
+    hi: होम्योपैथी
+    hr: homeopatija
+    hsb: homeopatija
+    hu: homeopátia
+    ia: homeopathia
+    id: homeopati
+    ie: homeopatie
+    io: homeopatio
+    is: smáskammtalækningar
+    it: omeopatia
+    ja: ホメオパシー
+    ka: ჰომეოპათია
+    kk: гомеопатия
+    kn: ಹೋಮಿಯೋಪಥಿ
+    ko: 동종요법
+    la: homoiopathia
+    lfn: omeopatia
+    lmo: Omeopatia
+    lt: homeopatija
+    lv: homeopātija
+    mk: хомеопатија
+    ml: ഹോമിയോപ്പതി
+    mr: होमिओपॅथी
+    ms: Homeopati
+    nb: homøopati
+    ne: होमियोप्याथी
+    nl: homeopathie
+    nn: homøopati
+    oc: omeopatia
+    pa: ਹੋਮੀਓਪੈਥੀ
+    pl: homeopatia
+    pnb: ہومیوپیھتی
+    ps: هومیوپاتي
+    pt: homeopatia
+    pt-br: homeopatia
+    ro: homeopatie
+    ru: гомеопатия
+    sa: होमियोपति
+    sco: homeopathy
+    sh: Homeopatija
+    si: හෝමියෝපති
+    sk: Homeopatia
+    sl: homeopatija
+    sr: хомеопатија
+    su: homéopati
+    sv: homeopati
+    ta: ஓமியோபதி
+    te: హోమియోపతీ వైద్య విధానం
+    th: โฮมีโอพาธี
+    tl: homeopatiya
+    tr: homeopati
+    uk: гомеопатія
+    ur: معالجہ المثلیہ
+    uz: Gomeopatiya
+    vi: Vi lượng đồng căn
+    war: Homeopatiya
+    wuu: 顺势疗法
+    yi: האמעאפאטיע
+    yue: 順勢療法
+    zh: 順勢療法
 ---
-
 # [[Homeopathic]]
 
 Tag Instances like this: 

@@ -1,7 +1,10 @@
 ---
 aliases:
-  - Alexander's Ragtime Band
-  - Alexander's_Ragtime_Band
+- Alexander's Ragtime Band
+- Alexander's_Ragtime_Band
+- Alexander’s Ragtime Band
+- アレキサンダーズ・ラグタイム・バンド
+- 亞歷山大的散拍樂隊
 has_id_wikidata: Q1293813
 performer: '[[_Standards/WikiData/WD~Bessie_Smith,93349]]'
 lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
@@ -17,8 +20,35 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%27s%20Ragtim
 Commons_category: Alexander's Ragtime Band
 Parsons_code: UDUDUDURDUDDDU
 publication_date: 1911-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ast: Alexander's Ragtime Band
+    ca: Alexander's Ragtime Band
+    da: Alexander's Ragtime Band
+    de: Alexander’s Ragtime Band
+    en: Alexander's Ragtime Band
+    es: Alexander's Ragtime Band
+    eu: Alexander's Ragtime Band
+    fi: Alexander’s Ragtime Band
+    fr: Alexander's Ragtime Band
+    he: Alexander's Ragtime Band
+    hu: Alexander's Ragtime Band
+    id: Alexander's Ragtime Band
+    it: Alexander's Ragtime Band
+    ja: アレキサンダーズ・ラグタイム・バンド
+    nb: Alexander's Ragtime Band
+    nl: Alexander's Ragtime Band
+    nn: Alexander's Ragtime Band
+    pl: Alexander's Ragtime Band
+    pt: Alexander's Ragtime Band
+    ro: Alexander's Ragtime Band
+    se: Alexander's Ragtime Band
+    sh: Alexander's Ragtime Band
+    sq: Alexander's Ragtime Band
+    sv: Alexander's Ragtime Band
+    tr: Alexander's Ragtime Band
+    zh: 亞歷山大的散拍樂隊
 ---
-
 # [[Alexander's_Ragtime_Band]] 
 
 #is_/same_as :: [[WD~Alexander's_Ragtime_Band,1293813]] 

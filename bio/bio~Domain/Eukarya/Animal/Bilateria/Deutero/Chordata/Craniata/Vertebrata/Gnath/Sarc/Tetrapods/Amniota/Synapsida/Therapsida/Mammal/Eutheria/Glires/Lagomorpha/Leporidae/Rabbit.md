@@ -1,41 +1,193 @@
 ---
 aliases:
-  - bunnies
-  - bunny
-  - Rabbits
-  - Rabbit
+- Ada tavşanı
+- Adadovşanı
+- adanko
+- Apere'arusu
+- arnab
+- awtul
+- Azwi
+- Bakeyle
+- Bitro
+- bunnies
+- bunny
+- coelho
+- coello
+- Coineanach
+- coinín
+- conejo
+- Coneo
+- coniglio
+- conilh
+- conilio
+- conill
+- Coning
+- Conéjo
+- Counél
+- Cuniculus
+- Cunigghiu
+- Cunèṅ
+- Cunìch
+- Cwningen
+- Douq
+- Ehoro
+- fenek
+- Gah
+- haas
+- Haasli
+- Iepure
+- Kalinci
+- kani
+- kanin
+- Kaninchen
+- Kanínur
+- Kawelu
+- Kelenci
+- Kelinci
+- Kelènci
+- Keun
+- Kinnen
+- kniende
+- knyn
+- Konejo
+- konijn
+- konènchi
+- krolig
+- králík
+- królik
+- Kudiwis
+- kunci
+- Kuneho
+- kuniklo
+- Kunić
+- Kunu
+- kîvroşk
+- Küülik
+- Lapen
+- lapin
+- lepur
+- Lāpaki
+- Mbũkũ
+- Mmutla
+- nukl
+- nyúl
+- oke oyibo
+- Quyon
+- Rabbit
+- Rabbits
+- Rabit
+- ractu
+- Robete
+- rāpeti
+- Soɔŋaa
+- Thu-é
+- thỏ
+- Towşan
+- Triošis
+- triušiai
+- Trus
+- Truši
+- Tsuro
+- Tó
+- Tōchtli
+- untxi
+- Vohkoohe
+- Wank'u
+- wapoc
+- Wojere
+- Zomo
+- Ľiepuri
+- κουνέλι
+- зајак
+- заек подземник
+- кролі
+- кролик
+- кунић
+- Пашбукъ
+- трусы
+- Труська
+- Хæдзарон тæрхъустæ
+- Харгӯш
+- қоян
+- ճագար
+- ארנבים
+- קיניגל
+- آغو
+- أرنب
+- توشقان
+- خرگوش
+- خَرگوش
+- دؤشان
+- سھو
+- ڨنين
+- کەروێشک
+- ߛߊ߯ߣߍ߲
+- खरगोश
+- खरहा
+- खरायो
+- खरिया
+- शशः
+- ससा
+- খরগোশ
+- শহাপহু
+- ਖਰਗੋਸ਼
+- સસલું
+- ଠେକୁଆ
+- முயல்
+- కుందేలు
+- ಮುಯ್ಯೆರ್/ಮೇರ್
+- ಮೊಲ
+- മുയൽ
+- හාවා
+- กระต่าย
+- တွင်းယုန်
+- ပၢင်တၢႆး
+- ბოცვერი
+- ጥንቸል
+- ᏥᏍᏚ
+- ᐅᑲᓕᐊᑦᓯᐊᖅ
+- ᡤᡡᠯᠮᠠᡥᡡᠨ
+- ᥙᥣᥒ ᥖᥣᥭᥰ
+- ᱠᱩᱞᱟ.ᱭ
+- ⴰⵇⵏⵉⵏ
+- ウサギ
+- 兔
+- 穴兔类
+- 穴兔類
+- ꯊꯦꯕ
+- 래빗
 has_id_wikidata: Q9394
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Pronolagus,685653]]"
-  - "[[_Standards/WikiData/WD~cottontail_rabbit,748448]]"
-  - "[[_Standards/WikiData/WD~Nesolagus,913660]]"
-  - "[[_Standards/WikiData/WD~Brachylagus,10741095]]"
-  - "[[_Standards/WikiData/WD~Bunolagus,10741687]]"
-  - "[[_Standards/WikiData/WD~Oryctolagus,10803279]]"
-  - "[[_Standards/WikiData/WD~Pentalagus,10804633]]"
-  - "[[_Standards/WikiData/WD~Poelagus,10808047]]"
-  - "[[_Standards/WikiData/WD~Romerolagus,10811874]]"
+- '[[_Standards/WikiData/WD~Pronolagus,685653]]'
+- '[[_Standards/WikiData/WD~cottontail_rabbit,748448]]'
+- '[[_Standards/WikiData/WD~Nesolagus,913660]]'
+- '[[_Standards/WikiData/WD~Brachylagus,10741095]]'
+- '[[_Standards/WikiData/WD~Bunolagus,10741687]]'
+- '[[_Standards/WikiData/WD~Oryctolagus,10803279]]'
+- '[[_Standards/WikiData/WD~Pentalagus,10804633]]'
+- '[[_Standards/WikiData/WD~Poelagus,10808047]]'
+- '[[_Standards/WikiData/WD~Romerolagus,10811874]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~rabbit_fur,1723770]]"
-  - "[[_Standards/WikiData/WD~rabbit_meat,3556748]]"
-  - "[[_Standards/WikiData/WD~rabbit_wool,118228617]]"
-  - "[[_Standards/WikiData/WD~rabbit_milk,125257091]]"
+- '[[_Standards/WikiData/WD~rabbit_fur,1723770]]'
+- '[[_Standards/WikiData/WD~rabbit_meat,3556748]]'
+- '[[_Standards/WikiData/WD~rabbit_wool,118228617]]'
+- '[[_Standards/WikiData/WD~rabbit_milk,125257091]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Keun,14635041]]"
-  - "[[_Standards/WikiData/WD~Q33543756,33543756]]"
-  - "[[_Standards/WikiData/WD~Rabbit,114353576]]"
-  - "[[_Standards/WikiData/WD~European_Rabbit,25851]]"
-  - "[[_Standards/WikiData/WD~hare,46076]]"
+- '[[_Standards/WikiData/WD~Keun,14635041]]'
+- '[[_Standards/WikiData/WD~Q33543756,33543756]]'
+- '[[_Standards/WikiData/WD~Rabbit,114353576]]'
+- '[[_Standards/WikiData/WD~European_Rabbit,25851]]'
+- '[[_Standards/WikiData/WD~hare,46076]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-subclass_of: "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
-opposite_of: "[[_Standards/WikiData/WD~hare,63941258]]"
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+opposite_of: '[[_Standards/WikiData/WD~hare,63941258]]'
 subreddit: Rabbits
 Commons_category: Rabbits
 social_media_followers: 311379
@@ -47,13 +199,191 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Lapin
 IMDb_keyword: rabbit
 UNSPSC_Code: 10101512
 Unicode_character:
-  - 🐇
-  - 🐰
+- "\U0001F407"
+- "\U0001F430"
 MeSH_tree_code: B01.050.150.900.649.313.968.700
 UMLS_CUI: C3887509
 Wolfram_Language_entity_code: Entity["FoodType", "Rabbit"]
+dv_has_:
+  name_:
+    aeb-arab: أرنب
+    af: haas
+    am: ጥንቸል
+    ami: Kudiwis
+    ang: Coning
+    ar: أرنب
+    arq: ڨنين
+    as: শহাপহু
+    atj: wapoc
+    ay: Wank'u
+    az: Adadovşanı
+    azb: دؤشان
+    ban: Kelinci
+    bcl: Rabit
+    be: трусы
+    be-tarask: трусы
+    bew: Kelènci
+    bg: заек подземник
+    bho: खरहा
+    bjn: Kalinci
+    bn: খরগোশ
+    bs: Kunić
+    ca: conill
+    cdo: Tó
+    ce: Пашбукъ
+    chr: ᏥᏍᏚ
+    chy: Vohkoohe
+    ckb: کەروێشک
+    cs: králík
+    csb: Trus
+    cv: Кролик
+    cy: Cwningen
+    da: kanin
+    de: Kaninchen
+    de-ch: Kaninchen
+    dga: Soɔŋaa
+    el: κουνέλι
+    eml: Cunèṅ
+    en: rabbit
+    eo: kuniklo
+    es: conejo
+    et: Küülik
+    eu: untxi
+    fa: خرگوش
+    ff: Wojere
+    fi: kani
+    fo: Kanin
+    fon: Azwi
+    fr: lapin
+    frp: Counél
+    fy: knyn
+    ga: coinín
+    gd: Coineanach
+    gl: coello
+    gn: Apere'arusu
+    gu: સસલું
+    ha: Zomo
+    hak: Thu-é
+    haw: Lāpaki
+    he: ארנבים
+    hi: खरगोश
+    hr: Kunić
+    hsb: nukl
+    ht: Lapen
+    hu: nyúl
+    hy: ճագար
+    ia: conilio
+    id: kelinci
+    ig: oke oyibo
+    io: kuniklo
+    is: Kanínur
+    it: coniglio
+    iu: ᐅᑲᓕᐊᑦᓯᐊᖅ
+    ja: ウサギ
+    jbo: ractu
+    jv: Kelinci
+    ka: ბოცვერი
+    kab: awtul
+    ki: Mbũkũ
+    kk-cyrl: қоян
+    kn: ಮೊಲ
+    ko: 래빗
+    ks: خَرگوش
+    ku: kîvroşk
+    la: Cuniculus
+    lad: Konejo
+    lfn: Coneo
+    lmo: Cunìch
+    lt: triušiai
+    lv: Truši
+    lzh: 兔
+    mai: खरिया
+    mg: Bitro
+    mi: rāpeti
+    mk: зајак
+    ml: മുയൽ
+    mnc: ᡤᡡᠯᠮᠠᡥᡡᠨ
+    mni: ꯊꯦꯕ
+    mr: ससा
+    ms: arnab
+    mt: fenek
+    my: တွင်းယုန်
+    mzn: آغو
+    nah: Tōchtli
+    nb: kanin
+    nds-nl: kniende
+    ne: खरायो
+    nia: Kawelu
+    nl: konijn
+    nn: kanin
+    nqo: ߛߊ߯ߣߍ߲
+    nso: Mmutla
+    nv: Gah
+    oc: conilh
+    or: ଠେକୁଆ
+    os: Хæдзарон тæрхъустæ
+    pa: ਖਰਗੋਸ਼
+    pap: konènchi
+    pcd: Lapin
+    pdc: Haasli
+    pl: królik
+    pnb: خرگوش
+    pt: coelho
+    pt-br: coelho
+    qu: Kunu
+    ro: Iepure
+    ru: кролик
+    rue: Труська
+    rup: Ľiepuri
+    sa: शशः
+    sat: ᱠᱩᱞᱟ.ᱭ
+    scn: Cunigghiu
+    sco: Kinnen
+    sd: سھو
+    sgs: Triošis
+    sh: Kunić
+    shn: ပၢင်တၢႆး
+    si: හාවා
+    sl: kunci
+    sn: Tsuro
+    so: Bakeyle
+    sq: lepur
+    sr: кунић
+    sr-ec: Кунић
+    st: Mmutla
+    su: Kelenci
+    sv: kanin
+    ta: முயல்
+    tcy: ಮುಯ್ಯೆರ್/ಮೇರ್
+    tdd: ᥙᥣᥒ ᥖᥣᥭᥰ
+    te: కుందేలు
+    tg: Харгӯш
+    th: กระต่าย
+    tk: Towşan
+    tl: Kuneho
+    tr: Ada tavşanı
+    tw: adanko
+    udm: кролик
+    ug: توشقان
+    uk: кролі
+    ur: خرگوش
+    uz: Quyon
+    vec: Conéjo
+    vi: thỏ
+    vls: Keun
+    vo: krolig
+    wa: Robete
+    war: Kuneho
+    wuu: 穴兔类
+    yi: קיניגל
+    yo: Ehoro
+    yue: 穴兔類
+    za: Douq
+    zgh: ⴰⵇⵏⵉⵏ
+    zh: 穴兔類
+    zh-hans: 穴兔类
+    zh-hant: 穴兔類
 ---
-
 # [[Rabbit]] 🐰 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Rabbit,9394|WD~Rabbit,9394]] 

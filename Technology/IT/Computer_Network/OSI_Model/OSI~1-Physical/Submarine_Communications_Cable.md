@@ -1,25 +1,125 @@
 ---
 aliases:
+- cable de comunicacions submarí
+- Cable Submarino de Comunicaciones
+- cabo submarino
+- Cavo sotomarin
+- cavo sottomarino
+- Cábla fomhuirí
+- câble sous-marin
+- deniz altı iletişim kablosu
+- itsaspeko kable
+- Kabel komunikasi bawah laut
+- Kabel Telekomunikasi Jero Laut
+- Kebo ya baharini ya mawasiliano
+- merikaapeli
+- onderzeekabel
+- podmorski kabel telekomunikacyjny
+- podmorski komunikacijski kabel
+- podmořský kabel
+- Seekabel
+- sjökabel
+- sjøkabel for kommunikasjon
+- Sualtı kommunikasiya kabeli
+- submara komunikada kablo
+- submarine communications cable
+- Sæstrengur
+- søkabel
+- veealune sidekaabel
+- zemūdens sakaru kabelis
+- Υποβρύχιο καλώδιο
+- Підводний комунікаційний кабель
+- падводны камунікацыйны кабэль
+- Подводен комуникационен кабел
+- Подводный коммуникационный кабель
+- Су асты коммуникациялық кабель
+- כבל תת-ימי
+- بحري تار
+- كابل اتصالات بحري
+- کابل ارتباطی زیردریایی
+- अंतःसमुद्री केबल
+- সাবমেরিন কমিউনিকেশন্স ক্যাবল
+- நீர்மூழ்கி தகவல்தொடர்பு கேபிள்
+- അന്തർസമുദ്ര കേബിൾ നിക്ഷേപണം
+- เคเบิลสื่อสารใต้น้ำ
+- წყალქვეშა საკომუნიკაციო კაბელი
+- 海底ケーブル
+- 海底电缆
+- 海底電纜
+- 해저 케이블
 has_id_wikidata: Q506572
 subclass_of:
-  - "[[_Standards/WikiData/WD~cable,646462]]"
-  - "[[_Standards/WikiData/WD~telecommunications_cable,15995523]]"
-has_part_s_: "[[_Standards/WikiData/WD~cable_landing_point,5015682]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_submarine_communications_cable,13383974]]"
+- '[[_Standards/WikiData/WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~telecommunications_cable,15995523]]'
+has_part_s_: '[[_Standards/WikiData/WD~cable_landing_point,5015682]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_submarine_communications_cable,13383974]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-has_use: "[[_Standards/WikiData/WD~telecommunications,418]]"
+has_use: '[[_Standards/WikiData/WD~telecommunications,418]]'
 properties_for_this_type:
-  - throughput
-  - main building contractor
+- throughput
+- main building contractor
 uses:
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
-  - "[[_Standards/WikiData/WD~optical_fiber,162]]"
+- '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~optical_fiber,162]]'
 Commons_category: Submarine communications cables
 EntitySchema_for_this_class: E147
-UNSPSC_Code: "26121602"
-Common_Procurement_Vocabulary_code: "31321500"
+UNSPSC_Code: 26121602
+Common_Procurement_Vocabulary_code: 31321500
+dv_has_:
+  name_:
+    ar: كابل اتصالات بحري
+    arz: كابل اتصالات بحري
+    az: Sualtı kommunikasiya kabeli
+    be-tarask: падводны камунікацыйны кабэль
+    bg: Подводен комуникационен кабел
+    bn: সাবমেরিন কমিউনিকেশন্স ক্যাবল
+    ca: cable de comunicacions submarí
+    cs: podmořský kabel
+    da: søkabel
+    de: Seekabel
+    el: Υποβρύχιο καλώδιο
+    en: submarine communications cable
+    en-ca: Submarine communications cable
+    en-gb: submarine communications cable
+    eo: submara komunikada kablo
+    es: Cable Submarino de Comunicaciones
+    et: veealune sidekaabel
+    eu: itsaspeko kable
+    fa: کابل ارتباطی زیردریایی
+    fi: merikaapeli
+    fr: câble sous-marin
+    ga: Cábla fomhuirí
+    he: כבל תת-ימי
+    hi: अंतःसमुद्री केबल
+    id: Kabel komunikasi bawah laut
+    is: Sæstrengur
+    it: cavo sottomarino
+    ja: 海底ケーブル
+    ka: წყალქვეშა საკომუნიკაციო კაბელი
+    kk: Су асты коммуникациялық кабель
+    ko: 해저 케이블
+    lv: zemūdens sakaru kabelis
+    ml: അന്തർസമുദ്ര കേബിൾ നിക്ഷേപണം
+    nb: sjøkabel for kommunikasjon
+    nl: onderzeekabel
+    pl: podmorski kabel telekomunikacyjny
+    pt: cabo submarino
+    ru: Подводный коммуникационный кабель
+    sd: بحري تار
+    sl: podmorski komunikacijski kabel
+    su: Kabel Telekomunikasi Jero Laut
+    sv: sjökabel
+    sw: Kebo ya baharini ya mawasiliano
+    ta: நீர்மூழ்கி தகவல்தொடர்பு கேபிள்
+    th: เคเบิลสื่อสารใต้น้ำ
+    tr: deniz altı iletişim kablosu
+    uk: Підводний комунікаційний кабель
+    vec: Cavo sotomarin
+    zh: 海底電纜
+    zh-hans: 海底电缆
+    zh-hant: 海底電纜
+    zh-hk: 海底電纜
 ---
-
 # [[Submarine_Communications_Cable]] 
 
 #is_/same_as :: [[WD~Submarine_communications_cable,506572]]

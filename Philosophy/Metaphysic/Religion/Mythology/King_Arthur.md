@@ -1,8 +1,201 @@
 ---
 has_id_wikidata: Q45792
+dv_has_:
+  name_:
+    acm: الملك ارثر
+    af: Koning Arthur
+    an: Rei Artús
+    ar: الملك آرثر
+    arz: الملك ارثر
+    as: ৰজা আৰ্থাৰ
+    ast: Rei Arturu
+    az: Kral Artur
+    be: Кароль Артур
+    be-tarask: Кароль Артур
+    bg: Артур
+    bjn: Raja Arthur
+    bn: রাজা আর্থার
+    br: roue Arzhur
+    bs: Kralj Arthur
+    ca: rei Artús
+    ceb: Haring Arturo
+    ckb: شا ئارتوور
+    cs: Král Artuš
+    cv: Король Артур
+    cy: y Brenin Arthur
+    da: Kong Arthur
+    de: Artus
+    el: Βασιλιάς Αρθούρος
+    en: King Arthur
+    en-gb: King Arthur
+    eo: Reĝo Arturo
+    es: Rey Arturo
+    et: Kuningas Arthur
+    eu: Artur erregea
+    fa: شاه آرتور
+    fi: Kuningas Arthur
+    fr: roi Arthur
+    frr: Artus
+    fy: Kening Arthur
+    ga: Rí Artúr
+    gl: Rei Artur
+    gsw: Artus
+    gu: કિંગ આર્થર
+    gv: Ree Adha
+    he: המלך ארתור
+    hi: किंग आर्थर
+    hr: Kralj Arthur
+    hu: Artúr király
+    hy: Արթուր
+    id: Raja Arthur
+    io: Rejulo Arthur
+    is: Artúr konungur
+    it: Re Artù
+    ja: アーサー王
+    jam: King Aata
+    ka: მეფე არტური
+    kn: ಕಿಂಗ್ ಆರ್ಥರ್
+    ko: 아서왕
+    ku: Key Arthur
+    kw: Arthur Gernow
+    la: Arthurus
+    lb: Artus
+    lfn: Re Artur
+    lmo: Rè Artur
+    lt: Karalius Artūras
+    lv: Karalis Arturs
+    lzh: 亞瑟王傳說
+    mg: Roi Arthur
+    mi: Kīngi Āta
+    min: Rajo Artua
+    mk: Крал Артур
+    ml: കിങ്ങ് ആർതർ
+    ms: Raja Arthur
+    nb: Arthur av britene
+    nl: Koning Arthur
+    nn: Kong Arthur
+    nrm: Rouai Èrthu
+    oc: Rèi Artur
+    os: Къарол Артур
+    pa: ਰਾਜਾ ਆਰਥਰ
+    pam: Aring Arturo
+    pcd: Roé Artur
+    pl: Król Artur
+    ps: پاچا آرتور
+    pt: Rei Artur
+    ro: Regele Artur
+    ru: Король Артур
+    sco: Keeng Arthur
+    sh: Kralj Arthur
+    sk: Kráľ Artuš
+    sl: kralj Artur
+    sq: Arthur
+    sr: Kralj Artur
+    sv: Kung Artur
+    sw: Mfalme Arthur
+    ta: ஆர்தர் அரசர்
+    te: కింగ్ ఆర్థర్
+    tg: Шоҳ Артур
+    th: พระเจ้าอาร์เธอร์
+    tl: Haring Arturo
+    tr: Kral Arthur
+    uk: Король Артур
+    ur: بادشاہ آرتھر
+    uz: Qirol Arthur
+    vi: Vua Arthur
+    war: Hadi Arturo
+    wuu: 亞瑟王
+    yue: 雅打王
+    zh: 亚瑟王
+    zh-cn: 亞瑟王
+    zh-tw: 亞瑟王
+aliases:
+- Aring Arturo
+- Arthur
+- Arthur av britene
+- Arthur Gernow
+- Arthurus
+- Artur erregea
+- Artus
+- Artúr király
+- Artúr konungur
+- Hadi Arturo
+- Haring Arturo
+- Karalis Arturs
+- Karalius Artūras
+- Keeng Arthur
+- Kening Arthur
+- Key Arthur
+- King Aata
+- King Arthur
+- Kong Arthur
+- Koning Arthur
+- Kral Arthur
+- Kral Artur
+- Kralj Arthur
+- kralj Artur
+- Král Artuš
+- Kráľ Artuš
+- Król Artur
+- Kung Artur
+- Kuningas Arthur
+- Kīngi Āta
+- Mfalme Arthur
+- Qirol Arthur
+- Raja Arthur
+- Rajo Artua
+- Re Artur
+- Re Artù
+- Ree Adha
+- Regele Artur
+- Rei Artur
+- Rei Arturu
+- Rei Artús
+- Rejulo Arthur
+- Rey Arturo
+- Reĝo Arturo
+- roi Arthur
+- Rouai Èrthu
+- roue Arzhur
+- Roé Artur
+- Rè Artur
+- Rèi Artur
+- Rí Artúr
+- Vua Arthur
+- y Brenin Arthur
+- Βασιλιάς Αρθούρος
+- Артур
+- Кароль Артур
+- Король Артур
+- Крал Артур
+- Къарол Артур
+- Шоҳ Артур
+- Արթուր
+- המלך ארתור
+- الملك آرثر
+- الملك ارثر
+- بادشاہ آرتھر
+- شا ئارتوور
+- شاه آرتور
+- پاچا آرتور
+- किंग आर्थर
+- রাজা আর্থার
+- ৰজা আৰ্থাৰ
+- ਰਾਜਾ ਆਰਥਰ
+- કિંગ આર્થર
+- ஆர்தர் அரசர்
+- కింగ్ ఆర్థర్
+- ಕಿಂಗ್ ಆರ್ಥರ್
+- കിങ്ങ് ആർതർ
+- พระเจ้าอาร์เธอร์
+- მეფე არტური
+- アーサー王
+- 亚瑟王
+- 亞瑟王
+- 亞瑟王傳說
+- 雅打王
+- 아서왕
 ---
-
-
 # [[King_Arthur]] 
 
 #is_/same_as :: [[WD~King_Arthur,45792]] 

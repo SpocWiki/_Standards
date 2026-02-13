@@ -1,40 +1,209 @@
 ---
 aliases:
-  - Light
+- achkiy
+- akadi
+- argi
+- cahaya
+- cahayo
+- cahya
+- chiedza
+- drita
+- ekitangaala
+- fahazavana
+- fény
+- gaisma
+- goleuni
+- gouloù
+- gusni
+- guŏng
+- hann
+- haske
+- ifaa
+- ileys
+- işıq
+- kahayag
+- kng
+- laacht
+- lait
+- lamrag
+- lawag
+- leoht
+- Liacht
+- Licht
+- lig
+- Light
+- Liicht
+- limyè
+- lit
+- liwanag
+- ljocht
+- ljus
+- ljós
+- llum
+- lluz
+- locht
+- loumire
+- luce
+- Lucht
+- luci
+- lume
+- lumine
+- lumină
+- lumière
+- lumo
+- lumyire
+- lus
+- lutz
+- lux
+- luxe
+- luz
+- luze
+- luç
+- luńinâ
+- lys
+- lèch
+- lúmine
+- lüs
+- naau
+- nasaabugum
+- neesim
+- nuru
+- penampak
+- polé
+- prakaas
+- qhana
+- rarama
+- rivoningo
+- ronahî
+- rongh
+- solas
+- sulu
+- svetlo
+- svetloba
+- svjetlost
+- světlo
+- swětło
+- tafat
+- tesape
+- tjoevke
+- tjuovgga
+- tlāhuīlli
+- ukukhanya
+- uzvadd
+- valgus
+- valo
+- vauktuz
+- yarıq
+- yorugʻlik
+- zerq
+- ánh sáng
+- ìmọ́lẹ̀
+- čuovga
+- čuovâ
+- čuõvv
+- ışık
+- światło
+- šviesa
+- švėisa
+- φως
+- φῶς
+- гэрэл
+- жарык
+- жарық
+- нӯр
+- світло
+- свет
+- светлина
+- светлост
+- святло
+- сердало
+- сырдык
+- сьвятло
+- чырык
+- шветлосц
+- югыт
+- яктылык
+- яҡтылыҡ
+- ҫутă
+- լոյս
+- լույս
+- אור
+- ליכט
+- النور
+- ایشیق
+- روشني
+- روشنی
+- سو
+- ضو
+- ضوء
+- نور
+- چانݨ
+- چهاي
+- ڕووناکی
+- گاش
+- ܢܘܗܪܐ
+- उजवाड
+- जः
+- द्युतिशक्तिः
+- प्रकाश
+- আলো
+- পোহৰ
+- ਪ੍ਰਕਾਸ਼
+- પ્રકાશ
+- ଆଲୋକ
+- ஒளி
+- కాంతి
+- ಬೆಳಕು
+- പ്രകാശം
+- ආලෝකය
+- แสง
+- འོད་རིག་པ་
+- လႅင်း
+- အလင်း
+- სინათლე
+- სინთე
+- ብርሃን
+- ᎢᎦᎢ
+- ពន្លឺ
+- ᡝᠯᡩᡝᠨ
+- ᩈᩯ᩠ᨦ
+- ᱢᱟᱨᱥᱟᱞ
+- 光
+- 빛
 has_id_wikidata: Q9128
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
 Colon_Classification: C5
 Commons_category: Light
 Commons_gallery: Light
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
-  - 535
-  - 541.3533
-  - 770.11
+- 535
+- 541.3533
+- 770.11
 different_from:
-  - '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
-  - '[[_Standards/WikiData/WD~Light,347415]]'
-  - '[[_Standards/WikiData/WD~light,106831324]]'
+- '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
+- '[[_Standards/WikiData/WD~Light,347415]]'
+- '[[_Standards/WikiData/WD~light,106831324]]'
 has_characteristic: '[[_Standards/WikiData/WD~spectrum,654182]]'
 has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
 has_use:
-  - '[[_Standards/WikiData/WD~visual_system,558363]]'
-  - '[[_Standards/WikiData/WD~video_art,682010]]'
-  - '[[_Standards/WikiData/WD~art,735]]'
-  - '[[_Standards/WikiData/WD~photosynthesis,11982]]'
+- '[[_Standards/WikiData/WD~visual_system,558363]]'
+- '[[_Standards/WikiData/WD~video_art,682010]]'
+- '[[_Standards/WikiData/WD~art,735]]'
+- '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emanation.png
 instance_of: '[[_Standards/WikiData/WD~production_environment_factor,124326543]]'
 Krugosvet_article: nauka_i_tehnika/fizika/SVET.html
 MeSH_tree_code:
-  - G01.358.500.505.650
-  - G01.590.540
-  - G01.750.250.650
-  - G01.750.770.578
+- G01.358.500.505.650
+- G01.590.540
+- G01.750.250.650
+- G01.750.770.578
 OmegaWiki_Defined_Meaning: 2158
 opposite_of: '[[_Standards/WikiData/WD~darkness,204170]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spectrum4websiteEval.png
@@ -42,12 +211,224 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691278,25691278]]'
 speed: 299792458
 studied_in: '[[_Standards/WikiData/WD~optics,14620]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~optical_radiation,7098889]]'
-  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+- '[[_Standards/WikiData/WD~optical_radiation,7098889]]'
+- '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q106841467,106841467]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
+dv_has_:
+  name_:
+    af: lig
+    am: ብርሃን
+    an: luz
+    ang: leoht
+    ar: ضوء
+    arc: ܢܘܗܪܐ
+    ary: ضو
+    arz: النور
+    as: পোহৰ
+    ast: lluz
+    ay: qhana
+    az: işıq
+    azb: ایشیق
+    ba: яҡтылыҡ
+    bar: Liacht
+    bcl: liwanag
+    be: святло
+    be-tarask: сьвятло
+    bg: светлина
+    bn: আলো
+    bo: འོད་རིག་པ་
+    br: gouloù
+    bs: svjetlost
+    ca: llum
+    cdo: guŏng
+    ceb: kahayag
+    chr: ᎢᎦᎢ
+    ckb: ڕووناکی
+    crh: yarıq
+    cs: světlo
+    cv: ҫутă
+    cy: goleuni
+    da: lys
+    dag: neesim
+    de: Licht
+    de-ch: Licht
+    diq: zerq
+    dtp: naau
+    ee: akadi
+    el: φως
+    en: light
+    en-ca: light
+    en-gb: light
+    eo: lumo
+    es: luz
+    et: valgus
+    eu: argi
+    ext: lus
+    fa: نور
+    fi: valo
+    fj: rarama
+    fr: lumière
+    frr: laacht
+    fy: ljocht
+    ga: solas
+    gan: 光
+    gcr: limyè
+    gl: luz
+    gn: tesape
+    gom: उजवाड
+    gom-deva: उजवाड
+    gom-latn: uzvadd
+    grc: φῶς
+    gsw: Licht
+    gu: પ્રકાશ
+    gur: nasaabugum
+    ha: haske
+    he: אור
+    hi: प्रकाश
+    hif: prakaas
+    hr: svjetlost
+    hsb: swětło
+    ht: limyè
+    hu: fény
+    hy: լույս
+    hyw: լոյս
+    ia: lumine
+    iba: penampak
+    id: cahaya
+    ie: lúmine
+    ilo: lawag
+    inh: сердало
+    io: lumo
+    is: ljós
+    it: luce
+    ja: 光
+    jam: lait
+    jbo: gusni
+    jv: cahya
+    ka: სინათლე
+    kab: tafat
+    kk: жарық
+    km: ពន្លឺ
+    kn: ಬೆಳಕು
+    ko: 빛
+    ks: گاش
+    ku: ronahî
+    ky: жарык
+    la: lux
+    lb: Liicht
+    lfn: lus
+    lg: ekitangaala
+    li: lèch
+    lij: luxe
+    lmo: lüs
+    ln: polé
+    lt: šviesa
+    lv: gaisma
+    lzh: 光
+    mag: प्रकाश
+    mg: fahazavana
+    min: cahayo
+    mk: светлина
+    ml: പ്രകാശം
+    mn: гэрэл
+    mnc: ᡝᠯᡩᡝᠨ
+    mr: प्रकाश
+    ms: cahaya
+    ms-arab: چهاي
+    mwl: luç
+    my: အလင်း
+    mzn: سو
+    nah: tlāhuīlli
+    nan: kng
+    nap: luce
+    nb: lys
+    nds: Licht
+    nds-nl: locht
+    ne: प्रकाश
+    new: जः
+    nl: licht
+    nn: lys
+    nod: ᩈᩯ᩠ᨦ
+    nov: lume
+    nrm: lumyire
+    oc: lutz
+    om: ifaa
+    or: ଆଲୋକ
+    pa: ਪ੍ਰਕਾਸ਼
+    pam: sulu
+    pap: Lus
+    pdc: Licht
+    pl: światło
+    pms: lus
+    pnb: چانݨ
+    pt: luz
+    pt-br: luz
+    qu: achkiy
+    ro: lumină
+    rsk: шветлосц
+    ru: свет
+    rue: світло
+    rup: luńinâ
+    sa: द्युतिशक्तिः
+    sah: сырдык
+    sat: ᱢᱟᱨᱥᱟᱞ
+    scn: luci
+    sco: licht
+    sd: روشني
+    se: čuovga
+    sgs: švėisa
+    sh: svjetlost
+    shn: လႅင်း
+    si: ආලෝකය
+    sk: svetlo
+    sl: svetloba
+    sma: tjoevke
+    smj: tjuovgga
+    smn: čuovâ
+    sms: čuõvv
+    sn: chiedza
+    so: ileys
+    sq: drita
+    sr: светлост
+    stq: Lucht
+    su: cahya
+    sv: ljus
+    sw: nuru
+    szl: światło
+    ta: ஒளி
+    te: కాంతి
+    tg: нӯр
+    th: แสง
+    tl: liwanag
+    tr: ışık
+    ts: rivoningo
+    tt: яктылык
+    tt-cyrl: яктылык
+    tw: hann
+    tyv: чырык
+    udm: югыт
+    uk: світло
+    ur: روشنی
+    uz: yorugʻlik
+    vec: luze
+    vep: vauktuz
+    vi: ánh sáng
+    vo: lit
+    vro: valgus
+    wa: loumire
+    war: lamrag
+    wuu: 光
+    xmf: სინთე
+    yi: ליכט
+    yo: ìmọ́lẹ̀
+    yue: 光
+    za: rongh
+    zh: 光
+    zh-hans: 光
+    zh-hant: 光
+    zu: ukukhanya
 ---
-
 # [[Light]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Light,9128|WD~Light,9128]] 

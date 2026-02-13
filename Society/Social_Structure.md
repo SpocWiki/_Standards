@@ -1,24 +1,183 @@
 ---
 aliases:
+- cơ cấu xã hội
+- društvena struktura
+- družbena struktura
+- estructura social
+- estructura sociala
+- estrutura social
+- gizarte egitura
+- Ijtimoiy struktura
+- Jámiyetlik qurılıs
+- socia strukturo
+- social structur
+- social structure
+- social struktur
+- sociale structuur
+- socialinė struktūra
+- socialna struktura
+- sociálna štruktúra
+- sociální struktura
+- sociāla struktūra
+- sosiaalinen rakenne
+- sosial struktur
+- sosiale struktuur
+- sosialt system og sosial struktur
+- sotsiaalne struktuur
+- Sozialstruktur
+- struchtúr sóisialta
+- Structura socialis
+- structure sociale
+- structură socială
+- struktur sosial
+- Struktura shoqërore
+- struktura społeczna
+- struttura sociale
+- strutura sociałe
+- strwythur cymdeithasol
+- toplumsal yapı
+- társadalmi struktúra
+- Älewmettik qurılım
+- κοινωνική δομή
+- друштвена структура
+- Нийгмийн бүтэц
+- општествена структура
+- сацыяльная структура
+- социалдык система
+- Социална структура
+- социаль структура
+- социальная структура
+- структура соціальна
+- Әлеуметтік құрылым
+- מבנה חברתי
+- الەۋمەتتىك قۇرىلىم
+- بناء اجتماعى
+- بناء اجتماعي
+- ساختار اجتماعی
+- ستروکتور سوسيال
+- ټولنیز جوړښت
+- सामाजिक संरचना
+- সামাজিক কাঠামো
+- সামাজিক গাঁথনি
+- ਸਮਾਜਿਕ ਸੰਰਚਨਾ
+- સામાજિક માળખું
+- ಸಾಮಾಜಿಕ ರಚನೆ
+- სოციალური სტრუქტურა
+- 社会構造
+- 社会结构
+- 社會結構
+- 사회구성체
 has_id_wikidata: Q211606
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~structure,517966]]"
-subject_has_role: "[[_Standards/WikiData/WD~structural_functionalism,831725]]"
-has_cause: "[[_Standards/WikiData/WD~social_change,1510761]]"
-part_of: "[[_Standards/WikiData/WD~social_system,1639378]]"
-subclass_of: "[[_Standards/WikiData/WD~structure,6671777]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~structure,517966]]'
+subject_has_role: '[[_Standards/WikiData/WD~structural_functionalism,831725]]'
+has_cause: '[[_Standards/WikiData/WD~social_change,1510761]]'
+part_of: '[[_Standards/WikiData/WD~social_system,1639378]]'
+subclass_of: '[[_Standards/WikiData/WD~structure,6671777]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~analysis_of_social_structure,15148892]]"
-  - "[[_Standards/WikiData/WD~sociology,21201]]"
-  - "[[_Standards/WikiData/WD~social_science,34749]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
-OmegaWiki_Defined_Meaning: "3479"
+- '[[_Standards/WikiData/WD~analysis_of_social_structure,15148892]]'
+- '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+OmegaWiki_Defined_Meaning: 3479
 Library_of_Congress_Classification:
-  - GN478-GN491.7
-  - HM706
+- GN478-GN491.7
+- HM706
 UMLS_CUI: C0680343
 MeSH_tree_code: I01.880.761
+dv_has_:
+  name_:
+    af: sosiale struktuur
+    ar: بناء اجتماعي
+    arz: بناء اجتماعى
+    as: সামাজিক গাঁথনি
+    ast: estructura social
+    az: sosial struktur
+    ba: социаль структура
+    be: сацыяльная структура
+    be-tarask: сацыяльная структура
+    bg: Социална структура
+    bn: সামাজিক কাঠামো
+    ca: estructura social
+    cs: sociální struktura
+    cy: strwythur cymdeithasol
+    da: social struktur
+    de: Sozialstruktur
+    el: κοινωνική δομή
+    en: social structure
+    en-ca: social structure
+    en-gb: social structure
+    eo: socia strukturo
+    es: estructura social
+    et: sotsiaalne struktuur
+    eu: gizarte egitura
+    fa: ساختار اجتماعی
+    fi: sosiaalinen rakenne
+    fr: structure sociale
+    ga: struchtúr sóisialta
+    gl: estrutura social
+    gsw: Sozialstruktur
+    gu: સામાજિક માળખું
+    he: מבנה חברתי
+    hi: सामाजिक संरचना
+    hsb: socialna struktura
+    hu: társadalmi struktúra
+    id: struktur sosial
+    it: struttura sociale
+    ja: 社会構造
+    ka: სოციალური სტრუქტურა
+    kaa: Jámiyetlik qurılıs
+    kk: әлеуметтік құрылым
+    kk-arab: الەۋمەتتىك قۇرىلىم
+    kk-cn: الەۋمەتتىك قۇرىلىم
+    kk-cyrl: Әлеуметтік құрылым
+    kk-kz: Әлеуметтік құрылым
+    kk-latn: älewmettik qurılım
+    kk-tr: Älewmettik qurılım
+    kn: ಸಾಮಾಜಿಕ ರಚನೆ
+    ko: 사회구성체
+    ky: социалдык система
+    la: Structura socialis
+    lt: socialinė struktūra
+    lv: sociāla struktūra
+    min: Struktur sosial
+    mk: општествена структура
+    mn: Нийгмийн бүтэц
+    ms: struktur sosial
+    ms-arab: ستروکتور سوسيال
+    nb: sosialt system og sosial struktur
+    nl: sociale structuur
+    nn: sosial struktur
+    oc: estructura sociala
+    pa: ਸਮਾਜਿਕ ਸੰਰਚਨਾ
+    pl: struktura społeczna
+    ps: ټولنیز جوړښت
+    pt: estrutura social
+    ro: structură socială
+    ru: социальная структура
+    sco: social structur
+    sh: društvena struktura
+    sk: sociálna štruktúra
+    sl: družbena struktura
+    sq: Struktura shoqërore
+    sr: друштвена структура
+    sr-ec: Друштвена структура
+    sr-el: Društvena struktura
+    sv: social struktur
+    tr: toplumsal yapı
+    uk: структура соціальна
+    uz: Ijtimoiy struktura
+    vec: strutura sociałe
+    vi: cơ cấu xã hội
+    wuu: 社会结构
+    yue: 社會結構
+    zh: 社会结构
+    zh-cn: 社会结构
+    zh-hans: 社会结构
+    zh-hant: 社會結構
+    zh-hk: 社會結構
+    zh-sg: 社会结构
+    zh-tw: 社會結構
 ---
-
 # [[Social_Structure]] 
 
 #is_/same_as :: [[../WikiData/WD~Social_structure,211606|WD~Social_structure,211606]]  

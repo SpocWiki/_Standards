@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Dissorophoidea
+- Dissorofoïdeus
+- Dissorophoidea
+- Диссорофоиды
+- ديسوروفويديا
+- 双顶螈总科
+- 雙頂螈總科
 title: Dissorophoidea
 has_id_wikidata: Q137426
+dv_has_:
+  name_:
+    an: Dissorophoidea
+    arz: ديسوروفويديا
+    ast: Dissorophoidea
+    bg: Dissorophoidea
+    ca: Dissorofoïdeus
+    ceb: Dissorophoidea
+    cs: Dissorophoidea
+    de: Dissorophoidea
+    el: Dissorophoidea
+    en: Dissorophoidea
+    eo: Dissorophoidea
+    es: Dissorophoidea
+    eu: Dissorophoidea
+    ext: Dissorophoidea
+    fi: Dissorophoidea
+    fr: Dissorophoidea
+    ga: Dissorophoidea
+    gl: Dissorophoidea
+    ia: Dissorophoidea
+    ie: Dissorophoidea
+    io: Dissorophoidea
+    it: Dissorophoidea
+    la: Dissorophoidea
+    mul: Dissorophoidea
+    nl: Dissorophoidea
+    oc: Dissorophoidea
+    pl: Dissorophoidea
+    pt: Dissorophoidea
+    pt-br: Dissorophoidea
+    ro: Dissorophoidea
+    ru: Диссорофоиды
+    sq: Dissorophoidea
+    uk: Dissorophoidea
+    vec: Dissorophoidea
+    vi: Dissorophoidea
+    vo: Dissorophoidea
+    war: Dissorophoidea
+    zh: 双顶螈总科
+    zh-cn: 双顶螈总科
+    zh-hans: 双顶螈总科
+    zh-tw: 雙頂螈總科
 ---
 # [[Dissorophoidea]] 
 [Bolt 1969]

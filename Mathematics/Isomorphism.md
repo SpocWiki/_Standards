@@ -1,32 +1,163 @@
 ---
 aliases:
+- iseamorfacht
+- isomorffedd
+- isomorfi
+- isomorfism
+- isomorfisme
+- isomorfismi
+- isomorfismo
+- isomorfismu
+- isomorphism
+- isomorphisme
+- isomorphismo
+- Isomorphismus
+- Izomorfeso
+- izomorfia
+- izomorfio
+- izomorfism
+- izomorfismus
+- izomorfizam
+- izomorfizem
+- izomorfizm
+- izomorfizma
+- izomorfizmas
+- izomorfizmus
+- izomorfluq
+- phép đẳng cấu
+- ïzomorfïzm
+- ισομορφισμός
+- ізамарфізм
+- ізоморфізм
+- изоморф
+- изоморфизам
+- изоморфизм
+- изоморфизъм
+- рәвештәшлек
+- իզոմորֆություն
+- איזומורפיזם
+- تماكل
+- مشاکلت
+- ىيزومورفىيزم
+- یکریختی
+- ਆਇਸੋਮੌਰਫਿਜ਼ਮ
+- ஐசோமார்பிஸம்
+- ฟังก์ชันสมสัณฐาน
+- 同型写像
+- 同构
+- 同構
+- 동형 사상
 has_id_wikidata: Q189112
 studied_by:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~category_theory,217413]]"
-  - "[[_Standards/WikiData/WD~model_theory,467606]]"
-  - "[[_Standards/WikiData/WD~universal_algebra,1636734]]"
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~model_theory,467606]]'
+- '[[_Standards/WikiData/WD~universal_algebra,1636734]]'
 different_from:
-  - "[[_Standards/WikiData/WD~isomorphism,902950]]"
-  - "[[_Standards/WikiData/WD~Q23037068,23037068]]"
-  - "[[_Standards/WikiData/WD~identity_homomorphism,117225652]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~isomorphism,902950]]'
+- '[[_Standards/WikiData/WD~Q23037068,23037068]]'
+- '[[_Standards/WikiData/WD~identity_homomorphism,117225652]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~left_totality,54933376]]"
-  - "[[_Standards/WikiData/WD~right_totality,54933377]]"
-  - "[[_Standards/WikiData/WD~left_uniqueness,54933380]]"
-  - "[[_Standards/WikiData/WD~right_uniqueness,54933381]]"
+- '[[_Standards/WikiData/WD~left_totality,54933376]]'
+- '[[_Standards/WikiData/WD~right_totality,54933377]]'
+- '[[_Standards/WikiData/WD~left_uniqueness,54933380]]'
+- '[[_Standards/WikiData/WD~right_uniqueness,54933381]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~split_monomorphism,121773562]]"
-  - "[[_Standards/WikiData/WD~split_epimorphism,121773569]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-OmegaWiki_Defined_Meaning: "956940"
+- '[[_Standards/WikiData/WD~split_monomorphism,121773562]]'
+- '[[_Standards/WikiData/WD~split_epimorphism,121773569]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+OmegaWiki_Defined_Meaning: 956940
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/One5Root.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Regular%20polygon%205%20annotated.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/One5Root.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Regular%20polygon%205%20annotated.svg
 GitHub_topic: isomorphism
+dv_has_:
+  name_:
+    ar: تماكل
+    ast: isomorfismu
+    az: izomorfluq
+    ba: изоморфизм
+    be: ізамарфізм
+    be-tarask: ізамарфізм
+    bg: изоморфизъм
+    bs: izomorfizam
+    ca: isomorfisme
+    cs: izomorfismus
+    cy: isomorffedd
+    da: isomorfi
+    de: Isomorphismus
+    el: ισομορφισμός
+    en: isomorphism
+    en-ca: isomorphism
+    en-gb: isomorphism
+    eo: izomorfio
+    es: isomorfismo
+    et: isomorfism
+    eu: isomorfismo
+    fa: یکریختی
+    fi: isomorfismi
+    fr: isomorphisme
+    ga: iseamorfacht
+    gl: isomorfismo
+    he: איזומורפיזם
+    hr: izomorfizam
+    hu: izomorfia
+    hy: իզոմորֆություն
+    ia: isomorphismo
+    id: isomorfisme
+    io: Izomorfeso
+    it: isomorfismo
+    ja: 同型写像
+    kk: изоморфизм
+    kk-arab: ىيزومورفىيزم
+    kk-cn: ىيزومورفىيزم
+    kk-cyrl: изоморфизм
+    kk-kz: изоморфизм
+    kk-latn: ïzomorfïzm
+    kk-tr: ïzomorfïzm
+    ko: 동형 사상
+    ky: изоморфизм
+    la: isomorphismus
+    lfn: isomorfisme
+    lt: izomorfizmas
+    mk: изоморфизам
+    mn: изоморф
+    nb: isomorfisme
+    nl: isomorfisme
+    nn: isomorfisme
+    pa: ਆਇਸੋਮੌਰਫਿਜ਼ਮ
+    pl: izomorfizm
+    pms: Isomorfism
+    pt: isomorfismo
+    pt-br: isomorfismo
+    ro: izomorfism
+    ru: изоморфизм
+    sh: izomorfizam
+    sk: izomorfizmus
+    sl: izomorfizem
+    sr: изоморфизам
+    sr-ec: изоморфизам
+    sr-el: izomorfizam
+    sv: isomorfi
+    ta: ஐசோமார்பிஸம்
+    th: ฟังก์ชันสมสัณฐาน
+    tr: izomorfizma
+    tt: рәвештәшлек
+    uk: ізоморфізм
+    ur: مشاکلت
+    uz: izomorfizm
+    vi: phép đẳng cấu
+    wuu: 同构
+    yue: 同構
+    zh: 同构
+    zh-cn: 同构
+    zh-hans: 同构
+    zh-hant: 同構
+    zh-hk: 同構
+    zh-sg: 同构
+    zh-tw: 同構
 ---
-
 # [[Isomorphism]] 
 
 #is_/same_as :: [[WD~Isomorphism,189112]] 

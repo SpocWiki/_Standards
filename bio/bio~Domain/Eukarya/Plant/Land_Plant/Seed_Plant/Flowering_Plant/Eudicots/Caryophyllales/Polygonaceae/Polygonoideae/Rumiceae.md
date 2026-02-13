@@ -1,16 +1,55 @@
 ---
 aliases:
+- Rumiceae
+- حماضاوية
 has_id_wikidata: Q15793487
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[_Standards/WikiData/WD~Polygonoideae,1238742]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32524939,32524939]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+parent_taxon: '[[_Standards/WikiData/WD~Polygonoideae,1238742]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32524939,32524939]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2910
 UMLS_CUI: C3410270
 taxon_name: Rumiceae
 taxon_common_name: حماضاوية
+dv_has_:
+  name_:
+    an: Rumiceae
+    ar: حماضاوية
+    ast: Rumiceae
+    bg: Rumiceae
+    ca: Rumiceae
+    ceb: Rumiceae
+    de: Rumiceae
+    en: Rumiceae
+    eo: Rumiceae
+    es: Rumiceae
+    eu: Rumiceae
+    ext: Rumiceae
+    fi: Rumiceae
+    fr: Rumiceae
+    ga: Rumiceae
+    gl: Rumiceae
+    hr: Rumiceae
+    ia: Rumiceae
+    ie: Rumiceae
+    io: Rumiceae
+    it: Rumiceae
+    la: Rumiceae
+    mul: Rumiceae
+    nl: Rumiceae
+    oc: Rumiceae
+    pl: Rumiceae
+    pt: Rumiceae
+    pt-br: Rumiceae
+    ro: Rumiceae
+    ru: Rumiceae
+    sl: Rumiceae
+    sq: Rumiceae
+    uk: Rumiceae
+    vi: Rumiceae
+    vo: Rumiceae
+    war: Rumiceae
 ---
-
 # [[Rumiceae]] 
 
 #is_/same_as :: [[WD~Rumiceae,15793487]] 

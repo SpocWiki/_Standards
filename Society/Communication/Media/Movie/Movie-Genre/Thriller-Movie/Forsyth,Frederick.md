@@ -1,9 +1,83 @@
 ---
 aliases:
-  - Frederick Forsyth
-  - Frederick McCarthy Forsyth
-  - Forsyth,Frederick
+- Forsyth,Frederick
+- Frederick Forsyrh
+- Frederick Forsyth
+- Frederick McCarthy Forsyth
+- Φρέντερικ Φορσάιθ
+- Фредерік Форсайт
+- Фредерик Форсајт
+- Фредерик Форсайт
+- Фрэдэрык Фарсайт
+- פרדריק פורסיית'
+- فردریک فورسایت
+- فريدريك فورسيث
+- फ्रेडरिक फोरसाइथ
+- फ्रेडरिक फोर्सिथ
+- ஃபிரெட்ரிக் ஃபோர்சித்
+- ᱯᱷᱨᱮᱰᱮᱨᱤᱠ ᱯᱷᱚᱨᱥᱟᱭᱛᱷ
+- フレデリック・フォーサイス
+- 弗雷德里克·福塞斯
+- 弗雷德里克·福賽斯
+- 弗雷德里克·福赛斯
+- 프레더릭 포사이스
 has_id_wikidata: Q249197
+dv_has_:
+  name_:
+    af: Frederick Forsyth
+    ar: فريدريك فورسيث
+    arz: فريدريك فورسيث
+    ast: Frederick Forsyth
+    azb: فردریک فورسایت
+    bar: Frederick Forsyrh
+    be-tarask: Фрэдэрык Фарсайт
+    bg: Фредерик Форсайт
+    bho: फ्रेडरिक फोर्सिथ
+    ca: Frederick Forsyth
+    cs: Frederick Forsyth
+    csb: Frederick Forsyth
+    cy: Frederick Forsyth
+    de: Frederick Forsyth
+    ee: Frederick Forsyth
+    el: Φρέντερικ Φορσάιθ
+    eo: Frederick Forsyth
+    es: Frederick Forsyth
+    et: Frederick Forsyth
+    eu: Frederick Forsyth
+    fa: فردریک فورسایت
+    fi: Frederick Forsyth
+    fr: Frederick Forsyth
+    ga: Frederick Forsyth
+    gl: Frederick Forsyth
+    he: פרדריק פורסיית'
+    hu: Frederick Forsyth
+    id: Frederick Forsyth
+    it: Frederick Forsyth
+    ja: フレデリック・フォーサイス
+    ko: 프레더릭 포사이스
+    mr: फ्रेडरिक फोरसाइथ
+    mul: Frederick Forsyth
+    nb: Frederick Forsyth
+    nl: Frederick Forsyth
+    nn: Frederick Forsyth
+    oc: Frederick Forsyth
+    pam: Frederick Forsyth
+    pt: Frederick Forsyth
+    pt-br: Frederick Forsyth
+    ro: Frederick Forsyth
+    ru: Фредерик Форсайт
+    sat: ᱯᱷᱨᱮᱰᱮᱨᱤᱠ ᱯᱷᱚᱨᱥᱟᱭᱛᱷ
+    sk: Frederick Forsyth
+    sl: Frederick Forsyth
+    sq: Frederick Forsyth
+    sr: Фредерик Форсајт
+    sv: Frederick Forsyth
+    ta: ஃபிரெட்ரிக் ஃபோர்சித்
+    uk: Фредерік Форсайт
+    zh: 弗雷德里克·福塞斯
+    zh-cn: 弗雷德里克·福赛斯
+    zh-hans: 弗雷德里克·福赛斯
+    zh-hant: 弗雷德里克·福賽斯
 ---
 #has_/time_/started :: 1936-08-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

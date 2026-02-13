@@ -1,51 +1,95 @@
 ---
-has_time_started: 1940-05-15 
+has_time_started: 1940-05-15
 aliases:
-  - McDonalds
-  - McDonald’s
+- Bē-tâng-lô
+- kulupu Matana
+- Makdonelds
+- Makitānara
+- Ma̍k-tông-lò Kûng-sṳ̂
+- Mc Donald's
+- Mc Donalds Resturant
+- McDonald
+- McDonald's
+- McDonalds
+- McDonald’s
+- Megges
+- Mèkdi
+- ʻO McDonald's
+- Макдоналдс
+- МакДональдз
+- Мекдоналдс
+- ՄաքԴոնալդս
+- ՄըքՏօնըլտզ
+- מאקדאנעלדס
+- מקדונלד'ס
+- ماكدونالدز
+- ميک دونلدس
+- مکدونالدز
+- مکڈونلڈز
+- مکډونالډز
+- میکڈونلڈز
+- مەکدۆناڵدز
+- मॅक्डॉनल्ड्ज
+- मैकडॉनल्ड्स
+- म्याकडोनाल्ड्स
+- ম্যাকডোনাল্ড’স
+- ਮੈਕਡੋਨਲਡ’ਜ਼
+- மக்டொனால்ட்ஸ்
+- ಮ್ಯಾಕ್ ಡೊನಾಲ್ಡ್ಸ್
+- മക്ഡൊണാൾഡ്സ്
+- แมคโดนัลด์
+- မက်ဒေါ်နယ်
+- ማክዶናልድ
+- ማክዶናልድስ
+- ᨆᨙᨉᨚᨊᨒ
+- マクドナルド
+- 麥當勞
+- 麦当劳
+- ꠝꠦꠇꠒꠘꠣꠟ꠆ꠒꠍ
+- 맥도날드
 has_id_wikidata: Q38076
 product_or_material_produced: '[[_Standards/WikiData/WD~fast_food,81799]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~trademark,167270]]'
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~business,4830453]]'
-  - '[[_Standards/WikiData/WD~fast_food_restaurant_chain,18509232]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~trademark,167270]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~fast_food_restaurant_chain,18509232]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]'
-  - '[[_Standards/WikiData/WD~S&P_500,242345]]'
-  - '[[_Standards/WikiData/WD~S&P_100,1546793]]'
+- '[[_Standards/WikiData/WD~Dow_Jones_Industrial_Average,180816]]'
+- '[[_Standards/WikiData/WD~S&P_500,242345]]'
+- '[[_Standards/WikiData/WD~S&P_100,1546793]]'
 stock_exchange:
-  - '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
-  - '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+- '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
+- '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~BlackRock,219635]]'
-  - '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
-  - '[[_Standards/WikiData/WD~State_Street_Corporation,2037125]]'
+- '[[_Standards/WikiData/WD~BlackRock,219635]]'
+- '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
+- '[[_Standards/WikiData/WD~State_Street_Corporation,2037125]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Ray_Kroc,319648]]'
-  - '[[_Standards/WikiData/WD~Richard_and_Maurice_McDonald,1029178]]'
+- '[[_Standards/WikiData/WD~Ray_Kroc,319648]]'
+- '[[_Standards/WikiData/WD~Richard_and_Maurice_McDonald,1029178]]'
 location_of_formation: '[[_Standards/WikiData/WD~San_Bernardino,486168]]'
 mascot: '[[_Standards/WikiData/WD~Ronald_McDonald,837716]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Hamburger_University,1000206]]'
-  - '[[_Standards/WikiData/WD~Shamrock_Shake,7487668]]'
-  - '[[_Standards/WikiData/WD~600_@_Toa_Payoh,48730832]]'
+- '[[_Standards/WikiData/WD~Hamburger_University,1000206]]'
+- '[[_Standards/WikiData/WD~Shamrock_Shake,7487668]]'
+- '[[_Standards/WikiData/WD~600_@_Toa_Payoh,48730832]]'
 named_after: '[[_Standards/WikiData/WD~Richard_and_Maurice_McDonald,1029178]]'
 industry:
-  - '[[_Standards/WikiData/WD~quick_service_restaurant_sector,1442415]]'
-  - '[[_Standards/WikiData/WD~accommodation_and_food_service_activities,100252087]]'
-  - '[[_Standards/WikiData/WD~food_and_tobacco_industry,107601756]]'
-  - '[[_Standards/WikiData/WD~foodservice,41958]]'
+- '[[_Standards/WikiData/WD~quick_service_restaurant_sector,1442415]]'
+- '[[_Standards/WikiData/WD~accommodation_and_food_service_activities,100252087]]'
+- '[[_Standards/WikiData/WD~food_and_tobacco_industry,107601756]]'
+- '[[_Standards/WikiData/WD~foodservice,41958]]'
 organizational_divisions: '[[_Standards/WikiData/WD~McCafé,3114287]]'
 has_list: "[[_Standards/WikiData/WD~list_of_McDonald's_products,3570096]]"
 affiliated_worker_organisation:
-  - "[[_Standards/WikiData/WD~Mcdonald's_worker's_union_Japan,11506949]]"
-  - "[[_Standards/WikiData/WD~McDonald's_and_unions,119348241]]"
+- "[[_Standards/WikiData/WD~Mcdonald's_worker's_union_Japan,11506949]]"
+- "[[_Standards/WikiData/WD~McDonald's_and_unions,119348241]]"
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~McDonald's_Canada,12061541]]"
-  - "[[_Standards/WikiData/WD~McDonald's_France,60766811]]"
-  - "[[_Standards/WikiData/WD~McDonald's_Philippines,60775813]]"
+- "[[_Standards/WikiData/WD~McDonald's_Canada,12061541]]"
+- "[[_Standards/WikiData/WD~McDonald's_France,60766811]]"
+- "[[_Standards/WikiData/WD~McDonald's_Philippines,60775813]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_McDonald's,14386823]]"
 flag: "[[_Standards/WikiData/WD~McDonald's_flag,64300176]]"
 chief_executive_officer: '[[_Standards/WikiData/WD~Chris_Kempczinski,73426541]]'
@@ -57,8 +101,8 @@ headquarters_locations: '[[_Standards/WikiData/WD~Chicago,1297]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 employees: 200000
 social_media_followers:
-  - 698000
-  - 4780389
+- 698000
+- 4780389
 operating_income: 9371000000
 market_capitalization: 173430000000
 number_of_branches: 40275
@@ -68,91 +112,91 @@ total_revenue: 23182600000
 contact_page_URL: https://www.mcdonalds.com/us/en-us/contact-us.html
 total_assets: 52626800000
 TikTok_username:
-  - mcdonalds
-  - mcdonalds.md
-  - mcdonalds.pt
-  - mcdonaldsau
-  - mcdonaldsaustria
-  - mcdonaldscanada
-  - mcdonaldsczsk
-  - mcdonaldsde
-  - mcdonaldsegypt
-  - mcdonaldsfrance
-  - mcdonaldsitalia
-  - mcdonaldsjordan
-  - mcdonaldskuwait
-  - mcdonaldsnz
-  - mcdonaldsqatar
-  - mcdonaldssuomi
-  - mcdonaldsturkiye
-  - mcdonaldsuae
-  - mcdonaldsuk
-  - mcdonaldsvietnam
-  - mcdonaldsza
-  - mcdonalds_br
-  - mcdonalds_corp
-  - mcdonalds_es
-  - mcdonalds_il
-  - mcdonalds_polska
+- mcdonalds
+- mcdonalds.md
+- mcdonalds.pt
+- mcdonaldsau
+- mcdonaldsaustria
+- mcdonaldscanada
+- mcdonaldsczsk
+- mcdonaldsde
+- mcdonaldsegypt
+- mcdonaldsfrance
+- mcdonaldsitalia
+- mcdonaldsjordan
+- mcdonaldskuwait
+- mcdonaldsnz
+- mcdonaldsqatar
+- mcdonaldssuomi
+- mcdonaldsturkiye
+- mcdonaldsuae
+- mcdonaldsuk
+- mcdonaldsvietnam
+- mcdonaldsza
+- mcdonalds_br
+- mcdonalds_corp
+- mcdonalds_es
+- mcdonalds_il
+- mcdonalds_polska
 Pinterest_username:
-  - mcdonalds
-  - mcdonaldstr
+- mcdonalds
+- mcdonaldstr
 Snapchat_username:
-  - mcdonalds
-  - mcdonaldscanada
-  - mcdonalds-at
+- mcdonalds
+- mcdonaldscanada
+- mcdonalds-at
 Facebook_username: mcdonalds
 Instagram_username:
-  - mcdonalds
-  - mcdonalds.cz
-  - mcdonaldsau
-  - mcdonaldscanada
-  - mcdonaldsde
-  - mcdonaldshk
-  - mcdonaldshrvatska
-  - mcdonaldsid
-  - mcdonaldsire
-  - mcdonaldsitalia
-  - mcdonaldsksa
-  - mcdonaldsmagyarorszag
-  - mcdonaldsmalaysia
-  - mcdonaldsmx
-  - mcdonaldsnz
-  - mcdonaldsportugal
-  - mcdonaldsthailand
-  - mcdonaldsturkiye
-  - mcdonaldstw
-  - mcdonaldsuk
-  - mcdonaldsvn
-  - mcdsg
-  - mamsmakanamaka
-  - mcdo_ph
-  - mcdocanada
-  - mcdonalds_ar
-  - mcdonalds_austria
-  - mcdonalds_br
-  - mcdonalds_cl
-  - mcdonalds_india
-  - mcdonalds_kr
-  - mcdonalds_ro
-  - mcdonalds_switzerland
-  - mcdonalds_za
+- mcdonalds
+- mcdonalds.cz
+- mcdonaldsau
+- mcdonaldscanada
+- mcdonaldsde
+- mcdonaldshk
+- mcdonaldshrvatska
+- mcdonaldsid
+- mcdonaldsire
+- mcdonaldsitalia
+- mcdonaldsksa
+- mcdonaldsmagyarorszag
+- mcdonaldsmalaysia
+- mcdonaldsmx
+- mcdonaldsnz
+- mcdonaldsportugal
+- mcdonaldsthailand
+- mcdonaldsturkiye
+- mcdonaldstw
+- mcdonaldsuk
+- mcdonaldsvn
+- mcdsg
+- mamsmakanamaka
+- mcdo_ph
+- mcdocanada
+- mcdonalds_ar
+- mcdonalds_austria
+- mcdonalds_br
+- mcdonalds_cl
+- mcdonalds_india
+- mcdonalds_kr
+- mcdonalds_ro
+- mcdonalds_switzerland
+- mcdonalds_za
 X_Twitter_username: mcdonalds
 nickname:
-  - マック
-  - Megges
-  - Мак; Макдак
-  - Mekáč
-  - Mickey D's
-  - McDo
-  - Meki
-  - マクド
-  - Mekdi
-  - Méqui
-  - 麥記
+- マック
+- Megges
+- Мак; Макдак
+- Mekáč
+- Mickey D's
+- McDo
+- Meki
+- マクド
+- Mekdi
+- Méqui
+- 麥記
 subreddit:
-  - McDonalds
-  - McLounge
+- McDonalds
+- McLounge
 Commons_gallery: McDonald's
 Commons_category: McDonald's
 European_Union_trademark_number: 000062521
@@ -161,14 +205,14 @@ IMDb_keyword: reference-to-mcdonald's-restaurant
 Legal_Entity_Identifier: UE2136O97NLB5BYP9H04
 ISIN: US5801351017
 motto_text:
-  - Ich liebe es
-  - I'm loving it
-  - Me encanta
-  - C'est tout ce que j'aime
-  - Gosto tanto
-  - вот что я люблю
-  - Я це люблю
-  - 我就喜欢
+- Ich liebe es
+- I'm loving it
+- Me encanta
+- C'est tout ce que j'aime
+- Gosto tanto
+- вот что я люблю
+- Я це люблю
+- 我就喜欢
 catchphrase: i'm lovin' it
 official_name: McDonald's Corporation
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20McDonald%27s%20Corporation%20%28pre-2006%29.svg
@@ -179,18 +223,18 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/New-McDonald-HU-lg%20%
 official_jobs_URL: https://careers.mcdonalds.com/
 official_shop_URL: https://goldenarchesunlimited.com/
 location_information_URL:
-  - https://map.mcdonalds.co.jp/
-  - https://mcdelivery.co.in/restaurants-nearby
-  - https://mcdonalds.com.ph/store
-  - https://mcdonalds.hr/lokacije/
-  - https://www.mcdonalds.co.id/locations
-  - https://www.mcdonalds.co.za/locate
-  - https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html
-  - https://www.mcdonalds.com/gb/en-gb/restaurant-locator.html
-  - https://www.mcdonalds.com/ie/en-ie/restaurant-locator.html
-  - https://www.mcdonalds.com/us/en-us/restaurant-locator.html
-  - https://www.mcdonalds.fr/restaurants
-  - https://www.mcdonalds.ro/restaurante
+- https://map.mcdonalds.co.jp/
+- https://mcdelivery.co.in/restaurants-nearby
+- https://mcdonalds.com.ph/store
+- https://mcdonalds.hr/lokacije/
+- https://www.mcdonalds.co.id/locations
+- https://www.mcdonalds.co.za/locate
+- https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html
+- https://www.mcdonalds.com/gb/en-gb/restaurant-locator.html
+- https://www.mcdonalds.com/ie/en-ie/restaurant-locator.html
+- https://www.mcdonalds.com/us/en-us/restaurant-locator.html
+- https://www.mcdonalds.fr/restaurants
+- https://www.mcdonalds.ro/restaurante
 official_website: https://www.mcdonalds.com
 ISNI: 0000000093224855
 Central_Index_Key: 0000063908
@@ -200,8 +244,149 @@ REDnote_profile: 5bed337c3619b00001f56cdd
 booru_tag: mcdonald's
 Danbooru_tag: mcdonald's
 hashtag: mcdonald's
+dv_has_:
+  name_:
+    acm: ماكدونالدز
+    af: McDonald's
+    am: ማክዶናልድ
+    ar: ماكدونالدز
+    ary: ماكدونالدز
+    arz: ماكدونالدز
+    ast: McDonald's
+    az: McDonald's
+    azb: مکدونالدز
+    bcl: Mc Donald's
+    be: McDonald’s
+    be-tarask: McDonald’s
+    bew: Mèkdi
+    bg: Макдоналдс
+    bn: ম্যাকডোনাল্ড’স
+    br: McDonald's
+    bug: ᨆᨙᨉᨚᨊᨒ
+    ca: McDonald's
+    ce: Макдоналдс
+    ceb: McDonald's
+    ckb: مەکدۆناڵدز
+    cy: McDonald's
+    da: McDonald's
+    de: McDonald’s
+    el: McDonald's
+    en: McDonald's
+    en-ca: McDonald's
+    en-gb: McDonald's
+    eo: McDonald's
+    es: McDonald's
+    et: McDonald's
+    eu: McDonald's
+    ext: Mc Donald's
+    fa: مکدونالدز
+    fi: McDonald’s
+    fo: McDonald's
+    fr: McDonald's
+    fy: McDonald's
+    ga: McDonald's
+    gan: 麦当劳
+    gan-hans: 麦当劳
+    gan-hant: 麥當勞
+    gl: McDonald's
+    hak: Ma̍k-tông-lò Kûng-sṳ̂
+    haw: ʻO McDonald's
+    he: מקדונלד'ס
+    hi: मैकडॉनल्ड्स
+    hr: McDonald's
+    ht: McDonald's
+    hu: McDonald’s
+    hy: ՄաքԴոնալդս
+    hyw: ՄըքՏօնըլտզ
+    ia: McDonald's
+    iba: McDonald
+    id: McDonald's
+    ilo: McDonald's
+    is: McDonald's
+    it: McDonald's
+    ja: マクドナルド
+    jv: McDonald's
+    ka: McDonald's
+    kk: McDonalds
+    kn: ಮ್ಯಾಕ್ ಡೊನಾಲ್ಡ್ಸ್
+    ko: 맥도날드
+    krc: McDonald’s
+    ku: McDonald’s
+    la: McDonald's
+    lb: McDonald's
+    lfn: McDonald's
+    li: McDonald's
+    lmo: McDonald's
+    lt: McDonald's
+    lv: McDonald's
+    lzh: 麥當勞
+    mdf: McDonald’s
+    mi: Makitānara
+    min: McDonald's
+    mk: Мекдоналдс
+    ml: മക്ഡൊണാൾഡ്സ്
+    mr: मॅक्डॉनल्ड्ज
+    ms: McDonald's
+    ms-arab: ميک دونلدس
+    mul: McDonald's
+    my: မက်ဒေါ်နယ်
+    nan: Bē-tâng-lô
+    nb: McDonald’s
+    ne: म्याकडोनाल्ड्स
+    nl: McDonald's
+    nn: McDonald’s
+    oc: McDonald's
+    pa: ਮੈਕਡੋਨਲਡ’ਜ਼
+    pfl: Megges
+    pih: Makdonelds
+    pnb: میکڈونلڈز
+    ps: مکډونالډز
+    pt: McDonald's
+    pt-br: McDonald's
+    rm: McDonald's
+    ro: McDonald's
+    ru: McDonald’s
+    rw: McDonalds
+    sah: McDonald’s
+    sco: McDonald's
+    sh: McDonald's
+    sk: McDonald's
+    sl: McDonald's
+    so: Mc Donalds Resturant
+    sq: McDonald's
+    sr: Мекдоналдс
+    su: McDonald's
+    sv: McDonald’s
+    syl: ꠝꠦꠇꠒꠘꠣꠟ꠆ꠒꠍ
+    ta: மக்டொனால்ட்ஸ்
+    tg: McDonald's
+    th: แมคโดนัลด์
+    ti: ማክዶናልድስ
+    tl: McDonald's
+    tly: McDonald’s
+    tok: kulupu Matana
+    tr: McDonald's
+    tt: McDonald’s
+    uk: МакДональдз
+    ur: مکڈونلڈز
+    uz: McDonald's
+    vec: McDonald's
+    vep: McDonald's
+    vi: McDonald's
+    war: McDonald's
+    wuu: 麦当劳
+    xmf: McDonald's
+    yi: מאקדאנעלדס
+    yue: 麥當勞
+    zh: 麦当劳
+    zh-cn: 麦当劳
+    zh-hans: 麦当劳
+    zh-hant: 麥當勞
+    zh-hk: 麥當勞
+    zh-sg: 麦当劳
+    zh-tw: 麥當勞
+    zu: McDonald's
 ---
-
 # [[McDonald’s]] 
 
 #is_/same_as :: [[WD~McDonald’s,38076]] 

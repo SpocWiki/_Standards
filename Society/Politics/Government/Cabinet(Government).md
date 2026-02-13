@@ -1,29 +1,186 @@
 ---
-aliases: 
+aliases:
+- Bakanlar Kurulu
+- Baraza la Mawaziri
+- cabinet
+- caibineat
+- comh-aireacht
+- consejo de ministros
+- conselho de ministros
+- Conseyu de Ministros
+- gabinet
+- Gabinet (govèrn)
+- gabinet ministrów
+- gabinete
+- gabineto de goerno
+- gabinetto di governo
+- Gabinètt del govèrna
+- gouvernement
+- hallitus
+- Kabbinèt
+- kabined
+- kabinet
+- kabinete
+- kabineto
+- Kabinett
+- Lōe-koh
+- ministru kabinets
+- ministrų kabinetas
+- ministärer
+- Nazirlər Kabineti
+- nội các
+- ríkisstjórn
+- rūnanga o te kāwanatanga
+- Vlada
+- vláda
+- κυβέρνηση
+- влада
+- Засгийн газар
+- кабінет міністрів
+- кабінет міністраў
+- кабінэт міністраў
+- кабинет министров
+- министрлар кабинеты
+- Министрлени кабинети
+- Министрлер кабинеті
+- министрты кабинет
+- Правителство
+- сазив министара
+- קבינט
+- مجلس الوزراء
+- مجلس الوزراه
+- کابينيت
+- کابینه
+- کابینہ
+- کابینەی حکوومەت
+- کبینا
+- केंद्रीय मंत्रिमंडळ
+- कैबिनेट
+- মন্ত্রীসভা
+- ਵਜ਼ਾਰਤ
+- ಕ್ಯಾಬಿನೆಟ್
+- คณะรัฐมนตรี
+- ᡩᠣᡵᡤᡳ ᠶᠠᠮᡠᠨ
+- 內閣
+- 内閣
+- 内阁
+- 내각
 has_id_wikidata: Q640506
-opposite_of: "[[_Standards/WikiData/WD~shadow_cabinet,303329]]"
+opposite_of: '[[_Standards/WikiData/WD~shadow_cabinet,303329]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~organ_of_state,948571]]"
-  - "[[_Standards/WikiData/WD~executive_branch,35798]]"
+- '[[_Standards/WikiData/WD~organ_of_state,948571]]'
+- '[[_Standards/WikiData/WD~executive_branch,35798]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Cabinet_minister,1179535]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Cabinet_minister,1179535]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_government_cabinet,12201151]]"
-  - "[[_Standards/WikiData/WD~Q20170204,20170204]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_government_cabinet,12201151]]'
+- '[[_Standards/WikiData/WD~Q20170204,20170204]]'
 properties_for_this_type:
-  - inception
-  - dissolved, abolished or demolished date
+- inception
+- dissolved, abolished or demolished date
 Wikidata_property:
-  - member of cabinet
-  - has cabinet
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~council_of_ministers,15105]]"
+- member of cabinet
+- has cabinet
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~council_of_ministers,15105]]'
 Commons_category: Government
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cabinet%20table.jpg
+dv_has_:
+  name_:
+    af: kabinet
+    ar: مجلس الوزراء
+    arz: مجلس الوزراه
+    ast: Conseyu de Ministros
+    az: Nazirlər Kabineti
+    be: кабінет міністраў
+    be-tarask: кабінэт міністраў
+    bg: Правителство
+    bn: মন্ত্রীসভা
+    br: kabined
+    bs: vlada
+    ca: gabinet
+    ckb: کابینەی حکوومەت
+    cs: vláda
+    cy: cabinet
+    da: kabinet
+    de: Kabinett
+    el: κυβέρνηση
+    en: cabinet
+    eo: kabineto
+    es: consejo de ministros
+    eu: kabinete
+    fa: کابینه
+    fi: hallitus
+    fr: gouvernement
+    ga: comh-aireacht
+    gd: caibineat
+    gl: gabinete
+    he: קבינט
+    hi: कैबिनेट
+    hr: vlada
+    hsb: kabinet
+    hu: kabinet
+    id: Kabinet
+    ilo: gabinete
+    is: ríkisstjórn
+    it: gabinetto di governo
+    ja: 内閣
+    kk: Министрлер кабинеті
+    kn: ಕ್ಯಾಬಿನೆಟ್
+    ko: 내각
+    krc: Министрлени кабинети
+    li: Kabbinèt
+    lmo: Gabinètt del govèrna
+    lt: ministrų kabinetas
+    lv: ministru kabinets
+    mi: rūnanga o te kāwanatanga
+    mk: влада
+    mn: Засгийн газар
+    mnc: ᡩᠣᡵᡤᡳ ᠶᠠᠮᡠᠨ
+    mr: केंद्रीय मंत्रिमंडळ
+    ms: kabinet
+    ms-arab: کابينيت
+    nan: Lōe-koh
+    nb: kabinett
+    nl: kabinet
+    nn: kabinett
+    oc: Gabinet (govèrn)
+    os: министрты кабинет
+    pa: ਵਜ਼ਾਰਤ
+    pap: gabinete
+    pl: gabinet ministrów
+    pnb: کبینا
+    pt: conselho de ministros
+    pt-br: conselho de ministros
+    ro: cabinet
+    ru: кабинет министров
+    sh: Vlada
+    sk: vláda
+    sl: kabinet
+    sr: сазив министара
+    sv: ministärer
+    sw: Baraza la Mawaziri
+    th: คณะรัฐมนตรี
+    tr: Bakanlar Kurulu
+    tt: министрлар кабинеты
+    tt-cyrl: министрлар кабинеты
+    uk: кабінет міністрів
+    ur: کابینہ
+    vec: gabineto de goerno
+    vi: nội các
+    yue: 內閣
+    zh: 內閣
+    zh-cn: 内阁
+    zh-hans: 内阁
+    zh-hant: 內閣
+    zh-hk: 內閣
+    zh-mo: 內閣
+    zh-my: 内阁
+    zh-sg: 内阁
+    zh-tw: 內閣
 ---
-
 # [[Cabinet(Government)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cabinet,640506|WD~Cabinet,640506]] 

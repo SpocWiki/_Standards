@@ -1,42 +1,374 @@
 ---
 aliases:
-  - Grammar
+- balarila
+- bûn-hoat
+- croejhete
+- dil bilgisi
+- fitsipi-pitenenana
+- garalita
+- gerna
+- giellaoahppa
+- grama
+- gramadach
+- gramadeg
+- gramat
+- gramatica
+- gramatică
+- gramatik
+- gramatika
+- gramatike
+- gramatiko
+- gramatikë
+- gramatyka
+- gramatėka
+- gramer
+- grammair
+- grammaire
+- grammaotica
+- Grammar
+- grammatica
+- grammatihke
+- Grammatik
+- grammatika
+- grammatikk
+- grammeydys
+- grammàtica
+- gramàtega
+- gramàtica
+- gramática
+- gramè
+- gramèr
+- granmoère
+- gràmar
+- igramma
+- ikibonezamvugo
+- kielioppi
+- kielâoppâ
+- lantipulong
+- málfræði
+- mállæra
+- nahawu
+- nasin lawa nimi
+- ngṳ̄-huák
+- ngữ pháp
+- nyelvtan
+- Paramasastra
+- qrammatika
+- rêziman
+- sarf
+- sarufi
+- seerluga
+- simi kamachiy
+- slovnica
+- taakruul
+- tata bahasa
+- Tata Saro
+- tatabahasa
+- vyakaran
+- yethador
+- yezhadur
+- ñe'ẽtekuaa
+- ǩiõllmätt
+- γραμματική
+- граматика
+- граматыка
+- грамматикæ
+- грамматика
+- дастури забон
+- йылмылончыш
+- кылрадъян
+- Хэл зүйн дүрэм
+- ґраматіка
+- քերականութիւն
+- քերականություն
+- גראמאטיק
+- דקדוק
+- تاتابهاس
+- دستور زبان
+- قرامر
+- قواعد لغة
+- قواعدِ زبان
+- ڕێزمان
+- ژبتګلار
+- گرامر
+- گریمر
+- گىرامماتىكا
+- ܩܢܘܢܐ ܕܠܥܙܐ
+- ߞߊ߲ߜߍ
+- व्याकरण
+- व्याकरणम्
+- ব্যাকরণ
+- ব্যাকৰণ
+- ਵਿਆਕਰਨ
+- વ્યાકરણ
+- ବ୍ୟାକରଣ
+- இலக்கணம்
+- వ్యాకరణం
+- ವ್ಯಾಕರಣ
+- വ്യാകരണം
+- ව්යාකරණ
+- ไวยากรณ์
+- ໄວຍະກອນ
+- བརྡ་སྤྲོད་ཀྱི་གཞུང་།
+- သဒ္ဒါ
+- သဒ္ဒါမန်
+- გრამატიკა
+- ሰዋስው
+- វេយ្យាករណ៍
+- ᱨᱚᱱᱚᱲ
+- 文法
+- 語法
+- 语法
+- ꯂꯣꯟꯆꯠ ꯄꯊꯥꯞ
+- 문법
+- "\U0001033C\U00010330\U00010338\U0001033B\U00010330\U0001033A\U0001033F\U0001033D\U00010338\U00010339"
 has_id_wikidata: Q8091
 Commons_category: Grammar
 Commons_gallery: Grammar
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Linguistics,13537252]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Encyklopedia_językoznawstwa_ogólnego,67386140]]'
-  - '[[_Standards/WikiData/WD~Q67386293,67386293]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Linguistics,13537252]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Encyklopedia_językoznawstwa_ogólnego,67386140]]'
+- '[[_Standards/WikiData/WD~Q67386293,67386293]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 Dewey_Decimal_Classification: 415
 different_from: '[[_Standards/WikiData/WD~formal_grammar,373045]]'
 entry_in_abbreviations_table:
-  - ব্যা◦
-  - ব্যাক.
+- ব্যা◦
+- ব্যাক.
 has_characteristic:
-  - '[[_Standards/WikiData/WD~grammatical_category,980357]]'
-  - '[[_Standards/WikiData/WD~grammatical_evolution,5593687]]'
+- '[[_Standards/WikiData/WD~grammatical_category,980357]]'
+- '[[_Standards/WikiData/WD~grammatical_evolution,5593687]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Nomenclature_for_Museum_Cataloging: 13491
 OmegaWiki_Defined_Meaning:
-  - 1256330
-  - 375172
+- 1256330
+- 375172
 part_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
 practiced_by: '[[_Standards/WikiData/WD~grammarian,15991187]]'
 Provenio_UUID: cbdb47ff-6cbd-4c9d-9a5e-c0d74e3fe8f9
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/grammar
 subclass_of:
-  - '[[_Standards/WikiData/WD~convention,367293]]'
-  - '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~convention,367293]]'
+- '[[_Standards/WikiData/WD~linguistics,8162]]'
 subreddit: grammar
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10562397,10562397]]'
+dv_has_:
+  name_:
+    af: grammatika
+    aig: taakruul
+    am: ሰዋስው
+    an: gramatica
+    ar: قواعد لغة
+    arc: ܩܢܘܢܐ ܕܠܥܙܐ
+    ary: قواعد لغة
+    as: ব্যাকৰণ
+    ast: gramática
+    av: грамматика
+    az: qrammatika
+    azb: قرامر
+    ba: грамматика
+    bar: Grammatik
+    bcl: gramatika
+    be: граматыка
+    be-tarask: граматыка
+    bg: граматика
+    bho: व्याकरण
+    bn: ব্যাকরণ
+    bo: བརྡ་སྤྲོད་ཀྱི་གཞུང་།
+    br: yezhadur
+    bs: gramatika
+    btm: Tata Saro
+    ca: gramàtica
+    cdo: ngṳ̄-huák
+    ce: грамматика
+    ceb: gramatika
+    ckb: ڕێزمان
+    crh: sarf
+    crh-latn: Sarf
+    cs: gramatika
+    cv: грамматика
+    cy: gramadeg
+    da: grammatik
+    de: Grammatik
+    de-ch: Grammatik
+    diq: gramer
+    el: γραμματική
+    en: grammar
+    en-ca: grammar
+    en-gb: grammar
+    eo: gramatiko
+    es: gramática
+    et: grammatika
+    eu: gramatika
+    ext: gramática
+    fa: دستور زبان
+    fi: kielioppi
+    fo: mállæra
+    fr: grammaire
+    frr: gramatik
+    fy: grammatika
+    ga: gramadach
+    gan: 文法
+    gcr: gramèr
+    gd: gràmar
+    gl: gramática
+    gn: ñe'ẽtekuaa
+    gom: व्याकरण
+    got: "\U0001033C\U00010330\U00010338\U0001033B\U00010330\U0001033A\U0001033F\U0001033D\U00010338\U00010339"
+    grc: γραμματική
+    gsw: Grammatik
+    gu: વ્યાકરણ
+    gv: grammeydys
+    ha: nahawu
+    he: דקדוק
+    hi: व्याकरण
+    hif: vyakaran
+    hr: gramatika
+    ht: gramè
+    hu: nyelvtan
+    hy: քերականություն
+    hyw: քերականութիւն
+    ia: grammatica
+    id: tata bahasa
+    ie: grammatica
+    ig: grammar
+    ilo: gramatika
+    io: gramatiko
+    is: málfræði
+    it: grammatica
+    ja: 文法
+    jam: grama
+    jbo: gerna
+    ka: გრამატიკა
+    kaa: grammatika
+    kk: грамматика
+    km: វេយ្យាករណ៍
+    kn: ವ್ಯಾಕರಣ
+    knc: Grammar
+    ko: 문법
+    koi: грамматика
+    krc: грамматика
+    krj: lantipulong
+    ku: rêziman
+    ku-latn: rêziman
+    kw: yethador
+    ky: грамматика
+    la: grammatica
+    lad: gramatika
+    lb: Grammaire
+    lez: грамматика
+    lfn: gramatica
+    li: grammair
+    lld: gramatica
+    lmo: grammatica
+    lo: ໄວຍະກອນ
+    lt: gramatika
+    lv: gramatika
+    lzh: 語法
+    mad: Paramasastra
+    mag: व्याकरण
+    mg: fitsipi-pitenenana
+    mhr: йылмылончыш
+    mk: граматика
+    ml: വ്യാകരണം
+    mn: Хэл зүйн дүрэм
+    mni: ꯂꯣꯟꯆꯠ ꯄꯊꯥꯞ
+    mnw: သဒ္ဒါမန်
+    mr: व्याकरण
+    ms: tatabahasa
+    ms-arab: تاتابهاس
+    mwl: gramática
+    my: သဒ္ဒါ
+    myv: грамматика
+    nan: bûn-hoat
+    nb: grammatikk
+    nds: Grammatik
+    ne: व्याकरण
+    new: व्याकरण
+    nl: grammatica
+    nn: grammatikk
+    nov: gramatike
+    nqo: ߞߊ߲ߜߍ
+    oc: gramatica
+    om: seerluga
+    or: ବ୍ୟାକରଣ
+    os: грамматикæ
+    pa: ਵਿਆਕਰਨ
+    pag: grammar
+    pam: garalita
+    pcd: granmoère
+    pl: gramatyka
+    pms: gramàtica
+    pnb: گریمر
+    pnt: γραμματική
+    ps: ژبتګلار
+    pt: gramática
+    pt-br: gramática
+    qu: simi kamachiy
+    ro: gramatică
+    ru: грамматика
+    rue: ґраматіка
+    rw: ikibonezamvugo
+    sa: व्याकरणम्
+    sah: грамматика
+    sat: ᱨᱚᱱᱚᱲ
+    scn: grammàtica
+    sco: grammar
+    sd: گرامر
+    se: giellaoahppa
+    sgs: gramatėka
+    sh: gramatika
+    si: ව්යාකරණ
+    sk: gramatika
+    sl: slovnica
+    sma: grammatihke
+    smj: giellaoahppa
+    smn: kielâoppâ
+    sms: ǩiõllmätt
+    sq: gramatikë
+    sr: граматика
+    sv: grammatik
+    sw: sarufi
+    szl: gramatyka
+    ta: இலக்கணம்
+    te: వ్యాకరణం
+    tg: дастури забон
+    th: ไวยากรณ์
+    tl: balarila
+    tok: nasin lawa nimi
+    tpi: grama
+    tr: dil bilgisi
+    tt: грамматика
+    udm: кылрадъян
+    ug: گىرامماتىكا
+    uk: граматика
+    ur: قواعدِ زبان
+    uz: grammatika
+    vec: gramàtega
+    vi: ngữ pháp
+    vo: gramat
+    wa: croejhete
+    war: gramatika
+    wuu: 語法
+    xh: igramma
+    xmf: გრამატიკა
+    yi: גראמאטיק
+    yue: 文法
+    zea: grammaotica
+    zh: 语法
+    zh-cn: 语法
+    zh-hans: 语法
+    zh-hant: 文法
+    zh-hk: 文法
+    zh-mo: 語法
+    zh-my: 语法
+    zh-sg: 语法
+    zh-tw: 文法
 ---
-
 # [[Grammar]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Grammar,8091|WD~Grammar,8091]] 

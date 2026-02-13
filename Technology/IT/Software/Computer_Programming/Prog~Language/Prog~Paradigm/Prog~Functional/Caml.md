@@ -1,8 +1,37 @@
 ---
 has_id_wikidata: Q1118153
+dv_has_:
+  name_:
+    az: Caml
+    ca: Caml
+    da: Caml
+    de: Caml
+    en: Caml
+    es: Caml
+    fi: Caml
+    fr: Caml
+    ga: Caml
+    it: CAML
+    kaa: Caml
+    nb: Caml
+    nl: Caml
+    nn: Caml
+    pt: Caml
+    ro: Caml
+    ru: Caml
+    sv: Caml
+    syl: ꠇꠣꠝꠟ
+    tr: Caml
+    uk: Categorical Abstract Machine Language
+    vec: CAML
+    vi: Caml
+    yue: Caml
+    zh: Caml
+aliases:
+- Caml
+- Categorical Abstract Machine Language
+- ꠇꠣꠝꠟ
 ---
-
-
 # [[Caml]] 
 
 #is_a_/ComputerLanguage 

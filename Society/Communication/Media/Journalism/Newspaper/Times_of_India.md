@@ -1,8 +1,37 @@
 ---
 aliases:
-  - The_Times_of_India
-  - Times_of_India
-  - Times of India
+- Tayms of indiya
+- The Times of India
+- The_Times_of_India
+- Times of India
+- Times_of_India
+- Тајмс оф Индија
+- Таймс оф Индиа
+- טיימס אוף אינדיה
+- تايمز أوف إينديا
+- تايمز اوف انديا
+- تایمز هند
+- دي ٽائمز آف انڊيا
+- دی ٹائمز آف انڈیا
+- ٹائمز آف انڈیا
+- द टाइम्स ऑफ इंडिया
+- द टाइम्स ऑफ़ इण्डिया
+- द टाइम्स ओफ इण्डिया
+- दि टाइम्स ऑफ इंडिया
+- দ্য টাইমছ অৱ ইণ্ডিয়া
+- দ্য টাইমস অব ইন্ডিয়া
+- ਦ ਟਾਈਮਜ਼ ਆੱਫ਼ ਇੰਡੀਆ
+- ટાઇમ્સ ઑફ ઇન્ડિયા
+- ଦି ଟାଇମ୍ସ ଅଫ ଇଣ୍ଡିଆ
+- தி டைம்ஸ் ஆஃப் இந்தியா
+- ది టైమ్స్ ఆఫ్ ఇండియా
+- ದಿ ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ
+- ദ ടൈംസ് ഓഫ് ഇന്ത്യ
+- ザ・タイムズ・オブ・インディア
+- 印度时报
+- 印度時報
+- ꠐꠣꠁꠝ꠆ꠍ ꠅꠛ ꠁꠘ꠆ꠒꠤꠀ
+- 타임스 오브 인디아
 has_id_wikidata: Q46807
 newspaper_format: '[[_Standards/WikiData/WD~broadsheet,665319]]'
 political_alignment: '[[_Standards/WikiData/WD~centre,844072]]'
@@ -11,8 +40,8 @@ owned_by: '[[_Standards/WikiData/WD~The_Times_Group,972645]]'
 owner_of: '[[_Standards/WikiData/WD~Indiatimes_shopping,17056167]]'
 different_from: '[[_Standards/WikiData/WD~Times_of_India,124536816]]'
 inception:
-  - 1898-01-01T00:00:00Z
-  - 1838-01-01T00:00:00Z
+- 1898-01-01T00:00:00Z
+- 1838-01-01T00:00:00Z
 country_of_origin: '[[_Standards/WikiData/WD~India,668]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 headquarters_location: '[[_Standards/WikiData/WD~Mumbai,1156]]'
@@ -24,8 +53,8 @@ ISSN_L: 0971-8257
 ISSN: 0971-8257
 Commons_category: The Times of India
 X_Twitter_username:
-  - timesofindia
-  - TOIIndiaNews
+- timesofindia
+- TOIIndiaNews
 title: The Times of India
 quantity: 3321702
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A6%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE%E0%A5%8D%E0%A4%B8%20%E0%A4%91%E0%A4%AB%20%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE.wav
@@ -36,8 +65,80 @@ OCLC_number: 23379369
 domain_name: indiatimes.com
 Instagram_username: thetimesofindia
 Facebook_username: TimesofIndia
+dv_has_:
+  name_:
+    af: The Times of India
+    an: The Times of India
+    ar: تايمز أوف إينديا
+    arz: تايمز اوف انديا
+    as: দ্য টাইমছ অৱ ইণ্ডিয়া
+    ast: The Times of India
+    az: The Times of India
+    ba: The Times of India
+    be-tarask: The Times of India
+    bho: दि टाइम्स ऑफ इंडिया
+    bn: দ্য টাইমস অব ইন্ডিয়া
+    br: The Times of India
+    ca: The Times of India
+    cs: The Times of India
+    cy: The Times of India
+    da: The Times of India
+    de: The Times of India
+    de-at: The Times of India
+    de-ch: The Times of India
+    en: The Times of India
+    en-ca: The Times of India
+    en-gb: The Times of India
+    eo: The Times of India
+    es: The Times of India
+    eu: The Times of India
+    fa: تایمز هند
+    fi: The Times of India
+    fr: The Times of India
+    gl: The Times of India
+    gu: ટાઇમ્સ ઑફ ઇન્ડિયા
+    he: טיימס אוף אינדיה
+    hi: द टाइम्स ऑफ़ इण्डिया
+    hr: The Times of India
+    hy: The Times of India
+    id: The Times of India
+    it: The Times of India
+    ja: ザ・タイムズ・オブ・インディア
+    kn: ದಿ ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ
+    ko: 타임스 오브 인디아
+    ml: ദ ടൈംസ് ഓഫ് ഇന്ത്യ
+    mr: द टाइम्स ऑफ इंडिया
+    ms: The Times of India
+    nb: The Times of India
+    nl: The Times of India
+    nn: The Times of India
+    oc: The Times of India
+    or: ଦି ଟାଇମ୍ସ ଅଫ ଇଣ୍ଡିଆ
+    pa: ਦ ਟਾਈਮਜ਼ ਆੱਫ਼ ਇੰਡੀਆ
+    pl: The Times of India
+    pnb: دی ٹائمز آف انڈیا
+    pt: The Times of India
+    pt-br: The Times of India
+    ru: Таймс оф Индиа
+    sa: द टाइम्स ओफ इण्डिया
+    sd: دي ٽائمز آف انڊيا
+    sl: The Times of India
+    sr: Тајмс оф Индија
+    sv: The Times of India
+    syl: ꠐꠣꠁꠝ꠆ꠍ ꠅꠛ ꠁꠘ꠆ꠒꠤꠀ
+    ta: தி டைம்ஸ் ஆஃப் இந்தியா
+    te: ది టైమ్స్ ఆఫ్ ఇండియా
+    tr: The Times of India
+    uk: The Times of India
+    ur: ٹائمز آف انڈیا
+    uz: Tayms of indiya
+    vi: The Times of India
+    yue: 印度時報
+    zh: 印度时报
+    zh-cn: 印度时报
+    zh-hans: 印度时报
+    zh-hant: 印度時報
 ---
-
 # [[Times_of_India]] 
 
 #is_/same_as :: [[WD~The_Times_of_India,46807]] 

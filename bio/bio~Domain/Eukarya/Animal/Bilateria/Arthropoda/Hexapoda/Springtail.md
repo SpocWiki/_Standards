@@ -1,19 +1,64 @@
 ---
 aliases:
-  - Springtail
-  - Springtails
-  - Collembola
-  - Springtails and allies
+- Ayaqquyruqlar
+- Ayaqquýrıqtılar
+- chvostoskoci
+- Chvostoskoky
+- Colembole
+- Collembola
+- Col·lèmbols
+- Colémbolos
+- Hooghännalised
+- hoppstjärtar
+- hyppyhäntäiset
+- Kolembolas
+- Kolembolos
+- Oyoqdumlilar
+- preabaire
+- Skakači
+- skoczogonki
+- Skokuni
+- Spretthaler
+- Springhaler
+- Springschwänze
+- Springstaarten
+- Springtail
+- Springtails
+- Springtails and allies
+- Sıçrar kuyruklular
+- Tuguaipopo
+- ugróvillások
+- Vostsaltuloj
+- Κολλέμβολα
+- Аяққұйрықтылар
+- вилоскачки
+- земјени болви
+- колемболи
+- коллемболы
+- нагахвосткі
+- Подумҳо
+- קפזנבאים
+- اياققۇيرىقتىلار
+- دمفنری
+- سپرېنگي لکۍ لرونکې ژوې
+- قافزات الذيل
+- ბოლოფეხიანები
+- トビムシ目
+- 弹尾目
+- 弹尾纲
+- 彈尾目
+- 彈尾綱
+- 톡토기
 has_id_wikidata: Q190701
 title: Collembola
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 parent_taxon: '[[_Standards/WikiData/WD~Entognatha,623286]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~Collophore,5147575]]'
 taxon_rank:
-  - '[[_Standards/WikiData/WD~subclass,5867051]]'
-  - '[[_Standards/WikiData/WD~class,37517]]'
+- '[[_Standards/WikiData/WD~subclass,5867051]]'
+- '[[_Standards/WikiData/WD~class,37517]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9563297,9563297]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Collembola,119788786]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -26,8 +71,85 @@ EPPO_Code: 1COLLO
 UMLS_CUI: C1002952
 taxon_common_name: Springtails and allies
 vocalized_name: קְפִיץ-זַנְבָאִים
+dv_has_:
+  name_:
+    ar: قافزات الذيل
+    arz: قافزات الذيل
+    ast: Collembola
+    az: Ayaqquyruqlar
+    be: нагахвосткі
+    be-tarask: нагахвосткі
+    bg: вилоскачки
+    ca: Col·lèmbols
+    ceb: Collembola
+    cs: chvostoskoci
+    da: Springhaler
+    de: Springschwänze
+    el: Κολλέμβολα
+    en: springtail
+    en-ca: Springtail
+    en-gb: Springtail
+    en-us: Collembola
+    eo: Vostsaltuloj
+    es: Collembola
+    et: Hooghännalised
+    eu: Collembola
+    fa: دمفنری
+    fi: hyppyhäntäiset
+    fr: Collembola
+    ga: preabaire
+    gl: Colémbolos
+    gn: Tuguaipopo
+    he: קפזנבאים
+    hr: Skokuni
+    hu: ugróvillások
+    ia: Collembola
+    id: Collembola
+    it: Collembola
+    ja: トビムシ目
+    ka: ბოლოფეხიანები
+    kk: Аяққұйрықтылар
+    kk-arab: اياققۇيرىقتىلار
+    kk-cn: اياققۇيرىقتىلار
+    kk-cyrl: Аяққұйрықтылар
+    kk-kz: Аяққұйрықтылар
+    kk-latn: Ayaqquýrıqtılar
+    kk-tr: Ayaqquýrıqtılar
+    ko: 톡토기
+    la: Collembola
+    lt: Kolembolos
+    lv: Kolembolas
+    mk: земјени болви
+    ms: Springtail
+    mul: Collembola
+    nb: Spretthaler
+    nl: Springstaarten
+    pl: skoczogonki
+    ps: سپرېنگي لکۍ لرونکې ژوې
+    pt: Collembola
+    pt-br: Collembola
+    ro: Colembole
+    ru: коллемболы
+    sk: Chvostoskoky
+    sl: Skakači
+    sq: Collembola
+    sr: Collembola
+    sv: hoppstjärtar
+    tg: Подумҳо
+    tr: Sıçrar kuyruklular
+    uk: колемболи
+    uz: Oyoqdumlilar
+    vi: Collembola
+    war: Collembola
+    yue: 彈尾綱
+    zh: 弹尾纲
+    zh-cn: 弹尾目
+    zh-hans: 弹尾纲
+    zh-hant: 彈尾綱
+    zh-hk: 彈尾目
+    zh-sg: 弹尾目
+    zh-tw: 彈尾目
 ---
-
 # [[Springtail]]
  
 

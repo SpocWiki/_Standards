@@ -1,27 +1,86 @@
 ---
 aliases:
-  - Kathodenstrahlröhre
-  - picture tube
-  - Cathode_Ray_Tube
-  - Cathode Ray Tube
+- bakskautslampi
+- bilderør
+- bildotubo
+- biletrøyr
+- billedrør
+- boriya tî ya katodî
+- Cathode Ray Tube
+- Cathode_Ray_Tube
+- CRT zaslon
+- elektron-şüa borusu
+- elektronkiiretoru
+- elektronnurli trubka
+- elektronstaru lampa
+- feadán ga-chatóideach
+- izpi katodikozko hodi
+- Kathodenstrahlröhre
+- kathodestraalbuis
+- katodinių spindulių vamzdis
+- katodna elektronka
+- katodni monitor
+- katodová trubice
+- katodstrålerör
+- katot ışın tüpü
+- katódsugárcső
+- kineskop
+- kuvaputki
+- obrazovka
+- picture tube
+- posse catodike
+- skramm korzenn katodek
+- tabung sinar katode
+- tib katodik
+- tiub sinar katod
+- Tub a ragg catòdich
+- tub catodic
+- tub de raigs catòdics
+- tube cathodique
+- tubo a raggi catodici
+- tubo de raios catódicos
+- tubo de rayos catódicos
+- tubu de rayos catódicos
+- καθοδικός σωλήνας
+- електронно-лъчева тръба
+- електронно-променева трубка
+- монитор са катодном цеви
+- электронна-прамянёвая трубка
+- электронно-лучевой прибор
+- שפופרת קרן קתודית
+- أنبوب الأشعة المهبطية
+- لامپ پرتو کاتدی
+- کیتھوڈ رے ٹیوب
+- कैथोड किरण नलिका
+- ক্যাথোড রশ্মি নল
+- ਕੈਥੋੜ ਰੇਅ ਟਿਊਬ
+- எதிர்மின் கதிர் குழாய்
+- കാഥോഡ് റേ ട്യൂബ്
+- หลอดรังสีแคโทด
+- ống tia âm cực
+- ブラウン管
+- 映像管
+- 阴极射线管
+- 陰極射線管
+- 음극선관
 has_id_wikidata: Q83913
 named_after: '[[_Standards/WikiData/WD~cathode,175233]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
-  - '[[_Standards/WikiData/WD~display_technology,54006339]]'
+- '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
+- '[[_Standards/WikiData/WD~display_technology,54006339]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 part_of:
-  - '[[_Standards/WikiData/WD~computer_monitor,5290]]'
-  - '[[_Standards/WikiData/WD~television_set,8075]]'
+- '[[_Standards/WikiData/WD~computer_monitor,5290]]'
+- '[[_Standards/WikiData/WD~television_set,8075]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Braun,57077]]'
 OmegaWiki_Defined_Meaning: 639075
 subreddit:
-  - crt
+- crt
 Commons_category: Cathode ray tubes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D%E9%9B%BB%E6%8E%A2%E7%94%A8%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E7%AE%A1.JPG
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cathode%20ray%20tube%20diagram-keys.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cathode%20ray%20tube%20diagram-keys.svg
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/CRT%20cross%20section%20at%20the%20Early%20Television%20Museum%20June%202022.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Magnet%20on%20TV.webm
 UNSPSC_Code: 32141001
@@ -30,7 +89,75 @@ IEV_number: 881-05-33
 P8189: 987007284706405171
 Commons_gallery: Cathode ray tube
 MeSH_tree_code:
-  - E07.305.092
+- E07.305.092
+dv_has_:
+  name_:
+    ar: أنبوب الأشعة المهبطية
+    ast: tubu de rayos catódicos
+    az: elektron-şüa borusu
+    be-tarask: электронна-прамянёвая трубка
+    bg: електронно-лъчева тръба
+    bn: ক্যাথোড রশ্মি নল
+    br: skramm korzenn katodek
+    bs: katodni monitor
+    ca: tub de raigs catòdics
+    cs: katodová trubice
+    da: billedrør
+    de: Kathodenstrahlröhre
+    el: καθοδικός σωλήνας
+    en: cathode ray tube
+    eo: bildotubo
+    es: tubo de rayos catódicos
+    et: elektronkiiretoru
+    eu: izpi katodikozko hodi
+    fa: لامپ پرتو کاتدی
+    fi: kuvaputki
+    fr: tube cathodique
+    ga: feadán ga-chatóideach
+    gl: tubo de raios catódicos
+    gsw: Kathodenstrahlröhre
+    he: שפופרת קרן קתודית
+    hi: कैथोड किरण नलिका
+    hr: CRT zaslon
+    ht: tib katodik
+    hu: katódsugárcső
+    id: tabung sinar katode
+    is: bakskautslampi
+    it: tubo a raggi catodici
+    ja: ブラウン管
+    ko: 음극선관
+    ku: boriya tî ya katodî
+    lt: katodinių spindulių vamzdis
+    lv: elektronstaru lampa
+    ml: കാഥോഡ് റേ ട്യൂബ്
+    ms: tiub sinar katod
+    nb: bilderør
+    nl: kathodestraalbuis
+    nn: biletrøyr
+    pa: ਕੈਥੋੜ ਰੇਅ ਟਿਊਬ
+    pl: kineskop
+    pms: Tub a ragg catòdich
+    pt: tubo de raios catódicos
+    pt-br: tubo de raios catódicos
+    ro: tub catodic
+    ru: электронно-лучевой прибор
+    sh: katodni monitor
+    sk: obrazovka
+    sl: katodna elektronka
+    sr: монитор са катодном цеви
+    sv: katodstrålerör
+    ta: எதிர்மின் கதிர் குழாய்
+    th: หลอดรังสีแคโทด
+    tr: katot ışın tüpü
+    uk: електронно-променева трубка
+    ur: کیتھوڈ رے ٹیوب
+    uz: elektronnurli trubka
+    vi: ống tia âm cực
+    wa: posse catodike
+    wuu: 阴极射线管
+    yue: 映像管
+    zh: 阴极射线管
+    zh-tw: 陰極射線管
 ---
 # [[Cathode_Ray_Tube]] 
 

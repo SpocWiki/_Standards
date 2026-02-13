@@ -1,8 +1,77 @@
 ---
 has_id_wikidata: Q60424165
+dv_has_:
+  name_:
+    ar: آرآرآر
+    as: আৰআৰআৰ
+    bn: আরআরআর
+    cy: RRR
+    de: RRR
+    el: RRR
+    en: RRR
+    en-ca: RRR
+    en-gb: RRR
+    es: RRR
+    eu: RRR (filma)
+    fa: آرآرآر
+    fi: RRR
+    fr: RRR
+    ga: RRR
+    gl: RRR
+    ha: RRR (soundtrack)
+    he: RRR
+    hi: राइज़ रौर रिवोल्ट
+    id: RRR
+    it: RRR
+    ja: RRR
+    kn: ಆರ್ ಆರ್ ಆರ್
+    ko: 'RRR: 라이즈 로어 리볼트'
+    ku: RRR
+    lv: RRR
+    ml: രൗദ്രം രണം രുധിരം
+    mni: ꯑꯥꯔ.ꯑꯥꯔ.ꯑꯥꯔ.(ꯃꯃꯤ ꯀꯨꯝꯍꯩ)
+    mr: आरआरआर
+    ms: RRR
+    ne: आरआरआर
+    nl: RRR
+    or: ଆର୍ ଆର୍ ଆର୍
+    pa: ਆਰਆਰਆਰ
+    pt: RRR (filme)
+    pt-br: RRR
+    ru: RRR
+    sa: रौद्रम् रणम् रुधिरम्
+    sl: RRR
+    sr: RRR
+    ta: இரத்தம் ரணம் ரௌத்திரம்
+    te: ఆర్.ఆర్.ఆర్.
+    th: ก้องเกียรติกบฏ
+    tr: RRR
+    uk: RRR
+    ur: آر آر آر
+    uz: RRR
+    zh: RRR
+aliases:
+- RRR
+- RRR (filma)
+- RRR (filme)
+- RRR (soundtrack)
+- 'RRR: 라이즈 로어 리볼트'
+- آر آر آر
+- آرآرآر
+- आरआरआर
+- राइज़ रौर रिवोल्ट
+- रौद्रम् रणम् रुधिरम्
+- আরআরআর
+- আৰআৰআৰ
+- ਆਰਆਰਆਰ
+- ଆର୍ ଆର୍ ଆର୍
+- இரத்தம் ரணம் ரௌத்திரம்
+- ఆర్.ఆర్.ఆర్.
+- ಆರ್ ಆರ್ ಆರ್
+- രൗദ്രം രണം രുധിരം
+- ก้องเกียรติกบฏ
+- ꯑꯥꯔ.ꯑꯥꯔ.ꯑꯥꯔ.(ꯃꯃꯤ ꯀꯨꯝꯍꯩ)
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **RRR** (subtitled onscreen as Roudram Ranam Rudhiram) 

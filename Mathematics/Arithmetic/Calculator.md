@@ -1,49 +1,287 @@
 ---
-has_time_started: 1960-01-01 
+has_time_started: 1960-01-01
 aliases:
-  - Taschenrechner
-  - Calculator
+- abin lissafi
+- akatkulaajaa
+- akitasopitcikan
+- arifmetik qurilma
+- calcolatrice
+- calcolatris
+- calcołatore
+- calculadera
+- calculadora
+- Calculator
+- calculator de buzunar
+- calculatrice
+- calculatrum
+- cyfrifiannell
+- hesap makinesi
+- hoéstónéó'o
+- ilo nanpa wawa
+- IsiQaqululi
+- jederez
+- kal'kulätor
+- kalkilatris
+- kalkulaator
+- kalkulador
+- kalkulagailu
+- kalkulator
+- kalkulators
+- kalkulatōr
+- kalkulačka
+- kalkulilo
+- kalkulyator
+- kalkùlator
+- kialkiulieta
+- kikokotozi
+- laasabu maaniga
+- laskin
+- llogaritës
+- lommeregner
+- lummaroknari
+- makîneya hesabê
+- mesin hitung
+- mesin itung
+- mesin kira
+- miniräknare
+- mpikajy
+- máy tính bỏ túi
+- mīkini helu
+- nkontabuo afidie
+- rehkendäjä
+- reiknivél
+- rekenmachine
+- Rekkenmasine
+- sakrekenaar
+- skaičiuotuvas
+- számológép
+- Taschenrechner
+- telmesiene
+- xisaabiyaha elektarooniga ah
+- yupana
+- àireamhair
+- áireamhán
+- αριθμομηχανή
+- калкулатор
+- калкулятор
+- калькулятар
+- калькулятор
+- микрокалькулятор
+- электронный калькулятор
+- Հաշվիչներ
+- מחשבון
+- קאלקולאטאר
+- آلة حاسبة
+- الة حاسبه
+- حسابگر
+- شمېرنی
+- ماشین حساب
+- ژمێرەر
+- کَل کُلیٹَر
+- کیلکولیٹر
+- क्यालकुलेटर
+- गणनयंत्र
+- परिकलक
+- ल्याखायेभः
+- কেলকুলেটৰ
+- ক্যালকুলেটর
+- ਕੈਲਕੁਲੇਟਰ
+- கணிப்பான்
+- గణన యంత్రం
+- ಕ್ಯಾಲ್ಕುಲೇಟರ್
+- കാൽക്കുലേറ്റർ
+- ස්න්හල
+- เครื่องคิดเลข
+- ဂဏန်းတွက်စက်
+- ဂဏန်းပေါင်းစက်
+- ካልኩሌተር
+- 电子计算器
+- 算數器
+- 計數機
+- 電卓
+- 電子計數機
+- 電子計算機
+- 계산기
 has_id_wikidata: Q31087
 has_part_s_:
-  - "[[_Standards/WikiData/WD~integrated_circuit,80831]]"
-  - "[[_Standards/WikiData/WD~alkaline_battery,861345]]"
-  - "[[_Standards/WikiData/WD~push_button,870870]]"
-  - "[[_Standards/WikiData/WD~electronic_visual_display,6021804]]"
-used_by: "[[_Standards/WikiData/WD~mathematician,170790]]"
+- '[[_Standards/WikiData/WD~integrated_circuit,80831]]'
+- '[[_Standards/WikiData/WD~alkaline_battery,861345]]'
+- '[[_Standards/WikiData/WD~push_button,870870]]'
+- '[[_Standards/WikiData/WD~electronic_visual_display,6021804]]'
+used_by: '[[_Standards/WikiData/WD~mathematician,170790]]'
 source_of_energy:
-  - "[[_Standards/WikiData/WD~electrical_energy,206799]]"
-  - "[[_Standards/WikiData/WD~solar_energy,40015]]"
-digital_equivalent_of: "[[_Standards/WikiData/WD~mechanical_calculator,211586]]"
+- '[[_Standards/WikiData/WD~electrical_energy,206799]]'
+- '[[_Standards/WikiData/WD~solar_energy,40015]]'
+digital_equivalent_of: '[[_Standards/WikiData/WD~mechanical_calculator,211586]]'
 has_use:
-  - "[[_Standards/WikiData/WD~counting,247154]]"
-  - "[[_Standards/WikiData/WD~calculation,622821]]"
-  - "[[_Standards/WikiData/WD~evaluation,1379672]]"
-  - "[[_Standards/WikiData/WD~computation,12525525]]"
+- '[[_Standards/WikiData/WD~counting,247154]]'
+- '[[_Standards/WikiData/WD~calculation,622821]]'
+- '[[_Standards/WikiData/WD~evaluation,1379672]]'
+- '[[_Standards/WikiData/WD~computation,12525525]]'
 uses:
-  - "[[_Standards/WikiData/WD~order_of_operations,845118]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
+- '[[_Standards/WikiData/WD~order_of_operations,845118]]'
+- '[[_Standards/WikiData/WD~function,11348]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~calculating_tool,2135246]]"
-  - "[[_Standards/WikiData/WD~electronic_device,2858615]]"
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_calculator,14336244]]"
-has_characteristic: "[[_Standards/WikiData/WD~calculator_model,19799634]]"
-different_from: "[[_Standards/WikiData/WD~computer,68]]"
+- '[[_Standards/WikiData/WD~calculating_tool,2135246]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_calculator,14336244]]'
+has_characteristic: '[[_Standards/WikiData/WD~calculator_model,19799634]]'
+different_from: '[[_Standards/WikiData/WD~computer,68]]'
 Nomenclature_for_Museum_Cataloging:
-  - "10452"
-  - "10450"
-OmegaWiki_Defined_Meaning: "352179"
+- 10452
+- 10450
+OmegaWiki_Defined_Meaning: 352179
 start_time: 1960-01-01T00:00:00Z
 Dewey_Decimal_Classification:
-  - "510.284"
-  - "681.145"
+- 510.284
+- 681.145
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calculadora%20cient%C3%ADfica%20Famaprem%20CPC-400.jpg
 IEV_number: 171-04-12
 Commons_gallery: Calculator
 Commons_category: Calculators
-Unicode_character: 🖩
+Unicode_character: "\U0001F5A9"
+dv_has_:
+  name_:
+    af: sakrekenaar
+    ak: nkontabuo afidie
+    am: ካልኩሌተር
+    an: calculadera
+    ar: آلة حاسبة
+    arz: الة حاسبه
+    as: কেলকুলেটৰ
+    ast: calculadora
+    atj: akitasopitcikan
+    az: kalkulyator
+    azb: ماشین حساب
+    be: калькулятар
+    be-tarask: калькулятар
+    bew: mesin itung
+    bg: калкулатор
+    bn: ক্যালকুলেটর
+    br: jederez
+    bs: kalkulator
+    ca: calculadora
+    chy: hoéstónéó'o
+    ckb: ژمێرەر
+    cs: kalkulačka
+    csb: kalkùlator
+    cv: калькулятор
+    cy: cyfrifiannell
+    da: lommeregner
+    dag: laasabu maaniga
+    de: Taschenrechner
+    el: αριθμομηχανή
+    en: calculator
+    eo: kalkulilo
+    es: calculadora
+    et: kalkulaator
+    eu: kalkulagailu
+    fa: ماشین حساب
+    fi: laskin
+    fj: calculator
+    fo: lummaroknari
+    fr: calculatrice
+    fy: Rekkenmasine
+    ga: áireamhán
+    gan: 算數器
+    gcr: kalkilatris
+    gd: àireamhair
+    gl: calculadora
+    guc: akatkulaajaa
+    ha: abin lissafi
+    haw: mīkini helu
+    he: מחשבון
+    hi: परिकलक
+    hr: kalkulator
+    hu: számológép
+    hy: Հաշվիչներ
+    ia: calculator
+    id: mesin hitung
+    io: kalkulilo
+    is: reiknivél
+    it: calcolatrice
+    ja: 電卓
+    jam: kialkiulieta
+    jv: kalkulator
+    kk: микрокалькулятор
+    kn: ಕ್ಯಾಲ್ಕುಲೇಟರ್
+    ko: 계산기
+    ks: کَل کُلیٹَر
+    ku: makîneya hesabê
+    ky: калькулятор
+    la: calculatrum
+    lmo: calcolatris
+    lt: skaičiuotuvas
+    lv: kalkulators
+    mag: परिकलक
+    mg: mpikajy
+    mhr: калькулятор
+    mk: калкулатор
+    ml: കാൽക്കുലേറ്റർ
+    mr: गणनयंत्र
+    ms: mesin kira
+    mwl: calculadora
+    my: ဂဏန်းတွက်စက်
+    nb: kalkulator
+    nds-nl: telmesiene
+    ne: क्यालकुलेटर
+    new: ल्याखायेभः
+    nl: rekenmachine
+    nn: kalkulator
+    pa: ਕੈਲਕੁਲੇਟਰ
+    pam: calculator
+    pl: kalkulator
+    pms: calcolatris
+    pnb: کیلکولیٹر
+    ps: شمېرنی
+    pt: calculadora
+    pt-br: calculadora
+    qu: yupana
+    rki: ဂဏန်းပေါင်းစက်
+    ro: calculator de buzunar
+    ru: электронный калькулятор
+    sh: kalkulator
+    si: ස්න්හල
+    sk: kalkulačka
+    sl: kalkulator
+    so: xisaabiyaha elektarooniga ah
+    sq: llogaritës
+    sr: калкулатор
+    sr-ec: калкулатор
+    sv: miniräknare
+    sw: kikokotozi
+    szl: kalkulatōr
+    ta: கணிப்பான்
+    te: గణన యంత్రం
+    tg: калкулятор
+    tg-cyrl: калкулятор
+    th: เครื่องคิดเลข
+    tl: kalkulador
+    tok: ilo nanpa wawa
+    tr: hesap makinesi
+    uk: калькулятор
+    ur: حسابگر
+    uz: arifmetik qurilma
+    vec: calcołatore
+    vep: kal'kulätor
+    vi: máy tính bỏ túi
+    vro: rehkendäjä
+    war: kalkulador
+    wuu: 电子计算器
+    yi: קאלקולאטאר
+    yue: 計數機
+    zh: 电子计算器
+    zh-cn: 电子计算器
+    zh-hans: 电子计算器
+    zh-hant: 電子計算機
+    zh-hk: 電子計數機
+    zh-mo: 電子計數機
+    zh-my: 电子计算器
+    zh-sg: 电子计算器
+    zh-tw: 電子計算機
+    zu: IsiQaqululi
 ---
-
 # [[Calculator]] 
 
 #is_/same_as :: [[../../WikiData/WD~Calculator,31087|WD~Calculator,31087]] 
