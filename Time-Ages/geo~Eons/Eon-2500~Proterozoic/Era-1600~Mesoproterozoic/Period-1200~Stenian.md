@@ -113,10 +113,10 @@ sRGB_color_hex_triplet: FED99A
 
 #is_a_/time_/Period 
 
- has_duration_years = `$= dv.current().__has_duration_years` 
+ has_duration_years = `= this.dv_has_duration_years` 
 
- has_previous_item = `$= dv.current().__has_previous_item` 
- has_next_item = `$= dv.current().__has_next_item` 
+ has_previous_item = `= this.dv_has_previous_item` 
+ has_next_item = `= this.dv_has_next_item` 
 #is_/same_as :: [[WD~Stenian,776333]] 
 
 ## #has_/text_of_/abstract 
@@ -137,35 +137,35 @@ sRGB_color_hex_triplet: FED99A
 > [Wikipedia](https://en.wikipedia.org/wiki/Stenian) 
 
 
- has_label_bg = `$= dv.current().__has_label_bg` 
- has_label_cs = `$= dv.current().__has_label_cs` 
- has_label_da = `$= dv.current().__has_label_da` 
- has_label_de = `$= dv.current().__has_label_de` 
- has_label_es = `$= dv.current().__has_label_es` 
- has_label_et = `$= dv.current().__has_label_et` 
- has_label_fi = `$= dv.current().__has_label_fi` 
- has_label_fr = `$= dv.current().__has_label_fr` 
- has_label_hu = `$= dv.current().__has_label_hu` 
- has_label_it = `$= dv.current().__has_label_it` 
- has_label_ja = `$= dv.current().__has_label_ja` 
- has_label_lt = `$= dv.current().__has_label_lt` 
- has_label_nl = `$= dv.current().__has_label_nl` 
- has_label_no = `$= dv.current().__has_label_no` 
- has_label_pl = `$= dv.current().__has_label_pl` 
- has_label_pt = `$= dv.current().__has_label_pt` 
- has_label_sk = `$= dv.current().__has_label_sk` 
- has_label_sl = `$= dv.current().__has_label_sl` 
- has_label_sv = `$= dv.current().__has_label_sv` 
- has_label_zh = `$= dv.current().__has_label_zh` 
+ has_label_bg = `= this.dv_has_label_bg` 
+ has_label_cs = `= this.dv_has_label_cs` 
+ has_label_da = `= this.dv_has_label_da` 
+ has_label_de = `= this.dv_has_label_de` 
+ has_label_es = `= this.dv_has_label_es` 
+ has_label_et = `= this.dv_has_label_et` 
+ has_label_fi = `= this.dv_has_label_fi` 
+ has_label_fr = `= this.dv_has_label_fr` 
+ has_label_hu = `= this.dv_has_label_hu` 
+ has_label_it = `= this.dv_has_label_it` 
+ has_label_ja = `= this.dv_has_label_ja` 
+ has_label_lt = `= this.dv_has_label_lt` 
+ has_label_nl = `= this.dv_has_label_nl` 
+ has_label_no = `= this.dv_has_label_no` 
+ has_label_pl = `= this.dv_has_label_pl` 
+ has_label_pt = `= this.dv_has_label_pt` 
+ has_label_sk = `= this.dv_has_label_sk` 
+ has_label_sl = `= this.dv_has_label_sl` 
+ has_label_sv = `= this.dv_has_label_sv` 
+ has_label_zh = `= this.dv_has_label_zh` 
 
- has_abbreviation = `$= dv.current().__has_abbreviation` 
+ has_abbreviation = `= this.dv_has_abbreviation` 
 
- has_time_started = `$= dv.current().__has_time_started` 
- has_time_stopped = `$= dv.current().__has_time_stopped` 
+ has_time_started = `= this.dv_has_time_started` 
+ has_time_stopped = `= this.dv_has_time_stopped` 
 
     sh:order 162 
 
- has_text_of_color = `$= dv.current().__has_text_of_color` 
+ has_text_of_color = `= this.dv_has_text_of_color` 
 
 ## All Contents
 
