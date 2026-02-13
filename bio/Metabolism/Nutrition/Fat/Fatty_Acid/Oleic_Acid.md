@@ -800,7 +800,7 @@ dv_is_same_as:
 ---
 # [[Oleic_Acid]] 
 
- has_formula_structural = `$= dv.current().__has_formula_structural` 
+ has_formula_structural = `= this.dv_has_formula_structural` 
 #is_/same_as :: [[WD~Oleic_Acid,207688]] 
 
 ## #has_/text_of_/abstract 

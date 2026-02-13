@@ -230,10 +230,10 @@ Macey, 2005).
 
 -----------------------
 ![](Bolitoglossinae/Bolitoglossa_lincolni.jpg)
- scientific_name = `$= dv.current().__scientific_name` 
- location = `$= dv.current().__location` 
- specimen_condition = `$= dv.current().__specimen_condition` 
- copyright = `$= dv.current().__copyright` 
+ scientific_name = `= this.dv_scientific_name` 
+ location = `= this.dv_location` 
+ specimen_condition = `= this.dv_specimen_condition` 
+ copyright = `= this.dv_copyright` 
 
 
 ## Confidential Links & Embeds: 

@@ -498,11 +498,11 @@ Tag Instances like this:
 
 An organization such as a [[Organization/Educational_Organization/School|school]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/Company/Corporation|corporation]], club, etc.
 
- has_parent_class = `$= dv.current().__has_parent_class` 
+ has_parent_class = `= this.dv_has_parent_class` 
 
- has_child_class = `$= dv.current().__has_child_class` 
+ has_child_class = `= this.dv_has_child_class` 
 
- has_properties = `$= dv.current().__has_properties` 
+ has_properties = `= this.dv_has_properties` 
 
 #is_/same_as :: [[../../../WikiData/WD~Organization,43229|WD~Organization,43229]] 
 
